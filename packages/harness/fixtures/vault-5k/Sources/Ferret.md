@@ -3,7 +3,7 @@
 FERRET, a domesticated, and frequently albino breed of quadruped,
 derived from the wild polecat (_Putorius foetidus_, or _P. putorius_),
 which it closely resembles in size, form, and habits, and with which it
-interbreeds. It differs in the colour of its fur, which is usually
+interbreeds. It differs in the colour of its [[Fur|fur]], which is usually
 yellowish-white, and of its eyes, which are pinky-red. The
 "polecat-ferret" is a brown breed, apparently the product of the
 above-mentioned cross. The ferret attains a length of about 14 in.,
@@ -24,7 +24,7 @@ but it has been known in England for at least 600 years.
 
 The ferret should be kept in dry, clean, well-ventilated hutches, and
 fed twice daily on bread, milk, and meat, such as rabbits' and fowls'
-livers. When used to hunt rabbits it is provided with a muzzle, or,
+livers. When used to [[Hunt|hunt]] rabbits it is provided with a muzzle, or,
 better and more usual, a cope, made by looping and knotting twine about
 the head and snout, in order to prevent it killing its quarry, in which
 case it would gorge itself and go to sleep in the hole. As the ferret

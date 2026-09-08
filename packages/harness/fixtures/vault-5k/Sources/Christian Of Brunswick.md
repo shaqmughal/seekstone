@@ -13,7 +13,7 @@ during the earlier part of the Thirty Years' War, a younger son of Henry
 Julius, duke of Brunswick-Wolfenbüttel, was born at Gröningen on the
 20th of September 1599. Having succeeded his father as "bishop" of
 Halberstadt in 1616, he obtained some experience of warfare under
-Maurice, prince of Orange, in the Netherlands. Raising an army he
+[[Maurice]], prince of Orange, in the Netherlands. Raising an army he
 entered the service of Frederick V., elector palatine of the Rhine, just
 after that prince had been driven from Bohemia; glorying in his
 chivalrous devotion to Frederick's wife Elizabeth, he attacked the lands
@@ -23,7 +23,7 @@ dismissed from Frederick's service, he entered that of the United
 Provinces, losing an arm at the battle of Fleurus, a victory he did much
 to win. In 1623 he gathered an army and broke into lower Saxony, but was
 beaten by Tilly at Stadtlohn and driven back to the Netherlands. When in
-1625 Christian IV., king of Denmark, entered the arena of the war, he
+1625 Christian IV., king of Denmark, entered the [[Arena|arena]] of the war, he
 took the field again in the Protestant interest, but after some
 successes he died at Wolfenbüttel on the 16th of June 1626. Christian,
 who loved to figure as "the friend of God, the enemy of the priests," is

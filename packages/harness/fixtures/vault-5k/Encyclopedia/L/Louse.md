@@ -1,13 +1,13 @@
 # Louse
 
 LOUSE (O. Eng. _lús_, cf. Du. _luis_, Ger. _Laus_, Dan. and Swed.
-_lus_), a term applied to small wingless insects, parasitic upon birds
+_lus_), a term applied to small wingless [[Insect|insects]], parasitic upon birds
 and mammals, and belonging strictly speaking to the order Anoplura,
-often included among the Hemiptera, though the term is frequently
+often included among the [[Hemiptera]], though the term is frequently
 extended to the bird-lice constituting the suborder Mallophaga, formerly
 included among the Neuroptera. Both agree in having nothing that can be
 termed a metamorphosis; they are active from the time of their exit from
-the egg to their death, gradually increasing in size, and undergoing
+the [[Egg|egg]] to their death, gradually increasing in size, and undergoing
 several moults or changes of skin. The true lice (or Anoplura) are found
 on the bodies of many Mammalia, and occasion by their presence
 intolerable irritation. The number of genera is few. Two species of
@@ -35,7 +35,7 @@ The bird-lice (Mallophaga) are far more numerous in species, although
 the number of genera is comparatively small. With the exception of the
 genus _Trichodectes_, the various species of which are found on
 mammalia, all infest birds (as their English names implies) (see
-BIRD-LOUSE). Louse-infestation is known as phthiriasis in medical and
+[[Bird-Louse|BIRD-LOUSE]]). Louse-infestation is known as phthiriasis in medical and
 veterinary terminology.
 
   AUTHORITIES.--The following works are the most important: Denny,

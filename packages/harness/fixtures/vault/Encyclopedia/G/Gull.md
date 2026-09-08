@@ -21,7 +21,7 @@ the single genus _Rhynchops_, the skimmers; but there seems no strong
 reason why the former should not be referred to the _Larinae_ and the
 latter to the _Sterninae_.
 
-Taking the gulls in their restricted sense, Howard Saunders, who has
+Taking the gulls in their restricted sense, [[Howard]] Saunders, who has
 subjected the group to a rigorous revision (_Proc. Zool. Society_, 1878,
 pp. 155-211), admits forty-nine species of them, which he places in five
 genera instead of the many which some prior investigators had sought to
@@ -29,19 +29,19 @@ establish. Of the genera recognized by him, _Pagophila_ and
 _Rhodostethia_ have but one species each, _Rissa_ and _Xema_ two, while
 the rest belong to _Larus_. The _Pagophila_ is the so-called ivory-gull,
 _P. eburnea_, names which hardly do justice to the extreme whiteness of
-its plumage, to which its jet-black legs offer a strong contrast. The
+its plumage, to which its jet-black [[Leg|legs]] offer a strong contrast. The
 young, however, are spotted with black. An inhabitant of the most
 northern seas, examples, most commonly young birds of the year, find
 their way in winter to more temperate shores. Its breeding-place has
-seldom been discovered, and the first of its eggs ever seen by
-ornithologists was brought home by Sir L. M'Clintock in 1853 from Cape
+seldom been discovered, and the first of its [[Egg|eggs]] ever seen by
+ornithologists was brought home by Sir L. [[M'Clintock]] in 1853 from Cape
 Krabbe (_Journ. R. Dubl. Society_, i. 60, pl. 1); others were
 subsequently obtained by Dr Malmgren in Spitsbergen. Of the species of
 _Rissa_, one is the abundant and well-known kittiwake, _R. tridactyla_,
 of circumpolar range, breeding, however, also in comparatively low
-latitudes, as on the coasts of Britain, and in winter frequenting
+[[Latitude|latitudes]], as on the coasts of Britain, and in winter frequenting
 southern waters. The other is _R. brevirostris_, limited to the North
-Pacific, between Alaska and Kamchatka. The singular fact requires to be
+Pacific, between Alaska and [[Kamchatka]]. The singular fact requires to be
 noticed that in both these species the hind toe is generally deficient,
 but that examples of each are occasionally found in which this
 functionless member has not wholly disappeared. We have then the genus
@@ -51,9 +51,9 @@ some species the adults assume a dark-coloured head every
 breeding-season, in others any trace of dark colour is the mark of
 immaturity. The larger species prey fiercely on other kinds of birds,
 while the smaller content themselves with a diet of small animals, often
-insects and worms. But however diverse be the appearance, structure or
+[[Insect|insects]] and worms. But however diverse be the appearance, structure or
 habits of the extremities of the series of species, they are so closely
-connected by intermediate forms that it is hard to find a gap between
+connected by intermediate forms that it is hard to find a [[Gap|gap]] between
 them that would justify a generic division. Forty-three species of this
 genus are recognized by Saunders. About fifteen belong to Europe and
 fourteen to North America, of which (excluding stragglers) some five
@@ -63,9 +63,9 @@ wide range, others very much the reverse, as witness _L. fuliginosus_,
 believed to be confined to the Galapagos, and _L. scopulinus_ and _L.
 bulleri_ to New Zealand,--the last indeed perhaps only to the South
 Island. The largest species of the group are the glaucous gull and
-greater black-backed gull, _L. glaucus_ and _L. marinus_, of which the
+greater black-backed gull, _L. glaucus_ and _L. [[Marinus|marinus]]_, of which the
 former is circumpolar, and the latter nearly so--not being hitherto
-found between Labrador and Japan. The smallest species is the European
+found between Labrador and [[Japan]]. The smallest species is the European
 _L. minutus_, though the North American _L. Philadelphia_ does not much
 exceed it in size. Many of the gulls congregate in vast numbers to
 breed, whether on rocky cliffs of the sea-coast or on healthy islands
@@ -77,7 +77,7 @@ carefully protected. Ross's or the roseate gull, _Rhodostethia rosea_,
 forms a well-marked genus, distinguished not so much by the pink tint of
 its plumage (for that is found in other species) but by its small
 dove-like bill and wedge-shaped tail. It is an exceedingly scarce bird,
-and beyond its having an Arctic habitat, little has yet been ascertained
+and beyond its having an [[Arctic]] habitat, little has yet been ascertained
 about it. More rare still is one of the species of _Xema_, _X.
 furcatum_, of which only two specimens, both believed to have come from
 the Galapagos, have been seen. Its smaller congener Sabine's gull, _X.

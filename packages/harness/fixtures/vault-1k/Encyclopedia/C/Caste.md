@@ -120,7 +120,7 @@ as a general maxim that the occupation appointed for each tribe is
 entitled merely to a preference. Every profession, with few exceptions,
 is open to every description of persons; and the discouragement arising
 from religious prejudices is not greater than what exists in Great
-Britain from the effects of municipal and corporation laws. In Bengal
+Britain from the effects of municipal and corporation laws. In [[Bengal]]
 the numbers of people actually willing to apply to any particular
 occupation are sufficient for the unlimited extension of any
 manufacture." This was corroborated by Elphinstone,[8] who states that,
@@ -161,11 +161,11 @@ conduct springing from religious faith." It is not till after the whole
 human race has fallen into sin that separate social duties are assigned
 to the classes. The same hymn speaks of the evolution of qualities of
 Brahma. Sattva, or goodness, sprang from the mouth of Brahma; Rajas, or
-passion, came from his breast; Tamas, or darkness, from his thighs;
+passion, came from his [[Breast|breast]]; Tamas, or darkness, from his thighs;
 others he created from his feet. For each one of these gunas, or
 primitive differences of quality, a thousand couples, male and female,
 have been created, to which the distinct heavens, or places of
-perfection of Prajapati, Indra, Maruts and Gandharvas are assigned. To
+perfection of Prajapati, Indra, [[Maruts]] and Gandharvas are assigned. To
 the gunas are related the yugas, or ages: 1st, the Krita, or glorious
 age of truth and piety, in which apparently no distinctions, at least no
 grades of excellence were known; 2nd, the Treta, or period of knowledge;
@@ -246,7 +246,7 @@ finds that the military class properly occupy the second place. This
 arrangement he apparently contemplates as at no time either necessary or
 wholesome, and as finally destroyed by the selfish jealousies of caste,
 and by the degradations which the multiplication of trades made
-inevitable. Heeren[11] and Klaproth have contended that the division
+inevitable. Heeren[11] and [[Klaproth]] have contended that the division
 into castes is founded on an original diversity of race, and that the
 higher castes are possessed of superior beauty. The clear complexion and
 regular features of the Brahmans are said to distinguish them as
@@ -366,7 +366,7 @@ elephant; a Vaisya by his kine, grain or goods; a Sudra by all the most
 frightful penalties of perjury. The Hindu mind is fertile in oaths;
 before the caste assembly the Dhurm, or caste custom, is sometimes
 appealed to, or the feet of Brahma, or some cow or god or sacred river,
-or the bel (the sacred creeper), or the roots of the turmeric plant. The
+or the [[Bel|bel]] (the sacred creeper), or the roots of the turmeric plant. The
 castes are also distinguished by their modes of marriage. Those peculiar
 to Brahmans seem to be--1st, Brahma, when a daughter, clothed only with
 a single robe, is given to a man learned in the Veda whom her father has
@@ -439,7 +439,7 @@ dei Nobili did everything but become Brahmans in order to convert the
 south of India--they put on a dress of cavy or yellow colour, they made
 frequent ablutions, they lived on vegetables and milk, they put on their
 foreheads the sandalwood paste used by the Brahmans--and Gregory XV.
-published a bull sanctioning caste regulations in the Christian churches
+published a [[Bull|bull]] sanctioning caste regulations in the Christian churches
 of India. The Danish mission of Tranquebar, the German mission of the
 heroic Schwarz, whose headquarters were Tanjore, also permitted caste to
 be retained by their followers. Even the priests of Buddha, whose life
@@ -473,7 +473,7 @@ are performed for her; if she have a son, he is bound to maintain her.
 It is remarkable that the professional concubinage of the dancing-girl
 does not involve degradation, if it be with a person of the same caste.
 This suggests that whatever may be the function of caste, it is not a
-safe guardian of public morality. The rules as to prohibited degrees in
+safe [[Guardian|guardian]] of public morality. The rules as to prohibited degrees in
 marriage used to be very strict, but they are now relaxed. An act of
 1856 legalized remarriage by widows in all the castes, with a
 conditional forfeiture of the deceased husband's estate, unless the
@@ -500,7 +500,7 @@ of 1850, _loss_ of caste no longer affects the capacity to inherit or to
 be adopted. In cases of succession _ab intestato_ on failure of the
 preceptor, pupil, and fellow-student (heirs called by the Hindu law
 after relatives), a priest, or any Brahman, many succeed. Where a Sudra
-is the only son of a Brahman, the Sapinda, or next of kin, would take
+is the only son of a Brahman, the Sapinda, or next of [[Kin|kin]], would take
 two-thirds of the inheritance; where he is the only son of any other
 twice-born father, the Sapinda would take one-half. Possibly, the rule
 of equal division among sons of equal caste did not at first apply to
@@ -519,11 +519,11 @@ castes, though in one sense non-existent, still control Hindu
 succession.
 
 With regard to Persia the _Zend Avesta_ speaks of a fourfold division of
-the ancient inhabitants of Iran into priests, warriors, agriculturists
+the ancient inhabitants of [[Iran]] into priests, warriors, agriculturists
 and artificers; and also of a sevenfold division corresponding to the
 seven amschespands, or servants of Ormuzd. This was no invention of
 Zoroaster, but a tradition from the golden age of Jemshid or Diemschid.
-The priestly caste of Magi was divided into Herbeds or disciples, Mobeds
+The priestly caste of Magi was divided into Herbeds or [[Disciple|disciples]], Mobeds
 or masters, and Destur Mobeds or complete masters. The last-named were
 alone entitled to read the liturgies of Ormuzd; they alone predicted the
 future and carried the sacred _costi_, or girdle, _havan_, or cup, and
@@ -616,7 +616,7 @@ the Egyptians" (Gen. xlvi. 34).
   caste in India. See also, besides the works mentioned in the text, Sir
   Denzil Ibbetson's _Report on the Punjab Census_ (1881); W. Cropke,
   _Things Indian_ (1905) and other books by this author on Indian
-  religion and caste; Senart, _Les Castes dans l'Inde_ (1896); Jogendra
+  religion and caste; Senart, _Les Castes [[Dan|dans]] l'Inde_ (1896); Jogendra
   Nath Bhattacharya, _Hindu Castes and Sects_ (1896). There is an
   interesting chapter on the subject in Sidney Low's _Vision of India_
   (1906). See also INDIA, INDIAN LAW, and HINDUISM.
@@ -649,7 +649,7 @@ FOOTNOTES:
     rangakh_" contained fourteen classes. The subject is treated of in
     the 1600 articles of the ninth volume of the Russian Code _Svod
     Zakonov_. The Russian Nobility, though deprived of their exemptions
-    from conscription, personal taxation and corporal punishment, still
+    from conscription, personal taxation and [[Corporal Punishment|corporal punishment]], still
     retain many advantages in the public service.
 
   [6] Juarros, _Hist. of Guatemala_, Tr. (London, 1823).
@@ -746,7 +746,7 @@ FOOTNOTES:
 
   [22] Strabo, _Ind._ sec. 59.
 
-  [23] Arrian, _Indic._ c. 11, 12; Diod. Sic. ii. c. 40, 41; and Strabo
+  [23] [[Arrian]], _Indic._ c. 11, 12; Diod. Sic. ii. c. 40, 41; and Strabo
     xv. 1.
 
   [24] Irving, _Theory and Practice of Caste_ (London, 1859).

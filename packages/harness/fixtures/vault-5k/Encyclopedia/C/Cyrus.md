@@ -13,21 +13,21 @@ _Koresh_), the Latinized form of a Persian name borne by two prominent
 members of the Achaemenid house.
 
 1. CYRUS THE GREAT, the founder of the Persian empire, was the son of
-Cambyses I. His family belonged to the clan of the Achaemenidae--in the
+[[Cambyses]] I. His family belonged to the clan of the Achaemenidae--in the
 inscription on the pillars and columns of the palace of Pasargadae
 (Murghab) he says: "I am Cyrus the king, the Achaemenid"--the principal
 clan ([Greek: phretre]) of the Persian tribe of the Pasargadae (q.v.).
 But in his proclamation to the Babylonians (V.R. 35; Sir H. Rawlinson,
 _Journal of the R. Asiat. Soc._, n.s., xii., 1880; Schrader,
-_Keilinschriftliche Bibliothek_, iii. 2, 120 ff.; Hagen, in Delitzsch
-and Haupt, _Beitrage zur Assyriologie_, ii., 1894, where the chronicle
+_Keilinschriftliche Bibliothek_, iii. 2, 120 ff.; [[Hagen]], in Delitzsch
+and [[Haupt]], _Beitrage zur Assyriologie_, ii., 1894, where the chronicle
 of Nabonidus is also published anew with a much improved translation) he
 calls his ancestors, Teispes, Cyrus I. and Cambyses I., "kings of
 Anshan," and the same title is given to him in the inscriptions and in
-the chronicle of Nabonidus of Babylon before his victory over Astyages.
+the chronicle of Nabonidus of [[Babylon]] before his victory over Astyages.
 Anshan is a district of Elam or Susiana, the exact position of which is
 still subject to much discussion. As we know from Jeremiah xlix. 34 ff.
-(cf. Ezekiel xxxii. 24 ff.) that the Elamites suffered a heavy defeat in
+(cf. [[Ezekiel]] xxxii. 24 ff.) that the Elamites suffered a heavy defeat in
 596 B.C., it is very probable that the Pasargadian dynast Teispes
 conquered Anshan in this year. Modern authors have often supposed that
 Cyrus and his ancestors were in reality Elamites; but this is contrary
@@ -43,8 +43,8 @@ inscription (Cylinder from Abu Habba, VR. 64, Schrader, _Keilinschriftl.
 Bibliothek_, iii. 2, 96), where he mentions his rebellion against
 Astyages, calls Cyrus "king of Anshan, his (i.e. Astyages') small
 servant (vassal)." From this inscription we learn that the rebellion of
-Cyrus (who seems to have become king in 558 B.C., as Herod. i. 214 gives
-him a reign of 29 years) began in 553 B.C., and from the annals that in
+Cyrus (who seems to have become king in 558 B.C., as [[Herod]]. i. 214 gives
+him a reign of 29 years) began in 553 B.C., and from the [[Annals|annals]] that in
 550 Astyages marched against Cyrus, but was defeated; his troops
 revolted against him, he was taken prisoner, and Cyrus occupied and
 plundered Ecbatana. The relation of Ctesias (preserved by Nic. Dam. fr.
@@ -67,10 +67,10 @@ mountains by his grandfather on account of an oracle, but suckled by a
 dog (a sacred animal of the Iranians) and educated by a shepherd; i.e.
 the myth which we know from the stories of Oedipus, Perseus, Telephus,
 Pelias and Neleus, Romulus, Sargon of Agade, Moses, the Indian hero
-Krishna, and many others, has been transferred to the founder of the
+[[Krishna]], and many others, has been transferred to the founder of the
 Persian empire. At the same time, the rule of Cyrus and the Persians is
 legitimated by his family connexion with Astyages. This account is
-partly preserved in Justin i. 4. 10 (probably from Charon of Lampsacus)
+partly preserved in Justin i. 4. 10 (probably from [[Charon]] of Lampsacus)
 and in Aelian, _Var. Hist._ xiv. 42, and alluded to by Herodotus i. 95
 and 122. The second account, which Herodotus follows, is a rationalized
 version of the first, where the dog is changed into a woman (the wife of
@@ -117,13 +117,13 @@ him. Of great value are a short notice in the fragments of Berossus and
 another in the Old Testament. The original sources are very scanty,
 besides the cylinder containing his proclamation to the Babylonians we
 possess only a great many dated private documents from Babylon. These
-serve to fix the chronology, which is here as everywhere quite in
+serve to fix the [[Chronology|chronology]], which is here as everywhere quite in
 accordance with the dates of the canon of Ptolemy.
 
 Soon after the conquest of the Median empire, Cyrus was attacked by a
 coalition of the other powers of the East, Babylon, Egypt and Lydia,
 joined by Sparta, the greatest military power of Greece. In the spring
-of 546 Croesus of Lydia began the attack and advanced into Cappadocia,
+of 546 [[Croesus]] of Lydia began the attack and advanced into [[Cappadocia]],
 while the other powers were still gathering their troops. But Cyrus
 anticipated them; he defeated Croesus and followed him to his capital.
 In the autumn of 546 Sardis was taken and the Lydian kingdom became a
@@ -146,7 +146,7 @@ Gobryas is preserved also by Xenophon, _Cyrop._ vii. 4. 24); it is
 possible that the Chaldaean priests, who were hostile to Nabonidus,
 betrayed the town. In a proclamation issued after his victory Cyrus
 guarantees life and property to all the inhabitants and designates
-himself as the favourite of Marduk, the great local god (Bel,
+himself as the favourite of Marduk, the great local god ([[Bel]],
 Bel-Merodak) of Babel. It is very odd that modern authors have
 considered this proclamation as inconsistent with the Zoroastrian creed.
 
@@ -156,12 +156,12 @@ Babylonian provinces in Syria fell to the Persians; in 538 Cyrus granted
 to the Jews, whom Nebuchadrezzar had transported to Babylonia, the
 return to Palestine and the rebuilding of Jerusalem and its temple (see
 JEWS, S 19). It is probable that Cyrus had fought more than one war
-against the peoples of eastern Iran; according to Ctesias he had, before
+against the peoples of eastern [[Iran]]; according to Ctesias he had, before
 the war with Croesus, defeated the Bactrians and the Sacae (in Ferghana;
 their king Amorges is the eponym of the Amyrgian Sacae, Herod. vii. 64,
 called by Darius _Haumavarka_); and the historians of Alexander mention
 a march through Gedrosia, where he lost his whole army but seven men
-(Arrian vi. 24. 2; Strabo xv. 722), a tribe Ariaspae on the Etymandros
+([[Arrian]] vi. 24. 2; Strabo xv. 722), a tribe Ariaspae on the Etymandros
 (in Sijistan), who, on account of the support which they gave him
 against the Scythians, were called Euergetae (Arrian iii. 27. 4; Diod.
 xvii. 81; Curt. vii. 3. 1), and a town Cyropolis, founded by him on the
@@ -169,14 +169,14 @@ Jaxartes (Arrian iv. 2. 3; Curt. vii. 6. 16; Strabo xi. 517, called
 Cyreskhata by Ptolem. vi. 12. 5). In 530, having appointed his son
 Cambyses king of Babel, he set out for a new expedition against the
 East. In this war he was killed (Herod.) or mortally wounded (Ctesias).
-According to Herodotus he attacked the Massagetae beyond the Jaxartes;
+According to Herodotus he attacked the [[Massagetae]] beyond the Jaxartes;
 according to Ctesias, the Derbices, a very barbarous tribe (cf. Strabo
 xi. 520; Aelian, _Var. Hist._ iv. 1) on the border of the Caspian, near
 the Hyrcanians (Strabo xi. 514; Steph. Byz.; Curt. vii. 2. 7; Dion.
 Perieg. 734 ff.; Pomp. Mela iii. 5), or on the Oxus (Plin. vi. 48;
 Ptolem. vi. 10. 2; _Tab. Peuting._). Berossus (_ap._ Euseb. _Chron._ i.
 29) simply says that he fell against the Dahae, i.e. the nomads of the
-Turanian desert. His death occurred in 528 B.C., as we have a Babylonian
+Turanian [[Desert|desert]]. His death occurred in 528 B.C., as we have a Babylonian
 tablet from the Adar of the tenth year of Cyrus, i.e. February 528; for
 in Babylon the first year of Cyrus began in the spring of 538.
 
@@ -192,7 +192,7 @@ death; in Babylonia he behaved like a constitutional monarch; by the
 Persians his memory was cherished as "the father of the people" (Herod.
 iii. 89), and the Greek tradition preserved by Aeschylus (cf. above)
 shows that his greatness was acknowledged also by his enemies. He
-therefore deserves the homage which Xenophon paid to him in choosing him
+therefore deserves the [[Homage|homage]] which Xenophon paid to him in choosing him
 as hero for his didactic novel.
 
 2. CYRUS THE YOUNGER, son of Darius II. and Parysatis, was born after
@@ -201,14 +201,14 @@ Alcibiades, Darius II. decided to continue the war against Athens and
 give strong support to the Spartans, he sent in 408 the young prince
 into Asia Minor, as satrap of Lydia and Phrygia Major with Cappadocia,
 and commander of the Persian troops, "which gather into the field of
-Castolos" (Xen. _Hell._ i. 4. 3; _Anab._ i. 9. 7), i.e. of the army of
+Castolos" (Xen. _[[Hell]]._ i. 4. 3; _Anab._ i. 9. 7), i.e. of the army of
 the district of Asia Minor. He gave strenuous support to the Spartans;
 evidently he had already then formed the design, in which he was
 supported by his mother, of gaining the throne for himself after the
 death of his father; he pretended to have stronger claims to it than his
 elder brother Artaxerxes, who was not born in the purple. For this plan
 he hoped to gain the assistance of Sparta. In the Spartan general
-Lysander he found a man who was willing to help him, as Lysander himself
+[[Lysander]] he found a man who was willing to help him, as Lysander himself
 hoped to become absolute ruler of Greece by the aid of the Persian
 prince. So Cyrus put all his means at the disposal of Lysander in the
 Peloponnesian War, but denied them to his successor Callicratidas; by
@@ -250,7 +250,7 @@ gives the absurd number of 100,000 men; the army of Artaxerxes he puts
 down at 900,000. These numbers only show that he, although an
 eyewitness, has no idea of large numbers; in reality the army of Cyrus
 may at the very utmost have consisted of 30,000, that of Artaxerxes of
-40,000 men. Cyrus saw that the decision depended on the fate of the
+40,000 men. Cyrus saw that the decision depended on the [[Fate|fate]] of the
 king; he therefore wanted Clearchus, the commander of the Greeks, to
 take the centre against Artaxerxes. But Clearchus, a tactician of the
 old school, disobeyed. The left wing of the Persians under Tissaphernes
@@ -261,14 +261,14 @@ the result that Parysatis took cruel vengeance upon the slayer of her
 favourite son. The Persian troops dared not attack the Greeks, but
 decoyed them into the interior, beyond the Tigris, and tried to
 annihilate them by treachery. But after their commanders had been taken
-prisoners the Greeks forced their way to the Black Sea. By this
+prisoners the Greeks forced their way to the [[Black Sea]]. By this
 achievement they had demonstrated the internal weakness of the Persian
 empire and the absolute superiority of the Greek arms.
 
   The history of Cyrus and of the retreat of the Greeks is told by
   Xenophon in his _Anabasis_ (where he tries to veil the actual
   participation of the Spartans). Another account, probably from
-  Sophaenetus of Stymphalus, was used by Ephorus, and is preserved in
+  Sophaenetus of Stymphalus, was used by [[Ephorus]], and is preserved in
   Diodor. xiv. 19 ff. Further information is contained in the excerpts
   from Ctesias by Photius; cf. also Plutarch's life of Artaxerxes. The
   character of Cyrus is highly praised by the ancients, especially by

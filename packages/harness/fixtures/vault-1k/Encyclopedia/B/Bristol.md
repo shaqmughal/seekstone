@@ -183,7 +183,7 @@ estuary of the Severn. The city docks have a depth of 22 ft., while those
 at Avonmouth are accessible to the largest vessels. In 1902 the
 construction of the extensive Royal Edward dock at Avonmouth was put in
 hand by the corporation, and the dock was opened by King Edward VII. in
-1908. It is entered by a lock 875 ft. long and 100 ft. wide, with a depth
+1908. It is entered by a [[Lock|lock]] 875 ft. long and 100 ft. wide, with a depth
 of water on the sill of 46 ft. at ordinary spring, and 36 ft. at ordinary
 neap tides. The dock itself has a mean length of 1120 ft. and a breadth of
 1000 ft., and there is a branch and passage connecting with the old dock.
@@ -231,7 +231,7 @@ the earthworks of the castle. He joined in a rebellion against William II.,
 and after his death the king granted the town and castle, as part of the
 honour of Gloucester, to Robert FitzHamon, whose daughter Mabel, marrying
 Earl Robert of Gloucester in 1119, brought him Bristol as her dowry. Earl
-Robert still further strengthened the castle, probably with masonry, and
+Robert still further strengthened the castle, probably with [[Masonry|masonry]], and
 involved Bristol in the rebellion against Stephen. From the castle he
 harried the whole neighbourhood, threatened Bath, and sold his prisoners as
 slaves to Ireland. A contemporary chronicler describes Bristol castle as
@@ -365,7 +365,7 @@ in 1899.
 See J. Corry, _History of Bristol_ (Bristol, 1816); J. Wallaway,
 _Antiquities_ (1834); J. Evans, _Chronological History of Bristol_ (1824);
 Bristol vol. of _Brit. Archaeol. Inst._; J.F. Nicholl and J. Taylor,
-_Bristol Past and Present_ (Bristol and London, 1882); W. Hunt, _Bristol_,
+_Bristol Past and Present_ (Bristol and London, 1882); W. [[Hunt]], _Bristol_,
 in "Historic Towns" series (London, 1887); J. Latimer, _Annals of Bristol_
 (various periods); G.E. Weare, _Collectanea relating to the Bristol Friars_
 (Bristol, 1893); Samuel Seyer, _History of Bristol and Bristol Charters_

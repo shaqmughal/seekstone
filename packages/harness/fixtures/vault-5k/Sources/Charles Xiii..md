@@ -24,12 +24,12 @@ perhaps the most miserable and degrading in Swedish history (an age of
 lead succeeding an age of gold, as it has well been called) and may be
 briefly described as alternations of fantastic jacobinism and ruthless
 despotism. On the accession of Gustavus IV. (November 1796), the duke
-became a mere cipher in politics till the 13th of March 1809, when those
+became a mere [[Cipher|cipher]] in politics till the 13th of March 1809, when those
 who had dethroned Gustavus IV. appointed him regent, and finally elected
 him king. But by this time he was prematurely decrepit, and Bernadotte
 (see CHARLES XIV.) took over the government as soon as he landed in
 Sweden (1810). By the union of 1814 Charles became the first king of
-Sweden and Norway. He married his cousin Hedwig Elizabeth Charlotte of
+Sweden and Norway. He married his [[Cousin|cousin]] Hedwig Elizabeth [[Charlotte]] of
 Holstein-Gottorp (1759-1818), but their only child, Carl Adolf, duke of
 Vermland, died in infancy (1798). Charles XIII., who for eight years had
 been king only in title, died on the 5th of February 1818.

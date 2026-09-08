@@ -9,7 +9,7 @@ tags: [medieval, astronomy]
 
 ARGYLLSHIRE, a county on the west coast of Scotland, the second largest
 in the country, embracing a large tract of country on the mainland and a
-number of the Hebrides or Western Isles. The mainland portion is bounded
+number of the [[Hebrides]] or Western Isles. The mainland portion is bounded
 N. by Inverness-shire; E. by Perth and Dumbarton, Loch Long and the
 Firth of Clyde; S. by the North Channel (Irish Sea); and W. by the
 Atlantic. Its area is 1,990,471 acres or 3110 sq. m. The principal
@@ -136,7 +136,7 @@ are second to none in Scotland.
   and coals of the Carboniferous Limestone series.
 
   On the north and south shores of the promontory of Ardnamurchan there
-  are small patches of Jurassic strata ranging from the Lower Lias to
+  are small patches of Jurassic strata ranging from the Lower [[Lias]] to
   the Oxford Clay, and in Morvern on the shores of Loch Aline
   representatives of the Upper Greensand are covered by the basaltic
   lavas of Tertiary age. The acid and basic plutonic rocks (gabbros and
@@ -180,7 +180,7 @@ land. In the higher tracts sheep have taken the place of cattle with
 excellent results. The black-faced is the species most generally reared.
 
 _Industries._--Whisky is manufactured at Campbeltown, in Islay, at Oban,
-Ardrishaig and elsewhere. Gunpowder is made at Kames (Kyles of Bute),
+Ardrishaig and elsewhere. Gunpowder is made at [[Kame|Kames]] (Kyles of Bute),
 Melfort and Furnace. Coarse woollens are made for home use; but fishing
 is the most important industry, Loch Fyne being famous for its herrings.
 The season lasts from June to January, but white fishing is carried on
@@ -203,7 +203,7 @@ of communication is by steamers, which maintain regular intercourse
 between Glasgow and various parts of the coast. In order to avoid the
 circuitous passage round the Mull of Kintyre the Crinan Canal, across
 the isthmus from Ardrishaig to Loch Crinan, a distance of 9 m., was
-constructed in 1793-1801, at a cost of L142,000. It has 15 locks, an
+constructed in 1793-1801, at a cost of L142,000. It has 15 [[Lock|locks]], an
 average depth of 10 ft., a surface width of 66 ft., and bottom width of
 30 ft., is navigable by vessels of 200 tons, and runs through a district
 of remarkable beauty. Another canal unites Campbeltown with Dalavaddy.
@@ -270,7 +270,7 @@ Haakon of Norway in attacking Alexander III. Forty years later the
 clansmen of Argyll, mainly MacDougals, were warring on the side of
 Edward of England against Robert Bruce, by whom they were badly beaten
 on Loch Awe in 1309. The clansmen of the house of Somerled in the isles,
-on the other hand, the MacDonalds, remained loyal to Scotland in spite
+on the other hand, the [[Macdonald|MacDonalds]], remained loyal to Scotland in spite
 of the persuasions of John of Argyll, appointed admiral of Edward II.'s
 western fleet; and, under their chief Angus Og, they contributed much to
 the victory of Bannockburn. The alliance of John, earl of Ross and lord

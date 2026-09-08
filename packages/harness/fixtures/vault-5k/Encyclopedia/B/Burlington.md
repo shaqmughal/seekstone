@@ -34,10 +34,10 @@ business colleges. Among the principal buildings are the city hall, the
 Chittenden county court house, the Federal and the Y.M.C.A. buildings, the
 Masonic temple, the Roman Catholic cathedral and the Edmunds high school.
 Burlington's charitable institutions include the Mary Fletcher hospital,
-the Adams mission home, the Lousia Howard mission, the Providence orphan
-asylum, and homes for aged women, friendless women and destitute children.
+the Adams mission home, the Lousia [[Howard]] mission, the Providence orphan
+[[Asylum|asylum]], and homes for aged women, friendless women and destitute children.
 The Fletcher free public library (47,000 volumes in 1908) is housed in a
-Carnegie building. In the city are two sanitariums. The city has two parks
+[[Carnegie]] building. In the city are two sanitariums. The city has two parks
 (one, Ethan Allen Park, is on a bluff in the north-west part of the city,
 and commands a fine view) and four cemeteries; in Green Mount Cemetery,
 which overlooks the Winooski valley, is a monument over the grave of Ethan

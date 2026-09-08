@@ -8,10 +8,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Informatio
 # Information
 
 INFORMATION (from Lat. _informare_, to give shape or form to, to
-represent, describe), the communication of knowledge; in English law, a
+represent, describe), the communication of knowledge; in [[English Law|English law]], a
 proceeding on behalf of the crown against a subject otherwise than by
-indictment. A criminal information is a proceeding in the King's bench
-by the attorney-general without the intervention of a grand jury. The
+indictment. A criminal information is a proceeding in the King's [[Bench|bench]]
+by the [[Attorney-General|attorney-general]] without the intervention of a grand [[Jury|jury]]. The
 attorney-general, or, in his absence, the solicitor-general, has a right
 _ex officio_ to file a criminal information in respect of any
 indictments, but not for treason, felonies or misprision of treason. It

@@ -14,19 +14,19 @@ Cernuschi and Clerici he formed a council of war which, having its
 headquarters at Casa Taverna, directed the operations of the insurgents.
 He was second to none in self-sacrificing energy and heroic resolution.
 When on the 18th of March Field Marshal Radetzky, feeling that the
-position of the Austrian garrison was untenable, sounded the rebels as
+position of the Austrian [[Garrison|garrison]] was untenable, sounded the rebels as
 to their terms, some of the leaders were inclined to agree to an
-armistice which would give time for the Piedmontese troops to arrive
+[[Armistice|armistice]] which would give time for the Piedmontese troops to arrive
 (Piedmont had just declared war), but Cattaneo insisted on the complete
 evacuation of Lombardy. Again on the 21st, Radetzky tried to obtain an
-armistice, and Durini and Borromeo were ready to grant it, for it would
+armistice, and Durini and [[Borromeo]] were ready to grant it, for it would
 have enabled them to reorganize the defences and replenish the supplies
 of food and ammunition, which could only last another day. But Cattaneo
 replied: "The enemy having furnished us with munitions thus far, will
 continue to furnish them. Twenty-four hours of victuals and twenty-four
 hours of hunger will be many more hours than we shall need. This
 evening, if the plans we have just arranged should succeed, the line of
-the bastions will be broken. At any rate, even though we should lack
+the [[Bastion|bastions]] will be broken. At any rate, even though we should lack
 bread, it is better to die of hunger than on the gallows." On the
 expulsion of the Austrians the question arose as to the future
 government of Milan and Italy. Cattaneo was an uncompromising republican
@@ -41,7 +41,7 @@ where he gave lessons, wrote his _Storia della Rivoluzione del 1848_,
 the _Archivio triennale delle cose d' Italia_ (3 vols., 1850-1855), and
 then early in 1860 he started the _Politecnico_ once more. He bitterly
 attacked Cavour for his unitarian views, and for the cession of Nice and
-Savoy. In 1860 Garibaldi summoned him to Naples to take part in the
+Savoy. In 1860 [[Garibaldi]] summoned him to Naples to take part in the
 government of the Neapolitan provinces, but he would not agree to the
 union with Piedmont without local autonomy. After the union of Italy he
 was frequently asked to stand for parliament, but always refused because
@@ -54,7 +54,7 @@ to be judicious, owing to his narrowly republican views; his ideas on
 local autonomy were perhaps wise, but, at a moment when unity was the
 first essential, inopportune.
 
-  BIBLIOGRAPHY.--A. and J. Mario, _Carlo Cattaneo_ (Florence, 1884); E.
+  BIBLIOGRAPHY.--A. and J. [[Mario]], _Carlo Cattaneo_ (Florence, 1884); E.
   Zanoni, _Carlo Cattaneo nella vita e nelle opere_ (Rome, 1898); see
   also his own _Opere edite ed inedite_ (7 vols., Florence, 1881-1892),
   _Scritti politici ed epistolari_ (3 vols., Florence, 1892-1901),

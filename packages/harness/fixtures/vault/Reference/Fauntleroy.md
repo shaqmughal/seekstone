@@ -5,12 +5,12 @@ FAUNTLEROY, HENRY (1785-1824), English banker and forger, was born in
 & Co., of which his father was one of the founders, he was taken into
 partnership, and the whole business of the firm was left in his hands.
 In 1824 the bank suspended payment. Fauntleroy was arrested on the
-charge of appropriating trust funds by forging the trustees' signatures,
+charge of appropriating trust funds by [[Forging|forging]] the trustees' signatures,
 and was committed for trial, it being freely rumoured that he had
 appropriated L250,000, which he had squandered in debauchery. He was
-tried at the Old Bailey, and, the case against him having been proved,
-he admitted his guilt, but pleaded that he had used the misappropriated
-funds to pay his firm's debts. He was found guilty and sentenced to be
+tried at the Old [[Bailey]], and, the case against him having been proved,
+he admitted his [[Guilt|guilt]], but pleaded that he had used the misappropriated
+funds to pay his firm's [[Debt|debts]]. He was found guilty and sentenced to be
 hanged. Seventeen merchants and bankers gave evidence as to his general
 integrity at the trial, and after his conviction powerful influence was
 brought to bear on his behalf, and his case was twice argued before

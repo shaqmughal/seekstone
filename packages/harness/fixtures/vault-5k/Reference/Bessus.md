@@ -9,7 +9,7 @@ national resistance against the Macedonian conqueror in the eastern
 provinces, proclaimed himself king and adopted the name Artaxerxes. But
 he was taken prisoner by treachery in the summer of 329. Alexander sent
 him to Ecbatana, where he was condemned to death. Before his execution
-his nose and ears were cut off, according to the Persian custom; we
+his nose and [[Ear|ears]] were cut off, according to the Persian custom; we
 learn from the Behistun inscription that Darius I. punished the usurpers
 in the same way.
 

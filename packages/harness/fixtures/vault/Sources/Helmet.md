@@ -3,7 +3,7 @@
 HELMET (from an obsolete diminutive of O. Fr. _helme_, mod. _heaume_;
 the English word is "helm," as in O. Eng., Dutch and Ger.; all are from
 the Teutonic base _hal_-, pre-Teut. _kal_-, to cover; cf. Lat. _celare_,
-to hide, Eng. "hell," &c.), a defensive covering for the head. The
+to hide, Eng. "[[Hell|hell]]," &c.), a defensive covering for the head. The
 present article deals with the helmet during the middle ages down to the
 close of the period when body armour was worn. For the helmet worn by
 the Greeks and Romans see ARMS AND ARMOUR.
@@ -20,18 +20,18 @@ the Greeks and Romans see ARMS AND ARMOUR.
 
 The head-dress of the warriors of the dark ages and of the earlier
 feudal period was far from being the elaborate helmet which is
-associated in the imagination with the knight in armour and the tourney.
+associated in the [[Imagination|imagination]] with the [[Knight|knight]] in armour and the tourney.
 It was a mere casque, a cap with or without additional safeguards for
-the ears, the nape of the neck and the nose (fig. 1). By those warriors
+the [[Ear|ears]], the nape of the neck and the nose (fig. 1). By those warriors
 who possessed the means to equip themselves fully, the casque was worn
-over a hood of mail, as shown in fig. 2. In manuscripts, &c., armoured
+over a hood of mail, as shown in fig. 2. In [[Manuscript|manuscripts]], &c., armoured
 men are sometimes portrayed fighting in their hoods, without casques,
 basinets or other form of helmet. The casque was, of course, normally of
 plate, but in some instances it was a strong leather cap covered with
 mail or imbricated plates. The most advanced form of this early helmet
 is the conical steel or iron cap with nasal (fig. 2), worn in
 conjunction with the hood of mail. This is the typical helmet of the
-11th-century warrior, and is made familiar by the Bayeux Tapestry. From
+11th-century warrior, and is made familiar by the [[Bayeux Tapestry]]. From
 this point however (c. 1100) the evolution of war head-gear follows two
 different paths for many years. On the one hand the simple casque easily
 transformed itself into the _basinet_, originally a pointed iron
@@ -62,7 +62,7 @@ drooping "camail," is shown in fig. 6, a, b, c and d, the two latter
 showing the same helmet with vizor down and up. But the tendency set in
 during the earlier years of the 15th century to make all parts of the
 armour thicker. Chain "mail" gradually gave way to plate on the body and
-the limbs, remaining only in those parts, such as neck and elbows, where
+the limbs, remaining only in those parts, such as neck and [[Elbow|elbows]], where
 flexibility was essential, and even there it was in the end replaced by
 jointed steel bands or small plates. The final step was the discarding of
 the "camail" and the introduction of the "armet." The latter will be
@@ -71,12 +71,12 @@ high-crowned basinet gave place to the _salade_ or _sallet_, a helmet
 with a low rounded crown and a long brim or neck-guard at the back. This
 was the typical headpiece of the last half of the Hundred Years' War as
 the vizored basinet had been of the first. Like the basinet it was worn
-in a simple form by archers and pikemen and in a more elaborate form by
+in a simple form by [[Archer|archers]] and pikemen and in a more elaborate form by
 the knights and men-at-arms. The larger and heavier salades were also
 often used instead of the heaume in tournaments. Here again, however,
 there is a great difference between those worn by light armed men,
-foot-soldiers and archers and those of the heavy cavalry. The former,
-while possessing as a rule the bowl shape and the lip or brim of the
+foot-soldiers and archers and those of the heavy [[Cavalry|cavalry]]. The former,
+while possessing as a rule the bowl shape and the [[Lip|lip]] or brim of the
 type, and always destitute of the conical point which is the
 distinguishing mark of the basinet, are cut away in front of the face
 (fig. 7 a). In some cases this was remedied in part by the addition of a
@@ -101,7 +101,7 @@ of armour or half-armour worn by the subject of the portrait or in
 allegorical trophies, &c. The armet was a fairly close-fitting rounded
 shell of iron or steel, with a movable vizor in front and complete
 plating over chin, ears and neck, the latter replacing the mentonniere or
-beaver. The armet was connected to the rest of the suit by the gorget,
+beaver. The armet was connected to the rest of the suit by the [[Gorget|gorget]],
 which was usually of thin laminated steel plates. With a good armet and
 gorget there was no weak point for the enemy's sword to attack, a roped
 lower edge of the armet generally fitting into a sort of flange round the
@@ -109,11 +109,11 @@ top of the gorget. Thus, and in other and slightly different ways, was
 solved the problem which in the early days of plate armour had been
 attempted by the clumsy heaume and the flexible, if tough, camail of the
 vizored basinet, and still more clumsily in the succeeding period by the
-salade and its grotesque mentonniere. As far as existing examples show,
+salade and its [[Grotesque|grotesque]] mentonniere. As far as existing examples show,
 the wide-brimmed salade itself first gave way to the more rounded armet,
 the mentonniere being carried up to the level of the eyes. Then the use
-(growing throughout the 15th century) of laminated armour for the joints
-of the harness probably suggested the gorget, and once this was applied
+(growing throughout the 15th century) of laminated armour for the [[Joints|joints]]
+of the [[Harness|harness]] probably suggested the gorget, and once this was applied
 to the lower edge of the armet by a satisfactory joint, it was an easy
 step to the elaborate pivoted vizor which completed the new head-dress.
 Types of armets are shown in fig. 8.
@@ -122,13 +122,13 @@ Types of armets are shown in fig. 8.
 
 [Illustration: FIG. 9.--Burgonets.]
 
-The _burgonet_, often confused with the armet, is the typical helmet of
+The _[[Burgonet|burgonet]]_, often confused with the armet, is the typical helmet of
 the late 16th and early 17th centuries. In its simple form it was worn
 by the foot and light cavalry--though the latter must not be held to
 include the pistol-armed _chevaux-legers_ of the wars of religion, these
 being clad in half-armour and vizored burgonet--and consisted of a
 (generally rounded) cap with a projecting brim shielding the eyes, a
-neck-guard and earpieces. It had almost invariably a crest or comb, as
+neck-guard and earpieces. It had almost invariably a crest or [[Comb|comb]], as
 shown in the illustrations (fig. 9). Other forms of infantry head-gear
 much in vogue during the 16th century are shown in figs. 10 and 11,
 which represent the _morion_ and _cabasset_ respectively. Both these
@@ -140,7 +140,7 @@ pikemen) up to the final disappearance of armour from the field of
 battle about 1670. Fig. 9 b gives the general outline of richly
 decorated 16th-century Italian burgonet which is preserved in Vienna.
 The archetype of the burgonet is perhaps the casque worn by the Swiss
-infantry (fig. 9 a) at the epoch of Marignan (1515). This was probably
+infantry (fig. 9 a) at the epoch of [[Marignan]] (1515). This was probably
 copied by them from their former Burgundian antagonists, whose connexion
 with this helmet is sufficiently indicated by its name. The lower part
 of the more elaborate burgonets worn by nobles and cavalrymen is often
@@ -166,7 +166,7 @@ head-gear of civil life. For illustrations of many curiosities of this
 sort, including the famous iron hat of King Charles I. of England, and
 also for examples of Russian, Mongolian, Indian and Chinese helmets, the
 reader is referred to pp. 262-269 and 285-286 of Demmin's _Arms and
-Armour_ (English edition 1894). The helmets in brass, steel or cloth,
+Armour_ (English edition 1894). The helmets in [[Brass|brass]], steel or cloth,
 worn by troops since the general introduction of uniforms and the disuse
 of armour, depend for their shape and material solely on considerations
 of comfort and good appearance. From time to time, however, the
@@ -175,7 +175,7 @@ is much to be said in favour of this. The burgonet, which was the final
 type of war helmet evolved by the old armourers, would certainly appear
 to be by far the best head-gear to adopt should these views prevail, and
 indeed it is still worn, in a modified yet perfectly recognizable form,
-by the German and other cuirassiers.
+by the German and other [[Cuirassiers|cuirassiers]].
 
 ## See also
 

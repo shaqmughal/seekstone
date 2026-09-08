@@ -1,11 +1,11 @@
 # Fabyan
 
-FABYAN, ROBERT (d. 1513), English chronicler, belonged to an Essex
+FABYAN, ROBERT (d. 1513), English chronicler, belonged to an [[Essex]]
 family, members of which had been connected with trade in London. He was
-a member of the Drapers company, alderman of Farringdon Without, and
+a member of the [[Draper|Drapers]] company, alderman of Farringdon Without, and
 served as sheriff in 1493-1494. In 1496 he was one of those appointed to
-make representations to the king on the new impositions on English cloth
-in Flanders. Next year he was one of the aldermen employed in keeping
+make representations to the king on the new [[Imposition|impositions]] on English cloth
+in [[Flanders]]. Next year he was one of the aldermen employed in keeping
 watch at the time of the Cornish rebellion. He resigned his aldermanry
 in 1502, on the pretext of poverty, apparently in order to avoid the
 expense of mayoralty. He had, however, acquired considerable wealth with
@@ -30,7 +30,7 @@ yere of our Lord Jesu Christes Incarnacion M. vc. and iiij." This seems
 conclusive that in 1504 he did not contemplate any extension of his
 chronicles beyond 1485. The continuations printed by Rastell are
 certainly not Fabyan's work. But Stow in his _Collections_ (ap. _Survey
-of London_, ii. 305-306, ed. C.L. Kingsford) states that Fabyan wrote "a
+of London_, ii. 305-306, ed. C.L. [[Kingsford]]) states that Fabyan wrote "a
 Chronicle of London, England and of France, beginning at the creation
 and endynge in the third year of Henry VIII., which both I have in
 written hand." In his _Survey of London_ (i. 191, 209, ii. 55, 116) Stow
@@ -40,7 +40,7 @@ evidence may be found in other notes of Stow's (ap. _Survey of London_,
 ii. 280, 283, 365-366), and in the citation by Hakluyt of an unprinted
 work of Fabyan as the authority for his note of Cabot's voyages. That
 Fabyan had continued his Chronicle to 1511 may be accepted as certain,
-but no trace of the manuscript can now be found.
+but no trace of the [[Manuscript|manuscript]] can now be found.
 
 It is only the seventh part of Fabyan's Chronicle, from the Norman
 Conquest onwards, that possesses any historical value. For his French
@@ -62,10 +62,10 @@ which through Hall and Holinshed has become the common property of later
 historians, and has only recently been otherwise accessible. Bale
 alleges that the first edition was burnt by order of Cardinal Wolsey
 because it reflected on the wealth of the clergy; this probably refers
-to his version of the Lollards Bill of 1410, which Fabyan extracted from
+to his version of the [[Lollards]] Bill of 1410, which Fabyan extracted from
 one of the London Chronicles.
 
-  See further Ellis' _Introduction_; W. Busch, _England under the
+  See further Ellis' _Introduction_; W. [[Busch]], _England under the
   Tudors_ (trans. A.M. Todd, 1895), i. 405-410; and C.L. Kingsford,
   _Chronicles of London_, pp. xxvi-xxxii (1905).     (C. L. K.)
 

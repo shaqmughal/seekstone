@@ -1,6 +1,6 @@
 # Fidenae
 
-FIDENAE, an ancient town of Latium, situated about 5 m. N. of Rome on
+FIDENAE, an ancient town of [[Latium]], situated about 5 m. N. of Rome on
 the Via Salaria, which ran between it and the Tiber. It was for some
 while the frontier of the Roman territory and was often in the hands of
 Veii. It appears to have fallen under the Roman sway after the capture

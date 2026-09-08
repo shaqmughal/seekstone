@@ -21,9 +21,9 @@ viribus electricitatis in motu musculari commentarius," published in the
 7th volume of the memoirs of the Institute of Sciences at Bologna in
 1791, and separately at Modena in the following year, and elsewhere
 subsequently. The statement has frequently been repeated that, in 1786,
-Galvani had noticed that the leg of a skinned frog, on being
+Galvani had noticed that the [[Leg|leg]] of a skinned frog, on being
 accidentally touched by a scalpel which had lain near an electrical
-machine, was thrown into violent convulsions; and that it was thus that
+[[Machine|machine]], was thrown into violent convulsions; and that it was thus that
 his attention was first directed to the relations of animal functions to
 electricity. From documents in the possession of the Institute of
 Bologna, however, it appears that twenty years previous to the

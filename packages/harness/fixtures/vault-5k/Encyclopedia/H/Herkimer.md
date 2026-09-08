@@ -4,9 +4,9 @@ HERKIMER, a village and the county-seat of Herkimer county, New York,
 U.S.A., in the township of the same name, on the Mohawk river, about 15
 m. S.E. of Utica. Pop. (1900) 5555 (724 being foreign-born); (1905,
 state census) 6596; (1910) 7520. It is served by the New York Central &
-Hudson River railway, a branch of which (the Mohawk & Malone railway)
+[[Hudson]] River railway, a branch of which (the Mohawk & Malone railway)
 extends through the Adirondacks to Malone, N.Y.; by inter-urban electric
-railway to Little Falls, Syracuse, Richfield Springs, Cooperstown and
+railway to [[Little Falls]], Syracuse, Richfield Springs, [[Cooperstown]] and
 Oneonta, and by the Erie canal. The village has a public library, and is
 the seat of the Folts Mission Institute (opened 1893), a training school
 for young women, controlled by the Women's Foreign Missionary Society of

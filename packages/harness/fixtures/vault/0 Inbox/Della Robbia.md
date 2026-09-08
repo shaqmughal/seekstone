@@ -1,6 +1,6 @@
 # Della Robbia
 
-DELLA ROBBIA, the name of a family of great distinction in the annals of
+DELLA ROBBIA, the name of a family of great distinction in the [[Annals|annals]] of
 Florentine art. Its members are enumerated in chronological order
 below.[1]
 
@@ -11,16 +11,16 @@ silversmith Leonardo di Ser Giovanni, who from 1355 to 1371 was working
 on the grand silver altar frontal for the cathedral at Pistoia (q.v.);
 this, however, appears doubtful from the great age which it would give
 to Leonardo, and it is more probable that Luca was the pupil of
-Ghiberti. During the early part of his life Luca executed many important
-and exceedingly beautiful pieces of sculpture in marble and bronze. In
+[[Ghiberti]]. During the early part of his life Luca executed many important
+and exceedingly beautiful pieces of sculpture in [[Marble|marble]] and bronze. In
 technical skill he was quite the equal of Ghiberti, and, while
 possessing all Donatello's vigour, dramatic power and originality, he
-very frequently excelled him in grace of attitude and soft beauty of
+very frequently excelled him in [[Grace|grace]] of attitude and soft beauty of
 expression. No sculptured work of the great 15th century ever surpassed
 the singing gallery which Luca made for the cathedral at Florence
 between 1431 and 1440, with its ten magnificent panels of singing angels
 and dancing boys, far exceeding in beauty those which Donatello in 1433
-sculptured for the opposite gallery in the same choir. This splendid
+sculptured for the opposite gallery in the same [[Choir|choir]]. This splendid
 work is now to be found in the Museo del Duomo. The general effect of
 the whole can also be seen at the Victoria and Albert Museum, where a
 complete cast is fixed to the wall. The same museum possesses a study in
@@ -39,8 +39,8 @@ cathedral. The reliefs from one of them--St Peter's Deliverance from
 Prison and his Crucifixion--are now in the Bargello. It is probable that
 these altars were never finished. A tabernacle for the host, made by
 Luca in 1442, is now at Peretola, near Florence, in the church of S.
-Maria. A document in the archives of S. Maria Nuova at Florence shows
-that he received for this 700 florins 1 lira 16 soldi (about L1400 of
+Maria. A document in the [[Archive|archives]] of S. Maria Nuova at Florence shows
+that he received for this 700 [[Florin|florins]] 1 lira 16 soldi (about L1400 of
 modern money). In 1437 Donatello received a commission to cast a bronze
 door for one of the sacristies of the cathedral; but, as he delayed to
 execute this order, the work was handed over to Luca on the 28th of
@@ -53,7 +53,7 @@ subjects are the Madonna and Child and the Baptist, next come the four
 Evangelists, and below are the four Latin Doctors, each subject with
 attendant angels. The whole is modelled with perfect grace and dignified
 simplicity; the heads throughout are full of life, and the treatment of
-the drapery in broad simple folds is worthy of a Greek sculptor of the
+the drapery in broad simple [[Fold|folds]] is worthy of a Greek sculptor of the
 best period of Hellenic art. These exquisite reliefs are perfect models
 of plastic art, and are quite free from the over-elaboration and too
 pictorial style of Ghiberti. Fig. 1 shows one of the panels.
@@ -70,10 +70,10 @@ Florence. A very beautiful effigy of the bishop in a restful pose lies
 on a sarcophagus sculptured with graceful reliefs of angels holding a
 wreath which contains the inscription. Above are three-quarter length
 figures of Christ between St John and the Virgin, of conventional type.
-The whole is surrounded by a rectangular frame formed of painted tiles
+The whole is surrounded by a rectangular [[Frame|frame]] formed of painted tiles
 of exquisite beauty, but out of keeping with the memorial. On each tile
 is painted, with enamel pigments, a bunch of flowers and fruit in
-brilliant realistic colours, the loveliness of which is very hard to
+brilliant realistic [[Colours|colours]], the loveliness of which is very hard to
 describe. Though the bunch of flowers on each is painted on one slab,
 the ground of each tile is formed of separate pieces, fitted together
 like a kind of mosaic, probably because the pigment of the ground
@@ -104,9 +104,9 @@ in white and blue; this, however, is not the case; colours were used as
 freely by Luca as by his successors. A relief in the Victoria and Albert
 Museum furnishes a striking example of this and is of especial value
 from its great size, and also because its date is known. This is an
-enormous medallion containing the arms of Rene of Anjou and other
+enormous medallion containing the arms of Rene of [[Anjou]] and other
 heraldic devices; it is surrounded by a splendidly modelled wreath of
-fruit and flowers, especially apples, lemons, oranges and fir cones, all
+fruit and flowers, especially [[Apple|apples]], [[Lemon|lemons]], oranges and fir cones, all
 of which are brilliantly coloured. This medallion was set up on the
 facade of the Pazzi Palace to commemorate Rene's visit to Florence in
 1442. Other reliefs by Luca, also in glazed terra-cotta, are those of
@@ -117,7 +117,7 @@ between two Angels in the Via dell' Agnolo, a work of exquisite beauty,
 and another formerly over the door of S. Pierino del Mercato Vecchio,
 but now removed to the Bargello (No. 29). The only existing statues by
 Luca are two lovely enamelled figures of kneeling angels holding
-candlesticks, now in the canons' sacristy.[5] A very fine work by Luca,
+[[Candlestick|candlesticks]], now in the canons' sacristy.[5] A very fine work by Luca,
 executed between 1449 and 1452, is the tympanum relief of the Madonna
 and four Monastic Saints over the door of S. Domenico at Urbino.[6] Luca
 also made the four coloured medallions of the Virtues set in the vault
@@ -147,7 +147,7 @@ II. ANDREA DELLA ROBBIA (1435-1525), the nephew and pupil of Luca,
 carried on the production of the enamelled reliefs on a much larger
 scale than his uncle had ever done; he also extended its application to
 various architectural uses, such as friezes and to the making of lavabos
-(lavatories), fountains and large retables. The result of this was that,
+(lavatories), [[Fountain|fountains]] and large retables. The result of this was that,
 though the finest reliefs from the workshop of Andrea were but little if
 at all inferior to those from the hand of Luca, yet some of them, turned
 out by pupils and assistants, reached only a lower standard of merit.
@@ -165,7 +165,7 @@ a realistic manner; as, for example, in the noble tympanum relief of the
 meeting of St Domenic and St Francis in the loggia of the Florentine
 hospital of S. Paolo,--a design suggested by a fresco of Fra Angelico's
 in the cloister of St Mark's. One of the most remarkable works by Andrea
-is the series of medallions with reliefs of Infants in white on a blue
+is the series of medallions with reliefs of [[Infant|Infants]] in white on a blue
 ground set on the front of the foundling hospital at Florence. These
 lovely child-figures are modelled with wonderful skill and variety, no
 two being alike. Andrea produced, for gilds and private persons, a large
@@ -176,7 +176,7 @@ flowers painted with coloured enamels, while the main relief is left
 white. Fig. 2 shows a good example of these smaller works. The hospital
 of S. Paolo, near S. Maria Novella, has also a number of fine medallions
 with reliefs of saints, two of Christ Healing the Sick, and two fine
-portraits, under which are white plaques inscribed--"DALL ANNO 1451 ALL
+portraits, under which are white plaques inscribed--"DALL [[Anno|ANNO]] 1451 ALL
 ANNO 1495"[11]; the first of these dates is the year when the hospital
 was rebuilt owing to a papal brief sent to the archbishop of Florence.
 Arezzo possesses a number of fine enamelled works by Andrea and his
@@ -186,7 +186,7 @@ Bernardino; also in the chapel of the Campo Santo is a fine relief of
 the Madonna and Child with four saints at the sides. In S. Maria in
 Grado is a very noble retable with angels holding a crown over a
 standing figure of the Madonna; a number of small figures of worshippers
-take refuge in the folds of the Virgin's mantle, a favourite motive for
+take refuge in the folds of the Virgin's [[Mantle|mantle]], a favourite motive for
 sculpture dedicated by gilds or other corporate bodies. Perhaps the
 finest collection of works of this class is at La Verna, not far from
 Arezzo (see Vasari, ed. Milanesi, ii. p. 179). The best of these, three
@@ -198,7 +198,7 @@ over the archive-room door in the Florentine Opera del Duomo; for this
 he was paid twenty gold florins (see Cavallucci, _S. Maria del Fiore_).
 In the same year he modelled the fine tympanum relief over a door of
 Prato cathedral, with a half-length figure of the Madonna between St
-Stephen and St Lawrence, surrounded by a frame of angels' heads.
+Stephen and St [[Lawrence]], surrounded by a frame of angels' heads.
 
 In 1491 he was still working at Prato, where many of his best reliefs
 still exist. A fine bust of S. Lino exists over the side door of the
@@ -248,7 +248,7 @@ the sacristy of S. Maria Novella at Florence, made in 1497.[16] It is a
 large arched recess with a view of the seashore, not very decorative in
 style, painted on majolica tiles at the back. There are also two very
 beautiful painted majolica panels of fruit-trees let into the lower
-part. In the tympanum of the arch is a very lovely white relief of the
+part. In the tympanum of the [[Arch|arch]] is a very lovely white relief of the
 Madonna between two Adoring Angels (see fig. 3). Long coloured garlands
 of fruit and flowers are held by nude boys reclining on the top of the
 arch and others standing on the cornice. All this part is of enamelled
@@ -292,7 +292,7 @@ pillars, are the work of assistants or imitators.
 
 A large octagonal font of enamelled clay, with pilasters at the angles
 and panels between them with scenes from the life of the Baptist, in the
-church of S. Leonardo at Cerreto Guidi, is a work of the school of
+church of S. Leonardo at Cerreto [[Guidi]], is a work of the school of
 Giovanni; the reliefs are pictorial in style and coarse in execution.
 Giovanni's chief pupil was a man named Benedetto Buglioni (1461-1521),
 and a pupil of his, one Santi Buglioni (b. 1494), entered the Robbia
@@ -303,7 +303,7 @@ architect and a sculptor in marble and bronze as well as in enamelled
 clay. During the first part of his life he, like his brothers, worked
 with his father, but in 1528 he went to France and spent nearly forty
 years in the service of the French Royal family. Francis I. employed him
-to build a palace in the Bois de Boulogne called the Chateau de Madrid.
+to build a palace in the Bois de [[Boulogne]] called the Chateau de Madrid.
 This was a large well-designed building, four storeys high, two of them
 having open loggie in the Italian fashion. Girolamo decorated it richly
 with terra-cotta medallions, friezes and other architectural
@@ -312,15 +312,15 @@ palace itself has been destroyed, drawings of it exist.[20]
 
 The best collections of Robbia ware are in the Florentine Bargello,
 Accademia and Museo del Duomo; the Victoria and Albert Museum (the
-finest out of Italy); the Louvre, the Cluny and the Berlin Museums;
-while fine examples are to be found in New York, Boston, St Petersburg
+finest out of Italy); the Louvre, the [[Cluny]] and the Berlin Museums;
+while fine examples are to be found in New York, [[Boston]], St Petersburg
 and Vienna. Many fine specimens exist in private collections in England,
 France, Germany and the United States. The greater part of the Robbia
 work still remains in the churches and other buildings of Italy,
 especially in Florence, Fiesole, Arezzo, La Verna, Volterra, Barga,
-Montepulciano, Lucca, Pistoia, Prato and Siena.
+Montepulciano, [[Lucca]], Pistoia, Prato and Siena.
 
-  LITERATURE.--H. Barbet de Jouy, _Les della Robbia_ (Paris, 1855); W.
+  LITERATURE.--H. Barbet de [[Jouy]], _Les della Robbia_ (Paris, 1855); W.
   Bode, _Die Kunstlerfamilie della Robbia_ (Leipzig, 1878); "Luca della
   Robbia ed i suoi precursori in Firenze," _Arch. stor. dell' arte_
   (1899); "Uber Luca della Robbia," _Sitzungsbericht von der Berliner
@@ -382,7 +382,7 @@ FOOTNOTES:
     that date; see also Vasari, ed. Milanesi (Florence, 1880), ii. p.
     174.
 
-  [9] His will, dated 19th February 1471, is published by Gaye, _Cart.
+  [9] His will, dated 19th February 1471, is published by Gaye, _[[Cart]].
     ined._ i. p. 185.
 
   [10] In the works of Perkins and others on Italian sculpture these

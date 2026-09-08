@@ -13,7 +13,7 @@ but the date of his birth is uncertain. He was receiver-general and
 steward of the household to Sir Henry Stafford, second husband of
 Margaret, countess of Richmond, whose son afterwards became King Henry
 VII. The accession of the king Henry VII. favoured the fortunes of
-Reginald Bray, who was created a knight of the Bath at the coronation
+Reginald Bray, who was created a [[Knight|knight]] of the Bath at the [[Coronation|coronation]]
 and afterwards a knight of the Garter. In the first year of Henry VII.'s
 reign he was given a grant of the constableship of Oakham Castle in
 Rutland, and was appointed joint chief justice with Lord Fitz Walter of

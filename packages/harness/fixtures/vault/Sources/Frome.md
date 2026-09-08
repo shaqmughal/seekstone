@@ -11,17 +11,17 @@ FROME, a market town in the Frome parliamentary division of
 Somersetshire, England, 107 m. W. by S. of London by the Great Western
 railway. Pop. of urban district (1901) 11,057. It is unevenly built on
 high ground above the river Frome, which is here crossed by a stone
-bridge of five arches. It was formerly called Frome or Froome Selwood,
+bridge of five [[Arches|arches]]. It was formerly called Frome or Froome Selwood,
 after the neighbouring forest of Selwood; and the country round is still
 richly wooded and picturesque. The parish church of St John the Baptist,
 with its fine tower and spire, was built about the close of the 14th
-century, and, though largely restored, has a beautiful chancel, Lady
-chapel and baptistery. Fragments of Norman work are left; the interior
+century, and, though largely restored, has a beautiful [[Chancel|chancel]], Lady
+chapel and [[Baptistery|baptistery]]. Fragments of Norman work are left; the interior
 is elaborately adorned with sculptures and stained glass. The
 market-hall, museum, school of art, and a free grammar school, founded
 under Edward VI., may be noted among buildings and institutions. The
 chief industries are brewing and art metal-working, also printing,
-metal-founding, and the manufacture of cloth, silk, tools and cards for
+metal-founding, and the manufacture of cloth, silk, tools and [[Cards|cards]] for
 wool-dressing. Dairy farming is largely practised in the neighbourhood.
 Selwood forest was long a favourite haunt of brigands, and even in the
 18th century gave shelter to a gang of coiners and highwaymen.
@@ -41,7 +41,7 @@ Leversedge, then lord of the manor, granted the right to have fairs on
 the 22nd of July and the 21st of September. In the 18th century two
 other fairs on the 24th of February and the 25th of November were held.
 Cattle fairs are now held on the last Wednesday in February and
-November, and a cheese fair on the last Wednesday in September. The
+November, and a [[Cheese|cheese]] fair on the last Wednesday in September. The
 Wednesday market is held under the charter of Henry VII. There is also a
 Saturday cattle market. The manufacture of woollen cloth has been
 established since the 15th century, Frome being the only Somerset town

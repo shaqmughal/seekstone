@@ -3,7 +3,7 @@
 LABRADORITE, or LABRADOR SPAR, a lime-soda felspar of the plagioclase
 (q.v.) group, often cut and polished as an ornamental stone. It takes
 its name from the coast of Labrador, where it was discovered, as
-boulders, by the Moravian Mission about 1770, and specimens were soon
+[[Boulder|boulders]], by the Moravian Mission about 1770, and specimens were soon
 afterwards sent to the secretary in London, the Rev. B. Latrobe. The
 felspar itself is generally of a dull grey colour, with a rather greasy
 lustre, but many specimens exhibit in certain directions a magnificent
@@ -30,7 +30,7 @@ really a kind of orthoclase which Professor W. C. Brögger has termed
 cryptoperthite, whilst the rock in which it occurs is an augite-syenite
 called by him laurvigite, from its chief locality, Laurvik in Norway.
 Common labradorite, without play of colour, is an important constituent
-of such rocks as gabbro, diorite, andesite, dolerite and basalt. (See
+of such rocks as gabbro, [[Diorite|diorite]], andesite, dolerite and basalt. (See
 PLAGIOCLASE.) Ejected crystals of labradorite are found on Monti Rossi,
 a double parasitic cone on Etna.
 

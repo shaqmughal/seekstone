@@ -1,10 +1,10 @@
 # Graham
 
-GRAHAM, THOMAS (1805-1869), British chemist, born at Glasgow on the 20th
+GRAHAM, THOMAS (1805-1869), British chemist, born at [[Glasgow]] on the 20th
 of December 1805, was the son of a merchant of that city. In 1819 he
 entered the university of Glasgow with the intention of becoming a
 minister of the Established Church. But under the influence of Thomas
-Thomson (1773-1852), the professor of chemistry, he developed a taste
+Thomson (1773-1852), the professor of [[Chemistry|chemistry]], he developed a taste
 for experimental science and especially for molecular physics, a subject
 which formed his main preoccupation throughout his life. After
 graduating in 1824, he spent two years in the laboratory of Professor T.
@@ -21,7 +21,7 @@ severely tried his energies, and in quitting a purely scientific career
 he was subjected to the cares of official life, for which he was not
 fitted by temperament. The researches, however, which he conducted
 between 1861 and 1869 were as brilliant as any of those in which he
-engaged. Graham was elected a fellow of the Royal Society in 1836, and a
+engaged. Graham was elected a [[Fellow|fellow]] of the Royal Society in 1836, and a
 corresponding member of the Institute of France in 1847, while Oxford
 made him a D. C. L. in 1855. He took a leading part in the foundation of
 the London Chemical and the Cavendish societies, and served as first
@@ -34,7 +34,7 @@ simplicity of the methods employed obtaining most important results. He
 communicated papers to the Philosophical Society of Glasgow before the
 work of that society was recorded in _Transactions_, but his first
 published paper, "On the Absorption of Gases by Liquids," appeared in
-the _Annals of Philosophy_ for 1826. The subject with which his name is
+the _[[Annals]] of Philosophy_ for 1826. The subject with which his name is
 most prominently associated is the diffusion of gases. In his first
 paper on this subject (1829) he thus summarizes the knowledge experiment
 had afforded as to the laws which regulate the movement of gases.
@@ -75,7 +75,7 @@ spontaneous movements of liquids, and as a result of the experiments he
 divided bodies into two classes--crystalloids, such as common salt, and
 colloids, of which gum-arabic is a type--the former having high and the
 latter low diffusibility. He also proved that the process of liquid
-diffusion causes partial decomposition of certain chemical compounds,
+diffusion causes partial decomposition of certain chemical [[Compound|compounds]],
 the potassium sulphate, for instance, being separated from the aluminium
 sulphate in alum by the higher diffusibility of the former salt. He also
 extended his work on the transpiration of gases to liquids, adopting the

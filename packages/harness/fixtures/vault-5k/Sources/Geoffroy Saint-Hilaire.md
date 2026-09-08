@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Geoffroy_S
 # Geoffroy Saint-Hilaire
 
 GEOFFROY SAINT-HILAIRE, ETIENNE (1772-1844), French naturalist, was the
-son of Jean Gerard Geoffroy, procurator and magistrate of Etampes,
+son of Jean Gerard Geoffroy, procurator and [[Magistrate|magistrate]] of [[Etampes]],
 Seine-et-Oise, where he was born on the 15th of April 1772. Destined for
 the church he entered the college of Navarre, in Paris, where he studied
 natural philosophy under M.J. Brisson; and in 1788 he obtained one of
@@ -39,10 +39,10 @@ entreated them to effect their escape by following him. All, however,
 dreading lest their deliverance should render the doom of their
 fellow-captives the more certain, refused the offer, and one priest
 only, who was unknown to Geoffroy, left the prison. Already on the night
-of the 2nd of September the massacre of the proscribed had begun, when
-Geoffroy, yet intent on saving the life of his friends and teachers,
+of the 2nd of September the [[Massacre|massacre]] of the proscribed had begun, when
+Geoffroy, yet [[Intent|intent]] on saving the life of his friends and teachers,
 repaired to St Firmin. At 4 o'clock on the morning of the 3rd of
-September, after eight hours' waiting, he by means of a ladder assisted
+September, after eight hours' waiting, he by means of a [[Ladder|ladder]] assisted
 the escape of twelve ecclesiastics, not of the number of his
 acquaintance, and then the approach of dawn and the discharge of a gun
 directed at him warned him, his chief purpose unaccomplished, to return
@@ -61,14 +61,14 @@ menagerie at that institution.
 
 In 1794 through the introduction of A.H. Tessier he entered into
 correspondence with Georges Cuvier, to whom, after the perusal of some
-of his manuscripts, he wrote: "Venez jouer parmi nous le role de Linne,
+of his [[Manuscript|manuscripts]], he wrote: "Venez jouer parmi nous le role de Linne,
 d'un autre legislateur de l'histoire naturelle." Shortly after the
 appointment of Cuvier as assistant at the Museum d'Histoire Naturelle,
 Geoffroy received him into his house. The two friends wrote together
-five memoirs on natural history, one of which, on the classification of
+five memoirs on natural history, one of which, on the [[Classification|classification]] of
 mammals, puts forward the idea of the subordination of characters upon
 which Cuvier based his zoological system. It was in a paper entitled
-"Histoire des Makis, ou singes de Madagascar," written in 1795, that
+"Histoire des Makis, ou singes de [[Madagascar]]," written in 1795, that
 Geoffroy first gave expression to his views on "the unity of organic
 composition," the influence of which is perceptible in all his
 subsequent writings; nature, he observes, presents us with only one plan
@@ -76,7 +76,7 @@ of construction, the same in principle, but varied in its accessory
 parts.
 
 In 1798 Geoffroy was chosen a member of the great scientific expedition
-to Egypt, and on the capitulation of Alexandria in August 1801, he took
+to Egypt, and on the [[Capitulation|capitulation]] of Alexandria in August 1801, he took
 part in resisting the claim made by the British general to the
 collections of the expedition, declaring that, were that demand
 persisted in, history would have to record that he also had burnt a

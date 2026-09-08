@@ -11,7 +11,7 @@ city of Havana, with which it is connected by the Marianao railway. Pop.
 (1899), 5416; (1907), 9332. Marianao is on a range of hills about 1500
 ft. above the sea, is noted for its salubrious climate, and is mainly a
 place of residence for the families of prosperous business men of
-Havana. On the neighbouring coast is Marianao Beach, a popular bathing
+Havana. On the neighbouring coast is Marianao [[Beach]], a popular bathing
 resort. The city dates from about 1830.
 
 ## See also

@@ -7,7 +7,7 @@ topic: diplomacy
 # Cambyses
 
 CAMBYSES (Pers. _Kambujiya_), the name borne by the father and the son
-of Cyrus the Great. When Cyrus conquered Babylon in 539 he was employed
+of [[Cyrus]] the Great. When Cyrus conquered [[Babylon]] in 539 he was employed
 in leading religious ceremonies (_Chronicle of Nabonidus_), and in the
 cylinder which contains Cyrus's proclamation to the Babylonians his name
 is joined to that of his father in the prayers to Marduk. On a tablet
@@ -28,7 +28,7 @@ The traditions about Cambyses, preserved by the Greek authors, come from
 two different sources. The first, which forms the main part of the
 account of Herodotus (iii. 2; 4; 10-37), is of Egyptian origin. Here
 Cambyses is made the legitimate son of Cyrus and a daughter of Apries
-(Herod, iii. 2, Dinon fr. 11, Polyaen. viii. 29), whose death he avenges
+([[Herod]], iii. 2, Dinon fr. 11, Polyaen. viii. 29), whose death he avenges
 on the successor of the usurper Amasis. (In Herod, iii. 1 and Ctesias
 _ap_. Athen. xiii. 560 D, this tradition is corrected by the Persians:
 Cambyses wants to marry a daughter of Amasis, who sends him a daughter
@@ -59,7 +59,7 @@ killed his brother Bardiya (Smerdis), whom Cyrus had appointed governor
 of the eastern provinces. The date is given by Darius, whereas the Greek
 authors narrate the murder after the conquest of Egypt. The war took
 place in 525, when Amasis had just been succeeded by his son
-Psammetichus III. Cambyses had prepared for the march through the desert
+Psammetichus III. Cambyses had prepared for the march through the [[Desert|desert]]
 by an alliance with Arabian chieftains, who brought a large supply of
 water to the stations. King Amasis had hoped that Egypt would be able to
 withstand the threatened Persian attack by an alliance with the Greeks.
@@ -72,8 +72,8 @@ Psammetichus was executed, having attempted a rebellion. The Egyptian
 inscriptions show that Cambyses officially adopted the titles and the
 costume of the Pharaohs, although we may very well believe that he did
 not conceal his contempt for the customs and the religion of the
-Egyptians. From Egypt Cambyses attempted the conquest of Ethiopia
-(Cush), i.e. the kingdom of Napata and Meroe, the modern Nubia. But his
+Egyptians. From Egypt Cambyses attempted the conquest of [[Ethiopia]]
+([[Cush]]), i.e. the kingdom of Napata and Meroe, the modern Nubia. But his
 army was not able to cross the deserts; after heavy losses he was forced
 to return. In an inscription from Napata (in the Berlin museum) the
 Ethiopian king Nastesen relates that he had beaten the troops of
@@ -89,7 +89,7 @@ impossible, died by his own hand (March 521). This is the account of
 Darius, which certainly must be preferred to the traditions of Herodotus
 and Ctesias, which ascribe his death to an accident. According to
 Herodotus (iii. 64) he died in the Syrian Ecbatana, i.e. Hamath;
-Josephus (_Ant._ xi. 2. 2) names Damascus; Ctesias, Babylon, which is
+Josephus (_Ant._ xi. 2. 2) names [[Damascus]]; Ctesias, Babylon, which is
 absolutely impossible.
 
   See A. Lincke, _Kambyses in der Sage, Litteratur und Kunst des

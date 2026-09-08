@@ -39,7 +39,7 @@ that, had it not been for the Athenians, the battle of Salamis would
 never have been even fought, and Greece would probably have become a
 Persian satrapy. The Athenian contingent which was sent to aid Pausanias
 in the task of driving the Persians finally out of the Thraceward towns
-was under the command of the Athenians, Aristides and Cimon, men of tact
+was under the command of the Athenians, [[Aristides]] and Cimon, men of tact
 and probity. It is not, therefore, surprising that when Pausanias was
 recalled to Sparta on the charge of treasonable overtures to the
 Persians, the Ionian allies appealed to the Athenians on the grounds of
@@ -92,7 +92,7 @@ manifestly unsuccessful.
 Of the first ten years of the league's history we know practically
 nothing, save that it was a period of steady, successful activity
 against the few remaining Persian strongholds in Thrace and the Aegean
-(Herod, i. 106-107, see ATHENS, CIMON). In these years the Athenian
+([[Herod]], i. 106-107, see ATHENS, CIMON). In these years the Athenian
 sailors reached a high pitch of training, and by their successes
 strengthened that corporate pride which had been born at Salamis. On the
 other hand, it naturally came to pass that certain of the allies became
@@ -104,7 +104,7 @@ persuaded the synod to accept a money commutation. The Ionians were
 naturally averse from prolonged warfare, and in the prosperity which
 must have followed the final rout of the Persians and the freeing of the
 Aegean from the pirates (a very important feature in the league's
-policy) a money contribution was only a trifling burden. The result was,
+policy) a money contribution was only a trifling [[Burden|burden]]. The result was,
 however, extremely bad for the allies, whose status in the league
 necessarily became lower in relation to that of Athens, while at the
 same time their military and naval resources correspondingly diminished.
@@ -130,12 +130,12 @@ from responding only by earthquake and the Helot revolt. But this is
 both unproved and improbable. Sparta had so far no quarrel with Athens.
 Athens thus became mistress of the Aegean, while the synod at Delos had
 become practically, if not theoretically, powerless. It was at this time
-that Cimon (q.v.), who had striven to maintain a balance between Sparta,
+that Cimon (q.v.), who had striven to maintain a [[Balance|balance]] between Sparta,
 the chief military, and Athens, the chief naval power, was successfully
 attacked by Ephialtes and Pericles. During the ensuing years, apart from
 a brief return to the Cimonian policy, the resources of the league, or,
 as it has now become, the Athenian empire, were directed not so much
-against Persia as against Sparta, Corinth, Aegina and Boeotia. (See
+against Persia as against Sparta, [[Corinth]], Aegina and [[Boeotia]]. (See
 ATHENS; SPARTA, &c.) A few points only need be dealt with here. The
 first years of the land war brought the Athenian empire to its zenith.
 Apart from Thessaly, it included all Greece outside the Peloponnese. At
@@ -143,9 +143,9 @@ the same time, however, the Athenian expedition against the Persians in
 Egypt ended in a disastrous defeat, and for a time the Athenians
 returned to a philo-Laconian policy, perhaps under the direction of
 Cimon (see CIMON and PERICLES). Peace was made with Sparta, and, if we
-are to believe 4th-century orators, a treaty, the Peace of Callias or of
+are to believe 4th-century orators, a treaty, the Peace of [[Callias]] or of
 Cimon, was concluded between the Great King and Athens in 449 after the
-death of Cimon before the walls of Citium in Cyprus. The meaning of this
+death of Cimon before the walls of Citium in [[Cyprus]]. The meaning of this
 so-called Peace of Callias is doubtful. Owing to the silence of
 Thucydides and other reasons, many scholars regard it as merely a
 cessation of hostilities (see CIMON and CALLIAS, where authorities are
@@ -156,11 +156,11 @@ Minor.
 
 During this period the power of Athens over her allies had increased,
 though we do not know anything of the process by which this was brought
-about. Chios, Lesbos and Samos alone furnished ships; all the rest had
+about. Chios, [[Lesbos]] and Samos alone furnished ships; all the rest had
 commuted for a money payment. This meant that the synod was quite
 powerless. Moreover in 454 (probably) the changed relations were
 crystallized by the transference (proposed by the Samians) of the
-treasury to Athens (_Corp. Inscr. Attic._ i. 260). Thus in 448 B.C.
+treasury to Athens (_Corp. Inscr. [[Attic]]._ i. 260). Thus in 448 B.C.
 Athens was not only mistress of a maritime empire, but ruled over
 Megara, Boeotia, Phocis, Locris, Achaea and Troezen, i.e. over so-called
 allies who were strangers to the old pan-Ionian assembly and to the
@@ -181,7 +181,7 @@ Athens had endeavoured to guarantee by supporting the democratic parties
 in the various states. Gradually the exiled oligarchs combined; with the
 defeat of Tolmides at Coroneia, Boeotia was finally lost to the empire,
 and the loss of Phocis, Locris and Megara was the immediate sequel.
-Against these losses the retention of Euboea, Nisaea and Pegae was no
+Against these losses the retention of [[Euboea]], Nisaea and Pegae was no
 compensation; the land empire was irretrievably lost.
 
 The next important event is the revolt of Samos, which had quarrelled
@@ -200,7 +200,7 @@ The succeeding events which led to the Peloponnesian War and the final
 disruption of the league are discussed in other articles. (See ATHENS:
 _History_, and PELOPONNESIAN War.) Two important events alone call for
 special notice. The first is the raising of the allies' tribute in 425
-B.C. by a certain Thudippus, presumably a henchman of Cleon. The fact,
+B.C. by a certain Thudippus, presumably a [[Henchman|henchman]] of Cleon. The fact,
 though not mentioned by Thucydides, was inferred from Aristophanes
 (_Wasps_, 660), Andocides (_de Pace_, S 9), Plutarch (_Aristides_, c.
 24), and pseudo-Andocides (_Alcibiad._ 11); it was proved by the
@@ -219,12 +219,12 @@ almost certainly wrong in saying that the amount of the original tribute
 was 460 talents (about L106,000); this figure cannot have been reached
 for at least twelve, probably twenty years, when new members had been
 enrolled (Lycia, Caria, Eion, Lampsacus). Similarly he is probably
-wrong, or at all events includes items of which the tribute lists take
+wrong, or at all events includes [[Item|items]] of which the tribute lists take
 no account, when he says that it amounted to 600 talents at the
 beginning of the Peloponnesian War. The moderation of the assessment is
 shown not only by the fact that it was paid so long without objection,
 but also by the individual items. Even in 425 Naxos and Andros paid only
-15 talents, while Athens had just raised an _eisphora_ (income tax) from
+15 talents, while Athens had just raised an _eisphora_ ([[Income Tax|income tax]]) from
 her own citizens of 200 talents. Moreover it would seem that a tribute
 which yielded less than the 5% tax of 411 could not have been
 unreasonable.
@@ -236,7 +236,7 @@ the fact that in some cases several towns were grouped together in one
 payment ([Greek: synteleis]). These were grouped into five main
 geographical divisions (from 443 to 436; afterwards four, Caria being
 merged in Ionia). Each division was represented by two elective
-assessment commissioners ([Greek: taktai]), who assisted the Boule at
+assessment commissioners ([Greek: taktai]), who assisted the [[Boule]] at
 Athens in the quadrennial division of the tribute. Each city sent in its
 own assessment before the [Greek: taktai], who presented it to the
 Boule. If there was any difference of opinion the matter was referred to
@@ -256,7 +256,7 @@ among scholars regarding the attitude of imperial Athens towards her
 allies. Grote maintained that on the whole the allies had little ground
 for complaint; but in so doing he rather seems to leave out of account
 the Greek's dislike of external discipline. The very fact that the
-hegemony had become an empire was enough to make the new system highly
+[[Hegemony|hegemony]] had become an empire was enough to make the new system highly
 offensive to the allies. No very strong argument can be based on the
 paucity of actual revolts. The indolent Ionians had seen the result of
 secession at Naxos and rebellion at Thasos; the Athenian fleet was
@@ -285,7 +285,7 @@ peculiarly galling to the self-respect of the allies and inconvenient to
 individuals to be compelled to carry cases to Athens and Athenian
 juries. Furthermore we gather from the Aristoteles inscription and from
 the 4th-century orators that Athens imposed democratic constitutions on
-her allies; indeed Isocrates (_Paneg._, 106) takes credit for Athens on
+her allies; indeed Isocrates (_Paneg._, 106) takes [[Credit|credit]] for Athens on
 this ground, and the charter of Erythrae confirms the view (cf. Arist.
 _Polit._, viii., vi. 9 1307 b 20; Thuc. viii. 21, 48, 64, 65). Even
 though we admit that Chios, Lesbos and Samos (up to 440) retained their
@@ -298,7 +298,7 @@ extended to the most intimate concerns of local administration.
 Thus the great attempt on the part of Athens to lead a harmonious league
 of free Greek states for the good of Hellas degenerated into an empire
 which proved intolerable to the autonomous states of Greece. Her failure
-was due partly to the commercial jealousy of Corinth working on the dull
+was due partly to the commercial [[Jealousy|jealousy]] of Corinth working on the dull
 antipathy of Sparta, partly to the hatred of compromise and discipline
 which was fatally characteristic of Greece and especially of Ionian
 Greece, and partly also to the lack of tact and restraint shown by
@@ -314,7 +314,7 @@ Athens had shown that there could be no safety for the smaller states
 save in combination.
 
 There can be no reasonable doubt that as soon as the Athenians began to
-recover from the paralysing effect of the victory of Lysander and the
+recover from the paralysing effect of the victory of [[Lysander]] and the
 internal troubles in which they were involved by the government of the
 Thirty, their thoughts turned to the possibility of recovering their
 lost empire. The first step in the direction was the recovery of their
@@ -322,7 +322,7 @@ sea-power, which was effected by the victory of Conon at Cnidus (August
 394 B.C.). Gradually individual cities which had formed part of the
 Athenian empire returned to their alliance with Athens, until the
 Spartans had lost Rhodes, Cos, Nisyrus, Teos, Chios, Mytilene, Ephesus,
-Erythrae, Lemnos, Imbros, Scyros, Eretria, Melos, Cythera, Carpathus
+Erythrae, [[Lemnos]], [[Imbros]], Scyros, [[Eretria]], Melos, Cythera, Carpathus
 and Delos. Sparta had only Sestos and Abydos of all that she had won by
 the battle of Aegospotami. At the same time no systematic constructive
 attempt at a renewal of empire can as yet be detected. Athenian
@@ -334,9 +334,9 @@ and Samos in 391 and the civil war in Rhodes, the star of Sparta seemed
 again to be in the ascendant. But the whole position was changed by the
 successes of Thrasybulus, who brought over the Odrysian king Medocus and
 Seuthes of the Propontis to the Athenian alliance, set up a democracy in
-Byzantium and reimposed the old 10% duty on goods from the Black Sea.
+Byzantium and reimposed the old 10% duty on goods from the [[Black Sea]].
 Many of the island towns subsequently came over, and from inscriptions
-at Clazomenae (_C.I.A._ ii. 14_b_) and Thasos (_C.I.A._ iv. 11_b_) we
+at [[Clazomenae]] (_C.I.A._ ii. 14_b_) and Thasos (_C.I.A._ iv. 11_b_) we
 learn that Thrasybulus evidently was deliberately aiming at a renewal of
 the empire, though the circumstances leading to his death at Aspendus
 when seeking to raise money suggest that he had no general backing in
@@ -351,7 +351,7 @@ the mainland of Asia with the islands of Cyprus and Clazomenae were
 recognized as Persian, all other cities except Imbros, Lemnos and Scyros
 as autonomous. Directly, this arrangement prevented an Athenian empire;
 indirectly, it caused the sacrificed cities and their kinsmen on the
-islands to look upon Athens as their protector. The gross selfishness of
+islands to look upon Athens as their protector. The [[Gross|gross]] selfishness of
 the Spartans, herein exemplified, was emphasized by their capture of the
 Theban citadel, and, after their expulsion, by the raid upon Attica in
 time of peace by the Spartan Sphodrias, and his immunity from punishment
@@ -409,7 +409,7 @@ period in the league's existence. The original purpose of the
 league--the protection of the allies from the ambitions of Sparta--was
 achieved. Athens was recognized as mistress of the sea; Sparta as the
 chief land power. The inherent weakness of the coalition had, however,
-become apparent. The enthusiasm of the allies (numbering about seventy)
+become apparent. The [[Enthusiasm|enthusiasm]] of the allies (numbering about seventy)
 waned rapidly before the financial exigencies of successive campaigns,
 and it is abundantly clear that Thebes had no interest save the
 extension of her power in Boeotia. Though her secession, therefore,
@@ -426,7 +426,7 @@ large number of inferences as to the significance of events which are on
 the surface merely a part of the individual foreign policy of Athens.
 
 _Period 371-357._--The first event in this period was the battle of
-Leuctra (July 371), in which, no doubt to the surprise of Athens, Thebes
+[[Leuctra]] (July 371), in which, no doubt to the surprise of Athens, Thebes
 temporarily asserted itself as the chief land power in Greece. To
 counterbalance the new power Athens very rashly plunged into
 Peloponnesian politics with the ulterior object of inducing the states
@@ -478,7 +478,7 @@ joined in the opposition to the Theban expedition which ended in the
 battle of Mantineia (July). In the next year the Athenian generals
 failed in the north in their attempt to control the Hellespont. In
 Thessaly Alexander of Pherae became hostile and after several successes
-even attacked the Peiraeus. Chares was ordered to make reprisals, but
+even attacked the Peiraeus. [[Chares]] was ordered to make reprisals, but
 instead sailed to Corcyra, where he made the mistake of siding with the
 oligarchs. The last event of the period was a success, the recovery of
 Euboea (357), which was once more added to the league.
@@ -553,10 +553,10 @@ Synedrion] was practically only a tool in the hands of Athens.
 
   AUTHORITIES.--_The First League._--The general histories of Greece,
   especially those of A. Holm (Eng. trans., London, 1894), G. Busolt
-  (2nd ed., Gotha, 1893), J. Beloch (Strassburg, 1893 foll.), and G.
+  (2nd ed., [[Gotha]], 1893), J. Beloch (Strassburg, 1893 foll.), and G.
   Grote (the one-vol. ed. of 1907 has some further notes on later
   evidence). E. Meyer's _Gesch. des Altertums_ (Stuttgart, 1892 foll.)
-  and _Forschungen_ (Halle, 1892 foll.) are of the greatest value. For
+  and _Forschungen_ ([[Halle]], 1892 foll.) are of the greatest value. For
   inscriptions, G. F. Hill, _Sources of Greek History_, 478-431 (2nd
   ed., 1907); E. L. Hicks and G. F. Hill, _Greek Hist. Inscr._ (Oxford,
   1901). On the tribute see also U. Kohler in _Abhandlungen d. Berliner
@@ -566,8 +566,8 @@ Synedrion] was practically only a tool in the hands of Athens.
   quoted. For the last years of the league see also PELOPONNESIAN WAR.
 
   _The Second League._--The chief modern works are G. Busolt, "Der
-  zweite athenische Bund" in _Neue Jahrbucher fur classische Philologie_
-  (supp. vol. vii., 1873-1875, pp. 641-866), and F. H. Marshall, _The
+  zweite athenische Bund" in _Neue Jahrbucher [[Fur|fur]] classische Philologie_
+  (supp. vol. vii., 1873-1875, pp. 641-866), and F. H. [[Marshall]], _The
   Second Athenian Confederacy_ (1905), one of the Cambridge Historical
   Essays (No. xiii.). The latter is based on Busolt's monograph and
   includes subsequent epigraphic evidence, with a full list of

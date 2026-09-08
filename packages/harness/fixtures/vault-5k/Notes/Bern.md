@@ -15,9 +15,9 @@ peninsula, round the base of which flows the river Aar, thus completely
 cutting off the old town, save to the west. Five lofty bridges have been
 thrown over the Aar, the two most modern being the Kirchfeld and
 Kornhaus bridges which have greatly contributed to create new
-residential quarters near the old town. Within the town the arcades (or
+residential quarters near the old town. Within the town the [[Arcade|arcades]] (or
 _Lauben_) on either side of the main street, and the numerous
-elaborately ornamented fountains attract the eye, as well as the two
+elaborately ornamented [[Fountain|fountains]] attract the eye, as well as the two
 remaining towers that formerly stood on the old walls but are now in the
 centre of the town; the _Zeilglockenthurm_ (famous for its singular
 16th-century clock, with its mechanical contrivances, set in motion when
@@ -36,7 +36,7 @@ rare printed books, but should be carefully distinguished from the
 national Swiss library, which, with the building for the federal
 archives, is built in the new Kirchfeld quarter. There are a number of
 museums; the historical (archaeological and medieval), the natural
-history (in which the skin of Barry, the famous St Bernard dog, is
+history (in which the skin of [[Barry]], the famous St Bernard dog, is
 preserved), the art (mainly modern Swiss pictures), and the Alpine (in
 which are collections of all kinds relating to the Swiss Alps). Bern
 possesses a university (founded in 1834) and two admirably organized
@@ -48,11 +48,11 @@ name to the town; certainly a bear is shown on the earliest known town
 seal (1224), while live bears have been maintained at the charges of the
 town since 1513. There is comparatively little industrial activity in
 the town, the importance of which is mainly political, though of late
-years it has been selected as the seat of various international
+years it has been selected as the seat of various [[International|international]]
 associations (postal, telegraph, railway, copyright, &c.). The climate
 is severe, as the town is much exposed to cold winds blowing from the
 snowy Alps. In point of population it is exceeded in Switzerland by
-Zurich, Basel and Geneva, though the number of inhabitants has risen
+Zurich, Basel and [[Geneva]], though the number of inhabitants has risen
 from 27,558 in 1850 and 43,197 in 1880 to 64,227 in 1900. In 1900,
 59,698 inhabitants were German-speaking; while 57,144 were Protestants,
 6087 Romanists (including Old Catholics) and 655 Jews. The height of the
@@ -76,7 +76,7 @@ confederation as its eighth member. It soon took the lead in the
 confederation, though always aiming at enlarging its own borders, even
 at great risks (see the article on the canton). In 1528 Bern accepted
 the religious reformation, and henceforth became one of its chief
-champions in Switzerland. In the 17th century the number of families by
+[[Champion|champions]] in Switzerland. In the 17th century the number of families by
 which high offices of state could be held was diminished, so that in
 1605 there were 152 thus qualified, but in 1691 only 104, while towards
 the end of the 18th century there were only 69 such families. Meanwhile
@@ -92,12 +92,12 @@ in 1831, since which time Bern has been in the van of political
 progress. From 1815 to 1848 it shared with Zurich and Lucerne the
 supreme rule (which shifted from one to the other every two years) in
 the Swiss confederation, while in 1848 a federal law made Bern the sole
-political capital, where the federal government is permanently fixed and
+political capital, where the [[Federal Government|federal government]] is permanently fixed and
 where the ministers of foreign powers reside.
 
-  AUTHORITIES.--_Die Alp- und Weidewirthschaft im Kant. Bern_ (Bern,
+  AUTHORITIES.--_Die Alp- und Weidewirthschaft im [[Kant]]. Bern_ (Bern,
   1903); _Archiv d. hist. Vereins d. Kant. Bern_, from 1848, and
-  _Blatter fur bernische Geschichte_, from 1905; _Bernische Biographien_
+  _Blatter [[Fur|fur]] bernische Geschichte_, from 1905; _Bernische Biographien_
   (Bern, 1898-1906); E. Friedli, _Barndutsch als Spiegel bernischen
   Volkstums_. vol. i. (_Lutzelfluh_, Bern, 1905), and vol. ii.
   (Grindelwald, Bern, 1908); _Festschrift zur 7ten Sakularfeier d.

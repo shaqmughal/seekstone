@@ -7,10 +7,10 @@ type: reference
 
 # Iron Mountain
 
-IRON MOUNTAIN, a city and the county-seat of Dickinson county, Michigan,
+IRON MOUNTAIN, a city and the county-seat of [[Dickinson]] county, Michigan,
 U.S.A., about 50 m. W. by N. of Escanaba, in the S.W. part of the Upper
 Peninsula. Pop. (1900) 9242, of whom 4376 were foreign-born; (1904)
-8585; (1910) 9216. It is served by the Chicago & North Western and the
+8585; (1910) 9216. It is served by the [[Chicago]] & North Western and the
 Chicago, Milwaukee & Saint Paul railways. The city is situated about
 1160 ft. above sea-level in an iron-mining district, and the mining of
 iron ore (especially at the Great Chapin Iron Mine) is its principal

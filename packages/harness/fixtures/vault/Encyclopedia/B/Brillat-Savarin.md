@@ -1,8 +1,8 @@
 # Brillat-Savarin
 
 BRILLAT-SAVARIN, ANTHELME (1755-1826), French gastronomist, was born at
-Belley, France, on the 1st of April 1755. In 1789 he was a deputy, in 1793
-mayor of Belley. To escape proscription he fled from France to Switzerland,
+Belley, France, on the 1st of April 1755. In 1789 he was a [[Deputy|deputy]], in 1793
+[[Mayor|mayor]] of Belley. To escape proscription he fled from France to Switzerland,
 and went thence to the United States, where he played in the orchestra of a
 New York theatre. On the fall of Robespierre he returned to France, and in
 1797 became a member of the court of cassation. He wrote various volumes on

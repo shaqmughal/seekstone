@@ -8,7 +8,7 @@ type: article
 # Galluppi
 
 GALLUPPI, PASQUALE (1770-1846), Italian philosopher, was born on the 2nd
-of April 1770 at Tropea, in Calabria. He was of good family, and after
+of April 1770 at Tropea, in [[Calabria]]. He was of good family, and after
 studying at the university of Naples he entered the public service, and
 was for many years employed in the office of the administration of
 finances. At the age of sixty, having become widely known by his
@@ -24,7 +24,7 @@ filosofiche sull' idealismo trascendentale_ (1841), a memoir on the
 system of Fichte.
 
   On his philosophical views see L. Ferri, _Essai sur l'histoire de la
-  philosophie en Italie au XIX^e siecle_, i. (1869); V. Botta in
+  philosophie en Italie au XIX^e siecle_, i. (1869); V. [[Botta]] in
   Ueberweg's _Hist. of Philosophy_, ii. app. 2; G. Barzellotti,
   "Philosophy in Italy," in Mind, iii. (1878); V. Lastrucci, _Pasquale
   Galluppi. Studio critico_ (Florence, 1890).

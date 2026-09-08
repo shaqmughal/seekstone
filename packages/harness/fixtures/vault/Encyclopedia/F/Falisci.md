@@ -6,10 +6,10 @@ topic: science
 
 # Falisci
 
-FALISCI, a tribe of Sabine origin or connexions, but speaking a dialect
+FALISCI, a tribe of Sabine origin or connexions, but speaking a [[Dialect|dialect]]
 closely akin to Latin, who inhabited the town of Falerii (q.v.), as well
 as a considerable tract of the surrounding country, probably reaching as
-far south as to include the small town of Capena. But at the beginning
+far south as to include the small town of [[Capena]]. But at the beginning
 of the historical period, i.e. from the beginning of the 5th century
 B.C., and no doubt earlier, the dominant element in the town was
 Etruscan; and all through the wars of the following centuries the town
@@ -17,7 +17,7 @@ was counted a member, and sometimes a leading member, of the Etruscan
 league (cf. Livy iv. 23, v. 17, vii. 17).
 
 In spite of the Etruscan domination, the Faliscans preserved many traces
-of their Italic origin, such as the worship of the deities Juno Quiritis
+of their Italic origin, such as the worship of the deities [[Juno]] Quiritis
 (Ovid, _Fasti_, vi. 49) and Feronia (Livy xxvi. n), the cult of _Dis
 Soranus_ by the _Hirpi_ or fire-leaping priests on Mount Soracte (Pliny,
 _Nat. Hist._ vii. 2, 19; Servius, _ad Aen._ xi. 785, 787), above all
@@ -33,7 +33,7 @@ As a specimen of the dialect may be quoted the words written round the
 edge of a picture on a patera, the genuineness of which is established
 by the fact that they were written before the glaze was put on: "foied
 vino pipafo, era carefo," i.e. in Latin "hodie vinum bibam, cras carebo"
-(R.S. Conway, _Italic Dialects_, p. 312, b). This shows some of the
+(R.S. [[Conway]], _Italic Dialects_, p. 312, b). This shows some of the
 phonetic characteristics of the Faliscan dialect, viz.:--
 
   1. The retention of medial f which in Latin became b;

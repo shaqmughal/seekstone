@@ -10,7 +10,7 @@ DISTRICT, a word denoting in its more general sense, a tract or extent
 of a country, town, &c., marked off for administrative or other
 purposes, or having some special and distinguishing characteristics. The
 medieval Latin _districtus_ (from _distringere_, to distrain) is defined
-by Du Cange as _Territorium feudi, seu tractus, in quo Dominus vassallos
+by Du Cange as _Territorium feudi, seu tractus, in quo [[Dominus]] vassallos
 et tenentes suos distringere potest_; and as _justitiae exercendae in eo
 tractu facultas_. It was also used of the territory over which the
 feudal lord exercised his jurisdiction generally. It may be noted that
@@ -29,12 +29,12 @@ _zillah_, an administrative subdivision of a province or presidency. In
 the United States of America the word has many administrative, judicial
 and other applications. In South Carolina it was used instead of
 "county" for the chief division of the state other than in the coast
-region. In the Virginias, Tennessee, Georgia, Kentucky and Maryland it
+region. In the Virginias, Tennessee, [[Georgia]], [[Kentucky]] and Maryland it
 answers to "township" or precinct, elsewhere the principal subdivision
 of a county. It is used for an electoral "division," each state being
 divided into Congressional and senatorial districts; and also for a
 political subdivision ranking between an unorganized and an organized
-Territory--e.g., the District of Columbia and Alaska.
+Territory--e.g., the District of [[Columbia]] and Alaska.
 
 ## References
 

@@ -7,14 +7,14 @@ tags: [botany, biography]
 
 # Base-Ball
 
-BASE-BALL (so-called from the bases and ball used), the national summer
-sport of the United States, popular also throughout Canada and in Japan.
+BASE-BALL (so-called from the bases and [[Ball|ball]] used), the national summer
+sport of the United States, popular also throughout Canada and in [[Japan]].
 Its origin is obscure. According to some authorities it is derived from the
-old English game of rounders (_q.v._), several variations of which were
+old English [[Game|game]] of rounders (_q.v._), several variations of which were
 played in America during the colonial period; according to other
 authorities, its resemblance to rounders is merely a coincidence, and it
-had its origin in the United States, probably at Cooperstown, New York, in
-1839, when it is said, Abner Doubleday (later a general in the U.S. army)
+had its origin in the United States, probably at [[Cooperstown]], New York, in
+1839, when it is said, Abner [[Doubleday]] (later a general in the U.S. army)
 devised a scheme for playing it. About the beginning of the 19th century a
 game generally known as "One Old Cat" became popular with schoolboys in the
 North Atlantic states; this game was played by three boys, each fielding
@@ -25,17 +25,17 @@ eight players. A development of this game bore the name of town-ball and
 the Olympic Town-Ball Club of Philadelphia was organized in 1833. Matches
 between organized base-ball clubs were first played in the neighbourhood of
 New York, where the Washington Baseball Club was founded in 1843. The first
-regular code of rules was drawn up in 1845 by the Knickerbocker Baseball
-Club and used in its matches with the Gotham Eagle and Empire clubs of New
+regular [[Code|code]] of rules was drawn up in 1845 by the [[Knickerbocker]] Baseball
+Club and used in its matches with the Gotham [[Eagle]] and Empire clubs of New
 York, and the Excelsior, Putnam, Atlantic and Eckford clubs of Brooklyn. In
 1858 the first National Association was organized, and, while its few
 simple laws were generally similar to the corresponding rules of the
 present code, the ball was larger and "livelier," and the pitcher was
 compelled to deliver it with a full toss, no approach to a throw being
 allowed. The popularity of the game spread rapidly, resulting in the
-organization of many famous clubs, such as the Beacon and Lowell of Boston,
-the Red Stockings of Cincinnati, the Forest City of Cleveland and the Maple
-Leaf of Guelph, but owing to the sharp rivalry between the foremost teams,
+organization of many famous clubs, such as the Beacon and [[Lowell]] of [[Boston]],
+the Red Stockings of Cincinnati, the Forest City of [[Cleveland]] and the [[Maple]]
+[[Leaf]] of Guelph, but owing to the sharp rivalry between the foremost teams,
 semi-professionalism soon crept in, although in those days a man who played
 for a financial consideration always had some other means of livelihood, as
 the income to be derived from playing ball in the summer time was not
@@ -55,12 +55,12 @@ the sport grew rapidly thereafter both in the eastern and in the middle
 western part of the United States. In the next five years the [v.03 p.0459]
 interest in the game became so great that it was decided to send a
 representation of American base-ball players to England; and two clubs, the
-Bostons, who were the champions that year, and the Athletics, former
-champions, crossed the Atlantic and played several exhibition games with
+Bostons, who were the [[Champion|champions]] that year, and the Athletics, former
+champions, crossed the Atlantic and played several exhibition [[Games|games]] with
 each other. While successful in exciting some interest, the trip did not
 succeed in popularizing base-ball in Great Britain. Fifteen years later two
 other nines of representative American base-ball players made a general
-tour of Australia and various other countries, completing their trip by a
+tour of [[Australia]] and various other countries, completing their trip by a
 contest in England. This too, however, had little effect, and later
 attempts to establish base-ball in England have likewise been unsuccessful.
 But in America the game continued to prosper. The first entirely
@@ -68,7 +68,7 @@ professional club was the Cincinnati Red Stockings (1868). Two national
 associations were formed in 1871, one having jurisdiction over professional
 clubs and the other over amateurs. In 1876 was formed the National League,
 of eight clubs under the presidency of Nicholas E. Young, which contained
-the expert ball-players of the country. There were so many people in the
+the [[Expert|expert]] ball-players of the country. There were so many people in the
 United States who wanted to see professional base-ball that this
 organization proved too small to furnish the desired number of games, and
 hence in 1882 the American Association was formed. For a time it seemed
@@ -84,7 +84,7 @@ abolishing black-listing and other supposed abuses. The Players' League
 proved not sufficiently strong for the task, and fell to pieces. For some
 years the National League consisted of twelve clubs organized as stock
 companies, representing cities as far apart as Boston and St Louis, but in
-1900 the number was reduced to eight, namely, Boston, Brooklyn, Chicago,
+1900 the number was reduced to eight, namely, Boston, Brooklyn, [[Chicago]],
 Cincinnati, New York, Pittsburg, Philadelphia and St Louis. Certain
 aggressive and dissatisfied elements took advantage of this change to
 organize a second great professional association under the presidency of
@@ -98,14 +98,14 @@ state leagues. Professional base-ball has not been free from certain
 objectionable elements, of which the unnecessary and rowdyish fault-finding
 with the umpires has been the most evident, but the authorities of the
 different leagues have lately succeeded, by strenuous legislation, in
-abating these. Of authorities on base-ball, Henry Chadwick (d. 1908) is the
+abating these. Of authorities on base-ball, Henry [[Chadwick]] (d. 1908) is the
 best known.
 
 Amateur base-ball, in its organized phase, is played mostly by school and
 university clubs as well as those of athletic associations. The first
 college league was formed in 1879 and comprised Harvard, Princeton,
 Amherst, Brown and Dartmouth, Yale joining a year later. The Eastern
-College League, with Columbia, Harvard, Princeton and Yale, followed in
+College League, with [[Columbia]], Harvard, Princeton and Yale, followed in
 1887. This was afterwards dissolved and at present the most important
 universities of the eastern states are members of no league, although such
 organizations exist in New England and different parts of the west and
@@ -139,14 +139,14 @@ encircling of the bases without being put out) wins. A runner who is not
 put out but fails to reach home-base does not score a run, but is "left on
 base."
 
-Implements of the Game.--The ball, which is 9-9¼ in. in circumference and
+[[Implement|Implements]] of the Game.--The ball, which is 9-9¼ in. in circumference and
 weighs 5-5¼ oz., is made of yarn wound upon a small core of vulcanized
 rubber and covered with white leather, which may not be intentionally
 discoloured. The bat must be round, not over 2¾ in. in diameter at the
 thickest part, nor more than 42 in. in length. It is usually made of ash or
 some other hard wood, and the handle may be wound with twine.
 Three-cornered spikes are usually worn on the players' shoes. The catcher
-and first-baseman (_v. infra_) may wear a glove of any size on one hand;
+and first-baseman (_v. infra_) may wear a [[Glove|glove]] of any size on one hand;
 the gloves worn by all other players may not measure more than 14 in. round
 the palm nor weigh more than 10 oz.
 
@@ -168,7 +168,7 @@ flight of the ball in the air, but with the increase of pace came the
 possibility of doing this by a movement of the wrist as the ball left the
 hand, the twist thus given causing the ball, by the pressure on the air, to
 swerve to one side or the other, or downwards, according to the position of
-the hand and fingers as the ball is let go. The commonest of these swerving
+the hand and [[Finger|fingers]] as the ball is let go. The commonest of these swerving
 deliveries, and the first one invented, is the out-curve, the ball coming
 straight towards the batsman until almost within reach of his bat, when it
 suddenly swerves away from him towards the right, if he be right-handed.
@@ -179,7 +179,7 @@ important part of pitching strategy, as well as variation of the delivery
 and the play upon the known weaknesses or idiosyncrasies of the batsman.
 Good control over the ball is a necessity, as four "balls" called by the
 umpire,--that is, balls not over the base, or over the base and not between
-the shoulder and knee of the batsman,--entitle the batsman to become a
+the shoulder and [[Knee|knee]] of the batsman,--entitle the batsman to become a
 base-runner and take his first base. If the pitcher disregards the
 restrictions placed upon him by the rules (_e.g._ he may not, while in
 position, make a motion to deliver the ball to the batsman without actually
@@ -224,7 +224,7 @@ which he shares with the short-stop, whose position corresponds to that of
 the second-baseman on the left side of the diamond. Short-stop must be a
 quick and accurate thrower and a lively fielder, as he is required to back
 up second- and third-base. Both he and the second-baseman must field ground
-balls cleanly and are often called upon to catch fly balls also. The
+balls cleanly and are often called upon to catch [[Fly|fly]] balls also. The
 requirements of third-baseman are very similar, but he must be an
 exceptionally good thrower, as he has the longest distance to throw to the
 first-base; and as he plays nearer to the batsman than do the
@@ -256,7 +256,7 @@ an outfield captain for the special purpose of calling the name of the
 player who is to take a certain fly ball, to prevent collisions.
 
 The batsman stands three-quarters facing the pitcher within a parallelogram
-("box") 6 ft. long and 4 ft. wide, the lines of which he may not overstep,
+("[[Box|box]]") 6 ft. long and 4 ft. wide, the lines of which he may not overstep,
 on penalty of being declared out. His object is to get to first-base
 without being put out. This he may do in several ways. (1) He may make a
 "safe-hit," _i.e._ one that is "fair" but cannot be caught, or fielded in
@@ -267,7 +267,7 @@ his base. (4) He may, except in certain specified cases, after a third
 strike, if the catcher has failed to catch the third one, earn his base if
 he can reach it before the catcher can throw the ball to the first-baseman,
 and the first-baseman, with the ball in his possession, touch first-base.
-(5) He may reach his base by an error of some fielder, which may be either
+(5) He may reach his base by an [[Error|error]] of some fielder, which may be either
 a muffed fly, a failure to stop and field a ground ball, a muffed thrown
 ball or a bad throw. Only balls batted within the foul-lines (see diagram)
 are fair. All others are "fouls," and the batsman cannot run on them. All
@@ -277,7 +277,7 @@ the umpire, after which fouls are not counted.
 Batting, as in cricket, is a science by itself, although comparatively more
 stress is laid on fielding than in cricket. A good batsman can place the
 ball in any part of the field he chooses by meeting the ball at different
-angles. He may make a safe hit either by hitting the ball on the ground
+angles. He may make a safe [[Hit|hit]] either by hitting the ball on the ground
 directly through the infield out of reach of the fielders, or so hard that
 it cannot be [v.03 p.0461] stopped. In the last case a failure to stop and
 field it does not count as an "error" (misplay) for the fielder, even
@@ -343,7 +343,7 @@ catcher if the runner on third is attempting to score, or letting it pass
 to the player on second-base, if the runner on third does not make the
 attempt.
 
-Team batting is the co-operation of batsman and base-runner. The commonest
+Team batting is the [[Co-Operation|co-operation]] of batsman and base-runner. The commonest
 example is the "hit and run" play, _e.g._ when a runner is on first-base.
 After the runner has ascertained by a false start which infielder, whether
 second-baseman or short-stop, will cover second-base, the batsman signals
@@ -357,7 +357,7 @@ runner is on third-base and the batsman signals that he will hit the next
 ball. This enables the runner to get a long start, making his scoring
 nearly certain if the batsman succeeds in hitting the ball fairly. If the
 ball is hit without the signal and consequent long start by the runner, the
-latter is frequently put out at the plate, as the infielder who fields the
+latter is frequently put out at the plate, as the infielder who [[Fields|fields]] the
 ball will ignore the batsman and throw the ball to the catcher to head off
 the runner and prevent a run being scored. In close games the
 "sacrifice-hit," a part of team batting, is an important element. It
@@ -407,7 +407,7 @@ divided by 1267, or 988, 1000 being perfect fielding.
 
 See _Spalding's Base-ball Guide_, in Spalding's Athletic Library, published
 annually; _How to Play Base-ball_, by T. H. Murnane, Spalding's Athletic
-Library; _The Book of School and College Sports_, by R. H. Barbour (New
+Library; _The Book of School and College Sports_, by R. H. [[Barbour]] (New
 York, 1904).
 
 (E. B.)

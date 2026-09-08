@@ -8,16 +8,16 @@ id: 42-2950
 
 # Canova
 
-CANOVA, ANTONIO (1757-1822), Italian sculptor, was born on the 1st of
+CANOVA, [[Antonio|ANTONIO]] (1757-1822), Italian sculptor, was born on the 1st of
 November 1757, at Passagno, an obscure village situated amid the
-recesses of the hills of Asolo, where these form the last undulations of
+recesses of the hills of [[Asolo]], where these form the last undulations of
 the Venetian Alps, as they subside into the plains of Treviso. At three
 years of age Canova was deprived of both parents, his father dying and
 his mother remarrying. Their loss, however, was compensated by the
 tender solicitude and care of his paternal grandfather and grandmother,
 the latter of whom lived to experience in her turn the kindest personal
 attention from her grandson, who, when he had the means, gave her an
-asylum in his house at Rome. His father and grandfather followed the
+[[Asylum|asylum]] in his house at Rome. His father and grandfather followed the
 occupation of stone-cutters or minor statuaries; and it is said that
 their family had for several ages supplied Passagno with members of that
 calling. As soon as Canova's hand could hold a pencil, he was initiated
@@ -28,10 +28,10 @@ works. He was greatly attached to his art; and upon his young charge he
 looked as one who was to perpetuate, not only the family name, but also
 the family profession.
 
-The early years of Canova were passed in study. The bias of his mind was
+The early years of Canova were passed in study. The [[Bias|bias]] of his mind was
 to sculpture, and the facilities afforded for the gratification of this
 predilection in the workshop of his grandfather were eagerly improved.
-In his ninth year he executed two small shrines of Carrara marble, which
+In his ninth year he executed two small shrines of Carrara [[Marble|marble]], which
 are still extant. Soon after this period he appears to have been
 constantly employed under his grandfather. Amongst those who patronized
 the old man was the patrician family Falier of Venice, and by this means
@@ -44,7 +44,7 @@ repeated by several biographers, that Canova was indebted to a trivial
 circumstance--the moulding of a lion in butter--for the warm interest
 which Falier took in his welfare. The anecdote may or may not be true.
 By his patron Canova was placed under Bernardi, or, as he is generally
-called by filiation, Torretto, a sculptor of considerable eminence, who
+called by filiation, Torretto, a sculptor of considerable [[Eminence|eminence]], who
 had taken up a temporary residence at Pagnano, a village in the vicinity
 of the senator's mansion. This took place whilst Canova was in his
 thirteenth year; and with Torretto he continued about two years, making
@@ -55,7 +55,7 @@ to Venice, whither he accordingly went, and was placed under a nephew of
 Torretto. With this instructor he continued about a year, studying with
 the utmost assiduity. After the termination of this engagement he began
 to work on his own account, and received from his patron an order for a
-group, "Orpheus and Eurydice." The first figure, which represents
+group, "Orpheus and [[Eurydice]]." The first figure, which represents
 Eurydice in flames and smoke, in the act of leaving Hades, was completed
 towards the close of his sixteenth year. It was highly esteemed by his
 patron and friends, and the artist was now considered qualified to
@@ -79,10 +79,10 @@ and modern history he rendered himself well acquainted and he also began
 to acquire some of the continental languages.
 
 Three years had now elapsed without any production coming from his
-chisel. He began, however, to complete the group for his patron, and the
+[[Chisel|chisel]]. He began, however, to complete the group for his patron, and the
 Orpheus which followed evinced the great advance he had made. The work
 was universally applauded, and laid the foundation of his fame. Several
-groups succeeded this performance, amongst which was that of "Daedalus
+groups succeeded this performance, amongst which was that of "[[Daedalus]]
 and Icarus," the most celebrated work of his noviciate. The simplicity
 of style and the faithful imitation of nature which characterized them
 called forth the warmest admiration. His merits and reputation being now
@@ -93,9 +93,9 @@ commencement of his twenty-fourth year.
 Before his departure for Rome, his friends had applied to the Venetian
 senate for a pension, to enable him to pursue his studies without
 embarrassment. The application was ultimately successful. The stipend
-amounted to three hundred ducats (about L60 per annum), and was limited
+amounted to three hundred [[Ducat|ducats]] (about L60 per annum), and was limited
 to three years. Canova had obtained letters of introduction to the
-Venetian ambassador, the Cavaliere Zulian, and enlightened and generous
+Venetian ambassador, the [[Cavaliere]] Zulian, and enlightened and generous
 protector of the arts, and was received in the most hospitable manner.
 His arrival in Rome, on the 28th of December 1780, marks a new era in
 his life. It was here he was to perfect himself by a study of the most
@@ -105,13 +105,13 @@ equal to the highest hopes cherished either by himself or by his
 friends. The work which first established his fame at Rome was "Theseus
 vanquishing the Minotaur." The figures are of the heroic size. The
 victorious Theseus is represented as seated on the lifeless body of the
-monster. The exhaustion which visibly pervades his whole frame proves
+monster. The exhaustion which visibly pervades his whole [[Frame|frame]] proves
 the terrible nature of the conflict in which he has been engaged.
 Simplicity and natural expression had hitherto characterized Canova's
 style; with these were now united more exalted conceptions of grandeur
 and of truth. The Theseus was regarded with fervent admiration.
 
-Canova's next undertaking was a monument in honour of Clement XIV.; but
+Canova's next undertaking was a monument in honour of [[Clement]] XIV.; but
 before he proceeded with it he deemed it necessary to request permission
 from the Venetian senate, whose servant he considered himself to be, in
 consideration of the pension. This he solicited in person, and it was
@@ -130,12 +130,12 @@ the right. This figure, which is intended as a personification of man's
 immaterial part, is considered as in almost every respect the most
 faultless and classical of Canova's works. In two different groups, and
 with opposite expression, the sculptor has represented Cupid with his
-bride; in the one they are standing, in the other recumbent. These and
+[[Bride|bride]]; in the one they are standing, in the other recumbent. These and
 other works raised his reputation so high that the most flattering
 offers were sent him from the Russian court to induce him to remove to
 St Petersburg, but these were declined. "Italy," says he, in writing of
 the occurrence to a friend, "Italy is my country--is the country and
-native soil of the arts. I cannot leave her; my infancy was nurtured
+native soil of the arts. I cannot leave her; my [[Infancy|infancy]] was nurtured
 here. If my poor talents can be useful in any other land, they must be
 of some utility to Italy; and ought not her claim to be preferred to all
 others?"
@@ -143,7 +143,7 @@ others?"
 Numerous works were produced in the years 1795-1797, of which several
 were repetitions of previous productions. One was the celebrated group
 representing the "Parting of Venus and Adonis." This famous production
-was sent to Naples. The French Revolution was now extending its shocks
+was sent to Naples. The [[French Revolution]] was now extending its shocks
 over Italy; and Canova sought obscurity and repose in his native
 Passagno. Thither he retired in 1798, and there he continued for about a
 year, principally employed in painting, of which art also he had some
@@ -151,17 +151,17 @@ knowledge. He executed upwards of twenty paintings about this time. One
 of his productions is a picture representing the dead body of the
 Saviour just removed from the cross, surrounded by the three Marys, S.
 John, Joseph of Arimathea, and, somewhat in the background, Nicodemus.
-Above appears the Father, with the mystic dove in the centre of a glory,
+Above appears the Father, with the mystic [[Dove|dove]] in the centre of a glory,
 and surrounded by a circle of cherubs. This composition, which was
 greatly applauded, he presented to the parochial church of his native
-place. Events in the political world having come to a temporary lull, he
+place. Events in the political world having come to a temporary [[Lull|lull]], he
 returned to Rome; but his health being impaired from arduous
 application, he took a journey through a part of Germany, in company
 with his friend Prince Rezzonico. He returned from his travels much
-improved, and again commenced his labours with vigour and enthusiasm.
+improved, and again commenced his labours with vigour and [[Enthusiasm|enthusiasm]].
 
 Canova's sculptures have been distributed under three heads:--(1) Heroic
-compositions; (2) Compositions of grace and elegance; and (3) Sepulchral
+compositions; (2) Compositions of [[Grace|grace]] and elegance; and (3) Sepulchral
 monuments and relievos. In noticing the works which fall under each of
 these divisions, it will be impossible to maintain a strict
 chronological order, but perhaps a better idea of his productions may
@@ -170,12 +170,12 @@ enumerated.
 
 (1) His "Perseus with the Head of Medusa" appeared soon after his
 return. The moment of representation is when the hero, flushed with
-conquest, displays the head of the "snaky Gorgon," whilst the right hand
-grasps a sword of singular device. By a public decree, this fine work
+conquest, displays the head of the "snaky [[Gorgon]]," whilst the right hand
+grasps a sword of singular device. By a public [[Decree|decree]], this fine work
 was placed in one of the _stanze_ of the Vatican hitherto reserved for
 the most precious works of antiquity; but it would be a mistake to say
 that it wholly sustains this comparison, or that it rivals the earlier
-realization of the same subject in Italian art, that by Cellini. In
+realization of the same subject in Italian art, that by [[Cellini]]. In
 1802, at the personal request of Napoleon, Canova repaired to Paris to
 model a bust of the first consul. The artist was entertained with
 munificence, and various honours were conferred upon him. The statue,
@@ -183,27 +183,27 @@ which is colossal, was not finished till six years after. On the fall of
 the great Napoleon, Louis XVIII. presented this statue to the British
 government, by whom it was afterwards given to the duke of Wellington.
 "Palamedes," "Creugas and Damoxenus," the "Combat of Theseus and the
-Centaur," and "Hercules and Lichas" may close the class of heroic
-compositions, although the catalogue might be swelled by the enumeration
+Centaur," and "[[Hercules]] and Lichas" may close the class of heroic
+compositions, although the [[Catalogue|catalogue]] might be swelled by the enumeration
 of various others, such as "Hector and Ajax," and the statues of
-Washington, King Ferdinand of Naples, and others. The group of "Hercules
+Washington, King [[Ferdinand]] of Naples, and others. The group of "Hercules
 and Lichas" is considered as the most terrible conception of Canova's
 mind, and in its peculiar style as scarcely to be excelled.
 
 (2) Under the head of compositions of grace and elegance, the statue of
-Hebe takes the first place in point of date. Four times has the artist
+[[Hebe]] takes the first place in point of date. Four times has the artist
 embodied in stone the goddess of youth, and each time with some
 variation. The only material improvement, however, is the substitution
 of a support more suitable to the simplicity of the art. Each of the
 statues is, in all its details, in expression, attitude and delicacy of
 finish, strikingly elegant. The "Dancing Nymphs" maintain a character
-similar to that of the Hebe. The "Graces" and the "Venus" are more
+similar to that of the Hebe. The "[[Graces]]" and the "Venus" are more
 elevated. The "Awakened Nymph" is another work of uncommon beauty. The
 mother of Napoleon, his consort Maria Louisa (as Concord), to model whom
 the author made a further journey to Paris in 1810, the princess
-Esterhazy and the muse Polymnia (Elisa Bonaparte) take their place in
+Esterhazy and the muse Polymnia (Elisa [[Bonaparte]]) take their place in
 this class, as do the ideal heads, comprising Corinna, Sappho, Laura,
-Beatrice and Helen of Troy.
+[[Beatrice]] and Helen of Troy.
 
 (3) Of the cenotaphs and funeral monuments the most splendid is the
 monument to the archduchess Maria Christina of Austria, consisting of
@@ -228,20 +228,20 @@ reconcile, he adjusted the affair in a manner at once creditable to his
 judgment and fortunate for his country. In the autumn of this year he
 gratified a wish he had long entertained of visiting London, where he
 received the highest tokens of esteem. The artist for whom he showed
-particular sympathy and regard in London was Haydon, who might at the
+particular sympathy and regard in London was [[Haydon]], who might at the
 time be counted the sole representative of historical painting there,
-and whom he especially honoured for his championship of the Elgin
-marbles, then recently transported to England, and ignorantly
+and whom he especially honoured for his championship of the [[Elgin]]
+[[Marbles|marbles]], then recently transported to England, and ignorantly
 depreciated by polite connoisseurs. Canova returned to Rome in the
 beginning of 1816, with the ransomed spoils of his country's genius.
 Immediately after, he received several marks of distinction,--by the
 hand of the Pope himself his name was inscribed in "the Golden Volume of
-the Capitol," and he received the title of marquis of Ischia, with an
+the Capitol," and he received the title of marquis of [[Ischia]], with an
 annual pension of 3000 crowns, about L625.
 
 He now contemplated a great work, a colossal statue of Religion. The
 model filled Italy with admiration; the marble was procured, and the
-chisel of the sculptor ready to be applied to it, when the jealousy of
+chisel of the sculptor ready to be applied to it, when the [[Jealousy|jealousy]] of
 churchmen as to the site, or some other cause, deprived the country of
 the projected work. The mind of Canova was inspired with the warmest
 sense of devotion, and though foiled in this instance he resolved to
@@ -252,12 +252,12 @@ repose also the ashes of the founder. Accordingly he repaired to
 Passagno in 1810. At a sumptuous entertainment which he gave to his
 workmen, there occurred an incident which marks the kindliness of his
 character. When the festivities of the day had terminated, he requested
-the shepherdesses and peasantgirls of the adjacent hamlets to pass in
+the shepherdesses and peasantgirls of the adjacent [[Hamlet|hamlets]] to pass in
 review before him, and to each he made a present, expending on the
 occasion about L400. We need not, therefore, be surprised that a few
 years afterwards, when the remains of the donor came to be deposited in
 their last asylum, the grief which the surrounding peasantry evinced was
-in natural expression so intense as to eclipse the studied solemnity of
+in natural expression so intense as to [[Eclipse|eclipse]] the studied solemnity of
 more pompous mourning.
 
 After the foundation-stone of this edifice had been laid, Canova
@@ -268,12 +268,12 @@ exhausted his resources, and compelled him to labour with unceasing
 assiduity notwithstanding age and disease. During the period which
 intervened between commencing operations at Passagno and his decease, he
 executed or finished some of his most striking works. Amongst these were
-the group "Mars and Venus," the colossal figure of Pius VI., the
+the group "[[Mars]] and Venus," the colossal figure of Pius VI., the
 "Pieta," the "St John," the "recumbent Magdalen." The last performance
 which issued from his hand was a colossal bust of his friend, the Count
-Cicognara. In May 1822 he paid a visit to Naples, to superintend the
+[[Cicognara]]. In May 1822 he paid a visit to Naples, to superintend the
 construction of wax moulds for an equestrian statue of the perjured
-Bourbon king Ferdinand. This journey materially injured his health, but
+[[Bourbon]] king Ferdinand. This journey materially injured his health, but
 he rallied again on his return to Rome. Towards the latter end of the
 year he paid his annual visit to the place of his birth, when he
 experienced a relapse. He proceeded to Venice, and expired there on the

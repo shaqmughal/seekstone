@@ -22,9 +22,9 @@ the membranes. When the disease is congenital, its presence in the
 foetus is apt to be a source of difficulty in parturition. It is however
 more commonly developed in the first six months of life; but it
 occasionally arises in older children, or even in adults. The chief
-symptom is the gradual increase in size of the upper part of the head
+symptom is the [[Gradual|gradual]] increase in size of the upper part of the head
 out of all proportion to the face or the rest of the body. Occurring at
-an age when as yet the bones of the skull have not become welded
+an age when as yet the [[Bone|bones]] of the skull have not become welded
 together, the enlargement may go on to an enormous extent, the Spaces
 between the bones becoming more and more expanded. In a well-marked case
 the deformity is very striking; the upper part of the forehead projects
@@ -37,7 +37,7 @@ teeth carious or absent.
 
 The average circumference of the adult head is 22 in., and in the normal
 child it is of course much less. In chronic hydrocephalus the head of an
-infant three months old has measured 29 in.; and in the case of the man
+[[Infant|infant]] three months old has measured 29 in.; and in the case of the man
 Cardinal, who died in Guy's Hospital, the head measured 33 in. In such
 cases the head cannot be supported by the neck, and the patient has to
 keep mostly in the recumbent posture. The expansibility of the skull
@@ -47,7 +47,7 @@ distended, and the convolutions are flattened. Occasionally the fluid
 escapes into the cavity of the cranium, which it fills, pressing down
 the brain to the base of the skull. As a consequence, the functions of
 the brain are interfered with, and the mental condition is impaired. The
-child is dull, listless and irritable, and sometimes imbecile. The
+child is dull, listless and irritable, and sometimes [[Imbecile|imbecile]]. The
 special senses become affected as the disease advances; sight is often
 lost, as is also hearing. Hydrocephalic children generally sink in a few
 years; nevertheless there have been instances of persons with this

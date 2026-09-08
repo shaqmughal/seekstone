@@ -1,9 +1,9 @@
 # Criobolium
 
-CRIOBOLIUM, the sacrifice of a ram in the cult of Attis and the Great
+CRIOBOLIUM, the sacrifice of a ram in the cult of [[Attis]] and the Great
 Mother. It seems to have been a special ceremony instituted after the
 rise, and on the analogy of the taurobolium (q.v.), which was performed
-in honour of the Great Mother, for the purpose of giving fuller
+in honour of the Great Mother, for the purpose of giving [[Fuller|fuller]]
 recognition to Attis in the duality which he formed with the Mother.
 There is no evidence of its existence either in Asia or in Italy before
 the taurobolium came into prominence (after A.D. 134). When the

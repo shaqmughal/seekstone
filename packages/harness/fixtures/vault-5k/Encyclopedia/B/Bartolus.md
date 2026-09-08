@@ -33,10 +33,10 @@ probably owing to the circumstance that he revived the exegetical system of
 teaching law (which had been [v.03 p.0452] neglected since the ascendancy
 of Accursius) in a spirit which gave it new life, whilst he imparted to his
 teaching a practical interest, from the judicial experience which he had
-acquired while acting as assessor to the courts at Todi and at Pisa before
+acquired while acting as [[Assessor|assessor]] to the courts at Todi and at Pisa before
 he undertook the duties of a professorial chair. His treatises _On
 Procedure_ and _On Evidence_ are amongst his most valuable works, whilst
-his _Commentary on the Code of Justinian_ has been in some countries
+his _Commentary on the [[Code]] of Justinian_ has been in some countries
 regarded as of equal authority with the code itself.
 
 ## See also

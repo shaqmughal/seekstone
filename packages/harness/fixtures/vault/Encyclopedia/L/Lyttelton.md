@@ -5,10 +5,10 @@ and man of letters, born at Hagley, Worcestershire, was a descendant of
 the great jurist Sir Thomas Littleton (q.v.). He was the eldest son of
 Sir Thomas Lyttelton, 4th bart. (d. 1751), who at the revolution of 1688
 and during the following reign was one of the ablest Whig debaters of
-the House of Commons.[1] Lyttelton was educated at Eton and Oxford, and
+the House of Commons.[1] Lyttelton was educated at [[Eton]] and Oxford, and
 in 1728 set out on the grand tour, spending considerable periods at
 Paris and Rome. On his return to England he sat in parliament for
-Okehampton, Devonshire, beginning public life in the same year with
+Okehampton, [[Devonshire]], beginning public life in the same year with
 Pitt. From 1744 to 1754 he held the office of a lord commissioner of the
 treasury. In 1755 he succeeded Legge as chancellor of the exchequer, but
 in 1756 he quitted office, being raised to the peerage as Baron
@@ -21,29 +21,29 @@ of August 1773.
 
   Lyttelton's earliest publication (1735), _Letters from a Persian in
   England to his Friend at Ispahan_, appeared anonymously. Much greater
-  celebrity was achieved by his _Observations on the Conversion and
+  celebrity was achieved by his _Observations on the [[Conversion]] and
   Apostleship of St Paul_, also anonymous, published in 1747. It takes
   the form of a letter to Gilbert West, and is designed to show that St
   Paul's conversion is of itself a sufficient demonstration of the
   divine character of Christianity. Dr Johnson regarded the work as one
   "to which infidelity has never been able to fabricate a specious
-  answer." Lord Lyttelton's _Dialogues of the Dead_, a creditable
-  performance, though hardly rivalling either Lucian or Landor, appeared
+  answer." Lord Lyttelton's _[[Dialogue|Dialogues]] of the Dead_, a creditable
+  performance, though hardly rivalling either Lucian or [[Landor]], appeared
   in 1760. His _History of Henry II._ (1767-1771), the fruit of twenty
   years' labour, is not now cited as an authority, but is painstaking
   and fair. Lyttelton was also a writer of verse; his _Monody_ on his
-  wife's death has been praised by Gray for its elegiac tenderness, and
-  his _Prologue_ to the _Coriolanus_ of his friend Thomson shows genuine
+  wife's death has been praised by [[Gray]] for its elegiac tenderness, and
+  his _Prologue_ to the _[[Coriolanus]]_ of his friend Thomson shows genuine
   feeling. He was also the author of the well-known stanza in the
   _Castle of Indolence_, in which the poet himself is described. A
   complete collection of the _Works_ of Lord Lyttelton was published by
-  his nephew, G. E. Ayscough in 1774.
+  his nephew, G. E. [[Ayscough]] in 1774.
 
 His son THOMAS (1744-1779), who succeeded as 2nd baron, played some part
 in the political life of his time, but his loose and prodigal habits
 were notorious, and he is known, in distinction to his father "the good
 lord," as the wicked Lord Lyttelton. He left no lawful issue, and the
-barony became extinct; but it was revived in 1794 in the person of his
+[[Barony|barony]] became extinct; but it was revived in 1794 in the person of his
 uncle WILLIAM HENRY, 1st baron of the new creation (1724-1808), who was
 governor of S. Carolina and later of Jamaica, and ambassador to
 Portugal. The new barony went after him to his two sons. The 3rd baron
@@ -52,8 +52,8 @@ Portugal. The new barony went after him to his two sons. The 3rd baron
 Gladstone, having married Miss Mary Glynne. He did important work in
 educational and poor law reform. He had eight sons, of whom the eldest,
 CHARLES GEORGE (b. 1842), became 5th baron, and in 1889 succeeded, by
-the death of the 3rd duke of Buckingham and Chandos, to the viscounty of
-Cobham, in which title the barony of Lyttelton is now merged. Other
+the death of the 3rd duke of Buckingham and [[Chandos]], to the viscounty of
+[[Cobham]], in which title the barony of Lyttelton is now merged. Other
 distinguished sons were Arthur Temple Lyttelton (d. 1903), warden of
 Selwyn College, Cambridge, and bishop-suffragan of Southampton; Edward
 Lyttelton (b. 1855), headmaster of Haileybury (1890-1905) and then of

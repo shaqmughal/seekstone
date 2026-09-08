@@ -7,11 +7,11 @@ tags: [geography, renaissance]
 
 # Barker'S Mill
 
-BARKER'S MILL, a mechanical contrivance invented by a Dr Barker about the
+BARKER'S MILL, a mechanical contrivance invented by a Dr [[Barker]] about the
 end of the 17th century. It consisted of a hollow vertical cylinder,
-provided with a number of horizontal arms fitted with lateral apertures;
+provided with a number of horizontal arms fitted with lateral [[Aperture|apertures]];
 the contrivance is mounted so as to rotate about the vertical axis. By
-allowing water to enter the vertical tube, a rotation, due to the discharge
+allowing water to enter the vertical tube, a rotation, due to the [[Discharge|discharge]]
 through the lateral orifices, is set up.
 
 ## See also

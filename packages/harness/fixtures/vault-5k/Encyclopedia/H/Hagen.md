@@ -1,9 +1,9 @@
 # Hagen
 
-HAGEN, FRIEDRICH HEINRICH VON DER (1780-1856), German philologist,
+HAGEN, [[Friedrich|FRIEDRICH]] HEINRICH VON DER (1780-1856), German philologist,
 chiefly distinguished for his researches in Old German literature, was
 born at Schmiedeberg In Brandenburg on the 19th of February 1780. After
-studying law at the university of Halle, he obtained a legal appointment
+studying law at the university of [[Halle]], he obtained a legal appointment
 in the state service at Berlin, but in 1806 resigned this office in
 order to devote himself exclusively to letters. In 1810 he was appointed
 _professor extraordinarius_ of German literature in the university of
@@ -21,8 +21,8 @@ an interest in old German poetry belongs to him.
   _Gesamtabenteuer_ (Stuttgart, 1850, 3 vols.) and _Das Heldenbuch_
   (Leipzig, 1855). He also published _Uber die altesten Darstellungen
   der Faustsage_ (Berlin, 1844); and from 1835 he edited _Das neue
-  Jahrbuch der Berlinischen Gesellschaft fur deutsche Sprache und
-  Altertumskunde_. His correspondence with C. G. Heyne and G. F. Benecke
+  Jahrbuch der Berlinischen Gesellschaft [[Fur|fur]] deutsche Sprache und
+  Altertumskunde_. His correspondence with C. G. [[Heyne]] and G. F. Benecke
   was published by K. Dziatzko (Leipzig, 1893).
 
 ## See also

@@ -9,11 +9,11 @@ attending further courses of lectures in Edinburgh, and acting as
 assistant to the professor of mathematics at St Andrews, he was ordained
 as minister of Kilmany in Fifeshire, about 9 m. from the university
 town, where he continued to lecture. His mathematical lectures roused so
-much enthusiasm that they were discontinued by order of the authorities,
+much [[Enthusiasm|enthusiasm]] that they were discontinued by order of the authorities,
 who disliked the disturbance of the university routine which they
 involved. Chalmers then opened mathematical classes on his own account
 which attracted many students; at the same time he delivered a course of
-lectures on chemistry, and ministered to his parish at Kilmany. In 1805
+lectures on [[Chemistry|chemistry]], and ministered to his parish at Kilmany. In 1805
 he became a candidate for the vacant professorship of mathematics at
 Edinburgh, but was unsuccessful. In 1808 he published an _Inquiry into
 the Extent and Stability of National Resources_, a contribution to the
@@ -21,14 +21,14 @@ discussion created by Bonaparte's commercial policy. Domestic
 bereavements and a severe illness then turned his thoughts in another
 direction. At his own request the article on Christianity was assigned
 to him in Dr Brewster's _Edinburgh Encyclopaedia_, and in studying the
-credentials of Christianity he received a new impression of its
+[[Credentials|credentials]] of Christianity he received a new impression of its
 contents. His journal and letters show how he was led from a sustained
 effort to attain the morality of the Gospel to a profound spiritual
 revolution. After this his ministry was marked by a zeal which made it
 famous. The separate publication of his article in the _Edinburgh
 Encyclopaedia_, and contributions to the _Edinburgh Christian
 Instructor_ and the _Eclectic Review_, enhanced his reputation as an
-author. In 1815 he became minister of the Tron Church, Glasgow, in spite
+author. In 1815 he became minister of the Tron Church, [[Glasgow]], in spite
 of determined opposition to him in the town council on the ground of his
 evangelical teaching. From Glasgow his repute as a preacher spread
 throughout the United Kingdom. A series of sermons on the relation
@@ -111,7 +111,7 @@ of which was to enforce the truth that the right economic condition of
 the masses is dependent on their right moral condition, that character
 is the parent of comfort, not vice versa. In 1833 appeared a treatise on
 _The Adaptation of External Nature to the Moral and Intellectual
-Constitution of Man_. In 1834 Dr Chalmers was elected fellow of the
+Constitution of Man_. In 1834 Dr Chalmers was elected [[Fellow|fellow]] of the
 Royal Society of Edinburgh, and in the same year he became corresponding
 member of the Institute of France; in 1835 Oxford conferred on him the
 degree of D.C.L. In 1834 he became leader of the evangelical section of
@@ -130,7 +130,7 @@ culminating, and Dr Chalmers found himself at the head of the party
 which stood for the principle that "no minister shall be intruded into
 any parish contrary to the will of the congregation" (see FREE CHURCH OF
 SCOTLAND). Cases of conflict between the church and the civil power
-arose in Auchterarder, Dunkeld and Marnoch; and when the courts made it
+arose in Auchterarder, [[Dunkeld]] and Marnoch; and when the courts made it
 clear that the church, in their opinion, held its temporalities on
 condition of rendering such obedience as the courts required, the church
 appealed to the government for relief. In January 1843 the government

@@ -7,7 +7,7 @@ type: article
 
 # Dextrine
 
-DEXTRINE (BRITISH GUM, STARCH GUM, LEIOCOME), (C_{6}H_{10}O_{5})_{x}, a
+DEXTRINE (BRITISH [[Gum|GUM]], STARCH GUM, LEIOCOME), (C_{6}H_{10}O_{5})_{x}, a
 substance produced from starch by the action of dilute acids, or by
 roasting it at a temperature between 170° and 240° C. It is manufactured
 by spraying starch with 2% nitric acid, drying in air, and then heating
@@ -25,8 +25,8 @@ ferment in contact with yeast, and does not reduce Fehling's solution.
 If heated with strong nitric acid it gives oxalic, and not mucic acid.
 Dextrine much resembles gum arabic, for which it is generally
 substituted. It is employed for sizing paper, for stiffening cotton
-goods, and for thickening colours in calico printing, also in the making
-of lozenges, adhesive stamps and labels, and surgical bandages.
+goods, and for thickening [[Colours|colours]] in calico printing, also in the making
+of [[Lozenge|lozenges]], adhesive stamps and labels, and surgical bandages.
 
   See Otto Lueger, _Lexikon der gesamten Technik_.
 

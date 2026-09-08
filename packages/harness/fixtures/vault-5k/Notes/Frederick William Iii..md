@@ -15,15 +15,15 @@ handed over to tutors appointed by the king, lived a solitary and
 repressed life which tended to increase the innate weakness of his
 character. But though his natural defects of intellect and will-power
 were not improved by the pedantic tutoring to which he was submitted, he
-grew up pious, honest and well-meaning; and had fate cast him in any but
+grew up pious, honest and well-meaning; and had [[Fate|fate]] cast him in any but
 the most stormy times of his country's history he might well have left
 the reputation of a model king. As a soldier he received the usual
 training of a Prussian prince, obtained his lieutenancy in 1784, became
 a colonel commanding in 1790, and took part in the campaigns of 1792-94.
 In 1793 he married Louise, daughter of Prince Charles of
 Mecklenburg-Strelitz, whom he had met and fallen in love with at
-Frankfort (see LOUISE, queen of Prussia). He succeeded to the throne on
-the 16th of November 1797 and at once gave earnest of his good
+[[Frankfort]] (see LOUISE, queen of Prussia). He succeeded to the throne on
+the 16th of November 1797 and at once gave [[Earnest|earnest]] of his good
 intentions by cutting down the expenses of the royal establishment,
 dismissing his father's ministers, and reforming the most oppressive
 abuses of the late reign. Unfortunately, however, he had all the
@@ -41,7 +41,7 @@ any moment to be crushed out of existence by some new whim of Napoleon.
 In the dark years that followed it was the indomitable courage of Queen
 Louise that helped the weak king not to despair of the state. She
 seconded the reforming efforts of Stein and the work of Scharnhorst and
-Gneisenau in reorganizing the army, by which the resurrection of Prussia
+[[Gneisenau]] in reorganizing the army, by which the resurrection of Prussia
 became a possibility. When Stein was dismissed at the instance of
 Napoleon, Hardenberg succeeded him as chancellor (June 1810). In the
 following month Queen Louise died, and the king was left alone to deal
@@ -53,7 +53,7 @@ concluding with Russia the convention of Tauroggen that forced him into
 line with the patriotic fervour of his people.
 
 Once committed to the Russian alliance, however, he became the faithful
-henchman of the emperor Alexander, whose fascinating personality
+[[Henchman|henchman]] of the emperor Alexander, whose fascinating personality
 exercised over him to the last a singular power, and began that
 influence of Russia at the court of Berlin which was to last till
 Frederick William IV.'s supposed Liberalism was to shatter the
@@ -62,7 +62,7 @@ cordiality of the _entente_. That during and after the settlement of
 is explicable as well by his character as by the absorbing character of
 the internal problems of Prussia. He was one of the original
 co-signatories of the Holy Alliance, though, in common with most, he
-signed it with reluctance; and in the counsels of the Grand Alliance he
+signed it with reluctance; and in the counsels of the [[Grand Alliance]] he
 allowed himself to be practically subordinated to Alexander and later to
 Metternich. In a ruler of his character it is not surprising that the
 Revolution and its developments had produced an unconquerable suspicion
@@ -109,11 +109,11 @@ Frankreich_, and _Journal meiner Brigade in der Kampagne am Rhein 1793_.
   The correspondence (_Briefwechsel_) of King Frederick William III. and
   Queen Louise with the emperor Alexander I. has been published
   (Leipzig, 1900) and also that between the king and queen (ib. 1903),
-  both edited by P. Bailleu. See W. Hahn, _Friedrich Wilhelm III. und
+  both edited by P. Bailleu. See W. [[Hahn]], _[[Friedrich]] Wilhelm III. und
   Luise_ (3rd ed., Leipzig, 1877); M. W. Duncker, _Aus der Zeit
   Friedrichs des Grossen und Friedrich Wilhelms III._ (Leipzig, 1876);
   Bishop R. F. Eylert, _Charakterzuege aus dem Leben des Koenigs von
-  Preussen Friedrich Wilhelm III._ (3 vols., Magdeburg, 1843-1846).
+  Preussen Friedrich Wilhelm III._ (3 vols., [[Magdeburg]], 1843-1846).
 
 ## References
 

@@ -21,12 +21,12 @@ differentiated from other theories of knowledge and reality, (2) how it
 has risen in the history of philosophy, (3) what position it occupies at
 present in the world of speculation.
 
-1. _General Definition of Idealism._--Idealism as a philosophical
+1. _General [[Definition]] of Idealism._--Idealism as a philosophical
 doctrine conceives of knowledge or experience as a process in which the
 two factors of subject and object stand in a relation of entire
 interdependence on each other as warp and woof. Apart from the activity
 of the self or subject in sensory reaction, memory and association,
-imagination, judgment and inference, there can be no world of objects. A
+[[Imagination|imagination]], judgment and inference, there can be no world of objects. A
 thing-in-itself which is not a thing to some consciousness is an
 entirely unrealizable, because self-contradictory, conception. But this
 is only one side of the truth. It is equally true that a subject apart
@@ -39,7 +39,7 @@ knowledge, feeling and action that the mind comes into possession of
 itself; it is in becoming permeated and transformed by the mind's ideas
 that the world develops the fullness of its reality as object.
 
-Thus defined, idealism is opposed to ordinary common-sense dualism,
+Thus defined, idealism is opposed to ordinary common-sense [[Dualism|dualism]],
 which regards knowledge or experience as the result of the more or less
 accidental relation between two separate and independent entities--the
 mind and its ideas on one side, the thing with its attributes on the
@@ -94,7 +94,7 @@ individual manifestations fade into the general background of appearance
 without significance except as a link in a fated chain. Deliverance from
 the pantheistic conception of the universe comes through the recognition
 of the central place occupied by thought and purpose in the actual
-world, and, as a consequence of this, of the illegitimacy of the
+world, and, as a consequence of this, of the [[Illegitimacy|illegitimacy]] of the
 abstraction whereby material energy is taken for the ultimate reality.
 
 
@@ -110,7 +110,7 @@ rights of the subject. Its keynote is to be found in the Protagorean
 "man is the measure." This seems to have been interpreted by its author
 and by the Sophists in general in a subjective sense, with the result
 that it became the motto of a sceptical and individualistic movement in
-contemporary philosophy and ethics. It was not less against this form of
+contemporary philosophy and [[Ethics|ethics]]. It was not less against this form of
 idealism than against the determinism of the early physicists that
 Socrates protested. Along two lines the thought of Socrates led to
 idealistic conclusions which may be said to have formed the basis of all
@@ -119,7 +119,7 @@ conceptual element in knowledge, and thus at a single stroke broke
 through the hard realism of ordinary common sense, disproved all forms
 of naturalism that were founded on the denial of the reality of thought,
 and cut away the ground from a merely sensational and subjective
-idealism. This is what Aristotle means by claiming for Socrates that he
+idealism. This is what [[Aristotle]] means by claiming for Socrates that he
 was the founder of definition. (2) He taught that life was explicable
 only as a system of ends. Goodness consists in the knowledge of what
 these are. It is by his hold upon them that the individual is able to
@@ -165,7 +165,7 @@ coherence and individuality to the particulars of sense which apart from
 it are like the routed or disbanded units of an army. Still more
 manifestly in his _Ethics_ and _Politics Aristotle_ makes it clear that
 it is the common or universal will that gives substance and reality to
-the individual. In spite of these and other anticipations of a fuller
+the individual. In spite of these and other anticipations of a [[Fuller|fuller]]
 idealism, the idea remains as a form imposed from without on a reality
 otherwise conceived of as independent of it. As we advance from the
 logic to the metaphysics and from that to his ontology, it becomes clear
@@ -190,10 +190,10 @@ the most part lost the thread which Socrates had put into their hand.
 When the authority of Aristotle was again invoked, it was its dualistic
 and formal, not its idealistic and metaphysical, side that was in
 harmony with the spirit of the age. Apart from one or two of the
-greatest minds, notably Dante, what appealed to the thinkers of the
+greatest minds, notably [[Dante]], what appealed to the thinkers of the
 middle ages was not the idea of reality as a progressive self-revelation
 of an inner principle working through nature and human life, but the
-formal principles of classification which it seemed to offer for a
+formal principles of [[Classification|classification]] which it seemed to offer for a
 material of thought and action given from another source.
 
 
@@ -204,7 +204,7 @@ view that threatened to resolve the world of matter and mind alike into
 the changing manifestations of some single non-spiritual force or
 substance. While, however, ancient philosophy may be said to have been
 unilinear, modern philosophy had a twofold origin, and till the time of
-Kant may be said to have pursued two independent courses.
+[[Kant]] may be said to have pursued two independent courses.
 
 All philosophy is the search for reality and rational certainty as
 opposed to mere formalism on the one hand, to authority and dogmatism on
@@ -216,28 +216,28 @@ assurance of an inner world given immediately in thought. Though
 starting from apparently opposite poles and following widely different
 courses the two movements led more or less directly to the same results.
 It is easy to understand how English empiricism issued at once in the
-trenchant naturalism of Hobbes. It is less comprehensible how the
+trenchant naturalism of [[Hobbes]]. It is less comprehensible how the
 Cartesian philosophy from the starting-point of thought allied itself
 with a similar point of view. This can be understood only by a study of
 the details of Descartes' philosophy (see CARTESIANISM). Suffice it to
 say that in spite of its spiritualistic starting-point its general
 result was to give a stimulus to the prevailing scientific tendency as
-represented by Galileo, Kepler and Harvey to the principle of mechanical
+represented by Galileo, Kepler and [[Harvey]] to the principle of mechanical
 explanations of the phenomena of the universe. True it was precisely
 against this that Descartes' immediate successors struggled. But the
 time-spirit was too strong for them. Determinism had other forms besides
-that of a crude materialism, and the direction that Malebranche
+that of a crude [[Materialism|materialism]], and the direction that Malebranche
 succeeded in giving to speculation led only to the more complete denial
 of freedom and individuality in the all-devouring pantheism of Spinoza.
 
 
-  Berkeley.
+  [[Berkeley]].
 
 The foundations of idealism in the modern sense were laid by the
 thinkers who sought breathing room for mind and will in a deeper
 analysis of the relations of the subject to the world that it knows.
 From the outset English philosophy had a leaning to the psychological
-point of view, and Locke was only carrying on the tradition of his
+point of view, and [[Locke]] was only carrying on the tradition of his
 predecessors and particularly of Hobbes in definitely accepting it as
 the basis of his _Essay_. It was, however, Berkeley who first sought to
 utilize the conclusions that were implicit in Locke's starting-point to
@@ -256,7 +256,7 @@ reflective Johnsonianism of the 18th-century Scottish philosophers, must
 be an anachronism. Equally impossible was it thenceforth to assert the
 mediate or immediate certainty of material substance as the cause either
 of events in nature or of sensations in ourselves. But with these
-advances came the danger of falling into error from which common-sense
+advances came the danger of falling into [[Error|error]] from which common-sense
 dualism and naturalistic monism were free. From the point of view which
 Berkeley had inherited from Locke it seemed to follow that not only
 material substance, but the whole conception of a world of objects, is
@@ -293,13 +293,13 @@ found even more definite utterance than in English psychological
 empiricism in the metaphysical system of Leibnitz, whose theory of
 self-determined monads can be understood only when taken in the light of
 the assertion of the rights of the subject against the substance of
-Spinoza and the atoms of the materialist. But Leibnitz also anticipated
+Spinoza and the [[Atom|atoms]] of the materialist. But Leibnitz also anticipated
 Kant in seeking to correct the empirical point of view of the English
 philosophers. True, sense-given material is necessary in order that we
 may have thought. "But by what means," he asks, "can experience and the
 senses give ideas? Has the soul windows? Is it like a writing tablet? Is
 it like wax? It is plain that all those who think thus of the soul make
-it at bottom corporeal. True, nothing is in the intellect which has not
+it at bottom corporeal. True, nothing is in the [[Intellect|intellect]] which has not
 been in the senses, but we must add except the intellect itself. The
 soul contains the notions of being, substance, unity, identity, cause,
 perception, reasoning and many others which the senses cannot give"
@@ -349,7 +349,7 @@ divergent uses that have been made of it witness to the ambiguity of his
 statement which is traceable to the fact that Kant was himself too
 deeply rooted in the thought of his predecessors and carried with him
 too much of their spirit to be able entirely to free himself from their
-assumptions and abstractions. His philosophy was more like
+[[Assumption|assumptions]] and abstractions. His philosophy was more like
 Michaelangelo's famous sculpture of the Dawn, a spirit yet encumbered
 with the stubble of the material from which it was hewn, than a clear
 cut figure with unmistakable outlines. Chief among these encumbering
@@ -372,7 +372,7 @@ illusory?
 It was by asking precisely these questions that Hegel gave the finishing
 strokes to the Kantian philosophy. The starting-point of all valid
 philosophy must be the perception that the essence of all conscious
-apprehension is the union of opposites--of which that of subject and
+[[Apprehension|apprehension]] is the union of opposites--of which that of subject and
 object is the most fundamental and all-pervasive. True, before
 differences can be united they must have been separated, but this merely
 proves that differentiation or analysis is only one factor in a single
@@ -425,7 +425,7 @@ consciousness may be so emphasized as to appear to contradict another.
 Unity may be made to contradict diversity, permanence change, the
 particular the universal, individuality relatedness. Ordinary
 consciousness ignores these "latent fires"; ordinary discussion brings
-them to light and divides men into factions and parties over them;
+them to light and divides men into [[Faction|factions]] and parties over them;
 philosophy not because it denies but because it acknowledges the law of
 non-contradiction as supreme is pledged to seek a point of view from
 which they may be seen to be in essential harmony with one another as
@@ -447,13 +447,13 @@ as the soberest of attempts to set forth the presuppositions which
 underlie all experience. "What Hegel attempts to show is just that the
 categories by which thought must determine its object are stages in a
 process that, beginning with the idea of 'Being,' the simplest of all
-determinations is driven on by its own dialectic till it reaches the
+determinations is driven on by its own [[Dialectic|dialectic]] till it reaches the
 idea of self-consciousness. In other words the intelligence when it once
 begins to define an object for itself, finds itself launched on a
 movement of self-asserting synthesis in which it cannot stop until it
 had recognized that the unity of the object with itself involves its
 unity with all other objects and with the mind that knows it. Hence,
-whatever we begin by saying, we must ultimately say 'mind'" (Caird,
+whatever we begin by saying, we must ultimately say 'mind'" ([[Caird]],
 _Kant_, i. 443).
 
   While the form in which these doctrines were stated proved fatal to
@@ -467,7 +467,7 @@ _Kant_, i. 443).
   inherited from utilitarianism. In taking root in England idealism had
   to contend against the traditional empiricism represented by Mill on
   the one hand and the pseudo-Kantianism which was rendered current by
-  Mansel and Hamilton on the other. As contrasted with the first it
+  [[Mansel]] and Hamilton on the other. As contrasted with the first it
   stood for the necessity of recognizing a universal or ideal element as
   a constitutive factor in all experience whether cognitive or
   volitional; as contrasted with the latter for the ultimate unity of
@@ -488,8 +488,8 @@ _Kant_, i. 443).
   form which that relation itself takes. In its subsequent development
   idealism in England has passed through several clearly marked stages
   which may be distinguished as (a) that of exploration and tentative
-  exposition in the writings of J. F. Ferrier,[2] J. Hutchison
-  Stirling,[3] Benjamin Jowett,[4] W. T. Harris;[5] (b) of confident
+  exposition in the writings of J. F. [[Ferrier]],[2] J. Hutchison
+  Stirling,[3] [[Benjamin]] Jowett,[4] W. T. [[Harris]];[5] (b) of confident
   application to the central problems of logic, ethics and politics,
   fine art and religion, and as a principle of constructive criticism
   and interpretation chiefly in T. H. Green,[6] E. Caird,[7] B.
@@ -541,9 +541,9 @@ reality which my consciousness seems to assure me underlies and eludes
 all the conceptual network by which I try to bring one part of my
 experience into connexion with another? It is quite true that modern
 idealists like Berkeley himself have sought to save themselves from the
-gulf of subjectivism by calling in the aid of a universal or infinite
+gulf of subjectivism by calling in the aid of a universal or [[Infinite|infinite]]
 mind or by an appeal to a total or absolute experience to which our own
-is relative. But the former device is too obviously a _deus ex machina_,
+is relative. But the former device is too obviously a _[[Deus|deus]] ex machina_,
 the purpose of which would be equally well served by supposing with
 Fichte the individual self to be endowed with the power of
 subconsciously extraditing a world which returns to it in consciousness
@@ -552,7 +552,7 @@ other hand is only to substitute one difficulty for another. For
 granting that it places the centre of reality outside the individual
 self it does so only at the price of reducing the reality of the latter
 to an appearance; and if only one thing is real what becomes of the
-many different things which again my consciousness assures me are the
+many different things which again my consciousness [[Assur|assures]] me are the
 one world with which I can have any practical concern? To meet these
 difficulties and give back to us the assurance of the substantiality of
 the world without us it has therefore been thought necessary to maintain
@@ -589,7 +589,7 @@ knowledge of the reality which both admit. To idealism there can be no
 ultimate test, but the possibility of giving any fact which claims to be
 true its place in a coherent system of mutually related truths. To this
 dualism opposes the doctrine that truth and falsehood are a matter of
-mere immediate intuition: "There is no problem at all in truth and
+mere immediate [[Intuition|intuition]]: "There is no problem at all in truth and
 falsehood, some propositions are true and some false just as some roses
 are red and some white."[15] The issue between the two theories under
 this head may here be left with the remark that it is a curious comment
@@ -614,9 +614,9 @@ perceived, can be made intelligible only when we accept it for what it
 is as a real continuity. Differences, of course, there are; and, if we
 like to say so, every difference is unique, but this does not mean that
 they are given in absolute independence of everything else, "fired at us
-out of a cannon." They bear a definite relation to the structure of our
+out of a [[Cannon|cannon]]." They bear a definite relation to the structure of our
 physical and psychical nature, and correspond to definite needs of the
-subject that manifests itself therein. Similarly from the side of logic.
+subject that [[Manifest|manifests]] itself therein. Similarly from the side of logic.
 It is not the teaching of idealism alone but of the facts which logical
 analysis has brought home to us that all difference in the last resort
 finds its ground in the quality or content of the things differentiated,
@@ -642,7 +642,7 @@ these writers. There need be no contradiction between idealism and a
 reasonable pragmatism. In so far as the older doctrine is open to the
 charge of neglecting the conative and teleological side of experience it
 can afford to be grateful to its critics for recalling it to its own
-eponymous principle of the priority of the "ideal" to the "idea," of
+[[Eponymous|eponymous]] principle of the priority of the "ideal" to the "idea," of
 _needs_ to the conception of their object. The real issue comes into
 view in the attempt, undertaken in the interest of freedom, to
 substitute for the notion of the world as a cosmos pervaded by no
@@ -665,7 +665,7 @@ impressed upon it by its active parts.
   environment first as a world of things that seem to stand in a
   relation of exclusion to one another and to itself, then as a natural
   system governed by rigid mechanical necessity, the mind can yet feel
-  that in its very opposition the world is akin to it, bone of its bone
+  that in its very opposition the world is akin to it, [[Bone|bone]] of its bone
   and flesh of its flesh. What is true of mind is true of will. Idealism
   starts from the relativity of the world to purposive consciousness.
   But this again may be so stated as to represent only one side of the
@@ -690,17 +690,17 @@ impressed upon it by its active parts.
   nothing but irreconcilable contradiction between the conceptions of
   the world as immutable law and a self-determining subject pragmatism
   (q.v.) seeks other means of vindicating the reality of freedom. It
-  agrees with older forms of libertarianism in taking its stand on the
+  agrees with older forms of [[Libertarianism|libertarianism]] in taking its stand on the
   fact of spontaneity as primary and self-evidencing, but it is not
   content to assert its existence side by side with rigidly determined
   sequence. It carries the war into the camp of the enemy by seeking to
   demonstrate that the completely determined action which is set over
   against freedom as the basis of explanation in the material world is
-  merely a hypothesis which, while it serves sufficiently well the
+  merely a [[Hypothesis|hypothesis]] which, while it serves sufficiently well the
   limited purpose for which it is devised, is incapable of verification
   in the ultimate constituents of physical nature. There seems in fact
   nothing to prevent us from holding that while natural laws express the
-  average tendencies of multitudes they give no clue to the movement of
+  average tendencies of multitudes they give no [[Clue|clue]] to the movement of
   individuals. Some have gone farther and argued that from the nature of
   the case no causal explanation of any real change in the world of
   things is possible. A cause is that which contains the effect ("causa
@@ -789,7 +789,7 @@ likely to be cannot but appear dogmatic.
   others in asserting that the subject in the sense of a being which
   merely repeats what has gone before is timeless. This involves that
   its activity cannot be truly conceived of as included in an
-  antecedent, as an effect in a cause or one term of an equation in the
+  antecedent, as an effect in a cause or one term of an [[Equation|equation]] in the
   other. As the activity of a subject or spirit it is essentially a new
   birth. It is this failure that has led to the present revolt against a
   "block universe." But the difficulty is not to be met by running to
@@ -850,9 +850,9 @@ likely to be cannot but appear dogmatic.
   BIBLIOGRAPHY.--(A) General works besides those of the writers
   mentioned above: W. Wallace, _Prolegomena to the Study of Hegel_
   (1894), and Hegel's _Philosophy of Mind_ (1894); A. Seth and R. B.
-  Haldane, _Essays in Phil. Criticism_ (1883); John Watson, _Kant and
+  [[Haldane]], _Essays in Phil. Criticism_ (1883); John Watson, _Kant and
   his English Critics_ (1881); J. B. Baillie, _Idealistic Construction
-  of Experience_ (1906); J. S. Mackenzie, _Outlines of Metaphysics_
+  of Experience_ (1906); J. S. [[Mackenzie]], _Outlines of Metaphysics_
   (1902); A. E. Taylor, _Elements of Metaphysics_ (1903); R. L.
   Nettleship, _Lectures and Remains_ (1897); D. G. Ritchie,
   _Philosophical Studies_ (1905).
@@ -864,14 +864,14 @@ likely to be cannot but appear dogmatic.
   Bosanquet, _Psychology of the Moral Self_ (1897). (c) _Ethics_--F. H.
   Bradley, _Ethical Studies_ (1876); J. Dewey, _Ethics_ (1891); W. R.
   Sorley, _Ethics of Naturalism_ (2nd ed., 1904); J. S. Mackenzie,
-  _Manual of Ethics_ (4th ed., 1900); J. H. Muirhead, _Elements of
+  _[[Manual]] of Ethics_ (4th ed., 1900); J. H. Muirhead, _Elements of
   Ethics_ (3rd ed., 1910). (d) _Politics and Economics_--B. Bosanquet,
   _Philosophical Theory of the State_ (1899), and _Aspects of the Social
   Problem_ (1895); B. Bonar, _Philosophy and Political Economy in their
   historical Relations_ (1873); D. G. Ritchie, _Natural Rights_ (1895);
   J. S. Mackenzie, _An Introd. to Social Phil._ (1890); J. MacCunn, _Six
   Radical Thinkers_ (1907). (e) _Aesthetic_--B. Bosanquet, _History of
-  Aesthetic_ (1892), and _Introd. to Hegel's Phil. of the Fine Arts_
+  Aesthetic_ (1892), and _Introd. to Hegel's Phil. of the [[Fine Arts]]_
   (1886); W. Hastie, _Phil. of Art by Hegel and Michelet_ (1886). (f)
   _Religion_--J. Royce, _Religious Aspect of Philosophy_ (1885), and
   _The Conception of God_ (1897); R. B. Haldane, _The Pathway to
@@ -882,7 +882,7 @@ likely to be cannot but appear dogmatic.
   (C) Recent Criticism. Besides works mentioned in the text: W. James,
   _Pragmatism_ (1907), _A Pluralistic Universe_ (1909), _The Meaning of
   Truth_ (1909); H. Sturt, _Personal Idealism_ (1902); F. C. S.
-  Schiller, _Humanism_ (1903); G. E. Moore, _Principia Ethica_; H.
+  Schiller, _[[Humanism]]_ (1903); G. E. Moore, _Principia Ethica_; H.
   Rashdall, _The Theory of Good and Evil_ (1907).
 
   See also ETHICS and METAPHYSICS.     (J. H. Mu.)
@@ -896,7 +896,7 @@ FOOTNOTES:
 
   [3] _Secret of Hegel_ (1865).
 
-  [4] _Dialogues of Plato_ (1871).
+  [4] _[[Dialogue|Dialogues]] of Plato_ (1871).
 
   [5] _Journal of Spec. Phil._ (1867).
 

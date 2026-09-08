@@ -16,7 +16,7 @@ part of the town, is a cruciform Early English building, retaining, in
 spite of injudicious restoration, many beautiful details. The chief
 buildings are that containing the town hall and the grammar school (a
 foundation of 1547), the exchange, a theatre, and the customs house and
-dock offices. A sailors' and fishermen's Harbour of Refuge, free
+[[Dock|dock]] offices. A sailors' and fishermen's Harbour of Refuge, free
 library, constitutional club and technical school are maintained. The
 duke of York public gardens were opened in 1894. Adjacent to Grimsby on
 the east is the coastal watering-place of Cleethorpes.
@@ -33,7 +33,7 @@ acres, but were found insufficient for the growing traffic of the port,
 and in 1906 the construction of a large new dock, of about 40 acres'
 area and 30 to 35 ft. depth, was undertaken by the Great Central Company
 at Immingham, 5 m. above Grimsby on the Humber. The principal imports
-are butter, woollens, timber, cereals, eggs, glass, cottons, preserved
+are [[Butter|butter]], woollens, timber, cereals, [[Egg|eggs]], glass, cottons, preserved
 meat, wool, sugar and bacon. The exports consist chiefly of woollen
 yarn, woollens, cotton goods, cotton yarn, machinery, &c. and coal. It
 is as a fishing port, however, that Grimsby is chiefly famous. Two of
@@ -44,7 +44,7 @@ Swedish ports, and to Esbjerg (Denmark), chiefly those of the Wilson
 line and the Great Central railway. The chief industries of Grimsby are
 shipbuilding, brewing, tanning, manufactures of ship tackle, ropes, ice
 for preserving fish, turnery, flour, linseed cake, artificial manure;
-and there are saw mills, bone and corn mills, and creosote works. The
+and there are saw mills, [[Bone|bone]] and corn mills, and creosote works. The
 municipal borough is under a mayor, 12 aldermen and 36 councillors.
 Area, 2852 acres.
 

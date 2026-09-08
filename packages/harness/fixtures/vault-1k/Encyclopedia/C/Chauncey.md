@@ -1,6 +1,6 @@
 # Chauncey
 
-CHAUNCEY, ISAAC (1772-1840), American naval commander, was born at Black
+CHAUNCEY, [[Isaac|ISAAC]] (1772-1840), American naval commander, was born at Black
 Rock, Connecticut, on the 20th of February 1772. He was brought up in
 the merchant service, and entered the United States navy as a lieutenant
 in 1798. His first services were rendered against the Barbary pirates.

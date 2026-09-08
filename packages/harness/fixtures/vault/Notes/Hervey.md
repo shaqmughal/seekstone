@@ -2,7 +2,7 @@
 
 HERVEY, JAMES (1714-1758), English divine, was born at Hardingstone,
 near Northampton, on the 26th of February 1714, and was educated at the
-grammar school of Northampton, and at Lincoln College, Oxford. Here he
+grammar school of Northampton, and at [[Lincoln]] College, Oxford. Here he
 came under the influence of John Wesley and the Oxford methodists;
 ultimately, however, while retaining his regard for the men and his
 sympathy with their religious aims, he adopted a thoroughly Calvinistic
@@ -27,7 +27,7 @@ faith. Hervey died on the 25th of December 1758.
 
   A "new and complete" edition of his _Works_, with a memoir, appeared
   in 1797. See also _Collection of the Letters of James Hervey, to which
-  is prefixed an account of his Life and Death_, by Dr Birch (1760).
+  is prefixed an account of his Life and Death_, by Dr [[Birch]] (1760).
 
 ## See also
 

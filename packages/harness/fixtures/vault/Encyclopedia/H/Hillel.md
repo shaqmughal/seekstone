@@ -8,7 +8,7 @@ type: note
 # Hillel
 
 HILLEL, Jewish rabbi, of Babylonian origin, lived at Jerusalem in the
-time of King Herod. Though hard pressed by poverty, he applied himself
+time of King [[Herod]]. Though hard pressed by poverty, he applied himself
 to study in the schools of Shemaiah and Abtalion (Sameas and Pollion in
 Josephus). On account of his comprehensive learning and his rare
 qualities he was numbered among the recognized leaders of the Pharisaic
@@ -36,7 +36,7 @@ and particularly in the centuries following the destruction of the
 Temple. He laid down seven rules for the interpretation of the
 Scriptures, and these became the foundation of rabbinical hermeneutics;
 and the ordering of the traditional doctrines into a whole, effected in
-the Mishna by his successor Judah I., two hundred years after Hillel's
+the Mishna by his successor [[Judah]] I., two hundred years after Hillel's
 death, was probably likewise due to his instigation. The tendency of his
 theory and practice in matters pertaining to the Law is evidenced by the
 fact that in general he advanced milder and more lenient views in
@@ -53,7 +53,7 @@ enjoined and practised the virtues of charity, humility and true piety.
 His proverbial sayings, in particular, a great number of which were
 written down partly in Aramaic, partly in Hebrew, strongly affected the
 spirit both of his contemporaries and of the succeeding generations. In
-his Maxims (_Aboth,_ i. 12) he recommends the love of peace and the love
+his [[Maxims]] (_Aboth,_ i. 12) he recommends the love of peace and the love
 of mankind beyond all else, and his own love of peace sprang from the
 tenderness and deep humility which were essential features in his
 character, as has been illustrated by many anecdotes. Hillel's patience
@@ -65,10 +65,10 @@ shortest possible form: "What is unpleasant to thyself that do not to
 thy neighbour; this is the whole Law, all else is but its exposition."
 This allusion to the scriptural injunction to love one's neighbour (Lev.
 xix. 18) as the fundamental law of religious morals, became in a certain
-sense a commonplace of Pharisaic scholasticism. For the Pharisee who
+sense a [[Commonplace|commonplace]] of Pharisaic scholasticism. For the Pharisee who
 accepts the answer of Jesus regarding that fundamental doctrine which
 ranks the love of one's neighbour as the highest duty after the love of
-God (Mark xii. 33), does so because as a disciple of Hillel the idea is
+God (Mark xii. 33), does so because as a [[Disciple|disciple]] of Hillel the idea is
 familiar to him. St Paul also (Gal. v. 14) doubtless learned this in the
 school of Gamaliel. Hillel emphasized the connexion between duty towards
 one's neighbour and duty towards oneself in the epigrammatic saying: "If
@@ -92,7 +92,7 @@ who has acquired the words of doctrine has acquired the life of the
 world to come" (_ib._). "Say not: When I am free from other occupations
 I shall study; for may be thou shalt never at all be free" (_ib._ 4).
 One of his strings of proverbs runs as follows: "The uncultivated man is
-not innocent; the ignorant man is not devout; the bashful man learns
+not [[Innocent|innocent]]; the ignorant man is not devout; the bashful man learns
 not; the wrathful man teaches not; he who is much absorbed in trade
 cannot become wise; where no men are, there strive thyself to be a man"
 (_ib._ 5). The almost mystical profundity of Hillel's consciousness of
@@ -100,18 +100,18 @@ God is shown in the words spoken by him on the occasion of a feast in
 the Temple--words alluding to the throng of people gathered there which
 he puts into the mouth of God Himself: "If I am here every one is here;
 if I am not here no one is here" (_Sukkah_ 53a). In like manner Hillel
-makes God say to Israel, referring to Exodus xx. 24: "Whither I please,
+makes God say to Israel, referring to [[Exodus]] xx. 24: "Whither I please,
 thither will I go; if thou come into my house I come into thy house; if
 thou come not into my house, I come not into thine" (_ib._).
 
 It is noteworthy that no miraculous legends are connected with Hillel's
 life. A scholastic tradition, however, tells of a voice from heaven
-which made itself heard when the wise men had assembled in Jericho,
+which made itself heard when the wise men had assembled in [[Jericho]],
 saying: "Among those here present is one who would have deserved the
 Holy Spirit to rest upon him, if his time had been worthy of it." And
 all eyes turned towards Hillel (_Tos. Sotah_, xiii. 3). When he died
 lamentation was made for him as follows: "Woe for the humble, woe for
-the pious, woe for the disciple of Ezra!" (_ib._)
+the pious, woe for the disciple of [[Ezra]]!" (_ib._)
 
   HILLEL II., one of the patriarchs belonging to the family of Hillel
   I., lived in Tiberias about the middle of the 4th century, and
@@ -120,9 +120,9 @@ the pious, woe for the disciple of Ezra!" (_ib._)
   of the new moons and feasts.
 
   The Rabbi HILLEL, who in the 4th century made the remarkable
-  declaration that Israel need not expect a Messiah, because the promise
-  of a Messiah had already been fulfilled in the days of King Hezekiah
-  (Babli, _Sanhedrin_, 99a), is probably Hillel, the son of Samuel ben
+  [[Declaration|declaration]] that Israel need not expect a Messiah, because the promise
+  of a Messiah had already been fulfilled in the days of King [[Hezekiah]]
+  (Babli, _Sanhedrin_, 99a), is probably Hillel, the son of Samuel [[Ben|ben]]
   Nahman, a well-known expounder of the scriptures.     (W. Ba.)
 
 ## See also

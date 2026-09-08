@@ -5,7 +5,7 @@ also the largest in extent, though relatively the most sparsely
 populated. Its total area is 2753.2 sq. m., of which 1634.4 sq. m. are
 classed as "productive" (forests covering 503.1 sq. m. and vineyards 1.3
 sq. m.), but it has also 138.6 sq. m. of glaciers, ranking in this
-respect next after the Valais and before Bern. The whole canton is
+respect next after the Valais and before [[Bern]]. The whole canton is
 mountainous, the principal glacier groups being those of the Todi, N.
 (11,887 ft.), of Medels, S.W. (Piz Medel, 10,509 ft.), of the Rheinwald
 or the Adula Alps, S.W. (Rheinwaldhorn, 11,149 ft.), with the chief
@@ -22,7 +22,7 @@ Oberhalbstein. The chief affluents of the Rhine in the canton are the
 Glenner (flowing through the Lugnetz valley), the Avers Rhine, the
 Albula (swollen by the Julia and the Landwasser), the Plessur (Schanfigg
 valley) and the Landquart (coming from the Prattigau). The Rhine and the
-Inn flow respectively into the North and the Black Seas. Of other
+Inn flow respectively into the North and the [[Black Sea|Black Seas]]. Of other
 streams that of Val Mesocco joins the Ticino and so the Po, while the
 Maira or Mera (Val Bregaglia) and the Poschiavino join the Adda, and the
 Rambach (Munster valley) the Adige, all four thus ultimately reaching
@@ -30,10 +30,10 @@ the Adriatic Sea. The inner valleys are the highest in Central Europe,
 and among the loftiest villages are Juf, 6998 ft. (the highest
 permanently inhabited village in the Alps), at the head of the Avers
 glen, and St Moritz, 6037 ft., in the Upper Engadine. The lower courses
-of the various streams are rent by remarkable gorges, such as the Via
+of the various streams are rent by remarkable [[Gorges|gorges]], such as the Via
 Mala, the Rofna, the Schyn, and those in the Avers, Medels and Lugnetz
 glens, as well as that of the Zuge in the Landwasser glen. Below Coire,
-near Malans, good wine is produced, while in the Val Mesocco, &c., maize
+near [[Malan|Malans]], good wine is produced, while in the Val Mesocco, &c., maize
 and chestnuts flourish. But the forests and the mountain pasturages are
 the chief source of wealth. The lower pastures maintain a fine breed of
 cows, while the upper are let out in summer to Bergamasque shepherds.
@@ -80,9 +80,9 @@ Oberland and in the Hinter Rhine valley (Schams and Domleschg), and the
 Ladin (closely related to the tongue spoken in parts of the South
 Tyrol), that survives in the Engadine and in the neighbouring valleys of
 Bergun, Oberhalbstein and Munster. (See F. Rausch's _Geschichte der
-Literatur des rhaeto-romanischen Volkes_, Frankfort, 1870, and Mr
+Literatur des rhaeto-romanischen Volkes_, [[Frankfort]], 1870, and Mr
 Coolidge's bibliography of this language, given on pp. 22-23 of Lorria
-and Martel's _Le Massif de la Bernina_, Zurich, 1894.) Yet in the midst
+and Martel's _Le [[Massif]] de la Bernina_, Zurich, 1894.) Yet in the midst
 of this Romance-speaking population are islets (mostly, if not entirely,
 due to immigration in the 13th century from the German-speaking Upper
 Valais) of German-speaking inhabitants, so in the Vals and Safien glens,
@@ -101,7 +101,7 @@ A certain number of lead and silver mines were formerly worked, but are
 now abandoned. The capital of the canton is Coire (q.v.).
 
 The canton is divided into 14 administrative districts, and includes 224
-communes. It sends 2 members (elected by a popular vote) to the Federal
+[[Commune|communes]]. It sends 2 members (elected by a popular vote) to the Federal
 _Standerath_, and 5 members (also elected by a popular vote) to the
 Federal _Nationalrath_. The existing cantonal constitution was accepted
 by the people in 1892, and came into force on 1st January 1894. The
@@ -132,7 +132,7 @@ Raeti, were Celts rather than, as was formerly believed, Etruscans), set
 up by the Romans after their conquest of the region in 15 B.C. The
 Romanized inhabitants were to a certain extent (The Romonsch or Ladin
 tongue is a survival of the Roman dominion) Teutonized under the
-Ostrogoths (A.D. 493-537) and under the Franks (from 537 onwards).
+Ostrogoths (A.D. 493-537) and under the [[Frank|Franks]] (from 537 onwards).
 Governors called _Praesides_ are mentioned in the 7th and 8th centuries,
 while members of the same family occupied the episcopal see of Coire
 (founded 4th-5th centuries). About 806 Charles the Great made this
@@ -175,7 +175,7 @@ diets were held there. By a succession of purchases (1477-1496) nearly
 all the possessions of the extinct dynasty of the counts of Toggenburg
 in the Prattigau had come to the junior or Tyrolese line of the
 Habsburgers. On its extinction (1496) in turn they passed to the elder
-line, the head of which, Maximilian, was already emperor-elect and
+line, the head of which, [[Maximilian]], was already emperor-elect and
 desired to maintain the rights of his family there and in the Lower
 Engadine. Hence in 1497 the Ober Bund and in 1498 the _Gotteshausbund_
 became allies of the Swiss Confederation. War broke out in 1499, but was
@@ -205,7 +205,7 @@ inhabitants to give up Protestantism. Finally, after the emperor had
 _formally_ recognized, by the treaty of Westphalia (1648), the
 independence of the Swiss Confederation, the rights of the Habsburgers
 in the Prattigau and the Lower Engadine were bought up (1649 and 1652).
-But the Austrian _enclaves_ of Tarasp (Lower Engadine) and of Razuns
+But the Austrian _[[Enclave|enclaves]]_ of Tarasp (Lower Engadine) and of Razuns
 (near Reichenau) were only annexed to the Grisons in 1809 and 1815
 respectively, in each case France holding the lordship for a short time
 after its cession by Austria. In 1748 (finally in 1762) the three

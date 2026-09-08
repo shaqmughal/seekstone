@@ -33,7 +33,7 @@ for the most part fanatical Mahommedans.
 
   See Moritz Wagner, _Schamyl_ (Leipzig, 1854); von Seidlitz,
   "Ethnographie des Kaukasus," in _Petermann's Mitteilungen_ (1880);
-  Ernest Chantre, _Recherches anthropologiques dans le Caucase_ (Lyon,
+  Ernest Chantre, _Recherches anthropologiques [[Dan|dans]] le Caucase_ (Lyon,
   1885-1887); J. de Morgan, _Recherches sur les origines des peuples du
   Caucase_ (Paris, 1889).
 

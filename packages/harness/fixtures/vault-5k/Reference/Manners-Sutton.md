@@ -15,7 +15,7 @@ became dean of Peterborough. He was consecrated bishop of Norwich in
 1792, and two years later received the appointment of dean of Windsor
 _in commendam_. In 1805 he was chosen to succeed Archbishop Moore in the
 see of Canterbury. During his primacy the old archiepiscopal palace at
-Croydon was sold and the country palace of Addington bought with the
+[[Croydon]] was sold and the country palace of Addington bought with the
 proceeds. He presided over the first meeting which issued in the
 foundation of the National Society, and subsequently lent the scheme his
 strong support. He also exerted himself to promote the establishment of

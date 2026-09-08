@@ -7,10 +7,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Le_Chapeli
 
 # Le Chapelier
 
-LE CHAPELIER, ISAAC RENÉ GUY (1754-1794), French politician, was born at
+LE CHAPELIER, [[Isaac|ISAAC]] RENÉ GUY (1754-1794), French politician, was born at
 Rennes on the 12th of June 1754, his father being _bâtonnier_ of the
 corporation of lawyers in that town. He entered his father's profession,
-and had some success as an orator. In 1789 he was elected as a deputy to
+and had some success as an orator. In 1789 he was elected as a [[Deputy|deputy]] to
 the States General by the Tiers-État of the _sénéchaussée_ of Rennes. He
 adopted advanced opinions, and was one of the founders of the Breton
 Club (see JACOBIN CLUB); his influence in the Constituent Assembly was
@@ -19,7 +19,7 @@ president. Thus he presided over the Assembly during the important
 period following the 4th of August; he took an active part in the
 debates, and was a leading member of the committee which drew up the new
 constitution; he further presented a report on the liberty of theatres
-and on literary copyright. He was also conspicuous as opposing
+and on literary [[Copyright|copyright]]. He was also conspicuous as opposing
 Robespierre when he proposed that members of the Constituent Assembly
 should not be eligible for election to the proposed new Assembly. After
 the flight of the king to Varennes (20th of June 1792), his opinions

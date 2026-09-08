@@ -10,7 +10,7 @@ type: source
 DEMETRIUS, PSEUDO- (or FALSE), the name by which three Muscovite princes
 and pretenders, who claimed to be Demetrius, son of Ivan the Terrible,
 are known in history. The real Demetrius had been murdered, while still
-a child, in 1591, at Uglich, his widowed mother's appanage.
+a child, in 1591, at Uglich, his widowed mother's [[Appanage|appanage]].
 
 1. In the reign of Tsar Boris Godunov (1598-1605), the first of these
 pretenders, whose origin is still obscure, emigrated to Lithuania and
@@ -27,7 +27,7 @@ for what he pretended to be and tried to enlist the sympathy of the
 Polish king, Sigismund III., in his favour. The king refused to support
 him officially, but his cause was taken up, as a speculation, by the
 Polish magnate Yury Mniszek, whose daughter Marina he afterwards wedded
-and crowned as his tsaritsa. The Jesuits also seem to have believed in
+and crowned as his tsaritsa. The [[Jesuits]] also seem to have believed in
 the man, who was evidently an unconscious impostor brought up from his
 youth to believe that he was the real Demetrius; numerous fugitives from
 Moscow also acknowledged him, and finally he set out, at the head of an
@@ -35,7 +35,7 @@ army of Polish and Lithuanian volunteers, Cossacks and Muscovite
 fugitives, to drive out the Godunovs, after being received into the
 Church of Rome. At the beginning of 1604 he was invited to Cracow, where
 Sigismund presented him to the papal nuncio Rangoni. His public
-conversion took place on the 17th of April. In October the false
+[[Conversion|conversion]] took place on the 17th of April. In October the false
 Demetrius crossed the Russian frontier, and shortly afterwards routed a
 large Muscovite army beneath the walls of Novgorod-Syeversk. The sudden
 death of Tsar Boris (April 13, 1605) removed the last barrier to the
@@ -46,7 +46,7 @@ crowned tsar by a new patriarch of his own choosing, the Greek Isidore.
 He at once proceeded to introduce a whole series of political and
 economical reforms. From all accounts, he must have been a man of
 original genius and extraordinary resource. He did his best to relieve
-the burdens of the peasantry; he formed the project of a grand alliance
+the [[Burden|burdens]] of the peasantry; he formed the project of a [[Grand Alliance|grand alliance]]
 between the emperor, the pope, Venice, Poland and Muscovy against the
 Turk; he displayed an amazing toleration in religious matters which made
 people suspect that he was a crypto-Arian; and far from being, as was
@@ -108,7 +108,7 @@ by a Tatar whom he had flogged.
 
 3. The third, a still more enigmatical person than his predecessors,
 supposed to have been a deacon called Siderka, appeared suddenly, "from,
-behind the river Yanza," in the Ingrian town of Ivangorod (Narva),
+behind the river Yanza," in the Ingrian town of [[Ivangorod]] (Narva),
 proclaiming himself the tsarevich Demetrius Ivanovich, on the 28th of
 March 1611. The Cossacks, ravaging the environs of Moscow, acknowledged
 him as tsar on the 2nd of March 1612, and under threat of vengeance in

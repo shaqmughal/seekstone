@@ -23,29 +23,29 @@ published in the _Revue des deux mondes_ a series of articles on
 Gustavus III. and the French court, which were republished in book form
 in 1867. To the second volume he appended a critical study on _Marie
 Antoinette et Louis XVI apocryphes_, in which he proved, by evidence
-drawn from documents in the private archives of the emperor of Austria,
+drawn from documents in the private [[Archive|archives]] of the emperor of Austria,
 that the letters published by Feuillet de Conches (_Louis XVI, Marie
 Antoinette et Madame Elisabeth_, 1864-1873) and Hunolstein (_Corresp.
 inédite de Marie Antoinette_, 1864) are forgeries. With the
-collaboration of Alfred von Arneth, director of the imperial archives at
+collaboration of Alfred von [[Arneth]], director of the imperial archives at
 Vienna, he edited the _Correspondance secrète entre Marie-Thérèse et le
 comte de Mercy-Argenteau_ (3 vols., 1874), the first account based on
 trustworthy documents of Marie Antoinette's character, private conduct
-and policy. The Franco-German War drew Geffroy's attention to the
+and policy. The [[Franco-German War]] drew Geffroy's attention to the
 origins of Germany, and his _Rome et les Barbares: étude sur la Germanie
 de Tacite_ (1874) set forth some of the results of German scholarship.
 He was then appointed to superintend the opening of the French school of
-archaeology at Rome, and drew up two useful reports (1877 and 1884) on
+[[Archaeology|archaeology]] at Rome, and drew up two useful reports (1877 and 1884) on
 its origin and early work. But his personal tastes always led him back
 to the study of modern history. When the Paris archives of foreign
 affairs were thrown open to students, it was decided to publish a
 collection of the instructions given to French ambassadors since 1648
 (_Recueil des instructions données aux ambassadeurs et ministres de
 France depuis le traité de Westphalie_), and Geffroy was commissioned to
-edit the volumes dealing with Sweden (vol. ii., 1885) and Denmark (vol.
-xiii., 1895). In the interval he wrote _Madame de Maintenon d'après sa
+edit the volumes dealing with Sweden (vol. ii., 1885) and [[Denmark]] (vol.
+xiii., 1895). In the interval he wrote _Madame de [[Maintenon]] d'après sa
 correspondance authentique_ (2 vols., 1887), in which he displayed his
-penetrating critical faculty in discriminating between authentic
+penetrating critical faculty in discriminating between [[Authentic|authentic]]
 documents and the additions and corrections of arrangers like La
 Beaumelle and Lavallée. His last works were an _Essai sur la formation
 des collections d'antiques de la Suède_ and _Des institutions et des

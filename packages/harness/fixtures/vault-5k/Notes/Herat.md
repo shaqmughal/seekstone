@@ -8,7 +8,7 @@ modern days it has quite lost its ancient commercial importance. From
 this central point great lines of communication radiate in all
 directions to Russian, British, Persian and Afghan territory. Sixty-six
 miles to the north lies the terminus of the Russian railway system; to
-the south-east is Kandahar (360 m.) and about 70 m. beyond that, New
+the south-east is [[Kandahar]] (360 m.) and about 70 m. beyond that, New
 Chaman, the terminus of the British railway system. Southward lies
 Seistan (200 m.), and eastward Kabul (550 m.); while on the west four
 routes lead into Persia by Turbet to Meshed (215 m.), and by Birjend to
@@ -18,7 +18,7 @@ yds. by 1500 yds.); on the western, southern and eastern faces the line
 of defence is almost straight, the only projecting points being the
 gateways, but on the northern face the contour is broken by a double
 outwork, consisting of the _Ark_ or citadel, which is built of sun-dried
-brick on a high artificial mound within the enceinte, and a lower work
+[[Brick|brick]] on a high artificial mound within the enceinte, and a lower work
 at its foot, called the _Ark-i-nao_, or "new citadel," which extends 100
 yds. beyond the line of the city wall. That which distinguishes Herat
 from all other Oriental cities, and at the same time constitutes its
@@ -60,10 +60,10 @@ exquisite taste in the blending of colour still appeals to the memory as
 unique. At the same time the ancient graveyards round the city were
 swept smooth and levelled; obstructions were demolished, outworks
 constructed, and the defences generally renovated. Whether or no the
-strength of this bulwark of North-Western Afghanistan should ever be
+strength of this [[Bulwark|bulwark]] of North-Western Afghanistan should ever be
 practically tested, the general result of the most recent investigations
 into the value of Herat as a strategic centre has been largely to
-modify the once widely-accepted view that the key to India lies within
+modify the once widely-accepted view that the [[Key|key]] to India lies within
 it. Abdur Rahman and his successor Habibullah steadfastly refused the
 offer of British engineers to strengthen its defences; and though the
 Afghans themselves have occasionally undertaken repairs, it is doubtful
@@ -86,13 +86,13 @@ narrow ravines which is generally a distinguishing feature of Turkestan
 loess formations) for a distance of 35 m. into the Russian railway
 station, falling some 2700 ft. from the crest of the Paropamisus. To the
 south the road from Herat to India through Kandahar lies across an open
-plain, which presents no great engineering difficulties, but is of a
+plain, which presents no great [[Engineering|engineering]] difficulties, but is of a
 somewhat waterless and barren character.
 
 The city possesses five gates, two on the northern face, the Kutab-chak
 near the north-east angle of the wall, and the Malik at the re-entering
 angle of the Ark-i-nao; and three others in the centres of the remaining
-faces, the Irak gate on the west, the Kandahar gate on the south and the
+faces, the [[Irak]] gate on the west, the Kandahar gate on the south and the
 Kushk gate on the east face. Four streets called the _Chahar-suk_,
 running from the centre of each face, meet in the centre of the town in
 a small domed quadrangle. The principal street runs from the south or
@@ -108,7 +108,7 @@ comprises an area of 800 yds. square, and must have been a most
 magnificent structure. It was erected towards the close of the 15th
 century, during the reign of Shah Sultan Hussein of the family of Timur,
 and is said when perfect to have been 465 ft. long by 275 ft. wide, to
-have had 408 cupolas, 130 windows, 444 pillars and 6 entrances, and to
+have had 408 [[Cupola|cupolas]], 130 windows, 444 pillars and 6 entrances, and to
 have been adorned in the most magnificent manner with gilding, carving,
 precious mosaics and other elaborate and costly embellishments. Now,
 however, it is falling rapidly into ruin, the ever-changing provincial
@@ -146,7 +146,7 @@ Italian artist named Geraldi, who was in the service of Shah Abbas the
 Great. The locality, which is further enlivened by gardens and running
 streams, is named _Gazir-gah_, and is a favourite resort of the Heratis.
 It is held indeed in high veneration by all classes, and the famous Dost
-Mahommed Khan is himself buried at the foot of the tomb of the saint.
+Mahommed [[Khan]] is himself buried at the foot of the tomb of the saint.
 Two other royal palaces named respectively _Bagh-i-Shah_ and
 _Takht-i-Sefer_, are situated on the same rising ground somewhat farther
 to the west. The buildings are now in ruins, but the view from the
@@ -154,10 +154,10 @@ pavilions, shaded by splendid plane trees on the terraced gardens formed
 on the slope of the mountain, is said to be very beautiful.
 
 The population of Herat and the neighbourhood is of a very mixed
-character. The original inhabitants of Ariana were no doubt of the Aryan
+character. The original inhabitants of Ariana were no doubt of the [[Aryan]]
 family, and immediately cognate with the Persian race, but they were
 probably intermixed at a very early period with the Sacae and
-Massagetae, who seem to have held the mountains from Kabul to Herat from
+[[Massagetae]], who seem to have held the mountains from Kabul to Herat from
 the first dawn of history, and to whom must be ascribed--rather than to
 an infusion of Turco-Tartaric blood introduced by the armies of Jenghiz
 and Timur--the peculiar broad features and flattish countenance which
@@ -177,7 +177,7 @@ Kandahar.
 
 The long narrow valley of the Hari Rud, starting from the western slopes
 of the Koh-i-Baba, extends almost due west for 300 m. before it takes
-its great northern bend at Kuhsan, and passes northwards through the
+its great northern [[Bend|bend]] at Kuhsan, and passes northwards through the
 broken ridges of the Siah Bubuk (the western extremity of the range
 which we now call Paropamisus) towards Sarakhs. For the greater part of
 its length it drains the southern slopes only of the Paropamisus and the
@@ -187,7 +187,7 @@ sources of the Murghab river; the northern face of the same plateau is
 defined by the Band-i-Turkestan. On the south of the plateau we find a
 similar succession of narrow valleys dividing parallel flexures, or
 anticlinals, formed under similar geological conditions to those which
-appear to be universally applicable to the Himalaya, the Hindu Kush, and
+appear to be universally applicable to the [[Himalaya]], the Hindu Kush, and
 the Indus frontier mountain systems. From one of these long lateral
 valleys the Hari Rud receives its principal tributary, which joins the
 main river below Obeh, 180 m. from its source; and it is this tributary
@@ -208,8 +208,8 @@ render these hills especially subject to the action of denudation, and
 the result, in rounded slopes and easily accessible crests, determines
 the nature of the easy tracks and passes which intersect them. At the
 same time, any excessive local rainfall is productive of difficulty and
-danger from the floods of liquid mud and loose boulders which sweep like
-an avalanche down the hill sides. The intense cold which usually
+danger from the floods of liquid mud and loose [[Boulder|boulders]] which sweep like
+an [[Avalanche|avalanche]] down the hill sides. The intense cold which usually
 accompanies these sudden northern blizzards of Herat and Turkestan is a
 further source of danger.
 
@@ -218,7 +218,7 @@ commences, and it extends, with a width which varies from 8 to 16 m., to
 Kuhsan, 60 m. west of the city. But the great stretch of highly
 irrigated and valuable fruit-growing land, which appears to spread from
 the walls of Herat east and west as far as the eye can reach, and to
-sweep to the foot of the hills north and south with an endless array of
+sweep to the foot of the hills north and south with an endless [[Array|array]] of
 vineyards and melon-beds, orchards and villages, varied with a brilliant
 patchwork of poppy growth brightening the width of green wheat-fields
 with splashes of scarlet and purple--all this is really comprised within
@@ -248,7 +248,7 @@ dominating, but the foot of these hills is really about 3 m. distant
 from the city. This northern line of barren, broken sandstone hills is
 geographically no part of the Paropamisus range, from which it is
 separated by a stretch of sandy upland about 20 m. in width, called the
-Dasht-i-Hamdamao, or Dasht-i-Ardewan, formed by the talus or drift of
+Dasht-i-Hamdamao, or Dasht-i-Ardewan, formed by the talus or [[Drift|drift]] of
 the higher mountains, which, washed down through centuries of
 denudation, now forms long sweeping spurs of gravel and sand, scantily
 clothed with wormwood scrub and almost destitute of water. Through this
@@ -297,27 +297,27 @@ which surround the modern town, that, like the similar remains at Bost
 on the Helmund and at Ulan Robat of Arachosia, they belong to that
 period of Central-Asian history which preceded the rise of Achaemenian
 power, and which in Grecian romance is illustrated by the names of
-Bacchus, of Hercules and of Semiramis. To trace in any detail the
+Bacchus, of [[Hercules]] and of Semiramis. To trace in any detail the
 fortunes of Herat would be to write the modern history of the East, for
 there has hardly been a dynastic revolution, or a foreign invasion, or a
 great civil war in Central Asia since the time of the prophet, in which
 Herat has not played a conspicuous part and suffered accordingly. Under
-the Tahirids of Khorasan, the Saffarids of Seistan and the Samanids of
-Bokhara, it flourished for some centuries in peace and progressive
+the Tahirids of [[Khorasan]], the Saffarids of Seistan and the Samanids of
+[[Bokhara]], it flourished for some centuries in peace and progressive
 prosperity; but during the succeeding rule of the Ghaznevid kings its
 metropolitan character was for a time obscured by the celebrity of the
-neighbouring capital of Ghazni, until finally in the reign of Sultan
+neighbouring capital of [[Ghazni]], until finally in the reign of Sultan
 Sanjar of Merv about 1157 the city was entirely destroyed by an
 irruption of the Ghuzz, the predecessors, in race as well as in habitat,
 of the modern Turkomans. Herat gradually recovered under the enlightened
 Ghorid kings, who were indeed natives of the province, though they
 preferred to hold their court amid their ancestral fortresses in the
-mountains of Ghor, so that at the time of Jenghiz Khan's invasion it
+mountains of [[Ghor]], so that at the time of Jenghiz Khan's invasion it
 equalled or even exceeded in populousness and wealth its sister capitals
-Of Balkh, Merv and Nishapur, the united strength of the four cities
+Of [[Balkh]], Merv and Nishapur, the united strength of the four cities
 being estimated at three millions of inhabitants. But this Mogul
 visitation was most calamitous; forty persons, indeed, are stated to
-have alone survived the general massacre of 1232, and as a similar
+have alone survived the general [[Massacre|massacre]] of 1232, and as a similar
 catastrophe overtook the city at the hands of Timur in 1398, when the
 local dynasty of Kurt, which had succeeded the Ghorides in eastern
 Khorasan, was put an end to, it is astonishing to find that early in the
@@ -336,7 +336,7 @@ east, were first settled at Herat by Nadir Shah, and from that time they
 have monopolized the government and formed the dominant element in the
 population. It will be needless to trace the revolutions and
 counter-revolutions which have followed each other in quick succession
-at Herat since Ahmad Shah Durani founded the Afghan monarchy about the
+at Herat since Ahmad Shah [[Durani]] founded the Afghan monarchy about the
 middle of the 18th century. Let it suffice to say that Herat has been
 throughout the seat of an Afghan government, sometimes in subordination
 to Kabul and sometimes independent. Persia indeed for many years showed

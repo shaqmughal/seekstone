@@ -7,16 +7,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/James"
 
 # James
 
-JAMES, EPISTLE OF, a book of the New Testament. The superscription (Jas.
+JAMES, [[Epistle|EPISTLE]] OF, a book of the New Testament. The superscription (Jas.
 i. 1) ascribes it to that pre-eminent "pillar" (Gal. ii. 9) of the
 original mother church who later came to be regarded in certain quarters
-as the "bishop of bishops" (Epist. of James to Clement, _ap. Clem. Hom._
+as the "bishop of bishops" (Epist. of James to [[Clement]], _ap. Clem. Hom._
 Superscription). As such he appears in a position to address an
-encyclical to "the twelve tribes of the dispersion"; for the context (i.
+[[Encyclical|encyclical]] to "the twelve tribes of the dispersion"; for the context (i.
 18, v. 7 seq.) and literary relation (cf. 1 Pet. i. 1, 3, 23-25) prove
 this to be a figure for the entire new people of God, without the
 distinction of carnal birth, as Paul had described "the Israel of God"
-(Gal. vi. 16), spiritually begotten, like Isaac, by the word received in
+(Gal. vi. 16), spiritually begotten, like [[Isaac]], by the word received in
 faith (Gal. iii. 28 seq., iv. 28; Rom. ix. 6-9, iv. 16-18). This idea of
 the spiritually begotten Israel becomes current after 1 Pet., as appears
 in John i. 11-13, iii. 3-8; Barn. iv. 6, xiii. 13; 2 Clem. ii. 2, &c.
@@ -54,7 +54,7 @@ prefixed by conjecture, to secure recognition and authority for the
 book, even this was at first a failure. The earliest trace of any
 recognition of it is in Origen (A.D. 230) who refers to it as "said to
 be from James" ([Greek: pheromegê hê Iakôbou Epistolê]), seeming thus to
-regard ver. 1 as superscription rather than part of the text. Eusebius
+regard ver. 1 as superscription rather than part of the text. [[Eusebius]]
 (A.D. 325) classifies it among the disputed books, declaring that it is
 regarded as spurious, and that not many of the ancients have mentioned
 it. Even Jerome (A.D. 390), though personally he accepted it, admits
@@ -70,7 +70,7 @@ James." The Syrian canon of the Peshitta was the first to admit it.
   Cor. x.-xiii., by dating before the Judaistic controversy. Other
   critics regard the very language alone as fatal to such a theory of
   date, authorship and circle addressed. The contents, ignoring the
-  conflict of Jew and Gentile, complaining of worldiness and
+  conflict of Jew and [[Gentile]], complaining of worldiness and
   tongue-religion (cf. 1 John iii. 17 seq. with James ii. 14-16) suggest
   a much later date than the death of James (A.D. 62-66). They also
   require a different character in the author, if not also a different
@@ -82,7 +82,7 @@ James." The Syrian canon of the Peshitta was the first to admit it.
   3-10, 18; 1 Tim. i. 6 seq., vi. 3-10; 2 Tim. iii. 1-5, iv. 3 seq.).
   The author meets these with the weapons commanded for the purpose in 1
   Tim. vi. 3, but quite in the spirit of one of the "wise men" of the
-  Hebrew wisdom literature. His gospel is completely denationalized,
+  Hebrew wisdom literature. His [[Gospel|gospel]] is completely denationalized,
   humanitarian; but, while equally universalistic, is quite
   unsympathetic towards the doctrine and the mysticism of Paul. He has
   nothing whatever to say of the incarnation, life, example, suffering
@@ -113,13 +113,13 @@ James." The Syrian canon of the Peshitta was the first to admit it.
   4. The true spirit of wisdom appears not in aspiring to teach, but in
   goodness and meekness of life (ch. iii.). Strife and self-exaltation
   are fruits of a different spirit, to be resisted and overcome by
-  humble prayer for more grace (iv. 1-10).
+  humble prayer for more [[Grace|grace]] (iv. 1-10).
 
   5. God's judgment is at hand. The thought condemns censoriousness (iv.
   11 et seq.), presumptuous treatment of life (13-17), and the tyranny
   of the rich (v. 1-6). It encourages the believer to patient endurance
   to the end without murmuring or imprecations (7-12). It impels the
-  church to diligence in its work of worship, care and prayer (13-18),
+  church to [[Diligence|diligence]] in its work of worship, care and prayer (13-18),
   and in the reclamation of the erring (19-20).
 
   The use made by James of earlier material is as important for
@@ -127,7 +127,7 @@ James." The Syrian canon of the Peshitta was the first to admit it.
   later writers for the _terminus ad quem_. Acquaintance with the
   evangelic tradition is apparent. It is conceived, however, more in the
   Matthaean sense of "commandments to be observed" (Matt. xxviii. 20)
-  than the Pauline, Markan and Johannine of the drama of the incarnation
+  than the Pauline, Markan and Johannine of the [[Drama|drama]] of the incarnation
   and redemption. There is no traceable literary contact with the
   synoptic gospels. Acquaintance, however, with some of the Pauline
   epistles "must be regarded as incontestably established" (O. Cone,
@@ -136,10 +136,10 @@ James." The Syrian canon of the Peshitta was the first to admit it.
   section devoted to a refutation of the doctrine of "justification by
   faith apart from works" undeniably presupposes the Pauline
   terminology. Had the author been consciously opposing the great
-  apostle to the Gentiles he would probably have treated the subject
+  [[Apostle|apostle]] to the Gentiles he would probably have treated the subject
   less superficially. What he really opposes is the same ultra-Pauline
   moral laxity which Paul himself had found occasion to rebuke among
-  would-be adherents in Corinth (1 Cor. vi. 12; viii. 1-3, 11, 12; x. 23
+  would-be adherents in [[Corinth]] (1 Cor. vi. 12; viii. 1-3, 11, 12; x. 23
   seq., 32 seq.) and which appears still more marked in the pastoral
   epistles and 1 John. In rebuking it James unconsciously retracts the
   misapplied Pauline principle itself. To suppose that the technical
@@ -169,7 +169,7 @@ James." The Syrian canon of the Peshitta was the first to admit it.
   only," that the particular good work which "wrought with the faith" of
   Abraham and Rahab to their justification was "hospitality" (1 Clem,
   x.-xii.) seems plainly to presuppose James. Priority is more difficult
-  to establish in the case of Hermas (A.D. 120-140), where the contacts
+  to establish in the case of [[Hermas]] (A.D. 120-140), where the contacts
   are undisputed (cf. James iv. 7, 12 with Mand. xii, 5, 6; Sim. ix.
   23).[2]
 
@@ -185,10 +185,10 @@ _Shepherd_ of Hermas declares it to be "certain that both writings
 presuppose like historical circumstances, and, from a similar point of
 view, direct their admonitions to their contemporaries, among whom a lax
 worldly-mindedness and unfruitful theological wrangling threatened to
-destroy the religious life."[3] Holtzmann has characterized this as "the
+destroy the religious life."[3] [[Holtzmann]] has characterized this as "the
 right visual angle" for the judgment of the book. Questions as to the
 obligation of Mosaism and the relations of Jew and Gentile have utterly
-disappeared below the horizon. Neither the attachment to the religious
+disappeared below the [[Horizon|horizon]]. Neither the [[Attachment|attachment]] to the religious
 forms of Judaism, which we are informed was characteristic of James, nor
 that personal relation to the Lord which gave him his supreme
 distinction are indicated by so much as a single word. Instead of being
@@ -215,21 +215,21 @@ will be found the exponent of a real logical sequence. We might almost
 admit a resemblance in form to the general literary type which Spitta
 adduces. The term "wisdom" in particular is used in the special and
 technical sense of the "wise men" of Hebrew literature (Matt. xxiii.
-34), the sense of "the wisdom of the just" of Luke i. 17. True, the
+34), the sense of "the wisdom of the just" of [[Luke]] i. 17. True, the
 mystical sense given to the term in one of the sources of Luke, by Paul
 and some of the Church fathers, is not present. While the gospel is
 pre-eminently the divine gift of "wisdom," "wisdom" is not personified,
-but conceived primarily as a system of humanitarian ethics, i. 21-25,
+but conceived primarily as a system of humanitarian [[Ethics|ethics]], i. 21-25,
 and only secondarily as a spiritual effluence, imparting the regenerate
 disposition, the "mind that was in Christ Jesus," iii. 13-18. And yet
 for James as well as for Paul Christ is "the wisdom of God." The
 difference in conception of the term is similar to that between
-Ecclesiasticus and the Wisdom of Solomon. Our author, like Paul, expects
+[[Ecclesiasticus]] and the Wisdom of Solomon. Our author, like Paul, expects
 the hearers of the word to be "a kind of first-fruits to God of his
 creation." (i. 18 cf. 1 Pet. i. 23), and bids them depend upon the gift
 of grace (i. 5, iv. 5 seq.), but for the evils of the world he has no
 remedy but the patient endurance of the Christian philosopher (i. 2-18).
-For the faithlessness ([Greek: dipsychia] i. 6-8; cf. _Didache_ and
+For the faithlessness ([Greek: dipsychia] i. 6-8; cf. _[[Didache]]_ and
 Hermas), worldliness (ii. 1-13) and hollow profession (ii. 14-26) of the
 church life of his time, with its "theological wrangling" (iii. 1-12),
 his remedy is again the God-given, peaceable spirit of the Christian
@@ -241,17 +241,17 @@ stoic will maintain the individual in his patient waiting for the
 expected "coming of the Lord" (v. 7-11); while the church sustains its
 official functions of healing and prayer, and reclamation of the erring
 (v. 13-20).[4] For this conception of the gospel and of the officially
-organized church, our nearest analogy is in Matthew, or rather in the
+organized church, our nearest analogy is in [[Matthew]], or rather in the
 blocks of precepts of the Lord which after subtraction of the Markan
 narrative framework are found to underlie our first gospel. It may be
 mere coincidence that the material in Matthew as well as in the
 _Didache_ seems to be arranged in five divisions, beginning with a
-commendation of the right way, and ending with warnings of the judgment,
+[[Commendation|commendation]] of the right way, and ending with warnings of the judgment,
 while the logical analysis of James yields something similar; but of the
 affinity of spirit there can be no doubt.
 
 The type of ethical thought exemplified in James has been called
-Ebionite (Hilgenfeld). It is clearly manifest in the humanitarianism of
+Ebionite ([[Hilgenfeld]]). It is clearly [[Manifest|manifest]] in the humanitarianism of
 Luke also. But with the possible exception of the prohibition of oaths
 there is nothing which ought to suggest the epithet. The strong sense of
 social wrongs, the impatience with tongue-religion, the utter ignoring
@@ -278,15 +278,15 @@ wisdom-literature favour somewhat the Hellenistic culture of Syria, as
 represented for example at Antioch.
 
   The most important commentaries on the epistle are those of Matt.
-  Schneckenburger (1832), K. G. W. Theile (1833), J. Kern (1838), G. H.
-  Ewald (1870), C. F. D. Erdmann (1881), H. v. Soden (1898), J. B. Mayor
+  Schneckenburger (1832), K. G. W. Theile (1833), J. [[Kern]] (1838), G. H.
+  Ewald (1870), C. F. D. Erdmann (1881), H. v. Soden (1898), J. B. [[Mayor]]
   (1892) and W. Patrick (1906). The pre-Pauline date is championed by B.
   Weiss (_Introd._), W. Beyschlag (Meyer's _Commentary_), Th. Zahn
   (_Introd._), J. B. Mayor and W. Patrick. J. V. Bartlet (_Ap. Age_, pp.
   217-250) pleads for it, and the view is still common among English
   interpreters. F. K. Zimmer (_Z. w. Th._, 1893) showed the priority of
   Paul, with many others. A. Hilgenfeld (_Einl._) and A. C. McGiffert
-  (_Ap. Age_) place it in the period of Domitian; Baur (_Ch. History_),
+  (_Ap. Age_) place it in the period of [[Domitian]]; Baur (_Ch. History_),
   Schwegler (_Nachap. Zeitalt._), Zeller, Volkmar (_Z. w. Th._),
   Hausrath (_Ap. Age_), H. J. Holtzmann (_Einl._), Jülicher (_Einl._),
   Usteri (St. _u. Kr._, 1889), W. Brückner (_Chron._), H. v. Soden

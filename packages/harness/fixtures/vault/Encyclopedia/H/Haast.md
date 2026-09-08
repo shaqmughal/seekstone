@@ -1,12 +1,12 @@
 # Haast
 
-HAAST, SIR JOHANN FRANZ JULIUS VON (1824-1887), German and British
-geologist, was born at Bonn on the 1st of May 1824. He received his
-early education partly in that town and partly in Cologne, and then
+HAAST, SIR JOHANN [[Franz|FRANZ]] [[Julius|JULIUS]] VON (1824-1887), German and British
+geologist, was born at [[Bonn]] on the 1st of May 1824. He received his
+early education partly in that town and partly in [[Cologne]], and then
 entered the university at Bonn, where he made a special study of geology
 and mineralogy. In 1858 he started for New Zealand to report on the
 suitability of the colony for German emigrants. He then became
-acquainted with Dr von Hochstetter, and rendered assistance to him in
+acquainted with Dr von [[Hochstetter]], and rendered assistance to him in
 the preliminary geological survey which von Hochstetter had undertaken.
 Afterwards Dr Haast accepted offers from the governments of Nelson and
 Canterbury to investigate the geology of those districts, and the

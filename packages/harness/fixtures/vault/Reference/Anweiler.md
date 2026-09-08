@@ -1,7 +1,7 @@
 # Anweiler
 
 ANWEILER, or ANNWEILER, a town of Germany, in the Bavarian Palatinate,
-on the Queich, 8 m. west of Landau, and on the railway from that place
+on the Queich, 8 m. west of [[Landau]], and on the railway from that place
 to Zweibrucken. Pop. 3700. It is romantically situated in the part of
 the Haardt called the Pfalzer Schweiz (Palatinate Switzerland), and is
 surrounded by high hills which yield a famous red sandstone. On the

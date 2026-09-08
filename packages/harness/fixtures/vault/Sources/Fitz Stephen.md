@@ -1,6 +1,6 @@
 # Fitz Stephen
 
-FITZ STEPHEN, WILLIAM (d. c. 1190), biographer of Thomas Becket and
+FITZ STEPHEN, WILLIAM (d. c. 1190), biographer of Thomas [[Becket]] and
 royal justice, was a Londoner by origin. He entered Becket's service at
 some date between 1154 and 1162. The chancellor employed Fitz Stephen in
 legal work, made him sub-deacon of his chapel and treated him as a
@@ -19,8 +19,8 @@ preferment from the king. He was sheriff of Gloucestershire from 1171 to
 
   See his "Vita S. Thomae" in J.C. Robertson's _Materials for the
   History of Thomas Becket_, vol. iii. (Rolls series, 1877). Sir T.D.
-  Hardy, in his _Catalogue of Materials_, ii. 330 (Rolls series, 1865),
-  discusses the manuscripts of this biography and its value. W.H.
+  Hardy, in his _[[Catalogue]] of Materials_, ii. 330 (Rolls series, 1865),
+  discusses the [[Manuscript|manuscripts]] of this biography and its value. W.H.
   Hutton, _St Thomas of Canterbury_, pp. 272-274 (1889), gives an
   account of the author.     (H. W. C. D.)
 

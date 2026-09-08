@@ -1,9 +1,9 @@
 # Kane
 
-KANE, ELISHA KENT (1820-1857), American scientist and explorer, was born
+KANE, [[Elisha|ELISHA]] KENT (1820-1857), American scientist and explorer, was born
 in Philadelphia on the 20th of February 1820, the son of the jurist John
-Kintzing Kane (1795-1858), a friend and supporter of Andrew Jackson,
-attorney-general of Pennsylvania in 1845-1846, U.S. judge of the Eastern
+Kintzing Kane (1795-1858), a friend and supporter of Andrew [[Jackson]],
+[[Attorney-General|attorney-general]] of Pennsylvania in 1845-1846, U.S. judge of the Eastern
 District of Pennsylvania after 1846, and president of the American
 Philosophical Society in 1856-1858. Young Kane entered the university of
 Virginia and obtained the degree of M.D. in 1842, and in the following
@@ -17,14 +17,14 @@ he provided a substitute for his post and crossed over to the island of
 Luzon, which he explored. In 1844 he left China, and, returning by
 India, Persia, Syria, Egypt, Greece, Austria, Germany and Switzerland,
 reached America in 1846. In that year he was ordered to the west coast
-of Africa, where he visited Dahomey, and contracted fever, which told
+of Africa, where he visited [[Dahomey]], and contracted [[Fever|fever]], which told
 severely on his constitution. On his return in 1847, he exchanged the
 naval for the military service, and was sent to join the U.S. army in
 Mexico, where he had some extraordinary adventures, and where he was
 again stricken with fever.
 
 On the fitting out of the first Grinnell expedition, in 1850, to search
-for Sir John Franklin, Kane was appointed surgeon and naturalist under
+for Sir John [[Franklin]], Kane was appointed surgeon and naturalist under
 Lieut. de Haven, who commanded the ships "Advance" and "Rescue." The
 expedition, after an absence of sixteen months, during nine of which the
 ships were ice-bound, returned without having found any trace of the
@@ -38,10 +38,10 @@ out an expedition, in the little brig "Advance," of which Kane was given
 the command. She sailed in June 1853, and passing up Smith Sound at the
 head of Baffin Bay advanced into the enclosed sea which now bears the
 name of Kane Basin, thus establishing the Polar route of many future
-Arctic expeditions. Here, off the coast of Greenland, the expedition
+[[Arctic]] expeditions. Here, off the coast of Greenland, the expedition
 passed two winters, accomplishing much useful geographical, as well as
 scientific, work, including the attainment of what was to remain for
-sixteen years the highest northern latitude, 80 deg. 35' N. (June 1854).
+sixteen years the highest northern [[Latitude|latitude]], 80 deg. 35' N. (June 1854).
 From this point a large area of open water was seen which was believed
 to be an "open Polar Sea," a chimera which played an important and
 delusive role in subsequent explorations. After enduring the greatest
@@ -53,7 +53,7 @@ Society, and, two years later, a gold medal from the Paris Geographical
 Society. He published _The Second Grinnell Expedition_ in 1856. Dr Kane
 died at Havana on the 16th of February 1857, at the age of thirty-seven.
 Between his first and second arctic voyages he made the acquaintance of
-the Fox family, the spiritualists. With one of the daughters, Margaret,
+the [[Fox]] family, the spiritualists. With one of the daughters, [[Margaret]],
 he carried on a long correspondence, which was afterwards published by
 the lady, who declared that they were privately married.
 

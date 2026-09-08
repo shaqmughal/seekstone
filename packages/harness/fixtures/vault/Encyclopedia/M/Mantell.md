@@ -9,17 +9,17 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Mantell"
 # Mantell
 
 MANTELL, GIDEON ALGERNON (1790-1852), English geologist and
-palaeontologist, was born in 1790 at Lewes, Sussex. Educated for the
+palaeontologist, was born in 1790 at [[Lewes]], Sussex. Educated for the
 medical profession, he first practised in his native town, afterwards in
 1835 in Brighton, and finally at Clapham, near London. He found time to
 prosecute researches on the palaeontology of the Secondary rocks,
 particularly in Sussex--a region which he made classical in the history
-of discovery. While he was still a country doctor at Lewes his eminence
+of discovery. While he was still a country doctor at Lewes his [[Eminence|eminence]]
 as a geological investigator was fully recognized on the publication of
-his work on _The Fossils of the South Downs_ (1822). His most remarkable
+his work on _The Fossils of the South [[Downs]]_ (1822). His most remarkable
 discoveries were made in the Wealden formations. He demonstrated the
 fresh-water origin of the strata, and from them he brought to light and
-described the remarkable Dinosaurian reptiles known as _Iguanodon_,
+described the remarkable Dinosaurian reptiles known as _[[Iguanodon]]_,
 _Hylaeosaurus_, _Pelorosaurus_ and _Regnosaurus_. For these researches
 he was awarded the Wollaston medal by the Geological Society and a Royal
 medal by the Royal Society. He was elected F.R.S. in 1825. Among his

@@ -9,17 +9,17 @@ type: note
 
 CALABAR BEAN, the seed of a leguminous plant, _Physostigma venenosum_, a
 native of tropical Africa. It derives its scientific name from a curious
-beak-like appendage at the end of the stigma, in the centre of the flower;
+beak-like appendage at the end of the stigma, in the centre of the [[Flower|flower]];
 this appendage though solid was supposed to be hollow (hence the name from
-[Greek: phusa], a bladder, and _stigma_). The plant has a climbing habit
+[Greek: phusa], a [[Bladder|bladder]], and _stigma_). The plant has a climbing habit
 like the scarlet runner, and attains a height of about 50 ft. with a stem
-an inch or two in thickness. The seed pods, which contain two or three
-seeds or beans, are 6 or 7 in. in length; and the beans are about the size
+an [[Inch|inch]] or two in thickness. The seed pods, which contain two or three
+seeds or [[Bean|beans]], are 6 or 7 in. in length; and the beans are about the size
 of an ordinary horse bean but much thicker, with a deep chocolate-brown
 colour. They constitute the E-ser-e or ordeal beans of the negroes of Old
 Calabar, being administered to persons accused of witchcraft or other
 crimes. In cases where the poisonous material did its deadly work, it was
-held at once to indicate and rightly to punish guilt; but when it was
+held at once to indicate and rightly to punish [[Guilt|guilt]]; but when it was
 rejected by the stomach of the accused, innocence was held to be
 satisfactorily established. A form of duelling with the seeds is also known
 among the natives, in which the two opponents divide a bean, each eating
@@ -29,7 +29,7 @@ smell to distinguish it from any harmless leguminous seed, and very
 disastrous effects have resulted from its being incautiously left in the
 way of children. The beans were first introduced into England in the year
 1840; but the plant was not accurately described till 1861, and its
-physiological effects were investigated in 1863 by Sir Thomas R. Fraser.
+physiological effects were investigated in 1863 by Sir Thomas R. [[Fraser]].
 
 The bean usually contains a little more than 1% of alkaloids. Of these two
 have been identified, one called _calabarine_, and the other, now a highly
@@ -54,7 +54,7 @@ direct influence on the secreting gland-cells themselves. After a few
 minutes the salivation is arrested owing to the constricting influence of
 the drug upon the blood-vessels that supply the glands. There is also felt
 a sense of constriction in the pharynx, due to the action of the drug on
-its muscular fibres. A similar stimulation of the non-striped muscle in the
+its muscular [[Fibres|fibres]]. A similar stimulation of the non-striped muscle in the
 alimentary canal results in violent vomiting and purging, if a large dose
 has been taken. Physostigmine, indeed, stimulates nearly all the
 non-striped muscles in the body, and this action upon the muscular coats of
@@ -62,12 +62,12 @@ the arteries, and especially of the arterioles, causes a great rise in
 blood-pressure shortly after its absorption, which is very rapid. The
 terminals of the vagus nerve are also stimulated, causing the heart to beat
 more slowly. Later in its action, the drug depresses the intra-cardiac
-motor ganglia, causing prolongation of diastole and finally arrest of the
-heart in dilatation. A large lethal dose kills by this action, but the
+motor ganglia, causing prolongation of diastole and finally [[Arrest|arrest]] of the
+heart in dilatation. A large [[Lethal|lethal]] dose kills by this action, but the
 minimum lethal dose by its combined action on the respiration and the
 heart. The respiration is at first accelerated by a dose of physostigmine,
 but is afterwards slowed and ultimately arrested. The initial hastening is
-due to a stimulation of the vagus terminals in the lung, as it does not
+due to a stimulation of the vagus terminals in the [[Lung|lung]], as it does not
 occur if these nerves are previously divided. The final arrest is due to
 paralysis of the respiratory centre in the medulla oblongata, hastened by a
 quasi-asthmatic contraction of the non-striped muscular tissue in the

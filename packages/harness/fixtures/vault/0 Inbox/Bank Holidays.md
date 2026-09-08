@@ -12,7 +12,7 @@ Act 1871 are kept as close holidays in all banks in England and Ireland and
 Scotland respectively. Before the year 1834, the Bank of England was closed
 on certain saints' days and anniversaries, about thirty-three days in all.
 In 1834 these were reduced to four--Good Friday, 1st of May, 1st of
-November and Christmas Day. By the act of 1871, carried through the House
+November and [[Christmas]] Day. By the act of 1871, carried through the House
 of Commons by Sir J. Lubbock (afterwards Lord Avebury), the following were
 constituted bank holidays in England and Ireland--Easter Monday, the Monday
 in Whitsun week, the first Monday of August, the 26th of December if a

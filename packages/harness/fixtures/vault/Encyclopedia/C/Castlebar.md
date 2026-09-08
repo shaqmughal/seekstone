@@ -17,12 +17,12 @@ the town, was a fortress of the De Burgh family; but the town itself was
 founded in the reign of James I., and received a charter from him in
 1613. In 1641 the castle was held for the parliament by Sir Henry
 Bingham, but he was forced to surrender to Lord Mayo, and fell a victim,
-with all his garrison, to the fury and treachery of the besiegers. The
-massacre was afterwards avenged in 1653 by the execution of Sir Theobald
+with all his [[Garrison|garrison]], to the fury and treachery of the besiegers. The
+[[Massacre|massacre]] was afterwards avenged in 1653 by the execution of Sir Theobald
 Burke (by that time Lord Mayo), who had been in command along with his
 father at the siege. In 1798 the town was occupied for some weeks by
-the French under General J.J. Humbert, who had defeated the English
-under Luke Hutchison in a conflict which is jocularly styled the
+the French under General J.J. [[Humbert]], who had defeated the English
+under [[Luke]] Hutchison in a conflict which is jocularly styled the
 "Castlebar Races." The town returned two members to the Irish parliament
 until the Union. Four miles N.E. of Castlebar is Turlough, with a round
 tower 70 ft. high and 57 ft. in circumference, and other remains.

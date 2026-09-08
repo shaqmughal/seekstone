@@ -1,7 +1,7 @@
 # Lip
 
 LIP (a word common in various forms, to Teutonic languages, cf Ger.
-_Lippe_, Dan. _laebe_; Lat. _labium_ is cognate), one of the two fleshy
+_[[Lippe]]_, Dan. _laebe_; Lat. _labium_ is cognate), one of the two fleshy
 protuberant edges of the mouth in man and other animals, hence
 transferred to such objects as resemble a lip, the edge of a circular or
 other opening, as of a shell, or of a wound, or of any fissure in

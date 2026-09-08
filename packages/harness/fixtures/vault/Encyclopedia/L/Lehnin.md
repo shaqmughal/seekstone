@@ -8,7 +8,7 @@ topic: physics-theory
 
 LEHNIN, a village and health resort of Germany, in the Prussian province
 of Brandenburg, situated between two lakes, which are connected by the
-navigable Emster with the Havel, 12 m. S.W. from Potsdam, and with a
+navigable Emster with the [[Havel]], 12 m. S.W. from Potsdam, and with a
 station on the main line Berlin-Magdeburg, and a branch line to
 Grosskreuz. Pop. (1900) 2379. It contains the ruins of a Cistercian
 monastery called Himmelpfort am See, founded in 1180 and dissolved in
@@ -22,7 +22,7 @@ Boat-building and saw-milling are the chief industries.
 
 The LEHNIN PROPHECY (_Lehninsche Weissagung, Vaticinium Lehninense_), a
 poem in 100 Leonine verses, reputed to be from the pen of a monk,
-Hermann of Lehnin, who lived about the year 1300, made its appearance
+[[Hermann]] of Lehnin, who lived about the year 1300, made its appearance
 about 1690 and caused much controversy. This so-called prophecy bewails
 the extinction of the Ascanian rulers of Brandenburg and the rise of the
 Hohenzollern dynasty to power; each successive ruler of the latter house
@@ -45,9 +45,9 @@ III., the representative of the eleventh generation of the family.
 
   The "Vaticinium" was first published in Lilienthal's _Gelehrtes
   Preussen_ (Königsberg, 1723), and has been many times reprinted. See
-  Boost, _Die Weissagungen des Mönchs Hermann zu Lehnin_ (Augsburg,
-  1848); Hilgenfeld, _Die Lehninische Weissagung_ (Leipzig, 1875);
-  Sabell, _Literatur der sogenannten Lehninschen Weissagung_ (Heilbronn,
+  Boost, _Die Weissagungen des Mönchs Hermann zu Lehnin_ ([[Augsburg]],
+  1848); [[Hilgenfeld]], _Die Lehninische Weissagung_ (Leipzig, 1875);
+  Sabell, _Literatur der sogenannten Lehninschen Weissagung_ ([[Heilbronn]],
   1879) and Kampers, _Die Lehninsche Weissagung über das Haus
   Hohenzollern_ (Münster, 1897).
 

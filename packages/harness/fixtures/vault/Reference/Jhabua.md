@@ -10,7 +10,7 @@ JHABUA, a native state of Central India, in the Bhopawar agency. Area,
 with the dependency of Rutanmal, 1336 sq. m. Pop. (1901), 80,889. More
 than half the inhabitants belong to the aboriginal Bhils. Estimated
 revenue, £7000; tribute, £1000. Manganese and opium are exported. The
-chief, whose title is raja, is a Rajput of the Rathor clan, descended
+chief, whose title is raja, is a Rajput of the Rathor [[Clan|clan]], descended
 from a branch of the Jodhpur family. Raja Udai Singh was invested in
 1898 with the powers of administration.
 

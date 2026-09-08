@@ -31,7 +31,7 @@ as had allowed Reformed, Lutherans and Anabaptists to unite. Leiden had
 been happy, too, in its first professors. There taught in theology
 Guillaume Feuguieres or Feuguereius (d. 1613), a mild divine, who had
 written a treatise on persuasion in religion, urging that as to it "men
-could be led, not driven"; Lambert Danaeus, who deserves remembrance as
+could be led, not driven"; [[Lambert]] Danaeus, who deserves remembrance as
 the first to discuss Christian ethics scientifically, apart from
 dogmatics; Johannes Drusius, the Orientalist, one of the most
 enlightened and advanced scholars of his day, settled later at Franeker;
@@ -42,7 +42,7 @@ his best to start his students on the search after truth, unimpeded by
 the authority of Aristotle. Under these men and influences, Arminius
 studied with signal success; and the promise he gave induced the
 merchants' gild of Amsterdam to bear the further expenses of his
-education. In 1582 he went to Geneva, studied there awhile under
+education. In 1582 he went to [[Geneva]], studied there awhile under
 Theodore Beza, but had soon, owing to his active advocacy of the Ramist
 philosophy, to remove to Basel. After a short but brilliant career there
 he turned to Geneva, studied for three years, travelled, in 1586, in
@@ -146,7 +146,7 @@ who entertained no esteem for him are such as never knew him well enough
 to appreciate his merits."
 
   The works of Arminius (in Latin) were published in a single quarto
-  volume at Leiden in 1629, at Frankfort in 1631 and 1635. Two volumes
+  volume at Leiden in 1629, at [[Frankfort]] in 1631 and 1635. Two volumes
   of an English translation, with copious notes, by James Nichols, were
   published at London, 1825-1828; three volumes (complete) at Buffalo,
   1853. A life was written by Caspar Brandt, son of Gerard Brandt, the

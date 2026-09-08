@@ -8,10 +8,10 @@ type: article
 # Eland
 
 ELAND (= elk), the Dutch name for the largest of the South African
-antelopes (_Taurotragus oryx_), a species near akin to the kudu, but
-with horns present in both sexes, and their spiral much closer, being in
+antelopes (_Taurotragus oryx_), a species near akin to the [[Kudu|kudu]], but
+with [[Horn|horns]] present in both sexes, and their spiral much closer, being in
 fact screw-like instead of corkscrew-like. There is also a large dewlap,
-while old bulls have a thick forelock. In the typical southern form the
+while old [[Bull|bulls]] have a thick forelock. In the typical southern form the
 body-colour is wholly pale fawn, but north of the Orange river the body
 is marked by narrow vertical white lines, this race being known as _T.
 oryx livingstonei_. In Senegambia the genus is represented by _T.
@@ -33,7 +33,7 @@ elastic as regards shape. For example: gas contained in a vessel, which
 is closed by a piston, can be compressed by additional pressure applied
 to the piston; but, when the additional pressure is removed, the gas
 expands and drives the piston outwards. For a second example: a steel
-bar hanging vertically, and loaded with one ton for each square inch of
+bar [[Hanging|hanging]] vertically, and loaded with one ton for each square [[Inch|inch]] of
 its sectional area, will have its length increased by about seven
 one-hundred-thousandths of itself, and its sectional area diminished by
 about half as much; and it will spring back to its original length and
@@ -42,7 +42,7 @@ and shape in bodies subjected to forces, and the recovery of the
 original size and shape when the forces cease to act, become conspicuous
 when the bodies have the forms of thin wires or planks; and these
 properties of bodies in such forms are utilized in the construction of
-spring balances, carriage springs, buffers and so on.
+spring [[Balance|balances]], carriage springs, buffers and so on.
 
 It is a familiar fact that the hair-spring of a watch can be coiled and
 uncoiled millions of times a year for several years without losing its
@@ -146,7 +146,7 @@ across geometrical surfaces drawn in the body. The body, and each part
 of the body, moves under the action of all the forces (body forces and
 surface tractions) which are exerted upon it; or remains at rest if
 these forces are in equilibrium. This result is expressed analytically
-by means of certain equations--the "equations of motion" or "equations
+by means of certain equations--the "[[Equation|equations]] of motion" or "equations
 of equilibrium" of the body.
 
   Let [rho] denote the density of the body at any point, X, Y, Z, the
@@ -299,7 +299,7 @@ the extension at every point in every direction is known.
   in the directions of the co-ordinate axes and the angles between
   filaments of the body which are initially parallel to these axes. Let
   e_(xx), e_(yy), e_(zz) denote the extensions parallel to the axes of
-  x, y, z, and let e_(yz), e_(zx), e_(xy) denote the cosines of the
+  x, y, z, and let e_(yz), e_(zx), e_(xy) denote the [[Cosin|cosines]] of the
   angles between the pairs of filaments which are initially parallel to
   the axes of y and z, z and x, x and y. Also let e denote the extension
   in the direction of a line the direction cosines of which are l, m, n.
@@ -468,7 +468,7 @@ by which they are reached must be modified or abandoned.
   possible displacement of an ideal perfectly rigid body.
 
 17. The relations which connect the strains with each other and with the
-displacement are geometrical relations resulting from the definitions of
+displacement are geometrical relations resulting from the [[Definition|definitions]] of
 the quantities and not requiring any experimental verification. They do
 not admit of such verification, because the strain within a body cannot
 be measured. The quantities (belonging to the same category) which can
@@ -515,7 +515,7 @@ supported at the ends and bent by an attached load and the deflexion is
 measured, or when a bar is twisted by an axial couple and the relative
 angular displacement of two sections is measured. We have thus very
 numerous experimental verifications of the famous law first enunciated
-by Robert Hooke in 1678 in the words "_Ut Tensio sic vis_"; that is,
+by Robert [[Hooke]] in 1678 in the words "_Ut Tensio sic vis_"; that is,
 "the Power of any spring is in the same proportion as the Tension
 (--stretching) thereof." The most general statement of Hooke's Law in
 modern language would be:--_Each of the six components of stress at any
@@ -777,7 +777,7 @@ elasticity.
 33. A body which has been strained beyond the limit of linear elasticity
 is often said to have suffered an "over-strain." When the load is
 removed, the _set_ which can be observed is not entirely permanent; but
-it gradually diminishes with lapse of time. This phenomenon is named
+it gradually diminishes with [[Lapse|lapse]] of time. This phenomenon is named
 "elastic after-working." If, on the other hand, the load is maintained
 constant, the strain is gradually increased. This effect indicates a
 gradual flowing of solid bodies under great stress; and a similar effect
@@ -818,7 +818,7 @@ of these hypotheses appear to have been disproved. It was held by G.F.
 Fitzgerald (_Nature_, Nov. 5, 1896) that rupture is not produced by
 pressure symmetrically applied all round a body, and this opinion has
 been confirmed by the recent experiments of A. Föppl. This result
-disposes of the greatest stress hypothesis and also of the greatest
+disposes of the greatest stress [[Hypothesis|hypothesis]] and also of the greatest
 strain hypothesis. The fact that short pillars can be crushed by
 longitudinal pressure disposes of the greatest tension hypothesis, for
 there is no tension in the pillar. The greatest extension hypothesis
@@ -931,7 +931,7 @@ experimental means (as in § 18) cannot be dispensed with.
 
   40. It is evident that whichever method is adopted the mathematical
   problem is in general very complicated. It is also evident that, if we
-  attempt to proceed by help of some intuition as to the nature of the
+  attempt to proceed by help of some [[Intuition|intuition]] as to the nature of the
   stress or strain, our intuition ought to satisfy the tests provided by
   the above systems of equations. Neglect of this precaution has led to
   many errors. Another source of frequent error lies in the neglect of
@@ -1035,7 +1035,7 @@ determined by experiment with a bar of that form of section.
 graphically by drawing the contour lines (w = const.). In general the
 section is divided into a number of compartments, and the portions that
 lie within two adjacent compartments are respectively concave and
-convex. This result is illustrated in the accompanying figures (fig. 4
+[[Convex|convex]]. This result is illustrated in the accompanying figures (fig. 4
 for the ellipse, given by x²/b² + y²/c² = 1; fig. 5 for the equilateral
 triangle, given by (x + (1/3)a) [x² - 3y² - (4/3)ax + (4/9)a²] = 0; fig.
 6 for the square).
@@ -1086,12 +1086,12 @@ corresponding section bears to that of a bar of circular section of the
 same material and of equal sectional area. These results have an
 important practical application, inasmuch as they show that
 strengthening ribs and projections, such as are introduced in
-engineering to give stiffness to beams, have the reverse of a good
+[[Engineering|engineering]] to give stiffness to beams, have the reverse of a good
 effect when torsional stiffness is an object, although they are of great
 value in increasing the resistance to bending. The theory shows further
 that the resistance to torsion is very seriously diminished when there
 is in the surface any dent approaching to a re-entrant angle. At such a
-place the shearing strain tends to become infinite, and some permanent
+place the shearing strain tends to become [[Infinite|infinite]], and some permanent
 set is produced by torsion. In the case of a section of any form, the
 strain and stress are greatest at points on the contour, and these
 points are in many cases the points of the contour which are nearest to
@@ -1304,7 +1304,7 @@ that employed in the solution of the torsion problem.
 
   The greatest value of U is in this case approximately twice its
   average value, but it is possible that these results for the bending
-  of very thin tubes may be seriously at fault if the tube is not
+  of very thin tubes may be seriously at [[Fault|fault]] if the tube is not
   plugged, and if the load is not applied in the manner contemplated in
   the theory (cf. § 55). In such cases the extensions and contractions
   of the longitudinal filaments may be practically confined to a small
@@ -1326,7 +1326,7 @@ principal stresses at any point when the values of P, U, T are known.
 
   From the point O (fig. 14) draw lines OP, OU, OT, to represent the
   stresses P, U, T at O, on the cross-section through O, in magnitude,
-  direction and sense, and compound U and T into a resultant represented
+  direction and sense, and [[Compound|compound]] U and T into a resultant represented
   by OE; the plane EOP is a principal plane of stress at O, and the
   principal stress at right angles to this plane vanishes. Take M the
   middle point of OP, and with centre M and radius ME describe a circle
@@ -1618,7 +1618,7 @@ line of action of the applied forces.
   where K is the real quarter period of elliptic functions of modulus
   sin ½[alpha], and [alpha] is the angle at which the curve cuts the
   line of action of the applied forces. Unless the length of the rod
-  exceeds [pi][root](EI/W) it will not bend under the force, but when
+  exceeds [pi][root](EI/W) it will not [[Bend|bend]] under the force, but when
   the length is great enough there may be more than two points of
   inflection and more than one bay of the curve; for n bays (n + 1
   inflections) the length must exceed n[pi][root](EI/W). Some of the
@@ -1643,7 +1643,7 @@ loaded at its upper end, it is simply contracted, unless L'²W >
 ¼[pi]²EI, for the lower end corresponds to a point at which the tangent
 is vertical on an elastica for which the line of inflections is also
 vertical, and thus the length must be half of one bay (fig. 25, a). For
-greater lengths or loads the strut tends to bend or buckle under the
+greater lengths or loads the strut tends to bend or [[Buckle|buckle]] under the
 load. For a very slight excess of L'²W above ¼[pi]²EI, the theory on
 which the above discussion is founded, is not quite adequate, as it
 assumes the central-line of the strut to be free from extension or
@@ -1828,7 +1828,7 @@ couples are equivalent to a wrench about the axis of the helix.
 made to rotate by loading the spring, and the angle through which it
 turns might be used to measure the load, at any rate, when the load is
 not too great; but a much more sensitive contrivance is the twisted
-strip devised by W.E. Ayrton and J. Perry. A very thin, narrow
+strip devised by W.E. [[Ayrton]] and J. Perry. A very thin, narrow
 rectangular strip of metal is given a permanent twist about its
 longitudinal middle line, and a pointer is attached to it at right
 angles to this line. When the strip is subjected to longitudinal tension
@@ -2718,7 +2718,7 @@ the strain which would be produced by the same force when the body is
 held in equilibrium under its action; the second is that the sudden
 reversal of the force may produce a strain three times as great as the
 statical strain. These results point to the importance of specially
-strengthening the parts of any machine (e.g. screw propeller shafts)
+strengthening the parts of any [[Machine|machine]] (e.g. screw propeller shafts)
 which are subject to sudden applications or reversals of load. The
 theoretical limits of twice, or three times, the statical strain are not
 in general attained. For example, if a thin bar hanging vertically from
@@ -2863,7 +2863,7 @@ diminished pull lowering of temperature.
 "(5) An india-rubber band suddenly drawn out (within its limits of
 elasticity) becomes warmer; and when allowed to contract, it becomes
 colder. Any one may easily verify this curious property by placing an
-india-rubber band in slight contact with the edges of the lips, then
+india-rubber band in slight contact with the edges of the [[Lip|lips]], then
 suddenly extending it--it becomes very perceptibly warmer: hold it for
 some time stretched nearly to breaking, and then suddenly allow it to
 shrink--it becomes quite startlingly colder, the cooling effect being
@@ -2901,7 +2901,7 @@ A sheet of metal rolled into a cylinder, and soldered to maintain the
 tubular shape, must be in a state of considerable initial stress quite
 apart from the action of gravity. Initial stress is utilized in many
 manufacturing processes, as, for example, in the construction of
-ordnance, referred to in § 79, in the winding of golf balls by means of
+ordnance, referred to in § 79, in the winding of [[Golf|golf]] balls by means of
 india-rubber in a state of high tension (see the report of the case _The
 Haskell Golf Ball Company_ v. _Hutchinson & Main_ in _The Times_ of
 March 1, 1906). In the case of a body of ordinary dimensions it is such

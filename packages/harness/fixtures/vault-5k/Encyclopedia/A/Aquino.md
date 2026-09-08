@@ -9,7 +9,7 @@ tags: [history, religion]
 
 # Aquino
 
-AQUINO, a town and episcopal see of Campania, Italy, in the province of
+AQUINO, a town and episcopal see of [[Campania]], Italy, in the province of
 Caserta; it is 56 m. N.W. by rail from the town of Caserta, and 7-1/2 m.
 N.W. of Cassino. Pop. (1901) 2672. The modern town, close to the
 ancient, is unimportant, though the canons of the cathedral have the
@@ -19,7 +19,7 @@ of Cicero, and made a colony by the Triumviri, the birthplace of Juvenal
 and of the emperor Pescennius Niger. The Via Latina traversed it; one of
 the gates through which it passed, now called Porta S. Lorenzo, is still
 well preserved, and there are remains within the walls (portions of
-which, built of large blocks of limestone, still remain) of two (so
+which, built of large blocks of [[Limestone|limestone]], still remain) of two (so
 called) temples, a basilica and an amphitheatre (see R. Delbruck in
 _Rom. Mitteilungen_, 1903, p. 143). Outside, on the south is a
 well-preserved triumphal arch with composite capitals, and close to it
@@ -31,7 +31,7 @@ history, is vouched for by Cicero and Strabo.[1] A colony was planted
 here by the Triumviri. St Thomas Aquinas was born in the castle of
 Roccasecca, 5 m. N.
 
-  See E. Grossi, _Aquinum_ (Rome, 1907).     (T. As.)
+  See E. [[Grossi]], _Aquinum_ (Rome, 1907).     (T. As.)
 
 
 FOOTNOTE:

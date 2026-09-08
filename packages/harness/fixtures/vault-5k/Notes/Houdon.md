@@ -20,7 +20,7 @@ Between these dates Houdon had not been idle; busts of Catharine II.,
 Diderot and Prince Galitzin were remarked at the Salon of 1773, and at
 that of 1775 he produced, not only his Morpheus in marble, but busts of
 Turgot, Gluck (in which the marks of small-pox in the face were
-reproduced with striking effect) and Sophie Arnould as Iphigeneia (now
+reproduced with striking effect) and Sophie Arnould as [[Iphigeneia]] (now
 in the Wallace Collection, London), together with his well-known marble
 relief, "Grive suspendue par les pattes." He took also an active part in
 the teaching of the academy, and executed for the instruction of his
@@ -37,11 +37,11 @@ same theatre, was exhibited at the Salon of 1781, to which Houdon also
 sent a statue of Marshal de Tourville, commissioned by the king, and the
 Diana executed for Catharine II. This work was refused; the jury alleged
 that a statue of Diana demanded drapery; without drapery, they said, the
-goddess became a "suivante de Venus," and not even the proud and frank
+goddess became a "suivante de Venus," and not even the proud and [[Frank|frank]]
 chastity of the attitude and expression could save the Diana of Houdon
 (a bronze reproduction of which is in the Louvre) from insult. Three
 years later he went to America, there to carry out a statue of
-Washington. With Franklin, whose bust he had recently executed, Houdon
+Washington. With [[Franklin]], whose bust he had recently executed, Houdon
 left France in 1785, and, staying some time with Washington at Mount
 Vernon, he modelled the bust, with which he decided to go back to Paris,
 there to complete the statue destined for the capitol of the State of
@@ -65,8 +65,8 @@ at Paris on the 16th of July 1828.
   See memoir by Emile Delerot and Arsene Legrelle in _Memoires de la
   societe des sciences morales ... de Seine-et-Oise_, iv. 49 et seq.
   (1857); Anatole de Montaiglon and Georges Duplessis in _Revue
-  universelle des arts_, i. and ii. (1855-1856); Hermann Dierks,
-  _Houdons Leben und Werke_ (Gotha, 1887); Albert Terrade, _Autour de la
+  universelle des arts_, i. and ii. (1855-1856); [[Hermann]] Dierks,
+  _Houdons Leben und Werke_ ([[Gotha]], 1887); Albert Terrade, _Autour de la
   statue de Jean Houdon_ (Versailles, 1892); P. E. Mangeant, _Sur une
   statuette de Voltaire par J. Houdon_ (Paris, 1896).
 

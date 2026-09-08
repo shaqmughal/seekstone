@@ -1,17 +1,17 @@
 # Capistrano
 
-CAPISTRANO, GIOVANNI DI (1386-1456), Italian friar, theologian and
+CAPISTRANO, GIOVANNI DI (1386-1456), Italian [[Friar|friar]], theologian and
 inquisitor, was born in the little village of Capistrano in the Abruzzi,
 of a family which had come to Italy with the Angevins. He lived at first
-a wholly secular life, married, and became a successful magistrate; he
+a wholly secular life, married, and became a successful [[Magistrate|magistrate]]; he
 took part in the continual struggles of the small Italian states in such
-a way as to compromise himself. During his captivity he was practically
+a way as to [[Compromise|compromise]] himself. During his captivity he was practically
 ruined and lost his young wife. He then in despair entered the
 Franciscan order and at once gave himself up to the most rigorous
 asceticism, violently defending the ideal of strict observance. He was
-charged with various missions by the popes Eugenius IV. and Nicholas V.,
+charged with various missions by the popes [[Eugenius]] IV. and Nicholas V.,
 in which he acquitted himself with implacable violence. As legate or
-inquisitor he persecuted the last Fraticelli of Ferrara, the Jesuati of
+inquisitor he persecuted the last Fraticelli of Ferrara, the [[Jesuati]] of
 Venice, the Jews of Sicily, Moldavia and Poland, and, above all, the
 Hussites of Germany, Hungary and Bohemia; his aim in the last case was
 to make conferences impossible between the representatives of Rome and
@@ -27,7 +27,7 @@ Franciscans, and to uphold both in his writings and his speeches the
 most advanced theories upon the papal supremacy as opposed to that of
 the councils.
 
-  See E. Jacob, _Johannes von Capistrano_, vol. i.: "Das Leben und
+  See E. [[Jacob]], _Johannes von Capistrano_, vol. i.: "Das Leben und
   Wirken Capistrans;" vol. ii.: "Die handschriftlichen Aufzeichnungen
   von Reden und Tractaten Capistrans," (1st series, Breslau, 1903-1905).
        (P. A.)

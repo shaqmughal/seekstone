@@ -28,7 +28,7 @@ his son Cadell about the year 876 on the steep wooded slopes overhanging
 the Towy. From Prince Cadell's days to the death of the Lord Rhys, last
 reigning prince of South Wales, in 1196, Dinefawr continued to be the
 recognized abode of South Welsh royalty. The castle ruins remain in the
-possession of the Rices, Lords Dynevor, heirs and descendants of Prince
+possession of the Rices, Lords Dynevor, [[Heir|heirs]] and descendants of Prince
 Cadell. At one period residence and park became known as New-town, a
 name now obsolete. Some personal relics of the celebrated Sir Rhys ap
 Thomas, K.G. (1451-1527), are preserved in the modern house. Dinefawr

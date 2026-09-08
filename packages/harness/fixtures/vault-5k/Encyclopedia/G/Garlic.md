@@ -17,8 +17,8 @@ only part eaten, has membranous scales, in the axils of which are 10 or
 12 cloves, or smaller bulbs. From these new bulbs can be procured by
 planting out in February or March. The bulbs are best preserved hung in
 a dry place. If of fair size, twenty of them weigh about 1 lb. To
-prevent the plant from running to leaf, Pliny (_Nat. Hist._ xix. 34)
-advises to bend the stalk downward and cover with earth; seeding, he
+prevent the plant from running to [[Leaf|leaf]], Pliny (_Nat. Hist._ xix. 34)
+advises to [[Bend|bend]] the stalk downward and cover with earth; seeding, he
 observes, may be prevented by twisting the stalk.
 
 Garlic is cultivated in the same manner as the shallot (q.v.). It is
@@ -29,7 +29,7 @@ and inorganic matter 1.53--that of the leaves being water 87.14, organic
 matter 11.27 and inorganic matter 1.59. The bulb has a strong and
 characteristic odour and an acrid taste, and yields an offensively
 smelling oil, essence of garlic, identical with allyl sulphide (C3H5)2S
-(see Hofmann and Cahours, _Journ. Chem. Soc._ x. p. 320). This, when
+(see [[Hofmann]] and Cahours, _Journ. Chem. Soc._ x. p. 320). This, when
 garlic has been eaten, is evolved by the excretory organs, the activity
 of which it promotes. From the earliest times garlic has been used as an
 article of diet. It formed part of the food of the Israelites in Egypt
@@ -43,9 +43,9 @@ eulogizes it as the rustic's _theriac_ (see F. Adams's _Paulus
 Aegineta_, p. 99), and Alexander Neckam, a writer of the 12th century
 (see Wright's edition of his works, p. 473, 1863), recommends it as a
 palliative of the heat of the sun in field labour. "The people in places
-where the simoon is frequent," says Mountstuart Elphinstone (_An Account
+where the simoon is frequent," says Mountstuart [[Elphinstone]] (_An Account
 of the Kingdom of Caubul_, p. 140, 1815), "eat garlic, and rub their
-lips and noses with it, when they go out in the heat of the summer, to
+[[Lip|lips]] and noses with it, when they go out in the heat of the summer, to
 prevent their suffering by the simoon." "O dura messorum ilia," exclaims
 Horace (_Epod_. iii.), as he records his detestation of the popular
 esculent, to smell of which was accounted a sign of vulgarity (cf.
@@ -53,7 +53,7 @@ Shakespeare, _Coriol_. iv. 6, and _Meas. for Meas._ iii. 2). In England
 garlic is seldom used except as a seasoning, but in the southern
 countries of Europe it is a common ingredient in dishes, and is largely
 consumed by the agricultural population. Garlic was placed by the
-ancient Greeks on the piles of stones at cross-roads, as a supper for
+ancient Greeks on the piles of stones at [[Cross-Roads|cross-roads]], as a supper for
 Hecate (Theophrastus, _Characters_, [Greek: Deisidaimonias]); and
 according to Pliny garlic and onions were invocated as deities by the
 Egyptians at the taking of oaths. The inhabitants of Pelusium in lower
@@ -62,7 +62,7 @@ garlic in aversion as food. Garlic possesses stimulant and stomachic
 properties, and was of old, as still sometimes now, employed as a
 medicinal remedy. Pliny (_N.H._ xx. 23) gives an exceedingly long list
 of complaints in which it was considered beneficial. Dr T. Sydenham
-valued it as an application in confluent smallpox, and, says Cullen
+valued it as an application in confluent smallpox, and, says [[Cullen]]
 (_Mat. Med._ ii. p. 174, 1789), found some dropsies cured by it alone.
 In the United States the bulb is given in doses of 1/2-2 drachms in
 cases of bronchiectasis and phthisis pulmonalis. Garlic may also be

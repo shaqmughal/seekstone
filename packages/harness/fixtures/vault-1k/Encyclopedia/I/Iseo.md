@@ -10,7 +10,7 @@ tags: [reference, biology]
 
 ISEO, LAKE OF (the _Lacus Sebinus_ of the Romans), a lake in Lombardy,
 N. Italy, situated at the southern foot of the Alps, and between the
-provinces of Bergamo and Brescia. It is formed by the Oglio river, which
+provinces of [[Bergamo]] and Brescia. It is formed by the Oglio river, which
 enters the northern extremity of the lake of Lovere, and issues from the
 southern end at Sarnico, on its way to join the Po. The area of the lake
 is about 24 sq. m., it is 17(1/2) m. in length, and 3 m. wide in the

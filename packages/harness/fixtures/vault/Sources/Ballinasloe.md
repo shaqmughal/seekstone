@@ -20,7 +20,7 @@ hat-making and carriage-building. Trade is assisted by water-communication
 through the Grand canal to the Shannon. The town is widely celebrated for
 its great annual cattle-fair held in October, at which vast numbers of
 cattle and sheep are offered or sale. Adjoining the town is Garbally
-Castle, the seat of the earl of Clancarty, into the demesne of which the
+Castle, the seat of the earl of Clancarty, into the [[Demesne|demesne]] of which the
 great fair extends from the town.
 
 ## References

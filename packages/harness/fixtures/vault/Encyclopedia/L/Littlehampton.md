@@ -7,10 +7,10 @@ type: source
 
 # Littlehampton
 
-LITTLEHAMPTON, a seaport and watering-place in the Chichester
+LITTLEHAMPTON, a seaport and watering-place in the [[Chichester]]
 parliamentary division of Sussex, England, at the mouth of the Arun, 62
 m. S. by W. from London by the London, Brighton & South Coast railway.
-Pop. of urban district (1901) 7363. There is a beach of firm sand. The
+Pop. of urban district (1901) 7363. There is a [[Beach|beach]] of firm sand. The
 harbour is easily accessible in all weathers, and has a small general
 trade.
 

@@ -9,14 +9,14 @@ id: 42-1664
 # Hirtius
 
 HIRTIUS, AULUS (c. 90-43 B.C.), Roman historian and statesman. He was
-with Julius Caesar as legate in Gaul, but after the civil war broke out
+with Julius Caesar as legate in [[Gaul]], but after the civil war broke out
 in 49 he seems to have remained in Rome to protect Caesar's interests.
 He was also a personal friend of Cicero. He was nominated with C. Vibius
 Pansa by Caesar for the consulship of 43; and after the dictator's
 assassination in March 44, he and his colleague supported the senatorial
 party against M. Antonius, with whom Hirtius had at first sided. The
 consuls set out for Mutina, where Antonius was besieging Decimus Brutus.
-On the 15th of April, Pansa was attacked by Antonius at Forum Gallorum,
+On the 15th of April, Pansa was attacked by Antonius at [[Forum]] Gallorum,
 about 8 m. from Mutina, and lost his life in the engagement. Hirtius,
 however, compelled Antonius to retire on Mutina, where another battle
 took place on the 25th (or 27th) of April, in which Hirtius was slain.
@@ -49,7 +49,7 @@ quoted in the _Kitab ul-Aghani_.
 
   Large extracts from another of his works, the _Kitab ul-Asnam_, are
   contained in the _Khizanat ul-Adab_ (iii. 242-246) and in the
-  geography of Yaqut (q.v.). These latter have been translated with
+  [[Geography|geography]] of Yaqut (q.v.). These latter have been translated with
   comments by J. Wellhausen in his _Reste des arabischen Heidentums_
   (2nd ed., Berlin, 1897).     (G. W. T.)
 

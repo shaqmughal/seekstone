@@ -16,7 +16,7 @@ B.C.--Nippur had become the centre of a political district of
 considerable extent, and it is to this early period that the designation
 of En-lil as Bel or "the lord" reverts. Inscriptions found at Nippur,
 where extensive excavations were carried on during 1888-1900 by Messrs
-Peters and Haynes, under the auspices of the University of Pennsylvania,
+Peters and [[Hayne|Haynes]], under the auspices of the University of Pennsylvania,
 show that Bel of Nippur was in fact regarded as the head of an extensive
 pantheon. Among the titles accorded to him are "king of lands," "king of
 heaven and earth" and "father of the gods." His chief temple at Nippur
@@ -34,11 +34,11 @@ god on the top. The tower, however, also had its special designation of
 "Im-Khar-sag," the elements of which, signifying "storm" and "mountain,"
 confirm the conclusion drawn from other evidence that En-lil was
 originally a storm-god having his seat on the top of a mountain. Since
-the Euphrates valley has no mountains, En-lil would appear to be a god
+the [[Euphrates]] valley has no mountains, En-lil would appear to be a god
 whose worship was carried into Babylonia by a wave of migration from a
 mountainous country--in all probability from Elam to the east.
 
-When, with the political rise of Babylon as the centre of a great
+When, with the political rise of [[Babylon]] as the centre of a great
 empire, Nippur yielded its prerogatives to the city over which Marduk
 presided, the attributes and the titles of En-lil were transferred to
 Marduk, who becomes the "lord" or Bel of later days. The older Bel did
@@ -52,12 +52,12 @@ this doctrine of the triad gave to Bel a rank independent of political
 changes, and we, accordingly, find Bel as a factor in the religion of
 Babylonia and Assyria to the latest days. It was no doubt owing to his
 position as the second figure of the triad that enabled him to survive
-the political eclipse of Nippur and made his sanctuary a place of
+the political [[Eclipse|eclipse]] of Nippur and made his sanctuary a place of
 pilgrimage to which Assyrian kings down to the days of Assur-baui-pal
-paid their homage equally with Babylonian rulers.
+paid their [[Homage|homage]] equally with Babylonian rulers.
 
   See also BELIT and BAAL. For the apocryphal book of the Bible, _Bel
-  and the Dragon_, see DANIEL: _Additions to Daniel_.     (M. Ja.)
+  and the Dragon_, see [[Daniel|DANIEL]]: _Additions to Daniel_.     (M. Ja.)
 
 ## References
 

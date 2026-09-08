@@ -19,7 +19,7 @@ of personal inspection and study of antiquities and coins. At Florence
 he was employed to arrange the collection of the grand duke of Tuscany;
 and the first-fruits of his study of this and other collections appeared
 in his _Numi veteres anecdoti_, published in 1775. On the dissolution of
-the order of Jesuits in 1773, Eckhel was appointed by the empress Maria
+the order of [[Jesuits]] in 1773, Eckhel was appointed by the empress Maria
 Theresa professor of antiquities and numismatics at the university of
 Vienna, and this post he held for twenty-four years. He was in the
 following year made keeper of the imperial cabinet of coins, and in 1779
@@ -27,7 +27,7 @@ appeared his _Catalogus Vindobonensis numorum veterum_. Eckhel's great
 work is the _Doctrina numorum veterum_, in 8 vols., the first of which
 was published in 1792, and the last in 1798. The author's rich learning,
 comprehensive grasp of his subject, admirable order and precision of
-statement in this masterpiece drew from Heyne enthusiastic praise, and
+statement in this masterpiece drew from [[Heyne]] enthusiastic praise, and
 the acknowledgment that Eckhel, as the Coryphaeus of numismatists, had,
 out of the mass of previously loose and confused facts, constituted a
 true science. A volume of _Addenda_, prepared by Steinbuchel from
@@ -35,7 +35,7 @@ Eckhel's papers after his death, was published in 1826. Among his other
 works are--_Choix de pierres gravees du Cabinet Imperial des Antiques_
 (1788), a useful school-book on coins entitled _Kurzgefasste
 Anfangsgrunde zur alten Numismatik_ (1787), of which a French version
-enlarged by Jacob appeared in 1825, &c. Eckhel died at Vienna on the
+enlarged by [[Jacob]] appeared in 1825, &c. Eckhel died at Vienna on the
 16th of May 1798.
 
 ## See also

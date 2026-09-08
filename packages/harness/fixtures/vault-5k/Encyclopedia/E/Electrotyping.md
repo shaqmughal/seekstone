@@ -15,7 +15,7 @@ an object, the conditions alluded to in the article on COPPER as being
 favourable to the use of high current densities should be studied,
 bearing in mind that a tough copper deposit of high quality is
 essential. Moulds for reproducing plates or art-work are often taken in
-plaster, beeswax mixed with Venice turpentine, fusible metal, or
+plaster, beeswax mixed with Venice turpentine, [[Fusible Metal|fusible metal]], or
 gutta-percha, and the surface being rendered conductive by powdered
 black-lead, copper is deposited upon it evenly throughout. For statuary,
 and "undercut" work generally, an elastic mould--of glue and treacle

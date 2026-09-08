@@ -20,12 +20,12 @@ kinds may also be chemically distinct.
 
 [Illustration: FIG. 2.]
 
-Leadhillite is a mineral of secondary origin, occurring with cerussite,
-anglesite, &c., in the oxidized portions of lead-bearing lodes; it has
+Leadhillite is a mineral of secondary origin, occurring with [[Cerussite|cerussite]],
+[[Anglesite|anglesite]], &c., in the oxidized portions of lead-bearing lodes; it has
 also been found in weathered lead slags left by the Romans. It has been
-found most abundantly in the Susanna mine at Leadhills in Scotland
+found most abundantly in the Susanna mine at [[Leadhills]] in Scotland
 (hence the names leadhillite and susannite). Good crystals have also
-been found at Red Gill in Cumberland and at Granby in Missouri. Crystals
+been found at Red [[Gill]] in [[Cumberland]] and at [[Granby]] in Missouri. Crystals
 from Sardinia have been called maxite.     (L. J. S.)
 
 ## See also

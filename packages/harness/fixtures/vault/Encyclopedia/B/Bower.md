@@ -1,11 +1,11 @@
 # Bower
 
 BOWER, WALTER (1385-1449), Scottish chronicler, was born about 1385 at
-Haddington. He was abbot of Inchcolm (in the Firth of Forth) from 1418,
+[[Haddington]]. He was abbot of Inchcolm (in the Firth of Forth) from 1418,
 was one of the commissioners for the collection of the ransom of James
-I., king of Scots, in 1423 and 1424, and in 1433 one of the embassy to
+I., king of Scots, in 1423 and 1424, and in 1433 one of the [[Embassy|embassy]] to
 Paris on the business of the marriage of the king's daughter to the
-dauphin. He played an important part at the council of Perth (1432) in
+[[Dauphin|dauphin]]. He played an important part at the council of Perth (1432) in
 the defence of Scottish rights. During his closing years he was engaged
 on his work the _Scotichronicon_, on which his reputation now chiefly
 rests. This work, undertaken in 1440 by desire of a neighbour, Sir David
@@ -34,7 +34,7 @@ Cambridge.
   also W.F. Skene's edition of Fordun in the series of _Historians of
   Scotland_ (1871). Personal references are to be found in the
   _Exchequer Rolls of Scotland_, iii. and iv. The best recent account is
-  that by T.A. Archer in the _Dict, of Nat. Biog._
+  that by T.A. [[Archer]] in the _Dict, of Nat. Biog._
 
 ## See also
 

@@ -35,7 +35,7 @@ essential and primary. (3) _The definition must be per genus et
 differentiam_ (or _differentias_), as we have already seen. These are
 the important rules. Three minor rules are: (4) _The definition must not
 contain the name of the concept to be defined_; if it does, no
-information is given. Such a proposition as "an archdeacon is one who
+information is given. Such a proposition as "an [[Archdeacon|archdeacon]] is one who
 performs archidiaconal functions" is not a definition. Concepts cannot
 be defined by their correlatives. Such a definition is known as a
 _circulus in definiendo_. (5) _Obscure and figurative language must be

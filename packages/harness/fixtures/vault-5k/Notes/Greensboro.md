@@ -1,6 +1,6 @@
 # Greensboro
 
-GREENSBORO, a city and the county-seat of Guilford county, North
+GREENSBORO, a city and the county-seat of [[Guilford]] county, North
 Carolina, U.S.A., about 80 m. N.W. of Raleigh. Pop. (1890) 3317, (1900)
 10,035, of whom 4086 were negroes; (1910 census), 15,895. Greensboro is
 served by several lines of the Southern railway. It is situated in the
@@ -18,12 +18,12 @@ Greensboro in 1905, and in 1907 was established at Lutherville, E. of
 Greensboro. About 6 m. W. of Greensboro is Guilford College
 (co-educational; Friends), founded as "New Garden Boarding School" in
 1837 and rechartered under its present name in 1888. Greensboro has a
-Carnegie library, St Leo hospital and a large auditorium. It is the
+[[Carnegie]] library, St Leo hospital and a large auditorium. It is the
 shipping-point for an agricultural, lumbering and trucking region, among
 whose products Indian corn, tobacco and cotton are especially important;
 is an important insurance centre; has a large wholesale trade; and has
 various manufactures, including cotton goods[1] (especially blue denim),
-tobacco and cigars, lumber, furniture, sash, doors and blinds,
+tobacco and [[Cigar|cigars]], lumber, furniture, sash, doors and blinds,
 machinery, foundry products and terra-cotta. The value of the factory
 products increased from $925,411 in 1900 to $1,828,837 in 1905, or
 97.6%. The municipality owns and operates the water-works. Greensboro

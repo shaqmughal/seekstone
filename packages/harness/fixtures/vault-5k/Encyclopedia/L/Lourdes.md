@@ -36,7 +36,7 @@ for the accommodation of pilgrims.
 Lourdes is a fortified place of the second class; and is the seat of the
 tribunal of first instance of the arrondissement of Argelès. There are
 marble and slate quarries near the town. The pastures of the
-neighbourhood support a breed of Aquitaine cattle, which is most highly
+neighbourhood support a breed of [[Aquitaine]] cattle, which is most highly
 valued in south-western France.
 
 The origin of Lourdes is uncertain. From the 9th century onwards it was
@@ -45,7 +45,7 @@ is intimately connected with its history. In 1360 it passed by the
 treaty of Brétigny from French to English hands, and its governor was
 murdered by Gaston Phoebus viscount of Béarn, for refusing to surrender
 it to the count of Anjou. Nevertheless the fortress did not fall into
-the possession of the French till 1406 after a blockade of eighteen
+the possession of the French till 1406 after a [[Blockade|blockade]] of eighteen
 months. Again during the wars of religion the castle held out
 successfully after the town had been occupied by the troops of the
 Protestant captain Gabriel, count of Montgomery. From the reign of Louis
@@ -92,16 +92,16 @@ regularly laid out and adorned by several fine buildings. The principal
 thoroughfare, the Avenida Aguiar, 2 m. long, goes from the centre of the
 town to Reuben Point. The harbour is well equipped with piers, quays,
 landing sheds and electric cranes, which enable large steamers to
-discharge cargoes direct into the railway trucks. The depth of water at
+discharge [[Cargo|cargoes]] direct into the railway trucks. The depth of water at
 low tide is 18 ft. The streets are lit by electricity and there is an
 electric tramway system 7 m. in extent. At Reuben Point, which marks the
 spot where the English river enters the bay, are the lighthouse,
-barracks and the private residences of the wealthy citizens. At its
+[[Barracks|barracks]] and the private residences of the wealthy citizens. At its
 mouth the English river is about 2 m. across. Lourenço Marques is the
 nearest seaport to the Rand gold mines. The port is 8374 m. from
 Southampton via Cape Town and 7565 m. via the Suez canal. It is served
 by British, Portuguese and German liners, the majority of the goods
-imported being shipped at Southampton, Lisbon or Hamburg. Over 50% of
+imported being shipped at Southampton, [[Lisbon]] or Hamburg. Over 50% of
 the import trade of Johannesburg is with Lourenço Marques. Great Britain
 and British possessions take some 40% of the import trade, Portugal,
 Germany, Norway, Sweden and America coming next in order. Most of the
@@ -119,12 +119,12 @@ In 1905 the value of the trade of the port was £5,682,000; of this total
 the transit trade was worth over £4,500,000 and the imports for local
 consumption £1,042,000. The retail trade, and trade with the natives, is
 almost entirely in the hands of Indians. The chief import for local
-consumption is cheap wine from Portugal, bought by the Kaffirs to the
+consumption is cheap wine from Portugal, bought by the [[Kaffirs]] to the
 extent of over £500,000 yearly. These natives form the bulk of the
 Africans who work in the Rand gold mines.
 
 Lourenço Marques is named after a Portuguese navigator, who with a
-companion (Antonio Calderia) was sent in 1544 by the governor of
+companion ([[Antonio]] Calderia) was sent in 1544 by the governor of
 Mozambique on a voyage of exploration. They explored the lower courses
 of the rivers emptying their waters into Delagoa Bay, notably the
 Espirito Santo. The various forts and trading stations which the
@@ -134,15 +134,15 @@ about 1850, the previous settlement having been entirely destroyed by
 the natives. In 1871 the town was described as a poor place, with narrow
 streets, fairly good flat-roofed houses, grass huts, decayed forts and
 rusty cannon, enclosed by a wall 6 ft. high then recently erected and
-protected by bastions at intervals. The growing importance of the
+protected by [[Bastion|bastions]] at intervals. The growing importance of the
 Transvaal led, however, to greater interest being taken in Portugal in
 the port. A commission was sent by the Portuguese government in 1876 to
-drain the marshy land near the settlement, to plant the blue gum tree,
+drain the marshy land near the settlement, to plant the blue [[Gum|gum]] tree,
 and to build a hospital and a church. It was not, however, until the end
 of the 19th century that any marked development took place in the town,
 and up to 1903 cargo had to be discharged in tugs and lighters.
 
-In 1873-1877 Mr Burgers, president of the Transvaal, endeavoured,
+In 1873-1877 Mr [[Burgers]], president of the Transvaal, endeavoured,
 unsuccessfully, to get a railway built from Pretoria to Delagoa Bay. In
 1878-1879 a survey was taken for a line from Lourenço Marques to the
 Transvaal, and in 1883 the Lisbon cabinet granted to Colonel Edward

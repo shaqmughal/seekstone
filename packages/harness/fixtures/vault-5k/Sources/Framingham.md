@@ -10,8 +10,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Framingham
 FRAMINGHAM, a township of Middlesex county, Massachusetts, U.S.A.,
 having an area of 27 sq. m. of hilly surface, dotted with lakes and
 ponds. Pop. (1890) 9239; (1900) 11,302, of whom 2391 were foreign-born;
-(1910 census) 12,948. It is served by the Boston & Albany, and the New
-York, New Haven & Hartford railways. Included within the township are
+(1910 census) 12,948. It is served by the [[Boston]] & Albany, and the New
+York, New Haven & [[Hartford]] railways. Included within the township are
 three villages, Framingham Center, Saxonville and South Framingham, the
 last being much the most important. Framingham Academy was established
 in 1792, and in 1851 became a part of the public school system. A state

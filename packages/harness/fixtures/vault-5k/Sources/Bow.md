@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bow"
 BOW (pronounced "bo"), a common Teutonic word for anything bent[1] (O.
 Eng. _boezha_; cf. O. Sax. and O.H.G. _bogo_, M.H.G. _boge_, Mod. Ger.
 _bogen_; from O. Teut. stem _bug_- of _beugan_, Mod. Ger. _biegen_, to
-bend). Thus it is found in English compound words, e.g. "elbow,"
+[[Bend|bend]]). Thus it is found in English [[Compound|compound]] words, e.g. "[[Elbow|elbow]],"
 "rainbow," "bow-net," "bow-window," "bow-knot," "saddle-bow," and by
 itself as the designation of a great variety of objects. The Old English
 use of "bow," or stone-bow, for "arch," now obsolete, survives in
@@ -19,7 +19,7 @@ Mary-in-Arcubus) in Cheapside, and Stratford-le-Bow (the
 "Stratford-atte-Bowe" of Chaucer). "Bow," however, is still the
 designation of objects so various as an appliance for shooting arrows
 (see ARCHERY), a necktie in the form of a bow-knot (i.e. a double-looped
-knot), a ring or hoop forming a handle (e.g. the bow of a watch),
+[[Knot|knot]]), a ring or hoop forming a handle (e.g. the bow of a watch),
 certain instruments or tools consisting of a bent piece of wood with the
 ends drawn together by a string, used for drilling, turning, &c., in
 various crafts, and the stick strung with horsehair by means of which
@@ -38,14 +38,14 @@ templet so as to obtain the accurate taper, which begins about 4-1/4 in.
 from the nut, decreasing according to regular proportions from 3/8 in.
 at the screw to 3/16 at the back of the head. The stick is cut
 absolutely straight and parallel along its whole length with the fibre
-of the wood; it is then bent by heat until it is slightly convex to the
+of the wood; it is then bent by heat until it is slightly [[Convex|convex]] to the
 hair and has assumed the elegant _cambrure_ first given to it by
 Francois Tourte (1747-1835). This process requires the greatest care,
 for if the fibres be not heated right through, they offer a continual
 resistance to the curve, and return after a time to the rigid straight
 line, a defect often observed in cheap bows. The sticks are now of
 either cylindrical or octagonal section, and are lapped or covered with
-gold thread or leather for some inches beyond the nut in order to afford
+gold thread or leather for some [[Inch|inches]] beyond the nut in order to afford
 a firm grip. The length of the stick was definitely and finally fixed by
 Francois Tourte at 29.34 to 29.528 in.
 
@@ -88,7 +88,7 @@ Francois Tourte at 29.34 to 29.528 in.
   must be very carefully sorted, for not more than one hair in ten is
   perfectly cylindrical and fit for use on a high-grade bow. Experience
   determines the right number of hairs, for if the ribbon be too thick
-  it hinders the vibration of the strings; if too thin the friction is
+  it hinders the vibration of the strings; if too thin the [[Friction|friction]] is
   not strong enough to produce a good tone. Fetis gives 175 to 250 as
   the number used in the modern bow,[3] and Julius Ruhlmann 110 to
   120.[4] Tourte attached the greatest importance to the hairing of the
@@ -123,7 +123,7 @@ Francois Tourte at 29.34 to 29.528 in.
   a _sforzando_ passage. The head has a chamber and wedge contrivance
   similar to that of the nut, in which the other end of the hair is
   immovably fixed. The hair on the face of the head is protected by a
-  metal or ivory plate.
+  metal or [[Ivory|ivory]] plate.
 
   The model bow here described, elaborated by Francois Tourte as long
   ago as between 1775 and 1780 according to Fetis,[5] or between 1785
@@ -132,13 +132,13 @@ Francois Tourte at 29.34 to 29.528 in.
 
 That the violin and the bow form one inseparable whole becomes evident
 when we consider the history of the forerunners of the viol family:
-without the bow the ancestor of the violin would have remained a guitar;
+without the bow the ancestor of the violin would have remained a [[Guitar|guitar]];
 the bow would not have reached its present state of perfection had it
 been required only for instruments of the _rebec_ and _vielle_ type. As
 soon as the possibilities of the violin were realized, as a solo
 instrument capable, through the agency of the bow, of expressing the
 emotions of the performer, the perfecting of the bow was prosecuted in
-earnest until it was capable of responding to every shade of delicate
+[[Earnest|earnest]] until it was capable of responding to every shade of delicate
 thought and feeling. This accounts in a measure for the protracted
 development of the bow, which, although used long before the violin had
 been evolved, did not reach a state of perfection at the hands of Tourte
@@ -151,7 +151,7 @@ with the conquest of Spain by the Moors in the 8th century, and the
 consequent impetus their superior culture gave to arts and sciences in
 the south-west of Europe. We have, however, no well-authenticated
 representation of the bow before the 9th century in Europe; the earliest
-is the bow illustrated along with the Lyra Teutonica by Martin
+is the bow illustrated along with the [[Lyra]] Teutonica by Martin
 Gerbert[7], the representation being taken from a MS. at the monastery
 of St Blaise, dating in his opinion from the 9th century. On the other
 hand, Byzantine art of the 9th and 11th centuries[8] reveals
@@ -168,7 +168,7 @@ not later than the 8th century A.D., but more probably the work of a
 6th-century artist. Orpheus is holding an instrument, which appears to
 be a rebab, against his chin, in the act of bowing and stopping the
 strings. The bow is similar in shape to one shown in the Psalter of
-Labeo Notker, Leipzig, 10th century, mentioned farther on. On Indian
+[[Labeo]] Notker, Leipzig, 10th century, mentioned farther on. On Indian
 sculptures of the first centuries of our era, such as the Buddhist
 _stupas_ of Amaravati, the risers of the topes of Jamal-Garhi, in the
 Yusafzai district of Afghanistan (both in the British Museum), on which
@@ -251,7 +251,7 @@ figured by Mersenne,[17] e.g. the bass viol bow KL (p. 184), and another
 KLM (p. 192), had a movable nut and screw; the nut is clearly drawn
 astride the stick as in the modern bow. Mersenne explains (p. 178) the
 construction of the bow, which consists of three parts: the _bois,
-baton_ or _brin_, the _soye_, and the _demi-roue_ or _hausse_. The term
+baton_ or _[[Brin|brin]]_, the _soye_, and the _demi-roue_ or _hausse_. The term
 "half-wheel" clearly indicates that the base of the nut was cut round so
 as to fit round the stick. In the absence of any allusion to such
 ingenious mechanism as that of screw and nut, we must infer that the
@@ -268,7 +268,7 @@ places where the hairs are fastened at each end) about seven-and-twenty
 inches. The nut should be short, the height of it about a finger's
 breadth or a little more" (p. 2).
 
-As soon as Corelli (1653-1713) formulated the principles of the
+As soon as [[Corelli]] (1653-1713) formulated the principles of the
 technique of the violin, marked modifications in the construction of the
 bow became noticeable. Tartini, who began during the second decade of
 the 18th century to gauge the capabilities of the bow, introduced
@@ -285,7 +285,7 @@ Tourtes, father and son, accomplished the rest.
   the stick near the nut; Jacques Lefleur, 1760-1832; Francois Lupot,
   1774-1837, the first to line the angular cutting of the nut, where it
   slides along the stick, with a plate of metal; Simon, born 1808, who
-  also signs his bows on the stick near the nut; John Dodd of Richmond,
+  also signs his bows on the stick near the nut; John [[Dodd]] of Richmond,
   the greatest English bow-maker, who was especially renowned for his
   violoncello bows, though his violin bows had the defect of being
   rather short.
@@ -310,7 +310,7 @@ FOOTNOTES:
   [1] "Bow," the forepart or head of a ship, must be distinguished from
     this word. It is the same word, and pronounced in the same way, as
     "bough," an arm or limb of a tree, and represents a common Teutonic
-    word, seen in O. Eng. _bog_, Ger. _Bug_, shoulder, and is cognate
+    word, seen in O. Eng. _[[Bog|bog]]_, Ger. _Bug_, shoulder, and is cognate
     with Gr. [Greek: paechus], forearm. The sense of "shoulder" of a ship
     is not found in O. Eng. _bog_. but was probably borrowed from Dutch
     or Danish. "Bow," an inclination of the head or body, though
@@ -338,7 +338,7 @@ FOOTNOTES:
     Greek Psalter, dated 1066.
 
   [9] See Jean Cledat, "Le Monastere et la necropole de Baouit," in
-    _Mem. de l'Inst. franc. d'archeol. orient. du Caire_, vol. xii.
+    _Mem. de l'Inst. [[Franc|franc]]. d'archeol. orient. du Caire_, vol. xii.
     (1904), chap. xviii. pl. lxiv. (2); also Fernand Cabrol, _Dict.
     d'archeol. chretienne, s.v._ "Baouit."
 
@@ -352,11 +352,11 @@ FOOTNOTES:
   [13] Edward Heron-Allen, _Violin-making as it was and is_ (London,
     1884), pp. 37-42, figs. 5-10.
 
-  [14] MS. 774, fol. 30. For an illustration of it see Hyacinth Abele,
+  [14] MS. 774, fol. 30. For an illustration of it see [[Hyacinth]] Abele,
     _Die Violine, ihre Geschichte und ihr Bau_ (Neuburg-a-D., 1874), pl.
     5, No. 7.
 
-  [15] See CROWD for fig. from the Bible of Charles le Chauve; and also
+  [15] See [[Crowd|CROWD]] for fig. from the Bible of Charles le Chauve; and also
     King David in the Bible of St Paul _extra muros_, Rome (photographic
     facsimile by J.O. Westwood, Oxford, 1876).
 

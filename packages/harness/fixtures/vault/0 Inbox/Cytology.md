@@ -15,7 +15,7 @@ composed of a vast number of these vital units or "cells." In the case
 of many microscopic forms, however, the entire organism, plant or
 animal, consists throughout life of a single cell. Familiar examples of
 these "unicellular" forms are Bacteria and Diatoms among the plants, and
-Foraminifera and Infusoria among the animals. In all cases, however,
+[[Foraminifera]] and Infusoria among the animals. In all cases, however,
 whether the cell-unit lives freely as a unicellular organism or forms an
 integral part of a multicellular individual, it exhibits in itself all
 the phenomena characteristic of living things. Each cell assimilates
@@ -23,7 +23,7 @@ food material, whether this is obtained by its own activity, as in the
 majority of the protozoa, or is brought, as it were, to its own door by
 the blood stream, as in the higher Metazoa, and builds this food
 material into its own substance, a process accompanied by respiration
-and excretion and resulting in growth. Each cell exhibits in greater or
+and [[Excretion|excretion]] and resulting in growth. Each cell exhibits in greater or
 less degree "irritability," or the power of responding to stimuli; and
 finally each cell, at some time in its life, is capable of reproduction.
 It is evident therefore that in the multicellular forms all the complex
@@ -39,7 +39,7 @@ blood corpuscle, lies the problem of the absorption of food, and the
 secrets of the mind are hidden in the ganglion cell." So also the
 problems of development and inheritance have shown themselves to be cell
 problems, while the study of disease has produced a "cellular
-pathology." The most important problems awaiting solution in biology are
+pathology." The most important problems awaiting solution in [[Biology|biology]] are
 cell problems.
 
 _Historical._--The cell-theory ranks with the evolution theory in the
@@ -50,7 +50,7 @@ other general conception. The cell-theory--in a form, however, very
 different from that in which we now know it--was originally suggested by
 the study of plant structure; and the first steps to the formulation,
 many years later, of a definite cell-theory, were made as early as the
-later part of the 17th century by Robert Hooke, Marcello Malpighi and
+later part of the 17th century by Robert [[Hooke]], Marcello Malpighi and
 Nehemiah Grew. Hooke (1665) noted and described the vesicular nature of
 cork and similar vegetable substances, and designated the cavities by
 the term "cells." A few years later Malpighi (1674) and Grew (1682),
@@ -63,8 +63,8 @@ important step forward was made by C. L. Treviranus,[2] who, working on
 the growing parts of young plants, showed that the tubes and vessels of
 Malpighi and Grew arose from cells by the latter becoming elongated and
 attached end to end, the intervening walls breaking down; a conclusion
-afterwards confirmed by Hugo von Mohl (1830). It was not, however, until
-the appearance of Matthias Jakob Schleiden's paper _Beitrage zur
+afterwards confirmed by [[Hugo]] von Mohl (1830). It was not, however, until
+the appearance of [[Matthias]] [[Jakob]] Schleiden's paper _Beitrage zur
 Phytogenesis_ (1838) that we have a really comprehensive treatment of
 the cell, and the formulation of a definite cell-theory for plants. It
 is to the wealth of correlated observations and to the philosophic
@@ -80,7 +80,7 @@ extend the cell-theory to animal tissues also. We may indeed date the
 birth of animal cytology from Schleiden's short but epoch-making paper.
 Comparisons between plant and animal tissues had already been made by
 several workers, among others by Johannes Muller (1835), and by F. G. J.
-Henle and J. E. Purkinje (1837). But the first real step to a
+[[Henle]] and J. E. Purkinje (1837). But the first real step to a
 comprehensive cell-theory to include animal tissues was made by Theodor
 Schwann. This author, stimulated by Schleiden's work, published in 1830
 a series of _Mikroskopische Untersuchungen uber die Ubereinstimmung in
@@ -115,7 +115,7 @@ The cell-wall was regarded as the essential cell-structure, which by its
 own peculiar properties controlled the cell-processes. The work of
 Schleiden and Schwann marks the close of the first period in the history
 of the cell-theory--the period dominated by the cell-wall. The
-subsequent history is marked by the gradual recognition of the
+subsequent history is marked by the [[Gradual|gradual]] recognition of the
 importance of the cell-contents. Schleiden had noticed in the plant cell
 a finely granular substance which he termed "plant slime"
 (_Pflanzenschleim_). In 1846 Hugo von Mohl applied to this substance the
@@ -126,7 +126,7 @@ and that only later, by the gradual accumulation of vacuoles in the
 interior, did this substance come to form a thin layer on the inner
 surface of the cell-wall. Mohl also described the spontaneous movement
 of the protoplasm, a phenomenon already noted by Schleiden for his plant
-slime, and originally discovered by Bonaventura Corti in 1772 for the
+slime, and originally discovered by [[Bonaventura]] Corti in 1772 for the
 cells of _Chara_, and rediscovered in 1807 by Treviranus. Not only was
 attention thus gradually directed to the importance of the
 cell-contents, but observations were not lacking, even in the plant
@@ -141,13 +141,13 @@ result of the resemblance between the streaming movements in these
 apparently naked cells (e.g. lymphocytes) and those seen in plant cells,
 R. Remak was led (1852-1853) to apply Mohl's term "protoplasm" to the
 substance of these animal cells also. Similarly Max Schultze (1863) and
-H. A. de Bary (1859), as a result of the study of unicellular animals,
+H. A. [[De Bary|de Bary]] (1859), as a result of the study of unicellular animals,
 came to the conclusion that the substance of these organisms, originally
 termed "Sarcode" by F. Dujardin, was identical with that of the plant
 and animal cell. Numerous workers now began to realize the subordinate
 position of the cell-wall (e.g. Nageli, Alexander Braun, Leydig,
 Kolliker, Cohn, de Bary, &c.), but it is to Max Schultze above all that
-the credit is due for having laid the foundation of the modern
+the [[Credit|credit]] is due for having laid the foundation of the modern
 conception of the cell--a conception often referred to as the
 _proto-plasmic-theory_ in opposition to the _cell_-theory of Schleiden
 and Schwann. Max Schultze showed that one and the same substance,
@@ -159,14 +159,14 @@ was always absent. He therefore concluded that in all cases the
 cell-membrane was unessential, and he redefined the "cell" of Schleiden
 and Schwann as "a small mass of protoplasm endowed with the attributes
 of life" (1861). In the same year the physiologist Brucke maintained
-that the complexity of vital phenomena necessitated the assumption for
+that the complexity of vital phenomena necessitated the [[Assumption|assumption]] for
 the cell-protoplasm itself of a complex structure, only invisible
 because of the limitations of our methods of observation. The cell in
 fact was to be regarded as being itself an "elementary organism." By
 this time too it was realized that the formation of cells _de novo_,
 postulated by Schleiden's theory of "phytogenesis," did not occur. Cells
 only arose by the division of pre-existing cells,--as Virchow neatly
-expressed it in his since famous aphorism, _omnis cellula e cellula_. It
+expressed it in his since famous [[Aphorism|aphorism]], _omnis cellula e cellula_. It
 was, however, many years before the details of this "cell-division" were
 laid bare (see _Cell-Division_ below).
 
@@ -183,11 +183,11 @@ from the living protoplasm by the term "metaplasm" (Hanstein), or
 "paraplasm" (Kupffer), although in practice no very sharp distinction
 can be drawn between them. The cell is frequently, but by no means
 always, bounded by a cell-wall of greater or less thickness. In plants
-this cell-wall consists of cellulose, a substance closely allied to
+this cell-wall consists of [[Cellulose|cellulose]], a substance closely allied to
 starch; in animals only very rarely is this the case. Usually the
 cell-wall, when this is present, is a product of the cell's secretive
 activity; sometimes, however, it appears to be formed by an actual
-conversion of the surface layer of the protoplasm, and retains the power
+[[Conversion|conversion]] of the surface layer of the protoplasm, and retains the power
 of growth by "intussusception" like the rest of the protoplasm. Even
 when a limiting membrane is present, however, evidence is steadily
 accumulating to show that the cell is not an isolated physiological
@@ -202,7 +202,7 @@ condition which has produced the cell-elements of the nervous system. In
 many cases the cell-connexions are so extensive as to obliterate
 cell-boundaries. A good example of such a "syncytial" tissue is provided
 by the heart muscle of Vertebrates and the intestinal musculature of
-Insects (Webber).[5]
+[[Insect|Insects]] (Webber).[5]
 
 In all multicellular, and in the great majority of unicellular,
 organisms the protoplasm of the cell-unit is differentiated into two
@@ -251,7 +251,7 @@ some another, of their vital attributes. Thus one cell specializes in,
 say, secretion, another in contractility, another in receiving and
 carrying stimuli, and so forth, so that we have the gland cell, the
 muscle cell, and the nerve cell, each appropriately grouped with its
-fellows to constitute the particular tissue or organ--gland, muscle or
+[[Fellows|fellows]] to constitute the particular tissue or organ--gland, muscle or
 brain--which has for its function that of its constituent cells. In
 unicellular animals we also find division of labour and its accompanying
 morphological differentiation, but here there is no subdivision of the
@@ -274,7 +274,7 @@ cell-modifications, grouped according to the cell-attributes the
 expression of which they facilitate.
 
 [Illustration: a and b from Schafer's _Essentials of Histology_, by
-permission of Longmans, Green & Co.
+permission of [[Longmans]], Green & Co.
 
 FIG. 1.--Types of Cells. a, Fat-cell enclosing a huge fat-globule. b,
 Part of a Mammalian "striated" muscle-cell (diagrammatic). c,
@@ -308,7 +308,7 @@ during motion. The cilia may form a uniform coating to the free surface
 of the cell, as in ciliated epithelium (fig. 2, a) and many infusoria,
 or the cilia may be variously modified and restricted to special regions
 of the body, e.g. the "undulating membrane" of the peristomial region in
-many infusoria, the swimming combs of the Ctenophora (q.v.), and the
+many infusoria, the swimming [[Comb|combs]] of the [[Ctenophora]] (q.v.), and the
 flame cells of the Platyelmia (q.v.). In one group of infusoria
 (Hypotricha), the cilia, "cirri," have attained a high degree of
 differentiation, and reach a considerable size. Both cilia and flagella
@@ -324,7 +324,7 @@ spermatogenesis, Henneguy[10] and Meves[11] (fig. 3).
 by permission of Gustav Fischer.
 
 FIG. 2.--Types of Cells. a, Ciliated epithelial cells. (After
-Heidenhain.) b, Mucus-secreting "goblet"-cells. (After Gurwitsch.)]
+Heidenhain.) b, Mucus-secreting "[[Goblet|goblet]]"-cells. (After Gurwitsch.)]
 
 [Illustration: From O. Hertwig, _Allgemeine Biologie_, by permission of
 Gustav Fischer.
@@ -342,7 +342,7 @@ whole cell--muscle cell--is specialized for contractility, and shows, as
 a result of its specialization, a distinct fibrillation. This
 fibrillation is foreshadowed in the contractile regions of many
 Protozoa, e.g. in the cirri of hypotrichous Infusoria, the tentacle of
-_Noctiluca_, and the myophane layer of Gregarines. In the quickly
+_Noctiluca_, and the myophane layer of [[Gregarines]]. In the quickly
 contracting muscle cell of Vertebrates and insects, further
 specialization has produced a structure of considerable complexity (fig.
 1, b). Here also the cell is fibrillated, but the fibrillae
@@ -350,7 +350,7 @@ specialization has produced a structure of considerable complexity (fig.
 which gives to the entire cell a "cross striated" appearance. Since
 quick movement is usually (but not always) associated with voluntary
 control, these striated muscle cells are often termed "voluntary" muscle
-fibres. The great increase in length of these cells is accompanied by
+[[Fibres|fibres]]. The great increase in length of these cells is accompanied by
 the fragmentation of the originally single nucleus.
 
 (b) _Cell-modification in Relation to Secretion._--Just as the complex
@@ -365,18 +365,18 @@ differentiation. Usually indeed the specialization is only rendered
 evident by the appearance of the formed secretion, e.g. mucus-secreting
 epithelial cells (fig. 2, b), the ovarian ovum and the fat cell (fig. 1,
 a). In some cases a distinct fibrillation of the cytoplasm accompanies
-or precedes the appearance of the cell-secretion (Mathews, pancreas cell
+or precedes the appearance of the cell-secretion ([[Mathews]], pancreas cell
 of Amphibia). In many cases the internal secretion is no mere
 accumulation, e.g. the internal skeleton of the Radiolaria, and the
 nematocysts of the Coelentera. Frequently in animal tissues the
 cell-secretions are accumulated in the intercellular spaces, and result
 in the formation of the various "connective tissues," all of which are
 characterized by the immense amount of intercellular substance, e.g.
-fibrous tissue, cartilage and bone. Cell-modifications facilitating the
+fibrous tissue, cartilage and [[Bone|bone]]. Cell-modifications facilitating the
 general metabolism, but not necessarily indicating specialized
 secretion, also occur, e.g. the "gullet" of many Protozoa, the suctorial
 tubules of the Acinetaria, and the "nutritive processes" of the ovarian
-ova in many Lepidoptera. Mention may be made here of the network or
+ova in many [[Lepidoptera]]. Mention may be made here of the network or
 canal system of the cytoplasm, described for many cells by Golgi,
 Holgren and others. An enigmatical structure, the "yolk-nucleus" of many
 ova, has been frequently regarded as a structure of considerable
@@ -433,7 +433,7 @@ mechanical explanation, science has rejected the assumption of a special
 series of chemico-physical changes,[13] initiated, but only initiated,
 by the original stimulus; the latter thus standing in the same relation
 to the response it produces as the pull on the trigger to the propulsion
-of the rifle bullet. The function of receiving stimuli from the outer
+of the rifle [[Bullet|bullet]]. The function of receiving stimuli from the outer
 world, originally possessed to a greater or less extent by all cells,
 has, in the Metazoa, been relegated to one class of cells, the sensory
 cells[14] (fig. 5, D and E). Another class of cells--the "ganglion
@@ -452,14 +452,14 @@ of living things, are but the co-ordinated expressions of the
 corresponding activities of the constituent cells, so we now know that
 the reproduction of the organism is, in its ultimate analysis, a
 cell-process. Our knowledge of the essential fact that cells only arise
-by the division of pre-existing cells, now a fundamental axiom of
+by the division of pre-existing cells, now a fundamental [[Axiom|axiom]] of
 biology, and of the details of this process, have been acquired during
 recent years by the strenuous efforts of numerous workers.[15] Matthias
 Jakob Schleiden (1838) supposed that in plants the new cell arose from
 the parent cell by a sort of "crystallizing" process from the cell fluid
 or "cytoblastema"; the nucleolus appearing first, then the nucleus, and
 finally the cell-body. Theodor Schwann (1839) extended Schleiden's
-theory to animal tissues, with this yet greater error, that new cells
+theory to animal tissues, with this yet greater [[Error|error]], that new cells
 might arise, not only within the mother cell as Schleiden had supposed,
 but also in the intercellular substance so common in animal tissues (to
 which he also gave the term "cytoblastema"). By 1846, however, the
@@ -526,7 +526,7 @@ daughter centrosomes separate from one another, travelling to opposite
 poles of the nucleus. At the same time radiations extend out into the
 cytoplasm from the centrosomes, and, as the nuclear membrane disappears,
 invade the nuclear area (fig. 7, a). Some of the fibrillae in the latter
-region become attached to the chromosomes and are termed "mantle
+region become attached to the chromosomes and are termed "[[Mantle|mantle]]
 fibres"; others become continuous from one centrosome to the other and
 constitute the "spindle fibres." The remaining radiations at the two
 poles of the spindle are the "astral rays." (The details of the
@@ -570,7 +570,7 @@ to form the resting daughter nuclei, the telophase.
 From Prof. E. B. Wilson's _The Cell in Development and Inheritance_, by
 permission of the author and of The Macmillan Co., New York.
 
-  a, Leucocyte from a Salamander, showing permanent aster and
+  a, Leucocyte from a Salamander, showing permanent [[Aster|aster]] and
   centrosome.
 
 From A. Gurwitsch, _Morphologie u. Biologie der Zelle_, by permission of
@@ -581,7 +581,7 @@ Gustav Fischer.
 
 _The Achromatic Figure._--The mode of origin of the achromatic figure
 varies greatly. In some cases a distinct and continuous spindle, the
-"central spindle" of F. Hermann, is visible from the very first
+"central spindle" of F. [[Hermann]], is visible from the very first
 separation of the daughter centrosomes (e.g. salamander spermatogenic
 cell)[20] (fig. 7, b). In other cases the rays only invade the nuclear
 area and become continuous in the equatorial plane after the centrosomes
@@ -640,7 +640,7 @@ homologue of the centrosome in many Protozoa. Thus in many forms, e.g.
 _Euglena_ (Keuten), it lies within the nucleus, while in other forms,
 e.g. _Noctiluca_ (Ishikawa, 1894, 1898; Calkins, 1898) and _Paramoeba_
 (F. Schaudinn, 1896), it lies in the cytoplasm, while in _Tetramitus_ it
-coexists with a "distributed" nucleus. In the Heliozoa conditions are
+coexists with a "distributed" nucleus. In the [[Heliozoa]] conditions are
 exceptionally interesting; not only is the centrosome--here resembling
 in appearance that of the higher forms--permanently visible and
 extranuclear, lying at the centre of the radiations characteristic of
@@ -651,8 +651,8 @@ centrosome remaining visible and unchanged at the centre of the
 radiating processes. Yet a centrosome appears later in the nucleus of
 the swarm spores and migrates into the cytoplasm. The experiments of T.
 H. Morgan and E. B. Wilson, in which numerous centrosomes and asters
-("cytasters") are caused to appear in unfertilized sea-urchin eggs by a
-brief immersion in a 13% solution of magnesium chloride in
+("cytasters") are caused to appear in unfertilized sea-urchin [[Egg|eggs]] by a
+brief [[Immersion|immersion]] in a 13% solution of magnesium chloride in
 sea-water,[29] as also the possibility in many cases that even in normal
 fertilization the cleavage centrosomes may arise _de novo_,[30] make it
 no longer possible to regard the centrosome as a permanent
@@ -756,8 +756,8 @@ fertilized with the spermatozoon of var. _univalens_, in which the germ
 cell has only one chromosome and that smaller than either of the two in
 the other variety, three chromosomes reappear, two large and one small,
 in the cleavage divisions of the resulting hybrid embryo. Zur Strassen's
-observations on the giant embryos of _Ascaris_ also support Boveri's
-theory. These embryos arise by the fusion of eggs, either before or
+observations on the [[Giant|giant]] embryos of _Ascaris_ also support Boveri's
+theory. These embryos arise by the [[Fusion|fusion]] of eggs, either before or
 after fertilization. The number of chromosomes in the subsequent
 cleavage-figures is proportional to the number of nuclei that have fused
 together. Similar results are given by Boveri's (1893-1895) and T. H.
@@ -898,7 +898,7 @@ not universal, occurrence of the second method--the distribution between
 the daughter cells of undivided chromosomes. The occurrence of such a
 "reducing division" was postulated on theoretical grounds by Weismann
 (1887)[47] and by Boveri (1888); by the former as a result of his
-adoption of de Vries's hypothesis of self-propagating and qualitatively
+adoption of de Vries's [[Hypothesis|hypothesis]] of self-propagating and qualitatively
 varying units for the chromatin; by the latter in relation to his theory
 of chromosome individuality. The actual occurrence of this reducing
 division was first demonstrated by Henking (1891) for _Pyrrhocoris_, and
@@ -929,7 +929,7 @@ _Pyrrhocoris_ (Henking), _Anasa_ (Paulmeir), _Peripatus_ (Montgomery),
 of Korschelt and Heider, 1900), instead of at the second division
 (post-reduction) as in most Copepods and Orthoptera. In many cases the
 tetrads (i.e. split chromosomes associated in pairs) have the form of
-rings, the genesis of which was first clearly determined by vom Rath
+rings, the [[Genesis|genesis]] of which was first clearly determined by vom Rath
 (1892) in the mole cricket _Gryllotalpa_ (fig. 11). In this form the
 sister diads remain united by their ends but widely separate in the
 middle (fig. 11, b). As in _Cyclops_, the belated transverse
@@ -1001,7 +1001,7 @@ however, no transverse segmentation appears, and the halves of the
 rings, as they separate in the first division, show an obvious
 longitudinal split in preparation for the second division.[50] Both
 divisions were thus interpreted as equating divisions.[51] The more
-recent works of Farmer and Moore (1903-1905), Montgomery (1903,
+recent works of [[Farmer]] and Moore (1903-1905), Montgomery (1903,
 Amphibia), and (for plants) Strasburger (1903-1904) have shown, however,
 that even for the higher plants and animals, a reducing division in
 Weismann's sense occurs in an essentially similar manner to that so
@@ -1023,7 +1023,7 @@ of Proportional Growth). The chromatin is therefore incapable of
 undergoing reproductive fission in two successive mitotic divisions when
 these are not separated by a resting (i.e. growth) period. In addition
 to this, the "bipolar" condition of the adult chromosomes, which
-determines its mode of attachment to mantle fibres from _both_ poles of
+determines its mode of [[Attachment|attachment]] to mantle fibres from _both_ poles of
 the spindle, is not possessed by the unripe chromatin. The undivided,
 i.e. unripe, chromosomes are therefore incapable of utilizing the
 mitotic mechanism for such a transverse fission as Weismann originally
@@ -1042,7 +1042,7 @@ var. _univalens_, where the somatic number is only two, the association
 must necessarily be between homologous chromosomes. The assumption that
 this "selective pairing" of equivalent chromosomes is universal is
 supported by the behaviour of the "Heterochromosomes" (Montgomery) of
-the Hemiptera. These chromosomes, distinguished by their size, are
+the [[Hemiptera]]. These chromosomes, distinguished by their size, are
 paired before, and single after, the "pseudo-reduction" has taken place.
 Even more convincing is Sutton's account of reduction in _Brachystola_
 already referred to.[53] Boveri (1904) has suggested that this temporary
@@ -1129,16 +1129,16 @@ as a result of the facilities it undoubtedly offers for regional
 specialization in the protoplasmic mass.
 
   BIBLIOGRAPHY.--The special literature of cytology has grown to large
-  dimensions. The following are the more important text-books and papers
+  [[Dimension|dimensions]]. The following are the more important text-books and papers
   of general interest: E. B. Wilson, _The Cell in Development and
   Inheritance_ (2nd ed., 1900); A. Gurwitsch, _Morphologie und Biologie
-  der Zelle_ (Jena, 1904); O. Hertwig, _Allgemeine Biologie_ (Jena,
+  der Zelle_ ([[Jena]], 1904); O. Hertwig, _Allgemeine Biologie_ (Jena,
   1906); Korschelt and Heider, _Lehrbuch der vergl.
   Entwicklungsgeschichte der wirbellosen Tiere_, Allgem. Teil, "The Germ
   Cells and Experimental Embryology" (Jena, 1903); Whitman, "The
   Inadequacy of the Cell Theory of Development," _Journ. Morph._ viii.,
   1893; Adam Sedgwick, "On the Inadequacy of the Cellular Theory of
-  Development," _Quart. Journ. Micro. Science_, xxxvii.; G. C. Bourne,
+  Development," _Quart. Journ. Micro. Science_, xxxvii.; G. C. [[Bourne]],
   "A Criticism of the Cell Theory" (an answer to Sedgwick's paper),
   _Quart. Journ. Micro. Science_, xxxviii.; Th. Boveri, "Befruchtung,"
   _Merkel-Bonnets Ergebnisse der Anat. u. Entwicklungsgesch._ Bd. i.
@@ -1161,7 +1161,7 @@ FOOTNOTES:
   [2] _Vom inwendigen Bau der Gewachse_ (1806).
 
   [3] The Chromoplastids of the vegetable cell come under a different
-    category of cell-inclusions; see PLANTS: _Cytology_.
+    [[Category|category]] of cell-inclusions; see PLANTS: _Cytology_.
 
   [4] Cf. Pfeffer's classical experiments on the physiological
     significance of cell-continuity in plant tissues (_Uber den Einfluss
@@ -1189,11 +1189,11 @@ FOOTNOTES:
     named it on this account the "little Proteus."
 
   [10] "Sur les rapports des cils vibratiles avec les centrosomes,"
-    _Archives d'anatomie microscopique_ (1898).
+    _[[Archive|Archives]] d'anatomie microscopique_ (1898).
 
   [11] "Uber Zentralkorper in mannlichen Geschlechtszellen von
     Schmetterlingen" (Anat. Anz. Bd. xiv., 1897). Cf. also the papers of
-    Lenhossek (_Uber Flimmerzellen_, 1898), Karl Peter (_Das Zentrum fur
+    Lenhossek (_Uber Flimmerzellen_, 1898), Karl Peter (_Das Zentrum [[Fur|fur]]
     die Flimm- und Giesselbewegung_, 1899) and Verworn (_Studien zur
     Physiologie der Flimmerbewegung_, 1899).
 
@@ -1201,7 +1201,7 @@ FOOTNOTES:
     structure in the oocyte of _Antedon_. _Phil. Trans. Royal Soc._
     (1906), B. 249.
 
-  [13] Claude Bernard expressed the same conclusion in 1885. Rejecting
+  [13] [[Claude]] [[Bernard]] expressed the same conclusion in 1885. Rejecting
     both the view that vital phenomena were identical with
     chemico-physical phenomena, and that which regarded them as totally
     distinct, he suggested a third point of view: "l'element ultime du
@@ -1319,7 +1319,7 @@ FOOTNOTES:
   [40] "Entwicklungsmechanische Studien V." (_Zeit. fur wiss. Zool._,
     Bd. lv., 1892).
 
-  [41] See Geddes and Thomson, _Sex_, esp. pp. 127, 137 and 139.
+  [41] See [[Geddes]] and Thomson, _Sex_, esp. pp. 127, 137 and 139.
 
   [42] The equivalence of the germ nuclei in development is shown by
     the experiments on the fertilization of enucleated eggs and
@@ -1328,7 +1328,7 @@ FOOTNOTES:
   [43] O. Hertwig, 1873; but esp. van Beneden, 1883.
 
   [44] Hacker, "Uber die Selbststandigkeit der vaterlichen und
-    mutterlichen Kernbestandteile," _Arch. f. mikr. Anat._ Bd. xlvi.
+    mutterlichen Kernbestandteile," _[[Arch]]. f. mikr. Anat._ Bd. xlvi.
     (1896).
 
   [45] First discovered by van Beneden (1883, 1887) for the egg of
@@ -1371,7 +1371,7 @@ FOOTNOTES:
   [51] e.g. Moore, 1895 (_Scyllium_); Flemming, 1897; Carnoy and
     Lebrun, 1899 (_Amphibia_); McGregor, 1899; Lenhossek, 1898 (mammals),
     and many others. So also for plants: Strasburger and Mottier, 1897;
-    Dixon, 1896; Sargant, 1896-1897; Farmer and Moore, 1895; Gregoire,
+    Dixon, 1896; Sargant, 1896-1897; Farmer and Moore, 1895; [[Gregoire]],
     1899; Guignard, 1899, &c.
 
   [52] H. Henking (1899), T. Montgomery (1898) and F. C. Paulmeir

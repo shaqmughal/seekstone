@@ -19,22 +19,22 @@ token of a crusading vow. He is not a person of much importance in
 history except in relation to a strange theory raised in a later age
 about his birth, which we shall notice presently. His son Thomas, who
 inherited the title, took the lead among the nobles of Edward II.'s time
-in opposition to Piers Gaveston and the Despensers, and was beheaded for
+in opposition to Piers Gaveston and the [[Despenser|Despensers]], and was beheaded for
 treason at Pontefract. At the commencement of the following reign his
-attainder was reversed and his brother Henry restored to the earldom;
-and Henry being appointed guardian to the young king Edward III.,
+[[Attainder|attainder]] was reversed and his brother Henry restored to the earldom;
+and Henry being appointed [[Guardian|guardian]] to the young king Edward III.,
 assisted him to throw off the yoke of Mortimer. On this Henry's death in
 1345 he was succeeded by a son of the same name, sometimes known as
-Henry Tort-Col or Wryneck, a very valiant commander in the French wars,
+Henry Tort-Col or Wryneck, a very valiant [[Commander|commander]] in the French wars,
 whom the king advanced to the dignity of a duke. Only one duke had been
 created in England before, and that was fourteen years previously, when
-the king's son Edward, the Black Prince, was made duke of Cornwall. This
-Henry Wryneck died in 1361 without heir male. His second daughter,
+the king's son Edward, the Black Prince, was made duke of [[Cornwall]]. This
+Henry Wryneck died in 1361 without [[Heir|heir]] male. His second daughter,
 Blanche, became the wife of John of Gaunt, who thus succeeded to the
 duke's inheritance in her right; and on the 13th of November 1362, when
 King Edward attained the age of fifty, John was created duke of
 Lancaster, his elder brother, Lionel, being at the same time created
-duke of Clarence. It was from these two dukes that the rival houses of
+duke of [[Clarence]]. It was from these two [[Dukes|dukes]] that the rival houses of
 Lancaster and York derived their respective claims to the crown. As
 Clarence was King Edward's third son, while John of Gaunt was his
 fourth, in ordinary course on the failure of the elder line the issue of
@@ -48,7 +48,7 @@ representatives of the elder brother.
 
 As for John of Gaunt himself, it can hardly be said that this sort of
 politic wisdom is very conspicuous in him. His ambition was generally
-more manifest than his discretion; but fortune favoured his ambition,
+more [[Manifest|manifest]] than his discretion; but fortune favoured his ambition,
 even as to himself, somewhat beyond expectation, and still more in his
 posterity. Before the death of his father he had become the greatest
 subject in England, his three elder brothers having all died before him.
@@ -78,7 +78,7 @@ succeeded so far as to make a treaty with his rival, King John, son of
 Henry of Trastamara, for the succession, by virtue of which his
 daughter Catherine became the wife of Henry III. of Castile some years
 later. After his return the king seems to have regarded him with greater
-favour, created him duke of Aquitaine, and employed him in repeated
+favour, created him duke of [[Aquitaine]], and employed him in repeated
 embassies to France, which at length resulted in a treaty of peace, and
 Richard's marriage to the French king's daughter.
 
@@ -103,7 +103,7 @@ Wonderful Parliament put to death without remorse almost every agent of
 his former administration who had not fled the country. Gloucester even
 contemplated the dethronement of the king, but found that in this matter
 he could not rely on the support of his associates, one of whom was
-Henry, earl of Derby, the duke of Lancaster's son. Richard soon
+Henry, earl of [[Derby]], the duke of Lancaster's son. Richard soon
 afterwards, by declaring himself of age, shook off his uncle's control,
 and within ten years the acts of the Wonderful Parliament were reversed
 by a parliament no less arbitrary. Gloucester and his allies were then
@@ -114,7 +114,7 @@ both these noblemen, the king created the former duke of Hereford and
 the latter duke of Norfolk. But within three months from this time the
 one duke accused the other of treason, and the truth of the charge,
 after much consideration, was referred to trial by battle according to
-the laws of chivalry. But when the combat was about to commence it was
+the laws of [[Chivalry|chivalry]]. But when the combat was about to commence it was
 interrupted by the king, who, to preserve the peace of the kingdom,
 decreed by his own mere authority that the duke of Hereford should be
 banished for ten years--a term immediately afterwards reduced to
@@ -133,7 +133,7 @@ Ireland, gave out that he came only to recover his inheritance. He at
 once received the support of the northern lords, and as he marched
 southwards the whole kingdom was soon practically at his command.
 Richard, by the time he had recrossed the channel to Wales, discovered
-that his cause was lost. He was conveyed from Chester to London, and
+that his cause was lost. He was conveyed from [[Chester]] to London, and
 forced to execute a deed by which he resigned his crown. This was
 recited in parliament, and he was formally deposed. The duke of
 Lancaster then claimed the kingdom as due to himself by virtue of his
@@ -180,7 +180,7 @@ ventured to say no more than that he was descended from the king last
 mentioned "by right line of the blood." In what particular way that
 "right line" was to be traced he did not venture to indicate.
 
-A brief epitome of the reigns of the three successive kings belonging to
+A brief [[Epitome|epitome]] of the reigns of the three successive kings belonging to
 the house of Lancaster (Henry IV., V. and VI.) will be found elsewhere.
 With the death of Henry VI. the direct male line of John of Gaunt became
 extinct. But by his daughters he became the ancestor of more than one

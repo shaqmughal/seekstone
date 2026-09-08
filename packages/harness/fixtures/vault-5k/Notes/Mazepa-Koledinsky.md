@@ -21,7 +21,7 @@ recognized by Peter the Great. No other Cossack hetman had ever been
 treated with such deference at Moscow. He ranked with the highest
 dignitaries in the state; he sat at the tsar's own table. He had been
 made one of the first cavaliers of the newly established order of St
-Andrew, and Augustus of Poland had bestowed upon him, at Peter's earnest
+Andrew, and Augustus of Poland had bestowed upon him, at Peter's [[Earnest|earnest]]
 solicitation, the universally coveted order of the White Eagle. Mazepa
 had no temptations to be anything but loyal, and loyal he would
 doubtless have remained had not Charles XII. crossed the Russian
@@ -54,7 +54,7 @@ himself to Charles. What part he took at the battle of Poltava is not
 quite clear. After the catastrophe he accompanied Charles to Turkey with
 some 1500 horsemen (the miserable remnant of his 80,000 warriors). The
 sultan refused to surrender him to the tsar, though Peter offered
-300,000 ducats for his head. He died at Bender on the 22nd of August
+300,000 [[Ducat|ducats]] for his head. He died at Bender on the 22nd of August
 1709.
 
   See N. I. Kostomarov, _Mazepa and the Mazepanites_ (Russ.) (St

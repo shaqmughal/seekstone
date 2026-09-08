@@ -3,7 +3,7 @@
 FLUORINE (symbol F, atomic weight 19), a chemical element of the halogen
 group. It is never found in the uncombined condition, but in combination
 with calcium as fluor-spar CaF2 it is widely distributed; it is also
-found in cryolite Na3AlF6, in fluor-apatite, CaF2·3Ca3P2O8, and in
+found in [[Cryolite|cryolite]] Na3AlF6, in fluor-apatite, CaF2·3Ca3P2O8, and in
 minute traces in sea-water, in some mineral springs, and as a
 constituent of the enamel of the teeth. It was first isolated by H.
 Moissan in 1886 by the electrolysis of pure anhydrous hydrofluoric acid
@@ -29,10 +29,10 @@ liquid also being of a yellow colour and boiling at -187° C. It is the
 most active of all the chemical elements; in contact with hydrogen
 combination takes place between the two gases with explosive violence,
 even in the dark, and at as low a temperature as -210° C; finely divided
-carbon burns in the gas, forming carbon tetrafluoride; water is
+[[Carbon|carbon]] [[Burns|burns]] in the gas, forming carbon tetrafluoride; water is
 decomposed even at ordinary temperatures, with the formation of
 hydrofluoric acid and "ozonised" oxygen; iodine, sulphur and phosphorus
-melt and then inflame in the gas; it liberates chlorine from chlorides,
+melt and then inflame in the gas; it liberates [[Chlorine|chlorine]] from chlorides,
 and combines with most metals instantaneously to form fluorides; it does
 not, however, combine with oxygen. Organic compounds are rapidly
 attacked by the gas.
@@ -44,7 +44,7 @@ method still used for the commercial preparation of the aqueous solution
 of the acid, the mixture being distilled from leaden retorts and the
 acid stored in leaden or gutta-percha bottles. The perfectly anhydrous
 acid is a very volatile colourless liquid and is best obtained,
-according to G. Gore (_Phil. Trans._, 1869, p. 173) by decomposing the
+according to G. [[Gore]] (_Phil. Trans._, 1869, p. 173) by decomposing the
 double fluoride of hydrogen and potassium, at a red heat in a platinum
 retort fitted with a platinum condenser surrounded by a freezing
 mixture, and having a platinum receiver luted on. It can also be
@@ -57,7 +57,7 @@ acid boils at 19°.5 C. (H. Moissan), and on cooling, sets to a solid
 mass at -102°.5 C, which melts at -92°.3 C. (K. Olszewski, _Monats. für
 Chemie_, 1886, 7, p. 371). Potassium and sodium readily dissolve in the
 anhydrous acid with evolution of hydrogen and formation of fluorides.
-The aqueous solution is strongly acid to litmus and dissolves most
+The aqueous solution is strongly acid to [[Litmus|litmus]] and dissolves most
 metals directly. Its most important property is that it rapidly attacks
 glass, reacting with the silica of the glass to form gaseous silicon
 fluoride, and consequently it is used for etching. T.E. Thorpe (_Jour.
@@ -86,7 +86,7 @@ solution of constant boiling point to contain 43.2% HF and to boil at
   glass tube with concentrated sulphuric acid and holding a moistened
   glass rod in the mouth of the tube, the water apparently gelatinizes
   owing to the decomposition of the silicon fluoride formed. The atomic
-  weight of fluorine has been determined by the conversion of calcium,
+  weight of fluorine has been determined by the [[Conversion|conversion]] of calcium,
   sodium and potassium fluorides into the corresponding sulphates. J.
   Berzelius, by converting silver fluoride into silver chloride,
   obtained the value 19.44, and by analysing calcium fluoride the value

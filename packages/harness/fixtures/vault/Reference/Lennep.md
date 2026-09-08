@@ -8,12 +8,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lennep"
 
 # Lennep
 
-LENNEP, JACOB VAN (1802-1868), Dutch poet and novelist, was born on the
+LENNEP, [[Jacob|JACOB]] VAN (1802-1868), Dutch poet and novelist, was born on the
 24th of March 1802 at Amsterdam, where his father, David Jacob van
 Lennep (1774-1853), a scholar and poet, was professor of eloquence and
-the classical languages in the Athenaeum. Lennep took the degree of
+the classical languages in the [[Athenaeum]]. Lennep took the degree of
 doctor of laws at Leiden, and then settled as an advocate in Amsterdam.
-His first poetical efforts had been translations from Byron, of whom he
+His first poetical efforts had been translations from [[Byron]], of whom he
 was an ardent admirer, and in 1826 he published a collection of original
 _Academische Idyllen_, which had some success. He first attained genuine
 popularity by the _Nederlandsche Legenden_ (2 vols., 1828) which
@@ -27,7 +27,7 @@ de Grenzen_ (1831), which also had reference to the political events of
 prose, which have acquired for him in Holland a position somewhat
 analogous to that of Sir Walter Scott in Great Britain. The series
 included _De Roos van Dekama_ (2 vols., 1836), _Onze Voorouders_ (5
-vols., 1838), _De Lotgevallen van Ferdinand Huyck_ (2 vols., 1840),
+vols., 1838), _De Lotgevallen van [[Ferdinand]] Huyck_ (2 vols., 1840),
 _Elizabeth Musch_ (3 vols., 1850), and _De Lotgevallen van Klaasje
 Zevenster_ (5 vols., 1865), several of which have been translated into
 German and French, and two--_The Rose of Dekama_ (1847) and _The Adopted

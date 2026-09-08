@@ -21,13 +21,13 @@ Mignons_; the king showered favours upon him, giving him the posts of
 colonel-general in the infantry and of admiral of France. Under the
 reign of Henry IV. he made himself practically independent in his
 government of Provence. He was instrumental in giving the regency to
-Marie de' Medici in 1610, and as a result exercised a considerable
-influence upon the government. During his governorship of Guienne in
+[[Marie De' Medici|Marie de' Medici]] in 1610, and as a result exercised a considerable
+influence upon the government. During his governorship of [[Guienne]] in
 1622 he had some scandalous scenes with the parlement and the archbishop
-of Bordeaux. He died in 1642. His eldest son, Henri de Nogaret de la
+of [[Bordeaux]]. He died in 1642. His eldest son, Henri de Nogaret de la
 Valette, duke of Candale, served under Richelieu, in the armies of
 Guienne, of Picardy and of Italy. The second son of Jean Louis de
-Nogaret, Bernard, who was born in 1592, and died in 1661, was, like his
+Nogaret, [[Bernard]], who was born in 1592, and died in 1661, was, like his
 father, duke of Epernon, colonel-general in the infantry and governor of
 Guienne. After his death, the title of duke of Epernon was borne by the
 families of Goth and of Pardaillan.

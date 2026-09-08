@@ -43,14 +43,14 @@ entered the service of Pontius Pilate as page, and during this period
 committed the first two of the crimes which had been expressly foretold.
 Learning the secret of his birth, he, full of remorse, sought the
 prophet who, he had heard, had power on earth to forgive sins. He was
-accepted as a disciple and promoted to a position of trust, where
+accepted as a [[Disciple|disciple]] and promoted to a position of trust, where
 avarice, the only vice in which he had hitherto been unpractised,
 gradually took possession of his soul, and led to the complete
 fulfilment of his evil destiny. This Judas legend, as given by Jacobus
 de Voragine, obtained no small popularity; and it is to be found in
 various shapes in every important literature of Europe.
 
-  For the history of its genesis and its diffusion the reader may
+  For the history of its [[Genesis|genesis]] and its diffusion the reader may
   consult D'Ancona, _La leggenda di Vergogna e la leggenda di Giuda_
   (1869), and papers by W. Creizenach in Paul and Braune's _Beitr. zur
   Gesch. der deutschen Sprache und Litteratur_, vol. ii. (1875), and
@@ -63,9 +63,9 @@ various shapes in every important literature of Europe.
 
   The popular hatred of Judas has found strange symbolical expression in
   various parts of Christendom. In Corfu, for instance, the people at a
-  given signal on Easter Eve throw vast quantities of crockery from
+  given signal on [[Easter]] Eve throw vast quantities of crockery from
   their windows and roofs into the streets, and thus execute an
-  imaginary stoning of Judas (see Kirkwall, _Ionian Islands_, ii. 47).
+  imaginary stoning of Judas (see [[Kirkwall]], _Ionian Islands_, ii. 47).
   At one time (according to Mustoxidi, _Delle cose corciresi_) the
   tradition prevailed that the traitor's house and country villa existed
   in the island, and that his descendants were to be found among the
@@ -74,11 +74,11 @@ various shapes in every important literature of Europe.
   Details in regard to some Judas legends and superstitions are given in
   _Notes and Queries_, 2nd series, v., vi. and vii.; 3rd series, vii.;
   4th series, i.; 5th series, vi. See also a paper by Professor Rendel
-  Harris entitled "Did Judas really commit suicide?" in the _American
-  Journal of Philology_ (July 1900). Matthew Arnold's poem "St Brandan"
+  [[Harris]] entitled "Did Judas really commit suicide?" in the _American
+  Journal of Philology_ (July 1900). [[Matthew]] Arnold's poem "St Brandan"
   gives fine expression to the old story that, on account of an act of
   charity done to a leper at Joppa, Judas was allowed an hour's respite
-  from hell once a year.     (G. Mi.)
+  from [[Hell|hell]] once a year.     (G. Mi.)
 
 
 FOOTNOTE:

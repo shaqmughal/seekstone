@@ -25,7 +25,7 @@ realistic painting of "Christ in the Temple," which was condemned by the
 clergy as irreverent and remained his only attempt at a scriptural
 subject. Henceforth he devoted himself exclusively to the study of
 free-light and to the painting of the life of humble folk. He found his
-best subjects in the orphanages and asylums for the old in Amsterdam,
+best subjects in the orphanages and [[Asylum|asylums]] for the old in Amsterdam,
 among the peasants in the fields and village streets of Holland, and in
 the beer-gardens, factories, and workrooms of his own country. Germany
 was reluctant, however, in admitting the merit of an artist whose style
@@ -45,7 +45,7 @@ Aquarellistes, and of the Cercle des Aquarellistes at the Hague.
 Liebermann is represented in most of the German and other continental
 galleries. The Berlin National Gallery owns "The Flax-Spinners"; the
 Munich Pinakothek, "The Woman with Goats"; the Hamburg Gallery, "The
-Net-Menders"; the Hanover Gallery, the "Village Street in Holland." "The
+Net-Menders"; the [[Hanover]] Gallery, the "Village Street in Holland." "The
 Seamstress" is at the Dresden Gallery; the "Man on the Dunes" at
 Leipzig; "Dutch Orphan Girls" at Strassburg; "Beer-cellar at
 Brandenburg" at the Luxembourg Museum in Paris, and the "Knöpflerinnen"

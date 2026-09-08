@@ -8,7 +8,7 @@ topic: philosophy
 
 HILDEBRAND, LAY OF (_Das Hildebrandslied_), a unique example of Old
 German alliterative poetry, written about the year 800 on the first and
-last pages of a theological manuscript, by two monks of the monastery of
+last pages of a theological [[Manuscript|manuscript]], by two monks of the monastery of
 Fulda. The fragment, or rather fragments, only extend to sixty-eight
 lines, and the conclusion of the poem is wanting. The theory propounded
 by Karl Lachmann, that the poem had been written in its present form
@@ -20,7 +20,7 @@ High German forms; as the High German elements point to the dialect of
 Fulda, the inference is that the copyists were reproducing an originally
 Low German lay in the form in which it was sung in Franconia.
 
-The fragment is mainly taken up with a dialogue between Hildebrand and
+The fragment is mainly taken up with a [[Dialogue|dialogue]] between Hildebrand and
 his son Hadubrand. When Hildebrand followed his master, Theodoric the
 Great, who was fleeing eastwards before Odoacer, he left his young wife
 and an infant child behind him. At his return to his old home, after
@@ -51,7 +51,7 @@ with the national sagas.
   3rd ed. (1892), and in W. Braune, _Althochdeutsches Lesebuch_, 5th ed.
   (1902), to which authorities the reader is referred for a critical
   text. The poem was discovered and first printed (as prose) by J. G.
-  von Eckhart, _Commentarii de rebus Franciae orientalis_ (1729), i. 864
+  von [[Eckhart]], _Commentarii de rebus Franciae orientalis_ (1729), i. 864
   ff.; the first scholarly edition was that of the brothers Grimm
   (1812). Facsimile reproductions of the MS. have been published by W.
   Grimm (1830), E. Sievers (1872), G. Konnecke in his _Bilderatlas_

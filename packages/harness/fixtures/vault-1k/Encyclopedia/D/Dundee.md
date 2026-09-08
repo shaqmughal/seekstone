@@ -130,7 +130,7 @@ Infirmary, a fine structure in the Tudor style. On the southern face of
 Balgay Hill stands the Royal Victoria hospital for incurables, opened in
 1889. In addition to the maternity hospital and nurses' home, there are
 several institutions devoted to special afflictions and diseases--among
-them the Blind and the Deaf and Dumb institutions, the Royal asylum, the
+them the Blind and the Deaf and Dumb institutions, the Royal [[Asylum|asylum]], the
 fever hospital at King's Cross, and, in the parish of Mains--beyond the
 municipal boundary--the Baldovan asylum for imbeciles, founded in 1854
 by Sir John Ogilvy and said to be the earliest of its kind in Scotland,
@@ -148,7 +148,7 @@ lauborius pepill ar in, making of claith." Jute is, _par excellence_,
 the industry of the city. Enormous quantities of the raw
 material--estimated at 300,000 tons a year--are imported directly from
 India in a fleet solely devoted to this trade, and many of the factories
-in Bengal are owned by Dundee merchants. Fabrics in jute range from the
+in [[Bengal]] are owned by Dundee merchants. Fabrics in jute range from the
 roughest sacking to carpets of almost Oriental beauty. Another staple
 industry is the linen manufacture, which is also one of the oldest,
 although it was not till the introduction of steam power that headway
@@ -220,7 +220,7 @@ counter-invasion of their own country. The English seized it again for a
 brief space during one of the 1st earl of Hertford's devastating raids
 in the reign of Edward VI. Dundee bore such a prominent part in
 propagating the Reformed doctrines that it was styled "the Scottish
-Geneva." It saw more trouble at the time of the Civil War, for the
+[[Geneva]]." It saw more trouble at the time of the Civil War, for the
 marquess of Montrose sacked it in 1645, and then gave a considerable
 portion of it to the flames. Charles II. spent a few days in the castle
 after his crowning at Scone (January 1st, 1651). In the same year

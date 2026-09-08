@@ -18,7 +18,7 @@ learnt Arabic, afterwards visiting Arabia Petraea. In 1852 he
 accompanied Dr Reitz, Austrian consul at Khartum, on a journey to
 Abyssinia, and in the next year was appointed Dr Reitz's successor in
 the consulate. While he held this post he travelled in Abyssinia and
-Kordofan, making a valuable collection of natural history specimens. In
+[[Kordofan]], making a valuable collection of natural history specimens. In
 1857 he journeyed through the coast lands of the African side of the Red
 Sea, and along the Somali coast. In 1860 he was chosen leader of an
 expedition to search for Eduard Vogel, his companions including Werner

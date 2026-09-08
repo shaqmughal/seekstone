@@ -8,7 +8,7 @@ tags: [religion, biology]
 
 # Crevier
 
-CREVIER, JEAN BAPTISTE LOUIS (1693-1765), French author, was born at
+CREVIER, JEAN [[Baptiste|BAPTISTE]] LOUIS (1693-1765), French author, was born at
 Paris, where his father was a printer. He studied under Rollin and held
 the professorship of rhetoric in the college of Beauvais for twenty
 years. He completed Rollin's _Histoire romaine_ by the addition of six

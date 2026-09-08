@@ -9,9 +9,9 @@ id: 42-2007
 
 # Ferdinand Iii.
 
-FERDINAND III. (1608-1657), Roman emperor, was the elder son of the
+[[Ferdinand|FERDINAND]] III. (1608-1657), Roman emperor, was the elder son of the
 emperor Ferdinand II., and was born at Gratz on the 13th of July 1608.
-Educated by the Jesuits, he was crowned king of Hungary in December
+Educated by the [[Jesuits]], he was crowned king of Hungary in December
 1625, and king of Bohemia two years later, and soon began to take part
 in imperial business. Wallenstein, however, refused to allow him to hold
 a command in the imperial army; and henceforward reckoned among his
@@ -40,12 +40,12 @@ died on the 2nd of April 1657. Ferdinand was a scholarly and cultured
 man, an excellent linguist and a composer of music. Industrious and
 popular in public life, his private life was blameless; and although a
 strong Roman Catholic he was less fanatical than his father. His first
-wife was Maria Anna (d. 1646), daughter of Philip III. of Spain, by whom
+wife was Maria [[Anna]] (d. 1646), daughter of Philip III. of Spain, by whom
 he had three sons: Ferdinand, who was chosen king of the Romans in
-1653, and who died in the following year; Leopold, who succeeded his
+1653, and who died in the following year; [[Leopold]], who succeeded his
 father on the imperial throne; and Charles Joseph (d. 1664), bishop of
 Passau and Breslau, and grand-master of the Teutonic order. The
-emperor's second wife was his cousin Maria (d. 1649), daughter of the
+emperor's second wife was his [[Cousin|cousin]] Maria (d. 1649), daughter of the
 archduke Leopold; and his third wife was Eleanora of Mantua (d. 1686).
 His musical works, together with those of the emperors Leopold I. and
 Joseph I., have been published by G. Adler (Vienna, 1892-1893).

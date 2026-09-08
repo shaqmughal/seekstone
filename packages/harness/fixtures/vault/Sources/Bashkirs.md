@@ -18,7 +18,7 @@ mentions the Bashkirs as a warlike and idolatrous race. The name was not
 used by the people themselves in the 10th century, but is a mere nickname.
 
 Of European writers, the first to mention the Bashkirs are Joannes de Plano
-Carpini (_c._ 1200-1260) and William of Rubruquis (1220-1293). These
+[[Carpini]] (_c._ 1200-1260) and William of Rubruquis (1220-1293). These
 travellers, who fell in with them in the upper parts of the river Ural,
 call them Pascatir, and assert that they spoke at that time the same
 language as the Hungarians. Till the arrival of the Mongolians, about the
@@ -44,9 +44,9 @@ rearing of cattle; and they attend to that in a very negligent manner, not
 collecting a sufficient store of winter fodder for all their herds, but
 allowing part of them to perish. The Bashkirs are usually very poor, and in
 winter live partly on a kind of gruel called _yûryu_, and badly prepared
-cheese named _skûrt_. They are hospitable but suspicious, apt to plunder
+[[Cheese|cheese]] named _skûrt_. They are hospitable but suspicious, apt to plunder
 and to the last degree lazy. They have large heads, black hair, eyes narrow
-and flat, small foreheads, ears always sticking out and a swarthy skin. In
+and flat, small foreheads, [[Ear|ears]] always sticking out and a swarthy skin. In
 general, they are strong and muscular, and able to endure all kinds of
 labour and privation. They profess Mahommedanism, but know little of its
 doctrines. Their intellectual development is low.
@@ -55,7 +55,7 @@ See J. P. Carpini, _Liber Tartarorum_, edited under the title _Relations
 des Mongols ou Tartares_, by d'Avezac (Paris, 1838); Gulielmus de
 Rubruquis, _The Journey of William of Rubruck to the Eastern Parts of the
 World_, translated by W. W. Rockhill (London, 1900); Semenoff, _Slovar
-Ross. Imp._, s.v.; Frahn, "De Baskiris," in _Mém. de l'Acad. de
+Ross. Imp._, s.v.; [[Frahn]], "De Baskiris," in _Mém. de l'Acad. de
 St-Pétersbourg_ (1822); Florinsky, in _Westnik Evropi_ (1874); and
 Katarinskij, _Dictionnaire Bashkir-Russe_ (1900).
 

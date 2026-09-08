@@ -10,7 +10,7 @@ to flee to Piedmont. Here he unsuccessfully applied for a situation as
 communal secretary of Verolengo, and eked out a penurious existence by
 journalism. Implicated in the Mazzinian conspiracy at Milan (February 6,
 1853), he was expelled from Piedmont, and obliged to take refuge at
-Malta, whence he fled to Paris. Expelled from France, he joined Mazzini
+Malta, whence he fled to Paris. Expelled from France, he joined [[Mazzini]]
 in London, and continued to conspire for the redemption of Italy. On the
 15th of June 1859 he returned to Italy after publishing a letter
 repudiating the aggrandizement of Piedmont, and proclaiming himself a
@@ -18,17 +18,17 @@ republican and a partisan of national unity. Twice in that year he went
 the round of the Sicilian cities in disguise, and prepared the
 insurrectionary movement of 1860.
 
-Upon his return to Genoa he organized, with Bertani, Bixio, Medici and
-Garibaldi, the expedition of the Thousand, and overcoming by a stratagem
+Upon his return to Genoa he organized, with Bertani, [[Bixio]], Medici and
+[[Garibaldi]], the expedition of the Thousand, and overcoming by a stratagem
 the hesitation of Garibaldi, secured the departure of the expedition on
 the 5th of May 1860. Disembarking at Marsala on the 11th, Crispi on the
 13th, at Salemi, drew up the proclamation whereby Garibaldi assumed the
-dictatorship of Sicily, with the programme: "Italy and Victor Emmanuel."
+dictatorship of Sicily, with the programme: "Italy and Victor [[Emmanuel]]."
 After the fall of Palermo, Crispi was appointed minister of the interior
 and of finance in the Sicilian provisional government, but was shortly
 afterwards obliged to resign on account of the struggle between
 Garibaldi and the emissaries of Cavour with regard to the question of
-immediate annexation. Appointed secretary to Garibaldi, Crispi secured
+immediate [[Annexation|annexation]]. Appointed secretary to Garibaldi, Crispi secured
 the resignation of Depretis, whom Garibaldi had appointed pro-dictator,
 and would have continued his fierce opposition to Cavour at Naples,
 where he had been placed by Garibaldi in the foreign office, had not the
@@ -48,13 +48,13 @@ he carried on the violent agitation known as the Lobbia affair, in which
 sundry conservative deputies were, on insufficient grounds, accused of
 corruption. On the outbreak of the Franco-German War he worked
 energetically to impede the projected alliance with France, and to drive
-the Lanza cabinet to Rome. The death of Ratazzi in 1873 induced Crispi's
+the [[Lanza]] cabinet to Rome. The death of Ratazzi in 1873 induced Crispi's
 friends to put forward his candidature to the leadership of the Left;
 but Crispi, anxious to reassure the crown, secured the election of
 Depretis. After the advent of the Left he was elected (November 1876)
 president of the chamber. During the autumn of 1877 he went to London,
 Paris and Berlin on a confidential mission, establishing cordial
-personal relationships with Gladstone, Granville and other English
+personal relationships with Gladstone, [[Granville]] and other English
 statesmen, and with Bismarck.
 
 In December 1877 he replaced Nicotera as minister of the interior in the
@@ -88,20 +88,20 @@ assumed a resolute attitude towards France, breaking off the prolonged
 and unfruitful negotiations for a new Franco-Italian commercial treaty,
 and refusing the French invitation to organize an Italian section at the
 Paris Exhibition of 1889. At home Crispi secured the adoption of the
-Sanitary and Commercial Codes, and reformed the administration of
+Sanitary and Commercial [[Code|Codes]], and reformed the administration of
 justice. Forsaken by his Radical friends, Crispi governed with the help
 of the Right until, on the 31st of January 1891, an intemperate allusion
 to the _sante memorie_ of the conservative party led to his overthrow.
-In December 1893 the impotence of the Giolitti cabinet to restore public
+In December 1893 the [[Impotence|impotence]] of the Giolitti cabinet to restore public
 order, then menaced by disturbances in Sicily and in Lunigiana, gave
 rise to a general demand that Crispi should return to power. Upon
 resuming office he vigorously suppressed the disorders, and steadily
 supported the energetic remedies adopted by Sonnino, minister of
-finance, to save Italian credit, which had been severely shaken by the
+finance, to save Italian [[Credit|credit]], which had been severely shaken by the
 bank and financial crises of 1892-1893. Crispi's uncompromising
 suppression of disorder, and his refusal to abandon either the Triple
 Alliance or the Eritrean colony, or to forsake his colleague Sonnino,
-caused a breach between him and the radical leader Cavallotti.
+caused a [[Breach|breach]] between him and the radical leader Cavallotti.
 Cavallotti then began against him a pitiless campaign of defamation. An
 unsuccessful attempt upon Crispi's life by the anarchist Lega brought a
 momentary truce, but Cavallotti's attacks were soon renewed more
@@ -110,7 +110,7 @@ election of 1895 gave Crispi a huge majority, but, a year later, the
 defeat of the Italian army at Adowa in Abyssinia brought about his
 resignation. The ensuing Rudini cabinet lent itself to Cavallotti's
 campaign, and at the end of 1897 the judicial authorities applied to the
-chamber for permission to prosecute Crispi for embezzlement. A
+chamber for permission to prosecute Crispi for [[Embezzlement|embezzlement]]. A
 parliamentary commission, appointed to inquire into the charges against
 him, discovered only that Crispi, on assuming office in 1893, had found
 the secret service coffers empty, and had borrowed from a state bank
@@ -138,7 +138,7 @@ If in regard to France his policy appeared to lack suavity and
 circumspection, it must be remembered that the French republic was then
 engaged in active anti-Italian schemes and was working, both at the
 Vatican and in the sphere of colonial politics, to create a situation
-that should compel Italy to bow to French exigencies and to abandon the
+that should compel Italy to [[Bow|bow]] to French exigencies and to abandon the
 Triple Alliance. Crispi was prepared to cultivate good relations with
 France, but refused to yield to pressure or to submit to dictation; and
 in this attitude he was firmly supported by the bulk of his

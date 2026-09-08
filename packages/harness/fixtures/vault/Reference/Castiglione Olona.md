@@ -1,10 +1,10 @@
 # Castiglione Olona
 
-CASTIGLIONE OLONA, a town of Lombardy, Italy, in the province of Como,
-27 m. N.E. of Milan by rail. Pop. (1901) 1806. The choir of the
+CASTIGLIONE OLONA, a town of Lombardy, Italy, in the province of [[Como]],
+27 m. N.E. of Milan by rail. Pop. (1901) 1806. The [[Choir|choir]] of the
 collegiate church, erected about 1428 by Cardinal Branda Castiglione,
 contains fine frescoes by Masolino of Florence: there are other works by
-the same master in the baptistery. The tomb of the cardinal (1443) is
+the same master in the [[Baptistery|baptistery]]. The tomb of the cardinal (1443) is
 good. The church of S. Sepolcro, in the lower part of the town, has two
 large stone figures of saints on its façade (of the end of the 13th
 century) and, within, painted wooden figures and the tomb of Guido

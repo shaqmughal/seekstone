@@ -11,7 +11,7 @@ similar to that worn in the district generally; the linen trousers are
 long and black gaiters are worn. The women wear a white chemise; over
 that a very small corselet, and over that a red jacket with blue and
 black velvet facings. The skirt is brown above and red below, with a
-blue band between the two colours; it is accordion-pleated. Two
+blue band between the two [[Colours|colours]]; it is accordion-pleated. Two
 identical skirts are often worn, one above the other. The unmarried
 girls wear white kerchiefs, the married women black. A little to the N.
 of Fonni, by the high-road, stood the Roman station of Sorabile,

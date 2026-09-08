@@ -7,22 +7,22 @@ topic: genealogy-studies
 # Bahrein Islands
 
 BAHREIN ISLANDS, a group of islands situated about 20 m. east of the coast
-of El Hasa, in the Persian Gulf, a little to the south of the port of El
-Katif, which, if rightly identified with the ancient Gerrha, has been
+of El [[Hasa]], in the Persian Gulf, a little to the south of the port of El
+Katif, which, if rightly identified with the ancient [[Gerrha]], has been
 celebrated throughout history as the mart of Indian trade, the
-starting-point of caravans across Arabia. The largest of the group is
+starting-point of [[Caravan|caravans]] across Arabia. The largest of the group is
 called Bahrein. It is about 27 m. long from north to south and about 10
 wide--a low flat space of sandy waste with cultivated oases and palm groves
-of great luxuriance and beauty. The rocky hill of Jebel Dukhan (the
+of great luxuriance and beauty. The rocky hill of [[Jebel]] Dukhan (the
 "mountain of the mist") rises in the midst of it to a height of 400 ft. The
-rest of the group are of coral formation. The next island in size to
+rest of the group are of [[Coral|coral]] formation. The next island in size to
 Bahrein is Moharek, curved in shape, and about 5 m. long by ½ m. in
 breadth. It lies 1 m. to the north of Bahrein. Sitrah (4 m. long) Nebbi,
 Saleh, Sayeh, Khasifeh and Arad (¾ m. long) complete the group. Of these
 minor islands Arad alone retains its classical name.
 
 The climate is mild, but humid, and rather unhealthy. The soil is for the
-most part fertile, and produces rice, pot herbs and fruits, of which the
+most part fertile, and produces rice, pot [[Herb|herbs]] and fruits, of which the
 citrons are especially good. Water is abundant. Fish of all kinds abound
 off the coast, and are very cheap in the markets. The inhabitants are a
 mixed race of Arab, Omanite and Persian blood, slender and small in their
@@ -31,11 +31,11 @@ known in all the ports of the Persian Gulf for their commercial and
 industrial ability.
 
 The sea around the Bahrein islands is shallow, so shallow as to admit only
-of the approach of native craft, and the harbour is closely shut in by
+of the approach of native [[Craft|craft]], and the harbour is closely shut in by
 reefs. There is very little doubt that it was from these islands that the
 Puni, or Phoenicians, emigrated northwards to the Mediterranean. Bahrein
 has always been the centre of the pearl fishing industry of the Persian
-Gulf. There are about 400 boats now employed in the pearl fisheries, each
+Gulf. There are about 400 boats now employed in the pearl [[Fisheries|fisheries]], each
 of them paying a tax to the Sheik. The pearl export from Linja is valued at
 about £30,000 to £35,000 per annum.
 
@@ -54,7 +54,7 @@ beauty. Most of these villages are walled in for protection.
 
 The Portuguese obtained possession of the islands in 1507, but were driven
 from their settlements in that quarter by Shah Abbas in 1622. The islands
-afterwards became an object of contention between the Persians and Arabs,
+afterwards became an object of contention between the Persians and [[Arabs]],
 and at last the Arabian tribe of the Athubis made themselves masters of
 them in 1784.
 
@@ -71,8 +71,8 @@ inland from the northern coast of Bahrein, is a wide space of open sandy
 plain filled with gigantic tumuli or earth mounds, of which the outer
 layers of gravel and clay have been hardened by the weather action of
 centuries to the consistency of conglomerate. Within these mounds are
-two-chambered sepulchres, built of huge slabs of limestone, several of
-which have been opened and examined by Durand, Bent and others, and found
+two-chambered sepulchres, built of huge slabs of [[Limestone|limestone]], several of
+which have been opened and examined by [[Durand]], Bent and others, and found
 to contain relics of undoubted Phoenician design. Scattered here and there
 throughout the islands are isolated mounds, or smaller groups, all of which
 are of the same appearance, and probably of similar origin.

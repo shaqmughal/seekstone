@@ -1,6 +1,6 @@
 # Antigua
 
-ANTIGUA, an island in the British West Indies, forming, with Barbuda and
+ANTIGUA, an island in the British West Indies, forming, with [[Barbuda]] and
 Redonda, one of the five presidencies in the colony of the Leeward
 Islands. It lies 50 m. E. of St Kitts, in 17 deg. 6' N. and 61 deg. 45'
 W., and is 54 m. in circumference, with an area of 108 sq. m. The

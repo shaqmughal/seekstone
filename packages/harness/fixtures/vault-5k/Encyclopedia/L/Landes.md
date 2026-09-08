@@ -10,7 +10,7 @@ type: source
 LANDES, a department in the south-west of France, formed in 1790 of
 portions of the ancient provinces of Guyenne (Landes, Condomios
 Chalosse), Gascony and Béarn, and bounded N. by Gironde, E. by
-Lot-et-Garonne and Gers, S. by Basses Pyrenées, and W. (for 68 m.) by
+Lot-et-Garonne and [[Gers]], S. by Basses Pyrenées, and W. (for 68 m.) by
 the Bay of Biscay. Pop. (1906) 293,397. Its area, 3615 sq. m., is second
 only to that of the department of Gironde. The department takes its name
 from the _Landes_, which occupy three-quarters of its surface, or
@@ -33,7 +33,7 @@ The fertility of La Chalosse is counterbalanced by the comparative
 poorness of the soil of the Landes, and small though the population is,
 the department does not produce wheat enough for its own consumption.
 The chief cereal is maize; next in importance are rye, wheat and millet.
-Of vegetables, the bean is most cultivated. The vine is grown in the
+Of vegetables, the [[Bean|bean]] is most cultivated. The vine is grown in the
 Chalosse, sheep are numerous, and the "Landes" breed of horses is well
 known. Forests, chiefly composed of pines, occupy more than half the
 department, and their exploitation forms the chief industry. The resin
@@ -42,21 +42,21 @@ and from the residue are obtained various qualities of resin, which
 serve to make varnish, tapers, sealing-wax and lubricants. Tar, and an
 excellent charcoal for smelting purposes, are also obtained from the
 pine-wood. The department has several mineral springs, the most
-important being those of Dax, which were frequented in the time of the
+important being those of [[Dax]], which were frequented in the time of the
 Romans, and of Eugénie-les-Bains and Préchacq. The cultivation of the
 cork tree is also important. There are salt-workings and stone quarries.
 There are several iron-works in the department; those at Le Boucau, at
 the mouth of the Adour, are the most important. There are also
-saw-mills, distilleries, flour-mills, brick and tile works and
+saw-mills, distilleries, flour-mills, [[Brick|brick]] and tile works and
 potteries. Exports include resinous products, pine-timber, metal,
-brandy; leading imports are grain, coal, iron, millinery and furniture.
+[[Brandy|brandy]]; leading imports are grain, coal, iron, millinery and furniture.
 In its long extent of coast the department has no considerable port.
 Opposite Cape Breton, however, where the Adour formerly entered the sea,
 there is, close to land, a deep channel where there is safe anchorage.
 It was from this once important harbour of Capbreton that the
 discoverers of the Canadian island of that name set out. Landes includes
 three arrondissements (Mont-de-Marsan, Dax and St Sever), 28 cantons and
-334 communes.
+334 [[Commune|communes]].
 
 Mont-de-Marsan is the capital of the department, which comes within the
 circumscription of the appeal court of Pau, the académie (educational

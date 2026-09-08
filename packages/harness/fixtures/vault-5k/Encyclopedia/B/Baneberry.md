@@ -7,19 +7,19 @@ type: reference
 
 # Baneberry
 
-BANEBERRY, or HERB CHRISTOPHER, popular names for _Actaea spicata_ (nat.
-ord. _Ranunculaceae_), a poisonous herb with long-stalked compound leaves,
-small white flowers and black berries, found wild in copses in limestone
+BANEBERRY, or [[Herb|HERB]] CHRISTOPHER, popular names for _Actaea spicata_ (nat.
+ord. _Ranunculaceae_), a poisonous herb with long-stalked [[Compound|compound]] leaves,
+small white flowers and black berries, found wild in copses in [[Limestone|limestone]]
 districts in the north of England. It is widely distributed in the north
 temperate zone.
 
-BANÉR (BANNER, BANIER), JOHAN (1596-1641), Swedish soldier in the Thirty
+[[Ban|BAN]]ÉR (BANNER, BANIER), JOHAN (1596-1641), Swedish soldier in the Thirty
 Years' War, was born at Djursholm Castle on the 23rd of June 1596. Entering
 the Swedish army, he served with distinction in the wars with Russia and
 Poland, and had reached high rank when, in 1630, Gustavus Adolphus landed
 in Germany. As one of the king's chief subordinates, Banér served in the
 campaign of north Germany, and at the first battle of Breitenfeld he led
-the right wing of Swedish horse. He was present at the taking of Augsburg
+the right wing of Swedish horse. He was present at the taking of [[Augsburg]]
 and of Munich, and rendered conspicuous service at the Lech and at
 Donauwörth. At the unsuccessful assault on Wallenstein's camp at the Alte
 Veste Banér received a wound, and, soon afterwards, when Gustavus marched

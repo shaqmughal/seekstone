@@ -30,7 +30,7 @@ active part in the establishment of the July monarchy, was appointed a
 councillor of state (1830), and in 1837 was made a peer of France. After
 the _coup d'état_ of 1851 he retired from public life. Among his
 publications were _Contes et Idylles_ (1791); _Lysus et Cydippe_, a poem
-(1801); _Inductions morales et physiologiques_ (1817); _Documents pour
+(1801); _[[Induction|Inductions]] morales et physiologiques_ (1817); _Documents pour
 servir à l'histoire de France_ (1820); _Du Beau dans les arts
 d'imitation_ (1822); _Le Dernier des Beaumanoir_ (1824). His last work,
 _Clarisse_ (1854), a novel, was written when he was eighty-five. He died

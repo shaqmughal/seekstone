@@ -42,7 +42,7 @@ and the rivers flowing to the Indian Ocean.
   have their rise S. and W. of the Ganale and is of similar character to
   that river. It has few feeders and none of any size. The descent to
   the open country is somewhat abrupt. In its middle course the Daua has
-  cut a deep narrow valley through the plain; lower down it bends N.E.
+  cut a deep narrow valley through the plain; lower down it [[Bend|bends]] N.E.
   to its junction with the Ganale. The river is not deep and can be
   forded in many places; the banks are fringed with thick bush and
   dom-palms. At the junction of the Ganale and the Web the river is
@@ -58,16 +58,16 @@ and the rivers flowing to the Indian Ocean.
   stream, in 2° 20´ N., a crossing-place for caravans. Beyond 1° 45´ N.
   the country becomes more level and the course of the river very
   tortuous. On the west a series of small lakes and backwaters receives
-  water from the Juba during the rains. Just south of the equator
+  water from the Juba during the rains. Just south of the [[Equator|equator]]
   channels from the long, branching Lake Deshekwama or Hardinge, fed by
   the Lakdera river, enter from the west, and in 0° 15´ S. the Juba
-  enters the sea across a dangerous bar, which has only one fathom of
+  enters the sea across a dangerous bar, which has only one [[Fathom|fathom]] of
   water at high tide.
 
 From its mouth to 20 m. above Bardera, where at 2° 35´ N. rapids occur,
 the Juba is navigable by shallow-draught steamers, having a general
 depth of from 4 to 12 ft., though shallower in places. Just above its
-mouth it is a fine stream 250 yds. wide, with a current of 2½ knots.
+mouth it is a fine stream 250 yds. wide, with a current of 2½ [[Knot|knots]].
 Below the mountainous region of the headstreams the Juba and its
 tributaries flow through a country generally arid away from the banks of
 the streams. The soil is sandy, covered either with thorn-scrub or rank
@@ -90,8 +90,8 @@ navy, while in 1892-1893 its headstreams were explored by the Italian
 officers, Captains Vittorio, Bottego and Grixoni, the former of whom
 disproved the supposed connexion of the Omo (see RUDOLF, LAKE) with the
 Juba system. It has since been further explored by Prince Eugenio
-Ruspoli, by Bottego's second expedition (1895), by Donaldson Smith, A.
-E. Butter, Captain P. Maud of the British army, and others. The river,
+Ruspoli, by Bottego's second expedition (1895), by [[Donaldson]] Smith, A.
+E. [[Butter]], Captain P. Maud of the British army, and others. The river,
 from its mouth to the confluence of the Daua and Ganale, forms the
 frontier between the British East Africa protectorate and Italian
 Somaliland; and from that point to about 4° 20´ N. the Daua is the

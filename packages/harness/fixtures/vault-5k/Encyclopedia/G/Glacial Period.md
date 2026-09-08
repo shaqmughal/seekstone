@@ -31,9 +31,9 @@ scratched stones.
 The result of these efforts was the conception of great ice-sheets
 flowing over the land, grinding the rock surfaces and transporting rock
 debris in the manner to be observed in the existing glaciers. However,
-before this view had become established Sir C. Lyell evolved the "drift
+before this view had become established Sir C. Lyell evolved the "[[Drift|drift]]
 theory" to explain the widely spread phenomenon of transported blocks,
-boulder clay and the allied deposits; in this he was supported by Sir H.
+[[Boulder Clay|boulder clay]] and the allied deposits; in this he was supported by Sir H.
 de la Beche, Charles Darwin, Sir R. I. Murchison and many others.
 According to the drift theory, the transport and distribution of
 "erratic blocks," &c., had been effected by floating icebergs; this view
@@ -47,16 +47,16 @@ in one or more great submergences during the Glacial period is still
 held more firmly by certain geologists than the evidence would seem to
 warrant. The case against the drift theory was most clearly expressed by
 Sir A. C. Ramsay for England and Scotland, and by the Swedish scientist
-Otto Torell. Since then the labours of Professor James Geikie, Sir
+Otto Torell. Since then the labours of Professor James [[Geikie]], Sir
 Archibald Geikie, Professor P. Kendall and others in England; von
-Verendt, H. Credner, de Geer, E. Geinitz, A. Helland, Jentzsch, K.
+Verendt, H. [[Credner]], de Geer, E. [[Geinitz]], A. Helland, Jentzsch, K.
 Keilhack, A. Penck, H. Schroder, F. Wahnschaffe in Scandinavia and
 Germany; T. C. Chamberlin, W. Upham, G. F. Wright in North America, have
 all tended to confirm the view that it is to the movement of glaciers
 and ice-sheets that we must look as the predominant agent of transport
 and abrasion in this period. The three stages through which our
 knowledge of glacial work has advanced may thus be summarized: (1) the
-diluvial hypothesis, deposits formed by floods; (2) the drift
+diluvial [[Hypothesis|hypothesis]], deposits formed by floods; (2) the drift
 hypothesis, deposits formed mainly by icebergs and floating ice; (3) the
 ice-sheet hypothesis, deposits formed directly or indirectly through the
 agency of flowing ice.
@@ -88,11 +88,11 @@ side (_Leeseite_) steep, abrupt and much less smooth. Such features are
 never associated with the erosion of water. The rounding of rock
 surfaces is regularly accompanied by grooving and striation (German
 _Schrammen, Schliffe_) caused by the grinding action of stones and
-boulders embedded in the moving ice. These "glacial striae" are of great
+[[Boulder|boulders]] embedded in the moving ice. These "glacial striae" are of great
 value in determining the latest path of the vanished ice-sheets (see
 map). Several other erosion-features are generally associated with ice
-action; such are the circular-headed valleys, "cirques" or "corries"
-(German _Zirkus_) of mountain districts; the pot-holes, giants' kettles
+action; such are the circular-headed valleys, "cirques" or "[[Corrie|corries]]"
+(German _Zirkus_) of mountain districts; the pot-holes, giants' [[Kettle|kettles]]
 (_Strudellocher_, _Riesentopfe_), familiarly exemplified in the
 Gletschergarten near Lucerne; the "rock-basins" (_Felsseebecken_) of
 mountainous regions are also believed to be assignable to this cause on
@@ -101,8 +101,8 @@ it is more than probable that the action of running water (waterfalls,
 &c.)--influenced no doubt by the disposition of the ice--has had much
 to do with these forms of erosion. As regards rock-basins, geologists
 are still divided in opinion: Sir A. C. Ramsay, J. Geikie, Tyndall,
-Helland, H. Hess, A. Penck, and others have expressed themselves in
-favour of a glacial origin; while A. Heim, F. Stapff, T. Kjerulf, L.
+Helland, H. [[Hess]], A. Penck, and others have expressed themselves in
+favour of a glacial origin; while A. Heim, F. Stapff, T. [[Kjerulf]], L.
 Rutimeyer and many others have strongly opposed this view.
 
 2. Glacial deposits may be roughly classified in two groups: those that
@@ -140,7 +140,7 @@ When we turn to the "fluvio-glacial" deposits we find a bewildering
 variety of stratified and partially bedded deposits of gravel, sand and
 clay, occurring separately or in every conceivable condition of
 association. Some of these deposits have received distinctive names;
-such are the "Kames" of Scotland, which are represented in Ireland by
+such are the "[[Kame|Kames]]" of Scotland, which are represented in Ireland by
 "Eskers," and in Scandinavia by "Asar." Another type of hillocky deposit
 is exemplified by the "drums" or "drumlins." Everywhere beyond the
 margin of the advancing or retreating ice-sheets these deposits were
@@ -162,16 +162,16 @@ ordinary weathering, were removed from vast areas to be deposited and
 concentrated in others. Old valleys were filled--often to a great depth,
 300-400 ft.; rivers were diverted from their old courses, never to
 return; lakes of vast size were caused by the damming of old outlets
-(Lake Lahontan, Lake Agassiz, &c., in North America), while an infinite
+(Lake Lahontan, Lake Agassiz, &c., in North America), while an [[Infinite|infinite]]
 number of shifting lakelets--with their deposits--played an important
 part along the ice-front at all stages of its career. The influence of
 this period upon the present distribution of plant and animal life in
-northern latitudes can hardly be overestimated.
+northern [[Latitude|latitudes]] can hardly be overestimated.
 
 Much stress has been laid upon supposed great changes in the level of
 the land in northern regions during the Glacial period. The occurrence
 of marine shells at an elevation of 1350 ft. at Moel Tryfaen in north
-Wales, and at 1200 ft. near Macclesfield in Cheshire, has been cited as
+Wales, and at 1200 ft. near [[Macclesfield]] in Cheshire, has been cited as
 evidence of profound submergence by some geologists, though others see
 in these and similar occurrences only the transporting action of
 ice-sheets that have traversed the floor of the adjoining seas. Marine
@@ -179,13 +179,13 @@ shells in stratified materials have been found on the coast of Scotland
 at 100 ft. and over, in S. Scandinavia at 600 to 800 ft., and in the
 "Champlain" deposits of North America at various heights. The dead
 shells of the "Yoldia clay" cover wide areas at the bottom of the North
-Atlantic at depths from 500 to 1300 fathoms, though the same mollusc is
-now found living in Arctic seas at the depth of 5 to 15 fathoms. This
+Atlantic at depths from 500 to 1300 [[Fathom|fathoms]], though the same mollusc is
+now found living in [[Arctic]] seas at the depth of 5 to 15 fathoms. This
 has been looked upon as a proof that in the N.W. European region the
-lithosphere stood about 2600 ft. higher than it does now (Brogger,
+[[Lithosphere|lithosphere]] stood about 2600 ft. higher than it does now (Brogger,
 Nansen, &c.), and it has been suggested that a union of the mainland of
 Europe with that of North America--forming a northern continental mass,
-"Prosarctis"--may have been achieved by way of Iceland, Jan Mayen Land
+"Prosarctis"--may have been achieved by way of [[Iceland]], Jan Mayen Land
 and Greenland. The pre-glacial valleys and fjords of Norway and
 Scotland, with their deeply submerged seaward ends, are regarded as
 proofs of former elevation. The great depth of alluvium in some places
@@ -225,7 +225,7 @@ earth's eccentricity at its maximum and winter in the north at aphelion,
 there would be a tendency in northern latitudes for the accumulation of
 snow and ice, which would be accentuated indirectly by the formation of
 fogs and a modification of the trade winds. The shifting of the thermal
-equator, and with it the direction of the trade winds, would divert some
+[[Equator|equator]], and with it the direction of the trade winds, would divert some
 of the warm ocean currents from the cold regions, and this effect was
 greatly enhanced, he considered, by the configuration of the Atlantic
 Ocean. Croll's hypothesis was supported by Sir R. Ball (_The Cause of
@@ -251,14 +251,14 @@ hypotheses have been advanced to explain the glacial period as the
 result of changes in the atmosphere; F. W. Harmer ("The Influence of
 Winds upon the Climate during the Pleistocene Epoch," _Q.J.G.S._, 1901,
 57, p. 405) has shown the importance of the influence of winds in
-certain circumstances; Marsden Manson ("The Evolution of Climate,"
+certain circumstances; Marsden [[Manson]] ("The Evolution of Climate,"
 _American Geologist_, 1899, 24, p. 93) has laid stress upon the
 influence of clouds; but neither of these theories grapples successfully
 with the fundamental difficulties. Others again have requisitioned the
-variability in the amount of the carbon dioxide in the
+variability in the amount of the [[Carbon|carbon]] dioxide in the
 atmosphere--hypotheses which depend upon the efficiency of this gas as a
 thermal absorbent. The supply of carbon dioxide may be increased from
-time to time, as by the emanations from volcanoes (S. Arrhenius and A.
+time to time, as by the emanations from volcanoes (S. [[Arrhenius]] and A.
 G. Hogbom), or it may be decreased by absorption into sea-water, and by
 the carbonation of rocks. Professor T. C. Chamberlin based a theory of
 glaciation on the depletion of the carbon dioxide of the air ("An
@@ -290,7 +290,7 @@ interpretation of observed facts, particularly as regards the
 substantiality of interglacial epochs, the very foundations of a sound
 working hypothesis are wanting.
 
-_Classification of Glacial Deposits--Interglacial Epochs._--Had the
+_[[Classification]] of Glacial Deposits--Interglacial Epochs._--Had the
 deposits of glaciated regions consisted solely of boulder clay little
 difficulty might have been experienced in dealing with their
 classification. But there are intercalated in the boulder clays those
@@ -317,7 +317,7 @@ are themselves covered by younger glacial deposits.
   temperature. These are enumerated below:
 
   6th Glacial epoch, Upper Turbarian, indicated by the deposits of peat
-  which underlie the lower raised beaches.
+  which underlie the lower raised [[Beach|beaches]].
 
   5th _Interglacial epoch, Upper Forestian_.
 
@@ -370,7 +370,7 @@ are themselves covered by younger glacial deposits.
     The Iowan (4th glacial).
     _The Sangamon (3rd interglacial)._
     The Illinoian (3rd glacial).
-    _The Yarmouth or Buchanan (2nd interglacial)._
+    _The Yarmouth or [[Buchanan]] (2nd interglacial)._
     The Kansan (2nd glacial).
     _The Aftonian (1st interglacial)._
     The sub-Aftonian or Jerseyan (1st glacial).
@@ -431,9 +431,9 @@ are themselves covered by younger glacial deposits.
   this centre the ice spread out far into Germany and Russia and
   westward, across the North Sea, to the shores of Britain. The southern
   boundary of the ice extended from the estuary of the Rhine in an
-  irregular series of lobes along the Schiefergebirge, Harz,
+  irregular series of [[Lobe|lobes]] along the Schiefergebirge, Harz,
   Thuringerwald, Erzgebirge and Riesengebirge, and the northern flanks
-  of the Carpathians towards Cracow. Down the valley of the Dnieper a
+  of the Carpathians towards Cracow. Down the valley of the [[Dnieper]] a
   lobe of the ice-sheet projected as far as 40 deg. 50' N.; another lobe
   extended down the Don valley as far as 48 deg. N.; thence the boundary
   runs north-easterly towards the Urals and the Kara Sea. The British
@@ -446,7 +446,7 @@ are themselves covered by younger glacial deposits.
   maximum glaciation, the ice-covered area was enormously in excess of
   the shrivelled remnants, which still remain in the existing glaciers.
   All the valleys were filled with moving ice; thus the Rhone glacier at
-  its maximum filled Lake Geneva and the plain between the Bernese
+  its maximum filled [[Lake Geneva]] and the plain between the Bernese
   Oberland and the Jura; it even overrode the latter and advanced
   towards Besancon. Extensive glaciation was not limited to the
   aforesaid regions, for all the areas of high ground had their
@@ -475,7 +475,7 @@ are themselves covered by younger glacial deposits.
   America, New Zealand, Australia and Tasmania glaciers reached down the
   valleys far below the existing limits, and even where none are now to
   be found. In Asia the evidences of a former extension of glaciation
-  are traceable in the Himalayas, and northward in the high ranges of
+  are traceable in the [[Himalaya|Himalayas]], and northward in the high ranges of
   China and Eastern Siberia. The same is true of parts of Turkestan and
   Lebanon. In Africa also, in British East Africa moraines are
   discovered 5400 ft. below their modern limit. In Iceland and
@@ -521,7 +521,7 @@ are themselves covered by younger glacial deposits.
   1903); Chamberlin and Salisbury, _Geology_, vol. iii. (1906). As an
   example of glacial theories carried beyond the usual limits, see M.
   Gugenhan, _Die Ergletscherung der Erde von Pol zu Pol_ (Berlin, 1906).
-  See also _Zeitschrift fur Gletscherkunde_ (Berlin, 1906 and onwards
+  See also _Zeitschrift [[Fur|fur]] Gletscherkunde_ (Berlin, 1906 and onwards
   quarterly); Sir H. H. Howorth (opposing accepted glacial theories),
   _The Glacial Nightmare and the Flood_, i., ii. (London, 1893), _Ice
   and Water_, i., ii. (London, 1905), _The Mammoth and the Flood_

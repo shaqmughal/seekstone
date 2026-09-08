@@ -16,7 +16,7 @@ the Palatine Hill, the great Thermae (Baths) and other monuments. In the
 civil basilicas the apse was screened off by columns, and constituted
 the court of justice. In the Ulpian (Trajan's) Basilica the apses at
 each end were of such great dimensions as to come better under the
-definition of hemicycles (q.v.). In these apses the floor was raised,
+[[Definition|definition]] of hemicycles (q.v.). In these apses the floor was raised,
 and had an altar placed in the centre of its chord, where sacrifices
 were made prior to the sittings. The only other two Roman basilicas in
 which the semicircular apse can still be traced are that commenced by
@@ -36,7 +36,7 @@ in the liturgy, two more apses were added, one on each side of the
 central apse. These in the Greek Church were provided not to hold altars
 but for ceremonial purposes. One of the earliest examples is found in
 the church of St Nicholas at Myra of the 6th century, and the basilica
-erected in the great court of the temple at Baalbek shows the triple
+erected in the great court of the temple at [[Baalbek]] shows the triple
 apse. The earliest example in Rome is found in the church of Sta Maria
 in Cosmedin (772-795), built probably by Greek craftsmen, who had been
 exiled by the Iconoclasts. Other triapsal choirs are found in the
@@ -89,7 +89,7 @@ probably in the 5th century, apses of similar dimensions to the eastern
 apse were built at the north and south end of the transept. The same
 disposition is found in the Coptic churches of the Red and White
 Monasteries just referred to, in the church of St Elias at Salonica (c.
-1012), the cathedral of Echmiadzin in Armenia, at Vatopedi, Mt. Athos,
+1012), the cathedral of Echmiadzin in [[Armenia]], at Vatopedi, Mt. [[Athos]],
 and some other Byzantine churches. An early example in France exists in
 the church of Germigny-des-Pres on the Loire (806; rebuilt 1868), where
 the three apses are horseshoe on plan, and the same is found in the
@@ -99,21 +99,21 @@ Querqueville and at St Wandrille near Caudebec, both in Normandy, but
 the finest development takes place in the church of St Maria im Capitol
 at Cologne, where the aisles are carried round both the northern and
 southern apses. The same feature exists in the cathedral of Tournai in
-Belgium and the churches at Cambrai, Soissons and Valenciennes (the last
+[[Belgium]] and the churches at Cambrai, Soissons and Valenciennes (the last
 destroyed at the Revolution) in France, and also in the cathedrals of
 Como and of Pisa in Italy. Without aisles, there are examples in the
 churches of the Apostles and of St Martin at Cologne; St Quirinus at
-Neuss; at Roermond; St Cross, Breslau; the cathedral of Bonn; and, at a
-later date, in the Marienkirche at Trier; S. Elizabeth at Marburg; the
+Neuss; at Roermond; St Cross, Breslau; the cathedral of [[Bonn]]; and, at a
+later date, in the Marienkirche at Trier; S. Elizabeth at [[Marburg]]; the
 church of Sta Maria-del-Fiore at Florence; and the cathedral of Parma.
 
 In consequence of a change made in the orientation of apses in the 6th
 or 7th century, others were subsequently added at the west end of
 existing churches, and this is considered to have been the case at
 Canterbury; but in the German churches sometimes apses were built from
-the first at both ends, such as are shown on the manuscript plan of St
-Gall, of the 9th century. Western apses exist at Gernrode; Drubeck;
-Huyseburg; the Obermunster of Regensburg; St Godehard in Hildesheim; the
+the first at both ends, such as are shown on the [[Manuscript|manuscript]] plan of St
+[[Gall]], of the 9th century. Western apses exist at Gernrode; Drubeck;
+Huyseburg; the Obermunster of Regensburg; St Godehard in [[Hildesheim]]; the
 cathedrals of Worms and Trier; the Abbey church of Laach; the Minster at
 Bonn; and in St Pietro-in-Grado near Pisa.
 
@@ -122,7 +122,7 @@ side apses form the termination of the side aisles; but where there are
 transepts, the aisles are sometimes not continued beyond them, and the
 expansion of the transept to north and south gives more ample space for
 apses; of these there are many examples, as in the Abbey church of Laach
-in Germany; at Romsey; Christchurch, Hants; Gloucester, Ely, Norwich and
+in Germany; at Romsey; Christchurch, Hants; Gloucester, [[Ely]], Norwich and
 Canterbury cathedrals, in England; and at St Georges de Boscherville in
 France; sometimes there being space for two apses on each side.
 
@@ -146,18 +146,18 @@ the major axis of the orbit.
 
 
 
-APSINES of Gadara, a Greek rhetorician, who flourished during the 3rd
+APSINES of [[Gadara]], a Greek rhetorician, who flourished during the 3rd
 century A.D. After studying at Smyrna, he taught at Athens, and gained
 such a reputation that he was raised to the consulship by the emperor
 Maximinus (235-238). He was the friend of Philostratus, the author of
 the _Lives of the Sophists_, who speaks of his wonderful memory and
 accuracy. Two rhetorical treatises by him are extant: [Greek: technae
 raetorikae], a handbook of rhetoric greatly interpolated, a considerable
-portion being taken from the _Rhetoric_ of Longinus; and a smaller work,
+portion being taken from the _Rhetoric_ of [[Longinus]]; and a smaller work,
 [Greek: perhi eschaematismenon problaematon], on Propositions maintained
 figuratively.
 
-  Editions by Bake, 1849; Spengel-Hammer in _Rhetores Graeci_, ii.
+  Editions by [[Bake]], 1849; Spengel-Hammer in _Rhetores Graeci_, ii.
   (1894): see also Hammer, _De Apsine Rhetore_ (1876); Volkmann,
   _Rhetorik der Griechen und Romer_ (1885).
 

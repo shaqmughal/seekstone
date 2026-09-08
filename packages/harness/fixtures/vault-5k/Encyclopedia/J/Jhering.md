@@ -20,7 +20,7 @@ Rechts_, the theme which may be said to have constituted his life's
 work. In 1845 he became an ordinary professor at Basel, in 1846 at
 Rostock, in 1849 at Kiel, and in 1851 at Giessen. Upon all these seats
 of learning he left his mark; beyond any other of his contemporaries he
-animated the dry bones of Roman law. The German juristic world was still
+animated the dry [[Bone|bones]] of Roman law. The German juristic world was still
 under the dominating influence of the Savigny cult, and the older school
 looked askance at the daring of the young professor, who essayed to
 adapt the old to new exigencies and to build up a system of natural
@@ -59,7 +59,7 @@ feature of his lectures was his so-called _Praktika_, problems in Roman
 law, and a collection of these with hints for solution was published as
 early as 1847 under the title _Civilrechtsfälle ohne Entscheidungen_. In
 Göttingen he continued to work until his death on the 17th of September
-1892. A short time previously he had been the centre of a devoted crowd
+1892. A short time previously he had been the centre of a devoted [[Crowd|crowd]]
 of friends and former pupils, assembled at Wilhelmshöhe near Cassel to
 celebrate the jubilee of his doctorate. Almost all countries were
 worthily represented, and this pilgrimage affords an excellent
@@ -91,7 +91,7 @@ of Roman law.
   und Ernst in der Jurisprudenz_ (1885); _Das Schuldmoment im römischen
   Privat-recht_ (1867); _Das Trinkgeld_ (1882); and among the papers he
   left behind him his _Vorgeschichte der Indoeuropäer_, a fragment, has
-  been published by v. Ehrenberg (1894). See for an account of his life
+  been published by v. [[Ehrenberg]] (1894). See for an account of his life
   also M. de Jonge, _Rudolf v. Jhering_ (1888); and A. Merkel, _Rudolf
   von Jhering_ (1893).     (P. A. A.)
 

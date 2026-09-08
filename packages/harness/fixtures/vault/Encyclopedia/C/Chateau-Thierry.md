@@ -7,12 +7,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chateau-Th
 
 # Chateau-Thierry
 
-CHATEAU-THIERRY, a town of northern France, capital of an arrondissement
+CHATEAU-THIERRY, a town of northern France, capital of an [[Arrondissement|arrondissement]]
 in the department of Aisne, 59 m. E.N.E. of Paris on the Eastern railway
 to Nancy. Pop. (1906) 6872. Chateau-Thierry is built on rising ground on
-the right bank of the Marne, over which a fine stone bridge leads to the
-suburb of Marne. On the quay stands a marble statue erected to the
-memory of La Fontaine, who was born in the town in 1621; his house is
+the right bank of the [[Marne]], over which a fine stone bridge leads to the
+suburb of Marne. On the quay stands a [[Marble|marble]] statue erected to the
+memory of [[La Fontaine]], who was born in the town in 1621; his house is
 still preserved in the street that bears his name. On the top of a hill
 are the ruins of a castle, which is said to have been built by Charles
 Martel for the Frankish king, Thierry IV., and is plainly the origin of
@@ -23,12 +23,12 @@ interest. The town is the seat of a sub-prefect and has a tribunal of
 first instance and a communal college. The distinctive industry is the
 manufacture of mathematical and musical instruments. There is trade in
 the white wine of the neighbourhood, and in sheep, cattle and
-agricultural products. Gypsum, millstone and paving-stone are quarried
+agricultural products. [[Gypsum]], millstone and paving-stone are quarried
 in the vicinity. Chateau-Thierry was formerly the capital of the
 district of Brie Pouilleuse, and received the title of duchy from
 Charles IX. in 1566. It was captured by the English in 1421, by Charles
 V. in 1544, and sacked by the Spanish in 1591. During the wars of the
-Fronde it was pillaged in 1652; and in the campaign of 1814 it suffered
+[[Fronde]] it was pillaged in 1652; and in the campaign of 1814 it suffered
 severely. On the 12th of February of the latter year the Russo-Prussian
 forces were beaten by Napoleon in the neighbourhood.
 

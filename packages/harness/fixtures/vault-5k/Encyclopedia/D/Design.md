@@ -13,7 +13,7 @@ faculty of design has best flourished when an almost spontaneous
 development was taking place in the arts, and while certain classes of
 arts, more or less noble, were generally demanded and the demand
 copiously satisfied, as in the production of Greek vases, Byzantine
-mosaics, Gothic cathedrals, and Renaissance paintings. Thus where a
+mosaics, [[Gothic]] cathedrals, and Renaissance paintings. Thus where a
 "school of design" arises there is much general likeness in the products
 but also a general progress. The common experience--"tradition"--is a
 part of each artist's stock in trade; and all are carried along in a

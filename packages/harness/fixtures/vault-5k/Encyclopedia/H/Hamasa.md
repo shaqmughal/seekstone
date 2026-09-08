@@ -53,13 +53,13 @@ four verses (id. p. 236). The compilation is thus essentially an
 anthology of minor poets, and exhibits (so far at least as the more
 ancient poems are concerned) the general average of poetic utterance at
 a time when to speak in verse was the daily habit of every warrior of
-the desert.
+the [[Desert|desert]].
 
 To this description, however, there is an important exception in the
 book entitled _an-Nasib_, containing verses relating to women and love.
 In the classical age of Arab poetry it was the established rule that all
 _qasidas_, or finished odes, whatever their purpose, must begin with the
-mention of women and their charms (_tashbib_), in order, as the old
+mention of women and their [[Charm|charms]] (_tashbib_), in order, as the old
 critics said, that the hearts of the hearers might be softened and
 inclined to regard kindly the theme which the poet proposed to unfold.
 The fragments included in this part of the work are therefore generally
@@ -71,14 +71,14 @@ representative was 'Omar ibn Abi Rabi'a) arose.
 The compiler was himself a distinguished poet in the style of his day,
 and wandered through many provinces of the Moslem empire earning money
 and fame by his skill in panegyric. About 220 A.H. he betook himself to
-Khorasan, then ruled by 'Abdallah ibn Tahir, whom he praised and by whom
-he was rewarded; on his journey home to 'Irak he passed through
+[[Khorasan]], then ruled by 'Abdallah ibn Tahir, whom he praised and by whom
+he was rewarded; on his journey home to '[[Irak]] he passed through
 Hamadhan, and was there detained for many months a guest of Abu-l-Wafa,
 son of Salama, the road onward being blocked by heavy falls of snow.
 During his residence at Hamadhan, Abu Tammam is said to have compiled or
 composed, from the materials which he found in Abu-l-Wafa's library,
 five poetical works, of which one was the _Hamasa_. This collection
-remained as a precious heirloom in the family of Abu-l-Wafa until their
+remained as a precious [[Heirloom|heirloom]] in the family of Abu-l-Wafa until their
 fortunes decayed, when it fell into the hands of a man of Dinawar named
 Abu-l-'Awadhil, who carried it to Isfahan and made it known to the
 learned of that city.
@@ -111,7 +111,7 @@ wantonness as of its strength and beauty.
   Ahmad al-Marzuqi of Isfahan (d. 421 A.H.). Upon al-Marzuqi's
   commentary is chiefly founded that of Abu Zakariya Yahya at-Tibrizi
   (b. 421 A.H., d. 502), which has been published by the late Professor
-  G. W. Freytag of Bonn, together with a Latin translation and notes
+  G. W. Freytag of [[Bonn]], together with a Latin translation and notes
   (1828-1851). This monumental work, the labour of a life, is a treasure
   of information regarding the classical age of Arab literature which
   has not perhaps its equal for extent, accuracy, and minuteness of
@@ -133,7 +133,7 @@ wantonness as of its strength and beauty.
   Bombay.
 
   The _Hamasa_ has been rendered with remarkable skill and spirit into
-  German verse by the illustrious Friedrich Ruckert (Stuttgart, 1846),
+  German verse by the illustrious [[Friedrich]] Ruckert (Stuttgart, 1846),
   who has not only given translations of almost all the poems proper to
   the work, but has added numerous fragments drawn from other sources,
   especially those occurring in the _scholia_ of at-Tibrizi, as well as

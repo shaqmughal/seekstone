@@ -8,12 +8,12 @@ tags: [theology-studies, natural-history]
 # Malonic Acid
 
 MALONIC ACID, C3H4O4 or CH2(COOH)2, occurs in the form of its calcium
-salt in the sugar beet. It was first prepared in 1858 by V. Dessaignes,
+salt in the sugar [[Beet|beet]]. It was first prepared in 1858 by V. Dessaignes,
 who obtained it by oxidizing malic acid (_Ann._, 1858, 107, p. 251). It
 may also be obtained by oxidizing allylene and propylene with cold
 potassium permanganate solution, by the hydrolysis of barbituric acid
 (malonyl urea) with alkalis (A. Baeyer, _Ann._, 1864, 130, p. 143); by
-the hydrolysis of cyanacetic acid (H. Kolbe, _Ann._, 1864, 131, p. 349;
+the hydrolysis of cyanacetic acid (H. [[Kolbe]], _Ann._, 1864, 131, p. 349;
 H. Muller, _Ann._, 1864, 131, p. 352), and by the action of silver oxide
 on [beta]-di-chloracrylic ester at 125° C. (O. Wallach, _Ann._, 1878,
 193, P. 25)
@@ -23,10 +23,10 @@ on [beta]-di-chloracrylic ester at 125° C. (O. Wallach, _Ann._, 1878,
 
 It crystallizes in monoclinic tables, and is readily soluble in water,
 alcohol and ether. The acid melts at 132° C., and at a higher
-temperature it rapidly decomposes into acetic acid and carbon dioxide.
+temperature it rapidly decomposes into acetic acid and [[Carbon|carbon]] dioxide.
 When heated with bromine and water to 100° C. it forms tribromacetic
 acid, some bromoform being produced at the same time. Malonic acid, as
-well as its esters, is characterized by the large number of condensation
+well as its [[Esters|esters]], is characterized by the large number of condensation
 products it can form. In the presence of a dehydrating agent (such as
 acetic anhydride), it combines with aldehydes to form compounds of the
 type R·CH:C(COOH)2, or their decomposition products (formed by loss of
@@ -37,7 +37,7 @@ CO2) R·CH:CH·COOH.
   of malonic acid have been prepared, the most important being the
   _diethyl ester_ (_malonic ester_), CH2(COOC2H5)2, which is obtained by
   dissolving monochloracetic acid in water, neutralizing the solution
-  with potassium carbonate, and then adding potassium cyanide and
+  with potassium carbonate, and then adding potassium [[Cyanide|cyanide]] and
   warming the mixture until the reaction begins. When the reaction has
   finished, the whole is evaporated and heated to about 130°-140° C. and
   then allowed to cool. The mass is then covered with two-thirds of its
@@ -67,7 +67,7 @@ CO2) R·CH:CH·COOH.
                         CO2 + CHR´R´·COOH <-- CR´R´´(COOH)2
 
   When sodio-malonic ester is heated to 145° C., it undergoes
-  condensation, with elimination of alcohol and formation of the benzene
+  condensation, with elimination of alcohol and formation of the [[Benzene|benzene]]
   derivative, _phloroglucin tricarboxylic ester_. The addition of urea
   to an alcoholic solution of sodio-malonic ester results in the
   formation of barbituric acid (A. Michael, _Jour. pr. Chem._, 1887 [2],

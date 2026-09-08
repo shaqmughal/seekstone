@@ -31,7 +31,7 @@ elongated hilly island of Olkhon, and the peninsula of Svyatoi Nos, which
 forms its continuation on the opposite eastern shore, divide the lake into
 two basins. The deepest part is in the south-east, at the foot of the
 Khamar-daban border-ridge of the high plateau. An elongated trough, 66 m.
-long, reaches there a depth of over 600 fathoms, with a maximum depth of
+long, reaches there a depth of over 600 [[Fathom|fathoms]], with a maximum depth of
 880 fathoms, _i.e._ about 5280 ft. below the level of the ocean. As a rule
 the bottom of the lake has very steep slopes: the 100-fathom and even the
 250-fathom lines run close to the shores, that is to say, the steepness of
@@ -96,7 +96,7 @@ still frequent along its shores.
 _Fauna_.--The fauna, explored by Dybowski and Godlewski, and in 1900-2 by
 Korotnev, is much richer than it was supposed to be, and has quite an
 original character; but hypotheses as to a direct communication having
-existed between Lake Baikal and the Arctic Ocean during the Post-Tertiary
+existed between Lake Baikal and the [[Arctic]] Ocean during the Post-Tertiary
 or Tertiary ages are not proved. Still, Lake Baikal has a seal (_Phoca
 vitulina_, _Phoca baikalensis_ of Dybowski) quite akin to the seals of
 Spitsbergen, marine sponges, polychaetes, a marine mollusc (_ancilodoris_),
@@ -135,7 +135,7 @@ ferry trains across from Listvinichnoe to Misovaya.
 AUTHORITIES.--Drizhenko, "Hydrographic Reconnoitring of Lake Baikal," in
 _Izvestia Russ. Geogr. Soc._ (1897, 2); Russian Addenda to Ritter's _Asia,
 East Siberia, Baikal,_ &c. (1895); Chersky's Geological Map of Shores of
-Lake Baikal, 6-2/3 m. to the inch, in _Zapiski_ of _Russ. Geogr. Soc._ xv.
+Lake Baikal, 6-2/3 m. to the [[Inch|inch]], in _Zapiski_ of _Russ. Geogr. Soc._ xv.
 (1886); "Report of Geological Exploration of Shores of Lake Baikal," in
 _Zapiski_ of _East Siberian Branch_ of _Russ. Geogr. Soc._ xii. (1886);
 Obruchev, "Geology of Baikal Mountains," _Izvestia_ of same Society (1890,

@@ -9,7 +9,7 @@ payments is also termed credit. In bookkeeping credit is the side of the
 account on which payments are entered; hence, sometimes, the payments
 themselves.
 
-  The part which credit plays in the production and exchange of wealth
+  The part which credit plays in the production and [[Exchange|exchange]] of wealth
   is discussed in all economic text-books, but special reference may be
   made to K. Knies, _Geld und Kredit_ (1873-1879), and H. D. Macleod,
   _Theory of Credit_ (1889-1891). See also Hartley Withers, _The Meaning

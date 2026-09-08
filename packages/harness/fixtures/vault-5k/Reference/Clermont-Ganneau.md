@@ -22,8 +22,8 @@ in England to expose the famous forgeries of Hebrew texts offered to the
 British Museum by M.W. Shapira (q.v.) in 1883, and in 1903 he took a
 prominent part in the investigation of the so-called "tiara of
 Saïtapharnes." This tiara had been purchased by the Louvre for 400,000
-francs, and exhibited as a genuine antique. Much discussion arose as to
-the perpetrators of the fraud, some believing that it came from southern
+[[Franc|francs]], and exhibited as a genuine antique. Much discussion arose as to
+the perpetrators of the [[Fraud|fraud]], some believing that it came from southern
 Russia. It was agreed, however, that the whole object, except perhaps the
 band round the tiara, was of modern manufacture.
 

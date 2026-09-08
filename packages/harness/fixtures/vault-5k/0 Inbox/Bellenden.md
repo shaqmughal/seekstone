@@ -17,7 +17,7 @@ king's earliest years, and that the post he held was clerk of accounts.
 At the request of James he undertook translations of Boece's _Historia
 Scotorum_, which had appeared at Paris in 1527, and the first five books
 of Livy. As a reward for his versions, which he finished in 1533, he was
-appointed archdeacon of Moray and a canon of Ross. He was a strenuous
+appointed [[Archdeacon|archdeacon]] of Moray and a canon of Ross. He was a strenuous
 opponent of the Reformation and was compelled to go into exile. He is
 said by some authorities to have died at Rome in 1550; by others to have
 been still living in 1587. His translation of Boece, entitled _The

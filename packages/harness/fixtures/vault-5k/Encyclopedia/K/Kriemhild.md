@@ -40,14 +40,14 @@ mythical Nibelung brothers, and thus helped the process by which the
 Nibelung myth became fused with the historical story of the fall of the
 Burgundian kingdom. The older story, according to which Grîmhild slays
 her husband Attila in revenge for her brothers, is preserved in the
-Norse tradition, though Grîmhild's part is played by Gudrun, a change
+Norse tradition, though Grîmhild's part is played by [[Gudrun]], a change
 probably due to the fact, mentioned above, that the name Grîmhild still
 retained in the north its sinister significance. The name of Grîmhild is
 transferred to Gudrun's mother, the "wise wife," a semi-daemonic figure,
 who brews the potion that makes Sigurd forget his love for Brunhild and
 his plighted troth. In the _Nibelungenlied_, however, the primitive
 supremacy of the blood-tie has given place to the more modern idea of
-the supremacy of the passion of love, and Kriemhild marries Attila
+the supremacy of the passion of love, and Kriemhild [[Marri|marries]] Attila
 (Etzel) in order to compass the death of her brothers, in revenge for
 the murder of Siegfried. Theodor Abeling, who is disposed to reject or
 minimize the mythical origins, further suggests a confusion of the story

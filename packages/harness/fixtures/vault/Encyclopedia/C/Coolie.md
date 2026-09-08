@@ -25,7 +25,7 @@ depended.
   Chinese coolies.
 
 The first public recognition of the coolie traffic was in 1844, when the
-British colony of Guiana made provision for the encouragement of Chinese
+British colony of [[Guiana]] made provision for the encouragement of Chinese
 immigration. About the same time both Peru and Cuba began to look to
 China as likely to furnish an efficient substitute for the negro
 bondsman. Agents armed with consular commissions from Peru appeared in
@@ -34,14 +34,14 @@ Each one was bound to serve the Peruvian planter to whom he might be
 assigned for seven or eight years, at fixed wages, generally about 17s.
 a month, food, clothes and lodging being provided. From 1847 to 1854
 coolie emigration went on briskly without attracting much notice, but it
-gradually came to light that circumstances of great cruelty attended the
+gradually came to light that circumstances of great [[Cruelty|cruelty]] attended the
 trade. The transport ships were badly equipped and overcrowded, and many
 coolies died before the end of the voyage. On arrival in Cuba or Peru
 the survivors were sold by auction in the open market to the highest
 bidders, who held them virtually as slaves for seven years instead of
-for life. Particularly terrible was the lot of those who, contrary to
+for life. Particularly terrible was the [[Lot|lot]] of those who, contrary to
 their agreements, had been sent to labour in the foul guano pits of the
-Chincha islands, where they were forced to toil in gangs, each under the
+[[Chincha Islands|Chincha islands]], where they were forced to toil in gangs, each under the
 charge of an overseer armed with a cowhide lash. In 1860 it was
 calculated that of the four thousand coolies who had been fraudulently
 consigned to the guano pits of Peru not one had survived. The greater
@@ -55,7 +55,7 @@ more than a week's voyage with more than twenty coolies on board, unless
 her master had complied with certain very stringent regulations.
 
 The consequence of this was that the business of shipping coolies for
-Peru was transferred to the Portuguese settlement of Macao. There the
+Peru was transferred to the Portuguese settlement of [[Macao]]. There the
 Peruvian and Cuban "labour-agents" established depôts, which they
 unblushingly called "barracoons," the very term used in the West African
 slave trade. In these places coolies were "received," or in plain words,
@@ -63,14 +63,14 @@ imprisoned and kept under close guard until a sufficient number were
 collected for export. Some of these were decoyed by fraudulent promises
 of profitable employment. Others were kidnapped by piratical junks hired
 to scour the neighbouring coasts. Many were bought from leaders of
-turbulent native factions, only too glad to sell the prisoners they
+turbulent native [[Faction|factions]], only too glad to sell the prisoners they
 captured whilst waging their internecine wars. The procurador or
 registrar-general of Macao went through the form of certifying the
 contracts; but his inspection was practically useless. After the war of
 1856-1857 this masked slave trade pushed its agencies into Whampoa and
 Canton. In April 1859, however, the whole mercantile community of the
 latter port rose up in indignation against it, and transmitted such
-strong representations to the British embassy in China, that steps were
+strong representations to the British [[Embassy|embassy]] in China, that steps were
 taken to mitigate the evil. New regulations were from time to time
 passed by the Portuguese authorities for the purpose of minimizing the
 horrors of the Macao trade. They seem, however, to have been
@@ -84,7 +84,7 @@ head-money, the source of most of the abuses, comparatively untouched.
 It enacted that every coolie must at the end of a five years' engagement
 have his return passage-money paid to him. The West Indian colonies at
 once objected to this. They wanted permanent not temporary settlers.
-They could not afford to burden the coolie's expensive contract with
+They could not afford to [[Burden|burden]] the coolie's expensive contract with
 return passage-money, so they declined to accept emigrants on these
 terms. Thus a legalized coolie trade between the West Indies and China
 was extinguished. Thereafter the coolie supply for British colonies was
@@ -92,7 +92,7 @@ drawn exclusively from India, until 1904, when an exception was made in
 the case of the Transvaal. Under a convention drawn up in that year
 between the United Kingdom and China over fifty thousand indentured
 Chinese labourers were engaged on three years' contracts to work in the
-Witwatersrand gold mines (see TRANSVAAL). To the Malay states and other
+Witwatersrand gold mines (see TRANSVAAL). To the [[Malay States|Malay states]] and other
 parts of eastern Asia there is an extensive yearly migration of Chinese
 coolies. This migration, however, is not under contract. From Amoy alone
 some seventy-five thousand coolies yearly migrate to Singapore and the
@@ -105,23 +105,23 @@ every direction.
 It is scarcely possible to say when the Indian coolie trade began.
 Before the end of the 18th century Tamil labourers from southern India
 were wont to emigrate to the Straits Settlements, and they also flocked
-to Tenasserim from the other side of the Bay of Bengal after the
+to Tenasserim from the other side of the Bay of [[Bengal]] after the
 conquest had produced a demand for labour. The first regularly recorded
 attempt at organizing coolie emigration from India took place in 1834,
-when forty coolies were exported to Mauritius; but it was not until 1836
+when forty coolies were exported to [[Mauritius]]; but it was not until 1836
 that the Indian government decided to put the trade under official
 regulations. In 1837 an emigration law was passed for all the
-territories of the East India Company, providing that a permit must be
+territories of the [[East India Company]], providing that a permit must be
 obtained from government for every shipment of coolies, that all
 contracts should terminate in five years, that a return passage should
 be guaranteed, that the terms of his contract should be carefully
 explained to each coolie, and that the emigrant ship should only carry
 one coolie for every ton and a half of burden. Then as now the Indian
-government watched the deportation of labour from their dominions with
+government watched the [[Deportation|deportation]] of labour from their dominions with
 jealous and anxious care, and when in 1838 it was found that upwards of
 twenty-five thousand natives had, up to that year, gone from all parts
 of India to Mauritius, the government became somewhat alarmed at the
-dimensions which the traffic was assuming. Brougham and the anti-slavery
+[[Dimension|dimensions]] which the traffic was assuming. Brougham and the anti-slavery
 party denounced the trade as a revival of slavery, and the Bengal
 government suspended it in order to investigate its alleged abuses. The
 nature of these may be guessed when it is said that the inquiry
@@ -154,10 +154,10 @@ protector. The conduct of these subordinates is minutely regulated.
 Every precaution is taken to let the emigrant know the exact terms on
 which he is hired, and to ensure good treatment in the interval between
 registration and embarkation. Coolies are shipped for the most part from
-Calcutta and Madras, but of recent years large numbers bound for Mombasa
+[[Calcutta]] and Madras, but of recent years large numbers bound for Mombasa
 and the Seychelles left from Bombay and Karachi. Both the coolies
 themselves and the depôt are medically inspected. Only those physically
-fit are allowed to embark. The vessels for their conveyance are licensed
+fit are allowed to embark. The vessels for their [[Conveyance|conveyance]] are licensed
 and inspected by the local government. The terms on which emigrants are
 recruited are settled beforehand by convention with the colonies
 concerned, and are embodied in ordinances passed by the local
@@ -165,8 +165,8 @@ legislatures. They vary in detail, but their main provisions relate to
 the rights and obligations of the emigrants, including the grant of a
 return passage on the expiry of a specified period, usually ten years.
 The British colonies to which coolies were exported in the decade
-1891-1901 were British Guiana, Trinidad, St Lucia, Jamaica, Mauritius,
-the Seychelles Islands, Fiji, East Africa and Natal; the only
+1891-1901 were British Guiana, Trinidad, St [[Lucia]], Jamaica, Mauritius,
+the Seychelles Islands, [[Fiji]], East Africa and Natal; the only
 non-British country was Dutch Guiana. Emigration to the French colonies,
 including Réunion has been forbidden by the government of India since
 1886, but there still remain in those colonies some of the former
@@ -206,7 +206,7 @@ by 1904 reached over 100,000 and slightly outnumbered the whites. Many
 of the coolies had become permanent residents in the colony (see NATAL).
 
 
-  Assam, Ceylon and Burma.
+  [[Assam]], Ceylon and [[Burma]].
 
 According to the census of 1901 there were 775,844 foreigners in Assam,
 of whom no fewer than 645,000 or 83% were brought into the province as
@@ -215,12 +215,12 @@ of 1901, which provides that a labour agreement may be entered into for
 four years, and includes a penal clause, under which a coolie deserting
 or refusing to work may be punished with imprisonment. The coolies can
 also give an agreement under Act XIII. of 1859, by which they are only
-liable to civil action for breach of contract. The latter are called
+liable to civil action for [[Breach|breach]] of contract. The latter are called
 non-act coolies. This system of immigration has made tea-planting the
 most important industry in Assam, and has greatly increased the
 prosperity of the province. Migration to Ceylon and Burma takes place
 chiefly from the Madras ports, and is of a seasonal and temporary
-character. The tea estates and pearl fisheries of Ceylon, and the town
+character. The tea estates and pearl [[Fisheries|fisheries]] of Ceylon, and the town
 work and harvesting in Burma attract large numbers of Tamil labourers.
 The respective numbers embarking in 1901 were 117,000 for Ceylon, 84,000
 for Burma and 27,000 for the Straits Settlements. In Ceylon there is no
@@ -228,12 +228,12 @@ system of recruitment like that for the Assam tea-gardens. The coolies
 come in gangs, each under its own headman, with whom the planter deals
 exclusively, leaving him to make his own arrangements with the
 individual coolies. The coolies are mostly carried in small sailing
-vessels from the ports of Madura and Tanjore, and the number who
+vessels from the ports of [[Madura]] and Tanjore, and the number who
 permanently settle in Ceylon is not very great.
 
-  See E. Jenkins, _The Coolie; his Rights and Wrongs_ (1871); J. L. A.
-  Hope, _In Quest of Coolies_ (1872); and C. B. Grose, _The Labour
-  Ordinances_ (Georgetown, 1890).     (C. L.)
+  See E. [[Jenkins]], _The Coolie; his Rights and Wrongs_ (1871); J. L. A.
+  Hope, _In Quest of Coolies_ (1872); and C. B. [[Grose]], _The Labour
+  Ordinances_ ([[Georgetown]], 1890).     (C. L.)
 
 ## See also
 

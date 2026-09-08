@@ -19,12 +19,12 @@ appears to be the earliest:--
   "Juvenal was the son or ward of a wealthy freedman; he practised
   declamation till middle age, not as a professional teacher, but as an
   amateur, and made his first essay in satire by writing the lines on
-  Paris, the actor and favourite of Domitian, now found in the seventh
+  Paris, the actor and favourite of [[Domitian]], now found in the seventh
   satire (lines 90 seq.). Encouraged by their success, he devoted
   himself diligently to this kind of composition, but refrained for a
   long time from either publicly reciting or publishing his verses. When
   at last he did come before the public, his recitations were attended
-  by great crowds and received with the utmost favour. But the lines
+  by great [[Crowd|crowds]] and received with the utmost favour. But the lines
   originally written on Paris, having been inserted in one of his new
   satires, excited the jealous anger of an actor of the time, who was a
   favourite of the emperor, and procured the poet's banishment under the
@@ -38,12 +38,12 @@ conjectures based upon them. The rare passages in which the poet speaks
 of his own position, as in satires xi. and xiii., indicate that he was
 in comfortable but moderate circumstances. We should infer also that he
 was not dependent on any professional occupation, and that he was
-separated in social station, and probably too by tastes and manners,
+separated in social station, and probably too by tastes and [[Manners|manners]],
 from the higher class to which Tacitus and Pliny belonged, as he was by
 character from the new men who rose to wealth by servility under the
 empire. Juvenal is no organ of the pride and dignity, still less of the
 urbanity, of the cultivated representatives of the great families of the
-republic. He is the champion of the more sober virtues and ideas, and
+republic. He is the [[Champion|champion]] of the more sober virtues and ideas, and
 perhaps the organ of the rancours and detraction, of an educated but
 depressed and embittered middle class. He lets us know that he has no
 leanings to philosophy (xiii. 121) and pours contempt on the serious
@@ -71,7 +71,7 @@ permanently affected his whole manner of composition.
 
 So far the original of these lives follows a not improbable tradition.
 But when we come to the story of the poet's exile the case is otherwise.
-The undoubted reference to Juvenal in Sidonius Apollinaris as the victim
+The undoubted reference to Juvenal in Sidonius [[Apollinaris]] as the victim
 of the rage of an actor only proves that the original story from which
 all the varying versions of the lives are derived was generally believed
 before the middle of the 5th century of our era. If Juvenal was banished
@@ -99,13 +99,13 @@ be animated by personal hatred. A sense of wrong suffered at their hands
 may perhaps have mingled with the detestation which he felt towards them
 on public grounds. But if he was banished under Domitian, it must have
 been either before or after 93, at which time, as we learn from an
-epigram of Martial, Juvenal was in Rome.
+epigram of [[Martial]], Juvenal was in Rome.
 
 More ancient evidence is supplied by an inscription found at Aquinum,
-recording, so far as it has been deciphered, the dedication of an altar
-to Ceres by a Iunius Iuvenalis, tribune of the first cohort of
+recording, so far as it has been deciphered, the [[Dedication|dedication]] of an altar
+to Ceres by a Iunius Iuvenalis, tribune of the first [[Cohort|cohort]] of
 Dalmatians, _duumvir quinquennalis_, and _flamen Divi Vespasiani_, a
-provincial magistrate whose functions corresponded to those of the
+provincial [[Magistrate|magistrate]] whose functions corresponded to those of the
 censor at Rome. This Juvenalis may have been the poet, but he may
 equally well have been a relation. The evidence of the satires does not
 point to a prolonged absence from the metropolis. They are the product
@@ -137,7 +137,7 @@ himself, the epithet _facundus_ is applied to him, equally applicable to
 his "eloquence" as satirist or rhetorician. In the last Martial imagines
 his friend wandering about discontentedly through the crowded streets of
 Rome, and undergoing all the discomforts incident to attendance on the
-levees of the great. Two lines in the poem suggest that the satirist,
+[[Levee|levees]] of the great. Two lines in the poem suggest that the satirist,
 who inveighed with just severity against the worst corruptions of Roman
 morals, was not too rigid a censor of the morals of his friend. Indeed,
 his intimacy with Martial is a ground for not attributing to him
@@ -147,14 +147,14 @@ The additional information as to the poet's life and circumstances
 derivable from the satires themselves is not important. He had enjoyed
 the training which all educated men received in his day (i. 15); he
 speaks of his farm in the territory of Tibur (xi. 65), which furnished a
-young kid and mountain asparagus for a homely dinner to which he invites
+young kid and mountain [[Asparagus|asparagus]] for a homely [[Dinner|dinner]] to which he invites
 a friend during the festival of the Megalesia. From the satire in which
 this invitation is contained we are able to form an idea of the style in
-which he habitually lived, and to think of him as enjoying a hale and
+which he habitually lived, and to think of him as enjoying a [[Hale|hale]] and
 vigorous age (203), and also as a kindly master of a household (159
 seq.). The negative evidence afforded in the account of his
 establishment suggests the inference that, like Lucilius and Horace,
-Juvenal had no personal experience of either the cares or the softening
+Juvenal had no personal experience of either the [[Car|cares]] or the softening
 influence of family life. A comparison of this poem with the invitation
 of Horace to Torquatus (_Ep._ i. 5) brings out strongly the differences
 not in urbanity only but in kindly feeling between the two satirists.
@@ -169,7 +169,7 @@ more "nominis umbrae" than real men; they serve the purpose of enabling
 the satirist to aim his blows at one particular object instead of
 declaiming at large. They have none of the individuality and traits of
 personal character discernible in the persons addressed by Horace in his
-_Satires_ and _Epistles_. It is noticeable that, while Juvenal writes of
+_Satires_ and _[[Epistle|Epistles]]_. It is noticeable that, while Juvenal writes of
 the poets and men of letters of a somewhat earlier time as if they were
 still living, he makes no reference to his friend Martial or the younger
 Pliny and Tacitus, who wrote their works during the years of his own
@@ -196,7 +196,7 @@ they were divided, as they are referred to in the ancient grammarians,
 into five books. Book I., embracing the first five satires, was written
 in the freshest vigour of the author's powers, and is animated with the
 strongest hatred of Domitian. The publication of this book belongs to
-the early years of Trajan. The mention of the exile of Marius (49) shows
+the early years of Trajan. The mention of the exile of [[Marius]] (49) shows
 that it was not published before 100. In the second satire, the lines 29
 seq.,
 
@@ -213,7 +213,7 @@ scenes of violence as that described at 277 seq. were most likely to
 occur;[2] while the mention of Veiento (185) as still enjoying influence
 is a distinct reference to the court of Domitian. The fourth, which
 alone has any political significance, and reflects on the emperor as a
-frivolous trifler rather than as a monster of lust and cruelty, is the
+frivolous trifler rather than as a monster of lust and [[Cruelty|cruelty]], is the
 reproduction of a real or imaginary scene from the reign of Domitian,
 and is animated by the profoundest scorn and loathing both of the tyrant
 himself and of the worst instruments of his tyranny. The fifth is a
@@ -246,7 +246,7 @@ the theme of the "vanity of human wishes" is illustrated by great
 historic instances, rather than by pictures of the men and manners of
 the age; and, though the declamatory vigour and power of expression in
 it are occasionally as great as in the earlier satires, and although
-touches of Juvenal's saturnine humour, and especially of his misogyny,
+touches of Juvenal's saturnine [[Humour|humour]], and especially of his misogyny,
 appear in all the satires of this book, yet their general tone shows
 that the white heat of his indignation is abated; and the lines of the
 eleventh, already referred to (201 seq.),
@@ -275,7 +275,7 @@ part composed between 100 and 130, but the most powerful in feeling and
 vivid in conception among them deal with the experience and impressions
 of the reign of Domitian, occasionally recall the memories or traditions
 of the times of Nero and Claudius, and reproduce at least one startling
-page from the annals of Tiberius.[4] The same overmastering feeling
+page from the [[Annals|annals]] of Tiberius.[4] The same overmastering feeling
 which constrained Tacitus (_Agric._ 2, 3), when the time of long
 endurance and silence was over, to recall the "memory of the former
 oppression," acted upon Juvenal. There is no evidence that these two
@@ -313,10 +313,10 @@ he finds the most typical examples of lust, cruelty, levity and weakness
 in the emperors and their wives--in Domitian, Otho, Nero, Claudius and
 Messalina. It is true also that he shares in the traditional idolatry of
 Brutus, that he strikes at Augustus in his mention of the "three
-disciples of Sulla," and that he has no word of recognition for what
+[[Disciple|disciples]] of Sulla," and that he has no word of recognition for what
 even Tacitus acknowledges as the beneficent rule of Trajan. So too his
-scorn for the Roman populace of his time, who cared only for their dole
-of bread and the public games, is unqualified. But it is only in
+scorn for the Roman populace of his time, who cared only for their [[Dole|dole]]
+of bread and the public [[Games|games]], is unqualified. But it is only in
 connexion with its indirect effects that he seems to think of despotism;
 and he has no thought of democracy at all. It is not for the loss of
 liberty and of the senatorian rule that he chafes, but for the loss of
@@ -328,7 +328,7 @@ his mockery of the poetry and of the stale and dilettante culture of his
 time, and perhaps, too, his indifference to the schools of philosophy
 and his readiness to identify all the professors of stoicism with the
 reserved and close-cropped puritans, who concealed the worst vices under
-an outward appearance of austerity. The great fault of his character, as
+an outward appearance of austerity. The great [[Fault|fault]] of his character, as
 it appears in his writings, is that he too exclusively indulged this
 mood. It is much more difficult to find what he loved and admired than
 what he hated. But it is characteristic of his strong nature that, where
@@ -351,7 +351,7 @@ in any positive contributions to the notions of active duty, but in the
 strength with which he has realized and expressed the restraining
 influence of the old Roman and Italian ideal of character, and also of
 that religious conscience which was becoming a new power in the world.
-Though he disclaims any debt to philosophy (xiii. 121), yet he really
+Though he disclaims any [[Debt|debt]] to philosophy (xiii. 121), yet he really
 owes more to the "Stoica dogmata," then prevalent, than he is aware of.
 But his highest and rarest literary quality is his power of painting
 characters, scenes, incidents and actions, whether from past history or
@@ -359,17 +359,17 @@ from contemporary life. In this power, which is also the great power of
 Tacitus, he has few equals and perhaps no superior among ancient
 writers. The difference between Tacitus and Juvenal in power of
 representation is that the prose historian is more of an imaginative
-poet, the satirist more of a realist and a grotesque humorist. Juvenal
+poet, the satirist more of a realist and a [[Grotesque|grotesque]] humorist. Juvenal
 can paint great historical pictures in all their detail--as in the
 famous representation of the fall of Sejanus; he can describe a
-character elaborately or hit it off with a single stroke. The picture
+character elaborately or [[Hit|hit]] it off with a single stroke. The picture
 drawn may be a caricature, or a misrepresentation of the fact--as that
 of the father of Demosthenes, "blear-eyed with the soot of the glowing
 mass," &c.--but it is, with rare exceptions, realistically conceived,
-and it is brought before us with the vivid touches of a Defoe or a
-Swift, or of the great pictorial satirist of the 18th century, Hogarth.
+and it is brought before us with the vivid touches of a [[Defoe]] or a
+Swift, or of the great pictorial satirist of the 18th century, [[Hogarth]].
 Yet even in this, his most characteristic talent, his proneness to
-exaggeration, the attraction which coarse and repulsive images have for
+exaggeration, the attraction which coarse and repulsive [[Image|images]] have for
 his mind, and the tendency to sacrifice general effect to minuteness of
 detail not infrequently mar his best effects.
 
@@ -384,13 +384,13 @@ contemporary life, or in protest against what he regarded as the
 enervating influences of art. Even his references to the great poets of
 the past indicate rather a _blase_ sense of indifference and weariness
 than a fresh enjoyment of them. Yet his power of touching the springs of
-tragic awe and horror is a genuine poetical gift, of the same kind as
+tragic [[Awe|awe]] and horror is a genuine poetical gift, of the same kind as
 that which is displayed by some of the early English dramatists. But he
 is, on the whole, more essentially a great rhetorician than a great
 poet. His training, the practical bent of his understanding, his strong
 but morose character, the circumstances of his time, and the materials
 available for his art, all fitted him to rebuke his own age and all
-after-times in the tones of a powerful preacher, rather than charm them
+after-times in the tones of a powerful preacher, rather than [[Charm|charm]] them
 with the art of an accomplished poet. The composition of his various
 satires shows no negligence, but rather excess of elaboration; but it
 produces the impression of mechanical contrivance rather than of organic
@@ -408,9 +408,9 @@ On the whole no one of the ten or twelve really great writers of ancient
 Rome leaves on the mind so mixed an impression, both as a writer and as
 a man, as Juvenal. He has little, if anything at all, of the high
 imaginative mood--the mood of reverence and noble admiration--which made
-Ennius, Lucretius and Virgil the truest poetical representatives of the
+Ennius, [[Lucretius]] and Virgil the truest poetical representatives of the
 genius of Rome. He has nothing of the wide humanity of Cicero, of the
-urbanity of Horace, of the ease and grace of Catullus. Yet he represents
+urbanity of Horace, of the ease and [[Grace|grace]] of Catullus. Yet he represents
 another mood of ancient Rome, the mood natural to her before she was
 humanized by the lessons of Greek art and thought. If we could imagine
 the elder Cato living under Domitian, cut off from all share in public
@@ -429,9 +429,9 @@ passion for effective writing, may have contributed to the indignation
 which inspired his verse. But the prevailing impression we carry away
 after reading him is that in all his early satires he was animated by a
 sincere and manly detestation of the tyranny and cruelty, the debauchery
-and luxury, the levity and effeminacy, the crimes and frauds, which we
+and luxury, the levity and effeminacy, the crimes and [[Fraud|frauds]], which we
 know from other sources were then rife in Rome, and that a more serene
-wisdom and a happier frame of mind were attained by him when old age had
+wisdom and a happier [[Frame|frame]] of mind were attained by him when old age had
 somewhat allayed the fierce rage which vexed his manhood.
 
   AUTHORITIES.--The remarkable statements in a "life" found in a late
@@ -445,7 +445,7 @@ somewhat allayed the fierce rage which vexed his manhood.
   Sidonius Apollinaris (c. 480), _Carm._ ix. 269, "Non qui tempore
   Caesaris secundi | Aeterno coluit Tomos reatu | Nec qui consimili
   deinde casu | Ad vulgi tenuem strepentis auram | Irati fuit histrionis
-  exul," lines which by the exact parallel drawn between Ovid's fate and
+  exul," lines which by the exact parallel drawn between Ovid's [[Fate|fate]] and
   Juvenal's imply the belief that Juvenal died in exile. The banishment
   is also mentioned by J. Malalas, a Greek historian subsequent to
   Justinian, who gives the place as Pentapolis in Africa, _Chron._ x.
@@ -454,7 +454,7 @@ somewhat allayed the fierce rage which vexed his manhood.
   scholars:--"[Cere] ri sacrum | [D. Iu] nius Iuvenalis | trib. coh. [I]
   Delmatarum | II vir quinq. flamen | divi Vespasiani | vovit
   dedicav[it] que | sua pec.," _Corp. inscr. lat._ X. 5382, xiii. 201
-  sqq. The best of the known manuscripts of Juvenal (P) is at
+  sqq. The best of the known [[Manuscript|manuscripts]] of Juvenal (P) is at
   Montpellier (125); but there are several others which cannot be
   neglected. Amongst these may be specially mentioned the Bodleian MS.
   (Canon. Lat. 41), which contains a portion of Satire vi., the
@@ -464,31 +464,31 @@ somewhat allayed the fierce rage which vexed his manhood.
   Quarterly_ (Jan. 1909). Numerous scholia and glossaries attest the
   interest taken in Juvenal in post-classical times and the middle ages.
   There are two classes of scholia--the older or "Pithoeana," first
-  published by P. Pithoeus, and the "Cornutus scholia" of less value,
+  published by P. Pithoeus, and the "[[Cornutus]] scholia" of less value,
   specimens of which have been published by various scholars. The
   earliest edition which need now be mentioned is that of P. Pithoeus,
   1585, in which P was first used for the text. Amongst later ones we
   may mention the commentaries of Ruperti (1819) and C. F. Heinrich
-  (1839, with the old scholia), O. Jahn (1851, critical with the old
+  (1839, with the old scholia), O. [[Jahn]] (1851, critical with the old
   scholia), A. Weidner (1889), L. Friedlander (1895, with a full verbal
-  index). The most useful English commentaries are those of J. E. B.
-  Mayor (a voluminous and learned commentary on thirteen of the
-  _Satires_, ii., vi. and ix. being omitted), J. D. Lewis (1882, with a
+  [[Index|index]]). The most useful English commentaries are those of J. E. B.
+  [[Mayor]] (a voluminous and learned commentary on thirteen of the
+  _Satires_, ii., vi. and ix. being omitted), J. D. [[Lewis]] (1882, with a
   prose translation) and J. D. Duff (1898, expurgated, and ii. and ix.
   being omitted). There are recent critical texts: conservative and
   chiefly based on P, by F. Buecheler (1893, with selections from the
   scholia) and S. G. Owen (in the Oxford Series of Texts); on the other
-  side, by A. E. Housman (1905) and by the same, but with fewer
+  side, by A. E. [[Housman]] (1905) and by the same, but with fewer
   innovations, in the new _Corpus poetarum latinorum_, fasc. v. The two
   last-named editors alone give the newly discovered lines of Satire vi.
-  There are no recent translations of Juvenal into English verse. Dryden
+  There are no recent translations of Juvenal into English verse. [[Dryden]]
   translated i., iii., vi., x. and xvi., the others being committed to
   inferior hands. Other versions are Gifford's (1802), of some merit,
   and C. Badham's (1814). Johnson's imitations of Satires iii. and x.
   are well known. For the numerous articles and contributions to the
   criticism and elucidation of the _Satires_, reference should be made
   to Teuffel's _Geschichte der romischen Litteratur_ (Eng. trans. by
-  Warre), S 331, and Schanz, ditto (1901, ii. S 2, S 420a).
+  Warre), S 331, and Schanz, [[Ditto|ditto]] (1901, ii. S 2, S 420a).
        (W. Y. S.; J. P. P.)
 
 

@@ -1,10 +1,10 @@
 # Kilbirnie
 
 KILBIRNIE, a town in north Ayrshire, Scotland, on the Garnock, 20½ m.
-S.W. of Glasgow, with stations on the Glasgow & South-Western and the
+S.W. of [[Glasgow]], with stations on the Glasgow & South-Western and the
 Caledonian railways. Pop. (1901), 4571. The industries include
-flax-spinning, rope works, engineering works, and manufactures of linen
-thread, wincey, flannels and fishing-nets, and there are iron and steel
+flax-spinning, rope works, [[Engineering|engineering]] works, and manufactures of linen
+thread, wincey, [[Flannel|flannels]] and fishing-nets, and there are iron and steel
 works and coal mines in the vicinity. The parish church is of historical
 interest, most of the building dating from the Reformation. In the
 churchyard are the recumbent effigies of Captain Thomas Crawford of

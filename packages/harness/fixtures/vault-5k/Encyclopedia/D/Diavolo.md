@@ -10,14 +10,14 @@ type: reference
 DIAVOLO, FRA (1771-1806), the popular name given to a famous Italian
 brigand associated with the political revolutions of southern Italy at
 the time of the French invasion. His real name was Michele Pezza, and he
-was born of low parentage at Itri; he had committed many murders and
+was born of low parentage at [[Itri]]; he had committed many murders and
 robberies in the Terra di Lavoro, but by good luck combined with
 audacity he always escaped capture, whence his name of Fra Diavolo,
 popular superstition having invested him with the characters of a monk
 and a demon, and it seems that at one time he actually was a monk. When
 the kingdom of Naples was overrun by the French and the Parthenopaean
 Republic established (1799), Cardinal Ruffo, acting on behalf of the
-Bourbon king Ferdinand IV., who had fled to Sicily, undertook the
+Bourbon king [[Ferdinand]] IV., who had fled to Sicily, undertook the
 reconquest of the country, and for this purpose he raised bands of
 peasants, gaol-birds, brigands, &c., under the name of Sanfedisti or
 _bande della Santa Fede_ ("bands of the Holy Faith"). Fra Diavolo was
@@ -35,7 +35,7 @@ were such that the Neapolitan general Naselli had him arrested and
 imprisoned in the castle of St Angelo, but he was liberated soon after.
 When Joseph Bonaparte was made king of Naples, extraordinary tribunals
 were established to suppress brigandage, and a price was put on Fra
-Diavolo's head. After spreading terror through Calabria, he crossed over
+Diavolo's head. After spreading terror through [[Calabria]], he crossed over
 to Sicily, where he concerted further attacks on the French. He returned
 to the mainland at the head of 200 convicts, and committed further
 excesses in the Terra di Lavoro; but the French troops were everywhere

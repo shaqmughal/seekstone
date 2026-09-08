@@ -12,14 +12,14 @@ Finistère, 14 m. by road S.E. of Quimper. Pop. (1906) 7887. The town
 occupies a picturesque situation on an inlet opening into the Bay of La
 Forêt. The old portion stands on an island, and is surrounded by
 ramparts, parts of which are believed to date from the 14th century. It
-is an important centre of the sardine, mackerel and lobster fisheries.
+is an important centre of the sardine, [[Mackerel|mackerel]] and lobster [[Fisheries|fisheries]].
 Sardine-preserving, boat-building and the manufacture of sardine-boxes
 are carried on.
 
 
 
 
-CONCEPCIÓN, a province of southern Chile, lying between the provinces of
+CONCEPCIÓN, a province of southern [[Chile]], lying between the provinces of
 Maule and Ñuble on the N. and Bio-Bio on the S., and extending from the
 Pacific to the Argentine boundary. Its outline is very irregular, the
 Itata river forming its northern boundary, and the Bio-Bio and one of
@@ -27,7 +27,7 @@ its tributaries a part of its southern boundary. Area (estimated) 3252
 sq. m.; pop. (1895) 188,190. Concepción is the most important province
 of southern Chile because of its advantageous commercial position,
 fertility and productive industries. Its coast is indented by two large
-well-sheltered bays, Talcahuano and Arauco, the former having the ports
+well-sheltered bays, Talcahuano and [[Arauco]], the former having the ports
 of Talcahuano, Penco and El Tomé, and the latter Coronel and Lota. Its
 railway communications are good, and the Bio-Bio, which crosses its S.W.
 corner, has 100 m. of navigable channel. The province produces wheat and
@@ -76,7 +76,7 @@ Extremo." It was located on the bay of Talcahuano where the town of
 Penco now stands, about 9 m. from its present site, but was destroyed by
 earthquakes in 1570, 1730 and 1751, and was then (1755) removed to the
 margin of the Bio-Bio. In 1835 it was again laid in ruins, a graphic
-description of which is given by Charles Darwin in _The Voyage of H.M.S.
+description of which is given by Charles [[Darwin]] in _The Voyage of H.M.S.
 Beagle_. The city was twice burned by the Araucanians during their long
 struggle against the Spanish colonists.
 
@@ -88,12 +88,12 @@ northern Paraguay, on the Paraguay river, 138 m. (234 m. by river) N. of
 Asunción, and about 345 ft. above sea-level. Pop. (1895, estimate)
 10,000, largely Indians and mestizos. It is an important commercial
 centre, and a port of call for the river steamers trading with the
-Brazilian town of Corumbá, Matto Grosso. It is the principal point for
-the exportation of Paraguay tea, or "yerba maté" (_Ilex paraguayensis_).
+Brazilian town of Corumbá, [[Matto Grosso]]. It is the principal point for
+the exportation of Paraguay tea, or "yerba [[Mat|mat]]é" (_Ilex paraguayensis_).
 The town has a street railway and telephone service, a national college,
 a public school, a market, and some important commercial establishments.
 The neighbouring country is sparsely settled and produces little except
-forest products. Across the river, in the Paraguayan Chaco, is an
+forest products. Across the river, in the Paraguayan [[Chaco]], is an
 English missionary station, whose territory extends inland among the
 Indians for many miles.
 
@@ -119,23 +119,23 @@ of sense-given data. Thus when one carries one's thoughts back to a
 series of events, one constructs a psychic whole made up of parts which
 take definite shape and character by their mutual interrelations. This
 process is called _conceptual synthesis_, the possibility of which is a
-_sine qua non_ for the exchange of information by speech and writing. It
+_sine qua non_ for the [[Exchange|exchange]] of information by speech and writing. It
 should be noticed that this (very common) psychological interpretation
 of "conception" differs from the metaphysical or general philosophical
-definition given above, in so far as it includes mental presentations in
+[[Definition|definition]] given above, in so far as it includes mental presentations in
 which the universal is not specifically distinguished from the
 particulars. Some psychologists prefer to restrict the term to the
 narrower use which excludes all mental states in which particulars are
 cognized, even though the universal be present also.
 
-In biology conception is the coalescence of the male and female
+In [[Biology|biology]] conception is the coalescence of the male and female
 generative elements, producing pregnancy.
 
 
 FOOTNOTE:
 
-  [1] The word "conceit" in its various senses ("idea," "plan," "fancy,"
-    "imagination," and, by modern extension, an overweening sense of one's
+  [1] The word "conceit" in its various senses ("idea," "plan," "[[Fancy|fancy]],"
+    "[[Imagination|imagination]]," and, by modern extension, an overweening sense of one's
     own value) is likewise derived ultimately from the Latin _concipere_.
     It appears to have been formed directly from the English derivative
     "conceive" on the analogy of "deceit" from "deceive." According to the

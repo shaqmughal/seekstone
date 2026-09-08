@@ -12,25 +12,25 @@ In the first experiments in ballistics by B. Robins, Count Rumford and
 Charles Hutton, the velocity of a projectile was found by means of the
 ballistic pendulum, in which the principle of momentum is applied in
 finding the velocity of a projectile (_Principles of Gunnery_, by
-Benjamin Robins, edited by Hutton, 1805, p. 84). It consisted of a
+[[Benjamin]] Robins, edited by Hutton, 1805, p. 84). It consisted of a
 pendulum of considerable weight, which was displaced from its position
-of rest by the impact of the bullet, the velocity of which was required.
+of rest by the impact of the [[Bullet|bullet]], the velocity of which was required.
 A modification of the ballistic pendulum was also employed by W.E.
 Metford (1824-1899) in his researches on different forms of rifling; the
 bob was made in the form of a long cylinder, weighing about 140 lb,
 suspended with its axis horizontal from four wires at each end, all
-moving points being provided with knife edges. The true length of
+moving points being provided with [[Knife|knife]] edges. The true length of
 suspension was deduced from observations of the time of a complete small
 oscillation. The head of the pendulum was furnished with a wooden block,
 which caught the fragments of bullets fired at it, and its displacement
 was recorded by a rod moved by the bob (_The Book of the Rifle_, by the
-Hon. T.F. Fremantle, p. 336). An improved ballistic pendulum in which
+Hon. T.F. [[Fremantle]], p. 336). An improved ballistic pendulum in which
 the geometric method of suspension is introduced has been used by A.
 Mallock, to determine the resistance of the air to bullets having a
 velocity up to 4500 F/S. (_Proc. Roy. Soc._, Nov. 1904). A ballistic
 pendulum, carried by a geometric suspension from five points, has also
-been employed by C.V. Boys in a research on the elasticity of golf
-balls, the displacement of the bob being recorded on a sheet of smoked
+been employed by C.V. Boys in a research on the elasticity of [[Golf|golf]]
+[[Ball|balls]], the displacement of the bob being recorded on a sheet of smoked
 glass.[1] For further information on the dynamics of the subject see
 _Text Book of Gunnery_, 1897, p. 101.
 
@@ -40,8 +40,8 @@ recorded by means of some kind of electrically controlled mechanism; and
 in order that small fractions of a second may be measured, tuning-forks
 are employed, giving any convenient number of vibrations per second, a
 light style or scribing point, usually of aluminium, being attached to
-one of the legs of the tuning-fork. A trace of the vibration is made on
-a surface blackened with the deposit from the smoke of a lamp. Glazed
+one of the [[Leg|legs]] of the tuning-fork. A trace of the vibration is made on
+a surface blackened with the deposit from the smoke of a [[Lamp|lamp]]. Glazed
 paper is often employed when the velocity of the surface is slow, but
 when a high velocity of smoked surface is necessary, smoked glass offers
 far the least resistance to the movement of the scribing points. If the
@@ -50,11 +50,11 @@ gives excellent results, and offers but little resistance to all the
 scribing points employed. The period of vibration of tuning-forks is
 determined by direct or indirect comparison with the mean solar second,
 taken from a standard clock, the rate of which is known from transit
-observations ("Recherches sur les vibrations d'un diapason étalon," R.
-Koenig, _Wied. Ann._, 1880). In the celebrated ballistic experiments of
+observations ("Recherches sur les vibrations d'un [[Diapason|diapason]] étalon," R.
+[[Koenig]], _Wied. Ann._, 1880). In the celebrated ballistic experiments of
 the Rev. F. Bashforth, the time markings were made electrically from a
 standard clock, and fractions of a second were estimated by
-interpolation. Regnault (_Mémoires de l'acad. des sciences_, t. xxxvii.)
+[[Interpolation|interpolation]]. Regnault (_Mémoires de l'acad. des sciences_, t. xxxvii.)
 employed both a standard clock and a tuning-fork in his determination of
 the velocity of sound. The effect of temperature on tuning-forks has
 been determined by Lord Rayleigh and Professor H. McLeod (_Proc. Roy.
@@ -64,12 +64,12 @@ period is marked on a moving surface in many ways. Usually an
 electromagnetic stylus is employed, in which a scribing point suddenly
 moves when the electric circuit is broken by a projectile. Another
 method is to arrange the terminals of the secondary circuit of an
-induction coil, so that when the primary circuit is opened a small spark
-punctures or marks a moving surface (Helmholtz, _Phil. Mag._, 1853, p.
+[[Induction Coil|induction coil]], so that when the primary circuit is opened a small spark
+punctures or marks a moving surface ([[Helmholtz]], _Phil. Mag._, 1853, p.
 6). A photographic plate or film, moving in a dark chamber, is also used
 to receive markings produced by a beam of light interrupted by a small
 screen attached to an electromagnetic stylus, or by the legs of a
-tuning-fork, or by the mercury column of a capillary electrometer. In
+tuning-fork, or by the mercury column of a capillary [[Electrometer|electrometer]]. In
 certain researches on the explosive wave of gases the light given by the
 burning gases made the time trace on a rapidly moving photographic film
 (H.B. Dixon, _Phil. Trans._, 1903, 200, p. 323). In physiological
@@ -84,7 +84,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   _Gun Chronographs._--Probably the earliest forms of chronographs, not
   based on the ballistic pendulum method, are due to Colonel Grobert,
   1804, and Colonel Dabooz, 1818, both officers of the French army. In
-  the instrument by Grobert two large disks, attached to the same axle
+  the instrument by Grobert two large disks, attached to the same [[Axle|axle]]
   13 ft. apart, were rapidly rotated; the shot pierced each disk, the
   angle between two holes giving the time of flight of the ball, when
   the angular velocity of the disks was known. In the instrument by
@@ -127,7 +127,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
 
     Henry.
 
-  Professor Joseph Henry (_Journal Franklin Inst._, 1886) employed a
+  Professor Joseph Henry (_Journal [[Franklin]] Inst._, 1886) employed a
   cylinder driven by clockwork, making ten revolutions per second. The
   surface was divided into 100 equal parts, each equal to 1/1000 second.
   The time marks were made by two galvanometer needles, when successive
@@ -141,7 +141,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   being regulated by a governor provided with wings. A small carriage
   geared to the wheelwork traversed its length, carrying electromagnetic
   signals. The electric chronograph signal usually consists of a small
-  armature (furnished with a style which marks a moving surface) moving
+  [[Armature|armature]] (furnished with a style which marks a moving surface) moving
   in front of an electromagnet, the armature being suddenly pulled off
   the poles of the electromagnet by a spring when the circuit is broken
   (_Journal of Physiology_, ix. 408). The signals in Breguet's
@@ -162,7 +162,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   the time of traversing the space between the screens is deduced. By
   means of an instrument known as a disjunctor the instrumental
   time-loss or latency of the chronograph is determined. [Sidenote:
-  Benton.] In Benton's chronograph (1859) two pendulums are liberated,
+  [[Benton]].] In Benton's chronograph (1859) two pendulums are liberated,
   in the same manner as in the instrument of Navez, one on the cutting
   of the first screen, the other on the cutting of the second. The
   difference between the swings of the two pendulums gives the time
@@ -216,14 +216,14 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   plug. The recording arrangement consists of a series of disks, one for
   each plug, mounted on one axle and rotating at a high angular
   velocity. The edges of these disks are covered with a coating of
-  lamp-black, and the secondaries of the coils are caused to discharge
+  [[Lamp-Black|lamp-black]], and the secondaries of the coils are caused to [[Discharge|discharge]]
   against them, so that a minute spot burnt in the lamp-black of each
   disk indicates the moment of the cutting of the wire in the
   corresponding plug. Hence measurement of the distance between two
   successive spots gives the time occupied by the shot in moving over
   the portion of the bore between two successive plugs. By the aid of a
-  vernier, readings are made to thousandths of an inch, and the
-  peripheral velocity of the disks being 1100 in. a second, the machine
+  vernier, readings are made to thousandths of an [[Inch|inch]], and the
+  peripheral velocity of the disks being 1100 in. a second, the [[Machine|machine]]
   indicates portions of time rather less than one-millionth of a second;
   it is, in fact, practically correct to hundred-thousandths of a second
   (_Phil. Trans._, 1875, pt. i.).
@@ -240,7 +240,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   conveys a current through another electromagnet which supports a much
   shorter rod. This "registrar," as it is called, when released by the
   shot severing the wire of the second screen, falls on a disk which
-  sets free a spring, and causes a horizontal knife to fly forward and
+  sets free a spring, and causes a horizontal knife to [[Fly|fly]] forward and
   nick a zinc tube with which the chronometer rod is sheathed. Hence the
   long rod will be falling for a certain time, while the shot is
   travelling between the two screens, before the short rod is released;
@@ -288,7 +288,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
 
   Colonel Sebert (_Extraits du mémorial de l'artillerie de la marine_)
   devised a chronograph to indicate graphically the motion of recoil of
-  a cannon when fired. A pillar fixed to the ground at the side of the
+  a [[Cannon|cannon]] when fired. A pillar fixed to the ground at the side of the
   gun-carriage supported a tuning-fork, the vibration of which was
   maintained electrically. The fork was provided with a tracing point
   attached to one of the prongs, and so adjusted that it drew its path
@@ -346,7 +346,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   magnetic field, the condition being such that no magnetic lag due to
   iron armatures and cores exists. Two motions of a slide on the pillar,
   viz. of rotation and translation, allow a number of observations to be
-  made. The traces are counted out on a sloping glass desk, and the time
+  made. The traces are counted out on a sloping glass [[Desk|desk]], and the time
   of flight of a projectile between two or more screens is found. When
   very close readings are required, they are made by means of a
   traversing geometric micrometer microscope. When the distance between
@@ -357,7 +357,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   metal or cardboard carrying an electric contact, or a Branly coherer,
   the conductivity of which is restored by means of an induced current,
   takes the place of the second screen. The electric firing circuit is
-  provided with a safety key attached by a cord to the man who loads the
+  provided with a safety [[Key|key]] attached by a cord to the man who loads the
   gun and prepares the electric fuse. The firing circuit is closed by
   inserting the key in a switch at the rear of the gun, thus preventing
   him from getting into the line of fire when the gun is fired by the
@@ -382,8 +382,8 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   plate also records the shadow of a pierced projection attached to a
   tuning-fork, light from the electric lamp being diverted by a mirror
   for this purpose. The solenoid used to produce a magnetic field across
-  the glass cylinder, which is filled with carbon bisulphide, is in
-  circuit with a dynamo, resistances, and the screens on the gun range.
+  the glass cylinder, which is filled with [[Carbon Bisulphide|carbon bisulphide]], is in
+  circuit with a [[Dynamo|dynamo]], resistances, and the screens on the gun range.
   It is a well-known phenomenon in physics that when, with the
   above-mentioned combination of polarizing Nicol prism and analyser,
   the light is shut off by rotating the analyser, it is instantly
@@ -398,18 +398,18 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   photo-chronograph described in _Untersuchungen über die Vibration des
   Gewehrlaufs_, by C. Cranz and K.R. Koch (Munich, 1899), also note on
   the same, _Nature_, 61, p. 58, a sensitive plate moving in a straight
-  line receives the record of the movement of the barrels of firearms
-  when discharged. It was mainly used to determine the "angle or error
+  line receives the record of the movement of the [[Barrel|barrels]] of firearms
+  when discharged. It was mainly used to determine the "angle or [[Error|error]]
   of departure" in ballistics.
 
 
     Watkin.
 
   In a second chronograph by Watkin ("Chronographs and their Application
-  to Gun Ballistics," _Proc. Roy. Inst._, 1896), a metal drum, divided
+  to Gun Ballistics," _Proc. Roy. Inst._, 1896), a metal [[Drum|drum]], divided
   on its edge so that when a vernier is used a minute of angle may be
   read, is rotated rapidly by a motor at a practically uniform speed.
-  The points of a row of steel-pointed pins, screwed into a frame of
+  The points of a row of steel-pointed pins, screwed into a [[Frame|frame]] of
   ebonite, can be brought within 1/200 in. of the surface of the drum.
   Each pin is a part of the secondary circuit of an induction coil, the
   space between the pins and the drum forming spark-gaps. The drum is
@@ -431,11 +431,11 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
 
     Deprez.
 
-  In the chronograph of Marcel Deprez, a cylinder for receiving records
+  In the chronograph of [[Marcel]] Deprez, a cylinder for receiving records
   is driven at a high velocity, 4 to 5 metres per second surface
   velocity. The velocity is determined by means of an
   electrically-driven tuning-fork, the traces being read by means of a
-  vernier gauge. A mercury speed indicator of the Ramsbottom type
+  vernier [[Gauge|gauge]]. A mercury speed [[Indicator|indicator]] of the Ramsbottom type
   enables the rotation to be continuously controlled (A. Favarger,
   _L'Électricité et ses applications à la chronométrie_).
 
@@ -462,7 +462,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   continuous observations can be recorded for 6-2/3 hours. The conical
   pendulum used to govern the rotation of the cylinder was the invention
   of Sir G.B. Airy. The lower end is geared to a metal plate which
-  sweeps through an annular trough filled with glycerin and water. When
+  sweeps through an [[Annular|annular]] trough filled with glycerin and water. When
   the path of the pendulum exceeds a certain diameter it causes the
   plate to enter the liquid more deeply, its motion being thereby
   checked; also, when the pendulum moves in a smaller circle the plate
@@ -478,22 +478,22 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   steel springs placed at right angles to one another.
 
   The observatory of Washburn, University of Wisconsin, is furnished
-  with a chronograph of the same type as that of Dent (_Annals Harvard
+  with a chronograph of the same type as that of Dent (_[[Annals]] Harvard
   Coll. Obs._ vol. i. pt. ii. p. 34), but in this instrument the
   rotation of the cylinder is controlled by a double conical pendulum
   governor of peculiar construction. When the balls fly out beyond a
-  certain point, one of them engages with a hook attached to a brass
+  certain point, one of them engages with a hook attached to a [[Brass|brass]]
   cylinder which embraces the vertical axle loosely. When this mass is
   pulled aside the work done on it diminishes the speed of the governor.
   The pendulum ball usually strikes the hook from 60 to 70 times per
   minute. Governors on this principle were adopted by Alvan Clark for
-  driving heliostats in the United States Transit of Venus Expedition,
+  driving [[Heliostat|heliostats]] in the United States Transit of Venus Expedition,
   1874.
 
 
     Grubb.
 
-  In the astronomical chronograph designed by Sir Howard Grubb (_Proc.
+  In the astronomical chronograph designed by Sir [[Howard]] Grubb (_Proc.
   Inst. Mech. Eng._, July 1888), the recording cylinders--two in
   number--are driven by a weight acting on a train of wheel work
   controlled by an astronomical telescope governor. The peculiar feature
@@ -544,7 +544,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   through a great length of pipe, a band of paper 27 mm. wide was
   continuously unrolled from a bobbin by means of an electromagnetic
   engine. In its passage over a pulley it passed over a smoky lamp
-  flame, which covered it with a thin deposit of carbon. It next passed
+  flame, which covered it with a thin deposit of [[Carbon|carbon]]. It next passed
   over a cylinder in contact with the style of a tuning-fork kept in
   vibration by electromagnets placed on either side of its prongs, the
   current being interrupted by the fork; it was also in contact with an
@@ -553,7 +553,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   Thus three markings were registered on the band, viz. the time of the
   pendulum, the vibrations of the fork, and the marking of the signal
   due to the opening and closing of the current by electrical contacts
-  attached to diaphragms on which the sound wave acted. The contacts
+  attached to [[Diaphragm|diaphragms]] on which the sound wave acted. The contacts
   consisted of minute hammers resting on metal points fixed to the
   centre of diaphragms which closed the end of the experimental pipes.
   The signal marked the instant at which a sound wave impinged on a
@@ -564,10 +564,10 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   furnished with diaphragms and contact pieces.
 
 
-    Ayrton and Perry.
+    [[Ayrton]] and Perry.
 
   In the chronographic use of the Morse telegraph instrument (Stewart
-  and Gee, _Elementary Practical Phys._ p. 234) a circuit is arranged
+  and [[Gee]], _Elementary Practical Phys._ p. 234) a circuit is arranged
   which includes a seconds' pendulum furnished with a fine platinum wire
   below the bob, which sweeps through a small mass of mercury forming a
   part of the circuit. There is a Morse key for closing the circuit. A
@@ -591,7 +591,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
 
     Hipp.
 
-    Mayer.
+    [[Mayer]].
 
   In the tuning-fork electro-chronograph attributed to Hipp a metal
   cylinder covered with smoked glazed paper is rotated uniformly by
@@ -636,7 +636,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   engages with another spring catch. In front of the moving glass plate
   a tuning-fork is fixed, also a lever actuated by the muscle to be
   electrically stimulated. When the pendulum swings through its arc, it
-  knocks over the contact key in the primary circuit of an induction
+  knocks over the contact key in the primary circuit of an [[Induction|induction]]
   coil, the secondary of which is in connexion with the muscle. The
   smoked plate receives the traces of the style of the tuning-fork and
   of the lever attached to the muscle, and also the trace of an
@@ -668,7 +668,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   used in physiological research are recorded on a sensitive plate
   moving at a uniform angular velocity. The trace of the vibrating
   prongs of a tuning-fork of known period is also recorded on the plate,
-  the light used being that of the electric arc. The images of the
+  the light used being that of the electric arc. The [[Image|images]] of the
   meniscus of the mercury column and of the moving fork are focused on
   the plate by a lens. Excellent results have been obtained with this
   instrument.
@@ -680,9 +680,9 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   Marey (_Comptes rendus_, 7. août 1882, and _Le Mouvement_, par E.J.
   Marey, Paris, 1894), who employed a photographic plate for receiving
   successive pictures of moving objects, at definite times, when
-  investigating the movements of animals, birds, fishes, insects, and
+  investigating the movements of animals, birds, fishes, [[Insect|insects]], and
   also microscopic objects such as vorticellae. The instrument in one of
-  its forms consisted of a camera and lens. In front of the sensitive
+  its forms consisted of a [[Camera|camera]] and lens. In front of the sensitive
   plate and close to it a disk, pierced with radial slits, revolved at a
   given angular velocity, and each time a slit passed by the plate was
   exposed. But since, in the time of passage of the space between the
@@ -697,7 +697,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   pneumatic signals and a rotating cylinder covered with smoked glazed
   paper, measured the time of the movements of the limbs of animals. The
   instrument consists of a recording cylinder rotated at a uniform
-  angular velocity by clockwork controlled by a fan governor, and
+  angular velocity by clockwork controlled by a [[Fan|fan]] governor, and
   pneumatic signal, constructed thus. One end of a closed shallow
   cylinder, about 4 cm. dia., is furnished with a stretched rubber
   membrane. A light lever, moving about an axis near the edge of the
@@ -719,7 +719,7 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   "Das Attwood'sche Myographion," _Abhandlungen der k. bayerischen
   Akademie der Wissenschaften_ (1862); Id., _Fall-Myographion
   aufgestellt in der Wiener Weltausstellung in der Abteilung für das
-  Unterrichtswesen von Ungarn_ (Budapest, 1873); Hensen, "Myographion
+  Unterrichtswesen von Ungarn_ ([[Budapest]], 1873); Hensen, "Myographion
   mit vibratorischer Bewegung," _Arbeiten aus dem Kieler physiol.
   Instit._ (1868); Brücke, _Sitzungsber. d Wien. Acad._ (1877); Pflüger,
   "Myographion ohne Bewegung," _Untersuchungen über die Physiologie des
@@ -727,11 +727,11 @@ Foster, _Text Book of Physiology_, 1879, p. 39).
   _Physiologie des Menschen_ (for Pflüger's cylinder governed by conical
   pendulum); J.G. M'Kendrick, _Life in Motion_ (1892) (for early form of
   cylinder chronograph by Thomas Young); Stirling, _Outlines of
-  Practical Physiology_ (for reaction-time chronographs of F. Galton and
+  Practical Physiology_ (for reaction-time chronographs of F. [[Galton]] and
   Exner). (2) Chronographs used in gun work and for other purposes:
   Sabine, _Phil. Mag._ (1876); Moisson, _Notice sur la chronographie
   système Schultz_ (Paris, 1875); Paul la Cour, _La Roue phonique_
-  (Copenhagen, 1878); Mach, "Collected Papers on Chronographs,"
+  ([[Copenhagen]], 1878); [[Mach]], "Collected Papers on Chronographs,"
   _Nature_, 42, p. 250; C.V. Boys, "Bullets photographed in Flight,"
   _Nature_, 47, p. 415; Pneumatic Tube Co., Paris, "Chronograph,"
   _Nature_, 9, p. 105; G.C. Foster, "Laboratory Chronograph," _Nature_,

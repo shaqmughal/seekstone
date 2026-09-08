@@ -16,12 +16,12 @@ picturesque ruin, standing in an ancient cemetery, built for the use of the
 local gild of the Holy Ghost which was founded in 1525, but flourished for
 less than a century. Close to the neighbouring village of Old Basing are
 remains of Basing House, remarkable as the scene of the stubborn opposition
-of John, fifth marquess of Winchester, to Cromwell, by whom it was taken
+of John, fifth marquess of Winchester, to [[Cromwell]], by whom it was taken
 after a protracted siege in 1645. A castle occupied its site from Norman
 times. Numerous prehistoric relics have been discovered in the district,
 and a large circular encampment is seen at Winklebury Hill. Basingstoke has
 considerable agricultural trade, and brewing, and the manufacture of
-agricultural implements, and of clothing, are carried on. The Basingstoke
+agricultural [[Implement|implements]], and of clothing, are carried on. The Basingstoke
 canal, which connects the town with the river Wey and so with the Thames,
 was opened about 1794, but lost its trade owing to railway competition. It
 was offered for sale by auction unsuccessfully in 1904, but was bought in
@@ -48,7 +48,7 @@ was transferred to Wednesday, and has not since been [v.03 p.0481] changed.
 Henry VI. granted a fair at Whitsun to be held near the chapel of the Holy
 Ghost. The charter from James I. confirmed another fair at the feast of St
 Michael the Archangel, and that of Charles I. granted two fairs on
-Basingstoke Down at Easter and on the 10th and 11th of September. The wool
+Basingstoke Down at [[Easter]] and on the 10th and 11th of September. The wool
 trade flourished in Basingstoke at an early date, but later appears to have
 declined, and in 1631 the clothiers of Basingstoke were complaining of the
 loss of trade and consequent distress.

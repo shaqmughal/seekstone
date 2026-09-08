@@ -9,12 +9,12 @@ topic: art
 CINCHONA, the generic name of a number of trees which belong to the
 natural order Rubiaceae. Botanically the genus includes trees of varying
 size, some reaching an altitude of 80 ft. and upwards, with evergreen
-leaves and deciduous stipules. The flowers are arranged in panicles,
+leaves and [[Deciduous|deciduous]] stipules. The flowers are arranged in panicles,
 white or pinkish in colour, with a pleasant odour, the calyx being
 5-toothed superior, and the corolla tubular, 5-lobed and fringed at the
 margin. The stamens are 5, almost concealed by the tubular corolla, and
 the ovary terminates in a fleshy disk. The fruit is an ovoid or
-subcylindrical capsule, splitting from the base, and held together at
+subcylindrical [[Capsule|capsule]], splitting from the base, and held together at
 the apex. The numerous seeds are flat and winged all round. About 40
 species have been distinguished, but of these not more than about a
 dozen have been economically utilized. The plants are natives of the
@@ -29,7 +29,7 @@ been the source of the most valuable febrifuge or antipyretic medicine,
 quinine (q.v.), that has ever been discovered. The earliest
 well-authenticated instance of the medicinal use of cinchona bark is
 found in the year 1638, when the countess of Chinchon (hence the name),
-the wife of the governor of Peru, was cured of an attack of fever by its
+the wife of the governor of Peru, was cured of an attack of [[Fever|fever]] by its
 administration. The medicine was recommended in her case by the
 corregidor of Loxa, who was said himself to have practically experienced
 its supreme virtues eight years earlier. A knowledge of the bark was
@@ -57,24 +57,24 @@ disadvantageous conditions.
 
 The enormous medicinal consumption of these barks, and the wasteful and
 reckless manner of procuring them in America long ago, caused serious
-and well-grounded apprehension that the native forests would quickly
+and well-grounded [[Apprehension|apprehension]] that the native forests would quickly
 become exhausted. The attention of European communities was early
 directed to the necessity of securing steady and permanent supplies by
 introducing the more valuable species into localities likely to be
 favourable to their cultivation. The first actual attempt to rear plants
 was made in Algeria in 1849; but the effort was not successful. In 1854
 the Dutch government seriously undertook the task of introducing the
-trees into the island of Java, and an expedition for that purpose was
+trees into the island of [[Java]], and an expedition for that purpose was
 fitted out on an adequate scale. Several hundreds of young trees were
 obtained, of which a small proportion was successfully landed and
 planted in Java; and as the result of great attention the cultivation of
 cinchona plantations in that island became highly prosperous and
 promising. The desirability of introducing cinchonas into the East
-Indies was urged in a memorial addressed to the East India Company
+Indies was urged in a memorial addressed to the [[East India Company]]
 between 1838 and 1842 by Sir Robert Christison and backed by Dr Forbes
 Royle; but no active step was taken till 1852, when, again on the motion
 of Dr Royle, some efforts to obtain plants were made through consular
-agents. In the end the question was seriously taken up, and Sir Clements
+agents. In the end the question was seriously taken up, and Sir [[Clement|Clements]]
 R. Markham was appointed to head an expedition to obtain young trees
 from South America and convey them to India. The transference of the
 plants was attended with considerable difficulty, but in 1861 under his
@@ -83,8 +83,8 @@ situation in the Nilgiri Hills. For several years subsequently
 additional supplies of plants of various species were obtained from
 different regions of South America, and some were also procured from the
 Dutch plantations in Java. Now the culture has spread over a wide area
-in southern India, in Ceylon, on the slopes of the Himalayas, and in
-British Burma, and has become widely spread through the tropics
+in southern India, in Ceylon, on the slopes of the [[Himalaya|Himalayas]], and in
+British [[Burma]], and has become widely spread through the tropics
 generally. The species grown are principally _Cinchona officinalis, C.
 Calisaya, C. succirubra, C. pitayensis_, and _C. Pahudiana_, some
 agreeing with certain soils and climates better than others, while the
@@ -119,7 +119,7 @@ standardization removes one of the chief objections to their use.
   has the formula C19H22N2O, quinine being methoxy cinchonine, i.e.
   C19H21(OCH3)N2O. It occurs in inodorous, bitter, colourless prisms;
   unlike the two alkaloids already named, does not yield a green colour
-  with chlorine water and ammonia; is dextro-rotatory; not fluorescent,
+  with [[Chlorine|chlorine]] water and ammonia; is dextro-rotatory; not fluorescent,
   and practically insoluble in ammonia and in ether. A fourth alkaloid,
   cinchonidine, is isomeric with cinchonine, which yields it when boiled
   with amyl alcoholic potash, but is laevo-rotatory, slightly soluble in
@@ -134,7 +134,7 @@ standardization removes one of the chief objections to their use.
   various forms of bark also yield a very small quantity of an
   unimportant alkaloid, _conquinamine_. In addition to the above, red
   bark contains _quinic acid_, C7H12O6, which is closely allied to
-  benzoic acid and is excreted in the urine as hippuric acid. There also
+  benzoic acid and is excreted in the urine as [[Hippuric Acid|hippuric acid]]. There also
   occurs _chinovic acid_, derived from a glucoside _chinovin_, which
   occurs as such in the bark. Besides a trace of volatile oil which
   gives the bark its characteristic odour, and cinchona red (the bark

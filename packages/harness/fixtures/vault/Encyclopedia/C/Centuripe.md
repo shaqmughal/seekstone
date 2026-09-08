@@ -1,7 +1,7 @@
 # Centuripe
 
 CENTURIPE (formerly CENTORBI, anc. [Greek: Kentoripa] or _Centuripae_),
-a town of Sicily, in the province of Catania, situated 2380 ft. above
+a town of Sicily, in the province of [[Catania]], situated 2380 ft. above
 sea-level in a commanding situation, 7 m. N. of the railway station of
 Catenanuova-Centuripe, which is 28 m. W. from Catania. Pop. (1901)
 11,311. Thucydides mentions it as a city of the Sicels. It became an

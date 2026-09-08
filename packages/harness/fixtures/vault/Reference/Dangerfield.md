@@ -1,7 +1,7 @@
 # Dangerfield
 
 DANGERFIELD, THOMAS (c. 1650-1685), English conspirator, was born about
-1650 at Waltham, Essex, the son of a farmer. He began his career by
+1650 at Waltham, [[Essex]], the son of a [[Farmer|farmer]]. He began his career by
 robbing his father, and, after a rambling life, took to coining false
 money, for which offence and others he was many times imprisoned. False
 to everyone, he first tried to involve the duke of Monmouth and others
@@ -10,7 +10,7 @@ and this having been proved a lie, he pretended to have discovered a
 Catholic plot against Charles II. This was known as the "Meal-tub Plot,"
 from the place where the incriminating documents were hidden at his
 suggestion, and found by the king's officers by his information. Mrs
-Elizabeth Cellier,--in whose house the tub was,--almoner to the countess
+Elizabeth [[Cellier]],--in whose house the tub was,--almoner to the countess
 of Powis, who had befriended Dangerfield when he posed as a Catholic,
 was, with her patroness, actually tried for high treason and acquitted
 (1680). Dangerfield, when examined at the bar of the House of Commons,

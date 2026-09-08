@@ -8,22 +8,22 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Maldon"
 # Maldon
 
 MALDON, a market town, municipal borough and port, in the Maldon
-parliamentary borough of Essex, England, on an acclivity rising from the
+parliamentary borough of [[Essex]], England, on an acclivity rising from the
 south side of the Blackwater, 43 m. E.N.E. from London by a branch from
 Witham of the Great Eastern railway. Pop. (1901), 5565. There are east
 and west railway stations. The church of All Saints, dating from 1056,
-but, as it stands, Early English and later, consists of chancel, nave
+but, as it stands, Early English and later, consists of [[Chancel|chancel]], nave
 and aisles, with a triangular Early English tower (a unique form) at the
 west end surmounted by a hexagonal spire. The tower of St Mary's Church
 shows Norman work with Roman materials. The other public buildings are
 the grammar school, founded in 1547; the town-hall, formerly D'Arcy's
 tower, built in the reign of Henry VI.; and the public hall. There are
-manufactures of crystallized salt, breweries, an oyster fishery and some
+manufactures of crystallized salt, breweries, an oyster [[Fishery|fishery]] and some
 shipping. On Osea Island, in the Blackwater estuary, there is a farm
 colony for the unemployed. A mile west of Maldon are remains of Beeleigh
 Abbey, a Premonstratensian foundation of the 12th century. They consist
 of the chapter-house and another chamber, and are of fine Early English
-work. The borough is under a mayor, 4 aldermen and 12 councillors. Area,
+work. The borough is under a [[Mayor|mayor]], 4 aldermen and 12 councillors. Area,
 3028 acres.
 
 At Maldon (_Maelduna_, _Melduna_, _Mealdon_ or _Meaudon_) palaeolithic,

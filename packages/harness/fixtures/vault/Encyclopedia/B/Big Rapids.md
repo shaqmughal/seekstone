@@ -4,7 +4,7 @@ BIG RAPIDS, a city and the county-seat of Mecosta county, Michigan,
 U.S.A., on both sides of the Muskegon river, 56 m. N. by E. of Grand
 Rapids, in the west central portion of the lower peninsula. Pop. (1890)
 5303; (1900) 4686, of whom 881 were foreign-born; (1910, U.S. census)
-4519. It is served by the Père Marquette and the Grand Rapids & Indiana
+4519. It is served by the Père Marquette and the [[Grand Rapids]] & [[Indiana]]
 railways. Big Rapids is the seat of the Ferris Institute (opened 1884,
 incorporated 1894), a large private co-educational school, founded by
 W.N. Ferris. The river, which falls 16 ft. within the city limits, is

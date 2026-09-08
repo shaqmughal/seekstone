@@ -13,7 +13,7 @@ offence; the old law term for a special case of maiming of persons was
 animals by others than their owners is a particular form of the offences
 generally grouped as "malicious damage." For the purpose of the law as
 to this offence animals are divided into cattle, which includes horses,
-pigs and asses, and other animals which are either subjects of larceny
+pigs and asses, and other animals which are either subjects of [[Larceny|larceny]]
 at common law or are usually kept in confinement or for domestic
 purposes. The punishment for maiming of cattle is three to fourteen
 years' penal servitude. Malicious injury to other animals is a

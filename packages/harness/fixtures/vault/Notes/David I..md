@@ -6,14 +6,14 @@ topic: science
 
 # David I.
 
-DAVID I. (1084-1153), king of Scotland, the youngest son of Malcolm
-Canmore and (Saint) Margaret, sister of Edgar Aetheling, was born in
+DAVID I. (1084-1153), king of Scotland, the youngest son of [[Malcolm]]
+Canmore and (Saint) [[Margaret]], sister of [[Edgar]] Aetheling, was born in
 1084. He married in 1113 Matilda, daughter and heiress of Waltheof, earl
 of Northumbria, and thus became possessed of the earldom of Huntingdon.
 On the death of Edgar, king of Scotland, in 1107, the territories of the
 Scottish crown were divided in accordance with the terms of his will
 between his two brothers, Alexander and David. Alexander, together with
-the crown, received Scotland north of the Forth and Clyde, David the
+the crown, received Scotland north of the Forth and [[Clyde]], David the
 southern district with the title of earl of Cumbria. The death of
 Alexander I. in 1124 gave David possession of the whole. In 1127, in the
 character of an English baron, he swore fealty to Matilda as heiress to

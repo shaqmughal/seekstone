@@ -1,7 +1,7 @@
 # Grand Canary
 
 GRAND CANARY (Gran Canaria), an island in the Atlantic Ocean, forming
-part of the Spanish archipelago of the Canary Islands (q.v.). Pop.
+part of the Spanish archipelago of the [[Canary Islands]] (q.v.). Pop.
 (1900) 127,471; area 523 sq. m. Grand Canary, the most fertile island of
 the group, is nearly circular in shape, with a diameter of 24 m. and a
 circumference of 75 m. The interior is a mass of mountain with ravines

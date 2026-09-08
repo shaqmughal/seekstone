@@ -30,7 +30,7 @@ kind in the gardens. The botanical gardens at Kew were thrown open to
 the public in 1841 under the directorate of Sir William Hooker.
 Including the arboretum, their total area did not then exceed 11 acres.
 Four years later the pleasure grounds and gardens at Kew occupied by the
-king of Hanover were given to the nation and placed under the care of
+king of [[Hanover]] were given to the nation and placed under the care of
 Sir William for the express purpose of being converted into an
 arboretum. Hooker rose to the occasion and, zealously reinforced by his
 son and successor, Sir Joseph, established a collection which rapidly
@@ -43,9 +43,9 @@ Garden in Edinburgh and the Glasnevin Garden in Dublin. The collection
 of trees in the Botanic Garden at Cambridge is also one of respectable
 proportions. There is a small but very select collection of trees at
 Oxford, the oldest botanical garden in Great Britain, which was founded
-in 1632. In the United States the Arnold Arboretum at Boston ranks with
+in 1632. In the United States the [[Arnold]] Arboretum at [[Boston]] ranks with
 Kew for size and completeness. It takes its name from its donor, the
-friend of Emerson. It was originally a well-timbered park, which, by
+friend of [[Emerson]]. It was originally a well-timbered park, which, by
 later additions, now covers 222 acres. Practically, it forms part of the
 park system so characteristic of the city, being situated only 4 m. from
 the centre of population. There is a fine arboretum in the botanical
@@ -61,15 +61,15 @@ throughout the British Islands, the interest taken in them by their
 proprietors having largely increased in recent years. Rich men collect
 trees, as they do paintings or books. They spare neither pains nor money
 in acquiring specimens, even from distant lands, to which they often
-send out expert collectors at their own expense. This, too, the Royal
+send out [[Expert|expert]] collectors at their own expense. This, too, the Royal
 Horticultural Society was once wont to do, with valuable results, as in
 the case of David Douglas's remarkable expedition to North America in
-1823-1824. It will be remembered that when the laird of Dumbiedikes lay
+1823-1824. It will be remembered that when the [[Laird|laird]] of Dumbiedikes lay
 dying (Scott's _Heart of Midlothian_, chap, viii.) he gave his son one
-bit of advice which Bacon himself could not have bettered. "Jock," said
+[[Bit|bit]] of advice which Bacon himself could not have bettered. "Jock," said
 the old reprobate, "when ye hae naething else to do; ye may be aye
 sticking in a tree; it will be growing, Jock, when ye're sleeping." Sir
-Walter assures us that a Scots earl took this maxim so seriously to
+Walter [[Assur|assures]] us that a Scots earl took this maxim so seriously to
 heart that he planted a large tract of country with trees, a practice
 which in these days is promoted by the English and Royal Scottish
 Arboricultural Societies.

@@ -14,7 +14,7 @@ tower, and some portions of earlier date. It contains a monument to
 William Cowper, who came to live here in 1796, and the Congregational
 chapel stands on the site of the house where the poet spent his last
 days. Dereham is an important agricultural centre with works for the
-manufacture of agricultural implements, iron foundries and a malting
+manufacture of agricultural [[Implement|implements]], iron foundries and a malting
 industry.
 
 ## References

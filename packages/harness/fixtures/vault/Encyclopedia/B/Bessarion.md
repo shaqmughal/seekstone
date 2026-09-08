@@ -13,20 +13,20 @@ contributed to the great revival of letters in the 15th century, was
 born at Trebizond, the year of his birth being variously given as 1389,
 1395 or 1403. He was educated at Constantinople, and in 1423 went to the
 Peloponnese to hear Gemistus Pletho expound the philosophy of Plato. On
-entering the order of St Basil, he adopted the name of an old Egyptian
+entering the order of St [[Basil]], he adopted the name of an old Egyptian
 anchorite Bessarion, whose story he has related. In 1437 he was made
 archbishop of Nicaea by John VII. Palacologus, whom he accompanied to
 Italy in order to bring about a union between the Greek and Latin
 churches with the object of obtaining help from the West against the
-Turks. The Greeks had bitterly resented his attachment to the party
+Turks. The Greeks had bitterly resented his [[Attachment|attachment]] to the party
 which saw no difficulty in a reconciliation of the two churches. At the
 councils held in Ferrara and Florence Bessarion supported the Roman
-church, and gained the favour of Pope Eugenius IV., who invested him
+church, and gained the favour of Pope [[Eugenius]] IV., who invested him
 with the rank of cardinal. From that time he resided permanently in
 Italy, doing much, by his patronage of learned men, by his collection of
-books and manuscripts, and by his own writings, to spread abroad the new
+books and [[Manuscript|manuscripts]], and by his own writings, to spread abroad the new
 learning. He held in succession the archbishopric of Siponto and the
-bishoprics of Sabina and Frascati. In 1463 he received the title of
+bishoprics of Sabina and [[Frascati]]. In 1463 he received the title of
 Latin patriarch of Constantinople; and it was only on account of his
 Greek birth that he was not elevated to the papal chair. For five years
 (1450-1455) he was legate at Bologna, and he was engaged on embassies to
@@ -46,7 +46,7 @@ contained a very extensive collection of Greek MSS., was presented by
 him to the senate of Venice, and formed the nucleus of the famous
 library of St Mark.
 
-  See A.M. Bandini, _De Vita et Rebus Gestis Bessarionis_ (1777); H.
+  See A.M. [[Bandini]], _De Vita et Rebus Gestis Bessarionis_ (1777); H.
   Vast, _Le Cardinal Bessarion_ (1878); E. Legrand, _Bibliographie
   Hellenique_ (1885); G. Voigt, _Die Wiederbelebung des klassischen
   Altertums_, ii. (1893); on Bessarion at the councils of Ferrara and

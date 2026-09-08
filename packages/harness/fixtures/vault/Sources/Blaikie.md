@@ -13,16 +13,16 @@ BLAIKIE, WILLIAM GARDEN (1820-1899), Scottish divine, was born on the
 provost of the reformed corporation. After studying at the Marischal
 College, where Alexander Bain and David Masson were among his
 contemporaries, he went in 1839 to Edinburgh to complete his theological
-course under Thomas Chalmers. In 1842 he was presented to the living of
+course under Thomas [[Chalmers]]. In 1842 he was presented to the living of
 Drumblade by Lord Kintore, with whose family he was connected. The
-Disruption controversy reached its climax immediately afterwards, and
+Disruption controversy reached its [[Climax|climax]] immediately afterwards, and
 Blaikie, whose sympathies were entirely with Chalmers, was one of the
 474 ministers who signed the deed of demission and gave up their
 livings. He was Free Church minister at Pilrig, between Edinburgh and
-Leith, from 1844 to 1868. Keenly interested in questions of social
+[[Leith]], from 1844 to 1868. Keenly interested in questions of social
 reform, his first publication was a pamphlet, which was afterwards
 enlarged into a book called _Better Days for Working People_. It
-received public commendation from Lord Brougham, and 60,000 copies were
+received public [[Commendation|commendation]] from Lord Brougham, and 60,000 copies were
 sold. He formed an association for providing better homes for working
 people, and the Pilrig Model Buildings were erected. He also undertook
 the editorship of the _Free Church Magazine_, and then that of the
@@ -50,14 +50,14 @@ professorship, and died on the 11th of June 1899.
 Blaikie was an ardent philanthropist, and an active and intelligent
 temperance reformer, in days when this was far from easy. He raised
 L14,000 for the relief of the Waldensian churches. Although he took an
-active part in the affairs of his denomination, he was not a mere
+active part in the affairs of his [[Denomination|denomination]], he was not a mere
 ecclesiastic. He had a keen eye for the evidences of spiritual growth or
 decline, and emphasized the need of maintaining a high level of
 spiritual life. He welcomed Moody to Scotland, and the evangelist made
 his headquarters with him during his first visit. His best books are
-_The Work of the Ministry--A Manual of Homiletic and Pastoral Theology_
+_The Work of the Ministry--A [[Manual]] of Homiletic and Pastoral Theology_
 (1873); _The Books of Samuel_ in the _Expositors' Bible Series_ (2
-vols.); _The Personal Life of David Livingstone_ (1880); _After Fifty
+vols.); _The Personal Life of David [[Livingstone]]_ (1880); _After Fifty
 Years_ (1893), an account of the Disruption Movement in the form of
 letters of a grandfather; _Thomas Chalmers_ (1896).     (D. Mn.)
 

@@ -11,11 +11,11 @@ LIBERTAD, or LA LIBERTAD, a coast department of Peru, bounded N. by
 Lambayeque and Cajamarca, E. by San Martin, S. by Ancachs, S.W. and W.
 by the Pacific. Pop. (1906 estimate) 188,200; area 10,209 sq. m.
 Libertad formerly included the present department of Lambayeque. The
-Western Cordillera divides it into two nearly equal parts; the western
+Western [[Cordillera]] divides it into two nearly equal parts; the western
 consisting of a narrow, arid, sandy coast zone and the western slopes of
 the Cordillera broken into valleys by short mountain spurs, and the
 eastern a high inter-Andine valley lying between the Western and Central
-Cordilleras and traversed by the upper Marañon or Amazon, which at one
+Cordilleras and traversed by the upper [[Mara]]ñon or Amazon, which at one
 point is less than 90 m. in a straight line from the Pacific coast. The
 coast region is traversed by several short streams, which are fed by the
 melting snows of the Cordillera and are extensively used for irrigation.
@@ -42,7 +42,7 @@ from Salaverry to Trujillo with its extension to Ascope, 47 m.; from
 Trujillo to Laredo, Galindo and Menocucho, 18½ m.; from Huanchaco to
 Roma, 25 m.; and from Chicama to Pampas, 18½ m. The principal ports are
 Pacasmayo and Salaverry, which have long iron piers built by the
-national government; Malabrigo, Huanchuco, Guañape and Chao are open
+national government; Malabrigo, Huanchuco, Guañ[[Ape|ape]] and Chao are open
 roadsteads. The capital of the department is Trujillo. The other
 principal towns are San Pedro, Otuzco, Huamachuco, Santiago de Chuco
 and Tuyabamba--all provincial capitals and important only through their

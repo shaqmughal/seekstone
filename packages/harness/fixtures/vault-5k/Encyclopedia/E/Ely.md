@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ely"
 # Ely
 
 ELY, a cathedral city and market-town, in the Newmarket parliamentary
-division of Cambridgeshire, England, 16 m. N.N.E. of Cambridge by the
+division of [[Cambridgeshire]], England, 16 m. N.N.E. of Cambridge by the
 Great Eastern railway. Pop. of urban district (1901) 7713. It stands on
 a considerable eminence on the west (left) bank of the Ouse, in the Isle
 of Ely, which rises above the surrounding fens. Thus its situation,
@@ -17,7 +17,7 @@ before the great drainage operations of the 17th century, was
 practically insular. The magnificent cathedral, towering above the town,
 is a landmark far over the wide surrounding level. The soil in the
 vicinity is fertile and market-gardening is carried on, fruit and
-vegetables (especially asparagus) being sent to the London markets. The
+vegetables (especially [[Asparagus|asparagus]]) being sent to the London markets. The
 town has a considerable manufacture of tobacco pipes and earthenware,
 and there are in the neighbourhood mills for the preparation of oil from
 flax, hemp and cole-seed. Besides the cathedral Ely has in St Mary's
@@ -32,7 +32,7 @@ college was founded in 1876 and opened in 1881.
 
 The foundation of the present cathedral was laid by its first Norman
 abbot, Simeon, in 1083. But the reputation of Ely had been established
-long before Etheldreda (Æthelthryth), daughter of Anna, king of East
+long before Etheldreda (Æthelthryth), daughter of [[Anna]], king of East
 Anglia, was married to Ecgfrith, king of Northumbria, against her will,
 as she had vowed herself wholly to a religious life. Her husband opposed
 himself to her vow, but with the help of Wilfrid, archbishop of York,
@@ -72,7 +72,7 @@ from the diocese of Lincoln, and converted into a new diocese, Ely being
 the seat of the bishopric, and after the dissolution of the monasteries
 Henry VIII. converted the conventual church into a cathedral (1541). The
 diocese is extensive. It covers nearly the whole of Cambridgeshire,
-Huntingdonshire and Bedfordshire, part of Suffolk, and small portions of
+[[Huntingdonshire]] and Bedfordshire, part of Suffolk, and small portions of
 Essex, Norfolk, Northamptonshire, Hertfordshire and Buckinghamshire.
 
 The cathedral is a cruciform structure, 537 ft. long and 190 ft. across
@@ -81,7 +81,7 @@ foundation is preserved in the cross of St Osyth (c. 670), and a
 pre-Norman window is kept in the triforium, having been dug up near the
 cathedral. Of the work of the first two Norman abbots all that remains
 is the early Norman lower storey of the main transept. The foundations
-of Abbot Simeon's apse were discovered below the present choir. The
+of Abbot Simeon's [[Apse|apse]] were discovered below the present choir. The
 nave, which is Norman throughout, is 208 ft. in length, 72 ft. 9 in. to
 the top of the walls, and 77 ft. 3 in. broad, including the aisles. The
 upper parts of the western tower and the transept were begun by Bishop
@@ -125,7 +125,7 @@ the finely-carved effigy of Bishop Northwold (1254) are notable. Between
 1845 and 1884 the cathedral underwent restoration under the direction of
 Sir Gilbert Scott. The work included the erection of the modern reredos
 and choir-screen, both designed by Scott, and the painting of the nave
-roof by Styleman le Strange (d. 1862), who was succeeded by Gambier
+roof by Styleman le Strange (d. 1862), who was succeeded by [[Gambier]]
 Parry. Parry also richly ornamented the octagon and lantern in the style
 of the 14th century.
 
@@ -136,7 +136,7 @@ Decorated chapel. But many of the remains, the bulk of which are
 incorporated in the deanery and canons' and other residences to the
 south of the cathedral, are of much earlier date. Thus the fine early
 Norman undercroft of the prior's hall is probably of the time of Abbot
-Simeon. Another notable fragment is the transitional Norman chancel of
+Simeon. Another notable fragment is the transitional Norman [[Chancel|chancel]] of
 the infirmary chapel. The remnants of the cloisters show a
 reconstruction in the 15th century, but the prior's and monks' doorways
 from the cloisters into the cathedral are highly decorated late Norman.

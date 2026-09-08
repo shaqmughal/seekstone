@@ -7,10 +7,10 @@ topic: medieval
 # Gillott
 
 GILLOTT, JOSEPH (1799-1873); English pen-maker, was born at Sheffield on
-the 11th of October 1799. For some time he was a working cutler there,
-but in 1821 removed to Birmingham, where he found employment in the
+the 11th of October 1799. For some time he was a working [[Cutler|cutler]] there,
+but in 1821 removed to [[Birmingham]], where he found employment in the
 "steel toy" trade, the technical name for the manufacture of steel
-buckles, chains and light ornamental steel-work generally. About 1830 he
+[[Buckle|buckles]], chains and light ornamental steel-work generally. About 1830 he
 turned his attention to the manufacture of steel pens by machinery, and
 in 1831 patented a process for placing elongated points on the nibs of
 pens. Subsequently he invented other improvements, getting rid of the

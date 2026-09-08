@@ -1,12 +1,12 @@
 # Cyperaceae
 
 CYPERACEAE, in botany, a natural order of the monocotyledonous group of
-seed-bearing plants. They are grass-like herbs, sometimes annual, but
+seed-bearing plants. They are grass-like [[Herb|herbs]], sometimes annual, but
 more often persist by means of an underground stem from which spring
 erect solitary or clustered, generally three-sided aerial stems, with
 leaves in three rows. The minute flowers are arranged in spikelets
-somewhat as in grasses, and these again in larger spike-like or panicled
-inflorescences. The flower has in rare cases a perianth of six
+somewhat as in [[Grasses|grasses]], and these again in larger spike-like or panicled
+inflorescences. The [[Flower|flower]] has in rare cases a perianth of six
 scale-like leaves arranged in two whorls, and thus conforming to the
 common monocotyledonous type of flower. Generally the perianth is
 represented by hairs, bristles or similar developments, often indefinite
@@ -18,18 +18,18 @@ ovary bearing a corresponding number of styles and containing one ovule.
 The flowers, which are often unisexual, are wind-pollinated. The fruit
 is one-seeded, with a tough, leathery or hard wall. There are nearly 70
 genera containing about 3000 species and widely distributed throughout
-the earth, chiefly as marsh-plants. In the arctic zone they form 10% of
-the flora; they will flourish in soils rich in humus which are too acid
+the earth, chiefly as marsh-plants. In the [[Arctic|arctic]] zone they form 10% of
+the flora; they will flourish in soils rich in [[Humus|humus]] which are too acid
 to support grasses. The large genus _Cyperus_ contains about 400
 species, chiefly in the warmer parts of the earth; _C. Papyrus_ is the
 Egyptian Papyrus. _Carex_, the largest genus of the order, the sedges,
 is widely distributed in the temperate, alpine and arctic regions of
 both hemispheres, and is represented by 60 species in Britain. _Carex
-arenaria_, the sea-bent, grows on sand-dunes and helps to bind the sand
+arenaria_, the sea-bent, grows on sand-dunes and [[Helps|helps]] to bind the sand
 with its long cord-like underground stem which branches widely. _Scirpus
-lacustris_ (fig. 3, 1) the true bulrush, occurs in lakes, ditches and
+lacustris_ (fig. 3, 1) the true [[Bulrush|bulrush]], occurs in lakes, ditches and
 marshes; it has a spongy, green, cylindrical stem, reaching nearly an
-inch in thickness and 1 to 8 ft. high, which is usually leafless with a
+[[Inch|inch]] in thickness and 1 to 8 ft. high, which is usually leafless with a
 terminal branched inflorescence. _Eriophorum_ (fig. 3), cotton grass, is
 represented in Britain by several species in boggy land; they are small
 tufted herbs with cottony heads due to the numerous hair-like bristles

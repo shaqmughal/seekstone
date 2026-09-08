@@ -21,7 +21,7 @@ appeared in 1592, was long regarded as the earliest Elzevir, but the
 first is now known to be _Drusii Ebraicarum quaestionum ac responsionum
 libri duo_, which was produced in 1583. In all he published about 150
 works. He died on the 4th of February 1617. Of his five sons, Matthieu,
-Louis, Gilles, Joost and Bonaventure, who all adopted their father's
+Louis, [[Gill|Gilles]], Joost and Bonaventure, who all adopted their father's
 profession, Bonaventure, who was born in 1583, is the most celebrated.
 He began business as a printer in 1608, and in 1626 took into
 partnership Abraham, a son of Matthieu, born at Leiden in 1592. Abraham
@@ -50,7 +50,7 @@ was born in 1604, and had established a printing press at Amsterdam in
 8vo, _cum notis variorum_; _Cicero_ in 4to; the _Etymologicon linguae
 Latinae_; and a magnificent _Corpus juris civilis_ in folio, 2 vols.,
 1663. Louis died in 1670, and Daniel in 1680. Besides Bonaventure,
-another son of Matthieu, Isaac, born in 1593, established a printing
+another son of Matthieu, [[Isaac]], born in 1593, established a printing
 press at Leiden, where he carried on business from 1616 to 1625; but
 none of his editions attained much fame. The last representatives of the
 Elzevir printers were Peter, grandson of Joost, who from 1667 to 1675

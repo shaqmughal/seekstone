@@ -41,7 +41,7 @@ pamphlets, _Le Banquet ou après-dînée du comte d'Arète_, in which he
 accused Henry of insincerity in his return to the Roman Catholic faith,
 was so scurrilous as to be disapproved of by many members of the League.
 When Henry at length entered Paris, Dorléans was among the number of the
-proscribed. He took refuge in Antwerp, where he remained for nine years.
+proscribed. He took refuge in [[Antwerp]], where he remained for nine years.
 At the expiration of that period he received a pardon, and returned to
 Paris, but was soon imprisoned for sedition. The king, however, released
 him after three months in the Conciergerie, and by this means attached

@@ -8,11 +8,11 @@ id: 42-2985
 
 # Athy
 
-ATHY (pronounced Athy), a market-town of Co. Kildare, Ireland, in the
+ATHY (pronounced Athy), a market-town of Co. [[Kildare]], Ireland, in the
 south parliamentary division, 45 m. S.W. of Dublin on a branch of the
 Great Southern & Western railway. Pop. of urban district (1901) 3599. It
 is intersected by the river Barrow, which is here crossed by a bridge of
-five arches. The crossing of the river here was guarded and disputed
+five [[Arches|arches]]. The crossing of the river here was guarded and disputed
 from the earliest times, and the name of the town is derived from a king
 of Munster killed here in the 2nd century. There are picturesque remains
 of Woodstock Castle of the 12th or 13th century, and White Castle built

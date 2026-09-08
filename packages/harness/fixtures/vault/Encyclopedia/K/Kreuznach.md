@@ -20,7 +20,7 @@ chief spring, the Elisabethquelle, impregnated with iodine and bromine,
 and prescribed for scrofulous, bronchial and rheumatic disorders. The
 chief industries are marble-polishing and the manufacture of leather,
 glass and tobacco. Vines are cultivated on the neighbouring hills, and
-there is a trade in wine and corn.
+there is a trade in wine and [[Corn|corn]].
 
 The earliest mention of the springs of Kreuznach occurs in 1478, but it
 was only in the early part of the 19th century that Dr Prieger, to whom

@@ -7,8 +7,8 @@ the Royal Academy of Music under Cipriani Potter and Charles Lucas, and was
 appointed in 1862 organist of St Andrew's, Wells Street, London, where he
 raised the services to a high degree of excellence. He was conductor of
 "Barnby's Choir" from 1864, and in 1871 was appointed, in succession to
-Gounod, conductor of the Albert Hall Choral Society, a post he held till
-his death. In 1875 he was precentor and director of music at Eton, and in
+[[Gounod]], conductor of the Albert Hall Choral Society, a post he held till
+his death. In 1875 he was precentor and director of music at [[Eton]], and in
 1892 became principal of the Guildhall School of Music, receiving the
 honour of knighthood in July of that year. His works include an oratorio
 _Rebekah_, _Ps. xcvii._, many services and anthems, and two hundred and
@@ -16,7 +16,7 @@ forty-six hymn-tunes (published in 1897 in one volume), as well as some
 part-songs (among them the popular "Sweet and Low"), and some pieces for
 the organ. As a conductor he possessed the qualities as well as the defects
 of the typical north-countryman; if he was wanting in the higher kind of
-imagination or ideality, he infused into those who sang under him something
+[[Imagination|imagination]] or ideality, he infused into those who sang under him something
 of his own rectitude and precision. He was largely instrumental in
 stimulating the love for Gounod's sacred music among the less educated part
 of the London public, although he displayed little practical sympathy with

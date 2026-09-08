@@ -6,7 +6,7 @@ topic: poetry-theory
 
 # Gadag
 
-GADAG, or GARAG, a town of British India, in the Dharwar district of
+GADAG, or GARAG, a town of British India, in the [[Dharwar]] district of
 Bombay, 43 m. E. of Dharwar town. Pop. (1901) 30,652. It is an important
 railway junction on the Southern Mahratta system, with a growing trade
 in raw cotton, and also in the weaving of cotton and silk. There are

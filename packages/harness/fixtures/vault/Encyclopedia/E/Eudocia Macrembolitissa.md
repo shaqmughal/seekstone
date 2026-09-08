@@ -22,9 +22,9 @@ to a convent, where she died. The dictionary of mythology entitled
 [Greek: Iônia] ("Collection of Violets"), which formerly used to be
 ascribed to her, was not composed till 1543 (Constantine Palaeokappa).
 
-  See J. Flach, _Die Kaiserin Eudokia Makrembolitissa_ (Tübingen, 1876);
+  See J. [[Flach]], _Die Kaiserin Eudokia Makrembolitissa_ (Tübingen, 1876);
   P. Pulch, _De Eudociae quod fertur Violario_ (Strassburg, 1880); and
-  in _Hermes_, xvii. (1882), p. 177 ff.
+  in _[[Hermes]]_, xvii. (1882), p. 177 ff.
 
 ## See also
 

@@ -2,8 +2,8 @@
 
 HEIDEGGER, JOHANN HEINRICH (1633-1698), Swiss theologian, was born at
 Barentschweil, in the canton of Zurich, Switzerland, on the 1st of July
-1633. He studied at Marburg and at Heidelberg, where he became the
-friend of J. L. Fabricius (1632-1696), and was appointed _professor
+1633. He studied at [[Marburg]] and at Heidelberg, where he became the
+friend of J. L. [[Fabricius]] (1632-1696), and was appointed _professor
 extraordinarius_ of Hebrew and later of philosophy. In 1659 he was
 called to Steinfurt to fill the chair of dogmatics and ecclesiastical
 history, and in the same year he became doctor of theology of
@@ -14,7 +14,7 @@ he was elected professor of moral philosophy. Two years later he
 succeeded J. H. Hottinger (1620-1667) in the chair of theology, which he
 occupied till his death on the 18th of January 1698, having declined an
 invitation in 1669 to succeed J. Cocceius at Leiden, as well as a call
-to Groningen. Heidegger was the principal author of the _Formula
+to [[Groningen]]. Heidegger was the principal author of the _Formula
 Consensus Helvetica_ in 1675, which was designed to unite the Swiss
 Reformed churches, but had an opposite effect. W. Gass describes him as
 the most notable of the Swiss theologians of the time.

@@ -1,12 +1,12 @@
 # Ferdinand Vii.
 
-FERDINAND VII., king of Spain (1784-1833), the eldest son of Charles
+[[Ferdinand|FERDINAND]] VII., king of Spain (1784-1833), the eldest son of Charles
 IV., king of Spain, and of his wife Maria Louisa of Parma, was born at
 the palace of San Ildefonso near Balsain in the Somosierra hills, on the
 14th of October 1784. The events with which he was connected were many,
 tragic and of the widest European interest. In his youth he occupied the
-painful position of an heir apparent who was carefully excluded from all
-share in government by the jealousy of his parents, and the prevalence
+painful position of an [[Heir|heir]] apparent who was carefully excluded from all
+share in government by the [[Jealousy|jealousy]] of his parents, and the prevalence
 of a royal favourite. National discontent with a feeble government
 produced a revolution in 1808 by which he passed to the throne by the
 forced abdication of his father. Then he spent years as the prisoner of
@@ -50,11 +50,11 @@ did so, and then governed like an evil-disposed boy--indulging the
 merest animal passions, listening to a small _camarilla_ of low-born
 favourites, changing his ministers every three months, and acting on the
 impulse of whims which were sometimes mere buffoonery, but were at times
-lubricous, or ferocious. The autocratic powers of the Grand Alliance,
-though forced to support him as the representative of legitimacy in
+lubricous, or ferocious. The autocratic powers of the [[Grand Alliance]],
+though forced to support him as the representative of [[Legitimacy|legitimacy]] in
 Spain, watched his proceedings with disgust and alarm. "The king," wrote
 Gentz to the hospodar Caradja on the 1st of December 1814, "himself
-enters the houses of his first ministers, arrests them, and hands them
+enters the houses of his first ministers, [[Arrest|arrests]] them, and hands them
 over to their cruel enemies"; and again, on the 14th of January 1815,
 "The king has so debased himself that he has become no more than the
 leading police agent and gaoler of his country." When at last the
@@ -65,7 +65,7 @@ at the beginning of 1823, as a result of the congress of Verona, the
 French invaded Spain,[1] "invoking the God of St Louis, for the sake of
 preserving the throne of Spain to a descendant of Henry IV., and of
 reconciling that fine kingdom with Europe," and in May the revolutionary
-party carried Ferdinand to Cadiz, he continued to make promises of
+party carried Ferdinand to [[Cadiz]], he continued to make promises of
 amendment till he was free. Then, in violation of his oath to grant an
 amnesty, he revenged himself for three years of coercion by killing on a
 scale which revolted his "rescuers," and against which the duke of
@@ -82,7 +82,7 @@ marriage had brought him only two daughters. When well, he consented to
 the change under the influence of his wife. When ill, he was terrified
 by priestly advisers, who were partisans of his brother Don Carlos. What
 his final decision was is perhaps doubtful. His wife was mistress by his
-death-bed, and she could put the words she chose into the mouth of a
+death-bed, and she could put the words she [[Chose|chose]] into the mouth of a
 dead man--and could move the dead hand at her will. Ferdinand died on
 the 29th of September 1833. It had been a frequent saying with the more
 zealous royalists of Spain that a king must be wiser than his ministers,

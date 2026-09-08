@@ -2,7 +2,7 @@
 
 CORMONTAINGNE, LOUIS DE (c. 1697-1752), French military engineer, was
 born at Strassburg. He was present as a volunteer at the sieges of
-Freiburg and Landau in the later years of the War of the Spanish
+[[Freiburg]] and [[Landau]] in the later years of the War of the Spanish
 Succession, and in 1715 he entered the engineers. After being stationed
 for some years at Strassburg he became captain, and was put in charge
 (at first in a subordinate capacity, and subsequently as chief engineer)
@@ -14,14 +14,14 @@ Succession. He attained the rank of brigadier and finally that of
 _maréchal de camp_, and was employed in fortification work until his
 death. His _Architecture militaire_, written in 1714, was long kept
 secret by order of the authorities, but, an unauthorized edition having
-appeared at the Hague in 1741, he himself prepared another version
+appeared at the [[Hague]] in 1741, he himself prepared another version
 called _Premier mémoire sur la fortification_, which from 1741 onwards
 was followed by others. His ideas are closely modelled on those of
 Vauban (q.v.), and in his lifetime he was not considered the equal of
 such engineers as d'Asfeld and Filley. It was not until twenty years
 after his death that his system became widely known. Fourcroy de
 Rainecourt, then chief of engineers, searching the archives for valuable
-matter, chose the numerous memoirs of Cormontaingne for publication
+matter, [[Chose|chose]] the numerous memoirs of Cormontaingne for publication
 amongst engineer officers in 1776. Even then they only circulated
 privately, and it was not until the engineer Bousmard published
 Cormontaingne's _Mémorial de l'attaque des places_ (Berlin, 1803) that
@@ -31,7 +31,7 @@ general public the _OEuvres posthumes de Cormontaingne_ (Paris,
 
 His system of fortification was not marked by any great originality of
 thought, which indeed could not be expected of a member of the _corps du
-génie_, the characteristics of which were a close caste spirit and an
+génie_, the characteristics of which were a close [[Caste|caste]] spirit and an
 unquestioning reverence for the authority of Vauban. Forts Moselle and
 Bellecroix are still in existence.
 

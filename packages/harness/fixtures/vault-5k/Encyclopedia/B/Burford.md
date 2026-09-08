@@ -23,14 +23,14 @@ it. The church contains many interesting memorials, and, in the nave, a
 Perpendicular shrine dedicated to St Peter. Near the church is the
 half-ruined priory house, built in the 17th century, and containing much
 fine plaster ornament characteristic of the period; a curious chapel
-adjoins it. William Lenthall, speaker of the Long Parliament, was granted
+adjoins it. William [[Lenthall]], speaker of the Long Parliament, was granted
 this mansion, died here in 1662, and is buried in the church. In the High
 Street nearly every house is of some antiquity. The Tolsey or old town hall
 is noteworthy among them; and under one of the houses is an Early English
 crypt. Burford is mentioned as the scene of a synod in 705; in 752 Cuthred,
 king of the West Saxons, fighting for independence, here defeated
 AEthelbald, king of Mercia; and in 1649 the town and district were the scene
-of victorious operations by Cromwell.
+of victorious operations by [[Cromwell]].
 
 ## References
 

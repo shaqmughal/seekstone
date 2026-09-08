@@ -13,7 +13,7 @@ culture, wearing European clothes, supporting their schools by voluntary
 contributions, editing newspapers, translating English poetry, and
 setting their national songs to correct music. The majority call
 themselves Christians and many of them have intermarried with Europeans.
-(See KAFFIRS.)
+(See [[Kaffirs|KAFFIRS]].)
 
 ## See also
 

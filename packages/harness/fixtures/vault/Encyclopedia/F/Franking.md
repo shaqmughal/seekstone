@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Franking"
 # Franking
 
 FRANKING, a term used for the right of sending letters or postal
-packages free (Fr. _franc_) of charge. The privilege was claimed by the
+packages free (Fr. _[[Franc|franc]]_) of charge. The privilege was claimed by the
 House of Commons in 1660 in "a Bill for erecting and establishing a Post
 Office," their demand being that all letters addressed to or sent by
 members during the session should be carried free. The clause embodying
@@ -43,15 +43,15 @@ bestowed on presidents and their widows. By an act of the 3rd of March
 1845, franking was limited to the president, vice-president, members and
 delegates in Congress and postmasters, other officers being required to
 keep quarterly accounts of postage and pay it from their contingent
-funds. In 1851 free exchange of newspapers was re-established. By an act
+funds. In 1851 free [[Exchange|exchange]] of newspapers was re-established. By an act
 of the 3rd of March 1863 the privilege was granted the president and his
 private secretary, the vice-president, chiefs of executive departments,
-such heads of bureaus and chief clerks as might be designated by the
+such heads of [[Bureau|bureaus]] and chief clerks as might be designated by the
 postmaster-general for official letters only; senators and
 representatives in Congress for all correspondence, senders of petitions
 to either branch of the legislature, and to publishers of newspapers for
 their exchanges. There was a limit as to weight. Members of Congress
-could also frank, in matters concerning the federal department of
+could also [[Frank|frank]], in matters concerning the federal department of
 agriculture, "seeds, roots and cuttings," the weight to be fixed by the
 postmaster-general. This act remained in force till the 31st of January
 1873, when franking was abolished. Since 1875, by sundry acts, franking
@@ -60,7 +60,7 @@ been allowed to congressmen, ex-congressmen (for 9 months after the
 close of their term), congressmen-elect and other government officials.
 By special acts of 1881, 1886, 1902, 1909, respectively, the franking
 privilege was granted to the widows of Presidents Garfield, Grant,
-McKinley and Cleveland.
+McKinley and [[Cleveland]].
 
 ## See also
 

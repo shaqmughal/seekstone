@@ -14,10 +14,10 @@ to mounted men of all kinds employed for combatant purposes, whether
 intended primarily for charging in masses, in small bodies, or for
 dismounted fighting. By degrees, as greater refinement of terminology
 has become desirable, the idea has been narrowed down until it includes
-only "horsemen trained to achieve the purpose of their commander by the
-combined action of man and horse," and this definition will be found to
+only "horsemen trained to achieve the purpose of their [[Commander|commander]] by the
+combined action of man and horse," and this [[Definition|definition]] will be found to
 cover the whole field of cavalry activity, from the tasks entrusted to
-the cavalry "corps" of 10,000 sabres down to the missions devolving on
+the cavalry "[[Corps|corps]]" of 10,000 sabres down to the missions devolving on
 isolated squadrons and even troops.
 
 
@@ -51,7 +51,7 @@ The first trace of change is to be found, according to Prof. Wm.
 Ridgeway (_Origin and Influence of the Thoroughbred Horse_, p. 243), in
 an Egyptian relief showing Nubians mounted on horses of an entirely
 different breed, taller and more powerful than any which had gone before
-them. These horses appear to have come from the vicinity of Dongola, and
+them. These horses appear to have come from the vicinity of [[Dongola]], and
 the strain still survives in the Sudan. The breed is traced into Arabia,
 where only second-rate horses had been reared hitherto, and thence to
 different parts of Europe, where eventually centres of cavalry activity
@@ -67,10 +67,10 @@ the absence of projectiles of sufficient range and power to sweep a
 whole area, the fighting was entirely between the front ranks of the
 opposing forces. When a front rank fighter fell, his place was
 immediately taken by his comrade in the rear, who took up the individual
-combat, excited by his comrade's fate but relatively fresh in mind and
+combat, excited by his comrade's [[Fate|fate]] but relatively fresh in mind and
 muscle. This process of feeding the fight from the rear could be
 protracted almost indefinitely. If then, as a consequence of a charge, a
-few mounted men did penetrate the ranks, they encountered such a crowd
+few mounted men did penetrate the ranks, they encountered such a [[Crowd|crowd]]
 of well-protected and fresh swordsmen that they were soon pulled off
 their ponies and despatched. Now and again great leaders, Alexander,
 Hannibal and Scipio Africanus, for instance, succeeded in riding down
@@ -90,7 +90,7 @@ horse-flesh and the rapid spread of the relatively new Dongola or
 African strain over the then known world.
 
 The primitive instinct of aboriginal man is to throw stones or other
-missiles for purposes of defence (apes will throw anything they can
+missiles for purposes of defence ([[Ape|apes]] will throw anything they can
 find, but they never use sticks); hence, as the Romans penetrated ever
 farther amongst the barbarian tribes, their horsemen in first line found
 ever-increasing need for protection against projectiles. But the greater
@@ -99,7 +99,7 @@ of the horse. Then, as the weight-carrying breed was expensive and, with
 the decay of the Roman Empire, corruption and peculation spread, a limit
 was soon placed on the multiplication of charging cavalry, and it became
 necessary to fall back on the indigenous pony, which could only carry a
-rider from place to place, not charge. Thus there was a gradual
+rider from place to place, not charge. Thus there was a [[Gradual|gradual]]
 levelling down of the mounted arms, the heavy cavalry becoming too heavy
 to gallop and the light not good enough for united action. Against such
 opponents, the lighter and better mounted tribesmen of Asia found their
@@ -113,7 +113,7 @@ good of the community, its opposite, self-preservation, became the
 guiding principle. This in turn led to the increase of armour carried,
 and thence to the demand for heavier horses, and this demand working
 through several centuries led ultimately to the breeding of the great
-weight-carrying animals on whose existence that of medieval chivalry
+weight-carrying animals on whose existence that of medieval [[Chivalry|chivalry]]
 depended. These horses, however, being very costly and practically
 useless for general purposes, could only become the property of the
 wealthy, who were too independent to feel the need of combination, and
@@ -122,7 +122,7 @@ spoliation eventually impelled the weaker men to combine, and at first
 their combination took the form of the construction of fortified places,
 against which mounted men were powerless. On the other hand, expense put
 a limit to the area which fortifications could enclose, and this again
-limited the supplies for the garrison. Horsemen sweeping the country for
+limited the supplies for the [[Garrison|garrison]]. Horsemen sweeping the country for
 miles around had no difficulty in feeding themselves, and the surrender
 of all beleaguered places through starvation was ultimately inevitable,
 unless food could be introduced from allied towns in the vicinity. It
@@ -144,9 +144,9 @@ English for sieges in France, proved the ultimate cause of their
 undoing. It was the French who developed the use of siege artillery most
 rapidly, and their cavalry were not slow to take the hint; unlike the
 longbow and the crossbow, the pistol could be used effectively from
-horseback, and presently the knights and their retainers, having the
+horseback, and presently the [[Knight|knights]] and their retainers, having the
 deepest purses, provided themselves with long pistols in addition to
-their lances and swords. These weapons sent a bullet through any armour
+their [[Lance|lances]] and swords. These weapons sent a [[Bullet|bullet]] through any armour
 which a foot-soldier could conveniently carry, or his commander afford,
 and if anything went wrong with their mechanism (which was complicated
 and uncertain) the speed of his horse soon carried the rider out of
@@ -158,7 +158,7 @@ succession cantered off man by man to the left, discharging his pistol
 at the square as he passed, and riding back to his place behind the
 column to reload. This could be prolonged indefinitely, and against such
 tactics the infantry were powerless. The stakes carried by English
-archers to check the direct charge of horsemen became useless, as did
+[[Archer|archers]] to check the direct charge of horsemen became useless, as did
 also _chevaux de frise_, though the latter (which originated in the 14th
 century) continued to be employed by the Austrians against the
 swiftly-charging Turks till the close of the 17th century. Thus it
@@ -176,17 +176,17 @@ synonymous with "army." Then an unfortunate inspiration came to the
 wagon-men. A large gun was relatively cheaper to manufacture, and more
 effective than a small one. To keep their assailants at a distance, they
 mounted wall-pieces of about one-inch bore on their wagons. For a moment
-the balance inclined in their favour, but the cavalry were quick to see
+the [[Balance|balance]] inclined in their favour, but the cavalry were quick to see
 their advantage in this new idea, and they immediately followed suit.
 They, too, mounted guns on wheels, and, as their mobility gave them
 choice of position, they were able to concentrate their fire against any
 side of the laager, and again ultimate surrender was the only way out of
-the defenders' dilemma.
+the defenders' [[Dilemma|dilemma]].
 
 The interesting problem thus raised was never finally solved, for the
 scene of action now shifted to western Europe, to the valley of the Po,
 and more particularly to the Netherlands, where fortresses were closer
-together and the clayey nature of the Rhine delta had already made paved
+together and the clayey nature of the Rhine [[Delta|delta]] had already made paved
 roads necessary. Then, the _Wagenburg_ being no longer needed for the
 short transits between one fortified town and another, the infantry
 reasserted themselves. Firearms having been much improved in the
@@ -208,10 +208,10 @@ ARTILLERY).
 Thus about the close of the 16th century western armies differentiated
 themselves out into the still existing three types--cavalry, artillery
 and infantry. Moreover, each type was subdivided, the cavalry becoming
-heavy, medium and dragoons. At this period there was nothing to disturb
+heavy, medium and [[Dragoon|dragoons]]. At this period there was nothing to disturb
 the equilibrium of two contending forces except the characters of their
 respective leaders. The mercenary element had triumphed everywhere over
-the feudal levies. The moral qualities of all were on the same
+the feudal [[Levi|levies]]. The moral qualities of all were on the same
 indifferent level, and battles in the open followed one recognized
 course. Neither army being able to outmarch the other, both drew up
 masses of pikes in parallel lines. The musketeers covered the deployment
@@ -236,7 +236,7 @@ the enemy's skirmishers and captured his batteries. Then the equilibrium
 of force was destroyed, and all arms combined made short work of the
 opposing infantry alone (Breitenfeld, 1631). But the Swedish king
 perished with his work half done, and matters reverted to their former
-condition until the appearance of Cromwell, another great leader capable
+condition until the appearance of [[Cromwell]], another great leader capable
 of animating his men with the spirit of devotion, again rendered the
 cavalry arm supreme. The essence of his success lay in this, that his
 men were ready everywhere and always to lay down their lives for their
@@ -258,21 +258,21 @@ increase in the power of fire preparation at the disposal of the supreme
 leader; and the chances of cavalry have fluctuated with the genius of
 that leader in the employment of the means at his disposal, and the
 topographical conditions existing within each theatre of war. During the
-campaigns in Flanders, with its multiplicity of fortresses and clayey
+campaigns in [[Flanders]], with its multiplicity of fortresses and clayey
 soil, cavalry rapidly degenerated into mounted infantry, throwing aside
 sword and lance-proof armour, and adopting long muskets and heavier
 ammunition. Presently they abandoned the charge at a gallop and reverted
-to an approach at the trot, and if (as at Blenheim) their influence
+to an approach at the trot, and if (as at [[Blenheim]]) their influence
 proved decisive on the field of battle, this was because the conditions
 were common to both combatants, and the personal influence of "Corporal
-John," as his soldiers called Marlborough, ensured greater steadiness
-and better co-operation.
+John," as his soldiers called [[Marlborough]], ensured greater steadiness
+and better [[Co-Operation|co-operation]].
 
 
   Frederick II.; reform of the Prussian cavalry.
 
 When Frederick II. became king of Prussia (1740), he found his cavalry
-almost at the nadir of efficiency; even his cuirassiers drilled
+almost at the nadir of efficiency; even his [[Cuirassiers|cuirassiers]] drilled
 principally on foot. "They can manoeuvre," on foot, "with the same
 precision as my grenadiers, but unfortunately they are equally slow."
 His enemies the Austrians, thanks to their wars against the Turks who
@@ -283,9 +283,9 @@ Cavallerie is nicht einmal werth dasz sie der Teufel weck holet," and he
 immediately set about their reform with his usual energy and
 thoroughness. Three years after Mollwitz, the result of his exertions
 was apparent in the greatly increased importance the arm acquired on the
-battlefield, and the charge of the Bayreuth dragoons at Hohenfriedberg
+battlefield, and the charge of the [[Bayreuth]] dragoons at [[Hohenfriedberg]]
 (June 4, 1745), who with 1500 horses rode over and dispersed 20 Austrian
-battalions, bringing in 2500 prisoners and 67 colours, will always rank
+[[Battalion|battalions]], bringing in 2500 prisoners and 67 [[Colours|colours]], will always rank
 as one of the most brilliant feats in military history.[1] The following
 years of peace (1745-1756) were devoted to the methodical preparation of
 the cavalry to meet the requirements that Frederick's methods of war
@@ -334,7 +334,7 @@ so great that the lance was a hindrance rather than a help.
 In the years succeeding the war the efficiency of the Prussian cavalry
 sank very rapidly, the initial cause being the death of Seydlitz at the
 early age of fifty-two. His personality had alone dominated the
-discontent, lethargy and hopelessness created by ruthless financial
+discontent, [[Lethargy|lethargy]] and hopelessness created by ruthless financial
 economies. When he was gone, as always in the absence of a great leader,
 men adapted their lives to the line of least resistance. In thirty years
 the wreck was complete, and within the splendid squadrons which had been
@@ -342,12 +342,12 @@ accustomed to manoeuvre with perfect precision at the highest speed,
 there were (as F.A. von der Marwitz in his _Nachlass_ clearly shows) not
 more than seven thoroughly trained men and horses to each, the remainder
 being trained for little longer and receiving less attention than is the
-case with modern 2nd line or auxiliary cavalry.
+case with modern 2nd line or [[Auxiliary|auxiliary]] cavalry.
 
 
   Cavalry in the revolutionary wars.
 
-For the generation preceding the outbreak of the French Revolution,
+For the generation preceding the outbreak of the [[French Revolution]],
 Frederick the Great's army, and especially his cavalry, had become the
 model for all Europe, but the mainspring of the excellence of his
 squadrons was everywhere overlooked. Seydlitz had manoeuvred great
@@ -359,12 +359,12 @@ stamp of horse, or the former attention to detail on the part of men and
 officers. In France, owing to the agricultural decay of the country,
 suitable remounts for charging cavalry were almost unobtainable, and as
 this particular branch of the army was almost exclusively commanded by
-the aristocracy it suffered most in the early days of the Revolution.
+the [[Aristocracy|aristocracy]] it suffered most in the early days of the Revolution.
 The hussars, being chiefly recruited and officered by Alsatians and
 Germans from the Rhine provinces, retained their individuality and
 traditions much longer than the dragoons and cuirassiers, and, to the
 very close of the great wars, we find them always ready to charge at a
-gallop; but the unsteadiness and poor horsemanship of the other branches
+gallop; but the unsteadiness and poor [[Horsemanship|horsemanship]] of the other branches
 was so great that up to 1812, the year of their destruction, they always
 charged at a trot only, considering that the advantage of superior
 cohesion thus gained more than balanced the loss of momentum due to the
@@ -379,7 +379,7 @@ primarily intended for combined mounted action. Fortunately for them,
 their principal adversaries, the Austrians, had altogether failed to
 grasp the lesson of the Seven Years' War. Writing in 1780 Colonel Mack,
 a very capable officer, said, "Even in 1769, the cavalry could not ride,
-could not manage to control their horses. Not a single squadron could
+could not [[Manage|manage]] to control their horses. Not a single squadron could
 keep its dressing at a gallop, and before they had gone fifty yards at
 least ten out of forty horses in the first rank would break out to the
 front," and though the veteran field marshal Lacy issued new
@@ -398,10 +398,10 @@ over a demoralized or untrained mob of infantry.
 
 Up to the campaign of Poland (see NAPOLEONIC CAMPAIGNS) French victories
 were won chiefly by the brilliant infantry fighting, cavalry only
-intervening (as at Jena) to charge a beaten enemy and complete his
+intervening (as at [[Jena]]) to charge a beaten enemy and complete his
 destruction by pursuit. But after the terrible waste of life in the
 winter of 1806-7, and the appalling losses in battle, Napoleon
-introduced a new form of attack. The case-shot preparation of his
+introduced a new form of attack. The [[Case-Shot|case-shot]] preparation of his
 artillery (see ARTILLERY) sowed confusion and terror in the enemy's
 ranks, and the opportunity was used by masses of cavalry. Henceforward
 this method dominated the Napoleonic tactics and strategy. The essential
@@ -437,7 +437,7 @@ they were distributed along the whole line, and thus became habituated
 to the idea of operating in relatively small bodies. This is the worst
 school for the cavalry soldier, because it is only when working in
 masses of forty to sixty squadrons that the cumulative consequences of
-small errors of detail become so apparent as to convince all ranks of
+small [[Error|errors]] of detail become so apparent as to convince all ranks of
 the necessity of conforming accurately to established prescriptions.
 Nevertheless, they still retained the practice of charging at a gallop,
 and as a whole were by far the most efficient body of horsemen who
@@ -452,7 +452,7 @@ countries, and of Prussia in particular, was so complete that money was
 nowhere to be found for the great concentrations and manoeuvre practices
 which are more essential to the efficiency of the cavalry than to that
 of the other arms. Hence a whole generation of officers grew up in
-ignorance of the fundamental principles which govern the employment of
+[[Ignorance|ignorance]] of the fundamental principles which govern the employment of
 their arm. It was not till 1848 that the Prussians began again to unite
 whole cavalry divisions for drill and manoeuvre, and the soldiers of the
 older generation had not yet passed away when the campaigns of 1866 and
@@ -473,13 +473,13 @@ Napoleon to create by his skill the opportunity for decisive cavalry
 action, and to mass his men beforehand in confident anticipation. The
 same reasoning applies to the European campaigns of 1866 and 1870, and
 the results obtained by the arm were so small, in proportion to the
-numbers of squadrons available and to their cost of maintenance as
+numbers of squadrons available and to their cost of [[Maintenance|maintenance]] as
 compared with the other arms, that a strong reaction set in everywhere
 against the existing institutions, and the re-creation of the dragoon,
 under the new name of mounted rifleman, was advocated in the hope of
 obtaining a cheap and efficient substitute for the cavalryman.
 
-Later events in South Africa and in Manchuria again brought this
+Later events in South Africa and in [[Manchuria]] again brought this
 question prominently to the front, but the essential difference between
 the old and new schools of thought has not been generally realized. The
 "mounted rifle" adherents base their arguments on the greatly increased
@@ -507,7 +507,7 @@ of the infantry and artillery weapons, as in Bohemia (1866) and in
 France (1870), has rendered wholly impossible the creation of the great
 tactical opportunity characteristic of Napoleon's later method, for
 there then existed no means of overwhelming the enemy with a sufficient
-hail of projectiles to render the penetration of the cavalry feasible.
+[[Hail|hail]] of projectiles to render the penetration of the cavalry feasible.
 The latest improvement in artillery, viz. the perfected shrapnel and the
 quick-firing guns, have, however, enormously facilitated the attainment
 of this primary fire superiority, and, moreover, it has simplified the
@@ -529,7 +529,7 @@ duty on the battle-field. This demand has been met by the enrolment of
 men willing to fight and rendered mobile by mounts of an inferior
 description, and the greater the urgency the greater has been the
 tendency to give them arms which they can quickly learn to use. To make
-a man an expert swordsman or lancer has always taken years, but he can
+a man an [[Expert|expert]] swordsman or lancer has always taken years, but he can
 be taught to use a musket or rifle sufficiently for his immediate
 purpose in a very short time. Hence, to begin with, arms of this
 description have invariably been issued to him. But once these bodies
@@ -550,7 +550,7 @@ rifles," in the open prairie country of the west they became cavalry
 pure and simple, though for want of time they never rivalled the
 precision of manoeuvre and endurance of modern Prussian or Austrian
 horse. In South Africa the same sequence was followed, and had the Boer
-War lasted longer it is certain that such Boer leaders as de Wet and de
+War lasted longer it is certain that such Boer leaders as [[De Wet|de Wet]] and de
 la Rey would have reverted to cavalry tactics of shock and cold steel at
 the earliest possible opportunity.
 
@@ -559,7 +559,7 @@ producing the same effects, the natural conclusion is that the evolution
 of the cavalry arm is subject to a universal law which persists in spite
 of all changes of armament.
 
-_Employment of Cavalry._--It is a fundamental axiom of all military
+_Employment of Cavalry._--It is a fundamental [[Axiom|axiom]] of all military
 action that the officer commanding the cavalry of any force comprising
 the three arms of the service is in the strictest sense an executive
 officer under the officer commanding that particular force as a whole.
@@ -585,14 +585,14 @@ therefore, of two lines, moving to meet one another at speed, one sees
 itself overlapped to either hand, the men in the line thus overlapped
 invariably and inevitably tend to open outwards, so as at least to meet
 their enemy on an equal frontage. Hence every cavalry commander tries
-to strike at the flank of his enemy, and the latter manoeuvres to meet
+to strike at the flank of his enemy, and the latter [[Manoeuvres|manoeuvres]] to meet
 him, and if both have equal mobility, local collision must ensue on an
 equal and parallel front. Therefore both strive to put every available
 man and horse in their first line, and if men and horses were
 invulnerable such a line would sweep over the ground like a scythe and
 nothing could withstand it. Since, however, bullets kill at a distance,
 and inequalities and unforeseen difficulties of the ground may throw
-hundreds of horses and riders, a working compromise has to be found to
+hundreds of horses and riders, a working [[Compromise|compromise]] has to be found to
 meet eventualities, and, other things being equal, victory inclines to
 the leader who best measures the risks and uncertainties of his
 undertaking, and keeps in hand a sufficient reserve to meet all chances.
@@ -604,7 +604,7 @@ the men on both sides finds himself in possession of the last reserve at
 the critical moment. The next point is, how to ensure the presence of
 this reserve, and what is the critical moment. The battle-field is the
 critical moment in each phase of every campaign--not the mere chance
-locality on which a combat takes place, but the decisive arena on which
+locality on which a combat takes place, but the decisive [[Arena|arena]] on which
 the strategic consequences of all pre-existing conditions of national
 cohesion, national organization and of civilization are focussed. It is
 indeed the judgment-seat of nature, on which the right of the race to
@@ -621,7 +621,7 @@ rules apply to all cavalry combats, of whatever magnitude, and condition
 the whole of cavalry tactics. Broadly speaking, if two cavalries of
 approximately equal mobility manoeuvre against each other in open
 country, neither side can afford the loss of time that dismounting to
-fight on foot entails. Hence, assuming that at the outset of a campaign
+fight on foot [[Entail|entails]]. Hence, assuming that at the outset of a campaign
 each side aims at securing a decisive success, both seek out an open
 plain and a mounted charge, sword in hand, for the decision. When the
 speed and skill of the combatants are approximately equal, collision
@@ -683,7 +683,7 @@ of the greatest number of sabres at the decisive point, i.e. on the
 battle-field? To push out cavalry screens far to the front will be to
 court destruction, nor is the information they obtain of much real
 service unless the means to act upon it at once is at hand. This can
-only be supplied economically by the use of strong advanced guards of
+only be supplied economically by the use of strong advanced [[Guards|guards]] of
 infantry, and such supplementary security and information as these may
 require will be best supplied by mounted infantry, the sacrifice of whom
 will disturb least the fighting integrity of the whole army.
@@ -697,7 +697,7 @@ paralyse his opponent's will-power by a most vigorous attack, so that
 his superior officer following him on the same road will be free to act
 as he chooses. The front of the two armies will now be defined by a line
 of combats localized each about a comparatively small area, and between
-them will be wide gaps which it will be the chief business of the
+them will be wide [[Gap|gaps]] which it will be the chief business of the
 directing minds on either side to close by other troops as soon as
 possible. Generally the call will be made upon the artillery for this
 purpose, since they can cover the required distances far more rapidly
@@ -710,7 +710,7 @@ catch the enemy's guns at a disadvantage. These are opportunities for
 the cavalry, and if necessary it must sacrifice itself to turn them to
 the best account. The whole course of the battle depends on success or
 failure in the early formation of great lines of guns, for ultimately
-the victor in the artillery duel finds himself in command of the
+the victor in the artillery [[Duel|duel]] finds himself in command of the
 necessary balance of guns which are needed to prepare the way for his
 final decisive infantry attack. If this latter succeeds, then any
 mounted men who can gallop and shoot will suffice for pursuit. If it
@@ -720,7 +720,7 @@ past, can but gain a little time. This time may indeed be worth the
 price at which it can be bought, but it will always be more economical
 to concentrate all efforts to prevent the emergency arising.
 
-After the Franco-German War much was written about the possibility of
+After the [[Franco-German War]] much was written about the possibility of
 vast cavalry encounters to be fought far in advance of the main armies,
 for the purpose of obtaining information, and ideas were freely mooted
 of wide-flung raids traversing the enemy's communications, breaking up
@@ -735,7 +735,7 @@ infantry; nor indeed would the Germans stultify their whole strategic
 teaching by weakening themselves for the decisive struggle. It follows
 therefore that cavalry reconnaissance duties will be strictly local and
 tactical, and that arrangements will be made for procuring strategical
-information by wireless telegraphy, balloons, motor cars, bicycles, &c.,
+information by wireless telegraphy, balloons, motor [[Car|cars]], bicycles, &c.,
 and that on the whole that nation will be best served in war which has
 provided in peace a nucleus of mounted infantry capable of rapid
 expansion to fill the gap which history shows always to have existed
@@ -811,7 +811,7 @@ sides will concentrate every available horse and man for this special
 purpose, and on the issue of the collisions this mutual concentration
 must entail will hang the fate of the battle, and ultimately of the
 nation. But the cavalry which will succeed in this task will be the one
-in which the spirit of duty burns brightest, and the oath of allegiance,
+in which the spirit of duty [[Burns|burns]] brightest, and the oath of allegiance,
 renewed daily on the cross of the sword, is held in the highest esteem.
 
 _Organization._--The existing organization of cavalry throughout the
@@ -946,7 +946,7 @@ averaging 11 st. per man, could turn out in marching order at 17 st. 8
 lb. (less forage nets). In Germany, the hussar, averaging 10 st. 6 lb.,
 rode at 18 st., also without forage, and the cuirassier at 21 st. to 22
 st. Cavalry equipment is, in fact, far too heavy, for in the interests
-of the budgets of the departments which supply saddlery, harness, &c.,
+of the budgets of the departments which supply saddlery, [[Harness|harness]], &c.,
 everything is made so as to last for many years. Cavalry saddles fifty
 years old frequently remain in good condition, but the losses in
 horse-flesh this excessive solidity entails are ignored. The remount
@@ -955,7 +955,7 @@ to replace a horse than a saddle. In any case, the armament alone of the
 cavalry soldier makes great demands on the horses. His sword and
 scabbard weigh about 4 lb., carbine or rifle 7 lb. to 9 lb., 120 rounds
 of ammunition with pouches and belts about 12 lb., lance about 5 lb.,
-and two days' forage and hay at the lowest 40 lb., or a gross total of
+and two days' forage and [[Hay|hay]] at the lowest 40 lb., or a [[Gross|gross]] total of
 70 lb. or 5 st., which with 11 st. for the man brings the total to 16
 st.; add to this the lightest possible saddle, bridle, cloak and
 blanket, and 17 st. 8 lb. is approximately the irreducible minimum. It
@@ -968,7 +968,7 @@ _Reconnaissance and Scouting._--After 1870 public opinion, misled by the
 performances of the "ubiquitous Uhlan" and disappointed by the absence
 of great cavalry charges on the field of battle, came somewhat hastily
 to the conclusion that the day of "shock tactics" was past and the
-future of cavalry lay in acting as the eyes and ears of the following
+future of cavalry lay in acting as the eyes and [[Ear|ears]] of the following
 armies. But, as often happens, the fact was overlooked that the German
 cavalry screen was entirely unopposed in its reconnoitring expeditions,
 and it was not till long afterwards that it became apparent how very
@@ -1038,7 +1038,7 @@ will generally only be won by fighting, and the side which can locally
 develop a marked fire superiority will be the more likely to obtain the
 information it requires. In this direction the introduction of the motor
 car and of cyclists is likely to exercise a most important influence,
-but, whatever may be the conveyance, it must be looked upon as a means
+but, whatever may be the [[Conveyance|conveyance]], it must be looked upon as a means
 of advance only, never of retreat. The troops thus conveyed must be used
 to seize villages or defiles about which the cavalry and guns can
 manoeuvre.
@@ -1048,11 +1048,11 @@ _Formations and Drill._--Cavalry, when mounted, act exclusively by
 immediate result of collision is actually decided some instants before
 this collision takes place. Experience has shown that the best guarantee
 for success in this shock is afforded by a two-deep line, the men riding
-knee to knee within each squadron at least. Perfect cavalry can charge
+[[Knee|knee]] to knee within each squadron at least. Perfect cavalry can charge
 in larger bodies without intervals between the squadrons, but,
 ordinarily, intervals of about 10 yds. between adjacent squadrons are
 kept to localize any partial unsteadiness due to difficulties of ground,
-casualties, &c. The obvious drawbacks of a two-deep line are that it
+casualties, &c. The obvious [[Drawback|drawbacks]] of a two-deep line are that it
 halves the possible extent of front, and that if a front-rank horse
 falls the rear-rank horse generally tumbles over it also. To minimize
 the latter evil, the charge in two successive lines, 150 to 200 yds.
@@ -1061,7 +1061,7 @@ serious cavalry fighting; first, because when squadrons are galloping
 fast and always striving to keep the touch to the centre, if a horse
 falls the adjacent horses close in with such force that their sidelong
 collision may throw down more and always creates violent oscillation;
-and secondly, because owing to the dust raised by the first rank the
+and secondly, because owing to the [[Dust|dust]] raised by the first rank the
 following one can never maintain its true direction. It is primarily to
 avoid the danger and difficulty arising from the dust that the ranks in
 manoeuvre are closed to within one horse's length, as, when moving at
@@ -1115,7 +1115,7 @@ possible time.
 
   BIBLIOGRAPHY.--G.H. Elliot, _Cavalry Literature_ (1893); v. Bismarck,
   _Uses and Application of Cavalry in War_ (1818, English translation by
-  Lieut.-Col. Beamish, 1855); G.T. Denison, _A History of Cavalry_
+  Lieut.-Col. Beamish, 1855); G.T. [[Denison]], _A History of Cavalry_
   (1877); Prince Kraft zu Hohenlohe-Ingelfingen, _Letters on Cavalry_
   and _Conversations on Cavalry_ (English translations, 1880 and 1892);
   Colonel Mitchell, _Considerations on Tactics_ (1854) and _Thoughts on
@@ -1129,18 +1129,18 @@ possible time.
   Tactics of the Cavalry Division_ (1876); C.W. Bowdler Bell, _Notes on
   the German Cavalry Regulations of 1886_; F. de Brack, _Light Cavalry
   Outposts_ (English translation); Dwyer, _Seats and Saddles_ (1869); J.
-  Jacob, _Views and Opinions_ (1857); F. Hoenig, _Die Kavallerie als
-  Schlachtenkorper_ (1884); Sir Evelyn Wood, _Achievements of Cavalry_
+  [[Jacob]], _Views and Opinions_ (1857); F. Hoenig, _Die Kavallerie als
+  Schlachtenkorper_ (1884); Sir [[Evelyn]] Wood, _Achievements of Cavalry_
   (1893); H.T. Siborne, _Waterloo Letters_; Desbriere and Sautai, _La
   Cavalerie de 1740 a 1789_ (1806); Warnery, _Remarques sur la
-  cavalerie_ (1781); v. Canitz, _Histoire des exploits et des
+  cavalerie_ (1781); v. [[Canitz]], _Histoire des exploits et des
   vicissitudes de la cavalerie prussienne dans les campagnes de Frederic
   II_ (1849); Cherfils, _Cavalerie en campagne_ (1888), _Service de
   surete strategique de la cavalerie_ (1874); Bonie, _Tactique
   francaise, cavalerie en campagne, cavalerie au combat_ (1887-1888);
   Foucart, _Campagne de Pologne, operations de la cavalerie, nov.
   1806-jan. 1807_ (1882), _La Cavalerie pendant la campagne de Prusse_
-  (1880); De Galliffet, _Projet d'instruction sur l'emploi de la
+  (1880); De [[Galliffet]], _Projet d'instruction sur l'emploi de la
   cavalerie en liaison avec les autres armes_ (1880), _Rapport sur les
   grandes manoeuvres de cavalerie de 1879_; Kaehler, _Die preussische
   Reiterei 1806-1876_ (French translation, _La Cavalerie prussienne de

@@ -6,16 +6,16 @@ topic: architecture
 
 # Kola
 
-KOLA, a peninsula of northern Russia, lying between the Arctic Ocean on
+KOLA, a peninsula of northern Russia, lying between the [[Arctic]] Ocean on
 the N. and the White Sea on the S. It forms part of the region of
 Lapland and belongs administratively to the government of Archangel. The
 Arctic coast, known as the Murman coast (Murman being a corruption of
 Norman), is 260 m. long, and being subject to the influence of the North
-Atlantic drift, is free from ice all the year round. It is a rocky
+Atlantic [[Drift|drift]], is free from [[Ice|ice]] all the year round. It is a rocky
 coast, built of granite, and rising to 650 ft., and is broken by several
 excellent bays. On one of these, Kola Bay, the Russian government
 founded in 1895 the naval harbour of Alexandrovsk. From May to August a
-productive fishery is carried on along this coast. Inland the peninsula
+productive [[Fishery|fishery]] is carried on along this coast. Inland the peninsula
 rises up to a plateau, 1000 ft. in general elevation, and crossed by
 several ranges of low mountains, which go up to over 3000 ft. in
 altitude. The lower slopes of these mountains are clothed with forest up
@@ -28,7 +28,7 @@ Umba, into the White Sea. The area of the peninsula is estimated at
 50,000 sq. m.
 
   See A. O. Kihlmann and Palmén, _Die Expedition nach der Halbinsel
-  Kola_ (1887-1892) (Helsingfors); A. O. Kihlmann, _Bericht einer
+  Kola_ (1887-1892) ([[Helsingfors]]); A. O. Kihlmann, _Bericht einer
   naturwissenschaftlichen Reise durch Russisch-Lappland_ (Helsingfors,
   1890); and W. Ramsay, _Geologische Beobachtungen auf der Halbinsel
   Kola_ (Helsingfors, 1899).

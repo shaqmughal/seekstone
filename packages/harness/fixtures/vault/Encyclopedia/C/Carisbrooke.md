@@ -17,18 +17,18 @@ Saxon times, though it has commonly been identified with the Saxon
 _Wihtgaraburh_ captured by Cerdic in 530. Carisbrooke is not mentioned
 by name in the Domesday Survey, but Bowcombe, its principal manor, was a
 dependency of the royal manor of Amesbury, and was obtained from the
-king by William Fitz Osbern in exchange for three Wiltshire manors. The
+king by William Fitz Osbern in [[Exchange|exchange]] for three Wiltshire manors. The
 castle is mentioned in the Survey under Alvington, and was probably
 raised by William Fitz Osbern, who was made first lord of the Isle of
 Wight. From this date lordship of the Isle of Wight was always
 associated with ownership of the castle, which thus became the seat of
 government of the island. Henry I. bestowed it on Richard de Redvers, in
-whose family it continued until Isabella de Fortibus sold it to Edward
+whose family it continued until [[Isabella]] de Fortibus sold it to Edward
 I., after which the government was entrusted to wardens as
 representatives of the crown. The keep was added to the castle in the
 reign of Henry I., and in the reign of Elizabeth, when the Spanish
 Armada was expected, it was surrounded by an elaborate pentagonal
-fortification. The castle was garrisoned by Baldwin de Redvers for the
+fortification. The castle was garrisoned by [[Baldwin]] de Redvers for the
 empress Maud in 1136, but was captured by Stephen. In the reign of
 Richard II. it was unsuccessfully attacked by the French; Charles I. was
 imprisoned here for fourteen months before his execution. Afterwards his
@@ -49,7 +49,7 @@ it on the abbey of Mountgrace in Yorkshire. It was restored by Henry
 IV., but was dissolved by act of parliament in the reign of Henry V.,
 who bestowed it on his newly-founded charter-house at Sheen. Carisbrooke
 formerly had a considerable market, several mills, and valuable
-fisheries, but it never acquired municipal or representative rights, and
+[[Fisheries|fisheries]], but it never acquired municipal or representative rights, and
 was important only as the site of the castle.
 
   See _Victoria County History--Hampshire_; William Westall, _History of

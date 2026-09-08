@@ -1,6 +1,6 @@
 # Lamp-Black
 
-LAMP-BLACK, a deep black pigment consisting of carbon in a very fine
+LAMP-BLACK, a deep black pigment consisting of [[Carbon|carbon]] in a very fine
 state of division, obtained by the imperfect combustion of highly
 carbonaceous substances. It is manufactured from scraps of resin and
 pitch refuse and inferior oils and fats, and other similar combustible

@@ -17,7 +17,7 @@ LAKH (from the Sans. _laksha_, one hundred thousand), a term used in
 British India, in a colloquial sense to signify a lakh of rupees
 (written 1,00,000), which at the face value of the rupee would be worth
 £10,000, but now is worth only £6666. The term is also largely used in
-trade returns. A hundred lakhs make a crore.
+trade returns. A hundred lakhs make a [[Crore|crore]].
 
 ## See also
 

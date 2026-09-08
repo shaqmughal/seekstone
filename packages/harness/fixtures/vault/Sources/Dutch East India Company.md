@@ -14,8 +14,8 @@ a body founded by a charter from the Netherlands states-general on the
 protect the already considerable trade carried on by the Dutch in the
 Indian Ocean, and then to help in prosecuting the long war of
 independence against Spain and Portugal. Before the union between
-Portugal and Spain in 1580-81, the Dutch had been the chief carriers of
-eastern produce from Lisbon to northern Europe. When they were shut out
+Portugal and Spain in 1580-81, the Dutch had been the chief [[Carrier|carriers]] of
+eastern produce from [[Lisbon]] to northern Europe. When they were shut out
 from the Portuguese trade by the Spanish king they were driven to sail
 to the East in order to make good their loss. Unsuccessful attempts were
 made to find a route to the East by the north of Europe and Asia, which
@@ -29,7 +29,7 @@ itinerary or book of sailing instructions drawn up by Jan Huyghen van
 Linschoten,[1] a Dutchman who had visited Goa. The voyage was marked by
 many disasters and losses, but the survivors who reached the Texel on
 their return on the 20th of August 1597 brought back some valuable
-cargo, and a treaty made with the sultan of Bantam in Java.
+[[Cargo|cargo]], and a treaty made with the sultan of [[Bantam]] in [[Java]].
 
 These results were sufficient to encourage a great outburst of
 commercial adventure. Companies described as "Van Ferne"--that is, of
@@ -42,13 +42,13 @@ the eastern markets and brought them down at home. Largely at the
 suggestion of Jan van Oldenbarneveldt, and in full accordance with the
 economic principles of the time, the states-general decided to combine
 the existing separate companies into one united Dutch East India
-Company, which could discharge the functions of a government in those
+Company, which could [[Discharge|discharge]] the functions of a government in those
 remote seas, prosecute the war with Spain and Portugal, and regulate the
 trade. A capital estimated variously at a little above and a little
-under 6,500,000 florins, was raised by national subscription in shares
+under 6,500,000 [[Florin|florins]], was raised by national subscription in shares
 of 3000 florins. The independence of the states which constituted the
 United Netherlands was recognized by the creation of local boards at
-Amsterdam, in Zealand, at Delft and Rotterdam, Hoorn and Enkhuizen. The
+Amsterdam, in Zealand, at Delft and Rotterdam, Hoorn and [[Enkhuizen]]. The
 boards directed the trade of their own districts, and were responsible
 to one another, but not for one another as towards the public. A general
 directorate of 60 members was chosen by the local boards. Amsterdam was
@@ -61,18 +61,18 @@ subscribed a half, had eight representatives; Zealand, which found a
 quarter, had four; Delft and Rotterdam, Hoorn and Enkhuizen had two
 respectively, since each of the pairs had subscribed an eighth. The
 seventeenth member was nominated in succession by the other members of
-the United Netherlands. A committee of ten was established at the Hague
+the United Netherlands. A committee of ten was established at the [[Hague]]
 to transact the business of the company with the states-general. The
 "collegium" of seventeen nominated the governors-general who were
 appointed after 1608. The charter, which was granted for twenty-one
 years, conferred great powers on the company. It was endowed with a
-monopoly of the trade with the East Indies, was allowed to import free
+monopoly of the trade with the [[East Indies]], was allowed to import free
 from all custom dues, though required to pay 3% on exports, and charged
 with a rent to the states. It was authorized to maintain armed forces by
 sea and land, to erect forts and plant colonies, to make war or peace,
 to arrange treaties in the name of the stadtholder, since eastern
 potentates could not be expected to understand what was meant by the
-states-general, and to coin money. It had full administrative, judicial
+states-general, and to [[Coin|coin]] money. It had full administrative, judicial
 and legislative authority over the whole of the sphere of operations,
 which extended from the west of the Straits of Magellan westward to the
 Cape of Good Hope.
@@ -80,15 +80,15 @@ Cape of Good Hope.
 The history of the Dutch East India Company from its formation in 1602
 until its dissolution in 1798 is filled, until the close of the 17th
 century, with wars and diplomatic relations. Its headquarters were early
-fixed at Batavia in Java. But it extended its operations far and wide.
-It had to deal diplomatically with China and Japan; to conquer its
+fixed at [[Batavia]] in Java. But it extended its operations far and wide.
+It had to deal diplomatically with China and [[Japan]]; to conquer its
 footing in the Malay Archipelago and in Ceylon; to engage in rivalry
 with Portuguese and English; to establish posts and factories at the
-Cape, in the Persian Gulf, on the coasts of Malabar and Coromandel and
-in Bengal. Only the main dates of its progress can be mentioned here. By
+Cape, in the Persian Gulf, on the coasts of [[Malabar]] and Coromandel and
+in [[Bengal]]. Only the main dates of its progress can be mentioned here. By
 1619 it had founded its capital in Batavia in Java on the ruins of the
 native town of Jacatra. It expelled the Portuguese from Ceylon between
-1638 and 1658, and from Malacca in 1641. Its establishment at the Cape
+1638 and 1658, and from [[Malacca]] in 1641. Its establishment at the Cape
 of Good Hope, which was its only colony in the strict sense, began in
 1652. A treaty with the native princes established its power in Sumatra
 in 1667. The flourishing age of the company dates from 1605 and lasted
@@ -115,16 +115,16 @@ factories or trading posts in Bengal, on the Coromandel coast, at Surat,
 and at Gambroon (or Bunder Abbas) in the Persian Gulf, and in Siam. Its
 trade was divided into the "grand trade" between Europe and the East,
 which was conducted in convoys sailing from and returning to Amsterdam;
-and the "Indies to Indies" or coasting trade between its possessions and
+and the "Indies to Indies" or [[Coasting|coasting]] trade between its possessions and
 native ports.
 
 The rivalry and the hostilities of French and English gradually drove
 the Dutch from the mainland of Asia and from Ceylon. The company
 suffered severely in the War of American Independence. But it extended
 and strengthened its hold on the great islands of the Malay Archipelago.
-The increase of its political and military burdens destroyed its
+The increase of its political and military [[Burden|burdens]] destroyed its
 profits. In the early 18th century it was already embarrassed, and was
-bankrupt when it was dissolved in 1798, though its credit remained
+bankrupt when it was dissolved in 1798, though its [[Credit|credit]] remained
 unshaken, largely, if its enemies are to be believed, because it
 concealed the truth and published false accounts. In the later stages of
 its history its revenue was no longer derived from trade, but from
@@ -139,14 +139,14 @@ Republic in 1798.
 
   AUTHORITIES.--The great original work on the history of the Dutch East
   India Company is the monumental _Beschryving van oud en niew oost
-  Indien_ (Dordrecht and Amsterdam, 1724), by François Valentyn, in 8
-  vols., folio, profusely illustrated. Two modern works of the highest
+  Indien_ ([[Dordrecht]] and Amsterdam, 1724), by François Valentyn, in 8
+  vols., [[Folio|folio]], profusely illustrated. Two modern works of the highest
   value are: J.K.J. de Jonge, _De Opkomst van het Nederlandsch Gezag
   in oost Indien_ (The Hague and Amsterdam, 1862-1888), in 13 vols.; J.
   J. Meinsma, _Geschiedenis van de Nederlandsche oost-Indische
   Bezittingen_ (3 vols., Delft and the Hague, 1872-1875). See also John
-  Crawford, _History of the Indian Archipelago_ (Edinburgh, 1820); Clive
-  Day, _The Dutch in Java_ (New York, 1904); Sir W.W. Hunter, _A
+  Crawford, _History of the Indian Archipelago_ (Edinburgh, 1820); [[Clive]]
+  Day, _The Dutch in Java_ (New York, 1904); Sir W.W. [[Hunter]], _A
   History of British India_ (London, 1899); and Pierre Bonnassieux, _Les
   Grandes Compagnies de commerce_ (Paris, 1892).
 
@@ -157,8 +157,8 @@ FOOTNOTE:
     travels at the age of sixteen and, after some years in Spain, went
     with the Portuguese East India fleet to Goa, where he arrived in
     September 1583, returning in 1589. In 1594 and 1595 he took part in
-    the Dutch Arctic voyages, and in 1598 settled at Enkhuizen, where he
-    died on the 8th of February 1611. His _Navigatio ac itinerarium_
+    the Dutch [[Arctic]] voyages, and in 1598 settled at Enkhuizen, where he
+    died on the 8th of February 1611. His _Navigatio ac [[Itinerarium|itinerarium]]_
     (1595-1596) is a compilation based partly on his own experiences,
     partly on those of other travellers with whom he came in contact. It
     was translated into English and German in 1598; two Latin versions
@@ -181,19 +181,19 @@ vestiges of them may still be traced. We do not know anything about
 their being mixed with or subdued by the intruding German tribes. We can
 only guess it.
 
-At that time the fertile delta of the Rhine was already occupied by
+At that time the fertile [[Delta|delta]] of the Rhine was already occupied by
 German tribes who in language and national customs must have stood in
 some relation to the tribes living along the Rhine in Germany, later
-called Franks. The consonantal system of their language was in
-accordance with the other Low-German dialects, which is proved by the
+called [[Franks]]. The consonantal system of their language was in
+accordance with the other Low-German [[Dialect|dialects]], which is proved by the
 remains we have in the glosses of the Lex Salica, for the greater part
 handed down in a bad condition. These tribes, whom we shall take
 together under the name of Low-Franks--the Romans called them Batavi,
-Caninefates, Chamavi, &c.--were spread over Gelderland, Overysel, part
+Caninefates, Chamavi, &c.--were spread over [[Gelderland]], Overysel, part
 of Utrecht and South Holland, and the south-western part of North
 Holland. When in the sixth century allied tribes from the present north
 Germany, who named themselves Saxons after one of those tribes living
-alongside the Elbe, conquered the territory occupied by the Franks a
+alongside the [[Elbe]], conquered the territory occupied by the Franks a
 great many retreated from the eastern parts, and then the Franks, who
 already in the time of the Romans had begun to invade into the territory
 of the Belgian tribes, continued their wars of conquest in a southward
@@ -201,7 +201,7 @@ direction and subdued all the land south of the branch of the Rhine that
 is called the "Waal." Since that time the Frankish dialect came there,
 and the Celtic-speaking population of the south suffered its language to
 be entirely supplanted by that of the conquerors. Hence in the formerly
-Celtic-speaking parts of Brabant and Limburg we find but Frankish
+Celtic-speaking parts of [[Brabant]] and [[Limburg]] we find but Frankish
 dialects, somewhat corresponding with those of part of Gelderland,
 Utrecht and Holland. The deviation that is perceptible concerns less the
 use of words than the way of laying the stress.
@@ -210,7 +210,7 @@ In part of Gelderland, east of the Ysel, and in Overysel, the older
 Frankish dialect (of the Salian Franks) was given up and the language of
 the victorious Saxons was assumed, perhaps here and there strongly mixed
 with the older language. The language which is spoken there, and farther
-to the north through Drente as far as in some parts of Groningen, is
+to the north through [[Drente]] as far as in some parts of [[Groningen]], is
 called Saxon. Indeed, these dialects correspond in a great many respects
 with the language of the Old-Saxon poem Heliand (q.v.) and with the
 North-German dialects--from the latter they deviate considerably in some
@@ -220,13 +220,13 @@ which are _wèi loopen, wèi gaan_ in the Frankish dialects. In the vocal
 system, too, there are peculiar differences.
 
 In the north of Holland there lived, and still lives alongside the
-coast, a tribe with which Caesar did not come in contact. The Frisians
+coast, a tribe with which [[Caesar]] did not come in contact. The [[Frisians]]
 were spread over a large distance along the shore as far as the mouth of
 the Elbe, and in the west at least as far as the country north of
 Haarlem. In the time of the Romans they cannot have extended their power
 farther southward. Later, however, this seems to have been the case.
 Maerlant and Melis Stoke (13th century) tell us that time was when their
-power extended even over part of Flanders. About the year 339 they were
+power extended even over part of [[Flanders]]. About the year 339 they were
 repelled as far as the mouth of the Meuse, and ever afterwards the
 Franks, led by their counts, pushed their dominion back farther and
 farther to the north, as far as the country north of Alkmaar. After all,
@@ -237,12 +237,12 @@ To begin with the south: in Zeeland the population has quite given up
 the former probably non-Germanic language. Frisian influence is still
 perceptible in many words and expressions, but for all that the language
 has lost the Frisian character and assumed the nature of the
-neighbouring Frankish dialects in the present Belgium and Brabant. If it
+neighbouring Frankish dialects in the present [[Belgium]] and Brabant. If it
 was then influenced by the south, later it was influenced rather by the
 language of Holland. Farther to the north Frisian elements may be
 perceived in Holland at the seashore and also in many respects still in
 North Holland. The real Frisian tongue has only been preserved in the
-province of Friesland, where intrusion of the dialect spoken in Holland
+province of [[Friesland]], where intrusion of the dialect spoken in Holland
 is already perceptible since the 13th century. With the Frisian tongue
 this formed a new dialect in the towns, the "Stadfriesch," whereas the
 country people in the villages and the peasants have preserved the old
@@ -262,7 +262,7 @@ the towns and large villages.
 This influence over the whole country began at the opening of the 17th
 century, and, in connexion with the prevalent written language,
 gradually produced a colloquial language, deviating from the written
-language as well as from the native idioms of the country, though
+language as well as from the native [[Idiom|idioms]] of the country, though
 assuming elements from both. In this colloquial speech the idiom of
 Holland forms the basis, whereas the written language formed itself on
 quite different principles.
@@ -279,7 +279,7 @@ Mid High German copy. This dialect deviates from the western dialects
 and has likeness to the Middle-Frankish. His work had no influence
 whatever on the written language.
 
-In the west of Belgium, in the districts of Antwerp, East and West
+In the west of Belgium, in the districts of [[Antwerp]], East and West
 Flanders and Brabant, great prosperity and strong development of
 commerce caused a vivid intellectual life. No wonder we find there the
 first writings in the West-Low-Frankish native idiom. This language
@@ -307,7 +307,7 @@ agreed in its chancery style more with the districts of Low Germany.
 There was a great difference between the written language and the
 dialect spoken on the banks of the Y. This becomes quite conspicuous if
 we compare what Roemer Visscher, Coster, Bredero borrow from their
-native idiom with the language of Huygens or Cats, in the latter of
+native idiom with the language of [[Huygens]] or Cats, in the latter of
 which the southern elements predominate, mixed with the dialects of
 Zeeland and Holland. Vondel, too, in his first period was influenced by
 the idiom of Brabant. Only after 1625 does he get on more familiar terms
@@ -328,7 +328,7 @@ in the eastern provinces.
 
 This, however, did not yet make the written language popular, which did
 not happen before the population of the Dutch provinces got its
-_Statenbÿbel_, the well-known authorized version of the Bible, made at
+_Statenbÿ[[Bel|bel]]_, the well-known authorized version of the Bible, made at
 Dordrecht between 1626 and 1637.
 
 By the frequent use of this so-called _Statenvertaling_ the language of
@@ -347,12 +347,12 @@ while at the same time many words were borrowed from Latin, the language
 of the learned people, especially in the 16th century, and from French,
 under the influence of the poetic clubs of the 17th and 18th centuries.
 In the time of the rhetoricians, in the 16th century, and of Coornhert,
-as well as in the days of Bredero, Hooft and Vondel, we repeatedly find
+as well as in the days of Bredero, [[Hooft]] and Vondel, we repeatedly find
 opposition against these foreign words, often successful, so that in
 1650 Vondel could say: "_Onze spraak is sedert weinige jaren herwaart
 van bastaard-woorden en onduitsch allengs geschuimt._"[1] Some people,
 e.g. Hooft, went even so far as to make very clumsy versions of Latin
-and French bastard words, handed down of old.
+and French [[Bastard|bastard]] words, handed down of old.
 
 Under the influence of the club "_Nil Volentibus Arduum_" and the
 predominant literary clubs of the 18th century, people became inclined
@@ -393,9 +393,9 @@ syntactical constructions have slipped in.
 
 In the 17th century a number of Dutchmen, for the greater part from
 Holland and Zeeland, under Jan van Riebeek, had settled in South Africa,
-in Cape Town, where the Dutch navigation called into being a Dutch port.
+in [[Cape Town]], where the Dutch navigation called into being a Dutch port.
 In course of time they were joined there by French emigrants (most of
-them Huguenots who left their country about 1688 and joined with other
+them [[Huguenots]] who left their country about 1688 and joined with other
 Huguenots from Holland in assuming the Dutch language), perhaps also by
 Portuguese and by Malay people, who, together with the English who
 settled there and after 1820 became numerous in Cape Colony, mixed some
@@ -407,8 +407,8 @@ adaptations agreeably to the native idiom.
 
   In order to offer an example of the Middle-Dutch language beside the
   present language, we give here a single strophe from Maerlant's
-  _Wapene Martyn_, with a metrical translation in modern Dutch from the
-  pen of Nikolaas Beets (1880).
+  _Wapene [[Martyn]]_, with a metrical translation in modern Dutch from the
+  pen of Nikolaas [[Beets]] (1880).
 
   God, diet al bi redene doet,     | God, die het al met wijsheid doet,
   Gaf dat wandel ertsche goet      | Gaf dit verganklijk aardsche goed
@@ -416,7 +416,7 @@ adaptations agreeably to the native idiom.
   Dattere mede ware gevoet,        | Op dat zij zouden zijn gevoed,
   Ende gecleet, ende gescoet,      | Het lijf gekleed, geschoeid de voet
     Ende leven soude rene.         |   En leven rein van zeen.
-  Nu es giericheit so verwoet,     | Maar zie nu hoe de hebzucht woedt
+  Nu es giericheit so verwoet,     | Maar zie nu [[Hoe|hoe]] de hebzucht woedt
   Dat elc settet sinen moet        | Dat iedereen in arren moed
     Om al te hebbene allene.       |   't Al hebben wil alleen'
   Hieromme stortmen menschenbloet, | Hierom vergiet men menschenbloed
@@ -435,7 +435,7 @@ adaptations agreeably to the native idiom.
   hand, the historical development of the language being more distinctly
   kept in view, and the agreement observed with the inflexional forms,
   the soft consonant is written more frequently than it is sounded; thus
-  we have Middle Dutch _dach_, Modern Dutch _dag_, in analogy with the
+  we have Middle Dutch _[[Dach|dach]]_, Modern Dutch _dag_, in analogy with the
   plural _dagen_.
 
   The gutturals are _g_, _k_, _ch_ and _h_.
@@ -524,7 +524,7 @@ adaptations agreeably to the native idiom.
 
   The pronunciation of _ei_ (from _ai_, or _eg_: _ag_, French _ai_,
   _ei_, _ée_) is that of English _i_, for instance, Dutch _ei_, English
-  egg, is pronounced like English _I_.
+  [[Egg|egg]], is pronounced like English _I_.
 
   _I_ is pronounced short (somewhat like _i_ of English pit), for
   instance in _pit_, _binden_, _sikkel_; it has a clear sound in
@@ -534,7 +534,7 @@ adaptations agreeably to the native idiom.
   _fabriek_, _fabrieken_, _Pieter_; also in _bieden_, _stierf_, &c. For
   original long _î_, Middle Dutch _ii_ and _ij_, afterwards _ÿ_, was
   used. This vowel, though still written _y_, is pronounced like English
-  _i_ in I, like; so in _sysje_ (English siskin), _lÿken_, &c.
+  _i_ in I, like; so in _sysje_ (English siskin), _lÿ[[Ken|ken]]_, &c.
 
   The letter _o_ represents three sounds:--(1) the short sharp _o_ and
   (2) the short soft _o_, the former like the _o_ in English not and
@@ -549,7 +549,7 @@ adaptations agreeably to the native idiom.
   frequently indicated by _e_ (before _r_ sometimes by _i_, as in
   _oir_); hence _ae_ for _â_, _oe_ for _ô_. Where _oe_ occurs in the
   modern language, it has the sound of _u_ (pronounced like the _u_ in
-  High German, and answering to the Gothic _ô_), which in Middle Dutch
+  High German, and answering to the [[Gothic]] _ô_), which in Middle Dutch
   was frequently represented by _ou_. _oe_ is pronounced _ou_ (_au_;
   Sweet, p. 6) in West Flemish and the Groningen dialects. Before
   labials and gutturals _oe_ in Middle Dutch was expressed by _ue_ and
@@ -584,7 +584,7 @@ adaptations agreeably to the native idiom.
   _buigen_, &c.
 
   _Ou_ and _au_ in _vrouw_ and _blauw_ are nearly pronounced in the same
-  way, very much like English _ow_ in crowd.
+  way, very much like English _ow_ in [[Crowd|crowd]].
 
   AUTHORITIES.--For a full survey of a history of the Dutch language the
   reader is referred to Jan te Winkel, "Geschichte der niederländischen
@@ -595,7 +595,7 @@ adaptations agreeably to the native idiom.
   current language see the _Woordenboek der Nederlandsche Taal_, by De
   Vries and Te Winkel, continued by A. Kluyver, A. Beets, for a time by
   J.W. Müller and De Vreese, who left at their nomination as professors
-  at Utrecht and Ghent. The Middle Dutch language may be known from the
+  at Utrecht and [[Ghent]]. The Middle Dutch language may be known from the
   _Middelnederlandsch Woordenboek_, first by E. Verwys and J. Verdam,
   after the death of Verwys by Verdam alone. For the dialects the
   different grammars and glossaries issued at Martinus Nÿhoff (The
@@ -604,7 +604,7 @@ adaptations agreeably to the native idiom.
   dialects are recorded in the publications of the _Vlaamsche Academie_
   (Ghent). Phonetic explanations are given in Roorda's or in ten
   Bruggencate's _Phonetic Works_, and a survey of the pronunciation in
-  Branco van Dantzig's _Dutch Pronunciation_ and Dykstra's _Dutch
+  [[Branco]] van Dantzig's _Dutch Pronunciation_ and Dykstra's _Dutch
   Grammar_.     (J. H. G.)
 
 
@@ -618,7 +618,7 @@ FOOTNOTE:
 
 DUTCH LITERATURE. The languages now known as Dutch and Flemish did not
 begin to take distinct shape till about the end of the 11th century.
-From a few existing fragments--two incantations from the 8th century, a
+From a few existing fragments--two [[Incantation|incantations]] from the 8th century, a
 version of the Psalms from the 9th century, and several charters--a
 supposed Old Dutch language has been recognized; but Dutch literature
 actually commences in the 13th century, as Middle Dutch, the creation of
@@ -637,16 +637,16 @@ translator has reached us, but we happen to know that the fragments we
 possess of the French romance of _William of Orange_ were written in
 Dutch by a certain Klaas van Haarlem, between 1191 and 1217. The
 _Chanson de Roland_ was translated about the same time, and considerably
-later _Parthenopeus de Blois_. The Flemish minstrel Diederic van
+later _Parthenopeus de [[Blois]]_. The Flemish minstrel Diederic van
 Assenede completed his version of _Floris et Blanchefleur_ about 1250.
 The Arthurian legends appear to have been brought to Flanders by some
 Flemish colonists in Wales, on their return to their mother-country.
-About 1250 a Brabantine minstrel translated Walter Map's _Lancelot du
-lac_ at the command of his liege, Lodewijk van Velthem. The _Gauvain_
+About 1250 a Brabantine minstrel translated Walter Map's _[[Lancelot]] du
+[[Lac|lac]]_ at the command of his [[Liege|liege]], Lodewijk van Velthem. The _Gauvain_
 was translated by Penninc and Vostaert before 1260, while the first
-original Dutch writer, the famous Jakob van Maerlant, occupied himself
+original Dutch writer, the famous [[Jakob]] van Maerlant, occupied himself
 about 1260 with several romances dealing with Merlin and the Holy Grail.
-The earliest existing fragments of the epic of _Reynard the Fox_ were
+The earliest existing fragments of the epic of _Reynard the [[Fox]]_ were
 written in Latin by Flemish priests, and about 1250 the first part of a
 very important version in Dutch was made by Willem the Minstrel, of whom
 it is unfortunate that we know no more save that he was the translator
@@ -661,7 +661,7 @@ was added by another hand at the end of the 14th century.
 It is not necessary to dwell at any length on the monkish legends and
 the hymns to the Virgin Mary which were abundantly produced during the
 13th century, and which, though destitute of all literary merit, were of
-use as exercises in the infancy of the language. The first lyrical
+use as exercises in the [[Infancy|infancy]] of the language. The first lyrical
 writer of Holland was John I., duke of Brabant, who practised the
 _minnelied_ with success, but whose songs are only known to us through a
 Swabian version of a few of them. In 1544 the earliest collection of
@@ -684,21 +684,21 @@ Heremans and Ledeganck.
 
 Hitherto, as we have seen, the Middle Dutch language had placed itself
 at the service of the aristocratic and monastic orders, flattering the
-traditions of chivalry and of religion, but scarcely finding anything to
+traditions of [[Chivalry|chivalry]] and of religion, but scarcely finding anything to
 say to the bulk of the population. With the close of the 13th century a
 change came over the face of Dutch literature. The Flemish towns began
 to prosper and to assert their commercial supremacy over the North Sea.
-Under such mild rulers as William II. and Floris V., Dort, Amsterdam,
+Under such mild rulers as William II. and Floris V., [[Dort]], Amsterdam,
 and other cities contrived to win such privileges as amounted almost to
 political independence, and with this liberty there arose a new sort of
 literary expression. The founder and creator of this original Dutch
-literature was Jacob van Maerlant (q.v.). His _Naturen Bloeme_, written
+literature was [[Jacob]] van Maerlant (q.v.). His _Naturen Bloeme_, written
 about 1263, forms an epoch in Dutch literature; it is a collection of
 moral and satirical addresses to all classes of society. With his
 _Rijmbijbel_ (Rhyming Bible) he foreshadowed the courage and
 free-thought of the Reformation. It was not until 1284 that he began his
 masterpiece, _De Spieghel Historiael_ (The Mirror of History), at the
-command of Count Floris V. Of his disciples, the most considerable in
+command of Count Floris V. Of his [[Disciple|disciples]], the most considerable in
 South Holland was Jan van Boendale (1280-1365), known as Jan de Klerk.
 He was born in Brabant, and became clerk to the justices at Antwerp in
 1310. He was entrusted with various important missions. His works are
@@ -740,12 +740,12 @@ later historians.
 With the middle of the 14th century the chivalric spirit came once more
 into fashion. A certain revival of the forms of feudal life made its
 appearance under William III. and his successors. Knightly romances came
-once more into vogue, but the newborn didactic poetry contended
+once more into vogue, but the newborn [[Didactic Poetry|didactic poetry]] contended
 vigorously against the supremacy of what was lyrical and epical. It will
 be seen that from the very first the literary spirit in Holland began to
 assert itself in a homely and utilitarian spirit. Jan van Heelu, a
 Brabanter, was the author of an epic poem[1] on the battle of Woeronc
-(1288), dedicated to Princess Margaret of England, and to him has been
+(1288), dedicated to Princess [[Margaret]] of England, and to him has been
 attributed the still finer romance of the _War of Grimbergen_.[2] Still
 more thoroughly aristocratic in feeling was Hein van Aken, a priest of
 Louvain, who lived about 1255-1330, and who combined to a very curious
@@ -765,10 +765,10 @@ another northern poet, of a more strictly political cast. Many of his
 writings exist still unpublished, and are very rough in style and
 wanting in form. Towards the end of the 14th century an erotic poet of
 considerable power arose in the person of the lord of Waddinxsveen and
-Hubrechtsambacht, Dirk Potter van der Loo (c. 1365-1428), who was
-secretary at the court of the counts of Holland. During an embassy in
+Hubrechtsambacht, Dirk Potter van der [[Loo]] (c. 1365-1428), who was
+secretary at the court of the counts of Holland. During an [[Embassy|embassy]] in
 Rome (1411-1412) this eminent diplomatist made himself acquainted with
-the writings of Boccaccio, and commenced a vast poem on the course of
+the writings of [[Boccaccio]], and commenced a vast poem on the course of
 love, _Der Minnen Loep_,[5] which is a wonderful mixture of classical
 and Biblical instances of amorous adventures set in a framework of
 didactic philosophy. In Dirk Potter the last traces of the chivalric
@@ -779,14 +779,14 @@ date, are preserved in a _Liedekens-Boeck_ printed by Jan Roulans
 by Hoffmann von Fallersleben in _Horae Belgicae_ (vol. xi., 1855).
 
 
-  Religious drama.
+  Religious [[Drama|drama]].
 
 It is now time to consider the growth of prose literature in the Low
 Countries. The oldest pieces of Dutch prose now in existence are
 charters of the towns of Flanders and Zealand, dated 1249, 1251 and
 1254. A prose translation of the Old Testament was made about 1300, and
 there exists a _Life of Jesus_ about the same date. Of the mystical
-preachers whose religious writings have reached us, the Brussels friar,
+preachers whose religious writings have reached us, the Brussels [[Friar|friar]],
 Jan van Ruysbroec (1294-1381), is the most important. But the most
 interesting relics of medieval Dutch prose, as far as the formation of
 the language is concerned, are the popular romances in which the
@@ -803,7 +803,7 @@ however, is part of a _Limburg-Maastricht Passover Play_[6] of about
 1360. The latest Dutch miracle play was the _Mystery of the Holy
 Sacrament_, composed by a certain Smeken, at Breda, and performed on St
 John's day, 1500. This play was printed in 1867. With these purely
-theological dramas there were acted mundane farces, performed outside
+theological dramas there were acted mundane [[Farce|farces]], performed outside
 the churches by semi-religious companies; these curious moralities were
 known as "Abelespelen" and "Sotternieën." In these pieces we discover
 the first traces of that genius for low comedy which was afterwards to
@@ -831,19 +831,19 @@ in thought. Of these remarkable bodies the earliest were almost entirely
 engaged in preparing mysteries and miracle-plays for the populace. Each
 chamber, and in process of time every town in the Low Countries,
 possessed one, and took as its title some fanciful or heraldic sign. At
-Diest "The Eyes of Christ," dated from 1302, and an earlier one, the
+[[Diest]] "The Eyes of Christ," dated from 1302, and an earlier one, the
 "Lily," is mentioned. "The Alpha and Omega," at Ypres, was founded about
 1398; that of the "Violet," at Antwerp, followed in 1400; the "Book," at
 Brussels, in 1401; the "Berberry," at Courtrai, in 1427; the "Holy
 Ghost," at Bruges, in 1428; the "Floweret Jesse," at Middelburg, in
 1430; the "Oak Tree," at Vlaardingen, in 1433; and the "Marigold," at
-Gouda, in 1437. The most celebrated of all the chambers, that of the
+[[Gouda]], in 1437. The most celebrated of all the chambers, that of the
 "Eglantine" at Amsterdam, with its motto _In Liefde Bloeyende_
 (Blossoming in Love), was not instituted until 1496. Among the most
 influential chambers not above mentioned should be included the
-"Fountain" at Dort, the "Corn Flower" at the Hague, the "White
-Columbine" at Leiden, the "Blue Columbine" at Rotterdam, the "Red Rose"
-at Schiedam, the "Thistle" at Zierikzee, "Jesus with the Balsam" at
+"[[Fountain]]" at Dort, the "[[Corn]] [[Flower]]" at the Hague, the "White
+[[Columbine]]" at Leiden, the "Blue Columbine" at Rotterdam, the "Red Rose"
+at Schiedam, the "Thistle" at Zierikzee, "Jesus with the [[Balsam]]" at
 Ghent, and the "Garland of Mary" at Brussels. And not in these important
 places only, but in almost every little town, the rhetoricians exerted
 their influence, mainly in what we may call a social direction. Their
@@ -865,7 +865,7 @@ these festivals were held. There was a specially splendid _landjuweel_
 at Antwerp in 1496, in which 28 chambers took part, but the gayest of
 all was that celebrated at Antwerp on the 3rd of August 1561. To this
 the "Book" at Brussels sent 340 members, all on horseback, and clad in
-crimson mantles. The town of Antwerp gave a ton of gold to be given in
+[[Crimson|crimson]] [[Mantle|mantles]]. The town of Antwerp gave a ton of gold to be given in
 prizes, which were shared among 1893 rhetoricians. This was the zenith
 of the splendour of the "Kamers van Rhetorica," and after this time they
 soon fell into disfavour. We can trace the progress of literary
@@ -874,7 +874,7 @@ productions has descended to us. Their dramatic pieces were certainly of
 a didactic cast, with a strong farcical flavour, and continued the
 tradition of Maerlant and his school. They very rarely dealt with
 historical or even Biblical personages, but entirely with allegorical
-and moral abstractions, until the age of humanism introduced upon the
+and moral abstractions, until the age of [[Humanism|humanism]] introduced upon the
 stage the names without much of the spirit of mythology. Of the pure
 farces of the rhetorical chambers we can speak with still more
 confidence, for some of them have come down to us, and among the authors
@@ -911,25 +911,25 @@ did not remain faithful to his convictions, for he composed in 1593 a
 poem in honour of the cardinal-archduke Ernest of Austria, the governor
 of the Spanish Netherlands. He considered himself a devout disciple of
 Matthijs de Casteleyn, but his great characteristic was his unbounded
-love of classical and mythological fancy. His didactic poems are
+love of classical and mythological [[Fancy|fancy]]. His didactic poems are
 composed in a wonderfully rococo style, and swarm with misplaced
 Latinities. In his bastard Burgundian tongue he boasted of having
 "poëtelijck geïnventeert ende rhetorijckelijck ghecomponeert" for the
-Brussels chamber such dramas as _Aeneas and Dido_, _Mars and Venus_,
+Brussels chamber such dramas as _Aeneas and Dido_, _[[Mars]] and Venus_,
 _Narcissus and Echo_, or _Leander and Hero_--named together the
 _Commerce of Amorosity_ (1583). But of all his writings, _Pegasides
 Pleyn_ (Antwerp, 1582-1583), or the Palace of Maidens, is the most
 remarkable; this is a didactic poem in sixteen books, dedicated to a
 discussion of the variety of earthly love. Houwaert's contemporaries
-nicknamed him "the Homer of Brabant"; later criticism has preferred to
+nicknamed him "the [[Homer]] of Brabant"; later criticism has preferred to
 see in him an important link in that chain of homely didactic Dutch
 which ends in Cats. His writings are composed in a Burgundian so base
 that they hardly belong to Flemish literature at all. Into the same
 miserable dialect Cornelis van Ghistele of Antwerp translated, between
 1555 and 1583, parts of Terence, Virgil, Horace, and Ovid, while the
-painter Karel van Mander (1547-1609) put a French version of the _Iliad_
+painter Karel van [[Mander]] (1547-1609) put a French version of the _Iliad_
 and of the _Eclogues_ of Virgil into an equally ill-fitting Flemish
-dress. In no country of Europe did the humanism of the 16th century at
+[[Dress|dress]]. In no country of Europe did the humanism of the 16th century at
 first affect the national literature so slightly or to so little
 purpose.
 
@@ -945,9 +945,9 @@ title of _Souter-Liedekens_, and was dedicated to a Dutch nobleman,
 Willem van Zuylen van Nieuvelt, by whose name it is usually known. This
 collection, however, was made before the Reformation in Holland really
 set in. For the Protestant congregations Jan Utenhove printed a volume
-of Psalms in London in 1566; Lucas de Heere (1534-1585), and immediately
+of Psalms in London in 1566; [[Lucas]] de Heere (1534-1585), and immediately
 after him, with much greater success, Petrus Datheen (1531-1590),
-translated the hymns of Clément Marot. For printing this last volume, in
+translated the hymns of Clément [[Marot]]. For printing this last volume, in
 1567, Herman Schinkel of Delft was burned to death in 1568. Datheen was
 not a rhetorician, but a person of humble origin, who wrote in the
 vulgar tongue, and his hymns spread far and wide among the people. Until
@@ -956,23 +956,23 @@ great events of the period of reformation are not marked by psalms only
 in Dutch literature. Two collections of hymns and lyrical pieces,
 printed in 1562 and 1569, perpetuate the fervour and despair of the
 martyrs of the Mennonite Church. Similar utterances of the persecuted
-Protestants were published at Haarlem and Leeuwarden, at Ghent and at
+Protestants were published at Haarlem and [[Leeuwarden]], at Ghent and at
 Bruges. Very different in tone were the battle-songs of liberty and
 triumph sung a generation later by the victorious Reformers, the
-"Geuzen" or "Gueux" (q.v.). The famous song-book of 1588, the _Geusen
+"Geuzen" or "[[Gueux]]" (q.v.). The famous song-book of 1588, the _Geusen
 Lieden Boecxken_, was full of ardent and heroic sentiment, expressed
 often in marvellously brilliant phrases. In this collection appeared for
 the first time such classical snatches of Dutch song as the Ballad of
-Heiligerlee, the Ballad of Egmond and Horn, and the song of the Storm of
+Heiligerlee, the Ballad of Egmond and [[Horn]], and the song of the Storm of
 Leiden. The political ballads, with their ridicule of the Spanish
 leaders, form a section of the _Boecxken_ which has proved of
 inestimable value to historians. All these lyrics, however, whether of
 victory or of martyrdom, are still very rough in form and language.
 
 
-  Anna Bijns.
+  [[Anna]] Bijns.
 
-The first writer who used the Dutch tongue with grace and precision of
+The first writer who used the Dutch tongue with [[Grace|grace]] and precision of
 style was a woman and a professed opponent of Lutheranism and reformed
 thought. Modern Dutch literature practically begins with Anna Bijns (c.
 1494-1575). Against the crowd of rhetoricians and psalm-makers of the
@@ -1012,9 +1012,9 @@ made classical in the next generation.
 
 In Filips van Marnix, lord of St Aldegonde (1538-1598), a much greater
 personage came forward in the ranks of liberty and reform. He was born
-at Brussels in 1538, and began life as a disciple of Calvin and Beza in
-the schools of Geneva. It was as a defender of the Dutch iconoclasts
-that he first appeared in print, with his tract on _The Images thrown
+at Brussels in 1538, and began life as a disciple of [[Calvin]] and [[Beza]] in
+the schools of [[Geneva]]. It was as a defender of the Dutch iconoclasts
+that he first appeared in print, with his tract on _The [[Image|Images]] thrown
 down in Holland in August 1566_. He soon became one of the leading
 spirits in the war of Dutch independence, the intimate friend of the
 prince of Orange, and the author of the glorious _Wilhelmuslied_. It was
@@ -1028,7 +1028,7 @@ Holland. Overwhelmed with the press of public business, Marnix wrote
 little more until in 1580 he published his _Psalms of David newly
 translated out of the Hebrew Tongue_. He occupied the last years of his
 life in preparing a Dutch version of the Bible, translated direct from
-the original. At his death only Genesis was found completely revised;
+the original. At his death only [[Genesis]] was found completely revised;
 but in 1619 the synod of Dort placed the unfinished work in the hands of
 four divines, who completed it.
 
@@ -1057,7 +1057,7 @@ in the approved conventional fashion of the rhetoricians; he collected
 his poems in 1575. The next ten years he occupied in polemical writing,
 from the evangelical point of view, against the Calvinists. In 1585 he
 translated Boethius, and then gave his full attention to his original
-masterpiece, the _Zedekunst_ (1586), or Art of Ethics, a philosophical
+masterpiece, the _Zedekunst_ (1586), or Art of [[Ethics]], a philosophical
 treatise in prose, in which he studied to adapt the Dutch tongue to the
 grace and simplicity of Montaigne's French. His humanism unites the
 Bible, Plutarch and Marcus Aurelius in one grand system of ethics, and
@@ -1105,7 +1105,7 @@ proceeded a step further than Spieghel in the cultivation of polite
 letters. He was deeply tinged with a spirit of classical learning that
 was much more genuine and nearer to the true antique than any that had
 previously been known in Holland. His own disciples called him the Dutch
-Martial, but he was at best little more than an amateur in poetry,
+[[Martial]], but he was at best little more than an amateur in poetry,
 although an amateur whose function it was to perceive and encourage the
 genius of professional writers. Roemer Visscher stands at the threshold
 of the new Renaissance literature, himself practising the faded arts of
@@ -1121,27 +1121,27 @@ began to take form. The republic of the United Provinces, with Amsterdam
 at its head, had suddenly risen to the first rank among the nations of
 Europe, and it was under the influence of so much new emotion and
 brilliant ambition that the country no less suddenly asserted itself in
-a great school of painting and poetry. The intellect of the whole Low
+a great school of painting and poetry. The [[Intellect|intellect]] of the whole Low
 Countries was concentrated in Holland and Zealand, while the six great
 universities, Leiden, Groningen, Utrecht, Amsterdam, Harderwijk and
-Franeker, were enriched by a flock of learned exiles from Flanders and
+[[Franeker]], were enriched by a flock of learned exiles from Flanders and
 Brabant. It had occurred, however, to Roemer Visscher only that the path
 of literary honour lay, not along the utilitarian road cut out by
 Maerlant and Boendale, but in the study of beauty and antiquity. In this
 he was curiously aided by the school of ripe and enthusiastic scholars
-who began to flourish at Leiden, such as Drusius, Vossius and Hugo
-Grotius, who themselves wrote little in Dutch, but who chastened the
+who began to flourish at Leiden, such as Drusius, Vossius and [[Hugo]]
+[[Grotius]], who themselves wrote little in Dutch, but who chastened the
 style of the rising generation by insisting on a pure and liberal
 Latinity. Out of that generation arose the greatest names in the
 literature of Holland--Vondel, Hooft, Cats, Huygens--in whose hands the
 language, so long left barbarous and neglected, took at once its highest
 finish and melody. By the side of this serious and aesthetic growth
-there is to be noticed a quickening of the broad and farcical humour
+there is to be noticed a quickening of the broad and farcical [[Humour|humour]]
 which had been characteristic of the Dutch nation from its commencement.
-For fifty years, and these the most glorious in the annals of Holland,
+For fifty years, and these the most glorious in the [[Annals|annals]] of Holland,
 these two streams of influence, one towards beauty and melody, the other
 towards lively comedy, ran side by side, often in the same channel, and
-producing a rich harvest of great works. It was in the house of the
+producing a rich [[Harvest|harvest]] of great works. It was in the house of the
 daughters of Roemer Visscher that the tragedies of Vondel and the
 comedies of Bredero, the farces of Coster and the odes of Huygens, alike
 found their first admirers and their best critics.
@@ -1155,7 +1155,7 @@ poem, _De Roemster van den Aemstel_ (The Glory of the Aemstel), and of
 various miscellaneous writings; Tesselschade (1594-1649) wrote some
 lyrics which still place her at the head of the female poets of Holland,
 and she translated the great poem of Tasso. They were women of universal
-accomplishment, graceful manners and singular beauty; and their company
+accomplishment, graceful [[Manners|manners]] and singular beauty; and their company
 attracted to the house of Roemer Visscher all the most gifted youths of
 the time, several of whom were suitors, but in vain, for the hand of
 Anna or of Tesselschade.
@@ -1199,13 +1199,13 @@ dramatizing the romance of _Roderick and Alphonsus_, in 1611, and
 _Griane_ in 1612, but in the latter year he struck out a new and more
 characteristic path in his _Farce of the Cow_. From this time until his
 death he continued to pour out comedies, farces and romantic dramas, in
-all of which he displayed a coarse, rough genius not unlike that of Ben
-Jonson, whose immediate contemporary he was. His last and best piece was
+all of which he displayed a coarse, rough genius not unlike that of [[Ben]]
+[[Jonson]], whose immediate contemporary he was. His last and best piece was
 _Jerolimo, the Spanish Brabanter_, a satire upon the exiles from the
 south who filled the halls of the Amsterdam chambers of rhetoric with
 their pompous speeches and preposterous Burgundian phraseology. The
 piece was based on a Dutch version (Delft, 1609) of an early Spanish
-picaresque romance, _La Vida de Lazarillo de Tormes_ (Burgos, 1554).
+picaresque romance, _La Vida de Lazarillo de Tormes_ ([[Burgos]], 1554).
 Bredero was closely allied in genius to the dramatists of the
 Shakespearian age, but he founded no school, and stands almost as a
 solitary figure in the literature of Holland. He died on the 23rd of
@@ -1213,7 +1213,7 @@ August 1618. Theodore Rodenburg (d. 1644), ridiculed by Bredero for his
 pretentiousness, had a wider knowledge of contemporary foreign
 literature than the other dramatists. He adapted some of the dramas of
 Lope de Vega, which he had witnessed at Madrid, into Dutch, and in 1618
-he adapted Cyril Tourneur's _Revenger's Tragedy_.
+he adapted [[Cyril]] Tourneur's _Revenger's Tragedy_.
 
 
   Coster.
@@ -1240,7 +1240,7 @@ dramatic matters.
 
 The first work of the greatest of all Dutch writers, Joost van den
 Vondel (1587-1679), was _Het Pascha_ (1612), a tragedy or tragi-comedy
-on the exodus of the children of Israel, written, like all his
+on the [[Exodus|exodus]] of the children of Israel, written, like all his
 succeeding dramas, on the recognized Dutch plan, in alexandrines, in
 five acts, and with choral interludes between the acts. There is
 comparatively little promise in _Het Pascha_. It was much inferior
@@ -1255,7 +1255,7 @@ Bredero, his immediate contemporary and greatest rival, burned itself
 out in a succession of dramatic victories, and it was not until two
 years after the death of that great poet that Vondel appeared before the
 public with a second tragedy, the _Jerusalem laid Desolate_. Five years
-later, in 1625, he published what seemed an innocent study from the
+later, in 1625, he published what seemed an [[Innocent|innocent]] study from the
 antique, his tragedy of _Palamedes, or Murdered Innocence_. All
 Amsterdam discovered, with smothered delight, that under the name of the
 hero was thinly concealed the figure of Barneveldt, whose execution in
@@ -1280,8 +1280,8 @@ supplied the theatre with heroic Scriptural pieces, of which the general
 reader will obtain the best idea if we point to the _Athalie_ of Racine.
 In 1654, having already attained an age at which poetical production is
 usually discontinued by the most energetic of poets, he brought out the
-most exalted and sublime of all his works, the tragedy of _Lucifer_.
-Very late in life, through no fault of his own, financial ruin fell on
+most exalted and sublime of all his works, the tragedy of _[[Lucifer]]_.
+Very late in life, through no [[Fault|fault]] of his own, financial ruin fell on
 the aged poet, and from 1658 to 1668--that is, from his seventieth to
 his eightieth year--this venerable and illustrious person, the main
 literary glory of Holland through her whole history, was forced to earn
@@ -1290,10 +1290,10 @@ wasting his masters' time by the writing of verses. The city released
 him at last from this wretched bondage by a pension, and the wonderful
 old man went on writing odes and tragedies almost to his ninetieth year.
 He died at last in 1679, of no disease, having outlived all his
-contemporaries and almost all his friends, but calm, sane and
-good-humoured to the last, serenely conscious of the legacy he left to a
+contemporaries and almost all his friends, but [[Calm|calm]], sane and
+good-humoured to the last, serenely conscious of the [[Legacy|legacy]] he left to a
 not too grateful country. Vondel is the typical example of Dutch
-intelligence and imagination at their highest development. Not merely is
+intelligence and [[Imagination|imagination]] at their highest development. Not merely is
 he to Holland all that Camoens is to Portugal and Mickiewicz to Poland,
 but he stands on a level with these men in the positive value of his
 writings.
@@ -1339,7 +1339,7 @@ popularity with the middle classes in Holland has always been immense,
 and his influence extremely hurtful to the growth of all branches of
 literary art. Among the disciples of Cats, Jakob Westerbaen (1599-1670)
 was the most successful. His works included translations from Virgil,
-Ovid, Seneca, Terence and Juvenal, besides original poems. The Jesuit
+Ovid, Seneca, Terence and [[Juvenal]], besides original poems. The Jesuit
 Adriaen Poirters (1606-1675) closely followed Cats in his remarkable
 _Masquer of the World_. A poet of Amsterdam, Jan Hermansz Krul
 (1602-1644), preferred to follow the southern fashion, and wrote
@@ -1349,7 +1349,7 @@ didactic pieces in the Catsian manner.
   Huygens.
 
 A poet of dignified imagination and versatile form was Sir Constantijn
-Huygens (1596-1687), the diplomatist. He threw in his lot with the great
+Huygens (1596-1687), the diplomatist. He threw in his [[Lot|lot]] with the great
 school of Amsterdam, and became the intimate friend and companion of
 Vondel, Hooft and the daughters of Roemer Visscher. His famous poem in
 praise of the Hague, _Batava Tempe_, appeared in 1622, and was, from a
@@ -1357,13 +1357,13 @@ technical point of view, the most accomplished and elegant poem till
 that time produced in Holland. His collected poems, _Otiorum libri sex_,
 were printed in 1625. _Oogentroost_, or Eye Consolation, was the
 fantastic title of a remarkable poem dedicated in 1647 to his blind
-friend, Lucretia van Trello. He printed in 1654 a topographical piece
+friend, [[Lucretia]] van Trello. He printed in 1654 a topographical piece
 describing his own mansion, _Hofwijck_. Huygens represents the direction
 in which it would have been desirable that Dutch literature, now
 completely founded by Hooft and Vondel, should forthwith proceed, while
 Cats represents the tame and mundane spirit which was actually adopted
 by the nation. Huygens had little of the sweetness of Hooft or of the
-sublimity of Vondel, but his genius was eminently bright and vivacious,
+sublimity of Vondel, but his genius was eminently [[Bright|bright]] and vivacious,
 and he was a consummate artist in metrical form. The Dutch language has
 never proved so light and supple in any hands as in his, and he
 attempted no class of writing, whether in prose or verse, that he did
@@ -1386,7 +1386,7 @@ Amsterdam, was a disciple of Descartes, who deserves to be remembered as
 the greatest philosophical writer who has used the Dutch language. His
 masterpiece, _Betoverde Wereld_, or the World Bewitched, appeared in
 1691-1693. Bekker is popularly remembered most honourably by his
-determined attacks upon the system of a penal code for witchcraft.
+determined attacks upon the system of a penal [[Code|code]] for witchcraft.
 
 
   Vos.
@@ -1424,20 +1424,20 @@ suddenly, in early life, leaving unfinished an epic poem on the life of
 St. Paul. Reyer Anslo (1626-1669) marks the decline of taste and vigour;
 his once famous descriptive epic, _The Plague at Naples_, is singularly
 tame and rococo in style. Joachim Oudaen (1628-1692) wrote in his youth
-two promising tragedies, _Johanna Gray_ (1648) and _Konradyn_ (1649).
+two promising tragedies, _Johanna [[Gray]]_ (1648) and _Konradyn_ (1649).
 The Amsterdam section of the school of Cats produced Jeremias de Decker
 (1609-1666), author of _The Praise of Avarice_, a satirical poem in
 imitation of Erasmus, and Joannes Vollenhove (1631-1708), voluminous
 writers of didactic verse. The engraver Jan Luiken (1649-1708) published
-in 1671 a very remarkable volume of poems. In lyrical poetry Starter had
-a single disciple, Daniel Jonctijs (1600-1652), who published a volume
+in 1671 a very remarkable volume of poems. In [[Lyrical Poetry|lyrical poetry]] Starter had
+a single disciple, [[Daniel]] Jonctijs (1600-1652), who published a volume
 of love songs in 1639 under the affected and untranslatable title of
 _Rooselijns oochjens ontleed_. None of these poets, except in some
 slight degree Luiken, set before himself any more ambitious task than to
 repeat with skill the effects of his predecessors.
 
 
-  Heemskerk.
+  [[Heemskerk]].
 
   Heinsius.
 
@@ -1445,7 +1445,7 @@ Meanwhile the romantic and voluminous romances of the French school of
 Scudéry and Honoré d'Urfé had invaded Holland and become fashionable.
 Johan van Heemskerk (1597-1656), a councillor of the Hague, set himself
 to reproduce this product in native form, and published in 1637 his
-_Batavian Arcadia_, the first original Dutch romance, in which a party
+_Batavian [[Arcadia]]_, the first original Dutch romance, in which a party
 of romantic youths journey from the Hague to Katwijk, and undergo all
 sorts of romantic adventures. This book was extremely popular, and was
 imitated by Hendrik Zoeteboom in his _Zaanlandsche Arcadia_ (1658), and
@@ -1470,7 +1470,7 @@ _Use and Misuse of the Stage_, in 1681. Willem van Focquenbroch
 close of the century saw the rise of two thoroughly Gallican dramatists,
 Jan van Paffenrode (d. 1673) and Pieter Bernagie (1656-1699), who may
 not unfairly be compared respectively to the Englishmen Farquhar and
-Shadwell. Thomas Asselijn (1630-1695) was a writer of more considerable
+Shadwell. Thomas [[Asselijn]] (1630-1695) was a writer of more considerable
 talent and more homely instincts. He attempted to resist the
 dictatorship of Pels, and to follow the national tradition of Bredero.
 He is the creator of the characteristic Dutch type, the comic lover, Jan
@@ -1486,12 +1486,12 @@ expired.
 
   Decline of poetry.
 
-The Augustan period of poetry in Holland was even more blank and dull
+The Augustan period of poetry in Holland was even more [[Blank|blank]] and dull
 than in the other countries of northern Europe. Of the name preserved in
 the history of literature there are but very few that call for
-repetition here. Arnold Hoogvliet (1687-1763) wrote a passable poem in
+repetition here. [[Arnold]] Hoogvliet (1687-1763) wrote a passable poem in
 honour of the town of Vlaardingen, and a terrible Biblical epic, in the
-manner of Blackmore, on the history of Abraham. Hubert Cornelissen Poot
+manner of Blackmore, on the history of Abraham. [[Hubert]] Cornelissen Poot
 (1680-1733) showed an unusual love of nature and freshness of
 observation in his descriptive pieces. Sybrand Feitama (1694-1758), who
 translated Voltaire's _Henriade_ (1743), and wrote much dreary verse of
@@ -1511,7 +1511,7 @@ was born at Utrecht, fell into poverty early in life, and was thrown
 very much among the company of French émigrés, in connexion with whom he
 began literary life in 1713 by editing a French journal. Coming to
 London just when the _Tatler_ and _Spectator_ were in their first vogue,
-Van Effen studied Addison deeply, translated Swift and Defoe into
+Van Effen studied Addison deeply, translated Swift and [[Defoe]] into
 French, and finally determined to transfer the beauties of English prose
 into his native language. It was not, however, until 1731, after having
 wasted the greater part of his life in writing French, that he began to
@@ -1524,7 +1524,7 @@ of the 18th century left behind it.
 
   The brothers Van Haren.
 
-  Baroness de Lannoy.
+  Baroness de [[Lannoy]].
 
   Bellamy.
 
@@ -1539,13 +1539,13 @@ both ambitious of success in epic writing, as understood in France at
 that period. Willem published in 1741 his _Gevallen van Friso_, a
 historical epos, and a long series of odes and solemn lyrical pieces.
 Onno, in a somewhat lighter strain, wrote _Piet and Agnietje, or
-Pandora's Box_, and a long series of tragedies in the manner of
-Voltaire. The baroness Juliana Cornelia de Lannoy (1738-1782) was a
+Pandora's [[Box]]_, and a long series of tragedies in the manner of
+Voltaire. The baroness Juliana [[Cornelia]] de Lannoy (1738-1782) was a
 writer of considerable talent, also of the school of Voltaire; her poems
-were highly esteemed by Bilderdijk, and she has a neatness of touch and
+were highly esteemed by [[Bilderdijk]], and she has a neatness of touch and
 clearness of penetration that give vivacity to her studies of social
-life. Jakobus Bellamy (1757-1786) was the son of a Swiss baker at
-Flushing; his pompous odes (_Gezangen myner Jeugd_, 1782; _Vaderlandsche
+life. Jakobus Bellamy (1757-1786) was the son of a Swiss [[Baker|baker]] at
+[[Flushing]]; his pompous odes (_Gezangen myner Jeugd_, 1782; _Vaderlandsche
 Gezangen_, 1782) struck the final note of the false taste and Gallic
 pedantry that had deformed Dutch literature now for a century, and were
 for a short time excessively admired.
@@ -1573,7 +1573,7 @@ _Sara Burgerhar_. In spite of the close and obvious following of
 Richardson, this was a masterly production, and it was enthusiastically
 received. Another novel, _Willem Leevend_, followed in 1785, and
 _Cornelia Wildschut_ in 1792. The ladies were residing in France at the
-breaking out of the Revolution, and they escaped the guillotine with
+breaking out of the Revolution, and they escaped the [[Guillotine|guillotine]] with
 difficulty. After this they wrote no more, having secured for themselves
 by their three unrivalled romances a place among the foremost writers of
 their country.
@@ -1635,10 +1635,10 @@ that he felt for the new German poetry. Notwithstanding his opposition,
 however, the romantic fervour found its way into Holland, and first of
 all in the persons of Hieronymus van Alphen (1746-1803) and Pieter
 Leonard van de Kastiele (1748-1810), who amused themselves by composing
-funeral poems of the school of Gessner and Blair. Van Alphen at one time
+funeral poems of the school of Gessner and [[Blair]]. Van Alphen at one time
 was extolled as a writer of verses for children, but neither in this nor
 in the elegiac line did he possess nearly so much talent as Rhijnvis
-Feith (1753-1824), burgomaster of Zwolle, the very type of a prosperous
+[[Feith]] (1753-1824), burgomaster of Zwolle, the very type of a prosperous
 and sentimental Dutchman. In his _Julia_ (1783), a prose romance, Feith
 proved himself as completely the disciple of Goethe in _Werther_ as
 Wolff and Deken had been of Richardson in _Sara Burgerhart_. In Johannes
@@ -1646,11 +1646,11 @@ Kinker (1764-1845) a comic poet arose who, at the instigation of
 Bilderdijk, dedicated himself to the ridicule of Feith's
 sentimentalities. The same office was performed with more dignity and
 less vivacity by Baron W.E. van Perponcher (1741-1819), but Feith
-continued to hold the popular ear, and achieved an immense success with
+continued to hold the popular [[Ear|ear]], and achieved an immense success with
 his poem _The Grave_ in 1792. He then produced tragedies for a while,
 and in 1803 published _Antiquity_, a didactic epic. But his popularity
 waned before his death, and he was troubled by the mirth of such witty
-scoffers as Arend Fokke Simons (1755-1812), the disciple of Klopstock,
+scoffers as Arend Fokke Simons (1755-1812), the disciple of [[Klopstock]],
 and as P. de Wacker van Zon (1758-1818), who, in a series of very
 readable novels issued under the pseudonym of Bruno Daalberg, sharply
 ridiculed the sentimental and funereal school.
@@ -1660,7 +1660,7 @@ ridiculed the sentimental and funereal school.
 
   Loots.
 
-  Helmers.
+  [[Helmers]].
 
 Under the Batavian republic a historian of great genius arose in the
 person of Johannes Henricus van der Palm (1763-1840), whose brilliant
@@ -1686,13 +1686,13 @@ and Schiller.
 The healthy and national spirit in which the ladies Wolff and Deken had
 written was adopted with great spirit by a novelist in the next
 generation, Adriaan Loosjes (1761-1818), a bookseller at Haarlem. His
-romantic stories of medieval life, especially his _Charlotte van
-Bourbon_, are curiously like shadows cast forward by the Waverley
+romantic stories of medieval life, especially his _[[Charlotte]] van
+[[Bourbon]]_, are curiously like shadows cast forward by the Waverley
 Novels, but he has little of Sir Walter Scott's historical truth of
 vision. His production was incessant and his popularity great for many
 years, but he was conscious all through that he was at best but a
 disciple of the authoresses of _Sara Burgerhart_. Another disciple whose
-name should not be passed over is Maria Jacoba de Neufville (1775-1856),
+name should not be passed over is Maria [[Jacoba]] de Neufville (1775-1856),
 author of _Little Duties_, an excellent story somewhat in the manner of
 Mrs Opie.
 
@@ -1710,7 +1710,7 @@ Bilderdijk with the sweetness of Feith was Hendrik Tollens (1780-1856),
 whose verses have shown more vitality than those of most of his
 contemporaries. He struck out the admirable notion of celebrating the
 great deeds of Dutch history in a series of lyrical romances, many of
-which possess a lasting charm. Besides his folk-songs and popular
+which possess a lasting [[Charm|charm]]. Besides his folk-songs and popular
 ballads, he succeeded in a long descriptive poem, _A Winter in Nova
 Zembla_, 1819. He lacks the full accomplishment of a literary artist,
 but his inspiration was natural and abundant, and he thoroughly deserved
@@ -1728,8 +1728,8 @@ literature as Bilderdijk comes to take a lower one. Bogaers printed his
 famous poem _Jochebed_ in 1835, but it had then been in existence more
 than thirteen years, so that it belongs to the second period of
 imaginative revival in Europe, and connects the name of its author with
-those of Byron and Heine. Still more beautiful was his _Voyage of
-Heemskerk to Gibraltar_ (1836), in which he rose to the highest level of
+those of [[Byron]] and [[Heine]]. Still more beautiful was his _Voyage of
+Heemskerk to [[Gibraltar]]_ (1836), in which he rose to the highest level of
 his genius. In 1846 he privately printed his _Romances and Ballads_.
 Bogaers had a great objection to publicity, and his reputation was long
 delayed by the secrecy with which he circulated his writings among a few
@@ -1752,7 +1752,7 @@ language resisted the pressure of German from the outside, and from
 within broke through its long stagnation and enriched itself, as a
 medium for literary expression, with a multitude of fresh and colloquial
 forms. At the same time, no very great genius arose in Holland in any
-branch of literature. The vast labours of Jakobus van Lennep (1802-1868)
+branch of literature. The vast labours of Jakobus van [[Lennep]] (1802-1868)
 consist of innumerable translations, historical novels and national
 romances, which have gained for him the title of the leader of the Dutch
 romantic school.
@@ -1775,12 +1775,12 @@ Brink (1810-1865) was the chief critic of the romantic movement, and
 Everhard Johannes Potgieter (1808-1875) its mystical philosopher and
 esoteric lyrical poet. The genius and influence of Potgieter were very
 considerable, but they were exceeded by the gifts of Nicolaes Beets
-(q.v.), author of the famous _Camera Obscura_ (1836), a masterpiece of
+(q.v.), author of the famous _[[Camera Obscura]]_ (1836), a masterpiece of
 humour and character. Johannes Pieter Hasebroek (1812-1896), who has
-been called the Dutch Charles Lamb, wrote in 1840 an admirable
-collection of essays entitled _Truth and Dreams_. Willem Hofdijk
+been called the Dutch Charles [[Lamb]], wrote in 1840 an admirable
+collection of essays entitled _Truth and [[Dream|Dreams]]_. Willem Hofdijk
 (1816-1888) wrote a collection of ballads, _Kennemerland_ (1849-1852),
-and a series of epic and dramatic poems in the romantic style. Bernard
+and a series of epic and dramatic poems in the romantic style. [[Bernard]]
 ter Haar (1806-1881), an Amsterdam pastor and, in the last year of his
 life, a professor at Utrecht, made a reputation as a poet by his
 _Johannes and Theagenes, a legend of apostolic times_ (1838). His poems
@@ -1796,7 +1796,7 @@ _History of Dutch Literature_ (1868-1870), C. Busken Huet, and Jan ten
 Brink (1834-1901), author of a great number of valuable works on
 literary history, notably of a history of Dutch literature (1897), and a
 series of biographies of 19th century Dutch writers (new edition, 1902).
-His novels were collected in 13 volumes in 1885. With Isaak da Costa
+His novels were collected in 13 volumes in 1885. With Isaak da [[Costa]]
 (q.v.), W.J. van Zeggelen (1811-1879), and J.J.L. Ten Kate (q.v.),
 the domestic tendency of Cats and Bilderdijk overpowered the influence
 of romanticism. The romantic drama found its best exponent in H.J.
@@ -1815,7 +1815,7 @@ unanticipated success, and dying away in a languor encouraged by the
 complete absence of organized resistance. It would perhaps be difficult
 to point to another European example so well defined of the vicissitudes
 which keep the history of literature varied and fresh. For the thirty or
-forty years preceding 1880 the course of _belles-lettres_ in Holland was
+forty years preceding 1880 the course of _[[Belles-Lettres|belles-lettres]]_ in Holland was
 smooth and even sluggish. The Dutch writers had slipped into a
 conventionality of treatment and a strict limitation of form from which
 even the most striking talents among them could scarcely escape. In 1880
@@ -1827,7 +1827,7 @@ had in her last psychological stories shown an unexpected sympathy with
 new ideas. M.G.L. van Loghem (b. 1849), known under the pseudonym of
 "Fiore delle Neve," made a great success by his _Een liefde in het
 Zuiden_ (1881), followed in 1882 by _Liana_, and in 1884 by _Van eene
-Sultane_. Among the novelists were Gerard Keller (b. 1829), author of
+Sultane_. Among the novelists were [[Gerard]] Keller (b. 1829), author of
 _From Home_ (1867); Johan Gram (b. 1833), of whose novels _De Familie
 Schaffels_ (1870) is the best known; Hendrik de Veer (1829-1890), author
 of _Frans Holster_ (1871); Justus van Maurik (b. 1846), who wrote plays
@@ -1839,7 +1839,7 @@ translated into German. A number of them were collected (Schiedam,
 1900-1902) as _Romantische Werken_. Adèle Opzoomer (b. 1856; pseud. A.
 C.S. Wallis) made her first success in 1877 with _In Days of Strife_.
 The two leading Dutch men of letters, however, besides Beets and Douwes
-Dekker, were critics, Conrad Busken-Huet (q.v.) and Carel Vosmaer
+Dekker, were critics, Conrad [[Busken-Huet]] (q.v.) and Carel Vosmaer
 (q.v.). In Huet the principles of the 1840-1880 period were summed up;
 he had been during all those years the fearless and trusty watch-dog of
 Dutch letters, as he understood them. He lived just long enough to
@@ -1894,8 +1894,8 @@ showed in Couperus a poet whose sympathies were at first entirely with
 the new school. But he was destined to be a novelist, and his earliest
 story, _Eline Vere_ (1889), already took him out of the ranks of his
 contemporaries. In 1890 he published _Destiny_ (known as _Footsteps of
-Fate_ in the English version), and in 1892 _Ecstasy_. This was followed
-in 1894 by _Majesty_, in 1896 by _World-wide Peace_, in 1898 by
+[[Fate]]_ in the English version), and in 1892 _[[Ecstasy]]_. This was followed
+in 1894 by _[[Majesty]]_, in 1896 by _World-wide Peace_, in 1898 by
 _Metamorphosis_, a delicate study of character, in 1899 by Fidessa, in
 1901 by _Quiet Force_, and in 1902 by the first volume of a tetralogy
 called _The Books of Small Souls_. Of all these later books, some of
@@ -1910,7 +1910,7 @@ wider public. Another writer, of a totally different class, resembling
 Couperus only in his defiance of the ruling system of aesthetics, is the
 prominent Ultramontane politician and bishop, E.J.A.M. Schaepmann (born
 1844), whose poem of _Aja Sofia_ originally appeared in 1886. Recent
-novelists of some polemical vigour are H. Borel and van Hulzen. A very
+novelists of some polemical vigour are H. [[Borel]] and van Hulzen. A very
 delightful talent was revealed by Frederick van Eeden in _Little Johnny_
 (1887), a prose fairy-tale; in _Ellen_ (1891), a cycle of mysterious and
 musical elegies; and in _From the Cold Pools of Death_ (1901), a very
@@ -1924,7 +1924,7 @@ as a most uncompromising critic. After 1887 the condition of modern
 Dutch literature remained comparatively stationary, and within the last
 decade of the 19th century was definitely declining. In 1889, it is
 true, a new poet Herman Gorter, made his appearance with a volume of
-strange verses called _May_, eccentric both in prosody and in treatment.
+strange verses called _May_, [[Eccentric|eccentric]] both in prosody and in treatment.
 He held his own without any marked advance towards lucidity or variety.
 Since the recognition of Gorter, however, no really remarkable talent
 has made itself prominent in Dutch poetry, unless we except P.C.
@@ -1939,8 +1939,8 @@ now that the struggle for recognition is over, and its members are
 accepted as little classics and the tyrants of taste, rests on its
 triumphs and seems to limit itself to a repetition of its old
 experiments. The leading dramatist of the close of the century was
-Hermann Heijermans (b. 1864), a Jew of strong realistic and socialistic
-tendencies, and the author of innumerable gloomy plays. His _Ghetto_
+[[Hermann]] [[Heijermans]] (b. 1864), a Jew of strong realistic and socialistic
+tendencies, and the author of innumerable gloomy plays. His _[[Ghetto]]_
 (1898) and _Ora et Labora_ (1901) particularly display his peculiar
 talent. Other notable products of drama are those of de Koo, whose
 _Tobias Bolderman_ (1900) and _Vier Ton_ (1901) are effective comedies.
@@ -1950,7 +1950,7 @@ merit, the abandonment of the old dry conventions, and a recognition of
 the artistic value of words and forms, are more evident to a foreign
 observer than any very important single expression of the national
 genius in literary art. An exception should be made in favour of the
-powerful peasant-stories of Steijn Streuvels (Frank Lateur), a young
+powerful peasant-stories of Steijn Streuvels ([[Frank]] Lateur), a young
 baker by trade, whose _Summer Land_ (1901) was a most promising
 production.
 
@@ -2002,7 +2002,7 @@ FOOTNOTES:
   [11] The best edition is by P. Vlaming (Amsterdam, 1723).
 
   [12] On Visscher and his daughters see N. Beets, _Al de gedichten van
-    Anna Roemers Visscher_ (1881), and E. Gosse, _Studies in the
+    Anna Roemers Visscher_ (1881), and E. [[Gosse]], _Studies in the
     Literature of Northern Europe_ (1879).
 
   [13] See J. ten Brink, _G.A. Brederoo_ (Utrecht, 1859; 3rd ed.

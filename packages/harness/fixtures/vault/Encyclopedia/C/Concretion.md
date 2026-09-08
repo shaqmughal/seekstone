@@ -19,39 +19,39 @@ differ very little in general appearance from the bulk of the sandstone.
 Through them the bedding passes uninterrupted, thus showing that they
 are not pebbles; often in their centres shells or fragments of plants
 are found. Argillaceous sandstones and flagstones very frequently
-contain "clay galls" or concretionary lumps richer in clay than the
-remainder of the rock. Nodules of pyrites and of marcasite are common in
-many clays, sandstones and marls. Their outer surfaces are tuberculate;
+contain "clay [[Gall|galls]]" or concretionary lumps richer in clay than the
+remainder of the rock. Nodules of pyrites and of [[Marcasite|marcasite]] are common in
+many clays, sandstones and [[Marl|marls]]. Their outer surfaces are tuberculate;
 internally they commonly have a radiate fibrous structure. Usually they
 are covered with a dark brown crust of limonite produced by weathering;
 occasionally imperfect crystalline faces may bound them. Not
-infrequently (e.g. in the Gault) these pyritous nodules contain altered
+infrequently (e.g. in the [[Gault]]) these pyritous nodules contain altered
 fossils. In clays also siliceous and calcareous concretions are often
 found. They present an extraordinary variety of shapes, often
 grotesquely resembling figures of men or animals, fruits, &c, and have
 in many countries excited popular wonder, being regarded as of
-supernatural origin ("fairy-stones," &c.), and used as charms.
+supernatural origin ("fairy-stones," &c.), and used as [[Charm|charms]].
 
 Another type of concretion, very abundant in many clays and shales, is
 the "septarian nodule." These are usually flattened disk-shaped or
 ovoid, often lobulate externally like the surface of a kidney. When
 split open they prove to be traversed by a network of cracks, which are
-usually filled with calcite and other minerals. These white infillings
+usually filled with [[Calcite|calcite]] and other minerals. These white infillings
 of the fissures resemble partitions; hence the name from the Latin
 _septum_, a partition. Sometimes the cracks are partly empty. They vary
-up to half an inch in breadth, and are best seen when the nodule is cut
+up to half an [[Inch|inch]] in breadth, and are best seen when the nodule is cut
 through with a saw. These concretions may be calcareous or may consist
 of carbonate of iron. The former are common in some beds of the London
 Clay, and were formerly used for making cement. The clay-ironstone
 nodules or sphaerosiderites are very abundant in some Carboniferous
 shales, and have served in some places as iron ores. Some of the largest
 specimens are 3 ft. in diameter. In the centre of these nodules fossils
-are often found, e.g. coprolites, pieces of plants, fish teeth and
-scales. Phosphatic concretions are often present in certain limestones,
+are often found, e.g. [[Coprolites|coprolites]], pieces of plants, fish teeth and
+scales. Phosphatic concretions are often present in certain [[Limestone|limestones]],
 clays, shelly sands and marls. They occur, for example, in the Cambridge
-Greensand, and at the base of certain of the Pliocene beds in the east
+[[Greensand]], and at the base of certain of the Pliocene beds in the east
 of England. In many places they have been worked, under the name of
-"coprolite-beds," as sources of artificial manures. Bones of animals
+"coprolite-beds," as sources of artificial manures. [[Bone|Bones]] of animals
 more or less completely mineralized are frequent in these phosphatic
 concretions, the commonest being fragments of extinct reptilia. Their
 presence points to a source for the phosphate of lime.
@@ -67,10 +67,10 @@ they contain shells of echinoderms, molluscs, &c., partly or entirely
 replaced by silica, but preserving their original forms. Chert occurs in
 bands and tabular masses rather than in nodules; it often replaces
 considerable portions of a bed of limestone (as in the Carboniferous
-Limestones of Ireland). Corals and other fossils frequently occur in
+Limestones of Ireland). [[Coral|Corals]] and other fossils frequently occur in
 chert, and when sliced and microscopically examined both flint and chert
-often show silicified foraminifera, polyzoa &c., and sponge spicules.
-Flints in chalk frequently lie along joints which may be vertical or may
+often show silicified [[Foraminifera|foraminifera]], polyzoa &c., and sponge spicules.
+Flints in chalk frequently lie along [[Joints|joints]] which may be vertical or may
 be nearly horizontal and parallel to the bedding. Hence they increase
 the stratified appearance of natural exposures of chalk.
 
@@ -78,7 +78,7 @@ It will be seen from the details given above that concretions may be
 calcareous, siliceous, argillaceous and phosphatic, and they may consist
 of carbonate or sulphide of iron. In the red clay of the deep sea bottom
 concretionary masses rich in manganese dioxide are being formed, and are
-sometimes brought up by the dredge. In clays large crystals of gypsum,
+sometimes brought up by the dredge. In clays large crystals of [[Gypsum|gypsum]],
 having the shape of an arrow-head, are occasionally found in some
 numbers. They bear a considerable resemblance to some concretions, e.g.
 crystalline marcasite and pyrite nodules. These examples will indicate
@@ -88,7 +88,7 @@ structures.
 Some concretions are amorphous, e.g. phosphatic nodules; others are
 cryptocrystalline, e.g. flint and chert; others finely crystalline, e.g.
 pyrites, sphaerosiderite; others consist of large crystals, e.g. gypsum,
-barytes, pyrites and marcasite. From this it is clear that the formation
+[[Barytes|barytes]], pyrites and marcasite. From this it is clear that the formation
 of concretions is not closely dependent on any single inorganic
 substance, or on any type of crystalline structure. Concretions seem to
 arise from the tendency of chemical compounds to be slowly dissolved by
@@ -110,7 +110,7 @@ This is beautifully shown by many siliceous and calcareous nodules out
 of recent clays. That the sediment was in a soft condition may be
 inferred from the purity and perfect crystalline form of some of these
 bodies, e.g. gypsum, pyrites, marcasite. The crystals must have pushed
-aside the yielding matrix as they gradually enlarged. In deep-sea
+aside the yielding [[Matrix|matrix]] as they gradually enlarged. In deep-sea
 dredgings concretions of phosphate of lime and manganese dioxide are
 frequently brought up; this shows that concretionary action operates on
 the sea floor in muddy sediments, which have only recently been laid

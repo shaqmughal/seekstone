@@ -17,7 +17,7 @@ and professor of general pathology at Pavia. In 1870 he was nominated
 professor of anthropology at the Instituto di Studii Superiori,
 Florence. Here he founded the first Museum of Anthropology and Ethnology
 in Italy, and later the Italian Anthropological Society. From 1865 to
-1876 he was deputy for Monza in the Italian parliament, subsequently
+1876 he was [[Deputy|deputy]] for Monza in the Italian parliament, subsequently
 being elected to the senate. He became the object of bitter attacks on
 the ground of the extent to which he carried the practice of
 vivisection. His published works include _Fisiologia del dolore_ (1880);

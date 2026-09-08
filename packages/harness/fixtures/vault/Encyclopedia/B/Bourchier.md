@@ -8,14 +8,14 @@ topic: history
 
 BOURCHIER, THOMAS (c. 1404-1486), English archbishop, lord chancellor
 and cardinal, was a younger son of William Bourchier, count of Eu (d.
-1420), and through his mother, Anne, a daughter of Thomas of Woodstock,
+1420), and through his mother, [[Anne]], a daughter of Thomas of Woodstock,
 duke of Gloucester, was a descendant of Edward III. One of his brothers
-was Henry, earl of Essex (d. 1483), and his grand-nephew was John, Lord
+was Henry, earl of [[Essex]] (d. 1483), and his grand-nephew was John, Lord
 Berners, the translator of Froissart. Educated at Oxford and then
 entering the church, he obtained rapid promotion, and after holding some
 minor appointments he became bishop of Worcester in 1434. In the same
 year he was chancellor of the university of Oxford, and in 1443 he was
-appointed bishop of Ely; then in April 1454 he was made archbishop of
+appointed bishop of [[Ely]]; then in April 1454 he was made archbishop of
 Canterbury, becoming lord chancellor of England in the following March.
 Bourchier's short term of office as chancellor coincided with the
 opening of the Wars of the Roses, and at first he was not a strong
@@ -25,7 +25,7 @@ helped to reconcile the contending parties, but when the war was renewed
 in 1459 he appears as a decided Yorkist; he crowned Edward IV. in June
 1461, and four years later he performed a similar service for the queen,
 Elizabeth Woodville. In 1457 Bourchier took the chief part in the trial
-of Reginald Pecock, bishop of Chichester, for heresy; in 1467 he was
+of Reginald Pecock, bishop of [[Chichester]], for heresy; in 1467 he was
 created a cardinal; and in 1475 he was one of the four arbitrators
 appointed to arrange the details of the treaty of Picquigny between
 England and France. After the death of Edward IV. in 1483 Bourchier

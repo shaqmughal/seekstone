@@ -30,7 +30,13 @@ const OLLAMA_URL = process.env.SEEKSTONE_OLLAMA_URL || 'http://127.0.0.1:11434';
 const EMBED_MODEL = 'nomic-embed-text';
 const PRO_VERSION = '4.0.1';
 const TC_VERSION = '1.23.2';
-const INDEX_TIMEOUT_MS = 3_600_000;
+/**
+ * Overall per-competitor index budget. Overridable because fixture v2's dense
+ * link graph pushed obsidian-tc's cold index past the 1 h default even with
+ * retryable-timeout resumes — measuring the true cost needs a bigger budget,
+ * and a fair FAILED verdict needs evidence the budget wasn't the cause.
+ */
+const INDEX_TIMEOUT_MS = Number(process.env.SEEKSTONE_COMPETITOR_INDEX_TIMEOUT_MS) || 3_600_000;
 /** Their default result depth (limit/k default 10) — enough for hit@5 + MRR@10. */
 const K = 10;
 
@@ -53,11 +59,21 @@ export async function buildCompetitors(
   await assertOllama();
   const handles: CompetitorHandle[] = [];
   const failures: CompetitorSetup[] = [];
+  // SEEKSTONE_COMPETITORS: comma-separated subset to run (default: all).
+  // Exists so a single slow competitor can be re-measured (e.g. with a larger
+  // index budget) without re-paying the others' multi-hour setup cost.
+  const only = process.env.SEEKSTONE_COMPETITORS?.split(',')
+    .map((s) => s.trim())
+    .filter(Boolean);
   // Sequential: both servers embed through the same Ollama instance.
   for (const [name, version, build] of [
     ['obsidian-mcp-pro', PRO_VERSION, () => buildMcpPro(vaultRoot, log).then((h) => [h])],
     ['obsidian-tc', TC_VERSION, () => buildTc(vaultRoot, log)],
   ] as const) {
+    if (only && !only.includes(name)) {
+      log(`${name} skipped (SEEKSTONE_COMPETITORS=${only.join(',')})`);
+      continue;
+    }
     const t0 = performance.now();
     try {
       handles.push(...(await build()));
@@ -177,6 +193,34 @@ export function parseProSemanticPaths(raw: string): string[] {
   return paths;
 }
 
+/**
+ * tc surfaces transient `… (retryable)` errors from query tools too (first
+ * seen on fixture v2 right after its ~2 h cold index). One flaky call must
+ * not kill a multi-hour eval; retries stay inside the measured rank() so a
+ * retried query's latency honestly includes them.
+ */
+async function callRetryable(
+  mcp: McpSubprocess,
+  tool: string,
+  args: Record<string, unknown>,
+  attempts = 3,
+  timeoutMs = 60_000,
+): Promise<string> {
+  let lastErr: unknown;
+  for (let i = 0; i < attempts; i++) {
+    try {
+      return await mcp.callTool(tool, args, timeoutMs);
+    } catch (err) {
+      lastErr = err;
+      const message = err instanceof Error ? err.message : String(err);
+      // Retry tc's own `… (retryable)` errors and our client-side call
+      // timeout — both are transient shapes of the same overload.
+      if (!/retryable|timeout: tools\/call/i.test(message)) throw err;
+    }
+  }
+  throw lastErr;
+}
+
 // ---------------------------------------------------------------- obsidian-tc
 
 async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<CompetitorHandle[]> {
@@ -201,9 +245,30 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
   });
   log(`obsidian-tc@${TC_VERSION} connected — indexing (cold, via Ollama)…`);
   const t0 = performance.now();
-  const stats = await mcp.callTool('index_vault', { vault: 'main' }, INDEX_TIMEOUT_MS);
+  // tc's index_vault can return its own `operation_timeout … (retryable)`
+  // before finishing a large vault (first seen on fixture v2, whose 130k-link
+  // graph grew its indexing work ~5×). Index progress persists in cacheDir,
+  // so honoring the "retryable" contract — calling again until it completes —
+  // is what a real operator would do; total wall time still counts as the
+  // cold index cost and stays under the same overall budget.
+  let stats = '';
+  let indexCalls = 0;
+  for (;;) {
+    indexCalls++;
+    try {
+      stats = await mcp.callTool('index_vault', { vault: 'main' }, INDEX_TIMEOUT_MS);
+      break;
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err);
+      const elapsed = performance.now() - t0;
+      if (!/retryable/i.test(message) || elapsed >= INDEX_TIMEOUT_MS) throw err;
+      log(
+        `obsidian-tc index_vault retryable timeout (call ${indexCalls}, ${Math.round(elapsed / 1000)} s elapsed) — resuming…`,
+      );
+    }
+  }
   const indexMs = performance.now() - t0;
-  log(`obsidian-tc indexed in ${Math.round(indexMs / 1000)} s`);
+  log(`obsidian-tc indexed in ${Math.round(indexMs / 1000)} s (${indexCalls} index_vault calls)`);
 
   const stop = async () => {
     await mcp.close();
@@ -213,7 +278,10 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
     version: TC_VERSION,
     provider: `ollama/${EMBED_MODEL} (its built-in default; loopback HTTP at index + query time)`,
     indexMs,
-    indexStats: stats.trim().slice(0, 600),
+    indexStats:
+      (indexCalls > 1
+        ? `[completed after ${indexCalls} index_vault calls — earlier calls hit its internal retryable operation_timeout] `
+        : '') + stats.trim().slice(0, 600),
   };
 
   return [
@@ -227,7 +295,7 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
         ],
       },
       rank: async (query) => {
-        const raw = await mcp.callTool('search_semantic', { vault: 'main', query, k: K });
+        const raw = await callRetryable(mcp, 'search_semantic', { vault: 'main', query, k: K });
         return { paths: parseTcItemPaths(raw), payloadBytes: Buffer.byteLength(raw, 'utf8') };
       },
       stop, // shared subprocess: stop closes both conditions; called once each is fine (idempotent close)
@@ -241,12 +309,26 @@ async function buildTc(vaultRoot: string, log: (m: string) => void): Promise<Com
         ],
       },
       rank: async (query) => {
-        const raw = await mcp.callTool('vault_graph_search', {
-          vault: 'main',
-          query,
-          final_top_k: K,
-        });
-        return { paths: parseTcGraphPaths(raw), payloadBytes: Buffer.byteLength(raw, 'utf8') };
+        // 300 s ceiling: v1's graph p99 was 14.7 s, but fixture v2's dense
+        // graph pushed some GraphRAG queries past the 60 s default — measure
+        // the slow query rather than kill the run on it. A query that still
+        // fails every attempt scores as a miss (what a client would get),
+        // logged so the writeup can count them.
+        try {
+          const raw = await callRetryable(
+            mcp,
+            'vault_graph_search',
+            { vault: 'main', query, final_top_k: K },
+            3,
+            300_000,
+          );
+          return { paths: parseTcGraphPaths(raw), payloadBytes: Buffer.byteLength(raw, 'utf8') };
+        } catch (err) {
+          log(
+            `obsidian-tc vault_graph_search gave up (${err instanceof Error ? err.message : err}) — scored as a miss`,
+          );
+          return { paths: [], payloadBytes: 0 };
+        }
       },
       stop: async () => {}, // shared subprocess closed by the sibling condition's stop
     },

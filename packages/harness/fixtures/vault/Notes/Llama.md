@@ -11,7 +11,7 @@ tags: [art, geography-history]
 LLAMA, the Spanish modification of the Peruvian name of the larger of
 the two domesticated members of the camel-tribe indigenous to South
 America. The llama (_Lama huanacus glama_) is a domesticated derivative
-of the wild guanaco, which has been bred as a beast of burden. Chiefly
+of the wild [[Guanaco|guanaco]], which has been bred as a beast of [[Burden|burden]]. Chiefly
 found in southern Peru, it generally attains a larger size than the
 guanaco, and is usually white or spotted with brown or black, and
 sometimes altogether black. The following account by Augustin de Zarate
@@ -28,7 +28,7 @@ was given in 1544:
   down upon the ground, and as there are no means of making them get up,
   either by beating or assisting them, the load must of necessity be
   taken off. When there is a man on one of them, if the beast is tired
-  and urged to go on, he turns his head round, and discharges his
+  and urged to go on, he turns his head round, and [[Discharge|discharges]] his
   saliva, which has an unpleasant odour, into the rider's face. These
   animals are of great use and profit to their masters, for their wool
   is very good and fine, particularly that of the species called pacas,

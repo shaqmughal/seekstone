@@ -4,7 +4,7 @@ HORSE-MACKEREL, the name applied to a genus of fishes (_Caranx_) found
 in abundance in almost all temperate and especially in tropical seas.
 The designation "cavalli," given to them by the early Portuguese
 navigators, and often met with in the accounts of the adventures of the
-buccaneers, is still in frequent use among the sailors of all nations.
+[[Buccaneers|buccaneers]], is still in frequent use among the sailors of all nations.
 Some ninety different kinds are known--the majority being wholesome
 food, and some of the species attaining a length of 3 ft. and more. The
 fish to which the name horse-mackerel is applied in Great Britain is

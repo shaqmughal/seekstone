@@ -3,7 +3,7 @@
 FERMO (anc. _Firmum Picenum_), a town and archiepiscopal see of the
 Marches, Italy, in the province of Ascoli Piceno, on a hill with a fine
 view, 1046 ft. above sea-level, on a branch from Porto S. Giorgio on the
-Adriatic coast railway. Pop. (1901) town, 16,577, commune 20,542. The
+Adriatic coast railway. Pop. (1901) town, 16,577, [[Commune|commune]] 20,542. The
 summit of the hill was occupied by the citadel until 1446. It is crowned
 by the cathedral, reconstructed in 1227 by Giorgio da Como; the fine
 façade and campanile of this period still remain, and the side portal
@@ -14,7 +14,7 @@ on the antiquities of Picenum. The interior has been modernized. The
 building is now surrounded by a garden, with a splendid view. Against
 the side of the hill was built the Roman theatre; scanty traces of an
 amphitheatre also exist. Remains of the city wall, of rectangular blocks
-of hard limestone, may be seen just outside the Porta S. Francesco;
+of hard [[Limestone|limestone]], may be seen just outside the Porta S. Francesco;
 whether the walling under the Casa Porti belongs to them is doubtful.
 The medieval battlemented walls superposed on it are picturesque. The
 church of S. Francesco has a good tower and choir in brickwork of 1240,

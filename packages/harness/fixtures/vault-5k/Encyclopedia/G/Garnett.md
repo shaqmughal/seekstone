@@ -26,12 +26,12 @@ Chaplet from the Greek Anthology_), _The Queen and other Poems_ (1902),
 _Collected Poems_ (1893); in prose, biographies of Carlyle (1887),
 Emerson (1887), Milton (1890), Edward Gibbon Wakefield (1898); a volume
 of remarkably original and fanciful tales, _The Twilight of the Gods_
-(1888); a tragedy, _Iphigenia in Delphi_ (1890); _A Short History of
+(1888); a tragedy, _Iphigenia in [[Delphi]]_ (1890); _A Short History of
 Italian Literature_ (1898); _Essays in Librarianship and Bibliophily_
 (1899); _Essays of an Ex-librarian_ (1901). He was an extensive
 contributor to the _Encyclopaedia Britannica_ and the _Dictionary of
-National Biography_, editor of the _International Library of Famous
-Literature_, and co-editor, with E. Gosse, of the elaborate _English
+National Biography_, editor of the _[[International]] Library of Famous
+Literature_, and co-editor, with E. [[Gosse]], of the elaborate _English
 Literature: an illustrated Record_. So multifarious was his output,
 however, in contributions to reviews, &c., and as translator or editor,
 that this list represents only a small part of his published work. He
@@ -55,8 +55,8 @@ catalogue, the printing of which, interrupted in 1841, was resumed under
 him in 1880, and gradually completed. The antipodes of a Dryasdust, his
 human interest in books made him an ideal librarian, and his courtesy
 and helpfulness were outstanding features in a personality of singular
-charm. The whole bookish world looked on him as a friend. Among his
-"hobbies" was a study of astrology, to which, without associating his
+[[Charm|charm]]. The whole bookish world looked on him as a friend. Among his
+"hobbies" was a study of [[Astrology|astrology]], to which, without associating his
 name with it in public, he devoted prolonged inquiry. Under the
 pseudonym of "A.G. Trent" he published in 1880 an article (in the
 _University Magazine_) on "The Soul and the Stars"--quoted in Wilde and

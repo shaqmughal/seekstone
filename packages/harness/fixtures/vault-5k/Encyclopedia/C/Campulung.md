@@ -1,6 +1,6 @@
 # Campulung
 
-CAMPULUNG (also written Campu Lung and Kimpulung), the capital of the
+CAMPULUNG (also written Campu [[Lung]] and Kimpulung), the capital of the
 department of Muscel, Rumania, and the seat of a suffragan bishop;
 situated among the outlying hills of the Carpathian Mountains, at the
 head of a long well-wooded glen traversed by the river Tirgului, a

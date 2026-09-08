@@ -9,15 +9,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chillingwo
 
 CHILLINGWORTH, WILLIAM (1602-1644), English divine and controversialist,
 was born at Oxford in October 1602. In June 1618 he became a scholar of
-Trinity College, Oxford, and was made a fellow of his college in June
+Trinity College, Oxford, and was made a [[Fellow|fellow]] of his college in June
 1628. He had some reputation as a skilful disputant, excelled in
-mathematics, and gained some credit as a writer of verses. The marriage
+mathematics, and gained some [[Credit|credit]] as a writer of verses. The marriage
 of Charles I. with Henrietta Maria of France had stimulated the
-propaganda of the Roman Catholic Church, and the Jesuits made the
+propaganda of the Roman Catholic Church, and the [[Jesuits]] made the
 universities their special point of attack. One of them, "John Fisher,"
 who had his sphere at Oxford, succeeded in making a convert of young
 Chillingworth, and prevailed upon him to go to the Jesuit college at
-Douai. Influenced, however, by his godfather, Laud, then bishop of
+[[Douai]]. Influenced, however, by his godfather, [[Laud]], then bishop of
 London, he resolved to make an impartial inquiry into the claims of the
 two churches. After a short stay he left Douai in 1631 and returned to
 Oxford. On grounds of Scripture and reason he at length declared for
@@ -26,7 +26,7 @@ the motives which had led him over to Rome. This paper was lost; the
 other, on the same subject, was probably written on some other occasion
 at the request of his friends. He would not, however, take orders. His
 theological sensitiveness appears in his refusal of a preferment offered
-to him in 1635 by Sir Thomas Coventry, lord keeper of the great seal. He
+to him in 1635 by Sir Thomas [[Coventry]], lord keeper of the great seal. He
 was in difficulty about subscribing the Thirty-nine Articles. As he
 informed Gilbert Sheldon, then warden of All Souls, in a letter, he was
 fully resolved on two points--that to say that the Fourth Commandment is
@@ -35,12 +35,12 @@ the damnatory clauses in the Athanasian Creed are most false, and in a
 high degree presumptuous and schismatical. To subscribe, therefore, he
 felt would be to "subscribe his own damnation." At this time his
 principal work was far towards completion. It was undertaken in defence
-of Dr Christopher Potter, provost of Queen's College in Oxford, who had
+of Dr [[Christopher]] Potter, provost of Queen's College in Oxford, who had
 for some time been carrying on a controversy with a Jesuit known as
-Edward Knott, but whose real name was Matthias Wilson. Potter had
+Edward Knott, but whose real name was [[Matthias]] Wilson. Potter had
 replied in 1633 to Knott's _Charity Mistaken_ (1630), and Knott
 retaliated with _Mercy and Truth_. This work Chillingworth engaged to
-answer, and Knott, hearing of his intention and hoping to bias the
+answer, and Knott, hearing of his intention and hoping to [[Bias|bias]] the
 public mind, hastily brought out a pamphlet tending to show that
 Chillingworth was a Socinian who aimed at perverting not only
 Catholicism but Christianity.
@@ -57,7 +57,7 @@ interpret it. In the preface Chillingworth expresses his new view about
 subscription to the articles. "For the Church of England," he there
 says, "I am persuaded that the constant doctrine of it is so pure and
 orthodox, that whosoever believes it, and lives according to it,
-undoubtedly he shall be saved, and that there is no error in it which
+undoubtedly he shall be saved, and that there is no [[Error|error]] in it which
 may necessitate or warrant any man to disturb the peace or renounce the
 communion of it. This, in my opinion, is all intended by subscription."
 His scruples having thus been overcome, he was, in the following year
@@ -65,11 +65,11 @@ His scruples having thus been overcome, he was, in the following year
 prebend of Brixworth in Northamptonshire annexed to it. In the great
 civil struggle he used his pen against the Scots, and was in the king's
 army at the siege of Gloucester, inventing certain engines for
-assaulting the town. Shortly afterwards he accompanied Lord Hopton,
+assaulting the town. Shortly afterwards he accompanied Lord [[Hopton]],
 general of the king's troops in the west, in his march; and, being laid
 up with illness at Arundel Castle, he was there taken prisoner by the
 parliamentary forces under Sir William Waller. As he was unable to go to
-London with the garrison, he was conveyed to Chichester, and died there
+London with the [[Garrison|garrison]], he was conveyed to [[Chichester]], and died there
 in January 1644. His last days were harassed by the diatribes of the
 Puritan preacher, Francis Cheynell.
 
@@ -81,7 +81,7 @@ Puritan preacher, Francis Cheynell.
   in terms of the instruction, "when they persecute you in one city,
   flee into another." His writings long enjoyed a high popularity. The
   _Religion of Protestants_ is characterized by much fairness and
-  acuteness of argument, and was commended by Locke as a discipline of
+  acuteness of argument, and was commended by [[Locke]] as a discipline of
   "perspicuity and the way of right reasoning." The charge of
   Socinianism was frequently brought against him, but, as Tillotson
   thought, "for no other cause but his worthy and successful attempts to
@@ -92,13 +92,13 @@ Puritan preacher, Francis Cheynell.
   God's word, and to endeavour to find the true sense of it, and to live
   according to it."
 
-  A _Life_ by Rev. T. Birch was prefixed to the 1742 edition of
+  A _Life_ by Rev. T. [[Birch]] was prefixed to the 1742 edition of
   Chillingworth's _Works_.
 
 
 
 
-CHILOÉ (from _Chile_ and _hué_, "part of Chile"), a province of southern
+CHILOÉ (from _[[Chile]]_ and _hué_, "part of Chile"), a province of southern
 Chile, and also the name of a large island off the Chilean coast forming
 part of the province. The province, area 8593 sq. m., pop. (1895)
 77,750, is composed of three groups of islands, Chiloé, Guaitecas and
@@ -114,7 +114,7 @@ the seat of a Jesuit mission, and Melinca on an island of the Guaitecas
 group.
 
   The island of Chiloé, which lies immediately south of the province of
-  Llanquihue, is a continuation of the western Chilean formation, the
+  [[Llanquihue]], is a continuation of the western Chilean formation, the
   coast range appearing in the mountainous range of western Chiloé and
   the islands extending south along the coast. Between this coast range
   and the Andes, the gulfs of Chacao, or Ancud and Corcovado (average

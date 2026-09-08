@@ -27,12 +27,12 @@ importance, one by Conrad of Halberstadt (fl. c. 1290) and the other by
 John of Segovia in the next century. This book was published in a
 greatly improved and amplified form in the middle of the 19th century by
 David Nutt, of London, edited by T. P. Dutripon. The first Hebrew
-concordance was compiled in 1437-1445 by Rabbi Isaac Nathan b. Kalonymus
-of Arles. It was printed at Venice in 1523 by Daniel Bomberg, in Basel
+concordance was compiled in 1437-1445 by Rabbi [[Isaac]] Nathan b. Kalonymus
+of [[Arles]]. It was printed at Venice in 1523 by [[Daniel]] Bomberg, in Basel
 in 1556, 1569 and 1581. It was published under the title _Meir Natib_,
 "The Light of the Way." In 1556 it was translated into Latin by Johann
 Reuchlin, but many errors appeared in both the Hebrew and the Latin
-edition. These were corrected by Marius de Calasio, a Franciscan friar,
+edition. These were corrected by [[Marius]] de Calasio, a Franciscan friar,
 who published a four volume folio _Concordantiae Sacr. Bibl. Hebr. et
 Latin._ at Rome, 1621, much enlarged, with proper names included.
 Another concordance based on Nathan's was Johann Buxtorf the elder's
@@ -63,11 +63,11 @@ published by B. Bär (Stettin, 1862). A new concordance embodying the
 matter of all previous works with lists of proper names and particles
 was published by Solomon Mandelkern in Leipzig (1896); a smaller edition
 of the same, without quotations, appeared in 1900. There are also
-concordances of Biblical proper names by G. Brecher (Frankfort-on-Main,
+concordances of Biblical proper names by G. Brecher ([[Frankfort-On-Main|Frankfort-on-Main]],
 1876) and Schusslovicz (Wilna, 1878).
 
-A _Concordance to the Septuagint_ was published at Frankfort in 1602 by
-Conrad Kircher of Augsburg; in this the Hebrew words are placed in
+A _Concordance to the Septuagint_ was published at [[Frankfort]] in 1602 by
+Conrad Kircher of [[Augsburg]]; in this the Hebrew words are placed in
 alphabetical order and the Greek words by which they are translated are
 placed under them. A Septuagint concordance, giving the Greek words in
 alphabetical order, was published in 1718 in two volumes by Abraham
@@ -76,16 +76,16 @@ of his age. It gives the Greek words in alphabetical order; a Latin
 translation; the Hebrew word or words for which the Greek term is used
 by the Septuagint; then the places where the words occur in the order of
 the books and chapters; at the end of the quotations from the Septuagint
-places are given where the word occurs in Aquila, Symmachus and
+places are given where the word occurs in [[Aquila]], Symmachus and
 Theodotion, the other Greek translations of the O. T.; and the words of
-the Apocrypha follow in each case. Besides an index to the Hebrew and
+the Apocrypha follow in each case. Besides an [[Index|index]] to the Hebrew and
 Chaldaic words there is another index which contains a lexicon to the
 _Hexapla_ of Origen. In 1887 (London) appeared the _Handy Concordance of
 the Septuagint giving various readings from Codices Vaticanus,
 Alexandrinus, Sinaiticus and Ephraemi, with an appendix of words from
-Origen's Hexapla, not found in the above manuscripts_, by G. M., without
+Origen's Hexapla, not found in the above [[Manuscript|manuscripts]]_, by G. M., without
 quotations. A work of the best modern scholarship was brought out in
-1897 by the Clarendon Press, Oxford, entitled _A Concordance to the
+1897 by the [[Clarendon]] Press, Oxford, entitled _A Concordance to the
 Septuagint and the other Greek versions of the Old Testament including
 the Apocryphal Books_, by Edwin Hatch and H. A. Redpath, assisted by
 other scholars; this was completed in 1900 by a list of proper names.
@@ -98,12 +98,12 @@ Henry, his son. Then in 1638 came Schmied's [Greek: tamieion], which has
 been the basis of subsequent concordances to the New Testament. Erasmus
 Schmied or Schmid was a Lutheran divine who was professor of Greek in
 Wittenberg, where he died in 1637. Revised editions of the [Greek:
-tamieion] were published at Gotha in 1717, and at Glasgow in 1819 by the
-University Press. In the middle of the 19th century Charles Hermann
+tamieion] were published at [[Gotha]] in 1717, and at [[Glasgow]] in 1819 by the
+University Press. In the middle of the 19th century Charles [[Hermann]]
 Bruder brought out a beautiful edition (Tauchnitz) with many
 improvements. The _apparatus criticus_ was a triumph of New Testament
 scholarship. It collates the readings of Erasmus, R. Stephens' third
-edition, the Elzevirs, Mill, Bengel, Webster, Knapp, Tittman, Scholz,
+edition, the [[Elzevir|Elzevirs]], Mill, Bengel, Webster, Knapp, Tittman, Scholz,
 Lachmann. It also gives a selection from the most ancient patristic
 MSS. and from various interpreters. No various reading of critical value
 is omitted. An edition of Bruder with readings of Samuel Prideaux
@@ -156,11 +156,11 @@ editions were published during Cruden's life, and many since his death.
 Cruden's work is accurate and full, and later concordances only
 supersede his by combining an English with a Greek and Hebrew
 concordance. This is done by the _Critical Greek and English
-Concordance_ prepared by C. F. Hudson, H. A. Hastings and Ezra Abbot,
-LL.D., published in Boston, Mass., and by the _Critical Lexicon and
+Concordance_ prepared by C. F. [[Hudson]], H. A. [[Hastings]] and Ezra Abbot,
+LL.D., published in [[Boston]], Mass., and by the _Critical Lexicon and
 Concordance to the English and Greek New Testament_, by E. L. Bullinger,
 1892. The _Interpreting Concordance to the New Testament_, edited by
-James Gall, shows the Greek original of every word, with a glossary
+James [[Gall]], shows the Greek original of every word, with a glossary
 explaining the Greek words of the New Testament, and showing their
 varied renderings in the Authorized Version. The most convenient of
 these is _Young's Analytical Concordance_, published in Edinburgh in

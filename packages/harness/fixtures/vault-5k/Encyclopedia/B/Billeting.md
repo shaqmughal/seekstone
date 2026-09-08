@@ -6,7 +6,7 @@ shelter and local resources afforded by the villages on or near their
 line of march. The historical interest of billeting in England begins
 with the repeated petitions against it in the reigns of Elizabeth, James
 I. and Charles I., which culminated in the Petition of Right. The
-billeting of troops was superintended by a civil magistrate of the
+billeting of troops was superintended by a civil [[Magistrate|magistrate]] of the
 district to which the troops were sent or through which they passed. The
 magistrate, who acted under an order from the king, too often spared his
 friends at the expense of his political or personal opponents. Owing to

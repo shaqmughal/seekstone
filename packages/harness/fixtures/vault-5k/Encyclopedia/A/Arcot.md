@@ -7,7 +7,7 @@ British conquest of India, but it has now lost its manufactures and
 trade and preserves only a few mosques and tombs as traces of its former
 grandeur. It is a station on the line of railway from Madras to Beypur,
 but has ceased to be a military cantonment. The most famous episode in
-its history is the capture and defence of Arcot by Clive. In the middle
+its history is the capture and defence of Arcot by [[Clive]]. In the middle
 of the 18th century, during the war between the rival claimants to the
 throne of the Carnatic, Mahommed Ali and Chanda Sahib, the English
 supported the claims of the former and the French those of the latter.
@@ -22,14 +22,14 @@ Chanda Sahib was obliged to detach a large force of 10,000 men to
 recapture the city, and the pressure on the English garrison at
 Trichinopoly was removed. Arcot was afterwards captured by the French;
 but in 1760 was retaken by Colonel Coote after the battle of Wandiwash.
-It was also taken by Hyder Ali when that invader ravaged the Carnatic in
+It was also taken by [[Hyder Ali]] when that invader ravaged the Carnatic in
 1780, and held by him for some time. The town of Arcot, together with
 the whole of the territory of the Carnatic, passed into the hands of the
 British in 1801, upon the formal resignation of the government by the
 nawab, Azim-ud-daula, who received a liberal pension.
 
 The district of North Arcot is bounded on the N. by the districts of
-Cuddapah and Nellore; on the E. by the district of Chingleput; on the S.
+[[Cuddapah]] and Nellore; on the E. by the district of [[Chingleput]]; on the S.
 by the districts of South Arcot and Salem; and on the W. by the Mysore
 territory. The area of North Arcot is 7386 sq. m., and the population in
 1901 was 2,207,712, showing an increase of 4% in the decade. The aspect
@@ -61,7 +61,7 @@ and Kalahasti (the two chief places of trade).
 
 The district of South Arcot is bounded on the N. by the districts of
 North Arcot and Chingleput; on the E. by the French territory of
-Pondicherry and the Bay of Bengal; on the S. by the British districts of
+Pondicherry and the Bay of [[Bengal]]; on the S. by the British districts of
 Tanjore and Trichinopoly; and on the W. by the British district of
 Salem. It contains an area of 5217 sq. m.; and its population in 1901
 was 2,349,894, showing an increase of 9% in the decade. The aspect of
@@ -79,7 +79,7 @@ waters through the district. The other rivers are the Vellar, Pennar,
 and Gadalum, all of which are used for irrigation purposes. Numerous
 small irrigation channels lead off from them, by means of which a
 considerable area of waste land has been brought under cultivation.
-Under the East India Company, a commercial resident was stationed at
+Under the [[East India Company]], a commercial resident was stationed at
 Cuddalore, and the Company's weavers were encouraged by many privileges.
 The manufacture and export of native cloth have now been almost entirely
 superseded by the introduction of European piece goods. The chief

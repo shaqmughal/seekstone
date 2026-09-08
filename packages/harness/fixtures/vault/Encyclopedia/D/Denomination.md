@@ -10,7 +10,7 @@ type: article
 DENOMINATION (Lat. _denominare_, to give a specific name to), the giving
 of a specific name to anything, hence the name or designation of a
 person or thing, and more particularly of a class of persons or things;
-thus, in arithmetic, it is applied to a unit in a system of weights and
+thus, in [[Arithmetic|arithmetic]], it is applied to a unit in a system of weights and
 measures, currency or numbers. The most general use of "denomination" is
 for a body of persons holding specific opinions and having a common
 name, especially with reference to the religious opinions of such a

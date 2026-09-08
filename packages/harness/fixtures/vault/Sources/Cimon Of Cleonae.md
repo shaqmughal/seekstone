@@ -10,8 +10,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Cimon_Of_C
 CIMON OF CLEONAE, an early Greek painter, who is said to have introduced
 great improvements in drawing. He represented "figures out of the
 straight, and ways of representing faces looking back, up or down; he
-also made the joints of the body clear, emphasized veins, worked out
-folds and doublings in garments" (Pliny). All these improvements are
+also made the [[Joints|joints]] of the body clear, emphasized veins, worked out
+[[Fold|folds]] and doublings in garments" (Pliny). All these improvements are
 such as may be traced in the drawing of early Greek red-figured vases
 (see GREEK ART).
 

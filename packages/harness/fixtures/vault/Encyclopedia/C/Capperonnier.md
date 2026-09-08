@@ -1,6 +1,6 @@
 # Capperonnier
 
-CAPPERONNIER, CLAUDE (1671-1744), French classical scholar, the son of a
+CAPPERONNIER, [[Claude|CLAUDE]] (1671-1744), French classical scholar, the son of a
 tanner, was born at Montdidier on the 1st of May 1671. He studied at
 Amiens and Paris, and took orders in the Church of Rome, but devoted
 himself almost entirely to classical studies. He declined a

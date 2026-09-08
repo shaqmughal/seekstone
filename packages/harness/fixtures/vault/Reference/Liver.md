@@ -12,13 +12,13 @@ one-fortieth of the body Weight.
 
 Although the liver is a fairly solid organ, it is plastic, and moulds
 itself to even hollow neighbouring viscera rather than they to it. The
-superior surface is in contact with the diaphragm, but has peritoneum
+superior surface is in contact with the [[Diaphragm|diaphragm]], but has peritoneum
 between (see COELOM AND SEROUS MEMBRANES). At its posterior margin the
 peritoneum of the great sac is reflected on to the diaphragm to form the
-anterior layer of the _coronary ligament_. Near the mid line of the
+anterior layer of the _coronary [[Ligament|ligament]]_. Near the mid line of the
 body, and at right angles to the last, another reflection, the
-_falciform ligament_, runs forward, and the line of attachment of this
-indicates the junction of the _right_ and _left lobes_ of the liver. The
+_falciform ligament_, runs forward, and the line of [[Attachment|attachment]] of this
+indicates the junction of the _right_ and _left [[Lobe|lobes]]_ of the liver. The
 anterior surface is in contact with the diaphragm and the anterior
 abdominal wall. The attachment of the falciform ligament is continued
 down it. The posterior surface is more complicated (see fig. 1);
@@ -40,9 +40,9 @@ line of the body. The relations of the lower surface can only be
 understood if it is realized that it looks backward and to the left as
 well as downward (see fig. 1). Again starting from the right side, two
 impressions are seen; the anterior one is for the hepatic flexure of the
-colon, and the posterior for the upper part of the right kidney. To the
+[[Colon|colon]], and the posterior for the upper part of the right kidney. To the
 left of the colic impression is a smaller one for the second part of the
-duodenum. Next comes the _gall bladder_, a pear-shaped bag, the fundus
+duodenum. Next comes the _[[Gall|gall]] [[Bladder|bladder]]_, a pear-shaped bag, the fundus
 of which is in front and below, the neck behind and above. From the neck
 passes the _cystic duct_, which is often twisted into the form of an S.
 To the left of the gall bladder is the _quadrate lobe_, which is in
@@ -56,11 +56,11 @@ interior surface of the stomach (see ALIMENTARY CANAL: _Stomach
 Chamber_), while a convexity, known as the _tuber omentale_, fits into
 the lesser curvature of that organ. The posterior boundary of the
 quadrate lobe is the _transverse fissure_, which is little more than an
-inch long and more than half an inch wide. This fissure represents the
+[[Inch|inch]] long and more than half an inch wide. This fissure represents the
 hilum of the liver, and contains the right and left hepatic ducts and
 the right and left branches of the hepatic artery and portal vein,
 together with nerves and lymphatics, the whole being enclosed in some
-condensed subperitoneal tissue known as _Glisson's capsule_. Behind the
+condensed subperitoneal tissue known as _Glisson's [[Capsule|capsule]]_. Behind the
 transverse fissure the lower end of the Spigelian lobe is seen as a knob
 called the _tuber papillare_, and from the right of this a narrow bridge
 runs forward and to the right to join the Spigelian lobe to the right
@@ -68,12 +68,12 @@ lobe and to shut off the transverse fissure from that for the vena cava.
 This is the _caudate lobe_. The right surface of the liver is covered
 with peritoneum and is in contact with the diaphragm, outside which are
 the pleura and lower ribs. From its lower margin the _right lateral
-ligament_ is reflected on to the diaphragm. A similar fold passes from
+ligament_ is reflected on to the diaphragm. A similar [[Fold|fold]] passes from
 the tip of the left lobe as the _left lateral ligament_, and both these
 are the lateral margins of the coronary ligament. Sometimes, especially
 in women, a tongue-shaped projection downward of the right lobe is
 found, known as _Riedel's lobe_; it is of clinical interest as it may be
-mistaken for a tumour or floating kidney (see C. H. Leaf, _Proc. Anat.
+mistaken for a tumour or floating kidney (see C. H. [[Leaf]], _Proc. Anat.
 Soc_., February 1899; _Journ. Anat. and Phys_. vol. 33, p. ix.). The
 right and left _hepatic ducts_, while still in the transverse fissure,
 unite into a single duct which joins the cystic duct from the gall
@@ -141,17 +141,17 @@ venosus are hidden in the depths of their fissures.]
       lobules.
     i, i, Interlobular veins.]
 
-  _Comparative Anatomy._--In the Acrania (Amphioxus) the liver is
+  _[[Comparative Anatomy]]._--In the Acrania (Amphioxus) the liver is
   probably represented by a single ventral diverticulum from the
   anterior end of the intestine, which has a hepatic portal circulation
   and secretes digestive fluid. In all the Craniata a solid liver is
-  developed. In the adult lamprey among the Cyclostomata the liver
+  developed. In the adult [[Lamprey|lamprey]] among the Cyclostomata the liver
   undergoes retrogression, and the bile ducts and gall bladder
   disappear, though they are present in the larval form (Ammocoetes). In
   fishes and amphibians the organ consists of right and left lobes, and
   a gall-bladder is present. The same description applies to the
   reptiles, but a curious network of cystic ducts is found in snakes and
-  to a less extent in crocodiles. In the Varanidae (Monitors) the
+  to a less extent in [[Crocodile|crocodiles]]. In the Varanidae (Monitors) the
   hepatic duct is also retiform (see F. E. Beddard, _Proc. Zool. Soc_.,
   1888, p. 105). In birds two lobes are also present, but in some of
   them, _e.g_. the pigeon, there is no gall-bladder.
@@ -179,9 +179,9 @@ venosus are hidden in the depths of their fissures.]
   [Illustration: FIG. 5.--Human Liver showing a reversion to the
   generalised mammalian type.]
 
-  In mammals Sir William Flower pointed out that a generalized type of
+  In mammals Sir William [[Flower]] pointed out that a generalized type of
   liver exists, from which that of any mammal may be derived by
-  suppression or fusion of lobes. The accompanying diagram of Flower
+  suppression or [[Fusion|fusion]] of lobes. The accompanying diagram of Flower
   (fig. 4) represents an ideal mammalian liver. It will be seen that the
   umbilical fissure (u) divides the organ into right and left halves, as
   in the lower vertebrates, but that the ventral part of each half is
@@ -201,18 +201,18 @@ venosus are hidden in the depths of their fissures.]
   lies between the gall bladder and the umbilical fissure. From a
   careful study of human variations (see A. Thomson, _Journ. Anat. and
   Phys_. vol. 33, p. 546) compared with an Anthropoid liver, such as
-  that of the gorilla, depicted by W. H. L. Duckworth (_Morphology and
+  that of the [[Gorilla|gorilla]], depicted by W. H. L. [[Duckworth]] (_Morphology and
   Anthropology_, Cambridge, 1904, p. 98), it is fairly clear that the
   human liver is formed, not by a suppression of any of the lobes of the
   generalized type, but by a fusion of those lobes and obliteration of
   certain fissures. This fusion is, probably correctly, attributed by
-  Keith to the effect of pressure following the assumption of the erect
+  [[Keith]] to the effect of pressure following the [[Assumption|assumption]] of the erect
   position (Keith, _Proc. Anat. Soc. of Gt. Britain, Journ. Anat. and
   Phys_. vol. 33, p. xii.). The accompanying diagram (fig. 5) shows an
   abnormal human liver in the Anatomical Department of St Thomas's
   Hospital which reproduces the generalized type. In its lobulation it
   is singularly like, in many details, that of the baboon (_Papio
-  maimon_) figured by G. Ruge (_Morph. Jahrb_., Bd. 35, p. 197); see F.
+  [[Maimon|maimon]]_) figured by G. Ruge (_Morph. Jahrb_., Bd. 35, p. 197); see F.
   G. Parsons, _Proc. Anat. Soc_., Feb. 1904, _Journ. Anat. and Phys_.
   vol. 33, p. xxiii. Georg Ruge "Die äusseren Formverhältnisse der Leber
   bei den Primaten," (_Morph. Jahrb_., Bd. 29 and 35) gives a critical
@@ -225,7 +225,7 @@ venosus are hidden in the depths of their fissures.]
 
   The gall-bladder is usually present in mammals, but is wanting in the
   odd-toed ungulates (Perissodactyla) and Procavia (Hyrax). In the
-  giraffe it may be absent or present. The cetacea and a few rodents are
+  [[Giraffe|giraffe]] it may be absent or present. The [[Cetacea|cetacea]] and a few rodents are
   also without it. In the otter the same curious network of bile ducts
   already recorded in the reptiles is seen (see P. H. Burne, _Proc.
   Anat. Soc., Journ. Anat. and Phys_. vol. 33, p. xi.).     (F. G. P.)
@@ -233,7 +233,7 @@ venosus are hidden in the depths of their fissures.]
 SURGERY OF LIVER AND GALL-BLADDER.--Exposed as it is in the upper part
 of the abdomen, and being somewhat friable, the human liver is often
 torn or ruptured by blows or kicks, and, the large blood-vessels being
-thus laid open, fatal haemorrhage into the belly-cavity may take place.
+thus laid open, fatal [[Haemorrhage|haemorrhage]] into the belly-cavity may take place.
 The individual becomes faint, and the faintness keeps on increasing; and
 there are pain and tenderness in the liver-region. The right thing to do
 is to open the belly in the middle line, search for a wound in the liver
@@ -245,10 +245,10 @@ unduly prolonged inflammation is the result. The commonest causes of
 this chronic hepatitis are alcoholism and syphilis. The new fibrous
 tissue which is developed throughout the liver, as the result of the
 chronic inflammation, causes general enlargement of the liver with,
-perhaps, nausea, vomiting and jaundice. Later the new fibrous tissue
+perhaps, nausea, vomiting and [[Jaundice|jaundice]]. Later the new fibrous tissue
 undergoes contraction and the liver becomes smaller than natural. Blood
 then finds difficulty in passing through it, and, as a result, dropsy
-occurs in the belly (ascites). This may be relieved by tapping the
+occurs in the belly ([[Ascites|ascites]]). This may be relieved by tapping the
 cavity with a small hollow needle (Southey's trocar), or by passing into
 it a large sharp-pointed tube. This relieves the dropsy, but it does not
 cure the condition on which the dropsy depends. A surgical operation is
@@ -260,7 +260,7 @@ _Inflammation of the Liver_ (hepatitis) may also be caused by an attack
 of micro-organisms which have reached it through the veins coming from
 the large intestine, or through the main arteries. There are, of course,
 as the result, pain and tenderness, and there is often jaundice. The
-case should be treated by rest in bed, fomentations, calomel and saline
+case should be treated by rest in bed, fomentations, [[Calomel|calomel]] and saline
 aperients. But when the hepatitis is of septic origin, suppuration is
 likely to occur, the result being an hepatic abscess.
 
@@ -279,12 +279,12 @@ drained. It is inadvisable to explore for a suspected abscess with a
 hollow needle without first opening the abdomen, as septic fluid might
 thus be enabled to leak out, and infect the general peritoneal cavity.
 If an hepatic abscess is injudiciously left to itself it may eventually
-discharge into the chest, lungs or belly, or it may establish a
+[[Discharge|discharge]] into the chest, [[Lung|lungs]] or belly, or it may establish a
 communication with a piece of intestine. The only safe way for an
 abscess to evacuate itself is on to the surface of the body.
 
 _Hydatic Cysts_ are often met with in the liver. They are due to a
-peculiar development of the eggs of the tape-worm of the dog, which have
+peculiar development of the [[Egg|eggs]] of the tape-worm of the dog, which have
 been received into the alimentary canal with infected water or uncooked
 vegetables, such as watercress. The embryo of the taenia echinococcus
 finds its way from the stomach or intestine into a vein passing to the
@@ -295,12 +295,12 @@ distended with clear hydatid fluid. The cyst should be treated like a
 liver-abscess, by incision through the abdominal or thoracic wall, by
 circumferential suturing and by exploration and drainage.
 
-_Tumours of the Liver_ may be innocent or malignant. The most important
+_Tumours of the Liver_ may be [[Innocent|innocent]] or malignant. The most important
 of the former is the _gumma_ of tertiary syphilis; this may steadily and
 completely disappear under the influence of iodide of potassium. The
 commonest form of malignant tumour is the result of the growth of
 cancerous elements which have been brought to the liver by the veins
-coming up from a primary focus of the large intestine. Active surgical
+coming up from a primary [[Focus|focus]] of the large intestine. Active surgical
 treatment of such a tumour is out of the question. Fortunately it is, as
 a rule, painless.
 
@@ -313,7 +313,7 @@ better, the gall-bladder may be removed. The peritoneal surfaces in the
 region of the liver should then be wiped clean, and the abdominal wound
 closed, except for the passage through it of a gauze drain.
 
-Biliary concretions, known as _gall stones_, are apt to form in the
+Biliary [[Concretion|concretions]], known as _gall stones_, are apt to form in the
 gall-bladder. They are composed of crystals of bile-fat, cholesterine.
 Sometimes in the course of a _post-mortem_ examination a gall-bladder is
 found packed full of gall-stones which during life had caused no
@@ -326,12 +326,12 @@ _Abscess of the Gall-bladder_ gives rise to a painful, tender swelling
 near the cartilage of the ninth rib of the right side. If the abscess is
 allowed to take its course, adhesions may form around it and it may
 burst into the intestine or on to the surface of the abdomen, a _biliary
-fistula_ remaining. Abscess in the gall-bladder being suspected, an
+[[Fistula|fistula]]_ remaining. Abscess in the gall-bladder being suspected, an
 incision should be made down to it, and, its covering having been
 stitched to the abdominal wall, the gall-bladder should be opened and
 drained. The presence of concretions in the gall-bladder may not only
 lead to the formation of abscess but also to invasion of the
-gall-bladder by cancer.
+gall-bladder by [[Cancer|cancer]].
 
 Stones in the gall-bladder should be removed by operation, as, if left,
 there is a great risk of their trying to escape with the bile into the
@@ -353,17 +353,17 @@ and it comes on at intervals, each attack increasing the patient's
 misery. He breaks out into profuse sweats and may vomit. If the stone
 happily finds its way into the intestine the distress suddenly ceases.
 In the meanwhile relief may be afforded by fomentations, and by morphia
-or chloroform, but if no prospect of the stone escaping into the
+or [[Chloroform|chloroform]], but if no prospect of the stone escaping into the
 intestine appears likely, the surgeon will be called upon to remove it
 by an incision through the gall-bladder, or the bile-duct, or through
 the intestine at the spot where it is trying to make its escape.
 Sometimes a gall-stone which has found its way into the intestine is
-large enough to block the bowel and give rise to intestinal obstruction
+large enough to block the bowel and give rise to [[Intestinal Obstruction|intestinal obstruction]]
 which demands abdominal section.
 
   A person who is of what used to be called a "biliary nature" should
   live sparingly and take plenty of exercise. He should avoid fat and
-  rich food, butter, pastry and sauces, and should drink no beer or
+  rich food, [[Butter|butter]], pastry and sauces, and should drink no [[Beer|beer]] or
   wine--unless it be some very light French wine or Moselle. He should
   keep his bowels regular, or even loose, taking every morning a dose of
   sulphate of soda in a glass of hot water. A course at Carlsbad, Vichy

@@ -12,8 +12,8 @@ MAURY, JEAN SIFFREIN (1746-1817), French cardinal and archbishop of
 Paris, the son of a poor cobbler, was born on the 26th of June 1746 at
 Valréas in the Comtat-Venaissin, the district in France which belonged
 to the pope. His acuteness was observed by the priests of the seminary
-at Avignon, where he was educated and took orders. He tried his fortune
-by writing _éloges_ of famous persons, then a favourite practice; and in
+at [[Avignon]], where he was educated and took orders. He tried his fortune
+by writing _é[[Log|loges]]_ of famous persons, then a favourite practice; and in
 1771 his _éloge_ on Fénelon was pronounced next best to Laharpe's by the
 Academy. The real foundation of his fortunes was the success of a
 panegyric on St Louis delivered before the Academy in 1772, which caused
@@ -25,7 +25,7 @@ and remains a French classic. The book was often reprinted as _Principes
 de l'éloquence_. He became a favourite preacher in Paris, and was Lent
 preacher at court in 1781, when King Louis XVI. said of his sermon: "If
 the abbé had only said a few words on religion he would have discussed
-every possible subject." In 1781 he obtained the rich priory of Lyons,
+every possible subject." In 1781 he obtained the rich priory of [[Lyons]],
 near Péronne, and in 1785 he was elected to the Academy, as successor of
 Lefranc de Pompignan. His morals were as loose as those of his great
 rival Mirabeau, but he was famed in Paris for his wit and gaiety. In
@@ -42,7 +42,7 @@ property of the clergy. His life was often in danger, but his ready wit
 always saved it, and it was said that one _bon mot_ would preserve him
 for a month. When he did emigrate in 1792 he found himself regarded as
 a martyr to the church and the king, and was at once named archbishop
-_in partibus_, and extra nuncio to the diet at Frankfort, and in 1794
+_in partibus_, and extra nuncio to the diet at [[Frankfort]], and in 1794
 cardinal. He was finally made bishop of Montefiascone, and settled down
 in that little Italian town--but not for long, for in 1798 the French
 drove him from his retreat, and he sought refuge in Venice and St
@@ -51,7 +51,7 @@ Louis XVIII. at the papal court. In 1804 he began to prepare his return
 to France by a well-turned letter to Napoleon, congratulating him on
 restoring religion to France once more. In 1806 he did return; in 1807
 he was again received into the Academy; and in 1810, on the refusal of
-Cardinal Fesch, was made archbishop of Paris. He was presently ordered
+Cardinal [[Fesch]], was made archbishop of Paris. He was presently ordered
 by the pope to surrender his functions as archbishop of Paris. This he
 refused to do. On the restoration of the Bourbons he was summarily
 expelled from the Academy and from the archiepiscopal palace. He retired
@@ -59,7 +59,7 @@ to Rome, where he was imprisoned in the castle of St Angelo for six
 months for his disobedience to the papal orders, and died in 1817, a
 year or two after his release, of disease contracted in prison and of
 chagrin. As a critic he was a very able writer, and Sainte-Beuve gives
-him the credit of discovering Father Jacques Bridayne, and of giving
+him the [[Credit|credit]] of discovering Father Jacques Bridayne, and of giving
 Bossuet his rightful place as a preacher above Massillon; as a
 politician, his wit and eloquence make him a worthy rival of Mirabeau.
 He sacrificed too much to personal ambition, yet it would have been a

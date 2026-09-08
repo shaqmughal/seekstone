@@ -19,7 +19,7 @@ same school or college but receive instruction wholly or in part in
 separate classes and in different subjects. Other variable factors in
 co-educational systems are the extent to which men and women are mixed
 on the teaching staff, and the freedom of intercourse permitted between
-pupils of the two sexes in class, in games and in other activities of
+pupils of the two sexes in class, in [[Games|games]] and in other activities of
 school life. In another form of combined education (preferred by Comte,
 _Système de politique positive_, iv. 266), pupils of the two sexes are
 taught successively by the same teacher. By the English Board of
@@ -35,7 +35,7 @@ example, women were admitted by Plato to the inner circle of the Academy
 on terms of equality with men. The educational endowments of Teos
 provided that the professors of literature should teach both boys and
 girls. It is uncertain whether the Roman schools in classical times were
-attended by both sexes. A tombstone found at Capua represents a
+attended by both sexes. A tombstone found at [[Capua]] represents a
 schoolmaster with a boy on one side and a girl on the other. Probably
 co-education was practised in country districts for economical reasons;
 and also in the home schools organized by wealthier families (Wilkins,
@@ -46,8 +46,8 @@ Renaissance made the full development of personality a chief aim of
 education, and held up literary accomplishment as a desirable mark of
 personal distinction both for men and women. This led to the scholarly
 education of girls along with boys in the home schools of some great
-families. Thus, at Mantua (1423 onwards), Vittorino da Feltre taught
-Cecilia Gonzaga with her brothers and the other boy pupils at his
+families. Thus, at Mantua (1423 onwards), Vittorino da [[Feltre]] taught
+[[Cecilia]] Gonzaga with her brothers and the other boy pupils at his
 boarding-school; but there is no evidence that the latter was otherwise
 co-educational. Luther and other Reformers urged that girls as well as
 boys should be taught to read the Bible. Hence came the tendency to
@@ -55,8 +55,8 @@ co-education of boys and girls in some elementary schools in Protestant
 lands. This tendency can be traced both in Scotland and in the northern
 parts of England. It is believed that, in the early days of New England,
 district schools in smaller American towns were open to boys and girls
-alike, but that few girls advanced beyond reading and writing (Martin,
-_Massachusetts Public School System_, p. 130). At Dorchester, Mass., it
+alike, but that few girls advanced beyond reading and writing ([[Martin]],
+_Massachusetts Public School System_, p. 130). At [[Dorchester]], Mass., it
 was left to the discretion of the elders and schoolmen whether maids
 should be taught with the boys or not; but in practice the girls seem to
 have been educated apart. In 1602 the council of Ayr, Scotland, ordained
@@ -88,7 +88,7 @@ universities on the further ground that it was believed to be more in
 accordance with the democratic principle of equal educational
 opportunity for the two sexes.
 
-It should be added, however, that the leaven of Pestalozzi's thought has
+It should be added, however, that the [[Leaven|leaven]] of Pestalozzi's thought has
 worked powerfully both in Europe and America in favour of the idea of
 co-education. His view was that all educational institutions should, as
 far as possible, be modelled upon the analogy of the family and of the
@@ -122,8 +122,8 @@ influence of American example. In England, private schools have made
 some of the most valuable co-educational experiments. A private boarding
 and day secondary school on co-educational lines was instituted by Mr W.
 A. Case in Hampstead in 1865. A co-educational boarding-school was
-founded in 1869 by Miss Lushington at Kingsley near Alton, Hants. In
-1873 Mr W. H. Herford began the Ladybarn school for boys and girls at
+founded in 1869 by Miss Lushington at [[Kingsley]] near Alton, Hants. In
+1873 Mr W. H. [[Herford]] began the Ladybarn school for boys and girls at
 Withington in the suburbs of Manchester. The passing of the Welsh
 Intermediate Education Act 1889 led to the establishment of a
 considerable number of new mixed or dual secondary day-schools in Wales.
@@ -133,8 +133,8 @@ J. H. Badley at Bedales, Petersfield, a co-educational boarding-school
 of the first grade, gave greatly increased weight to the principle of
 co-education. Important additions have also been made to the fund of
 co-educational experience by the King Alfred's school (Hampstead),
-Keswick school, and West Heath school (Hampstead). In 1907 a Public
-Co-educational Boarding School was opened at Harpenden.
+[[Keswick]] school, and West Heath school (Hampstead). In 1907 a Public
+Co-educational Boarding School was opened at [[Harpenden]].
 
 Since the Education Act 1902 became law, there has been a rapid increase
 of co-educational secondary day-schools of the lower grade, under county
@@ -146,11 +146,11 @@ co-educational secondary school, in place of two smaller schools for
 boys and girls separately.
 
 The idea of co-education in secondary schools has spread in several
-other European countries, especially in Holland, Norway, Sweden and
-Denmark. In Scandinavia, the new practice appears to have begun with the
+other [[European Countries|European countries]], especially in Holland, Norway, Sweden and
+[[Denmark]]. In Scandinavia, the new practice appears to have begun with the
 establishment of a private higher secondary school, the Palmgremska
 Samskolan, in Stockholm, in 1876. A similar school, Nya Svenska
-Läroverket, was founded upon the same model in Helsingfors, Finland, in
+Läroverket, was founded upon the same model in [[Helsingfors]], [[Finland]], in
 1880. In Norway, the law of 1896 introduced co-education in all state
 schools. In Denmark, as in Norway, co-education was begun in private
 schools; on its proving a success there, it was introduced into the
@@ -162,7 +162,7 @@ the modern type. For example, at Utrecht, the state higher burgher
 school provides the same course of instruction, except in gymnastics,
 for boys and girls. At Almeloo, the municipal higher burgher school,
 though co-educational, differentiates the classes in several subjects.
-In Belgium, France, Germany and Austria, co-education, though frequent
+In [[Belgium]], France, Germany and Austria, co-education, though frequent
 in elementary schools, is regarded as undesirable in secondary; but the
 movement in its favour in many parts of Germany seems to be gathering
 strength. All over Europe the Roman Catholic populations prefer the
@@ -227,7 +227,7 @@ grade schools of Scotland, co-education is the almost universal rule.
 The exceptions, which for the most part are Roman Catholic or Episcopal
 Church schools, tend to diminish year by year. In 1905, out of 3843
 departments in the Scotch public elementary and higher grade schools,
-3783 were mixed. These include the infant departments. Out of the total
+3783 were mixed. These include the [[Infant|infant]] departments. Out of the total
 number of children in the public elementary and higher grade schools,
 including infants' departments, 98.43% were receiving co-education.
 
@@ -260,15 +260,15 @@ taught in the same classes.
 
 _Universities and University Colleges in the United Kingdom._--Women are
 admitted as members of the universities of London, Durham, Manchester,
-Liverpool, Birmingham, Leeds, Sheffield, Wales, Edinburgh, Aberdeen, St
-Andrews, Glasgow, Dublin and the Royal University of Ireland. At Oxford
+[[Liverpool]], [[Birmingham]], [[Leeds]], Sheffield, Wales, Edinburgh, Aberdeen, St
+Andrews, [[Glasgow]], Dublin and the Royal University of Ireland. At Oxford
 and Cambridge women are not admitted as members of the university, but
-by courtesy enjoy entrance to practically all university lectures and
+by [[Courtesy|courtesy]] enjoy entrance to practically all university lectures and
 examinations. The social life of the men and women students is more
 separate in the old than in the new universities. In no grade of
 education in the United Kingdom has the principle of co-education made
 more rapid advance than in the universities. The university education of
-women began in London (Queen's College 1848, Bedford College 1849, both
+women began in London (Queen's College 1848, [[Bedford]] College 1849, both
 being preceded by classes in earlier years). The University of London in
 1878 decided to accept from the crown a supplemental charter making
 every degree, honour and prize awarded by the university accessible to
@@ -281,7 +281,7 @@ which our university is authorized to confer; every office created in
 the university, and the membership of every authority constituted by the
 charter shall be open to women equally with men." In 1889 the
 Universities (Scotland) Act empowered the commissioners to make
-ordinances, enabling each university to admit women in graduation in one
+ordinances, enabling each university to admit women in [[Graduation|graduation]] in one
 or more faculties and to provide for their instruction. At all the
 university colleges in the United Kingdom women are educated as well as
 men.
@@ -296,7 +296,7 @@ sexes. Out of 550,600 pupils on the rolls of public secondary schools
 (high schools) in 1902, 523,300 were in co-educational schools. The same
 was true of 43% of the pupils (numbering over 100,000) in private
 secondary schools. In colleges and universities 62% of all
-undergraduates were in co-educational institutions, to which category
+undergraduates were in co-educational institutions, to which [[Category|category]]
 thirty-four American universities belong (U.S. Commissioner of
 Education, _Report for 1903_, p. 2454). In America opinion is thus
 predominantly in favour of co-education, but there is a current of
@@ -318,9 +318,9 @@ life by passing through the same courses of training as are prescribed
 for men. The degree, however, to which social intercourse is carried on
 between men and women students differs widely in the different
 co-educational universities. There are occasional signs, _e.g._ at
-Chicago, of a reaction against the fullest form of academic
+[[Chicago]], of a reaction against the fullest form of academic
 co-education. And it is probable that the universities will provide,
-among many courses common to men and women, some (like engineering)
+among many courses common to men and women, some (like [[Engineering|engineering]])
 suitable for men only, and others (like advanced instruction in
 home-science, or certain courses of professional preparation for
 teachers of young children) which will rarely be attended by any but
@@ -403,12 +403,12 @@ disastrous.
   half-heartedness means failure. The more completely both sexes can be
   brought together upon an equal and natural footing the less the
   difficulties grow." In the Board of Education _Special Reports_, vol.
-  xi. (Wyman & Sons, 1902), Rev. Cecil Grant, writing on _Can American
+  xi. (Wyman & Sons, 1902), Rev. [[Cecil]] Grant, writing on _Can American
   Education be grafted upon the English Public School System?_ answers
   strongly in the affirmative; co-education is recommended on eight
   grounds:--(1) Vast economy of expenditure; (2) return to the natural
   system; (3) discipline made easier; (4) intellectual stimulus; (5) a
-  better balance in instruction; (6) improved manners; (7) prevention of
+  better [[Balance|balance]] in instruction; (6) improved [[Manners|manners]]; (7) prevention of
   extremes of masculinity or femininity; (8) a safeguard against the
   moral danger.
 
@@ -418,10 +418,10 @@ disastrous.
   Badley's _Co-education after Fifteen: its Value and Difficulties_.
   _Child Life_ (London, January, 1906), is candid, judicious and
   practical. M. E. Sadler in _Reports on Secondary Education in
-  Hampshire, Derbyshire and Essex_ (1904, 1905 and 1906 respectively)
+  [[Hampshire]], Derbyshire and [[Essex]]_ (1904, 1905 and 1906 respectively)
   gives details of the curriculum of many co-educational secondary
   schools. In the U.S. Commissioner of Education _Report for 1903_, vol.
-  i. pp. 1047-1078, Anna Tolman Smith, writing on _Co-education in the
+  i. pp. 1047-1078, [[Anna]] Tolman Smith, writing on _Co-education in the
   Schools and Colleges of the United States_, gives an historical review
   of the subject with bibliography (compare bibliography in _Report of
   U.S. Commissioner of Education for 1900-1901_, pp. 1310-1325). G.
@@ -430,10 +430,10 @@ disastrous.
   Education_, vol. ii. chap. xvii., on Adolescent Girls and their
   education (New York, D. Appleton & Co., 1904), is strongly against
   co-education during adolescence. In W. Rein's _Encyklopädisches
-  Handbuch der Pädagogik_ (Langensalza, Beyer), art. "Gemeinsame
+  Handbuch der Pädagogik_ ([[Langensalza]], Beyer), art. "Gemeinsame
   Erziehung für Knaben und Mädchen," K. E. Palmgren is in favour of
   co-education (vol. iii. of 2nd ed. 1905). See also W. Rein, _Über
-  gemeinsame Erziehung von Knaben und Mädchen_ (Freiburg, 1903), and
+  gemeinsame Erziehung von Knaben und Mädchen_ ([[Freiburg]], 1903), and
   _Bericht über den I. Internationalen Kongress für Schulhygiene_
   (Nürnberg, 1904), vol. ii. pp. 140 ff., "Co-education in der höheren
   Schulen."     (M. E. S.)

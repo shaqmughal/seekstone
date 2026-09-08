@@ -1,10 +1,10 @@
 # Boehme
 
-BOEHME (or BEHMEN), JAKOB (1575-1624), German mystical writer, whose
-surname (of which Fechner gives eight German varieties) appears in
+BOEHME (or BEHMEN), [[Jakob|JAKOB]] (1575-1624), German mystical writer, whose
+surname (of which [[Fechner]] gives eight German varieties) appears in
 English literature as Beem, Behmont, &c., and notably Behmen, was born
-at Altseidenberg, in Upper Lusatia, a straggling hamlet among the hills,
-some 10 m. S.E. of Gorlitz. His father was a well-to-do peasant, and his
+at Altseidenberg, in Upper [[Lusatia]], a straggling [[Hamlet|hamlet]] among the hills,
+some 10 m. S.E. of [[Gorlitz]]. His father was a well-to-do peasant, and his
 first employment was that of herd boy on the Landskrone, a hill in the
 neighbourhood of Gorlitz; the only education he received was at the
 town-school of Seidenberg, a mile from his home. Seidenberg, to this
@@ -12,16 +12,16 @@ day, is filled with shoemakers, and to a shoemaker Jakob was apprenticed
 in his fourteenth year (1589), being judged not robust enough for
 husbandry. Ten years later (1599) we find him settled at Gorlitz as
 master-shoemaker, and married to Katharina, daughter of Hans
-Kuntzschmann, a thriving butcher in the town. After industriously
+Kuntzschmann, a thriving [[Butcher|butcher]] in the town. After industriously
 pursuing his vocation for ten years, he bought (1610) the substantial
 house, which still preserves his name, close by the bridge, in the
 Neiss-Vorstadt. Two or three years later he gave up business, and did
 not resume it as a shoemaker; but for some years before his death he
-made and sold woollen gloves, regularly visiting Prague fair for this
+made and sold woollen [[Glove|gloves]], regularly visiting Prague fair for this
 purpose.
 
 Boehme's authorship began in his 37th year (1612) with a treatise,
-_Aurora, oder die Morgenrote im Aufgang_, which though unfinished was
+_[[Aurora]], oder die Morgenrote im Aufgang_, which though unfinished was
 surreptitiously copied, and eagerly circulated in MS. by Karl von Ender.
 This raised him at once out of his homely sphere, and made him the
 centre of a local circle of liberal thinkers, considerably above him in
@@ -43,37 +43,37 @@ character of his mind. Their publication at Gorlitz, on New Year's day
 1624, under the title of _Der Weg zu Christo_, was the signal for
 renewed clerical hostility. Boehme had by this time entered on the third
 and most prolific though the shortest period (1623-1624) of his
-speculation. His labours at the desk were interrupted in May 1624 by a
-summons to Dresden, where his famous "colloquy" with the Upper
+speculation. His labours at the [[Desk|desk]] were interrupted in May 1624 by a
+summons to [[Dresden]], where his famous "colloquy" with the Upper
 Consistorial court was made the occasion of a flattering but transient
 ovation on the part of a new circle of admirers. Richter died in August
 1624, and Boehme did not long survive his pertinacious foe. Seized with
-a fever when away from home, he was with difficulty conveyed to Gorlitz.
+a [[Fever|fever]] when away from home, he was with difficulty conveyed to Gorlitz.
 His wife was at Dresden on business; and during the first week of his
 malady he was nursed by a literary friend. He died, after receiving the
 rites of the church, grudgingly administered by the authorities, on
 Sunday, the 17th of November.
 
-Boehme always professed that a direct inward opening or illumination was
+Boehme always professed that a direct inward opening or [[Illumination|illumination]] was
 the only source of his speculative power. He pretended to no other
 revelation. Ecstatic raptures we should not expect, for he was
 essentially a Protestant mystic. No "thus saith the Lord" was claimed as
-his warrant, after the manner of Antoinette Bourignon, or Ludowick
+his warrant, after the manner of Antoinette [[Bourignon]], or Ludowick
 Muggleton; no spirits or angels held converse with him as with
 Swedenborg. It is needless to dwell, in the way either of acceptance or
 rejection, on the very few occasions in which his outward life seemed to
 him to come into contact with the invisible world. The apparition of the
 pail of gold to the herd boy on the Landskrone, the visit of the
-mysterious stranger to the young apprentice, the fascination of the
+mysterious stranger to the young apprentice, the [[Fascination|fascination]] of the
 luminous sheen, reflected from a common pewter dish, which first, in
 1600, gave an intuitive turn to his meditations, the heavenly music
-which filled his ears as he lay dying--none of these matters is
+which filled his [[Ear|ears]] as he lay dying--none of these matters is
 connected organically with the secret of his special power. The
 mysteries of which he discoursed were not reported to him: he "beheld"
 them. He saw the root of all mysteries, the _Ungrund_ or _Urgrund_,
 whence issue all contrasts and discordant principles, hardness and
 softness, severity and mildness, sweet and bitter, love and sorrow,
-heaven and hell. These he "saw" in their origin; these he attempted to
+heaven and [[Hell|hell]]. These he "saw" in their origin; these he attempted to
 describe in their issue, and to reconcile in their eternal result. He
 saw into the being of God; whence the birth or going forth of the divine
 manifestation. Nature lay unveiled to him, he was at home in the heart
@@ -93,18 +93,18 @@ and _Tinctur_ and so forth,--a phraseology embarrassing to himself as
 well as to his readers. His friends plied him with foreign terms, which
 he was delighted to receive, interpreting them by an instinct, and using
 them often in a corrupted form and always in a sense of his own. Thus
-the word _Idea_ called up before him the image of "a very fair,
+the word _Idea_ called up before him the [[Image|image]] of "a very fair,
 heavenly, and chaste virgin." The title _Aurora_, by which his earliest
 treatise is best known, was furnished by Dr Balthasar Walther. These,
-however, were false helps, which only serve to obscure a difficult
+however, were false [[Helps|helps]], which only serve to obscure a difficult
 study, like the _Flagrat_ and _Lubet_, with which his English translator
 veiled Boehme's own honest _Schreck_ and _Lust_. There is danger lest
 his crude science and his crude philosophical vocabulary conceal the
 fertility of Boehme's ideas and the transcendent greatness of his
 religious insight. Few will take the pains to follow him through the
 interminable account of his seven _Quellgeister_, which remind us of
-Gnosticism; or even of his three first properties of eternal nature, in
-which his disciples find Newton's formulae anticipated, and which
+[[Gnosticism]]; or even of his three first properties of eternal nature, in
+which his [[Disciple|disciples]] find Newton's formulae anticipated, and which
 certainly bear a marvellous resemblance to the three [Greek: archai] of
 Schelling's _Theogonische Natur_. Boehme is always greatest when he
 breaks away from his fancies and his trammels, and allows speech to the
@@ -113,7 +113,7 @@ help listening to him, whether he dive deep down with the conviction
 "ohne Gift und Grimm kein Leben," or rise with the belief that "the
 being of all beings is a wrestling power," or soar with the persuasion
 that Love "in its height is as high as God." The mystical poet of
-Silesia, Angelus Silesius, discerned where Boehme's truest power lay
+Silesia, [[Angelus Silesius]], discerned where Boehme's truest power lay
 when he sang--
 
   "Im Wasser lebt der Fisch, die Pflanze in der Erden,
@@ -133,7 +133,7 @@ Christi;, Von der Geburt und Bezeichnung alter Wesen_ (known as
 _Signatura Rerum_). 3. THEOLOGIA, i.e., in Scougall's phrase, "the
 life of God in the soul of man." Of the speculative writings under this
 head the most important are _Von der Gnadenwahl; Mysterium Magnum_ (a
-spiritual commentary on Genesis); _Von Christi Testamenten_ (the
+spiritual commentary on [[Genesis]]); _Von Christi Testamenten_ (the
 Sacraments).
 
 Although Boehme's philosophy is essentially theological, and his
@@ -170,7 +170,7 @@ Boehme's own genius did the rest. A primary effort of Boehme's
 philosophy is to show how material powers are substantially one with
 moral forces. This is the object with which he draws out the dogmatic
 scheme which dictates the arrangement of his seven _Quellgeister_.
-Translating Boehme's thought out of the uncouth dialect of material
+Translating Boehme's thought out of the uncouth [[Dialect|dialect]] of material
 symbols (as to which one doubts sometimes whether he means them as
 concrete instances, or as pictorial illustrations, or as a mere _memoria
 technica_), we find that Boehme conceives of the correlation of two
@@ -183,9 +183,9 @@ will the divine Spirit comes to Light; and immediately the manifested
 life appears in the triad of Love, Expression, and their resultant,
 Visible Variety. As the action of contraries and their resultant are
 explained the relations of soul, body and spirit; of good, evil and free
-will; of the spheres of the angels, of Lucifer, and of this world. It is
+will; of the spheres of the angels, of [[Lucifer]], and of this world. It is
 a more difficult problem to account on this philosophy for the
-introduction of evil. Boehme does not resort to dualism, nor has he the
+introduction of evil. Boehme does not resort to [[Dualism|dualism]], nor has he the
 smallest sympathy with a pantheistic repudiation of the fact of sin.
 That the difficulty presses him is clear from the progressive changes
 in his attempted solution of the problem. In the _Aurora_ nothing save
@@ -198,7 +198,7 @@ primary principle of divine manifestation--it is the wrath side of God.
 Corresponding to this change we trace a significant variation in the
 moral end contemplated by Boehme as the object of this world's life and
 history. In the first stage the world is created in remedy of a decline;
-in the second, for the adjustment of a balance of forces; in the third,
+in the second, for the adjustment of a [[Balance|balance]] of forces; in the third,
 to exhibit the eternal victory of good over evil, of love over wrath.
 
   Editions of Boehme's works were published by H. Betke (Amsterdam,
@@ -208,7 +208,7 @@ to exhibit the eternal victory of good over evil, of love over wrath.
   (complete, by W. v. Bayerland, 1634-1641), and French (by Jean Macle,
   c. 1640, and L.C. de Saint-Martin, 1800-1809). Between 1644 and 1662
   all Boehme's works were translated by John Ellistone (d. 1652) and
-  John Sparrow, assisted by Durand Hotham and Humphrey Blunden, who paid
+  John Sparrow, assisted by [[Durand]] Hotham and Humphrey Blunden, who paid
   for the undertaking. At that time regular societies of _Behmenists_,
   embracing not only the cultivated but the vulgar, existed in England
   and in Holland. They merged into the Quaker movement, holding already
@@ -218,11 +218,11 @@ to exhibit the eternal victory of good over evil, of love over wrath.
   of Quakers (e.g. J. Anderdon). Muggleton led an anthropomorphic
   reaction against them, and between the two currents they were swept
   away. The Philadelphian Society at the beginning of the 18th century
-  consisted of cultured mystics, Jane Lead, Pordage, Francis Lee,
+  consisted of cultured mystics, Jane Lead, Pordage, Francis [[Lee]],
   Bromley, &c., who fed upon Boehme. William Law (1686-1761) somewhat
   later recurred to the same spring, with the result, however, in those
   dry times of bringing his own good sense into question rather than of
-  reviving the credit of his author. After Law's death the old English
+  reviving the [[Credit|credit]] of his author. After Law's death the old English
   translation was in great part re-edited (4 vols., 1762-1784) as a
   tribute to his memory, by George Ward and Thomas Langcake, with plates
   from the designs of D.A. Freher (Brit. Mus. Add. MSS. 5767-5794). This
@@ -232,11 +232,11 @@ to exhibit the eternal victory of good over evil, of love over wrath.
   See also J. Hambetger, _Die Lehre des deutschen Philosophen J.
   Boehmes_ (1844); Alb. Peip, _J. Boehme der deutsche Philosoph_ (1860);
   von Harless, _J. Boehme und die Alchimisten_ (1870, 2nd ed. 1882). For
-  Boehme's life see the _Memoirs_ by Abraham von Frankenberg (d. 1652)
-  and others, trans, by F. Okely (1870); La Motte Fouque, _J. Boehm, ein
+  Boehme's life see the _Memoirs_ by Abraham von [[Frankenberg]] (d. 1652)
+  and others, trans, by F. Okely (1870); [[La Motte]] Fouque, _J. Boehm, ein
   biographischer Denkstein_ (1831); H.A. Fechner, _J. Boehme, sein Leben
-  und seine Schriften_ (1857); H.L. Martensen, _J. Boehme, Theosophiske
-  Studier_ (Copenhagen, 1881; English trans. 1885); J. Claassen, _J.
+  und seine Schriften_ (1857); H.L. [[Martensen]], _J. Boehme, Theosophiske
+  Studier_ ([[Copenhagen]], 1881; English trans. 1885); J. Claassen, _J.
   Boehme, sein Leben und seine theosophische Werke_ (Gutersloh, 1885);
   P. Deussen, _J. Boehme, uber sein Leben und seine Philosophie_ (Kiel,
   1897).

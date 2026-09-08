@@ -12,7 +12,7 @@ necessarily, as a rule, that of a British gardener.
 PART I.--PRINCIPLES OR SCIENCE OF HORTICULTURE
 
 Horticulture, apart from the mechanical details connected with the
-maintenance of a garden and its appurtenances, may be considered as the
+[[Maintenance|maintenance]] of a garden and its [[Appurtenances|appurtenances]], may be considered as the
 application of the principles of plant physiology to the cultivation of
 plants from all parts of the globe, and from various altitudes, soils
 and situations. The lessons derived from the abstract principles
@@ -23,9 +23,9 @@ fact that such plants are subjected to conditions more or less unnatural
 to them, and that they are grown for special purposes which are at
 variance, in degree at any rate, with their natural requirements.
 
-The life of the plant (see PLANTS) makes itself manifest in the
+The life of the plant (see PLANTS) makes itself [[Manifest|manifest]] in the
 processes of growth, development and reproduction. By growth is here
-meant mere increase in bulk, and by development the series of gradual
+meant mere increase in bulk, and by development the series of [[Gradual|gradual]]
 modifications by which a plant, originally simple in its structure and
 conformation, becomes eventually complicated, and endowed with distinct
 parts or organs. The reproduction of the higher plants takes place
@@ -44,7 +44,7 @@ from previous experience, especially with regard to allied forms, will
 go far to supply such deficiencies. Moreover, it must be remembered that
 the conditions most favourable to plants are not always those to which
 they are subjected in nature, for, owing to the competition of other
-forms in the struggle for existence, liability to injury from insects,
+forms in the struggle for existence, liability to injury from [[Insect|insects]],
 and other adverse circumstances, plants may actually be excluded from
 the localities best suited for their development. The gardener therefore
 may, and does, by modifying, improve upon the conditions under which a
@@ -93,7 +93,7 @@ of article on BOTANY).
   which results in the development of a mass of fine feeding roots.
   Moreover, there is a generally recognised quasi-antagonism between the
   vegetative and reproductive processes, so that, other things being
-  equal, anything that checks the one helps forward the other.
+  equal, anything that checks the one [[Helps|helps]] forward the other.
 
   _Watering._--So far as practical gardening is concerned, feeding by
   the roots after they have been placed in suitable soil is confined
@@ -130,7 +130,7 @@ of article on BOTANY).
   cease after the ripening of the seed, whilst in plants of longer
   duration layer after layer of strong woody tissue is formed, which
   enables them to bear the strains which the weight of foliage and the
-  exposure to wind entail. The gardener aims usually at producing stout,
+  exposure to wind [[Entail|entail]]. The gardener aims usually at producing stout,
   robust, short-jointed stems, instead of long lanky growths defective
   in woody tissue. To secure these conditions free exposure to light and
   air is requisite; but in the case of coppices and woods, or where long
@@ -143,7 +143,7 @@ of article on BOTANY).
   the processes of nutrition, respiration and transpiration. Nutri tion
   (assimilation) by the leaves includes the inhalation of air, and the
   interaction under the influence of light and in the presence of
-  chlorophyll of the carbon dioxide of the air with the water received
+  chlorophyll of the [[Carbon|carbon]] dioxide of the air with the water received
   from the root, to form carbonaceous food. Respiration in plants, as in
   other organisms, is a process that goes on by night as well as by day
   and consists in plants in the breaking up of the complex carbonaceous
@@ -153,9 +153,9 @@ of article on BOTANY).
   of energy in the form of heat, and the exhalation of carbon dioxide
   and water vapour. Transpiration is loss of water by the plant by
   evaporation, chiefly from the minute pores or stomata on the leaves.
-  In xerophytic plants (_e.g._ cacti, euphorbias, &c.) from hot, dry and
+  In xerophytic plants (_e.g._ cacti, [[Euphorbia|euphorbias]], &c.) from hot, dry and
   almost waterless regions where evaporation would be excessive, the
-  leaf surface, and consequently the number of stomata, are reduced to a
+  [[Leaf|leaf]] surface, and consequently the number of stomata, are reduced to a
   minimum, as it would be fatal to such plants to exhale vapour as
   freely in those regions as the broad-leaved plants that grow in places
   where there is abundance of moisture. Although transpiration is a
@@ -173,13 +173,13 @@ of article on BOTANY).
   consequence in the operations of pruning and training. Flower-buds are
   produced either on the old wood, _i.e._ the shoots of the past year's
   growth, or on a shoot of the present year. The peach, horse-chestnut,
-  lilac, morello cherry, black currant, rhododendron and many other
+  [[Lilac|lilac]], morello cherry, black currant, rhododendron and many other
   trees and shrubs develop flower-buds for the next season speedily
   after blossoming, and these may be stimulated into premature growth.
   The peculiar short, stunted branches or "spurs" which bear the
-  flower-buds of the pear, apple, plum, sweet cherry, red currant,
-  laburnum, &c., deserve special attention. In the rose, passion-flower,
-  clematis, honeysuckle, &c., in which the flower-buds are developed at
+  flower-buds of the pear, [[Apple|apple]], plum, sweet cherry, red currant,
+  [[Laburnum|laburnum]], &c., deserve special attention. In the rose, passion-flower,
+  clematis, [[Honeysuckle|honeysuckle]], &c., in which the flower-buds are developed at
   the ends of the young shoot of the year, we have examples of plants
   destitute of flower-buds during the winter.
 
@@ -192,7 +192,7 @@ of article on BOTANY).
   a matter of familiar observation that the ends of the shoots of
   brambles take root when bent down to the ground. In some instances
   buds form on the roots, and may be used for purposes of propagation,
-  as in the Japan quince, the globe thistle, the sea holly, some sea
+  as in the [[Japan]] quince, the globe thistle, the sea [[Holly|holly]], some sea
   lavenders, _Bocconia_, _Acanthus_, &c. Of the tendency in buds to
   assume an independent existence gardeners avail themselves in the
   operations of striking "cuttings," and making "layers" and "pipings,"
@@ -203,13 +203,13 @@ of article on BOTANY).
   evaporation from the surface is prevented. For some cuttings, pots
   filled with light soil, with the protection of the propagating-house
   and of bell-glasses, are requisite; but for many of our hardy
-  deciduous trees and shrubs no such precautions are necessary, and the
+  [[Deciduous|deciduous]] trees and shrubs no such precautions are necessary, and the
   insertion of a short shoot about half its length into moist and gritty
   ground at the proper season suffices to ensure its growth. In the case
   of the more delicate plants, the formation of roots is preceded by the
   production from the cambium of the cuttings of a succulent mass of
   tissue, the _callus_. It is important in some cases, _e.g._ zonal
-  pelargoniums, fuchsias, shrubby calceolarias, dahlias, carnations,
+  pelargoniums, [[Fuchsia|fuchsias]], shrubby [[Calceolaria|calceolarias]], [[Dahlia|dahlias]], carnations,
   &c., to retain on the cutting some of its leaves, so as to supply the
   requisite food for storage in the callus. In other cases, where the
   buds themselves contain a sufficiency of nutritive matter for the
@@ -241,7 +241,7 @@ of article on BOTANY).
   of the same or allied species or variety. The outer bark of each being
   removed, the two shoots are kept in contact by ligature until union is
   established, when the scion is completely severed from its original
-  attachments. This operation is varied in detail according to the kind
+  [[Attachment|attachments]]. This operation is varied in detail according to the kind
   of plant to be propagated, but it is essential in all cases that the
   affinity between the two plants be near, that the union be neatly
   effected, and that the ratio as well as the season of growth of stock
@@ -251,12 +251,12 @@ of article on BOTANY).
   scientific experiment. The object of grafting is to expedite and
   increase the formation of flowers and fruit. Strong-growing pears, for
   instance, are grafted on the quince stock in order to restrict their
-  tendency to form "gross" shoots and a superabundance of wood in place
+  tendency to form "[[Gross|gross]]" shoots and a superabundance of wood in place
   of flowers and fruit. Apples, for the same reason, are "worked" on the
   "paradise" or "doucin" stocks, which from their influence on the scion
   are known as dwarfing stocks. Scions from a tree which is weakly, or
-  liable to injury by frosts, are strengthened by engrafting on robust
-  stocks. Lindley has pointed out that, while in Persia, its native
+  liable to injury by [[Frost|frosts]], are strengthened by engrafting on robust
+  stocks. [[Lindley]] has pointed out that, while in Persia, its native
   country, the peach is probably best grafted on the peach, or on its
   wild type the almond, in England, where the summer temperature of the
   soil is much lower than that of Persia, it might be expected, as
@@ -268,7 +268,7 @@ of article on BOTANY).
   Garden at Chiswick, it was found that where the soil is loamy, or
   light and slightly enriched with decayed vegetable matter, the apple
   succeeds best on the doucin stock, and the pear on the quince; and
-  where it is chalky it is preferable to graft the apple on the crab,
+  where it is chalky it is preferable to graft the apple on the [[Crab|crab]],
   and the pear on the wild pear. For the plum on loamy soils the plum,
   and on chalky and light soils the almond, are the most desirable
   stocks, and for the cherry on loamy or light rich soils the wild
@@ -303,8 +303,8 @@ of article on BOTANY).
   to some extent enter the stock. It is clear, nevertheless, from
   examination that as a rule the wood of the stock and the wood of the
   scion retain their external characters year by year without change.
-  Still, as in the laburnum just mentioned, in the variegated jasmine
-  and in _Abutilon Darwinii_, in the copper beech and in the
+  Still, as in the laburnum just mentioned, in the variegated [[Jasmine|jasmine]]
+  and in _Abutilon Darwinii_, in the copper [[Beech|beech]] and in the
   horse-chestnut, the influence of a variegated scion has occasionally
   shown itself in the production from the stock of variegated shoots. At
   a meeting of the Scottish Horticultural Association (see _Gard.
@@ -358,13 +358,13 @@ of article on BOTANY).
   appliances made use of in lifting and transporting them. The smaller
   the tree the more successfully can it be removed. The more
   argillaceous and the less siliceous the soil the more readily can
-  balls of earth be retained about the roots. All planters lay great
+  [[Ball|balls]] of earth be retained about the roots. All planters lay great
   stress on the preservation of the fibrils; the point principally
   disputed is to what extent they can with safety be allowed to be cut
   off in transplantation. Trees and shrubs in thick plantations, or in
-  sheltered warm places, are ill fitted for planting in bleak and cold
+  sheltered warm places, are ill fitted for planting in [[Bleak|bleak]] and cold
   situations. During their removal it is important that the roots be
-  covered, if only to prevent desiccation by the air. Damp days are
+  covered, if only to prevent [[Desiccation|desiccation]] by the air. Damp days are
   therefore the best for the operation; the dryest months are the most
   unfavourable. Though success in transplanting depends much on the
   humidity of the atmosphere, the most important requisite is warmth in
@@ -420,7 +420,7 @@ of article on BOTANY).
   of buds or shoots on a given plant. An inferior variety of pear, for
   instance, may suddenly produce a shoot bearing fruit of superior
   quality; a beech tree, without obvious cause, a shoot with finely
-  divided foliage; or a camellia an unwontedly fine flower. When removed
+  divided foliage; or a camellia an unwontedly fine [[Flower|flower]]. When removed
   from the plant and treated as cuttings or grafts, such sports may be
   perpetuated. Many garden varieties of flowers and fruits have thus
   originated. The cause of their production is very obscure.
@@ -439,7 +439,7 @@ of article on BOTANY).
   leaf-form, do not carry on those processes for which the presence of
   chlorophyll is essential; and the floral organs may, therefore, in a
   rough sense, be said to be parasitic upon the green parts. A check or
-  arrest of growth in the vegetative organs seems to be a necessary
+  [[Arrest|arrest]] of growth in the vegetative organs seems to be a necessary
   preliminary to the development of the flower.
 
   A diminished supply of water at the root is requisite, so as to check
@@ -503,7 +503,7 @@ of article on BOTANY).
   market.
 
   _Double Flowers._--The taste of the day demands that "double flowers"
-  should be largely grown. Though in many instances, as in hyacinths,
+  should be largely grown. Though in many instances, as in [[Hyacinth|hyacinths]],
   they are less beautiful than single ones, they always present the
   advantage of being less evanescent. Under the vague term "double" many
   very different morphological changes are included. The flower of a
@@ -550,11 +550,11 @@ of article on BOTANY).
   fertilization was rendered possible, ripe berries, before unknown,
   became common ornaments of the shrub.
 
-  The conveyance of pollen from one flower to another in
+  The [[Conveyance|conveyance]] of pollen from one flower to another in
   cross-fertilization is effected naturally by the wind, or by the
   agency of insects and other creatures. Flowers that require the aid of
   insects usually offer some attraction to their visitors in the shape
-  of bright colour, fragrance or sweet juices. The colour and markings
+  of [[Bright|bright]] colour, fragrance or sweet juices. The colour and markings
   of a flower often serve to guide the insects to the honey, in the
   obtaining of which they are compelled either to remove or to deposit
   pollen. The reciprocal adaptations of insects and flowers demand
@@ -630,7 +630,7 @@ of article on BOTANY).
   tendency to "sport" or revert to parental or ancestral
   characteristics. So markedly is this the case with hybrids that in a
   few generations all traces of a hybrid origin may disappear. The
-  dissociation of the hybrid element in a plant must be obviated by
+  [[Dissociation|dissociation]] of the hybrid element in a plant must be obviated by
   careful selection. The researches of Gregor Johann Mendel (1822-1884),
   abbot of the Augustinian monastery at Brunn, in connexion with peas
   and other plants, apparently indicate that there is a definite natural
@@ -656,7 +656,7 @@ of article on BOTANY).
   germination are much the same as for growth in general. Access to
   light is not required, because the seed contains a sufficiency of
   stored-up food. The temperature necessary varies according to the
-  nature and source of the seed. Some seeds require prolonged immersion
+  nature and source of the seed. Some seeds require prolonged [[Immersion|immersion]]
   in water to soften their shells; others are of so delicate a texture
   that they would dry up and perish if not kept constantly in a moist
   atmosphere. Seeds buried too deeply receive a deficient supply of air.
@@ -723,7 +723,7 @@ of greater or less breadth, and in laying out these plots there is
 generally a smaller space left in the front of the villa residence and a
 larger one behind, the front plot being usually devoted to approaches,
 shrubbery and plantations, flower beds being added if space permits,
-while the back or more private plot has a piece of lawn grass with
+while the back or more private plot has a piece of [[Lawn|lawn]] grass with
 flower beds next the house, and a space for vegetables and fruit trees
 at the far end, this latter being shut off from the lawn by an
 intervening screen of evergreens or other plants. Between these two
@@ -744,10 +744,10 @@ well also to have an open exposure towards the east and west, so that
 the garden may enjoy the full benefit of the morning and evening sun,
 especially the latter; but shelter is desirable on the north and
 north-east, or in any direction in which the particular locality may
-happen to be exposed. In some places the south-western gales are so
+happen to be exposed. In some places the south-western [[Gale|gales]] are so
 severe that a belt of trees is useful as a break wind and shelter.
 
-_Soil and Subsoil._--A hazel-coloured loam, moderately light in texture,
+_Soil and Subsoil._--A hazel-coloured [[Loam|loam]], moderately light in texture,
 is well adapted for most garden crops, whether of fruits or vegetables,
 especially a good warm deep loam resting upon chalk; and if such a soil
 occurs naturally in the selected site, but little will be required in
@@ -769,7 +769,7 @@ various kinds of rocks, the bulk consisting of clay, silica and lime, in
 various proportions. As regards preparation, draining is of course of
 the utmost importance. The ground should also be trenched to the depth
 of 3 ft. at least, and the deeper the better so as to bring up the
-subsoil--whether it be clay, sand, gravel, marl, &c.--for exposure to
+subsoil--whether it be clay, sand, gravel, [[Marl|marl]], &c.--for exposure to
 the weather and thus convert it from a sterile mass into a living soil
 teeming with bacteria. In this operation all stones larger than a man's
 fist must be taken out, and all roots of trees and of perennial weeds
@@ -786,7 +786,7 @@ as possible to the action of the winter's frost.
   ballast or sand, but when thoroughly improved they are very fertile
   and less liable to become exhausted than most other soils. Loamy soils
   contain a considerable quantity (30-45%) of clay, and smaller
-  quantities of lime, humus and sand. Such soils properly drained and
+  quantities of lime, [[Humus|humus]] and sand. Such soils properly drained and
   prepared are very suitable for orchards, and when the proportion of
   clay is smaller (20-30%) they form excellent garden soils, in which
   the better sort of fruit trees luxuriate. Marly soils are those which
@@ -824,13 +824,13 @@ best of all subsoils is a dry bed of clay overlying sandstone.
 
 _Plan._--In laying out the garden, the plan should be prepared in minute
 detail before commencing operations. The form of the kitchen and fruit
-garden should be square or oblong, rather than curvilinear, since the
+garden should be square or oblong, rather than [[Curvilinear|curvilinear]], since the
 working and cropping of the ground can thus be more easily carried out.
 The whole should be compactly arranged, so as to facilitate working, and
 to afford convenient access for the carting of the heavy materials. This
 access is especially desirable as regards the store-yards and framing
 ground, where fermenting manures and tree leaves for making up hot beds,
-coals or wood for fuel and ingredients for composts, together with
+coals or wood for [[Fuel|fuel]] and ingredients for composts, together with
 flower-pots and the many necessaries of garden culture, have to be
 accommodated. In the case of villas or picturesque residences, gardens
 of irregular form may be permitted; when adapted to the conditions of
@@ -851,7 +851,7 @@ houses for ornamental plants are sometimes attached; but a more
 appropriate site for the latter is the flower garden, when that forms a
 separate department. It is well, however, that everything connected with
 the forcing of fruits or flowers should be concentrated in one place.
-The frame ground, including melon and pine pits, should occupy some
+The [[Frame|frame]] ground, including melon and pine pits, should occupy some
 well-sheltered spot in the slips, or on one side of the garden, and
 adjoining to this may be found a suitable site for the compost ground,
 in which the various kinds of soils are kept in store, and in which also
@@ -881,7 +881,7 @@ affords a greater extent of south wall than any other.
   the south; and it admits of being divided into equal principal
   compartments, each of which forms nearly a square. The size of course
   can be increased to any requisite extent. That of the royal gardens at
-  Frogmore, 760 ft. from east to west and 440 ft. from north to south,
+  [[Frogmore]], 760 ft. from east to west and 440 ft. from north to south,
   is nearly of the same proportions.
 
 The spaces between the walls and the outer fence are called "slips." A
@@ -898,7 +898,7 @@ considerable distance so as not to shade the walls or fruit trees. They
 should not be nearer than, say, 50 yds., and may vary from that to 100
 or 150 yds. distance according to circumstances, regard being had
 especially to peculiarities occasioned by the configuration of the
-country, as for instance to aerial currents from adjacent eminences.
+country, as for instance to aerial currents from adjacent [[Eminence|eminences]].
 Care should be taken, however, not to hem in the garden by crowded
 plantations, shelter from the prevailing strong winds being all that is
 required, while the more open it is in other directions the better. The
@@ -951,7 +951,7 @@ water supplied without stint.
 
 _Fence._--Gardens of large extent should be encircled by an outer
 boundary, which is often formed by a sunk wall or ha-ha surrounded by an
-invisible wire fence to exclude ground game, or consists of a hedge with
+invisible wire fence to exclude ground [[Game|game]], or consists of a hedge with
 low wire fence on its inner side. Occasionally this sunk wall is placed
 on the exterior of the screen plantations, and walks lead through the
 trees, so that views are obtained of the adjacent country. Although the
@@ -972,7 +972,7 @@ _Walks._--The best material for the construction of garden walks is good
 binding gravel. The ground should be excavated to the depth of a foot or
 more--the bottom being made firm and slightly concave, so that it may
 slope to the centre, where a drain should be introduced; or the bottom
-may be made convex and the water allowed to drain away at the sides. The
+may be made [[Convex|convex]] and the water allowed to drain away at the sides. The
 bottom 9 in. should be filled in compactly with hard, coarse materials,
 such as stones, brickbats, clinkers, burned clay, &c., on which should
 be laid 2 or 3 in. of coarse gravel, and then 1 or 2 in. of firm binding
@@ -1002,30 +1002,30 @@ parts. They give an old-fashioned and restful appearance to a garden,
 and in the interstices charming little plants like thyme, _Ionopsidium
 acaule_, &c., are allowed to grow.
 
-_Edgings._--Walks are separated from the adjoining beds and borders in a
+_Edgings._--Walks are separated from the adjoining beds and [[Borders|borders]] in a
 variety of ways. If a living edging is adopted, by far the best is
-afforded by the dwarf box planted closely in line. It is of extremely
+afforded by the dwarf [[Box|box]] planted closely in line. It is of extremely
 neat growth, and when annually clipped will remain in good order for
 many years. Very good edgings, but of a less durable character, are
-formed by thrift (_Armeria vulgaris_), double daisy (_Bellis perennis_),
+formed by thrift (_Armeria vulgaris_), double [[Daisy|daisy]] (_[[Belli|Bellis]] perennis_),
 gentianella (_Gentiana acaulis_) and London pride (_Saxifraga umbrosa_),
 _Cerastium tomentosum_, _Stachys lavata_ and the beautiful evergreen
 _Veronica rupestris_ with sheets of bright blue flowers close to the
-ground, or by some of the finer grasses very carefully selected, such as
+ground, or by some of the finer [[Grasses|grasses]] very carefully selected, such as
 the sheep's fescue (_Festuca ovina_) or its glaucous-leaved variety.
 Indeed, any low-growing herbaceous plant, susceptible of minute
 division, is suitable for an edging. Amongst shrubby plants suitable for
-edgings are the evergreen candytuft (_Iberis sempervirens_), _Euonymus
+edgings are the evergreen [[Candytuft|candytuft]] (_Iberis sempervirens_), _Euonymus
 radicans variegata_, ivy, and _Euonymus microphyllus_--a charming little
 evergreen with small serrated leaves. Edgings may also be formed of
-narrow slips of sandstone flag, slate, tiles or bricks. One advantage of
+narrow slips of sandstone [[Flag|flag]], slate, tiles or [[Brick|bricks]]. One advantage of
 using edgings of this kind, especially in kitchen gardens, is that they
 do not harbour slugs and similar vermin, which all live edgings do, and
 often to a serious extent, if they are left to grow large. In
 shrubberies and large flower-plots, verges of grass-turf, from 1 to 3
 ft. in breadth, according to the size of the border and width of the
 walk, make a very handsome edging, but they should not be allowed to
-rise more than an inch and a half above the gravel, the grass being kept
+rise more than an [[Inch|inch]] and a half above the gravel, the grass being kept
 short by repeated mowings, and the edges kept trim and well-defined by
 frequently clipping with shears and cutting once or twice a year with an
 edging iron.
@@ -1066,7 +1066,7 @@ warmer, as well as more substantial. Bricks cannot be too well burnt for
 garden walls; the harder they are the less moisture will they absorb.
 Many excellent walls are built of stone. The best is dark-coloured
 whinstone, because it absorbs very little moisture, or in Scotland
-Caithness pavement 4 in. thick. The stones can be cut (in the quarries)
+[[Caithness]] pavement 4 in. thick. The stones can be cut (in the quarries)
 to any required length, and built in regular courses. Stone walls should
 always be built with thin courses for convenience of training over their
 surface. Concrete walls, properly coped and provided with a trellis, may
@@ -1138,7 +1138,7 @@ constructed.
   Botanic Garden at Chelsea, were among the first structures of the kind
   erected in British gardens. These were, however, ill adapted for the
   growth of plants, as they consisted of little else than a huge chamber
-  of masonry, having large windows in front, with the roof invariably
+  of [[Masonry|masonry]], having large windows in front, with the roof invariably
   opaque. The next step was taken when it became fashionable to have
   conservatories attached to mansions, instead of having them in the
   pleasure grounds. This arrangement brought them within the province of
@@ -1189,7 +1189,7 @@ scarcely admits of elegance of design, but it is necessarily adopted in
 many cases.
 
 In glazing, the greater the surface of glass, and the less space
-occupied by rafters and astragals as well as overlaps, the greater the
+occupied by rafters and [[Astragal|astragals]] as well as overlaps, the greater the
 admission of light. Some prefer that the sash-bars should be grooved
 instead of rebated, and this plan exposes less putty to the action of
 the weather. The simple bedding of the glass, without the use of over
@@ -1197,11 +1197,11 @@ putty, seems to be widely approved; but the glass may be fixed in a
 variety of other ways, some of which are patented.
 
   The _Conservatory_ is often built in connexion with the mansion, so as
-  to be entered from the drawing-room or boudoir. But when so situated
+  to be entered from the [[Drawing-Room|drawing-room]] or boudoir. But when so situated
   it is apt to suffer from the shade of the building, and is
   objectionable on account of admitting damp to the drawing-room. Where
   circumstances will admit, it is better to place it at some distance
-  from the house, and to form a connexion by means of a glass corridor.
+  from the house, and to form a connexion by means of a glass [[Corridor|corridor]].
   In order that the conservatory may be kept gay with flowers, there
   should be a subsidiary structure to receive the plants as they go out
   of bloom. The conservatory may also with great propriety be placed in
@@ -1224,7 +1224,7 @@ variety of other ways, some of which are patented.
 
   [Illustration: FIG. 3.--Section of Greenhouse.]
 
-  The _Greenhouse_ is a structure designed for the growth of such exotic
+  The _Greenhouse_ is a structure designed for the growth of such [[Exotic|exotic]]
   plants as require to be kept during winter in a temperature
   considerably above the freezing-point. The best form is the
   span-roofed, a single span being better even than a series of spans
@@ -1250,7 +1250,7 @@ variety of other ways, some of which are patented.
   larger structures. The smaller houses are far better for cultural
   purposes, while the plants can be classified, and the little details
   of management more conveniently attended to. Pelargoniums, cinerarias,
-  calceolarias, cyclamens, camellias, heaths, roses and other
+  calceolarias, [[Cyclamen|cyclamens]], camellias, heaths, roses and other
   specialities might thus have to themselves either a whole house or
   part of a house, the conditions of which could then be more accurately
   fitted to the wants of the inmates.
@@ -1266,7 +1266,7 @@ variety of other ways, some of which are patented.
   [Illustration: FIG. 4.--Section of Plant Stove.]
 
   Where the cultivation of large specimens has to be carried on, a
-  span-roofed house of greater height and larger dimensions may
+  span-roofed house of greater height and larger [[Dimension|dimensions]] may
   sometimes prove useful; but space for this class of plants may
   generally be secured in a house of the smaller elevation, simply by
   lowering or removing altogether the staging erected for smaller
@@ -1283,7 +1283,7 @@ variety of other ways, some of which are patented.
   pathway of 3 ft. and a central stage on two levels of 6 ft. wide, will
   be preferable, because more easily managed as to the supply of heat
   and moisture. It will be seen (fig. 4) that along the ridge of the
-  roof a raised portion or lantern light b, b is introduced, which
+  roof a raised portion or [[Lantern|lantern]] light b, b is introduced, which
   permits of the fixing of two continuous ventilators, one along each
   side, for the egress of heated and foul air, openings a, a being also
   provided in the side walls opposite the hot-water pipes for the
@@ -1376,7 +1376,7 @@ matter of great importance for forcing purposes.
   small houses being preferable to larger ones. As a very high
   temperature is not required, two or three pipes running the whole
   length of the house will suffice. The front wall should be built on
-  piers and arches to allow the roots to pass outwards into a prepared
+  piers and [[Arches|arches]] to allow the roots to pass outwards into a prepared
   border, the trees being planted just within the house. Abundant means
   of ventilation should be provided.
 
@@ -1470,7 +1470,7 @@ or two which can be recommended for general purposes.
 
   An excellent pit for wintering bedding-out plants or young greenhouse
   stock is shown at fig. 10. It is built upon the pigeon-hole principle
-  as high as the ground level a, a, and above that in 9-in. brickwork.
+  as high as the ground level a, a, and above that in 9-in. [[Brickwork|brickwork]].
   At a distance of 9 in. retaining walls b, b are built up to the ground
   level, and the spaces between the two are covered by thick boarding,
   which is to be shut down as shown at c in cold weather to exclude
@@ -1542,7 +1542,7 @@ may also be adopted, especially if the building stands apart.
   intervals between the supports, which will be found convenient for
   filling and emptying the beds. The roof may be tiled or slated; but,
   to prevent the injurious influence of hot sun, there should be an
-  inner roof or ceiling d, the space between which and the outer roof e
+  inner roof or [[Ceiling|ceiling]] d, the space between which and the outer roof e
   should be packed with sawdust. A hot-water pipe f should run along
   both sides of the pathway, close to the front ledge of the lowest
   beds. The different shelves can be planted in succession; and the
@@ -1562,7 +1562,7 @@ roof--while the interior is matchboarded. Ventilation is afforded at the
 ends, usually by tilting laths, operated by a cord. Two doors are
 provided at one end--an inner, and an outer--the inner being glazed at
 the top to admit light. They are generally span-roofed, about 6 ft. high
-at the eaves, and 8 or 10 ft. high at the ridge, according to width.
+at the [[Eaves|eaves]], and 8 or 10 ft. high at the ridge, according to width.
 
   The length and breadth of these stores should be governed by the
   amount and character of the storage accommodation to be provided. If
@@ -1575,7 +1575,7 @@ at the eaves, and 8 or 10 ft. high at the ridge, according to width.
   sliding-out trays of convenient lengths and about 9 in. deep, working
   on fixed framework. By this means the storage accommodation is nearly
   doubled and the fruit is more easily manipulated. The central gangway
-  is about 3 ft. 6 in. wide. In the latter a central exhibition bench
+  is about 3 ft. 6 in. wide. In the latter a central exhibition [[Bench|bench]]
   about 3 ft. wide and of convenient height is provided. Gangways 2(1/2)
   ft. wide flank this, while the shelves or drawers with which the walls
   are fitted are about 2(1/2) ft. wide.
@@ -1585,7 +1585,7 @@ at the eaves, and 8 or 10 ft. high at the ridge, according to width.
   ventilation, especially in the presence of large quantities of
   newly-gathered fruit; in the prompt removal of all decaying fruit; and
   in the exclusion of vermin. It is also advisable to wash all woodwork
-  and gangways annually with a weak solution of formalin, or other
+  and gangways annually with a weak solution of [[Formalin|formalin]], or other
   inodorous germicide.
 
 _Heating Apparatus._--Plant houses were formerly heated in a variety of
@@ -1593,7 +1593,7 @@ ways--by fermenting organic matter, such as dung, by smoke flues, by
 steam and by hot water circulating in iron pipes. The last-named method
 has proved so satisfactory in practice that it is now in general use for
 all ordinary purposes. The water is heated by a furnace, and is conveyed
-from the boiler into the houses by a main or "flow" pipe, connected by
+from the [[Boiler|boiler]] into the houses by a main or "flow" pipe, connected by
 means of syphon branches with as many pipes as it is intended to serve.
 When cooled it is returned to the boiler by another main or "return"
 pipe. Heat is regulated in the structures by means of valves on the
@@ -1606,7 +1606,7 @@ water may be said to depend, in part, on the influence of gravity on
 water being to some extent overcome by heating in a boiler. It ascends
 the flow pipe by convection, where its onward journey would speedily end
 if it were not for the driving force of other molecules of water
-following, and the suction set up by the gravitation into the boiler of
+following, and the suction set up by the [[Gravitation|gravitation]] into the boiler of
 the cooled water by the return pipe. The power of water to conduct heat
 is very low. The conducting power of the iron in which it is conveyed is
 high. It is, however, probable that conduction is to some extent a
@@ -1624,7 +1624,7 @@ factor in the process.
   under the beds, or are (c) embedded in the soil or plunging material.
   The first-named method is distinctly superior to the others. Pipes of
   2 in., 3 in., 4 in. and 6 in. diameters are mostly used, the 4 in.
-  size being the most convenient for general purposes. The joints are
+  size being the most convenient for general purposes. The [[Joints|joints]] are
   packed or caulked with tow, smeared with a mixture of white and red
   lead. Flanged joints are made to bolt together on washers of
   vulcanized rubber.
@@ -1703,7 +1703,7 @@ factor in the process.
   are much more convenient and economical than the older method of
   working each ventilator separately. Efficient ventilating can only be
   effected by the exercise of common sense and vigilance, and care must
-  be taken to avoid cold draughts through the houses.
+  be taken to avoid cold [[Draughts|draughts]] through the houses.
 
 
 III. _Garden Materials and Appliances._
@@ -1766,11 +1766,11 @@ been subjected to fermentation for the formation of hot beds. It any
 state most plants feed greedily upon it, and when pure or free from
 decaying wood or sticks it is a very safe ingredient in composts; but it
 is so liable to generate fungus, and the mycelium or spawn of certain
-fungi is so injurious to the roots of trees, attacking them if at all
+[[Fungi|fungi]] is so injurious to the roots of trees, attacking them if at all
 sickly or weakened by drought, that many cultivators prefer not to mix
 leaf-mould with the soil used for permanent plants, as peaches or choice
 ornamental trees. For quick growing plants, however, as for example most
-annuals cultivated in pots, such as balsams, cockscombs, globe-amaranths
+annuals cultivated in pots, such as [[Balsam|balsams]], cockscombs, globe-amaranths
 and the like, for cucumbers, and for young soft-wooded plants generally,
 it is exceedingly useful, both by preventing the consolidation of the
 soil and as a manure. The accumulations of light earth formed on the
@@ -1836,10 +1836,10 @@ mineral origin. The following are organic manures:
 
   _Malt-dust_ is an active manure frequently used as a top-dressing,
   especially for fruit trees in pots. It is rapid in its action, but its
-  effects are not very permanent. _Rape dust_ is somewhat similar in its
+  effects are not very permanent. _Rape [[Dust|dust]]_ is somewhat similar in its
   character and action.
 
-  _Bones_ are employed as a manure with decided advantage both to
+  _[[Bone|Bones]]_ are employed as a manure with decided advantage both to
   vegetable crops and to fruit trees, as well as to flowers. For turnips
   bone manure is invaluable. The effects of bones are no doubt mainly
   due to the phosphates they contain, and they are most effectual on dry
@@ -1862,7 +1862,7 @@ mineral origin. The following are organic manures:
   subjects if cautiously used. The dung of the domestic fowl is very
   similar in character.
 
-  _Horn_, _hoof-parings_, _woollen rags_, _fish_, _blubber_ and _blood_,
+  _[[Horn]]_, _hoof-parings_, _woollen rags_, _fish_, _blubber_ and _blood_,
   after treatment with sulphuric acid, are all good manures, and should
   be utilized if readily obtainable.
 
@@ -1871,7 +1871,7 @@ mineral origin. The following are organic manures:
   sources, is a most valuable and powerful stimulant, and can be readily
   applied to the roots of growing plants. The urine should be allowed to
   putrefy, as in its decomposition a large amount of ammonia is formed,
-  which should then be fixed by sulphuric acid or gypsum; or it may be
+  which should then be fixed by sulphuric acid or [[Gypsum|gypsum]]; or it may be
   applied to the growing crops after being freely diluted with water or
   absorbed in a compost heap. Liquid manures can be readily made from
   most of the solid manures when required, simply by admixture with
@@ -1913,9 +1913,9 @@ mineral origin. The following are organic manures:
   the soil. It induces the earlier production of flowers and fruits. In
   a natural state it is obtained from bones, guano and wood ashes; and
   in an artificial condition from basic slag or Thomas's phosphate,
-  coprolites and superphosphate of lime.
+  [[Coprolites|coprolites]] and superphosphate of lime.
 
-  _Lime_ in the caustic state is beneficially applied to soils which
+  _Lime_ in the [[Caustic|caustic]] state is beneficially applied to soils which
   contain an excess of inert vegetable matter, and hence may be used for
   the improvement of old garden soils saturated with humus, or of peaty
   soils not thoroughly reclaimed. It does not supply the place of
@@ -1930,7 +1930,7 @@ mineral origin. The following are organic manures:
 
   _Gas lime_, after it has been exposed to the air for a few months is
   an excellent manure on heavy soils. In a fresh state it is poisonous
-  and fatal to vegetation, and is often used for this reason to dress
+  and fatal to vegetation, and is often used for this reason to [[Dress|dress]]
   land infested with wireworms, grubs, club-root fungus, &c.
 
   _Burnt clay_ has a very beneficial effect on clay land by improving
@@ -1949,17 +1949,17 @@ mineral origin. The following are organic manures:
   terrible diseases to which they are subject. The refuse of such plants
   should be burned as early as possible. The ash may be used as manure.
 
-  _Soot_ forms a good top-dressing; it consists principally of charcoal,
+  _Soot_ forms a good top-dressing; it consists principally of [[Charcoal|charcoal]],
   but contains ammonia and a smaller proportion of phosphates and
   potash, whence its value as a manure is derived. It should be kept dry
   until required for use. It may also be used beneficially in preventing
-  the attacks of insects, such as the onion gnat and turnip fly, by
+  the attacks of insects, such as the onion [[Gnat|gnat]] and turnip [[Fly|fly]], by
   dusting the plants or dressing the ground with it.
 
   _Common salt_ acts as a manure when used in moderate quantities, but
   in strong doses is injurious to vegetation. It suits many of the
-  esculent crops, as onions, beans, cabbages, carrots, beet-root,
-  asparagus, &c.; the quantity applied varies from 5 to 10 bushels per
+  esculent crops, as onions, [[Bean|beans]], cabbages, carrots, beet-root,
+  [[Asparagus|asparagus]], &c.; the quantity applied varies from 5 to 10 [[Bushel|bushels]] per
   acre. It is used as a top-dressing sown by the hand. Hyacinths and
   other bulbs derive benefit from slight doses, while to asparagus as
   much as 20 lb. to the rood has been used with beneficial effect. At
@@ -1972,8 +1972,8 @@ mineral origin. The following are organic manures:
   gravel so treated becomes pasty.
 
 _Garden Tools, &c._--Most of these are so well known that we shall not
-discuss them here. They are, moreover, illustrated and described in the
-catalogues of most nurserymen and dealers in horticultural sundries.
+[[Discus|discuss]] them here. They are, moreover, illustrated and described in the
+[[Catalogue|catalogues]] of most nurserymen and dealers in horticultural sundries.
 
 _Tallies or Labels._--The importance of properly labelling plants can
 hardly be over-estimated. For ordinary purposes labels of wood of
@@ -2040,7 +2040,7 @@ this, various processes are adopted, which will now be described.
   destroyed, and this induces the formation of a larger number of
   offsets. The stem bulbs of lilies are similar in character to the
   offsets from the parent bulb. The same mode of increase occurs in the
-  gladiolus and crocus, but their bulb-like permanent parts are called
+  [[Gladiolus|gladiolus]] and crocus, but their bulb-like permanent parts are called
   corms, not bulbs. After they have ripened in connexion with the parent
   bulb, the offsets are taken off, stored in appropriate places, and at
   the proper season planted out in nursery beds.
@@ -2062,15 +2062,15 @@ this, various processes are adopted, which will now be described.
   with ordinary care.
 
   4. _By Division._--Division, or partition, is usually resorted to in
-  the case of tufted growing plants, chiefly perennial herbs; they may
-  be evergreen, as chamomile or thrift, or when dormant may consist only
+  the case of tufted growing plants, chiefly perennial [[Herb|herbs]]; they may
+  be evergreen, as [[Chamomile|chamomile]] or thrift, or when dormant may consist only
   of underground crowns, as larkspur or lily-of-the-valley; but in
   either case the old tufted plant being dug up may be divided into
   separate pieces, each furnished with roots, and, when replanted,
   generally starting on its own account without much check. Suffruticose
   plants and even small shrubs may be propagated in this way, by first
   planting them deeper than they are ordinarily grown, and then after
-  the lapse of a year, which time they require to get rooted, taking
+  the [[Lapse|lapse]] of a year, which time they require to get rooted, taking
   them up again and dividing them into parts or separate plants.
   Box-edging and southernwood are examples. The same ends may sometimes
   be effected by merely working fine soil in amongst the base of the
@@ -2078,7 +2078,7 @@ this, various processes are adopted, which will now be described.
 
   5. _By Suckers._--Root suckers are young shoots from the roots of
   plants, chiefly woody plants, as may often be seen in the case of the
-  elm and the plum. The shoots when used for propagation must be
+  [[Elm|elm]] and the plum. The shoots when used for propagation must be
   transplanted with all the roots attached to them, care being taken not
   to injure the parent plant. If they spring from a thick root it is not
   to be wantonly severed, but the soil should be removed and the sucker
@@ -2090,7 +2090,7 @@ this, various processes are adopted, which will now be described.
   and they should be as thoroughly disbudded below ground as possible,
   or they are liable to continue the habit of suckering. In this case,
   too, the soil should be carefully opened and the shoots removed with a
-  suckering iron, a sharp concave implement with long iron handle (fig.
+  suckering iron, a sharp concave [[Implement|implement]] with long iron handle (fig.
   14). When the number of roots is limited, the tops should be
   shortened, and some care in watering and mulching should be bestowed
   on the plant if it is of value.
@@ -2236,7 +2236,7 @@ this, various processes are adopted, which will now be described.
   should be plunged from time to time in dry ashes, to prevent the clay
   from sticking to them. Various kinds of grafting wax are now
   obtainable, and are a great improvement upon the clay process. Some
-  cold mastics become very pliable with the warmth of the hands. They
+  cold [[Mastic|mastics]] become very pliable with the warmth of the hands. They
   are best applied with a piece of flat wood; or very liquid waxes may
   be applied with a brush.
 
@@ -2258,7 +2258,7 @@ this, various processes are adopted, which will now be described.
   cleft-grafting, inasmuch as it leaves no open spaces in the wood. The
   stock b is cut off horizontally or nearly so in January or February.
   At grafting time a slit is cut in the bark f, f, a wedge-shaped piece
-  of iron or a small chisel being inserted to raise the bark; the scion
+  of iron or a small [[Chisel|chisel]] being inserted to raise the bark; the scion
   is then cut to the same wedge-shaped form g, h, and inserted in the
   space opened for it between the alburnum and the bark, after which it
   is tied down and clayed or waxed over in the manner already described.
@@ -2330,14 +2330,14 @@ this, various processes are adopted, which will now be described.
 
   The simplest and most generally practised form of budding is that
   called _shield-budding_ or T-_budding_ (fig. 21). The operator should
-  be provided with a sharp budding knife having a thin ivory or bone
+  be provided with a sharp budding [[Knife|knife]] having a thin [[Ivory|ivory]] or bone
   handle, for raising the bark of the stock. A horizontal incision is
   made in the bark quite down to the wood, and from this a perpendicular
   slit is drawn upwards to the extent of perhaps an inch, so that the
   slit has a resemblance to the letter T, as at a. A bud is then cut by
   a clean incision from the tree intended to be propagated, having a
   portion of the wood attached to it, and so that the whole may be about
-  1 in. long, as at d. The bit of wood e must be gently withdrawn, care
+  1 in. long, as at d. The [[Bit|bit]] of wood e must be gently withdrawn, care
   being taken that the bud adheres wholly to the bark or shield, as it
   is called, of which f is a side view. The bark on each side of the
   perpendicular slit being then cautiously opened, as at b, with the
@@ -2436,7 +2436,7 @@ this, various processes are adopted, which will now be described.
 
   13. _By Leaf Cuttings._--Many plants may be propagated by planting
   their leaves or portions of the leaves as cuttings, as, for example,
-  the _Gloxinia_ (fig. 23, a) and _Gesnera_, the succulent
+  the _[[Gloxinia]]_ (fig. 23, a) and _Gesnera_, the succulent
   _Sempervivum_, _Echeveria_, _Pachyphytum_ and their allies, and such
   hard-leaved plants as _Theophrasta_ (fig. 23, b). The leaves are best
   taken off with the base whole, and should be planted in well-drained
@@ -2454,7 +2454,7 @@ this, various processes are adopted, which will now be described.
 
   14. _By Root Cuttings._--Some plants which are not easily increased by
   other means propagate readily from root cuttings. Amongst the indoor
-  plants which may be so treated, _Bouvardia_, _Pelargonium_, _Aralia_
+  plants which may be so treated, _[[Bouvardia]]_, _Pelargonium_, _Aralia_
   and _Wigandia_ may be mentioned. The _modus operandi_ is to turn the
   plant out of its pot, shake away the soil so as to free the roots, and
   then select as many pieces of the stouter roots as may be required.
@@ -2483,7 +2483,7 @@ this, various processes are adopted, which will now be described.
   most important use to which this mode of propagation is put is,
   however, the increase of roses, and of the various plums used as
   stocks for working the choicer stone fruits. The method in the latter
-  case is to select roots averaging the thickness of the little finger,
+  case is to select roots averaging the thickness of the little [[Finger|finger]],
   to cut these into lengths of about 3 or 4 in., and to plant them in
   lines just beneath the surface in nursery beds. The root cuttings of
   rose-stocks are prepared and treated in a similar way.
@@ -2529,7 +2529,7 @@ and cut through. Whenever practicable, it is best to secure a ball of
 earth round the roots. On the tree being lifted from its hole the roots
 should be examined, and all which have been severed roughly with the
 spade should have the ends cut smooth with the knife to facilitate the
-emission of fibres. The tree can then be transported to its new
+emission of [[Fibres|fibres]]. The tree can then be transported to its new
 position. The hole for its reception should be of sufficient depth to
 allow the base of the ball of earth, or of the roots, to stand so that
 the point whence the uppermost roots spring from the stem may be 2 or 3
@@ -2562,7 +2562,7 @@ transplants his stock each autumn to produce large masses of root
 fibres. Nowadays, however, quite large trees, chiefly of an ornamental
 character, and perhaps weighing several tons, are lifted with a large
 ball of soil attached to the roots, by means of a special tree-lifting
-machine, and are readily transferred from one part of the garden to
+[[Machine|machine]], and are readily transferred from one part of the garden to
 another, or even for a distance of several miles, without serious
 injury. The best season for transplanting deciduous trees is during the
 early autumn months. As regards evergreens opinions are divided, some
@@ -2657,7 +2657,7 @@ soil and fixed to blocks of wood, but in this case they require a little
 coaxing with moss about the roots until they get established. In other
 cases they are planted in open baskets of wood or wire, using the porous
 peat and sphagnum compost. Both blocks and baskets are usually suspended
-from the roof of the house, hanging free, so that no accumulation of
+from the roof of the house, [[Hanging|hanging]] free, so that no accumulation of
 water is possible. These conditions of orchid-growing have undergone
 great changes of late years, and the plants are grown much as other
 stove and greenhouse plants in ordinary pots with composts not only of
@@ -2777,7 +2777,7 @@ shoots. If these are three or four in number, and fairly balanced as to
 strength and position, little pruning will be required. The tips of
 unripened wood should be cut back about one-third their length at an
 outwardly placed bud, and the chief pruning thereafter required will be
-to cut away inwardly directed shoots which cross or crowd each other and
+to cut away inwardly directed shoots which cross or [[Crowd|crowd]] each other and
 tend to confuse the centre of the tree. Bushy heads should be thinned
 out, and those that are too large cut back so as to remodel them. If the
 shoots produced are not sufficient in number, or are badly placed, or
@@ -2929,7 +2929,7 @@ branches are produced in succession upwards till the space is filled,
 only they are not taken out so abruptly, but are allowed to rise at an
 acute angle and then to curve into the horizontal line.
 
-In all the various forms of cordons, in horizontal training, and in fan
+In all the various forms of cordons, in horizontal training, and in [[Fan|fan]]
 and half-fan training, the pruning of the main branches when the form of
 the tree is worked out will vary in accordance with the kind of fruit
 under treatment. Thus in the peach, nectarine, apricot, plum and cherry,
@@ -2979,11 +2979,11 @@ and also pyramidal and bush trees of apples, pears and plums, are mainly
 fashioned by summer pruning; in fact, the less the knife is used upon
 them, except in the necessary cutting of the roots in potted trees, the
 better. In the case of orchard-house plants no shoots are suffered to
-lengthen out, except as occasionally wanted to fill up a gap in the
+lengthen out, except as occasionally wanted to fill up a [[Gap|gap]] in the
 outline of the tree. On the contrary, the tops of all young shoots are
 pinched off when some three or four leaves are formed, and this is done
 again and again throughout the season. When this pruning is just brought
-to a balance with the vigour of the roots, the consequence is that fruit
+to a [[Balance|balance]] with the vigour of the roots, the consequence is that fruit
 buds are formed all over the tree, instead of a thicket of sterile and
 useless wood. Pyramidal and bush trees out of doors are, of course,
 suffered to become somewhat larger, and sufficient wood must be allowed
@@ -3081,7 +3081,7 @@ reached.
 
 _Ringing._--One of the expedients for inducing a state of fruitfulness
 in trees is the ringing of the branches or stem, that is, removing a
-narrow annular portion of the bark, by which means, it is said, the
+narrow [[Annular|annular]] portion of the bark, by which means, it is said, the
 trees are not only rendered productive, but the quality of the fruit is
 at the same time improved. The advantage depends on the obstruction
 given to the descent of the sap. The ring should be cut out in spring,
@@ -3203,7 +3203,7 @@ sooner or later, whereas a wire trellis is not only much neater, but
 enables the gardener to tie his trees up much more quickly.
 
 For tying plants to trellises and stakes soft tarred string or raffia
-(the fibre from the Raphia palm of Madagascar) is used.
+(the fibre from the Raphia palm of [[Madagascar]]) is used.
 
 [Illustration: FIG. 46.--Clematis trained on Balloon-Shaped Trellis.]
 
@@ -3225,15 +3225,15 @@ size, when the trellis will assume the cylindrical form. Fig. 46 shows a
 pot specimen of clematis trained, over a balloon-shaped trellis.
 
 The training of certain bedding plants over the surface of the soil is
-done by small pegs of birch wood or bracken, by loops of wire or cheap
+done by small pegs of [[Birch|birch]] wood or bracken, by loops of wire or cheap
 hair-pins, or sometimes by loops of raffia having the ends fixed in the
-soil by the aid of the dibble. The object is to fill up the blank space
+soil by the aid of the dibble. The object is to fill up the [[Blank|blank]] space
 as quickly and as evenly as possible.
 
 _Forcing_ is the accelerating, by special treatment, of the growth of
 certain plants, which are required to be had in leaf, in flower or in
 fruit before their natural season,--as, for instance, the leaves of mint
-at Eastertide or the leafstalks of sea-kale and rhubarb at Christmas,
+at Eastertide or the leafstalks of sea-kale and rhubarb at [[Christmas]],
 the flowers of summer in the depth of winter, or some of the choicest
 fruits perfected so much before their normal period as to complete, with
 the retarded crops of winter, the circle of the seasons.
@@ -3299,7 +3299,7 @@ V. _Flowers._
 _Flower Garden and Pleasure Grounds._--Wherever there is a flower garden
 of considerable magnitude, and in a separate situation, it should be
 constructed on principles of its own. The great object must be to
-exhibit to advantage the graceful forms and glorious hues of flowering
+exhibit to advantage the graceful forms and glorious [[Hue|hues]] of flowering
 plants and shrubs. Two varieties of flower gardens have chiefly
 prevailed in Britain. In one the ground is turf, out of which
 flower-beds, of varied patterns, are cut; in the other the flower-beds
@@ -3320,12 +3320,12 @@ trailing plants are inserted, and also some of the choicest flowers. In
 proper situations, a small pool of water may be introduced for the
 culture of aquatic plants. In these days the rock-garden is a most
 important feature, and it requires a good deal of care and skill to
-arrange the boulders, walks, pools or streams in natural and artistic
+arrange the [[Boulder|boulders]], walks, pools or streams in natural and artistic
 fashion. The selection of suitable alpines, perennials and shrubs and
 trees also necessitates considerable knowledge on the part of the
 gardener. A separate compartment laid out on some regular plan is often
 set apart for roses, under the name of the "Rosery." A moist or rather a
-shady border, or a section of the pleasure ground supplied with bog
+shady border, or a section of the pleasure ground supplied with [[Bog|bog]]
 earth, may be devoted to what is called the "American Garden," which, as
 it includes the gorgeous rhododendrons and azaleas, forms one of the
 grandest features of the establishment during the early summer, while if
@@ -3372,10 +3372,10 @@ being those for sowing an acre of ground:--
   _Poa nemoralis sempervirens_--Evergreen Meadow-grass   3 lb.
   _Poa trivialis_--Trivial Meadow-grass                  3 lb.
   _Trisetum flavescens_--Yellow Oat-grass                2 lb.
-  _Trifolium repens_--Dutch Clover                       6 lb.
+  _Trifolium repens_--Dutch [[Clover]]                       6 lb.
 
 The seeds should be thoroughly mixed, and very evenly sown, after which
-the surface should be raked over to bury them, and then rolled down
+the surface should be raked over to [[Bury|bury]] them, and then rolled down
 while dry so as to finish it off smooth and level. When thus sown, lawns
 require to be promptly weeded. During the growing season established
 lawns should be mown at least once a week. They should be occasionally
@@ -3394,7 +3394,7 @@ worm-casts.
   departments they properly belong. Some of the more popular annuals,
   hardy and half-hardy, have been very much varied as regards habit and
   the colour of the flowers, and purchases may be made in the seed shops
-  of such things as China asters, stocks, Chinese and Indian pinks,
+  of such things as China [[Aster|asters]], stocks, Chinese and Indian pinks,
   larkspurs, phloxes and others, amongst which some of the most
   beautiful of the summer flowers may be found.
 
@@ -3430,7 +3430,7 @@ worm-casts.
   for general cultivation as decorative plants for the open air:--
 
   _Acroclinium roseum_: half-hardy, 1 ft., rose-pink or white;
-  everlasting.
+  [[Everlasting|everlasting]].
 
   _Agrostis pulchella_: hardy, 6 in.; a most graceful grass for
   bouquets.
@@ -3458,14 +3458,14 @@ worm-casts.
   yellow with red disk.
 
   _Callistephus hortensis_ or _chinensis_ (the China aster): half-hardy,
-  6 in. to 1(1/2) ft.; there arc several groups of various colours. The
+  6 in. to 1(1/2) ft.; there arc several groups of various [[Colours|colours]]. The
   species itself is a very handsome plant.
 
-  _Campanula Loreyi_: hardy, 1(1/2) ft., purplish-lilac or white.
+  _[[Campanula]] Loreyi_: hardy, 1(1/2) ft., purplish-lilac or white.
 
   _Campanula macrostyla_: hardy, 1 to 2 ft., purple, beautifully veined.
 
-  _Carnations_, _Marguerite_: half-hardy, 9 to 12 in., colours various.
+  _Carnations_, _[[Marguerite]]_: half-hardy, 9 to 12 in., colours various.
 
   _Centaurea Cyanus_: hardy, 3 ft., blue, purple, pink or white; showy.
 
@@ -3476,7 +3476,7 @@ worm-casts.
 
   _Chrysanthemum carinatum_: a charming half-hardy annual, 2 to 3 ft.
   high, with several varieties, of which C. Burridgeanum with zones of
-  white, crimson and yellow is best.
+  white, [[Crimson|crimson]] and yellow is best.
 
   _C. coronarium_, a yellow-flowered species requires similar treatment.
 
@@ -3485,7 +3485,7 @@ worm-casts.
 
   _Collinsia bicolor_: hardy, 1(1/2) ft., white and purple; pretty.
 
-  _Collinsia verna_: hardy, 1 ft., white and azure; sow as soon as ripe.
+  _Collinsia verna_: hardy, 1 ft., white and [[Azure|azure]]; sow as soon as ripe.
 
   _Convolvulus tricolor atroviolacea_: hardy, 1 ft., white, blue and
   yellow. This is the _Convolvulus minor_ of gardens.
@@ -3540,7 +3540,7 @@ worm-casts.
   _Kaulfussia amelloides_: hardy, 1 ft., blue or rose; the var.
   kermesina is deep crimson.
 
-  _Kochia scoparia_ (Belvedere or lawn cypress): hardy, graceful green
+  _Kochia scoparia_ ([[Belvedere]] or lawn [[Cypress|cypress]]): hardy, graceful green
   foliage, turning purple in autumn.
 
   _Koniga maritima_ (Sweet Alyssum): hardy, 1 ft., white; fragrant,
@@ -3631,7 +3631,7 @@ worm-casts.
   sow in heat.
 
   _Pharbitis hispida_: hardy, 6 ft., various; the many-coloured twining
-  _Convolvulus major_.
+  _Convolvulus [[Major|major]]_.
 
   _Phlox Drummondii_: half-hardy, 1 ft., various colours.
 
@@ -3697,7 +3697,7 @@ worm-casts.
   blooming, with elegant foliage. The French and African marigolds,
   favourites of some, are allied to this.
 
-  _Tropaeolum aduncum_ (Canary creeper): half-hardy, 10 ft., yellow,
+  _Tropaeolum aduncum_ ([[Canary]] creeper): half-hardy, 10 ft., yellow,
   fringed; an elegant climber.
 
   _Tropaeolum majus_ (the nasturtium of gardens): hardy. There are two
@@ -3726,7 +3726,7 @@ worm-casts.
   The number of biennials is not large, but a few very desirable garden
   plants, such as the following, occur amongst them:--
 
-  _Agrostemma coronaria_ (Rose Campion): hardy, 1(1/2) ft., bright
+  _Agrostemma coronaria_ (Rose [[Campion]]): hardy, 1(1/2) ft., bright
   rose-purple or rose and white.
 
   _Beta Cicla variegata_: hardy, 2 ft., beautifully coloured leaves and
@@ -3756,7 +3756,7 @@ worm-casts.
   _Dianthus chinensis_ (Indian Pink): half-hardy, 1 ft., various; flower
   earlier if treated as biennials; must be protected from frost.
 
-  _Digitalis purpurea_ (Foxglove): hardy, 3 to 5 ft., rosy-purple or
+  _Digitalis purpurea_ ([[Foxglove]]): hardy, 3 to 5 ft., rosy-purple or
   white; beautifully spotted; the variety called _gloxinioides_ has
   regular, erect flowers.
 
@@ -3849,7 +3849,7 @@ worm-casts.
   aubrietia, recurring at intervals of 5 or 6 yards on a border of
   considerable length, carry the eye forwards and give a balanced kind
   of finish to the whole. The same might be done with dianthuses or the
-  larger narcissi in the second row, with paeonies, columbines and
+  larger narcissi in the second row, with paeonies, [[Columbine|columbines]] and
   phloxes in the third, and with delphiniums, aconitums and some of the
   taller yellow composites as helianthus and rudbeckia at the back.
   Spring and autumn flowers, as well as those blooming in summer, should
@@ -3923,7 +3923,7 @@ worm-casts.
   creeping runners, which _A. genevensis_ has not; both bear handsome
   spikes of blue labiate flowers. Ordinary soil.
 
-  _Allium._--Hardy bulbs of the garlic family, some species of which are
+  _Allium._--Hardy bulbs of the [[Garlic|garlic]] family, some species of which are
   ornamental; the inflorescence is umbellate. In _A. azureum_, 1 to 2
   ft., the flowers are deep-blue; in _A. Moly_, 1 ft., golden yellow; in
   _A. neapolitanum_, 1(1/2) ft., white, very handsome; in _A.
@@ -3937,7 +3937,7 @@ worm-casts.
   ft., blood-red, streaked with yellow, affording many varieties. Deep
   sandy loam or peat. Should be planted at least 6 or 8 in. deep.
 
-  _Althaea rosea._--The hollyhock is a noble perennial, 6 to 15 ft.
+  _Althaea rosea._--The [[Hollyhock|hollyhock]] is a noble perennial, 6 to 15 ft.
   high, with flowers of every colour except blue. Requires rich loamy
   soil and plenty of space.
 
@@ -4146,7 +4146,7 @@ worm-casts.
   border is _C. maximum_ and its varieties--all with beautiful white
   flowers having yellow centres. _C. latifolium_ is also a fine species.
 
-  _Colchicum._--Showy autumn-blooming bulbs (corms), with crocus-like
+  _[[Colchicum]]._--Showy autumn-blooming bulbs (corms), with crocus-like
   flowers, all rosy-purple or white. _C. speciosum_, _C. autumnale_,
   single and double, _C. byzantinum_, and _C. variegatum_ are all worth
   growing.
@@ -4227,7 +4227,7 @@ worm-casts.
 
   _Draba._--Good rockwork cruciferous plants. _D. alpina_, _D.
   aizoides_, _D. ciliaris_, _D. Aizoon_, and _D. cuspidata_ bear yellow
-  flowers in early spring; _D. cinerea_ and _D. ciliata_ have white
+  flowers in early spring; _D. cinerea_ and _D. [[Ciliata|ciliata]]_ have white
   flowers. Gritty well-drained soil.
 
   _Dracocephalum._--Handsome labiate plants, requiring a warm and
@@ -4330,7 +4330,7 @@ worm-casts.
   blossoms on the first break of the winter frosts; _G. Imperoti_, _G.
   Elwesi_ and _G. plicatus_ have larger flowers.
 
-  _Galax aphylla._--A neat little rock plant, 6 to 8 in. high, with
+  _Galax aphylla._--A neat [[Little Rock|little rock]] plant, 6 to 8 in. high, with
   pretty round leaves and white flowers. Requires moist peaty soil.
 
   _Galega officinalis._--A strong-growing leguminous plant, 2 to 5 ft.
@@ -4347,7 +4347,7 @@ worm-casts.
 
   _Gentiana._--Beautiful tufted erect-stemmed plants preferring a strong
   rich loamy soil. _G. acaulis_, known as the Gentianella, forms a close
-  carpet of shining leaves, and in summer bears large erect tubular deep
+  [[Carpet|carpet]] of shining leaves, and in summer bears large erect tubular deep
   blue flowers. _G. Andrewsii_, 1 ft., has, during summer, large deep
   blue flowers in clusters, the corollas closed at the mouth; _G.
   asclepiadea_, 18 in., purplish-blue, flowers in July.
@@ -4367,7 +4367,7 @@ worm-casts.
   varying in colour from creamy white to salmon, pink, yellow, red and
   orange.
 
-  _Geum._--Pretty rosaceous plants. The single and double flowered forms
+  _[[Geum]]._--Pretty rosaceous plants. The single and double flowered forms
   of _G. chiloense_ and its varieties _grandiflorum_ and _miniatum_, 2
   ft., with brilliant scarlet flowers; _G. coccineum_, 6 to 12 in.,
   scarlet, and _G. montana_, 9 in., yellow, are among the best sorts.
@@ -4420,7 +4420,7 @@ worm-casts.
 
   _Helleborus._--Charming very early blooming dwarf ranunculaceous
   herbs. _H. niger_ or Christmas Rose, the finest variety of which is
-  called _maximus_, has white showy saucer-shaped flowers; _H.
+  called _[[Maximus|maximus]]_, has white showy saucer-shaped flowers; _H.
   orientalis_, 1 ft., rose-coloured; _H. atrorubens_, 1 ft.,
   purplish-red; and _H. colchicus_, 1 ft., deep purple. Deep rich loam.
 
@@ -4495,7 +4495,7 @@ worm-casts.
 
   _Linum._--Flax. _L. alpinum_, 6 in., large, dark blue; _L.
   narbonnense_, 1(1/2) ft., large, blue; _L. perenne_, 1(1/2) ft.,
-  cobalt blue; and _L. arboreum (flavum)_, 1 ft., yellow, are all
+  [[Cobalt|cobalt]] blue; and _L. arboreum (flavum)_, 1 ft., yellow, are all
   pretty. The last is liable to suffer from damp during winter, and some
   spare plants should be wintered in a frame. It is really shrubby in
   character.
@@ -4531,7 +4531,7 @@ worm-casts.
   introducing to the flower borders when the soil is light and free.
 
   _Meconopsis._--The Welsh poppy, _M. cambrica_, 1 to 2 ft. high,
-  yellow, and _M. Wallichi_, from the Himalayas, 4 to 6 ft. high with
+  yellow, and _M. Wallichi_, from the [[Himalaya|Himalayas]], 4 to 6 ft. high with
   pale blue flowers, are the best known perennials of the genus. The
   last-named, however, is best raised from seeds every year, and treated
   like the biennial kinds.
@@ -4557,7 +4557,7 @@ worm-casts.
   _Muscari._--Pretty dwarf spring-flowering bulbs. _M. botryoides_
   (Grape Hyacinth), 6 in., blue or white, is the handsomest; _M.
   moschatum_ (Musk Hyacinth), 10 in., has peculiar livid greenish-yellow
-  flowers and a strong musky odour; _M. monstrosum_ (Feather Hyacinth)
+  flowers and a strong musky odour; _M. monstrosum_ ([[Feather]] Hyacinth)
   bears sterile flowers broken up into a feather-like mass. Good garden
   soil.
 
@@ -4565,7 +4565,7 @@ worm-casts.
   large blue forget-me-not-like flowers. Requires gritty peat soil and
   cool situations, but must be protected from frost in winter.
 
-  _Myosotis._--Forget-me-not. Lovely boraginaceous plants. M.
+  _Myosotis._--[[Forget-Me-Not|Forget-me-not]]. Lovely boraginaceous plants. M.
   dissitiflora, 6 to 8 in., with large, handsome and abundant sky-blue
   flowers, is the best and earliest, flowering from February onwards; it
   does well in light cool soils, preferring peaty ones, and should be
@@ -4580,7 +4580,7 @@ worm-casts.
   greyish-leaved labiate, with lavender-blue flowers, and is sometimes
   used for bedding or for marginal lines in large compound beds.
 
-  _Nierembergia._--_N. rivularis_, 4 in., from La Plata, has slender,
+  _Nierembergia._--_N. rivularis_, 4 in., from [[La Plata]], has slender,
   creeping, rooting stems, bearing stalked ovate leaves, and large
   funnel-shaped white flowers, with a remarkably long slender tube;
   especially adapted for rockwork, requiring moist sandy loam.
@@ -4605,7 +4605,7 @@ worm-casts.
   Light sandy soil.
 
   _Onosma._--_O. taurica_, 6 to 8 in., is a charming boraginaceous plant
-  from the Caucasus, producing hispid leaves and cymose heads of
+  from the [[Caucasus]], producing hispid leaves and cymose heads of
   drooping, tubular, yellow flowers. It is of evergreen habit, and
   requires a warm position on the rockwork and well-drained sandy soil;
   or a duplicate should be sheltered during winter in a cold, dry frame.
@@ -4616,12 +4616,12 @@ worm-casts.
   pyramidale_, _O. pyrenaicum_, and the common Star of Bethlehem, _O.
   umbellatum_; all are easily grown, and have white flowers.
 
-  _Ostrowskya magnifica._--A magnificent bellflower from Bokhara, 4 to 5
+  _Ostrowskya magnifica._--A magnificent bellflower from [[Bokhara]], 4 to 5
   ft. high, and white flowers tinted and veined with lilac, 3 to 5 in.
   across. Requires rich, gritty loam of good depth, as it produces
   tuberous roots 1 to 2 ft. long.
 
-  _Ourisia._--Handsome scrophulariaceous plants, from Chile, thriving in
+  _Ourisia._--Handsome scrophulariaceous plants, from [[Chile]], thriving in
   moist, well-drained peaty soil, and in moderate shade. _O. coccinea_,
   1 ft., has erect racemes of pendent crimson flowers.
 
@@ -4682,11 +4682,11 @@ worm-casts.
   _Podophyllum._--Ornamental herbs with large lobed leaves. _P. Emodi_,
   6 to 12 in. high, from the Himalayas, has large white or pale-rose
   flowers, and in autumn bright red, hen's-egg-like fruits. _P.
-  peltatum_, the North American mandrake, has large umbrella-like leaves
+  peltatum_, the North American [[Mandrake|mandrake]], has large umbrella-like leaves
   and white flowers; _P. pleianthum_, from China, purple. They all
   require moist, peaty soil in warm, sheltered nooks.
 
-  _Polemonium._--Pretty border flowers. _P. coeruleum_ (Jacob's Ladder),
+  _Polemonium._--Pretty border flowers. _P. coeruleum_ (Jacob's [[Ladder]]),
   2 ft., has elegant pinnate leaves, and long panicles of blue rotate
   flowers. The variety called variegatum has very elegantly marked
   leaves, and is sometimes used as a margin or otherwise in bedding
@@ -4758,7 +4758,7 @@ worm-casts.
   white; and _R. rutaefolius_, 4 to 6 in., white with orange centre.
 
   _Rodgersia._--Handsome herbs of the saxifrage family. _R. podophylla_
-  with large bronzy-green leaves cut into 5 large lobes, and tall
+  with large bronzy-green leaves cut into 5 large [[Lobe|lobes]], and tall
   branching spikes 3 to 4 ft. high--the whole plant resembling one of
   the large meadow sweets. _R. aesculifolia_, yellowish-white; _R.
   Henrici_, deep purple; _R. pinnata_, fleshy pink; and _R.
@@ -4791,7 +4791,7 @@ worm-casts.
   _S. patens_, 2 ft., which is intense azure, has tuberous roots, and
   may be taken up, stored away and replanted in spring like a dahlia.
   _S. pratensis_, 2 ft., blue, a showy native species, is quite hardy;
-  the variety lupinoides has the centre of the lower lip white.
+  the variety lupinoides has the centre of the lower [[Lip|lip]] white.
 
   _Saxifraga._--A very large genus of rock and border plants of easy
   culture. The Megasea group, to which _S. ligulata_, _S. cordifolia_
@@ -4801,7 +4801,7 @@ worm-casts.
   with silvery foliage--the crustaceous group--contains some of our
   choicest Alpines. Of these _S. caesia_, _S. calyciflora_, _S.
   Cotyledon_ are among the best known. Some of the species look more
-  like lichens than flowering plants. The green moss-like saxifrages are
+  like [[Lichens|lichens]] than flowering plants. The green moss-like saxifrages are
   also a very distinct group, with dense tufted leaves which appear
   greener in winter than in summer. The flowers are borne on erect
   branching stems and are chiefly white in colour. _Saxifraga umbrosa_
@@ -4841,7 +4841,7 @@ worm-casts.
   Wulfeni_, sulphur-yellow, are from 8 to 12 in. high.
 
   _Senecio._--A large genus with comparatively few good garden plants.
-  Large and coarse-growing kinds like _S. Doria_, _S. macrophyllus_ and
+  Large and coarse-growing kinds like _S. [[Doria]]_, _S. macrophyllus_ and
   _S. sarracenicus_ are good for rough places; all yellow-flowered. _S.
   pulcher_ is a charming plant, 2 to 3 ft. high, with rosy-purple
   flower-heads, having a bright orange centre. It likes a warm corner
@@ -4910,7 +4910,7 @@ worm-casts.
   many cases having elegantly cut foliage. _T. aquilegifolium_, 2 ft.,
   purplish from the conspicuous stamens, the leaves glaucous, is a good
   border plant; and _T. minus_ has foliage somewhat resembling that of
-  the Maidenhair fern. Ordinary garden soil.
+  the [[Maidenhair]] fern. Ordinary garden soil.
 
   _Tiarella._--_T. cordifolia_, the foam flower, is very ornamental in
   border or rockery. Leaves heart-shaped lobed and toothed; flowers
@@ -4949,7 +4949,7 @@ worm-casts.
   by a covering of ashes over the crown during winter.
 
   _Trollius._--Showy ranunculaceous plants, of free growth, flowering
-  about May and June. _T. europaeus_, 18 in., lemon globular; _T.
+  about May and June. _T. europaeus_, 18 in., [[Lemon|lemon]] globular; _T.
   asiaticus_, 2 ft., deep yellow; and _T. napellifolius_, 2 to 2(1/2) ft.,
   golden yellow, are all fine showy kinds. Rich and rather moist soil.
 
@@ -5003,7 +5003,7 @@ worm-casts.
   have a close family resemblance, the inflorescence being a panicle of
   white, drooping, tulip-shaped flowers, and the foliage rosulate,
   sword-shaped and spear-pointed. Of the more shrubby-habited sorts _Y.
-  gloriosa_, _recurvifolia_ and _Treculeana_ are good and distinct; and
+  [[Gloriosa|gloriosa]]_, _recurvifolia_ and _Treculeana_ are good and distinct; and
   of the dwarfer and more herbaceous sorts _Y. filamentosa_, _flaccida_
   and _angustifolia_ are distinct and interesting kinds, the first two
   flowering annually.
@@ -5035,7 +5035,7 @@ worm-casts.
     Catalpa.                          Populus--Poplar.
     Celtis--Nettle Tree.              Prunus (Plums, Cherries, &c.).
     Cercis--Judas Tree.               Ptelea--Hop Tree.
-    Cotoneaster (some species).       Pyrus--Pear, &c.
+    [[Cotoneaster]] (some species).       Pyrus--Pear, &c.
     Crataegus--Thorn.                 Quercus--Oak.
     Davidia.                          Rhus--Sumach.
     Diospyros.                        Robinia--Locust Tree.
@@ -5068,10 +5068,10 @@ worm-casts.
     Abelia.                           Halesia--Snowdrop Tree.
     Acer--Maple.                      Hamamelis--Wych Hazel.
     Amelanchier.                      Hibiscus--Althaea frutex, &c.
-    Ampelopsis.*                      Hippophae--Sea Buckthorn.
+    Ampelopsis.*                      Hippophae--Sea [[Buckthorn]].
     Amygdalopsis.                     Hypericum--St John's Wort.
     Aralia.                           Jasminum*--Jasmine.
-    Aristolochia.*                    Kerria.
+    [[Aristolochia]].*                    Kerria.
     Berberis--Berberry.               Lonicera*--Honeysuckle.
     Bignonia*--Trumpet Flower.        Lycium.*
     Buddleia.                         Magnolia.
@@ -5086,27 +5086,27 @@ worm-casts.
     Crataegus--Thorn.                 Spartium--Spanish Broom.
     Cydonia--Japan Quince.            Spiraea.
     Cytisus--Broom, &c.               Staphylaea--Bladder-Nut.
-    Daphne.                           Symphoricarpus--Snowberry.
+    [[Daphne]].                           Symphoricarpus--Snowberry.
     Deutzia.                          Syringa--Lilac.
     Edwardsia.                        Tamarix--Tamarisk.
     Euonymus europaeus--Spindle Tree. Viburnum--Guelder Rose, &c.
     Forsythia.                        Vitis*--Vine.
     Fremontia.                        Weigela.
-    Genista.
+    [[Genista]].
 
   _Hardy Evergreen Shrubs._
 
     Akebia.*                          Hedera*--Ivy.
     Arbutus.                          Hypericum--St John's Wort.
     Aucuba--Japan Laurel.             Ilex--Holly.
-    Azara.                            Jasminum*--Jasmine.
+    [[Azara]].                            Jasminum*--Jasmine.
     Bambusa--Bamboo.                  Kadsura.*
     Berberidopsis.*                   Lardizabala.*
     Berberis--Berberry.               Laurus--Sweet Bay.
     Buddleia.                         Ligustrum--Privet.
     Bupleurum.                        Lonicera*--Honeysuckle.
     Buxus--Box.                       Osmanthus.
-    Ceanothus.                        Pernettya.
+    [[Ceanothus]].                        Pernettya.
     Cerasus--Cherry-Laurel, &c.       Phillyrea.
     Cistus-Sun-Rose.                  Photinia.
     Cotoneaster.                      Rhamnus Alaternus.
@@ -5124,7 +5124,7 @@ worm-casts.
 
   BEDDING PLANTS.--This term is chiefly applied to those
   summer-flowering plants, such as ivy-leaved and zonal pelargoniums,
-  petunias, dwarf lobelias, verbenas, &c., which are employed in masses
+  petunias, dwarf [[Lobelia|lobelias]], verbenas, &c., which are employed in masses
   for filling the beds of a geometrical parterre. Of late years,
   however, more attention has been bestowed on arrangements of brilliant
   flowering plants with those of fine foliage, and the massing also of
@@ -5151,7 +5151,7 @@ worm-casts.
   calcareum_; the pink-flowered _Silene pendula_; self-coloured
   varieties of the Pansy, _V. tricolor_, and of _V. lutea_ and _V.
   cornuta_, as well as some recent hybrids. Besides these there are the
-  various spring-flowering bulbs, such as the varieties of Hyacinthus,
+  various spring-flowering bulbs, such as the varieties of [[Hyacinthus]],
   Tulipa, Narcissus, Fritillaria, Muscari or Grape Hyacinth, Crocus,
   Scilla, Chionodoxa and Galanthus or Snowdrop.
 
@@ -5218,7 +5218,7 @@ worm-casts.
     Abutilon            Coleus                Lachenalia+
     Acacia              Coprosma              Lantana
     Agapanthus          Cordyline             Lapageria*
-    Agathaea            Correa                Lilium+
+    Agathaea            [[Correa]]                Lilium+
     Agave               Cuphea                Lophospermum*
     Alonsoa             Cyclamen+             Mandevillea*
     Aloysia             Cyperus               Manettia*
@@ -5242,8 +5242,8 @@ worm-casts.
     Canna               Heliotropium          Statice
     Celosia             Hibiscus              Strelitzia
     Cestrum*            Hoya*                 Streptocarpus
-    Chorizema*          Hydrangea             Swainsonia
-    Chrysanthemum       Impatiens             Tacsonia*
+    Chorizema*          [[Hydrangea]]             Swainsonia
+    Chrysanthemum       [[Impatiens]]             Tacsonia*
     Cineraria           Jasminum*             Tecoma
     Clianthus           Justicia              Tradescantia
     Clivia              Kalosanthes           Vallota+
@@ -5279,7 +5279,7 @@ worm-casts.
     Aphelandra          Euphorbia              Passiflora*
     Aralia              Ficus                  Pavetta
     Ardisia             Franciscea             Petraea*
-    Arisaema+           Gardenia               Pleroma*
+    Arisaema+           [[Gardenia]]               Pleroma*
     Aristolochia*       Gesnera                Poinsettia
     Ataccia             Gloriosa*              Rondeletia
     Begonia             Gloxinia+              Sanchezia
@@ -5345,7 +5345,7 @@ worm-casts.
   hybrids (between what are considered two distinct genera) have also
   been produced (indicated in the list below by *). To keep a valuable
   collection of orchids in good condition requires the services of an
-  expert orchid grower.
+  [[Expert|expert]] orchid grower.
 
   The following is a select list of genera in cultivation:--
 
@@ -5574,7 +5574,7 @@ full leaf and quite dry, and spread out in an airy but shady place so
 as to part slowly with the moisture they contain and at the same time
 retain their aromatic properties. When quite dry they should be put into
 dry wide-mouthed bottles and kept closely corked. In this way such herbs
-as basil, marjoram, mint, sage, savory, thyme, balm, chamomile,
+as [[Basil|basil]], marjoram, mint, sage, savory, thyme, balm, chamomile,
 horehound, hyssop and rue, as well as parsley, may be had throughout the
 season with almost the full flavour of the fresh herb.
 
@@ -5600,9 +5600,9 @@ October till the end of March and April, after which, with the exception
 of melons, the cultures are carried on in the open air.
 
 The chief crops grown for early supplies, or "primeurs" as they are
-called, are special varieties of cos and cabbage lettuces, short
-carrots, radishes, turnips, cauliflowers, endives, spinach, onions, corn
-salad and celery. To these is added a very important crop of melons, a
+called, are special varieties of cos and cabbage [[Lettuce|lettuces]], short
+carrots, radishes, turnips, cauliflowers, endives, spinach, onions, [[Corn|corn]]
+salad and [[Celery|celery]]. To these is added a very important crop of melons, a
 special large-fruited variety known as the Prescott Canteloup being the
 most favoured.
 
@@ -5661,7 +5661,7 @@ than an Englishman can transport in a day with a wheelbarrow.
 
 This is merely an outline of the system, which is now being taken up in
 various parts of the United Kingdom, but not too rapidly. The initial
-expenses for frames, lights, cloches, mats and water-supply are in many
+expenses for frames, lights, cloches, [[Mat|mats]] and water-supply are in many
 cases prohibitive to men with the necessary gardening experience, while
 on the other hand those who have the capital lack the practical
 knowledge so essential to success.
@@ -5727,7 +5727,7 @@ knowledge so essential to success.
   the month; early cabbages to follow the last sowing in August; red
   cabbages and savoys towards the end. Sow also Early Horn carrot; Early
   Purple-top Munich turnip; onions for a full crop in light soils, with
-  a few leeks and some parsley. Sow lettuce for succession, with
+  a few [[Leek|leeks]] and some parsley. Sow lettuce for succession, with
   radishes and Round-leaved spinach, twice in the course of the month;
   and small salads every fortnight. Plant Jerusalem artichokes,
   shallots, garlic, horse-radish and early potatoes. Transplant to the
@@ -5744,7 +5744,7 @@ knowledge so essential to success.
   grafting.
 
   _Forcing._--Sow melons and cucumbers on hotbeds and in pits. Sow
-  carrots, turnips, early celery, also aubergines or egg-plants,
+  carrots, turnips, early celery, also [[Aubergine|aubergines]] or egg-plants,
   capsicums, tomatoes and successional crops of kidney-beans;
   cauliflower and Brussels sprouts, in gentle heat, to be afterwards
   planted out. Plant early potatoes on slight hotbeds. Continue the
@@ -5824,7 +5824,7 @@ knowledge so essential to success.
 
   APRIL
 
-  _Kitchen Garden._--Sow asparagus, sea-kale, Turnip-rooted beet,
+  _Kitchen Garden._--Sow asparagus, sea-kale, Turnip-rooted [[Beet|beet]],
   salsafy, scorzonera, skirret, carrots and onions on heavy soils; also
   marrow peas, Longpod and Windsor beans, turnips, spinach, celery,
   cabbage, savoys and Brussels sprouts for succession. Sow broccoli and
@@ -5890,14 +5890,14 @@ knowledge so essential to success.
   cauliflowers, Early York or Little Pixie cabbages, Brussels sprouts,
   borecole, broccoli, savoys and kale for late crops. Sow vegetable
   marrows and hardy cucumbers on a warm border in the last week; sow
-  cardoons in trenches, or (in the north) in pots under glass shelter;
+  [[Cardoon|cardoons]] in trenches, or (in the north) in pots under glass shelter;
   sow chicory for salading. Continue hoeing and earthing up the several
   crops.
 
   _Fruit Garden._--Disbud peaches, nectarines and other early trees
   against the walls; also attend to the thinning of fruit. Give
   occasional washings with the engine to keep down insects. Pick
-  caterpillars from gooseberries and wall trees on their first
+  [[Caterpillar|caterpillars]] from gooseberries and wall trees on their first
   appearance. Remove from raspberries and strawberries all suckers and
   runners that are not wanted.
 
@@ -5956,7 +5956,7 @@ knowledge so essential to success.
   _Fruit Garden._--Train and prune the summer shoots of wall and trellis
   and other trained trees. Mulch and water fruit trees and strawberries
   in dry weather, desisting when the fruit begins to ripen. Net over
-  cherry-trees. Destroy aphides and other insects by syringing with
+  cherry-trees. Destroy [[Aphides|aphides]] and other insects by syringing with
   tobacco water, or by fumigating, or by dusting with tobacco powder.
 
   _Forcing._--Proceed with planting melons, cucumbers and tomatoes. Keep
@@ -5987,7 +5987,7 @@ knowledge so essential to success.
   the weather is hot and dry. In the first week, sow peas for the last
   crop of the season; also Longpod beans and French beans. In the last
   week, sow red globe or Chirk Castle turnip for a full winter crop,
-  spinach for an early winter supply and Enfield Market cabbage for
+  spinach for an early winter supply and [[Enfield]] Market cabbage for
   early summer use. Sow endive, for autumn and winter use, in the
   beginning and end of the month; also successional crops of lettuce and
   small salads. Make up successional mushroom beds. Plant full crops of
@@ -6034,7 +6034,7 @@ knowledge so essential to success.
   about the end of the month; parsley and winter onions, for a full
   crop, in the first week; cabbages about the middle of the month, for
   planting out in spring; cauliflower in the first half (Scotland) and
-  in the second half (England) of the month; Hardy Hammersmith and Brown
+  in the second half (England) of the month; Hardy [[Hammersmith]] and Brown
   Cos lettuce in the first and last week; small salads occasionally; and
   Black Spanish radish, for winter crops. Plant out kales and broccoli
   for late crops; plant celery (earthing up the advancing crops as
@@ -6043,7 +6043,7 @@ knowledge so essential to success.
 
   _Fruit Garden._--Proceed in training and regulating the summer shoots
   of all fruit trees as directed for the last three months. Net up, in
-  dry weather, gooseberry and currant bushes, to preserve the fruit till
+  dry weather, [[Gooseberry|gooseberry]] and currant bushes, to preserve the fruit till
   late in the autumn. Make new strawberry beds if required. Preserve the
   ripening fruits on the wall and other trees from insects, and destroy
   wasp nests. Gather fruits as they ripen.
@@ -6248,7 +6248,7 @@ knowledge so essential to success.
   Sweep and roll the lawns, and put in repair the gravel-walks, keeping
   the surface frequently rolled.     (J. Ws.; W. R. W.)
 
-  (B) _For the United States (chiefly for the latitude of New York)._
+  (B) _For the United States (chiefly for the [[Latitude|latitude]] of New York)._
 
   JANUARY
 
@@ -6266,7 +6266,7 @@ knowledge so essential to success.
   sides of the leaves, and adults very small white flies. The remedy is
   to spray with kerosene emulsion or whale-oil soap; or if on cucumbers
   or tomatoes, it is best to fumigate with hydrocyanic acid gas, using
-  one ounce of potassium cyanide to each 1000 cubic ft. of space. (This
+  one ounce of potassium [[Cyanide|cyanide]] to each 1000 cubic ft. of space. (This
   material is very poisonous.) Many greenhouse insects can be kept more
   or less in check by careful and effective hosing of the plants at
   proper times. At this season roses, grape vines and other plants are
@@ -6282,7 +6282,7 @@ knowledge so essential to success.
   flower garden little can be done except that shrubs may be pruned, or
   new work, such as making walks or grading, performed, if weather
   permits. See that the ornamental plants and trees are not injured by
-  heavy weights of ice or snow.
+  heavy weights of [[Ice|ice]] or snow.
 
   _Fruit Garden._--Pruning, staking up or mulching can be done if the
   weather is such that the workmen can stand out. In all warm or
@@ -6303,7 +6303,7 @@ knowledge so essential to success.
   such as asparagus, cabbage, cauliflower, carrot, leek, lettuce, onion,
   parsnip, peas, spinach, turnip, &c. In any section where these seeds
   can be sown in open ground, it is an indication that hotbeds may be
-  started for the sowing of such tender vegetables as tomatoes, egg and
+  started for the sowing of such tender vegetables as tomatoes, [[Egg|egg]] and
   pepper plants, &c.; though, unless in the extreme southern states,
   hotbeds should not be started before the beginning or middle of
   February. Make orders for the spring seeds.
@@ -6333,7 +6333,7 @@ knowledge so essential to success.
   mixture, as recommended in January.
 
   _Vegetable Garden._--Leaves from the woods, house manure or refuse
-  hops from breweries may be got together towards the latter part of
+  [[Hop|hops]] from breweries may be got together towards the latter part of
   this month, and mixed and turned to get "sweetened" preparatory to
   forming hotbeds. Cabbage, lettuce and cauliflower seeds, if sown early
   this month in hotbed or greenhouse, will make fine plants if
@@ -6413,7 +6413,7 @@ knowledge so essential to success.
 
   _Vegetable Garden._--Asparagus, rhubarb, spinach, &c., should be
   uncovered., and the beds hoed or dug lightly. Hardier sorts of
-  vegetable seeds and plants, such as beets, cabbage, cauliflower,
+  vegetable seeds and plants, such as [[Beets|beets]], cabbage, cauliflower,
   celery, lettuce, onions, parsley, parsnips, peas, potatoes, radishes,
   spinach, turnip, &c., should all be sown or planted by the middle of
   the month if the soil is dry and warm, and in all cases, where
@@ -6466,7 +6466,7 @@ knowledge so essential to success.
 
   _Lawns_ should be mown, and the edgings trimmed.
 
-  _Fruit Garden._--The hay or leaf mulching on the strawberry beds
+  _Fruit Garden._--The [[Hay|hay]] or leaf mulching on the strawberry beds
   should be removed and the ground deeply hoed (if not removed in April
   in the more forward places), after which it may be placed on again to
   keep the fruit clean and the ground from drying. Where it has not been
@@ -6481,10 +6481,10 @@ knowledge so essential to success.
 
   _Vegetable Garden._--Attention should be given to new sowings and
   plantings for succession. Crops sown last month will have to be
-  thinned out if large enough. Hoe deeply all transplanted crops, such
+  thinned out if large enough. [[Hoe]] deeply all transplanted crops, such
   as cabbage, cauliflower, lettuce, &c. Tender vegetables, such as
   tomatoes, egg and pepper plants, sweet potatoes, &c., can be planted
-  out. Seeds of Lima beans, sweet corn, melon, okra, cucumbers, &c.,
+  out. Seeds of [[Lima]] beans, sweet corn, melon, okra, cucumbers, &c.,
   should be sown; and sow for succession peas, spinach, lettuce, beans,
   radishes, &c., every ten days.
 
@@ -6492,7 +6492,7 @@ knowledge so essential to success.
 
   _Flower Garden and Greenhouse._--Tropical plants can now be used to
   fill up the greenhouse during the summer months. It should be well
-  shaded, and fine specimens of fancy caladiums, dracaenas, coleus,
+  shaded, and fine specimens of [[Fancy|fancy]] caladiums, dracaenas, coleus,
   crotons, palms, ferns and such plants as are grown for the beauty of
   their foliage, will make a very attractive show. If these cannot be
   had, common geraniums may be used. The "moss culture" will be found
@@ -6651,7 +6651,7 @@ knowledge so essential to success.
 
   _Vegetable Garden._--Celery will now be in full growth, and will
   require close attention to earthing up, and during the last part of
-  the month the first lot may be stored away in trenches for winter. All
+  the month the first [[Lot|lot]] may be stored away in trenches for winter. All
   vegetable roots not designed to be left in the ground during the
   winter should be dug up, such as beets, carrots, parsnips, sweet
   potatoes, &c. The cabbage, cauliflower and lettuce plants grown from
@@ -6665,7 +6665,7 @@ knowledge so essential to success.
   temperature of the house. Vegetable gardens often become infested with
   diseases that are carried over from year to year in the old plants and
   litter; this is specially true of water-melons and of some diseases of
-  tomatoes. It is well, therefore, to burn the tops of the plants in the
+  tomatoes. It is well, therefore, to [[Burn|burn]] the tops of the plants in the
   fall, rather than to plough them under or to throw them on the compost
   heap.
 
@@ -6763,29 +6763,29 @@ knowledge so essential to success.
 
   BIBLIOGRAPHY OF MODERN WORKS ON HORTICULTURE.--W. Robinson, _Alpine
   Flowers_; Lord Redesdale (A. B. Freeman Mitford), _The Bamboo Garden_;
-  J. Weathers, _Bulbous Plants_ (33 col. plates); H. H. Cousins,
-  _Chemistry of the Garden_; W. Watson, _Cactus Culture for Amateurs_;
+  J. Weathers, _Bulbous Plants_ (33 col. plates); H. H. [[Cousin|Cousins]],
+  _[[Chemistry]] of the Garden_; W. Watson, _Cactus Culture for Amateurs_;
   R. P. Brotherston and M. R. Smith, _Book of the Carnation_; J.
   Weathers, _Cottage and Allotment Gardening_; J. Veitch and Sons,
-  _Manual of Coniferae_; W. Wells, _Culture of the Chrysanthemum_; Rev.
-  S. E. Bourne, _Book of the Daffodil_; Geo. Nicholson, _Dictionary of
+  _[[Manual]] of Coniferae_; W. Wells, _Culture of the Chrysanthemum_; Rev.
+  S. E. [[Bourne]], _Book of the Daffodil_; Geo. Nicholson, _Dictionary of
   Gardening_ (5 vols.); W. Robinson, _The English Flower Garden_; Geo.
   Schneider, _Book of Choice Ferns_ (3 vols.); W. Robinson, _Flora and
   Sylva_ (3 vols.; col. plates by the late H. G. Moon); J. Weathers,
   _Flowering Trees and Shrubs_ (33 col. plates); J. Weathers, _French
   Market-Gardening and Intensive Cultivation_; T. Smith, _French
   Gardening_; Geo. Bunyard and O. Thomas, _The Fruit Garden_; Josh.
-  Brace, Fruit Trees in Pots; Dr R. Hogg, The Fruit Manual; M. C. Cooke,
+  Brace, Fruit Trees in Pots; Dr R. Hogg, The Fruit Manual; M. C. [[Cooke]],
   _Fungoid Pests of Cultivated Plants_; Thos. H. Mawson, _The Art and
-  Craft of Garden-Making_; J. Weathers, _A Practical Guide to Garden
+  [[Craft]] of Garden-Making_; J. Weathers, _A Practical Guide to Garden
   Plants_; W. Watson, _The Gardeners' Assistant_; C. H. Wright and D.
-  Dewar, _The Gardeners' Dictionary_; J. Weathers, _Garden Flowers for
+  [[Dewar]], _The Gardeners' Dictionary_; J. Weathers, _Garden Flowers for
   Town and Country_ (33 col. plates); Chas. Baltet, _The Art of Grafting
   and Budding_; W. Thomson, _The Grape Vine_; Thos. Baines, _Greenhouse
-  and Stove Plants_; R. Irwin Lynch, _The Book of the Iris_; G. Jekyll,
+  and Stove Plants_; R. Irwin [[Lynch]], _The Book of the Iris_; G. [[Jekyll]],
   _Lilies for English Gardens_; E. A. Ormerod, _Manual of Injurious
   Insects_; Dr A. B. Griffiths, _Manures for Fruit and other Trees_; F.
-  W. Burbridge and J. G. Baker, _The Narcissus_ (48 col. plates); H. A.
+  W. Burbridge and J. G. [[Baker]], _The Narcissus_ (48 col. plates); H. A.
   Burberry, _The Orchid Cultivator's Handbook_; B. S. Williams, _The
   Orchid Grower's Manual_; J. Veitch & Sons, _Manual of Orchidaceous
   Plants_; Dr Paul Sorauer and F. E. Weiss, _Physiology of Plants_; W.
@@ -6802,7 +6802,7 @@ knowledge so essential to success.
   for English and Irish Gardens_ (33 col. plates); Vilmorin et Cie.,
   _The Vegetable Garden_ (Eng. ed. by W. Robinson); A. F. Barron, _Vines
   and Vine Culture_; G. Jekyll, _Wall and Water Gardens_; W. Robinson,
-  _The Wild Garden_; L. H. Bailey, _Practical Garden Book_ (New York,
+  _The Wild Garden_; L. H. [[Bailey]], _Practical Garden Book_ (New York,
   1908).     (J. Ws.; W. R. W.)
 
 ## References

@@ -1,18 +1,18 @@
 # Marprelate Controversy
 
 MARPRELATE CONTROVERSY, a war of pamphlets waged in 1588 and 1589
-between a puritan writer who employed the pseudonym "Martin Marprelate"
+between a puritan writer who employed the pseudonym "[[Martin]] Marprelate"
 and defenders of the Established Church. Martin's tracts are
 characterized by violent and personal invective against the Anglican
-dignitaries, by the assumption that the writer had numerous and powerful
+dignitaries, by the [[Assumption|assumption]] that the writer had numerous and powerful
 adherents and was able to enforce his demands for reform, and by a plain
 and homely style combined with pungent wit. While he maintained the
 puritan doctrines as a whole, the special point of his attack was the
-Episcopacy. The pamphlets were printed at a secret press established by
+[[Episcopacy]]. The pamphlets were printed at a secret press established by
 John Penry, a Welsh puritan, with the help of the printer Robert
 Waldegrave, about midsummer 1588, for the issue of puritan literature
 forbidden by the authorities. The first tract by "Martin Marprelate,"
-known as the _Epistle_, appeared at Molesey in November 1588. It is in
+known as the _[[Epistle]]_, appeared at Molesey in November 1588. It is in
 answer to _A Defence of the Government established in the Church of
 Englande_, by Dr. John Bridges, dean of Salisbury, itself a reply to
 earlier puritan works, and besides attacking the episcopal office in
@@ -22,13 +22,13 @@ bishop of Winchester, under the title _An Admonition to the People of
 England_, but this was too long and too dull to appeal to the same class
 of readers as the Marprelate pamphlets, and produced little effect.
 Penry's press, now removed to Fawsley, near Northampton, produced a
-second tract by Martin, the _Epitome_, which contains more serious
+second tract by Martin, the _[[Epitome]]_, which contains more serious
 argument than the _Epistle_ but is otherwise similar, and shortly
-afterwards, at Coventry, Martin's reply to the _Admonition_, entitled
-_Hay any Worke for Cooper_ (March 1589). It now appeared to some of the
+afterwards, at [[Coventry]], Martin's reply to the _Admonition_, entitled
+_[[Hay]] any Worke for Cooper_ (March 1589). It now appeared to some of the
 ecclesiastical authorities that the only way to silence Martin was to
 have him attacked in his own railing style, and accordingly certain
-writers of ready wit, among them John Lyly, Thomas Nashe and Robert
+writers of ready wit, among them John [[Lyly]], Thomas Nashe and Robert
 Greene, were secretly commissioned to answer the pamphlets. Among the
 productions of this group were _Pappe with an Hatchet_ (Sept. 1589),
 probably by Lyly, and _An Almond for a Parrat_ (1590), which, with

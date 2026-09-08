@@ -7,13 +7,13 @@ the head of the company. In 1576, having secured the lease of land at
 Shoreditch, Burbage erected there the successful house which was known for
 twenty years as _The_ Theatre from the fact that it was the first ever
 erected in London. He seems also to have been concerned in the erection of
-a second theatre in the same locality, the Curtain, and later, in spite of
+a second theatre in the same locality, the [[Curtain]], and later, in spite of
 all difficulties and a great deal of local opposition, he started what
-became the most celebrated home of the rising drama,--the Blackfriars
+became the most celebrated home of the rising [[Drama|drama]],--the Blackfriars
 theatre, built in 1596 near the old Dominican friary.
 
 His son RICHARD BURBAGE (c. 1567-1619), more celebrated than his father,
-was the Garrick of the Elizabethan stage, and acted all the great parts in
+was the [[Garrick]] of the Elizabethan stage, and acted all the great parts in
 Shakespeare's plays. He, too, is said to have been born at
 Stratford-on-Avon, and made his first appearance at an early age at one of
 his father's theatres. He had established a reputation by the time he was
@@ -32,7 +32,7 @@ specially famous for his impersonation of Richard III. and other
 Shakespearian characters, and it was in tragedy that he especially
 excelled. Every playwright of his day endeavoured to secure his services.
 He died on the 13th of March 1619. Richard Burbage was a painter as well as
-an actor. The Felton portrait of Shakespeare is attributed to him, and
+an actor. The [[Felton]] portrait of Shakespeare is attributed to him, and
 there is a portrait of a woman, undoubtedly by him, preserved at Dulwich
 College.
 

@@ -14,7 +14,7 @@ has been held here annually since the 12th century, but has now lost its
 former importance (see FAIR). Beaucaire gives its name to the canal
 which communicates with the sea (near Aigues-Mortes) and connects it
 with the Canal du Midi, forming part of the line of communication
-between the Rhone and the Garonne. The town is an important port on the
+between the Rhone and the [[Garonne]]. The town is an important port on the
 Rhone, and its commerce, the chief articles of which are wine, and
 freestone from quarries in the vicinity, is largely water-borne. Among
 its industries are distilling and the manufacture of furniture, and the

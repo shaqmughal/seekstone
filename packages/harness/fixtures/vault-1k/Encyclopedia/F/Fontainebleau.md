@@ -38,7 +38,7 @@ Bleaudi_) are equally unknown, but the older château was used in the
 latter part of the 12th century by Louis VII., who caused Thomas Becket
 to consecrate the Chapelle St Saturnin, and it continued a favourite
 residence of Philip Augustus and Louis IX. The creator of the present
-edifice was Francis I., under whom the architect Gilles le Breton
+edifice was Francis I., under whom the architect [[Gill|Gilles]] le Breton
 erected most of the buildings of the Cour Ovale, including the Porte
 Dorée, its southern entrance, and the Salle des Fêtes, which, in the
 reign of Henry II., was decorated by the Italians, Francesco Primaticcio

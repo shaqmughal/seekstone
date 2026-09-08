@@ -10,11 +10,11 @@ tags: [fisheries-studies, republic-theory]
 
 MANDELIC ACID (Phenylglycollic Acid), C8H8O3 or C6H5·CH(OH)·COOH, an
 isomer of the cresotinic and the oxymethylbenzoic acids. Since the
-molecule contains an asymmetric carbon atom, the acid exists in three
+molecule contains an asymmetric [[Carbon|carbon]] [[Atom|atom]], the acid exists in three
 forms, one being an inactive "racemic" mixture, and the other two being
 optically active forms. The inactive variety is known as _paramandelic
 acid_. It may be prepared by the action of hydrochloric acid on the
-addition compound of benzaldehyde and hydrocyanic acid:--
+addition compound of [[Benzaldehyde|benzaldehyde]] and hydrocyanic acid:--
 
   C6H5CHO + HCN + HCl + 2H2O = C6H5·CHOH·COOH + NH4Cl,
 
@@ -36,7 +36,7 @@ fractional crystallization of the cinchonine salt, when the salt of the
 _dextro_ modification separates first; or the ammonium salt may be
 fermented by _Penicillium glaucum_, when the _laevo_ form is destroyed
 and the _dextro_ form remains untouched; on the other hand,
-_Saccharomyces ellipsoïdeus_ destroys the _dextro_ form, but does not
+_Saccharomyces ellipsoï[[Deus|deus]]_ destroys the _dextro_ form, but does not
 touch the _laevo_ form. A mixture of the two forms in equivalent
 quantities produces the inactive variety, which is also obtained when
 either form is heated for some hours to 160° C.

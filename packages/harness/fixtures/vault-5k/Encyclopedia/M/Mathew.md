@@ -3,7 +3,7 @@
 MATHEW, THEOBALD (1790-1856), Irish temperance reformer, popularly known
 as Father Mathew, was descended from a branch of the Llandaff family,
 and was born at Thomastown, Tipperary, on the 10th of October 1790. He
-received his school education at Kilkenny, whence he passed for a short
+received his school education at [[Kilkenny]], whence he passed for a short
 time to Maynooth; from 1808 to 1814 he studied at Dublin, where in the
 latter year he was ordained to the priesthood. Having entered the
 Capuchin order, he, after a brief time of service at Kilkenny, joined

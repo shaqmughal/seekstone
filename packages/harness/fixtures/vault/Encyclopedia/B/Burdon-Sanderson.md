@@ -17,7 +17,7 @@ When diphtheria appeared in England in 1858 he was sent to investigate the
 disease at the different points of outbreak, and in subsequent years he
 carried out a number of similar inquiries, _e.g._ into the cattle plague
 and into cholera in 1866. He became first principal of the Brown
-Institution at Lambeth in 1871, and in 1874 was appointed Jodrell professor
+Institution at [[Lambeth]] in 1871, and in 1874 was appointed Jodrell professor
 of physiology at University College, London, retaining that post till 1882.
 When the Waynflete chair of physiology was established at Oxford in 1882,
 he was chosen to be its first occupant, and immediately found himself the
@@ -37,12 +37,12 @@ utmost bitterness by Sanderson's opponents, the anti-vivisectionists
 including E.A. Freeman, John Ruskin and Bishop Mackarness of Oxford.
 Ultimately the money was granted by 412 to 244 votes. In 1895 Sanderson was
 appointed regius professor of medicine at Oxford, resigning the post in
-1904; in 1899 he was created a baronet. His attainments, both in biology
+1904; in 1899 he was created a baronet. His attainments, both in [[Biology|biology]]
 and medicine, brought him many honours. He was Croonian lecturer to the
 Royal Society in 1867 and 1877 and to the Royal College of Physicians in
 1891; gave the Harveian oration before the College of Physicians in 1878;
 acted as president of the British Association at Nottingham in 1893; and
-served on three royal commissions--Hospitals (1883), Tuberculosis, Meat and
+served on three royal commissions--Hospitals (1883), Tuberculosis, [[Meat]] and
 Milk (1890), and University for London (1892). He died at Oxford on the
 23rd of November 1905.
 

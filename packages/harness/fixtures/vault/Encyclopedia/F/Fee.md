@@ -1,9 +1,9 @@
 # Fee
 
 FEE, an estate in land held of a superior lord on condition of the
-performance of homage or service (see FEUDALISM). In English law "fee"
+performance of [[Homage|homage]] or service (see FEUDALISM). In [[English Law|English law]] "fee"
 signifies an estate of inheritance (i.e. an estate descendable to the
-heirs of the grantee so long as there are any in existence) as opposed
+[[Heir|heirs]] of the grantee so long as there are any in existence) as opposed
 to an estate for life. It is divisible into three species: (1) fee
 simple; (2) conditional fee; (3) fee tail. (See ESTATE.) A fee farm rent
 is the rent reserved on granting a fee farm, i.e. land in fee simple, to
@@ -19,12 +19,12 @@ or other society. This sense of the word is taken by the _New English
 Dictionary_ to be due to a use of "fee" in its feudal sense, and to
 represent a sum paid to the holder of an office "in fee."
 
-The etymology of the Med. Lat. _feudum_, _feodum_ or _feum_, of its
+The [[Etymology|etymology]] of the Med. Lat. _feudum_, _feodum_ or _feum_, of its
 French equivalent _fief_, and English "fee," in Scots law "feu" (q.v.),
 is extremely obscure. (See the _New English Dictionary_, s.v. "Fee.")
 There is a common Teutonic word represented in Old English as _feoh_ or
 _feo_, in Old High German as _fehu_, meaning property in the shape of
-cattle (cf. modern Ger. _Vieh_, Dutch _vee_). The old Aryan _peku_ gives
+cattle (cf. modern Ger. _Vieh_, Dutch _vee_). The old [[Aryan]] _peku_ gives
 Sanskrit _pacu_, Lat. _pecus_, cattle, whence _pecunia_, money. The O.
 Eng. _feoh_, in the sense of money, possibly survives in "fee,"
 honorarium, though this is not the view of the _New English Dictionary_.

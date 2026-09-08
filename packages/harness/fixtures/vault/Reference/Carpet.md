@@ -11,7 +11,7 @@ id: 42-6597
 
 CARPET, the name given to any kind of textile covering for the ground or
 the floor, the like of which has also been in use on couches and seats
-and sometimes even for wall or tent hangings or curtains. In modern
+and sometimes even for wall or tent [[Hanging|hangings]] or [[Curtain|curtains]]. In modern
 times, however, carpet usually means a patterned fabric woven with a
 raised surface of tufts (either cut or looped), and used as a floor
 covering. Other floor coverings are and have been made also without such
@@ -22,7 +22,7 @@ imitation of it, and a further class of carpets is made of felt (see
 FELT). This last material is entirely different from that of shuttle or
 tapestry weaving. Although carpet weaving by hand is, and for centuries
 has been, an Oriental industry, it has also been, and is still, pursued
-in many European countries. Carpet-weaving by steam-driven machinery is
+in many [[European Countries|European countries]]. Carpet-weaving by steam-driven machinery is
 solely European in origin, and was not brought to the condition of
 meeting a widespread demand until the 19th century.
 
@@ -33,7 +33,7 @@ PLATE I
   ORNAMENT IN LOOPS OF COLOURED WOOLS.
 
   Egypto-Roman of the 3rd or 4th century A.D. (Victoria and Albert
-  Museum, South Kensington.)]
+  Museum, South [[Kensington]].)]
 
   [Illustration: FIG. 2.--PART OF A LINEN COVERING OVER-WROUGHT WITH
   ORNAMENT IN LOOPS OF DARK-BROWN WOOL.
@@ -74,7 +74,7 @@ garnish the palaces of the Pharaohs. If one may judge from rare remains
 of decorative textiles, in the museum at Cairo especially, dating from
 at least 1480 B.C., such Egyptian fabrics were of linen inwoven with
 coloured wools in a tapestry-weaving manner, and were not tufted or
-piled textures. Taken from the palace at Nineveh is a large marble slab
+piled textures. Taken from the palace at Nineveh is a large [[Marble|marble]] slab
 carved in low relief with a geometrical pattern surrounded by a border
 of lotus flowers and buds, evidently a copy of an Assyrian floor cover
 or rug about 705 B.C., such as was also woven probably in the
@@ -86,9 +86,9 @@ queen--the mother-in-law of Shishak who took Jerusalem some three or
 four years after the death of Solomon--and is preserved in the museum at
 Cairo. In the _Odyssey, tapetia_ are frequently mentioned, but these
 again, whether floor coverings or hangings, are more likely to have been
-flat-textured and not piled fabrics. On the tomb of Cyrus was spread a
+flat-textured and not piled fabrics. On the tomb of [[Cyrus]] was spread a
 "covering of Babylonian tapestry, the carpets underneath of the finest
-wrought purple" (Arrian vi. 29). Athenaeus (bk. v. ch. 27) gives from
+wrought purple" ([[Arrian]] vi. 29). [[Athenaeus]] (bk. v. ch. 27) gives from
 Callixenus the Rhodian (c. 280 B.C.) an account of a banquet given by
 Ptolemy Philadelphus at Alexandria, and describes "the purple carpets of
 finest wool, with the pattern on both sides," as well as "handsomely
@@ -99,7 +99,7 @@ likely to have been of tapestry-weaving, and would be nearly the same in
 appearance on both sides of the fabric. Of corresponding tapestry woven
 work are Egypto-Roman specimens dating from the 2nd or 3rd century A.D.,
 a considerable collection of which is in the Victoria and Albert Museum
-at South Kensington. From about the same period date bits of hangings or
+at South Kensington. From about the same period date [[Bit|bits]] of hangings or
 coverings woven in linen, over-wrought in a method of needlework with
 ornament of compact loops of worsted (Plate I. figs, 1 and 2). These are
 the earliest extant specimens of textiles presenting a tufted or piled
@@ -108,7 +108,7 @@ But the _modus operandi_ in producing the earlier only remotely
 corresponds with that of the later--though making a surface of loops by
 means of needlework as in the Coptic or Egypto-Roman specimens of Plate
 I. figs, 1 and 2 seems to be a step in a progress towards the
-introduction at an apparently later date of tufts into loom weavings
+introduction at an apparently later date of tufts into [[Loom|loom]] weavings
 such as we find in 16th-century tufted or piled carpets.
 
 
@@ -127,17 +127,17 @@ above this another weft thread is run in across the warps, and so on.
 These rows of tufts and weft as made are compressed together by means of
 a blunt fork or rude comb-like instrument, and thus a compact textile
 with a pile or tufted surface is produced; the projecting tufts are then
-carefully clipped to an even surface. In the East the rude wooden frames
+carefully clipped to an even surface. In the East the rude wooden [[Frame|frames]]
 in which the warp-threads are stretched either stand upright upon, or
 are level with, the ground. They are easily transported and put
 together, and the weaving in them is done chiefly by wandering groups of
 weavers. The local surroundings, often those of rocky arid districts, in
 which Kurdish and other families weave carpets are well illustrated in
 _Oriental Rugs_ by J.H. Mumford. For making pile carpets and rugs two
-traditional knots are in use; the first is termed the Turkish or
+traditional [[Knot|knots]] are in use; the first is termed the Turkish or
 Ghiordes knot, from Ghiordes, an old city not far from Brusa. It is in
-vogue principally throughout Asia Minor, as far east as Kurdistan and
-the Caucasus, but it is also used farther south-east in parts of Persia
+vogue principally throughout Asia Minor, as far east as [[Kurdistan]] and
+the [[Caucasus]], but it is also used farther south-east in parts of Persia
 and India. The yard of the pile is knotted in short lengths upon the
 warp-threads so that the two outstanding ends of each knot alternate
 with every two threads of the warp. The second traditional knot is the
@@ -146,7 +146,7 @@ close, fine, even, velvety surface, has in many parts of Persia been
 abandoned for the Ghiordes knot, which is a trifle more easily tied. The
 Persian or Sehna knot is tied so that from every space between the
 warp-threads one end of the knot protrudes. The number of knots to the
-inch tied according to either the Turkish or Persian method is
+[[Inch|inch]] tied according to either the Turkish or Persian method is
 determined by the size and closeness of the warp-threads and the size
 and number of weft-threads thrown across after each row of knots. The
 patterns of the fabrics made by country weavers are usually taken by
@@ -212,11 +212,11 @@ orthodox Mahommedans in making patterns with abstract geometric and
 angular forms, stiff interlacing devices, cryptic signs and symbols and
 the like; whilst the other suggests the freer thought of the Shiah or
 unorthodox sect, in designs of ingenious blossom and leafy scrolls,
-conventional arabesques, botanical and animal forms, and cartouches
+conventional [[Arabesque|arabesques]], botanical and animal forms, and [[Cartouche|cartouches]]
 enclosing Kufic inscriptions (see the splendid example known as the
-Ardebil carpet, Plate III. fig. 7, and another in Plate IV. fig. 9).
+[[Ardebil]] carpet, Plate III. fig. 7, and another in Plate IV. fig. 9).
 Types of the more austere design occur in carpets from Afghanistan,
-Turkestan, Bokhara and Asia Minor, N.W. India and even Morocco, the
+Turkestan, [[Bokhara]] and Asia Minor, N.W. India and even Morocco, the
 other types of freer design being almost special to Persian rugs and
 carpets.
 
@@ -227,17 +227,17 @@ Next in historic importance to Persia, Turkestan and Asia Minor is
 India, where the making of cut pile carpets--known as Kalin and
 Kalicha--was presumably introduced by the Mahommedans during the latter
 part of the 14th century. But the industry did not apparently attain
-importance until after the founding of the Mogul dynasty by Baber early
+importance until after the founding of the Mogul dynasty by [[Baber]] early
 in the 16th century. The designs mainly derived from those of Persian
 carpets of that period do not as a rule rise to the excellence of their
 prototypes. Historical centres of Indian carpet making are in Kashmir,
-the Punjab and Sind, and at Agra, Mirzapur, Jubbulpore, Warangal in the
-Deccan, Malabar and Masulipatam. Velvets are richly embroidered in gold
-and silver thread at Benares and Murshidabad and used as ceremonial
+the Punjab and Sind, and at Agra, Mirzapur, [[Jubbulpore]], Warangal in the
+Deccan, [[Malabar]] and [[Masulipatam]]. Velvets are richly embroidered in gold
+and silver thread at [[Benares]] and Murshidabad and used as ceremonial
 carpets, and silk pile carpets are made at Tanjore and Salem. For the
 most part the best of the Indian woollen pile carpets have been produced
 by workers of repute engaged by princes, great nobles and wealthy
-persons to carry on the craft in their dwellings and palaces. These
+persons to carry on the [[Craft|craft]] in their dwellings and palaces. These
 groups of highly skilled workers as part of the household staff were
 paid fixed salaries, but they were also allowed to execute private
 orders. During the 19th century the carpet industry was developed in
@@ -320,7 +320,7 @@ Of greater interest perhaps, and especially as throwing light upon the
 trade, in, if not the making of, carpets in England somewhat in the
 method of contemporary Turkey carpets, is the specimen represented in
 Plate III. fig. 6. This may have been made in England, where foreign
-workmen, especially Flemings, were from early times often encouraged to
+workmen, especially [[Fleming|Flemings]], were from early times often encouraged to
 settle in order to develop industries, amongst which pile carpet-making
 probably and tapestry-weaving certainly were included. The earliest
 record of tapestry-weaving works in England is that of William Sheldon's
@@ -328,10 +328,10 @@ at Barcheston, Warwickshire, in 1509, and, besides wall hangings,
 carpets of tapestry-weaving were also possibly made there.[2] The cut
 pile carpet belonging to Lord Verulam (Plate III. fig. 6) was perhaps
 made at Norwich. It has a repeating and simply contrived continuous
-pattern of carnations and intertwining stems with a large lozenge in the
+pattern of carnations and intertwining stems with a large [[Lozenge|lozenge]] in the
 centre bearing the royal arms of England with the letters E.R.
 (Elizabeth Regina) and the date 1570. It also has the arms of the
-borough of Ipswich and those of the family of Harbottle. The sequence or
+borough of [[Ipswich]] and those of the family of Harbottle. The sequence or
 continuity of its border pattern fails in the corners at one end of the
 rug or carpet in a way very common to many Asia Minor and Spanish
 carpets (see Plate I. fig. 3, Plate II. fig. 4, and Plate IV. fig. 10);
@@ -341,14 +341,14 @@ Albert Museum has a repeating pattern of star devices, rather Moorish in
 style, with the inscription on one end of the border, "Feare God and
 Keep His Commandments, made in the yeare 1603," and in the field the
 shield of arms of Sir Edward Apsley of Thakeham, Sussex, impaling those
-of his wife, Elizabeth Elmes of Lifford, Northamptonshire. This may have
+of his wife, Elizabeth [[Elm|Elmes]] of [[Lifford]], Northamptonshire. This may have
 been made in England. A carpet of very similar design, especially in its
 border, is to be seen in a painting by Marc Gheeraedts of the conference
 at old Somerset House of English and Spanish plenipotentiaries (1604),
 now in the National Portrait Gallery, London. A more important and
 finer carpet belongs to the Girdlers' Company (Plate IV. fig. 8), and
 is of Persian design, into which are introduced the arms of the company,
-shields with eagles, and white panels with English letters, the monogram
+shields with [[Eagle|eagles]], and white panels with English letters, the monogram
 of Robert Bell the master in 1634, but this was made at Lahore[3] to his
 order.
 
@@ -365,11 +365,11 @@ whence they came. A large and most interesting series is shown in the
 Victoria and Albert Museum, and a portion of one of the earlier of the
 Spanish cut pile carpets in that museum is given in Plate IV. fig. 10.
 The inner repeating pattern has suggestions of a lingering Moorish
-influence, but a superior version of it with better definition is to be
+influence, but a superior version of it with better [[Definition|definition]] is to be
 seen in extant bits of Spanish shuttle-woven silks of the 16th century.
 The border of distorted dragon-like creatures is of a Renaissance style,
 and this style is more pronounced in other Spanish carpets having
-borders of poorly treated Italian 16th-century pilaster ornament. Beside
+[[Borders|borders]] of poorly treated Italian 16th-century pilaster ornament. Beside
 cut pile, many Spanish carpets of the 17th and 18th centuries have
 looped and flat surfaces, and bear Spanish names and inscriptions; many
 too are of needlework in tent or cross stitch.
@@ -393,7 +393,7 @@ to such as are commonly used in Rhodian pottery decoration of the 16th
 century, though more typical of those so frequent in 17th-century
 Turkish ornament. Various considerations lead to the conclusion that
 these so-called Polish carpets were probably made in either
-Constantinople or Damascus (_tapete Damaschini_ frequently occur in
+Constantinople or [[Damascus]] (_tapete Damaschini_ frequently occur in
 Venetian inventories of the 16th century) rather than, as has been
 thought, by the Persian workmen employed at the Mazarski silk factory
 which lasted for a short period only during the 18th century at Sleucz
@@ -405,8 +405,8 @@ in Poland.
 The European carpet manufactory, of which a continuous history for some
 two hundred and fifty years is recorded with exceptional completeness,
 is that which has been maintained under successive regimes, royal,
-imperial and republican, in France--at the Hotel des Gobelins in Paris.
-Seventy years before its organization under Colbert in 1667 as a state
+imperial and republican, in France--at the Hotel des [[Gobelin|Gobelins]] in Paris.
+Seventy years before its organization under [[Colbert]] in 1667 as a state
 manufactory (_Manufacture Royale des Meubles de la Couronne_), Henry IV.
 had founded royal art workshops for all sorts of decorative work, at the
 Louvre; and here in 1604 a workroom was established for making Oriental
@@ -428,19 +428,19 @@ Here, in contradistinction to the Savonnerie, carpets are made others
 which, like those of Beauvais (where a manufactory of hangings and
 carpets was established by Colbert in 1664), are _tapis ras_ or
 non-piled carpets, being of tapestry-weaving, as also are those made by
-old-established firms at Aubusson and at Felletin, where the manufacture
+old-established firms at [[Aubusson]] and at Felletin, where the manufacture
 was flourishing, at the former place in 1732 and at the latter in 1737.
 
 Returning now to England, there are evidences towards the end of the
 17th century, if not earlier, that Walloon and Flemish makers of Turkey
 pile carpets had settled and set up works in different parts of the
 country. A protective charter, for instance, was granted in 1701 by
-William III. to weavers in Axminster and Wilton. The ultimate celebrity
+William III. to weavers in [[Axminster]] and Wilton. The ultimate celebrity
 of the pile carpet industry at Wilton was due mainly to the interest
 taken in it during the earlier part of the 18th century by Henry, earl
 of Pembroke and Montgomery, who in the course of his travels abroad
 collected certain French and Walloon carpet-makers to work for him in
-Wiltshire--over them he put two Frenchmen, Antoine Dufossy and Pierre
+Wiltshire--over them he put two Frenchmen, [[Antoine]] Dufossy and Pierre
 Jemale. More notable, however, than these is Pere Norbert, who
 naturalized himself as an Englishman, changed his name to Parisot, and
 started a manufactory of pile carpets and a training school in the craft
@@ -450,21 +450,21 @@ and of carpets after the manner of that at Chaillot (i.e. Savonnerie)
 now undertaken at Fulham by Mr Peter Parisot." Two refugee French
 carpet-makers from the Savonnerie had arrived in London in 1750, and
 started weaving a specimen carpet in Westminster. Parisot, having found
-them out, induced the duke of Cumberland to furnish funds for their
+them out, induced the duke of [[Cumberland]] to furnish funds for their
 removal to better workrooms at Paddington. The carpet when finished was
-presented by the duke to the princess dowager of Wales. Parisot
+presented by the duke to the princess [[Dowager|dowager]] of Wales. Parisot
 quarrelled with his two employees, enticed others to come over, and then
 removed the carpet works from Paddington to Fulham. A worker, J.
-Baptiste Grignon, writing to "Mr Parisot in Foulleme Manufactory,"
+[[Baptiste]] Grignon, writing to "Mr Parisot in Foulleme Manufactory,"
 mentions the marked preference "shown by the English court for velvet,"
 and how much a "chair-back he had worked in the manner of the Savonnerie
-had been admired." Correspondence published in the _Nouvelles Archives
+had been admired." Correspondence published in the _Nouvelles [[Archive|Archives]]
 de l'art français_ (1878) largely relates to the efforts of the French
 government to stop the emigration to England of workers from the
 Gobelins and the Savonnerie. Parisot's Fulham works were sold up in
 1755. He then tried to start a manufactory at Exeter, but apparently
 without success, as in 1756 his Exeter stock was sold in the Great
-Piazza auction rooms, Covent Garden. Joseph Baretti (Dr Johnson's
+Piazza auction rooms, Covent Garden. Joseph [[Baretti]] (Dr Johnson's
 friend), writing from Plymouth on the 18th of April 1760, alludes to his
 having that morning visited the Exeter manufactory of _tapisseries de
 Gobelins_ "founded by a distinguished anti-Jesuit--the renowned Father
@@ -473,7 +473,7 @@ Nobert." Previously to this a Mr Passavant of Exeter[4] had received in
 "imitation of those brought from the East and called Turky carpets."
 Similar premiums had been awarded by the society in 1757 to a Mr Moore
 of Chiswell Street, Moorfields, and to a Mr Whitty of Axminster. In 1759
-a society's premium was won by Mr Jeffer of Frome. In the _Transactions
+a society's premium was won by Mr Jeffer of [[Frome]]. In the _Transactions
 of the Society_, vol. i., dated 1783, it is stated that by their
 rewards, the manufacture of "Turky carpets is now established in
 different parts of the kingdom, and brought to a degree of elegance and
@@ -491,26 +491,26 @@ and 16th centuries for tapestry-weaving.
   Modern machinery.
 
 Before the existence of steam-driven carpet-making machinery in England,
-employers, following the example set by the French, applied the Jacquard
+employers, following the example set by the French, applied the [[Jacquard]]
 apparatus, for regulating and facilitating the weaving of patterns, to
 the hand manufacture of carpets. This was early in the 19th century; a
 great acceleration in producing English carpets occurred, severely
 threatening the industry as pursued (largely for _tapis ras_) at Tournai
-in Belgium, at Nimes, Abbeville, Aubusson, Beauvais, Tourcoing and
-Lannoy in France. The severity of the competition, however, was still
+in [[Belgium]], at Nimes, Abbeville, Aubusson, Beauvais, Tourcoing and
+[[Lannoy]] in France. The severity of the competition, however, was still
 more increased when English enterprise, developing the inventions of
-Erastus B. Bigelow (1814-1879) of America and Mr William Wood of
+[[Erastus]] B. Bigelow (1814-1879) of America and Mr William Wood of
 England, took the lead in perfecting Jacquard weaving carpet looms
 worked by steam, which resulted in the setting up of many power-loom
 carpet manufactories in the United Kingdom. It was not until 1880 that
 French pile carpet manufacturers began to adopt similar carpet
 power-looms, importing them from England.
 
-These machines for weaving pile carpets, either looped (_bouclé_) as in
+These [[Machine|machines]] for weaving pile carpets, either looped (_bouclé_) as in
 Brussels, or cut (_velouté_) as in Wilton or Axminster carpets, were
 similar in all respects to such as had been in use by the important
-English manufacturers--Crossley of Halifax, Templeton of Glasgow,
-Humphreys of Kidderminster, Southwell of Bridgnorth, and others. A
+English manufacturers--Crossley of Halifax, Templeton of [[Glasgow]],
+Humphreys of [[Kidderminster]], Southwell of Bridgnorth, and others. A
 so-called tapestry carpet weaving-loom was invented by Richard Whytock
 of Edinburgh in 1832, but it was not brought to sufficient completeness
 for sustained manufacture until 1855. The essential feature of Mr
@@ -571,7 +571,7 @@ intelligent study of Oriental designs have resulted in the definite
 designing of conventional forms for surface patterns. The early movement
 in this direction owes much to the teaching of Owen Jones, and in its
 later and rather freer phases the Morris influence has been powerful.
-Schools of art at Glasgow, at Manchester, Birmingham and elsewhere in
+Schools of art at Glasgow, at Manchester, [[Birmingham]] and elsewhere in
 the United Kingdom have trained and continue to train designers, whose
 work has contributed to the formation of an English style with a new
 note, which, as a French writer puts it, has created a sensation in
@@ -586,7 +586,7 @@ different from any that clearly throws back to Oriental principles, and
 many of the designs for the finer and larger of these carpets are
 schemed with large central oval panels, garlands of flowers and
 fantastic frames very much on the plan of what is frequently to be seen
-in the decoration of ceilings. At the same time the style called _l'art
+in the decoration of [[Ceiling|ceilings]]. At the same time the style called _l'art
 nouveau_ has become developed. It largely grows from very fanciful
 dispositions of free-growing natural forms, as well as curiously curved
 and tenuous forms, many of which are bone-like and fibre-like in
@@ -628,7 +628,7 @@ PLATE IV.
   BIBLIOGRAPHY.--(1) _An Account of the New Manufactory of Tapestry
   after the manner of that at the Gobelins; and of Carpets after the
   manner of that at Chaillot, &c., now undertaken at Fulham, by Mr Peter
-  Parisot_ (London, Dodsley, 1753, 8vo). This is probably the only
+  Parisot_ (London, [[Dodsley]], 1753, 8vo). This is probably the only
   account of carpet-making in England during the 18th century; it is of
   peculiar interest in that respect, and as containing a statement that
   "the Manufacture of Chaillot is altogether of wool, and worked in the
@@ -639,19 +639,19 @@ PLATE IV.
   l'industrie des tapisseries et tapis_, by W. Chocqueel (Paris, 1863).
   (3) Vol. xi. of _Reports on the Paris Universal Exhibition of 1867_,
   containing "Report on Carpets, Tapestry and other stuffs for
-  Furniture," by Matthew Digby Wyatt, F.S.A. (1868). In reviewing the
+  Furniture," by [[Matthew]] [[Digby]] Wyatt, F.S.A. (1868). In reviewing the
   modern products shown at the exhibition, Sir Digby Wyatt discusses at
   some length the aesthetics of carpet design. (4) _British
   Manufacturing Industries_, edited by G. Phillips Bevan, "Carpets," by
-  Christopher Fresser (London, 1876). (5) _Altorientalische
+  [[Christopher]] Fresser (London, 1876). (5) _Altorientalische
   Teppichmuster nach Bildern und Originalen des xv.-xvi. Jahrhunderts_,
-  by Julius Lessing (Berlin, 1877). Numerous references are made in this
+  by [[Julius]] [[Lessing]] (Berlin, 1877). Numerous references are made in this
   illustrated work to the carpet designs that occur in paintings by
   Italian and Flemish masters. (6) _Eastern Carpets_, by Vincent J.
   Robinson, with water-colour drawings by E. Julia Robinson (London,
   1882, large 4to). In this publication, which precedes by nine or
   ten years the more learned works by Riegl and Bode, there are two
-  examples, one ascribed to the manufactory at Alcaraz in La Mancha, and
+  examples, one ascribed to the manufactory at Alcaraz in La [[Mancha]], and
   one to the supposed manufactory of the 17th century at Warsaw. By the
   light of later and more complete investigations Mr Robinson's
   ascriptions are scarcely borne out. (7) _Oriental Carpets_, by Herbert
@@ -672,7 +672,7 @@ PLATE IV.
   London; and Alois Riegl, Vienna, and a preface by A. von Scala,
   Vienna, (n) _Ancient Oriental Carpets_, a supplement to the above,
   four parts containing twenty-five plates with text (Leipzig, 1906,
-  large folio). (12) _Vorderasiatische Knüpfteppiche aus älterer Zeit_,
+  large [[Folio|folio]]). (12) _Vorderasiatische Knüpfteppiche aus älterer Zeit_,
   by Wilhelm Bode (Leipzig, 1901). This learned treatise gives _inter
   alia_ suggestive notes upon the production of the so-called Polish
   carpets and of Spanish carpets. (13) _Ein orientalischer Teppich vom
@@ -687,12 +687,12 @@ PLATE IV.
   carefully discussed, especially in connexion with the appearance in it
   of well-authenticated Sassanid devices--streams with fishes and birds,
   &c. (14) _Report on Carpets at the Paris Exhibition of 1900_, by
-  Ferdinand Leborgne (1901, 8vo). (15) _Oriental Rugs_, by John Kimberly
+  [[Ferdinand]] Leborgne (1901, 8vo). (15) _Oriental Rugs_, by John Kimberly
   Mumford (London, 1901), contains twenty-four colour-plate and autotype
   reproductions of rugs and eight photo-engravings of phases of the rug
   industry--amongst which latter are: "A Nomad Studio," "Kurdish Girls
-  at the Loom," "Boy Weavers of Tabriz," and a "Rug Market in Iran."
-  (16) _Rugs, Oriental and Occidental_, by Rosa Belle Holt (Chicago,
+  at the Loom," "Boy Weavers of Tabriz," and a "Rug Market in [[Iran]]."
+  (16) _Rugs, Oriental and Occidental_, by Rosa Belle Holt ([[Chicago]],
   1901), well illustrated, with colour-plate reproductions of various
   types of rugs, including less known Chinese and Navajo specimens. (17)
   _The Art Workers' Quarterly_, vol. iii. No. II, July 1904; article on
@@ -706,9 +706,9 @@ PLATE IV.
   versions of fine designs, e.g. some from the Punjab, Warangal,
   Mirzapur and Elura; those from Yarkand exhibit Tatar and Chinese
   influences. (19) _A History of Oriental Carpets before 1800_, by F.R.
-  Martin, published by the State Printing Office in Vienna (Bernard
+  [[Martin]], published by the State Printing Office in Vienna ([[Bernard]]
   Quaritch, London, 1906). This contains a series of excellent
-  reproductions in colours of Oriental carpets, many of which, being
+  reproductions in [[Colours|colours]] of Oriental carpets, many of which, being
   presents to kings of Sweden by the shah of Persia in the 17th century,
   are to be seen in the castles of Stockholm and Copenhagen--others are
   in the Imperial Museum at Constantinople or belong to private owners.
@@ -724,7 +724,7 @@ FOOTNOTES:
     made tapestry-woven hangings and coverings for furniture.
 
   [2] In Hakluyt's _Voyages_ mention is made of directions having been
-    given to Morgan Hubblethorne, a dyer, to proceed (about 1579) to
+    given to Morgan Hubblethorne, a [[Dyer|dyer]], to proceed (about 1579) to
     Persia to learn the arts of dyeing and of making carpets.
 
   [3] The Royal Factory at Lahore was established by Akbar the Great in

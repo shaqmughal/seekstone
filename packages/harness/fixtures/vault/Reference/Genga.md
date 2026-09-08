@@ -33,7 +33,7 @@ Pesaro. The duke of Urbino was eventually restored to his dominions; he
 took Genga with him, and appointed him the ducal architect. As he neared
 the close of his career, Genga retired to a house in the vicinity of
 Urbino, continuing still to produce designs in pencil; one, of the
-"Conversion of St Paul," was particularly admired. Here he died on the
+"[[Conversion]] of St Paul," was particularly admired. Here he died on the
 11th of July 1551. Genga was a sculptor and musician as well as painter
 and architect. He was jovial, an excellent talker, and kindly to his
 friends. His principal pupil was Francesco Menzocchi. His own son

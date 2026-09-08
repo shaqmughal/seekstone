@@ -8,25 +8,25 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Humboldt"
 
 # Humboldt
 
-HUMBOLDT, FRIEDRICH HEINRICH ALEXANDER, BARON VON (1769-1859), German
+HUMBOLDT, [[Friedrich|FRIEDRICH]] HEINRICH ALEXANDER, BARON VON (1769-1859), German
 naturalist and traveller, was born at Berlin, on the 14th of September
-1769. His father, who was a major in the Prussian army, belonged to a
+1769. His father, who was a [[Major|major]] in the Prussian army, belonged to a
 Pomeranian family of consideration, and was rewarded for his services
-during the Seven Years' War with the post of royal chamberlain. He
-married in 1766 Maria Elizabeth von Colomb, widow of Baron von Hollwede,
+during the Seven Years' War with the post of royal [[Chamberlain|chamberlain]]. He
+married in 1766 Maria Elizabeth von [[Colomb]], widow of Baron von Hollwede,
 and had by her two sons, of whom the younger is the subject of this
 article. The childhood of Alexander von Humboldt was not a promising one
-as regards either health or intellect. His characteristic tastes,
-however, soon displayed themselves; and from his fancy for collecting
-and labelling plants, shells and insects he received the playful title
-of "the little apothecary." The care of his education, on the unexpected
+as regards either health or [[Intellect|intellect]]. His characteristic tastes,
+however, soon displayed themselves; and from his [[Fancy|fancy]] for collecting
+and labelling plants, shells and [[Insect|insects]] he received the playful title
+of "the little [[Apothecary|apothecary]]." The care of his education, on the unexpected
 death of his father in 1779, devolved upon his mother, who discharged
 the trust with constancy and judgment. Destined for a political career,
 he studied finance during six months at the university of
 Frankfort-on-the-Oder; and a year later, April 25, 1789, he matriculated
-at Gottingen, then eminent for the lectures of C. G. Heyne and J. F.
+at Gottingen, then eminent for the lectures of C. G. [[Heyne]] and J. F.
 Blumenbach. His vast and varied powers were by this time fully
-developed; and during the vacation of 1789 he gave a fair earnest of his
+developed; and during the vacation of 1789 he gave a fair [[Earnest|earnest]] of his
 future performances in a scientific excursion up the Rhine, and in the
 treatise thence issuing, _Mineralogische Beobachtungen uber einige
 Basalte am Rhein_ (Brunswick, 1790). His native passion for distant
@@ -37,13 +37,13 @@ combination of parts enabled him to render at once multifarious, rapid
 and profound, were directed with extraordinary insight and perseverance
 to the purpose of preparing himself for his distinctive calling as a
 scientific explorer. With this view he studied commerce and foreign
-languages at Hamburg, geology at Freiberg under A. G. Werner, anatomy at
-Jena under J. C. Loder, astronomy and the use of scientific instruments
+languages at [[Hamburg]], geology at [[Freiberg]] under A. G. Werner, anatomy at
+[[Jena]] under J. C. Loder, [[Astronomy|astronomy]] and the use of scientific instruments
 under F. X. von Zach and J. G. Kohler. His researches into the
 vegetation of the mines of Freiberg led to the publication in 1793 of
 his _Florae Fribergensis Specimen_; and the results of a prolonged
 course of experiments on the phenomena of muscular irritability, then
-recently discovered by L. Galvani, were contained in his _Versuche uber
+recently discovered by L. [[Galvani]], were contained in his _Versuche uber
 die gereizte Muskel- und Nervenfaser_ (Berlin, 1797), enriched in the
 French translation with notes by Blumenbach.
 
@@ -54,7 +54,7 @@ Genius_. In the summer of 1790 he paid a flying visit to England in
 company with Forster. In 1792 and 1797 he was in Vienna; in 1795 he made
 a geological and botanical tour through Switzerland and Italy. He had
 obtained in the meantime official employment, having been appointed
-assessor of mines at Berlin, February 29, 1792. Although the service of
+[[Assessor|assessor]] of mines at Berlin, February 29, 1792. Although the service of
 the state was consistently regarded by him but as an apprenticeship to
 the service of science, he fulfilled its duties with such conspicuous
 ability that he not only rapidly rose to the highest post in his
@@ -64,9 +64,9 @@ free to follow the bent of his genius, and, finally severing his
 official connexions, he waited for an opportunity of executing his
 long-cherished schemes of travel. On the postponement of Captain
 Baudin's proposed voyage of circumnavigation, which he had been
-officially invited to accompany, he left Paris for Marseilles with Aime
-Bonpland, the designated botanist of the frustrated expedition, hoping
-to join Bonaparte in Egypt. Means of transport, however, were not
+officially invited to accompany, he left Paris for [[Marseilles]] with Aime
+[[Bonpland]], the designated botanist of the frustrated expedition, hoping
+to join [[Bonaparte]] in Egypt. Means of transport, however, were not
 forthcoming, and the two travellers eventually found their way to
 Madrid, where the unexpected patronage of the minister d'Urquijo
 determined them to make Spanish America the scene of their explorations.
@@ -77,39 +77,39 @@ ascent of the Peak, and landed, on the 16th of July, at Cumana. There
 Humboldt observed, on the night of the 12-13th of November, that
 remarkable meteor-shower which forms the starting-point of our
 acquaintance with the periodicity of the phenomenon; thence he proceeded
-with Bonpland to Caracas; and in February 1800 he left the coast for the
+with Bonpland to [[Caracas]]; and in February 1800 he left the coast for the
 purpose of exploring the course of the Orinoco. This trip, which lasted
 four months, and covered 1725 m. of wild and uninhabited country, had
 the important result of establishing the existence of a communication
 between the water-systems of the Orinoco and Amazon, and of determining
 the exact position of the bifurcation. On the 24th of November the two
 friends set sail for Cuba, and after a stay of some months regained the
-mainland at Cartagena. Ascending the swollen stream of the Magdalena,
-and crossing the frozen ridges of the Cordilleras, they reached Quito
+mainland at [[Cartagena]]. Ascending the swollen stream of the Magdalena,
+and crossing the frozen ridges of the [[Cordillera|Cordilleras]], they reached Quito
 after a tedious and difficult journey on the 6th of January 1802. Their
 stay there was signalized by the ascent of Pichincha and Chimborazo, and
 terminated in an expedition to the sources of the Amazon _en route_ for
-Lima. At Callao Humboldt observed the transit of Mercury on the 9th of
+[[Lima]]. At [[Callao]] Humboldt observed the transit of Mercury on the 9th of
 November, and studied the fertilizing properties of guano, the
 introduction of which into Europe was mainly due to his writings. A
 tempestuous sea-voyage brought them to the shores of Mexico, and after a
 year's residence in that province, followed by a short visit to the
-United States, they set sail for Europe from the mouth of the Delaware,
-and landed at Bordeaux on the 3rd of August 1804.
+United States, they set sail for Europe from the mouth of the [[Delaware]],
+and landed at [[Bordeaux]] on the 3rd of August 1804.
 
 Humboldt may justly be regarded as having in this memorable expedition
 laid the foundation in their larger bearings of the sciences of physical
-geography and meteorology. By his delineation (in 1817) of "isothermal
+[[Geography|geography]] and meteorology. By his delineation (in 1817) of "isothermal
 lines," he at once suggested the idea and devised the means of comparing
 the climatic conditions of various countries. He first investigated the
 rate of decrease in mean temperature with increase of elevation above
 the sea-level, and afforded, by his inquiries into the origin of
-tropical storms, the earliest clue to the detection of the more
-complicated law governing atmospheric disturbances in higher latitudes;
+tropical storms, the earliest [[Clue|clue]] to the detection of the more
+complicated law governing atmospheric disturbances in higher [[Latitude|latitudes]];
 while his essay on the geography of plants was based on the then novel
 idea of studying the distribution of organic life as affected by varying
 physical conditions. His discovery of the decrease in intensity of the
-earth's magnetic force from the poles to the equator was communicated to
+earth's magnetic force from the poles to the [[Equator|equator]] was communicated to
 the Paris Institute in a memoir read by him on the 7th of December 1804,
 and its importance was attested by the speedy emergence of rival claims.
 His services to geology were mainly based on his attentive study of the
@@ -123,14 +123,14 @@ The reduction into form and publication of the encyclopaedic mass of
 materials--scientific, political and archaeological--collected by him
 during his absence from Europe was now Humboldt's most urgent desire.
 After a short trip to Italy with Gay-Lussac for the purpose of
-investigating the law of magnetic declination, and a sojourn of two
+investigating the law of magnetic [[Declination|declination]], and a sojourn of two
 years and a half in his native city, he finally, in the spring of 1808,
 settled in Paris with the purpose of securing the scientific
-co-operation required for bringing his great work through the press.
+[[Co-Operation|co-operation]] required for bringing his great work through the press.
 This colossal task, which he at first hoped would have occupied but two
 years, eventually cost him twenty-one, and even then remained
 incomplete. With the exception of Napoleon Bonaparte, he was the most
-famous man in Europe. A chorus of applause greeted him from every side.
+famous man in Europe. A chorus of [[Applause|applause]] greeted him from every side.
 Academies, both native and foreign, were eager to enrol him among their
 members. Frederick William III. of Prussia conferred upon him the
 honour, without exacting the duties, attached to the post of royal
@@ -153,7 +153,7 @@ regret. The provincialism of his native city was odious to him. He never
 ceased to rail against the bigotry without religion, aestheticism
 without culture, and philosophy without common sense, which he found
 dominant on the banks of the Spree. The unremitting benefits and sincere
-attachment of two well-meaning princes secured his gratitude, but could
+[[Attachment|attachment]] of two well-meaning princes secured his gratitude, but could
 not appease his discontent. At first he sought relief from the "nebulous
 atmosphere" of his new abode by frequent visits to Paris; but as years
 advanced his excursions were reduced to accompanying the monotonous
@@ -182,7 +182,7 @@ Prussian government; but on each occasion untoward circumstances
 interposed, and it was not until he had entered upon his sixtieth year
 that he resumed his early _role_ of a traveller in the interests of
 science. Between May and November 1829 he, together with his chosen
-associates Gustav Rose and C. G. Ehrenberg, traversed the wide expanse
+associates Gustav Rose and C. G. [[Ehrenberg]], traversed the wide expanse
 of the Russian empire from the Neva to the Yenesei, accomplishing in
 twenty-five weeks a distance of 9614 m. The journey, however, though
 carried out with all the advantages afforded by the immediate patronage
@@ -215,7 +215,7 @@ generalization by details, and dignify details by generalization, had
 floated before his mind for upwards of half a century. It first took
 definite shape in a set of lectures delivered by him before the
 university of Berlin in the winter of 1827-1828. These lectures formed,
-as his latest biographer expresses it, "the cartoon for the great fresco
+as his latest biographer expresses it, "the [[Cartoon|cartoon]] for the great fresco
 of the _Kosmos_." The scope of this remarkable work may be briefly
 described as the representation of the unity amid the complexity of
 nature. In it the large and vague ideals of the 18th are sought to be
@@ -223,7 +223,7 @@ combined with the exact scientific requirements of the 19th century.
 And, in spite of inevitable shortcomings, the attempt was in an eminent
 degree successful. Nevertheless, the general effect of the book is
 rendered to some extent unsatisfactory by its tendency to substitute the
-indefinite for the infinite, and thus to ignore, while it does not deny,
+indefinite for the [[Infinite|infinite]], and thus to ignore, while it does not deny,
 the existence of a power outside and beyond nature. A certain heaviness
 of style, too, and laborious picturesqueness of treatment make it more
 imposing than attractive to the general reader. But its supreme and
@@ -251,7 +251,7 @@ labours. He owed much of what he accomplished to his rare power of
 assimilating the thoughts and availing himself of the co-operation of
 others. He was not more ready to incur than to acknowledge obligations.
 The notes to _Kosmos_ overflow with laudatory citations, the current
-coin in which he discharged his intellectual debts.
+[[Coin|coin]] in which he discharged his intellectual [[Debt|debts]].
 
 On the 24th of February 1857 Humboldt was attacked with a slight
 apoplectic stroke, which passed away without leaving any perceptible
@@ -263,7 +263,7 @@ previously to being interred in the family resting-place at Tegel, were
 conveyed in state through the streets of Berlin, and received by the
 prince-regent with uncovered head at the door of the cathedral. The
 first centenary of his birth was celebrated on the 14th of September
-1869, with equal enthusiasm in the New and Old Worlds; and the numerous
+1869, with equal [[Enthusiasm|enthusiasm]] in the New and Old Worlds; and the numerous
 monuments erected in his honour, and newly explored regions called by
 his name, bear witness to the universal diffusion of his fame and
 popularity.
@@ -283,15 +283,15 @@ genius. Yet his attachments, once formed, were sincere and lasting. He
 made innumerable friends; and it does not stand on record that he ever
 lost one. His benevolence was throughout his life active and
 disinterested. His early zeal for the improvement of the condition of
-the miners in Galicia and Franconia, his consistent detestation of
+the miners in [[Galicia]] and Franconia, his consistent detestation of
 slavery, his earnest patronage of rising men of science, bear witness to
 the large humanity which formed the ground-work of his character. The
-faults of his old age have been brought into undue prominence by the
+[[Fault|faults]] of his old age have been brought into undue prominence by the
 injudicious publication of his letters to Varnhagen von Ense. The chief
 of these was his habit of smooth speaking, almost amounting to flattery,
-which formed a painful contrast with the caustic sarcasm of his
+which formed a painful contrast with the [[Caustic|caustic]] sarcasm of his
 confidential utterances. His vanity, at all times conspicuous, was
-tempered by his sense of humour, and was so frankly avowed as to invite
+tempered by his sense of [[Humour|humour]], and was so frankly avowed as to invite
 sympathy rather than provoke ridicule. After every deduction has been
 made, he yet stands before us as a colossal figure, not unworthy to take
 his place beside Goethe as the representative of the scientific side of
@@ -299,16 +299,16 @@ the culture of his country.
 
   The best biography of Humboldt is that of Professor Karl Bruhns (3
   vols., 8vo, Leipzig, 1872), translated into English by the Misses
-  Lassell in 1873. Brief accounts of his career are given by A. Dove in
-  _Allgemeine deutsche Biographie_, and by S. Gunther in _Alexander von
+  Lassell in 1873. Brief accounts of his career are given by A. [[Dove]] in
+  _Allgemeine deutsche Biographie_, and by S. [[Gunther]] in _Alexander von
   Humboldt_ (Berlin, 1900). The _Voyage aux regions equinoxiales du
   Nouveau Continent, fait en 1799-1804, par Alexandre de Humboldt et
-  Aime Bonpland_ (Paris, 1807, &c.), consisted of thirty folio and
+  Aime Bonpland_ (Paris, 1807, &c.), consisted of thirty [[Folio|folio]] and
   quarto volumes, and comprised a considerable number of subordinate but
   important works. Among these may be enumerated _Vue des Cordilleres et
   monuments des peuples indigenes de l'Amerique_ (2 vols. folio, 1810);
   _Examen critique de l'histoire de la geographie du Nouveau Continent_
-  (1814-1834); _Atlas geographique et physique du royaume de la Nouvelle
+  (1814-1834); _[[Atlas]] geographique et physique du royaume de la Nouvelle
   Espagne_ (1811); _Essai politique sur le royaume de la Nouvelle
   Espagne_ (1811); _Essai sur la geographie des plantes_ (1805, now very
   rare); and _Relation historique_ (1814-1825), an unfinished narrative
@@ -333,10 +333,10 @@ the culture of his country.
   importance, is his _Briefe an Varnhagen von Ense_ (Leipzig, 1860).
   This was followed in rapid succession by _Briefwechsel mit einem
   jungen Freunde_ (Friedrich Althaus, Berlin, 1861); _Briefwechsel mit
-  Heinrich Berghaus_ (3 vols., Jena, 1863); _Correspondance scientifique
+  Heinrich [[Berghaus]]_ (3 vols., Jena, 1863); _Correspondance scientifique
   et litteraire_ (2 vols., Paris, 1865-1869); "Lettres a Marc-Aug.
-  Pictet," published in _Le Globe_, tome vii. (Geneva, 1868); _Briefe an
-  Bunsen_ (Leipzig, 1869); _Briefe zwischen Humboldt und Gauss_ (1877);
+  Pictet," published in _Le Globe_, tome vii. ([[Geneva]], 1868); _Briefe an
+  [[Bunsen]]_ (Leipzig, 1869); _Briefe zwischen Humboldt und [[Gauss]]_ (1877);
   _Briefe an seinen Bruder Wilhelm_ (Stuttgart, 1880); _Jugendbriefe an
   W. G. Wegener_ (Leipzig, 1896); besides some other collections of less
   note. An octavio edition of Humboldt's principal works was published

@@ -6,7 +6,7 @@ blue clay of any kind; by the earlier writers it was sometimes spelt
 "Galt" or "Golt."
 
 The formation now known as Gault in England has been variously
-designated "Blue Marle," "Brick Earth," "Golt Brick Earth" and
+designated "Blue Marle," "[[Brick]] Earth," "Golt Brick Earth" and
 "Oak-tree-soil." In certain parts of the south of England the Gault
 appears as a well-marked deposit of clay, lying between two sandy
 formations; the one above came to be known as the "Upper Greensand," the
@@ -18,7 +18,7 @@ A.J. Jukes-Browne that these two series of beds should be regarded as
 the arenaceous and argillaceous phases of a single formation, to which
 he has given the name "Selbornian" (from the village of Selborne where
 the beds are well developed). Lithologically, then, the Selbornian
-includes the blue and grey clays and marls of the Gault proper; the
+includes the blue and grey clays and [[Marl|marls]] of the Gault proper; the
 glauconitic sands of the Upper Greensand, and their local equivalent,
 the "malm," "malm rock" or "firestone," which in places passes into the
 micaceous sandstone containing sponge spicules and globules of silica,
@@ -27,9 +27,9 @@ northern France. In Yorkshire, Lincolnshire and parts of Norfolk the
 Selbornian is represented by the Red Chalk. The malm is a ferruginous
 siliceous rock, the silica being mainly in the colloidal condition in
 the form of globules and sponge spicules; some quartz grains, mica and
-glauconite are usually present along with from 2 to 25% of calcareous
+[[Glauconite|glauconite]] are usually present along with from 2 to 25% of calcareous
 matter. Chert-bands and nodules are common in the Upper Greensand of
-certain districts; and calcareous concretions, locally recognized as
+certain districts; and calcareous [[Concretion|concretions]], locally recognized as
 cowstones (Lyme Regis), doggers or buhrstones, are not infrequent.
 
 The principal divisions of the Selbornian stage with their
@@ -47,7 +47,7 @@ characteristic zonal fossils are as follows:--
 
   The Gault (with Upper Greensand) crops out all round the Wealden area;
   it extends beneath the London basin and reappears from beneath the
-  northern scarp of the Chalk along the foot of the Chiltern Hills to
+  northern scarp of the Chalk along the foot of the [[Chiltern Hills]] to
   near Tring. In the south of England the Gault clay is fairly constant
   in the lower part, with the Greensand above; the clay, however, passes
   into sand as it is followed westward and, as already pointed out, the
@@ -57,7 +57,7 @@ characteristic zonal fossils are as follows:--
   towards the west about Frome, and thence passes unconformably across
   the Portlandian beds, Kimeridge Clay, Corallian beds and Oxford Clay;
   in south Dorsetshire it rests upon the Wealden Series. The Gault (with
-  Upper Greensand) passes on to the Jurassic and Rhaetic rocks near
+  Upper Greensand) passes on to the [[Jurassic]] and Rhaetic rocks near
   Axmouth, and oversteps farther westward, in the Haldon Hills, on to
   the Permian. A large outlier occurs on the Blackdown Hills of
   Devonshire. Good localities for fossils are Folkestone--where many of
@@ -83,7 +83,7 @@ characteristic zonal fossils are as follows:--
   Cretaceous with this formation. In addition to the fossils already
   noticed, the following may be mentioned: _Acanthoceras Desmoceras
   Beaudanti, Hoplites splendens, Hamites, Scaphites, Turrilites,
-  Aporrhais retusa, Trigonia aliforme_, also _Ichthyosaurus_ and
+  Aporrhais retusa, Trigonia aliforme_, also _[[Ichthyosaurus]]_ and
   _Ornithocheirus_ (Pterodactyl). From the clays, bricks and tiles are
   made at Burham, Barnwell, Dunton Green, Arlesey, Hitchin, &c. The
   cherts in the Greensand portion are used for road metal, and in the

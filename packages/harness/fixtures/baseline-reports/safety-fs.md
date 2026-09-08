@@ -1,9 +1,9 @@
 # Write Safety — fs
 
 - **Adapter:** Filesystem-direct (MiniSearch in-process, no HTTP round-trip)
-- **Snapshot:** 2026-08-29T21:37:17.805Z
+- **Snapshot:** 2026-09-07T04:09:11.715Z
 - **Sample:** 25 frontmatter-heavy notes
-- **Vault copy:** `<tmpdir>/seekstone-safety-Bhpdmh`
+- **Vault copy:** `<tmpdir>/seekstone-safety-dXmbkB`
 - **Original (read-only, untouched):** `packages/harness/fixtures/vault`
 
 ## Summary

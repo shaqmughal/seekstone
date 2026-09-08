@@ -24,7 +24,7 @@ prepared to invade England. The expedition was forbidden by the papal
 legate, but Louis set out from Calais on the 20th and landed at Stonor
 on the 22nd of May 1216. In three months he had obtained a strong
 foothold in eastern England, and in the end of July he laid siege to
-Dover, while part of his army besieged Windsor with a view to securing
+[[Dover]], while part of his army besieged Windsor with a view to securing
 the safety of London. The pretexts on which he claimed the English crown
 were set down in a memorandum drawn up by French lawyers in 1215. These
 claims--that John had forfeited the crown by the murder of his nephew,

@@ -1,7 +1,7 @@
 # Dzungaria
 
 DZUNGARIA, DSONGARIA, or JUNGARIA, a former Mongolian kingdom of Central
-Asia, raised to its highest pitch by Kaldan or Bushtu Khan in the latter
+Asia, raised to its highest pitch by Kaldan or Bushtu [[Khan]] in the latter
 half of the 17th century, but completely destroyed by Chinese invasion
 about 1757-1759. It has played an important part in the history of
 Mongolia and the great migrations of Mongolian stems westward. Now its
@@ -33,7 +33,7 @@ below the lowest of the cross-strokes. In some of the Greek alphabets it
 appears as [symbol] with the upright prolonged at both top and bottom,
 but it soon took the form with which we are familiar, though in the
 earlier examples of this form the cross-strokes are not horizontal but
-drop at an angle, [symbol]. In Corinth and places under its early
+drop at an angle, [symbol]. In [[Corinth]] and places under its early
 influence like Megara, or colonized from it like Corcyra, the symbol for
 _e_ takes the form [symbol] or [symbol], while at Sicyon in the 6th and
 5th centuries B.C. it is represented by [symbol]. In early Latin it was
@@ -56,7 +56,7 @@ being really a single sound is known as the "spurious diphthong." There
 were some minor distinctions in usage of the symbols E and H which need
 not here be given in detail. The ancient Greek name was [Greek: ei], not
 _Epsilon_ as popularly supposed; the names of the Greek letters are
-given from Kallias, an earlier contemporary of Euripides, in Athenaeus
+given from Kallias, an earlier contemporary of [[Euripides]], in [[Athenaeus]]
 x. p. 453 d.
 
 In Greek the short _e_-sound to which E was ultimately limited was a

@@ -16,18 +16,18 @@ English and Decorated building, with Perpendicular additions. Of other
 buildings the principal are the town hall (1876), the corporation
 buildings, and the school of science and art and free library. There is
 a free grammar school founded in 1637. A public recreation ground,
-Brinton Park, was opened in 1887. Richard Baxter, who was elected by the
+[[Brinton]] Park, was opened in 1887. Richard Baxter, who was elected by the
 townsfolk as their minister in 1641, was instrumental in saving the town
-from a reputation of ignorance and depravity caused by the laxity of
+from a reputation of [[Ignorance|ignorance]] and depravity caused by the laxity of
 their clergy. He is commemorated by a statue, as is Sir Rowland Hill,
 the introducer of penny postage, who was born here in 1795.
-Kidderminster is chiefly celebrated for its carpets. The permanency of
+Kidderminster is chiefly celebrated for its [[Carpet|carpets]]. The permanency of
 colour by which they are distinguished is attributed to the properties
 of the water of the Stour, which is impregnated with iron and fuller's
 earth. Worsted spinning and dyeing are also carried on, and there are
 iron foundries, tinplate works, breweries, malthouses, &c. The
 parliamentary borough returns one member. The town is governed by a
-mayor, 6 aldermen and 18 councillors. Area, 1214 acres.
+[[Mayor|mayor]], 6 aldermen and 18 councillors. Area, 1214 acres.
 
 In 736 lands upon the river Stour, called Stour in Usmere, which have
 been identified with the site of Kidderminster (_Chideminstre_), were
@@ -43,7 +43,7 @@ town was possibly a borough in 1187 when the men paid £4 to an aid. As a
 royal possession it appears to have enjoyed various privileges in the
 12th century, among them the right of choosing a bailiff to collect the
 toll and render it to the king, and to elect six burgesses and send them
-to the view of frankpledge twice a year. The first charter of
+to the view of [[Frankpledge|frankpledge]] twice a year. The first charter of
 incorporation, granted in 1636, appointed a bailiff and 12 capital
 burgesses forming a common council. The town was governed under this
 charter until the Municipal Reform Act of 1835. Kidderminster sent two
@@ -56,11 +56,11 @@ of the 18th century the trade was still important, but it began to
 decline after the invention of machinery, probably owing to the poverty
 of the manufacturers. The manufacture of woollen goods was however
 replaced by that of carpets, introduced in 1735. At first only the
-"Kidderminster" carpets were made, but in 1749 a Brussels loom was set
+"Kidderminster" carpets were made, but in 1749 a Brussels [[Loom|loom]] was set
 up in the town and Brussels carpets were soon produced in large
 quantities.
 
-  See _Victoria County History: Worcestershire_; J. R. Burton, _A
+  See _Victoria County History: Worcestershire_; J. R. [[Burton]], _A
   History of Kidderminster, with Short Accounts of some Neighbouring
   Parishes_ (1890).
 

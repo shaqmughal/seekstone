@@ -7,7 +7,7 @@ Kew, 1885-1905. Botanical Adviser to Secretary of State for Colonies,
 1902-1906. Joint-author of _Flora of Middlesex_. Editor of _Flora Capenses_
 and _Flora of Tropical Africa_.
 
-- Bentham, George.
+- [[Bentham]], George.
 
 ## See also
 

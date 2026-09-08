@@ -15,7 +15,7 @@ that the "garden" was originally a celestial locality (see PARADISE),
 and we cannot therefore be surprised if, now that paradise has been
 brought down to earth, the geographical details given in the Bible are
 rather difficult to work into a consistent picture. The fantastic
-geography of the (Indian) _Vishnu Purana_ and the (Iranian) _Bundahish_
+[[Geography|geography]] of the (Indian) _Vishnu Purana_ and the (Iranian) _Bundahish_
 will, in this case, be a striking parallel.
 
 Let us now take the details of Eden as they occur. In Gen. ii. 8 we read
@@ -25,7 +25,7 @@ inconsistent with Isa. xiv. 13, where the "mountain of God," which
 corresponds (see Ezek. xxviii. 13, 14 and the article ADAM) to the
 "garden in Eden," is said to have been "in the uttermost parts of the
 north" (so R.V.). The former statement ("eastward") suits Babylonia,
-where Friedrich Delitzsch[1] places Eden; the latter does not. We are
+where [[Friedrich]] Delitzsch[1] places Eden; the latter does not. We are
 further told (v. 10) that "a river went out from Eden to water the
 garden," and that "from thence it parted itself (?), and became four
 heads (?)," which is commonly understood to mean that the river was so
@@ -37,7 +37,7 @@ but in spite of the descriptive supplements attached to three of them,
 only that one which has no supplement can be identified with much
 probability. In fact, Perath may without any obvious difficulty be
 "Euphrates," except in Jer. xiii., where a more southerly stream seems
-indicated, but to the identification of "Hiddekel" with "Tigris"
+indicated, but to the [[Identification|identification]] of "Hiddekel" with "Tigris"
 (Babylonian Diglat) the presence of the initial _Hi_ in the Hebrew is an
 objection. Now as to "Pishon" and "Gihon." If a moderately early
 tradition may be trusted, the "Gihon" is another name for the "Shihor,"
@@ -57,16 +57,16 @@ this name as "delight"--indeed, the Septuagint translates in Gen. iii.
 23 f. [Greek: ho paradeisos tes tryphes]--this cannot have been the
 original meaning. Hence Delitzsch (_Wo lag das Paradies?_ p. 79)
 suggested that "Eden" might be a Hebraized form of the Babylonian
-_edinu_, "field, plain, desert." But whereas Delitzsch takes "Eden" to
+_edinu_, "field, plain, [[Desert|desert]]." But whereas Delitzsch takes "Eden" to
 be the entire plain of Babylonia, Hommel thinks that it is rather the
 plain about the sacred city of Eridu. It is the latter scholar to whom
 the "Arabian theory" of Paradise in its best-known form is due. The
 rivers (apart from Perath, "Euphrates") he locates in northern and
-central Arabia, the "Cush" and "Asshur" of Genesis being, according to
+central Arabia, the "[[Cush]]" and "Asshur" of [[Genesis]] being, according to
 him, central Arabia and Edom respectively (_Ancient Hebrew Traditions_,
 pp. 314-316; _Aufsatze u. Abhandlungen_, iii. 281-284, 335-339). These
 rivers, in short, become Arabian wadis, on which see Hast. _D.B._ i.
-132a (foot). Cheyne, on the other hand, rejects the Babylonian
+132a (foot). [[Cheyne]], on the other hand, rejects the Babylonian
 explanation of Eden as = "field, plain," on the ground that "Eden" was
 originally regarded as a mountainous tract.
 
@@ -77,7 +77,7 @@ originally regarded as a mountainous tract.
 
 FOOTNOTE:
 
-  [1] _Wo lag das Paradies?_ p. 66. A Sumerian name of Babylon was
+  [1] _Wo lag das Paradies?_ p. 66. A Sumerian name of [[Babylon]] was
     Tin-ter, "dwelling of life." Cf. Babilu, Babili, "gate of God."
 
 ## See also

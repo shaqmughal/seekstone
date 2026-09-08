@@ -81,17 +81,17 @@ villas and country houses; in those so situated the water generally
 ally fell from above into a large marble basin, with at times a second
 fall into a still lower receptacle. Two adjacent houses in Pompeii had
 very remarkable fountains. One, says Gell, "is covered with a sort of
-mosaic consisting of vitrified tesserae of different colours, but in
+mosaic consisting of vitrified tesserae of different [[Colours|colours]], but in
 which blue predominates. These are sometimes arranged in not inelegant
 patterns, and the grand divisions as well as the borders are entirely
 formed and ornamented with real sea-shells, neither calcined by the heat
-of the eruption nor changed by the lapse of so many centuries"
+of the eruption nor changed by the [[Lapse|lapse]] of so many centuries"
 (_Pompeiana_, i. 196). Another of large size was similarly decorated
 with marine shells, and is supposed to have borne two sculptured
 figures, one of which, a bronze, is in the museum at Naples. This
 fountain projects 5 ft. 7 in. from the wall against which it is placed,
 and is 7 ft. wide in front, while the height of the structure up to the
-eaves of the pediment is 7 ft. 7 in. On a central column in the piscina
+[[Eaves|eaves]] of the pediment is 7 ft. 7 in. On a central column in the piscina
 was a statue of Cupid, with a dove, from the mouth of which water
 issued. Cicero had, at his villa at Formiae, a fountain which was
 decorated with marine shells.
@@ -191,7 +191,7 @@ des Innocens (the earliest) and those of the Place Royal, of the Champs
 Elysees and of the Place de la Concorde are the most noticeable. The
 fountain of the lions and other fountains in the Alhambra palace are,
 with their surroundings, a very magnificent sight. The largest _jets
-d'eau_ are those at Versailles, at the Sydenham Crystal Palace and at
+d'eau_ are those at Versailles, at the Sydenham [[Crystal Palace]] and at
 San Ildefonso.
 
 About the earliest drawing of any drinking fountain in England occurs in

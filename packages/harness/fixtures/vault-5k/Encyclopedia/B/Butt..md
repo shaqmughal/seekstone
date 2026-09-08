@@ -6,8 +6,8 @@ topic: judaica
 
 # Butt.
 
-BUTT. (1) (From the Fr. _botte_, _boute_; Med. Lat. _butta_, a wine
-vessel), a cask for ale or wine, with a capacity of about two hogsheads.
+[[Butt|BUTT]]. (1) (From the Fr. _botte_, _boute_; Med. Lat. _butta_, a wine
+vessel), a cask for ale or wine, with a capacity of about two [[Hogshead|hogsheads]].
 (2) (A word common in Teutonic languages, meaning short, or a stump), the
 thick end of anything, as of a fishing-rod, a gun, a whip, also the stump
 of a tree. (3) (From the Fr. _but_, a goal or mark, and _butte_, a target,

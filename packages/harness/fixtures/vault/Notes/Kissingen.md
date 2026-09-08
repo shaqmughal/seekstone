@@ -3,7 +3,7 @@
 KISSINGEN, a town and watering-place of Germany, in the kingdom of
 Bavaria, delightfully situated in a broad valley surrounded by high and
 well-wooded hills, on the Franconian Saale, 656 ft. above sea-level, 62
-m. E. of Frankfort-on-Main, and 43 N.E. of Würzburg by rail. Pop.
+m. E. of [[Frankfort-On-Main|Frankfort-on-Main]], and 43 N.E. of Würzburg by rail. Pop.
 (1900), 4757. Its streets are regular and its houses attractive. It has
 an Evangelical, an English, a Russian and three Roman Catholic churches,
 a theatre, and various benevolent institutions, besides all the usual
@@ -33,7 +33,7 @@ July 1866 the Prussians defeated the Bavarians with great slaughter near
 Kissingen. On the 13th of July 1874 the town was the scene of the
 attempt of the fanatic Kullmann to assassinate Prince Bismarck, to whom
 a statue has been erected. There are also monuments to Kings Louis I.
-and Maximilian I. of Bavaria.
+and [[Maximilian]] I. of Bavaria.
 
   See Balling, _Die Heilquellen und Bäder zu Kissingen_ (Kissingen,
   1886); A. Sotier, _Bad Kissingen_ (Leipzig, 1883); Werner, _Bad

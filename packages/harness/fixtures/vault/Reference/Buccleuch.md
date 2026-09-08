@@ -6,7 +6,7 @@ topic: history
 
 # Buccleuch
 
-BUCCLEUCH, DUKES OF. The substantial origin of the ducal house of the
+BUCCLEUCH, [[Dukes|DUKES]] OF. The substantial origin of the ducal house of the
 Scotts of Buccleuch dates back to the large grants of lands in Scotland to
 Sir Walter Scott of Kirkurd and Buccleuch, a border chief, by James II., in
 consequence of the fall of the 8th earl of Douglas (1452); but the family
@@ -16,13 +16,13 @@ Buccleuch (d. 1552) distinguished himself at the battle of Pinkie (1547),
 and furnished material for his later namesake's famous poem, _The Lay of
 the Last Minstrel_; and his great-grandson Sir Walter (1565-1611) was
 created Lord Scott of Buccleuch in 1606. An earldom followed in 1619. The
-second earl's daughter Anne (1651-1732), who succeeded him as a countess in
+second earl's daughter [[Anne]] (1651-1732), who succeeded him as a countess in
 her own right, married in 1663 the famous duke of Monmouth (_q.v._), who
 was then created 1st duke of Buccleuch; and her grandson Francis became 2nd
 duke. The latter's son Henry (1746-1812) became 3rd duke, and in 1810
-succeeded also, on the death of William Douglas, 4th duke of Queensberry,
+succeeded also, on the death of [[William Douglas]], 4th duke of Queensberry,
 to that dukedom as well as its estates and other honours, according to the
-entail executed by his own great-grandfather, the 2nd duke of Queensberry,
+[[Entail|entail]] executed by his own great-grandfather, the 2nd duke of Queensberry,
 in 1706; he married the duke of Montagu's daughter, and was famous for his
 generosity and benefactions. His son Charles William Henry (d. 1819),
 grandson Walter Francis Scott (1806-1884), and great-grandson William Henry
@@ -36,7 +36,7 @@ the House of Commons as Conservative M.P. for Midlothian, 1853-1868 and
 1874-1880; his wife, a daughter of the 1st duke of Abercorn, held the
 office of mistress of the robes.
 
-See Sir W. Fraser, _The Scotts of Buccleuch_ (1878).
+See Sir W. [[Fraser]], _The Scotts of Buccleuch_ (1878).
 
 ## References
 

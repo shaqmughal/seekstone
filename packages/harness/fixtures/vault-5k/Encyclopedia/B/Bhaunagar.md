@@ -14,8 +14,8 @@ district about 1260. Bhaunagar suffered terribly from the famine of
 1899-1900. About 60 m. of the Bhaunagar-Gondal railway run through the
 state, with its terminus at the town of Bhaunagar, which is the
 principal port. The town of Bhaunagar is situated on the west coast of
-the gulf of Cambay. The population in 1901 was 56,442. It is the chief
-port in Kathiawar, though only admitting vessels of small burden. It was
+the gulf of [[Cambay]]. The population in 1901 was 56,442. It is the chief
+port in Kathiawar, though only admitting vessels of small [[Burden|burden]]. It was
 founded in 1723 by the thakor sahib Bhausinghji, after whom it is named,
 in place of his former capital, Sihor, which was considered too exposed
 to the Mahratta power.

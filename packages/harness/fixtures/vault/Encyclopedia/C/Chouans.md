@@ -19,10 +19,10 @@ condemned and served sentence; but the Revolution, by destroying the
 inland customs, ruined his trade. On the 15th of August 1792, he led a
 band of peasants to prevent the departure of the volunteers of St Ouen,
 near Laval, and retired to the wood of Misdon, where they lived in huts
-and subterranean chambers. The Chouans then waged a guerrilla warfare
+and subterranean chambers. The Chouans then waged a [[Guerrilla|guerrilla]] warfare
 against the republicans and, sustained by the royalists and from abroad,
 carried on their assassinations and brigandage with success. From Lower
-Maine the insurrection soon spread to Brittany, and throughout the west
+[[Maine]] the insurrection soon spread to Brittany, and throughout the west
 of France. In 1793 Cottereau came to Laval with some 500 men; the band
 grew rapidly and swelled into a considerable army, which assumed the
 name of La Petite Vendee. But after the decisive defeats at Le Mans and
@@ -47,7 +47,7 @@ also VENDÉE.)
     pendant la première Révolution_ (Paris, 1881), 4 vols.; Th. de
     Closmadeux, _Quiberon (1795), Émigrés et Chouans, commissions
     militaires, interrogations et jugements_ (Paris, 1898), the only
-    authority on the celebrated affair of Quiberon; E. Daudet, _La
+    authority on the celebrated affair of Quiberon; E. [[Daudet]], _La
     Police et les Chouans dans le Consulat et I'Empire, 1800-1815_
     (Paris, 1895). Also the works of Ch. L. Chessin mentioned under
     VENDÉE.

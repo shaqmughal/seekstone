@@ -8,14 +8,14 @@ type: note
 # Epithalamium
 
 EPITHALAMIUM (Gr. [Greek: epi], at or upon, and [Greek: thalamos], a
-nuptial chamber), originally among the Greeks a song in praise of bride
+nuptial chamber), originally among the Greeks a song in praise of [[Bride|bride]]
 and bridegroom, which was sung by a number of boys and girls at the door
 of the nuptial chamber. According to the scholiast on Theocritus, one
 form, the [Greek: katakoimetikon], was employed at night, and another,
 the [Greek: diegertikon], to arouse the bride and bridegroom on the
-following morning. In either case, as was natural, the main burden of
+following morning. In either case, as was natural, the main [[Burden|burden]] of
 the song consisted of invocations of blessing and predictions of
-happiness, interrupted from time to time by the ancient chorus of _Hymen
+happiness, interrupted from time to time by the ancient chorus of _[[Hymen]]
 hymenaee_. Among the Romans a similar custom was in vogue, but the song
 was sung by girls only, after the marriage guests had gone, and it
 contained much more of what modern morality would condemn as obscene. In
@@ -27,15 +27,15 @@ Theocritus, which celebrates the marriage of Menelaus and Helen. In
 Latin, the epithalamium, imitated from Fescennine Greek models, was a
 base form of literature, when Catullus redeemed it and gave it dignity
 by modelling his _Marriage of Thetis and Peleus_ on a lost ode of
-Sappho. In later times Statius, Ausonius, Sidonius Apollinaris and
+Sappho. In later times Statius, [[Ausonius]], Sidonius [[Apollinaris]] and
 Claudian are the authors of the best-known epithalamia in classical
-Latin; and they have been imitated by Buchanan, Scaliger, Sannazaro, and
+Latin; and they have been imitated by [[Buchanan]], Scaliger, Sannazaro, and
 a whole host of modern Latin poets, with whom, indeed, the form was at
 one time in great favour. The names of Ronsard, Malherbe and Scarron are
-especially associated with the species in French literature, and Marini
+especially associated with the species in French literature, and [[Marini]]
 and Metastasio in Italian. Perhaps no poem of this class has been more
 universally admired than the _Epithalamium_ of Spenser (1595), though he
-has found no unworthy rivals in Ben Jonson, Donne and Quarles. At the
+has found no unworthy rivals in [[Ben]] [[Jonson]], Donne and Quarles. At the
 close of _In Memoriam_ Tennyson has appended a poem, on the nuptials of
 his sister, which is strictly an epithalamium.
 
@@ -67,7 +67,7 @@ The individual cells forming an epithelial membrane are classified
 according to their shape. Thus we find _flattened_, or _squamous_,
 _cubical_, _columnar_, _irregular_, _ciliated_ or _flagellated_ cells.
 Many of the membranes formed by these cells are only one cell thick, as
-for instance is the case for the major part of the alimentary canal. In
+for instance is the case for the [[Major|major]] part of the alimentary canal. In
 other instances the epithelial membrane may consist of a number of
 layers of cells, as in the case of the epidermis of the skin.
 Considering in the first place those membranes of which the cells are in
@@ -86,7 +86,7 @@ perforations through the membrane.
 Intestine of the Frog.]
 
 [Illustration: FIG. 2.--Columnar Epithelial Cells resting upon a
-Basement Membrane.]
+[[Basement]] Membrane.]
 
 [Illustration: FIG. 3.--Mosaic appearance of a Columnar Epithelial
 Surface as seen from above.]
@@ -98,7 +98,7 @@ having a polyhedral shape.
 
 2. _Cubical Epithelium._--This differs from the former in that the cells
 are less in height. It is found in many glands and ducts (e.g. the
-kidney), in the middle ear, choroid plexuses of the brain, &c.
+kidney), in the middle [[Ear|ear]], choroid plexuses of the brain, &c.
 
 [Illustration: FIG. 4.--Squamous Epithelial Cells from the Mucous
 Membrane of the Mouth.]
@@ -108,8 +108,8 @@ Trachea.]
 
 3. _Squamous or Flattened Epithelium_ (fig. 4).--In this variety the
 cell is flattened, very thin and irregular in outline. It occurs as the
-covering epithelium of the alveoli of the lung, of the kidney glomerules
-and capsule, &c. The surface epithelial cells of a stratified epithelium
+covering epithelium of the alveoli of the [[Lung|lung]], of the kidney glomerules
+and [[Capsule|capsule]], &c. The surface epithelial cells of a stratified epithelium
 are also of this type (fig. 4). Closely resembling these cells are those
 known as endothelial (see later).
 
@@ -147,11 +147,11 @@ rectum, conjunctiva, vagina, &c.). Here the surface cells are very much
 flattened (squamous epithelium), those of the middle layer are
 polyhedral and those of the lowest layer are cubical or columnar. This
 type of epithelium is found covering surfaces commonly exposed to
-friction. The surface may be dry as in the skin, or moist, e.g. the
+[[Friction|friction]]. The surface may be dry as in the skin, or moist, e.g. the
 mouth. The surface cells are constantly being rubbed off, and are then
 replaced by new cells growing up from below. Hence the deepest layer,
 that nearest the blood supply, is a formative layer, and in successive
-stages from this we can trace the gradual transformation of these
+stages from this we can trace the [[Gradual|gradual]] transformation of these
 protoplasmic cells into scaly cells, which no longer show any sign of
 being alive. In the moist mucous surfaces the number of cells forming
 the epithelial layer is usually much smaller than in a dry stratified
@@ -164,7 +164,7 @@ epithelium is found lining parts of the respiratory passages, the vas
 deferens and the epididymis.
 
 [Illustration: FIG. 8.--Transitional Epithelium from the Urinary
-Bladder, showing the outlines of the cells only.]
+[[Bladder]], showing the outlines of the cells only.]
 
 3. _Transitional Epithelium_ (fig. 8).--This variety of epithelium is
 found lining the bladder, and the appearance observed depends upon the
@@ -182,7 +182,7 @@ the case with the surface cells, which may then become very flattened.
 Considering epithelium from the point of view of function, it may be
 classified as protective, absorptive or secretory. It may produce
 special outgrowths for protective or ornamental purposes, such are
-hairs, nails, horns, &c., and for such purposes it may manufacture
+hairs, nails, [[Horn|horns]], &c., and for such purposes it may manufacture
 within itself chemical material best suited for that purpose, e.g.
 keratin; here the whole cell becomes modified. In other instances may be
 seen in the interior of the cells many chemical substances which
@@ -198,7 +198,7 @@ Initially the epithelium cell might have all these functions, but later
 came specialization and therefore to most cells a specific work. Some of
 that work does not require the cell to be at the surface, while for
 other work this is indispensable, and hence when the surface becomes
-limited those of the former category are removed from the surface to the
+limited those of the former [[Category|category]] are removed from the surface to the
 deeper parts. This is seen typically in secretory and excretory cells,
 which usually lie below the surface on to which they pour their
 secretions. If the secretion required at any one point is considerable,
@@ -220,7 +220,7 @@ column of cells may divide or give off offshoots, in which case a
 compound gland is formed. In many glands the number of branches is
 limited, in others (salivary, pancreas) a very large structure is
 finally formed by repeated growth and subdivision. As a rule the
-branches do not unite with one another, but in one instance, the liver,
+branches do not unite with one another, but in one instance, the [[Liver|liver]],
 this does occur when a reticulated compound gland is produced. In
 compound glands the more typical or secretory epithelium is found
 forming the terminal portion of each branch, and the uniting portions
@@ -271,7 +271,7 @@ body are given in separate articles (see ALIMENTARY CANAL, &c.). It will
 be sufficient here to give the more general characters possessed by
 these cells. They are cubical or conical cells with distinct oval nuclei
 and granular protoplasm. Within the protoplasm is accumulated a large
-number of spherical granules arranged in diverse manners in different
+number of spherical granules arranged in diverse [[Manners|manners]] in different
 cells. The granules vary much in size in different glands, and in
 chemical composition, but in all cases represent a store of material
 ready to be discharged from the cell as its secretion. Hence the general
@@ -304,7 +304,7 @@ these is closed. The light band marks the position of a lymphatic.
 A mesothelial cell is very flattened, thus resembling a squamous
 epithelial cell. It possesses a protoplasm with faint granules and an
 oval or round nucleus (fig. 12). The outline of the cell is irregularly
-polyhedral, and the borders may be finely serrated. The cells are united
+polyhedral, and the [[Borders|borders]] may be finely serrated. The cells are united
 to one another by an intercellular cement substance which, however, is
 very scanty in amount, but can be made apparent by staining with silver
 nitrate when the appearance reproduced in the figure is seen. By being

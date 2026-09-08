@@ -21,8 +21,8 @@ his death-bed discerned young Kublai's promise and predicted his
 distinction.
 
 Northern China, Cathay as it was called, had been partially conquered by
-Jenghiz himself, and the conquest had been followed up till the Kin or
-"golden" dynasty of Tatars, reigning at K'ai-feng Fu on the Yellow
+Jenghiz himself, and the conquest had been followed up till the [[Kin]] or
+"golden" dynasty of Tatars, reigning at [[K'Ai-Feng Fu|K'ai-feng Fu]] on the Yellow
 River, were completely subjugated (1234). But China south of the
 Yangtsze-kiang remained many years later subject to the native dynasty
 of Sung, reigning at the great city of Lingan, or Kinsai (_King-sz'_,
@@ -34,12 +34,12 @@ are not quite clear, the first campaign of Kublai was directed to the
 subjugation of the remote western province of Yunnan. After the capture
 of Tali Fu (well known in recent years as the capital of a Mahommedan
 insurgent sultan), Kublai returned north, leaving the war in Yunnan to a
-trusted general. Some years later (1257) the khan Mangu himself entered
+trusted general. Some years later (1257) the [[Khan|khan]] Mangu himself entered
 on a campaign in west China, and died there, before Ho-chow in
 Sze-ch'uen (1259).
 
 Kublai assumed the succession, but it was disputed by his brother
-Arikbugha and by his cousin Kaidu, and wars with these retarded the
+Arikbugha and by his [[Cousin|cousin]] Kaidu, and wars with these retarded the
 prosecution of the southern conquest. Doubtless, however, this was
 constantly before Kublai as a great task to be accomplished, and its
 fulfilment was in his mind when he selected as the future capital of his
@@ -65,7 +65,7 @@ greatest in the world) as its conqueror. The young emperor, with his
 mother, was sent prisoner to Kaan-baligh; but two younger princes had
 been despatched to the south before the fall of the city, and these
 successively were proclaimed emperor by the adherents of the native
-throne. An attempt to maintain their cause was made in Fu-kien, and
+throne. An attempt to maintain their cause was made in [[Fu-Kien|Fu-kien]], and
 afterwards in the province of Kwang-tung; but in 1279 these efforts were
 finally extinguished, and the faithful minister who had inspired them
 terminated the struggle by jumping with his young lord into the sea.
@@ -78,17 +78,17 @@ acknowledged one man's supremacy. For, though his rule was disputed by
 the princes of his house in Turkestan, it was acknowledged by those on
 the Volga, whose rule reached to the frontier of Poland, and by the
 family of his brother Hulagu, whose dominion extended from the Oxus to
-the Arabian desert. For the first time in history the name and character
-of an emperor of China were familiar as far west as the Black Sea and
+the Arabian [[Desert|desert]]. For the first time in history the name and character
+of an emperor of China were familiar as far west as the [[Black Sea]] and
 not unknown in Europe. The Chinese seals which Kublai conferred on his
 kinsmen reigning at Tabriz are stamped upon their letters to the kings
-of France, and survive in the archives of Paris. Adventurers from
-Turkestan, Persia, Armenia, Byzantium, even from Venice, served him as
+of France, and survive in the [[Archive|archives]] of Paris. Adventurers from
+Turkestan, Persia, [[Armenia]], Byzantium, even from Venice, served him as
 ministers, generals, governors, envoys, astronomers or physicians;
-soldiers from all Asia to the Caucasus fought his battles in the south
+soldiers from all Asia to the [[Caucasus]] fought his battles in the south
 of China. Once in his old age (1287) Kublai was compelled to take the
 field in person against a serious revolt, raised by Nayan, a prince of
-his family, who held a vast domain on the borders of Manchuria. Nayan
+his family, who held a vast domain on the [[Borders|borders]] of [[Manchuria]]. Nayan
 was taken and executed. The revolt had been stirred up by Kaidu, who
 survived his imperial rival, and died in 1301. Kublai himself died in
 1294, at the age of seventy-eight.
@@ -106,7 +106,7 @@ beyond sea, created enormous demands for money, and he shut his eyes to
 the character and methods of those whom he employed to raise it. A
 remarkable narrative of the oppressions of one of these, Ahmed of
 Fenaket, and of the revolt which they provoked, is given by Marco Polo,
-in substantial accordance with the Chinese annals.
+in substantial accordance with the Chinese [[Annals|annals]].
 
 Kublai patronized Chinese literature and culture generally. The great
 astronomical instruments which he caused to be made were long preserved
@@ -125,10 +125,10 @@ Lamaite Church, and eventually also prince of Tibet, an act which may be
 regarded as a precursory form of the rule of the "grand lamas" of Lassa.
 The same ecclesiastic, Mati Dhwaja, was employed by Kublai to devise a
 special alphabet for use with the Mongol language. It was chiefly based
-on Tibetan forms of Nagari; some coins and inscriptions in it are
+on Tibetan forms of Nagari; some [[Coin|coins]] and inscriptions in it are
 extant; but it had no great vogue, and soon perished. Of the splendour
 of his court and entertainments, of his palaces, summer and winter, of
-his great hunting expeditions, of his revenues and extraordinary paper
+his great [[Hunting|hunting]] expeditions, of his revenues and extraordinary paper
 currency, of his elaborate system of posts and much else, an account is
 given in the book of Marco Polo, who passed many years in Kublai's
 service.
@@ -136,20 +136,20 @@ service.
 We have alluded to his foreign expeditions, which were almost all
 disastrous. Nearly all arose out of a hankering for the nominal
 extension of his empire by claiming submission and tribute. Expeditions
-against Japan were several times repeated; the last, in 1281, on an
+against [[Japan]] were several times repeated; the last, in 1281, on an
 immense scale, met with huge discomfiture. Kublai's preparations to
 avenge it were abandoned owing to the intense discontent which they
 created. In 1278 he made a claim of submission upon Champa, an ancient
-state representing what we now call Cochin China. This eventually led to
+state representing what we now call [[Cochin]] China. This eventually led to
 an attempt to invade the country through Tongking, and to a war with the
 latter state, in which the Mongols had much the worst of it. War with
-Burma (or Mien, as the Chinese called it) was provoked in very similar
+[[Burma]] (or Mien, as the Chinese called it) was provoked in very similar
 fashion, but the result was more favourable to Kublai's arms. The
-country was overrun as far as the Irrawaddy delta, the ancient capital,
+country was overrun as far as the Irrawaddy [[Delta|delta]], the ancient capital,
 Pagan, with its magnificent temples, destroyed, and the old royal
-dynasty overthrown. The last attempt of the kind was against Java, and
+dynasty overthrown. The last attempt of the kind was against [[Java]], and
 occurred in the last year of the old khan's reign. The envoy whom he had
-commissioned to claim homage was sent back with ignominy. A great
+commissioned to claim [[Homage|homage]] was sent back with ignominy. A great
 armament was equipped in the ports of Fu-kien to avenge this insult; but
 after some temporary success the force was compelled to re-embark with a
 loss of 3000 men. The death of Kublai prevented further action.
@@ -158,13 +158,13 @@ Some other expeditions, in which force was not used, gratified the
 khan's vanity by bringing back professions of homage, with presents, and
 with the curious reports of foreign countries in which Kublai delighted.
 Such expeditions extended to the states of southern India, to eastern
-Africa, and even to Madagascar.
+Africa, and even to [[Madagascar]].
 
 Of Kublai's twelve legitimate sons, Chingkim, the favourite and
 designated successor, died in 1284/5; and Timur, the son of Chingkim,
 took his place. No great king arose in the dynasty after Kublai. He had
 in all nine successors of his house on the throne of Kaan-baligh, but
-the long and imbecile reign of the ninth, Toghon Timur, ended (1368) in
+the long and [[Imbecile|imbecile]] reign of the ninth, Toghon Timur, ended (1368) in
 disgrace and expulsion and the native dynasty of Ming reigned in their
 stead.     (H. Y.)
 

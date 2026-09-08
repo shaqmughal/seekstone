@@ -13,7 +13,7 @@ Versailles national guard, he protected the aunts of Louis XVI. from
 popular violence, and aided their escape (1791). In the war of 1792 he
 was at once made chief of staff to Marshal Luckner, and he bore a
 distinguished part in the Argonne campaign of Dumouriez and Kellermann.
-He served with great credit in the Vendean War of 1793-95, and was in
+He served with great [[Credit|credit]] in the Vendean War of 1793-95, and was in
 the next year made a general of division and chief of staff
 (_Major-General_) to the army of Italy, which Bonaparte had recently
 been appointed to command. His power of work, accuracy and quick

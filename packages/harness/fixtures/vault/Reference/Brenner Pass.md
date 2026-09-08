@@ -16,8 +16,8 @@ its importance is that many side passes in the end join this great
 thoroughfare. It was crossed no fewer than 66 times by various emperors,
 between 793 and 1402. A carriage road was constructed over it as far
 back as 1772, while the railway over it was built in 1864-1867. From
-Innsbruck to the summit of the pass is a distance by rail of 25 m. The
-line then descends through the Eisack valley past Brixen (34 m.) to
+[[Innsbruck]] to the summit of the pass is a distance by rail of 25 m. The
+line then descends through the Eisack valley past [[Brixen]] (34 m.) to
 Botzen (24 m.). Thence it follows the valley of the Adige to Trent (35
 m.) and on to Verona (56-1/2 m.)--in all 174-1/2 m. by rail from
 Innsbruck to Verona.     (W. A. B. C.)

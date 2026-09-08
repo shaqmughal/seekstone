@@ -15,7 +15,7 @@ extreme north-western part of Arkansas, U.S.A., in the Ozark uplift,
 negro descent); (1910) 3228. There is a transient population of
 thousands of visitors during the year. The city is built picturesquely
 on the sides of a gulch, down which runs the Missouri & North Arkansas
-railway. A creek running through the city empties into the White river,
+railway. A [[Creek|creek]] running through the city empties into the White river,
 only a few miles distant. The surrounding country varies in character
 from mountains to rolling prairie. The encircling hills are laden with a
 covering of pine. The normal mean temperature for the year is about 59°

@@ -8,9 +8,9 @@ tags: [colonization, geology]
 
 # Aphides
 
-APHIDES (pl. of Aphis), minute insects, also known as "plant-lice,"
+APHIDES (pl. of Aphis), minute [[Insect|insects]], also known as "plant-lice,"
 "blight," and "green-fly," belonging to the homopterous division of the
-order Hemiptera, with long antennae and legs, two-jointed, two-clawed
+order [[Hemiptera]], with long antennae and legs, two-jointed, two-clawed
 tarsi, and usually a pair of abdominal tubes through which a waxy
 secretion is exuded. These tubes were formerly supposed to secrete the
 sweet substance known as "honey-dew" so much sought after by ants; but
@@ -21,7 +21,7 @@ from the economic standpoint, Aphides are chiefly remarkable for the
 phenomena connected with the propagation of the species. The following
 brief summary of what takes place in the plant-louse of the rose (_Aphis
 rosae_), may be regarded as typical of the family, though exceptions
-occur in other species: Eggs produced in the autumn by fertilized
+occur in other species: [[Egg|Eggs]] produced in the autumn by fertilized
 females remain on the plant through the winter and hatching in the
 spring give rise to female individuals which may be winged or wingless.
 From these females are born parthenogenetically, that is to say without
@@ -59,7 +59,7 @@ vines. Its life-history is somewhat similar to that of _Aphis rosae_
 summarized above. In the autumn a single fertile egg is laid by apterous
 females in a crevice of the bark of the vine where it is protected
 during the winter. From this egg in the spring emerges an apterous
-female who makes a gall in the new leaf and lays therein a large number
+female who makes a [[Gall|gall]] in the new [[Leaf|leaf]] and lays therein a large number
 of eggs. Some of the apterous young that are hatched from these form
 fresh galls and continue to multiply in the leaves, others descend to
 the root of the plant, becoming what are known as root-forms. These,

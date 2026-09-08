@@ -3,12 +3,12 @@
 CAPERNAUM ([Greek: Kapernaoum]; probably, "the village of Nahum"), an
 ancient city of Galilee. More than any other place, it was the home of
 Jesus after he began his mission; there he preached, called several of
-his disciples, and did many works, but without meeting with much
+his [[Disciple|disciples]], and did many works, but without meeting with much
 response from the inhabitants, over whom he pronounced the heavy
 denunciation:--"And thou, Capernaum, which art exalted unto heaven,
-shalt be brought down to hell." The site of the city has been a matter
+shalt be brought down to [[Hell|hell]]." The site of the city has been a matter
 of much dispute,--one party, headed by Dr E. Robinson, maintaining an
-identification with Khan Minyeh at the north-west corner of the Sea of
+[[Identification|identification]] with [[Khan]] Minyeh at the north-west corner of the Sea of
 Galilee, and another, represented especially by Sir C.W. Wilson,
 supporting the claims of Tell Hum, midway between Khan Minyeh and the
 mouth of the Jordan. Khan Minyeh is beautifully situated in a "fertile
@@ -26,12 +26,12 @@ doubtful whether Tell Hum can be considered as a corruption of _Kefr
 Nahum_, the Semitic name which the Greek represents: and there is not
 here, as at Khan Minyeh, any spring that can be equated to the
 Heptapegon of Josephus. On the whole the probabilities of the two sites
-seem to balance, and it is practically impossible without further
+seem to [[Balance|balance]], and it is practically impossible without further
 discoveries to decide between them. The sites of the neighbouring cities
 of Bethsaida and Chorazin are probably to be sought respectively at
 El-Bateiha, a grassy plain in the north-east corner of the lake, and at
 Kerazeh, 2 m. north of Tell Hum. According to the so-called
-_Pseudo-Methodius_ there was a tradition that Antichrist would be born
+_Pseudo-Methodius_ there was a tradition that [[Antichrist]] would be born
 at Chorazin, educated at Bethsaida and rule at Capernaum--hence the
 curse of Jesus upon these cities.
 

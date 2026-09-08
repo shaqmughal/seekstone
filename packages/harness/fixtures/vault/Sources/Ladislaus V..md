@@ -13,7 +13,7 @@ Sigismund, was born at Komárom on the 22nd of February 1440, four months
 after his father's death, and was hence called Ladislaus Posthumus. The
 estates of Hungary had already elected Wladislaus III. of Poland their
 king, but Ladislaus's mother caused the holy crown to be stolen from its
-guardians at Visegrad, and compelled the primate to crown the infant
+[[Guardian|guardians]] at Visegrad, and compelled the primate to crown the [[Infant|infant]]
 king at Székesfejérvár on the 15th of May 1440; whereupon, for safety's
 sake, she placed the child beneath the guardianship of his uncle the
 emperor Frederick III. On the death of Wladislaus III. (Nov. 10th,
@@ -40,7 +40,7 @@ been poisoned by his political opponents in Bohemia.
 
   See F. Palacky, _Zeugenverhör über den Tod König Ladislaus von Ungarn
   u. Böhmen_ (Prague, 1856); Ignacz Acsády, _History of the Hungarian
-  State_ (Hung.), vol. i. (Budapest, 1903).
+  State_ (Hung.), vol. i. ([[Budapest]], 1903).
 
 ## References
 

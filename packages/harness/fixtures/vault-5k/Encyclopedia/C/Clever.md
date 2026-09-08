@@ -8,7 +8,7 @@ type: reference
 # Clever
 
 CLEVER, an adjective implying dexterous activity of mind or body, and
-ability to meet emergencies with readiness and adroitness. The etymology
+ability to meet emergencies with readiness and adroitness. The [[Etymology|etymology]]
 and the early history of the word are obscure. The earliest instance
 quoted by the _New English Dictionary_ is in the _Bestiary_ of _c._ 1200
 (An Old English Miscellany, ed. R. Morris, 1872, E.E.T.S. 49)--"On the

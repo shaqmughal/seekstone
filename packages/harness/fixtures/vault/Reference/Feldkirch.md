@@ -8,7 +8,7 @@ topic: politics
 
 FELDKIRCH, a small town in the Austrian province of the Vorarlberg, some
 20 m. S. of the S. end of the Lake of Constance. It is situated in a
-green hollow, on the Ill river, between the two narrow rocky gorges
+green hollow, on the Ill river, between the two narrow rocky [[Gorges|gorges]]
 through which it flows out into the broad valley of the Rhine. Hence,
 though containing only about 4000 inhabitants (German-speaking and
 Romanist), the town is of great military importance, since it commands
@@ -18,16 +18,16 @@ French, under Oudinot and Massena, were driven back by the Austrians
 under Hotze and Jellachich. It is a picturesque little town,
 overshadowed by the old castle of Schattenburg (now a poor-house), built
 about 1200 by the count of Montfort, whose descendant in 1375 sold it to
-the Habsburgs. The town contains many administrative offices, and is the
+the [[Habsburg|Habsburgs]]. The town contains many administrative offices, and is the
 residence of a suffragan bishop, who acts as vicar-general of the
-diocesan, the bishop of Brixen. Among the principal buildings are the
+diocesan, the bishop of [[Brixen]]. Among the principal buildings are the
 parish church, dating from 1487, and possessing a "Descent from the
-Cross" (1521), which has been attributed to Holbein, the great Jesuit
+Cross" (1521), which has been attributed to [[Holbein]], the great Jesuit
 educational establishment called "Stella Matutina," and a Capuchin
 convent and church. There is a considerable amount of transit trade at
-Feldkirch, which by rail is 11 m. from Buchs (Switzerland), through the
-principality of Liechtenstein, 24 m. from Bregenz, and 99-1/2 m. from
-Innsbruck by tunnel beneath the Arlberg Pass. The town also possesses
+Feldkirch, which by rail is 11 m. from [[Buch|Buchs]] (Switzerland), through the
+principality of [[Liechtenstein]], 24 m. from Bregenz, and 99-1/2 m. from
+[[Innsbruck]] by tunnel beneath the Arlberg Pass. The town also possesses
 numerous industrial establishments, such as factories for
 cotton-spinning, weaving, bell-founding, dyeing, &c.     (W. A. B. C.)
 

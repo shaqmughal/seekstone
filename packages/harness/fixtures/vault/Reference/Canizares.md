@@ -12,10 +12,10 @@ captain in 1702 to act as censor of the Madrid theatres and steward to
 the duke of Osuna. In his fourteenth year Canizares recast a play by
 Lope de Vega under the title of _Las Cuentas del Gran Capitan_, and he
 speedily became a fashionable playwright. His originality, however, is
-slight, and _El Domine Lucas_, the only one of his pieces that is still
+slight, and _El Domine [[Lucas]]_, the only one of his pieces that is still
 read, is an adaptation from Lope de Vega. Canizares produced a version
 of Racine's _Iphigenie_ shortly before 1716, and is to some extent
-responsible for the destruction of the old Spanish drama. He died on the
+responsible for the destruction of the old Spanish [[Drama|drama]]. He died on the
 4th of September 1750, at Madrid.
 
 ## See also

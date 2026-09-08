@@ -9,10 +9,10 @@ tags: [chemistry, history]
 # Enzyme
 
 ENZYME (Gr. [Greek: enzymos], leavened, from [Greek: en], in, and
-[Greek: zyme], leaven), a term, first suggested by Kuhne, for an
+[Greek: zyme], [[Leaven|leaven]]), a term, first suggested by Kuhne, for an
 unorganized ferment (see FERMENTATION), a group of substances, in the
-constitution of plants and animals, which decompose certain carbon
-compounds occurring in association with them. See also PLANTS:
+constitution of plants and animals, which decompose certain [[Carbon|carbon]]
+[[Compound|compounds]] occurring in association with them. See also PLANTS:
 _Physiology_; NUTRITION, &c.
 
 ## See also

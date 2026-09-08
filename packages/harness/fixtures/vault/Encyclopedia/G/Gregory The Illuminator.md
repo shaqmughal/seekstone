@@ -1,13 +1,13 @@
 # Gregory The Illuminator
 
 GREGORY THE ILLUMINATOR, the reputed founder of the Armenian Church. His
-legend is briefly as follows. His father Anak, head of the Parthian clan
+legend is briefly as follows. His father Anak, head of the Parthian [[Clan|clan]]
 of Suren, was bribed about the time of his birth (c. 257) by the
-Sassanid king of Persia to assassinate the Armenian king, Chosroes, who
+Sassanid king of Persia to assassinate the Armenian king, [[Chosroes]], who
 was of the old Arsacid dynasty, and father of Tiridates or Trdat, first
-Christian king of Armenia. Anak was slain by his victim's soldiers;
+Christian king of [[Armenia]]. Anak was slain by his victim's soldiers;
 Gregory was rescued by his Christian nurse, carried to Caesarea in
-Cappadocia, and brought up a Christian. Grown to manhood he took service
+[[Cappadocia]], and brought up a Christian. Grown to manhood he took service
 under Tiridates, now king of Armenia, in order by his own fidelity to
 atone for his father's treachery. Presently at a feast of Anahite
 Gregory refused to assist his sovereign in offering pagan sacrifice, and
@@ -15,17 +15,17 @@ his parentage being now revealed, was thrown into a deep pit at
 Artashat, where he languished for fourteen years, during which
 persecution raged in Armenia.
 
-The scene of the legend now shifts to Rome, where Diocletian falls in
+The scene of the legend now shifts to Rome, where [[Diocletian]] falls in
 love with a lovely nun named Ripsime; she, rather than gratify his
 passion, flees with her abbess Gaiana and several priests to Armenia.
 Diocletian asks her back of Tiridates, who meanwhile has fallen in love
 with her himself. He too is flouted, and in his rage tortures and slays
-her and her companions. The traditional date of this massacre is the 5th
-of October, A.D. 301. Providence, incensed at such cruelty, turns
+her and her companions. The traditional date of this [[Massacre|massacre]] is the 5th
+of October, A.D. 301. Providence, incensed at such [[Cruelty|cruelty]], turns
 Tiridates into a wild boar, and afflicts his subjects with madness; but
 his sister, Chosrowidukht, has a revelation to bring Gregory back out of
 his pit. The king consents, the saint is acclaimed, the bodies of the
-thirty-seven martyrs solemnly interred, and the king, after fasting
+thirty-seven martyrs solemnly interred, and the king, after [[Fasting|fasting]]
 five, and listening to Gregory's homilies for sixty days, is healed.
 This all took place at Valarshapat, where Gregory, anxious to fix a site
 on which to build shrines for the relics of Ripsime and Gaiana, saw the
@@ -33,10 +33,10 @@ Son of God come down in a sheen of light, the stars of heaven attending,
 and smite the earth with a golden hammer till the nether world resounded
 to his blows. Three chapels were built on the spot, and Gregory raised
 his cross there and elsewhere for the people to worship, just as St Nino
-was doing about the same time in Georgia. There followed a campaign
+was doing about the same time in [[Georgia]]. There followed a campaign
 against the idols whose temples and books were destroyed. The time had
 now come for Gregory, who was still a layman and father of two sons, to
-receive ordination; so he went to Caesarea, where Leontius ordained and
+receive ordination; so he went to Caesarea, where [[Leontius]] ordained and
 consecrated him catholicos or vicar-general of Armenia. This was
 sometime about 290, when Leontius may have acceded, though we first hear
 of him as bishop in 314.
@@ -50,13 +50,13 @@ According to Agathangelus, Tiridates went to Rome with Gregory,
 Aristaces, son of Gregory, and Albianos, head of the other priestly
 family, to make a pact with Constantine, newly converted to the faith,
 and receive a pallium from Silvester. The better sources make Sardica
-the scene of meeting and name Eusebius (of Nicomedia) as the prelate who
+the scene of meeting and name [[Eusebius]] (of Nicomedia) as the prelate who
 attended Constantine. There is no reason to doubt that some such visit
 was made about the year 315, when the death of Maximin Daza left
 Constantine supreme. Eusebius testifies (_H.E._ ix. 8) that the
 Armenians were ardent Christians, and ancient friends and allies of the
 Roman empire when Maximin attacked them about the year 308. The
-conversion of Tiridates was probably a matter of policy. His kingdom was
+[[Conversion|conversion]] of Tiridates was probably a matter of policy. His kingdom was
 honeycombed with Christianity, and he wished to draw closer to the West,
 where he foresaw the victory of the new faith, in order to fortify his
 realm against the Sassanids of Persia. Following the same policy he sent
@@ -67,8 +67,8 @@ hermit on Mount Sebuh about the year 332, and died there.
 Is the Ripsime episode mere legend? The story of the conversion of
 Georgia by St Nino in the same age is so full of local colour, and
 coheres so closely with the story of Ripsime and Gaiana, that it seems
-over-sceptical to explain the latter away as a mere doublet of the
-legend of Prisca and Valeria. The historians Faustus of Byzant and Lazar
+over-sceptical to explain the latter away as a mere [[Doublet|doublet]] of the
+legend of Prisca and Valeria. The historians Faustus of Byzant and [[Lazar]]
 of Pharp in the 5th century already attest the reverence with which
 their memory was invested. We know from many sources the prominence
 assigned to women prophets in the Phrygian church. Nino's story reads
@@ -100,7 +100,7 @@ continued to work, and bore its most abundant fruit in the 5th century.
 His career was thus analogous to that of St Patrick in Ireland.
 
   AUTHORITIES.--S. Weber, _Die Catholische Kirche in Armenien_
-  (Freiburg, 1903, with bibliography); Bollandii, _Acta sanctorum sept._
+  ([[Freiburg]], 1903, with bibliography); Bollandii, _Acta sanctorum sept._
   tom. 8; A. Carriere, _Les Huit Sanctuaires de l'Armenie_ (Paris,
   1899); "Chrysostom" in Migne, _P. Gr._ tom. 63, col. 943 foll.; C.
   Fortescue, _The Armenian Church_ (London, 1872); H. Gelzer, _Die
@@ -113,8 +113,8 @@ His career was thus analogous to that of St Patrick in Ireland.
   ufficiale degli Iberi," _Oriens Christ._ (Rome, 1902); Ryssel, _Ein
   Brief Gregors, ubersetzt, Studien und Kritiken_, 56, Bd. (1883);
   Samuelian, _Bekehrung Armeniens_ (Vienna, 1844); Vetter, "Die arm.
-  Vater," in Nischl's _Lehrbuch der Patrol._ iii. 215-262, (Mainz,
-  1881-1885); Malan, _S. Gregory the Illuminator_ (Rivingtons, 1868).
+  Vater," in Nischl's _Lehrbuch der Patrol._ iii. 215-262, ([[Mainz]],
+  1881-1885); [[Malan]], _S. Gregory the Illuminator_ (Rivingtons, 1868).
        (F. C. C.)
 
 ## See also

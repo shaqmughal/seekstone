@@ -8,12 +8,12 @@ topic: rivers-studies
 
 BRIOUDE, a town of central France, capital of an arrondissement in the
 department of Haute-Loire, on the left bank of the Allier, 1467 ft. above
-the sea, 47 m. N.W. of Le Puy on the Paris-Lyon railway. Pop. (1906) 4581.
+the sea, 47 m. N.W. of [[Le Puy]] on the Paris-Lyon railway. Pop. (1906) 4581.
 Brioude has to a great extent escaped modernization and still has many old
-houses and fountains. Its streets are narrow and irregular, but the town is
-surrounded by wide boulevards lined with trees. The only building of
+houses and [[Fountain|fountains]]. Its streets are narrow and irregular, but the town is
+surrounded by wide [[Boulevard|boulevards]] lined with trees. The only building of
 consequence is the church of St Julian (12th and 13th centuries) in the
-Romanesque style of Auvergne, of which the choir, with its apse and
+Romanesque style of Auvergne, of which the choir, with its [[Apse|apse]] and
 radiating chapels and the mosaic ornamentation of the exterior, is a fine
 example. Brioude is the seat of a sub-prefect, and of tribunals of first
 instance and of commerce. The plain in which it is situated is of great
@@ -24,8 +24,8 @@ brewing, saw-milling, lace-making and antimony mining and founding.
 Brioude, the ancient _Brinas_, was formerly a place of considerable
 importance. It was in turn besieged and captured by the Goths (532), the
 Burgundians, the Saracens (732) and the Normans. In 1181 the viscount of
-Polignac, who had sacked the town two years previously, made public apology
-in front of the church, and established a body of twenty-five knights to
+Polignac, who had sacked the town two years previously, made public [[Apology|apology]]
+in front of the church, and established a body of twenty-five [[Knight|knights]] to
 defend the relics of St Julian. For some time after 1361 the town was the
 headquarters of Berenger, lord of Castelnau, who was at the head of one of
 the bands of military adventurers which then devastated France. The knights

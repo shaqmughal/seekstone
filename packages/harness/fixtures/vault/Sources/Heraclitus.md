@@ -68,26 +68,26 @@ not as its manifestation, but as "stiff and dead." In like manner real
 virtue consists in the subordination of the individual to the laws of
 this harmony as the universal reason wherein alone true freedom is to be
 found. "The law of things is a law of Reason Universal ([Greek: logos]),
-but most men live as though they had a wisdom of their own." Ethics here
+but most men live as though they had a wisdom of their own." [[Ethics]] here
 stands to sociology in a close relation, similar, in many respects, to
 that which we find in Hegel and in Comte. For Heraclitus the soul
 approaches most nearly to perfection when it is most akin to the fiery
 vapour out of which it was originally created, and as this is most so in
 death, "while we live our souls are dead in us, but when we die our
-souls are restored to life." The doctrine of immortality comes
+souls are restored to life." The doctrine of [[Immortality|immortality]] comes
 prominently forward in his ethics, but whether this must not be reckoned
 with the figurative accommodation to the popular theology of Greece
 which pervades his ethical teaching, is very doubtful.
 
-The school of disciples founded by Heraclitus flourished for long after
+The school of [[Disciple|disciples]] founded by Heraclitus flourished for long after
 his death, the chief exponent of his teaching being Cratylus. A good
 deal of the information in regard to his doctrines has been gathered
 from the later Greek philosophy, which was deeply influenced by it.
 
-  BIBLIOGRAPHY.--The only authentic extant work of Heraclitus is the
+  BIBLIOGRAPHY.--The only [[Authentic|authentic]] extant work of Heraclitus is the
   [Greek: peri physeos]. The best edition (containing also the probably
   spurious [Greek: Epistolai]) is that of I. Bywater, _Heracliti Ephesii
-  reliquiae_ (Oxford, 1877); of the epistles alone by A. Westermann
+  reliquiae_ (Oxford, 1877); of the [[Epistle|epistles]] alone by A. Westermann
   (Leipzig, 1857). See also in A. H. Ritter and L. Preller's _Historia
   philosophiae Graecae_ (8th ed. by E. Wellmann, 1898); F. W. A.
   Mullach, _Fragm. philos. Graec._ (Paris, 1860); A. Fairbanks, _The
@@ -98,25 +98,25 @@ from the later Greek philosophy, which was deeply influenced by it.
   Lassalle, _Die Philosophie Herakleitos' des Dunklen_ (Berlin, 1858;
   2nd ed., 1892), which, however, is too strongly dominated by modern
   Hegelianism; Paul Schuster, _Heraklit von Ephesus_ (Leipzig, 1873); J.
-  Bernays, _Die heraklitischen Briefe_ (Berlin, 1869); T. Gomperz, _Zu
+  [[Bernays]], _Die heraklitischen Briefe_ (Berlin, 1869); T. Gomperz, _Zu
   Heraclits Lehre und den Uberresten seines Werkes_ (Vienna, 1887), and
   in his _Greek Thinkers_ (English translation, L. Magnus, vol. i.
-  1901); J. Burnet, _Early Greek Philosophy_ (1892); A. Patin,
+  1901); J. [[Burnet]], _Early Greek Philosophy_ (1892); A. Patin,
   _Heraklits Einheitslehre_ (Leipzig, 1886); E. Pfleiderer, _Die
   Philosophie des Heraklitus von Ephesus im Lichte der Mysterienidee_
   (Berlin, 1886); G. T. Schafer, _Die Philosophie des Heraklit von
   Ephesus und die moderne Heraklitforschung_ (Leipzig, 1902); Wolfgang
   Schultz, _Studien zur antiken Kultur_, i.; _Pythagoras und Heraklit_
   (Leipzig, 1905); O. Spengler, _Heraklit. Eine Studie uber den
-  energetischen Grundgedanken seiner Philosophie_ (Halle, 1904); A.
-  Brieger, "Die Grundzuge der heraklitischen Physik" in _Hermes_, xxxix.
+  energetischen Grundgedanken seiner Philosophie_ ([[Halle]], 1904); A.
+  Brieger, "Die Grundzuge der heraklitischen Physik" in _[[Hermes]]_, xxxix.
   (1904), 182-223, and "Heraklit der Dunkle" in _Neue Jahrb. f. das
   klass. Altertum_ (1904), p. 687. For his place in the development of
   early philosophy see also articles IONIAN SCHOOL OF PHILOSOPHY and
   LOGOS. Ancient authorities: Diog. Laert. ix.; Sext. Empiric., _Adv.
   mathem._ vii. 126, 127, 133; Plato, _Cratylus_, 402 A and
-  _Theaetetus_, 152 E; Plutarch, _Isis and Osiris_, 45, 48; Arist. _Nic.
-  Eth._ vii. 3, 4; Clement of Alexandria, _Stromata_, v. 599, 603 (ed.
+  _Theaetetus_, 152 E; Plutarch, _[[Isis]] and Osiris_, 45, 48; Arist. _Nic.
+  Eth._ vii. 3, 4; [[Clement]] of Alexandria, _Stromata_, v. 599, 603 (ed.
   Paris).     (J. M. M.)
 
 ## See also

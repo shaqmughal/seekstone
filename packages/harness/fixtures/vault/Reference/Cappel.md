@@ -5,7 +5,7 @@ Huguenot whose descent is traced above, was born at St Elier, near
 Sedan, in 1585. He studied theology at Sedan and Saumur; and Arabic at
 Oxford, where he spent two years. At the age of twenty-eight he accepted
 the chair of Hebrew at Saumur, and twenty years afterwards was
-appointed professor of theology. Amongst his fellow lecturers were Moses
+appointed professor of theology. Amongst his [[Fellow|fellow]] lecturers were Moses
 Amyraut and Josue de la Place. As a Hebrew scholar he made a special
 study of the history of the Hebrew text, which led him to the conclusion
 that the vowel points and accents are not an original part of the Hebrew
@@ -14,7 +14,7 @@ earlier than the 5th century A.D., and that the primitive Hebrew
 characters are those now known as the Samaritan, while the square
 characters are Aramaic and were substituted for the more ancient at the
 time of the captivity. These conclusions were hotly contested by
-Johannes Buxtorf, being in conflict with the views of his father,
+Johannes [[Buxtorf]], being in conflict with the views of his father,
 Johannes Buxtorf senior, notwithstanding the fact that Elias Levita had
 already disputed the antiquity of the vowel points and that neither
 Jerome nor the Talmud shows any acquaintance with them. His second
@@ -29,7 +29,7 @@ untenable. This amounted to an attack on the verbal inspiration of
 Scripture. Bitter, however, as was the opposition to his views, it was
 not long before his results were accepted by scholars.
 
-  Cappel was also the author of _Annotationes et Commentarii in Vetus
+  Cappel was also the author of _Annotationes et [[Commentarii]] in Vetus
   Testamentum_, _Chronologia Sacra_, and other biblical works, as well
   as of several other treatises on Hebrew, among which are the _Arcanum
   Punctuationis revelatum_ (1624) and the _Diatriba de veris et antiquis

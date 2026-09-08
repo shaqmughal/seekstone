@@ -2,8 +2,8 @@
 
 MAKARAKA, or IDDIO ("Cannibals"), a negroid people of Central Africa,
 closely related to the powerful Azandeh or Niam-Niam race, occupying the
-Bahr-el-Ghazal west of Lado. They came originally from the country of
-the Kibas, north of the Welle. Dr W. Junker described them as among the
+[[Bahr-El-Ghazal|Bahr-el-Ghazal]] west of Lado. They came originally from the country of
+the Kibas, north of the Welle. Dr W. [[Junker]] described them as among the
 most trustworthy, industrious and intelligent people of the
 Bahr-el-Ghazal. They are a reddish-black, with nose less flat and
 cheek-bones less prominent than the ordinary negroes, and, unlike the

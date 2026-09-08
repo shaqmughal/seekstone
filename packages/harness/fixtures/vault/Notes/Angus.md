@@ -14,8 +14,8 @@ Matilda (_fl._ 1240), countess of Angus in her own right, who married
 in 1243 Gilbert de Umfravill and founded the Norman line of three
 earls, which ended in 1381, the then holder of the title being
 summoned to the English parliament. Meanwhile John Stewart of Bonkyl,
-co. Berwick, had been created earl of Angus in a new line. This third
-creation ended with Margaret Stewart, countess of Angus in her
+co. [[Berwick]], had been created earl of Angus in a new line. This third
+creation ended with [[Margaret]] Stewart, countess of Angus in her
 own right, and widow of Thomas, 13th earl of Mar. By an irregular
 connexion with William, 1st earl of Douglas, who had married Mar's
 sister, she became the mother of George Douglas, 1st earl of Angus

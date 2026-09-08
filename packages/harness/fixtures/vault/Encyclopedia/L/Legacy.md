@@ -8,7 +8,7 @@ id: 42-5130
 
 # Legacy
 
-LEGACY (Lat. _legatum_), in English law, some particular thing or things
+LEGACY (Lat. _legatum_), in [[English Law|English law]], some particular thing or things
 given or left by a testator in his will, to be paid or performed by his
 executor or administrator. The word is primarily applicable to gifts of
 personalty or gifts charged upon real estate; but if there is nothing
@@ -26,14 +26,14 @@ the personal estate, e.g. a gift of £100 or of a gold ring. A
 _demonstrative legacy_ partakes of the nature of both the preceding
 kinds of legacies, e.g. a gift of £100 payable out of a named fund is a
 specific legacy so far as the fund named is available to pay the legacy;
-after the fund is exhausted the balance of the legacy is a general
+after the fund is exhausted the [[Balance|balance]] of the legacy is a general
 legacy and recourse must be had to the general estate to satisfy such
 balance. Sometimes a testator bequeaths two or more legacies to the same
 person; in such a case it is a question whether the later legacies are
 in substitution for, or in addition to, the earlier ones. In the latter
 case they are known as _cumulative_. In each case the intention of the
 testator is the rule of construction; this can often be gathered from
-the terms of the will or codicil, but in the absence of such evidence
+the terms of the will or [[Codicil|codicil]], but in the absence of such evidence
 the following rules are followed by the courts. Where the same specific
 thing is bequeathed twice to the same legatee or where two legacies of
 equal amount are bequeathed by the same instrument the second bequest is
@@ -51,7 +51,7 @@ legacies are liable to ademption where the specific thing perishes or
 ceases to belong to the testator, e.g. in the instance given above if
 the testator sells the portrait the legatee will get nothing by virtue
 of the legacy. As a general rule, legacies given to persons who
-predecease the testator do not take effect; they are said to lapse. This
+predecease the testator do not take effect; they are said to [[Lapse|lapse]]. This
 is so even if the gift be to A and his executors, administrators and
 assigns, but this is not so if the testator has shown a contrary
 intention, thus, a gift to A _or_ his personal representative will be
@@ -76,19 +76,19 @@ twenty-one years of age, only confers on A an interest contingent on his
 attaining the age of twenty-one.
 
 _Legacy Duty_ is a duty charged by the state upon personal property
-devolving upon the legatees or next of kin of a dead person, either by
-virtue of his will or upon his intestacy. The duty was first imposed in
+devolving upon the legatees or next of [[Kin|kin]] of a dead person, either by
+virtue of his will or upon his [[Intestacy|intestacy]]. The duty was first imposed in
 England in 1780, but the principal act dealing with the subject is the
 Legacy Duty Act 1796. The principal points as to the duty are these. The
 duty is charged on personalty only. It is payable only where the person
 on whose death the property passes was domiciled in the United Kingdom.
 The rate of duty varies from 1 to 10% according to the relationship
-between the testator and legatee. As between husband and wife no duty is
+between the testator and legatee. As between [[Husband And Wife|husband and wife]] no duty is
 payable. The duty is payable by the executors and deducted from the
 legacy unless the testator directs otherwise. Special provisions as to
 valuation are in force where the gift is of an annuity or is settled on
 various persons in succession, or the legacy is given in joint tenancy
-and other cases. In some cases the duty is payable by instalments which
+and other cases. In some cases the duty is payable by [[Instalment|instalments]] which
 carry interest at 3%. In various cases legacies are exempt from
 duty--the more important are gifts to a member of the royal family,
 specific legacies under £20 (pecuniary legacies under £20 pay duty),

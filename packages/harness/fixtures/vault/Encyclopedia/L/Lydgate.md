@@ -2,17 +2,17 @@
 
 LYDGATE, JOHN (c. 1370-c. 1451), English poet, was born at the village
 of Lydgate, some 6 or 7 m. from Newmarket. It is, however, with the
-Benedictine abbey of Bury St Edmunds that he is chiefly associated.
+Benedictine abbey of [[Bury]] St [[Edmunds]] that he is chiefly associated.
 Probably he was educated at the school attached to the monastery, and in
 his _Testament_ he has drawn a lively picture of himself as a typical
 orchard-robbing boy, who had scant relish for matins, fought, and threw
-creed and paternoster at the cock. He was ordained sub-deacon in 1389,
+creed and paternoster at the [[Cock|cock]]. He was ordained sub-deacon in 1389,
 deacon in 1393, and priest in 1397. These dates are valuable as enabling
 us to fix approximately the date of his birth, which must have occurred
 somewhere about 1370. Lydgate passed as a portent of learning, and,
 according to Bale, he pursued his studies not only at both the English
 universities but in France and Italy. Koeppel (see _Laurents de
-Premierfait und John Lydgates Bearbeitungen von Boccaccios De Casibus_,
+Premierfait und John Lydgates Bearbeitungen von [[Boccaccio|Boccaccios]] De Casibus_,
 Munich, 1885) has thrown much doubt on this statement as regards Italy,
 but Lydgate knew France and visited Paris in an official capacity in
 1426. Bale is also the authority for another assertion that figures in
@@ -23,7 +23,7 @@ to the year 1461, but it is quite improbable that he lived many years
 after 1446, when Abbot Curteys died and John Baret, treasurer of Bury,
 signed an extant receipt for a pension which he shared with Lydgate, and
 which continued to be paid till 1449. If it be true, as Bishop Alcock of
-Ely affirms, that Lydgate wrote a poem on the loss of France and
+[[Ely]] affirms, that Lydgate wrote a poem on the loss of France and
 Gascony, it seems necessary to suppose that he lived two years longer,
 and thus indications point to the year 1451, or thereabouts, as the date
 of his death.
@@ -32,7 +32,7 @@ Lydgate had a consuming passion for literature, and it was probably that
 he might indulge this taste more fully that in 1434 he retired from the
 priorate of Hatfield Broadoak (or Hatfield Regis), to which he had been
 appointed in June 1423. After 1390--but whilst he was still a young
-man--he made the acquaintance of Geoffrey Chaucer, with whose son
+man--he made the acquaintance of Geoffrey [[Chaucer]], with whose son
 Thomas he was on terms of considerable intimacy. This friendship appears
 to have decided Lydgate's career, and in his _Troy-book_ and elsewhere
 are reverent and touching tributes to his "master." The passages in
@@ -45,7 +45,7 @@ xii.-xvi.). The _Falls of Princes_, again, is merely the _Monk's Tale_
 "writ large."
 
 Lydgate is a most voluminous writer. The _Falls of Princes_ alone
-comprises 7000 stanzas; and his authentic compositions reach the
+comprises 7000 stanzas; and his [[Authentic|authentic]] compositions reach the
 enormous total of 150,000 lines. Cursed with such immoderate fluency
 Lydgate could not sustain himself at the highest level of artistic
 excellence; and, though imbued with a sense of the essentials of poetry,
@@ -54,7 +54,7 @@ himself of the self-discipline necessary to perfection of form. As the
 result the bulk of his composition is wholly or comparatively
 rough-hewn. That he was capable of better work than is suggested by his
 average accomplishment is shown by two allegorical poems--the _Complaint
-of the Black Knight_ and the _Temple of Glass_ (once attributed to
+of the Black [[Knight]]_ and the _Temple of Glass_ (once attributed to
 Hawes). In these he reveals himself as a not unworthy successor of
 Chaucer, and the pity of it is that he should have squandered his powers
 in a futile attempt to create an entire literature. For a couple of
@@ -63,7 +63,7 @@ his master. This was in a sense only natural, since he was the real
 founder of the school of which Stephen Hawes was a distinguished
 ornament, and which "held the field" in English letters during the long
 and dreary interval between Chaucer and Spenser. One of the most obvious
-defects of this school is excessive attachment to polysyllabic terms.
+defects of this school is excessive [[Attachment|attachment]] to polysyllabic terms.
 Lydgate is not quite so great a sinner in this respect as are some of
 his successors, but his tendency cannot be mistaken, and John Metham is
 amply justified in his censure--
@@ -95,7 +95,7 @@ offensive lightheartedness, admits his poor craftsmanship.
   preface to the _Temple of Glass_ embodies practically all that is known
   or conjectured concerning this author, including the chronological
   order of his works. With the exception of the _Damage and Destruction
-  in Realms_--an account of Julius Caesar, his wars and his death--they
+  in Realms_--an account of [[Julius]] [[Caesar]], his wars and his death--they
   are all in verse and extremely multifarious--narrative, devotional
   hagiological, philosophical and scientific, allegorical and moral,
   historical, satirical and occasional. The _Troy-book_, undertaken at
@@ -105,8 +105,8 @@ offensive lightheartedness, admits his poor craftsmanship.
   Old Philosophers_, rhymed extracts from a pseudo-Aristotelian treatise.
   Lydgate certainly possessed extraordinary versatility, which enabled
   him to turn from elaborate epics to quite popular poems like the
-  _Mumming at Hertford_, _A Ditty of Women's Horns_ and _London
-  Lickpenny_. The humour of this last is especially bright and effective,
+  _Mumming at [[Hertford]]_, _A Ditty of Women's [[Horn|Horns]]_ and _London
+  Lickpenny_. The [[Humour|humour]] of this last is especially [[Bright|bright]] and effective,
   but, unluckily for the author, the piece is believed to have been
   retouched by some other hand. The longer efforts partake of the nature
   of translations from sundry medieval compilations like those of Guido

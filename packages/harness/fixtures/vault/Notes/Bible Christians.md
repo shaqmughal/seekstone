@@ -1,21 +1,21 @@
 # Bible Christians
 
-BIBLE CHRISTIANS, one of the denominations now merged in the United
+BIBLE CHRISTIANS, one of the [[Denomination|denominations]] now merged in the United
 Methodist Church (see UNITED METHODISTS), so called because its early
 preachers appealed solely to the Bible in confirmation of their
 doctrines. The denomination arose in the agricultural districts and
-fishing villages of north Cornwall and Devon; a district only slightly
+fishing villages of north [[Cornwall]] and Devon; a district only slightly
 influenced by John Wesley and the original Methodist movement. The
 founder was William O'Bryan (afterwards Bryant), a Methodist lay
 preacher of Luxillian, Cornwall. Finding that the people had no
 evangelical preaching he began an itinerary to supply the need. The
-coastmen were expert smugglers and wreckers, the agriculturists were
+coastmen were [[Expert|expert]] smugglers and wreckers, the agriculturists were
 ignorant and drunken, the parish clergy were slothful, in many cases
 intemperate, and largely given to fox-hunting. Only in a parish or two
 was there any approach to religious ministry. O'Bryan commenced his
 labours in north Devon, and in 1815 a small society was formed at Lake
 Farm, Shebbear. The movement had the seeds of great vitality in it. In
-1819 the first conference was held at Launceston. There were present
+1819 the first conference was held at [[Launceston]]. There were present
 besides O'Bryan one accepted minister--James Thorne--fourteen ministers
 on trial and fifteen women preachers, a class that was always
 conspicuous in the denomination. At that conference the work had spread
@@ -29,7 +29,7 @@ conference, but failed, and in 1836 there was a reunion. O'Bryan left
 England for America, where he remained for the rest of his life, and his
 contingent (numbering 565 members and 4 ministers) returned to the
 original conference. The growth continued. In 1831 agents were sent to
-Canada and Prince Edward's Island, in 1850 to South Australia, in 1855
+Canada and Prince Edward's Island, in 1850 to South [[Australia]], in 1855
 to Victoria, in 1866 to Queensland, in 1877 to New Zealand and in 1885
 to China, so that the original O'Bryan tradition of fervid evangelism
 was amply maintained.
@@ -48,11 +48,11 @@ Wight the people worshipped for many months in a quarry. The preachers
 were sometimes imprisoned and many times assaulted. The old Methodist
 body even excommunicated persons for attending "Bryanite" meetings.
 Partly co-operative with James Thorne and at his death independently,
-the Church was favoured with the influence of Frederick William Bourne.
+the Church was favoured with the influence of Frederick William [[Bourne]].
 He was a minister for fifty-five years, and served the Bible Christians
 as editor, missionary treasurer, book steward and three times president
 of conference. With him will always be associated the name of Billy
-Bray, an illiterate but inimitable Cornish evangelist, a memoir of whom,
+[[Bray]], an illiterate but inimitable Cornish evangelist, a memoir of whom,
 written by Bourne, exerted a great influence in the religious life of
 the denomination.
 

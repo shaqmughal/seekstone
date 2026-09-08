@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Mahayana"
 MAHAYANA ("Great Vehicle"), the name given to the later Buddhism, the
 popular religion which embraced all the people and had its pantheon of
 Buddhas and Bodhisatvas, with attendant deities and demons, spacious
-temples and images, pompous ceremonial and noisy festivals. It was thus
+temples and [[Image|images]], pompous ceremonial and noisy festivals. It was thus
 contrasted with the Hinayana ("Little Vehicle") of the primitive
 Buddhism which had been only for the select few. (See BUDDHISM.)
 

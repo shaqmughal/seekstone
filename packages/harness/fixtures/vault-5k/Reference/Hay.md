@@ -2,11 +2,11 @@
 
 HAY (a word common in various forms to Teutonic languages; cf. Ger.
 _Heu_, Dutch _hooi;_ the root from which it is derived, meaning "to
-cut," is also seen in "to hew"; cf. "hoe"), grass mown and dried in the
+cut," is also seen in "to hew"; cf. "[[Hoe|hoe]]"), grass mown and dried in the
 sun and used as fodder for cattle. It is properly applied only to the
 grass when cut, but is often also used of the standing crop. (See
 _Haymaking_ below). Another word "hay," meaning a fence, must be
-distinguished; the root from which it is derived is seen in its doublet
+distinguished; the root from which it is derived is seen in its [[Doublet|doublet]]
 "hedge," cf. "haw-thorn," i.e. "hedge thorn." In this sense it survives
 in legal history in "hay bote," _i.e._ hedge-bote, the right of a
 tenant, copyholder, &c. to take wood to repair fences, hedges, &c. (see
@@ -37,7 +37,7 @@ the hay without any special "making," as the sun and wind will dry it
 quickly enough to fit it for stacking up without the expenditure of much
 labour. This rule also applies to dry countries like the United States
 and several of the British colonies, and it is for this reason that most
-of the modern implements used for quickly handling a bulk of hay have
+of the modern [[Implement|implements]] used for quickly handling a bulk of hay have
 been invented or improved in those countries. Forage of all kinds
 intended for hay should be cut at or before the flowering stage if
 possible. The full growth and food value of the plant are reached then,
@@ -56,12 +56,12 @@ drying process the 75% of water usually present in grass should be
 reduced to approximately 15% in the hay, and in wet or broken weather it
 is exceedingly difficult to secure this reduction. With a heavy crop or
 in damp weather grass may need turning in the swathe, raking up into
-"windrows," and then making up into cocks or "quiles," i.e. round
+"windrows," and then making up into [[Cock|cocks]] or "quiles," i.e. round
 beehive-like heaps, before it can be "carried." A properly made cock
 will stand bad weather for a week, as only the outside straws are
 weathered, and therefore the hay is kept fresh and green. Indeed, it is
 a good rule always to cock hay, for even in sunny weather undue exposure
-ends in bleaching, which is almost as detrimental to its quality as
+ends in [[Bleaching|bleaching]], which is almost as detrimental to its quality as
 wet-weathering.
 
 In the last quarter of the 19th century the methods of haymaking were
@@ -70,7 +70,7 @@ practice were revised. Generally speaking, before that time the only
 implements used were the scythe, the rake and the pitchfork;
 nowadays--with the exception of the pitchfork--these implements are
 seldom used, except where the work is carried on in a small way. Instead
-of the scythe, for instance, the mowing machine is employed for cutting
+of the scythe, for instance, the mowing [[Machine|machine]] is employed for cutting
 the crop, and with a modern improved machine taking a swathe as wide as
 5 or 6 ft. some 10 acres per day can easily be mown by one man and a
 pair of horses (figs. 1 and 2).
@@ -81,12 +81,12 @@ of Blade. (Harrison, M'Gregor & Co.)]
   It will be seen from the figures that a mower consists of three
   principal parts: (1) a truck or carriage on two high wheels carrying
   the driving gear; (2) the cutting mechanism, comprising a
-  reciprocating knife or sickle operating through slots in the guards or
+  reciprocating knife or sickle operating through slots in the [[Guards|guards]] or
   "fingers" fastened to the cutting bar which projects to either the
   right or left of the truck; and (3) the pole with whipple-trees, by
   which the horses are attached to give the motive power. The
   reciprocating knife has a separate blade to correspond to each finger,
-  and is driven by a connecting rod and crank on the fore part of the
+  and is driven by a connecting rod and [[Crank|crank]] on the fore part of the
   truck. In work the pointed "fingers" pass in between the stalks of
   grass and the knives shear them off, acting against the fingers as the
   crank drives them backwards and forwards. In the swathe of grass left
@@ -102,7 +102,7 @@ of Blade. (Harrison, M'Gregor & Co.)]
 After the grass has lain in the swathe a day or two till it is partly
 dried, it is necessary to turn it over to dry the other side. This used
 to be done with the hand rake, and a band of men or women would advance
-in _echelon_ across a field, each turning the swathe of hay by regular
+in _[[Echelon|echelon]]_ across a field, each turning the swathe of hay by regular
 strokes of the rake at each step: "driving the dusky wave along the
 mead" as described in Thomson's _Seasons._ This part of the work was the
 act of "haymaking" proper, and the subject of much sentiment in both
@@ -159,7 +159,7 @@ order to save both labour and the quality of the hay.
   load.
 
   [Illustration: FIG. 4.--Self-acting Horse Rake. (Ransomes, Sims &
-  Jefferies, Ltd.).]
+  [[Jefferies]], Ltd.).]
 
   The tipping is effected by pulling down a handle which sets a leverage
   device in motion, whereby the teeth are lifted up and the load of hay
@@ -217,7 +217,7 @@ order to save both labour and the quality of the hay.
   not working sweetly but has a tendency to clog or make rolls of hay,
   it may be inferred that the latter is not in a condition fit for
   stacking. Where the loads must be taken through a gateway or a long
-  distance to the stack, it is necessary to use carts or wagons, and the
+  distance to the stack, it is necessary to use [[Cart|carts]] or wagons, and the
   loading of these in the field out of the windrow is largely expedited
   by the use of the "loader," also an American invention of which many
   varieties are in the market. Generally speaking, it consists of a
@@ -268,7 +268,7 @@ set of implements for carrying these to the stackyard.
   between shafts. The vehicle is backed against a rick, and a chain
   passed round the bottom of the latter, which is then pulled up the
   slant of the tipped platform by means of a small windlass. When the
-  centre of the balance is passed, the platform carrying the rick tips
+  centre of the [[Balance|balance]] is passed, the platform carrying the rick tips
   back to the level, and the whole is thus loaded ready to move. Another
   variety of loader is formed of three shear-legs with block and tackle.
   These are placed over a rick, under which the grab-irons are passed,

@@ -17,8 +17,8 @@ early history of the Frankish Church, because the cloak of St Martin,
 _cappa brevior Sancti Martini_, one of the most sacred relics of the
 Frankish kings, was carried in a sanctuary or shrine wherever the king
 went; and oaths were taken on it (see Ducange, _Glossarium_, s.v.
-_Capella_). Such a sanctuary was served by a priest, who was hence
-called _capellanus_, from which is derived the English "chaplain"
+_[[Capella]]_). Such a sanctuary was served by a priest, who was hence
+called _capellanus_, from which is derived the English "[[Chaplain|chaplain]]"
 (q.v.). The strict application of the word to a sanctuary containing
 relics was extended to embrace any place of worship other than a church,
 and it was synonymous, therefore, with "oratory" (_oratorium_),
@@ -27,7 +27,7 @@ celebrated Sainte Chapelle in Paris, attached to what is now the Palais
 de Justice, well illustrates the early and proper meaning of the word.
 It was built (consecration, 1248) by St Louis of France to contain the
 relic of the Crown of Thorns, ransomed by the king from the Venetians,
-who held it in pawn from the Latin emperor of the East, John of Brienne,
+who held it in pawn from the Latin emperor of the East, [[John Of Brienne|John of Brienne]],
 lately dead. The chapel served as the sanctuary of the relic lodged in
 the upper chapel, and the whole building was attached as the place of
 worship to the king's palace. This, the primary meaning, survives in the
@@ -48,7 +48,7 @@ and widely scattered parish, or "district chapels," those of a district
 of a parish divided under the various church building acts. A "free
 chapel" is one founded by the king and by his authority, and visited by
 him and not by the bishop. A "proprietary chapel" is one that belongs to
-a private person. They are anomalies to the English ecclesiastical law,
+a private person. They are anomalies to the English [[Ecclesiastical Law|ecclesiastical law]],
 have no parish rights, and can be converted to other than religious
 purposes, but a clergyman may be licensed to perform duty in such a
 place of worship. In the early and middle part of the 19th century such

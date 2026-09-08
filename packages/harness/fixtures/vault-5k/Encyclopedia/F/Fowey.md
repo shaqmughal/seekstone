@@ -1,14 +1,14 @@
 # Fowey
 
 FOWEY (usually pronounced _Foy_), a seaport and market-town in the
-Bodmin parliamentary division of Cornwall, England, on the Great Western
+[[Bodmin]] parliamentary division of [[Cornwall]], England, on the Great Western
 railway, 25 m. by sea W. of Plymouth. Pop. (1901) 2258. It lies on the
 west shore of the picturesque estuary of the river Fowey, close to the
 water's edge, and sheltered by a screen of hills. Its church of St
 Nicholas is said to have been built in the 14th century, on the site of
 a still older edifice dedicated to St Finbar of Cork. It has a fine
 tower and late Norman doorway. Within are a priest's chamber over the
-porch, a handsome oak ceiling, a 15th-century pulpit, and some curious
+porch, a handsome oak [[Ceiling|ceiling]], a 15th-century pulpit, and some curious
 monuments and brasses. Place House, adjacent to the church, is a highly
 ornate Tudor building. A few ancient houses remain in the town. Deep-sea
 fishing is carried on; but the staple trade consists in the export of

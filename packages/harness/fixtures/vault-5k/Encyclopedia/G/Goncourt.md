@@ -14,7 +14,7 @@ to be also discriminating, indeed innovating, critics of art, but of a
 certain section of art, the 18th century, in France and Japan; and also
 to collect pictures and bibelots, always of the French and Japanese 18th
 century. Their histories (_Portraits intimes du XVIII^e siecle_ (1857),
-_La Femme au XVIII^{e} siecle_ (1862), _La du Barry_ (1878), &c.) are
+_La Femme au XVIII^{e} siecle_ (1862), _La [[Du Barry|du Barry]]_ (1878), &c.) are
 made entirely out of documents, autograph letters, scraps of costume,
 engravings, songs, the unconscious self-revelations of the time; their
 three volumes on _L'Art du XVIII^e siecle_ (1859-1875) deal with Watteau
@@ -36,8 +36,8 @@ almost everything to Zola, they invented a new kind of novel, and their
 novels are the result of a new vision of the world, in which the very
 element of sight is decomposed, as in a picture of Monet. Seen through
 the nerves, in this conscious abandonment to the tricks of the eyesight,
-the world becomes a thing of broken patterns and conflicting colours,
-and uneasy movement. A novel of the Goncourts is made up of an infinite
+the world becomes a thing of broken patterns and conflicting [[Colours|colours]],
+and uneasy movement. A novel of the Goncourts is made up of an [[Infinite|infinite]]
 number of details, set side by side, every detail equally prominent.
 While a novel of Flaubert, for all its detail, gives above all things an
 impression of unity, a novel of the Goncourts deliberately dispenses
@@ -63,19 +63,19 @@ language. (A. Sy.)
   In his will Edmond de Goncourt left his estate for the endowment of an
   academy, the formation of which was entrusted to MM. Alphonse Daudet
   and Leon Hennique. The society was to consist of ten members, each of
-  whom was to receive an annuity of 6000 francs, and a yearly prize of
+  whom was to receive an annuity of 6000 [[Franc|francs]], and a yearly prize of
   5000 francs was to be awarded to the author of some work of fiction.
   Eight of the members of the new academy were nominated in the will.
   They were: Alphonse Daudet, J. K. Huysmans, Leon Hennique, Octave
-  Mirbeau, the two brothers J. H. Rosny, Gustave Geffroy and Paul
+  Mirbeau, the two brothers J. H. Rosny, Gustave [[Geffroy]] and Paul
   Margueritte. On the 19th of January 1903, after much litigation, the
-  academy was constituted, with Elemir Bourges, Lucien Descaves and
+  academy was constituted, with Elemir [[Bourges]], Lucien Descaves and
   Leon Daudet as members in addition to those mentioned in de Goncourt's
   will, the place of Alphonse Daudet having been left vacant by his
   death in 1897.
 
   On the brothers de Goncourt see the _Journal des Goncourt_ already
-  cited; also M. A. Belloc (afterwards Lowndes) and M. L. Shedlock,
+  cited; also M. A. Belloc (afterwards [[Lowndes]]) and M. L. Shedlock,
   _Edmond and Jules de Goncourt, with Letters and Leaves from their
   Journals_ (1895); Alidor Delzant, _Les Goncourt_ (1889) which contains
   a valuable bibliography; _Lettres de Jules de Goncourt_ (1888), with

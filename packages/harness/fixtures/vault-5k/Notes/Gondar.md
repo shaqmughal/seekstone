@@ -30,8 +30,8 @@ carrying off much treasure. The population, estimated by James Bruce in
 pacification of the Sudan by the British (1886-1889) there has been some
 revival of trade between Gondar and the regions of the Blue Nile. Among
 the inhabitants are numbers of Mahommedans, and there is a settlement of
-Falashas. Cotton, cloth, gold and silver ornaments, copper wares, fancy
-articles in bone and ivory, excellent saddles and shoes are among the
+[[Falashas]]. Cotton, cloth, gold and silver ornaments, copper wares, fancy
+articles in [[Bone|bone]] and [[Ivory|ivory]], excellent saddles and shoes are among the
 products of the local industry.
 
 Unlike any other buildings in Abyssinia, the castles and palaces of
@@ -55,11 +55,11 @@ its immediate neighbourhood, Major Powell-Cotton found only one intact
 in 1900. This church contained some well-executed native paintings of St
 George and the Dragon, The Last Supper, &c. Among the religious
 observances of the Christians of Gondar is that of bathing in large
-crowds in the Gaha on the Feast of the Baptist, and again, though in
-more orderly fashion, on Christmas day.
+[[Crowd|crowds]] in the Gaha on the Feast of the Baptist, and again, though in
+more orderly fashion, on [[Christmas]] day.
 
   See E. Ruppell, _Reise in Abyssinien_ (Frankfort-on-the-Main,
-  1838-1840); T. von Heuglin, _Reise nach Abessinien_ (Jena, 1868); G.
+  1838-1840); T. von [[Heuglin]], _Reise nach Abessinien_ (Jena, 1868); G.
   Lejean, _Voyage en Abyssinie_ (Paris, 1872); Achille Raffray, _Afrique
   orientale; Abyssinie_ (Paris, 1876); P. H. G. Powell-Cotton, _A
   Sporting Trip through Abyssinia_, chaps. 27-30 (London, 1902); and

@@ -13,21 +13,21 @@ Sir John Bennet of Dawley, Middlesex, and of Dorothy Crofts, was
 baptized at Little Saxham, Suffolk, in 1618, and was educated at
 Westminster school and Christ Church, Oxford. He gained some distinction
 as a scholar and a poet, and was originally destined for holy orders. In
-1643 he was secretary to Lord Digby at Oxford, and was employed as a
+1643 he was secretary to Lord [[Digby]] at Oxford, and was employed as a
 messenger between the queen and Ormonde in Ireland. Subsequently he took
 up arms for the king, and received a wound in the skirmish at Andover in
 1644, the scar of which remained on his face through life.[1] And after
 the defeat of the royal cause he travelled in France and Italy, joined
 the exiled royal family in 1650, and in 1654 became official secretary
 to James on Charles's recommendation, who had already been attracted by
-his "pleasant and agreeable humour."[2] In March 1657 he was knighted,
+his "pleasant and agreeable [[Humour|humour]]."[2] In March 1657 he was knighted,
 and the same year was sent as Charles's agent to Madrid, where he
 remained, endeavouring to obtain assistance for the royal cause, till
 after the Restoration. On his return to England in 1661 he was made
 keeper of the privy purse, and became the prime favourite. One of his
 duties was the procuring and management of the royal mistresses, in
-which his success gained him great credit. Allying himself with Lady
-Castlemaine, he encouraged Charles's increasing dislike to Clarendon;
+which his success gained him great [[Credit|credit]]. Allying himself with Lady
+[[Castlemaine]], he encouraged Charles's increasing dislike to [[Clarendon]];
 and he was made secretary of state in October 1662 in spite of the
 opposition of Clarendon, who had to find him a seat in parliament. He
 represented Callington from 1661 till 1665, but appears never to have
@@ -48,7 +48,7 @@ for Buckingham first shared, and soon surpassed him, in the royal
 favour. With Buckingham a sharp rivalry sprang up, and they only
 combined forces when endeavouring to bring about some evil measure, such
 as the ruin of the great Ormonde, who was an opponent of their policy
-and their schemes. Another object of jealousy to Arlington was Sir
+and their schemes. Another object of [[Jealousy|jealousy]] to Arlington was Sir
 William Temple, who achieved a great popular success in 1668 by the
 conclusion of the Triple Alliance; Arlington endeavoured to procure his
 removal to Madrid, and entered with alacrity into Charles's plans for
@@ -56,17 +56,17 @@ destroying the whole policy embodied in the treaty, and for making terms
 with France. He refused a bribe from Louis XIV., but allowed his wife to
 accept a gift of 10,000 crowns;[3] in 1670 he was the only minister
 besides the Roman Catholic Clifford to whom the first secret treaty of
-Dover (May 1670), one clause of which provided for Charles's declaration
-of his conversion to Romanism, was confided (see CHARLES II.); and he
+[[Dover]] (May 1670), one clause of which provided for Charles's [[Declaration|declaration]]
+of his [[Conversion|conversion]] to Romanism, was confided (see CHARLES II.); and he
 was the chief actor in the deception practised upon the rest of the
 council.[4] He supported several other pernicious measures--the scheme
 for rendering the king's power absolute by force of arms; the "stop of
-the exchequer," involving a repudiation of the state debt in 1672; and
+the exchequer," involving a repudiation of the state [[Debt|debt]] in 1672; and
 the declaration of indulgence the same year, "that we might keep all
 quiet at home whilst we are busy abroad."[5] On the 22nd of April 1672
 he was created an earl, and on the 13th of June obtained the Garter; the
 same month he proceeded with Buckingham on a mission, first to William
-at the Hague, and afterwards to Louis at Utrecht, endeavouring to force
+at the [[Hague]], and afterwards to Louis at Utrecht, endeavouring to force
 upon the Dutch terms of peace which were indignantly refused. But
 Arlington's support of the court policy was entirely subordinate to
 personal interests; and after the appointment of Clifford in November
@@ -84,11 +84,11 @@ Commons, the specific charges being "popery," corruption and the
 betrayal of his trust--Buckingham in his own defence having accused him
 the day before of being the chief instigator of the French and
 anti-Protestant policy, of the scheme of governing by the army, of
-responsibility for the Dutch War, and of embezzlement. But the motion
+responsibility for the Dutch War, and of [[Embezzlement|embezzlement]]. But the motion
 for his removal, owing chiefly to the influence of his brother-in-law,
 the popular Lord Ossory, was rejected by 166 votes to 127. His escape
 could not, however, prevent his fall, and he resigned the secretaryship
-on the 11th of September 1674, being appointed lord chamberlain instead.
+on the 11th of September 1674, being appointed [[Lord Chamberlain|lord chamberlain]] instead.
 In 1675 he made another attempt to gain favour with the parliament by
 supporting measures against France and against the Roman Catholics, and
 by joining in the pressure put upon Charles to remove James from the
@@ -107,11 +107,11 @@ to put a black patch upon his nose and strut about with a white staff in
 his hand in order to make the king merry at his expense."[8] He was
 appointed a commissioner of the treasury in March 1679, was included in
 Sir William Temple's new modelled council the same year, and was a
-member of the inner cabinet which was almost immediately formed. In 1681
+member of the inner [[Cabinet|cabinet]] which was almost immediately formed. In 1681
 he was made lord lieutenant of Suffolk. He died on the 28th of July
 1685, and was buried at Euston, where he had bought a large estate and
 had carried out extensive building operations. His residence in London
-was Goring House, on the site of which was built the present Arlington
+was [[Goring]] House, on the site of which was built the present Arlington
 Street.
 
 Arlington was a typical statesman of the Restoration, possessing
@@ -122,7 +122,7 @@ a spark of patriotism, faithless even to a bad cause, and regarding
 public office solely as a means of procuring pleasure and profit. His
 knowledge of foreign affairs and of foreign languages, gained during his
 residence abroad, was considerable, but long absence from England had
-also taught him a cosmopolitan indifference to constitutions and
+also taught him a [[Cosmopolitan|cosmopolitan]] indifference to constitutions and
 religions, and a careless disregard for English public opinion and the
 essential interests of the country. According to Clarendon, he "knew no
 more of the constitution and laws of England than he did of China, nor
@@ -137,7 +137,7 @@ government. Of the same egotistical character was his religion, towards
 which his attitude was similar to that of Charles II. himself. He was
 credited with having inclined the king towards Romanism. Before the
 Restoration he had attended mass with the king abroad, and in opposition
-to Lord Bristol had urged Charles to declare publicly his conversion in
+to Lord [[Bristol]] had urged Charles to declare publicly his conversion in
 order to obtain the long-expected succour from the foreign powers. But
 his religion sat lightly upon him as it did upon his master, and it was
 often convenient to disguise it. Like the king he continued to profess
@@ -146,8 +146,8 @@ at Euston; and, unlike Clifford, he took the Test in 1673 and remained
 in office, successfully concealing his faith till on his deathbed, when
 he declared himself an adherent of Roman Catholicism.[11]
 
-He married Isabella of Beerwaert, daughter of Louis of Nassau, by whom
-he had one daughter, Isabella, who married Henry, duke of Grafton, the
+He married [[Isabella]] of Beerwaert, daughter of [[Louis Of Nassau|Louis of Nassau]], by whom
+he had one daughter, Isabella, who married Henry, duke of [[Grafton]], the
 natural son of Charles II. and Lady Castlemaine.
 
   AUTHORITIES.--In addition to those mentioned above, see _Biographia
@@ -157,7 +157,7 @@ natural son of Charles II. and Lady Castlemaine.
   Macpherson (1776), i. 132-133; _Lauderdale Papers_ (Camden Soc. N.S.,
   vols. 34, 36, 38), and MSS. in Brit. Mus.; _Original Letters of Sir R.
   Fanshaw_ (1724); _Letters from the Secretaries of State to Francis
-  Parry_ (1817); _Add. MSS. Brit. Mus._ indexes; _Cat. of State Pap.
+  Parry_ (1817); _Add. MSS. Brit. Mus._ [[Index|indexes]]; _Cat. of State Pap.
   Dom._, and _Hist. MSS. Comm.--MSS. of Marquis of Ormonde, and Duke of
   Buccleugh at Montagu House_, ii. 49.     (P. C. Y.)
 
@@ -177,7 +177,7 @@ FOOTNOTES:
   [5] Arlington to Sir B. Gascoyn, in J.T. Brown's _Miscellanea Aulica_
     (1702), 66.
 
-  [6] On the authority of Colbert, 20th November 1673; Dalrymple's
+  [6] On the authority of [[Colbert]], 20th November 1673; Dalrymple's
     _Memoirs_, i. 131.
 
   [7] James's statement in Macpherson's _Orig. Pap._ i. 67.

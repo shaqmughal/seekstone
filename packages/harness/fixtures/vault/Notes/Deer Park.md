@@ -21,9 +21,9 @@ belonged to the king. After the Conquest they increased rapidly in
 number, but from about the middle of the 11th century this tendency was
 reversed. In the middle of the 16th century it was conjectured that
 one-twentieth of England and Wales was given up to deer and rabbits.
-Upon Saxton's maps, which were made between 1575 and 1580, over 700
+Upon Saxton's [[Map|maps]], which were made between 1575 and 1580, over 700
 parks are marked, and it is not improbable that the number was
-understated. Mr Evelyn Philip Shirley enumerated only 334 in his book on
+understated. Mr [[Evelyn]] Philip Shirley enumerated only 334 in his book on
 _English Deer Parks_ published in 1867. To these Mr Joseph Whitaker, in
 _A Descriptive List of the Deer Parks of England_ (1892), has added
 another fifty, and the total is believed to be now about 400. It is a
@@ -39,10 +39,10 @@ with the accession of the house of Tudor, the deer park began to fall
 into decay. By Queen Elizabeth's time a considerable proportion of the
 ancestral acres of the great houses had passed into the possession of
 rich merchants and wealthy wool-staplers, and it had become more
-profitable to breed bullocks than to find pasture for deer, and even
+profitable to breed [[Bullock|bullocks]] than to find pasture for deer, and even
 where the new men retained, and even in some cases created, deer parks,
 they reduced their area in order that more land might be available for
-grazing or for corn. Thus began that decadence of the deer park which
+grazing or for [[Corn|corn]]. Thus began that decadence of the deer park which
 has continued down to the present time. More than anything, however, the
 strife between Charles I. and parliament contributed to reduce both the
 number and size of English parks containing deer. By the Restoration the
@@ -54,14 +54,14 @@ timber had been valued at L20,000. One of the results of the Restoration
 was to empty the parks of the Roundhead squires to replenish those of
 the Royalists, but this measure helped little, and great numbers of deer
 had to be brought from Germany to replenish the depleted stocks. A
-gentleman of the Isle of Ely was indeed given a baronetcy in return for
+[[Gentleman|gentleman]] of the Isle of [[Ely]] was indeed given a baronetcy in return for
 a large present of deer which he made to Charles II. The largest
 existing deer park in England is that at Savernake (4000 acres), next
 comes Windsor, which contains about 2600 acres in addition to the 1450
-acres of Windsor Forest. Lord Egerton of Tatton's park at Tatton in
+acres of Windsor Forest. Lord [[Egerton]] of Tatton's park at Tatton in
 Cheshire, and Lord Abergavenny's at Eridge, each contain about 2500
 acres. Other parks which are much about the same size are those of
-Blenheim, Richmond, Eastwell, Duncombe, Grimsthorpe, Thoresby and
+[[Blenheim]], Richmond, Eastwell, [[Duncombe]], Grimsthorpe, Thoresby and
 Knowsley. All these parks are famous either for their size, their
 beauty, or the number and long descent of the deer which inhabit them.
 The size of English parks devoted to deer varies from that of these
@@ -70,7 +70,7 @@ older enclosures contains red- as well as fallow-deer. In some of the
 larger ones many hundreds of head browse, whereas those of the smallest
 size may have only a dozen or two. Although many enclosures were
 disparked in very recent times, the 19th century saw the making of a
-considerable number of new ones, usually of small dimensions. The
+considerable number of new ones, usually of small [[Dimension|dimensions]]. The
 tendency, however, is still towards diminution both in number and
 extent, cattle taking the place of deer.
 

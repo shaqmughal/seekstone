@@ -1,13 +1,13 @@
 # Herpes
 
 HERPES (from the Gr. [Greek: herpein], to creep) an inflammation of the
-true skin resulting from a lesion of the underlying nerve or its
+true skin resulting from a [[Lesion|lesion]] of the underlying nerve or its
 ganglion, attended with the formation of isolated or grouped vesicles of
 various sizes upon a reddened base. They contain a clear fluid, and
 either rupture or dry up. Two well-marked varieties of herpes are
 frequently met with. (a) In _herpes labialis et nasalis_ the eruption
-occurs about the lips and nose. It is seen in cases of certain acute
-febrile ailments, such as fevers, inflammation of the lungs or even in a
+occurs about the [[Lip|lips]] and nose. It is seen in cases of certain acute
+febrile ailments, such as [[Fever|fevers]], inflammation of the [[Lung|lungs]] or even in a
 severe cold. It soon passes off. (b) In the _herpes zoster, zona_ or
 "shingles" the eruption occurs in the course of one or more cutaneous
 nerves, often on one side of the trunk, but it may be on the face, limbs

@@ -14,8 +14,8 @@ have been much discussed; but it is most probable that they were of the
 Turki stock, as were the Huns, their later western representatives. They
 are the first Turkish people mentioned by the Chinese. A theory which
 seems plausible is that which assumes them to have been a heterogenous
-collection of Mongol, Tungus, Turki and perhaps even Finnish hordes
-under a Mongol military caste, though the Mongolo-Tungus element
+collection of Mongol, Tungus, Turki and perhaps even Finnish [[Horde|hordes]]
+under a Mongol military [[Caste|caste]], though the Mongolo-Tungus element
 probably predominated. Towards the close of the 1st century of the
 Christian era the Hiung-nu empire broke up. Their subsequent history is
 obscure. Some of them seem to have gone westward and settled on the Ural

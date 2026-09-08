@@ -9,11 +9,11 @@ author of _Questiones in jus canonicum_, and Azo de Ramenghis, a canonist
 of the 14th century, also a professor of canon law at Bologna, and author
 of _Repetitiones super libro Decretorum_. Few particulars are known as to
 the life of Azo, further than that he was born at Bologna about the middle
-of the 12th century, and was a pupil of Joannes Bassianus, and afterwards
-became professor of civil law in the university of his native town. He also
+of the 12th century, and was a pupil of Joannes [[Bassianus]], and afterwards
+became professor of [[Civil Law|civil law]] in the university of his native town. He also
 took an active part in municipal life, Bologna, with the other Lombard
 republics, having gained its municipal independence. Azo occupied a very
-important position amongst the glossators, and his _Readings on the Code_,
+important position amongst the glossators, and his _Readings on the [[Code]]_,
 which were collected by his pupil, Alessandro de Santo Aegidio, and
 completed by the additions of Hugolinus and Odofredus, form a methodical
 exposition of Roman law, and were of such weight before the tribunals that

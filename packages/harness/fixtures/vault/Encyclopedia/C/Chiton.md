@@ -5,13 +5,13 @@ small size which belong to the phylum Mollusca, and, in the possession
 of a radula in the buccal cavity, resemble more especially the
 Gastropoda. Their most important characteristic in comparison with the
 latter is that they are, both in external and internal structure,
-bilaterally symmetrical. The dorsal integument or mantle bears, not a
+bilaterally symmetrical. The dorsal integument or [[Mantle|mantle]] bears, not a
 simple shell, but eight calcareous plates in longitudinal series
 articulating with each other. The ventral surface forms a flat creeping
 "foot," and between mantle and foot is a pallial groove in which there
-is on each side a series of gills. Originally the Chitons were placed
+is on each side a series of [[Gill|gills]]. Originally the Chitons were placed
 with the limpets, _Patella_, in Cuvier's _Cyclobranchia_, an order of
-the Gastropoda. In 1876 H. von Jhering demonstrated the affinities of
+the Gastropoda. In 1876 H. von [[Jhering]] demonstrated the affinities of
 _Neomenia_ and _Chaetoderma_, vermiform animals destitute of shell, with
 the Chitons, and placed them all in a division of worms which he named
 Amphineura. The discovery by A.A.W. Hubrecht in 1881 of a typical
@@ -35,14 +35,14 @@ Order I.--POLYPLACOPHORA
 
   B. View from the pedal surface of a species of Chiton from the Indian
   Ocean, _p_, foot; _o_, mouth (at the other end of the foot is seen the
-  anus raised on a papilla); _kr_, oral fringe; _br_, the numerous
+  [[Anu|anus]] raised on a papilla); _kr_, oral fringe; _br_, the numerous
   ctenidia (branchial plumes); spreading beyond these, and all round the
   animal, is the mantle-skirt. (After Cuvier.)
 
   C. The same species of Chiton, with the shells removed and the dorsal
   integument reflected, _b_, buccal mass; _m_, retractor muscles of the
   buccal mass; _ov_, ovary; _od_, oviduct; _i_, coils of intestines;
-  _ao_, aorta; _c'_, left auricle; _c_, ventricle.]
+  _ao_, aorta; _c'_, left [[Auricle|auricle]]; _c_, ventricle.]
 
 [Illustration: FIG. 2.--Pallial eye and aesthetes of _Acanthopleura
 spiniger_ (Moseley).]
@@ -70,10 +70,10 @@ position of gills.
   B. _Boreochiton cinereus_.
 
   C. _Schizochiton incisus_. _a_, anus; _f_, foot; _g_, gills; _m_,
-  mouth; _pa_, mantle; _pa'_, anal lobe of mantle; _ps_, pallial slit;
+  mouth; _pa_, mantle; _pa'_, anal [[Lobe|lobe]] of mantle; _ps_, pallial slit;
   _te_, pallial tentacles.]
 
-The tegmentum is formed by the fold of mantle covering the edge of the
+The tegmentum is formed by the [[Fold|fold]] of mantle covering the edge of the
 articulamentum, and extends over the latter from the sides. It is the
 first part of the shell formed in development. The tegmentum is much
 reduced in _Acanthochiton_, and absent in the adult _Cryptochiton_. The
@@ -86,8 +86,8 @@ of _Chiton_ and many others of the family _Chitonidae_ the
 megalaesthetes are developed into definite eyes, the most complicated of
 which have retina, pigment within the eye, cornea and crystalline lens
 (intra-pigmental eyes) (fig. 2). The eyes are arranged in rows running
-diagonally from the median anterior beak of each valve to its lateral
-borders There may be only one such row on either side, or many rows. In
+diagonally from the median anterior [[Beak|beak]] of each valve to its lateral
+[[Borders|borders]] There may be only one such row on either side, or many rows. In
 some species the total number present amounts to thousands.
 
 [Illustration: FIG. 4.--Diagrams of the alimentary canal of Amphineura
@@ -99,7 +99,7 @@ some species the total number present amounts to thousands.
   _o_, Mouth.
   _a_, Anus.
   _d_, Alimentary canal.
-  _l_, Liver (digestive gland).]
+  _l_, [[Liver]] (digestive gland).]
 
   _Branchiae._--The series of gills may extend the whole length of the
   body in the pallial groove, or may be confined to the posterior end.
@@ -134,7 +134,7 @@ some species the total number present amounts to thousands.
     O, Ovary.
     P, Pericardium.
     N, Nephridium.
-    u, External aperture of nephridium.
+    u, External [[Aperture|aperture]] of nephridium.
     g, External aperture of the genital duct of Chiton.
     r, Rectum.
     Cl, Cloacal or pallial chamber of Neomeniae and Chaetoderma.
@@ -149,7 +149,7 @@ some species the total number present amounts to thousands.
   ciliated opening into the pericardium and an opening to the exterior.
   Both the openings are close together, the external opening being just
   in front of the principal gill near the posterior end of the body. The
-  renal tube is doubled on itself, its middle part where the bend occurs
+  renal tube is doubled on itself, its middle part where the [[Bend|bend]] occurs
   being situated more or less anteriorly. The excretory surface is
   increased by numerous ramified caeca which extend beneath the body
   wall laterally and ventrally, and open into the tube (fig. 6). The
@@ -182,9 +182,9 @@ some species the total number present amounts to thousands.
   or pallial side of the axis to another longitudinal vessel which leads
   to the auricle on each side.
 
-  [Illustration: After Haller (_Arbeiten zool. Instit._), Vienna, 1882.
+  [Illustration: After [[Haller]] (_Arbeiten zool. Instit._), Vienna, 1882.
 
-  FIG. 6.--Dissection of the renal organs (nephridia) of _Chiton siculus._
+  FIG. 6.--[[Dissection]] of the renal organs (nephridia) of _Chiton siculus._
 
     F,  Foot.
     L, Edge of the mantle not removed in the front part of the specimen.
@@ -218,7 +218,7 @@ some species the total number present amounts to thousands.
   _Lepidopleuridae_ an osphradium occurs at the base of each gill. The
   sense organs of the shell-valves have already been described.
 
-  _Development._--The eggs may be laid separately invested by a
+  _Development._--The [[Egg|eggs]] may be laid separately invested by a
   chitinous envelope, or as in _Ischnochiton magdalenensis_ they may
   form strings containing nearly 200,000 eggs, or the ova may be
   retained in the pallial groove and undergo development there, as in
@@ -238,7 +238,7 @@ some species the total number present amounts to thousands.
   the tegmentum being the first part formed.
 
 
-  _Classification_.
+  _[[Classification]]_.
 
   [Illustration: After Hubrecht, loc. cit.
 
@@ -254,7 +254,7 @@ some species the total number present amounts to thousands.
     l, Visceral (lateral) nerve-cord.
     pc. Post-anal junction of the visceral nerve-cords.]
 
-  [Illustration: From Gegenbaur, _Elements of Comp.  Anatomy._
+  [Illustration: From [[Gegenbaur]], _Elements of Comp.  Anatomy._
 
   FIG. 8.--Anterior part of the nervous system of _Chiton cinereus_,
   in more detail.
@@ -270,7 +270,7 @@ some species the total number present amounts to thousands.
     Fam. 1. _Lepidopleuridae._--Terminal margins of end valves never
     elevated; form oval or oblong. _Lepidopleurus cancellatus_, Sow.
     North Atlantic and Mediterranean; various abyssal species. _Hanleya
-    hanleyi_, Bean, north Atlantic. _Hemiarthrum Microplax_. The extinct
+    hanleyi_, [[Bean]], north Atlantic. _Hemiarthrum Microplax_. The extinct
     _Gryptochitonidae_, Pilsbry, with other Palaeozoic genera, narrow
     and elongated in form with terminal margins of end valves elevated,
     belong to this group.
@@ -299,7 +299,7 @@ some species the total number present amounts to thousands.
     Fam. 4. _Acanthochitonidae._ Valves immersed in the girdle, with
     small tegmentum. _Acanthochiton_ (A_. fascicularis_, North Atlantic
     and Mediterranean). _Spongiochiton, Katharina, Amicula, Cryptochiton_
-    (_C. stelleri_, arctic).
+    (_C. stelleri_, [[Arctic|arctic]]).
 
     Fam. 5. _Cryptoplacidae._ Vermiform, with thick girdle and small
     valves; insertion and sutural plates strongly drawn forward, sharp
@@ -334,8 +334,8 @@ the mantle bears no shell-valves, but only numerous calcareous spicules;
 (3) the digestive tube is straight.
 
 _Neomenia_ and its allies are marine animals living at depths of 15 to
-800 fathoms on soft muddy ground; they are found crawling on corals and
-hydrozoa, on which they feed. The British genera are: _Neomenia,
+800 [[Fathom|fathoms]] on soft muddy ground; they are found crawling on [[Coral|corals]] and
+[[Hydrozoa|hydrozoa]], on which they feed. The British genera are: _Neomenia,
 Rhopalomenia_ and _Myzomenia_. They have been taken in nearly all seas
 except the South Atlantic and S.E. and N.W. Pacific. About forty species
 are known. _Chaetoderma_, of which nine species have been described, has
@@ -394,7 +394,7 @@ order Aplacophora is divided into two suborders.
   ciliated internally on its dorsal and lateral walls. The urino-genital
   tubes arise from the posterior angles of the pericardium, pass first
   forwards, then backwards, and unite to open by a common opening into
-  the cloaca below the anus except in _Strophomenia_, where the openings
+  the [[Cloaca|cloaca]] below the anus except in _Strophomenia_, where the openings
   are separate. Usually each tube is provided with caecal appendages on
   its proximal portion, and these serve as vesiculae seminales, while
   the distal portion is enlarged and glandular and secretes the
@@ -547,7 +547,7 @@ coelom, or a pair of lateral coelomic cavities. On this view then the
 Aplacophora are more primitive than the Polyplacophora in the relations
 of coelom, gonad and coelomoducts; and the genital ducts of the Chitons
 have arisen either by metameric repetition within the group, or by the
-gradual loss of an original connexion between the generative sac and the
+[[Gradual|gradual]] loss of an original connexion between the generative sac and the
 renal tube, as in Lamellibranchs and Gastropods, the generative sac
 acquiring a separate duct and opening to the exterior on each side.
 
@@ -558,8 +558,8 @@ acquiring a separate duct and opening to the exterior on each side.
   pt. xliii., 1886; H.N. Moseley, "On the presence of Eyes in the Shells
   of certain Chitonidae, and on the structure of these Organs," _Quart.
   Journ. Mic. Sci._ new ser. xxv., 1885; A.A.W. Hubrecht, "Proneomenia
-  Sluiteri," _Nied. Arch. f. Zool._ Suppl. 1., 1881; A. Kowalewsky and
-  A.F. Marion, "Contr. à l'histoire des Solenogastres ou Aplacophores,"
+  Sluiteri," _Nied. [[Arch]]. f. Zool._ Suppl. 1., 1881; A. Kowalewsky and
+  A.F. [[Marion]], "Contr. à l'histoire des Solenogastres ou Aplacophores,"
   _Ann. Mus. Marseille, Zool._ iii., 1887; A. Kowalewsky, "Sur le genre
   Chaetoderma," _Arch. de zool. expér_. (3) ix., 1901; P. Pelseneer,
   "Mollusca," _Treatise on Zoology_, edited by E. Ray Lankester, pt. v.,
@@ -570,7 +570,7 @@ acquiring a separate duct and opening to the exterior on each side.
 FOOTNOTE:
 
   [1] The Gr. [Greek: chitôn] was a garment in the shape of a loose
-    tunic, varying at different periods: see COSTUME: _Greek_.
+    tunic, varying at different periods: see [[Costume|COSTUME]]: _Greek_.
 
 ## References
 

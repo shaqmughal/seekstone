@@ -17,7 +17,7 @@ död_ (5 vols., Lund., 1873-1895), is a comprehensive study of Swedish
 literature in the 19th century. His other works include: _Framställning
 af de förnämste estetiska systemerna_ (an exposition of the principal
 system of aesthetics; 2 vols., 1856-1860); _Svenska dramat intill slutet
-af 17 århundradet_ (a history of the Swedish drama down to the end of
+af 17 århundradet_ (a history of the Swedish [[Drama|drama]] down to the end of
 the 17th century, Lund, 1864); an edition (1864) of the _Epistlar_ of
 Bellman and Fredman, and a history of the Swedish Academy in the year of
 its centenary (1886).

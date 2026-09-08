@@ -21,8 +21,8 @@ concerned, virgins, widows and married persons who had been baptized
 into Christ were on a precisely equal footing; (2) those who with full
 faith have been regenerated in baptism cannot be overthrown (or,
 according to another reading, tempted) of the devil; (3) to abstain from
-meats is not more praiseworthy than thankfully to enjoy them; (4) all
-who have preserved their baptismal grace shall receive the same reward
+[[Meat|meats]] is not more praiseworthy than thankfully to enjoy them; (4) all
+who have preserved their baptismal [[Grace|grace]] shall receive the same reward
 in the kingdom of heaven.[1] Jovinian thus indicates a natural and
 vigorous reaction against the exaggerated asceticism of the 4th century,
 a protest shared by Helvidius and Vigilantius. He was condemned by a

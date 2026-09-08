@@ -39,30 +39,30 @@ Scotland than in England, as well as in many parts of Ireland, where,
 however, it seems to be but locally and sparingly distributed. It is one
 of the latest migrants to arrive, and seldom reaches the British Islands
 till the latter part of May, when it may be seen, a small dust-coloured
-bird, sitting on the posts or railings of gardens and fields, ever and
+bird, sitting on the posts or railings of gardens and [[Fields|fields]], ever and
 anon springing into the air, seizing with an audible snap of its bill
-some passing insect as it flies, and returning to the spot it has
+some passing [[Insect|insect]] as it flies, and returning to the spot it has
 quitted, or taking up some similar station to keep watch as before. It
 has no song, but merely a plaintive or peevish call-note, uttered from
 time to time with a jerking gesture of the wings and tail. It makes a
 neat nest, built among the small twigs which sprout from the bole of a
 large tree, fixed in the branches of some plant trained against a wall,
 or placed in any hole of the wall itself that may be left by the falling
-of a brick or stone. The eggs are from four to six in number, of a pale
+of a [[Brick|brick]] or stone. The [[Egg|eggs]] are from four to six in number, of a pale
 greenish-blue, closely blotched or freckled with rust-colour. Silent and
 inconspicuous as is this bird, its constant pursuit of flies in the
 closest vicinity of houses makes it a familiar object to almost
 everybody. A second British species is the pied flycatcher (_M.
 atricapilla_), a much rarer bird, and in England not often seen except
 in the hilly country extending from the Peak of Derbyshire to
-Cumberland, and more numerous in the Lake District than elsewhere. It is
+[[Cumberland]], and more numerous in the [[Lake District]] than elsewhere. It is
 not common in Scotland, and has only once been observed in Ireland. More
 of a woodland bird than the former, the brightly-contrasted black and
-white plumage of the cock, together with his agreeable song, readily
+white plumage of the [[Cock|cock]], together with his agreeable song, readily
 attracts attention where it occurs. It is a summer visitant to all
 western Europe, but farther eastward its place is taken by a nearly
 allied species (_M. collaris_) in which the white of the throat and
-breast extends like a collar round the neck. A fourth European species
+[[Breast|breast]] extends like a collar round the neck. A fourth European species
 (_M. parva_), distinguished by its very small size and red breast, has
 also strayed some three or four times to the extreme south-west of
 England. This last belongs to a group of more eastern range, which has
@@ -75,28 +75,28 @@ proper[2]) are common to the two continents.
 One of the most remarkable groups of _Muscicapidae_ is that known as the
 paradise flycatchers, forming the genus _Tchitrea_ of Lesson. In nearly
 all the species the males are distinguished by the growth of exceedingly
-long feathers in their tail, and by their putting on, for some part of
+long [[Feather|feathers]] in their tail, and by their putting on, for some part of
 the year at least, a plumage generally white, but almost always quite
 different from that worn by the females, which is of a more or less deep
 chestnut or bay colour, though in both sexes the crown is of a glossy
 steel-blue. They are found pretty well throughout Africa and tropical
-Asia to Japan, and seem to affect the deep shade of forests rather than
+Asia to [[Japan]], and seem to affect the deep shade of forests rather than
 the open country. The best-known species is perhaps the Indian _T.
 paradisi_; but the Chinese _T. incii_, and the Japanese _T. princeps_,
 from being very commonly represented by the artists of those nations on
-screens, fans and the like, are hardly less so; and the cock of the last
+screens, [[Fan|fans]] and the like, are hardly less so; and the cock of the last
 named, with his bill of a pale greenish-blue and eyes surrounded by
 bare skin of the same colour--though these are characters possessed in
 some degree by all the species--seems to be the most beautiful of the
-genus. _T. bourbonnensis_, which is peculiar to the islands of Mauritius
+genus. _T. bourbonnensis_, which is peculiar to the islands of [[Mauritius]]
 and Réunion, appears to be the only species in which the outward
 difference of the sexes is but slight. In _T. corvina_ of the
 Seychelles, the adult male is wholly black, and his middle tail-feathers
-are not only very long but very broad. In _T. mutata_ of Madagascar,
+are not only very long but very broad. In _T. mutata_ of [[Madagascar]],
 some of the males are found in a blackish plumage, though with the
 elongated median rectrices white, while in others white predominates
 over the whole body; but whether this sex is here actually dimorphic, or
-whether the one dress is a passing phase of the other, is at present
+whether the one [[Dress|dress]] is a passing phase of the other, is at present
 undetermined. Some of the African species, of which many have been
 described, seem always to retain the rufous plumage, but the long
 tail-feathers serve to mark the males.
@@ -108,7 +108,7 @@ _Muscicapidae_ are very varied. _Sisura inquieta_ has some of the habits
 of a water-wagtail (_Motacilla_), and hence has received the name of
 "dishwasher," bestowed in many parts of England on its analogue; and the
 many species of _Rhipidura_ or fantailed flycatchers, which occur in
-various parts of the Australian Region, have manners still more
+various parts of the Australian Region, have [[Manners|manners]] still more
 singular--turning over in the air, it is said, like a tumbler pigeon, as
 they catch their prey; but concerning the mode of life of the majority
 of the _Muscicapidae_, and especially of the numerous African forms,
@@ -126,8 +126,8 @@ FOOTNOTES:
     wrote it filled with faith in the so-called "Quinary System"--that
     fanciful theory, invented by W.S. Macleay, which misled and kept back
     so many of the best English zoologists of his generation from the
-    truth,--and, unconsciously swayed by his bias, his judgment was
-    warped to fit his hypothesis.
+    truth,--and, unconsciously swayed by his [[Bias|bias]], his judgment was
+    warped to fit his [[Hypothesis|hypothesis]].
 
   [2] By some writers this section is distinguished as _Butalis_ of
     Boie, but to do so seems contrary to rule.

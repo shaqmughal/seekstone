@@ -15,7 +15,7 @@ temples. Many of the houses and temples are finely sculptured. Pop.
 population was 73,370, showing a decrease of 37% in ten years, as a
 consequence of famine. The estimated revenue is about £6000; there is no
 tribute. Jaisalmer is almost entirely a sandy waste, forming a part of
-the great Indian desert. The general aspect of the country is that of an
+the great Indian [[Desert|desert]]. The general aspect of the country is that of an
 interminable sea of sandhills, of all shapes and sizes, some rising to a
 height of 150 ft. Those in the west are covered with _phog_ bushes,
 those in the east with tufts of long grass. Water is scarce, and
@@ -36,11 +36,11 @@ irrigation is almost unknown.
   schoolmasters, and their teaching is elementary. The ruler of
   Jaisalmer is styled _maharawal_. The state suffered from famine in
   1897, 1900 and other years, to such an extent that it has had to incur
-  a heavy debt for extraordinary expenditure. There are no railways.
+  a heavy [[Debt|debt]] for extraordinary expenditure. There are no railways.
 
   The majority of the inhabitants are Bhatti Rajputs, who take their
   name from an ancestor named Bhatti, renowned as a warrior when the
-  tribe were located in the Punjab. Shortly after this the clan was
+  tribe were located in the Punjab. Shortly after this the [[Clan|clan]] was
   driven southwards, and found a refuge in the Indian desert, which was
   thenceforth its home. Deoraj, a famous prince of the Bhatti family, is
   esteemed the real founder of the present Jaisalmer dynasty, and with

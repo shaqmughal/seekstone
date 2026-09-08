@@ -10,7 +10,7 @@ partly in the Bangor, and partly in the St Asaph, diocese.) The surface
 of Denbighshire is irregular, and physically diversified. In the N.W.
 are the bleak Hiraethog ("longing") hills, sloping W. to the Conwy and
 E. to the Clwyd. In the N. are Colwyn and Abergele bays, on the S. the
-Yspytty (Lat. _Hospitium_) and Llangwm range, between Denbigh and
+Yspytty (Lat. _[[Hospitium]]_) and Llangwm range, between Denbigh and
 Merioneth. From this watershed flow the Elwy, Aled, Clywedog, Merddwr
 and Alwen, tributaries of the Clwyd, Conwy and Dee (_Dyfrdwy_). Some of
 the valleys contrast agreeably with the bleak hills, e.g. those of the
@@ -18,7 +18,7 @@ Clwyd and Elwy. The portion lying between Ruabon (_Rhiwabon_) hills and
 the Dee is agricultural and rich in minerals; the Berwyn to Offa's Dyke
 (_Wâl Offa_) is wild and barren, except the Tanat valley, Llansilin and
 Ceiriog. One feeder of the Tanat forms the Pistyll Rhaiadr (waterspout
-fall), another rises in Llyncaws (cheese pool) under Moel Sych (dry
+fall), another rises in Llyncaws ([[Cheese|cheese]] pool) under Moel Sych (dry
 bare-hill), the highest point in the county. Aled and Alwen are both
 lakes and streams.
 
@@ -30,18 +30,18 @@ lakes and streams.
    shelly sandstone are traversed east and west by bands of intrusive
    felspathic porphyry and ashes. The same formation occurs just within
    the county border at Cerrig-y-Druidion, Langum, Bettys-y-coed and in
-   the Fairy Glen. Northwards from the Ceiriog to the limestone fringe
+   the Fairy Glen. Northwards from the Ceiriog to the [[Limestone|limestone]] fringe
    at Llandrillo the Wenlock shale of the Silurian covers the entire
    mass of the Hiraethog and Clwydian hills, but verging on its western
    slopes into the Denbighshire grit, which may be traced southward in a
    continuous line from the mouth of the Conway as far as Llanddewi
    Ystrad Enni in Radnorshire, near Pentre-Voelas and Conway they are
    abundantly fossiliferous. On its eastern slope a narrow broken band
-   of the Old Red, or what may be a conglomeratic basement bed of the
+   of the Old Red, or what may be a conglomeratic [[Basement|basement]] bed of the
    Carboniferous Limestone series, crops up along the Vale of Clwyd and
    in Eglwyseg. Resting upon this the Carboniferous Limestone extends
    from Llanymynach, its extreme southern point, to the Cyrnybrain
-   fault, and there forks into two divisions that terminate respectively
+   [[Fault|fault]], and there forks into two divisions that terminate respectively
    in the Great Orme's Head and in Talargoch, and are separated from
    each other by the denuded shales of the Moel Famma range. In the Vale
    of Clwyd the limestone underlies the New Red Sandstone, and in the
@@ -53,14 +53,14 @@ lakes and streams.
    this and the Dee the ground is occupied--as in the Vale of Clwyd--by
    the New Red rocks. As in the other northern counties of Wales, the
    whole of the lower ground is covered more or less thickly with
-   glacial drift. On the western side of the Vale of Clwyd, at Cefn and
+   glacial [[Drift|drift]]. On the western side of the Vale of Clwyd, at Cefn and
    Plâs Heaton, the caves, which are a common feature in such limestone
    districts, have yielded the remains of the rhinoceros, mammoth,
-   hippopotamus and other extinct mammals.
+   [[Hippopotamus|hippopotamus]] and other extinct mammals.
 
    Coal is mined from the Coal Measures, and from the limestone below,
    lead with silver and zinc ores have been obtained. Valuable fireclays
-   and terra-cotta marls are also taken from the Coal Measures about
+   and terra-cotta [[Marl|marls]] are also taken from the Coal Measures about
    Wrexham.
 
 The uplands being uncongenial for corn, ponies, sheep and black cattle
@@ -70,24 +70,24 @@ tilled land. The county is fairly wooded. There are several important
 farmers' clubs (the Denbighshire and Flintshire, the vale of Conway, the
 Cerrig y druidion, &c.). The London & North-Western railway (Holyhead
 line), with the Conway and Clwyd valleys branches, together with the
-lines connecting Denbigh with Ruabon (Rhiwabon), via Ruthin and Corwen,
+lines connecting Denbigh with Ruabon (Rhiwabon), via Ruthin and [[Corwen]],
 Wrexham with Connah's Quay (Great Central) and Rhosllanerchrhugog with
 Glyn Ceiriog (for the Great Western and Great Central railways) have
-opened up the county. Down the valley of Llangollen also runs the
+opened up the county. Down the valley of [[Llangollen]] also runs the
 Holyhead road from London, well built and passing through fine scenery.
-At Nantglyn paving flags are raised, at Rhiwfelen (near Llangollen)
+At Nantglyn paving [[Flag|flags]] are raised, at Rhiwfelen (near Llangollen)
 slabs and slates, and good slates are also obtained at Glyn Ceiriog.
 There is plenty of limestone, with china stone at Brymbo. Cefn Rhiwabon
-yields sandstone (for hones) and millstone grit. Chirk, Ruabon and
+yields sandstone (for [[Hone|hones]]) and millstone grit. Chirk, Ruabon and
 Brymbo have coal mines. The great Minera is the principal lead mine.
-There is much brick and pottery clay. The Ceiriog valley has a dynamite
+There is much [[Brick|brick]] and pottery clay. The Ceiriog valley has a dynamite
 factory. Llangollen and Llansantffraid (St Bridgit's) have woollen
 manufactures.
 
 The area of the ancient county is 423,499 acres, with a population in
 1901 of 129,942. The area of the administrative county is 426,084 acres.
 The chief towns are: Wrexham, a mining centre and N. Wales military
-centre, with a fine church; Denbigh; Ruthin, where assizes are held
+centre, with a fine church; Denbigh; Ruthin, where [[Assize|assizes]] are held
 (here are a grammar school, a warden and a 13th-century castle rebuilt);
 Llangollen and Llanrwst; and Holt, with an old ruined castle. The
 Denbigh district of parliamentary boroughs is formed of: Denbigh (pop.
@@ -115,7 +115,7 @@ the Romans; so also Penygaer and Penbarras. Roman roads ran from Deva
 y mur_). To their period belong the inscribed Gwytherin and Pentrefoelas
 (near Bettws-y-coed) stones. The Valle Crucis "Eliseg's pillar" tells of
 Brochmael and the Cairlegion (Chester) struggle against Æthelfrith's
-invading Northumbrians, A.D. 613, while Offa's dike goes back to the
+invading Northumbrians, A.D. 613, while Offa's [[Dike|dike]] goes back to the
 Mercian advance. Near and parallel to Offa's is the shorter and
 mysterious Watt's dike. Chirk is the only Denbighshire castle
 comparatively untouched by time and still occupied. Ruthin has

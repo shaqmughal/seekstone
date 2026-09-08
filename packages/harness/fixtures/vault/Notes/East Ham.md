@@ -9,16 +9,16 @@ id: 42-8134
 # East Ham
 
 EAST HAM, a municipal borough in the southern parliamentary division of
-Essex, England, contiguous to West Ham, and thus forming geographically
+[[Essex]], England, contiguous to West Ham, and thus forming geographically
 part of the eastward extension of London. Pop. (1901) 96,018. Its modern
 growth has been very rapid, the population being in the main of the
 artisan class. There are some chemical and other factories. The ancient
-parish church of St Mary Magdalen retains Norman work in the chancel,
-which terminates in an eastern apse. There is a monument for Edmund
+parish church of St Mary Magdalen retains Norman work in the [[Chancel|chancel]],
+which terminates in an eastern [[Apse|apse]]. There is a monument for Edmund
 Neville who claimed the earldom of Westmorland in the 17th century, and
-William Stukeley, the antiquary, was buried in the churchyard. East Ham
+William Stukeley, the [[Antiquary|antiquary]], was buried in the churchyard. East Ham
 was incorporated in 1904, and among its municipal undertakings is a
-technical college (1905). The corporation consists of a mayor, 6
+technical college (1905). The corporation consists of a [[Mayor|mayor]], 6
 aldermen and 18 councillors. Area, 33201/2 acres.
 
 ## See also

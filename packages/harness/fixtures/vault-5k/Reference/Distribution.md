@@ -15,7 +15,7 @@ the causes which determine rent, wages, profits and interest, forms an
 important subject-matter in all text-books. Among recent works, see E.
 Cannan's _History of Theories of Production and Distribution, 1776-1848_
 (1893), J. R. Common's _Distribution of Wealth_ (1893), and H. J.
-Davenport's _Value and Distribution_ (Chicago, 1908).
+Davenport's _Value and Distribution_ ([[Chicago]], 1908).
 
 ## See also
 

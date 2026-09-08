@@ -1,12 +1,12 @@
 # Barracks
 
-BARRACKS (derived through the French from the Late Lat. _barra_, a bar),
+BARRACKS (derived through the French from the Late Lat. _[[Barra|barra]]_, a bar),
 the buildings used for the accommodation of military or naval forces,
 including the quarters for officers, warrant officers, non-commissioned
 officers and men, with their messes and recreation establishments,
 regimental offices, shops, stores, stables, vehicle sheds and other
 accessory buildings for military or domestic purposes. The term is usually
-applied to permanent structures of brick or stone used for the peace
+applied to permanent structures of [[Brick|brick]] or stone used for the peace
 occupation of troops; but many hut barracks of corrugated iron lined with
 wood have been built, generally in connexion with a training ground for
 troops, and in these the accommodation given is somewhat less than in
@@ -18,7 +18,7 @@ barracks is scheduled in the _Barrack Synopsis_, which contains "statements
 of particulars, based upon decisions which have, from time to time, been
 laid down by authority, as regards the military buildings authorized for
 various units, and the accommodation and fittings to be provided in
-connexion therewith." Each item of ordinary accommodation is described in
+connexion therewith." Each [[Item|item]] of ordinary accommodation is described in
 the synopsis, and the areas and cubic contents of rooms therein laid down
 form the basis of the designs for any new barrack buildings. Supplementary
 to the synopsis is a series of "Standard Plans," which illustrate how the
@@ -30,7 +30,7 @@ suit local conditions. External appearance is considered with regard to the
 materials to be used, and the position the buildings are to occupy;
 convenience of plan and sound sanitary construction being the principal
 objects rather than external effect, designs are usually simple, and depend
-for architectural effect more on the grouping and balance of the parts than
+for architectural effect more on the grouping and [[Balance|balance]] of the parts than
 on ornamentation such as would add to expense. The synopsis and standard
 plans are from time to time revised, and brought up to date as improvements
 suggest themselves, and increases in scale of accommodation are authorized,
@@ -38,7 +38,7 @@ after due consideration of the financial effect; so that systematic
 evolution of barrack design is carried on.
 
 _Modern British Barracks_.--A description of a modern barrack for a
-battalion of infantry will give an idea of the standard of accommodation
+[[Battalion|battalion]] of infantry will give an idea of the standard of accommodation
 which is now authorized, and to which older barracks are gradually
 remodelled as funds permit. The unmarried soldiers are quartered in
 barrack-rooms usually planned to contain twelve men in each; this number
@@ -55,7 +55,7 @@ circulation of air through the room: the door is usually at one end of the
 room and the fireplace at the opposite end: over each man's bed is a locker
 and shelf where he keeps his kit, and his rifle stands near the head of his
 bed. Convenient of access from the door to the barrack-room is the
-ablution-room with basins and foot-bath; also disconnected by a lobby is a
+ablution-room with basins and foot-bath; also disconnected by a [[Lobby|lobby]] is a
 water-closet and urinal for night use, others for day use being provided in
 separate external blocks. Baths are usually grouped in a central bath-house
 adjacent to the cook-house, and have hot water laid on. For every two or
@@ -81,7 +81,7 @@ carefully used, consumes little more than ½ lb of coal per man per day. The
 cook-house is well lighted and ventilated by a top lantern; tables,
 dressers, and pastry slab are provided for preparing and serving the meals,
 and a sink for washing kitchen utensils. Under the kitchen block is a
-basement containing the boiler for heating the dining-rooms and another for
+[[Basement|basement]] containing the boiler for heating the dining-rooms and another for
 the supply of hot water to baths and sinks, with in some cases also a
 hot-air furnace for heating drying-rooms, for drying the men's clothing
 when they come in wet from a route-march or field day. Not far from the
@@ -94,7 +94,7 @@ waters and other light refreshments are sold; tables are also arranged for
 suppers. A grocery shop is provided where the men and their families may
 purchase goods bought under regimental arrangements at wholesale prices,
 and sold without more profit than is necessary to keep the institution
-self-supporting. On the first floor are billiard and games room,
+self-supporting. On the first floor are billiard and [[Games|games]] room,
 reading-room and library, and writing-room. The manager's quarter and
 kitchen premises complete the establishment. Near the recreation
 establishment is the canteen, devoted solely to the sale of beer, and not
@@ -117,7 +117,7 @@ popular than the older pattern of tenement buildings approached by common
 staircases or verandahs. The warrant officers are allowed a living-room,
 kitchen, and scullery, with three bedrooms and a bathroom. The married
 soldiers have a living-room, scullery, and one, two, or three bedrooms
-according to the size of their families. A laundry is provided adjacent to
+according to the size of their families. A [[Laundry|laundry]] is provided adjacent to
 the married quarters, equipped with washing-troughs, wringer,
 drying-closet, and ironing-room; and the women are encouraged to use this
 in preference to doing washing in their cottages.
@@ -156,7 +156,7 @@ a vehicle shed and storehouse for the mobilization equipment. Stores are
 required for bread, meat, coal, clothing, and for musketry, signalling, and
 general small stores under the quartermaster's charge--also workshops for
 armourers, carpenters, plumbers, painters and glaziers, shoemakers, and
-tailors. Mention of the fives court, recreation ground and parade ground
+tailors. Mention of the [[Fives|fives]] court, recreation ground and parade ground
 completes the description of a battalion barrack.
 
 _Cavalry Barracks._--The accommodation provided for cavalry is very similar
@@ -240,7 +240,7 @@ serve both for the instruction of the men, when working for educational
 certificates, and for the education of the children of the married
 soldiers. _Garrison churches_ are built when arrangements for the troops to
 attend divine service at neighbouring places of worship cannot well be
-made. Only two _military prisons_ now remain, viz. Dover and Curragh, and
+made. Only two _military prisons_ now remain, viz. [[Dover]] and [[Curragh]], and
 these are for soldiers discharged from the service with ignominy. For
 ordinary sentences _detention barracks_ and _branch detention barracks_ are
 attached to the military commands and districts: these are constructed in
@@ -291,7 +291,7 @@ service, in positions where they have space for training, gun and rifle
 practice, and manoeuvring. The camps at Aldershot, Colchester, Shorncliffe
 and Curragh were accordingly started between 1856 and 1860, and the same
 policy has since been continued by the acquisition of Strensall Common,
-near York, Kilworth domain, near Fermoy, the lease of a portion of Dartmoor
+near York, Kilworth domain, near [[Fermoy]], the lease of a portion of Dartmoor
 and a large area at Glen Imaal in Co. Wicklow, and the purchase of the
 Stobs estate in Scotland and of a large part of Salisbury Plain.
 
@@ -301,7 +301,7 @@ long as operations in the field were carried on by troops levied especially
 for the war in hand, no barracks apart from fortifications were required,
 except those for the royal bodyguard; and even after the standing army
 exceeded those limits, the necessity for additional barracks was often
-avoided by having recourse to the device of billeting, _i.e._ quartering
+avoided by having recourse to the device of [[Billeting|billeting]], _i.e._ quartering
 the soldiers on the populations of the towns where they were posted. This,
 however, was a device burdensome to the people, subversive of discipline,
 and prejudicial to military efficiency in many ways, while it exposed the
@@ -310,7 +310,7 @@ gradually provided, at first in places where such an arrangement was most
 necessary owing to the paucity of the population, or where concentration of
 troops was most important, owing to the disaffection of some of the
 inhabitants. The earliest barracks of which there is any record as regards
-England, were those for the foot guards, erected in 1660. Among the
+England, were those for the foot [[Guards|guards]], erected in 1660. Among the
 earliest of those still existing are the Royal Barracks at Dublin, dating
 from 1700, and during the 18th century barracks were built in several parts
 of Ireland; but in England it was at the end of the 18th and beginning of
@@ -326,7 +326,7 @@ and barrack hospitals not within fortified places. This warrant gives one
 of the earliest records of the nature of accommodation provided, and a few
 extracts from it are worth notice. No definite regulations as to cubic or
 floor space per man are laid down; but in the infantry, twelve men, and in
-the cavalry, eight men are allotted to one room. "Bedsteads or berths" are
+the cavalry, eight men are allotted to one room. "Bedsteads or [[Berth|berths]]" are
 allowed, "a single one to each man, or a double one to two men," or
 "hammocks where necessary." The married soldier's wife is barely
 recognized, as shown by the following extract:--"The Comptroller of the
@@ -341,13 +341,13 @@ barrack-masters perceive that any mischief, or damage, arises from such
 indulgence, the commanding officer shall, on their representation, displace
 such women. Nor shall any dogs be suffered to be kept in the rooms of any
 barrack or hospital." Another regulation says: "Where kitchens are provided
-for the soldiers, they shall not be allowed to dress their provisions in
+for the soldiers, they shall not be allowed to [[Dress|dress]] their provisions in
 any other places." In about 1818 the civil barrack department was abolished
 on account of abuses which had grown up, and the duke of Wellington as
 master-general of the ordnance and commander-in-chief transferred to the
-corps of Royal Engineers the duties of construction and maintenance of
+corps of Royal Engineers the duties of construction and [[Maintenance|maintenance]] of
 barracks. In 1826 a course of practical architecture was started at the
-school of military engineering at Chatham under Lieutenant-Colonel
+school of military [[Engineering|engineering]] at Chatham under Lieutenant-Colonel
 (afterwards Sir Charles) Pasley, the first commandant of the school, who
 himself wrote an outline of the course. Wellington interested himself in
 the [v.03 p.0430] barrack question, and under his orders single iron
@@ -369,7 +369,7 @@ commissions to examine the barracks in the Mediterranean stations and in
 India. These commissions, besides making valuable recommendations for the
 improvement of almost every barrack inspected by them, laid down the
 general sanitary principles applicable to the arrangement and construction
-of military barracks and hospitals; and in spite of the lapse of time, the
+of military barracks and hospitals; and in spite of the [[Lapse|lapse]] of time, the
 reports repay close study by any one interested in sanitary science as
 applied to the construction and improvement of such buildings. The names of
 Sidney Herbert (afterwards Lord Herbert of Lea), Captain (afterwards Sir
@@ -473,7 +473,7 @@ floors. Fine recreation establishments and canteens have been built. The
 officers' messes have splendid public rooms, but the officers' quarters are
 not so large as in military barracks, though no doubt spacious to the naval
 officer, accustomed as he is to a small cabin. Married quarters for the men
-are not provided except in connexion with coastguard stations.
+are not provided except in connexion with [[Coastguard|coastguard]] stations.
 
 _Other Countries_.--A great number of the German and French barracks are
 erected in the form of a large block of three or four storeys containing

@@ -10,11 +10,11 @@ type: note
 AZURITE, or CHESSYLITE, a mineral which is a basic copper carbonate,
 2CuCO_3·Cu(OH)_2. In its vivid blue colour it contrasts strikingly with the
 emerald-green malachite, also a basic copper carbonate, but containing
-rather more water and less carbon dioxide. It was known to Pliny under the
-name _caeruleum_, and the modern name azurite (given by F. S. Beudant in
+rather more water and less [[Carbon|carbon]] dioxide. It was known to Pliny under the
+name _caeruleum_, and the modern name azurite (given by F. S. [[Beudant]] in
 1824) also has reference to the azure-blue colour; the name chessylite,
 also in common use, is of later date (1852), and is from the locality,
-Chessy near Lyons, which has supplied the best crystallized specimens of
+Chessy near [[Lyons]], which has supplied the best crystallized specimens of
 the mineral. Crystals of azurite belong to the monoclinic system; they have
 a vitreous lustre and are translucent. The streak is blue, but lighter than
 the colour of the mineral in mass. Hardness 3½--4; sp. gr. 3.8.

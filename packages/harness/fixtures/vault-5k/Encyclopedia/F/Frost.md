@@ -27,7 +27,7 @@ flood fields on the receipt of a frost warning, radiation being checked
 by the light fog sheets which develop over moist soils, just as a
 cloud-layer in the upper atmosphere impedes radiation on a grand scale.
 A layer of smoke will also impede radiation locally, and to this end
-smoky fires are sometimes lit in such positions that the smoke may drift
+smoky fires are sometimes lit in such positions that the smoke may [[Drift|drift]]
 over planted ground which it is desirable to preserve from frost.
 Similarly, frost may occur in open country when a town, protected by its
 smoke-cloud above, is free of it. In a valley with fairly high and steep
@@ -47,7 +47,7 @@ traversing a scale graduated according to degrees of the wet bulb.
 Observations for the night are taken about half an hour before sunset.
 By means of the pointer and scale, the point may be found at which the
 line of the dry-bulb reading meets the pointer set to the reading of the
-wet bulb. The scale is further divided by colours so that the observed
+wet bulb. The scale is further divided by [[Colours|colours]] so that the observed
 point may fall within one of three zones, indicating certain frost,
 probable frost or no probability of frost.
 

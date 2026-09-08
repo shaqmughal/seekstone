@@ -5,12 +5,12 @@ born at Zürich on the 15th of November 1741. He was educated at the
 gymnasium of his native town, where J. J. Bodmer and J. J. Breitinger
 were among his teachers. When barely one-and-twenty he greatly
 distinguished himself by denouncing, in conjunction with his friend, the
-painter H. Fuseli, an iniquitous magistrate, who was compelled to make
+painter H. [[Fuseli]], an iniquitous [[Magistrate|magistrate]], who was compelled to make
 restitution of his ill-gotten gains. In 1769 Lavater took orders, and
 officiated till his death as deacon or pastor in various churches in his
 native city. His oratorical fervour and genuine depth of conviction gave
 him great personal influence; he was extensively consulted as a casuist,
-and was welcomed with demonstrative enthusiasm in his numerous journeys
+and was welcomed with demonstrative [[Enthusiasm|enthusiasm]] in his numerous journeys
 through Germany. His mystical writings were also widely popular.
 Scarcely a trace of this influence has remained, and Lavater's name
 would be forgotten but for his work on physiognomy, _Physiognomische
@@ -28,9 +28,9 @@ age are his introspective _Aussichten in die Ewigkeit_ (4 vols.,
 vols., 1772-1773) and _Pontius Pilatus, oder der Mensch in allen
 Gestalten_ (4 vols., 1782-1785). From 1774 on, Goethe was intimately
 acquainted with Lavater, but at a later period he became estranged from
-him, somewhat abruptly accusing him of superstition and hypocrisy.
+him, somewhat abruptly accusing him of superstition and [[Hypocrisy|hypocrisy]].
 Lavater had a mystic's indifference to historical Christianity, and,
-although esteemed by himself and others a champion of orthodoxy, was in
+although esteemed by himself and others a [[Champion|champion]] of orthodoxy, was in
 fact only an antagonist of rationalism. During the later years of his
 life his influence waned, and he incurred ridicule by some exhibitions
 of vanity. He redeemed himself by his patriotic conduct during the

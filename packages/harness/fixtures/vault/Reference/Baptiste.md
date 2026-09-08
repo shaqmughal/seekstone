@@ -6,20 +6,20 @@ topic: history
 
 # Baptiste
 
-BAPTISTE, NICOLAS ANSELME (1761-1835), French actor, was born in Bordeaux
+BAPTISTE, NICOLAS ANSELME (1761-1835), French actor, was born in [[Bordeaux]]
 on the 18th of June 1761, the elder son of Joseph François Anselme, a
 popular actor. His mother played leading parts in tragedy, and both his
 parents enjoyed the protection of Voltaire and the friendship of Lekain. It
 was probably under the auspices of the latter that Nicolas Anselme made his
 first appearance as de Belloy in _Gaston et Bayard_; and shortly
 afterwards, under the name of Baptiste, he made a contract to play young
-lover parts at Arras, where he also appeared in opera and even in
+lover parts at [[Arras]], where he also appeared in opera and even in
 pantomime. From Rouen, where he had three successful years, his reputation
 spread to Paris and he was summoned to the new theatre which the comedian
 Langlois-Courcelles had just founded, and where he succeeded, not only in
 making an engagement for himself, but in bringing all his family, father,
 mother, wife and brother. They were thus distinguished in the playbills:
-Baptiste, _aîné_, Baptiste _père_, Baptiste _cadet_, Madame Baptiste
+Baptiste, _aîné_, Baptiste _père_, Baptiste _[[Cadet|cadet]]_, Madame Baptiste
 _mère_, Madame Baptiste _bru_. This resulted in the pun of calling a play
 in which they all appeared _une pièce de baptistes_. Nicolas soon obtained
 the public favour, specially in La Martellière's mediocre _Robert, chef de
@@ -27,7 +27,7 @@ the public favour, specially in La Martellière's mediocre _Robert, chef de
 coupable_. His success in this was so great that the directors of the
 Théâtre de la République--who had already secured Talma, Dugazon and Madame
 Vestris--hastened to obtain his services, and, in order to get him at once
-(1793), paid the 20,000 francs forfeit which he was obliged to surrender on
+(1793), paid the 20,000 [[Franc|francs]] forfeit which he was obliged to surrender on
 breaking his contract. Later he, as well as his younger brother, became
 _sociétaire_. Nicolas took all the leading parts in comedy and tragedy. As
 he grew older his special _forte_ lay in noble fathers. After a brilliant

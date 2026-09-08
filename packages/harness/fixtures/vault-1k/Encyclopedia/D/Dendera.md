@@ -64,9 +64,9 @@ the course of which an unlucky Ombite was torn to pieces and devoured by
 the opposite party. The Ombos in question is not the distant Ombos south
 of Edfu, where the crocodile was worshipped; Petrie has shown that
 opposite Coptos, only about 15 m. from Tentyra, there was another Ombos,
-venerating the hippopotamus sacred to Set.
+venerating the [[Hippopotamus|hippopotamus]] sacred to Set.
 
-   See A. Mariette, _Dendérah_ (5 vols. atlas and text, 1869-1880); W.
+   See A. Mariette, _Dendérah_ (5 vols. [[Atlas|atlas]] and text, 1869-1880); W.
    M. F. Petrie, _Denderah_ (1900); _Nagada_ and _Ballas_ (1896).
                                                          (F. LL. G.)
 

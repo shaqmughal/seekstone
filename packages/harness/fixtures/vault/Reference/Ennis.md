@@ -1,20 +1,20 @@
 # Ennis
 
 ENNIS (Gaelic, _Innis_, an island; Irish, _Ennis_ and _Inish_), the
-county town of Co. Clare, Ireland, in the east parliamentary division,
+county town of Co. [[Clare]], Ireland, in the east parliamentary division,
 on the river Fergus, 25 m. W.N.W. from Limerick by the Great Southern &
 Western railway. Pop. of urban district (1901) 5093. It is the junction
 for the West Clare line. Ennis has breweries, distilleries and extensive
-flour-mills; and in the neighbourhood limestone is quarried. The
+flour-mills; and in the neighbourhood [[Limestone|limestone]] is quarried. The
 principal buildings are the Roman Catholic church, which is the
-pro-cathedral of the diocese of Killaloe; the parish church formed out
+pro-cathedral of the diocese of [[Killaloe]]; the parish church formed out
 of the ruins of the Franciscan Abbey, founded in 1240 by Donough Carbrac
 O'Brien; a school on the foundation of Erasmus Smith, and various county
 buildings. The abbey, though greatly mutilated, is full of interesting
-details, and includes a lofty tower, a marble screen, a chapter-house, a
+details, and includes a lofty tower, a [[Marble|marble]] screen, a chapter-house, a
 notable east window, several fine tombs and an altar of St Francis. On
 the site of the old court-house a colossal statue in white limestone of
-Daniel O'Connell was erected in 1865. The interesting ruins of Clare
+[[Daniel]] O'Connell was erected in 1865. The interesting ruins of Clare
 Abbey, founded in 1194 by Donnell O'Brien, king of Munster, are half-way
 between Ennis and the village of Clare Castle. O'Brien also founded
 Killone Abbey, beautifully situated on the lough of the same name, 3 m.

@@ -10,8 +10,8 @@ GEOGRAPHY (Gr. [Greek: ge], earth, and [Greek: graphein], to write), the
 exact and organized knowledge of the distribution of phenomena on the
 surface of the earth. The fundamental basis of geography is the vertical
 relief of the earth's crust, which controls all mobile distributions.
-The grander features of the relief of the lithosphere or stony crust of
-the earth control the distribution of the hydrosphere or collected
+The grander features of the relief of the [[Lithosphere|lithosphere]] or stony crust of
+the earth control the distribution of the [[Hydrosphere|hydrosphere]] or collected
 waters which gather into the hollows, filling them up to a height
 corresponding to the volume, and thus producing the important practical
 division of the surface into land and water. The distribution of the
@@ -28,7 +28,7 @@ and if it is less distinct in the case of man, the reason is found in
 the modifications of environment consciously produced by human effort.
 Geography is a synthetic science, dependent for the data with which it
 deals on the results of specialized sciences such as astronomy, geology,
-oceanography, meteorology, biology and anthropology, as well as on
+oceanography, meteorology, [[Biology|biology]] and anthropology, as well as on
 topographical description. The physical and natural sciences are
 concerned in geography only so far as they deal with the forms of the
 earth's surface, or as regards the distribution of phenomena. The
@@ -92,8 +92,8 @@ for the earlier motive, the discovery and exploration of new lands.
   bounding the whole, an application of imperfectly understood
   observations. Thales of Miletus is claimed as the first exponent of
   the idea of a spherical earth; but, although this does not appear to
-  be warranted, his disciple Anaximander (c. 580 B.C.) put forward the
-  theory that the earth had the figure of a solid body hanging freely in
+  be warranted, his [[Disciple|disciple]] Anaximander (c. 580 B.C.) put forward the
+  theory that the earth had the figure of a solid body [[Hanging|hanging]] freely in
   the centre of the hollow sphere of the starry heavens. The Pythagorean
   school of philosophers adopted the theory of a spherical earth, but
   from metaphysical rather than scientific reasons; their convincing
@@ -118,9 +118,9 @@ for the earlier motive, the discovery and exploration of new lands.
   personal travels Herodotus applied the characteristically Greek theory
   of symmetry to complete, in the unknown, outlines of lands and rivers
   analogous to those which had been explored. Symmetry was in fact the
-  first geographical theory, and the effect of Herodotus's hypothesis
+  first geographical theory, and the effect of Herodotus's [[Hypothesis|hypothesis]]
   that the Nile must flow from west to east before turning north in
-  order to balance the Danube running from west to east before turning
+  order to [[Balance|balance]] the Danube running from west to east before turning
   south lingered in the maps of Africa down to the time of Mungo
   Park.[3]
 
@@ -141,7 +141,7 @@ for the earlier motive, the discovery and exploration of new lands.
   pictured a torrid zone uninhabitable by reason of heat, two frigid
   zones uninhabitable by reason of cold, and two intermediate temperate
   zones fit for human occupation. Aristotle defined the temperate zone
-  as extending from the tropic to the arctic circle, but there is some
+  as extending from the tropic to the [[Arctic|arctic]] circle, but there is some
   uncertainty as to the precise meaning he gave to the term "arctic
   circle." Soon after his time, however, this conception was clearly
   established, and with so large a generalization the mental horizon was
@@ -208,7 +208,7 @@ for the earlier motive, the discovery and exploration of new lands.
   conversant with many facts, such as the formation of deltas,
   coast-erosion, and to a certain extent the dependence of plants and
   animals on their physical surroundings. He formed a comprehensive
-  theory of the variations of climate with latitude and season, and was
+  theory of the variations of climate with [[Latitude|latitude]] and season, and was
   convinced of the necessity of a circulation of water between the sea
   and rivers, though, like Plato, he held that this took place by water
   rising from the sea through crevices in the rocks, losing its
@@ -237,7 +237,7 @@ for the earlier motive, the discovery and exploration of new lands.
   final outcome of all Greek geographical learning, and passed it across
   the gulf of the middle ages by the hands of the Arabs, to form the
   starting-point of the science in modern times. His geography was based
-  more immediately on the work of his predecessor, Marinus of Tyre, and
+  more immediately on the work of his predecessor, [[Marinus Of Tyre|Marinus of Tyre]], and
   on that of Hipparchus, the follower and critic of Eratosthenes. It was
   the ambition of Ptolemy to describe and represent accurately the
   surface of the _oekumene_, for which purpose he took immense trouble
@@ -256,7 +256,7 @@ for the earlier motive, the discovery and exploration of new lands.
   particular region, and _topography_ the very detailed description of a
   smaller locality. He introduced the simile that geography represented
   an artist's sketch of a whole portrait, while chorography corresponded
-  to the careful and detailed drawing of an eye or an ear.[5]
+  to the careful and detailed drawing of an eye or an [[Ear|ear]].[5]
 
   The Caliph al-Mam[ = u]n (c. A.D. 815), the son and successor of H[ =
   a]r[ = u]n al-Rash[ = i]d, caused an Arabic version of Ptolemy's great
@@ -282,7 +282,7 @@ for the earlier motive, the discovery and exploration of new lands.
   Cosmas (c. A.D. 550) to explain the phenomena of the apparent
   movements of the sun by means of an earth modelled on the plan of the
   Jewish Tabernacle gave place ultimately to the wheel-maps--the T in an
-  O--which reverted to the primitive ignorance of the times of Homer and
+  O--which reverted to the primitive [[Ignorance|ignorance]] of the times of Homer and
   Hecataeus.[6]
 
   The journey of Marco Polo, the increasing trade to the East and the
@@ -364,7 +364,7 @@ for the earlier motive, the discovery and exploration of new lands.
 
   A little-known book which appears to have escaped the attention of
   most writers on the history of modern geography was published at
-  Oxford in 1625 by Nathanael Carpenter, fellow of Exeter College, with
+  Oxford in 1625 by Nathanael Carpenter, [[Fellow|fellow]] of Exeter College, with
   the title _Geographie delineated forth in Two Bookes, containing the
   Sphericall and Topicall parts thereof_. It is discursive in its style
   and verbose; but, considering the period at which it appeared, it is
@@ -390,7 +390,7 @@ for the earlier motive, the discovery and exploration of new lands.
   the _Geographia generalis_ of Bernhard Varenius, a German medical
   doctor of Leiden, who died at the age of twenty-eight in 1650, the
   year of the publication of his book. Although for a time it was lost
-  sight of on the continent, Sir Isaac Newton thought so highly of this
+  sight of on the continent, Sir [[Isaac]] Newton thought so highly of this
   book that he prepared an annotated edition which was published in
   Cambridge in 1672, with the addition of the plates which had been
   planned by Varenius, but not produced by the original publishers. "The
@@ -401,7 +401,7 @@ for the earlier motive, the discovery and exploration of new lands.
   The treatise of Varenius is a model of logical arrangement and terse
   expression; it is a work of science and of genius; one of the few of
   that age which can still be studied with profit. The English
-  translation renders the definition thus: "Geography is that part of
+  translation renders the [[Definition|definition]] thus: "Geography is that part of
   _mixed mathematics_ which explains the state of the earth and of its
   parts, depending on quantity, viz. its figure, place, magnitude and
   motion, with the celestial appearances, &c. By some it is taken in too
@@ -419,7 +419,7 @@ for the earlier motive, the discovery and exploration of new lands.
   chorographical or topographical point of view. General geography was
   divided into--(1) the _Absolute_ part, dealing with the form,
   dimensions, position and substance of the earth, the distribution of
-  land and water, mountains, woods and deserts, hydrography (including
+  land and water, mountains, woods and [[Desert|deserts]], [[Hydrography|hydrography]] (including
   all the waters of the earth) and the atmosphere; (2) the _Relative_
   part, including the celestial properties, i.e. latitude, climate
   zones, longitude, &c.; and (3) the _Comparative_ part, which
@@ -455,18 +455,18 @@ for the earlier motive, the discovery and exploration of new lands.
   fact not geography, but merely compressed travel.
 
 
-    Bergman.
+    [[Bergman]].
 
   The next marked advance in the theory of geography may be taken as the
   nearly simultaneous studies of the physical earth carried out by the
   Swedish chemist, Torbern Bergman, acting under the impulse of
-  Linnaeus, and by the German philosopher, Immanuel Kant. Bergman's
+  Linnaeus, and by the German philosopher, Immanuel [[Kant]]. Bergman's
   _Physical Description of the Earth_ was published in Swedish in 1766,
   and translated into English in 1772 and into German in 1774. It is a
   plain, straightforward description of the globe, and of the various
   phenomena of the surface, dealing only with definitely ascertained
   facts in the natural order of their relationships, but avoiding any
-  systematic classification or even definitions of terms.
+  systematic [[Classification|classification]] or even definitions of terms.
 
 
     Kant.
@@ -518,7 +518,7 @@ for the earlier motive, the discovery and exploration of new lands.
   first-hand information on which an improved system of geography might
   be founded. The impulse given to the study of natural history by the
   example of Linnaeus; the results brought back by Sir Joseph Banks, Dr
-  Solander and the two Forsters, who accompanied Cook in his voyages of
+  Solander and the two Forsters, who accompanied [[Cook]] in his voyages of
   discovery; the studies of De Saussure in the Alps, and the lists of
   desiderata in physical geography drawn up by that investigator,
   combined to prepare the way for Humboldt. The theory of geography was
@@ -554,7 +554,7 @@ for the earlier motive, the discovery and exploration of new lands.
   whole world its theme, died out in a wilderness of detail in
   twenty-one volumes before it had covered more of the earth's surface
   than Asia and a portion of Africa. Some of his followers showed a
-  tendency to look on geography rather as an auxiliary to history than
+  tendency to look on geography rather as an [[Auxiliary|auxiliary]] to history than
   as a study of intrinsic worth.
 
 
@@ -626,7 +626,7 @@ for the earlier motive, the discovery and exploration of new lands.
   man, give to geography a philosophical dignity and a scientific
   completeness which it never previously possessed. The influence of
   environment on the organism may not be quite so potent as it was once
-  believed to be, in the writings of Buckle, for instance,[9] and
+  believed to be, in the writings of [[Buckle]], for instance,[9] and
   certainly man, the ultimate term in the series, reacts upon and
   greatly modifies his environment; yet the fact that environment does
   influence all distributions is established beyond the possibility of
@@ -639,11 +639,11 @@ for the earlier motive, the discovery and exploration of new lands.
   universelle_ (Paris, 1876-1895).
 
   In estimating the influence of recent writers on geography it is usual
-  to assign to Oscar Peschel (1826-1875) the credit of having corrected
+  to assign to Oscar Peschel (1826-1875) the [[Credit|credit]] of having corrected
   the preponderance which Ritter gave to the historical element, and of
   restoring physical geography to its old pre-eminence.[10] As a matter
   of fact, each of the leading modern exponents of theoretical
-  geography--such as Ferdinand von Richthofen, Hermann Wagner, Friedrich
+  geography--such as [[Ferdinand]] von Richthofen, [[Hermann]] Wagner, [[Friedrich]]
   Ratzel, William M. Davis, A. Penck, A. de Lapparent and Elisee
   Reclus--has his individual point of view, one devoting more attention
   to the results of geological processes, another to anthropological
@@ -682,7 +682,7 @@ for the earlier motive, the discovery and exploration of new lands.
   From all centres the leading motives of exploration were probably the
   same--commercial intercourse, warlike operations, whether resulting in
   conquest or in flight, religious zeal expressed in pilgrimages or
-  missionary journeys, or, from the other side, the avoidance of
+  missionary journeys, or, from the other side, the [[Avoidance|avoidance]] of
   persecution, and, more particularly in later years, the advancement of
   knowledge for its own sake. At different times one or the other motive
   predominated.
@@ -720,7 +720,7 @@ for the earlier motive, the discovery and exploration of new lands.
   traveller in the 5th century B.C.) relates that the Egyptian king
   Necho of the XXVIth Dynasty (c. 600 B.C.) built a fleet on the Red
   Sea, and confided it to Phoenician sailors with the orders to sail
-  southward and return to Egypt by the Pillars of Hercules and the
+  southward and return to Egypt by the Pillars of [[Hercules]] and the
   Mediterranean sea. According to the tradition, which Herodotus quotes
   sceptically, this was accomplished; but the story is too vague to be
   accepted as more than a possibility.
@@ -763,7 +763,7 @@ for the earlier motive, the discovery and exploration of new lands.
   and followed the coast of Britain to its most northerly point. Beyond
   this he spoke of a land called _Thule_, which, if his estimate of the
   length of the longest day is correct, may have been Shetland, but was
-  possibly Iceland; and from some confused statements as to a sea which
+  possibly [[Iceland]]; and from some confused statements as to a sea which
   could not be sailed through, it has been assumed that Pytheas was the
   first of the Greeks to obtain direct knowledge of the Arctic regions.
   During this or a second voyage Pytheas entered the Baltic, discovered
@@ -800,7 +800,7 @@ for the earlier motive, the discovery and exploration of new lands.
   with his fleet, and the anchorages sought for each night are carefully
   recorded. He entered the Persian Gulf, and rejoined Alexander at Susa,
   when he was ordered to prepare another expedition for the
-  circumnavigation of Arabia. Alexander died at Babylon in 323 B.C., and
+  circumnavigation of Arabia. Alexander died at [[Babylon]] in 323 B.C., and
   the fleet was dispersed without making the voyage.
 
   The dynasties founded by Alexander's generals, Seleucus, Antiochus and
@@ -808,7 +808,7 @@ for the earlier motive, the discovery and exploration of new lands.
   had fostered, and extended geographical knowledge in several
   directions. Seleucus Nicator established the Greco-Bactrian empire and
   continued the intercourse with India. Authentic information respecting
-  the great valley of the Ganges was supplied by Megasthenes, an
+  the great valley of the [[Ganges]] was supplied by Megasthenes, an
   ambassador sent by Seleucus, who reached the remote city of
   Patali-putra, the modern Patna.
 
@@ -828,7 +828,7 @@ for the earlier motive, the discovery and exploration of new lands.
   finance an expedition for the purpose of African discovery; and we
   learn from Strabo that the veteran explorer made at least two voyages
   southward along the coast of Africa. The Ptolemies continued to send
-  fleets annually from their Red Sea ports of Berenice and Myos Hormus
+  fleets annually from their Red Sea ports of [[Berenice]] and Myos Hormus
   to Arabia, as well as to ports on the coasts of Africa and India.
 
 
@@ -845,7 +845,7 @@ for the earlier motive, the discovery and exploration of new lands.
   were conquered, and added one more to the imperishable roads that led
   from every quarter of the known world to Rome. In the height of their
   power the Romans had surveyed and explored all the coasts of the
-  Mediterranean, Italy, Greece, the Balkan Peninsula, Spain, Gaul,
+  Mediterranean, Italy, Greece, the [[Balkan Peninsula]], Spain, [[Gaul]],
   western Germany and southern Britain. In Africa their empire included
   Egypt, Carthage, Numidia and Mauritania. In Asia they held Asia Minor
   and Syria, had sent expeditions into Arabia, and were acquainted with
@@ -876,12 +876,12 @@ for the earlier motive, the discovery and exploration of new lands.
   the emporium whence were imported the commodities of the East. The
   emperor Justinian (483-565), in whose reign the greatness of the
   Eastern empire culminated, sent two Nestorian monks to China, who
-  returned with eggs of the silkworm concealed in a hollow cane, and
+  returned with [[Egg|eggs]] of the silkworm concealed in a hollow cane, and
   thus silk manufactures were established in the Peloponnesus and the
   Greek islands. It was also in the reign of Justinian that Cosmas
   Indicopleustes, an Egyptian merchant, made several voyages, and
   afterwards composed his [Greek: Christianike topographia] (Christian
-  Topography), containing, in addition to his absurd cosmogony, a
+  Topography), containing, in addition to his absurd [[Cosmogony|cosmogony]], a
   tolerable description of India.
 
 
@@ -889,7 +889,7 @@ for the earlier motive, the discovery and exploration of new lands.
 
   The great outburst of Mahommedan conquest in the 7th century was
   followed by the Arab civilization, having its centres at Bagdad and
-  Cordova, in connexion with which geography again received a share of
+  [[Cordova]], in connexion with which geography again received a share of
   attention. The works of the ancient Greek geographers were translated
   into Arabic, and starting with a sound basis of theoretical knowledge,
   exploration once more made progress. From the 9th to the 13th century
@@ -941,7 +941,7 @@ for the earlier motive, the discovery and exploration of new lands.
   island of Gotland, prove how closely the enterprise of the Northmen
   and of the Arabs intertwined. Five-sixths of these coins preserved at
   Stockholm were from the mints of the Samanian dynasty, which reigned
-  in Khorasan and Transoxiana from about A.D. 900 to 1000. It was the
+  in [[Khorasan]] and Transoxiana from about A.D. 900 to 1000. It was the
   trade with the East that originally gave importance to the city of
   Visby in Gotland.
 
@@ -953,7 +953,7 @@ for the earlier motive, the discovery and exploration of new lands.
   which, but for the isolation of Iceland from the centres of European
   awakening, would have had momentous consequences. As things were, the
   importance of this discovery passed unrecognized. The story of two
-  Venetians, Nicolo and Antonio Zeno, who gave a vague account of
+  Venetians, Nicolo and [[Antonio]] Zeno, who gave a vague account of
   voyages in the northern seas in the end of the 13th century, is no
   longer to be accepted as history.
 
@@ -961,7 +961,7 @@ for the earlier motive, the discovery and exploration of new lands.
     Close of the dark ages.
 
   At length the long period of barbarism which accompanied and followed
-  the fall of the Roman empire drew to a close in Europe. The Crusades
+  the fall of the Roman empire drew to a close in Europe. The [[Crusades]]
   had a favourable influence on the intellectual state of the Western
   nations. Interesting regions, known only by the scant reports of
   pilgrims, were made the objects of attention and study; while
@@ -980,16 +980,16 @@ for the earlier motive, the discovery and exploration of new lands.
   the missions despatched by Pope Innocent to call the chief and people
   of the Tatars to a better mind. He reached the headquarters of Batu,
   on the Volga, in February 1246; and, after some stay, went on to the
-  camp of the great khan near Karakorum in central Asia, and returned
+  camp of the great [[Khan|khan]] near Karakorum in central Asia, and returned
   safely in the autumn of 1247. A few years afterwards, a Fleming named
   Rubruquis was sent on a similar mission, and had the merit of being
   the first traveller of this era who gave a correct account of the
   Caspian Sea. He ascertained that it had no outlet. At nearly the same
-  time Hayton, king of Armenia, made a journey to Karakorum in 1254, by
+  time Hayton, king of [[Armenia]], made a journey to Karakorum in 1254, by
   a route far to the north of that followed by Carpini and Rubruquis. He
   was treated with honour and hospitality, and returned by way of
   Samarkand and Tabriz, to his own territory. The curious narrative of
-  King Hayton was translated by Klaproth.
+  King Hayton was translated by [[Klaproth]].
 
   While the republics of Italy, and above all the state of Venice, were
   engaged in distributing the rich products of India and the Far East
@@ -998,8 +998,8 @@ for the earlier motive, the discovery and exploration of new lands.
   such a degree as to impel some of the merchants to visit those remote
   lands. Among these were the brothers Polo, who traded with the East
   and themselves visited Tatary. The recital of their travels fired the
-  youthful imagination of young Marco Polo, son of Nicolo, and he set
-  out for the court of Kublai Khan, with his father and uncle, in 1265.
+  youthful [[Imagination|imagination]] of young Marco Polo, son of Nicolo, and he set
+  out for the court of [[Kublai Khan]], with his father and uncle, in 1265.
   Marco remained for seventeen years in the service of the Great Khan,
   and was employed on many important missions. Besides what he learnt
   from his own observation, he collected much information from others
@@ -1036,13 +1036,13 @@ for the earlier motive, the discovery and exploration of new lands.
   the Persian Gulf. He crossed Arabia from Bahrein to Jidda, traversed
   the Red sea and the desert to Syene, and descended the Nile to Cairo.
   After this he revisited Syria and Asia Minor, and crossed the Black
-  sea, the desert from Astrakhan to Bokhara, and the Hindu Kush. He was
+  sea, the desert from Astrakhan to [[Bokhara]], and the Hindu Kush. He was
   in the service of Muhammad Tughluk, ruler of Delhi, about eight years,
   and was sent on an embassy to China, in the course of which the
   ambassadors sailed down the west coast of India to Calicut, and then
   visited the Maldive Islands and Ceylon. Ibn Batuta made the voyage
   through the Malay Archipelago to China, and on his return he proceeded
-  from Malabar to Bagdad and Damascus, ultimately reaching Fez, the
+  from [[Malabar]] to Bagdad and [[Damascus]], ultimately reaching Fez, the
   capital of his native country, in November 1349. After a journey into
   Spain he set out once more for Central Africa in 1352, and reached
   Timbuktu and the Niger, returning to Fez in 1353. His narrative was
@@ -1058,7 +1058,7 @@ for the earlier motive, the discovery and exploration of new lands.
   III. of Castile is famous for the attempts of that prince to extend
   the diplomatic relations of Spain to the remotest parts of the earth.
   He sent embassies to all the princes of Christendom and to the Moors.
-  In 1403 the Spanish king sent a knight of Madrid, Ruy Gonzalez de
+  In 1403 the Spanish king sent a [[Knight|knight]] of Madrid, Ruy Gonzalez de
   Clavijo, to the distant court of Timur, at Samarkand. He returned in
   1406, and wrote a valuable narrative of his travels.
 
@@ -1067,7 +1067,7 @@ for the earlier motive, the discovery and exploration of new lands.
   sailed along the coast of Malabar, visited Sumatra, Java and the south
   of China, returned by the Red sea, and got home to Venice in 1444
   after an absence of twenty-five years. He related his adventures to
-  Poggio Bracciolini, secretary to Pope Eugenius IV.; and the narrative
+  Poggio [[Bracciolini]], secretary to Pope [[Eugenius]] IV.; and the narrative
   contains much interesting information. One of the most remarkable of
   the Italian travellers was Ludovico di Varthema, who left his native
   land in 1502. He went to Egypt and Syria, and for the sake of visiting
@@ -1092,9 +1092,9 @@ for the earlier motive, the discovery and exploration of new lands.
   principal scene of the work of the mariners sent out at his expense;
   but his object was to push onward and reach India from the Atlantic.
   The progress of discovery received a check on his death, but only for
-  a time. In 1462 Pedro de Cintra extended Portuguese exploration along
+  a time. In 1462 Pedro de [[Cintra]] extended Portuguese exploration along
   the African coast and discovered Sierra Leone. Fernan Gomez followed
-  in 1469, and opened trade with the Gold Coast; and in 1484 Diogo Cao
+  in 1469, and opened trade with the [[Gold Coast]]; and in 1484 Diogo Cao
   discovered the mouth of the Congo. The king of Portugal next
   despatched Bartolomeu Diaz in 1486 to continue discoveries southwards;
   while, in the following year, he sent Pedro de Covilhao and Affonso de
@@ -1104,7 +1104,7 @@ for the earlier motive, the discovery and exploration of new lands.
   realization of the long-sought passage to India, gave it the
   stimulating and enduring name of the Cape of Good Hope. Payva died at
   Cairo; but Covilhao, having heard that a Christian ruler reigned in
-  the mountains of Ethiopia, penetrated into Abyssinia in 1490. He
+  the mountains of [[Ethiopia]], penetrated into Abyssinia in 1490. He
   delivered the letter which Joao II. had addressed to Prester John to
   the Negus Alexander of Abyssinia, but he was detained by that prince
   and never allowed to leave the country.
@@ -1118,9 +1118,9 @@ for the earlier motive, the discovery and exploration of new lands.
   Toscanelli, and under-estimating the diameter of the globe, by sailing
   due west. The voyages of Columbus (1492-1498) resulted in the
   discovery of the West Indies and North America which barred the way to
-  the Far East. In 1493 the pope, Alexander VI., issued a bull
+  the Far East. In 1493 the pope, Alexander VI., issued a [[Bull|bull]]
   instituting the famous "line of demarcation" running from N. to S. 100
-  leagues W. of the Azores, to the west of which the Spaniards were
+  leagues W. of the [[Azores]], to the west of which the Spaniards were
   authorized to explore and to the east of which the Portuguese received
   the monopoly of discovery. The direct line of Portuguese exploration
   resulted in the discovery of the Cape route to India by Vasco da Gama
@@ -1161,7 +1161,7 @@ for the earlier motive, the discovery and exploration of new lands.
   disproportionate distinction of giving his name to the whole
   continent. In 1508 Alonso de Ojeda obtained the government of the
   coast of South America from Cabo de la Vela to the Gulf of Darien;
-  Ojeda landed at Cartagena in 1510, and sustained a defeat from the
+  Ojeda landed at [[Cartagena]] in 1510, and sustained a defeat from the
   natives, in which his lieutenant, Juan de la Cosa, was killed. After
   another reverse on the east side of the Gulf of Darien Ojeda returned
   to Hispaniola and died there. The Spaniards in the Gulf of Darien were
@@ -1169,7 +1169,7 @@ for the earlier motive, the discovery and exploration of new lands.
   conqueror of Peru. After suffering much from famine and disease,
   Pizarro resolved to leave, and embarked the survivors in small
   vessels, but outside the harbour they met a ship which proved to be
-  that of Martin Fernandez Enciso, Ojeda's partner, coming with
+  that of Martin [[Fernandez]] Enciso, Ojeda's partner, coming with
   provisions and reinforcements. One of the crew of Enciso's ship, Vasco
   Nunez de Balboa, the future discoverer of the Pacific Ocean, induced
   his commander to form a settlement on the other side of the Gulf of
@@ -1188,10 +1188,10 @@ for the earlier motive, the discovery and exploration of new lands.
   year 1519 Panama was founded by Pedrarias; and the conquest of Peru by
   Pizarro followed a few years afterwards. Hernan Cortes overran and
   conquered Mexico from 1518 to 1521, and the discovery and conquest of
-  Guatemala by Alvarado, the invasion of Florida by De Soto, and of
+  [[Guatemala]] by Alvarado, the invasion of Florida by De Soto, and of
   Nueva Granada by Quesada, followed in rapid succession. The first
   detailed account of the west coast of South America was written by a
-  keenly observant old soldier, Pedro de Cieza de Leon, who was
+  keenly observant old soldier, Pedro de [[Cieza]] de Leon, who was
   travelling in South America from 1533 to 1550, and published his story
   at Seville in 1553.
 
@@ -1201,7 +1201,7 @@ for the earlier motive, the discovery and exploration of new lands.
   The great desire of the Spanish government at that time was to find a
   westward route to the Moluccas. For this purpose Juan Diaz de Solis
   was despatched in October 1515, and in January 1516 he discovered the
-  mouth of the Rio de la Plata. He was, however, killed by the natives,
+  mouth of the Rio de [[La Plata|la Plata]]. He was, however, killed by the natives,
   and his ships returned. In the following year the Portuguese
   Ferdinando Magalhaes, familiarly known as Magellan, laid before
   Charles V., at Valladolid, a scheme for reaching the Spice Islands by
@@ -1234,7 +1234,7 @@ for the earlier motive, the discovery and exploration of new lands.
 
   With Abyssinia the mission of Covilhao led to further intercourse. In
   April 1520 Vasco da Gama, as viceroy of the Indies, took a fleet into
-  the Red sea, and landed an embassy consisting of Dom Rodriguez de Lima
+  the Red sea, and landed an embassy consisting of Dom Rodriguez de [[Lima]]
   and Father Francisco Alvarez, a priest whose detailed narrative is the
   earliest and not the least interesting account we possess of
   Abyssinia. It was not until 1526 that the embassy was dismissed; and
@@ -1280,7 +1280,7 @@ for the earlier motive, the discovery and exploration of new lands.
   three generations in Spain and Portugal, spread to other countries. It
   was the spirit of the age; and England, Holland and France were fired
   by it. English enterprise was first aroused by John and Sebastian
-  Cabot, father and son, who came from Venice and settled at Bristol in
+  Cabot, father and son, who came from Venice and settled at [[Bristol]] in
   the time of Henry VII. The Cabots received a patent in 1496,
   empowering them to seek unknown lands; and John Cabot discovered
   Newfoundland and part of the coast of America. Sebastian afterwards
@@ -1345,7 +1345,7 @@ for the earlier motive, the discovery and exploration of new lands.
   story of exploration, for the first time as far as important and
   sustained efforts are concerned, towards the Arctic seas. This part of
   the story is fully told under the heading of POLAR REGIONS, and only
-  the names of Martin Frobisher (1576), John Davis (1585), Henry Hudson
+  the names of Martin [[Frobisher]] (1576), John Davis (1585), Henry [[Hudson]]
   (1607) and William Baffin (1616) need be mentioned here in order to
   preserve the complete conspectus of the history of discovery. The
   Dutch emulated the British in the Arctic seas during this period,
@@ -1354,12 +1354,12 @@ for the earlier motive, the discovery and exploration of new lands.
   or Barendsz (1594-1597) is the most famous name in this connexion, his
   boat voyage along the coast of Novaya Zemlya after losing his ship and
   wintering in a high latitude, being one of the most remarkable
-  achievements in polar annals.
+  achievements in polar [[Annals|annals]].
 
   Many English voyages were also made to Guinea and the West Indies, and
   twice English vessels followed in the track of Magellan, and
   circumnavigated the globe. In 1577 Francis Drake, who had previously
-  served with Hawkins in the West Indies, undertook his celebrated
+  served with [[Hawkins]] in the West Indies, undertook his celebrated
   voyage round the world. Reaching the Pacific through the Strait of
   Magellan, Drake proceeded northward along the west coast of America,
   resolved to attempt the discovery of a northern passage from the
@@ -1384,7 +1384,7 @@ for the earlier motive, the discovery and exploration of new lands.
   his Voyage into the South Sea_, published in 1622, are very valuable.
   It was long before another British ship entered the Pacific Ocean. Sir
   John Narborough took two ships through the Strait of Magellan in 1670
-  and touched on the coast of Chile, but it was not until 1685 that
+  and touched on the coast of [[Chile]], but it was not until 1685 that
   Dampier sailed over the part of the Pacific where Hawkins met his
   defeat.
 
@@ -1427,12 +1427,12 @@ for the earlier motive, the discovery and exploration of new lands.
   Islands. After discovering the Marquesas, he reached the island of
   Santa Cruz of evil memory, where he and many of the settlers died. His
   young widow took command of the survivors and brought them safely to
-  Manila. The viceroys of Peru still persevered in their attempts to
+  [[Manila]]. The viceroys of Peru still persevered in their attempts to
   plant a colony in the hypothetical southern continent. Pedro Fernandez
   de Quiros, who was pilot under Mendana and Luis Vaez de Torres, were
   sent in command of two ships to continue the work of exploration. They
   sailed from Callao in December 1605, and discovered several islands of
-  the New Hebrides group. They anchored in a bay of a large island which
+  the New [[Hebrides]] group. They anchored in a bay of a large island which
   Quiros named "Australia del Espiritu Santo." From this place Quiros
   returned to America, but Torres continued the voyage, passed through
   the strait between Australia and New Guinea which bears his name, and
@@ -1458,7 +1458,7 @@ for the earlier motive, the discovery and exploration of new lands.
   merchants and adventurers of London resolved to form a company, with
   the object of establishing a trade with the East Indies. On the 31st
   of December 1599 Queen Elizabeth granted the charter of incorporation
-  to the East India Company, and Sir James Lancaster, one of the
+  to the [[East India Company]], and Sir James Lancaster, one of the
   directors, was appointed general of their first fleet. He was
   accompanied by John Davis, the great Arctic navigator, as pilot-major.
   This voyage was eminently successful. The ships touched at Achin in
@@ -1483,7 +1483,7 @@ for the earlier motive, the discovery and exploration of new lands.
   and the Eastern Archipelago. British visits to Eastern countries, at
   this time, were not confined to the voyages of the company. Journeys
   were also made by land, and, among others, the entertaining author of
-  the _Crudities_, Thomas Coryate, of Odcombe in Somersetshire, wandered
+  the _Crudities_, Thomas [[Coryate]], of Odcombe in Somersetshire, wandered
   on foot from France to India, and died (1617) in the company's factory
   at Surat. In 1561 Anthony Jenkinson arrived in Persia with a letter
   from Queen Elizabeth to the shah. He travelled through Russia to
@@ -1491,13 +1491,13 @@ for the earlier motive, the discovery and exploration of new lands.
   Burroughs built a ship at Nizhniy Novgorod and traded across the
   Caspian to Baku; and in 1598 Sir Anthony and Robert Shirley arrived in
   Persia, and Robert was afterwards sent by the shah to Europe as his
-  ambassador. He was followed by a Spanish mission under Garcia de
+  ambassador. He was followed by a Spanish mission under [[Garcia]] de
   Silva, who wrote an interesting account of his travels; and to Sir
   Dormer Cotton's mission, in 1628, we are indebted for Sir Thomas
   Herbert's charming narrative. In like manner Sir Thomas Roe's mission
   to India resulted not only in a large collection of valuable reports
   and letters of his own, but also in the detailed account of his
-  chaplain Terry. But the most learned and intelligent traveller in the
+  [[Chaplain|chaplain]] Terry. But the most learned and intelligent traveller in the
   East, during the 17th century, was the German, Engelbrecht Kaempfer,
   who accompanied an embassy to Persia, in 1684, and was afterwards a
   surgeon in the service of the Dutch East India Company. He was in the
@@ -1522,7 +1522,7 @@ for the earlier motive, the discovery and exploration of new lands.
   Hope. A second large Dutch fleet sailed in 1598; and, so eager was the
   republic to extend her commerce over the world that another fleet,
   consisting of five ships of Rotterdam, was sent in the same year by
-  way of Magellan's Strait, under Jacob Mahu as admiral, with William
+  way of Magellan's Strait, under [[Jacob]] Mahu as admiral, with William
   Adams as pilot. Mahu died on the passage out, and was succeeded by
   Simon de Cordes, who was killed on the coast of Chile. In September
   1599 the fleet had entered the Pacific. The ships were then steered
@@ -1530,7 +1530,7 @@ for the earlier motive, the discovery and exploration of new lands.
   year, 1598, a third expedition was despatched under Oliver van Noort,
   a native of Utrecht, but the voyage contributed nothing to geography.
   The Dutch Company in 1614 again resolved to send a fleet to the
-  Moluccas by the westward route, and Joris Spilbergen was appointed to
+  Moluccas by the westward route, and [[Joris]] Spilbergen was appointed to
   the command as admiral, with a commission from the States-General. He
   was furnished with four ships of Amsterdam, two of Rotterdam and one
   from Zeeland. On the 6th of May 1615 Spilbergen entered the Pacific
@@ -1547,7 +1547,7 @@ for the earlier motive, the discovery and exploration of new lands.
   the Texel on the 14th of June 1615, and by the 20th of January 1616
   they were south of the entrance of Magellan's Strait. Passing through
   the strait of Lemaire they came to the southern extremity of Tierra
-  del Fuego, which was named Cape Horn, in honour of the town of Hoorn
+  del Fuego, which was named Cape [[Horn]], in honour of the town of Hoorn
   in West Friesland, of which Schouten was a native. They passed the
   cape on the 31st of January, encountering the usual westerly winds.
   The great merit of this discovery of a second passage into the South
@@ -1610,9 +1610,9 @@ for the earlier motive, the discovery and exploration of new lands.
   remeasurements. The result was a more accurate map of China than
   existed, at that time, of any country in Europe. Kang-hi next ordered
   a similar map to be made of Tibet, the survey being executed by two
-  lamas who were carefully trained as surveyors by the Jesuits at
+  lamas who were carefully trained as surveyors by the [[Jesuits]] at
   Peking. From these surveys were constructed the well-known maps which
-  were forwarded to Duhalde, and which D'Anville utilized for his atlas.
+  were forwarded to Duhalde, and which D'Anville utilized for his [[Atlas|atlas]].
 
 
     The 18th century.
@@ -1624,7 +1624,7 @@ for the earlier motive, the discovery and exploration of new lands.
   enter Tibet since the visit of Friar Odoric in 1325. The next journey
   was that of Fathers Grueber and Dorville about 1660, who succeeded in
   passing from China, through Tibet, into India. In 1715 Fathers
-  Desideri and Freyre made their way from Agra, across the Himalayas, to
+  Desideri and Freyre made their way from Agra, across the [[Himalaya|Himalayas]], to
   Lhasa, and the Capuchin Friar Orazio della Penna resided in that city
   from 1735 until 1747. But the most remarkable journey in this
   direction was performed by a Dutch traveller named Samuel van de
@@ -1635,7 +1635,7 @@ for the earlier motive, the discovery and exploration of new lands.
   In 1743 he left India and died at Batavia on the 27th of September
   1745. The premature death of this illustrious traveller is the more to
   be lamented because his vast knowledge died with him. Two English
-  missions sent by Warren Hastings to Tibet, one led by George Bogle in
+  missions sent by Warren [[Hastings]] to Tibet, one led by George Bogle in
   1774, and the other by Captain Turner in 1783, complete Tibetan
   exploration in the 18th century.
 
@@ -1644,15 +1644,15 @@ for the earlier motive, the discovery and exploration of new lands.
   Krusinski, and by English traders on the Caspian. In 1738 John Elton
   traded between Astrakhan and the Persian port of Enzeli on the
   Caspian, and undertook to build a fleet for Nadir Shah. Another
-  English merchant, named Jonas Hanway, arrived at Astrabad from Russia,
-  and travelled to the camp of Nadir at Kazvin. One lasting and valuable
+  English merchant, named [[Jonas]] [[Hanway]], arrived at Astrabad from Russia,
+  and travelled to the camp of Nadir at [[Kazvin]]. One lasting and valuable
   result of Hanway's wanderings was a charming book of travels. In 1700
   Guillaume Delisle published his map of the continents of the Old
   World; and his successor D'Anville produced his map of India in 1752.
   D'Anville's map contained all that was then known, but ten years
   afterwards Major Rennell began his surveying labours, which extended
   over the period from 1763 to 1782. His survey covered an area 900 m.
-  long by 300 wide, from the eastern confines of Bengal to Agra, and
+  long by 300 wide, from the eastern confines of [[Bengal]] to Agra, and
   from the Himalayas to Calpi. Rennell was indefatigable in collecting
   geographical information; his Bengal atlas appeared in 1781, his
   famous map of India in 1788 and the memoir in 1792. Surveys were also
@@ -1663,7 +1663,7 @@ for the earlier motive, the discovery and exploration of new lands.
   members. Niebuhr landed at Loheia, on the coast of Yemen, in December
   1762, and went by land to Sana. All the other members of the mission
   died, but he proceeded from Mokha to Bombay. He then made a journey
-  through Persia and Syria to Constantinople, returning to Copenhagen in
+  through Persia and Syria to Constantinople, returning to [[Copenhagen]] in
   1767. His valuable work, the _Description of Arabia_, was published in
   1772, and was followed in 1774-1778 by two volumes of travels in Asia.
   The great traveller survived until 1815, when he died at the age of
@@ -1703,7 +1703,7 @@ for the earlier motive, the discovery and exploration of new lands.
   F.J.M. de Lacerda, an accomplished astronomer, was appointed to
   command a scientific expedition of discovery to the north of the
   Zambesi. He started in July, crossed the Muchenja Mountains, and
-  reached the capital of the Cazembe, where he died of fever. Lacerda
+  reached the capital of the Cazembe, where he died of [[Fever|fever]]. Lacerda
   left a valuable record of his adventurous journey; but with Mungo Park
   and Lacerda the history of African exploration in the 18th century
   closes.
@@ -1716,10 +1716,10 @@ for the earlier motive, the discovery and exploration of new lands.
   continent, was the measurement of an arc of the meridian. The
   undertaking was proposed by the French Academy as part of an
   investigation with the object of ascertaining the length of the degree
-  near the equator and near the pole respectively so as to determine the
+  near the [[Equator|equator]] and near the pole respectively so as to determine the
   figure of the earth. A commission left Paris in 1735, consisting of
-  Charles Marie de la Condamine, Pierre Bouguer, Louis Godin and Joseph
-  de Jussieu the naturalist. Spain appointed two accomplished naval
+  Charles Marie de [[La Condamine|la Condamine]], Pierre Bouguer, Louis Godin and Joseph
+  de [[Jussieu]] the naturalist. Spain appointed two accomplished naval
   officers, the brothers Ulloa, as coadjutors. The operations were
   carried on during eight years on a plain to the south of Quito; and,
   in addition to his memoir on this memorable measurement, La Condamine
@@ -1728,8 +1728,8 @@ for the earlier motive, the discovery and exploration of new lands.
   consisted of two measured bases connected by a series of triangles,
   one north and the other south of the equator, on the meridian of
   Quito. Contemporaneously, in 1738, Pierre Louis Moreau de Maupertuis,
-  Alexis Claude Clairaut, Charles Etienne Louis Camus, Pierre Charles
-  Lemonnier and the Swedish physicist Celsius measured an arc of the
+  Alexis Claude Clairaut, Charles Etienne Louis [[Camus]], Pierre Charles
+  Lemonnier and the Swedish physicist [[Celsius]] measured an arc of the
   meridian in Lapland.
 
 
@@ -1738,7 +1738,7 @@ for the earlier motive, the discovery and exploration of new lands.
   The British and French governments despatched several expeditions of
   discovery into the Pacific and round the world during the 18th
   century. They were preceded by the wonderful and romantic voyages of
-  the buccaneers. The narratives of such men as Woodes Rogers, Edward
+  the [[Buccaneers|buccaneers]]. The narratives of such men as Woodes Rogers, Edward
   Davis, George Shelvocke, Clipperton and William Dampier, can never
   fail to interest, while they are not without geographical value. The
   works of Dampier are especially valuable, and the narratives of
@@ -1750,7 +1750,7 @@ for the earlier motive, the discovery and exploration of new lands.
   name between New Guinea and New Britain, returning in 1701. In 1721
   Jacob Roggewein was despatched on a voyage of some importance across
   the Pacific by the Dutch West India Company, during which he
-  discovered Easter Island on the 6th of April 1722.
+  discovered [[Easter]] Island on the 6th of April 1722.
 
   The voyage of Lord Anson to the Pacific in 1740-1744 was of a
   predatory character, and he lost more than half his men from scurvy;
@@ -1760,24 +1760,24 @@ for the earlier motive, the discovery and exploration of new lands.
   and burning the town of Payta. But a romantic interest attaches to the
   wreck of the "Wager," one of Anson's fleet, on a desert island near
   Chiloe, for it bore fruit in the charming narrative of Captain John
-  Byron, which will endure for all time. In 1764 Byron himself was sent
+  [[Byron]], which will endure for all time. In 1764 Byron himself was sent
   on a voyage of discovery round the world, which led immediately after
   his return to the despatch of another to complete his work, under the
   command of Captain Samuel Wallis.
 
-  The expedition, consisting of the "Dolphin" commanded by Wallis, and
+  The expedition, consisting of the "[[Dolphin]]" commanded by Wallis, and
   the "Swallow" under Captain Philip Carteret, sailed in September 1766,
   but the ships were separated on entering the Pacific from the Strait
   of Magellan. Wallis discovered Tahiti on the 19th of June 1767, and he
   gave a detailed account of that island. He returned to England in May
-  1768. Carteret discovered the Charlotte and Gloucester Islands, and
+  1768. Carteret discovered the [[Charlotte]] and Gloucester Islands, and
   Pitcairn Island on the 2nd of July 1767; revisited the Santa Cruz
   group, which was discovered by Mendana and Quiros; and discovered the
   strait separating New Britain from New Ireland. He reached Spithead
   again in February 1769. Wallis and Carteret were followed very closely
   by the French expedition of Bougainville, which sailed from Nantes in
   November 1766. Bougainville had first to perform the unpleasant task
-  of delivering up the Falkland Islands, where he had encouraged the
+  of delivering up the [[Falkland Islands]], where he had encouraged the
   formation of a French settlement, to the Spaniards. He then entered
   the Pacific, and reached Tahiti in April 1768. Passing through the New
   Hebrides group he touched at Batavia, and arrived at St Malo after an
@@ -1810,7 +1810,7 @@ for the earlier motive, the discovery and exploration of new lands.
   deg. 15'. On a second cruise from the Society Islands, in 1773, he,
   first of all men, crossed the Antarctic circle, and was stopped by ice
   in 71 deg. 10' S. During the second voyage Cook visited Easter Island,
-  discovered several islands of the New Hebrides and New Caledonia; and
+  discovered several islands of the New Hebrides and New [[Caledonia]]; and
   on his way home by Cape Horn, in March 1774, he discovered the
   Sandwich Island group and described South Georgia. He proved
   conclusively that any southern continent that might exist lay under
@@ -1823,24 +1823,24 @@ for the earlier motive, the discovery and exploration of new lands.
   and named the farthest visible point on the American shore Icy Cape.
   He then visited the Asiatic shore and discovered Cape North. Returning
   to Hawaii, Cook was murdered by the natives. On the 14th of February
-  1779, his second, Captain Edward Clerke, took command, and proceeding
+  1779, his second, Captain Edward [[Clerke]], took command, and proceeding
   to Petropavlovsk in the following summer, he again examined the edge
   of the ice, but only got as far as 70 deg. 33' N. The ships returned
   to England in October 1780.
 
   In 1785 the French government carefully fitted out an expedition of
-  discovery at Brest, which was placed under the command of Francois La
+  discovery at [[Brest]], which was placed under the command of Francois La
   Perouse, an accomplished and experienced officer. After touching at
   Concepcion in Chile and at Easter Island, La Perouse proceeded to
   Hawaii and thence to the coast of California, of which he has given a
-  very interesting account. He then crossed the Pacific to Macao, and in
+  very interesting account. He then crossed the Pacific to [[Macao]], and in
   July 1787 he proceeded to explore the Gulf of Tartary and the shores
   of Sakhalin, remaining some time at Castries Bay, so named after the
   French minister of marine. Thence he went to the Kurile Islands and
-  Kamchatka, and sailed from the far north down the meridian to the
+  [[Kamchatka]], and sailed from the far north down the meridian to the
   Navigator and Friendly Islands. He was in Botany Bay in January 1788;
   and sailing thence, the explorer, his ship and crew were never seen
-  again. Their fate was long uncertain. In September 1791 Captain
+  again. Their [[Fate|fate]] was long uncertain. In September 1791 Captain
   Antoine d'Entrecasteaux sailed from Brest with two vessels to seek for
   tidings. He visited the New Hebrides, Santa Cruz, New Caledonia and
   Solomon Islands, and made careful though rough surveys of the
@@ -1862,13 +1862,13 @@ for the earlier motive, the discovery and exploration of new lands.
   "Bounty," and discovered the islands of Cherry and Mitre, east of the
   Santa Cruz group, but she was eventually lost on a reef in Torres
   Strait. In 1796-1797 Captain Wilson, in the missionary ship "Duff,"
-  discovered the Gambier and other islands, and rediscovered the islands
+  discovered the [[Gambier]] and other islands, and rediscovered the islands
   known to and seen by Quiros, but since called the Duff Group. Another
   result of Captain Cook's work was the colonization of Australia. On
   the 18th of January 1788 Admiral Phillip and Captain Hunter arrived in
   Botany Bay in the "Supply" and "Sirius," followed by six transports,
   and established a colony at Port Jackson. Surveys were then undertaken
-  in several directions. In 1795 and 1796 Matthew Flinders and George
+  in several directions. In 1795 and 1796 [[Matthew]] [[Flinders]] and George
   Bass were engaged on exploring work in a small boat called the "Tom
   Thumb." In 1797 Bass, who had been a surgeon, made an expedition
   southwards, continued the work of Cook from Ram Head, and explored the
@@ -1933,7 +1933,7 @@ for the earlier motive, the discovery and exploration of new lands.
   29' N., within 5 m. of Cape Chelyuskin. Both he and his young wife
   died of scurvy, and the vessel returned. A second expedition, under
   Lieut. Laptyev, started from the Lena in 1739, but encountered masses
-  of drift ice in Chatanga bay, and with this ended the voyages to the
+  of [[Drift|drift]] ice in Chatanga bay, and with this ended the voyages to the
   westward of the Lena. Several attempts were also made to navigate the
   sea from the Lena to the Kolyma. In 1736 Lieut. Laptyev sailed, but
   was stopped by the drift ice in August, and in 1739, during another
@@ -1943,13 +1943,13 @@ for the earlier motive, the discovery and exploration of new lands.
   from Okhotsk on a second Arctic voyage with George William Steller on
   board as naturalist. In June 1741 he named the magnificent peak on the
   coast of North America Mount St Elias and explored the Aleutian
-  Islands. In November the ship was wrecked on Bering Island; and the
+  Islands. In November the ship was wrecked on [[Bering Island]]; and the
   gallant Dane, worn out with scurvy, died there on the 8th of December
   1741. In March 1770 a merchant named Liakhov saw a large herd of
   reindeer coming from the north to the Siberian coast, which induced
   him to start in a sledge in the direction whence they came. Thus he
   reached the New Siberian or Liakhov Islands, and for years afterwards
-  the seekers for fossil ivory resorted to them. The Russian Captain
+  the seekers for fossil [[Ivory|ivory]] resorted to them. The Russian Captain
   Vassili Chitschakov in 1765 and 1766 made two persevering attempts to
   penetrate the ice north of Spitsbergen, and reached 80 deg. 30' N.,
   while Russian parties twice wintered at Bell Sound.
@@ -1969,11 +1969,11 @@ for the earlier motive, the discovery and exploration of new lands.
   exploration and research. The first of the existing geographical
   societies was that of Paris, founded in 1825 under the title of La
   Societe de Geographie. The Berlin Geographical Society (Gesellschaft
-  fur Erdkunde) is second in order of seniority, having been founded in
+  [[Fur|fur]] Erdkunde) is second in order of seniority, having been founded in
   1827. The Royal Geographical Society, which was founded in London in
   1830, comes third on the list; but it may be viewed as a direct result
   of the earlier African Association founded in 1788. Sir John Barrow,
-  Sir John Cam Hobhouse (Lord Broughton), Sir Roderick Murchison, Mr
+  Sir John [[Cam]] [[Hobhouse]] (Lord Broughton), Sir Roderick Murchison, Mr
   Robert Brown and Mr Bartle Frere formed the foundation committee of
   the Royal Geographical Society, and the first president was Lord
   Goderich. The action of the society in supplying practical instruction
@@ -2067,7 +2067,7 @@ for the earlier motive, the discovery and exploration of new lands.
   geographer's work should overlap that of the geologist.
 
   The primary distinction of the forms of the crust is that between
-  elevations and depressions. Granting that the geoid or mean surface of
+  elevations and depressions. Granting that the [[Geoid|geoid]] or mean surface of
   the ocean is a uniform spheroid, the distribution of land and water
   approximately indicates a division of the surface of the globe into
   two areas, one of elevation and one of depression. The increasing
@@ -2078,7 +2078,7 @@ for the earlier motive, the discovery and exploration of new lands.
   in accurate knowledge remain, and the estimate is not an exact one.
   The only part of the sea-bed the configuration of which is at all well
   known is the zone bordering the coasts where the depth is less than
-  about 100 fathoms or 200 metres, i.e. those parts which sailors speak
+  about 100 [[Fathom|fathoms]] or 200 metres, i.e. those parts which sailors speak
   of as "in soundings." Actual or projected routes for telegraph cables
   across the deep sea have also been sounded with extreme accuracy in
   many cases; but beyond these lines of sounding the vast spaces of the
@@ -2306,7 +2306,7 @@ for the earlier motive, the discovery and exploration of new lands.
   Europe, Asia and Africa; the next in size, America; the third,
   possibly, Antarctica; the fourth, Australia; the fifth, Greenland.
   After this there is a considerable gap before New Guinea, Borneo,
-  Madagascar, Sumatra and the vast multitude of smaller islands
+  [[Madagascar]], Sumatra and the vast multitude of smaller islands
   descending in size by regular gradations to mere rocks. The contrast
   between island and mainland was natural enough in the days before the
   discovery of Australia, and the mainland of the Old World was
@@ -2388,14 +2388,14 @@ for the earlier motive, the discovery and exploration of new lands.
 
   Small peninsulas are known as promontories or headlands, and the
   extremity as a cape. The opposite form, an inlet of the sea, is known
-  when wide as a gulf, bay or bight, according to size and degree of
+  when wide as a gulf, bay or [[Bight|bight]], according to size and degree of
   inflection, or as a fjord or ria when long and narrow. It is
   convenient to employ a specific name for a projection of a coast-line
   less pronounced than a peninsula, and for an inlet less pronounced
   than a bay or bight; outcurve and incurve may serve the turn. The
   varieties of coast-lines were reduced to an exact classification by
   Richthofen, who grouped them according to the height and slope of the
-  land into cliff-coasts (_Steilkusten_)--narrow beach coasts with
+  land into cliff-coasts (_Steilkusten_)--narrow [[Beach|beach]] coasts with
   cliffs, wide beach coasts with cliffs, and low coasts, subdividing
   each group according as the coast-line runs parallel to or crosses the
   line of strike of the mountains, or is not related to mountain
@@ -2432,7 +2432,7 @@ for the earlier motive, the discovery and exploration of new lands.
   admit of exact classification, they are recognized to be as a rule
   distinct from the forms of the land, and the importance of using a
   distinctive terminology is felt. Efforts have been made to arrive at a
-  definite international agreement on this subject, and certain terms
+  definite [[International|international]] agreement on this subject, and certain terms
   suggested by a committee were adopted by the Eighth International
   Geographical Congress at New York in 1904.[30] The forms of the ocean
   floor include the "shelf," or shallow sea margin, the "depression," a
@@ -2462,7 +2462,7 @@ for the earlier motive, the discovery and exploration of new lands.
 
     Land forms.
 
-  The forms of the dry land are of infinite variety, and have been
+  The forms of the dry land are of [[Infinite|infinite]] variety, and have been
   studied in great detail.[31] From the descriptive or topographical
   point of view, geometrical form alone should be considered; but the
   origin and geological structure of land forms must in many cases be
@@ -2513,7 +2513,7 @@ for the earlier motive, the discovery and exploration of new lands.
   secondary reactions during the action of the primitive forms on mobile
   distributions. The geological structure and the mineral composition of
   the rocks are often the chief causes determining the character of the
-  land forms of a region. Thus the scenery of a limestone country
+  land forms of a region. Thus the scenery of a [[Limestone|limestone]] country
   depends on the solubility and permeability of the rocks, leading to
   the typical Karst-formations of caverns, swallow-holes and underground
   stream courses, with the contingent phenomena of dry valleys and
@@ -2548,7 +2548,7 @@ for the earlier motive, the discovery and exploration of new lands.
   in the German language to speak of _Hugelland_, _Mittelgebirge_ and
   _Hochgebirge_ with a definite significance.
 
-  The simple classification employed by Professor James Geikie[35] into
+  The simple classification employed by Professor James [[Geikie]][35] into
   mountains of accumulation, mountains of elevation and mountains of
   circumdenudation, is not considered sufficiently thorough by German
   geographers, who, following Richthofen, generally adopt a
@@ -2612,7 +2612,7 @@ for the earlier motive, the discovery and exploration of new lands.
   with the great structural lines of the continents of which they form
   the culminating region. Lofty lines of fold mountains form the
   "backbones" of North America in the Rocky Mountains and the west coast
-  systems, of South America in the Cordillera of the Andes, of Europe in
+  systems, of South America in the [[Cordillera]] of the Andes, of Europe in
   the Pyrenees, Alps, Carpathians and Caucasus, and of Asia in the
   mountains of Asia Minor, converging on the Pamirs and diverging thence
   in the Himalaya and the vast mountain systems of central and eastern
@@ -2650,7 +2650,7 @@ for the earlier motive, the discovery and exploration of new lands.
   themselves to the slopes down which they are guided, different
   ice-streams converging to send forward a greater volume. Gradually
   coming to occupy definite beds, which are deepened and polished by the
-  friction, they impress a characteristic appearance on the land, which
+  [[Friction|friction]], they impress a characteristic appearance on the land, which
   guides them as they traverse it, and, although the ice melts at lower
   levels, vast quantities of clay and broken stones are brought down and
   deposited in terminal moraines where the glacier ends.
@@ -2756,7 +2756,7 @@ for the earlier motive, the discovery and exploration of new lands.
   rivers conspires with the movement of land waste to strip the layer of
   soil from steep slopes as rapidly as it forms, and to cause it to
   accumulate on the flat valley bottoms, on the graceful flattened cones
-  of alluvial fans at the outlet of the gorges of tributaries, or in the
+  of alluvial [[Fan|fans]] at the outlet of the [[Gorges|gorges]] of tributaries, or in the
   smoothly-spread surface of alluvial plains.
 
   The whole question of the regime of rivers and lakes is sometimes
@@ -2776,7 +2776,7 @@ for the earlier motive, the discovery and exploration of new lands.
   will begin to escape as soon as its level rises high enough to reach
   the lowest part of the rim. In the case of a large hollow in a very
   dry climate the rate of evaporation may be sufficient to prevent the
-  water from ever rising to the lip, so that there is no outflow to the
+  water from ever rising to the [[Lip|lip]], so that there is no outflow to the
   sea, and a basin of internal drainage is the result. This is the case,
   for instance, in the Caspian sea, the Aral and Balkhash lakes, the
   Tarim basin, the Sahara, inner Australia, the great basin of the
@@ -2818,7 +2818,7 @@ for the earlier motive, the discovery and exploration of new lands.
   The sum of the organic life on the globe is termed by some geographers
   the biosphere, and it has been estimated that the whole mass of living
   substance in existence at one time would cover the surface of the
-  earth to a depth of one-fifth of an inch.[43] The distribution of
+  earth to a depth of one-fifth of an [[Inch|inch]].[43] The distribution of
   living organisms is a complex problem, a function of many factors,
   several of which are yet but little known. They include the biological
   nature of the organism and its physical environment, the latter
@@ -2885,12 +2885,12 @@ for the earlier motive, the discovery and exploration of new lands.
   The ice-deserts of the arctic and antarctic and the highest mountain
   regions, where there is no vegetation except the lowest forms, like
   that which causes "red snow." (2) The tundra or region of intensely
-  cold winters, forbidding tree-growth, where mosses and lichens cover
+  cold winters, forbidding tree-growth, where mosses and [[Lichens|lichens]] cover
   most of the ground when unfrozen, and shrubs occur of species which in
   other conditions are trees, here stunted to the height of a few
   inches. A similar zone surrounds the permanent snow on lofty mountains
   in all latitudes. The tundra passes by imperceptible gradations into
-  the moor, bog and heath of warmer climates. (3) The temperate forests
+  the moor, [[Bog|bog]] and heath of warmer climates. (3) The temperate forests
   of evergreen or deciduous trees, according to circumstances, which
   occupy those parts of both temperate zones where rainfall and sunlight
   are both abundant. (4) The grassy steppes or prairies where the
@@ -2917,8 +2917,8 @@ for the earlier motive, the discovery and exploration of new lands.
   _Palaearctic_, including Europe, Asia north of the Himalaya, and
   Africa north of the Sahara; (2) _Ethiopian_, consisting of Africa
   south of the Atlas range, and Madagascar; (3) _Oriental_, including
-  India, Indo-China and the Malay Archipelago north of Wallace's line,
-  which runs between Bali and Lombok; (4) _Australian_, including
+  India, [[Indo-China]] and the Malay Archipelago north of Wallace's line,
+  which runs between [[Bali]] and Lombok; (4) _Australian_, including
   Australia, New Zealand, New Guinea and Polynesia; (5) _Nearctic_ or
   North America, north of Mexico; and (6) _Neotropical_ or South
   America. Each of these divisions is the home of a special fauna, many
@@ -3072,7 +3072,7 @@ for the earlier motive, the discovery and exploration of new lands.
   exercising the mental faculties beyond the sense of perception to
   avoid enemies, or the inventive arts beyond what is required for the
   simplest weapons and the most primitive fortifications. When the
-  pursuit of game becomes the chief occupation of a people there is of
+  pursuit of [[Game|game]] becomes the chief occupation of a people there is of
   necessity a higher development of courage, skill, powers of
   observation and invention; and these qualities are still further
   enhanced in predatory tribes who take by force the food, clothing and
@@ -3087,7 +3087,7 @@ for the earlier motive, the discovery and exploration of new lands.
   domesticates and turns to his own use the gentler and more powerful
   animals, such as sheep, cattle, horses, camels, but even turns some
   predatory creatures, like the dog, into a means of defending their
-  natural prey. They hunt the beasts of prey destructive to their
+  natural prey. They [[Hunt|hunt]] the beasts of prey destructive to their
   flocks, and form armed bands for protection against marauders or for
   purposes of aggression on weaker sedentary neighbours. On the fertile
   low grounds along the margins of rivers or in clearings of forests,
@@ -3168,7 +3168,7 @@ for the earlier motive, the discovery and exploration of new lands.
   which a given region can support is very difficult to determine; it
   depends partly on the race and standard of culture of the people,
   partly on the nature and origin of the resources on which they depend,
-  partly on the artificial burdens imposed and very largely on the
+  partly on the artificial [[Burden|burdens]] imposed and very largely on the
   climate. Density of population is measured by the average number of
   people residing on a unit of area; but in order to compare one part of
   the world with another the average should, strictly speaking, be taken
@@ -3186,7 +3186,7 @@ for the earlier motive, the discovery and exploration of new lands.
     |                    | of pop. |                   | of pop. |
     +--------------------+---------+-------------------+---------+
     | (Saxony)           |   743*  | Ceylon            |  141**  |
-    | Belgium            |   589*  | Greece            |   97    |
+    | [[Belgium]]            |   589*  | Greece            |   97    |
     | Java               |   568** | European Turkey   |   90    |
     | (England and Wales)|   558   | Spain             |   97    |
     | (Bengal)           |   495** | European Russia   |   55**  |
@@ -3219,14 +3219,14 @@ for the earlier motive, the discovery and exploration of new lands.
   the withering of pastures or destruction of agricultural land, to
   inundation, earthquake, pestilence or to an excess of population over
   means of support; or to artificial causes, such as the wholesale
-  deportation of a conquered people; or to political or religious
+  [[Deportation|deportation]] of a conquered people; or to political or religious
   persecution. In any case the people are driven out by some adverse
   change; and when the urgency is great they may require to drive out in
   turn weaker people who occupy a desirable territory, thus propagating
   the wave of migration, the direction of which is guided by the forms
   of the land into inevitable channels. Many of the great historic
   movements of peoples were doubtless due to the gradual change of
-  geographical or climatic conditions; and the slow desiccation of
+  geographical or climatic conditions; and the slow [[Desiccation|desiccation]] of
   Central Asia has been plausibly suggested as the real cause of the
   peopling of modern Europe and of the medieval wars of the Old World,
   the theatres of which were critical points on the great natural lines
@@ -3288,7 +3288,7 @@ for the earlier motive, the discovery and exploration of new lands.
   left purposely without inhabitants, like the mark, marches or
   debatable lands of the middle ages, was once a common means of
   separating nations which nourished hereditary grievances. The
-  "buffer-state" of modern diplomacy is of the same ineffectual type. A
+  "buffer-state" of modern [[Diplomacy|diplomacy]] is of the same ineffectual type. A
   less definite though very practical boundary is that formed by the
   meeting-line of two languages, or the districts inhabited by two
   races. The line of fortresses protecting Austria from Italy lies in
@@ -3339,7 +3339,7 @@ for the earlier motive, the discovery and exploration of new lands.
   units include kingdoms, at least three minor types of monarchies,
   municipalities and a crown land under a nominated governor), or the
   United States, where the units are democratic republics. The ultimate
-  cause of the predominant form of federal government may be the
+  cause of the predominant form of [[Federal Government|federal government]] may be the
   geographical diversity of the country, as in the cantons occupying the
   once isolated mountain valleys of Switzerland, the racial diversity of
   the people, as in Austria-Hungary, or merely political expediency, as
@@ -3382,7 +3382,7 @@ for the earlier motive, the discovery and exploration of new lands.
   through passes in the mountains. In exceptional cases obstructions
   which it would be impossible or too costly to turn are overcome by a
   bridge or tunnel, the magnitude of such works increasing with the
-  growth of engineering skill and financial enterprise. Similarly the
+  growth of [[Engineering|engineering]] skill and financial enterprise. Similarly the
   obstructions offered to water communication by interruption through
   land or shallows are overcome by cutting canals or dredging out
   channels. The economy and success of most lines of communication
@@ -3478,7 +3478,7 @@ FOOTNOTES:
     expressed by many writers in a somewhat voluminous literature.
 
   [11] H. Wagner's year-book, _Geographische Jahrbuch_, published at
-    Gotha, is the best systematic record of the progress of geography in
+    [[Gotha]], is the best systematic record of the progress of geography in
     all departments; and Haack's _Geographen Kalender_, also published
     annually at Gotha, gives complete lists of the geographical societies
     and geographers of the world.
@@ -3522,7 +3522,7 @@ FOOTNOTES:
   [22] _Das Antlitz der Erde_ (4 vols., Leipzig, 1885, 1888, 1901).
     Translated under the editorship of E. de Margerie, with much
     additional matter, as _La Face de la terre_, vols. i. and ii. (Paris,
-    1897, 1900), and into English by Dr Hertha Sollas as _The Face of the
+    1897, 1900), and into English by Dr [[Hertha]] Sollas as _The Face of the
     Earth_, vols. i. and ii. (Oxford, 1904, 1906).
 
   [23] Elie de Beaumont, _Notice sur les systemes de montagnes_ (3
@@ -3532,7 +3532,7 @@ FOOTNOTES:
 
   [25] See J.W. Gregory, "The Plan of the Earth and its Causes," _Geog.
     Journal_, xiii. (1899) p. 225; Lord Avebury, _ibid._ xv. (1900) p.
-    46; Marcel Bertrand, "Deformation tetraedrique de la terre et
+    46; [[Marcel]] [[Bertrand]], "Deformation tetraedrique de la terre et
     deplacement du pole," _Comptes rendus Acad. Sci._ (Paris, 1900), vol.
     cxxx. p. 449; and A. de Lapparent, _ibid._ p. 614.
 
@@ -3542,7 +3542,7 @@ FOOTNOTES:
   [27] _Rumpf_, in German, the language in which this distinction was
     first made.
 
-  [28] _Lehrbuch der Geographie_ (Hanover and Leipzig, 1900), Bd. i. S.
+  [28] _Lehrbuch der Geographie_ ([[Hanover]] and Leipzig, 1900), Bd. i. S.
     245, 249.
 
   [29] See, for example, F.G. Hahn's _Insel-Studien_ (Leipzig, 1883).
@@ -3555,7 +3555,7 @@ FOOTNOTES:
     and above all A. Penck, _Morphologie der Erdoberflache_ (2 vols.,
     Stuttgart, 1894). Compare also A. de Lapparent, _Lecons de geographie
     physique_ (2nd ed., Paris, 1898), and W.M. Davis, _Physical
-    Geography_ (Boston, 1899).
+    Geography_ ([[Boston]], 1899).
 
   [32] "Geomorphologie als genetische Wissenschaft," in _Report of
     Sixth International Geog. Congress_ (London, 1895), p. 735 (English
@@ -3589,14 +3589,14 @@ FOOTNOTES:
 
   [40] See, for instance, E. Wisotzki, _Hauptfluss und Nebenfluss_
     (Stettin, 1889). For practical studies see official reports on the
-    Mississippi, Rhine, Seine, Elbe and other great rivers.
+    Mississippi, Rhine, Seine, [[Elbe]] and other great rivers.
 
   [41] F.A. Forel, _Handbuch der Seenkunde: allgemeine Limnologie_
     (Stuttgart, 1901); F.A. Forel, "La Limnologie, branche de la
     geographie," _Report VI. Int. Geog. Congress_ (London, 1895), p. 593;
     also _Le Leman_ (2 vols., Lausanne, 1892, 1894); H. Lullies, "Studien
     uber Seen," _Jubilaumsschrift der Albertus-Universitat_ (Konigsberg,
-    1894); and G.R. Credner, "Die Reliktenseen," _Petermanns
+    1894); and G.R. [[Credner]], "Die Reliktenseen," _Petermanns
     Mitteilungen_, Erganzungshefte 86 and 89 (Gotha., 1887, 1888).
 
   [42] J. Murray, "Drainage Areas of the Continents," _Scot. Geog.
@@ -3630,7 +3630,7 @@ FOOTNOTES:
     large-scale atlases, _Atlas of Scotland_ and _Atlas of England_.
 
   [51] For the history of territorial changes in Europe, see Freeman,
-    _Historical Geography of Europe_, edited by Bury (Oxford), 1903; and
+    _Historical Geography of Europe_, edited by [[Bury]] (Oxford), 1903; and
     for the official definition of existing boundaries, see Hertslet,
     _The Map of Europe by Treaty_ (4 vols., London, 1875, 1891); _The Map
     of Africa by Treaty_ (3 vols., London, 1896). Also Lord Curzon's
@@ -3647,7 +3647,7 @@ FOOTNOTES:
     environment is handled by G.P. Marsh in _Man and Nature, or Physical
     Geography as modified by Human Action_ (London, 1864).
 
-  [54] For commercial geography see G.G. Chisholm, _Manual of
+  [54] For commercial geography see G.G. Chisholm, _[[Manual]] of
     Commercial Geography_ (1890).
 
 ## See also

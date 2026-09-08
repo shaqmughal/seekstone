@@ -61,7 +61,7 @@ _Fringillidae_ which it is convenient to consider in this article in an
 alphabetical arrangement.
 
 Of the Bullfinches the best known is the familiar bird (_Pyrrhula_
-_europaea_). The varied plumage of the cock--his bright red breast and
+_europaea_). The varied plumage of the cock--his bright red [[Breast|breast]] and
 his grey back, set off by his coal-black head and quills--is naturally
 attractive; while the facility with which he is tamed, with his engaging
 disposition in confinement, makes him a popular cage-bird,--to say

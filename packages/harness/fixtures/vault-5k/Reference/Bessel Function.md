@@ -1,7 +1,7 @@
 # Bessel Function
 
 BESSEL FUNCTION, a certain mathematical relation between two variables.
-The _Bessel function of order m_ satisfies the differential equation
+The _Bessel function of order m_ satisfies the differential [[Equation|equation]]
 
     d^2u       1     du      /      m^2   \
   -------- + ----- ------ + ( 1 - -------  ) u = 0,
@@ -23,11 +23,11 @@ to the series
 O. Schlomilch defines these functions as the coefficients of the power
 of t in the expansion of exp 1/2[rho](t - t^(-1)). The symbol generally
 adopted to represent these functions is J_m([rho]) where m denotes the
-order of the function. These functions are named after Friedrich Wilhelm
+order of the function. These functions are named after [[Friedrich]] Wilhelm
 Bessel, who in 1817 introduced them in an investigation on Kepler's
 Problem. He discussed their properties and constructed tables for their
 evaluation. Although Bessel was the first to systematically treat of
-these functions, it is to be noted that in 1732 Daniel Bernoulli
+these functions, it is to be noted that in 1732 [[Daniel]] Bernoulli
 obtained the function of zero order as a solution to the problem of the
 oscillations of a chain suspended at one end. This problem has been more
 fully discussed by Sir A.G. Greenhill. In 1764 Leonhard Euler employed
@@ -56,7 +56,7 @@ Rayleigh.
 For the mathematical investigation see SPHERICAL HARMONICS and for
 tables see TABLE, MATHEMATICAL.
 
-  See A. Gray and G.B. Matthews, _Treatise on Bessel's Functions_
+  See A. Gray and G.B. [[Matthew|Matthews]], _Treatise on Bessel's Functions_
   (1895); _Encyclopadie der math. Wissenschaften_; F.W. Bessel,
   _Untersuchung des Teils der planetarischen Storungen_ (1824).
 

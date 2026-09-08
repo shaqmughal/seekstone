@@ -19,14 +19,14 @@ race, 21,838 were of the yellow race, 7943 were of the white race, and
 foreign-born), and 4564 were of mixed races; of the same total 131,659,
 or nearly 60% were males. The foreign-born in 1903 numbered 29,491,
 comprising 21,083 natives of China, 4300 natives of the United States of
-America, 2065 natives of Spain, and 721 natives of Japan. Nearly all of
+America, 2065 natives of Spain, and 721 natives of [[Japan]]. Nearly all of
 the brown race were native-born, and 80.6% of them were Tagalogs.
 
 The city covers an area of about 20 sq. m. of low ground, through which
-flow the Pasig river and several _esteros_, or tidewater creeks. To the
+flow the Pasig river and several _esteros_, or tidewater [[Creek|creeks]]. To the
 west is the broad expanse of Manila Bay, beyond which are the rugged
 Mariveles Mountains; to the eastward the city extends about half-way to
-Laguna de Bay, a lake nearly as large as Manila Bay and surrounded on
+[[Laguna]] de Bay, a lake nearly as large as Manila Bay and surrounded on
 three sides by mountains. On the south bank of the Pasig and fronting
 the bay for nearly a mile is the "Ancient City," or Intramuros, enclosed
 by walls 2½ m. long, with a maximum height of 25 ft., built about 1590.
@@ -44,12 +44,12 @@ Intramuros is the Bridge of Spain, a stone structure across the Pasig,
 leading to Binondo, the principal shopping and financial district; here
 is the Escolta, the most busy thoroughfare of the city, and the Rosario,
 noted for its Chinese shops. Between Binondo and the bay is San
-Nicholas, with the United States custom-house and large shipping
+Nicholas, with the United States [[Custom-House|custom-house]] and large shipping
 interests. North of San Nicholas is Tondo, the most densely populated
 district; in the suburbs, outside the fire limits, the greater part of
-the inhabitants live in native houses of bamboo frames roofed and sided
+the inhabitants live in native houses of bamboo [[Frame|frames]] roofed and sided
 with nipa palm, and the thoroughfares consist of narrow streets and
-navigable streams. Paco, south-west of Intramuros, has some large cigar
+navigable streams. Paco, south-west of Intramuros, has some large [[Cigar|cigar]]
 factories, and a large cemetery where the dead are buried in niches in
 two concentric circular walls. Ermita and Malate along the bay in the
 south part of the city, San Miguel on the north bank of the river above
@@ -60,7 +60,7 @@ residential districts.
   Miguel, where there are several handsome villas along the river front,
   among them that of the governor-general of the Philippines. The better
   sort of houses in Manila have two storeys, the lower one built of
-  brick or stone and the upper one of wood, roofed with red Spanish tile
+  [[Brick|brick]] or stone and the upper one of wood, roofed with red Spanish tile
   or with corrugated iron; the upper storey contains the living-rooms,
   and the lower has servants' rooms, storehouses, stables,
   carriage-houses and poultry yards. On account of the warm climate the
@@ -73,10 +73,10 @@ residential districts.
   are, however, some churches with graceful towers and beautiful façades
   and a few attractive monuments; among the latter are one standing on
   the Magellan Plaza (Plaza or Paseo de Magellanes) beside the Pasig, to
-  the memory of Ferdinand Magellan, the discoverer of the islands; and
+  the memory of [[Ferdinand]] Magellan, the discoverer of the islands; and
   another by A. Querol on the shore of the bay, to the memory of Don
   Miguel de Legaspi (d. 1572), the founder of the Spanish city, and of
-  Andres de Urdaneta (1498-1568), the Augustinian friar who accompanied
+  Andres de Urdaneta (1498-1568), the Augustinian [[Friar|friar]] who accompanied
   Legaspi to Cebu (but not to what is now Manila).
 
 Many improvements have been made in and about the city since the
@@ -110,7 +110,7 @@ from the shore; a system of gravity waterworks (1908) whereby the city's
 water supply is taken from the Mariquina river about 23 m. from the city
 into a storage reservoir which has a capacity of 2,000,000,000 gallons
 and is 212 ft. above the sea; the extension of the Luneta, the principal
-pleasure-ground; a boulevard for several miles along the bay; a
+pleasure-ground; a [[Boulevard|boulevard]] for several miles along the bay; a
 botanical garden; and new market buildings.
 
   _Climate._--Manila has a spring and summer hot season, an autumn and
@@ -152,8 +152,8 @@ botanical garden; and new market buildings.
   school, the Philippine normal school (1901), the Philippine school of
   arts and trades (1901), the Philippine medical school (1907) and the
   Philippine school of commerce (1908). The Philippine government also
-  maintains here a bureau of science which publishes the monthly
-  _Philippine Journal of Science_, and co-operates with the Jesuits in
+  maintains here a [[Bureau|bureau]] of science which publishes the monthly
+  _Philippine Journal of Science_, and co-operates with the [[Jesuits]] in
   maintaining, in Ermita, the Manila observatory (meteorological,
   seismological and astronomical), which is one of the best equipped
   institutions of the kind in the East. The royal and pontifical
@@ -195,16 +195,16 @@ botanical garden; and new market buildings.
   Spanish rule. Manila is the greatest hemp market in the world; 110,399
   tons, valued at $19,444,769, were exported from the archipelago in
   1906, almost all being shipped from Manila. Other important exports
-  are sugar, copra and tobacco. The imports represent a great variety of
+  are sugar, [[Copra|copra]] and tobacco. The imports represent a great variety of
   food stuffs and manufactured articles. In 1906 the total value of the
   exports was $23,902,986 and the total value of the imports was
   $21,868,257. The coastwise trade is large. The principal manufactures
   are tobacco, cigars, cigarettes, malt liquors, distilled liquors,
-  cotton fabrics, clothing, ice, lumber, foundry and machine shop
+  cotton fabrics, clothing, [[Ice|ice]], lumber, foundry and [[Machine|machine]] shop
   products, carriages, waggons, furniture and boots and shoes. There is
   some ship and boat building. Lumber is sawed by steam power, and
   cotton mills in the Tondo district are operated by steam. In the
-  foundries and machine shops small engines, boilers and church bells
+  foundries and machine shops small engines, [[Boiler|boilers]] and church bells
   are made, and the government maintains an ice and cold-storage plant.
   With these exceptions manufacturing is in a rather primitive state.
   Another industry of importance, especially in the district of Tondo,
@@ -218,14 +218,14 @@ five members, of whom three are appointed by the governor of the
 Philippines by the advice and with the consent of the Philippine
 commission, and the others are the president of the advisory board and
 the city engineer. The administration is divided into eight departments:
-engineering and public works; sewer and waterworks construction;
-sanitation and transportation; assessments and collections; police,
+[[Engineering|engineering]] and public works; sewer and waterworks construction;
+sanitation and transportation; [[Assessment|assessments]] and collections; police,
 fire, law and schools. There are no elective offices, but there is an
 advisory board, appointed by the governor and consisting of one member
 from each of eleven districts; its recommendations the municipal board
 must seek on all important matters. The administration of justice is
 vested in a municipal court and in one court under justices of the peace
-and auxiliary justices; the administration of school affairs is vested
+and [[Auxiliary|auxiliary]] justices; the administration of school affairs is vested
 in a special board of six members; and matters pertaining to health are
 administered by the insular bureau of health.
 
@@ -240,8 +240,8 @@ of Chinese pirates who greatly outnumbered the Spaniards. About 1590 the
 construction of the present walls and other defences was begun. At the
 beginning of the 17th century Manila had become the commercial
 metropolis of the Far East. To it came fleets from China, Japan, India,
-Malacca and other places in the Far East for an exchange of wares, and
-from it rich cargoes were sent by way of Mexico to the mother country in
+[[Malacca]] and other places in the Far East for an [[Exchange|exchange]] of wares, and
+from it rich [[Cargo|cargoes]] were sent by way of Mexico to the mother country in
 exchange for much cheaper goods. Before the close of the century,
 however, a decline began, from which there was but little recovery under
 Spanish rule. Several causes contributed to this, among them the waning
@@ -251,7 +251,7 @@ pirates, and the growth of Dutch commerce. On several occasions the city
 has been visited with destructive earthquakes; those of 1645 and 1863
 were especially disastrous. In 1762, during war between England and
 Spain, an English force under Vice-Admiral Sir Samuel Cornish (d. 1770)
-and Lieut.-General Sir William Draper (1721-1787) breached the walls and
+and Lieut.-General Sir William [[Draper]] (1721-1787) breached the walls and
 captured the city, but by the Treaty of Paris (1763) it was returned to
 Spain. In 1837 the port of Manila was opened to foreign trade, and there
 was a steady but slow increase in prosperity up to about 1890. During

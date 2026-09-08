@@ -8,21 +8,21 @@ topic: art
 
 JORIS, DAVID, the common name of JAN JORISZ or JORISZOON (c. 1501-1556),
 Anabaptist heresiarch who called himself later JAN VAN BRUGGE; was born
-in 1501 or 1502, probably in Flanders, at Ghent or Bruges. His father,
+in 1501 or 1502, probably in Flanders, at [[Ghent]] or Bruges. His father,
 Georgius Joris de Koman, otherwise Joris van Amersfoordt, probably a
 native of Bruges, was a shopkeeper and amateur actor at Delft; from the
 circumstance that he played the part of King David, his son received the
 name of David, but probably not in baptism. His mother was Marytje,
 daughter of Jan de Gorter, of a good family in Delft. As a child he was
-clever and delicate. He seems then or later to have acquired some
+[[Clever|clever]] and delicate. He seems then or later to have acquired some
 tincture of learning. His first known occupation was that of a
-glass-painter; in 1522 he painted windows for the church at Enkhuizen,
+glass-painter; in 1522 he painted windows for the church at [[Enkhuizen]],
 North Holland (the birthplace of Paul Potter). In pursuit of his art he
 travelled, and is said to have reached England; ill-health drove him
 homewards in 1524, in which year he married Dirckgen Willems at Delft.
 In the same year the Lutheran reformation took hold of him, and he began
 to issue appeals in prose and verse against the Mass and against the
-pope as antichrist. On Ascension Day 1528 he committed an outrage on the
+pope as [[Antichrist|antichrist]]. On Ascension Day 1528 he committed an outrage on the
 sacrament carried in procession; he was placed in the pillory, had his
 tongue bored, and was banished from Delft for three years. He turned to
 the Anabaptists, was rebaptized in 1533, and for some years led a
@@ -33,7 +33,7 @@ August 1536 he played a mediating part. His mother, in 1537, suffered
 martyrdom as an Anabaptist. Soon after he took up a rôle of his own,
 having visions and a gift of prophecy. He adapted in his own interest
 the theory (constantly recurrent among mystics and innovators, from the
-time of Abbot Joachim to the present day) of three dispensations, the
+time of Abbot Joachim to the present day) of three [[Dispensation|dispensations]], the
 old, with its revelation of the Father, the newer with its revelation of
 the Son, and the final or era of the Spirit. Of this newest revelation
 Christus David was the mouthpiece, supervening on Christus Jesus. From
@@ -54,9 +54,9 @@ monogram, and probably drawn as a likeness of himself; it fairly
 corresponds with the alleged portrait, engraved in 1607, reproduced in
 the appendix to A. Ross's _Pansebeia_ (1655), and idealized by P.
 Burckhardt in 1900. Another work, _Verklaringe der Scheppenissen_ (1553)
-treats mystically the book of Genesis, a favourite theme with Boehme,
+treats mystically the book of [[Genesis]], a favourite theme with Boehme,
 Swedenborg and others. His remaining writings exhibit all that easy
-dribble of triumphant muddiness which disciples take as depth. His wife
+dribble of triumphant muddiness which [[Disciple|disciples]] take as depth. His wife
 died on the 22nd of August, and his own death followed on the 25th of
 August 1556. He was buried, with all religious honours, in the church of
 St Leonard, Basel. Three years later, Nicolas Blesdijk, who had married

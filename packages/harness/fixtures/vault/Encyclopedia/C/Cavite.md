@@ -8,7 +8,7 @@ topic: philosophy
 
 CAVITE, a fortified seaport, the capital of the province of Cavite,
 Luzon, Philippine Islands, and the seat of the principal Asiatic naval
-station of the United States, on a forked tongue of land in Manila Bay,
+station of the United States, on a forked tongue of land in [[Manila]] Bay,
 8 m. S. of the city of Manila. Pop. (1903) 4494; with the barrios of San
 Roque and Caridad (on the main peninsula), which are under the municipal
 government of Cavite (15,630). Cavite is the terminus of a railway which

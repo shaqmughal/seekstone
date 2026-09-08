@@ -8,9 +8,9 @@ type: source
 # Decazeville
 
 DECAZEVILLE, a town of south-central France, in the department of
-Aveyron, 34 m. N.W. of Rodez by the Orleans railway. Pop. (1906) 9749.
+[[Aveyron]], 34 m. N.W. of Rodez by the Orleans railway. Pop. (1906) 9749.
 It possesses iron mines and is the centre of the coal-fields of the
-Aveyron, which supply the ironworks established by the Duc Decazes,
+Aveyron, which supply the ironworks established by the Duc [[Decazes]],
 minister of Louis XVIII. A statue commemorates the founder.
 
 ## See also

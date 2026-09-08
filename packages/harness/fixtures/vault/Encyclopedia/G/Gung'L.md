@@ -8,11 +8,11 @@ bandmaster of the 4th regiment of Austrian artillery. His first
 composition, a Hungarian march, written in 1836, attracted some notice,
 and in 1843 he was able to establish an orchestra in Berlin. With this
 band he travelled far, even (in 1849) to America. It is worth recording
-that Mendelssohn's complete _Midsummer Night's Dream_ music is said to
+that Mendelssohn's complete _Midsummer Night's [[Dream]]_ music is said to
 have been first played by Gung'l's band. In 1853 he became bandmaster to
 the 23rd Infantry Regiment at Brunn, but in 1864 he lived at Munich, and
-in 1876 at Frankfort, after (in 1873) having conducted with great
-success a series of promenade concerts at Covent Garden, London. From
+in 1876 at [[Frankfort]], after (in 1873) having conducted with great
+success a series of promenade [[Concert|concerts]] at Covent Garden, London. From
 Frankfort Gung'l went to Weimar to live with his daughter, a well-known
 German opera singer and local prima donna. There he died, on the 31st of
 January 1889. Gung'l's dances number over 300, perhaps the most popular

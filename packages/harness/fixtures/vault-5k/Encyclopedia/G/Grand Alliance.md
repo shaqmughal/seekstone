@@ -1,7 +1,7 @@
 # Grand Alliance
 
 GRAND ALLIANCE, WAR OF THE (alternatively called the War of the League
-of Augsburg), the third[1] of the great aggressive wars waged by Louis
+of [[Augsburg]]), the third[1] of the great aggressive wars waged by Louis
 XIV. of France against Spain, the Empire, Great Britain, Holland and
 other states. The two earlier wars, which are redeemed from oblivion by
 the fact that in them three great captains, Turenne, Conde and
@@ -28,7 +28,7 @@ Years' War; and even in the War of the Grand Alliance (in its earlier
 years) occasional brutalities and devastations showed that the old
 spirit died hard. But outrages that would have been borne in dumb misery
 in the old days now provoked loud indignation, and when the fierce
-Louvois disappeared from the scene it became generally understood that
+[[Louvois]] disappeared from the scene it became generally understood that
 barbarity was impolitic, not only as alienating popular sympathies, but
 also as rendering operations a physical impossibility for want of
 supplies.
@@ -37,13 +37,13 @@ supplies.
   Character of the war.
 
 Thus in 1700, so far from terrorizing the country people into
-submission, armies systematically conciliated them by paying cash and
+submission, armies systematically conciliated them by paying [[Cash|cash]] and
 bringing trade into the country. Formerly, wars had been fought to
 compel a people to abjure their faith or to change sides in some
 personal or dynastic quarrel. But since 1648 this had no longer been the
 case. The Peace of Westphalia established the general relationship of
 kings, priests and peoples on a basis that was not really shaken until
-the French Revolution, and in the intervening hundred and forty years
+the [[French Revolution]], and in the intervening hundred and forty years
 the peoples at large, except at the highest and gravest moments (as in
 Germany in 1689, France In 1709 and Prussia in 1757) held aloof from
 active participation in politics and war. This was the beginning of the
@@ -52,14 +52,14 @@ intervention in it by the civil population was a punishable offence.
 Thus wars became the business of the professional soldiers in the king's
 own service, and the scarcity and costliness of these soldiers combined
 with the purely political character of the quarrels that arose to reduce
-a campaign from an "intense and passionate drama" to a humdrum affair,
+a campaign from an "intense and passionate [[Drama|drama]]" to a humdrum affair,
 to which only rarely a few men of genius imparted some degree of vigour,
 and which in the main was an attempt to gain small ends by a small
 expenditure of force and with the minimum of risk. As between a prince
 and his subjects there were still quarrels that stirred the average
 man--the Dragonnades, for instance, or the English Revolution--but
 foreign wars were "a stronger form of diplomatic notes," as Clausewitz
-called them, and were waged with the object of adding a codicil to the
+called them, and were waged with the object of adding a [[Codicil|codicil]] to the
 treaty of peace that had closed the last incident.
 
 Other causes contributed to stifle the former ardour of war. Campaigns
@@ -95,7 +95,7 @@ brought up from the home country and stored in magazines (which had to
 be guarded) or on local resources, an army had as a rule to maintain or
 to capture a large fortress. Sieges, therefore, and manoeuvres are the
 features of this form of war, wherein armies progressed not with the
-giant strides of modern war, but in a succession of short hops from one
+[[Giant|giant]] strides of modern war, but in a succession of short hops from one
 foothold to the next. This was the procedure of the average commander,
 and even when a more intense spirit of conflict was evoked by the
 Luxemburgs and Marlboroughs it was but momentary and spasmodic.
@@ -108,7 +108,7 @@ interest for modern readers.
 In pursuance of a new aggressive policy in Germany Louis XIV. sent his
 troops, as a diplomatic menace rather than for conquest, into that
 country in the autumn of 1688. Some of their raiding parties plundered
-the country as far south as Augsburg, for the political intent of their
+the country as far south as Augsburg, for the political [[Intent|intent]] of their
 advance suggested terrorism rather than conciliation as the best method.
 The league of Augsburg at once took up the challenge, and the addition
 of new members (Treaty of Vienna, May 1689) converted it into the "Grand
@@ -137,7 +137,7 @@ In 1689 Louis had six armies on foot. That in Germany, which had
 executed the raid of the previous autumn, was not in a position to
 resist the principal army of the coalition so far from support. Louvois
 therefore ordered it to lay waste the Palatinate, and the devastation of
-the country around Heidelberg, Mannheim, Spires, Oppenheim and Worms was
+the country around Heidelberg, [[Mannheim]], Spires, Oppenheim and Worms was
 pitilessly and methodically carried into effect in January and February.
 There had been devastations in previous wars, even the high-minded
 Turenne had used the argument of fire and sword to terrify a population
@@ -146,7 +146,7 @@ war had been one of incendiary armies leaving traces of their passage
 that it took a century to remove. But here the devastation was a purely
 military measure, executed systematically over a given strategic front
 for no other purpose than to delay the advance of the enemy's army. It
-differed from the method of Turenne or Cromwell in that the sufferers
+differed from the method of Turenne or [[Cromwell]] in that the sufferers
 were not those people whom it was the purpose of the war to reduce to
 submission, but others who had no interest in the quarrel. It differed
 from Wellington's laying waste of Portugal in 1810 in that it was not
@@ -167,10 +167,10 @@ out on the east side of the middle Rhine, and he could think of nothing
 better to do than to go farther south and to ravage Baden and the
 Breisgau, which was not even a military necessity. The grand army of the
 Allies, coming farther north, was practically unopposed. Charles of
-Lorraine and the elector of Bavaria--lately comrades in the Turkish war
-(see below)--invested Mainz, the elector of Brandenburg Bonn. The
+[[Lorraine]] and the elector of Bavaria--lately comrades in the Turkish war
+(see below)--invested Mainz, the elector of Brandenburg [[Bonn]]. The
 latter, following the evil precedent of his enemies, shelled the town
-uselessly instead of making a breach in its walls and overpowering its
+uselessly instead of making a [[Breach|breach]] in its walls and overpowering its
 French garrison, an incident not calculated to advance the nascent idea
 of German unity. Mainz, valiantly defended by Nicolas du Ble, marquis
 d'Uxelles, had to surrender on the 8th of September. The governor of
@@ -215,12 +215,12 @@ uneventfully.
   lasted 105 days. In marked contrast to the sieges of the continent,
   this was resisted by the townsmen themselves, under the leadership of
   the clergyman George Walker. But the relieving force (consisting of
-  two frigates, a supply ship and a force under Major-general Percy
-  Kirke) was dilatory, and it was not until the defenders were in the
-  last extremity that Kirke actually broke through the blockade (July
+  two [[Frigate|frigates]], a supply ship and a force under Major-general Percy
+  [[Kirke]]) was dilatory, and it was not until the defenders were in the
+  last extremity that Kirke actually broke through the [[Blockade|blockade]] (July
   31st). Enniskillen was less closely invested, and its inhabitants,
   organized by Colonel Wolseley and other officers sent by Kirke,
-  actually kept the open field and defeated the Jacobites at Newtown
+  actually kept the open field and defeated the [[Jacobites]] at Newtown
   Butler (July 31st). A few days later the Jacobite army withdrew from
   the north. But it was long before an adequate army could be sent over
   from England to deal with it. Marshal Schomberg (q.v.), one of the
@@ -228,7 +228,7 @@ uneventfully.
   the French service as a Huguenot, was indeed sent over in August, but
   the army he brought, some 10,000 strong, was composed of raw recruits,
   and when it was assembled in camp at Dundalk to be trained for its
-  work, it was quickly ruined by an epidemic of fever. But James failed
+  work, it was quickly ruined by an epidemic of [[Fever|fever]]. But James failed
   to take advantage of his opportunity to renew the war in the north,
   and the relics of Schomberg's army wintered in security, covered by
   the Enniskillen troops. In the spring of 1690, however, more troops,
@@ -242,7 +242,7 @@ uneventfully.
   but the Irish army was routed.
 
   No stand was made by the defeated party either in the Dublin or in the
-  Waterford district. Lauzun, the commander of the French auxiliary
+  Waterford district. Lauzun, the commander of the French [[Auxiliary|auxiliary]]
   corps in James's army, and Tyrconnel both discountenanced any attempt
   to defend Limerick, where the Jacobite forces had reassembled; but
   Patrick Sarsfield (earl of Lucan), as the spokesman of the younger and
@@ -306,7 +306,7 @@ duchy ceased to be a direct object of the war.
 
 Luxemburg began operations by drawing in from the Sambre country, where
 he had hitherto been stationed, to the Scheldt and "eating up" the
-country between Oudenarde and Ghent in the face of a Spanish army
+country between Oudenarde and [[Ghent]] in the face of a Spanish army
 concentrated at the latter place (15th May-12th June). He then left
 Humieres with a containing force in the Scheldt region and hurried back
 to the Sambre to interpose between the Allied army under Waldeck and the
@@ -316,10 +316,10 @@ skill--the _locus classicus_ for the maxim that ruled till the advent of
 Napoleon--"march always in the order in which you encamp, or purpose to
 encamp, or fight." For four days the army marched across country in
 close order, covered in all directions by reconnoitring cavalry and
-advanced, flank and rear guards. Under these conditions eleven miles a
+advanced, flank and rear [[Guards|guards]]. Under these conditions eleven miles a
 day was practically forced marching, and on arriving at
 Jeumont-sur-Sambre the army was given three days' rest. Then followed a
-few leisurely marches in the direction of Charleroi, during which a
+few leisurely marches in the direction of [[Charleroi]], during which a
 detachment of Boufflers's army came in, and the cavalry explored the
 country to the north. On news of the enemy's army being at Trazegnies,
 Luxemburg hurried across a ford of the Sambre above Charleroi, but this
@@ -354,15 +354,15 @@ scanty territory only by siding with Louis. In view of this doubtful
 condition of affairs the French army under Catinat had for some time
 been maintained on the Alpine frontier, and in the summer of 1690 Louis
 XIV. sent an ultimatum to Victor Amadeus to compel him to take one side
-or the other actively and openly. The result was that Victor Emmanuel
-threw in his lot with the Allies and obtained help from the Spaniards
+or the other actively and openly. The result was that Victor [[Emmanuel]]
+threw in his [[Lot|lot]] with the Allies and obtained help from the Spaniards
 and Austrians in the Milanese. Catinat thereupon advanced into Piedmont,
 and won, principally by virtue of his own watchfulness and the high
 efficiency of his troops, the important victory of Staffarda (August
 18th, 1690). This did not, however, enable him to overrun Piedmont, and
 as the duke was soon reinforced, he had to be content with the
 methodical conquest of a few frontier districts. On the side of Spain, a
-small French army under the duc de Noailles passed into Catalonia and
+small French army under the duc de Noailles passed into [[Catalonia]] and
 there lived at the enemy's expense for the duration of the campaign.
 
 In these theatres of war, and on the Rhine, where the disunion of the
@@ -382,7 +382,7 @@ first concentrated to the south of Namur, and Luxemburg hurried thither,
 but neither party found any tempting opportunity for battle, and when
 the cavalry had consumed all the forage available in the district, the
 two armies edged away gradually towards Flanders. The war of manoeuvre
-continued, with a slight balance of advantage on Luxemburg's side,
+continued, with a slight [[Balance|balance]] of advantage on Luxemburg's side,
 until September, when William returned to England, leaving Waldeck in
 command of the Allied army, with orders to distribute it in winter
 quarters amongst the garrison towns. This gave the momentary opportunity
@@ -394,7 +394,7 @@ In 1692[2] the Rhine campaign was no more decisive than before, although
 Lorge made a successful raid into Wurttemberg in September and foraged
 his cavalry in German territory till the approach of winter. The Spanish
 campaign was unimportant, but on the Alpine side the Allies under the
-duke of Savoy drove back Catinat into Dauphine, which they ravaged with
+duke of Savoy drove back Catinat into [[Dauphine]], which they ravaged with
 fire and sword. But the French peasantry were quicker to take arms than
 the Germans, and, inspired by the local gentry--amongst whom figured the
 heroine, Philis de la Tour du Pin (1645-1708), daughter of the marquis
@@ -412,7 +412,7 @@ behind them, they retreated.
 In the Low Countries the campaign as before began with a great siege.
 Louis and Vauban invested Namur on the 26th of May. The place was
 defended by the prince de Barbancon (who had been governor of Luxemburg
-when that place was besieged in 1684) and Coehoorn (q.v.), Vauban's
+when that place was besieged in 1684) and [[Coehoorn]] (q.v.), Vauban's
 rival in the science of fortification. Luxemburg, with a small army,
 manoeuvred to cover the siege against William III.'s army at Louvain.
 The place fell on the 5th of June,[3] after a very few days of Vauban's
@@ -454,7 +454,7 @@ Tourville, and Catinat, the _roturier_, to the marshalship, and founded
 the military order of St Louis on the 10th of April. The grand army in
 the Netherlands this year numbered 120,000, to oppose whom William III.
 had only some 40,000 at hand. But at the very beginning of operations
-Louis, after reviewing this large force at Gembloux, broke it up, in
+Louis, after reviewing this large force at [[Gembloux]], broke it up, in
 order to send 30,000 under the dauphin to Germany, where Lorge had
 captured Heidelberg and seemed able, if reinforced, to overrun south
 Germany. But the imperial general Prince Louis of Baden took up a
@@ -537,12 +537,12 @@ Deums_."
 
   By 1696 necessity had compelled Louis to renounce his vague and
   indefinite offensive policy, and he now frankly restricted his efforts
-  to the maintenance of what he had won in the preceding campaigns. In
+  to the [[Maintenance|maintenance]] of what he had won in the preceding campaigns. In
   this new policy he met with much success. Boufflers, Lorge, Noailles
   and even the incompetent Villeroi held the field in their various
   spheres of operations without allowing the Allies to inflict any
   material injury, and also (by having recourse again to the policy of
-  living by plunder) preserving French soil from the burden of their own
+  living by plunder) preserving French soil from the [[Burden|burden]] of their own
   maintenance. In this, as before, they were powerfully assisted by the
   disunion and divided counsels of their heterogeneous enemies. In
   Piedmont, Catinat crowned his work by making peace and alliance with
@@ -578,7 +578,7 @@ Deums_."
 
   But the course of the war, after the tide of invasion had ebbed,
   differed little from the wars of contemporary western Europe. Turkey
-  figured rather as a factor in the balance of power than as the
+  figured rather as a factor in the [[Balance Of Power|balance of power]] than as the
   "infidel," and although the battles and sieges in Hungary were
   characterized by the bitter personal hostility of Christian to Turk
   which had no counterpart in the West, the war as a whole was as
@@ -639,7 +639,7 @@ one. Ireland was still loyal to King James II., and would therefore have
 afforded an admirable basis of operations to a French fleet. No serious
 attempt was made to profit by the advantage thus presented. In March
 1689 King James was landed and reinforcements were prepared for him at
-Brest. A British squadron under the command of Arthur Herbert
+[[Brest]]. A British squadron under the command of Arthur Herbert
 (afterwards Lord Torrington), sent to intercept them, reached the French
 port too late, and on returning to the coast of Ireland sighted the
 convoy off the Old Head of Kinsale on the 10th of May. The French
@@ -664,7 +664,7 @@ under the earl (afterwards duke) of Marlborough, which took Cork and
 reduced a large part of the south of the island. In 1691 the French did
 little more than help to carry away the wreckage of their allies and
 their own detachments. In 1692 a vigorous but tardy attempt was made to
-employ their fleet to cover an invasion of England (see LA HOGUE, BATTLE
+employ their fleet to cover an invasion of England (see [[La Hogue|LA HOGUE]], BATTLE
 OF). It ended in defeat, and the allies remained masters of the Channel.
 The defeat of La Hogue did not do so much harm to the naval power of
 King Louis as has sometimes been supposed. In the next year, 1693, he
@@ -676,7 +676,7 @@ arrangements of the allied governments and admirals were not good. They
 made no effort to blockade Brest, nor did they take effective steps to
 discover whether or not the French fleet had left the port. The convoy
 was seen beyond the Scilly Isles by the main fleet. But as the French
-admiral Tourville had left Brest for the Straits of Gibraltar with a
+admiral Tourville had left Brest for the Straits of [[Gibraltar]] with a
 powerful force and had been joined by a squadron from Toulon, the whole
 convoy was scattered or taken by him, in the latter days of June, near
 Lagos. But though this success was a very fair equivalent for the defeat
@@ -688,7 +688,7 @@ acting against France. Some of the operations undertaken by them were
 more remarkable for the violence of the effort than for the magnitude of
 the results. The numerous bombardments of French Channel ports, and the
 attempts to destroy St Malo, the great nursery of the active French
-privateers, by infernal machines, did little harm. A British attack on
+privateers, by infernal [[Machine|machines]], did little harm. A British attack on
 Brest in June 1694 was beaten off with heavy loss. The scheme had been
 betrayed by Jacobite correspondents. Yet the inability of the French
 king to avert these enterprises showed the weakness of his navy and the
@@ -711,14 +711,14 @@ or even did much to weaken the French hold on their possessions in the
 West Indies and North America. Some, and notably the attack made on
 Quebec by Sir William Phips in 1690, with a force raised in the British
 colonies, ended in defeat. None of them was so triumphant as the plunder
-of Cartagena in South America by the Frenchman Pointis, in 1697, at the
+of [[Cartagena]] in South America by the Frenchman Pointis, in 1697, at the
 head of a semi-piratical force. Too often there was absolute misconduct.
 In the buccaneering and piratical atmosphere of the West Indies, the
 naval officers of the day, who were still infected with the corruption
 of the reign of Charles II., and who calculated on distance from home to
 secure them immunity, sank nearly to the level of pirates and
-buccaneers. The indifference of the age to the laws of health, and its
-ignorance of them, caused the ravages of disease to be frightful. In the
+[[Buccaneers|buccaneers]]. The indifference of the age to the laws of health, and its
+[[Ignorance|ignorance]] of them, caused the ravages of disease to be frightful. In the
 case of Admiral Nevil's squadron, the admiral himself and all his
 captains except one, died during the cruise, and the ships were
 unmanned. Yet it was their own vices which caused these expeditions to

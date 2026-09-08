@@ -8,10 +8,10 @@ topic: jurisprudence
 
 LINGARD, JOHN (1771-1851), English historian, was born on the 5th of
 February 1771 at Winchester, where his father, of an ancient
-Lincolnshire peasant stock, had established himself as a carpenter. The
+[[Lincolnshire]] peasant stock, had established himself as a carpenter. The
 boy's talents attracted attention, and in 1782 he was sent to the
-English college at Douai, where he continued until shortly after the
-declaration of war by England (1793). He then lived as tutor in the
+English college at [[Douai]], where he continued until shortly after the
+[[Declaration|declaration]] of war by England (1793). He then lived as tutor in the
 family of Lord Stourton, but in October 1794 he settled along with seven
 other former members of the old Douai college at Crook Hall near Durham,
 where on the completion of his theological course he became
@@ -20,10 +20,10 @@ priest, and soon afterwards undertook the charge of the chairs of
 natural and moral philosophy. In 1808 he accompanied the community of
 Crook Hall to the new college at Ushaw, Durham, but in 1811, after
 declining the presidency of the college at Maynooth, he withdrew to the
-secluded mission at Hornby in Lancashire, where for the rest of his life
+secluded mission at [[Hornby]] in Lancashire, where for the rest of his life
 he devoted himself to literary pursuits. In 1817 he visited Rome, where
 he made researches in the Vatican Library. In 1821 Pope Pius VII.
-created him doctor of divinity and of canon and civil law; and in 1825
+created him doctor of divinity and of canon and [[Civil Law|civil law]]; and in 1825
 Leo XII. is said to have made him cardinal _in petto_. He died at Hornby
 on the 17th of July 1851.
 

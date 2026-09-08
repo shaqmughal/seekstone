@@ -1,7 +1,7 @@
 # Diastyle
 
 DIASTYLE (from Gr. [Greek: dia], through, and [Greek: stylos], column),
-in architecture, a term used to designate an intercolumniation of three
+in architecture, a term used to designate an [[Intercolumniation|intercolumniation]] of three
 or four diameters.
 
 
@@ -21,7 +21,7 @@ plants, with the result that the number of known genera and species has
 been greatly increased. Over 10,000 species of diatoms have been
 described, and about 1200 species and numerous varieties occur in the
 fresh waters and on the coasts of Great Britain and Ireland. Rabenhorst,
-in the index to his _Flora Europaea algarum_ (1864) enumerated about
+in the [[Index|index]] to his _Flora Europaea algarum_ (1864) enumerated about
 4000 forms which had up to that time been discovered throughout the
 continent of Europe.
 
@@ -62,15 +62,15 @@ form a brownish stratum on the surface of the mud, or cover the stems
 and leaves of water plants or floating twigs with a furry investment.
 Marine forms are usually attached to various sea-weeds, and many are
 found in the stomachs of molluscs, holothurians, ascidians and other
-denizens of the ocean. The fresh-water forms are specifically distinct
+[[Denizen|denizens]] of the ocean. The fresh-water forms are specifically distinct
 from those incidental to salt or brackish water,--fresh-water species,
 however, are sometimes carried some distance into the sea by the force
 of the current, and in tidal rivers marine forms are carried up by the
 force of the tide. Some notion may be formed of the extreme minuteness
 of these forms from the fact that one the length of which is 1/200th of
-an inch may be considered as beyond the medium size. Some few, indeed,
+an [[Inch|inch]] may be considered as beyond the medium size. Some few, indeed,
 are much larger, but by far the greater proportion are of very much
-smaller dimensions.
+smaller [[Dimension|dimensions]].
 
 [Illustration: FIG. 3.--_Podosphenia Lyngbyii._]
 
@@ -98,7 +98,7 @@ two bands form the girdle.
 An individual diatom is usually described from two aspects, one in which
 the surface of the valve is exposed to view--the valve view, and one in
 which the girdle side is exposed--the girdle view. The valves are thin
-and transparent, convex on the outside, and generally ornamented with a
+and transparent, [[Convex|convex]] on the outside, and generally ornamented with a
 variety of sculptured markings. These sculptures often present the
 aspect of striae across the face of the valve, and the best lenses have
 shown them to consist of a series of small cavities within the siliceous
@@ -134,7 +134,7 @@ which appear to be altogether satisfactory. There is little doubt that
 the movements are connected with the raphe, and in some diatoms there is
 much evidence to prove that they are due to an exudation of mucilage.
 
-_Classification._--The most natural system of classification of the
+_[[Classification]]._--The most natural system of classification of the
 Bacillarieae is the one put forward by Schütt (1896), and since
 generally followed by systematists. He separates them into two primary
 divisions, the 'Centricae' and the 'Pennatae.' The former includes all
@@ -215,14 +215,14 @@ a short time with supercarbonate of soda, the alkali being removed in
 the same manner as the acid. A small portion may then be placed with a
 pipette upon a slip of glass, and, when the moisture has been thoroughly
 evaporated, the film that remains should be covered with dilute Canada
-balsam, and, a thin glass cover having been gently laid over the balsam,
+[[Balsam|balsam]], and, a thin glass cover having been gently laid over the balsam,
 the preparation should be laid aside for a short time to harden, and
 then is ready for observation.
 
-_General Remarks._--Diatoms are most abundant in cold latitudes, having
+_General Remarks._--Diatoms are most abundant in cold [[Latitude|latitudes]], having
 a general preference for cold water. In the pelagic waters of lakes and
 of the oceans they are often very abundant, and in the cold waters of
-the Arctic and Antarctic Oceans they exist in prodigious numbers. They
+the [[Arctic]] and Antarctic Oceans they exist in prodigious numbers. They
 thus form a large proportion of both the marine and the fresh-water
 plankton.
 
@@ -236,7 +236,7 @@ the sediment. When in the process of ages, as it has often happened, the
 accumulated sediment has been hardened into solid rock, the siliceous
 frustules of the diatoms remain unaltered, and, if the rock be
 disintegrated by natural or artificial means, may be removed from the
-enveloping matrix and subjected to examination under the microscope. The
+enveloping [[Matrix|matrix]] and subjected to examination under the microscope. The
 forms found may from their character help in some degree to illustrate
 the conditions under which the stratum of rock had been originally
 deposited. These earths are generally of a white or grey colour. Some of

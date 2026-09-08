@@ -48,7 +48,7 @@ but without much validity.
 Its association with the acid rocks, its hardness, method of weathering
 and chemical composition, indicate that it is an intermixture of quartz
 and acid felspar, and the occasional presence of these two minerals in
-well-defined grains confirms this. Moreover, in many dikes, while the
+well-defined grains confirms this. Moreover, in many [[Dike|dikes]], while the
 ground-mass is microcrystalline and consists of quartz and felspar near
 the centre of the mass, towards the margins, where it has been rapidly
 chilled by contact with the cold surrounding rocks, it is felsitic. The

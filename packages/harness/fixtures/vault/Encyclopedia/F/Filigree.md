@@ -2,7 +2,7 @@
 
 FILIGREE (formerly written _filigrain_ or _filigrane_; the Ital.
 _filigrana_, Fr. _filigrane_, Span, _filigrana_, Ger. _Drahtgeflecht_),
-jewel work of a delicate kind made with twisted threads usually of gold
+[[Jewel|jewel]] work of a delicate kind made with twisted threads usually of gold
 and silver. The word, which is usually derived from the Lat. _filum_,
 thread, and _granum_, grain, is not found in Ducange, and is indeed of
 modern origin. According to Prof. Skeat it is derived from the Span.
@@ -10,7 +10,7 @@ _filigrana_, from "_filar_, to spin, and _grano_, the grain or principal
 fibre of the material." Though filigree has become a special branch of
 jewel work in modern times it was anciently part of the ordinary work of
 the jeweller. Signor A. Castellani states, in his _Memoir on the
-Jewellery of the Ancients_ (1861), that all the jewelry of the Etruscans
+Jewellery of the Ancients_ (1861), that all the [[Jewelry|jewelry]] of the Etruscans
 and Greeks (other than that intended for the grave, and therefore of an
 unsubstantial character) was made by soldering together and so building
 up the gold rather than by chiselling or engraving the material.
@@ -18,7 +18,7 @@ up the gold rather than by chiselling or engraving the material.
 The art may be said to consist in curling, twisting and plaiting fine
 pliable threads of metal, and uniting them at their points of contact
 with each other, and with the ground, by means of gold or silver solder
-and borax, by the help of the blowpipe. Small grains or beads of the
+and borax, by the help of the [[Blowpipe|blowpipe]]. Small grains or [[Bead|beads]] of the
 same metals are often set in the eyes of volutes, on the junctions, or
 at intervals at which they will set off the wire-work effectively. The
 more delicate work is generally protected by framework of stouter wire.
@@ -40,7 +40,7 @@ ornaments. Many examples, however, remain of round plaited gold chains
 of fine wire, such as are still made by the filigree workers of India,
 and known as Trichinopoly chains. From some of these are hung smaller
 chains of finer wire with minute fishes and other pendants fastened to
-them. In ornaments derived from Phoenician sites, such as Cyprus and
+them. In ornaments derived from Phoenician sites, such as [[Cyprus]] and
 Sardinia, patterns of gold wire are laid down with great delicacy on a
 gold ground, but the art was advanced to its highest perfection in the
 Greek and Etruscan filigree of the 6th to the 3rd centuries B.C. A
@@ -50,15 +50,15 @@ them are made of filigree work. Some earrings are in the form of flowers
 of geometric design, bordered by one or more rims each made up of minute
 volutes of gold wire, and this kind of ornament is varied by slight
 differences in the way of disposing the number or arrangement of the
-volutes. But the feathers and petals of modern Italian filigree are not
+volutes. But the [[Feather|feathers]] and petals of modern Italian filigree are not
 seen in these ancient designs. Instances occur, but only rarely, in
 which filigree devices in wire are self-supporting and not applied to
 metal plates. The museum of the Hermitage at St Petersburg contains an
-amazingly rich collection of jewelry from the tombs of the Crimea. Many
+amazingly rich collection of jewelry from the tombs of the [[Crimea]]. Many
 bracelets and necklaces in that collection are made of twisted wire,
 some in as many as seven rows of plaiting, with clasps in the shape of
 heads of animals of beaten work. Others are strings of large beads of
-gold, decorated with volutes, knots and other patterns of wire soldered
+gold, decorated with volutes, [[Knot|knots]] and other patterns of wire soldered
 over the surfaces. (See the _Antiquités du Bosphore Cimmérien_, by
 Gille, 1854; reissued by S. Reinach, 1892, in which will be found
 careful engravings of these objects.) In the British Museum a sceptre,
@@ -73,7 +73,7 @@ settled on that continent, or merely trained under traditions held in
 common with them, it is certain that the Indian filigree workers retain
 the same patterns as those of the ancient Greeks, and work them in the
 same way, down to the present day. Wandering workmen are given so much
-gold, coined or rough, which is weighed, heated in a pan of charcoal,
+gold, coined or rough, which is weighed, heated in a pan of [[Charcoal|charcoal]],
 beaten into wire, and then worked in the courtyard or verandah of the
 employer's house according to the designs of the artist, who weighs the
 complete work on restoring it and is paid at a specified rate for his
@@ -82,25 +82,25 @@ than coarse hair, projecting from plates of gold are methods of
 ornamentation still used.
 
 Passing to later times we may notice in many collections of medieval
-jewel work (such as that in the South Kensington Museum) reliquaries,
-covers for the gospels, &c., made either in Constantinople from the 6th
+jewel work (such as that in the South [[Kensington]] Museum) reliquaries,
+covers for the [[Gospel|gospels]], &c., made either in Constantinople from the 6th
 to the 12th centuries, or in monasteries in Europe, in which Byzantine
 goldsmiths' work was studied and imitated. These objects, besides being
 enriched with precious stones, polished, but not cut into facets, and
 with enamel, are often decorated with filigree. Large surfaces of gold
 are sometimes covered with scrolls of filigree soldered on; and corner
-pieces of the borders of book covers, or the panels of reliquaries, are
+pieces of the [[Borders|borders]] of book covers, or the panels of reliquaries, are
 not unfrequently made up of complicated pieces of plaited work
 alternating with spaces encrusted with enamel. Byzantine filigree work
 occasionally has small stones set amongst the curves or knots. Examples
 of such decoration can be seen in the South Kensington and British
 Museums.
 
-In the north of Europe the Saxons, Britons and Celts were from an early
+In the north of Europe the Saxons, Britons and [[Celt|Celts]] were from an early
 period skilful in several kinds of goldsmiths' work. Admirable examples
 of filigree patterns laid down in wire on gold, from Anglo-Saxon tombs,
-may be seen in the British Museum--notably a brooch from Dover, and a
-sword-hilt from Cumberland.
+may be seen in the British Museum--notably a brooch from [[Dover]], and a
+sword-hilt from [[Cumberland]].
 
 The Irish filigree work is more thoughtful in design and more varied in
 pattern than that of any period or country that could be named. Its
@@ -111,9 +111,9 @@ ornament. The "Tara" brooch has been copied and imitated, and the shape
 and decoration of it are well known. Instead of fine curls or volutes
 of gold thread, the Irish filigree is varied by numerous designs in
 which one thread can be traced through curious knots and complications,
-which, disposed over large surfaces, balance one another, but always
+which, disposed over large surfaces, [[Balance|balance]] one another, but always
 with special varieties and arrangements difficult to trace with the eye.
-The long thread appears and disappears without breach of continuity, the
+The long thread appears and disappears without [[Breach|breach]] of continuity, the
 two ends generally worked into the head and the tail of a serpent or a
 monster. The reliquary containing the "Bell of St Patrick" is covered
 with knotted work in many varieties. A two-handled chalice, called the
@@ -135,16 +135,16 @@ America. The Spanish filigree work of the 17th and 18th centuries is of
 extraordinary complexity (examples in the Victoria and Albert Museum),
 and silver filigree jewelry of delicate and artistic design is still
 made in considerable quantities throughout the country. The manufacture
-spread over the Balearic Islands, and among the populations that border
-the Mediterranean. It is still made all over Italy, and in Malta,
+spread over the [[Balearic Islands]], and among the populations that border
+the Mediterranean. It is still made all over Italy, and in [[Malta]],
 Albania, the Ionian Islands and many other parts of Greece. That of the
 Greeks is sometimes on a large scale, with several thicknesses of wires
 alternating with larger and smaller bosses and beads, sometimes set with
-turquoises, &c., and mounted on convex plates, making rich ornamental
-headpieces, belts and breast ornaments. Filigree silver buttons of
+turquoises, &c., and mounted on [[Convex|convex]] plates, making rich ornamental
+headpieces, belts and [[Breast|breast]] ornaments. Filigree silver buttons of
 wire-work and small bosses are worn by the peasants in most of the
 countries that produce this kind of jewelry. Silver filigree brooches
-and buttons are also made in Denmark, Norway and Sweden. Little chains
+and buttons are also made in [[Denmark]], Norway and Sweden. Little chains
 and pendants are added to much of this northern work.
 
 Some very curious filigree work was brought from Abyssinia after the

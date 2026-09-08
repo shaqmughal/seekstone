@@ -9,20 +9,20 @@ id: 42-4369
 # Hallel
 
 HALLEL (Heb. [Hebrew: hallel] a Mishnic derivative from [Hebrew: hillel]
-hillel, "to praise"), a term in synagogal liturgy for (a) Psalms
+[[Hillel|hillel]], "to praise"), a term in synagogal liturgy for (a) Psalms
 cxiii.-cxviii., often called "the Egyptian Hallel" because of its
 recitation during the paschal meal on the night of the Passover, (b)
-Psalm cxxxvi. "the Great Hallel." C. A. Briggs[1] points out that the
+Psalm cxxxvi. "the Great Hallel." C. A. [[Brigg|Briggs]][1] points out that the
 term "Hallelujah" (Praise ye Yah) is found at the close of Pss. civ.,
 cv., cxv., cxvi., cxvii., at the beginning of Pss. cxi., cxii. and at
 both ends of Pss. cvi., cxiii., cxxxv., cxlvi. to cl. The Septuagint
 also gives it at the beginning of Pss. cv., cvii., cxiv., cxvi. to
 cxix., cxxxvi. There are thus four groups of Hallel psalms:--civ.-cvii.
-(a tetralogy on creation, the patriarchal age, the Exodus, and the
+(a tetralogy on creation, the patriarchal age, the [[Exodus]], and the
 Restoration); cxi.-cxvii. which includes most of the "Egyptian Hallel";
 cxxxv.-cxxxvi.; cxlvi.-cl. All of these Hallels (except cxlvii. and
 cxlix. which are Maccabean) belong to the Greek period, forming a
-collection of sixteen psalms composed for public use by the choirs,
+collection of sixteen psalms composed for public use by the [[Choir|choirs]],
 especially at the great feasts. Their distribution into four groups was
 the work of the final editor of the psalter. Later liturgical use
 regarded Pss. cxviii. and even cxix. as Hallels, as well as Pss. cxx. to
@@ -49,9 +49,9 @@ bis creatures.
 
 FOOTNOTES:
 
-  [1] _International Critical Commentary_, "Psalms," Intro. lxxviii.
+  [1] _[[International]] Critical Commentary_, "Psalms," Intro. lxxviii.
 
-  [2] The reference to a hymn at the institution of the Eucharist
+  [2] The reference to a hymn at the institution of the [[Eucharist]]
     (Matt. xxvi. 30, Mark xiv. 26) must be interpreted in the light of
     this inceptive stage of the Hallel.
 

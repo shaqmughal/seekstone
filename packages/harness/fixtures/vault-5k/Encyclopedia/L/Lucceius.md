@@ -6,7 +6,7 @@ topic: history
 
 # Lucceius
 
-LUCCEIUS, LUCIUS, Roman orator and historian, friend and correspondent
+LUCCEIUS, [[Lucius|LUCIUS]], Roman orator and historian, friend and correspondent
 of Cicero. A man of considerable wealth and literary tastes, he may be
 compared with Atticus. Disgusted at his failure to become consul in 60,
 he retired from public life, and devoted himself to writing a history of

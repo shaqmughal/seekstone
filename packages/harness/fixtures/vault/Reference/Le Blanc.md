@@ -8,22 +8,22 @@ type: reference
 # Le Blanc
 
 LE BLANC, NICOLAS (1742-1806), French chemist, was born at Issoudun,
-Indre, in 1742. He made medicine his profession and in 1780 became
+[[Indre]], in 1742. He made medicine his profession and in 1780 became
 surgeon to the duke of Orleans, but he also paid much attention to
-chemistry. About 1787 he was attracted to the urgent problem of
+[[Chemistry|chemistry]]. About 1787 he was attracted to the urgent problem of
 manufacturing carbonate of soda from ordinary sea-salt. The suggestion
-made in 1789 by Jean Claude de la Métherie (1743-1817), the editor of
+made in 1789 by Jean [[Claude]] de la Métherie (1743-1817), the editor of
 the _Journal de physique_, that this might be done by calcining with
-charcoal the sulphate of soda formed from salt by the action of oil of
+[[Charcoal|charcoal]] the sulphate of soda formed from salt by the action of oil of
 vitriol, did not succeed in practice because the product was almost
 entirely sulphide of soda, but it gave Le Blanc, as he himself
-acknowledged, a basis upon which to work. He soon made the crucial
+acknowledged, a basis upon which to work. He soon made the [[Crucial|crucial]]
 discovery--which proved the foundation of the huge industry of
 artificial alkali manufacture--that the desired end was to be attained
 by adding a proportion of chalk to the mixture of charcoal and sulphate
 of soda. Having had the soundness of this method tested by Jean Darcet
 (1725-1801), the professor of chemistry at the Collège de France, the
-duke of Orleans in June 1791 agreed to furnish a sum of 200,000 francs
+duke of Orleans in June 1791 agreed to furnish a sum of 200,000 [[Franc|francs]]
 for the purpose of exploiting it. In the following September Le Blanc
 was granted a patent for fifteen years, and shortly afterwards a factory
 was started at Saint-Denis, near Paris. But it had not long been in

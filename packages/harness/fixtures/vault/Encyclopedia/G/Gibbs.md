@@ -13,13 +13,13 @@ mathematical physics in Yale College in 1871, and held that position
 till his death, which occurred at New Haven on the 28th of April 1903.
 His first contributions to mathematical physics were two papers
 published in 1873 in the _Transactions_ of the Connecticut Academy on
-"Graphical Methods in the Thermodynamics of Fluids," and "Method of
+"[[Graphical Methods]] in the Thermodynamics of Fluids," and "Method of
 Geometrical Representation of the Thermodynamic Properties of Substances
 by means of Surfaces." His next and most important publication was his
 famous paper "On the Equilibrium of Heterogeneous Substances" (in two
 parts, 1876 and 1878), which, it has been said, founded a new department
 of chemical science that is becoming comparable in importance to that
-created by Lavoisier. This work was translated into German by W. Ostwald
+created by [[Lavoisier]]. This work was translated into German by W. Ostwald
 (who styled its author the "founder of chemical energetics") in 1891 and
 into French by H. le Chatelier in 1899. In 1881 and 1884 he printed some
 notes on the elements of vector analysis for the use of his students;
@@ -32,7 +32,7 @@ Science_, and his last work, _Elementary Principles in Statistical
 Mechanics_, was issued in 1902. The name of Willard Gibbs, who was the
 most distinguished American mathematical physicist of his day, is
 especially associated with the "Phase Rule," of which some account will
-be found in the article ENERGETICS. In 1901 the Copley medal of the
+be found in the article ENERGETICS. In 1901 the [[Copley]] medal of the
 Royal Society of London was awarded him as being "the first to apply the
 second law of thermodynamics to the exhaustive discussion of the
 relation between chemical, electrical and thermal energy and capacity

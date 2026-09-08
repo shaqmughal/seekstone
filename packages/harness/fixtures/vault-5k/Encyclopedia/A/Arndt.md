@@ -20,7 +20,7 @@ years a private tutor in the family of Ludwig Kosegarten (1758-1818),
 pastor of Wittow and poet, and having qualified for the ministry as a
 "candidate of theology," assisted in the church services. At the age of
 twenty-eight he renounced the ministry, and for eighteen months he led a
-wandering life, visiting Austria, Hungary, Italy, France and Belgium.
+wandering life, visiting Austria, Hungary, Italy, France and [[Belgium]].
 Returning homewards up the Rhine, he was moved by the sight of the
 ruined castles along its banks to intense bitterness against France. The
 impressions of this journey he later described in _Reisen durch einen
@@ -28,7 +28,7 @@ Theil Teutschlands, Ungarns, Italiens und Frankreichs in den Jahren 1798
 und 1799_ (1802-1804). In 1800 he settled in Greifswald as
 _privat-docent_ in history, and the same year published _Uber die
 Freiheit der alien Republiken_. In 1803 appeared _Germanien und
-Europa_," a fragmentary ebullition," as be himself called it, of his
+[[Europa]]_," a fragmentary ebullition," as be himself called it, of his
 views on the French aggression. This was followed by one of the most
 remarkable of his books, _Versuch einer Geschichte der Leibeigenschaft
 in Pommern und Rugen_ (Berlin, 1803), a history of serfdom in Pomerania
@@ -36,25 +36,25 @@ and Rugen, which was so convincing an indictment that King Gustavus
 Adolphus IV. in 1806 abolished the evil. Arndt had meanwhile risen from
 _privat-docent_ to extraordinary professor, and in 1806 was appointed to
 the chair of history at the university. In this year he published the
-first part of his _Geist der Zeit_, in which he flung down the gauntlet
+first part of his _Geist der Zeit_, in which he flung down the [[Gauntlet|gauntlet]]
 to Napoleon and called on his countrymen to rise and shake off the
 French yoke. So great was the excitement it produced that Arndt was
 compelled to take refuge in Sweden to escape the vengeance of Napoleon.
 Settling in Stockholm, he obtained government employment, but devoted
 himself to the great cause which was nearest his heart, and in
-pamphlets, poems and songs communicated his enthusiasm to his
+pamphlets, poems and songs communicated his [[Enthusiasm|enthusiasm]] to his
 countrymen. Schill's heroic death at Stralsund impelled him to return to
 Germany and, under the disguise of "Almann, teacher of languages," he
 reached Berlin in December 1809. In 1810 he returned to Greifswald, but
 only for a few months. He again set out on his adventurous travels,
 lived in close contact with the first men of his time, such as Blucher,
-Gneisenau and Stein, and in 1812 was summoned by the last named to St
+[[Gneisenau]] and Stein, and in 1812 was summoned by the last named to St
 Petersburg to assist in the organization of the final struggle against
 France. Meanwhile, pamphlet after pamphlet, full of bitter hatred of the
 French oppressor, came from his pen, and his stirring patriotic songs,
 such as _Was ist das deutsche Vaterland? Der Gott, der Eisen wachsen
-liess_, and _Was blasen die Trompeten?_ were on all lips. When, after
-the peace, the university of Bonn was founded in 1818, Arndt was
+liess_, and _Was blasen die Trompeten?_ were on all [[Lip|lips]]. When, after
+the peace, the university of [[Bonn]] was founded in 1818, Arndt was
 appointed to the chair of modern history. In this year appeared the
 fourth part of his _Geist der Zeit_, in which he criticized the
 reactionary policy of the German powers. The boldness of his demands for
@@ -69,7 +69,7 @@ years he passed in retirement and literary activity. In 1840 he was
 reinstated in his professorship, and in 1841 was chosen rector of the
 university. The revolutionary outbreak of 1848 rekindled in the
 venerable patriot his old hopes and energies, and he took his seat as
-one of the deputies to the National Assembly at Frankfort. He formed one
+one of the deputies to the National Assembly at [[Frankfort]]. He formed one
 of the deputation that offered the imperial crown to Frederick William
 IV., and indignant at the king's refusal to accept it, he retired with
 the majority of von Gagern's adherents from public life. He continued to

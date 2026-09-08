@@ -7,7 +7,7 @@ largely influenced his career. He was educated at St John's College,
 Cambridge, where he graduated as sixteenth wrangler in 1818, the year in
 which Sedgwick became Woodwardian professor of geology. He accompanied
 Sedgwick in 1819 during a tour in the Isle of Wight, and there he
-learned his first lessons in geology. He also studied chemistry under
+learned his first lessons in geology. He also studied [[Chemistry|chemistry]] under
 Professor James Cumming and mineralogy under E. D. Clarke. In the autumn
 of 1819 he made some valuable observations on the geology of the Isle of
 Man (_Trans. Geol. Soc._, 1821), and in 1821 he investigated the geology
@@ -32,7 +32,7 @@ coprolitic origin in the Red Crag at Felixstowe in Suffolk, and two
 years later he called attention to those also in the Cambridge Greensand
 and remarked that they might be of use in agriculture. Although Henslow
 derived no benefit, these discoveries led to the establishment of the
-phosphate industry in Suffolk and Cambridgeshire; and the works proved
+phosphate industry in Suffolk and [[Cambridgeshire]]; and the works proved
 lucrative until the introduction of foreign phosphates. The museum at
 Ipswich, which was established in 1847, owed much to Henslow, who was
 elected president in 1850, and then superintended the arrangement of the

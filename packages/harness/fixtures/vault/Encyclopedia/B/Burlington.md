@@ -32,12 +32,12 @@ experiment station is maintained. At Burlington are also the Mt St Mary's
 academy (1889, Roman Catholic), conducted by the Sisters of Mercy; and two
 business colleges. Among the principal buildings are the city hall, the
 Chittenden county court house, the Federal and the Y.M.C.A. buildings, the
-Masonic temple, the Roman Catholic cathedral and the Edmunds high school.
+Masonic temple, the Roman Catholic cathedral and the [[Edmunds]] high school.
 Burlington's charitable institutions include the Mary Fletcher hospital,
-the Adams mission home, the Lousia Howard mission, the Providence orphan
-asylum, and homes for aged women, friendless women and destitute children.
+the Adams mission home, the Lousia [[Howard]] mission, the Providence orphan
+[[Asylum|asylum]], and homes for aged women, friendless women and destitute children.
 The Fletcher free public library (47,000 volumes in 1908) is housed in a
-Carnegie building. In the city are two sanitariums. The city has two parks
+[[Carnegie]] building. In the city are two sanitariums. The city has two parks
 (one, Ethan Allen Park, is on a bluff in the north-west part of the city,
 and commands a fine view) and four cemeteries; in Green Mount Cemetery,
 which overlooks the Winooski valley, is a monument over the grave of Ethan
@@ -45,16 +45,16 @@ Allen, who lived in Burlington from 1778 until his death. Fort Ethan Allen,
 a United States military post, is about 3 m. east of the city, with which
 it is connected by an electric line. Burlington is the most important
 manufacturing centre in the state; among its manufactures are sashes, doors
-and blinds, boxes, furniture and wooden-ware, cotton and woollen goods,
+and blinds, [[Box|boxes]], furniture and wooden-ware, cotton and woollen goods,
 patent medicines, refrigerators, house furnishings, paper and machinery. In
 1905 the city's factory products were valued at $6,355,754, three-tenths of
 which was the value of lumber and planing mill products, including sashes,
 doors and blinds. The Winooski river, which forms the boundary between
-Burlington and the township of Colchester and which enters Lake Champlain
+Burlington and the township of [[Colchester]] and which enters Lake Champlain
 N.W. of the city, [v.04 p.0838] furnishes valuable water-power, but most of
-the manufactories are operated by steam. Quantities of marble were formerly
+the manufactories are operated by steam. Quantities of [[Marble|marble]] were formerly
 taken from quarries in the vicinity. The city is a wholesale distributing
-centre for all northern Vermont and New Hampshire, and is one of the
+centre for all northern Vermont and New [[Hampshire]], and is one of the
 principal lumber markets in the east, most of the lumber being imported
 from Canada. It is the port of entry for the Vermont customs district,
 whose exports and imports were valued respectively in 1907 at $8,333,024

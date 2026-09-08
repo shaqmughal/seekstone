@@ -1,7 +1,7 @@
 # Immersion
 
 IMMERSION (Lat. _immersio_, dipping), the act of being plunged into a
-fluid, or being overwhelmed by anything; in astronomy, the disappearance
+fluid, or being overwhelmed by anything; in [[Astronomy|astronomy]], the disappearance
 of a heavenly body in the shadow of another, especially of a satellite
 in the shadow of its primary.
 

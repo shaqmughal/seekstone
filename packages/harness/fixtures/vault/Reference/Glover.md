@@ -19,7 +19,7 @@ part in the expedition of Dr W. B. Baikie (1824-1864) up the Niger. On
 the 21st of April 1863 he was appointed administrator of the government
 of Lagos, and in that capacity, or as colonial secretary, he remained
 there till 1872. During this period he had been much employed in
-repelling the marauding incursions of the Ashantis. When the Ashanti war
+repelling the marauding incursions of the [[Ashanti|Ashantis]]. When the Ashanti war
 broke out in 1873, Captain Glover undertook the hazardous and doubtful
 task of organizing the native tribes, whom hatred of the Ashantis might
 be expected to make favourable to the British authorities--to the extent
@@ -29,11 +29,11 @@ forming a small trustworthy force of Hausa, marched to Accra. His
 influence sufficed to gather a numerous native force, but neither he nor
 anybody else could overcome their abject terror of the ferocious
 Ashantis to the extent of making them fight. In January 1874 Captain
-Glover was able to render some assistance in the taking of Kumasi, but
+Glover was able to render some assistance in the taking of [[Kumasi]], but
 it was at the head of a Hausa force. His services were acknowledged by
 the thanks of parliament and by his creation as G.C.M.G. In 1875 he was
 appointed governor of Newfoundland and held the post till 1881, when he
-was transferred to the Leeward Islands. He returned to Newfoundland in
+was transferred to the [[Leeward Islands]]. He returned to Newfoundland in
 1883, and died in London on the 30th September 1885.
 
   Lady Glover's _Life_ of her husband appeared in 1897.

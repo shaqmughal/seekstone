@@ -23,7 +23,7 @@ make a direct frontal attack. The enemy's right centre near the village
 of Borodino was to be attacked by the viceroy of Italy, Eugene, who was
 afterwards to roll up the Russian line towards its centre, the so-called
 "great redoubt," which was to be attacked directly from the front by Ney
-and Junot. Farther to the French right, Davout was to attack frontally a
+and [[Junot]]. Farther to the French right, Davout was to attack frontally a
 group of field works on which the Russian left centre was formed; and
 the extreme right of the French army was composed of the weak corps of
 Poniatowski. The cavalry corps were assigned to the various leaders
@@ -63,7 +63,7 @@ side of the French 31 general officers were killed, wounded or taken,
 and amongst the killed were General Montbrun, who fell at the head of
 his cavalry corps, and Auguste Caulaincourt, who took Montbrun's place
 and fell in the _melee_ in the redoubt. The Russians lost 22 generals,
-amongst them Prince Bagration, who died of his wounds after the battle,
+amongst them Prince [[Bagration]], who died of his wounds after the battle,
 and to whose memory a monument was erected on the battle-field by the
 tsar Nicholas I.
 

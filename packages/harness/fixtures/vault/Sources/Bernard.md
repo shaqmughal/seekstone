@@ -2,7 +2,7 @@
 
 BERNARD, SAINT (1090-1153), abbot of Clairvaux one of the most
 illustrious preachers and monks of the middle ages, was born at
-Fontaines, near Dijon, in France. His father, a knight named Tecelin,
+Fontaines, near Dijon, in France. His father, a [[Knight|knight]] named Tecelin,
 perished on crusade; and his mother Aleth, a daughter of the noble house
 of Mon-Bar, and a woman distinguished for her piety, died while Bernard
 was yet a boy. The lad was constitutionally unfitted for the career of
@@ -14,13 +14,13 @@ monk was not, however, shaken, and when he at last definitely decided to
 join the community which Robert of Molesmes had founded at Citeaux in
 1198, he carried with him his brothers and many of his relations and
 friends. The little community of reformed Benedictines, which was to
-produce so profound an influence on Western monachism (see CISTERCIANS
+produce so profound an influence on Western monachism (see [[Cistercians|CISTERCIANS]]
 and MONASTICISM) and had seemed on the point of extinction for lack of
 novices, gained a sudden new life through this accession of some thirty
 young men of the best families of the neighbourhood. Others followed
 their example; and the community grew so rapidly that it was soon able
 to send off offshoots. One of these daughter monasteries, Clairvaux, was
-founded in 1115, in a wild valley branching from that of the Aube, on
+founded in 1115, in a wild valley branching from that of the [[Aube]], on
 land given by Count Hugh of Troyes, and of this Bernard was appointed
 abbot.
 
@@ -30,17 +30,17 @@ the supreme direction of the abbot of Citeaux. Though nominally subject
 to Citeaux, however, Clairvaux soon became the most important Cistercian
 house, owing to the fame and influence of Bernard.[1] His saintly
 character, his self-mortification--of so severe a character that his
-friend, William of Champeaux, bishop of Chalons, thought it right to
+friend, William of [[Champeaux]], bishop of Chalons, thought it right to
 remonstrate with him--and above all, his marvellous power as a preacher,
-soon made him famous, and drew crowds of pilgrims to Clairvaux. His
+soon made him famous, and drew [[Crowd|crowds]] of pilgrims to Clairvaux. His
 miracles were noised abroad, and sick folk were brought from near and
 far to be healed by his touch. Before long the abbot, who had intended
 to devote his life to the work of his monastery, was drawn into the
-affairs of the great world. When in 1124 Pope Honorius II. mounted the
+affairs of the great world. When in 1124 Pope [[Honorius]] II. mounted the
 chair of St Peter, Bernard was already reckoned among the greatest of
 French churchmen; he now shared in the most important ecclesiastical
 discussions, and papal legates sought his counsel. Thus in 1128 he was
-invited by Cardinal Matthew of Albano to the synod of Troyes, where he
+invited by Cardinal [[Matthew]] of Albano to the synod of Troyes, where he
 was instrumental in obtaining the recognition of the new order of
 Knights Templars, the rules of which he is said to have drawn up; and in
 the following year, at the synod of Chalons-sur-Marne, he ended the
@@ -48,8 +48,8 @@ crisis arising out of certain charges brought against Henry, bishop of
 Verdun, by persuading the bishop to resign. The European importance of
 Bernard, however, began with the death of Pope Honorius II. (1130) and
 the disputed election that followed. In the synod convoked by Louis the
-Fat at Etampes in April 1130 Bernard successfully asserted the claims of
-Innocent II. against those of Anacletus II., and from this moment became
+Fat at [[Etampes]] in April 1130 Bernard successfully asserted the claims of
+[[Innocent]] II. against those of Anacletus II., and from this moment became
 the most influential supporter of his cause. He threw himself into the
 contest with characteristic ardour. While Rome itself was held by
 Anacletus, France, England, Spain and Germany declared for Innocent,
@@ -57,7 +57,7 @@ who, though banished from Rome, was--in Bernard's phrase--"accepted by
 the world." The pope travelled from place to place, with the powerful
 abbot of Clairvaux at his side; he stayed at Clairvaux itself, humble
 still, so far as its buildings were concerned; and he went with Bernard
-to parley with the emperor Lothair III. at Liege.
+to parley with the emperor [[Lothair]] III. at [[Liege]].
 
 In 1133, the year of the emperor's first expedition to Rome, Bernard was
 in Italy persuading the Genoese to make peace with the men of Pisa,
@@ -102,39 +102,39 @@ order. Between 1130 and 1145 no less than ninety-three monasteries in
 connexion with Clairvaux were either founded or affiliated from other
 rules, three being established in England and one in Ireland. In 1145 a
 Cistercian monk, once a member of the community of Clairvaux--another
-Bernard, abbot of Aquae Silviae near Rome, was elected pope as Eugenius
+Bernard, abbot of [[Aquae]] Silviae near Rome, was elected pope as [[Eugenius]]
 III. This was a triumph for the order; to the world it was a triumph for
 Bernard, who complained that all who had suits to press at Rome applied
 to him, as though he himself had mounted the chair of St Peter (_Ep_.
 239).
 
 Having healed the schism within the church, Bernard was next called upon
-to attack the enemy without. Languedoc especially had become a hotbed of
+to attack the enemy without. [[Languedoc]] especially had become a hotbed of
 heresy, and at this time the preaching of Henry of Lausanne (q.v.) was
 drawing thousands from the orthodox faith. In June 1145, at the
 invitation of Cardinal Alberic of Ostia, Bernard travelled in the south,
-and by his preaching did something to stem the flood of heresy for a
+and by his preaching did something to stem the [[Flood|flood]] of heresy for a
 while. Far more important, however, was his activity in the following
 year, when, in obedience to the pope's command, he preached a crusade.
 The effect of his eloquence was extraordinary. At the great meeting at
 Vezelay, on the 21st of March, as the result of his sermon, King Louis
-VII. of France and his queen, Eleanor of Guienne, took the cross,
+VII. of France and his queen, Eleanor of [[Guienne]], took the cross,
 together with a host of all classes, so numerous that the stock of
 crosses was soon exhausted; Bernard next travelled through northern
-France, Flanders and the Rhine provinces, everywhere rousing the wildest
-enthusiasm; and at Spires on Christmas day he succeeded in persuading
+France, [[Flanders]] and the Rhine provinces, everywhere rousing the wildest
+[[Enthusiasm|enthusiasm]]; and at Spires on [[Christmas]] day he succeeded in persuading
 Conrad, king of the Romans, to join the crusade.
 
-The lamentable outcome of the movement (see CRUSADES) was a hard blow to
+The lamentable outcome of the movement (see [[Crusades|CRUSADES]]) was a hard blow to
 Bernard, who found it difficult to understand this manifestation of the
 hidden counsels of God, but ascribed it to the sins of the crusaders
 (_Ep_. 288; _de Consid_. ii. 1). The news of the disasters to the
 crusading host first reached Bernard at Clairvaux, where Pope Eugenius,
-driven from Rome by the revolution associated with the name of Arnold of
-Brescia, was his guest. Bernard had in March and April 1148 accompanied
+driven from Rome by the revolution associated with the name of [[Arnold]] of
+[[Brescia]], was his guest. Bernard had in March and April 1148 accompanied
 the pope to the council of Reims, where he led the attack on certain
-propositions of the scholastic theologian Gilbert de la Porree (q.v.).
-From whatever cause--whether the growing jealousy of the cardinals, or
+propositions of the scholastic theologian [[Gilbert De La Porree|Gilbert de la Porree]] (q.v.).
+From whatever cause--whether the growing [[Jealousy|jealousy]] of the cardinals, or
 the loss of prestige owing to the rumoured failure of the crusade, the
 success of which he had so confidently predicted--Bernard's influence,
 hitherto so ruinous to those suspected of heterodoxy, on this occasion
@@ -155,7 +155,7 @@ interest in ecclesiastical affairs, and his last work, the _De
 Consideratione_, shows no sign of failing power. He died on the 20th of
 August 1153.
 
-The greatness of St Bernard lay not in the qualities of his intellect,
+The greatness of St Bernard lay not in the qualities of his [[Intellect|intellect]],
 but of his character. Intellectually he was the child of his age,
 inferior to those subtle minds whom the world, fired by his contagious
 zeal, conspired to crush. Morally he was their superior; and in this
@@ -163,19 +163,19 @@ moral superiority lay the secret of his power. The age recognized in him
 the embodiment of its ideal: that of medieval monasticism at its highest
 development. The world had no meaning for him save as a place of
 banishment and trial, in which men are but "strangers and pilgrims"
-(Serm. i., Epiph. n. 1; Serm. vii., Lent. n. 1); the way of grace, back
+(Serm. i., Epiph. n. 1; Serm. vii., [[Lent]]. n. 1); the way of [[Grace|grace]], back
 to the lost inheritance, had been marked out once for all, and the
 function of theology was but to maintain the landmarks inherited from
 the past. With the subtleties of the schools he had no sympathy, and the
-dialectics of the schoolmen quavered into silence before his terrible
-invective. Yet, within the limits of his mental horizon, Bernard's
+[[Dialectic|dialectics]] of the schoolmen quavered into silence before his terrible
+invective. Yet, within the limits of his mental [[Horizon|horizon]], Bernard's
 vision was clear enough. His very life proves with what merciless logic
 he followed out the principles of the Christian faith as he conceived
 it; and it is impossible to say that he conceived it amiss. For all his
-overmastering zeal he was by nature neither a bigot nor a persecutor.
-Even when he was preaching the crusade he interfered at Mainz to stop
+overmastering zeal he was by nature neither a [[Bigot|bigot]] nor a persecutor.
+Even when he was preaching the crusade he interfered at [[Mainz]] to stop
 the persecution of the Jews, stirred up by the monk Radulf. As for
-heretics, "the little foxes that spoil the vines," these "should be
+heretics, "the little [[Foxe|foxes]] that spoil the vines," these "should be
 taken, not by force of arms, but by force of argument," though, if any
 heretic refused to be thus taken, he considered "that he should be
 driven away, or even a restraint put upon his liberty, rather than that
@@ -186,9 +186,9 @@ imitation of their action, "because faith is to be produced by
 persuasion, not imposed by force"; adding, however, in the true spirit
 of his age and of his church, "it would without doubt be better that
 they should be coerced by the sword than that they should be allowed to
-draw away many other persons into their error." Finally, oblivious of
+draw away many other persons into their [[Error|error]]." Finally, oblivious of
 the precedent of the Pharisees, he ascribes the steadfastness of these
-"dogs" in facing death to the power of the devil (Serm. lxvi. on
+"[[Dogs|dogs]]" in facing death to the power of the devil (Serm. lxvi. on
 Canticles ii. 15).
 
 This is Bernard at his worst. At his best--and, fortunately, this is
@@ -198,10 +198,10 @@ others, and a genuine humility, with no touch of servility, that make
 him one of the most complete exponents of the Christian life. His
 broadly Christian character is, indeed, witnessed to by the enduring
 quality of his influence. The author of the _Imitatio_ drew inspiration
-from his writings; the reformers saw in him a medieval champion of their
+from his writings; the reformers saw in him a medieval [[Champion|champion]] of their
 favourite doctrine of the supremacy of the divine grace; his works, down
 to the present day, have been reprinted in countless editions. This is
-perhaps due to the fact that the chief fountain of his own inspiration
+perhaps due to the fact that the chief [[Fountain|fountain]] of his own inspiration
 was the Bible. He was saturated in its language and in its spirit; and
 though he read it, as might be expected, uncritically, and interpreted
 its plain meanings allegorically--as the fashion of the day was--it
@@ -221,7 +221,7 @@ intellectual level. Like his letters, they are full of quotations from
 and reference to the Bible, and they have all the qualities likely to
 appeal to men of culture at all times. "Bernard," wrote Erasmus in his
 _Art of Preaching_, "is an eloquent preacher, much more by nature than
-by art; he is full of charm and vivacity and knows how to reach and move
+by art; he is full of [[Charm|charm]] and vivacity and knows how to reach and move
 the affections." The same is true of the letters and to an even more
 striking degree. They are written on a large variety of subjects, great
 and small, to people of the most diverse stations and types; and they
@@ -256,7 +256,7 @@ diversis_; and eighty-six sermons, _in Cantica Canticorum_, an
 allegorical and mystical exposition of the Song of Solomon; (g) hymns.
 Many hymns ascribed to Bernard survive, e.g. _Jesu dulcis memoria, Jesus
 rex admirabilis. Jesu decus angelicum, Salve caput cruentatum_. Of these
-the three first are included in the Roman breviary. Many have been
+the three first are included in the Roman [[Breviary|breviary]]. Many have been
 translated and are used in Protestant churches.
 
 St Bernard's works were first published in anything like a complete
@@ -268,7 +268,7 @@ again, by Massuet and Texier, in 1719), reprinted by J.P. Migne,
 _Patrolog. lat._ (Paris, 1859). There is an English translation of
 Mabillon's edition, including, however, only the letters and the sermons
 on the Song of Songs, with the biographical and other prefaces, by
-Samuel J. Eales (4 vols., London, 1889-1895). See further Leopold
+Samuel J. Eales (4 vols., London, 1889-1895). See further [[Leopold]]
 Janauschek, _Bibliographia Bernardina_ (Vienna, 1891), which includes
 2761 entries, including 120 works wrongly ascribed to Bernard.
 
@@ -279,7 +279,7 @@ Janauschek, _Bibliographia Bernardina_ (Vienna, 1891), which includes
   Geoffrey (Gaufrid), monk of Clairvaux and Bernard's secretary; book
   vi., on Bernard's miracles, by Geoffrey and Philip, another monk of
   Clairvaux, &c. A MS. is preserved, _int. al._, in the library of
-  Lambeth Palace (S xiv. No. 163). The _Vita_ was first published in
+  [[Lambeth]] Palace (S xiv. No. 163). The _Vita_ was first published in
   _Bernardi op. omn._ by Mabillon (Paris, 1690), ii. pp. 1061 ff.; it
   was included in Migne, _Patrolog. lat._ clxxxv. pp. 225-416, which
   also contains the abridgments or amplifications, by later hands, of

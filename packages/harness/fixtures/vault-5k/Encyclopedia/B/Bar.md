@@ -44,7 +44,7 @@ basis. It is composed of a due proportion of king's counsel and outer
 barristers elected by voting-papers sent to all barristers having an
 address in the _Law List_ within the United Kingdom. Its expenses are paid
 by contributions from the four Inns of Court. Its powers are not
-disciplinary, but it would draw the attention of the benchers to any gross
+disciplinary, but it would draw the attention of the benchers to any [[Gross|gross]]
 violation of the professional etiquette of the bar.
 
 Each state in America has its own bar, consisting of all attorneys-at-law
@@ -71,7 +71,7 @@ associations publish annually a volume of transactions. The rights, duties
 and liabilities of counsellor-at-law are stated under ATTORNEY. As members
 of the bar of the state in which they practise they are subject to its laws
 regulating such practice, _e.g._ in some states they are forbidden to
-advertise for divorce cases (New York Penal Code [1902] § 148a) (1905,
+advertise for divorce cases (New York Penal [[Code]] [1902] § 148a) (1905,
 _People_ v. _Taylor_ [Colorado], 75 Pac. Rep. 914). It is common throughout
 the United States for lawyers to make contracts for "contingent fees,"
 _i.e._ for a percentage of the amount recovered. Such contracts are not

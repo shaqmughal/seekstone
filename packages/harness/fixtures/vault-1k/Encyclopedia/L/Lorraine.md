@@ -161,7 +161,7 @@ principal fiefs were the countship of Bar which Otto the Great gave in
 951 to Count Frederick of Ardenne, and which passed in 1093 to the lords
 of Montbéliard; the countship of Chiny, formed at the end of the 10th
 century, of which, since the 13th, Montmédy was the capital; the
-lordship of Commercy, whose rulers bore the special title of
+lordship of [[Commercy]], whose rulers bore the special title of
 _damoiseau_, and which passed in the 13th century to the house of
 Saarebrücken; and, finally the three important ecclesiastical lordships
 of the bishops of Metz, Toul and Verdun. Theodoric, or Thierri (d.
@@ -281,7 +281,7 @@ beginning of the reign of Louis XIII. Charles embroiled himself with
 France by harbouring French malcontents. Louis entered Lorraine, and by
 the treaty of Vic (31st of December 1631) bound over Charles to desist
 from supporting the enemies of France, and compelled him to cede the
-fortress of Marsal. Charles's breach of this treaty led to a renewal of
+fortress of Marsal. Charles's [[Breach|breach]] of this treaty led to a renewal of
 hostilities, and the French troops occupied St Mihiel, Bar-le-duc,
 Pont-à-Mousson and Nancy, which the duke was forced to cede for four
 years (1633). In 1632, by the treaty of Liverdun, he had already had to

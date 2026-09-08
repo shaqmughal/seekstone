@@ -20,29 +20,29 @@ Italy, Switzerland and France, devoting himself impartially to the
 courts, the camps, the salons and the learned assemblies of philosophers
 and scientists in each country. In 1784 he was again employed in
 military work, and was promoted to Feldzeugmeister. In 1787 he was with
-Catherine II. in Russia, accompanied her in her journey to the Crimea,
+Catherine II. in Russia, accompanied her in her journey to the [[Crimea]],
 and was made a Russian field marshal by the empress. In 1788 he was
 present at the siege of Belgrade. Shortly after this he was invited to
 place himself at the head of the Belgian revolutionary movement, in
 which one of his sons and many of his relatives were prominent, but
-declined with great courtesy, saying that "he never revolted in the
+declined with great [[Courtesy|courtesy]], saying that "he never revolted in the
 winter." Though suspected by Joseph of collusion with the rebels, the
 two friends were not long estranged, and after the death of the emperor
-the prince remained in Vienna. His Brabant estates were overrun by the
+the prince remained in Vienna. His [[Brabant]] estates were overrun by the
 French in 1792-1793, and his eldest son killed in action at La
 Croix-du-Bois in the Argonne (September 14, 1792). He was given the rank
 of field marshal (1809) and an honorary command at court, living in
 spite of the loss of his estates in comparative luxury and devoting
 himself to literary work. He lived long enough to characterize the
 proceedings of the congress of Vienna with the famous _mot_: "Le Congrès
-danse mais ne marche pas." He died at Vienna on the 13th of December
+danse mais ne [[Marche|marche]] pas." He died at Vienna on the 13th of December
 1814. His grandson, Eugene Lamoral de Ligne (1804-1880), was a
 distinguished Belgian statesman.
 
   His collected works appeared in thirty-four volumes at Vienna during
-  the last years of his life (_Mélanges militaires_, _littéraires_,
-  _sentimentaires_), and he bequeathed his manuscripts to the emperor's
-  Trabant Guard, of which he was captain (_Oeuvres posthumes_, Dresden
+  the last years of his life (_Mé[[Lange|langes]] militaires_, _littéraires_,
+  _sentimentaires_), and he bequeathed his [[Manuscript|manuscripts]] to the emperor's
+  Trabant Guard, of which he was captain (_Oeuvres posthumes_, [[Dresden]]
   and Vienna, 1817). Selections were published in French and German
   (_Oeuvres choisies de M. le prince de Ligne_ (Paris, 1809); _Lettres
   et pensées du Maréchal Prince de Ligne_, ed. by Madame de Staël
@@ -55,7 +55,7 @@ distinguished Belgian statesman.
   A German version (_Militärische Vorurtheile und Phantasien_, &c.)
   appeared as early as 1783. This work, though it deals lightly and
   cavalierly with the most important subjects (the prince even proposes
-  to found an international academy of the art of war, wherein the
+  to found an [[International|international]] academy of the art of war, wherein the
   reputation of generals could be impartially weighed), is a military
   classic, and indispensable to the students of the post-Frederician
   period. On the whole, it may be said that the prince adhered to the

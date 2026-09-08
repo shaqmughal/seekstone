@@ -1,8 +1,8 @@
 # Formia
 
-FORMIA (anc. _Formiae_, called Mola di Gaeta until recent times), a town
-of Campania, Italy, in the province of Caserta, from which it is 48 m.
-W.N.W. by rail. Pop. (1901) 5514 (town); 8452 (commune). It is situated
+FORMIA (anc. _Formiae_, called Mola di [[Gaeta]] until recent times), a town
+of [[Campania]], Italy, in the province of [[Caserta]], from which it is 48 m.
+W.N.W. by rail. Pop. (1901) 5514 (town); 8452 ([[Commune|commune]]). It is situated
 at the N.W. extremity of the Bay of Gaeta, and commands beautiful views.
 It lay on the ancient Via Appia, and was much frequented as a resort by
 wealthy Romans. There was considerable imperial property here and along
@@ -12,7 +12,7 @@ of Cicero contains two well-preserved _nymphaea_ with Doric
 architecture. Its site is now occupied by the villa Caposele, once a
 summer residence of the kings of Naples. There are many other modern
 villas, and the sheltered hillsides (for the mountains rise abruptly
-behind the town) are covered with lemon, orange and pomegranate gardens.
+behind the town) are covered with [[Lemon|lemon]], orange and pomegranate gardens.
 The now deserted promontory of the Monte Scauri to the E. is also
 covered with remains of ancient villas; the hill is crowned by a large
 tomb, known as Torre Giano. To the E. at Scauri is a large villa with
@@ -31,8 +31,8 @@ a _praefectus_ sent from Rome, though it retained its three aediles.
 Mamurra was a native of Formia. Cicero possessed a favourite villa here,
 and was murdered in its vicinity in 43 B.C., but neither the villa nor
 the tomb can be identified with any certainty. It was devastated by
-Sextus Pompeius, and became a colony, with _duoviri_ as chief
-magistrates, under Hadrian. Portus Caietae (the modern Gaeta) was
+Sextus Pompeius, and became a colony, with _[[Duoviri|duoviri]]_ as chief
+[[Magistrate|magistrates]], under Hadrian. Portus Caietae (the modern Gaeta) was
 dependent upon it.
 
   See T. Ashby, "Dessins inedits de Carlo Labruzzi," in _Melanges de

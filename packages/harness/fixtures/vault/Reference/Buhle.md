@@ -8,12 +8,12 @@ Geschichte der Philosophie_ (8 vols., 1796-1804), and _Geschichte der
 neueren Philosophie_ (6 vols., 1800-1805). The latter, elaborate and well
 written, is lacking in critical appreciation and proportion; there are
 French and Italian translations. He edited Aratus (2 vols., 1793, 1801) and
-part of Aristotle (Bipontine edition, vols. i.-v., 1791-1904).
+part of [[Aristotle]] (Bipontine edition, vols. i.-v., 1791-1904).
 
 BUHTUR[=I] [al-Wal[=i]d ibn 'Ubaid All[=a]h] (820-897), Arabian poet, was
-born at Manbij (Hierapolis) in Syria, between Aleppo and the Euphrates.
+born at Manbij (Hierapolis) in Syria, between Aleppo and the [[Euphrates]].
 Like Ab[=u] Tamm[=a]m, he was of the tribe of T[=a]i. While still young, he
-went to visit Ab[=u] Tamm[=a]m at Horns, and by him was commended to the
+went to visit Ab[=u] Tamm[=a]m at [[Horn|Horns]], and by him was commended to the
 authorities at Ma'arrat un-Nu'm[=a]n, who gave him a pension of 4000
 dirhems (about L90) yearly. Later he went to Bagdad, where he wrote verses
 in praise of the caliph Motawakkil and of the members of his court.
@@ -24,7 +24,7 @@ collected and edited twice in the 10th century, arranged in one edition
 alphabetically (i.e. according to the last consonant in each line); in the
 other according to subjects. It was published in Constantinople (A.D.
 1883). Like Ab[=u] Tamm[=a]m he made a collection of early poems, known as
-the Ham[=a]sa (index of the poems contained in it, in the _Journal of the
+the Ham[=a]sa ([[Index|index]] of the poems contained in it, in the _Journal of the
 German Oriental Society_, vol. 47, pp. 418 ff., cf. vol. 45, pp. 470 ff.).
 
 Biography in M^cG. de Slane's translation of Ibn Khallik[=a]n's
@@ -36,7 +36,7 @@ and in the _Book of Songs_ (see ABULFARAJ), vol. xviii. pp. 167-175.
 BUILDERS' RITES. Many people familiar with the ceremonies attendant on the
 laying of foundation stones, whether ecclesiastical, masonic or otherwise,
 may be at a loss to account for the actual origin of the custom in placing
-within a cavity beneath the stone, a few coins of the realm, newspapers,
+within a cavity beneath the stone, a few [[Coin|coins]] of the realm, newspapers,
 &c. The ordinary view that by such means particulars may be found of the
 event on the removal of the stone hereafter, may suffice as respects
 latter-day motives, but such memorials are deposited in the hope that they
@@ -52,7 +52,7 @@ practice, both in savage and civilized communities. "The old pagan laid the
 foundation of his house and fortress in blood."[2] Under the walls of two
 round towers in Ireland (the only ones examined) human skeletons have been
 discovered. In the 15th century, the wall of Holsworthy church was built
-over a living human being, and when this became unlawful, images of living
+over a living human being, and when this became unlawful, [[Image|images]] of living
 beings were substituted (_Folk-Lore Journal_, i. 23-24).
 
 The best succinct account of these rites is to be obtained in G. W. Speth's
@@ -62,7 +62,7 @@ _Builders' Rites and Ceremonies_ (1893).
 
 [1] _Teutonic Mythology_ (1883-1884), (trans. Stalleybrass).
 
-[2] Baring-Gould on "Foundations," _Murray's Mag._ (1887).
+[2] [[Baring-Gould]] on "Foundations," _Murray's Mag._ (1887).
 
 BUILDING.[1] The art of building comprises the practice of civil
 architecture, or the mechanical operations necessary to [Sidenote: Relation
@@ -80,12 +80,12 @@ the various soils he may meet with, such as clay, earth, silt, rock,
 gravel, chalk, &c., so that when the trial holes are dug out on the site,
 he can see the nature of the soil, and at once know what kind of a
 foundation to put to the building, and the depth to which he must go to get
-a good bottom. He should also have a good knowledge of chemistry, so that
+a good bottom. He should also have a good knowledge of [[Chemistry|chemistry]], so that
 he may understand the effects of the various acids, gases, &c., that are
 contained in the materials he uses, and the objections to their presence.
 He must be acquainted with the principles of timbering in trenches, and
-excavations, shoring, brickwork, fireproof construction, stonework,
-carpentry and joinery, smiths' work, plumbing, heating, ventilation, bells,
+excavations, shoring, [[Brickwork|brickwork]], fireproof construction, stonework,
+carpentry and [[Joinery|joinery]], smiths' work, plumbing, heating, ventilation, bells,
 electric and gas lighting, water-supply, drainage, plastering, tiling to
 internal walls or pavings and roofs, slating of roofs, glazing, painting
 and decoration. He should be able to calculate the various strengths and
@@ -121,7 +121,7 @@ education, and churches are governed by the various societies that assist
 in financing the erection of these edifices; of these the Incorporated
 Church Building Society exercises the strongest control. Factories both in
 England and France must be planned and erected to meet the separate acts
-that deal with these buildings. The fire insurance companies lay down
+that deal with these buildings. The fire [[Insurance|insurance]] companies lay down
 certain requirements according to the size of the building, and the special
 trade for which it is erected, and fix their rate of premium accordingly.
 Dwelling-houses in London must be erected in accordance with the many
@@ -135,12 +135,12 @@ untrammelled by by-laws. With regard to premises used in a combined way, as
 shop and dwelling-house, if in London, and the building exceeds 10 squares,
 or 1000 sq. ft. super in area, the stairs and a large portion of the
 building must be built of fire-resisting materials. In the erection of
-London flats under certain conditions the stairs and corridors [v.04
+London flats under certain conditions the stairs and [[Corridor|corridors]] [v.04
 p.0708] must be of fire-resisting materials, while in parts of New York
 timber buildings are allowed; for illustrations of these see the article
 CARPENTRY. In public buildings and theatres in London, Paris and New York
 not only the construction, but also the exits and seating accommodation and
-stage, including the scenery dock and flies, must conform to certain
+stage, including the scenery [[Dock|dock]] and flies, must conform to certain
 regulations.
 
 The conditions necessary for planning a successful building may be
@@ -170,7 +170,7 @@ buildings, wherever similar materials are employed, must be constructed on
 much the same principles. Scientific knowledge of the natures and
 properties of materials has, however, given to the modern workman immense
 advantages over his medieval brother-craftsman, and caused many changes in
-the details of the trade, or art of building, although stones, bricks,
+the details of the trade, or art of building, although stones, [[Brick|bricks]],
 mortar, &c., then as now, formed the element of the more solid parts of all
 edifices.
 
@@ -185,8 +185,8 @@ overthrow a wall, and therefore it will be the aim of the constructor to
 compel, as far as possible, all forces that can act upon an upright wall,
 to act in the direction of gravity, or else to give it permanent means of
 resistance in the direction opposite to that in which a disturbing force
-may act. Thus when an arch is built to bear against an upright wall, a
-buttress or other counterfort is applied in a direction opposed to the
+may act. Thus when an [[Arch|arch]] is built to bear against an upright wall, a
+[[Buttress|buttress]] or other counterfort is applied in a direction opposed to the
 pressure of the arch. In like manner the inclined roof of a building
 spanning from wall to wall tends to thrust out the walls, and hence a tie
 is applied to hold the opposite sides of the roof together at its base,
@@ -195,7 +195,7 @@ upon the walls wholly in the direction of gravity; or where an efficient
 tie is inapplicable, as in the case of a hammer beam roof, buttresses or
 counterforts are added to the walls, to enable them to resist the pressure
 outwards. A beam laid horizontally from wall to wall, as a girder to carry
-a floor and its load, may sag or bend downwards, and tend thereby to force
+a floor and its load, may sag or [[Bend|bend]] downwards, and tend thereby to force
 out the walls, or the beam itself may break. Both these contingencies are
 obviated by trussing, which renders the beam stiff enough to place its load
 on the walls in the direction of gravity, and strong enough to carry it
@@ -250,7 +250,7 @@ greater extent than may be necessary to exclude wind and water and prevent
 the disintegrating action of these agents upon even the most durable stone.
 When water alone is to be dealt with, and especially when it is liable to
 act with force, mortar is necessary for securing to every block in the
-structure its own full weight, and the aid of every other collateral and
+structure its own full weight, and the aid of every other [[Collateral|collateral]] and
 superimposed stone, in order to resist the loosening effect which water in
 powerful action is bound to produce.
 
@@ -264,9 +264,9 @@ and effective, or a bad and ineffective, piece of construction,
 independently of the posts to which it may be hung, whilst the wheel of a
 wheelbarrow, comprising felloes, spokes and axletree, is a piece of
 construction complete in itself, and independent as such of everything
-beyond it. An arch of masonry, however large it may be, is not necessarily
+beyond it. An arch of [[Masonry|masonry]], however large it may be, is not necessarily
 a piece of construction complete in itself, for it would fall to pieces
-without abutments. Thus a bridge consisting of a series of arches, however
+without abutments. Thus a bridge consisting of a series of [[Arches|arches]], however
 extensive, may be but one piece of construction, no arch being complete in
 itself without the collateral arches in the series to serve as its
 abutments, and the whole series being dependent thereby upon [v.04 p.0709]
@@ -368,7 +368,7 @@ details of the principal portions of the building should be given.
 
 If there are any existing buildings on the site these should be carefully
 surveyed and accurate detail plans be made for reference; this is
-especially necessary with regard to easements and rights of adjoining
+especially necessary with regard to [[Easement|easements]] and rights of adjoining
 owners. Also in the preparation of the site plan the various levels of the
 ground should be shown.
 
@@ -407,8 +407,8 @@ generally made to form part of the contract, and so mentioned in "the
 contract." The work of the quantity surveyor is to measure from the
 drawings the whole of the materials required for the structure, and state
 the amounts or quantities of the respective materials in the form of a bill
-usually made out on foolscap paper specially ruled, so that [v.04 p.0710]
-the builders can price each item, together with the labour required to work
+usually made out on [[Foolscap|foolscap]] paper specially ruled, so that [v.04 p.0710]
+the builders can price each [[Item|item]], together with the labour required to work
 and fix it, thus forming the building. The idea is to be able to arrive at
 a lump sum for which the builders will undertake to erect the building. It
 is of frequent occurrence, in fact it occurs in four-fifths of building
@@ -463,9 +463,9 @@ architect in the actual work of building. The builder should also know the
 various acts, and in particular the acts specially relating to the erection
 of scaffoldings, hoardings, gantries, shoring and pulling down of old
 buildings. He should have a thorough knowledge of all materials, their
-qualifying marks or brands, and the special features of good and bad in
+qualifying marks or [[Brand|brands]], and the special features of good and bad in
 each class, their uses and method of use. He should be able to control and
-manage both the men and materials; and briefly, in a builder, as opposed to
+[[Manage|manage]] both the men and materials; and briefly, in a builder, as opposed to
 an architect, the constructive knowledge should predominate.
 
 On large or important works it is usual to have a clerk of works or
@@ -478,7 +478,7 @@ paid by the client, and is not included in the architect's remuneration.
 
 American building acts agree in a general manner with those enforced in
 London. But whereas New York allows the erection [Sidenote: American
-practice.] of frame or wood structures, while defining a certain portion of
+practice.] of [[Frame|frame]] or wood structures, while defining a certain portion of
 the city inside which no new frame or wood structures shall be erected, in
 London and the large cities of Great Britain the erection of wood frame
 buildings as dwellings is prohibited. In New York City provision is made
@@ -497,7 +497,7 @@ With regard to the strength and proportion of materials, these are not
 dealt with in the London Building Act to the same extent as in the New
 York; for example, in the New York acts (parts 4 and 5)[2] it is prescribed
 that the bricks used shall be good, hard, well-burned bricks. The sand used
-for mortar shall be clean, sharp, grit sand, free from loam or dirt, and
+for mortar shall be clean, sharp, grit sand, free from [[Loam|loam]] or dirt, and
 shall not be finer than the standard samples kept in the office of the
 department of buildings; also the quality of lime and mortar is fully
 described, and the strengths of steel and cast-iron, and tests of new
@@ -515,14 +515,14 @@ the strength of floors constructed of various materials, and requires that
 the temporary support shall be strong enough to carry the load placed upon
 them during the progress of any works to buildings. Part 24 deals with the
 calculations and strength of materials, and wind pressure. Parts 4 and 5 of
-the New York Building Code are not dealt with by the London Building Act,
+the New York Building [[Code]] are not dealt with by the London Building Act,
 but the local by-laws of the various districts deal with these. Part 6 of
 the New York code is dealt with partly by the London Building Act, and
 partly by the local by-laws. Parts 23 and 24 of the New York code are not
 dealt with in the English acts at all. In America the standard quality for
-all materials is set out, but in no English acts do we find the definition
+all materials is set out, but in no English acts do we find the [[Definition|definition]]
 of the quality of timber, new materials, steel, &c. Iron and steel
-construction is in its infancy in England as compared with America, and
+construction is in its [[Infancy|infancy]] in England as compared with America, and
 probably this accounts for no special regulations being in force; but part
 22 of the New York Building Code, section 110 to 129 inclusive, deals very
 fully with iron and steel construction, and this is further supplemented by
@@ -577,10 +577,10 @@ the liquid being so closed as to avoid any oozing out of the liquid, &c.
 
 In London fire-resisting construction is dealt with in the London Building
 Act, and its second schedule, and in London County Council Theatre and
-Factory Acts, &c. In New York the building code (parts 19, 20 and 21) deals
+[[Factory Acts]], &c. In New York the building code (parts 19, 20 and 21) deals
 with fire appliances, escapes, and fire-proof shutters and doors,
 fire-proof buildings and fire-proof floors, and requires that all tenement
-houses shall have an iron ladder for escape. A section somewhat similar to
+houses shall have an iron [[Ladder|ladder]] for escape. A section somewhat similar to
 the last came into force in London in 1907 under the London Building Act,
 being framed with a view to require all existing projecting one-storey
 shops to have a fire-resisting roof, and all existing buildings over 50 ft.
@@ -595,7 +595,7 @@ burglar proof. This method consists in using steel dovetailed sheets fixed
 between small steel stanchions and plastered in cement on both sides. This
 form of construction was also used at the British pavilion, Paris
 Exhibition 1900, and has been employed in numerous other buildings in
-England, and also in South Africa, Venezuela, and India (Delhi durbar). The
+England, and also in South Africa, Venezuela, and India ([[Delhi]] [[Durbar|durbar]]). The
 use of many of these convenient and sound forms of building construction
 for ordinary buildings in London, and in districts of England where the
 model by-laws are in force, is prohibited because they do not comply with
@@ -608,7 +608,7 @@ MASONRY, PAINTER-WORK, PLASTERING, ROOFS, SCAFFOLD, SHORING, STAIRCASE,
 STEEL CONSTRUCTION, STONE, TIMBER, WALL-COVERINGS, &c.
 
 The principal publications for reference in connexion with this subject
-are: _The Building and Health Laws of the City of New York_, Brooklyn Eagle
+are: _The Building and Health Laws of the City of New York_, Brooklyn [[Eagle]]
 Library, No. 85; _Rules and Regulations affecting Building Operations in
 the administrative County of London_, compiled by Ellis Marsland;
 _Annotated By-Laws as to House Drainage, &c._, by Jensen; _Metropolitan

@@ -6,19 +6,19 @@ topic: revolution
 
 # Cheribon
 
-CHERIBON, a residency of the island of Java, Dutch East Indies, bounded
+CHERIBON, a residency of the island of [[Java]], Dutch [[East Indies]], bounded
 S. and W. by the Preanger regencies, N.W. by Krawang, N. by the Java
 Sea, and E. by the residencies of Tegal and Banyumas. Pop. (1897)
-1,577,521, including 867 Europeans, 21,108 Chinese, and 2016 Arabs and
+1,577,521, including 867 Europeans, 21,108 Chinese, and 2016 [[Arabs]] and
 other Asiatic foreigners. The natives consist of Middle Javanese in the
 north and Sundanese in the south. Cheribon has been for many centuries
 the centre of Islamism in western Java, and is also the seat of a
-fanatical Mahommedan sect controlled from Mecca. The native population
+fanatical Mahommedan sect controlled from [[Mecca]]. The native population
 is on the whole orderly and prosperous. The northern half of the
 residency is flat and marshy in places, especially in the north-western
 corner, while the southern half is mountainous. In the middle stands the
 huge volcano Cherimai, clad with virgin forest and coffee plantations,
-and surrounded at its foot by rice fields. South-south-west of Cherimai
+and surrounded at its foot by rice [[Fields|fields]]. South-south-west of Cherimai
 on the Preanger border is the Sawal volcano, at whose foot is the
 beautiful Penjalu lake. Sulphur and salt springs occur on the slopes of
 Cherimai, and near Palimanan there is a cavernous hole called Guwagalang

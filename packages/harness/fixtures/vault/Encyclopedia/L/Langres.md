@@ -1,25 +1,25 @@
 # Langres
 
-LANGRES, a town of eastern France, capital of an arrondissement in the
+LANGRES, a town of eastern France, capital of an [[Arrondissement|arrondissement]] in the
 department of Haute-Marne, 22 m. S.S.E. of Chaumont on the eastern
-railway to Belfort. Pop. (1906) town, 6663; commune, 9803. Langres
+railway to Belfort. Pop. (1906) town, 6663; [[Commune|commune]], 9803. Langres
 stands at a height of some 1550 ft. on a jutting promontory of the
 tableland known as the plateau de Langres, and overlooks eastward and
-westward respectively the valleys of the Marne and its tributary the
+westward respectively the valleys of the [[Marne]] and its tributary the
 Bonnelle. From the cathedral tower and the ramparts which surround the
 town there is an extensive view over the valley of the Marne, the Vosges
-and the Côte d'Or, and in clear weather Mt Blanc (160 m. distant) is
+and the Côte d'Or, and in clear weather Mt [[Blanc]] (160 m. distant) is
 visible. The cathedral of St Mammès, for the most part in the
 Transitional style of the 12th century, has a west front in the
 Graeco-Roman style of the 18th century and a fine Renaissance chapel.
-The church of St Martin (13th, 15th and 18th centuries) possesses a
+The church of St [[Martin]] (13th, 15th and 18th centuries) possesses a
 figure of Christ of the 16th century, one of the finest wood carvings
 known. The ramparts are protected by several towers, most of which date
 from the 16th century. The Gallo-Roman gate, one of four entrances in
 the Roman period, is preserved, but is walled up. The Porte des Moulins
 (17th century) is the most interesting of the other gates. The town
 possesses a museum rich in Gallo-Roman antiquities, a picture gallery
-and an important library. The birth of Denis Diderot here is
+and an important library. The birth of Denis [[Diderot]] here is
 commemorated by a statue. Langres is the seat of a bishop and a
 sub-prefect, and has tribunals of first instance and of commerce, a
 higher ecclesiastical seminary and communal colleges for both sexes. It
@@ -50,7 +50,7 @@ century it was burnt by the Vandals and by Attila.
   and Le Pailly batteries, Fort Vercingetorix, the last, 5 m. S.W. of
   the place, standing on a steep and narrow spur of the main plateau,
   and in second line the old fort de la Marnotte, and the large
-  bastioned citadel (the town enceinte is "déclassée"); (d) the east
+  bastioned citadel (the town [[Enceinte|enceinte]] is "déclassée"); (d) the east
   front, marked by Forts Montlandon and Plesnoy at the north and south
   ends respectively of a long steep ridge, 6 m. E. of Langres, the
   bridges over the Marne leading to these works being commanded by Fort

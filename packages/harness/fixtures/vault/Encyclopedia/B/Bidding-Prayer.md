@@ -16,7 +16,7 @@ Greek liturgies, e.g. that of St Chrysostom, in the Gallican liturgy,
 and in the pre-Reformation liturgies of England. The form varies, but in
 all the characteristic feature is that the minister tells the people
 what to pray for. Thus in England in the 16th century it took the form
-of a direction to the people what to remember in "bidding their beads."
+of a direction to the people what to remember in "bidding their [[Bead|beads]]."
 In course of time the word "bid" in the sense of "pray" became obsolete
 and was confused with "bid" in the sense of "command" (from O. Eng.
 _beodan_, to offer, present, and hence to announce, or command; cf. Ger.

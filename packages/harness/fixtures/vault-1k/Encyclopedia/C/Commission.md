@@ -65,13 +65,13 @@ on transactions directly resulting from agency and may be payable though
 the principal acquires no benefit. In order to claim remuneration an
 agent must be legally qualified to act in the capacity in which he
 claims remuneration. He cannot recover in respect of unlawful or
-wagering transactions, or in cases of misconduct or breach of duty.
+wagering transactions, or in cases of misconduct or [[Breach|breach]] of duty.
 
 _Secret Commissions._--The giving of a commission, in the sense of a
 bribe or unlawful payment to an agent or employé in order to influence
 him in relation to his principal's or employer's affairs, has grown to
 considerable proportions in modern times; it has been rightly regarded
-as a gross breach of trust upon the part of employés and agents,
+as a [[Gros|gross]] breach of trust upon the part of employés and agents,
 inasmuch as it leads them to look to their own interests rather than to
 those of their employers. In order to suppress this bribing of employés
 the English legislature in 1906 passed the Prevention of Corruption Act,

@@ -8,7 +8,7 @@ id: 42-1532
 
 # Burlamaqui
 
-BURLAMAQUI, JEAN JACQUES (1694-1748), Swiss publicist, was born at Geneva
+BURLAMAQUI, JEAN JACQUES (1694-1748), Swiss publicist, was born at [[Geneva]]
 on the 24th of June 1694. At the age of twenty-five he was designated
 honorary professor of ethics and the law of nature at the university of
 Geneva. Before taking up the appointment he travelled through France and

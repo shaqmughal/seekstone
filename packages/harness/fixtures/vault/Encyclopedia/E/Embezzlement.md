@@ -1,18 +1,18 @@
 # Embezzlement
 
 EMBEZZLEMENT (A.-Fr. _embesilement_, from _beseler_ or _besillier_, to
-destroy), in English law, a peculiar form of theft, which is
+destroy), in [[English Law|English law]], a peculiar form of theft, which is
 distinguished from the ordinary crime in two points:--(1) It is
 committed by a person who is in the position of clerk or servant to the
 owner of the property stolen; and (2) the property when stolen is in the
-possession of such clerk or servant. The definition of embezzlement as a
+possession of such clerk or servant. The [[Definition|definition]] of embezzlement as a
 special form of theft arose out of the difficulties caused by the legal
-doctrine that to constitute larceny the property must be taken out of
+doctrine that to constitute [[Larceny|larceny]] the property must be taken out of
 the possession of the owner. Servants and others were thus able to steal
 with impunity goods entrusted to them by their masters. A statute of
 Henry VIII. (1529) was passed to meet this case; and it enacted that it
-should be felony in servants to convert to their own use caskets,
-jewels, money, goods or chattels delivered to them by their masters.
+should be felony in servants to convert to their own use [[Casket|caskets]],
+[[Jewel|jewels]], money, goods or [[Chattel|chattels]] delivered to them by their masters.
 "This act," says Sir J.F. Stephen (_General View of the Criminal Law of
 England_), "assisted by certain subtleties according to which the
 possession of the servant was taken under particular circumstances to be
@@ -55,7 +55,7 @@ the same. A clerk or servant has been defined to be a person bound
 either by an express contract of service or by conduct implying such a
 contract to obey the orders and submit to the control of his master in
 the transaction of the business which it is his duty as such clerk or
-servant to transact. (Stephen's _Digest of the Criminal Law_, Art. 309.)
+servant to transact. (Stephen's _[[Digest]] of the Criminal Law_, Art. 309.)
 
 The Larceny Act 1901, amending sections 75 and 76 of the Larceny Act
 1861, also describes similar offences on the part of persons, not being

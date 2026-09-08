@@ -7,7 +7,7 @@ type: note
 
 # Mafra
 
-MAFRA, a town of Portugal, in the district of Lisbon (formerly in the
+MAFRA, a town of Portugal, in the district of [[Lisbon]] (formerly in the
 province of Estremadura); near the Atlantic coast and the right bank of
 the river Lizandro, and 20 m. N.W. of Lisbon. Pop. (1900), 4769. Mafra
 is remarkable for its monastery, church, and palace, built by John V. in

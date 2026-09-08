@@ -6,7 +6,7 @@ vice-minister of war in 1892. He became governor-general of Formosa in
 1900, holding at the same time the portfolio of war. When the conflict
 with Russia became imminent in 1903, he gave up his portfolio to become
 vice-chief of the general staff, a sacrifice which elicited much public
-applause. Throughout the Russo-Japanese War (1904-5) he served as chief
+[[Applause|applause]]. Throughout the Russo-Japanese War (1904-5) he served as chief
 of staff to Field Marshal Oyama, and it was well understood that his
 genius guided the strategy of the whole campaign, as that of General
 Kawakami had done in the war with China ten years previously. General

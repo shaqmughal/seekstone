@@ -7,10 +7,10 @@ type: reference
 
 # Fallmerayer
 
-FALLMERAYER, JAKOB PHILIPP (1790-1861), German traveller and historical
+FALLMERAYER, [[Jakob|JAKOB]] PHILIPP (1790-1861), German traveller and historical
 investigator, best known for his opinions in regard to the ethnology of
 the modern Greeks, was born, the son of a poor peasant, at Tschotsch,
-near Brixen in Tirol, on the 10th of December 1790. In 1809 he absconded
+near [[Brixen]] in Tirol, on the 10th of December 1790. In 1809 he absconded
 from the cathedral choir school at Brixen and made his way to Salzburg,
 where he supported himself by private teaching while he studied
 theology, the Semitic languages, and history. After a year's study he
@@ -29,31 +29,31 @@ Spreti. Two years of garrison life at Lindau on Lake Constance after the
 peace were spent in the study of modern Greek, Persian and Turkish.
 
 Resigning his commission in 1818, he was successively engaged as teacher
-in the gymnasium at Augsburg and in the progymnasium and lyceum at
+in the gymnasium at [[Augsburg]] and in the progymnasium and [[Lyceum|lyceum]] at
 Landshut. In 1827 he won the gold medal offered by the university of
-Copenhagen with his _Geschichte des Kaisertums von Trapezunt_, based on
+[[Copenhagen]] with his _Geschichte des Kaisertums von Trapezunt_, based on
 patient investigation of Greek and oriental MSS. at Venice and Vienna.
 The strictures on priestcraft contained in the preface to this book gave
 offence to the authorities, and his position was not improved by the
 liberal views expressed in his _Geschichte der Halbinsel Morea wahrend
 des Mittelalters_ (Stuttgart, 1830-1836, 2 pts.). The three years from
 1831 to 1834 he spent in travel with the Russian count Ostermann
-Tolstoy, visiting Egypt, Palestine, Syria, Cyprus, Rhodes,
+Tolstoy, visiting Egypt, Palestine, Syria, [[Cyprus]], Rhodes,
 Constantinople, Greece and Naples. On his return he was elected in 1835
 a member of the Royal Bavarian Academy of Sciences, but he soon after
 left the country again on account of political troubles, and spent the
 greater part of the next four years in travel, spending the winter of
-1839-1840 with Count Tolstoy at Geneva. Constantinople, Trebizond,
-Athos, Macedonia, Thessaly and Greece were visited by him during
+1839-1840 with Count Tolstoy at [[Geneva]]. Constantinople, Trebizond,
+[[Athos]], Macedonia, Thessaly and Greece were visited by him during
 1840-1841; and after some years' residence in Munich he returned in 1847
 to the East, and travelled in Palestine, Syria and Asia Minor. The
 authorities continued to regard him with suspicion, and university
 students were forbidden to attend the lectures he delivered at Munich.
 He entered, however, into friendly relations with the crown prince
-Maximilian, but this intimacy was destroyed by the events following on
+[[Maximilian]], but this intimacy was destroyed by the events following on
 1848. At that period he was appointed professor of history in the Munich
 University, and made a member of the national congress at
-Frankfort-on-Main. He there joined the left or opposition party, and in
+[[Frankfort-On-Main|Frankfort-on-Main]]. He there joined the left or opposition party, and in
 the following year he accompanied the rump-parliament to Stuttgart, a
 course of action which led to his expulsion from his professorate.
 During the winter of 1849-1850 he was an exile in Switzerland, but the
@@ -76,7 +76,7 @@ menace to the western Germanic nations. These views he expressed in a
 series of brilliant articles in German journals. His most important
 contribution to learning remains his history of the empire of Trebizond.
 Prior to his discovery of the chronicle of Michael Panaretos, covering
-the dominion of Alexus Comnenus and his successors from 1204 to 1426,
+the dominion of Alexus [[Comnenus]] and his successors from 1204 to 1426,
 the history of this medieval empire was practically unknown.
 
   His works are--_Geschichte des Kaiserthums Trapezunt_ (Munich,

@@ -30,7 +30,7 @@ and included in the urban district, has a church dating from the 12th to
 the end of the 16th century. Kingsgate, on the North Foreland, north of
 Broadstairs on the coast, changed its name from St Bartholomew's Gate in
 honour of Charles II.'s landing here with the duke of York in 1683 on his
-way from London to Dover. Stonehouse, close by, now a preparatory school
+way from London to [[Dover]]. Stonehouse, close by, now a preparatory school
 for boys, was the residence of Archbishop Tait, whose wife established the
 orphanage here.
 

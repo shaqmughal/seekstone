@@ -14,8 +14,8 @@ traditions were continued by his children: GENEVIEVE (1645-1708), who
 married the sculptor Jacques Clerion; MADELEINE (1646-1710), whose work
 survives in the _Trophies d'armes_ at Versailles; BON (1649-1717), a
 successful teacher and decorative artist; and LOUIS the younger
-(1654-1733), who copied Raphael's cartoons for the Gobelins tapestry,
-and besides taking a high place as a painter was also a designer of
+(1654-1733), who copied Raphael's [[Cartoon|cartoons]] for the [[Gobelin|Gobelins]] tapestry,
+and besides taking a [[High Place|high place]] as a painter was also a designer of
 medals.
 
 ## See also

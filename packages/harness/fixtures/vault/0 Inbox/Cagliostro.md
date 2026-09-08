@@ -17,9 +17,9 @@ perpetrate forgeries and other crimes without exposing himself to the risk
 of detection. Having at last got into trouble with the authorities he fled
 from Sicily, and visited in succession Greece, Egypt, Arabia, Persia,
 Rhodes--where he took lessons in alchemy and the cognate sciences from the
-Greek Althotas--and Malta. There he presented himself to the grand master
+Greek Althotas--and [[Malta]]. There he presented himself to the grand master
 of the Maltese order as Count Cagliostro, and curried favour with him as a
-fellow alchemist, for the grand master's tastes lay in the same direction.
+[[Fellow|fellow]] alchemist, for the grand master's tastes lay in the same direction.
 From him he obtained introductions to the great houses of Rome and Naples,
 whither he now hastened. At Rome he married a beautiful but unprincipled
 woman, Lorenza Feliciani, with whom he travelled, under different names,
@@ -34,7 +34,7 @@ adored by the ladies. He went to Germany and Holland once more, and to
 Russia, Poland, and then again to Paris, where, in 1785, he was implicated
 in the affair of the Diamond Necklace (_q.v._); and although Cagliostro
 escaped conviction by the matchless impudence of his defence, he was
-imprisoned for other reasons in the Bastille. On his liberation he visited
+imprisoned for other reasons in the [[Bastille]]. On his liberation he visited
 England once more, where he succeeded well at first; but was ultimately
 outwitted by some English lawyers, and confined for a while in the Fleet
 prison. Leaving England, he travelled through Europe as far as Rome, where

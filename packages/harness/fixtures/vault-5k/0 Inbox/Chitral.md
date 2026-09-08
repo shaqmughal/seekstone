@@ -21,7 +21,7 @@ it had been the object of the policy of the government of India to
 control the external affairs of Chitral in a direction friendly to
 British interests, to secure an effective guardianship over its northern
 passes, and to keep watch over what goes on beyond these passes. This
-policy resulted in a British agency being established at Gilgit (Kashmir
+policy resulted in a British agency being established at [[Gilgit]] (Kashmir
 territory), with a subordinate agency in Chitral, the latter being
 usually stationed at Mastuj (65 m. nearer to Gilgit than the Chitral
 capital), and occasional visits being paid to the capital. Chitral can
@@ -43,7 +43,7 @@ British outpost.
   probably to be recognized in the people called Kho (speaking a
   language called Khowar), who form the majority of its inhabitants.
   Upon the Kho a people called Ronas have been superimposed. The Ronas,
-  who form the chief caste and fighting race of the Chitral districts,
+  who form the chief [[Caste|caste]] and fighting race of the Chitral districts,
   originally came from the north, but they have adopted the language and
   fashions of the conquered Chitrali.
 
@@ -51,7 +51,7 @@ British outpost.
   siege which it sustained in the spring of 1895. Owing to complications
   arising from the demarcation of the boundary of Afghanistan which was
   being carried out at that time, and the ambitious projects of Umra
-  Khan, chief of Jandol, which was a tool in the hands of Sher Afzul, a
+  [[Khan]], chief of Jandol, which was a tool in the hands of Sher Afzul, a
   political refugee from Chitral supported by the amir at Kabul, the
   mehtar (or ruler) of Chitral was murdered, and a small British and
   Sikh garrison subsequently besieged in the fort. A large force of
@@ -62,7 +62,7 @@ British outpost.
   political agent Dr Robertson (afterwards Sir George Robertson) and his
   military force of 543 men (of whom 137 were non-combatants) was at one
   time critical. Two forces were organized for the relief. One was under
-  Sir R. Low, with 15,000 men, who advanced by way of the Malakand pass,
+  Sir R. Low, with 15,000 men, who advanced by way of the [[Malakand Pass|Malakand pass]],
   the Swat river and Dir. The other, which was the first to reach
   Chitral, was under Colonel Kelly, commanding the 32nd Pioneers, who
   was placed in command of all the troops in the Gilgit district,
@@ -80,7 +80,7 @@ British outpost.
   the purpose from the Chitralis themselves. The troops in Swat were
   also concentrated at Chakdara and reduced in strength. The mehtar,
   Shuja-ul-Mulk, who was installed in September 1895, visited the Delhi
-  durbar in January 1903.
+  [[Durbar|durbar]] in January 1903.
 
   See Sir George Robertson, _Chitral_ (1898).    (T. H. H.*)
 

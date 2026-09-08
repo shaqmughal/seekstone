@@ -12,7 +12,7 @@ Tyne, 18 m. E. of Edinburgh by the North British railway, being the
 terminus of a branch line from Longniddry Junction. Five bridges cross
 the river, on the right bank of which lies the old and somewhat decayed
 suburb of Nungate, interesting as having contained the Giffordgate,
-where John Knox was born, and where also are the ruins of the
+where John [[Knox]] was born, and where also are the ruins of the
 pre-Reformation chapel of St Martin. The principal building in the town
 is St Mary's church, a cruciform Decorated edifice in red sandstone,
 probably dating from the 13th century. It is 210 ft. long, and is
@@ -31,11 +31,11 @@ who was such an expert and enthusiastic coachman that he once drove the
 mail from London to Haddington without taking rest; the corn exchange,
 next to that of Edinburgh the largest in Scotland; the town house, with
 a spire 150 ft. high, in front of which is a monument to John Home, the
-author of _Douglas_; the district asylum to the north of the burgh; the
+author of _Douglas_; the district [[Asylum|asylum]] to the north of the burgh; the
 western district hospital; the Tenterfield home for children; the free
 library and the Knox Memorial Institute. This last-named building was
 erected in 1879 to replace the old and famous grammar school, where John
-Knox, William Dunbar, John Major and possibly George Buchanan and Sir
+Knox, William Dunbar, John Major and possibly George [[Buchanan]] and Sir
 David Lindsay were educated. John Brown (1722-1787), a once celebrated
 dissenting divine, author of the _Self-Interpreting Bible_, ministered
 in the burgh for 36 years and is buried there; his son John the
@@ -46,9 +46,9 @@ works, was also born there, and Edward Irving was for years mathematical
 master in the grammar school. In Hardgate Street is "Bothwell Castle,"
 the town house of the earl of Bothwell, where Mary Queen of Scots rested
 on her way to Dunbar. The ancient market cross has been restored. The
-leading industries are the making of agricultural implements,
+leading industries are the making of agricultural [[Implement|implements]],
 manufactures of woollens and sacking, brewing, tanning and
-coach-building, besides corn mills and engineering works.
+coach-building, besides corn mills and [[Engineering|engineering]] works.
 
 The burgh is the retail centre for a large district, and its grain
 markets, once the largest in Scotland, are still of considerable
@@ -71,14 +71,14 @@ the town records the event and marks the point to which the water rose.
 
   There are many interesting places within a few miles of Haddington.
   Five miles E. is Whittingehame House, and 5 m. N.E. is the thriving
-  village of East Linton (pop. 919). About 2-1/2 m. N. lies
+  village of East [[Linton]] (pop. 919). About 2-1/2 m. N. lies
   Athelstaneford (locally, Elshinford), so named from the victory of
   Hungus, king of the Picts, in the 8th century over the Northumbrian
   Athelstane. On a hill near Drem, 3-1/2 m. N. by W., are traces of a
   Romano-British settlement, and the remains of the priest's house of
-  the Knights Templars, to whom the barony once belonged. On the coast
+  the [[Knight|Knights]] Templars, to whom the [[Barony|barony]] once belonged. On the coast
   is the pretty village of Aberlady on a fine bay, and in the
-  neighbourhood are some of the finest golf links in Scotland, such as
+  neighbourhood are some of the finest [[Golf|golf]] links in Scotland, such as
   Luffness, Gullane, Archerfield and Muirfield. On Gosford Bay is
   Gosford House, an 18th-century mansion, the seat of the earl of
   Wemyss. At Gladsmuir, 3-1/2 m. W. of Haddington, alleged by some to

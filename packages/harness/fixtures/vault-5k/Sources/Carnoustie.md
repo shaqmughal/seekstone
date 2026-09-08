@@ -7,9 +7,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Carnoustie
 
 # Carnoustie
 
-CARNOUSTIE, a police burgh and watering-place of Forfarshire, Scotland.
-Pop. (1901) 5204. It lies on the North Sea, 10¾ m. E.N.E. of Dundee by
-the North British railway. Bathing and golfing are good. Barry Links, a
+CARNOUSTIE, a police burgh and watering-place of [[Forfarshire]], Scotland.
+Pop. (1901) 5204. It lies on the North Sea, 10¾ m. E.N.E. of [[Dundee]] by
+the North British railway. Bathing and golfing are good. [[Barry]] Links, a
 triangular sandy track occupying the south-eastern corner of the shire,
 are used as a camping and manoeuvring ground for the artillery and
 infantry forces of the district, and occasionally of Scotland. Its most

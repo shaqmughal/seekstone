@@ -10,7 +10,7 @@ type: note
 CANALIS (also "canal" and "channel"; from the Latin), in architecture,
 the sinking between the fillets of the volute of the Ionic capital: in
 the earliest examples, though sunk below the fillets, it is slightly
-convex in section.
+[[Convex|convex]] in section.
 
 ## References
 

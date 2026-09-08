@@ -23,18 +23,18 @@ _Up to 1 year old (A.)_
 _Between 1 and 3 years (B.)_
 
     One-third to be deducted off repairs to and renewal of woodwork of
-    hull, masts and spars, furniture, upholstery, crockery, metal and
-    glassware, also sails, rigging, ropes, sheets and hawsers (other than
+    [[Hull|hull]], masts and spars, furniture, upholstery, crockery, metal and
+    glassware, also sails, rigging, ropes, sheets and [[Hawser|hawsers]] (other than
     wire and chain), awnings, covers and painting.
 
     One-sixth to be deducted off wire rigging, wire ropes and wire hawsers,
-    chain cables and chains, donkey engines, steam winches and connexions,
+    chain [[Cable|cables]] and chains, donkey engines, steam winches and connexions,
     steam cranes and connexions; other repairs in full.
 
 _Between 3 and 6 years (C.)_
 
     Deductions as above under clause B, except that one-sixth be deducted
-    off ironwork of masts and spars, and machinery (inclusive of boilers
+    off ironwork of masts and spars, and machinery (inclusive of [[Boiler|boilers]]
     and their mountings).
 
 _Between 6 and 10 years (D.)_
@@ -81,7 +81,7 @@ In the case of _wooden or composite ships_:--
         which had not been in use.
 
         Metal sheathing shall be dealt with, by allowing in full the cost
-        of a weight equal to the gross weight of metal sheathing stripped
+        of a weight equal to the [[Gross|gross]] weight of metal sheathing stripped
         off, minus the proceeds of the old metal. Nails, felt and labour
         metalling are subject to a deduction of one-third.
 
@@ -91,7 +91,7 @@ In the case of _ships generally_:--
     including labour of taking out and replacing it, shall be allowed in
     full.
 
-    Graving dock dues, including expenses of removals, cartages, use of
+    Graving [[Dock|dock]] dues, including expenses of removals, cartages, use of
     shears, stages and graving dock materials, shall be allowed in full.
 
 ## See also

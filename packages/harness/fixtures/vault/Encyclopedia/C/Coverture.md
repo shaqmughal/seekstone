@@ -7,11 +7,11 @@ topic: biology
 # Coverture
 
 COVERTURE (a covering, an old French form of the modern _couverture_), a
-term in English law applied to the condition of a woman during marriage,
+term in [[English Law|English law]] applied to the condition of a woman during marriage,
 when she is supposed to be under the cover, influence and protection of
 her husband, and so immune in certain cases from punishment for crime
 committed in the presence and on the presumed coercion of her husband.
-(See further HUSBAND AND WIFE.)
+(See further [[Husband And Wife|HUSBAND AND WIFE]].)
 
 ## References
 

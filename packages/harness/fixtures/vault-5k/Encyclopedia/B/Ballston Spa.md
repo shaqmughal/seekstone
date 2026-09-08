@@ -2,7 +2,7 @@
 
 BALLSTON SPA, a village and the county-seat of Saratoga county, New York,
 U.S.A., about 7 m. S. of Saratoga Springs. Pop. (1890) 3527; (1900) 3923;
-(1910 U.S. Census) 4138. It is served by the Delaware & Hudson railway, and
+(1910 U.S. Census) 4138. It is served by the Delaware & [[Hudson]] railway, and
 is connected with Saratoga Springs, Albany, and Schenectady by electric
 lines. There are several manufacturing establishments, among which are one
 of the largest manufactories of paper-bags in the United States and a large

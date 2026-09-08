@@ -5,7 +5,7 @@ town of Derbyshire, England, 128¾ m. N.N.W. of London by the Midland
 railway; it is also served by the Great Northern railway. Pop. (1891)
 94,146; (1901) 114,848. Occupying a position almost in the centre of
 England, the town is situated chiefly on the western bank of the river
-Derwent, on an undulating site encircled with gentle eminences, from
+[[Derwent]], on an undulating site encircled with gentle eminences, from
 which flow the Markeaton and other brooks. In the second half of the
 19th century the prosperity of the town was enhanced by the
 establishment of the head offices and principal workshops of the Midland
@@ -17,10 +17,10 @@ principally of Perpendicular date but with earlier portions; St
 Alkmund's with its lofty spire, Decorated in style; St Andrew's, in the
 same style, by Sir G. G. Scott; and All Saints', which contains a
 beautiful choir-screen, good stained glass and monuments by L. F.
-Roubiliac, Sir Francis Chantrey and others. The body of this church is
+Roubiliac, Sir Francis [[Chantrey]] and others. The body of this church is
 in classic style (1725), but the tower was built 1509-1527, and is one
 of the finest in the midland counties, built in three tiers, and crowned
-with battlements and pinnacles, which give it a total height of 210 ft.
+with [[Battlement|battlements]] and pinnacles, which give it a total height of 210 ft.
 The Roman Catholic church of St Mary is one of the best examples of the
 work of A. W. Pugin. The Derby grammar school, one of the most ancient
 in England, was placed in 1160 under the administration of the chapter
@@ -33,7 +33,7 @@ and art gallery, the Devonshire almshouses, a remodelled foundation
 inaugurated by Elizabeth, countess of Shrewsbury, in the 16th century,
 and the town and county infirmary. The free library and museum
 buildings, together with a recreation ground, were gifts to the town
-from M. T. Bass, M.P. (d. 1884), while an arboretum of seventeen acres
+from M. T. Bass, M.P. (d. 1884), while an [[Arboretum|arboretum]] of seventeen acres
 was presented to the town by Joseph Strutt in 1840.
 
 Derby has been long celebrated for its porcelain, which rivalled that of
@@ -41,7 +41,7 @@ Saxony and France. This manufacture was introduced about 1750, and
 although for a time partially abandoned, it has been revived. There are
 also spar works where the fluor-spar, or Blue John, is wrought into a
 variety of useful and ornamental articles. The manufacture of silk,
-hosiery, lace and cotton formerly employed a large portion of the
+[[Hosiery|hosiery]], lace and cotton formerly employed a large portion of the
 population, and there are still numerous silk mills and elastic web
 works. Silk "throwing" or spinning was introduced into England in 1717
 by John Lombe, who found out the secrets of the craft when visiting
@@ -57,7 +57,7 @@ forty-two councillors. Area, 3449 acres.
 
 Littlechester, as its name indicates, was the site of a Roman fort or
 village; the site is in great part built over and the remains
-practically effaced. Derby was known in the time of the heptarchy as
+practically effaced. Derby was known in the time of the [[Heptarchy|heptarchy]] as
 Northworthig, and did not receive the name of Deoraby or Derby until
 after it was given up to the Danes by the treaty of Wedmore and had
 become one of their five boroughs, probably ruled in the ordinary way by

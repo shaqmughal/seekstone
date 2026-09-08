@@ -34,7 +34,7 @@ ensuing campaign. The young Archduke Charles, who won his own first
 laurels in the action of the 1st of March 1793, wrote after the battle,
 "Above all we have to thank Colonel Mack for these successes." Mack
 distinguished himself again on the field of Neerwinden; and had a leading
-part in the negotiations between Coburg and Dumouriez. He continued to
+part in the negotiations between [[Coburg]] and Dumouriez. He continued to
 serve as quartermaster-general, and was now made titular chief
 (_Inhaber_) of a cuirassier regiment. He received a wound at Famars, but
 in 1794 was once more engaged, having at last been made a major-general.
@@ -56,7 +56,7 @@ Archduke Charles, Mack was made quartermaster-general of the army, with
 instructions to prepare for a war with France. He did all that was
 possible within the available time to reform the army, and on the opening
 of the war of 1805 he was made quartermaster-general to the titular
-commander-in-chief in Germany, the Archduke Ferdinand. He was the real
+commander-in-chief in Germany, the Archduke [[Ferdinand]]. He was the real
 responsible commander of the army which opposed Napoleon in Bavaria, but
 his position was ill-defined and his authority treated with slight
 respect by the other general officers. For the events of the Ulm campaign

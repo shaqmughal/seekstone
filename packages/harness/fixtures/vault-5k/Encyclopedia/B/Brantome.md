@@ -11,7 +11,7 @@ id: 42-679
 BRANTOME, PIERRE DE BOURDEILLE, SEIGNEUR AND ABBE DE (c. 1540-1614),
 French historian and biographer, was born in Perigord about 1540. He was
 the third son of the baron de Bourdeille. His mother and his maternal
-grandmother were both attached to the court of Marguerite of Valois, and
+grandmother were both attached to the court of [[Marguerite]] of Valois, and
 at her death in 1549 he went to Paris, and later (1555) to Poitiers, to
 finish his education. He was given several benefices, the most important
 of which was the abbey of Brantome (see below), but he had no
@@ -34,7 +34,7 @@ private life about 1589, and he spent his last years in writing his
 _Memoirs_ of the illustrious men and women whom he had known. He died on
 the 15th of July 1614.
 
-Brantome left distinct orders that his manuscript should be printed; a
+Brantome left distinct orders that his [[Manuscript|manuscript]] should be printed; a
 first edition appeared, however, late (1665-1666) and not very complete.
 Of the later editions the most valuable are: one in 15 volumes (1740);
 another by Louis Jean Nicolas Monmerque (1780-1860) in 8 volumes

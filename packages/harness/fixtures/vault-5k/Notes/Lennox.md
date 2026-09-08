@@ -3,7 +3,7 @@
 LENNOX, a name given to a large district in Dumbartonshire and
 Stirlingshire, which was erected into an earldom in the latter half of
 the 12th century. It embraced the ancient sheriffdom of Dumbarton and
-nineteen parishes with the whole of the lands round Loch Lomond,
+nineteen parishes with the whole of the lands round Loch [[Lomond]],
 formerly Loch Leven, and the river of that name which glides into the
 estuary of the Clyde at the ancient castle of Dumbarton.
 
@@ -12,7 +12,7 @@ Lennox. It is probable that he was of Celtic descent, but the records
 are silent as to his part in history; that he was earl at all is only
 proved from the charters of his son, another Alwin, and he died some
 time before 1217. The second Alwin was father of ten sons, one of whom
-founded the clan Macfarlane, famous in the annals of the district, while
+founded the clan Macfarlane, famous in the [[Annals|annals]] of the district, while
 another was ancestor of Walter of Farlane, who married the heiress of
 the 6th earl of Lennox. Maldouen, the 3rd earl, eldest of the sons of
 Alwin the younger, is an historical personage; he was a witness to the
@@ -43,7 +43,7 @@ bodies begotten between them, with eventual remainder to Earl Duncan's
 nearest and lawful heirs. In 1424, when Murdoch, then duke of Albany,
 succeeded in ransoming the poet king James I. from his long English
 captivity, the aged Earl Duncan went with the Scottish party to Durham.
-The next year, however, he suffered the fate of Albany, being executed
+The next year, however, he suffered the [[Fate|fate]] of Albany, being executed
 perhaps for no other reason than that he was his father-in-law. The
 earldom was not forfeited, and the widowed duchess of Albany, now also
 countess of Lennox, lived secure in her island castle of Inchmurrin on
@@ -51,7 +51,7 @@ Loch Lomond until her death. Of her four sons, none of whom left
 legitimate issue, the eldest died in 1421, the two next suffered their
 father's fate at Stirling, while the youngest had to flee for his life
 to Ireland. Her daughter Isobel appears to have been the wife of Sir
-Walter Buchanan of that ilk.
+Walter [[Buchanan]] of that ilk.
 
 It was from Elizabeth, sister of the countess, that the next holders of
 the title descended. She was married to Sir John Stewart of Darnley
@@ -61,17 +61,17 @@ Scotland. Their grandson, another Sir John Stewart, created a lord of
 parliament as Lord Darnley, was served heir to his great-grandfather
 Duncan, earl of Lennox, in 1473, and was designated as earl of Lennox in
 a charter under the great seal in the same year. Thereafter followed
-disputes with John of Haldane, whose wife's great-grandmother had been
+disputes with John of [[Haldane]], whose wife's great-grandmother had been
 another of the three daughters of Duncan, 8th earl of Lennox, and in her
 right he contested the succession. Lord Darnley, however, appears to
 have silenced all opposition and for the last seven years of his life
 maintained his right to the earldom undisputed. Three of his younger
 sons were greatly distinguished in the French service, one being captain
 of Scotsmen-at-arms, another _premier homme d'armes_, and a third
-_maréchal de France_. Their elder brother Matthew, 2nd earl of this
-line, fell on Flodden Field, leaving by his wife Elizabeth, daughter of
+_maréchal de France_. Their elder brother [[Matthew]], 2nd earl of this
+line, fell on [[Flodden]] Field, leaving by his wife Elizabeth, daughter of
 James, earl of Arran, and niece of James III., a son and successor John,
-who became one of the guardians of James V. and was murdered in 1526.
+who became one of the [[Guardian|guardians]] of James V. and was murdered in 1526.
 His son Matthew, the 4th earl, played a great part in the intrigues of
 his time, and by his marriage with Margaret Douglas allied himself to
 the royal house of England as well as strengthening the ties which bound
@@ -96,7 +96,7 @@ Stewart.
 Two years later the title was granted to Robert Stewart, the king's
 grand-uncle, second son of John, the 3rd earl, but he in 1580 exchanged
 it for that of earl of March. On the same day the earldom of Lennox was
-given to Esme Stewart, first cousin of the king and grandson of the 3rd
+given to Esme Stewart, first [[Cousin|cousin]] of the king and grandson of the 3rd
 earl, he being son of John Stewart (adopted heir of the maréchal
 d'Aubigny) and his French wife, Anne de la Queulle. In the following
 year Esme was created duke of Lennox, earl of Darnley, Lord Aubigny,
@@ -131,7 +131,7 @@ life," writes Pepys--he was sent into exile as ambassador to Denmark,
 where he was drowned in 1672. His wife had had the Lennox estates
 granted to her for life, but his only sister Katharine, wife of Henry
 O'Brien, heir apparent of the 7th earl of Thomond, was served heir to
-him. Her only daughter, the countess of Clarendon, was mother of
+him. Her only daughter, the countess of [[Clarendon]], was mother of
 Theodosia Hyde, ancestress of the present earls of Darnley.
 
 The Lennox dukedom, being to heirs male, now devolved upon Charles II.,
@@ -143,8 +143,8 @@ lands of the Lennox title were also granted to him, but these he sold to
 the duke of Montrose.
 
 His son Charles, who inherited his grandmother's French dukedom of
-Aubigny, was a soldier of distinction, as were the 3rd and 4th dukes.
-The wife of the last, Lady Charlotte Gordon, as heir of her brother
+Aubigny, was a soldier of distinction, as were the 3rd and 4th [[Dukes|dukes]].
+The wife of the last, Lady [[Charlotte]] Gordon, as heir of her brother
 brought the ancient estates of her family to the Lennoxes; the
 additional name of Gordon being taken by the 5th duke of Richmond and of
 Lennox on the death of his uncle, the 5th duke of Gordon. In the next

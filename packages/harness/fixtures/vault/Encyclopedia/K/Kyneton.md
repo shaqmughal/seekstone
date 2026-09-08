@@ -7,7 +7,7 @@ tags: [jurisprudence-theory, fisheries-studies]
 
 # Kyneton
 
-KYNETON, a town of Dalhousie county, Victoria, Australia, on the river
+KYNETON, a town of [[Dalhousie]] county, Victoria, [[Australia]], on the river
 Campaspe, 56 m. by rail N.N.W. of Melbourne. Pop. (1901), 3274. It is
 the centre of a prosperous agricultural and pastoral district. Important
 stock sales and an annual exhibition of stock are held. There are,

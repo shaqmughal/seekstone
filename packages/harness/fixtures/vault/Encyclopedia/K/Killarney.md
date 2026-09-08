@@ -15,10 +15,10 @@ much frequented by tourists. The principal buildings are the Roman
 Catholic cathedral and bishop's palace of the diocese of Kerry, designed
 by A. W. Pugin, a large Protestant church and several hotels. Adjoining
 the town is the mansion of the earl of Kenmare. There is a school of
-arts and crafts, where carving and inlaying are prosecuted. The only
-manufacture of importance now carried on at Killarney is that of fancy
+[[Arts And Crafts|arts and crafts]], where carving and inlaying are prosecuted. The only
+manufacture of importance now carried on at Killarney is that of [[Fancy|fancy]]
 articles from arbutus wood; but it owed its origin to iron-smelting
-works, for which abundant fuel was obtained from the neighbouring
+works, for which abundant [[Fuel|fuel]] was obtained from the neighbouring
 forests.
 
 The lakes of Killarney, about 1½ m. from the town, lie in a basin
@@ -41,7 +41,7 @@ pyramidal rock.
 Besides the lakes of Killarney themselves, the immediate neighbourhood
 includes many features of natural beauty and of historic interest. Among
 the first are Macgillicuddy's Reeks and the Torc and Purple Mountains,
-the famous pass known as the Gap of Dunloe, Mount Mangerton, with a
+the famous pass known as the [[Gap]] of Dunloe, Mount Mangerton, with a
 curious depression (the Devil's Punchbowl) near its summit, the
 waterfalls of Torc and Derrycunihy, and Lough Guitane, above Lough
 Leane. Notable ruins and remains, besides Muckross and Innisfallen,

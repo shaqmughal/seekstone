@@ -11,7 +11,7 @@ DOYEN, GABRIEL FRANÇOIS (1726-1806), French painter, was born at Paris
 in 1726. His passion for art prevailed over his father's wish, and he
 became in his twelfth year a pupil of Vanloo. Making rapid progress, he
 obtained at twenty the Grand Prix, and in 1748 set out for Rome. He
-studied the works of Annibale Caracci, Cortona, Giulio Romano and
+studied the works of Annibale [[Caracci]], [[Cortona]], [[Giulio Romano]] and
 Michelangelo, then visited Naples, Venice, Bologna and other Italian
 cities, and in 1755 returned to Paris. At first unappreciated and
 disparaged, he resolved by one grand effort to conquer a reputation, and

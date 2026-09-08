@@ -8,7 +8,7 @@ type: article
 # Bogomils
 
 BOGOMILS, the name of an ancient religious community which had its
-origin in Bulgaria. It is difficult to ascertain whether the name was
+origin in [[Bulgaria]]. It is difficult to ascertain whether the name was
 taken from the reputed founder of that sect, a certain pope Bogumil or
 Bogomil, or whether he assumed that name after it had been given to the
 whole sect. The word is a direct translation into Slavonic of
@@ -24,7 +24,7 @@ form or through oral tradition. Concerning the Bogomils something can be
 gathered from the information collected by Euthymius Zygadenus in the
 12th century, and from the polemic _Against the Heretics_ written in
 Slavonic by St Kozma during the 10th century. The old Slavonic lists of
-forbidden books of the 15th and 16th centuries also give us a clue to
+forbidden books of the 15th and 16th centuries also give us a [[Clue|clue]] to
 the discovery of this heretical literature and of the means the Bogomils
 employed to carry on their propaganda. Much may also be learnt from the
 doctrines of the numerous heretical sects which arose in Russia after
@@ -50,7 +50,7 @@ _Doctrine._--From the imperfect and conflicting data which are alone
 available one positive result can be gathered, viz. that the Bogomils
 were both Adoptionists and Manichaeans. They had accepted the teaching
 of Paul of Samosata, though at a later period the name of Paul was
-believed to be that of the Apostle; and they were not quite free from
+believed to be that of the [[Apostle]]; and they were not quite free from
 the Dualistic principle of the Gnostics, at a later period too much
 identified with the teaching of Mani. They rejected the pneumatic
 Christianity of the orthodox churches and did not accept the docetic
@@ -63,7 +63,7 @@ validity of sacraments and ceremonies. The miracles performed by Jesus
 were interpreted in a spiritual sense, not as real material occurrences;
 the Church was the interior spiritual church in which all held equal
 share. Baptism was only to be practised on grown men and women. The
-Bogomils repudiated infant baptism, and considered the baptismal rite to
+Bogomils repudiated [[Infant|infant]] baptism, and considered the baptismal rite to
 be of a spiritual character neither by water nor by oil but by
 self-abnegation, prayers and chanting of hymns. Carp Strigolnik, who in
 the 14th century preached this doctrine in Novgorod, explained that St
@@ -76,10 +76,10 @@ appointed minister. The congregation were the "elect," and each member
 could obtain the perfection of Christ and become a Christ or "Chlist."
 Marriage was not a sacrament. The Bogomils refused to fast on Mondays
 and Fridays. They rejected monachism. They declared Christ to be the Son
-of God only through grace like other prophets, and that the bread and
-wine of the eucharist were not transformed into flesh and blood; that
+of God only through [[Grace|grace]] like other prophets, and that the bread and
+wine of the [[Eucharist|eucharist]] were not transformed into flesh and blood; that
 the last judgment would be executed by God and not by Jesus; that the
-images and the cross were idols and the worship of saints and relics
+[[Image|images]] and the cross were idols and the worship of saints and relics
 idolatry.
 
 These Paulician doctrines have survived in the great Russian sects, and
@@ -90,7 +90,7 @@ been partly preserved in some of their literary remains, and has taken
 deep root in the beliefs and traditions of the Bulgarians and other
 nations with whom they had come into close contact. The chief literature
 of all the heretical sects throughout the ages has been that of
-apocryphal Biblical narratives, and the popes Jeremiah or Bogumil are
+apocryphal Biblical narratives, and the popes [[Jeremiah]] or Bogumil are
 directly mentioned as authors of such forbidden books "which no orthodox
 dare read." Though these writings are mostly the same in origin as are
 known from the older lists of apocryphal books, they underwent in this
@@ -100,9 +100,9 @@ most simple and attractive form--one at the same time invested with the
 authority of the reputed holy author--their account of the creation of
 the world and of man; the origin of sin and redemption, the history of
 the Cross, and the disputes between body and soul, right and wrong,
-heaven and hell, were embodied either in "Historiated Bibles"
-(Paleya[1]) or in special dialogues held between Christ and his
-disciples, or between renowned Fathers of the Church who expounded these
+heaven and [[Hell|hell]], were embodied either in "Historiated Bibles"
+(Paleya[1]) or in special [[Dialogue|dialogues]] held between Christ and his
+[[Disciple|disciples]], or between renowned Fathers of the Church who expounded these
 views in a simple manner adapted to the understanding of the people
 (Lucidaria). The Bogomils taught that God had two sons, the elder
 Satanail and the younger Michael. The elder son rebelled against the
@@ -113,7 +113,7 @@ the ground on condition that he sold himself and his posterity to the
 owner of the earth. Then Michael was sent in the form of a man; he
 became identified with Jesus, and was "elected" by God after the baptism
 in the Jordan. When the Holy Ghost (Michael) appeared in the shape of
-the dove, Jesus received power to break the covenant in the form of a
+the [[Dove|dove]], Jesus received power to break the [[Covenant|covenant]] in the form of a
 clay tablet (_hierographon_) held by Satanail from Adam. He had now
 become the angel Michael in a human form; as such he vanquished
 Satanail, and deprived him of the termination _-il_ = God, in which his
@@ -126,7 +126,7 @@ pleasure. But the Bogomils did not go as far as to recommend asceticism.
 They held the "Lord's Prayer" in high respect as the most potent weapon
 against Satan, and had a number of conjurations against "evil spirits."
 Each community had its own twelve "apostles," and women could be raised
-to the rank of "elect." The Bogomils wore garments like mendicant friars
+to the rank of "elect." The Bogomils wore garments like mendicant [[Friar|friars]]
 and were known as keen missionaries, travelling far and wide to
 propagate their doctrines. Healing the sick and conjuring the evil
 spirit, they traversed different countries and spread their apocryphal
@@ -151,7 +151,7 @@ drowned or hanged no fewer than 100,000. In the 10th century the emperor
 John Zimisces, himself of Armenian origin, transplanted no less than
 200,000 Armenian Paulicians to Europe and settled them in the
 neighbourhood of Philippopolis, which henceforth became the centre of a
-far-reaching propaganda. Settled along the Balkans as a kind of bulwark
+far-reaching propaganda. Settled along the Balkans as a kind of [[Bulwark|bulwark]]
 against the invading Bulgars, the Armenians on the contrary soon
 fraternized with the newcomers, whom they converted to their own views;
 even a prince of the Bulgarians adopted their teaching. According to
@@ -178,21 +178,21 @@ end of the 12th century Stephen Nemanya, king of Servia, persecuted them
 and expelled them from the country. Large numbers took refuge in Bosnia,
 where they were known under the name of Patarenes (q.v.) or Patareni.
 From Bosnia their influence extended into Italy (Piedmont). The
-Hungarians undertook many crusades against the heretics in Bosnia, but
+Hungarians undertook many [[Crusades|crusades]] against the heretics in Bosnia, but
 towards the close of the 15th century the conquest of that country by
 the Turks put an end to their persecution. It is alleged that a large
 number of the Bosnian Paterenes, and especially the nobles, embraced
-Islam (see BOSNIA AND HERZEGOVINA: _History_). Few or no remnants of
+Islam (see [[Bosnia And Herzegovina|BOSNIA AND HERZEGOVINA]]: _History_). Few or no remnants of
 Bogomilism have survived in Bosnia. The Ritual in Slavonic written by
 the Bosnian Radoslavov, and published in vol. xv. of the _Starine_ of
 the South Slavonic Academy at Agram, shows great resemblance to the
-Cathar ritual published by Cunitz, 1853. See F. Racki, "Bogomili i
+Cathar ritual published by [[Cunitz]], 1853. See F. Racki, "Bogomili i
 Paternai" in _Rad_, vols. vii., viii. and x. (Agram, 1870); Dollinger,
 _Beitrage zur Ketzergeschichte d. Mittelalters_, 2 vols. (Munich, 1890).
 
 Under Turkish rule the Bogomils lived unmolested as _Pavlikeni_ in
 their ancient stronghold near Philippopolis, and farther northward. In
-1650 the Roman Catholic Church gathered them into its fold. No less than
+1650 the Roman Catholic Church gathered them into its [[Fold|fold]]. No less than
 fourteen villages near Nicopolis embraced Catholicism, and a colony of
 _Pavlikeni_ in the village of Cioplea near Bucharest followed the
 example of their brethren across the Danube.
@@ -204,10 +204,10 @@ example of their brethren across the Danube.
   (Agram, 1859); C.J. Jirecek, _Geschichte d. Bulgaren_, pp. 155,
   174-175 (Prague, 1876); Korolev, "Dogmatichesko-to uchenie na
   Bogomil-tie," in _Periodichesko spisanie_, vols. vii.-viii. pp. 75-106
-  (Braila, 1873); A. Lombard, _Pauliciens, Bulgares et Bons-hommes_
-  (Geneva, 1879); Episcopul Melchisedek, _Lipovenismul_, pp. 265 sqq.
+  ([[Braila]], 1873); A. Lombard, _Pauliciens, Bulgares et Bons-hommes_
+  ([[Geneva]], 1879); Episcopul Melchisedek, _Lipovenismul_, pp. 265 sqq.
   (Bucharest, 1871); B.P. Hasdeu, _Cuvente den batrani_, vol. ii. pp.
-  247 sqq. (Bucharest, 1879); F.C. Conybeare, _The Key of Truth_, pp. 73
+  247 sqq. (Bucharest, 1879); F.C. [[Conybeare]], _The [[Key]] of Truth_, pp. 73
   sqq. and specially pp. 138 sqq. (Oxford, 1898); M. Gaster,
   _Greeko-Slavonic Literature_, pp. 17 sqq. (London, 1887); O.
   Dahnhardt, _Natursagen_, vol. i. pp. 38 sqq. (Leipzig and Berlin,

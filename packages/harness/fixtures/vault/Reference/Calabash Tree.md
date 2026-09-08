@@ -10,7 +10,7 @@ tags: [history, science]
 
 CALABASH TREE, a native of the West Indies and South America, known
 botanically as _Crescentia Cujete_ (natural order, Bignoniaceae). The fruit
-resembles a gourd, and has a woody rind, which after removal of the pulp
+resembles a [[Gourd|gourd]], and has a woody rind, which after removal of the pulp
 forms a calabash.
 
 ## See also

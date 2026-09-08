@@ -5,7 +5,7 @@ _brec_, which appears in "break," Ger. _brechen_, &c.), in general, a
 breaking, or an opening made by breaking; in law, the infringement of a
 right or the violation of an obligation or duty. The word is used in
 various phrases: _breach of close_, the unlawful entry upon another
-person's land (see TRESPASS); _breach of covenant or contract_, the
+person's land (see TRESPASS); _breach of [[Covenant|covenant]] or contract_, the
 non-fulfilment of an agreement either to do or not to do some act (see
 DAMAGES); _breach of the peace_, a disturbance of the public order (see
 PEACE, BREACH OF); _breach of pound_, the taking by force out of a pound

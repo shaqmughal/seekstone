@@ -11,10 +11,10 @@ id: 42-602
 BREWER, JOHN SHERREN (1810-1879), English historian, was born in Norwich in
 1810, the son of a Baptist schoolmaster. He was educated at Queen's
 College, Oxford, was ordained in the Church of England in 1837, and became
-chaplain to a central London workhouse. In 1839 he was appointed lecturer
+[[Chaplain|chaplain]] to a central London workhouse. In 1839 he was appointed lecturer
 in classical literature at King's College, London, and in 1855 he became
 professor of English language and literature and lecturer in modern
-history, succeeding F.D. Maurice. Meanwhile from 1854 onwards he was also
+history, succeeding F.D. [[Maurice]]. Meanwhile from 1854 onwards he was also
 engaged in journalistic work on the _Morning Herald_, _Morning Post_ and
 _Standard_. In 1856 he was commissioned by the master of the rolls to
 prepare a calendar of the state papers of Henry VIII., a work demanding a
@@ -56,7 +56,7 @@ wealthier classes preparing their own beer, but it then became gradually
 apparent to the latter (owing no doubt to improved methods of brewing, and
 for others reasons) that it was more economical and less troublesome to
 have their beer brewed for them at a regular brewery. The usual charge was
-30s. per barrel for bitter ale, and 8s. or so for small beer. This tendency
+30s. per [[Barrel|barrel]] for bitter ale, and 8s. or so for small beer. This tendency
 to centralize brewing operations became more and more marked with each
 succeeding decade. Thus during 1895-1905 the number of private brewers
 declined from 17,041 to 9930. Of the private brewers still existing, about
@@ -228,7 +228,7 @@ Union
 ---- Bavaria                  Malt tax      3s. 5d. to 4s. 8d.,
                                                 according to
                                              quantity produced
-Belgium                       Malt tax            2s. 9d.
+[[Belgium]]                       Malt tax            2s. 9d.
 France                         On Wort            4s. 1d.
 Holland                       On cubic      About 1s. 9d. to 3s.
                              contents of     3d., according to
@@ -340,7 +340,7 @@ the United Kingdom are of a somewhat complex nature. In the first place, it
 was not until the malt tax was repealed that the brewer was able to avail
 himself of the surplus diastatic energy present in malt, for the purpose of
 transforming starch (other than that in malted grain) into sugar. The
-diastatic enzyme or ferment (see below, under _Mashing_) of malted barley
+diastatic [[Enzyme|enzyme]] or ferment (see below, under _Mashing_) of malted barley
 is present in that material in great excess, and a part of this surplus
 energy may be usefully employed in converting the starch of unmalted grain
 into sugar. The brewer has found also that brewing operations are
@@ -362,7 +362,7 @@ than the latter. At the same time, it is an undoubted fact that an
 excessive use of substitutes leads to the production of beer of poor
 quality. The better class of brewer rarely uses more than 15-20%, knowing
 that beyond that point the loss of flavour and quality will in the long run
-become a more serious item than any increased profits which he might
+become a more serious [[Item|item]] than any increased profits which he might
 temporarily gain.
 
 With regard to the nature of the substitutes or adjuncts for barley malt
@@ -383,8 +383,8 @@ latter commonly known as "saccharum." Cane sugar is mostly used for the
 preparation of heavy mild ales and stouts, as it gives a peculiarly sweet
 and full flavour to the beer, to which, no doubt, the popularity of this
 class of beverage is largely due. _Invert sugar_ is prepared by the action
-either of acid or of yeast on cane sugar. The chemical equation
-representing the conversion (or inversion) of cane sugar is:--
+either of acid or of yeast on cane sugar. The chemical [[Equation|equation]]
+representing the [[Conversion|conversion]] (or inversion) of cane sugar is:--
 
   C12H22O11  +  H2O  =  C6H12O6   +  C6H12O6.
   cane sugar   water    glucose      fructose
@@ -408,7 +408,7 @@ one of the constituents of invert sugar, is largely used by itself in
 brewing. It is, however, never prepared from invert sugar for this purpose,
 but directly from starch by means of acid. By the action of dilute boiling
 acid on starch the latter is rapidly converted first into a mixture of
-dextrine and maltose and then into glucose. The proportions of glucose,
+[[Dextrine|dextrine]] and maltose and then into glucose. The proportions of glucose,
 dextrine and maltose present in a commercial glucose depend very much on
 the duration of the boiling, the strength of the acid, and the extent of
 the pressure at which the starch is converted. In England the materials
@@ -442,7 +442,7 @@ gravity.
 The malt, which is hoisted to the top floor, after cleaning and grading is
 conveyed to the _Malt Mill_, where it is crushed. Thence the ground malt,
 or "grist" as it is now called, passes to the _Grist Hopper_, and from the
-latter to the _Mashing Machine_, in which it is intimately mixed with hot
+latter to the _Mashing [[Machine]]_, in which it is intimately mixed with hot
 water from the _Hot Liquor Vessel_. From the mashing machine the mixed
 grist and "liquor" pass to the _Mash-Tun_, where the starch of the malt is
 rendered soluble. From the mash-tun the clear wort passes to the _Copper_,
@@ -477,7 +477,7 @@ Ltd.).]
 _Mashing_ is a process which consists mainly in extracting, by means of
 water at an adequate temperature, the soluble matters pre-existent in the
 malt, and in converting the insoluble starch and a great part of the
-insoluble nitrogenous compounds into soluble and partly fermentable
+insoluble nitrogenous [[Compound|compounds]] into soluble and partly fermentable
 products. Mashing is, without a doubt, the most important of the brewing
 processes, for it is largely in the mash-tun that the character of the beer
 to be brewed is determined. In modern practice the malt and the mashing
@@ -577,7 +577,7 @@ the "converter" entirely.
 
 _The Filter Press Process._--The ordinary mash-tun process, as described
 above, possesses the disadvantage that only coarse grists can be employed.
-This entails loss of extract in several ways. To begin with, the sparging
+This [[Entail|entails]] loss of extract in several ways. To begin with, the sparging
 process is at best a somewhat inefficient method for washing out the last
 portions of the wort, and again, when the malt is at all hard or "steely,"
 starch conversion is by no means complete. These disadvantages are overcome
@@ -691,8 +691,8 @@ the main fermentation in the "round" or "square," and is then dropped down
 into a second vessel or vessels, in which fermentation and cleansing are
 completed. The _ponto_ system of dropping, which is now somewhat
 old-fashioned, consists in discharging the beer into a series of vat-like
-vessels, fitted with a peculiarly-shaped overflow lip. The yeast works its
-way out of the vessel over the lip, and then flows into a gutter and is
+vessels, fitted with a peculiarly-shaped overflow [[Lip|lip]]. The yeast works its
+way out of the vessel over the lip, and then flows into a [[Gutter|gutter]] and is
 collected. The pontos are kept filled with beer by means of a vessel placed
 at a higher level. In the _ordinary_ dropping system the partly fermented
 beer is let down from the "squares" and "rounds" into large vessels, termed
@@ -702,7 +702,7 @@ skimming system. As a rule the parachute covers the whole width of the
 back. (c) The _Burton Union System_ is really an improved ponto system. A
 series of casks, supplied with beer at the cleansing stage from a feed
 vessel, are mounted so that they may rotate axially. Each cask is fitted
-with an attemperator, a pipe and cock at the base for the removal of the
+with an attemperator, a pipe and [[Cock|cock]] at the base for the removal of the
 finished beer and "bottoms," and lastly with a swan neck fitting through a
 bung-hole and commanding a common gutter. This system yields excellent
 results for certain classes of beers, and many Burton brewers think it is
@@ -732,7 +732,7 @@ so produces "condition."
 _Fining_.--As a very light article is desired nowadays, and this has to be
 provided in a short time, artificial means must be resorted to, in order to
 replace the natural fining or brightening which storage brings about.
-_Finings_ generally consist of a solution or semi-solution of isinglass in
+_Finings_ generally consist of a solution or semi-solution of [[Isinglass|isinglass]] in
 sour beer, or in a solution of tartaric acid or of sulphurous acid. After
 the finings are added to the beer and the barrels have been well rolled,
 the finings slowly precipitate (or work out through the bung-hole) and
@@ -750,7 +750,7 @@ temperature. As a result, there is an immediate deposition of much matter
 which otherwise would require prolonged time to settle. The beer is then
 filtered and so rendered quite bright, and finally, in order to produce
 immediate "condition," is "carbonated," _i.e._ impregnated under pressure
-with carbon dioxide (carbonic acid gas).
+with [[Carbon|carbon]] dioxide (carbonic acid gas).
 
 FOREIGN BREWING AND BEERS.--The system of brewing which differs most widely
 from the English _infusion_ and _top fermentation_ method is the
@@ -880,7 +880,7 @@ part in it. The preparation of this peculiar double ferment is assisted by
 the addition of a certain quantity of white wine to the yeast prior to
 fermentation.
 
-BREWING CHEMISTRY.--The principles of brewing technology belong for the
+BREWING [[Chemistry|CHEMISTRY]].--The principles of brewing technology belong for the
 most part to physiological chemistry, whilst those of the cognate industry,
 malting, are governed exclusively by that branch of knowledge. Alike in
 following the growth of barley in field, its harvesting, maturing and
@@ -918,7 +918,7 @@ generic name "amyloins." Although according to their view they were
 compounds of maltose and dextrin, they had the properties of mixtures of
 these two substances. On the assumption of the existence of these
 compounds, Brown and his colleagues formulated what is known as the
-maltodextrin or amyloin hypothesis of starch degradation. C.J. Lintner, in
+maltodextrin or amyloin [[Hypothesis|hypothesis]] of starch degradation. C.J. Lintner, in
 1891, claimed to have separated a sugar, isomeric with maltose, which is
 termed isomaltose, from the products of starch hydrolysis. A.R. Ling and
 J.L. Baker, as well as Brown and Morris, in 1895, proved that this

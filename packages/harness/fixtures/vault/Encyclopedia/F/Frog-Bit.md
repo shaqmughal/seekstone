@@ -1,6 +1,6 @@
 # Frog-Bit
 
-FROG-BIT, in botany, the English name for a small floating herb known
+FROG-BIT, in botany, the English name for a small floating [[Herb|herb]] known
 botanically as _Hydrocharis Morsus-Ranae_, a member of the order
 Hydrocharideae, a family of Monocotyledons. The plant has rosettes of
 roundish floating leaves, and multiplies like the strawberry plant by

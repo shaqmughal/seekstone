@@ -4,7 +4,7 @@ ARTICLES OF ASSOCIATION, in English company law, the regulations for the
 internal management of a joint stock company registered under the
 Companies Acts. They are, in fact, the terms of the partnership agreed
 upon by the shareholders among themselves. They regulate such matters as
-the transfer and forfeiture of shares, calls upon shares, the
+the transfer and [[Forfeiture|forfeiture]] of shares, calls upon shares, the
 appointment and qualification of directors, their powers and
 proceedings, general meetings of the shareholders, votes, dividends, the
 keeping and audit of accounts, and other such matters. In regard to
@@ -21,7 +21,7 @@ printed, stamped like a deed, and attested. When so perfected, they are
 to be delivered, with the memorandum of association, to the registrar of
 joint stock companies, who is to retain and register them. The articles
 of association thereupon become a public document, which any person may
-inspect on payment of a fee of one shilling. This has important
+inspect on payment of a [[Fee|fee]] of one shilling. This has important
 consequences, because every person dealing with the company is presumed
 to be acquainted with its constitution, and to have read its articles.
 The articles, also, upon registration, bind the company and its members

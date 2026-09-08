@@ -28,7 +28,7 @@ W.B. Scott. Teeth provisionally assigned to _Calamodon_ have been
 obtained from the Lower Tertiary deposits of Switzerland.
 
   See J.L. Wortman, "The Ganodonta and their Relationship to the
-  Edentata," _Bull. Amer. Mus._ vol. ix. p. 59 (1897); W.B. Scott,
+  Edentata," _[[Bull]]. Amer. Mus._ vol. ix. p. 59 (1897); W.B. Scott,
   "Mammalia of the Santa Cruz Beds, Edentata," _Rep. Princeton Exped. to
   Patagonia_, vol. v. (1903-1904).     (R. L.*)
 

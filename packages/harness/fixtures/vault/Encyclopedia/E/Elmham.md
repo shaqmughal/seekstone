@@ -3,7 +3,7 @@
 ELMHAM, THOMAS (d. c. 1420), English chronicler, was probably born at
 North Elmham in Norfolk. He became a Benedictine monk at Canterbury, and
 then joining the Cluniacs, was prior of Lenton Abbey, near Nottingham;
-he was chaplain to Henry V., whom he accompanied to France in 1415,
+he was [[Chaplain|chaplain]] to Henry V., whom he accompanied to France in 1415,
 being present at Agincourt. Elmham wrote a history of the monastery of
 St Augustine at Canterbury, which has been edited by C. Hardwick for the
 Rolls Series (1858); and a _Liber metricus de Henrico V._, edited by
@@ -16,7 +16,7 @@ Historical Society by B. Williams (1850). Elmham, however, did not write
 the _Vita et Gesta Henrici V._, which was attributed to him by T. Hearne
 and others.
 
-  See C.L. Kingsford, _Henry V._ (1901).
+  See C.L. [[Kingsford]], _Henry V._ (1901).
 
 ## See also
 

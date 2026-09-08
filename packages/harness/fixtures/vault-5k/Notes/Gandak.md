@@ -11,8 +11,8 @@ tags: [geography, artillery]
 
 GANDAK, a river of northern India. It rises in the Nepal-Himalayas,
 flows south-west until it reaches British territory, where it forms the
-boundary between the United Provinces and Bengal for a considerable
-portion of its course, and falls into the Ganges opposite Patna. It is a
+boundary between the United Provinces and [[Bengal]] for a considerable
+portion of its course, and falls into the [[Ganges]] opposite Patna. It is a
 snow-fed stream, and the surrounding country in the plains, lying at a
 lower level than its banks, is endangered by its floods. The river is
 accordingly enclosed by protective embankments.

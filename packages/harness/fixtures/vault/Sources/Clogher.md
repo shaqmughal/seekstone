@@ -6,7 +6,7 @@ parliamentary division, on the Clogher Valley light railway. Pop. (1901)
 Catholic Church, but the seat of the Roman Catholic bishop is at
 Monaghan, with the cathedral. The Protestant cathedral, dedicated to St
 Macartin, dates from the 18th and early 19th century, but St Macartin
-(c. 500) was a disciple of St Patrick, and it is said that St Patrick
+(c. 500) was a [[Disciple|disciple]] of St Patrick, and it is said that St Patrick
 himself founded a bishopric here. The name is derived from the Irish
 _cloch_, a pillar stone, such as were worshipped and regarded as oracles
 in many parts of pagan Ireland; the stone was preserved as late as the

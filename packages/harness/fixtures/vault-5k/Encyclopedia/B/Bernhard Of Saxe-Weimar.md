@@ -12,7 +12,7 @@ campaigns of the king of Denmark; and when Christian withdrew from the
 struggle Bernhard went to Holland and was present at the famous siege of
 Hertogenbosch (Bois-le-Duc) in 1629. When Gustavus Adolphus landed in
 Germany Bernhard quickly joined him, and for a short time he was colonel
-of the Swedish life guards. After the battle of Breitenfeld he
+of the Swedish life [[Guards|guards]]. After the battle of Breitenfeld he
 accompanied Gustavus in his march to the Rhine and, between this event
 and the battle of the Alte Veste, Bernhard commanded numerous
 expeditions in almost every district from the Moselle to Tirol. At the
@@ -23,7 +23,7 @@ furious energy won the victory at sundown. At first as a subordinate to
 his brother William, who as a Swedish lieutenant-general succeeded to
 the command, but later as an independent commander, Bernhard continued
 to push his forays over southern Germany; and with the Swedish General
-Horn he made in 1633 a successful invasion into Bavaria, which was
+[[Horn]] he made in 1633 a successful invasion into Bavaria, which was
 defended by the imperialist general Arldinger. In this year he acquired
 the duchy of Wurzburg, installing one of his brothers as _Stadthalter_,
 and returning to the wars. A stern Protestant, he exacted heavy
@@ -51,9 +51,9 @@ beginning of the campaign, and the governor of Breisach was bribed to
 transfer the fortress to France. The duke was buried at Breisach, his
 remains being subsequently removed to Weimar.
 
-  See J.A.C. Hellfeld, _Geschichte Bernhards des Grossen, Herzogs v.
+  See J.A.C. Hellfeld, _Geschichte Bernhards des Grossen, [[Herzog|Herzogs]] v.
   Saxe-Weimar_ (Jena, 1747); B. Rose, _Herzog Bernhard d. Grosse von
-  Saxe-Weimar_ (Weimar, 1828-1829); Droysen, _Bernhard v. Weimar_
+  Saxe-Weimar_ (Weimar, 1828-1829); [[Droysen]], _Bernhard v. Weimar_
   (Leipzig, 1885).
 
 ## See also

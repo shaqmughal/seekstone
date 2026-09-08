@@ -8,7 +8,7 @@ grandfather were ministers of dissenting congregations in the north of
 Ireland. Hutcheson was educated partly by his grandfather, partly at an
 academy, where according to his biographer, Dr Leechman, he was taught
 "the ordinary scholastic philosophy which was in vogue in those
-days." In 1710 he entered the university of Glasgow, where he spent six
+days." In 1710 he entered the university of [[Glasgow]], where he spent six
 years, at first in the study of philosophy, classics and general
 literature, and afterwards in the study of theology. On quitting the
 university, he returned to the north of Ireland, and received a licence
@@ -20,7 +20,7 @@ Among these was Archbishop King (author of the _De origine mali_), who
 resisted all attempts to prosecute Hutcheson in the archbishop's court
 for keeping a school without the episcopal licence. Hutcheson's
 relations with the clergy of the Established Church, especially with the
-archbishops of Armagh and Dublin, Hugh Boulter (1672-1742) and William
+archbishops of [[Armagh]] and Dublin, Hugh Boulter (1672-1742) and William
 King (1650-1729), seem to have been most cordial, and his biographer, in
 speaking of "the inclination of his friends to serve him, the schemes
 proposed to him for obtaining promotion," &c., probably refers to some
@@ -35,11 +35,11 @@ and Affections_ and _Illustrations upon the Moral Sense_, in 1728. The
 alterations and additions made in the second edition of these Essays
 were published in a separate form in 1726. To the period of his Dublin
 residence are also to be referred the _Thoughts on Laughter_ (a
-criticism of Hobbes) and the Observations on the _Fable of the Bees_,
+criticism of [[Hobbes]]) and the Observations on the _Fable of the [[Bee|Bees]]_,
 being in all six letters contributed to _Hibernicus' Letters_, a
 periodical which appeared, in Dublin (1725-1727, 2nd ed. 1734). At the
 end of the same period occurred the controversy in the _London Journal_
-with Gilbert Burnet (probably the second son of Dr Gilbert Burnet,
+with Gilbert [[Burnet]] (probably the second son of Dr Gilbert Burnet,
 bishop of Salisbury); on the "True Foundation of Virtue or Moral
 Goodness." All these letters were collected in one volume (Glasgow,
 1772).
@@ -51,7 +51,7 @@ anonymously, though their authorship appears to have been well known. In
 1730 he entered on the duties of his office, delivering an inaugural
 lecture (afterwards published), _De naturali hominum socialitate_. It
 was a great relief to him after the drudgery of school work to secure
-leisure for his favourite studies; "non levi igitur laetitia commovebar
+leisure for his favourite studies; "non [[Levi|levi]] igitur laetitia commovebar
 cum almam matrem Academiam me, suum olim alumnum, in libertatem
 asseruisse audiveram." Yet the works on which Hutcheson's reputation
 rests had already been published.
@@ -75,7 +75,7 @@ jurisprudentiae naturalis elementa continens, lib. iii._ (Glasgow,
 1742); _Metaphysicae synopsis ontologiam et pneumatologiam complectens_
 (Glasgow, 1742). The last work was published anonymously. After his
 death, his son, Francis Hutcheson (c. 1722-1773), author of a number of
-popular songs (e.g. "As Colin one evening," "Jolly Bacchus," "Where
+popular songs (e.g. "As Colin one evening," "[[Jolly]] Bacchus," "Where
 Weeping Yews"), published much the longest, though by no means the most
 interesting, of his works, _A System of Moral Philosophy, in Three
 Books_ (2 vols., London, 1755). To this is prefixed a life of the
@@ -85,13 +85,13 @@ a small treatise on _Logic_ (Glasgow, 1764). This compendium, together
 with the _Compendium of Metaphysics_, was republished at Strassburg in
 1722.
 
-Thus Hutcheson dealt with metaphysics, logic and ethics. His importance
+Thus Hutcheson dealt with metaphysics, logic and [[Ethics|ethics]]. His importance
 is, however, due almost entirely to his ethical writings, and among
 these primarily to the four essays and the letters published during his
 residence in Dublin. His standpoint has a negative and a positive
-aspect; he is in strong opposition to Thomas Hobbes and Bernard de
-Mandeville, and in fundamental agreement with Shaftesbury (Anthony
-Ashley Cooper, 3rd earl of Shaftesbury), whose name he very properly
+aspect; he is in strong opposition to Thomas Hobbes and [[Bernard]] de
+Mandeville, and in fundamental agreement with Shaftesbury ([[Anthony]]
+[[Ashley]] Cooper, 3rd earl of Shaftesbury), whose name he very properly
 coupled with his own on the title-page of the first two essays. There
 are no two names, perhaps, in the history of English moral philosophy,
 which stand in a closer connexion. The analogy drawn between beauty and
@@ -103,7 +103,7 @@ fundamental points of agreement between the two authors.
 
   I. _Ethics._--According to Hutcheson, man has a variety of senses,
   internal as well as external, reflex as well as direct, the general
-  definition of a sense being "any determination of our minds to receive
+  [[Definition|definition]] of a sense being "any determination of our minds to receive
   ideas independently on our will, and to have perceptions of pleasure
   and pain" (_Essay on the Nature and Conduct of the Passions_, sect.
   1). He does not attempt to give an exhaustive enumeration of these
@@ -145,10 +145,10 @@ fundamental points of agreement between the two authors.
   made virtue a lovely form, to excite our pursuit of it, and has given
   us strong affections to be the springs of each virtuous action."
   Passing over the appeal to final causes involved in this and similar
-  passages, as well as the assumption that the "moral sense" has had no
+  passages, as well as the [[Assumption|assumption]] that the "moral sense" has had no
   growth or history, but was "implanted" in man exactly in the condition
   in which it is now to be found among the more civilized races, an
-  assumption common to the systems of both Hutcheson and Butler, it may
+  assumption common to the systems of both Hutcheson and [[Butler]], it may
   be remarked that this use of the term "sense" has a tendency to
   obscure the real nature of the process which goes on in an act of
   moral judgment. For, as is so clearly established by Hume, this act
@@ -162,7 +162,7 @@ fundamental points of agreement between the two authors.
   which myriads of actions and habits of the same class, or deemed to be
   of the same class, have excited in us on former occasions. Now,
   supposing the latter part of this process to be instantaneous, uniform
-  and exempt from error, the former certainly is not. All mankind may,
+  and exempt from [[Error|error]], the former certainly is not. All mankind may,
   apart from their selfish interests, approve that which is virtuous or
   makes for the general good, but surely they entertain the most widely
   divergent opinions, and, in fact, frequently arrive at directly
@@ -183,11 +183,11 @@ fundamental points of agreement between the two authors.
   as designating the complex process of moral approbation, it is liable
   to lead not only to serious misapprehension but to grave practical
   errors. For, if each man's decisions are solely the result of an
-  immediate intuition of the moral sense, why be at any pains to test,
+  immediate [[Intuition|intuition]] of the moral sense, why be at any pains to test,
   correct or review them? Or why educate a faculty whose decisions are
   infallible? And how do we account for differences in the moral
   decisions of different societies, and the observable changes in a
-  man's own views? The expression has, in fact, the fault of most
+  man's own views? The expression has, in fact, the [[Fault|fault]] of most
   metaphorical terms: it leads to an exaggeration of the truth which it
   is intended to suggest.
 
@@ -245,7 +245,7 @@ fundamental points of agreement between the two authors.
   stating both sides of the question, but evidently inclining to that
   which he designates as the opinion of the Stoics in opposition to what
   he designates as the opinion of the Peripatetics. This is
-  substantially the same as the doctrine propounded by Hobbes and Locke
+  substantially the same as the doctrine propounded by Hobbes and [[Locke]]
   (to the latter of whom Hutcheson refers in a note), namely, that our
   will is determined by motives in conjunction with our general
   character and habit of mind, and that the only true liberty is the
@@ -263,7 +263,7 @@ fundamental points of agreement between the two authors.
   we might, probably, in large measure, attribute the unequivocal
   adoption of the utilitarian standard by Hume, and, if this be the
   case, the name of Hutcheson connects itself, through Hume, with the
-  names of Priestley, Paley and Bentham. Butler's _Sermons_ appeared in
+  names of Priestley, Paley and [[Bentham]]. Butler's _Sermons_ appeared in
   1726, the year after the publication of Hutcheson's two first essays,
   and the parallelism between the "conscience" of the one writer and the
   "moral sense" of the other is, at least, worthy of remark.
@@ -311,7 +311,7 @@ fundamental points of agreement between the two authors.
   through a law of nature. "Haec prima qualitatum primariarum perceptio,
   sive mentis actio quaedam sive passio dicatur, non alia similitudinis
   aut convenientiae inter ejusmodi ideas et res ipsas causa assignari
-  posse videtur, quam ipse Deus, qui certa naturae lege hoc efficit, ut
+  posse videtur, quam ipse [[Deus]], qui certa naturae lege hoc efficit, ut
   notiones, quae rebus praesentibus excitantur, sint ipsis similes, aut
   saltem earum habitudines, si non veras quantitates, depingant" (pars
   ii. cap. 1). Locke does speak of God "annexing" certain ideas to
@@ -411,15 +411,15 @@ fundamental points of agreement between the two authors.
   AUTHORITIES.--Notices of Hutcheson occur in most histories, both of
   general philosophy and of moral philosophy, as, for instance, in pt.
   vii. of Adam Smith's _Theory of Moral Sentiments_; Mackintosh's
-  _Progress of Ethical Philosophy_; Cousin, _Cours d'histoire de la
+  _Progress of Ethical Philosophy_; [[Cousin]], _Cours d'histoire de la
   philosophie morale du XVIII^e siècle_; Whewell's _Lectures on the
   History of Moral Philosophy in England_; A. Bain's _Mental and Moral
   Science_; Noah Porter's Appendix to the English translation of
-  Ueberweg's _History of Philosophy_; Sir Leslie Stephen's _History of
-  English Thought in the Eighteenth Century_, &c. See also Martineau,
+  Ueberweg's _History of Philosophy_; Sir [[Leslie]] Stephen's _History of
+  English Thought in the Eighteenth Century_, &c. See also [[Martineau]],
   _Types of Ethical Theory_ (London, 1902); W. R. Scott, _Francis
   Hutcheson_ (Cambridge, 1900); Albee, _History of English
-  Utilitarianism_ (London, 1902); T. Fowler, _Shaftesbury and Hutcheson_
+  Utilitarianism_ (London, 1902); T. [[Fowler]], _Shaftesbury and Hutcheson_
   (London, 1882); J. McCosh, _Scottish Philosophy_ (New York, 1874). Of
   Dr Leechman's _Biography_ of Hutcheson we have already spoken. J.
   Veitch gives an interesting account of his professorial work in
@@ -428,7 +428,7 @@ fundamental points of agreement between the two authors.
 
 FOOTNOTE:
 
-  [1] See _Belfast Magazine_ for August 1813.
+  [1] See _[[Belfast]] Magazine_ for August 1813.
 
 ## See also
 

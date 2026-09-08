@@ -8,16 +8,16 @@ type: note
 # Henry V.
 
 HENRY V. (1387-1422), king of England, son of Henry IV. by Mary de
-Bohun, was born at Monmouth, in August 1387. On his father's exile in
+[[Bohun]], was born at Monmouth, in August 1387. On his father's exile in
 1398 Richard II. took the boy into his own charge, and treated him
 kindly. Next year the Lancastrian revolution forced Henry into
-precocious prominence as heir to the throne. From October 1400 the
+precocious prominence as [[Heir|heir]] to the throne. From October 1400 the
 administration of Wales was conducted in his name; less than three years
 later he was in actual command of the English forces and fought against
 the Percies at Shrewsbury. The Welsh revolt absorbed his energies till
 1408. Then through the king's ill-health he began to take a wider share
 in politics. From January 1410, helped by his uncles Henry and Thomas
-Beaufort, he had practical control of the government. Both in foreign
+[[Beaufort]], he had practical control of the government. Both in foreign
 and domestic policy he differed from the king, who in November 1411
 discharged the prince from the council. The quarrel of father and son
 was political only, though it is probable that the Beauforts had
@@ -57,7 +57,7 @@ this story there is no foundation. The restoration of domestic peace was
 the king's first care, and until it was assured he could not embark on
 any wider enterprise abroad. Nor was that enterprise one of idle
 conquest. Old commercial disputes and the support which the French had
-lent to Glendower gave a sufficient excuse for war, whilst the
+[[Lent|lent]] to [[Glendower]] gave a sufficient excuse for war, whilst the
 disordered state of France afforded no security for peace. Henry may
 have regarded the assertion of his own claims as part of his kingly
 duty, but in any case a permanent settlement of the national quarrel was
@@ -65,7 +65,7 @@ essential to the success of his world policy. The campaign of 1415, with
 its brilliant conclusion at Agincourt (October 25), was only the first
 step. Two years of patient preparation followed. The command of the sea
 was secured by driving the Genoese allies of the French out of the
-Channel. A successful diplomacy detached the emperor Sigismund from
+Channel. A successful [[Diplomacy|diplomacy]] detached the emperor Sigismund from
 France, and by the Treaty of Canterbury paved the way to end the schism
 in the Church. So in 1417 the war was renewed on a larger scale. Lower
 Normandy was quickly conquered, Rouen cut off from Paris and besieged.
@@ -79,14 +79,14 @@ the French court threw themselves into Henry's arms. After six months'
 negotiation Henry was by the Treaty of Troyes recognized as heir and
 regent of France, and on the 2nd of June 1420 married Catherine, the
 king's daughter. He was now at the height of his power. His eventual
-success in France seemed certain. He shared with Sigismund the credit of
-having ended the Great Schism by obtaining the election of Pope Martin
+success in France seemed certain. He shared with Sigismund the [[Credit|credit]] of
+having ended the Great Schism by obtaining the election of Pope [[Martin]]
 V. All the states of western Europe were being brought within the web of
 his diplomacy. The headship of Christendom was in his grasp, and
 schemes for a new crusade began to take shape. He actually sent an envoy
 to collect information in the East; but his plans were cut short by
 death. A visit to England in 1421 was interrupted by the defeat of
-Clarence at Bauge. The hardships of the longer winter siege of Meaux
+[[Clarence]] at Bauge. The hardships of the longer winter siege of [[Meaux]]
 broke down his health, and he died at Bois de Vincennes on the 31st of
 August 1422.
 
@@ -98,7 +98,7 @@ his schemes were doomed to end in disaster, since the time was come for
 a new departure. Yet he was not reactionary. His policy was
 constructive: a firm central government supported by parliament; church
 reform on conservative lines; commercial development; and the
-maintenance of national prestige. His aims in some respects anticipated
+[[Maintenance|maintenance]] of national prestige. His aims in some respects anticipated
 those of his Tudor successors, but he would have accomplished them on
 medieval lines as a constitutional ruler. His success was due to the
 power of his personality. He could train able lieutenants, but at his
@@ -111,7 +111,7 @@ English navy he was one of the first to realize its true importance.
 Henry had so high a sense of his own rights that he was merciless to
 disloyalty. But he was scrupulous of the rights of others, and it was
 his eager desire to further the cause of justice that impressed his
-French contemporaries. He has been charged with cruelty as a religious
+French contemporaries. He has been charged with [[Cruelty|cruelty]] as a religious
 persecutor; but in fact he had as prince opposed the harsh policy of
 Archbishop Arundel, and as king sanctioned a more moderate course.
 Lollard executions during his reign had more often a political than a
@@ -122,13 +122,13 @@ In his personal conduct he was chaste, temperate and sincerely pious. He
 delighted in sport and all manly exercises. At the same time he was
 cultured, with a taste for literature, art and music. Henry lies buried
 in Westminster Abbey. His tomb was stripped of its splendid adornment
-during the Reformation. The shield, helmet and saddle, which formed part
+during the Reformation. The shield, [[Helmet|helmet]] and saddle, which formed part
 of the original funeral equipment, still hang above it.
 
   Of original authorities the best on the English side is the _Gesta
   Henrici Quinti_ (down to 1416), printed anonymously for the English
-  Historical Society, but probably written by Thomas Elmham, one of
-  Henry's chaplains. Two lives edited by Thomas Hearne under the names
+  Historical Society, but probably written by Thomas [[Elmham]], one of
+  Henry's [[Chaplain|chaplains]]. Two lives edited by Thomas Hearne under the names
   of Elmham and Titus Livius Forojuliensis come from a common source;
   the longer, which Hearne ascribed incorrectly to Elmham, is perhaps
   the original work of Livius, who was an Italian in the service of
@@ -139,8 +139,8 @@ of the original funeral equipment, still hang above it.
   Burgundian) and the _Chronique du religieux de S. Denys_ (the official
   view of the French court). For documents and modern authorities see
   under HENRY IV. See also Sir N. H. Nicolas, _Hist. of the Battle of
-  Agincourt and the Expedition of 1415_ (London, 1833); C. L. Kingsford,
-  _Henry V., the Typical Medieval Hero_ (New York, 1901), where a fuller
+  Agincourt and the Expedition of 1415_ (London, 1833); C. L. [[Kingsford]],
+  _Henry V., the Typical Medieval Hero_ (New York, 1901), where a [[Fuller|fuller]]
   bibliography will be found.     (C. L. K.)
 
 ## See also

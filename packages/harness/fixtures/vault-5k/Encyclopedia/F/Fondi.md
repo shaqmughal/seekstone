@@ -1,10 +1,10 @@
 # Fondi
 
-FONDI (anc. _Fundi_), a town of Campania, Italy, in the province of
-Caserta, 12 m. N.W. of Formia, and 11 m. E.N.E. of Terracina by road.
+FONDI (anc. _Fundi_), a town of [[Campania]], Italy, in the province of
+Caserta, 12 m. N.W. of [[Formia]], and 11 m. E.N.E. of Terracina by road.
 Pop. (1901) 9930. It lies 25 ft. above sea-level, at the N. end of a
 plain surrounded by mountains, which extend to the sea. It occupies the
-site of the ancient Fundi, a Volscian town, belonging later to _Latium
+site of the ancient Fundi, a Volscian town, belonging later to _[[Latium]]
 adjectum_, on the Via Appia, still represented by the modern high-road
 which passes through the centre of the town. It is rectangular in plan,
 and portions of its walls, partly in fine polygonal work and partly in
@@ -16,16 +16,16 @@ gate still exists, but not _in situ_. In the neighbourhood are the
 remains of several ancient villas, and along the Via Appia still stands
 an ancient wall of _opus reticulatum_, with an inscription, in large
 letters, of one Varronianus, the letters being at intervals of 25 ft.
-The engineering of the ancient Via Appia between Fondi and Formia, where
-it passes through the mountains near Itri, is remarkable.
+The [[Engineering|engineering]] of the ancient Via Appia between Fondi and Formia, where
+it passes through the mountains near [[Itri]], is remarkable.
 
 The modern town is still enclosed by the ancient walls. The castle on
 the S.E. side has some 15th-century windows with beautiful tracery.
-Close by is the Gothic church of S. Pietro (formerly S. Maria), which
+Close by is the [[Gothic]] church of S. Pietro (formerly S. Maria), which
 was the cathedral until the see was suppressed in 1818 and united with
 that of Gaeta; it contains a fine pulpit with "cosmatesque" work and the
 fine tomb of Cristoforo Caetani (1439), two interesting 15th-century
-triptychs and an episcopal throne, which served for the coronation of
+triptychs and an episcopal throne, which served for the [[Coronation|coronation]] of
 the anti-pope Clement VII. in 1378. In the Dominican monastery the cell
 which St Thomas Aquinas sometimes occupied is shown.
 
@@ -53,7 +53,7 @@ which it still remains. Its position as a frontier town between the
 papal states and the kingdom of Naples, just in the territory of the
 latter--the Via Appia can easily be blocked either N.W. at the actual
 frontier called Portella[1] or S.E. of it--affected it a good deal
-during the French Revolution and the events which led up to the
+during the [[French Revolution]] and the events which led up to the
 unification of Italy.
 
 The Lago di Fondi, which lies in the middle of the plain, and the

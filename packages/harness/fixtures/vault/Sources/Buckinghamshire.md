@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Buckingham
 
 # Buckinghamshire
 
-BUCKINGHAMSHIRE (abbreviated _Bucks_) a south midland county of England,
+BUCKINGHAMSHIRE (abbreviated _[[Buck|Bucks]]_) a south midland county of England,
 bounded N. by Northamptonshire, E. by Bedfordshire, Hertfordshire and
 Middlesex, S. for a short distance by Surrey, and by Berkshire, and W. by
 Oxfordshire. Its area is 743.2 sq. m. The county is divided between the
@@ -30,30 +30,30 @@ divides the county into two parts of quite different physical character;
 for to the south almost the whole land is hilly (the longer slope of the
 Chiltern system lying in this direction), well wooded, and pleasantly
 diversified with narrow vales. The chief of these are watered by the Wye,
-Misbourne and Chess streams. The beech tree is predominant in the woods, in
+Misbourne and Chess streams. The [[Beech|beech]] tree is predominant in the woods, in
 so much that William Camden, writing c. 1585, supposed the county to take
 name from this feature (A.S. _boc_, beech). In the south a remnant of
 ancient forest is preserved as public ground under the name of Burnham
 Beeches. The Chilterns reach a height of nearly 900 ft. within the county.
 
-_Geology._--The northern half of the county is occupied by Jurassic strata,
+_Geology._--The northern half of the county is occupied by [[Jurassic]] strata,
 in the southern half Cretaceous rocks predominate except in the
 south-eastern corner, where they are covered by Tertiary beds. Thus the
 oldest rocks are in the north, succeeded continuously by younger strata to
 the south; the general dip of all the rocks is south-easterly. A few
-patches of Upper Lias Clay appear near the northern boundary near Grafton
+patches of Upper [[Lias]] Clay appear near the northern boundary near [[Grafton]]
 Regis and Castle Thorpe, and again in the valley of the Ouse near Stoke
 Goldington and Weston Underwood. The Oolitic series is represented by the
-Great Oolite, with limestones in the upper part, much quarried for building
-stones at Westbury, Thornborough, Brock, Whittlewood Forest, &c.; the lower
-portions are more argillaceous. The Forest Marble is seen about Thornton as
+Great Oolite, with [[Limestone|limestones]] in the upper part, much quarried for building
+stones at Westbury, Thornborough, [[Brock]], Whittlewood Forest, &c.; the lower
+portions are more argillaceous. The Forest [[Marble]] is seen about Thornton as
 a thin bed of clay with an oyster-bearing limestone at the base. Next above
 is the Cornbrash, a series of rubbly and occasionally hard limestones and
 thin clays. The outcrop runs by Tingwick, Buckingham, Berehampton and
 Newport Pagnell, it is quarried at Wolverton and elsewhere for road metal.
 Inliers of these rocks occur at Marsh Gibbon and Stan Hill. The Oxford Clay
-and Kimmeridge Clay, with the Gault, lie in the vale of Aylesbury. The clay
-is covered by numerous outliers of Portland, Purbeck and Lower Greensand
+and Kimmeridge Clay, with the [[Gault]], lie in the vale of Aylesbury. The clay
+is covered by numerous outliers of Portland, Purbeck and Lower [[Greensand]]
 beds. The Portland beds are sandy below, calcareous above; the outcrop
 follows the normal direction in the county, from south-west to north-east,
 from Thame through Aylesbury; they are quarried at several places for
@@ -67,13 +67,13 @@ Towersey across the county in a north-easterly direction. Resting upon the
 Gault is the Upper Greensand; at the junction of the two formations
 numerous springs arise, a circumstance which has no doubt determined the
 site of several villages. The Chalk rises abruptly from the low lying
-argillaceous plain to form the Chiltern Hills. The form of the whole of the
-hilly district round Chesham, High Wycombe and the Chalfonts is determined
+argillaceous plain to form the [[Chiltern Hills]]. The form of the whole of the
+hilly district round [[Chesham]], High Wycombe and the Chalfonts is determined
 by the Chalk. Reading beds, mottled clays and sands, repose upon the Chalk
 at Woburn, Barnham, Fulmer and Denham, and these are in turn covered by the
-London Clay, which is exposed on the slopes about Stoke Common and Iver.
+[[London Clay]], which is exposed on the slopes about Stoke Common and Iver.
 Between the Tertiary-capped Chalk plateau and the Thames, a gentler slope,
-covered with alluvial gravel and brick earth, reaches down to the river.
+covered with alluvial gravel and [[Brick|brick]] earth, reaches down to the river.
 Thick deposits of plateau gravel cover most of the high ground in the
 southern corner of the county, while much of the northern part is obscured
 by glacial clays and gravels.
@@ -94,15 +94,15 @@ locally; and at High Wycombe and in its neighbourhood there is a thriving
 trade in various articles of turnery, such as chairs and bowls, from beech
 and other hard woods. The introduction of lace-making in this and
 neighbouring counties is attributed to Flemish, and later to French
-immigrants, but also to Catharine of Aragon during her residence (c. 1532)
+immigrants, but also to Catharine of [[Aragon]] during her residence (c. 1532)
 at Ampthill. Down to the later part of the 19th century a general holiday
 celebrated by lace-makers on the 25th of November was known as "Cattarn's
 Day."
 
 _Communications._--The main line of the London & North-Western railway
 crosses the north-east part of the county. Bletchley is an important
-junction on this system, branches diverging east to Fenny Stratford,
-Bedford and Cambridge, and west to Oxford and Banbury, Buckingham being
+junction on this system, branches diverging east to [[Fenny Stratford]],
+[[Bedford]] and Cambridge, and west to Oxford and Banbury, Buckingham being
 served by the western branch. There is also a branch from Cheddington to
 Aylesbury. The Metropolitan-Great Central joint line serves Amersham,
 Chesham (by a branch), and Aylesbury, joining the North-Western Oxford
@@ -149,16 +149,16 @@ ancient designation of the "three hundreds of Aylesbury." The municipal
 boroughs are Buckingham, the county town (pop. 3152), and Wycombe,
 officially Chepping Wycombe, also Chipping or High Wycombe (15,542). The
 other urban districts are Aylesbury (9243), Beaconsfield (1570), Chesham
-(7245), Eton (3301), Fenny Stratford (4799), Linslade, on the Ouzel
-opposite to Leighton Buzzard in Bedfordshire (2157), Marlow (4526), Newport
+(7245), [[Eton]] (3301), Fenny Stratford (4799), Linslade, on the Ouzel
+opposite to [[Leighton Buzzard]] in Bedfordshire (2157), [[Marlow]] (4526), Newport
 Pagnell (4028), Slough (11,453). Among the lesser market towns may be
 mentioned Amersham (2674), Ivinghoe (808), Olney (2684), Prince's
 Risborough (2189), Stony Stratford (2353), Wendover (2009) and Winslow
 (1703). At Wolverton (5323) are the carriage works of the London &
 North-Western railway. Several of the villages on and near the banks of the
-Thames have become centres of residence, such as Taplow, Cookham and Bourne
+Thames have become centres of residence, such as Taplow, Cookham and [[Bourne]]
 End, Burnham and Wooburn. Buckinghamshire is in the midland circuit, and
-assizes are held at Aylesbury. It has one court of quarter sessions, and is
+[[Assize|assizes]] are held at Aylesbury. It has one court of quarter sessions, and is
 divided into thirteen petty sessional divisions. The boroughs of Buckingham
 and Wycombe have separate commissions of the peace. The administrative
 county contains 230 civil parishes. Buckinghamshire is almost entirely
@@ -181,10 +181,10 @@ numerous barrows and earthworks mark the scenes [v.04 p.0675] of struggles
 against the invaders. These relics are especially abundant in the vale of
 Aylesbury, probably at this time one of the richest and best protected of
 the Saxon settlements. The Chiltern district, on the other hand, is said to
-have been an impassable forest infested by hordes of robbers and wild
+have been an impassable forest infested by [[Horde|hordes]] of robbers and wild
 beasts. In the reign of Edward the Confessor, Leofstan, 12th abbot of St
 Albans, cut down large tracts of wood in this district and granted the
-manor of Hamstead (Herts) to a valiant knight and two fellow-soldiers on
+manor of Hamstead (Herts) to a valiant [[Knight|knight]] and two fellow-soldiers on
 condition that they should check the depredations of the robbers. The same
 reason led at an early period to the appointment of a steward of the
 Chiltern Hundreds, and this office being continued long after the necessity
@@ -192,17 +192,17 @@ for it had ceased to exist, gradually became the sinecure it is to-day. The
 district was not finally disforested until the reign of James I.
 
 At the time of the Norman invasion Buckinghamshire was probably included in
-the earldom of Leofwine, son of Godwin, and the support which it lent him
-at the battle of Hastings was punished by sweeping confiscations after the
+the earldom of Leofwine, son of Godwin, and the support which it [[Lent|lent]] him
+at the battle of [[Hastings]] was punished by sweeping confiscations after the
 Conquest. The proximity of Buckinghamshire to London caused it to be
 involved in most of the great national events of the ensuing centuries.
 During the war between King John and his barons William Mauduit held
 Hanslape Castle against the king, until in 1216 it was captured and
-demolished by Falkes de Breaute. The county was visited severely by the
+demolished by [[Falk|Falkes]] de Breaute. The county was visited severely by the
 Black Death, and Winslow was one of many districts which were almost
 entirely depopulated. In the civil war Buckinghamshire was one of the first
 counties to join in an association for mutual defence on the side of the
-parliament, which had important garrisons at Aylesbury, Brill and
+parliament, which had important [[Garrison|garrisons]] at Aylesbury, Brill and
 elsewhere. Newport Pagnell was for a short time garrisoned by the royalist
 troops, and in 1644 the king fixed his headquarters at Buckingham.
 
@@ -222,8 +222,8 @@ held at Aylesbury.
 
 The ecclesiastical history of Buckinghamshire is not easy to trace, as
 there is no local chronicler, but the earliest churches were probably
-subject to the West Saxon see of Dorchester, and when after the Conquest
-the bishop's stool was transferred to Lincoln no change of jurisdiction
+subject to the West Saxon see of [[Dorchester]], and when after the Conquest
+the bishop's stool was transferred to [[Lincoln]] no change of jurisdiction
 ensued. After the dissolution of the monasteries it was proposed to form a
 new diocese to include Bedfordshire and Buckinghamshire, but the project
 was abandoned, and both remained in the Lincoln diocese until 1837, when
@@ -236,24 +236,24 @@ the deaneries were reconstructed and made eighteen in number.
 
 On the redistribution of estates after the Conquest only two Englishmen
 continued to retain estates of any importance, and the chief landowners at
-this date were Walter Giffard, first earl of Buckingham, and Odo, bishop of
+this date were Walter [[Giffard]], first earl of Buckingham, and Odo, bishop of
 Bayeux. Few of the great Buckinghamshire estates, however, remained with
 the same proprietors for any length of time. Many became annexed by
 religious establishments, while others reverted to the crown and were
-disposed of by various grants. The family of Hampden alone claim to have
+disposed of by various grants. The family of [[Hampden]] alone claim to have
 held the estate from which the name is derived in an unbroken line from
 Saxon times.
 
 Buckinghamshire has always ranked as an agricultural rather than a
-manufacturing county, and has long been famed for its corn and cattle.
-Fuller mentions the vale of Aylesbury as producing the biggest bodied sheep
-in England, and "Buckinghamshire bread and beef" is an old proverb.
-Lace-making, first introduced into this county by the Fleming refugees from
+manufacturing county, and has long been famed for its [[Corn|corn]] and cattle.
+[[Fuller]] mentions the vale of Aylesbury as producing the biggest bodied sheep
+in England, and "Buckinghamshire bread and [[Beef|beef]]" is an old proverb.
+Lace-making, first introduced into this county by the [[Fleming]] refugees from
 the Alva persecution, became a very profitable industry. The monopolies of
 James I. considerably injured this trade, and in 1623 a petition was
 addressed to the high sheriff of Buckinghamshire representing the distress
-of the people owing to the decay of bone lace-making. Newport Pagnell and
-Olney were especially famous for their lace, and the parish of Hanslape is
+of the people owing to the decay of [[Bone|bone]] lace-making. Newport Pagnell and
+Olney were especially famous for their [[Lace|lace]], and the parish of Hanslape is
 said to have made an annual profit of L8000 to L9000 from lace manufacture.
 The straw-plait industry was introduced in the reign of George I., and
 formerly gave employment to a large number of the population.
@@ -280,7 +280,7 @@ of the Augustinian Notley Abbey (1162), incorporated with a farm-house,
 deserve mention rather for their picturesque situation by the river Thame
 than for their architectural value. Turning to churches, there is
 workmanship considered to be of pre-Norman date in Wing church, in the
-neighbourhood of Leighton Buzzard, including a polygonal apse and crypt.
+neighbourhood of Leighton Buzzard, including a polygonal [[Apse|apse]] and crypt.
 Stewkley church, in the same locality, shows the finest Norman work in the
 county; the building is almost wholly of the later part of this period, and
 the ornamentation is very rich. The Early English work of Chetwode and
@@ -295,31 +295,31 @@ country houses, of which Chequers Court, dating from the close of the 16th
 century, is of interest not only from the architectural standpoint but from
 its beautiful situation high among the Chiltern Hills between Prince's
 Risborough and Wendover, and from a remarkable collection of relics of
-Oliver Cromwell, preserved here as a consequence of the marriage, in 1664,
+Oliver [[Cromwell]], preserved here as a consequence of the marriage, in 1664,
 of John Russell, a grandson of the Protector, into the family to which the
 house then belonged. The manor-house of Hampden, among the hills east of
 Prince's Risborough, was for many generations the abode of the family of
 that name, and is still in the possession of descendants of John Hampden,
 who fell at the battle of Chalgrove in 1643, and is buried in Hampden
 church. Fine county seats are numerous--there may be mentioned Stowe
-(Buckingham), formerly the seat of the dukes of Buckingham; Cliveden and
+(Buckingham), formerly the seat of the [[Dukes|dukes]] of Buckingham; Cliveden and
 Hedsor, two among the many beautifully situated mansions by the bank of the
 Thames; and Claydon House in the west of the county. Among the Chiltern
 Hills, also, there are several [v.04 p.0676] splendid domains. Associations
 with eminent men have given a high fame to several towns or villages of
 Buckinghamshire. Such are the connexion of Beaconsfield with Edmund Waller
-and Edmund Burke, that of Hughenden near Wycombe with Benjamin Disraeli,
+and Edmund Burke, that of Hughenden near Wycombe with [[Benjamin]] Disraeli,
 Lord Beaconsfield, whose father's residence was at Bradenham; of Olney and
-Stoke Pogis with the poets Cowper and Gray respectively. At Chalfont St
-Giles a cottage still stands in which Milton completed _Paradise Lost_ and
+Stoke Pogis with the poets [[Cowper]] and [[Gray]] respectively. At Chalfont St
+[[Giles]] a cottage still stands in which Milton completed _Paradise Lost_ and
 began _Paradise Regained_. In earlier life he had lived and worked at
-Horton, near the Thames below Windsor.
+[[Horton]], near the Thames below Windsor.
 
 AUTHORITIES.--The original standard history is the laborious work of G.
 Lipscomb, _History and Antiquities of the County of Buckingham_ (London,
 1831-1847). Other works are: Browne Willis, _History and Antiquities of the
 Town, Hundred, and Deanery of Buckingham_ (London, 1755); D. and S. Lysons,
-_Magna Britannia_, vol. i.; R. Gibbs, _Buckingham_ (Aylesbury, 1878-1882);
+_Magna Britannia_, vol. i.; R. [[Gibbs]], _Buckingham_ (Aylesbury, 1878-1882);
 _Worthies of Buckingham_ (Aylesbury, 1886); and _Buckingham Miscellany_
 (Aylesbury, 1891); G.S. Roscoe, _Buckingham Sketches_ (London, 1891); P.H.
 Ditchfield, _Memorials of Old Buckinghamshire_ (London, 1901); _Victoria

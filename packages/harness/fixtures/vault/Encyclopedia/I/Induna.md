@@ -8,7 +8,7 @@ skill in war, and often proved a menace to their nominal lord. Where,
 under British influence, the purely military system of government among
 the Kaffir tribes has broken down or been modified, indunas are now
 administrators rather than warriors. They sit in a consultative
-gathering known as an indaba, and discuss the civil and military affairs
+gathering known as an indaba, and [[Discus|discuss]] the civil and military affairs
 of their tribe.
 
 ## See also

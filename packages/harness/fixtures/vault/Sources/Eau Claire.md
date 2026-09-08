@@ -12,12 +12,12 @@ tags: [composers-studies, history]
 EAU CLAIRE, a city and the county-seat of Eau Claire county, Wisconsin,
 U.S.A., on the Chippewa river, at the mouth of the Eau Claire, about 87
 m. E. of St Paul. Pop. (1890) 17,415; (1900) 17,517, of whom 4996 were
-foreign-born; (1910 census) 18,310. It is served by the Chicago &
+foreign-born; (1910 census) 18,310. It is served by the [[Chicago]] &
 North-Western, the Chicago, Milwaukee & St Paul, and the Wisconsin
 Central railways, and is connected by an electric line with Chippewa
-Falls (12 m. distant). The city has a Carnegie library with 17,200
+Falls (12 m. distant). The city has a [[Carnegie]] library with 17,200
 volumes in 1908, a Federal building, county court house, normal school
-and insane asylum. It has abundant water-power, and is an important
+and insane [[Asylum|asylum]]. It has abundant water-power, and is an important
 lumber manufacturing centre; among its other manufactures are flour,
 wooden-ware, agricultural machinery, saw-mill machinery, logging
 locomotives, wood pulp, paper, linen, mattresses, shoes and trunks. The

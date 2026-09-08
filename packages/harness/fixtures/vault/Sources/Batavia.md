@@ -1,9 +1,9 @@
 # Batavia
 
-BATAVIA, a city and seaport on the north coast of the island of Java,
+BATAVIA, a city and seaport on the north coast of the island of [[Java]],
 and the capital of all the Dutch settlements in the East. The population
 in 1880 was 96,957; in 1898, 115,567; including 9423 Europeans, 26,433
-Chinese, 2828 Arabs and 132 other Asiatic foreigners. It is situated on
+Chinese, 2828 [[Arabs]] and 132 other Asiatic foreigners. It is situated on
 both sides of the river Jacatra or Jilivong, in a swampy plain at the
 head of a capacious bay. The streets are for the most part straight and
 regular, and many of them have a breadth of from 100 to 200 ft. In
@@ -12,8 +12,8 @@ protected by low parapets or banks, while almost every street and square
 is fringed with trees. The old town has greatly changed from its
 condition in the 18th century. It was then surrounded by strong
 fortifications, and contained a number of important buildings, such as
-the town-house (built in 1652 and restored in 1706), the exchange, the
-infirmary and orphan asylum, and the European churches. But the ramparts
+the town-house (built in 1652 and restored in 1706), the [[Exchange|exchange]], the
+infirmary and orphan [[Asylum|asylum]], and the European churches. But the ramparts
 were long ago demolished; only natives, Malays, Arabs and Chinese live
 here, and the great European houses have either fallen into decay or
 been converted into magazines and warehouses. The European inhabitants
@@ -28,7 +28,7 @@ storey or two at most, are frequently separated from each other by rows
 of trees. Batavia contains numerous buildings connected with the civil
 and military organisation of the government. The governor-general's
 palace and the government buildings are the most important of these; in
-the district of Weltevreden are also the barracks, and the artillery
+the district of Weltevreden are also the [[Barracks|barracks]], and the artillery
 school, as well as the military and civil hospital, and not far off is
 the Frederik-Hendrik citadel built in 1837. Farther inland, at Meester
 Cornelis, are barracks and a school for under-officers. The
@@ -67,20 +67,20 @@ connect the town with Tanjong ("cape") Priok by a canal, and include an
 outer port formed by two breakwaters, 6072 ft. long, with a width at
 entrance of 408 ft. and a depth of 27 ft. throughout. The inner port has
 3282 ft. of quayage; its length is 3609 ft., breadth 573 ft. and depth
-24 ft. There is also a coal dock, and the port has railway and roadway
+24 ft. There is also a coal [[Dock|dock]], and the port has railway and roadway
 connexion with Batavia. The river Jilivong is navigable 2 m. inland for
 vessels of 30 or 40 tons, but the entrance is narrow, and requires
 continual attention to keep it open.
 
 The exports from Batavia to the other islands of the archipelago, and to
-the ports in the Malay Peninsula, are rice, sago, coffee, sugar, salt,
-oil, tobacco, teak timber and planks, Java cloths, brass wares, &c., and
+the ports in the [[Malay Peninsula]], are rice, sago, coffee, sugar, salt,
+oil, tobacco, teak timber and planks, Java cloths, [[Brass|brass]] wares, &c., and
 European, Indian and Chinese goods. The produce of the Eastern Islands
 is also collected at its ports for re-exportation to India, China and
-Europe--namely, gold-dust, diamonds, camphor, benzoin and other drugs;
+Europe--namely, gold-dust, diamonds, camphor, [[Benzoin|benzoin]] and other drugs;
 edible bird-nests, trepang, rattans, beeswax, tortoise-shell, and dyeing
-woods from Borneo and Sumatra; tin from Banka; spices from the Moluccas;
-fine cloths from Celebes and Bali; and pepper from Sumatra. From Bengal
+woods from Borneo and Sumatra; tin from [[Banka]]; spices from the Moluccas;
+fine cloths from Celebes and [[Bali]]; and pepper from Sumatra. From [[Bengal]]
 are imported opium, drugs and cloths; from China, teas, raw silk, silk
 piece-goods, coarse China wares, paper, and innumerable smaller articles
 for the Chinese settlers. The tonnage of vessels clearing from Batavia
@@ -90,16 +90,16 @@ towns are connected by steam tramways. The Batavia-Buitenzorg railway
 passes the new town, thus connecting it with the main railway which
 crosses the island from west to east.
 
-Almost the only manufactures of any importance are the distillation of
+Almost the only manufactures of any importance are the [[Distillation|distillation]] of
 arrack, which is principally carried on by Chinese, the burning of lime
-and bricks, and the making of pottery. The principal establishment for
+and [[Brick|bricks]], and the making of pottery. The principal establishment for
 monetary transactions is the Java Bank, established in 1828 with a
 capital of L500,000.
 
 Batavia owes its origin to the Dutch governor-general Pieter Both, who
 in 1610 established a factory at Jacatra (which had been built on the
 ruins of the old Javanese town of Sunda Calappa), and to his successor,
-Jan Pieters Coen, who in 1619 founded in its stead the present city,
+Jan Pieters [[Coen]], who in 1619 founded in its stead the present city,
 which soon acquired a flourishing trade and increased in importance. In
 1699 Batavia was visited by a terrible earthquake, and the streams were
 choked by the mud from the volcano of Gunong Salak; they overflowed the

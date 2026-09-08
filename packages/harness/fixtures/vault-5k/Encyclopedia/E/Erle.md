@@ -7,7 +7,7 @@ at the Middle Temple in 1819 he went the western circuit, became counsel
 to the Bank of England, sat in parliament from 1837 to 1841 for the city
 of Oxford, and, although of opposite politics to Lord Lyndhurst, was
 made by him a judge of the common pleas in 1845. He was transferred to
-the queen's bench in the following year, and in 1859 came back to the
+the queen's [[Bench|bench]] in the following year, and in 1859 came back to the
 common pleas as chief justice upon the promotion of Sir Alexander
 Cockburn. He retired in 1866, receiving the highest eulogiums for the
 ability and impartiality with which he had discharged the judicial
@@ -16,7 +16,7 @@ January 1880, and a monument without his name but in his memory
 (sometimes erroneously supposed to mark the place where an old gibbet
 was) stands on the top of Hindhead.
 
-  See E. Manson, _Builders of our Law_ (1904).
+  See E. [[Manson]], _Builders of our Law_ (1904).
 
 ## References
 

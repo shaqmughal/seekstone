@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ito"
 ITO, HIROBUMI, PRINCE (1841-1909), Japanese statesman, was born in 1841,
 being the son of Ito Juzo, and (like his father) began life as a
 retainer of the lord of Choshu, one of the most powerful nobles of
-Japan. Choshu, in common with many of his fellow Daimyos, was bitterly
+Japan. Choshu, in common with many of his [[Fellow|fellow]] Daimyos, was bitterly
 opposed to the rule of the shôgun or tycoon, and when this rule resulted
 in the conclusion of the treaty with Commodore M. C. Perry in 1854, the
 smouldering discontent broke out into open hostility against both
@@ -19,14 +19,14 @@ chieftain, and was sent on a secret mission to Yedo to report to his
 lord on the doings of the government. This visit had the effect of
 causing Ito to turn his attention seriously to the study of the British
 and of other military systems. As a result he persuaded Choshu to
-remodel his army, and to exchange the bows and arrows of his men for
+remodel his army, and to exchange the [[Bow|bows]] and arrows of his men for
 guns and rifles. But Ito felt that his knowledge of foreigners, if it
 was to be thorough, should be sought for in Europe, and with the
 connivance of Choshu he, in company with Inouye and three other young
 men of the same rank as himself, determined to risk their lives by
 committing the then capital offence of visiting a foreign country. With
 great secrecy they made their way to Nagasaki, where they concluded an
-arrangement with the agent of Messrs Jardine, Matheson & Co. for
+arrangement with the agent of Messrs Jardine, [[Matheson]] & Co. for
 passages on board a vessel which was about to sail for Shanghai (1863).
 At that port the adventurers separated, three of their number taking
 ship as passengers to London, while Ito and Inouye preferred to work
@@ -62,11 +62,11 @@ enlistment of the services of European authorities on military, naval
 and educational systems.
 
 After his return to Japan Ito served in several cabinets as head of the
-bureau of engineering and mines, and in 1886 he accepted office as prime
+bureau of [[Engineering|engineering]] and mines, and in 1886 he accepted office as prime
 minister, a post which, when he resigned in 1901, he had held four
 times. In 1882 he was sent on a mission to Europe to study the various
 forms of constitutional government; on this occasion he attended the
-coronation of the tsar Alexander III. On his return to Japan he was
+[[Coronation|coronation]] of the tsar Alexander III. On his return to Japan he was
 entrusted with the arduous duty of drafting a constitution. In 1890 he
 reaped the fruits of his labours, and nine years later he was destined
 to witness the abrogation of the old treaties, and the substitution in

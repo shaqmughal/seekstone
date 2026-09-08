@@ -10,17 +10,17 @@ id: 42-3673
 
 # Joinder
 
-JOINDER, in English law, a term used in several connexions.
+JOINDER, in [[English Law|English law]], a term used in several connexions.
 
 _Joinder of causes of action_ is the uniting in the same action several
 causes of action. Save in actions for the recovery of land and in
-actions by a trustee in bankruptcy a plaintiff may without leave join in
+actions by a trustee in [[Bankruptcy|bankruptcy]] a plaintiff may without leave join in
 one action, not several actions, but several "causes of action." Claims
 by or against husband and wife may be joined with claims by or against
 either of them separately. Claims by or against an executor or
 administrator as such may be joined with claims by or against him
 personally, provided such claims are alleged to arise with reference to
-the estate of which the plaintiff or defendant sues or is sued as
+the estate of which the plaintiff or [[Defendant|defendant]] sues or is sued as
 executor or administrator. Claims by plaintiffs jointly may be joined
 with claims by them or any of them separately against the same
 defendant.

@@ -5,8 +5,8 @@ on the Zschopau, 7 m. N.E. of Chemnitz, on the railway
 Niederwiesa-Rosswein. Pop. (1905) 13,303. The principal buildings are
 the large Evangelical parish church, restored in 1874-1875, and the
 town-hall. Its industries include I extensive woollen, cotton and silk
-weaving, dyeing, the manufacture of brushes, furniture and cigars,
-iron-founding and machine building. It is well provided with schools,
+weaving, dyeing, the manufacture of brushes, furniture and [[Cigar|cigars]],
+iron-founding and [[Machine|machine]] building. It is well provided with schools,
 including one of weaving.
 
 ## See also

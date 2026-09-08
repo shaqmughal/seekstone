@@ -1,11 +1,11 @@
 # Chidambaram
 
-CHIDAMBARAM, or CHEDUMBRUM, a town of British India, in the South Arcot
+CHIDAMBARAM, or CHEDUMBRUM, a town of British India, in the South [[Arcot]]
 district of Madras, 7 m. from the coast and 151 m. S. of Madras by rail.
 Pop. (1901) 19,909. The pagodas at Chidambaram are the oldest in the
 south of India, and portions of them are gems of art. Here is supposed
 to have been the northern frontier of the ancient Chola kingdom, the
-successive capitals of which were Uriyur on the Cauvery, Combaconum and
+successive capitals of which were Uriyur on the [[Cauvery]], [[Combaconum]] and
 Tanjore. The principal temple is sacred to Siva, and is said to have
 been rebuilt or enlarged by a leper emperor, who came south on a
 pilgrimage and was cured by bathing in the temple tank; upwards of

@@ -20,7 +20,7 @@ the case of royal courts it denotes the whole body of dignitaries and
 officials who surround and attend on the pope; the pope, however, has
 two establishments: the civil establishment, in which he is surrounded
 by what is termed his "family" (_familia_); and the religious
-establishment, the members of which form his "chapel" (_capella_). The
+establishment, the members of which form his "chapel" (_[[Capella|capella]]_). The
 word curia is more particularly reserved to the tribunals and
 departments which actually deal with the general business of the Church.
 
@@ -47,14 +47,14 @@ departments are generally called Acts of the Holy See (and in this sense
 the Holy See is equivalent to the Curia); those which emanate direct
 from the pope are called Pontifical Acts. The latter are actually the
 Apostolic Letters, i.e. those documents in which the pope speaks in his
-own name (bulls, briefs, encyclicals, &c.) even when he does not sign
+own name ([[Bull|bulls]], briefs, [[Encyclical|encyclicals]], &c.) even when he does not sign
 them, as we shall see. The Apostolic Letters alone may be _ex cathedra_
-documents, and may have the privilege of infallibility, if the matter
+documents, and may have the privilege of [[Infallibility|infallibility]], if the matter
 admit of it. There are also certain differences between the two sorts of
 documents with regard to their penal consequences. But in all cases the
 disciplinary authority is evidently the same; we need only note that
 acts concerning individuals do not claim the force of general law; the
-legal decisions serve at most to settle matters of jurisprudence, like
+legal decisions serve at most to settle matters of [[Jurisprudence|jurisprudence]], like
 the judgments of all sovereign courts.
 
 
@@ -83,7 +83,7 @@ the subjects for consideration. Their deliberations are secret and are
 based on prepared documents bearing on the case, written, or more often
 printed, which are distributed to all the cardinals about ten days in
 advance. The deliberations follow a simplified procedure, which is
-founded more on equity than on the more strictly legal forms, and
+founded more on [[Equity|equity]] than on the more strictly legal forms, and
 decisions are given in the shortest possible form, in answer to
 carefully formulated questions or _dubia_. The cardinal prefect, aided
 by the secretariate, deals with the ordinary business, only important
@@ -93,7 +93,7 @@ the cardinal prefect and secretary, and sealed with his seal.
 Practically the only exception is in the cases of the Holy Office, and
 of the Consistorial Congregation of which the pope himself is prefect;
 the acts of the first are signed by the "notary," and the acts of the
-second by the assessor.
+second by the [[Assessor|assessor]].
 
 We may pass over those temporary congregations of cardinals known also
 as "special," the authority and existence of which extend only to the
@@ -138,7 +138,7 @@ Congregatio Romanae et universalis Inquisitionis seu Sancti Officii_),
 the first of the Congregations, hence called the supreme. It is composed
 of twelve cardinals, assisted by a certain number of officials: the
 assessor, who practically fulfils the functions of the secretary, the
-commissary general, some consultors and the qualificators, whose duty it
+[[Commissary|commissary]] general, some consultors and the qualificators, whose duty it
 is to determine the degree of theological condemnation deserved by
 erroneous doctrinal propositions (_haeretica_, _erronea_, _temeraria_,
 &c.). The presidency is reserved to the pope, and the cardinal of
@@ -151,9 +151,9 @@ those crimes which are more or less of the character of heresy. Its
 procedure is subject to the strictest secrecy. Pius X. attached to it
 all matters concerning indulgences; on the other hand, he transferred to
 the Congregation of the Council matters concerning the precepts of the
-Church such as fasting, abstinence and festivals. The choosing of
+Church such as [[Fasting|fasting]], abstinence and festivals. The choosing of
 bishops, which had in recent times been entrusted to the Holy Office,
-was given to the Consistorial Congregation, and dispensations from
+was given to the Consistorial Congregation, and [[Dispensation|dispensations]] from
 religious vows to the Congregation of the Religious Orders. The Holy
 Office continues, however, to deal with mixed marriages and marriages
 with infidels.
@@ -164,7 +164,7 @@ with infidels.
 (2) The Consistorial Congregation (_Sacra Congregatio Consistorialis_),
 established by Sixtus V., has as its object the preparation of business
 to be dealt with and decided in secret consistory (q.v.); notably
-promotions to cathedral churches and consistorial benefices, the
+promotions to cathedral churches and consistorial [[Benefice|benefices]], the
 erection of dioceses, &c. To this congregation is also subject the
 administration of the common property of the college of cardinals. Pius
 X. restored this Congregation to a position of great importance; in the
@@ -224,10 +224,10 @@ ordinations, &c., concessions with regard to the mass, the communion,
 official title was, Congregation for the Affairs and Consultations of
 the Bishops and Regulars (_Sacra Congregatio super negotiis Episcoporum
 et Regularium_; now _Sacra Congregatio negotiis religiosorum sodalium
-praeposita_). It is the result of the fusion of two previous
+praeposita_). It is the result of the [[Fusion|fusion]] of two previous
 commissions; that for the affairs of bishops, established by Gregory
 XIII., and that for the affairs of the regular clergy, founded by Sixtus
-V.; the fusion dates from Clement VIII. (1601). This congregation was
+V.; the fusion dates from [[Clement]] VIII. (1601). This congregation was
 very much occupied, being empowered to deal with all disciplinary
 matters concerning both the secular and regular clergy, whether in the
 form of consultations or of contentious suits; it had further the
@@ -237,7 +237,7 @@ examined, corrected and approved; finally it judged disputes and
 controversies between the secular and regular clergy. On the 26th of May
 1906, Pius X. incorporated in this Congregation two others having a
 similar object: that on the discipline of the regular clergy
-(_Congregatio super Disciplina Regularium_), founded by Innocent XII. in
+(_Congregatio super Disciplina Regularium_), founded by [[Innocent]] XII. in
 1695, and that on the condition of the regular clergy (_Congregatio
 super Statu Regularium_), established by Pius IX. in 1846. In 1908 Pius
 X. withdrew from this Congregation all disciplinary matters affecting
@@ -250,7 +250,7 @@ relations with the bishops.
 
 (7) The Congregation of the Council (_Sacra Congregatio Cardinalium
 Concilii Tridentini interpretum_), i.e. a number of cardinals whose duty
-it is to interpret the disciplinary decrees of the council of Trent, was
+it is to interpret the disciplinary [[Decree|decrees]] of the council of Trent, was
 instituted by Pius IV. in 1563, and reorganized by Sixtus V.; its
 mission is to promote the observation of these disciplinary decrees, to
 give authoritative interpretations of them, and to reconcile disputes
@@ -298,7 +298,7 @@ prefecture is later transformed into an apostolic vicariate, having at
 its head a bishop; finally, the hierarchy, i.e. the diocesan episcopate,
 is established in the country, with residential sees. Thus the hierarchy
 was re-established in England in 1850 by Pius IX., in 1878 by Leo XIII.
-in Scotland, in 1886 in India, in 1891 in Japan. It is also the work of
+in Scotland, in 1886 in India, in 1891 in [[Japan]]. It is also the work of
 the Propaganda to appoint the bishops for the countries it administers.
 Under the same cardinal prefect is found that section of the Propaganda
 which deals with matters concerning oriental rites (_Congregatio
@@ -311,18 +311,18 @@ in by the bishops and vicars apostolic on their dioceses or missions.
 With the latter is connected the commission for the examination of the
 liturgical books of the East (_Commissio pro corrigendis libris
 ecclesiae Orientalis_). Finally, the popes have devoted to the missions
-the income arising from the Chamber of Spoils (_Camera Spoliorum_), i.e.
+the income arising from the Chamber of Spoils (_[[Camera]] Spoliorum_), i.e.
 that portion of the revenue from church property which cannot be
 bequeathed by the holders of benefices as their own property; this
 source of income, however, has decreased greatly.
 
 
-  Index.
+  [[Index]].
 
 (9) The Congregation of the Index (_Congregatio indicis librorum
 prohibitorum_), founded by St Pius V. in 1571 and reorganized by Sixtus
 V., has as its object the examination and the condemnation or
-interdiction of bad or dangerous books which are submitted to it, or,
+[[Interdiction|interdiction]] of bad or dangerous books which are submitted to it, or,
 since the constitution "_Sapienti_," of those which it thinks fit to
 examine on its own initiative (see INDEX).
 
@@ -331,7 +331,7 @@ examine on its own initiative (see INDEX).
 
 (10) The Congregation of Rites (_Congregatio sacrorum Rituum_), founded
 by Sixtus V., has exclusive charge of the liturgy and liturgical books;
-it also deals with the proceedings in the beatification and canonization
+it also deals with the proceedings in the beatification and [[Canonization|canonization]]
 of saints. Of late years there have been added to it a Liturgical
 Commission, a Historico-liturgical Commission, and a Commission for
 church song, the functions of which are sufficiently indicated by their
@@ -342,7 +342,7 @@ names.
 
 (11) The Ceremonial Congregation (_Sacra Congregatio caeremonialis_),
 the prefect of which is the cardinal dean, was instituted by Sixtus V.;
-its mission is to settle questions of precedence and etiquette,
+its mission is to settle questions of precedence and [[Etiquette|etiquette]],
 especially at the papal court; it is nowadays but little occupied.
 
 
@@ -364,7 +364,7 @@ the Holy Office, and those as to relics to the Congregation of Rites.
 
 (13) The Congregation of the Fabric of St Peter's (_Sacra Congregatio
 reverendae Fabricae S. Petri_) is charged with the upkeep, repairs and
-temporal administration of the great basilica; in this capacity it
+temporal administration of the great [[Basilica|basilica]]; in this capacity it
 controls the famous manufacture of the Vatican mosaics. It also formerly
 enjoyed certain spiritual powers for the reduction of the obligations
 imposed by pious legacies and foundations, the objects of which, for
@@ -388,11 +388,11 @@ by Pius VI. at the end of the 18th century to study the difficult
 questions relative to France, was afterwards definitively continued by
 Pius VII.; and there has been no lack of fresh extraordinary matters. It
 also dealt with the administration of the churches of Latin America, not
-to mention certain European countries, such as Russia, under the same
+to mention certain [[European Countries|European countries]], such as Russia, under the same
 conditions as the Propaganda in countries under missions. Since the
 constitution _Sapienti_, its competency has been confined to the
 examination, at the request of the secretary of state, of questions
-which are submitted to it, and especially those arising from civil laws
+which are submitted to it, and especially those arising from [[Civil Law|civil laws]]
 and concordats.
 
 
@@ -406,7 +406,7 @@ supervise education in Rome and the Papal States; since 1870 it has been
 exclusively concerned with the Catholic universities, so far as the
 sacred sciences are concerned. With this should be connected the
 commission for historical studies, instituted in 1883 by Leo XIII., at
-the same time as he threw the Vatican archives freely open to scholars.
+the same time as he threw the Vatican [[Archive|archives]] freely open to scholars.
 
 
   Tribunals and offices.
@@ -421,7 +421,7 @@ The chief thing to be observed is that the prelates who were formerly at
 the head of these departments have almost all been replaced by
 cardinals. The following is the list of the tribunals and offices,
 including the changes introduced by the reorganization of the Curia by
-Pius X. in 1908. The tribunals are three in number: one for the _forum
+Pius X. in 1908. The tribunals are three in number: one for the _[[Forum|forum]]
 internum_, the Penitentiary; the other two for judicial matters _in foro
 externo_, the Rota and the papal Signatura.
 
@@ -439,7 +439,7 @@ gratuitous. Since the 12th century, the papal court had already had
 officials known as penitentiaries (_poenitentiarii_) for matters of
 conscience; the organization of the Penitentiary, after several
 modifications, was renewed by Benedict XIV. in 1748. At the head of it
-is the cardinal grand penitentiary (_major poenitentiarius_), assisted
+is the cardinal grand penitentiary (_[[Major|major]] poenitentiarius_), assisted
 by the _regens_ (It. _regente_) and various other functionaries and
 officials.
 
@@ -457,7 +457,7 @@ criminal cases. Pius X. also made special regulations for it, by which
 its ancient usages are adapted to modern circumstances. The tribunal of
 the Rota consists of ten judges called auditors (_uditori_), of whom the
 most senior is president with the title of dean. Each judge has an
-auxiliary; to the tribunal are attached a _promotor fiscalis_, charged
+[[Auxiliary|auxiliary]]; to the tribunal are attached a _promotor fiscalis_, charged
 with the duty of securing the due application of the law, and an
 official charged with the defence of marriage and ordination; there is
 also a clerical staff (notaries, scribes) attached to the court. Cases
@@ -501,7 +501,7 @@ the leaden seal (_bulla_), is written on thick parchment; the special
 writing known as Lombard, which used to be used for bulls, was abolished
 by Leo XIII., and the leaden seal reserved for the more important
 letters; on the others it has been replaced by a red ink stamp bearing
-both the emblems represented on the leaden seal: the two heads, face to
+both the [[Emblem|emblems]] represented on the leaden seal: the two heads, face to
 face, of St Peter and St Paul, and the name of the reigning pope. Bulls
 are written in the name of the pope, who styles himself "(_Pius_)
 _Episcopus servus servorum Dei_; (Pius), bishop, servant of the servants
@@ -531,7 +531,7 @@ by order of the Consistorial Congregation.
   Dataria Apostolica.
 
 (2) The Apostolic Dataria is the department dealing with matters of
-grace, e.g. the concession of privileges, nominations to benefices and
+[[Grace|grace]], e.g. the concession of privileges, nominations to benefices and
 dispensations _in foro externo_, especially matrimonial ones; but its
 functions have been greatly reduced by the reforms of Pius X.; the
 matrimonial section has been suppressed, dispensations for marriages now
@@ -539,8 +539,8 @@ belonging to the Congregation for the discipline of the sacraments; the
 section dealing with benefices, which is the only one preserved, deals
 with non-consistorial benefices reserved to the Holy See; it examines
 the claims of the candidates, draws up and sends out the letters of
-collation, gives dispensations, when necessary, in matters concerning
-the benefices, and manages the charges (i.e. pensions to incumbents who
+[[Collation|collation]], gives dispensations, when necessary, in matters concerning
+the benefices, and [[Manage|manages]] the charges (i.e. pensions to incumbents who
 have resigned, &c.) imposed on the benefices by the pope. It has at its
 head a cardinal formerly called the _pro-datarius_, the _datarius_
 having formerly been a prelate; and now _datarius_, since the reform by
@@ -557,7 +557,7 @@ Church as well as sovereigns of the papal states. Although it is
 necessarily diminished in importance, it has retained the administration
 of the property of the Holy See, especially during a vacancy. At its
 head is the cardinal camerlengo (_Sanctae Romanae Ecclesiae Cardinalis
-Camerarius_), who, as we know, exercises the external authority during
+[[Camerarius]]_), who, as we know, exercises the external authority during
 the vacancy of the Holy See.
 
 
@@ -581,7 +581,7 @@ secretary. The first is the department of extraordinary ecclesiastical
 affairs, having at its head the secretary of the Congregation of the
 same name; the second, that of ordinary affairs, directed by a
 substitute, is the department dealing, among other things, with the
-concession of honorary distinctions, both for ecclesiastics and laymen;
+concession of honorary distinctions, both for ecclesiastics and [[Laymen|laymen]];
 the third is that of the briefs, which hitherto formed a separate
 secretariate. It is this department which sends out, at the command of
 the secretary of state or the various Congregations, those papal letters
@@ -632,8 +632,8 @@ ecclesiastics admitted, by virtue of their office or by a gracious
 concession of the pope, to form part of the "family," are called
 domestic prelates, prelates of the household; this is an honorary title
 conferred on many priests not resident in Rome. The external service of
-the palace is performed by the Swiss Guard and the _gendarmerie_; the
-service of the ante-chamber by the lay and ecclesiastical chamberlains;
+the palace is performed by the Swiss Guard and the _[[Gendarmerie|gendarmerie]]_; the
+service of the ante-chamber by the lay and ecclesiastical [[Chamberlain|chamberlains]];
 this service has also given rise to certain honorary titles both for
 ecclesiastics, e.g. honorary chamberlain, and for laymen, e.g. secret
 chamberlain (_cameriere segreto_). (See CHAMBERLAIN.)
@@ -652,14 +652,14 @@ _protonotarii participantes_ were restored by Pope Pius X. to the
 chancery, as noted above, but they have kept important honorary
 privileges; this is yet another source of distinctions conferred upon a
 great number of priests outside of Rome, the protonotaries of different
-classes. In a lower degree there are also the chaplains of honour. Since
+classes. In a lower degree there are also the [[Chaplain|chaplains]] of honour. Since
 1870 the great pontifical ceremonies have lost much of their splendour.
 
-  BIBLIOGRAPHY.--_La Gerarchia cattolica_, an annual directory published
+  BIBLIOGRAPHY.--_La Gerarchia cattolica_, an annual [[Directory|directory]] published
   at Rome; Lunadoro, _Relazione della corte di Roma_ (Rome, 1765);
   Moroni, _Dizionario di erudizione_, under the various headings; Card.
-  De Luca, _Relatio curiae romanae_ (Cologne, 1683); Bouix, _De curia
-  romana_ (Paris, 1859); Ferraris, _Prompta bibliotheca_ (addit.
+  De Luca, _Relatio curiae romanae_ ([[Cologne]], 1683); Bouix, _De curia
+  romana_ (Paris, 1859); [[Ferrari|Ferraris]], _Prompta bibliotheca_ (addit.
   _Cassinenses_), s.v. _Congregatio_; Grimaldi, _Les Congregations
   romaines_ (Sienna, 1891); _Dictionnaire de theologie catholique_, s.v.
   _Cour romaine_ (Paris, 1907); Publications of the acts of the Roman
@@ -667,9 +667,9 @@ classes. In a lower degree there are also the chaplains of honour. Since
   Secretariae_ (Rome, 1866, 1885). Council: the _Thesaurus resolutionum_
   has published all business since 1700; a volume is issued every year,
   and the contents have been published in alphabetical order by Zamboni
-  (4 vols., Rome, 1812; Arras, 1860) and by Pallottini (18 vols., Rome,
+  (4 vols., Rome, 1812; [[Arras]], 1860) and by Pallottini (18 vols., Rome,
   1868, &c.). Immunity: Ricci, _Synopsis, decreta et resolutiones_
-  (Palestrina, 1708). Propaganda: De Martinis, _Juris pontificii de
+  (Palestrina, 1708). Propaganda: De [[Martini|Martinis]], _Juris pontificii de
   Propaganda Fide_, &c. (Rome, 1888, &c.); _Collectanea S. C. de Prop.
   Fide_ (2nd ed., Rome, 1907). Index: _Index librorum prohibitorum_
   (Rome, 1900). Rites: _Decreta authentica_ (Rome, 1898). Indulgences:

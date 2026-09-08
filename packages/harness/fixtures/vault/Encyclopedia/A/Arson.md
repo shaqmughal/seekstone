@@ -7,22 +7,22 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Arson"
 
 # Arson
 
-ARSON (from Lat. _ardere_, to burn), a crime which has been described as
+ARSON (from Lat. _ardere_, to [[Burn|burn]]), a crime which has been described as
 the malicious and voluntary burning of the house of another (3 Co.
 _Inst._ 66). At common law in England it is an offence of the degree of
-felony. In the Roman civil law arson was punishable by death. It appears
-early in the history of English law, being known in ancient laws by the
+felony. In the Roman [[Civil Law|civil law]] arson was punishable by death. It appears
+early in the history of [[English Law|English law]], being known in ancient laws by the
 term of _boernet_. It is mentioned by Cnut as one of the bootless
 crimes, and under the Saxon laws was punishable by death. The sentence
 of death for arson was, says Stephen (_Commentaries_, iv. 89), in the
 reign of Edward I. executed by a kind of _lex talionis_, for the
 incendiaries were burnt to death; a punishment which was inflicted also
-under the Gothic institutions. Death continued to be the penalty at
+under the [[Gothic]] institutions. Death continued to be the penalty at
 least down to the reign of King John, according to a reported case
 (Gloucester Pleas, pl. 216), but in course of time the penalty became
 that of other common-law felonies, death by the gallows. It is one of
-the earliest crimes in which the _mens rea_, or criminal intent, was
-taken special notice of. Bracton deals at length with the _mala
+the earliest crimes in which the _mens rea_, or criminal [[Intent|intent]], was
+taken special notice of. [[Bracton]] deals at length with the _mala
 conscientia_, which he says is necessary for this crime, and contrasts
 it with _negligentia_ (f. 146 b), while in many early indictments malice
 aforethought (_malitia praecogitata_) appears. Arson was deprived of
@@ -43,9 +43,9 @@ itself. The burning must be malicious and wilful, otherwise it is only a
 trespass. If a man by wilfully setting fire to his own house burn the
 house of his neighbour also, it will be a felony, even though the
 primary intention of the party was to burn his own house only. The word
-_house_, in the definition of the offence at common law, extends not
+_house_, in the [[Definition|definition]] of the offence at common law, extends not
 only to dwelling-houses, "but to all out-houses which are parcel
-thereof, though not adjoining thereto." Barns with corn and hay in them,
+thereof, though not adjoining thereto." Barns with [[Corn|corn]] and [[Hay|hay]] in them,
 though distant from a house, are within the definition.
 
 The different varieties of the offence are specified in the Malicious
@@ -54,7 +54,7 @@ setting fire to any church, chapel, meeting-house or other place of
 divine worship; (2) setting fire to a dwelling-house, any person being
 therein; (3) setting fire to a house, out-house, manufactory,
 farm-building, &c., with intent to impose and defraud any person; (4)
-setting fire to buildings appertaining to any railway, port, dock or
+setting fire to buildings appertaining to any railway, port, [[Dock|dock]] or
 harbour; or (5) setting fire to any public building. In these cases the
 act provides that the person convicted shall be liable, at the
 discretion of the court, to be kept in penal servitude for life, or for
@@ -81,7 +81,7 @@ years, but setting fire to stacks of the same, or any cultivated
 vegetable produce, or to peat, coals, &c., is regarded as a more serious
 offence, and the penal servitude may be for life. For the attempt to
 commit the last two offences penal servitude is limited to seven years.
-Setting fire to mines of coal, anthracite or other mineral fuel is
+Setting fire to mines of coal, anthracite or other mineral [[Fuel|fuel]] is
 visited with the full measure of penalty, and in the case of an attempt
 the penal servitude is limited to fourteen years. By the Dockyards, &c.,
 Protection Act 1772 it is a felony punishable by death wilfully and
@@ -90,12 +90,12 @@ or any of His Majesty's arsenals, magazines, dockyards, rope-yards,
 victualling offices or buildings therein, or any timber, material,
 stores or ammunition of war therein or in any part of His Majesty's
 dominions. If the person guilty of the offence is a person subject to
-naval discipline, he is triable by court-martial, and if found guilty, a
+naval discipline, he is triable by [[Court-Martial|court-martial]], and if found guilty, a
 sentence of capital punishment may be passed. The Malicious Damage Act
 1861, s. 43, also includes as a felony the setting fire to any ship or
 vessel, with intent to prejudice any owner or part owner of the vessel,
 or of any goods on the same, or any person who has underwritten any
-policy of insurance on the vessel, or upon any goods on board the same.
+policy of [[Insurance|insurance]] on the vessel, or upon any goods on board the same.
 
 In Scotland the offence equivalent to arson in England is known by the
 more expressive name of fire-raising. The crime was punishable capitally
@@ -120,10 +120,10 @@ care what results might follow from his acts.
 _United States._--The same general principles apply to this crime in
 American law. In some states by statute the intent to injure or defraud
 must be shown, e.g. when the property is insured. In New York one who
-wilfully burns property (including a vessel or its cargo) with intent to
+wilfully [[Burns|burns]] property (including a vessel or its [[Cargo|cargo]]) with intent to
 defraud or prejudice the insurer thereof, though the offence of arson is
 not committed, is punishable by imprisonment for not more than five
-years (N.Y. Pen. Code, ss. 575, 578). There must be an intent to destroy
+years (N.Y. Pen. [[Code]], ss. 575, 578). There must be an intent to destroy
 the building (_ibid._ s. 490; California Code, s. 447). An agreement to
 commit arson is conspiracy (_ibid._ s. 171). Killing a person in
 committing the crime of arson is murder in the first degree (_ibid._ s.

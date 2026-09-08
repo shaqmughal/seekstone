@@ -27,12 +27,12 @@ brushwood. In 1901 the population was 723,600, showing an increase of
 the Madras railway, with a branch 10 m. long, known as the Kolar
 Goldfields railway. Gold prospecting in this region began in 1876, and
 the industry is now settled on a secure basis. Here are situated the
-mines of the Mysore, Champion Reef, Ooregum, and Nandidrug companies. To
+mines of the Mysore, [[Champion]] Reef, Ooregum, and Nandidrug companies. To
 the end of 1904 the total value of gold produced was 21 millions
 sterling, and there had been paid in dividends 9 millions, and in
 royalty to the Mysore state one million. The municipality called the
 Kolar Gold Fields had in 1901 a population of 38,204; it has suffered
-severely from plague. Electricity from the falls of the Cauvery (93 m.
+severely from plague. Electricity from the falls of the [[Cauvery]] (93 m.
 distant) is utilized as the motive power in the mines. Sugar manufacture
 and silk and cotton weaving are the other principal industries in the
 district. The chief historical interest of modern times centres round

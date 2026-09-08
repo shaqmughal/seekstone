@@ -15,7 +15,7 @@ Greek history to the position claimed by different individual
 city-states, e.g. by Athens and Sparta, at different times to a position
 of predominance (_primus inter pares_) among other equal states, coupled
 with individual autonomy. The reversion of this position was claimed by
-Macedon (see GREECE: _Ancient History_, and DELIAN LEAGUE).
+Macedon (see GREECE: _Ancient History_, and [[Delian League|DELIAN LEAGUE]]).
 
 ## References
 

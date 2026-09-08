@@ -6,7 +6,7 @@ marshal of France, was born at Châtillon-sur-Seine, on the 20th of July
 _petite noblesse_ and adopted the principles of the Revolution. His love
 of soldiering soon showing itself, his father took him to Dijon to learn
 mathematics prior to entering the artillery, and there he made the
-acquaintance of Bonaparte, which he renewed after obtaining his
+acquaintance of [[Bonaparte]], which he renewed after obtaining his
 commission when he served in Toulon. The acquaintance ripened into
 intimacy; Marmont became General Bonaparte's aide-de-camp, remained with
 him during his disgrace and accompanied him to Italy and Egypt, winning
@@ -15,10 +15,10 @@ Europe with his chief; he was present at the _coup d'état_ of the 18th
 Brumaire, and organized the artillery for the expedition to Italy, which
 he commanded with great effect at Marengo. For this he was at once made
 general of division. In 1801 he became inspector-general of artillery,
-and in 1804 grand officer of the Legion of Honour, but was greatly
+and in 1804 grand officer of the [[Legion]] of Honour, but was greatly
 disappointed at being omitted from the list of officers who were made
-marshals. In 1805 he received the command of a corps, with which he did
-good service at Ulm. He was then directed to take possession of Dalmatia
+marshals. In 1805 he received the command of a [[Corps|corps]], with which he did
+good service at Ulm. He was then directed to take possession of [[Dalmatia]]
 with his army, and occupied Ragusa. For the next five years he was
 military and civil governor of Dalmatia, and traces of his beneficent
 régime still survive both in great public works and in the memories of
@@ -29,7 +29,7 @@ Napoleon now made him a marshal and governor-general of all the Illyrian
 provinces of the empire. In July 1810 Marmont was hastily summoned to
 succeed Masséna in the command of the French army in the north of Spain.
 The skill with which he manoeuvred his army during the year he commanded
-it has been always acknowledged. His relief of Ciudad Rodrigo in the
+it has been always acknowledged. His relief of [[Ciudad Rodrigo]] in the
 autumn of 1811 in spite of the presence of the English army was a great
 feat, and in the manoeuvring which preceded the battle of Salamanca he
 had the best of it. But Wellington more than retrieved his position in
@@ -38,7 +38,7 @@ Marmont himself being gravely wounded in the right arm and side. He
 retired to France to recover, and was still hardly cured when in April
 1813 Napoleon, who soon forgot his fleeting resentment for the defeat,
 gave him the command of a corps. With it he served at the battles of
-Lützen, Bautzen and Dresden, and throughout the great defensive campaign
+Lützen, [[Bautzen]] and [[Dresden]], and throughout the great defensive campaign
 of 1814 until the last battle before Paris, from which he drew back his
 forces to the commanding position of Essonne. Here he had 20,000 men in
 hand, and was the pivot of all thoughts. Napoleon said of this camp of
@@ -47,20 +47,20 @@ toutes les trahisons; aussi y ai-je placé Marmont, mon enfant élevé sous
 ma tente." Marmont then took upon himself a political rôle which has, no
 doubt justly, been stigmatized as ungrateful and treasonable. A secret
 convention was concluded, and Marmont's corps was surrounded by the
-enemy. Napoleon, who still hoped to retain the crown for his infant son,
+enemy. Napoleon, who still hoped to retain the crown for his [[Infant|infant]] son,
 was prostrated, and said with a sadness deeper than violent words,
 "Marmont me porte le dernier coup."
 
 This act was never forgiven by Marmont's countrymen. On the restoration
-of the Bourbons he was indeed made a peer of France and a major-general
-of the royal guard, and in 1820 a knight of the Saint Esprit and a grand
+of the [[Bourbon|Bourbons]] he was indeed made a peer of France and a major-general
+of the royal guard, and in 1820 a [[Knight|knight]] of the Saint Esprit and a grand
 officer of the order of St Louis; but he was never trusted. He was the
 major-general of the guard on duty in July 1830, and was ordered to put
 down with a strong hand any opposition to the ordinances (see FRANCE).
 Himself opposed to the court policy, he yet tried to do his duty, and
 only gave up the attempt to suppress the revolution when it became clear
 that his troops were outmatched. This brought more obloquy upon him, and
-the duc d'Angoulême even ordered him under arrest, saying, "Will you
+the duc d'Angoulême even ordered him under [[Arrest|arrest]], saying, "Will you
 betray us, as you betrayed him?" Marmont did not betray them; he
 accompanied the king into exile and forfeited his marshalate thereby.
 His desire to return to France was never gratified and he wandered in

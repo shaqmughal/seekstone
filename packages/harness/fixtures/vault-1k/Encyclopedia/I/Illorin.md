@@ -65,14 +65,14 @@ at various places in the province. (See also NIGERIA and LAGOS.)
 
 
 ILLUMINATED MSS.--"Illumination," in art, is a term used to signify the
-embellishment of written or printed text or design with colours and
+embellishment of written or printed text or design with [[Colours|colours]] and
 gold, rarely also with silver. The old form of the verb "to illuminate"
 was "to enlumine" (O. Fr. _enluminer_; Lat. _illuminare_, "to throw
 light on," "to brighten"), as used by Chaucer (_A.B.C._, 73), "kalendres
 enlumyned ben they," and other medieval writers. Joinville likens the
 action of St Louis in adorning his kingdom with monastic foundations to
 a writer "qui a fait son livre qui l'enlumine d'or et d'azur"; while
-Dante (_Purgat._ xi. 79) alludes to this kind of decoration as "quell'
+[[Dante]] (_Purgat._ xi. 79) alludes to this kind of decoration as "quell'
 arte che alluminare chiamata è in Parisi." But while the term should be
 strictly applied to the brilliant book-ornamentation which was developed
 in the later middle ages, it has been extended, by usage, to the
@@ -313,7 +313,7 @@ pigments, which lend to the whole design the appearance of enamel. Gold
 is never used. In the production of his designs the Irish artist
 evidently took for his models the objects of early metal work in which
 the Celtic race was so skilled, and probably, too, the classical enamels
-and mosaics and jewelry which had been imported and copied in the
+and mosaics and [[Jewelry|jewelry]] which had been imported and copied in the
 country. The finest example of early Celtic book ornamentation is the
 famous copy of the Gospels known as the _Book of Kells_, of the latter
 part of the 7th century, preserved in Trinity College, Dublin: a miracle
@@ -840,7 +840,7 @@ chief constituents of one kind of border of the 15th century.
 
   15th Century.
 
-Illumination in the 15th century enters on a new phase. The balance is
+Illumination in the 15th century enters on a new phase. The [[Balance|balance]] is
 no longer evenly maintained between the relative values of the miniature
 and the border as factors in the general scheme of decoration. The
 influence of a new sentiment in art makes itself felt more and more; the
@@ -850,7 +850,7 @@ effects of modern painting. Miniature painting in the decoration of MSS.
 now became more of a trade; what in old times had been done in the
 cloister was now done in the shop; and the professional miniaturist,
 working for his own fame, took the place of the nameless monk who worked
-for the credit of his house. Henceforth the miniature occupies a more
+for the [[Credit|credit]] of his house. Henceforth the miniature occupies a more
 important place than ever in the illuminated MS.; while the border, with
 certain important exceptions, is apt to recede into an inferior position
 and to become rather an ornamental adjunct to set off the miniature than
@@ -900,7 +900,7 @@ real landscape began to replace the background of diaper and
 conventional rocks and trees. In the first quarter of the century the
 school of Paris comes prominently to the front with such magnificent
 volumes as the Book of Hours of the regent, John Plantagenet, duke of
-Bedford, now in the British Museum; and the companion MS. known as the
+[[Bedford]], now in the British Museum; and the companion MS. known as the
 Sobieski Hours, at Windsor. In these examples, as is always the case
 with masterpieces, we see a great advance upon earlier methods. The
 miniatures are generally exquisitely painted in brilliant colours and

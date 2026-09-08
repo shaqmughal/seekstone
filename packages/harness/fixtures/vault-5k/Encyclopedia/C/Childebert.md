@@ -17,12 +17,12 @@ the west as far as the English Channel, with the Armorican peninsula. In
 524, after the murder of Chlodomer's children, Childebert annexed the
 cities of Chartres and Orleans. He took part in the various expeditions
 against the kingdom of Burgundy, and in 534 received as his share of the
-spoils of that kingdom the towns of Mâcon, Geneva and Lyons. When
-Vitiges, the king of the Ostrogoths, ceded Provence to the Franks in
-535, the possession of Arles and Marseilles was guaranteed to Childebert
+spoils of that kingdom the towns of Mâcon, [[Geneva]] and [[Lyons]]. When
+Vitiges, the king of the Ostrogoths, ceded Provence to the [[Frank|Franks]] in
+535, the possession of [[Arles]] and Marseilles was guaranteed to Childebert
 by his brothers. Childebert also made a series of expeditions against
 the Visigoths of Spain; in 542 he took possession of Pampeluna with the
-help of his brother Clotaire I., and besieged Saragossa, but was forced
+help of his brother [[Clotaire]] I., and besieged Saragossa, but was forced
 to retreat. From this expedition he brought back to Paris a precious
 relic, the tunic of St Vincent, in honour of which he built at the gates
 of Paris the famous monastery of St Vincent, known later as St
@@ -39,7 +39,7 @@ his father was assassinated in 575, Childebert was taken from Paris by
 Gundobald, one of his faithful _leudes_, to Metz, where he was
 recognized as sovereign. He was then only five years old, and during his
 long minority the power was disputed between his mother Brunhilda and
-the nobles. Chilperic, king at Paris, and King Gontran of Burgundy,
+the nobles. [[Chilperic]], king at Paris, and King Gontran of Burgundy,
 sought alliance with Childebert, who was adopted by both in turn. But
 after the assassination of Chilperic in 584, and the dangers occasioned
 to the Frankish monarchy by the expedition of Gundobald in 585,
@@ -47,12 +47,12 @@ Childebert threw himself unreservedly into the arms of Gontran. By the
 pact of Andelot in 587 Childebert was recognized as Gontran's heir, and
 with his uncle's help he quelled the revolts of the nobles and succeeded
 in seizing the castle of Woëwre. Many attempts were made on his life by
-Fredegond, who was anxious to secure Gontran's inheritance for her son
+[[Fredegond]], who was anxious to secure Gontran's inheritance for her son
 Clotaire II. On the death of Gontran in 592 Childebert annexed the
 kingdom of Burgundy, and even contemplated seizing Clotaire's estates
 and becoming sole king of the Franks. He died, however, in 595.
 Childebert II. had had relations with the Byzantine empire, and fought
-in 585 in the name of the emperor Maurice against the Lombards in Italy.
+in 585 in the name of the emperor [[Maurice]] against the [[Lombards]] in Italy.
 
 
 CHILDEBERT III. was one of the last and feeblest of the Merovingians. A

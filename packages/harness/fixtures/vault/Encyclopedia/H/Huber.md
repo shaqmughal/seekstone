@@ -1,16 +1,16 @@
 # Huber
 
-HUBER, LUDWIG FERDINAND (1764-1804), German author, was born in Paris on
+HUBER, LUDWIG [[Ferdinand|FERDINAND]] (1764-1804), German author, was born in Paris on
 the 14th of September 1764, the son of Michael Huber (1727-1804), who
 did much to promote the study of German literature in France. In his
-infancy young Huber removed with his parents to Leipzig, where he was
+[[Infancy|infancy]] young Huber removed with his parents to Leipzig, where he was
 carefully instructed in modern languages and literature, and showed a
 particular inclination for those of France and England. In Leipzig he
 became intimate with Christian Gottfried Korner, father of the poet; in
-Dresden Huber became engaged to Dora Stock, sister of Korner's
+[[Dresden]] Huber became engaged to Dora Stock, sister of Korner's
 betrothed, and associated with Schiller, who was one of Korner's
 stanchest friends. In 1787 he was appointed secretary to the Saxon
-legation in Mainz, where he remained until the French occupation of
+legation in [[Mainz]], where he remained until the French occupation of
 1792. While here he interested himself for the welfare of the family of
 his friend Georg Forster, who, favouring republican views, had gone to
 Paris, leaving his wife Therese Forster (1764-1829) and family in
@@ -26,7 +26,7 @@ entered upon the functions of his new office when he died on the 24th of
 December 1804.
 
 Huber was well versed in English literature, and in 1785 he published
-the drama _Ethelwolf_, with notes on Beaumont and Fletcher and the old
+the [[Drama|drama]] _Ethelwolf_, with notes on Beaumont and Fletcher and the old
 English stage. He also wrote many dramas, comedies and tragedies, most
 of which are now forgotten, and among them only _Das heimliche Gericht_
 (1790, new ed. 1795) enjoyed any degree of popularity. As a critic he is

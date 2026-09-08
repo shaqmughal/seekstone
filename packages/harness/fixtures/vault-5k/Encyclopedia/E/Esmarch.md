@@ -7,7 +7,7 @@ tags: [history]
 
 # Esmarch
 
-ESMARCH, JOHANNES FRIEDRICH AUGUST VON (1823-1908), German surgeon, was
+ESMARCH, JOHANNES [[Friedrich|FRIEDRICH]] AUGUST VON (1823-1908), German surgeon, was
 born at Tonning, in Schleswig-Holstein, on the 9th of January 1823. He
 studied at Kiel and Gottingen, and in 1846 became B.R.K. von Langenbeck's
 assistant at the Kiel surgical hospital. He served in the
@@ -38,7 +38,7 @@ operations as they occur on the battlefield. Esmarch himself invented an
 apparatus, which bears his name, for keeping a limb nearly bloodless
 during amputation. No part of Esmarch's work is more widely known than
 that which deals with "First Aid," his _First Aid on the Battlefield_ and
-_First Aid to the Injured_ being popular manuals on the subject. The
+_First Aid to the Injured_ being popular [[Manual|manuals]] on the subject. The
 latter is the substance of a course of lectures delivered by him in 1881
 to a "Samaritan School," the first of the kind in Germany, founded by
 Esmarch in 1881, in imitation of the St John's Ambulance classes which

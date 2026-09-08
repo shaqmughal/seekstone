@@ -4,7 +4,7 @@ KEBLE, JOHN (1792-1866), English poet and divine, the author of the
 _Christian Year_, was born on St Mark's Day (April 25), 1792, at
 Fairford, Gloucestershire. He was the second child of the Rev. John
 Keble and his wife Sarah Maule. Descended from a family which had
-attained some legal eminence in the time of the Commonwealth, John
+attained some legal [[Eminence|eminence]] in the time of the [[Commonwealth]], John
 Keble, the father of the poet, was vicar of Coln St Aldwyn, but lived at
 Fairford, about 3 m. distant from his cure. He was a clergyman of the
 old High Church school, whose adherents, untouched by the influence of
@@ -12,8 +12,8 @@ the Wesleys, had moulded their piety on the doctrines on the non-jurors
 and the old Anglican divines. Himself a good scholar, he did not send
 his son to any school, but educated him and his brother at home so well
 that both obtained scholarships at Corpus Christi College, Oxford. John
-was elected scholar of Corpus in his fifteenth, and fellow of Oriel in
-his nineteenth year, April 1811. In Easter term 1810 he had obtained
+was elected scholar of Corpus in his fifteenth, and [[Fellow|fellow]] of Oriel in
+his nineteenth year, April 1811. In [[Easter]] term 1810 he had obtained
 double first class honours, a distinction which had been obtained only
 once before, by Sir Robert Peel. After his election to the Oriel
 fellowship Keble gained the University prizes, both for the English
@@ -26,8 +26,8 @@ his undergraduate days, that love for him was always sanctified by
 reverence--reverence that did not make the love less tender, and love
 that did but add intensity to the reverence." Oriel College was, at the
 time when Keble became a fellow, the centre of all the finest ability in
-Oxford. Copleston, Davison, Whately, were among the fellows who elected
-Keble; Arnold, Pusey, Newman, were soon after added to the society. In
+Oxford. Copleston, [[Davison]], Whately, were among the [[Fellows|fellows]] who elected
+Keble; [[Arnold]], Pusey, Newman, were soon after added to the society. In
 1815 Keble was ordained deacon, and priest in 1816. His real bent and
 choice were towards a pastoral cure in a country parish; but he remained
 in Oxford, acting first as a public examiner in the schools, then as a
@@ -45,7 +45,7 @@ quiet but deep impression on all who came within his influence in
 Oxford, and during his five years of college tutorship had won the
 affection of his pupils. But it was to pastoral work, and not to
 academic duty, that he thenceforth devoted himself, associating with it,
-and scarcely placing on a lower level, the affectionate discharge of his
+and scarcely placing on a lower level, the affectionate [[Discharge|discharge]] of his
 duties as a son and brother. Filial piety influenced in a quite unusual
 degree his feelings and his action all life through. It was in 1827, a
 few years after he settled at Fairford, that he published the _Christian
@@ -76,13 +76,13 @@ Dean Milman. This chair he occupied for ten eventful years. He delivered
 a series of lectures, clothed in excellent idiomatic Latin (as was the
 rule), in which he expounded a theory of poetry which was original and
 suggestive. He looked on poetry as a vent for overcharged feeling, or a
-full imagination, or some imaginative regret, which had not found their
+full [[Imagination|imagination]], or some imaginative regret, which had not found their
 natural outlet in life and action. This suggested to him a distinction
 between what he called primary and secondary poets--the first employing
 poetry to relieve their own hearts, the second, poetic artists,
 composing poetry from some other and less impulsive motive. Of the
-former kind were Homer, Lucretius, Burns, Scott; of the latter were
-Euripides, Dryden, Milton. This view was set forth in an article
+former kind were [[Homer]], [[Lucretius]], [[Burns]], Scott; of the latter were
+[[Euripides]], [[Dryden]], Milton. This view was set forth in an article
 contributed to the _British Critic_ in 1838 on the life of Scott, and
 was more fully developed in two volumes of _Praelectiones Academicae_.
 
@@ -91,7 +91,7 @@ friends in Oriel common room, and made him familiar with the currents of
 feeling which swayed the university. Catholic emancipation and the
 Reform Bill had deeply stirred, not only the political spirit of Oxford,
 but also the church feeling which had long been stagnant. Cardinal
-Newman writes, "On Sunday July 14, 1833, Mr Keble preached the assize
+Newman writes, "On Sunday July 14, 1833, Mr Keble preached the [[Assize|assize]]
 sermon in the University pulpit. It was published under the title of
 _National Apostasy_. I have ever considered and kept the day as the
 start of the religious movement of 1833." The occasion of this sermon
@@ -112,7 +112,7 @@ as Newman would have it, as the primary author of the movement, it was
 from Pusey that it received one of its best known names, and in Newman
 that it soon found its genuine leader. To the tracts Keble made only
 four contributions:--No. 4, containing an argument, in the manner of
-Bishop Butler, to show that adherence to apostolical succession is the
+Bishop [[Butler]], to show that adherence to apostolical succession is the
 safest course; No. 13, which explains the principle on which the Sunday
 lessons in the church service are selected; No. 40, on marriage with one
 who is unbaptized; No. 89, on the mysticism attributed to the early
@@ -123,7 +123,7 @@ personal influence.
 
 In 1835 Keble's father died at the age of ninety, and soon after this
 his son married Miss Clarke, left Fairford, and settled at Hursley
-vicarage in Hampshire, a living to which he had been presented by his
+vicarage in [[Hampshire]], a living to which he had been presented by his
 friend and attached pupil, Sir William Heathcote, and which continued to
 be Keble's home and cure for the remainder of his life.
 
@@ -149,27 +149,27 @@ followed 1845, Keble took a part, not loud or obtrusive, but firm and
 resolute, in maintaining those High Anglican principles with which his
 life had been identified. These absorbing duties, added to his parochial
 work, left little time for literature. But in 1846 he published the
-_Lyra Innocentium_; and in 1863 he completed a life of Bishop Wilson.
+_[[Lyra]] Innocentium_; and in 1863 he completed a life of Bishop Wilson.
 
 In the late autumn of the latter year, Keble left Hursley for the sake
-of his wife's health, and sought the milder climate of Bournemouth.
+of his wife's health, and sought the milder climate of [[Bournemouth]].
 There he had an attack of paralysis, from which he died on the 29th of
 March 1866. He was buried in his own churchyard at Hursley; and in
 little more than a month his wife was laid by her husband's side.
 
   Keble also published _A Metrical Version of the Psalter_ (1839), _Lyra
   Innocentium_ (1846), and a volume of poems was published posthumously.
-  But it is by the _Christian Year_ that he won the ear of the religious
+  But it is by the _Christian Year_ that he won the [[Ear|ear]] of the religious
   world. It was a happy thought that dictated the plan of the book, to
   furnish a meditative religious lyric for each Sunday of the year, and
   for each saint's day and festival of the English Church. The subject
   of each poem is generally suggested by some part of the lessons or the
-  gospel or the epistle for the day. One thing which gives these poems
+  [[Gospel|gospel]] or the [[Epistle|epistle]] for the day. One thing which gives these poems
   their strangely unique power is the sentiment to which they appeal,
   and the saintly character of the poet who makes the appeal, illumining
   more or less every poem.
 
-  The intimacy with the Bible which is manifest in the pages of the
+  The intimacy with the Bible which is [[Manifest|manifest]] in the pages of the
   _Christian Year_; and the unobtrusive felicity with which Biblical
   sentiments and language are introduced have done much to endear these
   poems to all Bible readers. "The exactness of the descriptions of
@@ -180,11 +180,11 @@ little more than a month his wife was laid by her husband's side.
   treated graphically as real scenery, and the Biblical history and
   poetry as real history and poetry."
 
-  As to its style, the _Christian Year_ is calm and grave in tone, and
+  As to its style, the _Christian Year_ is [[Calm|calm]] and grave in tone, and
   subdued in colour, as beseems its subjects and sentiments. The
   contemporary poets whom Keble most admired were Scott, Wordsworth and
   Southey; and of their influence traces are visible in his diction. Yet
-  he has a style of language and a cadence of his own, which steal into
+  he has a style of language and a [[Cadence|cadence]] of his own, which steal into
   the heart with strangely soothing power. Some of the poems are
   faultless, after their kind, flowing from the first stage to the last,
   lucid in thought, vivid in diction, harmonious in their pensive

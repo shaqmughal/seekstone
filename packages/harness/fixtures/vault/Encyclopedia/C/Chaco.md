@@ -1,13 +1,13 @@
 # Chaco
 
-CHACO, a territory of northern Argentina, part of a large district known
-as the Gran Chaco, bounded N. by the territory of Formosa, E. by
+CHACO, a territory of northern [[Argentina]], part of a large district known
+as the [[Gran Chaco]], bounded N. by the territory of Formosa, E. by
 Paraguay and Corrientes, S. by Santa Fe, and W. by Santiago del Estero
 and Salta. The Bermejo river forms its northern boundary, and the
 Paraguay and Parana rivers its eastern; these rivers are its only means
 of communication. Pop. (1895) 10,422; (1904, est.) 13,937; area, 52,741
 sq. m. The northern part consists of a vast plain filled with numberless
-lagoons; the southern part is slightly higher and is covered with dense
+[[Lagoon|lagoons]]; the southern part is slightly higher and is covered with dense
 forests, occasionally broken by open grassy spaces. Its forests contain
 many species of trees of great economic value; among them is the
 _quebracho_, which is exported for the tannin which it contains. The

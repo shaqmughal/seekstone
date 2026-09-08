@@ -8,10 +8,10 @@ type: reference
 # Kuriles
 
 KURILES (Jap. _Chishima_, "thousand islands"), a chain of small islands
-belonging to Japan, stretching in a north-easterly direction from Nemuro
+belonging to [[Japan]], stretching in a north-easterly direction from Nemuro
 Bay, on the extreme east of the island of Yezo, to Chishima-kaikyo
 (Kuriles Strait), which separates them from the southernmost point of
-Kamchatka. They extend from 44° 45´ to 50° 56´ N. and from 145° 25´ to
+[[Kamchatka]]. They extend from 44° 45´ to 50° 56´ N. and from 145° 25´ to
 156° 32´ E. Their coasts measure 1496 m.; their area is 6159 sq. m.;
 their total number is 32, and the names of the eight principal islands,
 counting from the south, are Kunashiri, Shikotan, Etorofu (generally
@@ -22,13 +22,13 @@ Nemuro province, to Tomari, the most westerly point in Kunashiri, the
 distance is 7(1/3) m., and the Kuriles Strait separating Shumshiri from
 Kamchatka is about the same width. The name "Kurile" is derived from the
 Russian _kurit_ (to smoke), in allusion to the active volcanic character
-of the group. The dense fogs that envelop these islands, and the
+of the group. The dense [[Fog|fogs]] that envelop these islands, and the
 violence of the currents in their vicinity, have greatly hindered
 exploration, so that little is known of their physiography. They lie
 entangled in a vast net of sea-weed; are the resort of innumerable
 birds, and used to be largely frequented by seals and sea-otters, which,
 however, have been almost completely driven away by unregulated
-hunting. Near the south-eastern coast of Kunashiri stands a mountain
+[[Hunting|hunting]]. Near the south-eastern coast of Kunashiri stands a mountain
 called Rausunobori (3005 ft. high), round whose base sulphur bubbles up
 in large quantities, and hot springs as well as a hot stream are found.
 On the west coast of the same island is a boiling lake, called Ponto,
@@ -36,7 +36,7 @@ which deposits on its bed and round its shores black sand, consisting
 almost entirely of pure sulphur. This island has several lofty peaks;
 Ponnobori-yama near the east coast, and Chachanobori and Rurindake in
 the north. Chachanobori (about 7382 ft.) is described by Messrs
-Chamberlain and Mason as "a cone within a cone, the inner and higher of
+[[Chamberlain]] and Mason as "a cone within a cone, the inner and higher of
 the two being--so the natives say--surrounded by a lake." The island has
 extensive forests of conifers with an undergrowth of ferns and flowering
 plants, and bears are numerous. The chief port of Kunashiri is Tomari,
@@ -67,7 +67,7 @@ thither from Japan proper, the number of settlers being less than 100
 annually.
 
 _History._--The Kurile Islands were discovered in 1634 by the Dutch
-navigator Martin de Vries. The three southern islands, Kunashiri,
+navigator [[Martin]] de Vries. The three southern islands, Kunashiri,
 Etorofu, and Shikotan, are believed to have belonged to Japan from a
 remote date, but at the beginning of the 18th century the Russians,
 having conquered Kamchatka, found their way to the northern part of the
@@ -84,7 +84,7 @@ forty comrades in 1892, his intention being to form a settlement on
 Shumshiri, the most northerly of the Kurile Islands. They embarked in
 open boats, and for that reason, as well as because they were going to
 constitute themselves their country's extreme outpost, the enterprise
-attracted public enthusiasm. After a long struggle the immigrants became
+attracted public [[Enthusiasm|enthusiasm]]. After a long struggle the immigrants became
 fairly prosperous.
 
   See Capt. H. J. Snow, _Notes on the Kurile Islands_ (London, 1896).

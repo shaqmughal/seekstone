@@ -11,12 +11,12 @@ CHRISTIANIA (officially KRISTIANIA), the capital of Norway, forming a
 separate county (_amt_), and the seat of a bishopric (_stift_). Pop.
 (1901) 229,101. It lies on the south-eastern coast, at the head of
 Christiania Fjord, about 80 m. from the open waters of the Skagerrack,
-is 59° 54' N. (about the latitude of the southern extremity of the
+is 59° 54' N. (about the [[Latitude|latitude]] of the southern extremity of the
 Shetland Islands) and 10° 45' E., mainly on the west bank of the small
 Aker river. The situation is very beautiful, pine-wooded hills rising
 sharply behind the city, while several islands stud the fjord. The town
 is mainly modern, having increased rapidly in and since the second half
-of the 19th century, when brick and stone largely superseded wood as the
+of the 19th century, when [[Brick|brick]] and stone largely superseded wood as the
 building material. It is the seat of government, of the supreme courts,
 of the parliament (_Storthing_), and of a university. The harbour is of
 two parts, the Björvik, where the larger steamers lie, and the Pipervik,
@@ -26,7 +26,7 @@ and having a pleasant promenade upon its ramparts. Until 1719 it was a
 royal palace. At the head of the Björvik the principal railway station
 (_Hovedbanegaard_) stands in the Jernbanetorv (railway square), and
 north-west from this runs the principal street, Karl-Johans-gade. In
-this street, passing the Vor Frelsers Kirke (Church of our Saviour), the
+this street, passing the Vor Frelsers [[Kirke]] (Church of our Saviour), the
 Storthings-Bygning (parliament-house, 1866) is seen, facing a handsome
 square planted with trees. Beyond this is the National theatre (1899),
 with colossal statues of the dramatists Ibsen and Björnsen. It faces the
@@ -47,10 +47,10 @@ excavated, in 1867 and 1880 respectively, from the burial-places of the
 viking chiefs who owned and, according to custom, were buried in them.
 Another noteworthy collection is that of industrial art. The Bank of
 Norway, the exchange, and the courts of law lie between the harbours.
-Other institutions are the Freemasons' Lodge, housed in one of the
+Other institutions are the Freemasons' [[Lodge]], housed in one of the
 handsomest buildings in the city (1844), a conservatory of music, naval,
-military and art schools, Athenaeum, and the great Dampkjökken or
-kitchen (1858), where dinners are provided for the poor.
+military and art schools, [[Athenaeum]], and the great Dampkjökken or
+kitchen (1858), where [[Dinner|dinners]] are provided for the poor.
 
 The suburbs of Christiania are attractive and rapidly growing. On the
 east side of the river Aker is that of Oslo, with the existing episcopal
@@ -63,7 +63,7 @@ domestic exhibits from the various provinces. Close at hand is an
 interesting collection of old Norwegian buildings, brought here from all
 parts, and re-erected, including an example of the timber church of the
 12th century (_Stavekirke_). A collection of ancient agricultural
-implements is also shown. On Hovedö (Head Island) in the fjord,
+[[Implement|implements]] is also shown. On Hovedö (Head Island) in the fjord,
 immediately opposite to the Akershus, are the ruins of a Cistercian
 monastery, founded in 1147 by monks from Kirkstead in Lincolnshire,
 England, and burnt down in 1532. There are sanatoria and inns among the
@@ -75,7 +75,7 @@ neighbouring islands and fjord-side towns and villages.
 
 Christiania has two railway stations, the Hovedbanegaard by the Björvik,
 and the Vestbanegaard by the Pipervik. From the first trains run south
-to Fredrikshald and Gothenburg, east to Charlottenberg and Stockholm,
+to Fredrikshald and [[Gothenburg]], east to Charlottenberg and Stockholm,
 north to Hamar and Trondhjem, and Otta in Gudbrandsdal, and to Gjövik
 and the Valdres district. From the west station start the lines to
 Drammen, Laurvik, Skien and Kongsberg (for the Telemark district). The
@@ -86,14 +86,14 @@ Christiania is at once the principal emporium of southern Norway, and a
 favourite centre of the extensive tourist traffic. Regular passenger
 steamers serve the port from Hull, Newcastle, Grangemouth and London,
 from Trondhjem, Bergen and the Norwegian coast towns, from Hamburg,
-Amsterdam, Antwerp, &c. Except for two large shipbuilding yards, one
-with a floating dock, the other with a dry dock, most of the
+Amsterdam, [[Antwerp]], &c. Except for two large shipbuilding yards, one
+with a floating [[Dock|dock]], the other with a dry dock, most of the
 manufactories are concentrated in the suburb of Sagene, on the north
 side of the city, deriving their motive power from the numerous falls of
 the river Aker. They embrace factories for cotton and woollen spinning
 and weaving, paper, flour, soap and oil, bricks and tiles, matches,
 nails (especially horse-shoe nails), margarine, foundries and
-engineering shops, wood-pulp, tobacco, matches, linen, glass,
+[[Engineering|engineering]] shops, wood-pulp, tobacco, matches, linen, glass,
 sail-cloth, hardware, gunpowder, chemicals, with sawmills, breweries and
 distilleries. There is also a busy trade in the preparation of granite
 paving-stones, and in the storing and packing of ice. Imports greatly
@@ -101,14 +101,14 @@ exceed exports, the annual values being about 7½ and 1½ millions
 sterling respectively. The former consist principally of grain and
 flour, cottons and woollens, coffee, iron (raw and manufactured), coal,
 bacon and salt meat, oils, sugar, machinery, flax, jute and hemp,
-paper-hangings, paints, colours, &c., wines and spirits, raw tobacco,
+paper-hangings, paints, [[Colours|colours]], &c., wines and spirits, raw tobacco,
 copper, zinc, lead and tin, silk, molasses and other commodities. The
-principal exports are wood-pulp, timber, nails, paper, butter and
+principal exports are wood-pulp, timber, nails, paper, [[Butter|butter]] and
 margarine, matches, condensed milk, fish, leather and hides, ice,
 sealskins, &c. Of the imports, Great Britain supplies the greater part
 of the cotton and woollen yarn, the machinery (including ships), and the
 raw metals; the United States about one-half of the oils and fats, and a
-large proportion of the food-stuffs, and skins, feathers, &c. Of the
+large proportion of the food-stuffs, and skins, [[Feather|feathers]], &c. Of the
 exports, almost the whole of the timber goes to Great Britain, together
 with the larger portion of the paper and food-stuffs (butter, &c.). The
 harbour is ice-bound for three or four months in the winter, when ships

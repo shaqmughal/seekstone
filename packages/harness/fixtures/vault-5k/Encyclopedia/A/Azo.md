@@ -13,7 +13,7 @@ of the 12th century, and was a pupil of Joannes Bassianus, and afterwards
 became professor of civil law in the university of his native town. He also
 took an active part in municipal life, Bologna, with the other Lombard
 republics, having gained its municipal independence. Azo occupied a very
-important position amongst the glossators, and his _Readings on the Code_,
+important position amongst the glossators, and his _Readings on the [[Code]]_,
 which were collected by his pupil, Alessandro de Santo Aegidio, and
 completed by the additions of Hugolinus and Odofredus, form a methodical
 exposition of Roman law, and were of such weight before the tribunals that

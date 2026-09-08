@@ -37,12 +37,12 @@ country of pleasant copses, glades, brooks and hills amid which his
 personages love to wander or recline with lute and pipe. How early in
 boyhood he went to Venice we do not know, but internal evidence supports
 the statement of Ridolfi that he served his apprenticeship there under
-Giovanni Bellini; and there he made his fame and had his home. That his
+Giovanni [[Bellini]]; and there he made his fame and had his home. That his
 gifts were early recognized we know from the facts, recorded in
 contemporary documents, that in 1500, when he was only twenty-three
 (that is if Vasari gives rightly the age at which he died), he was
 chosen to paint portraits of the Doge Agostino Barberigo and the
-condottiere Consalvo Ferrante; that in 1504 he was commissioned to paint
+[[Condottiere|condottiere]] Consalvo Ferrante; that in 1504 he was commissioned to paint
 an altarpiece in memory of Matteo Costanzo in the cathedral of his
 native town, Castelfranco; that in 1507 he received at the order of the
 Council of Ten part payment for a picture (subject not mentioned) on
@@ -61,7 +61,7 @@ Mantua and trying in vain to secure for her collection a night-piece by
 his hand of which the fame had reached her.
 
 All accounts agree in representing Giorgione as a personage of
-distinguished and romantic charm, a great lover, a great musician, made
+distinguished and romantic [[Charm|charm]], a great lover, a great musician, made
 to enjoy in life and to express in art to the uttermost the delight, the
 splendour, the sensuous and imaginative grace and fulness, not untinged
 with poetic melancholy, of the Venetian existence of his time. They
@@ -105,7 +105,7 @@ the beautiful one of a young man at Berlin. His earliest devotional
 picture would seem to be the highly finished "Christ bearing his Cross"
 (the head and shoulders only, with a peculiarly serene and high-bred
 cast of features) formerly at Vicenza and now in the collection of Mrs
-Gardner at Boston. Other versions of this picture exist, and it has been
+[[Gardner]] at [[Boston]]. Other versions of this picture exist, and it has been
 claimed that one in private possession at Vienna is the true original:
 erroneously in the judgment of the present writer. Another "Christ
 bearing the Cross," with a Jew dragging at the rope round his neck, in
@@ -142,11 +142,11 @@ enigmatical picture formerly in the house of Taddeo Contarini at Venice,
 described by contemporary witnesses as the "Three Philosophers," and
 now, on slender enough grounds, supposed to represent Evander showing
 Aeneas the site of Troy as narrated in the eighth Aeneid. The portrait
-of a knight of Malta in the Uffizi at Florence has more power and
+of a [[Knight|knight]] of Malta in the Uffizi at Florence has more power and
 authority, if less sentiment, than the earlier example at Berlin, and
 may be taken to be of the master's middle time. Most entirely central
 and typical of all Giorgione's extant works is the Sleeping Venus at
-Dresden, first recognized by Morelli, and now universally accepted, as
+[[Dresden]], first recognized by Morelli, and now universally accepted, as
 being the same as the picture seen by the Anonimo and later by Ridolfi
 in the Casa Marcello at Venice. An exquisitely pure and severe rhythm of
 line and contour chastens the sensuous richness of the presentment: the
@@ -161,8 +161,8 @@ first exemplar. Of such small scenes of mixed classical mythology and
 landscape as early writers attribute in considerable number to
 Giorgione, there have survived at least two which bear strong evidences
 of his handiwork, though the action is in both of unwonted liveliness,
-namely the Apollo and Daphne of the Seminario at Venice and the Orpheus
-and Eurydice of Bergamo. The portrait of Antonio Grocardo at Budapest
+namely the Apollo and [[Daphne]] of the Seminario at Venice and the Orpheus
+and [[Eurydice]] of [[Bergamo]]. The portrait of [[Antonio]] Grocardo at Budapest
 represents his fullest and most penetrating power in that branch of art.
 In his last years the purity and relative slenderness of form which mark
 his earlier female nudes, including the Dresden Venus, gave way to
@@ -188,7 +188,7 @@ that a hand very closely related to Giorgione if not actually his own,
 namely the small oblong "Adoration of the Magi" in the National Gallery
 (No. 1160), the "Adoration of the Shepherds" belonging to Lord Allendale
 (with its somewhat inferior but still attractive replica at Vienna), and
-the small "Holy Family" in the collection of Mr R. H. Benson. The type
+the small "Holy Family" in the collection of Mr R. H. [[Benson]]. The type
 of the Madonna in all these three pieces is different from that
 customary with the master, but there seems no reason why he should not
 at some particular moment have changed his model. The sentiment and
@@ -214,13 +214,13 @@ probably never agree whether they are among the later works of Giorgione
 or among the earliest of Titian under his influence: these are the
 jovial and splendid half-length of Catherine Cornaro (or a stout lady
 much resembling her) with a bas-relief, in the collection of Signor
-Crespi at Milan, and the so-called "Ariosto" from Lord Darnley's
+[[Crespi]] at Milan, and the so-called "Ariosto" from Lord Darnley's
 collection acquired for the National Gallery in 1904. Ancient and
 half-effaced inscriptions, of which there is no cause to doubt the
 genuineness, ascribe them both to Titian; both, to the mind of the
 present writer at least, are more nearly akin to such undoubted early
 Titians as the "Man with the Book" at Hampton Court and the "Man with
-the Glove" at the Louvre than to any authenticated work of Giorgione. At
+the [[Glove]]" at the Louvre than to any authenticated work of Giorgione. At
 the same time it should be remembered that Giorgione is known to have
 actually enjoyed the patronage of Catherine Cornaro and to have painted
 her portrait. The Giorgionesque influence and feeling, to a degree
@@ -249,11 +249,11 @@ near a classic ruin with a young child at her feet, an armed youth
 standing looking down at them, and a turbaned sage seated near with
 compasses, disk and book. Of important subject pictures belonging to the
 debatable borderland between Giorgione and his imitators are the large
-and interesting unfinished "Judgment of Solomon" at Kingston Lacy, which
+and interesting unfinished "Judgment of Solomon" at [[Kingston]] Lacy, which
 must certainly be the same that Ridolfi saw and attributed to him in the
 Casa Grimani at Venice, but has weaknesses of design and drawing
 sufficiently baffling to criticism; and the "Woman taken in Adultery" in
-the public gallery at Glasgow, a picture truly Giorgionesque in richness
+the public gallery at [[Glasgow]], a picture truly Giorgionesque in richness
 of colour, but betraying in its awkward composition, the relative
 coarseness of its types and the insincere, mechanical animation of its
 movements, the hand of some lesser master of the school, almost
@@ -267,7 +267,7 @@ living voice and its echoes.
   (ed. Milanesi), vol. iv.; Ridolfi, _Le Maraviglie dell' arte_, vol.
   i.; Zanetti, _Varie Pitture_ (1760); Crowe-Cavalcaselle, _History of
   Painting in North Italy_; Morelli, _Kunstkritische Studien_; Gronau,
-  _Zorzon da Castelfranco, la sua origine_, &c. (1894); Herbert Cook,
+  _Zorzon da Castelfranco, la sua origine_, &c. (1894); Herbert [[Cook]],
   _Giorgione_ (in "Great Masters" series, 1900); Ugo Monneret de
   Villard, _Giorgione da Castelfranco_ (1905). The two last-named works
   are critically far too inclusive, but useful as going over the whole

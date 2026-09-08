@@ -2,13 +2,13 @@
 
 ANTINOMY (Gr. [Greek: anti], against, [Greek: nomos], law), literally,
 the mutual incompatibility, real or apparent, of two laws. The term
-acquired a special significance in the philosophy of Kant, who used it
+acquired a special significance in the philosophy of [[Kant]], who used it
 to describe the contradictory results of applying to the universe of
 pure thought the categories or criteria proper to the universe of
 sensible perception (phenomena). These antinomies are four--two
 mathematical, two dynamical--connected with (1) the limitation of the
 universe in respect of space and time, (2) the theory that the whole
-consists of indivisible atoms (whereas, in fact, none such exist), (3)
+consists of indivisible [[Atom|atoms]] (whereas, in fact, none such exist), (3)
 the problem of freedom in relation to universal causality, (4) the
 existence of a universal being--about each of which pure reason
 contradicts the empirical, as thesis and antithesis. Kant claimed to
@@ -22,7 +22,7 @@ contradictory of each other. The difficulty arises from a confusion
 between the spheres of phenomena and noumena. In fact no rational
 cosmology is possible.
 
-  See John Watson, _Selections from Kant_ (trans. Glasgow, 1897), pp.
+  See John Watson, _Selections from Kant_ (trans. [[Glasgow]], 1897), pp.
   155 foll.; W. Windelband, _History of Philosophy_ (Eng. trans. 1893);
   H. Sidgwick, _Philos. of Kant_, lectures x. and xi. (Lond., 1905); F.
   Paulsen, _I. Kant_ (Eng. trans. 1902), pp. 216 foll.

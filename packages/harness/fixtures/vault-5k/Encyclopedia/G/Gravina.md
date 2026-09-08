@@ -8,7 +8,7 @@ topic: politics
 
 GRAVINA, GIOVANNI VINCENZO (1664-1718), Italian litterateur and
 jurisconsult, was born at Roggiano, a small town near Cosenza, in
-Calabria, on the 20th of January 1664. He was descended from a
+[[Calabria]], on the 20th of January 1664. He was descended from a
 distinguished family, and under the direction of his maternal uncle,
 Gregorio Caloprese, who possessed some reputation as a poet and
 philosopher, received a learned education, after which he studied at

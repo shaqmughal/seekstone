@@ -20,18 +20,18 @@ inhabitants. This usage is characteristic of the writer called the
 Yahwist (J); see _e.g. _Gen. xii. 5, xxxiii. 18; Ex. xv. 15; Num.
 xxxiii. 51; Josh. xxii. 9; Judg. in. i; Ps. cvi. 38, and elsewhere. It
 was also, as Augustine tells us,[1] a usage of the Phoenicians to call
-their land "Canaan." This is confirmed by coins of the city of Laodicea
-by the Lebanon, which bear the legend, "Of Laodicea, a metropolis in
-Canaan"; these coins are dated under Antiochus IV. (17 5-1648.0.), and
+their land "Canaan." This is confirmed by [[Coin|coins]] of the city of [[Laodicea]]
+by the [[Lebanon]], which bear the legend, "Of Laodicea, a metropolis in
+Canaan"; these coins are dated under [[Antiochus]] IV. (17 5-1648.0.), and
 his successors, Greek writers, too, tell us a fact of much interest,
 viz. that the original name of Phoenicia was [Greek: Chna], i.e. Kena, a
-short, collateral form of Kena'an or Kan'an The form Kan'an is favoured
+short, [[Collateral|collateral]] form of Kena'an or Kan'an The form Kan'an is favoured
 by the Egyptian usage. Seti I. is said to have conquered the Shasu, or
 Arabian nomads, from the fortress of Taru (Shur?) to "the Ka-n-'-na,"
 and Rameses III. to have built a temple to the god Amen in "the
 Ka-n-'-na." By this geographical name is probably meant all western
 Syria and Palestine with Raphia--"the (first) city of the
-Ka-n-'-na"--for the south-west boundary towards the desert.[2] In the
+Ka-n-'-na"--for the south-west boundary towards the [[Desert|desert]].[2] In the
 letters sent by governors and princes of Palestine to their Egyptian
 overlord[3]--commonly known as the Tel-el-Amarna tablets--we find the
 two forms Kinahhi and Kinahna, corresponding to Kena' and Kena'an
@@ -45,23 +45,23 @@ suppose that it originally meant "the country of the Canaanites," just
 as the Hebrew phrase "the Lebanon" may originally have meant "the
 highlands of the Libnites"; and we are thus permitted to group the term
 "Canaan" with clan-names such as Achan, Akan, Jaakan, Anak (generally
-with the article prefixed), Kain, Kenan. Nor are scholars more unanimous
+with the article prefixed), [[Kain]], Kenan. Nor are scholars more unanimous
 with regard to the region where the terms "Canaanite" and "Canaan"
 arose. It may be true that the term Kinahhi in the Amarna letters
 corresponds to Syria and Palestine in their entirety. But this does not
 prove that the terms "Canaanite" and "Canaan" arose in that region, for
 they are presumably much older than the Amarna tablets. Let us refer at
-this point to a document in Genesis which is perhaps hardly estimated at
+this point to a document in [[Genesis]] which is perhaps hardly estimated at
 its true value, the so-called Table of Peoples in Gen. x. Here we find
-"Canaan" included among the four sons of Ham. If Cush in v. 6 really
-means Ethiopia, and M-s-r-i-m Egypt, and Put the Libyans, and if Ham is
+"Canaan" included among the four sons of Ham. If [[Cush]] in v. 6 really
+means [[Ethiopia]], and M-s-r-i-m Egypt, and Put the Libyans, and if Ham is
 really a Hebraized form of the old Egyptian name for Egypt, Kam-t
 (black),[5] the passage is puzzling in the extreme. But if, as has
 recently been suggested,[6] Cush, M-s-r-i-m, and Put are in north
 Arabia, and Ham is the short for Yarham or Yerahme'el (see i Chr. ii.
 25-27, 42), a north Arabian name intimately associated with Caleb, all
 becomes clear, and Canaan in particular is shown to be an Arabian name.
-Now it is no mere hypothesis that beginning from about 4000 B.C.[7] a
+Now it is no mere [[Hypothesis|hypothesis]] that beginning from about 4000 B.C.[7] a
 wave of Semitic migration poured out of Arabia, and flooded Babylonia
 certainly, and possibly, more or less, Syria and Palestine also. Also
 that between 2800 and 2600 B.C. a second wave from Arabia took the same
@@ -123,9 +123,9 @@ opportunities, though as a rule they did not find them because they
 could not obtain the help of a neighbouring king.[10] The boldest of the
 disaffected was Aziru, son of Abdashirta, a prince of Amurru, who even
 before the death, of Amen-hotep III. endeavoured to extend his power
-into the plain of Damascus. Akizzi, governor of Katna (near Horns or
+into the plain of [[Damascus]]. Akizzi, governor of Katna (near [[Horn|Horns]] or
 Hamath), reported this to the Pharaoh who seems to have frustrated the
-attempt. In the next reign, however, both father and son caused infinite
+attempt. In the next reign, however, both father and son caused [[Infinite|infinite]]
 trouble to loyal servants of Egypt like Rib-Addi, governor of Gubla
 (Gebal).
 
@@ -135,7 +135,7 @@ that of his successor, and next, the resumption of the second Arabian
 migration, which most seriously undermined the Egyptian power in Asia.
 Of the former we cannot speak here (see HITTITES), except so far as to
 remark the Abd-Ashirta and his son Aziru, though at first afraid of the
-Hatti, was afterwards clever enough to make a treaty with their king,
+Hatti, was afterwards [[Clever|clever]] enough to make a treaty with their king,
 and, with other external powers, to attack the districts which remained
 loyal to Egypt. In vain did Rib-Addi send touching appeals for aid to
 the distant Pharaoh, who was far too much engaged in his religious
@@ -170,8 +170,8 @@ above) accuses of disloyalty, writes thus to the Pharaoh, "Behold, I and
 my warriors and my chariots, together with my brethren and my SA-GAS,
 and my Suti[16] are at the disposal of the (royal) troops, to go
 whithersoever the king, my lord, commands."[17] This petty prince,
-therefore, sees no harm in having a band of Arabians for his garrison,
-as indeed Hezekiah long afterwards had his Urbi to help him against
+therefore, sees no harm in having a band of Arabians for his [[Garrison|garrison]],
+as indeed [[Hezekiah]] long afterwards had his Urbi to help him against
 Sennacherib.
 
 From the same period we have recently derived fresh and important
@@ -179,40 +179,40 @@ evidence as to pre-Israelitish Palestine. As soon as the material
 gathered is large enough to be thoroughly classified and critically
 examined, a true history of early Palestine will be within measurable
 distance. At present, there are five places whence the new evidence has
-been obtained: 1. Tell-el-Hasy, generally identified with the Lachish of
-the Old Testament. Excavations were made here in 1890-1892 by Flinders
-Petrie and Bliss. 2. Gezer, plausibly identified with the Gezer of I
+been obtained: 1. Tell-el-Hasy, generally identified with the [[Lachish]] of
+the Old Testament. Excavations were made here in 1890-1892 by [[Flinders]]
+Petrie and Bliss. 2. [[Gezer]], plausibly identified with the Gezer of I
 Kings ix. 16. Here R.A.S. Macalister began excavating in 1902. 3.
-Tell-es-Safy, possibly the Gath of the Old Testament, 6 m. from
-Eleutheropolis. Here F.J. Bliss and R.A.S. Macalister made some
+Tell-es-Safy, possibly the [[Gath]] of the Old Testament, 6 m. from
+[[Eleutheropolis]]. Here F.J. Bliss and R.A.S. Macalister made some
 discoveries in 1899-1900. A complete examination of the site, however,
 was impossible. 4. Tell-el-Mutasellim, near Lejjun (Megiddo-Legio).
 Schumacher began working here in 1903 for the German Palestine Society.
 5. Taannek, on the south of the plain of Esdraelon. Here Prof. Ernst
 Sellin of Vienna was able to do much in a short time (1902-1904). It may
-be mentioned here that on the first of these sites a cuneiform tablet
+be mentioned here that on the first of these sites a [[Cuneiform|cuneiform]] tablet
 belonging to the Amarna series was discovered; at Gezer, a deed of sale;
 at Tell-el-Hasy the remains of a Babylonian stele, three seals, and
 three cylinders with Babylonian mythological representations; at
 Tell-el-Mutasellim, a seal bearing a Babylonian legend, and at Taannek,
 twelve tablets and fragments of tablets were found near the fragments of
-the terracotta box in which they were stored. It is a remarkable fact
+the terracotta [[Box|box]] in which they were stored. It is a remarkable fact
 that the kings or chiefs of the neighbourhood should have used
 Babylonian cuneiform in their own official correspondence. But much
 beside tablets has been found on these sites; primitive sanctuaries, for
 instance. The splendid alignment of monoliths at Gezer is described in
 detail in _P.E.F. Quart. Statement_, January 1903, p. 23, and July 1903,
 p. 219. There is reason, as Macalister thinks, to believe that it is the
-result of a gradual development, beginning with two small pillars, and
+result of a [[Gradual|gradual]] development, beginning with two small pillars, and
 gradually enlarging by later additions. There is a smaller one at
 Tell-es-Safy. The Semitic cult of sacred standing stones is thus proved
 to be of great antiquity; Sellin's discoveries at Taannek and those of
 Bliss at Tell-es-Safy fully confirm this. Rock-hewn altars have also
 been found, illustrating the prohibition in Ex. xx. 25, 26, and numerous
-jars with the skeletons of infants. We cannot doubt that the sacrificing
+jars with the skeletons of [[Infant|infants]]. We cannot doubt that the sacrificing
 of children was practised on a large scale among the Canaanites. Their
 chief deity was Ashtart (Astarte), the goddess of fertility. Numerous
-images of her have been found, but none of the god Baal. The types of
+[[Image|images]] of her have been found, but none of the god Baal. The types of
 the divine form vary in the different places. The other images which
 have been found represent Egyptian deities. We must not, however, infer
 that there was a large Egyptian element in the Canaanitish Pantheon.
@@ -232,10 +232,10 @@ FOOTNOTES:
 
   [1] _Enarralio in Psalm civ._
 
-  [2] W.M. Muller, _Asien und Europa, _p. 205.
+  [2] W.M. Muller, _Asien und [[Europa]], _p. 205.
 
   [3] The letters are written in the official and diplomatic
-    language--Babylonian, though "Canaanitish" words and idioms are not
+    language--Babylonian, though "Canaanitish" words and [[Idiom|idioms]] are not
     wanting.
 
   [4] _Die Keilinschriften und das Alte Testament, _p. 181.
@@ -243,7 +243,7 @@ FOOTNOTES:
   [5] These explanations are endorsed by Driver _ (Genesis, on _Gen. x.).
 
   [6] See the relevant articles in _Ency. Bib. _and Cheyne's _Genesis
-    and Exodus._
+    and [[Exodus]]._
 
   [7] For the grounds of these dates see Winckler, _Gesch. Isr._ i. 127
     f.; Paton, _Early Hist. of Syria and Palestine_ (1902), pp. 6-8,
@@ -254,8 +254,8 @@ FOOTNOTES:
     however, is only a natural protest against what we may call Canaanism
     or Arabism.
 
-  [9] See Cheyne, _Genesis and Exodus_ (on Gen. i. 26), and cf. G.A.
-    Cooke, _N. Sem. Inscriptions_ (e.g. pp. 30-40, on Eshmunazar's
+  [9] See [[Cheyne]], _Genesis and Exodus_ (on Gen. i. 26), and cf. G.A.
+    [[Cooke]], _N. Sem. Inscriptions_ (e.g. pp. 30-40, on Eshmunazar's
     inscription).
 
   [10] See _Amarna Letters_, Winckler's edition, No. 7.

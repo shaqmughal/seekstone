@@ -1,6 +1,6 @@
 # Lydus
 
-LYDUS ("THE LYDIAN"), JOANNES LAURENTIUS, Byzantine writer on
+LYDUS ("THE LYDIAN"), JOANNES [[Laurentius|LAURENTIUS]], Byzantine writer on
 antiquarian subjects, was born at Philadelphia in Lydia about A.D. 490.
 At an early age he set out to seek his fortune in Constantinople, and
 held high court and state offices under Anastasius and Justinian. In 552
@@ -9,7 +9,7 @@ but he was probably alive during the early years of Justin II. (reigned
 565-578). During his retirement he occupied himself in the compilation
 of works on the antiquities of Rome, three of which have been preserved:
 (1) _De Ostentis_ ([Greek: Peri diosemeion]), on the origin and progress
-of the art of divination; (2) _De Magistratibus reipublicae Romanae_
+of the art of [[Divination|divination]]; (2) _De Magistratibus reipublicae Romanae_
 ([Greek: Peri archon tes Rhomaion politeias]), especially valuable for
 the administrative details of the time of Justinian; (3) _De Mensibus_
 ([Greek: Peri menon]), a history of the different festivals of the year.
@@ -21,9 +21,9 @@ these, as well as some poetical compositions, are lost.
 
   Editions of (1) by C. Wachsmuth (1897), with full account of the
   authorities in the prolegomena; of (2) and (3) by R. Wünsch
-  (1898-1903); see also the essay by C. B. Hase (the first editor of the
+  (1898-1903); see also the essay by C. B. [[Hase]] (the first editor of the
   _De Ostentis_) prefixed to I. Bekker's edition of Lydus (1837) in the
-  Bonn _Corpus scriptorum hist. Byzantinae_.
+  [[Bonn]] _Corpus scriptorum hist. Byzantinae_.
 
 ## See also
 

@@ -13,7 +13,7 @@ For some months he lay concealed at Sainte-Radegonde, in the forest of
 Montmorency, barely subsisting on roots and vegetables. He was enabled
 to return to Paris on the fall of Robespierre, and under the title
 _Appel a l'impartiale posterite par la citoyenne Roland_ published a
-manuscript Mme Roland had entrusted to him before her execution. Soon
+[[Manuscript|manuscript]] Mme Roland had entrusted to him before her execution. Soon
 afterwards he set out for America, resolving to explore the natural
 riches of that country. The immense materials he gathered were never
 published in a complete form, but much went to enrich the works of

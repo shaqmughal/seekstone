@@ -11,7 +11,7 @@ born in Madrid on the 7th of August 1533. In 1548 he was appointed page
 to the heir-apparent, afterwards Philip II. In this capacity Ercilla
 visited Italy, Germany and the Netherlands, and was present in 1554 at
 the marriage of his master to Mary of England. Hearing that an
-expedition was preparing to subdue the Araucanians of Chile, he joined
+expedition was preparing to subdue the Araucanians of [[Chile]], he joined
 the adventurers. He distinguished himself in the ensuing campaign; but,
 having quarrelled with a comrade, he was condemned to death in 1558 by
 his general, Garcia Hurtado de Mendoza. The sentence was commuted to

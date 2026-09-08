@@ -10,7 +10,7 @@ id: 42-6970
 # Gregoire
 
 GREGOIRE, HENRI (1750-1831), French revolutionist and constitutional
-bishop of Blois, was born at Veho near Luneville, on the 4th of December
+bishop of [[Blois]], was born at Veho near Luneville, on the 4th of December
 1750, the son of a peasant. Educated at the Jesuit college at Nancy, he
 became cure of Embermenil and a teacher at the Jesuit school at
 Pont-a-Mousson. In 1783 he was crowned by the academy of Nancy for his
@@ -21,7 +21,7 @@ soon became conspicuous in the group of clerical and lay deputies of
 Jansenist or Gallican sympathies who supported the Revolution. He was
 among the first of the clergy to join the third estate, and contributed
 largely to the union of the three orders; he presided at the permanent
-sitting of sixty-two hours while the Bastille was being attacked by the
+sitting of sixty-two hours while the [[Bastille]] was being attacked by the
 people, and made a vehement speech against the enemies of the nation. He
 subsequently took a leading share in the abolition of the privileges of
 the nobles and the Church. Under the new civil constitution of the
@@ -36,14 +36,14 @@ the kingship, in a speech in which occurred the memorable phrase that
 15th of November he delivered a speech in which he demanded that the
 king should be brought to trial, and immediately afterwards was elected
 president of the Convention, over which he presided in his episcopal
-dress. During the trial of Louis XVI., being absent with other three
+[[Dress|dress]]. During the trial of Louis XVI., being absent with other three
 colleagues on a mission for the union of Savoy to France, he along with
 them wrote a letter urging the condemnation of the king, but omitting
 the words _a mort_; and he endeavoured to save the life of the king by
 proposing in the Convention that the penalty of death should be
 suspended.
 
-When on the 7th of November 1793 Gobel, bishop of Paris, was intimidated
+When on the 7th of November 1793 [[Gobel]], bishop of Paris, was intimidated
 into resigning his episcopal office at the bar of the Convention,
 Gregoire, who was temporarily absent from the sitting, hearing what had
 happened, hurried to the hall, and in the face of a howling mob of
@@ -65,7 +65,7 @@ in Negro emancipation, and it was on his motion that men of colour in
 the French colonies were admitted to the same rights as whites. On the
 establishment of the new constitution, Gregoire was elected to the
 Council of 500, and after the 18th Brumaire he became a member of the
-Corps Legislatif, then of the Senate (1801). He took the lead in the
+[[Corps]] Legislatif, then of the Senate (1801). He took the lead in the
 national church councils of 1797 and 1801; but he was strenuously
 opposed to Napoleon's policy of reconciliation with the Holy See, and
 after the signature of the concordat he resigned his bishopric (October
@@ -73,12 +73,12 @@ after the signature of the concordat he resigned his bishopric (October
 against the proclamation of the empire, and he opposed the creation of
 the new nobility and the divorce of Napoleon from Josephine; but
 notwithstanding this he was subsequently created a count of the empire
-and officer of the Legion of Honour. During the later years of
+and officer of the [[Legion]] of Honour. During the later years of
 Napoleon's reign he travelled in England and Germany, but in 1814 he had
 returned to France and was one of the chief instigators of the action
 that was taken against the empire.
 
-To the clerical and ultra-royalist faction which was supreme in the
+To the clerical and ultra-royalist [[Faction|faction]] which was supreme in the
 Lower Chamber and in the circles of the court after the second
 Restoration, Gregoire, as a revolutionist and a schismatic bishop, was
 an object of double loathing. He was expelled from the Institute and
@@ -90,9 +90,9 @@ edition in 1819. In this latter year he was elected to the Lower Chamber
 by the department of Isere. By the powers of the Quadruple Alliance this
 event was regarded as of the most sinister omen, and the question was
 even raised of a fresh armed intervention in France under the terms of
-the secret treaty of Aix-la-Chapelle. To prevent such a catastrophe
+the secret treaty of Aix-la-Chapelle. To prevent such a [[Catastrophe|catastrophe]]
 Louis XVIII. decided on a modification of the franchise; the Dessolle
-ministry resigned; and the first act of Decazes, the new premier, was to
+ministry resigned; and the first act of [[Decazes]], the new premier, was to
 carry a vote in the chamber annulling the election of Gregoire. From
 this time onward the ex-bishop lived in retirement, occupying himself in
 literary pursuits and in correspondence with most of the eminent savants
@@ -102,7 +102,7 @@ the 20th of May 1831.
 
 To the last Gregoire remained a devout Catholic, exactly fulfilling all
 his obligations as a Christian and a priest; but he refused to budge an
-inch from his revolutionary principles. During his last illness he
+[[Inch|inch]] from his revolutionary principles. During his last illness he
 confessed to his parish _cure_, a priest of Jansenist sympathies, and
 expressed his desire for the last sacraments of the Church. These the
 archbishop of Paris would only concede on condition that he would
@@ -119,9 +119,9 @@ his death Gregoire's funeral was celebrated at the church of the
 Abbaye-aux-Bois; the clergy of the church had absented themselves in
 obedience to the archbishop's orders, but mass was sung by the abbe
 Grieu assisted by two clergy, the catafalque being decorated with the
-episcopal insignia. After the hearse set out from the church the horses
+episcopal insignia. After the [[Hearse|hearse]] set out from the church the horses
 were unyoked, and it was dragged by students to the cemetery of
-Montparnasse, the cortege being followed by a sympathetic crowd of some
+Montparnasse, the cortege being followed by a sympathetic [[Crowd|crowd]] of some
 20,000 people.
 
 Whatever his merits as a writer or as a philanthropist, Gregoire's name
@@ -148,7 +148,7 @@ gulf between Liberalism and Catholicism which Pius IX.'s Syllabus of
   confesseurs des empereurs, des rois, et d'autres princes_ (1824);
   _Histoire du mariage des pretres en France_ (1826). _Gregoireana, ou
   resume general de la conduite, des actions, et des ecrits de M. le
-  comte Henri Gregoire_, preceded by a biographical notice by Cousin
+  comte Henri Gregoire_, preceded by a biographical notice by [[Cousin]]
   d'Avalon, was published in 1821; and the _Memoires ... de Gregoire_,
   with a biographical notice by H. Carnot, appeared in 1837 (2 vols.).
   See also A. Debidour, _L'Abbe Gregoire_ (1881); A. Gazier, Etudes sur

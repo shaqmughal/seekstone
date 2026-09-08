@@ -13,7 +13,7 @@ and North Africa. Three are native in Britain. _G. anglica_ is the
 needle-furze or petty whin, found on heaths and moist moors, a spinous
 plant with slender spreading branches 1 to 2 ft. long, very small leaves
 and short racemes of small yellow papilionaceous flowers. The pollen is
-emitted in a shower when an insect alights on it. _G. tinctoria_, dyer's
+emitted in a shower when an [[Insect|insect]] alights on it. _G. tinctoria_, dyer's
 green-weed, the flowers of which yield a yellow dye, has no spines.
 Other species are grown on rock-work or as greenhouse plants.
 

@@ -27,29 +27,29 @@ deviated therefrom. This normal form we shall understand if we consider the
 essential character of the building in the light of what Vitruvius tells us
 of it.
 
-Vitruvius treats the basilica in close connexion with the forum, to which
+Vitruvius treats the basilica in close connexion with the [[Forum|forum]], to which
 in his view it is an adjunct. In the earlier classical times, both in
 Greece and Italy, business of every kind, political, commercial and legal,
 was transacted in the open forum, and there also were presented shows and
 pageants. When business increased and the numbers of the population were
 multiplied, it was found convenient to provide additional accommodation for
-these purposes. Theatres and amphitheatres took the performances and games.
+these purposes. Theatres and amphitheatres took the performances and [[Games|games]].
 Markets provided for those that bought and sold, while for business of more
 important kinds accommodation could be secured by laying out new _agorae_
 or _fora_ in the immediate vicinity of the old. At Rome this was done by
 means of the so-called imperial fora, the latest and most splendid of which
 was that of Trajan. These fora corresponded to the later Greek or
 Hellenistic agora, which, as Vitruvius tells us, was of regular form and
-surrounded by colonnades in two stories, and they had the practical use of
+surrounded by [[Colonnade|colonnades]] in two stories, and they had the practical use of
 relieving the pressure on the [v.03 p.0471] original forum (Cic., _ad
 Att._, iv. 16). The basilica was a structure intended for the same
-purposes. It was to all intents and purposes a covered forum, and in its
+purposes. It was to all [[Intent|intents]] and purposes a covered forum, and in its
 normal form was constituted by an arrangement of colonnades in two stories
 round a rectangular space, that was not, like the Greek agora, open, but
 covered with a roof. Vitruvius writes of it as frequented by merchants, who
 would find in it shelter and quiet for the transaction of their business.
 Legal tribunals were also set up in it, though it is a mistake to suppose
-the basilica a mere law court. The magistrates who presided over these
+the basilica a mere law court. The [[Magistrate|magistrates]] who presided over these
 tribunals had sometimes platforms, curved or rectangular in plan, provided
 as part of the permanent fittings of the edifice.
 
@@ -70,7 +70,7 @@ parapet stood the upper row of columns, three-quarters as high as the lower
 ones. The spaces between these columns, above the top of the _pluteum_,
 would be left free for the admission of light to the central space, which
 was covered by a roof called by Vitruvius (v. 1. 6) _mediana testudo_.
-Nothing is said about a permanent tribunal or about an apse.
+Nothing is said about a permanent tribunal or about an [[Apse|apse]].
 
 [Illustration: FIG. 1.--Basilica at Pompeii. 1, Portico (Chalcidicum); 2,
 hall of basilica; 3, aisles; 4, altar; 5, tribunal; 6, offices.]
@@ -83,17 +83,17 @@ represented in actual relics.
 The word "basilica" is a Latinized form of the Greek adjective [Greek:
 basilikê], "royal," and some feminine substantive, such as _domus_, or
 _stoa_, must be understood with it. A certain building at Athens, wherein
-the [Greek: archôn basileus] transacted business and the court of the
+the [Greek: [[Arch|arch]]ôn basileus] transacted business and the court of the
 Areopagus sometimes assembled, was called [Greek: basileios stoa], and it
 is an accredited theory, though it is by no means proved, that we have here
 the origin of the later basilica. It is difficult to see why this was
 called "royal" except for some special but accidental reason such as can in
 this case be divined. There are other instances in which a term that
 becomes specific has been derived from some one specimen accidentally
-named. "Labyrinth" is one case in point, and "basilica" may be another. It
+named. "[[Labyrinth]]" is one case in point, and "basilica" may be another. It
 is true that we do not know what was the shape of the King Archon's
 portico, but the same name ([Greek: basileios stoa]) was given to the grand
-structure erected by Herod the Great along the southern edge of the Temple
+structure erected by [[Herod]] the Great along the southern edge of the Temple
 platform at Jerusalem, and this corresponded to the Vitruvian scheme of a
 columned fabric, with nave and aisles and clerestory lighting.
 
@@ -124,17 +124,17 @@ latest and most extensive being the Basilica Julia, which ran parallel to
 its southern side, and is shown in plan in fig. 2. The great Basilica Ulpia
 was built by Trajan in connexion with his forum about A.D. 112, and a
 fragment of the Capitoline plan of Rome gives the scheme of it (fig. 3),
-while an attempted restoration of the interior by Canina is shown in fig.
-4. The vaulted basilica of Maxentius or Constantine on the Via Sacra dates
+while an attempted restoration of the interior by [[Canina]] is shown in fig.
+4. The vaulted basilica of [[Maxentius]] or Constantine on the Via Sacra dates
 from the beginning of the 4th century, and fig. 5 gives the section of it.
 The number of public basilicas we read of at Rome alone amounts to about a
 score, while many private basilicas, for business or recreation, must also
-have existed, that in the palace of Domitian on the Palatine being the best
+have existed, that in the palace of [[Domitian]] on the Palatine being the best
 known. In provincial cities in Italy, and indeed all over the empire,
 basilicas were almost universal, and in the case of Italy we have proof of
 this as early as the date of the death of Augustus, for Suetonius (_Aug_.
 100) tells us that the body of that emperor, when it was brought from Nola
-in Campania to Rome, rested "_in basilica cujusque oppidi._"
+in [[Campania]] to Rome, rested "_in basilica cujusque oppidi._"
 
 [Illustration: FIG. 4.--Interior view of Trajan's Basilica (_Basilica
 Ulpia_), as restored by Canina.]
@@ -149,7 +149,7 @@ long, 90 ft. wide and 100 ft. high, commanded at one end by a spacious
 apse. There is reason to conjecture that this is the basilica erected by
 Constantine, and some authorities believe that originally it had internal
 colonnades. In England basilicas remain in part at Silchester (fig. 7),
-Uriconium (Wroxeter), [v.03 p.0472] Chester (?) and Lincoln, while three
+Uriconium (Wroxeter), [v.03 p.0472] [[Chester]] (?) and [[Lincoln]], while three
 others are mentioned in inscriptions (_C.I.L._ vii. 287, 445, 965).
 
 A comparison of the plans of existing basilicas shows considerable variety
@@ -214,7 +214,7 @@ city of Timgad, in North Africa.
 Fontemoing.) ]
 
 When buildings were first expressly erected for Christian worship, in the
-3rd or perhaps already in the 2nd century A.D. (Leclercq, _Manuel_, ch.
+3rd or perhaps already in the 2nd century A.D. (Leclercq, _[[Manuel]]_, ch.
 iii. "Les édifices chrétiens avant la paix de l'église"), they probably
 took the form of an oblong interior [v.03 p.0473] terminated by an apse.
 After the time of Constantine, when the numbers of the faithful were
@@ -231,8 +231,8 @@ Gerusalemme and S. Maria Maggiore at Rome, which originated in the halls of
 the Sessorian and Liberian palaces respectively, granted by Constantine to
 the Christians. We may adduce also as evidence of the same practice a
 passage in bk. x. ch. 71 of the theological romance known as _The
-Recognitions of Clement_, probably dating from the early half of the 3rd
-century, in which we are told that Theophilus of Antioch, on his conversion
+Recognitions of [[Clement]]_, probably dating from the early half of the 3rd
+century, in which we are told that Theophilus of Antioch, on his [[Conversion|conversion]]
 by St Peter, made over "the basilica of his house" for a church. But
 however this may have been, with, perhaps, the single exception of S.
 Croce, the existing Christian basilicas were erected from the ground for
@@ -243,7 +243,7 @@ absence of rudimentary architectural knowledge in these reconstructions.
 Not only are columns of various heights and diameters made to do duty in
 the same colonnade, but even different orders stand side by side (_e.g._
 Ionic, Corinthian and Composite at S. Maria in Trastevere); while pilasters
-assume a horizontal position and serve as entablatures, as at S. Lorenzo
+assume a horizontal position and serve as [[Entablature|entablatures]], as at S. Lorenzo
 fuori le Mura. There being no such quarry of ready-worked materials at
 Ravenna, the noble basilicas of that city are free from these defects, and
 exhibit greater unity of design and harmony of proportions.
@@ -253,17 +253,17 @@ city at Silchester, Hants. (From _Archaeologia,_ vol. liii.)]
 
 An early Christian basilica may be thus described in its main features:--A
 porch supported on pillars (as at S. Clemente) gave admission into an open
-court or _atrium_, surrounded by a colonnaded cloister (S. Clemente, Old St
+court or _[[Atrium|atrium]]_, surrounded by a colonnaded cloister (S. Clemente, Old St
 Peter's, S. Ambrogio at Milan, Parenzo). In the centre of the court stood a
-cistern or fountain (_cantharus_, _phiale_), for drinking and ablutions. In
-close contiguity to the atrium, often to the west, was the baptistery,
+cistern or [[Fountain|fountain]] (_cantharus_, _phiale_), for drinking and ablutions. In
+close contiguity to the atrium, often to the west, was the [[Baptistery|baptistery]],
 usually octagonal (Parenzo). The church was entered through a long narrow
 porch (_narthex_), beyond which penitents, or those under ecclesiastical
 censure, were forbidden to pass. Three or more lofty doorways, according to
-the number of the aisles, set in marble cases, gave admission to the
+the number of the aisles, set in [[Marble|marble]] cases, gave admission to the
 church. The doors themselves were of rich wood, elaborately carved with
 scriptural subjects (S. Sabina on the Aventine), or of bronze similarly
-adorned and often gilt. Magnificent curtains, frequently embroidered with
+adorned and often gilt. Magnificent [[Curtain|curtains]], frequently embroidered with
 sacred figures or scenes, closed the entrance, keeping out the heat of
 summer and the cold of winter.
 
@@ -271,7 +271,7 @@ The interior consisted of a long and wide nave, sometimes as much as 80 ft.
 across, terminating in a semicircular apse, with one or sometimes (St
 Paul's, Old St Peter's, St John Lateran) two aisles on each side, separated
 by colonnades of marble pillars supporting horizontal entablatures (Old St
-Peter's, S. Maria Maggiore, S. Lorenzo) or arches (St Paul's, S. Agnese, S.
+Peter's, S. Maria Maggiore, S. Lorenzo) or [[Arches|arches]] (St Paul's, S. Agnese, S.
 Clemente, the two basilicas of S. Apollinare at Ravenna). Above the pillars
 the clerestory wall rose to a great height, pierced in its upper part by a
 range of plain round-headed windows. The space between the windows and the
@@ -282,8 +282,8 @@ distance from the end, thus admitting the formation of a transverse aisle
 or transept (St Paul's, Old St Peter's, St John Lateran). Where this
 transept occurred it was divided from the nave by a wide arch, the face and
 soffit of which were richly decorated with mosaics. Over the crown of the
-arch we often find a bust of Christ or the holy lamb lying upon the altar,
-and, on either side, the evangelistic symbols, the seven candlesticks and
+arch we often find a bust of Christ or the holy [[Lamb|lamb]] lying upon the altar,
+and, on either side, the evangelistic symbols, the seven [[Candlestick|candlesticks]] and
 the twenty-four elders. Another arch spanned the semicircular apse, in
 which the church always terminated. From Carolingian times this was
 designated the _arch of triumph_, because a cross was suspended from it.
@@ -292,11 +292,11 @@ designated the _arch of triumph_, because a cross was suspended from it.
 
 The conch or semi-dome that covered the apse was always covered with mosaic
 pictures, usually paintings of our Lord, either seated or standing, with St
-Peter and St Paul, and other apostles and saints, on either hand. The beams
-of the roof were sometimes concealed by a flat ceiling, richly carved and
+Peter and St Paul, and other [[Apostle|apostles]] and saints, on either hand. The beams
+of the roof were sometimes concealed by a flat [[Ceiling|ceiling]], richly carved and
 gilt. The altar, standing in the centre of the chord of the apse on a
 raised platform reached by flights of steps, was rendered conspicuous by a
-lofty canopy supported by marble pillars (_ciborium_, _baldacchino_), from
+lofty canopy supported by marble pillars (_[[Ciborium|ciborium]]_, _baldacchino_), from
 which depended curtains of the richest materials. Beneath the altar was the
 _confessio_, a subterranean chapel, containing the body of the patron
 saint, and relics of other holy persons. This was approached by descending
@@ -307,17 +307,17 @@ round which the church arose. We have good examples of this arrangement at
 St Peter's and St Paul's at Rome, and S. Apollinare in Classe, Ravenna. It
 was copied in the original cathedral of Canterbury. The bishop or
 officiating presbyter advanced from his seat in the centre of the
-semicircle of the apse to the altar, and celebrated the Eucharist with his
+semicircle of the apse to the altar, and celebrated the [[Eucharist]] with his
 face to the congregation below. At the foot of the altar steps a raised
-platform, occupying the upper portion of the nave, formed a choir for the
+platform, occupying the upper portion of the nave, formed a [[Choir|choir]] for the
 singers, readers and other inferior clergy. This oblong space was separated
 from the aisles and from the western portion of the nave by low marble
-walls or railings (_cancelli_). From these walls projected _ambones_ or
-pulpits with desks, also of marble, ascended by steps.
+walls or railings (_[[Cancelli|cancelli]]_). From these walls projected _ambones_ or
+pulpits with [[Desk|desks]], also of marble, ascended by steps.
 
 The exterior of the basilicas was usually of an extreme plainness. The vast
-brick walls were unrelieved by ornament, save occasionally by arcading as
-at S. Apollinare in Classe, Ravenna, and had no compensating grace of
+[[Brick|brick]] walls were unrelieved by ornament, save occasionally by arcading as
+at S. Apollinare in Classe, Ravenna, and had no compensating [[Grace|grace]] of
 outline or beauty of proportion. An exception was made for the entrance
 front, which was sometimes covered with plates of marble mosaics or painted
 stucco (Old St Peter's, S. Lorenzo). But in spite of any decorations the
@@ -334,8 +334,8 @@ vast space of the interior.
 at Rome.
 
 _a_, Porch. _b_, Atrium. _c_, Cloisters. _d_, Narthex. _e_, Nave. _f_, _f_,
-Aisles, _g_, Bema. _h_, Altar, protected by a double screen. _i_, Bishop's
-throne in centre of the apse. _k_, Sacristy. _l_, Tomb of Honorius. _m_,
+Aisles, _g_, [[Bema]]. _h_, Altar, protected by a double screen. _i_, Bishop's
+throne in centre of the apse. _k_, Sacristy. _l_, Tomb of [[Honorius]]. _m_,
 Church of St Andrew. ]
 
 To pass from general description to individual churches, the first place
@@ -359,7 +359,7 @@ columns. Those next the nave supported horizontal entablatures. The inner
 colonnades bore arches, with a second clerestory. The main clerestory walls
 were divided into two rows of square panels containing mosaics, and had
 windows above. The transept projected beyond the body of the church,--a
-very unusual arrangement. The apse, of remarkably small dimensions, was
+very unusual arrangement. The apse, of remarkably small [[Dimension|dimensions]], was
 screened off by a double row of twelve wreathed columns of Parian marble.
 The pontifical chair was placed in the centre of the curve of the apse, on
 a platform raised several steps above the presbytery. To the right and left
@@ -404,7 +404,7 @@ excellent in style and arrangement. Corinthian pilasters divide the
 windows, beneath which are very remarkable mosaic pictures of subjects from
 Old Testament history, generally supposed to [v.03 p.0475] date from the
 pontificate of Sixtus III., 432-440. The face of the arch of triumph
-presents also a series of mosaics illustrative of the infancy of our Lord,
+presents also a series of mosaics illustrative of the [[Infancy|infancy]] of our Lord,
 of great value in the history of art. The apse is of later date,
 reconstructed by Paschal I. in 818.
 
@@ -416,7 +416,7 @@ Of the remaining Roman basilicas that of S. Sabina on the Aventine is of
 special interest as its interior, dating from about A.D. 430, has preserved
 more of the primitive aspect than any other. Its carved wooden doors of
 early Christian date are of unique value, and in the spandrils of its inner
-arcades, upborne by splendid antique Corinthian columns, are some good
+[[Arcade|arcades]], upborne by splendid antique Corinthian columns, are some good
 specimens of _opus sectile_ or mosaic of cut marble. The ancient roof is an
 open one. The basilicas of S. Lorenzo fuori le Mura and S. Agnese deserve
 particular notice, as exhibiting galleries corresponding to those of the
@@ -469,7 +469,7 @@ with a double flight of steps westwards and eastwards. To the west of it
 stands the great Paschal candlestick, with a spiral shaft, decorated with
 mosaic. Opposite, to the south, is the epistle-ambo, square in plan, with
 two marble reading-desks facing east and west, for the reading of the
-epistle and the gradual respectively. The sanctuary is raised two steps
+[[Epistle|epistle]] and the [[Gradual|gradual]] respectively. The sanctuary is raised two steps
 above the choir, from which it is divided by another portion of the same
 marble screen. The altar stands beneath a lofty _ciborium_, supported by
 marble columns, with a canopy on smaller shafts above. It retains the rods
@@ -488,7 +488,7 @@ Mullooly, O.P., Rome, 1873.)
 [Illustration: FIG. 16.--Interior of S. Clemente in Rome.]
 
 The fullest lists of early Christian basilicas outside Rome are given in
-Kraus's _Realencyklopädie der christlichen Alterthümer_, Freiburg i. B.,
+Kraus's _Realencyklopädie der christlichen Alterthümer_, [[Freiburg]] i. B.,
 1882, art. "Basilica," and more recently in Leclercq's _Manuel
 d'archéologie chrétienne_, Paris 1907, vol. i. App. i., "Essai de
 Classement des Principaux Monuments." Only a few characteristic specimens
@@ -520,7 +520,7 @@ the 7th century, but largely repaired c. A.D. 1000, deserves special
 attention from the fact that it preserves, in a more perfect state than can
 be seen elsewhere, the arrangements of the seats in the apse (fig. 18). The
 bishop's throne occupies the centre of the arc, approached by a steep
-flight of steps. Six rows of stone benches for the presbyters, rising one
+flight of steps. Six rows of stone [[Bench|benches]] for the presbyters, rising one
 above another like the seats in a theatre, follow the curve on either
 side--the whole being singularly plain and almost rude. The altar stands on
 a platform; the sanctuary is divided from the nave by a screen of six
@@ -531,7 +531,7 @@ is 125 ft. by 75 ft. The narrow aisles are only 7 ft. in width.
 and seats for the clergy. (From a drawing by Lady Palgrave.)]
 
 Another very remarkable basilica, less known than it deserves to be, is
-that of Parenzo in Istria, _c._ A.D. 542. Few basilicas have sustained so
+that of Parenzo in [[Istria]], _c._ A.D. 542. Few basilicas have sustained so
 little alteration. From the annexed ground-plan (fig. 19) it will be seen
 that it retains its _atrium_ and a baptistery, square without, octagonal
 within, to the west of it. Nine pillars divide each aisle from the nave,
@@ -554,7 +554,7 @@ introduced a new type which almost entirely superseded the old one, the
 basilican form, or as it was then termed _dromical_, from its shape being
 that of a race-course (_dromos_), was originally as much the rule as in the
 West. The earliest church of which we have any clear account, that of
-Paulinus at Tyre, A.D. 313-322, described by Eusebius (_Hist. Eccl._ x. 4 §
+Paulinus at Tyre, A.D. 313-322, described by [[Eusebius]] (_Hist. Eccl._ x. 4 §
 37), was evidently basilican, with galleries over the aisles, and had an
 atrium in front. That erected by Constantine at Jerusalem, on the side of
 the Holy Sepulchre, 333, followed the same plan (Euseb., _Vit. Const._ iii.
@@ -584,9 +584,9 @@ Baudenkmale von Constantinople_).
 Narthex; 2, nave; 3, 3, aisles.]
 
 Other basilican churches in the East which deserve notice are those of the
-monastery of St Catherine on Mt. Sinai built by Justinian, that of Dana
+monastery of St Catherine on Mt. Sinai built by Justinian, that of [[Dana]]
 between Antioch and Bir of the same date, St Philip at Athens, Bosra in
-Arabia, Xanthus in Lycia, and the very noble church of St Demetrius at
+Arabia, Xanthus in Lycia, and the very noble church of St [[Demetrius]] at
 Thessalonica. Views and descriptions of most of these may be found in
 Texier and Pullan's _Byzantine Architecture_, Couchaud's _Choix d'églises
 byzantines_, and the works of the count de Vogué. In the Roman province of
@@ -596,8 +596,8 @@ examples. Basilicas of strictly early Christian date are not now to be met
 with in France, Spain or Germany, but the interesting though very plain
 "Basse Oeuvre" at Beauvais may date from Carolingian times, while Germany
 can show at Michelstadt in the Odenwald an unaltered basilica of the time
-of Charles the Great. The fine-columned basilica of St Mauritius, near
-Hildesheim, dates from the 11th century, and the basilican form has been
+of Charles the Great. The fine-columned basilica of St [[Mauritius]], near
+[[Hildesheim]], dates from the 11th century, and the basilican form has been
 revived in the noble modern basilica at Munich.
 
 [Illustration: FIG. 21.--Plan of early Christian Basilica of about the 4th
@@ -617,7 +617,7 @@ the churches of North Africa and Syria. Another existing English basilica
 of early date is that of Brixworth in Northamptonshire, probably erected by
 Saxulphus, abbot of Peterborough, _c._ A.D. 680. It consisted of a nave
 divided from its aisles by quadrangular piers supporting arches turned in
-Roman brick, with clerestory windows above, and a short chancel terminating
+Roman brick, with clerestory windows above, and a short [[Chancel|chancel]] terminating
 in an apse, outside which, as at St Peter's at Rome, ran a circumscribing
 crypt entered by steps from the chancel. At the west end was a square
 porch, the walls of which were carried up later in the form of a tower.
@@ -635,7 +635,7 @@ conjecturally restored from Eadmer's description, we see that it was an
 aisled basilica, with an apse at either end, containing altars standing on
 raised platforms approached by steps. Beneath the eastern platform was a
 crypt, or _confessio_, containing relics, "fabricated in the likeness of
-the confessionary of St Peter at Rome" (Eadmer). The western apse,
+the confessionary of St Peter at Rome" ([[Eadmer]]). The western apse,
 dedicated to the Blessed Virgin, contained the bishop's throne. From this
 and other indications Willis thinks that this was the original altar end,
 the eastern apse being a subsequent addition of Archbishop Odo, _c._ 950,
@@ -650,9 +650,9 @@ court, or to the hundreds and counties, received judgment." The northern
 porch contained a school for the younger clergy.
 
 AUTHORITIES.--Vitruvius, _De Architectura_, v. 1, vi. 3, 9; Huelsen, _The
-Roman Forum_ (1906); Mau, _Pompeii: its Life and Art_; C. Lange, _Haus und
-Halle_; Canina, _Edifizii di Roma Antica_; Ciampini, _Vetera Monimenta_;
-Seroux d'Agincourt, _L'Histoire de l'art par les monumens_; Bunsen and
+Roman Forum_ (1906); Mau, _Pompeii: its Life and Art_; C. [[Lange]], _Haus und
+[[Halle]]_; Canina, _Edifizii di Roma Antica_; Ciampini, _Vetera Monimenta_;
+Seroux d'Agincourt, _L'Histoire de l'art par les monumens_; [[Bunsen]] and
 Plattner, _Beschreibung der Stadt Rom_; Gutensohn and Knapp, _Basiliken des
 christlichen Roms_; Zestermann, _Die antiken u. die christlichen
 Basiliken_; Hübsch, _Die altchristlichen Kirchen_; Messmer, _Über den

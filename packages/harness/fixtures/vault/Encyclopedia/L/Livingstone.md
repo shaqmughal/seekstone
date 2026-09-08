@@ -7,15 +7,15 @@ topic: history-studies
 # Livingstone
 
 LIVINGSTONE, DAVID (1813-1873), Scottish missionary and explorer in
-Africa, was born on the 19th of March 1813, at the village of Blantyre
+Africa, was born on the 19th of March 1813, at the village of [[Blantyre]]
 Works, in Lanarkshire, Scotland. David was the second child of his
-parents, Neil Livingston (for so he spelled his name, as did his son for
-many years) and Agnes Hunter. His parents were typical examples of all
+parents, Neil [[Livingston]] (for so he spelled his name, as did his son for
+many years) and Agnes [[Hunter]]. His parents were typical examples of all
 that is best among the humbler families of Scotland. At the age of ten
 years David left the village school for the neighbouring cotton-mill,
 and by strenuous efforts qualified himself at the age of twenty-three to
 undertake a college curriculum. He attended for two sessions the medical
-and the Greek classes in Anderson's College, Glasgow, and also a
+and the Greek classes in Anderson's College, [[Glasgow]], and also a
 theological class. In September 1838 he went up to London, and was
 accepted by the London Missionary Society as a candidate. He took his
 medical degree in the Faculty of Physicians and Surgeons in Glasgow in
@@ -23,19 +23,19 @@ November 1840. Livingstone had set his heart on China, and it was a
 great disappointment to him that the society finally decided to send him
 to Africa. To an exterior in these early years somewhat heavy and
 uncouth, he united a manner which, by universal testimony, was
-irresistibly winning, with a fund of genuine but simple humour and fun
+irresistibly winning, with a fund of genuine but simple [[Humour|humour]] and fun
 that would break out on the most unlikely occasions, and in after years
 enabled him to overcome difficulties and mellow refractory chiefs when
 all other methods failed.
 
 Livingstone sailed from England on the 8th of December 1840. From Algoa
-Bay he made direct for Kuruman, Bechuanaland, the mission station, 700
+Bay he made direct for [[Kuruman]], Bechuanaland, the mission station, 700
 m. north, established by Robert Moffat twenty years before, and there he
 arrived on the 31st of July 1841. The next two years Livingstone spent
 in travelling about the country to the northwards, in search of a
 suitable outpost for settlement. During these two years he became
 convinced that the success of the white missionary in a field like
-Africa was not to be reckoned by the tale of doubtful conversions he
+Africa was not to be reckoned by the tale of doubtful [[Conversion|conversions]] he
 could send home each year--that the proper work for such men was that of
 pioneering, opening up and starting new ground, leaving native agents to
 work it out in detail. The whole of his subsequent career was a
@@ -53,17 +53,17 @@ Kolobeng, about 40 m. westwards, the whole tribe following their
 missionary. With the aid and in the company of two English sportsmen,
 William C. Oswell and Mungo Murray, he was able to undertake a journey
 to Lake Ngami, which had never yet been seen by a white man. Crossing
-the Kalahari Desert, of which Livingstone gave the first detailed
+the Kalahari [[Desert]], of which Livingstone gave the first detailed
 account, they reached the lake on the 1st of August 1849. In April next
 year he made an attempt to reach Sebituane, who lived 200 m. beyond the
 lake, this time in company with his wife and children, but again got no
-farther than the lake, as the children were seized with fever. A year
+farther than the lake, as the children were seized with [[Fever|fever]]. A year
 later, April 1851, Livingstone, again accompanied by his family and
 Oswell, set out, this time with the intention of settling among the
-Makololo for a period. At last he succeeded, and reached the Chobe
+Makololo for a period. At last he succeeded, and reached the [[Chobe]]
 (Kwando), a southern tributary of the Zambezi, and in the end of June
 reached the Zambezi itself at the town of Sesheke. Leaving the Chobe on
-the 13th of August the party reached Cape Town in April 1852.
+the 13th of August the party reached [[Cape Town]] in April 1852.
 Livingstone may now be said to have completed the first period of his
 career in Africa, the period in which the work of the missionary had the
 greatest prominence. Henceforth he appears more in the character of an
@@ -76,7 +76,7 @@ Having seen his family off to England, Livingstone left Cape Town on the
 of the Makololo, on the Chobe, on the 23rd of May 1853, being cordially
 received by Sekeletu and his people. His first object was to seek for
 some healthy high land in which to plant a station. Ascending the
-Zambezi, he, however, found no place free from the tsetse fly, and
+Zambezi, he, however, found no place free from the tsetse [[Fly|fly]], and
 therefore resolved to discover a route to the interior from either the
 west or east coast. To accompany Livingstone twenty-seven men were
 selected from the various tribes under Sekeletu, partly with a view to
@@ -84,7 +84,7 @@ open up a trade route between their own country and the coast. The start
 was made from Linyante on the 11th of November 1853, and, by ascending
 the Liba, Lake Dilolo was reached on the 20th of February 1854. On the
 4th of April the Kwango was crossed, and on the 31st of May the town of
-Loanda was entered, Livingstone, however, being all but dead from fever,
+[[Loanda]] was entered, Livingstone, however, being all but dead from fever,
 semi-starvation and dysentery. From Loanda Livingstone sent his
 astronomical observations to Sir Thomas Maclear at the Cape, and an
 account of his journey to the Royal Geographical Society, which in May
@@ -92,7 +92,7 @@ account of his journey to the Royal Geographical Society, which in May
 September 1854, but Livingstone lingered long about the Portuguese
 settlements. Making a slight détour to the north to Kabango, the party
 reached Lake Dilolo on the 13th of June 1855. Here Livingstone made a
-careful study of the hydrography of the country. He "now for the first
+careful study of the [[Hydrography|hydrography]] of the country. He "now for the first
 time apprehended the true form of the river systems and the continent,"
 and the conclusions he came to have been essentially confirmed by
 subsequent observations. The return journey from Lake Dilolo was by the
@@ -109,11 +109,11 @@ Livingstone reached the Portuguese settlement of Tete on the 2nd of
 March 1856, in a very emaciated condition. Here he left his men and
 proceeded to Quilimane, where he arrived on the 20th of May, thus having
 completed in two years and six months one of the most remarkable and
-fruitful journeys on record. The results in geography and in natural
+fruitful journeys on record. The results in [[Geography|geography]] and in natural
 science in all its departments were abundant and accurate; his
-observations necessitated a reconstruction of the map of Central Africa.
-When Livingstone began his work in Africa the map was virtually a blank
-from Kuruman to Timbuktu, and nothing but envy or ignorance can throw
+observations necessitated a reconstruction of the [[Map|map]] of Central Africa.
+When Livingstone began his work in Africa the map was virtually a [[Blank|blank]]
+from Kuruman to Timbuktu, and nothing but envy or [[Ignorance|ignorance]] can throw
 any doubt on the originality of his discoveries.
 
 On the 12th of December he arrived in England, after an absence of
@@ -127,11 +127,11 @@ competency had he felt himself at liberty to settle down for life. In
 whom, however, he always remained on the best of terms, and in February
 1858 he accepted the appointment of "Her Majesty's consul at Quilimane
 for the eastern coast and the independent districts in the interior, and
-commander of an expedition for exploring eastern and central Africa."
+[[Commander|commander]] of an expedition for exploring eastern and central Africa."
 The Zambezi expedition, of which Livingstone thus became commander,
-sailed from Liverpool in H.M.S. "Pearl" on the 10th of March 1858, and
+sailed from [[Liverpool]] in H.M.S. "Pearl" on the 10th of March 1858, and
 reached the mouth of the Zambezi on the 14th of May. The party, which
-included Dr (afterwards Sir) John Kirk and Livingstone's brother
+included Dr (afterwards Sir) John [[Kirk]] and Livingstone's brother
 Charles, ascended the river from the Kongone mouth in a steam launch,
 the "Ma-Robert"; reaching Tete on the 8th of September. The remainder of
 the year was devoted to an examination of the river above Tete, and
@@ -139,17 +139,17 @@ especially the Kebrabasa rapids. Most of the year 1859 was spent in the
 exploration of the river Shiré and Lake Nyasa, which was discovered in
 September; and during a great part of the year 1860 Livingstone was
 engaged in fulfilling his promise to take such of the Makololo home as
-cared to go. In January of next year arrived Bishop C. F. Mackenzie and
+cared to go. In January of next year arrived Bishop C. F. [[Mackenzie]] and
 a party of missionaries sent out by the Universities Mission to
 establish a station on the upper Shiré.
 
 After exploring the river Rovuma for 30 m. in his new vessel the
 "Pioneer," Livingstone and the missionaries proceeded up the Shiré to
 Chibisa's; there they found the slave trade rampant. On the 15th of July
-Livingstone, accompanied by several native carriers, started to show the
+Livingstone, accompanied by several native [[Carrier|carriers]], started to show the
 bishop the country. Several bands of slaves whom they met were
 liberated, and after seeing the missionary party settled in the
-highlands to the south of Lake Chilwa (Shirwa) Livingstone spent from
+highlands to the south of Lake [[Chilwa]] (Shirwa) Livingstone spent from
 August to November in exploring Lake Nyasa. While the boat sailed up
 the west side of the lake to near the north end, the explorer marched
 along the shore. He returned more resolved than ever to do his utmost to
@@ -198,42 +198,42 @@ contributed £500. The two main objects of the expedition were the
 suppression of slavery by means of civilizing influences, and the
 ascertainment of the watershed in the region between Nyasa and
 Tanganyika. At first Livingstone thought the Nile problem had been all
-but solved by Speke, Baker and Burton, but the idea grew upon him that
+but solved by Speke, [[Baker]] and [[Burton]], but the idea grew upon him that
 the Nile sources must be sought farther south, and his last journey
-became in the end a forlorn hope in search of the "fountains" of
+became in the end a [[Forlorn Hope|forlorn hope]] in search of the "[[Fountain|fountains]]" of
 Herodotus. Leaving England in the middle of August 1865, via Bombay,
 Livingstone arrived at Zanzibar on the 28th of January 1866. He was
 landed at the mouth of the Rovuma on the 22nd of March, and started for
 the interior on the 4th of April. His company consisted of thirteen
 sepoys, ten Johanna men, nine African boys from Nasik school, Bombay,
-and four boys from the Shiré region, besides camels, buffaloes, mules
+and four boys from the Shiré region, besides camels, [[Buffalo|buffaloes]], mules
 and donkeys. This imposing outfit soon melted away to four or five boys.
 Rounding the south end of Lake Nyasa, Livingstone struck in a
 north-north-west direction for the south end of Lake Tanganyika, over
 country much of which had not previously been explored. The Loangwa was
-crossed on the 15th of December 1866. On Christmas day Livingstone lost
+crossed on the 15th of December 1866. On [[Christmas]] day Livingstone lost
 his four goats, a loss which he felt very keenly, and the medicine chest
 was stolen in January 1867. Fever came upon him, and for a time was his
 almost constant companion; this, with other serious ailments which
 subsequently attacked him, and which he had no medicine to counteract,
-told on even his iron frame. The Chambezi was crossed on the 28th of
+told on even his iron [[Frame|frame]]. The Chambezi was crossed on the 28th of
 January, and the south end of Tanganyika reached on the 31st of March.
 Here, much to his vexation, he got into the company of Arab slave
 dealers (among them being Tippoo-Tib) by whom his movements were
 hampered; but he succeeded in reaching Lake Mweru (Nov. 1867). After
 visiting Lake Mofwa and the Lualaba, which he believed was the upper
 part of the Nile, he, on the 18th of July 1868, discovered Lake
-Bangweulu. Proceeding up the west coast of Tanganyika, he reached Ujiji
-on the 14th of March 1869, "a ruckle of bones." Livingstone recrossed
+[[Bangweulu]]. Proceeding up the west coast of Tanganyika, he reached Ujiji
+on the 14th of March 1869, "a ruckle of [[Bone|bones]]." Livingstone recrossed
 Tanganyika in July, and passed through the country of the Manyema, but
 baffled partly by the natives, partly by the slave hunters, and partly
 by his long illnesses it was not till the 29th of March 1871 that he
 succeeded in reaching the Lualaba, at the town of Nyangwe, where he
-stayed four months, vainly trying to get a canoe to take him across. It
+stayed four months, vainly trying to get a [[Canoe|canoe]] to take him across. It
 was here that a party of Arab slavers, without warning or provocation,
 assembled one day when the market was busiest and commenced shooting
 the women, hundreds being killed or drowned in trying to escape.
-Livingstone had "the impression that he was in hell," but was helpless,
+Livingstone had "the impression that he was in [[Hell|hell]]," but was helpless,
 though his "first impulse was to pistol the murderers." The account of
 this scene which he sent home roused indignation in England to such a
 degree as to lead to determined and to a considerable extent successful
@@ -241,14 +241,14 @@ efforts to get the sultan of Zanzibar to suppress the trade. In sickened
 disgust the weary traveller made his way back to Ujiji, which he reached
 on the 13th of October. Five days after his arrival in Ujiji he was
 inspired with new life by the timely arrival of H. M. Stanley, the
-richly laden almoner of Mr Gordon Bennett, of the _New York Herald_.
+richly laden almoner of Mr Gordon [[Bennett]], of the _New York Herald_.
 With Stanley Livingstone explored the north end of Tanganyika, and
 proved conclusively that the Rusizi runs into and not out of it. In the
 end of the year the two started eastward for Unyamwezi, where Stanley
 provided Livingstone with an ample supply of goods, and bade him
 farewell. Stanley left on the 15th of March 1872, and after Livingstone
 had waited wearily in Unyamwezi for five months, a troop of fifty-seven
-men and boys arrived, good and faithful fellows on the whole, selected
+men and boys arrived, good and faithful [[Fellows|fellows]] on the whole, selected
 by Stanley himself. Thus attended, he started on the 15th of August for
 Lake Bangweulu, proceeding along the east side of Tanganyika. His old
 enemy dysentery soon found him out. In January 1873 the party got among
@@ -279,7 +279,7 @@ discoveries during these last years were both extensive and of prime
 importance as leading to a solution of African hydrography. No single
 African explorer has ever done so much for African geography as
 Livingstone during his thirty years' work. His travels covered one-third
-of the continent, extending from the Cape to near the equator, and from
+of the continent, extending from the Cape to near the [[Equator|equator]], and from
 the Atlantic to the Indian Ocean. Livingstone was no hurried traveller;
 he did his journeying leisurely, carefully observing and recording all
 that was worthy of note, with rare geographical instinct and the eye of
@@ -290,7 +290,7 @@ cherished by the native tribes who, almost without exception, treated
 Livingstone as a superior being; his treatment of them was always
 tender, gentle and gentlemanly. By the Arab slavers whom he opposed he
 was also greatly admired, and was by them styled "the very great
-doctor." "In the annals of exploration of the Dark Continent," wrote
+doctor." "In the [[Annals|annals]] of exploration of the Dark Continent," wrote
 Stanley many years after the death of the missionary explorer, "we look
 in vain among other nationalities for a name such as Livingstone's. He
 stands pre-eminent above all; he unites in himself all the best
@@ -309,7 +309,7 @@ Scotland--"Fear God, and work hard."
   See, besides his own narratives and W. G. Blaikie's _Life_ (1880), the
   publications of the London Missionary Society from 1840, the _Journal
   and Proceedings of the Royal Geographical Society_, the despatches to
-  the Foreign Office sent home by Livingstone during his last two
+  the [[Foreign Office]] sent home by Livingstone during his last two
   expeditions, and Stanley's _Autobiography_ (1909) and _How I Found
   Livingstone_ (1872).     (J. S. K.)
 

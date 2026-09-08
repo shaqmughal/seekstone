@@ -28,7 +28,7 @@ the 9th of November 1875.
   der Landwirthschaft_ (Prague, 1851); _Die Schule des Landbaues_
   (Munich, 1852); _Baierns Rinderrassen_ (Munich, 1853); _Die künstliche
   Fischerzeugung_ (Munich, 1854); _Die Natur der Landwirthschaft_
-  (Munich, 1857); _Buch der Natur für Landwirthe_ (Munich, 1860); _Die
+  (Munich, 1857); _[[Buch]] der Natur für Landwirthe_ (Munich, 1860); _Die
   Ackerbaukrisen und ihre Heilmittel_ (Munich, 1866); _Das Wurzelleben
   der Culturpflanzen_ (Berlin, 1872); and _Geschichte der Landbau und
   Forstwissenschaft seit dem 16^ten Jahrh._ (Munich, 1865). He also
@@ -39,17 +39,17 @@ the 9th of November 1875.
 
 FRACASTORO [FRACASTORIUS], GIROLAMO [HIERONYMUS] (1483-1553), Italian
 physician and poet, was born at Verona in 1483. It is related of him
-that at his birth his lips adhered so closely that a surgeon was obliged
-to divide them with his incision knife, and that during his infancy his
+that at his birth his [[Lip|lips]] adhered so closely that a surgeon was obliged
+to divide them with his incision [[Knife|knife]], and that during his [[Infancy|infancy]] his
 mother was killed by lightning, while he, though in her arms at the
 moment, escaped unhurt. Fracastoro became eminently skilled, not only in
-medicine and belles-lettres, but in most arts and sciences. He studied
+medicine and [[Belles-Lettres|belles-lettres]], but in most arts and sciences. He studied
 at Padua, and became professor of philosophy there in 1502, afterwards
 practising as a physician in Verona. It was by his advice that Pope Paul
 III., on account of the prevalence of a contagious distemper, removed
 the council of Trent to Bologna. He was the author of many works, both
-poetical and medical, and was intimately acquainted with Cardinal Bembo,
-Julius Scaliger, Gianbattista Ramusio (q.v.), and most of the great men
+poetical and medical, and was intimately acquainted with Cardinal [[Bembo]],
+[[Julius]] Scaliger, Gianbattista Ramusio (q.v.), and most of the great men
 of his time. In 1517, when the builders of the citadel of San Felice
 (Verona) found fossil mussels in the rocks, Fracastoro was consulted
 about the marvel, and he took the same view--following Leonardo da

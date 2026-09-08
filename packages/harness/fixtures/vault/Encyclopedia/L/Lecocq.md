@@ -18,7 +18,7 @@ produced a large number of comic operas, though he never equalled his
 early triumph in _La Fille de Madame Angot_. Among the best of his
 pieces are _Giroflé-Girofla_ (Paris and London, 1874); _Les Prés
 Saint-Gervais_ (Paris and London, 1874); _La Petite Mariée_ (Paris,
-1875; London, 1876, revived as _The Scarlet Feather_, 1897); _Le Petit
+1875; London, 1876, revived as _The Scarlet [[Feather]]_, 1897); _Le Petit
 Duc_ (Paris, 1878; London, as _The Little Duke_, 1878); _La Petite
 Mademoiselle_ (Paris, 1879; London, 1880); _Le Jour et la Nuit_ (Paris,
 1881; London, as _Manola_, 1882); _Le Coeur et la main_ (Paris, 1882;

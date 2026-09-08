@@ -4,7 +4,7 @@ DELILLE, JACQUES (1738-1813), French poet, was born on the 22nd of June
 1738 at Aigue-Perse in Auvergne. He was an illegitimate child, and was
 descended by his mother from the chancellor De l'Hopital. He was
 educated at the college of Lisieux in Paris and became an elementary
-teacher. He gradually acquired a reputation as a poet by his epistles,
+teacher. He gradually acquired a reputation as a poet by his [[Epistle|epistles]],
 in which things are not called by their ordinary names but are hinted at
 by elaborate periphrases. Sugar becomes "le miel americain que du suc
 des roseaux exprima l'Africain." The publication (1769) of his
@@ -37,7 +37,7 @@ the art and difficulties of translation. He wrote the article "La
 Bruyere" in the _Biographie universelle_. The following is the list of
 his poetical works:--_Les Georgiques de Virgile, traduites en vers
 francais_ (Paris, 1769, 1782, 1785, 1809); _Les Jardins_, en quatre
-chants (1780; new edition, Paris, 1801); _L'Homme des champs, ou les
+[[Chant|chants]] (1780; new edition, Paris, 1801); _L'Homme des champs, ou les
 Georgiques francaises_ (Strassburg, 1802); _Poesies fugitives_ (1802);
 _Dithyrambe sur l'immortalite de l'ame, suivi du passage du Saint
 Gothard_, poeme traduit de l'Anglais de Madame la duchesse de Devonshire

@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Co-Operati
 CO-OPERATION, a term used particularly both for a theory of life, and
 for a system of business, with the general sense of "working together"
 (_con_, with, and _opus_, work). In its narrowest usage it means a
-combination of individuals to economize by buying in common, or increase
+combination of individuals to economize by [[Buying In|buying in]] common, or increase
 their profits by selling in common. In its widest usage it means the
 creed that life may best be ordered not by the competition of
 individuals, where each seeks the interest of himself and his family,
@@ -24,7 +24,7 @@ More or less imperfectly embodying this theory, we have co-operation in
 the concrete, or "the co-operative movement," meaning those forms of
 voluntary association where individuals unite for mutual aid in the
 production of wealth, which they will devote to common purposes, or
-share among them upon principles of equity, reason and the common good,
+share among them upon principles of [[Equity|equity]], reason and the common good,
 agreed upon beforehand. Not that a co-operative society can begin by
 saying absolutely what those principles in their purity would dictate.
 It begins with current prices, current rates of wages and interest,
@@ -67,7 +67,7 @@ consequently is drawn somewhat arbitrarily. Thus while a society for
 building, or for the collective ownership of houses, is counted a
 co-operative society, a Building Society (as we ordinarily understand
 the term), though it be purely mutual in its basis, is not so counted in
-Great Britain, but is in the United States (see BUILDING SOCIETIES).
+Great Britain, but is in the United States (see [[Building Societies|BUILDING SOCIETIES]]).
 
 
   Robert Owen.
@@ -86,7 +86,7 @@ of the 18th century, while in England shops not unlike co-operative
 stores, but without the democratic element, were in one or two instances
 set up by benevolent individuals. It does not seem, however, that there
 was any theory of co-operation until Owen in England, and almost
-simultaneously Fourier (q.v.) in France, formulated their gospels, not
+simultaneously [[Fourier]] (q.v.) in France, formulated their [[Gospel|gospels]], not
 identical, yet having much in common. Of these two Owen and his teaching
 are by far the more important.
 
@@ -102,22 +102,22 @@ become a great employer of labour, after starting as a draper's
 assistant, saw that this was in every sense waste, and that as it paid
 the manufacturer to have the best machinery and not to overdrive it, but
 to tend it well and keep it in the best repair, so it would pay him, and
-abundantly pay the nation, to have the human machines well cared for,
+abundantly pay the nation, to have the human [[Machine|machines]] well cared for,
 not overworked, and kept in the best condition. The popular
 individualistic philosophy of that day taught that the good of society
 would be achieved by each individual seeking in his business relations
 the interest of himself and his family; but Owen maintained that the
 well-being of the social body could only be served if each individual
-made that his conscious aim. For this reason he and his disciples were
+made that his conscious aim. For this reason he and his [[Disciple|disciples]] were
 called Socialists. He taught further that a man's character depended
 mainly upon the circumstances which influenced his life; he emphasized
-environment, and all but denied heredity. At New Lanark, from 1799, he
+environment, and all but denied [[Heredity|heredity]]. At New Lanark, from 1799, he
 carried out these ideas among the workers in the cotton mills of which
 he was managing partner.[1] "For twenty-nine years," he wrote, "we did
-without the necessity for magistrates or lawyers; without a single legal
+without the necessity for [[Magistrate|magistrates]] or lawyers; without a single legal
 punishment; without any known poors' rate; without intemperance or
 religious animosities. We reduced the hours of labour, well educated all
-the children from infancy, greatly improved the condition of the adults,
+the children from [[Infancy|infancy]], greatly improved the condition of the adults,
 diminished their daily labour, paid interest on capital, and cleared
 upwards of £300,000 of profit." So wonderful were the results upon the
 population, that New Lanark became a show-place of world-wide renown,
@@ -142,13 +142,13 @@ land and other means of producing wealth being owned in common, and work
 and education being regulated on Owen's principles. Owen well knew that
 most of them lacked the large amount of capital necessary, but his hand
 was forced by enthusiastic followers, and even the most hopeful of the
-experiments, that of Queenwood in Hampshire (1839-1844), was made
+experiments, that of Queenwood in [[Hampshire]] (1839-1844), was made
 prematurely and failed.
 
 His connexion with New Lanark also came to an end, not from any want of
 success, but through differences with some of his partners who objected
 to such matters as dancing, military drill for the children, and the
-wearing of kilts, but above all feared lest Owen's "infidelity" should
+wearing of [[Kilt|kilts]], but above all feared lest Owen's "infidelity" should
 undermine the people's faith.
 
 Thus it might have seemed that Owen's life and fortune had been spent in
@@ -171,7 +171,7 @@ boots and another clothes, and so forth, until ultimately the society
 should have capital enough to take land and form a community. Education
 also was prominent among their objects. These co-operative societies
 reached some 400 or 500 between 1828 and 1834, but the movement then
-collapsed. As the original enthusiasm died out, or members left the
+collapsed. As the original [[Enthusiasm|enthusiasm]] died out, or members left the
 neighbourhood, or capital accumulated in the hands of the original
 shareholders, they almost all either failed or became private property.
 In those early days, moreover, the law gave no protection to the
@@ -185,16 +185,16 @@ also limited liability for the members.
 
 Before 1844 a co-operative society had already been formed and failed at
 Rochdale in Lancashire, yet some ardent spirits planned to form another.
-Twenty-eight poor men, flannel weavers and such like, got together a
+Twenty-eight poor men, [[Flannel|flannel]] weavers and such like, got together a
 capital of £28 by twopenny and threepenny subscriptions, and in December
-1844 opened in Toad Lane, Rochdale, a little shop from which, speaking
+1844 opened in Toad [[Lane]], Rochdale, a little shop from which, speaking
 broadly, the whole of British co-operation, and very much of that of
 other lands, has grown. Their objects were those of other co-operative
 societies of the time, including the ultimate aim of a self-supporting
 community. In this last they never succeeded, nor indeed did they
 attempt it; but they did succeed in vastly improving the position of
 millions of the working classes by enabling them to obtain their
-provisions cheap and pure, to avoid the millstone of debt, to save
+provisions cheap and pure, to avoid the millstone of [[Debt|debt]], to save
 money, to pass from retail to wholesale trade, and from distribution to
 manufacturing, building and house-owning, ship-owning and banking; above
 all to educate themselves, and to live with an ideal.
@@ -241,13 +241,13 @@ vote each, for man or woman; and their members or shareholders, and
 their committee-men or directors, are almost exclusively the more
 provident of the working classes, or belong to the class just above.
 Store societies are of various sizes, from the small village shop to the
-greatest of them all, the Leeds Society, with nearly 30,000 members,
+greatest of them all, the [[Leeds]] Society, with nearly 30,000 members,
 sales exceeding a million and a half sterling, and an elaborate
 organization of branches and manufacturing departments. Their method,
 the "Rochdale system," is as follows, subject to occasional variations.
-Membership is open to all who pay a shilling entrance fee and sign for a
+Membership is open to all who pay a shilling entrance [[Fee|fee]] and sign for a
 £1 share, which can be paid up out of profit. For the most part members
-may at any time withdraw their shares in cash at par. A record of each
+may at any time withdraw their shares in [[Cash|cash]] at par. A record of each
 member's purchases is kept by means of metal tokens or otherwise, and at
 the end of each quarter, after paying a limited interest (never more
 than 5%, and in very many societies less) on shares, and, in some
@@ -262,7 +262,7 @@ the members, in addition to saving the retailer's profit, use their
 Society as a sort of savings bank, where they put away a halfpenny or so
 for every shilling they spend. In addition to retailing, a store often
 manufactures bread, clothes, boots and millinery, sometimes farms land,
-or grinds corn; usually for its own members only, but occasionally for
+or grinds [[Corn|corn]]; usually for its own members only, but occasionally for
 sale to other societies also. Their productions in this way exceed
 £5,000,000 a year. They also invest large and increasing sums in
 building cottages, to let or sell to their members; and they lend still
@@ -281,7 +281,7 @@ wealth produced. With this view they acknowledge the duties of fair pay
 and good conditions for their own employees, and of not buying goods
 made under bad conditions. The best societies further set aside a small
 proportion of their profits for educational purposes, including
-concerts, social gatherings, classes, lectures, reading-rooms and
+[[Concert|concerts]], social gatherings, classes, lectures, reading-rooms and
 libraries, and often make grants to causes with which they sympathize.
 Their members are prominent in local government affairs; co-operative
 candidates are occasionally run for town councils, and often talked of
@@ -293,7 +293,7 @@ attracted by the prosperity of the societies, think chiefly of what they
 themselves gain; but the government of the movement has, hitherto at
 least, been largely in the hands of men of ideas, who believe that
 stores are but a step to co-operative production, and on to the
-"co-operative commonwealth."
+"co-operative [[Commonwealth|commonwealth]]."
 
 It is indeed only when we come to federations of co-operative societies,
 and above all to production, with its large number of employees, that
@@ -321,7 +321,7 @@ each of them the net profits are returned to the stores as a dividend on
 purchases, and thence to the whole body of members; but in the Scottish
 Wholesale a part is also paid to its employees as a dividend upon their
 wages. There are also a few local federations of stores, mostly for
-corn-milling and baking.
+corn-milling and [[Baking|baking]].
 
 
   Co-partnership.
@@ -379,7 +379,7 @@ the produce, and should share with them the profit, responsibilities and
 control. The consumers' party contend that societies of producers make a
 profit out of the consumers, and thus are never truly co-operative,
 while as they multiply they must compete against each other. The
-co-partnership party answer that labour at least helps to make the
+co-partnership party answer that labour at least [[Helps|helps]] to make the
 profit, and that competition, as yet almost insignificant between their
 societies, can be avoided by federating them (a process long ago begun)
 for buying and selling in common, and for other common purposes, while
@@ -423,7 +423,7 @@ except in his capacity as a consumer.
 
 An association of co-operative societies and individuals, called the
 Labour Co-partnership Association, exists to maintain the principle of
-co-partnership in co-operation, and also to promote its gradual adoption
+co-partnership in co-operation, and also to promote its [[Gradual|gradual]] adoption
 in ordinary businesses. Some progress in this latter direction is being
 made, there being a tendency to improve upon simple profit-sharing by
 capitalizing the workman's "bonus," whereby he becomes a shareholder,
@@ -467,12 +467,12 @@ modifications, such as unlimited liability, and selling at cost price,
 or between that and market prices. On the whole we may say that Rochdale
 Co-operation is the most extended and the most typical. It, and the
 workshop movement springing from Fourier, and the socialist co-operation
-of Belgium and elsewhere, are certainly the forms which have most of the
+of [[Belgium]] and elsewhere, are certainly the forms which have most of the
 ideal of democratic equality and social reconstruction. Other forms look
 more to the money benefits accruing to the members, seeking to
 supplement the present order of society, rather than to bring in a new
 order. Among these other forms--separate in origin, in methods, and
-largely in spirit--the most important are credit co-operation, or
+largely in spirit--the most important are [[Credit|credit]] co-operation, or
 people's banking, and agricultural co-operation, two forms until
 recently unknown in the British Islands.
 
@@ -509,14 +509,14 @@ importance, is in particular the mother of credit co-operation.
 
   Raiffeisen loan banks.
 
-In the famine years of 1846 and 1847 and for some years after, Friedrich
+In the famine years of 1846 and 1847 and for some years after, [[Friedrich]]
 Wilhelm Raiffeisen was a burgomaster in the barren Westerwald. The
 people were hopelessly ground down by debt to money-lenders for small
-doles of capital, advanced to purchase stock, or meet times of special
+[[Dole|doles]] of capital, advanced to purchase stock, or meet times of special
 difficulty. It occurred to Raiffeisen that by combining to borrow a
 moderate sum of money on their joint responsibility, and afterwards to
 lend it out among themselves in small sums at a slightly greater rate of
-interest, the peasants might obtain relief from their burden of usury,
+interest, the peasants might obtain relief from their [[Burden|burden]] of usury,
 and at the same time get the capital necessary to make their labour
 productive. Accordingly in 1849 at the little town of Flammersfeld, he
 set up a "Loan Bank." Despite its success, it remained the only one of
@@ -543,7 +543,7 @@ however rich, for any other. Practically all the members see that the
 money is applied as agreed; and, while the loan is often made for a long
 period, a year or two--even for ten or more--so as to repay itself out
 of the profit, power is reserved to call it in at short notice if
-misapplied. Loans are repayable by periodical instalments, but
+misapplied. Loans are repayable by periodical [[Instalment|instalments]], but
 repayments must be made with absolute punctuality. No bills, mortgages
 or other securities are taken, except a note of hand either alone or
 with one or two sureties. There are two committees, one to lend and do
@@ -580,8 +580,8 @@ they have proved admirably suited.
 
 Very different were the people among whom Schulze-Delitzsch established
 his form of co-operative credit; and very different the organization he
-adopted and the results which have flowed from it. In 1850 Franz Hermann
-Schulze was a judge in his native town of Delitzsch, almost at the
+adopted and the results which have flowed from it. In 1850 [[Franz]] [[Hermann]]
+Schulze was a judge in his native town of [[Delitzsch]], almost at the
 middle point of the southern edge of Prussia, and established there his
 first _Vorschussverein_, or Advance-Union. He had been in England and
 knew something of our co-operative movement, but he scarcely seems to
@@ -656,7 +656,7 @@ but it tends to altruism and the union of classes.
 The world has 30,000 co-operative credit societies, not counting
 building societies; and though they are organized in many groups,
 especially in their native Germany, for local reasons, or because of
-some modification, or some compromise between the two systems, the two
+some modification, or some [[Compromise|compromise]] between the two systems, the two
 types really include them all. There is, however, a strong tendency to
 introduce limited liability into various offshoots of the one type and
 the other; even into the orthodox Schulze-Delitzsch banks themselves,
@@ -666,7 +666,7 @@ to America and Asia. In Germany there are some fifteen thousand local,
 and no less than sixty central, co-operative credit associations, which
 lend out £180,000,000 a year including renewals. In Italy, Austria and
 Hungary they are also strong. In 1896 it was estimated that £150,000,000
-a year must be very well within the total amount lent by money
+a year must be very well within the total amount [[Lent|lent]] by money
 co-operation on the continent of Europe; eight years later it could not
 well fall short of £250,000,000, and the amount keeps constantly
 increasing. Of this total only a small percentage represents loans by
@@ -696,7 +696,7 @@ Austria and in many other countries a great deal of similar help has
 been given.
 
 
-  Denmark and agricultural co-operation.
+  [[Denmark]] and agricultural co-operation.
 
 Closely connected with certain developments of credit, and deserving to
 rank as the third, if not the second, great subdivision of co-operation,
@@ -707,8 +707,8 @@ important to say agricultural co-operation and not co-operative
 agriculture, for in spite of some customary mutual help in farm work, in
 spite of several attempts, and some small successes, in co-operative
 farming, the actual cultivation is almost everywhere individualistic.
-The farmer or peasant cultivates alone, or with his family, or servants;
-when he co-operates with his fellows, it is to manufacture, or to
+The [[Farmer|farmer]] or peasant cultivates alone, or with his family, or servants;
+when he co-operates with his [[Fellows|fellows]], it is to manufacture, or to
 market, the products of his farm, or more often to obtain the things he
 needs for his farming, to raise stock, to own expensive machinery in
 common, or insure against risks. By these means the small farmer,
@@ -742,7 +742,7 @@ shareholders have equal rights and equal voting power, whether they own
 one cow or one hundred. Almost every village has its co-operative dairy,
 fitted to deal with the milk of from 400 to 1400, or even 2000 cows.
 They far exceed all the other dairies of Denmark. More than four-fifths
-of all the milk of Denmark is used in them, and they produce butter
+of all the milk of Denmark is used in them, and they produce [[Butter|butter]]
 worth more than nine millions sterling. The profits are divided among
 those who supply the cream, in proportion to the value of their
 supplies--a method of dividing profits characteristic of agricultural
@@ -752,7 +752,7 @@ their produce.
 Side by side with the dairies are other co-operative societies, quite
 independent but largely composed of the same members, for buying
 collectively fodder, manures and other agricultural or household
-requisites, for collecting and exporting eggs, slaughtering hogs and
+requisites, for collecting and exporting [[Egg|eggs]], slaughtering hogs and
 curing bacon, improving the breed of stock, for bee-keeping,
 fruit-growing and so forth. By means of these societies the country has
 been greatly enriched. The farmer not uncommonly belongs to ten
@@ -780,7 +780,7 @@ the yield of the soil, improved the material position of the peasants,
 and drawn rich and poor together. Denmark, once so poor, is now, except
 England, probably the richest country in Europe in proportion to its
 population. Besides Denmark, Germany, France, Italy, Belgium, Holland,
-Finland, Australia, New Zealand, the United States, Canada, Ireland and
+[[Finland]], [[Australia]], New Zealand, the United States, Canada, Ireland and
 many other countries have important developments of agricultural
 co-operation. In Germany, where it is closely connected with credit
 co-operation, it seems to date from 1866 only, yet in forty years
@@ -788,7 +788,7 @@ agricultural co-operative societies have come to number six thousand,
 without counting the agricultural banks, which exceed twice that number.
 There are dairies, societies to purchase farm requisites, societies of
 grape-growers, hop-growers and beetroot-growers, distilleries, labour
-societies, insurance societies, societies to own warehouses and
+societies, [[Insurance|insurance]] societies, societies to own warehouses and
 granaries and to sell produce, to purchase land and resell it in small
 holdings, and even several societies which purchase land to cultivate it
 in common. The close connexion between credit-societies and other
@@ -852,7 +852,7 @@ general interests of the members, the spread of information, and so
 forth. Their principal object however, seems in many cases to be to
 combine their members for the purchase of all farm requisites and
 especially of chemical manures. This they do by collecting, sorting and
-passing on orders. They cannot usually manage selling in common without
+passing on orders. They cannot usually [[Manage|manage]] selling in common without
 the intervention of a society specially registered for that object.
 Beginning only in 1893, their number long ago ran into thousands and
 their membership into hundreds of thousands, drawn from all classes of
@@ -863,7 +863,7 @@ cultivation in common. Thus there are two thousand agricultural banks,
 besides butter factories, distilleries, associations for threshing, for
 sale of fruit and vegetables, for wine-making, oil-pressing, and so on,
 amounting altogether to some hundreds. There are also societies, mostly
-of ancient date, engaged in making Gruyère cheese: a few years ago these
+of ancient date, engaged in making Gruyère [[Cheese|cheese]]: a few years ago these
 numbered 2000, but they are dwindling. Lastly, there are some eight
 thousand mutual insurance societies organized as agricultural
 syndicates.
@@ -982,7 +982,7 @@ Britain.
 Co-operation of all kinds is greatly developed in Italy, but one form is
 specially notable. The _Società di lavoro_ are co-operative labour gangs
 of great importance. They are counted by hundreds, and are found among
-navvies, builders, masons, carriers, stevedores, agricultural labourers
+navvies, builders, masons, [[Carrier|carriers]], stevedores, agricultural labourers
 and other workmen, and have carried out very great works in Italy and in
 foreign countries. They have, for instance, drained lands in the
 Campagna and made a railway in Greece. They differ from productive
@@ -995,7 +995,7 @@ do so for the brief time they are together. In countries like Servia we
 see this ancient, and more or less customary, loose and unstable
 co-operation meeting the modern contractual, permanent co-operation of
 banks and other registered societies. So in Russia, where so large a
-part in the national organization is played by the _Artel_ (see RUSSIA),
+part in the national organization is played by the _[[Artel]]_ (see RUSSIA),
 which may be a transitory co-operative group of workmen undertaking a
 particular piece of work, e.g. to build a house, or a permanent
 association like that of the bank porters combined together to guarantee
@@ -1014,7 +1014,7 @@ in the modern development of agriculture, as in Denmark, Canada, New
 Zealand, Ireland and very many countries, where the state has played a
 great part in performing or assisting functions which neither voluntary
 association nor individual enterprise could well perform alone; in
-providing technical education, expert advisers, exhibitions and prizes;
+providing technical education, [[Expert|expert]] advisers, exhibitions and prizes;
 in distributing information in all forms; in finding out markets,
 controlling railway rates, subsidizing steamboats, and even grading,
 branding, warehousing and freezing produce, and maintaining trade agents
@@ -1037,7 +1037,7 @@ do a very great deal, at least for agricultural co-operation, but only
 on condition that they encourage, and do not undermine, self-help and
 private initiative. Thus while voluntary association is sometimes
 advocated as a step towards, and sometimes on the other hand as a
-substitute for, and bulwark against, state socialism, we find in
+substitute for, and [[Bulwark|bulwark]] against, state socialism, we find in
 practice these two forces working each in its own sphere, and in ways
 complementary one to the other, while underlying and essential to both
 is the force of individual action and self-help.
@@ -1057,30 +1057,30 @@ federate with others--at least with others of their own particular
 shade; so that Wholesales and other federations are found more and more
 in many countries. Since 1895 the co-operators and co-operative
 societies of many far-distant lands--almost of the whole world--have
-been drawn together by the International Co-operative Alliance, a body
+been drawn together by the [[International]] Co-operative Alliance, a body
 which, without attempting to interfere in their differences, collects
 information from all, and distributes it to all, keeps them all in
 touch, and every few years calls their delegates together in congress,
-to discuss their problems, and to remember their common ideals.
+to [[Discus|discuss]] their problems, and to remember their common ideals.
 
   BIBLIOGRAPHY.--International Co-operative Alliance, _International
-  Co-operative Bibliography_ (London, 1906); G. J. Holyoake, _History of
+  Co-operative Bibliography_ (London, 1906); G. J. [[Holyoake]], _History of
   Co-operation_ (London, 1875-1879, new ed., 1906), _History of the
   Rochdale Pioneers_ (London, 1893, new ed., 1900), _Self-Help a Hundred
   Years Ago_ (London, 3rd ed., 1891), _Co-operative Movement of To-day_
-  (London, 1891, new ed., 1896); Lloyd Jones, _Life and Times and
+  (London, 1891, new ed., 1896); [[Lloyd]] Jones, _Life and Times and
   Labours of Robert Owen_ (London, 1890, new ed., 1895); F. Podmore,
-  _Robert Owen_ (London, 1906); E. T. Craig, _History of Ralahine_
+  _Robert Owen_ (London, 1906); E. T. [[Craig]], _History of Ralahine_
   (London, 1882, new ed., 1893); Thomas Hughes and E. V. Neale, _A
-  Manual for Co-operators_ (Manchester, 1881, 1888); Catherine Webb
-  (editor), _Industrial Co-operation_ (Manchester, 1904); Beatrice
+  [[Manual]] for Co-operators_ (Manchester, 1881, 1888); Catherine Webb
+  (editor), _Industrial Co-operation_ (Manchester, 1904); [[Beatrice]]
   Potter (Mrs Sidney Webb), _Co-operative Movement in Great Britain_
   (London, 1891, 1893, 1904); A. H. D. Acland and B. Jones, _Working Men
-  Co-operators_ (1898); Benjamin Jones, _Co-operative Production_
+  Co-operators_ (1898); [[Benjamin]] Jones, _Co-operative Production_
   (London, 1894); C. R. Fay, _Co-operation at Home and Abroad_ (London,
   1908); H. D. Lloyd, _Labour Co-partnership_ (London and New York,
   1898); D. F. Schloss, _Methods of Industrial Remuneration_ (London,
-  2nd ed., 1894); N. P. Gilman, _Profit Sharing_ (London, 1892); C.
+  2nd ed., 1894); N. P. [[Gilman]], _Profit Sharing_ (London, 1892); C.
   Robert, _Guide pratique de la participation_ (Paris, 1892); Aneurin
   Williams, _Twenty-eight Years of Co-partnership at Guise_ (Letchworth,
   1908), _Relations of Co-operative Movement to National and
@@ -1093,7 +1093,7 @@ to discuss their problems, and to remember their common ideals.
   _La Co-opération de production dans l'agriculture_ (Paris, 1896);
   Merlin, _Les Associations ouvrières et patronales_, &c. (Paris, 1900);
   Mabilleau and others, _La Prévoyance sociale en Italie_ (Paris, 1898);
-  Fr. Müller, _Wesen, Grundsätze und Nutzen der Consumvereine_ (Basel,
+  Fr. Müller, _Wesen, Grundsätze und Nutzen der Consumvereine_ ([[Basel]],
   1900). See also the annual Reports of the Government Labour
   Departments, and the _Monthly Bulletin_ of the Internat. Co-op.
   Alliance.     (A. Wi.*)

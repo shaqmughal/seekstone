@@ -21,13 +21,13 @@ to despise the preceptors imposed upon him by the diet, and the
 atmosphere of intrigue and duplicity in which he grew up made him
 precociously experienced in the art of dissimulation. But even his most
 hostile teachers were amazed by the brilliance of his natural gifts,
-and, while still a boy, he possessed that charm of manner which was to
+and, while still a boy, he possessed that [[Charm|charm]] of manner which was to
 make him so fascinating and so dangerous in later life, coupled with the
 strong dramatic instinct which won for him his honourable place in
 Swedish literature. On the whole, Gustavus cannot be said to have been
 well educated, but he read very widely; there was scarce a French author
 of his day with whose works he was not intimately acquainted; while his
-enthusiasm for the new French ideas of enlightenment was as sincere as,
+[[Enthusiasm|enthusiasm]] for the new French ideas of enlightenment was as sincere as,
 if more critical than, his mother's. On the 4th of November 1766,
 Gustavus married Sophia Magdalena, daughter of Frederick V. of Denmark.
 The match was an unhappy one, owing partly to incompatibility of temper,
@@ -45,7 +45,7 @@ dismay me is to see my poor nation so sunk in corruption as to place its
 own felicity in absolute anarchy." From the 4th of February to the 25th
 of March 1771, Gustavus was at Paris, where he carried both the court
 and the city by storm. The poets and the philosophers paid him
-enthusiastic homage, and all the distinguished women of the day
+enthusiastic [[Homage|homage]], and all the distinguished women of the day
 testified to his superlative merits. With many of them he maintained a
 lifelong correspondence. But his visit to the French capital was no mere
 pleasure trip; it was also a political mission. Confidential agents from
@@ -55,7 +55,7 @@ best method of bringing about a revolution in Sweden. Before he
 departed, the French government undertook to pay the outstanding
 subsidies to Sweden unconditionally, at the rate of one and a half
 million livres annually; and the comte de Vergennes, one of the great
-names of French diplomacy, was transferred from Constantinople to
+names of French [[Diplomacy|diplomacy]], was transferred from Constantinople to
 Stockholm. On his way home Gustavus paid a short visit to his uncle,
 Frederick the Great, at Potsdam. Frederick bluntly informed his nephew
 that, in concert with Russia and Denmark, he had guaranteed the
@@ -63,7 +63,7 @@ integrity of the existing Swedish constitution, and significantly
 advised the young monarch to play the part of mediator and abstain from
 violence.
 
-On his return to Sweden Gustavus made a sincere and earnest attempt to
+On his return to Sweden Gustavus made a sincere and [[Earnest|earnest]] attempt to
 mediate between the Hats and Caps who were ruining the country between
 them (see SWEDEN: _History_). On the 21st of June 1771 he opened his
 first parliament in a speech which awakened strange and deep emotions in
@@ -85,7 +85,7 @@ Russian vice-chancellor, Count Nikita Panin, which that patient
 statesman had made it the ambition of his life to realize. Only a swift
 and sudden _coup d'etat_ could save the independence of a country
 isolated from the rest of Europe by a hostile league. At this juncture
-Gustavus was approached by Jakob Magnus Sprengtporten, a Finnish
+Gustavus was approached by [[Jakob]] Magnus Sprengtporten, a Finnish
 nobleman of determined character, who had incurred the enmity of the
 Caps, with the project of a revolution. He undertook to seize the
 fortress of Sveaborg by a _coup de main_, and, Finland once secured,
@@ -130,7 +130,7 @@ hesitation. It absolved them from their allegiance to the estates, and
 bound them solely to obey their lawful king, Gustavus III. Meanwhile the
 senate and the governor-general, Rudbeck, had been arrested and the
 fleet secured. Then Gustavus made a tour of the city and was everywhere
-received by enthusiastic crowds, who hailed him as a deliverer. On the
+received by enthusiastic [[Crowd|crowds]], who hailed him as a deliverer. On the
 evening of the 20th heralds perambulated the streets proclaiming that
 the estates were to meet in the Rikssaal on the following day; every
 deputy absenting himself would be regarded as the enemy of his country
@@ -174,7 +174,7 @@ No during the whole session." Yet, short as the session was, it was
 quite long enough to open the eyes of the deputies to the fact that
 their political supremacy had departed. They had changed places with
 the king. He was now indeed their sovereign lord; and, for all his
-gentleness, the jealousy with which he guarded, the vigour with which he
+gentleness, the [[Jealousy|jealousy]] with which he guarded, the vigour with which he
 enforced the prerogative, plainly showed that he meant to remain so.
 Even the few who were patriotic enough to acquiesce in the change by no
 means liked it. The diet of 1778 had been obsequious; the diet of 1786
@@ -210,11 +210,11 @@ imprudent step of concluding an eight years' defensive alliance with the
 empress, who thereby bound herself to pay her new ally annual subsidies
 amounting to 300,000 roubles.
 
-Gustavus now aimed at forming a league of princes against the Jacobins,
+Gustavus now aimed at forming a league of princes against the [[Jacobins]],
 and every other consideration was subordinated thereto. His profound
 knowledge of popular assemblies enabled him, alone among contemporary
 sovereigns, accurately to gauge from the first the scope and bearing of
-the French Revolution. But he was hampered by poverty and the jealousy
+the [[French Revolution]]. But he was hampered by poverty and the jealousy
 of the other European Powers, and, after showing once more his
 unrivalled mastery over masses of men at the brief Gefle diet (22nd of
 January-24th of February 1792), he fell a victim to a widespread
@@ -227,7 +227,7 @@ III. was indisputably one of the greatest sovereigns of the 18th
 century. Unfortunately his genius never had full scope, and his
 opportunity came too late. Gustavus was, moreover, a most distinguished
 author. He may be said to have created the Swedish theatre, and some of
-the best acting dramas in the literature are by his hand. His historical
+the best acting [[Drama|dramas]] in the literature are by his hand. His historical
 essays, notably the famous anonymous eulogy on Torstenson crowned by the
 Academy, are full of feeling and exquisite in style,--his letters to his
 friends are delightful. Every branch of literature and art interested

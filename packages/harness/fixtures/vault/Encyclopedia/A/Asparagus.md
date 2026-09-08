@@ -25,7 +25,7 @@ genus, sometimes regarded as a distinct genus _Myrsiphyllum_, the
 cladodes are flattened. The plants often climb or scramble, in which
 they are helped by the development of the scale-leaves into persistent
 spines. The flowers are small, whitish and pendulous; the fruit is a
-berry.
+[[Berry|berry]].
 
 Several of the climbing species are grown in greenhouses for their
 delicate, often feathery branches, which are also valuable for cutting;
@@ -38,7 +38,7 @@ their delicate flavour and diuretic virtues. The plant, which is a
 native of the north temperate zone of the Old World, grows wild on the
 south coast of England; and on the waste steppes of Russia it is so
 abundant that it is eaten by cattle like grass. In common with the
-marsh-mallow and some other plants, it contains asparagine or aspartic
+marsh-mallow and some other plants, it contains [[Asparagine|asparagine]] or aspartic
 acidamide. The roots of asparagus were formerly used as an aperient
 medicine, and the fruits were likewise employed as a diuretic. Under the
 name of Prussian asparagus, the spikes of an allied plant, _Ornithogalum
@@ -70,7 +70,7 @@ near Paris, has acquired much notoriety for its large size and excellent
 quality. The French growers plant in trenches instead of raised beds.
 The most common method of forcing asparagus is to prepare, early in the
 year, a moderate hot-bed of stable litter with a bottom heat of 70 deg.,
-and to cover it with a common frame. After the heat of fermentation has
+and to cover it with a common [[Frame|frame]]. After the heat of fermentation has
 somewhat subsided, the surface of the bed is covered with a layer of
 light earth or exhausted tan-bark, and in this the roots of strong
 mature plants are closely placed. The crowns of the roots are then
@@ -89,10 +89,10 @@ been known in Europe since early times, and was introduced into America
 about 1856; the rarer _C. duodecimpunctata_ (sometimes called the "red"
 to distinguish it from the "blue" species) was detected in America in
 1881. For an admirable account of these pests see F.H. Chittenden,
-_Circular 102 of the U.S. Dep. of Agriculture, Bureau of Entomology_,
+_Circular 102 of the U.S. Dep. of Agriculture, [[Bureau]] of [[Entomology]]_,
 May 1908.
 
-The "asparagus-stone" is a form of apatite, simulating asparagus in
+The "asparagus-stone" is a form of [[Apatite|apatite]], simulating asparagus in
 colour.
 
 ## References

@@ -6,7 +6,7 @@ topic: biography
 
 # Axholme
 
-AXHOLME, an island in the north-west part of Lincolnshire, England, lying
+AXHOLME, an island in the north-west part of [[Lincolnshire]], England, lying
 between the rivers Trent, Idle and Don, and isolated by drainage channels
 connected with these rivers. It consists mainly of a plateau of slight
 elevation, rarely exceeding 100 ft., and comprises the parishes of
@@ -22,7 +22,7 @@ measures adopted by the English peasantry to expel them, retained their
 ground in sufficient numbers to affect the physical appearance and the
 accent of the inhabitants to this day. The principal towns in the isle are
 Crowle (pop. 2769) and Epworth. The Axholme joint light railway runs north
-and south through the isle, connecting Goole with Haxey junction; and the
+and south through the isle, connecting [[Goole]] with Haxey junction; and the
 Great Northern, Great Eastern and Great Central lines also afford
 communications. The land is extremely fertile. The name, properly Axeyholm
 (cf. Haxey), is hybrid, _Ax_ being the Celtic _uisg_, water; _ey_ the

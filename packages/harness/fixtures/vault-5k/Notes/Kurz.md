@@ -1,6 +1,6 @@
 # Kurz
 
-KURZ, HERMANN (1813-1873), German poet and novelist, was born at
+KURZ, [[Hermann|HERMANN]] (1813-1873), German poet and novelist, was born at
 Reutlingen on the 30th of November 1813. Having studied at the
 theological seminary at Maulbronn and at the university of Tübingen, he
 was for a time assistant pastor at Ehningen. He then entered upon a

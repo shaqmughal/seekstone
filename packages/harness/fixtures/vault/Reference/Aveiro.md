@@ -1,13 +1,13 @@
 # Aveiro
 
 AVEIRO, a seaport, episcopal see, and the capital of an administrative
-district, formerly included in the province of Beira, Portugal; on the
+district, formerly included in the province of [[Beira]], Portugal; on the
 river Vouga, and the Lisbon-Oporto railway. Pop. (1900) 9979. Aveiro is
-built on the southern shore of a marshy lagoon, containing many small
+built on the southern shore of a marshy [[Lagoon|lagoon]], containing many small
 islands, and measuring about 15 m. from north to south, with an average
-breadth of about 1 m. The Barra Nova, an artificial canal about 33 ft.
+breadth of about 1 m. The [[Barra]] Nova, an artificial canal about 33 ft.
 deep, was constructed between 1801 and 1808, and gives access to the
-Atlantic ocean. The local industries include the preparation of sea-salt,
+[[Atlantic Ocean|Atlantic ocean]]. The local industries include the preparation of sea-salt,
 the catching and curing of fish, especially sardines and oysters, and the
 gathering of aquatic plants (_moliço_). There is also a brisk trade in
 wine, oil and fruit; while the Aveiro district contains copper and lead
@@ -19,7 +19,7 @@ fishing-grounds of Newfoundland; and it soon became famous for its fleet of
 more than sixty vessels, which sailed yearly to that country, and returned
 laden with dried codfish. During the same century the cathedral was built,
 and the city was made a duchy. The title "duke of Aveiro" became extinct
-when its last holder, Dom José Mascarenhas e Lancaster, was burned alive
+when its last holder, Dom José Mascarenhas e [[Lancaster]], was burned alive
 for high treason, in 1759. The administrative district of Aveiro coincides
 with the north-western part of the province of Beira; pop. (1900) 303,169;
 area, 1065 sq. m.

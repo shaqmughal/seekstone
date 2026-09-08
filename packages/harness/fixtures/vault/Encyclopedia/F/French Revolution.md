@@ -14,7 +14,7 @@ character is, indeed, implied in the name by which it is known; for
 France has experienced many revolutions both before and since that of
 1789, but the name "French Revolution," or simply "the Revolution,"
 without qualification, is applied to this one alone. The causes which
-led to it: the gradual decay of the institutions which France had
+led to it: the [[Gradual|gradual]] decay of the institutions which France had
 inherited from the feudal system, the decline of the centralized
 monarchy, and the immediate financial necessities that compelled the
 assembling of the long neglected states-general in 1789, are dealt with
@@ -22,15 +22,15 @@ in the article on FRANCE: _History_. The successive constitutions, and
 the other legal changes which resulted from it, are also discussed in
 their general relation to the growth of the modern French polity in the
 article FRANCE (_Law and Institutions_). The present article deals with
-the progress of the Revolution itself from the convocation of the
+the progress of the Revolution itself from the [[Convocation|convocation]] of the
 states-general to the coup d'etat of the 18th Brumaire which placed
-Napoleon Bonaparte in power.
+Napoleon [[Bonaparte]] in power.
 
 
   Opening of the States-General.
 
 The elections to the states-general of 1789 were held in unfavourable
-circumstances. The failure of the harvest of 1788 and a severe winter
+circumstances. The failure of the [[Harvest|harvest]] of 1788 and a severe winter
 had caused widespread distress. The government was weak and despised,
 and its agents were afraid or unwilling to quell outbreaks of disorder.
 At the same time the longing for radical reform and the belief that it
@@ -66,13 +66,13 @@ step towards making them all members of one House. It resolved to hold
 its meetings in the Salle des Menus Plaisirs, whereas the nobles and the
 clergy met in smaller apartments set aside for their exclusive use. It
 refrained from taking any step which might have implied that it was an
-organized assembly, and persevered in regarding itself as a mere crowd
+organized assembly, and persevered in regarding itself as a mere [[Crowd|crowd]]
 of individual members incapable of transacting business. Meanwhile the
 clergy and the nobles began a separate verification of their powers.
 But a few of the nobles and a great many of the clergy voted against
 this procedure. On the 7th the Tiers Etat sent deputations to exhort the
 other estates to union, while the clergy sent a deputation to it with
-the proposal that each estate should name commissioners to discuss the
+the proposal that each estate should name commissioners to [[Discus|discuss]] the
 best method of verifying powers. The Tiers Etat accepted the proposal
 and conferences were held, but without result. It then made another
 appeal to the clergy which was almost successful. The king interposed
@@ -83,18 +83,18 @@ On the 10th of June Sieyes moved that the Tiers Etat should for the last
 time invite the First and Second Estates to join in the verification of
 powers and announce that, whether they did or not, the work of verifying
 would begin forthwith. The motion was carried by an immense majority. As
-there was no response, the Tiers Etat on the 12th named Bailly
-provisional president and commenced verification. Next day three cures
+there was no response, the Tiers Etat on the 12th named [[Bailly]]
+provisional president and commenced verification. Next day three [[Cures|cures]]
 of Poitou came to have their powers verified. Other clergymen followed
 later. When the work of verification was over, a title had to be found
 for the body thus created, which would no longer accept the style of the
 Tiers Etat. On the 15th Sieyes proposed that they should entitle
 themselves the Assembly of the known and verified representatives of the
 French nation. Mirabeau, Mounier and others proposed various
-appellations. But success was reserved for Legrand, an obscure deputy
+appellations. But success was reserved for Legrand, an obscure [[Deputy|deputy]]
 who proposed the simple name of National Assembly. Withdrawing his own
 motion, Sieyes adopted Legrand's suggestion, which was carried by 491
-votes to 90. The Assembly went on to declare that it placed the debts of
+votes to 90. The Assembly went on to declare that it placed the [[Debt|debts]] of
 the crown under the safeguard of the national honour and that all
 existing taxes, although illegal as having been imposed without the
 consent of the people, should continue to be paid until the day of
@@ -114,7 +114,7 @@ This boldness was rewarded, for on the 19th the clergy decided by a
 majority of one in favour of joint verification. On the same day the
 nobles voted an address to the king condemning the action of the Tiers
 Etat. Left to himself, Louis might have been too inert for resistance.
-But the queen and his brother, the count of Artois, with some of the
+But the queen and his brother, the count of [[Artois]], with some of the
 ministers and courtiers, urged him to make a stand. A Seance Royale was
 notified for the 22nd and workmen were sent to prepare the Salle des
 Menus Plaisirs for the ceremony. On the 20th Bailly and the deputies
@@ -136,7 +136,7 @@ nobles retired to their separate chambers. But the rest, together with
 the Tiers Etat, remained, and Mirabeau declared that, as they had come
 by the will of the nation, force only should make them withdraw.
 "Gentlemen," said Sieyes, "you are to-day what you were yesterday." With
-one voice the Assembly proclaimed its adhesion to its former decrees and
+one voice the Assembly proclaimed its adhesion to its former [[Decree|decrees]] and
 the inviolability of its members. In Versailles and in Paris popular
 feeling was clamorous for the Assembly and against the court. During the
 next few days many of the clergy and nobles, including the archbishop
@@ -146,8 +146,8 @@ Seance Royale. On the 27th he wrote to those clerical and noble deputies
 who still held out, urging submission. By the 2nd of July the joint
 verification of powers was completed. The last trace of the historic
 States-General disappeared and the National Assembly was perfect. On the
-same day it claimed an absolute discretion by a decree that the mandates
-of the electors were not binding on its members.
+same day it claimed an absolute discretion by a decree that the [[Mandate|mandates]]
+of the [[Electors|electors]] were not binding on its members.
 
 
   Dismissal of Necker.
@@ -165,12 +165,12 @@ capital had long been in a dangerous condition. Bread was dear and
 employment was scarce. The measures taken to relieve distress had
 allured a multitude of needy and desperate men from the surrounding
 country. Among the middle class there already existed a party,
-consisting of men like Danton or Camille Desmoulins, which was prepared
+consisting of men like Danton or Camille [[Desmoulins]], which was prepared
 to go much further than any of the leaders of the Assembly. The rich
 citizens were generally fund-holders, who regarded the Assembly as the
-one bulwark against a public bankruptcy. The duke of Orleans, a weak and
+one [[Bulwark|bulwark]] against a public [[Bankruptcy|bankruptcy]]. The duke of Orleans, a weak and
 dissolute but ambitious man, had conceived the hope of supplanting his
-cousin on the throne. He strained his wealth and influence to recruit
+[[Cousin|cousin]] on the throne. He strained his wealth and influence to recruit
 followers and to make mischief. The gardens of his residence, the Palais
 Royal, became the centre of political agitation. Ever since the
 elections virtual freedom of the press and freedom of speech had
@@ -184,14 +184,14 @@ the populace.
 
   Rioting in Paris.
 
-  Fall of the Bastille, July 14, 1789.
+  Fall of the [[Bastille]], July 14, 1789.
 
 On the 12th of July Camille Desmoulins announced the dismissal of Necker
 to the crowd in the Palais Royal. Warmed by his eloquence, they sallied
 into the street. Part of Broglie's troops occupied the Champs Elysees
 and the Place Louis Quinze. After one or two petty encounters with the
 mob they were withdrawn, either because their temper was uncertain or
-because their commanders shunned responsibility. Paris was thus left to
+because their [[Commander|commanders]] shunned responsibility. Paris was thus left to
 the rioters, who seized arms wherever they could find them, broke open
 the jails, burnt the octroi barriers and soon had every man's life and
 goods at their discretion. Citizens with anything to lose were driven to
@@ -208,7 +208,7 @@ project of a civic guard was then adopted. The insurrection, however,
 ran its course unchecked. Crowds of deserters from the regular troops
 swelled the ranks of the insurgents. They attacked the Hotel des
 Invalides and carried off all the arms which were stored there. With the
-same object they assailed the Bastille. The garrison was small and
+same object they assailed the Bastille. The [[Garrison|garrison]] was small and
 disheartened, provisions were short, and after some hours' fighting De
 Launay the governor surrendered on promise of quarter. He and several of
 his men were, notwithstanding, butchered by the mob before they could be
@@ -218,7 +218,7 @@ the 15th he entered the hall of the Assembly to announce that the troops
 would be withdrawn. Immediately afterwards he dismissed his new
 ministers and recalled Necker. Thereupon the princes and courtiers most
 hostile to the National Assembly, the count of Artois, the prince of
-Conde, the duke of Bourbon and many others, feeling themselves no longer
+Conde, the duke of [[Bourbon]] and many others, feeling themselves no longer
 safe, quitted France. Their departure is known as the first emigration.
 
 
@@ -231,7 +231,7 @@ the fall of absolute monarchy, and the victory of the insurgents had
 momentous consequences. Recognizing the 300 electors as a temporary
 municipal government, the Assembly sent a deputation to confer with them
 at the Hotel de Ville, and on a sudden impulse one of these deputies,
-Bailly, lately president of the Assembly, was chosen to be mayor of
+Bailly, lately president of the Assembly, was chosen to be [[Mayor|mayor]] of
 Paris. The marquis Lafayette, doubly popular as a veteran of the
 American War and as one of the nobles who heartily upheld the cause of
 the Assembly, was chosen commandant of the new civic force,
@@ -245,7 +245,7 @@ stormed and burnt the houses of the _seigneurs_, taking peculiar care to
 destroy their title-deeds. Some of the _seigneurs_ were murdered and the
 rest were driven into the towns or across the frontier. Amid the
 universal confusion the old administrative system vanished. The
-intendants and sub-delegates quitted or were driven from their posts.
+[[Intendant|intendants]] and sub-delegates quitted or were driven from their posts.
 The old courts of justice, whether royal or feudal, ceased to act. In
 many districts there was no more police, public works were suspended and
 the collection of taxes became almost impossible. The insurrection of
@@ -256,13 +256,13 @@ July really ended the _ancien regime_.
 
 Disorder in the provinces led directly to the proceedings on the famous
 night of the 4th of August. While the Assembly was considering a
-declaration which might calm revolt, the vicomte de Noailles and the duc
+[[Declaration|declaration]] which might [[Calm|calm]] revolt, the vicomte de Noailles and the duc
 d'Aiguillon moved that it should proclaim equality of taxation and the
-suppression of feudal burdens. Other deputies rose to demand the repeal
-of the game laws, the enfranchisement of such serfs as were still to be
+suppression of feudal [[Burden|burdens]]. Other deputies rose to demand the repeal
+of the [[Game|game]] laws, the enfranchisement of such serfs as were still to be
 found in France, and the abolition of tithes and of feudal courts and to
 renounce all privileges, whether of classes, of cities, or of provinces.
-Amid indescribable enthusiasm the Assembly passed resolution after
+Amid indescribable [[Enthusiasm|enthusiasm]] the Assembly passed resolution after
 resolution embodying these changes. The resolutions were followed by
 decrees sometimes hastily and unskilfully drawn. In vain Sieyes remarked
 that in extinguishing tithes the Assembly was making a present to every
@@ -273,7 +273,7 @@ distinction between feudal claims which did and did not carry a moral
 claim to compensation. But they were embarrassed by the wording of their
 own decrees and forestalled by the violence of the people. The
 proceedings of the 4th of August issued in a wholesale transfer of
-property from one class to another without any indemnity for the losers.
+property from one class to another without any [[Indemnity|indemnity]] for the losers.
 
 
   Parties in the Assembly.
@@ -284,14 +284,14 @@ Right, who desired to keep the government as it stood, were a mere
 handful. The Right who wanted to revive, as they said, the ancient
 constitution, in other words, to limit the king's power by periodic
 States-General of the old-fashioned sort, were more numerous and had
-able chiefs in Cazales and Maury, but strove in vain against the spirit
+able chiefs in Cazales and [[Maury]], but strove in vain against the spirit
 of the time. The Right Centre, sometimes called the Monarchiens, were a
 large body and included several men of talent, notably Mounier and
 Malouet, as well as many men of rank and wealth. They desired a
 constitution like that of England which should reserve a large
 executive power to the king, while entrusting the taxing and legislative
 powers to a modern parliament. The Left or Constitutionals, known
-afterwards as the Feuillants, among whom Barnave and Charles and
+afterwards as the [[Feuillants]], among whom [[Barnave]] and Charles and
 Alexander Lameth were conspicuous, also wished to preserve monarchy but
 disdained English precedent. They were possessed with feelings then
 widespread, weariness of arbitrary government, hatred of ministers and
@@ -340,11 +340,11 @@ that city. The scarcity of bread was set down to conspirators against
 the Revolution. Riots were frequent and persons supposed hostile to the
 Assembly and the nation were murdered with impunity. The king still had
 counsellors who wished for his departure as a means to regaining freedom
-of action. At the end of September the Flanders regiment came to
-Versailles to reinforce the Gardes du Corps. The officers of the Gardes
+of action. At the end of September the [[Flanders]] regiment came to
+Versailles to reinforce the Gardes du [[Corps]]. The officers of the Gardes
 du Corps entertained the officers of the Flanders regiment and of the
-Versailles National Guard at dinner in the palace. The king, queen and
-dauphin visited the company. There followed a vehement outbreak of
+Versailles National Guard at [[Dinner|dinner]] in the palace. The king, queen and
+[[Dauphin|dauphin]] visited the company. There followed a vehement outbreak of
 loyalty. Rumour enlarged the incident into a military plot against
 freedom. Those who wanted a more thorough revolution wrought up the
 crowd and even respectable citizens wished to have the king among them
@@ -353,13 +353,13 @@ gathered to assault the Hotel de Ville was diverted into a march on
 Versailles. Lafayette was slow to follow it and, when he arrived, took
 insufficient precautions. At daybreak on the 6th some of the rioters
 made their way into the palace and stormed the apartment of the queen
-who escaped with difficulty. At length the National Guards arrived and
+who escaped with difficulty. At length the National [[Guards]] arrived and
 the mob was quieted by the announcement that the king had resolved to go
 to Paris. The Assembly declared itself inseparable from the king's
 person. Louis and his family reached Paris on the same evening and took
 up their abode in the Tuileries. A little later the Assembly established
 itself in the riding school of the palace. Thenceforward the king and
-queen were to all intents prisoners. The Assembly itself was subject to
+queen were to all [[Intent|intents]] prisoners. The Assembly itself was subject to
 constant intimidation. Many members of the Right gave up the struggle
 and emigrated, or at least withdrew from attendance, so that the Left
 became supreme.
@@ -413,7 +413,7 @@ after. Ministers excluded from the House being necessarily objects of
 suspicion, the Assembly was careful to allow them the least possible
 power. The old provinces were abolished, and France was divided anew
 into eighty departments. Each department was subdivided into districts,
-cantons and communes. The main business of administration, even the
+cantons and [[Commune|communes]]. The main business of administration, even the
 levying of taxes, was entrusted to the elective local authorities. The
 judicature was likewise made elective. The army and the navy were so
 organized as to leave the king but a small share in appointing officers
@@ -433,7 +433,7 @@ even at the cost of having no effective national government.
 The distrust which the Assembly felt for the actual ministers led it to
 undertake the business of government as well as the business of reform.
 There were committees for all the chief departments of state, a
-committee for the army, a committee for the navy, another for diplomacy,
+committee for the army, a committee for the navy, another for [[Diplomacy|diplomacy]],
 another for finance. These committees sometimes asked the ministers for
 information, but rarely took their advice. Even Necker found the
 Assembly heedless of his counsels. The condition of the treasury became
@@ -445,9 +445,9 @@ livres and then a loan of 80,000,000 livres. The public having shown no
 eagerness to subscribe, Necker proposed that every man should be invited
 to make a patriotic contribution of one-fourth of his income. This
 expedient also failed. On the 10th of October 1789 Talleyrand, bishop of
-Autun, proposed that the Assembly should take possession of the lands of
+[[Autun]], proposed that the Assembly should take possession of the lands of
 the church. In November the Assembly enacted that they should be at the
-disposal of the nation, which would provide for the maintenance of the
+disposal of the nation, which would provide for the [[Maintenance|maintenance]] of the
 clergy. Since the church lands were supposed to occupy one-fifth of
 France, the Assembly thought that it had found an inexhaustible source
 of public wealth. On the security of the church lands it based a paper
@@ -456,7 +456,7 @@ amount of 400,000,000 livres. As the revenue still declined and the
 reforms enacted by the Assembly involved a heavy outlay, it recurred
 again and again to this expedient. Before its dissolution the Assembly
 had authorized the creation of 1,800,000,000 livres of assignats and the
-depreciation of its paper had begun. Finding that he had lost all credit
+depreciation of its paper had begun. Finding that he had lost all [[Credit|credit]]
 with the Assembly, Necker resigned office and left France in September
 1790.
 
@@ -470,25 +470,25 @@ municipal authorities throughout France. They really governed so far as
 there was any government. Often full of public spirit, they lacked
 experience and in a time of peculiar difficulty had no guide save their
 own discretion. They opened letters, arrested suspects, controlled the
-trade in corn, and sent their National Guards on such errands as they
+trade in [[Corn|corn]], and sent their National Guards on such errands as they
 thought proper. The political clubs which sprang up all over the country
 often presumed to act as though they were public authorities (see
-JACOBINS). The revolutionary journalists, Desmoulins in his _Revolutions
-de France et de Brabant_, Loustallot in his _Revolutions de Paris_,
-Marat in his _Ami du peuple_, continued to feed the fire of discord.
+[[Jacobins|JACOBINS]]). The revolutionary journalists, Desmoulins in his _Revolutions
+de France et de [[Brabant]]_, Loustallot in his _Revolutions de Paris_,
+[[Marat]] in his _Ami du peuple_, continued to feed the fire of discord.
 Amid this anarchy it became a practice for the National Guards of
 different districts to form federations, that is, to meet and swear
 loyalty to each other and obedience to the laws made by the National
 Assembly. At the suggestion of the municipality of Paris the Assembly
 decreed a general federation of all France, to be held on the
 anniversary of the fall of the Bastille. The ceremony took place in the
-Champ de Mars (July 14, 1790) in presence of the king, the queen, the
+Champ de [[Mars]] (July 14, 1790) in presence of the king, the queen, the
 Assembly, and an enormous concourse of spectators. It was attended by
 deputations from the National Guards in every part of the kingdom, from
 the regular regiments, and from the crews of the fleet. Talleyrand
 celebrated Mass, and Lafayette was the first to swear fidelity to the
 Assembly and the nation. In this gathering the provincial deputations
-caught the revolutionary fever of Paris. Still graver was the effect
+caught the revolutionary [[Fever|fever]] of Paris. Still graver was the effect
 upon the regular army. It had been disaffected since the outbreak of the
 Revolution. The rank and file complained of their food, their lodging
 and their pay. The non-commissioned officers, often intelligent and
@@ -499,7 +499,7 @@ the soldiers were drawn into the political clubs, and named regimental
 committees to defend their interests. Not content with asking for
 redress of grievances, they sometimes seized the regimental chest or
 imprisoned their officers. In August a formidable outbreak at Nancy was
-only quelled with much loss of life. Desertion became more frequent than
+only quelled with much loss of life. [[Desertion]] became more frequent than
 ever, and the officers, finding their position unbearable, began to
 emigrate. Similar causes produced an even worse effect upon the navy.
 
@@ -527,7 +527,7 @@ should swear to its observance. As the constitution implicitly abrogated
 the papal authority and entrusted the choice of bishops and cures to
 electors who often were not Catholics, most of the clergy declined to
 swear and lost their preferments. Their places were filled by election.
-Thenceforwards the clergy were divided into hostile factions, the
+Thenceforwards the clergy were divided into hostile [[Faction|factions]], the
 Constitutionals and the Nonjurors. As the generality of Frenchmen at
 that time were orthodox although not zealous Catholics, the Nonjurors
 carried with them a large part of the laity. The Assembly was misled by
@@ -543,7 +543,7 @@ to set an example of suppressing slavery, it took measures which
 prepared a terrible negro insurrection in St Domingo. With regard to
 foreign relations the Assembly showed itself well-meaning but
 indiscreet. It protested in good faith that it desired no conquests and
-aimed only at peace. Yet it laid down maxims which involved the utmost
+aimed only at peace. Yet it laid down [[Maxims|maxims]] which involved the utmost
 danger of war. It held that no treaty could be binding without the
 national consent. As this consent had not been given to any existing
 treaty, they were all liable to be revised by the French government
@@ -553,7 +553,7 @@ tenures in France, it ignored the fact that the rights of certain German
 princes over lands in Alsace were guaranteed by the treaties of
 Westphalia. It offered them compensation in money, and when this was
 declined, took no heed of their protests. Again, in the papal territory
-of Avignon a large number of the inhabitants declared for union with
+of [[Avignon]] a large number of the inhabitants declared for union with
 France. The Assembly could hardly be restrained by Mirabeau from acting
 upon their vote and annexing Avignon. Some time after his death it was
 annexed. The other states of Europe did not admit the doctrines of the
@@ -577,13 +577,13 @@ caused the Revolution. They ascribed all their misfortunes to the work
 of a malignant faction, and believed that, if they could escape from
 Paris, a display of force by friendly powers would enable them to
 restore the supremacy of the crown. But no foreign ruler, not even the
-emperor Leopold II., gave the king or queen any encouragement. Whatever
+emperor [[Leopold]] II., gave the king or queen any encouragement. Whatever
 secrecy they might observe, the adherents of the Revolution divined
 their wish to escape. When Louis tried to leave the Tuileries for St
-Cloud at Easter 1791, in order to enjoy the ministrations of a nonjuring
+Cloud at [[Easter]] 1791, in order to enjoy the ministrations of a nonjuring
 priest, the National Guards of Paris would not let him budge. Mirabeau,
 who had always dissuaded the king from seeking foreign help, died on the
-2nd of April. Finally the king and queen resolved to fly to the army of
+2nd of April. Finally the king and queen resolved to [[Fly|fly]] to the army of
 the East, which the marquis de Bouille had in some measure kept under
 discipline. Sheltered by him they could await foreign succour or a
 reaction at home. On the evening of the 20th of June they escaped from
@@ -598,11 +598,11 @@ It was no longer possible to pretend that the Revolution had been made
 with the free consent of the king. Some Republicans called for his
 deposition. Afraid to take a course which involved danger both at home
 and abroad, the Assembly decreed that Louis should be suspended from his
-office. The club of the Cordeliers (q.v.), led by Danton, demanded not
+office. The club of the [[Cordeliers]] (q.v.), led by Danton, demanded not
 only his deposition but his trial. A petition to that effect having been
 exposed for signature on the altar in the Champ de Mars, a disturbance
 ensued and the National Guard fired on the crowd, killing a few and
-wounding many. This incident afterwards became known as the massacre of
+wounding many. This incident afterwards became known as the [[Massacre|massacre]] of
 the Champ de Mars. On the other hand, the leaders of the Left, Barnave
 and the Lameths, felt that they had weakened the executive power too
 much. They would gladly have come to an understanding with the king and
@@ -654,13 +654,13 @@ was drawn from the middle class. The members were generally young, and,
 since none had sat in the previous Assembly, they were wholly without
 experience. The Right consisted of the Feuillants (q.v.). They numbered
 about 160, and among them were some able men, such as Matthieu Dumas and
-Bigot de Preamenau, but they were guided chiefly by persons outside the
+[[Bigot]] de Preamenau, but they were guided chiefly by persons outside the
 House, because incapable of re-election, Barnave, Duport and the
 Lameths. The Left consisted of the Jacobins, a term which still included
-the party afterwards known as the Girondins or Girondists (q.v.)--so
+the party afterwards known as the Girondins or [[Girondists]] (q.v.)--so
 termed because several of their leaders came from the region of the
-Gironde in southern France. They numbered about 330. Among the extreme
-Left sat Cambon, Couthon, Merlin de Thionville. The Girondins could
+[[Gironde]] in southern France. They numbered about 330. Among the extreme
+Left sat Cambon, [[Couthon]], Merlin de Thionville. The Girondins could
 claim the most brilliant orators, Vergniaud, Guadet, Isnard. Inferior to
 these men in talent, Brissot de Warville, a restless pamphleteer,
 exerted more influence over the party which has sometimes gone by his
@@ -677,13 +677,13 @@ The Left had three objects of enmity: first, the king, the queen and the
 royal family; secondly, the _emigres_; and thirdly, the clergy. The king
 could not like the new constitution, although, if left to himself,
 indolence and good nature might have rendered him passive. The queen
-throughout had only one thought, to shake off the impotence and
+throughout had only one thought, to shake off the [[Impotence|impotence]] and
 humiliation of the crown; and for this end she still clung to the hope
 of foreign succour and corresponded with Vienna. Those _emigres_ who had
-assembled in arms on the territories of the electors of Mainz and Treves
+assembled in arms on the territories of the electors of [[Mainz]] and Treves
 (Trier) and in the Austrian Netherlands had put themselves in the
 position of public enemies. Their chiefs were the king's brothers, who
-affected to consider Louis as a captive and his acts as therefore
+affected to consider Louis as a [[Captive|captive]] and his acts as therefore
 invalid. The count of Provence gave himself the airs of a regent and
 surrounded himself with a ministry. The _emigres_ were not, however,
 dangerous. They were only a few thousand strong; they had no competent
@@ -692,14 +692,14 @@ they abused. The nonjuring clergy, although harassed by the local
 authorities, kept the respect and confidence of most Catholics. No acts
 of disloyalty were proved against them, and commissioners of the
 National Assembly reported to its successor that their flocks only
-desired to be let alone. But the anti-clerical bias of the Legislative
+desired to be let alone. But the anti-clerical [[Bias|bias]] of the Legislative
 Assembly was too strong for such a policy.
 
 The king's ministers, named by him and excluded from the Assembly, were
 mostly persons of little mark. Montmorin gave up the portfolio of
 foreign affairs on the 31st of October and was succeeded by De Lessart.
 Cahier de Gerville was minister of the interior; Tarbe, minister of
-finance; and Bertrand de Molleville, minister of marine. But the only
+finance; and [[Bertrand]] de Molleville, minister of marine. But the only
 minister who influenced the course of affairs was the comte de Narbonne,
 minister of war.
 
@@ -732,22 +732,22 @@ most intelligent. He had skilfully extricated himself from the
 embarrassments at home and abroad left by his predecessor Joseph. He was
 bound by family ties to Louis, and he was obliged, as chief of the Holy
 Roman Empire, to protect the border princes. On the other hand, he
-understood the weakness of the Habsburg monarchy. He knew that the
+understood the weakness of the [[Habsburg]] monarchy. He knew that the
 Austrian Netherlands, where he had with difficulty restored his
 authority, were full of friends of the Revolution and that a French army
 would be welcomed by many Belgians. He despised the weakness and the
 folly of the _emigres_ and excluded them from his councils. He earnestly
 desired to avoid a war which might endanger his sister or her husband.
 In August 1791 he had met Frederick William II. of Prussia at Pillnitz
-near Dresden, and the two monarchs had joined in a declaration that they
+near [[Dresden]], and the two monarchs had joined in a declaration that they
 considered the restoration of order and of monarchy in France an object
 of interest to all sovereigns. They further declared that they would be
-ready to act for this purpose in concert with the other powers. This
+ready to act for this purpose in [[Concert|concert]] with the other powers. This
 declaration appears to have been drawn from Leopold by pressure of
 circumstances. He well knew that concerted action of the powers was
 impossible, as the English government had firmly resolved not to meddle
 with French affairs. After Louis had accepted the constitution, Leopold
-virtually withdrew his declaration. Nevertheless it was a grave error of
+virtually withdrew his declaration. Nevertheless it was a grave [[Error|error]] of
 judgment and contributed to the approaching war.
 
 In France many persons desired war for various reasons. Narbonne trusted
@@ -796,7 +796,7 @@ France Narbonne failed to carry the king or his colleagues along with
 him. The king took courage to dismiss him on the 9th of March,
 whereupon the assembly testified its confidence in Narbonne. De Lessart
 having incurred its anger by the tameness of his replies to Austrian
-dictation, the Assembly voted his impeachment.
+dictation, the Assembly voted his [[Impeachment|impeachment]].
 
 
   War declared against Austria.
@@ -804,23 +804,23 @@ dictation, the Assembly voted his impeachment.
 The king, seeing no other course open, formed a new ministry which was
 chiefly Girondin. Roland became minister of the interior, Claviere of
 finance, De Grave of war, and Lacoste of marine. Far abler and more
-resolute than any of these men was Dumouriez, the new minister for
+resolute than any of these men was [[Dumouriez]], the new minister for
 foreign affairs. A soldier by profession, he had been employed in the
 secret diplomacy of Louis XV. and had thus gained a wide knowledge of
-international politics. He stood aloof from parties and had no rigid
+[[International|international]] politics. He stood aloof from parties and had no rigid
 principles, but held views closely resembling those of Narbonne. He
 wished for a war with Austria which should restore some influence to the
 crown and make himself the arbiter of France. The king bent to
 necessity, and on the 20th of April came to the Assembly with the
 proposal that war should be declared against Austria. It was carried by
 acclamation. Dumouriez intended to begin with an invasion of the
-Austrian Netherlands. As this would awaken English jealousy, he sent
+Austrian Netherlands. As this would awaken English [[Jealousy|jealousy]], he sent
 Talleyrand to London with assurances that, if victorious, the French
 would annex no territory.
 
 It was designed that the French should invade the Netherlands at three
 points simultaneously. Lafayette was to march against Namur, Biron
-against Mons, and Dillon against Tournay. But the first movement
+against Mons, and [[Dillon]] against Tournay. But the first movement
 disclosed the miserable state of the army. Smitten with panic, Dillon's
 force fled at sight of the enemy, and Dillon, after receiving a wound
 from one of his own soldiers, was murdered by the mob of Lille. Biron
@@ -843,7 +843,7 @@ provinces conquered from France.
   Emeute of the 20th of June 1792.
 
 A respite was thus given and something was done to improve the army.
-Meantime the Assembly passed three decrees: one for the deportation of
+Meantime the Assembly passed three decrees: one for the [[Deportation|deportation]] of
 nonjuring priests, another to suppress the king's Constitutional Guard,
 and a third for the establishment of a camp of _federes_ near Paris.
 Louis consented to sacrifice his guard, but vetoed the other decrees.
@@ -884,8 +884,8 @@ mustering on the frontier. The Assembly declared the country in danger.
 All the regular troops in or near Paris were sent to the front.
 Volunteers and _federes_ were constantly arriving in Paris, and,
 although most went on to join the army, the Jacobins enlisted those who
-were suitable for their purpose, especially some 500 whom Barbaroux, a
-Girondin, had summoned from Marseilles. At the same time the National
+were suitable for their purpose, especially some 500 whom [[Barbaroux]], a
+Girondin, had summoned from [[Marseilles]]. At the same time the National
 Guard was opened to the lowest class. Brunswick's famous declaration of
 the 25th of July, announcing that the allies would enter France to
 restore the royal authority and would visit the Assembly and the city of
@@ -910,8 +910,8 @@ firm, and, possibly by accident, a fusillade began. The enemy were
 gaining ground when the Swiss received an order from the king to cease
 firing and withdraw. They were mostly shot down as they were retiring,
 and of those who surrendered many were murdered in cold blood next day.
-The king and queen spent long hours in a reporter's box while the
-Assembly discussed their fate and the fate of the French monarchy.
+The king and queen spent long hours in a reporter's [[Box|box]] while the
+Assembly discussed their [[Fate|fate]] and the fate of the French monarchy.
 Little more than a third of the deputies were present and they were
 almost all Jacobins. They decreed that Louis should be suspended from
 his office and that a convention should be summoned to give France a new
@@ -935,7 +935,7 @@ whose days were numbered. It remained dependent on the power which had
 set it up, the revolutionary Commune of Paris. The Commune could
 therefore extort what concessions it pleased. It got the custody of the
 king and his family who were imprisoned in the Temple. Having obtained
-an indefinite power of arrest, it soon filled the prisons of Paris. As
+an indefinite power of [[Arrest|arrest]], it soon filled the prisons of Paris. As
 the elections to the Convention were close at hand, the Commune resolved
 to strike the public with terror by the slaughter of its prisoners. It
 found its opportunity in the progress of invasion. On the 19th Brunswick
@@ -968,7 +968,7 @@ well-defined parties. The success of the Jacobins in overthrowing the
 monarchy had ended their union. Thenceforwards the name of Jacobin was
 confined to the smaller and more fanatical group, while the rest came to
 be known as the Girondins. The Jacobins, about 100 strong, formed the
-Left of the Convention, afterwards known from the raised benches on
+Left of the Convention, afterwards known from the raised [[Bench|benches]] on
 which they sat as the Mountain (q.v.). The Girondins, numbering perhaps
 180, formed the Right. The rest of the House, nearly 500 members, voted
 now on one side now on the other, until in the course of the Terror they
@@ -1015,15 +1015,15 @@ unjustly enough, of wishing to dissolve the national unity.
 Even in the first days of the Convention the feud broke out. The
 Girondins condemned the September massacres and dreaded the Parisian
 populace. Barbaroux accused Robespierre of aiming at a dictatorship, and
-Buzot demanded a guard recruited in the departments to protect the
-Convention. In October Louvet reiterated the charge against Robespierre,
+[[Buzot]] demanded a guard recruited in the departments to protect the
+Convention. In October [[Louvet]] reiterated the charge against Robespierre,
 and Barbaroux called for the dissolution of the Commune of Paris. But
 the Girondins gained no tangible result from this wordy warfare. For a
 time the question how to dispose of the king diverted the thoughts of
 all parties. It was approached in a political, not in a judicial spirit.
 The Jacobins desired the death of Louis, partly because they hated kings
 and deemed him a traitor, partly because they wished to envenom the
-Revolution, defy Europe and compromise their more temperate colleagues.
+Revolution, defy Europe and [[Compromise|compromise]] their more temperate colleagues.
 The Girondins wished to spare Louis, but were afraid of incurring the
 reproach of royalism. At this critical moment the discovery of the
 famous iron chest, containing papers which showed that many public men
@@ -1037,7 +1037,7 @@ be tried by the Convention.
 
   Trial and execution of Louis XVI.
 
-A committee of twenty-one was chosen to frame the indictment against
+A committee of twenty-one was chosen to [[Frame|frame]] the indictment against
 Louis, and on the 11th of December he was brought to the bar for the
 first time to hear the charges read. The most essential might be summed
 up in the statement that he had plotted against the Constitution and
@@ -1081,7 +1081,7 @@ soldiers. Within ten days after the affair of Valmy they began their
 retreat. Dumouriez, who still hoped to detach Prussia from Austria, left
 them unmolested. When the enemy had quitted France, he invaded Hainaut
 and defeated the Austrians at Jemappes on the 6th of November. In
-Belgium a large party regarded the French as deliverers. Dumouriez
+[[Belgium]] a large party regarded the French as deliverers. Dumouriez
 entered Brussels without further resistance, and was soon master of the
 whole country. Elsewhere the French were equally successful. With a
 slight force Custine assailed the electorate of Mainz. The common
@@ -1123,7 +1123,7 @@ when the news of the execution of Louis XVI. was received, Chauvelin,
 the French envoy, was ordered to quit England. France declared war
 against England and Holland on the 1st of February and soon afterwards
 against Spain. In the course of the year 1793 the Empire, the kings of
-Portugal and Naples and the grand-duke of Tuscany declared war against
+Portugal and Naples and the [[Grand-Duke|grand-duke]] of Tuscany declared war against
 France. Thus was formed the first coalition.
 
 France was not prepared to encounter so many enemies. Administrative
@@ -1136,7 +1136,7 @@ enforce a revolution of the French sort on the Catholic and conservative
 Belgians drove them to fury. By every unfair means the commissioners
 extorted the semblance of a popular vote in favour of incorporation, and
 France annexed the Netherlands. This was the last outrage. When a new
-Austrian army under the prince of Coburg entered the country, Dumouriez,
+Austrian army under the prince of [[Coburg]] entered the country, Dumouriez,
 who had invaded Holland, was unable to defend Belgium. On the 18th of
 March he was defeated at Neerwinden, and a few days later he was driven
 back to the frontier. Alike on public and personal grounds Dumouriez was
@@ -1144,12 +1144,12 @@ the enemy of the government. Trusting in his influence over the army he
 resolved to lead it against the Convention, and, in order to secure his
 rear, he negotiated with the enemy. But he could make no impression on
 his soldiers, and deserted to the Austrians. Events followed a similar
-course in the Rhine valley. There also the French wore out the goodwill
+course in the Rhine valley. There also the French wore out the [[Goodwill|goodwill]]
 at first shown to them. They summoned a convention and obtained a vote
 for incorporation with France. But they were unable to hold their ground
 on the approach of a Prussian army. By April they had lost the country
 with the exception of Mainz, which was invested. France thus lay open to
-invasion from the east and the north. The Convention decreed a levy of
+invasion from the east and the north. The Convention decreed a [[Levy|levy]] of
 300,000 men.
 
 
@@ -1171,7 +1171,7 @@ not to serve and preferred to fight the Republic at home. When once they
 had taken up arms they found gentlemen to lead and priests to exhort,
 and their rebellion became Royalist and Catholic. The chiefs were drawn
 from widely different classes. If Bonchamps and La Roche-jacquelin were
-nobles, Stofflet was a gamekeeper and Cathelineau a mason. As the
+nobles, Stofflet was a gamekeeper and [[Cathelineau]] a mason. As the
 country was favourable to guerilla warfare, and the government could not
 spare regular troops from the frontiers, the rebels were usually
 successful, and by the end of May had almost expelled the Republicans
@@ -1182,7 +1182,7 @@ from La Vendee.
 
 Danger without and within prompted the Convention to strengthen the
 executive authority. That the executive and legislative powers ought to
-be absolutely separate had been an axiom throughout the Revolution.
+be absolutely separate had been an [[Axiom|axiom]] throughout the Revolution.
 Ministers had always been excluded from a seat in the legislature. But
 the Assemblies were suspicious of the executive and bent on absorbing
 the government. They had nominated committees of their own members to
@@ -1213,7 +1213,7 @@ its members should be nominated by the Committee of Public Safety. The
 Committee of General Security had unlimited powers for the prevention or
 discovery of crime against the state. The Revolutionary Tribunal was
 decreed on the 10th of March. It was an extraordinary Court, destined to
-try all offences against the Revolution without appeal. The jury, which
+try all offences against the Revolution without appeal. The [[Jury|jury]], which
 received wages, voted openly, so that condemnation was almost certain.
 The director of the jury or public prosecutor was Fouquier Tinville. The
 first condemnation took place on the 11th of April.
@@ -1232,7 +1232,7 @@ Tribunal for incendiary writings, but his acquittal showed that a
 Jacobin leader was above the law. In May they proposed that the Commune
 of Paris should be dissolved, and that the _suppleants_, the persons
 elected to fill vacancies occurring in the Convention, should assemble
-at Bourges, where they would be safe from that violence which might be
+at [[Bourges]], where they would be safe from that violence which might be
 applied to the Convention itself. Barere, who was rising into notice by
 the skill with which he trimmed between parties, opposed this motion,
 and carried a decree appointing a Committee of Twelve to watch over the
@@ -1257,9 +1257,9 @@ who were guilty of wealth or of moderate opinions, while the
 representatives on mission deposed the municipal authorities and placed
 their own creatures in power. At the end of April the citizens of
 Marseilles closed the Jacobin club, put its chiefs on their trial and
-drove out the representatives on mission. In May Lyons rose. The Jacobin
-municipality was overturned, and Challier, their fiercest demagogue, was
-arrested. In June the citizens of Bordeaux declared that they would not
+drove out the representatives on mission. In May [[Lyons]] rose. The Jacobin
+municipality was overturned, and Challier, their fiercest [[Demagogue|demagogue]], was
+arrested. In June the citizens of [[Bordeaux]] declared that they would not
 acknowledge the authority of the Convention until the imprisoned
 deputies were set free. In July Toulon rebelled. But in the north the
 appeals of such Girondins as escaped from Paris were of no avail. Even
@@ -1268,7 +1268,7 @@ expected. The peasants, who had gained more by the Revolution than any
 other class, held aloof from the citizens. The citizens lacked the
 qualities necessary for the successful conduct of civil war. Bordeaux
 surrendered almost without waiting to be summoned. Marseilles was taken
-in August and treated with great cruelty. Lyons, where the Royalists
+in August and treated with great [[Cruelty|cruelty]]. Lyons, where the Royalists
 were strong, defended itself with courage, for the trial and execution
 of Challier made the townsmen hopeless of pardon. Toulon, also largely
 Royalist, invited the English and Spanish admirals, Hood and Langara,
@@ -1320,7 +1320,7 @@ an acrid fanatic, and unlike Danton, who only cared to secure the
 practical results of the Revolution, he had a moral and religious ideal
 which he intended to force on the nation. All who rejected his ideal
 were corrupt; all who resented his ascendancy were traitors. The death
-of Marat, who was stabbed by Charlotte Corday (q.v.) to avenge the
+of Marat, who was stabbed by [[Charlotte]] Corday (q.v.) to avenge the
 Girondins, gave yet another pretext for terrible measures of repression.
 In Paris the armed ruffians who had long preyed upon respectable
 citizens were organized as a revolutionary army, and other revolutionary
@@ -1363,7 +1363,7 @@ impotent as to be safe when its policy was to destroy.
 The disastrous effects of the Terror were heightened by the financial
 mismanagement of the Jacobins. Assignats were issued with such reckless
 profusion that the total for the three years of the Convention has been
-estimated at 7250 millions of francs. Enormous depreciation ensued and,
+estimated at 7250 millions of [[Franc|francs]]. Enormous depreciation ensued and,
 although penalties rising to death itself were denounced against all who
 should refuse to take them at par, they fell to little more than 1% of
 their nominal value. What were known as revolutionary taxes were
@@ -1375,7 +1375,7 @@ rot unused. Anarchy and state interference having combined to check the
 trade in necessaries, the government undertook to feed the people, and
 spent huge sums, especially on bread for the starving inhabitants of
 Paris. As no regular budget was attempted, as accounts were not kept,
-and as audit was unknown, the opportunities for fraud and embezzlement
+and as audit was unknown, the opportunities for [[Fraud|fraud]] and [[Embezzlement|embezzlement]]
 were endless. Even when due allowance has been made for the financial
 disorder which the Convention inherited from previous assemblies, and
 for the war which it had to wage against a formidable alliance, it
@@ -1389,7 +1389,7 @@ by the Convention was extraordinary. A new system of weights and
 measures, a new currency, a new chronological era (that of the
 Republic), and a new calendar were introduced (see the section
 _Republican Calendar_ below). A new and elaborate system of education
-was decreed. Two drafts of a complete civil code were made and, although
+was decreed. Two drafts of a complete civil [[Code|code]] were made and, although
 neither was enacted, particular changes of great moment were decreed.
 Many of the new laws were stamped with the passions of the time. Such
 were the laws which suppressed all the remaining bodies corporate, even
@@ -1398,7 +1398,7 @@ indemnity to the owners. Such too were the laws which took away the
 power of testation, placed natural children upon an absolute equality
 with legitimate, and gave a boundless freedom of divorce. It would be
 absurd, however, to dismiss all the legislative work of the Convention
-as merely partisan or eccentric. Much of it was enlightened and skilful,
+as merely partisan or [[Eccentric|eccentric]]. Much of it was enlightened and skilful,
 the product of the best minds in the assembly. To compete for power or
 even to express an opinion on public affairs was dangerous, and wholly
 to refrain from attendance might be construed as disaffection. Able men
@@ -1415,13 +1415,13 @@ Paris, which had overthrown the Girondins, was jealous of the Committee
 of Public Safety, which meant to be supreme. Robespierre, the leading
 member of the committee, abhorred the chiefs of the Commune, not merely
 because they conflicted with his ambition but from difference of
-character. He was orderly and temperate, they were gross and debauched;
+character. He was orderly and temperate, they were [[Gross|gross]] and debauched;
 he was a deist, they were atheists. In November the Commune fitted up
-Notre Dame as a temple of Reason, selected an opera girl to impersonate
-the goddess, and with profane ceremony installed her in the choir. All
+Notre [[Dame]] as a temple of Reason, selected an opera girl to impersonate
+the goddess, and with profane ceremony installed her in the [[Choir|choir]]. All
 the churches in Paris were closed. Danton, when he felt power slipping
 from his hands, had retired from public business to his native town of
-Arcis-sur-Aube. When he became aware of the feud between Robespierre and
+[[Arcis-Sur-Aube|Arcis-sur-Aube]]. When he became aware of the feud between Robespierre and
 the Commune, he conceived the hope of limiting the Terror and guiding
 the Revolution into a sane course. He returned to Paris and joined with
 Robespierre in carrying the law of 14 Frimaire (December 4), which gave
@@ -1429,17 +1429,17 @@ the Committee of Public Safety absolute control over all municipal
 authorities. He became the advocate of mercy, and his friend Camille
 Desmoulins pleaded for the same cause in the _Vieux Cordelier_. Then the
 oppressed nation took courage and began to demand pardon for the
-innocent and even justice upon murderers. A sharp contest ensued between
+[[Innocent|innocent]] and even justice upon murderers. A sharp contest ensued between
 the Dantonists and the Commune, Robespierre inclining now to this side,
 now to that, for he was really a friend to neither. His friend St Just,
 a younger and fiercer man, resolved to destroy both. Hebert and his
 followers in despair planned a new insurrection, but they were deserted
-by Hanriot, their military chief. Their doom was thus fixed. Twenty
+by Hanriot, their military chief. Their [[Doom|doom]] was thus fixed. Twenty
 leaders of the Commune were arrested on the 17th of March 1794 and
 guillotined a week later. It was then Danton's turn. He had several
 warnings, but either through over-confidence or weariness of life he
 scorned to fly. On the 30th he was arrested along with his friends
-Desmoulins, Delacroix, Philippeaux and Westermann. St Just read to the
+Desmoulins, [[Delacroix]], Philippeaux and Westermann. St Just read to the
 Convention a report on their case pre-eminent even in that day for its
 shameless disregard of truth, nay, of plausibility. Before the
 Revolutionary Tribunal Danton defended himself with such energy that St
@@ -1454,9 +1454,9 @@ presume to challenge the authority of the Committee of Public Safety,
 and in the committee none disputed the leadership of Robespierre.
 Robespierre was at last free to establish the republic of virtue. On the
 7th of May he persuaded the Convention to decree that the French people
-acknowledged the existence of a Supreme Being and the immortality of the
+acknowledged the existence of a Supreme Being and the [[Immortality|immortality]] of the
 soul. On the 4th of June he was elected president of the Convention, and
-from that time forward he appeared to be dictator of France. On the 8th
+from that time forward he appeared to be [[Dictator|dictator]] of France. On the 8th
 the festival of the Supreme Being was solemnized, Robespierre acting as
 pontiff amid the outward deference and secret jeers of his colleagues.
 But Robespierre knew what a gulf parted him from almost all his
@@ -1486,24 +1486,24 @@ threatening the government receded. The surrender of Toulon in December
 1793 closed the south of France to foreign enemies. The war in La Vendee
 turned against the insurgents from the time when the veteran garrison of
 Mainz came to reinforce the Republican army. After a severe defeat at
-Cholet on the 16th of October the Royalists determined to cross the
-Loire and raise Brittany and Anjou, where the Chouans, or Royalist
+[[Cholet]] on the 16th of October the Royalists determined to cross the
+Loire and raise Brittany and [[Anjou]], where the [[Chouans]], or Royalist
 partisans, were already stirring. They failed in an attempt on the
-little seaport of Granville and in another upon Angers. In December they
+little seaport of [[Granville]] and in another upon [[Angers]]. In December they
 were defeated with immense loss at Le Mans and at Savenay. The rebellion
 would probably have died out but for the measures of the new Republican
 general Turreau, who wasted La Vendee so horribly with his "infernal
 columns" that he drove the peasants to take up arms once more. Yet
-Turreau's crimes were almost surpassed by Carrier, the representative on
-mission at Nantes, who, finding the guillotine too slow in the
+Turreau's crimes were almost surpassed by [[Carrier]], the representative on
+mission at Nantes, who, finding the [[Guillotine|guillotine]] too slow in the
 destruction of his prisoners, adopted the plan of drowning them
 wholesale. In the autumn of 1793 the war against the coalition took a
 turn favourable to France. The energy of Danton, the organizing skill of
-Carnot, and the high spirit of the French nation, resolute at all costs
+Carnot, and the high spirit of the French nation, resolute at all [[Costs|costs]]
 to avoid dismemberment, had well employed the respite given by the
 sluggishness of the Allies. In Flanders the English were defeated at
 Hondschoote (September 8) and the Austrians at Wattignies (October 15).
-In the east Hoche routed the Austrians at Weissenburg and forced them to
+In the east [[Hoche]] routed the Austrians at Weissenburg and forced them to
 recross the Rhine before the end of 1793. The summer of 1794 saw France
 victorious on all her frontiers. Jourdan won the battle of Fleurus
 (June 25), which decided the fate of the Belgian provinces. The
@@ -1515,7 +1515,7 @@ Spaniards and the Sardinians the French were also successful.
 
 Under these circumstances government by terror could not endure.
 Robespierre was not a man of action; he knew not how to form or lead a
-party; he lived not with his fellows but with his own thoughts and
+party; he lived not with his [[Fellows|fellows]] but with his own thoughts and
 ambitions. He was hated and feared by most of the oligarchy. They
 laughed at his religion, resented his puritanism, and felt themselves in
 daily peril. His only loyal friends in the Committee of Public Safety,
@@ -1524,7 +1524,7 @@ consideration for the deputies of the Plain, who were glad to buy safety
 by conforming to his will; but he could not reckon on their help in time
 of danger. By degrees a coalition against Robespierre was formed in the
 Mountain. It included old followers of Danton like Taillen, independent
-Jacobins like Cambon, some of the worst Terrorists like Fouche, and such
+Jacobins like Cambon, some of the worst Terrorists like [[Fouche]], and such
 a consummate time-server as Barere. In the course of July its influence
 began to be felt. When St Just proposed Robespierre to the committees as
 dictator, he found no response. On the 8th Thermidor (26th of July)
@@ -1545,7 +1545,7 @@ Robespierre, of his brother Augustin, of Couthon and of St Just. But the
 Commune and the Jacobin Club were on the alert. They sounded the tocsin,
 mustered their partisans, and released the prisoners. The Convention
 outlawed Robespierre and his friends and sent out commissioners to rally
-the citizens. It named Barras, a deputy who had served in the royal
+the citizens. It named [[Barras]], a deputy who had served in the royal
 army, to lead its forces. Had Robespierre possessed Danton's energy, the
 result might have been doubtful. He did nothing himself and benumbed his
 followers. Without an effort Barras captured the Hotel de Ville.
@@ -1574,8 +1574,8 @@ The carnage of the Terror spread far beyond the clergy and the nobility,
 beyond even the middle class, for peasants and artisans were among the
 victims. It spread far beyond those who could conspire or rebel, for
 bedridden old men and women and young boys and girls were often
-sacrificed. It made most havoc in the flower of the nation, since every
-kind of eminence marked men for death. By imbuing Frenchmen with such a
+sacrificed. It made most havoc in the [[Flower|flower]] of the nation, since every
+kind of [[Eminence|eminence]] marked men for death. By imbuing Frenchmen with such a
 mutual hatred as nothing but the arm of despotic power could control the
 Reign of Terror rendered political liberty impossible for many years.
 The rule of the Terrorists made inevitable the reign of Napoleon.
@@ -1617,7 +1617,7 @@ destined to be smooth or continuous. Beside the remnant of Terrorists,
 such as Billaud Varennes and Collot d'Herbois, who had joined in the
 revolt against Robespierre, there were in the Convention at that time
 three principal factions. The so-called Independents, such as Barras and
-Merlin of Douai, who were all Jacobins, but had stood aloof from the
+Merlin of [[Douai]], who were all Jacobins, but had stood aloof from the
 internal conflicts of the party, hated Royalism as much as ever and
 desired the continuance of the war which was essential to their power.
 The Thermidorians, the immediate agents in Robespierre's overthrow, such
@@ -1644,7 +1644,7 @@ three other Terrorists, there ensued the rising of the 12th Germinal
 (April 1). The mob forced their way into the hall of the Convention and
 remained there until the National Guards of the wealthy quarters drove
 them out. By a decree of the Convention the four accused persons were
-deported to Cayenne, a new mode of dealing with political offenders
+deported to [[Cayenne]], a new mode of dealing with political offenders
 almost as effective as the guillotine, while less apt to excite
 compassion. The National Guard was reorganized so as to exclude the
 lowest class. The property of persons executed since the 10th of March
@@ -1680,19 +1680,19 @@ hope of rekindling the civil war a body of _emigres_ sailed under cover
 of the British fleet and landed on the peninsula of Quiberon. They were
 presently hemmed in by Hoche, and all who could not make their escape to
 the ships were forced to surrender at discretion (July 20). Nearly 700
-were executed by court-martial. Yet the spirit of revolt lingered in the
+were executed by [[Court-Martial|court-martial]]. Yet the spirit of revolt lingered in the
 west and broke out time after time. Against the coalition the Republic
-was gloriously successful. (See FRENCH REVOLUTIONARY WARS.) In the
+was gloriously successful. (See [[French Revolutionary Wars|FRENCH REVOLUTIONARY WARS]].) In the
 summer of 1794 the French invaded Spain at both ends of the Pyrenees,
-and at the close of the year they made good their footing in Catalonia
+and at the close of the year they made good their footing in [[Catalonia]]
 and Navarre. By the beginning of 1795 the Rhine frontier had been won.
 Against the king of Sardinia alone they accomplished little. At sea the
-French had sustained a severe defeat from Lord Howe, and several of
+French had sustained a severe defeat from [[Lord Howe]], and several of
 their colonies had been taken by the British. But Great Britain, when
 the Netherlands were lost, could do little for her allies. Even before
 the close of 1794 the king of Prussia retired from any active part in
 the war, and on the 5th of April 1795 he concluded with France the
-treaty of Basel, which recognized her occupation of the left bank of the
+treaty of [[Basel]], which recognized her occupation of the left bank of the
 Rhine. The new democratic government which the French had established in
 Holland purchased peace by surrendering Dutch territory to the south of
 that river. A treaty of peace between France and Spain followed in July.
@@ -1701,7 +1701,7 @@ coalition thus fell into ruin and France occupied a more commanding
 position than in the proudest days of Louis XIV.
 
 
-  Constitution of the year III. The Directory.
+  Constitution of the year III. The [[Directory]].
 
 But this greatness was unsure so long as France remained without a
 stable government. A constitutional committee was named in April. It
@@ -1753,7 +1753,7 @@ further resistance was possible. The Convention dissolved itself on the
 26th of October.
 
 
-  Balance of parties in the new legislature.
+  [[Balance]] of parties in the new legislature.
 
 The feeling of the nation was clearly shown in the elections. Among
 those who had sat in the Convention the anti-Jacobins were generally
@@ -1765,7 +1765,7 @@ Convention. The new one-third were, as a rule, enemies of the Jacobins,
 but not of the Revolution. Many had been members of the Constituent or
 of the Legislative Assembly. When the new legislature was complete, the
 Jacobins had a majority, although a weak one. After the Council of the
-Ancients had been chosen by lot, it remained to name the directors. For
+Ancients had been chosen by [[Lot|lot]], it remained to name the directors. For
 its own security the Left resolved that all five must be old members of
 the Convention and regicides. The persons chosen were Rewbell, Barras,
 La Revelliere Lepeaux, Carnot and Letourneur. Rewbell was an able,
@@ -1830,7 +1830,7 @@ San Ildefonso, concluded in August, Spain became the ally of France. In
 October Naples made peace. In 1797 Bonaparte finished the conquest of
 northern Italy and forced Austria to make the treaty of Campo Formio
 (October), whereby the emperor ceded Lombardy and the Austrian
-Netherlands to the Republic in exchange for Venice and undertook to urge
+Netherlands to the Republic in [[Exchange|exchange]] for Venice and undertook to urge
 upon the Diet the surrender of the lands beyond the Rhine.
 Notwithstanding the victory of Cape St Vincent, England was brought into
 such extreme peril by the mutinies in the fleet that she offered to
@@ -1853,7 +1853,7 @@ armies. Although Royalists formed but a petty fraction of the majority,
 they raised the alarm that it was seeking to restore monarchy and undo
 the work of the Revolution. Hoche, then in command of the army of the
 Sambre and Meuse, visited Paris and sent troops. Bonaparte sent General
-Augereau, who executed the _coup d'etat_ of the 18th Fructidor
+[[Augereau]], who executed the _coup d'etat_ of the 18th Fructidor
 (September 4). The councils were purged, the elections in forty-nine
 departments were cancelled, and many deputies and other men of note were
 arrested. Some of them, including Barthelemy, were deported to Cayenne.
@@ -1901,9 +1901,9 @@ directors were driven by self-interest to new adventures abroad.
 Bonaparte was resolved not to sink into obscurity, and the directors
 were anxious to keep him as far as possible from Paris; they therefore
 sanctioned the expedition to Egypt which deprived the Republic of its
-best army and most renowned captain. Coveting the treasures of Bern,
+best army and most renowned captain. Coveting the treasures of [[Bern]],
 they sent Brune to invade Switzerland and remodel its constitution; in
-revenge for the murder of General Duphot, they sent Berthier to invade
+revenge for the murder of General Duphot, they sent [[Berthier]] to invade
 the papal states and erect the Roman Republic; they occupied and
 virtually annexed Piedmont. In all these countries they organized such
 an effective pillage that the French became universally hateful. As the
@@ -1923,7 +1923,7 @@ Under these circumstances Nelson's victory of Aboukir (1st of August),
 which gave the British full command of the Mediterranean and secluded
 Bonaparte in Egypt, was the signal for a second coalition. Naples,
 Austria, Russia and Turkey joined Great Britain against France.
-Ferdinand of Naples, rashly taking the offensive before his allies were
+[[Ferdinand]] of Naples, rashly taking the offensive before his allies were
 ready, was defeated and forced to seek a refuge in Sicily. In January
 1799 the French occupied Naples and set up the Parthenopean republic.
 But the consequent dispersion of their weak forces only exposed them to
@@ -1938,9 +1938,9 @@ member of a board. He hoped to concentrate power in his own hands, to
 bridle the Jacobins, and to remodel the constitution. With the help of
 Barras he proceeded to rid himself of the other directors. An
 irregularity having been discovered in Treilhard's election, he retired,
-and his place was taken by Gohier. Merlin of Douai and La Revelliere
+and his place was taken by [[Gohier]]. Merlin of Douai and La Revelliere
 Lepeaux were driven to resign in June. They were succeeded by Moulin and
-Ducos. The three new directors were so insignificant that they could
+[[Ducos]]. The three new directors were so insignificant that they could
 give no trouble, but for the same reason they were of little service.
 
 
@@ -1965,17 +1965,17 @@ and the increase of bandits. There was no real political freedom, yet
 none of the ease or security which enlightened despotism can bestow. The
 Terrorists lifted their heads in the Council of Five Hundred. A Law of
 Hostages, which was really a new Law of Suspects, and a progressive
-income tax showed the temper of the majority. The Jacobin Club was
-reopened and became once more the focus of disorder. The Jacobin press
+[[Income Tax|income tax]] showed the temper of the majority. The Jacobin Club was
+reopened and became once more the [[Focus|focus]] of disorder. The Jacobin press
 renewed the licence of Hebert and Marat. Never since the outbreak of the
 Revolution had the public temper been so gloomy and desponding.
 
-In this extremity Sieyes chose as minister of police the old Terrorist
+In this extremity Sieyes [[Chose|chose]] as minister of police the old Terrorist
 Fouche, who best understood how to deal with his brethren. Fouche closed
 the Jacobin Club and deported a number of journalists. But like his
 predecessors Sieyes felt that for the revolution which he meditated he
 must have the help of a soldier. As his man of action he chose General
-Joubert, one of the most distinguished among French officers. Joubert
+[[Joubert]], one of the most distinguished among French officers. Joubert
 was sent to restore the fortune of the war in Italy. At Novi on the 15th
 of August he encountered Suvarov. He was killed at the outset of the
 battle and his men were defeated. After this disaster the French held
@@ -2061,7 +2061,7 @@ throughout France. The legal privileges formerly distinguishing
 different classes were suppressed. An obsolete and burthensome agrarian
 system was abolished. A number of large estates belonging to the crown,
 the clergy and the nobles were broken up and sold at nominal prices to
-men of the middle or lower class. The new jurisprudence encouraged the
+men of the middle or lower class. The new [[Jurisprudence|jurisprudence]] encouraged the
 multiplication of small properties. The new fiscal system taxed men
 according to their means and raised no obstacle to commerce within the
 national boundaries. Every calling and profession was made free to all
@@ -2114,7 +2114,7 @@ confirmed the Jacobin supremacy. Wherever the victorious French extended
 their dominion, they remodelled institutions in the French manner. Their
 sway proved so oppressive that the very classes which had welcomed them
 with most fervour soon came to long for their expulsion. But
-revolutionary ideas kept their charm. Under Napoleon the essential part
+revolutionary ideas kept their [[Charm|charm]]. Under Napoleon the essential part
 of the changes made by the Republic was preserved in these countries
 also. Moreover the effacement of old boundaries, the overthrow of
 ancestral governments, and the invocation, however hollow, of the
@@ -2130,7 +2130,7 @@ the 19th century.
 
   BIBLIOGRAPHY.--The MS. authorities for the history of the French
   Revolution are exceedingly copious. The largest collection is in the
-  Archives Nationales in Paris, but an immense number of documents are
+  [[Archive|Archives]] Nationales in Paris, but an immense number of documents are
   to be found in other collections in Paris and the provinces. The
   printed materials are so abundant and varied that any brief notice of
   them must be imperfect.
@@ -2146,9 +2146,9 @@ the 19th century.
   part of which have not yet been printed. Among the collections printed
   we may mention _Les Elections et les cahiers de Paris en 1789_, by C.
   L. Chassin (4 vols., Paris, 1888); _Cahiers de plaintes et doleances
-  des paroisses de la province de Maine_, by A. Bellee and V. Duchemin
+  des paroisses de la province de [[Maine]]_, by A. Bellee and V. Duchemin
   (4 vols., Le Mans, 1881-1893); _Cahiers de doleances de 1789 dans le
-  departement du Pas-de-Calais_, by H. Loriquet (2 vols., Arras, 1891);
+  departement du Pas-de-Calais_, by H. Loriquet (2 vols., [[Arras]], 1891);
   _Cahiers des paroisses et communautes du bailliage d'Autun_, by A.
   Charmasse (Autun, 1895). New collections are printed from time to
   time. A more general collection of cahiers than any above named is
@@ -2159,8 +2159,8 @@ the 19th century.
   value and a mine of information as to old France. Reference should
   also be made to the works of travellers who visited France at the
   outbreak of the Revolution. Among these Arthur Young's _Travels in
-  France during the years 1787, 1788 and 1789_ (2 vols., Bury St
-  Edmunds, 1792-1794) are peculiarly instructive.
+  France during the years 1787, 1788 and 1789_ (2 vols., [[Bury]] St
+  [[Edmunds]], 1792-1794) are peculiarly instructive.
 
   For the history of the Assemblies during the Revolution a main
   authority is their _Proces verbaux_ or Journals; those of the
@@ -2169,14 +2169,14 @@ the 19th century.
   Councils under the Directory in 99 vols. See also the _Archives
   parlementaires_ edited by J. Mavidal and E. Laurent (Paris, 1867, and
   the following years); the _Histoire parlementaire de la Revolution_,
-  by P. J. B. Buchez and P. C. Roux (Paris, 1838), and the _Histoire de
+  by P. J. B. [[Buchez]] and P. C. Roux (Paris, 1838), and the _Histoire de
   la Revolution par deux amis de la liberte_ (Paris, 1792-1803).
 
   The newspapers, of which a few have been mentioned in the text, were
   numerous. They are useful chiefly as illustrating the ideas and
   passions of the time, for they give comparatively little information
   as to facts and that little is peculiarly inaccurate. The ablest of
-  the Royalist journals was Mallet du Pan's _Mercure de France_.
+  the Royalist journals was [[Mallet]] du Pan's _Mercure de France_.
   Pamphlets of the Revolution period number many thousands. Such
   pamphlets as Mounier's _Nouvelles Observations sur les Etats-Generaux
   de France_ and Sieyes's _Qu'est-ce que le Tiers Etat_ had a notable
@@ -2186,7 +2186,7 @@ the 19th century.
   The contemporary memoirs, &c., already published are numerous and
   fresh ones are always coming forth. A few of the best known and most
   useful are, for the Constituent Assembly, the memoirs of Bailly, of
-  Ferrieres, of Malouet. The _Correspondence of Mirabeau with the Count
+  [[Ferrier|Ferrieres]], of Malouet. The _Correspondence of Mirabeau with the Count
   de la Marck_, edited by Bacourt (3 vols., Paris, 1851), is especially
   valuable. Dumont's _Recollections of Mirabeau_ and the _Diary and
   Letters of Gouverneur Morris_ give the impressions of foreigners with
@@ -2222,7 +2222,7 @@ the 19th century.
   1861), short and devoid of literary charm, has the merits of learning
   and judgment and is still useful. F. A. Aulard's _Histoire politique
   de la Revolution Francaise_ (Paris, 1901) is a most valuable precis of
-  political history, based on deep knowledge and lucidly set forth,
+  [[Political History|political history]], based on deep knowledge and lucidly set forth,
   although not free from bias. The volume on the Revolution in Lavisse
   and Rambaud's _Histoire generale de l'Europe_ (Paris, 1896) is the
   work of distinguished scholars using the latest information. In
@@ -2238,7 +2238,7 @@ the 19th century.
 
   The most notable German work is H. von Sybel's _Geschichte der
   Revolutionszeit_ (5 vols., Stuttgart, 1853-1879). It is strongest in
-  those carts which relate to international affairs and foreign policy.
+  those [[Cart|carts]] which relate to international affairs and foreign policy.
   There is an English translation.
 
   None of the general histories of the Revolution above named is really
@@ -2264,8 +2264,8 @@ the 19th century.
   Sagnac, _La Legislation civile de la Revolution Francaise_ (Paris,
   1898). The best work upon the social life of the period is the
   _Histoire de la societe francaise sous la Revolution_, by E. and J. de
-  Goncourt (Paris, 1889). For military history see A. Duruy, _L'Armee
-  royale en 1789_ (Paris, 1888); E. de Hauterive, _L'Armee sous la
+  [[Goncourt]] (Paris, 1889). For military history see A. Duruy, _L'Armee
+  royale en 1789_ (Paris, 1888); E. de [[Hauterive]], _L'Armee sous la
   Revolution, 1789-1794_ (Paris, 1894); A. Chuquet, _Les Guerres de la
   Revolution_ (Paris, 1886, &c.). See also the memoirs and biographies
   of the distinguished soldiers of the Republic and Empire, too numerous
@@ -2281,7 +2281,7 @@ the 19th century.
   1860); A. Bigeon, _Sieyes_ (Paris, 1893); _Memoirs of Carnot_, by his
   son (2 vols., Paris, 1861-1864).
 
-  For fuller information see M. Tourneux, _Les Sources bibliographiques
+  For [[Fuller|fuller]] information see M. Tourneux, _Les Sources bibliographiques
   de l'histoire de la Revolution Francaise_ (Paris, 1898, etc.), and
   _Bibliographie de l'histoire de Paris pendant la Revolution_ (Paris,
   1890, etc.).     (F. C. M.)
@@ -2301,8 +2301,8 @@ year of liberty" and "the first year of the republic" when the national
 convention took up the matter in 1793. The business of drawing up the
 new calendar was entrusted to the president of the committee of public
 instruction, Charles Gilbert Romme (1750-1795), who was aided in the
-work by the mathematicians Gaspard Monge and Joseph Louis Lagrange, the
-poet Fabre d'Eglantine and others. The result of their labours was
+work by the mathematicians Gaspard Monge and Joseph Louis [[Lagrange]], the
+poet [[Fabre]] d'Eglantine and others. The result of their labours was
 submitted to the convention in September; it was accepted, and the new
 calendar became law on the 5th of October 1793. The new arrangement was
 regarded as beginning on the 22nd of September 1792, this day being
@@ -2373,8 +2373,8 @@ Some discussion took place about the nomenclature of the new divisions
 of time. Eventually this work was entrusted to Fabre d'Eglantine, who
 gave to each month a name taken from some seasonal event therein.
 Beginning with the new year on the 22nd of September the autumn months
-were _Vendemiaire_, the month of vintage, _Brumaire_, the months of fog,
-and _Frimaire_, the month of frost. The winter months were _Nivose_,
+were _Vendemiaire_, the month of vintage, _Brumaire_, the months of [[Fog|fog]],
+and _Frimaire_, the month of [[Frost|frost]]. The winter months were _Nivose_,
 the snowy, _Pluviose_, the rainy, and _Ventose_, the windy month; then
 followed the spring months, _Germinal_, the month of buds, _Floreal_,
 the month of flowers, and _Prairial_, the month of meadows; and lastly
@@ -2401,8 +2401,8 @@ of January 1806.
   November 1799, and the _coup d'etat_ of 18 Fructidor An V. on the 4th
   of September 1797.
 
-  For a complete concordance of the Gregorian and the republican
-  calendars see Stokvis, _Manuel d'histoire_, tome iii. (Leiden, 1889);
+  For a complete [[Concordance|concordance]] of the Gregorian and the republican
+  calendars see Stokvis, _[[Manuel]] d'histoire_, tome iii. (Leiden, 1889);
   also G. Villain, "Le Calendrier republicain," in _La Revolution
   Francaise_ for 1884-1885.     (A. W. H.*)
 

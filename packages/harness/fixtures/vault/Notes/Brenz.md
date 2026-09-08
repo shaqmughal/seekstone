@@ -8,10 +8,10 @@ tags: [religion, geography]
 
 # Brenz
 
-BRENZ, JOHANN (1499-1570), Lutheran divine, eldest son of Martin Brenz,
+BRENZ, JOHANN (1499-1570), Lutheran divine, eldest son of [[Martin]] Brenz,
 was born at Weil, Wurttemberg, on the 24th of June 1499. In 1514 he
 entered the university of Heidelberg, where Oecolampadius was one of his
-teachers, and where in 1518 he heard Luther discuss. Ordained priest in
+teachers, and where in 1518 he heard Luther [[Discus|discuss]]. Ordained priest in
 1520, and appointed preacher (1522) at Hall in Swabia, he gave himself
 to biblical exposition. He ceased to celebrate mass in 1523, and
 reorganized his church in 1524. Successful in resisting the peasant
@@ -21,7 +21,7 @@ From Hall, when taken by the imperial forces, he fled on his birthday in
 1553) provost of the collegiate church of Stuttgart. As organizer of the
 reformation in Wurttemberg he did much fruitful work. A strong advocate
 of Lutheran doctrine, and author of the _Syngramma Suevicum_ (October
-21, 1525), which set forth Luther's doctrine of the Eucharist, he was
+21, 1525), which set forth Luther's doctrine of the [[Eucharist]], he was
 free from the persecuting tendencies of the age. He is praised and
 quoted (as Joannes Witlingius) for his judgment against applying the
 death penalty to anabaptists or other heretics in the _De Haereticis, an

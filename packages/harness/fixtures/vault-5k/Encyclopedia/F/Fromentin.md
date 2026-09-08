@@ -22,15 +22,15 @@ people which enabled him to give to his after-work the realistic
 accuracy that comes from intimate knowledge. In a certain sense his
 works are not more artistic results than contributions to ethnological
 science. His first great success was produced at the Salon of 1847, by
-the "Gorges de la Chiffa." Among his more important works are--"La Place
+the "[[Gorges]] de la Chiffa." Among his more important works are--"La Place
 de la breche a Constantine" (1849); "Enterrement Maure" (1853);
 "Bateleurs negres" and "Audience chez un chalife" (1859); "Berger
 kabyle" and "Courriers arabes" (1861); "Bivouac arabe," "Chasse au
 faucon," "Fauconnier arabe" (now at Luxembourg) (1863); "Chasse au
-heron" (1865); "Voleurs de nuit" (1867); "Centaurs et arabes attaques
-par une lionne" (1868); "Halte de muletiers" (1869); "Le Nil" and "Un
+heron" (1865); "Voleurs de nuit" (1867); "[[Centaurs]] et arabes attaques
+par une [[Lionne|lionne]]" (1868); "Halte de muletiers" (1869); "Le Nil" and "Un
 Souvenir d'Esneh" (1875). Fromentin was much influenced in style by
-Eugene Delacroix. His works are distinguished by striking composition,
+Eugene [[Delacroix]]. His works are distinguished by striking composition,
 great dexterity of handling and brilliancy of colour. In them is given
 with great truth and refinement the unconscious grandeur of barbarian
 and animal attitudes and gestures. His later works, however, show signs

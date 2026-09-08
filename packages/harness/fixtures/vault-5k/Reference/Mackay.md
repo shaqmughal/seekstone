@@ -8,9 +8,9 @@ Charles II. to Louis XIV., and though succeeding, through the death of
 his two elder brothers, to his father's estates, continued to serve
 abroad. In 1669 he was in the Venetian service at Candia, and in 1672 he
 was back with his old regiment, Dumbarton's, in the French army, taking
-part under Turenne in the invasion of Holland. In 1673 he married Clara
+part under Turenne in the invasion of Holland. In 1673 he married [[Clara]]
 de Bie of Bommel in Gelderland. Through her influence he became, as
-Burnet says, "the most pious man that I ever knew in a military way,"
+[[Burnet]] says, "the most pious man that I ever knew in a military way,"
 and, convinced that he was fighting in an unjust cause, resigned his
 commission to take a captaincy in a Scottish regiment in the Dutch
 service. He had risen to the rank of major-general in 1685, when the
@@ -21,13 +21,13 @@ demanded the services of the Scots brigade, and having been met with a
 refusal, was permitted to invite the officers individually into his
 service. As major-general commanding the brigade, and also as a privy
 councillor of Scotland, Mackay was an important and influential person,
-and James chose to attribute the decision of most of the officers to
+and James [[Chose|chose]] to attribute the decision of most of the officers to
 Mackay's instigation. Soon after this event the Prince of Orange started
 on his expedition to England, Mackay's division leading the invading
 corps, and in January 1688-89 Mackay was appointed major-general
 commanding in chief in Scotland. In this capacity he was called upon to
-deal with the formidable insurrection headed by Graham of Claverhouse,
-Viscount Dundee. In the battle of Killiecrankie Mackay was severely
+deal with the formidable insurrection headed by [[Graham]] of Claverhouse,
+Viscount [[Dundee]]. In the battle of Killiecrankie Mackay was severely
 defeated, but Dundee was killed, and the English commander, displaying
 unexpected energy, subdued the Highlands in one summer. In 1690 he
 founded Fort William at Inverlochy, in 1691 he distinguished himself in

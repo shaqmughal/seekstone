@@ -16,26 +16,26 @@ a wound received at Breda in 1637, and returned to England early in
 1639, when he was made governor of Portsmouth. He served in the Scottish
 war, and already had a considerable reputation when he was concerned in
 the "Army Plot." Officers of the army stationed at York proposed to
-petition the king and parliament for the maintenance of the royal
+petition the king and parliament for the [[Maintenance|maintenance]] of the royal
 authority. A second party was in favour of more violent measures, and
 Goring, in the hope of being appointed lieutenant-general, proposed to
 march the army on London and overawe the parliament during Strafford's
-trial. This proposition being rejected by his fellow officers, he
+trial. This proposition being rejected by his [[Fellow|fellow]] officers, he
 betrayed the proceedings to Mountjoy Blount, earl of Newport, who passed
 on the information indirectly to Pym in April. Colonel Goring was
 thereupon called on to give evidence before the Commons, who commended
-him for his services to the Commonwealth. This betrayal of his comrades
+him for his services to the [[Commonwealth]]. This betrayal of his comrades
 induced confidence in the minds of the parliamentary leaders, who sent
 him back to his Portsmouth command. Nevertheless he declared for the
 king in August. He surrendered Portsmouth to the parliament in September
 1642 and went to Holland to recruit for the Royalist army, returning to
 England in December. Appointed to a cavalry command by the earl of
-Newcastle, he defeated Fairfax at Seacroft Moor near Leeds in March
+Newcastle, he defeated [[Fairfax]] at Seacroft Moor near [[Leeds]] in March
 1643, but in May he was taken prisoner at Wakefield on the capture of
 the town by Fairfax. In April 1644 he effected an exchange. At Marston
 Moor he commanded the Royalist left, and charged with great success,
 but, allowing his troopers to disperse in search of plunder, was routed
-by Cromwell at the close of the battle. In November 1644, on his
+by [[Cromwell]] at the close of the battle. In November 1644, on his
 father's elevation to the earldom of Norwich, he became Lord Goring. The
 parliamentary authorities, however, refused to recognize the creation of
 the earldom, and continued to speak of the father as Lord Goring and the
@@ -44,13 +44,13 @@ Rupert, who recognized his ability, to join Charles in the south, and in
 spite of his dissolute and insubordinate character he was appointed to
 supersede Henry, Lord Wilmot, as lieut.-general of the Royalist horse
 (see GREAT REBELLION). He secured some successes in the west, and in
-January 1645 advanced through Hampshire and occupied Farnham; but want
+January 1645 advanced through Hampshire and occupied [[Farnham]]; but want
 of money compelled him to retreat to Salisbury and thence to Exeter. The
 excesses committed by his troops seriously injured the Royalist cause,
 and his exactions made his name hated throughout the west. He had
 himself prepared to besiege Taunton in March, yet when in the next month
-he was desired by Prince Charles, who was at Bristol, to send
-reinforcements to Sir Richard Grenville for the siege of Taunton, he
+he was desired by Prince Charles, who was at [[Bristol]], to send
+reinforcements to Sir Richard [[Grenville]] for the siege of Taunton, he
 obeyed the order only with ill-humour. Later in the month he was
 summoned with his troops to the relief of the king at Oxford. Lord
 Goring had long been intriguing for an independent command, and he now
@@ -68,7 +68,7 @@ serious resistance to the parliamentary general, but wasted his time in
 frivolous amusements, and in November he obtained leave to quit his
 disorganized forces and retire to France on the ground of health. His
 father's services secured him the command of some English regiments in
-the Spanish service. He died at Madrid in July or August 1657. Clarendon
+the Spanish service. He died at Madrid in July or August 1657. [[Clarendon]]
 gives him a very unpleasing character, declaring that "Goring ... would,
 without hesitation, have broken any trust, or done any act of treachery
 to have satisfied an ordinary passion or appetite; and in truth wanted

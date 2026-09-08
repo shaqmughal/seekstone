@@ -20,7 +20,7 @@ baptized or catechumens." Whatever its present position, the office of
 exorcist was, until comparatively recent times, by no means considered a
 sinecure. "The exorcist a terror to demons" (Paulinus, _Epist._ 24)
 survived the Reformation among Protestants, with the belief, expressed
-by Firmilianus in his epistle to St Cyprian, that "through the
+by Firmilianus in his [[Epistle|epistle]] to St Cyprian, that "through the
 exorcists, by the voice of man and the power of God, the devil may be
 whipped, and burnt and tortured."
 

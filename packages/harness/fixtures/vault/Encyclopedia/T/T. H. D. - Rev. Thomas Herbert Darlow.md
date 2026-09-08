@@ -9,7 +9,7 @@ type: article
 
 T. H. D. - REV. THOMAS HERBERT DARLOW, M.A.
 Literary Superintendent of the British and Foreign Bible Society. Sometime
-Scholar of Clare College, Cambridge. Author of _Historical Catalogue of
+Scholar of [[Clare]] College, Cambridge. Author of _Historical [[Catalogue]] of
 Printed Editions of Holy Scriptures_ (vol. i. with H. G. Moule); &c.
 
 - Bible Societies.

@@ -7,7 +7,7 @@ topic: history
 # Bronzite
 
 BRONZITE, a member of the pyroxene group of minerals, belonging with
-enstatite and hypersthene to the orthorhombic series of the group. Rather
+[[Enstatite|enstatite]] and hypersthene to the orthorhombic series of the group. Rather
 than a distinct species, it is really a ferriferous variety of enstatite,
 which owing to partial alteration has acquired a bronze-like sub-metallic
 lustre on the cleavage surfaces. Enstatite is magnesium metasilicate,
@@ -30,7 +30,7 @@ Bronzite is sometimes cut and polished, usually in convex forms, for small
 ornamental objects, but its use for this purpose is less extensive than
 that of hypersthene. It often has a more or less distinct fibrous
 structure, and when this is pronounced the sheen has a certain resemblance
-to that of cat's-eye. Masses sufficiently large for cutting are found in
+to that of [[Cat'S-Eye|cat's-eye]]. Masses sufficiently large for cutting are found in
 the norite of the Kupferberg in the Fichtelgebirge, and in the serpentine
 of Kraubat near Leoben in Styria. In this connexion mention may be made of
 an altered form of enstatite or bronzite known as _bastite_ or

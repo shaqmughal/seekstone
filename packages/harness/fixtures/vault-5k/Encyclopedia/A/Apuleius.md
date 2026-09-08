@@ -1,6 +1,6 @@
 # Apuleius
 
-APULEIUS, LUCIUS, Platonic philosopher and rhetorician, was born at
+APULEIUS, [[Lucius|LUCIUS]], Platonic philosopher and rhetorician, was born at
 Madaura in Numidia about A.D. 125. As the son of one of the principal
 officials, he received an excellent education, first at Carthage and
 subsequently at Athens. After leaving Athens he undertook a long course
@@ -20,7 +20,7 @@ devoted to literature and philosophy. At Carthage he was elected
 provincial priest of the imperial cult, in which capacity he occupied a
 prominent position in the provincial council, had the duty of collecting
 and managing the funds for the temples of the cult, and the
-superintendence of the games in the amphitheatre. He lectured on
+superintendence of the [[Games|games]] in the amphitheatre. He lectured on
 philosophy and rhetoric, like the Greek sophists, apparently with
 success, since statues were erected in his honour at Carthage and
 elsewhere. The year of his death is not known.
@@ -45,7 +45,7 @@ to suit the religious revival of which he was an apostle.
 
 The adventures of the youthful hero in the form of an ass are much the
 same in both romances, but in Apuleius he is restored to human shape by
-the aid of Isis, into whose mysteries he is initiated, and finally
+the aid of [[Isis]], into whose mysteries he is initiated, and finally
 becomes her priestess. The book is a remarkable illustration of the
 contemporary reaction against a period of scepticism, of the general
 appetite for miracle and magic, and of the influx of oriental and
@@ -73,7 +73,7 @@ wine-skins, and Gil Blas's captivity among the robbers, are palpably
 borrowed from Apuleius; and several of the humorous episodes, probably
 current as popular stories long before his time, reappear in Boccaccio.
 
-Of Apuleius's other writings, the _Apology_ has been already mentioned.
+Of Apuleius's other writings, the _[[Apology]]_ has been already mentioned.
 The _Florida_ (probably meaning simply "anthology," without any
 reference to style) consists of a collection of excerpts from his
 declamations, ingenious but highly affected, and in general perfect
@@ -90,7 +90,7 @@ poems in almost all possible styles, and several works on natural
 history, some in Greek. In the preparation of these he seems to have
 attended more closely to actual anatomical research than was customary
 with ancient naturalists. Some other works--dealing with theology, the
-properties of herbs, medical remedies and physiognomy, are wrongly
+properties of [[Herb|herbs]], medical remedies and physiognomy, are wrongly
 attributed to him.
 
 The character of Apuleius, as delineated by himself, is attractive; he
@@ -108,10 +108,10 @@ transitional period renders him at once the evening star of the
 Platonic, and the morning star of the Neo-Platonic philosophy.
 
   BIBLIOGRAPHY.--Complete works: Editio princeps, ed. Andreas (1469);
-  Oudendorp (1786-1823); Hildebrand (1842); Helm (1905 et seq.); P.
+  Oudendorp (1786-1823); [[Hildebrand]] (1842); Helm (1905 et seq.); P.
   Thomas (vol. iii. 1908). _Metamorphoses_, Eyssenhardt (1869), van der
   Vliet (1897). _Psyche et Cupido_, Jahn-Michaelis (1883); Beck (1902).
-  _Apologia_, I. Casaubon (1594); Kruger (1864); (with the _Florida_),
+  _Apologia_, I. [[Casaubon]] (1594); Kruger (1864); (with the _Florida_),
   van der Vliet (1900). _Florida_, Kruger (1883). _De Deo Socratis_,
   Buckley (1844), Lutjohann (1878). _De Platone et ejus Dogmate_,
   Goldbacher (1876) (including _De Mundo_ and _De Deo Socratis_). For
@@ -127,8 +127,8 @@ Platonic, and the morning star of the Neo-Platonic philosophy.
   philosophical works), Head (1851). Of the Cupid and Psyche episode
   there are recent translations by Robert Bridges (1895) (in verse),
   Stuttaford (1903); and it is beautifully introduced by Walter Pater
-  into his _Marius the Epicurean_. This episode has afforded the subject
-  of a drama to Thomas Heywood, and of narrative poems to Shakerley
+  into his _[[Marius]] the Epicurean_. This episode has afforded the subject
+  of a [[Drama|drama]] to Thomas [[Heywood]], and of narrative poems to Shakerley
   Marmion, Mrs. Tighe, and William Morris (in the _Earthly Paradise_).
 
 ## References

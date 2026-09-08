@@ -9,7 +9,7 @@ type: source
 
 CARORA, an inland town of the state of Lara, Venezuela, on the Carora, a
 branch of the Tocuyo river, about 54 m. W. by S. of the city of
-Barquisimeto, and 1128 ft. above sea-level. Pop. (1908 estimate) 6000.
+[[Barquisimeto]], and 1128 ft. above sea-level. Pop. (1908 estimate) 6000.
 The town is comparatively well-built and possesses a fine parish
 church, and a Franciscan convent and hermitage. It was founded in 1754,
 and its colonial history shows considerable prosperity, its population

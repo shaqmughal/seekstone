@@ -18,7 +18,7 @@ been devised for the separation of these metals (see PLATINUM), one of
 the best being that of H. St. C Deville and H. J. Debray (_Comptes
 rendus_, 1874, 78, p. 1502). In this process the osmiridium is fused
 with zinc and the excess of zinc evaporated; the residue is then ignited
-with barium nitrate, extracted with water and boiled with nitric acid.
+with [[Barium|barium]] nitrate, extracted with water and boiled with nitric acid.
 The iridium is then precipitated from the solution (as oxide) by the
 addition of baryta, dissolved in _aqua regia_, and precipitated as
 iridium ammonium chloride by the addition of ammonium chloride. The
@@ -35,13 +35,13 @@ oxidizes when heated in air.
   salts, the sesqui-salts and the iridic salts; a third series of salts
   is also known (the iridious salts) derived from an oxide IrO. _Iridium
   sesquioxide_, Ir2O3, is obtained when potassium iridium chloride is
-  heated with sodium or potassium carbonates, in a stream of carbon
+  heated with sodium or potassium carbonates, in a stream of [[Carbon|carbon]]
   dioxide. It is a bluish-black powder which at high temperatures
   decomposes into the metal, dioxide and oxygen. The hydroxide, Ir(OH)3,
-  may be obtained by the addition of caustic potash to iridium sodium
+  may be obtained by the addition of [[Caustic|caustic]] potash to iridium sodium
   chloride, the mixture being then heated with alcohol. _Iridium
   dioxide_, IrO2, may be obtained as small needles by heating the metal
-  to bright redness in a current of oxygen (G. Geisenheimer, _Comptes
+  to [[Bright|bright]] redness in a current of oxygen (G. Geisenheimer, _Comptes
   rendus_, 1890, 110, p. 855). The corresponding hydroxide, Ir(OH)4, is
   formed when potassium iridate is boiled with ammonium chloride, or
   when the tetrachloride is boiled with caustic potash or sodium
@@ -75,7 +75,7 @@ oxidizes when heated in air.
   p. 428; W. Palmer, _Ber._, 1889, 22, p. 15; 1890, 23, p. 3810; 1891,
   24, p. 2090; _Zeit. anorg. Chem._, 1896, 13, p. 211).
 
-  Iridium is always determined quantitatively by conversion into the
+  Iridium is always determined quantitatively by [[Conversion|conversion]] into the
   metallic state. The atomic weight of the element has been determined
   in various ways, C. Seubert (_Ber._, 1878, 11, p. 1770), by the
   analysis of potassium chloriridate obtaining the value 192.74, and A.

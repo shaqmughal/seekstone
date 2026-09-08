@@ -9,15 +9,15 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lycaon"
 # Lycaon
 
 LYCAON, in Greek mythology, son of Pelasgus, the mythical first king of
-Arcadia. He, or his fifty impious sons, entertained Zeus and set before
+[[Arcadia]]. He, or his fifty impious sons, entertained Zeus and set before
 him a dish of human flesh; the god pushed away the dish in disgust and
 either killed the king and his sons by lightning or turned them into
-wolves (Apollodorus iii. 8; Ovid, _Metam._ i. 198). Some say that Lycaon
+wolves ([[Apollodorus]] iii. 8; Ovid, _Metam._ i. 198). Some say that Lycaon
 slew and dished up his own son Nyctimus (Clem. Alex. _Protrept._ ii. 36;
 Nonnus, _Dionys._ xviii. 20; Arnobius iv. 24). The deluge was said to
-have been sent by Zeus in the time of Deucalion in consequence of the
+have been sent by Zeus in the time of [[Deucalion]] in consequence of the
 sons' impiety. Pausanias (viii. 2) says that Lycaon sacrificed a child
-to Zeus on the altar on mount Lycaeus, and immediately after the
+to Zeus on the altar on mount [[Lycaeus]], and immediately after the
 sacrifice was turned into a wolf. This gave rise to the story that a man
 was turned into a wolf at each annual sacrifice to Zeus Lycaeus, but
 recovered his human form if he abstained from human flesh for ten years.
@@ -68,7 +68,7 @@ the familiar werwolf stories.
   the Lycaea as a funeral festival connected with the changes of
   vegetation; Vollgraf, _De Ovidii mythopoeia_; a concise statement of
   the various forms of the legend in O. Gruppe, _Griechische
-  Mythologie_, ii. p. 920, n. 4; see also LYCANTHROPY; D. Bassi, "Apollo
+  Mythologie_, ii. p. 920, n. 4; see also [[Lycanthropy|LYCANTHROPY]]; D. Bassi, "[[Apollo]]
   Liceo," in _Rivista di storia antica_, i. (1895); and Frazer's
   _Pausanias_, iv. p. 189.     (J. H. F.)
 

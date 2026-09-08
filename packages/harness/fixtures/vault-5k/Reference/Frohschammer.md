@@ -6,7 +6,7 @@ topic: literature
 
 # Frohschammer
 
-FROHSCHAMMER, JAKOB (1821-1893), German theologian and philosopher, was
+FROHSCHAMMER, [[Jakob|JAKOB]] (1821-1893), German theologian and philosopher, was
 born at Illkofen, near Regensburg, on the 6th of January 1821. Destined
 by his parents for the Roman Catholic priesthood, he studied theology at
 Munich, but felt an ever-growing attraction to philosophy. Nevertheless,
@@ -18,7 +18,7 @@ the Church demanded. It was only after open defiance of the bishop of
 Regensburg that he obtained permission to continue his studies at
 Munich. He at first devoted himself more especially to the study of the
 history of dogma, and in 1850 published his _Beitrage zur
-Kirchengeschichte_, which was placed on the Index Expurgatorius. But he
+Kirchengeschichte_, which was placed on the [[Index]] Expurgatorius. But he
 felt that his real vocation was philosophy, and after holding for a
 short time an extraordinary professorship of theology, he became
 professor of philosophy in 1855. This appointment he owed chiefly to his
@@ -26,7 +26,7 @@ work, _Uber den Ursprung der menschlichen Seelen_ (1854), in which he
 maintained that the human soul was not implanted by a special creative
 act in each case, but was the result of a secondary creative act on the
 part of the parents: that soul as well as body, therefore, was subject
-to the laws of heredity. This was supplemented in 1855 by the
+to the laws of [[Heredity|heredity]]. This was supplemented in 1855 by the
 controversial _Menschenseele und Physiologie_. Undeterred by the offence
 which these works gave to his ecclesiastical superiors, he published in
 1858 the _Einleitung in die Philosophie und Grundriss der Metaphysik_,
@@ -59,13 +59,13 @@ European languages: _Der Fels Petri in Rom_ (1873), _Der Primat Petri
 und des Papstes_ (1875), and _Das Christenthum Christi und das
 Christenthum des Papstes_ (1876). In _Das neue Wissen und der neue
 Glaube_ (1873) he showed himself as vigorous an opponent of the
-materialism of Strauss as of the doctrine of papal infallibility. His
+materialism of Strauss as of the doctrine of papal [[Infallibility|infallibility]]. His
 later years were occupied with a series of philosophical works, of which
 the most important were: _Die Phantasie als Grundprincip des
-Weltprocesses_ (1877), _Uber die Genesis der Menschheit und deren
+Weltprocesses_ (1877), _Uber die [[Genesis]] der Menschheit und deren
 geistige Entwicklung in Religion, Sittlichkeit und Sprache_ (1883), and
 _Uber die Organisation und Cultur der menschlichen Gesellschaft_ (1885).
-His system is based on the unifying principle of imagination
+His system is based on the unifying principle of [[Imagination|imagination]]
 (_Phantasie_), which he extends to the objective creative force of
 Nature, as well as to the subjective mental phenomena to which the term
 is usually confined. He died at Bad Kreuth in the Bavarian Highlands on
@@ -73,11 +73,11 @@ the 14th of June 1893.
 
   In addition to other treatises on theological subjects, Frohschammer
   was also the author of _Monaden und Weltphantasie_ and _Uber die
-  Bedeutung der Einbildungskraft in der Philosophie Kants und Spinozas_
+  Bedeutung der Einbildungskraft in der Philosophie [[Kant|Kants]] und Spinozas_
   (1879); _Uber die Principien der Aristotelischen Philosophie und die
   Bedeutung der Phantasie in derselben_ (1881); _Die Philosophie als
   Idealwissenschaft und System_ (1884); _Die Philosophie des Thomas von
-  Aquino kritisch gewurdigt_ (1889); _Uber das Mysterium Magnum des
+  [[Aquino]] kritisch gewurdigt_ (1889); _Uber das Mysterium Magnum des
   Daseins_ (1891); _System der Philosophie im Umriss_, pt. i. (1892).
   His autobiography was published in A. Hinrichsen's _Deutsche Denker_
   (1888). See also F. Kirchner, _Uber das Grundprincip des
@@ -85,7 +85,7 @@ the 14th of June 1893.
   _Weltanschauung und Menschenleben; Betrachtungen uber die Philosophie
   J. Frohschammers_ (1894); B. Munz, _J. Frohschammer, der Philosoph der
   Weltphantasie_ (1894) and _Briefe von und uber J. Frohschammer_
-  (1897); J. Friedrich, _Jakob Frohschammer_ (1896) and _Systematische
+  (1897); J. [[Friedrich]], _Jakob Frohschammer_ (1896) and _Systematische
   und kritische Darstellung der Psychologie J. Frohschammers_ (1899); A.
   Attensperger, _J. Frohschammers philosophisches System im Grundriss_
   (1899).

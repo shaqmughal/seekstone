@@ -6,7 +6,7 @@ is contained in the short autobiographical notice which he has appended
 to his _Ecclesiastical History_:--"Thus much concerning the
 ecclesiastical history of Britain, and especially of the race of the
 English, I, Baeda, a servant of Christ and priest of the monastery of
-the blessed apostles St Peter and St Paul, which is at Wearmouth and at
+the blessed [[Apostle|apostles]] St Peter and St Paul, which is at Wearmouth and at
 Jarrow, have with the Lord's help composed, so far as I could gather it,
 either from ancient documents, or from the tradition of the elders, or
 from my own knowledge. I was born in the territory of the said
@@ -18,7 +18,7 @@ scriptures; and amid the observance of monastic discipline, and the
 daily charge of singing in the church, it has ever been my delight to
 learn or teach or write. In my nineteenth year I was admitted to the
 diaconate, in my thirtieth to the priesthood, both by the hands of the
-most reverend Bishop John (of Hexham), and at the bidding of Abbot
+most reverend Bishop John (of [[Hexham]]), and at the bidding of Abbot
 Ceolfrid. From the time of my admission to the priesthood to my
 (present) fifty-ninth year, I have endeavoured, for my own use and that
 of my brethren, to make brief notes upon the Holy Scripture, either out
@@ -37,7 +37,7 @@ speaks of them in the passage given above. It is with Jarrow that Bede
 is chiefly associated, though no doubt from the close connexion of the
 two localities he would often be at Wearmouth. The preface to the prose
 life of Cuthbert proves that he had stayed at Lindisfarne prior to 721,
-while the Epistle to Egbert shows that he had visited him at York in
+while the [[Epistle]] to Egbert shows that he had visited him at York in
 733. The tradition that he went to Rome in obedience to a summons from
 Pope Sergius is contradicted by his own words above, and by his total
 silence as to any such visit. In the passage cited above, "monastic
@@ -54,7 +54,7 @@ regarded as remarkable both for learning and goodness.
 For the rest, it is in his works that we must chiefly seek to know him.
 They fall into three main classes: (1) scientific; (2) historical; (3)
 theological. The first class comprises works on grammar, one on natural
-phenomena, and two on chronology and the calendar. These last were
+phenomena, and two on [[Chronology|chronology]] and the calendar. These last were
 inspired largely by the Paschal Question, which was the subject of such
 bitter controversy between the Roman and Celtic Churches in the 7th
 century. They form a natural transition to the second class. In this the
@@ -65,7 +65,7 @@ professed students. It is indeed one of the most valuable and one of the
 most beautiful of historical works. Bede has the artist's instinct of
 proportion, the artist's sense for the picturesque and the pathetic. His
 style too, modelled largely, in the present writer's opinion, on that of
-Gregory in the _Dialogues_, is limpid and unaffected. And though it
+Gregory in the _[[Dialogue|Dialogues]]_, is limpid and unaffected. And though it
 would be wrong to call Bede a critical historian in the modern sense of
 the words, he shows a very unusual conscientiousness in collecting his
 information from the best available sources, and in distinguishing
@@ -100,7 +100,7 @@ Bede makes no pretensions to originality, least of all in his
 theological works, freely taking what he needed, and (what is very rare
 in medieval writers) acknowledging what he took, "out of the works of
 the venerable Fathers," still everything he wrote is informed and
-impressed with his own special character and temper. His earnest yet
+impressed with his own special character and temper. His [[Earnest|earnest]] yet
 sober piety, his humility, his gentleness, appear in almost every line.
 "In history and in science, as well as in theology, he is before all
 things the Christian thinker and student." (Plummer's _Bede_, i. 2.) Yet
@@ -118,22 +118,22 @@ This would make him at most sixty-three. Of his death a most touching
 and beautiful account has been preserved in a contemporary letter. His
 last hours were spent, like the rest of his life, in devotion and
 teaching, his latest work being to dictate, amid ever-increasing bodily
-weakness, a translation into the vernacular of the Gospel of St John, a
+weakness, a translation into the vernacular of the [[Gospel]] of St John, a
 work which unhappily has not survived. It was a fitting close to such a
 life as his.
 
   BIBLIOGRAPHY.--The above sketch is largely based on the present
   writer's essay on Bede's Life and Works, prefixed to his edition of
-  Bede's _Historia Ecclesiastica, &c._ (2 vols., Clarendon Press, 1896).
+  Bede's _Historia Ecclesiastica, &c._ (2 vols., [[Clarendon]] Press, 1896).
   _Beda der Ehrwurdige und seine Zeit_, by Dr Karl Werner (Vienna,
   1875), is excellent. Gehle, _Disputatio ... de Bedae vita et Scriptis_
   (Leiden, 1838), is still useful. Dr William Bright's _Chapters of
   Early English Church History_ (3rd ed., Clarendon Press, 1897) is
   indispensable. See also Ker, _Dark Ages_, pp. 141 ff. Of the collected
-  works of Bede the most convenient edition is that by Dr Giles in
+  works of Bede the most convenient edition is that by Dr [[Giles]] in
   twelve volumes (8vo., 1843-1844), which includes translations of the
-  _Historical Works_. The Continental folio editions (Basel, 1563;
-  Cologne, 1612 and 1688) contain many works which cannot by any
+  _Historical Works_. The Continental [[Folio|folio]] editions ([[Basel]], 1563;
+  [[Cologne]], 1612 and 1688) contain many works which cannot by any
   possibility be Bede's. The edition of Migne, _Patralogia Latina_ (1862
   ff.) is based on a comparison of the Cologne edition with Giles and
   Smith (see below), and is open to the same criticism. On the
@@ -151,8 +151,8 @@ life as his.
   that with notes and introduction by the present writer, u.s. It
   includes also the _History of the Abbots_, and the Epistle to Egbert.
   Of books iii. and iv. only, there is a learned edition by Professors
-  Mayor and Lumby of Cambridge (3rd ed., 1881). A cheap and handy
-  edition of the text alone is that by A. Holder (Freiburg im Breisgau,
+  [[Mayor]] and Lumby of Cambridge (3rd ed., 1881). A cheap and handy
+  edition of the text alone is that by A. Holder ([[Freiburg]] im [[Breisgau]],
   1882, &c.). The best-known modern English translation is that by the
   Rev. L. Gidley (1870). Of the minor historical works a good edition
   was edited by Rev. J. Stevenson for the Eng. Hist. Soc. in 1841; and a

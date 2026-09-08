@@ -14,7 +14,7 @@ as a mason's labourer on the bridge then being built by John Rennie at
 Kelso; but within a few days he was incapacitated by an accident. Later
 in the same year, his father having been appointed steward on a farm
 connected with Percy Main Colliery near North Shields, he obtained
-employment as a carter in connexion with the colliery. In March 1804 he
+employment as a [[Carter|carter]] in connexion with the colliery. In March 1804 he
 was bound an apprentice to a millwright at Percy Main, and then found
 time to supplement the deficiencies of his early education by systematic
 private study. It was at Percy Main that he made the acquaintance of
@@ -71,10 +71,10 @@ foreign, and in 1861 served as president of the British Association. He
 declined a knighthood, in 1861, but accepted a baronetcy in 1869.
 
 His youngest brother, SIR PETER FAIRBAIRN (1799-1861), founded a large
-machine manufacturing business in Leeds. Starting on a small scale with
+[[Machine|machine]] manufacturing business in [[Leeds]]. Starting on a small scale with
 flax-spinning machinery, he subsequently extended his operations to the
 manufacture of textile machinery in general, and finally to that of
-engineering tools. He was knighted in 1858.
+[[Engineering|engineering]] tools. He was knighted in 1858.
 
   See _The Life of Sir William Fairbairn_, partly written by himself and
   edited and completed by Dr William Pole (1877).

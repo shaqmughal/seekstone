@@ -13,7 +13,7 @@ certain form of decorative design in flowing lines intertwined; hence
 comes the more metaphorical use of this word, whether in nature or in
 morals, indicating a fantastic or complicated interweaving of lines
 against a background. In decorative design the term is historically a
-misnomer. It is applied to the grotesque decoration derived from Roman
+misnomer. It is applied to the [[Grotesque|grotesque]] decoration derived from Roman
 remains of the early time of the empire, not to any style derived from
 Arabian or Moorish work. Arabesque and Moresque are really distinct; the
 latter is from the Arabian style of ornament, developed by the Byzantine
@@ -61,7 +61,7 @@ yet the Byzantine Greeks, who were Christians, managed to work even
 their own ecclesiastical symbols, in a disguised manner, into their
 tracery and diapers; as the lily, for instance. The cross was not so
 introduced; this, of course, was inadmissible; but neither was the
-crescent ever introduced into any of this early work in Damascus or
+[[Crescent|crescent]] ever introduced into any of this early work in [[Damascus]] or
 Cairo. The crescent was itself not a Mahommedan device till after the
 conquest of Constantinople in 1453 A.D. The crescent, as the new moon,
 was the symbol of Byzantium; and it was only after that capital of the
@@ -76,11 +76,11 @@ conventional floriage is common in these diapers; tracery also is a
 great feature in this work, in geometrical combinations, whether
 rectilinear or curvilinear; and the designs are rich in colour; idolatry
 was in the reproduction of natural forms, not in the fanciful
-combination of natural colours. These curves and angles, therefore, or
+combination of natural [[Colours|colours]]. These curves and angles, therefore, or
 interlacings, chiefly in stucco, constitute the prominent elements of an
 Arabian ornamental design, combining also Arabic inscriptions; composed
 of a mass of foliation or floral forms conventionally disguised, as the
-exclusion of all natural images was the fundamental principle of the
+exclusion of all natural [[Image|images]] was the fundamental principle of the
 style in its purity. The Alhambra displays almost endless specimens of
 this peculiar work, all in relief, highly coloured, and profusely
 enriched with gold. The mosque of Tulun, in Cairo, A.D. 876, the known
@@ -94,9 +94,9 @@ classical ornamentation. This owes its origin to the excavation and
 recovery of ancient monuments, and was developed chiefly by the
 sculptors of the north, and the painters of central Italy; by the
 Lombardi of Venice, by Agostino Busti of Milan, by Bramante of Urbino,
-by Raphael, by Giulio Romano, and others of nearly equal merit. Very
+by Raphael, by [[Giulio Romano]], and others of nearly equal merit. Very
 beautiful examples in sculpture of this cinquecento Arabesque are found
-in the churches of Venice, Verona and Brescia; in painting, the most
+in the churches of Venice, Verona and [[Brescia]]; in painting, the most
 complete specimens are those of the Vatican Loggie, and the Villa Madama
 at Rome and the ducal palaces at Mantua. The Vatican Arabesques, chiefly
 executed for Raphael by Giulio Romano, Gian Francesco Penni, and

@@ -8,13 +8,13 @@ type: reference
 # Gran Chaco
 
 GRAN CHACO, an extensive region in the heart of South America belonging
-to the La Plata basin, stretching from 20 deg. to 29 deg S. lat., and
+to the [[La Plata]] basin, stretching from 20 deg. to 29 deg S. lat., and
 divided between the republics of Argentine, Bolivia and Paraguay, with a
-small district of south-western Matto Grosso (Brazil). Its area is
-estimated at from 250,000 to 425,000 sq. m., but the true Chaco region
+small district of south-western [[Matto Grosso]] (Brazil). Its area is
+estimated at from 250,000 to 425,000 sq. m., but the true [[Chaco]] region
 probably does not exceed 300,000 sq. m. The greater part is covered with
-marshes, lagoons and dense tropical jungle and forest, and is still
-unexplored. On its southern and western borders there are extensive
+marshes, [[Lagoon|lagoons]] and dense tropical jungle and forest, and is still
+unexplored. On its southern and western [[Borders|borders]] there are extensive
 tracts of open woodland, intermingled with grassy plains, while on the
 northern side in Bolivia are large areas of open country subject to
 inundations in the rainy season. In general terms the Gran Chaco may be
@@ -29,7 +29,7 @@ still unsubdued, while others, like the Matacos, are sometimes to be
 found on neighbouring sugar estates and estancias as labourers during
 the busy season. The forest wealth of the Chaco region is incalculable
 and apparently inexhaustible, consisting of a great variety of palms and
-valuable cabinet woods, building timber, &c. Its extensive tracts of
+valuable [[Cabinet|cabinet]] woods, building timber, &c. Its extensive tracts of
 "quebracho Colorado" (_Loxopterygium Lorentzii_) are of very great value
 because of its use in tanning leather. Both the wood and its extract are
 largely exported. Civilization is slowly gaining footholds in this

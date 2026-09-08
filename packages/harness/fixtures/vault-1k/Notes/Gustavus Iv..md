@@ -23,7 +23,7 @@ which might have led to a war with Russia but for the fanatical hatred
 of the French republic shared by the emperor Paul and Gustavus IV.,
 which served as a bond of union between them. Indeed the king's horror
 of Jacobinism was morbid in its intensity, and drove him to adopt all
-sorts of reactionary measures and to postpone his coronation for some
+sorts of reactionary measures and to postpone his [[Coronation|coronation]] for some
 years, so as to avoid calling together a diet; but the disorder of the
 finances, caused partly by the continental war and partly by the almost
 total failure of the crops in 1798 and 1799, compelled him to summon the

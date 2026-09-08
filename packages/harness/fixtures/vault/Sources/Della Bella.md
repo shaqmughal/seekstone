@@ -15,7 +15,7 @@ having fallen into his hands, he began to turn his attention entirely
 towards engraving, and studied the art under Canta Gallina, who had also
 been the instructor of Callot. By the liberality of Lorenzo de' Medici
 he was enabled to spend three years in study at Rome. In 1642 he went to
-Paris, where Cardinal Richelieu engaged him to go to Arras and make
+Paris, where Cardinal Richelieu engaged him to go to [[Arras]] and make
 drawings of the siege and taking of that town by the royal army. After
 residing a considerable time at Paris he returned to Florence, where he
 obtained a pension from the grand duke, whose son, Cosmo, he instructed

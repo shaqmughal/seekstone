@@ -8,10 +8,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Capronnier
 
 # Capronnier
 
-CAPRONNIER, JEAN BAPTISTE (1814-1891), Belgian stained-glass painter,
+CAPRONNIER, JEAN [[Baptiste|BAPTISTE]] (1814-1891), Belgian stained-glass painter,
 was born in Brussels in 1814, and died there in 1891. He had much to do
 with the modern revival of glass-painting, and first made his reputation
-by his study of the old methods of workmanship, and his clever
+by his study of the old methods of workmanship, and his [[Clever|clever]]
 restorations of old examples, and copies made for the Brussels
 archaeological museum. He carried out windows for various churches in
 Brussels, Bruges, Amsterdam and elsewhere, and his work was commissioned

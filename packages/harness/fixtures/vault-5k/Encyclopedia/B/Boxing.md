@@ -1,28 +1,28 @@
 # Boxing
 
 BOXING (M.E. _box_, a blow, probably from Dan. _bask_, a buffet), the
-art of attack and defence with the fists protected by padded gloves, as
+art of attack and defence with the fists protected by padded [[Glove|gloves]], as
 distinguished from pugilism, in which the bare fists, or some kind of
 light gloves affording little moderation of the blow, are employed. The
 ancient Greeks used a sort of glove in practice, but, although far less
 formidable than the terrible caestus worn in serious encounters, it was
-by no means so mild an implement as the modern boxing-glove, the
+by no means so mild an [[Implement|implement]] as the modern boxing-glove, the
 invention of which is traditionally ascribed to Jack Broughton
 (1705-1789), "the father of British pugilism." In any case gloves were
 first used in his time, though only in practice, all prize-fights being
-decided with bare fists. Broughton, who was for years champion of
+decided with bare fists. Broughton, who was for years [[Champion|champion]] of
 England, also drew up the rules by which prize-fights were for many
 years regulated, and no doubt, with the help of the newly invented
 gloves, imparted instruction in boxing to the young aristocrats of his
 day. The most popular teacher of the art was, however, John Jackson
-(1769-1845), called "Gentleman Jackson," who was champion from 1795 to
+(1769-1845), called "[[Gentleman]] Jackson," who was champion from 1795 to
 1800, and who is credited with imparting to boxing its scientific
 principles, such as countering, accurate judging of distance in hitting,
 and agility on the feet. Tom Moore, the poet, in his _Memoirs_, asserted
 that Jackson "made more than a thousand a year by teaching sparring."
-Among his pupils was Lord Byron, who, when chided for keeping company
+Among his pupils was Lord [[Byron]], who, when chided for keeping company
 with a pugilist, insisted that Jackson's manners were "infinitely
-superior to those of the fellows of the college whom I meet at the high
+superior to those of the [[Fellows|fellows]] of the college whom I meet at the high
 table," and referred to him in the following lines in _Hints from
 Horace_:--
 
@@ -44,7 +44,7 @@ the brutality and unfair practices of the professional "bruisers," and
 the laws against prize-fighting began to be more rigidly enforced. In
 that year the "Amateur Athletic Club" was founded, principally through
 the efforts of John G. Chambers (1843-1883), who, in conjunction with
-the 8th marquess of Queensberry, drew up a code of laws (known as the
+the 8th marquess of Queensberry, drew up a [[Code|code]] of laws (known as the
 Queensberry Rules) which govern all glove contests in Great Britain, and
 were also authoritative in America until the adoption of the boxing
 rules of the Amateur Athletic Union of America. In 1867 Lord Queensberry
@@ -106,10 +106,10 @@ knockout, or in seriously weakening an adversary, the following may be
 mentioned:--on the pit of the stomach, called the solar plexus, from the
 sensitive network of nerves situated there; a blow on the point of the
 chin, having a tendency slightly to paralyse the brain; a blow under the
-ear, painful and often resulting in partial helplessness; and one
+[[Ear|ear]], painful and often resulting in partial helplessness; and one
 directly over the heart, kidney or liver. As a boxer is allowed ten
 seconds after being knocked down in which to rise, an experienced
-ring-fighter will drop on one knee when partially stunned, remaining in
+ring-fighter will drop on one [[Knee|knee]] when partially stunned, remaining in
 that position in order to recover until the referee has counted nine.
 
 Guarding is done with the arm or hand, either open or shut. If a blow is
@@ -117,7 +117,7 @@ caught or stopped short it is called _blocking_, but a blow may also be
 shoved aside, or avoided altogether by _slipping, i.e._ moving the head
 quickly to one side, or by ducking and allowing the adversary's swing to
 pass harmlessly over the head. Still another method of avoiding a blow
-without guarding is to bend back the head or body so as narrowly to
+without guarding is to [[Bend|bend]] back the head or body so as narrowly to
 escape the opponent's glove.
 
 The rules of the Amateur Boxing Association (founded 1884) contain the
@@ -127,8 +127,8 @@ except with the express sanction of the A.B.A., and who has never
 taught, pursued or assisted in the practice of athletic exercises as a
 means of obtaining a livelihood." The ring shall be roped and between 12
 and 24 ft. square. No spikes shall be worn on shoes. Boxers are divided
-into the following classes by weight:--Bantam, not exceeding 8 st. 4 lb
-(116 lb); Feather, not exceeding 9 st. (126 lb); Light, not exceeding 10
+into the following classes by weight:--[[Bantam]], not exceeding 8 st. 4 lb
+(116 lb); [[Feather]], not exceeding 9 st. (126 lb); Light, not exceeding 10
 st. (140 lb); Middle, not exceeding 11 st. 4 lb. (158 lb); and Heavy,
 any weight above. There shall be two judges, a referee and a timekeeper.
 The votes of the judges decide the winner of a bout, unless they
@@ -148,7 +148,7 @@ counter-hitting and getting away in time to avoid a return. When the
 points are equal the decision is given in favour of the boxer who has
 done the most leading, i.e. has been the more aggressive. Fouls are
 hitting below the belt, kicking, hitting with the open hand, the side of
-the hand, the wrist, elbow or shoulder, wrestling or "roughing" on the
+the hand, the wrist, [[Elbow|elbow]] or shoulder, wrestling or "roughing" on the
 ropes, i.e. unnecessary shouldering and jostling.
 
 The boxing rules of the American Amateur Athletic Association differ
@@ -215,7 +215,7 @@ school to teach the sport since called _la boxe francaise_. Around him,
 and two provincial instructors who came to Paris about this time with
 similar ideas, there grew up a large number of sportsmen, who between
 1845 and 1855 brought French boxing to its highest development. Among
-others who gave public exhibitions was Lecour's brother Hubert, who
+others who gave public exhibitions was Lecour's brother [[Hubert]], who
 although rather undersized, was quick as lightning, and had an English
 blow and a French kick that were truly terrible. Charles Ducros was
 another whose style of boxing, more in the English fashion, but with low
@@ -223,8 +223,8 @@ kicks about his opponent's shins, made a name for himself. Later came
 Vigneron, a "strong man," whose style, though slow, was severe in its
 punishment. About 1856 the police interfered in these fights, and Lecour
 and Vigneron had to cease giving public exhibitions and devote
-themselves to teaching. Towards 1862 a new boxer, J. Charlemont, was not
-only very clever with his fists and feet, but an excellent teacher, and
+themselves to teaching. Towards 1862 a new boxer, J. [[Charlemont]], was not
+only very [[Clever|clever]] with his fists and feet, but an excellent teacher, and
 the author of a treatise on the art. Lecour, Vigneron and Charlemont may
 be said to have created _la boxe francaise_, which, for defence _at
 equal weights_, the French claim to be better than the English.

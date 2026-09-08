@@ -12,7 +12,7 @@ Department of Botany, British Museum.
 - ANGIOSPERMS
 
 
-C.Pl. - REV. CHARLES PLUMMER, M.A. Fellow of Corpus Christi College,
+C.Pl. - REV. CHARLES PLUMMER, M.A. [[Fellow]] of Corpus Christi College,
 Oxford. Ford's Lecturer, 1901. Author of _Life and Times of Alfred the
 Great_; &c.
 

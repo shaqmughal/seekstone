@@ -35,7 +35,7 @@ monazite. The gas also occurs in minute quantities in the common
 minerals of the earth's crust. In this case too it is associated with
 radioactive matter, which is almost ubiquitous. In two cases, however,
 it has been found in the absence of appreciable quantities of uranium
-and thorium compounds, namely in beryl, and in sylvine (potassium
+and thorium compounds, namely in [[Beryl|beryl]], and in sylvine (potassium
 chloride). Helium is contained almost universally in the gases which
 bubble up with the water of thermal springs. The proportion varies
 greatly. In the hot springs of Bath it amounts to about one-thousandth

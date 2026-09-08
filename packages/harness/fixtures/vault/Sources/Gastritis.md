@@ -23,7 +23,7 @@ swallowing of corrosive poisons, such as strong mineral acids of alkalis
 which may extensively destroy the mucous membrane. Other non-corrosive
 poisons cause acute degeneration of the stomach wall (see POISONS).
 Acute inflammatory conditions may be secondary to zymotic diseases such
-as diphtheria, pyaemia, typhus fever and others. Gastritis is also
+as diphtheria, pyaemia, typhus [[Fever|fever]] and others. Gastritis is also
 caused by the ingestion of food which has begun to decompose, or may
 result from eating unsuitable articles which themselves remain
 undigested and so excite acute catarrhal conditions. These give rise to
@@ -41,21 +41,21 @@ The treatment bears reference, in the first place, to any known source
 of irritation, which, if it exist, may be expelled by an emetic or
 purgative (except in cases due to poisoning). This, however, is seldom
 necessary, since vomiting is usually present. For the relief of sickness
-and pain the sucking of ice and counter-irritation over the region of
+and pain the sucking of [[Ice|ice]] and counter-irritation over the region of
 the stomach are of service. Further, remedies which exercise a soothing
-effect upon an irritable mucous membrane, such as bismuth or weak
+effect upon an irritable mucous membrane, such as [[Bismuth|bismuth]] or weak
 alkaline fluids, and along with these the use of a light milk diet, are
 usually sufficient to remove the symptoms.
 
 _Chronic Gastric Catarrh_ may result from the acute or may arise
 independently. It is not infrequently connected with antecedent disease
-in other organs, such as the lungs, heart, liver or kidneys, and it is
+in other organs, such as the [[Lung|lungs]], heart, [[Liver|liver]] or kidneys, and it is
 especially common in persons addicted to alcoholic excess. In this form
 the texture of the stomach is more altered than in the acute form,
 except in the toxic and febrile forms above referred to. It is
 permanently in a state of congestion, and its mucous membrane and
 muscular coat undergo thickening and other changes, which markedly
-affect the function of digestion. The symptoms are those of dyspepsia in
+affect the function of digestion. The symptoms are those of [[Dyspepsia|dyspepsia]] in
 an aggravated form (see DYSPEPSIA), of which discomfort and pain after
 food, with distension and frequently vomiting, are the chief; and the
 treatment must be conducted in reference to the causes giving rise to
@@ -64,7 +64,7 @@ quality, and the intervals between meals, demands special attention.
 Feeding on artificially soured milk may in many cases be useful. Lavage
 or washing out of the stomach with weak alkaline solutions has been used
 with marked success in the treatment of chronic gastritis. Of medicinal
-agents, bismuth, arsenic, nux vomica, and the mineral acids are all of
+agents, bismuth, [[Arsenic|arsenic]], nux vomica, and the mineral acids are all of
 acknowledged efficacy, as are also preparations of pepsin.
 
 ## See also

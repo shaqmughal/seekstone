@@ -7,7 +7,7 @@ material, whilst in a soft and pasty state, through dies or perforations
 in a steel plate by hydraulic or screw pressure, hence the name cordite.
 The thickness or size of the rods varies from about 1 mm. diameter to 5
 or more mm. according to the nature of the charge for which it is
-intended. The smallest diameter is used for revolver cartridge and the
+intended. The smallest diameter is used for revolver [[Cartridge|cartridge]] and the
 largest for heavy guns. When first devised by the Ordnance Committee,
 presided over by Sir Frederick Abel, in 1891, this explosive consisted
 of 58% of nitro-glycerin, 37% of gun-cotton, and 5% of mineral jelly.
@@ -24,32 +24,32 @@ its coefficient of expansion is small, this density does not change to
 any serious extent under climatic temperature variations. A rod may be
 bent to a moderate extent without breaking, and Cordite M.D. especially
 shows considerable elasticity. It can be impressed by the nail and cut
-with a knife, but is not in the least sticky, nor does the
+with a [[Knife|knife]], but is not in the least sticky, nor does the
 nitro-glycerin exude to any appreciable extent. It can be obtained in a
 finely-divided state by scraping with a sharp knife, or on a new file,
 or by grinding in a mill, such as a coffee-mill, but can scarcely be
 pounded in a mortar. Cordite is of a brownish colour in mass, but is
 much paler when finely ground or scraped. The rods easily become
-electrified by gentle friction with a dry substance. Like all colloidal
+electrified by gentle [[Friction|friction]] with a dry substance. Like all colloidal
 substances it is an exceedingly bad conductor of heat. A piece ignited
-in air burns with a yellowish flame. With the smaller sizes, about 2 mm.
+in air [[Burns|burns]] with a yellowish flame. With the smaller sizes, about 2 mm.
 diameter or less, this flame may be blown out, and the rod will continue
-to burn in a suppressed manner without actual flame, fumes containing
+to [[Burn|burn]] in a suppressed manner without actual flame, fumes containing
 oxides of nitrogen being emitted. Temperature appears to have an effect
 on the rate of burning. When much cooled it certainly burns more slowly
 than when at the ordinary air temperature, and is also more difficult to
 ignite. Rods of moderate thickness, say from 5 mm. diameter, will
 continue to burn under water if first ignited in air and the burning
 portion slowly immersed. The end of a rod of cordite may be struck a
-moderately heavy blow on an anvil without exploding or igniting. The rod
+moderately heavy blow on an [[Anvil|anvil]] without exploding or igniting. The rod
 will first flatten out. A _sharp_ blow will then detonate or explode
 the portion immediately under the hammer, the remainder of the rod
-remaining quite intact. Bullets may be fired through a bundle or package
+remaining quite intact. [[Bullet|Bullets]] may be fired through a bundle or package
 of cordite without detonating or inflaming it. This is of course a
 valuable quality. The exact temperature at which substances ignite or
 take fire is in all cases difficult to determine with any exactness.
 Cordite is not _instantly_ ignited on contact with a flame such as that
-of a candle, because, perhaps, of the condensation of some moisture from
+of a [[Candle|candle]], because, perhaps, of the condensation of some moisture from
 the products of burning of the candle upon it. A blow-pipe flame or a
 red-hot wire is more rapid in action. The ignition temperature may be
 somewhere in the region of 180° C.
@@ -84,7 +84,7 @@ with acetone until it becomes a jelly; and then incorporating in a
 special mixing mill for about three hours, after which the weighed
 amount of mineral jelly is added and the incorporation continued for
 about one hour or until judged complete. The incorporating or mixing
-machine is covered as closely as possible to prevent too great
+[[Machine|machine]] is covered as closely as possible to prevent too great
 evaporation of the very volatile acetone. Before complete incorporation
 the mixture is termed, in the works, "paste," and, when finally mixed,
 "dough."
@@ -95,14 +95,14 @@ regulated size at one end, and a piston or plunger at the other. The
 plunger is worked either by hydraulic power or by a screw (driven from
 ordinary shafting). Before reaching and passing through the holes in the
 die, the material is filtered through a disk of fine wire gauze to
-retain any foreign substances, such as sand, bits of wood or metal, or
-unchanged fibres of cellulose, &c., which might choke the dies or be
+retain any foreign substances, such as sand, [[Bit|bits]] of wood or metal, or
+unchanged [[Fibres|fibres]] of [[Cellulose|cellulose]], &c., which might choke the dies or be
 otherwise dangerous. The material issues from the cylinders in the form
 of cord or string of the diameter of the holes of the die. The thicker
 sizes are cut off, as they issue, into lengths (of about 3 ft.), it
 being generally arranged that a certain number of these--say ten--should
 have, within narrow limits, a definite weight. The small sizes, such as
-those employed for rifle cartridges, are wound on reels or drums, as the
+those employed for rifle cartridges, are wound on reels or [[Drum|drums]], as the
 material issues from the press cylinders, in lengths of many yards.
 
 Some of the solvent or gelatinizing material (acetone) is lost during
@@ -126,7 +126,7 @@ glycerin, or in the making of these into gun-cotton or nitro-glycerin
 respectively. To help in controlling the blending, each "make" of
 gun-cotton and nitro-glycerin is "marked" or numbered, and carries its
 mark to the cordite batch of which it is an ingredient. The history of
-each box of large-sized or reel of small-sized cordite is therefore
+each [[Box|box]] of large-sized or reel of small-sized cordite is therefore
 known up to the operation of blending and packing. The final testing is
 by firing proofs, as in the case of the old gunpowders.
 
@@ -137,8 +137,8 @@ after complete washing with water gently pressed into small cylinders
 carefully dried before the nitro-glycerin is added. The pressure applied
 is only sufficient to make the gun-cotton just hold together so that it
 is easily mixed with the nitro-glycerin. The mineral jelly or vaseline
-is obtained at a certain stage of distillation of petroleum, and is a
-mixture of hydrocarbons, paraffins, olefines and some other unsaturated
+is obtained at a certain stage of [[Distillation|distillation]] of petroleum, and is a
+mixture of [[Hydrocarbon|hydrocarbons]], paraffins, olefines and some other unsaturated
 hydrocarbons, possibly aromatic, which no doubt play a very important
 part as preservatives in cordite.
 
@@ -163,7 +163,7 @@ mercuric chloride, which is sometimes added as a preservative, this test
 is rendered nugatory, and no coloration may appear (or only after a long
 exposure), although the sample may be of indifferent stability. It is
 now customary to examine specially for mercury, either by heating the
-explosive in contact with gold leaf or silver foil, or by burning the
+explosive in contact with gold [[Leaf|leaf]] or silver foil, or by burning the
 substance and examining the flame in the spectroscope.
 
 The method of examination known as the vacuum silvered vessel process is
@@ -184,24 +184,24 @@ instability.     (W. R. E. H.)
 
 
 
-CÓRDOBA, GONZALO FERNANDEZ DE (1453-1515), Spanish general and
+CÓRDOBA, GONZALO [[Fernandez|FERNANDEZ]] DE (1453-1515), Spanish general and
 statesman, usually spoken of by the Italianized form of his Christian
 name as GONSALVO DE CÓRDOBA, or as "the Great Captain," was the second
 son of Don Pedro Fernandez de Córdoba, count of Aguilar, and of his wife
-Elvira de Herrera, who belonged to the family of Enriquez, the
+[[Elvira]] de Herrera, who belonged to the family of Enriquez, the
 hereditary admirals of Castile, a branch of the royal house. Gonzalo was
 born at Montilla near the city of Córdova (Cordoba) on the 16th of March
 1453. The father died when he and his elder brother, Don Alonso, were
 mere boys. The counts of Aguilar carried on an hereditary feud with the
-rival house of Cabra, and the children were carried by their vassals
-into the faction fights of the two families. As a younger son Gonzalo
+rival house of [[Cabra]], and the children were carried by their vassals
+into the [[Faction|faction]] fights of the two families. As a younger son Gonzalo
 had his fortune to make, but he was generously aided by the affection of
 his elder brother, who was very wealthy. War and service in the king's
 court offered the one acceptable career outside the church to a
-gentleman of his birth.
+[[Gentleman|gentleman]] of his birth.
 
 He was first attached to the household of Don Alphonso, the king's
-brother, and upon his death devoted himself to Isabella, afterwards the
+brother, and upon his death devoted himself to [[Isabella]], afterwards the
 queen. During the civil war, and the conflict with Portugal which
 disturbed the first years of her reign, he fought under the grand master
 of Santiago, Alonso de Cardenas. After the battle of Albuera, the grand
@@ -223,7 +223,7 @@ was the defence of the advanced post of Illora, but he commanded the
 queen's escort when she wished to take a closer view of Granada, and he
 beat back a sortie of the Moors under her eyes. When Granada
 surrendered, he was one of the officers chosen to arrange the
-capitulation, and on the peace he was rewarded by a grant of land.
+[[Capitulation|capitulation]], and on the peace he was rewarded by a grant of land.
 
 So far he was only known as an able subordinate, but his capacity could
 not be hidden from such an excellent judge of character as Isabella, to
@@ -232,12 +232,12 @@ respect. When, therefore, the Catholic sovereigns decided to support the
 Aragonese house of Naples against Charles VIII. of France, Gonzalo was
 chosen by the influence of the queen, and in preference to older men, to
 command the Spanish expedition. It was in Italy that he won the title of
-the Great Captain; Guicciardini says that it was given him by the
+the Great Captain; [[Guicciardini]] says that it was given him by the
 customary arrogance of the Spaniards, but it was certainly accepted as
 just by all the soldiers of the time of whatever nationality. A detailed
 account of his campaigns cannot be given here. He held the command in
 Italy twice. In 1495 he was sent with a small force of little more than
-five thousand men to aid Ferdinand of Naples to recover his kingdom, and
+five thousand men to aid [[Ferdinand]] of Naples to recover his kingdom, and
 he returned home after achieving success, in 1498. After a brief
 interval of service against the conquered Moors who had risen in revolt,
 he returned to Italy in 1501. Ferdinand of Spain had entered into his
@@ -245,14 +245,14 @@ iniquitous compact with Louis XII. of France for the spoliation and
 division of the kingdom of Naples. The Great Captain was chosen to
 command the Spanish part of this robber coalition. As general and as
 viceroy of Naples he remained in Italy till 1507. During his first
-command he was mostly employed in Calabria in mountain warfare which
+command he was mostly employed in [[Calabria]] in mountain warfare which
 bore much resemblance to his former experience in Granada. There was,
 however, a material difference in the enemy. The French forces,
 commanded by the Scotsman Stuart d'Aubigny, consisted largely of Swiss
 pikemen, and of their own men-at-arms. With his veterans of the
-Granadine war, foot soldiers armed with sword and buckler, or arquebuses
-and crossbows, and light cavalry, trained to unsleeping vigilance,
-capable of long marches, and of an endurance unparalleled among the
+Granadine war, foot soldiers armed with sword and buckler, or [[Arquebus|arquebuses]]
+and crossbows, and light [[Cavalry|cavalry]], trained to unsleeping vigilance,
+capable of long [[Marches|marches]], and of an endurance unparalleled among the
 soldiers of the time, he could carry on a guerrillero warfare which wore
 down his opponents, who suffered far more than the Spaniards from the
 heat. But he saw clearly that this was not enough. His experience in
@@ -270,13 +270,13 @@ in outflanking the enemy, was primarily due to the Great Captain.
 
 The French were expelled by 1498 without another battle. When the Great
 Captain reappeared in Italy he had first to perform the congenial task
-of driving the Turk from Cephalonia, then to aid in robbing the king of
+of driving the Turk from [[Cephalonia]], then to aid in robbing the king of
 Naples, Frederick, brother of his old ally Ferdinand. When the king of
 Naples had been despoiled, the French and Spaniards quarrelled over the
 booty. The Great Captain now found himself with a much outnumbered army
 in the presence of the French. The war was divided into two phases very
 similar to one another. During the end of 1502 and the early part of
-1503 the Spaniards stood at bay in the entrenched camp at Barletta near
+1503 the Spaniards stood at bay in the entrenched camp at [[Barletta]] near
 the Ofanto on the shores of the Adriatic. He resolutely refused to be
 tempted into battle either by the taunts of the French or the discontent
 of his own soldiers. Meanwhile he employed the Aragonese partisans in
@@ -290,7 +290,7 @@ a headlong front attack, were repulsed, assailed in flank, and routed.
 The later operations on the Garigliano were very similar, and led to the
 total expulsion of the French from Naples. Gonzalo remained as governor
 of Naples till 1507. But he had become too great not to arouse the
-jealousy of such a typical king of the Renaissance as Ferdinand the
+[[Jealousy|jealousy]] of such a typical king of the Renaissance as Ferdinand the
 Catholic. The death of the queen in 1504 had deprived him of a friend,
 and it must be allowed that he was profuse in rewarding his captains and
 his soldiers out of the public treasury. Ferdinand loaded him with
@@ -318,14 +318,14 @@ pupils of the Great Captain or were trained by them.
   authorities, and made good use of them in his _Ferdinand and
   Isabella_. See also P. du Poncet, _Histoire de Gonsalve de Cordoue_
   (Paris, 1714). The _Gonsalve de Cordoue, ou Grenade reconquise_ of
-  Florian (Paris, 1791) is a romance.     (D. H.)
+  [[Florian]] (Paris, 1791) is a romance.     (D. H.)
 
 
 
 
 CÓRDOBA, a large central province of the Argentine Republic, bounded N.
 by Santiago del Estero, E. by Santa Fé, S. by Buenos Aires and La Pampa,
-W. by San Luis and Rioja, and N.W. by Catamarca. Pop. (1895) 351,223;
+W. by San Luis and Rioja, and N.W. by [[Catamarca]]. Pop. (1895) 351,223;
 (1904, estimate) 465,464; area, 62,160 sq. m. The greater part of the
 province belongs to the pampas, though less fertile and grassy than the
 plains farther E. and S. It likewise includes large saline and swampy
@@ -338,12 +338,12 @@ verdant appearance in comparison with the surrounding plains. West and
 N.W. of the sierras are extensive saline basins called Las Salinas
 Grandes, which extend into the neighbouring provinces and are absolutely
 barren. In the N.E. the land is low and swampy; here are the large
-saline lagoons of Mar Chiquita and Los Porongos. The principal rivers,
+saline [[Lagoon|lagoons]] of Mar Chiquita and Los Porongos. The principal rivers,
 which have their sources in the sierras and flow eastward, are the
 Primero and Segundo, which flow north-easterly into the lacustrine basin
 of Mar Chiquita; the Tercero and Quarto, which unite near the Santa Fé
 frontier to form the Carcaraña, a tributary of the Paraná; and the
-Quinto, which flows south-easterly into the swamps of the Laguna Amarga
+Quinto, which flows south-easterly into the swamps of the [[Laguna]] Amarga
 in the S. part of the province. Countless small streams also descend the
 eastern slopes of the sierras and are lost in the great plains. The
 eastern districts are moderately fertile, and are chiefly devoted to
@@ -352,7 +352,7 @@ well-watered foothills of the sierras, however, cereals, alfalfa and
 fruit are the principal products. The rainfall is limited throughout the
 province, and irrigation is employed in but few localities. The mineral
 resources include gold, silver, copper, lead and iron, but mining is
-carried on only to a very limited extent. Salt and marble are also
+carried on only to a very limited extent. Salt and [[Marble|marble]] are also
 produced. Córdoba is traversed by several railway lines--those running
 westward from Buenos Aires and Rosario to Mendoza and the Chilean
 frontier, those connecting the city of Córdoba with the same cities, and
@@ -380,9 +380,9 @@ settlements surround the city, the more important of which are served by
 the urban tramway lines. The streets are lighted by gas and electricity,
 and an excellent telephone service is maintained. The noteworthy public
 buildings include the cathedral, a handsome edifice curiously oriental
-in appearance, a massive old Jesuit church with a ceiling of richly
+in appearance, a massive old Jesuit church with a [[Ceiling|ceiling]] of richly
 carved and gilded cedar, the old university, founded in 1613, which
-still occupies the halls built by the Jesuits around a large quadrangle,
+still occupies the halls built by the [[Jesuits]] around a large quadrangle,
 the fine old _cabildo_, or government house, of Moorish appearance, and
 the national observatory on the _barranca_ overlooking the city. There
 are, also, two national normal schools, a national college, an episcopal

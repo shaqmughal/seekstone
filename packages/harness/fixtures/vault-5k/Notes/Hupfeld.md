@@ -1,10 +1,10 @@
 # Hupfeld
 
-HUPFELD, HERMANN (1796-1866), German Orientalist and Biblical
-commentator, was born on the 31st of March 1796 at Marburg, where he
+HUPFELD, [[Hermann|HERMANN]] (1796-1866), German Orientalist and Biblical
+commentator, was born on the 31st of March 1796 at [[Marburg]], where he
 studied philosophy and theology from 1813 to 1817; in 1819 he became a
 teacher in the gymnasium at Hanau, but in 1822 resigned that
-appointment. After studying for some time at Halle, he in 1824 settled
+appointment. After studying for some time at [[Halle]], he in 1824 settled
 as _Privatdocent_ in philosophy at that university, and in the following
 year was appointed extraordinary professor of theology at Marburg. There
 he received the ordinary professorships of Oriental languages and of
@@ -29,7 +29,7 @@ orthodoxy. He died at Halle on the 24th of April 1866.
   1867-1871, 3rd ed. 1888). Other writings are _Uber Begriff und Methode
   der sogenannten biblischen Einleitung_ (Marburg, 1844); _De primitiva
   et vera festorum apud Hebraeos ratione_ (Halle, 1851-1864); _Die
-  Quellen der Genesis von neuem untersucht_ (Berlin, 1853); _Die heutige
+  Quellen der [[Genesis]] von neuem untersucht_ (Berlin, 1853); _Die heutige
   theosophische oder mythologische Theologie und Schrifterklarung_
   (1861).
 

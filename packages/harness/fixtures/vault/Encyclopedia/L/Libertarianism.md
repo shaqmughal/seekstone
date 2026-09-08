@@ -7,10 +7,10 @@ type: article
 
 # Libertarianism
 
-LIBERTARIANISM (from Lat. _libertas_, freedom), in ethics, the doctrine
+LIBERTARIANISM (from Lat. _libertas_, freedom), in [[Ethics|ethics]], the doctrine
 which maintains the freedom of the will, as opposed to necessitarianism
 or determinism. It has been held in various forms. In its extreme form
-it maintains that the individual is absolutely free to chose this or
+it maintains that the individual is absolutely free to [[Chose|chose]] this or
 that action indifferently (the _liberum arbitrium indifferentiae_), but
 most libertarians admit that acquired tendencies, environment and the
 like, exercise control in a greater or less degree.

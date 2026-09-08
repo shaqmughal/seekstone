@@ -1,10 +1,10 @@
 # Horowitz
 
-HOROWITZ, ISAIAH (c. 1555-c. 1630), Jewish rabbi and mystic, was born at
+HOROWITZ, [[Isaiah|ISAIAH]] (c. 1555-c. 1630), Jewish rabbi and mystic, was born at
 Prague, and died at Safed, then the home of Jewish Kabbala. His largest
-work is called _Shelah_ (abbreviated from the initials of the full title
-_Shene luhoth ha-berit_, "Two Tables of the Covenant"). This is a
-compilation of ritual, ethics and mysticism, and had a profound
+work is called _Shelah_ (abbreviated from the [[Initials|initials]] of the full title
+_Shene luhoth ha-berit_, "Two Tables of the [[Covenant]]"). This is a
+compilation of ritual, [[Ethics|ethics]] and mysticism, and had a profound
 influence on Jewish life. It has been often reprinted, especially in an
 abbreviated form.
 

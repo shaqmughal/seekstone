@@ -11,7 +11,7 @@ _tundra_, sloping gently both ways. The mountain chain, which Ditmar
 calls central, seems to be interrupted under 57 deg. N. by a deep
 indentation corresponding to the valley of the Tighil. There too the
 hydrographical network, as well as the south-west to north-east strike
-of the clay-slates and metamorphic schists on Ditmar's map, seem to
+of the clay-slates and metamorphic schists on Ditmar's [[Map|map]], seem to
 indicate the existence of two chains running south-west to north-east,
 parallel to the volcanic chain of S.E. Kamchatka. Glaciers were not
 known till the year 1899, when they were discovered on the Byelaya and
@@ -39,7 +39,7 @@ them, Kluchevskaya (16,990 ft.), is in a state of almost incessant
 activity (notable outbreaks in 1729, 1737, 1841, 1853-1854, and
 1896-1897), a flow of its lava having reached to Kamchatka river in
 1853. The active Shiveluch (9900 ft.) is the last volcano of this chain.
-Several lakes and probably Avacha Bay are old craters. Copper, mercury,
+Several lakes and probably Avacha Bay are old [[Crater|craters]]. Copper, mercury,
 and iron ores, as also pure copper, ochre and sulphur, are found in the
 peninsula. The principal river is the Kamchatka (325 m. long), which
 flows first north-eastwards in a fertile longitudinal valley, and then,
@@ -48,7 +48,7 @@ chain. The other rivers are the Tighil (135 m.) and the Bolstraya (120
 m.), both flowing into the Sea of Okhotsk; and the Avacha, flowing into
 the Pacific.
 
-The floating ice which accumulates in the northern parts of the Sea of
+The floating [[Ice|ice]] which accumulates in the northern parts of the Sea of
 Okhotsk and the cold current which flows along the east coast of the
 peninsula render its summers chilly, but the winter is relatively warm,
 and temperatures below -40 deg. F. are experienced only in the highlands
@@ -56,11 +56,11 @@ of the interior and on the Okhotsk littoral. The average temperatures at
 Petropavlovsk (53 deg. N.) are: year 37 deg. F., January 17 deg., July
 58 deg.; while in the valley of the Kamchatka the average temperature of
 the winter is 16 deg., and of the summer as high as 58 deg. and 64 deg.
-Rain and snow are copious, and dense fogs enshroud the coast in summer;
+Rain and snow are copious, and dense [[Fog|fogs]] enshroud the coast in summer;
 consequently the mountains are well clothed with timber and the meadows
 with grass, except in the _tundras_ of the north. The natives eat
 extensively the bulbs of the Martagon lily, and weave cloth out of the
-fibres of the Kamchatka nettle. _Delphinopterus leucus_, the sea-lion
+[[Fibres|fibres]] of the Kamchatka nettle. _Delphinopterus leucus_, the sea-lion
 (_Otaria Stelleri_), and walrus abound off the coasts. The sea-otter
 (_Enhydris marina_) has been destroyed.
 
@@ -68,7 +68,7 @@ The population (5846 in 1870) was 7270 in 1900. The southern part of the
 peninsula is occupied by Kamchadales, who exhibit many attributes of the
 Mongolian race, but are more similar to the aborigines of N.E. Asia and
 N.W. America. Fishing (quantities of salmon enter the rivers) and
-hunting are their chief occupations. Dog-sledges are principally used as
+[[Hunting|hunting]] are their chief occupations. Dog-sledges are principally used as
 means of communication. The efforts of the government to introduce
 cattle-breeding have failed. The Kamchadale language cannot be assigned
 to any known group; its vocabulary is extremely poor. The purity of the
@@ -88,7 +88,7 @@ undertaken; in 1725-1730 it was visited by Bering's expedition; and in
 1733-1745 it was the scene of the labours of the Krasheninnikov and
 Steller expedition.
 
-  See G. A. Erman, _Reise um die Erde_ iii., (Berlin, 1848); C. von
+  See G. A. [[Erman]], _Reise um die Erde_ iii., (Berlin, 1848); C. von
   Ditmar, _Reisen und Aufenthalt in Kamchatka in den Jahren 1851-1855_
   (1890-1900); G. Kennan, _Tent Life in Siberia_ (1870), and paper in
   _Jour. of American Geog. Soc._ (1876); K. Diener, in _Petermann's

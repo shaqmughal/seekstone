@@ -35,7 +35,7 @@ ivory nut which determines the one end of the vibrating strings, while
 the nut at the end of the fingerboard determines the other. The neck and
 fingerboard are made of hard wood, such as ebony, beech or pear. The
 head, bent back from the neck at an obtuse angle contains two parallel
-barrels or long holes through which the pegs or metal screws pass, three
+[[Barrel|barrels]] or long holes through which the pegs or metal screws pass, three
 on each side of the head. The correct positions for stopping the
 intervals are marked on the fingerboard by little metal ridges called
 frets. The modern guitar has six strings, three of gut and three of silk
@@ -128,7 +128,7 @@ FIG. 1.--Spanish Guitar with seven Strings. 1555. _Vihuela da Mano_.]
   Anglo-Saxon artist attached to the Reims school, are unique, and
   illustrate the Psalter, psalm by psalm. It is evident that the
   Anglo-Saxon artist, while endowed with extraordinary talent and vivid
-  imagination, drew his inspiration from an older Greek illustrated
+  [[Imagination|imagination]], drew his inspiration from an older Greek illustrated
   Psalter from the Christian East,[14] where the evolution of the guitar
   took place.
 
@@ -164,7 +164,7 @@ FIG. 1.--Spanish Guitar with seven Strings. 1555. _Vihuela da Mano_.]
   centre of the rose to the tail end. From this time until the middle of
   the 19th century the guitar enjoyed great popularity on the continent,
   and became the fashionable instrument in England after the Peninsular
-  War, mainly through the virtuosity of Ferdinand Sor, who also wrote
+  War, mainly through the virtuosity of [[Ferdinand]] Sor, who also wrote
   compositions for it. This popularity of the guitar was due less to its
   merits as a solo instrument than to the ease with which it could be
   mastered sufficiently to accompany the voice. The advent of the
@@ -199,7 +199,7 @@ FOOTNOTES:
   [6] See Denon's _Voyage in Egypt_ (London, 1807, pl. 55).
 
   [7] Illustrated from a drawing in Perrot and Chipiez, "Judee
-    Sardaigne, Syrie, Cappadoce." Vol. iv. of _Hist. de l'art dans
+    Sardaigne, Syrie, Cappadoce." Vol. iv. of _Hist. de l'art [[Dan|dans]]
     l'antiquite_, Paris, 1887, p. 670. Also see plate from a photograph
     by Prof. John Garstang, in Kathleen Schlesinger, _op. cit._
 
@@ -236,7 +236,7 @@ FOOTNOTES:
     xv. (Stuttgart, 1892), pp. 156-166; Franz Friedrich Leitschuh,
     _Geschichte der karolingischen Malerei, ihr Bilderkreis und seine
     Quellen_ (Berlin, 1894), pp. 321-330; Adolf Goldschmidt, _Der Albani
-    Psalter in Hildesheim_, &c. (Berlin, 1895); Paul Durrieu, _L'Origine
+    Psalter in [[Hildesheim]]_, &c. (Berlin, 1895); Paul Durrieu, _L'Origine
     du MS. celebre dit le Psaultier d'Utrecht_ (Paris, 1895); Hans
     Graeven, "Die Vorlage des Utrecht Psalters," paper read before the
     XI. International Oriental Congress, Paris, 1897. See also

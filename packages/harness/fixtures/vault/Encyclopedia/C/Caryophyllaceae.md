@@ -9,9 +9,9 @@ type: source
 
 CARYOPHYLLACEAE, a botanical order of dicotyledonous plants, containing
 about 60 genera with 1300 species, and widely distributed, especially in
-temperate, alpine and arctic regions. The plants are herbs, sometimes
+temperate, alpine and [[Arctic|arctic]] regions. The plants are [[Herb|herbs]], sometimes
 becoming shrubby at the base, with opposite, simple, generally uncut
-leaves and swollen nodes. The main axis ends in a flower (definite
+leaves and swollen nodes. The main axis ends in a [[Flower|flower]] (definite
 inflorescence), and flower-bearing branches are borne one on each side
 by which the branching is often continued (known technically as a
 dichasial cyme). The flowers are regular, with four or five sepals which
@@ -21,7 +21,7 @@ many stamens, inserted with the petals, and a pistil of two to five
 carpels joined to form an ovary containing a large number of ovules on a
 central placenta and bearing two to five styles; the ovary is one-celled
 or incompletely partitioned at the base into three to five cells; honey
-is secreted at the base of the stamens. The fruit is a capsule
+is secreted at the base of the stamens. The fruit is a [[Capsule|capsule]]
 containing a large number of small seeds and opening by apical teeth;
 the seed contains a floury endosperm and a curved embryo.
 
@@ -37,8 +37,8 @@ ensuring pollination.
 
 Tribe I. _Alsineae_: the sepals are free and the flowers are open, with
 spreading petals, and the honey which is secreted at the base of the
-stamens is exposed to the visits of short-tongued insects, such as
-flies and small bees; the petals are white in colour. It includes
+stamens is exposed to the visits of short-tongued [[Insect|insects]], such as
+flies and small [[Bee|bees]]; the petals are white in colour. It includes
 several British genera, _Cerastium_ (mouse-ear chickweed), _Stellaria_
 (fig. 1) (stitchwort and chickweed), _Arenaria_ (sandwort), _Sagina_
 (pearlwort), _Spergula_ (spurrey) and _Spergularia_ (sandwort spurrey).
@@ -54,10 +54,10 @@ covered with ovules g.]
 Tribe II. _Sileneae_: the sepals are joined below to form a narrow tube,
 in which stand the long claws of the petals and the stamens, partly
 closing the tube and rendering the honey inaccessible to all but
-long-tongued insects such as the larger bees and Lepidoptera. The
+long-tongued insects such as the larger bees and [[Lepidoptera]]. The
 flowers are often red. It includes several British genera:--_Dianthus_
-(pink) fig. 2, _Silene_ (catchfly, bladder campion), _Lychnis_ (campion,
-_L. Flos-Cuculi_ is ragged robin), and _Githago_ or _Agrostemma_ (corn
+(pink) fig. 2, _Silene_ (catchfly, [[Bladder|bladder]] [[Campion|campion]]), _Lychnis_ (campion,
+_L. Flos-Cuculi_ is ragged robin), and _Githago_ or _Agrostemma_ ([[Corn|corn]]
 cockle). Several, such as _Lychnis vespertina, Silene nutans_ and
 others, are night-flowering, opening their flowers and becoming scented
 in the evening or at night, when they are visited by night-flying moths.

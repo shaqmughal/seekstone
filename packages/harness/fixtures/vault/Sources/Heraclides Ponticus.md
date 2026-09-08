@@ -2,14 +2,14 @@
 
 HERACLIDES PONTICUS, Greek philosopher and miscellaneous writer, born at
 Heraclea in Pontus, flourished in the 4th century B.C. He studied
-philosophy at Athens under Speusippus, Plato and Aristotle. According to
+philosophy at Athens under Speusippus, Plato and [[Aristotle]]. According to
 Suidas, Plato, on his departure for Sicily, left his pupils in charge of
 Heraclides. The latter part of his life was spent at Heraclea. He is
 said to have been vain and fat, and to have been so fond of display that
 he was nicknamed Pompicus, or the Showy (unless the epithet refers to
 his literary style). Various idle stories are related about him. On one
 occasion, for instance, Heraclea was afflicted with famine, and the
-Pythian priestess at Delphi, bribed by Heraclides, assured his inquiring
+Pythian priestess at [[Delphi]], bribed by Heraclides, assured his inquiring
 townsmen that the dearth would be stayed if they granted a golden crown
 to that philosopher. This was done; but just as Heraclides was receiving
 his honour in a crowded assembly, he was seized with apoplexy, while the

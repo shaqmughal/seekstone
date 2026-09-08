@@ -6,7 +6,7 @@ great progress in the ancient languages and in the civil and the canon
 law; and in 1602 he received the degree of doctor of law, and was made
 avocat to the parlement of Aix. In 1609 he obtained a professorship in
 the university of his native town. He is best known by his translation
-of the _Basilica_, which may be said to have formed the code of the
+of the _Basilica_, which may be said to have formed the [[Code|code]] of the
 Eastern empire till its destruction. This work was published at Paris in
 1647 in 7 vols. fol., and obtained for its author a considerable pension
 from the chancellor, Pierre Seguier, to whom it was dedicated. Fabrot

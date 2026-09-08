@@ -14,7 +14,7 @@ Rahere, who had taken orders and had founded the priory of St Bartholomew
 close by. For many centuries the fair lasted a fortnight, but in 1691 it
 was shortened to four days only. In 1641 it had become so large that it
 involved no less than four parishes: Christ Church, Great and Little St
-Bartholomew's and St Sepulchre's. It was customary for the lord mayor of
+Bartholomew's and St Sepulchre's. It was customary for the lord [[Mayor|mayor]] of
 London to open the fair formally on St Bartholomew's Eve, and on his way to
 stop at Newgate where he received from the governor a cup of sack. In 1753,
 owing to the change in the calendar, the fair was proclaimed on the 3rd of

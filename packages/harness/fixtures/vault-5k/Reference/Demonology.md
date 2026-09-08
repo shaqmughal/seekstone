@@ -34,7 +34,7 @@ world. But just as gods are not necessarily spiritual, demons may also
 be regarded as corporeal; vampires for example are sometimes described
 as human heads with appended entrails, which issue from the tomb to
 attack the living during the night watches. The so-called Spectre
-Huntsman of the Malay Peninsula is said to be a man who scours the
+[[Huntsman]] of the [[Malay Peninsula]] is said to be a man who scours the
 firmament with his dogs, vainly seeking for what he could not find on
 earth--a buck mouse-deer pregnant with male offspring; but he seems to
 be a living man; there is no statement that he ever died, nor yet that
@@ -51,7 +51,7 @@ certain element or even object, and themselves in subjection to a
 greater spirit. Thus, the Eskimo are said to believe in spirits of the
 sea, earth and sky, the winds, the clouds and everything in nature.
 Every cove of the seashore, every point, every island and prominent rock
-has its guardian spirit. All are of the malignant type, to be
+has its [[Guardian|guardian]] spirit. All are of the malignant type, to be
 propitiated only by acceptable offerings from persons who desire to
 visit the locality where it is supposed to reside. A rise in culture
 often results in an increase in the number of spiritual beings with whom
@@ -65,7 +65,7 @@ upon him from air, earth and water.
 Especially complicated was the ancient Babylonian demonology; all the
 petty annoyances of life--a sudden fall, a headache, a quarrel--were set
 down to the agency of fiends; all the stronger emotions--love, hate,
-jealousy and so on--were regarded as the work of demons; in fact so
+[[Jealousy|jealousy]] and so on--were regarded as the work of demons; in fact so
 numerous were they, that there were special fiends for various parts of
 the human body--one for the head, another for the neck, and so on.
 Similarly in Egypt at the present day the _jinn_ are believed to swarm
@@ -94,11 +94,11 @@ nature are conceived as neutral or even benevolent; the European peasant
 fears the corn-spirit only when he irritates him by trenching on his
 domain and taking his property by cutting the corn; similarly, there is
 no reason why the more insignificant personages of the pantheon should
-be conceived as malevolent, and we find that the _Petara_ of the Dyaks
+be conceived as malevolent, and we find that the _Petara_ of the [[Dyaks]]
 are far from indiscriminating and malignant, though disease and death
 are laid at their door.
 
-_Classification._--Besides the distinctions of human and non-human,
+_[[Classification]]._--Besides the distinctions of human and non-human,
 hostile and friendly, the demons in which the lower races believe are
 classified by them according to function, each class with a distinctive
 name, with extraordinary minuteness, the list in the case of the Malays
@@ -129,7 +129,7 @@ logical consequence of this view of disease the mode of treatment among
 peoples in the lower stages of culture is mainly magical; they endeavour
 to propitiate the evil spirits by sacrifice, to expel them by spells,
 &c. (see EXORCISM), to drive them away by blowing, &c.; conversely we
-find the Khonds attempt to keep away smallpox by placing thorns and
+find the [[Khonds]] attempt to keep away smallpox by placing thorns and
 brushwood in the paths leading to places decimated by that disease, in
 the hope of making the disease demon retrace his steps. This theory of
 disease disappeared sooner than did the belief in possession; the
@@ -150,7 +150,7 @@ aid of a familiar.
 familiar, tutelary spirit; according to Hesiod the men of the golden
 race became after death guardians or watchers over mortals. The idea is
 found among the Romans also; they attributed to every man a genius who
-accompanied him through life. A Norse belief found in Iceland is that
+accompanied him through life. A Norse belief found in [[Iceland]] is that
 the _fylgia_, a genius in animal form, attends human beings; and these
 animal guardians may sometimes be seen fighting; in the same way the
 Siberian shamans send their animal familiars to do battle instead of
@@ -201,22 +201,22 @@ days of this worship a sound is heard and the operator puts his finger
 into the bottle for the polong, as the demon is called, to suck; it will
 fly through the air in the shape of an exceedingly diminutive female
 figure, and is always preceded by its pet, the pelesit, in the shape of
-a grasshopper. In Europe a similar demon is said to be obtainable from a
-cock's egg. In South Africa and India, on the other hand, the magician
+a [[Grasshopper|grasshopper]]. In Europe a similar demon is said to be obtainable from a
+cock's [[Egg|egg]]. In South Africa and India, on the other hand, the magician
 digs up a dead body, especially of a child, to secure a familiar. The
 evocation of spirits, especially in the form of necromancy, is an
 important branch of the demonology of many peoples; and the
 peculiarities of trance mediumship, which seem sufficiently established
 by modern research, go far to explain the vogue of this art. It seems to
-have been common among the Jews, and the case of the witch of Endor is
-narrated in a way to suggest something beyond fraud; in the book of
+have been common among the Jews, and the case of the witch of [[Endor]] is
+narrated in a way to suggest something beyond [[Fraud|fraud]]; in the book of
 magic which bears the name of Dr Faustus may be found many of the
 formulae for raising demons; in England may be mentioned especially Dr
 Dee as one of the most famous of those who claimed before the days of
 modern spiritualism (q.v.) to have intercourse with the unseen world and
 to summon demons at his will. Sometimes the spirits were summoned to
 appear as did the phantoms of the Greek heroes to Odysseus; sometimes
-they were called to enter a crystal (see CRYSTAL-GAZING); sometimes they
+they were called to enter a crystal (see [[Crystal-Gazing|CRYSTAL-GAZING]]); sometimes they
 are merely asked to declare the future or communicate by moving external
 objects without taking a visible form; thus among the Karens at the
 close of the burial ceremonies the ghost of the dead man, which is said
@@ -234,7 +234,7 @@ to catch her; she is said to keep vinegar at home to aid her in
 re-entering her own body. In Europe the Slavonic area is the principal
 seat of vampire beliefs, and here too we find, as a natural development,
 that means of preventing the dead from injuring the living have been
-evolved by the popular mind. The corpse of the vampire, which may often
+evolved by the popular mind. The [[Corpse|corpse]] of the vampire, which may often
 be recognized by its unnaturally ruddy and fresh appearance, should be
 staked down in the grave or its head should be cut off; it is
 interesting to note that the cutting off of heads of the dead was a
@@ -248,7 +248,7 @@ LYCANTHROPY).
 "nightmare" (A. S. _mær_, spirit, elf) preserves for us a record of this
 form of belief, which is found right down to the lowest planes of
 culture. The Australian, when he suffers from an oppression in his
-sleep, says that Koin is trying to throttle him; the Caribs say that
+sleep, says that Koin is trying to throttle him; the [[Caribs]] say that
 Maboya beats them in their sleep; and the belief persists to this day in
 some parts of Europe; horses too are said to be subject to the
 persecutions of demons, which ride them at night. Another class of
@@ -274,9 +274,9 @@ this the South African belief that the snakes which are in the
 neighbourhood of the kraal are the incarnations of the ancestors of the
 residents, it seems probable that some similar idea lay at the bottom of
 the Roman belief; to this day in European folklore the house snake or
-toad, which lives in the cellar, is regarded as the "life index" or
+toad, which lives in the cellar, is regarded as the "life [[Index|index]]" or
 other self of the father of the house; the death of one involves the
-death of the other, according to popular belief. The assignment of genii
+death of the other, according to popular belief. The [[Assignment|assignment]] of genii
 to buildings and gates is connected with an important class of
 sacrifices; in order to provide a tutelary spirit, or to appease
 chthonic deities, it was often the custom to sacrifice a human being or
@@ -284,7 +284,7 @@ an animal at the foundation of a building; sometimes we find a similar
 guardian provided for the frontier of a country or of a tribe. The house
 spirit is, however, not necessarily connected with this idea. In Russia
 the _domovoi_ (house spirit) is an important personage in folk-belief;
-he may object to certain kinds of animals, or to certain colours in
+he may object to certain kinds of animals, or to certain [[Colours|colours]] in
 cattle; and must, generally speaking, be propitiated and cared for.
 Corresponding to him we have the drudging goblin of English folklore.
 
@@ -293,13 +293,13 @@ existence of all kinds of local spirits, which are sometimes tied to
 their habitats, sometimes free to wander. Especially prominent in
 Europe, classical, medieval and modern, and in East Asia, is the spirit
 of the lake, river, spring, or well, often conceived as human, but also
-in the form of a bull or horse; the term Old Nick may refer to the
+in the form of a [[Bull|bull]] or horse; the term Old Nick may refer to the
 water-horse Nök. Less specialized in their functions are many of the
 figures of modern folklore, some of whom have perhaps replaced some
 ancient goddess, e.g. Frau Holda; others, like the Welsh Pwck, the
 Lancashire boggarts or the more widely found Jack-o'-Lantern (Will o'
 the Wisp), are sprites who do no more harm than leading the wanderer
-astray. The banshee is perhaps connected with ancestral or house
+astray. The [[Banshee|banshee]] is perhaps connected with ancestral or house
 spirits; the Wild Huntsman, the Gabriel hounds, the Seven Whistlers,
 &c., are traceable to some actual phenomenon; but the great mass of
 British goblindom cannot now be traced back to savage or barbarous
@@ -322,9 +322,9 @@ take the form, sometimes of an animal, sometimes of a man or woman,
 sometimes of a child. There is, however, no proof that the belief is
 animistic in the proper sense. The animal which popular belief
 identified with the corn demon is sometimes killed in the spring in
-order to mingle its blood or bones with the seed; at harvest-time it is
+order to mingle its blood or [[Bone|bones]] with the seed; at harvest-time it is
 supposed to sit in the last corn and the animals driven out from it are
-sometimes killed; at others the reaper who cuts the last ear is said to
+sometimes killed; at others the reaper who cuts the last [[Ear|ear]] is said to
 have killed the "wolf" or the "dog," and sometimes receives the name of
 "wolf" or "dog" and retains it till the next harvest. The corn spirit is
 also said to be hiding in the barn till the corn is threshed, or it may
@@ -346,7 +346,7 @@ Africa the Kimbunda believe in Suku-Vakange, but hold that he has
 committed the government of the universe to innumerable _kilulu_ good
 and bad; the latter kind are held to be far more numerous, but
 Suku-Vakange is said to keep them in order by occasionally smiting them
-with his thunderbolts; were it not for this, man's lot would be
+with his thunderbolts; were it not for this, man's [[Lot|lot]] would be
 insupportable.
 
 Sometimes the gods of an older religion degenerate into the demons of
@@ -378,13 +378,13 @@ ceremonies.
    Skeat, _Malay Magic_; Bastian, _Der Mensch in der Geschichte_;
    Callaway, _Religion of the Amazulu_; Hild, _Étude sur les démons_;
    Welcker, _Griechische Götterlehre_, i. 731; _Trans. Am. Phil. Soc._
-   xxvi. 79; Calmet, _Dissertation sur les esprits_; Maury, _La Magie_;
+   xxvi. 79; Calmet, _Dissertation sur les esprits_; [[Maury]], _La Magie_;
    L. W. King, _Babylonian Magic_; Lenormant, _La Magie chez les
    Chaldéens_; R. C. Thompson, _Devils and Evil Spirits of Babylonia_;
    Grimm, _Deutsche Mythologie_; Roskoff, _Geschichte des Teufels_;
    Sibly, _Illustration of the Occult Sciences_; Scott, _Demonology_;
    Pitcairn, _Scottish Criminal Trials_; _Jewish Quarterly Rev._ viii.
-   576, &c.; Horst, _Zauberbibliothek_; _Jewish Encyclopedia_, s.v.
+   576, &c.; [[Horst]], _Zauberbibliothek_; _Jewish Encyclopedia_, s.v.
    "Demonology." See also bibliography to POSSESSION, ANIMISM and other
    articles.                                               (N. W. T.)
 

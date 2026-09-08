@@ -3,15 +3,15 @@
 JUTLAND (Danish _Jylland_), though embracing several islands as well as
 a peninsula, may be said to belong to the continental portion of the
 kingdom of Denmark. The peninsula (Chersonese or Cimbric peninsula of
-ancient geography) extends northward, from a line between Lubeck and the
-mouth of the Elbe, for 270 m. to the promontory of the Skaw (Skagen),
+ancient [[Geography|geography]]) extends northward, from a line between Lubeck and the
+mouth of the [[Elbe]], for 270 m. to the promontory of the Skaw (Skagen),
 thus preventing a natural communication directly east and west between
 the Baltic and North Seas. The northern portion only is Danish, and
 bears the name Jutland. The southern is German, belonging to
 Schleswig-Holstein. The peninsula is almost at its narrowest (36 m.) at
 the frontier, but Jutland has an extreme breadth of 110 m. and the
 extent from the south-western point (near Ribe) to the Skaw is 180 m.
-Jutland embraces nine _amter_ (counties), namely, Hjorring, Thisted,
+Jutland embraces nine _amter_ (counties), namely, [[Hjorring]], Thisted,
 Aalborg, Ringkjobing, Viborg, Randers, Aarhus, Vejle and Ribe. The main
 watershed of the peninsula lies towards the east coast; therefore such
 elevated ground as exists is found on the east, while the western slope
@@ -32,7 +32,7 @@ extends towards Sweden, the strait between Jutland and Funen having the
 name of the Little Belt. The low and dangerous coasts, off which the
 seas are generally very shallow, are efficiently served by a series of
 lifeboat stations. The western coast region is well compared with the
-Landes of Gascony. The interior is low. The Varde, Omme, Skjerne, Stor
+[[Landes]] of Gascony. The interior is low. The Varde, Omme, Skjerne, Stor
 and Karup, sluggish and tortuous streams draining into the western
 lagoons, rise in and flow through marshes, while the eastern Limfjord is
 flanked by the swamps known as Vildmose. The only considerable river is
@@ -62,7 +62,7 @@ advice, partly of experimental attempts, and partly of model works for
 imitation. The state also makes annual grants directly to owners who are
 willing to place their plantations under state supervision, for the sale
 of plants at half price to the poorer peasantry, for making protective
-or sheltering plantations, and for free transport of marl or loam. The
+or sheltering plantations, and for free transport of [[Marl|marl]] or loam. The
 species of timber almost exclusively planted are the red fir (_Picea
 excelsa_) and the mountain pine (_Pinus montana_). This admirable work
 quickly caused the population to increase at a more rapid rate in the
@@ -72,7 +72,7 @@ principal heath district.
 
 Jutland is well served by railways. Two lines cross the frontier from
 Germany on the east and west respectively and run northward near the
-coasts. The eastern touches the ports of Kolding, Fredericia, Vejle,
+coasts. The eastern touches the ports of [[Kolding]], Fredericia, Vejle,
 Horsens, Aarhus, Randers, Aalborg on Limfjord, Frederikshavn and Skagen.
 On the west the only port of first importance is Esbjerg. The line runs
 past Skjerne, Ringkjobing, Vemb and Holstebro to Thisted. Both throw off

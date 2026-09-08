@@ -61,7 +61,7 @@ Lithuanians was elected king on the 21st of May. By this time, however,
 the state of things in the Ukraine was so alarming that the new king had
 to hasten to the front. Assisted by French diplomacy at the Porte (Louis
 XIV. desiring to employ Poland against Austria), and his own skilful
-negotiations with the Tatar khan, John III. now tried to follow the
+negotiations with the Tatar [[Khan|khan]], John III. now tried to follow the
 example of Wladislaus IV. by leaving the guardianship of the Ukraine
 entirely in the hands of the Cossacks, while he assembled as many
 regulars and militiamen as possible at Lemberg, whence he might hasten

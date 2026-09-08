@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Feuilleton
 
 # Feuilleton
 
-FEUILLETON (a diminutive of the Fr. _feuillet_, the leaf of a book),
+FEUILLETON (a diminutive of the Fr. _feuillet_, the [[Leaf|leaf]] of a book),
 originally a kind of supplement attached to the political portion of
 French newspapers. Its inventor was Bertin the elder, editor of the
 _Débats_. It was not usually printed on a separate sheet, but merely
@@ -15,33 +15,33 @@ separated from the political part of the newspaper by a line, and
 printed in smaller type. In French newspapers it consists chiefly of
 non-political news and gossip, literature and art criticism, a chronicle
 of the fashions, and epigrams, charades and other literary trifles; and
-its general characteristics are lightness, grace and sparkle. The
+its general characteristics are lightness, [[Grace|grace]] and sparkle. The
 _feuilleton_ in its French sense has never been adopted by English
 newspapers, though in various modern journals (in the United States
 especially) the sort of matter represented by it is now included. But
-the term itself has come into English use to indicate the instalment of
+the term itself has come into English use to indicate the [[Instalment|instalment]] of
 a serial story printed in one part of a newspaper.
 
 
 
 
-FEUQUIÈRES, ISAAC MANASSÈS DE PAS, MARQUIS DE (1590-1640), French
+FEUQUIÈRES, [[Isaac|ISAAC]] MANASSÈS DE PAS, MARQUIS DE (1590-1640), French
 soldier, came of a distinguished family of which many members held high
 command in the civil wars of the 16th century. He entered the Royal army
 at the age of thirty, and soon achieved distinction. In 1626 he served
 in the Valtelline, and in 1628-1629 at the celebrated siege of La
 Rochelle, where he was taken prisoner. In 1629 he was made _Maréchal de
 Camp_, and served in the fighting on the southern frontiers of France.
-After occupying various military positions in Lorraine, he was sent as
+After occupying various military positions in [[Lorraine]], he was sent as
 an ambassador into Germany, where he rendered important services in
-negotiations with Wallenstein. In 1636 he commanded the French corps
+negotiations with Wallenstein. In 1636 he commanded the French [[Corps|corps]]
 operating with the duke of Weimar's forces (afterwards Turenne's "Army
 of Weimar"). With these troops he served in the campaigns of 1637 (in
 which he became lieutenant-general), 1638 and 1639. At the siege of
-Thionville (Diedenhofen) he received a mortal wound. His _lettres
+Thionville ([[Diedenhofen]]) he received a mortal wound. His _lettres
 inédites_ appeared (ed. Gallois) in Paris in 1845.
 
-His son ANTOINE MANASSÈS DE PAS, Marquis de Feuquières (1648-1711), was
+His son [[Antoine|ANTOINE]] MANASSÈS DE PAS, Marquis de Feuquières (1648-1711), was
 born at Paris in 1648, and entered the army at the age of eighteen. His
 conduct at the siege of Lille in 1667, where he was wounded, won him
 promotion to the rank of captain. In the campaigns of 1672 and 1673 he
@@ -55,10 +55,10 @@ Catinat against the Waldenses, and in the course of the war won the
 nickname of the "Wizard." In 1692 he made a brilliant defence of
 Speierbach against greatly superior forces, and was rewarded with the
 rank of lieutenant-general. He bore a distinguished part in Luxemburg's
-great victory of Neerwinden or Landen in 1693. Marshal Villeroi
-impressed him less favourably than his old commander Luxemburg, and the
+great victory of Neerwinden or [[Landen]] in 1693. Marshal Villeroi
+impressed him less favourably than his old [[Commander|commander]] Luxemburg, and the
 resumption of war in 1701 found him in disfavour in consequence. The
-rest of his life, embittered by the refusal of the marshal's baton, he
+rest of his life, embittered by the refusal of the marshal's [[Baton|baton]], he
 spent in compiling his celebrated memoirs, which, coloured as they were
 by the personal animosities of the writer, were yet considered by
 Frederick the Great and the soldiers of the 18th century as the standard

@@ -7,12 +7,12 @@ topic: inventors-studies
 # Azoimide
 
 AZOIMIDE, or HYDRAZOIC ACID, N_3H, a compound of nitrogen and hydrogen,
-first isolated in 1890 by Th. Curtius (_Berichte_, 1890, 23, p. 3023). It
-is the hydrogen compound corresponding to P. Greiss' diazoimino benzene,
+first isolated in 1890 by Th. [[Curtius]] (_Berichte_, 1890, 23, p. 3023). It
+is the hydrogen compound corresponding to P. Greiss' diazoimino [[Benzene|benzene]],
 C_6H_5N_3, which is prepared by the addition of ammonia to diazobenzene
 perbromide.
 
-Curtius found that benzoyl glycollic acid gave benzoyl hydrazine with
+Curtius found that benzoyl glycollic acid gave benzoyl [[Hydrazine|hydrazine]] with
 hydrazine hydrate:
 
   C_6H_5OCO·CH_2COOH + 2N_2H_4·H_2O = H_2O + C_6H_5CONH·NH_2 +
@@ -26,11 +26,11 @@ acid, which changed spontaneously into benzoylazoimide by loss of water:
         C_6H_5CO·N(NO)·NH_2 = H_2O + C_6H_5CO·N_3.
 
 The resulting benzoylazoimide is easily hydrolysed by boiling with
-alcoholic solutions of caustic alkalis, a benzoate of the alkali metal and
+alcoholic solutions of [[Caustic|caustic]] alkalis, a benzoate of the alkali metal and
 an alkali salt of the new acid being obtained; the latter is precipitated
 in crystalline condition on standing.
 
-An improved method of preparation was found in the use of hippuric acid,
+An improved method of preparation was found in the use of [[Hippuric Acid|hippuric acid]],
 which reacts with hydrazine hydrate to form hippuryl hydrazine,
 C_6H_5CONH·CH_2CONH·NH_2, and this substance is converted by nitrous acid
 into diazo-hippuramide, C_6H_5CONH·CH_2·CO·NH·N_2·OH, which is hydrolysed
@@ -38,7 +38,7 @@ by the action of caustic alkalis with the production of salts of hydrazoic
 acid. To obtain the free acid it is best to dissolve the diazo-hippuramide
 in dilute soda, warm the solution to ensure the formation of the sodium
 salt, and distil the resulting liquid with dilute sulphuric acid. The pure
-acid may be obtained by fractional distillation as a colourless liquid of
+acid may be obtained by fractional [[Distillation|distillation]] as a colourless liquid of
 very unpleasant smell, boiling at 30° C., and extremely explosive. It is
 soluble in water, and the solution dissolves many metals (zinc, iron, &c.)
 with liberation of hydrogen and formation of salts (azoimides, azides or
@@ -51,7 +51,7 @@ being ionized only to a very slight extent in dilute aqueous solution.
 
 E. Noelting and E. Grandmougin (_Berichte_, 1891, 24, p. 2546) obtained
 azoimide from dinitraniline, C_6H_3(NO_2)_2·NH_2, by diazotization and
-conversion of the diazo compound into the perbromide,
+[[Conversion|conversion]] of the diazo compound into the perbromide,
 (NO_2)_2C_6H_3·N_2·Br_3. This compound is then decomposed by ammonia,
 dinitrophenylhydrazoate being formed, which on hydrolysis with alcoholic
 potash gives potassium hydrazoate (azide) and dinitrophenol. The solution

@@ -1,7 +1,7 @@
 # Magallanes
 
-MAGALLANES (Spanish form of _Magellan_), a territory of southern Chile
-extending from 47° S. to Cape Horn and including the mainland from the
+MAGALLANES (Spanish form of _Magellan_), a territory of southern [[Chile]]
+extending from 47° S. to Cape [[Horn]] and including the mainland from the
 Argentine frontier to the Pacific coast, the islands extending along
 that coast, the Fuegian archipelago, and the western half of Tierra del
 Fuego. Area, about 71,127 sq. m.; pop. (1895), 5170. It is one of the
@@ -12,7 +12,7 @@ of the inclement climate and the wet spongy soil. The coast is indented
 with bays and fjords and affords remarkable scenery. There is little
 animal life on land, but the coast is frequented by the seal and
 sea-otter and the sheltered waters by countless sea-fowl. The only
-permanent settlements are at Punta Arenas, the capital, on the Straits
+permanent settlements are at Punta [[Arena|Arenas]], the capital, on the Straits
 of Magellan, Palomares on Otway Water, Mina Marta on Skyring Water, and
 Ultima Esperanza (Last Hope) on the east shore of Worsley Sound. All are
 east of the Andean ranges and partially sheltered from the westerly

@@ -74,7 +74,7 @@ of chemists and druggists. It was also provided that the act should in
 no way interfere with the rights or privileges of the English
 universities, or of the English College of Surgeons or the College of
 Physicians; and indeed a clause imposed severe penalties on any
-apothecaries who should refuse to compound and dispense medicines on the
+apothecaries who should refuse to [[Compound|compound]] and dispense medicines on the
 order of a physician, legally qualified to act as such. It is therefore
 clear that the act contemplated the creation of a class of practitioners
 who, while having the right to practise medicine, should assist and
@@ -131,9 +131,9 @@ the list of licentiates if they acquit themselves satisfactorily.
 
 The Apothecaries' Society is governed by a master, two wardens and
 twenty-two assistants. The members are divided into THREE grades,
-yeomanry or freemen, the livery, and the court. Women are not, however,
+yeomanry or freemen, the [[Livery|livery]], and the court. Women are not, however,
 admitted to the freedom. The hall of the society, situated in Water
-Lane, London, and covering about three-quarters of an acre, was acquired
+[[Lane]], London, and covering about three-quarters of an acre, was acquired
 in 1633. It was destroyed by the great fire, but was rebuilt about ten
 years later and enlarged in 1786. This is the only property possessed by
 the society. In 1673, the society established a botanic and physic
@@ -141,7 +141,7 @@ garden at Chelsea, and in 1722 Sir Hans Sloane, who had become the
 ground owner, gave it to the society on the condition of presenting
 annually to the Royal Society fifty dried specimens of plants till the
 number should reach 2000. This condition was fulfilled in 1774. Owing to
-the heavy cost of maintenance and other reasons, the "physic garden" was
+the heavy cost of [[Maintenance|maintenance]] and other reasons, the "physic garden" was
 handed over in 1902, with the consent of the Charity Commissioners, to a
 committee of management, to be maintained in the interests of botanical
 study and research.

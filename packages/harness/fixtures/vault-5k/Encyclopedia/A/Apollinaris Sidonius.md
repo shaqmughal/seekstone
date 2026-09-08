@@ -7,7 +7,7 @@ topic: history
 # Apollinaris Sidonius
 
 APOLLINARIS SIDONIUS, CAIUS SOLLIUS (c. 430-487 or 488), Christian
-writer and bishop, was born in Lyons about A.D. 430. Belonging to a
+writer and bishop, was born in [[Lyons]] about A.D. 430. Belonging to a
 noble family, he was educated under the best masters, and particularly
 excelled in poetry and polite literature. He married (about 452)
 Papianilla, the daughter of Avitus, who was consul and afterwards
@@ -32,7 +32,7 @@ on the political and literary history of the 5th century. The _Letters_,
 which are very stilted, also reveal Apollinaris as a man of genial
 temper, fond of good living and of pleasure. The best edition is that in
 the _Monumenta Germaniae Historica_ (Berlin, 1887), which gives a survey
-of the manuscripts.
+of the [[Manuscript|manuscripts]].
 
   Apollinaris Sidonius (the names are commonly inverted by the French)
   is the subject of numerous monographs, historical and literary. See,

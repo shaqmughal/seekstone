@@ -3,7 +3,7 @@
 IYRCAE, an ancient nation on the north-east trade route described by
 Herodotus (iv. 22) beyond the Thyssagetae, somewhere about the upper
 basins of the Tobol and the Irtysh. They were distinguished by their
-mode of hunting, climbing a tree to survey their game, and then pursuing
+mode of [[Hunting|hunting]], climbing a tree to survey their [[Game|game]], and then pursuing
 it with trained horses and dogs. They were almost certainly the
 ancestors of the modern Magyars, also called Jugra.
 

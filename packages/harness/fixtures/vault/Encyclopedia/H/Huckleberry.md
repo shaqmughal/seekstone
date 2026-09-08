@@ -2,10 +2,10 @@
 
 HUCKLEBERRY, in botany, the popular name in the north-eastern United
 States of the genus _Gaylussacia_, small branching shrubs resembling in
-habit the English bilberry (_Vaccinium_), to which it is closely allied,
+habit the English [[Bilberry|bilberry]] (_Vaccinium_), to which it is closely allied,
 and bearing a similar fruit. The common huckleberry of the northern
 states is _G. resinosa_; while _G. brachycera_ and _G. dumosa_ are known
-respectively as box and dwarf huckleberry. The name _Gaylussacia_
+respectively as [[Box|box]] and dwarf huckleberry. The name _Gaylussacia_
 commemorates the famous French chemist Gay-Lussac.
 
 ## See also

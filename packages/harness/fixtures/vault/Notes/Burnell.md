@@ -33,7 +33,7 @@ elsewhere. He was, however, genial and kind-hearted, a great lawyer and a
 faithful minister.
 
 See R.W. Eyton, _Antiquities of Shropshire_ (London, 1854-1860); and E.
-Foss, _The Judges of England_, vol. iii. (London, 1848-1864).
+[[Foss]], _The Judges of England_, vol. iii. (London, 1848-1864).
 
 ## See also
 

@@ -7,16 +7,16 @@ type: source
 
 # Colossians
 
-COLOSSIANS, EPISTLE TO THE, the twelfth book of the New Testament, the
-authorship of which is ascribed to the Apostle Paul. Colossae, like the
-other Phrygian cities of Laodicea and Hierapolis, had not been visited
+COLOSSIANS, [[Epistle|EPISTLE]] TO THE, the twelfth book of the New Testament, the
+authorship of which is ascribed to the [[Apostle]] Paul. Colossae, like the
+other Phrygian cities of [[Laodicea]] and Hierapolis, had not been visited
 by Paul, but owed its belief in Jesus Christ to Epaphras, a Colossian,
 who had been converted by Paul, perhaps in Ephesus, and had laboured not
 only in his native city but also in the adjacent portions of the Lycus
 valley,--a Christian in whom Paul reposed the greatest confidence as one
-competent to interpret the gospel of whose truth Paul was convinced (i.
+competent to interpret the [[Gospel|gospel]] of whose truth Paul was convinced (i.
 7; iv. 12, 13). This Epaphras, like the majority of the Colossians, was
-a Gentile. It is probable, however, both from the letter itself and from
+a [[Gentile]]. It is probable, however, both from the letter itself and from
 the fact that Colossae was a trade centre, that Jews were there with
 their synagogues (cf. also Josephus, _Ant._ xii. 149). And it is further
 probable that some of the Gentiles, who afterwards became Christians,
@@ -29,25 +29,25 @@ Roman Empire_), but also to the Judaism of the Diaspora.
 Our first definite knowledge of the Colossian Church dates from the
 presence of Epaphras in Rome in A.D. 62-64 (or A.D. 56-58), when Paul
 was a prisoner. He arrived with news, perhaps with a letter (J. R.
-Harris, _Expositor_, Dec. 1898, pp. 404 ff.), touching the state of
+[[Harris]], _Expositor_, Dec. 1898, pp. 404 ff.), touching the state of
 religion in Colossae. Paul learns, to his joy, of their faith, hope and
 love; of the order and stability of their faith; and of their reception
 of Christ Jesus the Lord (i. 4, 8; ii. 5-7). He sees no sign of an
 attack upon him or his gospel. On the contrary, loyalty to him and
-sympathy with him in his sufferings are everywhere manifest (i. 9, 24;
+sympathy with him in his sufferings are everywhere [[Manifest|manifest]] (i. 9, 24;
 ii. 2; iv. 8); and the gospel of Christ is advancing here as elsewhere
 (i. 6). At the same time he detects a lack of cheerfulness and a lack of
 spiritual understanding in the Church. The joy of the gospel, expressing
 itself in songs and thanksgivings, is damped (iii. 15, 16), and, above
 all, the message of Christ does not dwell richly enough in them. Though
-the believers know the grace of God they are not filled with a knowledge
+the believers know the [[Grace|grace]] of God they are not filled with a knowledge
 of his will, so that their conduct is lacking in that strength and joy
 and perfection, that richness of the fulness of knowledge expected of
 those who had been made full in Christ (i. 6, 9-11, 28; ii. 2, 7, 10).
 The reason for this, Paul sees, is the influence of the claim made by
 certain teachers in Colossae that the Christians, in order to attain
 unto and be assured of _full_ salvation, must supplement Paul's message
-with their own fuller and more perfect wisdom, and must observe certain
+with their own [[Fuller|fuller]] and more perfect wisdom, and must observe certain
 rites and practices (ii. 16, 21, 23) connected with the worship of
 angels (ii. 18, 23) and elementary spirits (ii. 8, 20).
 
@@ -62,11 +62,11 @@ solely on the basis of Judaism (von Soden, Peake). Certainly the
 asceticism and ritualism might so be interpreted, for there was among
 the Jews of the Dispersion an increasing tendency to asceticism, by way
 of protest against the excesses of the Gentiles. The reference in ii. 23
-to severity of the body may have to do with fasting preparatory to
+to severity of the body may have to do with [[Fasting|fasting]] preparatory to
 seeing visions (cf. _Apoc. Baruch_, xxi. 1, ix. 2, v. 7). Even the
 worship of angels, not only as mediators of revelation and visions, but
 also as cosmical beings, is a well-known fact in late Judaism (_Apoc.
-Bar._ lv. 3; _Ethiopic Enoch_, lx. 11, lxi. 10; Col. ii. 8, 20; Gal. iv.
+Bar._ lv. 3; _Ethiopic [[Enoch]]_, lx. 11, lxi. 10; Col. ii. 8, 20; Gal. iv.
 3). As for the word "philosophy" (ii. 8), it is not necessary to take it
 in the technical Greek sense when the usage of Philo and Josephus
 permits a looser meaning. Finally the references to circumcision,
@@ -80,7 +80,7 @@ but rather indicates the practical dangers inherent therein (the denial
 of the supremacy of Christ and of full salvation through Him); he does
 not say that the errorists hold Christ to be a mere angel or an aeon, or
 that words like _pleroma_ (borrowed perhaps from their own vocabulary)
-involve a rigorous dualism. Yet his characterization of the movement as
+involve a rigorous [[Dualism|dualism]]. Yet his characterization of the movement as
 an arbitrary religion (ii. 23), a philosophy which is empty deceit (ii.
 8), according to elemental spirits and not according to Christ, and a
 higher knowledge due to a mind controlled by the flesh (ii. 18); his
@@ -94,7 +94,7 @@ influence of Oriental mysticism.
 
 To meet the pressing need in Colossae, Paul writes a letter and entrusts
 it to Tychichus, who is on his way to Colossae with Onesimus, Philemon's
-slave (iv. 7, 9). (On the relation of this letter to Ephesians and to
+slave (iv. 7, 9). (On the relation of this letter to [[Ephesians]] and to
 the letter to be sent from Laodicea to Colossae, see EPHESIANS, EPISTLE
 TO THE.) His attitude is prophylactic, rather than polemic, for the
 "philosophy" has not as yet taken deep root. His purpose is to restore
@@ -122,7 +122,7 @@ on the basis of faith alone, the demand for asceticism and meaningless
 ceremonies is folly, and moreover robs Christ, in whom dwells the divine
 fulness, of His rightful supremacy (ii. 8-23). And he exhorts them as
 members of the Body of Christ to manifest their faith in Christian love,
-particularly in their domestic relations and in their contact with
+particularly in their [[Domestic Relations|domestic relations]] and in their contact with
 non-Christians (iii. i-iv. 6). He closes by saying that Tychichus will
 give them the news. Greetings from all to all (iv. 7-18).
 
@@ -143,11 +143,11 @@ also the stylistically similar _Colossians_ (cf. von Soden). (2) As to
 the speculation of the errorists, it is replied that it is explicable in
 the lifetime of Paul, that some of the elements of it may have their
 source in pre-Christian Jewish theories, and that recourse to the
-developed gnosticism of the 2nd century is unnecessary. (3) As to the
+developed [[Gnosticism|gnosticism]] of the 2nd century is unnecessary. (3) As to the
 Christology of the author, it is replied that it does not go beyond what
 we have already in Paul except in emphasis, which itself is occasioned
 by the circumstances. What is implicit in _Corinthians_ is explicit in
-_Colossians_. H. J. Holtzmann (1872) subjected both _Colossians_ and
+_Colossians_. H. J. [[Holtzmann]] (1872) subjected both _Colossians_ and
 _Ephesians_ to a rigorous examination, and found in _Colossians_ at
 least a nucleus of Pauline material. H. von Soden (1885), with
 well-considered principles of criticism, made a similar examination and
@@ -166,7 +166,7 @@ scholarship.
   Th. Zahn (1900) and Jülicher (1906); the histories of the apostolic
   age by C. von Weizsäcker (1892), A. C. M'Giffert (1897) and O.
   Pfleiderer (_Urchristentum_, 1902); and the commentaries of J. B.
-  Lightfoot (1875), H. von Soden (1893) T. K. Abbott (1897), E. Haupt
+  Lightfoot (1875), H. von Soden (1893) T. K. Abbott (1897), E. [[Haupt]]
   (1902), Peake (1903) and P. Ewald (1905).     (J. E. F.)
 
 ## See also

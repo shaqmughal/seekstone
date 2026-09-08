@@ -8,7 +8,7 @@ tags: [philosophy, inventors]
 # Grynaeus
 
 GRYNAEUS, SIMON (1493-1541), German scholar and theologian of the
-Reformation, son of Jacob Gryner, a Swabian peasant, was born in 1493 at
+Reformation, son of [[Jacob]] Gryner, a Swabian peasant, was born in 1493 at
 Vehringen, in Hohenzollern-Sigmaringen. He adopted the name Grynaeus
 from the epithet of Apollo in Virgil. He was a schoolfellow with
 Melanchthon at Pforzheim, whence he went to the university of Vienna,
@@ -18,7 +18,7 @@ excited the zeal of the Dominicans and he was thrown into prison.
 Gaining his freedom at the instance of Hungarian magnates, he visited
 Melanchthon at Wittenberg, and in 1524 became professor of Greek at the
 university of Heidelberg, being in addition professor of Latin from
-1526. His Zwinglian view of the Eucharist disturbed his relations with
+1526. His Zwinglian view of the [[Eucharist]] disturbed his relations with
 his Catholic colleagues. From 1526 he had corresponded with
 Oecolampadius, who in 1529 invited him to Basel, which Erasmus had just
 left. The university being disorganized, Grynaeus pursued his studies,
@@ -46,7 +46,7 @@ Aristotle and Chrysostom.
 
 His son SAMUEL (1539-1599) was professor of jurisprudence at Basel. His
 nephew THOMAS (1512?-1564) was professor at Basel and minister in Baden,
-and left four distinguished sons of whom JOHANN JAKOB (1540-1617) was a
+and left four distinguished sons of whom JOHANN [[Jakob|JAKOB]] (1540-1617) was a
 leader in the religious affairs of Basel. The last of the direct
 descendants of Simon Grynaeus was his namesake SIMON (1725-1799),
 translator into German of French and English anti-deistical works, and

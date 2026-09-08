@@ -1,7 +1,7 @@
 # Cautin
 
-CAUTIN, a province of southern Chile, bounded N. by Arauco, Malleco and
-Bio-Bio, E. by Argentina, S. by Valdivia, and W. by the Pacific. Its
+CAUTIN, a province of southern [[Chile]], bounded N. by [[Arauco]], Malleco and
+Bio-Bio, E. by [[Argentina]], S. by Valdivia, and W. by the Pacific. Its
 area is officially estimated at 5832 sq. m. Cautin lies within the
 temperate agricultural and forest region of the south, and produces
 wheat, cattle, lumber, tan-bark and fruit. The state central railway

@@ -9,12 +9,12 @@ id: 42-2047
 # Lashio
 
 LASHIO, the headquarters of the superintendent, northern Shan States,
-Burma, situated in 22° 56´ N. and 97° 45´ E. at an altitude of 3100 ft.,
+[[Burma]], situated in 22° 56´ N. and 97° 45´ E. at an altitude of 3100 ft.,
 on a low spur overlooking the valley of the Nam Yao. It is the present
-terminus of the Mandalay-Kun Long railway and of the government cart
+terminus of the Mandalay-Kun Long railway and of the government [[Cart|cart]]
 road from Mandalay, from which it is 178 m. distant. It consists of the
 European station, with court house and quarters for the civil officers;
-the military police post, the headquarters of the Lashio battalion of
+the military police post, the headquarters of the Lashio [[Battalion|battalion]] of
 military police; the native station, in which the various nationalities,
 Shans, Burmans, Hindus and Mahommedans, are divided into separate
 quarters, with reserves for government servants and for the temporary

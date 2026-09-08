@@ -13,7 +13,7 @@ and duke of Upper Bavaria, was the second son of Louis II., duke of
 Upper Bavaria and count palatine of the Rhine, and Matilda, daughter of
 the German king Rudolph I. Having lost his father in 1294 he inherited,
 jointly with his elder brother Rudolph, Upper Bavaria and the
-Palatinate, but passed his time mainly at the court of the Habsburgs in
+Palatinate, but passed his time mainly at the court of the [[Habsburg|Habsburgs]] in
 Vienna, while his early experiences of warfare were gained in the
 campaigns of his uncle, the German king Albert I. He was soon at
 variance with his brother over their joint possessions. Albert taking
@@ -35,8 +35,8 @@ November 1313, a victory which not only led to peace, but conferred
 considerable renown on Louis.
 
 In August 1313 the German throne had again become vacant, and Louis was
-chosen at Frankfort on the 20th of October 1314 by a majority of the
-electors, and his coronation followed at Aix-la-Chapelle on the 25th of
+chosen at [[Frankfort]] on the 20th of October 1314 by a majority of the
+[[Electors|electors]], and his [[Coronation|coronation]] followed at Aix-la-Chapelle on the 25th of
 November. A minority of princes had, however, supported Frederick of
 Austria; and a war followed between the rivals, during which Louis was
 supported by the cities and the districts of the middle and lower Rhine.
@@ -49,7 +49,7 @@ On the 28th of September 1322 a battle was fought at Mühldorf, which
 ended in a complete victory for Louis, owing mainly to the timely aid of
 Frederick IV. of Hohenzollern, burgrave of Nüremburg. Frederick of
 Austria was taken prisoner, but the struggle was continued by his
-brother Leopold until the latter's death in 1326. Attempts to enable the
+brother [[Leopold]] until the latter's death in 1326. Attempts to enable the
 two kings to rule Germany jointly failed, and about 1326 Frederick
 returned to Austria, leaving Louis in undisputed possession of the
 country. Before this conclusion, however, a new enemy had taken the
@@ -61,7 +61,7 @@ Berthold of Neifen, count of Marstetten, into Italy with an army, which
 soon compelled the papal troops to raise the siege at Milan. The pope
 threatened Louis with excommunication unless he resigned his kingdom
 within three months. The king thereupon appealed to a general council,
-and was placed under the papal ban on the 23rd of March 1324, a sentence
+and was placed under the papal [[Ban|ban]] on the 23rd of March 1324, a sentence
 which he answered by publishing his charges against the pope. In the
 contest Louis was helped by the Minorites, who were upholding against
 John the principal of clerical poverty, and by the writings of Marsilius
@@ -95,36 +95,36 @@ expedition against Nicholas I., bishop of Constance. But although his
 position was shaken by the indifferent success which attended these
 campaigns, it was improved when the electors meeting at Rense in July
 1338 banded themselves together to defend their elective rights, and
-when the diet at Frankfort confirmed a decree which declared that the
+when the diet at Frankfort confirmed a [[Decree|decree]] which declared that the
 German king did not need the papal approbation to make his election
 valid.
 
 Louis devoted considerable thought and time to extending the possessions
 of the Wittelsbach family, to which he belonged. Tirol had for some time
 been a subject of contention between the emperor and other princes. The
-heiress of this county, Margaret Maultasch, had married John Henry,
+heiress of this county, [[Margaret]] Maultasch, had married John Henry,
 margrave of Moravia, son of King John of Bohemia. Having quarrelled with
 her husband, Margaret fled to the protection of Louis, who seized the
 opportunity to declare her marriage void and to unite her in 1342 with
 his son Louis. The emperor also increased his possessions by his own
-marriage. In 1322 his first wife, Beatrice, daughter of Henry III.,
+marriage. In 1322 his first wife, [[Beatrice]], daughter of Henry III.,
 count of Glogau, had died after thirteen years of married life, and
 Louis then married Margaret, daughter of William III., count of Holland.
 When her brother, count William IV., died childless in 1345, the emperor
-obtained possession of Holland, Zealand and Friesland. In 1341 he
+obtained possession of Holland, Zealand and [[Friesland]]. In 1341 he
 recovered a portion of the Palatinate, and soon deserted Edward of
 England and came to terms with Philip of France. The acquisition of the
 territories, and especially of Tirol, had provided Louis with many
 enemies, prominent among whom were John of Bohemia and his family, that
 of Luxemburg. John, therefore, entered into an alliance with Pope
-Clement VI. The course of the war which ensued in Germany was such as to
+[[Clement]] VI. The course of the war which ensued in Germany was such as to
 compel the emperor to submit to humiliating terms, though he stopped
 short of accepting the election of Charles, margrave of Moravia
 (afterwards the emperor Charles IV.) as German king in July 1346.
 Charles consequently attacked Tirol; but Louis, who appeared to have
 considerable chances of success, died suddenly at a bear-hunt near
 Munich on the 11th of October 1347. He was buried in the Frauenkirche at
-Munich, where a statue was erected to his memory in 1622 by Maximilian
+Munich, where a statue was erected to his memory in 1622 by [[Maximilian]]
 I., elector of Bavaria, and where a second was unveiled in 1905. He had
 seven sons, three of whom were subsequently electors of Brandenburg, and
 ten daughters.
@@ -148,7 +148,7 @@ a man of graceful appearance, with ruddy countenance and prominent nose.
   by J. F. Böhmer (Stuttgart, 1843-1868). Among these is the _Vita
   Ludovici IV._, by an unknown author. A number of important documents
   are found in the _Regesta imperii_ 1314-1347, edited by J. F. Böhmer
-  and J. Ficker (Innsbruck, 1865); _Acta imperii selecta_, edited by J.
+  and J. Ficker ([[Innsbruck]], 1865); _Acta imperii selecta_, edited by J.
   F. Böhmer and J. Ficker (Innsbruck, 1870); _Urkunden zur Geschichte
   des Römerzuges Königs Ludwigs des Bayern_, edited by J. Ficker
   (Innsbruck, 1865); _Urkundliche Beiträge zur Geschichte Kaisers
@@ -163,17 +163,17 @@ a man of graceful appearance, with ruddy countenance and prominent nose.
 
   The following may also be consulted: C. Gewoldus, _Defensio Ludovici
   IV. contra A. Bzovium_ (Ingolstadt, 1618); J. G. Herwartus, _Ludovicus
-  IV. imperator defensus_ (Mainz, 1618); N. Burgundus, _Historia
+  IV. imperator defensus_ ([[Mainz]], 1618); N. Burgundus, _Historia
   Bavarica sive Ludovicus IV. imperator_ (Ingolstadt, 1636). The best
   modern authorities are F. von Weech, _Kaiser Ludwig der Bayer und
   König Johann von Böhmen_ (Munich, 1860); S. Riezler, _Die
   literarischen Widersacher der Päpste zur Zeit Ludwigs des Bayern_
   (Leipzig, 1874); C. Mühling, _Die Geschichte der Doppelwahl des Jahres
   1314_ (Munich, 1882); R. Döbner, _Die Auseinandersetzung zwischen
-  Ludwig IV. dem Bayern und Friedrich dem Schönen von Oesterreich_
+  Ludwig IV. dem Bayern und [[Friedrich]] dem Schönen von Oesterreich_
   (Göttingen, 1875); W. Altmann, _Der Römerzug Ludwigs des Bayern_
   (Berlin, 1886); A. Chroust, _Beiträge zur Geschichte Ludwigs des
-  Bayern und seiner Zeit_ (Gotha, 1877); K. Müller, _Der Kampf Ludwigs
+  Bayern und seiner Zeit_ ([[Gotha]], 1877); K. Müller, _Der Kampf Ludwigs
   des Bayern mit der römischen Curie_ (Tübingen, 1879-1880); W. Preger,
   _Der Kirchenpolitische Kampf unter Ludwig dem Bayern_ (Munich, 1877);
   Sievers, _Die politischen Beziehungen Kaiser Ludwigs des Bayern zu

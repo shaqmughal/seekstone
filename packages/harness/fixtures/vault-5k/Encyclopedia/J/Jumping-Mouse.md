@@ -24,7 +24,7 @@ these, it may be noted that _Z. insignis_ differs from the typical _Z.
 hudsonius_ by the loss of the premolar, and has accordingly been
 referred to a sub-genus apart. Moreover, the Szechuen jumping-mouse
 differs from the typical _Zapus_ by the closer enamel-folds of the
-molars, the shorter ears, and the white tail-tip, and is therefore made
+molars, the shorter [[Ear|ears]], and the white tail-tip, and is therefore made
 the type of another sub-genus. In America these rodents inhabit forest,
 pasture, cultivated fields or swamps, but are nowhere numerous. When
 disturbed, they start off with enormous bounds of eight or ten feet in

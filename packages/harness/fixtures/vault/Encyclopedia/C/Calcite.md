@@ -12,8 +12,8 @@ CaCO_3, crystallizing in the rhombohedral system. With the exception of
 quartz, it is the most widely distributed of minerals, whilst in the
 beautiful development and extraordinary variety of form of its crystals it
 is surpassed by none. In the massive condition it occurs as large
-rock-masses (marble, limestone, chalk) which are often of organic origin,
-being formed of the remains of molluscs, corals, crinoids, &c., the hard
+rock-masses ([[Marble|marble]], [[Limestone|limestone]], chalk) which are often of organic origin,
+being formed of the remains of molluscs, [[Coral|corals]], crinoids, &c., the hard
 parts of which consist largely of calcite.
 
 The name calcite (Lat. _calx_, _calcis_, meaning burnt lime) is of
@@ -24,8 +24,8 @@ used in its present sense. The mineral had, however, long been known under
 the names calcareous spar and calc-spar, and the beautifully transparent
 variety called Iceland-spar had been much studied. The strong double
 refraction and perfect cleavages of Iceland-spar were described in detail
-by Erasmus Bartholinus in 1669 in his book _Experimenta Crystalli Islandici
-disdiaclastici_; the study of the same mineral led Christiaan Huygens to
+by Erasmus [[Bartholinus]] in 1669 in his book _Experimenta Crystalli Islandici
+disdiaclastici_; the study of the same mineral led Christiaan [[Huygens]] to
 discover in 1690 the laws of double refraction, and E.L. Malus in 1808 the
 polarization of light.
 
@@ -33,9 +33,9 @@ An important property of calcite is the great ease with which it may be
 cleaved in three directions; the three perfect cleavages are parallel to
 the faces of the primitive rhombohedron, and the angle between them was
 determined by W.H. Wollaston in 1812, with the aid of his newly invented
-reflective goniometer, to be 74 deg. 55'. The cleavage is of great help in
+reflective [[Goniometer|goniometer]], to be 74 deg. 55'. The cleavage is of great help in
 distinguishing calcite from other minerals of similar appearance. The
-hardness of 3 (it is readily scratched with a knife), the specific gravity
+hardness of 3 (it is readily scratched with a [[Knife|knife]]), the specific gravity
 of 2.72, and the fact that it effervesces briskly in contact with cold
 dilute acids are also characters of determinative value.
 
@@ -61,7 +61,7 @@ Depending on the habits of the crystals, certain trivial names have been
 used, such, for example, as dog-tooth-spar for the crystals of
 scalenohedral habit, so common in the Derbyshire lead mines and limestone
 caverns; nail-head-spar for crystals terminated by the obtuse rhombohedron
-e, which are common in the lead mines of Alston Moor in Cumberland;
+e, which are common in the lead mines of Alston Moor in [[Cumberland]];
 slate-spar (German _Schieferspath_) for crystals of tabular habit, and
 sometimes as thin as paper: cannon-spar for crystals of prismatic habit
 terminated by the basal pinacoid c.
@@ -92,7 +92,7 @@ pressing a knife into the edge of a cleavage rhombohedron.
 portions are nearly at right angles (89 deg. 14'), and one of the directions of
 cleavage in both portions is parallel to the twin-plane. Fine crystals of
 prismatic habit twinned according to this law were formerly found in
-considerable numbers at Wheal Wrey in Cornwall, and of scalenohedral habit
+considerable numbers at Wheal Wrey in [[Cornwall]], and of scalenohedral habit
 at Eyam in Derbyshire and Cleator Moor in Cumberland; those from the last
 two localities are known as "butterfly twins" or "heart-shaped twins" (fig.
 10), according to their shape.
@@ -106,21 +106,21 @@ of various impurities, the transparency and colour may vary considerably.
 Crystals are often nearly white or colourless, usually with a slight
 yellowish tinge. The yellowish colour is in most cases due to the presence
 of iron, but in some cases it has been proved to be due to organic matter
-(such as apocrenic acid) derived from the humus overlying the rocks in
+(such as apocrenic acid) derived from the [[Humus|humus]] overlying the rocks in
 which the crystals were formed. An opaque calcite of a grass-green colour,
 occurring as large cleavage masses in central India and known as hislopite,
-owes its colour to enclosed "green-earth" (glauconite and celadonite). A
+owes its colour to enclosed "green-earth" ([[Glauconite|glauconite]] and celadonite). A
 stalagmitic calcite of a beautiful purple colour, from Reichelsdorf in
-Hesse, is coloured by cobalt.
+[[Hesse]], is coloured by [[Cobalt|cobalt]].
 
-Optically, calcite is uniaxial with negative bi-refringence, the index of
+Optically, calcite is uniaxial with negative bi-refringence, the [[Index|index]] of
 refraction for the ordinary ray being greater than for the extraordinary
 ray; for sodium-light the former is 1.6585 and the latter 1.4862. The
 difference, 0.1723, between these two indices gives a measure of the
 bi-refringence or double refraction.
 
 Although the double refraction of some other minerals is greater than that
-of calcite (_e.g._ for cinnabar it is 0.347, and for calomel 0.683), yet
+of calcite (_e.g._ for cinnabar it is 0.347, and for [[Calomel|calomel]] 0.683), yet
 this phenomenon can be best demonstrated in calcite, since it is a mineral
 obtainable in large pieces of perfect transparency. Owing to the strong
 double refraction and the consequent wide separation of the two polarized
@@ -131,11 +131,11 @@ construction of Nicol's prisms for polariscopes, polarizing microscopes and
 saccharimeters, and of dichroscopes for testing the pleochroism of
 gem-stones.
 
-Chemically, calcite has the same composition as the orthorhombic aragonite
+Chemically, calcite has the same composition as the orthorhombic [[Aragonite|aragonite]]
 (_q.v._), these minerals being dimorphous forms of calcium carbonate.
 Well-crystallized material, such as Iceland-spar, usually consists of
 perfectly pure calcium carbonate, but at other times the calcium may be
-isomorphously replaced by small amounts of magnesium, barium, strontium,
+isomorphously replaced by small amounts of magnesium, [[Barium|barium]], strontium,
 manganese, zinc or lead. When the elements named are present in large
 amount we have the varieties dolomitic calcite, baricalcite,
 strontianocalcite, ferrocalcite, manganocalcite, zincocalcite and
@@ -154,13 +154,13 @@ has been noted above.
 In addition to the varieties of calcite noted above, some others, depending
 on the state of aggregation of the material, are distinguished. A finely
 fibrous form is known as satin-spar (_q.v._), a name also applied to
-fibrous gypsum: the most typical example of this is the snow-white
+fibrous [[Gypsum|gypsum]]: the most typical example of this is the snow-white
 material, often with a rosy tinge and a pronounced silky lustre, which
 occurs in veins in the Carboniferous shales of Alston Moor in Cumberland.
 Finely scaly varieties with a pearly lustre are known as argentine and
 aphrite (German _Schaumspath_); soft, earthy and dull white varieties as
 agaric mineral, rock-milk, rock-meal, &c.--these form a transition to
-marls, chalk, &c. Of the granular and compact forms numerous varieties are
+[[Marl|marls]], chalk, &c. Of the granular and compact forms numerous varieties are
 distinguished (see LIMESTONE and MARBLE). In the form of stalactites
 calcite is of extremely common occurrence. Each stalactite usually consists
 of an aggregate of radially arranged crystalline individuals, though
@@ -177,20 +177,20 @@ well-developed crystals in association with zeolites lining the
 amygdaloidal cavities of basaltic and other rocks. Veins and cavities in
 limestones are usually lined with crystals of calcite. The wide
 distribution, under various conditions, of crystallized calcite is readily
-explained by the solubility of calcium carbonate in water containing carbon
+explained by the solubility of calcium carbonate in water containing [[Carbon|carbon]]
 dioxide, and the ease with which the material is again deposited in the
 crystallized state when the carbon dioxide is liberated by evaporation. On
 this also depends the formation of stalactites and calc-sinter.
 
 Localities at which beautifully crystallized specimens of calcite are found
 are extremely numerous. For beauty of crystals and variety of forms the
-haematite mines of the Cleator Moor district in west Cumberland and the
-Furness district in north Lancashire are unsurpassed. The lead mines of
+[[Haematite|haematite]] mines of the Cleator Moor district in west Cumberland and the
+[[Furness]] district in north Lancashire are unsurpassed. The lead mines of
 Alston in Cumberland and of Derbyshire, and the silver mines of Andreasberg
 in the Harz and Guanajuato in Mexico have yielded many fine specimens. From
 the zinc mines of Joplin in Missouri enormous crystals of golden-yellow and
-amethystine colours have been recently obtained. At all the localities here
-mentioned the crystals occur with metalliferous ores. In Iceland the mode
+amethystine [[Colours|colours]] have been recently obtained. At all the localities here
+mentioned the crystals occur with metalliferous ores. In [[Iceland]] the mode
 of occurrence is quite distinct, the mineral being here found in a cavity
 in basalt.
 
@@ -211,14 +211,14 @@ the construction of a Nicol's prism.
 (L. J. S.)
 
 CALCIUM [symbol Ca, atomic weight 40.0 (O=16)], a metallic chemical
-element, so named by Sir Humphry Davy from its [v.04 p.0971] occurrence in
+element, so named by Sir [[Humphry]] Davy from its [v.04 p.0971] occurrence in
 chalk (Latin _calx_). It does not occur in nature in the free state, but in
 combination it is widely and abundantly diffused. Thus the sulphate
 constitutes the minerals anhydrite, alabaster, gypsum, and selenite; the
 carbonate occurs dissolved in most natural waters and as the minerals
 chalk, marble, calcite, aragonite; also in the double carbonates such as
-dolomite, bromlite, barytocalcite; the fluoride as fluorspar; the
-fluophosphate constitutes the mineral apatite; while all the more important
+[[Dolomite|dolomite]], bromlite, barytocalcite; the fluoride as fluorspar; the
+fluophosphate constitutes the mineral [[Apatite|apatite]]; while all the more important
 mineral silicates contain a proportion of this element.
 
 _Extraction._--Calcium oxide or lime has been known from a very remote
@@ -234,16 +234,16 @@ mixture of lime and mercuric oxide by the electric current; an amalgam of
 calcium was obtained, but the separation of the mercury was so difficult
 that even Davy himself was not sure as to whether he had obtained pure
 metallic calcium. Electrolysis of lime or calcium chloride in contact with
-mercury gave similar results. Bunsen (_Ann._, 1854, 92, p. 248) was more
+mercury gave similar results. [[Bunsen]] (_Ann._, 1854, 92, p. 248) was more
 successful when he electrolysed calcium chloride moistened with
 hydrochloric acid; and A. Matthiessen (_Jour. Chem. Soc._, 1856, p. 28)
 obtained the metal by electrolysing a mixture of fused calcium and sodium
 chlorides. Henri Moissan obtained the metal of 99% purity by electrolysing
-calcium iodide at a low red heat, using a nickel cathode and a graphite
+calcium iodide at a low red heat, using a nickel cathode and a [[Graphite|graphite]]
 anode; he also showed that a more convenient process consisted in heating
 the iodide with an excess of sodium, forming an amalgam of the product, and
 removing the sodium by means of absolute alcohol (which has but little
-action on calcium), and the mercury by distillation.
+action on calcium), and the mercury by [[Distillation|distillation]].
 
 The electrolytic isolation of calcium has been carefully investigated, and
 this is the method followed for the commercial production of the metal. In
@@ -278,7 +278,7 @@ zinc in appearance, but on exposure to the air it rapidly tarnishes,
 becoming yellowish and ultimately grey or white in colour owing to the
 information of a surface layer of calcium hydrate. A faint smell of
 acetylene may be perceived during the oxidation in moist air; this is
-probably due to traces of calcium carbide. It is rapidly acted on by water,
+probably due to traces of calcium [[Carbide|carbide]]. It is rapidly acted on by water,
 especially if means are taken to remove the layer of calcium hydrate formed
 on the metal; alcohol acts very slowly. In its chemical properties it
 closely resembles barium and strontium, and to some degree magnesium; these
@@ -286,7 +286,7 @@ four elements comprise the so-called metals of the "alkaline earths." It
 combines directly with most elements, including nitrogen; this can be taken
 advantage of in forming almost a perfect vacuum, the oxygen combining to
 form the oxide, CaO, and the nitrogen to form the nitride, Ca_3N_2. Several
-of its physical properties have been determined by K. Arndt (_Ber._, 1904,
+of its physical properties have been determined by K. [[Arndt]] (_Ber._, 1904,
 37, p. 4733). The metal as prepared by electrolysis generally contains
 traces of aluminium and silica. Its specific gravity is 1.54, and after
 remelting 1.56; after distillation it is 1.52. It melts at about 800 deg., but
@@ -327,15 +327,15 @@ contains 325 parts of CaCl_2 to 100 of water at the boiling point (179.5 deg.).
 Calcium iodide and bromide are white deliquescent solids and closely
 resemble the chloride.
 
-_Chloride of lime_ or "bleaching powder" is a calcium chlor-hypochlorite or
+_Chloride of lime_ or "[[Bleaching|bleaching]] powder" is a calcium chlor-hypochlorite or
 an equimolecular mixture of the chloride and hypochlorite (see ALKALI
 MANUFACTURE and BLEACHING).
 
 _Calcium carbide_, CaC_2, a compound of great industrial importance as a
 source of acetylene, was first prepared by F. Wohler. It is now
 manufactured by heating lime and carbon in the electric furnace (see
-ACETYLENE). Heated in chlorine or with bromine, it yields carbon and
-calcium chloride or bromide; at a dull red heat it burns in oxygen, forming
+ACETYLENE). Heated in [[Chlorine|chlorine]] or with bromine, it yields carbon and
+calcium chloride or bromide; at a dull red heat it [[Burns|burns]] in oxygen, forming
 calcium carbonate, and it becomes incandescent in sulphur vapour at 500 deg.,
 forming calcium sulphide and carbon disulphide. Heated in the electric
 furnace in a current of air, it yields calcium cyanamide (see CYANAMIDE).
@@ -348,11 +348,11 @@ minerals aragonite (_q.v._) and calcite (_q.v._). Tuff (_q.v._) and
 travertine are calcareous deposits found in volcanic districts. Most
 natural waters contain it dissolved in carbonic acid; this confers
 "temporary hardness" on the water. The dissipation of the dissolved carbon
-dioxide results in the formation of "fur" in kettles or boilers, and if the
+dioxide results in the formation of "[[Fur|fur]]" in [[Kettle|kettles]] or [[Boiler|boilers]], and if the
 solution is falling, as from the roof of a cave, in the formation of
 stalactites and stalagmites. In the animal kingdom it occurs as both
-calcite and aragonite in the tests of the foraminifera, echinoderms,
-brachiopoda, and mollusca; also in the skeletons of sponges and corals.
+calcite and aragonite in the tests of the [[Foraminifera|foraminifera]], echinoderms,
+[[Brachiopoda|brachiopoda]], and mollusca; also in the skeletons of sponges and corals.
 Calcium carbonate is obtained as a white precipitate, almost insoluble in
 water (1 part requiring 10,000 of water for solution), by mixing solutions
 of a carbonate and a calcium salt. Hot or dilute cold solutions deposit
@@ -383,9 +383,9 @@ Haussknecht, _Ber._, 1890, 23, p. 1176, and H. Moissan, _Compt. Rend._,
 128, p. 787).
 
 Of the calcium orthophosphates, the normal salt, Ca_3(PO_4)_2, is the most
-important. It is the principal inorganic constituent of bones, and hence of
+important. It is the principal inorganic constituent of [[Bone|bones]], and hence of
 the "bone-ash" of commerce (see PHOSPHORUS); it occurs with fluorides in
-the mineral apatite (_q.v._); and the concretions known as coprolites
+the mineral apatite (_q.v._); and the [[Concretion|concretions]] known as [[Coprolites|coprolites]]
 (_q.v._) largely consist of this salt. It also constitutes the minerals
 ornithite, Ca_3(PO_4)_2.2H_2O, osteolite and sombrerite. The mineral
 brushite, CaHPO_4.2H_2O, which is isomorphous with the acid arsenate
@@ -404,12 +404,12 @@ having an acid reaction. The artificial manure known as "superphosphate of
 lime" consists of this salt and calcium sulphate, and is obtained by
 treating ground bones, coprolites, &c., with sulphuric acid. The di-calcium
 salt, Ca_2H_2(PO_4)_2, occurs in a concretionary form in the ureters and
-cloaca of the sturgeon, and also in guano. It is obtained as rhombic plates
+[[Cloaca|cloaca]] of the sturgeon, and also in guano. It is obtained as rhombic plates
 by mixing dilute solutions of calcium chloride and sodium phosphate, and
 passing carbon dioxide into the liquid. Other phosphates are also known.
 
 _Calcium monosulphide_, CaS, a white amorphous powder, sparingly soluble in
-water, is formed by heating the sulphate with charcoal, or by heating lime
+water, is formed by heating the sulphate with [[Charcoal|charcoal]], or by heating lime
 in a current of sulphuretted hydrogen. It is particularly noteworthy from
 the phosphorescence which it exhibits when heated, or after exposure to the
 sun's rays; hence its synonym "Canton's phosphorus," after John Canton
@@ -447,16 +447,16 @@ solutions of calcium chloride and sodium silicate. H. Le Chatelier
 compounds: CaSiO_3, Ca_2SiO_4, Ca_3Si_2O_7, and Ca_3SiO_5. (See also G.
 Oddo, _Chemisches Centralblatt_, 1896, 228.) Acid calcium silicates are
 represented in the mineral kingdom by gyrolite, H_2Ca_2(SiO_3)_3.H_2O, a
-lime zeolite, sometimes regarded as an altered form of apophyllite
+lime zeolite, sometimes regarded as an altered form of [[Apophyllite|apophyllite]]
 (_q.v._), which is itself an acid calcium silicate containing an alkaline
 fluoride, by okenite, H_2Ca(SiO_3)_2.H_2O, and by xonalite 4CaSiO_3.H_2O.
 Calcium silicate is also present in the minerals: olivine, pyroxenes,
-amphiboles, epidote, felspars, zeolites, scapolites (_qq.v._).
+amphiboles, [[Epidote|epidote]], felspars, zeolites, scapolites (_qq.v._).
 
 _Detection and Estimation._--Most calcium compounds, especially when
 moistened with hydrochloric acid, impart an orange-red colour to a Bunsen
 flame, which when viewed through green glass appears to be finch-green;
-this distinguishes it in the presence of strontium, whose crimson
+this distinguishes it in the presence of strontium, whose [[Crimson|crimson]]
 coloration is apt to mask the orange-red calcium flame (when viewed through
 green glass the strontium flame appears to be a very faint yellow). In the
 spectroscope calcium exhibits two intense lines--an orange line ([alpha]),
@@ -470,14 +470,14 @@ acid. Calcium is generally estimated by precipitation as oxalate which,
 after drying, is heated and weighed as carbonate or oxide, according to the
 degree and duration of the heating.
 
-CALCULATING MACHINES. Instruments for the mechanical performance of
+CALCULATING [[Machine|MACHINES]]. Instruments for the mechanical performance of
 numerical calculations, have in modern times come into ever-increasing use,
-not merely for dealing with large masses of figures in banks, insurance
-offices, &c., but also, as cash registers, for use on the counters of
+not merely for dealing with large masses of figures in banks, [[Insurance|insurance]]
+offices, &c., but also, as [[Cash|cash]] registers, for use on the counters of
 retail shops. They may be classified as follows:--(i.) Addition machines;
 the first invented by Blaise Pascal (1642). (ii.) Addition machines
 modified to facilitate multiplication; the first by G.W. Leibnitz (1671).
-(iii.) True multiplication machines; Leon Bolles (1888), Steiger (1894).
+(iii.) True multiplication machines; [[Leon]] [[Boll|Bolles]] (1888), Steiger (1894).
 (iv.) Difference machines; Johann Helfrich von Mueller (1786), Charles
 Babbage (1822). (v.) Analytical machines; Babbage (1834). The number of
 distinct machines of the first three kinds is remarkable and is being
@@ -486,7 +486,7 @@ Professor R. Mehmke has counted over eighty distinct machines of this type.
 The fullest published account of the subject is given by Mehmke in the
 _Encyclopaedie der mathematischen Wissenschaften_, article "Numerisches
 Rechnen," vol. i., Heft 6 (1901). It contains historical notes and full
-references. Walther von Dyck's _Catalogue_ also contains descriptions of
+references. Walther von Dyck's _[[Catalogue]]_ also contains descriptions of
 various machines. We shall confine ourselves to explaining the principles
 of some leading types, without giving an exact description of any
 particular one.
@@ -526,9 +526,9 @@ a required number of steps, [v.04 p.0973] we have an addition machine,
 essentially of Pascal's type. In it each disk had to be turned by hand.
 This operation has been simplified in various ways by mechanical means. For
 pure addition machines key-boards have been added, say for each disk nine
-keys marked 1 to 9. On pressing the key marked 6 the disk turns six steps
-and so on. These have been introduced by Stettner (1882), Max Mayer (1887),
-and in the comptometer by Dorr Z. Felt of Chicago. In the comptograph by
+[[Key|keys]] marked 1 to 9. On pressing the key marked 6 the disk turns six steps
+and so on. These have been introduced by Stettner (1882), Max [[Mayer]] (1887),
+and in the comptometer by Dorr Z. Felt of [[Chicago]]. In the comptograph by
 Felt and also in "Burrough's Registering Accountant" the result is printed.
 
 These machines can be used for multiplication, as repeated addition, but
@@ -614,7 +614,7 @@ second set of windows is arranged with number disks below. These have no
 carrying arrangement, but one is turned one step for each turn of the
 handle. The machine described is essentially that of Thomas of Colmar,
 which was the first that came into practical use. Of earlier machines those
-of Leibnitz, Mueller (1782), and Hahn (1809) deserve to be mentioned (see
+of Leibnitz, Mueller (1782), and [[Hahn]] (1809) deserve to be mentioned (see
 Dyck, _Catalogue_). Thomas's machine has had many imitations, both in
 England and on the Continent, with more or less important alterations.
 Joseph Edmondson of Halifax has given it a circular form, which has many
@@ -646,7 +646,7 @@ either way, no special setting being required for subtraction or division.
 It is extremely handy, taking up much less room than the others. Professor
 Eduard Selling of Wuerzburg has invented an altogether different machine,
 which has been made by Max Ott, of Munich. The B-wheels are replaced by
-lazy-tongs. To the joints of these the ends of racks are pinned; and as
+lazy-tongs. To the [[Joints|joints]] of these the ends of racks are pinned; and as
 they are stretched out the racks are moved forward 0 to 9 steps, according
 to the joints they are pinned to. The racks gear directly in the A-wheels,
 and the figures are placed on cylinders as in the Brunsviga. The carrying
@@ -682,7 +682,7 @@ and fro with the index in the slot. Below these wheels again lie 9 toothed
 racks at right angles to the slots. By setting the index in any slot the
 wheel below it comes into gear with one of these racks. On moving the rack,
 the wheels turn their shafts and the figure disks gg opposite to them. The
-dimensions are such that a motion of a rack through 1 cm. turns the figure
+[[Dimension|dimensions]] are such that a motion of a rack through 1 cm. turns the figure
 disk through one "step" or adds 1 to the figure under the window. The racks
 are moved by an arrangement contained in the section to the left of the
 slots. There is a vertical plate called the multiplication table block, or
@@ -772,7 +772,7 @@ number in a soft substance from which a stereotype casting can be taken,
 and we have a machine which, when once set for a given formula like the
 above, will automatically print, or prepare stereotype plates for the
 printing of, tables of the function without any copying or typesetting,
-thus excluding all possibility of errors. Of this "Difference engine," as
+thus excluding all possibility of [[Error|errors]]. Of this "Difference engine," as
 Babbage called it, a part was finished in 1834, the government having
 contributed L17,000 towards the cost. This great expense was chiefly due to
 the want of proper machine tools.
@@ -780,7 +780,7 @@ the want of proper machine tools.
 Meanwhile Babbage had conceived the idea of a much more powerful machine,
 the "analytical engine," intended to perform any series of possible
 arithmetical operations. Each of these was to be communicated to the
-machine by aid of cards with holes punched in them into which levers could
+machine by aid of [[Cards|cards]] with holes punched in them into which levers could
 drop. It was long taken for granted that Babbage left complete plans; the
 committee of the British Association appointed to consider this question
 came, however, to the conclusion (_Brit. Assoc. Report_, 1878, pp. 92-102)
@@ -800,7 +800,7 @@ rules.] only rough approximations are required. They are almost as old as
 logarithms themselves. Edmund Gunter drew a "logarithmic line" on his
 "Scales" as follows (fig. 4):--On a line AB lengths are set off to scale to
 represent the common logarithms of the numbers 1 2 3 ... 10, and the points
-thus obtained are marked with these numbers. [v.04 p.0975] As log 1 = 0,
+thus obtained are marked with these numbers. [v.04 p.0975] As [[Log|log]] 1 = 0,
 the beginning A has the number 1 and B the number 10, hence the unit of
 length is AB, as log 10 = 1. The same division is repeated from B to C. The
 distance 1,2 thus represents log 2, 1,3 gives log 3, the distance between 4
@@ -836,24 +836,24 @@ Manchester.
 
 Many different forms of slide rules are now on the market. The handiest for
 general use is the Gravet rule made by Tavernier-Gravet in Paris, according
-to instructions of the mathematician V.M.A. Mannheim of the Ecole
+to instructions of the mathematician V.M.A. [[Mannheim]] of the Ecole
 Polytechnique in Paris. It contains at the back of the slide scales for the
 logarithms of sines and tangents so arranged that they can be worked with
 the scale on the front. An improved form is now made by Davis and Son of
-Derby, who engrave the scales on white celluloid instead of on box-wood,
+[[Derby]], who engrave the scales on white celluloid instead of on box-wood,
 thus greatly facilitating the readings. These scales have the distance from
 one to ten about twice that in fig. 4. Tavernier-Gravet makes them of that
 size and longer, even 1/2 metre long. But they then become somewhat unwieldy,
 though they allow of reading to more figures. To get a handy long scale
-Professor G. Fuller has constructed a spiral slide rule drawn on a
+Professor G. [[Fuller]] has constructed a spiral slide rule drawn on a
 cylinder, which admits of reading to three and four figures. The handiest
-of all is perhaps the "Calculating Circle" by Boucher, made in the form of
+of all is perhaps the "Calculating Circle" by [[Boucher]], made in the form of
 a watch. For various purposes special adaptations of the slide rules are
 met with--for instance, in various exposure meters for photographic
 purposes. General Strachey introduced slide rules into the Meteorological
 Office for performing special calculations. At some blast furnaces a slide
 rule has been used for determining the amount of coke and flux required for
-any weight of ore. Near the balance a large logarithmic scale is fixed with
+any weight of ore. Near the [[Balance|balance]] a large logarithmic scale is fixed with
 a slide which has three indices only. A load of ore is put on the scales,
 and the first index of the slide is put to the number giving the weight,
 when the second and third point to the weights of coke and flux required.
@@ -863,7 +863,7 @@ scales of length, more complicated calculations may be performed. It is
 then convenient to make the scales circular. A number of rings or disks are
 mounted side by side on a cylinder, each having on its rim a log-scale.
 
-The "Callendar Cable Calculator," invented by Harold Hastings and
+The "Callendar [[Cable]] Calculator," invented by Harold [[Hastings]] and
 manufactured by Robert W. Paul, is of this kind. In it a number of disks
 are mounted on a common shaft, on which each turns freely unless a button
 is pressed down whereby the disk is clamped to the shaft. Another disk is
@@ -880,15 +880,15 @@ to scales of lengths in the proportion 1: 3: 1/2. The instrument now on sale
 contains six movable disks.
 
 _Continuous Calculating Machines or Integrators._--In order to measure the
-length of a curve, such as the road on a map, a [Sidenote: Curvometers.]
+length of a curve, such as the road on a [[Map|map]], a [Sidenote: Curvometers.]
 wheel is rolled along it. For one revolution of the wheel the path
 described by its point of contact is equal to the circumference of the
 wheel. Thus, if a cyclist counts the number of revolutions of his front
 wheel he can calculate the distance ridden by multiplying that number by
-the circumference of the wheel. An ordinary cyclometer is nothing but an
+the circumference of the wheel. An ordinary [[Cyclometer|cyclometer]] is nothing but an
 arrangement for counting these revolutions, but it is graduated in such a
 manner that it gives at once the distance in miles. On the same principle
-depend a number of instruments which, under various fancy names, serve to
+depend a number of instruments which, under various [[Fancy|fancy]] names, serve to
 measure the length of any curve; they are in the shape of a small meter
 chiefly for the use of cyclists. They all have a small wheel which is
 rolled along the curve to be measured, and this sets a hand in motion which
@@ -941,7 +941,7 @@ is given by P = wl. Let the circumference of the wheel be divided into say
 a hundred equal parts u; then w registers the number of u's rolled over,
 and w therefore gives the number of areas lu contained in the rectangle. By
 suitably selecting the radius of the wheel and the length l, this area lu
-may be any convenient unit, say a square inch or square centimetre. By
+may be any convenient unit, say a square [[Inch|inch]] or square centimetre. By
 changing l the unit will be changed.
 
 [Illustration: FIG. 7.]
@@ -1090,12 +1090,12 @@ amount of slipping will equal the perpendicular distance between QT and
 Q'T', and therefore serve to measure the area swept over like the wheel in
 the machine already described. The turning of the rod will also produce
 slipping of the wheel, but it will be seen without difficulty that this
-will cancel during a cyclical motion of the rod, provided the rod does not
+will [[Cancel|cancel]] during a cyclical motion of the rod, provided the rod does not
 perform a whole rotation.
 
 [Illustration: FIG. 15.]
 
-The first planimeter was made on the following principles:--A frame FF
+The first planimeter was made on the following principles:--A [[Frame|frame]] FF
 (fig. 15) can move parallel to OX. It carries a rod TT [Sidenote: Early
 forms.] movable along its own length, hence the tracer T can be guided
 along any curve ATB. When the rod has been pushed back to Q'Q, the tracer
@@ -1120,9 +1120,9 @@ A'ATQ. It will therefore allow of registering a set of values of
 [Integral,a:x] ydx for any values of x, and thus of tabulating the values
 of any indefinite integral. In this it differs from Amsler's planimeter.
 Planimeters of this type were first invented in 1814 by the Bavarian
-engineer Hermann, who, however, published nothing. They were reinvented by
+engineer [[Hermann]], who, however, published nothing. They were reinvented by
 Prof. Tito Gonnella of Florence in 1824, and by the Swiss engineer
-Oppikofer, and improved by Ernst in Paris, the astronomer Hansen in Gotha,
+Oppikofer, and improved by Ernst in Paris, the astronomer Hansen in [[Gotha]],
 and others (see Henrici, _British Association Report_, 1894). But all were
 driven out of the field by Amsler's simpler planimeter.
 
@@ -1132,7 +1132,7 @@ driven out of the field by Amsler's simpler planimeter.
 
 Altogether different from the planimeters described is the hatchet
 planimeter, invented by Captain Prytz, a Dane, and made by Herr [Sidenote:
-Hatchet planimeters.] Cornelius Knudson in Copenhagen. It consists of a
+Hatchet planimeters.] Cornelius Knudson in [[Copenhagen]]. It consists of a
 single rigid piece like fig. 16. The one end T is the tracer, the other Q
 has a sharp hatchet-like edge. If this is placed with QT on the paper and T
 is moved along any curve, Q will follow, describing a "curve of pursuit."
@@ -1192,11 +1192,11 @@ obtained. The greatest dimension of the area should not exceed 1/2l,
 otherwise the area must be divided into parts which are determined
 separately. This condition being fulfilled, the instrument gives very
 satisfactory results, especially if the figures to be measured, as in the
-case of indicator diagrams, are much of the same shape, for in this case
+case of [[Indicator|indicator]] diagrams, are much of the same shape, for in this case
 the operator soon learns where to put the point R.
 
 Integrators serve to evaluate a definite integral [Integral,a:b] f(x)dx. If
-we plot out [Sidenote: Integrators.] the curve whose equation is y = f(x),
+we plot out [Sidenote: Integrators.] the curve whose [[Equation|equation]] is y = f(x),
 the integral [Integral]ydx between the proper limits represents the area of
 a figure bounded by the curve, the axis of x, and the ordinates at x=a,
 x=b. Hence if the curve is drawn, any planimeter may be used for finding
@@ -1453,7 +1453,7 @@ sharply.
 Integraphs have also been constructed, by aid of which ordinary
 differential equations, especially linear ones, can be solved, the solution
 being given as a curve. The first suggestion in this direction was made by
-Lord Kelvin. So far no really useful instrument has been made, although the
+Lord [[Kelvin]]. So far no really useful instrument has been made, although the
 ideas seem sufficiently developed to enable a skilful instrument-maker to
 produce one should there be sufficient demand for it. Sometimes a
 combination of graphical work with an integraph will serve the purpose.
@@ -1478,7 +1478,7 @@ be drawn:--For any x take u from its graph, and find the y for which v = c
 - u, plotting these y against their x gives the curve required.
 
 If a periodic function y of x is given by its graph for one period c, it
-can, according to the theory of Fourier's Series, be [Sidenote: Harmonic
+can, according to the theory of [[Fourier'S Series|Fourier's Series]], be [Sidenote: Harmonic
 analysers.] expanded in a series.
 
   y = A_0 + A_1 cos [theta] + A_2 cos 2[theta] + ... + A_n cos n[theta] +
@@ -1504,7 +1504,7 @@ drawn on a cylinder whose circumference equals the period _c_, and the sine
 and cosine terms of the integral are introduced by aid of simple harmonic
 motion. Sommerfeld and Wiechert, of Konigsberg, avoid this motion by
 turning the cylinder about an axis perpendicular to that of the cylinder.
-Both these machines are large, and practically fixtures in the room where
+Both these machines are large, and practically [[Fixtures|fixtures]] in the room where
 they are used. The first has done good work in the Meteorological Office in
 London in the analysis of meteorological curves. Quite different and
 simpler constructions can be used, if the integrals determining A_n and B_n
@@ -1534,7 +1534,7 @@ with the tracer in the direction of y. For a small motion the two wheels
 will then register just the components required, and during the continued
 motion of the tracer along the curve the wheels will add these components,
 and thus give the values of nA_n and nB_n. The factors 1/[pi] and -1/[pi]
-are taken account of in the graduation of the wheels. The readings have
+are taken account of in the [[Graduation|graduation]] of the wheels. The readings have
 then to be divided by n to give the coefficients required. Coradi's
 realization of this idea will be understood from fig. 23. The frame PP' of
 the instrument rests on three rollers E, E', and D. The first two drive an

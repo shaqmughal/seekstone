@@ -15,7 +15,7 @@ daughter of Josiah Wedgwood (1730-1795), died when Charles Darwin was
 eight years old. Charles Darwin's elder brother, Erasmus Alvey
 (1804-1881), was interested in literature and art rather than science:
 on the subject of the wide difference between the brothers Charles wrote
-that he was "inclined to agree with Francis Galton in believing that
+that he was "inclined to agree with Francis [[Galton]] in believing that
 education and environment produce only a small effect on the mind of
 anyone, and that most of our qualities are innate" (_Life and Letters_,
 London, 1887, p. 22). Darwin considered that his own success was chiefly
@@ -23,14 +23,14 @@ due to "the love of science, unbounded patience in long reflecting over
 any subject, industry in observing and collecting facts, and a fair
 share of invention as well as of common sense" (_l.c._ p. 107). He also
 says: "I have steadily endeavoured to keep my mind free so as to give up
-any hypothesis, however much beloved (and I cannot resist forming one on
+any [[Hypothesis|hypothesis]], however much beloved (and I cannot resist forming one on
 every subject), as soon as facts are shown to be opposed to it" (_l.c._
 p. 103). The essential causes of his success are to be found in this
 latter sentence, the creative genius ever inspired by existing knowledge
 to build hypotheses by whose aid further knowledge could be won, the
-calm unbiassed mind, the transparent honesty and love of truth which
+[[Calm|calm]] unbiassed mind, the transparent honesty and love of truth which
 enabled him to abandon or to modify his own creations when they ceased
-to be supported by observation. The even balance between these powers
+to be supported by observation. The even [[Balance|balance]] between these powers
 was as important as their remarkable development. The great naturalist
 appeared in the ripeness of time, when the world was ready for his
 splendid generalizations. Indeed naturalists were already everywhere
@@ -38,7 +38,7 @@ considering and discussing the problem of evolution, although Alfred
 Russel Wallace was the only one who, independently of Darwin, saw his
 way clearly to the solution. It is true that hypotheses essentially the
 same as natural selection were suggested much earlier by W. C. Wells
-(_Phil. Trans._, 1813), and Patrick Matthew (_Naval Timber and
+(_Phil. Trans._, 1813), and Patrick [[Matthew]] (_Naval Timber and
 Arboriculture_, 1831), but their views were lost sight of and produced
 no effect upon the great body of naturalists. In the preparation for
 Darwin Sir Charles Lyell's _Principles of Geology_ played an important
@@ -48,18 +48,18 @@ discussion of Lamarck's and other views, to reflect upon evolution.
 
 Darwin's early education was conducted at Shrewsbury, first for a year
 at a day-school, then for seven years at Shrewsbury School under Dr
-Samuel Butler (1774-1839). He gained but little from the narrow system
+Samuel [[Butler]] (1774-1839). He gained but little from the narrow system
 which was then universal. In 1825 he went to Edinburgh to prepare for
 the medical profession, for which he was unfitted by nature. After two
 sessions his father realized this, and in 1828 sent him to Cambridge
 with the idea that he should become a clergyman. He matriculated at
 Christ's College, and took his degree in 1831, tenth in the list of
 those who do not seek honours. Up to this time he had been keenly
-interested in sport, and in entomology, especially the collecting of
+interested in sport, and in [[Entomology|entomology]], especially the collecting of
 beetles. Both at Edinburgh, where in 1826 he read his first scientific
 paper, and at Cambridge he gained the friendship of much older
-scientific men--Robert Edmond Grant and William Macgillivray at the
-former, John Stevens Henslow and Adam Sedgwick at the latter. He had two
+scientific men--Robert Edmond Grant and William [[Macgillivray]] at the
+former, John Stevens [[Henslow]] and Adam Sedgwick at the latter. He had two
 terms' residence to keep after passing his last examination, and studied
 geology with Sedgwick. Returning from their geological excursion
 together in North Wales (August 1831), he found a letter from Henslow
@@ -71,10 +71,10 @@ lasting until the 2nd of October 1836. It is practically certain that he
 never left Great Britain after this latter date. After visiting the Cape
 de Verde and other islands of the Atlantic, the expedition surveyed on
 the South American coasts and adjacent islands (including the
-Galapagos), afterwards visiting Tahiti, New Zealand, Australia,
-Tasmania, Keeling Island, Maldives, Mauritius, St Helena, Ascension; and
-Brazil, de Verdes and Azores on the way home. His work on the geology of
-the countries visited, and that on coral islands, became the subject of
+Galapagos), afterwards visiting Tahiti, New Zealand, [[Australia]],
+Tasmania, Keeling Island, Maldives, [[Mauritius]], St Helena, Ascension; and
+Brazil, de Verdes and [[Azores]] on the way home. His work on the geology of
+the countries visited, and that on [[Coral|coral]] islands, became the subject of
 volumes which he published after his return, as well as his _Journal of
 a Naturalist_, and his other contributions to the official narrative.
 The voyage must be regarded as the real preparation for his life-work.
@@ -94,7 +94,7 @@ South American fossils, and species on Galapagos Archipelago. These
 facts (especially latter) origin of all my views." From 1838 to 1841 he
 was secretary of the Geological Society, and saw a great deal of Sir
 Charles Lyell, to whom he dedicated the second edition of his _Journal_.
-On the 29th of January 1839 he married his cousin, Emma Wedgwood, the
+On the 29th of January 1839 he married his [[Cousin|cousin]], Emma Wedgwood, the
 daughter of Josiah Wedgwood of Maer. They lived in London until
 September 1842, when they moved to Down, which was Darwin's home for the
 rest of his life. His health broke down many times in London, and
@@ -132,7 +132,7 @@ favourable variations would tend to be preserved, and unfavourable ones
 to be destroyed. The result of this would be the formation of new
 species. Here, then, I had a theory by which to work." In June 1842 he
 wrote out a sketch, which two years later he expanded to an essay
-occupying 231 pages folio. The idea of progressive divergence as an
+occupying 231 pages [[Folio|folio]]. The idea of progressive divergence as an
 advantage in itself, because the competition is most severe between
 organisms most closely related, did not occur to him until long after he
 had come to Down. During the growth of the _Origin_ Sir Joseph Hooker
@@ -140,11 +140,11 @@ was his most intimate friend, and on the 11th of January 1844 he wrote:
 "At last gleams of light have come, and I am almost convinced (quite
 contrary to the opinion I started with) that species are not (it is like
 confessing a murder) immutable" (_l.c._ ii. 13). In 1855 he began a
-correspondence with the great American botanist Asa Gray, and in 1857
+correspondence with the great American botanist Asa [[Gray]], and in 1857
 explained his views in a letter which afterwards became classical. In
 1856, urged by Lyell, he began the preparation of a third and far more
 expanded treatise, and had completed about half of it when, on the 18th
-of June 1858, he received a manuscript essay from A. R. Wallace, who was
+of June 1858, he received a [[Manuscript|manuscript]] essay from A. R. Wallace, who was
 then at Ternate in the Moluccas. Wallace wanted Darwin's opinion on the
 essay, which he asked should be forwarded to Lyell. Darwin was much
 startled to find in the essay a complete abstract of his own theory of
@@ -168,8 +168,8 @@ Darwin explained at the outset, what he insisted on elsewhere, that the
 facts of adaptation or contrivance in nature are the real difficulty to
 be explained by a theory of evolution, the stumbling-block of every
 previous suggestion. Until he could explain "the mistletoe, with its
-pollen carried by insects, and seed by birds--the woodpecker, with its
-feet and tail, beak and tongue, to climb the tree and secure insects,"
+pollen carried by [[Insect|insects]], and seed by birds--the woodpecker, with its
+feet and tail, [[Beak|beak]] and tongue, to climb the tree and secure insects,"
 he was "scientifically orthodox." Nevertheless he was led to believe in
 evolution, apart from any possible motive-cause, by "general facts in
 the affinities, embryology, rudimentary organs, geological history, and
@@ -192,7 +192,7 @@ selection" were first made public by Darwin, the "struggle for
 existence" by Wallace. Darwin and Wallace had met only once before the
 departure of the latter for the East. Their rivalry in the discovery of
 the great principle of natural selection was the beginning of a lifelong
-friendship. Wallace was lying ill with intermittent fever at Ternate in
+friendship. Wallace was lying ill with intermittent [[Fever|fever]] at Ternate in
 February 1858 when he began to think of Malthus's _Essay on Population_,
 read several years before: suddenly the idea of the survival of the
 fittest flashed upon him. In two hours he had "thought out almost the
@@ -200,8 +200,8 @@ whole of the theory," and in three evenings had finished his essay.
 Darwin, also inspired after reading Malthus, in October 1838, did not
 publish until nearly twenty years had elapsed, and then only when
 Wallace sent him his essay. Canon H. B. Tristram was the first to apply
-the new theory, explaining by its aid the colours of desert birds, &c.
-(_Ibis_, October 1859).
+the new theory, explaining by its aid the [[Colours|colours]] of [[Desert|desert]] birds, &c.
+(_[[Ibis]]_, October 1859).
 
 Acting under the advice of Lyell and Hooker, Darwin then began to prepare
 what was to become the great work of his life. It appeared on the 24th of
@@ -226,15 +226,15 @@ been thought out and marshalled in a manner which bears any comparison
 with that of Darwin in the _Origin_, and the work would have been in the
 highest degree epoch-making had it consisted of the later chapters alone.
 In the fifth chapter Darwin incorporated a certain proportion of the
-doctrines of Buffon,--modifications due to the direct influence of
-environment; and of Lamarck,--the hereditary effects of use and disuse.
+doctrines of [[Buffon]],--modifications due to the direct influence of
+environment; and of [[Lamarck]],--the hereditary effects of use and disuse.
 Lyell for a long time hesitated to accept the new teaching, and Darwin
 carried on a long correspondence with him. His public confession of faith
-was made at the anniversary dinner of the Royal Society in 1864. A storm
+was made at the anniversary [[Dinner|dinner]] of the Royal Society in 1864. A storm
 of controversy arose over the book, reaching its height at the meeting of
-the British Association at Oxford in 1860, when the celebrated duel
+the British Association at Oxford in 1860, when the celebrated [[Duel|duel]]
 between T. H. Huxley and Bishop Wilberforce of Oxford took place.
-Throughout these struggles Huxley was the foremost champion for evolution
+Throughout these struggles Huxley was the foremost [[Champion|champion]] for evolution
 and for fair play to natural selection, although he never entirely
 accepted the latter theory, holding that until man by his selection had
 made his domestic breed sterile _inter se_, there was no sufficient
@@ -257,7 +257,7 @@ Lamarck, which were ably presented and further elaborated by Herbert
 Spencer. In America a school of Neo-Lamarckians appeared, and for a time
 flourished under the inspiration of the vigorous personality of E. D.
 Cope. The writings of August Weismann next raised a controversy over the
-scope of heredity, assailing the very foundation of the hypotheses of
+scope of [[Heredity|heredity]], assailing the very foundation of the hypotheses of
 Buffon, Lamarck and Herbert Spencer by demanding evidence that the
 "acquired characters" upon which they rest are capable of hereditary
 transmission. The quantitative determination of heredity has been the
@@ -266,7 +266,7 @@ Galton. The question of isolation as a factor in species-formation has
 been greatly discussed, G. J. Romanes proposing, in his hypothesis of
 "Physiological Selection," that the barrier of sterility may arise
 spontaneously by variation between two sets of individuals as the
-beginning instead of the climax of specific distinction. Others have
+beginning instead of the [[Climax|climax]] of specific distinction. Others have
 fixed their attention upon the variations, which provided the material
 for natural selection, and have advocated the view that evolution
 proceeds by immense strides instead of the minute steps in which Darwin
@@ -356,7 +356,7 @@ experiments on the Sun-dew (_Drosera_), although other insect-catching
 plants, such as _Dionaea_, are also investigated.
 
 Charles Darwin's long life of patient, continuous work, the most
-fruitful, the most inspiring, in the annals of modern science, came to
+fruitful, the most inspiring, in the [[Annals|annals]] of modern science, came to
 an end on the 19th of April 1882. He was buried in Westminster Abbey on
 the 26th. It is of much interest to attempt to set forth some of the
 main characteristics of the man who did so much for modern science, and
@@ -384,7 +384,7 @@ letters or the MS. of his books. At about 3.0 he rested and smoked for
 an hour while being read to, often going to sleep. He then went for a
 short walk, and returning about 4.30, worked for an hour. After this he
 rested and smoked, and listened to reading until tea at 7.30, a meal
-which he came to prefer to late dinner. He then played two games of
+which he came to prefer to late dinner. He then played two [[Games|games]] of
 backgammon, read to himself, and listened to music and to reading aloud.
 He went to bed, generally very much tired, at 10.30, and was often much
 troubled by wakefulness and the activity of his thoughts. It is thus
@@ -420,7 +420,7 @@ In addition to the personal qualities and powers of Charles Darwin,
 there were other contributing causes without which the world could never
 have reaped the benefit of his genius. It is evident that Darwin's
 health could barely have endured the strain of working for a living, and
-that nothing would have been left over for his researches. A deep debt
+that nothing would have been left over for his researches. A deep [[Debt|debt]]
 of gratitude is owing to his father for placing him in a position in
 which all his energy could be devoted to scientific work and thought.
 But his ill-health was such that this important and essential condition
@@ -443,23 +443,23 @@ condition which enabled him to bear the strain and fight out the
 struggle to the end."
 
 Charles Darwin was honoured by the chief societies of the civilized
-world. He was made a knight of the Prussian order, "Pour le Merite," in
+world. He was made a [[Knight|knight]] of the Prussian order, "Pour le Merite," in
 1867, a corresponding member of the Berlin Academy of Sciences in 1863,
-a fellow in 1878, and later in the same year a corresponding member of
+a [[Fellow|fellow]] in 1878, and later in the same year a corresponding member of
 the French Institute in the botanical section. He received the Bressa
 prize of the Royal Academy of Turin, and the Baly medal of the Royal
 College of Physicians in 1879, the Wollaston medal of the Geological
 Society in 1859, a Royal medal of the Royal Society in 1853, and the
-Copley medal in 1864. His health prevented him from accepting the
+[[Copley]] medal in 1864. His health prevented him from accepting the
 honorary degree which Oxford University wished to confer on him, but his
 own university had stronger claims, and he received its honorary LL.D.
 in 1877.
 
 Two daughters and five sons survived him, four of the latter becoming
-prominent in the scientific world,--Sir George Howard (b. 1845), who
-became professor of astronomy and experimental philosophy at Cambridge
+prominent in the scientific world,--Sir George [[Howard]] (b. 1845), who
+became professor of [[Astronomy|astronomy]] and experimental philosophy at Cambridge
 in 1883; Francis (b. 1848), the distinguished botanist; Leonard (b.
-1850), a major in the royal engineers, and afterwards well known as an
+1850), a [[Major|major]] in the royal engineers, and afterwards well known as an
 economist; and Horace (b. 1851), civil engineer.
 
   See _The Life and Letters of Charles Darwin, including an

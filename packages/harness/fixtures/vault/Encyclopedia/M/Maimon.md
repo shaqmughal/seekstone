@@ -40,7 +40,7 @@ the "thing-in-itself" is dismissed from the inquiry, and philosophy is
 limited to the sphere of pure thought. The Kantian categories are,
 indeed, demonstrable and true, but their application to the given is
 meaningless and unthinkable. By this critical scepticism Maimon takes up
-a position intermediate between Kant and Hume. Hume's attitude to the
+a position intermediate between [[Kant]] and Hume. Hume's attitude to the
 empirical is entirely supported by Maimon. The casual concept, as given
 by experience, expresses not a necessary objective order of things, but
 an ordered scheme of perception; it is subjective and cannot be

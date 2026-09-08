@@ -2,7 +2,7 @@
 
 BESENVAL DE BRONSTATT, PIERRE VICTOR, BARON DE (1722-1794), French
 soldier, was born at Soleure. He was the son of Jean Victor Besenval,
-colonel of the regiment of Swiss guards in the pay of France, who was
+colonel of the regiment of Swiss [[Guards|guards]] in the pay of France, who was
 charged in 1707 by Louis XIV. with a mission to Sweden, to reconcile
 Charles XII. with the tsar Peter the Great, and to unite them in
 alliance with France against England. Pierre Victor served at first as

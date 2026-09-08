@@ -8,7 +8,7 @@ tags: [science, architecture-studies]
 
 # Hamilcar Barca
 
-HAMILCAR BARCA, or BARCAS (Heb. _barak_ "lightning"), Carthaginian
+HAMILCAR BARCA, or [[Barca|BARCAS]] (Heb. _barak_ "lightning"), Carthaginian
 general and statesman, father of Hannibal, was born soon after 270 B.C.
 He distinguished himself during the First Punic War in 247, when he took
 over the chief command in Sicily, which at this time was almost entirely
@@ -18,13 +18,13 @@ Ercte (Monte Pellegrino, near Palermo), and not only maintained himself
 against all attacks, but carried his raids as far as the coast of south
 Italy. In 244 he transferred his army to a similar position on the
 slopes of Mt. Eryx (Monte San Giuliano), from which he was able to lend
-support to the besieged garrison in the neighbouring town of Drepanum
+support to the besieged [[Garrison|garrison]] in the neighbouring town of Drepanum
 (Trapani). By a provision of the peace of 241 Hamilcar's unbeaten force
 was allowed to depart from Sicily without any token of submission. On
 returning to Africa his troops, which had been kept together only by his
 personal authority and by the promise of good pay, broke out into open
 mutiny when their rewards were withheld by Hamilcar's opponents among
-the governing aristocracy. The serious danger into which Carthage was
+the governing [[Aristocracy|aristocracy]]. The serious danger into which Carthage was
 brought by the failure of the aristocratic generals was averted by
 Hamilcar, whom the government in this crisis could not but reinstate. By
 the power of his personal influence among the mercenaries and the
@@ -36,7 +36,7 @@ and training a new army in some Numidian forays he led on his own
 responsibility an expedition into Spain, where he hoped to gain a new
 empire to compensate Carthage for the loss of Sicily and Sardinia, and
 to serve as a basis for a campaign of vengeance against the Romans
-(236). In eight years by force of arms and diplomacy he secured an
+(236). In eight years by force of arms and [[Diplomacy|diplomacy]] he secured an
 extensive territory in Spain, but his premature death in battle (228)
 prevented him from completing the conquest. Hamilcar stood out far above
 the Carthaginians of his age in military and diplomatic skill and in
@@ -52,7 +52,7 @@ trained to be his successor in the conflict.
   SICILY, Smith's _Classical Dictionary_. So far as the name itself is
   concerned, _Milcar_ is perhaps the same as _Melkarth_, the Tyrian god.
 
-  See Polybius i.-iii.; Cornelius Nepos, _Vita Hamilcaris_; Appian, _Res
+  See Polybius i.-iii.; Cornelius Nepos, _Vita Hamilcaris_; [[Appian]], _Res
   Hispanicae_, chs. 4, 5, Diodorus, _Excerpta_, xxiv., xxv.; O. Meitzer,
   _Geschichte der Karthager_ (Berlin, 1877), ii. also PUNIC WARS.
        (M. O. B. C.)

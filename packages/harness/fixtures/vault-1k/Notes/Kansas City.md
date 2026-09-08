@@ -39,7 +39,7 @@ was erected within three months, to replace one destroyed by fire, for
 the National Democratic Convention which met here on the 4th of July
 1900. The Public Library with walls of white limestone and Texas
 granite, contained (1908) 95,000 volumes. The Congregational, the
-Calvary Baptist, the Second Presbyterian, the Independence Avenue
+[[Calvary]] Baptist, the Second Presbyterian, the Independence Avenue
 Christian, the Independence Avenue Methodist, and the Second Christian
 Science churches are the finest church buildings. The board of trade
 building, the building of the _Star_ newspaper, and several large office
@@ -87,7 +87,7 @@ members of the lower house are elected, one by each ward, in the spring
 of each even numbered year. The upper house members are elected by the
 city at large and serve four years. A board of public works, board of
 park commissioners, board of fire and water commissioners, a board of
-civil service, a city counsellor, a city auditor, a city assessor, a
+civil service, a city counsellor, a city auditor, a city [[Assessor|assessor]], a
 purchasing agent, and subordinate officers, are appointed by the mayor,
 without confirmation by the common council. A non-partisan board
 composed of citizens who must not be physicians has general control of
@@ -164,7 +164,7 @@ FOOTNOTES:
     boat to prairie caravan was moved steadily up the Missouri. Whisky,
     groceries, prints and notions were staples sent to Santa Fe; wool,
     buffalo robes and dried buffalo meat, Mexican silver coin, gold and
-    silver dust and ore came in return. In 1860 the trade employed 3000
+    silver [[Dust|dust]] and ore came in return. In 1860 the trade employed 3000
     wagons and 7000 men, and amounted to millions of dollars in value.
 
 ## See also

@@ -10,7 +10,7 @@ type: source
 CASHIBO, or CARAPACHE ("bat"), a tribe of South American Indians of
 Pannoan stock, living in scanty numbers on the west side of the Ucayali,
 Peru. They are a wild, savage people who have always been foremost in
-attacks on the Jesuits. They joined Juan Santos in 1744 in the
+attacks on the [[Jesuits]]. They joined Juan Santos in 1744 in the
 destruction of missions.
 
 
@@ -33,7 +33,7 @@ word in various forms is used in the same sense in most European
 languages. It is now used in English for the dismissal of a commissioned
 officer from the army and navy for particularly serious offences, in the
 words of the Army Act, 1881, s. 16, for "behaving in a scandalous
-manner unbecoming an officer and a gentleman." "Cashiering" involves not
+manner unbecoming an officer and a [[Gentleman|gentleman]]." "Cashiering" involves not
 merely the loss of the commission, but also a permanent disqualification
 from serving the state in any capacity.
 

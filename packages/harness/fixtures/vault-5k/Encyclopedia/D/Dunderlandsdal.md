@@ -13,7 +13,7 @@ was undertaken in 1902 by the Dunderland Iron Ore Company, water-power
 being provided by the strong Dunderland river. There are also pyrites
 mines. At the mouth of the river is Mo, a considerable trading village.
 The valley is remarkable for several stalactite caverns in the
-limestone, some of the tributary streams flowing for considerable
+[[Limestone|limestone]], some of the tributary streams flowing for considerable
 distances underground. From Mo a fine road crosses the mountains to the
 head-lake of the great Ume river, draining to the Baltic, and from the
 head of Dunderlandsdal a sequestered bridle-path runs to Saltdal on the

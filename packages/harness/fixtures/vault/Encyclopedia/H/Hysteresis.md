@@ -2,7 +2,7 @@
 
 HYSTERESIS (Gr. [Greek: hysterêsis], from [Greek: hysterein], to lag
 behind), a term added to the vocabulary of physical science by J. A.
-Ewing, who defines it as follows: When there are two qualities M and N
+[[Ewing]], who defines it as follows: When there are two qualities M and N
 such that cyclic variations of N cause cyclic variations of M, then if
 the changes of M lag behind those of N, we may say that there is
 hysteresis in the relation of M to N (_Phil. Trans._, 1885, 176, p.

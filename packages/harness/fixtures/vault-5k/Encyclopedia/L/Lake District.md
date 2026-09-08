@@ -31,12 +31,12 @@ streams are swift and clear, and numerous small waterfalls are
 characteristic of the district. To the north, west and south, a flat
 coastal belt, bordering the Irish Sea, with its inlets Morecambe Bay and
 Solway Firth, and broadest in the north, marks off the Lake District,
-while to the east the valleys of the Eden and the Lune divide it from
+while to the east the valleys of the [[Eden]] and the Lune divide it from
 the Pennine mountain system. Geologically, too, it is individual. Its
 centre is of volcanic rocks, complex in character, while the
 Coal-measures and New Red Sandstone appear round the edges. The district
 as a whole is grooved by a main depression, running from north to south
-along the valleys of St John, Thirlmere, Grasmere and Windermere,
+along the valleys of St John, Thirlmere, [[Grasmere]] and Windermere,
 surmounting a pass (Dunmail Raise) of only 783 ft.; while a secondary
 depression, in the same direction, runs along Derwentwater, Borrowdale,
 Wasdale and Wastwater, but here Sty Head Pass, between Borrowdale and
@@ -49,7 +49,7 @@ _Geographical Journal_, vi. 48). The principal features of the district
 may be indicated by following this circle round from north, by west,
 south and east.
 
-  The river Derwent (q.v.), rising in the tarns and "gills" or "ghylls"
+  The river [[Derwent]] (q.v.), rising in the tarns and "[[Gill|gills]]" or "ghylls"
   (small streams running in deeply-grooved clefts) north of Sty Head
   Pass and the Scafell mass flows north through the wooded Borrowdale
   and forms Derwentwater and Bassenthwaite. These two lakes are in a
@@ -66,7 +66,7 @@ south and east.
   Honister Pass (1100 ft.), whence it descends westward, beneath the
   majestic Honister Crags, where green slate is quarried, into the
   valley containing Buttermere (94 ft. max. depth) and Crummock Water
-  (144 ft.), drained by the Cocker. Between this and the Derwent valley
+  (144 ft.), drained by the [[Cocker]]. Between this and the Derwent valley
   the principal height is Grasmoor (2791 ft.); southward a steep narrow
   ridge (High Style, 2643) divides it from Ennerdale, containing
   Ennerdale Water (148 ft. max. depth), which is fed by the Liza and
@@ -82,7 +82,7 @@ south and east.
   East of Wasdale lies the range of Scafell (q.v.), its chief points
   being Scafell (3162 ft.), Scafell Pike (3210), Lingmell (2649) and
   Great End (2984), while the line is continued over Esk Hause Pass
-  (2490) along a fine line of heights (Bow Fell, 2960; Crinkle Crags,
+  (2490) along a fine line of heights ([[Bow]] Fell, 2960; Crinkle Crags,
   2816), to embrace the head of Eskdale. The line then descends to
   Wrynose Pass (1270 ft.), from which the Duddon runs south through a
   vale of peculiar richness in its lower parts; while the range
@@ -96,7 +96,7 @@ south and east.
   and by the Rothay from Dunmail Raise and the small lakes of Grasmere
   and Rydal Water, embowered in woods. East of the Rothay valley and
   Thirlmere lies the mountain mass including Helvellyn (3118 ft.),
-  Fairfield (2863) and other points, with magnificent crags at several
+  [[Fairfield]] (2863) and other points, with magnificent crags at several
   places on the eastern side towards Grisedale and Patterdale. These
   dales drain to Ullswater (205 ft. max., second to Windermere in area),
   and so north-east to the Eden. To the east and south-east lies the
@@ -140,7 +140,7 @@ south and east.
 
   Fish taken in the lakes include perch, pike, char and trout in
   Windermere, Ennerdale, Bassenthwaite, Derwentwater, &c., and the
-  gwyniad or fresh-water herring in Ullswater. The industries of the
+  [[Gwyniad|gwyniad]] or fresh-water herring in Ullswater. The industries of the
   Lake District include slate quarrying and some lead and zinc mining,
   and weaving, bobbin-making and pencil-making.
 
@@ -165,12 +165,12 @@ south and east.
   first cottage which Wordsworth had inhabited. Ambleside, or its
   environs, was also the place of residence of Dr Arnold (of Rugby), who
   spent there the vacations of the last ten years of his life; and of
-  Harriet Martineau, who built herself a house there in 1845. At Keswick
-  Mrs Lynn Linton was born in 1822. Brantwood, a house beside Coniston
+  Harriet [[Martineau]], who built herself a house there in 1845. At Keswick
+  Mrs Lynn [[Linton]] was born in 1822. Brantwood, a house beside Coniston
   Lake, was the home of Ruskin during the last years of his life. In
   addition to these residents or natives of the locality, Shelley,
   Scott, Nathaniel Hawthorne, Clough, Crabb Robinson, Carlyle, Keats,
-  Tennyson, Matthew Arnold, Mrs Hemans, Gerald Massey and others of less
+  Tennyson, [[Matthew]] Arnold, Mrs [[Hemans]], Gerald [[Massey]] and others of less
   reputation made longer or shorter visits, or were bound by ties of
   friendship with the poets already mentioned. The Vale of St John, near
   Keswick, recalls Scott's _Bridal of Triermain_. But there is a deeper
@@ -193,10 +193,10 @@ south and east.
   from the literature of the subject: Harriet Martineau, _The English
   Lakes_ (Windermere, 1858); Mrs Lynn Linton, _The Lake Country_
   (London, 1864); E. Waugh, _Rambles in the Lake Country_ (1861) and _In
-  the Lake Country_ (1880); W. Knight, _Through the Wordsworth Country_
+  the Lake Country_ (1880); W. [[Knight]], _Through the Wordsworth Country_
   (London, 1890); H. D. Rawnsley, _Literary Associations of the English
-  Lakes_ (2 vols., Glasgow, 1894) and _Life and Nature of the English
-  Lakes_ (Glasgow, 1899); Stopford Brooke, _Dove Cottage, Wordsworth's
+  Lakes_ (2 vols., [[Glasgow]], 1894) and _Life and Nature of the English
+  Lakes_ (Glasgow, 1899); Stopford Brooke, _[[Dove]] Cottage, Wordsworth's
   Home from 1800 to 1808_; A. G. Bradley, _The Lake District, its
   Highways and Byeways_ (London, 1901); Sir John Harwood, _History of
   the Thirlmere Water Scheme_ (1895); for mountain-climbing, Col. J.

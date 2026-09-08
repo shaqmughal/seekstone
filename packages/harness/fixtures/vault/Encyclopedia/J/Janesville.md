@@ -2,10 +2,10 @@
 
 JANESVILLE, a city and the county-seat of Rock County, Wisconsin,
 U.S.A., situated on both sides of the Rock river, 70 m. S.W. of
-Milwaukee and 90 m. N.W. of Chicago. Pop. (1900), 13,185, of whom 2409
+Milwaukee and 90 m. N.W. of [[Chicago]]. Pop. (1900), 13,185, of whom 2409
 were foreign-born; (1910 census), 13,894. It is served by the Chicago &
 North-Western and the Chicago, Milwaukee & St Paul railways, and by
-electric lines connecting with Madison and Beloit, Wis., and Rockford,
+electric lines connecting with [[Madison]] and Beloit, Wis., and Rockford,
 Illinois. The Rock river is not commercially navigable at this point,
 but furnishes valuable water-power for manufacturing purposes. The city
 is picturesquely situated on bluffs above the river. Janesville is the

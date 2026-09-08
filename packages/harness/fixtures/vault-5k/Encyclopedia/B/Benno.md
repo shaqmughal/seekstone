@@ -10,7 +10,7 @@ Clement III. was restored to his see, which he held till his death. He
 did much for his diocese, both by ecclesiastical reforms on the
 Hildebrandine model and by material developments. He was long reverenced
 in his own diocese as a saint before, in 1523, he was canonized by Pope
-Adrian VI. His canonization drew from Luther a violent brochure "against
+Adrian VI. His [[Canonization|canonization]] drew from Luther a violent brochure "against
 the new false god and old devil, who is to be lifted up at Meissen."
 
   For bibliography, see Ulysse Chevalier, _Repertoire des sources hist.:

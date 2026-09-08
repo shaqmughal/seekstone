@@ -22,7 +22,7 @@ side are bent up (fig. 2). Most commonly the rocks on both sides are
 considerably broken, jumbled and crumpled, so that the line of fracture
 is marked by a belt or wall-like mass of fragmentary rock, _fault-rock_,
 which may be several yards in breadth. Faults are to be distinguished
-from joints and fissures by the fact that there must have been a
+from [[Joints|joints]] and fissures by the fact that there must have been a
 movement of the rock on one side of the fault-plane relatively to that
 on the other side. The trace of a fault-plane at the surface of the
 earth is a line (or belt of fault-rock), which in geological mapping is
@@ -64,7 +64,7 @@ the "foot-wall."
 [Illustration: FIG. 7.--Reversed fault, Liddesdale.]
 
 The relationship that exists between the hade and the direction of throw
-has led to the classification of faults into "normal faults," which hade
+has led to the [[Classification|classification]] of faults into "normal faults," which hade
 under the downthrow side, or in other words, those in which the
 hanging-wall has dropped; and "reversed faults," which hade beneath the
 upthrow side, that is to say, the foot-wall exhibits a relative sinking.
@@ -142,7 +142,7 @@ cause beds to be cut out at the surface on the upthrow side; if it hades
 against the dip direction it may repeat some of the beds on the upthrow
 side (figs. 11 and 12). With dip faults the crop is carried forward
 (down the dip) on the upthrow side. The perpendicular distance between
-the crop of the bed (dike or vein) on opposite sides of the fault is the
+the crop of the bed ([[Dike|dike]] or vein) on opposite sides of the fault is the
 "offset." The offset decreases with increasing angle of dip and
 increases with increase in the throw of the fault (fig. 13). Faults
 which run obliquely across the direction of dip, if they hade with the
@@ -173,7 +173,7 @@ let down an intervening strip of rock, thereby forming "fault valleys"
 or _Graben_ (_Grabensenken_); the Great Rift Valley is a striking
 example. On the other hand, a large area of rock is sometimes lifted up,
 or surrounded by a system of faults, which have let down the encircling
-ground; such a fault-block is known also as a _horst_; a considerable
+ground; such a fault-block is known also as a _[[Horst|horst]]_; a considerable
 area of Greenland stands up in this manner.
 
 [Illustration: FIG. 15.--Plan of an anticline (A) and syncline (S),
@@ -223,7 +223,7 @@ faille du midi_. Overturned folds are frequently seen passing into
 thrusts. Bayley Willis has classified thrusts as (1) Shear thrusts, (2)
 Break thrusts, (3) Stretch thrusts, and (4) Erosion thrusts.
 
-Dr J.E. Marr ("Notes on the Geology of the English Lake District,"
+Dr J.E. Marr ("Notes on the Geology of the English [[Lake District]],"
 _Proc. Geol. Assoc._, 1900) has described a type of fault which may be
 regarded as the converse of a thrust fault. If we consider a series of
 rock masses A, B, C--of which A is the oldest and undermost--undergoing

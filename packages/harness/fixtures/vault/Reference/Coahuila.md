@@ -2,7 +2,7 @@
 
 COAHUILA, a northern frontier state of Mexico, bounded N. and N.E. by
 Texas, U.S.A., E. by Nuevo León, S. by San Luis Potosi and Zacatecas,
-and W. by Durango and Chihuahua. Area, 63,569 sq.m.; pop. (1895)
+and W. by Durango and [[Chihuahua]]. Area, 63,569 sq.m.; pop. (1895)
 237,815; (1900) 296,938. Its surface is a roughly broken plateau,
 traversed N.W. to S.E. by several ranges of mountains and sloping gently
 toward the Rio Grande. The only level tract of any size in the state is
@@ -17,7 +17,7 @@ climate is hot and dry, and generally healthy. Stock-raising was for a
 time the principal industry, but agriculture has been largely developed
 in several localities, among the chief products of which are
 cotton--Coahuila is the principal cotton-producing state in
-Mexico--Indian corn, wheat, beans, sugar and grapes. The Parras district
+Mexico--Indian [[Corn|corn]], wheat, [[Bean|beans]], sugar and grapes. The Parras district
 in the southern part of the state has long been celebrated for its wines
 and brandies. The mineral wealth of the state is very great, and the
 mining industries, largely operated with foreign capital, are important.
@@ -29,21 +29,21 @@ the last quarter of the 19th century, and to the investment of foreign
 capital in local enterprises. The first Spanish settlement in the region
 now called Coahuila was at Saltillo in 1586, when it formed part of the
 province of Nueva Viscaya. Later it became the province of Nueva
-Estremadura under the Spanish régime, and in 1824, under the new
+[[Estremadura]] under the Spanish régime, and in 1824, under the new
 republican organization, it became the state of Coahuila and included
 Texas and Nuevo León. Later in the same year Nuevo León was detached,
 but Texas remained a part of the state until 1835. The capital of the
 state is Saltillo; Monclova was the capital from 1833 to 1835. Among the
 more important towns are Parras (pop. 6476 in 1900), 98 m. W. by N. of
-Saltillo in a rich grape-producing district, Ciudad Porfirio Diaz, and
+Saltillo in a rich grape-producing district, [[Ciudad Porfirio Diaz]], and
 Monclova (pop. 6684 in 1900), 105 m. N. by W. of Saltillo, on the
-Mexican International railway.
+Mexican [[International]] railway.
 
 
 
 
 COAL. In its most general sense the term "coal" includes all varieties
-of carbonaceous minerals used as fuel, but it is now usual in England to
+of carbonaceous minerals used as [[Fuel|fuel]], but it is now usual in England to
 restrict it to the particular varieties of such minerals occurring in
 the older Carboniferous formations. On the continent of Europe it is
 customary to consider coal as divisible into two great classes,
@@ -58,19 +58,19 @@ obtained, and the manner in which it is transported to market.
 
 The root _kol_ is common to all the Teutonic nations, while in French
 and other Romance languages derivatives of the Latin _carbo_ are used,
-e.g. _charbon de terre_. In France and Belgium, however, a peculiar
+e.g. _charbon de terre_. In France and [[Belgium]], however, a peculiar
 word, _houille_, is generally used to signify mineral coal. This word is
 supposed to be derived from the Walloon _hoie_, corresponding to the
 medieval Latin _hullae_. Littré suggests that it may be related to the
-Gothic _haurja_, coal. Anthracite is from the Greek [Greek: anthrax],
+[[Gothic]] _haurja_, coal. Anthracite is from the Greek [Greek: anthrax],
 and the term _lithanthrax_, stone coal, still survives, with the same
 meaning, in the Italian _litantrace_.
 
 It must be borne in mind that the signification now attached to the word
 coal is different from that which formerly obtained when wood was the
 only fuel in general use. Coal then meant the carbonaceous residue
-obtained in the destructive distillation of wood, or what is known as
-charcoal, and the name collier was applied indifferently to both
+obtained in the destructive [[Distillation|distillation]] of wood, or what is known as
+[[Charcoal|charcoal]], and the name collier was applied indifferently to both
 coal-miners and charcoal-burners.
 
 The spelling "cole" was generally used up to the middle of the 17th
@@ -93,7 +93,7 @@ softer varieties. The maximum hardness is from 2.5 to 3 in anthracite
 and hard bituminous coals, but considerably less in lignites, which are
 nearly as soft as rotten wood. A greater hardness is due to the presence
 of earthy impurities. The densest anthracite is often of a semi-metallic
-lustre, resembling somewhat that of graphite. Bright, glance or pitch
+lustre, resembling somewhat that of [[Graphite|graphite]]. [[Bright]], glance or pitch
 coal is another brilliant variety, brittle, and breaking into regular
 fragments of a black colour and pitchy lustre. Lignite and cannel are
 usually dull and earthy, and of an irregular fracture, the latter being
@@ -102,41 +102,41 @@ brilliant as anthracite; cannel and jet may be turned in the lathe, and
 are susceptible of taking a brilliant polish. The specific gravity is
 highest in anthracite and lowest in lignite, bituminous coals giving
 intermediate values (see TABLE I.). As a rule, the density increases
-with the amount of carbon, but in some instances a very high specific
+with the amount of [[Carbon|carbon]], but in some instances a very high specific
 gravity is due to intermixed earthy matters, which are always denser
 than even the densest form of coal substance.
 
 Coal is never definitely crystalline, the nearest approach to such a
-structure being a compound fibrous grouping resembling that of gypsum or
+structure being a compound fibrous grouping resembling that of [[Gypsum|gypsum]] or
 arragonite, which occurs in some of the steam coals of South Wales, and
 is locally known as "cone in cone," but no definite form or arrangement
-can be made out of the fibres. Usually it occurs in compact beds of
+can be made out of the [[Fibres|fibres]]. Usually it occurs in compact beds of
 alternating bright and dark bands in which impressions of leaves, woody
 fibre and other vegetable remains are commonly found. There is generally
 a tendency in coals towards cleaving into cubical or prismatic blocks,
 but sometimes the cohesion between the particles is so feeble that the
-mass breaks up into dust when struck. These peculiarities of structure
+mass breaks up into [[Dust|dust]] when struck. These peculiarities of structure
 may vary very considerably within small areas; and the position of the
-divisional planes or cleats with reference to the mass, and the
+divisional planes or [[Cleat|cleats]] with reference to the mass, and the
 proportion of small coal or slack to the larger fragments when the coal
 is broken up by cutting-tools, are points of great importance in the
 working of coal on a large scale.
 
 The divisional planes often contain small films of other minerals, the
-commonest being calcite, gypsum and iron pyrites, but in some cases
-zeolitic minerals and galena have been observed. Salt, in the form of
-brine, is sometimes present in coal. Hydrocarbons, such as petroleum,
+commonest being [[Calcite|calcite]], gypsum and iron pyrites, but in some cases
+zeolitic minerals and [[Galena|galena]] have been observed. Salt, in the form of
+brine, is sometimes present in coal. [[Hydrocarbon|Hydrocarbons]], such as petroleum,
 bitumen, paraffin, &c., are also found occasionally in coal, but more
-generally in the associated sandstones and limestones of the
+generally in the associated sandstones and [[Limestone|limestones]] of the
 Carboniferous formation. Gases, consisting principally of light
-carburetted hydrogen or marsh gas, are often present in considerable
+carburetted hydrogen or [[Marsh Gas|marsh gas]], are often present in considerable
 quantity in coal, in a dissolved or occluded state, and the evolution of
 these upon exposure to the air, especially when a sudden diminution of
 atmospheric pressure takes place, constitutes one of the most formidable
 dangers that the coal miner has to encounter.
 
 
-  Classification.
+  [[Classification]].
 
   Anthracite.
 
@@ -145,7 +145,7 @@ various points of view, such as their chemical composition, their
 behaviour when subjected to heat or when burnt, and their geological
 position and origin. They all contain carbon, hydrogen, oxygen and
 nitrogen, forming the carbonaceous or combustible portion, and some
-quantity of mineral matter, which remains after combustion as a residue
+quantity of mineral matter, which remains after [[Combustion|combustion]] as a residue
 or "ash." As the amount of ash varies very considerably in different
 coals, and stands in no relation to the proportion of the other
 constituents, it is necessary in forming a chemical classification to
@@ -153,9 +153,9 @@ compute the results of analysis after deduction of the ash and
 hygroscopic water. Examples of analyses treated in this manner are
 furnished in the last column of Table I., from which it will be seen
 that the nearest approach to pure carbon is furnished by anthracite,
-which contains above 90%. This class of coal burns with a very small
+which contains above 90%. This class of coal [[Burns|burns]] with a very small
 amount of flame, producing intense local heat and no smoke. It is
-especially used for drying hops and malt, and in blast furnaces where a
+especially used for drying [[Hop|hops]] and malt, and in blast furnaces where a
 high temperature is required, but it is not suited for reverberatory
 furnaces.
 
@@ -163,7 +163,7 @@ furnaces.
   Bituminous coals.
 
 The most important class of coals is that generally known as bituminous,
-from their property of softening or undergoing an apparent fusion when
+from their property of softening or undergoing an apparent [[Fusion|fusion]] when
 heated to a temperature far below that at which actual combustion takes
 place. This term is founded on a misapprehension of the nature of the
 occurrence, since, although the softening takes place at a low
@@ -183,7 +183,7 @@ from about 3 to 14%. These variations in composition are attended with
 corresponding differences in qualities, which are distinguished by
 special names. Thus the semi-anthracitic coals of South Wales are known
 as "dry" or "steam coals," being especially valuable for use in marine
-steam-boilers, as they burn more readily than anthracite and with a
+steam-boilers, as they [[Burn|burn]] more readily than anthracite and with a
 larger amount of flame, while giving out a great amount of heat, and
 practically without producing smoke. Coals richer in hydrogen, on the
 other hand, are more useful for burning in open fires--smiths' forges
@@ -195,8 +195,8 @@ and furnaces--where a long flame is required.
 The excess of hydrogen in a coal, above the amount necessary to combine
 with its oxygen to form water, is known as "disposable" hydrogen, and is
 a measure of the fitness of the coal for use in gas-making. This excess
-is greatest in what is known as cannel coal, the Lancashire kennel or
-candle coal, so named from the bright light it gives out when burning.
+is greatest in what is known as cannel coal, the Lancashire [[Kennel|kennel]] or
+[[Candle|candle]] coal, so named from the bright light it gives out when burning.
 This, although of very small value as fuel, commands a specially high
 price for gas-making. Cannel is more compact and duller than ordinary
 coal, and can be wrought in the lathe and polished.
@@ -220,7 +220,7 @@ coal, and can be wrought in the lathe and polished.
   | 4. Risca, South Wales      |        | 75.49 | 4.73 |     6.78     | 1.21 |10.67 | 1.12 | 86.78 | 5.43 |  7.79 |
   | 5. Aberdare,     "         |    ..  | 86.80 | 4.25 |     3.06     | 0.83 | 4.40 | 0.66 | 92.24 | 4.51 |  3.25 |
   | 6. Hartley, Northumberl'd  |    ..  | 78.65 | 4.65 |    13.36     | 0.55 | 2.49 |  ..  | 80.67 | 4.76 | 14.5  |
-  | 7. Dudley, Staffordshire   |  1.278 | 78.57 | 5.29 | 12.88 | 1.84 | 0.39 | 1.03 | 1.13 | 79.70 | 5.37 | 14.9  |
+  | 7. [[Dudley]], Staffordshire   |  1.278 | 78.57 | 5.29 | 12.88 | 1.84 | 0.39 | 1.03 | 1.13 | 79.70 | 5.37 | 14.9  |
   | 8. Stranitzen, Styria      |    ..  | 79.90 | 4.85 | 12.75 | 0.64 | 0.20 | 1.66 |  ..  | 81.45 | 4.92 | 13.63 |
   +----------------------------+--------+-------+------+-------+------+------+------+------+-------+------+-------+
   |_Cannel or Gas Coal._       |        |       |      |       |      |      |      |      |       |      |       |
@@ -230,8 +230,8 @@ coal, and can be wrought in the lathe and polished.
   |12. (Tasmanite) Tasmania    |  1.18  | 79.34 |10.41 |     4.93     | 5.32 |  ..  |  ..  | 83.80 |10.99 |  5.21 |
   +----------------------------+--------+-------+------+-------+------+------+------+------+-------+------+-------+
   |_Lignite and Brown Coal._   |        |       |      |       |      |      |      |      |       |      |       |
-  |13. Cologne                 |  1.100 | 63.29 | 4.98 |    26.24     |  ..  | 8.49 |  ..  | 66.97 | 5.27 | 27.76 |
-  |14. Bovey Tracy, Devonshire |    ..  | 66.31 | 5.63 | 22.86 | 0.57 | 2.36 | 2.36 |  ..  | 69.53 | 5.90 | 24.57 |
+  |13. [[Cologne]]                 |  1.100 | 63.29 | 4.98 |    26.24     |  ..  | 8.49 |  ..  | 66.97 | 5.27 | 27.76 |
+  |14. Bovey Tracy, [[Devonshire]] |    ..  | 66.31 | 5.63 | 22.86 | 0.57 | 2.36 | 2.36 |  ..  | 69.53 | 5.90 | 24.57 |
   |15. Trifail, Styria         |    ..  | 50.72 | 5.34 | 33.18 | 2.80 | 0.90 | 7.86 |  ..  | 55.11 | 5.80 | 39.09 |
   +----------------------------+--------+-------+------+-------+------+------+------+------+-------+------+-------+
 
@@ -296,7 +296,7 @@ By the term "ash" is understood the mineral matter remaining unconsumed
 after the complete combustion of the carbonaceous portion of a coal.
 According to Couriot (_Annales de la société géologique de Belgique_,
 vol. xxiii. p. 105) the stratified character of the ash may be rendered
-apparent in an X-ray photograph of a piece of coal about an inch thick,
+apparent in an X-ray photograph of a piece of coal about an [[Inch|inch]] thick,
 when it appears in thin parallel bands, the combustible portion
 remaining transparent. It may also be rendered visible if a smooth block
 of free-burning coal is allowed to burn away quickly in an open fire,
@@ -381,11 +381,11 @@ silica and alkalis and the substitution of substances analogous in
 composition to fire-clay. The causes and methods of these changes are,
 however, not very exactly defined. According to the elaborate researches
 of B. Renault (_Bulletin de la Société de l'Industrie minérale_, 3 ser.
-vol. xiii. p. 865), the agents of the transformation of cellulose into
-peaty substances are saprophytic fungi and bacterial ferments. As the
+vol. xiii. p. 865), the agents of the transformation of [[Cellulose|cellulose]] into
+peaty substances are saprophytic [[Fungi|fungi]] and bacterial ferments. As the
 former are only active in the air while the latter are anaerobic, the
 activity of either agent is conditioned by variation in the water level
-of the bog. The ultimate term of bacterial activity seems to be the
+of the [[Bog|bog]]. The ultimate term of bacterial activity seems to be the
 production of ulmic acid, containing carbon 65.31 and hydrogen 3.85%,
 which is a powerful antiseptic. By the progressive elimination of oxygen
 and hydrogen, partly as water and partly as carbon dioxide and marsh
@@ -449,15 +449,15 @@ of sand or clay, which, on re-elevation, formed the soil for fresh
 growths, the alternation being occasionally broken by the deposit of
 purely marine beds. We might therefore expect to find coal wherever
 strata of estuarine origin are developed in great mass. This is actually
-the case; the Carboniferous, Cretaceous and Jurassic systems (qq.v.)
+the case; the Carboniferous, Cretaceous and [[Jurassic]] systems (qq.v.)
 contain coal-bearing strata though in unequal degrees,--the first being
 known as the Coal Measures proper, while the others are of small
 economic value in Great Britain, though more productive in workable
 coals on the continent of Europe. The Coal Measures which form part of
 the Palaeozoic or oldest of the three great geological divisions are
-mainly confined to the countries north of the equator. Mesozoic coals
+mainly confined to the countries north of the [[Equator|equator]]. Mesozoic coals
 are more abundant in the southern hemisphere, while Tertiary coals seem
-to be tolerably uniformly distributed irrespective of latitude.
+to be tolerably uniformly distributed irrespective of [[Latitude|latitude]].
 
 
   Sequences of carboniferous strata.
@@ -504,7 +504,7 @@ The areas containing productive coal measures are usually known as
 coalfields or basins, within which coal occurs in more or less regular
 beds, also called seams or veins, which can often be followed over a
 considerable length of country without change of character, although,
-like all stratified rocks, their continuity may be interrupted by faults
+like all stratified rocks, their continuity may be interrupted by [[Fault|faults]]
 or dislocations, also known as slips, hitches, heaves or troubles.
 
 The thickness of coal seams varies in Great Britain from a mere film to
@@ -538,33 +538,33 @@ Lancashire to the West Riding of Yorkshire, the two greatest industrial
 districts in the country, southward to Warwickshire and Staffordshire,
 and from Nottinghamshire on the east to Flintshire on the west. In the
 north of England are the rich field of Northumberland and Durham, and a
-lesser field on the coast of Cumberland (Whitehaven, &c.). Smaller
-isolated fields are those of the Forest of Dean (Gloucestershire) and
-the field on either side of the Avon above Bristol. Coal has also been
-found in Kent, in the neighbourhood of Dover. In Scotland coal is worked
+lesser field on the coast of [[Cumberland]] (Whitehaven, &c.). Smaller
+isolated [[Fields|fields]] are those of the Forest of Dean (Gloucestershire) and
+the field on either side of the Avon above [[Bristol]]. Coal has also been
+found in Kent, in the neighbourhood of [[Dover]]. In Scotland coal is worked
 at various points (principally in the west) in the Clyde-Forth lowlands.
 In Belgium the chief coal-basins are those of Hainaut and Liége. Coal
 has also been found in an extension northward from this field towards
-Antwerp, while westward the same field extends into north-eastern
+[[Antwerp]], while westward the same field extends into north-eastern
 France. Coal is widely distributed in Germany. The principal field is
 that of the lower Rhine and Westphalia, which centres in the industrial
 region of the basin of the Ruhr, a right-bank tributary of the Rhine. In
 the other chief industrial region of Germany, in Saxony, Zwickau and
 Lugau, are important mining centres. In German Silesia there is a third
-rich field, which extends into Austria (Austrian Silesia and Galicia),
+rich field, which extends into Austria (Austrian Silesia and [[Galicia]]),
 for which country it forms the chief home source of supply (apart from
 lignite). Part of the same field also lies within Russian territory
 (Poland) near the point where the frontiers of the three powers meet.
 Both in Germany and in Austria-Hungary the production of lignite is
-large--in the first-named especially in the districts about Halle and
-Cologne; in the second in north-western Bohemia, Styria and Carniola. In
+large--in the first-named especially in the districts about [[Halle]] and
+Cologne; in the second in north-western Bohemia, Styria and [[Carniola]]. In
 France the principal coalfield is that in the north-east, already
-mentioned; another of importance is the central (Le Creusot, &c.) and a
+mentioned; another of importance is the central ([[Le Creusot]], &c.) and a
 third, the southern, about the lower course of the Rhone. Coal is pretty
 widely distributed in Spain, and occurs in several districts in the
-Balkan peninsula. In Russia, besides the Polish field, there is an
+[[Balkan Peninsula|Balkan peninsula]]. In Russia, besides the Polish field, there is an
 important one south of Moscow, and another in the lower valley of the
-Donetz, north of the Sea of Azov. The European region poorest in coal
+Donetz, north of the Sea of [[Azov]]. The European region poorest in coal
 (proportionately to area) is Scandinavia, where there is only one field
 of economic value--a small one in the extreme south of Sweden.
 
@@ -573,8 +573,8 @@ distributed throughout China Proper, but those of the province of Shansi
 appear to be the richest. Proportionately to their vast extent they have
 been little worked. In a modified degree the same is true of the Indian
 fields; large supplies are unworked, but in several districts,
-especially about Raniganj and elsewhere in Bengal, workings are fully
-developed. Similarly in Siberia and Japan there are extensive supplies
+especially about Raniganj and elsewhere in [[Bengal]], workings are fully
+developed. Similarly in Siberia and [[Japan]] there are extensive supplies
 unworked or only partially exploited. Those in the neighbourhood of
 Semipalatinsk may be instanced in the first case and those in the island
 of Yezo in the second. In Japan, however, several smaller fields (e.g.
@@ -585,7 +585,7 @@ Islands.
 In the United States of America the Appalachian mountain system, from
 Pennsylvania southward, roughly marks the line of the chief
 coal-producing region. This group of fields is followed in importance by
-the "Eastern Interior" group in Indiana, Illinois and Kentucky, and the
+the "Eastern Interior" group in [[Indiana]], Illinois and [[Kentucky]], and the
 "Western Interior" group in Iowa, Missouri and Kansas. In Arkansas,
 Oklahoma and Texas, and along the line of the Rocky Mountains, extensive
 fields occur, producing lignite and bituminous coal. The last-named
@@ -597,13 +597,13 @@ deposits in Mexico.
 
 In the southern countries coal-production is insignificant compared with
 that in the northern hemisphere. In South America coal is known in
-Venezuela, Colombia, Peru, northern Chile, Brazil (chiefly in the
-south), and Argentina (Parana, the extreme south of Patagonia, and
+Venezuela, Colombia, Peru, northern [[Chile]], Brazil (chiefly in the
+south), and [[Argentina]] (Parana, the extreme south of Patagonia, and
 Tierra del Fuego), but in no country are the workings extensive. Africa
 is apparently the continent poorest in coal, though valuable workings
 have been developed at various points in British South Africa, _e.g._ at
-Kronstad, &c., in Cape Colony, at Vereeniging, Boksburg and elsewhere in
-the Transvaal, in Natal and in Swaziland. Australia possesses fields of
+Kronstad, &c., in Cape Colony, at Vereeniging, [[Boksburg]] and elsewhere in
+the Transvaal, in Natal and in Swaziland. [[Australia]] possesses fields of
 great value, principally in the south-east (New South Wales and
 Victoria), and in New Zealand considerable quantities of coal and
 lignite are raised, chiefly in South Island.
@@ -708,7 +708,7 @@ Table V.
   |   North Stafford         |  5,267,833,074 |    89,782,727 |  4,368,050,347 |
   |   South Stafford         |  1,953,627,435 |   538,179,363 |  1,415,448,072 |
   |   Warwickshire           |  1,448,804,556 |   321,822,653 |  1,126,981,903 |
-  |   Leicestershire         |  2,467,583,205 |   642,124,654 |  1,825,458,551 |
+  |   [[Leicestershire]]         |  2,467,583,205 |   642,124,654 |  1,825,458,551 |
   |   Shropshire             |    369,174,620 |    48,180,921 |    320,993,699 |
   | District C.              |                |               |                |
   |   Lancashire             |  5,349,554,437 | 1,111,046,710 |  4,238,507,727 |
@@ -716,7 +716,7 @@ Table V.
   |   North Wales            |  2,513,026,200 |   776,558,371 |  1,736,467,829 |
   | District D.              |                |               |                |
   |   Yorkshire              |   No details   |   No details  | 19,138,006,395 |
-  |   Derby and Notts        |   No details   |   No details  |  7,360,725,100 |
+  |   [[Derby]] and Notts        |   No details   |   No details  |  7,360,725,100 |
   | District E.              |                |               |                |
   |   Northumberland         |  7,040,348,127 | 1,530,722,486 |  5,509,625,641 |
   |   Cumberland             |  2,188,938,830 |   661,230,025 |  1,527,708,805 |
@@ -730,7 +730,7 @@ Table V.
 As regards the duration of British coal resources, the commissioners
 reported (1905):--
 
-  "This question turns chiefly upon the maintenance or the variation of
+  "This question turns chiefly upon the [[Maintenance|maintenance]] or the variation of
   the annual output. The calculations of the last Coal Commission as to
   the future exports and of Mr Jevons as to the future annual
   consumption make us hesitate to prophesy how long our coal resources
@@ -751,7 +751,7 @@ reported (1905):--
   In view of this opinion and of the exhaustion of the shallower
   collieries we look forward to a time, not far distant, when the rate
   of increase of output will be slower, to be followed by a period of
-  stationary output, and then a gradual decline."
+  stationary output, and then a [[Gradual|gradual]] decline."
 
 According to a calculation made by P. Frech in 1900, on the basis of the
 then rate of production, the coalfields of central France, central
@@ -779,7 +779,7 @@ work in extensions of known coalfields.
 The principle of proving a mineral field by boring is illustrated by
 fig. 1, which represents a line direct from the dip to the rise of the
 field, the inclination of the strata being one in eight. No. 1 bore is
-commenced at the dip, and reaches a seam of coal A, at 40 fathoms; at
+commenced at the dip, and reaches a seam of coal A, at 40 [[Fathom|fathoms]]; at
 this depth it is considered proper to remove nearer to the outcrop so
 that lower strata may be bored into at a less depth, and a second bore
 is commenced. To find the position of No. 2, so as to form a continuous
@@ -846,16 +846,16 @@ coal can only be reached by vertical sinking.
 
 The methods adopted in driving levels for collieries are generally
 similar to those adopted in other mines. The ground is secured by
-timbering, or more usually by arching in masonry or brick-work. Levels
+timbering, or more usually by arching in [[Masonry|masonry]] or brick-work. Levels
 like that in fig. 2, which are driven across the stratification, or
-generally anywhere not in coal, are known as "stone drifts." The sinking
+generally anywhere not in coal, are known as "stone [[Drift|drifts]]." The sinking
 of colliery shafts, however, differs considerably from that of other
 mines, owing to their generally large size, and the difficulties that
 are often encountered from water during the sinking. The actual coal
 measure strata, consisting mainly of shales and clays, are generally
 impervious to water, but when strata of a permeable character are sunk
 through, such as the magnesian limestone of the north of England, the
-Permian sandstones of the central counties, or the chalk and greensand
+Permian sandstones of the central counties, or the chalk and [[Greensand|greensand]]
 in the north of France and Westphalia, special methods are required in
 order to pass the water-bearing beds, and to protect the shaft and
 workings from the influx of water subsequently. Of these methods one of
@@ -866,7 +866,7 @@ whole depth of the water-bearing strata. This method necessitates the
 use of very considerable pumping power during the sinking, as the water
 has to be kept down in order to allow the sinkers to reach a water-tight
 stratum upon which the foundation of the tubbing can be placed. This
-consists of a heavy cast iron ring, known as a wedging crib, or curb,
+consists of a heavy cast iron ring, known as a wedging [[Crib|crib]], or curb,
 also fitted together in segments, which is lodged in a square-edged
 groove cut for its reception, tightly caulked with moss, and wedged into
 position. Upon this the tubbing is built up in segments, of which
@@ -908,19 +908,19 @@ been adopted in various sinkings on the continent of Europe.
 
 The third method of sinking through water-bearing strata is that of
 boring, adopted by Messrs Kind & Chaudron in Belgium and Germany. For
-this purpose a horizontal bar armed with vertical cutting chisels is
+this purpose a horizontal bar armed with vertical cutting [[Chisel|chisels]] is
 used, which cuts out the whole section of the shaft simultaneously. In
-the first instance, a smaller cutting frame is used, boring a hole from
+the first instance, a smaller cutting [[Frame|frame]] is used, boring a hole from
 3 to 5 ft. in diameter, which is kept some 50 or 60 ft. in advance, so
 as to receive the detritus, which is removed by a shell pump of large
 size. The large trepan or cutter weighs about 16 tons, and cuts a hole
 of from 9 to 15 ft. in diameter. The water-tight lining may be either a
-wrought iron tube, which is pressed down by jack screws as the borehole
+wrought iron tube, which is pressed down by [[Jack|jack]] screws as the borehole
 advances, or cast iron tubbing put together in short complete rings, in
 contradistinction to the old plan of building them up of segments. The
 tubbing, which is considerably less in diameter than the borehole, is
 suspended by rods from the surface until a bed suitable for a foundation
-is reached, upon which a sliding length of tube, known as the moss box,
+is reached, upon which a sliding length of tube, known as the moss [[Box|box]],
 bearing a shoulder, which is filled with dried moss, is placed. The
 whole weight of the tubbing is made to bear on the moss, which squeezes
 outwards, forming a completely water-tight joint. The interval between
@@ -940,7 +940,7 @@ Poetsch in 1883, and originally applied to shafts passing through
 quicksands above brown coal seams, has been applied with advantage in
 opening new pits through the secondary and tertiary strata above the
 coal measures in the north of France and Belgium, some of the most
-successful examples being those at Lens, Anzin and Vicq, in the north of
+successful examples being those at Lens, [[Anzin]] and Vicq, in the north of
 France basin. In this system the soft ground or fissured water-bearing
 rock is rendered temporarily solid by freezing the contained water
 within a surface a few feet larger in diameter than the size of the
@@ -961,12 +961,12 @@ temperature by the sensible heat of the return-current of brine, whose
 temperature has been slightly raised in its passage through the
 circulating tubes. When hard ground is reached, a seat is formed for the
 cast iron tubbing, which is built up in the usual way and concreted at
-the back, a small quantity of caustic soda being sometimes used in
+the back, a small quantity of [[Caustic|caustic]] soda being sometimes used in
 mixing the concrete to prevent freezing. In an application of this
 method at Vicq, two shafts of 12 and 16.4 ft. diameter, in a covering of
 cretaceous strata, were frozen to a depth of 300 ft. in fifty days, the
 actual sinking and lining operations requiring ninety days more. The
-freezing machines were kept at work for 200 days, and 2191 tons of coal
+freezing [[Machine|machines]] were kept at work for 200 days, and 2191 tons of coal
 were consumed in supplying steam for the compressors and circulating
 pumps.
 
@@ -984,7 +984,7 @@ The size and form of colliery shafts vary in different districts. In the
 United States and Scotland rectangular pits secured by timber framings
 are still common, but the tendency is now generally to make them round,
 20 ft. being about the largest diameter employed. In the Midland
-counties, from 7 to 9 ft. is a very common size, but larger dimensions
+counties, from 7 to 9 ft. is a very common size, but larger [[Dimension|dimensions]]
 are adopted where a large production is required. Since the accident at
 Hartley colliery in 1862, caused by the breaking of the pumping-engine
 beam, which fell into the shaft and blocked it up, whereby the whole of
@@ -1044,9 +1044,9 @@ as the "pit bottom stoop." The junction of the levels with the pit is
 known as the "pit eye"; it is usually of an enlarged section, and lined
 with masonry or brick-work, so as to afford room for handling the wagons
 or trams of coal brought from the working faces. In this portion of the
-pit are generally placed the furnaces for ventilation, and the boilers
+pit are generally placed the furnaces for ventilation, and the [[Boiler|boilers]]
 required for working steam engines underground, as well as the stables
-and lamp cabin.
+and [[Lamp|lamp]] cabin.
 
 
   Method of working coal.
@@ -1225,7 +1225,7 @@ coal seams, varying from 8 to 12 or 13, divided from each other by their
 partings, but making together one great bed of from 25 to 40 ft. or more
 in thickness. The partings together do not amount to more than 2 or 3
 ft. The method of working which has been long in use is represented in
-fig. 9. The main level or gate road is driven in the benches coal, or
+fig. 9. The main level or gate road is driven in the [[Bench|benches]] coal, or
 lower part of the seam, while a smaller drift for ventilation, called an
 air heading, is carried above it in one of the upper beds called the
 slipper coal. From the gate road a heading called a bolt-hole is opened,
@@ -1289,7 +1289,7 @@ mixed with earth affords excellent packing. In thick seams packing adds
 about 5d. per ton to the cost of the coal, but in thinner seams the
 advantage is on the other side.
 
-In some anthracite collieries in America the small coal or culm and
+In some anthracite collieries in America the small coal or [[Culm|culm]] and
 other waste are washed into the exhausted workings by water which gives
 a compact mass filling the excavation when the water has drained away. A
 modification of this method, which originated in Silesia, is now
@@ -1307,7 +1307,7 @@ it to the surface.
 
   Methods of cutting coal.
 
-The actual cutting of the coal is chiefly performed by manual labour,
+The actual cutting of the coal is chiefly performed by [[Manual|manual]] labour,
 the tool employed being a sharp-pointed double-armed pick, which is
 nearly straight, except when required for use in hard rock, when the
 arms are made with an inclination or "anchored." The terms pike, pick,
@@ -1357,7 +1357,7 @@ for timber props at the face, pieces of steel joists, with the web cut
 out for a short distance on either end, with the flanges turned back to
 give a square bearing surface, have been introduced. In large levels
 only the cap pieces for the roof are made of steel joists, but in
-smaller ones complete arches made of pieces of rails fish-jointed at the
+smaller ones complete [[Arches|arches]] made of pieces of rails fish-jointed at the
 crown are used. In another system introduced by the Mannesmann Tube
 Company the prop is made up of weldless steel tubes sliding
 telescopically one within the other, which are fixed at the right height
@@ -1395,7 +1395,7 @@ chain or a revolving disk or wheel. The most successful of the first
 class, or pick machines, that of William Firth of Sheffield, consists
 essentially of a horizontal pick with two cutting arms placed one
 slightly in advance of the other, which is swung backwards and forwards
-by a pair of bell crank levers actuated by a horizontal cylinder engine
+by a pair of bell [[Crank|crank]] levers actuated by a horizontal cylinder engine
 mounted on a railway truck. The weight is about 15 cwt. At a working
 speed of 60 yds. per shift of 6 hours, the work done corresponds to that
 of twelve average men. The width of the groove cut is from 2 to 3 in. at
@@ -1408,18 +1408,18 @@ have also been introduced by Jones and Levick, Bidder, and other
 inventors, but their use is now mostly abandoned in favour of those
 working continuously.
 
-In the Gartsherrie machine of Messrs Baird, the earliest of the flexible
+In the Gartsherrie machine of Messrs [[Baird]], the earliest of the flexible
 chain cutter type, the chain of cutters works round a fixed frame or jib
 projecting at right angles from the engine carriage, an arrangement
 which makes it necessary to cut from the end of the block of coal to
 the full depth, instead of holing into it from the face. The forward
-feed is given by a chain winding upon a drum, which hauls upon a pulley
+feed is given by a chain winding upon a [[Drum|drum]], which hauls upon a pulley
 fixed to a prop about 30 yds. in advance. This is one of the most
 compact forms of machine, the smaller size being only 20 in. high. With
 an air pressure of from 35 to 40 lb. per sq. in., a length of from 300
 to 350 ft. of coal is holed, 2 ft. 9 in. deep, in the shift of from 8 to
 10 hours. The chain machine has been largely developed in America in the
-Jeffrey, Link Bell, and Morgan Gardner coal cutters. These are similar
+[[Jeffrey]], Link Bell, and Morgan [[Gardner]] coal cutters. These are similar
 in principle to the Baird machine, the cutting agent being a flat link
 chain carrying a double set of chisel points, which are drawn across the
 coal face at the rate of about 5 ft. per second; but, unlike the older
@@ -1442,15 +1442,15 @@ pillar-and-stall workings.
 Machine--Plan.]
 
 A simple form of the saw or spur wheel coal-cutting machine is that of
-Messrs Winstanly & Barker (fig. 11), which is driven by a pair of
+Messrs Winstanly & [[Barker]] (fig. 11), which is driven by a pair of
 oscillating engines placed on a frame running on rails in the usual way.
 The crank shaft carries a pinion which gears into a toothed wheel of a
 coarse pitch, carrying cutters at the ends of the teeth. This wheel is
-mounted on a carrier which, being movable about its centre by a screw
+mounted on a [[Carrier|carrier]] which, being movable about its centre by a screw
 gearing worked by hand, gives a radial sweep to the cutting edges. When
 at work it is slowly turned until the carrier is at right angles to the
 frame, when the cut has attained the full depth. The forward motion is
-given by a chain winding upon a crab placed in front, by which it is
+given by a chain winding upon a [[Crab|crab]] placed in front, by which it is
 hauled slowly forward. With 25 lb pressure it will hole 3 ft. deep, at
 the rate of 30 yds. per hour, the cut being only 2¾ in. high, but it
 will only work on one side of the carriage. This type has been greatly
@@ -1481,11 +1481,11 @@ rate of cutting to about 125 sq. ft. per hour.
 Another kind of application of machinery to coal mining is that of
 Messrs Bidder & Jones, which is intended to replace the use of blasting
 for bringing down the coal. It consists of a small hydraulic press,
-which forces a set of expanding bits or wedges into a bore-hole
+which forces a set of expanding [[Bit|bits]] or wedges into a bore-hole
 previously bored by a long screw augur or drill, worked by hand, the
 action of the press being continued until a sufficient strain is
 obtained to bring down the coal. The arrangement is, in fact, a
-modification of the plug and feather system used in stone quarrying for
+modification of the plug and [[Feather|feather]] system used in stone quarrying for
 obtaining large blocks, but with the substitution of the powerful
 rending force of the hydraulic press for hand-power in driving up the
 wedges. This apparatus has been used at Harecastle in North
@@ -1495,7 +1495,7 @@ down coal sufficiently perfected to be of general application would add
 greatly to the security of colliers.
 
 
-  Underground conveyance.
+  Underground [[Conveyance|conveyance]].
 
 The removal of the coal broken at the working face to the pit bottom may
 in small mines be effected by hand labour, but more generally it is done
@@ -1536,7 +1536,7 @@ load. The arrangements for this purpose vary, of course, with the amount
 of work to be done with one fixing of the machinery; where it is likely
 to be used for a considerable time, the drum and brake are solidly
 constructed, and the ropes of steel or iron wire carefully guided over
-friction rollers, placed at intervals between the rails to prevent them
+[[Friction|friction]] rollers, placed at intervals between the rails to prevent them
 from chafing and wearing out on the ground. Where the load has to be
 hauled up a rising gradient, underground engines, driven by steam or
 compressed air or electric motors, are used. In some cases steam
@@ -1598,8 +1598,8 @@ a double line of way is necessary, one line for full and the other for
 empty tubs. The chain passes over a pulley driven by the engine, placed
 at such a height as to allow it to rest upon the tops of the tubs, and
 round a similar pulley at the far end of the plane. The forward edge of
-the tub carries a projecting pin or horn, with a notch into which the
-chain falls which drags the tub forward. The road at the outer end is
+the tub carries a projecting pin or [[Horn|horn]], with a notch into which the
+chain falls which [[Drag|drags]] the tub forward. The road at the outer end is
 made of a less slope than the chain, so that on arrival the tub is
 lowered, clears the pin, and so becomes detached from the chain. The
 tubs are placed on at intervals of about 20 yds., the chain moving
@@ -1607,7 +1607,7 @@ continuously at a speed of from 2½ to 4 m. per hour. This system
 presents the greatest advantages in point of economy of driving power,
 especially where the gradients are variable, but is expensive in first
 cost, and is not well suited for curves, and branch roads cannot be
-worked continuously, as a fresh set of pulleys worked by bevel gearing
+worked continuously, as a fresh set of pulleys worked by [[Bevel|bevel]] gearing
 is required for each branch.
 
 The endless rope system may be used with either a single or double line
@@ -1616,7 +1616,7 @@ is guided upon sheaves between the rails, is taken twice round the head
 pulley. It is also customary to use a stretching pulley to keep the rope
 strained when the pull of the load diminishes. This is done by passing a
 loop at the upper end round a pulley mounted in a travelling frame, to
-which is attached a weight of about 15 cwt. hanging by a chain. This
+which is attached a weight of about 15 cwt. [[Hanging|hanging]] by a chain. This
 weight pulls directly against the rope; so if the latter slacks, the
 weight pulls out the pulley frame and tightens it up again. The tubs are
 usually formed into sets of from 2 to 12, the front one being coupled up
@@ -1652,9 +1652,9 @@ being the older, has been most largely used, but is becoming replaced by
 some form of machine.
 
 The usual form of ventilating furnace is a plain fire grate placed under
-an arch, and communicating with the upcast shaft by an inclined drift.
+an [[Arch|arch]], and communicating with the upcast shaft by an inclined drift.
 It is separated from the coal by a narrow passage walled and arched in
-brickwork on both-sides. The size of the grate varies with the
+[[Brickwork|brickwork]] on both-sides. The size of the grate varies with the
 requirements of the ventilation, but from 6 to 10 ft. broad and from 6
 to 8 ft. long are usual dimensions. The fire should be kept as thin and
 bright as possible, to reduce the amount of smoke in the upcast. When
@@ -1666,7 +1666,7 @@ the upcast by a special channel, called a dumb drift, some distance
 above the furnace drift, so as not to come in contact with the products
 of combustion until they have been cooled below the igniting point of
 fire-damp. Where the upcast pit is used for drawing coal, it is usual to
-discharge the smoke and gases through a short lateral drift near the
+[[Discharge|discharge]] the smoke and gases through a short lateral drift near the
 surface into a tall chimney, so as to keep the pit-top as clear as
 possible for working. Otherwise the chimney is built directly over the
 mouth of the pit.
@@ -1677,19 +1677,19 @@ reciprocating bells, or piston machines, or rotary machines of varying
 capacity like gas-works exhausters, are employed. They were formerly
 used on a very large scale in Belgium and South Wales, but the great
 weight of the moving parts makes it impossible to drive them at the high
-speed called for by modern requirements, so that centrifugal fans are
+speed called for by modern requirements, so that centrifugal [[Fan|fans]] are
 now generally adopted instead. An early and very successful machine of
 this class, the Guibal fan, is represented in fig. 12. The fan has eight
 arms, framed together of wrought iron bars, with diagonal struts, so as
 to obtain rigidity with comparative lightness, carrying flat
-close-boarded blades at their extremities. It revolves with the smallest
+close-boarded [[Blades|blades]] at their extremities. It revolves with the smallest
 possible clearance in a chamber of masonry, one of the side walls being
 perforated by a large round hole, through which the air from the mine is
 admitted to the centre of the fan. The lower quadrant of the casing is
 enlarged spirally, so as to leave a narrow rectangular opening at the
 bottom, through which the air is discharged into a chimney of gradually
 increasing section carried to a height of about 25 ft. The size of the
-discharge aperture can be varied by means of a flexible wooden shutter
+discharge [[Aperture|aperture]] can be varied by means of a flexible wooden shutter
 sliding in a groove in a cast iron plate, curved to the slope of the
 casing. By the use of the spiral guide casing and the chimney the
 velocity of the effluent air is gradually reduced up to the point of
@@ -1697,7 +1697,7 @@ final discharge into the atmosphere, whereby a greater useful effect is
 realized than is the case when the air streams freely from the
 circumference with a velocity equal to that of the rotating fan. The
 power is applied by steam acting directly on a crank at one end of the
-axle, and the diameter of the fan may be 40 ft. or more.
+[[Axle|axle]], and the diameter of the fan may be 40 ft. or more.
 
 [Illustration: FIG. 12.--Guibal Fan.]
 
@@ -1719,7 +1719,7 @@ the shape of the intake and discharge passages for the air and the forms
 of the fan blades, the efficiency of the ventilating fan has been
 greatly increased so that the dimensions can be much reduced and a
 higher rate of speed adopted. Notable examples are found in the Rateau,
-Ser and Capell fans, and where an electric generating station is
+Ser and [[Capell]] fans, and where an electric generating station is
 available electric motors can be advantageously used instead of steam.
 
 
@@ -1749,10 +1749,10 @@ made between them at intervals by cutting through the intermediate
 pillar; the air then passes along one and returns by the other. As the
 roads advance other pillars are driven through in the same manner, the
 passages first made being closed by stoppings of broken rock, or built
-up with brick and mortar walls, or both. When it is desired to preserve
+up with [[Brick|brick]] and mortar walls, or both. When it is desired to preserve
 a way from one road or similar class of working to another, double doors
 placed at sufficient intervals apart to take in one or more trams
-between them when closed are used, forming a kind of lock or sluice.
+between them when closed are used, forming a kind of [[Lock|lock]] or sluice.
 These are made to shut air-tight against their frames, so as to prevent
 the air from taking a short cut back to the upcast, while preserving
 free access between the different districts without following the whole
@@ -1770,7 +1770,7 @@ over the intake by a curved drift carried some distance above in the
 solid measures, both ways being arched in brickwork, or even in some
 cases lined with sheet iron so as to ensure a separation not likely to
 be destroyed in case of an explosion (see figs. 5 and 8). The use of
-small auxiliary blowing ventilators underground, for carrying air into
+small [[Auxiliary|auxiliary]] blowing ventilators underground, for carrying air into
 workings away from the main circuits, which was largely advocated at one
 time, has lost its popularity, but a useful substitute has been found in
 the induced draught produced by jets of compressed air or high-pressure
@@ -1794,7 +1794,7 @@ coals are sufficiently free from gas, or rather the gases are not liable
 to become explosive when mixed with air, to allow the use of naked
 lights, candles being generally used. Oil lamps are employed in many of
 the Scotch collieries, and are almost universally used in Belgium and
-other European countries. The buildings near the pit bottom, such as the
+other [[European Countries|European countries]]. The buildings near the pit bottom, such as the
 stables and lamp cabin, and even the main roads for some distance, are
 often in large collieries lighted with gas brought from the surface, or
 in some cases the gas given off by the coal is used for the same
@@ -1940,11 +1940,11 @@ containing absorptive media for carbonic acid and water, the purified
 current being returned to the mouth with an addition of fresh oxygen.
 The best-known apparatus of this class is that developed by G. A. Meyer
 at the Shamrock colliery in Westphalia, where a body of men are kept in
-systematic training for its use at a special rescue station. This corps
+systematic training for its use at a special rescue station. This [[Corps|corps]]
 rendered invaluable service at the exploring and rescue operations after
 the explosion at Courrières in March 1906, the most disastrous mining
 accident on record, when 1100 miners were killed. A somewhat similar
-apparatus called the "weg," after the initials of the inventor, is due
+apparatus called the "weg," after the [[Initials|initials]] of the inventor, is due
 to W. E. Garforth of Wakefield. In another form of apparatus advantage
 is taken of the property possessed by sodium-potassium peroxide of
 giving off oxygen when damped; the residue of caustic soda and potash
@@ -1966,7 +1966,7 @@ of an explosion it is often necessary to isolate the mine completely by
 stopping up the mouths of the pits with earth, or in extreme cases it
 must be flooded with water or carbonic acid before the fire can be
 brought under. There have been several instances of this being done in
-the fiery pits in the Barnsley district, notably at the great explosion
+the fiery pits in the [[Barnsley]] district, notably at the great explosion
 at the Oaks colliery in 1866, when 360 lives were lost.
 
 
@@ -1995,7 +1995,7 @@ pits of small section, where only a single tram can be carried on each.
 In the large shafts of the Northern and Wigan districts the cages are
 made about 8 ft. long and 3½ ft. broad, being sufficient to carry two
 large trams on one deck. These are received upon a railway made of two
-strips of angle iron of the proper gauge for the wheels, and are locked
+strips of angle iron of the proper [[Gauge|gauge]] for the wheels, and are locked
 fast by a latch falling over their ends. At Cadeby Main with four-decked
 cages the capacity is eight 10-cwt. tubs or 4 tons of coal.
 
@@ -2051,12 +2051,12 @@ diameter, are now commonly used; but in very deep pits they are
 sometimes tapered in section to reduce the dead weight lifted. Flat
 ropes of steel or iron wire were and are still used to a great extent,
 but round ones are now generally preferred. In Belgium and the north of
-France flat ropes of aloe fibre (Manila hemp or plantain fibre) are in
+France flat ropes of aloe fibre ([[Manila]] hemp or plantain fibre) are in
 high repute, being considered preferable by many colliery managers to
 wire, in spite of their great weight. A rope of this class for a pit
 1200 metres deep, tapered from 15.6 in. to 9 in. in breadth and from 2
 in. to 1-1/8 in. in thickness, weighed 14.3 tons, and another at Anzin,
-intended to lift a gross load of 15 tons from 750 metres, is 22½ in.
+intended to lift a [[Gross|gross]] load of 15 tons from 750 metres, is 22½ in.
 broad and 3 in. thick at the drum end, and weighs 18 tons. Tapered round
 ropes, although mechanically preferable, are not advantageous in
 practice, as the wear being greater at the cage end than on the drum it
@@ -2134,7 +2134,7 @@ conical on either side.
 Counterbalance chains for the winding engines are used in the collieries
 of the Midland districts of England. In this method a third drum is used
 to receive a heavy flat link chain, shorter than the main drawing-ropes,
-the end of which hangs down a special or balance pit. At starting, when
+the end of which hangs down a special or [[Balance|balance]] pit. At starting, when
 the full load is to be lifted, the balance chain uncoils, and continues
 to do so until the desired equilibrium between the working loads is
 attained, when it is coiled up again in the reverse direction, to be
@@ -2194,7 +2194,7 @@ travelling in the shaft, or from over-winding when in consequence of the
 engine not being stopped in time the cage may be drawn up to the
 head-gear pulleys (both of which are unhappily not uncommon), various
 forms of safety catches and disconnecting hooks have been adopted. The
-former contrivances consist essentially of levers or cams with toothed
+former contrivances consist essentially of levers or [[Cam|cams]] with toothed
 surfaces or gripping shoes mounted upon transverse axes attached to the
 sides of the cage, whose function is to take hold of the guides and
 support the cage in the event of its becoming detached from the rope.
@@ -2226,7 +2226,7 @@ use some speed-checking appliance, independent of the engine-man, which
 reduces or entirely cuts off the steam supply when the cage arrives at a
 particular point near the surface, and applies the brake if the load is
 travelling too quickly. Maximum speed controllers in connexion with the
-winding indicator, which do not allow the engine to exceed a fixed rate
+winding [[Indicator|indicator]], which do not allow the engine to exceed a fixed rate
 of speed, are also used in some cases, with recording indicators.
 
 
@@ -2246,7 +2246,7 @@ return trip. When the cage has several decks, it is necessary to repeat
 this operation for each, unless there is a special provision made for
 loading and discharging the tubs at different levels. An arrangement of
 this kind for shifting the load from a large cage at one operation was
-introduced by Fowler at Hucknall, in Leicestershire, where the trains
+introduced by [[Fowler]] at Hucknall, in Leicestershire, where the trains
 are received into a framework with a number of platforms corresponding
 to those of the cage, carried on the head of a plunger movable by
 hydraulic pressure in a vertical cylinder. The empty tubs are carried by
@@ -2284,7 +2284,7 @@ British collieries in 1898 are given below:--
   Denaby Main Colliery, Yorkshire  629,947 tons in 281 days, maximum per
                                      day 2673 tons.
 
-At Cadeby Main colliery near Doncaster in 1906, 3360 tons were drawn in
+At Cadeby Main colliery near [[Doncaster]] in 1906, 3360 tons were drawn in
 fourteen hours from one pit 763 yds. deep.
 
 The tub when brought to the surface, after passing over a weigh-bridge
@@ -2331,9 +2331,9 @@ Anthracite coal in Pennsylvania is subjected to breaking between toothed
 rollers and an elaborate system of screening, before it is fit for sale.
 The largest or lump coal is that which remains upon a riddle having the
 bars 4 in. apart; the second, or steamboat coal, is above 3 in.; broken
-coal includes sizes above 2½ or 2¾ in.; egg coal, pieces above 2¼ in.
+coal includes sizes above 2½ or 2¾ in.; [[Egg|egg]] coal, pieces above 2¼ in.
 sq.; large stove coal, 1¾ in.; small stove, 1 to 1½ or 1-1/3 in.;
-chestnut coal, 2/3 to ¾ in.; pea coal, ½ in.; and buckwheat coal, 1/3
+chestnut coal, 2/3 to ¾ in.; pea coal, ½ in.; and [[Buckwheat|buckwheat]] coal, 1/3
 in. The most valuable of these are the egg and stove sizes, which are
 broken to the proper dimensions for household use, the larger lumps
 being unfit for burning in open fire-places. In South Wales a somewhat
@@ -2353,7 +2353,7 @@ Belgium:--
                                                        Metres. Ft.
   Saint Henriette, Cie des Produits, Flenu, Belgium    1150    3773
   Viviers Gilly                                "       1143    3750
-  Marcinelle, No. 11, Charleroi                "       1075    3527
+  Marcinelle, No. 11, [[Charleroi]]                "       1075    3527
   Marchienne, No. 2       "                    "       1065    3494
   Agrappe, Mons                                "       1060    3478
   Pendleton dip workings                    Lancashire 1059    3474
@@ -2402,7 +2402,7 @@ private ownership. In the Forest of Dean, which is the property of the
 crown as a royal forest, there are certain curious rights held by a
 portion of the inhabitants known as the Free Miners of the Forest, who
 are entitled to mine for coal and iron ore, under leases, known as
-gales, granted by the principal agent or gaveller representing the
+[[Gale|gales]], granted by the principal agent or gaveller representing the
 crown, in tracts not otherwise occupied. This is the only instance in
 Great Britain of the custom of free coal-mining under a government grant
 or concession, which is the rule in almost every country on the
@@ -2414,7 +2414,7 @@ continent of Europe.
 The working of collieries in the United Kingdom is subject to the
 provisions of the Coal Mines Regulation Act 1887, as amended by several
 minor acts, administered by inspectors appointed by the Home Office, and
-forming a complete disciplinary code in all matters connected with
+forming a complete disciplinary [[Code|code]] in all matters connected with
 coal-mining. An important act was passed in 1908, limiting the hours of
 work below ground of miners. For a detailed account of these various
 acts see the article Labour Legislation.
@@ -2445,9 +2445,9 @@ with great loss of life at one time, are less fatal than the latter.
 
   AUTHORITIES.--The most important new publication on British coal is
   that of the royal commission on coal supplies appointed in 1901, whose
-  final report was issued in 1905. A convenient digest of the evidence
+  final report was issued in 1905. A convenient [[Digest|digest]] of the evidence
   classified according to subjects was published by the _Colliery
-  Guardian_ newspaper in three quarto volumes in 1905-1907, and the
+  [[Guardian]]_ newspaper in three quarto volumes in 1905-1907, and the
   leading points bearing on the extension and resources of the different
   districts were incorporated in the fifth edition (1905) of Professor
   Edward Hull's _Coal Fields of Great Britain_. The _Report_ of the

@@ -9,7 +9,7 @@ id: 42-3558
 # Banim
 
 BANIM, JOHN (1798-1842), Irish novelist, sometimes called the "Scott of
-Ireland," was born at Kilkenny on the 3rd of April 1798. In his thirteenth
+Ireland," was born at [[Kilkenny]] on the 3rd of April 1798. In his thirteenth
 year he entered Kilkenny College and devoted himself specially to drawing
 and painting. He pursued his artistic education for two years in the
 schools connected with the Royal Society at Dublin, and afterwards taught
@@ -33,8 +33,8 @@ containing that excellent Irish novel, _The Nowlans_. John's health had
 given way, and the next effort of the "O'Hara family" was almost entirely
 the production of his brother Michael. _The Croppy, a Tale of 1798_ (1828)
 is hardly equal to the earlier tales, though it contains some wonderfully
-vigorous passages. _The Denounced_, _The Mayor of Windgap_, _The Ghost
-Hunter_ (by Michael Banim), and _The Smuggler_ followed in quick
+vigorous passages. _The Denounced_, _The [[Mayor]] of Windgap_, _The Ghost
+[[Hunter]]_ (by Michael Banim), and _The Smuggler_ followed in quick
 succession, and were received with considerable favour. John Banim,
 meanwhile, had become much straitened in circumstances. In 1829 he went to
 France, and while he was abroad a movement to relieve his wants was set on
@@ -44,7 +44,7 @@ and to this government added in 1836 a pension of £150. He returned to
 Ireland in 1835, and settled in Windgap Cottage, a short distance from
 Kilkenny; and there, a complete invalid, he passed the remainder of his
 life, dying on the 13th of August 1842. Michael Banim had acquired a
-considerable fortune which he lost in 1840 through the bankruptcy of a firm
+considerable fortune which he lost in 1840 through the [[Bankruptcy|bankruptcy]] of a firm
 with which he had business relations. After this disaster he wrote _Father
 Connell_ (1842), _Clough Fionn_ (1852), _The Town of the Cascades_ (1862).
 Michael Banim died at Booterstown on the 30th of August 1874.

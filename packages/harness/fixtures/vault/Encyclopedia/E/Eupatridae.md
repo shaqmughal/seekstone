@@ -3,14 +3,14 @@
 EUPATRIDAE (Gr. [Greek: eu], well; [Greek: patêr], father, i.e. "Sons of
 noble fathers"), the ancient nobility of Attica. Tradition ascribes to
 Theseus, whom it also regards as the author of the union (_synoecism_)
-of Attica round Athens as a political centre, the division of the Attic
+of Attica round Athens as a political centre, the division of the [[Attic]]
 population into three classes, Eupatridae, Geomori and Demiurgi. The
 lexicographers mention as characteristics of the Eupatridae that they
 are the autochthonous population, the dwellers in the city, the
 descendants of the royal stock. It is probable that after the time of
 the _synoecism_ the nobles who had hitherto governed the various
 independent communities were obliged to reside in Athens, now the seat
-of government; and at the beginning of Athenian history the noble clans
+of government; and at the beginning of Athenian history the noble [[Clan|clans]]
 form a class which has the monopoly of political privilege. It is
 possible that in very early times the Eupatridae were the only full
 citizens of Athens; for the evidence suggests that they alone belonged
@@ -22,7 +22,7 @@ probable that the Eupatrid families were all autochthonous, even in the
 loose sense of that term. Some had no doubt immigrated to Attica when
 the rest had long been settled there. Traces of this union of immigrants
 with older inhabitants have been detected in the combination of Zeus
-Herkeios with Apollo Patroös as the ancient gods of the phratry.
+Herkeios with [[Apollo]] Patroös as the ancient gods of the phratry.
 
 The exact relation of the Eupatridae to the other two classes has been a
 matter of dispute. It seems probable that the Eupatridae were the
@@ -36,7 +36,7 @@ nobility and the commercial nobility, and exclude altogether the mass of
 the population. At any rate it seems certain from the little we know of
 the early constitutional history of Athens, that the Eupatridae
 represent the only nobility that had any political recognition in early
-times. The political history of the Eupatridae is that of a gradual
+times. The [[Political History|political history]] of the Eupatridae is that of a [[Gradual|gradual]]
 curtailment of privilege. They were at the height of their power in the
 period during the limitation of the monarchy. They alone held the two
 offices, those of polemarch and archon, which were instituted during the
@@ -44,9 +44,9 @@ offices, those of polemarch and archon, which were instituted during the
 office of king ([Greek: basileus]) was itself thrown open to all
 Eupatrids (see ARCHON). They thus had the entire control of the
 administration, and were the sole dispensers of justice in the state. At
-this latter privilege, which perhaps formed the strongest bulwark of the
+this latter privilege, which perhaps formed the strongest [[Bulwark|bulwark]] of the
 authority of the Eupatridae, a severe blow was struck (c. 621 B.C.) by
-the publication of a criminal code by Draco (q.v.), which was followed
+the publication of a criminal [[Code|code]] by [[Draco]] (q.v.), which was followed
 by the more detailed and permanent code of Solon (c. 594 B.C.), who
 further threw open the highest offices to any citizen possessed of a
 certain amount of landed property (see SOLON), thus putting the claims
@@ -68,9 +68,9 @@ end.
 The name Eupatridae survived in historical times, but the Eupatridae
 were then excluded from the cult of the "Semnae" at Athens, and also
 held the hereditary office of "expounder of the law" ([Greek: exêgêtês])
-in connexion with purification from the guilt of murder. The combination
+in connexion with purification from the [[Guilt|guilt]] of murder. The combination
 of these two characteristics suggests some connexion with the legend of
-Orestes. Again, Isocrates (xvi. 25) says of Alcibiades that his
+Orestes. Again, [[Isocrates]] (xvi. 25) says of Alcibiades that his
 grandfather was a Eupatrid and his grandmother an Alcmaeonid, which
 suggests that in the 5th century the Eupatrids were a single clan, like
 the Alcmaeonids, and that the name had acquired a new signification. A
@@ -78,7 +78,7 @@ pursuit of these two suggestions has established the probability that
 this "Eupatrid" clan traced its origin to Orestes, and derived its name
 from the hero, who was above all a benefactor of his father. The word
 will well bear this sense in the two passages in which Sophocles
-(_Electra_, 162, 859) applies it to Orestes; and it is likely enough
+(_[[Electra]]_, 162, 859) applies it to Orestes; and it is likely enough
 that after the disappearance of the old Eupatridae as a political
 corporation, the name was adopted in a different sense, but not without
 a claim to the distinction inherent in the older sense, by one of the

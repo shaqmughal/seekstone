@@ -9,22 +9,22 @@ topic: physics
 ANTINOMIANS (Gr. [Greek: anti], against, [Greek: nomos], law), a term
 apparently coined by Luther to stigmatize Johannes Agricola (q.v.) and
 his following, indicating an interpretation of the antithesis between
-law and gospel, recurrent from the earliest times. Christians being
+law and [[Gospel|gospel]], recurrent from the earliest times. Christians being
 released, in important particulars, from conformity to the Old Testament
 polity as a whole, a real difficulty attended the settlement of the
 limits and the immediate authority of the remainder, known vaguely as
 the moral law. Indications are not wanting that St Paul's doctrine of
 justification by faith was, in his own day, mistaken or perverted in the
 interests of immoral licence. Gnostic sects approached the question in
-two ways. Marcionites, named by Clement of Alexandria _Antitactae_
-(revolters against the Demiurge) held the Old Testament economy to be
+two ways. Marcionites, named by [[Clement]] of Alexandria _Antitactae_
+(revolters against the [[Demiurge]]) held the Old Testament economy to be
 throughout tainted by its source; but they are not accused of
 licentiousness. Manichaeans, again, holding their spiritual being to be
 unaffected by the action of matter, regarded carnal sins as being, at
 worst, forms of bodily disease. Kindred to this latter view was the
-position of sundry sects of English fanatics during the Commonwealth,
+position of sundry sects of English fanatics during the [[Commonwealth]],
 who denied that an elect person sinned, even when committing acts in
-themselves gross and evil. Different from either of these was the
+themselves [[Gross|gross]] and evil. Different from either of these was the
 Antinomianism charged by Luther against Agricola. Its starting-point was
 a dispute with Melanchthon in 1527 as to the relation between repentance
 and faith. Melanchthon urged that repentance must precede faith, and

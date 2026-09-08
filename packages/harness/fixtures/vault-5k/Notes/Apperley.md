@@ -10,7 +10,7 @@ type: source
 APPERLEY, CHARLES JAMES (1777-1843), English sportsman and sporting
 writer, better known as "Nimrod," the pseudonym under which he published
 his works on the chase and the turf, was born at Plasgronow, near
-Wrexham, in Denbighshire, in 1777. Between the years 1805 and 1820 he
+Wrexham, in [[Denbighshire]], in 1777. Between the years 1805 and 1820 he
 devoted himself to fox-hunting. About 1821 he began to contribute to the
 _Sporting Magazine_, under the pseudonym of "Nimrod," a series of racy
 articles, which helped to double the circulation of the magazine in a
@@ -26,7 +26,7 @@ Turf, and the Road_ (originally written for the _Quarterly Review_),
 (1837); _Memoirs of the Life of the Late John Mytton_ (1837); _Nimrod's
 Northern Tour_ (1838); _Nimrod Abroad_ (1842); _The Horse and the Hound_
 (a reprint from the seventh edition of the _Encyclopaedia Britannica_)
-(1842); _Hunting Reminiscences_ (1843).
+(1842); _[[Hunting]] Reminiscences_ (1843).
 
 ## References
 

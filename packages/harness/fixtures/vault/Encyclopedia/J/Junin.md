@@ -10,10 +10,10 @@ tags: [antiquity, history]
 # Junin
 
 JUNIN, an interior department of central Peru, bounded N. by Huanuco, E.
-by Loreto and Cuzco, S. by Huancavelica, and W. by Lima and Ancachs.
+by Loreto and Cuzco, S. by [[Huancavelica]], and W. by [[Lima]] and Ancachs.
 Pop. (1906 estimate), 305,700. It lies wholly within the Andean zone and
 has an area of 23,353 sq. m. It is rich in minerals, including silver,
-copper, mercury, bismuth, molybdenum, lead and coal. The Huallaga and
+copper, mercury, [[Bismuth|bismuth]], molybdenum, lead and coal. The Huallaga and
 Mantaro rivers have their sources in this department, the latter in Lake
 Junin, or Chanchaycocha, 13,230 ft. above sea-level. The capital of
 Junin is Cerro de Pasco, and its two principal towns are Jauja and Tarma
@@ -38,12 +38,12 @@ The male and female flowers are usually produced on separate plants. The
 male flowers are developed at the ends of short lateral branches, are
 rounded or oblong in form, and consist of several antheriferous scales
 in two or three rows, each scale bearing three or six almost spherical
-pollen-sacs on its under side. The female flower is a small bud-like
+pollen-sacs on its under side. The female [[Flower|flower]] is a small bud-like
 cone situated at the apex of a small branch, and consists of two or
 three whorls of two or three scales. The scales of the upper or middle
 series each bear one or two erect ovules. The mature cone is fleshy,
 with the succulent scales fused together and forming the fruit-like
-structure known to the older botanists as the _galbulus_, or berry of
+structure known to the older botanists as the _galbulus_, or [[Berry|berry]] of
 the juniper. The berries are red or purple in colour, varying in size
 from that of a pea to a nut. They thus differ considerably from the
 cones of other members of the order Coniferae, of _Gymnosperms_ (q.v.),
@@ -71,19 +71,19 @@ and round the Gulf of Mexico, and extends as far west as the Rocky
 Mountains and beyond to Vancouver Island. The wood is applied to many
 uses in the United States. The fine red fragrant heart-wood takes a high
 polish, and is much used in cabinet-work and inlaying, but the small
-size of the planks prevents its more extended use. The galls produced at
+size of the planks prevents its more extended use. The [[Gall|galls]] produced at
 the ends of the branches have been used in medicine, and the wood yields
-cedar-camphor and oil of cedar-wood. _J. thurifera_ is the incense
+cedar-camphor and oil of cedar-wood. _J. thurifera_ is the [[Incense|incense]]
 juniper of Spain and Portugal, and _J. phoenicea_ (_J. lycia_) from the
 Mediterranean district is stated by Loudon to be burned as incense.
 
 _J. communis_, the common juniper (see fig.), and several other species,
 belong to the section _Oxycedrus_. The common juniper is a very widely
 distributed plant, occurring in the whole of northern Europe, central
-and northern Asia to Kamchatka, and east and west North America. It
+and northern Asia to [[Kamchatka]], and east and west North America. It
 grows at considerable elevations in southern Europe, in the Alps,
 Apennines, Pyrenees and Sierra Nevada (4000 to 8000 ft.). It also grows
-in Asia Minor, Persia, and at great elevations on the Himalayas. In
+in Asia Minor, Persia, and at great elevations on the [[Himalaya|Himalayas]]. In
 Great Britain it is usually a shrub with spreading branches, less
 frequently a low tree. In former times the juniper seems to have been a
 very well-known plant, the name occurring almost unaltered in many
@@ -91,17 +91,17 @@ languages. The Lat. _juniperus_, probably formed from _juni_--crude form
 of _juvenis_, fresh, young, and _parere_, to produce, is represented by
 Fr. _genièvre_, Sp. _enebro_, Ital. _ginepito_, &c. The dialectical
 names, chiefly in European languages, were collected by Prince L. L.
-Bonaparte, and published in the _Academy_ (July 17, 1880, No. 428, p.
+[[Bonaparte]], and published in the _Academy_ (July 17, 1880, No. 428, p.
 45). The common juniper is official in the British pharmacopoeia and in
 that of the United States, yielding the oil of juniper, a powerful
 diuretic, distilled from the unripe fruits. This oil is closely allied
 in composition to oil of turpentine and is given in doses of a half to
 three minims. The _Spiritus juniperi_ of the British pharmacopoeia is
-given in doses up to one drachm. Much safer and more powerful diuretics
+given in doses up to one drachm. Much safer and more powerful [[Diuretics|diuretics]]
 are now in use. The wood is very aromatic and is used for ornamental
 purposes. In Lapland the bark is made into ropes. The fruits are used
-for flavouring gin (a name derived from _juniper_, through Fr.
-_genièvre_); and in some parts of France a kind of beer called
+for flavouring [[Gin|gin]] (a name derived from _juniper_, through Fr.
+_genièvre_); and in some parts of France a kind of [[Beer|beer]] called
 _genévrette_ was made from them by the peasants. _J. Oxycedrus_, from
 the Mediterranean district and Madeira, yields cedar-oil which is
 official in most of the European pharmacopoeias, but not in that of

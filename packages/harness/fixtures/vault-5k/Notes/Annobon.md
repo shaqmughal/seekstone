@@ -13,7 +13,7 @@ Rising in some parts nearly 3000 ft. above the sea, it presents a
 succession of beautiful valleys and steep mountains, covered with rich
 woods and luxuriant vegetation. The inhabitants, some 3000 in number,
 are negroes and profess belief in the Roman Catholic faith. The chief
-town and residence of the governor is called St Antony (San Antonio de
+town and residence of the governor is called St Antony (San [[Antonio]] de
 Praia). The roadstead is tolerably safe, and passing vessels take
 advantage of it in order to obtain water and fresh provisions, of which
 Annobon contains an abundant supply. The island was discovered by the

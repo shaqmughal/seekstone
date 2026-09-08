@@ -12,13 +12,13 @@ CARMATHIANS (QARMATHIANS, KARMATHIANS), a Mahommedan sect named after
 Hamdan Qarmat, who accepted the teaching of the Isma'ilites (see
 MAHOMMEDAN RELIGION: _Sects_) from Hosain ul-Ahwazi, a missionary of
 Ahmed, son of the Persian Abdallah ibn Maimun, toward the close of the
-9th century. This was in the Sawad of Irak, which was inhabited by a
+9th century. This was in the Sawad of [[Irak]], which was inhabited by a
 people little attached to Islam. The object of Abdallah ibn Maimun had
 been to undermine Islam and the Arabian power by a secret society with
-various degrees, which offered inducements to all classes and creeds and
+various degrees, which offered inducements to all classes and [[Creeds|creeds]] and
 led men on from an interpretation of Islam to a total rejection of its
 teaching and a strict personal submission to the head of the society.
-For the political history of the Carmathians, their conquests and their
+For the [[Political History|political history]] of the Carmathians, their conquests and their
 decay, see ARABIA: _History_; CALIPHATE (sect. C. SS 16, 17, 18, 23);
 and EGYPT: _History_ (Mahommedan period).
 
@@ -26,7 +26,7 @@ In their religious teaching they claimed to be Shi'ites; i.e. they
 asserted that the imamate belonged by right to the descendants of Ali.
 Further, they were of the Isma'ilite branch of these, i.e. they
 acknowledged the claim to the imamate of Isma'il the eldest son of the
-sixth imam. The claim of Isma'il had been passed over by his father and
+sixth [[Imam|imam]]. The claim of Isma'il had been passed over by his father and
 many Shi'ites because he had been guilty of drinking wine. The
 Isma'ilites said that as the imam could do no wrong, his action only
 showed that wine-drinking was not sinful. Abdallah taught that from the
@@ -42,14 +42,14 @@ necessity of a teacher who could explain it. He took an oath of complete
 submission and paid a sum of money. In the second stage the earlier
 teachers of Islam were shown to be wrong in doctrine and the imams alone
 were proved to be infallible. In the third it was taught that there were
-only seven imams and that the other sects of the Shi'ites were in error.
-In the fourth the disciple learnt that each of the seven imams had a
+only seven imams and that the other sects of the Shi'ites were in [[Error|error]].
+In the fourth the [[Disciple|disciple]] learnt that each of the seven imams had a
 prophet, who was to be obeyed in all things. The prophet of the last
 imam was Abdallah. The doctrine of Islam was that Mahomet was the last
 of the prophets. In the fifth stage the uselessness of tradition and the
 temporary nature of the precepts and practices of Mahomet were taught,
 while in the sixth the believer was induced to give up these practices
-(prayer, fasting, pilgrimage, &c.). At this point the Carmathian had
+(prayer, [[Fasting|fasting]], pilgrimage, &c.). At this point the Carmathian had
 completely ceased to be a Moslem. In the remaining degrees there was
 more liberty of opinion allowed and much variety of belief and teaching
 existed.

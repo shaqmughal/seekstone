@@ -2,7 +2,7 @@
 
 CAIRNES, JOHN ELLIOTT (1823-1875), British political economist, was born at
 Castle Bellingham, Ireland, in 1823. After leaving school he spent some
-years in the counting-house of his father, a brewer. His tastes, however,
+years in the counting-house of his father, a [[Brewer|brewer]]. His tastes, however,
 lay altogether in the direction of study, and he was permitted to enter
 Trinity College, Dublin, where he took the degree of B.A. in 1848, and six
 years later that of M.A. After passing through the curriculum of arts he

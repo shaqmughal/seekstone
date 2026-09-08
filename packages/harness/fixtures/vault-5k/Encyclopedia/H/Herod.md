@@ -6,7 +6,7 @@ and then of Rome. The family seems to have been of Idumaean origin, so
 that its members were liable to the reproach of being half-Jews or even
 foreigners. Justin Martyr has a tradition that they were originally
 Philistines of Ascalon (_Dial._ c. 52), and on the other hand Nicolaus
-of Damascus (_apud_ Jos. _Ant._ xiv. 1. 3) asserted that Herod, his
+of [[Damascus]] (_apud_ Jos. _Ant._ xiv. 1. 3) asserted that Herod, his
 royal patron, was descended from the Jews who first returned from the
 Babylonian Captivity. The tradition and the assertion are in all
 probability equally fictitious and proceed respectively from the foes
@@ -33,7 +33,7 @@ since he died at seventy, twenty-five. In spite of his youth he soon
 found an opportunity of displaying his mettle; for he arrested Hezekiah
 the arch-brigand, who had overrun the Syrian border, and put him to
 death. The Jewish nobility at Jerusalem seized upon this high-handed
-action as a pretext for satisfying their jealousy of their Idumaean
+action as a pretext for satisfying their [[Jealousy|jealousy]] of their Idumaean
 rulers. Herod was cited in the name of Hyrcanus to appear before the
 Sanhedrin, whose prerogative he had usurped in executing Hezekiah. He
 appeared with a bodyguard, and the Sanhedrin was overawed. Only Sameas,
@@ -46,7 +46,7 @@ Galilee without wreaking his vengeance upon his enemies. About this time
 governor. The episode is important for the light which it throws upon
 Herod's relations with Rome and with the Jews.
 
-In 44 B.C. Cassius arrived in Syria for the purpose of filling his
+In 44 B.C. [[Cassius]] arrived in Syria for the purpose of filling his
 war-chest: Antipater and Herod collected the sum of money at which the
 Jews of Palestine had been assessed. In 43 B.C. Antipater was poisoned
 at the instigation of one Malichus, who was perhaps a Jewish patriot
@@ -91,7 +91,7 @@ by him, even if she was not weary of his patron, Antony.
 The events of Herod's reign indicate the temporary triumphs of his
 different adversaries. His high-priest, a Babylonian, was deposed in
 order that Aristobulus III., Mariamne's brother, might hold the place to
-which he had some ancestral right. But the enthusiasm with which the
+which he had some ancestral right. But the [[Enthusiasm|enthusiasm]] with which the
 people received him at the Feast of Tabernacles convinced Herod of the
 danger; and the youth was drowned by order of the king at Jericho.
 Cleopatra had obtained from Antony a grant of territory adjacent to
@@ -112,7 +112,7 @@ brigands who still infested the country and to check the raids of the
 Arabs on the frontier, he built or rebuilt fortresses, which were of
 material assistance to the Jews in the great revolt against Rome. Within
 and without Judaea he erected magnificent buildings and founded cities.
-He established games in honour of the emperor after the ancient Greek
+He established [[Games|games]] in honour of the emperor after the ancient Greek
 model in Caesarea and Jerusalem and revived the splendour of the Olympic
 games. At Athens and elsewhere he was commemorated as a benefactor; and
 as Jew and king of the Jews he restored the temple at Jerusalem. The
@@ -147,7 +147,7 @@ fortified Betharamptha in Peraea, and called it Julias after the wife of
 the emperor. Above all he founded the important town of Tiberias on the
 west shore of the Sea of Galilee, with institutions of a distinctly
 Greek character. He reigned 4 B.C.-A.D. 39. In the gospels he is
-mentioned as Herod. He it was who was called a "fox" by Christ (Luke
+mentioned as Herod. He it was who was called a "fox" by Christ ([[Luke]]
 xiii. 32). He is erroneously spoken of as a king in Mark vi. 14. It was
 to him that Jesus was sent by Pilate to be tried. But it is in connexion
 with his wife Herodias that he is best known, and it was through her
@@ -164,12 +164,12 @@ husband attain to an equal eminence, and persuaded him, though naturally
 of a quiet and unambitious temperament, to make the journey to Rome to
 crave a crown from the emperor. Agrippa, however, managed to influence
 Caligula against him. Antipas was deprived of his dominions and banished
-to Lyons, Herodias voluntarily sharing his exile.
+to [[Lyons]], Herodias voluntarily sharing his exile.
 
 HEROD PHILIP, son of Herod the Great by Cleopatra of Jerusalem, received
 the tetrarchate of Ituraea and other districts to E. and N.E. of the
 Lake of Galilee, the poorest part of his father's kingdom. His subjects
-were mainly Greeks or Syrians, and his coins bear the image of Augustus
+were mainly Greeks or Syrians, and his coins bear the [[Image|image]] of Augustus
 or Tiberius. He is described as an excellent ruler, who loved peace and
 was careful to maintain justice, and spent his time in his own
 territories. He was also a builder of cities, one of which was Caesarea

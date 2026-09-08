@@ -30,12 +30,12 @@ _Tettix_, the latter remarkable for the great extension of the pronotum,
 which often reaches beyond the extremity of the body. All are vegetable
 feeders, and, as in all orthopterous insects, have an incomplete
 metamorphosis, so that their destructive powers are continuous from the
-moment of emergence from the egg till death. The migratory locust
+moment of emergence from the [[Egg|egg]] till death. The migratory locust
 (_Pachytylus cinerascens_) may be considered only an exaggerated
 grasshopper, and the Rocky Mountain locust (_Caloptenus spretus_) is
 still more entitled to the name. In Britain the species are not of
 sufficient size, nor of sufficient numerical importance, to do any great
-damage. The colours of many of them assimilate greatly to those of their
+damage. The [[Colours|colours]] of many of them assimilate greatly to those of their
 habitats; the green of the _Locusta viridissima_ is wonderfully similar
 to that of the herbage amongst which it lives, and those species that
 frequent more arid spots are protected in the same manner. Yet many

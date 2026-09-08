@@ -18,11 +18,11 @@ Orientale. His designs were commended, but were not selected on account of
 the expense their adoption would have involved. From that time Cagnola
 devoted himself entirely to architecture. After the death of his father he
 spent two years in Verona and Venice, studying the architectural structures
-of these cities. In 1806 he was called upon to erect a triumphal arch for
-the marriage of Eugene Beauharnais with the princess of Bavaria. The arch
+of these cities. In 1806 he was called upon to erect a triumphal [[Arch|arch]] for
+the marriage of Eugene [[Beauharnais]] with the princess of Bavaria. The arch
 was of wood, but was of such beauty that it was resolved to carry it out in
-marble. The result was the magnificent Arco della Pace in Milan, surpassed
-in dimensions only by the Arc de l'Etoile at Paris. Among other works
+[[Marble|marble]]. The result was the magnificent Arco della Pace in Milan, surpassed
+in [[Dimension|dimensions]] only by the Arc de l'Etoile at Paris. Among other works
 executed by Cagnola are the Porta di Marengo at Milan, the campanile at
 Urgnano, and the chapel of Santa Marcellina in Milan. He died on the 14th
 of August 1833, five years before the completion of the Arco del Sempione,

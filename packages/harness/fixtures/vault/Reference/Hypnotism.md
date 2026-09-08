@@ -13,19 +13,19 @@ of hypnosis imply some abnormal condition of the brain of a temporary
 and harmless nature. It would seem that in all ages and in almost all
 countries individuals have occasionally fallen into abnormal states of
 mind more or less closely resembling the hypnotic state, and have
-thereby excited the superstitious wonder of their fellows. In some cases
+thereby excited the superstitious wonder of their [[Fellows|fellows]]. In some cases
 the state has been deliberately induced, in others it has appeared
 spontaneously, generally under the influence of some emotional
 excitement. The most familiar of these allied states is the somnambulism
 or sleep-walking to which some persons seem to be hereditarily disposed.
-Of a rather different type are the states of ecstasy into which
+Of a rather different type are the states of [[Ecstasy|ecstasy]] into which
 religious enthusiasts have occasionally fallen and which were especially
 frequent among the peoples of Europe during the middle ages. While in
 this condition individuals have appeared to be insensitive to all
 impressions made on their sense-organs, even to such as would excite
 acute pain in normal persons, have been capable of maintaining rigid
 postures for long periods of time, have experienced vivid
-hallucinations, and have produced, through the power of the imagination,
+hallucinations, and have produced, through the power of the [[Imagination|imagination]],
 extraordinary organic changes in the body, such as the bloody stigmata
 on the hands and feet in several well-attested instances. It has been
 proved in recent years that effects of all these kinds may be produced
@@ -40,10 +40,10 @@ occur individuals, known as "jumpers," who are liable to fall suddenly
 into a similar state of abject imitativeness, and the same peculiar
 behaviour has been observed among some of the remote tribes of Siberia.
 
-The deliberate induction of states identical with, or closely allied to,
+The deliberate [[Induction|induction]] of states identical with, or closely allied to,
 hypnosis is practised by many barbarous and savage peoples, generally
-for ceremonial purposes. Thus, certain dervishes of Algiers are said to
-induce in themselves, by the aid of the sound of drums, monotonous songs
+for ceremonial purposes. Thus, certain [[Dervish|dervishes]] of Algiers are said to
+induce in themselves, by the aid of the sound of [[Drum|drums]], monotonous songs
 and movements, a state in which they are insensitive to pain, and a
 similar practice of religious devotees is reported from Tibet. Perhaps
 the most marvellous achievement among well-attested cases of this sort
@@ -64,7 +64,7 @@ science. Scientific interest in them may be traced back at least as far
 as the end of the 16th century. Paracelsus had founded the "sympathetic
 system" of medicine, according to which the stars and other bodies,
 especially magnets, influence men by means of a subtle emanation or
-fluid that pervades all space. J. B. van Helmont, a distinguished man of
+fluid that pervades all space. J. B. van [[Helmont]], a distinguished man of
 science of the latter part of the 16th century, extended this doctrine
 by teaching that a similar magnetic fluid radiates from men, and that it
 can be guided by their wills to influence directly the minds and bodies
@@ -73,9 +73,9 @@ several persons who claimed to have the power of curing diseases by
 stroking with the hand. Notable amongst these was Valentine Greatrakes,
 of Affane, in the county of Waterford, Ireland, who was born in
 February 1628, and who attracted great attention in England by his
-supposed power of curing the king's evil, or scrofula. Many of the most
+supposed power of curing the [[King'S Evil|king's evil]], or scrofula. Many of the most
 distinguished scientific and theological men of the day, such as Robert
-Boyle and R. Cudworth, witnessed and attested the cures supposed to be
+Boyle and R. Cudworth, witnessed and attested the [[Cures|cures]] supposed to be
 effected by Greatrakes, and thousands of sufferers crowded to him from
 all parts of the kingdom. About the middle of the 18th century John
 Joseph Gassner, a Roman Catholic priest in Swabia, took up the notion
@@ -99,7 +99,7 @@ It would seem that Mesmer himself was not acquainted with the artificial
 somnambulism which for nearly a century was called mesmeric or magnetic
 sleep, and which is now familiar as hypnosis of a well-marked degree. It
 was observed and described about the year 1780 by the marquis de
-Puységur, a disciple of Mesmer, who showed that, while subjects were in
+Puységur, a [[Disciple|disciple]] of Mesmer, who showed that, while subjects were in
 this state, not only could some of their diseases be cured, but also
 their movements could be controlled by the "magnetizer," and that they
 usually remembered nothing of the events of the period of sleep when
@@ -115,14 +115,14 @@ action of external agents upon the patients.
 The success of Mesmer and his disciples, especially great in the
 fashionable world, led to the appointment in Paris of a royal commission
 for the investigation of their claims. The commission, which included
-men of great eminence, notably A. L. Lavoisier and Benjamin Franklin,
+men of great [[Eminence|eminence]], notably A. L. [[Lavoisier]] and [[Benjamin]] [[Franklin]],
 reported in the year 1784 that it could not accept the evidence for the
 existence of the magnetic fluid; but it did not express an opinion as to
 the reality of the cures said to be effected by its means, nor as to the
 nature of the magnetic sleep. This report and the social upheavals of
 the following years seem to have abolished the public interest in
 "animal magnetism" for the space of one generation; after which
-Alexandre Bertrand, a Parisian physician, revived it by his acute
+Alexandre [[Bertrand]], a Parisian physician, revived it by his acute
 investigations and interpretations of the phenomena. Bertrand was the
 first to give an explanation of the facts of the kind that is now
 generally accepted. He exhibited the affinity of the "magnetic sleep" to
@@ -139,7 +139,7 @@ countries, with few exceptions, of which England was the most notable.
 Most of the practitioners of this period adhered to the doctrine of the
 magnetic fluid emanating from the operator to his patient, and the
 acceptance of this doctrine was commonly combined with belief in
-phrenology, astrology and the influence of metals and magnets,
+phrenology, [[Astrology|astrology]] and the influence of metals and magnets,
 externally applied, in curing disease and in producing a variety of
 strange sensations and other affections of the mind. These beliefs,
 claiming to rest upon carefully observed facts, were given a new
@@ -152,24 +152,24 @@ this seemingly inseparable association between the facts of hypnotism
 and these bizarre practices and baseless beliefs that blinded the larger
 and more sober part of the scientific world, and led them persistently
 to assert that all this group of alleged phenomena was a mass of
-quackery, fraud and superstition. And the fact that magnetism was
+quackery, [[Fraud|fraud]] and superstition. And the fact that magnetism was
 practised for pecuniary gain, often in a shameless manner, by exponents
 who claimed to cure by its means every conceivable ill, rendered this
 attitude on the part of the medical profession inevitable and perhaps
 excusable, though not justifiable. It was owing to this baleful
-association that John Elliotson, one of the leading London physicians of
+association that John [[Elliotson]], one of the leading London physicians of
 that time, who became an ardent advocate of "magnetism" and who founded
 and edited the _Zoist_ in the interests of the subject, was driven out
 of the profession. This association may perhaps be held, also, to excuse
 the hostile attitude of the medical profession towards James Esdaile, a
-surgeon, who, practising in a government hospital in Calcutta among the
-natives of India, performed many major operations, such as the
+surgeon, who, practising in a government hospital in [[Calcutta]] among the
+natives of India, performed many [[Major|major]] operations, such as the
 amputation of limbs, painlessly and with the most excellent results by
 aid of the "magnetic" sleep. For both Elliotson and Esdaile, though
-honourable practitioners, accepted the doctrine of the "magnetic" fluid
+[[Honourable|honourable]] practitioners, accepted the doctrine of the "magnetic" fluid
 and many of the erroneous beliefs that commonly were bound up with it.
 
-In 1841 James Braid, a surgeon of Manchester, rediscovered independently
+In 1841 James [[Braid]], a surgeon of Manchester, rediscovered independently
 Bertrand's physiological and psychological explanations of the facts,
 carried them further, and placed "hypnotism," as he named the study, on
 a sound basis. Braid showed that subjects in "magnetic" sleep, far from
@@ -184,7 +184,7 @@ subject of psychological study and a valuable addition to the resources
 of the physician. But it was destined once more to be denied its rights
 by official science and to fall back into disrepute. This was due to the
 coincidence about the year 1848 of two events of some importance,
-namely--the discovery of the anaesthetic properties of chloroform and
+namely--the discovery of the anaesthetic properties of [[Chloroform|chloroform]] and
 the sudden rise of modern spiritualism. The former afforded a very
 convenient substitute for the most obvious practical application of
 hypnotism, the production of anaesthesia during surgical operations; the
@@ -193,7 +193,7 @@ for the popular mind, drove it back to the region of the marvellous, the
 supernatural and the dangerous, made it, in fact, once more a branch of
 the black art.
 
-From this time onward there took place a gradual differentiation of the
+From this time onward there took place a [[Gradual|gradual]] differentiation of the
 "animal magnetism" of the 18th century into two diverging branches,
 hypnotism and spiritualism, two branches which, however, are not yet
 entirely separated and, perhaps, never will be. At the same time the
@@ -204,7 +204,7 @@ In the development of hypnotism since the time of Braid we may
 distinguish three lines, the physiological, the psychological and the
 pathological. The last may be dismissed in a few words. Its principal
 representative was J. M. Charcot, who taught at the Salpêtrière in Paris
-that hypnosis is essentially a symptom of a morbid condition of hysteria
+that hypnosis is essentially a symptom of a morbid condition of [[Hysteria|hysteria]]
 or hystero-epilepsy. This doctrine, which, owing to the great repute
 enjoyed by Charcot, has done much to retard the application of
 hypnotism, is now completely discredited. The workers of the
@@ -241,7 +241,7 @@ suggestion have been adopted by leading physicians in almost all
 civilized countries and have been proved to be efficacious in the relief
 of many disorders; and as a method of psychological investigation
 hypnotism has proved, especially in the hands of the late Ed. Gurney, of
-Dr Pierre Janet and of other investigators, capable of throwing much
+Dr Pierre [[Janet]] and of other investigators, capable of throwing much
 light on the constitution of the mind, has opened up a number of
 problems of the deepest interest, and has done more than any other of
 the many branches of modern psychology to show the limitations and
@@ -277,13 +277,13 @@ or difficulty with which a large proportion of all persons can be
 hypnotized are sufficiently explained by the differences of the attitude
 of the public towards hypnotism; in France, e.g., and especially in
 Nancy, hypnotism has been made known to the public chiefly as a
-recognized auxiliary to the better known methods of medical treatment,
+recognized [[Auxiliary|auxiliary]] to the better known methods of medical treatment,
 whereas in England the medical profession has allowed the public to make
 acquaintance with hypnotism through the medium of disgusting
 stage-performances whose only object was to raise a laugh, and has, with
 few exceptions, joined in the general chorus of condemnation and
 mistrust. Hence in France patients submit themselves with confidence and
-goodwill to hypnotic treatment, whereas in England it is still necessary
+[[Goodwill|goodwill]] to hypnotic treatment, whereas in England it is still necessary
 in most cases to remove an ill-based prejudice before the treatment can
 be undertaken with hope of success. For the confidence and goodwill of
 the patient are almost essential to success, and even after hypnosis has
@@ -327,7 +327,7 @@ long periods without fatigue any position given them by the operator.
 The most susceptible subjects pass into the stage known as artificial
 somnambulism. In this condition they continue to respond to all
 suggestions made by the operator, but seem as insensitive to all other
-impressions as a person in profound sleep or in coma; and on awaking
+impressions as a person in profound sleep or in [[Coma|coma]]; and on awaking
 from this condition they are usually oblivious of all that they have
 heard, said or done during the somnambulistic period. When in this last
 condition patients are usually more profoundly influenced by
@@ -363,7 +363,7 @@ be made on almost any good subject. Anaesthesia of one eye may be
 suggested and its reality tested in the following way. Anaesthesia of
 the left eye may be suggested, and the subject be instructed to fix his
 gaze on a distant point and to give some signal as soon as he sees the
-operator's finger in the peripheral field of view. The operator then
+operator's [[Finger|finger]] in the peripheral field of view. The operator then
 brings his finger slowly from behind and to the right forwards towards
 the subject's line of sight. The subject signals as soon as it crosses
 the normal temporal boundary of the field of view of the right eye. The
@@ -372,7 +372,7 @@ left of the subject's head. The subject allows it to cross the monocular
 field of the left eye and signals only when the finger enters the field
 of vision of the right eye across its nasal boundary. Since few persons,
 other than physiologists or medical men, are aware of the relations of
-the boundaries of the monocular and binocular fields of vision, the
+the boundaries of the monocular and binocular [[Fields|fields]] of vision, the
 success of this experiment affords proof that the finger remains
 invisible to the subject during its passage across the monocular field
 of the left eye. The abolition of pain, especially of neuralgias, the
@@ -392,13 +392,13 @@ _Positive and Negative Hallucinations_ are among the most striking
 effects of hypnotic suggestion. A good subject may be made to experience
 an hallucinatory perception of almost any object, the more easily the
 less unusual and out of harmony with the surroundings is the suggested
-object. He may, e.g., be given a blank card and asked if he thinks it a
+object. He may, e.g., be given a [[Blank|blank]] card and asked if he thinks it a
 good photograph of himself. He may then assent and describe the
 photograph in some detail, and, what is more astonishing, he may pick
 out the card as the one bearing the photograph, after it has been mixed
-with other similar blank cards. This seems to be due to the part played
+with other similar blank [[Cards|cards]]. This seems to be due to the part played
 by _points de repère_, insignificant details of surface or texture,
-which serve as an objective basis around which the hallucinatory image
+which serve as an objective basis around which the hallucinatory [[Image|image]]
 is constructed by the pictorial imagination of the subject. A negative
 hallucination may be induced by telling the subject that a certain
 object or person is no longer present, when he ignores in every way that
@@ -414,7 +414,7 @@ experiences may be induced in many subjects. On being assured that he is
 some other person, or that he is in some strange situation, the subject
 may accept the suggestion and adapt his behaviour with great histrionic
 skill to the induced delusion. It is probable that many, perhaps all,
-subjects are vaguely aware, as we sometimes are in dreams, that the
+subjects are vaguely aware, as we sometimes are in [[Dream|dreams]], that the
 delusions and hallucinations they experience are of an unreal nature. In
 the lighter stages of hypnosis a subject usually remembers the events of
 his waking life, but in the deeper stages he is apt, while remembering
@@ -440,7 +440,7 @@ rule, the deeper the stage of hypnosis reached, the more effective are
 post-hypnotic suggestions. The therapeutic applications of hypnotism
 depend in the main upon this post-hypnotic continuance of the working of
 suggestions. If a subject is told that on awaking, or on a certain
-signal, or after the lapse of a given interval of time from the moment
+signal, or after the [[Lapse|lapse]] of a given interval of time from the moment
 of awaking, he will perform a certain action, he usually feels some
 inclination to carry out the suggestion at the appropriate moment. If he
 remembers that the action has been suggested to him he may refuse to
@@ -475,7 +475,7 @@ functions of the cerebrum, a fourth to abnormal cerebral excitability, a
 fifth to the independent functioning of one hemisphere. Another seeks to
 explain all the facts by saying that in hypnosis our normal
 consciousness disappears and is replaced by a dream-consciousness; and
-yet another by the assumption that every human organism comprises two
+yet another by the [[Assumption|assumption]] that every human organism comprises two
 mental selves or personalities, a normal one and one which only comes
 into activity during sleep and hypnosis. Most of these "theories" would,
 even if true, carry us but a little way towards a complete understanding
@@ -483,7 +483,7 @@ of the facts. There is, however, one theory or principle of explanation
 which is now gradually taking shape under the hands of a number of the
 more penetrating workers in this field, and which does seem to render
 intelligible many of the principle facts. This is the theory of _mental
-dissociation_.
+[[Dissociation|dissociation]]_.
 
 It is clear that a theory of hypnosis must attempt to give some account
 of the peculiar condition of the brain which is undoubtedly present as
@@ -521,7 +521,7 @@ of remaining inactive or quiescent for long periods, and of being
 excited in various degrees, either by impressions made upon the
 sense-organs or by the spread of excitement from other dispositions.
 When its excitement rises above a certain pitch of intensity, the
-corresponding idea rises to the focus of consciousness. These
+corresponding idea rises to the [[Focus|focus]] of consciousness. These
 dispositions are essential factors of all mental process, the essential
 conditions of all mental retention. They may be called simply mental
 dispositions, their nature being left undefined; but for our present
@@ -589,7 +589,7 @@ their excitement ebbs. Now, in the waking state, the varied stimuli,
 which constantly rain upon all the sense-organs, maintain the whole
 cerebrum in a state of sub-excitement, keep all the cerebral neurones
 partially charged with free nervous energy. When the subject lies down
-to sleep or submits himself to the hypnotizer he arrests as far as
+to sleep or submits himself to the hypnotizer he [[Arrest|arrests]] as far as
 possible the flow of his thoughts, and the sensory stimuli are
 diminished in number and intensity. Under these conditions the general
 cerebral activity tends to subside, the free energy with which the
@@ -618,7 +618,7 @@ evidence of the occurrence of dissociation is a matter of great
 psychological interest and its nature must be briefly indicated. The
 phenomena of automatic speech and writing afford the best evidence of
 cerebral dissociation. Many persons can, while in an apparently normal
-or but very slightly abnormal condition, produce automatic writing, i.e.
+or but very slightly abnormal condition, produce [[Automatic Writing|automatic writing]], i.e.
 intelligibly written sentences, in some cases long connected passages,
 of whose import they have no knowledge, their self-conscious
 intelligence being continuously directed to some other task. The
@@ -661,7 +661,7 @@ consciousness, which remains correspondingly poorer; and the assumption
 is usually made that such a stream of co-consciousness is the psychical
 correlate of groups and systems of neurones dissociated from the main
 mass of cerebral neurones. If, in spite of serious objections, we
-entertain this conception, we find that it helps us to give some account
+entertain this conception, we find that it [[Helps|helps]] us to give some account
 of various hypnotic phenomena that otherwise remain quite inexplicable;
 some such conception seems to be required more particularly by the facts
 of negative hallucination and the execution of post-hypnotic suggestions
@@ -683,7 +683,7 @@ instances to have been carried out, in the absence of all extraneous
 aids and with complete unconsciousness on the part of the normal
 personality, with such extreme precision that the achievement cannot be
 accounted for by any intensification of any faculty that we at present
-recognize or understand. Thus, Dr Milne Bramwell has reported the case
+recognize or understand. Thus, Dr Milne [[Bramwell]] has reported the case
 of a patient who, when commanded in hypnosis to perform some simple
 action after the lapse of many thousands of minutes, would carry out the
 suggestion punctually to the minute, without any means of knowing the
@@ -709,11 +709,11 @@ recognized that it may be used with great advantage as a supplement to
 other modes of treatment in relieving symptoms that are accentuated by
 nervous irritability or mental disturbance. A third wide field of
 usefulness lies before it in the cure of undesirable habits of many
-kinds. Under the first heading may be put insomnia, neuralgia,
+kinds. Under the first heading may be put [[Insomnia|insomnia]], neuralgia,
 neurasthenia, hysteria in almost all its many forms; under the second,
 inflammations such as that of chronic rheumatism, contractures and
-paralyses resulting from gross lesion of the brain, epilepsy, dyspepsia,
-menstrual irregularities, sea-sickness; under the third, inebriety, the
+paralyses resulting from [[Gross|gross]] [[Lesion|lesion]] of the brain, [[Epilepsy|epilepsy]], [[Dyspepsia|dyspepsia]],
+menstrual irregularities, sea-sickness; under the third, [[Inebriety|inebriety]], the
 morphia and other drug habits, nail-biting, _enuresis nocturna_,
 masturbation, constipation, facial and other twitchings. In pronounced
 mental diseases hypnotism seems to be almost useless; for in general
@@ -783,7 +783,7 @@ some countries.
   BIBLIOGRAPHY.--The literature of hypnotism has increased in volume at
   a rapid rate during recent years. Of recent writings the following may
   be mentioned as among the most important:--_Treatment by Hypnotism and
-  Suggestion_ by C. Lloyd Tuckey, M.D. (5th ed., London, 1907);
+  Suggestion_ by C. [[Lloyd]] Tuckey, M.D. (5th ed., London, 1907);
   _Hypnotism, its History, Practice and Theory_, by J. Milne Bramwell,
   M.B. (2nd ed., London, 1906); _Hypnotism_, by Albert Moll (5th ed.,
   London, 1901). All these three books give good general accounts of

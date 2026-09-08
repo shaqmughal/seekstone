@@ -14,10 +14,10 @@ Kellaways Clay, which often contains much selenite but is poor in
 fossils. The lithological characters are impersistent, and the sandy
 phase encroaches sometimes more, sometimes less, upon the true Oxford
 Clay. The rocks may be traced from Wiltshire into Bedfordshire,
-Lincolnshire and Yorkshire, where they are well exposed in the cliffs at
+[[Lincolnshire]] and Yorkshire, where they are well exposed in the cliffs at
 Scarborough and Gristhorpe, at Hackness (90 ft.), Newtondale (80 ft.)
 and Kepwick (100 ft.). In Yorkshire, however, the Callovian rocks lie
-upon a somewhat higher palaeontological horizon than in Wiltshire. In
+upon a somewhat higher palaeontological [[Horizon|horizon]] than in Wiltshire. In
 England, _Kepplerites calloviensis_ is taken as the zone fossil; other
 common forms are _Cosmoceras modiolare_, _C. gowerianum_, _Belemnites
 oweni_, _Ancyloceras calloviense_, _Nautilus calloviensis_, _Avicula
@@ -32,33 +32,33 @@ continental Callovien includes the following zones:--
      (Divesien)    \   _Quenstedtoceras Lamberti_ and _Q. mariae._
 
                    / Zone of _Reineckia anceps_, _Stephanoceras
-  Lower Callovien <    coronatum_ and _Cosmoceras jason_ and a lower zone
+  Lower Callovien <    coronatum_ and _Cosmoceras [[Jason|jason]]_ and a lower zone
                    |   of _C. gowerianum_ and _Macrocephalites
                    \   macrocephalus_.
 
-Rocks of Callovian age (according to the continental classification) are
+Rocks of Callovian age (according to the continental [[Classification|classification]]) are
 widely spread in Europe, which, with the exception of numerous insular
 masses, was covered by the Callovian Sea. The largest of these land
-areas lay over Scandinavia and Finland, and extended eastward as far as
-the 40th meridian. In arctic regions these rocks have been discovered in
-Spitzbergen, Franz Josef Land, the east coast of Greenland, and Siberia.
-They occur in the Hebrides and Skye and in England as indicated above.
-In France they are well exposed on the coast of Calvados between
-Trouville and Dives, where the marls and clays are 200 ft. thick. In the
-Ardennes clays bearing pyrites and oolitic limonite are about 30 ft.
+areas lay over Scandinavia and [[Finland]], and extended eastward as far as
+the 40th meridian. In [[Arctic|arctic]] regions these rocks have been discovered in
+Spitzbergen, [[Franz]] Josef Land, the east coast of Greenland, and Siberia.
+They occur in the [[Hebrides]] and Skye and in England as indicated above.
+In France they are well exposed on the coast of [[Calvados]] between
+Trouville and Dives, where the [[Marl|marls]] and clays are 200 ft. thick. In the
+[[Ardennes]] clays bearing pyrites and oolitic limonite are about 30 ft.
 thick. Around Poitiers the Callovian is 100 ft. thick, but the formation
-thins in the direction of the Jura.
+thins in the direction of the [[Jura]].
 
 Clays and shales with ferruginous oolites represent the Callovian of
 Germany; while in Russia the deposits of this age are mainly
 argillaceous. In North America Callovian fossils are found in
 California; in South America in Bolivia. In Africa they have been found
 in Algeria and Morocco, in Somaliland and Zanzibar, and on the west
-coast of Madagascar. In India they are represented by the shales and
-limestones of the Chari series of Cutch. Callovian rocks are also
+coast of [[Madagascar]]. In India they are represented by the shales and
+[[Limestone|limestones]] of the Chari series of [[Cutch]]. Callovian rocks are also
 recorded from New Guinea and the Moluccas.
 
-  See JURASSIC; also A. de Lapparent, _Traité de géologie_, vol. ii.
+  See [[Jurassic|JURASSIC]]; also A. de [[Lapparent]], _Traité de géologie_, vol. ii.
   (5th ed., 1906), and H.B. Woodward, "The Jurassic Rocks of Britain,"
   _Mem. Geol. Survey_, vol. v.     (J. A. H.)
 

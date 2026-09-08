@@ -11,13 +11,13 @@ to have been among the very first objects on which the invention and
 ingenuity of man were exercised; and there is no record of any people so
 rude as not to employ some kind of personal decoration. Natural objects,
 such as small shells, dried berries, small perforated stones, feathers
-of variegated colours, were combined by stringing or tying together to
+of variegated [[Colours|colours]], were combined by stringing or tying together to
 ornament the head, neck, arms and legs, the fingers, and even the toes,
 whilst the cartilages of the nose and ears were frequently perforated
 for the more ready suspension of suitable ornaments.
 
 Amongst modern Oriental nations we find almost every kind of personal
-decoration, from the simple caste mark on the forehead of the Hindu to
+decoration, from the simple [[Caste|caste]] mark on the forehead of the Hindu to
 the gorgeous examples of beaten gold and silver work of the various
 cities and provinces of India. Nor are such decorations mere ornaments
 without use or meaning. The hook with its corresponding perforation or
@@ -145,7 +145,7 @@ pre-eminent.
   stars formed of combined crosses, with crosses in the centre forming
   spikes--all elaborately ornamented in detail. The spiral forms an
   incessant decoration from its facile production and repetition by
-  means of twisted gold wire. Grasshoppers or tree crickets in gold
+  means of twisted gold wire. [[Grasshopper|Grasshoppers]] or tree crickets in gold
   repoussé suspended by chains and probably used for the decoration of
   the hair, and a griffin (fig. 12), having the upper part of the body
   of an eagle and the lower parts of a lion, with wings decorated with
@@ -163,7 +163,7 @@ pre-eminent.
   series is composed of figures of women with doves. Some have one dove
   resting on the head; others have three doves, one on the head and the
   others resting on arms. The arms in both instances are extended to the
-  elbow, the hands being placed on the breasts. These ornaments are also
+  elbow, the hands being placed on the [[Breast|breasts]]. These ornaments are also
   perforated, and were evidently sewed on the dresses, although there is
   some evidence that an example with three doves has been fastened with
   a pin.
@@ -182,7 +182,7 @@ pre-eminent.
   [Illustration: FIG. 14.]
 
   The admirable inlaid daggers of the IVth grave at Mycenae are unique
-  in their kind, with their subjects of a lion hunt, of a lion chasing a
+  in their kind, with their subjects of a lion [[Hunt|hunt]], of a lion chasing a
   herd of antelopes, of running lions, of cats hunting wild duck, of
   inlaid lilies, and of geometric patterns. The subjects are inlaid in
   gold of various tints, and silver, in bronze plates which are inserted
@@ -283,7 +283,7 @@ had undertaken the excavations.
 
   Figs. 54-58 (Plate II.) Examples of the Ephesus hoard.
    "      54       "      Electrum pin, with pomegranate head.
-   "      55       "      Hawk ornament.
+   "      55       "      [[Hawk]] ornament.
    "      56       "      Electrum pin.
    "      57, 58   "      Electrum ornaments for sewing on drapery.
 
@@ -616,7 +616,7 @@ exhibition of 1900. What specially stamps the works of Lalique is their
 striking originality. His work may be considered from the point of view
 of design and from that of execution. As an artist he has completely
 reconstructed from the foundation the scheme of design which had fed the
-poverty-stricken imagination of the last generation of goldsmiths. He
+poverty-stricken [[Imagination|imagination]] of the last generation of goldsmiths. He
 had recourse to the art of the past, but to the spirit rather than the
 letter, and to nature for many new elements of design--free double
 curves, suave or soft; opalescent harmonies of colouring; reminiscences,
@@ -769,7 +769,7 @@ French Revolution.
   and then it is passed though the fire to anneal or soften it. In the
   case of elaborate examples of repoussé, after the general forms are
   beaten up, the interior is filled with a resinous compound, pitch
-  mixed with fire-brick dust; and this, forming a solid but pliable body
+  mixed with fire-brick [[Dust|dust]]; and this, forming a solid but pliable body
   underneath the metal, allows of the finished details being wrought out
   on the front of the design, and being finally completed by chasing.
   When stones are to be set, or when they form the principal portions of
@@ -836,7 +836,7 @@ French Revolution.
   metal the portion represented by each die. It is in these steel dies
   that the skill of the artist die-sinker is manifested. Brooches,
   ear-rings, pinheads, bracelets, lockets, pendants, &c., are struck out
-  by the gross. This is more especially the case in silver and in plated
+  by the [[Gros|gross]]. This is more especially the case in silver and in plated
   work--that is, imitation jewelry--the base of which is an alloy,
   afterwards gilt by electro-plating. With these ornaments imitation
   stones in paste and glass, pearls, &c., are used, and it is remarkable
@@ -870,7 +870,7 @@ French Revolution.
   Evans, _Journal of Hellenic Studies_, xiii. For Ephesus gold treasure,
   see D. G. Hogarth, _British Museum Excavations at Ephesus_; _The
   Archaic Artemisia_. For the Hermitage Collection from South Russia,
-  see Gillé, _Antiquités du Bosphore Cimmérien_ (reissued by S.
+  see [[Gill]]é, _Antiquités du Bosphore Cimmérien_ (reissued by S.
   Reinach), and the _Comptes rendus_ of the Russian Archaeological
   Commission (St Petersburg). For later jewelry, Pollak,
   _Goldschmiedearbeit_. For Treasure of Pétrossa, A. Odobesco, _Le

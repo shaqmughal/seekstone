@@ -17,11 +17,11 @@ deity; he was sent into the world to oppose the evil; but his
 incarnation, and therefore his sufferings, were a mere appearance.
 Regarding the body as the work of the evil deity, the Cerdonians formed
 a moral system of great severity, prohibiting marriage, wine and the
-eating of flesh, and advocating fasting and other austerities. Most of
+eating of flesh, and advocating [[Fasting|fasting]] and other austerities. Most of
 what the Fathers narrate of Cerdo's tenets has probably been transferred
 to him from his famous pupil Marcion, like whom he is said to have
-rejected the Old Testament and the New, except part of Luke's Gospel and
-of Paul's Epistles. (See MARCION, and GNOSTICISM.)
+rejected the Old Testament and the New, except part of Luke's [[Gospel]] and
+of Paul's [[Epistle|Epistles]]. (See MARCION, and [[Gnosticism|GNOSTICISM]].)
 
 ## References
 

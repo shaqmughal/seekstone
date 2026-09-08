@@ -15,23 +15,23 @@ Chhattisgarh plain, then a little above Seorinarayan it receives the
 waters which its first great affluent, the Seonath, has collected from
 the western portion of the plain; thence flowing for some distance due
 E., its stream is augmented by the drainage of the hills of Uprora,
-Korba, and the ranges that separate Sambalpur from Chota Nagpur. At
+Korba, and the ranges that separate Sambalpur from [[Chota]] Nagpur. At
 Padampur it turns towards the south, and struggling through masses of
 rock, flows past the town of Sambalpur to Sonpur. From Sonpur it pursues
 a tortuous course among ridges and rocky crags towards the range of the
-Eastern Ghats. This mountain line it pierces by a gorge about 40 m. in
+Eastern [[Ghats]]. This mountain line it pierces by a gorge about 40 m. in
 length, overlooked by forest-clad hills. Since the opening of the
 Bengal-Nagpur railway, the Mahanadi is little used for navigation. It
-pours down upon the Orissa delta at Naraj, about 7 m. west of Cuttack
+pours down upon the Orissa [[Delta|delta]] at Naraj, about 7 m. west of [[Cuttack]]
 town; and after traversing Cuttack district from west to east, and
 throwing off numerous branches (the Katjori, Paika, Biropa, Chitartala,
-&c.) it falls into the Bay of Bengal at False Point by several channels.
+&c.) it falls into the Bay of [[Bengal]] at [[False Point]] by several channels.
 
   The Mahanadi has an estimated drainage area of 43,800 sq. m., and its
-  rapid flow renders its maximum discharge in time of flood second to
+  rapid flow renders its maximum [[Discharge|discharge]] in time of [[Flood|flood]] second to
   that of no other river in India. During unusually high floods
   1,500,000 cub. ft. of water pour every second through the Naraj gorge,
-  one-half of which, uncontrolled by the elaborate embankments, and
+  one-half of which, uncontrolled by the elaborate [[Embankment|embankments]], and
   heavily laden with silt, pours over the delta, filling the swamps,
   inundating the rice-fields, and converting the plains into a sea. In
   the dry weather the discharge of the Mahanadi dwindles to 1125 cub.

@@ -13,7 +13,7 @@ had written in Rome. Having become organist to the chapel of the
 music. At that time he even contemplated the idea of entering into holy
 orders. His thoughts were, however, turned to more mundane matters when,
 through the intervention of Madame Viardot, the celebrated singer, he
-received a commission to compose an opera on a text by Emile Augier for
+received a commission to compose an opera on a text by Emile [[Augier]] for
 the Academie Nationale de Musique. _Sapho_, the work in question, was
 produced in 1851, and if its success was not very great, it at least
 sufficed to bring the composer's name to the fore. Some critics appeared
@@ -32,9 +32,9 @@ Francais in 1852, when the orchestra was conducted by Offenbach. The
 composer's next opera, _La Nonne sanglante_, given at the Paris Opera in
 1854, was a failure.
 
-Goethe's _Faust_ had for years exercised a strong fascination over
+Goethe's _[[Faust]]_ had for years exercised a strong fascination over
 Gounod, and he at last determined to turn it to operatic account. The
-performance at a Paris theatre of a drama on the same subject delayed
+performance at a Paris theatre of a [[Drama|drama]] on the same subject delayed
 the production of his opera for a time. In the meanwhile he wrote in a
 few months the music for an operatic version of Moliere's comedy, _Le
 Medecin malgre lui_, which was produced at the Theatre Lyrique in 1858.
@@ -58,16 +58,16 @@ Times have indeed changed, and French composers have followed the road
 opened by Gounod, and have further developed the form of the lyrical
 drama, adopting the theories of Wagner in a manner suitable to their
 national temperament. Although in its original version _Faust_ contained
-spoken dialogue, and was divided into set pieces according to custom,
+spoken [[Dialogue|dialogue]], and was divided into set pieces according to custom,
 yet it differed greatly from the operas of the past. Gounod had not
 studied the works of German masters such as Mendelssohn and Schumann in
 vain, and although his own style is eminently Gallic, yet it cannot be
-denied that much of its charm emanates from a certain poetic
+denied that much of its [[Charm|charm]] emanates from a certain poetic
 sentimentality which seems to have a Teutonic origin. Certainly no music
 such as his had previously been produced by any French composer. Auber
 was a gay trifler, scattering his bright effusions with absolute
 _insouciance_, teeming with melodious ideas, but lacking depth. Berlioz,
-a musical Titan, wrestled against fate with a superhuman energy, and,
+a musical Titan, wrestled against [[Fate|fate]] with a superhuman energy, and,
 Jove-like, subjugated his hearers with his thunderbolts. It was,
 however, reserved for Gounod to introduce _la note tendre_, to sing the
 tender passion in accents soft and languorous. The musical language
@@ -139,7 +139,7 @@ elegy" _Gallia_ for the inauguration of the Royal Albert Hall. During
 his stay in London Gounod composed a great deal and wrote a number of
 songs to English words, many of which have attained an enduring
 popularity, such as "Maid of Athens," "There is a green hill far away,"
-"Oh that we two were maying," "The fountain mingles with the river." His
+"Oh that we two were maying," "The [[Fountain|fountain]] mingles with the river." His
 sojourn in London was not altogether pleasant, as he was embroiled in
 lawsuits with publishers. On Gounod's return to Paris he hurriedly set
 to music an operatic version of Alfred de Vigny's _Cinq-Mars_, which was
@@ -170,7 +170,7 @@ du Sacre Coeur_ (1876) and the _Messe a la memoire de Jeanne d'Arc_
 solos, chorus, organ, eight trumpets, three trombones, and harps. In
 style it has a certain affinity with Palestrina. _The Redemption_, which
 seems to have acquired a permanent footing in Great Britain, was
-produced at the Birmingham Festival of 1882. It was styled a sacred
+produced at the [[Birmingham]] Festival of 1882. It was styled a sacred
 trilogy, and was dedicated to Queen Victoria. The score is prefixed by a
 commentary written by the composer, in which the scope of the oratorio
 is explained. It cannot be said that Gounod has altogether risen to the

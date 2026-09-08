@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-04T12:55:22.545Z",
+  "snapshotDate": "2026-09-07T04:09:00.421Z",
   "machine": {
     "platform": "darwin",
     "arch": "arm64",
-    "node": "v26.0.0",
-    "cpus": 10
+    "node": "v25.9.0",
+    "cpus": 16
   },
   "backend": {
     "name": "obsidian-tc",
@@ -21,43 +21,43 @@
         {
           "op": "search",
           "target": "phlogiston",
-          "payloadBytes": 4953,
-          "payloadTokens": 1410
+          "payloadBytes": 4965,
+          "payloadTokens": 1422
         },
         {
           "op": "read",
           "target": "Sources/Combustion.md",
-          "payloadBytes": 8369,
-          "payloadTokens": 2000
+          "payloadBytes": 8457,
+          "payloadTokens": 2040
         },
         {
           "op": "read",
           "target": "Sources/Combustion.md",
-          "payloadBytes": 8369,
-          "payloadTokens": 2000
+          "payloadBytes": 8457,
+          "payloadTokens": 2040
         },
         {
           "op": "read",
           "target": "Sources/Combustion.md",
-          "payloadBytes": 8369,
-          "payloadTokens": 2000
+          "payloadBytes": 8457,
+          "payloadTokens": 2040
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 30060,
-      "totalPayloadTokens": 7410,
+      "totalPayloadBytes": 30336,
+      "totalPayloadTokens": 7542,
       "payloadStable": true,
       "latency": {
-        "coldMs": 3574.8645,
+        "coldMs": 2774.838791,
         "warm": {
           "n": 4,
-          "min": 3298.940417,
-          "median": 3369.203666,
-          "p90": 3430.775,
-          "p95": 3430.775,
-          "p99": 3430.775,
-          "max": 3430.775,
-          "mean": 3369.6073749999996
+          "min": 2658.893458,
+          "median": 2672.731208,
+          "p90": 2760.592625,
+          "p95": 2760.592625,
+          "p99": 2760.592625,
+          "max": 2760.592625,
+          "mean": 2691.41232275
         },
         "runs": 5
       }
@@ -70,43 +70,43 @@
         {
           "op": "search",
           "target": "Roman Empire",
-          "payloadBytes": 7895,
-          "payloadTokens": 2326
+          "payloadBytes": 7918,
+          "payloadTokens": 2336
         },
         {
           "op": "read",
           "target": "Reference/Empire.md",
-          "payloadBytes": 163185,
-          "payloadTokens": 39431
+          "payloadBytes": 164915,
+          "payloadTokens": 40160
         },
         {
           "op": "read",
           "target": "Reference/Empire.md",
-          "payloadBytes": 163185,
-          "payloadTokens": 39431
+          "payloadBytes": 164915,
+          "payloadTokens": 40160
         },
         {
           "op": "read",
           "target": "Reference/Empire.md",
-          "payloadBytes": 163185,
-          "payloadTokens": 39431
+          "payloadBytes": 164915,
+          "payloadTokens": 40160
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 497450,
-      "totalPayloadTokens": 120619,
+      "totalPayloadBytes": 502663,
+      "totalPayloadTokens": 122816,
       "payloadStable": true,
       "latency": {
-        "coldMs": 3536.361334,
+        "coldMs": 2794.950625,
         "warm": {
           "n": 4,
-          "min": 3385.892709,
-          "median": 3403.191167,
-          "p90": 3489.669959,
-          "p95": 3489.669959,
-          "p99": 3489.669959,
-          "max": 3489.669959,
-          "mean": 3424.3143547500003
+          "min": 2772.643708,
+          "median": 2775.530833,
+          "p90": 2941.328084,
+          "p95": 2941.328084,
+          "p99": 2941.328084,
+          "max": 2941.328084,
+          "mean": 2821.5590312500003
         },
         "runs": 5
       }
@@ -128,16 +128,16 @@
       "totalPayloadTokens": 17,
       "payloadStable": true,
       "latency": {
-        "coldMs": 3410.167083,
+        "coldMs": 2619.040708,
         "warm": {
           "n": 4,
-          "min": 3323.646042,
-          "median": 3386.115667,
-          "p90": 3553.520416,
-          "p95": 3553.520416,
-          "p99": 3553.520416,
-          "max": 3553.520416,
-          "mean": 3413.81198975
+          "min": 2605.414584,
+          "median": 2615.11325,
+          "p90": 2732.108833,
+          "p95": 2732.108833,
+          "p99": 2732.108833,
+          "max": 2732.108833,
+          "mean": 2651.7005625
         },
         "runs": 5
       }
@@ -171,16 +171,16 @@
       "totalPayloadTokens": 1581,
       "payloadStable": true,
       "latency": {
-        "coldMs": 3495.875084,
+        "coldMs": 2737.675375,
         "warm": {
           "n": 4,
-          "min": 3362.468166,
-          "median": 3502.307959,
-          "p90": 3779.673458,
-          "p95": 3779.673458,
-          "p99": 3779.673458,
-          "max": 3779.673458,
-          "mean": 3538.26662475
+          "min": 2715.436834,
+          "median": 2728.795917,
+          "p90": 2803.225959,
+          "p95": 2803.225959,
+          "p99": 2803.225959,
+          "max": 2803.225959,
+          "mean": 2744.6079485
         },
         "runs": 5
       }

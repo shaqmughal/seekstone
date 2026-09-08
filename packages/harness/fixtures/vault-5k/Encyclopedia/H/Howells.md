@@ -37,12 +37,12 @@ Life_ (1902), and _English Films_ (1905).
 Howells is by general consent the foremost representative of the
 realistic school of indigenous American fiction. From the outset his aim
 was to portray life with entire fidelity in all its commonplaceness, and
-yet to charm the reader into a liking for this commonplaceness and into
+yet to [[Charm|charm]] the reader into a liking for this commonplaceness and into
 reverence for what it conceals. Though in his earliest novels his method
 was not consistently realistic--he is at times almost as personal and as
 whimsical as Thackeray--yet his vivid impressionism and his choice of
 subjects, as well as an occasional explicit protest that "dulness is
-dear to him," already revealed unmistakably his realistic bias. In _A
+dear to him," already revealed unmistakably his realistic [[Bias|bias]]. In _A
 Modern Instance_ (1882) he gained complete command of his method, and
 began a series of studies of American life that are remarkable for their
 loyalty to fact, their truth of tone, and their power to reveal, despite
@@ -54,12 +54,12 @@ analysis. He insists on seeing and portraying American life as it exists
 in and for itself, under its own skies and with its own atmosphere; he
 does not scrutinize it with foreign comparisons in mind, and thus try to
 find and to throw into relief unsuspected configurations of surface. He
-keeps his dialogue toned down to almost the pitch of everyday
+keeps his [[Dialogue|dialogue]] toned down to almost the pitch of everyday
 conversation, although he has shown in his comedy sketches how easy a
 master he is of adroit and witty talk.
 
   See also J. M. Robertson, _Essays towards a Critical Method_ (London,
-  1889); H. C. Vedder, _American Writers_ (Boston, 1894).
+  1889); H. C. Vedder, _American Writers_ ([[Boston]], 1894).
 
 ## See also
 

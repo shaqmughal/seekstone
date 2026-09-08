@@ -13,8 +13,8 @@ the _Evening Packet_ and a large interest in the _Dublin Evening Mail_,
 he combined the three papers under the title the _Evening Mail_, a
 weekly reprint from which was issued as the _Warder_. After the death of
 his wife in 1858 he lived in retirement, and his best work was produced
-at this period of his life. He wrote some clever novels, of a
-sensational order, in which his vigorous imagination and his Irish love
+at this period of his life. He wrote some [[Clever|clever]] novels, of a
+sensational order, in which his vigorous [[Imagination|imagination]] and his Irish love
 of the supernatural have full play. He died in Dublin on the 7th of
 February 1873. His best-known novels are _The House by the Churchyard_
 (1863) and _Uncle Silas, a Tale of Bartram Haugh_ (1864). _The Purcell

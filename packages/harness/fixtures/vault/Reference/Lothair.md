@@ -1,16 +1,16 @@
 # Lothair
 
 LOTHAIR (825-869), king of the district called after him Lotharingia, or
-Lorraine, was the second son of the emperor Lothair I. On his father's
+[[Lorraine]], was the second son of the emperor Lothair I. On his father's
 death in 855, he received for his kingdom a district lying west of the
-Rhine, between the North Sea and the Jura mountains, which was called
+Rhine, between the North Sea and the [[Jura]] mountains, which was called
 _Regnum Lotharii_ and early in the 10th century became known as
 Lotharingia or Lorraine. On the death of his brother Charles in 863 he
 added some lands south of the Jura to this inheritance, but, except for
 a few feeble expeditions against the Danish pirates, he seems to have
 done little for its government or its defence. The reign was chiefly
 occupied by efforts on the part of Lothair to obtain a divorce from his
-wife Teutberga, a sister of Hucbert, abbot of St Maurice (d. 864); and
+wife Teutberga, a sister of Hucbert, abbot of St [[Maurice]] (d. 864); and
 his relations with his uncles, Charles the Bald and Louis the German,
 were influenced by his desire to obtain their support to this plan.
 Although quarrels and reconciliations between the three kings followed
@@ -34,17 +34,17 @@ however, either from inclination or compulsion, now expressed her desire
 for a divorce, and Lothair went to Italy to obtain the assent of the new
 pope Adrian II. Placing a favourable interpretation upon the words of
 the pope, he had set out on the return journey, when he was seized with
-fever and died at Piacenza on the 8th of August 869. He left, by
-Waldrada, a son Hugo who was declared illegitimate, and his kingdom was
+[[Fever|fever]] and died at Piacenza on the 8th of August 869. He left, by
+Waldrada, a son [[Hugo]] who was declared illegitimate, and his kingdom was
 divided between Charles the Bald and Louis the German.
 
-  See Hincmar, "Opusculum de divortio Lotharii regis et Tetbergae
+  See [[Hincmar]], "Opusculum de divortio Lotharii regis et Tetbergae
   reginae," in _Cursus completus patrologiae_, tome cxxv., edited by J.
   P. Migne (Paris, 1857-1879); M. Sdralek, _Hinkmars von Rheims
   Kanonistisches Gutachten über die Ehescheidung des Königs Lothar II._
-  (Freiburg, 1881); E. Dümmler, _Geschichte des ostfränkischen Reiches_
+  ([[Freiburg]], 1881); E. Dümmler, _Geschichte des ostfränkischen Reiches_
   (Leipzig, 1887-1888); and E. Mühlbacher, _Die Regenten des
-  Kaiserreichs unter den Karolingern_ (Innsbruck, 1881).
+  Kaiserreichs unter den Karolingern_ ([[Innsbruck]], 1881).
 
 ## See also
 

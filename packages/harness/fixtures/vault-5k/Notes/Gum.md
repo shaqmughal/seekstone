@@ -34,11 +34,11 @@ quite soluble in water.
   nitric acid changes it into mucic, saccharic, tartaric and oxalic
   acids. Under the influence of yeast it does not enter into the
   alcoholic fermentation, but M. P. E. Berthelot, by digesting with
-  chalk and cheese, obtained from it 12% of its weight of alcohol, along
+  chalk and [[Cheese|cheese]], obtained from it 12% of its weight of alcohol, along
   with calcium lactate, but no appreciable quantity of sugar. Gum arabic
   may be regarded as a potassium and calcium salt of gummic or arabic
-  acid. T. Graham (_Chemical and Physical Researches_) recommended
-  dialysis as the best mode of preparing gummic acid, and stated that
+  acid. T. [[Graham]] (_Chemical and Physical Researches_) recommended
+  [[Dialysis|dialysis]] as the best mode of preparing gummic acid, and stated that
   the power of gum to penetrate the parchment septum is 400 times less
   than that of sodium chloride, and, further, that by mixing the gum
   with substances of the crystalloid class the diffusibility is lowered,
@@ -46,10 +46,10 @@ quite soluble in water.
   with hydrochloric acid before dialysing, to set free the gummic acid.
   By adding alcohol to the solution, the acid is precipitated as a white
   amorphous mass, which becomes glassy at 100 deg. Its formula is
-  (C6H10O5)2H2O, and it forms compounds with nearly all bases which are
+  (C6H10O5)2H2O, and it forms [[Compound|compounds]] with nearly all bases which are
   easily soluble in water. Gummic acid reddens litmus, its reaction
   being about equal to carbonic acid. When solutions of gum arabic and
-  gelatin are mixed, oily drops of a compound of the two are
+  [[Gelatin|gelatin]] are mixed, oily drops of a compound of the two are
   precipitated, which on standing form a nearly colourless jelly,
   melting at 25 deg. C., or by the heat of the hand. This substance can
   be washed without decomposition. Gummic acid is soluble in water; when
@@ -74,13 +74,13 @@ finishing to stiffen the fibres, and in calico-printing. For labels,
 cracking.
 
 Gum senegal, a variety of gum arabic produced by _Acacia Verek_, occurs
-in pieces generally rounded, of the size of a pigeon's egg, and of a
+in pieces generally rounded, of the size of a pigeon's [[Egg|egg]], and of a
 reddish or yellow colour, and specific gravity 1.436. It gives with
 water a somewhat stronger mucilage than gum arabic, from which it is
 distinguished by its clear interior, fewer cracks and greater toughness.
 It is imported from the river Gambia, and from Senegal and Bathurst.
 
-Chagual gum, a variety brought from Santiago, Chile, resembles gum
+Chagual gum, a variety brought from Santiago, [[Chile]], resembles gum
 senegal. About 75% is soluble in water. Its solution is not thickened by
 borax, and is precipitated by neutral lead acetate; and dilute sulphuric
 acid converts it into _d_-glucose.
@@ -109,10 +109,10 @@ favourable for its production.
   gelatinoid mass with water, but by continued boiling is rendered
   soluble.
 
-Gum tragacanth is used in calico-printing as a thickener of colours and
+Gum tragacanth is used in calico-printing as a thickener of [[Colours|colours]] and
 mordants; in medicine as a demulcent and vehicle for insoluble powders,
 and as an excipient in pills; and for setting and mending beetles and
-other insect specimens. It is medicinally superior to gum acacia, as it
+other [[Insect|insect]] specimens. It is medicinally superior to gum acacia, as it
 does not undergo acetous fermentation. The best pharmacopeial
 preparation is the _Mucilago Tragacanthae_. The compound powder is a
 useless preparation, as the starch it contains is very liable to

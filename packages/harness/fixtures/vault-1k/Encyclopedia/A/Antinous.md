@@ -11,7 +11,7 @@ him in all parts of the empire, but he was raised to the rank of the
 gods, temples were built for his worship in Bithynia, Mantineia in
 Arcadia, and Athens, festivals celebrated in his honour and oracles
 delivered in his name. The city of Antinoopolis was founded on the ruins
-of Besa where he died (Dio Cassius lix. 11; Spartianus, _Hadrian_). A
+of Besa where he died (Dio [[Cassius]] lix. 11; Spartianus, _Hadrian_). A
 number of statues, busts, gems and coins represented Antinous as the
 ideal type of youthful beauty, often with the attributes of some special
 god. We still possess a colossal bust in the Vatican, a bust in the
@@ -144,7 +144,7 @@ Alexandria could ever be, thanks to the isolated position of Egypt. To a
 certain extent they tried to make it an eastern Rome. Caesar visited it
 in 47 B.C., and confirmed its freedom. A great temple to Jupiter
 Capitolinus rose on Silpius, probably at the instance of Octavian, whose
-cause the city had espoused. A forum of Roman type was laid out.
+cause the city had espoused. A [[Forum|forum]] of Roman type was laid out.
 Tiberius built two long colonnades on the south towards Silpius. Agrippa
 and Tiberius enlarged the theatre, and Trajan finished their work.
 Antoninus Pius paved the great east to west artery with granite. A
@@ -217,7 +217,7 @@ figure, with Orontes as a youth issuing from under her feet.
 
 ANTAKIA, the modern town, is still of considerable importance. Pop.
 about 25,000, including Ansarieh, Jews, and a large body of Christians
-of several denominations about 8000 strong. Though superseded by Aleppo
+of several [[Denomination|denominations]] about 8000 strong. Though superseded by Aleppo
 (q.v.) as capital of N. Syria, it is still the centre of a large
 district, growing in wealth and productiveness with the draining of its
 central lake, undertaken by a French company. The principal cultures are
@@ -264,7 +264,7 @@ equal rank; re-trial may take place only before that authority to whom
 appeal regularly lies (see canons 3, 4, 6). Without due invitation, a
 bishop may not ordain, or in any other way interfere with affairs lying
 outside his proper territory; nor may he appoint his own successor.
-Penalties are set on the refusal to celebrate Easter in accordance with
+Penalties are set on the refusal to celebrate [[Easter]] in accordance with
 the Nicene decree, as well as on leaving a church before the service of
 the Eucharist is completed. The numerous objections made by eminent
 scholars in past centuries to the ascription of these twenty-five canons

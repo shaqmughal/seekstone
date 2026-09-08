@@ -1,7 +1,7 @@
 # Laguna
 
 LAGUNA, or LA LAGUNA, an episcopal city and formerly the capital of the
-island of Teneriffe, in the Spanish archipelago of the Canary Islands.
+island of Teneriffe, in the Spanish archipelago of the [[Canary Islands]].
 Pop. (1900) 13,074. Laguna is 4 m. N. by W. of Santa Cruz, in a plain
 1800 ft. above sea-level, surrounded by mountains. Snow is unknown here,
 and the mean annual temperature exceeds 63° F.; but the rainfall is very

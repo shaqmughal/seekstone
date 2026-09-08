@@ -12,16 +12,16 @@ DOBSON, HENRY AUSTIN (1840-   ), English poet and man of letters, was
 born at Plymouth on the 18th of January 1840, being the eldest son of
 George Clarisse Dobson, a civil engineer, and on his grandmother's side
 of French descent. When he was about eight years old the family moved to
-Holyhead, and his first school was at Beaumaris, in the Isle of
-Anglesea. He was afterwards educated at Coventry, and the Gymnase,
+Holyhead, and his first school was at [[Beaumaris]], in the Isle of
+Anglesea. He was afterwards educated at [[Coventry]], and the Gymnase,
 Strassburg, whence he returned at the age of sixteen with the intention
 of becoming a civil engineer. He had a taste for art, and in his earlier
 years at the office continued to study it at South Kensington, at his
 leisure, but without definite ambition. In December 1856 he entered the
 Board of Trade, gradually rising to a principalship in the harbour
 department, from which he withdrew in the autumn of 1901. He married in
-1868 Frances Mary, daughter of Nathaniel Beardmore of Broxbourne, Herts,
-and settled at Ealing. His official career was industrious though
+1868 [[Franc|Frances]] Mary, daughter of Nathaniel Beardmore of Broxbourne, Herts,
+and settled at [[Ealing]]. His official career was industrious though
 uneventful, but as poet and biographer he stands among the most
 distinguished of his time. The student of Mr Austin Dobson's work will
 be struck at once by the fact that it contains nothing immature: there
@@ -31,8 +31,8 @@ some of his earliest known pieces remain among his best. It was not
 until 1868 that the appearance of _St Paul's_, a magazine edited by
 Anthony Trollope, afforded Mr Dobson an opportunity and an audience; and
 during the next six years he contributed to its pages some of his
-favourite poems, including "Tu Quoque," "A Gentleman of the Old School,"
-"A Dialogue from Plato," and "Une Marquise." Many of his poems in their
+favourite poems, including "Tu Quoque," "A [[Gentleman]] of the Old School,"
+"A [[Dialogue]] from Plato," and "Une Marquise." Many of his poems in their
 original form were illustrated--some, indeed, actually written to
 support illustrations. By the autumn of 1873 Mr Dobson had produced
 sufficient verse for a volume, and put forth his _Vignettes in Rhyme_,
@@ -47,20 +47,20 @@ enlargement of the borders of English prosody; and, since it was
 hopeless to follow him in his own line without necessary loss of vigour,
 the poets of the day were looking about for fresh forms and variations.
 It was early in 1876 that a small body of English poets lit upon the
-French forms of Theodore de Banville, Marot and Villon, and determined
+French forms of Theodore de [[Banville]], Marot and Villon, and determined
 to introduce them into English verse. Mr Austin Dobson, who had already
 made successful use of the triolet, was at the head of this movement,
 and in May 1876 he published in _The Prodigals_ the first original
 ballade written in English. This he followed by English versions of the
 rondel, rondeau and villanelle. An article in the _Cornhill Magazine_ by
-Mr Edmund Gosse, "A Plea for Certain Exotic Forms of Verse," appearing
+Mr Edmund [[Gosse]], "A Plea for Certain [[Exotic]] Forms of Verse," appearing
 in July 1877, simultaneously with Mr Dobson's second volume, _Proverbs
 in Porcelain_, drew the general eye to the possibilities and
 achievements of the movement. The experiment was extremely fortunate in
 its introduction. Mr Dobson is above all things natural, spontaneous and
 unaffected in poetic method; and in his hands a sheaf of metrical forms,
 essentially artificial and laborious, was made to assume the colour and
-bright profusion of a natural product. An air of pensive charm, of
+bright profusion of a natural product. An air of pensive [[Charm|charm]], of
 delicate sensibility, pervades the whole of these fresh revivals; and it
 is perhaps this personal touch of humanity which has given something
 like stability to one side of a movement otherwise transitory in
@@ -76,9 +76,9 @@ else in modern English poetry. In "Beau Brocade," indeed, the pictorial
 quality of his work, the dainty economy of eloquent touches, is at its
 very best: every couplet has its picture, and every picture is true and
 vivacious. The touch has often been likened to that of Randolph
-Caldecott, with which it has much in common; but Mr Dobson's humour is
+Caldecott, with which it has much in common; but Mr Dobson's [[Humour|humour]] is
 not so "rollicking," his portraiture not so broad, as that of the
-illustrator of "John Gilpin." The appeal is rather to the intellect, and
+illustrator of "John [[Gilpin]]." The appeal is rather to the intellect, and
 the touches of subdued pathos in the "Gentleman" and "Gentlewoman of the
 Old School" are addressed directly to the heart. We are in the 18th
 century, but see it through the glasses of to-day; and the soft

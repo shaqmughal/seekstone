@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Determinan
 # Determinant
 
 DETERMINANT, in mathematics, a function which presents itself in the
-solution of a system of simple equations.
+solution of a system of simple [[Equation|equations]].
 
 1. Considering the equations
 
@@ -74,7 +74,7 @@ viz. we have
 and so on, the terms being all + for a determinant of an odd order, but
 alternately + and - for a determinant of an even order.
 
-2. It is easy, by induction, to arrive at the general results:--
+2. It is easy, by [[Induction|induction]], to arrive at the general results:--
 
 A determinant of the order n is the sum of the 1.2.3...n products which
 can be formed with n elements out of n² elements arranged in the form of
@@ -86,7 +86,7 @@ manner the columns (or the lines) of the determinant, and then taking
 for the factors the n elements in the dexter diagonal. And we thence
 derive the rule for the signs, viz. considering the primitive
 arrangement of the columns as positive, then an arrangement obtained
-therefrom by a single interchange (inversion, or derangement) of two
+therefrom by a single interchange ([[Inversion|inversion]], or derangement) of two
 columns is regarded as negative; and so in general an arrangement is
 positive or negative according as it is derived from the primitive
 arrangement by an even or an odd number of interchanges. [This implies
@@ -137,7 +137,7 @@ altered when any two columns are interchanged; these properties
 completely determine the function, except as to a common factor which
 may multiply all the terms. If, to get rid of this arbitrary common
 factor, we assume that the product of the elements in the dexter
-diagonal has the coefficient +1, we have a complete definition of the
+diagonal has the coefficient +1, we have a complete [[Definition|definition]] of the
 determinant, and it is interesting to show how from these properties,
 assumed for the definition of the determinant, it at once appears that
 the determinant is a function serving for the solution of a system of
@@ -320,7 +320,7 @@ the fifth order; for the product written down the sign is obviously +.
 
 Observe that for a determinant of the n-th order, taking the
 decomposition to be 1 + (n - 1), we fall back upon the equations given
-at the commencement, in order to show the genesis of a determinant.
+at the commencement, in order to show the [[Genesis|genesis]] of a determinant.
 
 8. Any determinant |a , b | formed out of the elements of the original
                    |a', b'|
@@ -356,21 +356,21 @@ further developments of the theory of determinants see ALGEBRAIC FORMS.
   9. _History._--These functions were originally known as "resultants,"
   a name applied to them by Pierre Simon Laplace, but now replaced by
   the title "determinants," a name first applied to certain forms of
-  them by Carl Friedrich Gauss. The germ of the theory of determinants
+  them by Carl [[Friedrich]] [[Gauss]]. The germ of the theory of determinants
   is to be found in the writings of Gottfried Wilhelm Leibnitz (1693),
   who incidentally discovered certain properties when reducing the
   eliminant of a system of linear equations. Gabriel Cramer, in a note
-  to his _Analyse des lignes courbes algébriques_ (1750), gave the rule
+  to his _Analyse des [[Ligne|lignes]] courbes algébriques_ (1750), gave the rule
   which establishes the sign of a product as _plus_ or _minus_ according
   as the number of displacements from the typical form has been even or
   odd. Determinants were also employed by Étienne Bezout in 1764, but
   the first connected account of these functions was published in 1772
   by Charles Auguste Vandermonde. Laplace developed a theorem of
   Vandermonde for the expansion of a determinant, and in 1773 Joseph
-  Louis Lagrange, in his memoir on _Pyramids_, used determinants of the
+  Louis [[Lagrange]], in his memoir on _Pyramids_, used determinants of the
   third order, and proved that the square of a determinant was also a
   determinant. Although he obtained results now identified with
-  determinants, Lagrange did not discuss these functions systematically.
+  determinants, Lagrange did not [[Discus|discuss]] these functions systematically.
   In 1801 Gauss published his _Disquisitiones arithmeticae_, which,
   although written in an obscure form, gave a new impetus to
   investigations on this and kindred subjects. To Gauss is due the
@@ -379,21 +379,21 @@ further developments of the theory of determinants see ALGEBRAIC FORMS.
   formulation of the general theory is due to Augustin Louis Cauchy,
   whose work was the forerunner of the brilliant discoveries made in the
   following decades by Hoëné-Wronski and J. Binet in France, Carl Gustav
-  Jacobi in Germany, and James Joseph Sylvester and Arthur Cayley in
+  [[Jacobi]] in Germany, and James Joseph Sylvester and Arthur Cayley in
   England. Jacobi's researches were published in _Crelle's Journal_
   (1826-1841). In these papers the subject was recast and enriched by
   new and important theorems, through which the name of Jacobi is
   indissolubly associated with this branch of science. The far-reaching
   discoveries of Sylvester and Cayley rank as one of the most important
-  developments of pure mathematics. Numerous new fields were opened up,
+  developments of pure mathematics. Numerous new [[Fields|fields]] were opened up,
   and have been diligently explored by many mathematicians.
   Skew-determinants were studied by Cayley; axisymmetric-determinants by
-  Jacobi, V. A. Lebesque, Sylvester and O. Hesse, and centro-symmetric
+  Jacobi, V. A. Lebesque, Sylvester and O. [[Hesse]], and centro-symmetric
   determinants by W. R. F. Scott and G. Zehfuss. Continuants have been
   discussed by Sylvester; alternants by Cauchy, Jacobi, N. Trudi, H.
   Nagelbach and G. Garbieri; circulants by E. Catalan, W. Spottiswoode
   and J. W. L. Glaisher, and Wronskians by E. B. Christoffel and G.
-  Frobenius. Determinants composed of binomial coefficients have been
+  Frobenius. Determinants composed of [[Binomial|binomial]] coefficients have been
   studied by V. von Zeipel; the expression of definite integrals as
   determinants by A. Tissot and A. Enneper, and the expression of
   continued fractions as determinants by Jacobi, V. Nachreiner, S.

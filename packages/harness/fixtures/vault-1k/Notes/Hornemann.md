@@ -9,7 +9,7 @@ tags: [agriculture, science]
 # Hornemann
 
 HORNEMANN, FREDERICK (fl. 1796-1800), German traveller in Africa, was
-born at Hildesheim. He was a young man when, early in 1796, he offered
+born at [[Hildesheim]]. He was a young man when, early in 1796, he offered
 his services to the African Association of London as an explorer in
 Africa. By the association he was sent to Gottingen University to study
 Arabic and otherwise prepare for an expedition into the unknown regions

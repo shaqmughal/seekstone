@@ -26,7 +26,7 @@ Indus valley, the Salt Range, and the range of Suliman, which were first
 conceded to them by Ahmad Shah. Bar Durani includes the Yusafzai, Utman
 Khel, Tarkanis, Mohmands, Afridis, Orakzais and Shinwaris, as well as
 the Pathan tribes of the plains of Peshawar and those of Bangash and
-Khattak, although the derivation of some of these tribes from the true
+[[Khattak]], although the derivation of some of these tribes from the true
 Durani stock is doubtful.
 
 ## See also

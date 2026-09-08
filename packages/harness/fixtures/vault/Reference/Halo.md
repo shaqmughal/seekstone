@@ -2,14 +2,14 @@
 
 HALO, a word derived from the Gr. [Greek: halos], a threshing-floor, and
 afterwards applied to denote the disk of the sun or moon, probably on
-account of the circular path traced out by the oxen threshing the corn.
+account of the circular path traced out by the oxen threshing the [[Corn|corn]].
 It was thence applied to denote any luminous ring, such as that viewed
 around the sun or moon, or portrayed about the heads of saints.
 
 In physical science, a halo is a luminous circle, surrounding the sun or
-moon, with various auxiliary phenomena, and formed by the reflection and
+moon, with various [[Auxiliary|auxiliary]] phenomena, and formed by the reflection and
 refraction of light by ice-crystals suspended in the atmosphere. The
-optical phenomena produced by atmospheric water and ice may be divided
+optical phenomena produced by atmospheric water and [[Ice|ice]] may be divided
 into two classes, according to the relative position of the luminous
 ring and the source of light. In the first class we have _halos_, and
 _coronae_, or "glories," which encircle the luminary; the second class
@@ -31,10 +31,10 @@ appearance as viewed from the zenith; but it is only in exceptional
 circumstances that all the parts are seen. Encircling the sun or moon
 (S), there are two circles, known as the inner halo I, and the outer
 halo O, having radii of about 22 deg. and 46 deg., and exhibiting the
-colours of the spectrum in a confused manner, the only decided tint
+[[Colours|colours]] of the spectrum in a confused manner, the only decided tint
 being the red on the inside. Passing through the luminary and parallel
-to the horizon, there is a white luminous circle, the _parhelic circle_
-(P), on which a number of images of the luminary appear. The most
+to the [[Horizon|horizon]], there is a white luminous circle, the _parhelic circle_
+(P), on which a number of [[Image|images]] of the luminary appear. The most
 brilliant are situated at the intersections of the inner halo and the
 parhelic circle; these are known as _parhelia_ (denoted by the letter p
 in the figures) (from the Gr. [Greek: para], beside, and [Greek:
@@ -44,7 +44,7 @@ _paraselenae_ (from [Greek: para] and [Greek: selene], the moon) or
 of the outer halo. The parhelia are most brilliant when the sun is near
 the horizon. As the sun rises, they pass a little beyond the halo and
 exhibit flaming tails. The other images on the parhelic circle are the
-_paranthelia_ (q) and the _anthelion_ (a) (from the Greek [Greek: anti],
+_paranthelia_ (q) and the _[[Anthelion|anthelion]]_ (a) (from the Greek [Greek: anti],
 opposite, and [Greek: helios], the sun). The former are situated at from
 90 deg. to 140 deg. from the sun; the latter is a white patch of light
 situated at the anti-solar point and often exceeding in size the
@@ -58,10 +58,10 @@ form a quasi-elliptic halo.
 
 The physical explanation of halos originated with Rene Descartes, who
 ascribed their formation to the presence of ice-crystals in the
-atmosphere. This theory was adopted by Edme Mariotte, Sir Isaac Newton
-and Thomas Young; and, although certain of their assumptions were
+atmosphere. This theory was adopted by Edme [[Mariotte]], Sir [[Isaac]] Newton
+and Thomas Young; and, although certain of their [[Assumption|assumptions]] were
 somewhat arbitrary, yet the general validity of the theory has been
-demonstrated by the researches of J. G. Galle and A. Bravais. The memoir
+demonstrated by the researches of J. G. [[Galle]] and A. Bravais. The memoir
 of the last-named, published in the _Journal de l'Ecole royale
 polytechnique_ for 1847 (xviii., 1-270), ranks as a classic on the
 subject; it is replete with examples and illustrations, and discusses
@@ -82,7 +82,7 @@ about 22 deg. Since the minimum deviation is least for the least
 refrangible rays, it follows that the red rays will be the least
 refracted, and the violet the more refracted, and therefore the halo
 will be coloured red on the inside. Similarly, as explained by Henry
-Cavendish, the halo of 46 deg. is due to refraction by faces inclined at
+[[Cavendish]], the halo of 46 deg. is due to refraction by faces inclined at
 90 deg. The impurity of the colours (due partly to the sun's diameter,
 but still more to oblique refraction) is more marked in halos than in
 rainbows; in fact, only the red is at all pure, and as a rule, only a
@@ -156,12 +156,12 @@ image on the parhelic circle opposite the sun.
 
 HALOGENS. The word halogen is derived from the Greek [Greek: hals]
 (sea-salt) and [Greek: gennan] (to produce), and consequently means the
-sea-salt producer. The term is applied to the four elements fluorine,
-chlorine, bromine and iodine, on account of the great similarity of
+sea-salt producer. The term is applied to the four elements [[Fluorine|fluorine]],
+[[Chlorine|chlorine]], bromine and iodine, on account of the great similarity of
 their sodium salts to ordinary sea-salt. These four elements show a
 great resemblance to one another in their general chemical behaviour,
 and in that of their compounds, whilst their physical properties show a
-gradual transition. Thus, as the atomic weight increases, the state of
+[[Gradual|gradual]] transition. Thus, as the atomic weight increases, the state of
 aggregation changes from that of a gas in the case of fluorine and
 chlorine, to that of a liquid (bromine) and finally to that of the solid
 (iodine); at the same time the melting and boiling points rise with

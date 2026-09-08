@@ -11,7 +11,7 @@ Sepolcro, where he kept a school of design; among his many pupils of
 note may be mentioned Gherardi and Vecchi. His works, which are to be
 found at Urbino, at Perugia, at Pesaro and at Gubbio, are fine examples
 of the Roman school of Raphael. The best are a painting of the Almighty
-supported by angels, a Resurrection and an Assumption, all preserved in
+supported by angels, a Resurrection and an [[Assumption]], all preserved in
 churches at Borgo San Sepolcro.
 
 ## See also

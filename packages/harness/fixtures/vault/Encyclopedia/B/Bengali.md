@@ -2,15 +2,15 @@
 
 BENGALI, with ORIYA and ASSAMESE, three of the four forms of speech
 which compose the Eastern Group of the Indo-Aryan Languages (q.v.). This
-group includes all the Aryan languages spoken in India east of the
-longitude of Benares, and its members are the following:--
+group includes all the [[Aryan]] languages spoken in India east of the
+longitude of [[Benares]], and its members are the following:--
 
             Number of speakers in
              British India, 1901.
   Bengali        44,624,048
   Oriya           9,687,429
   Assamese        1,350,846
-  Bihari         34,579,844
+  [[Bihari]]         34,579,844
                  ----------
      Total       90,242,167
 
@@ -23,13 +23,13 @@ LANGUAGES and PRAKRIT.
 
   Language.
 
-Bengali is spoken in the province of Bengal proper, i.e. in, and on both
-sides of the delta of the Ganges, and also in the Eastern Bengal
-portion of the province of Eastern Bengal and Assam. The name "Bengali"
+Bengali is spoken in the province of [[Bengal]] proper, i.e. in, and on both
+sides of the [[Delta|delta]] of the [[Ganges]], and also in the Eastern Bengal
+portion of the province of [[Eastern Bengal And Assam|Eastern Bengal and Assam]]. The name "Bengali"
 is an English word, derived from the English word "Bengal." Natives call
 the language _Banga-Bhasa_, or the language of Banga, i.e. "Bengal."
 "Oriya" is the native name for the language of Odra or Orissa. Assamese,
-again an English word, is spoken in the Assam Valley. Its native name is
+again an English word, is spoken in the [[Assam]] Valley. Its native name is
 _Asamiya_, pronounced _Ohamiya_. All these languages have alphabets
 derived from early forms of the well-known Nagari character of northern
 India. That of Bengali dates from about the 11th century A.D. It is a
@@ -39,17 +39,17 @@ character to represent the sound of _w_, which has to be expressed in
 the former language in a very awkward fashion. In Orissa, till lately,
 writing was done on a talipot palm-leaf, on which the letters were
 scratched with an iron stylus. In such circumstances straight lines
-would tend to split the leaf, and accordingly the alphabet received a
+would tend to split the [[Leaf|leaf]], and accordingly the alphabet received a
 peculiar curved appearance typical of it and of one or two other South
 Indian methods of writing.
 
 The three languages are all the immediate descendants of Magadhi Prakrit
-(see PRAKRIT), the headquarters of which were in south Behar, near the
+(see PRAKRIT), the headquarters of which were in south [[Behar]], near the
 modern city of Patna. From here it spread in three lines--southwards,
 where it developed into Oriya; south-eastwards into Bengal proper, where
 it became Bengali; and eastwards, through Northern Bengal, into Assam,
 where it became Assamese. It thus appears that the language of Northern
-Bengal, though usually and conveniently treated as a dialect of Bengali,
+Bengal, though usually and conveniently treated as a [[Dialect|dialect]] of Bengali,
 is not so in reality, but is a connecting link between Assamese and
 Bihari, the language of Behar. It is noteworthy that Northern Bengali
 and Assamese often agree in their grammar with Oriya, as against
@@ -63,16 +63,16 @@ amongst which we may mention a tendency to disaspiration, the
 pronunciation of _c_ as _ts_, of _ch_ as _s_, and of _j_ as _z_. In the
 northern part of the tract a medial _r_ is often elided, and in the
 extreme east there is a broader pronunciation of the vowel _a_, like
-that in the English word "ball," _k_ is sounded like the _ch_ in "loch,"
+that in the English word "[[Ball|ball]]," _k_ is sounded like the _ch_ in "[[Loch|loch]],"
 and both _c_ and _ch_ are pronounced like _s_. The letter _p_ is often
 sounded like _w_, and _s_ like _h_, which again, when initial, is
 dropped. The distinction between cerebral and dental letters is lost, so
 that the words _ath_ and _sat_ are both pronounced _'at_. In the
-south-east, near Chittagong, corruption has gone even further, and the
+south-east, near [[Chittagong]], corruption has gone even further, and the
 local dialect, which is practically a new language, is unintelligible to
 a man from Western Bengal. Throughout the eastern districts there is a
 strong tendency to epenthesis, e.g. _kali_ is pronounced _kail_. A more
-important dialectic difference in Bengali is that between the literary
+important [[Dialectic|dialectic]] difference in Bengali is that between the literary
 speech and the vernacular. The literary vocabulary is highly
 Sanskritized, so much so that it is not understood by any native of
 Bengal who has not received special instruction in it. Its grammar
@@ -114,7 +114,7 @@ are pronounced colloquially.
   is as though a French writer wrote _sicca_ when he wished the word
   _seche_ to be pronounced. Similarly, the Bengali word for the goddess
   of Fortune is _Lakkhi_, but in books this is always written in the
-  Skr. form _Laksmi_, although no Bengali would dream of saying anything
+  Skr. form _Laksmi_, although no Bengali would [[Dream|dream]] of saying anything
   but _Lakkhi_, even when reciting a purple passage _ore rotunda_. In
   fact, the vocal organs of most Bengalis are incapable of uttering the
   sound connoted by the letters _Laksmi_. The result is that the
@@ -125,7 +125,7 @@ are pronounced colloquially.
   mainly _tadbhava_. In Eastern Bengal, where Mussulmans predominate,
   there is a free use of words borrowed from Arabic and Persian. Owing
   to geographical and historical circumstances, Oriya is to some extent
-  infected by Telugu and Marathi idioms, while the Tibeto-Burman
+  infected by Telugu and [[Marathi]] [[Idiom|idioms]], while the Tibeto-Burman
   dialects and Ahom have left their marks upon Assamese.
 
   _Phonetics._--The three forms of speech agree in sounding the vowel
@@ -139,7 +139,7 @@ are pronounced colloquially.
   pronounced. The sound of such a final _a_ is in all three languages
   the same as that of the second _o_ in "promote"; thus, the Bg. _bara_
   is pronounced _boro_. In Bg. a medial _a_ sometimes has the sound of
-  the first _o_ in "promote," as, for instance, in the word _ban_
+  the first _o_ in "promote," as, for instance, in the word _[[Ban|ban]]_
   (_bon_), a forest. In A. and Eastern Bg. a medial _a_ is often sounded
   like the _a_ in "ball," and is then transliterated _a_. _A_ has
   preserved as a rule its proper sound of _a_ in "father." The
@@ -155,7 +155,7 @@ are pronounced colloquially.
   is always short. The syllable _ya_ preceded by a consonant has in Bg.
   the sound of a short _e_, so that _vyakti_ is pronounced _bekti_.
   Moreover, in the same language the letter _e_ is often pronounced like
-  the _a_ in the German _Mann_, a sound here phonetically represented by
+  the _a_ in the German _[[Mann]]_, a sound here phonetically represented by
   _a_; thus, _dekha_ is sometimes pronounced _dekho_, and sometimes
   _dakho_ or even _dako_. The syllable _ya_, when following a consonant,
   also has this _a_-sound, so that the English word "bank" is written
@@ -186,7 +186,7 @@ are pronounced colloquially.
   Tibeto-Burmans. In A. _r_ and _rh_ become _r_ and _rh_ respectively.
   In Bg. and A. _n_ has universally become _n_, but is properly
   pronounced in O. _Y_ is usually pronounced as _j_, unless it is a
-  merely euphonic bridge to avoid a hiatus between two vowels, as in
+  merely euphonic bridge to avoid a [[Hiatus|hiatus]] between two vowels, as in
   _kariya_ for _kari-a_. In A. the resultant _j_ has the usual
   _z_-sound. When _y_ is the final element of a conjunct consonant, in
   Bg. (except in the south-east) it is very faintly pronounced. In
@@ -199,7 +199,7 @@ are pronounced colloquially.
   circumstances becomes _w_; thus, _smarana_ becomes Bg. _ssoron_, A.
   _sworon_, and _dvara_ becomes Bg. and A. _ddara_. _R_ is generally
   pronounced correctly, except that when a member of a compound it is
-  often not pronounced in colloquial Bg.; thus _karma_ (_kommo_). In
+  often not pronounced in colloquial Bg.; thus _[[Karma|karma]]_ (_kommo_). In
   North-eastern Bengali and in A. a medial _r_ is commonly dropped;
   thus, Bg. _karilam_ (_kailam_), A. _kari_ (_kai_).[1] The vulgar
   commonly confound _n_ and _l_. O. has retained the old cerebral _l_ of
@@ -217,7 +217,7 @@ are pronounced colloquially.
   is everywhere treated as if it were _khy_, In colloquial Bg. there is
   a tendency to disaspiration; thus _dekha_ is pronounced _dako_ and the
   Pr. _hattha-_, a hand, becomes _hat_, not _hath_. In Eastern Bg. there
-  is a cockney tendency to drop _h_, so that we have _'at_, a hand, and
+  is a [[Cockney|cockney]] tendency to drop _h_, so that we have _'at_, a hand, and
   _kailam_ for _kahilam_, I said.
 
   The above remarks show that O. has, on the whole, preserved the
@@ -226,7 +226,7 @@ are pronounced colloquially.
   _Declension._--The distinction of gender has disappeared from all
   three languages. Sex is distinguished either by the use of qualifying
   terms, such as "male" or "female," or by the employment of different
-  words, as in the case of our "bull" and "cow." The plural number is
+  words, as in the case of our "[[Bull|bull]]" and "cow." The plural number is
   almost always denoted by the addition of some word meaning "many" or
   "collection" to the singular, although we sometimes find a true plural
   used in the case of nouns denoting human beings. Case was originally
@@ -299,7 +299,7 @@ are pronounced colloquially.
   old singular forms have survived in a non-honorific sense, but they
   are rarely employed in polite language except in the third person. The
   old plural forms are generally employed for the singular also. The
-  usual base for the verb substantive, when employed as an auxiliary, is
+  usual base for the verb substantive, when employed as an [[Auxiliary|auxiliary]], is
   _ach_, be, derived from the Skr. _rcchati_. O., however, forms its
   past from the base _tha_ (Skr. _sthita-_), and in South-western Bengal
   the base _tha_, derived from the same original, is used for both
@@ -336,7 +336,7 @@ are pronounced colloquially.
     | I do                       | karn    | kari     | kori           | karo     |
     | Thou doest                 | kara    | kara     | koro           | kara     |
     | He (non-honorific) does    | kare    | kare     | kore           | kare     |
-    | He (honorific) does        | karanti | karen    | koren          | kare     |
+    | He (honorific) does        | karanti | [[Karen|karen]]    | koren          | kare     |
     | I did                      | karilu  | karilam  | kollum, korlum | karilo   |
     | Thou didst                 | karila  | karile   | kolle, korle   | karila   |
     | He (non-honorific) did     | karila  | karila   | kollo, korlo   | karile   |
@@ -358,14 +358,14 @@ _Bengali Literature._--The oldest recognized writer in Bengali is the
 Vaishnava poet Candi Das, who flourished about the end of the 14th or
 the beginning of the 15th century. His language does not differ much
 from the Bengali of to-day. He founded a school of poets who wrote hymns
-in honour of Krishna, many of whom, in later times, became connected
+in honour of [[Krishna]], many of whom, in later times, became connected
 with the religious revival instituted by Caitanya in the early part of
 the 16th century. In the 15th century Kasi Ram translated the
 _Mahabharata_, and Krttibas Ojha the _Ramayana_ into the vernacular. The
 principal figure of the 17th century was Mukunda Ram who has left us two
 really admirable poems entitled _Candi_ and _Srimanta Saudagar_. Parts
-of the former have been translated by Professor Cowell into English
-verse, and both well deserve putting into an English dress. With Bharat
+of the former have been translated by Professor [[Cowell]] into English
+verse, and both well deserve putting into an English [[Dress|dress]]. With Bharat
 Candra, whose much admired but artificial Bidya Sundar appeared in the
 18th century, the list of old Bengali authors may be considered as
 closed. They wrote in genuine nervous Bengali, and the conspicuous
@@ -373,7 +373,7 @@ success of many of them shows how baseless is the contention of some
 native writers of the present day that modern literary Bengali needs the
 help of its huge imported Sanskrit vocabulary to express anything but
 the simplest ideas. This modern literary Bengali arose early in the 19th
-century, as a child of the revival of Sanskrit learning in Calcutta,
+century, as a child of the revival of Sanskrit learning in [[Calcutta]],
 under the influence of the college founded by the English in Fort
 William. Each decade it has become more and more the slave of Sanskrit.
 It has had some excellent writers, notably the late Bankim Candra, whose
@@ -426,9 +426,9 @@ time of Sankar Deb.
 
   The first Bengali grammar and dictionary in a European language was
   the _Vocabulario em Idioma Bengalla e Portuguez_ of Manoel da
-  Assumpcam (Lisbon, 1743). N.B. Halhed wrote the first Bengali grammar
+  Assumpcam ([[Lisbon]], 1743). N.B. Halhed wrote the first Bengali grammar
   in the English language (Hooghly, 1778), but the real father of
-  Bengali philology was the great missionary, William Carey (_Grammar_,
+  Bengali philology was the great missionary, William [[Carey]] (_Grammar_,
   Serampore, 1801; _Dictionary, ib_., 1825). W. Yates's _Grammar_, as
   edited and improved by T. Wenger (Calcutta, 1847) and others, is still
   on sale. It is entirely confined to the literary Bengali of the
@@ -456,7 +456,7 @@ time of Sankar Deb.
   For Oriya there are E. Hallam's (Calcutta, 1874), T. Maltby's
   (Calcutta, 1874) and J. Browne's (London, 1882) _Grammars_. The last
   two are in the Roman character. They are all mere sketches of the
-  language. Sutton's (Cuttack, 1841) is still the only _Dictionary_
+  language. Sutton's ([[Cuttack]], 1841) is still the only _Dictionary_
   which the present writer has found of any practical use. For Oriya
   literature, see App. IX. of Hunter's _Orissa_ (London, 1872), and
   Monmohan Chakravarti's "Notes on the Language and Literature of
@@ -473,7 +473,7 @@ time of Sankar Deb.
   work it was. It is now superseded by Hem Candra Barua's _Hema-kosa_
   (Shillong, 1900). For Assamese literature, see Ananda Ram Dhekial
   Phukan's _A Few Remarks on the Assamese Language_ (Sibsagar, 1855),
-  partly reprinted in the _Indian Antiquary_, vol. xxv. (1896), pp. 57
+  partly reprinted in the _Indian [[Antiquary]]_, vol. xxv. (1896), pp. 57
   ff.     (G. A. Gr.)
 
 

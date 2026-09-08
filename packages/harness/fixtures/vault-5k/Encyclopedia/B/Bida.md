@@ -15,7 +15,7 @@ considerable size. In 1909 it was connected by railway with Baro, 40 m.
 S.S.E., the river terminus of the Northern Nigeria railway. The
 inhabitants, mostly Hausa, carry on an extensive trade and are
 especially noted for their embossed brass and copper work. The Bida
-goblets, in which brass and copper are beautifully blended, are of
+[[Goblet|goblets]], in which brass and copper are beautifully blended, are of
 extremely elegant design. The town also boasts a glass factory. The
 preparation of indigo and the dyeing of cloths are other flourishing
 industries. The streets are planted with huge shade-trees, so that as

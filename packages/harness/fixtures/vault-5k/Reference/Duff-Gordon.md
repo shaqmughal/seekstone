@@ -2,7 +2,7 @@
 
 DUFF-GORDON, LUCIE (1821-1869), English woman of letters, daughter of
 John and Sarah Austin (q.v.), was born on the 24th of June 1821. Her
-chief playfellows as a child were her cousin, Henry Reeve, and John
+chief playfellows as a child were her [[Cousin|cousin]], Henry Reeve, and John
 Stuart Mill, who lived next door in Queen Square, London. In 1834 the
 Austins went to Boulogne, and at table d'hôte Lucie found herself next
 to Heinrich Heine. The poet and the little girl became fast friends, and
@@ -30,7 +30,7 @@ the German of Wilhelm Meinhold; and _Stella and Vanessa_ (1850) from the
 French of A.F.L. de Wailly. Her _Letters from the Cape_ (1862-1863)
 appeared in 1865; and in 1865 her _Letters from Egypt_, edited by her
 mother, attracted much attention. _Last Letters from Egypt_ (1875)
-contained a memoir by her daughter, Mrs Janet Ross. Lady Duff-Gordon won
+contained a memoir by her daughter, Mrs [[Janet]] Ross. Lady Duff-Gordon won
 the hearts of her Arab dependents and neighbours. She doctored their
 sick, taught their children, and sympathized with their sorrows.
 

@@ -10,7 +10,7 @@ id: 42-5
 DESCHAMPS, EUSTACHE, called MOREL (1346?-1406?), French poet, was born
 at Vertus in Champagne about 1346. He studied at Reims, where he is said
 to have received some lessons in the art of versification from Guillaume
-de Machaut, who is stated to have been his uncle. From Reims he
+de [[Machaut]], who is stated to have been his uncle. From Reims he
 proceeded about 1360 to the university of Orleans to study law and the
 seven liberal arts. He entered the king's service as royal messenger
 about 1367, and was sent on missions to Bohemia, Hungary and Moravia. In
@@ -39,9 +39,9 @@ and inveighs ceaselessly against the heavy taxes, the vices of the
 clergy and especially against those who enrich themselves at the expense
 of the people. The terrible ballad with the refrain "_Sà, de l'argent;
 sà, de l'argent_" is typical of his work. Deschamps excelled in the use
-of the ballade and the chant royal. In each of these forms he was the
+of the ballade and the [[Chant|chant]] royal. In each of these forms he was the
 greatest master of his time. In ballade form he expressed his regret for
-the death of Du Guesclin, who seems to have been the only man except his
+the death of [[Du Guesclin]], who seems to have been the only man except his
 patron, Charles V., for whom he ever felt any admiration. One of his
 ballades (No. 285) was sent with a copy of his works to Geoffrey
 Chaucer, whom he addresses with the words:--

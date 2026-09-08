@@ -11,13 +11,13 @@ LATITUDE (Lat. _latitudo_, _latus_, broad), a word meaning breadth or
 width, hence, figuratively, freedom from restriction, but more generally
 used in the geographical and astronomical sense here treated. The
 latitude of a point on the earth's surface is its angular distance from
-the equator, measured on the curved surface of the earth. The direct
+the [[Equator|equator]], measured on the curved surface of the earth. The direct
 measure of this distance being impracticable, it has to be determined by
 astronomical observations. As thus determined it is the angle between
 the direction of the plumb-line at the place and the plane of the
 equator. This is identical with the angle between the horizontal planes
 at the place and at the equator, and also with the elevation of the
-celestial pole above the horizon (see ASTRONOMY). Latitude thus
+celestial pole above the [[Horizon|horizon]] (see [[Astronomy|ASTRONOMY]]). Latitude thus
 determined by the plumb-line is termed _astronomical_. The _geocentric
 latitude_ of a place is the angle which the line from the earth's centre
 to the place makes with the plane of the equator. _Geographical
@@ -29,7 +29,7 @@ deviation of the plumb-line.
 
 The latitude of a celestial object is the angle which the line drawn
 from some fixed point of reference to the object makes with the plane of
-the ecliptic.
+the [[Ecliptic|ecliptic]].
 
 _Variability of Terrestrial Latitudes._--The latitude of a point on the
 earth's surface, as above defined, is measured from the equator. The
@@ -53,7 +53,7 @@ The result is a variability of terrestrial latitudes generally.
   continue to rotate around that axis for an indefinite time. But if,
   instead of rotating around PP, it rotates around some other axis, RR,
   making a small angle, POR, with the axis of figure PP; then it has
-  been known since the time of Euler that the axis of rotation RR, if
+  been known since the time of [[Euler]] that the axis of rotation RR, if
   referred to the spheroid regarded as fixed, will gradually rotate
   round the axis of figure PP in a period defined in the following
   way:--If we put C = the moment of momentum of the spheroid around the
@@ -91,7 +91,7 @@ about 2 : 3, resulting in an increase of the period by one-half, making
 it about 457 days. Thus this small flexibility is even greater than
 that necessary to the reconciliation of observation with theory, and the
 earth is shown to be more rigid than steel--a conclusion long since
-announced by Kelvin for other reasons.
+announced by [[Kelvin]] for other reasons.
 
 Chandler afterwards made an important addition to the subject by showing
 that the motion was represented by the superposition of two harmonic
@@ -122,7 +122,7 @@ to meteorological causes the motion in question is subject to annual
 changes. These changes arise from two causes--the one statical, the
 other dynamical.
 
-2. The statical causes are deposits of snow or ice slowly changing the
+2. The statical causes are deposits of snow or [[Ice|ice]] slowly changing the
 position of the pole of figure of the earth. For example, a deposit of
 snow in Siberia would bring the equator of figure of the earth a little
 nearer to Siberia and throw the pole a little way from it, while a
@@ -149,7 +149,7 @@ between Albrecht's numerical results and Chandler's formulae is
 generally less than 0.05´´.
 
 When the fluctuation in the position of the pole was fully confirmed,
-its importance in astronomy and geodesy led the International Geodetic
+its importance in astronomy and [[Geodesy|geodesy]] led the [[International]] Geodetic
 Association to establish a series of stations round the globe, as nearly
 as possible on the same parallel of latitude, for the purpose of
 observing the fluctuation with a greater degree of precision than could
@@ -157,8 +157,8 @@ be attained by the miscellaneous observations before available. The same
 stars were to be observed from month to month at each station with
 zenith-telescopes of similar approved construction. This secures a
 double observation of each component of the polar motion, from which
-most of the systematic errors are eliminated. The principal stations
-are: Carloforte, Italy; Mizusawa, Japan; Gaithersburg, Maryland; and
+most of the systematic [[Error|errors]] are eliminated. The principal stations
+are: Carloforte, Italy; Mizusawa, [[Japan]]; Gaithersburg, Maryland; and
 Ukiah, California, all nearly on the same parallel of latitude, 39° 8´.
 
 The fluctuations derived from this international work during the last

@@ -1,7 +1,7 @@
 # Arethas
 
 ARETHAS (c. 860-940), Byzantine theological writer and scholar,
-archbishop of Caesarea in Cappadocia, was born at Patrae. He was the
+archbishop of Caesarea in [[Cappadocia]], was born at Patrae. He was the
 author of a Greek commentary on the Apocalypse, avowedly based upon that
 of Andrew, his predecessor in the archbishopric. In spite of its
 author's modest estimate, Arethas's work is by no means a slavish

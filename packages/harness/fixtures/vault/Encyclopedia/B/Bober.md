@@ -16,7 +16,7 @@ romantic middle course begins, and after dashing through a deep ravine
 between the towns of Hirschberg and Lowenberg, it gains the plain. In
 its lower course it meanders through pleasant pastures, bogland and pine
 forests in succession, receives the waters of various mountain streams,
-passes close by Bunzlau and through Sagan, and finally, after a course
+passes close by [[Bunzlau]] and through Sagan, and finally, after a course
 of 160 m., joins the Oder at Crossen. Swollen by the melting of the
 winter snows and by heavy rains in the mountains, it is frequently a
 torrent, and is thus, except in the last few miles, unnavigable for

@@ -10,10 +10,10 @@ under the influence of J. A. Barbey d'Aurevilly and Louis Veuillot, the
 two most brilliant crusaders of the Church in the press, he started a
 newspaper of his own, _Le Croise_, in 1859; but it only lasted two
 years. He wrote, however, much in other papers. He had very bad health,
-suffering apparently from spinal or bone disease. But he was fortunate
-enough to meet with a wife, Zoe Berthier, who, ten years older than
+suffering apparently from spinal or [[Bone|bone]] disease. But he was fortunate
+enough to meet with a wife, Zoe [[Berthier]], who, ten years older than
 himself, and a friend for some years before their marriage, became his
-devoted nurse, and even brought upon herself abuse from gutter
+devoted nurse, and even brought upon herself abuse from [[Gutter|gutter]]
 journalists of the time for the care with which she guarded him. He died
 in 1885. Hello's work is somewhat varied in form but uniform in spirit.
 His best-known book, _Physionomie de saints_ (1875), which has been
@@ -22,10 +22,10 @@ display his qualities best. _Contes extraordinaires_, published not long
 before his death, is better and more original. But the real Hello is to
 be found in a series of philosophical and critical essays, from _Renan,
 l'Allemagne et l'atheisme_ (1861), through _L'Homme_ (1871) and _Les
-Plateaux de la balance_ (1880), perhaps his chief book, to the
+Plateaux de la [[Balance|balance]]_ (1880), perhaps his chief book, to the
 posthumously published _Le Siecle_. The peculiarity of his standpoint
 and the originality and vigour of his handling make his studies, of
-Shakespeare, Hugo and others, of abiding importance as literary
+Shakespeare, [[Hugo]] and others, of abiding importance as literary
 "triangulations," results of object, subject and point of view.
 
 ## See also

@@ -10,7 +10,7 @@ type: article
 LEMERY, NICOLAS (1645-1715), French chemist, was born at Rouen on the
 17th of November 1645. After learning pharmacy in his native town he
 became a pupil of C. Glaser's in Paris, and then went to Montpellier,
-where he began to lecture on chemistry. He next established a pharmacy
+where he began to lecture on [[Chemistry|chemistry]]. He next established a pharmacy
 in Paris, still continuing his lectures, but in 1683, being a Calvinist,
 he was obliged to retire to England. In the following year he returned
 to France, and turning Catholic in 1686 was able to reopen his shop and

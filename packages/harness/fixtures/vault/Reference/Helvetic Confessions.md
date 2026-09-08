@@ -9,10 +9,10 @@ id: 42-5346
 
 HELVETIC CONFESSIONS, the name of two documents expressing the common
 belief of the reformed churches of Switzerland. The first, known also as
-the Second Confession of Basel, was drawn up at that city in 1536 by
-Bullinger and Leo Jud of Zurich, Megander of Bern, Oswald Myconius and
-Grynaeus of Basel, Bucer and Capito of Strassburg, with other
-representatives from Schaffhausen, St Gall, Muhlhausen and Biel. The
+the Second Confession of [[Basel]], was drawn up at that city in 1536 by
+[[Bullinger]] and Leo Jud of Zurich, Megander of [[Bern]], Oswald Myconius and
+[[Grynaeus]] of Basel, [[Bucer]] and Capito of Strassburg, with other
+representatives from Schaffhausen, St [[Gall]], Muhlhausen and Biel. The
 first draft was in Latin and the Zurich delegates objected to its
 Lutheran phraseology.[1] Leo Jud's German translation was, however,
 accepted by all, and after Myconius and Grynaeus had modified the Latin
@@ -21,7 +21,7 @@ form, both versions were agreed to and adopted on the 26th of February
 
 The Second Helvetic Confession was written by Bullinger in 1562 and
 revised in 1564 as a private exercise. It came to the notice of the
-elector palatine Friedrich III., who had it translated into German and
+elector palatine [[Friedrich]] III., who had it translated into German and
 published. It gained a favourable hold on the Swiss churches, who had
 found the First Confession too short and too Lutheran. It was adopted by
 the Reformed Church not only throughout Switzerland but in Scotland
@@ -29,8 +29,8 @@ the Reformed Church not only throughout Switzerland but in Scotland
 Heidelberg Catechism is the most generally recognized Confession of the
 Reformed Church.
 
-  See L. Thomas, _La Confession helvetique_ (Geneva, 1853); P. Schaff,
-  _Creeds of Christendom_, i. 390-420, iii. 234-306; Muller, _Die
+  See L. Thomas, _La Confession helvetique_ ([[Geneva]], 1853); P. Schaff,
+  _[[Creeds]] of Christendom_, i. 390-420, iii. 234-306; Muller, _Die
   Bekenntnisschriften der reformierten Kirche_ (Leipzig, 1903).
 
 

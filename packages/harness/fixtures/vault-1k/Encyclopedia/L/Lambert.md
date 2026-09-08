@@ -153,7 +153,7 @@ Richard Cromwell, and took no part in the intrigues of the officers at
 Fleetwood's residence, Wallingford House. He was a member of the
 parliament which met in January 1659, and when it was dissolved in April
 under compulsion of Fleetwood and Desborough, he was restored to his
-commands. He headed the deputation to Lenthall in May inviting the
+commands. He headed the deputation to [[Lenthall]] in May inviting the
 return of the Rump, which led to the tame retirement of Richard Cromwell
 into obscurity; and he was appointed a member of the committee of safety
 and of the council of state. When the parliament, desirous of
@@ -180,12 +180,12 @@ suspense by Monk till his whole army fell from him and he returned to
 London almost alone. Monk marched to London unopposed. The "excluded"
 Presbyterian members were recalled. Lambert was sent to the Tower (March
 3rd, 1660), from which he escaped a month later. He tried to rekindle
-the civil war in favour of the Commonwealth, but was speedily recaptured
+the civil war in favour of the [[Commonwealth]], but was speedily recaptured
 and sent back to the Tower (April 24th). On the Restoration he was
 exempted from danger of life by an address of both Houses to the king,
 but the next parliament (1662) charged him with high treason.
 Thenceforward for the rest of his life Lambert remained in custody in
-Guernsey. He died in 1694.
+[[Guernsey]]. He died in 1694.
 
   Lambert would have left a better name in history if he had been a
   cavalier. His genial, ardent and excitable nature, easily raised and

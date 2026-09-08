@@ -7,10 +7,10 @@ type: note
 
 # Labiatae
 
-LABIATAE (i.e. "lipped," Lat. _labium_, lip), in botany, a natural order
-of seed-plants belonging to the series Tubiflorae of the dicotyledons,
+LABIATAE (i.e. "lipped," Lat. _labium_, [[Lip|lip]]), in botany, a natural order
+of seed-plants belonging to the series Tubiflorae of the [[Dicotyledons|dicotyledons]],
 and containing about 150 genera with 2800 species. The majority are
-annual or perennial herbs inhabiting the temperate zone, becoming
+annual or perennial [[Herb|herbs]] inhabiting the temperate zone, becoming
 shrubby in warmer climates. The stem is generally square in section and
 the simple exstipulate leaves are arranged in decussating pairs (i.e.
 each pair is in a plane at right angles to that of the pairs immediately
@@ -29,7 +29,7 @@ forming a raceme- or spike-like inflorescence as in _Mentha_ (fig. 2, 5)
 _Brunella_, &c.; the bracts are sometimes large and coloured as in
 _Monarda_, species of _Salvia_, &c., in the latter the apex of the stem
 is sometimes occupied with a cluster of sterile coloured bracts. The
-plan of the flower is remarkably uniform (fig. 1, 3); it is bisexual,
+plan of the [[Flower|flower]] is remarkably uniform (fig. 1, 3); it is bisexual,
 and zygomorphic in the median plane, with 5 sepals united to form a
 persistent cup-like calyx, 5 petals united to form a two-lipped gaping
 corolla, 4 stamens inserted on the corolla-tube, two of which, generally
@@ -45,7 +45,7 @@ calyx; the seed has a thin testa and the embryo almost or completely
 fills it. Although the general form and plan of arrangement of the
 flower is very uniform, there are wide variations in detail. Thus the
 calyx may be tubular, bell-shaped, or almost spherical, or straight or
-bent, and the length and form of the teeth or lobes varies also; it may
+bent, and the length and form of the teeth or [[Lobe|lobes]] varies also; it may
 be equally toothed as in mint (_Mentha_) (fig. 2, 3), and marjoram
 (_Origanum_), or two-lipped as in thyme (_Thymus_), _Lamium_ (fig. 1)
 and _Salvia_ (fig. 2, 1); the number of nerves affords useful characters
@@ -60,7 +60,7 @@ corolla by union of the two posterior teeth. Usually it is two-lipped,
 the upper lip being formed by the two posterior, the lower lip by the
 three anterior petals (see fig. 1, and fig. 2, 1, 6); the median lobe of
 the lower lip is generally most developed and forms a resting-place for
-the bee or other insect when probing the flower for honey, the upper lip
+the [[Bee|bee]] or other [[Insect|insect]] when probing the flower for honey, the upper lip
 shows great variety in form, often, as in _Lamium_ (fig. 1), _Stachys_,
 &c., it is arched forming a protection from rain for the stamens, or it
 may be flat as in thyme. In the tribe _Ocimoideae_ the four upper petals
@@ -91,10 +91,10 @@ insect's back. In the less common type, where the anterior part of the
 flower is more developed, as in the _Ocimoideae_, the stamens and style
 lie on the under lip and honey is secreted on the upper side of the
 hypogynous disk; the insect in probing the flower gets smeared with
-pollen on its belly and legs. Both types include brightly-coloured
+pollen on its belly and [[Leg|legs]]. Both types include brightly-coloured
 flowers with longer tubes adapted to the visits of butterflies and
 moths, as species of _Salvia_, _Stachys_, _Monarda_, &c.; some South
-American species of _Salvia_ are pollinated by humming-birds. In
+American species of _Salvia_ are pollinated by [[Humming-Bird|humming-birds]]. In
 _Mentha_ (fig. 2, 3), thyme, marjoram (_Origanum_), and allied genera,
 the flowers are nearly regular and the stamens spread beyond the
 corolla.
@@ -110,7 +110,7 @@ flowering shoot of same, reduced; 6, floral diagram of _Salvia_.]
 
 The persistent calyx encloses the ripe nutlets, and aids in their
 distribution in various ways, by means of winged spiny or hairy lobes or
-teeth; sometimes it forms a swollen bladder. A scanty endosperm is
+teeth; sometimes it forms a swollen [[Bladder|bladder]]. A scanty endosperm is
 sometimes present in the seed; the embryo is generally parallel to the
 fruit axis with a short inferior radicle and generally flat cotyledons.
 
@@ -123,7 +123,7 @@ fruit axis with a short inferior radicle and generally flat cotyledons.
   including also _M. piperita_ (peppermint) and _M. Pulegium_
   (pennyroyal); _Origanum vulgare_ (marjoram); _Thymus Serpyllum_
   (thyme); _Calamintha_ (calamint), including also _C. Clinopodium_
-  (wild basil) and _C. Acinos_ (basil thyme); _Salvia_ (sage), including
+  (wild [[Basil|basil]]) and _C. Acinos_ (basil thyme); _Salvia_ (sage), including
   _S. Verbenaca_ (clary); _Nepeta Cataria_ (catmint), _N. Glechoma_
   (ground-ivy); _Brunella_ (self-heal); _Scutellaria_ (skull-cap);
   _Stachys (woundwort); _S. Betonica_ is wood betony; _Galeopsis_
@@ -135,7 +135,7 @@ fruit axis with a short inferior radicle and generally flat cotyledons.
   several genera, e.g. _Ajuga_, _Teucrium_ and _Rosmarinus_, approach
   Verbenaceae in this respect, and in some genera of that order the
   style is more or less sunk between the ovary lobes. The
-  fruit-character indicates an affinity with Boraginaceae from which,
+  fruit-character indicates an affinity with [[Boraginaceae]] from which,
   however, they differ in habit and by characters of ovule and embryo.
 
   The presence of volatile oil renders many genera of economic use, such

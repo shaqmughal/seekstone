@@ -8,11 +8,11 @@ an excellent Greek scholar. His attack upon Voltaire's _Philosophie de
 l'historie_ (published under the name of l'Abbé Bazin) created
 considerable interest at the time. His archaeological and mythological
 _Mémoire sur Vénus_ (1775), which has been ranked with similar works of
-Heyne and Winckelmann, gained him admission to the Académie des
+[[Heyne]] and Winckelmann, gained him admission to the Académie des
 Inscriptions (1778). After the imperial university was founded, he was
 appointed professor of Greek literature (1809) with Boissonade as his
 assistant. He died on the 22nd of December 1812. Larcher's best work was
-his translation of Herodotus (1786, new ed. by L. Humbert, 1880) on the
+his translation of Herodotus (1786, new ed. by L. [[Humbert]], 1880) on the
 preparation of which he had spent fifteen years. The translation itself,
 though correct, is dull, but the commentary (translated into English,
 London, 1829, new ed. 1844, by W. D. Cooley) dealing with historical,

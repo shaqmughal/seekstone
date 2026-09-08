@@ -8,13 +8,13 @@ topic: fisheries-studies
 
 DRAKENSBERG (_Quathlamba_ or _Kahlamba_, i.e. "heaped up and jagged," of
 the natives), a mountain chain of S.E. Africa, running parallel to the
-coast from Basutoland to the Limpopo river--a distance of some 600 m.
+coast from [[Basutoland]] to the Limpopo river--a distance of some 600 m.
 The Drakensberg are the eastern part of the rampart which forms the edge
 of the inner tableland of South Africa. The sides of the mountains
 facing the sea are in general precipitous; on their inner face they
 slope more or less gently to the plateau. The culminating points of the
-range, and the highest lands in South Africa, are found in a sharp bend
-from S.E. to N.W. in about 29° S. 29° E., where "the Berg" (as the range
+range, and the highest lands in South Africa, are found in a sharp [[Bend|bend]]
+from S.E. to N.W. in about 29° S. 29° E., where "the [[Berg]]" (as the range
 is called locally) forms the frontier between Natal and Basutoland.
 Within 60 m. of one another are three mountains, Giant's Castle,
 Champagne Castle or Cathkin Peak, and Mont aux Sources, 10,000 to 11,000
@@ -32,7 +32,7 @@ form the parting between the rivers draining west to the Atlantic and
 those flowing south and east to the Indian Ocean. At Mont aux Sources
 rise the chief headwaters of the Orange, Tugela and other rivers. In the
 north, however, several streams rising in the interior plateau, e.g. the
-Komati, the Crocodile and the Olifants, pierce the Drakensberg and reach
+Komati, the [[Crocodile]] and the Olifants, pierce the Drakensberg and reach
 the Indian Ocean. The range has numerous passes, many available for
 wheeled traffic. Van Reenen's Pass, between Tintwa and Malani, is
 crossed by a railway which connects the Orange Free State and Natal:

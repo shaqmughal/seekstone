@@ -29,7 +29,7 @@ Binnenhof (or "inner court"), their backs reflected in the pretty sheet
 of water called the Vyver, represent both historically and
 topographically the centre of the Hague. On the opposite side of the
 Vyver lies the parallelogram formed by the fine houses and magnificent
-avenue of trees of the Lange Voorhout, the Kneuterdyk and the Vyverburg,
+avenue of trees of the [[Lange]] Voorhout, the Kneuterdyk and the Vyverburg,
 representing the fashionable kernel of the city. Close by lies the
 entrance to the Haagsche Bosch, or the wood, on one side of which is
 situated the deer-park, and a little beyond on the other the zoological
@@ -50,15 +50,15 @@ surrounded by a moat, and is still entered through ancient gateways. The
 oldest portion was founded in 1249 by William II., count of Holland,
 whose son, Florens V., enlarged it and made it his residence. Several
 centuries later the stadtholders also lived here. The fine old hall of
-the knights, built by Florens, and now containing the archives of the
+the [[Knight|knights]], built by Florens, and now containing the [[Archive|archives]] of the
 home office, is the historic chamber in which the states of the
 Netherlands abjured their allegiance to Philip II. of Spain, and in front
 of which the grey-headed statesman Johan van Oldenbarneveldt was executed
 in 1619. Close by on the one side are the courts of justice, and on the
 other the first and second chambers of the states-general, containing
-some richly painted ceilings and the portraits of various stadtholders.
+some richly painted [[Ceiling|ceilings]] and the portraits of various stadtholders.
 Government offices occupy the remainder of the buildings, and in the
-middle of the court is a fountain surmounted by a statuette of William
+middle of the court is a [[Fountain|fountain]] surmounted by a statuette of William
 II., count of Holland (1227-1256). In the adjoining Buitenhof, or "outer
 court," is a statue of King William II. (d. 1849), and the old Gevangen
 Poort, or prison gate (restored 1875), consisting of a tower and gateway.
@@ -68,7 +68,7 @@ called the Plein, where all the tram-lines meet. Round about it are the
 buildings of the ministry of justice and other government buildings,
 including one to contain the state archives, the large club-house of the
 Witte Societeit, and the Mauritshuis. The Mauritshuis was built in
-1633-1644 by Count John Maurice of Nassau, governor of Brazil, and
+1633-1644 by Count John [[Maurice]] of Nassau, governor of Brazil, and
 contains the famous picture gallery of the Hague. The nucleus of this
 collection was formed by the princes of Orange, notably by the
 stadtholder William V. (1748-1806). King William I. did much to restore
@@ -83,17 +83,17 @@ and specimens of early typography and other curiosities; and the Mesdag
 Museum, containing the collection of the painter H. W. Mesdag (b. 1831)
 presented by him to the state. The royal library (1798) contains upwards
 of 500,000 volumes, including some early illuminated MSS., a valuable
-collection of coins and medals and some fine antique gems. In addition to
+collection of [[Coin|coins]] and medals and some fine antique gems. In addition to
 the royal palace already mentioned, there are the palaces of the
 queen-dowager, of the prince of Orange (founded about 1720 by Count Unico
 of Wassenaar Twiekels) and of the prince von Wied, dating from 1825, and
 containing some good early Dutch and Flemish masters. There are numerous
-churches of various denominations in the Hague as well as an English
+churches of various [[Denomination|denominations]] in the Hague as well as an English
 church, a Russian chapel and two synagogues, one of which is Portuguese.
 The Groote Kerk of St James (15th and 16th centuries) has a fine vaulted
 interior, and contains some old stained glass, a carved wooden pulpit
 (1550), a large organ and interesting sepulchral monuments, and some
-escutcheons of the knights of the Golden Fleece, placed here after the
+[[Escutcheon|escutcheons]] of the knights of the Golden Fleece, placed here after the
 chapter of 1456. The Nieuwe Kerk, or new church (first half 17th
 century), contains the tombs of the brothers De Witt and of the
 philosopher Spinoza. Spinoza is further commemorated by a monument in
@@ -103,9 +103,9 @@ picture gallery. The principal other buildings are the provincial
 government offices, the royal school of music, the college of art, the
 large building (1874) of the society for arts and sciences, the
 ethnographical institute of the Netherlands Indies with fine library, the
-theatres, civil and military hospitals, orphanage, lunatic asylum and
+theatres, civil and military hospitals, orphanage, lunatic [[Asylum|asylum]] and
 other charitable institutions; the fine modern railway station (1892),
-the cavalry and artillery and the infantry barracks, and the cannon
+the [[Cavalry|cavalry]] and artillery and the infantry [[Barracks|barracks]], and the [[Cannon|cannon]]
 foundry. The chief industries of the town are iron casting, copper and
 lead smelting, cannon founding, the manufacture of furniture and
 carriages, liqueur distilling, lithographing and printing.
@@ -116,7 +116,7 @@ beech-trees. Together with the Haarlem wood it is thought to be a
 remnant of the immense forest which once extended along the coast. At
 the end of one of the avenues which penetrates into it from the town is
 the large summer club-house of the Witte Societeit, under whose auspices
-concerts are given here in summer. Farther into the wood are some pretty
+[[Concert|concerts]] are given here in summer. Farther into the wood are some pretty
 little lakes, and the famous royal villa called the Huis ten Bosch, or
 "house in the wood." This villa was built by Pieter Post for the
 Princess Amelia of Solms, in memory of her husband the stadtholder,
@@ -124,7 +124,7 @@ Frederick Henry of Orange (d. 1647), and wings were added to it by
 Prince William IV. in 1748. The chief room is the Orange Saloon, an
 octagonal hall 50 ft. high, covered with paintings by Dutch and Flemish
 artists, chiefly of incidents in the life of Prince Frederick. In this
-room the International Peace Conference had its sittings in the summer
+room the [[International]] Peace Conference had its sittings in the summer
 of 1899. The collections in the Chinese and Japanese rooms, and the
 grisailles in the dining-room painted by Jacobus de Wit (1695-1754), are
 also noteworthy.
@@ -135,14 +135,14 @@ and though Count Floris V. (b. 1254-1296) made it his residence and it
 thus became the seat of the supreme court of justice of Holland and the
 centre of the administration, and from the time of William of Orange
 onward the meeting-place of the states-general, it only received the
-status of a town, from King Louis Bonaparte, early in the 19th century.
+status of a town, from King Louis [[Bonaparte]], early in the 19th century.
 
 In the latter part of the 17th and the first half of the 18th century
-the Hague was the centre of European diplomacy. Among the many treaties
+the Hague was the centre of European [[Diplomacy|diplomacy]]. Among the many treaties
 and conventions signed here may be mentioned the treaty of the Triple
 Alliance (January 23, 1688) between England, Sweden and the Netherlands;
 the concert of the Hague (March 31, 1710) between the Emperor, England
-and Holland, for the maintenance of the neutrality of the Swedish
+and Holland, for the [[Maintenance|maintenance]] of the neutrality of the Swedish
 provinces in Germany during the war of the northern powers against
 Sweden; the Triple Alliance (January 4, 1717) between France, England
 and Holland for the guarantee of the treaty of Utrecht; the treaty of
@@ -152,11 +152,11 @@ of peace between Holland and France (May 16, 1795); the first "Hague
 Convention," the outcome of the "peace conference" assembled on the
 initiative of the emperor Nicholas II. of Russia (July 27, 1899), and
 the series of conventions, the results of the second peace conference
-(June 15-October 18, 1907). The International court of arbitration or
+(June 15-October 18, 1907). The International court of [[Arbitration|arbitration]] or
 Hague Tribunal was established in 1899 (see EUROPE: _History_;
 ARBITRATION, INTERNATIONAL). The Palace of Peace designed to be
 completed in 1913 as the seat of the tribunal, on the Scheveningen
-avenue, is by a French architect, L. M. Cordonnier, and A. Carnegie
+avenue, is by a French architect, L. M. Cordonnier, and A. [[Carnegie]]
 contributed L300,000 towards its cost.
 
 ## See also

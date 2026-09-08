@@ -10,15 +10,15 @@ tags: [cartography, physics]
 CHARLESTON, the largest city of South Carolina, U.S.A., the county-seat
 of Charleston county, a port of entry, and an important South Atlantic
 seaport, on a narrow peninsula formed by the Cooper river on the E. and
-the Ashley on the W. and S.W., and within sight of the ocean about 7 m.
+the [[Ashley]] on the W. and S.W., and within sight of the ocean about 7 m.
 distant. Pop. (1890) 54,955; (1900) 55,807, of whom 31,522 were of negro
 descent and 2592 were foreign-born; (1910 census) 58,833. It is served
-by the Atlantic Coast Line and the Southern railways, the Clyde
-Steamship Line to New York, Boston and Jacksonville, the Baltimore &
-Carolina Steamship Co. to Baltimore and Georgetown, and a branch of the
-North German Lloyd Steamship Co., which brings immigrants from Europe
+by the Atlantic Coast Line and the Southern railways, the [[Clyde]]
+Steamship Line to New York, [[Boston]] and Jacksonville, the Baltimore &
+Carolina Steamship Co. to Baltimore and [[Georgetown]], and a branch of the
+North German [[Lloyd]] Steamship Co., which brings immigrants from Europe
 direct to the Southern states; there are freight boat lines to ports in
-the West Indies, Central America and other foreign countries.
+the West Indies, [[Central America]] and other foreign countries.
 
 The city extends over 3.76 sq. m. of surface, nowhere rising more than 8
 or 10 ft. above the rivers, and has about 9 m. of water front. In the
@@ -32,7 +32,7 @@ station). Viewed from any of these forts, Charleston's spires and public
 buildings seem to rise out of the sea. The streets are shaded with the
 live oak and the linden, and are ornamented with the palmetto; and the
 quaint specimens of colonial architecture, numerous pillared porticoes,
-spacious verandas--both upper and lower--and flower gardens made
+spacious verandas--both upper and lower--and [[Flower|flower]] gardens made
 beautiful with magnolias, palmettoes, azaleas, jessamines, camelias and
 roses, give the city a peculiarly picturesque character.
 
@@ -47,19 +47,19 @@ Street below Broad, on Legare Street, on Broad Street and on Rutledge
 Avenue to the west of King. At the south-east corner of Broad and
 Meeting streets is Saint Michael's (built in 1752-1761), the oldest
 church edifice in the city, and a fine specimen of colonial
-ecclesiastical architecture; in its tower is an excellent chime of eight
+ecclesiastical architecture; in its tower is an excellent [[Chime|chime]] of eight
 bells. Beneath the vestry room lie the remains of Charles Cotesworth
 Pinckney, and in the churchyard are the graves of John Rutledge, James
-Louis Petigru (1789-1863), and Robert Young Hayne. At the intersection
+Louis Petigru (1789-1863), and Robert Young [[Hayne]]. At the intersection
 of the same streets are also the massive United States post office
 building (Italian Renaissance in style), with walls of granite; the
 county court house, the city hall and Washington Square--in which stand
-a statue of William Pitt (one arm of which was broken off by a cannon
-shot during the British bombardment in 1780), and a monument to the
+a statue of William Pitt (one arm of which was broken off by a [[Cannon|cannon]]
+shot during the British [[Bombardment|bombardment]] in 1780), and a monument to the
 memory of Henry Timrod (1829-1867), the poet. At the foot of Broad
-Street is the Colonial Exchange in which the South Carolina convention
+Street is the Colonial [[Exchange]] in which the South Carolina convention
 organized a new government during the War of Independence; and at the
-foot of Market Street is the large modern custom house of white marble,
+foot of Market Street is the large modern custom house of white [[Marble|marble]],
 built in the Roman-Corinthian style. Saint Philip's church, with
 admirable architectural proportions, has a steeple nearly 200 ft. in
 height, from which a beacon light shines for the guidance of mariners
@@ -68,20 +68,20 @@ John C. Calhoun, and of Robert James Turnbull (1775-1833), who was
 prominent locally as a nullifier and under the name of "Brutus" wrote
 ably on behalf of nullification, free trade and state's rights. The
 French Protestant Church, though small, is an attractive specimen of
-Gothic architecture; and the Unitarian, which is in the Perpendicular
+[[Gothic]] architecture; and the Unitarian, which is in the Perpendicular
 style and is modelled after the chapel of Edward VI. in Westminster, has
-a beautiful fan-tracery ceiling.
+a beautiful fan-tracery [[Ceiling|ceiling]].
 
 Of the few small city squares, gardens or parks, the White Point Garden
 at the lower end of the peninsula is most frequented; it is shaded with
 beautiful live oaks, is adorned with palmettoes and commands a fine view
-of the harbour. About 1-1/2 m. north of this on Meeting Street is Marion
+of the harbour. About 1-1/2 m. north of this on Meeting Street is [[Marion]]
 Square, with a tall graceful monument to the memory of John C. Calhoun
 on the south side, and the South Carolina Military Academy along the
 north border. The largest park in Charleston is Hampton Park, named in
 honour of General Wade Hampton. It is situated in the north-west part of
 the city and is beautifully laid out. The Isle of Palms, to the north of
-Sullivan's Island, has a large pavilion and a wide sandy beach with a
+Sullivan's Island, has a large pavilion and a wide sandy [[Beach|beach]] with a
 fine surf for bathing, and is the most popular resort for visitors. The
 Magnolia Gardens are about 8 m. up the Ashley. Twenty-two miles beyond
 is the town of Summerville (pop. in 1900, 2420), a health resort in the
@@ -91,8 +91,8 @@ city limits; in it are the graves of William Washington (1732-1810) and
 Hugh Swinton Legare. Charleston was the home of the Pinckneys, the
 Rutledges, the Gadsdens, the Laurenses, and, in a later generation, of
 W.G. Simms. A trace of the early social organization of the brilliant
-colonial town remains in the St Cecilia Society, first formed in 1737 as
-an amateur concert society.
+colonial town remains in the St [[Cecilia]] Society, first formed in 1737 as
+an amateur [[Concert|concert]] society.
 
 Charleston has an excellent system of public schools. Foremost among the
 educational institutions is the college of Charleston, chartered in 1785
@@ -107,12 +107,12 @@ Academy (Protestant Episcopal), the Confederate home school for young
 women, the Charleston University School, and the Avery Normal Institute
 (Congregationalist) for coloured students. In the Charleston library
 (about 25,000 volumes), founded in 1748, are important collections of
-rare books and manuscripts; the rooms of the South Carolina Historical
-Society are in the same building. The Charleston _News and Courier_,
+rare books and [[Manuscript|manuscripts]]; the rooms of the South Carolina Historical
+Society are in the same building. The Charleston _News and [[Courier]]_,
 published first as the _Courier_ in 1803 and combined with the _Daily
 News_ (1865) in 1873, is one of the most influential newspapers in the
 South. The charitable institutions of the city include the Roper
-hospital, the Charleston Orphan Asylum (founded in 1792), the William
+hospital, the Charleston Orphan [[Asylum]] (founded in 1792), the William
 Euston home for the aged, and a home for the widows of Confederate
 soldiers.
 
@@ -132,7 +132,7 @@ $3,840,585 in 1907 ($3,323,844 in 1908). The principal industries are
 the preparation of fertilizers--largely from the extensive beds of
 phosphate rock along the banks of the Ashley river and from cotton-seed
 meal--cotton compressing, rice cleaning, canning oysters, fruits and
-vegetables, and the manufacture of cotton bagging, of lumber, of
+vegetables, and the manufacture of cotton [[Bagging|bagging]], of lumber, of
 cooperage goods, clothing and carriages and wagons. Between 1880 and
 1890 the industrial development of the city was very rapid, the
 manufactures in 1890 showing an increase of 229.6% over those of 1880;
@@ -149,7 +149,7 @@ begun about 1672, and the seat of government was removed to it in 1680.
 The name Charles Town became Charlestown about 1719 and Charleston in
 1783. Among the early settlers were English Churchmen, New England
 Congregationalists, Scotch and Irish Presbyterians, Dutch and German
-Lutherans, Huguenots (especially in 1680-1688) from France and
+Lutherans, [[Huguenots]] (especially in 1680-1688) from France and
 Switzerland, and a few Quakers; later the French element of the
 population was augmented by settlers from Acadia (1755) and from San
 Domingo (1793). Although it soon became the largest and the wealthiest
@@ -164,22 +164,22 @@ complaints of the Up Country people led to the establishment of circuit
 courts in 1772. After the American War of Independence it continued to
 be the capital of South Carolina until 1790. The charter of 1783, though
 frequently amended and altered, is still in force. By an act of the
-state legislature passed in 1837 the terms "mayor" and "alderman"
-superseded the older terms "intendant" and "wardens." The city was the
+state legislature passed in 1837 the terms "[[Mayor|mayor]]" and "alderman"
+superseded the older terms "[[Intendant|intendant]]" and "wardens." The city was the
 heart of the nullification movement of 1832-1833; and in St Andrew's
 Hall, in Broad Street, on the 20th of December 1860, a convention called
 by the state legislature passed an ordinance of secession from the
 Union.
 
 Charleston has several times been attacked by naval forces and has
-suffered from many storms. Hurricane and epidemic together devastated
+suffered from many storms. [[Hurricane]] and epidemic together devastated
 the town both in 1699 and in 1854; the older and more thickly settled
 part of the town was burnt in 1740, and a hurricane did great damage in
 1752. In 1706, during the War of the Spanish Succession, a combined
 fleet of Spanish and French under Captain Le Feboure was repulsed by the
 forces of Governor Nathaniel Johnson (d. 1713) and Colonel William Rhett
 (1666-1721). During the War of Independence Charleston withstood the
-attack of Sir Peter Parker and Sir Henry Clinton in 1776, and that of
+attack of Sir Peter Parker and Sir Henry [[Clinton]] in 1776, and that of
 General Augustus Prevost in 1779, but shortly afterwards became the
 objective of a more formidable attack by Sir Henry Clinton, the
 commander-in-chief of the British forces in America. In the later years
@@ -187,7 +187,7 @@ of the contest the British turned their attention to the reduction of
 the colonies in the south, and the prominent point and best base of
 operations in that section was the city of Charleston, which was
 occupied in the latter part of 1779 by an American force under General
-Benjamin Lincoln. In December of that year Sir Henry Clinton embarked
+[[Benjamin]] [[Lincoln]]. In December of that year Sir Henry Clinton embarked
 from New York with 8000 British troops and proceeded to invest
 Charleston by land. He entrenched himself west of the city between the
 Cooper and Ashley rivers, which bound it north and south, and thus
@@ -217,7 +217,7 @@ having burned a considerable amount of cotton and other supplies to
 prevent them from falling into the hands of the enemy. After the Civil
 War the wealth and the population steadily increased, in spite of the
 destruction wrought by the earthquake of 31st August 1886 (see
-EARTHQUAKE). In that catastrophe 27 persons were killed, many more were
+EARTHQUAKE). In that [[Catastrophe|catastrophe]] 27 persons were killed, many more were
 injured and died subsequently, 90% of the buildings were injured, and
 property to the value of more than $5,000,000 was destroyed. The South
 Carolina Interstate and West Indian Exposition, held here from the 1st

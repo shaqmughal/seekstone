@@ -11,8 +11,8 @@ ELECTORS (Ger. _Kurfürsten_, from _Küren_, O.H.G. _kiosan_, choose,
 elect, and _Fürst_, prince), a body of German princes, originally seven
 in number, with whom rested the election of the German king, from the
 13th until the beginning of the 19th century. The German kings, from the
-time of Henry the Fowler (919-936) till the middle of the 13th century,
-succeeded to their position partly by heredity, and partly by election.
+time of Henry the [[Fowler]] (919-936) till the middle of the 13th century,
+succeeded to their position partly by [[Heredity|heredity]], and partly by election.
 Primitive Germanic practice had emphasized the element of heredity.
 _Reges ex nobilitate sumunt_: the man whom a German tribe recognized as
 its king must be in the line of hereditary descent from Woden; and
@@ -33,7 +33,7 @@ force, sank formally into the background, and legal recognition was
 finally given to the elective principle. _De facto_, therefore, the
 principle of heredity exercises in Germany a great influence, an
 influence never more striking than in the period which follows on the
-formal recognition of the elective principle, when the Habsburgs (like
+formal recognition of the elective principle, when the [[Habsburg|Habsburgs]] (like
 the Metelli at Rome) _fato imperatores fiunt: de jure_, each monarch
 owes his accession simply and solely to the vote of an electoral
 college.
@@ -42,7 +42,7 @@ This difference between the German monarchy and the other monarchies of
 western Europe may be explained by various considerations. Not the least
 important of these is what seems a pure accident. Whereas the Capetian
 monarchs, during the three hundred years that followed on the election
-of Hugh Capet in 987, always left an heir male, and an heir male of full
+of [[Hugh Capet]] in 987, always left an [[Heir|heir]] male, and an heir male of full
 age, the German kings again and again, during the same period, either
 left a minor to succeed to their throne, or left no issue at all. The
 principle of heredity began to fail because there were no heirs. Again
@@ -73,12 +73,12 @@ Heredity might be tolerated in a mere matter of kingship: the precious
 trust of imperial power could not be allowed to descend according to the
 accidents of family succession. To Otto of Freising (_Gesta Frid._ ii.
 1) it is already a point of right vindicated for itself by the
-excellency of the Roman Empire, as a matter of singular prerogative,
+[[Excellency|excellency]] of the Roman Empire, as a matter of singular prerogative,
 that it should not descend _per sanguinis propaginem, sed per principum
 electionem_.
 
 The accessions of Conrad II. (see Wipo, _Vita Cuonradi_, c. 1-2), of
-Lothair II. (see _Narratio de electione Lotharii_, M.G.H. _Scriptt._
+[[Lothair]] II. (see _Narratio de electione Lotharii_, M.G.H. _Scriptt._
 xii. p. 510), of Conrad III. (see Otto of Freising, _Chronicon_, vii.
 22) and of Frederick I. (see Otto of Freising, _Gesta Frid._ ii. 1) had
 all been marked by an element, more or less pronounced, of election.
@@ -91,11 +91,11 @@ in a somewhat tumultuary fashion. In this case the electoral assembly
 would seem to be, in the last resort, the whole diet of all the princes.
 But a _de facto_ pre-eminence in the act of election is already, during
 the 12th century, enjoyed by the three Rhenish archbishops, probably
-because of the part they afterwards played at the coronation, and also
-by the dukes of the great duchies--possibly because of the part they too
+because of the part they afterwards played at the [[Coronation|coronation]], and also
+by the [[Dukes|dukes]] of the great duchies--possibly because of the part they too
 played, as vested for the time with the great offices of the household,
 at the coronation feast.[1] Thus at the election of Lothair it is the
-archbishop of Mainz who conducts the proceedings; and the election is
+archbishop of [[Mainz]] who conducts the proceedings; and the election is
 not held to be final until the duke of Bavaria has given his assent. The
 fact is that, votes being weighed by quality as well as by quantity (see
 DIET), the votes of the archbishops and dukes, which would first be
@@ -104,19 +104,19 @@ prevent tumultuary elections, it was well that the election should be
 left exclusively with these great dignitaries; and this is what, by the
 middle of the 13th century, had eventually been done.
 
-The chaos of the interregnum from 1198 to 1212 showed the way for the
+The [[Chaos|chaos]] of the interregnum from 1198 to 1212 showed the way for the
 new departure; the chaos of the great interregnum (1250-1273) led to its
 being finally taken. The decay of the great duchies, and the narrowing
 of the class of princes into a close corporation, some of whose members
 were the equals of the old dukes in power, introduced difficulties and
 doubts into the practice of election which had been used in the 12th
 century. The contested election of the interregnum of 1198-1212 brought
-these difficulties and doubts into strong relief. The famous bull of
-Innocent III. (_Venerabilem_), in which he decided for Otto IV. against
+these difficulties and doubts into strong relief. The famous [[Bull|bull]] of
+[[Innocent]] III. (_Venerabilem_), in which he decided for Otto IV. against
 Philip of Swabia, on the ground that, though he had fewer votes than
 Philip, he had a majority of the votes of those _ad quos principaliter
 spectat electio_, made it almost imperative that there should be some
-definition of these principal electors. The most famous attempt at such
+[[Definition|definition]] of these principal electors. The most famous attempt at such
 a definition is that of the _Sachsenspiegel_, which was followed, or
 combated, by many other writers in the first half of the 13th century.
 Eventually the contested election of 1257 brought light and definition.
@@ -144,7 +144,7 @@ the electoral vote to a definite territory, declaring that territory
 indivisible, and regulating its descent by the rule of primogeniture
 instead of partition, swept away the old difficulties which the custom
 of partition had raised. After 1356 the seven electors are regularly the
-three Rhenish archbishops, Mainz, Cologne and Trier, and four lay
+three Rhenish archbishops, Mainz, [[Cologne]] and Trier, and four lay
 magnates, the palatine of the Rhine, the duke of Saxony, the margrave of
 Brandenburg, and the king of Bohemia; the three former being vested with
 the three archchancellorships, and the four latter with the four offices
@@ -178,9 +178,9 @@ XXII. exercised it in its harshest form, when in 1324 he ex-communicated
 Louis IV. for using the title and exerting the rights even of king
 without previous papal confirmation. This action ultimately led to a
 protest from the electors themselves, whose right of election would have
-become practically meaningless, if such assumptions had been tolerated.
+become practically meaningless, if such [[Assumption|assumptions]] had been tolerated.
 A meeting of the electors (_Kurverein_) at Rense in 1338 declared (and
-the declaration was reaffirmed by a diet at Frankfort in the same year)
+the [[Declaration|declaration]] was reaffirmed by a diet at [[Frankfort]] in the same year)
 that _postquam aliquis eligitur in Imperatorem sive Regem ab Electoribus
 Imperii concorditer, vel majori parte eorundem, statim ex sola electione
 est Rex verus et Imperator Romanus censendus ... nec Papae sive Sedis
@@ -235,8 +235,8 @@ reform during the Hussite wars, the scheme came to nothing; the forces
 of disunion in Germany were too strong for any central government,
 whether monarchical and controlled by the emperor, or oligarchical and
 controlled by the electors. But a final attempt, the most strenuous of
-all, was made in the reign of Maximilian I., and under the influence of
-Bertold, elector and archbishop of Mainz. The council of 1500, in which
+all, was made in the reign of [[Maximilian]] I., and under the influence of
+[[Bertold]], elector and archbishop of Mainz. The council of 1500, in which
 the electors (with the exception of the king of Bohemia) were to have
 sat, and which would have been under their control, represents the last
 effective attempt at a real _Reichsregiment_. Inevitably, however, it
@@ -254,7 +254,7 @@ exercise his office in the course of his reign. This _Wahlcapitulation_,
 similar to the _Pacta Conventa_ which limited the elected kings of
 Poland, was left by the diet to the discretion of the electors, though
 after the treaty of Westphalia an attempt was made, with some little
-success,[2] to turn the capitulation into a matter of legislative
+success,[2] to turn the [[Capitulation|capitulation]] into a matter of legislative
 enactment by the diet. From this time onwards the only fact of
 importance in the history of the electors is the change which took place
 in the composition of their body during the 17th and 18th centuries.
@@ -262,11 +262,11 @@ From the Golden Bull to the treaty of Westphalia (1356-1648) the
 composition of the electoral body had remained unchanged. In 1623,
 however, in the course of the Thirty Years' War, the vote of the count
 palatine of the Rhine had been transferred to the duke of Bavaria; and
-at the treaty of Westphalia the vote, with the office of imperial butler
+at the treaty of Westphalia the vote, with the office of imperial [[Butler|butler]]
 which it carried, was left to Bavaria, while an eighth vote, along with
 the new office of imperial treasurer, was created for the count
 palatine. In 1708 a ninth vote, along with the office of imperial
-standard-bearer, was created for Hanover; while finally, in 1778, the
+standard-bearer, was created for [[Hanover]]; while finally, in 1778, the
 vote of Bavaria and the office of imperial butler returned to the counts
 palatine, as heirs of the duchy, on the extinction of the ducal line,
 while the new vote created for the Palatinate in 1648, with the office
@@ -277,7 +277,7 @@ dissolution of the Holy Roman Empire, the electors ceased to exist.
   LITERATURE.--T. Lindner, _Die deutschen Königswahlen und die
   Entstehung des Kurfürstentums_ (1893), and _Der Hergang bei den
   deutschen Königswahlen_ (1899); R. Kirchhöfer, _Zur Entstehung des
-  Kurkollegiums_ (1893); W. Maurenbrecher, _Geschichte der deutschen
+  Kurkollegiums_ (1893); W. [[Maurenbrecher]], _Geschichte der deutschen
   Königswahlen_ (1889); and G. Blondel, _Étude sur Frédéric II_, p. 27
   sqq. See also J. Bryce, _Holy Roman Empire_ (edition of 1904), c. ix.;
   and R. Schröder, _Lehrbuch der deutschen Rechtsgeschichte_, pp.
@@ -290,7 +290,7 @@ FOOTNOTES:
     Stade (quoted in Schröder, p. 476, n. 27): "Palatinus eligit, quia
     dapifer est; dux Saxoniae, quia marescalcus," &c. Schröder points out
     (p. 479, n. 45) that "participation in the coronation feast is an
-    express recognition of the king"; and those who are to discharge
+    express recognition of the king"; and those who are to [[Discharge|discharge]]
     their office in the one must have had a prominent voice in the other.
 
   [2] See Schröder's _Lehrbuch der deutschen Rechtsgeschichte_, p. 820.

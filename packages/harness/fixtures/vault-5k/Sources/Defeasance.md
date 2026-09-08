@@ -8,7 +8,7 @@ should recite the deed to be defeated and its date, and it must be made
 between the same parties as are interested in the deed to which it is
 collateral. It must be of a thing defeasible, and all the conditions
 must be strictly carried out before the defeasance can be consummated.
-Defeasance in a bill of sale is the putting an end to the security by
+Defeasance in a [[Bill Of Sale|bill of sale]] is the putting an end to the security by
 realizing the goods for the benefit of the mortgagee. It is not strictly
 a defeasance, because the stipulation is in the same deed; it is really
 a condition in the nature of a defeasance.

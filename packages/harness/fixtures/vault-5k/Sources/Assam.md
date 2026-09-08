@@ -9,10 +9,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Assam"
 # Assam
 
 ASSAM, a former province of British India, which was amalgamated in 1905
-with "Eastern Bengal and Assam" (q.v.). Area 56,243 sq. m.; pop. (1901)
-6,126,343. The province of Assam lies on the N.E. border of Bengal, on
+with "[[Eastern Bengal And Assam|Eastern Bengal and Assam]]" (q.v.). Area 56,243 sq. m.; pop. (1901)
+6,126,343. The province of Assam lies on the N.E. border of [[Bengal]], on
 the extreme frontier of the Indian empire, with Bhutan and Tibet beyond
-it on the N., and Burma and Manipur on the E. It comprises the valleys
+it on the N., and [[Burma]] and Manipur on the E. It comprises the valleys
 of the Brahmaputra and Surma rivers, together with the mountainous
 watershed which intervenes between them. It is situated between 24 deg.
 0' and 28 deg. 17' N. lat., and between 89 deg. 46' and 97 deg. 5' E.
@@ -24,14 +24,14 @@ valley; on the E. by the unexplored mountains that mark the frontier of
 Burma, by the hills occupied by the independent Naga tribes and by the
 state of Manipur; on the S. by the Lushai hills, the state of Hill
 Tippera, and the Bengal district of Tippera; and on the W. by the Bengal
-districts of Mymensingh and Rangpur, the state of Kuch Behar and
+districts of Mymensingh and Rangpur, the state of [[Kuch Behar]] and
 Jalpaiguri district.
 
 _Natural Divisions._--Assam is naturally divided into three distinct
 tracts, the Brahmaputra valley, the Surma valley and the hill ranges
 between the two. The Brahmaputra valley is an alluvial plain, about 450
 m. in length, with an average breadth of 50 m., lying almost east and
-west. To the north is the main chain of the Himalayas, the lower ranges
+west. To the north is the main chain of the [[Himalaya|Himalayas]], the lower ranges
 of which rise abruptly from the plain; to the south is the great
 elevated plateau or succession of plateaus known as the Assam range. The
 various portions of this range are called by the names of the tribes who
@@ -49,14 +49,14 @@ sluggish.
 
   _Physical Aspects._--Assam is a fertile series of valleys, with the
   great channel of the Brahmaputra (literally, the _Son of Brahma_)
-  flowing down its middle, and an infinite number of tributaries and
+  flowing down its middle, and an [[Infinite|infinite]] number of tributaries and
   watercourses pouring into it from the mountains on either side. The
   Brahmaputra spreads out in a sheet of water several miles broad during
   the rainy season, and in its course through Assam forms a number of
   islands in its bed. Rising in the Tibetan plateau, far to the north of
   the Himalayas, and skirting round their eastern passes not far from
   the Yang-tsze-kiang and the great river of Cambodia, it enters Assam
-  by a series of waterfalls and rapids, amid vast boulders and
+  by a series of waterfalls and rapids, amid vast [[Boulder|boulders]] and
   accumulations of rocks. The gorge, situated in Lakhimpur district,
   through which the southernmost branch of the Brahmaputra enters, has
   from time immemorial been held in reverence by the Hindus. It is
@@ -86,7 +86,7 @@ sluggish.
   crosses over the frontier of the province and passes into Bengal. In
   its course it receives on the left side the Dihing, a river having its
   rise at the south-eastern angle of the province; and lower down, on
-  the opposite side, it parts with a considerable offset termed the Buri
+  the opposite side, it parts with a considerable offset termed the [[Buri]]
   Lohir, which, however, reunites with the Brahmaputra 60 m. below the
   point of divergence, bearing with it the additional waters of the
   Subansiri, flowing from Tibet. A second offset, under the name of the
@@ -167,7 +167,7 @@ sluggish.
   show no sign of either the Himalayan or the Burmese folding--on the
   top of the plateau they are nearly horizontal, but along the southern
   margin they are bent sharply downwards in a simple monoclinal fold.
-  The greater part of the mass is composed of gneiss and schists. The
+  The greater part of the mass is composed of [[Gneiss|gneiss]] and schists. The
   Sylhet traps near the southern margin are correlated with the Rajmahal
   traps of Bengal. The older rocks are overlaid unconformably by
   Cretaceous beds, consisting chiefly of sandstones with seams of coal,
@@ -199,8 +199,8 @@ sluggish.
   1882; but by far the severest shock known is that which occurred on
   the evening of 12th June 1897. The area of this seismic disturbance
   extended over north-eastern India, from Manipur to Sikkim; but the
-  focus was in the Khasi and Garo hills. In the station of Shillong
-  every masonry building was levelled to the ground. Throughout the
+  [[Focus|focus]] was in the Khasi and Garo hills. In the station of Shillong
+  every [[Masonry|masonry]] building was levelled to the ground. Throughout the
   country bridges were shattered, roads were broken up like ploughed
   fields, and the beds of rivers were dislocated. In the hills there
   were terrible landslips, which wrecked the little Cherrapunji railway
@@ -216,12 +216,12 @@ sluggish.
   trained to decoy males into the snares prepared for subjecting them to
   captivity. A considerable number are tamed and exported from Assam
   every year. Many are killed every year in the forests for the sake of
-  the ivory which they furnish. The government _keddah_ establishment
+  the [[Ivory|ivory]] which they furnish. The government _keddah_ establishment
   from Dacca captures large numbers of elephants in the province, and
-  the right of hunting is also sold by auction to private bidders. The
+  the right of [[Hunting|hunting]] is also sold by auction to private bidders. The
   annual catch of the latter averages about two hundred. The rhinoceros
   is found in the denser parts of the forests and generally in swampy
-  places. This animal is hunted and killed for its skin and its horn.
+  places. This animal is hunted and killed for its skin and its [[Horn|horn]].
   The skin affords the material for the best shields. The horn is sacred
   in the eyes of the natives. Contrary to the usual belief, it is stated
   that, if caught young, the rhinoceros is easily tamed and becomes
@@ -237,9 +237,9 @@ sluggish.
   species of antelope are found, as are monkeys in great variety. The
   porcupine, the squirrel, the civet cat, the ichneumon and the otter
   are common. The birds are too various to admit of enumeration. Wild
-  game is plentiful; pheasants, partridges, snipe and water-fowl of many
+  [[Game|game]] is plentiful; pheasants, partridges, snipe and water-fowl of many
   descriptions make the country a tempting field for the sportsman.
-  Vultures and other birds of prey are met with. Crocodiles (commonly
+  Vultures and other birds of prey are met with. [[Crocodile|Crocodiles]] (commonly
   called alligators) swarm in all parts of the Brahmaputra, and are very
   destructive to the fish, of which hundreds of varieties are found, and
   which supply a valuable article of food. The most destructive of the
@@ -266,14 +266,14 @@ sluggish.
   acres under rice. In addition jute is grown to a considerable extent
   in Goalpara and Sylhet; cotton is grown in large quantities along the
   slopes of the Assam range. Rubber is grown in government plantations
-  and is also brought in by the hill tribes; while lac, mustard and
+  and is also brought in by the hill tribes; while [[Lac|lac]], mustard and
   potatoes are also produced.
 
   _Tea Plantations._--The most important article of commerce produced in
   Assam is tea. The rice crop covers a very great proportion of the
   cultivated land, but it is used for local consumption, and the
   Brahmaputra valley does not produce enough for its own consumption,
-  large quantities being imported for the coolies. The tea plantations
+  large quantities being imported for the [[Coolie|coolies]]. The tea plantations
   are the one great source of wealth to the province, and the
   necessities of tea cultivation are the chief stimulants to the
   development of Assam. The plant was discovered in 1823 by Mr Robert
@@ -301,7 +301,7 @@ sluggish.
   indigenous here, and might be multiplied to any extent; another result
   of the Chinese mission, that of procuring persons skilled in the
   cultivation and manufacture of black tea, was of more material
-  benefit. Subsequently, under Lord Auckland, a further supply of
+  benefit. Subsequently, under Lord [[Auckland]], a further supply of
   Chinese cultivators and manufacturers was obtained--men well
   acquainted with the processes necessary for the production of green
   tea, as the former set were with those requisite for black. In 1838
@@ -354,13 +354,13 @@ sluggish.
   restrictions, may be arrested without warrant by their employers. In
   addition to the labourers engaged under this act, a large number are
   employed under contract enforceable by Act XIII, of 1859, which
-  provides penalties for breach of the contract, but does not allow of
+  provides penalties for [[Breach|breach]] of the contract, but does not allow of
   the arrest of deserters without warrant. Neither does this act
   regulate in any way the terms of the contract, nor contain any special
   provisions for the protection of the labourer. Many labourers on the
   conclusion of their first engagement under Act VI. of 1901 enter into
   renewed contracts under Act XIII. of 1859. In 1905 there were in all
-  664,296 labourers, and 24,209 fresh importations, of whom 62% chose
+  664,296 labourers, and 24,209 fresh importations, of whom 62% [[Chose|chose]]
   the old act.
 
   _Railways._--The Assam-Bengal railway runs from the seaport of
@@ -380,7 +380,7 @@ sluggish.
   Brahmaputra valley steamers carry as much as 86% of the exports, and
   94% of the imports. In the Surma valley native boats carry about 43%
   of both. In 1904-1905 the total exports were valued at 726 lakhs of
-  rupees. The chief items were tea, rice in the husk, oil-seeds,
+  rupees. The chief [[Item|items]] were tea, rice in the husk, oil-seeds,
   tea-seed, timber, coal and jute. The imports were valued at 457 lakhs
   of rupees. The chief items were cotton piece-goods, rice not in the
   husk, sugar, grain and pulse, salt, iron and steel, tobacco, cotton
@@ -402,7 +402,7 @@ only 5.9% in the decade, and with the immigrants deducted 1.36%. Amongst
 native-born Assamese during the decade there was a serious decrease in
 Nowgong and some other districts, due to _kalaazar_ and other diseases.
 The Assamese are an interesting race, of distinct origin from the
-neighbouring Bengalis. A large proportion of them derive their origin
+neighbouring [[Bengali|Bengalis]]. A large proportion of them derive their origin
 from tribes who came from the Himalayan ranges, from Burma or from the
 Chinese frontier. The most important of these are the Ahoms or Ahams, an
 offshoot of the Shan race of northern Burma. They were the last
@@ -414,7 +414,7 @@ in a few remote recesses of Assam. Hinduism has also impressed its
 language upon the province, and the vernacular Assamese possesses a
 close affinity to Bengali, with the substitution of _s_ for the Bengali
 _ch_, of a guttural _h_ for the Bengali _h_ or _sh_, and a few other
-dialectic changes. Indeed, so close was the resemblance that for a time
+[[Dialectic|dialectic]] changes. Indeed, so close was the resemblance that for a time
 Bengali was used as the court and official language of the province
 under British rule. But with the development of the country the Assamese
 tongue asserted its claims to be treated as a distinct vernacular, and a
@@ -439,10 +439,10 @@ than is commonly seen in the women of Bengal, with a form and feature
 somewhat approaching the European. The habits of life of the Assamese
 peasantry are pre-eminently domestic. Great respect is paid to old age;
 when parents are no longer capable of labour they are supported by their
-children, and scarcely any one is allowed to become a burden to the
+children, and scarcely any one is allowed to become a [[Burden|burden]] to the
 public. They have also in general a very tender regard for their
 offspring, and are generous and kind to their relations. They are
-hospitable to people of their own caste, but to no others. The use of
+hospitable to people of their own [[Caste|caste]], but to no others. The use of
 opium is very general.
 
 _Hill Tribes._--The hill and frontier tribes of Assam include the Nagas,
@@ -458,7 +458,7 @@ brine springs in their hills. The different tribes of Nagas are
 independent of and unconnected with one another, and are often at war
 with each other. The Singphos are another of the main population of the
 same race, who occupy in force the hilly country between the Patkai and
-Chindwin rivers, and are nominally subject to Burma. The Akas, Daphlas,
+[[Chindwin]] rivers, and are nominally subject to Burma. The Akas, Daphlas,
 Miris, Abors, Mishmis and Khamtis are described under separate headings.
 Under regulation V. of 1873, an inner line has been laid down in certain
 districts, up to which the protection of British authority is
@@ -484,14 +484,14 @@ invasion by the Burmese towards the end of the 18th century, and its
 final cession to the British in 1826. It seems to have been originally
 included, along with the greater part of north-eastern Bengal, in the
 old Hindu territory of Kamrup. Its early legends point to great
-religious revolutions between the rival rites of Krishna and Siva as a
+religious revolutions between the rival rites of [[Krishna]] and Siva as a
 source of dynastic changes. Its roll of kings extends deep into
 prehistoric times, but the first rajah capable of indentification
 flourished about the year 76 A.D. Kamrup, the Pragjotishpur of the
 ancient Hindus, was the capital of a legendary king Narak, whose son
 Bhagadatta distinguished himself in the great war of the _Mahabharata_.
 
-When Hsuan Tsang visited the country in A.D. 640, a prince named Kumar
+When [[Hsuan Tsang]] visited the country in A.D. 640, a prince named Kumar
 Bhaskara Barman was on the throne. The people are described as being of
 small stature with dark yellow complexions; they were fierce in
 appearance, but upright and studious. Hinduism was the state religion,
@@ -510,7 +510,7 @@ several centuries. The Ahoms were Shans from the ancient Shan kingdom of
 Pong. Their manners, customs, religion and language were, and for a long
 time continued to be, different from those of the Hindus; but they found
 themselves compelled to respect the superior civilization of this race,
-and slowly adopted its customs and language. The conversion of their
+and slowly adopted its customs and language. The [[Conversion|conversion]] of their
 king Chuchengpha to Hinduism took place in the year A.D. 1655, and all
 the Ahoms of Assam gradually followed his example. In medieval history,
 the Assamese were known to the Mussulman population as a warlike,
@@ -545,7 +545,7 @@ Assamese have sheltered themselves in strong posts, and have distressed
 the enemy by stratagems, surprises and alarms, and by cutting off their
 provisions. If these means failed, they have declined a battle in the
 field, but have carried the peasants into the mountains, burned the
-grain and left the country desert. But when the rainy season has set in
+grain and left the country [[Desert|desert]]. But when the rainy season has set in
 upon the advancing enemy, they have watched their opportunity to make
 excursions and vent their rage; the famished invaders have either become
 their prisoners or been put to death. In this manner powerful and
@@ -561,7 +561,7 @@ opposed by thick and dangerous jungles, and broad and boisterous rivers.
 The difficulties in the way of successful invasion are of course not
 understated, as it was the object of the writer to exalt the prowess and
 perseverance of the faithful. He accounts for their temporary success by
-recording that "the Mussulman hordes experienced the comfort of fighting
+recording that "the Mussulman [[Horde|hordes]] experienced the comfort of fighting
 for their religion, and the blessings of it reverted to the sovereignty
 of his just and pious majesty." The short-lived triumph of the
 Mussulmans might, however, have warranted a less ambitious tone. About
@@ -574,10 +574,10 @@ prince nor people enjoyed security. Late in the 18th century some
 interference took place on the part of the British government, then
 conducted by Lord Cornwallis; but the successor of that nobleman, Sir
 John Shore, adopting the non-intervention policy, withdrew the British
-force, and abandoned the country to its fate. Its condition encouraged
+force, and abandoned the country to its [[Fate|fate]]. Its condition encouraged
 the Burmese to depose the rajah, and to make Assam a dependency of Ava.
 The extension of their encroachments on a portion of the territory of
-the East India Company compelled the British government to take decisive
+the [[East India Company]] compelled the British government to take decisive
 steps for its own protection. Hence arose the series of hostilities with
 Ava known in Indian history as the first Burmese War, on the termination
 of which by treaty in February 1826, Assam remained a British

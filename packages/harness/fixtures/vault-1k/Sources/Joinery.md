@@ -67,7 +67,7 @@ and hanging--and many which depend on nailing and screwing, such as
 laying floors, boarding ceilings, wainscoting walls, bracketing,
 cradling, firring, and the like. In addition to the wood on which the
 joiner works, he requires also glue, white lead, nails, brads, screws
-and hinges, and accessorily he applies bolts, locks, bars and other
+and hinges, and accessorily he applies bolts, [[Lock|locks]], bars and other
 fastenings, together with pulleys, lines, weights, holdfasts, wall
 hooks, &c. The joiner's work for a house is for the most part prepared
 at the shop, where there should be convenience for doing everything in
@@ -152,7 +152,7 @@ joinery work.
   common mitre is essentially weak unless reinforced with blocks glued
   into the angle at the back of it, and is therefore often strengthened
   with a feather of wood or iron. Other variations of the mitre are the
-  _mitre and butt_, used where the pieces connected are of unequal
+  _mitre and [[Butt|butt]]_, used where the pieces connected are of unequal
   thickness; the _mitre and rebate_, with a square section which
   facilitates nailing or screwing; the _mitre rebate and feather_,
   similar to the latter, with a feather giving additional strength to
@@ -275,7 +275,7 @@ joinery work.
   the board should be placed downwards so that in drying the tendency
   will be for the edges to press more tightly to the joists instead of
   curling upwards. The square joint should be used only on ground
-  floors; if it is used for the upper rooms, dust and water will drop
+  floors; if it is used for the upper rooms, [[Dust|dust]] and water will drop
   through the crevices and damage the ceiling beneath. Dowelled joints
   are open to the same objection. One of the best and most economical
   methods is the _ploughed and tongued_ joint. The tongue may be of hard
@@ -403,7 +403,7 @@ joinery work.
   thumb-screw--the reversal of the sash on a pivot or hinge. For a small
   extra cost these arrangements may be provided; they will be greatly
   appreciated by those who clean the windows. The cased frames are in
-  the form of boxes to enclose the iron or lead weights which balance
+  the form of boxes to enclose the iron or lead weights which [[Balance|balance]]
   the sashes (fig. 7), and consist of a pulley style--which takes the
   wear of the sashes and is often of hard wood on this account--an
   inside lining, and an outside lining; these three members are
@@ -593,7 +593,7 @@ joinery work.
 
   A clear idea of the method of jointing the various members may be
   obtained from fig. 12. The tongues of raised panels should be of
-  parallel thickness, the bevels being stopped at the moulding. The
+  parallel thickness, the [[Bevel|bevels]] being stopped at the moulding. The
   projecting ends or _horns_ of the styles are cut off after the door
   has been glued and wedged, as they prevent the ends of the styles
   being damaged by the wedging process.
@@ -697,7 +697,7 @@ joinery work.
   or other convenient place to prevent undue strain through the door
   being forced back.
 
-  Among _locks and fastenings_ the ordinary _barrel_ or _tower_ bolt
+  Among _locks and fastenings_ the ordinary _[[Barrel|barrel]]_ or _tower_ bolt
   needs no description. The _flush barrel_ is a bolt let in flush with
   the face of a door. The _espagnolette_ is a development of the tower
   bolt and extends the whole height of the door; a handle at a

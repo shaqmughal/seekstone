@@ -14,9 +14,9 @@ or muscular structures outside the joint or of the tissues of the joint
 itself. When the structures outside the joint are affected, the term
 "false" ankylosis has been used in contradistinction to "true"
 ankylosis, in which the disease is within the joint. When inflammation
-has caused the joint-ends of the bones to be fused together the
+has caused the joint-ends of the [[Bone|bones]] to be fused together the
 ankylosis is termed _osseous_ or complete. Excision of a completely
-ankylosed shoulder or elbow may restore free mobility and usefulness to
+ankylosed shoulder or [[Elbow|elbow]] may restore free mobility and usefulness to
 the limb. "Ankylosis" is also used as an anatomical term, bones being
 said to ankylose (or anchylose) when, from being originally distinct,
 they coalesce, or become so joined together that no motion can take

@@ -300,7 +300,7 @@ FOOTNOTES:
   [1] "Atmospheric Dust Observations from various parts of the World,"
     _Quart. Journ. Roy. Met. Soc._ (July 1896).
 
-  [2] _La Condensation de la vapeur d'eau dans l'atmosphère_
+  [2] _La Condensation de la vapeur d'eau [[Dan|dans]] l'atmosphère_
     (Helsingfors, 1897).
 
 ## See also

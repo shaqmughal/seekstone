@@ -8,10 +8,10 @@ usual gold and silver, the second (1698) on a registry for titles of
 lands. In 1699, when a commission was appointed to settle disputed
 claims in Ireland, he set out for that country, attracted by the hopes
 of practice. Before leaving London he put in the hands of the printer a
-tract, entitled _An Argument proving that, according to the Covenant of
+tract, entitled _An Argument proving that, according to the [[Covenant]] of
 Eternal Life revealed in the Scripture, Man may be translated from hence
 into that Eternal Life without passing through Death_ (1700). Coleridge
-has highly praised the "genuine Saxon English," the "irony" and "humour"
+has highly praised the "genuine Saxon English," the "[[Irony|irony]]" and "[[Humour|humour]]"
 of this extraordinary pamphlet, which interpreted the relation between
 God and man by the technical rules of law, and insisted that, Christ
 having wiped out Adam's sin, the penalty of death must consequently be
@@ -26,7 +26,7 @@ difficulties, and litigation about his Irish estate, and these
 circumstances may have had something to do with his trouble in
 parliament. In 1707 he was arrested for debt, and the remainder of his
 life was spent in the Fleet prison, or within the rules of the king's
-bench. He died in 1738. Asgill also wrote in 1714-1715 some pamphlets
+[[Bench|bench]]. He died in 1738. Asgill also wrote in 1714-1715 some pamphlets
 defending the Hanoverian succession against the claims of the Pretender.
 
 
@@ -35,7 +35,7 @@ defending the Hanoverian succession against the claims of the Pretender.
 ASH[1] (Ger. _Esche_), a common name (Fr. _frene_) given to certain
 trees. The common ash (_Fraxinus excelsior_) belongs to the natural
 order Oleaceae, the olive family, an order of trees and shrubs which
-includes lilac, privet and jasmine. The Hebrew word _Oren_, translated
+includes [[Lilac|lilac]], privet and [[Jasmine|jasmine]]. The Hebrew word _Oren_, translated
 "ash" in Isaiah xliv. 14, cannot refer to an ash tree, as that is not a
 native of Palestine, but probably refers to the Aleppo pine (_Pinus
 halepensis_). The ash is a native of Great Britain and the greater part
@@ -45,10 +45,10 @@ height of from 50 to 80 ft., and flowers in March and April, before the
 leaves are developed. The reddish flowers grow in clusters, but are not
 showy. They are naked, that is without sepals or petals, and generally
 imperfect, wanting either stamens or pistil. The large leaves, which are
-late in appearing, are pinnately compound, bearing four to seven pairs
+late in appearing, are pinnately [[Compound|compound]], bearing four to seven pairs
 of gracefully tapering toothed leaflets on a slender stalk. The dry
-winged fruits, the so-called keys, are a characteristic feature and
-often remain hanging in bunches long after the leaves have fallen in
+winged fruits, the so-called [[Key|keys]], are a characteristic feature and
+often remain [[Hanging|hanging]] in bunches long after the leaves have fallen in
 autumn. The leaves fall early, but the greyish twigs and black buds
 render the tree conspicuous in winter and especially in early spring.
 
@@ -69,7 +69,7 @@ horizontally a little beneath the surface of the ground, the ash does
 much harm to vegetation beneath its shade, and is therefore obnoxious as
 a hedgerow tree. Coppice shoots yield excellent hop-poles, crates,
 hoops, whip-handles, &c. The timber is much used for agricultural
-implements, and by coach-builders and wheelwrights.
+[[Implement|implements]], and by coach-builders and wheelwrights.
 
 A variety of the common species, known as var. _heterophylla_, has
 simple leaves. It occurs wild in woods in Europe and England. Another
@@ -77,12 +77,12 @@ variety of ash (_pendula_) is met with in which the branches are
 pendulous and weeping. Sometimes this variety is grafted on the tall
 stem of the common ash, so as to produce a pleasing effect. It is said
 that the weeping variety was first observed at Gamlingay, in
-Cambridgeshire. A variety (_crispa_) occurs with curled leaves, and
+[[Cambridgeshire]]. A variety (_crispa_) occurs with curled leaves, and
 another with warty stems and branches, called _verrucosa_. _F. Ornus_ is
 the manna ash (see MANNA), a handsome tree with greenish-white flowers
 and native in south Europe. In southern Europe there is a small-leaved
 ash, called _Fraxinus parvifolia_. _F. floribunda_, a large tree with
-terminal panicles of white flowers, is a native of the Himalayas. In
+terminal panicles of white flowers, is a native of the [[Himalaya|Himalayas]]. In
 America there are several species--such as _Fraxinus americana_, the
 white ash; _F. pubescens_, the red ash; and _F. sambucifolia_, the black
 ash.
@@ -92,7 +92,7 @@ ash. It is called _Pyrus Aucuparia_, and belongs to the natural order
 Rosaceae, and the tribe _Pomeae_, which includes also apples, pears, &c.
 Its common name is probably due to its resemblance to the true ash, in
 its smooth grey bark, graceful ascending branches, and especially the
-form of the leaf, which is also pinnately compound but smaller than in
+form of the [[Leaf|leaf]], which is also pinnately compound but smaller than in
 the true ash. Its common name in Scotland is the rowan tree; it is well
 known by its clusters of white blossoms and succulent scarlet fruit. The
 name of poison ash is given to _Rhus venenata_, the North American

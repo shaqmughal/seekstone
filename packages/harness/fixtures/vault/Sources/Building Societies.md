@@ -2,7 +2,7 @@
 
 BUILDING SOCIETIES, the name given to societies "for the purpose of
 raising, by the subscriptions of the members, a stock or fund for making
-advances to members out of the funds of the society upon freehold,
+advances to members out of the funds of the society upon [[Freehold|freehold]],
 copyhold, or leasehold estate by way of mortgage," may be "either
 _terminating_ or _permanent_" (Building Societies Act 1874, Sec. 13). A
 "terminating" society is one "which by its rules is to terminate at a fixed
@@ -14,10 +14,10 @@ these societies would be--societies by means of which every man may become
 periodical subscriptions of a number of members, until each in his turn has
 been able to receive a sum sufficient to aid him materially in buying his
 dwelling-house. The origin and early history of these societies is not very
-clearly traceable. A mention of "building clubs" in Birmingham occurs in
+clearly traceable. A mention of "building clubs" in [[Birmingham]] occurs in
 1795; one is known to have been established by deed in the year 1809 at
-Greenwich; another is said to have been founded in 1825, under the auspices
-of the earl of Selkirk at Kirkcudbright in Scotland, and we learn
+[[Greenwich]]; another is said to have been founded in 1825, under the auspices
+of the earl of Selkirk at [[Kirkcudbright]] in Scotland, and we learn
 (Scratchley, _On Building Societies_, p. 5) that similar societies in that
 kingdom adopted the title of "menages."
 
@@ -28,7 +28,7 @@ object, several building societies were certified under it,--so many,
 indeed, that in 1836 a short act was passed confirming to them the
 privileges granted by the Friendly Societies Act, and according to them the
 additional privileges (very valuable at that time) of exemption from the
-usury laws, simplicity in forms of conveyance, power to reconvey by a mere
+usury laws, simplicity in forms of [[Conveyance|conveyance]], power to reconvey by a mere
 endorsement under the hands of the trustees for the time being, and
 exemption from stamp duty. This act remained unaltered until 1874, when an
 act was passed at the instance of the building societies conferring upon
@@ -38,7 +38,7 @@ doubts, which had grown up from the judicial expositions of the act of
 the privilege of incorporation to existing societies upon application, so
 that members and all who derive title through them were relieved from
 having to trace that title through the successive trustees of a society. It
-also gave a distinct declaration to the members of entire freedom from
+also gave a distinct [[Declaration|declaration]] to the members of entire freedom from
 liability to pay anything beyond the arrears due from them at the time of
 winding up, or the amount actually secured by their mortgage deeds. Power
 to borrow money was also expressly given to the societies by the act, but
@@ -47,7 +47,7 @@ the lender, by being printed on the acknowledgment for the loan, and that
 the borrowed money must not exceed two-thirds of the amount secured by
 mortgage from the members, or, in a terminating society, one year's income
 from subscriptions. Previous to the passing of the act (or rather to the
-judicial decision in _Laing_ v. _Read_, which the clause of the act made
+judicial decision in _[[Laing]]_ v. _Read_, which the clause of the act made
 statutory) there had been, on the one hand, grave doubts on high legal
 authority whether a society could borrow money at all; while, on the other
 hand, many societies in order to raise funds carried on the business of
@@ -122,7 +122,7 @@ who do not care to have, or have not yet received, an advance upon mortgage
 security are mere investors, and that it matters little when they commence
 investing, or to what amount; while those to whom advances have been made
 are really debtors to the society, and arrangements for enabling them to
-pay off their debt in various terms of years, according to their
+pay off their [[Debt|debt]] in various terms of years, according to their
 convenience, would be of advantage both to themselves and the society. By
 permitting members to enter at any time without back-payment, and by
 granting advances for any term of years agreed upon, a continuous inflow of
@@ -146,10 +146,10 @@ who had not received an advance being much smaller, while the amount of the
 advance was much larger, and it was made without any calculation of
 interest. Thus a society issued, say, 500 shares, on which the
 contributions were to be 1s. 3d. per week, and, as soon as a sum of L300
-accumulated allotted it by ballot to one of the shareholders, on condition
-that he was to repay it without interest by instalments in 10 or 121/2 years,
+accumulated allotted it by [[Ballot|ballot]] to one of the shareholders, on condition
+that he was to repay it without interest by [[Instalment|instalments]] in 10 or 121/2 years,
 and at the same time to keep up his share-contributions. The fortunate
-recipient of the appropriation was at liberty to sell it, and frequently
+recipient of the [[Appropriation|appropriation]] was at liberty to sell it, and frequently
 did so at a profit; but (except from fines) no profit whatever was earned
 by those who did not succeed in getting an appropriation, and as the number
 of members successful in the ballot must necessarily be small in the
@@ -178,9 +178,9 @@ practice of receiving deposits repayable at call had sprung up, which must
 lead to embarrassment where the funds are invested in loans repayable
 during a long term of years. It was surmised, if not actually known, that
 many societies had large amounts of property on their hands, which had been
-reduced into possession in consequence of the default of borrowers in
+reduced into possession in consequence of the [[Default|default]] of borrowers in
 paying their instalments. A practice had also grown up of establishing
-mushroom societies, which did little more than pay fees to the promoters.
+mushroom societies, which did little more than pay [[Fee|fees]] to the promoters.
 The vicious system of trafficking in advances that had been awarded by
 ballot, near akin to gambling, prevailed in many societies. These signs of
 weakness had been observed by the well-informed, and the disastrous failure
@@ -203,13 +203,13 @@ rapid decline of the amount of the capital of the incorporated building
 societies. From its highest point (nearly 54 millions) reached in 1887, it
 fell to below 43 millions in 1895. On some societies, which had adopted the
 deposit system, a run was made, and several were unable to stand it. The
-Birkbeck Society was for two days besieged by an anxious crowd of
+Birkbeck Society was for two days besieged by an anxious [[Crowd|crowd]] of
 depositors clamouring to withdraw their money; but luckily for that
 society, and for the building societies generally, a very large portion of
 its funds was invested in easily convertible securities, and it was enabled
 by that means to get sufficient assistance from the Bank of England to pay
 without a moment's hesitation every depositor who asked for his money. Its
-credit was so firmly established by this means that many persons sought to
+[[Credit|credit]] was so firmly established by this means that many persons sought to
 pay money in. Had this very large society succumbed, the results would have
 been disastrous to the whole body of building societies. As the case stood,
 the energetic means it adopted to save its own credit reacted in favour of
@@ -222,7 +222,7 @@ prepared measures--most of them more stringent than the government bill.
 All the bills were referred to a select committee, of which Mr Herbert
 Gladstone was the chairman. As the result of the deliberations of the
 committee, the Building Societies Act of 1894 was passed. Meanwhile the Rt.
-Hon. W.L. Jackson (afterwards Lord Allerton), a member of the committee,
+Hon. W.L. [[Jackson]] (afterwards Lord Allerton), a member of the committee,
 moved for an address to the crown for a return of the property held in
 possession by building societies. This was the first time such a return had
 been called for, and the managers of the societies much resented it; there
@@ -242,7 +242,7 @@ years after the passing of the act the societies reduced their properties
 in possession from 14% of the whole of the mortgages to 5%, or, in other
 words, reduced them to one-third of the original amount, from 71/2 millions
 to 21/2 millions. Though this operation must have been attended with some
-sacrifice in many societies, upon the whole the balance of profit has
+sacrifice in many societies, upon the whole the [[Balance|balance]] of profit has
 increased rather than diminished. Thus this provision of the act, though it
 greatly alarmed the managers of societies, was really a blessing in
 disguise. The act also gave power to the registrar, upon the application of
@@ -256,7 +256,7 @@ from members. It gave him ample powers to deal with a society which upon
 such investigation proved to be insolvent, and these were exercised so as
 to procure the cheap and speedy dissolution of such societies. It also
 prohibited the future establishment of societies making advances by ballot,
-or dependent on any chance or lot, and provided an easy method by which
+or dependent on any chance or [[Lot|lot]], and provided an easy method by which
 existing societies could discontinue the practice of balloting. This method
 has been adopted in a few instances only. The act, or the circumstances
 which led to it, has greatly diminished the number of new societies
@@ -265,7 +265,7 @@ applying for registry.
 The statistics of building societies belonging to all the three classes
 mentioned show that there were on the 31st of December 1904, 2118 societies
 in existence in the United Kingdom. Of these, 2075, having 609,785 members,
-made returns. Their gross receipts for the financial year were L38,729,009,
+made returns. Their [[Gross|gross]] receipts for the financial year were L38,729,009,
 and the amount advanced on mortgage during the year was L9,589,864. The
 capital belonging to their members was L39,408,430, and the undivided
 balance of profit L4,004,547. Their liabilities to depositors and other
@@ -296,7 +296,7 @@ not thought that they will permanently do so.
 
 _British Colonies._--In several of the British colonies, legislation
 similar to that of the mother country has been adopted. In Victoria,
-Australia, a crisis occurred, in which many building societies suffered
+[[Australia]], a crisis occurred, in which many building societies suffered
 severely. In the other Australian colonies the building society movement
 has made progress, but not to a very large extent. In the Dominion of
 Canada these societies are sometimes called "loan companies" and are not
@@ -307,11 +307,11 @@ L21,000,000. The uncalled capital was L5,000,000. The balance of current
 loans was L28,000,000, and the property owned by the societies exceeded
 L7,000,000.
 
-_Belgium, &c._--In Belgium, the Government Savings Bank has power to make
+_[[Belgium]], &c._--In Belgium, the Government Savings Bank has power to make
 advances of money to societies of credit or of construction to enable their
 members to become owners of dwelling-houses. The advance is made to the
 society at 3 or sometimes at 21/2% interest, and the borrower pays 4%. In the
-great majority of cases the borrower effects an insurance with the savings
+great majority of cases the borrower effects an [[Insurance|insurance]] with the savings
 bank so that his repayments terminate at his death. On the 31st of December
 1903 nearly 25,000 advances were in course of repayment. In Germany,
 building societies are recognized as a form of societies for self-help, but
@@ -325,7 +325,7 @@ exist, separate information with regard to them is not available.
 
 _United States._--"Building and loan association" is a general term applied
 in the United States to such institutions as mutual loan associations,
-homestead aid associations, savings fund and loan associations,
+[[Homestead|homestead]] aid associations, savings fund and loan associations,
 co-operative banks, co-operative savings and loan associations, &c. They
 are private corporations, for the accumulation of savings, and for the
 loaning of money to build homes. The first association of this kind in the
@@ -336,17 +336,17 @@ inception took place between 1840 and 1850. The receipts or capital of the
 building and loan association consists of periodical payments by the
 members, interest and premiums paid by borrowing members or others, fixed
 periodical instalments by borrowing members, fines for failures to pay such
-fixed instalments, forfeitures, fees for transferring stock, entrance fees,
+fixed instalments, [[Forfeiture|forfeitures]], fees for transferring stock, entrance fees,
 and any other revenues or payments,--all of which go into the common
 treasury. When the instalment payments and profits of all kinds equal the
 face value of all the shares issued, the assets, over and above expenses
-and losses, are apportioned among members, and this apportionment cancels
+and losses, are apportioned among members, and this [[Apportionment|apportionment]] [[Cancel|cancels]]
 the borrower's debt, while the non-borrower is given the amount of his
 stock. A man who wishes to borrow, let us say, $1000 for the erection of a
 house ordinarily takes five shares in an association, each of which, when
 he has paid all the successive instalments on it, will be worth $200, and
 he must offer suitable security for his loan, usually the lot on which he
-is to build. The money is not lent to him at regular rates of interest, as
+is to build. The money is not [[Lent|lent]] to him at regular rates of interest, as
 in the case of a savings bank or other financial institution, but is put up
 at auction usually in open meeting at the time of the payment of dues, and
 is awarded to the member bidding the highest premium. To secure the $1000
@@ -396,7 +396,7 @@ the dividends accrued thereon, reaches the maturing or par value, they are
 disposed of in the same manner as regular instalment shares. Some
 associations, instead of crediting all the profits made on this class of
 shares, allow a fixed rate of interest on the amount paid therefor at each
-dividend period, which is paid in cash to the holder thereof. This interest
+dividend period, which is paid in [[Cash|cash]] to the holder thereof. This interest
 is then deducted from the profits to which the shares are entitled, and the
 remainder is credited to the shares until such unpaid portion of the
 profits, added to the amount originally paid, equals the maturing or par
@@ -457,7 +457,7 @@ full in the ninth annual report of the U.S. commissioner of labour.
 Most building and loan associations confine their operations to a small
 community, usually to the county in which they are situated; but some of
 them operate on a large scale, extending their business enterprises even
-beyond the borders of their own state. These national associations are
+beyond the [[Borders|borders]] of their own state. These national associations are
 ready to make loans on property anywhere, and sell their shares to any
 person without reference to his residence. In local associations the total
 amount of dues paid in by the shareholders forms the basis for the
@@ -474,7 +474,7 @@ nationals has sometimes been the source of disaster. Safety or security in
 both local and national associations depends principally upon the integrity
 with which their affairs are conducted, and not so much upon the form of
 organization or the method of distribution. Some of the states--New York,
-Massachusetts, New Jersey, Ohio, Illinois, California and others--bring
+Massachusetts, New [[Jersey]], Ohio, Illinois, California and others--bring
 building and loan associations under the same general supervision of law
 thrown around savings banks. In some states nothing is officially known of
 them beyond the formalities of their incorporation. Though the business of
@@ -491,7 +491,7 @@ safe as it can be, for the monthly dues and the accumulated profits, which
 give the actual capital of the association, are lent or sold, as it is
 termed, by the association as fast as they accumulate, and upon real estate
 or upon the stock of the association itself. The opportunities for
-embezzlement, therefore, or for shrinkage of securities, are reduced to the
+[[Embezzlement|embezzlement]], therefore, or for shrinkage of securities, are reduced to the
 minimum, and an almost absolute safety of the investment is secured.
 
 The growth of these associations has been very rapid since 1840, and at the
@@ -508,15 +508,15 @@ latest fiscal year, and that this loss amounted to only a little over
 $23,000. Bulletin No. 10 (May 1897) of the U.S. department of labour
 contained a calculation of the business at that date, based upon such
 states' reports as were available. That calculation showed a growth in
-almost every item. During the years of depression ending with 1899 the
+almost every [[Item|item]]. During the years of depression ending with 1899 the
 growth of building and loan associations was naturally slower than in
 prosperous periods.
 
 See _Ninth Annual Report of U.S.A. Commissioner of Labour_ (1893);
 _Bulletin_, No. 10 (May 1897), of the Department of Labour; Edmund Rigley,
-_How to manage Building Associations_ (1873); Seymour Dexter, _A Treatise
-on Co-operation Savings and Loan Associations_ (New York, 1891); Charles N.
-Thompson, _A Treatise on Building Associations_ (Chicago, 1892).
+_How to [[Manage|manage]] Building Associations_ (1873); Seymour Dexter, _A Treatise
+on [[Co-Operation|Co-operation]] Savings and Loan Associations_ (New York, 1891); Charles N.
+Thompson, _A Treatise on Building Associations_ ([[Chicago]], 1892).
 
 (C. D. W.)
 

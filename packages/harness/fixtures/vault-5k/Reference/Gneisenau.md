@@ -64,7 +64,7 @@ had the deepest distrust of the British commander, who, he considered,
 had left the Prussians in the lurch at Ligny, and that to the hour of
 victory he had grave doubts as to whether he ought not to fall back on
 the Rhine. Blucher, however, soon recovered from his injuries, and, with
-Grolmann, the quartermaster-general, he managed to convince Gneisenau.
+[[Grolmann]], the quartermaster-general, he managed to convince Gneisenau.
 The relations of the two may be illustrated by Brigadier-General
 Hardinge's report. Blucher burst into Hardinge's room at Wavre, saying
 "_Gneisenau has given way_, and we are to march at once to your chief."

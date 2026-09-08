@@ -2,8 +2,8 @@
 
 CABEIRI, in Greek mythology, a group of minor deities, of whose character
 and worship nothing certain is known. Their chief seats of worship were the
-islands of Lemnos, Imbros and Samothrace, the coast of Troas, Thessalia and
-Boeotia. The name appears to be of Phoenician origin, signifying the
+islands of [[Lemnos]], [[Imbros]] and Samothrace, the coast of Troas, Thessalia and
+[[Boeotia]]. The name appears to be of Phoenician origin, signifying the
 "great" gods, and the Cabeiri seem to have been deities of the sea who
 protected sailors and navigation, as such often identified with the
 Dioscuri, the symbol of their presence being St Elmo's fire. Originally the
@@ -35,9 +35,9 @@ early as the 5th century B.C., their mysteries, possibly under Athenian
 influence, attracted great attention, and initiation was looked upon as a
 general safeguard against all misfortune. But it was in the period after
 the death of Alexander the Great that their cult reached its height.
-Demetrius Poliorcetes, Lysimachus and Arsinoe regarded the Cabeiri with
+[[Demetrius]] Poliorcetes, Lysimachus and [[Arsinoe]] regarded the Cabeiri with
 especial favour, and initiation was sought, not only by large numbers of
-pilgrims, but by persons of distinction. Initiation included also an asylum
+pilgrims, but by persons of distinction. Initiation included also an [[Asylum|asylum]]
 or refuge within the strong walls of Samothrace, for which purpose it was
 used among others by Arsinoe, who, to show her gratitude, afterwards caused
 a monument to be erected there, the ruins of which were explored in [v.04
@@ -50,8 +50,8 @@ vases as lying on a couch, his head surrounded with a garland of ivy, a
 drinking cup in his right hand; and accompanied by maenads and satyrs. The
 boy is probably his cup-bearer. The Cabeiri were held in even greater
 esteem by the Romans, who regarded themselves as descendants of the
-Trojans, whose ancestor Dardanus (himself identified in heroic legend with
-one of the Cabeiri) came from Samothrace. The identification of the three
+Trojans, whose ancestor [[Dardanus]] (himself identified in heroic legend with
+one of the Cabeiri) came from Samothrace. The [[Identification|identification]] of the three
 Capitoline deities with the Penates, and of these with the Cabeiri, tended
 to increase this feeling.
 

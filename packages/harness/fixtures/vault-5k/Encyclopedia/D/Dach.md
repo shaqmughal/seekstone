@@ -3,7 +3,7 @@
 DACH, SIMON (1605-1659), German lyrical poet, was born at Memel in East
 Prussia on the 29th of July 1605. Although brought up in humble
 circumstances, he received a careful education in the classical schools
-of Konigsberg, Wittenberg and Magdeburg, and entered the university of
+of Konigsberg, Wittenberg and [[Magdeburg]], and entered the university of
 Konigsberg in 1626 as a student of theology and philosophy. After taking
 his degree, he was appointed in 1633 _Kollaborator_ (teacher) and in
 1636 co-rector of the Domschule (cathedral school) in that city. In 1639

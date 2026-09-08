@@ -35,8 +35,8 @@ native silver has been detected as an enclosure in galena.
 
 Galena is of wide distribution, and occurs usually in metalliferous
 veins traversing crystalline rocks, clay-slates and limestones, and also
-as pockets in limestones. It is often associated with blende and
-pyrites, and with calcite, fluorspar, quartz, barytes, chalybite and
+as pockets in limestones. It is often associated with [[Blende|blende]] and
+pyrites, and with calcite, fluorspar, quartz, [[Barytes|barytes]], chalybite and
 pearlspar as gangue minerals; in the upper oxidized parts of the
 deposits, cerussite and anglesite occur as alteration products. The
 mineral has occasionally been observed as a recent formation replacing

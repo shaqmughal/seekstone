@@ -61,7 +61,7 @@ other parishes that of St Sampson was 5614 and that of Vale 5082. The
 population of the bailiwick of Guernsey nearly doubled between 1821 and
 1901, and that of the island increased from 35,243 in 1891 to 40,446 in
 1901. The island roads are excellent, Guernsey owing much in this
-respect to Sir John Doyle (d. 1834), the governor whose monument stands
+respect to Sir John [[Doyle]] (d. 1834), the governor whose monument stands
 on the promontory of Jerbourg. Like Jersey and the neighbouring part of
 France, Guernsey retains considerable traces of early habitation in
 cromlechs and menhirs, of which the most notable is the cromlech in the

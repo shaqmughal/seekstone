@@ -2,7 +2,7 @@
 
 FESCENNIA, an ancient city of Etruria, which is probably to be placed
 immediately to the N. of the modern Corchiano, 6 m. N.W. of Civita
-Castellana (see FALERII). The Via Amerina traverses it. G. Dennis
+Castellana (see FALERII). The Via Amerina traverses it. G. [[Dennis]]
 (_Cities and Cemeteries of Etruria_, London, 1883, i. 115) proposed to
 place it at the Riserva S. Silvestro, 3 m. E. of Corchiano, nearer the
 Tiber, where remains of Etruscan walls exist. At Corchiano itself,

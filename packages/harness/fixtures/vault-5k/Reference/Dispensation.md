@@ -16,7 +16,7 @@ particular cases, and its essence is to preserve the law by suspending
 its operation, i.e. making it non-existent, in such cases. It follows,
 then, that dispensation, in its strict sense, is anticipative, i.e. it
 does not absolve from the consequences of a legal obligation already
-contracted, but avoids a breach of the law by suspending the obligation
+contracted, but avoids a [[Breach|breach]] of the law by suspending the obligation
 to conform to it, e.g. a dispensation or licence to marry within the
 prohibited degrees, or to hold benefices in plurality. The term is,
 however, frequently used of the power claimed and exercised by the
@@ -27,7 +27,7 @@ granted by the pope _ex plenitudine potestatis_ from the obligation of
 celibacy, from religious and other vows, from _matrimonium ratum_, _non
 consummatum_, &c.
 
-1. _Ecclesiastical Law._--In the theory of the canon law the dispensing
+1. _[[Ecclesiastical Law]]._--In the theory of the canon law the dispensing
 power is the corollary of the legislative, the authority that makes
 laws, and no other, having power to suspend them. It follows that the
 law of nature (_jus naturae_) and _a fortiori_ the law of God (_jus
@@ -78,7 +78,7 @@ their influence. Dispensations to hold benefices in plurality formed,
 with provisions and the papal claim to the right of direct appointment,
 a powerful means for extending the patronage of the Holy See and
 therefore its hold over the clergy, and from the 13th century onwards
-this abuse assumed vast proportions (Hinschius iii. p. 250). Even more
+this abuse assumed vast proportions ([[Hinschius]] iii. p. 250). Even more
 scandalous was the almost unrestrained traffic in licences and
 dispensations at Rome, which grew up, at least as early as the 14th
 century, owing to the fees charged for such dispensations having come to
@@ -178,7 +178,7 @@ licensing them.
   See Hinschius, _Kirchenrecht_ (Berlin, 1883), iii. 250, &c.; article
   "Dispensation" by Hinschius in Herzog-Hauck, _Realencyklopadie_
   (Leipzig, 1898); article "Dispensation" in Wetzer and Welte's
-  _Kirchenlexikon_ (2nd ed. Freiburg im Breisgau, 1882-1901); F.
+  _Kirchenlexikon_ (2nd ed. [[Freiburg]] im Breisgau, 1882-1901); F.
   Lichtenberger, _Encyclopédie des sciences religieuses_ (Paris, 1878),
   s.v. "Dispense"; Phillimore, _Eccl. Law_.
 
@@ -217,7 +217,7 @@ the Revolution of 1688. The supreme crisis came owing to the use made by
 James II. of the dispensing power. His action in dispensing with the
 Test Act, in order to enable Roman Catholics to hold office under the
 crown, was supported by the courts in the test case of _Godden_ v.
-_Hales_, but it made the Revolution inevitable. By the Bill of Rights
+_[[Hales]]_, but it made the Revolution inevitable. By the Bill of Rights
 the exercise of the dispensing power was forbidden, except as might be
 permitted by statute. At the same time the legality of its exercise in
 the past was admitted by the clause maintaining the validity of

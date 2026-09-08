@@ -17,11 +17,11 @@ by indifference on his part. Therefore, in English, as in Roman law,
 ignorance of the law is no ground for avoiding the consequences of an
 act. So far as regards criminal offences, the maxim as to _ignorantia
 juris_ admits of no exception, even in the case of a foreigner
-temporarily in England, who is likely to be ignorant of English law. In
+temporarily in England, who is likely to be ignorant of [[English Law|English law]]. In
 Roman law the harshness of the rule was mitigated in the case of women,
 soldiers and persons under the age of twenty-five, unless they had good
 legal advice within reach (_Dig._ xxii. 6. 9). Ignorance of a matter of
-fact may in general be alleged in avoidance of the consequences of acts
+fact may in general be alleged in [[Avoidance|avoidance]] of the consequences of acts
 and agreements, but such ignorance cannot be pleaded where it is the
 duty of a person to know, or where, having the means of knowledge at his
 disposal, he wilfully or negligently fails to avail himself of it (see

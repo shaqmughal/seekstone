@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Buckle"
 
 BUCKLE, HENRY THOMAS (1821-1862), English historian, author of the _History
 of Civilization_, the son of Thomas Henry Buckle, a wealthy London
-merchant, was born at Lee, in Kent, on the 24th of November 1821. Owing to
+merchant, was born at [[Lee]], in Kent, on the 24th of November 1821. Owing to
 his delicate health he was only a very short time at school, and never at
 college, but the love of reading having been early awakened in him, he was
 allowed ample means of gratifying it. He gained his first distinctions not
@@ -31,7 +31,7 @@ reprinted in the first volume of the _Miscellaneous and Posthumous Works_.
 On the 1st of April 1859 a crushing and desolating affliction fell upon him
 in the death of his mother. It was under the immediate impression of his
 loss that he concluded a review he was writing of J.S. Mill's _Essay on
-Liberty_ with an argument for immortality, based on the yearning of the
+Liberty_ with an argument for [[Immortality|immortality]], based on the yearning of the
 affections to regain communion with the beloved dead,--on the impossibility
 of standing up and living, if we believed the separation were final. The
 argument is a strange one to have been used by a man who had maintained so
@@ -41,10 +41,10 @@ May 1859, and is to be found also in the _Miscellaneous and Posthumous
 Works_ (1872). The second volume of his history was published in May 1861.
 Soon after he left England for the East, in order to recruit his spirits
 and restore his health. From the end of October 1861 to the beginning of
-March 1862 was spent by him in Egypt, from which he went over the desert of
-Sinai and of Edom to Syria, reaching Jerusalem on the 19th of April 1862.
+March 1862 was spent by him in Egypt, from which he went over the [[Desert|desert]] of
+Sinai and of [[Edom]] to Syria, reaching Jerusalem on the 19th of April 1862.
 After staying there eleven days, he set out for Europe by Beyrout, but at
-Nazareth he was attacked by fever; and he died at Damascus on the 29th of
+Nazareth he was attacked by [[Fever|fever]]; and he died at [[Damascus]] on the 29th of
 May 1862.
 
 Buckle's fame, which must rest wholly on his _History of Civilization in
@@ -60,15 +60,15 @@ complexity of social phenomena, extremely little had as yet been done
 towards discovering the principles which govern the character and destiny
 of nations, or, in other words, towards establishing a science of history;
 (2) That, while the theological dogma of predestination is a barren
-hypothesis beyond the province of knowledge, and the metaphysical dogma of
-free will rests on an erroneous belief in the infallibility of
+[[Hypothesis|hypothesis]] beyond the province of knowledge, and the metaphysical dogma of
+free will rests on an erroneous belief in the [[Infallibility|infallibility]] of
 consciousness, it is proved by science, and especially by statistics, that
 human actions are governed by laws as fixed and regular as those which rule
 in the physical world; (3) That climate, soil, food, and the aspects of
 nature are the primary causes of intellectual progress,--the first three
 indirectly, through determining the accumulation and distribution of
 wealth, and the last by directly influencing the accumulation and
-distribution of thought, the imagination being stimulated and the
+distribution of thought, the [[Imagination|imagination]] being stimulated and the
 understanding subdued when the phenomena of the external world are sublime
 and terrible, the understanding being emboldened and the imagination curbed
 when they are small and feeble; (4) That the great division between
@@ -83,7 +83,7 @@ method, that is, by the introspective study of the individual mind, but
 only by such a comprehensive survey of facts as will enable us to eliminate
 disturbances, that is, by the method of averages; (7) That human progress
 has been due, not to moral agencies, which are stationary, and which
-balance one another in such a manner that their influence is unfelt over
+[[Balance|balance]] one another in such a manner that their influence is unfelt over
 any long period, but to intellectual activity, which has been constantly
 varying and advancing:--"The actions of individuals are greatly affected by
 their moral feelings and passions; but these being antagonistic to the

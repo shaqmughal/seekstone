@@ -19,7 +19,7 @@ The import trade brought up by large junks from Ich'ang, and consisting
 of cotton cloth, yarn, metals and foreign manufactures, centres here,
 and is distributed by a class of smaller vessels up the various rivers
 of the provinces. Native produce, such as yellow silk, white wax, hides,
-rhubarb, musk and opium, is here collected and repacked for conveyance
+rhubarb, musk and opium, is here collected and repacked for [[Conveyance|conveyance]]
 to Hankow, Shanghai or other parts of the empire. The city was opened to
 foreign trade by convention with the British government in 1891, with
 the proviso, however, that foreign steamers should not be at liberty to
@@ -30,7 +30,7 @@ that date the problem of steam navigation on the section of the river
 between Ich'ang and Ch'ungk'ing occupied attention. By 1907 a small
 steamer had been navigated up the rapids, but it remained a question how
 far steam navigation could be made a practical success. The trade was
-carried on by native craft, hauled up against the strength of the
+carried on by native [[Craft|craft]], hauled up against the strength of the
 current in the worst places by a line of trackers on the bank. The great
 rise in the river during the summer months, at Ch'ungk'ing ordinarily 70
 ft. and occasionally as much as 96 ft., added to the difficulties. The

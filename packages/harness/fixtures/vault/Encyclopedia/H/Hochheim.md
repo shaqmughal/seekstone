@@ -8,8 +8,8 @@ topic: history
 
 HOCHHEIM, a town of Germany, in the Prussian province of Hesse-Nassau,
 situated on an elevation not far from the right bank of the Main, 3 m.
-above its influx into the Rhine and 3 m. E. of Mainz by the railway from
-Cassel to Frankfort-on-Main. Pop. (1905) 3779. It has an Evangelical and
+above its influx into the Rhine and 3 m. E. of [[Mainz]] by the railway from
+[[Cassel]] to [[Frankfort-On-Main|Frankfort-on-Main]]. Pop. (1905) 3779. It has an Evangelical and
 a Roman Catholic church, and carries on an extensive trade in wine, the
 English word "Hock," the generic term for Rhine wine, being derived from
 its name. Hochheim is mentioned in the chronicles as early as the 7th

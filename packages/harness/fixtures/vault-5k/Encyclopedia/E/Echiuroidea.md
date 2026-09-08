@@ -5,8 +5,8 @@ zoological name for a small group of marine animals which show in their
 larval life-history a certain degree of segmentation, and are therefore
 grouped by some authorities as Annelids. Formerly, together with the
 Sipunculoidea and Priapuloidea, they made up the class Gephyrea, but on
-the ground that they retain in the adult a large preoral lobe (the
-proboscis), that they have anal vesicles, that their anus is terminal,
+the ground that they retain in the adult a large preoral [[Lobe|lobe]] (the
+proboscis), that they have anal vesicles, that their [[Anu|anus]] is terminal,
 that setae are found, and finally that they are segmented in the larval
 stage, they have been removed from the class, which by the proposed
 further separation of the Priapuloidea on account of their unique renal
@@ -31,10 +31,10 @@ green colour. A pair of curved bristles, formed in true setal sacs as in
 Chaetopoda, project from the body a short distance behind the mouth, and
 are moved by special muscles; they are of use in helping the animal to
 move slowly about, and they take a large share in the burrowing
-movements (C.B. Wilson, _Biol. Bull._, 1900), for some species tunnel in
+movements (C.B. Wilson, _Biol. [[Bull]]._, 1900), for some species tunnel in
 the mud and sand and form more or less permanent burrows, the walls of
 which are strengthened by mucus secreted from the skin. The openings of
-the burrows become silted up, leaving, however, a small aperture through
+the burrows become silted up, leaving, however, a small [[Aperture|aperture]] through
 which the proboscis is extruded. This organ carefully searches the
 neighbourhood for particles of food. When these are found the grooved
 proboscis folds its walls inwards, and the cilia pass the particles down
@@ -77,7 +77,7 @@ left side.
   are supported by strands of connective tissue, which in some species
   are united so as to form a dorsal mesentery, whilst traces of a
   ventral mesentery are met with anteriorly and posteriorly (H.L.
-  Jameson, _Zool. Jahrb. Anat._, 1899). The alimentary canal is
+  [[Jameson]], _Zool. Jahrb. Anat._, 1899). The alimentary canal is
   divisible into fore-gut, mid-gut and hind-gut, and the first-named can
   be further divided into pharynx, oesophagus, gizzard and crop, mainly
   on histological grounds. The mid-gut is characterized by the presence
@@ -107,7 +107,7 @@ left side.
   the dorsal vessel. In _Echiurus_ and _Thalassema_ the same vessel
   forms a ring round a stout muscle, which connects the bases of the two
   ventral setae before passing to surround the intestine. Amoeboid
-  corpuscles float in the fluid contents. The nephridia vary in number
+  corpuscles [[Float|float]] in the fluid contents. The nephridia vary in number
   from a single one in _Bonellia_ to three pairs in many species of
   _Thalassema_. Their external openings are ventral, and on the same
   level as the ciliated funnel-shaped nephrostomes. The posterior wall
@@ -116,7 +116,7 @@ left side.
   starts from a circumoesophageal ring. This ring is involved in the
   growth of the proboscis, and is drawn out with it. Thus there is a
   lateral nerve near each edge of the proboscis which unites with its
-  fellow dorsally above the oesophagus at the tip of the proboscis, and
+  [[Fellow|fellow]] dorsally above the oesophagus at the tip of the proboscis, and
   ventrally beneath the oesophagus, where they fuse to form the ventral
   nerve-cord. There are no specialized ganglia, but ganglion-cells are
   scattered uniformly along the nerve-cords. The ventral cord gives off
@@ -158,16 +158,16 @@ left side.
   parasite which is the fully-formed male. This now creeps along the
   body of the female and takes up its home in her nephridia.
 
-_Classification and Distribution._--The Echiuroidea consists of the
+_[[Classification]] and Distribution._--The Echiuroidea consists of the
 following genera:--(1) _Bonellia_ (Rol.), with four species, widely
 distributed, but inhabiting the temperate and warmer waters of each
 hemisphere. (2) _Echiurus_ (Guerin-Meneville), with four species. This
-genus reaches from the Arctic waters of both hemispheres into the cooler
+genus reaches from the [[Arctic]] waters of both hemispheres into the cooler
 temperate regions. (3) _Hamingia_ (Kor. and Dan.), with one species,
 which has been taken in the Arctic Sea and the Hardanger Fjord. (4)
 _Saccosoma_ (Kor. and Dan.) was described from a single specimen dredged
-about half-way between Iceland and Norway. (5) _Thalassema_ (Gaertner,
-Lamarck), with twenty-one species. This genus is in the main a denizen
+about half-way between [[Iceland]] and Norway. (5) _Thalassema_ (Gaertner,
+Lamarck), with twenty-one species. This genus is in the main a [[Denizen|denizen]]
 of the warmer waters of the globe. Sixteen species are found only in
 tropical or subtropical seas, three species are Mediterranean (_Mt.
 Stat. Neapel_, 1899), whilst three species are from the eastern

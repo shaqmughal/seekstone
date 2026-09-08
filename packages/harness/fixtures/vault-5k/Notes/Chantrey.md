@@ -25,12 +25,12 @@ himself to portrait-painting, bust-sculpture, and modelling in clay. He
 exhibited pictures at the Academy for some years from 1804, but from
 1807 onwards devoted himself mainly to sculpture. The sculptor Nollekens
 showed particular zeal in recognizing his merits. In 1807 he married his
-cousin, Miss Wale, who had some property of her own. His first
+[[Cousin|cousin]], Miss Wale, who had some property of her own. His first
 imaginative work in sculpture was the model of the head of Satan, which
 was exhibited at the Royal Academy in 1808. He afterwards executed for
-Greenwich hospital four colossal busts of the admirals Duncan, Howe,
+[[Greenwich]] hospital four colossal busts of the admirals Duncan, Howe,
 Vincent and Nelson; and so rapidly did his reputation spread that the
-next bust which he executed, that of Horne Tooke, procured him
+next bust which he executed, that of [[Horne]] Tooke, procured him
 commissions to the extent of L12,000. From this period he was almost
 uninterruptedly engaged in professional labour. In 1819 he visited
 Italy, and became acquainted with the most distinguished sculptors of
@@ -43,10 +43,10 @@ and was buried in a tomb constructed by himself in the church of his
 native village.
 
 The works of Chantrey are extremely numerous. The principal are the
-statues of Washington in the State-house at Boston, U.S.A.; of George
+statues of Washington in the State-house at [[Boston]], U.S.A.; of George
 III. in the Guildhall, London; of George IV. at Brighton; of Pitt in
-Hanover Square, London; of James Watt in Westminster Abbey and in
-Glasgow; of Roscoe and Canning in Liverpool; of Dalton in Manchester; of
+[[Hanover]] Square, London; of James Watt in Westminster Abbey and in
+[[Glasgow]]; of Roscoe and Canning in Liverpool; of Dalton in Manchester; of
 Lord President Blair and Lord Melville in Edinburgh, &c. Of his
 equestrian statues the most famous are those of Sir Thomas Munro in
 Calcutta, and the duke of Wellington in front of the London Exchange.
@@ -55,12 +55,12 @@ of children. The figures of two children asleep in each other's arms,
 which form a monumental design in Lichfield cathedral, have always been
 lauded for beauty, simplicity and grace. So is also the statue of the
 girlish Lady Louisa Russell, represented as standing on tiptoe and
-fondling a dove in her bosom. Both these works appear, in design, to
+fondling a [[Dove|dove]] in her bosom. Both these works appear, in design, to
 have owed something to Stothard; for Chantrey knew his own scantiness of
 ideal invention or composition, and on system sought aid from others for
 such attempts. In busts, his leading excellence is facility--a ready
 unconstrained air of life, a prompt vivacity of ordinary expression.
-Allan Cunningham and Weekes were his chief assistants, and were indeed
+Allan [[Cunningham]] and Weekes were his chief assistants, and were indeed
 the active executants of many works that pass under Chantrey's name.
 Chantrey was a man of warm and genial temperament, and is said to have
 borne noticeable though commonplace resemblance to the usual portraits
@@ -149,7 +149,7 @@ marble).
   Laidlay (London, 1898), controversial; _Report from the Select
   Committee of the House of Lords on the Chantrey Trust; together with
   the Proceedings of the Committee, Minutes of Evidence and Appendix_
-  (Wyman & Sons, 1904), and _Index_ (separate publication, 1904).
+  (Wyman & Sons, 1904), and _[[Index]]_ (separate publication, 1904).
 
 ## References
 

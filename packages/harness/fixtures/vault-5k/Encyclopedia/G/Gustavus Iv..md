@@ -30,7 +30,7 @@ which might have led to a war with Russia but for the fanatical hatred
 of the French republic shared by the emperor Paul and Gustavus IV.,
 which served as a bond of union between them. Indeed the king's horror
 of Jacobinism was morbid in its intensity, and drove him to adopt all
-sorts of reactionary measures and to postpone his coronation for some
+sorts of reactionary measures and to postpone his [[Coronation|coronation]] for some
 years, so as to avoid calling together a diet; but the disorder of the
 finances, caused partly by the continental war and partly by the almost
 total failure of the crops in 1798 and 1799, compelled him to summon the
@@ -60,7 +60,7 @@ Gustavus now assumed the title of count of Gottorp, but subsequently
 called himself Colonel Gustafsson, under which pseudonym he wrote most
 of his works. He led, separated from his family, an erratic life for
 some years; was divorced from his consort in 1812; and finally settled
-at St Gall in Switzerland in great loneliness and indigence. He died on
+at St [[Gall]] in Switzerland in great loneliness and indigence. He died on
 the 7th of February 1837, and, at the suggestion of King Oscar II. his
 body was brought to Sweden and interred in the Riddarholmskyrka. From
 him descend both the Baden and the Oldenburg princely houses on the

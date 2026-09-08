@@ -9,7 +9,7 @@ type: article
 
 HARMATTAN, the name of a hot dry parching wind that blows during
 December, January and February on the coast of Upper Guinea, bringing a
-high dense haze of red dust which darkens the air. The natives smear
+high dense haze of red [[Dust|dust]] which darkens the air. The natives smear
 their bodies with oil or fat while this parching wind is blowing.
 
 ## See also

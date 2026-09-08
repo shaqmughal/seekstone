@@ -18,11 +18,11 @@ decorated in the most sumptuous fashion, and like the chapel, served by
 thirty-five priests, was furnished with a profusion of golden ornaments.
 Some idea of the size of Henry's following may be gathered from the fact
 that in one month 2200 sheep and other viands in a similar proportion
-were consumed. In the fields beyond the castle, tents to the number of
+were consumed. In the [[Fields|fields]] beyond the castle, tents to the number of
 2800 were erected for less distinguished visitors, and the whole scene
-was one of the greatest animation. Ladies gorgeously clad, and knights,
-showing by their dress and bearing their anxiety to revive the glories
-and the follies of the age of chivalry, jostled mountebanks, mendicants
+was one of the greatest animation. Ladies gorgeously clad, and [[Knight|knights]],
+showing by their [[Dress|dress]] and bearing their anxiety to revive the glories
+and the follies of the age of [[Chivalry|chivalry]], jostled mountebanks, mendicants
 and vendors of all kinds.
 
 Journeying from Calais Henry reached his headquarters at Guînes on the
@@ -35,7 +35,7 @@ Wolsey had said mass the two sovereigns separated on the 24th. This
 meeting made a great impression on contemporaries, but its political
 results were very small.
 
-  The _Ordonnance_ for the _Field_ is printed by J.S. Brewer in the
+  The _Ordonnance_ for the _Field_ is printed by J.S. [[Brewer]] in the
   _Calendar of State Papers, Henry VIII_. vol. iii. (1867). See also
   J.S. Brewer, _Reign of Henry VIII_. (1884).
 

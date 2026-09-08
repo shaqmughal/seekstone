@@ -22,7 +22,7 @@ her with the Franciscan habit, 1212. He placed her for a couple of years
 in a Benedictine convent in Assisi, until the convent at St Damian's,
 close to the town, was ready. Her two younger sisters, and, after her
 father's death, her mother and many others joined her, and the
-Franciscan nuns spread widely and rapidly (see CLARES, POOR). The
+Franciscan nuns spread widely and rapidly (see [[Clares|CLARES]], POOR). The
 relations of friendship and sympathy between St Clara and St Francis
 were very close, and there can be no doubt that she was one of the
 truest heirs of Francis's inmost spirit. After his death Clara threw

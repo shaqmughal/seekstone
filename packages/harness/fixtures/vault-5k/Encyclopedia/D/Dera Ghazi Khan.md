@@ -13,14 +13,14 @@ mosques in the native quarter. It commands the direct approaches to the
 Baluch highlands by Sakki Sarwar and Fort Monro. For many years past
 both the town and cantonment have been threatened by the erosion of the
 river Indus. The town was founded at the close of the 15th century and
-named after Ghazi Khan, son of Haji Khan, a Baluch chieftain, who after
+named after Ghazi [[Khan]], son of Haji Khan, a Baluch chieftain, who after
 holding the country for the Langah sultans of Multan had made himself
 independent. Together with the two other _deras_ (settlements), Dera
 Ismail Khan and Dera Fateh Khan, it gave its name to the territorial
 area locally and historically known as Derajat, which after many
 vicissitudes came into the possession of the British after the Sikh War,
 in 1849, and was divided into the two districts of Dera Ghazi Khan and
-Dera Ismail Khan.
+[[Dera Ismail Khan]].
 
 The DISTRICT OF DERA GHAZI KHAN contains an area of 5306 sq. m. The
 district is a long narrow strip of country, 198 m. in length, sloping
@@ -43,7 +43,7 @@ boats. The geographical boundary between the Pathan and Baluch races in
 the hills nearly corresponds with the northern limit of the district.
 The frontier tribes on the Dera Ghazi Khan border include the Kasranis,
 Bozdars, Khosas, Lagharis, Khetvans, Gurchanis, Mazaris, Mariris and
-Bugtis. The chief of these are described under their separate names.
+[[Bugti|Bugtis]]. The chief of these are described under their separate names.
 
 ## See also
 

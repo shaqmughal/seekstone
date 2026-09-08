@@ -7,7 +7,7 @@ id: 42-2924
 
 # Coccidia
 
-COCCIDIA, an important order of Sporozoa Ectospora, parasites possessing
+COCCIDIA, an important order of Sporozoa [[Ectospora]], parasites possessing
 certain very distinctive characters. With one or two possible
 exceptions, they are invariably intracellular during the entire trophic
 life of the individual. They always attack tissue-cells, usually of an
@@ -24,9 +24,9 @@ sporogony (spore- and sporozoite-formation) goes on.
 
   History.
 
-Hake (1839) was, perhaps, the first to describe a Coccidian, but he
+[[Hake]] (1839) was, perhaps, the first to describe a Coccidian, but he
 regarded the parasites as pathological cell-products. In 1845 N.
-Lieberkühn pointed out the resemblances to Gregarines, with which
+Lieberkühn pointed out the resemblances to [[Gregarines]], with which
 organisms he considered Coccidia to be allied. A year later, H. Kloss
 proved the existence of similar parasites in the snail, and attempted to
 construct their life-history; this form was subsequently named _Klossia
@@ -51,10 +51,10 @@ Molluscs, Arthropods and Annelids; the first named group furnishes by
 far the most hosts, the parasites being frequently met with in domestic
 animals, both birds and mammals. Following from the casual method of
 infection, the epithelium of the gut or of its appendages (e.g. the
-liver [Plate I., fig. 1]) is a very common seat of the parasitic
+[[Liver|liver]] [Plate I., fig. 1]) is a very common seat of the parasitic
 invasion. But in many cases Coccidia are found in other organs, to which
 they are doubtless carried by lymphatic or circulatory channels. In
-Molluscs, they often occur in the kidneys (fig. 2); in Insects, they are
+Molluscs, they often occur in the kidneys (fig. 2); in [[Insect|Insects]], they are
 met with as "coelomic" parasites, the fat-bodies, pericardial cells,
 &c., being a favourite habitat; even the testis is not free from their
 attentions in one or two instances, though the ovary appears always
@@ -81,7 +81,7 @@ serious. For, although any one individual only causes the death of a
 single host-cell, yet the number of the parasites may be so enormously
 increased by this means, that the entire affected epithelium may be
 overrun and destroyed. Thus are occasioned grave attacks of coccidiosis,
-characterized by severe enteritis and diarrhoea, which may end fatally.
+characterized by severe [[Enteritis|enteritis]] and diarrhoea, which may end fatally.
 In the case of the Vertebrates, secondary causes, resulting from the
 stoppage of the bile ducts, also help to produce death. There is,
 however, one factor in the endangered animal's favour. Schizogony cannot
@@ -98,7 +98,7 @@ equilibrium to the deranged metabolism in time to prevent collapse.
 
   Morphology and life-history.
 
-_Coccidium schubergi_, parasitic in the intestine of a centipede
+_Coccidium schubergi_, parasitic in the intestine of a [[Centipede|centipede]]
 (_Lithobius forficatus_), may be taken as an example of a Coccidian
 life-history (see Schaudinn, 1900): some of the more important
 variations exhibited by other forms will be noted afterwards. The
@@ -146,7 +146,7 @@ numerous microgametes break loose from the body of the microgametocyte
 and swim away in search of a female element.
 
 A megagametocyte (VI. [venus]) is distinguished by its rather different
-shape, being more like a bean than a sphere until ripe for maturation,
+shape, being more like a [[Bean|bean]] than a sphere until ripe for maturation,
 and by the fact that it stores up in its cytoplasm quantities of reserve
 nutriment in the form of rounded refringent plastinoid grains. Each
 female gametocyte gives rise to only a single female element
@@ -172,7 +172,7 @@ begin sporogony.
 
 Sporogony goes on indifferently either inside the host or after the cyst
 has been passed out with the faeces to the exterior. The definitive
-nucleus of the zygote (resulting from the intimate fusion of the male and
+nucleus of the zygote (resulting from the intimate [[Fusion|fusion]] of the male and
 female pronuclei, by means of a somewhat elaborate "fertilization-spindle"
 [X.]) gives rise by successive direct divisions to four nuclei (XII.),
 around which the protoplasm becomes segregated; these segments form the
@@ -204,7 +204,7 @@ PLATE I.
   HORTENSIS.
 
   a, Portion of a section of the kidney showing normal epithelial cells
-  containing concretions (c), and enlarged epithelial cells containing
+  containing [[Concretion|concretions]] (c), and enlarged epithelial cells containing
   the parasite (k) in various stages; b, cyst of the _Klossia_
   containing sporoblasts; c, cyst with ripe spores, each enclosing four
   sporozoites and a patch of residual protoplasm. (From Wasielewski,
@@ -241,7 +241,7 @@ PLATE I.
   mass containing the parasite (represented clear, with a thick
   outline). The other spermatogonia are normal. b, Intracellular
   schizont divided up into schizontocytes (c), each schizontocyte giving
-  rise to a cluster of merozoites arranged as a "corps en barillet";
+  rise to a cluster of merozoites arranged as a "[[Corps|corps]] en barillet";
   spg, spermatogonia; h.c, host-cell; N, nucleus of host-cell or cells;
   n, nucleus of parasite; szc, schizontocyte; mz, merozoites; r.b,
   residual bodies of the schizontocytes. (From Minchin, after
@@ -289,7 +289,7 @@ PLATE II.
 
   [Illustration: FIG. 7.--SPORES OF VARIOUS COCCIDIAN GENERA.
 
-  a, _Minchinia chitonis_ (E.R.L.), (par. _Chiton_); b, _Diaspora
+  a, _Minchinia chitonis_ (E.R.L.), (par. _[[Chiton]]_); b, _Diaspora
   hydatidea_, Léger (par. _Polydesmus_); c, _Echinospora labbei_, Léger
   (par. _Lithobius mutabilis_); d, _Goussia motellae_, Labbé; e,
   _Diplospora_ (_Hyaloklossia_), _lieberkuhni_ (Labbé), (par. _Rana
@@ -358,7 +358,7 @@ question of association see also GREGARINES.)
 
 In sporogony, great variation is seen with respect to the number of
 spores and sporozoites formed; and, as in Gregarines, these characters
-are largely used for purposes of classification, under which heading
+are largely used for purposes of [[Classification|classification]], under which heading
 they are better considered. Usually, the spores (fig. 7) are quite
 simple in outline, and not produced into spines or processes;
 exceptions are found, however, in a few instances (e.g. _Minchinia
@@ -370,7 +370,7 @@ i.e. there is no alternation of true hosts.[6] Schaudinn, in his work on
 the _Coccidia_ of _Lithobius_ (1900), showed that the oocysts expelled
 with the faeces may be eaten by wood-lice (Oniscus), but when this
 happens they pass through the intestine of the wood-louse unaltered, the
-latter not being an intermediate host but merely a carrier.
+latter not being an intermediate host but merely a [[Carrier|carrier]].
 
 
   Classification.
@@ -382,7 +382,7 @@ latter not being an intermediate host but merely a carrier.
   the sporozoites being unenclosed (gymnospores).
 
   Genus, _Légerella_, Mesnil. This genus actually conforms to Aimé
-  Schneider's original definition of _Eimeria_, which was founded on
+  Schneider's original [[Definition|definition]] of _Eimeria_, which was founded on
   what were really the schizogonous generations of other forms, then
   thought to be distinct. In view of the great confusion attending the
   use of this name, however, Mesnil (1900) has suggested the new one
@@ -503,7 +503,7 @@ latter not being an intermediate host but merely a carrier.
   Gregarines in which the sporozoites are naked) constitute in reality
   nothing more or less than a schizogonous generation of these
   Cephalopodan parasites, which have thus an alternation of true hosts.
-  The ripe sporocysts from the Cephalopod are eaten by a particular crab
+  The ripe sporocysts from the Cephalopod are eaten by a particular [[Crab|crab]]
   (e.g. _Portunus_ or _Inachus_, according to the parasite), the
   sporozoites are liberated and traverse the mucous membrane of the
   intestine, coming to rest in the surrounding lymphatic layer. Here a
@@ -545,7 +545,7 @@ latter not being an intermediate host but merely a carrier.
   with the order:--G. Bonnet-Eymard, "Sur l'Évolution de l'_Eimeria
   nova_, Schneider," _C.R. Soc. Biol._ 52, p. 659, 1900; L. Brasil, "Sur
   une Coccidie nouvelle, &c.," _C.R.Ac. Sci._ 139, p. 645, 1904; L.
-  Cuénot, "_Légerella testiculi_ n. sp., &c.," _Arch. Zool. exp._ (N. et
+  Cuénot, "_Légerella testiculi_ n. sp., &c.," _[[Arch]]. Zool. exp._ (N. et
   R.), (3) 10, p. 49, 6 figs., 1902; M. Jacquemet, "Sur la systématique
   des Coccidies des Céphalopodes," _Arch. Protistenk._ 2 p., 190, 1903;
   A. Labbé, "Recherches zoologiques, cytologiques et biologiques sur les
@@ -561,7 +561,7 @@ latter not being an intermediate host but merely a carrier.
   418, 1898; L. Léger, "Sur la morphologie et le développement des
   microgamètes des Coccidies," _Arch. zool. exp._ (N. et R.) (3), 6,
   1898; L. Léger, "Essai sur la classification des Coccidies, &c.,"
-  _Ann. Mus. Nat. Hist._, Marseille (2), Bull. i. p. 71, 4 pls., 1898;
+  _Ann. Mus. Nat. Hist._, Marseille (2), [[Bull]]. i. p. 71, 4 pls., 1898;
   L. Léger "Sur la présence d'une Coccidie coelomique chez Olocrates,
   &c.," _Arch. zool. exp_. (N. et R.) (3), 8, p. i., 1900; L. Léger,
   "Sur le genre _Eimeria_ et la classification des Coccidies," _C.R.

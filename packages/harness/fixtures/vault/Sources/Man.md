@@ -1,10 +1,10 @@
 # Man
 
 MAN, ISLE OF (anc. _Mona_), a dominion of the crown of England, in the
-Irish Sea. (For map, see ENGLAND, section I.) It is about 33 m. long by
+Irish Sea. (For [[Map|map]], see ENGLAND, section I.) It is about 33 m. long by
 about 12 broad in the broadest part. Its general form resembles that of
-an heraldic lozenge, though its outline is very irregular, being
-indented with numerous bays and narrow creeks. Its chief physical
+an heraldic [[Lozenge|lozenge]], though its outline is very irregular, being
+indented with numerous bays and narrow [[Creek|creeks]]. Its chief physical
 characteristic is the close juxtaposition of mountain, glen and sea,
 which has produced a variety and beauty of scenery unsurpassed in any
 area of equal size elsewhere.
@@ -24,8 +24,8 @@ more imposing appearance than many hills of greater altitude. On the
 south-west, where they descend precipitously into the sea, they unite
 with the cliffs to the north and south of them to produce the most
 striking part of the coast scenery for which the isle is remarkable.
-But, indeed, the whole coast from Peel round by the Calf, past
-Castletown and Douglas to Maughold Head, near Ramsey, is distinguished
+But, indeed, the whole coast from Peel round by the [[Calf]], past
+[[Castletown]] and Douglas to Maughold Head, near Ramsey, is distinguished
 by rugged grandeur. From Ramsey round by the Point of Ayre to within a
 few miles of Peel extend low sandy cliffs, bordered by flat sandy
 shores, which surround the northern plain. This plain is relieved only
@@ -33,7 +33,7 @@ by a low range of hills, the highest of which attains an elevation of
 270 ft. The drainage of the island radiates from the neighbourhood of
 Snaefell, from which mountain and its spurs streams have on all sides
 found their way to the sea. The most important of these are the Sulby,
-falling into the sea at Ramsey; the _Awin-glass_ (bright river) and the
+falling into the sea at Ramsey; the _Awin-glass_ ([[Bright|bright]] river) and the
 _Awin-dhoo_ (dark river), which unite their waters near Douglas; the
 _Neb_, at the mouth of which Peel is situated; and the _Awin-argid_
 (silver river, now called the Silverburn), which joins the sea at
@@ -49,14 +49,14 @@ Mary; and, on the west coast, Port Erin and Peel.
 
   _Geology._--The predominant feature in the stratigraphy of the Isle of
   Man is, in the words of G. W. Lamplough,[1] "the central ridge of
-  slate and greywacke, which seems to have constituted an insulated
+  slate and [[Greywacke|greywacke]], which seems to have constituted an insulated
   tract at as early a date as the beginning of the Carboniferous period.
   This prototype of the present island appears afterwards to have been
   enfolded and obliterated by the sediments of later times; but with the
   progress of denudation the old ridge has once more emerged from
-  beneath this mantle." This mass of ancient rocks, the Manx Slate
+  beneath this [[Mantle|mantle]]." This mass of ancient rocks, the Manx Slate
   Series, has been divided locally into the Barrule slates, the Agneesh
-  and other grit beds; and the Lonan and Niarbyl Flags. The whole series
+  and other grit beds; and the Lonan and Niarbyl [[Flag|Flags]]. The whole series
   strikes N.E.-S.W., while structurally the strata form part of a
   synclinorium, the higher beds being on the N.W. and S.E. sides of the
   islands, the lower beds in the interior; although the subordinate dips
@@ -72,9 +72,9 @@ Mary; and, on the west coast, Port Erin and Peel.
   masses, are numerous. No satisfactory fossils have yet been obtained
   from these rocks, but they are regarded, provisionally, as of Upper
   Cambrian age. Carboniferous rocks, including a basal conglomerate,
-  white limestone with abundant fossils, and the black "Posidonomya
-  Beds" (some of which are polished as a black marble) occur about
-  Castletown, Poolvash Bay and Langness; and the basement beds appear
+  white [[Limestone|limestone]] with abundant fossils, and the black "Posidonomya
+  Beds" (some of which are polished as a black [[Marble|marble]]) occur about
+  Castletown, Poolvash Bay and Langness; and the [[Basement|basement]] beds appear
   again on the west coast at Peel. The cliffs and foreshore at Scarlet
   Point exhibit contemporaneous Carboniferous tuffs, agglomerates and
   basalts, as well as later dolerite dykes, in a most striking manner.
@@ -82,18 +82,18 @@ Mary; and, on the west coast, Port Erin and Peel.
   limestones. At the northern end of the island the Manx Slates end
   abruptly in an ancient sea-cliff which crosses between Ramsey and
   Ballaugh. The low-lying country beyond is formed of a thick mass of
-  glacial sands, gravels and boulder clay. In the Bride Hills are to be
+  glacial sands, gravels and [[Boulder Clay|boulder clay]]. In the [[Bride]] Hills are to be
   seen glacial mounds rising 150 ft. above the level of the plain. The
-  depressions known as the Curragh, now drained but still peaty in
+  depressions known as the [[Curragh]], now drained but still peaty in
   places, probably represent the sites of late glacial lakes. Glacial
   deposits are found also in all parts of the island. Beneath the thick
-  drift of the plain, Carboniferous, Permian and Trassic rocks have been
+  [[Drift|drift]] of the plain, Carboniferous, Permian and Trassic rocks have been
   proved to lie at some depth below the present sea-level. On the coast
-  near the Point of Ayr is a raised beach. Silver-bearing lead ore, zinc
+  near the Point of Ayr is a raised [[Beach|beach]]. Silver-bearing lead ore, zinc
   and copper are the principal minerals found in the Isle of Man; the
   most important mining centres being at Foxdale and Laxey.
 
-  _Climate._--The island is liable to heavy gales from the south-west.
+  _Climate._--The island is liable to heavy [[Gale|gales]] from the south-west.
   Of this the trend of the branches of the trees to the north-east is a
   striking testimony. But it is equally subject to the influence of the
   warm drift from the Atlantic, so that its winters are mild, and,
@@ -103,7 +103,7 @@ Mary; and, on the west coast, Port Erin and Peel.
   giving an extreme annual range of temperature of 17°.1 only, while the
   average temperature in spring is 46°.0, in summer 57°.2, in autumn
   50°.9 and in winter 42°.0. Further evidence of the mildness of the
-  climate is afforded by the fact that fuchsias, hydrangeas, myrtles and
+  climate is afforded by the fact that [[Fuchsia|fuchsias]], [[Hydrangea|hydrangeas]], myrtles and
   escallonias grow luxuriantly in the open air. Its rainfall, placed as
   it is between mountain districts in England, Ireland, Scotland and
   Wales, is naturally rather wet than dry. Statistics, however, reveal
@@ -122,28 +122,28 @@ Mary; and, on the west coast, Port Erin and Peel.
   _Fauna._--Like Ireland, the Isle of Man is exempt from snakes and
   toads, a circumstance traditionally attributed to the agency of St
   Patrick, the patron saint of both islands. Frogs, however, have been
-  introduced from Ireland, and both the sand lizard and the common
+  introduced from Ireland, and both the sand [[Lizard|lizard]] and the common
   lizard are found. Badgers, moles, squirrels and voles are absent and
-  foxes are extinct. Fossil bones of the Irish elk are frequently found,
+  [[Foxe|foxes]] are extinct. Fossil [[Bone|bones]] of the Irish elk are frequently found,
   and a complete skeleton of this animal is to be seen at Castle Rushen.
   The red deer, which is referred to in the ancient laws and pictured on
   the runic crosses, became extinct by the beginning of the 18th
-  century. Hares are less plentiful than formerly, and rabbits are not
+  century. [[Hare|Hares]] are less plentiful than formerly, and rabbits are not
   very numerous. Snipe are fairly common, and there are a few partridges
-  and grouse. The latter, which had become extinct, were reintroduced in
+  and [[Grouse|grouse]]. The latter, which had become extinct, were reintroduced in
   1880. Woodcock, wild geese, wild ducks, plover, widgeon, teal, heron,
-  bittern, kingfishers and the Manx shearwater (_Puffinus anglorum_)
+  bittern, [[Kingfisher|kingfishers]] and the Manx shearwater (_Puffinus anglorum_)
   visit the island, but do not breed there. The puffin (_Fratercula
   artica_) is still numerous on the Calf islet in the summer time. The
   peregrine falcon, which breeds on the rocky coast, and the chough have
   become very scarce. The legal protection of sea-birds (local act of
-  1867) has led to an enormous increase in the number of gulls. A
+  1867) has led to an enormous increase in the number of [[Gull|gulls]]. A
   variety of the domestic cat, remarkable for the absence or stunted
   condition of the tail, is peculiar to the island.
 
   _Flora._--Like the fauna, the flora is chiefly remarkable for its
   meagreness. It contains at most 450 species as compared with 690 in
-  Jersey. Alpine forms are absent. But what it lacks in variety it makes
+  [[Jersey]]. Alpine forms are absent. But what it lacks in variety it makes
   up in beauty and quantity. For the profusion of the gorse-bloom and
   the abundance of spring flowers, especially of primroses, and of
   ferns, the Isle of Man is probably unrivalled.
@@ -151,7 +151,7 @@ Mary; and, on the west coast, Port Erin and Peel.
 _People._--The Manx people of the present day are mainly of
 Scandio-Celtic origin, with some slight traces of earlier races. They
 have large and broad heads, usually broader than those of their brother
-Celts (_Goidels_) in Ireland and Scotland, with very broad, but not
+[[Celt|Celts]] (_Goidels_) in Ireland and Scotland, with very broad, but not
 specially prominent cheek-bones. Their faces are usually either
 scutiform, like those of the Northmen, or oval, which is the usual
 Celtic type, and their noses are almost always of good length, and
@@ -204,27 +204,27 @@ northern district.
   _Chief Political Divisions and Towns._--The island is divided into six
   sheadings (so named from the Scandinavian _skeða-Þing_, or
   ship-district), called Glenfaba, Middle, Rushen, Garff, Ayre and
-  Michael, each of which has its officer, the coroner, whose functions
+  Michael, each of which has its officer, the [[Coroner|coroner]], whose functions
   are similar to those of a sheriff; and there are seventeen parishes.
   For the towns see CASTLETOWN, DOUGLAS, PEEL and RAMSEY. The principal
   villages are Ballasalla, Ballaugh, Foxdale, Laxey, Michael, Onchan,
   Port Erin and Port St Mary.
 
-  _Communications._--There is communication by steamer with Liverpool,
-  Glasgow, Greenock, Belfast, Silloth, Whitehaven, Belfast and Dublin
+  _Communications._--There is communication by steamer with [[Liverpool]],
+  [[Glasgow]], Greenock, [[Belfast]], Silloth, Whitehaven, Belfast and Dublin
   throughout the year and, during the summer season, there are also
-  steamers plying to Androssan, Heysham, Fleetwood and Blackpool. A
+  steamers plying to Androssan, Heysham, [[Fleetwood]] and Blackpool. A
   daily mail was established in 1879. The internal communications are
   excellent. The roads are under the management of a board appointed by
   the Tynwald Court, a surveyor-general, and parochial surveyors. They
   are maintained by a system of licences on public-houses, carriages,
-  carts and dogs, and a rate on real property. There are railways
+  [[Cart|carts]] and [[Dogs|dogs]], and a rate on real property. There are railways
   between Douglas, Ramsey, Peel, Castletown, Port Erin and Port St Mary,
   the line between Douglas and Ramsey being via St John's and Michael.
   Electric tramways run from Douglas to Ramsey via Laxey, from Douglas
   to Port Soderick, and from Laxey to the summit of Snaefell.
 
-  _Industries. (a) Agriculture._--The position of the Manx farmers,
+  _Industries. (a) Agriculture._--The position of the Manx [[Farmer|farmers]],
   though they generally pay higher rents than their compeers in those
   countries do, is, except in the remote parts of the island, more
   favourable than that of the English or Scottish farmers. The best land
@@ -232,22 +232,22 @@ northern district.
   small holdings have almost entirely disappeared. The cultivated area
   is about 93,000 acres, or 65% of the whole. The commons and
   uncultivated lands on the mountains are also utilized for pasturage.
-  Oats occupy about three-fourths of the area under corn crops, barley
+  Oats occupy about three-fourths of the area under [[Corn|corn]] crops, barley
   about one-sixth. The amount of wheat and other corn crops is very
   trifling. Neither Manx wheat nor barley is as good on an average as
   English; but oats is, on the whole, fully equal to what is grown on
   the mainland. Turnips, which are an excellent crop, are largely
   exported, and the dry and sandy soil of the north of the island is
-  very favourable for the growth of potatoes. The white and red clover
-  and the common grasses grow luxuriantly, and the pasturage is,
+  very favourable for the growth of potatoes. The white and red [[Clover|clover]]
+  and the common [[Grasses|grasses]] grow luxuriantly, and the pasturage is,
   generally speaking, good. Some of the low-lying land, especially in
   the north, is much in need of systematic drainage. The livestock,
   largely in consequence of the premiums given by the insular government
-  and the local agricultural society to bulls, heavy and light stallions
+  and the local agricultural society to [[Bull|bulls]], heavy and light stallions
   and cart mares, now approximates very closely in quality to the stock
   in the north of England. Dairying, owing to the large number of summer
   visitors, is the most profitable department of agricultural industry.
-  Apples, pears and wall fruit do not succeed very well, but the soil is
+  [[Apple|Apples]], pears and wall fruit do not succeed very well, but the soil is
   favourable for the cultivation of strawberries, raspberries,
   gooseberries, currants and vegetables. Both agricultural and
   market-garden produce are quite insufficient to supply the demand in
@@ -261,9 +261,9 @@ northern district.
   herring backbone doth lie in the midst of the fish." The statutes and
   records abound in evidence of the great extent to which both the
   people and their rulers were dependent on the produce of the sea. The
-  most numerous fish are herrings, cod, mackerel, ling, haddock, plaice,
+  most numerous fish are [[Herrings|herrings]], [[Cod|cod]], [[Mackerel|mackerel]], [[Ling|ling]], haddock, plaice,
   sole, fluke, turbot and brett. The industry is, however, in a decaying
-  condition, especially the herring fishery, which, for reasons which
+  condition, especially the herring [[Fishery|fishery]], which, for reasons which
   have not been satisfactorily ascertained, fails periodically. The
   amount of fish caught, except herrings, is not sufficient to supply
   the local demand in the summer, though some of the fish named are
@@ -297,14 +297,14 @@ northern district.
 
   _Commerce._--The chief exports are lead, zinc, turnips, ropes, cotton
   nets and salt. The imports consist chiefly of timber, provisions,
-  livestock, poultry, flour, fruit, vegetables and eggs. In 1906 the
+  livestock, poultry, flour, fruit, vegetables and [[Egg|eggs]]. In 1906 the
   tonnage of vessels (other than fishing or wind-bound vessels) cleared
   for traffic was 720,790. The number of vessels (other than fishing
   vessels) registered as belonging to the island in 1906 was 79.
 
 _Government._--The government of the island is vested in a
 lieutenant-governor, appointed by the Crown; in a Council, which is the
-upper branch of the legislature; in the House of Keys, which is the
+upper branch of the legislature; in the House of [[Key|Keys]], which is the
 lower branch; and in the Tynwald Court. The Council and Keys sit
 separately as legislative bodies, but they sit in the Tynwald Court as
 distinct bodies with co-ordinate powers to transact executive business
@@ -312,8 +312,8 @@ and to sign Bills. The Tynwald Court controls the surplus revenue, after
 the payment of the cost of government and of a fixed contribution of
 £10,000 to the imperial exchequer, subject to the supervision of the
 Treasury and the veto of the lieutenant-governor, and it appoints boards
-to manage the harbours, highways, education, local government, and
-lunatic and poor asylums. The Imperial government, after intimating its
+to [[Manage|manage]] the harbours, highways, education, local government, and
+lunatic and poor [[Asylum|asylums]]. The Imperial government, after intimating its
 intention to Tynwald, fixes the rates of the customs duties, but Tynwald
 can by resolution "impose, abolish or vary" the customs duties subject
 to the approval of parliament or the Treasury, such change to take
@@ -336,7 +336,7 @@ the practice for him to act as chancellor of the exchequer and to
 initiate all questions concerning the raising or expenditure of public
 funds. The Council consists of the lieutenant-governor, the lord-bishop
 of the diocese, the clerk of the rolls, the two deemsters, the
-attorney-general, the archdeacon (all of whom are appointed by the
+[[Attorney-General|attorney-general]], the [[Archdeacon|archdeacon]] (all of whom are appointed by the
 Crown) and the vicar-general, who is appointed by the bishop. No act of
 the governor and Council is valid unless it is the act of the governor
 and at least two members of the Council. The House of Keys (for origin
@@ -360,14 +360,14 @@ by the lieutenant-governor.
   southern division of the island are held at Douglas and Castletown
   alternately and those for the northern division at Ramsey, once in
   three months. Actions in these courts are heard by a deemster and a
-  special or common jury. The Chancery Court sits once a fortnight at
+  special or common [[Jury|jury]]. The Chancery Court sits once a fortnight at
   Douglas. The deemsters also have summary jurisdiction in matters of
-  debt, actions for liquidated damages under £50, suits for possession
+  [[Debt|debt]], actions for liquidated damages under £50, suits for possession
   of real or personal property, petitions for probate, &c. These courts,
   called Deemsters' Courts, are held weekly, alternately at Douglas and
   Castletown, by the deemster for the southern division of the island,
   and at Ramsey and Peel by the deemster for the northern division.
-  Criminal cases are heard by the magistrates or a high-bailiff and are
+  Criminal cases are heard by the [[Magistrate|magistrates]] or a high-bailiff and are
   (with the exception of minor cases which may be dealt with summarily)
   sent on by them for trial by a deemster and a jury of six, who hear
   the evidence and determine whether there is sufficient ground for
@@ -379,21 +379,21 @@ by the lieutenant-governor.
   the four towns for the recovery of debts under forty shillings and for
   the trial of cases usually brought before a stipendiary magistrate in
   England. The magistrates (J.P.'s) also hold regular courts in the
-  towns for the trial of breaches of the peace and minor offences. There
+  towns for the trial of [[Breach|breaches]] of the peace and minor offences. There
   is a coroner in each of the six sheadings. These officers are
   appointed annually by the lieutenant-governor and perform duties
-  similar to those of a sheriff's officer in England. Inquests of death
+  similar to those of a sheriff's officer in England. [[Inquest|Inquests]] of death
   are held by a high-bailiff and jury. The Manx Bar is distinct from
   that of England. Its members, called "Advocates," combine the
   functions of barrister and solicitor. The laws relating to real
   property still retain much of their ancient peculiarity, but other
   branches of law have of late years by various acts of Tynwald been
-  made practically identical with English law.
+  made practically identical with [[English Law|English law]].
 
-  As regards real property the general tenure is a customary freehold
+  As regards real property the general tenure is a customary [[Freehold|freehold]]
   devolving from each possessor to his next heir-at-law. The descent of
   land follows the same rules as the descent of the crown of England.
-  The right of primogeniture extends to females in default of males in
+  The right of primogeniture extends to females in [[Default|default]] of males in
   the direct line. The interest of a widow or widower, being the first
   wife or husband of a person deceased, is a life estate in one-half of
   the lands which have descended hereditarily, and is forfeited by a
@@ -409,7 +409,7 @@ by the lieutenant-governor.
   Man, but from the large proportion of names of Irish ecclesiastics
   surviving in the appellations of the old Manx _keeills_, or cells,
   which are of similar type to the Irish oratories of the 6th and 7th
-  centuries, and in the dedications of the parish churches, which are
+  centuries, and in the [[Dedication|dedications]] of the parish churches, which are
   usually on ancient sites, it may be reasonably conjectured that
   Manxmen were, for the most part, Christianized by Irish missionaries.
   During the incursions of the pagan Vikings Christianity was almost
@@ -417,8 +417,8 @@ by the lieutenant-governor.
   beginning of the 11th century. The two most important events in the
   history of the medieval Manx Church were the formation of the diocese
   of _Sodor_ (q.v.) and the foundation of the abbey of Rushen, a branch
-  of the Cistercian abbey of Furness, in 1134. This latter event was
-  important because the Cistercians were exempted from all episcopal
+  of the Cistercian abbey of [[Furness]], in 1134. This latter event was
+  important because the [[Cistercians]] were exempted from all episcopal
   visitation and control, by charter granted by the pope, and were,
   therefore, only subject to his rule and that of the abbots of their
   own order. From this time till the Reformation we find that there was
@@ -428,7 +428,7 @@ by the lieutenant-governor.
   of the religious houses in Man was not brought about by the English
   Act of 1539, which did not apply to the island, but by the arbitrary
   action of Henry VIII. From such evidence as is available it would seem
-  that the Reformation was a very slow process. When Isaac Barrow (uncle
+  that the Reformation was a very slow process. When [[Isaac]] Barrow (uncle
   of his well-known namesake) became bishop in 1663 the condition of the
   Church was deplorable, but under him and his able and saintly
   successors, Thomas Wilson (1698-1755) and Mark Hildesley (1755-1773).
@@ -460,7 +460,7 @@ by the lieutenant-governor.
   the only remaining ecclesiastical court, which is presided over by the
   vicar-general, as representing the bishop, is mainly in connexion with
   affiliation questions, the swearing-in of churchwardens and the
-  granting of faculties. The power of the Manx Convocation to make
+  granting of faculties. The power of the Manx [[Convocation]] to make
   canons, though not exercised since 1704, has never been abrogated, and
   so far affords a token that the Manx Church is a separate national
   Church governed by its own laws, which, however, must be approved by
@@ -525,15 +525,15 @@ periods. In the first of these the island was inhabited by a Celtic
 people. The next is marked by the Viking invasions and the establishment
 of Scandinavian rule. The third period is that of the English dominion.
 The secular history of the Isle of Man during the Celtic period is an
-absolute blank, there being no trustworthy record of any event whatever
+absolute [[Blank|blank]], there being no trustworthy record of any event whatever
 before the incursions of the Northmen, since the exploits attributed to
 Baetan MacCairill, king of Ulster, at the end of the 6th century, which
 were formally supposed to have been performed in the Isle of Man, really
-occurred in the country between the Firths of Clyde and Forth. And it is
+occurred in the country between the Firths of [[Clyde]] and Forth. And it is
 clear that, even if the supposed conquest of the Menavian islands--Man
 and Anglesey--by Edwin of Northumbria, in 616, did take place, it could
 not have led to any permanent results; for, when the English were driven
-from the coasts of Cumberland and Lancashire soon afterwards, they could
+from the coasts of [[Cumberland]] and Lancashire soon afterwards, they could
 not well have retained their hold on the island to the west of these
 coasts. It is, however, possible that in 684, when Ecfrid laid Ireland
 waste from Dublin to Drogheda, he temporarily occupied Man. During the
@@ -547,14 +547,14 @@ kings of Dublin; and between 990 and 1079, it was subject to the
 powerful earls of Orkney. The conqueror Godred Crovan was evidently a
 remarkable man, though little information about him is attainable.
 According to the _Chronicon Manniae_ he "subdued Dublin, and a great
-part of Leinster, and held the Scots in such subjection that no one who
+part of [[Leinster]], and held the Scots in such subjection that no one who
 built a vessel dared to insert more than three bolts." The memory of
 such a ruler would be likely to survive in tradition, and it seems
 probable therefore that he is the person commemorated in Manx legend
 under the name of King Gorse or Orry. The islands which were under his
 rule were called the _Suðr-eyjar_ (Sudreys or the south isles), in
 contradistinction to the _norðr-eyjar_, or the north isles, i.e. the
-Orkneys and Shetlands, and they consisted of the Hebrides, and of all
+Orkneys and Shetlands, and they consisted of the [[Hebrides]], and of all
 the smaller western islands of Scotland, with Man. At a later date his
 successors took the title of _Rex Manniae el Insularum_. Olaf, Godred's
 son, was a powerful monarch, who, according to the Chronicle, maintained
@@ -564,7 +564,7 @@ Godred, who for a short period ruled over Dublin also, as a result of a
 quarrel with Somerled, the ruler of Argyll, in 1156, lost the smaller
 islands off the coast of Argyll. An independent sovereignty was thus
 interposed between the two divisions of his kingdom. Early in the 13th
-century, when Reginald of Man did homage to King John, we hear for the
+century, when Reginald of Man did [[Homage|homage]] to King John, we hear for the
 first time of English intervention in the affairs of Man. But it was
 into the hands of Scotland that the islands were ultimately to fall.
 During the whole of the Scandinavian period the isles were nominally
@@ -578,7 +578,7 @@ Norway consequently came into collision with the growing power of
 Scotland. Finally, in 1261, Alexander III. of Scotland sent envoys to
 Norway to negotiate for the cession of the isles, but their efforts led
 to no result. He therefore initiated hostilities which terminated in the
-complete defeat of the Norwegian fleet at Largs in 1263. Magnus, king of
+complete defeat of the Norwegian fleet at [[Largs]] in 1263. Magnus, king of
 Man and the Isles, who had fought on the Norwegian side, was compelled
 to surrender all the islands over which he had ruled, except Man, for
 which he did homage. Two years later Magnus died and in 1266 the king of
@@ -594,14 +594,14 @@ followed a confused period when Man was sometimes under English and
 sometimes under Scottish rule. About 1333 it had been granted by King
 Edward III. to William de Montacute, 1st earl of Salisbury, as his
 absolute possession, without reserving any service to be rendered to
-him. In 1392 his son sold the island "with the crowne" to Sir William Le
+him. In 1392 his son sold the island "with the [[Crowne|crowne]]" to Sir William Le
 Scroope. In 1399 Henry IV. caused Le Scroope, who had taken Richard's
 side, to be beheaded. The island then came into the possession of the
 crown and was granted to Henry de Percy, earl of Northumberland, but, he
 having been attainted, Henry IV., in 1406, made a grant of it, with the
-patronage of the bishopric, to Sir John Stanley, his heirs and assigns,
+patronage of the bishopric, to Sir John Stanley, his [[Heir|heirs]] and assigns,
 on the service of rendering two falcons on paying homage and two falcons
-to all future kings of England on their coronation.
+to all future kings of England on their [[Coronation|coronation]].
 
 With the accession of the Stanleys to the throne there begins a better
 epoch in Manx history. Though the island's new rulers rarely visited its
@@ -612,7 +612,7 @@ the 7th earl (1627-1651), and the 10th earl of the same name (1702-1736)
 had the most important influence on it. The first curbed the power of
 the spiritual barons, introduced trial by jury, instead of trial by
 battle, and ordered the laws to be written. The second, known as the
-Great Stanley, and his wife, Charlotte de la Tremoille (or Tremouille),
+Great Stanley, and his wife, [[Charlotte]] de la Tremoille (or Tremouille),
 are probably the most striking figures in Manx history. In 1643 Charles
 I. ordered him to go to Man, where the people, who were no doubt
 influenced by what was taking place in England, threatened to revolt.
@@ -626,20 +626,20 @@ them; and they also had the more lasting grievance of being compelled to
 accept leases for three lives instead of holding their land by the
 "straw" tenure which they considered to be equivalent to a customary
 inheritance. Six months after the death of the king Stanley received a
-summons from General Ireton to surrender the island, which he haughtily
+summons from General [[Ireton]] to surrender the island, which he haughtily
 declined. In August 1651 he went to England with some of his troops,
 among whom were 300 Manxmen, to join King Charles II., and he and they
 shared in the decisive defeat of the Royalists at Worcester. He was
-captured and confined in Chester Castle, and, after being tried by court
-martial, was executed at Wigan. Soon after his death the Manx Militia,
+captured and confined in [[Chester]] Castle, and, after being tried by court
+[[Martial|martial]], was executed at Wigan. Soon after his death the Manx Militia,
 under the command of William Christian, rose against the Countess and
 captured all the insular forts except Rushen and Peel. They were then
 joined by a parliamentary force under Colonel Duckenfield, to whom the
-Countess surrendered after a brief resistance. Fairfax had been
+Countess surrendered after a brief resistance. [[Fairfax]] had been
 appointed "Lord of Man and the Isles" in September, so that Man
 continued under a monarchical government and remained in the same
 relation to England as before. The restoration of Stanley government in
-1660 therefore caused as little friction and alteration as its temporary
+1660 therefore caused as little [[Friction|friction]] and alteration as its temporary
 cessation had. One of the first acts of the new lord, Charles (the 8th
 earl), was to order Christian to be tried. He was found guilty and
 executed. Of the other persons implicated in the rebellion only three
@@ -650,14 +650,14 @@ tenants' holdings, which they had not at first regarded as being
 affected by the acceptance of leases, a proceeding which led to an
 almost open rebellion against his authority and to the neglect of
 agriculture. In lieu of it the people devoted themselves to the
-fisheries and to contraband trade. The agrarian question was not settled
+[[Fisheries|fisheries]] and to contraband trade. The agrarian question was not settled
 till 1704, when James, Charles's brother and successor, largely through
 the influence of Bishop Wilson, entered into a compact with his tenants,
 which was embodied in an act, called the "Act of Settlement." Their
 compact secured the tenants in the possession of their estates in
 perpetuity on condition of a fixed rent, and a small fine on succession
 or alienation. From the great importance of this act to the Manx people
-it has been called their _Magna Carta_. As time went on, and the value
+it has been called their _[[Magna Carta]]_. As time went on, and the value
 of the estates increased, the rent payable to the lord became so small
 in proportion as to be almost nominal. James died in 1736 and the
 sovereignty of the isle passed to James Murray, 2nd duke of Atholl. In
@@ -705,15 +705,15 @@ producing a large and increasing surplus, the Isle of Man came to be
 regarded more favourably, and, thanks to this fact and to the
 representations of the Manx people to English ministers in 1837, 1844
 and 1853, it obtained a somewhat less stringent customs tariff and an
-occasional dole towards erecting its much neglected public works. Since
+occasional [[Dole|dole]] towards erecting its much neglected public works. Since
 1866, when the Isle of Man obtained a measure of at least nominal "Home
 Rule," the Manx people have made remarkable progress, and at the present
 day form a prosperous community.
 
 _Monuments._--The prehistoric monuments in Man are numerous. There are
 earth entrenchments, seemingly of the earliest period; fragments of
-stone circles and alignments; burial cairns with stone cists of several
-successive periods; urn mounds and _crannoges_ or lake dwellings. The
+stone circles and alignments; burial [[Cairns|cairns]] with stone cists of several
+successive periods; urn mounds and _[[Crannog|crannoges]]_ or [[Lake Dwellings|lake dwellings]]. The
 monuments belonging to the historic period begin with the round tower on
 Peel islet, the humble Celtic _keeills_ and the sculptured crosses in
 which the island is especially rich. Of these crosses about one-fourth
@@ -735,14 +735,14 @@ recent origin.
   vols. i.-xxxii., notably the _Chronicon Manniae_ (vols. xxii. and
   xxiii., edited by Munch); Sir Spencer Walpole, K.C.B., _The Land of
   Home Rule_, an essay on the history and constitution of the Isle of
-  Man (London, Longmans, Green & Co., 1893); A. W. Moore, M.A., C.V.O.,
+  Man (London, [[Longmans]], Green & Co., 1893); A. W. Moore, M.A., C.V.O.,
   _The Diocese of Sodor and Man_, S.P.C.K.'s series of Diocesan
   Histories (1893); and _A History of the Isle of Man_, (2 vols.,
   London, T. Fisher Unwin, 1900); _The Statutes of the Isle of Man from
   1817 to 1895_, Gill's edition, 6 vols. (vol. i. 1883 to vol. vi. 1897,
-  London, Eyre & Spottiswoode); Richard Sherward (Deemster), _Manx Law
+  London, [[Eyre]] & Spottiswoode); Richard Sherward (Deemster), _Manx Law
   Tenures_, a short treatise on the law relating to real estate in the
-  Isle of Man (Douglas Robinson Bros., 1899). Archaeology and Folklore:
+  Isle of Man (Douglas Robinson Bros., 1899). [[Archaeology]] and Folklore:
   P. M. C. Kermode, F. S. A. Scot., _Manx Crosses_ (London, Bemrose &
   Sons, 1907); E. Alfred Jones, _The Old Church Plate of the Isle of
   Man_ (Bemrose & Sons, 1907); A. W. Moore, C.V.O., M.A., _The Folklore
@@ -752,7 +752,7 @@ recent origin.
   Language of the Isle of Man, usually called Manks_, by Rev. John
   Kelly, LL.D.; _Manx Society's publications_, vol. ii. (1859, reprint
   of edition of 1804); _The Manx Dictionary in two ports_ (Manx-English,
-  English-Manx), by Rev. John Kelly, William Gill and John Clarke; _Manx
+  English-Manx), by Rev. John Kelly, William [[Gill]] and John Clarke; _Manx
   Society's publications_, vol. xiii. (1866); _The Book of Common Prayer
   in Manx Gaelic_, being translations made by Bishop Phillips in 1610
   and by the Manx clergy in 1765, edited by A. W. Moore, C.V.O., M.A.,

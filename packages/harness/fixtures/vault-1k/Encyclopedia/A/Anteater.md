@@ -34,7 +34,7 @@ forests of South and Central America. The usual colour is
 yellowish-white, with a broad black lateral band, covering nearly the
 whole of the side of the body.
 
-The little or two-toed anteater (_Cyclopes_ or _Cycloturus didactylus_)
+The little or two-toed anteater (_[[Cyclopes]]_ or _Cycloturus didactylus_)
 is a native of the hottest parts of South and Central America, and about
 the size of a rat, of a general yellowish colour, and exclusively
 arboreal in its habits. The name scaly anteater is applied to the

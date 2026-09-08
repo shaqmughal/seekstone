@@ -7,12 +7,12 @@ type: article
 
 # Fishery
 
-FISHERY (LAW OF). This subject has (1) its international aspect; (2) its
+FISHERY (LAW OF). This subject has (1) its [[International|international]] aspect; (2) its
 municipal aspect. On the high seas outside territorial waters the right
 of fishery is now recognized as common to all nations. Claims were made
 in former times by single nations to the exclusive right of fishing in
-tracts of open sea; such as that set up by Denmark in respect of the
-North Sea, as lying between its possessions of Norway and Iceland,
+tracts of open sea; such as that set up by [[Denmark]] in respect of the
+North Sea, as lying between its possessions of Norway and [[Iceland]],
 against England in the 17th century, and against England and Holland in
 the 18th century, when she prohibited any foreigners fishing within 15
 German miles of the shores of Greenland and Iceland. This claim,
@@ -20,7 +20,7 @@ however, was always effectively resisted on the ground stated in Queen
 Elizabeth's remonstrance to Denmark on the subject in 1602, that "the
 law of nations alloweth of fishing in the sea everywhere, even in seas
 where a nation hath propertie of command." The enunciation of this
-principle is to be found, also, in the award of the arbitration court
+principle is to be found, also, in the award of the [[Arbitration|arbitration]] court
 which decided the question of the fur-seal fishery in Bering Sea in
 1894. (See BERING SEA ARBITRATION; ARBITRATION, INTERNATIONAL.) The
 right of nations to take fish in the sea may, however, be restrained or
@@ -30,17 +30,17 @@ of the sea. The provisions of such conventions are made binding on
 British subjects by statutes.
 
   Instances of these are the conventions of 1818 and 1872 between Great
-  Britain and the United States as to the fisheries on the eastern
+  Britain and the United States as to the [[Fisheries|fisheries]] on the eastern
   coasts of British North America and the United States within certain
   limits, and the award of the Bering Sea arbitration tribunal under the
   treaty of 1892; the conventions between Great Britain and France in
   1839 and 1867 as regards fishing in the seas adjoining these
   countries, the latter of which will come into force on the repeal of
   the former; the agreement of 1904 with respect to the Newfoundland
-  fisheries (see NEWFOUNDLAND); the convention of 1882 between Belgium,
+  fisheries (see NEWFOUNDLAND); the convention of 1882 between [[Belgium]],
   Denmark, France, Germany, Great Britain and Holland, regarding the
   North Sea fisheries; that of 1887 between the same parties concerning
-  the liquor traffic in the North Sea; and the declaration regarding the
+  the liquor traffic in the North Sea; and the [[Declaration|declaration]] regarding the
   same waters made between Great Britain and Belgium for the settlement
   of differences between their fishermen subjects in such
   extra-territorial waters. At the instance of the Swedish government
@@ -63,7 +63,7 @@ covered by the waters in which that right is exercised.
   The bed of all navigable rivers where the tide flows and reflows, and
   of all estuaries or arms of the sea, is vested in the crown; and
   therefore, in Lord Chief Justice Hale's words, "the right of the
-  fishery in the sea and the creeks and arms thereof is originally
+  fishery in the sea and the [[Creek|creeks]] and arms thereof is originally
   lodged in the crown, as the right of depasturing is originally lodged
   in the owner of the waste whereof he is lord, or as the right of
   fishing belongs to him that is the owner of a private or inland
@@ -80,7 +80,7 @@ covered by the waters in which that right is exercised.
 This right extends to all fish floating in the sea or left on the
 seashore, except certain fish known as royal fish, which, when taken in
 territorial waters, belong to the crown or its grantee, though caught by
-another person. These are whales, sturgeons and porpoises; and grampuses
+another person. These are whales, sturgeons and porpoises; and [[Grampus|grampuses]]
 are also sometimes added (whales, porpoises and grampuses being "fishes"
 only in a legal sense). In Scotland only whales which are of large size
 can be so claimed; but the rights of salmon fishing in the sea and in
@@ -94,10 +94,10 @@ later decisions have established that the right of salmon fishing by
 whatever means is a _jus regale_ in Scotland. In England the crown in
 early times made frequent grants of fisheries to subjects in tidal
 waters, and instances of such fisheries belonging to persons and
-corporations are very common at the present day: but by Magna Carta the
+corporations are very common at the present day: but by [[Magna Carta]] the
 crown declared that "no rivers shall be defended from henceforth, but
 such as were in defence in the time of King Henry, our grandfather, by
-the same places and the same bounds as they were wont to be in his
+the same places and the same [[Bounds|bounds]] as they were wont to be in his
 time"; and thus bound itself not to create a private fishery in any
 navigable tidal river. Judicial decision and commentators having
 interpreted this statute according to the spirit and not the letter, at
@@ -119,13 +119,13 @@ covered by the waters.
   that ariseth by or from the propriety of the soil,--such are
   _gurgites_, wears, fishing-places, _borachiae_, _stachiae_, which are
   the very soil itself, and so frequently agreed by our books. And such
-  as these a subject may have by usage; either in gross, as many
+  as these a subject may have by usage; either in [[Gross|gross]], as many
   religious houses had, or as parcel of or appurtenant to their manors,
   as both corporations and others have had; and this not only in
   navigable rivers and arms of the sea but in creeks and ports and
   havens, yea, and in certain known limits in the open sea contiguous to
   the shore. And these kinds of fishings are not only for small
-  sea-fish, such as herrings, &c., but for great fish, as salmons, and
+  sea-fish, such as [[Herrings|herrings]], &c., but for great fish, as salmons, and
   not only for them but for royal fish.... Most of the precedents
   touching such rights of fishing in the sea, and the arms and creeks
   thereof belonging by usage to subjects, appear to be by reason of the
@@ -133,9 +133,9 @@ covered by the waters.
   of them even within parts of the seas" (_De Jure Maris_, ch. v.)
 
 An instance of the former kind of fishery is to be found in the old case
-of _Royal Fishery of the River Bann_ (temp. James I., Davis 655), and
+of _Royal Fishery of the River [[Bann]]_ (temp. James I., Davis 655), and
 the modern one of _Wilson_ v. _Crossfield_, 1885, 1 T.L.R. 601, where a
-right of fishery in gross was established; but the latter kind, as Hale
+right of fishery in gross was established; but the latter kind, as [[Hale]]
 says, is much more common, and the presumption is always in its favour;
 _à fortiori_ where the fishing is proved to have been carried on by
 means of engines or structures fixed in the soil. In England the public
@@ -144,10 +144,10 @@ waters, the right to make use of the banks or shores for purposes
 incidental to the fishery, such as beaching their boats upon them,
 landing there, or drying their nets there (though they can do so by
 proving a custom from which such a grant may be presumed); but statutes
-relating to particular parts of the realm, such as Cornwall for the
+relating to particular parts of the realm, such as [[Cornwall]] for the
 pilchard fishery, give them such rights. In Scotland a right of salmon
 fishing separate from land implies the right of access to and use of the
-banks, foreshores or beach for the purposes of the fishing; and so does
+banks, foreshores or [[Beach|beach]] for the purposes of the fishing; and so does
 white fishing by statute. But otherwise there is no right to do so, e.g.
 in a public river for trout fishing. A similar privilege is given to
 Irish fishermen for the purpose of sea fishery by special statute. There
@@ -162,7 +162,7 @@ such waters belonging to the owners of the adjacent lands; "fresh waters
 of what kind soever do of common right belong to the owners of the soil
 adjacent, so that the owners of the one side have of common right the
 property of the soil, and consequently the right of fishing _usque ad
-filum aquae_, and the owners of the other side the right of soil or
+filum [[Aquae|aquae]]_, and the owners of the other side the right of soil or
 ownership and fishing unto the _filum aquae_ on their side; and if a man
 be owner of the land on both sides, in common presumption he is owner of
 the whole river, and hath the right of fishing according to the extent
@@ -193,7 +193,7 @@ which the grant made to the corporation was subject.
 In Scotland the law is similar. The right to fish for trout in private
 streams is a pertinent of the land adjacent, and owners of opposite
 banks may fish _usque ad medium filum aquae_; and where two owners own
-land round a private loch, both have a common of fishing over it. The
+land round a private [[Loch|loch]], both have a common of fishing over it. The
 public cannot prescribe for it, for a written title either to adjacent
 lands or to the fishery is necessary. A right of way along the bank of a
 river or loch does not give it, nor does the right of the public to be
@@ -220,7 +220,7 @@ distinguished them, in a later case thought that they were "all one."
 Later decisions have established the latter view, and it is now settled
 that although the owner of the several fishery is prima facie owner of
 the soil of the waters, this presumption may be displaced by showing
-that the terms of the grant only convey an incorporeal hereditament, and
+that the terms of the grant only convey an incorporeal [[Hereditament|hereditament]], and
 that the words "sole and exclusive fishery" give a several fishery _in
 alieno solo_. In the words of Mr Justice Willes, "the only substantial
 distinction is between an exclusive right of fishery, usually called
@@ -252,7 +252,7 @@ that a person other than the alleged owner is the real owner. If the
 waters of a tidal river leave their old channel and flow into another,
 the owner of a several fishery in the old channel cannot claim to have
 it in the new one; but, on the other hand, the owner of a several
-fishery can take advantage of a gradual encroachment by the river upon
+fishery can take advantage of a [[Gradual|gradual]] encroachment by the river upon
 and into the land of a riparian owner, the limits of whose land are
 ascertained. The owner of an exclusive fishery, whether in tidal or
 fresh waters, has the right to take as many fish as he can, and may do
@@ -291,12 +291,12 @@ sea beyond the ordinary jurisdiction of a court of summary jurisdiction,
 can enforce the Sea Fisheries Acts, or regulate, protect and develop
 fisheries for all or any kind of shell fish. Special provision is also
 made by statute for the oyster fishery and herring fishery (applicable
-also to Scotland), and that of mussels, cockles, lobsters and crabs
+also to Scotland), and that of mussels, cockles, lobsters and [[Crab|crabs]]
 (applicable to all the United Kingdom). In Scotland the Fishery Board
 can constitute sea fishery districts, and boards with like powers to
 those in England, and has general control over the coast and deep-sea
 fisheries of Scotland; and there are acts relative to herring, mussel
-and oyster fisheries, and allowing the appropriation of money intended
+and oyster fisheries, and allowing the [[Appropriation|appropriation]] of money intended
 to relieve local distress and taxation towards the encouragement of sea
 fisheries, and marine superintendence and enforcement of Scottish sea
 fisheries laws. In Ireland the sea fisheries are under the direction of
@@ -314,7 +314,7 @@ Ireland, the Fisheries (Ireland) Acts 1842-1901. A similar scheme is
 adopted in each case, namely, fishery districts and district boards are
 set up which regulate the fishing by by-laws and protect the fish by
 fixing a close time, and prescribing passes, licences, inspection and
-the like, breaches of which are punishable by courts of summary
+the like, [[Breach|breaches]] of which are punishable by courts of summary
 jurisdiction. The supreme authorities in each case are--for England the
 Board of Agriculture and Fisheries, for Scotland the Fishery Board, and
 for Ireland the inspectors of fisheries, and in England a certain
@@ -345,7 +345,7 @@ proportion to their tonnage, the punishment of offences on board, the
 wages of their crews, and keeping record of all casualties, punishments
 and the like on board. As regards trawlers, especially in the case of
 those of 25 tons and upwards, a statutory form of agreement with the
-crew is prescribed, as well as accounts of wages and discharges; and
+crew is prescribed, as well as accounts of wages and [[Discharge|discharges]]; and
 skippers and second hands must have certificates of competency, which
 are granted under similar conditions to those required in the case of
 sea-going ships and are registered with the Board of Trade. Scottish
@@ -363,7 +363,7 @@ empowered to make regulations under the act.
   _Waters_ (London, 1851); Paterson, _Fishery Laws of the United
   Kingdom_ (London and Cambridge, 1863); Stuart Moore, _Foreshore_
   (London, 1888); Phillimore, _International Law_ (3rd ed., London,
-  1879); Martens, _Causes célèbres du droit des gens_ (Leipzig, 1827);
+  1879); [[Martens]], _Causes célèbres du [[Droit|droit]] des gens_ (Leipzig, 1827);
   Selwyn, _Nisi Prius_, _Fishery_ (London, 1869).     (G. G. P.*)
 
 ## References

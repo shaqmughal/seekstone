@@ -10,18 +10,18 @@ Peiraeus.
 
 
 DÖDERLEIN, JOHANN CHRISTOPH WILHELM LUDWIG (1791-1863), German
-philologist, was born at Jena on the 19th of December 1791. His father,
+philologist, was born at [[Jena]] on the 19th of December 1791. His father,
 Johann Christoph Döderlein, professor of theology at Jena, was
 celebrated for his varied learning, for his eloquence as a preacher, and
 for the important influence he exerted in guiding the transition
 movement from strict orthodoxy to a freer theology. Ludwig Döderlein,
 after receiving his preliminary education at Windsheim and Schulpforta
-(Pforta), studied at Munich, Heidelberg, Erlangen and Berlin. He devoted
+(Pforta), studied at Munich, Heidelberg, [[Erlangen]] and Berlin. He devoted
 his chief attention to philology under the instruction of such men as F.
 Thiersch, G. F. Creuzer, J. H. Voss, F. A. Wolf, August Böckh and P. K.
 Buttmann. In 1815, soon after completing his studies at Berlin, he
 accepted the appointment of ordinary professor of philology in the
-academy of Bern. In 1819 he was transferred to Erlangen, where he became
+academy of [[Bern]]. In 1819 he was transferred to Erlangen, where he became
 second professor of philology in the university and rector of the
 gymnasium. In 1827 he became first professor of philology and rhetoric
 and director of the philological seminary. He died on the 9th of

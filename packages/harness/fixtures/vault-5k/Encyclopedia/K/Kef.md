@@ -9,7 +9,7 @@ id: 42-100
 # Kef
 
 KEF, more correctly El-Kef (the Rock), a town of Tunisia, 125 m. by rail
-S.S.W. of the capital, and 75 m. S.E. of Bona in Algeria. It occupies
+S.S.W. of the capital, and 75 m. S.E. of [[Bona]] in Algeria. It occupies
 the site of the Roman colony of Sicca Veneria, and is built on the steep
 slope of a rock in a mountainous region through which flows the
 Mellegue, an affluent of the Mejerda. Situated at the intersection of
@@ -26,11 +26,11 @@ by the Turks, the material being Roman. It has been restored by the
 French, who maintain a garrison here.
 
 The Roman remains include fragments of a large temple dedicated to
-Hercules, and of the baths. The ancient cisterns remain, but are empty,
-being used as part of the barracks. The town is however supplied by
+[[Hercules]], and of the baths. The ancient cisterns remain, but are empty,
+being used as part of the [[Barracks|barracks]]. The town is however supplied by
 water from the same spring which filled the cisterns. The Christian
 cemetery is on the site of a basilica. There are ruins of another
-Christian basilica, excavated by the French, the apse being intact and
+Christian basilica, excavated by the French, the [[Apse|apse]] being intact and
 the narthex serving as a church. Many stones with Roman inscriptions are
 built into the walls of Arab houses. The modern town is much smaller
 than the Roman colony. Pop. about 6000, including about 100 Europeans
@@ -43,8 +43,8 @@ than the Roman colony. Pop. about 6000, including about 100 Europeans
   centres of Christianity in North Africa. The Christian apologist
   Arnobius the Elder lived here.
 
-  See H. Barth, _Die Kustenlander des Mittelmeeres_ (1849); _Corpus
-  Inscript. Lat._, vol. viii.; Sombrun in _Bull. de la soc. de geog. de
+  See H. [[Barth]], _Die Kustenlander des Mittelmeeres_ (1849); _Corpus
+  Inscript. Lat._, vol. viii.; Sombrun in _[[Bull]]. de la soc. de geog. de
   Bordeaux_ (1878). Also Cardinal Newman's Callista: _a Sketch of the
   Third Century_ (1856), for a "reconstruction" of the manner of life of
   the early Christians and their oppressors.

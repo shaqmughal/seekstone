@@ -13,16 +13,16 @@ the _Eikon Basilike_, was born in 1605 at Mayland, Essex, where his
 father was vicar of the parish. Educated at Bury St Edmunds school and
 at St John's College, Cambridge, he took his M.A. degree in 1625/6. He
 married Elizabeth, daughter of Sir William Russell of Chippenham,
-Cambridgeshire, and was tutor at Oxford to two of his wife's brothers.
+[[Cambridgeshire]], and was tutor at Oxford to two of his wife's brothers.
 He seems to have remained at Oxford until 1630, when he became vicar of
 Chippenham. His sympathies were at first with the parliamentary party.
-He was chaplain to Robert Rich, second earl of Warwick, and preached
+He was [[Chaplain|chaplain]] to Robert Rich, second earl of Warwick, and preached
 before the House of Commons in 1640. In 1641 he was appointed to the
 rural deanery of Bocking. Apparently his views changed as the
 revolutionary tendency of the Presbyterian party became more pronounced,
 for in 1648/9 he addressed to Lord Fairfax _A Religious and Loyal
 Protestation_ ... against the proceedings of the parliament. Under the
-Commonwealth he faced both ways, keeping his ecclesiastical preferment,
+[[Commonwealth]] he faced both ways, keeping his ecclesiastical preferment,
 but publishing from time to time pamphlets on behalf of the Church of
 England. At the Restoration he was made bishop of Exeter. He immediately
 began to complain to Hyde, earl of Clarendon, of the poverty of the see,
@@ -115,7 +115,7 @@ Antwerp. In 1817 he joined the corvette "Uranie" as pharmaceutical
 botanist to the circumpolar expedition commanded by D. de Freycinet. The
 wreck of the vessel on the Falkland Isles, at the close of 1819,
 deprived him of more than half the botanical collections he had made in
-various parts of the world. In 1830-1833 he visited Chile, Peru and
+various parts of the world. In 1830-1833 he visited [[Chile]], Peru and
 Brazil, and in 1836-1837 he acted as botanist to "La Bonite" during its
 circumnavigation of the globe. His theory accounting for the growth of
 plants by the supposed coalescence of elementary "phytons" involved him,

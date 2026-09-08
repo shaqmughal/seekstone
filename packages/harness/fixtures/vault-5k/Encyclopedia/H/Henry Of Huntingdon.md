@@ -8,12 +8,12 @@ topic: literature
 
 HENRY OF HUNTINGDON, English chronicler of the 12th century, was born,
 apparently, between the years 1080 and 1090. His father, by name
-Nicholas, was a clerk, who became archdeacon of Cambridge, Hertford and
+Nicholas, was a clerk, who became [[Archdeacon|archdeacon]] of Cambridge, [[Hertford]] and
 Huntingdon, in the time of Remigius, bishop of Lincoln (d. 1092). The
 celibacy of the clergy was not strictly enforced in England before 1102.
 Hence the chronicler makes no secret of his antecedents, nor did they
 interfere with his career. At an early age Henry entered the household
-of Bishop Robert Bloet, who appointed him, immediately after the death
+of Bishop Robert [[Bloet]], who appointed him, immediately after the death
 of Nicholas (1110), archdeacon of Hertford and Huntingdon. Henry was on
 familiar terms with his patron; and also, it would seem, with Bloet's
 successor, by whom he was encouraged to undertake the writing of an
@@ -37,12 +37,12 @@ Chronicle.
   compiles from Eutropius, Aurelius Victor, Nennius, Bede and the
   English chronicles, particularly that of Peterborough; in some cases
   he professes to supplement these sources from oral tradition; but most
-  of his amplifications are pure rhetoric (see F. Liebermann in
+  of his amplifications are pure rhetoric (see F. [[Liebermann]] in
   _Forschungen zur deutschen Geschichte_ for 1878, pp. 265 seq.). Arnold
   prints, in an appendix, a minor work from Henry's pen, the _Epistola
   ad Walterum de contemptu mundi_, which was written in 1135. It is a
   moralizing tract, but contains some interesting anecdotes about
-  contemporaries. Henry also wrote epistles to Henry I. (on the
+  contemporaries. Henry also wrote [[Epistle|epistles]] to Henry I. (on the
   succession of kings and emperors in the great monarchies of the world)
   and to "Warinus, a Briton" (on the early British kings, after Geoffrey
   of Monmouth). A book, _De miraculis_, composed of extracts from Bede,

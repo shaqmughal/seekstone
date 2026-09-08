@@ -17,9 +17,9 @@ acting as an itinerant justice in the early years of Henry III. But he
 also took minor orders, and, in 1236, although not yet a deacon,
 received the see of Worcester. As bishop, he identified himself with the
 party of ecclesiastical reform, which was then led by Edmund Rich and
-Robert Grosseteste. Like his leaders he was sorely divided between his
+Robert [[Grosseteste]]. Like his leaders he was sorely divided between his
 theoretical belief in the papacy as a divine institution and his
-instinctive condemnation of the policy which Gregory IX. and Innocent
+instinctive condemnation of the policy which Gregory IX. and [[Innocent]]
 IV. pursued in their dealings with the English church. At first a court
 favourite, the bishop came at length to the belief that the evils of the
 time arose from the unprincipled alliance of crown and papacy. He raised
@@ -31,22 +31,22 @@ undertook to reform the administration; from that time till the outbreak
 of civil war he was a man of mark in the councils of the baronial party.
 During the war he sided with Montfort and, through his nephew, Thomas,
 who was then chancellor of Oxford, brought over the university to the
-popular side. He was present at Lewes and blessed the Montfortians
+popular side. He was present at [[Lewes]] and blessed the Montfortians
 before they joined battle with the army of the king; he entertained
-Simon de Montfort on the night before the final rout of Evesham. During
+Simon de Montfort on the night before the final rout of [[Evesham]]. During
 Simon's dictatorship, the bishop appeared only as a mediating influence;
-in the triumvirate of "Electors" who controlled the administration, the
-clergy were represented by the bishop of Chichester. Walter de Cantilupe
+in the triumvirate of "[[Electors]]" who controlled the administration, the
+clergy were represented by the bishop of [[Chichester]]. Walter de Cantilupe
 died in the year after Evesham (1266). He was respected by all parties,
 and, though far inferior in versatility and force of will to
 Grosseteste, fully merits the admiration which his moral character
 inspired. He is one of the few constitutionalists of his day whom it is
 impossible to accuse of interested motives.
 
-  See the _Chronica Maiora_ of Matthew Paris ("Rolls" series, ed.
-  Luard); the _Chronicon de Bellis_ (ed. Halliwell, Camden Society); and
+  See the _Chronica Maiora_ of [[Matthew]] Paris ("Rolls" series, ed.
+  Luard); the _Chronicon de [[Belli|Bellis]]_ (ed. Halliwell, Camden Society); and
   the _Annales Monastici_ ("Rolls" series, ed. Luard); also T.F. Tout
-  in the _Political History of England_, vol. iii. (1905).
+  in the _[[Political History]] of England_, vol. iii. (1905).
 
 ## References
 

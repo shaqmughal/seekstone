@@ -18,7 +18,7 @@ Brettia] also in Greek writers). The Greek colonies were established
 first as trading stations, which grew into independent cities. At an
 early time a trade in copper was carried on between Greece and Temesa
 (Homer, _Od._ i. 181).[1] The trade for a long time was chiefly in the
-hands of the Euboeans; and Cyme (Cumae) in Campania was founded in the
+hands of the Euboeans; and Cyme (Cumae) in [[Campania]] was founded in the
 8th century B.C., when the Euboean Cyme was still a great city. After
 this the energy of Chalcis went onward to Sicily, and the states of the
 Corinthian Gulf carried out the colonization of Italy, Rhegium having
@@ -47,8 +47,8 @@ rites at the temple of Hera on the Lacinian promontory, fostered a
 feeling of unity among them. The Pythagorean and Eleatic systems of
 philosophy had their chief seat in Magna Graecia. Other departments of
 literature do not seem to have been so much cultivated among them. The
-poet Ibycus, though a native of Rhegium, led a very wandering life. They
-sent competitors to the Olympic games (among them the famous Milo of
+poet [[Ibycus]], though a native of Rhegium, led a very wandering life. They
+sent competitors to the Olympic [[Games|games]] (among them the famous Milo of
 Croton); and the physicians of Croton early in the 6th century
 (especially in the person of Democedes) were reputed the best in Greece;
 but politically they appear to have generally kept themselves separate.

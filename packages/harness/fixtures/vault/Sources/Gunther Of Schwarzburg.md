@@ -15,11 +15,11 @@ counts of Schwarzburg and the younger son of Henry VII., count of
 Blankenburg. He distinguished himself as a soldier, and rendered good
 service to the emperor Louis IV., on whose death in 1347 he was offered
 the German throne, after it had been refused by Edward III., king of
-England. He was elected German king at Frankfort on the 30th of January
-1349 by four of the electors, who were partisans of the house of
+England. He was elected German king at [[Frankfort]] on the 30th of January
+1349 by four of the [[Electors|electors]], who were partisans of the house of
 Wittelsbach and opponents of Charles of Luxemburg, afterwards the
 emperor Charles IV. Charles, however, won over many of Gunther's
-adherents, defeated him at Eltville, and Gunther, who was now seriously
+adherents, defeated him at Eltville, and [[Gunther]], who was now seriously
 ill, renounced his claims for the sum of 20,000 marks of silver. He died
 three weeks afterwards at Frankfort, and was buried in the cathedral of
 that city, where a statue was erected to his memory in 1352.

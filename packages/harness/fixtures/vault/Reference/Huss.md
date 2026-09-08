@@ -24,12 +24,12 @@ believe that the philosophical writings of Wycliffe, with which he had
 been for some years acquainted, were his text-books. In October 1401 he
 was made dean of the philosophical faculty, and for the half-yearly
 period from October 1402 to April 1403 he held the office of rector of
-the university. In 1402 also he was made rector or curate
+the university. In 1402 also he was made rector or [[Curate|curate]]
 (_capellarius_) of the Bethlehem chapel, which had in 1391 been erected
 and endowed by some zealous citizens of Prague for the purpose of
 providing good popular preaching in the Bohemian tongue. This
 appointment had a deep influence on the already vigorous religious life
-of Huss himself; and one of the effects of the earnest and independent
+of Huss himself; and one of the effects of the [[Earnest|earnest]] and independent
 study of Scripture into which it led him was a profound conviction of
 the great value not only of the philosophical but also of the
 theological writings of Wycliffe.
@@ -56,7 +56,7 @@ provincial councils of Bohemia many faithful admonitions. As early as
 the 28th of May 1403, it is true, there had been held a university
 disputation about the new doctrines of Wycliffe, which had resulted in
 the condemnation of certain propositions presumed to be his; five years
-later (May 20, 1408) this decision had been refined into a declaration
+later (May 20, 1408) this decision had been refined into a [[Declaration|declaration]]
 that these, forty-five in number, were not to be taught in any
 heretical, erroneous or offensive sense. But it was only slowly that the
 growing sympathy of Huss with Wycliffe unfavourably affected his
@@ -74,7 +74,7 @@ satisfactory solution could only be secured if, as seemed not
 impossible, the supporters of the rival popes, Benedict XIII. and
 Gregory XII., could be induced, in view of the approaching council of
 Pisa, to pledge themselves to a strict neutrality. With this end King
-Wenceslaus of Bohemia had requested the co-operation of the archbishop
+Wenceslaus of Bohemia had requested the [[Co-Operation|co-operation]] of the archbishop
 and his clergy, and also the support of the university, in both
 instances unsuccessfully, although in the case of the latter the
 Bohemian "nation," with Huss at its head, had only been overborne by the
@@ -98,17 +98,17 @@ of Huss (October 1409) to be again rector of the university, but on the
 other hand the appointment by the archbishop of an inquisitor to inquire
 into charges of heretical teaching and inflammatory preaching brought
 against him. He had spoken disrespectfully of the church, it was said,
-had even hinted that Antichrist might be found to be in Rome, had
+had even hinted that [[Antichrist]] might be found to be in Rome, had
 fomented in his preaching the quarrel between Bohemians and Germans, and
 had, notwithstanding all that had passed, continued to speak of Wycliffe
 as both a pious man and an orthodox teacher. The direct result of this
 investigation is not known, but it is impossible to disconnect from it
 the promulgation by Pope Alexander V., on the 20th of December 1409, of
-a bull which ordered the abjuration of all Wycliffite heresies and the
+a [[Bull|bull]] which ordered the abjuration of all Wycliffite heresies and the
 surrender of all his books, while at the same time--a measure specially
 levelled at the pulpit of Bethlehem chapel--all preaching was prohibited
 except in localities which had been by long usage set apart for that
-use. This decree, as soon as it was published in Prague (March 9, 1410),
+use. This [[Decree|decree]], as soon as it was published in Prague (March 9, 1410),
 led to much popular agitation, and provoked an appeal by Huss to the
 pope's better informed judgment; the archbishop, however, resolutely
 insisted on carrying out his instructions, and in the following July
@@ -124,8 +124,8 @@ university began publicly to defend the so-called heretical treatises of
 Wycliffe, while from king and queen, nobles and burghers, a petition was
 sent to Rome praying that the condemnation and prohibition in the bull
 of Alexander V. might be quashed. Negotiations were carried on for some
-months, but in vain; in March 1411 the ban was anew pronounced upon Huss
-as a disobedient son of the church, while the magistrates and
+months, but in vain; in March 1411 the [[Ban|ban]] was anew pronounced upon Huss
+as a disobedient son of the church, while the [[Magistrate|magistrates]] and
 councillors of Prague who had favoured him were threatened with a
 similar penalty in ease of their giving him a contumacious support.
 Ultimately the whole city, which continued to harbour him, was laid
@@ -167,7 +167,7 @@ Krakowitz in the immediate neighbourhood of the capital, occasionally
 giving a course of open-air preaching, but finding his chief employment
 in maintaining that copious correspondence of which some precious
 fragments still are extant, and in the composition of the treatise, _De
-Ecclesia_, which subsequently furnished most of the material for the
+[[Ecclesia]]_, which subsequently furnished most of the material for the
 capital charges brought against him, and was formerly considered
 the most important of his works, though it is mainly a transcript of
 Wycliffe's work of the same name.
@@ -225,7 +225,7 @@ propositions on which the prosecution based their charge of heresy were
 read; but as soon as the accused began to enter upon his defence, he was
 assailed by violent outcries, amidst which it was impossible for him to
 be heard, so that he was compelled to bring his speech to an abrupt
-close, which he did with the calm remark: "In such a council as this I
+close, which he did with the [[Calm|calm]] remark: "In such a council as this I
 had expected to find more propriety, piety and order." It was found
 necessary to adjourn the sitting until the 7th of June, on which
 occasion the outward decencies were better observed, partly no doubt
@@ -245,7 +245,7 @@ the 8th of June the propositions extracted from the _De Ecclesia_ were
 again taken up with some fulness of detail; some of these he repudiated
 as incorrectly given, others he defended; but when asked to make a
 general recantation he steadfastly declined, on the ground that to do so
-would be a dishonest admission of previous guilt. Among the propositions
+would be a dishonest admission of previous [[Guilt|guilt]]. Among the propositions
 he could heartily abjure was that relating to transubstantiation; among
 those he felt constrained unflinchingly to maintain was one which had
 given great offence, to the effect that Christ, not Peter, is the head
@@ -266,7 +266,7 @@ Huss; but he steadfastly refused to swerve from the path which
 conscience had once made clear. "I write this," says he, in a letter to
 his friends at Prague, "in prison and in chains, expecting to-morrow to
 receive sentence of death, full of hope in God that I shall not swerve
-from the truth, nor abjure errors imputed to me by false witnesses." The
+from the truth, nor abjure [[Error|errors]] imputed to me by false witnesses." The
 sentence he expected was pronounced on the 6th of July in the presence
 of Sigismund and a full sitting of the council; once and again he
 attempted to remonstrate, but in vain, and finally he betook himself to
@@ -277,15 +277,15 @@ with clasped hands and uplifted eyes reverently committed it to Christ.
 He was then handed over to the secular arm, and immediately led to the
 place of execution, the council meanwhile proceeding unconcernedly with
 the rest of its business for the day. Many incidents recorded in the
-histories make manifest the meekness, fortitude and even cheerfulness
+histories make [[Manifest|manifest]] the meekness, fortitude and even cheerfulness
 with which he went to his death. After he had been tied to the stake and
-the faggots had been piled, he was for the last time urged to recant,
+the [[Faggot|faggots]] had been piled, he was for the last time urged to recant,
 but his only reply was: "God is my witness that I have never taught or
 preached that which false witnesses have testified against me. He knows
 that the great object of all my preaching and writing was to convert men
-from sin. In the truth of that gospel which hitherto I have written,
+from sin. In the truth of that [[Gospel|gospel]] which hitherto I have written,
 taught and preached, I now joyfully die." The fire was then kindled, and
-his voice as it audibly prayed in the words of the "Kyrie Eleison" was
+his voice as it audibly prayed in the words of the "[[Kyrie]] Eleison" was
 soon stifled in the smoke. When the flames had done their office, the
 ashes that were left and even the soil on which they lay were carefully
 removed and thrown into the Rhine.
@@ -300,7 +300,7 @@ on his spiritual teaching. It might not be easy to formulate
 precisely the doctrines for which he died, and certainly some of them,
 as, for example, that regarding the church, were such as many
 Protestants even would regard as unguarded and difficult to harmonize
-with the maintenance of external church order; but his is undoubtedly
+with the [[Maintenance|maintenance]] of external church order; but his is undoubtedly
 the honour of having been the chief intermediary in handing on from
 Wycliffe to Luther the torch which kindled the Reformation, and of
 having been one of the bravest of the martyrs who have died in the cause
@@ -318,12 +318,12 @@ of honesty and freedom, of progress and of growth towards the light.
   native tongue. The earliest collected edition of his works, _Historia
   et monumenta Joannis Hus et Hieronymi Pragensis_, was published at
   Nuremberg in 1558 and was reprinted with a considerable quantity of
-  new matter at Frankfort in 1715. A Bohemian edition of the works has
+  new matter at [[Frankfort]] in 1715. A Bohemian edition of the works has
   been edited by K. J. Erben (Prague, 1865-1868), and the _Documenta J.
   Hus vitam, doctrinam, causam in Constantiensi concilio_ (1869), edited
   by F. Palacky, is very valuable. More recently _Joannis Hus. Opera
   omnia_ have been edited by W. Flojshaus (Prague, 1904 fol.). The
-  _De Ecclesia_ was published by Ulrich von Hutten in 1520; other
+  _De Ecclesia_ was published by Ulrich von [[Hutten]] in 1520; other
   controversial writings by Otto Brumfels in 1524; and Luther wrote an
   interesting preface to _Epistolae Quaedam_, which were published in
   1537. These _Epistolae_ have been translated into French by E. de
@@ -353,7 +353,7 @@ of honesty and freedom, of progress and of growth towards the light.
   (1878); P. Uhlmann, _König Sigmunds Geleit für Hus_ (1894); J.
   Loserth, _Hus und Wiclif_ (1884), translated into English by M. J.
   Evans (1884); A. Jeep, _Gerson, Wiclefus, Hussus, inter se comparati_
-  (1857); and G. von Lechler, _Johannes Hus_ (1889). See also Count
+  (1857); and G. von [[Lechler]], _Johannes Hus_ (1889). See also Count
   Lützow, _The Life and Times of John Hus_ (London, 1909).
 
 

@@ -11,7 +11,7 @@ tags: [inventors, art]
 
 CHAGRES, a village of the Republic of Panama, on the Atlantic coast of
 the Isthmus, at the mouth of the Chagres river, and about 8 m. W. of
-Colon. It has a harbour from 10 to 12 ft. deep, which is difficult to
+[[Colon]]. It has a harbour from 10 to 12 ft. deep, which is difficult to
 enter, however, on account of bars at its mouth. The port was discovered
 by Columbus in 1502, and was opened for traffic with Panama, on the
 Pacific coast, by way of the Chagres river, in the 16th century. With

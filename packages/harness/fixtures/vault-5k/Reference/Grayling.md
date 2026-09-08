@@ -12,7 +12,7 @@ GRAYLING (_Thymallus_), fishes belonging to the family _Salmonidae_. The
 best known are the "poisson bleu" of the Canadian voyageurs, and the
 European species, _Thymallus vulgaris_ (the _Asch_ or _Asche_ of
 Germany, _ombre_ of France, and _temola_ of Upper Italy). This latter
-species is esteemed on account of its agreeable colours (especially of
+species is esteemed on account of its agreeable [[Colours|colours]] (especially of
 the dorsal fin), its well-flavoured flesh, and the sport it affords to
 anglers. The grayling differ from the genus _Salmo_ in the smaller mouth
 with comparatively feeble dentition, in the larger scales, and

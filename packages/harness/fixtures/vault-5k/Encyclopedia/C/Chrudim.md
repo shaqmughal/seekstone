@@ -13,7 +13,7 @@ agricultural machinery. There are also steam corn-mills and saw-mills.
 Chrudim is mentioned as the castle of a _gaugraf_ as early as 993. The
 new town was founded by Ottokar II., who settled many Germans in it and
 gave it many privileges. After 1421 Chrudim was held by the Hussites,
-and though Ferdinand I. confiscated most of the town property, it
+and though [[Ferdinand]] I. confiscated most of the town property, it
 prospered greatly till the outbreak of the Thirty Years' War. In 1625
 the greater part of its Hussite inhabitants left the town, which
 suffered much later on from the Swedes. Chrudim was the birthplace of
@@ -30,7 +30,7 @@ at Kew in 1790, whither it had been sent by Mr Cels, a French gardener.
 It was not, however, till 1825 that the first chrysanthemum exhibition
 took place in England. The small-flowered pompons, and the
 grotesque-flowered Japanese sorts, are of comparatively recent date, the
-former having originated from the Chusan daisy, a variety introduced by
+former having originated from the Chusan [[Daisy|daisy]], a variety introduced by
 Mr Fortune in 1846, and the latter having also been introduced by the
 same traveller about 1862. The Japanese kinds are unquestionably the
 most popular for decorative purposes as well as for exhibition. They
@@ -38,7 +38,7 @@ afford a wide choice in colour, form, habit and times of flowering. The
 incurved Chinese kinds are severely neat-looking flowers in many shades
 of colour. The anemone-flowered kinds have long outer or ray petals, the
 interior or disk petals being short and tubular. These are to be had in
-many pleasing colours. The pompon kinds are small flowered, the petals
+many pleasing [[Colours|colours]]. The pompon kinds are small flowered, the petals
 being short. The plants are mostly dwarf in habit. In the single
 varieties the outer or ray florets alone are large and attractively
 coloured.
@@ -47,7 +47,7 @@ coloured.
   chrysanthemum is of the easiest culture. It is an exceptionally good
   town plant. By a judicious selection of varieties, flowers may be
   produced in abundance and in considerable variety from August to the
-  end of November, and in favourable seasons well on towards Christmas.
+  end of November, and in favourable seasons well on towards [[Christmas]].
   Since 1890 when the English market was flooded with French raised
   varieties of exceptional merit, the border chrysanthemum has taken
   first place among hardy autumn flowering plants. Most of the varieties
@@ -75,7 +75,7 @@ coloured.
   should consist of about equal parts of fibrous loam and leaf-mould,
   half a part of coarse silver-sand, and about a quart of vegetable ash
   from the garden refuse heap to each bushel of the compost. The whole
-  should be passed through a quarter inch sieve and thoroughly mixed.
+  should be passed through a quarter [[Inch|inch]] sieve and thoroughly mixed.
   The coarse leaf-mould, &c., from the sieve should be spread thinly
   over the drainage, and the boxes or pots filled almost to the rims
   with the compost, and covered, if possible, with a thin layer of

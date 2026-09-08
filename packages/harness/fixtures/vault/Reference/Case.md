@@ -13,10 +13,10 @@ consequence of his Roman Catholic sympathies. He subsequently opened a
 philosophical school in Oxford, which was largely attended. He enjoyed a
 great reputation as a logician and dialectician, and was in addition an
 authority on music and a distinguished physician. He is described as "a
-man of an innocent, meek, religious and studious life," an agreeable
+man of an [[Innocent|innocent]], meek, religious and studious life," an agreeable
 conversationalist, an enthusiastic teacher, and a great favourite with
 his pupils. Most of his works were commentaries on various treatises of
-Aristotle (_Organon, Ethics, Politics, Oeconomics, Physics_) under
+[[Aristotle]] (_Organon, [[Ethics]], Politics, Oeconomics, Physics_) under
 curious titles; they enjoyed a large circulation during his time, and
 were frequently reprinted. He was also the author of _The Praise of
 Musicke_ (1586), dedicated to Sir Walter Raleigh.
@@ -49,7 +49,7 @@ is, following that of the Roman law, that they are instructive but not
 authoritative.
 
 (2) (O. Fr. _casse_, mod. _châsse_, Lat. _capsa_, from _capere_, to
-hold; cf. "cash"), a box, sheath or covering. The term is applied to the
+hold; cf. "[[Cash|cash]]"), a [[Box|box]], sheath or covering. The term is applied to the
 natural protective covering of seed-vessels, and of a pupa or chrysalis.
 It is also used of a box containing instruments, pistols, swords, &c.,
 and sometimes of the contents. In building, a "case" is the facing where

@@ -1,12 +1,12 @@
 # Bunker Hill
 
-BUNKER HILL, the name of a small hill in Charlestown (Boston),
+BUNKER HILL, the name of a small hill in Charlestown ([[Boston]]),
 Massachusetts, U.S.A., famous as the scene of the first considerable
 engagement in the American War of Independence (June 17, 1775). Bunker Hill
 (110 ft.) was connected by a ridge with Breed's Hill (75 ft.), both being
 on a narrow peninsula a short distance to the north of Boston, joined by a
-causeway with the mainland. Since the affair of Lexington (April 19, 1775)
-General Gage, who commanded the British forces, had remained inactive at
+[[Causeway|causeway]] with the mainland. Since the affair of [[Lexington]] (April 19, 1775)
+General [[Gage]], who commanded the British forces, had remained inactive at
 Boston awaiting reinforcements from England; the headquarters of the
 Americans were at Cambridge, with advanced posts occupying much of the 4 m.
 separating [v.04 p.0799] Cambridge from Bunker Hill. When Gage received his
@@ -38,7 +38,7 @@ could see the whites of their assailants' eyes, the American volunteers
 with admirable steadiness waited till the attack was on the point of being
 driven home, when they delivered a fire so sustained and deadly that the
 British line broke in disorder. A second assault, made like the first, with
-the precision and discipline of the parade-ground met the same fate, but
+the precision and discipline of the parade-ground met the same [[Fate|fate]], but
 Gage's troops had still spirit enough for a third assault, and this time
 they carried the position with the bayonet, capturing five pieces of
 ordnance and putting the enemy to flight. The loss of the British was 1054
@@ -73,15 +73,15 @@ as to deny them all prospect of ultimate success.
 
 In 1843 a monument, 221 ft. high, in the form of an obelisk, of Quincy
 granite, was completed on Breed's Hill (now Bunker Hill) to commemorate the
-battle, when an address was delivered by Daniel Webster, who had also
+battle, when an address was delivered by [[Daniel]] Webster, who had also
 delivered the famous dedicatory oration at the laying of the corner-stone
 in 1825. Bunker Hill day is a state holiday.
 
-See R. Frothingham, _The Centennial: Battle of Bunker Hill_ (Boston, 1895),
+See R. [[Frothingham]], _The Centennial: Battle of Bunker Hill_ (Boston, 1895),
 and _Life and Times of Joseph Warren_ (Boston, 1865); Boston City Council,
 _Celebration of Centen. Aniv. of Battle of Bunker Hill_ (Boston, 1875);
 G.E. Ellis, _Hist. of Battle of Bunker's_ (Breed's) _Hill_ (Boston, 1875);
-S. Sweet, _Who was the Commander at Bunker Hill?_ (Boston, 1850); W.E.H.
+S. Sweet, _Who was the [[Commander]] at Bunker Hill?_ (Boston, 1850); W.E.H.
 Lecky, _History of England in the Eighteenth Century_, vol. iii (London,
 1883); Sir George O. Trevelyan, _The American Revolution_ (London, 1899);
 Fortescue, _History of the British Army_, vol. iii. pp. 153 seq. (London,

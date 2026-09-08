@@ -11,7 +11,7 @@ imperial times it was the most important town in the island, mainly
 owing to its fine sheltered harbour, where a detachment of the _classis
 Misenas_ was stationed. In the 4th and 5th centuries it was probably the
 seat of the _praeses Sardiniae_. It is mentioned as an important harbour
-in the Gothic and Gildonic wars. It was also the chief point of the road
+in the [[Gothic]] and Gildonic wars. It was also the chief point of the road
 system of Sardinia. Roads ran hence to Olbia by the east coast, and
 through the centre of the island, to Othoca (Oristano) direct, and
 thence to Olbia (probably the most frequented route), through the mining
@@ -55,16 +55,16 @@ degli Scavi_, 1876, 148, 173; 1877, 285; 1880, 105, 405). Beyond this
 quarter begins an extensive Roman necropolis extending along the edge of
 the hill north-east of the high road leading to the north-west; the most
 important tomb is the so-called Grotta delle Vipere, the rock-hewn tomb
-of Cassius Philippus and Atilia Pomptilla, the sides of which are
+of [[Cassius]] Philippus and Atilia Pomptilla, the sides of which are
 covered with inscriptions (_Corpus Inscr. Lat._ x., Berlin, 1883, Nos.
 7563-7578). Other tombs are also to be found on the high ground near the
 Punic tombs already mentioned. The latter are hewn perpendicularly in
 the rock, while the Roman tombs are chambers excavated horizontally. In
 the lagoon itself were found a large number of terra cottas, made of
 local clay, some being masks of both divinities and men (among them
-grotesques) others representing hands and feet, others various animals,
+[[Grotesque|grotesques]]) others representing hands and feet, others various animals,
 and of _amphorae_ of various sizes and other vases. Some of the
-_amphorae_ contained animals' bones, possibly the remains of sacrifices.
+_amphorae_ contained animals' [[Bone|bones]], possibly the remains of sacrifices.
 These objects are of the Punic period; they were all found in groups,
 and had apparently been arranged on a platform of piles in what was then
 a bay, in readiness for shipment (F. Vivanet in _Notizie degli Scavi_,

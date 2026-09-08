@@ -2,7 +2,7 @@
 
 GACHARD, LOUIS PROSPER (1800-1885), Belgian man of letters, was born in
 Paris on the 12th of March 1800. He entered the administration of the
-royal archives in 1826, and was appointed director-general, a post which
+royal [[Archive|archives]] in 1826, and was appointed director-general, a post which
 he held for fifty-five years. During this long period he reorganized the
 service, added to the records by copies taken in other European
 collections, travelled for purposes of study, and carried on a wide

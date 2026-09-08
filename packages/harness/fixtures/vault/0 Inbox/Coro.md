@@ -2,7 +2,7 @@
 
 CORO, a small city and the capital of the state of Falcón, Venezuela, 7
 m. W. of La Vela de Coro (its port on the Caribbean coast), with which
-it is connected by rail, and 199 m. W.N.W. of Carácas. Pop. (1904,
+it is connected by rail, and 199 m. W.N.W. of [[Car]]ácas. Pop. (1904,
 estimate) 9500. Coro stands on a sandy plain between the Caribbean and
 the Gulf of Venezuela, and near the isthmus connecting the peninsula of
 Paraguaná with the mainland. Its elevation above sea-level is only 105
@@ -12,7 +12,7 @@ two old churches. Its water-supply is derived from springs some distance
 away. Coro is the commercial centre for an extensive district on the E.
 side of Lake Maracaibo and the Gulf of Venezuela, which exports large
 quantities of goat-skins, an excellent quality of tobacco, and some
-coffee, cacao, castor beans, timber and dyewoods. It was founded in 1527
+coffee, cacao, castor [[Bean|beans]], timber and dyewoods. It was founded in 1527
 by Juan de Ampués, who gave to it the name of Santa Ana de Coriana
 (afterwards corrupted to Santa Ana de Coro) in honour of the day and of
 the tribe of Indians inhabiting this locality. It was also called

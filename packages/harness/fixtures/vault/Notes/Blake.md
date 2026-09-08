@@ -14,7 +14,7 @@ boy was sent to a drawing school kept by Henry Pars in the Strand, and
 at the same time he was already cultivating his own taste by constant
 attendance at the different art sale rooms, where he was known as the
 "little connoisseur." Here he began to collect prints after
-Michelangelo, and Raphael, Durer and Heemskerk, while at the school in
+Michelangelo, and Raphael, Durer and [[Heemskerk]], while at the school in
 the Strand he had the opportunity of drawing from the antique. After
 four years of this preliminary instruction Blake entered upon another
 branch of art study. In 1777 he was apprenticed to James Basire, an
@@ -35,17 +35,17 @@ proficient only as a draughtsman and an engraver. He had learned how to
 draw, and he had mastered besides the practical difficulties of
 engraving, and with these qualifications he entered upon his career. In
 1780 he exhibited a picture in the Royal Academy Exhibition, conjectured
-to have been executed in water colours, and he continued to contribute
+to have been executed in water [[Colours|colours]], and he continued to contribute
 to the annual exhibitions up to the year 1808. In 1782 he married
-Catherine Boucher, the daughter of a market-gardener at Battersea, with
+Catherine [[Boucher]], the daughter of a market-gardener at [[Battersea]], with
 whom he lived always on affectionate terms, and the young couple after
-their marriage established themselves in Green Street, Leicester Fields.
+their marriage established themselves in Green Street, Leicester [[Fields]].
 Blake had already become acquainted with some of the rising artists of
-his time, amongst them Stothard, Flaxman and Fuseli, and he now began to
+his time, amongst them Stothard, [[Flaxman]] and [[Fuseli]], and he now began to
 see something of literary society. At the house of the Rev. Henry
-Mathew, in Rathbone Place, he used to recite and sometimes to sing poems
+[[Mathew]], in Rathbone Place, he used to recite and sometimes to sing poems
 of his own composition, and it was through the influence of this
-gentleman, combined with that of Flaxman, that Blake's first volume of
+[[Gentleman|gentleman]], combined with that of Flaxman, that Blake's first volume of
 poetry was printed and published in 1783. From this time forward the
 artist came before the world in a double capacity. By education as well
 as native talent, he was pledged to the life of a painter, and these
@@ -92,8 +92,8 @@ attracted but slight attention, a fact perhaps not very wonderful, when
 the system of publication is taken into account. Blake, however,
 proceeded with other work of the same kind. The same year he published
 _The Book of Thel_, more decidedly mystic in its poetry, but scarcely
-less beautiful as a piece of illumination; _The Marriage of Heaven and
-Hell_ followed in 1790; and in 1793 there are added _The Gates of
+less beautiful as a piece of [[Illumination|illumination]]; _The Marriage of Heaven and
+[[Hell]]_ followed in 1790; and in 1793 there are added _The Gates of
 Paradise_, _The Vision of the Daughters of Albion_, and some other
 "Prophetic Books." It becomes abundantly clear on reaching this point in
 his career that Blake's utterances cannot be judged by ordinary rules.
@@ -101,7 +101,7 @@ The _Songs of Experience_, put forth in 1794 as a companion to the
 earlier _Songs of Innocence_, are for the most part intelligible and
 coherent, but in these intervening works of prophecy, as they were
 called by the author, we get the first public expression of that phase
-of his character and of his genius upon which a charge of insanity has
+of his character and of his genius upon which a charge of [[Insanity|insanity]] has
 been founded. The question whether Blake was or was not mad seems likely
 to remain in dispute, but there can be no doubt whatever that he was at
 different periods of his life under the influence of illusions for which
@@ -113,7 +113,7 @@ rejection of his work on this ground. The greatness of Blake's mind is
 even better established than its frailty, and in considering the work
 that he has left we must remember that it is by the sublimity of his
 genius, and not by any mental defect, that he is most clearly
-distinguished from his fellows. With the publication of the _Songs of
+distinguished from his [[Fellows|fellows]]. With the publication of the _Songs of
 Experience_ Blake's poetic career, so far at least as ordinary readers
 are concerned, may be said to close. A writer of prophecy he continued
 for many years, but the works by which he is best known in poetry are
@@ -122,7 +122,7 @@ from various sources, some of which were of later production. But
 although Blake the poet ceases in a general sense at this date, Blake
 the artist is only just entering upon his career. In the _Songs of
 Innocence_ and _Experience_, and even in some of the earlier _Books of
-Prophecy_, the two gifts worked together in perfect balance and harmony;
+Prophecy_, the two gifts worked together in perfect [[Balance|balance]] and harmony;
 but at this point the supremacy of the artistic faculty asserts itself,
 and for the remainder of his life Blake was pre-eminently a designer and
 engraver. The labour of poetical composition continues, but the product
@@ -137,7 +137,7 @@ enough at first sight, quite beyond a possible explanation. As Blake
 advanced in his poetic career, he was gradually hindered and finally
 overpowered by a tendency that was most serviceable to him in design.
 His inclination to substitute a symbol for a conception, to make an
-image do duty for an idea, became an insuperable obstacle to literary
+[[Image|image]] do duty for an idea, became an insuperable obstacle to literary
 success. He endeavoured constantly to treat the intellectual material of
 verse as if it could be moulded into sensuous form, with the inevitable
 result that as the ideas to be expressed advanced in complexity and
@@ -177,21 +177,21 @@ the engraved plates, regrets the absence of colour, "the use of which
 Blake so well understood, to relieve his simple design and give it
 significance," and an examination of the original water-colour drawings
 fully supports the justice of his criticism. Soon after the publication
-of this work Blake was introduced by Flaxman to the poet Hayley, and in
+of this work Blake was introduced by Flaxman to the poet [[Hayley]], and in
 the year 1801 he accepted the suggestion of the latter, that he should
 take up his residence at Felpham in Sussex. The mild and amiable poet
-had planned to write a life of Cowper, and for the illustration of this
+had planned to write a life of [[Cowper]], and for the illustration of this
 and other works he sought Blake's help and companionship. The residence
 at Felpham continued for three years, partly pleasant and partly irksome
 to Blake, but apparently not very profitable to the progress of his art.
 One of the annoyances of his stay was a malicious prosecution for
 treason set on foot by a common soldier whom Blake had summarily ejected
-from his garden; but a more serious drawback was the increasing
+from his garden; but a more serious [[Drawback|drawback]] was the increasing
 irritation which the painter seems to have experienced from association
 with Hayley. In 1804 Blake returned to London, to take up his residence
 in South Moulton Street, and as the fruit of his residence in Felpham,
 he published, in the manner already described, the prophetic books
-called the _Jerusalem_, _The Emanation of the Giant Albion_, and
+called the _Jerusalem_, _The Emanation of the [[Giant]] Albion_, and
 _Milton_. The first of these is a very notable performance in regard to
 artistic invention. Many of the designs stand out from the text in
 complete independence, and are now and then of the very finest quality.
@@ -210,19 +210,19 @@ amount of popularity than he at any other time secured. Stothard's
 picture of the Canterbury Pilgrims was exhibited in 1807, and in 1809
 Blake, in emulation of his rival's success, having himself painted in
 water-colour a picture of the same subject, opened an exhibition, and
-drew up a _Descriptive Catalogue_, curious and interesting, and
-containing a very valuable criticism of Chaucer.
+drew up a _Descriptive [[Catalogue]]_, curious and interesting, and
+containing a very valuable criticism of [[Chaucer]].
 
 The remainder of the artist's life is not outwardly eventful. In 1813 he
-formed, through the introduction of George Cumberland of Bristol, a
+formed, through the introduction of George [[Cumberland]] of [[Bristol]], a
 valuable friendship with John Linnell and other rising water-colour
 painters. Amongst the group Blake seems to have found special sympathy
-in the society of John Varley, who, himself addicted to astrology,
+in the society of John Varley, who, himself addicted to [[Astrology|astrology]],
 encouraged Blake to cultivate his gift of inspired vision; and it is
 probably to this influence that we are indebted for several curious
-drawings made from visions, especially the celebrated "ghost of a flea"
+drawings made from visions, especially the celebrated "ghost of a [[Flea|flea]]"
 and the very humorous portrait of the builder of the Pyramids. In 1821
-Blake removed to Fountain Court, in the Strand, where he died on the
+Blake removed to [[Fountain]] Court, in the Strand, where he died on the
 12th of August 1827. The chief work of these last years was the splendid
 series of engraved designs in illustration of the book of Job. Here we
 find the highest imaginative qualities of Blake's art united to the
@@ -252,7 +252,7 @@ subject.
   Works_ (1905), which has rescued Blake from the "improvements" of
   previous editors. See also _The Letters of_ ~~ _William Blake,
   together with a Life by Frederick Tatham_; edited by A.G.B. Russell
-  (1906); and Basil de Selincourt, _William Blake_ (1909).
+  (1906); and [[Basil]] de Selincourt, _William Blake_ (1909).
        (J. C. C.)
 
 ## See also

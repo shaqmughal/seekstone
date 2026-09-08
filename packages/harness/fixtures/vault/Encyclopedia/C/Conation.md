@@ -20,13 +20,13 @@ thus regarded, are psychic changes brought about by external causes.
 The chief difficulty in connexion with Conation is that of
 distinguishing it from Feeling, a term of very vague significance both
 in technical and in common usage. Thus the German psychologist F.
-Brentano holds that no real distinction can be made. He argues that the
+[[Brentano]] holds that no real distinction can be made. He argues that the
 mental process from sorrow or dissatisfaction, through hope for a change
 and courage to act, up to the voluntary determination which issues in
 action, is a single homogeneous whole (_Psychologie_, pp. 308-309). The
 mere fact, however, that the series is continuous is no ground for not
 distinguishing its parts; if it were so, it would be impossible to
-distinguish by separate names the various colours in the solar spectrum,
+distinguish by separate names the various [[Colours|colours]] in the solar spectrum,
 or indeed perception from conception. A more material objection,
 moreover, is that, in point of fact, the feeling of pleasure or pain
 roused by a given stimulus is specifically different from, and indeed
@@ -44,12 +44,12 @@ activity is present, i.e. to the psychic phenomena of pleasure or pain
 considered in and by themselves. The study of such phenomena is
 specifically described as Hedonics (Gr. [Greek: hêdonê], pleasure) or
 Algedonics (Gr. [Greek: algêdôn], pain); the latter term was coined by
-H. R. Marshall (in _Pain, Pleasure and Aesthetics_, 1894), but has not
+H. R. [[Marshall]] (in _Pain, Pleasure and Aesthetics_, 1894), but has not
 been generally used.
 
 The problem of conation is closely related to that of Attention (q.v.),
 which indeed, regarded as active consciousness, implies conation (G. T.
-Ladd, _Psychology_, 1894, p. 213). Thus, whenever the mind deliberately
+[[Ladd]], _Psychology_, 1894, p. 213). Thus, whenever the mind deliberately
 focusses itself upon a particular object, there is implied a psychic
 effort (for the relation between Attention and Conation, see G. F.
 Stout, _Analytic Psychology_, book i. chap. vi.). All conscious action,

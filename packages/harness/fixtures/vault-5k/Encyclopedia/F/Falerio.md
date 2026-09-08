@@ -16,7 +16,7 @@ Latin._ ix., Berlin, 1883, No. 5, 420). Considerable remains of a
 theatre in concrete faced with brickwork, erected, according to an
 inscription, in 43 B.C., and 161 ft. in diameter, were excavated in 1838
 and are still visible; and an amphitheatre, less well preserved, also
-exists, the arena of which measures about 180 by 150 ft. Between the two
+exists, the [[Arena|arena]] of which measures about 180 by 150 ft. Between the two
 is a water reservoir (called Bagno della Regina) connected with remains
 of baths.
 

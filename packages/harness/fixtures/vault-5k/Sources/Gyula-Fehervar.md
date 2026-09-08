@@ -15,11 +15,11 @@ of the Transylvanian Erzgebirge or Ore Mountains, and consists of the
 upper town, or citadel, and the lower town. Gyula-Fehervar is the seat
 of a Roman Catholic bishop, and has a fine Roman Catholic cathedral,
 built in the 11th century in Romanesque style, and rebuilt in 1443 by
-John Hunyady in Gothic style. It contains among other tombs that of John
+John Hunyady in [[Gothic]] style. It contains among other tombs that of John
 Hunyady. Near the cathedral is the episcopal palace, and in the same
 part of the town is the Batthyaneum, founded by Bishop Count Batthyany
 in 1794. It contains a valuable library with many incunabula and old
-manuscripts, amongst which is one of the _Nibelungenlied_, an
+[[Manuscript|manuscripts]], amongst which is one of the _Nibelungenlied_, an
 astronomical observatory, a collection of antiquities, and a mineral
 collection. Gyula-Fehervar carries on an active trade in cereals, wine
 and cattle.
@@ -30,8 +30,8 @@ museum of the town. The bishopric was founded in the 11th century by
 King Ladislaus I. (1078-1095). In the 16th century, when Transylvania
 separated from Hungary, the town became the residence of the
 Transylvanian princes. From this period dates the castle, and also the
-buildings of the university, founded by Gabriel Bethlen, and now used as
-barracks. After the reversion of Transylvania in 1713 to the Habsburg
+buildings of the university, founded by Gabriel [[Bethlen]], and now used as
+[[Barracks|barracks]]. After the reversion of Transylvania in 1713 to the Habsburg
 monarchy the actual strong fortress was built in 1716-1735 by the
 emperor Charles VI., whence the German name of the town.
 
@@ -74,7 +74,7 @@ was the right-hand portion -|. At Tarentum |- is found for H in
 inscriptions. The Roman aspirate was, however, a very slight sound which
 in some words where it was etymologically correct disappeared at an
 early date. Thus the cognate words of kindred languages show that the
-Lat. _anser_ "goose" ought to begin with _h_, but nowhere is it so
+Lat. _anser_ "[[Goose|goose]]" ought to begin with _h_, but nowhere is it so
 found. In none of the Romance languages is there any trace of initial or
 medial _h_, which shows that vulgar Latin had ceased to have the
 aspirate by 240 B.C. The Roman grammarians were guided to its presence
@@ -102,7 +102,7 @@ ordinarily lost, it disappears in unaccented syllables, as "_Give it
 'im_" and the like. Where it is lost, conscious attempts to restore it
 on the part of uneducated speakers lead to absurd misplacements of _h_
 and to its restoration in Romance words when it never was pronounced, as
-_humble_ (now recognized as standard English), _humour_ and even
+_humble_ (now recognized as standard English), _[[Humour|humour]]_ and even
 _honour_.     (P. Gi.)
 
 ## References

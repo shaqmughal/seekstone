@@ -17,7 +17,7 @@ but had also time for literary pursuits in the company of Uhland, Gustav
 Schwab and others. He took his doctor's degree in 1808, spent some time
 in travel, and then settled as a practising physician in Wildbad. Here
 he completed his _Reiseschatten von dem Schattenspieler Luchs_ (1811),
-in which his own experiences are described with caustic humour. He next
+in which his own experiences are described with caustic [[Humour|humour]]. He next
 co-operated with Uhland and Schwab in producing the _Poetischer Almanack
 für 1812_, which was followed by the _Deutscher Dichterwald_ (1813), and
 in these some of Kerner's best poems were published. In 1815 he obtained
@@ -28,8 +28,8 @@ foot of the historical Schloss Weibertreu was presented by the
 municipality to their revered physician, became the Mecca of literary
 pilgrims. Hospitable welcome was extended to all, from the journeyman
 artisan to crowned heads. Gustavus IV. of Sweden came thither with a
-knapsack on his back. The poets Count Christian Friedrich Alexander von
-Württemberg (1801-1844) and Lenau (q.v.) were constant guests, and
+knapsack on his back. The poets Count Christian [[Friedrich]] Alexander von
+Württemberg (1801-1844) and [[Lenau]] (q.v.) were constant guests, and
 thither came also in 1826 Friederike Hauffe (1801-1829), the daughter of
 a forester in Prevorst, a somnambulist and clairvoyante, who forms the
 subject of Kerner's famous work _Die Seherin von Prevorst, Eröffnungen

@@ -18,13 +18,13 @@ convicted of keeping a disorderly house. See also PROSTITUTION.
 
 FOOTNOTE:
 
-  [1] The etymology of this word has been confused by the early
+  [1] The [[Etymology|etymology]] of this word has been confused by the early
     adoption into English usage of the O. Fr. _bordel_. The two words are
     in origin quite distinct. Brothel is an O. Eng. word for a person,
     not a place. It meant an abandoned vagabond, one who had gone to ruin
     (_abréothan_). _Bordel_, on the contrary, is a place, literally a
     small hut or shelter, especially for fornication, Med. Lat.
-    _bordellum_, diminutive of the Late Lat. _borda_, board. The words
+    _bordellum_, diminutive of the Late Lat. _[[Borda|borda]]_, board. The words
     were early confused, and brothel-house, bordel-house, bordel or
     brothel, are all used for a disorderly house, while bordel was
     similarly misused, and, like brothel in its proper meaning, was

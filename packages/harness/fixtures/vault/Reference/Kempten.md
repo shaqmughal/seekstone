@@ -12,9 +12,9 @@ Munich by rail. Pop. (1905), 20,663. The town is well built, has many
 spacious squares and attractive public grounds, and contains a castle, a
 handsome town-hall, a gymnasium, &c. The old palace of the abbots of
 Kempten, dating from the end of the 17th century, is now partly used as
-barracks, and near to it is the fine abbey church. The industries
-include wool-spinning and weaving and the manufacture of paper, beer,
-machines, hosiery and matches. As the commercial centre of the Algäu,
+[[Barracks|barracks]], and near to it is the fine abbey church. The industries
+include wool-spinning and weaving and the manufacture of paper, [[Beer|beer]],
+[[Machine|machines]], [[Hosiery|hosiery]] and matches. As the commercial centre of the Algäu,
 Kempten carries on active trade in timber and dairy produce. Numerous
 remains have been discovered on the Lindenberg, a hill in the vicinity.
 

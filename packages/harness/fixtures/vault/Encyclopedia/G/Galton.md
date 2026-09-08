@@ -10,14 +10,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Galton"
 
 GALTON, SIR FRANCIS (1822-   ), English anthropologist, son of S.T.
 Galton, of Duddeston, Warwickshire, was born on the 16th of February
-1822. His grandfather was the poet-naturalist Erasmus Darwin, and
-Charles Darwin was his cousin. After attending King Edward VI.'s grammar
-school, Birmingham, he studied at Birmingham hospital, and afterwards at
+1822. His grandfather was the poet-naturalist Erasmus [[Darwin]], and
+Charles Darwin was his [[Cousin|cousin]]. After attending King Edward VI.'s grammar
+school, [[Birmingham]], he studied at Birmingham hospital, and afterwards at
 King's College, London, with the intention of making medicine his
 profession; but after taking his degree at Trinity College, Cambridge,
 in 1843 he changed his mind. The years 1845-1846 he spent in travelling
 in the Sudan, and in 1850 he made an exploration, with Dr John Anderson,
-of Damaraland and the Ovampo country in south-west Africa, starting from
+of [[Damaraland]] and the Ovampo country in south-west Africa, starting from
 Walfisch Bay. These tracts had practically never been traversed before,
 and on the appearance of the published account of his journey and
 experiences under the title of _Narrative of an Explorer in Tropical
@@ -33,7 +33,7 @@ an extensive scale, and in it also the author first established the
 existence and theory of anti-cyclones. Galton was a member of the
 meteorological committee (1868), and of the Meteorological Council which
 succeeded it, for over thirty years. But his name is most closely
-associated with studies in anthropology and especially in heredity. In
+associated with studies in anthropology and especially in [[Heredity|heredity]]. In
 1869 appeared his _Hereditary Genius, its Laws and Consequences_, a work
 which excited much interest in scientific and medical circles. This was
 followed by _English Men of Science, their Nature and Nurture_,
@@ -44,18 +44,18 @@ a preface); and _Natural Inheritance_ (1889). The idea that systematic
 efforts should be made to improve the breed of mankind by checking the
 birth-rate of the unfit and furthering the productivity of the fit was
 first put forward by him In 1865; he mooted it again in 1884, using the
-term "eugenics" for the first time in _Human Faculty_, and in 1904 he
+term "[[Eugenics|eugenics]]" for the first time in _Human Faculty_, and in 1904 he
 endowed a research fellowship in the university of London for the
 promotion of knowledge of that subject, which was defined as "the study
 of agencies under social control that may improve or impair the racial
 qualities of future generations, either physically or mentally." Galton
 was the author of memoirs on various anthropometric subjects; he
 originated the process of composite portraiture, and paid much attention
-to finger-prints and their employment for the identification of
-criminals, his publications on this subject including _Finger Prints_
+to finger-prints and their employment for the [[Identification|identification]] of
+criminals, his publications on this subject including _[[Finger]] Prints_
 (1892), _Decipherment of Blurred Finger Prints_ (1893) and _Finger Print
 Directories_ (1895). From the Royal Society, of which he was elected a
-fellow in 1860, he received a royal medal in 1886 and the Darwin medal
+[[Fellow|fellow]] in 1860, he received a royal medal in 1886 and the Darwin medal
 in 1902, and honorary degrees were bestowed on him by Oxford (1894) and
 Cambridge (1895). In 1908 he published _Memories of My Life_, and in
 1909 he received a knighthood.

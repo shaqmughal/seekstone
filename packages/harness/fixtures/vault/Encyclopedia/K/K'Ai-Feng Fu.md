@@ -14,7 +14,7 @@ to mark off (_k'ai_) the boundary of his fief (_feng_); hence its name.
 It has, however, passed under several _aliases_ in Chinese history.
 During the Chow, Suy and T'ang dynasties (557-907) it was known as
 P'ien-chow. During the Wu-tai, or five dynasties (907-960), it was the
-Tung-king, or eastern capital. Under the Sung and Kin dynasties
+Tung-king, or eastern capital. Under the Sung and [[Kin]] dynasties
 (960-1260) it was called P'ien-king. By the Yuan or Mongol dynasty
 (1260-1368) its name was again changed to P'ien-liang, and on the return
 of the Chinese to power with the establishment of the Ming dynasty
@@ -22,7 +22,7 @@ of the Chinese to power with the establishment of the Ming dynasty
 point where the last spur of the Kuen-lun mountain system merges in the
 eastern plain, and a few miles south of the Hwang-ho. Its position,
 therefore, lays it Open to the destructive influences of this river. In
-1642 it was totally destroyed by a flood caused by the dikes bursting,
+1642 it was totally destroyed by a [[Flood|flood]] caused by the [[Dike|dikes]] bursting,
 and on several prior and subsequent occasions it has suffered injury
 from the same cause. The city is large and imposing, with broad streets
 and handsome buildings, the most notable of which are a twelve-storeyed

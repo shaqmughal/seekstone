@@ -8,8 +8,8 @@ id: 42-4818
 
 # Lannoy
 
-LANNOY, GUILLEBERT DE (1386-1462), Flemish diplomatist, was chamberlain
-to the duke of Burgundy, governor of the fort of Sluys, and a knight of
+LANNOY, GUILLEBERT DE (1386-1462), Flemish diplomatist, was [[Chamberlain|chamberlain]]
+to the duke of Burgundy, governor of the fort of Sluys, and a [[Knight|knight]] of
 the Golden Fleece. He discharged several diplomatic missions in France,
 England, Prussia, Poland and Lithuania, and was one of the negotiators
 of the treaty of Troyes (1420). In 1421 he was sent by Henry V. of

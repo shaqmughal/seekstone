@@ -13,17 +13,17 @@ Protestant parents, on the 15th of January 1730. He went to London,
 where his uncle was a jeweller, and there obtained a situation as tutor
 in a private family. In this position he learnt Greek and mathematics,
 and studied oriental languages, also Italian and Spanish. He took
-orders, and was appointed chaplain and secretary to the English minister
+orders, and was appointed [[Chaplain|chaplain]] and secretary to the English minister
 at the court of Turin in October 1758. In 1760-1762 he was chargé
 d'affaires at Turin. Lord Bute, before retiring from office in 1763,
 procured him a pension. He again went to Turin as chargé d'affaires; and
 during this second mission he collected and published a complete edition
-of the works of Leibnitz (Geneva, 6 vols., 1768) and wrote his
+of the works of Leibnitz ([[Geneva]], 6 vols., 1768) and wrote his
 _Recherches sur l'origine des découvertes attribuées aux modernes_
 (1766). On his return to England the duke of Northumberland procured him
 the living of Elsdon, in Northumberland, and made him tutor to his son.
 In 1775 he became a member of the French Academy of Inscriptions and a
-fellow of the Royal Society. Dutens was for a third time chargé
+[[Fellow|fellow]] of the Royal Society. Dutens was for a third time chargé
 d'affaires at Turin. He was in Paris in 1783, and returned to London the
 following year. He died in London on the 23rd of May 1812.
 
@@ -31,9 +31,9 @@ following year. He died in London on the 23rd of May 1812.
   découvertes attribuées aux modernes_ (1766, 2 vols.); _Appel au bon
   sens_ (London, 1777, 8vo), directed in defence of Christianity against
   the French philosophers, and published anonymously; _Explication de
-  quelques médailles de peuples, de rois et de villes grecques et
+  quelques mé[[Daille|dailles]] de peuples, de rois et de villes grecques et
   phéniciennes_ (London, 1773); _Explication de quelques médailles du
-  cabinet de Duane_ (1774); _Troisième dissertation sur quelques
+  [[Cabinet|cabinet]] de Duane_ (1774); _Troisième dissertation sur quelques
   médailles grecques et phéniciennes_ (1776); _Logique, ou l'art de
   raisonner_ (1773); _Des pierres précieuses et des pierres fines, avec
   les moyens de les connaître et de les évaluer_ (Paris, 1776);

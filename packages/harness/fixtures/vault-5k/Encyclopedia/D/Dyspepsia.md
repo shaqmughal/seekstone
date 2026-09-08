@@ -61,7 +61,7 @@ twenty years of age, it may be the earliest sign of a gouty diathesis,
 or even of a more serious condition still--incipient phthisis. Chronic
 dyspepsia, by weakening the organism, renders it more liable to fall a
 prey to the attacks of the tubercle bacillus, but, on the other hand,
-the tuberculous lesion in the lung is often accompanied by a most
+the tuberculous lesion in the [[Lung|lung]] is often accompanied by a most
 intractable form of dyspepsia. From this it is clear that any condition
 which lessens the general well-being of the organism as a whole, apart
 from its producing any permanent morbid condition in the stomach, may
@@ -99,7 +99,7 @@ from the stomach. Temporary relief may be obtained when another meal is
 taken, but soon the uncomfortable sensations return as before. The
 appetite may be craving or deficient, or desirous of abnormal kinds of
 food. The tongue registers the gastric condition with great delicacy;--a
-pasty white fur on the tongue is considered a sign of weakness or atony
+pasty white [[Fur|fur]] on the tongue is considered a sign of weakness or atony
 of the digestive tract; a clean pointed tongue with large papillae, and
 rather red at the edges and tip, is a sign of gastric irritation; and a
 pale flabby tongue suggests the need of stimulating treatment.
@@ -126,7 +126,7 @@ are in general required for this purpose. Long fasts, however, are
 nearly as hurtful as too frequent meals. Of no less importance is the
 kind of food taken, and on this point those who suffer from indigestion
 must ever exercise the greatest care. It must be borne in mind that
-idiosyncrasy often plays an important part in digestion, some persons
+[[Idiosyncrasy|idiosyncrasy]] often plays an important part in digestion, some persons
 being unable to partake without injury of substances which are generally
 regarded as wholesome and digestible. In most cases it is found very
 helpful to separate the protein from the farinaceous food, and the more
@@ -150,10 +150,10 @@ he applies this theory of mastication and salivation also to drinks
 (except water). Again, a lack of warmth being a source of dyspepsia,
 this should be attended to, the back of the neck, the front of the
 abdomen and the feet being the parts that require special attention. The
-feet should be raised on a stool, the ankles protected with warm
+feet should be raised on a stool, the [[Ankle|ankles]] protected with warm
 stockings and a woollen "cummerbund" wound two or three times round the
 body. Experience has shown that in this complaint no particular kind of
-food or avoidance of food is absolutely to be relied on, but that in
+food or [[Avoidance|avoidance]] of food is absolutely to be relied on, but that in
 general the best diet is one of a mixed animal and vegetable kind,
 simply but well cooked. The partaking of many dishes, of highly-seasoned
 or salted meats, raw vegetables, newly-baked bread, pastry and

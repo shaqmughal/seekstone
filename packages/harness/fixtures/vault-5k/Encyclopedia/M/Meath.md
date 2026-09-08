@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Meath"
 # Meath
 
 MEATH (pronounced with _th_ soft, as in _the_), a county of Ireland in
-the province of Leinster, bounded E. by the Irish Sea, S.E. by Dublin,
+the province of [[Leinster]], bounded E. by the Irish Sea, S.E. by Dublin,
 S. by Kildare and King's County, W. by Westmeath, N.W. by Cavan and
 Monaghan, and N.E. by Louth. Area 579,320 acres, or about 905 sq. m. In
 some districts the surface is varied by hills and swells, which to the
@@ -26,14 +26,14 @@ Dublin.
 
   In the north is a broken country of Silurian rocks with much igneous
   material, partly contemporaneous, partly intrusive, near Slane.
-  Carboniferous Limestone stretches from the Boyne valley to the Dublin
+  Carboniferous [[Limestone]] stretches from the Boyne valley to the Dublin
   border, giving rise to a flat plain especially suitable for grazing.
   Outliers of higher Carboniferous strata occur on the surface; but the
   Coal Measures have all been removed by denudation.
 
   The climate is genial and favourable for all kinds of crops, there
   being less rain than even in the neighbouring counties. Except a small
-  portion occupied by the Bog of Allen, the county is verdant and
+  portion occupied by the [[Bog]] of Allen, the county is verdant and
   fertile. The soil is principally a rich deep loam resting on limestone
   gravel, but varies from a strong clayey loam to a light sandy gravel.
   The proportion of tillage to pasturage is roughly as 1 to 3½. Oats,
@@ -54,8 +54,8 @@ Dublin.
   are Navan (pop. 3839), Kells (2428) and Trim (1513), the county town.
   Lesser market towns are Oldcastle and Athboy, an ancient town which
   received a charter from Henry IV. The county includes eighteen
-  baronies. Assizes are held at Trim, and quarter sessions at Kells,
-  Navan and Trim. The county is in the Protestant dioceses of Armagh,
+  baronies. [[Assize|Assizes]] are held at Trim, and quarter sessions at Kells,
+  Navan and Trim. The county is in the Protestant dioceses of [[Armagh]],
   Kilmore and Meath, and in the Roman Catholic dioceses of Armagh and
   Meath. Before the Union in 1800 it sent fourteen members to
   parliament, but now only two members are returned, for the north and

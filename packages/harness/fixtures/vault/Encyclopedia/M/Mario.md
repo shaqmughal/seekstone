@@ -19,7 +19,7 @@ two years under M. Ponchard and Signor Bordogni, and made his début in
 1838 as the hero of Meyerheer's _Robert le Diable_. His success was
 immediate and complete, but he did not stay long at the Opera. In 1839
 he joined the company of the Théâtre Italien, which then included
-Malibran, Sontag, Persiani and Grisi, Rubini, Tamburini and Lablache.
+Malibran, Sontag, Persiani and [[Grisi]], Rubini, Tamburini and Lablache.
 His first appearance here was made in the character of Nemorino in
 Donizetti's _Elisir d'Amore_. He sang in London for the first time in
 the same year. His success in Italian opera far surpassed that which he
@@ -28,15 +28,15 @@ reputation. He had a handsome face and a graceful figure, and his voice,
 though less powerful than that of Rubini or that of Tamberlik, had a
 velvety softness and richness which have never been equalled. Experience
 gave him ease as an actor, but he never excelled in tragic parts. He was
-an ideal stage lover, and he retained the grace and charm of youth long
+an ideal stage lover, and he retained the [[Grace|grace]] and [[Charm|charm]] of youth long
 after his voice had begun to show signs of decay. He created very few
 new parts, that of Ernesto in _Don Pasquale_ (1843) being perhaps the
 only one deserving of mention. Among the most successful of his other
 parts were Otello in Rossini's opera of that name, Gennaro in _Lucrezia
 Borgia_, Alamviva in _Il Barbiere di Siviglia_, Fernando in _La
 Favorita_, and Manrico in _Il Trovatore_. Mario made occasional
-appearances in oratorio singing at the Birmingham Festival of 1849 and
-at the Hereford Festival of 1855, and undertook various concert tours in
+appearances in oratorio singing at the [[Birmingham]] Festival of 1849 and
+at the Hereford Festival of 1855, and undertook various [[Concert|concert]] tours in
 the United Kingdom, but his name is principally associated with triumphs
 in the theatre. In 1856 he married Giulia Grisi, the famous soprano, by
 whom he had five daughters. Mario bade farewell to the stage in 1871. He

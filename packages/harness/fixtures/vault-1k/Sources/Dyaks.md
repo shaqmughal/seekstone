@@ -50,7 +50,7 @@ petticoat for the women, who acquire a peculiar mincing gait from its
 interference with their walking. The favourite ornaments of both sexes
 are brass rings for the legs and arms, hoops of rattan decorated in
 various ways, necklaces of white and black beads, and crescent-shaped
-ear-rings of a large size. The lobes of the ears are distended sometimes
+ear-rings of a large size. The [[Lobe|lobes]] of the ears are distended sometimes
 nearly to the shoulders by disks of metal and bits of stick. Tattooing
 is practised by most of the tribes, and the skulls of infants are
 artificially deformed. The men usually go bare-headed, or wear a
@@ -84,7 +84,7 @@ those natives who have had much intercourse with the Malays have adopted
 a kind of mongrel Mahommedanism, with a mixture of Hindu elements. The
 transmigration of souls seems to be believed in by some tribes; and some
 have a system of successive heavens rising one above the other very much
-in the style of the Hindu cosmogony. In the treatment of their dead much
+in the style of the Hindu [[Cosmogony|cosmogony]]. In the treatment of their dead much
 variety prevails; they are sometimes buried, sometimes burned, and
 sometimes elevated on a lofty framework. The Dyaks have no exact
 calculation of the year, and simply name the months first month, second
@@ -126,7 +126,7 @@ prowess. The strictest rules govern head-hunting; a period of fasting
 and confession, of isolation in a taboo hut, precedes the expedition,
 for which the Dyak clothes himself in the skins of wild beasts and puts
 on an animal mask. The Dyak curiously enough prefers the head of a
-fellow-tribesman, and the hunt is usually one of ambush rather than of
+fellow-tribesman, and the [[Hunt|hunt]] is usually one of ambush rather than of
 open combat. Among some tribes it was not sufficient to kill the victim.
 He was tortured first, his body sprinkled with his own blood, and even
 his flesh eaten under the eyes of priests and priestesses who presided

@@ -18,8 +18,8 @@ for its Roman remains, lying a mile south-east.
   bridge at Aldborough, and called Burgh bridge or Ponteburgem. This
   caused a village to spring up, and it afterwards increased so much as
   to become a market town. In 1229 Boroughbridge, as part of the manor
-  of Aldborough, was granted to Hubert de Burgh, but was forfeited a few
-  years later by his son who fought against the king at Evesham. It then
+  of Aldborough, was granted to [[Hubert]] de Burgh, but was forfeited a few
+  years later by his son who fought against the king at [[Evesham]]. It then
   remained a royal manor until Charles I. granted it to several citizens
   of London, from whom it passed through numerous hands to the present
   owner. The history of Boroughbridge during the early 14th century
@@ -33,7 +33,7 @@ for its Roman remains, lying a mile south-east.
   of Boroughbridge received a grant of two fairs, and Charles II. in
   1670 created three new fairs in the borough, on the 12th of June, the
   5th of August and the 12th of October, and leased them to Francis
-  Calvert and Thomas Wilkinson for ninety-nine years.
+  [[Calvert]] and Thomas Wilkinson for ninety-nine years.
 
 ## See also
 

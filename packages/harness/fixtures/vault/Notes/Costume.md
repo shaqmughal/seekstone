@@ -9,21 +9,21 @@ type: source
 
 COSTUME (through the Fr. _costume_, from Ital. _costume_, Late Lat.
 _costuma_, a contracted form of Lat. _consuetudinem_, acc. of
-_consuetudo_, custom, habit, manner, &c.), dress or clothing, especially
+_consuetudo_, custom, habit, manner, &c.), [[Dress|dress]] or clothing, especially
 the distinctive clothing worn at different periods by different peoples
 or different classes of people. The word appears in English in the 18th
 century, and was first applied to the correct representation, in
-literature and art, of the manners, dress, furniture and general
+literature and art, of the [[Manners|manners]], dress, furniture and general
 surroundings of the scene represented. By the early part of the 19th
 century it became restricted to the fashion or style of personal
-apparel, including the head-dresses, jewelry and the like.
+apparel, including the head-dresses, [[Jewelry|jewelry]] and the like.
 
 The subject of clothing is far wider than appears at first sight. To the
 average man there is a distinction between clothing and ornament, the
 first being regarded as that covering which satisfies the claims of
 modesty, the second as those appendages which satisfy the aesthetic
 sense. This distinction, however, does not exist for science, and indeed
-the first definition involves a fallacy of which it will be as well to
+the first [[Definition|definition]] involves a fallacy of which it will be as well to
 dispose forthwith.
 
 Modesty is not innate in man, and its conventional nature is easily seen
@@ -32,15 +32,15 @@ this subject. With Mahommedan peoples it is sufficient for a woman to
 cover her face; the Chinese women would think it extremely indecent to
 show their artificially compressed feet, and it is even improper to
 mention them to a woman; in Sumatra and Celebes the wild tribes consider
-the exposure of the knee immodest; in central Asia the finger-tips, and
+the exposure of the [[Knee|knee]] immodest; in central Asia the finger-tips, and
 in Samoa the navel are similarly regarded. In Tahiti and Tonga clothing
 might be discarded without offence, provided the individual were
-tattooed; and among the Caribs a woman might leave the hut without her
+tattooed; and among the [[Caribs]] a woman might leave the hut without her
 girdle but not unpainted. Similarly, in Alaska, women felt great shame
-when seen without the plugs they carried in their lips. Europeans are
+when seen without the plugs they carried in their [[Lip|lips]]. Europeans are
 considered indelicate in many ways by other races, and a remark of
 Peschel[1] is to the point: "Were a pious Mussulman of Ferghana to be
-present at our balls and see the bare shoulders of our wives and
+present at our [[Ball|balls]] and see the bare shoulders of our wives and
 daughters, and the semi-embraces of our round dances, he would silently
 wonder at the long-suffering of Allah who had not long ago poured fire
 and brimstone on this sinful and shameless generation." Another point of
@@ -54,11 +54,11 @@ fact that in civilized countries what is permitted at certain times is
 forbidden at others; a woman will expose far more of her person at
 night, in the ballroom or theatre, than would be considered seemly by
 day in the street; and a bathing costume which would be thought modest
-on the beach would meet with reprobation in a town.
+on the [[Beach|beach]] would meet with reprobation in a town.
 
 Modesty therefore is highly conventional, and to discover its origin the
 most primitive tribes must be observed. Among these, in Africa, South
-America, Australia and so forth, where clothing is at a minimum, the men
+America, [[Australia]] and so forth, where clothing is at a minimum, the men
 are always more elaborately ornamented than the women. At the same time
 it is noticeable that no cases of spinsterhood are found; celibacy, rare
 as it is, is confined to the male sex. It is reasonable, therefore, to
@@ -100,7 +100,7 @@ attractive."
 
 Primitive adornment in its earliest stages may be divided into three
 classes; first the moulding of the body itself to certain local
-standards of beauty. In this category may be placed head-deformation,
+standards of beauty. In this [[Category|category]] may be placed head-deformation,
 which reached its extreme development among the Indians of North-West
 America and the ancient Peruvians; foot-constriction as practised by the
 Chinese; tooth-chipping among many African tribes; and waist-compression
@@ -110,7 +110,7 @@ of the people who practise them. Secondly, the application of extraneous
 matter to the body, as painting and tattooing, and the raising of
 ornamental scars often by the introduction of foreign matter into
 flesh-wounds (this practice belongs partly to the first category also).
-Thirdly, the suspension of foreign bodies from, or their attachment to,
+Thirdly, the suspension of foreign bodies from, or their [[Attachment|attachment]] to,
 convenient portions of the body. This category, by far the largest,
 includes ear-, nose- and lip-ornaments, head-dresses, necklets, armlets,
 wristlets, leglets, anklets, finger-and toe-rings and girdles. The last
@@ -121,22 +121,22 @@ Setting aside for the moment the less important, historically, of these,
 nearly all of which exist in Western civilization of the present day, it
 will be as well to consider that form of dress which is marked by the
 greatest evolution. It is generally supposed that man originated in
-tropical or subtropical latitudes, and spread gradually towards the
+tropical or subtropical [[Latitude|latitudes]], and spread gradually towards the
 poles. Naturally, as the temperature became lower, a new function was
 gradually acquired by his clothing, that of protecting the body of the
 wearer. Climate then is one of the forces which play an important part
 in the evolution of dress; at the same time care must be taken not to
 attribute too much influence to it. It must be remembered that the
-Arabs, who inhabit an extremely hot country, are very fully clothed,
-while the Fuegians at the extremity of Cape Horn, exposed to all the
+[[Arabs]], who inhabit an extremely hot country, are very fully clothed,
+while the Fuegians at the extremity of Cape [[Horn]], exposed to all the
 rigours of an antarctic climate, have, as sole protection, a skin
 attached to the body by cords, so that it can be shifted to either side
 according to the direction of the wind.
 
 Dr. C. H. Stratz divides clothing climatically into two classes:
 tropical, which is based on the girdle (or, when the attachment is
-fastened round the neck, the cloak), and the arctic, based on the
-trouser. This classification is ingenious and convenient as far as it
+fastened round the neck, the cloak), and the [[Arctic|arctic]], based on the
+trouser. This [[Classification|classification]] is ingenious and convenient as far as it
 goes, but it seems probable that the trouser, which also has the waist
 as its point of attachment, may itself be a further development of the
 girdle. Certainly, however, in historical times the division holds good,
@@ -158,9 +158,9 @@ that of man; consequently the adoption of the arctic dress has been in
 her case less necessary. But it is noticeable that where women engage in
 occupations of a more than usually strenuous nature, they frequently don
 male costume while at their work; as, for instance, women who work in
-mines (Belgium) and who tend cattle (Switzerland, Tirol). The retention
+mines ([[Belgium]]) and who tend cattle (Switzerland, Tirol). The retention
 of the tropical pattern by the Highlanders is due directly to
-environment, since the kilt is better suited than trousers for walking
+environment, since the [[Kilt|kilt]] is better suited than trousers for walking
 over wet heather.
 
 Another factor besides climate which has exerted a powerful influence on
@@ -205,7 +205,7 @@ workman, one need only examine any collection of antiquities to see that
 there was a distinct appreciation of foreign physical types (not so much
 for personal portraiture), costumes, toilet, armour and decoration,
 often markedly different from native forms, and that a single scene
-(e.g. war, tribute-bearers, captives) will represent varieties of dress
+(e.g. war, tribute-bearers, [[Captive|captives]]) will represent varieties of dress
 which are consistently observed in other scenes or which can be
 substantiated from native sources.[2] Important evidence can thus be
 obtained on ethnological relations, foreign influences and the like.
@@ -255,10 +255,10 @@ this one may compare the Phoenician myth (now in a late source) which
 ascribed the novelty of the use of skins to the hero Us[=o]os (cf. the
 biblical Esau, q.v.). The loin-or waist-cloth prevailed under a very
 great variety of minor differentiated forms. In Egypt it was the plain
-short linen cloth wrapped around the loins and tied in front (see fig.
+short linen cloth wrapped around the [[Loin|loins]] and tied in front (see fig.
 1). It was the usual garb of scribes, servants and peasants, and in the
 earlier dynasties was worn even by men of rank. Sometimes, however, it
-was of matting or was seated with leather, or it would take the form of
+was of [[Matting|matting]] or was seated with leather, or it would take the form of
 a narrow fringed girdle resembling that of many African tribes. The
 Semites who visited Egypt wore a larger and coloured cloth, ornamented
 with parallel stripes of patterns similar to those found upon some early
@@ -276,22 +276,22 @@ below the knees. Among the upper classes it was unusually broad and was
 made to stand out in front in triangular form. In the Middle Kingdom an
 outer fine light skirt was worn over the loin-cloth; ordinary people,
 however, used thicker material. Egyptian women had a tight foldless
-tunic which exposed the breasts; it was generally kept up by means of
+tunic which exposed the [[Breast|breasts]]; it was generally kept up by means of
 braces over the shoulders. This plain diaphanous garment, without
 distinction of colour (white, red or yellow), and with perhaps only an
 embroidered hem at the top, was worn by the whole nation, princess and
-peasant, from the IVth to the XVIIIth Dynasties (Erman, _Life in Ancient
+peasant, from the IVth to the XVIIIth Dynasties ([[Erman]], _Life in Ancient
 Egypt_, p. 212). Variation, such as it was, consisted of a sleeveless
 dress covering the shoulders, the neck being cut in the shape of a V.
 Female servants and peasants when engaged at work, however, had a short
-skirt which left the legs free and the upper part of the body bare; a
+skirt which left the [[Leg|legs]] free and the upper part of the body bare; a
 like simplicity was probably customary among female servants or captives
 throughout (cf. Isa. xlvii. 2). Even at the present day the wardrobe of
 the Sinaitic Bedouin is much more complicated than that of their female
 folk.
 
 [Illustration: From Hilprecht's _Explorations in Bible Lands_, by
-permission of A. J. Holman & Co. and T. & T. Clark.
+permission of A. J. [[Holman]] & Co. and T. & T. Clark.
 
 FIG. 3.--Old Babylonian Costume.]
 
@@ -301,8 +301,8 @@ skirt suspended from a girdle. It is sometimes smooth; but sometimes it
 is a shaggy skin (or woollen) skirt with horizontal rows of vertically
 furrowed stuff. It allowed a certain freedom to the legs, but often it
 is not clear whether it was joined down the middle. An instructive
-development shows the upper part of the skirt hanging over the girdle so
-that an elementary mantle would be obtained by drawing the loose end up
+development shows the upper part of the skirt [[Hanging|hanging]] over the girdle so
+that an elementary [[Mantle|mantle]] would be obtained by drawing the loose end up
 over the shoulders (Meyer, p. 93, cf. pp. 55, 76). The characteristic
 skirt is sometimes supplemented by a coarse cloth, perhaps a fleece,
 thrown over the shoulders; and in later times it is seen fastened
@@ -315,15 +315,15 @@ the right leg fully exposed. A tunic or skirt is found as early as the
 time of Naram-Sin, son of the great Sargon; it reaches to his knees and
 appears to be held up by ornamental shoulder-bands (Meyer, pp. 11, 115;
 fig. 4). Egyptian monuments depict Semites with long bordered tunics
-reaching from neck to ankle; they have sleeves, which are sometimes
+reaching from neck to [[Ankle|ankle]]; they have sleeves, which are sometimes
 curiously decorated, and are tied at the neck with tasselled cords;
 sometimes there is a peculiar design at the neck resembling a cross
-(Müller, _Asien und Europa_, pp. 298 seq.). The Hittite warriors upon
+(Müller, _Asien und [[Europa]]_, pp. 298 seq.). The Hittite warriors upon
 north Syrian sculptures (Zenj[=i]rli, perhaps 11th to 9th centuries)
 have a short-sleeved tunic which ends above the knees, and this type of
 garment recurs over a large area with numerous small variations (with or
 without girdle, slits at the neck, or bordering). An interesting example
-of the long plain variety is afforded by the prisoners of Lachish before
+of the long plain variety is afforded by the prisoners of [[Lachish]] before
 Sennacherib (701 B.C.); the circumstances and a comparison of the
 details would point to its being essentially a simple dress indicative
 of mourning and humiliation. It may be compared in its general form with
@@ -340,7 +340,7 @@ considerably longer than the elementary article which was noticed above.
 The Arab _iz[=a]r_, though now a large outer wrapper, was once a
 loin-cloth (like the Hebrew _[)e]z[=o]r_), which, however, was long
 enough to be trodden upon. At the present day male and female pilgrims
-at Mecca wear such a cloth (the _ihr[=a]m_); it covers the knees and
+at [[Mecca]] wear such a cloth (the _ihr[=a]m_); it covers the knees and
 one end of it may be cast over the shoulder. In Egyptian tombs have been
 found linen bands no less than 30 ft. in length and 3 ft. in width. The
 distinctive feature is the spiral arrangement of the garment, the body
@@ -350,7 +350,7 @@ and the whole of the right shoulder were originally uncovered, and one
 end of the garment was allowed to hang loose over the left arm. It is
 frequently found upon deities, kings and magnates, and appears to have
 been composed of some thick furrowed or fluted material, sometimes of
-bright and variegated design. Not seldom it is difficult to distinguish
+[[Bright|bright]] and variegated design. Not seldom it is difficult to distinguish
 between the true spiral garment and a dress with parallel horizontal
 stripes, and one could sometimes suppose that the flounced dress with
 volants, well known in the Aegean area, had its parallel in
@@ -366,7 +366,7 @@ close-fitting variety coloured blue and red and generally adorned with
 rich embroidery. A significant feature is the kind of cape which covers
 the shoulders, it would not and no doubt was not intended to leave play
 for the arms; it was the dress of the leisured classes, and a typical
-scene depicts the chiefs of Lebanon thus arrayed submissively felling
+scene depicts the chiefs of [[Lebanon]] thus arrayed submissively [[Felling|felling]]
 cedars for Seti I. (about 1300 B.C.).
 
 [Illustration: FIG. 6.--An Egyptian Officer.]
@@ -414,10 +414,10 @@ characteristic Hittite cylindrical head-dress (fig. 10). On the other
 hand, the unhappy females of Lachish have a long plain mantle which
 covers the head and forehead (fig. 11), and the same principle recurs in
 modern usage, where the tunic will be supplemented by a veil or shawl
-which (generally bound to the head by a band) frames the face and falls
+which (generally bound to the head by a band) [[Frame|frames]] the face and falls
 back to the waist. A large mantle could thus serve as a veil, and
 Rebekah covered her face with her square or oblong wrapper on meeting
-Isaac (Gen. xxiv. 65). Veiling was ceremonial (1 Cor. xi. 5), and
+[[Isaac]] (Gen. xxiv. 65). Veiling was ceremonial (1 Cor. xi. 5), and
 customary on meeting a future bridegroom or at marriage (see Gen. xxix.
 23-25). Nevertheless veils were not usually worn out of doors, the
 countrywoman of to-day is not veiled, and it is uncertain whether there
@@ -446,11 +446,11 @@ simple and probably sleeveless garment, there was a special variety worn
 by royal maidens and men of distinction, explicitly described as a tunic
 of palms or soles (_pass[=i]m_), that is, one presumably reaching to the
 hands and feet (Gen. xxxvii. 3; 2 Sam. xiii. 18 sq.).[6] The
-_kutt[=o]neth_ could be removed at night (Cant. v. 3). For the outer
+_kutt[=o]neth_ could be removed at night ([[Cant]]. v. 3). For the outer
 garments the most distinctive term is the _simlah_. This was worn by
 both sexes, though obviously there was some difference as regards
 length, &c. (Deut. xxii. 5). Ruth put one on before going out of doors,
-and its folds could be used for carrying small loads (Ruth iii. 9; Ex.
+and its [[Fold|folds]] could be used for carrying small loads (Ruth iii. 9; Ex.
 xii. 34). The law forbade the creditor to retain it over-night as a
 pledge (Ex. xxii. 26 sq.), and consequently we may assume that it was a
 large outer wrapper which could be dispensed with out of doors by men,
@@ -464,12 +464,12 @@ sword-belt or pocket much in the same way as the modern native uses the
 long cloth twined twice or thrice around his body. The more ornate
 variety, called _ab[=n][=e]t_, was worn by prominent officials (Isa.
 xxii. 21) and by the high priest. The modern oriental open waistcoat
-finds its fellow in the jacket or bolero from ancient Crete, and seems
+finds its [[Fellow|fellow]] in the jacket or bolero from ancient Crete, and seems
 to have been distinctively Aegean. The same may also be true of
 breeches. The pantaloons worn by modern females, with short tunic and
 waistcoat, are not found among the Bedouin (e.g. of Sinai), trousers
 being considered undignified even for men. But a baggy kind of
-knickerbockers is represented in old Aegean scenes, and it is
+[[Knickerbocker|knickerbockers]] is represented in old Aegean scenes, and it is
 noteworthy that the Arab _mi'zar_ (drawers such as were worn by
 wrestlers or sailors) takes its name from the _iz[=a]r_ or loin-cloth
 (_Ency. Bib._ 1734). Such a cloth may once have passed between the legs,
@@ -481,7 +481,7 @@ sashes hang down to conceal the parts where they intersect (Müller,
 step in the direction of the proper drawers. The latter are found
 exceptionally upon Semitic Bedouin with an upper covering of bands wound
 round the body (Müller, 140). However, the woven decorated drawers in
-Cyprus do not appear to be of Semitic origin (J. L. Myres, _Classical
+[[Cyprus]] do not appear to be of Semitic origin (J. L. Myres, _Classical
 Review_, x. 355), and it is not until later that they were prescribed to
 the Israelite priests (Ezek. xliv. 18). But the garment as explained by
 Josephus (_Ant._ iii. 7. 1) was properly a loin-cloth (cf. the examples
@@ -489,7 +489,7 @@ from Punt), and the reason given for its use (Ex. xxviii. 42) points to
 a later date than the law which enforced the same regard for decency by
 forbidding the priests to ascend altars with steps (ib. xx. 26). As
 trousers were distinctively Persian--though the Persians had the
-reputation for borrowing Median and foreign dress (Herod. i. 71, vii.
+reputation for borrowing Median and foreign dress ([[Herod]]. i. 71, vii.
 61)--they were no doubt familiar in Palestine in the post-exilic age,
 and in the Roman period the _braccae_ and _feminalia_ were certainly
 known. On supposed references to breeches in Dan. iii. 21, see _Journ.
@@ -516,16 +516,16 @@ same simple sandal came into use everywhere when required. But the
 warrior had something stouter, and the Hittites wore a turned-up shoe
 bound round the legs with thongs. Among the latter is also found a piece
 of protecting leather reaching halfway up the shin, and similar
-developments with tight-fitting bandages, buskins or laced garters were
+developments with tight-fitting bandages, [[Buskin|buskins]] or laced garters were
 worn in Assyria and Asia Minor (see fig. 12). Such coverings find their
-analogies among the peasants of modern Cilicia and Cappadocia.
+analogies among the peasants of modern Cilicia and [[Cappadocia]].
 Stockings, it may be added, do not appear, and are quite exceptional at
 the present day.
 
 [Illustration: From Palestine Exploration Fund _Quarterly Statement_,
 Oct, 1907.
 
-FIG. 13.--Sacrificial Scene on a Seal from Gezer.]
+FIG. 13.--Sacrificial Scene on a Seal from [[Gezer]].]
 
 [Illustration: FIG. 14.--Hittite Weather-god.]
 
@@ -533,20 +533,20 @@ FIG. 13.--Sacrificial Scene on a Seal from Gezer.]
   Headgear.
 
 The treatment of the hair, moustache and beard is extremely interesting
-in the study of oriental archaeology (see Müller, Meyer, opp. citt.). A
+in the study of oriental [[Archaeology|archaeology]] (see Müller, Meyer, opp. citt.). A
 special covering for the head was not indispensable. The Semites often
-bound their bushy locks with a fillet, which varies from a single band
+bound their bushy [[Lock|locks]] with a fillet, which varies from a single band
 (so often, e.g. Palestinian captives, 10th century) to a fourfold one,
 from a plain band to highly decorated diadems. The Ethiopians of
-Tirhakah's army (7th cent.) stuck a single feather in the front of their
+Tirhakah's army (7th cent.) stuck a single [[Feather|feather]] in the front of their
 fillet, and a feathered ornament recurs from the old Babylonian goddess
 with two large feathers on her head to the feathered crown common from
-Assur-bani-pal's Arabians to Ararat, and is familiar from the later
+Assur-bani-pal's Arabians to [[Ararat]], and is familiar from the later
 distinctive Persian head-dress.[8] But the ordinary Semitic head
 covering was a cloth which sometimes appears with two ends tied in
 front, the third falling behind. Or it falls over the nape of the neck
 and is kept in position with a band; or again as a cloth cap has lappets
-to protect the ears. Sometimes it has a more bulky appearance. In
+to protect the [[Ear|ears]]. Sometimes it has a more bulky appearance. In
 general, the use of a square or rectangular cloth (whether folded
 diagonally or not) corresponds to the modern _keffiyeh_ woven with long
 fringes which are plaited into cords knitted at the ends or worked into
@@ -557,15 +557,15 @@ skull-cap and will be accompanied with the relatively modern fez
 the circular close-fitting cap (plain or braided), which, according to
 Meyer, is of Sumerian (non-Semitic) origin. But it has a long history.
 Palestinian captives in the Assyrian age wear it with a plain
-close-fitting tunic, and it appears upon the god Hadad in north Syria
+close-fitting tunic, and it appears upon the god [[Hadad]] in north Syria
 (cf. also the Gezer seal, fig. 13). With some deities (e.g. the moon-god
 Sin) it has a kind of straight brim which gives it a certain resemblance
 to a low-crowned "bowler." Very characteristic is the conical cap which,
-like the Persian hat (Gr. _kurbasia_), resembled a cock's comb. It is
+like the Persian hat (Gr. _kurbasia_), resembled a cock's [[Comb|comb]]. It is
 worn by gods and men, and with the latter sometimes has ear-flaps (at
 Lachish, with other varieties, Ball, 190) or is surmounted by a feather
 or crest. It was probably made of plaited leather or felt. Veritable
-helmets of metal, such as Herodotus ascribes to Assyrians and Chalybians
+[[Helmet|helmets]] of metal, such as Herodotus ascribes to Assyrians and Chalybians
 (vii. 63, 76), and metal armour, though known farther west, scarcely
 appear in old oriental costume, and the passage which attributes bronze
 helmets and coats of mail to the Philistine Goliath and the Israelite
@@ -576,7 +576,7 @@ middle; with a brim or border turned up back and front it is worn by
 Hittite warriors of Zenj[=i]rli and by their god of storm and war (fig.
 14). Elongated and more pointed it is the archaic crown of the Pharaohs
 (symbolical of upper Egypt), is worn by a Hittite god of the 14th
-century, and finds parallels upon old cultus images from Asia Minor,
+century, and finds parallels upon old cultus [[Image|images]] from Asia Minor,
 Crete and Cyprus. Later, Herodotus describes it as distinctively
 Scythian (vii. 64). Finally the cylindrical hat of Hittite kings and
 queens reappears with lappets in Phoenicia (Perrot and Chipiez, _Phoen._
@@ -591,7 +591,7 @@ it distinguishes the Assyrian kings.
 When the deities were regarded as anthropomorphic they naturally wore
 clothing which, on the whole, was less subject to change of fashion and
 was apt to be symbolical of their attributes. The old Babylonian hero
-Gilgamesh and the Egyptian Bes (perhaps of foreign extraction) are nude,
+[[Gilgamesh]] and the Egyptian Bes (perhaps of foreign extraction) are nude,
 and so in general are the figurines of the Ishtar-Astarte type. Numerous
 bronze images of a kneeling god at Telloh give him only a loin-cloth,
 and often the deity, like the monarch, has only a skirt. In course of
@@ -599,7 +599,7 @@ time various plaids or mantles are assumed, and in Babylonia the
 goddesses were the first to have both shoulders covered. Distinctive
 features are found in the head-dress, e.g. crowns (cf. the Ammonite god,
 2 Sam. xii. 30) or horns (a single pair or an arrangement of four
-pairs), and in Babylonia symbolical emblems are attached to the
+pairs), and in Babylonia symbolical [[Emblem|emblems]] are attached to the
 shoulders (e.g. the rays of the sun-god, stalks, running water). Long
 garments ornamented with symbolical designs (stars, &c.) are worn by
 Marduk and Adad. The custom of clothing images is well known in the
@@ -609,10 +609,10 @@ god. The ceremonial clothing of the god on the occasion of festal
 processions, undertaken in Egypt by the "master of secret things," may
 be compared with the well-known Babylonian representations of such
 promenades. The Babylonian temples received garments as payment in kind,
-and the Egyptian lists in the Papyrus Harris (Rameses III.) enumerate an
+and the Egyptian lists in the Papyrus [[Harris]] (Rameses III.) enumerate an
 enormous number of skirts, tunics and mantles, dyed and undyed, for the
 various deities. A priest, "master of the wardrobe," is named as early
-as the VIth Dynasty, and later texts refer to the weavers and laundry
+as the VIth Dynasty, and later texts refer to the weavers and [[Laundry|laundry]]
 servants of the temple. It is probable that 2 Kings xxiii. 7 originally
 referred to the women who wove garments for the goddess in the temple at
 Jerusalem.
@@ -639,7 +639,7 @@ and horns. In Babylonia Naram-Sin in the guise of a god wears the
 pointed helmet and two great horns distinctive of the deities.[10] This
 relationship between the gods and their human representatives is
 variously expressed. Khammurabi and the sun-god Shamash, on the former's
-famous code of laws, have the same features and almost the same frizzled
+famous [[Code|code]] of laws, have the same features and almost the same frizzled
 beard, and, according to Meyer, the king in claiming supremacy over
 Sumer and Akkad wears the costume of the lands.[11] Ordinary folk could
 not claim these honours, and in Egypt, where shaving was practically
@@ -655,12 +655,12 @@ desire to copy their god Orotal-Dionysus.[12] Thus we perceive that
 ancient costume and toilet involves the relations between the gods and
 men, and also, what is extremely important, the political conditions
 among the latter. When the king symbolizes both the god and the extent
-of his kingdom, ceremonies which could appear commonplace often acquire
+of his kingdom, ceremonies which could appear [[Commonplace|commonplace]] often acquire
 a new significance, any discussion of which belongs to the intricacies
 of the history of religion and pre-monarchical society. It must suffice,
 therefore, to record the Pharaoh's simple girdle (with or without a
 tunic) from which hangs the lion's tail, or the tail-like band suspended
-from the extremity of his head-dress (above), or the panther or leopard
+from the extremity of his head-dress (above), or the panther or [[Leopard|leopard]]
 skin worn over the shoulders by the high priest at Memphis, subsequently
 a ceremonial dress of men of rank. That the Pharaoh's skirt, sometimes
 decorated with a pleated golden material, should become an honorific
@@ -672,7 +672,7 @@ evolution of ideas.[13]
 
   Ceremonial costume.
 
-The well-known conservatism of religious practice manifests itself in
+The well-known conservatism of religious practice [[Manifest|manifests]] itself in
 ceremonial festivals (where there is a tendency for the original
 religious meaning to be obscured) and among the priests, and it is
 interesting to observe that despite the great changes in Egyptian
@@ -699,13 +699,13 @@ the present day both male and female pilgrims enter bare-footed and clad
 in the scanty _ihr[=a]m_ (C. M. Doughty, _Arabia Deserta_, ii. 479,
 481, 537). In several old Babylonian representations the priests or
 worshippers appear before the deity in a state of nature.[15] It is
-known that laymen were required to wear special garments, and the
+known that [[Laymen|laymen]] were required to wear special garments, and the
 priests (who wore dark-red or purple) were sometimes called upon to
 change their garments in the course of a ceremony. Thus the temples
 required clothing not merely for the gods but also for the attendants
 (so at Samaria, 2 Kings x. 22).
 
-  In the late usage at Harran the worshipper, after purifying his
+  In the late usage at [[Harran]] the worshipper, after purifying his
   garments and his heart, was advised to put on the clothing of the
   particular god he addressed (de Goeje, _Oriental Congress_, Leiden,
   1883, pp. 341 sqq.). The reason is obvious, and the principle could
@@ -720,11 +720,11 @@ required clothing not merely for the gods but also for the attendants
   observe upon old Babylonian seals, eagle-headed deities with short
   feathered skirts attended by human beings similarly arrayed (Ball,
   151) or figures draped in a fish skin (Menant, _Rev. de l'hist. des
-  relig._ xi. 295-301) or a worshipper arrayed somewhat like a cock
-  (Meyer, 63; cf. Lucian's _De Dea Syria_, § 48; for "bees," &c., as
+  relig._ xi. 295-301) or a worshipper arrayed somewhat like a [[Cock|cock]]
+  (Meyer, 63; cf. Lucian's _De Dea Syria_, § 48; for "[[Bee|bees]]," &c., as
   titles of sacred attendants, see J. G. Frazer, _Pausanias_, iv. 223,
   v. 621). Although there is much that is obscure in this line of
-  research, it is a natural assumption that, in those ritual functions
+  research, it is a natural [[Assumption|assumption]] that, in those ritual functions
   where the gods were supposed to participate, the rôle was taken by
   men, and the general idea of assimilating oneself to the god (and the
   reverse process) manifests itself in too many ways to be ignored (cf.
@@ -736,7 +736,7 @@ required clothing not merely for the gods but also for the attendants
 Of all priestly costumes[16] the most interesting is undoubtedly that of
 the Jewish Levitical high-priest. In addition to a tunic (kutt[=o]neth)
 and a seamless mantle or robe (_m[)e]'[=i]l_), he wore the breastplate
-(_h[=o]shen_), the ephod, and a rich outer girdle. Breeches were
+(_h[=o]shen_), the [[Ephod|ephod]], and a rich outer girdle. Breeches were
 assumed on the Day of Atonement. His head-dress was as distinctive as
 that of the high priest at Hierapolis, who wore a golden tiara and a
 purple dress, while the ordinary priests had a _pilos_ (conical cap,
@@ -745,13 +745,13 @@ descriptions cannot be easily reconciled.[17] The robe had pomegranates
 and golden bells that the sound might give warning as he went in and out
 of the sanctuary, and "that he died not" (Ex. xxviii. 35). According to
 Josephus they symbolized the lightning and thunder respectively. The
-"ephod of prophecy" (so _Test. of Levi_, viii. 2) was essentially once
-an object of divination (see EPHOD). The "breastplate of judgment" was
-set with twelve jewels engraved with the names of the tribes; the
+"ephod of prophecy" (so _Test. of [[Levi]]_, viii. 2) was essentially once
+an object of [[Divination|divination]] (see EPHOD). The "breastplate of judgment" was
+set with twelve [[Jewel|jewels]] engraved with the names of the tribes; the
 foreordained covering of the semi-divine being in the garden of the gods
 bore the same number of stones (Ezek. xxviii. 13, Septuagint). This
 breast ornament finds analogies in the royal and high priestly dress of
-Egypt, and in the six jewels of the Babylonian king.[18] The sacred lots
+Egypt, and in the six jewels of the Babylonian king.[18] The sacred [[Lot|lots]]
 which gave "judgment" in accordance with the divine oracle (Num. xxvii.
 21) have been plausibly compared with the Babylonian tablets of destiny
 worn by the gods and the mystic lots upon the bosom of Noah.[19] The two
@@ -765,7 +765,7 @@ the head (the details are discrepant) had a mystic atoning force (Ex.
 xxviii. 38), and in general writers recognized the peculiar efficacy of
 the costume and its symbolical meaning (Philo, _Vita Mosis_, iii. 14;
 Jos. _Ant._ iii. 7. 7; Talm. _Zeb._ 88b). Although Jewish tradition
-ascribed this gorgeous and significant array to the Mosaic age (if not
+ascribed this gorgeous and significant [[Array|array]] to the Mosaic age (if not
 to the pre-Mosaic days of Levi, so the _Test. of Levi_), its very
 character, in common with the high priest's status, combines kingly and
 priestly powers in a manner which is impossible for the period (about
@@ -774,24 +774,24 @@ Deity he is theoretically and officially the priesthood, although the
 priests carry on the ordinary subordinate functions. The Hebrew kings,
 at all events, undertook priestly duties, and not until after the fall
 of Jerusalem does the history allow that usurpation of monarchical
-rights upon which the prophet Ezekiel (q.v.) encroaches. The embodiment
+rights upon which the prophet [[Ezekiel]] (q.v.) encroaches. The embodiment
 of political and religious supremacy displayed in the high priest's
 authority, clothing and symbols can only reflect exilic or rather
 post-exilic conditions.[20] (See further PRIEST.) In the Maccabaean age
-the high priest Jonathan received the purple robe and crown and the
-buckle of gold worn on the shoulder as a sign of priestly and secular
+the high priest [[Jonathan]] received the purple robe and crown and the
+[[Buckle|buckle]] of gold worn on the shoulder as a sign of priestly and secular
 rank (1 Macc. x. 20, 38, 89, xi. 58). His brother Simon received similar
 honours (xiv. 48 sq.), and Hyrcanus, the "second David," was supposed to
 have had two crowns, one royal and the other priestly (Talm. _Kidd._
 66a). The later Rabbis wore most sumptuous apparel, and were crowned
-until the death of Eliezer ben Azarya.
+until the death of Eliezer [[Ben|ben]] Azarya.
 
-  Thus there was a real significance in ceremonial investiture (cf. Num.
-  xx. 26, 28) and in the transference of clothes (cf. Elisha and
-  Elijah's mantle, 2 Kings ii. 13). Further the exchange of garments was
+  Thus there was a real significance in ceremonial [[Investiture|investiture]] (cf. Num.
+  xx. 26, 28) and in the transference of clothes (cf. [[Elisha]] and
+  Elijah's mantle, 2 Kings ii. 13). Further the [[Exchange|exchange]] of garments was
   not meaningless, and the prohibition in Deut. xxii. 5 points to
   religious or superstitious beliefs, on which see J. G. Frazer,
-  _Adonis, Attis and Osiris_ (2nd ed.), pp. 428-435. On the claim
+  _Adonis, [[Attis]] and Osiris_ (2nd ed.), pp. 428-435. On the claim
   involved by the act of throwing a garment over another (Ruth iii. 9;
   cf. 1 Kings xix. 19), see W. R. Smith, _Kinship and Marriage_[21], 105
   sq.; J. Wellhausen, _Archiv f. Religionswiss_. (1907), pp. 40 sqq.;
@@ -816,12 +816,12 @@ apparel and the profusion of clothes by which people of rank indicated
 their position. On the other are such figures as the Hebrew prophets,
 distinguished by their hairy garment and by their denunciation of the
 luxury of both sexes.[22] Superfluous clothing was both weakening and
-deteriorating; this formed the point of the advice of Croesus to Cyrus
+deteriorating; this formed the point of the advice of [[Croesus]] to [[Cyrus]]
 (Herod. i. 155). But "foreign apparel" was only too apt to involve ideas
 of foreign worship (Zeph. i. 8. sq.), and the recognition that national
 costume, custom and morality were inseparable underlay the objection to
 the Greek cap (the [Greek: petasos]) introduced among the Jews under
-Antiochus Epiphanes (2 Macc. iv. 10-17, with the parallel 1 Macc. i.
+[[Antiochus]] Epiphanes (2 Macc. iv. 10-17, with the parallel 1 Macc. i.
 11-15). The Israelite distinctive costume and toilet as part of a
 distinctive national religion was in harmony with oriental thought, and,
 as a people chosen and possessed by Yahweh, "a kingdom of priests and an
@@ -839,7 +839,7 @@ taken elsewhere to ensure the protection of or to manifest one's
 adherence to a deity; the novelty lies in the part these sentences took
 in the religion (see PHYLACTERY). While the particular prohibition
 regarding the beard and hair in Lev. xix. 27 (cf. Ezek. xliv. 20) was
-for the avoidance of heathen customs, the _p[=e]y[=o]th_ or long curls
+for the [[Avoidance|avoidance]] of [[Heathen|heathen]] customs, the _p[=e]y[=o]th_ or long curls
 which became typical in the middle ages are reminiscent of the
 Horns-curl of Egypt and the Mahommedan "heaven lock" and evidently
 served as positive distinctive marks. Apart from these details later
@@ -847,7 +847,7 @@ Jewish dress does not belong to this section. In the Greek and Roman
 period foreign influence shows itself very strongly in the introduction
 of novelties of costume and of classical terms, and the subject belongs
 rather to the Greek and Roman dress of the age.[23] Two conflicting
-tendencies were constantly at work, and reached their climax in the
+tendencies were constantly at work, and reached their [[Climax|climax]] in the
 middle ages. There was an anxiety to avoid articles of dress peculiar to
 other religions, especially when these were associated with religious
 practices; and there was a willingness to refrain from costume contrary
@@ -855,7 +855,7 @@ to the customs of an unsympathetic land. On the one hand, there was a
 conservatism which is exemplified when the Jews in course of immigration
 took with them the characteristic dress of their former adopted home, or
 when they remained unmoved by the changes of the Renaissance. On the
-other hand, the prominent badge enforced by Pope Innocent III. in 1215
+other hand, the prominent badge enforced by Pope [[Innocent]] III. in 1215
 was intended to prevent Jews from being mistaken for Christians, and
 similarly in Mahommedan lands they were compelled to wear some
 distinctive indication of their sect. Thus the many quaint and
@@ -870,7 +870,7 @@ costume generally. See I. Abrahams, _Jewish Life in the Middle Ages_
   London, 1899) and in the magnificent volumes on the history of ancient
   art by G. Perrot and C. Chipiez. On Egyptian costume see especially J.
   G. Wilkinson, _Manners and Customs of the Ancient Egyptians_ (ed. by
-  S. Birch, 1878), and A. Erman _Life in Ancient Egypt_ (1894,
+  S. [[Birch]], 1878), and A. Erman _Life in Ancient Egypt_ (1894,
   especially pp. 200-233); for Egyptian evidence, see W. M. Müller,
   _Asien und Europa nach altägypt. Denkmäler_ (Leipzig, 1893), _Mitteil.
   d. vorderasiat. Gesellschaft_ (1904), ii. (and elsewhere). The most
@@ -879,8 +879,8 @@ costume generally. See I. Abrahams, _Jewish Life in the Middle Ages_
   University (1906). For Hittite material, see the collection by L.
   Messerschmidt, _Mitteil. d. vorderas. Ges._ (1900 and 1902). For
   special discussions, see H. Weiss, _Kostümkunde_, i. (Stuttgart,
-  1881), articles in _Dict. Bible_ (Hastings), _Ency. Biblica_, and
-  _Jewish Encyc._, and I. Benzinger, Hebr. _Archäologie_ (Tubingen,
+  1881), articles in _Dict. Bible_ ([[Hastings]]), _Ency. Biblica_, and
+  _Jewish Encyc._, and I. Benzinger, Hebr. _[[Arch]]äologie_ (Tubingen,
   1907), pp. 73 sqq. See also the general bibliography at the end.
        (S. A. C.)
 
@@ -905,11 +905,11 @@ wasp waists characteristic of the Aegean race. The loin-cloth was the
 only costume (except for high boots, probably made of pale leather,
 since they are represented with white paint) regularly worn by the male
 sex, though we sometimes find a hood or wrapper, as on a lead statuette
-found in Laconia (fig. 16), but the Aegean women developed it into a
+found in [[Laconia]] (fig. 16), but the Aegean women developed it into a
 bodice-and-skirt costume, well represented by the frescoes of Cnossus
 and the statuettes of the snake-goddess and her votaries there
 discovered. This transformation of the loin-cloth has been illustrated
-by Mr D. Mackenzie (see below) from Cretan seal-impressions. In place of
+by Mr D. [[Mackenzie]] (see below) from Cretan seal-impressions. In place of
 the belted kilt of the men we find a belted panier or polonaise,
 considerably elongated in front, worn by Aegean women; and Mackenzie
 shows that this was repeated several times until it formed the compound
@@ -959,7 +959,7 @@ garments, or of [Greek: periblêmata], loose pieces of stuff draped round
 the body in various ways and fastened with pins or brooches. For the
 former class the generic name is [Greek: chitôn], a word of Semitic
 origin, which denotes the Eastern origin of the garment; for the latter
-we find in Homer and early poetry [Greek: peplos], in later times
+we find in [[Homer]] and early poetry [Greek: peplos], in later times
 [Greek: himation]. The [Greek: peplos] (also called [Greek: eanos] and
 [Greek: pharos] in Homer) was the sole indispensable article of dress in
 early Greece, and, as it was always retained as such by the women in
@@ -973,7 +973,7 @@ was then doubled and wrapped round the body below the armpits, the left
 side being closed and the right open. The back and front were then
 pulled up over the shoulders and fastened together with brooches like
 safety-pins ([Greek: peronai]). This was the Doric costume, which left
-the right side of the body exposed and provoked the censure of Euripides
+the right side of the body exposed and provoked the censure of [[Euripides]]
 (_Andr_. 598). It was usual, however, to hold the front and back of the
 [Greek: peplos] together by a girdle ([Greek: zônê]), passed round the
 waist below the [Greek: apoptygma]; the superfluous length of the
@@ -982,9 +982,9 @@ baggy fold ([Greek: kolpos]) (see GREEK ART, fig. 75). Sometimes the
 [Greek: apoptygma] was made long enough to fall below the waist, and the
 girdle passed outside it (cf. the figure of Artemis on the vase shown in
 GREEK ART, fig. 29); this was the fashion in which the Athena Parthenos
-of Pheidias was draped. The "Attic" or "Corinthian" [Greek: peplos] was
+of Pheidias was draped. The "[[Attic]]" or "Corinthian" [Greek: peplos] was
 sewn together on the right side from below the arm, and thus became an
-[Greek: endyma]. The [Greek: peplos] was worn in a variety of colours
+[Greek: endyma]. The [Greek: peplos] was worn in a variety of [[Colours|colours]]
 and often decorated with bands of ornament, both horizontal and
 vertical; Homer uses the epithets [Greek: krokopeplos] and [Greek:
 kyanopeplos], which show that yellow and dark blue [Greek: peploi] were
@@ -992,19 +992,19 @@ worn, and speaks of embroidered [Greek: peploi] ([Greek: poikiloi]). Such
 embroideries are indicated by painting on the statues from the Acropolis
 and are often shown on vase paintings.
 
-The chiton, [Greek: chitôn], was formed by sewing together at the sides
+The [[Chiton|chiton]], [Greek: chitôn], was formed by sewing together at the sides
 two pieces of linen, or a double piece folded together, leaving spaces
 at the top for the arms and neck, and fastening the top edges together
 over the shoulders and upper arm with buttons or brooches; more rarely
 we find a plain sleeveless chiton. The length of the garment varied
 considerably. The [Greek: chitôniskos], worn in active exercise, as by
-the so-called "Atalanta" of the Vatican, or the well-known Amazon
+the so-called "[[Atalanta]]" of the Vatican, or the well-known Amazon
 statues (Greek Art, fig. 40), reached only to the knee; the [Greek:
 chitôn podêrês] covered the feet. This long, trailing garment was
-especially characteristic of Ionia; in the Homeric poems (Il. xiii. 685)
+especially characteristic of [[Ionia]]; in the Homeric poems (Il. xiii. 685)
 we read of the [Greek: Iaones helkechitônes]. If worn without a girdle
 it went by the name of [Greek: chitôn orthostadios]. The long chiton was
-regularly used by musicians (e.g. Apollo the lyre-player) and
+regularly used by musicians (e.g. [[Apollo]] the lyre-player) and
 charioteers. In ordinary life it was generally pulled up through the
 girdle and formed a [Greek: kolpos] (GREEK ART, fig. 2).
 
@@ -1024,7 +1024,7 @@ body so as to leave the left arm free. The garment (which resembles the
 Doric [Greek: peplos], but seems to have been rectangular rather than
 square) is folded over at the top, and the central part is drawn up
 towards the right shoulder to produce an elaborate system of zigzag
-folds (GREEK ART, fig. 22). The borders of the garment are painted with
+folds (GREEK ART, fig. 22). The [[Borders|borders]] of the garment are painted with
 geometrical patterns in vivid colours; a broad stripe of ornament runs
 down the centre of the skirt.[24]
 
@@ -1057,7 +1057,7 @@ Museum.
 
 A lighter garment was the [Greek: chlamys], chlamys, a mantle worn by
 young men, usually over a short chiton girt at the waist, and fastened
-on the right shoulder (cf. the figure of Hermes in GREEK ART, fig. 2).
+on the right shoulder (cf. the figure of [[Hermes]] in GREEK ART, fig. 2).
 The [Greek: chlaina] was a heavy woollen cloak worn in cold weather.
 Peasants wore sheepskins or garments of hide called [Greek: baitê] or
 [Greek: sisura]; slaves, who were required by custom to conceal their
@@ -1075,22 +1075,22 @@ called more particularly [Greek: opisthosphendonê], as a distinction
 from the _sphendon[=e]_ when worn in front of the head. The head
 ornaments include the [Greek: diadêma], a narrow band bound round the
 hair a little way back from the brow and temples, and fastened in the
-knot of the hair behind; the [Greek: ampux], a variety of the diadem;
+[[Knot|knot]] of the hair behind; the [Greek: ampux], a variety of the diadem;
 the [Greek: stephanê], a crown worn over the forehead, its highest point
 being in the centre, and narrowing at each side into a thin band which
 is tied at the back of the head. It is doubtful whether this should be
 distinguished from the [Greek: stephanos], a crown of the same breadth
-and design all round, as on the coins of Argos with the head of Hera,
+and design all round, as on the [[Coin|coins]] of [[Argos]] with the head of [[Hera]],
 who is expressly said by Pausanias to wear a _stephanos_. This word is
 also employed for crowns of laurel, olive or other plant. High crowns
 made of wicker-work ([Greek: poloi, kalathoi]) were also worn (see
 Gerhard, _Antike Bildwerke_, pls. 303-305). When the hair, as was most
 usual, was gathered back from the temples and fastened in a knot behind,
-hair-pins were required, and these were mostly of bone or ivory, mounted
+hair-pins were required, and these were mostly of [[Bone|bone]] or [[Ivory|ivory]], mounted
 with gold or plain; so also when the hair was tied in a large knot above
 the forehead, as in the case of Artemis, or of Apollo as leader of the
 Muses. The early Athenians wore their hair in the fashion termed [Greek:
-krôbylos], with fastenings called "grasshoppers" ([Greek: tettiges]), in
+krôbylos], with fastenings called "[[Grasshopper|grasshoppers]]" ([Greek: tettiges]), in
 allusion to their claim of having originally sprung from the soil (Thuc.
 i. 6). The [Greek: tettiges] have been identified by Helbig with small
 spirals of gold wire, such as are found in early Etruscan tombs lying
@@ -1098,20 +1098,20 @@ near the head of the skeleton. Such spirals were used in early Athens to
 confine the back hair, and this fashion may therefore be identified as
 the [Greek: krôbylos]. In archaic figures the hair is most frequently
 arranged over the brow and temples in parallel rows of small curls which
-must have been kept in their places by artificial means. Ear-rings
+must have been kept in their places by artificial means. [[Ear-Ring|Ear-rings]]
 ([Greek: enôtia, ellobia, heliktêres]) of gold, silver, or bronze plated
 with gold, and frequently ornamented with pearls, precious stones, or
-enamel, were worn attached to the lobes of the ear. For necklaces
+enamel, were worn attached to the [[Lobe|lobes]] of the ear. For necklaces
 ([Greek: hormoi]), bracelets ([Greek: opheis]), brooches ([Greek:
 peronai]), and finger-rings ([Greek: daktylioi] or [Greek: sphragides])
 the same variety and preciousness of material was employed. For the feet
-the sandal ([Greek: sandalon, pedilon]) was the usual wear; for hunting
+the sandal ([Greek: sandalon, pedilon]) was the usual wear; for [[Hunting|hunting]]
 and travelling high boots were worn. The hunting-boot ([Greek:
 endromis]) was laced up the front, and reached to the calves; the
 [Greek: kothornos] (cothurnus) was a high boot reaching to the middle of
 the leg, and as worn by tragic actors had high soles. Slippers ([Greek:
 persikai]) were adopted from the East by women; shoes ([Greek: embades])
-were worn by the poorer classes. Gloves ([Greek: cheirides]) were worn
+were worn by the poorer classes. [[Glove|Gloves]] ([Greek: cheirides]) were worn
 by the Persians, but apparently never by the Greeks unless to protect
 the hands when working (_Odyssey_, xxiv. 230). Hats, which were as a
 rule worn only by youths, workmen and slaves, were of circular shape,
@@ -1163,7 +1163,7 @@ FIG. 20.]
 
 The chief article of male dress was called the tebenna. We are told by
 ancient writers that the _toga praetexta_, with its purple border
-([Greek: periporphyros têbenna]), as worn by Roman magistrates and
+([Greek: periporphyros têbenna]), as worn by Roman [[Magistrate|magistrates]] and
 priests, had been derived from the Etruscans (Pliny, N.H. ix. 63,
 "praetextae apud Etruscos originem invenere"); and the famous statue of
 the orator in Florence (Plate, fig. 22), an Etruscan work of the 3rd
@@ -1171,14 +1171,14 @@ century B.C., represents a man clothed in this garment, which will be
 described below. Under the tebenna, or toga, which was necessary only
 for public appearance, the Etruscans wore a short tunic similar to the
 Greek chiton. For workmen and others of inferior occupation this appears
-to have been the only dress. Youths, when engaged in horsemanship and
+to have been the only dress. Youths, when engaged in [[Horsemanship|horsemanship]] and
 other exercises, wore a chlamys round the shoulders, which, however, was
 semicircular in cut, and was fastened on the breast by buttons and a
 loop, or tied in a knot, whereas the Greek chlamys was oblong and
 fastened on the shoulder by a brooch. On public or festal occasions the
 Etruscan noble wore, besides the tebenna, a _bulla_, or necklace of
 _bullae_, and a wreath, _corona Etrusca_. The bulla was a circular gold
-locket containing a charm of some kind against evil.[26] On the later
+locket containing a [[Charm|charm]] of some kind against evil.[26] On the later
 sarcophagi the male figures wear not only a wreath or _corona_ proper,
 but also a garland of flowers hung round the neck. The male head-dress
 was the _galerus_, a hat of leather, said to have been worn by the
@@ -1204,7 +1204,7 @@ appeared in the _toga_ and _subligaculum_ only. In this period, however,
 the _tunica_, corresponding to the Greek chiton, was universally worn in
 ordinary life, and the _toga_ gradually became a full-dress garment
 which was only worn over the _tunica_ on important social occasions;
-Juvenal (iii. 171) tells us that in a great part of Italy no one wore
+[[Juvenal]] (iii. 171) tells us that in a great part of Italy no one wore
 the _toga_ except at his burial!
 
 The _toga_ was a piece of woollen cloth in the form of a segment of a
@@ -1227,7 +1227,7 @@ illustration the priest with veiled head, _ritu Gabino_, who also wears
 his _toga_ with the _cinctus Gabinus_. Towards the end of the republic a
 new fashion was generally adopted. A considerable length of the toga was
 allowed to hang from the left shoulder; the remainder was passed round
-the body so as to rise like a baldric (_balteus_) from the right hip to
+the body so as to rise like a [[Baldric|baldric]] (_balteus_) from the right hip to
 the left shoulder, being folded over in front (the fold was called
 sinus), then brought round the back of the neck so that the end fell
 over the right shoulder; the hanging portion on the left side was drawn
@@ -1248,13 +1248,13 @@ worn by boys till the age of sixteen, when they assumed the plain _toga
 virilis_, and also by curule magistrates and some priests. A purple toga
 with embroidery (_toga picta_) was worn together with a gold-embroidered
 tunic (_tunica palmata_) by generals while celebrating a triumph and by
-magistrates presiding at games; it represented the traditional dress of
-the kings and was adopted by Julius Caesar as a permanent costume. The
+magistrates presiding at [[Games|games]]; it represented the traditional dress of
+the kings and was adopted by [[Julius]] [[Caesar]] as a permanent costume. The
 emperors wore it on occasions of special importance. The _trabea_, which
 in historical times was worn by the consuls when opening the temple of
-Janus, by the _equites_ at their yearly inspection and on some other
+Janus, by the _[[Equites|equites]]_ at their yearly inspection and on some other
 occasions, and by the Salii at their ritual dances, and had (according
-to tradition) formed the original costume of the augurs and flamens (who
+to tradition) formed the original costume of the [[Augurs|augurs]] and flamens (who
 afterwards adopted the _toga praetexta_), was apparently a _toga_
 smaller in size than the ordinary civil dress, decorated with scarlet
 stripes (_trabes_). It was fastened with brooches (fibulae) and appears
@@ -1263,7 +1263,7 @@ Antoninus Pius.
 
 The tunica was precisely like the Greek chiton; that of the senator had
 two broad stripes of purple (latus clavus) down the centre, that of the
-knight two narrow stripes (angustus clavus). A woollen undergarment
+[[Knight|knight]] two narrow stripes (angustus clavus). A woollen undergarment
 (subucula) was often worn by men; the women's under-tunic was of linen
 (indusium). When women gave up the use of the toga, they adopted the
 stola, a long tunic with a border of a darker colour (instita) along the
@@ -1282,7 +1282,7 @@ general they resembled the Greek chlamys, but often had a hood
 which was the garment most commonly worn, especially by soldiers when
 engaged on peace duties, was an oblong piece of cloth with a hole in the
 centre for the neck; a hood was usually attached to the back. It
-survives in the ritual chasuble of the Western Church. The Greek
+survives in the ritual [[Chasuble|chasuble]] of the Western Church. The Greek
 military chlamys appears in two forms--the _paludamentum_ of the general
 (e.g. Trajan as represented on the Arch of Constantine, ROMAN ART, Plate
 III., fig. 16), and the _sagum_ worn by the common soldier (e.g. by some
@@ -1301,7 +1301,7 @@ e.g. the _calceus patricius, mulleus_ (of red leather) and _senatorius_
 knotted in front; its forms may be seen on the relief from the Ara
 Pacis. The senators' _calceus_ had four such straps (_quattuor
 corrigiae_), which were wound round the ankle (cf. the _flamen_ on the
-Ara Pacis), and was also adorned with an ivory crescent (_lunula_). A
+Ara Pacis), and was also adorned with an ivory [[Crescent|crescent]] (_lunula_). A
 leathern tongue (_lingula_) is often seen to project from beneath the
 straps. The soldier's boot (_caliga_, from which the emperor Gaius
 derived his nickname, Caligula) was in reality a heavy hobnailed sandal
@@ -1319,7 +1319,7 @@ crown.
 
 For personal ornament finger-rings of great variety in the material and
 design were worn by men, sometimes to the extent of one or more on each
-finger, many persons possessing small cabinets of them. But at first the
+[[Finger|finger]], many persons possessing small [[Cabinet|cabinets]] of them. But at first the
 Roman citizen wore only an iron signet ring, and this continued to be
 used at marriages. The _jus annuli aurei_, or right of wearing a gold
 ring, originally a military distinction, became a senatorial privilege,
@@ -1328,7 +1328,7 @@ classes. Women's ornaments consisted of brooches (_fibulae_), bracelets
 (_armillae_), armlets (_armillae, bracchialia_), ear-rings (_inaures_),
 necklaces (_monilia_), wreaths (_coronae_) and hair-pins (_crinales_).
 The tore (_torques_), or cord of gold worn round the neck, was
-introduced from Gaul. A profusion of precious stones, and absence of
+introduced from [[Gaul]]. A profusion of precious stones, and absence of
 skill or refinement in workmanship, distinguish Roman from Greek or
 Etruscan jewelry; but in the character of the designs there is no real
 difference.
@@ -1351,17 +1351,17 @@ i. _Pre-Roman and Roman Britain._--Men who had found better clothing
 than the skins of beasts were in Britain when Caesar landed. Little as
 we know of England before the English, we have at least the knowledge
 that Britons, other than the poorer and wilder sort of the north and the
-fens, wore cloaks and hats, sleeved coats whose skirts were cut above
+[[Fens|fens]], wore cloaks and hats, sleeved coats whose skirts were cut above
 the knee and loose trousers after the fashion of the Gauls. They were
 not an armoured race, for they would commonly fight naked to the waist,
 dreadful with tattooing and woad staining, but Pliny describes their
-close-woven felts as all but sword-proof. Dyers as well as weavers,
+close-woven felts as all but sword-proof. [[Dyer|Dyers]] as well as weavers,
 their cloaks, squares of cloth like a Highland plaid, were of black or
 blue, rough on the one side, while coats and trousers were bright
-coloured, striped and checkered, red being the favourite hue. For
+coloured, striped and checkered, red being the favourite [[Hue|hue]]. For
 ornament the British chiefs wore golden torques about their necks and
-golden arm-rings with brooches and pins of metal or ivory, beads of
-brass, of jet and amber from their own coasts, and of glass bought of
+golden arm-rings with brooches and pins of metal or ivory, [[Bead|beads]] of
+[[Brass|brass]], of jet and amber from their own coasts, and of glass bought of
 the Southern merchants. Their women had gowns to the ankle, with shorter
 tunics above them. The Druid bards had their vestments of blue, while
 the star-gazers and leeches went in green.
@@ -1383,12 +1383,12 @@ St Æthelwold (c. 963-984).]
 
 ii. _Old English Dress._--The skill of their artists gives us many
 accurate pictures of the dress of the English before the Norman
-Conquest, the simple dress of a nation whose men fight, hunt and plough.
+Conquest, the simple dress of a nation whose men fight, [[Hunt|hunt]] and plough.
 The man's chief garment is a sleeved tunic hanging to the knee,
 generally open at the side from hip to hem and in front from the throat
-to the breast. Sleeves cut loosely above the elbow are close at the
+to the breast. Sleeves cut loosely above the [[Elbow|elbow]] are close at the
 forearm. The legs are in hose like a Highlander's or in long breeches
-bandaged or cross-gartered below the knee. A short mantle to the calf is
+bandaged or cross-gartered below the knee. A short mantle to the [[Calf|calf]] is
 brooched at the shoulder or breast (fig. 25). There are long gowns and
 toga-like cloaks, but these as a rule seem garments for the old man of
 rank. In the open air the cloak is often pulled over the head, for hats
@@ -1439,11 +1439,11 @@ the luxury of clothing and that taste for flowing hair and shoes with
 sharp points which is lamented by William of Malmesbury. In this reign
 we have the story of the Red King refusing to put on boots that cost but
 three shillings--the price of an ox--and wearing the same gladly when
-his chamberlain told him that they were a new pair worth a mark. Even
+his [[Chamberlain|chamberlain]] told him that they were a new pair worth a mark. Even
 more than the fashion of long cloaks and trailing gowns whose sleeves
 hang far below the hands, the fantastic boot and shoe toes bring the
-curses of the clergy and the moralizings of chroniclers. Fulk Rechin of
-Anjou is said by Orderic to have invented such gear to hide the
+curses of the clergy and the moralizings of chroniclers. [[Fulk]] Rechin of
+[[Anjou]] is said by Orderic to have invented such gear to hide the
 monstrous bunions upon his toes, but a worthless Robert, a hanger-on of
 the court of William II., distinguishes himself and gains the surname of
 Cornard by stuffing his shoe tips with tow and twisting them like the
@@ -1452,7 +1452,7 @@ horns of the ram.
 
   12th and 13th centuries.
 
-There are many illuminations which give us in plenty the details of all
+There are many [[Illumination|illuminations]] which give us in plenty the details of all
 costumes of the 12th century. Thus the devil in a well-known MS. wears
 the gown of a lady of rank, the bodice tightly laced, the hanging sleeve
 knotted to keep it out of the mud. A MS. at Corpus Christi College,
@@ -1472,8 +1472,8 @@ the short Angevin mantle and from it had his name of Curtmantle, but it
 was not a mastering fashion and the long cloak holds its own. Rich
 stuffs, cloth of gold or silk woven with gold, webs of damask wrought
 with stripes or rays and figured with patterns are brought in from the
-ports. Rare furs are eagerly sought. But the simplicity of line is
-remarkable. The drawings made for Matthew Paris's lives of the two Offas
+ports. Rare [[Fur|furs]] are eagerly sought. But the simplicity of line is
+remarkable. The drawings made for [[Matthew]] Paris's lives of the two Offas
 show people of all ranks clad without a trace of the tailor's fantasy.
 Kings and lords, churchmen and men of substance go in long gowns to the
 feet, the great folk having an orphrey or band of embroidery at the
@@ -1489,7 +1489,7 @@ knee, a short cloak to the knee being worn with it (fig. 28). Belts and
 girdles are narrow and plain, the thongs without enrichment, showing no
 beginnings of the rich buckles and heavy bosses of a later fashion.
 Shoes and low-cut boots are slightly pointed, and hats, caps, hoods and
-coifs of many types cover the head. The women are like to the men in
+[[Coif|coifs]] of many types cover the head. The women are like to the men in
 their long gown, but the head is wrapped in a coverchef hanging over the
 shoulder and bound with a fillet round the brow. Gloves are common in
 this age; "scraps of the cloth or the skin," says a poet, "do not want
@@ -1508,10 +1508,10 @@ Royal MS. 19 B. xv.)]
 
 At the court of Edward II., son of a king who went simply clad, Piers
 Gaveston and his like began to set the fashions for a century which to
-the curious antiquary is a garden of delights. For the history of the
+the curious [[Antiquary|antiquary]] is a garden of delights. For the history of the
 14th-century clothing illuminations are supplemented by a number of
 effigies upon which the carver has wrought out the last details, by
-monumental brasses, and by contemporary literature and records (fig.
+monumental [[Brasses|brasses]], and by contemporary literature and records (fig.
 29). Garments take many shapes; sleeves, skirts and head-dresses run
 through many fashions; while personal ornaments are rich and beautiful
 to a degree never yet surpassed. With the beginning of the century there
@@ -1531,7 +1531,7 @@ toes of the ankle-shoes are pointed so long that holy men see visions of
 little devils using them as chariots. The women love trailing gowns.
 They have under-skirts and loose over-garments, sometimes sleeveless.
 Their hair at least would not shock those earlier prelates who cursed
-the long plaits, for it is caught up in a caul or braided at the sides
+the long plaits, for it is caught up in a [[Caul|caul]] or braided at the sides
 of the head. In the second half of the century men of rank borrow from
 Germany the fashion of the _cote-hardie_. In its plainest form this
 short tunic, covering the fork of the leg, is cut closely to the body
@@ -1540,17 +1540,17 @@ another streamer is added to the one which falls from the hood, a strip
 of stuff continuing the elbow-sleeve as low as the coat edge. This strip
 and the hem of the skirt are often "slittered" with fanciful jags, a
 fashion which soon draws down the satirist's anger. Parti-coloured
-garments were an added offence; a gentleman would have his coat parted
+garments were an added offence; a [[Gentleman|gentleman]] would have his coat parted
 down the middle in red and white, with hose of white and red to match.
 Men and women of rank wear a twisted garland of rich stuff, crown-wise
 on the head, set with pearls and precious stones, a fashion which is
 followed on the great helm of the knights, being the "wreath" or "torce"
-of heraldry. The dames of such as wear the _cote-hardie_ imitate its
+of heraldry. The [[Dame|dames]] of such as wear the _cote-hardie_ imitate its
 tightness in the sleeves and bodices of their long gown. A curious
 fashion which now begins is the sleeveless upper gown whose sides are
 cut away in curved sweeps from the shoulder to below the waist, the
 edges of the opening being deeply furred. The strange head-dress with a
-steeple-horn draped with lawn kerchiefs makes its appearance to shock
+steeple-horn draped with [[Lawn|lawn]] kerchiefs makes its appearance to shock
 the moralists. Although it was probably a rare sight in this century,
 the horn could easily fulfil its mission of drawing notice to all its
 wearers.
@@ -1591,7 +1591,7 @@ of scarlet and green, "shape of the newe," in "cutted clothes" with
 "long pikes on her shone." More than this, they made scandal by ruffling
 with weapons--"bucklers brode and sweardes long, bandrike with
 baselardes kene." The skill of goldsmiths and craftsmen decorates all
-the appurtenances of the dress of this 14th century. Buttons, which
+the [[Appurtenances|appurtenances]] of the dress of this 14th century. Buttons, which
 appear in the first Edward's time as a scandalous ornament on men of low
 degree, have now become common, and, cunningly wrought, are used as much
 for _queintise_ as for service. A close row of them will run from wrist
@@ -1599,7 +1599,7 @@ to elbow of tight sleeve. A row of buttons goes from the neck of a
 woman's gown, and the _cote-hardie_ may be fastened down the front with
 a dozen and a half of rich buttons. A purse or gipciere hung by a ring
 to the girdle gives more room for ornament in the silver or brass bar on
-which the bag depends. Above all the girdle, which--in harness or in
+which the bag depends. Above all the girdle, which--in [[Harness|harness]] or in
 silk--rich men wear broad and bossed with jewels across the thigh below
 the waist, makes work for the jeweller's craftsman. Such a girdle is for
 great folk alone; but lesser men, wearing a strap about their waists,
@@ -1615,13 +1615,13 @@ man of Chaucer's company calls to us by the fantasy of his clothing. The
 Knight himself rides in his fustian _gipoun_, the grime of his habergeon
 upon it, although his son's short gown, the gayest garment at the
 Tabard, had long and wide sleeves and is embroidered with flowers like
-any mead. A coat and hood of green mark the Yeoman, who has a silver
-Christopher brooch for ornament. The Merchant is in motley stuff, his
-beaver hat from Flanders and his clasped boots taking Chaucer's eye, as
+any [[Mead|mead]]. A coat and hood of green mark the Yeoman, who has a silver
+[[Christopher]] brooch for ornament. The Merchant is in motley stuff, his
+beaver hat from [[Flanders]] and his clasped boots taking Chaucer's eye, as
 do the _anlas_ and silken _gipser_ which hang at the rich Franklin's
 belt. As for the London burgesses, their knife-chapes, girdles and
-pouches are in clean silver. The Shipman wears his knife in a lanyard
-about his neck, as his fellows do to this day, and his coat is of coarse
+pouches are in clean silver. The Shipman wears his [[Knife|knife]] in a lanyard
+about his neck, as his [[Fellows|fellows]] do to this day, and his coat is of coarse
 falding to the knee. The Wife of Bath has the wimple below her broad hat
 and rides in a foot mantle about her hips. Poorer men's dress is on the
 Reve and the Ploughman, the one in a long _surcote_ of sky-blue and the
@@ -1637,9 +1637,9 @@ of rank still inclined to the rich modes of the last age: Harry of
 Monmouth, drawn about 1410 by an artist who shows him as Occleve's
 patron, wears a blue gown which might have passed muster at the court of
 Richard II. for its trailing skirts and its long sleeves, their
-slittered edges turned back (fig. 32). A strange fancy at this time was
+slittered edges turned back (fig. 32). A strange [[Fancy|fancy]] at this time was
 the hanging of silver bells on the dress. One William Staunton, in 1409,
-seeing in a vision at St Patrick's Purgatory the fate of earth's proud
+seeing in a vision at St Patrick's Purgatory the [[Fate|fate]] of earth's proud
 ones, is exact to note that in the place of torment the jags in men's
 clothes turn to adders, that women's trailing skirts are burnt over
 their heads, and that those men whose garments are overset with silver
@@ -1679,7 +1679,7 @@ longer than a modern frock-coat, its sleeves little wider than those of
 a modern overcoat. Dress, indeed, becomes at this time convenient and
 attractive to our modern eyes. The last quarter of the century sees a
 new and important change. The tunic or gown, which was the garment of
-ceremony answering at once to our dress coats and frock coats, runs down
+ceremony answering at once to our dress coats and [[Frock|frock]] coats, runs down
 to the feet. An act of 1463 ordered that coats should at least cover the
 buttocks, but fashion achieved suddenly what law failed to enforce. Men
 who had polled their hair short allowed it to grow and hang over the
@@ -1711,8 +1711,8 @@ are drawn out at the sides to the form of a pair of bulls' horns or of a
 mitre set sideways. In the time of Edward IV. we have a popular
 head-dress to which has been given the name of the butterfly. The hair
 in its caul is pulled backward, and wires set in it allow the ends of a
-cambric veil to float behind like the wings of a butterfly settled on a
-flower.
+[[Cambric|cambric]] veil to [[Float|float]] behind like the wings of a butterfly settled on a
+[[Flower|flower]].
 
 [Illustration: FIG. 37.--A Gentleman and his Wife. (From a brass of
 1508.)]
@@ -1765,12 +1765,12 @@ broad shoulders, set the fashion to accent this breadth, and it will be
 seen that the earl's figure, leaving out the head and hose, all but
 fills a perfect square. Such men have the air of playing-card knaves.
 Surrey's cap is flat, with a rich brooch and a small side-feather. His
-short doublet of the new style is open in front to show a white shirt
+short [[Doublet|doublet]] of the new style is open in front to show a white shirt
 covered with black embroidery whose ruffles cover his wrists. His
 over-garment or jerkin has vast sleeves, rounded, puffed and slashed.
 Under the doublet are seen wide trunk-breeches. He goes all in scarlet,
 even to the shoes, which are of moderate size. The girdle carries a
-sword with the new guard and a dagger of the Renascence art, graced with
+sword with the new guard and a [[Dagger|dagger]] of the Renascence art, graced with
 a vast tassel. All is in the new fashion, nothing recalling the earlier
 century save the hose and the immodest _braguette_ which, seen in the
 latter half of the fourteen-hundreds, is defiantly displayed in the
@@ -1785,7 +1785,7 @@ headgear was often allowed to hang upon the shoulders by a pair of
 knotted bonnet-strings, while a skull-cap covered the head. With all
 this fantasy the dress of simpler folk has little concern, and a man in
 a plain, short-skirted doublet, with a flat cap, trunk breeches, long
-hose and plain shoes, has nothing grotesque or unserviceable in his
+hose and plain shoes, has nothing [[Grotesque|grotesque]] or unserviceable in his
 attire. The new sumptuary laws, which were not allowed to become a dead
 letter, had their influence in restraining middle-class extravagance. No
 man under a knight's degree was to wear a neck-chain of gold or gilded,
@@ -1822,7 +1822,7 @@ compared with the great farthingale or with the last follies of the wig.
 The skirt of a woman of fashion, which had already begun to jut from the
 waist, was drawn out before the end of Elizabeth's reign at right angles
 from the waist until the dame had that air of standing within a great
-drum which Sir Roger de Coverley remarked in the portrait of an
+[[Drum|drum]] which Sir Roger de Coverley remarked in the portrait of an
 ancestress. Elizabeth herself, long-waisted and of meagre body, set the
 fashions of her court, other women pinching their waists into the long
 and straight stomacher ending in a peak before. She herself followed her
@@ -1869,13 +1869,13 @@ The many fashions of breeches are still popular, most of them padded or
 stuffed. There are trunk hose that have the air of petticoats rolled
 inward half way up the thigh. There is the "great round abominable
 breech," pegtop shaped from below the knee to waist, as it appears in
-the well-known print of James himself with hawk on fist. Among women of
+the well-known print of James himself with [[Hawk|hawk]] on fist. Among women of
 fashion obtained a remarkable mode of exposing the breast, when the ruff
 and bodice were cut away; and the wheel fardingale was still worn, an
 order against it in 1613 rather increasing than diminishing its size.
 But simpler fashions were setting in, and with the reign of Charles I.
 the extravagances of padding and slashing disappear. The ruff gives
-place at last to the falling band, a wide collar of lace or plain linen.
+place at last to the falling band, a wide collar of [[Lace|lace]] or plain linen.
 The belt or girdle ceases to be common wear, save for those who hang a
 sword from it. Parties in the state come to be known by their dress, and
 we have the Puritan, his crop head covered by a wide-brimmed,
@@ -1889,11 +1889,11 @@ ribbon at the end. But the clothing of this age has been illustrated by
 Van Dyck and by a hundred other portrait painters, who as illustrators
 of costume take the place of the monumental sculptors, then less
 commonly called on for an effigy in the habit of life. And the time of
-the Commonwealth passes without notable change. Those who were in power
+the [[Commonwealth]] passes without notable change. Those who were in power
 favoured a sober habit, although we find General Harrison in scarlet and
-clinquant matching with Colonel Hutchinson in courtly apparel, and
+clinquant matching with Colonel [[Hutchinson]] in courtly apparel, and
 before the Restoration the tract-writers find matter of condemnation,
-especially in the items of patches, hair-powder and face paints.
+especially in the [[Item|items]] of patches, hair-powder and face paints.
 
 [Illustration: FIG. 39.--An English Lady. From a brass of 1605.]
 
@@ -1911,9 +1911,9 @@ were in England before King Charles returned. He added to the breeches
 the rows of looped ribbons, gave falling ruffles to the knees of the
 hose and many feathers to the hat. The long, narrow-bladed rapier hung
 in a broad, embroidered belt, passed over the right shoulder, and the
-high-heeled shoes and knots of ribbons. Lely painted the women of this
+high-heeled shoes and knots of ribbons. [[Lely]] painted the women of this
 court in a studied negligence, but many pictures show us the loose
-sleeves turned up to the elbow with bows of ribbon, the close bodice
+sleeves turned up to the elbow with [[Bow|bows]] of ribbon, the close bodice
 ending in a loose gown worn over a full skirted petticoat, a wide collar
 covering the shoulders.
 
@@ -1932,12 +1932,12 @@ pigeon's leg ... a very fine and handsome garment." Rugge's diary
 records the same change to "a close coat of cloth pinkt, with a white
 taffety under the cutts. This in length reached the calf of the leg, and
 upon that a sercoatt cutt at the breast, which hung loose and shorter
-than the vest six inches. The breeches the Spanish cut, and buskins,
+than the vest six [[Inch|inches]]. The breeches the Spanish cut, and buskins,
 some of cloth, some of leather, but of the same colour as the vest or
-garment." Says Evelyn, "a comely and manly habit, too good to hold."
+garment." Says [[Evelyn]], "a comely and manly habit, too good to hold."
 Later in the same month Pepys saw the court "all full of vests, only my
 Lord St Albans not pinked, but plain black; and they say the king says
-the pinking upon whites makes them look too much like magpies, and
+the pinking upon whites makes them look too much like [[Magpie|magpies]], and
 therefore hath bespoke one of plain velvet." The change, although the
 court was fickle, is of the first importance in the history of costume,
 for we have here the coat and waistcoat in a form from which our own
@@ -1975,7 +1975,7 @@ waist. Guardsmen wore them tossing over their corslets, although a
 smaller variety, the campaign wig, had been introduced for war or
 travel. Many portraits of this age show its locks contrasting strangely
 with the soldier's steel breastplate and pauldrons, but it must be
-remembered that martial gentlemen would often choose to be painted in
+remembered that [[Martial|martial]] gentlemen would often choose to be painted in
 armour although such harness was disappearing from actual use.
 
 [Illustration: FIG. 44.--The Herbwoman and her Maids at the Crowning of
@@ -1991,14 +1991,14 @@ used but by old and grave persons." The coat was sometimes buttoned down
 the front but was more often thrown open to display the waistcoat, a
 lesser coat with skirts. The great turned over cuffs were now below the
 elbow, although there was good space for the display of the ruffle, and
-at the neck was the large cravat with laced ends. After the battle of
+at the neck was the large [[Cravat|cravat]] with laced ends. After the battle of
 Steinkirk, in 1692, to which the young French nobles hastened with
 disarranged neckcloths, the cravat was sometimes worn twisted, the ends
 passed through a ring, although the word Steinkirk was in later years
 often carelessly given to the neckcloth worn in any style. For riding,
 the big jack-boot of earlier days, with spurs and broad spur-leathers,
 remained in fashion, although the bell-shaped tops were turned up and
-not down. Boots, however, were riding-gear. Gondomar, the Spanish
+not down. Boots, however, were riding-gear. [[Gondomar]], the Spanish
 ambassador to James I., had laughed over the citizens of London "all
 booted and ready to go out of town," but this custom died away, and a
 man in boots showed that he was for the road. William III.'s grave court
@@ -2006,7 +2006,7 @@ was not one in which new fashions flourished, but it is remarkable that
 feminine modes take curious variety before the century end. Long-waisted
 and straitly cut stays were worn, the gown sleeve is short as the
 coat-sleeve of a Charles II. courtier. The gown itself has the skirts
-gathered to show the petticoat, and small aprons fringed with lace are
+gathered to show the petticoat, and small [[Apron|aprons]] fringed with lace are
 often seen. The simple head-dresses of the Restoration are changed for
 caps with long lace lappets, or for a cap whose top-knot or commode
 stood up stiff and fan-shaped like a section cut out of an old ruff.
@@ -2024,10 +2024,10 @@ gallant cocking up one side of his broad-brimmed, high-crowned felt or
 beaver and securing it with a jewel. Brims were as wide at the end of
 the 17th century, but the crown was lower. From the French court came
 the fashion of cocking up three sides, one at least being fastened with
-a loop of ribbon from which developed the cockade. A black cockade
+a loop of ribbon from which developed the [[Cockade|cockade]]. A black cockade
 became the sign of a military man in England before 1750, and the same
 ornament, highly conventionalized, is now at the side of the tall hats
-worn by the grooms and coachmen of military and naval officers.
+worn by the [[Groom|grooms]] and coachmen of military and naval officers.
 Following varying fashions, the 18th-century cocked hat was laced with
 gold and silver or edged with feathers. It was cocked in a hundred
 forms, from that which has three sides slightly curled upward to the
@@ -2035,9 +2035,9 @@ great Khevenhueller cock, wherewith a very wide-brimmed hat was flapped
 up at the front and rear, a military or martial hat. Wigs, worn by all
 the upper- and middle-class men, were generally powdered, but the lesser
 or Ramillie wig soon drove out the huge and costly full-bottomed
-periwig, even for ceremonial occasions. Of Lord Bolingbroke it is told
-that he once attended Queen Anne in haste with a tie or Ramillie wig on
-his head. Her Majesty showed her displeasure by remarking that his
+periwig, even for ceremonial occasions. Of Lord [[Bolingbroke]] it is told
+that he once attended Queen [[Anne]] in haste with a tie or Ramillie wig on
+his head. Her [[Majesty]] showed her displeasure by remarking that his
 lordship would next come to court in a night-cap. Nevertheless, the
 tie-wig soon became court wear, secured at the back with a huge bow of
 ribbon below which hung the plaited pigtail, worn waist-long about 1740.
@@ -2051,7 +2051,7 @@ habit of well-dressed men shows no great variety--the large-cuffed,
 collarless coats whose full skirts are now shortened, now lengthened,
 the long waistcoat to match, the closely fitting breeches, the
 stockings, the shoes and jack-boots. The coat tends to be thrown open to
-show the waistcoat, upon which brocade and embroideries were lavished.
+show the waistcoat, upon which [[Brocade|brocade]] and embroideries were lavished.
 Stockings, until the middle of the century, were commonly drawn over the
 ends of the breeches and gartered below the knee. By 1740 the long
 cravat with hanging ends grows old fashioned. Young men take to the
@@ -2072,7 +2072,7 @@ of curls at the side. This head-dress, clubbed into a heavy knot behind,
 was surmounted by a very little hat. The coat with small cuffs was much
 cut away before, the skimped skirts reaching midway down the thigh.
 Waistcoat flaps were but little below the waist. Breeches, striped or
-spotted like those of a Dresden china shepherd, were fastened at the
+spotted like those of a [[Dresden]] china shepherd, were fastened at the
 knee with a bunch of ribbon ends; a watch-guard hung from each fob. The
 shirt-front was frilled and a white cravat was tied in a great bow at
 the chin. Macaronis wore a little curved hanger, or replaced the sword
@@ -2095,9 +2095,9 @@ wide-ended sleeves, gathered up in folds above the petticoat, a laced
 apron and a lace cap with hanging lappets, is the dress of the century's
 beginning. So the women of fashion are compared with children in
 go-carts, their tight-laced waists rising from vast bells of petticoats
-over which the gown is looped up like a drawn curtain. By 1750 the
+over which the gown is looped up like a drawn [[Curtain|curtain]]. By 1750 the
 hoop-petticoat ringed with whalebone is so vast that architects begin to
-allow for its passage up London stairways by curving the balusters
+allow for its passage up London stairways by curving the [[Baluster|balusters]]
 outward. Great variety of women's dress appears under George II., but
 those in the height of the mode affected a shepherdess simplicity in
 their walking clothes, wearing the flat-crowned or high-crowned hats and
@@ -2108,7 +2108,7 @@ George III.'s reign saw women's head-dressings reach an extravagance of
 folly passing all that had come before it. Hair kneaded with pomatum and
 flour was drawn up over a cushion or pad of wool, and twisted into curls
 and knots and decorated with artificial flowers and bows of ribbon. As
-this could not be achieved without the aid of a skilled barber, the
+this could not be achieved without the aid of a skilled [[Barber|barber]], the
 "head" sometimes remained unopened for several weeks. At the end of that
 time sublimate powder was needed to kill off the tenantry which had
 multiplied within. At the beginning of the last quarter of the century
@@ -2178,7 +2178,7 @@ had given up the ancient custom of going armed with a sword. The wig and
 even the pigtail tied with black shalloon were abandoned by all but a
 few old folk. Soldiers cut off their pigtails in 1808. But judges and
 lawyers wear their wigs in court in the 20th century, state coachmen
-wear them on the box, and physicians and the higher clergy wore them
+wear them on the [[Box|box]], and physicians and the higher clergy wore them
 even in the street long after laymen had given them up. George IV.
 refused to receive a bishop of London who appeared at court without a
 wig, and Sumner, archbishop of Canterbury, wore one until his death in
@@ -2188,12 +2188,12 @@ and general impression in London society of 1841, not because he wore
 hair-powder but because he used so much of it. It is now used only by a
 few lacqueys. In the early Victorian period the cropped "Brutus" head
 was out of fashion, many men wearing their hair rather long and so
-freely oiled that the "anti-macassar" came in to protect drawing-room
+freely oiled that the "anti-macassar" came in to protect [[Drawing-Room|drawing-room]]
 chair-backs.
 
 [Illustration: From _Fraser's Magazine_, Dec. 1834.
 
-FIG. 47.--Count D'Orsay. Dress of a man of Fashion in Early Victorian
+FIG. 47.--Count [[D'Orsay]]. Dress of a man of Fashion in Early Victorian
 Period.]
 
 With powdered hair and the pigtail passed away the 18th century cloth
@@ -2211,17 +2211,17 @@ trousers strapped under the instep, a mode in which men even ventured to
 appear at evening receptions, although, in the year before Waterloo, the
 duke of Wellington was refused admittance to Almack's when thus clad.
 Long skirted overcoats, fur-collared and tight in the waist, completed
-this costume. Coats were blue, claret, buff and brown. "Pea-green Hayne"
+this costume. Coats were blue, claret, [[Buff|buff]] and brown. "Pea-green [[Hayne]]"
 was known among clubmen by a brighter coloured garment. Civilians, like
 Jos Sedley, would sometimes affect a frock frogged and braided in
 semi-military fashion. The shirt collar turned upward, the points
 showing above vast cravats whose careful arrangement was maintained by
 one or two scarf-pins. Brummel the master dandy of his age, may be
 called the first dandy of the modern school. Dressing, as a rule, in
-black, he distinguished himself, not as the bucks of an earlier age by
+black, he distinguished himself, not as the [[Buck|bucks]] of an earlier age by
 bright colours, rich materials or jewellery, but by his extravagant
 neatness and by the superb fit of garments which set the fashion for
-lesser men. To him, according to Grantley Berkeley, we owe the modern
+lesser men. To him, according to Grantley [[Berkeley]], we owe the modern
 dress-coat. An idle phrase in Bulwer-Lytton's _Pelham_ (1828), that
 "people must be very distinguished in appearance" to look well in black,
 made black henceforward the colour of evening coats and frock coats.
@@ -2236,7 +2236,7 @@ the last authorized vogue and to lose himself among others as shyly
 obedient. The tubular lines of 20th-century clothing advantage the
 tailor by the tendency of new clothing to crease at the elbow and bag at
 the knee. In preserving the necessary straight lines of his garments, in
-following the season's fashions in details which only an expert eye
+following the season's fashions in details which only an [[Expert|expert]] eye
 would mark, and in providing himself with clothes specialized for every
 hour of the day, for a score of sports and for the gradations of social
 ceremonial--in these things only can the modern dandy rival his
@@ -2246,7 +2246,7 @@ denied him.
 
 Women at the beginning of the 19th century were clad in those fashions
 which revolutionary France borrowed from the antique. The simplicity of
-this style gave it a certain grace; it was at the other pole from the
+this style gave it a certain [[Grace|grace]]; it was at the other pole from the
 absurdity of the court dress which, until George IV. ordered otherwise,
 perpetuated the bunched draperies, the flounces and furbelows and even
 the hoop of the worst period of the 18th century. The gown, lightly
@@ -2261,15 +2261,15 @@ handkerchiefs or small ruffs were worn about the neck in the morning
 dress. About the Waterloo period the elegance of the classical gown
 disappeared. The waist was still high at first but the gown was shorter
 and wider at the skirt. For evening dress these skirts were stiffened
-with buckram and trimmed with much tasteless trumpery. Large bonnets
+with [[Buckram|buckram]] and trimmed with much tasteless trumpery. Large bonnets
 were common, and the hair was dragged stiffly to the back of the head,
 to be secured by a large comb. From 1830 begins a period of singular
 ugliness. Tight stays came back again, the skirt swept the pavements, a
 generation of over-clad matrons seemed to have followed a generation of
 nymphs. The 'fifties showed even more barbarous devices, and about 1854
-came in from France the crinoline, that strange revival of the ancient
+came in from France the [[Crinoline|crinoline]], that strange revival of the ancient
 hoop. Plaids, checks and bars, bright blues, crude violets and hideous
-crimsons, were seen in French merinos, Irish poplins and English
+[[Crimson|crimsons]], were seen in French merinos, Irish poplins and English
 alpacas. Women in short jackets, hooped skirts, hideous bonnets and
 shawls seemed to have banished their youth. The empress Eugénie, a
 leader of European fashion, decreed that white muslin should be the
@@ -2286,12 +2286,12 @@ enjoyed some limited individual freedom in designing their costumes. Of
 20th-century fashions it is most notable that they change year by year
 with mechanical regularity. The clothes of smart women can no longer be
 said to express any tendency of an age. Year by year the modes are
-deliberately altered by a conclave of the great _modistes_ whose desire
+deliberately altered by a [[Conclave|conclave]] of the great _modistes_ whose desire
 is less to produce rich or beautiful garments than to make that radical
 alteration from loose sleeve to tight sleeve, from draped skirt to plain
 skirt, which will force every women to cast aside the last season's
 garments and buy those of the newer device. But of modern dress it may
-at least be said that cheaper materials, the sewing machine and the
+at least be said that cheaper materials, the sewing [[Machine|machine]] and the
 popular fashion papers allow women of the humbler classes to dress more
 decently and tastefully. Their dress is no longer that frowsy parody of
 richer women's frippery which shocked observant foreigners a generation
@@ -2305,17 +2305,17 @@ we soon hear of embroidery and ornament applied to them, presumably at
 the collar which would be visible above gown or tunic. Men added short
 drawers, or breeches, a word which does not secure its modern value
 until the end of the 16th century. "Drawers" signified various
-descriptions of overall, Cotgrave explaining the word as coarse
+descriptions of overall, [[Cotgrave]] explaining the word as coarse
 stockings drawn over others although Randle Holme gives it in its later
 sense. Isaac of Cyprus is named by Robert of Brunne as escaping "bare in
 his serke and breke." Henry Christall, who brought four Irish kings to
 London, told Froissart how, finding that they wore no breeches, he
 bought linen cloth for them. Medieval romances and the like give us the
 choice of shirts of linen, of fine Holland, of cloth of Rennes and even
-of silk, and Chaucer speaks of women's smocks wrought with silk,
+of silk, and [[Chaucer]] speaks of women's smocks wrought with silk,
 embroidered behind and before. Poorer folk went, like Thynne's poor
 countryman, in shirts of "canvas hard and tough," or of coarse Breton
-dowlas. Under the first Tudors, shirts are decorated with gold, silk and
+[[Dowlas|dowlas]]. Under the first Tudors, shirts are decorated with gold, silk and
 black thread embroideries, the latter being seen in the ruffled shirt
 worn by the earl of Surrey in our illustration (see fig. 38). Stubbes,
 in his often-quoted _Anatomie of Abuses_ (1583) declaims against the
@@ -2328,10 +2328,10 @@ embroideries," Biblical sentences or figures, which recall a similar
 custom among the early Christians. At this time underclothing had
 increased in quantity, for there are many indications that the men and
 women of the middle ages were often content with a bare change of linen
-at the best. _The Book of Courtesy_ (temp. Hen. VII.) orders the servant
+at the best. _The Book of [[Courtesy]]_ (temp. Hen. VII.) orders the servant
 to provide "clene sherte and breche" against his master's uprising, but
 the laundering of the linen of the Percy household, a hundred and
-seventy people, costs but forty shillings a year in the reign of Henry
+seventy people, [[Costs|costs]] but forty shillings a year in the reign of Henry
 VIII.
 
 [Illustration: FIG. 48.--A Man-at-arms and a Man in a Shirt (early 14th
@@ -2344,10 +2344,10 @@ of their shirts, as was that 18th-century lord who boasted to Casanova
 of his changing a shirt several times in the day, his chin being shaved
 on each occasion. A valuable document concerning the underclothing worn
 by a citizen in the reign of Charles II. is afforded by the evidence of
-the man who helped to strip the body of the suicide Sir Edmond Berry
+the man who helped to strip the body of the suicide Sir Edmond [[Berry]]
 Godfrey. "I pulled off his shoes," says Fisher, "three pairs of
 stockings and a pair of socks, his black breeches and his drawers." His
-coat and waistcoat, his shirt and his flannel shirt are also named. The
+coat and waistcoat, his shirt and his [[Flannel|flannel]] shirt are also named. The
 knight came by his end on an October day. He was therefore warmly clad.
 His three pair of stockings will be noted: two pair are worn at the
 present day by most men in court dress. The socks are a rarely named
@@ -2371,7 +2371,7 @@ false collars, descendants of the Puritan's "plain band," have been
 attached to the shirt by studs at least for the last fifty years. Their
 fashions often change, but the older type turned down at the edge is not
 often seen. To women's underclothing drawers have been added in the 19th
-century. Brantôme, writing in the 16th, speaks of this garment as then
+century. [[Brant]]ôme, writing in the 16th, speaks of this garment as then
 lately introduced since the time of Henri II., but the fashion,
 apparently, did not long endure in France. In England they are noted as
 in occasional use at the Restoration. After 1820 a sort of trouser with
@@ -2404,8 +2404,8 @@ uncovered knees. The Russian moujik in winter has his frowsy sheepskin
 coat, and the Russian prince imitates it in costly furs. While the rich
 man's clothing alters with every fancy of the tailors, the poor man's
 garments, fewer and cheaper, change slowly in the ages. An old
-Lincolnshire peasant wearing his smock frock and leathern gaiters might
-pass unnoted in a peasant crowd of centuries ago. Here and there in
+[[Lincolnshire]] peasant wearing his smock frock and leathern gaiters might
+pass unnoted in a peasant [[Crowd|crowd]] of centuries ago. Here and there in
 Europe we find in the 20th century a peasantry in whose clothing fashion
 seems to have been suddenly stayed. A Breton peasant in his holiday
 dress gives us a man of the late 17th century, even as an Irish peasant
@@ -2416,17 +2416,17 @@ bosom heavily embroidered, a skirt with a year's stitching in the hem
 are not to be imitated by the dealer in ready-made clothing, who offers,
 instead, cheapness and the brisk variety of the town. Old writers, each
 in turn, set up their wail that the time was come when you could not
-tell Jack from his master, the burgess from the knight. And now that
+tell [[Jack]] from his master, the [[Burges|burgess]] from the knight. And now that
 time has come in some sort, for the town dress of the richer classes of
 London or Paris is imitated by all peoples and by rich and poor.
-Especially is this the case in England where the clean and honourable
+Especially is this the case in England where the clean and [[Honourable|honourable]]
 blouse of the French workman is not, a journeyman painter or labourer
 often going to his work in a frayed and greasy morning coat after the
 cut of that in which a rich man will pay a London morning call. English
 fashions for men are followed in Paris. London women follow the modes of
 the rue de la Paix. Berlin tailors and dressmakers laboriously
 misapprehend both styles. To those who do not understand the
-international trafficking of the middle ages and the age of renascence
+[[International|international]] trafficking of the middle ages and the age of renascence
 it is strange to note how little the fashions varied in European lands.
 All kinds of folks, crusaders and merchants, diplomatists and religious,
 carried between nation and nation the news of the latest cut of the
@@ -2452,12 +2452,12 @@ citizens of those Netherlands which he once ruled.     (O. BA.)
 III. NATIONAL AND CLASS COSTUME
 
 Costume, as readers of Carlyle's _Sartor Resartus_ know, always has a
-significance deeper than the mere whims of fashion. In the cosmopolitan
+significance deeper than the mere whims of fashion. In the [[Cosmopolitan|cosmopolitan]]
 society of modern times dress everywhere tends to become assimilated to
 a common model, and this assimilation, however regrettable from the
 picturesque point of view, is one of the most potent forces in the
 break-down of the traditional social distinctions. In the middle ages in
-Europe, and indeed down to the French Revolution, the various classes of
+Europe, and indeed down to the [[French Revolution]], the various classes of
 the community were clearly differentiated by their dress. Everywhere, of
 course, it happened that occasionally jackdaws strutted in peacock's
 feathers; but even in England, where class distinctions were early less
@@ -2479,7 +2479,7 @@ officially recognized as such by the English court and in the uniforms
 of the Highland regiments in the British army. The chief peculiarity of
 this costume, distinguishing it from any others, is the tartan, an
 arrangement of a prevailing colour with more or less narrow checks of
-other colours, by which the various clans or septs of the same race can
+other colours, by which the various [[Clan|clans]] or septs of the same race can
 be distinguished, while a certain general uniformity symbolizes the
 union of the clans in a common nationality. Thus, e.g. the tartan of the
 clan McDonell is green with narrow checks of red, that of the clan
@@ -2514,7 +2514,7 @@ classes, that of the peasants and naturally mainly in those districts
 least accessible to modern "enterprise." These peasant costumes, often of
 astonishing richness and beauty, vary more or less in every village, each
 community having its own traditional type; and, since this type does not
-vary, they can be handed down as valuable heirlooms from father to son
+vary, they can be handed down as valuable [[Heirloom|heirlooms]] from father to son
 and from mother to daughter. But they are fast disappearing. In the
 British islands, where there were no free peasant cultivators to maintain
 the pride of class, they vanished long since; the white caps and
@@ -2542,11 +2542,11 @@ the type has been (as in India) often determined by religious
 considerations, are showing an increasing tendency to yield to the
 world-fashion. Turkey, as being most closely in touch with Europe, was
 the first to feel the influence; the introduction of the fez and the
-frock-coat, in place of the large turban and flowing caftan of the old
+frock-coat, in place of the large turban and flowing [[Caftan|caftan]] of the old
 Turk, was the most conspicuous of the reforms of Sultan Mahmud II.; and
 when, in 1909, the first Turkish parliament met, only a small minority
 of its members wore their traditional costumes. The introduction of
-Japan into the comity of nations was followed by the adoption of
+[[Japan]] into the comity of nations was followed by the adoption of
 European costume by the court and the upper classes, at least in public
 and on ceremonial occasions; in private the wide-sleeved, loose,
 comfortable _kimono_ continues to be worn. China, on the other hand, has
@@ -2575,7 +2575,7 @@ Chinese see CHINA; &c.
 IV. OFFICIAL COSTUME
 
 Official costumes, in so far as they are not, like the crowns and
-tabards of heralds, the coronets of peers, or the gold keys tacked to
+tabards of heralds, the coronets of peers, or the gold [[Key|keys]] tacked to
 the coat-tails of royal chamberlains--consciously symbolical, are for
 the most part ceremonious survivals of bygone general fashions. This is
 as true of the official costume of the past as of the present; as may be
@@ -2610,7 +2610,7 @@ cherished as the outward and visible sign of that doctrine of the
 equality of all men which remains the most generally gratifying of the
 gifts of French 18th-century philosophy to the world. In Great Britain,
 where equality has ever been less valued than liberty, official costumes
-have tended to increase rather than to fall into disuse; mayors of new
+have tended to increase rather than to fall into disuse; [[Mayor|mayors]] of new
 boroughs, for instance, are not considered properly equipped until they
 have their gown and chain of office. In France, on the other hand, the
 taste of the people for pomp and display, and, it may be added, their
@@ -2619,11 +2619,11 @@ produce a somewhat anomalous situation as regards official costume.
 Lawyers have their robes, judges their scarlet gowns, diplomatists their
 gold-laced uniforms; but the state costume of the president of the
 Republic is "evening dress," relieved only by the red riband and star of
-the Legion of Honour. In the Latin states of South America, which tend
+the [[Legion]] of Honour. In the Latin states of South America, which tend
 to be disguised despotisms rather than democracies, the actual rather
 than the theoretical state of things is symbolized by the gorgeous
 official uniforms which are among the rewards of those who help the
-dictator for the time being to power. See also ROBES; for military
+[[Dictator|dictator]] for the time being to power. See also ROBES; for military
 costume see UNIFORMS; for ecclesiastical costume see VESTMENTS and
 subsidiary articles.     (W. A. P.)
 
@@ -2632,7 +2632,7 @@ subsidiary articles.     (W. A. P.)
   various degrees, useful for the study of the history of this subject.
   It may be noted here, e.g. that the illuminators and painters of the
   middle ages did not affect historical accuracy in their presentment of
-  biblical or secular subjects, but clothed their patriarchs, apostles
+  biblical or secular subjects, but clothed their patriarchs, [[Apostle|apostles]]
   or Roman warriors in the dress of their own ages, their pictures thus
   becoming invaluable records of the costume of their time. In this
   respect the knowledge of classical antiquity revived during the
@@ -2653,38 +2653,38 @@ subsidiary articles.     (W. A. P.)
   be painted in full armour long after it had in fact ceased to be worn.
 
   Of authorities for English costume the following may be selected as
-  especially useful: J. C. Bruce, _The Bayeux Tapestry Elucidated_
+  especially useful: J. C. Bruce, _The [[Bayeux Tapestry]] Elucidated_
   (London, 1856), with 17 plates; F. W. Fairholt, _Costume in England to
-  the end of the 18th Century_ (2nd ed., ib., 1860); William Fowler,
+  the end of the 18th Century_ (2nd ed., ib., 1860); William [[Fowler]],
   _Examples of Medieval Art_ (1796-1829), 116 plates; Froissart's
   _Chronicles_, translated by T. Johnes (4 vols., 1844), 72 plates and
   many woodcuts; R. N. Humphrey, _Illuminated Books of the Middle Ages_
-  (ib., 1849); _Facsimiles of Original Drawings by Holbein, in the
+  (ib., 1849); _Facsimiles of Original Drawings by [[Holbein]], in the
   Collection of His Majesty, for Portraits of Persons of the Court of
-  Henry VIII._, engraved by F. Bartolozzi, &c. (London, 1884); John
+  Henry VIII._, engraved by F. [[Bartolozzi]], &c. (London, 1884); John
   Nichols, _Progresses, Pageants, &c., of Queen Elizabeth_ (3 vols.,
   1823), and _of James I._ (4 vols., 1828), with numerous plates;
   Hogarth's _Works_, engraved by himself, with descriptions by J.
-  Nichols (1822), 153 plates; Edmund Lodge, _Portraits of Illustrious
+  Nichols (1822), 153 plates; Edmund [[Lodge]], _Portraits of Illustrious
   Personages of Great Britain_ (12 vols., 1823-1835), 240 plates; J. R.
-  Planché, _Hist. of British Costume_ (3rd ed., Bohn, 1874), and
+  Planché, _Hist. of British Costume_ (3rd ed., [[Bohn]], 1874), and
   _Cyclopaedia of Costume_ (2 vols., 1876-1877); Henry Shaw, _Dresses
   and Decorations of the Middle Ages_ (2 vols., 1840-1843), 94 plates
   and many woodcuts; Joseph Strutt, engraver, _Dress and Habits of the
   People of England_ (2 vols., 1796-1799), and _Regal and Ecclesiastical
   Antiquities of Great Britain_, new edition with notes by J. R. Planché
   (1842), 153 plates; Westwood, _Miniatures of Anglo-Saxon and Irish
-  Manuscripts_ (1868), 54 plates; C. A. Stothard, _The Monumental
-  Effigies of Great Britain_ (1817-1832; ed. Hewitt, 1876); Herbert
-  Haines, _Manual of Monumental Brasses_ (Oxford, 1861), with many
+  [[Manuscript|Manuscripts]]_ (1868), 54 plates; C. A. Stothard, _The Monumental
+  Effigies of Great Britain_ (1817-1832; ed. [[Hewitt]], 1876); Herbert
+  Haines, _[[Manual]] of Monumental Brasses_ (Oxford, 1861), with many
   woodcuts; J. G. and L. A. B. Waller, _A Series of Monumental Brasses_
   (London, 1864); H. Druitt, _Costume on Brasses_ (London, 1906). Of
   foreign works on costume the most important are Hefner-Alteneck,
   _Trachten, &c., vom frühesten Mittelalter bis Ende des 18.
-  Jahrhunderts_ (2nd ed., Frankfort, 1879-1890); Viollet-le-Duc,
+  Jahrhunderts_ (2nd ed., [[Frankfort]], 1879-1890); Viollet-le-Duc,
   _Dictionnaire raisonné du mobilier français_ (6 vols., Paris,
   1858-1875), the first four volumes devoted to armour and costume;
-  Friedrich Hottenroth, _Trachten der Völker alter und neuer Zeit_ (2nd
+  [[Friedrich]] Hottenroth, _Trachten der Völker alter und neuer Zeit_ (2nd
   ed., Stuttgart, 1882-1890), with excellent plates, Fr. transl. by J.
   Bernhoff, _Les Costumes chez les peuples, &c._ (Paris, 1885), and
   _Handbuch der deutschen Tracht_ (1898); Bonnard et Mercuri, _Costumes
@@ -2702,12 +2702,12 @@ subsidiary articles.     (W. A. P.)
   Napoli_ (Naples, 1773), 27 plates; Jaquemin, _Iconographie méthodique
   du costume du V^e au XIX^e siècle_ (Paris), 200 plates; Lacombe,
   _Galerie de Florence et du palais Pitti_ (4 vols., Paris, 1789-1807),
-  192 plates; Paul Lacroix, _Manners, Customs and Dress during the
+  192 plates; Paul [[Lacroix]], _Manners, Customs and Dress during the
   Middle Ages and the Renaissance_, Eng. trans. (London, 1874),
   _Military and Religious Life in the Middle Ages and the Renaissance_
   (London, 1874), and _The 18th Century, its Institutions, Customs,
   Costumes_ (London, 1875-1876); L. M. Lanté, _Galerie française de
-  femmes célèbres_, atlas (Paris, 1841), 70 plates; Malliot et Martin,
+  femmes célèbres_, [[Atlas|atlas]] (Paris, 1841), 70 plates; Malliot et [[Martin]],
   _Recherches sur les costumes, les moeurs, les usages religieux,
   civils et militaires des anciens peuples_ (3 vols., Paris, 1809), 228
   plates; Pauly, _Description ethnographique des peuples_ (St
@@ -2739,15 +2739,15 @@ subsidiary articles.     (W. A. P.)
   T. Pingret, _Galerie royale de costumes_ (Paris, undated), beautiful
   lithographs of costumes, principally Italian with some Spanish and
   Swiss, lithographed from paintings by Pingret by various artists;
-  Edward Harding, _Costume of the Russian Empire_ (London, 1811), with
+  Edward [[Harding]], _Costume of the Russian Empire_ (London, 1811), with
   70 hand-coloured plates, including costumes of many of the
   semi-barbaric tribes of central Asia; for Turkish costume in the 18th
   century see _Recueil de cent estampes représentant différentes nations
-  du Levant_, engraved by Le Hay (Paris, 1714); for Greek costume at the
+  du [[Levant]]_, engraved by Le [[Hay]] (Paris, 1714); for Greek costume at the
   time of the War of Independence see Baron O. M. von Stackelberg,
   _Costumes et usages des peuples de la Grèce moderne_ (Rome, 1825),
   with 30 beautiful plates. For Highland costume see R. R. MacIan,
-  _Costumes of the Clans_ (Glasgow, 1899), with letterpress by J. Logan.
+  _Costumes of the Clans_ ([[Glasgow]], 1899), with letterpress by J. Logan.
 
 
 FOOTNOTES:
@@ -2761,7 +2761,7 @@ FOOTNOTES:
     Egypt, the "Black Obelisk" of the Assyrian king Shalmaneser II. (9th
     cent.) or his famous gates at Balawat (ed. W. Birch and T. G.
     Pinches, and with critical description and plates by A. Billerbeck
-    and F. Delitzsch, _Beiträge z. Assyriologie_, vi. 1; Leipzig, 1908).
+    and F. [[Delitzsch]], _Beiträge z. Assyriologie_, vi. 1; Leipzig, 1908).
 
   [3] Old Babylonian sculptors who represent the enemy as naked (Meyer
     [see bibliography below], pp. 12, 70 seq., 116), conventionally
@@ -2816,7 +2816,7 @@ FOOTNOTES:
     on the Phoenician statue, ib. 28.
 
   [14] Cf. Lev. xvi. 23 sq.; Ex. xix 10; Herod, ii. 37 (ed. Wiedemann);
-    Lagrange, _Études sur les relig. sém._ 239.
+    [[Lagrange]], _Études sur les relig. sém._ 239.
 
   [15] M. Jastrow, _Relig. of Bab. and Ass._ p. 666; cf. _Rev.
     biblique_, 1908, p. 466 sq., and Meyer, 59, 86, 97, 101. According to
@@ -2873,7 +2873,7 @@ FOOTNOTES:
     3, 139. a _locus classicus_ for the _toga_) speaks of it as
     "rotunda"; but this need not be taken literally.
 
-  [28] The Lares are thus represented in art.
+  [28] The [[Lares]] are thus represented in art.
 
   [29] The suffibulum of the vestals, which was fastened on the breast
     by a brooch (fibula), was a garment of this sort. The marriage-veil

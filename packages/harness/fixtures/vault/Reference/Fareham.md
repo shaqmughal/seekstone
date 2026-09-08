@@ -9,12 +9,12 @@ id: 42-5330
 # Fareham
 
 FAREHAM, a market town in the Fareham parliamentary division of
-Hampshire, England, 76 m. S.W. from London by the London & South Western
+[[Hampshire]], England, 76 m. S.W. from London by the London & South Western
 railway. Pop. of urban district (1901) 8246. It lies at the head of a
-creek opening into the north-western corner of Portsmouth harbour. The
-principal industries are the manufacture of sackings, ropes, bricks,
+[[Creek|creek]] opening into the north-western corner of Portsmouth harbour. The
+principal industries are the manufacture of sackings, ropes, [[Brick|bricks]],
 coarse earthenware, terra-cotta, tobacco-pipes and leather. Fareham has
-a considerable trade in corn, timber and coal; the creek being
+a considerable trade in [[Corn|corn]], timber and coal; the creek being
 accessible to vessels of 300 tons. Three miles E. of Fareham, on
 Portsmouth harbour, are the interesting ruins of Porchester Castle, an
 extensive walled enclosure retaining its Norman keep, and exhibiting in
@@ -29,12 +29,12 @@ which there are also fragments.
 The fact that Fareham (Fernham, Ferham) formed part of the original
 endowment of the see of Winchester fixes its existence certainly as
 early as the 9th century. It is mentioned in the Domesday Survey as
-subject to a reduced assessment on account of its exposed position and
+subject to a reduced [[Assessment|assessment]] on account of its exposed position and
 liability to Danish attacks. There is evidence to show that Fareham had
 become a borough before 1264, but no charter can be found. It was a
 mesne borough held of the bishop of Winchester, but it is probable that
 during the 18th century the privileges of the burgesses were allowed to
-lapse, as by 1835 it had ceased to be a borough. Fareham returned two
+[[Lapse|lapse]], as by 1835 it had ceased to be a borough. Fareham returned two
 members to the parliament of 1306, but two years later it petitioned
 against representation on the ground of expense. A fair on the 31st of
 October and the two following days was held under grant of Henry III.

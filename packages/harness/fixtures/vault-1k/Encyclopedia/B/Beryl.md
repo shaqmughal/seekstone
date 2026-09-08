@@ -63,7 +63,7 @@ elsewhere in Alexander county, N.C.; at Haddam and Monroe, Conn.; at
 Stoneham and at Albany, in Oxford county, Maine; at Royalston, Mass.;
 and at Mt. Antero, Colorado, where it occurs with phenacite. Beryl of
 beautiful pink colour occurs in San Diego county, California. Coarse
-beryl, much rifted, is found in crystals of very large size at Grafton
+beryl, much rifted, is found in crystals of very large size at [[Grafton]]
 and Acworth, N.H.; a crystal from Grafton weighing more than 2-1/2 tons.
 A colourless beryl from Goshen, Mass., has been called Goshenite; whilst
 crystals of coarse yellow beryl from Rubislaw quarry in Aberdeenshire,

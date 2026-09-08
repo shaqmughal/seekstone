@@ -6,7 +6,7 @@ topic: history
 
 # Bentham
 
-BENTHAM, JEREMY (1748-1832), English philosopher and jurist, was born on
+BENTHAM, [[Jeremy|JEREMY]] (1748-1832), English philosopher and jurist, was born on
 the 15th of February 1748 in Red Lion Street, Houndsditch, London, in
 which neighbourhood his grandfather and father successively carried on
 business as attorneys. His father, who was a wealthy man and possessed
@@ -22,8 +22,8 @@ Latin verse writing; and he was only thirteen when he was matriculated
 at Queen's College, Oxford, where his most important acquisition seems
 to have been a thorough acquaintance with Sanderson's logic. He became a
 B.A. in 1763, and in the same year entered at Lincoln's Inn, and took
-his seat as a student in the queen's bench, where he listened with
-rapture to the judgments of Lord Mansfield. He managed also to hear
+his seat as a student in the queen's [[Bench|bench]], where he listened with
+rapture to the judgments of Lord [[Mansfield]]. He managed also to hear
 Blackstone's lectures at Oxford, but says that he immediately detected
 the fallacies which underlay the rounded periods of the future judge.
 
@@ -37,9 +37,9 @@ bitter disappointment of his father, who had confidently looked forward
 to seeing him upon the woolsack. The first fruits of Bentham's studies,
 the _Fragment on Government_, appeared in 1776. This masterly attack
 upon Blackstone's praises of the English constitution was variously
-attributed to Lord Mansfield, Lord Camden and Lord Ashburton. One
+attributed to Lord Mansfield, Lord Camden and Lord [[Ashburton]]. One
 important result of its publication was that, in 1781, Lord Shelburne
-(afterwards first marquess of Lansdowne) called upon its author in his
+(afterwards first marquess of [[Lansdowne]]) called upon its author in his
 chambers at Lincoln's Inn. Henceforth Bentham was a frequent guest at
 Bowood, where he saw the best society and where he met Miss Caroline Fox
 (daughter of the second Lord Holland), to whom he afterwards made a
@@ -58,7 +58,7 @@ He was made a French citizen in 1792; and his advice was respectfully
 received in most of the states of Europe and America, with many of the
 leading men of which he maintained an active correspondence. In 1817 he
 became a bencher of Lincoln's Inn. His ambition was to be allowed to
-prepare a code of laws for his own or some foreign country. During
+prepare a [[Code|code]] of laws for his own or some foreign country. During
 nearly a quarter of a century he was engaged in negotiations with the
 government for the erection of a "Panopticon," for the central
 inspection of convicts; a plan suggested to him by a building designed
@@ -98,7 +98,7 @@ important.
 The popular notion that Bentham was a morose visionary is far removed
 from fact. It is true that he looked upon general society as a waste of
 time and that he disliked poetry as "misrepresentation"; but he
-intensely enjoyed conversation, gave good dinners and delighted in
+intensely enjoyed conversation, gave good [[Dinner|dinners]] and delighted in
 music, in country sights and in making others happy. These features of
 Bentham's character are illustrated in the graphic account given by the
 American minister, Richard Rush, of an evening spent at his London house
@@ -106,7 +106,7 @@ in the summer of the year 1818. "If Mr Bentham's character is peculiar,"
 he says, "so is his place of residence. It was a kind of blind-alley,
 the end of which widened into a small, neat courtyard. There by itself
 stands Mr Bentham's house. Shrubbery graced its area and flowers its
-window-sills. It was like an oasis in the desert. Its name is the
+window-sills. It was like an oasis in the [[Desert|desert]]. Its name is the
 Hermitage. Mr Bentham received me with the simplicity of a philosopher.
 I should have taken him for seventy or upwards. Everything inside the
 house was orderly. The furniture seemed to have been unmoved since the
@@ -122,13 +122,13 @@ once the associate of Mirabeau, were all who sat down to table. Mr
 Bentham did not talk much. He had a benevolence of manner suited to the
 philanthropy of his mind. He seemed to be thinking only of the
 convenience and pleasure of his guests, not as a rule of artificial
-breeding as from Chesterfield or Madame Genlis, but from innate feeling.
+breeding as from [[Chesterfield]] or Madame Genlis, but from innate feeling.
 Bold as are his opinions in his works, here he was wholly unobtrusive of
 theories that might not have commended the assent of all present. When
 he did converse it was in simple language, a contrast to his later
 writings, where an involved style and the use of new or universal words
 are drawbacks upon the speculations of a genius original and profound,
-but with the faults of solitude. Yet some of his earlier productions are
+but with the [[Fault|faults]] of solitude. Yet some of his earlier productions are
 distinguished by classical terseness."--(_Residence at the Court of
 London_, p. 286.) Bentham's love of flowers and music, of green foliage
 and shaded walks, comes clearly out in this pleasant picture of his home
@@ -195,13 +195,13 @@ writings exhibit a lively and easy style, which gives place in his later
 treatises to sentences which are awkward from their effort after
 unattainable accuracy, and from the newly-invented technical
 nomenclature in which they are expressed. Many of Bentham's phrases,
-such as "international," "utilitarian," "codification," are valuable
+such as "[[International|international]]," "utilitarian," "codification," are valuable
 additions to our language; but the majority of them, especially those of
 Greek derivation, have taken no root in it. His neology is one among
 many instances of his contempt for the past and his wish to be clear of
 all association with it. His was, indeed, a typically logical, as
 opposed to a historical, mind. For the history of institutions which,
-thanks largely to the writings of Sir Henry Maine, has become a new and
+thanks largely to the writings of Sir Henry [[Maine]], has become a new and
 interesting branch of science, Bentham cared nothing. Had he possessed
 such a knowledge of Roman law as is now not uncommon in England, he must
 doubtless have taken a different view of many subjects. The logical and
@@ -215,7 +215,7 @@ his teaching in England alone would be to write a history of the
 legislation of half a century. Upon the whole administrative machinery
 of government, upon criminal law and upon procedure, both criminal and
 civil, his influence has been most salutary; and the great legal
-revolution which in 1873 purported to accomplish the fusion of law and
+revolution which in 1873 purported to accomplish the [[Fusion|fusion]] of law and
 equity is not obscurely traceable to the same source. Those of Bentham's
 suggestions which have hitherto been carried out have affected the
 matter or contents of the law. The hopes which have been from time to
@@ -241,7 +241,7 @@ and political sciences.
   on the life and writings of Bentham: J.H. Burton, _Benthamiana_
   (1843); R. von Mohl, _Geschichte und Literatur der
   Staatswissenschaften_, bk. iii. (1858), pp. 595-635; R.K. Wilson,
-  _History of Modern English Law_ (1875), pp. 133-170; J.S. Mill,
+  _History of Modern [[English Law]]_ (1875), pp. 133-170; J.S. Mill,
   _Dissertations_ (1859), vol. i. pp. 330-392; L. Stephen, _The English
   Utilitarians_ (1900), vol. i.; _A Fragment on Government_, edited by
   F.C. Montague (1891); _The Law Quarterly Review_ (1895), two articles

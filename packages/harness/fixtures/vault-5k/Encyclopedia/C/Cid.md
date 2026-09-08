@@ -20,7 +20,7 @@ in _Don Quixote _: "There is no doubt there was such a man as the Cid,
 but much doubt whether he achieved what is attributed to him." The
 researches of Professor Dozy, of Leiden, have amply confirmed this
 opinion. There is a Cid of history and a Cid of romance, differing very
-materially in character, but each filling a large space in the annals of
+materially in character, but each filling a large space in the [[Annals|annals]] of
 his country, and exerting a singular influence in the development of the
 national genius.
 
@@ -31,17 +31,17 @@ produced out of the long struggle between Christian and Moslem, and the
 perfect type of the Castilian of the 12th century. Rodrigo Diaz, called
 de Bivar, from the place of his birth, better known by the title given
 him by the Arabs as the _Cid_ (_El Seid_, the lord), and _El Campeador_,
-the champion _par excellence_, was of a noble family, one of whose
+the [[Champion|champion]] _par excellence_, was of a noble family, one of whose
 members in a former generation had been elected judge of Castile. The
 date of his birth cannot be fixed with any certainty, but it was
 probably between 1030 and 1040. As Rodrigo Diaz de Vivar he is first
-mentioned in a charter of Ferdinand I. of the year 1064. The legends
+mentioned in a charter of [[Ferdinand]] I. of the year 1064. The legends
 which speak of the Cid as accompanying this monarch in his expeditions
 to France and Italy must be rejected as purely apocryphal. Ferdinand, a
 great and wise prince, under whom the tide of Moslem conquest was first
 effectually stemmed, on his deathbed, in 1065, divided his territories
 among his five children. Castile was left to his eldest son Sancho, Leon
-to Alphonso, Galicia to Garcia, Zamora and Toro to his two daughters
+to Alphonso, [[Galicia]] to [[Garcia]], Zamora and Toro to his two daughters
 Urraca and Elvira. The extinction of the western caliphate and the
 dispersion of the once noble heritage of the Ommayads into numerous
 petty independent states, had taken place some thirty years previously,
@@ -72,13 +72,13 @@ mother's side, of Alphonso V. The original deed of the marriage-contract
 is extant. Some time afterwards the Cid was sent on an embassy to
 collect tribute from Motamid, the king of Seville, whom he found engaged
 in a war with Abdallah, the king of Granada. On Abdallah's side were
-many Castilian knights, among them Count Garcia Ordoñez, a prince of the
+many Castilian [[Knight|knights]], among them Count Garcia Ordoñez, a prince of the
 blood, whom the Cid endeavoured vainly to persuade of the disloyalty of
 opposing their master's ally. In the battle which ensued under the walls
 of Seville, Abdallah and his auxiliaries were routed with great
 slaughter, the Cid returning to Burgos with many prisoners and a rich
 booty. There fresh proofs of his prowess only served to kindle against
-him the rancour of his enemies and the jealousy of the king. Garcia
+him the rancour of his enemies and the [[Jealousy|jealousy]] of the king. Garcia
 Ordoñez accused him to Alphonso of keeping back part of the tribute
 received from Seville, and the king took advantage of the Cid's absence
 on a raid against the Moors to banish him from Castile.
@@ -95,13 +95,13 @@ engaged upon his own, and being admitted almost to a share of their
 royal authority. He made more than one attempt to be reconciled with
 Alphonso, but, his overtures being rejected, he turned his arms against
 the enemies of the Beni Houd, extending their dominions at the expense
-of the Christian states of Aragon and Barcelona, and harrying even the
+of the Christian states of [[Aragon]] and Barcelona, and harrying even the
 border lands of Castile. Among the enterprises of the Cid the most
 famous was that against Valencia, then the richest and most flourishing
 city of the peninsula, and an object of cupidity to both Christian and
 Moslem. The Cid appeared before the place at the head of an army of 7000
 men, for the greater part Mahommedans. In vain did the Valencians
-implore succour from the emir of Cordova, and from their co-religionists
+implore succour from the emir of [[Cordova]], and from their co-religionists
 in other parts of the peninsula. In defiance of an army which marched to
 the relief of the beleaguered city under Yusef the Almoravide, the Cid
 took Valencia after a siege of nine months, on the 15th of June
@@ -121,10 +121,10 @@ longer against the Moors, but was at last compelled to evacuate the
 city, taking with her the body of the Cid to be buried in the monastery
 of San Pedro at Cardeña, in the neighbourhood of Burgos. Here, in the
 centre of a small chapel, surrounded by his chief companions-in-arms, by
-Alvar Fanez Minaya, Pero Bermudez, Martin Antolinez and Pelaez the
+Alvar Fanez Minaya, Pero [[Bermudez]], Martin Antolinez and Pelaez the
 Asturian, were placed the remains of the mighty warrior, the truest of
 Spanish heroes, the embodiment of all the national virtues and most of
-the national vices. The bones have since been removed to the town hall
+the national vices. The [[Bone|bones]] have since been removed to the town hall
 of Burgos. Philip II. tried to get him canonized, but Rome objected, and
 not without reason.
 
@@ -139,7 +139,7 @@ _guerrilleros_--the perfect type of that sort of warrior in which, from
 the days of Viriathus to those of Juan Diaz, El Empecinado, the soil of
 Spain has been most productive.
 
-The Cid of romance, the Cid of a thousand battles, legends and dramas,
+The Cid of romance, the Cid of a thousand battles, legends and [[Drama|dramas]],
 the Cid as apotheosized in literature, the Cid invoked by good Spaniards
 in every national crisis, whose name is a perpetual and ever-present
 inspiration to Spanish patriotism, is a very different character from
@@ -187,7 +187,7 @@ poetical versions of the leading episodes in the hero's life as
 contained in the _Chronicle_, that _Chronicle_ itself having been
 doubtless composed out of still earlier legends as sung by the wandering
 _juglares_, or pure inventions of a later time, owing their inspiration
-to the romances of chivalry. In these last the ballad-mongers, not to
+to the romances of [[Chivalry|chivalry]]. In these last the ballad-mongers, not to
 let their native hero be outdone by the Amadises, the Esplandians, and
 the Felixmartes, engage him in the most extravagant adventures--making
 war upon the king of France and upon the emperor, receiving embassies
@@ -210,11 +210,11 @@ popularity of the national hero in his native land.
   from tradition; the _Cronica del Cid_, first published in 1512, by
   Juan de Velorado, abbot of the monastery of San Pedro at Cardeña,
   which is a compilation from the last, interlarded with new fictions
-  due to the piety of the compiler; lastly, various Arabic manuscripts,
+  due to the piety of the compiler; lastly, various Arabic [[Manuscript|manuscripts]],
   some of contemporary date, which are examined and their claims weighed
   in the second volume of Professor Dozy's _Recherches sur l'histoire
   politique et littéraire de l'Espagne pendant le moyen âge_ (Leiden,
-  1849). Huber, Müller, and Ferdinand Wolf are among the leading
+  1849). [[Huber]], Müller, and Ferdinand Wolf are among the leading
   authorities in the history and literature of the Cid. M. Damas Hinard
   has published the poem, with a literal French translation and notes,
   and John Hookham Frere has rendered it into English with extraordinary

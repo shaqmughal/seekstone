@@ -5,7 +5,7 @@ KLIPSPRINGER, the Boer name of a small African mountain-antelope
 Somaliland and Abyssinia, and characterized by its blunt rounded hoofs,
 thick pithy hair and gold-spangled colouring. The klipspringer
 represents a genus by itself, the various local forms not being worthy
-of more than racial distinction. The activity of these antelopes is
+of more than racial distinction. The activity of these [[Antelope|antelopes]] is
 marvellous.
 
 ## See also

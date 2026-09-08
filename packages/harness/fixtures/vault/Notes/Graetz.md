@@ -42,14 +42,14 @@ Z. Frankel. Graetz passed the remainder of his life in this office; in
 1869 he was created professor by the government, and also lectured at
 the Breslau University. Graetz attained considerable repute as a
 biblical critic. He was the author of many bold conjectures as to the
-date of Ruth, Ecclesiastes, Esther and other biblical books. His
+date of Ruth, [[Ecclesiastes]], Esther and other biblical books. His
 critical edition of the Psalms (1882-1883) was his chief contribution to
 biblical exegesis, but after his death Professor Bacher edited Graetz's
 _Emendationes_ to many parts of the Hebrew scriptures.
 
   A full bibliography of Graetz's works is given in the _Jewish
   Quarterly Review_, iv. 194; a memoir of Graetz is also to be found
-  there. Another full memoir was prefixed to the "index" volume of the
+  there. Another full memoir was prefixed to the "[[Index|index]]" volume of the
   _History_ in the American re-issue of the English translation in six
   volumes (Philadelphia, 1898).     (I. A.)
 

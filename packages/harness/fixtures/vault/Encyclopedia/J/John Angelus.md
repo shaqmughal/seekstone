@@ -12,10 +12,10 @@ re-established his authority, but owing to his loss of eyesight resolved
 to make John the nominal sovereign. His reign is chiefly marked by the
 aggressions of the rival emperor of Nicaea, John Vatatzes, who laid
 siege to Thessalonica in 1243 and only withdrew upon John Angelus
-consenting to exchange the title "emperor" for the subordinate one of
-"despot."
+consenting to [[Exchange|exchange]] the title "emperor" for the subordinate one of
+"[[Despot|despot]]."
 
-  See G. Finlay, _History of Greece_, vol. iii. (1877).
+  See G. [[Finlay]], _History of Greece_, vol. iii. (1877).
 
 ## See also
 

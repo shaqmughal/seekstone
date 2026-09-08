@@ -1,6 +1,6 @@
 # Clervaux
 
-CLERVAUX (_clara vallis_), a town in the northern province of Oesling,
+CLERVAUX (_[[Clara|clara]] vallis_), a town in the northern province of Oesling,
 grand-duchy of Luxemburg, on the Clerf, a tributary of the Sûre. Pop.
 (1905) 866. In old days it was the fief of the de Lannoy family, and the
 present proprietor is the bearer of a name not less well known in

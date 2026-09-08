@@ -11,16 +11,16 @@ hereditary revenues of which were surrendered to parliament in the reign
 of George III.
 
 In Anglo-Saxon times the property of the king consisted of (a) his
-private estate, (b) the demesne of the crown, comprising palaces, &c.,
+private estate, (b) the [[Demesne|demesne]] of the crown, comprising palaces, &c.,
 and (c) rights over the folkland of the kingdom. By the time of the
 Norman Conquest the three became merged into the estate of the crown,
 that is, land annexed to the crown, held by the king as king. The king,
 also, ceased to hold as a private owner,[1] but he had full power of
 disposal by grant of the crown lands, which were increased from time to
-time by confiscation, escheat, forfeiture, &c. The history of the crown
+time by confiscation, escheat, [[Forfeiture|forfeiture]], &c. The history of the crown
 lands to the reign of William III. was one of continuous alienation to
 favourites. Their wholesale distribution by William III. necessitated
-the intervention of parliament, and in the reign of Queen Anne an act
+the intervention of parliament, and in the reign of Queen [[Anne]] an act
 was passed limiting the right of alienation of crown lands to a period
 of not more than thirty-one years or three lives. The revenue from the
 crown lands was also made to constitute part of the civil list. At the
@@ -40,8 +40,8 @@ various provinces into which that country is divided. (See AUSTRIA.)
 
 FOOTNOTE:
 
-  [1] The duchy of Lancaster, which was the private property of Henry
-    IV. before he ascended the throne, was assured to him and his heirs
+  [1] The duchy of [[Lancaster]], which was the private property of Henry
+    IV. before he ascended the throne, was assured to him and his [[Heir|heirs]]
     by a special act of parliament. In the first year of Henry VII. it
     was united to the crown, but as a separate property.
 

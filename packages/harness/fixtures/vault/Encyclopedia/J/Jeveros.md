@@ -8,7 +8,7 @@ type: source
 # Jeveros
 
 JEVEROS (JEBEROS, JIBAROS, JIVAROS or GIVAROS), a tribe of South
-American Indians on the upper Marañon, Peru, where they wander in the
+American Indians on the upper [[Mara]]ñon, Peru, where they wander in the
 forests. The tribe has many branches and there are frequent tribal wars,
 but they have always united against a common enemy. Juan de Velasco
 declares them to be faithful, noble and amiable. They are brave and

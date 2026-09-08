@@ -33,12 +33,12 @@ the foundation of the subsequent enmity between the two leaders.
 
 By this time Marius was generally recognized as the ablest general of
 the day, and was appointed to the chief command against the Cimbri and
-Teutones. Two Roman armies had been destroyed near the Lake of Geneva,
+Teutones. Two Roman armies had been destroyed near the Lake of [[Geneva]],
 and it seemed as if a repetition of the disaster of the Allia and the
 capture of Rome itself might not be impossible. Marius, out of
 unpromising materials and a demoralized soldiery, organized a
 well-disciplined army, with which he inflicted on the invaders two
-decisive defeats, the first in 102 at Aquae Sextiae (_Aix_), 18 m. north
+decisive defeats, the first in 102 at [[Aquae]] Sextiae (_Aix_), 18 m. north
 of Marseilles, and the second in the following year on the Raudian plain
 near Vercellae (_Vercelli_), about midway between Turin and Milan. For
 some centuries afterwards Rome remained unmolested by northern
@@ -63,7 +63,7 @@ chief command, which was eagerly desired by Marius. This led to a
 rupture. With the assistance of the tribune Sulpicius Rufus, Marius
 succeeded in getting the command transferred to himself. Sulla marched
 upon Rome and defeated Marius, who fled to the marshes of Minturnae in
-Latium. He was discovered and taken prisoner; and the local magistrates,
+[[Latium]]. He was discovered and taken prisoner; and the local [[Magistrate|magistrates]],
 in accordance with Sulla's proclamation, resolved to put him to death.
 The Gallic trooper sent to strike off the old man's head quailed, it is
 said, before the fire of his eyes, and fled exclaiming, "I cannot kill
@@ -78,13 +78,13 @@ leaders, and Marius greedily caught at the opportunity of a bloody
 vengeance, which became in fact a reign of terror in which senators and
 nobles were slaughtered wholesale. He had himself elected consul for the
 seventh time, in fulfilment of a prophecy given to him in early manhood.
-Less than three weeks afterwards he died of fever, on the 13th of
+Less than three weeks afterwards he died of [[Fever|fever]], on the 13th of
 January 86.
 
 Marius was not only a great general, but also a great military reformer.
 From his time a citizen militia was replaced by a professional soldiery,
 which had hitherto been little liked by the Roman people. He further
-made the cohort the military unit instead of the maniple, and his
+made the cohort the military unit instead of the [[Maniple|maniple]], and his
 cavalry and light-armed troops were drawn from foreign countries, so
 that it may be said that Marius was the originator of the mercenary
 army. The Roman soldier was henceforth a man who had no trade but war. A
@@ -105,8 +105,8 @@ to his taste.
   For the life of Marius the original sources are numerous passages in
   Cicero's works, Sallust's _Jugurtha_, the epitomes of the lost books
   of Livy, Plutarch's _Lives_ of Sulla and Marius, Velleius Paterculus,
-  Florus and Appian's _Bellum civite_. See F. D. Gerlach, _Marius und
-  Sulla_ (Basel, 1856); I. Gilles, _Campagne de Marius dans la Gaule_
+  [[Florus]] and Appian's _Bellum civite_. See F. D. Gerlach, _Marius und
+  Sulla_ (Basel, 1856); I. [[Gill|Gilles]], _Campagne de Marius dans la Gaule_
   (1870); W. Votsch, _Marius als Reformator des römischen Heerwesens_
   (with notes and references to ancient authorities, 1886); A. H. J.
   Greenidge, _History of Rome_, vol. i. (1904); also ROME: _History_,

@@ -1,8 +1,8 @@
 # Hayley
 
 HAYLEY, WILLIAM (1745-1820), English writer, the friend and biographer
-of William Cowper, was born at Chichester on the 9th of November 1745.
-He was sent to Eton in 1757, and to Trinity Hall, Cambridge, in 1763;
+of William Cowper, was born at [[Chichester]] on the 9th of November 1745.
+He was sent to [[Eton]] in 1757, and to Trinity Hall, Cambridge, in 1763;
 his connexion with the Middle Temple, London, where he was admitted in
 1766, was merely nominal. In 1767 he left Cambridge and went to live in
 London. Two years later he married Eliza, daughter of Thomas Ball, dean
@@ -11,15 +11,15 @@ patrimonial estate at Eartham, Sussex, and he retired there in 1774. He
 had already written many occasional poetical pieces, when in 1771 his
 tragedy, _The Afflicted Father_, was rejected by David Garrick. In the
 same year his translation of Pierre Corneille's _Rodogune as The Syrian
-Queen_ was also declined by George Colman. Hayley won the fame he
+Queen_ was also declined by George [[Colman]]. Hayley won the fame he
 enjoyed amongst his contemporaries by his poetical _Essays and
-Epistles_; a _Poetical Epistle to an Eminent Painter_ (1780), addressed
+[[Epistle|Epistles]]_; a _Poetical Epistle to an Eminent Painter_ (1780), addressed
 to his friend George Romney, an _Essay on History_ (1780), in three
 epistles, addressed to Edward Gibbon; _Essay on Epic Poetry_ (1782)
 addressed to William Mason; _A Philosophical Essay on Old Maids_ (1785);
 and the _Triumphs of Temper_ (1781). The last mentioned work was so
 popular as to run to twelve or fourteen editions; together with the
-_Triumphs of Music_ (Chichester, 1804) it was ridiculed by Byron in
+_Triumphs of Music_ (Chichester, 1804) it was ridiculed by [[Byron]] in
 _English Bards and Scotch Reviewers_. So great was Hayley's fame that on
 Thomas Warton's death in 1790 he was offered the laureateship, which he
 refused. In 1792, while writing the _Life of Milton_ (1794), Hayley made

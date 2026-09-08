@@ -1,13 +1,13 @@
 # Ashbourne
 
 ASHBOURNE, a market-town in the western parliamentary division of
-Derbyshire, England, 13 m. W.N.W. of Derby, on the London &
+Derbyshire, England, 13 m. W.N.W. of [[Derby]], on the London &
 North-Western and the North Staffordshire railways. Pop. of urban
 district (1901) 4039. It is pleasantly situated on rising ground between
-two small valleys opening into that of the Dove, and the most beautiful
+two small valleys opening into that of the [[Dove]], and the most beautiful
 scenery of Dovedale is not far distant. The church of St Oswald is
 cruciform, Early English and later; a fine building with a central tower
-and lofty octagonal spire. Its monuments and brasses are of much
+and lofty octagonal spire. Its monuments and [[Brasses|brasses]] are of much
 interest. The town has a large agricultural trade and a manufacture of
 corsets. The streams in the neighbourhood are in favour with trout
 fishermen. Ashbourne Hall, an ancient mansion, has associations with

@@ -12,9 +12,9 @@ notably woollen, cotton and jute spinning, jute weaving, and the
 manufacture of cotton and half-woollen fabrics. It has also dye-works,
 flour-mills, saw-mills, breweries, iron-works, and manufactures of
 machinery, iron and tin wares, chemicals and sugar. In the neighbourhood
-there are large marble quarries and extensive iron mines. Hof,
+there are large [[Marble|marble]] quarries and extensive iron mines. Hof,
 originally called Regnitzhof, was built about 1080. It was held for some
-time by the dukes of Meran, and was sold in 1373 to the burgraves of
+time by the [[Dukes|dukes]] of Meran, and was sold in 1373 to the burgraves of
 Nuremberg. The cloth manufacture introduced into it in the 15th century,
 and the manufacture of veils begun in the 16th century, greatly promoted
 its prosperity, but it suffered severely in the Albertine and Hussite

@@ -9,7 +9,7 @@ skirting the alluvial or carse lands in the valleys of the Forth and
 Devon. Still farther to the N. the Ochil hills form a picturesque
 feature in the landscape, having their generally verdant surface broken
 by bold projecting rocks and deeply indented ravines. The principal
-summits are within the limits of the shire, among them Ben Cleuch (2363
+summits are within the limits of the shire, among them [[Ben]] Cleuch (2363
 ft.), King's Seat (2111 ft.), Whitewisp (2110 ft.), the Law (above
 Tillicoultry, 2094 ft.) and Blairdenon (2072 ft.), on the northern
 slope, in which the river Devon takes its rise. The rivers of importance
@@ -23,7 +23,7 @@ nearly parallel to that of the Devon, and falls into the Forth near
 Clackmannan. It supplies motive power to numbers of mills and
 collieries; and its whole course is over coal strata. The Forth is
 navigable as far as it forms the boundary of the county, and ships of
-500 tons burden run up as far as Alloa. The only lake is Gartmorn, 1 m.
+500 tons [[Burden|burden]] run up as far as Alloa. The only lake is Gartmorn, 1 m.
 long by about 1/3 of a mile broad, which has been dammed in order to
 furnish water to Alloa and power to mills. The Ochils are noted for the
 number of their glens. Though these are mostly small, they are well
@@ -39,19 +39,19 @@ Dollar are particularly beautiful.
   andesites--with intercalations of tuff and agglomerate. As the rocks
   dip gently towards the north and form the highest ground in the county
   they must reach a great thickness. They are pierced by small intrusive
-  masses of diorite, north of Tillicoultry House. The well-marked
+  masses of [[Diorite|diorite]], north of Tillicoultry House. The well-marked
   feature running E. and W. along the southern base of the Ochils
-  indicates a line of fault or dislocation which abruptly truncates the
+  indicates a line of [[Fault|fault]] or dislocation which abruptly truncates the
   Lower Old Red volcanic rocks and brings down an important development
   of Carboniferous strata occupying the southern part of the county.
   These belong mainly to the Coal-measures and comprise a number of
   valuable coal-seams which have been extensively worked. The
   Clackmannan field is the northern continuation of the great
-  Lanarkshire basin which extends northwards by Slamannan, Falkirk and
+  Lanarkshire basin which extends northwards by Slamannan, [[Falkirk]] and
   the Carron Ironworks to Alloa. Along the eastern margin between
   Cairnmuir and Brucefield the underlying Millstone Grit, consisting
   mainly of false-bedded sandstones, comes to the surface. Close to the
-  river Devon south of Dollar the Vicars Bridge Limestone, which there
+  river Devon south of Dollar the Vicars Bridge [[Limestone]], which there
   marks the top of the Carboniferous Limestone series, rises from
   beneath the Millstone Grit. The structure of the Clackmannan field is
   interesting. The strata are arranged in synclinal form, the highest
@@ -59,7 +59,7 @@ Dollar are particularly beautiful.
   a series of parallel east and west faults each with a downthrow to the
   south, whereby the coals are repeated and the field extended. During
   mining operations evidence has been obtained of the existence of a
-  buried river-channel, filled with boulder clay and stratified deposits
+  buried river-channel, filled with [[Boulder Clay|boulder clay]] and stratified deposits
   along the course of the Devon, which extends below the present
   sea-level and points to greater elevation of the land in pre-glacial
   time. An excellent example of a dolerite dyke trending slightly north
@@ -75,9 +75,9 @@ profitably grown. Sheep-farming is successfully pursued, the Ochils
 affording excellent pasturage, and cattle, pigs and horses are also
 raised. There is a small tract of moorland in the east, called the
 Forest, bounded on its northern margin by the Black Devon. Iron-ore
-(haematite), copper, silver, lead, cobalt and arsenic have all been
+([[Haematite|haematite]]), copper, silver, lead, [[Cobalt|cobalt]] and [[Arsenic|arsenic]] have all been
 discovered in small quantity in the Ochils, between Alva and Dollar.
-Ironstone--found either in beds, or in oblate balls embedded in slaty
+Ironstone--found either in beds, or in oblate [[Ball|balls]] embedded in slaty
 clay, and yielded from 25 to 30% of iron--is mined for the Devon
 iron-works, near Clackmannan. Coal has been mined for a long period. The
 strata which compose the field are varieties of sandstone, shale,
@@ -110,7 +110,7 @@ well-known academy at Dollar.
   See James Wallace, _The Sheriffdom of Clackmannan: a Sketch of its
   History_ (Edinburgh, 1890); D. Beveridge, _Between the Ochils and the
   Forth_ (Edinburgh, 1888); John Crawford, _Memorials of Alloa_ (1885);
-  William Gibson, _Reminiscences of Dollar, Tillicoultry_,
+  William [[Gibson]], _Reminiscences of Dollar, Tillicoultry_,
 
 ## See also
 

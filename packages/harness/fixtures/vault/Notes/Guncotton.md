@@ -1,7 +1,7 @@
 # Guncotton
 
 GUNCOTTON, an explosive substance produced by the action of strong
-nitric acid on cellulose at the ordinary temperature; chemically it is a
+nitric acid on [[Cellulose|cellulose]] at the ordinary temperature; chemically it is a
 nitrate of cellulose, or a mixture of nitrates, according to some
 authorities. The first step in the history of guncotton was made by T.
 J. Pelouze in 1838, who observed that when paper or cotton was immersed
@@ -10,16 +10,16 @@ physical appearance, became heavier, and after washing and drying were
 possessed of self-explosive properties. At the time these products were
 thought to be related to the nitrated starch obtained a little
 previously by Henri Braconnot and called _xyloidin_; they are only
-related in so far as they are nitrates. C. F. Schonbein of Basel
+related in so far as they are nitrates. C. F. Schonbein of [[Basel]]
 published his discovery of guncotton in 1846 (_Phil. Mag._ [3], 31, p.
 7), and this was shortly after followed by investigations by R. R.
-Bottger of Frankfort and Otto and Knop, all of whom added to our
+Bottger of [[Frankfort]] and Otto and Knop, all of whom added to our
 knowledge of the subject, the last-named introducing the use of
 sulphuric along with nitric acid in the nitration process. The chemical
 composition and constitution of guncotton has been studied by a
 considerable number of chemists and many divergent views have been put
 forward on the subject. W. Crum was probably the first to recognize that
-some hydrogen atoms of the cellulose had been replaced by an oxide of
+some hydrogen [[Atom|atoms]] of the cellulose had been replaced by an oxide of
 nitrogen, and this view was supported more or less by other workers,
 especially Hadow, who appears to have distinctly recognized that at
 least three compounds were present, the most violently explosive of
@@ -28,7 +28,7 @@ known as guncotton. This particular product was insoluble in a mixture
 of ether and alcohol, and its composition could be expressed by the term
 tri-nitrocellulose. Other products were soluble in the ether-alcohol
 mixture: they were less highly nitrated, and constituted the so-called
-collodion guncotton.
+[[Collodion|collodion]] guncotton.
 
 The smallest empirical formula for cellulose (q.v.) may certainly be
 written C6H10O5. How much of the hydrogen and oxygen are in the
@@ -46,7 +46,7 @@ nitrates are also very insoluble substances, all the so-called solvents
 merely converting them into jelly. No method has yet been devised by
 which the molecular weight can be ascertained.[1] The products of the
 action of nitric acid on cellulose are not nitro compounds in the sense
-that picric acid is, but are nitrates or nitric esters.
+that picric acid is, but are nitrates or nitric [[Esters|esters]].
 
 Guncotton is made by immersing cleaned and dried cotton waste in a
 mixture of strong nitric and sulphuric acids. The relative amounts of
@@ -86,7 +86,7 @@ retained by the guncotton. The idea is that any traces of acid not
 washed away by the washing process or produced later by a slow
 decomposition of the substance will be thereby neutralized and rendered
 harmless. Guncotton in an air-dry state, whether in the original form or
-after grinding to pulp and compressing, burns with very great rapidity
+after grinding to pulp and compressing, [[Burns|burns]] with very great rapidity
 but does not detonate unless confined.
 
 Immediately after the discovery of guncotton Schonbein proposed its
@@ -97,18 +97,18 @@ utilize it, either loose or mechanically compressed in any way, signally
 failed. However much compressed by mechanical means it is still a porous
 mass, and when it is confined as in a gun the flame and hot gases from
 the portion first ignited permeate the remainder, generally causing it
-actually to detonate, or to burn so rapidly that its action approaches
+actually to detonate, or to [[Burn|burn]] so rapidly that its action approaches
 detonation. The more closely it is confined the greater is the pressure
 set up by a small part of the charge burning, and the more completely
 will the explosion of the remainder assume the detonating form. The
 employment of guncotton as a propellant was possible only after the
 discovery that it could be gelatinized or made into a colloid by the
 action of so-called solvents, e.g. ethylacetate and other esters,
-acetone and a number of like substances (see CORDITE).
+acetone and a number of like substances (see [[Cordite|CORDITE]]).
 
-  When quite dry guncotton is easily detonated by a blow on an anvil or
+  When quite dry guncotton is easily detonated by a blow on an [[Anvil|anvil]] or
   hard surface. If dry and warm it is much more sensitive to percussion
-  or friction, and also becomes electrified by friction under those
+  or [[Friction|friction]], and also becomes electrified by friction under those
   conditions. The amount of contained moisture exerts a considerable
   effect on its sensitiveness. With about 2% of moisture it can still be
   detonated on an anvil, but the action is generally confined to the
@@ -140,7 +140,7 @@ acetone and a number of like substances (see CORDITE).
   deg. lower.
 
   Assuming the above formula to represent guncotton, there is sufficient
-  oxygen for internal combustion without any carbon being left. The
+  oxygen for internal [[Combustion|combustion]] without any [[Carbon|carbon]] being left. The
   gaseous mixture obtained by burning guncotton in a vacuum vessel
   contains steam, carbon monoxide, carbon dioxide, nitrogen, nitric
   oxide, and methane. When slowly heated in a vacuum vessel until

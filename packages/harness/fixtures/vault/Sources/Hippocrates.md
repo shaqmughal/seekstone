@@ -5,16 +5,16 @@ Medicine," was born, according to Soranus, in Cos, in the first year of
 the 80th Olympiad, i.e. in 460 B.C. He was a member of the family of the
 Asclepiadae, and was believed to be either the nineteenth or seventeenth
 in direct descent from Aesculapius. It is also claimed for him that he
-was descended from Hercules through his mother, Phaenarete. He studied
+was descended from [[Hercules]] through his mother, Phaenarete. He studied
 medicine under Heraclides, his father, and Herodicus of Selymbria; in
-philosophy Gorgias of Leontini and Democritus of Abdera were his
+philosophy [[Gorgias]] of Leontini and Democritus of Abdera were his
 masters. His earlier studies were prosecuted in the famous Asclepion of
 Cos, and probably also at Cnidos. He travelled extensively, and taught
 and practised his profession at Athens, probably also in Thrace,
 Thessaly, Delos and his native island. He died at Larissa in Thessaly,
 his age being variously stated as 85, 90, 104 and 109. The incidents of
 his life are shrouded by uncertain traditions, which naturally sprang up
-in the absence of any authentic record; the earliest biography was by
+in the absence of any [[Authentic|authentic]] record; the earliest biography was by
 one of the Sorani, probably Soranus the younger of Ephesus, in the 2nd
 century; Suidas, the lexicographer, wrote of him in the 11th, and
 Tzetzes in the 12th century. In all these biographies there is internal
@@ -28,7 +28,7 @@ that he refused to visit Persia at the request of Artaxerxes Longimanus,
 during a pestilential epidemic, on the ground that he would in so doing
 be assisting an enemy. He is referred to by Plato (_Protag._ p. 283;
 _Phaedr._ p. 211) as an eminent medical authority, and his opinion is
-also quoted by Aristotle. The veneration in which he was held by the
+also quoted by [[Aristotle]]. The veneration in which he was held by the
 Athenians serves to dissipate the calumnies which have been thrown on
 his character by Andreas, and the whole tone of his writings bespeaks a
 man of the highest integrity and purest morality.
@@ -40,13 +40,13 @@ philosophy. It is impossible to trace directly the influence exercised
 upon him by the great men of his time, but one cannot fail to connect
 his emancipation of medicine from superstition with the widespread power
 exercised over Greek life and thought by the living work of Socrates,
-Plato, Aeschylus, Sophocles, Euripides, Herodotus and Thucydides. It was
+Plato, Aeschylus, Sophocles, [[Euripides]], Herodotus and Thucydides. It was
 a period of great intellectual development, and it only needed a
 powerful mind such as his to bring to bear upon medicine the same
 influences which were at work in other sciences. It must be remembered
 that his training was not altogether bad, although superstition entered
 so largely into it. He had a great master in Democritus, the originator
-of the doctrine of atoms, and there is every reason to believe that the
+of the doctrine of [[Atom|atoms]], and there is every reason to believe that the
 various "asclepia" were very carefully conducted hospitals for the sick,
 possessing a curious system of case-books, in the form of votive
 tablets, left by the patients, on which were recorded the symptoms,
@@ -55,7 +55,7 @@ and he had the opportunity of observing the system of training and the
 treatment of injuries in the gymnasia. One of his great merits is that
 he was the first to dissociate medicine from priest-craft, and to direct
 exclusive attention to the natural history of disease. How strongly his
-mind revolted against the use of charms, amulets, incantations and such
+mind revolted against the use of [[Charm|charms]], amulets, [[Incantation|incantations]] and such
 devices appears from his writings; and he has expressly recorded, as
 underlying all his practice, the conviction that, however diseases may
 be regarded from the religious point of view, they must all be
@@ -64,7 +64,7 @@ was he anxious to maintain the connexion between philosophy and medicine
 which had for long existed in a confused and confusing fashion.[1] His
 knowledge of anatomy, physiology and pathology was necessarily
 defective, the respect in which the dead body was held by the Greeks
-precluding him from practising dissection; thus we find him writing of
+precluding him from practising [[Dissection|dissection]]; thus we find him writing of
 the tissues without distinguishing between the various textures of the
 body, confusing arteries, veins and nerves, and speaking vaguely of the
 muscles as "flesh." But when we come to study his observations on the
@@ -76,7 +76,7 @@ physis], the _vis medicatrix naturae_, in the management of which the
 art of the physician consisted. This art could, he held, be only
 obtained by the application of experience, not only to disease at large,
 but to disease in the individual. He strongly deprecated blind
-empiricism; the aphorism "[Greek: he peira sphalere, he krisis chalepe]"
+empiricism; the [[Aphorism|aphorism]] "[Greek: he peira sphalere, he krisis chalepe]"
 (whether it be his or not), tersely illustrates his position. Holding
 firmly to the principle, [Greek: nouson physies ietroi], he did not
 allow himself to remain inactive in the presence of disease; he was not
@@ -95,7 +95,7 @@ acuteness of observation in the manner in which the occurrence of
 critical days in disease is enunciated. His method of reporting cases is
 most interesting and instructive; in them we can read how thoroughly he
 had separated himself from the priest-physician. Laennec, to whom we are
-indebted for the practice of auscultation, freely admits that the idea
+indebted for the practice of [[Auscultation|auscultation]], freely admits that the idea
 was suggested to him by study of Hippocrates, who, treating of the
 presence of morbid fluids in the thorax, gives very particular
 directions, by means of succussion, for arriving at an opinion
@@ -133,7 +133,7 @@ later times.
   treatment based on vague abstractions." The treatises have been
   grouped in the four following sections: (1) genuine; (2) those
   consisting of notes taken by students and collected after the death of
-  Hippocrates; (3) essays by disciples; (4) those utterly spurious.
+  Hippocrates; (3) essays by [[Disciple|disciples]]; (4) those utterly spurious.
   Littre accepts the following thirteen as absolutely genuine: (1) _On
   Ancient Medicine_ ([Greek: Peri archaies ietrikes]); (2) _The
   Prognostics_ ([Greek: Prognostikon]); (3) _The Aphorisms_ ([Greek:
@@ -155,7 +155,7 @@ later times.
   Disease_ ([Greek: Peri hieres nousou]). According to the sceptical and
   somewhat subjective criticism of Ermerins, the whole collection is to
   be regarded as spurious except _Epidemics_, books i. and iii. (with a
-  few interpolations), _On Airs, Waters, and Places_, _On Injuries of
+  few [[Interpolation|interpolations]]), _On Airs, Waters, and Places_, _On Injuries of
   the Head_ ("insigne fragmentum libri Hippocratei"), the former portion
   of the treatise _On Regimen in Acute Diseases_, and the "obviously
   Hippocratic" fragments of the _Coan Prognostics_. Perhaps also the
@@ -166,10 +166,10 @@ later times.
   and some of them very late.
 
   The earliest Greek edition of the Hippocratic writings is that which
-  was published by Aldus and Asulanus at Venice in 1526 (folio); it was
+  was published by Aldus and Asulanus at Venice in 1526 ([[Folio|folio]]); it was
   speedily followed by that of Frobenius, which is much more accurate
-  and complete (fol., Basel, 1538). Of the numerous subsequent editions,
-  probably the best was that of Foesius (Frankfort, 1595, 1621, Geneva,
+  and complete (fol., [[Basel]], 1538). Of the numerous subsequent editions,
+  probably the best was that of Foesius ([[Frankfort]], 1595, 1621, [[Geneva]],
   1657), until the publication of the great works of Littre, _Oeuvres
   completes d'Hippocrate, traduction nouvelle avec le texte grec en
   regard, collationnee sur les manuscrits et toutes les editions,
@@ -189,15 +189,15 @@ later times.
   professedly by Hippocrates (Ibukrat or Bukrat), the number of which
   greatly exceeds that of the extant Greek originals, reference may be
   made to Flugel's contribution to the article "Hippokrates" in the
-  _Encyklopadie_ of Ersch and Gruber. They have been partially
-  catalogued by Fabricius in his _Bibliotheca Graeca_.     (J. B. T.)
+  _Encyklopadie_ of Ersch and [[Gruber]]. They have been partially
+  catalogued by [[Fabricius]] in his _Bibliotheca Graeca_.     (J. B. T.)
 
 
 FOOTNOTE:
 
   [1] "Hippocrates Cous, primus quidem ex omnibus memoria dignus, ab
     studio sapientiae disciplinam hanc separavit, vir et arte et facundia
-    insignis" (Celsus, _De medicina_).
+    insignis" ([[Celsus]], _De medicina_).
 
 ## See also
 

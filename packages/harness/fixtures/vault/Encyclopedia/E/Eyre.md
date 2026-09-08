@@ -12,16 +12,16 @@ Yorkshire clergyman, was born on the 5th of August 1815. He was intended
 for the army, but delays having arisen in producing a commission, he
 went out to New South Wales, where he engaged in the difficult but very
 necessary undertaking of transporting stock westward to the new colony
-of South Australia, then in great distress, and where he became
-magistrate and protector of the aborigines, whose interests he warmly
+of South [[Australia]], then in great distress, and where he became
+[[Magistrate|magistrate]] and protector of the aborigines, whose interests he warmly
 advocated. Already experienced as an Australian traveller, he undertook
-the most extensive and difficult journeys in the desert country north
+the most extensive and difficult journeys in the [[Desert|desert]] country north
 and west of Adelaide, and after encountering the greatest hardships,
 proved the possibility of land communication between South and West
 Australia. In 1845 he returned to England and published the narrative of
 his travels. In 1846 he was appointed lieutenant-governor of New
 Zealand, where he served under Sir George Grey. After successively
-governing St Vincent and Antigua, he was in 1862 appointed
+governing St Vincent and [[Antigua]], he was in 1862 appointed
 acting-governor of Jamaica and in 1864 governor. In October 1865 a negro
 insurrection broke out and was repressed with laudable vigour, but the
 unquestionable severity and alleged illegality of Eyre's subsequent

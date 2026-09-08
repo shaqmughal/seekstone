@@ -20,7 +20,7 @@ grammar school is of interest as the place where John Tillotson
 is a place of great antiquity, and many Roman coins have been found on
 the site. As early as the 14th century it was the seat of a woollen
 manufacture; but its principal manufactures now are cottons, printed
-calicoes and muslin. In the neighbourhood are several limestone and
+calicoes and muslin. In the neighbourhood are several [[Limestone|limestone]] and
 slate quarries. The town was incorporated in 1895, and the corporation
 consists of a mayor, 6 aldermen and 18 councillors. Area, 5063 acres.
 

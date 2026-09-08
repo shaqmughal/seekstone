@@ -36,7 +36,7 @@ work. _L'Aventuriere_ (1848), the first of Augier's important works,
 already shows a deviation from romantic models; and in the _Mariage
 d'Olympe_ (1855) the courtesan is shown as she is, not glorified as in
 Dumas's _Dame aux Camelias_. In _Gabrielle_ (1849) the husband, not the
-lover, is the sympathetic, poetic character. In the _Lionnes pauvres_
+lover, is the sympathetic, poetic character. In the _[[Lionne|Lionnes]] pauvres_
 (1858) the wife who sells her favours comes under the lash. Greed of
 gold, social demoralization, ultramontanism, lust of power, these are
 satirized in _Les Effrontes_ (1861), _Le Fils de Giboyer_ (1862),
@@ -44,9 +44,9 @@ _Contagion_, first announced under the title of _Le Baron d'Estrigaud_
 (1866), _Lions et renards_ (1869)--which, with _Le Gendre de M. Poirier_
 (1854), written in collaboration with Jules Sandeau, reach the
 high-water mark of Augier's art; in _Philiberte_ (1853) he produced a
-graceful and delicate drawing-room comedy; and in _Jean de Thommeray_,
+graceful and delicate [[Drawing-Room|drawing-room]] comedy; and in _Jean de Thommeray_,
 acted in 1873 after the great reverses of 1870, the regenerating note of
-patriotism rings high and clear. His last two dramas, _Madame Caverlet_
+patriotism rings high and clear. His last two [[Drama|dramas]], _Madame Caverlet_
 (1876) and _Les Fourchambault_ (1879), are problem plays. But it would
 be unfair to suggest that Emile Augier was a preacher only. He was a
 moralist in the great sense, the sense in which the term can be applied

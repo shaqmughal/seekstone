@@ -3,7 +3,7 @@
 CARIBBEE ISLANDS, a name chiefly of historical importance, sometimes
 applied to the whole of the West Indies, but strictly comprehending only
 the chain of islands stretching from Porto Rico to the coast of South
-America. These are also known as the Lesser Antilles, and the bulk of
+America. These are also known as the Lesser [[Antilles]], and the bulk of
 them are divided into the two groups of the Leeward and Windward
 Islands.
 

@@ -1,7 +1,7 @@
 # Lingayen
 
 LINGAYEN, a town and the capital of the province of Pangasinán, Luzon,
-Philippine Islands, about 110 m. N. by W. of Manila, on the S. shore of
+Philippine Islands, about 110 m. N. by W. of [[Manila]], on the S. shore of
 the Gulf of Lingayen, and on a low and fertile island in the delta of
 the Agno river. Pop. (1903) 21,529. It has good government buildings, a
 fine church and plaza, the provincial high school and a girls' school

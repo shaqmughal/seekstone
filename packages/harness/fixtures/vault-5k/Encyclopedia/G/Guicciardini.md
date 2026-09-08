@@ -16,7 +16,7 @@ autobiografici e di famiglia_ (_Op. ined._ vol. x.). After the usual
 education of a boy in grammar and elementary classical studies, his
 father, Piero, sent him to the universities of Ferrara and Padua, where
 he stayed until the year 1505. The death of an uncle, who had occupied
-the see of Cortona with great pomp, induced the young Guicciardini to
+the see of [[Cortona]] with great pomp, induced the young Guicciardini to
 hanker after an ecclesiastical career. He already saw the scarlet of a
 cardinal awaiting him, and to this eminence he would assuredly have
 risen. His father, however, checked this ambition, declaring that,
@@ -30,10 +30,10 @@ daughter of Alamanno Salviati, prompted, as he frankly tells us, by the
 political support which an alliance with that great family would bring
 him (ib. x. 71). He was then practising at the bar, where he won so much
 distinction that the Signoria, in 1512, entrusted him with an embassy to
-the court of Ferdinand the Catholic. Thus he entered on the real work of
+the court of [[Ferdinand]] the Catholic. Thus he entered on the real work of
 his life as a diplomatist and statesman. His conduct upon that legation
 was afterwards severely criticized; for his political antagonists
-accused him of betraying the true interests of the commonwealth, and
+accused him of betraying the true interests of the [[Commonwealth|commonwealth]], and
 using his influence for the restoration of the exiled house of Medici to
 power. His Spanish correspondence with the Signoria (_Op. ined._ vol.
 vi.) reveals the extraordinary power of observation and analysis which
@@ -50,11 +50,11 @@ minor potentates of Italy. Still the school was pregnant with
 instructions for so apt a pupil. Guicciardini issued from this first
 trial of his skill with an assured reputation for diplomatic ability, as
 that was understood in Italy. To unravel plots and weave counterplots;
-to meet treachery with fraud; to parry force with sleights of hand; to
-credit human nature with the basest motives, while the blackest crimes
-were contemplated with cold enthusiasm for their cleverness, was
+to meet treachery with [[Fraud|fraud]]; to parry force with sleights of hand; to
+[[Credit|credit]] human nature with the basest motives, while the blackest crimes
+were contemplated with cold [[Enthusiasm|enthusiasm]] for their cleverness, was
 reckoned then the height of political sagacity. Guicciardini could play
-the game to perfection. In 1515 Leo X. took him into service, and made
+the [[Game|game]] to perfection. In 1515 Leo X. took him into service, and made
 him governor of Reggio and Modena. In 1521 Parma was added to his rule,
 and in 1523 he was appointed viceregent of Romagna by Clement VII. These
 high offices rendered Guicciardini the virtual master of the papal
@@ -109,7 +109,7 @@ point; but it is only the recent publication of Guicciardini's private
 MSS. that has made us understand the force of their invectives. To plead
 loyalty or honest political conviction in defence of his Medicean
 partianship is now impossible, face to face with the opinions expressed
-in the _Ricordi politici_ and the _Storia Fiorentina_. Like Machiavelli,
+in the _Ricordi politici_ and the _Storia Fiorentina_. Like [[Machiavelli]],
 but on a lower level, Guicciardini was willing to "roll stones," or to
 do any dirty work for masters whom, in the depth of his soul, he
 detested and despised. After the murder of Duke Alessandro in 1537,
@@ -132,7 +132,7 @@ and in spite of these qualities, a man whose moral nature inspires a
 sentiment of liveliest repugnance. It is not merely that he was
 ambitious, cruel, revengeful and avaricious, for these vices have
 existed in men far less antipathetic than Guicciardini. Over and above
-those faults, which made him odious to his fellow-citizens, we trace in
+those [[Fault|faults]], which made him odious to his fellow-citizens, we trace in
 him a meanness that our century is less willing to condone. His
 phlegmatic and persistent egotism, his sacrifice of truth and honour to
 self-interest, his acquiescence in the worst conditions of the world, if
@@ -178,7 +178,7 @@ does not seem to be aware that he is writing a great historical tragedy.
 He takes as much pains in laying bare the trifling causes of a petty war
 with Pisa as in probing the deep-seated ulcer of the papacy. Nor is he
 capable of painting the events in which he took a part, in their
-totality as a drama. Whatever he touches, lies already dead on the
+totality as a [[Drama|drama]]. Whatever he touches, lies already dead on the
 dissecting table, and his skill is that of the analytical pathologist.
 Consequently, he fails to understand the essential magnitude of the
 task, or to appreciate the vital vigour of the forces contending in
@@ -192,7 +192,7 @@ philosophical historians which included Machiavelli, Segni, Pitti,
 Nardi, Varchi, Francesco Vettori and Donato Giannotti. Up to the year
 1857 the fame of Guicciardini as a writer, and the estimation of him as
 a man, depended almost entirely upon the _History of Italy_, and on a
-few ill-edited extracts from his aphorisms. At that date his
+few ill-edited extracts from his [[Aphorism|aphorisms]]. At that date his
 representatives, the counts Piero and Luigi Guicciardini, opened their
 family archives, and committed to Signor Giuseppe Canestrini the
 publication of his hitherto inedited MSS. in ten important volumes. The
@@ -213,7 +213,7 @@ _Storia Fiorentina_, an early work of the author, distinguished by its
 animation of style, brilliancy of portraiture, and liberality of
 judgment; and (4) the _Dialogo del reggimento di Firenze_, also in all
 probability an early work, in which the various forms of government
-suited to an Italian commonwealth are discussed with infinite subtlety,
+suited to an Italian commonwealth are discussed with [[Infinite|infinite]] subtlety,
 contrasted, and illustrated from the vicissitudes of Florence up to the
 year 1494. To these may be added a series of short essays, entitled
 _Discorsi politici_, composed during Guicciardini's Spanish legation. It

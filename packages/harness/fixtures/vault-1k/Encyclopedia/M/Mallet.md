@@ -26,7 +26,7 @@ Lord Bute a lucrative sinecure in 1760. He died on the 21st of April
 and inordinately vain. He was twice married; by his first wife he had a
 daughter, Dorothy, who married Pietro Paolo Celesia, a Genoese
 gentleman, and was the author of several poems and plays, notably
-_Almida_, produced by Garrick at Drury Lane in 1771.
+_Almida_, produced by Garrick at Drury [[Lane]] in 1771.
 
 Mallet's own works included several plays, some of which were produced
 by Garrick, who was Mallet's personal friend. _Eurydice_, a tragedy,

@@ -32,7 +32,7 @@ also largely grown. The former considerable fishing and coasting trade was
 ruined by the eruption of Krakatoa in 1883, a large stretch of coast line
 and the seaport towns of Charingin and Anjer being destroyed by the
 inundation. The prosperity of the residency was further affected by a
-cattle plague in 1879, followed by a fever epidemic which carried off
+cattle plague in 1879, followed by a [[Fever|fever]] epidemic which carried off
 50,000 people, and except in the rice season there is a considerable
 emigration of natives. Bantam contains five native regencies or territorial
 divisions, namely, Serang, Anjer, Pandeglang, Charingin, Lebak. The
@@ -41,7 +41,7 @@ Pandeglang, Menes and Rangkas Betug. The chief town, Serang, is situated 2½
 m. from Bantam Bay on the high road from Batavia. The port of Serang is
 Karangantu, on Bantam Bay, and close by is the old ruined town of Bantam,
 once the capital of the kingdom of Bantam, and before the foundation of
-Batavia the principal commercial port of the Dutch East India Company. The
+Batavia the principal commercial port of the Dutch [[East India Company]]. The
 ruins include the remains of the former pepper warehouses, the old factory,
 called Fort Speelwijk, belonging to the company, the fortified palace of
 the former sultans and a well-preserved mosque thought to have been built
@@ -57,7 +57,7 @@ comers; and for more than a century afterwards Bantam was one of the most
 important seats of commerce in the East Indies. In 1811 after Batavia had
 surrendered to the British, Bantam soon followed; but it was restored to
 the Dutch in 1814. Two years later, however, they removed their chief
-settlement to the more elevated station of Serang, or Ceram, 7 m. inland,
+settlement to the more elevated station of Serang, or [[Ceram]], 7 m. inland,
 and in 1817 the ruin of Bantam was hastened by a fire.
 
 For "Bantam" fowls see POULTRY.

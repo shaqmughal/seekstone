@@ -14,9 +14,9 @@ forms of speech of Southern India. Their territory, which also includes
 the northern half of Ceylon, extends northwards up to an irregular line
 drawn from a point on the Arabian Sea about 100 m. below Goa along the
 Western Ghats as far as Kolhapur, thence north-east through Hyderabad,
-and farther eastwards to the Bay of Bengal. Farther to the north we find
+and farther eastwards to the Bay of [[Bengal]]. Farther to the north we find
 Dravidian dialects spoken by small tribes in the Central Provinces and
-Chota Nagpur, and even up to the banks of the Ganges in the Rajmahal
+Chota Nagpur, and even up to the banks of the [[Ganges]] in the Rajmahal
 hills. A Dravidian dialect is, finally, spoken by the Br[=a]h[=u][=i]s
 of Baluchistan in the far north-west. The various Dravidian languages,
 with the number of speakers returned at the census of 1901, are as
@@ -24,7 +24,7 @@ follows:--
 
   Tamil             17,494,901
   Malay[=a]lam       6,022,131
-  Kanarese          10,368,515
+  [[Kanarese]]          10,368,515
   Tulu                 535,210
   Kodagu                39,191
   Toda                     805
@@ -51,22 +51,22 @@ longer a pure Dravidian form of speech.
 
 The Dravidian languages have for ages been restricted to the territory
 they occupy at the present day. Moreover, they are gradually losing
-ground in the north, where they meet with Aryan forms of speech. If we
-compare the caste tables and the language tables in the Indian census of
+ground in the north, where they meet with [[Aryan]] forms of speech. If we
+compare the [[Caste|caste]] tables and the language tables in the Indian census of
 1901 we find that only 1,125,479 out of the 2,286,913 G[=o]nds returned
 were stated to speak the Dravidian G[=o]nd[=i]. Similarly only 1505 out
 of 17,187 K[=o]l[=a]ms entered their language as K[=o]l[=a]m[=i]. Such
 tribes are gradually becoming Hinduized. Their language adopts an
 ever-increasing Aryan element till it is quite superseded by Aryan
 speech. In the north-eastern part of the Dravidian territory, to the
-east of Chanda and Bhandara, the usual state of affairs is that
+east of Chanda and [[Bhandara]], the usual state of affairs is that
 Dravidian dialects are spoken in the hills while Aryan forms of speech
 prevail in the plains. The Dravidian Kui thus stands out as an isolated
 island in the sea of Aryan speech.
 
 This process has been going on from time immemorial. The Dravidians were
 already settled in India when the Aryans arrived from the north-west.
-The fair Aryans were at once struck by their dark hue, and named them
+The fair Aryans were at once struck by their dark [[Hue|hue]], and named them
 accordingly _krisna tvac_, the black skin. In the course of time,
 however, the two races began to mix, and it is still possible to trace a
 Dravidian element in the Aryan languages of North India.
@@ -89,7 +89,7 @@ those prehistoric times when the Vedic hymns were composed, the
 prevailing type is the Aryan one. The same is the case in Rajputana.
 From the eastern frontier of the Punjab, on the other hand, and
 eastwards, a Dravidian element can be traced. This is the case in the
-valleys of the Ganges and the Jumna, where the Aryans only settled at a
+valleys of the Ganges and the [[Jumna]], where the Aryans only settled at a
 later period. Anthropologists also state that there is a Dravidian
 element in the population of western India, from Gujarat to Coorg.
 
@@ -111,7 +111,7 @@ a connexion with any other family of languages. Such attempts have been
 made with reference to the Munda family, the Tibeto-Burman languages,
 and the dialects spoken by the aborigines of the Australian continent.
 The arguments adduced have not, however, proved to be sufficient, and
-only the Australian hypothesis can still lay claim to some probability.
+only the Australian [[Hypothesis|hypothesis]] can still lay claim to some probability.
 Till it has been more closely tested we must therefore consider the
 Dravidian family as an isolated group of languages, with several
 characteristic features of its own.
@@ -139,10 +139,10 @@ characteristic features of its own.
   and in Tamil and Malay[=a]lam it has become a law, against any word
   being permitted to begin with a stopped voiced consonant (g, j, [d.],
   d, b), the corresponding voiceless sounds (k, c, t, [t.], p,
-  respectively) being substituted. In the middle of a word or compound,
+  respectively) being substituted. In the middle of a word or [[Compound|compound]],
   on the other hand, every consonant must be voiced. Thus the Sanskrit
   word _danta_, "tooth," has been borrowed by Tamil in the form
-  _tandam_, and the Telugu _anna_, "elder brother," _tammulu_, "younger
+  _tandam_, and the Telugu _[[Anna|anna]]_, "elder brother," _tammulu_, "younger
   brother," become when compounded _annadammulu_, "elder and younger
   brothers."
 
@@ -249,7 +249,7 @@ characteristic features of its own.
 
   BIBLIOGRAPHY.--Bishop R. Caldwell, _A Comparative Grammar of the
   Dravidian or South-Indian Family of Languages_ (London, 1856; 2nd
-  edition, 1875); Dr Friedrich Müller, _Reise der österreichischen
+  edition, 1875); Dr [[Friedrich]] Müller, _Reise der österreichischen
   Fregatte Novara um die Erde in den Jahren 1857, 1858, 1859, unter den
   Befehlen des Commodore B. von Wüllerstorff-Urbair: Linguistischer
   Theil._ (Wien, 1867, pp. 73 and ff.); Dr Friedrich Müller, _Grundriss

@@ -26,12 +26,12 @@ editorial titles to the anonymous prophecies beginning Zech. ix. 1, xii.
 The contents of the prophecy fall into a series of clearly marked
 sections, as in the paragraph division of the Revised Version. These
 apply, in various ways, the truth emphasized at the outset: Yahweh's
-love for Israel in contrast with his treatment of Edom (i. 2-5).
+love for Israel in contrast with his treatment of [[Edom]] (i. 2-5).
 Israel's response should be a proper regard for the ritual of His
 worship; yet any offering, however imperfect, is thought good enough for
 Yahweh's altar (i. 6-14). Let the priests, who are responsible, take
 warning, and return to their ancient ideals (ii. 1-9). Again, the common
-Fatherhood of God should inspire a right relation among fellow
+Fatherhood of God should inspire a right relation among [[Fellow|fellow]]
 Israelites, not such conduct as the divorce of Israelite wives in order
 to marry non-Israelite women (ii. 10-16).[2] The prevalence of
 wrong-doing has provoked scepticism as to righteous judgment; but the
@@ -43,10 +43,10 @@ in open judgment distinguish them from the irreligious (iii. 13-iv. 3).
 The book closes with an appeal to observe the law of Moses, and with a
 promise that Elijah shall come before the threatened judgment.[3]
 
-The topics noticed clearly relate the prophecy to the period of Ezra and
+The topics noticed clearly relate the prophecy to the period of [[Ezra]] and
 Nehemiah, when the Temple had been rebuilt (i. 10; iii. 1, 10), the
-province of Judah was under a Persian governor (i. 8), and there had
-been time enough for the loss of earlier enthusiasm. The majority of
+province of [[Judah]] was under a Persian governor (i. 8), and there had
+been time enough for the loss of earlier [[Enthusiasm|enthusiasm]]. The majority of
 modern scholars are agreed that the prophet prepares for the work of
 those reformers (Ezra, 458; Nehemiah, 444, 432 B.C.). The abuses of
 which he particularly complains are such as were found rampant by Ezra
@@ -55,7 +55,7 @@ xiii. 23 seq.; Deut. vii. 3) and failure in payment of sacred dues (iii.
 8 seq.; cf. Neh. x. 34 seq.; xiii. 10 seq.; Deut. xxvi. 12 seq.). The
 priests have fallen into contempt (ii. 9) and have neglected what is
 still one of their chief trusts, the oral law (ii. 6 seq.). The priestly
-code of written law was not promulgated until 444 B.C. (Neh. viii.-x.);
+[[Code|code]] of written law was not promulgated until 444 B.C. (Neh. viii.-x.);
 "Malachi" writes under the influence of the earlier Code of Deuteronomy
 only,[4] and must therefore belong to a date prior to 444. The
 independent character of the attack on current abuses also suggests
@@ -69,11 +69,11 @@ to reassert the true relation of Israel to Yahweh, and to call for a
 corresponding holiness, especially in regard to questions of ritual and
 of marriage. He saw that "the disobedience of his time was the outcome
 of a lowered morality, not of a clearer spiritual vision."[6] A strong
-sense of the unique privileges of the children of Jacob, the objects of
+sense of the unique privileges of the children of [[Jacob]], the objects of
 electing love (i. 2), the children of the Divine Father (ii. 10), is
 combined with an equally strong assurance of Yahweh's righteousness
 notwithstanding the many miseries that pressed on the unhappy
-inhabitants of Judaea. At an earlier date the prophet Haggai had taught
+inhabitants of Judaea. At an earlier date the prophet [[Haggai]] had taught
 that the people could not expect Yahweh's blessing while the Temple lay
 in ruins. In Malachi's time the Temple was built (i. 10) and the priests
 waited in their office, but still a curse seemed to rest on the nation's
@@ -97,7 +97,7 @@ think the presumptuous godless happy (iii. 15), is taken from earlier
 prophets, but is applied wholly within the Jewish nation. The day of
 Yahweh would be a curse, not a blessing, if it found the nation in its
 present state: the priests listlessly performing a fraudulent service
-(i. 7-ii. 9), the people bound by marriage to heathen women, while the
+(i. 7-ii. 9), the people bound by marriage to [[Heathen|heathen]] women, while the
 tears of the daughters of Israel, thrust aside to make way for
 strangers, cover the altar (ii. 11-16), all faith in divine justice gone
 (ii. 17; iii. 14 seq.), sorcery, uncleanness, falsehood and oppression
@@ -128,7 +128,7 @@ legislation, the forms of legal observance are of value only as the
 fitting expression of Israel's peculiar sonship and service, and he
 shows himself a true prophet when he contrasts the worthless ministry of
 unwilling priests with the pure offering of prayer and praise that rises
-from the implicit monotheism of even Gentile worship[7] (i. 11), or when
+from the implicit monotheism of even [[Gentile]] worship[7] (i. 11), or when
 he asserts the brotherhood of all Israelites under their one Father
 (ii. 10), not merely as a ground of separation from the heathen, but as
 inconsistent with the selfish and cruel freedom of divorce current in
@@ -141,8 +141,8 @@ is familiar to every reader of the new Testament.[10]
 
 The style of Malachi, like his argument, corresponds in its generally
 prosaic character to that transformation or decay of prophecy which
-began with Ezekiel; and Ewald rightly called attention to the fact that
-the conduct of the argument already shows traces of the dialectic manner
+began with [[Ezekiel]]; and Ewald rightly called attention to the fact that
+the conduct of the argument already shows traces of the [[Dialectic|dialectic]] manner
 of the schools. Yet there is a simple dignity in the manner not unworthy
 of a prophet, and rising from time to time to poetical rhythm.
 
@@ -157,12 +157,12 @@ of a prophet, and rising from time to time to poetical rhythm.
 
 FOOTNOTES:
 
-  [1] A Hebrew tradition given in the Targum of Jonathan, and approved
+  [1] A Hebrew tradition given in the Targum of [[Jonathan]], and approved
     by Jerome, identifies Malachi with Ezra the priest and scribe.
 
   [2] Torrey (_Ency. Bib._ c. 2908) holds that the reference here is
     purely figurative; "Judah has dealt falsely with the wife of his
-    youth, the covenant religion, and is wedding a strange cult." But he
+    youth, the [[Covenant|covenant]] religion, and is wedding a strange cult." But he
     assigns the book to the 4th century.
 
   [3] This closing prophecy may possibly be a later addition (so Marti)
@@ -179,12 +179,12 @@ FOOTNOTES:
     and the Deuteronomic phrase "statutes and judgments" (iv. 4), from
     his language as to tithes and offerings (iii. 8, 10; cf. Deut. xii.
     11; xxvi. 12), and especially from his conception of the priesthood
-    as resting on a covenant with Levi (ii. 4 seq.). Malachi indeed
+    as resting on a covenant with [[Levi]] (ii. 4 seq.). Malachi indeed
     assumes that the "whole tithe"--the Deuteronomic phrase for the tithe
     in which the Levites shared--is not stored in each township, but
     brought into the treasury at the Temple. But this was a modification
     of the Deuteronomic law naturally called for under the circumstances
-    of the return from Babylon, and Neh. x. and xiii. produce the
+    of the return from [[Babylon]], and Neh. x. and xiii. produce the
     impression that it was not introduced for the first time by Ezra and
     Nehemiah, though the collection of the tithe was enforced by them.
     See further, W.R.S. in _O.T.J.C._ ii. 425-427.
@@ -200,7 +200,7 @@ FOOTNOTES:
   [8] In ii. 16 the Targum renders "If thou hatest her put her away."
     It is characteristic of later Judaism that an arbitrary exegesis
     transformed the above anticipation of the doctrine of marriage laid
-    down in the gospel into an express sanction of the right of the
+    down in the [[Gospel|gospel]] into an express sanction of the right of the
     husband to put away his wife at will.
 
   [9] "The permanence of Judaism depended on the religious separateness

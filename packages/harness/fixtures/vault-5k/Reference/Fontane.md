@@ -10,8 +10,8 @@ id: 42-2765
 
 FONTANE, THEODOR (1819-1898), German poet and novelist, was born at
 Neu-Ruppin on the 30th of December 1819. At the age of sixteen he was
-apprenticed to a chemist, and after qualifying as an apothecary, he
-found employment in Leipzig and Dresden. In 1844 he travelled in
+apprenticed to a chemist, and after qualifying as an [[Apothecary|apothecary]], he
+found employment in Leipzig and [[Dresden]]. In 1844 he travelled in
 England, and settling in Berlin devoted himself from 1849 to literature.
 He made repeated journeys to England, interesting himself in old English
 ballads, and as the first fruits of his tours published _Ein Sommer in

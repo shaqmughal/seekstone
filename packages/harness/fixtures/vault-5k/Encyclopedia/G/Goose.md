@@ -6,8 +6,8 @@ topic: revolution
 
 # Goose
 
-GOOSE (a common Teut. word, O. Eng. _gos_, pl. _ges_, Ger. _Gans_, O.
-Norse _gas_, from Aryan root, _ghans_, whence Sans. _hansa_, Lat.
+GOOSE (a common Teut. word, O. Eng. _gos_, pl. _ges_, Ger. _[[Gans]]_, O.
+Norse _gas_, from [[Aryan]] root, _ghans_, whence Sans. _hansa_, Lat.
 _anser_ (for _hanser_), Gr. [Greek: chen], &c.), the general English
 name for a considerable number of birds, belonging to the family
 _Anatidae_ of modern ornithologists, which are mostly larger than ducks
@@ -20,7 +20,7 @@ is undoubtedly that which is the origin of the well-known domestic race
 commonly called in English the grey or grey lag[1] goose, a bird of
 exceedingly wide range in the Old World, apparently breeding where
 suitable localities are to be found in most European countries from
-Lapland to Spain and Bulgaria. Eastwards it extends to China, but does
+Lapland to Spain and [[Bulgaria]]. Eastwards it extends to China, but does
 not seem to be known in Japan. It is the only species indigenous to the
 British Islands, and in former days bred abundantly in the English
 Fen-country, where the young were caught in large numbers and kept in a
@@ -31,8 +31,8 @@ goose ceased from breeding in England, but it certainly did so towards
 the end of the 18th century, for Daniell mentions (_Rural Sports_, iii.
 242) his having obtained two broods in one season. In Scotland this
 goose continues to breed sparingly in several parts of the Highlands and
-in certain of the Hebrides, the nests being generally placed in long
-heather, and the eggs seldom exceeding five or six in number. It is most
+in certain of the [[Hebrides]], the nests being generally placed in long
+heather, and the [[Egg|eggs]] seldom exceeding five or six in number. It is most
 likely the birds reared here that are from time to time obtained in
 England, for at the present day the grey lag goose, though once so
 numerous, is, and for many years has been, the rarest species of those
@@ -50,7 +50,7 @@ breed, said to have come from Sevastopol, was introduced into western
 Europe about the year 1856. In this the upper plumage is elongated,
 curled and spirally twisted, having their shaft transparent, and so thin
 that it often splits into fine filaments, which, remaining free for an
-inch or more, often coalesce again;[3] while the quills are aborted, so
+[[Inch|inch]] or more, often coalesce again;[3] while the quills are aborted, so
 that the birds cannot fly.
 
 The other British species of typical geese are the bean-goose (_A.
@@ -104,12 +104,12 @@ true _C. hyperboreus_ placed on a surer footing. So nearly allied to the
 species last named as to have been often confounded with it, is the
 blue-winged goose, _C. coerulescens_, which is said never to attain a
 snowy plumage. Then we have a very small species, long ago described as
-distinct by Samuel Hearne, the Arctic traveller, but until 1861
+distinct by Samuel Hearne, the [[Arctic]] traveller, but until 1861
 discredited by ornithologists. Its distinctness has now been fully
 recognized, and it has received, somewhat unjustly, the name of _C.
 rossi_. Its face is adorned with numerous papillae, whence it has been
 removed by Elliot to a separate genus, _Exanthemops_, and for the same
-reason it has long been known to the European residents in the fur
+reason it has long been known to the European residents in the [[Fur|fur]]
 countries as the "horned wavey"--the last word being a rendering of a
 native name, _Wawa_, which signifies goose. Finally, there appears to
 belong to this section, though it has been frequently referred to
@@ -133,7 +133,7 @@ either of which much may be said by nomenclaturists. All the species of
 this section are distinguished by their general dark sooty colour,
 relieved in some by white of greater or less purity, and by way of
 distinction from the members of the genus _Anser_, which are known as
-grey geese, are frequently called by fowlers black geese. Of these, the
+grey geese, are frequently called by [[Fowler|fowlers]] black geese. Of these, the
 best known both in Europe and North America is the brent-goose--the
 _Anas bernicla_ of Linnaeus, and the _B. torquata_ of many modern
 writers--a truly marine bird, seldom (in Europe at least) quitting
@@ -143,10 +143,10 @@ chiefly on sea-grass (_Zostera maritima_). It is known to breed in
 Spitsbergen and in Greenland. A form which is by some ornithologists
 deemed a good species, and called by them _B. nigricans_, occurs chiefly
 on the Pacific coast of North America. In it the black of the neck,
-which in the common brent terminates just above the breast, extends over
+which in the common brent terminates just above the [[Breast|breast]], extends over
 most of the lower parts. The true bernacle-goose,[6] the _B. leucopsis_
 of most authors, is but a casual visitor to North America, but is said
-to breed in Iceland, and occasionally in Norway. Its usual _incunabula_,
+to breed in [[Iceland]], and occasionally in Norway. Its usual _incunabula_,
 however, still form one of the puzzles of the ornithologist, and the
 difficulty is not lessened by the fact that it will breed freely in
 semi-captivity, while the brent-goose will not. From the latter the
@@ -200,7 +200,7 @@ owner of this wonderful structure was in doubt, but all hesitation was
 dispelled by the discovery of a nearly perfect skeleton, now in the
 British Museum, which proved the bird to be a goose, of great size, and
 unable, from the shortness of its wings, to fly. In correlation with
-this loss of power may also be noted the dwindling of the keel of the
+this loss of power may also be noted the dwindling of the [[Keel|keel]] of the
 sternum. Generally, however, its osteological characters point to an
 affinity to _Cereopsis_, as was noticed by Dr Hector (_Trans. New Zeal.
 Institute_, vi. 76-84), who first determined its Anserine character.
@@ -234,7 +234,7 @@ FOOTNOTES:
     breeding stock, but the practice of plucking geese alive, continued
     for so many centuries, has not improbably also helped to perpetuate
     this variation, for it is well known to many bird-keepers that a
-    white feather is often produced in place of one of the natural colour
+    white [[Feather|feather]] is often produced in place of one of the natural colour
     that has been pulled out.
 
   [3] In some English counties, especially Norfolk and Lincoln, it was
@@ -253,7 +253,7 @@ FOOTNOTES:
 
   [4] See Sclater and Salvin, Proc. Zool. Society (1876), pp. 361-369.
 
-  [5] The etymology of these two words is exceedingly obscure. The
+  [5] The [[Etymology|etymology]] of these two words is exceedingly obscure. The
     ordinary spelling bernicle seems to be wrong, if we may judge from
     the analogy of the French _Bernache_. In both words the _e_ should be
     sounded as _a_.

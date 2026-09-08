@@ -9,7 +9,7 @@ type: reference
 
 FAUJAS DE SAINT-FOND, BARTHELEMY (1741-1819), French geologist and
 traveller, was born at Montelimart on the 17th of May 1741. He was
-educated at the Jesuits' College at Lyons; afterwards he went to
+educated at the Jesuits' College at [[Lyons]]; afterwards he went to
 Grenoble, applied himself to the study of law, and was admitted advocate
 to the parliament. He rose to be president of the seneschal's court
 (1765), a post which he honourably filled, but the duties of which
@@ -31,17 +31,17 @@ Europe, everywhere devoting attention to the nature and constituents of
 the rocks. It was he who first recognized the volcanic nature of the
 basaltic columns of the cave of Fingal (Staffa), although the island was
 visited in 1772 by Sir Joseph Banks, who remarked that the stone "is a
-coarse kind of _Basaltes_, very much resembling the Giants' Causeway in
-Ireland" (Pennant's _Tour in Scotland and Voyage to the Hebrides_).
+coarse kind of _Basaltes_, very much resembling the Giants' [[Causeway]] in
+Ireland" (Pennant's _Tour in Scotland and Voyage to the [[Hebrides]]_).
 Faujas's _Voyage en Angleterre, en Ecosse et aux Iles Hebrides_ (1797)
 is full of interest--containing anecdotes of Sir Joseph Banks and Dr
-John Whitehurst, and an amusing account of "The Dinner of an Academic
+John Whitehurst, and an amusing account of "The [[Dinner]] of an Academic
 Club" (the Royal Society), and has been translated into English (2
 vols., 1799). Having been nominated in 1793 professor at the Jardin des
 Plantes, he held this post till he was nearly eighty years of age,
-retiring in 1818 to his estate of Saint-Fond in Dauphine. Faujas took a
+retiring in 1818 to his estate of Saint-Fond in [[Dauphine]]. Faujas took a
 warm interest in the balloon experiments of the brothers Montgolfier,
-and published a very complete _Description des experiences de la machine
+and published a very complete _Description des experiences de la [[Machine|machine]]
 aerostatique de MM. Montgolfier_, &c. (1783, 1784). He contributed many
 scientific memoirs to the _Annales_ and the _Memoires_ of the museum of
 natural history. Among his separate works, in addition to those already

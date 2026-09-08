@@ -8,19 +8,19 @@ his father in 1774 assured him a competency, and he went to London,
 where he frequented literary and artistic circles. He frequently visited
 Dr Johnson and was of great assistance to Boswell in revising and
 proofreading his _Life_, four of the later editions of which he
-annotated. He was intimate with Sir Joshua Reynolds, to whom he sat for
+annotated. He was intimate with Sir [[Joshua]] Reynolds, to whom he sat for
 a portrait now in the National Portrait Gallery. He was one of Reynolds'
 executors, and published a posthumous collection of his works (1798)
-with a memoir. Horace Walpole, Burke, Canning, Lord Charlemont, and, at
+with a memoir. Horace Walpole, Burke, Canning, Lord [[Charlemont]], and, at
 first, George Steevens, were among Malone's friends. Encouraged by the
-two last he devoted himself to the study of Shakespearian chronology,
+two last he devoted himself to the study of Shakespearian [[Chronology|chronology]],
 and the results of his "Attempt to ascertain the Order in which the
 Plays of Shakespeare were written" (1778) are still largely accepted.
 This was followed in 1780 by two supplementary volumes to Steevens's
 version of Dr Johnson's _Shakespeare_, partly consisting of observations
 on the history of the Elizabethan stage, and of the text of doubtful
 plays; and this again, in 1783, by an appendix volume. His refusal to
-alter some of his notes to Isaac Reed's edition of 1785, which disagreed
+alter some of his notes to [[Isaac]] Reed's edition of 1785, which disagreed
 with Steevens's, resulted in a quarrel with the latter. The next seven
 years were devoted to Malone's own edition of Shakespeare in eleven
 volumes, of which his essays on the history of the stage, his biography

@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/De_La_Rue"
 
 DE LA RUE, WARREN (1815-1889), British astronomer and chemist, son of
 Thomas De la Rue, the founder of the large firm of stationers of that
-name in London, was born in Guernsey on the 18th of January 1815. Having
+name in London, was born in [[Guernsey]] on the 18th of January 1815. Having
 completed his education in Paris, he entered his father's business, but
 devoted his leisure hours to chemical and electrical researches, and
 between 1836 and 1848 published several papers on these subjects.
@@ -31,7 +31,7 @@ photo-heliograph, described in his report to the British Association,
 Lecture (_Phil. Trans._ vol. clii. pp. 333-416). Regular work with this
 instrument, inaugurated at Kew by De la Rue in 1858, was carried on
 there for fourteen years; and was continued at the Royal Observatory,
-Greenwich, from 1873 to 1882. The results obtained in the years
+[[Greenwich]], from 1873 to 1882. The results obtained in the years
 1862-1866 were discussed in two memoirs, entitled "Researches on Solar
 Physics," published by De la Rue, in conjunction with Professor Balfour
 Stewart and Mr B. Loewy, in the _Phil. Trans._ (vol. clix. pp. 1-110,
@@ -45,7 +45,7 @@ solar eclipse. In 1873 De la Rue gave up active work in astronomy, and
 presented most of his astronomical instruments to the university
 observatory, Oxford. Subsequently, in the year 1887, he provided the
 same observatory with a 13-in. refractor to enable it to take part in
-the International Photographic Survey of the Heavens. With Dr Hugo
+the [[International]] Photographic Survey of the Heavens. With Dr Hugo
 Muller as his collaborator he published several papers of a chemical
 character between the years 1856 and 1862, and investigated, 1868-1883,
 the discharge of electricity through gases by means of a battery of

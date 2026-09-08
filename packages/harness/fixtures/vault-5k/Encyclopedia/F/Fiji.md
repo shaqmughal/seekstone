@@ -39,7 +39,7 @@ is increased, though at a heavy cost to the cultivator. The Rewa,
 debouching through a wide delta at the south-east of Viti Levu, is
 navigable for small vessels for 40 m. There are also in this island the
 Navua and Sigatoka (flowing S.), the Nandi (W.), and the Ba (N.W.). The
-Dreketi, flowing W., is the chief stream of Vanua Levu. It breaches the
+Dreketi, flowing W., is the chief stream of Vanua Levu. It [[Breach|breaches]] the
 mountains in a fine valley; for this island consists practically of one
 long range, whereas the main valleys and ranges separating them in Viti
 Levu radiate for the most part from a common centre. With few exceptions
@@ -95,14 +95,14 @@ windward than on the lee sides of the islands (about 110 in. at Suva),
 but the mean temperature is much the same, viz., about 80° F. In the
 hills the temperature sometimes falls below 50°. The climate, especially
 from November to April, is somewhat enervating to the Englishman, but
-not unhealthy. Fevers are hardly known. Dysentery, which is common, and
+not unhealthy. [[Fever|Fevers]] are hardly known. Dysentery, which is common, and
 the most serious disease in the islands, is said to have been unknown
 before the advent of Europeans.
 
   _Fauna._--Besides the dog and the pig, which (with the domestic fowl)
   must have been introduced in early times, the only land mammals are
-  certain species of rats and bats. Insects are numerous, but the
-  species few. Bees have been introduced. The avifauna is not
+  certain species of rats and bats. [[Insect|Insects]] are numerous, but the
+  species few. [[Bee|Bees]] have been introduced. The avifauna is not
   remarkable. Birds of prey are few; the parrot and pigeon tribes are
   better represented. Fishes, of an Indo-Malay type, are numerous and
   varied; Mollusca, especially marine, and Crustaceae are also very
@@ -113,8 +113,8 @@ before the advent of Europeans.
   epiphytes. The lee sides of the larger islands, however, have grassy
   plains suitable for grazing, with scattered trees, chiefly _Pandanus_,
   and ferns. The flora has also some Australian and New Zealand
-  affinities (resembling in this respect the New Caledonia and New
-  Hebrides groups), shown especially in these western districts by the
+  affinities (resembling in this respect the New [[Caledonia]] and New
+  [[Hebrides]] groups), shown especially in these western districts by the
   _Pandanus_, by certain acacias and others. At an elevation of about
   2000 ft. the vegetation assumes a more mountainous type. Among the
   many valuable timber trees are the vesi (_Afzelia bijuga_); the dilo
@@ -131,7 +131,7 @@ before the advent of Europeans.
   alive. Among the plants used as pot-herbs are several ferns, and two
   or three Solanums, one of which, _S. anthropophagorum_, was one of
   certain plants always cooked with human flesh, which was said to be
-  otherwise difficult of digestion. The use of the kava root, here
+  otherwise difficult of digestion. The use of the [[Kava|kava]] root, here
   called yanggona, from which the well-known national beverage is made,
   is said to have been introduced from Tonga. Of fruit trees, besides
   the cocoanut, there may be mentioned the many varieties of the
@@ -146,7 +146,7 @@ before the advent of Europeans.
   best), the bread-fruit, the ivi, the kavika, the arrowroot, and in
   times of scarcity the mangrove. This bread is made by burying the
   materials for months, till the mass is thoroughly fermented and
-  homogeneous, when it is dug up and cooked by baking or steaming. This
+  homogeneous, when it is dug up and cooked by [[Baking|baking]] or steaming. This
   simple process, applicable to such a variety of substances, is a
   valuable security against famine.
 
@@ -178,7 +178,7 @@ character and ingenuity. Possessing the arts of both races they practise
 them with greater skill than either. They understand the principle of
 division of labour and production, and thus of commerce. They are
 skilful cultivators and good boat-builders, the carpenters being an
-hereditary caste; there are also tribes of fishermen and sailors; their
+hereditary [[Caste|caste]]; there are also tribes of fishermen and sailors; their
 mats, baskets, nets, cordage and other fabrics are substantial and
 tasteful; their pottery, made, like many of the above articles, by
 women, is far superior to any other in the South Seas; but many native
@@ -194,7 +194,7 @@ sacrifices were of daily occurrence. On a chief's death wives and slaves
 were buried alive with him. When building a chief's house a slave was
 buried alive in the hole dug for each foundation post. At the launching
 of a war-canoe living men were tied hand and foot between two plantain
-stems making a human ladder over which the vessel was pushed down into
+stems making a human [[Ladder|ladder]] over which the vessel was pushed down into
 the water. The people acquiesced in these brutal customs, and willingly
 met their deaths. Affection and a firm belief in a future state, in
 which the exact condition of the dying is continued, are the Fijians'
@@ -202,9 +202,9 @@ own explanations of the custom, once universal, of killing sick or aged
 relatives. Yet in spite of this savagery the Fijians have always been
 remarkable for their hospitality, open-handedness and courtesy. They are
 a sensitive, proud, if vindictive, and boastful people, with good
-conversational and reasoning powers, much sense of humour, tact and
-perception of character. Their code of social etiquette is minute and
-elaborate, and the graduations of rank well marked. These are (1)
+conversational and reasoning powers, much sense of [[Humour|humour]], tact and
+perception of character. Their [[Code|code]] of social etiquette is minute and
+elaborate, and the [[Graduation|graduations]] of rank well marked. These are (1)
 chiefs, greater and lesser; (2) priests; (3) _Mata ni Vanua_ (lit., eyes
 of the land), employés, messengers or counsellors; (4) distinguished
 warriors of low birth; (5) common people; (6) slaves.
@@ -251,7 +251,7 @@ C in qali, in which case C was also reckoned subject to B, or might be
 protected by B for political purposes.
 
 The former religion of the Fijians was a sort of ancestor-worship, had
-much in common with the creeds of Polynesia, and included a belief in a
+much in common with the [[Creeds|creeds]] of Polynesia, and included a belief in a
 future existence. There were two classes of gods--the first immortal, of
 whom Ndengei is the greatest, said to exist eternally in the form of a
 serpent, but troubling himself little with human or other affairs, and
@@ -267,24 +267,24 @@ chief. The institution of Taboo existed in full force. The _mburé_ or
 temple was also the council chamber and place of assemblage for various
 purposes.
 
-The weapons of the Fijians are spears, slings, throwing clubs and bows
+The weapons of the Fijians are spears, slings, throwing clubs and [[Bow|bows]]
 and arrows. Their houses, of which the framework is timber and the rest
 lattice and thatch, are ingeniously constructed, with great taste in
 ornamentation, and are well furnished with mats, mosquito-curtains,
-baskets, fans, nets and cooking and other utensils. Their canoes,
+baskets, [[Fan|fans]], nets and cooking and other utensils. Their canoes,
 sometimes more than 100 ft. long, are well built. Ever excellent
-agriculturists, their implements were formerly digging sticks and hoes
+agriculturists, their [[Implement|implements]] were formerly digging sticks and [[Hoe|hoes]]
 of turtlebone or flat oyster-shells. In irrigation they showed skill,
 draining their fields with built watercourses and bamboo pipes. Tobacco,
-maize, sweet potatoes, yams, kava, taro, beans and pumpkins, are the
+maize, sweet potatoes, yams, kava, taro, [[Bean|beans]] and pumpkins, are the
 principal crops.
 
-Fijians are fond of amusements. They have various games, and dancing,
+Fijians are fond of amusements. They have various [[Games|games]], and dancing,
 story-telling and songs are especially popular. Their poetry has
 well-defined metres, and a sort of rhyme. Their music is rude, and is
-said to be always in the major key. They are clever cooks, and for their
+said to be always in the major [[Key|key]]. They are [[Clever|clever]] [[Cook|cooks]], and for their
 feasts preparations are sometimes made months in advance, and enormous
-waste results from them. Mourning is expressed by fasting, by shaving
+waste results from them. Mourning is expressed by [[Fasting|fasting]], by shaving
 the head and face, or by cutting off the little finger. This last is
 sometimes done at the death of a rich man in the hope that his family
 will reward the compliment; sometimes it is done vicariously, as when
@@ -292,14 +292,14 @@ one chief cuts off the little finger of his dependent in regret or in
 atonement for the death of another.
 
 A steady, if not a very rapid, decrease in the native population set in
-after 1875. A terrible epidemic of measles in that year swept away
+after 1875. A terrible epidemic of [[Measles|measles]] in that year swept away
 40,000, or about one-third of the Fijians. Subsequent epidemics have not
 been attended by anything like this mortality, but there has, however,
 been a steady decrease, principally among young children, owing to
 whooping-cough, tuberculosis and croup. Every Fijian child seems to
 contract yaws at some time in its life, a mistaken notion existing on
 the part of the parents that it strengthens the child's physique.
-Elephantiasis, influenza; rheumatism, and a skin disease, _thoko_, also
+[[Elephantiasis]], influenza; rheumatism, and a skin disease, _thoko_, also
 occur. One per cent of the natives are lepers. A commission appointed in
 1891 to inquire into the causes of the native decrease collected much
 interesting anthropological information regarding native customs, and
@@ -307,7 +307,7 @@ provincial inspectors and medical officers were specially appointed to
 compel the natives to carry out the sanitary reforms recommended by the
 commission. A considerable sum was also spent in laying on good water to
 the native villages. The Fijians show no disposition to intermarry with
-the Indian coolies. The European half-castes are not prolific _inter
+the Indian [[Coolie|coolies]]. The European half-castes are not prolific _inter
 se_, and they are subject to a scrofulous taint. The most robust cross
 in the islands is the offspring of the African negro and the Fijian.
 Miscegenation with the Micronesians, the only race in the Pacific which
@@ -316,7 +316,7 @@ preserving the native Fijian population. There is a large Indian
 immigrant population.
 
 _Trade, Administration, &c._--The principal industries are the
-cultivation of sugar and fruits and the manufacture of sugar and copra,
+cultivation of sugar and fruits and the manufacture of sugar and [[Copra|copra]],
 and these three are the chief articles of export trade, which is carried
 on almost entirely with Australia and New Zealand. The fruits chiefly
 exported are bananas and pineapples. There are also exported maize,
@@ -324,7 +324,7 @@ vanilla and a variety of fruits in small quantities; pearl and other
 shells and bêche-de-mer. There is a manufacture of soap from coconut
 oil; a fair quantity of tobacco is grown, and among other industries may
 be included boat-building and saw-milling. Regular steamship
-communications are maintained with Sydney, Auckland and Vancouver. Good
+communications are maintained with Sydney, [[Auckland]] and Vancouver. Good
 bridle-tracks exist in all the larger islands, and there are some
 macadamized roads, principally in Viti Levu. There is an overland mail
 service by native runners. The export trade is valued at nearly £600,000
@@ -348,7 +348,7 @@ annually under the presidency of the governor, and their recommendations
 are submitted for sanction to the legislative council. Suva and Levuka
 have each a municipal government, and there are native district and
 village councils. There is an armed native constabulary; and a volunteer
-and cadet corps in Suva and Levuka.
+and [[Cadet|cadet]] corps in Suva and Levuka.
 
 The majority of the natives are Wesleyan Methodists. The Roman Catholic
 missionaries have about 3000 adherents; the Church of England is
@@ -368,7 +368,7 @@ _History._--A few islands in the north-east of the group were first seen
 by Abel Tasman in 1643. The southernmost of the group, Turtle Island,
 was discovered by Cook in 1773. Lieutenant Bligh, approaching them in
 the launch of the "Bounty," 1789, had a hostile encounter with natives.
-In 1827 Dumont d'Urville in the "Astrolabe" surveyed them much more
+In 1827 [[Dumont D'Urville|Dumont d'Urville]] in the "[[Astrolabe]]" surveyed them much more
 accurately, but the first thorough survey was that of the United States
 exploring expedition in 1840. Up to this time, owing to the evil
 reputation of the islanders, European intercourse was very limited. The
@@ -403,7 +403,7 @@ disappointed in the hope that his acceptance of Christianity (1854)
 would improve his position, offered the sovereignty to Great Britain
 (1859) with the fee simple of 100,000 acres, on condition of her paying
 the American claims. Colonel Smythe, R.A., was sent out to report on the
-question, and decided against annexation, but advised that the British
+question, and decided against [[Annexation|annexation]], but advised that the British
 consul should be invested with full magisterial powers over his
 countrymen, a step which would have averted much subsequent difficulty.
 
@@ -431,14 +431,14 @@ in 1881.
 At the time of the British annexation the islands were suffering from
 commercial depression, following a fall in the price of cotton after the
 American Civil War. Coffee, tea, cinchona and sugar were tried in turn,
-with limited success. The coffee was attacked by the leaf disease; the
+with limited success. The coffee was attacked by the [[Leaf|leaf]] disease; the
 tea could not compete with that grown by the cheap labour of the East;
 the sugar machinery was too antiquated to withstand the fall in prices
 consequent on the European sugar bounties. In 1878 the first coolies
 were imported from India and the cultivation of sugar began to pass into
 the hands of large companies working with modern machinery. With the
 introduction of coolies the Fijians began to fall behind in the
-development of their country. Many of the coolies chose to remain in the
+development of their country. Many of the coolies [[Chose|chose]] to remain in the
 colony after the termination of their indentures, and began to displace
 the European country traders. With a regular and plentiful supply of
 Indian coolies, the recruiting of _kanaka_ labourers practically ceased.
@@ -459,7 +459,7 @@ and the imperial government refused to sanction the proposal.
   "Challenger"_ (London, 1879); Sir A.H. Gordon, _Story of a Little War_
   (Edinburgh, privately printed, 1879); J.W. Anderson, _Fiji and New
   Caledonia_ (London, 1880); C.F. Gordon-Cumming, _At Home in Fiji_
-  (Edinburgh, 1881); John Horne, _A Year in Fiji_ (London, 1881); H.S.
+  (Edinburgh, 1881); John [[Horne]], _A Year in Fiji_ (London, 1881); H.S.
   Cooper, _Our New Colony, Fiji_ (London, 1882); S.E. Scholes, _Fiji and
   the Friendly Islands_ (London, 1882); Princes Albert Victor and George
   of Wales, _Cruise of H. M. S. "Bacchante"_ (London, 1886); A. Agassiz,

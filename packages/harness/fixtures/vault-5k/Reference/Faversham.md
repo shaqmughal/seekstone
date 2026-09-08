@@ -7,12 +7,12 @@ topic: science
 # Faversham
 
 FAVERSHAM, a market town and river-port, member of the Cinque Port of
-Dover, and municipal borough in the Faversham parliamentary division of
-Kent, England, on a creek of the Swale, 9 m. W.N.W. of Canterbury on the
+[[Dover]], and municipal borough in the Faversham parliamentary division of
+Kent, England, on a [[Creek|creek]] of the Swale, 9 m. W.N.W. of Canterbury on the
 South-Eastern & Chatham railway. Pop. (1901) 11,290. The church of St
 Mary of Charity, restored by Sir G.G. Scott in 1874, is of Early English
 architecture, and has some remains on one of the columns of frescoes of
-the same period, while the 14th-century paintings in the chancel are in
+the same period, while the 14th-century paintings in the [[Chancel|chancel]] are in
 better preservation. Some of the brasses are very fine, and there is one
 commemorating King Stephen, as well as a tomb said to be his. He was
 buried at the abbey he founded here, of which only a wall and the
@@ -39,7 +39,7 @@ abbey was built by Stephen in 1147, in which he and Matilda were buried.
 They had endowed it with the manor and hundred of Faversham; this grant
 caused many disputes between the abbot and men of Faversham concerning
 the abbot's jurisdiction. Faversham was probably a member of Dover from
-the earliest association of the Cinque Ports, certainly as early as
+the earliest association of the [[Cinque Ports]], certainly as early as
 Henry III., who in 1252 granted among other liberties of the Cinque
 Ports that the barons of Faversham should plead only in Shepway Court,
 but ten years later transferred certain pleas to the abbot's court. In

@@ -20,7 +20,7 @@ nephridia, and paired generative organs formed from the coelomic
 epithelium. They are divided as follows: (1) Haplodrili (q.v.) or
 Archiannelida; (2) Chaetopoda (q.v.); (3) Myzostomida (q.v.), probably
 degenerate Polychaeta; (4) Hirudinea (see CHAETOPODA and LEECH); (5)
-Echiuroidea (q.v.).     (P. C. M.)
+[[Echiuroidea]] (q.v.).     (P. C. M.)
 
 ## See also
 

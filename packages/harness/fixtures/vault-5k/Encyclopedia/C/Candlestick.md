@@ -6,9 +6,9 @@ topic: art-studies
 
 # Candlestick
 
-CANDLESTICK, the receptacle for holding a candle, nowadays made in
+CANDLESTICK, the receptacle for holding a [[Candle|candle]], nowadays made in
 various art-forms. The word was formerly used for any form of support on
-which lights, whether candles or lamps, were fixed; thus a candelabrum
+which lights, whether candles or [[Lamp|lamps]], were fixed; thus a candelabrum
 (q.v.) is sometimes spoken of from tradition as a candlestick, e.g. as
 when Moses was commanded to make a candlestick for the tabernacle, of
 hammered gold, a talent in weight, and consisting of a base with a shaft
@@ -30,7 +30,7 @@ cup (_discus_) to catch the dripping wax or tallow.
 A candlestick may be either "flat" or "tall." The former has a short
 stem, rising from a dish, and is usually furnished with an extinguisher
 fitting into a socket; the latter has a pillar which may be only a few
-inches in height or may rise to several feet, and rarely has an
+[[Inch|inches]] in height or may rise to several feet, and rarely has an
 extinguisher. The flat variety is sometimes called a "bedroom
 candlestick." The beginnings of this interesting and often beautiful
 appliance are not exactly known, but it dates certainly as far back as
@@ -48,7 +48,7 @@ in more modern periods Sheffield plate, silver plate and china became
 exceedingly popular. Sometimes the base and sconce are of one material
 and the pillar of another, as when the former are of silver and the
 pillar of marble or china. The choice and combination of materials are,
-indeed, infinite. The golden age of the candlestick lasted, roughly
+indeed, [[Infinite|infinite]]. The golden age of the candlestick lasted, roughly
 speaking, from the third quarter of the 17th century to the end of the
 18th. The later Jacobean, Queen Anne and early Georgian forms were often
 extremely elegant, with broad bases, round, oval or square and swelling
@@ -58,7 +58,7 @@ domestic appliances the history of the candlestick is an unceasing
 tendency towards simplicity, the most elaborate and fantastic forms,
 animals and reptiles, the monstrous creatures of mythology, lions and
 men-at-arms, angels and cupids, having gradually given place to
-architectural motives such as the baluster stem and to the classic grace
+architectural motives such as the [[Baluster|baluster]] stem and to the classic grace
 of the Adam style. The candlestick in its modern form is, indeed,
 artistically among the least unsatisfactory of household plenishings.
 

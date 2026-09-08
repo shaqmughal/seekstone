@@ -7,19 +7,19 @@ topic: science
 # Fragonard
 
 FRAGONARD, JEAN-HONORÉ (1732-1806), French painter, was born at Grasse,
-the son of a glover. He was articled to a Paris notary when his father's
+the son of a [[Glover|glover]]. He was articled to a Paris notary when his father's
 circumstances became straitened through unsuccessful speculations, but
 he showed such talent and inclination for art that he was taken at the
-age of eighteen to Boucher, who, recognizing the youth's rare gifts but
+age of eighteen to [[Boucher]], who, recognizing the youth's rare gifts but
 disinclined to waste his time with one so inexperienced, sent him to
 Chardin's _atelier_. Fragonard studied for six months under the great
 luminist, and then returned more fully equipped to Boucher, whose style
 he soon acquired so completely that the master entrusted him with the
 execution of replicas of his paintings. Though not a pupil of the
 Academy, Fragonard gained the Prix de Rome in 1752 with a painting of
-"Jeroboam sacrificing to the Idols," but before proceeding to Rome he
-continued to study for three years under Van Loo. In the year preceding
-his departure he painted the "Christ washing the Feet of the Apostles"
+"[[Jeroboam]] sacrificing to the Idols," but before proceeding to Rome he
+continued to study for three years under Van [[Loo]]. In the year preceding
+his departure he painted the "Christ washing the Feet of the [[Apostle|Apostles]]"
 now at Grasse cathedral. In 1755 he took up his abode at the French
 Academy in Rome, then presided over by Natoire. There he benefited from
 the study of the old masters whom he was set to copy--always remembering
@@ -30,14 +30,14 @@ Loo and Natoire, and a summer sojourn at the Villa d'Este in the company
 of the abbé de Saint-Non, who engraved many of Fragonard's studies of
 these entrancing gardens, did more towards forming his personal style
 than all the training at the various schools. It was in these romantic
-gardens, with their fountains, grottos, temples and terraces, that he
-conceived the dreams which he was subsequently to embody in his art.
+gardens, with their [[Fountain|fountains]], grottos, temples and terraces, that he
+conceived the [[Dream|dreams]] which he was subsequently to embody in his art.
 Added to this influence was the deep impression made upon his mind by
 the florid sumptuousness of Tiepolo, whose works he had an opportunity
 of studying in Venice before he returned to Paris in 1761. In 1765 his
 "Corésus et Callirhoé" secured his admission to the Academy. It was made
-the subject of a pompous eulogy by Diderot, and was bought by the king,
-who had it reproduced at the Gobelins factory. Hitherto Fragonard had
+the subject of a pompous eulogy by [[Diderot]], and was bought by the king,
+who had it reproduced at the [[Gobelin|Gobelins]] factory. Hitherto Fragonard had
 hesitated between religious, classic and other subjects; but now the
 demand of the wealthy art patrons of Louis XV.'s pleasure-loving and
 licentious court turned him definitely towards those scenes of love and
@@ -46,8 +46,8 @@ are only made acceptable by the tender beauty of his colour and the
 virtuosity of his facile brushwork--such works as the "Serment d'amour"
 (Love Vow), "Le Verrou" (The Bolt), "La Culbute" (The Tumble), "La
 Chemise enlevée" (The Shift Withdrawn), and "The Swing" (Wallace
-collection), and his decorations for the apartments of Mme du Barry and
-the dancer Marie Guimard.
+collection), and his decorations for the apartments of Mme [[Du Barry|du Barry]] and
+the dancer Marie [[Guimard]].
 
 The Revolution made an end to the _ancien régime_, and Fragonard, who
 was so closely allied to its representatives, left Paris in 1793 and
@@ -74,14 +74,14 @@ Schoolmistress," "A Lady carving her Name on a Tree" (usually known as
 thirteen examples of his art, among them the "Corésus," "The Sleeping
 Bacchante," "The Shift Withdrawn," "The Bathers," "The Shepherd's Hour"
 ("L'Heure du berger"), and "Inspiration." Other works are in the museums
-of Lille, Besançon, Rouen, Tours, Nantes, Avignon, Amiens, Grenoble,
-Nancy, Orleans, Marseilles, &c., as well as at Chantilly. Some of
+of Lille, Besançon, Rouen, Tours, Nantes, [[Avignon]], Amiens, [[Grenoble]],
+Nancy, Orleans, [[Marseilles]], &c., as well as at Chantilly. Some of
 Fragonard's finest work is in the private collections of the Rothschild
 family in London and Paris.
 
-  See R. Portalis, _Fragonard_ (Paris, 1899), fully illustrated; Felix
+  See R. Portalis, _Fragonard_ (Paris, 1899), fully illustrated; [[Felix]]
   Naquet, _Fragonard_ (Paris, 1890); Virgile Josz, _Fragonard--moeurs du
-  XVIII^e siècle_ (Paris, 1901); E. and J. de Goncourt, _L'Art du
+  XVIII^e siècle_ (Paris, 1901); E. and J. de [[Goncourt]], _L'Art du
   dix-huitième siècle--Fragonard_ (Paris, 1883).     (P. G. K.)
 
 ## See also

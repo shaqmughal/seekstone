@@ -10,17 +10,17 @@ GAZA (or 'AZZAH, mod. _Ghuzzeh_), the most southerly of the five
 princely Philistine cities, situated near the sea, at the point where
 the old trade routes from Egypt, Arabia and Petra to Syria met. It was
 always a strong border fortress and a place of commercial importance, in
-many respects the southern counterpart of Damascus. The earliest notice
+many respects the southern counterpart of [[Damascus]]. The earliest notice
 of it is in the Tell el-Amarna tablets, in a letter from the local
 governor, who then held it for Egypt, with which country it always stood
 in close connexion. It never passed for long into Israelite hands,
-though subject for a while to Hezekiah of Judah; from him it passed to
+though subject for a while to [[Hezekiah]] of [[Judah]]; from him it passed to
 Assyria. In Amos i. 6 the city is denounced for giving up Hebrew slaves
-to Edom. To Herodotus (iii. 5) the place seemed as important as Sardis.
+to [[Edom]]. To Herodotus (iii. 5) the place seemed as important as Sardis.
 The city withstood Alexander the Great for five months (332 B.C.), and
 in 96 B.C. was razed to the ground by Alexander Jannaeus. It was rebuilt
 by Aulus Gabinius, 57 B.C., but on a new site; the old site was
-remembered and spoken of as "Old" or "Desert Gaza": compare Acts viii.
+remembered and spoken of as "Old" or "[[Desert]] Gaza": compare Acts viii.
 26. In the 2nd and 3rd centuries Gaza was a thriving Greek city, with
 good schools and famous temples, especially one to the local god Marna
 (i.e. "Lord" or "Our Lord"). A statue of this god has been found near
@@ -44,7 +44,7 @@ erroneous tradition dating back to the middle ages). The ancient walls
 are now covered up beneath green mounds of rubbish. The water-supply is
 from wells sunk through the sandy soil to the rock; of these there are
 more than twenty--an unusual number for a Syrian town. The land for the
-3 m. between Gaza and the sea consists principally of sand dunes. There
+3 m. between Gaza and the sea consists principally of sand [[Dunes|dunes]]. There
 is no natural harbour, but traces of ruins near the shore mark the site
 of the old Maiuma Gazae or Port of Gaza, now called el Mineh, which in
 the 5th century was a separate town and episcopal see, under the title
@@ -54,14 +54,14 @@ marked by granite shafts with Greek inscriptions on them. To the south
 is a remarkable hill, quite isolated and bare, with a small mosque and a
 graveyard. It is called el Muntar, "the watch tower," and is supposed to
 be the mountain "before (or facing) Hebron," to which Samson carried the
-gates of Gaza (Judg. xvi. 3). The bazaars of Gaza are considered good.
+gates of Gaza (Judg. xvi. 3). The [[Bazaar|bazaars]] of Gaza are considered good.
 An extensive pottery exists in the town, and black earthenware peculiar
 to the place is manufactured there. The climate is dry and comparatively
 healthy, but the summer temperature often exceeds 110° Fahr. The
 surrounding country is partly cornland, partly waste, and is inhabited
-by wandering Arabs. The prosperity of Ghuzzeh has partially revived
+by wandering [[Arabs]]. The prosperity of Ghuzzeh has partially revived
 through the growing trade in barley, of which the average annual export
-to Great Britain for 1897-1899 was over 30,000 tons. The dress of the
+to Great Britain for 1897-1899 was over 30,000 tons. The [[Dress|dress]] of the
 people is Egyptian rather than Syrian. Gaza is an episcopal see both of
 the Greek and the Armenian church. The Church Missionary Society
 maintains a mission, with schools for both sexes, and a hospital.

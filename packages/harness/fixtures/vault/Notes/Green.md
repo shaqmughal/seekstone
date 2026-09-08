@@ -10,22 +10,22 @@ GREEN, THOMAS HILL (1836-1882), English philosopher, the most typical
 English representative of the school of thought called _Neo-Kantian_, or
 _Neo-Hegelian_, was born on the 7th of April 1836 at Birkin, a village
 in the West Riding of Yorkshire, of which his father was rector. On the
-paternal side he was descended from Oliver Cromwell, whose honest,
+paternal side he was descended from Oliver [[Cromwell]], whose honest,
 sturdy independence of character he seemed to have inherited. His
 education was conducted entirely at home until, at the age of fourteen,
 he entered Rugby, where he remained five years. In 1855 he became an
 undergraduate member of Balliol College, Oxford, of which society he
-was, in 1860, elected fellow. His life henceforth, was devoted to
+was, in 1860, elected [[Fellow|fellow]]. His life henceforth, was devoted to
 teaching (mainly philosophical) in the university--first as college
 tutor, afterwards, from 1878 until his death (at Oxford on the 26th of
 March 1882) as Whyte's Professor of Moral Philosophy. The lectures he
 delivered as professor form the substance of his two most important
-works, viz. the _Prolegomena to Ethics_ and the _Lectures on the
+works, viz. the _Prolegomena to [[Ethics]]_ and the _Lectures on the
 Principles of Political Obligation_, which contain the whole of his
 positive constructive teaching. These works were not published until
 after his death, but Green's views were previously known indirectly
 through the _Introduction_ to the standard edition of Hume's works by
-Green and T. H. Grose (d. 1906), fellow of Queen's College, in which the
+Green and T. H. [[Grose]] (d. 1906), fellow of Queen's College, in which the
 doctrine of the "English" or "empirical" philosophy was exhaustively
 examined.
 
@@ -45,7 +45,7 @@ whole question of man in relation to nature. When (he held) we have
 discovered what man in himself is, and what his relation to his
 environment, we shall then know his function--what he is fitted to do.
 In the light of this knowledge we shall be able to formulate the moral
-code, which, in turn, will serve as a criterion of actual civic and
+[[Code|code]], which, in turn, will serve as a criterion of actual civic and
 social institutions. These form, naturally and necessarily, the
 objective expression of moral ideas, and it is in some civic or social
 whole that the moral ideal must finally take concrete shape.
@@ -69,11 +69,11 @@ relations in a consciousness which keeps distinct the "self" and the
 various elements of the "object," though holding all together in the
 unity of the act of perception. In other words, the whole mental
 structure we call knowledge consists, in its simplest equally with its
-most complex constituents, of the "work of the mind." Locke and Hume held
+most complex constituents, of the "work of the mind." [[Locke]] and Hume held
 that the work of the mind was _eo ipso_ unreal because it was "made by"
 man and not "given to" man. It thus represented a subjective creation,
 not an objective fact. But this consequence follows only upon the
-assumption that the work of the mind is arbitrary, an assumption shown to
+[[Assumption|assumption]] that the work of the mind is arbitrary, an assumption shown to
 be unjustified by the results of exact science, with the distinction,
 universally recognized, which such science draws between truth and
 falsehood, between the real and "mere ideas." This (obviously valid)
@@ -84,7 +84,7 @@ this ideal whole to be accounted for? Only by the existence of some
 "principle which renders all relations possible and is itself determined
 by none of them"; an eternal self-consciousness which knows in whole what
 we know in part. To God the world _is_, to man the world _becomes_. Human
-experience is God gradually made manifest.
+experience is God gradually made [[Manifest|manifest]].
 
 Carrying on the same analytical method into the special department of
 moral philosophy, Green held that ethics applies to the peculiar
@@ -106,7 +106,7 @@ the realization of which he would find his true self. The determination
 to realize the self in some definite way constitutes an "act of will,"
 which, as thus constituted, is neither arbitrary nor externally
 determined. For the motive which may be said to be its cause lies _in_
-the man himself, and the identification of the self with such a motive
+the man himself, and the [[Identification|identification]] of the self with such a motive
 is a _self_-determination, which is at once both rational and free. The
 "freedom of man" is constituted, not by a supposed ability to do
 anything he may choose, but in the power to identify himself with that
@@ -152,7 +152,7 @@ state."
 
   Green's teaching was, directly and indirectly, the most potent
   philosophical influence in England during the last quarter of the 19th
-  century, while his enthusiasm for a common citizenship, and his
+  century, while his [[Enthusiasm|enthusiasm]] for a common citizenship, and his
   personal example in practical municipal life, inspired much of the
   effort made, in the years succeeding his death, to bring the
   universities more into touch with the people, and to break down the
@@ -182,12 +182,12 @@ state."
   future may be expected to work.
 
   Green's most important treatise--the _Prolegomena to
-  Ethics_--practically complete in manuscript at his death--was
+  Ethics_--practically complete in [[Manuscript|manuscript]] at his death--was
   published in the year following, under the editorship of A. C. Bradley
   (4th ed., 1899). Shortly afterwards R. L. Nettleship's standard
   edition of his _Works_ (exclusive of the _Prolegomena_) appeared in
   three volumes: vol. i. containing reprints of Green's criticism of
-  Hume, Spencer, Lewes; vol. ii. Lectures on Kant, on Logic, on the
+  Hume, Spencer, [[Lewes]]; vol. ii. Lectures on [[Kant]], on Logic, on the
   Principles of Political Obligation; vol. iii. Miscellanies, preceded
   by a full _Memoir_ by the Editor. The _Principles of Political
   Obligation_ was afterwards published in separate form. A criticism of

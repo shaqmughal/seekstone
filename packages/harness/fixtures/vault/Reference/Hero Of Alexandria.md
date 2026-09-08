@@ -16,18 +16,18 @@ This is the more modern view, in contrast to the earlier theory most
 generally accepted, according to which he flourished about 100 B.C. The
 earlier theory started from the superscription of one of his works,
 [Greek: Heronos Ktesibiou belopoiika], from which it was inferred that
-Hero was a pupil of Ctesibius. Martin, Hultsch and Cantor took this
-Ctesibius to be a barber of that name who lived in the reign of Ptolemy
+Hero was a pupil of Ctesibius. [[Martin]], Hultsch and Cantor took this
+Ctesibius to be a [[Barber|barber]] of that name who lived in the reign of Ptolemy
 Euergetes II. (d. 117 B.C.) and is credited with having invented an
-improved water-organ. But this identification is far from certain, as a
-Ctesibius _mechanicus_ is mentioned by Athenaeus as having lived under
+improved water-organ. But this [[Identification|identification]] is far from certain, as a
+Ctesibius _mechanicus_ is mentioned by [[Athenaeus]] as having lived under
 Ptolemy II. Philadelphus (285-247 B.C.). Nor can the relation of master
 and pupil be certainly inferred from the superscription quoted (observe
 the omission of any article), which really asserts no more than that
 Hero re-edited an earlier treatise by Ctesibius, and implies nothing
 about his being an _immediate_ predecessor. Further, it is certain that
 Hero used physical and mathematical writings by Posidonius, the Stoic,
-of Apamea, Cicero's teacher, who lived until about the middle of the 1st
+of [[Apamea]], Cicero's teacher, who lived until about the middle of the 1st
 century B.C. The positive arguments for the more modern view of Hero's
 date are (1) the use by him of Latinisms from which Diels concluded that
 the 1st century A.D. was the earliest possible date, (2) the description
@@ -41,7 +41,7 @@ work (as to which see below). Thus we arrive at the latter half of the
 1st century A.D. as the approximate date of Hero's activity.
 
 The geometrical treatises which have survived (though not interpolated)
-in Greek are entitled respectively _Definitiones_, _Geometria_,
+in Greek are entitled respectively _[[Definition|Definitiones]]_, _Geometria_,
 _Geodaesia_, _Stereometrica_ (i. and ii.), _Mensurae_, _Liber
 Geoponicus_, to which must now be added the _Metrica_ recently
 discovered by R. Schone in a MS. at Constantinople. These books, except
@@ -60,7 +60,7 @@ used for the same purposes as the modern theodolite. It is in this book
 that Hero proves the expression for the area of a triangle in terms of
 its sides. The _Pneumatica_ in two books is also extant in Greek as is
 also the _Automatopoietica_. In the former will be found such things as
-siphons, "Hero's fountain," "penny-in-the-slot" machines, a fire-engine,
+siphons, "Hero's [[Fountain|fountain]]," "penny-in-the-slot" [[Machine|machines]], a fire-engine,
 a water-organ, and arrangements employing the force of steam. Pappus
 quotes from three books of _Mechanics_ and from a work called
 _Barulcus_, both by Hero. The three books on _Mechanics_ survive in an
@@ -78,12 +78,12 @@ the Greek by Wilhelm van Moerbeek, which was long thought to be a
 fragment of Ptolemy's _Optics_, because it bore the title _Ptolemaei de
 speculis_ in the MS. But the attribution to Ptolemy was shown to be
 wrong as soon as it was made clear (especially by Martin) that another
-translation by an Admiral Eugenius Siculus (12th century) of an optical
+translation by an Admiral [[Eugenius]] Siculus (12th century) of an optical
 work from the Arabic was Ptolemy's _Optics_. Of other treatises by Hero
 only fragments remain. One was four books on _Water Clocks_ ([Greek:
 Peri hydrion horoskopeion]), of which Proclus (_Hypotyp. astron._, ed.
-Halma) has preserved a fragment, and to which Pappus also refers.
-Another work was a commentary on Euclid (referred to by the Arabs as
+[[Halma]]) has preserved a fragment, and to which Pappus also refers.
+Another work was a commentary on Euclid (referred to by the [[Arabs]] as
 "the book of the resolution of doubts in Euclid") from which quotations
 have survived in an-Nairizi's commentary.
 
@@ -93,10 +93,10 @@ have survived in an-Nairizi's commentary.
   nunc primum edita_ (Paris, 1693); the first important critical
   researches on Hero were G. B. Venturi's _Commentari sopra la storia e
   la teoria dell'ottica_ (Bologna, 1814) and H. Martin's "Recherches sur
-  la vie et les ouvrages d'Heron d'Alexandrie disciple de Ctesibius et
+  la vie et les ouvrages d'Heron d'Alexandrie [[Disciple|disciple]] de Ctesibius et
   sur tous les ouvrages mathematiques grecs conserves ou perdus, publies
   ou inedits, qui ont ete attribues a un auteur nomme Heron" (_Mem.
-  presentes a l'Academie des Inscriptions et Belles-Lettres_, i. serie,
+  presentes a l'Academie des Inscriptions et [[Belles-Lettres]]_, i. serie,
   iv., 1854). The geometrical works (except of course the _Metrica_)
   were edited (Greek only) by F. Hultsch (_Heronis Alexandrini
   geometricorum et stereometricorum reliquiae_, 1864), the _Dioptra_ by
@@ -113,16 +113,16 @@ have survived in an-Nairizi's commentary.
   pt. i., by L. Nix and W. Schmidt, contains the _Mechanics_ in Arabic,
   Greek fragments of the same, the _Catoptrica_ in Latin with appendices
   of extracts from Olympiodorus, Vitruvius, Pliny, &c. Vol. iii. (by
-  Hermann Schone) contains the _Metrica_ (in three books) and the
+  [[Hermann]] Schone) contains the _Metrica_ (in three books) and the
   _Dioptra_. A German translation is added throughout. The approximation
   to square roots in Hero has been the subject of papers too numerous to
   mention. But reference should be made to the exhaustive studies on
-  Hero's arithmetic by Paul Tannery, "L'Arithmetique des Grecs dans
+  Hero's [[Arithmetic|arithmetic]] by Paul Tannery, "L'Arithmetique des Grecs dans
   Heron d'Alexandrie" (_Mem. de la Soc. des sciences phys. et math. de
-  Bordeaux_, ii. serie, iv., 1882), "La Stereometrie d'Heron
+  [[Bordeaux]]_, ii. serie, iv., 1882), "La Stereometrie d'Heron
   d'Alexandrie" and "Etudes Heroniennes" (_ibid._ v., 1883), "Questions
   Heroniennes" (_Bulletin des sciences math._, ii. serie, viii., 1884),
-  "Un Fragment des Metriques d'Heron" (_Zeitschrift fur Math. und
+  "Un Fragment des Metriques d'Heron" (_Zeitschrift [[Fur|fur]] Math. und
   Physik_, xxxix., 1894; _Bulletin des sciences math._, ii. serie,
   xviii., 1894). A good account of Hero's works will be found in M.
   Cantor's _Geschichte der Mathematik_, i.^2 (1894), chapters 18 and 19,

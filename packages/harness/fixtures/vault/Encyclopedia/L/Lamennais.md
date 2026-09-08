@@ -8,13 +8,13 @@ father to follow mercantile pursuits. He spent long hours in the library
 of an uncle, devouring the writings of Rousseau, Pascal and others. He
 thereby acquired a vast and varied, though superficial, erudition, which
 determined his subsequent career. Of a sickly and sensitive nature, and
-impressed by the horrors of the French Revolution, his mind was early
+impressed by the horrors of the [[French Revolution]], his mind was early
 seized with a morbid view of life, and this temper characterized him
 throughout all his changes of opinion and circumstance. He was at first
 inclined towards rationalistic views, but partly through the influence
 of his brother Jean Marie (1775-1861), partly as a result of his
 philosophical and historical studies, he felt belief to be indispensable
-to action and saw in religion the most powerful leaven of the community.
+to action and saw in religion the most powerful [[Leaven|leaven]] of the community.
 He gave utterance to these convictions in the _Réflexions sur l'état de
 l'église en France pendant le 18^(ième) siècle et sur sa situation
 actuelle_, published anonymously in Paris in 1808. Napoleon's police
@@ -25,22 +25,22 @@ part in the politics of churches and of states.
 
 As a rest from political strife, Lamennais devoted most of the following
 year to a translation, in exquisite French, of the _Speculum Monachorum_
-of Ludovicus Blosius (Louis de Blois) which he entitled _Le Guide
+of Ludovicus Blosius (Louis de [[Blois]]) which he entitled _Le Guide
 spirituel_ (1809). In 1811 he received the tonsure and shortly
 afterwards became professor of mathematics in an ecclesiastical college
 founded by his brother at Saint Malo. Soon after Napoleon had concluded
 the Concordat with Pius VII. he published, in conjunction with his
 brother, _De la tradition de l'église sur l'institution des évêques_
 (1814), a writing occasioned by the emperor's nomination of Cardinal
-Maury to the archbishopric of Paris, in which he strongly condemned the
+[[Maury]] to the archbishopric of Paris, in which he strongly condemned the
 Gallican principle which allowed bishops to be created irrespective of
-the pope's sanction. He was in Paris at the first Bourbon restoration in
+the pope's sanction. He was in Paris at the first [[Bourbon]] restoration in
 1814, which he hailed with satisfaction, less as a monarchist than as a
-strenuous apostle of religious regeneration. Dreading the _Cent Jours_,
+strenuous [[Apostle|apostle]] of religious regeneration. Dreading the _Cent Jours_,
 he escaped to London, where he obtained a meagre livelihood by giving
 French lessons in a school founded by the abbé Jules Carron for French
 émigrés; he also became tutor at the house of Lady Jerningham, whose
-first impression of him as an imbecile changed into friendship. On the
+first impression of him as an [[Imbecile|imbecile]] changed into friendship. On the
 final overthrow of Napoleon in 1815 he returned to Paris, and in the
 following year, with many misgivings as to his calling, he yielded to
 his brother's and Carron's advice, and was ordained priest by the bishop
@@ -49,12 +49,12 @@ of Rennes.
 The first volume of his great work, _Essai sur l'indifférence en matière
 de religion_, appeared in 1817 (Eng. trans. by Lord Stanley of Alderley,
 London, 1898), and affected Europe like a spell, investing, in the words
-of Lacordaire, a humble priest with all the authority once enjoyed by
-Bossuet. Lamennais denounced toleration, and advocated a Catholic
+of [[Lacordaire]], a humble priest with all the authority once enjoyed by
+[[Bossuet]]. Lamennais denounced toleration, and advocated a Catholic
 restoration to belief. The right of private judgment, introduced by
 Descartes and Leibnitz into philosophy and science, by Luther into
 religion and by Rousseau and the Encyclopaedists into politics and
-society, had, he contended, terminated in practical atheism and
+society, had, he contended, terminated in practical [[Atheism|atheism]] and
 spiritual death. Ecclesiastical authority, founded on the absolute
 revelation delivered to the Jewish people, but supported by the
 universal tradition of all nations, he proclaimed to be the sole hope of
@@ -68,16 +68,16 @@ refused. On his return to France he took a prominent part in political
 work, and together with Chateaubriand, the vicomte de Villèle, was a
 regular contributor to the _Conservateur_, but when Villèle became the
 chief of the supporters of absolute monarchy, Lamennais withdrew his
-support and started two rival organs, _Le Drapeau blanc_ and _Le
+support and started two rival organs, _Le Drapeau [[Blanc|blanc]]_ and _Le
 Mémorial catholique_. Various other minor works, together with _De la
 religion considérée dans ses rapports avec l'ordre civil et politique_
 (2 vols., 1825-1826), kept his name before the public.
 
 He retired to La Chênaie and gathered round him a host of brilliant
-disciples, including C. de Montalembert, Lacordaire and Maurice de
+[[Disciple|disciples]], including C. de Montalembert, Lacordaire and [[Maurice]] de
 Guérin, his object being to form an organized body of opinion to
 persuade the French clergy and laity to throw off the yoke of the state
-connexion. With Rome at his back, as he thought, he adopted a frank and
+connexion. With Rome at his back, as he thought, he adopted a [[Frank|frank]] and
 bold attitude in denouncing the liberties of the Gallican church. His
 health broke down and he went to the Pyrenees to recruit. On his return
 to La Chênaie in 1827 he had another dangerous illness, which powerfully
@@ -103,7 +103,7 @@ while, and they set out to Rome in November 1831 to obtain the approval
 of Gregory XVI. The "pilgrims of liberty" were, after much opposition,
 received in audience by the pope, but only on the condition that the
 object which brought them to Rome should not be mentioned. This was a
-bitter disappointment to such earnest ultramontanes, who received, a few
+bitter disappointment to such [[Earnest|earnest]] ultramontanes, who received, a few
 days after the audience, a letter from Cardinal Pacca, advising their
 departure from Rome and suggesting that the Holy See, whilst admitting
 the justice of their intentions, would like the matter left open for the
@@ -111,8 +111,8 @@ present. Lacordaire and Montalembert obeyed; Lamennais, however,
 remained in Rome, but his last hope vanished with the issue of Gregory's
 letter to the Polish bishops, in which the Polish patriots were reproved
 and the tsar was affirmed to be their lawful sovereign. He then "shook
-the dust of Rome from off his feet." At Munich, in 1832, he received the
-encyclical _Mirari vos_, condemning his policy; as a result _L'Avenir_
+the [[Dust|dust]] of Rome from off his feet." At Munich, in 1832, he received the
+[[Encyclical|encyclical]] _Mirari vos_, condemning his policy; as a result _L'Avenir_
 ceased and the _Agence_ was dissolved.
 
 Lamennais, with his two lieutenants, submitted, and deeply wounded,
@@ -122,7 +122,7 @@ long were the fiercest of his opponents. The famous _Paroles d'un
 croyant_, published in 1834 through the intermediary of Sainte-Beuve,
 marks Lamennais's severance from the church. "A book, small in size, but
 immense in its perversity," was Gregory's criticism in a new encyclical
-letter. A tractate of aphorisms, it has the vigour of a Hebrew prophecy
+letter. A tractate of [[Aphorism|aphorisms]], it has the vigour of a Hebrew prophecy
 and contains the choicest gems of poetic feeling lost in a whirlwind of
 exaggerations and distorted views of kings and rulers. The work had an
 extraordinary circulation and was translated into many European
@@ -150,17 +150,17 @@ _Le Peuple constituant_; however, he was compelled to stop it on the
 10th of July, complaining that silence was for the poor, but again he
 was at the head of _La Révolution démocratique et sociale_, which also
 succumbed. In the constituent assembly he sat on the left till the
-_coupe d'état_ of Napoleon III. in 1851 put an end to all hopes of
-popular freedom. While deputy he drew up a constitution, but it was
-rejected as too radical. Thereafter a translation of Dante chiefly
+_[[Coupe|coupe]] d'état_ of Napoleon III. in 1851 put an end to all hopes of
+popular freedom. While [[Deputy|deputy]] he drew up a constitution, but it was
+rejected as too radical. Thereafter a translation of [[Dante]] chiefly
 occupied him till his death, which took place in Paris on the 27th of
 February 1854. He refused to be reconciled to the church, and was buried
-according to his own directions at Père La Chaise without funeral rites,
+according to his own directions at Père La Chaise without [[Funeral Rites|funeral rites]],
 being mourned by a countless concourse of democratic and literary
 admirers.
 
 During the most difficult time of his republican period he found solace
-for his intellect in the composition of _Une voix de prison_, written
+for his [[Intellect|intellect]] in the composition of _Une voix de prison_, written
 during his imprisonment in a similar strain to _Les paroles d'un
 croyant_. This is an interesting contribution to the literature of
 captivity; it was published in Paris in 1846. He also wrote _Esquisse de
@@ -174,9 +174,9 @@ evidence of his thinking power and brilliant style.
   1844); both these are very incomplete and only contain the works
   mentioned above. The most noteworthy of his writings subsequently
   published are: _Amschaspands et Darvands_ (1843), _Le Deuil de la
-  Pologne_ (1846), _Mélanges philosophiques et politiques_ (1856), _Les
+  Pologne_ (1846), _Mé[[Lange|langes]] philosophiques et politiques_ (1856), _Les
   Évangiles_ (1846) and _La Divine Comédie_, these latter being
-  translations of the Gospels and of Dante.
+  translations of the [[Gospel|Gospels]] and of Dante.
 
   Part of his voluminous correspondence has also appeared. The most
   interesting volumes are the following: _Correspondance de F. de
@@ -196,11 +196,11 @@ evidence of his thinking power and brilliant style.
   The following may be mentioned. A Blaize, _Essai biographique sur M.
   de Lamennais_ (1858); E. D. Forgues, _Notes et souvenirs_ (1859); F.
   Brunetière, _Nouveaux essais sur la littérature contemporaine_ (1893);
-  E. Faguet, _Politiques et moralistes_, ii. (1898); P. Janet, _La
+  E. [[Faguet]], _Politiques et moralistes_, ii. (1898); P. [[Janet]], _La
   Philosophie de Lamennais_ (1890); P. Mercier, S.J., _Lamennais d'après
   sa correspondance et les travaux les plus récents_ (1893); A. Mollien
   et F. Duine, _Lamennais, sa vie et ses idées_; _Pages choisies_
-  (Lyons, 1898); The Hon. W. Gibson, _The Abbé de Lammenais and the
+  ([[Lyons]], 1898); The Hon. W. [[Gibson]], _The Abbé de Lammenais and the
   Liberal Catholic Movement in France_ (London, 1896); E. Renan _Essais
   de morale et de critique_ (1857); E. Schérer, _Mélanges de critique
   religieuse_ (1859); G. E. Spuller, _Lamennais, étude d'histoire et de

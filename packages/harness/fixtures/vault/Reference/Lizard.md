@@ -39,7 +39,7 @@ are:--
                       suturally.                mostly ligamentous.
 
   Columella cranii  Mostly present.           Absent.
-                    Mostly with bony arches
+                    Mostly with bony [[Arches|arches]]
                       across the temporal     No bony arches.
                       region.
                     Osteoderms common.        No bony arches.
@@ -48,20 +48,20 @@ are:--
 The lizards and snakes are the two dominant reptilian orders which are
 still on the increase in species, though certainly not in size. As a
 moderate estimate, the number of recent species of lizards is about
-1700. As a group they are cosmopolitan, their northern limit approaching
+1700. As a group they are [[Cosmopolitan|cosmopolitan]], their northern limit approaching
 that of the permanently frozen subsoil, while in the southern hemisphere
 the southern point of Patagonia forms the farthest limit. As we approach
 the tropics, the variety of forms and the number of individuals
 increase, the most specialized and developed forms, and also the most
 degraded, being found in the tropics. In the temperate regions they
 hibernate. The majority live on broken ground, with or without much
-vegetation; many are arboreal and many are true desert animals, while a
+vegetation; many are arboreal and many are true [[Desert|desert]] animals, while a
 few are more or less aquatic; one, the leguan of the Galapagos,
 _Amblyrhynchus_, even enters the sea. Some, like the majority of the
-geckos, are nocturnal. In adaptation to these varied surroundings they
+[[Gecko|geckos]], are nocturnal. In adaptation to these varied surroundings they
 exhibit great variety in shape, size and structure. Most of these
 modifications are restricted to the skin, limbs, tail or tongue. Most
-lizards live on animal food, varying from tiny insects and worms to
+lizards live on animal food, varying from tiny [[Insect|insects]] and worms to
 lizards, snakes, birds and mammals, while others prefer a mixed or an
 entirely vegetable diet. Accordingly, the teeth and the whole digestive
 tract are modified. But swiftness, the apparatus necessary for climbing,
@@ -70,7 +70,7 @@ jaws (hence modifications of the cranial arches) stand also in
 correlation with the kind of food and with the way in which it has to be
 procured. Generally the teeth are conical or pointed, more rarely blunt,
 grooved or serrated. They are inserted either on the inner side of the
-margin of the jaws (_pleurodonta_) or on the edge of the bones
+margin of the jaws (_pleurodonta_) or on the edge of the [[Bone|bones]]
 (_acrodonta_). The tongue is generally beset with more or less scaly or
 velvety papillae and has always a well-marked posterior margin, while
 the anterior portion may or may not be more or less retractile into the
@@ -86,7 +86,7 @@ escape when pursued by some other animal, which is satisfied with
 capturing the detached member.
 
 The motions of most lizards are executed with great but not enduring
-rapidity. With the exception of the chameleon, all drag their body over
+rapidity. With the exception of the chameleon, all [[Drag|drag]] their body over
 the ground, the limbs being wide apart, turned outwards and relatively
 to the bulk of the body generally weak. But the limbs show with regard
 to development great variation, and an uninterrupted transition from the
@@ -95,7 +95,7 @@ their total disappearance; yet even limbless lizards retain bony
 vestiges beneath the skin. The motions of these limbless lizards are
 similar to those of snakes, which they resemble in their elongate body.
 
-The eggs are elliptical in shape, both poles being equal, and are
+The [[Egg|eggs]] are elliptical in shape, both poles being equal, and are
 covered with a shell which may be thin and leathery or hard and
 calcareous. The number of eggs laid is small in comparison with other
 reptiles, rarely exceeding a score, and some like the anolids and the
@@ -106,7 +106,7 @@ these species then bring forth living young and are called
 ovo-viviparous by purists. Some lizards possess a considerable amount of
 intelligence; they play with each other, become very tame, and act
 deliberately according to circumstances. As a rule the Iguanids and
-Varans are as bright as the Agamas are dull. Many have the power of
+Varans are as [[Bright|bright]] as the Agamas are dull. Many have the power of
 changing colour, a faculty which they share only with various frogs,
 toads and fishes. Lizards are not poisonous, with the single exception
 of _Heloderma_.
@@ -127,17 +127,17 @@ of _Heloderma_.
   Nearly all geckos are nocturnal and the pupil contracts into a
   vertical slit, except in a few diurnal kinds, e.g. _Phelsuma_ of
   islands in the Indian Ocean, and _Lygodactylus_ of Africa.
-  _Aelurosaurus_ of Borneo and Australia, and _Ptenopus_ of South
+  _Aelurosaurus_ of Borneo and [[Australia]], and _Ptenopus_ of South
   Africa, have upper and lower movable eyelids. Whilst the skin is
   mostly soft on the back, with little granular tubercles, scales
   (except on the belly) are absent, but they are present in
-  _Homopholis_, in _Geckolepis_ of Madagascar, and most fully developed
+  _Homopholis_, in _Geckolepis_ of [[Madagascar]], and most fully developed
   in _Teratoscincus scincus_. This peculiar little inhabitant of the
   steppes and desert regions of Turkestan and Persia, by rubbing the
   imbricating scales upon each other, produces a shrill cricket-like
   noise, whilst sitting at night in front of its hole in the ground.
   Furthermore it is so thoroughly adapted to running upon the desert
-  sand that its digits are devoid of adhesive lamellae. The same
+  sand that its [[Digit|digits]] are devoid of adhesive lamellae. The same
   beautiful adaptation to the surroundings exists also in _Ptenopus_
   (with fringed toes) and _Stenodactylus_, which are likewise
   deserticolous. _Aeluronyx_ of Madagascar and Seychelles has cat-like
@@ -171,7 +171,7 @@ of _Heloderma_.
   III. Suborder, LACERTAE. Procoelous vertebrae; ventral portions of the
   clavicles not dilated; parietal bones fused into one.
 
-  The general appearance is too misleading for the classification of the
+  The general appearance is too misleading for the [[Classification|classification]] of the
   Lacertae. E. D. Cope (_Proc. Ac. Philad._, 1864, pp. 224 et seq. and
   _Proc. Amer. Ass._ xix., 1871, p. 236, &c.) therefore relied upon more
   fundamental characters, notably the presence or absence of osteoderms,
@@ -179,7 +179,7 @@ of _Heloderma_.
   (_Ann. Nat. Hist._ 5, xiv., 1884, p. 117, &c.) has further improved
   upon the then prevailing arrangements, and has elaborated a
   classification which, used by himself in the three volumes of the
-  catalogue of lizards in the British Museum, is followed in the present
+  [[Catalogue|catalogue]] of lizards in the British Museum, is followed in the present
   article with slight alterations in the order of treatment of the
   families. In the following diagnoses of the families preference is
   given to such characters as are most easily ascertained.
@@ -228,7 +228,7 @@ of _Heloderma_.
   genera _Stellio_ and _Agama_. Their scales are mixed with larger
   prominent spines, which in some species are particularly developed on
   the tail, and disposed in whorls. Nearly all travellers in the north
-  of Africa mention the _Hardhón_ of the Arabs (_Agama stellio_), which
+  of Africa mention the _Hardhón_ of the [[Arabs]] (_Agama stellio_), which
   is extremely common, and has drawn upon itself the hatred of the
   Mahommedans by its habit of nodding its head, which they interpret as
   a mockery of their own movements whilst engaged in prayer. In some of
@@ -244,8 +244,8 @@ of _Heloderma_.
   its chameleon-like appearance, are Ceylonese. _Calotes_, peculiar to
   Indian countries, comprises many species, e.g. _C. ophiomachus_,
   generally known as the "bloodsucker" on account of the red colour on
-  the head and neck displayed during excitement. _Draco_ (see DRAGON) is
-  Indo-Malayan. _Physignathus_ is known from Australia to Cochin China.
+  the head and neck displayed during excitement. _[[Draco]]_ (see DRAGON) is
+  Indo-Malayan. _Physignathus_ is known from Australia to [[Cochin]] China.
 
   Of the Australian agamas no other genus is so numerously represented
   and widely distributed as _Grammatophora_, the species of which grow
@@ -254,23 +254,23 @@ of _Heloderma_.
   peculiarity, unless the loose skin of their throat, which is
   transversely folded and capable of inflation, be regarded as such. On
   the other hand, two other Australian agamoids have attained some
-  celebrity by their grotesque appearance, due to the extraordinary
+  celebrity by their [[Grotesque|grotesque]] appearance, due to the extraordinary
   development of their integuments. One (fig. 1) is the frilled lizard
   (_Chlamydosaurus kingi_), which is restricted to Queensland and the
   north coast, and grows to a length of 3 ft., including the long
-  tapering tail. It is provided with a frill-like fold of the skin round
+  tapering tail. It is provided with a frill-like [[Fold|fold]] of the skin round
   the neck, which, when erected, resembles a broad collar. This lizard
   when startled rises with the fore-legs off the ground and squats and
   runs on its hind-legs. The other lizard is one which most
   appropriately has been called _Moloch horridus_. It is covered with
   large and small spine-bearing tubercules; the head is small and the
   tail short. It is sluggish in its movements, and so harmless that its
-  armature and (to a casual observer) repulsive appearance are its sole
+  [[Armature|armature]] and (to a casual observer) repulsive appearance are its sole
   means of defence. It grows only to a length of 10 in., and is not
   uncommon in the flats of South and West Australia.
 
   Family 2. _Iguanidae._--Pleurodont; tongue broad and thick, not
-  protractile; no osteoderms. America, Madagascar and Fiji Islands.
+  protractile; no osteoderms. America, Madagascar and [[Fiji]] Islands.
 
   According to the very varied habits, their external appearance varies
   within wide limits, there being amongst the 300 species, with 50
@@ -280,17 +280,17 @@ of _Heloderma_.
   from which they differ mainly by the pleurodont dentition. Most of
   them are insectivorous. Some, especially _Anolis_ and _Polychrus_, can
   change colour to a remarkable extent. The family ranges all through
-  the neotropical region, inclusive of the Galapagos and the Antilles,
+  the neotropical region, inclusive of the Galapagos and the [[Antilles]],
   into the southern and western states of North America. Remarkable
   cases of discontinuous distribution are _Chalarodon_ and _Hoplodon_ in
   Madagascar, and _Brachylophus fasciatus_ in the Fiji Islands.
   _Conolophus subcristatus_ and _Amblyrhynchus cristatus_ inhabit the
   Galapagos; the former feeds upon cactus and leaves, the latter is
   semi-marine, diving for the algae which grow below tide-marks. For
-  _Basiliscus_ see BASILISK; IGUANA is dealt with under its own heading;
-  allied is _Metopoceros cornutus_ of Hayti. _Polychrus_, the
+  _Basiliscus_ see [[Basilisk|BASILISK]]; IGUANA is dealt with under its own heading;
+  allied is _Metopoceros [[Cornutus|cornutus]]_ of Hayti. _Polychrus_, the
   "chameleon," and _Liolaemus_ are South American; _Ctenosaura_ of
-  Central America and Mexico resembles the agamoid _Uromastix_.
+  [[Central America]] and Mexico resembles the agamoid _Uromastix_.
   _Corythophanes_ and _Laemanctus_, with only a few species, are rare
   inhabitants of the tropical forests of Central America and Mexico.
   _Sauromalus_, _Crotaphytus_, _Callisaurus_, _Holbrookia_, _Uma_, _Uta_
@@ -315,7 +315,7 @@ of _Heloderma_.
   and then can run fast enough; otherwise they are sluggish, dig
   themselves into the sand by a peculiar shuffling motion of the fringed
   edges of their flattened bodies, and when surprised they feign death.
-  The statement, persistently repeated (O. P. Hay, _Proc. U.S. Nat.
+  The statement, persistently repeated (O. P. [[Hay]], _Proc. U.S. Nat.
   Mus._ xv., 1892, pp. 375-378), that some, e.g. _P. blainvillei_ of
   California, have the power of squirting a blood-red fluid from the
   corner of the eye, still requires renewed investigation.
@@ -326,7 +326,7 @@ of _Heloderma_.
   extremely numerous as regards species (more than 100) and individuals
   on bushes and trees of tropical America, and especially of the West
   Indies. They offer many points of analogy to the humming birds in
-  their distribution, colours and even disposition. Hundreds may be seen
+  their distribution, [[Colours|colours]] and even disposition. Hundreds may be seen
   on a bright day, disporting themselves on trees and fences, and
   entering houses. Like the iguanas, they (at least the males) are
   provided with a large, expansible dewlap at the throat, which is
@@ -334,7 +334,7 @@ of _Heloderma_.
   provocation. This appendage is merely a fold of the skin, ornamental
   and sexual; it has no cavity in its interior, and has no communication
   with the mouth or with the respiratory organs; it is supported by the
-  posterior horns of the hyoid bone, and can be erected and spread at
+  posterior [[Horn|horns]] of the hyoid bone, and can be erected and spread at
   the will of the animal. The presence of such dewlaps in lizards is
   always a sign of an excitable temper. Many, e.g. _A. carolinensis_,
   the "chameleon," can change colour to an extraordinary degree. They
@@ -361,13 +361,13 @@ of _Heloderma_.
   entirely zoophagous and ovo-viviparous. America, Europe and India.
 
   _Gerrhonotus_, 8 species, in mountainous countries, from British
-  Columbia to Costa Rica; like _Diploglossus s. Celestus_ of Mexico, the
+  [[Columbia]] to [[Costa Rica]]; like _Diploglossus s. Celestus_ of Mexico, the
   Antilles and Central America, with well-developed limbs, but with a
   lateral fold. _Anguis fragilis_ and two species of _Ophiosaurus_ are
   the only members of this family which are not American, and even the
   third species of _Ophiosaurus_, _O. ventralis_, lives in the United
   States. _Ophiosaurus s. Pseudopus_, the glass-snake, from Morocco and
-  the Balkan peninsula to Burma and Fokien; also in the U.S.A., with the
+  the [[Balkan Peninsula|Balkan peninsula]] to [[Burma]] and Fokien; also in the U.S.A., with the
   limbs reduced to a pair of tiny spikes near the vent, and a lateral
   fold along the snake-like body. _Anguis_, with its sole species
   fragilis, the slow-worm or blind-worm, is devoid of a lateral fold,
@@ -396,7 +396,7 @@ of _Heloderma_.
 
   Family 6. _Aniellidae._--One genus, _Aniella_, with a few worm- or
   snake-shaped species in California, which seem to be degraded forms of
-  _Anguidae_. The eyes and ears are concealed, the limbs are entirely
+  _Anguidae_. The eyes and [[Ear|ears]] are concealed, the limbs are entirely
   absent, body and tail covered with soft, imbricating scales. The
   tongue is villose, smooth, bifid anteriorly. The few teeth are
   recurved, with swollen bases. The skull is much reduced. Total length
@@ -512,7 +512,7 @@ of _Heloderma_.
   rapidly in and under the sand of the desert. In former times large
   quantities of it were imported in a dry state into Europe for
   officinal purposes, the drug having the reputation of being
-  efficacious in diseases of the skin and lungs; and even now it may be
+  efficacious in diseases of the skin and [[Lung|lungs]]; and even now it may be
   found in apothecaries' shops in the south of Europe, country people
   regarding it as a powerful aphrodisiac for cattle.
 
@@ -534,14 +534,14 @@ of _Heloderma_.
   Scincoids. The worm-shaped body is devoid of osteoderms. The tongue is
   short, covered with imbricating papillae and slightly nicked
   anteriorly. Teeth pleurodont. _Anelytropsis papillosus_, of which only
-  three specimens are known, from the humus of forests in the state of
+  three specimens are known, from the [[Humus|humus]] of forests in the state of
   Vera Cruz. Eyes concealed. _Typhlosaurus_ and _Feylinia_ in tropical
   Africa and Madagascar.
 
   Family 13. _Dibamidae._--_Dibamus novae-Guineae_ of New Guinea, the
   Moluccas, Celebes and the Nicobar Islands. Tongue arrow-shaped,
   covered with curved papillae. The vermiform body is covered with
-  cycloid imbricating scales, devoid of osteoderms. Limbs and even their
+  [[Cycloid|cycloid]] imbricating scales, devoid of osteoderms. Limbs and even their
   arches are absent, excepting a pair of flaps which represent the
   hind-limbs in the males.
 
@@ -587,7 +587,7 @@ of _Heloderma_.
   females, which are brown, spotted with black. The third British
   species, the green lizard (_Lacerta viridis_), does not occur in
   England proper; it has found a congenial home in the island of
-  Guernsey, but is there much less developed as regards size and beauty
+  [[Guernsey]], but is there much less developed as regards size and beauty
   than on the continent. This species is larger than the two preceding;
   it is green, with minute blackish spots. In Germany and France one
   other species only (_Lacerta muralis_) appears; but in the south of
@@ -645,7 +645,7 @@ of _Heloderma_.
   _Lialis burtoni_, of similar size and distribution, has the hind-limbs
   reduced to very small, narrow appendages. The members of this family
   seem to lead a snake-like life, not subterranean, and some are said to
-  eat other lizards. _L. jicari_, from the Fly river, has a very
+  eat other lizards. _L. jicari_, from the [[Fly]] river, has a very
   snake-like appearance, with a long, pointed snout like certain
   tree-snakes, but with an easily visible ear-opening; their eyelids are
   reduced to a ring which is composed of two or three rows of small
@@ -654,7 +654,7 @@ of _Heloderma_.
 
 FOOTNOTE:
 
-  [1] For the etymology of this word, see CROCODILE.
+  [1] For the [[Etymology|etymology]] of this word, see [[Crocodile|CROCODILE]].
 
   [2] For anatomical detail and experiments, see R. W. Shufeldt, _P. Z.
     S._ (1890), p. 178; G. A. Boulenger, _ibid._ (1891), p. 109, and C.

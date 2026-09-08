@@ -8,7 +8,7 @@ topic: theology-christian-theory
 
 BRAUNAU (Czech _Broumov_), a town of Bohemia, Austria, 139 m. E.N.E. of
 Prague by rail. Pop. (1900) 7622, chiefly German. The town is built on a
-rocky eminence on the right bank of the Steine. It has an imposing
+rocky [[Eminence|eminence]] on the right bank of the Steine. It has an imposing
 Benedictine abbey, once a castle, but converted into a religious house
 in 1322, when Ottakar I. gave the district to the Benedictines.
 Noteworthy also is the great church of Saints Wenceslaus and Adalbert,

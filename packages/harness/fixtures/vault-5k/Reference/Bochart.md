@@ -13,8 +13,8 @@ at Caen, and became tutor to Wentworth Dillon, earl of Roscommon. In
 two parts of his _Geographia Sacra_. His _Hierozoicon_, which treats of
 the animals of Scripture, was printed in London (2 vols., 1663). In 1652
 Christina of Sweden invited him to Stockholm, where he studied the
-Arabian manuscripts in the queen's possession. He was accompanied by
-Pierre Daniel Huet, afterwards bishop of Avranches. On his return to
+Arabian [[Manuscript|manuscripts]] in the queen's possession. He was accompanied by
+Pierre [[Daniel]] Huet, afterwards bishop of Avranches. On his return to
 Caen he was received into the academy of that city. Bochart was a man of
 profound erudition; he possessed a thorough knowledge of the principal
 Oriental languages, including Hebrew, Syriac, Chaldaic and Arabic; and

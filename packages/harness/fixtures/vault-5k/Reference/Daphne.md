@@ -3,7 +3,7 @@
 DAPHNE, in botany, a genus of shrubs, belonging to the natural order
 Thymelaeaceae, and containing about forty species, natives of Europe and
 temperate Asia. _D. Laureola_, spurge laurel, a small evergreen shrub
-with green flowers in the leaf axils towards the ends of the branches
+with green flowers in the [[Leaf|leaf]] axils towards the ends of the branches
 and ovoid black very poisonous berries, is found in England in copses
 and on hedge-banks in stiff soils. _D. Mezereum_, mezereon, a rather
 larger shrub, 2 to 4 ft. high, has deciduous leaves, and bears fragrant

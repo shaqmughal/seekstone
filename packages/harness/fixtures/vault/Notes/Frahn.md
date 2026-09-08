@@ -8,7 +8,7 @@ id: 42-8248
 
 # Frahn
 
-FRAHN, CHRISTIAN MARTIN (1782-1851), German numismatist and historian,
+FRAHN, CHRISTIAN [[Martin|MARTIN]] (1782-1851), German numismatist and historian,
 was born at Rostock. He began his Oriental studies under Tychsen at the
 university of Rostock, and afterwards prosecuted them at Göttingen and
 Tübingen. He became a Latin master in Pestalozzi's famous institute in

@@ -27,7 +27,7 @@ Caffeine, which is far the best true diuretic, acts in nearly every way
 mentioned above. Together with digitalis it is the most efficient remedy
 for cardiac dropsy. A famous diuretic pill, known as Guy's pill,
 consists of a grain each of mercurial pill, digitalis leaves and squill,
-made up with extract of henbane. Digitalis, producing its diuretic
+made up with extract of [[Henbane|henbane]]. Digitalis, producing its diuretic
 effect by its combined action on heart, vessels and kidneys, is much
 used in the oedema of mitral disease, but must be avoided in chronic
 Bright's disease, as it increases the tension of the pulse, already

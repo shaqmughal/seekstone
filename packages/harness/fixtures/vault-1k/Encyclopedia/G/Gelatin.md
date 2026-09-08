@@ -107,7 +107,7 @@ varying from 0.25 to 0.7%.
 
 Gelatin occurs in commerce in varying degrees of purity; the purer form
 obtained from skins and bones (to which this article is restricted) is
-named gelatin; a preparation of great purity is "patent isinglass,"
+named gelatin; a preparation of great purity is "patent [[Isinglass|isinglass]],"
 while isinglass (q.v.) itself is a fish-gelatin; less pure forms
 constitute glue (q.v.), while a dilute aqueous solution appears in
 commerce as size (q.v.). The manufacture follows much the same lines as

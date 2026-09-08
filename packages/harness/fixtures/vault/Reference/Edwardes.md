@@ -1,19 +1,19 @@
 # Edwardes
 
-EDWARDES, SIR HERBERT BENJAMIN (1819-1868), English soldier-statesman in
+EDWARDES, SIR HERBERT [[Benjamin|BENJAMIN]] (1819-1868), English soldier-statesman in
 India, was born at Frodesley in Shropshire on the 12th of November 1819.
 His father was Benjamin Edwardes, rector of Frodesley, and his
 grandfather Sir John Edwardes, baronet, eighth holder of a title
 conferred on one of his ancestors by Charles I. in 1644. He was educated
 at a private school and at King's College, London. Through the influence
 of his uncle, Sir Henry Edwardes, he was nominated in 1840 to a
-cadetship in the East India Company; and on his arrival in India, at the
-beginning of 1841, he was posted as ensign in the 1st Bengal Fusiliers.
+cadetship in the [[East India Company]]; and on his arrival in India, at the
+beginning of 1841, he was posted as [[Ensign|ensign]] in the 1st [[Bengal]] Fusiliers.
 He remained with this regiment about five years, during which time he
 mastered the lessons of his profession, obtained a good knowledge of
-Hindustani, Hindi and Persian, and attracted attention by the political
+Hindustani, [[Hindi]] and Persian, and attracted attention by the political
 and literary ability displayed in a series of letters which appeared in
-the _Delhi Gazette_.
+the _[[Delhi]] [[Gazette]]_.
 
 In November 1845, on the breaking out of the first Sikh War, Edwardes
 was appointed aide-de-camp to Sir Hugh (afterwards Viscount) Gough, then
@@ -22,7 +22,7 @@ wounded at the battle of Mudki. He soon recovered, however, and fought
 by the side of his chief at the decisive battle of Sobraon (February 10,
 1846). He was soon afterwards appointed third assistant to the
 commissioners of the trans-Sutlej territory; and in January 1847 was
-named first assistant to Sir Henry Lawrence, the resident at Lahore.
+named first assistant to Sir Henry [[Lawrence]], the resident at Lahore.
 Lawrence became his great exemplar and in later years he was accustomed
 to attribute to the influence of this "father of his public life"
 whatever of great or good he had himself achieved. He took part with
@@ -30,7 +30,7 @@ Lawrence in the suppression of a religious disturbance at Lahore in the
 spring of 1846, and soon afterwards assisted him in reducing, by a rapid
 movement to Jammu, the conspirator Imam-ud-din. In the following year a
 more difficult task was assigned him--the conduct of an expedition to
-Bannu, a district on the Waziri frontier, in which the people would not
+[[Bannu]], a district on the Waziri frontier, in which the people would not
 tolerate the presence of a collector, and the revenue had consequently
 fallen into arrear. By his rare tact and fertility of resource, Edwardes
 succeeded in completely conquering the wild tribes of the valley without
@@ -46,15 +46,15 @@ Indus, was joined by Colonel van Cortlandt, and, although he could not
 attack Multan, held the enemy at bay and gave a check at the critical
 moment to their projects. He won a great victory over a greatly superior
 Sikh force at Kinyeri (June 18), and received in acknowledgment of his
-services the local rank of major. In the course of the operations which
+services the local rank of [[Major|major]]. In the course of the operations which
 followed near Multan, Edwardes lost his right hand by the explosion of a
 pistol in his belt. On the arrival of a large force under General Whish
 the siege of Multan was begun, but was suspended for several months in
-consequence of the desertion of Shere Singh with his army and artillery.
+consequence of the [[Desertion|desertion]] of Shere Singh with his army and artillery.
 Edwardes distinguished himself by the part he took in the final
 operations, begun in December, which ended with the capture of the city
 on the 4th of January 1849. For his services he received the thanks of
-both houses of parliament, was promoted major by brevet, and created
+both houses of parliament, was promoted major by [[Brevet|brevet]], and created
 C.B. by special statute of the order. The directors of the East India
 Company conferred on him a gold medal and a good service pension of £100
 per annum.
@@ -83,7 +83,7 @@ whether he could ever return to India. During his stay he was created
 K.C.B., with the rank of brevet colonel; and the degree of LL.D. was
 conferred upon him by the university of Cambridge. Early in 1862 he
 again sailed for India, and was appointed commissioner of Umballa and
-agent for the Cis-Sutlej states. He had been offered the governorship of
+agent for the [[Cis-Sutlej States|Cis-Sutlej states]]. He had been offered the governorship of
 the Punjab, but on the ground of failing health had declined it. In
 February 1865 he was compelled to finally resign his post and return to
 England. A second good service pension was at once conferred on him; in

@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ashlar"
 # Ashlar
 
 ASHLAR, also written ASHLER, ASHELERE, &c. (probably from Lat. _axilla_,
-diminutive of _axis_, an axle), hewn or squared stone, generally applied
+diminutive of _axis_, an [[Axle|axle]]), hewn or squared stone, generally applied
 to that used for facing walls. In a contract of date 1398 we
 read--"Murus erit exterius de puro lapide vocato _achilar_, plane
 incisso, interius vero de lapide fracto vocato _roghwall_." "Clene hewen

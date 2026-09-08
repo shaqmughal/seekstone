@@ -1,6 +1,6 @@
 # Beechworth
 
-BEECHWORTH, a town of Bogong county, Victoria, Australia, 172 m. by rail
+BEECHWORTH, a town of Bogong county, Victoria, [[Australia]], 172 m. by rail
 N.E. of Melbourne. Pop. (1901) 7359. The town is the centre of the Ovens
 goldfields, and the district is mainly devoted to mining with both
 alluvial and reef working, but much of the land is under cultivation,

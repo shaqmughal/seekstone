@@ -2,7 +2,7 @@
 
 CRESCENT (Lat. _crescens_, growing), originally the waxing moon, hence a
 name applied to the shape of the moon in its first quarter. The crescent
-is employed as a charge in heraldry, with its horns vertical; when they
+is employed as a charge in heraldry, with its [[Horn|horns]] vertical; when they
 are turned to the dexter side of the shield, it is called increscent,
 when to the sinister, decrescent. A crescent is used as a difference to
 denote the second son of a house; thus the earls of Harrington place a
@@ -37,7 +37,7 @@ crescent, like that seen on modern horse-trappings, has nothing to do
 with the new moon, but is the result of the base-to-base conjunction of
 two claw or tusk amulets, an example of which has been brought to light
 during the excavations of the site of the temple of Artemis Orthia at
-Sparta (see _Athenaeum_, March 21, 1908). There is nothing distinctively
+Sparta (see _[[Athenaeum]]_, March 21, 1908). There is nothing distinctively
 Turkish in the combination of crescent and star which appears on the
 Turkish national standard; the latter is shown by coins and inscriptions
 to have been an ancient Illyrian symbol, and is of course common in

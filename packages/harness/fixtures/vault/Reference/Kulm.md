@@ -6,14 +6,14 @@ topic: science
 
 # Kulm
 
-KULM (CULM). (1) A town of Germany, in the province of West Prussia, 33
+KULM ([[Culm|CULM]]). (1) A town of Germany, in the province of West Prussia, 33
 m. by rail N.W. of Thorn, on an elevation above the plain, and 1 m. E.
 of the Vistula. Pop. (1905), 11,665. It is surrounded by old walls,
 dating from the 13th century, and contains some interesting buildings,
 notably its churches, of which two are Roman Catholic and two
-Protestant, and its medieval town-hall. The cadet school, founded here
+Protestant, and its medieval town-hall. The [[Cadet|cadet]] school, founded here
 in 1776 by Frederick the Great, was removed to Köslin in 1890. There are
-large oil mills, also iron foundries and machine shops, as well as an
+large oil mills, also iron foundries and [[Machine|machine]] shops, as well as an
 important trade in agricultural produce, including fruit and vegetables.
 Kulm gives name to the oldest bishopric in Prussia, although the bishop
 resides at Pelplin. It was presented about 1220 by Duke Conrad of

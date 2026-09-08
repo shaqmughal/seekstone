@@ -1,7 +1,7 @@
 # Diazo Compounds
 
-DIAZO COMPOUNDS, in organic chemistry, compounds of the type R·N·2·X
-(where R = a hydrocarbon radical, and X = an acid radical or a hydroxyl
+DIAZO COMPOUNDS, in organic [[Chemistry|chemistry]], compounds of the type R·N·2·X
+(where R = a [[Hydrocarbon|hydrocarbon]] radical, and X = an acid radical or a hydroxyl
 group). These compounds may be divided into two classes, namely, the
 true diazo compounds, characterized by the grouping - N = N -, and the
 diazonium compounds, characterized by the grouping N:·N<.
@@ -23,10 +23,10 @@ nitrite; a crystalline precipitate of the diazonium salt is formed on
 standing, or on the addition of a small quantity of ether. The diazonium
 salts are also formed by the action of zinc-dust and acids on the
 nitrates of primary amines (R. Mohlau, _Ber._, 1883, 16, p. 3080), and
-by the action of hydroxylamine on nitrosobenzenes. They are colourless
+by the action of [[Hydroxylamine|hydroxylamine]] on nitrosobenzenes. They are colourless
 crystalline solids which turn brown on exposure. They dissolve easily in
 water, but only to a slight extent in alcohol and ether. They are very
-unstable, exploding violently when heated or rubbed. _Benzene diazonium
+unstable, exploding violently when heated or rubbed. _[[Benzene]] diazonium
 nitrate_, C6H5N(NO3):·N, crystallizes in long silky needles. The
 sulphate and chloride are similar, but they are not quite so unstable as
 the nitrate. The bromide may be prepared by the addition of bromine to
@@ -51,15 +51,15 @@ which crystallizes in yellow plates.
   25, p. 1074). In the case of iodine, the substitution is effected by
   adding a warm solution of potassium iodide to the diazonium solution,
   no copper or cuprous salt being necessary; whilst for the production
-  of nitriles a solution of potassium cuprous cyanide is used. This
+  of nitriles a solution of potassium cuprous [[Cyanide|cyanide]] is used. This
   reaction (the so-called "Sandmeyer" reaction) has been investigated by
   A. Hantzsch and J. W. Blagden (_Ber._, 1900, 33, p. 2544), who
   consider that three simultaneous reactions occur, namely, the
   formation of labile double salts which decompose in such a fashion
-  that the radical attached to the copper atom wanders to the aromatic
+  that the radical attached to the copper [[Atom|atom]] wanders to the aromatic
   nucleus; a catalytic action, in which nitrogen is eliminated and the
   acid radical attaches itself to the aromatic nucleus; and finally, the
-  formation of azo compounds.
+  formation of [[Azo Compounds|azo compounds]].
 
   3. _Replacement of -NH2 by -NO2_:--A well-cooled concentrated solution
   of potassium mercuric nitrate is added to a cooled solution of benzene
@@ -68,7 +68,7 @@ which crystallizes in yellow plates.
   quantitative yield of nitrobenzene (A. Hantzsch, _Ber._, 1900, 33, p.
   2551).
 
-  4. _Replacement of -NH2 by hydrogen_:--This exchange is brought about,
+  4. _Replacement of -NH2 by hydrogen_:--This [[Exchange|exchange]] is brought about,
   in some cases, by boiling the diazonium salt with alcohol; but I.
   Remsen and his pupils (_Amer. Chem. Journ._, 1888, 9, pp. 389 et seq.)
   have shown that the main product of this reaction is usually a
@@ -96,7 +96,7 @@ which crystallizes in yellow plates.
   alkalis and neutralizes them, being converted first into the isomeric
   benzene-diazotic acid, the potassium salt of which is obtained when
   the diazonium chloride is added to an excess of cold concentrated
-  potash (A. Hantzsch and W. B. Davidson, _Ber._, 1898, 31, p. 1612).
+  potash (A. Hantzsch and W. B. [[Davidson]], _Ber._, 1898, 31, p. 1612).
   _Potassium benzene diazotate_, C6H5N2·OK, crystallizes in colourless
   silky needles. The free acid is not known; by the addition of the
   potassium salt to 50% acetic acid at -20° C., the acid anhydride,
@@ -106,12 +106,12 @@ which crystallizes in yellow plates.
   the diazotate. On the constitution, of these anhydrides see E.
   Bamberger, _Ber._, 1896, 29, p. 446, and A. Hantzsch, _Ber._, 1896,
   29, p. 1067; 1898, 31, p. 636. By the addition of the diazonium salts
-  to a hot concentrated solution of a caustic alkali, C. Schraube and C.
+  to a hot concentrated solution of a [[Caustic|caustic]] alkali, C. Schraube and C.
   Schmidt (_Ber._, 1894, 27, p. 520) obtained an isomer of potassium
   benzene diazotate. These _iso-_diazotates are formed much more readily
   when the aromatic nucleus in the diazonium salt contains negative
   radicals. _Potassium benzene iso-diazotate_ resembles the normal salt,
-  but is more stable, and is more highly ionized. Carbon dioxide
+  but is more stable, and is more highly ionized. [[Carbon]] dioxide
   converts it into _phenyl nitrosamine_, C6H5NH·NO (A. Hantzsch). The
   potassium salt of the iso-diazo hydroxide yields on methylation a
   nitrogen ether, R·N(CH3)·NO, whilst the silver salt yields an oxygen
@@ -151,20 +151,20 @@ which crystallizes in yellow plates.
   of complex groupings of the type C6H4N2- to the inorganic acids;
   whilst A. Kekulé (_Zeit. f. Chemie_, 1866, 2, p. 308), on account of
   their ready condensation to form azo compounds and their easy
-  reduction to hydrazines, assumed that they were substances of the type
+  reduction to [[Hydrazine|hydrazines]], assumed that they were substances of the type
   R·N:N·Cl. The constitution of the diazonium group -N2·X, may be
   inferred from the following facts:--The group C6H5N2- behaves in many
   respects similarly to an alkali metal, and even more so to the
   ammonium group, since it is capable of forming colourless neutral
   salts with mineral acids, which in dilute aqueous solution are
-  strongly ionized, but do not show any trace of hydrolytic dissociation
+  strongly ionized, but do not show any trace of hydrolytic [[Dissociation|dissociation]]
   (A. Hantzsch, _Ber._, 1895, 28, p. 1734). Again, the diazonium
   chlorides combine with platinic chloride to form difficultly soluble
   double platinum salts, such as (C6H5N2Cl)2·PtCl4; similar gold salts,
   C6H5N2Cl·AuCl3, are known. Determinations of the electrical
   conductivity of the diazonium chloride and nitrate also show that the
   diazonium radical is strictly comparable with other quaternary
-  ammonium ions. For these reasons, one must assume the existence of
+  ammonium [[Ion|ions]]. For these reasons, one must assume the existence of
   pentavalent nitrogen in the diazonium salts, in order to account for
   their basic properties.
 
@@ -177,8 +177,8 @@ which crystallizes in yellow plates.
   invalidate this view (_Ber._, 1894, 27, pp. 1702 et seq.; see also A.
   Hantzsch, _Die Diazoverbindungen_). According to Hantzsch the isomeric
   diazo hydroxides are structurally identical, and the differences in
-  behaviour are due to stereo-chemical relations, the isomerism being
-  comparable with that of the oximes (q.v.). On such a hypothesis, the
+  behaviour are due to stereo-chemical relations, the [[Isomerism|isomerism]] being
+  comparable with that of the oximes (q.v.). On such a [[Hypothesis|hypothesis]], the
   relatively unstable normal diazo hydroxides would be the
   _syn-_compounds, since here the nitrogen atoms would be more easily
   eliminated, whilst the stable iso-diazo derivatives would be the
@@ -223,7 +223,7 @@ which crystallizes in yellow plates.
   it follows that a portion of the ions present have changed to the
   non-ionized condition. This behaviour is explained by considering the
   non-ionized part of the diazonium hydroxide to exist in solution in a
-  hydrated form, the equation of equilibrium being:
+  hydrated form, the [[Equation|equation]] of equilibrium being:
 
           C6H5·N·       --> C6H5·N·OH
     H2O +     ... + OH'          |
@@ -240,7 +240,7 @@ which crystallizes in yellow plates.
       HO·N·:H :  <--    HO·N  <--   NaO·N
            ....
 
-  This assumption also shows the relationship of the diazonium
+  This [[Assumption|assumption]] also shows the relationship of the diazonium
   hydroxides to other quaternary ammonium compounds, for most of the
   quaternary ammonium hydroxides (except such as have the nitrogen atom
   attached to four saturated hydrocarbon radicals) are unstable, and
@@ -263,7 +263,7 @@ which crystallizes in yellow plates.
       /        |      /    \      |   |
     Cl         H    Cl      H     N = N
 
-  J. Cain (_Jour. Chem. Soc._, 1907, 91, p. 1049) suggested a quinonoid
+  J. [[Cain]] (_Jour. Chem. Soc._, 1907, 91, p. 1049) suggested a quinonoid
   formula for diazonium salts, which has been combated by Hantzsch
   (_Ber._, 1908, 41, pp. 3532 et seq.). G. T. Morgan and F. M. G.
   Micklethwaite (_Jour. Chem. Soc._, 1908, 93, p. 617; 1909, 95, p.
@@ -307,20 +307,20 @@ which crystallizes in yellow plates.
   C6H5N2·NHC6H5, crystallizes in golden yellow laminae, which melt at
   96° C. and explode at a slightly higher temperature. It is readily
   soluble in alcohol, ether and benzene. Concentrated hydrochloric acid
-  converts it into chlorbenzene, aniline and nitrogen. Zinc dust and
+  converts it into chlorbenzene, aniline and nitrogen. Zinc [[Dust|dust]] and
   alcoholic acetic acid reduce it to aniline and phenylhydrazine.
 
   _Diazoimino compounds_, R·N3, may be regarded as derivatives of
-  azoimide (q.v.); they are formed by the action of ammonia on the
+  [[Azoimide|azoimide]] (q.v.); they are formed by the action of ammonia on the
   diazoperbromides, or by the action of hydroxylamine on the diazonium
-  sulphates (J. Mai, _Ber._, 1892, 25, p. 372; T. Curtius, _Ber._, 1893,
+  sulphates (J. Mai, _Ber._, 1892, 25, p. 372; T. [[Curtius]], _Ber._, 1893,
   26, p. 1271). Diazobenzeneimide, C6H5N3, is a yellowish oil of
   stupefying odour. It boils at 59° C. (12 mm.), and explodes when
   heated. Concentrated hydrochloric acid decomposes it with formation of
   chloranilines and elimination of nitrogen, whilst on boiling with
   sulphuric acid it is converted into aminophenols.
 
-  _Aliphatic Diazo Compounds._--The esters of the aliphatic amino acids
+  _Aliphatic Diazo Compounds._--The [[Esters|esters]] of the aliphatic amino acids
   may be diazotized in a manner similar to the primary aromatic amines,
   a fact discovered by T. Curtius (_Ber._, 1833, 16, p. 2230). The first
   aliphatic diazo compound to be isolated was _diazoacetic ester_,
@@ -361,7 +361,7 @@ which crystallizes in yellow plates.
   E. Bamberger (_Ber._, 1895, 28, p. 1682) regards it as the anhydride
   of iso-diazomethane, CH3·N:N·OH, and has prepared it by a method
   similar to that used for the preparation of iso-diazobenzene. By the
-  action of bleaching powder on methylamine hydrochloride, there is
+  action of [[Bleaching|bleaching]] powder on methylamine hydrochloride, there is
   obtained a volatile liquid (_methyldichloramine_, CH3·N·Cl2), boiling
   at 58-60° C., which explodes violently when heated with water,
   yielding hydrocyanic acid (CH3NCl2 = HCN + 2HCl). Well-dried

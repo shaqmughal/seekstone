@@ -9,8 +9,8 @@ and his mother Helen; on both sides he had pretensions to be descended
 from the old Welsh princes. Owen was probably born about 1359, studied
 law at Westminster, was squire to the earl of Arundel, and a witness for
 Grosvenor in the famous Scrope and Grosvenor lawsuit in 1386. Afterwards
-he was in the service of Henry of Bolingbroke, the future king, though
-by an error it has been commonly stated that he was squire to Richard
+he was in the service of Henry of [[Bolingbroke]], the future king, though
+by an [[Error|error]] it has been commonly stated that he was squire to Richard
 II. Welsh sympathies were, however, on Richard's side, and combined with
 a personal quarrel to make Owen the leader of a national revolt.
 
@@ -47,7 +47,7 @@ and Percy was crushed at Shrewsbury ten days later. Still the Welsh
 revolt was never so formidable. Owen styled himself openly prince of
 Wales, established a regular government, and called a parliament at
 Machynlleth. As a result of a formal alliance the French sent troops to
-his aid, and in the course of 1404 the great castles of Harlech and
+his aid, and in the course of 1404 the great castles of [[Harlech]] and
 Aberystwith fell into his hands.
 
 In the spring of 1405 Owen was at the height of his power; but the tide
@@ -70,12 +70,12 @@ according to Adam of Usk he died in 1415. Later English writers allege
 that he died of starvation in the mountains; but Welsh legend represents
 him as spending a peaceful old age with his sons-in-law at Ewyas and
 Monington in Herefordshire, till his death and burial at the latter
-place. The dream of an independent and united Wales was never nearer
+place. The [[Dream|dream]] of an independent and united Wales was never nearer
 realization than under Owen's leadership. The disturbed state of England
 helped him, but he was indeed a remarkable personality, and has not
 undeservedly become a national hero. Sentiment and tradition have
 magnified his achievements, and confused his career with tales of
-portents and magical powers. Owen left many bastard children; his
+portents and magical powers. Owen left many [[Bastard|bastard]] children; his
 legitimate representative in 1433 was his daughter Alice, wife of Sir
 John Scudamore of Ewyas.
 
@@ -83,7 +83,7 @@ John Scudamore of Ewyas.
   references in contemporary chronicles and documents; perhaps the most
   important are Adam of Usk's _Chronicle_ and Ellis's _Original
   Letters_. On the Welsh side something is given by the bards Iolo Goch
-  and Lewis Glyn Cothi. For modern accounts consult J. H. Wylie's
+  and [[Lewis]] Glyn Cothi. For modern accounts consult J. H. Wylie's
   _History of England under Henry IV._ (4 vols., 1884-1898); A. C.
   Bradley's popular biography; and Professor Tout's article in the
   _Dictionary of National Biography_.     (C. L. K.)

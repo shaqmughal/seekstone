@@ -14,7 +14,7 @@ other chiefs, or with the foreign sympathizers fighting for the Greeks,
 he gained some successes against the Turks which were very welcome amid
 the disasters of the time. He took a share in the unsuccessful attempts
 to raise the siege of Athens in 1827, and made an effort to prevent the
-disastrous massacre of the Turkish garrison of fort S Spiridion. He was
+disastrous [[Massacre|massacre]] of the Turkish garrison of fort S Spiridion. He was
 shot in action on the 4th of May 1827. Finlay speaks of him as a capable
 partisan leader who had great influence over his men, and describes him
 as of "middle size, thin, dark-complexioned, with a bright expressive

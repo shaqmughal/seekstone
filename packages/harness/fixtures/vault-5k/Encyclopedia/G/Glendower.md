@@ -47,7 +47,7 @@ and Percy was crushed at Shrewsbury ten days later. Still the Welsh
 revolt was never so formidable. Owen styled himself openly prince of
 Wales, established a regular government, and called a parliament at
 Machynlleth. As a result of a formal alliance the French sent troops to
-his aid, and in the course of 1404 the great castles of Harlech and
+his aid, and in the course of 1404 the great castles of [[Harlech]] and
 Aberystwith fell into his hands.
 
 In the spring of 1405 Owen was at the height of his power; but the tide
@@ -83,7 +83,7 @@ John Scudamore of Ewyas.
   references in contemporary chronicles and documents; perhaps the most
   important are Adam of Usk's _Chronicle_ and Ellis's _Original
   Letters_. On the Welsh side something is given by the bards Iolo Goch
-  and Lewis Glyn Cothi. For modern accounts consult J. H. Wylie's
+  and [[Lewis]] Glyn Cothi. For modern accounts consult J. H. Wylie's
   _History of England under Henry IV._ (4 vols., 1884-1898); A. C.
   Bradley's popular biography; and Professor Tout's article in the
   _Dictionary of National Biography_.     (C. L. K.)

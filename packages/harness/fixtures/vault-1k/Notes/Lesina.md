@@ -25,7 +25,7 @@ Lesina, naming it _Paros_ or _Pharos_. The forms _Phara_, _Pharia_
 (common among Latin writers), and _Pityeia_, also occur. In 229 B.C. the
 island was betrayed to the Romans by Demetrius, lieutenant of the
 Illyrian queen Teuta; but in 219, as Demetrius proved false to Rome
-also, his capital was razed by Lucius Aemilius Paullus. _Neos Pharos_,
+also, his capital was razed by [[Lucius]] Aemilius Paullus. _Neos Pharos_,
 now Cittavecchia, took its place, and flourished until the 6th century,
 when the island was laid waste by barbarian invaders. Constantine
 Porphyrogenitus mentions Lesina as a colony of pagan Slavs, in the 10th

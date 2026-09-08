@@ -21,8 +21,8 @@ Under various local names (the Garrigues, the mountains of Espinouse and
 Lacaune) and with numerous offshoots the range extends south-east and
 then east to the Montagne Noire, which runs parallel to the Canal du
 Midi and comes to an end some 25 m. east of Toulouse. In the south the
-Cevennes separate the cold and barren table-lands known as the Causses
-from the sunny region of Languedoc, where the olive, vine and mulberry
+Cevennes separate the cold and barren table-lands known as the [[Causses]]
+from the sunny region of [[Languedoc]], where the olive, vine and mulberry
 flourish. Northwards the contrast between the two slopes is less
 striking.
 
@@ -34,18 +34,18 @@ suddenly beneath the Tertiary and recent deposits of the valley of the
 Rhone. It is in the Montagne Noire rather than in the Cevennes proper
 that the structure of the chain has been most fully investigated. All
 the geological systems from the Cambrian to the Carboniferous are
-included in the folded belt, and J. Bergeron has shown that the gneiss
+included in the folded belt, and J. Bergeron has shown that the [[Gneiss|gneiss]]
 and schist which form so much of the chain consist, in part at least, of
-metamorphosed Cambrian beds. The direction of the folds is about N. 60
+metamorphosed Cambrian beds. The direction of the [[Fold|folds]] is about N. 60
 deg. E., and the structure is complicated by overthrusting on an
 extensive scale. The overthrust came from the south-east, and the
-Palaeozoic beds were crushed and crumpled against the ancient massif of
+Palaeozoic beds were crushed and crumpled against the ancient [[Massif|massif]] of
 the central plateau. The principal folding took place at the close of
 the Carboniferous period, and was contemporaneous with that of the old
-Hercynian chain of Belgium, &c. The Permian and later beds lie
+Hercynian chain of [[Belgium]], &c. The Permian and later beds lie
 unconformably upon the denuded folds, and in the space between the
 Montagne Noire and the Cevennes proper the folded belt is buried beneath
-the horizontal Jurassic strata of the Causses. Although the chain was
+the horizontal [[Jurassic]] strata of the Causses. Although the chain was
 completed in Palaeozoic times, a second folding took place along its
 south-east margin at the close of the Eocene period. The Secondary and
 Tertiary beds of the Languedoc were crushed against the central plateau
@@ -53,19 +53,19 @@ and were frequently overfolded. But by this time the ancient Palaeozoic
 chain had become a part of the unyielding massif, and the folding did
 not extend beyond its foot.
 
-As the division between the basins of the Loire and the Garonne to the
+As the division between the basins of the Loire and the [[Garonne]] to the
 west and those of the Saone and Rhone to the east, the Cevennes send
-many affluents to those rivers. In the south the Orb, the Herault and
+many affluents to those rivers. In the south the Orb, the [[Herault]] and
 the Vidourle are independent rivers flowing to the Golfe du Lion;
 farther north, the Gard--formed by the union of several streams named
-Gardon--the Ceze and the Ardeche flow to the Rhone. The Vivarais
+Gardon--the Ceze and the [[Ardeche]] flow to the Rhone. The Vivarais
 mountains and the northern Cevennes approach the right banks of the
 Rhone and Saone closely, and on that side send their waters by way of
 short torrents to those rivers; on the west side the streams are
 tributaries of the Loire, which rises at the foot of Mont Mezenc. A
 short distance to the south on the same side are the sources of the
-Allier and Lot. The waters of the north-western slope of the southern
-Cevennes drain into the Tarn either directly or by way of the Aveyron,
+Allier and [[Lot]]. The waters of the north-western slope of the southern
+Cevennes drain into the Tarn either directly or by way of the [[Aveyron]],
 which rises in the outlying chain of the Levezou, and, in the extreme
 south, the Agout. The Tarn itself rises on the southern slope of the
 Mont Lozere.
@@ -77,7 +77,7 @@ on. In the Vivarais cattle are reared, while on the slopes of the
 Beaujolais excellent wines are grown.
 
 The chief historical event in the history of the Cevennes is the revolt
-of the Camisards in the early years of the 18th century (see CAMISARDS).
+of the [[Camisards]] in the early years of the 18th century (see CAMISARDS).
 
 ## See also
 

@@ -3,12 +3,12 @@
 BURI, or BURE, in Norse mythology, the grandfather of Odin. In the creation
 of the world he was born from the rocks, licked by the cow Andhumla
 (darkness). He was the father of Bor, and the latter, wedded to Bestla, the
-daughter of the giant Bolthorn (evil), became the father of Odin, the
+daughter of the [[Giant|giant]] Bolthorn (evil), became the father of Odin, the
 Scandinavian Jove.
 
 BURIAL and BURIAL ACTS (in O. Eng. _byrgels_, whence _byriels_, wrongly
 taken as a plural, and so Mid. Eng. _buryel_, from O. Eng. _byrgan_,
-properly to protect, cover, to bury). The main lines of the law of burial
+properly to protect, cover, to [[Bury|bury]]). The main lines of the law of burial
 in England may be stated very shortly. Every person has the right to be
 buried in the churchyard or burial ground of the parish where he dies, with
 the exception of executed felons, who are buried in the precincts of the
@@ -22,10 +22,10 @@ expressed in this respect. The disposal must be such as will not expose the
 body to violation, or offend the feelings or endanger the health of the
 living; and cremation under proper restrictions is allowable. In the case
 of paupers dying in a parish house, or shipwrecked persons whose bodies are
-cast ashore, the overseers or guardians are responsible for their burial;
-and in the case of suicides the coroner has a similar duty. The expenses of
+cast ashore, the overseers or [[Guardian|guardians]] are responsible for their burial;
+and in the case of suicides the [[Coroner|coroner]] has a similar duty. The expenses of
 burial are payable out of the deceased's estate in priority to all other
-debts. A husband liable for the maintenance of his wife is liable for her
+debts. A husband liable for the [[Maintenance|maintenance]] of his wife is liable for her
 funeral expenses; the parents for those of their children, if they have the
 means of paying. Legislation has principally affected (1) places of burial,
 (2) mode of burial, (3) fees for burial, and (4) disinterment.
@@ -36,7 +36,7 @@ the passing of a group of statutes known as the Burial Acts, extending from
 which was to remedy the existing deficiencies of accommodation by providing
 new burial grounds and closing old ones which should be dangerous to
 health, and to establish a central authority, the home office (now for most
-purposes the Local Government Board) to superintend all burial grounds with
+purposes the [[Local Government Board]]) to superintend all burial grounds with
 a view to the protection of the public health and the maintenance of public
 decency in burials. The Local Government Board thus has the power to obtain
 by order in council the closing of any burial ground it thinks fit, while
@@ -60,7 +60,7 @@ government) by transferring, or allowing to be transferred, the powers,
 duties, property and liabilities of the burial boards in urban districts to
 the district councils, and in rural parishes to the parish councils and
 parish meetings; and by allowing rural parishes to adopt the Burials Acts,
-and provide and manage new burial grounds by the parish council, or a
+and provide and [[Manage|manage]] new burial grounds by the parish council, or a
 burial board elected by the parish meeting.
 
 2. The mode of burial is a matter of ecclesiastical cognizance; in the case
@@ -119,7 +119,7 @@ fee upon burials except for services rendered by them (act of 1900). On
 burials under the act of 1880 the same fees are payable as if the burial
 had taken place with the service of the Church.
 
-4. A corpse is not the subject of property, nor capable of holding
+4. A [[Corpse|corpse]] is not the subject of property, nor capable of holding
 property. If interred in consecrated ground, it is under the protection of
 the ecclesiastical court; if in unconsecrated, it is under that of the
 temporal court. In the former case it is an ecclesiastical offence, and in
@@ -137,7 +137,7 @@ unconsecrated place of burial to another; (3) by order of the coroner, in
 cases of suspected crime. There has been considerable discussion as to the
 boundary line of jurisdiction between (1) and (2), and whether the
 disinterment of a body from consecrated ground for purposes of
-identification falls within, (1) only or within both (1) and (2); and an
+[[Identification|identification]] falls within, (1) only or within both (1) and (2); and an
 attempt by the ecclesiastical court to enforce a penalty for that purpose
 without a licence has been prohibited by the temporal court.
 

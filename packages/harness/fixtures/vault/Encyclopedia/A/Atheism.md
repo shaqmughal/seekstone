@@ -3,7 +3,7 @@
 ATHEISM (from Gr. [Greek: a-], privative, and [Greek: theos], God),
 literally a system of belief which denies the existence of God. The term
 as generally used, however, is highly ambiguous. Its meaning varies (a)
-according to the various definitions of deity, and especially (b)
+according to the various [[Definition|definitions]] of deity, and especially (b)
 according as it is (i.) deliberately adopted by a thinker as a
 description of his own theological standpoint, or (ii.) applied by one
 set of thinkers to their opponents. As to (a), it is obvious that
@@ -22,16 +22,16 @@ purely negative significance, and its intellectual value is of the
 slightest. The distinction between the terms "religion" and "magic" is,
 in a similar way, often due merely to rivalry between the adherents of
 two or more mutually exclusive religions brought together in the same
-community. When the psalmist declares that "the fool hath said in his
+community. When the psalmist declares that "the [[Fool|fool]] hath said in his
 heart, there is no God," he probably does not refer to theoretical
 denial, but to a practical disbelief in God's government of human
 affairs, shown in disobedience to moral laws. Socrates was charged with
-"not believing in the gods the city believes in." The cry of the heathen
+"not believing in the gods the city believes in." The cry of the [[Heathen|heathen]]
 populace in the Roman empire against the Christians was "Away with the
 atheists! To the lions with the Christians!" The ground for the charge
 was probably the lack of idolatry in all Christian worship. Spinoza, for
 whom God alone existed, was persecuted as an atheist. A common
-designation of Knox was "the atheist," although it was to him "matter of
+designation of [[Knox]] was "the atheist," although it was to him "matter of
 satisfaction that our most holy religion is founded on faith, not on
 reason."
 
@@ -51,15 +51,15 @@ the existence of God; and the _critical_, which doubts the validity of
 the theistic argument, the proofs for the existence of God. That the
 first type of atheism exists, in spite of the denials of those who
 favour the second or the third, may be proved by the utterances of men
-like Feuerbach, Flourens or Bradlaugh. "There is no God," says
+like [[Feuerbach]], Flourens or [[Bradlaugh]]. "There is no God," says
 Feuerbach, "it is clear as the sun and as evident as the day that there
 is no God, and still more that there can be none." With greater passion
 Flourens declares "Our enemy is God. Hatred of God is the beginning of
 wisdom. If mankind would make true progress, it must be on the basis of
-atheism." Bradlaugh maintained against Holyoake that he would fight
+atheism." Bradlaugh maintained against [[Holyoake]] that he would fight
 until men respected the name "atheist." The answer to dogmatic atheism,
-that it implies infinite knowledge, has been well stated in John
-Foster's _Essays_, and restated by Chalmers in his _Natural Theology_,
+that it implies [[Infinite|infinite]] knowledge, has been well stated in John
+Foster's _Essays_, and restated by [[Chalmers]] in his _Natural Theology_,
 and its force is recognized in Holyoake's careful qualification of the
 sense in which secularism accepts atheism, "always explaining the term
 atheist to mean 'not seeing God' visually or inferentially, never

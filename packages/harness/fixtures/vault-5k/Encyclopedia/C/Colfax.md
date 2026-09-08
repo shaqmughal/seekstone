@@ -3,10 +3,10 @@
 COLFAX, SCHUYLER (1823-1885), American political leader, vice-president
 of the United States from 1869 to 1873, was born in New York city on the
 23rd of March 1823. His father died before the son's birth, and his
-mother subsequently married a Mr Matthews. The son attended the public
+mother subsequently married a Mr [[Matthew|Matthews]]. The son attended the public
 schools of New York until he was ten, and then became a clerk in his
 step-father's store, removing in 1836 with his mother and step-father to
-New Carlisle, Indiana. In 1841 he removed to South Bend, where for eight
+New Carlisle, [[Indiana]]. In 1841 he removed to South [[Bend]], where for eight
 years he was deputy auditor (his step-father being auditor) of St Joseph
 county; in 1842-1844 he was assistant enrolling clerk of the state
 senate and senate reporter for the _Indiana State Journal_. In 1845 he

@@ -8,12 +8,12 @@ the volume compiled by the fifth guru Arjan, which contains the
 compositions of Guru Nanak, the founder of the Sikh religion; of his
 successors, Guru Angad, Amar Das, Ram Das and Arjan; hymns of the Hindu
 bhagats or saints, Jaidev, Namdev, Trilochan, Sain, Ramanand, Kabir, Rai
-Das, Pipa, Bhikhan, Beni, Parmanand Das, Sur Das, Sadhna and Dhanna Jat;
+Das, Pipa, Bhikhan, [[Beni]], Parmanand Das, Sur Das, Sadhna and Dhanna Jat;
 verses of the Mahommedan saint called Farid; and panegyrics of the gurus
 by bards who either attended them or admired their characters. The
 compositions of the ninth guru, Teg Bahadur, were subsequently added to
 the _Adi Granth_ by Guru Govind Singh. One recension of the sacred
-volume preserved at Mangat in the Gujrat district contains a hymn
+volume preserved at Mangat in the [[Gujrat]] district contains a hymn
 composed by Mira Bai, queen of Chitor. The _Adi Granth_ contains
 passages of great picturesqueness and beauty. The original copy is said
 to be in Kartarpur in the Jullundur district, but the chief copy in use
@@ -25,11 +25,11 @@ and popularly known as the _Granth of the tenth Guru_, but it has not
 the same authority as the _Adi Granth_. It contains Guru Govind Singh's
 _Japji_, the _Akal Ustit_ or Praise of the Creator, thirty-three
 _sawaias_ (quatrains containing some of the main tenets of the guru and
-strong reprobation of idolatry and hypocrisy), and the _Vachitar Natak_
-or wonderful drama, in which the guru gives an account of his parentage,
+strong reprobation of idolatry and [[Hypocrisy|hypocrisy]]), and the _Vachitar Natak_
+or wonderful [[Drama|drama]], in which the guru gives an account of his parentage,
 divine mission and the battles in which he was engaged. Then come three
 abridged translations by different hands of the _Devi Mahatamya_, an
-episode in the _Markandeya Puran_, in praise of Durga, the goddess of
+episode in the _Markandeya Puran_, in praise of [[Durga]], the goddess of
 war. Then follow the _Gyan Parbodh_ or awakening of knowledge, accounts
 of twenty-four incarnations of the deity, selected because of their
 warlike character; the _Hazare de Shabd_; the _Shastar Nam Mala_, which
@@ -37,16 +37,16 @@ is a list of offensive and defensive weapons used in the guru's time,
 with special reference to the attributes of the Creator; the _Tria
 Charitar_ or tales illustrating the qualities, but principally the
 deceit of women; the _Kabit_, compositions of a miscellaneous character;
-the _Zafarnama_ containing the tenth guru's epistle to the emperor
-Aurangzeb, and several metrical tales in the Persian language. This
+the _Zafarnama_ containing the tenth guru's [[Epistle|epistle]] to the emperor
+[[Aurangzeb]], and several metrical tales in the Persian language. This
 _Granth_ is only partially the composition of the tenth guru. The
 greater portion of it was written by bards in his employ.
 
 
   Form of the Granth.
 
-The two volumes are written in several different languages and dialects.
-The _Adi Granth_ is largely in old Punjabi and Hindi, but Prakrit,
+The two volumes are written in several different languages and [[Dialect|dialects]].
+The _Adi Granth_ is largely in old Punjabi and [[Hindi]], but Prakrit,
 Persian, Mahratti and Gujrati are also represented. The _Granth of the
 Tenth Guru_ is written in the old and very difficult Hindi affected by
 literary men in the Patna district in the 16th century. In neither of
@@ -82,14 +82,14 @@ Govind Singh writes:
 
   "Some worshipping stones, put them on their heads;
      Some suspend lingams from their necks;
-   Some see the God in the South; some bow their heads to the West.
-     Some fools worship idols, others busy themselves with worshipping
+   Some see the God in the South; some [[Bow|bow]] their heads to the West.
+     Some [[Fools|fools]] worship idols, others busy themselves with worshipping
         the dead.
    The whole world entangled in false ceremonies hath not found God's
         secret."
 
 Next to the unity of God comes the equality of all men in His sight, and
-so the abolition of caste distinctions. Guru Nanak says:
+so the abolition of [[Caste|caste]] distinctions. Guru Nanak says:
 
   "Caste hath no power in the next world; there is a new order of beings,
    Those whose accounts are honoured are the good."
@@ -107,7 +107,7 @@ intoxicants. This is not the case. Guru Nanak wrote:
 
 Guru Arjan wrote:
 
-  "The fool who drinketh evil wine is involved in sin."
+  "The [[Fool|fool]] who drinketh evil wine is involved in sin."
 
 And in the Rahit Nama of Bhai Desu Singh there is the following:
 
@@ -121,7 +121,7 @@ adoption of Hindu usages. The two _Granths_ of the Sikhs and all their
 canonical works are absolutely silent on the subject. The Sikhs are not
 bound to abstain from any flesh, except that which is obviously unfit
 for human food, or what is killed in the Mahommedan fashion by jagging
-an animal's throat with a knife. This flesh-eating practice is one of
+an animal's throat with a [[Knife|knife]]. This flesh-eating practice is one of
 the main sources of their physical strength. Smoking is strictly
 prohibited by the Sikh religion. Guru Teg Bahadur preached to his host
 as follows:
@@ -145,7 +145,7 @@ quality which has made the Sikhs valuable servants of the British crown.
   behalf of the Punjab government in 1877, but his rendering is in many
   respects incorrect, owing to insufficient knowledge of the Punjabi
   dialects. _The Sikh Religion_, &c., in 6 vols. (London, 1909) is an
-  authoritative version prepared by M. Macauliffe, in concert with the
+  authoritative version prepared by M. Macauliffe, in [[Concert|concert]] with the
   modern leaders of the Sikh sect.     (M. M.)
 
 ## See also

@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Farmer"
 
 FARMER, RICHARD (1735-1797), Shakespearian commentator, the son of a
 rich maltster, was born at Leicester on the 28th of August 1735. He was
-educated at the free grammar school of his native town, and at Emmanuel
+educated at the free grammar school of his native town, and at [[Emmanuel]]
 College, Cambridge. He graduated in 1757 a senior optime; three years
 later he proceeded M.A. and became classical tutor, and in 1775 master
 of his college, in succession to William Richardson, the biographer of

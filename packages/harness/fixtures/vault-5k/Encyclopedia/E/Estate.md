@@ -21,9 +21,9 @@ more particularly applied to interests in land, and in popular and
 general use "an estate" means the land itself. The strict technical
 meaning of "an estate" is an interest in lands, and this conception lies
 at the root of the English theory of property in land. "The first thing
-that the student has to do," says Joshua Williams (_Law of Real
+that the student has to do," says [[Joshua]] Williams (_Law of Real
 Property_), "is to get rid of the idea of absolute ownership. Such an
-idea is quite unknown to the English law. No man is in law the absolute
+idea is quite unknown to the [[English Law|English law]]. No man is in law the absolute
 owner of lands. He can only hold an estate in them." That is, the notion
 of tenure, of holding by a tenant from a lord, prevails. The last lord
 of all from whom all land was ultimately held was the king. Persons
@@ -87,7 +87,7 @@ estates, and draws the constitution of the third estate from the ancient
 local machinery which it concentrates." This is, allowing for
 differences of detail, true of other countries as well as England. To
 the two estates already existing, clergy and nobles, is added a third,
-that of the commons (burgesses and knights of the shire) in England,
+that of the commons (burgesses and [[Knight|knights]] of the shire) in England,
 that of the _roturiers_ in France (known as the _tiers etat_). This
 division into three estates became the norm, but it was not universal,
 nor inevitable.[1] Even in England there was a tendency to create other
@@ -96,18 +96,18 @@ for grants of money to be raised by taxing the general body of merchants
 in the country; and there was a similar tendency on the part of the
 lawyers. But for the accident of their sitting and voting together, the
 burgesses and knights of the shire would also have formed separate
-estates. In Aragon the cortes contained four estates (_brazos_ or arms),
+estates. In [[Aragon]] the cortes contained four estates (_brazos_ or arms),
 the clergy, the great barons (_ricos hombres_), the minor barons
 (knights or _infanzones_), and the towns. The Swedish diet had also
 four--clergy, barons, burghers and peasants.
 
 The system of estates, based on the medieval conception of society as
 divided into definite orders, formed the basis of whatever
-constitutional forms survived in Europe till the French Revolution. In
+constitutional forms survived in Europe till the [[French Revolution]]. In
 England, of course, it had early become obscured, the House of Commons
 representing the whole nation outside the narrow order of the peers. The
 creation of an estate of lesser nobles or landowners had been prevented
-by the fusion of the knights of the shire with the burgesses; the
+by the [[Fusion|fusion]] of the knights of the shire with the burgesses; the
 spiritual estate was ruled out by the determination of the clergy to
 deliberate and tax themselves in their own convocation, leaving the
 bishops, as spiritual peers, to represent their interests in parliament.
@@ -130,13 +130,13 @@ The conception of the "three estates of the realm" as the great
 divisions of legislative authority led in England to the coining of the
 phrase "fourth estate," to indicate some power of corresponding
 magnitude in the state distinct from them. Fielding thus spoke of "the
-mob," and Hazlitt of Cobbett; but the phrase is now usually applied to
+mob," and [[Hazlitt]] of [[Cobbett]]; but the phrase is now usually applied to
 the press, a usage originating in a speech by Burke (Carlyle,
 _Hero-worship_, Lect. v.).
 
 In the constitutional struggles of the European continent, from the
 Revolution onward, the rival theories of representation by estates and
-of popular representation have played a great part. The crucial moment
+of popular representation have played a great part. The [[Crucial|crucial]] moment
 of the French Revolution was when the vote according to "order" was
 rejected and the estates of the clergy and nobles were merged with the
 _tiers etat_, the states-general thus becoming the National Assembly.
@@ -166,9 +166,9 @@ the estate of the lesser nobles into a national representative assembly.
 Of all the sovereign states of Europe only the grand-duchies of
 Mecklenburg still (1909) retain the ancient system of estates untouched.
 The diet, which is common to the two duchies, consists of the
-_Ritterschaft_, in which all tenants in chivalry (_Rittergutsbesitzer_),
+_Ritterschaft_, in which all tenants in [[Chivalry|chivalry]] (_Rittergutsbesitzer_),
 whether noble or non-noble, have a voice, and the _Landschaft_, which
-consists of the chief magistrates of the towns. The former is taken as
+consists of the chief [[Magistrate|magistrates]] of the towns. The former is taken as
 representative of the peasant proprietors and copy-holders
 (_Hintersassen_), the latter of the burghers.
 

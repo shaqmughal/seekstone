@@ -1,7 +1,7 @@
 # Fajardo
 
 FAJARDO, a district and town on the E. coast of Porto Rico, belonging to
-the department of Humacao. Pop. (1899) of the district, 16,782; and of
+the department of [[Humacao]]. Pop. (1899) of the district, 16,782; and of
 the town, 3414. The district is highly fertile and is well watered,
 owing in great measure to its abundant rainfall. Sugar production is its
 principal industry, but some attention is also given to the growing of

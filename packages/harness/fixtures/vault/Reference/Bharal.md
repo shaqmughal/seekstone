@@ -8,7 +8,7 @@ topic: religion
 
 BHARAL, the Tatar name for the "blue sheep" _Ovis_ (Pseudois) _nahura_,
 of Ladak and Tibet. The general colour is blue-grey with black "points"
-and white markings and belly; and the horns of the rams are olive-brown
+and white markings and belly; and the [[Horn|horns]] of the rams are olive-brown
 and nearly smooth, with a characteristic backward curvature. In the
 absence of face-glands, as well as in certain other features, the bharal
 serves to connect more typical sheep (q.v.) with goats.

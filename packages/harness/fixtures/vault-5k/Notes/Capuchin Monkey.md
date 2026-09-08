@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Capuchin_M
 # Capuchin Monkey
 
 CAPUCHIN MONKEY, the English name of a tropical American monkey
-scientifically known as _Cebus capucinus_; the plural, capuchins, is
+scientifically known as _Cebus capucinus_; the plural, [[Capuchins|capuchins]], is
 extended to embrace all the numerous species of the same genus, whose
 range extends from Nicaragua to Paraguay. These monkeys, whose native
 name is sapajou, are the typical representatives of the family
@@ -24,7 +24,7 @@ form assumed by the thick hair on the crown of the head of the sapajous.
 In their native haunts these monkeys go about in troops of considerable
 size, frequenting the summits of the tall forest-trees, from which they
 seldom, if ever, descend. In addition to fruits of various kinds, they
-consume tender shoots and buds, insects, eggs and young birds. Many of
+consume tender shoots and buds, [[Insect|insects]], [[Egg|eggs]] and young birds. Many of
 the species are difficult to distinguish, and very little is known of
 their habits in a wild state, although several members of the group are
 common in captivity (see PRIMATES).     (R. L.*)

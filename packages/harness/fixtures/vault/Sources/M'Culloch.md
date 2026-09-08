@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/M'Culloch"
 # M'Culloch
 
 M'CULLOCH, SIR JAMES (1819-1893), Australian statesman, was born in
-Glasgow. He entered the house of Dennistoun Brothers, became a partner,
+[[Glasgow]]. He entered the house of Dennistoun Brothers, became a partner,
 and went to Melbourne to open a branch. In 1854, shortly after his
 arrival in Victoria, he was appointed a nominee member of the
 Legislative Council, and in the first Legislative Assembly under the new
@@ -27,7 +27,7 @@ propertied classes in the colony as revolutionary. In addition to
 passing a Land Bill, which extended the principle of free selection and
 deferred payments, the ministry announced their intention of reducing
 the duties on the export of gold and the import duties upon tea and
-sugar, and of supplying the deficiency by the imposition of duties
+sugar, and of supplying the deficiency by the [[Imposition|imposition]] of duties
 ranging from 5 to 10% upon a number of articles which entered into
 competition with the local industries, thus introducing protection. The
 mercantile community took alarm at the proposal, and at the general
@@ -37,7 +37,7 @@ through the popular branch of the legislature. There was no probability
 of its being assented to by the Council, which, under the constitution,
 had the power of rejecting, although it could not amend, any money Bill.
 The government therefore decided upon tacking the tariff to the
-Appropriation Bill, and compelling the Council either to agree to the
+[[Appropriation]] Bill, and compelling the Council either to agree to the
 new fiscal proposals or to refuse to pay the public creditors and the
 civil servants. The Council accepted the challenge, and rejected the
 Appropriation Bill. But M'Culloch and his colleagues would not give way.
@@ -48,10 +48,10 @@ awarded by verdicts in the supreme court in favour of persons who had
 sued the government. M'Culloch borrowed £40,000 from the London
 Chartered Bank, of which he was a director, to meet pressing payments,
 and the bank at his instigation sued the government for the amount of
-the advance. The attorney-general at once accepted judgment, and the
+the advance. The [[Attorney-General|attorney-general]] at once accepted judgment, and the
 governor, who had placed himself unreservedly in the hands of his
 ministers, signed the necessary warrant, and the Treasury repaid to the
-bank the amount of its advance, plus interest and costs. In the next
+bank the amount of its advance, plus interest and [[Costs|costs]]. In the next
 session the tariff was again sent up to the Council, which promptly
 rejected it, whereupon the ministry dissolved the assembly and appealed
 to the country. The result of the general election was to increase
@@ -98,7 +98,7 @@ that appointment till 1873, was created K.C.M.G. in 1874, returned to
 the colony the same year, and in 1875 formed his fourth and last
 ministry, which kept power till May 1877, when his party was defeated at
 the general election. During his eighteen months of office he had to
-encounter a persistent opposition from Berry and his followers, who
+encounter a persistent opposition from [[Berry]] and his followers, who
 systematically obstructed the business of the Assembly, on the ground
 that the acting-governor, Sir William Stawell, had improperly refused a
 dissolution. Sir James M'Culloch, to counteract this obstruction,
@@ -107,8 +107,8 @@ modifications into the house of commons. After his defeat in 1877 Sir
 James retired from public life and returned to England, where he died on
 the 30th of January 1893 at Ewell, Surrey. He was twice married--first,
 in 1841, to Susan, daughter of the Rev. James Renwick, of Muirton,
-Scotland; secondly, in 1867, to Margaret, daughter of William Inglis, of
-Walflat, Dumbartonshire. He left the house of Dennistoun Brothers in
+Scotland; secondly, in 1867, to [[Margaret]], daughter of William [[Inglis]], of
+Walflat, [[Dumbartonshire]]. He left the house of Dennistoun Brothers in
 1862, and founded a new firm at Melbourne in conjunction with Leishman,
 Inglis & Co. of London, under the title of M'Culloch, Sellars & Co. He
 held several important commercial positions, and was president of the

@@ -8,7 +8,7 @@ tags: [science, literature]
 
 # La Plata
 
-LA PLATA, a city of Argentina and capital of the province of Buenos
+LA PLATA, a city of [[Argentina]] and capital of the province of Buenos
 Aires, 5 m. inland from the port of Ensenada, or La Plata, and about 31
 m. S.E. of the city of Buenos Aires, with which it is connected by rail.
 Pop. (1895) 45,609; (1907, estimate) 84,000. La Plata was founded in
@@ -17,7 +17,7 @@ district and made the national capital. This necessitated the selection
 of another provincial capital, which resulted in the choice of an open
 plain near the former port of Ensenada de Barragán, on which a city was
 laid out after the plan of Washington. The streets are so wide that they
-seem out of proportion to the low brick buildings. The principal public
+seem out of proportion to the low [[Brick|brick]] buildings. The principal public
 buildings, constructed of brick and stucco, are the government-house,
 assembly building, treasury, municipal hall, cathedral, courts of
 justice, police headquarters, provincial museum and railway station. The

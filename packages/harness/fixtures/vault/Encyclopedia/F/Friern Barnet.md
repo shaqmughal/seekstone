@@ -6,10 +6,10 @@ topic: epic
 
 # Friern Barnet
 
-FRIERN BARNET, in the Enfield parliamentary division of Middlesex, lies 3
+FRIERN BARNET, in the [[Enfield]] parliamentary division of Middlesex, lies 3
 m. S. of Chipping Barnet. Pop. of urban district, 11,566. The prefix
 recalls the former lordship of the manor possessed by the friary of St John
-of Jerusalem in Clerkenwell, London. Friern Barnet adjoins Finchley on the
+of Jerusalem in Clerkenwell, London. Friern Barnet adjoins [[Finchley]] on the
 north and Whetstone on the south, the whole district being residential.
 
 ## See also

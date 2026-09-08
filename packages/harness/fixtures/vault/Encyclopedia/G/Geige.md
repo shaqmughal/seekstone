@@ -10,9 +10,9 @@ tags: [republic-studies, grammar]
 
 GEIGE (O. Fr. _gigue_, _gige_; O. Ital. and Span. _giga_; Prov. _gigua_;
 O. Dutch _gighe_), in modern German the violin; in medieval German the
-name applied to the first stringed instruments played with a bow, in
-contradistinction to those whose strings were plucked by fingers or
-plectrum such as the cithara, rotta and fidula, the first of these terms
+name applied to the first stringed instruments played with a [[Bow|bow]], in
+contradistinction to those whose strings were plucked by [[Finger|fingers]] or
+plectrum such as the [[Cithara|cithara]], rotta and fidula, the first of these terms
 having been very generally used to designate various instruments whose
 strings were plucked. The name _gîge_ in Germany, of which the origin is
 uncertain,[1] and its derivatives in other languages, were in the middle
@@ -24,12 +24,12 @@ instruments derived from the cithara, such as the fiddle (videl) or
 vielle. In the romances of the 12th and 13th centuries the _gîge_ is
 frequently mentioned, and generally associated with the rotta. Early in
 the 16th century we find definite information concerning the Geige in
-the works of Sebastian Virdung (1511), Hans Judenkünig (1523), Martin
-Agricola (1532), Hans Gerle (1533); and from the instruments depicted,
+the works of Sebastian Virdung (1511), Hans Judenkünig (1523), [[Martin]]
+Agricola (1532), Hans [[Gerle]] (1533); and from the instruments depicted,
 of two distinct types and many varieties, it would appear that the
 principal idea attached to the name was still that of the bow used to
 vibrate the strings. Virdung qualifies the word _Geige_ with _Klein_
-(small) and _Gross_ (large), which do not represent two sizes of the
+(small) and _[[Gross]]_ (large), which do not represent two sizes of the
 same instrument but widely different types, also recognized by Agricola,
 who names three or four sizes of each, discant, alto, tenor and bass.
 Virdung's _Klein Geige_ is none other than the rebec with two C-shaped
@@ -62,9 +62,9 @@ FOOTNOTE:
     Swabian _gigen_, _gagen_, in the same sense, the Tirolese _gaiggern_,
     to sway, doubt, or the old Norse _geiga_, to go astray or crooked.
     The reference is to the swaying motion of the violin bow. The English
-    "jig" is derived from _gîge_ through the O. Fr. _gigue_ (in the sense
+    "[[Jig|jig]]" is derived from _gîge_ through the O. Fr. _gigue_ (in the sense
     of a stringed instrument); the modern French gigue (a dance) is the
-    English "jig" re-imported (Hatzfeld and Darmesteter, _Dictionnaire_).
+    English "jig" re-imported (Hatzfeld and [[Darmesteter]], _Dictionnaire_).
     This opens up another possibility, of the origin of the name of the
     instrument in the dance which it accompanied.     (W. A. P.)
 

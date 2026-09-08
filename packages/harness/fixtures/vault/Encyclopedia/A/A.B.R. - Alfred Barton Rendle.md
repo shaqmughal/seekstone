@@ -6,13 +6,13 @@ topic: politics
 
 # A.B.R. - Alfred Barton Rendle
 
-A.B.R. - ALFRED BARTON RENDLE, F.R S F.L.S. D.Sc. Keeper of the
+A.B.R. - ALFRED [[Barton|BARTON]] RENDLE, F.R S F.L.S. D.Sc. Keeper of the
 Department of Botany, British Museum.
 
 - ANGIOSPERMS
 
 
-C.Pl. - REV. CHARLES PLUMMER, M.A. Fellow of Corpus Christi College,
+C.Pl. - REV. CHARLES PLUMMER, M.A. [[Fellow]] of Corpus Christi College,
 Oxford. Ford's Lecturer, 1901. Author of _Life and Times of Alfred the
 Great_; &c.
 

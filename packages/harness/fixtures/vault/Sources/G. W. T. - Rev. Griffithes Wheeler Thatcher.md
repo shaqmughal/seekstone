@@ -2,13 +2,13 @@
 
 G. W. T. - REV. GRIFFITHES WHEELER THATCHER, M.A., B.D.
 Warden of Camden College, Sydney, N.S.W. Formerly Tutor in Hebrew and Old
-Testament History at Mansfield College, Oxford.
+Testament History at [[Mansfield]] College, Oxford.
 
 - Avempace; Averroes; Avicenna; Baid[=a]w[=i]; Bal[=a]dhur[=i]; Beh[=a]
 ud-D[=i]n; Beh[=a] ud-Din Zuhair; B[=i]r[=u]n[=i].
 
 H. Br. - HENRY BRADLEY, M.A., PH.D.
-Joint-editor of the _New English Dictionary_ (Oxford). Fellow of the
+Joint-editor of the _New English Dictionary_ (Oxford). [[Fellow]] of the
 British Academy. Author of _The Story of the Goths_; _The Making of
 English_; &c.
 

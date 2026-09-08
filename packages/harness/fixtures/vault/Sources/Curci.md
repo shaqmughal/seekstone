@@ -1,7 +1,7 @@
 # Curci
 
 CURCI, CARLO MARIA (1810-1891), Italian theologian, was born at Naples.
-He joined the Jesuits in 1826, and for some time was devoted to
+He joined the [[Jesuits]] in 1826, and for some time was devoted to
 educational work and the care of the poor and prisoners. He became one
 of the first editors of the Jesuit organ, the _Civilta Cattolica_; but
 then came under the influence of Gioberti, Rosmini and other advocates
@@ -20,7 +20,7 @@ in holy things and declares that the taint of worldliness came from the
 false principles accepted by the Curia. His former work at Naples drew
 him also in the direction of Christian Socialism. He was condemned at
 Rome, and in a letter to _The Times_ (10th of September 1884) declares
-that it was on account of his disobedience to the decrees of the Roman
+that it was on account of his disobedience to the [[Decree|decrees]] of the Roman
 Congregation: "I am a dutiful son of the Church who hesitates to obey an
 order of his mother because he does not see clear enough the maternal
 authority in it." He was cast out of the Society of Jesus and suspended,

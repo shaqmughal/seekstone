@@ -12,7 +12,7 @@ DAILLE (DALLAEUS), JEAN (1594-1670), French Protestant divine, was born
 at Chatellerault and educated at Poitiers and Saumur. From 1612 to 1621
 he was tutor to two of the grandsons of Philippe de Mornay, seigneur du
 Plessis Marly. Ordained to the ministry in 1623, he was for some time
-private chaplain to Du Plessis Mornay, whose memoirs he subsequently
+private [[Chaplain|chaplain]] to Du Plessis Mornay, whose memoirs he subsequently
 wrote. In 1625 Daille was appointed minister of the church of Saumur,
 and in 1626 was chosen by the Paris consistory to be minister of the
 church of Charenton. Of his works, which are principally controversial,
@@ -83,8 +83,8 @@ development of the dairying industry of the United Kingdom. In its
 earlier publications the Association was wont to reproduce from
 _Household Words_ the following tribute to the cow:--
 
-  "If civilized people were ever to lapse into the worship of animals,
-  the Cow would certainly be their chief goddess. What a fountain of
+  "If civilized people were ever to [[Lapse|lapse]] into the worship of animals,
+  the Cow would certainly be their chief goddess. What a [[Fountain|fountain]] of
   blessings is the Cow! She is the mother of beef, the source of butter,
   the original cause of cheese, to say nothing of shoe-horns, hair-combs
   and upper leather. A gentle, amiable, ever-yielding creature, who has
@@ -120,10 +120,10 @@ butter-making contests are held and public demonstrations are given.
 
 What are regarded as the dairy breeds of cattle is illustrated by the
 prize schedule of the annual London dairy show, in which sections are
-provided for cows and heifers of the Shorthorn, Jersey, Guernsey, Red
+provided for cows and heifers of the Shorthorn, Jersey, [[Guernsey]], Red
 Polled, Ayrshire, Kerry and Dexter breeds (see CATTLE). A miscellaneous
 class is also provided, the entries in which are mostly cross-breds.
-There are likewise classes for Shorthorn bulls, Jersey bulls, and bulls
+There are likewise classes for Shorthorn [[Bull|bulls]], Jersey bulls, and bulls
 of any other pure breed, but it is stipulated that all bulls must be of
 proved descent from dams that have won prizes in the milking trials or
 butter tests of the British Dairy Farmers' Association or other
@@ -408,8 +408,8 @@ The practice of taking the milk register, as followed in a well-known
 dairy, may be briefly described. The cows are always milked in the
 stalls, and during summer they are brought in twice a day for this
 purpose. After each cow is milked, the pail containing the whole of her
-milk is hung on a spring balance suspended in a convenient position, and
-from the gross weight indicated there is deducted the already known
+milk is hung on a spring [[Balance|balance]] suspended in a convenient position, and
+from the [[Gros|gross]] weight indicated there is deducted the already known
 weight of the pail.[2] The difference, which represents the weight of
 milk, is recorded in a book suitably ruled. This book when open presents
 a view of one week's records. In the left-hand column are the names of
@@ -531,7 +531,7 @@ alterations:--
 
   19. Salt should always be accessible to the cows.
 
-  20. Do not allow any strong-flavoured food, like garlic, cabbages and
+  20. Do not allow any strong-flavoured food, like [[Garlic|garlic]], cabbages and
   turnips, to be eaten, except immediately after milking.
 
   21. Clean the entire skin of the cow daily. If hair in the region of
@@ -1987,7 +1987,7 @@ uneven distribution of the salt.
 EQUIPMENT OF THE DAIRY
 
 The improved form of milking-pail shown in fig. 1 has rests or brackets,
-which the milker when seated on his stool places on his knees; he thus
+which the milker when seated on his stool places on his [[Knee|knees]]; he thus
 bears the weight on his thighs, and is entirely relieved of the strain
 involved in gripping the can between the knees. The milk sieve or
 strainer (fig. 2) is used to remove cow-hairs and any other mechanical
@@ -2005,7 +2005,7 @@ Curd-knives (fig. 5) are used for cutting the coagulated mass into cubes
 in order to liberate the whey. They are made of fine steel, with sharp
 edges; there are also wire curd-breakers. The object of the curd-mill
 (fig. 6) is to grind consolidated curd into small pieces, preparatory to
-salting and vatting; two spiked rollers work up to spiked breasts.
+salting and vatting; two spiked rollers work up to spiked [[Breast|breasts]].
 Hoops, into which the curd is placed in order to acquire the shape of
 the cheese, are of wood or steel, the former being made of well-seasoned
 oak with iron bands (fig. 7), the latter of tinned steel. The cheese is
@@ -2382,7 +2382,7 @@ signed by all the members excepting one:--
     the milk-fat may exceed 3.25%.
 
   III. That the artificial thickening of cream by any addition of
-  gelatin or other substance shall raise a presumption that the cream is
+  [[Gelatin|gelatin]] or other substance shall raise a presumption that the cream is
   not genuine.
 
   IV. That any skimmed or separated milk in which the total milk-solids
@@ -3353,7 +3353,7 @@ impracticable. In many places new branches have been instituted for the
 making of sugar-of-milk and other commercial products from whey, and for
 the utilization of skim-milk in various ways. The albumin of the latter
 is extracted for use with food products and in the arts. The casein is
-desiccated and prepared as a substitute for eggs in baking, as the basis
+desiccated and prepared as a substitute for [[Egg|eggs]] in baking, as the basis
 of an enamel paint, and as a substitute for glue in paper-sizing. It has
 also been proposed to solidify it to make buttons, combs, brush-backs,
 electrical insulators and similar articles.
@@ -3457,7 +3457,7 @@ FOOTNOTES:
 
   [12] "Thermal Death-Point of Tubercle Bacilli, and Relation of same
     to Commercial Pasteurization of Milk," by H. L. Russell and E. G.
-    Hastings.
+    [[Hastings]].
 
   [13] _16th Rept. Wis. Agric. Expt. Station_, 1899, p. 129.
 

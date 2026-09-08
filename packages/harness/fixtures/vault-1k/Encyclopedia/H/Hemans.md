@@ -88,7 +88,7 @@ to visit the Hamiltons of Chiefswood.
 Here she enjoyed "constant, almost daily, intercourse" with Sir Walter
 Scott, with whom she and her boys afterwards stayed some time at
 Abbotsford. "There are some whom we meet, and should like ever after to
-claim as kith and kin; and you are one of those," was Scott's compliment
+claim as kith and [[Kin|kin]]; and you are one of those," was Scott's compliment
 to her at parting. One of the results of her Edinburgh visit was an
 article, full of praise, judiciously tempered with criticism, by Jeffrey
 himself for the _Edinburgh Review_. Mrs Hemans returned to Wavertree to

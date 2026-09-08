@@ -20,7 +20,7 @@ sea-level. The general inclination of the country is towards the north,
 in which direction most of the streams of the state flow, while others,
 passing through the Vindhya ranges, flow to the Nerbudda.
 
-Bhopal state was founded in 1723 by Dost Mahommed Khan, an Afghan
+Bhopal state was founded in 1723 by [[Dost Mahommed Khan]], an Afghan
 adventurer. In 1778, when General Thomas Goddard made his bold march
 across India, the state of Bhopal was the only Indian power that showed
 itself friendly; and in 1809 when another British expedition under
@@ -37,11 +37,11 @@ on the death of her mother, Shah Jahan Begum, in June 1901, being the
 only female ruler in India.
 
 The estimated revenue of the state is L250,000, and the state pays a
-subsidy of L13,000 for the Bhopal battalion. Besides the Bhopal
-battalion, a regiment of imperial service cavalry is maintained, under
+subsidy of L13,000 for the Bhopal [[Battalion|battalion]]. Besides the Bhopal
+battalion, a regiment of imperial service [[Cavalry|cavalry]] is maintained, under
 the name of the Victoria Lancers. There is a branch railway from Itarsi
 to Bhopal city, continued to Jhansi. The British currency has been
-introduced, and in 1897-1898, Rs. 71,00,000 of Bhopali coins were
+introduced, and in 1897-1898, Rs. 71,00,000 of Bhopali [[Coin|coins]] were
 converted. The residence of the political agent and the headquarters of
 the Bhopal battalion are at Sehore, 20 m. west of Bhopal city. The city
 of Bhopal, a railway station, had a population in 1901 of 76,561. The

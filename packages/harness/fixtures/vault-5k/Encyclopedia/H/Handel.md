@@ -5,7 +5,7 @@ HANDEL, GEORGE FREDERICK (1685-1759),
 
   Life.
 
-English musical composer, German by origin, was born at Halle in Lower
+English musical composer, German by origin, was born at [[Halle]] in Lower
 Saxony, on the 23rd of February 1685. His name was Handel, but, like
 most 18th-century musicians who travelled, he compromised with its
 pronunciation by foreigners, and when in Italy spelt it Hendel, and in
@@ -13,7 +13,7 @@ England (where he became naturalized) accepted the version Handel, which
 is therefore correct for English writers, while Handel remains the
 correct version in Germany. His father was a barber-surgeon, who
 disapproved of music, and wished George Frederick to become a lawyer. A
-friend smuggled a clavichord into the attic, and on this instrument,
+friend smuggled a clavichord into the [[Attic|attic]], and on this instrument,
 which is inaudible behind a closed door, the little boy practised
 secretly. Before he was eight his father went to visit a son by a former
 marriage who was a valet-de-chambre to the duke of Saxe-Weissenfels. The
@@ -47,7 +47,7 @@ entering the university of Halle in 1702 as a law student. But in that
 year he succeeded to the post of organist at the cathedral, and after
 his "probation" year in that capacity he departed to Hamburg, where the
 only German opera worthy of the name was flourishing under the direction
-of its founder, Reinhold Keiser. Here he became friends with Matheson, a
+of its founder, Reinhold Keiser. Here he became friends with [[Matheson]], a
 prolific composer and writer on music. On one occasion they set out
 together to go to Lubeck, where a successor was to be appointed to the
 post left vacant by the great organist Buxtehude, who was retiring on
@@ -60,14 +60,14 @@ Another adventure might have had still more serious consequences. At a
 performance of Matheson's opera _Cleopatra_ at Hamburg, Handel refused
 to give up the conductor's seat to the composer when the latter returned
 to his usual post at the harpsichord after singing the part of Antony on
-the stage. The dispute led to a duel outside the theatre, and, but for a
+the stage. The dispute led to a [[Duel|duel]] outside the theatre, and, but for a
 large button on Handel's coat which intercepted Matheson's sword, there
 would have been no _Messiah_ or _Israel in Egypt_. But the young men
 remained friends, and Matheson's writings are full of the most valuable
 facts for Handel's biography. He relates in his _Ehrenpforte_ that his
 friend at that time used to compose "interminable cantatas" of no great
 merit; but of these no traces now remain, unless we assume that a
-_Passion according to St John_, the manuscript of which is in the royal
+_Passion according to St John_, the [[Manuscript|manuscript]] of which is in the royal
 library at Berlin, is among the works alluded to. But its authenticity,
 while strongly upheld by Chrysander, has recently been as strongly
 assailed on internal evidence.
@@ -89,7 +89,7 @@ always characterized his work. He had before this refused offers from
 noble patrons to send him there, but had now saved enough money, not
 only to support his mother at home, but to travel as his own master. He
 divided his time in Italy between Florence, Rome, Naples and Venice; and
-many anecdotes are preserved of his meetings with Corelli, Lotti,
+many anecdotes are preserved of his meetings with [[Corelli]], Lotti,
 Alessandro Scarlatti and Domenico Scarlatti, whose wonderful harpsichord
 technique still has a direct bearing on some of the most modern features
 of pianoforte style. Handel soon became famous as _Il Sassone_ ("the
@@ -120,7 +120,7 @@ experience so rapidly effected in his methods.
 
 Handel's success in Italy established his fame and led to his receiving
 at Venice in 1709 the offer of the post of Kapellmeister to the elector
-of Hanover, transmitted to him by Baron Kielmansegge, his patron and
+of [[Hanover]], transmitted to him by Baron Kielmansegge, his patron and
 staunch friend of later years. Handel at the time contemplated a visit
 to England, and he accepted this offer on condition of leave of absence
 being granted to him for that purpose. To England accordingly Handel
@@ -140,8 +140,8 @@ returned to Hanover at the close of the opera season, and composed a
 good deal of vocal chamber music for the princess Caroline, the
 step-daughter of the elector, besides the instrumental works known to us
 as the oboe concertos. In 1712 Handel returned to London and spent a
-year with Andrews, a rich musical amateur, in Barn Elms, Surrey. Three
-more years were spent in Burlington, in the neighbourhood of London. He
+year with Andrews, a rich musical amateur, in Barn [[Elm|Elms]], Surrey. Three
+more years were spent in [[Burlington]], in the neighbourhood of London. He
 evidently was but little inclined to return to Hanover, in spite of his
 duties to the court there. Two Italian operas and the _Utrecht Te Deum_
 written by the command of Queen Anne are the principal works of this
@@ -159,13 +159,13 @@ the popular poem of Brockes, a text which, divested of its worst
 features, forms the basis of several of the arias in Bach's _Passion
 according to St John_. This was Handel's last work to a German text.
 
-On his return to England he entered the service of the duke of Chandos
+On his return to England he entered the service of the duke of [[Chandos]]
 as conductor of his concerts, receiving a thousand pounds for his first
 oratorio _Esther_. The music which Handel wrote for performance at
 "Cannons," the duke of Chandos's residence at Edgware, is comprised in
 the first version of _Esther, Acis and Galatea_, and the twelve _Chandos
 Anthems_, which are compositions approximately in the same form as
-Bach's church cantatas but without any systematic use of chorale tunes.
+Bach's church cantatas but without any systematic use of [[Chorale|chorale]] tunes.
 The fashionable Londoner would travel 9 miles in those days to the
 little chapel of Whitchurch to hear Handel's music, and all that now
 remains of the magnificent scene of these visits is the church, which is
@@ -173,7 +173,7 @@ the parish church of Edgware. In 1720 Handel appeared again in a public
 capacity as impresario of the Italian opera at the Haymarket theatre,
 which he managed for the institution called the Royal Academy of Music.
 Senesino, a famous singer, to engage whom Handel especially journeyed to
-Dresden, was the mainstay of the enterprise, which opened with a highly
+[[Dresden]], was the mainstay of the enterprise, which opened with a highly
 successful performance of Handel's opera _Radamisto_. To this time
 belongs the famous rivalry between Handel and Buononcini, a melodious
 Italian composer whom many thought to be the greater of the two. The
@@ -182,7 +182,7 @@ controversy has been perpetuated in John Byrom's lines:
   "Some say, compared to Buononcini
    That Mynheer Handel's but a ninny;
    Others aver that he to Handel
-   Is scarcely fit to hold a candle.
+   Is scarcely fit to hold a [[Candle|candle]].
    Strange all this difference should be
    Twixt tweedle-dum and tweedle-dee."
 
@@ -195,7 +195,7 @@ as in Buononcini's. None of Handel's forty-odd Italian operas can be
 said to survive, except in some two or three detached arias out of each
 opera; arias which reveal their essential qualities far better in
 isolation than when performed in groups of between twenty and thirty on
-the stage, as interruptions to the action of a classical drama to which
+the stage, as interruptions to the action of a classical [[Drama|drama]] to which
 nobody paid the slightest attention. But even within these limits
 Handel's artistic resources were too great to leave the issue in doubt;
 and when Handel wrote the third act of an opera _Muzio Scevola_, of
@@ -207,7 +207,7 @@ Buononcini left London, and Handel for the next ten years was without a
 rival in his ventures as an operatic composer. He was not, however,
 without a rival as an impresario; and the hostile competition of a rival
 company which obtained the services of the great Farinelli and also
-induced Senesino to desert him, led to his bankruptcy in 1737, and to an
+induced Senesino to [[Desert|desert]] him, led to his [[Bankruptcy|bankruptcy]] in 1737, and to an
 attack of paralysis caused by anxiety and overwork. The rival company
 also had to be dissolved from want of support, so that Handel's
 misfortunes must not be attributed to any failure to maintain his
@@ -244,11 +244,11 @@ at subsequent performances of this gigantic work to insert more solos.
 
 The _Messiah_ was produced at Dublin on the 13th of April 1742. _Samson_
 (which Handel preferred to the _Messiah_) appeared at Covent Garden on
-the 2nd of March 1744; _Belshazzar_ at the King's theatre, 27th of March
+the 2nd of March 1744; _[[Belshazzar]]_ at the King's theatre, 27th of March
 1745; the _Occasional Oratorio_ (chiefly a compilation of the earlier
 oratorios, but with a few important new numbers), on the 14th of
 February 1746 at Covent Garden, where all his later oratorios were
-produced; _Judas Maccabaeus_ on the 1st of April 1747; _Joshua_ on the
+produced; _Judas Maccabaeus_ on the 1st of April 1747; _[[Joshua]]_ on the
 9th of March 1748; _Alexander Balus_ on the 23rd of March 1748; Solomon
 on the 17th of March 1749; _Susanna_, spring of 1749; _Theodora_, a
 great favourite of Handel's, who was much disappointed by its cold
@@ -258,8 +258,8 @@ Truth_ (transcribed from _Il Trionfo del tempo_ with the addition of
 many later favourite numbers), 1757. Other important works,
 indistinguishable in artistic form from oratorios, but on secular
 subjects, are _Alexander's Feast_, 1736; _Ode for St Cecilia's Day_
-(words by Dryden); _L'Allegro, il pensieroso ed il moderato_ (the words
-of the third part by Jennens), 1740; _Semele_, 1744; _Hercules_, 1745;
+(words by [[Dryden]]); _L'Allegro, il pensieroso ed il moderato_ (the words
+of the third part by Jennens), 1740; _Semele_, 1744; _[[Hercules]]_, 1745;
 and _The Choice of Hercules_, 1751.
 
 By degrees the enmity against Handel died away, though he had many
@@ -339,7 +339,7 @@ eminently practical genius soon formed his vocal style, and long before
 the period of his great oratorios, such works as _The Birthday Ode for
 Queen Anne_ (1713) and the _Utrecht Te Deum_ show not a trace of German
 extravagance. The only drawback to his practical genius was that it led
-him to bury perhaps half of his finest melodies, and nearly all the
+him to [[Bury|bury]] perhaps half of his finest melodies, and nearly all the
 secular features of interest in his treatment of instruments and of the
 aria forms, in that deplorable limbo of vanity, the 18th-century Italian
 opera. It is not true, as has been alleged against him, that his operas
@@ -359,7 +359,7 @@ interesting or intelligible, but simply to provide a concert of between
 some twenty and thirty Italian arias and duets, wherein singers could
 display their abilities and spectators find distraction from the
 monotony of so large a dose of the aria form (which was then the only
-possibility for solo vocal music) in the gorgeousness of the dresses and
+possibility for solo vocal music) in the gorgeousness of the [[Dress|dresses]] and
 scenery.
 
 When the question arose how a musical entertainment of this kind could
@@ -397,7 +397,7 @@ dramatic expression (as opposed to dramatic action) than as a purely
 musical resource. Already in _Athalia_ the "Hallelujah" chorus at the
 end of the first act is a marvel of dramatic truth. It is sung by
 Israelites almost in despair beneath usurping tyranny; and accordingly
-it is a severe double fugue in a minor key, expressive of devout courage
+it is a severe double fugue in a minor [[Key|key]], expressive of devout courage
 at a moment of depression. On purely musical grounds it is no less
 powerful in throwing into the highest possible relief the ecstatic
 solemnity of the psalm with which the second act opens. Now this sombre
@@ -405,7 +405,7 @@ solemnity of the psalm with which the second act opens. Now this sombre
 originality, and the point in which his creative power really lies. It
 was not originally written for its situation in _Athalia_, but it was
 chosen for it. It was originally the last chorus of the second version
-of the anthem, _As pants the Hart_, from the autograph of which it is
+of the anthem, _As pants the [[Hart]]_, from the autograph of which it is
 missing because Handel cut out the last pages in order to insert them
 into the manuscript of _Athalia_. The inspiration in _Athalia_ thus lies
 not in the creation of the chorus itself, but in the choice of it.
@@ -458,12 +458,12 @@ rather than another. In the plastic and literary arts one type of this
 antithesis is more or less permanently maintained in the relation
 between subject and treatment. The mere fact that these arts express
 themselves by representing things that have some previous independent
-existence, helps us to look for originality rather in the things that
+existence, [[Helps|helps]] us to look for originality rather in the things that
 make for perfection of treatment than in novelty of subject. But in
 music we have no permanent means of deciding which of many aspects we
 shall call the subject and which the treatment. In the 16th century the
 a priori form existed mainly in the practice of basing almost every
-melodic detail of the work on phrases of Gregorian chant or popular
+melodic detail of the work on phrases of Gregorian [[Chant|chant]] or popular
 song, treated for the most part in terms of very definitely regulated
 polyphonic design, and on harmonic principles regulated in almost every
 detail by the relation between the melodic aspects of the church modes
@@ -500,7 +500,7 @@ difference between cases in point prevails to this day, and many
 discussions which have been raised in regard to the ethical aspect of
 the question are frankly absurd.[3] It has been argued, for instance,
 that great injustice was done to Buononcini over his unfortunate affair
-with the prize madrigal, while his great rival was allowed the credit of
+with the prize madrigal, while his great rival was allowed the [[Credit|credit]] of
 _Israel in Egypt_, which contains a considerable number of entire
 choruses (besides hosts of themes) by earlier Italian and German
 writers. But the very idea of Handelian oratorio is that of some three
@@ -538,7 +538,7 @@ designing. In _Israel in Egypt_, the choruses "Egypt was glad when they
 departed," "And I will exalt Him," "Thou sentest forth Thy Wrath" and
 "The Earth swallowed them," are without exception the most colourless
 and unattractive pieces of severe counterpoint to be found among
-Handel's works; and it is very difficult to fathom his motive in copying
+Handel's works; and it is very difficult to [[Fathom|fathom]] his motive in copying
 them from obscure pieces by Erba and Kaspar Kerl, unless it be that he
 wished to train his audiences to a better understanding of a polyphonic
 style. He certainly felt that the greatest possibilities of music lay in
@@ -583,7 +583,7 @@ themes are pilfered, for in oratorios the solo work still appealed to
 the popular criterion of novelty and individual attractiveness. And when
 we leave the question of copying of whole movements and come to that of
 the adaptation of passages, and still more of themes, Handel shows
-himself to be simply on a line with Mozart. Jahn compares the opening of
+himself to be simply on a line with Mozart. [[Jahn]] compares the opening of
 Mozart's _Requiem_ with that of the first chorus in Handel's _Funeral
 Anthem_. Mozart recreates at least as much from Handel's already perfect
 framework as Handel ever idealized from the inorganic fragments of
@@ -645,7 +645,7 @@ bring out its character with the liveliest sense of climax and dramatic
 interest by taking it at its own value as a popular tune. So he uses it
 as an instrumental interlude accompanied with a jingle of carillons,
 while the daughters of Israel sing to a square-cut tune those praises of
-David which aroused the jealousy of Saul. But now turn to the opening of
+David which aroused the [[Jealousy|jealousy]] of Saul. But now turn to the opening of
 the _Dettingen Te Deum_ and see what splendid use is made of the other
 side of Urio's idea, the contrast between a jubilant noise in the lowest
 part of the scale and the blaze of trumpets at an extreme height. In the
@@ -692,7 +692,7 @@ far as other composers have been neglected. But no composer has suffered
 so much from pious misinterpretation and the popular admiration of
 misleading externals. It is not the place here to dilate upon the burial
 of Handel's art beneath the "mammoth" performances of the Handel
-Festivals at the Crystal Palace; nor can we give more than a passing
+Festivals at the [[Crystal Palace]]; nor can we give more than a passing
 reference to the effects of "additional accompaniments" in the style of
 an altogether later age, started most unfortunately by Mozart (whose
 share in the work has been very much misinterpreted and corrupted) and
@@ -719,7 +719,7 @@ sublime height of musical climax by the simplest means.
   English secular cantatas, and a few other small works, English and
   Italian, of the type of oratorio or incidental dramatic music; 3 Latin
   settings of the _Te Deum_; the (English) _Dettingen Te Deum_ and
-  _Utrecht Te Deum and Jubilate_; 4 coronation anthems; 3 volumes of
+  _Utrecht Te Deum and Jubilate_; 4 [[Coronation|coronation]] anthems; 3 volumes of
   English anthems (_Chandos Anthems_); 1 volume of Latin church music; 3
   volumes of Italian vocal chamber-music; 1 volume of clavier works; 37
   instrumental duets and trios (sonatas), and 4 volumes of orchestral

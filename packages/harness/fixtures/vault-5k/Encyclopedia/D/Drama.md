@@ -9,7 +9,7 @@ another, both as to the objects imitated and as to the means used in the
 process. But they all agree in the _method_ or _manner_ which is
 essential to the drama and to dramatic art, namely, _imitation in the
 way of action_. The function of all Art being to give pleasure by
-representation (see FINE ARTS), it is clear that what is distinctive of
+representation (see [[Fine Arts|FINE ARTS]]), it is clear that what is distinctive of
 any one branch or form must be the manner in which this function is
 performed by it. In the epos, for instance, the method or manner is
 narrative, and even when Odysseus tells of his action, he is not acting.
@@ -27,7 +27,7 @@ significant by its delivery as well as by its purport, but also by
 imitation superadded to these. To imitate, says Aristotle, is
 instinctive in man from his infancy, and no pleasure is more universal
 than that which is given by imitation. Inasmuch as the aid of some sort
-of dress or decoration is usually at hand, while the accompaniment of
+of [[Dress|dress]] or decoration is usually at hand, while the accompaniment of
 dance or song, or other music, naturally suggests itself, especially on
 joyous or solemn occasions, we find that this preliminary step is taken
 among all peoples, however primitive or remote. But it does not follow,
@@ -47,7 +47,7 @@ that the result shown forth need pretend to be the ultimate result. We
 look upon an action as ended when the purpose with which it began is
 shown to have been gained or frustrated; and we trace the beginning of
 an action back to the human will that set it on foot--though this will
-may be in bondage to a higher or stronger will, or to fate, in any or
+may be in bondage to a higher or stronger will, or to [[Fate|fate]], in any or
 all of its purposes. Without an action in the sense stated--without a
 plot, in a word--there can be no drama. But the very simplest action
 will satisfy the dramatic test; a mystery representing the story of Cain
@@ -84,7 +84,7 @@ study.
 While the aid of all other arts--even, strictly speaking, the aid of the
 literary art--is merely an accident, the co-operation of the art of
 acting is indispensable to that of the drama. The dramatic writer may
-have reasons for preferring to leave the imagination of his reader to
+have reasons for preferring to leave the [[Imagination|imagination]] of his reader to
 supply the absence of this co-operation; but, though the term "literary
 drama" is freely used of works kept away from the stage, it is in truth
 either a misnomer or a self-condemnation. It is true that the actor only
@@ -110,7 +110,7 @@ adequately meeting the demands upon it. Aristotle, whom we still justly
 revere as the originator of the theory of the drama, and thus its great
 [Greek: nomothétês], was, no doubt, in his practical knowledge of it,
 confined to its Greek examples, yet his object was not to produce
-another generation of great Attic tragedians, but rather to show how it
+another generation of great [[Attic]] tragedians, but rather to show how it
 was by following the necessary laws of their art that the great masters,
 true to themselves and to their artistic ends, had achieved what they
 had achieved. Still more distinctly was such the aim of the greatest
@@ -128,7 +128,7 @@ one of the most useful functions of literary and artistic criticism. Nor
 is there, in one sense at least, any finality about it. Neither the
 great authorities on dramatic theory nor the resolute and acute
 apologists of more or less transitory phases of the drama--Corneille,
-Dryden and many later successors--have exhausted the statement of the
+[[Dryden]] and many later successors--have exhausted the statement of the
 means which the drama has proved, or may prove, capable of employing.
 The multitude of technical terms and formulae which has gathered round
 the practice of the most living and the most Protean of arts has at no
@@ -151,8 +151,8 @@ action. The less experienced a playwright, the more readily will he, as
 the phrase is, rush at his subject, more especially if it seems to him
 to possess prima facie dramatic capabilities; and the consequence will
 be that which usually attends upon a precipitate start. On the other
-hand, while the quickness of a great dramatist's apprehension is apt to
-suggest to him an infinite number of subjects, and insight and
+hand, while the quickness of a great dramatist's [[Apprehension|apprehension]] is apt to
+suggest to him an [[Infinite|infinite]] number of subjects, and insight and
 experience may lead him half instinctively in the direction of suitable
 themes, it will often be long before in his mind the subject converts
 itself into the initial conception of the action of a play. To mould a
@@ -266,7 +266,7 @@ Elizabethans was in their case encouraged by the established form of the
 English scene. The palpable artificiality of these laws needs no
 demonstration, so long as the true meaning of the term "action" be kept
 in view. Of the action of _Othello_ part takes place at Venice and part
-at Cyprus, and yet the whole is one in itself; while the limits of time
+at [[Cyprus]], and yet the whole is one in itself; while the limits of time
 over which an action--Hamlet's progress to resolve, for
 instance--extends cannot be restricted by a revolution of the earth
 round the sun or of the moon round the earth.
@@ -285,7 +285,7 @@ only what he knows, and all human knowledge is imperfect. But Art is
 limited by no such uncertainty. The dramatist, in treating an action as
 _one_, comprehends the whole of it in the form of his work, since, to
 him who has _conceived_ it, all its parts, from cause to effect, are
-equally clear. It is his fault if in the action of his drama anything is
+equally clear. It is his [[Fault|fault]] if in the action of his drama anything is
 left unaccounted for--not _motivé_; though a dramatic _motif_ might not
 always prove to be a sufficient explanation in real life. Accordingly,
 every drama should represent in organic sequence the several stages of
@@ -337,9 +337,9 @@ various times adopted to secure this feature. Thus the Euripidean
 prologue, though spoken by one of the characters of the play, took a
 narrative form, more acceptable to the audience than to the critics, and
 placed itself half without, half within, the action. The same purpose is
-served by the separate "inductions" in many of the old English plays,
+served by the separate "[[Induction|inductions]]" in many of the old English plays,
 and by the preludes or prologues, or whatever name they may assume, in
-numberless modern dramas of all kinds--from _Faust_ down to the
+numberless modern dramas of all kinds--from _[[Faust]]_ down to the
 favourites of the Ambigu and the Adelphi. More facile is the orientation
 supplied in French tragedy by the opening scenes between hero and
 _confidant_, and in French comedy and its derivatives by those between
@@ -363,14 +363,14 @@ The exposition, which may be short or long, but which should always
 prepare and may even seem to necessitate the action, ends when the
 movement of the action itself begins. This transition may occasionally
 be marked with the utmost distinctness (as in the actual meeting between
-the hero and the Ghost in _Hamlet_), while in other instances subsidiary
-action or episode may judiciously intervene (as in _King Lear_, where
+the hero and the Ghost in _[[Hamlet]]_), while in other instances subsidiary
+action or episode may judiciously intervene (as in _King [[Lear]]_, where
 the subsidiary action of Gloster and his sons opportunely prevents too
 abrupt a sequence of cause and effect). From this point the second stage
 of the action--its "growth"--progresses to that third stage which is
 called its "height" or "climax." All that has preceded the attainment of
 this constitutes that half of the drama--usually its much larger
-half--which Aristotle terms the [Greek: desis], or tying of the knot.
+half--which Aristotle terms the [Greek: desis], or tying of the [[Knot|knot]].
 The varieties in the treatment of the growth or second stage of the
 action are infinite; it is here that the greatest freedom is manifestly
 permissible; that in the Indian drama the personages make long journeys
@@ -388,7 +388,7 @@ dramatist's art; for while the transactions of real life often fail to
 reach any climax at all, that of a dramatic action should present itself
 as self-evident. In the middle of everything, says the Greek poet, lies
 the strength; and this strongest or highest point it is the task of the
-dramatist to make manifest. Much here depends upon the niceties of
+dramatist to make [[Manifest|manifest]]. Much here depends upon the niceties of
 constructive instinct; much (as in all parts of the action) upon a
 thorough dramatic transformation of the subject. The historical drama at
 this point presents peculiar difficulties, of which the example of
@@ -415,7 +415,7 @@ it in accordance with the character of those which are of a more subtle
 or complicated kind. With the latter, therefore, the "fall" is often a
 revolution or "return," i.e. in Aristotle's phrase a change into the
 reverse of what is expected from the circumstances of the action
-([Greek: peripeteia])--as in _Coriolanus_, where the Roman story lends
+([Greek: peripeteia])--as in _[[Coriolanus]]_, where the Roman story lends
 itself so admirably to dramatic demands. In any case, the art of the
 dramatist is in this part of his work called upon for the surest
 exercise of its tact and skill. The effect of the climax was to
@@ -432,7 +432,7 @@ removal of incidental difficulties. In all kinds of the drama
 "discovery" will remain, as it was in the judgment of Aristotle, a most
 effective expedient; but it should be a discovery prepared by that
 method of treatment which in its consummate master, Sophocles, has been
-termed his "irony." Nowhere should the close or catastrophe be other
+termed his "[[Irony|irony]]." Nowhere should the close or catastrophe be other
 than a consequence of the action itself. Sudden revulsions from the
 conditions of the action--such as are supplied with the aid of the _deus
 ex machina_, or the revising officer of the emperor of China, or the
@@ -443,9 +443,9 @@ other part of the action, be in organic connexion with the whole
 preceding action. The sudden suicides which terminate so many tragedies,
 and the unmerited paternal blessings which close an equal number of
 comedies, should be something more than a "way out of it," or a signal
-for the fall of the curtain. A catastrophe may conveniently, and even
+for the fall of the [[Curtain|curtain]]. A catastrophe may conveniently, and even
 (as in _Faust_) with powerful effect, be left to the imagination; but
-to substitute for it a deliberate blank is to leave the action
+to substitute for it a deliberate [[Blank|blank]] is to leave the action
 incomplete, and the drama a fragment ending with a--possibly
 interesting--confession of incompetence.
 
@@ -502,7 +502,7 @@ opportunities for mankind's study of man. The theories of the Indian
 critics on the subject of dramatic character are little more than an
 elaborate scaffolding. Aristotle's remarks on the subject are scanty;
 nor indeed is the strength of the dramatic literature from whose
-examples he abstracted his maxims to be sought in the fulness or variety
+examples he abstracted his [[Maxims|maxims]] to be sought in the fulness or variety
 of its characterization. This relative deficiency was beyond doubt
 largely caused by the outward conditions of the Greek theatre--the
 remoteness of actor from spectator, and the consequent necessity for the
@@ -576,7 +576,7 @@ their chief characteristics, labels Sacco as "an ordinary person," and
 this, no doubt, suffices for Sacco. But with the great masters of
 characterization a few touches, of which the true actor's art knows how
 to avail itself, distinguish even their lesser characters from one
-another; and every man is in his humour down to the "third citizen."
+another; and every man is in his [[Humour|humour]] down to the "third citizen."
 Elaboration is necessarily reserved for characters who are the more
 important contributors to the action, and the fulness of elaboration for
 its heroes. Many expedients may lend their aid to the higher degrees of
@@ -586,7 +586,7 @@ alone upon the scene, Volpone is discovered in adoration of his golden
 saint. Nothing marks character more clearly than the use of contrast--as
 of Othello with Iago, of Ottavio with Max Piccolomini, of Joseph with
 Charles Surface. Nor is direct antithesis the only effective kind of
-contrast; Cassius is a foil to Brutus, and Leonora to her namesake the
+contrast; [[Cassius]] is a foil to Brutus, and Leonora to her namesake the
 Princess. But, besides impressing the imagination as a conception
 distinct in itself, each character must maintain a consistency between
 its conduct in the action and the features it has established as its
@@ -624,11 +624,11 @@ determine, the course of the action, its entire conception should
 harmonize with their distinctive features. It is only a Prometheus whom
 the gods bind fast to a rock, only a Juliet who will venture into a
 living death for her Romeo. Thus, in a sense, chance is excluded from
-dramatic action, or rather, like every other element in it, bends to the
+dramatic action, or rather, like every other element in it, [[Bend|bends]] to the
 dramatic idea.
 
 In view of this predominance of character over action, we may
-appropriately use such expressions as a tragedy of love or jealousy or
+appropriately use such expressions as a tragedy of love or [[Jealousy|jealousy]] or
 ambition, or a comedy of character. For such collocations merely
 indicate that plays so described have proved (or were intended to prove)
 specially impressive by the conception or execution of their chief
@@ -640,7 +640,7 @@ character or characters.
   Their relative significance.
 
 The term "manners" (as employed in a narrower sense than the
-Aristotelian [Greek: êthê]) applies to that which colours both action and
+Aristotelian [Greek: êthê]) applies to that which [[Colours|colours]] both action and
 characters, but does not determine the essence of either. As exhibiting
 human agents under certain conditions of time and place, and of the
 various relations of life, the action of a drama, together with the
@@ -668,7 +668,7 @@ the adoption of a purely conventional standard of manners, or at least
 the exclusion of any definitely fixed standard, is here desirable. The
 ducal reign of Theseus at Athens (if its period be ascertainable) does
 not date _A Midsummer_ _Night's Dream_; nor do the coasts of Bohemia in
-_The Winter's Tale_ localize the manners of the customers of Autolycus.
+_The Winter's Tale_ localize the manners of the customers of [[Autolycus]].
 Where, on the other hand, as more especially in the historic drama, or
 in that kind of comedy which directs its shafts against the ridiculous
 vices of a particular age or country, significance attaches to the
@@ -724,7 +724,7 @@ that influence which, employing a bold but marvellously happy figure,
 Aristotle termed _purification_, and which a Greek comedian, after a
 more matter-of-fact fashion, thus expressed:
 
-  "For whensoe'er a man observes his fellow
+  "For whensoe'er a man observes his [[Fellow|fellow]]
    Bear wrongs more grievous than himself has known,
    More easily he bears his own misfortunes."
 
@@ -745,7 +745,7 @@ pure "comedy." In dramas where the effects are mixed the nature of the
 main action and of the main characters (as determined by their
 distinctive features) alone enables us to classify such plays as serious
 or humorous dramas--or as "tragic" or "comic," if we choose to preserve
-the terms. But the classification admits of a variety of transitions,
+the terms. But the [[Classification|classification]] admits of a variety of transitions,
 from "pure" tragedy to "mixed," from "mixed tragedy" to "mixed comedy,"
 and thence to "pure comedy," with the more freely licensed "farce" and
 "burlesque," the time-honoured inversion of the relations of dramatic
@@ -782,7 +782,7 @@ yet its true exercise implies (however much the term may have been
 abused) a creative process. The conception of a character is determined
 by antecedents not of the actor's own making; and the term originality
 can be applied to it only in a relative sense. Study and reflection
-enable him, with the aid of experience and of the intuition which genius
+enable him, with the aid of experience and of the [[Intuition|intuition]] which genius
 bestows, but which experience may in a high degree supply, to interpret,
 to combine, and to supplement given materials. But in the transformation
 of the conception into the represented character the actor's functions
@@ -817,7 +817,7 @@ orator, he has to follow the laws of pronunciation, modulation, accent
 and rhythm (the last in certain kinds of prose as well as in such forms
 of verse as he may be called upon to reproduce). But he has also to
 give his attention to the special laws of dramatic delivery, which vary
-in soliloquy and dialogue, and in such narrative or lyrical passages as
+in soliloquy and [[Dialogue|dialogue]], and in such narrative or lyrical passages as
 may occur in his part.
 
 
@@ -870,13 +870,13 @@ conventional form. Thus, from the union of dance and song, to which were
 afterwards added narrative recitation, and first sung, then spoken,
 dialogue, was gradually evolved the acted drama. Such scenes and stories
 from the mythology of Vishnu are still occasionally enacted by pantomime
-or spoken dialogue in India (_j[=a]tras_ of the Bengalis; _r[=a]sas_ of
+or spoken dialogue in India (_j[=a]tras_ of the [[Bengali|Bengalis]]; _r[=a]sas_ of
 the Western Provinces); and the most ancient Indian play was said to
 have treated an episode from the history of that deity--the choice of
 him as a consort by Laxmi--a favourite kind of subject in the Indian
 drama. The tradition connecting its earliest themes with the native
 mythology of Vishnu agrees with that ascribing the origin of a
-particular kind of dramatic performance--the _sang[=i]ta_--to Krishna
+particular kind of dramatic performance--the _sang[=i]ta_--to [[Krishna]]
 and the shepherdesses. The author's later poem, the _G[=i]tagovinda_,
 has been conjectured to be suggestive of the earliest species of Hindu
 dramas. But, while the epic poetry of the Hindus gradually approached
@@ -890,7 +890,7 @@ upon the Homeric poems and these had been preceded by the early hymns.
 There seems, indeed, no reason for dating the beginnings of the regular
 Indian drama farther back than the 5th century A.D., though it is
 probable that the earliest extant Sanskrit play, the delightful, and in
-some respects incomparable, _Mrichchhakat[=i]k[=a]_ (_The Toy Cart_),
+some respects incomparable, _Mrichchhakat[=i]k[=a]_ (_The Toy [[Cart]]_),
 was considerably earlier in date than the works of K[=a]lid[=a]sa.
 Indeed, of his predecessors in dramatic composition very little is
 known, and even the contemporaries who competed with him as dramatists
@@ -965,7 +965,7 @@ is indicated by the fact that no jester appears in them, are devoid of
 the element of humour.
 
 The plays of R[=a]jasekhara, who lived about the end of the 9th century,
-deal, like those of Harsadeva, with harem and court life. One of them,
+deal, like those of Harsadeva, with [[Harem|harem]] and court life. One of them,
 _Karpura Manjuri_ (_Camphor Cluster_), is stated to be the only example
 of the _saltaka_ or minor heroic comedy, written entirely in Prakrit.
 
@@ -1059,7 +1059,7 @@ likewise revered as the father of dramatic criticism--a combination of
 functions to which the latter days of the English theatre might perhaps
 furnish an occasional parallel. The commentators (possibly under the
 influence of inspiration rather than as a strict matter of memory)
-constantly cite his _s[=u]tras_, or aphorisms. (From _s[=u]tra_, thread,
+constantly cite his _s[=u]tras_, or [[Aphorism|aphorisms]]. (From _s[=u]tra_, thread,
 was named the _s[=u]tra-dh[=a]ra_, thread-holder, carpenter, a term
 applied to the architect and general manager of sacrificial solemnities,
 then to the director of theatrical performances.) By the 11th century,
@@ -1082,7 +1082,7 @@ drama?" "Profound exposition of the various passions," is the reply,
 "pleasing interchange of mutual affection, loftiness of character,
 delicate expression of desire, a surprising story and elegant language."
 "Then," says the manager (for the Indian dramatists, though not, like
-Ben Jonson, wont to "rail" the public "into approbation," are unaffected
+Ben [[Jonson]], wont to "rail" the public "into approbation," are unaffected
 by _mauvaise honte_), "I recollect one." And he proceeds to state that
 "Babhav[=u]ti has given us a drama composed by him, replete with all
 qualities, to which indeed this sentence is applicable: 'How little do
@@ -1093,7 +1093,7 @@ of popularity, springing from a consciousness of lofty aims, accounts
 for much that is characteristic of the higher class of Indian plays. It
 explains both their relative paucity and their extraordinary length,
 renders intelligible the chief peculiarity in their diction, and
-furnishes the key to their most striking ethical as well as literary
+furnishes the [[Key|key]] to their most striking ethical as well as literary
 qualities. Connected in their origin with religious worship, they were
 only performed on solemn occasions, chiefly of a public nature, and more
 especially at seasons sacred to some divinity. Thus, though they might
@@ -1154,7 +1154,7 @@ example remains.[2] Of the _bhana_, a monologue in one act, one literary
 example is extant--a curious picture of manners in which the speaker
 describes the different persons he meets at a spring festival in the
 streets of Kolahalapur.[3] The satire of the farcical _prahasanas_ is
-usually directed against the hypocrisy of ascetics and Brahmans, and the
+usually directed against the [[Hypocrisy|hypocrisy]] of ascetics and Brahmans, and the
 sensuality of the wealthy and powerful. These trifles represent the
 lower extreme of the dramatic scale, to which, of course, the principles
 that follow only partially apply.
@@ -1193,8 +1193,8 @@ to be occasionally broken. It is true that the mild humour of the
 _vid[=u]shaka_ is restricted to his "gesticulating eating" instead of
 perpetrating the obnoxious act.[6] The charming love-scene in the
 _S[=a]kuntal[=a]_ (at least in the earlier recension of the play) breaks
-off just as the hero is about to act the part of the bee to the honey of
-the heroine's lips.[7] But later writers are less squeamish, or less
+off just as the hero is about to act the part of the [[Bee|bee]] to the honey of
+the heroine's [[Lip|lips]].[7] But later writers are less squeamish, or less
 refined. In two dramas[8] the heroine is dragged on the stage by her
 braid of hair; and this outrage is in both instances the motive of the
 action. In a third,[9] sleeping and the marriage ceremony occur in the
@@ -1225,11 +1225,11 @@ benediction or prayer. Within this framework room is found for
 situations as ingeniously devised and highly wrought as those in any
 modern Western play. What could be more pitiful than the scene in
 _S[=a]kuntal[=a]_, where the true wife appears before her husband, whose
-remembrance of her is fatally overclouded by a charm; what more terrific
+remembrance of her is fatally overclouded by a [[Charm|charm]]; what more terrific
 than that in _M[=a]lat[=i] and M[=a]dhava_, where the lover rescues his
 beloved from the horrors of the charnel field? Recognition--especially
 between parents and children--frequently gives rise to scenes of a
-pathos which Euripides has not surpassed.[10] The ingenious device of a
+pathos which [[Euripides]] has not surpassed.[10] The ingenious device of a
 "play within the play" (so familiar to the English drama) is employed
 with the utmost success by Babhav[=u]ti.[11] On the other hand,
 miraculous metamorphosis[12] and, in a later play,[13] vulgar magic lend
@@ -1270,7 +1270,7 @@ _vit[=a]_, the accomplished but dependent companion (both of men and
 women), and the _vid[=u]shaka_, the humble associate (not servant) of
 the prince, and the buffoon of the action.[18] Strangely enough, he is
 always a Brahman, or the pupil of a Brahman--perhaps a survival from a
-purely popular phase of the drama. His humour is to be ever intent on
+purely popular phase of the drama. His humour is to be ever [[Intent|intent]] on
 the pleasures of a quiet life, and on that of eating in particular; his
 jokes are generally devoid of both harm and point.
 
@@ -1300,7 +1300,7 @@ and to the habits of the Indian people.
 The ministers of an art practised under such conditions could not but be
 regarded with respect, and spared the contempt or worse, which, except
 among one other great civilized people, the Greeks, has everywhere, at
-one period or another, been the actor's lot. Companies of actors seem to
+one period or another, been the actor's [[Lot|lot]]. Companies of actors seem to
 have been common in India at an early date, and the inductions show the
 players to have been regarded as respectable members of society. In
 later, if not in earlier, times individual actors enjoyed a widespread
@@ -1324,7 +1324,7 @@ phrase to call K[=a]lid[=a]sa the Indian Shakespeare--a title which,
 moreover, if intended as anything more than a synonym for poetic
 pre-eminence, might fairly be disputed in favour of Babhav[=u]ti; while
 it would be absolutely misleading to place a dramatic literature, which,
-like the Indian, is the mere quintessence of the culture of a caste, by
+like the Indian, is the mere quintessence of the culture of a [[Caste|caste]], by
 the side of one which represents the fullest development of the artistic
 consciousness of such a people as the Hellenes. The Indian drama cannot
 be described as national in the broadest and highest sense of the word;
@@ -1334,7 +1334,7 @@ characteristic, features of Hindu religion and civilization. The ethics
 of the Indian drama are of a lofty character, but they are those of a
 scholastic system of religious philosophy, self-conscious of its
 completeness. To the power of Fate is occasionally ascribed a supremacy,
-to which gods as well as mortals must bow;[22] but, if man's present
+to which gods as well as mortals must [[Bow|bow]];[22] but, if man's present
 life is merely a phase in the cycle of his destinies, the highest of
 moral efforts at the same time points to the summit of possibilities,
 and self-sacrifice is the supreme condition both of individual
@@ -1415,14 +1415,14 @@ plays of this period are called _Hi-Khio_, and presented what became a
 standing peculiarity of the Chinese drama, viz. that in them figures a
 principal personage _who sings_.
 
-The third and best-known age of the Chinese drama was under the Kin and
+The third and best-known age of the Chinese drama was under the [[Kin]] and
 Yuen dynasties, from 1125 to 1367. The plays of this period are called
 _Yuen-Pen_ and _Tsa-Ki_; the latter seem to have resembled the
 _Hi-Khio_, and to have treated very various subjects. The _Yuen-Pen_ are
 the plays from which our literary knowledge of the Chinese drama is
 mainly derived; the short pieces called _Yen-Kia_ were in the same
 style, but briefer. The list of dramatic authors under the Yuen dynasty,
-the most important period in Chinese literary annals, which covered the
+the most important period in Chinese literary [[Annals|annals]], which covered the
 years 1260 to 1368, is tolerably extensive, comprising 85, among whom
 four are designated as courtesans; the number of plays composed by these
 and by anonymous authors is reckoned at not less than 564. In 1735 the
@@ -1473,7 +1473,7 @@ it appear that the Chinese theatre has ever recovered from its decay.
 In theory, no drama could be more consistently elevated in purpose and
 in tone than the Chinese. Every play, we learn, should have both a moral
 and a meaning. A virtuous aim is imposed upon Chinese dramatists by an
-article of the penal code of the empire; and those who write immoral
+article of the penal [[Code|code]] of the empire; and those who write immoral
 plays are to expect after death a purgatory which will last so long as
 these plays continue to be performed. In practice, however, the Chinese
 drama falls far short of its ideal; indeed, according to the native
@@ -1493,7 +1493,7 @@ between tragedy and comedy; they classify their plays according to
 subjects in twelve categories. It may be doubted whether what seems the
 highest of these is actually such; for the religious element in the
 Chinese drama is often sheer buffoonery. Moreover, Chinese religious
-life, as reflected in the drama, seems one in which creed elbows creed,
+life, as reflected in the drama, seems one in which creed [[Elbow|elbows]] creed,
 and superstitions are welcome whatever their origin. Of all religious
 traditions and doctrines, however, those of Buddhism (which had reached
 China long before the known beginnings of its drama) are the most
@@ -1511,7 +1511,7 @@ one. By far the greater number, however, of the Chinese plays accessible
 in translations belong to the domestic species, and to that subspecies
 which may be called the criminal drama. Their favourite virtue is piety,
 of a formal[25] or a practical[26] kind to parents or parents-in-law;
-their favourite interest lies in the discovery of long-hidden guilt, and
+their favourite interest lies in the discovery of long-hidden [[Guilt|guilt]], and
 in the vindication of persecuted innocence.[27] In the choice and
 elaboration of such subjects they leave little to be desired by the most
 ardent devotees of the literature of agony. Besides this description of
@@ -1646,9 +1646,9 @@ of the emperor, when aware of the departure, but not of the death, of
 his beloved, sitting in solitude broken only by the ominous shriek of
 the wild-fowl.[50] Nor is the Chinese drama devoid of humour. The lively
 abigail who has to persuade her mistress into confessing herself in love
-by arguing (almost like Beatrice) that "humanity bids us love men";[51]
+by arguing (almost like [[Beatrice]]) that "humanity bids us love men";[51]
 the corrupt judge (a common type in the Chinese plays) who falls on his
-knees before the prosecuting parties to a suit as before "the father and
+[[Knee|knees]] before the prosecuting parties to a suit as before "the father and
 mother who give him sustenance,"[52] may serve as examples; and in
 _Pi-Pa-Ki_ there is a scene of admirable burlesque on the still more
 characteristic theme of the humours of a competitive examination.[53] If
@@ -1731,7 +1731,7 @@ realistic, and _hari-kari_ is performed, almost "to the life." Besides
 these tragic plays (in which, however, comic _intermezzos_ are often
 inserted) the Japanese have middle-class domestic dramas of a very
 realistic kind. The language of these, unlike that of Chinese comedy, is
-often gross and scurrilous, but intrigues against married women are
+often [[Gross|gross]] and scurrilous, but intrigues against married women are
 rigidly excluded. Fairy and demon operas and ballets, and farces and
 _intermezzos_, form an easy transition to the interludes of tumblers and
 jugglers. As a specimen of nearly every class of play is required to
@@ -1776,7 +1776,7 @@ sufficient for a wide variety of plot.
   Persian.
 
 Among other more highly civilized Asiatic peoples, the traces of the
-dramatic art are either few or late. The originally Aryan Persians
+dramatic art are either few or late. The originally [[Aryan]] Persians
 exhibit no trace of the drama in their ample earlier literature. But in
 its later national development the two species, widely different from
 one another, of the religious drama or mystery and of the popular comedy
@@ -1816,7 +1816,7 @@ the dialogue from the choric song of which it was originally only a
 secondary outgrowth, and by its gradually becoming the substance of the
 drama, so the _Miracle Play of Hasan and Hosain_, as we may call it, has
 now come to be a continuous succession of dramatic scenes. Of these
-fifty-two have, thanks to the labours of Alexander Chodzko and Sir Lewis
+fifty-two have, thanks to the labours of Alexander Chodzko and Sir [[Lewis]]
 Pelly, been actually taken down in writing, and thirty-seven published
 in translations; and it is clear that there is no limit to the extension
 of the treatment, as is shown by such a _téazié_ as the _Marriage of
@@ -1867,7 +1867,7 @@ Paris.
 There is no necessity for any reference here to the civilization or to
 the literature of the Hebrews, or to those of other Semitic peoples,
 with whom the drama is either entirely wanting, or only appears as a
-quite occasional and exotic growth. Dramatic elements are apparent in
+quite occasional and [[Exotic|exotic]] growth. Dramatic elements are apparent in
 two of the books of the Hebrew scripture--the _Book of Ruth_ and the
 _Book of Job_, of which latter the author of _Everyman_, and Goethe in
 his _Faust_, made so impressive a use.
@@ -1878,8 +1878,8 @@ his _Faust_, made so impressive a use.
 From Polynesia and aboriginal America we also have isolated traces of
 drama. Among these are the performances, accompanied by dancing and
 intermixed with recitation and singing, of the South Sea Islanders,
-first described by Captain Cook, and reintroduced to the notice of
-students of comparative mythology by W. Wyatt Gill. Of the so-called
+first described by Captain [[Cook]], and reintroduced to the notice of
+students of comparative mythology by W. Wyatt [[Gill]]. Of the so-called
 Inca drama of the Peruvians, the unique relic, _Apu Ollantay_, said to
 have been written down in the Quichua tongue from native dictation by
 Spanish priests shortly after the conquest of Peru, has been partly
@@ -1951,7 +1951,7 @@ conquering force assimilated to itself foreign elements, or with equal
 vivacity and variety developed its own. Thus, the worship of Dionysus,
 introduced into Greece by the Phoenicians as that of the tauriform
 sun-god whom his worshippers adored with loud cries (whence _Bacchus_ or
-_Iacchus_), and the god of generation (whence his _phallic_ emblem) and
+_Iacchus_), and the god of generation (whence his _phallic_ [[Emblem|emblem]]) and
 production, was brought into connexion with the Dorian religion of the
 sun-god Apollo. Apollo and his sister, again, corresponded to the
 Pelasgian and Achaean divinities of sun and moon, whom the Phoenician
@@ -1981,8 +1981,8 @@ separate statement as to the origin and history of either.
 The custom of offering thanks to the gods by hymns and dances in the
 places of public resort was first practised by the Greeks in the Dorian
 states, whose whole system of life was organized on a military basis.
-Hence the dances of the Dorians originally taught or imitated the
-movements of soldiers, and their hymns were warlike chants. Such were
+Hence the dances of the [[Dorians]] originally taught or imitated the
+movements of soldiers, and their hymns were warlike [[Chant|chants]]. Such were
 the beginnings of the _chorus_, and of its songs (called _paeans_, from
 an epithet of Apollo), accompanied first by the phorminx and then by the
 flute. A step in advance was taken when the poet with his trained
@@ -2001,7 +2001,7 @@ birth of Bacchus (the doubly-born) and possibly also his later
 adventures. The leader of the band (_coryphaeus_) may be supposed to
 have at times assumed the character of the wine-god, whose worshippers
 bore aloft the vineclad _thyrsus_. The dithyramb was reduced to a
-definite form by the Lesbian Arion (fl. 610), who composed regular
+definite form by the Lesbian [[Arion]] (fl. 610), who composed regular
 poems, turned the moving band of worshippers into a standing or "cyclic"
 chorus of attendants on Dionysus--a chorus of satyrs, a _tragic_ or goat
 chorus--invented a style of music adapted to the character of the
@@ -2012,7 +2012,7 @@ the inventor of "lyrical tragedy"--a transition stage between the
 dithyramb and the regular drama. His invention, or the chorus with which
 it dealt, was established according to fixed rules by his contemporary
 Stesichorus. About the time when Arion introduced these improvements
-into the Dorian city of Corinth, the (likewise Dorian) families at
+into the Dorian city of [[Corinth]], the (likewise Dorian) families at
 Sicyon honoured the hero-king Adrastus by tragic choruses. Hence the
 invention of tragedy was ascribed by the Sicyonians to their poet
 Epigenes; but this step, significant for the future history of the Greek
@@ -2054,7 +2054,7 @@ festival of Bacchus, whose worship had early entered Attica, and was
 cherished among its rustic population. Meanwhile the cyclic chorus of
 the Dorians had found its way into Attica and Athens, ever since the
 Athenians had recognized the authority of the great centre of the
-Apolline religion at Delphi. From the second half of the 6th century
+Apolline religion at [[Delphi]]. From the second half of the 6th century
 onwards the chorus of satyrs formed a leading feature of the great
 festival of Dionysus at Athens. It therefore only remained for the
 rhapsodic and the cyclic--in other words, for the epic and the
@@ -2075,7 +2075,7 @@ in other words, the leader of the chorus (_coryphaeus_), instead of
 addressing himself to the chorus, held converse with the actor. The
 chorus stood round its leader in front of the Bacchic altar
 (_thymel[=e]_); the actor stood with the _coryphaeus_, who had occupied
-a more elevated position in order to be visible above his fellows, on a
+a more elevated position in order to be visible above his [[Fellows|fellows]], on a
 rude table, or possibly on a cart, though the wagon of Thespis may be a
 fiction, due to a confusion between his table and the wagon of Susarion.
 In any case, we have here, with the beginnings of dialogue, the
@@ -2106,7 +2106,7 @@ obvious occasions for its exhibition. It is said to have been "invented"
 by Susarion, a native of Doric Megaris, whose inhabitants were famed for
 their coarse humour, which they communicated to their own and other
 Dorian colonies in Sicily, to this day the home of vivacious mimic
-dialogue. In the rural Bacchic vintage festivals bands of jolly
+dialogue. In the rural Bacchic vintage festivals bands of [[Jolly|jolly]]
 companions ([Greek: komos], properly a revel continued after supper)
 went about in carts or afoot, carrying the phallic emblem, and indulging
 in the ribald licence of wanton mirth. From the song sung in these
@@ -2171,7 +2171,7 @@ the progress of their art itself, there is an unbroken continuity.
 
   Aeschylus.
 
-Aeschylus (525-456) had not only fought both at Marathon and at Salamis
+Aeschylus (525-456) had not only fought both at [[Marathon]] and at Salamis
 against those Persians whose rout he celebrated with patriotic
 price,[56] but he had been trained in the Eleusinian mysteries, and
 strenuously asserted the value of the institution most intimately
@@ -2267,7 +2267,7 @@ tragedy written outside Athens. An exception should indeed be made in
 favour of the tyrant Dionysius of Syracuse, who (like Critias in his
 earlier days at Athens) was "addicted to" tragic composition. Not all
 the tragedians of this period, however, were Athenians born; though the
-names of Euphorion, the son of Aeschylus, Iophon, the son of Sophocles,
+names of Euphorion, the son of Aeschylus, [[Iophon]], the son of Sophocles,
 and Euripides and Sophocles, the nephew and the grandson respectively of
 their great namesakes, illustrate the descent of the tragic art as an
 hereditary family possession. Chaeremon (fl. 380) already exhibits
@@ -2292,7 +2292,7 @@ who still wrote in the style of the Attic masters and followed the rules
 observed by them. Tragedy and the dramatic art continued to be favoured
 by the later Ptolemies; and about 100 B.C. we meet with the curious
 phenomenon of a Jewish poet, Ezechiel, composing Greek tragedies, of one
-of which (the _Exodus_ from Egypt) fragments have come down to us.
+of which (the _[[Exodus]]_ from Egypt) fragments have come down to us.
 Tragedy, with the satyr-drama and comedy, survived in Alexandria beyond
 the days of Cicero and Varro; nor was their doom finally sealed till
 the emperor Caracalla abolished theatrical performances in the Egyptian
@@ -2411,7 +2411,7 @@ in his latest play.[68]
 The other distinctions to be drawn between the dramatic qualities of the
 three great tragic masters must be mainly based upon a critical estimate
 of the individual genius of each. In the characters of their tragedies,
-Aeschylus and Sophocles avoided those lapses of dignity with which from
+Aeschylus and Sophocles avoided those [[Lapse|lapses]] of dignity with which from
 one point of view Euripides has been charged by Aristophanes and other
 critics, but which, from another, connect themselves with his humanity.
 If his men and women are less heroic and statuesque, they are more like
@@ -2433,7 +2433,7 @@ no permanent favour.
 
 Finally, Aeschylus is said to have made certain reforms in tragic
 costume of which the object is self-evident--to have improved the mask,
-and to have invented the _cothurnus_ or buskin, upon which the actor was
+and to have invented the _cothurnus_ or [[Buskin|buskin]], upon which the actor was
 raised to loftier stature. Euripides was not afraid of rags and tatters;
 but the sarcasms of Aristophanes on this head seem feeble to those who
 are aware that they would apply to _King Lear_ as well as to _Telephus_.
@@ -2492,12 +2492,12 @@ the old rural festivals, the licence of word and gesture, and the
 audacious directness of personal invective. These characteristics are
 not features peculiar to Aristophanes. He was twitted by some of the
 older comic poets with having degenerated from the full freedom of the
-art by a tendency to refinement, and he took credit to himself for
+art by a tendency to refinement, and he took [[Credit|credit]] to himself for
 having superseded the time-honoured _cancan_ and the stale practical
 joking of his predecessors by a nobler kind of mirth. But in daring, as
 he likewise boasted, he had no peer; and the shafts of his wit, though
 dipped in wine-lees and at times feathered from very obscene fowl, flew
-at high game.[71] He has been accused of seeking to degrade what he
+at high [[Game|game]].[71] He has been accused of seeking to degrade what he
 ought to have recognized as good[72]; and it has been shown with
 complete success that he is not to be taken as an impartial or accurate
 authority on Athenian history. But partisan as he was, he was also a
@@ -2656,7 +2656,7 @@ The religious character of dramatic performances at Athens, and the
 circumstances under which they accordingly took place, likewise
 determined their externals of costume and scenery. The actor's dress was
 originally the festive Dionysian attire, of which it always retained the
-gay and variegated hues. The use of the mask, surmounted, high over the
+gay and variegated [[Hue|hues]]. The use of the mask, surmounted, high over the
 forehead, by an ample wig, was due to the actor's appearing in the open
 air and at a distance from most of the spectators; the several species
 of mask were elaborated with great care, and adapted to the different
@@ -2774,7 +2774,7 @@ to have been a dramatic element; they were probably comic songs or
 stories recited with gesticulation and the invariable flute
 accompaniment. Introduced into the city, these entertainments received a
 new impulse from the performances of the Etruscan players (_ludiones_)
-who had been brought into Rome when scenic games (_ludi scenici_) were
+who had been brought into Rome when scenic [[Games|games]] (_ludi scenici_) were
 introduced there in 364 B.C. for purposes of religious propitiation.
 These _(h)istriones_, as they were called at Rome (_istri_ had been
 their native name), who have had the privilege of transmitting their
@@ -2802,7 +2802,7 @@ original grossness to its treatment of mythological subjects, with
 which it dealt in accordance with the demands of a "lubrique and
 adulterate age." As a matter of course, the _mimus_ freely borrowed from
 other species, among which, so far as they were of native Italian
-origin, the _Atellane fables_ (from Atella in Campania) call for special
+origin, the _Atellane fables_ (from [[Atella]] in [[Campania]]) call for special
 mention. Very probably of Oscan origin, they began with delineations of
 the life of small towns, in which dramatic and other satire has never
 ceased to find a favourite subject. The principal personages in these
@@ -2817,7 +2817,7 @@ drama. In these characters lay the essence of the _Atellanae_: their
 plots were extremely simple; the dialogue (perhaps interspersed with
 songs in the Saturnian metre) was left to the performers to improvise.
 In course of time these plays assumed a literary form, being elaborated
-as after-pieces by Lucius Pomponius of Bononia, Novius and other
+as after-pieces by [[Lucius]] Pomponius of [[Bononia]], Novius and other
 authors; but under the Empire they were gradually absorbed in the
 pantomimes.
 
@@ -2863,7 +2863,7 @@ family (the Metelli) incapable of understanding a joke of this
 description, might perhaps under more favourable circumstances have led
 him more fully to develop a new tragic species invented by him. But the
 _fabula praetexta_ or _praetextata_ (from the purple-bordered robe worn
-by higher magistrates) was not destined to become the means of
+by higher [[Magistrate|magistrates]]) was not destined to become the means of
 emancipating the Roman serious drama from the control of Greek examples.
 In design, it was national tragedy on historic subjects of patriotic
 interest--which the Greeks had treated only in isolated instances; and
@@ -2881,7 +2881,7 @@ history; if Augustus prohibited the publication of a tragedy by his
 adoptive father on the subject of _Oedipus_, it was improbable that he
 or his successors should have sanctioned the performance of plays
 dealing with the earthly fortunes of Divus Julius himself, or with the
-story of Marius, or that of the Gracchi, or any of the other tragic
+story of [[Marius]], or that of the Gracchi, or any of the other tragic
 themes of later republican or imperial history. The historic drama at
 Rome thus had no opportunity for a vigorous life, even could tragedy
 have severed its main course from the Greek literature of which it has
@@ -3002,7 +3002,7 @@ dialogue rather than in his plots. Modern comedy is indebted to him in
 all these points; and, in consequence of this fact, as well as of the
 attention his text has for linguistic reasons received from scholarship
 both ancient and modern, his merits have met with quite their full share
-of recognition. Caecilius Statius (an Insubrian brought to Rome as a
+of recognition. [[Caecilius Statius]] (an Insubrian brought to Rome as a
 captive c. 200) stands midway between Plautus and Terence, but no plays
 of his remain. P. Terentius Afer (c. 185-159) was, as his cognomen
 implies, a native of Carthage, of whose conqueror he enjoyed the
@@ -3028,7 +3028,7 @@ altered by the process called _contamination_.
 The _togatae_, in the wider sense of the term, included all Roman plays
 of native origin--among the rest, the _praetextae_, in contradistinction
 to which and to the transient species of the _trabeatae_ (from the dress
-of the knights) the comedies dealing with the life of the lower classes
+of the [[Knight|knights]]) the comedies dealing with the life of the lower classes
 were afterwards called _tabernariae_ (from _taberna_, a shop), a name
 suited by some of their extant titles,[84] while others point to the
 treatment of provincial scenes.[85] The _togata_, which was necessarily
@@ -3053,7 +3053,7 @@ end of the Roman drama was spectacle and show, buffoonery and sensual
 allurement. It was for this that the theatre had passed through all its
 early troubles, when the political puritanism of the old school had
 upheld the martial games of the circus against the enervating influence
-of the stage. In those days the guardians of Roman virtue had sought to
+of the stage. In those days the [[Guardian|guardians]] of Roman virtue had sought to
 diminish the attractions of the theatre by insisting upon its remaining
 as uncomfortable as possible; but as was usual at Rome, the privileges
 of the upper orders were at last extended to the population at large,
@@ -3077,7 +3077,7 @@ for the art, mostly natives of southern Italy or Greece. Many of them
 rose to reputation and wealth, purchased their freedom, and themselves
 became directors of companies; but, though Sulla might make a knight of
 Roscius, and Caesar and his friends defy ancient prejudice, the stigma
-of civil disability (_infamia_) was not removed from the profession,
+of civil [[Disability|disability]] (_infamia_) was not removed from the profession,
 which in the great days of the Attic drama had been held in honour at
 Athens. But, on the whole, the social treatment of actors was easy in
 the days of the early empire; senators and knights actually appeared on
@@ -3120,7 +3120,7 @@ itself on Greek example and precept, it was doubtless elaborated with a
 care unknown to the greatest Attic artists. Its most famous
 representatives were Gallus, called after his emancipation Q. Roscius
 Gallus (d. c. 62 B.C.), who, like the great "English Roscius," excelled
-equally in tragedy and comedy, and his younger contemporary Clodius
+equally in tragedy and comedy, and his younger contemporary [[Clodius]]
 Aesopus, a Greek by birth, likewise eminent in both branches of his art,
 though in tragedy more particularly. Both these great actors are said to
 have been constant hearers of the great orator Hortensius; and Roscius
@@ -3151,7 +3151,7 @@ entertainments that even eminent poets, such as Lucan (d. A.D. 65),
 wrote the librettos for these _fabulae salticae_ (ballets), of which the
 subjects were generally mythological, only now and then historical, and
 chiefly of an amorous kind. A single masked performer was able to
-enchant admiring crowds by the art of gesticulation and movement only.
+enchant admiring [[Crowd|crowds]] by the art of gesticulation and movement only.
 In what direction this art tended, when suiting itself to the most
 abnormal demands of a recklessly sensual age, may be gathered from the
 remark of one of the last pagan historians of the empire, that the
@@ -3199,13 +3199,13 @@ Constantine--had found themselves constrained to prohibit in the
 interests of public morality and order, by the bloody spectacles of the
 amphitheatre and by the maddening excitement of the circus. The art of
 acting had sunk into pandering to the lewd or frivolous itch of eye and
-ear; its professors had, in the words of a most judicious modern
+[[Ear|ear]]; its professors had, in the words of a most judicious modern
 historian, become "a danger to the peace of householders, as well as to
 the peace of the streets"; and the theatre had contributed its utmost to
 the demoralization of a world. The attitude taken up by the Christian
 Church towards the stage was in general as unavoidable as its particular
 expressions were at times heated by fanaticism or distorted by
-ignorance. Had she not visited with her condemnation a wilderness of
+[[Ignorance|ignorance]]. Had she not visited with her condemnation a wilderness of
 decay, she could not herself have become--what she little dreamt of
 becoming--the nursing mother of the new birth of an art which seemed
 incapable of regeneration.
@@ -3289,7 +3289,7 @@ FOOTNOTES:
 
   [26] _Pi-Pa-Ki_.
 
-  [27] _The Circle of Chalk_ (_Hoeï-Lan-Ki_); _The Tunic Matched_; _The
+  [27] _The Circle of Chalk_ (_[[Hoe]]ï-Lan-Ki_); _The Tunic Matched_; _The
     Revenge of Teou-Ngo_.
 
   [28] _Tchao-Meï-Hiang_ (_The Intrigues of a Chambermaid_).
@@ -3385,7 +3385,7 @@ FOOTNOTES:
     _Menedemus_) as a vehicle of personal ridicule applied it to a
     purpose resembling that of Old Attic Comedy.
 
-  [67] _Ion_; _Supplices_; _Iphigenia in Tauris_; _Electra_; _Helena_;
+  [67] _Ion_; _Supplices_; _Iphigenia in Tauris_; _[[Electra]]_; _Helena_;
     _Hippolytus_; _Andromache_.
 
   [68] _Philoctetes_.

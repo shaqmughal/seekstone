@@ -7,14 +7,14 @@ topic: philosophers-studies
 # Church Congress
 
 CHURCH CONGRESS, an annual meeting of members of the Church of England,
-lay and clerical, to discuss matters religious, moral or social, in
+lay and clerical, to [[Discus|discuss]] matters religious, moral or social, in
 which the church is interested. It has no legislative authority, and
 there is no voting on the questions discussed. The first congress was
 held in 1861 in the hall of King's College, Cambridge, and was the
-outcome of the revival of convocation in 1852. The congress is under the
+outcome of the revival of [[Convocation|convocation]] in 1852. The congress is under the
 presidency of the bishop in whose diocese it happens to be held. Recent
-places of meeting are Brighton (1901), Northampton (1902), Bristol
-(1903), Liverpool (1904), Weymouth (1905), Barrow-in-Furness (1906),
+places of meeting are Brighton (1901), Northampton (1902), [[Bristol]]
+(1903), [[Liverpool]] (1904), Weymouth (1905), Barrow-in-Furness (1906),
 Great Yarmouth (1907), Manchester (1908), Swansea (1909). The meetings
 of the congress have been mainly remarkable as illustrating the wide
 divergences of opinion and practice in the Church of England, no less
@@ -36,20 +36,20 @@ CHURCH HISTORY.
 
 The sketch given below of the evolution of the Christian Church (see
 CHURCH) may well be prefaced by a summary of the history of the great
-Church historians, concerning whom fuller details are given in separate
-articles. Hegesippus wrote in the 2nd century a collection of memoirs
+Church historians, concerning whom [[Fuller|fuller]] details are given in separate
+articles. [[Hegesippus]] wrote in the 2nd century a collection of memoirs
 containing accounts of the early days of the church, only fragments of
-which are extant. The first real church history was written by Eusebius
+which are extant. The first real church history was written by [[Eusebius]]
 of Caesarea in the early part of the 4th century. His work was continued
 in the 5th century by Philostorgius, Socrates, Sozomen and Theodoret,
-and in later centuries by Theodorus Lector, Evagrius, Theophanes and
+and in later centuries by Theodorus [[Lector]], [[Evagrius]], Theophanes and
 others. In the 14th century Nicephorus Callisti undertook a complete
 church history which covers in its extant form the first six centuries.
 In the West Eusebius' _History_ was translated into Latin by Rufinus,
 and continued down to the end of the 4th century. Augustine's _City of
 God_, published in 426, was an apologetic, not an historical work, but
 it had great influence in our field, for in it he undertook to answer
-the common heathen accusation that the growing misfortunes of the empire
+the common [[Heathen|heathen]] accusation that the growing misfortunes of the empire
 were due to the prevalence of Christianity and the forsaking of the gods
 of Rome. It was to sustain Augustine's thesis that Orosius produced in
 417 his _Historiarum libri septem_, which remained the standard
@@ -61,39 +61,39 @@ into one continuous narrative and brought down to 518. The work was
 known as the _Historia Ecclesiastica Tripartita_, and constituted during
 the middle ages the principal text-book of church history in the West.
 Before writing his history Eusebius produced a world chronicle which was
-based upon a similar work by Julius Africanus and is now extant only in
+based upon a similar work by [[Julius]] Africanus and is now extant only in
 part. It was continued by Jerome, and became the basis of the model for
 many similar works of the 5th and following centuries by Prosper,
 Idatius, Marcellinus Comes, Victor Tununensis and others. Local
 histories containing more or less ecclesiastical material were written
 in the 6th and following centuries by Jordanes (_History of the Goths_),
-Gregory of Tours (_History of the Franks_), Isidore of Seville (_History
-of the Goths, Vandals and Suevi_), Bede (_Ecclesiastical History of
-England_), Paulus Diaconus (_History of the Lombards_), and others. Of
+Gregory of Tours (_History of the [[Franks]]_), [[Isidore Of Seville|Isidore of Seville]] (_History
+of the Goths, Vandals and Suevi_), [[Bede]] (_Ecclesiastical History of
+England_), Paulus Diaconus (_History of the [[Lombards]]_), and others. Of
 the many historians of the middle ages, besides the authors of
-biographies, chronicles, cloister annals, &c, may be mentioned Haymo,
-Anastasius, Adam of Bremen, Ordericus Vitalis, Honorius of Autun, Otto
+biographies, chronicles, cloister [[Annals|annals]], &c, may be mentioned Haymo,
+Anastasius, Adam of Bremen, Ordericus Vitalis, [[Honorius]] of [[Autun]], Otto
 of Freising, Vincent of Beauvais and Antoninus of Florence.
 
 The Protestant reformation resulted in a new development of historical
 writing. Polemic interest led a number of Lutheran scholars of the 16th
-century to publish the _Magdeburg Centuries_ (1559 ff.), in which they
+century to publish the _[[Magdeburg]] Centuries_ (1559 ff.), in which they
 undertook to show the primitive character of the Protestant faith in
 contrast with the alleged corruptions of Roman Catholicism. In this
 design they were followed by many other writers. The opposite thesis was
-maintained by Baronius (_Annales Ecclesiastici_, 1588 ff.), whose work
+maintained by [[Baronius]] (_Annales Ecclesiastici_, 1588 ff.), whose work
 was continued by a number of Roman Catholic scholars. Other notable
 Roman Catholic historians of the 17th and 18th centuries were Natalis
-Alexander, Bossuet, Tillemont, Fleury, Dupin and Ceillier.
+Alexander, [[Bossuet]], Tillemont, [[Fleury]], Dupin and Ceillier.
 
 Church history began to be written in a genuinely scientific spirit only
 in the 18th century under the leadership of Mosheim, who is commonly
 called the father of modern church history. With wide learning and keen
 critical insight he wrote a number of historical works of which the most
 important is his _Institutiones Hist. Eccles._ (1755; best English
-trans. by Murdock). He was followed by many disciples, among them
+trans. by Murdock). He was followed by many [[Disciple|disciples]], among them
 Schroeckh (_Christliche Kirchengeschichte_, 1772 ff. in 45 vols.). Other
-notable names of the 18th century are Semler, Spittler, Henke and
+notable names of the 18th century are Semler, Spittler, [[Henke]] and
 Planck.
 
 The new historical spirit of the 19th century did much for church
@@ -105,7 +105,7 @@ sources; Neander (_Allgemeine Geschichte der christlichen Religion und
 Kirche_, 1825 ff., Eng. tr. by Torrey), who wrote in a sympathetic
 spirit and with special stress upon the religious side of the subject,
 and has been followed by many disciples, for instance, Hagenbach, Schaff
-and Herzog; and Baur (_Das Christenthum und die christliche Kirche_,
+and [[Herzog]]; and Baur (_Das Christenthum und die christliche Kirche_,
 1853 ff.), the most brilliant of all, whose many historical works were
 dominated by the principles of the Hegelian philosophy and evinced both
 the merits and defects of that school. Baur has had tremendous
@@ -123,7 +123,7 @@ works the most important are the _Kirchengeschichte_ of Carl Müller
 Schuberth, 1898 ff., greatly enlarged and improved), the translation of
 the latter (1892 ff.) being the most useful text-book in English. Of
 modern Roman Catholic works may be mentioned those by J.A. Möhler, T.B.
-Alzog, F.X. Kraus, Cardinal Joseph von Hergenröther and C.J. von Hefele
+Alzog, F.X. Kraus, Cardinal Joseph von Hergenröther and C.J. von [[Hefele]]
 (edited by Knöpfler.)
 
 In addition to these general works on church history should be named the
@@ -164,7 +164,7 @@ and religious metropolis of Judaism. In Jerusalem the new movement had
 its centre, and the church established there is rightly known as the
 mother church of Christendom. The life of the early Jewish disciples, so
 far as we are able to judge from our meagre sources, was very much the
-same as that of their fellows. They continued faithful to the
+same as that of their [[Fellows|fellows]]. They continued faithful to the
 established synagogue and temple worship (cf. Acts iii. 1), and did not
 think of founding a new sect, or of separating from the household of
 Israel (cf. Acts x. 14, xv. 5, xxi. 21 sq.). There is no evidence that
@@ -176,23 +176,23 @@ their consequent assurance of the speedy establishment by him of the
 Messianic kingdom, they stood alone. The first need of the hour,
 therefore, was to show that Jesus was the promised Messiah in spite of
 his crucifixion, a need that was met chiefly by testimony to the
-resurrection, which became the burden of the message of the early
+resurrection, which became the [[Burden|burden]] of the message of the early
 disciples to their fellow-countrymen (cf. Acts ii. 24 ff., iii. 15 ff.,
 v. 31). It was this need which led also to the development of Messianic
 prophecy and the ultimate interpretation of the Jewish Bible as a
 Christian book (see BIBLE). The second need of the hour was to bring the
 nation to repentance and righteousness in order that the kingdom might
-come (cf. Acts iii. 19). The specific gospel of Jesus, the gospel of
+come (cf. Acts iii. 19). The specific [[Gospel|gospel]] of Jesus, the gospel of
 divine fatherhood and human brotherhood, received no attention in the
 earliest days, so far as our sources enable us to judge.
 
 Meanwhile the new movement spread quite naturally beyond the confines of
 Palestine and found adherents among the Jews of the dispersion, and at
-an early day among the Gentiles as well. Many of the latter had already
+an early day among the [[Gentile|Gentiles]] as well. Many of the latter had already
 come under the influence of Judaism, and were more or less completely in
 sympathy with Jewish religious principles. Among the Christians who did
-most to spread the gospel in the Gentile world was the apostle Paul,
-whose conversion was the greatest event in the history of the early
+most to spread the gospel in the Gentile world was the [[Apostle|apostle]] Paul,
+whose [[Conversion|conversion]] was the greatest event in the history of the early
 Church. In his hands Christianity became a new religion, fitted to meet
 the needs of all the world, and freed entirely of the local and national
 meaning which had hitherto attached to it. According to the early
@@ -215,7 +215,7 @@ thus did away with the fundamental distinction between Jews and
 Gentiles. The transformed spiritual life of the believer expresses
 itself not in the observance of the Jewish law, but in love, purity and
 peace. This precipitated a very serious conflict, of which we learn
-something from the Epistle to the Galatians and the Book of Acts (xv.
+something from the [[Epistle]] to the Galatians and the Book of Acts (xv.
 and xxii.). Other fundamental principles of Paul's failed of
 comprehension and acceptance, but the belief finally prevailed that the
 observance of Jewish law and custom was unnecessary, and that in the
@@ -229,13 +229,13 @@ and finally became permanently established in the Roman world. The
 appeal which it made to that world was many-sided. It was a time of
 moral reformation, when men were awaking to the need of better and purer
 living. To all who felt this need Christianity offered high moral
-ideals, and a tremendous moral enthusiasm, in its devotion to a beloved
+ideals, and a tremendous moral [[Enthusiasm|enthusiasm]], in its devotion to a beloved
 leader, in its emphasis upon the ethical possibilities of the meanest,
 and in its faith in a future life of blessedness for the righteous. It
 was a time of great religious interest, when old cults were being
 revived and new ones were finding acceptance on all sides. Christianity,
 with its one God, and its promise of redemption and a blessed
-immortality based upon divine revelation, met as no other contemporary
+[[Immortality|immortality]] based upon divine revelation, met as no other contemporary
 faith did the awakening religious needs. It was a time also of great
 social unrest. With its principle of Christian brotherhood, its emphasis
 upon the equality of all believers in the sight of God, and its
@@ -261,7 +261,7 @@ of a society existing in all quarters of the empire, every part
 conscious of its oneness with the larger whole and all compactly
 organized to do the common work. The growth of the Church during the
 earlier centuries was chiefly in the middle and lower classes, but it
-was not solely there. No large number of the aristocracy were reached,
+was not solely there. No large number of the [[Aristocracy|aristocracy]] were reached,
 but in learned and philosophical circles many were won, attracted both
 by Christianity's evident ethical power and by its philosophical
 character (cf. the Apologists of the 2nd century). That it could seem at
@@ -275,7 +275,7 @@ generations, and governmental repression they had to suffer
 occasionally, as a result of popular disturbances. No systematic effort
 was made by the imperial authorities to put an end to the movement until
 the reign of Decius (250-251), whose policy of suppression was followed
-by Diocletian (303 ff.) and continued for some years after his
+by [[Diocletian]] (303 ff.) and continued for some years after his
 abdication. In spite of all opposition the Church steadily grew, until
 in 311 the emperor Galerius upon his death-bed granted toleration (see
 Eusebius _H.E._ x.4, and Lactantius, _De mortibus persecutorum_, 34),
@@ -295,13 +295,13 @@ supremacy, the Church received growing support, until, under Theodosius
 the Great (379-395), orthodox Christianity, which stood upon the
 platform adopted at Nicaea in 325, was finally established as the sole
 official religion of the state, and heathen worship was put under the
-ban. The union between Church and State thus constituted continued
+[[Ban|ban]]. The union between Church and State thus constituted continued
 unbroken in the East throughout the middle ages. The division of the
 Empire resulted finally in the division of the Church, which was
 practically complete by the end of the 6th century, but was made
 official and final only in 1054, and the Eastern and Western halves, the
 Greek Catholic and the Roman Catholic Churches, went each its separate
-way. (See Theodosian Code, book 16, for the various imperial edicts
+way. (See Theodosian [[Code]], book 16, for the various imperial edicts
 relating to the Church, and for fuller particulars touching the relation
 between Church and Empire see the articles CONSTANTINE; GRATIAN;
 THEODOSIUS; JUSTINIAN.)
@@ -312,17 +312,17 @@ districts, and in some parts of the world had more adherents than
 Christianity, but at length the latter became, at any rate nominally,
 the faith of the whole Roman world. Meanwhile already before the
 beginning of the 3rd century it went beyond the confines of the Empire
-in Asia, and by the end of our period was strong in Armenia, Persia,
+in Asia, and by the end of our period was strong in [[Armenia]], Persia,
 Arabia and even farther east. It reached the barbarians on the northern
-and western borders at an early day, and the Goths were already
+and western [[Borders|borders]] at an early day, and the Goths were already
 Christians of the Arian type before the great migrations of the 4th
 century began. Other barbarians became Christian, some in their own
 homes beyond the confines of the Empire, some within the Empire itself,
-so that when the hegemony of the West passed from the Romans to the
+so that when the [[Hegemony|hegemony]] of the West passed from the Romans to the
 barbarians the Church lived on. Thenceforth for centuries it was not
 only the chief religious, but also the chief civilizing, force at work
 in the Occident. Losing with the dissolution of the Western Empire its
-position as the state church, it became itself a new empire, the heir of
+position as the state church, it became itself a new empire, the [[Heir|heir]] of
 the glory and dignity of Rome, and the greatest influence making for the
 peace and unity of the western world.
 
@@ -330,8 +330,8 @@ peace and unity of the western world.
 early Christians was their vivid sense of being a people of God, called
 and set apart. The Christian Church in their thought was a divine, not a
 human, institution. It was founded and controlled by God, and even the
-world was created for its sake (cf. the _Shepherd of Hermas_, Vis. ii.
-4, and 2 Clement 14). This conception, which came over from Judaism,
+world was created for its sake (cf. the _Shepherd of [[Hermas]]_, Vis. ii.
+4, and 2 [[Clement]] 14). This conception, which came over from Judaism,
 controlled all the life of the early Christians both individual and
 social. They regarded themselves as separate from the rest of the world
 and bound together by peculiar ties. Their citizenship was in heaven,
@@ -350,13 +350,13 @@ expression in the Jewish notion of the presence and power of the Holy
 Spirit. It was believed among the Jews that the Messianic age would be
 the age of the Spirit in a marked degree, and this belief passed over
 into the Christian Church and controlled its thought and life for some
-generations. The Holy Spirit was supposed to be manifest in various
+generations. The Holy Spirit was supposed to be [[Manifest|manifest]] in various
 striking ways, in prophecy, speaking with tongues and miracle working.
 In this idea Paul also shared, but he carried the matter farther than
 most of his contemporaries and saw in the Spirit the abiding power and
 ground of the Christian life. Not simply in extraordinary phenomena, but
 also in the everyday life of Christians, the Holy Spirit was present,
-and all the Christian graces were the fruits (cf. Gal. v. 22). A result
+and all the Christian [[Graces|graces]] were the fruits (cf. Gal. v. 22). A result
 of this belief was to give their lives a peculiarly enthusiastic or
 inspirational character. Theirs were not the everyday experiences of
 ordinary men, but of men lifted out of themselves and transported into a
@@ -406,7 +406,7 @@ manifestation of this was clerical celibacy, which had become widespread
 already in the 4th century. Among the laity, on the other hand, the
 ideal of holiness found realization in the observance of the ordinary
 principles of morality recognized by the world at large, in attendance
-upon the means of grace provided by the Church, in fasting at stated
+upon the means of [[Grace|grace]] provided by the Church, in [[Fasting|fasting]] at stated
 intervals, in eschewing various popular employments and amusements, and
 in almsgiving and prayer. Christ's principle of love was widely
 interpreted to mean chiefly love for the Christian brotherhood, and
@@ -422,7 +422,7 @@ circle attractive.
 Spirit affected the religious services of the Church. They were regarded
 in early days as occasions for the free exercise of spiritual gifts. As
 a consequence the completest liberty was accorded to all Christians to
-take such part as they chose, it being assumed that they did so only
+take such part as they [[Chose|chose]], it being assumed that they did so only
 under the Spirit's prompting. But the result of this freedom was
 confusion and discord, as is indicated by Paul's First Epistle to the
 Corinthians (see chapters xi., xiv.). This led to the erection of
@@ -438,7 +438,7 @@ be said that the general tendency was on the one hand toward the
 elaboration and growing magnificence of the services, especially after
 the Church had become a state institution and had taken the place of the
 older pagan cults, and on the other hand toward the increasing solemnity
-and mystery of certain parts, particularly the eucharist, the sacred
+and mystery of certain parts, particularly the [[Eucharist|eucharist]], the sacred
 character of which was such as to make it sacrilegious to admit to it
 the unholy, that is, outsiders or Christians under discipline (cf.
 _Didach[=e]_, ix.). It was, in fact, from the Lord's table that
@@ -476,14 +476,14 @@ the all-important thing.
 4. _The Church and the Sacraments._--According to Paul, man is flesh and
 so subject to death. Only as he becomes a spiritual being through
 mystical union with Christ can he escape death and enjoy eternal life in
-the spiritual realm. In the Epistle to the Ephesians the Christian
+the spiritual realm. In the Epistle to the [[Ephesians]] the Christian
 Church is spoken of as the body of Christ (iv. 12 ff., v. 30); and
-Ignatius, bishop of Antioch, early in the 2nd century, combined the two
+[[Ignatius]], bishop of Antioch, early in the 2nd century, combined the two
 ideas of union with Christ, as the necessary condition of salvation, and
 of the Church as the body of Christ, teaching that no one could be saved
 unless he were a member of the Church (cf. his Epistle to the Ephesians
 4, 5, 15; Trall. 7; Phil. 3, 8; Smyr. 8; Magn. 2, 7). Traces of the same
-idea are found in Irenaeus (cf. _Adv. Haer._ iii. 24, 1, iv. 26, 2), but
+idea are found in [[Irenaeus]] (cf. _Adv. Haer._ iii. 24, 1, iv. 26, 2), but
 it is first clearly set forth by Cyprian, and receives from him its
 classical expression in the famous sentence "Salus extra ecclesiam non
 est" (Ep. 73, 21; cf. also Ep. 4, 4; 74, 7; and _De unitate ecclesiae_,
@@ -536,11 +536,11 @@ means by which the corrupt and mortal nature of man is transformed, so
 that he becomes a spiritual and holy being. The latter tendency appeared
 first in Paul, afterwards in the Gospel and First Epistle of John, in
 Ignatius of Antioch and in the Gnostics. The former found expression in
-most of our New Testament writings, in all of the apostolic fathers
+most of our New Testament writings, in all of the [[Apostolic Fathers|apostolic fathers]]
 except Ignatius, and in the Apologists of the 2nd century. The two
 tendencies were not always mutually exclusive, but the one or the other
 was predominant in every case. Towards the end of the 2nd century they
-were combined by Irenaeus, bishop of Lyons. To him salvation bears a
+were combined by Irenaeus, bishop of [[Lyons]]. To him salvation bears a
 double aspect, involving both release from the control of the devil and
 the transformation of man's nature by the indwelling of the Divine. Only
 he is saved who on the one hand is forgiven at baptism and so released
@@ -580,7 +580,7 @@ Father and Son in the baptismal formula and in the current symbols, and
 so the victory of the Nicene Christology meant the recognition of the
 doctrine of the Trinity as a part of the orthodox faith (see especially
 the writings of the Cappadocian fathers of the late 4th century, Gregory
-of Nyssa, Basil and Gregory Nazianzen).
+of Nyssa, [[Basil]] and Gregory Nazianzen).
 
 The assertion of the deity of the Son incarnate in Christ raised another
 problem which constituted the subject of dispute in the Christological
@@ -709,7 +709,7 @@ referred to, but also the still higher function of instructing their
 fellow-Christians in God's will and truth, and so they became the
 substitutes of the apostles, prophets and teachers in all respects (cf.
 1 Tim. iii. 2, v. 17; Titus i. 9; _Did._ 15; 1 Clement 44; Justin's
-first _Apology_, 67).
+first _[[Apology]]_, 67).
 
 Whether in the earliest days there was a single officer at the head of a
 congregation, or a plurality of officers of equal authority, it is
@@ -735,16 +735,16 @@ assistants in the management of the finances and charities and in the
 conduct of the services. (Upon the minor orders which arose in the 3rd
 and following centuries, and became ultimately a training school for the
 higher clergy, see Harnack, _Texte und Untersuchungen_, ii. 5; English
-translation under the title of _Sources of the Apostolic Canons_, 1895.)
+translation under the title of _Sources of the [[Apostolic Canons]]_, 1895.)
 
-Meanwhile the rise and rapid spread of Gnosticism produced a great
+Meanwhile the rise and rapid spread of [[Gnosticism]] produced a great
 crisis in the Church of the 2nd century, and profoundly affected the
 ecclesiastical organization. The views of the Gnostics, and of Marcion
 as well, seemed to the majority of Christians destructive of the gospel,
 and it was widely felt that they were too dangerous to be tolerated. The
 original dependence upon the Spirit for light and guidance was
 inadequate. The men in question claimed to be Christians and to enjoy
-divine illumination as truly as anybody, and so other safeguards
+divine [[Illumination|illumination]] as truly as anybody, and so other safeguards
 appeared necessary. It was in the effort to find such safeguards that
 steps were taken which finally resulted in the institution known as the
 Catholic Church. The first of these steps was the recognition of the
@@ -764,13 +764,13 @@ apostolic origin and authority were not everywhere admitted. In view of
 this difficulty, it was claimed that the apostles had appointed the
 bishops as their successors, and that the latter were in possession of
 special divine grace enabling them to transmit and to interpret without
-error the teaching of the apostles committed to them. This is the famous
+[[Error|error]] the teaching of the apostles committed to them. This is the famous
 theory known as "apostolic succession." The idea of the apostolic
 appointment of church officers is as old as Clement of Rome (see 1
 Clement 44), but the use of the theory to guarantee the apostolic
 character of episcopal teaching was due to the exigencies of the Gnostic
 conflict. Irenaeus (_Adv. Haer._ iii. 3 ff., iv. 26, iv. 33, v. 20),
-Tertullian (_De prescriptione_, 32), and Hippolytus (_Philosophumena_,
+Tertullian (_De prescriptione_, 32), and [[Hippolytus]] (_Philosophumena_,
 bk. i., preface) are our earliest witnesses to it, and Cyprian sets it
 forth clearly in his epistles (e.g. Ep. 33, 43, 59, 66, 69). The Church
 was thus in possession not only of authoritative apostolic doctrine, but
@@ -781,7 +781,7 @@ Church and the clergy. Saving grace is recognized as apostolic grace,
 and the bishops as successors of the apostles become its sole
 transmitters. Bishops are therefore necessary to the very being of the
 Church, which without them is without the saving grace for the giving of
-which the Church exists (cf. Cyprian, _Ep._ 33, "ecclesia super
+which the Church exists (cf. Cyprian, _Ep._ 33, "[[Ecclesia|ecclesia]] super
 episcopos constituitur"; 66, "ecclesia in episcopo"; also _Ep._ 59, and
 _De unitate eccles._ 17).
 
@@ -789,13 +789,13 @@ These bishops were originally not diocesan but congregational, that is,
 each church, however small, had its own bishop. This is the organization
 testified to by Ignatius, and Cyprian's insistence upon the bishop as
 necessary to the very existence of the Church seems to imply the same
-thing. Congregational episcopacy was the rule for a number of
+thing. Congregational [[Episcopacy|episcopacy]] was the rule for a number of
 generations. But after the middle of the 3rd century diocesan episcopacy
 began to make its appearance here and there, and became common in the
 4th century under the influence of the general tendency toward
 centralization, the increasing power of city bishops, and the growing
 dignity of the episcopate (cf. canon 6 of the council of Sardica, and
-canon 57 of the council of Laodicea; and see Harnack, _Mission und
+canon 57 of the council of [[Laodicea]]; and see Harnack, _Mission und
 Ausbreitung_, pp. 319 seq.). This enlargement of the bishop's parish and
 multiplication of the churches under his care led to a change in the
 functions of the presbyterate. So long as each church had its own bishop
@@ -837,8 +837,8 @@ and in the 3rd century provincial synods became common, and by the
 council of Nicaea (canon 5) it was decreed that they should be held
 twice every year in every province. Larger synods representing the
 churches of a number of contiguous provinces also met frequently; for
-instance, in the early 4th century at Elvira, Ancyra, Neo-Caesarea and
-Arles, the last representing the entire Western world. Such gatherings
+instance, in the early 4th century at [[Elvira]], Ancyra, Neo-Caesarea and
+[[Arles]], the last representing the entire Western world. Such gatherings
 were especially common during the great doctrinal controversies of the
 4th century. In 325 the first general or ecumenical council,
 representing theoretically the entire Christian Church, was held at
@@ -852,7 +852,7 @@ them. (See COUNCIL.)
 The theory referred to above, that the bishops are successors of the
 apostles, and as such the authoritative conservators and interpreters of
 apostolic truth, involves of course the solidarity of the episcopate,
-and the assumption that all bishops are in complete harmony and bear
+and the [[Assumption|assumption]] that all bishops are in complete harmony and bear
 witness to the same body of doctrine. This assumption, however, was not
 always sustained by the facts. Serious disagreements even on important
 matters developed frequently. As a result the ecumenical council came
@@ -863,7 +863,7 @@ and at the ecumenical councils which followed, the idea of an infallible
 episcopate giving authoritative and permanent utterance to apostolic and
 therefore divine truth, found clear expression, and has been handed down
 as a part of the faith of the Catholic Church both East and West. The
-infallibility of the episcopate guarantees the infallibility of a
+[[Infallibility|infallibility]] of the episcopate guarantees the infallibility of a
 general council in which not the laity and not the clergy in general,
 but the bishops as successors of the apostles, speak officially and
 collectively.
@@ -917,14 +917,14 @@ divine authority on earth (see PAPACY and POPE).
   _Historical Sources of the First Period._--These are of the same
   general character for Church history as for general history--on the
   one hand monumental, on the other hand documentary. Among the
-  monuments are churches, catacombs, tombs and inscriptions of
+  monuments are churches, [[Catacomb|catacombs]], tombs and inscriptions of
   various kinds, few antedating the 3rd century, and none adding
   greatly to the knowledge gained from documentary sources (see
   De Rossi, _Roma sotteranea_, 1864 ff., and its English abridgment
   by Northcote and Brownlow, 1870; André Pératé, _L'Archéologie
   chrétienne_, 1892; W. Lowrie, _Monuments of the Early Church_, 1901,
   with good bibliography). The documents comprise imperial edicts,
-  rescripts, &c, liturgies, acts of councils, decretals and letters of
+  rescripts, &c, liturgies, acts of councils, [[Decretals|decretals]] and letters of
   bishops, references in contemporary heathen writings, and above all
   the works of the Church Fathers. Written sources from the 1st and
   2nd centuries are relatively few, comprising, in addition to some
@@ -934,8 +934,8 @@ divine authority on earth (see PAPACY and POPE).
   Gnostic fragments. For the 3rd, and especially the 4th and following
   centuries, the writers are much more numerous; for instance, in the
   East, Origen and his disciples, and later Eusebius of Caesarea,
-  Athanasius, Apollinaris, Basil and the two Gregories, Cyril of
-  Jerusalem, Epiphanius, Chrysostom, Ephraim the Syrian, Cyril of
+  [[Athanasius]], [[Apollinaris]], Basil and the two Gregories, [[Cyril]] of
+  Jerusalem, [[Epiphanius]], Chrysostom, Ephraim the Syrian, Cyril of
   Alexandria, Pseudo-Dionysius; in the West, Novatian, Cyprian,
   Commodian, Arnobius, Lactantius, Hilary, Ambrose, Rufinus,
   Jerome, Augustine, Prosper, Leo the Great, Cassian, Vincent of
@@ -952,12 +952,12 @@ divine authority on earth (see PAPACY and POPE).
   and the Vienna edition of the Latin Fathers (_Corpus scriptorum
   ecclesiasticorum Latinorum_, 1867 ff.), both of first-rate importance.
   There is a convenient English translation of most of the writings of
-  the ante-Nicene Fathers by Roberts and Donaldson (_Ante-Nicene
+  the ante-Nicene Fathers by Roberts and [[Donaldson]] (_Ante-Nicene
   Christian Library_, 25 vols., Edinburgh, 1868 ff., American reprint in
   nine vols., 1886 ff.). A continuation of it, containing selected works
   of the Nicene and post-Nicene period, was edited by Schaff and others
   under the title _A Select Library of Nicene and post-Nicene Fathers_
-  (series 1 and 2; 28 vols., Buffalo and New York, 1886 ff.).
+  (series 1 and 2; 28 vols., [[Buffalo]] and New York, 1886 ff.).
 
   On early Christian literature, in addition to the works on Church
   history, see especially the monumental _Geschichte der altchristlichen
@@ -974,20 +974,20 @@ B. THE CHRISTIAN CHURCH IN THE MIDDLE AGES
 
 The ancient Church was the church of the Roman empire. It is true that
 from the 4th century onwards it expanded beyond the borders of that
-empire to east and west, north and south; but the infant churches which
+empire to east and west, north and south; but the [[Infant|infant]] churches which
 gradually arose in Persia and Abyssinia, among some of the scattered
-Teutonic races, and among the Celts of Ireland, were at first not
+Teutonic races, and among the [[Celt|Celts]] of Ireland, were at first not
 co-operating factors in the development of Christendom: they received
 without giving in return. True historic life is only to be found within
 the church of the Empire.
 
 The middle ages came into being at the time when the political structure
 of the world, based upon the conquests of Alexander the Great and the
-achievements of Julius Caesar, began to disintegrate. They were present
+achievements of Julius [[Caesar]], began to disintegrate. They were present
 when the believers in Mahomet held sway in the Asiatic and African
 provinces which Alexander had once brought under the intellectual
 influence of Hellenism; while the Lombards, the West Goths, the Franks
-and the Anglo-Saxons had established kingdoms in Italy, Spain, Gaul and
+and the Anglo-Saxons had established kingdoms in Italy, Spain, [[Gaul]] and
 Britain. The question is: what was the position of the Church in this
 great change of circumstances, and what form did the Church's
 development take from this time onwards? In answering this question we
@@ -1024,7 +1024,7 @@ century. After the termination of the monothelite controversy (638-680),
 creed and doctrines were complete; it was only necessary to preserve
 them intact. Theology, therefore, now resolved itself into the
 collection and reproduction of the teaching of ancient authorities. The
-great dogmatist of the Eastern Church, John of Damascus (ca. 699-753),
+great dogmatist of the Eastern Church, [[John Of Damascus|John of Damascus]] (ca. 699-753),
 who stood on the threshold of the middle ages, formulated clearly and
 precisely his working principle: to put forward nothing of his own, but
 to present the truth according to the authority of the Bible and of the
@@ -1043,9 +1043,9 @@ dogma. Here was more than knowledge; here were representations of a
 mystic sensuousness, solemn rites, which brought the faithful into
 immediate contact with the Divine, and guaranteed to them the reception
 of heavenly powers. What could be of more importance than to be absorbed
-in this transcendental world? We may gauge the energy with which the
-Greek intellect turned in this direction if we call to mind that the
-controversy about dogma was replaced by the controversy about images.
+in this transcendental world? We may [[Gauge|gauge]] the energy with which the
+Greek [[Intellect|intellect]] turned in this direction if we call to mind that the
+controversy about dogma was replaced by the controversy about [[Image|images]].
 This raged in the Eastern Church for more than a century (726-843), and
 only sank to rest when the worship of images was unconditionally
 conceded. In this connexion the image was not looked upon merely as a
@@ -1064,11 +1064,11 @@ It is consistent with this circle of ideas that initiation into the
 profound mysteries of the liturgy was regarded, together with the
 preservation of dogma, as the most exalted function of theology. A
 beginning had been made, in the 5th century, by the neo-platonic
-Christian who addressed his contemporaries under the mask of Dionysius
+Christian who addressed his contemporaries under the mask of [[Dionysius]]
 the Areopagite. He is the first of a series of theological mystics which
-continued through every century of the middle ages. Maximus Confessor,
+continued through every century of the middle ages. [[Maximus]] Confessor,
 the heroic defender of Dyotheletism (d. 662), Symeon, the New Theologian
-(d. circa 1040), Nicolaus Cabasilas (d. 1371), and Symeon, like
+(d. circa 1040), Nicolaus [[Cabasilas]] (d. 1371), and Symeon, like
 Nicholas, archbishop of Thessalonica (d. 1429), were the most
 conspicuous representatives of this Oriental mysticism. They left all
 the dogmas and institutions of the Church untouched; aspiring above and
@@ -1079,7 +1079,7 @@ Oriental monachism of the middle ages its peculiar character. In the 5th
 and 6th centuries Egypt and Palestine had been the classic lands of
 monks and monasteries. But when, in consequence of the Arab invasion,
 the monasticism of those countries was cut off from intercourse with the
-rest of Christendom, it decayed. Constantinople and Mount Athos gained
+rest of Christendom, it decayed. Constantinople and Mount [[Athos]] gained
 proportionately in importance during the middle ages. At Constantinople
 the monastery of Studium, founded about 460, attained to supreme
 influence during the controversy about images. On Mount Athos the first
@@ -1108,7 +1108,7 @@ though of a different type from that of the West.
 
 That there was life in the Eastern Church is also proved by the fact
 that the power of _expansion_ was not denied her. Through her agency an
-important bulwark for the Christian faith was created in the new nations
+important [[Bulwark|bulwark]] for the Christian faith was created in the new nations
 which had sprung into existence since the beginning of the middle ages:
 the Bulgarians, the Servians, and the multifarious peoples grouped under
 the name of Russians. There is a vast difference in national character
@@ -1139,7 +1139,7 @@ Syria; from the rule of the patriarch Babacus (Syr. B[=a]b-h[=a]i,
 498-503) she may be considered definitely Nestorian. A certain number,
 too, of Arabic Christians, believers living on the west coast of India,
 the so-called Christians of St Thomas, and finally those belonging to
-places nearer the middle of Asia (Merv, Herat, Samarkand), remained in
+places nearer the middle of Asia (Merv, [[Herat]], Samarkand), remained in
 communion with the Nestorian church. Thus there survived in mid-Asia a
 widely-scattered remnant, which, although out of touch with the ancient
 usages of Christian civilization, yet in no way lacked higher culture.
@@ -1149,7 +1149,7 @@ obtained their knowledge of Greek learning from Syriac translations of the
 works of Greek thinkers.
 
 Political conditions at the beginning of the middle ages favoured the
-Nestorian church, and the fact that the Arabs had conquered Syria,
+Nestorian church, and the fact that the [[Arabs]] had conquered Syria,
 Palestine and Egypt, made it possible for her to exert an influence on
 the Christians in these countries. Of still more importance was the
 brisk commercial intercourse between central Asia and the countries of
@@ -1169,12 +1169,12 @@ remnants of this once extensive church have survived until modern times.
 
 The middle ages were far more disastrous for the Monophysites than for
 the Nestorians; in their case there was no alternation of rise and
-decline, and we have only a long period of gradual exhaustion to
+decline, and we have only a long period of [[Gradual|gradual]] exhaustion to
 chronicle. Egypt was the home of Monophysitism, whence it extended also
-into Syria. It was due to the great Jacob of Edessa (Jacob Baradaeus, d.
+into Syria. It was due to the great [[Jacob]] of Edessa (Jacob Baradaeus, d.
 578) that it did not succumb to the persecution by the power of the
 Orthodox Empire, and out of gratitude to him the Monophysite Christians
-of Syria called themselves _Jacobites_. The Arab conquest (after 635)
+of Syria called themselves _[[Jacobites]]_. The Arab conquest (after 635)
 freed the Jacobite church entirely from the oppression of the Orthodox,
 and thereby assured its continuance. The church, however, never attained
 any greater development, but on the contrary continued to lose adherents
@@ -1182,9 +1182,9 @@ from century to century. While Jacob of Edessa is said to have ordained
 some 100,000 priests and deacons for his fellow-believers, in the 16th
 century the Jacobites of Syria were estimated at only 50,000 families.
 
-The Monophysite church of Egypt had a like fate. At the time of the
+The Monophysite church of Egypt had a like [[Fate|fate]]. At the time of the
 separation of the churches the Greeks here had remained faithful to
-Orthodoxy, the Copts to Monophysitism. Here too the Arab conquest (641)
+Orthodoxy, the [[Copts]] to Monophysitism. Here too the Arab conquest (641)
 put an end to the oppression of the native Christians by the Greek
 minority; but this did not afford the Coptic church any possibility of
 vigorous development. It succumbed to the ceaseless alternation of
@@ -1218,7 +1218,7 @@ ruling German race; the Lombards, West Goths, Swabians, and even the
 Franks in the greater part of Gaul became Romanized. Consequently the
 position of the Christian Church was never seriously affected. This is
 the great fact which stands out at the beginning of the history of the
-Church in the middle ages. The continuity of the political history of
+Church in the middle ages. The continuity of the [[Political History|political history]] of
 Europe was violently interrupted by the Germanic invasion, but not that
 of the history of the Church. For, in view of the facts above stated, it
 was of small significance that in Britain Christianity was driven back
@@ -1294,7 +1294,7 @@ they were called together at irregular intervals by the king, and their
 decisions obtained legal effect only by royal sanction.
 
 In these circumstances the intrusion of Germanic elements into
-ecclesiastical law is easy to understand. This is most clearly
+[[Ecclesiastical Law|ecclesiastical law]] is easy to understand. This is most clearly
 recognizable in the case of churches which arose alongside the
 episcopal cathedrals. In the Empire all churches, and all the property
 of the Church, were at the disposal of the bishops; in Germanic
@@ -1326,8 +1326,8 @@ Venerable Bede (d. 735) were the first scholars of the period. England
 was also the home of Winfrid Bonifatius (d. 757). We are accustomed to
 look upon him chiefly as a missionary; but his completion of the
 conversion of the peoples of central Germany (Thuringians and Hessians)
-and his share in that of the Frisians, are the least part of his
-life-work. Of more importance is the fact that, in co-operation with the
+and his share in that of the [[Frisians]], are the least part of his
+life-work. Of more importance is the fact that, in [[Co-Operation|co-operation]] with the
 bishops of Rome, he carried out the organization of the church in
 Bavaria, and began the reorganization of the Frankish church, which had
 fallen into confusion and decay during the political disorders of the
@@ -1365,21 +1365,21 @@ case; for it knew how to treat the question, which divided the Greeks,
 in a more dispassionate and practical manner than they.
 
 The second generation of Frankish theologians did not lag behind the
-first. Hrabanus of Fulda (who died archbishop of Mainz in 856) was in
+first. Hrabanus of [[Fulda]] (who died archbishop of [[Mainz]] in 856) was in
 the range of his knowledge undoubtedly Alcuin's superior. He was the
 first learned theologian produced by Germany. His disciple, Abbot
 Walafrid Strabo of Reichenau (d. 849), was the author of the _Glossa
 Ordinaria_, a work which formed the foundation of biblical exposition
 throughout the middle ages. France was still more richly provided with
-theologians in the 9th century: her most prominent names are Hincmar,
+theologians in the 9th century: her most prominent names are [[Hincmar]],
 archbishop of Reims (d. 882), Bishop Prudentius of Troyes (d. 861), the
-monks Servatus Lupus (d. 862), Radbert Paschasius (d. circa 860), and
+monks Servatus [[Lupus]] (d. 862), Radbert Paschasius (d. circa 860), and
 Ratramnus (d. after 868); and the last theologian who came into France
 from abroad, Johannes Scotus Erigena (d. circa 880). The theological
 method of all these was merely that of restatement. But the controversy
 about predestination, which, in the 9th century, Hincmar and Hrabanus
 fought out with the monk Gottschalk of Fulda, as well as the discussions
-that arose from the definition of the doctrine of transubstantiation of
+that arose from the [[Definition|definition]] of the doctrine of transubstantiation of
 Radbert, enable us to gauge the intellectual energy with which
 theological problems were once more being handled.
 
@@ -1390,7 +1390,7 @@ his protection. From Pope Adrian I. he received the _Dionyso-Hadriana_,
 the Roman collection of material bearing on the ancient ecclesiastical
 law. But the Teutonic elements maintained their place in the law of the
 Frankish Church; and this was not altered by the fact that, since
-Christmas 800, the king of the Franks and Lombards had borne the title
+[[Christmas]] 800, the king of the Franks and Lombards had borne the title
 of Roman emperor. On the contrary, Rome itself was now for the first
 time affected by the predominance of the new empire; for Charlemagne
 converted the patriciate into effective sovereignty, and the successor
@@ -1399,7 +1399,7 @@ of St Peter became the chief metropolitan of the Frankish empire.
 There were, indeed, forces tending in the contrary direction; and these
 were present in the Frankish empire. Evidence of this is given by the
 canon law forgeries of the 9th century: the _capitula_ of Angelram, the
-Capitularies of Benedictus Levita (see CAPITULARY), and the great
+Capitularies of [[Benedictus]] Levita (see [[Capitulary|CAPITULARY]]), and the great
 collection of the Pseudo-Isidorian Decretals. For the moment, however,
 this party met with no success. Of more importance was the fact that at
 Rome the old conditions, the old claims, and the old law were
@@ -1428,7 +1428,7 @@ Rome canonical election was alone regarded as lawful; in Germany, on the
 other hand, developments since the time of Charlemagne had led to the
 actual appointment of bishops being in the hands of the king, although
 the form of ecclesiastical election was preserved. For the transference
-of a bishopric a special legal form was evolved--that of investiture,
+of a bishopric a special legal form was evolved--that of [[Investiture|investiture]],
 the king investing the bishop elect with the see by delivering to him
 the ring and pastoral staff. No one found anything objectionable in
 this; investiture with a bishopric was parallel with the appointment by
@@ -1453,7 +1453,7 @@ was it possible for the relation between Empire and Papacy to remain
 what Henry III. had made it?
 
 The original sources of this reform movement lay far back, in the time
-of the Carolingians. It has been pointed out how Charlemagne pressed the
+of the [[Carolingians]]. It has been pointed out how Charlemagne pressed the
 monks into the service of his civilizing aims. We admire this; but it is
 certain that he thereby alienated monasticism from its original ideals.
 These, however, had far too strong a hold upon the Roman world for a
@@ -1461,7 +1461,7 @@ reaction against the new tendency to be long avoided. This reaction
 began with the reform of Benedict of Aniane (d. 821), the aim of which
 was to bring the Benedictine order back to the principles of its
 original rules. In the next century the reform movement acquired a fresh
-centre in the Burgundian monastery of Cluny. The energy of a succession
+centre in the Burgundian monastery of [[Cluny]]. The energy of a succession
 of distinguished abbots and the disciples whom they inspired succeeded
 in bringing about the victory of the reforming ideas in the French
 monasteries; once more the rule of St Benedict controlled the life of
@@ -1472,9 +1472,9 @@ independence of the diocesan bishops, since the abbot of Cluny was
 subordinate of the pope alone. (See CLUNY; BENEDICTINES and
 MONASTICISM.) At the same time that Cluny began to grow into importance,
 other centres of the monastic reform movement were established in Upper
-and Lower Lorraine; and before long the activity of the Cluniac monks
+and Lower [[Lorraine]]; and before long the activity of the Cluniac monks
 made itself felt in Italy. In Germany Poppo of Stavelot (d. 1048) was a
-successful champion of their ideas; in England Dunstan (d. 988 as
+successful [[Champion|champion]] of their ideas; in England Dunstan (d. 988 as
 archbishop of Canterbury) worked independently, but on similar lines.
 Everywhere the object was the same: the supreme obligation of the Rule,
 the renewal of discipline, and also the economic improvement of the
@@ -1494,7 +1494,7 @@ As a result, the party of reform placed itself in opposition to those
 ecclesiastical conditions which had arisen since the conversion of the
 Teutonic peoples. It was, then, a fact pregnant with the most momentous
 consequences that Leo IX. attached himself to the party of reform. For,
-thanks to him and to the men he gathered round him (Hildebrand, Humbert
+thanks to him and to the men he gathered round him ([[Hildebrand]], [[Humbert]]
 and others), their principles were established in Rome, and the pope
 himself became the leader of ecclesiastical reform. But the carrying out
 of reforms led at once to dissensions with the civil power, the
@@ -1503,12 +1503,12 @@ starting-point being the attack upon simony.
 Originally, in accordance with Acts viii. 18 et seq., simony was held to
 be the purchase of ordination. In the 9th century the interpretation was
 extended to include all acquisition of ecclesiastical offices or
-benefices for money or money's worth. Since the landed proprietors
+[[Benefice|benefices]] for money or money's worth. Since the landed proprietors
 disposed of churches and convents, and the kings of bishoprics and
 abbeys, it became possible for them too to commit the sin of simony;
 hence a final expansion, in the 11th century, of the meaning of the
 term. The Pseudo-Isidorian idea being that all lay control over things
-ecclesiastical is wrong, all transferences by laymen of ecclesiastical
+ecclesiastical is wrong, all transferences by [[Laymen|laymen]] of ecclesiastical
 offices or benefices, even though no money changed hands in the process,
 were now classed as simony (Humbert, _Adversus Simoniacos_, 1057-1058).
 Thus the lord who handed over a living was a simonist, and so too was
@@ -1522,7 +1522,7 @@ investiture. In the years of conflict that followed Gregory looked far
 beyond this point; he set his aim ever higher; until, in the end, his
 idea was to concentrate all ecclesiastical power in the hands of the
 pope, and to raise the papacy to the dominion of the world. Thus was to
-be realized the old dream of Augustine: that of a Kingdom of God on
+be realized the old [[Dream|dream]] of Augustine: that of a Kingdom of God on
 earth under the rule of the Church. But it was not given to Gregory to
 reach this goal, and his successors had to return again to the strife
 over investiture. The settlement of 1111 may be said to have embodied
@@ -1530,14 +1530,14 @@ the only solution of the great question that was right in principle,
 since it pronounced in favour of a clear distinction between the
 spiritual and temporal spheres. However, a solution that was right in
 principle proved impossible in practice, and the long struggle ended in
-a compromise by the Concordat of Worms (1122). The essential part of
+a [[Compromise|compromise]] by the Concordat of Worms (1122). The essential part of
 this was that the Empire accepted the canonical election of bishops, and
 allowed the metropolitan to confer the sacred office by gift of ring and
 pastoral staff; while the Church acknowledged that the bishop held his
 temporal rights from the Empire, and was therefore to be invested with
 them by a touch from the royal sceptre. A similar solution was arrived
 at in England. Henry I. also renounced his claim to bestow ring and
-pastoral staff, but kept the right of induction into the temporalities
+pastoral staff, but kept the right of [[Induction|induction]] into the temporalities
 (1106-1107). In France the demands of the Church were successful to the
 same degree as in England and Germany, but without any conflict. Thus
 the Germanic element in the law regarding appointment to bishoprics was
@@ -1553,7 +1553,7 @@ Europe from the 9th to the 12th century was due--if we exclude Eastern
 Christendom--to the Teutonic nations; neither the papacy nor the peoples
 of Latin race were concerned in it. German priests and bishops carried
 the Christian faith to the Czechs and the Moravians, laboured among the
-Hungarians and the Poles, and won the wide district between the Elbe and
+Hungarians and the Poles, and won the wide district between the [[Elbe]] and
 the Oder at once for Christianity and for the German nation. Germany,
 too, was the starting-point for the conversion of the Scandinavian
 countries, which was completed by English priests with the assistance of
@@ -1563,7 +1563,7 @@ But, even while the Teutonic peoples were thus taking the lead, we can
 see the Latin races beginning to assert themselves. The monastic reform
 movement was essentially Latin in origin; and even more significant was
 the fact that scholasticism, the new theology, had its home in the Latin
-countries. Aristotelian dialectics had always been taught in the
+countries. Aristotelian [[Dialectic|dialectics]] had always been taught in the
 schools; and reason as well as authority had been appealed to as the
 foundation of theology; but for the theologians of the 9th and 10th
 centuries, whose method had been merely that of restatement, _ratio_ and
@@ -1591,9 +1591,9 @@ in the relation of _sic et non_, yes and no. Upon this fact he based his
 pronouncement as to the function of theology: it must employ the
 dialectic method to reconcile the contradictions of tradition, and thus
 to shape the doctrines of the faith in accordance with reason. By
-teaching this method Abelard created the implements for the erection of
+teaching this method Abelard created the [[Implement|implements]] for the erection of
 the great theological systems of the schoolmen of the 12th and 13th
-centuries: Peter Lombard (d. 1160), Alexander of Hales (d. 1245),
+centuries: Peter Lombard (d. 1160), Alexander of [[Hales]] (d. 1245),
 Albertus Magnus (d. 1280), and Thomas Aquinas (d. 1275). They adventured
 a complete exposition of Christian doctrine that should be altogether
 ecclesiastical and at the same time altogether rational. In so doing
@@ -1604,9 +1604,9 @@ Sacraments was the work of scholasticism.
 Canon law is the twin-sister of scholasticism. At the very time when
 Peter Lombard was shaping his Sentences, the monk Gratian of Bologna was
 making a new collection of laws. It was not only significant that in the
-_Concordia discordantium canonum_ ecclesiastical laws, whether from
-authentic or forged sources, were gathered together without regard to
-the existing civil law; of even greater eventual importance was the fact
+_[[Concordia]] discordantium canonum_ ecclesiastical laws, whether from
+[[Authentic|authentic]] or forged sources, were gathered together without regard to
+the existing [[Civil Law|civil law]]; of even greater eventual importance was the fact
 that Gratian taught that the contradictions of the canon law were to be
 reconciled by the same method as that used by theology to reconcile the
 discrepancies of doctrinal tradition. Thus Gratian became the founder of
@@ -1615,18 +1615,18 @@ was entirely ecclesiastical and entirely rational (See CANON LAW).
 
 Like the new theology and the new science of law, the new monasticism
 was also rooted in Latin soil. In the first of the new orders, that of
-the Cistercians (1098), the old monastic ideal set forth in the Rule of
-Benedict of Nursia still prevailed; but in the constitution and
+the [[Cistercians]] (1098), the old monastic ideal set forth in the Rule of
+[[Benedict Of Nursia|Benedict of Nursia]] still prevailed; but in the constitution and
 government of the order new ideas were at work. In the Premonstratensian
 order, however, founded in 1120 by Norbert of Xanten, a new conception
 of the whole function of monachism was introduced: the duty of the
 priest-monk is not only to work out his own salvation, but, by preaching
 and cure of souls, to labour for others. This was the dominant idea of
-the order of friars preachers founded in 1216, on the basis of the
-Premonstratensian rule, by Dominic of Osma (see DOMINIC, SAINT, and
+the order of [[Friar|friars]] preachers founded in 1216, on the basis of the
+Premonstratensian rule, by [[Dominic]] of Osma (see DOMINIC, SAINT, and
 DOMINICANS). It was also the basis of the order of friars minor
 (Franciscans, q.v.), founded in 1210. For the foundation of Francis of
-Assisi came into existence as a society of itinerant preachers: no one
+[[Assisi]] came into existence as a society of itinerant preachers: no one
 was more deeply convinced than Francis of the duty of working for
 others, and his own mission was, as he said, to win souls. But with this
 idea he fused another, namely, that it is the task of the monk to
@@ -1642,9 +1642,9 @@ promptly followed their example and likewise became mendicant.
 
 This alone would serve to indicate the remarkable deepening of the
 religious life that had taken place in the Latin countries. Its
-beginning may be traced as early as the 11th century (Pietro Damiani,
+beginning may be traced as early as the 11th century (Pietro [[Damiani]],
 q.v.), and in the 12th century the most influential exponent of this new
-piety was Bernard (q.v.) of Clairvaux, who taught men to find God by
+piety was [[Bernard]] (q.v.) of Clairvaux, who taught men to find God by
 leading them to Christ. Contemporary with him were Hugh (q.v.) of St
 Victor and his pupil Richard (q.v.) of St Victor, both monks of the
 abbey of St Victor at Paris, the aim of whose teaching, based on that of
@@ -1662,7 +1662,7 @@ discipline of penance, nor did it reject those foreign elements
 (asceticism, worship of saints and the like) which had passed of old
 time into Christianity from the ancient world. Its temper was not
 critical, but aggressively practical. It led the Romance nations to
-battle for Christendom. In the 11th and 12th centuries the chivalry of
+battle for Christendom. In the 11th and 12th centuries the [[Chivalry|chivalry]] of
 Spain and southern France took up the struggle with the Moors as a holy
 war. In the autumn of 1096 the nobles of France and Italy, joined by the
 Norman barons of England and Sicily, set out to wrest the Holy Land from
@@ -1686,7 +1686,7 @@ schemes had been realized.
 
 The field was thus cleared for the full development of papal power. This
 had greatly increased since the Concordat of Worms, and reached its
-height under Innocent III. (1198-1216). Innocent believed himself to be
+height under [[Innocent]] III. (1198-1216). Innocent believed himself to be
 the representative of God, and as such the supreme possessor of both
 spiritual and temporal power. He therefore claimed in both spheres the
 supreme administrative, legislative and judicial authority. Just as he
@@ -1705,7 +1705,7 @@ new position of the pope. From 1123 onward there had again been talk of
 general councils; but, unlike those of earlier times, these were
 assemblies summoned by the pope, who confirmed their resolutions. The
 canonical election of bishops also continued to be discussed; but the
-old electors, i.e. the clergy and laity of the dioceses, were deprived
+old [[Electors|electors]], i.e. the clergy and laity of the dioceses, were deprived
 of the right of election, this being now transferred exclusively to the
 cathedral chapters. The bishops kept their old title, but they described
 themselves accurately as "bishops by grace of the apostolic see," for
@@ -1719,7 +1719,7 @@ maintain, although Innocent III. had apparently enforced it. The long
 struggle against Frederick II., carried on by Gregory IX. (1227-1241)
 and Innocent IV. (1243-1254), did not result in victory; no papal
 sentence, but only death itself, deprived the emperor of his dominions;
-and when Boniface VIII. (1294-1303), who in the bull _Unam Sanctam_
+and when Boniface VIII. (1294-1303), who in the [[Bull|bull]] _Unam Sanctam_
 (1302) gave the papal claims to universal dominion their classical form,
 quarrelled with Philip IV. of France about the extension of the royal
 power, he could not but perceive that the national monarchy had become a
@@ -1734,7 +1734,7 @@ the Empire, indeed, had been shattered; but this left all the more room
 for the vigorous development of national states, notably of France and
 England. At the same time intellectual life was enriched by a wealth of
 fresh views and new ideas, partly the result of the busy intercourse
-with the East to which the Crusades had given the first impetus, and
+with the East to which the [[Crusades]] had given the first impetus, and
 which had been strengthened and extended by lively trade relations,
 partly of the revived study, eagerly pursued, of ancient philosophy and
 literature (see RENAISSANCE). Old forms became too narrow, and
@@ -1750,11 +1750,11 @@ asserted; indeed it was not till this time that they received their most
 uncompromising expression (Augustinus Triumphus, d. 1328; Alvarus
 Pelagius, d. 1352). After Boniface VIII., however, no pope seriously
 attempted to realize them; to do so had in fact become impossible, for
-from the time of their residence at Avignon (1305-1377) the popes were
+from the time of their residence at [[Avignon]] (1305-1377) the popes were
 in a state of complete dependence upon the French crown. But even the
 curialistic theory met everywhere with opposition. In France Philip
 IV.'s jurists maintained that the temporal power was independent of the
-spiritual. In Italy, a little later, Dante championed the divine right
+spiritual. In Italy, a little later, [[Dante]] championed the divine right
 of the emperor (_De Monarchia_, 1311). In Germany, Marsiglio of Padua
 and Jean of Jandun, the literary allies of the emperor Louis IV.,
 ventured to define anew the nature of the civil power from the
@@ -1772,7 +1772,7 @@ papal system of finance, which had to provide funds for the vast
 administrative machinery of the Curia. There was also the boundless
 abuse and arbitrary exercise of the right of ecclesiastical patronage
 (provisions, reservations); and further the ever-increasing traffic in
-dispensations, the abuse of spiritual punishments for worldly ends, and
+[[Dispensation|dispensations]], the abuse of spiritual punishments for worldly ends, and
 so forth. No means, however, existed of enforcing any remedy until the
 papal schism occurred in 1378. Such a schism as this, so intolerable to
 the ecclesiastical sense of the middle ages, necessitated the discovery
@@ -1785,11 +1785,11 @@ obedience even from him. This was the view of the Germans Conrad of
 Gelnhausen (d. 1390) and Heinrich of Langenstein (d. 1397), as also of
 the Frenchmen Pierre d'Ailli (d. 1420) and Jean Charlier Gerson (d.
 1429). These all recognized in the convocation of a general council the
-means of setting bounds to the abuses in the government of the Church by
+means of setting [[Bounds|bounds]] to the abuses in the government of the Church by
 an extensive reform. The council of Pisa (1409) separated without
 effecting anything; but the council of Constance (1414-1418) did
 actually put an end to the schism. The reforms begun at Constance and
-continued at Basel (1431-1449) proved, however, insufficient. Above all,
+continued at [[Basel]] (1431-1449) proved, however, insufficient. Above all,
 the attempt to set up the general council as an ordinary institution of
 the Catholic Church failed; and the Roman papacy, restored at Constance,
 preserved its irresponsible and unlimited power over the government of
@@ -1799,10 +1799,10 @@ Thus the attempt to reform the Church by means of councils failed; but
 this very failure led to the survival of the desire for reform. It was
 kept alive by the most various circumstances; in the first instance by
 the attitude of the European states. Thanks to his recognition by the
-powers, Pope Eugenius IV. (1431-1447) had been victorious over the
+powers, Pope [[Eugenius]] IV. (1431-1447) had been victorious over the
 council of Basel; but neither France nor Germany was prepared to forgo
 the reforms passed by the council. France secured their validity, as far
-as she herself was concerned, by the Pragmatic Sanction of Bourges (July
+as she herself was concerned, by the Pragmatic Sanction of [[Bourges]] (July
 7, 1438); Germany followed with the Acceptation of Mainz (March 26,
 1439). The theory of the papal supremacy held by the Curia was thus at
 least called in question.
@@ -1825,9 +1825,9 @@ school of salvation, and against its head, the bishop of Rome.
 Wycliffe's ideas, conveyed to the continent, precipitated the outbreak
 of the Hussite storm in Bohemia. The council of Constance thought to
 quell it by condemnation of Wycliffe's teaching and by the execution of
-John Huss (1415). But in vain. The flame burst forth, not in Bohemia
+John [[Huss]] (1415). But in vain. The flame burst forth, not in Bohemia
 alone, where Huss's death gave the signal for a general rising, but also
-in England among the Lollards, and in Germany among those of Huss's
+in England among the [[Lollards]], and in Germany among those of Huss's
 persuasion, who had many points of agreement with the remnant of the
 Waldenses.
 
@@ -1851,7 +1851,7 @@ education and culture, and an impassable gulf yawned between their views
 of religion and morality and those of the Church.
 
 This return to the ideals of antiquity did not remain confined to Italy,
-but the humanism of the northern countries presents no close parallel to
+but the [[Humanism|humanism]] of the northern countries presents no close parallel to
 the Italian renaissance. However much it agreed in admiration of the
 ancients, it differed absolutely in its preservation of the fundamental
 ideas of Christianity. But neither Reuchlin (d. 1522), Erasmus (d.
@@ -1862,7 +1862,7 @@ Church. Their ideal was a return to that simplicity of primitive
 Christendom which they believed they found revealed in the New Testament
 and in the writings of the early Fathers.
 
-To this theology could not point the way. Since the time of Duns Scotus
+To this theology could not point the way. Since the time of [[Duns Scotus]]
 (d. 1308) theologians had been conscious of the discrepancy between
 Aristotelianism and ecclesiastical dogma. Faith in the infallibility of
 the scholastic system was thus shaken, and the system itself was
@@ -1877,7 +1877,7 @@ impossible.
 
 Mysticism, moreover, which had no lack of noteworthy supporters in the
 14th and 15th centuries, and the various new departures in thought
-initiated by individual theologians such as Nicolaus Cusanus (d. 1464)
+initiated by individual theologians such as Nicolaus [[Cusanus]] (d. 1464)
 and Wessel Gansfort (d. 1489), were not competent to restore to the
 Church what she had once possessed in scholasticism--that is to say, a
 conception of Christianity in which all Christendom recognized the
@@ -1929,7 +1929,7 @@ which the wearers of the papal dignity stood to medieval piety; for
 Girolamo Savonarola was in every fibre a loyal son of the medieval
 Church.
 
-Twenty years after Savonarola's death Martin Luther made public his
+Twenty years after Savonarola's death [[Martin]] Luther made public his
 theses against indulgences. The Reformation which thus began brought the
 disintegrating process of the middle ages to an end, and at the same
 time divided Western Catholicism in two. Yet we may say that this was
@@ -1939,7 +1939,7 @@ dogma as the doctrine of modern Catholicism in contradistinction to
 Protestantism. (See also PAPACY; RENAISSANCE; REFORMATION, and
 biographies of popes, &c.)
 
-  AUTHORITIES.--For sources see U. Chevalier, _Répertoire des sources
+  AUTHORITIES.--For sources see U. [[Chevalier]], _Répertoire des sources
   historiques du moyen-âge_ (Paris, 1903); A. Potthast, _Bibliotheca
   historica medii aevi_ (Berlin, 1896); W. Wattenbach, _Deutschlands
   Geschichtsquellen im Mittelalter_ (7th ed., Stuttgart, 1904); A.
@@ -1947,17 +1947,17 @@ biographies of popes, &c.)
   General Treatises: Philip Schaff, _History of the Christian Church_
   (12 yols., 5th ed., New York, 1889-1892), vol. iv. _Medieval
   Christianity_; W. Moeller, _Lehrbuch der Kirchengeschichte_, vol. ii.
-  _Das Mittelalter_ (Freiburg, 1891); H.H. Milman, _History of Latin
+  _Das Mittelalter_ ([[Freiburg]], 1891); H.H. Milman, _History of Latin
   Christianity_ (6 vols., 2nd ed., London, 1857). Particular Treatises:
-  J. Lingard, _The History and Antiquities of the Anglo-Saxon Church_ (2
+  J. [[Lingard]], _The History and Antiquities of the Anglo-Saxon Church_ (2
   vols. 3rd ed., London, 1845); E. Churton, _The Early English Church_
-  (London, 1878); A. Martineau, _Church History in England from the
-  Earliest Times to the Reformation_ (London, 1878); W. Hunt, _The
+  (London, 1878); A. [[Martineau]], _Church History in England from the
+  Earliest Times to the Reformation_ (London, 1878); W. [[Hunt]], _The
   English Church from its Foundation to the Norman Conquest_ (London,
   1899); W. Stubbs, _Constitutional History of England_ (3 vols.,
   London, 1874-1878); A. Bellesheim, _Geschichte der kathol. Kirche in
   Schottland_ (2 vols., Mainz, 1883; Engl. transl. with Notes and
-  Additions by O.H. Blair, 4 vols., Edinburgh, 1887-1890); W. Stephen,
+  Additions by O.H. [[Blair]], 4 vols., Edinburgh, 1887-1890); W. Stephen,
   _History of the Scottish Church_ (Edinburgh, 1894-1896, 2 vols.); W.D.
   Killen, _The Ecclesiastical History of Ireland_ (2 vols., London,
   1875-1878); A. Bellesheim, _Geschichte der kath. Kirche in Irland_ (3
@@ -1971,11 +1971,11 @@ biographies of popes, &c.)
   Spanien_ (5 vols., Regensburg, 1862-1879); H. Reuterdahl, _Svenska
   Kyrkans historia_ (3 vols., Lund, 1838-1863); A. v. Maurer, _Die
   Bekehrung des norwegischen Stammes_ (2 vols., Munich, 1855-1856);
-  Bang, _Udsigt over den norske Kirkes historie under Katholicismen_
-  (Christiania, 1887); P. Gams, _Series episcoporum ecclesiae
+  [[Bang]], _Udsigt over den norske [[Kirke|Kirkes]] historie under Katholicismen_
+  ([[Christiania]], 1887); P. Gams, _Series episcoporum ecclesiae
   catholicae_ (Regensburg, 1873); C. Eubel, _Hierarchia catholica medii
-  aevi_ (2 vols., Münster, 1898, 1901); P. Hinschius, _System des kath.
-  Kirchenrechts_ (6 vols., Berlin, 1869-1896); E. Friedberg, _Lehrbuch
+  aevi_ (2 vols., Münster, 1898, 1901); P. [[Hinschius]], _System des kath.
+  Kirchenrechts_ (6 vols., Berlin, 1869-1896); E. [[Friedberg]], _Lehrbuch
   des Kirchenrechts_ (5th ed., Leipzig, 1903); U. Stutz, "Kirchenrecht"
   (Holtzendorff-Kohler, _Encyklopaedie der Rechtswissenschaft_, 6th ed.
   II. Leipzig, 1904); B. Hauréau, _Histoire de la philosophie
@@ -2020,14 +2020,14 @@ Thirty Years' War, that this territorial division of Christendom became
 stereotyped, but the process had been going on for a hundred years
 previously; in some states, as in England and Scotland, it had long been
 completed; in others, as in South Germany, Bohemia and Poland, it was
-defeated by the political and missionary efforts of the Jesuits and
+defeated by the political and missionary efforts of the [[Jesuits]] and
 other agents of the counter-Reformation. In any case, it received a vast
 impetus from the action of the council of Trent. With the issue of the
 Tridentine canons, all hope even of compromise between the "new" and the
 "old" religions was definitely closed. The anathema of the Roman Church
 had fallen upon all the fundamental doctrines for which the Reformers
 had contended and died; the right of free discussion within the limits
-of the creeds, which had given room for the speculations of the medieval
+of the [[Creeds|creeds]], which had given room for the speculations of the medieval
 philosophers, was henceforth curtailed and confined; and the definitions
 of the schoolmen were for ever exalted by the authority of Rome into
 dogmas of the Church. The Latin Church, which, by combining the
@@ -2093,7 +2093,7 @@ as institutions, though they possess many features in common, their
 history is separate and must be separately dealt with. The history of
 the various branches of the Christian Church since the Reformation will
 therefore be found under their several titles (see ROMAN CATHOLIC
-CHURCH; ENGLAND, CHURCH OF; PRESBYTERIANISM; BAPTISTS, &c, &c.).
+CHURCH; ENGLAND, CHURCH OF; PRESBYTERIANISM; [[Baptists|BAPTISTS]], &c, &c.).
    (W. A. P.)
 
 

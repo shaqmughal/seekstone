@@ -9,15 +9,15 @@ topic: geography
 ISHTAR, or ISTAR, the name of the chief goddess of Babylonia and
 Assyria, the counterpart of the Phoenician Astarte (q.v.). The meaning
 of the name is not known, though it is possible that the underlying stem
-is the same as that of Assur (q.v.), which would thus make her the
+is the same as that of [[Assur]] (q.v.), which would thus make her the
 "leading one" or "chief." At all events it is now generally recognized
 that the name is Semitic in its origin. Where the name originated is
-likewise uncertain, but the indications point to Erech where we find the
+likewise uncertain, but the indications point to [[Erech]] where we find the
 worship of a great mother-goddess independent of any association with a
 male counterpart flourishing in the oldest period of Babylonian history.
 She appears under various names, among which are Nana, Innanna, Nina and
 Anunit. As early as the days of Khammurabi we find these various names
-which represented originally different goddesses, though all manifest as
+which represented originally different goddesses, though all [[Manifest|manifest]] as
 the chief trait the life-giving power united in Ishtar. Even when the
 older names are employed it is always the great mother-goddess who is
 meant. Ishtar is the one goddess in the pantheon who retains her
@@ -35,21 +35,21 @@ reproduction among men and animals led to the conception of a female
 deity presiding over the life of the universe. The extension of the
 scope of this goddess to life in general--to the growth of plants and
 trees from the fructifying seed--was a natural outcome of a fundamental
-idea; and so, whether we turn to incantations or hymns, in myths and in
-epics, in votive inscriptions and in historical annals, Ishtar is
+idea; and so, whether we turn to [[Incantation|incantations]] or hymns, in myths and in
+epics, in votive inscriptions and in historical [[Annals|annals]], Ishtar is
 celebrated and invoked as the great mother, as the mistress of lands, as
 clothed in splendour and power--one might almost say as the
 personification of life itself.
 
 But there are two aspects to this goddess of life. She brings forth, she
-fertilizes the fields, she clothes nature in joy and gladness, but she
+fertilizes the [[Fields|fields]], she clothes nature in joy and gladness, but she
 also withdraws her favours and when she does so the fields wither, and
 men and animals cease to reproduce. In place of life, barrenness and
 death ensue. She is thus also a grim goddess, at once cruel and
 destructive. We can, therefore, understand that she was also invoked as
 a goddess of war and battles and of the chase; and more particularly
 among the warlike Assyrians she assumes this aspect. Before the battle
-she appears to the army, clad in battle array and armed with bow and
+she appears to the army, clad in battle [[Array|array]] and armed with [[Bow|bow]] and
 arrow. In myths symbolizing the change of seasons she is portrayed in
 this double character, as the life-giving and the life-depriving power.
 The most noteworthy of these myths describes her as passing through
@@ -68,7 +68,7 @@ the clutches of the goddess of the nether world that she enters upon her
 journey to that region.
 
 In all the great centres Ishtar had her temples, bearing such names as
-E-anna, "heavenly house," in Erech; E-makh, "great house," in Babylon;
+E-anna, "heavenly house," in Erech; E-makh, "great house," in [[Babylon]];
 E-mash-mash, "house of offerings," in Nineveh. Of the details of her
 cult we as yet know little, but there is no evidence that there were
 obscene rites connected with it, though there may have been certain
@@ -85,13 +85,13 @@ Ishtar, were not permitted to marry.
   arrow, though also simply clad in long robes with a crown on her head
   and an eight-rayed star as her symbol. Statuettes have been found in
   large numbers representing her as naked with her arms folded across
-  her breast or holding a child. The art thus reflects the popular
+  her [[Breast|breast]] or holding a child. The art thus reflects the popular
   conceptions formed of the goddess. Together with Sin, the moon-god,
   and Shamash, the sun-god, she is the third figure in a triad
   personifying the three great forces of nature--moon, sun and earth, as
   the life-force. The doctrine involved illustrates the tendency of the
   Babylonian priests to centralize the manifestations of divine power in
-  the universe, just as the triad Anu, Bel and Ea (q.v.)--the heavens,
+  the universe, just as the triad [[Anu]], [[Bel]] and Ea (q.v.)--the heavens,
   the earth and the watery deep--form another illustration of this same
   tendency.
 

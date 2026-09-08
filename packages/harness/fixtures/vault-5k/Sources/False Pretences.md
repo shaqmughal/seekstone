@@ -8,14 +8,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/False_Pret
 
 # False Pretences
 
-FALSE PRETENCES, in English law, the obtaining from any other person by
-any false pretence any chattel, money or valuable security, with intent
-to defraud. It is an indictable misdemeanour under the Larceny Act of
+FALSE PRETENCES, in [[English Law|English law]], the obtaining from any other person by
+any false pretence any chattel, money or valuable security, with [[Intent|intent]]
+to defraud. It is an indictable misdemeanour under the [[Larceny]] Act of
 1861. The broad distinction between this offence and larceny is that in
 the former the owner intends to part with his property, in the latter he
 does not. This offence dates as a statutory crime practically from 1756.
 At common law the only remedy originally available for an owner who had
-been deprived of his goods by fraud was an indictment for the crime of
+been deprived of his goods by [[Fraud|fraud]] was an indictment for the crime of
 cheating, or a civil action for deceit. These remedies were insufficient
 to cover all cases where money or other properties had been obtained by
 false pretences, and the offence was first partially created by a
@@ -41,7 +41,7 @@ after consuming it, says that he has no means of paying for it, it was
 usual to convict for obtaining food by false pretences. But _R._ v.
 _Jones_, 1898, L.R. 1 Q.B. 119 decided that it is neither larceny nor
 false pretences, but an offence under the Debtors Act 1869, of obtaining
-credit by fraud. (See also CHEATING; FRAUD; LARCENY.)
+[[Credit|credit]] by fraud. (See also CHEATING; FRAUD; LARCENY.)
 
 _United States._--American statutes on this subject are mainly copied
 from the English statutes, and the courts there in a general way follow
@@ -53,7 +53,7 @@ Rev. Stats. S 5435), or the false making of any order purporting to be a
 money order (id. S 5463).
 
 In Arizona, obtaining money or property by falsely personating another
-is punishable as for larceny (Penal Code, 1901, S 479). Obtaining credit
+is punishable as for larceny (Penal [[Code]], 1901, S 479). Obtaining credit
 by false pretences as to wealth and mercantile character is punishable
 by six months' imprisonment and a fine not exceeding three times the
 value of the money or property obtained (id. S 481).
@@ -65,7 +65,7 @@ goods, chattels or any valuable thing, or who procures another to make a
 false report of his honesty, wealth, &c., shall return the money, goods,
 &c., and be fined and imprisoned for a term not exceeding one year
 (Crim. Code, 1903, ch. xxxviii. SS 96, 97). Obtaining money or property
-by bogus cheques, the "confidence game" (_Dorr_ v. _People_, 1907, S
+by bogus cheques, the "confidence [[Game|game]]" (_Dorr_ v. _People_, 1907, S
 228, Ill. 216), or "three card monte," sleight of hand, fortune-telling,
 &c., is punishable by imprisonment for from one to ten years (id. SS 98,
 100). Obtaining goods from warehouse, mill or wharf by fraudulent
@@ -77,11 +77,11 @@ In Massachusetts it is simple larceny to obtain by false pretences the
 money or personal chattel of another (Rev. Laws, 1902, ch. ccviii. S
 26). Obtaining by a false pretence with intent to defraud the signature
 of a person to a written instrument, the false making whereof would be
-forgery, is punishable by imprisonment in a state prison or by fine (id.
+[[Forgery|forgery]], is punishable by imprisonment in a state prison or by fine (id.
 S 27).
 
-In New York, obtaining property by false pretences, felonious breach of
-trust and embezzlement are included in the term "larceny" (Penal Code, S
+In New York, obtaining property by false pretences, felonious [[Breach|breach]] of
+trust and [[Embezzlement|embezzlement]] are included in the term "larceny" (Penal Code, S
 528; _Paul_ v. _Dumar_, 106 N.Y. 508; _People_ v. _Tattlekan_, 1907, 104
 N.Y. Suppl. 805), but the methods of proof required to establish each
 crime remain as before the code. Obtaining lodging and food on credit at

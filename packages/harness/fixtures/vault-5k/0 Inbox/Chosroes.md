@@ -15,9 +15,9 @@ caused Chosroes to begin the war again in 540. He invaded Syria and
 carried the inhabitants of Antioch to his residence, where he built for
 them a new city near Ctesiphon under the name of Khosrau-Antioch or
 Chosro-Antioch. During the next years he fought successfully in Lazica
-or Lazistan (the ancient Colchis, q.v.), on the Black Sea, and in
-Mesopotamia. The Romans, though led by Belisarius, could do little
-against him. In 545 an armistice was concluded, but in Lazica the war
+or Lazistan (the ancient Colchis, q.v.), on the [[Black Sea]], and in
+Mesopotamia. The Romans, though led by [[Belisarius]], could do little
+against him. In 545 an [[Armistice|armistice]] was concluded, but in Lazica the war
 went on till 556. At last, in 562, a peace was concluded for 50 years,
 in which the Persians left Lazistan to the Romans, and promised not to
 persecute the Christians, if they did not attempt to make proselytes
@@ -31,10 +31,10 @@ the Ethiopians of Axum, applied to Chosroes for help. He sent a fleet
 with a small army under Vahriz, who expelled the Ethiopians. From that
 time till the conquests of Mahomet, Yemen was dependent on Persia, and a
 Persian governor resided here. In 571 a new war with Rome broke out
-about Armenia, in which Chosroes conquered the fortress Dara on the
-Euphrates, invaded Syria and Cappadocia, and returned with large booty.
+about [[Armenia]], in which Chosroes conquered the fortress Dara on the
+Euphrates, invaded Syria and [[Cappadocia]], and returned with large booty.
 During the negotiations with the emperor Tiberius Chosroes died in 579,
-and was succeeded by his son Hormizd IV.
+and was succeeded by his son [[Hormizd]] IV.
 
 Although Chosroes had in the last years of his father extirpated the
 heretical and communistic Persian sect of the Mazdakites (see KAVADH)
@@ -65,7 +65,7 @@ father was blinded and killed. But at the same time the general Bahram
 Chobin had proclaimed himself king, and Chosroes II. was not able to
 maintain himself. The war with the Romans, which had begun in 571, had
 not yet come to an end. Chosroes fled to Syria, and persuaded the
-emperor Maurice (q.v.) to send help. Many leading men and part of the
+emperor [[Maurice]] (q.v.) to send help. Many leading men and part of the
 troops acknowledged Chosroes, and in 591 he was brought back to
 Ctesiphon. Bahram Chobin was beaten and fled to the Turks, among whom he
 was murdered. Peace with Rome was then concluded. Maurice made no use of
@@ -76,7 +76,7 @@ and given to luxury; he was neither a general nor an administrator. At
 the beginning of his reign he favoured the Christians; but when in 602
 Maurice had been murdered by Phocas, he began war with Rome to avenge
 his death. His armies plundered Syria and Asia Minor, and in 608
-advanced to Chalcedon. In 613 and 614 Damascus and Jerusalem were taken
+advanced to Chalcedon. In 613 and 614 [[Damascus]] and Jerusalem were taken
 by the general Shahrbaraz, and the Holy Cross was carried away in
 triumph. Soon after, even Egypt was conquered. The Romans could offer
 but little resistance, as they were torn by internal dissensions, and

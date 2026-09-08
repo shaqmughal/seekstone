@@ -1,8 +1,8 @@
 # Bahadur Khel
 
-BAHADUR KHEL, an Indian salt-mine in the Kohat district of the North-West
+BAHADUR KHEL, an Indian salt-mine in the [[Kohat]] district of the North-West
 Frontier Province, in the range of hills south of the village of Bahadur
-Khel between Kohat and Bannu. For a space of 4 m. in length by a quarter of
+Khel between Kohat and [[Bannu]]. For a space of 4 m. in length by a quarter of
 a mile in breadth there exists an exposed mass of rock-salt with several
 large hillocks of salt on either side. The quarries extend over an area 1
 m. long by half a mile broad, and the salt is hewn out in large blocks with

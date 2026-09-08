@@ -8,7 +8,7 @@ quarters for a native cavalry and a native infantry regiment. Pop.
 
 The DISTRICT OF LORALAI was formed in 1903. It consists of a series of
 long, narrow valleys, hemmed in by rugged mountains, and bordered E. by
-Dera Ghazi Khan district of the Punjab. Area 7999 sq. m.; pop. (1901)
+[[Dera Ghazi Khan]] district of the Punjab. Area 7999 sq. m.; pop. (1901)
 67,864, of whom the majority are Afghans. The principal crops are wheat
 and millet; but the chief wealth of the inhabitants is derived from
 their herds of cattle, sheep and goats.

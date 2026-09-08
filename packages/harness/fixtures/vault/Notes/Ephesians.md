@@ -7,7 +7,7 @@ type: source
 
 # Ephesians
 
-EPHESIANS, EPISTLE TO THE. This book of the New Testament, the most
+EPHESIANS, [[Epistle|EPISTLE]] TO THE. This book of the New Testament, the most
 general and least occasional and polemic of all the Pauline epistles, a
 large section of which seems almost like the literary elaboration of a
 theological topic, may best be described as a solemn oration, addressed
@@ -19,26 +19,26 @@ measured by its theological or its literary interest and importance, it
 can fairly dispute with _Romans_ the claim to be his greatest epistle.
 In the public and private use of Christians some parts of _Ephesians_
 have been among the most favourite of all New Testament passages. Like
-its sister Epistle to the Colossians, it represents, whoever wrote it,
+its sister Epistle to the [[Colossians]], it represents, whoever wrote it,
 deep experience and bold use of reflection on the meaning of that
-experience; if it be from the pen of the Apostle Paul, it reveals to us
+experience; if it be from the pen of the [[Apostle]] Paul, it reveals to us
 a distinct and important phase of his thought.
 
 To the nature of the epistle correspond well the facts of its title and
 address. The title "To the Ephesians" is found in the Muratorian canon,
-in Irenaeus, Tertullian and Clement of Alexandria, as well as in all the
+in [[Irenaeus]], Tertullian and [[Clement]] of Alexandria, as well as in all the
 earliest MSS. and versions. Marcion, however (c. A.D. 150), used and
 recommended copies with the title "To the Laodiceans." This would be
 inexplicable if Eph. i. 1 had read in Marcion's copies, as it does in
 most ancient authorities, "To the saints which are at Ephesus"; but in
 fact the words [Greek: en Epheso] of verse 1 were probably absent. They
-were not contained in the text used by Origen (d. 253); Basil (d. 379)
+were not contained in the text used by Origen (d. 253); [[Basil]] (d. 379)
 says that "ancient copies" omitted the words; and they are actually
 omitted by Codices B (Vaticanus, 4th century) and [Hebrew: alef]
 (Sinaiticus, 4th century), together with Codex 67 (11th century). The
 words "in Ephesus" were thus probably originally lacking in the address,
 and were inserted from the suggestion of the title. Either the address
-was general ("to the saints who are also faithful") or else a blank was
+was general ("to the saints who are also faithful") or else a [[Blank|blank]] was
 left. In the latter case the name may have been intended to be supplied
 orally, in communicating the letter, or a different name may have been
 written in each of the individual copies. Under any of these hypotheses
@@ -51,7 +51,7 @@ the Ephesians," from one of the churches for which it was intended,
 perhaps the one from which a copy was secured when Paul's epistles were
 collected, shortly before or after the year 100. That our epistle is the
 one referred to in Col. iv. 16, which was to be had by the Colossians
-from Laodicea, is not unlikely. Such an identification doubtless led
+from [[Laodicea]], is not unlikely. Such an [[Identification|identification]] doubtless led
 Marcion to alter the title in his copies.
 
 The structure of _Ephesians_ is epistolary; it opens with the usual
@@ -67,7 +67,7 @@ thought of the epistle. Chapters iv.-vi. merely make application of the
 main ideas worked out in chapters i.-iii. Throughout the epistle we have
 a singular combination of the seemingly desultory method of a letter,
 turning aside at a word and straying wherever the mood of the moment
-leads, with the firm, forward march of earnest and mature thought. In
+leads, with the firm, forward march of [[Earnest|earnest]] and mature thought. In
 this combination resides the doubtless unconscious but nevertheless real
 literary art of the composition.
 
@@ -97,11 +97,11 @@ to be seen in many of the prominent ideas of the two writings,
 especially in the developed view of the central position of Christ in
 the whole universe; in the conception of the Church as Christ's body, of
 which He is the head; in the thought of the great Mystery, once secret,
-now revealed. There is further resemblance in the formal moral code,
+now revealed. There is further resemblance in the formal moral [[Code|code]],
 arranged by classes of persons, and having much the same contents in the
 two epistles (Eph. v. 22-vi. 9; Col. iii. 18-iv. 1). In both, also,
 Tychicus carries the letter, and in almost identical language the
-readers are told that he will by word of mouth give fuller information
+readers are told that he will by word of mouth give [[Fuller|fuller]] information
 about the apostle's affairs (Eph. vi. 21-22; Col. iv. 7-8). Moreover, in
 a great number of characteristic phrases and even whole verses the two
 are alike. Compare, for instance, Eph. i. 7, Col. i. 14; Eph. i. 10,
@@ -124,8 +124,8 @@ Tertullian and Clement of Alexandria, all writing at the end of the 2nd
 century. No doubt of the Pauline authorship was expressed in ancient
 times; nor is there any lack of early use by writers who make no direct
 quotation, to raise doubts as to the genuineness of the epistle. The
-influence of its language is probably to be seen in Ignatius, Polycarp
-and Hermas, less certainly in the epistle of Barnabas. Some resemblances
+influence of its language is probably to be seen in [[Ignatius]], Polycarp
+and [[Hermas]], less certainly in the epistle of Barnabas. Some resemblances
 of expression in Clement of Rome and in Second Clement may have
 significance. There is here abundant proof that the epistle was in
 existence, and was highly valued and influential with leaders of
@@ -145,18 +145,18 @@ similar relation exists between _Romans_ and _1 Peter_. In both cases
 the dependence is clearly on the part of _1 Peter_; for ideas and
 phrases that in _Ephesians_ and _Romans_ have their firm place in
 closely wrought sequences, are found in _1 Peter_ with less profound
-significance and transformed into smooth and pointed maxims and
+significance and transformed into smooth and pointed [[Maxims|maxims]] and
 apophthegmatic sentences.
 
 Objections to the genuineness of _Ephesians_ have been urged since the
 early part of the 19th century. The influence of Schleiermacher, whose
 pupil Leonhard Usteri in his _Entwickelung der paulinischen
 Lehrbegriffs_ (1824) expressed strong doubts as to _Ephesians_, carried
-weight. He held that Tychicus was the author. De Wette first (1826)
+weight. He held that Tychicus was the author. [[De Wette]] first (1826)
 doubted, then (1843) denied that the epistle was by Paul. The chief
 attack came, however, from Baur (1845) and his colleagues of the
 Tubingen school. Against the genuineness have appeared Ewald, Renan,
-Hausrath, Hilgenfeld, Ritschl, Pfleiderer, Weizsacker, Holtzmann, von
+Hausrath, [[Hilgenfeld]], Ritschl, Pfleiderer, Weizsacker, [[Holtzmann]], von
 Soden, Schmiedel, von Dobschutz and many others. On the other hand, the
 epistle has been defended by Bleek, Neander, Reuss, B. Weiss, Meyer,
 Sabatier, Lightfoot, Hort, Sanday, Bacon, Julicher, Harnack, Zahn and
@@ -204,9 +204,9 @@ suggest the thought of John and a later age. Among the most important
 points in which the ideas and implications of _Ephesians_ suggest an
 authorship and a period other than that of Paul are the following:
 
-(a) The union of Gentiles and Jews in one body is already accomplished.
+(a) The union of [[Gentile|Gentiles]] and Jews in one body is already accomplished.
 (b) The Christology is more advanced, uses Alexandrian terms, and
-suggests the ideas of the Gospel of John. (c) The conception of the
+suggests the ideas of the [[Gospel]] of John. (c) The conception of the
 Church as the body of Christ is new. (d) There is said to be a general
 softening of Pauline thought in the direction of the Christianity of the
 2nd century, while very many characteristic ideas of the earlier
@@ -256,7 +256,7 @@ superior to the original in literary workmanship and power of thought,
 and bearing every appearance of earnest sincerity. It must further be
 supposed that the name and the very existence of this genius were
 totally forgotten in Christian circles fifty years after he wrote. The
-balance of evidence seems to lie on the side of the genuineness of the
+[[Balance|balance]] of evidence seems to lie on the side of the genuineness of the
 Epistle.
 
 If _Ephesians_ was written by Paul, it was during the period of his
@@ -282,11 +282,11 @@ although this theory is not wholly free from difficulties.
   Ellicott (1855, 4th ed. 1868), H.A.W. Meyer (4th ed., 1867), (Eng.
   trans. 1880), T.K. Abbott (1897), J.A. Robinson (1903, 2nd ed. 1904);
   in German by H. von Soden (in _Hand-Commentar_) (1891, 2nd ed. 1893),
-  E. Haupt (in Meyer's _Kommentar_) (8th ed., 1902). J.B. Lightfoot's
+  E. [[Haupt]] (in Meyer's _Kommentar_) (8th ed., 1902). J.B. Lightfoot's
   commentary on _Colossians_ (1875, 3rd ed. 1879) is important for
   _Ephesians_ also. On the English text see H.C.G. Moule (in Cambridge
   Bible for Schools) (1887). R.W. Dale, _Epistle to the Ephesians; its
-  Doctrine and Ethics_ (1882), is a valuable series of expository
+  Doctrine and [[Ethics]]_ (1882), is a valuable series of expository
   discourses.
 
   Questions of genuineness, purpose, &c., are discussed in the New
@@ -302,7 +302,7 @@ although this theory is not wholly free from difficulties.
   A.C. McGiffert (1897).
 
   On early attestation see A.H. Charteris, _Canonicity_ (1880) and the
-  _New Testament in the Apostolic Fathers_ (Oxford, 1905).
+  _New Testament in the [[Apostolic Fathers]]_ (Oxford, 1905).
 
   The theological ideas of Ephesians are also discussed in some of the
   works on Paul's theology; see especially F.C. Baur, _Paulus_ (1845,
@@ -312,7 +312,7 @@ although this theory is not wholly free from difficulties.
   1882-1883); H. Holtzmann (1897), and G.B. Stevens (1899). See also
   Somerville, _St Paul's Conception of Christ_ (1897).
 
-  For a guide to other literature see W. Lock, art. "Ephesians, Epistle
+  For a guide to other literature see W. [[Lock]], art. "Ephesians, Epistle
   to," in Hastings's _Dictionary of the Bible_, the various works of
   Holtzmann above referred to, and T.K. Abbott's _Commentary_, pp.
   35-40.     (J. H. Rs.)

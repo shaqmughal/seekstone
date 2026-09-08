@@ -6,7 +6,7 @@ Oxford, of which he became a scholar a year later, and in 1660 he was
 elected to a fellowship at All Souls. He graduated in law (bachelor,
 1665, doctor, 1670), but made medicine his profession, and "became noted
 for his practice therein, especially in the summer time, in the city of
-Bath." In 1678, on the proposal of R. Hooke, he was chosen a fellow of
+Bath." In 1678, on the proposal of R. [[Hooke]], he was chosen a [[Fellow|fellow]] of
 the Royal Society. The following year, after a marriage which was "not
 altogether to his content," he died in London in September 1679. He
 published at Oxford in 1668 two tracts, on respiration and rickets, and
@@ -19,7 +19,7 @@ translated into Dutch, German and French, show him to have been an
 investigator much in advance of his time.
 
   Accepting as proved by Boyle's experiments that air is necessary for
-  combustion, he showed that fire is supported not by the air as a whole
+  [[Combustion|combustion]], he showed that fire is supported not by the air as a whole
   but by a "more active and subtle part of it." This part he called
   _spiritus igneo-aereus_, or sometimes _nitro-aereus_; for he
   identified it with one of the constituents of the acid portion of
@@ -30,11 +30,11 @@ investigator much in advance of his time.
   antimony, strongly heated with a burning glass, undergoes an increase
   of weight which can be attributed to nothing else but these particles.
   In respiration he argued that the same particles are consumed, because
-  he found that when a small animal and a lighted candle were placed in
+  he found that when a small animal and a lighted [[Candle|candle]] were placed in
   a closed vessel full of air the candle first went out and soon
   afterwards the animal died, but if there was no candle present it
   lived twice as long. He concluded that this constituent of the air is
-  absolutely necessary for life, and supposed that the lungs separate it
+  absolutely necessary for life, and supposed that the [[Lung|lungs]] separate it
   from the atmosphere and pass it into the blood. It is also necessary,
   he inferred, for all muscular movements, and he thought there was
   reason to believe that the sudden contraction of muscle is produced by
@@ -46,7 +46,7 @@ investigator much in advance of his time.
   these two sets of particles in muscle during violent exertion. In
   effect, therefore, Mayow--who also gives a remarkably correct
   anatomical description of the mechanism of respiration--preceded
-  Priestley and Lavoisier by a century in recognizing the existence of
+  Priestley and [[Lavoisier]] by a century in recognizing the existence of
   oxygen, under the guise of his _spiritus nitro-aereus_, as a separate
   entity distinct from the general mass of the air; he perceived the
   part it plays in combustion and in increasing the weight of the calces

@@ -28,8 +28,8 @@ the citizens of Thetford. After the brief rule of Anlaf Cuaran in
 Northumbria, Eric was once more restored, probably in 950, only to be
 expelled again in 953 or 954, when Edred took the Northumbrian kingdom
 into his own hands. In the same year Wulfstan was liberated and
-appointed to the Mercian bishopric of Dorchester. Edred died on the 23rd
-of November 955 at Frome, in Somersetshire, and was buried in the old
+appointed to the Mercian bishopric of [[Dorchester]]. Edred died on the 23rd
+of November 955 at [[Frome]], in Somersetshire, and was buried in the old
 minster at Winchester. During the whole of his life Edred was troubled
 by ill-health, a fact which may help to explain some of the more
 passionate acts of violence attributed to him. The king was throughout
@@ -39,7 +39,7 @@ So far as we know, Edred was never married.
 
   AUTHORITIES.--The _Saxon Chronicle_ (ed. Earle and Plummer, Oxford),
   _sub ann._; _Memorials of St Dunstan_ (Rolls Series, ed. Stubbs);
-  Florence of Worcester; Birch, _Cartularium Saxonicum_, vol. iii., Nos.
+  Florence of Worcester; [[Birch]], _Cartularium Saxonicum_, vol. iii., Nos.
   815-834 and 860-931; _D.N.B._, art. _sub voce_.     (A. Mw.)
 
 ## See also

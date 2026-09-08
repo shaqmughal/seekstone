@@ -31,22 +31,22 @@ sculpture. On one side stood a pyramid 40 orgyiae, or about 243 ft.
 high. Herodotus himself went through the upper chambers, but was not
 permitted to visit those underground, which he was told contained the
 tombs of the kings who had built the labyrinth, and of the sacred
-crocodiles. Other ancient authorities considered that it was built as a
+[[Crocodile|crocodiles]]. Other ancient authorities considered that it was built as a
 place of meeting for the Egyptian nomes or political divisions; but it
 is more likely that it was intended for sepulchral purposes. It was the
 work of Amenemhe III., of the 12th dynasty, who lived about 2300 B.C. It
 was first located by the Egyptologist Lepsius to the north of Hawara in
-the Fayum, and (in 1888) Flinders Petrie discovered its foundation, the
+the Fayum, and (in 1888) [[Flinders]] Petrie discovered its foundation, the
 extent of which is about 1000 ft. long by 800 ft. wide. Immediately to
 the north of it is the pyramid of Hawara, in which the mummies of the
 king and his daughter have been found (see W. M. Flinders Petrie,
 _Hawara, Biahmu, and Arsinoë_, 1889).
 
-2. The Cretan: said to have been built by Daedalus on the plan of the
+2. The Cretan: said to have been built by [[Daedalus]] on the plan of the
 Egyptian, and famous for its connexion with the legend of the Minotaur.
 It is doubtful whether it ever had any real existence and Diodorus
 Siculus says that in his time it had already disappeared. By the older
-writers it was placed near Cnossus, and is represented on coins of that
+writers it was placed near Cnossus, and is represented on [[Coin|coins]] of that
 city, but nothing corresponding to it has been found during the course
 of the recent excavations, unless the royal palace was meant. The rocks
 of Crete are full of winding caves, which gave the first idea of the
@@ -65,11 +65,11 @@ Porsena at Clusium. This tomb was 300 ft. square and 50 ft. high, and
 underneath it was a labyrinth, from which it was exceedingly difficult
 to find an exit without the assistance of a clew of thread. It has been
 maintained that this tomb is to be recognized in the mound named Poggio
-Gajella near Chiusi.
+Gajella near [[Chiusi]].
 
 Lastly, Pliny (xxxvi. 19) applies the word to a rude drawing on the
 ground or pavement, to some extent anticipating the modern or garden
-maze.
+[[Maze|maze]].
 
   On the Egyptian labyrinth see A. Wiedemann, _Ägyptische Geschichte_
   (1884), p. 258, and his edition of the second book of Herodotus
@@ -91,10 +91,10 @@ consists of walks, or alleys as they were formerly called, laid out and
 kept to an equal width or nearly so by parallel hedges, which should be
 so close and thick that the eye cannot readily penetrate them. The task
 is to get to the centre, which is often raised, and generally contains
-a covered seat, a fountain, a statue or even a small group of trees.
+a covered seat, a [[Fountain|fountain]], a statue or even a small group of trees.
 After reaching this point the next thing is to return to the entrance,
 when it is found that egress is as difficult as ingress. To every design
-of this sort there should be a key, but even those who know the key are
+of this sort there should be a [[Key|key]], but even those who know the key are
 apt to be perplexed. Sometimes the design consists of alleys only, as in
 fig. 1, published in 1706 by London and Wise. In such a case, when the
 farther end is reached, there only remains to travel back again. Of a
@@ -120,15 +120,15 @@ noblest of its kind in the world."
   wanderer. The trees used should be impenetrable to the eye, and so
   tall that no one can look over them; and the paths should be of gravel
   and well kept. The trees chiefly used for the hedges, and the best for
-  the purpose, are the hornbeam among deciduous trees, or the yew among
-  evergreens. The beech might be used instead of the hornbeam on
-  suitable soil. The green holly might be planted as an evergreen with
-  very good results, and so might the American arbor vitae if the
+  the purpose, are the hornbeam among [[Deciduous|deciduous]] trees, or the yew among
+  evergreens. The [[Beech|beech]] might be used instead of the hornbeam on
+  suitable soil. The green [[Holly|holly]] might be planted as an evergreen with
+  very good results, and so might the American [[Arbor Vitae|arbor vitae]] if the
   natural soil presented no obstacle. The ground must be well prepared,
   so as to give the trees a good start, and a mulching of manure during
   the early years of their growth would be of much advantage. They must
   be kept trimmed in or clipped, especially in their earlier stages;
-  trimming with the knife is much to be preferred to clipping with
+  trimming with the [[Knife|knife]] is much to be preferred to clipping with
   shears. Any plants getting much in advance of the rest should be
   topped, and the whole kept to some 4 ft. or 5 ft. in height until the
   lower parts are well thickened, when it may be allowed to acquire the
@@ -161,7 +161,7 @@ noblest of its kind in the world."
   each side of the hedges throughout the labyrinth is a small strip of
   grass.
 
-  There was also a labyrinth at Theobald's Park, near Cheshunt, when
+  There was also a labyrinth at Theobald's Park, near [[Cheshunt]], when
   this place passed from the earl of Salisbury into the possession of
   James I. Another is said to have existed at Wimbledon House, the seat
   of Earl Spencer, which was probably laid out by Brown in the 18th
@@ -169,7 +169,7 @@ noblest of its kind in the world."
   fig. 2, at Mistley Place, Manningtree.
 
   When the gardens of the Royal Horticultural Society at South
-  Kensington were being planned, Albert, Prince Consort, the president
+  [[Kensington]] were being planned, Albert, Prince Consort, the president
   of the society, especially desired that there should be a maze formed
   in the ante-garden, which was made in the form shown in fig. 6. This
   labyrinth, designed by Lieut. W. A. Nesfield, was for many years the

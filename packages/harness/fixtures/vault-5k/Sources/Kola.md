@@ -7,12 +7,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Kola"
 
 # Kola
 
-KOLA, a peninsula of northern Russia, lying between the Arctic Ocean on
+KOLA, a peninsula of northern Russia, lying between the [[Arctic]] Ocean on
 the N. and the White Sea on the S. It forms part of the region of
 Lapland and belongs administratively to the government of Archangel. The
 Arctic coast, known as the Murman coast (Murman being a corruption of
 Norman), is 260 m. long, and being subject to the influence of the North
-Atlantic drift, is free from ice all the year round. It is a rocky
+Atlantic [[Drift|drift]], is free from ice all the year round. It is a rocky
 coast, built of granite, and rising to 650 ft., and is broken by several
 excellent bays. On one of these, Kola Bay, the Russian government
 founded in 1895 the naval harbour of Alexandrovsk. From May to August a

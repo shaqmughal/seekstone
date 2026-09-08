@@ -6,7 +6,7 @@ topic: philosophers
 
 # Holy Alliance
 
-HOLY ALLIANCE, THE. The famous treaty, or declaration, known by this
+HOLY ALLIANCE, THE. The famous treaty, or [[Declaration|declaration]], known by this
 name was signed in the first instance by Alexander I., emperor of
 Russia, Francis I., emperor of Austria, and Frederick William III., king
 of Prussia, on the 26th of September 1815, and was proclaimed by the
@@ -47,7 +47,7 @@ is as follows:--
   Art. I. Conformably to the words of the Holy Scriptures which command
   all men to consider each other as brethren, the Three contracting
   Monarchs will remain united by the bonds of a true and indissoluble
-  fraternity, and, considering each other as fellow countrymen, they
+  fraternity, and, considering each other as [[Fellow|fellow]] countrymen, they
   will, on all occasions and in all places, lend each other aid and
   assistance; and, regarding themselves towards their subjects and
   armies as fathers of families, they will lead them, in the same spirit
@@ -67,7 +67,7 @@ is as follows:--
   Christian world, of which they and their people form a part, has in
   reality no other Sovereign than Him to whom alone power really
   belongs, because in Him alone are found all the treasures of love,
-  science and infinite wisdom, that is to say, God, our Divine Saviour,
+  science and [[Infinite|infinite]] wisdom, that is to say, God, our Divine Saviour,
   the Word of the Most High, the Word of Life. Their Majesties
   consequently recommend to their people, with the most tender
   solicitude, as the sole means of enjoying that Peace which arises from
@@ -84,7 +84,7 @@ is as follows:--
   mankind all the influence which belongs to them, will be received with
   equal ardour and affection into this Holy Alliance.
 
-The credit for inspiring this singular document was claimed by the
+The [[Credit|credit]] for inspiring this singular document was claimed by the
 Baroness von Krudener (q.v.); in any case it was the outcome of the
 tsar's mood of evangelical exaltation, and was in its inception
 perfectly sincere. Neither Frederick William nor Francis signed
@@ -99,17 +99,17 @@ ground that all acts of the British crown required the counter-signature
 of a minister, but he sent a letter expressing his "entire concurrence
 with the principles laid down by the 'august sovereigns' and stating
 that it would always be his endeavour to regulate his conduct by their
-'sacred maxims.'" With these exceptions, all the European sovereigns
+'sacred [[Maxims|maxims]].'" With these exceptions, all the European sovereigns
 sooner or later appended their names.
 
 In popular parlance, which has found its way into the language of
 serious historians, the "Holy Alliance" soon became synonymous with the
-combination of the great powers by whom Europe was ruled in concert
+combination of the great powers by whom Europe was ruled in [[Concert|concert]]
 during the period of the congresses, and associated with the policy of
 reaction which gradually dominated their counsels. For the understanding
-of the inner history of the diplomacy of this period, however, a clear
+of the inner history of the [[Diplomacy|diplomacy]] of this period, however, a clear
 distinction must be drawn between the Holy Alliance and the Grand, or
-Quadruple (Quintuple) Alliance. The Grand Alliance was established on
+Quadruple (Quintuple) Alliance. The [[Grand Alliance]] was established on
 definite treaties concluded for definite purposes, of which the chief
 was the preservation of peace on the basis of the territorial settlement
 of 1815. The Holy Alliance was a general treaty--hardly indeed a treaty
@@ -139,7 +139,7 @@ view of those who interpreted its principles. It was capable of other
 and more noble interpretations, and it was avowedly the inspiration of
 the famous rescript of the emperor Nicholas II., embodied in the
 circular of Count Muraviev to the European courts (August 4th, 1898),
-which issued in the first international peace conference at the Hague in
+which issued in the first [[International|international]] peace conference at the [[Hague]] in
 1899.     (W. A. P.)
 
 ## References

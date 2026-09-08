@@ -15,13 +15,13 @@ concerned with inter-tribal disputes. Later, he was sent by a sick uncle
 to get a remedy from Mahomet at Medina and on this occasion was much
 influenced by a part of the Koran. He accepted Islam soon after, but
 seems then to have ceased writing. In Omar's caliphate he is said to
-have settled in Kufa. Tradition ascribes to him a long life, but dates
+have settled in [[Kufa]]. Tradition ascribes to him a long life, but dates
 given are uncertain and contradictory. One of his poems is contained in
 the _Mo'allakat_ (q.v.).
 
   Twenty of his poems were edited by Chalidi (Vienna, 1880); another
   thirty-five, with fragments and a German translation of the whole,
-  were edited (partly from the remains of A. Huber) by C. Brockelmann
+  were edited (partly from the remains of A. [[Huber]]) by C. Brockelmann
   (Leiden, 1892); cf. A. von Kremer, _Über die Gedichte des Lebyd_
   (Vienna, 1881). Stories of Labid are contained in the
   _Kitabul-Aghani_, xiv. 93 ff. and xv. 137 ff.     (G. W. T.)

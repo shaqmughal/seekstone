@@ -35,7 +35,7 @@ corresponding symbol of the European alphabet is not striking. But the
 position of the limbs of symbols in early alphabets often varies
 surprisingly. In Greek, besides F we find for _f_ in Pamphylia (the only
 Greek district in Asia which possesses the symbol) [symbol], and in
-Boeotia, Thessaly, Tarentum, Cumae and on Chalcidian vases of Italy the
+[[Boeotia]], Thessaly, Tarentum, Cumae and on Chalcidian vases of Italy the
 form [symbol], though except at Cumae and on the vases the form F exists
 contemporaneously with [symbol] or even earlier. At the little town of
 Falerii (Civita Castellana), whose alphabet is undoubtedly of the same
@@ -51,7 +51,7 @@ bilabial voiced sound, not the labio-dental unvoiced sound which we call
 _f_. When the Romans adopted the Greek alphabet they took over the
 symbols with their Greek values. But Greek had no sound corresponding to
 the Latin _f_, for [phi] was pronounced _p-h_, like the final sound of
-_lip_ in ordinary English or the initial sound of _pig_ in Irish
+_[[Lip|lip]]_ in ordinary English or the initial sound of _pig_ in Irish
 English. Consequently in the very old inscription on a gold fibula found
 at Praeneste and published in 1887 (see ALPHABET) the Latin _f_ is
 represented by FB. Later, as Latin did not use F for the consonant
@@ -62,8 +62,8 @@ Etruscan, a special form appears for _f_, viz. 8, the old form [symbol]
 being kept for the other consonant _v_ (i.e. English _w_). The 8 has
 generally been asserted to be developed out of the second element in the
 combination FB, its upper and lower halves being first converted into
-lozenges, [symbol], which naturally changed to 8 when inscribed without
-lifting the writing or incising implement. Recent discoveries, however,
+[[Lozenge|lozenges]], [symbol], which naturally changed to 8 when inscribed without
+lifting the writing or incising [[Implement|implement]]. Recent discoveries, however,
 make this doubtful (see ALPHABET).     (P. Gi.)
 
 ## See also

@@ -5,24 +5,24 @@ May of Mayfield, Sussex, was born in 1595. He entered Sidney Sussex
 College, Cambridge, in 1609, and took his B.A. degree three years later.
 His father having lost his fortune and sold the family estate, Thomas
 May, who was hampered by an impediment in his speech, made literature
-his profession. In 1620 he produced _The Heir_, an ingeniously
+his profession. In 1620 he produced _The [[Heir]]_, an ingeniously
 constructed comedy, and, probably about the same time, _The Old Couple_,
 which was not printed until 1658. His other dramatic works are classical
-tragedies on the subjects of Antigone, Cleopatra, and Agrippina. F. G.
+tragedies on the subjects of [[Antigone]], [[Cleopatra]], and Agrippina. F. G.
 Fleay has suggested that the more famous anonymous tragedy of _Nero_
 (printed 1624, reprints in A. H. Bullen's _Old English Plays_ and the
 _Mermaid Series_) should also be assigned to May. But his most important
 work in the department of pure literature was his translation (1627)
 into heroic couplets of the _Pharsalia_ of Lucan. Its success led May to
-write a continuation of Lucan's narrative down to the death of Caesar.
+write a continuation of Lucan's narrative down to the death of [[Caesar]].
 Charles I. became his patron, and commanded him to write metrical
 histories of Henry II. and Edward III., which were completed in 1635.
-When the earl of Pembroke, then lord chamberlain, broke his staff across
+When the earl of Pembroke, then [[Lord Chamberlain|lord chamberlain]], broke his staff across
 May's shoulders at a masque, the king took him under his protection as
-"my poet," and Pembroke made him an apology accompanied with a gift of
+"my poet," and Pembroke made him an [[Apology|apology]] accompanied with a gift of
 £50. These marks of the royal favour seem to have led May to expect the
 posts of poet-laureate and city chronologer when they fell vacant on the
-death of Ben Jonson in 1637, but he was disappointed, and he forsook the
+death of [[Ben]] [[Jonson]] in 1637, but he was disappointed, and he forsook the
 court and attached himself to the party of the Parliament. In 1646 he is
 styled one of the "secretaries" of the Parliament, and in 1647 he
 published his best known work, _The History of the Long Parliament_. In
@@ -34,11 +34,11 @@ invective, he accomplished his purpose, according to Guizot, by
 foreseen by May, who says in his preface that if he gives more
 information about the Parliament men than their opponents it is that he
 was more conversant with them and their affairs. In 1650 he followed
-this with another work written with a more definite bias, a _Breviary of
+this with another work written with a more definite [[Bias|bias]], a _[[Breviary]] of
 the History of the Parliament of England_, in Latin and English, in
 which he defended the position of the Independents. He stopped short of
-the catastrophe of the king's execution, and it seems likely that his
-subservience to Cromwell was not quite voluntary. In February 1650 he
+the [[Catastrophe|catastrophe]] of the king's execution, and it seems likely that his
+subservience to [[Cromwell]] was not quite voluntary. In February 1650 he
 was brought to London from Weymouth under a strong guard for having
 spread false reports of the Parliament and of Cromwell. He died on the
 13th of November in the same year, and was buried in Westminster Abbey,

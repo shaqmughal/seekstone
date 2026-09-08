@@ -8,7 +8,7 @@ type: reference
 # Coehoorn
 
 COEHOORN, MENNO, BARON VAN (1641-1704), Dutch soldier and military
-engineer, of Swedish extraction, was born at Leeuwarden in Friesland. He
+engineer, of Swedish extraction, was born at [[Leeuwarden]] in Friesland. He
 received an excellent military and general education, and at the age of
 sixteen became a captain in the Dutch army. He took part in the defence
 of Maastricht in 1673 and in the siege of Grave in the same year, where
@@ -56,13 +56,13 @@ of the Netherlands fortresses, and the high-German peoples as well as
 his own countrymen honoured him. He commanded a corps in the army of the
 duke of Marlborough from 1701 to 1703, and in the constant siege warfare
 of these campaigns in the Low Countries his technical skill was of the
-highest value. The swift reduction of the fortress of Bonn and the siege
+highest value. The swift reduction of the fortress of [[Bonn]] and the siege
 of Huy in 1703 were his crowning successes. At the opening of his
 following campaign he was on his way to confer with Marlborough when he
 died of apoplexy at Wijkel on the 17th of March 1704.
 
 His "first system" was applied to numerous places in Holland, notably
-Nijmwegen, Breda and Bergen-op-Zoom. Mannheim in Germany was also
+Nijmwegen, Breda and Bergen-op-Zoom. [[Mannheim]] in Germany was also
 fortified in this way, while the "secondsystem" was applied to Belgrade
 and Temesvár in eastern Europe.
 
@@ -72,13 +72,13 @@ and Temesvár in eastern Europe.
   Entstehen und Wesen der neueren Befestigungsmethode_ (1844); Cosseran
   de Villenoisy, _Essai historique sur la fortification_ (1869); Mandar,
   _Architecture des forteresses_ (1801); Krayenhoff, _Verhandeling over
-  de erste versterkingsmanier van Coehoorn_ (Hague, 1823); Bosscha,
+  de erste versterkingsmanier van Coehoorn_ ([[Hague]], 1823); Bosscha,
   _Nederlandsche heldend te Land_ (Amsterdam, 1838); Dewez, _Histoire de
   Belgique_ (Brussels, 1823); Ypey, _Narratio de rebus gestis Mennonis
   Cohorni_ (1771); Hennert, _Dissertation sur la fortification
   permanente_ (1795); Böhms, _Gründliche Anleitung zur Kriegsbaukunst_
   (1776); _Axiomatas of allgemeene bekentnisse over de Vestinghbouw door
-  Menno Baron van Coehoorn, Uytgewerkt door E. W. Berg_ (MS. in Dutch
+  Menno Baron van Coehoorn, Uytgewerkt door E. W. [[Berg]]_ (MS. in Dutch
   Ministry of War); Bousmard, _Essai général de fortification_ (1797);
   also the article FORTIFICATION AND SIEGECRAFT.
 

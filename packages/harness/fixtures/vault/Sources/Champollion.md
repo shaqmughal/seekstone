@@ -9,24 +9,24 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Champollio
 # Champollion
 
 CHAMPOLLION, JEAN FRANCOIS (1790-1832), French Egyptologist, called LE
-JEUNE to distinguish him from Champollion-Figeac (q.v.), his elder
-brother, was born at Figeac, in the department of Lot, on the 23rd of
+JEUNE to distinguish him from [[Champollion-Figeac]] (q.v.), his elder
+brother, was born at Figeac, in the department of [[Lot]], on the 23rd of
 December 1790. He was educated by his brother, and was then appointed
-government pupil at the Lyceum, which had recently been founded. His
+government pupil at the [[Lyceum]], which had recently been founded. His
 first work (1804) was an attempt to show by means of their names that
-the giants of the Bible and of Greek mythology were personifications of
+the [[Giant|giants]] of the Bible and of Greek mythology were personifications of
 natural phenomena. At the age of sixteen (1807) he read before the
-academy of Grenoble a paper in which he maintained that the Coptic was
+academy of [[Grenoble]] a paper in which he maintained that the Coptic was
 the ancient language of Egypt. He soon after removed to Paris, where he
 enjoyed the friendship of Langles, De Sacy and Millin. In 1809 he was
 made professor of history in the Lyceum of Grenoble, and there published
 his earlier works. Champollion's first decipherment of hieroglyphics
 dates from 1821. In 1824 he was sent by Charles X. to visit the
-collections of Egyptian antiquities in the museums of Turin, Leghorn,
+collections of Egyptian antiquities in the museums of Turin, [[Leghorn]],
 Rome and Naples; and on his return he was appointed director of the
 Egyptian museum at the Louvre. In 1828 he was commissioned to undertake
 the conduct of a scientific expedition to Egypt in company with
-Rosellini, who had received a similar appointment from Leopold II.,
+Rosellini, who had received a similar appointment from [[Leopold]] II.,
 grand duke of Tuscany. He remained there about a year. In March 1831 he
 received the chair of Egyptian antiquities, which had been created
 specially for him, in the College de France. He was engaged with

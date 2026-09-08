@@ -1,20 +1,20 @@
 # Dominic
 
 DOMINIC, SAINT (1170-1221), founder of the Dominican Order of Preaching
-Friars, was born in 1170 at Calaroga in Old Castile. He spent ten or
+[[Friar|Friars]], was born in 1170 at Calaroga in Old Castile. He spent ten or
 twelve years in study, chiefly theological, at Palencia, and then, about
 1195, he was ordained and became a canon in the cathedral chapter of
 Osma, his native diocese. The bishop induced his canons to follow the
-Rule of St Augustine and thus make themselves Augustinian Canons (q.v.);
+Rule of St Augustine and thus make themselves [[Augustinian Canons]] (q.v.);
 and so Dominic became a canon regular and soon the prior or provost of
 the cathedral community. The years from 1195 to 1203 have been filled up
 with fabulous stories of missions to the Moors; but Dominic stayed at
 Osma, preaching much in the cathedral, until 1203, when he accompanied
-the bishop on an embassy in behalf of the king of Castile to "The
-Marches." This has commonly been taken as Denmark, but more probably it
+the bishop on an [[Embassy|embassy]] in behalf of the king of Castile to "The
+[[Marches]]." This has commonly been taken as [[Denmark]], but more probably it
 was the French or Italian Marches. When the embassy was over, the bishop
-and Dominic repaired to Rome, and Innocent III. charged them to preach
-among the Albigensian heretics in Languedoc. For ten years (1205-1215)
+and Dominic repaired to Rome, and [[Innocent]] III. charged them to preach
+among the Albigensian heretics in [[Languedoc]]. For ten years (1205-1215)
 this mission in Languedoc was the work of Dominic's life.
 
 The Albigenses (q.v.) have received much sympathy, as being a kind of
@@ -24,7 +24,7 @@ two gods, a good (whose son was Christ) and an evil (whose son was
 Satan); matter is the creation of the evil principle, and therefore
 essentially evil, and the greatest of all sins is sexual intercourse,
 even in marriage; sinful also is the possession of material goods, and
-the eating of flesh meat, and many other things. So great was the
+the eating of flesh [[Meat|meat]], and many other things. So great was the
 abhorrence of matter that some even thought it an act of religion to
 commit suicide by voluntary starvation, or to starve children to death
 (see article "Neu-Manichäer" by Otto Zöckler in ed. 3 of Herzog's
@@ -79,9 +79,9 @@ Toulouse, Dominic's great friend, established them in a church and house
 of the city, and Dominic went to Rome to obtain the permission of
 Innocent III. to found his order of preachers. The course of events is
 traced in the article DOMINICANS. After three years, in 1218, the full
-permission he desired was given by Honorius III. These last years of his
+permission he desired was given by [[Honorius]] III. These last years of his
 life were spent in journeying backwards and forwards between Toulouse
-and Rome, where his abode was at the basilica of Santa Sabina on the
+and Rome, where his abode was at the [[Basilica|basilica]] of Santa Sabina on the
 Aventine, given to him by the pope; and then in extended journeys all
 over Italy, and to Paris, and into Spain, establishing friaries and
 organizing the order wherever he went. It propagated and spread with
@@ -93,12 +93,12 @@ death able to contemplate his great creation solidly established, and
 well launched on its career to preach to the whole world.
 
 It appears that at the end of his life Dominic had the idea of going
-himself to preach to the heathen Kuman Tatars on the Dnieper and the
+himself to preach to the [[Heathen|heathen]] Kuman Tatars on the [[Dnieper]] and the
 Volga. But this was not to be; he was worn out by the incessant toils
 and fatigues and austerities of his laborious life, and he died at his
 monastery at Bologna, on the 6th of August 1221. He was canonized in
 1234 by Gregory IX., who, as Cardinal Ugolino, had been the great friend
-and supporter both of Dominic and of Francis of Assisi. As St Dominic's
+and supporter both of Dominic and of [[Francis Of Assisi|Francis of Assisi]]. As St Dominic's
 character and work do not receive the same general recognition as do St
 Francis of Assisi's, it will be worth while to quote from the
 appreciation by Prof. Grützmacher of Heidelberg:--"It is certain that
@@ -110,14 +110,14 @@ which he strove to carry out his ideal, he was not inferior to Francis."
 
   The chief sources for St Dominic's life are the account by Jordan of
   Saxony, his successor as master-general of the order, and the evidence
-  of the witnesses at the Process of Canonization,--all in the
+  of the witnesses at the Process of [[Canonization]],--all in the
   Bollandists' _Acta sanctorum_, Aug. 4. Probably the best modern Life
   is that by Jean Guiraud, in the series _Les Saints_ (translated into
   English by Katharine de Mattos, 1901); the bibliography contains a
   useful list of the chief sources for the history of St Dominic and the
   order, and of the best modern works thereon. See also the article
   "Dominicus" in ed. 2 of Wetzer and Welte, _Kirchenlexicon_, and
-  Grützmacher's excellent article "Dominikus," in ed. 3 of Herzog,
+  Grützmacher's excellent article "Dominikus," in ed. 3 of [[Herzog]],
   _Realencyklopadie für protestantische Theologie_, already referred to.
        (E. C. B.)
 

@@ -10,8 +10,8 @@ Mary is mainly Perpendicular, and contains a Norman font and monuments
 of the 18th century. To the north of the village, which has extended
 greatly as a residential suburb of the metropolis, is Mill Hill, with a
 Roman Catholic Missionary College, opened in 1871, with branches at
-Rosendaal, Holland and Brixen, Austria, and a preparatory school at
-Freshfield near Liverpool; and a large grammar school founded by
+Rosendaal, Holland and [[Brixen]], Austria, and a preparatory school at
+Freshfield near [[Liverpool]]; and a large grammar school founded by
 Nonconformists in 1807. The manor belonged at an early date to the abbot
 of Westminster.
 

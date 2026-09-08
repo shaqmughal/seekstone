@@ -14,14 +14,14 @@ the name is now given to a species of vulture. The griffin was said to
 inhabit Asiatic Scythia, where gold and precious stones were abundant;
 and when strangers approached to gather these the creatures leapt upon
 them and tore them in pieces, thus chastising human avarice and greed.
-The one-eyed Arimaspi waged constant war with them, according to
+The one-eyed [[Arimaspi]] waged constant war with them, according to
 Herodotus (iii. 16). Sir John de Mandeville, in his _Travels_, described
 a griffin as eight times larger than a lion.
 
 The griffin is frequently seen as a charge in heraldry (see HERALDRY,
 fig. 163); and in architectural decoration is usually represented as a
 four-footed beast with wings and the head of a leopard or tiger with
-horns, or with the head and beak of an eagle; in the latter case, but
+[[Horn|horns]], or with the head and beak of an eagle; in the latter case, but
 very rarely, with two legs. To what extent it owes its origin to Persian
 sculpture is not known, the capitals at Persepolis have sometimes
 leopard or lion heads with horns, and four-footed beasts with the beaks
@@ -31,8 +31,8 @@ capitals has leopards' heads with horns. In the capitals of the
 so-called lesser propylaea at Eleusis conventional eagles with two feet
 support the angles of the abacus. The greater number of those in Rome
 have eagles' beaks, as in the frieze of the temple of Antoninus and
-Faustina, and their tails develop into conventional foliage. A similar
-device was found in the Forum of Trajan. The best decorative employment
+[[Faustina]], and their tails develop into conventional foliage. A similar
+device was found in the [[Forum]] of Trajan. The best decorative employment
 of the griffin is found in the vertical supports of tables, of which
 there are two or three examples in Pompeii and others in the Vatican and
 the museums in Rome. In some of these cases the head is that of a lion

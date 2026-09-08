@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Ewart"
 # Ewart
 
 EWART, WILLIAM (1798-1869), English politician, was born in Liverpool on
-the 1st of May 1798. He was educated at Eton and Christ Church, Oxford,
+the 1st of May 1798. He was educated at [[Eton]] and Christ Church, Oxford,
 gaining the Newdigate prize for English verse. He was called to the bar
 at the Middle Temple in 1827, and the next year entered parliament for
 the borough of Bletchingley in Surrey. He subsequently sat for Liverpool
@@ -18,7 +18,7 @@ until his retirement from public life in 1868. He died at Broadleas,
 near Devizes, on the 23rd of January 1869, Ewart, who was an advanced
 liberal in politics, was responsible during his long political career
 for many useful measures. In 1834 he carried a bill for the abolition of
-hanging in chains, and in 1837 he was successful in getting an act
+[[Hanging|hanging]] in chains, and in 1837 he was successful in getting an act
 passed for abolishing capital punishment for cattle-stealing and other
 offences. In 1850 he carried a bill for establishing free libraries
 supported out of the rates, and in 1864 he was instrumental in getting

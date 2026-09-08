@@ -15,7 +15,7 @@ the son of a clothier named Simon Marcel and of Isabelle Barbou. He is
 mentioned as provost of the Grande-Confrérie of Notre Dame in 1350, and
 in 1354 he succeeded Jean de Pacy as provost of the Parisian merchants.
 His political career began in 1356, when John was made prisoner after
-the battle of Poitiers. In conjunction with Robert le Coq, bishop of
+the battle of Poitiers. In conjunction with Robert [[Le Coq|le Coq]], bishop of
 Laon, he played a leading part in the states-general called together by
 the dauphin Charles on the 17th of October. A committee of eighty
 members, constituted on their initiative, pressed their demands with
@@ -29,15 +29,15 @@ states-general assembled again on the 13th of January 1358, and on the
 22nd of February the populace of Paris, led by Marcel, invaded the
 palace and murdered the marshals of Champagne and Normandy before the
 prince's eyes. Thenceforward Marcel was in open hostility to the throne.
-After vainly hoping that the insurrection of the Jacquerie might turn to
+After vainly hoping that the insurrection of the [[Jacquerie]] might turn to
 his advantage, he next supported the king of Navarre, whose armed bands
 infested the neighbourhood of Paris. On the night of the 31st of July
 Marcel was about to open the gates of the capital to them, but Jean
 Maillart prevented the execution of this design, and killed him before
 the Porte Saint-Antoine. During the following days his adherents were
 likewise put to death, and the dauphin was enabled to re-enter Paris.
-Étienne Marcel married first Jeanne de Dammartin, and secondly
-Marguerite des Essars, who survived him.
+Étienne Marcel married first Jeanne de [[Dammartin]], and secondly
+[[Marguerite]] des Essars, who survived him.
 
   See F. T. Perrens, _Étienne Marcel et le gouvernement de la
   bourgeoisie au xiv^e siècle_ (Paris, 1860); P. Frémaux, _La Famille

@@ -11,9 +11,9 @@ parliamentary division of Hertfordshire, England, 28 m. N.W. from London
 by the London & North-Western railway. Pop. of urban district (1901)
 5140. It lies pleasantly in the narrow well-wooded valley of the
 Bulbourne, and is close to the Grand Junction canal. The church of St
-Peter, a large cruciform structure, exhibits all the Gothic styles, and
-earlier fragments are traceable. There are several brasses of interest.
-The poet William Cowper was born in the rectory in 1731. The large
+Peter, a large cruciform structure, exhibits all the [[Gothic]] styles, and
+earlier fragments are traceable. There are several [[Brasses|brasses]] of interest.
+The poet William [[Cowper]] was born in the rectory in 1731. The large
 grammar school is a foundation of 1541. Straw-plaiting and the
 manufacture of small wooden wares are the principal industries, and
 there are large chemical works. Of the castle earthworks and fragments
@@ -26,7 +26,7 @@ importance in Saxon times since there were fifty-two burgesses there at
 the time of the Conquest. In 1156 Henry II. granted the men and
 merchants of the town the same laws and customs as they had in the time
 of Edward the Confessor, and that they should be quit of toll throughout
-England, Normandy, Aquitaine and Anjou. Berkhampstead rose to importance
+England, Normandy, [[Aquitaine]] and [[Anjou]]. Berkhampstead rose to importance
 with its castle, which is said to have been built by Robert, count of
 Mortain, and when the castle fell into ruin after 1496 the town also
 began to decay. In 1618, however, the burgesses received an

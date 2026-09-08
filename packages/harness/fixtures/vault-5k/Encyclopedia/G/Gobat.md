@@ -1,7 +1,7 @@
 # Gobat
 
 GOBAT, SAMUEL (1799-1879), bishop of Jerusalem, was born at Cremine,
-Bern, Switzerland, on the 26th of January 1799. After serving in the
+[[Bern]], Switzerland, on the 26th of January 1799. After serving in the
 mission house at Basel from 1823 to 1826, he went to Paris and London,
 whence, having acquired some knowledge of Arabic and Ethiopic, he went
 out to Abyssinia under the auspices of the Church Missionary Society.

@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Carson"
 # Carson
 
 CARSON, CHRISTOPHER ["KIT"] (1809-1868), American hunter and scout, was
-born in Madison county, Kentucky, on the 24th of December 1809. When he
-was a year old his parents removed to Howard county, Missouri, then a
+born in [[Madison]] county, [[Kentucky]], on the 24th of December 1809. When he
+was a year old his parents removed to [[Howard]] county, Missouri, then a
 frontier settlement, and the boy was early trained in the hardships and
 requirements of pioneer life. He served for a while as a saddler's
 apprentice, and after 1826 devoted himself to the life of a professional
@@ -32,7 +32,7 @@ brigadier-general of volunteers for gallantry in the battle of Valverde
 Mexico, and after the war resumed his position as Indian agent, which he
 held until his death at Fort Lyon, Colorado, on the 23rd of May 1868.
 "Kit" Carson occupies in the latter period of American pioneer history a
-position somewhat similar to that held by Daniel Boone and David
+position somewhat similar to that held by [[Daniel]] Boone and David
 Crockett at an earlier period, as the typical frontier hero and Indian
 fighter, and his hairbreadth escapes and personal prowess are the
 subject of innumerable stories.

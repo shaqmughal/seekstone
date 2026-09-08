@@ -22,7 +22,7 @@ marshes where fog, in the more ancient sense, grows.
 Two other words, _mist_ and _haze_, are also in common use with
 reference to the deterioration of transparency of the surface layers of
 the atmosphere caused by solid or liquid particles, and in ordinary
-literature the three words are used almost according to the fancy of the
+literature the three words are used almost according to the [[Fancy|fancy]] of the
 writer. It seems possible to draw a distinction between mist and haze
 that would be fairly well supported by usage. Mist may be defined as a
 cloud of water particles at the surface of land or sea, and would only
@@ -32,9 +32,9 @@ bulbs; the word haze, on the other hand, may be reserved for the
 obscuration of the surface layers of the atmosphere when the air is dry.
 
 It would not be difficult to quote instances in which even this
-distinction is disregarded in practice. Indeed, the telegraphic code of
+distinction is disregarded in practice. Indeed, the telegraphic [[Code|code]] of
 the British Meteorological Office uses the same figure for mist and
-haze, and formerly the Beaufort weather notation had no separate letter
+haze, and formerly the [[Beaufort]] weather notation had no separate letter
 for haze (now indicated by z), though it distinguished between f, fog,
 and m, mist. It is possible, however, that these practices may arise,
 not from confusion of idea, but from economy of symbols, when the
@@ -59,11 +59,11 @@ interferes with effective vision and necessitates the special provision;
 the word "mist" is seldom used in similar connexion. We may thus define
 a fog as a surface cloud sufficiently thick to cause hindrance to
 traffic. It will be a _thick mist_ if the cloud consists of water
-particles, a _thick haze_ if it consists of smoke or dust particles
+particles, a _thick haze_ if it consists of smoke or [[Dust|dust]] particles
 which would be persistent even in a dry atmosphere.
 
 It is probable that sailors would be inclined to restrict the use of the
-word to the surface clouds met with in comparatively calm weather, and
+word to the surface clouds met with in comparatively [[Calm|calm]] weather, and
 that the obscurity of the atmosphere when it is blowing hard and perhaps
 raining hard as well should be indicated by the terms "thick weather" or
 "very thick weather" and not by "fog"; but the term "fog" would be quite
@@ -102,7 +102,7 @@ is white and consists of a cloud of minute water globules, of no great
 vertical thickness, which disperses the sunlight by repeated reflection
 but is fully translucent. In dust-storms and sand-storms dark or
 coloured fog clouds are produced such as those which are met with in the
-Harmattan winds off the west coast of Africa. In large towns the fog
+[[Harmattan]] winds off the west coast of Africa. In large towns the fog
 cloud is darkened and intensified by smoke, and in some cases may be
 regarded as due entirely to the smoke.
 
@@ -111,7 +111,7 @@ _Description of Effects._
   +------------------+-----+--------------------------+-----------------------------+------------------------+
   |       Name.      | No. |         On Land.         |           On Sea.           |        On River.       |
   +------------------+-----+--------------------------+-----------------------------+------------------------+
-  |                  |  1  | Objects indistinct, but  |   Horizon invisible, but    | Objects indistinct, but|
+  |                  |  1  | Objects indistinct, but  |   [[Horizon]] invisible, but    | Objects indistinct, but|
   |Slight Fog or Mist|     |   traffic by rail or road|     lights and landmarks    |   navigation unimpeded |
   |                  |     |   unimpeded              |     visible at working      |                        |
   |                  |     |                          |     distances               |                        |
@@ -127,7 +127,7 @@ _Description of Effects._
 
 The physical processes which produce fogs of water particles are
 complicated and difficult to unravel. We have to account for the
-formation and maintenance of a cloud at the earth's surface; and the
+formation and [[Maintenance|maintenance]] of a cloud at the earth's surface; and the
 process of cloud-formation which is probably most usual in nature,
 namely, the cooling of air by rarefaction due to the reduction of
 pressure on ascent, cannot be invoked, except in the case of the fogs
@@ -139,7 +139,7 @@ brought about by the slow motion of air masses, and this slow motion is
 probably essential to the phenomenon.
 
   TABLE I.--_Air travelling from Northern Africa to Northern Russia,
-  round by the Azores._
+  round by the [[Azores]]._
 
   +------------------------------------+-------+-------+-------+--------+------+
   | Successive Temperatures of sea     |  68°  |  68°  |  67°  |   59°  | 54°F.|
@@ -160,7 +160,7 @@ layer of warm air by the underlying cold water. The amount of motion of
 the air must be sufficient to prevent the condensation taking place at
 the sea surface without showing itself as a cloud. In a research on the
 Life History of Surface Air Currents the changes incidental to the
-movement of the air over the north Atlantic Ocean were traced with great
+movement of the air over the north [[Atlantic Ocean]] were traced with great
 care, and the above examples (Tables I, II) taken from page 72 of the
 work referred to are typical of the formation of sea fog by the cooling
 of a relatively warm current passing over cold water.
@@ -170,11 +170,11 @@ occur over the open ocean in those regions where, as off the
 Newfoundland banks, cold-water currents underlie warm air, and that it
 is most frequent at the season of the year when the air temperature is
 increasing faster than the water temperature. But it is difficult to
-bring this hypothesis always to bear upon actual practice, because the
+bring this [[Hypothesis|hypothesis]] always to bear upon actual practice, because the
 fog is representative of a temperature difference which has ceased to
 exist. One cannot therefore observe under ordinary circumstances both
 the temperature difference and the fog. Doubtless one requires not only
-the initial temperature difference but also the slow drift of air which
+the initial temperature difference but also the slow [[Drift|drift]] of air which
 favours cooling of the lower layers without too much mixing and
 consequently a layer of fog close to the surface. Such a fog, the
 characteristic sea fog, may be called a cold surface fog. From the
@@ -204,7 +204,7 @@ can hardly give rise to detached masses or banks of fog. The ordinary
 land or valley fog of the autumn evening or winter morning is due to the
 combination of three causes, first the cooling of the surface layer of
 air at or after sunset by the radiation of the earth, or more
-particularly of blades of grass, secondly the slow downward flow (in the
+particularly of [[Blades|blades]] of grass, secondly the slow downward flow (in the
 absence of wind) of the air thus cooled towards lower levels following
 roughly the course of the natural water drainage of the land, and
 thirdly the supply of moisture by evaporation from warm moist soil or
@@ -212,7 +212,7 @@ from the relatively warm water surface of river or lake. In this way
 steaming-pot fog gradually forms and is carried downward by the natural
 though slow descent of the cooled air. It thus forms in wreaths and
 banks in the lowest parts, until perhaps the whole valley becomes filled
-with a cloud of mist or fog. A case of this kind in the Lake District is
+with a cloud of mist or fog. A case of this kind in the [[Lake District]] is
 minutely described by J.B. Cohen (_Q.J. Roy. Met. Soc._ vol. 30, p. 211,
 1904).
 
@@ -226,17 +226,17 @@ circumstances in which fog is actually observed.
 The persistence of these fog wreaths is always remarkable when one
 considers that the particles of a fog cloud, however small they may be,
 must be continually sinking through the air which holds them, and that
-unless some upward motion of the air keeps at least a balance against
+unless some upward motion of the air keeps at least a [[Balance|balance]] against
 this downward fall, the particles of the cloud must reach the earth or
 water and to that extent the cloud must disappear. In sheltered valleys
 it is easy to suppose that the constant downward drainage of fresh and
 colder fog-laden material at the surface supplies to the layers
 displaced from the bottom the necessary upward motion, and the result of
-the gradual falling of drops is only that the surface cloud gets
+the [[Gradual|gradual]] falling of drops is only that the surface cloud gets
 thicker; but there are occasions when the extent and persistence of land
 fog seems too great to be accounted for by persistent radiation cooling.
-For example, in the week before Christmas of 1904 the whole of England
-south of the Humber was covered with fog for several days. It is of
+For example, in the week before [[Christmas]] of 1904 the whole of England
+south of the [[Humber]] was covered with fog for several days. It is of
 course possible that so much fog-laden air was poured down from the
 sides of mountains and hills that did project above the surface of the
 fog, as to keep the lower reaches supplied for the whole time, but
@@ -264,9 +264,9 @@ from the case of London, which was under fog all day on 28th January
 1909. The maximum temperature only reached 31° F., whereas at Warlingham
 in Surrey from which the fog lifted it was as high as 46° F.
 
-_A priori_ we might suppose that the formation of fog would arrest
+_A priori_ we might suppose that the formation of fog would [[Arrest|arrest]]
 cooling by radiation, and that fog would thus act as a protection of
-plants against frost. The condensation of water evaporated from wet
+plants against [[Frost|frost]]. The condensation of water evaporated from wet
 ground, which affords the material for making fog, does apparently act
 as a protection, and heavy watering is sometimes used to protect plants
 from frost, but the same cannot be said of fog itself--cooling appears
@@ -304,7 +304,7 @@ for large towns in consequence of the economic and hygienic results
 which follow the incidence of dense fogs. The fogs of London in
 particular have long been a subject of inquiry. It is difficult to get
 trustworthy statistics on the subject in consequence of the vagueness of
-the practice as regards the classification of fog. For large towns there
+the practice as regards the [[Classification|classification]] of fog. For large towns there
 is great advantage in using a fog scale such as that given above, in
 which one deals only with the practical range of vision irrespective of
 the meteorological cause.
@@ -334,7 +334,7 @@ total number of days of fog in the years from 1871:--
 But from any statistics of the frequency occurrence of fog it must not
 be understood that the atmosphere of London is approaching that of the
 surrounding districts as regards transparency. Judged by the autographic
-records it is still almost opaque to sunshine strong enough to burn the
+records it is still almost opaque to sunshine strong enough to [[Burn|burn]] the
 card of the recorder during the winter months.
 
   The bibliography of fog is very extensive. The titles referring to

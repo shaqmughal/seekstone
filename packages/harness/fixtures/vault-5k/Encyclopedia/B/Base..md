@@ -16,11 +16,11 @@ senses; in sports, _e.g._ hockey and baseball; in geometry, the line or
 face on which a figure or solid stands; in crystallography, _e.g._ "basal
 plane"; in surveying, in the "base line," an accurately measured distance
 between the points from which the survey is conducted; in heraldry, in the
-phrase "in base," applied to any figure or emblem placed in the lowest part
+phrase "in base," applied to any figure or [[Emblem|emblem]] placed in the lowest part
 of a shield.
 
-In chemistry the term denotes a substance which combines with an acid to
-form a salt. In inorganic chemistry such compounds are almost invariably
+In [[Chemistry|chemistry]] the term denotes a substance which combines with an acid to
+form a salt. In inorganic chemistry such [[Compound|compounds]] are almost invariably
 oxides or hydroxides, and water in eliminated during the combination; but
 in organic chemistry many compounds exist, especially ammonia derivatives,
 which directly combine with acids. Chemical bases are consequently
@@ -43,7 +43,7 @@ Mycenae. In archaic Greek work it has already disappeared in the Doric
 order, but in the Ionic and Corinthian orders it is more or less richly
 moulded, the most elaborate examples being those found in the temple of
 Apollo at Branchidae in Milesia. For the contour of the mouldings see
-ORDERS. The Roman orders all have the favourite design known as the Attic
+ORDERS. The Roman orders all have the favourite design known as the [[Attic]]
 base. Romanesque bases were rude but vigorous copies of the old classic
 base, and were often decorated with projections or spurs (Fr. _griffes_) at
 the angles of the square dies, thus connecting them with the square base.

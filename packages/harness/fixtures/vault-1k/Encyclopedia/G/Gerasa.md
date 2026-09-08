@@ -37,7 +37,7 @@ the town had outgrown the limit of its fortifications. The most striking
 feature of the ruins is the profusion of columns, no fewer than 230
 being even now in position; the main street is a continuous colonnade, a
 large part of which is still entire, and it terminates to the south in a
-forum of similar formation. Among the public buildings still
+[[Forum|forum]] of similar formation. Among the public buildings still
 recognizable are a theatre capable of accommodating 6000 spectators, a
 naumachia (circus for naval combats) and several temples, of which the
 largest was probably the grandest structure in the city, possessing a

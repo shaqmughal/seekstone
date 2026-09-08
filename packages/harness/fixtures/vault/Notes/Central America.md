@@ -9,8 +9,8 @@ type: article
 
 CENTRAL AMERICA, that portion of the American continent which lies
 between Mexico and Colombia, comprising the British crown colony of
-British Honduras, and the six independent republics of Guatemala,
-Salvador, Honduras, Nicaragua, Costa Rica and Panama. These seven
+British Honduras, and the six independent republics of [[Guatemala]],
+Salvador, Honduras, Nicaragua, [[Costa Rica]] and Panama. These seven
 divisions are described in separate articles. Central America is bounded
 towards the N. by the Caribbean Sea, and towards the S. by the Pacific
 Ocean, and extends between 7° 12' and 18° 3' N. and between 77° 12' and
@@ -21,16 +21,16 @@ Nicoya and the north coast of Honduras, and diminishing to 35 m. in the
 Isthmus of Panama. The eastern boundary of Central America was usually
 regarded as identical with that of Costa Rica until 1903, when the
 republic of Panama was formed out of the northern territories of
-Colombia; and the more modern definition given above does not command
+Colombia; and the more modern [[Definition|definition]] given above does not command
 the universal assent of geographers, because it fails to include the
 whole region up to the natural frontier on the north-west, i.e. the
 Isthmus of Tehuantepec in Mexico. It has, however, the support of
 political and historical considerations, as well as of common usage; and
 it may therefore be regarded as adequate, although, in respect of
 climate and natural products, it would be more accurate to define
-Central America as lying between Tehuantepec and Darien.
+Central America as lying between Tehuantepec and [[Darien]].
 
-  _Physical Features._--The _Cordilleras_, or mountain chains of Central
+  _Physical Features._--The _[[Cordillera|Cordilleras]]_, or mountain chains of Central
   America do not form a complete link between the western ranges in the
   north and south of the continent, for their continuity is interrupted
   by various depressions, of which the chief is the lacustrine basin of
@@ -41,7 +41,7 @@ Central America as lying between Tehuantepec and Darien.
   disposed in a succession of mountain masses, with many lesser chains
   radiating from them. The principal summits have an altitude of 12,000
   and even, in a few cases, of 13,000 ft., and the general character of
-  the ranges is volcanic, many craters being still active. Large tracts
+  the ranges is volcanic, many [[Crater|craters]] being still active. Large tracts
   of land remained imperfectly surveyed at the beginning of the 20th
   century, owing to the unhealthiness of the tropical climate, and the
   dense underwoods which impede exploration. In the northern part of
@@ -60,20 +60,20 @@ Central America as lying between Tehuantepec and Darien.
   inland sheet of water, has an area exceeding 3500 sq. m. There are
   also several mountain lakes of exceptional interest and beauty, such
   as Atitlán and Amatitlán, in Guatemala, besides two great land-locked
-  salt-water lakes--the Pearl Lagoon of the Mosquito Coast, and the
+  salt-water lakes--the Pearl [[Lagoon]] of the Mosquito Coast, and the
   Carataska Lagoon in Honduras.
 
-  [Illustration: Geologic Map of Central America.]
+  [Illustration: Geologic [[Map]] of Central America.]
 
   _Geology._--The neck of land which unites the continents of North and
   South America is not, geologically, the direct continuation of either,
   but constitutes a third element which is wedged, as it were, between
-  the other two. The folds in the earth's crust which form the Andes and
+  the other two. The [[Fold|folds]] in the earth's crust which form the Andes and
   the Western ranges of North America, are not continued along the
   connecting isthmus, where, on the contrary, the strata are folded from
   west to east, obliquely across the trend of the continent. It should,
   however, be noticed that the Andes, as they approach the Caribbean
-  sea, bend round towards the east; and it is probable that the folds of
+  sea, [[Bend|bend]] round towards the east; and it is probable that the folds of
   the North American Cordillera similarly bend eastward beneath the
   volcanic rocks of Mexico. The folds of Central America are tangential
   to the two arcs thus formed.
@@ -85,17 +85,17 @@ Central America as lying between Tehuantepec and Darien.
   existence of ancient crystalline rocks at the surface is yet unproved,
   but they probably occur in the Sierra Madre del Pacifico. South of the
   plateau, in the state of Oaxaca, low mountain ridges composed of
-  granites and gneisses, supposed to be of Archaean age, begin to
+  granites and [[Gneiss|gneisses]], supposed to be of Archaean age, begin to
   appear. They strike from west to east, and mark the front of the
   series of east and west folds which stand _en échelon_ across the
   Central American region. Between the 15th and 17th parallels of
-  latitude, in the state of Chiapas and in the republic of Guatemala,
+  [[Latitude|latitude]], in the state of Chiapas and in the republic of Guatemala,
   there is a second group of ridges composed of granites and schists
   with an eastward trend. In this case the evidence of age is clear, for
-  the rocks are covered by a limestone which is proved to be
+  the rocks are covered by a [[Limestone|limestone]] which is proved to be
   Pre-Carboniferous. Similar rocks, supposed to be of Archaean or at
   least of early Palaeozoic age, occupy considerable areas in British
-  Honduras, Honduras and northern Nicaragua, and occur also in Costa
+  Honduras, Honduras and northern Nicaragua, and occur also in [[Costa]]
   Rica and perhaps in Panama; and wherever the strike has been observed,
   it is approximately from west to east. The presence of Palaeozoic
   rocks has been proved in Guatemala and the adjacent state of Chiapas,
@@ -107,7 +107,7 @@ Central America as lying between Tehuantepec and Darien.
   The Mesozoic series begins with sands and red or yellow clays
   containing plant remains and possibly of Triassic age; but the
   occurrence of these deposits is limited to a few small isolated
-  outcrops. Jurassic beds have been found in Mexico but not in Central
+  outcrops. [[Jurassic]] beds have been found in Mexico but not in Central
   America. The Cretaceous system, consisting of a lower series of clays,
   sandstones and conglomerates, followed conformably by an upper series
   of limestones, covers a considerable area in Chiapas, Guatemala and
@@ -121,7 +121,7 @@ Central America as lying between Tehuantepec and Darien.
   division also, including the Pliocene and Pleistocene (which have not
   yet been clearly distinguished from each other), is usually of shallow
   water origin; but in the northern part of Yucatan it includes beds of
-  chalky limestone, like those of the Antilles, which may have been
+  chalky limestone, like those of the [[Antilles]], which may have been
   deposited in a deeper sea.
 
   It is probable that folding took place at more than one geological
@@ -134,7 +134,7 @@ Central America as lying between Tehuantepec and Darien.
   the Mesozoic and early Tertiary deposits, as well as of the older
   rocks--is in general from east to west; but there is one considerable
   exception. On both sides of the deep depression which crosses Honduras
-  from Puerto Cortez to the Gulf of Fonseca, the strike is commonly from
+  from Puerto Cortez to the Gulf of [[Fonseca]], the strike is commonly from
   north to south. The depression is probably a "Graben" or trough formed
   by faulting.
 
@@ -153,7 +153,7 @@ Central America as lying between Tehuantepec and Darien.
   Tertiary or later connexion between the Caribbean Sea and the Pacific,
   excepting, perhaps, a shallow opening during the Eocene period. It
   should, however, be stated that all authorities are not agreed upon
-  this point, and K. Sapper found marls and sandstones which he believes
+  this point, and K. Sapper found [[Marl|marls]] and sandstones which he believes
   to belong to the Upper Tertiary, lying horizontally at a height of
   about 7500 ft. in the Mexican state of Chiapas. Unfortunately the
   fossils obtained from these beds were lost.
@@ -179,13 +179,13 @@ Central America as lying between Tehuantepec and Darien.
   _Veranillo de San Juan_, or "Little summer of St John." In the rainy
   season, the morning has usually a clear sky; about two or three
   o'clock in the afternoon the clouds begin to gather in great cumulus
-  masses; suddenly the lightning flashes out and the rain crashes down;
+  masses; suddenly the lightning flashes out and the rain [[Crash|crashes]] down;
   and by evening the sky is clear and starry. North winds are most usual
   during the dry season. On the Atlantic coast the trade-winds may bring
   rain in any month, and, owing to the moist atmosphere, the heat is
   more oppressive. The rainfall may vary in successive years from less
   than 50 in. to nearly 200 in., owing to the occurrence of
-  cloud-bursts. Frosts are not rare above 7000 ft., but snow seldom
+  [[Cloud-Burst|cloud-bursts]]. [[Frost|Frosts]] are not rare above 7000 ft., but snow seldom
   falls.
 
   _Fauna_.--The fauna of Central America is more closely connected with
@@ -193,7 +193,7 @@ Central America as lying between Tehuantepec and Darien.
   comparatively small, and its limits conventional, there are
   comparatively few species that it can claim as peculiarly its own. It
   is almost entirely free from the presence of animals dangerous to man.
-  Of felines it possesses the jaguar (_Felis onza_), popularly called
+  Of felines it possesses the [[Jaguar|jaguar]] (_Felis onza_), popularly called
   the tiger; the cuguar (_Felis concolor_), popularly called the lion;
   the tigrillo (_Felis tigrina_), which is sometimes kept tame; and
   other species. Several species of monkeys (_Mycetes_ and _Ateles_) are
@@ -201,10 +201,10 @@ Central America as lying between Tehuantepec and Darien.
   mexicanus_) has a wide range both in the lowlands and highlands.
   Besides the tapir there are several varieties of wild pig, such as the
   marrano de monte (_Sus torquatus_) and the jabali or javali (_Sus
-  labiatus javali_). The _Edentata_ are represented by a species of
-  armadillo, the honey-bear (_Myrmecophaga tomandua_), and the
+  labiatus javali_). The _[[Edentata]]_ are represented by a species of
+  [[Armadillo|armadillo]], the honey-bear (_Myrmecophaga tomandua_), and the
   _Myrmecophaga didactyla;_ and among the rodents may be mentioned,
-  besides rats, hares and rabbits, the fruit-eating cotorra and
+  besides rats, [[Hare|hares]] and rabbits, the fruit-eating cotorra and
   tepes-cuinte (_Dasyprocta aguti_ and _Coelogenys paca_), and the
   troublesome _Geomys mexicana._ The manatee is common in all the larger
   streams. Much annoyance is caused to the agriculturist by the little
@@ -217,16 +217,16 @@ Central America as lying between Tehuantepec and Darien.
   of the domestic animals--the horse, ox, goat, sheep, pig, dog, rabbit,
   common fowl, peacock and pigeon--are of European origin, and are
   popularly grouped together as _animales de Castilla._ For the bird
-  collector there is a rich harvest. The catalogue of the National
+  collector there is a rich [[Harvest|harvest]]. The [[Catalogue|catalogue]] of the National
   Museum at Washington shows that Costa Rica alone possesses more than
   twice as many species of birds as the whole of Europe. Among birds of
   prey it is sufficient to mention _Corogyps atratus,_ the commonest of
   the vultures, which acts as a universal scavenger, the _Cathartes
   aura,_ the beautiful _Polyborus vulgaris,_ and the king of the
-  vultures (_Sarcorhamphus papa_). Neither the condor of the southern
-  continent nor the great eagles of the northern are known. The parrot,
-  macaw and toucan are found in all parts; the crow, blackbird, Mexican
-  jay, ricebird, swallow, rainbird, wood-pecker, humming-bird and trogon
+  vultures (_Sarcorhamphus papa_). Neither the [[Condor|condor]] of the southern
+  continent nor the great [[Eagle|eagles]] of the northern are known. The parrot,
+  [[Macaw|macaw]] and toucan are found in all parts; the crow, blackbird, Mexican
+  [[Jay|jay]], ricebird, swallow, rainbird, wood-pecker, [[Humming-Bird|humming-bird]] and trogon
   are also widely distributed. A bird of the last-named genus, the
   quetzal, quijal or quesal (_Trogon resplendens_) is of special note,
   not only from the fact that its yellow tail-feathers. 2 or 3 ft. long,
@@ -242,17 +242,17 @@ Central America as lying between Tehuantepec and Darien.
   varieties of Central American reptiles include the harmless boba or
   chicken-snake, python and black snake; the venomous corali, taboba,
   culebra de sangre and rattlesnake; iguanas of great size, scorpions,
-  edible lizards and other lizards said to be poisonous. In the rivers
+  edible [[Lizard|lizards]] and other lizards said to be poisonous. In the rivers
   and lakes, as in both seas, fish of many kinds abound; turtles and
   tortoises are exported; and there are valuable pearl and oyster
-  fisheries. Insect life is even richer and more varied. Of the
-  _Coleoptera_, the Camelicorns, the Longicorns, the Curculionids, and
+  [[Fisheries|fisheries]]. [[Insect]] life is even richer and more varied. Of the
+  _[[Coleoptera]]_, the Camelicorns, the Longicorns, the Curculionids, and
   the Chrysomelines are said to be best represented, and of the
-  _Lepidoptera_ the prevalent genera are--_Ageronia, Papilio, Heliconia,
-  Sphinx_ and _Bombyx_. There are five species of bees, and the European
+  _[[Lepidoptera]]_ the prevalent genera are--_Ageronia, Papilio, Heliconia,
+  Sphinx_ and _Bombyx_. There are five species of [[Bee|bees]], and the European
   honey-bee, known as _aveja de Castilla_ or "bee of Castile," has been
   naturalized. Ants are common, and may sometimes be seen marching in a
-  column 3 or 4 m. long. The mosquito, wood-tick, flea and locust are
+  column 3 or 4 m. long. The mosquito, wood-tick, [[Flea|flea]] and locust are
   unfortunately no less plentiful in certain districts, but their
   distribution varies greatly, the mosquito being almost unknown in
   parts of Honduras. A curious species of butterfly is the _Timetes
@@ -266,15 +266,15 @@ Central America as lying between Tehuantepec and Darien.
   unsurpassed for beauty, luxuriance and variety. In the volcanic
   districts, the soil is extremely fertile, yielding, where cultivated
   and irrigated, magnificent crops of sugar, cotton, rice, tobacco,
-  coffee, cocoa and maize. Indigo is produced in small quantities; sugar
+  coffee, [[Cocoa|cocoa]] and maize. Indigo is produced in small quantities; sugar
   yields two or three crops, and maize as many as four, this cereal
-  supplying a chief staple of food. Plantains, bananas, beans, tomatoes,
+  supplying a chief staple of food. Plantains, bananas, [[Bean|beans]], tomatoes,
   yams, arrowroot, pine-apples, guavas, citrons and many other tropical
   fruits are also cultivated, while the extensive primeval forests
-  abound in mahogany, cedars, rosewood, ironwood, rubber, gum copal,
+  abound in mahogany, cedars, rosewood, ironwood, rubber, [[Gum|gum]] copal,
   vanilla, sarsaparilla, logwood and many other dye-woods, medicinal
   plants, and valuable timbers. Conspicuous amongst the forest trees are
-  the giant ceiba, or pyramidal bombax, and the splendid Coyal palm
+  the [[Giant|giant]] ceiba, or pyramidal bombax, and the splendid Coyal palm
   (_Cocos butyracea,_ L.), with feathery leaves 15 to 20 ft. long,
   golden flowers 3 ft. high, and a sap which when fermented produces the
   intoxicating _chicha_ or _vino de Coyol._ In Guatemala occurs the
@@ -282,18 +282,18 @@ Central America as lying between Tehuantepec and Darien.
   a finer flavoured chocolate than the cocoa itself. The same country is
   famous for its magnificent orchids, huge arborescent thistles, and a
   remarkable plant called by the Spaniards _Flor de la Calentura_,
-  "fever flower," from the heat which it is said to emit at the moment
+  "[[Fever|fever]] [[Flower|flower]]," from the heat which it is said to emit at the moment
   of fertilization. Salvador produces an abundance of medicinal plants,
-  notably the so-called Peruvian balsam (_Myrospermum salvatorense_); in
+  notably the so-called Peruvian [[Balsam|balsam]] (_Myrospermum salvatorense_); in
   Honduras there are immense forests of conifers, resembling those of
-  the Landes in France; in Nicaragua a characteristic tree is the cortes
+  the [[Landes]] in France; in Nicaragua a characteristic tree is the cortes
   (_Tecoma sideroxylori_) yielding timber as hard as ebony, and
   noteworthy for the golden blossom with which it is entirely covered
   after the leaves have fallen.
 
 _Inhabitants_--In 1905 the population of Central America numbered about
 4,750,000, and this total tends to increase, despite the unhealthy
-climate of many districts, the terribly high average of infant
+climate of many districts, the terribly high average of [[Infant|infant]]
 mortality, and the slow progress of immigration. Some authorities
 estimate it at 5,500,000. The vast majority of the inhabitants are of
 mixed Indian and Spanish blood, but the Indian element predominates
@@ -302,10 +302,10 @@ numerous. The Indian races have not shown the same power to adapt
 themselves to modern civilization as the Mexicans; in some regions there
 are tribes remaining in a state of complete savagery although before the
 Spanish conquest their ancestors attained a high level of culture (see
-below under _Archaeology_). The density of population throughout Central
+below under _[[Archaeology]]_). The density of population throughout Central
 America is little more than 25 per sq. m.; and it is clear that several
 large areas now thinly peopled once maintained a far greater number of
-inhabitants. Such are parts of the Nicaraguan lake district, where the
+inhabitants. Such are parts of the Nicaraguan [[Lake District|lake district]], where the
 flora consists in great measure of plants that were formerly cultivated
 by the Indians. The depopulation of these areas was effected partly by
 tribal wars, partly by the harsh rule of the Spaniards. Apart from the
@@ -318,7 +318,7 @@ Pacific coast.
 
 _History_.--Central America was discovered by Columbus in August 1502;
 and part of the territory which is now Costa Rica was conquered by the
-Spaniards under Pedro Arias de Avila after 1513. Between 1522 and 1525,
+Spaniards under Pedro [[Aria|Arias]] de Avila after 1513. Between 1522 and 1525,
 the authority of Avila was superseded, and his work of conquest
 completed by Hernando Cortes, who had already subjugated Mexico. Panama
 formed part of a distinct Spanish government, "New Granada"; British
@@ -334,8 +334,8 @@ Spanish officials, who almost invariably devoted their whole energy to
 enriching themselves and the home authorities. The old Indian
 civilization was swept away; the native races were enslaved, maltreated
 and, for a time, demoralized. But their history offers no parallel to
-that of the West Indian Caribs, who failed to survive, and were replaced
-by hordes of African slaves. In Central America the Indians not only
+that of the West Indian [[Caribs]], who failed to survive, and were replaced
+by [[Horde|hordes]] of African slaves. In Central America the Indians not only
 survived, thus leaving no room for any large negro population, but
 quickly acquired the language, religion and habits of their masters,
 with whom they intermarried. By the close of the 18th century, the
@@ -344,7 +344,7 @@ Racial distinctions had been obscured by intermarriage; even the term
 _Ladino_, or "Latin," came to mean an educated man, whether of Spanish
 or Indian blood. Nowhere, except in Mexico, has a mixed or coloured race
 more completely absorbed the civilization of its white rulers; but so
-gradual and silent was the process that it passed almost unnoticed. Its
+[[Gradual|gradual]] and silent was the process that it passed almost unnoticed. Its
 result, the successful revolt of the Spanish colonies--colonies mainly
 peopled by Indians or half-castes--was no more a conflict of rival races
 or civilizations than the rebellion of the British colonies in North
@@ -360,19 +360,19 @@ artificiality of the evolution which converted a debased
 slave-population into the citizens of modern democratic states. The five
 divisions of "Guatemala" were temporarily incorporated in the Mexican
 empire during 1822, but regained their autonomy (as Guatemala, Honduras,
-Salvador, Nicaragua and Costa Rica) on the declaration of a Mexican
+Salvador, Nicaragua and Costa Rica) on the [[Declaration|declaration]] of a Mexican
 republic, and in July 1823 combined to form the Republic of the United
 States of Central America. The Liberal or Federalist party, which was
 supreme in Honduras, found itself opposed by the Conservatives,
 including the clergy and former Spanish officials, who were very
 influential in Guatemala. A bitter and protracted struggle ensued. In
-1837-1839 a Conservative rising, under Rafael Carrera, president of
+1837-1839 a Conservative rising, under Rafael [[Carrera]], president of
 Guatemala, resulted in the overthrow of the Liberals, under General
 Francisco Morazan of Honduras; and in 1842, after a vain attempt to
 restore the Federal republic, Morazan was captured and shot. A fresh
 union of the republics (except Costa Rica) was concluded in 1842, and
 dissolved in 1845. The year 1850 was signalized by the conclusion, on
-the 19th of April, of the Clayton-Bulwer treaty (q.v.) between Great
+the 19th of April, of the [[Clayton-Bulwer Treaty|Clayton-Bulwer treaty]] (q.v.) between Great
 Britain and the United States, which was designed to facilitate the
 construction of an interoceanic canal. The history of this project is
 given in detail under PANAMA CANAL. One important result of the treaty
@@ -405,13 +405,13 @@ the new state.
   nordliche Mittelamerika nebst einem Ausflug nach dem Hochland von
   Anahuac_ (Brunswick, 1897); these all contain many useful
   illustrations and maps. See also _Central America and the West
-  Indies_, by A.H. Keane, edited by Sir C. Markham (London, 1901, 2
+  Indies_, by A.H. [[Keane]], edited by Sir C. Markham (London, 1901, 2
   vols., with maps and illustrations); _Central and South America_, by
   H.W. Bates (London, 1882); _The Spanish American Republics_, by T.
   Child (London, 1892); and _Expedition nach Zentral und Sudamerika_, by
   P. Preuss (Berlin, 1901). For geology, see "The Geological History of
   the Isthmus of Panama and Portions of Costa Rica," by R.T. Hill, in
-  _Bull. Mus. Comp. Zool. Harvard_, vol. xxviii., No. 5 (1898); and the
+  _[[Bull]]. Mus. Comp. Zool. Harvard_, vol. xxviii., No. 5 (1898); and the
   following by K. Sapper:--"Grundzüge der physikalischen Geographic von
   Guatemala," in _Petermann's Mitt._ Ergänzungsheft, No. 113 (1894),
   "Über Gebirgsbau und Boden des nördlichen Mittelamerika," ibid., No.
@@ -420,10 +420,10 @@ the new state.
   America_, by E.G. Squier (New York, 1858), is still valuable, as are
   others of the numerous essays, pamphlets, &c., on Central American
   affairs left by this author; see the bibliography of his writings
-  published in New York in 1876. The _Bulletins of the Bureau of
+  published in New York in 1876. The _Bulletins of the [[Bureau]] of
   American Republics_ (Washington, from 1893) give ample information on
   commerce and industry. See also _History of Central America_, by H.
-  Bancroft (San Francisco, 1881-1887. 3 vols.).
+  [[Bancroft]] (San Francisco, 1881-1887. 3 vols.).
 
 
 ARCHAEOLOGY OF CENTRAL AMERICA
@@ -434,7 +434,7 @@ extant ruins of great buildings, unlike anything which is known in the
 old world, testify to the high culture attained in pre-Columbian days by
 several native peoples differing greatly from one another in speech and
 racial affinities. As a science the archaeology of Central America has
-scarcely yet emerged from its infancy. Entire branches are still wholly
+scarcely yet emerged from its [[Infancy|infancy]]. Entire branches are still wholly
 uninvestigated. Amongst the numerous problems which await solution must
 still be reckoned the decipherment of the inscriptions, which hitherto
 has not progressed beyond the discovery of calendar systems and the
@@ -444,7 +444,7 @@ For a complete survey of this ancient civilization, so far as it has
 been investigated, it is necessary to include with Central America,
 properly so called, a considerable portion of the Mexican territories
 south and east of the isthmus of Tehuantepec. The peoples inhabiting
-Yucatan, Campeche, Guatemala, Chiapas and Oaxaca present at the first
+Yucatan, [[Campeche]], Guatemala, Chiapas and Oaxaca present at the first
 view striking ethnical differences. On a linguistic basis, however, they
 may be united into several large groups. Thus, Yucatan and the greater
 part of Guatamala are inhabited by the Mayas, with whom may be included
@@ -452,7 +452,7 @@ the still savage Lacantun or Lacandones. Related to these linguistically
 are the Tzendals in Chiapas and the Quiches and Cackchiquels in
 Guatemala, as well as the less important tribes of the Mam, Pokoman,
 Pokonchi, Tzotzil, Tzutuhil and Ixil. Between these there are patches of
-country in which dialects of the Mexican are spoken. In Oaxaca there is
+country in which [[Dialect|dialects]] of the Mexican are spoken. In Oaxaca there is
 an extraordinary mixture of languages, some of which, like that of the
 Huave of Tehuantepec, are of quite unknown affinities; the bulk of the
 population, however, is composed of Mixtecs and Zapotecs with which the
@@ -466,7 +466,7 @@ of its extinction is unknown, but in certain places, notably Mayapan and
 Chichenitza, the highest development seems to be synchronous with the
 appearance of foreign, viz. Mexican or Nahua elements (see below). This
 quite distinctive local character suggests that the cities in question
-played a certain preponderating role, a hypothesis with which the scanty
+played a certain preponderating role, a [[Hypothesis|hypothesis]] with which the scanty
 documentary evidence is in agreement. On the other hand the Mayan
 culture evinces an evident tendency to assimilate heterogeneous
 elements, obliterating racial distinctions and imposing its own dominant
@@ -484,7 +484,7 @@ effective. Amongst the various ruins, some of which represent the
 remains of entire cities, while others are no more than groups of
 buildings or single buildings, certain types persistently recur. The
 commonest of such types are pyramids and galleries. The pyramids are
-occasionally built of brick, but most usually of hewn stone with a
+occasionally built of [[Brick|brick]], but most usually of hewn stone with a
 covering of finely-carved slabs. Staircases lead up to the top from one
 or more sides. Some pyramids are built in steps. Usually the platform on
 the top of a pyramid is occupied by buildings, the typical distribution
@@ -498,7 +498,7 @@ buildings, almost without exception, have a definite orientation to
 particular points of the compass. Frequently the pyramids constitute
 one of the four sides of a quadrangular enclosure, within which are
 contained other pyramids, altars or other buildings of various
-dimensions.
+[[Dimension|dimensions]].
 
 The normal type of gallery is an oblong building, of which the front
 facing inwards to the enclosure is pierced by doors. These divide it
@@ -507,7 +507,7 @@ Occasionally the rooms are distributed round a central apartment, but
 this is ordinarily done only when a second storey has to be placed above
 them. The gallery-buildings may rise to as much as three storeys, the
 height, size and shape of the rooms being determined by the exigencies
-of vaulting. The principle of the true arch is unknown, so that the
+of vaulting. The principle of the true [[Arch|arch]] is unknown, so that the
 vaults are often of the corbelled kind, the slabs of the side-walls
 being made to overlap in succession until there remains only so narrow a
 space as may be spanned by a single flat stone. At Mitla, where the
@@ -524,7 +524,7 @@ which generally exhibits the most elaborate ornamentation in the whole
 building. The subjects are geometrical designs in mosaic, serpents'
 heads and human masks. The corners of the wall terminate in
 three-quarter pillars, above which the angles of the frieze frequently
-show grotesque heads with noses exaggerated into trunks. The roof of the
+show [[Grotesque|grotesque]] heads with noses exaggerated into trunks. The roof of the
 gallery is flat and occasionally gabled.
 
 _Principal Sites._--Such are the general characteristics of Central
@@ -588,7 +588,7 @@ Stelae discovered at Quen Santo have a calendar character, which proves
 that Mayan science had penetrated into what was probably the home of an
 old Lacantun culture.
 
-Santa Lucia Cozumalhuapa, on the Pacific slope of the Cordilleras, is a
+Santa [[Lucia]] Cozumalhuapa, on the Pacific slope of the Cordilleras, is a
 very peculiar site. The ruins are those of a settlement which had
 already been deserted before Alvarado's expedition of 1522. The
 sculptures of gods, goddesses and other figures, executed on enormous
@@ -604,13 +604,13 @@ stelae of very fine workmanship, on which are sculptured human and
 animal figures representing hieroglyphs of the calendar dates.
 
 _Honduras_.--Copan, one of the most important seats of Mayan
-civilization, lies close to the borders of Guatemala. The ruins comprise
+civilization, lies close to the [[Borders|borders]] of Guatemala. The ruins comprise
 great buildings, temples, pyramids, &c. and contain sculptures of the
 highest interest. Especially noteworthy are altars in the form of a
 turtle and stelae covered with hieroglyphs. The hieroglyphs are of the
 kind usually found in such ruins, the meaning of which is so far clear
 that it is known that the commencement of an inscription records certain
-dates in the complicated calendar system of the Mayas. A collation of
+dates in the complicated calendar system of the Mayas. A [[Collation|collation]] of
 these dates demonstrates that the most ancient on record are separated
 from the most recent by an interval of only a few centuries. From this
 it may be concluded that the Mayan civilization, whether or not it was
@@ -620,7 +620,7 @@ A.D. 1000.
 
 According to Squier (_Honduras_, London, 1870, p. 75) the other
 principal ruins of Honduras are to be found in plains of the department
-of Comayagua, near Yarumela, near Lajamini, and in the ruined town of
+of [[Comayagua]], near Yarumela, near Lajamini, and in the ruined town of
 Cururu. They are "large, pyramidal, terraced structures, often faced
 with stones, conical mounds of earth and walls of stone." Further ruins,
 such as those of Calamulla, Jamalteca, Maniana, Guasistagua, Chapuluca
@@ -630,7 +630,7 @@ extensive are the ruins of Tenampua (Pueblo Viejo), about 20 m.
 south-east of Comayagua. Here ramparts, defence works, terraced stone
 mounds and numerous large pyramids are to be found. Squier found further
 ruins in the west of Honduras, which have also been described in part by
-Stephens, and were probably first mentioned in 1576 by Diego Garcia de
+Stephens, and were probably first mentioned in 1576 by Diego [[Garcia]] de
 Palacio (_Carta dirigida al Rei de España_, published by Squier, New
 York, 1860).
 
@@ -638,13 +638,13 @@ York, 1860).
 
 At Rio Ulloa are remains which testify to the existence of a large
 population in past days. Possibly they may be identified with a site
-of the name of Naco mentioned by Las Casas and by Bernal Diaz (_Histoire
+of the name of Naco mentioned by [[Las Casas]] and by Bernal [[Diaz]] (_Histoire
 véridique de la conquête de la Nouvelle Espagne_, translated by D.
 Fourdanet, 2nd ed., Paris, 1877, ch. 178, p. 690).
 
 _Chiapas_ (Mexico).--The principal site is Palenque, the ruins of which
 were amongst the earliest of all to attract attention. The style of
-architecture, with the gigantic vaults and singular comb-shaped gables,
+architecture, with the gigantic vaults and singular comb-shaped [[Gable|gables]],
 distinguishes Palenque from Copan and Quirigua, which it surpasses also
 in the unequalled magnificence of its sculptures. Five out of the
 remarkably uniform series of buildings may be specially mentioned. They
@@ -670,7 +670,7 @@ is composed of a distinct racial group, best represented by the
 Zapotecs, who have been for an unknown length of time the intermediaries
 between the Nahua civilization of Mexico on the west and the Mayan on
 the east. The influence of the two separate currents may be detected in
-the bastard calendar system no less than in the still undeciphered
+the [[Bastard|bastard]] calendar system no less than in the still undeciphered
 inscriptions. The principal ruins are those of Mitla, the burial city of
 the priests and kings of the ancient Zapotecs, which bear a quite
 distinct character, though presenting certain analogies with the
@@ -690,8 +690,8 @@ _British Honduras_.--The antiquities of British Honduras have been but
 little investigated. In the scanty literature relating to them a few
 accounts of ruined places are to be found. In style these buildings
 closely resemble those of the neighbouring Yucatan. The ruins in the
-colony New Boston, mentioned by Froebel (_Central America_, p. 167), are
-of this kind. F. de P. Castells (see _American Antiquarian_, Chicago,
+colony New [[Boston]], mentioned by Froebel (_Central America_, p. 167), are
+of this kind. F. de P. Castells (see _American Antiquarian_, [[Chicago]],
 1904, vol. xxvi. pp. 32-37) describes the ruins, in the north of the
 colony, of "Ixim chech," supposed to be the Indian form of the English
 name "Indian Church." They are on the road to the Lake of Yaxha (green
@@ -726,7 +726,7 @@ pyramids and ramparts have perpendicular steps which are higher than
 they are broad, and this peculiarity may be attributed to the influence
 of the Maya tribes, who are related to the Mams of Guatemala.
 
-_Decipherment of the Mayan Hieroglyphs._--The key to the decipherment,
+_Decipherment of the Mayan Hieroglyphs._--The [[Key|key]] to the decipherment,
 so far as this has progressed at present, was furnished by the _Historia
 de las Cosas de Yucatan_, a work written by Diego de Landa, the first
 bishop of the country. This professed to give, with much other more or
@@ -735,7 +735,7 @@ analogous to that of the Mexicans, which was said to have been used by
 the Mayas (see MEXICO). The signs for each of the 20 days and for the 18
 weeks of 20 days are figured by Landa. The first step was to compare
 these with the hieroglyphic characters contained in the few Mayan
-picture manuscripts (Codex Troano, Cortesianus, Peresianus, Dresden
+picture [[Manuscript|manuscripts]] (Codex Troano, Cortesianus, Peresianus, [[Dresden]]
 Codex) which have survived the destructive fanaticism of the Spanish
 missionaries. Förstemann's acute analysis detected that the bars and
 dots which occur along the margin and in the body of the pictorial
@@ -743,7 +743,7 @@ scenes represented numerals, dots standing for each integer up to five,
 while for five a bar was used. Next, it was found that the order in
 which these numeral-signs are placed is regular, and that there are
 never more than five in a group. It was established that the first sign
-in such a group is that for the numeral 1 (_Kin_), the next that for 20
+in such a group is that for the numeral 1 (_[[Kin]]_), the next that for 20
 (_Uinal_), the third for 18×20 (_Tun_), the fourth for 18×20×20
 (_Katun_), and the fifth for 18×20×20×20, that is to say, a cycle.
 
@@ -760,7 +760,7 @@ the world was created. It is placed at nine or ten cycles before the
 time when Copan and Quirigua were erected and the picture manuscripts
 made. And it is by reference to it in the inscriptions that such
 students as Seler, Goodman and others have been enabled, as already
-stated, to obtain a record of the relative chronology of the most famous
+stated, to obtain a record of the relative [[Chronology|chronology]] of the most famous
 monuments, to confine the period of their erection within the space of a
 few centuries, and approximately to fix even their absolute antiquity.
 Though much yet remains to be done, these are substantial results which
@@ -774,7 +774,7 @@ have already been won from the study of the hieroglyphs.
   America, Chiapas and Yucatan_ (New York, 1841 and 1867), and B.M.
   Norman's _Rambles in Yucatan_ (New York, 1843), are still of value,
   the first-mentioned especially for the drawings by Catherwood. Among
-  the earlier writers may also be mentioned Charnay, _Les Anciennes
+  the earlier writers may also be mentioned [[Charnay]], _Les Anciennes
   Villes du Nouveau Monde_ (Paris, 1885) and _Cités et ruines
   américaines_ (Paris, 1863), the latter written in collaboration with
   Viollet-le-Duc. Those, however, who are not primarily bibliophiles
@@ -788,7 +788,7 @@ have already been won from the study of the hieroglyphs.
   Chacula_ (Berlin, 1901), _Wandmalereien von Mitla_ (Berlin, 1895),
   _Ges. Abhandlungen_, vol. i. (Berlin, 1902) and vol. ii. (1904),
   _Fuhrer von Mitla_ (Berlin, 1906). E. Förstemann has contributed many
-  valuable essays to _Globus_ and the _Zeitschrift fur Ethnologie_
+  valuable essays to _Globus_ and the _Zeitschrift [[Fur|fur]] Ethnologie_
   (Berlin); especially important are his commentaries to the _Dresden
   Codex_ (Dresden, 1901), to the _Codex Tro-Cortesianus Madrilensis_
   (Danzig, 1902), and to the _Codex Peresianus_ (Danzig, 1903). See also
@@ -805,7 +805,7 @@ have already been won from the study of the hieroglyphs.
   Bourbourg--_Manuscrit Troano, étude sur le système graphique et la
   langue des Mayas_ (Paris, 1869-1870), the _Codex Cortesianus_ by Léon
   de Rosny (Paris, 1883) and by F. de Dios de la Rada y Delgado and F.L.
-  de Ayala y del Hierro (Madrid, 1893), the _Codex Peresianus_ by Duruy
+  de [[Ayala]] y del Hierro (Madrid, 1893), the _Codex Peresianus_ by Duruy
   and Brasseur de Bourbourg (Paris, 1864) and by L. de Rosny (Paris,
   1887). The following relate especially to the ruins in Salvador:--_La
   Universidad_, by D. Gonzalez, vol. ii. ser. 3, No. 6, p. 283 (San

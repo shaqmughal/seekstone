@@ -6,7 +6,7 @@ of the fig genus. The name was originally given by Europeans to a
 particular tree on the Persian Gulf beneath which some Hindu "merchants"
 had built a pagoda. In Calcutta the word was once generally applied to a
 native broker or head clerk in any business or private house, now usually
-known as sircar. _Bunya_, a corruption of the word common in Bengal
+known as sircar. _Bunya_, a corruption of the word common in [[Bengal]]
 generally, is usually applied to the native grain-dealer. Early writers
 sometimes use the term generically for all Hindus in western India.
 _Banyan_ was long Anglo-Indian for an undershirt, in allusion to the body

@@ -8,14 +8,14 @@ tags: [history]
 # Intuition
 
 INTUITION (from Lat. _intueri_, to look at), in philosophy, a term
-applied to immediate or direct apprehension. The truth of a theorem in
+applied to immediate or direct [[Apprehension|apprehension]]. The truth of a theorem in
 geometry is demonstrated by a more or less elaborate series of
 arguments. This is not the case, according to the intuitionalist school
 of philosophy, with the apprehension of universal principles, which
 present themselves as necessarily true in their own right, without any
 sort of proof. The fact that things which are equal to the same things
 are equal to one another is apprehended directly or immediately without
-demonstration. Similarly in ethics the intuitional school holds that the
+demonstration. Similarly in [[Ethics|ethics]] the intuitional school holds that the
 principles of right and wrong are immediately apprehended without
 reference to any other criterion and without any appeal to experience.
 Ethical intuitionalism sometimes goes even farther, and holds that the

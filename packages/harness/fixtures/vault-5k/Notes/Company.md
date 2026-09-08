@@ -6,13 +6,13 @@ meaning--the association of individuals in pursuit of some common
 object. The taking of meals together was, as the word signifies (_cum_,
 with, _panis_, bread,) a characteristic of the early company. Gild had a
 similar meaning: but this characteristic, though it survives in the
-Livery company (see LIVERY COMPANIES), has in modern times disappeared.
+[[Livery]] company (see [[Livery Companies|LIVERY COMPANIES]]), has in modern times disappeared.
 The word "company" is now monopolized--in British usage--by two great
 classes of companies--(1) the joint stock company, constituted under the
 Companies (Consolidation) Act 1908, which consolidated the various acts
 from 1862 to 1907, and (2) the "public company," constituted under a
 special act to carry on some work of public utility, such as a railway,
-docks, gasworks or waterworks, and regulated by the Companies Clauses
+[[Dock|docks]], gasworks or waterworks, and regulated by the Companies Clauses
 Acts 1845 and 1863.
 
 
@@ -64,7 +64,7 @@ grievance, prejudice and inconvenience of His Majesty's subjects or
 great numbers of them in trade, commerce or other lawful affairs." They
 were too often--and this no doubt was the real ground of the prejudice
 against them--utilized by unprincipled persons to promote fantastic and
-often fraudulent schemes. Matthew Green, in his poem "The Spleen," notes
+often fraudulent schemes. [[Matthew]] Green, in his poem "The Spleen," notes
 how
 
   "Wrecks appear each day,
@@ -98,15 +98,15 @@ an ordinary partnership, though their liability is unlimited (or was
 until the Limited Partnerships Act 1907), the partners can generally
 tell what risks they are incurring. Not so the shareholders of a
 company. They delegate the management of their business to a board of
-directors, and they may easily find themselves committed by the fraud or
+directors, and they may easily find themselves committed by the [[Fraud|fraud]] or
 folly of its members to engagements which in the days of unlimited
 liability meant ruin. Failures like those of Overend and Gurney, and of
-the Glasgow Bank, caused widespread misery and alarm. It was not until
+the [[Glasgow]] Bank, caused widespread misery and alarm. It was not until
 limited liability had been grafted on the stock of the co-operative
 system that the real potency of the principle of industrial co-operation
 became apparent. We owe the adoption of the limited liability principle
 to the clear-sightedness of Lord Sherbrooke--then Mr Robert Lowe--and to
-the vigorous advocacy of Lord Bramwell. We owe it to Lord Bramwell also
+the vigorous advocacy of Lord [[Bramwell]]. We owe it to Lord Bramwell also
 that the principle was made a feasible one. The practical difficulty was
 how to bring home to persons dealing with the company notice that the
 liability of the shareholders was limited. Lord Bramwell solved the
@@ -135,7 +135,7 @@ the normal type and incomparably the most important, that this article
 mainly deals.
 
 _Companies Limited by Shares._--The Companies Act 1862, was intended to
-constitute a comprehensive code of law applicable to joint stock trading
+constitute a comprehensive [[Code|code]] of law applicable to joint stock trading
 companies for the whole of the United Kingdom. Recognizing the mischief
 above alluded to--of trading concerns being carried on by large and
 fluctuating bodies, the act begins by declaring that no company,
@@ -212,7 +212,7 @@ different. So strict is the rule that not even the consent of every
 individual shareholder can give validity to an _ultra vires_ act.
 
 
-  Articles of Association.
+  [[Articles Of Association|Articles of Association]].
 
 The articles of association are the regulations for internal management
 of the company--the terms of the partnership agreed upon by the
@@ -294,7 +294,7 @@ this purpose the sanction of the court must be obtained by petition.
 
 A share is an aliquot part of a company's nominal capital. The amount
 may be anything from 1s. to £1000. The tendency of late years has been
-to keep the denomination low, and so to appeal to a wider public. Shares
+to keep the [[Denomination|denomination]] low, and so to appeal to a wider public. Shares
 of £100, or even £10, are now the exception. The most common amount is
 either £1 or £5. Shares are of various kinds--ordinary, preference,
 deferred, founders' and management. Into what classes of shares the
@@ -316,7 +316,7 @@ out of the profits of subsequent years. Prima facie, a preferential
 dividend is cumulative. For issuing preference shares the question for
 the directors is, what must be offered to attract investors. Preference
 shareholders are given by the Companies Act 1907, s. 23; Companies
-(Consolidation) Act 1908, s. 114, the right to inspect balance sheets.
+(Consolidation) Act 1908, s. 114, the right to inspect [[Balance|balance]] sheets.
 Founders' shares--which originated with private companies--are shares
 which usually take the whole or half the profits after payment of a
 dividend of 7 or 10% to the ordinary shareholders. They are much less in
@@ -419,7 +419,7 @@ long and elaborate series of particulars about the company--the
 contents of the Memorandum of Association, with the names of the
 signatories, the share qualification (if any) of the directors, the
 minimum subscription on which the directors may proceed to allotment,
-the shares and debentures issued otherwise than for cash, the names and
+the shares and debentures issued otherwise than for [[Cash|cash]], the names and
 addresses of the vendors, the amount paid for underwriting the company,
 the amount of preliminary expenses, of promotion money (if any), and the
 interest (if any) of every director in the promotion or in property to
@@ -563,7 +563,7 @@ such persons should know as far as possible what was the limited capital
 which was the sole fund available to satisfy their claims--what amount
 had been called up, what remained uncalled, who were the persons to pay,
 and in what amounts. These data might materially assist a person
-dealing with the company in determining, whether he would give it credit
+dealing with the company in determining, whether he would give it [[Credit|credit]]
 or not; in any case they are matters which the public had a right to
 know. The legislature, recognizing this, has exacted as a condition of
 the privilege of trading with limited liability that the company shall
@@ -658,7 +658,7 @@ it is being made (e.g. to multiply votes), if there is no objection to
 the transferee.
 
 
-  Blank transfers.
+  [[Blank]] transfers.
 
 It is a common and convenient practice to deposit share or stock
 certificates with bankers and others to secure an advance. When this is
@@ -709,7 +709,7 @@ Individual traders and trading firms have in recent years become much
 more alive to the advantages offered by incorporation. They have
 discovered that incorporation gives them the protection of limited
 liability; that it prevents dislocation of a business by the death,
-bankruptcy or lunacy of any of its members; that it enables a trader to
+[[Bankruptcy|bankruptcy]] or lunacy of any of its members; that it enables a trader to
 distribute among the members of his family interests in his business on
 his decease through the medium of shares; that it facilitates borrowing
 on debentures or debenture stock, and with a view to secure these
@@ -813,7 +813,7 @@ under the supervision of the court; and (2) winding-up by the court. Of
 these voluntary winding-up is by far the more common. Of the companies
 that come to an end 90% are so wound up; and this is in accordance with
 the policy of the legislature, evinced throughout the Companies Acts,
-that shareholders should manage their own affairs--winding-up being one
+that shareholders should [[Manage|manage]] their own affairs--winding-up being one
 of such affairs. A voluntary winding-up is carried out by the
 shareholders passing a special resolution requiring the company to be
 wound up voluntarily, or an extraordinary resolution (now defined by s.
@@ -876,7 +876,7 @@ company's assets in due course of administration; and for this purpose
 he advertises for creditors, makes calls on contributories, sues
 debtors, takes misfeasance proceedings, if necessary, against directors
 or promoters, and carries on the company's business--supposing the
-goodwill to be an asset of value--with a view to selling it as a going
+[[Goodwill|goodwill]] to be an asset of value--with a view to selling it as a going
 concern. He may be assisted, like a trustee in bankruptcy, by a
 committee of inspection, composed of creditors and contributories.
 
@@ -961,7 +961,7 @@ the tree."
 _3. British Companies Abroad._
 
 The status of British companies trading abroad, so far as Germany,
-France, Belgium, Greece, Italy and Spain are concerned, is expressly
+France, [[Belgium]], Greece, Italy and Spain are concerned, is expressly
 recognized in a series of conventions entered into between those
 countries and Great Britain. The value of the convention with France has
 been much impaired by the interpretation put upon the words of it by the
@@ -984,7 +984,7 @@ register. It must pay stamp duties.
 Foreign companies may found an affiliated company or have a branch
 establishment in Italy, provided they publish their memorandum and
 articles and the names of their directors. Where no convention exists
-the status of an immigrant corporation depends upon international
+the status of an immigrant corporation depends upon [[International|international]]
 comity, which allows foreign corporations, as it does foreign persons,
 to sue, to make contracts and hold real estate, in the same way as
 domestic corporations or citizens; provided the stranger corporation
@@ -1056,7 +1056,7 @@ vote of holders of two-thirds in value of the subscribed stock of the
 company.
 
 _South Africa._--In Cape Colony the law is contained in No. 25 of 1892,
-amended 1895 and 1906; it follows English law.
+amended 1895 and 1906; it follows [[English Law|English law]].
 
 In Natal the law is contained in Nos. 10 of 1864, 18 of 1865, 19 of 1893
 and 3 of 1896.
@@ -1198,7 +1198,7 @@ in such cases cannot set up by way of protection the doctrine of _ultra
 vires_.
 
   See for authorities _Commentaries on the Law of Private Corporations_,
-  by Seymour D. Thompson, LL.D., 6 vols.; Beach on _Corporations_, and
+  by Seymour D. Thompson, LL.D., 6 vols.; [[Beach]] on _Corporations_, and
   the _American Encyclopaedia of Law_.     (E. MA.)
 
 ## References

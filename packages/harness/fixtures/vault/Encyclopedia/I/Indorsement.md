@@ -3,7 +3,7 @@
 INDORSEMENT, or ENDORSEMENT (from Med. Lat. _indorsare_, to write upon
 the _dorsum_, or back), anything written or printed upon the back of a
 document. In its technical sense, it is the writing upon a bill of
-exchange, cheque or other negotiable instrument, by one who has a right
+[[Exchange|exchange]], cheque or other negotiable instrument, by one who has a right
 to the instrument and who thereby transmits the right and incurs certain
 liabilities. See BILL OF EXCHANGE.
 

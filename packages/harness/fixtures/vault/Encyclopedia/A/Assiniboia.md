@@ -25,12 +25,12 @@ To the north of the district lay the district of Saskatchewan, so that
 when the two were united by the Dominion act of 1905, they were somewhat
 changed in boundaries and the name Saskatchewan was given to the new
 province. The derivation of Assiniboia is from two Ojibway words,
-_assini_ meaning a stone, and the termination "to cook by roasting";
+_assini_ meaning a stone, and the termination "to [[Cook|cook]] by roasting";
 from these came a name first applied to a Dakota or Sioux tribe living
 on the Upper Red river; afterwards when this tribe separated from the
 Dakotas, its name was given to the branch of the Red river which the
 tribe visited, the river being known as the Assiniboine and the tribe as
-Assiniboin.
+[[Assiniboin]].
 
 ## See also
 

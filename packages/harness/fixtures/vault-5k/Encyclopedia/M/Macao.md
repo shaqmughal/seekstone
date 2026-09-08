@@ -25,7 +25,7 @@ destroyed by fire in 1835. The Hospital da Misericordia (1569) was
 rebuilt in 1640. The Camoens grotto, where the exiled poet found leisure
 to celebrate the achievements of his ungrateful country, lies in a
 secluded spot to the north of the town, which has been partly left in
-its native wildness strewn with huge granite boulders and partly
+its native wildness strewn with huge granite [[Boulder|boulders]] and partly
 transformed into a fine botanical garden. During the south-west (summer)
 monsoon great quantities (67 in.) of rain fall, especially in July and
 August. The mean temperature is 74.3° F.; in July, the hottest month,
@@ -46,7 +46,7 @@ commerce in eastern Asia to be outstripped by its younger and more
 liberal rivals, the local, though not the foreign, trade of the place is
 still of very considerable extent. Since the middle of the 19th century,
 indeed, much of it has run in the most questionable channels; the
-nefarious coolie traffic gradually increased in extent and in cruelty
+nefarious [[Coolie|coolie]] traffic gradually increased in extent and in cruelty
 from about 1848 till it was prohibited in 1874, and much of the actual
 trade is more or less of the nature of smuggling. The commodities
 otherwise mostly dealt in are opium, tea, rice, oil, raw cotton, fish

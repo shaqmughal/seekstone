@@ -3,12 +3,12 @@
 GUDRUN (KUDRUN), a Middle High German epic, written probably in the
 early years of the 13th century, not long after the _Nibelungenlied_,
 the influence of which may be traced upon it. It is preserved in a
-single MS. which was prepared at the command of Maximilian I., and was
+single MS. which was prepared at the command of [[Maximilian]] I., and was
 discovered as late as 1820 in the Castle of Ambras in Tirol. The author
 was an unnamed Austrian poet, but the story itself belongs to the cycle
 of sagas, which originated on the shores of the North Sea. The epic
 falls into three easily distinguishable parts--the adventures of King
-Hagen of Ireland, the romance of Hettel, king of the Hegelingen, who
+[[Hagen]] of Ireland, the romance of Hettel, king of the Hegelingen, who
 woos and wins Hagen's daughter Hilde, and lastly, the more or less
 parallel story of how Herwig, king of Seeland, wins, in opposition to
 her father's wishes, Gudrun, the daughter of Hettel and Hilde. Gudrun is
@@ -35,16 +35,16 @@ others, and does not contain the extra accented syllable characteristic
 of the _Nibelungen_ metre.
 
   _Gudrun_ was first edited by von der Hagen in vol. i. of his
-  _Heldenbuch_ (1820). Subsequent editions by A. Ziemann and A. J.
+  _[[Heldenbuch]]_ (1820). Subsequent editions by A. Ziemann and A. J.
   Vollmer followed in 1837 and 1845. The best editions are those by K.
   Bartsch (4th ed., 1880), who has also edited the poem for Kurschner's
   _Deutsche Nationalliteratur_ (vol. 6, 1885), by B. Symons (1883) and
-  by E. Martin (2nd ed., 1901). L. Ettmuller first applied Lachmann's
+  by E. [[Martin]] (2nd ed., 1901). L. Ettmuller first applied Lachmann's
   ballad-theory to the poem (1841), and K. Mullenhoff (_Kudrun, die
   echten Teile des Gedichts_, 1845) rejected more than three-quarters of
   the whole as "not genuine." There are many translations of the epic
   into modern German, the best known being that of K. Simrock (15th ed.,
-  1884). A translation into English by M. P. Nichols appeared at Boston,
+  1884). A translation into English by M. P. Nichols appeared at [[Boston]],
   U.S.A., in 1889.
 
   See K. Bartsch, _Beitrage zur Geschichte und Kritik der Kudrun_

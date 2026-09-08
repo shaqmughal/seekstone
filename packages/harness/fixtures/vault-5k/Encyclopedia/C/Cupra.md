@@ -9,8 +9,8 @@ Hadrian in A.D. 127, and probably (though there is some controversy on
 the point) occupied the site of the church of S. Martino, some way to
 the south, in which the inscription of Hadrian exists. At Civita the
 remains of what was believed to be the temple were more probably those
-of the forum of the town, as is indicated by the discovery of fragments
-of a calendar and of a statue of Hadrian. Some statuettes of Juno were
+of the [[Forum|forum]] of the town, as is indicated by the discovery of fragments
+of a calendar and of a statue of Hadrian. Some statuettes of [[Juno]] were
 also among the finds. An inscription of a water reservoir erected in 7
 B.C. is also recorded. But the more ancient Picene town appears to have
 been situated near the hill of S. Andrea, a little way to the south,

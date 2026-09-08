@@ -20,7 +20,7 @@ priest, and soon afterwards undertook the charge of the chairs of
 natural and moral philosophy. In 1808 he accompanied the community of
 Crook Hall to the new college at Ushaw, Durham, but in 1811, after
 declining the presidency of the college at Maynooth, he withdrew to the
-secluded mission at Hornby in Lancashire, where for the rest of his life
+secluded mission at [[Hornby]] in Lancashire, where for the rest of his life
 he devoted himself to literary pursuits. In 1817 he visited Rome, where
 he made researches in the Vatican Library. In 1821 Pope Pius VII.
 created him doctor of divinity and of canon and civil law; and in 1825

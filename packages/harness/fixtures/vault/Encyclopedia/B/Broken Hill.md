@@ -9,7 +9,7 @@ id: 42-4761
 # Broken Hill
 
 BROKEN HILL, a silver-mining town of Yancowinna county, New South Wales,
-Australia, 925 m. directly W. by N. of Sydney, and connected with Adelaide
+[[Australia]], 925 m. directly W. by N. of Sydney, and connected with Adelaide
 by rail. Pop. (1901) 27,518. One of the neighbouring mines, the
 Proprietary, is the richest in the world; gold is associated with the
 silver; large quantities of lead, good copper lodes, zinc and tin are also

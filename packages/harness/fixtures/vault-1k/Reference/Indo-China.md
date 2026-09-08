@@ -7,7 +7,7 @@ id: 42-639
 
 # Indo-China
 
-INDO-CHINA, FRENCH.[1] The geographical denomination of French
+INDO-CHINA, FRENCH.[1] The geographical [[Denomination|denomination]] of French
 Indo-China includes the protectorates of Annam, Tongking and Cambodia,
 the colony of Cochin-China and part of the Laos country. In 1900 the
 newly-acquired territory of Kwang-Chow Bay, on the coast of China, was
@@ -20,7 +20,7 @@ entirety French Indo-China, the eastern portion of the Indo-Chinese
 peninsula, lies between 8° 30´ and 230 25´ N. and 100° and 109° 20´ E.
 It is bounded N. by China, on which side the frontiers have been
 delimited; E. and S.E. by the Gulf of Tongking and the China Sea; W. by
-the Gulf of Siam and Siam, and N.W. by Burma. The area is estimated at
+the Gulf of Siam and Siam, and N.W. by [[Burma]]. The area is estimated at
 about 290,000 sq. m., with a population of 17¼ millions, of whom 75 or
 80% are Annamese. The French inhabitants number about 13,000.
 
@@ -117,7 +117,7 @@ rendering Saigon the most important natural port of Indo-China.
   and 95°. The nights, however, are comparatively cool. Tongking has a
   winter season--October to May. The temperature, lowered by fog and the
   rains, does not rise above 75.2° and descends to 50° over the delta,
-  and to 44.6° and even 42.8° in the highlands, where white frost is
+  and to 44.6° and even 42.8° in the highlands, where white [[Frost|frost]] is
   occasionally seen. The summer, on the other hand, is scorching. The
   wind veers to the south-east and remains there until October. The
   temperature rises to over 83°; often it reaches and continues for
@@ -136,7 +136,7 @@ rendering Saigon the most important natural port of Indo-China.
   districts the leopard, wild boar and deer are found, and in the
   neighbourhood of habitations the tiger-cat and ichneumon. The buffalo
   is commonly found wild in Laos as a domesticated animal it also holds
-  a prominent place. The zebu bull is used for transport purposes.
+  a prominent place. The zebu [[Bull|bull]] is used for transport purposes.
   Attempts to acclimatize the Arab horse and to introduce sheep from
   Aden and China have failed. There is, however, an indigenous race of
   horses, excellent in spite of their small size--the horses of Phu-Yen.
@@ -276,7 +276,7 @@ attendance of the local authorities of regions other than those in which
 the place of meeting is situated. The Superior Council meets annually to
 receive the general budget and the local budgets which "must be accepted
 by the governor-general at a session of the Superior Council."[2] It
-must also be consulted on the distribution of military credits, and on
+must also be consulted on the distribution of military [[Credit|credits]], and on
 the credits to be devoted to public works. The _contrôle financier_,
 which scrutinizes and sanctions all measures of the public services
 involving outlay of money, is dependent on the ministry of the colonies.
@@ -614,7 +614,7 @@ action. Order was restored within the delta. In the mountainous
 districts infested by pirates roads were opened and posts established.
 The chief haunts of the pirates were demolished, and during 1893 the
 foremost pirate chiefs gave in their submission. The Indo-Chinese budget
-regained its balance. On the Chinese frontier agreements were concluded
+regained its [[Balance|balance]]. On the Chinese frontier agreements were concluded
 with Marshal Sou, in command of the Chinese forces, regarding the
 simultaneous repression of piracy in both countries. But on the Mekong
 difficulties arose with the Siamese. For centuries Siam had occupied the
@@ -777,7 +777,7 @@ Sanskrit, with its descendants, (b) Zend, and (c) Old Persian, from
 which is ultimately descended Modern Persian, largely modified, however,
 by Arabic words. This group is often divided into two sub-groups,
 _Indo-Aryan_, including the languages of India, and _Iranian_, used as a
-general title for Zend and Old Persian as the languages of ancient Iran.
+general title for Zend and Old Persian as the languages of ancient [[Iran]].
 Although the sounds of Indo-Aryan and Iranian differ considerably,
 phrases of the earliest form of the one can be transliterated into the
 other without change in vocabulary or syntax. (2) To the west of these
@@ -837,7 +837,7 @@ that languages thus violently metamorphosed could be referred so easily
 at a later period to the same original. The first person to indicate
 very briefly the existence of the Indo-European family, though he gave
 it no distinctive name, was Sir William Jones in his address to the
-Bengal Oriental Society in 1786. Being a skilled linguist, he recognized
+[[Bengal]] Oriental Society in 1786. Being a skilled linguist, he recognized
 that Sanskrit must be of the same origin as Greek, Latin, Teutonic
 (Germanic) and possibly Celtic (_Asiatic Researches_, i. p. 422; _Works_
 of Sir W. Jones, i. p. 26, London, 1799). Unfortunately Sir William
@@ -866,13 +866,13 @@ this family. On the other hand there are many languages belonging to the
 family which exist outside both India and Europe--Zend, Old Persian,
 Armenian, Phrygian, to say nothing of languages recently discovered. The
 term most commonly used in Germany is "Indo-Germanic." This was employed
-by Klaproth as early as 1823. It is said not to have been invented by
+by [[Klaproth]] as early as 1823. It is said not to have been invented by
 him, but by whom and when it was invented is not quite ascertained.[4]
 It is an attempt to name the family by its most easterly and most
 westerly links. At the time when it was invented it had not yet been
 settled whether Celtic was or was not a member of this family. But in
 any case the term would not have been wrong, for members of the Germanic
-stock have been settled for above a thousand years in Iceland, the most
+stock have been settled for above a thousand years in [[Iceland]], the most
 westerly land of Europe, and for the last four centuries have
 increasingly dominated the continent of America. As has been pointed out
 by Professor Buck of Chicago (_Classical Review_, xviii. p. 400), owing
@@ -1164,7 +1164,7 @@ need arise.
   meanings. In some other members of the family, e.g. Germanic, the
   confusion has gone still farther.
 
-  The fate of the verb is similar, though the two paradigms do not
+  The [[Fate|fate]] of the verb is similar, though the two paradigms do not
   necessarily decay at the same rate. Thus Latin has modified its verb
   system much more than its noun system, and Greek, while reducing
   seriously its noun forms, shows a very elaborate verb system, which
@@ -1200,7 +1200,7 @@ before the Oriental Congress at Stockholm in 1889, argued for a close
 contact between early Indo-European and Assyrian civilization, from the
 borrowing of one or two words and the existence of duodecimal elements
 in the Indo-European numeral system side by side with the prevalent
-decimal system--the dozen, the gross, the long hundred (120), &c. At 60
+decimal system--the dozen, the [[Gros|gross]], the long hundred (120), &c. At 60
 the systems crossed, and 60 was a very characteristic element in
 Assyrian numeration, whence come our minutes and seconds and many other
 units.[6]
@@ -1284,7 +1284,7 @@ units.[6]
   less importance than the size of the quantities. Anthropologists
   appear now to recognize this themselves.
 
-  The argument from physical geography seems more important. But here
+  The argument from physical [[Geography|geography]] seems more important. But here
   also no certain answer can be obtained till more is known of the
   conditions, in early times, of the eastern part of the area.
   According to Ratzel[7] the Caspian was once very much larger than it
@@ -1370,7 +1370,7 @@ units.[6]
   wealth consisted. Hence a cow was offered to an honoured guest, cows
   were the object of armed raids upon their neighbours, and when a
   member of the family died, a cow was killed to accompany him in the
-  next world. Even the phenomena of nature to their naive imaginations
+  next world. Even the phenomena of nature to their naive [[Imagination|imaginations]]
   could be represented by cows: the clouds of heaven were cows whose
   milk nourished the earth, the stars were a herd with the sun as the
   bull amongst them, the earth was a cow yielding her increase. Before
@@ -1406,7 +1406,7 @@ units.[6]
   domestication is used loosely simply of animals that might be kept by
   the Indo-European man about his homestead. Even at the present day
   domestication means different things in the case of different animals.
-  A pig is not domesticated as a dog is; in areas like the Hebrides or
+  A pig is not domesticated as a dog is; in areas like the [[Hebrides]] or
   western Ireland, where cattle and human beings share the two ends of
   the same building, domestication means something very different from
   the treatment of large herds on a farm extending to many hundreds of

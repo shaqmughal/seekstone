@@ -1,7 +1,7 @@
 # Fougeres
 
-FOUGERES, a town of north-western France, capital of an arrondissement
-in the department of Ille-et-Vilaine, 30 m. N.E. of Rennes by rail. Pop.
+FOUGERES, a town of north-western France, capital of an [[Arrondissement|arrondissement]]
+in the department of [[Ille-Et-Vilaine|Ille-et-Vilaine]], 30 m. N.E. of Rennes by rail. Pop.
 (1906) 21,847. Fougeres is built on the summit and slopes of a hill on
 the left bank of the Nancon, a tributary of the Couesnon. It was
 formerly one of the strongest places on the frontier towards Normandy,
@@ -11,7 +11,7 @@ castle, which is situated in the lower part of the town, directly
 overlooking the Nancon, is now a picturesque ruin, but gives abundant
 evidence in its towers and outworks of its former strength and
 magnificence. The finest of the towers was erected in 1242 by Hugues of
-Lusignan, and named after Melusine, the mythical foundress of the
+[[Lusignan]], and named after Melusine, the mythical foundress of the
 family. The churches of St Leonard and St Sulpice both date, at least in
 part, from the 15th century. An hotel de ville and a belfry, both of the
 15th century, are of architectural interest, and the town possesses many

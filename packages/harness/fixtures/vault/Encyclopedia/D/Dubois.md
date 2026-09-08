@@ -1,15 +1,15 @@
 # Dubois
 
-DUBOIS, GUILLAUME (1656-1723), French cardinal and statesman, was born
-at Brive, in Limousin, on the 6th of September 1656. He was, according
-to his enemies, the son of an apothecary, his father being in fact a
+DUBOIS, [[Guillaume|GUILLAUME]] (1656-1723), French cardinal and statesman, was born
+at [[Brive]], in [[Limousin]], on the 6th of September 1656. He was, according
+to his enemies, the son of an [[Apothecary|apothecary]], his father being in fact a
 doctor of medicine of respectable family, who kept a small drug store as
 part of the necessary outfit of a country practitioner. He was educated
 at the school of the Brothers of the Christian Doctrine at Brive, where
 he received the tonsure at the age of thirteen. In 1672, having finished
 his philosophy course, he was given a scholarship at the college of St
 Michel at Paris by Jean, marquis de Pompadour, lieutenant-general of the
-Limousin. The head of the college, the abbé Antoine Faure, who was from
+Limousin. The head of the college, the abbé [[Antoine]] [[Faure]], who was from
 the same part of the country as himself, befriended the lad, and
 continued to do so for many years after he had finished his course,
 finding him pupils and ultimately obtaining for him the post of tutor to
@@ -18,14 +18,14 @@ Astute, ambitious and unrestrained by conscience, Dubois ingratiated
 himself with his pupil, and, while he gave him formal school lessons, at
 the same time pandered to his evil passions and encouraged him in their
 indulgence. He gained the favour of Louis XIV. by bringing about the
-marriage of his pupil with Mademoiselle de Blois, a natural but
+marriage of his pupil with Mademoiselle de [[Blois]], a natural but
 legitimated daughter of the king; and for this service he was rewarded
 with the gift of the abbey of St Just in Picardy. He was present with
 his pupil at the battle of Steinkirk, and "faced fire," says Marshal
-Luxembourg, "like a grenadier." Sent to join the French embassy in
+Luxembourg, "like a grenadier." Sent to join the French [[Embassy|embassy]] in
 London, he made himself so active that he was recalled by the request of
 the ambassador, who feared his intrigues. This, however, tended to raise
-his credit with the king. When the duke of Orleans became regent (1715)
+his [[Credit|credit]] with the king. When the duke of Orleans became regent (1715)
 Dubois, who had for some years acted as his secretary, was made
 councillor of state, and the chief power passed gradually into his
 hands.
@@ -44,11 +44,11 @@ dissolute life he impudently prayed the regent to give him the
 archbishopric of Cambray, the richest in France. His demand was
 supported by George I., and the regent yielded. In one day all the
 usual orders were conferred on him, and even the great preacher
-Massillon consented to take part in the ceremonies. His next aim was the
+[[Massillon]] consented to take part in the ceremonies. His next aim was the
 cardinalate, and, after long and most profitable negotiations on the
-part of Pope Clement XI., the red hat was given to him by Innocent XIII.
+part of Pope [[Clement]] XI., the red hat was given to him by [[Innocent]] XIII.
 (1721), whose election was largely due to the bribes of Dubois. It is
-estimated that this cardinalate cost France about eight million francs.
+estimated that this cardinalate cost France about eight million [[Franc|francs]].
 In the following year he was named first minister of France (August). He
 was soon after received at the French Academy; and, to the disgrace of
 the French clergy, he was named president of their assembly.
@@ -62,7 +62,7 @@ necessary. This was almost immediately followed by his death, at
 Versailles, on the 10th of August 1723. His portrait was thus drawn by
 the duc de St Simon:--"He was a little, pitiful, wizened, herring-gutted
 man, in a flaxen wig, with a weasel's face, brightened by some
-intellect. All the vices--perfidy, avarice, debauchery, ambition,
+[[Intellect|intellect]]. All the vices--perfidy, avarice, debauchery, ambition,
 flattery--fought within him for the mastery. He was so consummate a liar
 that, when taken in the fact, he could brazenly deny it. Even his wit
 and knowledge of the world were spoiled, and his affected gaiety was

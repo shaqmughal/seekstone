@@ -8,11 +8,11 @@ health resort. A mile and a half north-east are the Falls of Bracklinn
 (Gaelic, "white-foaming pool"), formed by the Keltie, which takes a leap
 of 50 ft. down the red sandstone gorge on its way to the Teith. Two
 miles north-west of Callander is the Pass of Leny, "the gate of the
-Highlands," and farther in the same direction is Loch Lubnaig, on the
+Highlands," and farther in the same direction is [[Loch]] Lubnaig, on the
 shores of which stand the ruins of St Bride's chapel. Callander owes
 much of its prosperity to the fact that it is the centre from which the
 Trossachs is usually visited, the route being that described in Scott's
-_Lady of the Lake_. The ascent of Ben Ledi is commonly made from the
+_Lady of the Lake_. The ascent of [[Ben]] Ledi is commonly made from the
 town.
 
 ## See also

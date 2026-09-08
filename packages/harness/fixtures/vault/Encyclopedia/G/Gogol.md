@@ -9,11 +9,11 @@ type: article
 
 GOGOL, NIKOLAI VASILIEVICH (1809-1852), Russian novelist, was born in
 the province of Poltava, in South Russia, on the 31st of March 1809.
-Educated at the Niezhin gymnasium, he there started a manuscript
+Educated at the Niezhin gymnasium, he there started a [[Manuscript|manuscript]]
 periodical, "The Star," and wrote several pieces including a tragedy,
 _The Brigands_. Having completed his course at Niezhin, he went in 1829
 to St Petersburg, where he tried the stage but failed. Next year he
-obtained a clerkship in the department of appanages, but he soon gave it
+obtained a clerkship in the department of [[Appanage|appanages]], but he soon gave it
 up. In literature, however, he found his true vocation. In 1829 he
 published anonymously a poem called _Italy_, and, under the pseudonym of
 V. Alof, an idyll, _Hans Kuchel Garten_, which he had written while
@@ -21,7 +21,7 @@ still at Niezhin. The idyll was so ridiculed by a reviewer that its
 author bought up all the copies he could secure, and burnt them in a
 room which he hired for the purpose at an inn. Gogol then fell back upon
 South Russian popular literature, and especially the tales of Cossackdom
-on which his boyish fancy had been nursed, his father having occupied
+on which his boyish [[Fancy|fancy]] had been nursed, his father having occupied
 the post of "regimental secretary," one of the honorary officials in
 the Zaporogian Cossack forces.
 
@@ -31,13 +31,13 @@ by Rudy Panko_. This work, containing a series of attractive pictures of
 that Little-Russian life which lends itself to romance more readily than
 does the monotony of "Great-Russian" existence, immediately obtained a
 great success--its light and colour, its freshness and originality being
-hailed with enthusiasm by the principal writers of the day in Russia.
+hailed with [[Enthusiasm|enthusiasm]] by the principal writers of the day in Russia.
 Whereupon Gogol planned, not only a history of Little-Russia, but also
 one of the middle ages, to be completed in eight or nine volumes. This
 plan he did not carry out, though it led to his being appointed to a
 professorship in the university of St Petersburg, a post in which he met
 with small success and which he resigned in 1835. Meanwhile he had
-published his _Arabesques_, a collection of essays and stories; his
+published his _[[Arabesque|Arabesques]]_, a collection of essays and stories; his
 _Taras Bulba_, the chief of the _Cossack Tales_ translated into English
 by George Tolstoy; and a number of novelettes, which mark his transition
 from the romantic to the realistic school of fiction, such as the
@@ -47,7 +47,7 @@ the petty miseries endured by an ill-paid clerk in a government office,
 the great object of whose life is to secure the "cloak" from which his
 story takes its name. To the same period belongs his celebrated comedy,
 the _Revizor_, or government inspector. His aim in writing it was to
-drag into light "all that was bad in Russia," and to hold it up to
+[[Drag|drag]] into light "all that was bad in Russia," and to hold it up to
 contempt. And he succeeded in rendering contemptible and ludicrous the
 official life of Russia, the corruption universally prevailing
 throughout the civil service, the alternate arrogance and servility of
@@ -82,7 +82,7 @@ of his _Dead Souls_ was written. His residence there, especially at
 Rome, made a deep impression on his mind, which, during his later years,
 turned towards mysticism. The last works which he published, his
 _Confession_ and _Correspondence with Friends_, offer a painful contrast
-to the light, bright, vigorous, realistic, humorous writings which had
+to the light, [[Bright|bright]], vigorous, realistic, humorous writings which had
 gained and have retained for him his immense popularity in his native
 land. Asceticism and mystical exaltation had told upon his nervous
 system, and its feeble condition showed itself in his literary

@@ -3,7 +3,7 @@
 BOILER, a vessel in which water or other liquid is heated to the boiling
 point; specifically, the apparatus by which steam is produced from
 water, as one step in the process whereby the potential energy of coal
-or other fuel is converted into mechanical work by means of the
+or other [[Fuel|fuel]] is converted into mechanical work by means of the
 steam-engine. Boilers of the latter kind must all possess certain
 essential features, whilst of other qualities that are desirable some
 may not be altogether compatible with the special conditions under which
@@ -13,7 +13,7 @@ evaporation, and strong enough continuously to withstand with safety the
 highest pressure of steam for which the boiler is intended. Another
 essential is a furnace for burning the fuel, and a further one is the
 provision of a sufficiency of heating surface for the transmission of
-the heat produced by the combustion of the fuel to the water which is
+the heat produced by the [[Combustion|combustion]] of the fuel to the water which is
 required to be evaporated. Desirable qualities are that the arrangements
 of the furnaces should be such that a reasonably perfect combustion of
 the fuel should be possible, and that the heating surfaces should be
@@ -45,8 +45,8 @@ are led into a chamber and thence through flues or through numerous
 small tubes which serve to transmit some of the heat of combustion to
 the water contained in the boiler. In "water-tube" boilers the fire is
 usually placed under a collection of tubes containing water and forming
-the major portion of the heating surface of the boiler. Both the fire
-and the tubes are enclosed in an outer casing of brickwork or other
+the [[Major|major]] portion of the heating surface of the boiler. Both the fire
+and the tubes are enclosed in an outer casing of [[Brickwork|brickwork]] or other
 fire-resisting substance. In some forms of water-tube boiler the fire
 is entirely surrounded by water-tubes and the casing is in no part
 exposed to the direct action of the fire. In "tank" boilers generally no
@@ -73,7 +73,7 @@ hot-water boilers HEATING.)
   one plate bent into a cylindrical form, the longitudinal joint being
   welded, and is flanged at both ends, the various pieces being joined
   together by an "Adamson" joint (fig. 1.). It will be seen that these
-  joints do not expose either rivets or double thickness of plate to the
+  [[Joints|joints]] do not expose either rivets or double thickness of plate to the
   action of the fire; they further serve as stiffening rings to prevent
   collapse of the flue. In most of these boilers the heating surface is
   increased by fitting in the furnace flues a number of "Galloway"
@@ -117,7 +117,7 @@ hot-water boilers HEATING.)
 
     Vertical.
 
-  Where floor space is limited and also for small installations, other
+  Where floor space is limited and also for small [[Installation|installations]], other
   forms of cylindrical boilers are used, most of them being of the
   vertical type. That most commonly used is the simple vertical boiler,
   with a plain vertical fire-box, and an internal smoke stack traversing
@@ -129,7 +129,7 @@ hot-water boilers HEATING.)
   slight inclination to facilitate water circulation. and a hand-hole
   closed by a suitable door is provided in the outer shell opposite to
   each tube for cleaning purposes. A boiler of this kind is illustrated
-  in fig. 4. This form is often used on board ship for auxiliary
+  in fig. 4. This form is often used on board ship for [[Auxiliary|auxiliary]]
   purposes. Where more heating surface is required than can be obtained
   in the cross-tube boiler other types of vertical boiler are employed.
   For instance, in the "Tyne" boiler (fig. 5) the furnace is
@@ -168,7 +168,7 @@ hot-water boilers HEATING.)
   has a separate combustion chamber, but more usually one chamber is
   made to serve for two furnaces, one at each end of the boiler. The two
   types of boilers are shown in figs. 7 and 8, which illustrate boilers
-  made by Messrs D. Rowan & Co. of Glasgow, and which may be taken as
+  made by Messrs D. Rowan & Co. of [[Glasgow]], and which may be taken as
   representing good modern practice. The furnaces used in the smaller
   sizes are often of the plain cylindrical type, the thickness of plate
   varying from 3/8 in. up to 3/4 in. according to the diameter of the
@@ -176,7 +176,7 @@ hot-water boilers HEATING.)
   joints similar to those used in Lancashire boilers are employed, but
   for large furnaces and for high pressures corrugated or ribbed
   furnaces are usually adopted. Sketches of the sections of these are
-  shown in fig. 9. The sections of the Morison, Fox and Deighton types
+  shown in fig. 9. The sections of the Morison, [[Fox]] and Deighton types
   are made from plates originally rolled of a uniform thickness, made
   into a cylindrical form with a welded longitudinal joint and then
   corrugated, the only difference between them being in the shapes of
@@ -241,7 +241,7 @@ hot-water boilers HEATING.)
 
     Locomotive.
 
-  The locomotive boiler consists of a cylindrical barrel attached to a
+  The locomotive boiler consists of a cylindrical [[Barrel|barrel]] attached to a
   portion containing the fire-box, which is nearly rectangular both in
   horizontal and vertical section. The fire-box sides are stayed to the
   fire-box shell by numerous stays about 1 in. in diameter, usually
@@ -295,7 +295,7 @@ hot-water boilers HEATING.)
   placed a sloping nest of tubes, under the upper end of which is the
   fire. The sides and back of the boiler are enclosed in brickwork up to
   the height of the centre of the horizontal cylinder and the front is
-  fitted with an iron casing lined with brick at the lower part.
+  fitted with an iron casing lined with [[Brick|brick]] at the lower part.
   Suitable brickwork baffles are arranged between the tubes themselves,
   and between the nests of tubes and the cylinder, to ensure a proper
   circulation of the products of combustion, which are made to pass
@@ -306,7 +306,7 @@ hot-water boilers HEATING.)
   front cross-box of the horizontal cylinder, the lower ends being
   closed. The upper ends of the back headers are connected by longer
   pipes to the back cross-box, and their lower ends by short pipes to a
-  horizontal mud drum to which a blow-off cock and pipe are attached.
+  horizontal mud [[Drum|drum]] to which a blow-off [[Cock|cock]] and pipe are attached.
   The headers are furnished with holes on two opposite sides; those on
   one side form the means of connexion between the headers and tubes,
   and the others allow access for fixing the tubes in position and
@@ -328,7 +328,7 @@ hot-water boilers HEATING.)
   steam-chest, and are exposed to the heat of the furnace gases after
   their first passage across the tubes. The steam is taken by an
   internal pipe passing through the bottom of the drum into the upper
-  cross-box, then through the C tubes into the lower box, and thence to
+  cross-box, then through the C tubes into the lower [[Box|box]], and thence to
   the steam pipe. When steam is being raised, the superheater is flooded
   with water, which is drained out through a blow-off pipe before
   communication is opened with the steam-pipe. In large boilers of this
@@ -395,7 +395,7 @@ hot-water boilers HEATING.)
   [Illustration: FIG. 12.--Stirling Water-tube Boiler.]
 
 
-    Belleville.
+    [[Belleville]].
 
   The earliest form of water-tube boiler which came into general use in
   the British navy is the Belleville. Two views of this boiler are shown
@@ -469,7 +469,7 @@ hot-water boilers HEATING.)
   cross-section, fitted with two rows of inclined close-ended tubes,
   which slope downwards towards the back of the boiler with an
   inclination of 6 deg. to the horizontal. The headers are usually of
-  malleable cast iron with diaphragms cast in them, but sometimes steel
+  malleable cast iron with [[Diaphragm|diaphragms]] cast in them, but sometimes steel
   has been employed, the bottoms being closed by a riveted steel plate,
   and the diaphragms being made of the same material. The headers are
   bolted to socket-pieces which are riveted to the bottom of the
@@ -481,7 +481,7 @@ hot-water boilers HEATING.)
   construction. The lower or back ends are reduced in diameter and
   screwed and fitted with cap-nuts which entirely close them. The front
   ends are thickened by being upset, and the parts where they fit into
-  the header walls and in the diaphragm are carefully turned to gauge.
+  the header walls and in the diaphragm are carefully turned to [[Gauge|gauge]].
   The upper and lower parts of the tubes between these fitting portions
   are then cut away, the side portions only being retained, and the end
   is termed a "lanterne." A small water-circulating tube of thin sheet
@@ -491,7 +491,7 @@ hot-water boilers HEATING.)
   smaller "lanterne" closes the front end of the generating tube. The
   whole arrangement is such that when the tubes are in place only the
   small inner circulating tubes communicate with the space between the
-  front of the header and the diaphragm, while the annular spaces in the
+  front of the header and the diaphragm, while the [[Annular|annular]] spaces in the
   generating tubes around the water-circulating tubes communicate only
   with the space between the diaphragm and the back of the header. The
   steam formed in the tubes escapes from them into this back space,
@@ -512,11 +512,11 @@ hot-water boilers HEATING.)
   in a few vessels of the British navy, in some respects resembles the
   "Niclausse." The separate headers of the latter, however, are replaced
   by one large water-chamber formed of steel plates with welded joints,
-  and instead of the tubes being secured by "lanternes" to two plates
+  and instead of the tubes being secured by "[[Lantern|lanternes]]" to two plates
   they are secured to the inner plate only by conical joints, the holes
   in the outer plate being closed by small round doors fitted from the
   inside. In fixing the tubes each is separately forced into its
-  position by means of a small portable hydraulic jack. The lower ends
+  position by means of a small portable hydraulic [[Jack|jack]]. The lower ends
   of the caps are closed by cap-nuts made of a special heat-resisting
   alloy of copper and manganese. Circulation is provided for by a
   diaphragm in the water-chamber and by inner tubes as in the Niclausse
@@ -589,7 +589,7 @@ hot-water boilers HEATING.)
   fittings similar to those used in the land boiler (fig. 18). The
   smaller holes are conical, with the larger diameter on the inside,
   and are closed by special conical fittings: the conical portion and
-  bolt are one forging, and the nut is close-ended. In case of the
+  bolt are one [[Forging|forging]], and the nut is close-ended. In case of the
   breakage of the bolt, the fitting would be retained in place by the
   steam-pressure. A set of firebrick baffles is placed so as to cover
   rather more than half of the spaces between the upper of the two
@@ -700,7 +700,7 @@ iron. In water-tube boilers for naval purposes seamless steel tubes are
 invariably used. In locomotive boilers the shells are generally of mild
 steel, the fire-box plates of copper (in America of steel), the fire-box
 side stays of copper or special bronze, and other stays of steel. The
-tubes are usually of brass with a composition either of two parts by
+tubes are usually of [[Brass|brass]] with a composition either of two parts by
 weight of copper to one of zinc or 70% copper, 30% zinc; sometimes,
 however, copper tubes and occasionally steel tubes are used. Where water
 tubes are used they are made of seamless steel.
@@ -709,7 +709,7 @@ _Boiler Accessories._--All boilers must be provided with certain
 mountings and accessories. The water-level in them must be kept above
 the highest part of the heating surfaces. In some land boilers, and in
 some of the water-tube boilers used on shipboard, the feeding is
-automatically regulated by mechanism actuated by a float, but in these
+automatically regulated by mechanism actuated by a [[Float|float]], but in these
 cases means of regulating the feed-supply by hand are also provided. In
 most boilers hand regulation only is relied upon. The actual level of
 water in the boiler is ascertained by a glass water-gauge, which
@@ -741,7 +741,7 @@ examination. When these are large enough to allow a man to enter the
 boiler they are termed man-holes. They are usually made oval, as this
 shape permits the doors by which they are closed to be placed on the
 inside so that the pressure upon them tends to keep them shut. The doors
-are held in place by one or two bolts, secured to cross-bars or "dogs"
+are held in place by one or two bolts, secured to cross-bars or "[[Dogs|dogs]]"
 outside the boiler. It is important in making these doors that they
 should fit the holes so accurately that the jointing material cannot be
 forced out of its proper position. In the few cases where doors are
@@ -834,7 +834,7 @@ becoming disengaged upon the under-water surfaces of the boiler.
 Where corrosion is feared it is usual to fit zinc slabs in the water
 spaces of the boiler. Experience shows that it is better to make them of
 rolled rather than of cast zinc, and to secure them on studs which can
-be kept bright, so as to ensure a direct metallic contact between the
+be kept [[Bright|bright]], so as to ensure a direct metallic contact between the
 zinc and the boiler-plate. The function of the zinc is to set up
 galvanic action; it plays the part of the negative metal, and is
 dissolved while the metal of the shell is kept electro-positive. Care
@@ -864,7 +864,7 @@ consumed, different conditions have to be fulfilled from those required
 where a large output of steam from a given plant is of more importance
 than economy of fuel. For a high efficiency, completeness of combustion
 of fuel must be combined with sufficient heating surface to absorb so
-much of the heat produced as will reduce the temperature of the funnel
+much of the heat produced as will reduce the temperature of the [[Funnel|funnel]]
 gases to nearly that of steam. Completeness of combustion can only be
 obtained by admitting considerably more air to the fire than is
 theoretically necessary fully to oxidize the combustible portions of the
@@ -916,13 +916,13 @@ _Draught._--In most boilers the draught necessary for combustion is
 fitted with "forced" draught arrangements. Two distinct systems are
 used. In that known as the "closed stokehold" the stokehold compartment
 of the vessel is so closed that the only exit for air from it is through
-the fires. Air is driven into the stokehold by means of fans which are
+the fires. Air is driven into the stokehold by means of [[Fan|fans]] which are
 made so that they can maintain an air pressure in the stokehold above
 that of the outside atmosphere. This is the system almost universally
 adopted in war vessels, and it is used also in some fast passenger
 ships. The air pressure usually adopted in large vessels is that
 corresponding to a height of from 1 to 1-1/2 in. of water, whilst so much
-as 4 in. is sometimes used in torpedo-boats and similar craft. This is,
+as 4 in. is sometimes used in torpedo-boats and similar [[Craft|craft]]. This is,
 of course, in addition to the chimney-draught due to the height of the
 funnel. In the closed ashpit or Howden system, the stokehold is open,
 and fans drive the air round a number of tubes, situated in the uptake,
@@ -957,7 +957,7 @@ conclusion of the test should be precisely the same as at the
 commencement, both as regards the quantity of unconsumed coals on the
 fire-grate and the quantity of water and the steam-pressure in the
 boiler. The longer the period over which the observations are taken the
-less is the influence of errors in the estimation of these particulars.
+less is the influence of [[Error|errors]] in the estimation of these particulars.
 Further, in order properly to represent working conditions, the rate of
 combustion of the fuel throughout the trial must be the same as that
 intended to be used in ordinary working, and the duration of the test
@@ -984,7 +984,7 @@ TRIALS OF VARIOUS TYPES OF MARINE BOILERS
   |                            |       |        |        |           |   Air   |         |Water Evaporated| Water    |         |      |
   |                            |       |        |        |   Coal    |Pressure |Chimney  |per lb. of Coal.| Evapor-  | Thermal |Effic-|
   |                            | Grate |Heating |Duration|  burned   |in Stoke-|Draught--+-------+--------+ated per  |Units per|iency |
-  |   Description of Boiler.   | Area  |Surface |of Trial|Per sq. ft.| hold--  |Inches of|       |From and|sq. ft. of| lb. of  |  of  |
+  |   Description of Boiler.   | Area  |Surface |of Trial|Per sq. ft.| hold--  |[[Inch|Inches]] of|       |From and|sq. ft. of| lb. of  |  of  |
   |                            |sq. ft.|sq. ft. | Hours. | of Grate  |Inches of| Water   |Actual | at 212 | Heating  |  coal.  |Boiler|
   |                            |       |        |        | per Hour. | Water.  |         |       | deg. F.| Surface. |         |   %. |
   +----------------------------+-------+--------+--------+-----------+---------+---------+-------+--------+----------+---------+------+
@@ -1073,7 +1073,7 @@ not in girder work. Welding is much more common in the first than in the
 second, furnace flues being always welded and stand pipes frequently. In
 boiler work holes are generally drilled through the seams of adjacent
 plates. In bridge work each plate or bar is usually drilled or punched
-apart from its fellows. Boilers, again, being subject to high
+apart from its [[Fellows|fellows]]. Boilers, again, being subject to high
 temperatures and pressures, must be constructed with provisions to
 ensure some elasticity and freedom of movement under varying
 temperatures to prevent fractures or grooving, and must be made of
@@ -1081,7 +1081,7 @@ materials that combine high ductility with strength when heated to
 furnace temperatures. Flanging of certain parts, judicious staying,
 limitation of the length of the tubes, the forms of which are
 inherently weak, provide for the first; the selection of steel or iron
-of high percentage elongation, and the imposition of temper, or bending
+of high percentage elongation, and the [[Imposition|imposition]] of temper, or bending
 tests, both hot and cold, provide for the second.
 
 The following are the leading features of present-day methods.
@@ -1092,7 +1092,7 @@ The following are the leading features of present-day methods.
   involved that subdivisions of tasks are numerous; the operations of
   templet-making, rolling, planing, punching and shearing, bending,
   welding and forging, flanging, drilling, riveting, caulking, and
-  tubing require the labours of several groups of machine attendants,
+  tubing require the labours of several groups of [[Machine|machine]] attendants,
   and of gangs of unskilled labourers or helpers. Some operations also
   have to be done at a red or white heat, others cold. To the first
   belong flanging and welding, to the latter generally all the other
@@ -1118,7 +1118,7 @@ The following are the leading features of present-day methods.
   In the work of riveting another evil long existed. When holes are
   punched it is practically impossible to ensure the exact coincidence
   of holes in different plates which have to be brought together for the
-  purpose of riveting. From this followed the use of the drift,--a
+  purpose of riveting. From this followed the use of the [[Drift|drift]],--a
   tapered rod driven forcibly by hammer blows through corresponding
   holes in adjacent plates, by which violent treatment the holes were
   forcibly drawn into alignment. This drifting stressed the plates,
@@ -1158,7 +1158,7 @@ The following are the leading features of present-day methods.
   locomotive boilers, have their entire flanges bent at a single squeeze
   between massive dies in a hydraulic press. In the case of the ends of
   marine boilers which are too large for such treatment, a special form
-  of press bends the edges over in successive heats. The flanges of
+  of press [[Bend|bends]] the edges over in successive heats. The flanges of
   Adamson seams are rolled over in a special machine. A length of flue
   is rotated on a table, while the flange is turned over within a minute
   between revolving rollers. There is another advantage in the adoption
@@ -1224,7 +1224,7 @@ The following are the leading features of present-day methods.
   several highly specialized machines. Repetitive operations are
   provided for thus, and by a system of templeting. If twenty or fifty
   similar boilers are made in a year, each plate, hole, flange or stay
-  will be exactly like every similar one in the set. Dimensions of
+  will be exactly like every similar one in the set. [[Dimension|Dimensions]] of
   plates will be marked from a sample or templet plate, and holes will
   be marked similarly; or in many cases they are not marked at all, but
   pitched and drilled at once by self-acting mechanism embodied in

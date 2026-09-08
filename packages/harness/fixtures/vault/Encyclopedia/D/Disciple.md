@@ -9,7 +9,7 @@ type: note
 
 DISCIPLE, properly a pupil, scholar (Lat. _discipulus_, from _discere_,
 to learn, and root seen in _pupillus_), but chiefly used of the personal
-followers of Jesus Christ, including the inner circle of the Apostles
+followers of Jesus Christ, including the inner circle of the [[Apostle|Apostles]]
 (q.v.).
 
 ## See also

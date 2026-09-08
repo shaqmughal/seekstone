@@ -6,49 +6,49 @@ end of the 17th century the pronunciation was _kay_, as in other words
 in O. Eng. ending in _aég_; cf. _daég_, day; _claég_, clay; the _New
 English Dictionary_ takes the change to kee to be due to northern
 influence), an instrument of metal used for the opening and closing of a
-lock (see LOCK). Until the 14th century bronze and not iron was most
+[[Lock|lock]] (see LOCK). Until the 14th century bronze and not iron was most
 commonly used. The terminals of the stem of the keys were frequently
-decorated, the "bow" or loop taking the form sometimes of a trefoil,
+decorated, the "[[Bow|bow]]" or loop taking the form sometimes of a trefoil,
 with figures inscribed within it; this decoration increased in the 16th
 century, the terminals being made in the shape of animals and other
 figures. Still more elaborate ceremonial keys were used by court
 officials; a series of chamberlains' keys used during the 18th and 19th
 centuries in several courts in Europe is in the British Museum. The
-terminals are decorated with crowns, royal monograms and ciphers. The
+terminals are decorated with crowns, royal monograms and [[Cipher|ciphers]]. The
 word "key" is by analogy applied to things regarded as means for the
 opening or closing of anything, for the making clear that which is
 hidden. Thus it is used of an interpretation as to the arrangement of
 the letters or words of a cipher, of a solution of mathematical or other
 problems, or of a translation of exercises or books, &c., from a foreign
 language. The term is also used figuratively of a place of commanding
-strategic position. Thus Gibraltar, the "Key of the Mediterranean," was
+strategic position. Thus [[Gibraltar]], the "Key of the Mediterranean," was
 granted in 1462 by Henry IV. of Castile, the arms, _gules_, a castle
 proper, with key pendant to the gate, _or_; these arms form the badge of
-the 50th regiment of foot (now 2nd Batt. Essex Regiment) in the British
+the 50th regiment of foot (now 2nd Batt. [[Essex]] Regiment) in the British
 army, in memory of the part which it took in the siege of 1782. The word
 is also frequently applied to many mechanical contrivances for
 unfastening or loosening a valve, nut, bolt, &c., such as a spanner or
 wrench, and to the instruments used in tuning a pianoforte or harp or in
 winding clocks or watches. A farther extension of the word is to
 appliances or devices which serve to lock or fasten together distinct
-parts of a structure, as the "key-stone" of an arch, the wedge or piece
+parts of a structure, as the "key-stone" of an [[Arch|arch]], the wedge or piece
 of wood, metal, &c., which fixes a joint, or a small metal instrument,
 shaped like a U, used to secure the bands in the process of sewing in
 bookbinding.
 
 In musical instruments the term "key" is applied in certain wind
 instruments, particularly of the wood-wind type, to the levers which
-open and close valves in order to produce various notes, and in keyboard
+open and close valves in order to produce various notes, and in [[Keyboard|keyboard]]
 instruments, such as the organ or the pianoforte, to the exterior white
 or black parts of the levers which either open or shut the valves to
-admit the wind from the bellows to the pipes or to release the hammers
+admit the wind from the [[Bellows|bellows]] to the pipes or to release the hammers
 against the strings (see KEYBOARD). It is from this application of the
 word to these levers in musical instruments that the term is also used
-of the parts pressed by the finger in typewriters and in telegraphic
+of the parts pressed by the [[Finger|finger]] in typewriters and in telegraphic
 instruments.
 
-A key is the insignia of the office of chamberlain in a royal household
-(see CHAMBERLAIN and LORD CHAMBERLAIN). The "power of the keys"
+A key is the insignia of the office of [[Chamberlain|chamberlain]] in a royal household
+(see CHAMBERLAIN and [[Lord Chamberlain|LORD CHAMBERLAIN]]). The "power of the keys"
 (_clavium potestas_) in ecclesiastical usage represents the authority
 given by Christ to Peter by the words, "I will give unto thee the keys
 of the kingdom of heaven" (Matt. xvi. 19). This is claimed by the Roman

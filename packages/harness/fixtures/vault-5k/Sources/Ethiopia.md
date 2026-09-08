@@ -13,12 +13,12 @@ and on the E. by the Red Sea.[1] The application of the name has varied
 considerably at different times. In the Homeric poems the _Aethiopes_
 are the furthest of mankind both eastward and westward; the gods go to
 their banquets and probably the Sun sets in their country. With the
-growth of scientific geography they came to be located somewhat less
+growth of scientific [[Geography|geography]] they came to be located somewhat less
 vaguely, and indeed their name was employed as the equivalent of the
-Assyrian and Hebrew Cush (q.v.), the Kesh or Ekosh of the Hieroglyphics
+Assyrian and Hebrew [[Cush]] (q.v.), the Kesh or Ekosh of the Hieroglyphics
 (first found in Stele of Senwosri I.), i.e. a country extending from
 about the 24th to the 10th degree of N. lat., while its limits to the E.
-and W. were doubtful. The etymology of the name, which to a Greek ear
+and W. were doubtful. The [[Etymology|etymology]] of the name, which to a Greek [[Ear|ear]]
 meant "swarthy-faced," is unknown, nor can we say why in official
 inscriptions of the Axumite dynasty the word is used as the equivalent
 of Habashat (whence the modern Abyssinia), which, from the context
@@ -42,7 +42,7 @@ and gradually subjected by Egyptian kings (the steps in this process are
 traced by E.W. Budge, _The Egyptian Sudan_, 1907, i. 505 sqq.), under
 the XVIIIth Dynasty it became an Egyptian province, administered by a
 viceroy (at first the Egyptian king's son), called prince of Kesh, and
-paying tributes in negroes, oxen, gold, ivory, rare beads, hides and
+paying tributes in negroes, oxen, gold, [[Ivory|ivory]], rare beads, hides and
 household utensils. The inhabitants frequently rebelled and were as
 often subdued; records of these repeated conquests were set up by the
 Egyptian kings in the shape of steles and temples; of the latter the
@@ -50,7 +50,7 @@ temple of Amenhotep (Amenophis) III. at Soleb or Sulb seems to have been
 the most magnificent. Ethiopia became independent towards the 11th
 century B.C., when the XXIst Dynasty was reigning in Egypt. A state was
 founded, having for its capital Napata (mod. _Merawi_) at the foot of
-Jebel Barkal, "the sacred mountain," which in time became formidable,
+[[Jebel]] Barkal, "the sacred mountain," which in time became formidable,
 and in the middle of the 8th century conquered Egypt; an Egyptian
 campaign is recorded in the famous stele of King Pankhi. The fortunes of
 the Ethiopian (XXVth) Dynasty belong to the history of Egypt (q.v.).
@@ -61,13 +61,13 @@ cartouches at Jebel Barkal, the following, of whom all but the third
 have left important steles, can be roughly dated: Tandamane, son of
 Tirhaka (667-650), Asperta (630-600), Pankharer (600-560), Harsiotf
 (560-525), Nastasen (525-500). From the evidence of the stele of the
-second (the Coronation Stele) and that of the fifth it has been inferred
+second (the [[Coronation]] Stele) and that of the fifth it has been inferred
 that the sovereignty early in this period became elective, a deputation
 of the various orders in the realm being (as Diodorus states), when a
 vacancy occurred, sent to Napata, where the chief god Amen selected out
 of the members of the royal family the person who was to succeed, and
 who became officially the god's son; and it seems certain that the
-priestly caste was more influential in Ethiopia than in Egypt both
+priestly [[Caste|caste]] was more influential in Ethiopia than in Egypt both
 before and after this period. Another stele (called the Stele of
 Excommunication) records the expulsion of a priestly family guilty of
 murder (H. Schäfer, _Klio_, vi. 287): the name of the sovereign who
@@ -77,7 +77,7 @@ various tribes south of Meroë and built a number of temples. The stele
 of the last of these sovereigns, now in the Berlin Museum, and edited by
 H. Schäfer (Leipzig, 1901), contains valuable information concerning the
 state of the Ethiopian kingdom in its author's time. Shortly after his
-accession he was threatened with invasion by Cambyses, the Persian
+accession he was threatened with invasion by [[Cambyses]], the Persian
 conqueror of Egypt, but (according to his own account) destroyed the
 fleet sent by the invader up the Nile, while (as we learn from
 Herodotus) the land-force succumbed to famine (see CAMBYSES). It further
@@ -93,7 +93,7 @@ city named Pnups (Hierogl. Pa-Nebes) appears to have constituted the
 most northerly point in the empire. These Ethiopian kings seem to have
 made no attempt to reconquer Egypt, though they were often engaged in
 wars with the wild tribes of the Sudan. For the 5th and 4th centuries
-B.C. the history of the country is a blank. A fresh epoch was, however,
+B.C. the history of the country is a [[Blank|blank]]. A fresh epoch was, however,
 inaugurated by Ergamenes, a contemporary of Ptolemy Philadelphus, who is
 said to have massacred the priests at Napata, and destroyed sacerdotal
 influence, till then so great that the king might at the priests' order
@@ -108,7 +108,7 @@ was involved in war with the Romans in 24 and 23 B.C.; the land was
 invaded by C. Petronius, who took the fortress Premis or Ibrim, and
 sacked the capital (then Napata); the emperor Augustus, however, ordered
 the evacuation of the country without even demanding tribute. The
-stretch of land between Assuan (Syene) and Maharraka (Hiera Sycaminus)
+stretch of land between [[Assuan]] (Syene) and Maharraka (Hiera Sycaminus)
 was, however, regarded as belonging to the Roman empire, and Roman
 cohorts were stationed at the latter place. To judge by the monuments it
 is possible that there were queens who reigned alone. Pyramids were
@@ -128,7 +128,7 @@ there is a royal pair, Netekamane and Amanetari, imitating the names of
 their conspicuous predecessors. In the 4th century A.D. the state of
 Meroë was ravaged by the Nubas(?) and the Abyssinians, and in the 6th
 century its place was taken by the Christian state of Nubia (see
-DONGOLA).
+[[Dongola|DONGOLA]]).
 
 Contrary to the opinion of the Greeks, the Ethiopians appear to have
 derived their religion and civilization from the Egyptians. The royal
@@ -151,7 +151,7 @@ researches).
   Notices in Greek authors are collected by P. Paulitschke, _Die
   geographische Erforschung des afrikanischen Continents_ (Vienna,
   1880); the inscriptions were edited and interpreted by G. Maspero,
-  _Revue archéol_. xxii., xxv.; _Mélanges d'Assyriologie et
+  _Revue archéol_. xxii., xxv.; _Mé[[Lange|langes]] d'Assyriologie et
   d'Égyptologie_, ii., iii.; _Records of the Past_, vi.; T.S.B.A. iv.;
   Schäfer, l.c., and _Zeitschrift für ägyptische Sprache_, xxxiii. See
   also J.H. Breasted, "The Monuments of Sudanese Nubia," in _American
@@ -187,7 +187,7 @@ Silee, Tiamo, the Bugaites (Bega) and Kasu. This style implies
 considerable conquests in South Arabia, which, however, must have been
 lost to the Axumites by A.D. 378. They claim to rule the Kasu or
 Meroitic Ethiopians; and the fifth inscription records an expedition
-along the Atbara and the Nile to punish the Nuba and Kasu, and a
+along the [[Atbara]] and the Nile to punish the Nuba and Kasu, and a
 fragment of a Greek inscription from Meroë was recognized by Sayce as
 commemorating a king of Axum. Except for these inscriptions Axumite
 history is a blank until in the 6th century we find the Axumite king
@@ -209,7 +209,7 @@ Arabic writers; so we have a notice of a war between Ethiopia and Nubia
 about 687 (C.C. Rossini in _Giorn. Soc. Asiat. Ital_. x. 141), and of a
 letter to George king of Nubia from the king of Abyssinia some time
 between 978 and 1003, when a Jewish queen Judith was oppressing the
-Christian population (I. Guidi, _ibid_. iii. 176, 7).
+Christian population (I. [[Guidi]], _ibid_. iii. 176, 7).
 
 The Abyssinian chronicles, it may be noted, attribute the foundation of
 the kingdom to Menelek (or Ibn el-Hakim), son of Solomon and the queen
@@ -264,8 +264,8 @@ its translation of the Bible, which in the ordinary enumeration is made
 to contain 81 books, 46 of the Old Testament, and 35 of the New. These
 figures are most probably obtained by adding to the ordinary canonical
 books _Maccabees, Tobit, Judith, Wisdom, Ecclesiasticus, Baruch,
-Jubilees, Enoch_, the _Ascension of Isaiah, Ezra IV., Shepherd of
-Hermas, the Synodos_ (Canons of the Apostles), the _Book of Adam_, and
+Jubilees, [[Enoch]]_, the _Ascension of Isaiah, Ezra IV., Shepherd of
+[[Hermas]], the Synodos_ (Canons of the Apostles), the _Book of Adam_, and
 _Joseph Ben Gorion_. For the distinction between canonical and
 apocryphal appears to be unknown to the Ethiopic Church, whose chief
 service to Biblical literature consists in its preservation of various
@@ -286,7 +286,7 @@ opinion is held by few; C.F.A. Dillman distinguished in the case of the
 Old Testament three classes of MSS., a _versio antiqua_, made from the
 Septuagint (probably in the Hesychian text), a class revised from Greek
 MSS., and a class revised from the Hebrew (probably through the medium
-of an Arabic version). An examination of ten chapters of St Matthew by
+of an Arabic version). An examination of ten chapters of St [[Matthew]] by
 L. Hackspill (ibid. vol. xi.) led to the result that the Ethiopic
 version of the Gospels was made about A.D. 500, from a Syro-occidental
 text, and that this original translation is represented by Cod. Paris.
@@ -314,7 +314,7 @@ History (edited by F. Hommel, Leipzig, 1877).
 Of the works belonging to the second period much the most important are
 those which deal with Abyssinian history. A court official, called
 _sahafe te'ezazenet_ (secretary), having under him a staff of scribes,
-was employed to draw up the public annals year by year; and on these
+was employed to draw up the public [[Annals|annals]] year by year; and on these
 official compositions the Abyssinian histories are based. The earliest
 part of the Axum chronicle preserved is that recording the wars of Amda
 Sion (1314-1344) against the Moslems; it is doubtful, however, whether
@@ -331,7 +331,7 @@ compiled in Lebna Dengel's time. The history of Lebna Dengel was
 published by the same scholar (_Journ. Semit._ i. 274) and Rossini
 (_Rendiconti_, 1894, v. p. 617); that of his successor Claudius
 (1540-1559) by Conzelmann (Paris, 1895); that of his successor Minas
-(1559-1563) by F.M.E. Pereira (Lisbon, 1888); those of the three
+(1559-1563) by F.M.E. Pereira ([[Lisbon]], 1888); those of the three
 following kings, Sharsa Dengel, Za Dengel, and Ya'kub, by Rossini
 (_Rendiconti_, 1893). The history of the next king Sysenius (1606-1632)
 by Abba Meherka Dengel and Tekla Shelase was edited by Pereira (Lisbon,
@@ -380,13 +380,13 @@ by E.W. Budge in the Meux collection (London, 1900). In the same reign
 the Arabic chronicle of al-Makin was translated into Geez. Under Lebna
 Dengel (ob. 1540), besides the above-mentioned collection of chronicles,
 we hear of the translation from the Arabic of the history and martyrdom
-of St George, the Commentary of J. Chrysostom on the Epistle to the
+of St George, the Commentary of J. Chrysostom on the [[Epistle]] to the
 Hebrews, and the ascetic works of J. Saba called _Aragawi manfasawi._
 Under Claudius (1540-1559) Maba Sion is said to have translated from the
 Arabic _The Faith of the Fathers_, a vast compilation, including the
 _Didascalia Apostalorum_ (edited by Platt, London, 1834), and the _Creed
-of Jacob Baradaeus_ (published by Cornill, _ZDMG_. xxx. 417-466), and to
-the same reign belong the _Book of Extreme Unction (Mashafa Kandil_),
+of [[Jacob]] Baradaeus_ (published by Cornill, _ZDMG_. xxx. 417-466), and to
+the same reign belong the _Book of [[Extreme Unction]] (Mashafa Kandil_),
 and the religious romance _Barlaam et Joasaph_ also paraphrased from the
 Arabic (partly edited by A. Zotenberg in _Notices et Extraits_, vol.
 xxviii.). _The Confession of Faith_ of King Claudius has been repeatedly
@@ -394,7 +394,7 @@ printed. The reign of Sharsa Dengel (ob. 1595) was marked by many
 literary monuments, such as the religious and controversial compilation
 called _Mazmura Chrestos_, and the translation, by a certain Salik, of
 the religious encyclopaedia (Mashafa Haia) of the monk Nikon; an Arab
-merchant from Yemen, who took on conversion the name Anbakom (Habakkuk),
+merchant from Yemen, who took on [[Conversion|conversion]] the name Anbakom (Habakkuk),
 translated a number of books from the Arabic. Under Ya'kub (ob. 1605)
 the valuable chronicle of John of Nikiou was translated from Arabic
 (edited by A. Zotenberg with French translation in _Notices et
@@ -430,7 +430,7 @@ ALEXANDER THE GREAT, section on the legends, ad fin.
 Of Law the most important monument is the _Fatha Nagaset_ (Judgment of
 Kings), of which an official edition was issued by I. Guidi (Rome,
 1899), with an Italian translation; it is a version probably made in the
-early 16th century of the Arabic code of Ibn 'Assal, of the 12th
+early 16th century of the Arabic [[Code|code]] of Ibn 'Assal, of the 12th
 century, whose work, being meant for Christians living under Moslem
 rule, was not altogether suitable for an independent Christian kingdom;
 yet the need for such a code made it popular and authoritative in
@@ -444,7 +444,7 @@ commentaries on Scripture, such as the _Book of the Mystery of Heaven
 and Earth_, by Ba-Hailu Michael, probably of the 15th century, edited by
 Perruchon and Guidi (Paris, 1903). There is, however, a translation of
 the Book of the Wise Philosophers, made by Michael, son of Abba Michael,
-consisting of various aphorisms; specimens have been edited by Dillmann
+consisting of various [[Aphorism|aphorisms]]; specimens have been edited by Dillmann
 in his Chrestomathy, and J. Cornill (Leipzig, 1876). There is also a
 translation of _Secundus the Silent_, edited by Bachmann (Berlin, 1888).
 Far more interesting than these is the treatise of Zar'a Ya'kub of Axum,
@@ -499,9 +499,9 @@ tribes), FAMILY, NAME, ETHICS, LAW, MYTHOLOGY, FOLK-LORE (and allied
 articles), PHILOLOGY (and allied articles), AGRICULTURE, ARCHITECTURE,
 RELIGION, SOCIOLOGY, &c., &c. It covers generally the whole history of
 the material and intellectual development of man, as it has passed
-through the stages of (a) hunting and fishing, (b) sheep and cattle
+through the stages of (a) [[Hunting|hunting]] and fishing, (b) sheep and cattle
 tending, (c) agriculture, (d) industry. It investigates his food, his
-weapons, tools and implements, his housing, his social, economic and
+weapons, tools and [[Implement|implements]], his housing, his social, economic and
 commercial organization, forms of government, language, art, literature,
 morals, superstitions and religious systems. In this sense ethnology is
 the older term for what now is called sociology. At the present day the
@@ -540,17 +540,17 @@ types of man existing to-day as to justify the assumption that there has
 ever been more than one species of man?
 
 The undoubted "osseous remains" of pleistocene man are few. Burial was
-not practised, and the few bones found are for the most part those which
+not practised, and the few [[Bone|bones]] found are for the most part those which
 have by mere chance been preserved in caves or rock-shelters. Of these
 the three chief "finds," in order of probable age, are the Trinil (Java)
 brain-cap, the lowest human skull yet described, characterized by
-depressed cranial arch, with a cephalic index of 70; the Neanderthal
+depressed cranial arch, with a cephalic [[Index|index]] of 70; the Neanderthal
 (Germany) skull, remarkable for its flat retreating curve with an index
-of 73-76; and the two nearly perfect skeletons found at Spy (Belgium),
+of 73-76; and the two nearly perfect skeletons found at Spy ([[Belgium]]),
 the skulls of which exhibit enormous brow ridges with cranial indices of
 70 and 75. All these skulls, taken in conjunction with other
 well-authenticated human remains such as those found at La Naulette
-(Belgium), Shipka (Balkan Peninsula), Olmo (Italy), Predmert (Bohemia)
+(Belgium), Shipka ([[Balkan Peninsula]]), Olmo (Italy), Predmert (Bohemia)
 and in Argentina and Brazil, make it possible to reconstruct
 anatomically the varying types of pleistocene man, and to establish the
 fact that in essential features the same primitive type has persisted
@@ -632,10 +632,10 @@ irreducible stock languages in the United States and Canada, yet, taking
 into consideration the physical and moral homogeneity of the American
 Indian races, he would be a reckless theorist who held that there were
 therefore fifty separate human species. If it were so, how have they
-descended? There are no anthropoid apes in America, none of the ape
+descended? There are no anthropoid [[Ape|apes]] in America, none of the ape
 family higher than the Cebidae, from which it is impossible to trace
 men. Again, in Australia there is certainly one stock language, yet
-there are not even Cebidae. In Caucasia, there are many distinct forms
+there are not even Cebidae. In [[Caucasia]], there are many distinct forms
 of speech, yet all the peoples belong to the Caucasic division of
 mankind.
 
@@ -662,7 +662,7 @@ ancestor of man was free to move in all directions over the eastern
 hemisphere. The western hemisphere was more than probably connected with
 Europe and Asia, in Tertiary times, by a continent, the existence of
 which is evidenced by a submarine bank stretching from Scotland through
-the Faeroes and Iceland to Greenland, and on the other side by
+the Faeroes and [[Iceland]] to Greenland, and on the other side by
 continuous land at what is now the Behring Straits.
 
 Acclimatization has been urged as an argument against the cradle-land
@@ -705,7 +705,7 @@ intermingling. Besides these two main types, the Caucasic division of
 mankind has been held with much reason to include such aberrant types as
 the brown Polynesian races of the Eastern Pacific, Samoans, Hawaiians,
 Maoris, &c., the proto-Malay peoples of the Eastern archipelago,
-sometimes termed Indonesians, represented by the Dyaks of Borneo and the
+sometimes termed [[Indonesian|Indonesians]], represented by the [[Dyaks]] of Borneo and the
 Battaks of Sumatra, the Todas of India and the Ainus of Japan.
 
 2. Mongolic or Yellow Man prevails over the vast area lying east of a
@@ -715,9 +715,9 @@ straight and black, flat small nose, broad skull, usually without
 prominent brow-ridges, and black oblique eyes. Of the typical Mongolic
 races the chief are the Chinese, Tibetans, Burmese, Siamese; the Finnic
 group of races occupying Northern Europe, such as Finns, Lapps,
-Samoyedes and Ostyaks, and the Arctic Asiatic group represented by the
-Chukchis and Kamchadales; the Tunguses, Gilyaks and Golds north of, and
-the Mongols proper west of, Manchuria; the pure Turkic peoples and the
+Samoyedes and Ostyaks, and the [[Arctic]] Asiatic group represented by the
+Chukchis and Kamchadales; the Tunguses, Gilyaks and [[Golds]] north of, and
+the Mongols proper west of, [[Manchuria]]; the pure Turkic peoples and the
 Japanese and Koreans. Less typical, but with the Mongolic elements so
 predominant as to warrant inclusion, are the Malay peoples of the
 Eastern archipelago. Lastly, though differentiated in many ways from the
@@ -725,11 +725,11 @@ true Mongol, the American races from the Eskimo to the Fuegians must be
 reckoned in the Yellow division of mankind.
 
 3. Negroid or Black Man is primarily represented by the Negro of Africa
-between the Sahara and the Cape district, including Madagascar. The skin
+between the Sahara and the Cape district, including [[Madagascar]]. The skin
 varies from dark brown to brown-black, with eyes of the same colour, and
 hair usually black and always crisp or woolly. The skull is narrow, with
 orbital ridges not prominent, the jaws protrude, the nose is flat and
-broad, and the lips thick and everted. Two important families are
+broad, and the [[Lip|lips]] thick and everted. Two important families are
 classed in this division; some authorities hold, as special
 modifications of the typical Negro to-day, others as actually nearer the
 true generalized Negroid type of neolithic times. First are the Bushman
@@ -739,17 +739,17 @@ between the Bushman and the true Negro. Second are the large Negrito
 family, represented in Africa by the dwarf races of the equatorial
 forests, the Akkas, Batwas, Wochuas and others, and beyond Africa by the
 Andaman Islanders, the Aetas of the Philippines, and probably the
-Senangs and other aboriginal tribes of the Malay Peninsula. The Negroid
+Senangs and other aboriginal tribes of the [[Malay Peninsula]]. The Negroid
 type seems to have been the earliest predominant in the South Sea
 islands, but it is impossible to say certainly whether it is itself
 derived from the Negrito, or the latter is a modification of it, as has
 been suggested above. In Melanesia, the Papuans of New Guinea, of New
-Caledonia, and other islands, represent a more or less Negroid type, as
+[[Caledonia]], and other islands, represent a more or less Negroid type, as
 did the now extinct Tasmanians.
 
 Excluded from this survey of the grouping of Man are the aborigines of
 Australia, whose ethnical affinities are much disputed. Probably they
-are to be reckoned as Dravidians, a very remote blend of Caucasic and
+are to be reckoned as [[Dravidian|Dravidians]], a very remote blend of Caucasic and
 Negro man. For a detailed discussion of the branches of these three
 main divisions of Man the reader must refer to articles under race
 headings, and to NEGRO; NEGRITOS; MONGOLS; MALAYS; INDIANS, NORTH
@@ -779,7 +779,7 @@ FOOTNOTE:
     which have been found in India one is indistinguishable from an
     African species, another is closely allied, and both faunas are
     characterized by the very remarkable genus group of reptiles
-    comprising the Dicynodon and other allied forms (see _Manual of
+    comprising the Dicynodon and other allied forms (see _[[Manual]] of
     Geology of India_, 2nd ed. p. 203). These, however, are not the only
     analogies, for near the coast of South Africa there are developed a
     series of beds containing the plant fossils in the lower part and
@@ -788,13 +788,13 @@ FOOTNOTE:
     the east coast of India. The few plant forms found in the lower beds
     of Africa are mostly identical with or closely allied to the Rajmahál
     species, while of the very few marine shells in the Indian outcrops,
-    which are sufficiently well preserved for identification, at least
+    which are sufficiently well preserved for [[Identification|identification]], at least
     one species is identical with an African form. These very close
     relationships between the plants and animals of India and Africa at
     this remote period appear inexplicable unless there were direct land
     communications between them over what is now the Indian Ocean. On the
     east coast of India in the Khasi Hills, and on the coast of South
-    Africa, the marine fossils of late Jurassic and early cretaceous age
+    Africa, the marine fossils of late [[Jurassic]] and early cretaceous age
     are largely identical with, or very closely allied to each other,
     showing that they must have been inhabitants of one and the same
     great sea. In western India the fossils of the same age belong to a

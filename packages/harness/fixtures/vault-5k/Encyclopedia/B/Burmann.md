@@ -5,14 +5,14 @@ Dutch philologist, nephew of the above, was born at Amsterdam on the 13th
 of October 1714. He was brought up by his uncle in Leiden, and afterwards
 studied law and philology under C.A. Duker and Arnold von Drakenborch at
 Utrecht. In 1735 he was appointed professor of eloquence and history at
-Franeker, with which the chair of poetry was combined in 1741. In the
+[[Franeker]], with which the chair of poetry was combined in 1741. In the
 following year he left Franeker for Amsterdam to become professor of
-history and philology at the Athenaeum. He was subsequently professor of
+history and philology at the [[Athenaeum]]. He was subsequently professor of
 poetry (1744), general librarian (1752), and inspector of the gymnasium
 (1753). In 1777 he retired, and died on the 24th of June 1778 at Sandhorst,
 near Amsterdam. He resembled his more famous uncle in the manner and
 direction of his studies, and in his violent disposition, which involved
-him in quarrels with contemporaries, notably Saxe and Klotz. He was a man
+him in quarrels with contemporaries, notably Saxe and [[Klotz]]. He was a man
 of extensive learning, and had a great talent for Latin poetry. His most
 valuable works are: _Anthologia Veterum Latinorum Epigrammatum et Poematum_
 (1759-1773); _Aristophanis Comoediae Novem_ (1760); _Rhetorica ad
@@ -22,14 +22,14 @@ edition of Propertius, one of his best works, which was only half printed
 at the time of his death. It was completed by L. van Santen and published
 in 1780.
 
-BURMESE WARS. Three wars were fought between Burma and the British during
+BURMESE WARS. Three wars were fought between [[Burma]] and the British during
 the 19th century (see BURMA: _History_), which resulted in the gradual
 extinction of Burmese independence.
 
 _First Burmese War, 1823-26._--On the 23rd of September 1823 an armed party
 of Burmese attacked a British guard on Shapura, an island close to the
 Chittagong side, killing and wounding six of the guard. Two Burmese armies,
-one from Manipur and another from Assam, also entered Cachar, which was
+one from Manipur and another from [[Assam]], also entered Cachar, which was
 under British protection, in January 1824. War with Burma was formally
 declared on the 5th of March 1824. On the 17th of May a Burmese force
 invaded Chittagong and drove a mixed sepoy and police detachment from its
@@ -93,7 +93,7 @@ commenced a retrograde march; on the 27th he effected a junction with
 General Cotton's force, and on the 2nd of April entered the entrenchments
 at Danubyu without resistance, Bandula having been killed by the explosion
 of a bomb. The English general entered Prome on the 25th, and remained
-there during the rainy season. On the 17th of September an armistice was
+there during the rainy season. On the 17th of September an [[Armistice|armistice]] was
 concluded for one month. In the course of the summer General Joseph
 Morrison had conquered the province of Arakan; in the north the Burmese
 were expelled from Assam; and the British had made some progress in Cachar,
@@ -109,11 +109,11 @@ army, and successively drove them from all their positions, and dispersed
 them in every direction. The Burmese retired on Malun, along the course of
 the Irrawaddy, where they occupied, with 10,000 or 12,000 men, a series of
 strongly fortified heights and a formidable stockade. On the 26th they sent
-a flag of truce to the British camp; and negotiations having commenced,
+a [[Flag|flag]] of truce to the British camp; and negotiations having commenced,
 peace was proposed to them on the following conditions:--(1) The cession of
 Arakan, together with the provinces of Mergui, Tavoy and Ye; (2) the
 renunciation by the Burmese sovereign of all claims upon Assam and the
-contiguous petty states; (3) the Company to be paid a crore of rupees as an
+contiguous petty states; (3) the Company to be paid a [[Crore|crore]] of rupees as an
 indemnification for the expenses of the war; (4) residents from each court
 to be allowed, with an escort of fifty men; while it was also stipulated
 that British ships should no longer be obliged to unship their rudders and
@@ -133,20 +133,20 @@ of war released, and an instalment of 25 lakhs of rupees. The war was thus
 brought to a successful termination, and the British army evacuated the
 country.
 
-_Second Burmese War, 1852._--On the 15th of March 1852 Lord Dalhousie sent
+_Second Burmese War, 1852._--On the 15th of March 1852 Lord [[Dalhousie]] sent
 an ultimatum to King Pagan, announcing that hostile operations would be
 commenced if all his demands were not agreed to by the ist of April.
 Meanwhile a force consisting of 8100 troops had been despatched to Rangoon
-under the command of General H.T. Godwin, C.B., while Commodore Lambert
+under the command of General H.T. Godwin, C.B., while Commodore [[Lambert]]
 commanded the naval contingent. No reply being given to this letter, the
 first blow of the Second Burmese War was struck by the British on the 5th
 of April 1852, when Martaban was taken. Rangoon town was occupied on the
-12th, and the Shwe Dagon pagoda on the 14th, after heavy fighting, when the
+12th, and the Shwe [[Dagon]] pagoda on the 14th, after heavy fighting, when the
 Burmese army retired northwards. Bassein was seized on the 19th of May, and
 Pegu was taken on the 3rd of June, after some sharp fighting round the
 Shwe-maw-daw pagoda. During the rainy season the approval of the East India
 Company's court of directors and of the British government was obtained to
-the annexation of the lower portion of the Irrawaddy Valley, including
+the [[Annexation|annexation]] of the lower portion of the Irrawaddy Valley, including
 Prome. Lord Dalhousie visited Rangoon in July and August, and discussed the
 whole situation with the civil, military and naval authorities. In
 consequence General Godwin occupied Prome on the 9th of October after but
@@ -178,7 +178,7 @@ placed in command of the expedition. As was only to be expected in an
 enterprise of this description, the navy as well as the army was called in
 requisition; and as usual the services rendered by the seamen and guns were
 most important. The total effective of the force was 9034 fighting men,
-2810 native followers and 67 guns, and for river service, 24 machine guns.
+2810 native followers and 67 guns, and for river service, 24 [[Machine|machine]] guns.
 The river fleet which conveyed the troops and stores was composed of a
 total of no less than 55 steamers, barges, launches, &c.
 
@@ -232,7 +232,7 @@ conditions other than those of anarchy, rapine and murder, took advantage
 of the impenetrable cover of their jungles to continue a desultory armed
 resistance. Reinforcements had to be poured into the country, and it was in
 this phase of the campaign, lasting several years, that the most difficult
-and most arduous work fell to the lot of the troops. It was in this jungle
+and most arduous work fell to the [[Lot|lot]] of the troops. It was in this jungle
 warfare that the losses from battle, sickness and privation steadily
 mounted up; and the troops, both British and native, proved once again
 their fortitude and courage.

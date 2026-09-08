@@ -13,14 +13,14 @@ board ship in the harbour of Rio de Janeiro on the 26th of January 1852.
 He was of Italian parentage, the family name being de Brazza Savorgnani.
 Through the instrumentality of the astronomer Secchi he was sent to the
 Jesuit college in Paris, and in 1868 obtained authorization to enter as
-a foreigner the marine college at Brest. In the Franco-Prussian War of
+a foreigner the marine college at [[Brest]]. In the Franco-Prussian War of
 1870-71 he took part in the operations of the French fleet. In 1874 when
 the warship on which he was serving was in the Gabun, Alfred Marche and
 the marquis de Compiegne arrived at Libreville from an expedition in the
 lower Ogowe district. Interested in the reports of these travellers, de
 Brazza conceived the idea of exploring the Ogowe, which he thought might
 prove to be the lower course of the Lualaba, a river then recently
-discovered by David Livingstone. Having meantime been naturalized as a
+discovered by David [[Livingstone]]. Having meantime been naturalized as a
 Frenchman, de Brazza in 1875 obtained permission to undertake his
 African scheme, and with the naval doctor, Noel Ballay, he explored the
 Ogowe river. Penetrating beyond the basin of that river, he discovered
@@ -38,10 +38,10 @@ the formation of the United African Company by Sir George Goldie (then
 Mr Goldie Taubman) in July 1879, Goldie's object being to secure Nigeria
 for Great Britain. A new expedition was fitted out, and de Brazza left
 Paris at the end of 1879 with orders to go to the Niger, make treaties,
-and plant French flags. When on the point of sailing; from Lisbon he
+and plant French [[Flag|flags]]. When on the point of sailing; from [[Lisbon]] he
 received a telegram cancelling these instructions, and altering his
 destination to the Congo. This was a decision of great moment. Had the
-Nigerian policy of France been maintained the International African
+Nigerian policy of France been maintained the [[International]] African
 Association (afterwards the Congo Free State) would have had a clear
 field on the Congo, while the young British Company would have been
 crushed out by French opposition; so that the two great basins of the

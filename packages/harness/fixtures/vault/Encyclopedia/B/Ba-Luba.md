@@ -9,7 +9,7 @@ topic: navigation-studies
 BA-LUBA, a Bantu negroid race with several subdivisions; one of the most
 important and cultivated peoples of Central Africa. They are distributed
 over eight degrees of longitude between Lakes Tanganyika, Mweru and
-Bangweulu in the east, and the Kasai in the west. In the east, where they
+[[Bangweulu]] in the east, and the Kasai in the west. In the east, where they
 are found in the greatest racial purity, they founded the states of
 Katanga, Urua and Uguha; in the west they have intermixed to some extent
 with the Ba-Kete aborigines, whom they have partially dispossessed,
@@ -32,12 +32,12 @@ tooth-filing is very frequent in the east, though in the west it is
 comparatively rare; the fashion of dressing the hair is very varied and
 often extremely fantastic. Their houses, which are built by the women, are
 rectangular; on the Lulua, however, pile-houses, square in shape, are
-found. They are an agricultural people, but work in the fields is relegated
+found. They are an agricultural people, but work in the [[Fields|fields]] is relegated
 to the women and slaves; the men are admirable craftsmen and are renowned
-for their wood-carving, cloth-weaving and iron-work. In the west, bows and
+for their wood-carving, cloth-weaving and iron-work. In the west, [[Bow|bows]] and
 arrows are the chief weapons, in the east spears principally are used. The
 old form of religion still obtains in the east, which was untouched by the
-communistic movement mentioned, and charms of all sorts, as well as carved
+communistic movement mentioned, and [[Charm|charms]] of all sorts, as well as carved
 anthropomorphic figures, are extremely common. The Ba-Luba are a fine race
 physically and seem very prosperous, though in the extreme west
 considerable deterioration, physical, moral and cultural, has taken place.

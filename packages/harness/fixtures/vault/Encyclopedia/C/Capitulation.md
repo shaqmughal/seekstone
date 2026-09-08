@@ -20,7 +20,7 @@ officer, on whose authority the enemy are not in the actual position of
 the war entitled to place reliance. When an agreement is made by an
 officer who has not the proper authority or who has exceeded the limits
 of his authority, it is termed a _sponsion_, and, to be binding, must be
-confirmed by express or tacit ratification. Article 35 of the Hague
+confirmed by express or tacit ratification. Article 35 of the [[Hague]]
 Convention (1899) on the laws and the customs of war lays down that
 "capitulations agreed on between the contracting parties must be in
 accordance with the rules of military honour. When once settled they
@@ -34,7 +34,7 @@ confirmatory of them, have been made between the Porte and other states
 by which foreigners resident in Turkey are subject to the laws of their
 respective countries. The term is also applied by French writers to the
 oath which on his election the Holy Roman emperor used to make to the
-college of electors; this related chiefly to such matters as regalian
+college of [[Electors|electors]]; this related chiefly to such matters as regalian
 rights, appeals from local jurisdictions, the rights of the pope, &c.
 
 ## See also

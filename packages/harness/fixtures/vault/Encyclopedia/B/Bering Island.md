@@ -10,7 +10,7 @@ type: reference
 BERING ISLAND, SEA and STRAIT. These take their name from the explorer
 Vitus Bering. The island (also called Avatcha), which was the scene of
 his death, lies in the south-western part of the sea, off the coast of
-Kamchatka, being one of the Commander or Komandor group, belonging to
+[[Kamchatka]], being one of the [[Commander]] or Komandor group, belonging to
 Russia. It is 69 m. long and 28 m. in extreme breadth; the area is 615
 sq. m. The extreme elevation is about 300 ft. The smaller Copper Island
 lies near. The islands are treeless, and the climate is severe, but
@@ -19,10 +19,10 @@ continuation of the Pacific Ocean, from which it is demarcated by the
 long chain of the Aleutian Islands. It is bounded on the east by Alaska,
 and on the west by the Siberian and Kamchatkan coast. Its area is
 estimated at 870,000 sq. m. In the north and east it has numerous
-islands (St Lawrence, St Matthew, Nunivak and the Pribiloff group) and
-is shallow; in the south-west it reaches depths over 2000 fathoms. The
-seal-fisheries are important (see BERING SEA ARBITRATION). The sea is
-connected with the Arctic Ocean northward by Bering Strait, at the
+islands (St [[Lawrence]], St [[Matthew]], Nunivak and the Pribiloff group) and
+is shallow; in the south-west it reaches depths over 2000 [[Fathom|fathoms]]. The
+seal-fisheries are important (see BERING SEA [[Arbitration|ARBITRATION]]). The sea is
+connected with the [[Arctic]] Ocean northward by Bering Strait, at the
 narrowest part of which East Cape (Deshnev) in Asia approaches within
 about 56 m. of Cape Prince of Wales on the American shore. North and
 south of these points the coasts on both sides rapidly diverge. They are
@@ -33,8 +33,8 @@ mile apart, and the boundary line between the possessions of Russia and
 the United States passes between them. They are occupied by a small
 tribe of about 80 Eskimo, who have from early times plied the trade of
 middlemen between Asia and America. They call the western island
-Nunarbook and the eastern Ignalook. Haze and fogs greatly prevail in the
-strait, which is never free of ice.
+Nunarbook and the eastern Ignalook. Haze and [[Fog|fogs]] greatly prevail in the
+strait, which is never free of [[Ice|ice]].
 
 [Illustration: Map of Bering Sea.]
 
@@ -54,16 +54,16 @@ the "St Paul," and after being separated from his leader during foggy
 weather this officer reached the Alaskan coast and explored a
 considerable stretch of it. Lieutenant Waxel and William Steller, a
 naturalist, left at the head of Bering's party after his death, by their
-researches laid the foundation of the important fur trade of these
+researches laid the foundation of the important [[Fur|fur]] trade of these
 waters. The Aleutian Islands gradually became known in the pursuit of
 this trade, through Michael Novidiskov (1745) and his successors, and it
-was not until Captain James Cook, working from the south, explored the
+was not until Captain James [[Cook]], working from the south, explored the
 sea and strait in 1778 that the tide of discovery set farther northward.
 
 
 
 
-BERING SEA ARBITRATION. The important fishery dispute between Great
+BERING SEA ARBITRATION. The important [[Fishery|fishery]] dispute between Great
 Britain and the United States, which was closed by this arbitration,
 arose in the following circumstances.
 
@@ -78,7 +78,7 @@ principal breeding-grounds of the seals frequenting those seas. By
 certain acts of congress, passed between 1868 and 1873, the killing of
 seals was prohibited upon the islands of the Pribiloff group and in "the
 waters adjacent thereto" except upon certain specified conditions. No
-definition of the meaning of the words "adjacent waters" was given in
+[[Definition|definition]] of the meaning of the words "adjacent waters" was given in
 the act. In 1870 the exclusive rights of killing seals upon these
 islands was leased by the United States to the Alaska Commercial
 Company, upon conditions limiting the numbers to be taken annually, and
@@ -93,7 +93,7 @@ answer to a letter asking for an interpretation of the words "waters
 adjacent thereto" in the acts of 1868 and 1873, stated that all the
 waters east of the boundary line were considered to be within the waters
 of Alaska territory. In March 1886 this letter was communicated to the
-San Francisco customs by Mr Daniel Manning, secretary of the treasury,
+San Francisco customs by Mr [[Daniel]] Manning, secretary of the treasury,
 for publication. In the same summer three British sealers, the
 "Carolena," "Onward" and "Thornton," were captured by an American
 revenue cutter 60 m. from land. They were condemned by the district
@@ -105,7 +105,7 @@ taken up by the two governments in the controversy which ensued may be
 thus indicated. The United States claimed as a matter of right an
 exclusive jurisdiction over the sealing industry in Bering Sea; they
 also contended that the protection of the fur seal was, upon grounds
-both of morality and interest, an international duty, and should be
+both of morality and interest, an [[International|international]] duty, and should be
 secured by international arrangement. The British government repudiated
 the claim of right, but were willing to negotiate upon the question of
 international regulation. Between 1887 and 1890 negotiations were
@@ -150,14 +150,14 @@ claimed an interest in the fur seals, involving the right to protect
 them outside the three-mile limit. In August 1890 Lord Salisbury
 proposed that the question at issue should be submitted to arbitration.
 This was ultimately assented to by the secretary of state, James
-Gillespie Blaine, on the understanding that certain specific points,
+[[Gillespie]] Blaine, on the understanding that certain specific points,
 which he indicated, should be laid before the arbitrators. On the 29th
 of February 1892 a definitive treaty was signed at Washington. Each
 power was to name two arbitrators, and the president of the French
 Republic, the king of Italy, the king of Norway and Sweden were each to
 name one. The points submitted were as follows:--(1) What exclusive
 jurisdiction in the sea now known as Bering Sea, and what exclusive
-rights in the seal fisheries therein, did Russia assert and exercise
+rights in the seal [[Fisheries|fisheries]] therein, did Russia assert and exercise
 prior to and up to the time of the cession of Alaska to the United
 States? (2) How far were her claims of jurisdiction as to the seal
 fisheries recognized and conceded by Great Britain? (3) Was the body of
@@ -205,9 +205,9 @@ illegitimate; it was _contra bonos mores_ and analogous to piracy.
 Consequently the United States claimed a right to restrain such
 practices, both as proprietors of the seals and as proprietors and
 trustees of the legitimate industry. It is obvious that such a right was
-a novelty hitherto unrecognized by any system of law. Mr J.C. Carter,
+a novelty hitherto unrecognized by any system of law. Mr J.C. [[Carter]],
 therefore, as counsel for the United States, submitted a theory of
-international jurisprudence which was equally novel. He argued that the
+international [[Jurisprudence|jurisprudence]] which was equally novel. He argued that the
 determination of the tribunal must be grounded upon "the principles of
 right," that "by the rule or principle of right was meant a moral rule
 dictated by the general standard of justice upon which civilized nations

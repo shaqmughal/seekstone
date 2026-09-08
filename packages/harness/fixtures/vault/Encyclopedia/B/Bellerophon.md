@@ -1,10 +1,10 @@
 # Bellerophon
 
 BELLEROPHON, or BELLEROPHONTES, in Greek legend, son of Glaucus or
-Poseidon, grandson of Sisyphus and local hero of Corinth. Having slain
+Poseidon, grandson of Sisyphus and local hero of [[Corinth]]. Having slain
 by accident the Corinthian hero Bellerus (or, according to others, his
 own brother) he fled to Tiryns, where his kinsman Proetus, king of
-Argos, received him hospitably and purged him of his guilt. But Anteia
+[[Argos]], received him hospitably and purged him of his [[Guilt|guilt]]. But Anteia
 (or Stheneboea), wife of Proetus, became enamoured of Bellerophon, and,
 when he refused her advances, charged him with an attempt upon her
 virtue. Proetus thereupon sent him to Iobates, his wife's father, king
@@ -13,28 +13,28 @@ apparently given by means of signs, to take the life of the bearer.
 Arriving in Lycia, he was received as a guest and entertained for nine
 days. On the tenth, being asked the object of his visit, he handed the
 letter to the king, whose first plan for complying with it was to send
-him to slay the Chimaera, a monster which was devastating the country.
+him to slay the [[Chimaera]], a monster which was devastating the country.
 Bellerophon, mounted on Pegasus (q.v.), kept up in the air out of the
 way of the Chimaera, but yet near enough to kill it with his spear, or,
-as he is at other times represented, with his sword or with a bow. He
+as he is at other times represented, with his sword or with a [[Bow|bow]]. He
 was next ordered out against the Solymi, a hostile tribe, and afterwards
 against the Amazons, from both of which expeditions he not only returned
 victorious, but also on his way back slew an ambush of chosen warriors
 whom Iobates had placed to intercept him. His divine origin was now
 proved; the king gave him his daughter in marriage; and the Lycians
 presented him with a large and fertile estate on which he lived
-(Apollodorus, ii. 3; Homer, _Iliad_, vi. 155). Bellerophon is said to
+([[Apollodorus]], ii. 3; [[Homer]], _Iliad_, vi. 155). Bellerophon is said to
 have returned to Tiryns and avenged himself on Anteia: he persuaded her
-to fly with him on his winged horse, and then flung her into the sea
+to [[Fly|fly]] with him on his winged horse, and then flung her into the sea
 near the island of Melos (Schol. Aristoph., _Pax_, 140). His ambitious
 attempt to ascend to the heavens on Pegasus brought upon him the wrath
-of the gods. His son was smitten by Ares in battle; his daughter
+of the gods. His son was smitten by [[Ares]] in battle; his daughter
 Laodameia was slain by Artemis; he himself, flung from his horse, lamed
 or blinded, became a wanderer over the face of the earth until his death
 (Pindar, _Isthmia_, vi. [vii.], 44; Horace, _Odes_, iv. 11, 26).
 Bellerophon was honoured as a hero at Corinth and in Lycia. His story
 formed the subject of the _Debates_ of Sophocles, and of the
-_Bellerophontes_ and _Stheneboea_ of Euripides. It has been suggested
+_Bellerophontes_ and _Stheneboea_ of [[Euripides]]. It has been suggested
 that Perseus, the local hero of Argos, and Bellerophon were originally
 one and the same, the difference in their exploits being the result of
 the rivalry of Argos and Corinth. Both are connected with the sun-god

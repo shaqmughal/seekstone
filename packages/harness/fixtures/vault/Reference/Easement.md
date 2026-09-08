@@ -1,7 +1,7 @@
 # Easement
 
 EASEMENT (Fr. _aise_; O. Fr. _aisement_; Anglo-Lat. _aisiamentum_, a
-privilege or convenience), in English law, a species of "servitude" or
+privilege or convenience), in [[English Law|English law]], a species of "servitude" or
 limited right of use over land belonging to another. It is distinguished
 from _profits a prendre_--another species of servitude which involves a
 right to participate in the profits of the soil of another--since an
@@ -13,8 +13,8 @@ a right of way is an easement, a right of common is a profit. An
 easement is distinguishable also from a licence, which, unless it is
 coupled with a grant, is personal to both grantor and grantee and is
 neither binding on the licensor, nor, in general, assignable by the
-licensee; while both the benefit and the burden of an easement are
-annexed to land (Gale on _Easements_, 8th ed. p. 2). With easements are
+licensee; while both the benefit and the [[Burden|burden]] of an easement are
+annexed to land ([[Gale]] on _Easements_, 8th ed. p. 2). With easements are
 sometimes classed certain closely allied "natural rights," such as a
 landowner's right to lateral support for his soil in its natural state,
 and a riparian owner's right to the natural flow of a stream.
@@ -25,13 +25,13 @@ and enjoyment of land--not to the land itself; (ii.) it is imposed upon
 corporeal property; (iii.) it is a right without profit; (iv.) it
 requires for its constitution two distinct tenements--the "dominant
 tenement" which enjoys the right, and the "servient tenement" which
-submits to it. This last characteristic excludes from the category of
-easements the so-called "easements _in gross_," such as a right of way
+submits to it. This last characteristic excludes from the [[Category|category]] of
+easements the so-called "easements _in [[Gross|gross]]_," such as a right of way
 conferred by grant independently of the possession of any tenement by
 the grantee. The true easement is an "appendant" or "appurtenant" right,
 not a "right in gross."
 
-Further classifications of easements must be noted. They are divided
+Further [[Classification|classifications]] of easements must be noted. They are divided
 into (a) _affirmative_ or _positive_, those which authorize the
 commission of an act by the dominant owner, e.g. rights of way, a right
 to draw water from a spring, rights of aqueduct, and _negative_, when
@@ -50,7 +50,7 @@ a certain height.
 _Acquisition of Easements._--Easements may be acquired (a) by express
 grant, either by statute, or by deed _inter vivos_, or by will; (b) by
 an implied grant; (c) by express or implied reservation, e.g. by the
-owner of land in selling the fee (as to implied reservation, see Gale on
+owner of land in selling the [[Fee|fee]] (as to implied reservation, see Gale on
 _Easements_, 8th ed. pp. 137 et seq.); (d) by prescription, either at
 common law or under the Prescription Act 1832. An express grant, or
 express reservation, of an easement cannot be effected except by deed.
@@ -83,8 +83,8 @@ for a claim that may be defeated, and 40 years for an indefeasible claim
 ANCIENT LIGHTS). The enjoyment to become prescriptive must be open, i.e.
 of such a character that the owner of the tenement said to be servient
 has a reasonable opportunity of becoming aware of the adverse claim
-(_Union Lighterage Co._ v. _London Graving Dock Co._, 1902, 2 Ch. 557);
-and it must be enjoyed as of right (_Gardner_ v. _Hodgson's Kingston
+(_Union Lighterage Co._ v. _London Graving [[Dock]] Co._, 1902, 2 Ch. 557);
+and it must be enjoyed as of right (_[[Gardner]]_ v. _Hodgson's [[Kingston]]
 Brewery Co._, 1903, A.C. 229) as against the owner of the tenement
 affected (_Kilgour_ v. _Gaddes_, 1904, 1 K.B. 457). The periods of
 prescription are to be reckoned backwards from the time when some suit
@@ -115,21 +115,21 @@ negative, &c., and the modes of their creation and extinction, are
 similar to those of English law. The statutory period of prescription is
 40 years (Scots Acts 1617, c. 12), or 20 years in the case of enjoyment
 under any _ex facie_ valid irredeemable title duly recorded in the
-appropriate register of sasines (Conveyancing [Scotland] Act 1874).
+appropriate register of sasines ([[Conveyancing]] [Scotland] Act 1874).
 There are certain servitudes special to Scots law, e.g. "thirlage," by
 which lands are "thirled" or bound to a particular mill, and the
 possessors obliged to grind their grain there, for payment of certain
 _multures_ (quantities of grain or meal, payable to the mill-owner) and
 _sequels_ (small quantities given to the mill servants) as the customary
-price of grinding. Statutory provision has been made for the commutation
+price of grinding. Statutory provision has been made for the [[Commutation|commutation]]
 of these duties (Thirlage Act 1799), and they have now almost
 disappeared.
 
-The French Code Civil (Arts. 637 et seq.) and the other European codes
-(e.g. Belgium, arts. 637 et seq.; Holland, arts. 721 et seq.; Italy,
+The French [[Code]] Civil (Arts. 637 et seq.) and the other European codes
+(e.g. [[Belgium]], arts. 637 et seq.; Holland, arts. 721 et seq.; Italy,
 arts. 531 et seq.; Spain, arts. 530 et seq.; Germany, arts. 1018 et
-seq.) closely follow Roman law. French law is in force in Mauritius, and
-has been followed in Quebec (Civil Code, arts. 499 et seq.) and St Lucia
+seq.) closely follow Roman law. French law is in force in [[Mauritius]], and
+has been followed in Quebec (Civil Code, arts. 499 et seq.) and St [[Lucia]]
 (Civil Code, arts. 449 et seq.). In India the law is regulated, on
 English lines, by the Easements Act 1882 (Act v. of 1882). The term
 "easements," however, in India includes _profits a prendre_. In the
@@ -149,12 +149,12 @@ not accepted in most of the States.
 
   AUTHORITIES.--_English Law_: Gale, _Law of Easements_ (8th ed.,
   London, 1908); Goddard, _Law of Easements_ (6th ed., London, 1904);
-  Innes, _Digest of the Law of Easements_ (7th ed., London, 1903).
-  _Indian Law_: Peacock, _Easements in British India_ (Calcutta, 1904);
-  Hudson and Inman, _Law of Light and Air_ (2nd ed., London, 1905).
+  Innes, _[[Digest]] of the Law of Easements_ (7th ed., London, 1903).
+  _Indian Law_: Peacock, _Easements in British India_ ([[Calcutta]], 1904);
+  [[Hudson]] and [[Inman]], _Law of Light and Air_ (2nd ed., London, 1905).
   _Scots Law_: Erskine, _Principles of the Law of Scotland_ (20th ed.,
   Edinburgh, 1903). _American Law_: Jones, _Law of Easements_ (New York,
-  1898); Bouvier, _Law Dict._ (Boston and London, 1897); _Ruling Cases_,
+  1898); Bouvier, _Law Dict._ ([[Boston]] and London, 1897); _Ruling Cases_,
   London and Boston, 1894-1901, tit. _Easement_ (American Notes).
        (A. W. R.)
 

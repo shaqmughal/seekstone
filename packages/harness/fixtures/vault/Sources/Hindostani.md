@@ -9,12 +9,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hindostani
 # Hindostani
 
 HINDOSTANI (properly _Hindostani_, of or belonging to Hindostan[1]), the
-name given by Europeans to an Indo-Aryan dialect (whose home is in the
-upper Gangetic Doab and near the city of Delhi), which, owing to
+name given by Europeans to an Indo-Aryan [[Dialect|dialect]] (whose home is in the
+upper Gangetic [[Doab]] and near the city of [[Delhi]]), which, owing to
 political causes, has become the great _lingua franca_ of modern India.
 The name is not employed by natives of India, except as an imitation of
 the English nomenclature. Hindostani is by origin a dialect of Western
-Hindi, and it is first of all necessary to explain what we mean by the
+[[Hindi]], and it is first of all necessary to explain what we mean by the
 term "Hindi" as applied to language. Modern Indo-Aryan languages fall
 into three groups,--an outer band, the language of the Midland and an
 intermediate band. The Midland consists of the Gangetic Doab and of the
@@ -22,7 +22,7 @@ country to its immediate north and south, extending, roughly speaking,
 from the Eastern Punjab on the west, to Cawnpore on its east. The
 language of this tract is called "Western Hindi"; to its west we have
 Panjabi (of the Central Punjab), and to the east, reaching as far as
-Benares, Eastern Hindi, both Intermediate languages. These three will
+[[Benares]], Eastern Hindi, both Intermediate languages. These three will
 all be dealt with in the present article. Panjabi and Western Hindi are
 derived from Sauraseni, and Eastern Hindi from Ardham gadha Prakrit,
 through the corresponding Apabhramsas (see PRAKRIT). Eastern Hindi
@@ -34,14 +34,14 @@ Eastern Hindi, 22,136,358.
 
 _Linguistic Boundaries._--Taking the tract covered by these three forms
 of speech, it has to its west, in the western Punjab, Lannda (see
-SINDHI), a language of the Outer band. The parent of Lahnda once no
+SINDHI), a language of the Outer band. The parent of [[Lahnda]] once no
 doubt covered the whole of the Punjab, but, in the process of expansion
 of the tribes of the Midland described in the article INDO-ARYAN
 LANGUAGES, it was gradually driven back, leaving traces of its former
 existence which grow stronger as we proceed westwards, until at about
 the 74th degree of east longitude there is a mixed, transition dialect.
 To the west of that degree Lahnda may be said to be established, the
-deserts of the west-central Punjab forming a barrier and protecting it,
+[[Desert|deserts]] of the west-central Punjab forming a barrier and protecting it,
 just as, farther south, a continuation of the same desert has protected
 Sindhi from Rajasthani. It is the old traces of Lahnda which mainly
 differentiate Panjabi from Hindostani. To the south of Panjabi and
@@ -53,7 +53,7 @@ continuity of the Outer band. Eastern Hindi, as an Intermediate form of
 speech, is of much older lineage. It has been an Intermediate language
 since, at least, the institution of Jainism (say, 500 B.C.), and is much
 less subject to the influence of the Midland than is Panjabi. To its
-east it has Bihari, and, stretching far to the south, it has Marathi as
+east it has [[Bihari]], and, stretching far to the south, it has [[Marathi]] as
 its neighbour in that direction, both of these being Outer languages.
 
 _Dialects._--The only important dialect of Eastern Hindi is Awadhi,
@@ -63,20 +63,20 @@ of small value. Western Hindi has four main dialects, Bundeli of
 Bundelkhand, Braj Bhasha (properly "Braj Bhasa") of the country round
 Mathura (Muttra), Kanauji of the central Doab and the country to its
 north, and vernacular Hindostani of Delhi and the Upper Doab. West of
-the Upper Doab, across the Jumna, another dialect, Bangaru, is also
+the Upper Doab, across the [[Jumna]], another dialect, Bangaru, is also
 found. It possesses no literature. Kanauji is very closely allied to
 Braj Bhasha, and these two share with Awadhi the honour of being the
 great literary speeches of northern India. Nearly all the classical
 literature of India is religious in character, and we may say that, as a
 broad rule, Awadhi literature is devoted to the Ramaite religion and the
 epic poetry connected with it, while that of Braj Bhasha is concerned
-with the religion of Krishna. Vernacular Hindostani has no literature of
+with the religion of [[Krishna]]. Vernacular Hindostani has no literature of
 its own, but as the _lingua franca_ now to be described it has a large
-one. Panjabi has one dialect, Dogri, spoken in the Himalayas.
+one. Panjabi has one dialect, Dogri, spoken in the [[Himalaya|Himalayas]].
 
 _Hindostani as a Lingua Franca._--It has often been said that Hindostani
 is a mongrel "pigeon" form of speech made up of contributions from the
-various languages which met in Delhi bazaar, but this theory has now
+various languages which met in Delhi [[Bazaar|bazaar]], but this theory has now
 been proved to be unfounded, owing to the discovery of the fact that it
 is an actual living dialect of Western Hindi, existing for centuries in
 its present habitat, and the direct descendant of Sauraseni Prakrit. It
@@ -106,7 +106,7 @@ the official language of the Mogul court. In this way Persian (and, with
 Persian, Arabic) words came into current use, and, though the language
 remained Indo-Aryan in its grammar and essential characteristics, it
 soon became unintelligible to any one who had not at least a moderate
-acquaintance with the vocabulary of Iran. This extreme Persianization of
+acquaintance with the vocabulary of [[Iran]]. This extreme Persianization of
 Urdu was due rather to Hindu than to Persian influence. Although Urdu
 literature was Mussulman in its origin, the Persian element was first
 introduced in excess by the pliant Hindu officials employed in the Mogul
@@ -118,7 +118,7 @@ of Fort William. It has had a prosperous career since the commencement
 of the 19th century, but some writers, especially those of Lucknow, have
 so overloaded it with Persian and Arabic that little of the original
 Indo-Aryan character remains, except, perhaps, an occasional pronoun or
-auxiliary verb. The Hindi form of Hindostani was invented simultaneously
+[[Auxiliary|auxiliary]] verb. The Hindi form of Hindostani was invented simultaneously
 with Urdu prose by the teachers at Fort William. It was intended to be a
 Hindostani for the use of Hindus, and was derived from Urdu by ejecting
 all words of Persian or Arabic birth, and substituting for them words
@@ -135,7 +135,7 @@ Bhasha) are nearly always employed by Hindus. Urdu, on the other hand,
 having had a natural growth, has a vigorous poetical literature. Modern
 Hindi prose is often disfigured by that too free borrowing of Sanskrit
 words instead of using home-born _tadbhavas_, which has been the ruin of
-Bengali, and it is rapidly becoming a Hindu counterpart of the
+[[Bengali]], and it is rapidly becoming a Hindu counterpart of the
 Persianized Urdu, neither of which is intelligible except to persons of
 high education.
 
@@ -189,7 +189,7 @@ phonetically, or according to the corrupt pronunciation they receive in
 the mouths of the natives, and are declined like the indigenous nouns by
 means of the usual postpositions or case-affixes. A few examples will
 suffice. The Portuguese, the first in order of seniority, contributes a
-few words, as _kamara_ or _kamra_ (_camera_), a room; _martol_
+few words, as _kamara_ or _kamra_ (_[[Camera|camera]]_), a room; _martol_
 (_martello_), a hammer; _nilam_ (_leilao_), an auction, &c. &c. Of
 French and Dutch influence scarcely a trace exists. English has
 contributed a number of words, some of which have even found a place in
@@ -197,7 +197,7 @@ the literature of the language; e.g. _kamishanar_ (commissioner); _jaj_
 (judge); _daktar_ (doctor); _daktari_, "the science of medicine" or "the
 profession of physicians"; _inspektar_ (inspector); _istant_
 (assistant); _sosayati_ (society); _apil_ (appeal); _apil karna_, "to
-appeal"; _dikri_ or _digri_ (decree); _digri_ (degree); _inc_ (inch);
+appeal"; _dikri_ or _digri_ ([[Decree|decree]]); _digri_ (degree); _inc_ ([[Inch|inch]]);
 _fut_ (foot); and many more, are now words commonly used. Some borrowed
 words are distorted into the shape of genuine Hindostani words familiar
 to the speakers; e.g. the English railway term "signal" has become
@@ -213,10 +213,10 @@ example.[3]
 
 The vocabulary of Panjabi and Eastern Hindi is very similar to that of
 Western Hindi. Panjabi has no literature to speak of and is free from
-the burden of words borrowed from Persian or Sanskrit, only the
+the [[Burden|burden]] of words borrowed from Persian or Sanskrit, only the
 commonest and simplest of such being found in it. Its vocabulary is thus
 almost entirely _tadbhava_, and, while capable of expressing all ideas,
-it has a charming rustic flavour, like the Lowland Scotch of Burns,
+it has a charming rustic flavour, like the Lowland Scotch of [[Burns]],
 indicative of the national character of the sturdy peasantry that
 employs it. Eastern Hindi is very like Panjabi in this respect, but for
 a different reason. In it were written the works of Tulsi Das, one of
@@ -247,14 +247,14 @@ of the Guru," and is now generally used for writing the language.
   cerebral l. There is a tendency for concurrent vowels to run into each
   other, and for the semi-vowels y and v to become vowels. Thus, Skr.
   _carmakaras_, Ap. _cammaaru_, a leather-worker, becomes H. _camar_;
-  Skr. _rajani_, Ap. _ra(y)ani_, H. _rain_, night; Skr. _dhavalakas_,
+  Skr. _rajani_, Ap. _ra(y)[[Ani|ani]]_, H. _rain_, night; Skr. _dhavalakas_,
   Ap. _dhavalau_, H. _dhaula_, white. Sometimes the semi-vowel is
   retained, as in Skr. _kataras_, Ap. _ka(y)aru_, H. _kayar_, a coward.
   Almost the only compound consonants which survived in the Pr. stage
   were double letters, and in W.H. and E.H. these are usually
   simplified, the preceding vowel being lengthened and sometimes
   nasalized, in compensation. P., on the other hand, prefers to retain
-  the double consonant. Thus, Skr. _karma_, Ap. _kammu_, W.H. and E.H.
+  the double consonant. Thus, Skr. _[[Karma|karma]]_, Ap. _kammu_, W.H. and E.H.
   _kam_, but P. _kamm_, a work; Skr. _satyas_, Ap. _saccu_, W.H. and
   E.H. _sac_, but P. _sacc_, true (H., being the W.H. dialect which lies
   nearest to P., often follows that language, and in this instance has
@@ -263,10 +263,10 @@ of the Guru," and is now generally used for writing the language.
   very frequent in all three languages, and is here represented by the
   sign ~ over the vowel. Sometimes it is compensatory, as in _sac_, but
   it often represents an original _m_, as in _kawal_ from Skr.
-  _kamalas_, a lotus. Final short vowels quiesce in prose pronunciation,
+  _[[Kamala|kamalas]]_, a lotus. Final short vowels quiesce in prose pronunciation,
   and are usually not written in transliteration; thus the final _a_,
   _i_ or _u_ has been lost in all the examples given above, and other
-  _tatsama_ examples are Skr. _mati_-which becomes _mat_, mind, and Skr.
+  _tatsama_ examples are Skr. _mati_-which becomes _[[Mat|mat]]_, mind, and Skr.
   _vastu_-, which becomes _bast_, a thing. In all poetry, however
   (except in the Urdu poetry formed on Persian models, and under the
   rules of Persian prosody), they reappear and are necessary for the
@@ -288,12 +288,12 @@ of the Guru," and is now generally used for writing the language.
   (B) _Declension._--The nominative form of a _tadbhava_ word is derived
   from the nominative form in Sanskrit and Prakrit, but _tatsama_ words
   are usually borrowed in the form of the Skr. crude base; thus, Skr.
-  _hastin_-, nom. _hasti_, Ap. nom. _hatthi_, H. _hathi_, an elephant;
+  _hastin_-, nom. _hasti_, Ap. nom. _hatthi_, H. _hathi_, an [[Elephant|elephant]];
   Skr. base _mati_-, nom. _matis_, H. (_tatsama_) _mati_, or, with
   elision of the final short vowel, _mat_. Some _tatsamas_ are, however,
   borrowed in the nominative form, as in Skr. _dhanin_-, nom. _dhani_,
   H. _dhani_, a rich man. As another example of a _tadbhava_ word, we
-  may take the Skr. nom. _ghotas_, Ap. _ghodu_, H. _ghor_, a horse. Here
+  may take the Skr. nom. _ghotas_, Ap. _ghodu_, H. _[[Ghor|ghor]]_, a horse. Here
   again the final short vowel has been elided, but in old poetry we
   should find _ghoru_, and corresponding forms in u are occasionally met
   with at the present day.
@@ -424,7 +424,7 @@ of the Guru," and is now generally used for writing the language.
   to form cases in our three languages:--
 
     +--------------+-------+----------+--------+----------+-----------+
-    |              | Agent.| Genitive.| Dative.| Ablative.| Locative. |
+    |              | Agent.| Genitive.| [[Dative]].| Ablative.| Locative. |
     +--------------+-------+----------+--------+----------+-----------+
     | Panjabi      | nai   | da       | nu     | te       | vicc      |
     | Hindostani   | ne    | ka       | ko     | se       | me        |
@@ -436,7 +436,7 @@ of the Guru," and is now generally used for writing the language.
   of a transitive verb in a tense formed from the past participle. This
   participle is passive in origin, and must be construed passively. In
   the Prakrit stage the subject was in such cases put into the
-  instrumental case (see PRAKRIT), as in the phrase _aham tena mario_, I
+  instrumental case (see PRAKRIT), as in the phrase _aham tena [[Mario|mario]]_, I
   by-him (was) struck, i.e. he struck me. In Eastern Hindi this is still
   the case, the old instrumental being represented by the oblique form
   without any suffix. The other two languages define the fact that the
@@ -486,7 +486,7 @@ of the Guru," and is now generally used for writing the language.
   some genitive postposition. Thus H. _ko_, Br. _kau_, is a contraction
   of _kahu_, an old oblique form of _kia-u_. Similarly for the others.
   The origin of the ablative postpositions is obscure. To the present
-  writer they all seem (like the Bengal _haite_) to be connected with
+  writer they all seem (like the [[Bengal]] _haite_) to be connected with
   the verb substantive, but their derivation has not been definitely
   fixed. The locative postpositions _me_ and _mai_ are derived from the
   Skr. _madhye_, in, through _majjhi_, _mahi_, and so on. The derivation
@@ -610,7 +610,7 @@ of the Guru," and is now generally used for writing the language.
     +---------------------+------------+---------+------------+--------+---------+
     | Old Present--       |            |         |            |        |         |
     |  Singular 1.        | callau     | calla   | calu       | calau  | calau   |
-    |     "     2.        | callasi,   | calle   | cale       | calai  | calas   |
+    |     "     2.        | callasi,   | calle   | cale       | calai  | [[Calas|calas]]   |
     |                     |   callahi  |         |            |        |         |
     |     "     3.        | callai     | calle   | cale       | calai  | calai   |
     |  Plural   1.        | callahu    | calliye | cale       | calai  | calai   |
@@ -653,7 +653,7 @@ of the Guru," and is now generally used for writing the language.
   the participle is construed impersonally, and takes the masculine (for
   want of a neuter) form. Thus, _mai-ne kaha_, by-me it-was-said, i.e. I
   said; _us-ne citthi likhi_, by-him a-letter (fem.) was-written, he
-  wrote a letter; _raja-ne sherni-ko mara_, the king killed the tigress,
+  wrote a letter; _raja-ne sherni-ko [[Mara|mara]]_, the king killed the tigress,
   lit., by-the-king, with-reference-to-the-tigress, it (impersonal)
   -was-killed. In the article PRAKRIT it is shown that the same
   construction is obtained in that language.
@@ -709,7 +709,7 @@ of the Guru," and is now generally used for writing the language.
 
   D. _Literature._--The literatures of Western and Eastern Hindi form
   the subject of a separate article (see HINDOSTANI LITERATURE). Panjabi
-  has no formal literature. Even the _Granth_, the sacred book of the
+  has no formal literature. Even the _[[Granth]]_, the sacred book of the
   Sikhs, is mainly in archaic Western Hindi, only a small portion being
   in Panjabi. On the other hand, the language is peculiarly rich in
   folksongs and ballads, some of considerable length and great poetic
@@ -726,17 +726,17 @@ of the Guru," and is now generally used for writing the language.
   added G. A. Grierson, "On the Radical and Participial Tenses of the
   Modern Indo-Aryan Languages" in the _Journal of the Asiatic Society of
   Bengal_, vol. lxiv. (1895), part i. pp. 352 et seq.; and "On Certain
-  Suffixes in the Modern Indo-Aryan Vernaculars" in the _Zeitschrift fur
+  Suffixes in the Modern Indo-Aryan Vernaculars" in the _Zeitschrift [[Fur|fur]]
   vergleichende Sprachforschung auf dem Gebiete der indogermanischen
   Sprachen_ for 1903, pp. 473 et seq.
 
   (b) For the separate languages, see C. J. Lyall, _A Sketch of the
-  Hindustani Language_ (Edinburgh, 1880); S. H. Kellogg, _A Grammar of
+  Hindustani Language_ (Edinburgh, 1880); S. H. [[Kellogg]], _A Grammar of
   the Hindi Language_ (for both Western and Eastern Hindi), (2nd ed.,
   London, 1893); J. T. Platts, _A Grammar of the Hindustani or Urdu
   Language_ (London, 1874); and _A Dictionary of Urdu, Classical Hindi
   and English_ (London, 1884); E. P. Newton, _Panjabi Grammar: with
-  Exercises and Vocabulary_ (Ludhiana, 1898); and Bhai Maya Singh, _The
+  Exercises and Vocabulary_ ([[Ludhiana]], 1898); and Bhai Maya Singh, _The
   Panjabi Dictionary_ (Lahore, 1895). _The Linguistic Survey of India_,
   vol. vi., describes Eastern Hindi, and vol. ix., Hindostani and
   Panjabi, in each instance in great detail.     (G. A. Gr.)
@@ -759,7 +759,7 @@ FOOTNOTES:
     languages; but "Hindo" is also often heard in India. "Hindostan" with
     _o_ is much more common both in English and in Indian languages,
     although "Hindustan" is also employed. Up to the days of Persian
-    supremacy inaugurated in Calcutta by Gilchrist and his friends, every
+    supremacy inaugurated in [[Calcutta]] by Gilchrist and his friends, every
     traveller in India spoke of "Indostan" or some such word, thus
     bearing testimony to the current pronunciation. Gilchrist introduced
     "Hindoostan," which became "Hindustan" in modern spelling. The word
@@ -790,10 +790,10 @@ FOOTNOTES:
 
 HINDOSTANI LITERATURE. The writings dealt with in this article are those
 composed in the vernacular of that part of India which is properly
-called Hindostan,--that is, the valleys of the Jumna and Ganges rivers
+called Hindostan,--that is, the valleys of the Jumna and [[Ganges]] rivers
 as far east as the river Kos, and the tract to the south including
 Rajputana, Central India (Bundelkhand and Baghelkhand), the Narmada
-(Nerbudda) valley as far west as Khandwa, and the northern half of the
+(Nerbudda) valley as far west as [[Khandwa]], and the northern half of the
 Central Provinces. It does not include the Punjab proper (though the
 town population there speak Hindostani), nor does it extend to Lower
 Bengal.
@@ -820,7 +820,7 @@ words in the latter have been eliminated and replaced by words of
 Sanskritic origin, and the order of words in the sentence which is
 proper to the indigenous speech is more strictly adhered to than in
 Urdu, which under the influence of Persian constructions has admitted
-many inversions.
+many [[Inversion|inversions]].
 
 As in many other countries, nearly all the early vernacular literature
 of Hindostan is in verse, and works in prose are a modern growth.[2]
@@ -829,8 +829,8 @@ first intruders upon the ground already occupied by the learned
 languages Sanskrit and Persian, the former representing Hindu and the
 latter Musalman culture. But there is this difference between them,
 that, whereas Hindi has been raised to the dignity of a literary speech
-chiefly by impulses of revolt against the monopoly of the Brahmans, Urdu
-has been cultivated with goodwill by authors who have themselves highly
+chiefly by impulses of revolt against the monopoly of the [[Brahman|Brahmans]], Urdu
+has been cultivated with [[Goodwill|goodwill]] by authors who have themselves highly
 valued and dexterously used the polished Persian. Both Sanskrit and
 Persian continue to be employed occasionally for composition by Indian
 writers, though much fallen from their former estate; but for popular
@@ -856,7 +856,7 @@ The subject may be conveniently divided as follows:--
 
 1. _Early Hindi._--Our knowledge of the ancient metrical chronicles of
 Rajputana is still very imperfect, and is chiefly derived from the
-monumental work of Colonel James Tod, called _The Annals and Antiquities
+monumental work of Colonel James Tod, called _The [[Annals]] and Antiquities
 of Rajasthan_ (published in 1829-1832), which is founded on them. It is
 in the nature of compositions of this character to be subjected to
 perpetual revision and recasting; they are the production of the family
@@ -867,7 +867,7 @@ nucleus of historical fact a rich growth of legend accumulates; later
 redactors endeavour to systematize and to assign dates, but the result
 is not often such as to inspire confidence; and the mass has more the
 character of ballad literature than of serious history. The materials
-used by Tod are nearly all still unprinted; his manuscripts are now
+used by Tod are nearly all still unprinted; his [[Manuscript|manuscripts]] are now
 deposited in the library of the Royal Asiatic Society in London; and one
 of the tasks which, on linguistic and historical grounds, should first
 be undertaken by the investigator of early Hindi literature is the
@@ -876,17 +876,17 @@ these important texts.
 
 Omitting a few fragments of more ancient bards given by compilers of
 accounts of Hindi literature, the earliest author of whom any portion
-has as yet been published in the original text is Chand Bardai, the
+has as yet been published in the original text is [[Chand Bardai]], the
 court bard of Prithwi-Raj, the last Hindu sovereign of Delhi. His poem,
 entitled _Prithi-Raj Rasau_ (or _Raysa_), is a vast chronicle in 69
-books or cantos, comprising a general history of the period when he
+books or [[Canto|cantos]], comprising a general history of the period when he
 wrote. Of this a small portion has been printed, partly under the
 editorship of the late Mr John Beames and partly under that of Dr Rudolf
 Hoernle, by the Asiatic Society of Bengal; but the excessively difficult
 nature of the task prevented both scholars from making much progress.[3]
 Chand, who came of a family of bards, was a native of Lahore, which had
 for nearly 170 years (since 1023) been under Muslim rule when he
-flourished, and the language of the poem exhibits a considerable leaven
+flourished, and the language of the poem exhibits a considerable [[Leaven|leaven]]
 of Persian words. In its present form the work is a redaction made by
 Amar Singh of Mewar, about the beginning of the 17th century, and
 therefore more than 400 years after Chand's death, with his patron
@@ -927,7 +927,7 @@ forms" (Grierson).
   their utterances with skill and animation. The sound, however,
   frequently predominates over the sense; the narrative is carried on
   with the wearisome iteration and tedious unfolding of familiar themes
-  and images which characterize all such poetry in India; and his value,
+  and [[Image|images]] which characterize all such poetry in India; and his value,
   for us at least, is linguistic rather than literary.
 
 Chand may be taken as the representative of a long line of successors,
@@ -935,7 +935,7 @@ continued even to the present day in the Rajput states. Many of their
 compositions are still widely popular as ballad literature, but are known
 only in oral versions sung in Hindostan by professional singers. One of
 the most famous of these is the _Alha-khand_, reputed to be the work of a
-contemporary of Chand called Jagnik or Jagnayak, of Mahoba in Bundelkhand,
+contemporary of Chand called Jagnik or Jagnayak, of [[Mahoba]] in Bundelkhand,
 who sang the praises of Raja-Parmal, a ruler whose wars with Prithwi-Raj
 are recorded in the Mahoba-Khand of Chand's work. Alha and Udal, the
 heroes of the poem, are famous warriors in popular legend, and the stories
@@ -952,7 +952,7 @@ the anthology called _Sarngadhara-Paddhati_. Another work which may be
 mentioned (though much more modern) is the long chronicle entitled
 _Chhattra-Prakas_, or the history of Raja Chhatarsal, the Bundela raja of
 Panna, who was killed, fighting on behalf of Prince Dara-Shukoh, in the
-battle of Dholpur won by Aurangzeb in 1658. The author, Lal Kabi, has
+battle of [[Dholpur]] won by [[Aurangzeb]] in 1658. The author, Lal Kabi, has
 given in this work a history of the valiant Bundela nation which was
 rendered into English by Captain W. R. Pogson in 1828, and printed at
 Calcutta.
@@ -985,7 +985,7 @@ delusion and other mystical characters.
 
   Both on account of its interest as a true vernacular work, and as the
   composition of a Musalman who has taken the incidents of his morality
-  from the legends of his country and not from an exotic source, the
+  from the legends of his country and not from an [[Exotic|exotic]] source, the
   poem is memorable. It has often been lithographed, and is very
   popular; a translation has even been made into Sanskrit. A critical
   edition has been prepared by Dr G. A. Grierson and Pandit Sudhakar
@@ -1001,7 +1001,7 @@ interest for its form and content. Nearly the whole of subsequent
 poetical composition in Hindi is impressed with one or other type of
 Vaishnava doctrine, which, like Buddhism many centuries before, was
 essentially a reaction against Brahmanical influence and the chains of
-caste, a claim for the rights of humanity in face of the monopoly which
+[[Caste|caste]], a claim for the rights of humanity in face of the monopoly which
 the "twice-born" asserted of learning, of worship, of righteousness. A
 large proportion of the writers were non-Brahmans, and many of them of
 the lowest castes. As Siva was the popular deity of the Brahmans, so was
@@ -1020,10 +1020,10 @@ of a Supreme Deity, possessing every gracious attribute, full of love
 and pity for the sinful beings who adore him, and granting the released
 soul a home of eternal bliss near him--a home where each soul never
 loses its identity, and whose state is one of perfect peace."[7] In the
-Deity's infinite love and pity he has on several occasions become
+Deity's [[Infinite|infinite]] love and pity he has on several occasions become
 incarnate for the salvation of mankind, and of these incarnations two,
 Ramachandra, the prince of Ayodhya, and Krishna, the chief of the Yadava
-clan and son of Vasudeva, are pre-eminently those in which it is most
+[[Clan|clan]] and son of Vasudeva, are pre-eminently those in which it is most
 fitting that he should be worshipped. Both of these incarnations had for
 many centuries[8] attracted popular veneration, and their histories had
 been celebrated by poets in epics and by weavers of religious myths in
@@ -1032,7 +1032,7 @@ which secured for them, and especially for Ramachandra, their exclusive
 place as the objects of _bhakti_--ardent faith and personal devotion
 addressed to the Supreme. The adherents of Ramanuja were, however, all
 Brahmans, and observed very strict rules in respect of food, bathing and
-dress; the new doctrine had not yet penetrated to the people.
+[[Dress|dress]]; the new doctrine had not yet penetrated to the people.
 
 Whether Ramanuja himself gave the preference to Rama against Krishna as
 the form of Vishnu most worthy of worship is uncertain. He dealt mainly
@@ -1064,17 +1064,17 @@ That of Krishna, on the other hand, had for its basis the legendary
 career of a less estimable human hero, whose exploits are marked by a
 kind of elvish and fantastic wantonness; it has more and more spent its
 energy in developing that side of devotion which is perilously near to
-sensual thought, and has allowed the imagination and ingenuity of poets
+sensual thought, and has allowed the [[Imagination|imagination]] and ingenuity of poets
 to dwell on things unmeet for verse or even for speech. It is claimed
 for those who first opened this way to faith that their hearts were pure
-and their thoughts innocent, and that the language of erotic passion
+and their thoughts [[Innocent|innocent]], and that the language of erotic passion
 which they use as the vehicle of their religious emotion is merely
 mystical and allegorical. This is probable; but that these beginnings
 were followed by corruption in the multitude, and that the fervent
 impulses of adoration made way in later times for those of lust and
 lasciviousness, seems beyond dispute.
 
-The worship of Krishna, especially in his infant and youthful form
+The worship of Krishna, especially in his [[Infant|infant]] and youthful form
 (which appeals chiefly to women), is widely popular in the neighbourhood
 of Mathura, the capital of that land of Braj where as a boy he lived.
 Its literature is mainly composed in the dialect of this region, called
@@ -1097,8 +1097,8 @@ of his order in regard to the stringent rules observed by them, left the
 community, migrated to northern India (where he is said to have made his
 headquarters Galta in Rajputana), and addressed himself to those outside
 the Brahman caste, thus initiating the teaching of Vaishnavism as the
-popular faith of Hindostan. Among his twelve disciples or apostles were
-a Rajput, a Jat, a leather-worker, a barber and a Musalman weaver; the
+popular faith of Hindostan. Among his twelve [[Disciple|disciples]] or [[Apostle|apostles]] were
+a Rajput, a Jat, a leather-worker, a [[Barber|barber]] and a Musalman weaver; the
 last-mentioned was the celebrated KABIR (see separate article). One
 short Hindi poem by Ramanand is contained in the _Adi Granth_, and Dr
 Grierson has collected hymns (_bhajans_) attributed to him and still
@@ -1154,10 +1154,10 @@ the Emperor's name live to this day in the memory of the people. Akbar's
 favourite minister and companion, Raja Birbal (who fell in battle on the
 north-western frontier in 1583), was a musician and a poet as well as a
 politician, and held the title, conferred by the Emperor, of _Kabi-Ray_,
-or poet laureate; his verses and witty sayings are still extremely
+or poet [[Laureate|laureate]]; his verses and witty sayings are still extremely
 popular in northern India, though no complete work by him is known to
 exist. Other nobles of the court were also poets, among them the
-_Khan-khanan_ 'Abdur-Rahim, son of Bairam Khan, whose Hindi _dohas_ and
+_Khan-khanan_ 'Abdur-Rahim, son of [[Bairam]] [[Khan]], whose Hindi _dohas_ and
 _kabittas_ are still held in high estimation, and Faizi, brother of the
 celebrated Abul-Fazl, the Emperor's annalist.
 
@@ -1165,7 +1165,7 @@ By this time the worship of Krishna as the lover of Radha
 _(Radha-ballabh)_ had been systematized, and a local habitation found
 for it at Gokul, opposite Mathura on the Jumna, some 30 m. upstream from
 Agra, Akbar's capital, by Vallabhacharya, a Tailinga Brahman from
-Madras. Born in 1478, in 1497 he chose the land of Braj as his
+Madras. Born in 1478, in 1497 he [[Chose|chose]] the land of Braj as his
 headquarters, thence making missionary tours throughout India. He wrote
 chiefly, if not entirely, in Sanskrit; but among his immediate
 followers, and those of his son Bitthalnath (who succeeded his father on
@@ -1252,7 +1252,7 @@ fame of Sur Das, Tuls Das or Bihari Lal. Their themes exhibit no
 novelty, and they repeat with a wearisome monotony the sentiments of
 their predecessors. The list of Hindi authors drawn up by Dr G. A.
 Grierson, and printed in the _Journal of the Asiatic Society of Bengal_
-in 1889, may be consulted for the names and works of these _epigoni_.
+in 1889, may be consulted for the names and works of these _[[Epigoni|epigoni]]_.
 The courts of Chhatarsal, raja of Panna in Bundelkhand, who was killed
 in battle with Aurangzeb in 1658, and of several rajas of Bandho (now
 called Riwan or Rewah) in Baghelkhand, were famous for their patronage
@@ -1278,11 +1278,11 @@ received. The few who have explored it speak of it as an "enchanted
 garden" (Grierson), abounding in beauties of thought and phrase. Above
 all it is to be remembered that it is genuinely popular, and has reached
 strata of society scarcely touched by literature in Europe. The ballads
-of Rajput prowess, the aphorisms of Kabir, Tulsi Das's _Ramayan_, and
+of Rajput prowess, the [[Aphorism|aphorisms]] of Kabir, Tulsi Das's _Ramayan_, and
 the _bhajans_ of Sur Das are to this day carried about everywhere by
 wandering minstrels, and have found their way, throughout the great
 plains of northern India and the uplands of the Vindhya plateau, to the
-hearts of the people. There is no surer key to unlock the confidence of
+hearts of the people. There is no surer [[Key|key]] to unlock the confidence of
 the villager than an apt quotation from one of these inspired singers.
 
 3. _Literary Urdu._--The _origines_ of Urdu as a literary language are
@@ -1339,7 +1339,7 @@ contact. The current language of the neighbourhood of the capital, the
 Hindi spoken about Delhi and thence northwards to the Himalaya, was
 naturally the form of the vernacular which was most subject to foreign
 influences; and with the extension of Mogul territory by the conquests
-in the south of Akbar and his successors, this idiom was carried abroad
+in the south of Akbar and his successors, this [[Idiom|idiom]] was carried abroad
 by their armies, and was adopted by the Musalman kingdoms of the Deccan
 as their court language some time before their overthrow by the
 campaigns of Aurangzeb.
@@ -1351,14 +1351,14 @@ to literary composition in Urdu should have been given, not at the
 headquarters of the empire in the north, but at the Muhammadan courts of
 Golkonda and Bijapur in the south, the former situated amid an
 indigenous population speaking Telugu, and the latter among one whose
-speech was Kanarese, both Dravidian languages having nothing in common
-with the Aryan tongues of the north. This fact of itself defines the
+speech was [[Kanarese]], both [[Dravidian]] languages having nothing in common
+with the [[Aryan]] tongues of the north. This fact of itself defines the
 nature of the literature thus inaugurated. It had nothing to do with the
 idiom or ideas of the people among whom it was born, but was from the
 beginning an imitation of Persian models. It adopted the standards of
 form and content current among the poets of Eran. The _qasida_ or
 laudatory ode, the _ghazal_ or love-sonnet, usually of mystical import,
-the _marsiya_ or dirge, the _masnavi_ or narrative poem with coupled
+the _marsiya_ or [[Dirge|dirge]], the _masnavi_ or narrative poem with coupled
 rhymes, the _hija_ or satire, the _ruba'i_ or epigram--these were the
 types which Urdu took over ready-made. And with the forms were
 appropriated also all the conventions of poetic diction. The Persians,
@@ -1371,7 +1371,7 @@ comparison, antithesis, alliteration, carefully arranged gradation of
 noun and epithet, are the means employed to obtain variety; and few of
 the most eloquent passages of later Persian verse admit of translation
 into any other language without losing that which in the original makes
-their whole charm. What is true of Persian is likewise true of Urdu
+their whole [[Charm|charm]]. What is true of Persian is likewise true of Urdu
 poetry. Until quite modern times, there is scarcely anything in it which
 can be called original.[15] Differences of school, which are made much
 of by native critics, are to us hardly perceptible; they consist in the
@@ -1406,7 +1406,7 @@ or the new style of composition.
   of the king of Oudh, and the heroine, Kala, daughter of the king of
   Ceylon; the incidents somewhat resemble those of the tale of
   as-Sindibad in the _Thousand and One Nights_; the hero and heroine
-  dream one of the other, and the former sets forth to find his beloved;
+  [[Dream|dream]] one of the other, and the former sets forth to find his beloved;
   his wanderings take him to many strange countries and through many
   wonderful adventures, ending in a happy marriage.
 
@@ -1426,7 +1426,7 @@ or the new style of composition.
 
   These early authors, however, were but pioneers; the first generally
   accepted standard of form, a standard which suffered little change in
-  two centuries, was established by Wali of Aurangabad (about 1680-1720)
+  two centuries, was established by Wali of [[Aurangabad]] (about 1680-1720)
   and his contemporary and fellow-townsman Siraj. The former of these is
   commonly called "the Father of Rekhtah"--_Baba-e Rekhta_; and all
   accounts agree that the immense development attained by Urdu poetry in
@@ -1455,7 +1455,7 @@ or the new style of composition.
   ranks next to Sauda as the most eminent Urdu poet. Arzu died at
   Lucknow, whither he betook himself after the devastation of Delhi by
   Nadir Shah (1739). Another of the early Delhi poets who is considered
-  to have surpassed his fellows was In'amullah Khan Yaqin, who died
+  to have surpassed his [[Fellows|fellows]] was In'amullah Khan Yaqin, who died
   during the reign of Ahmad Shah (1748-1754), aged only twenty-five.
   Another was Mir Dard, pupil of the same Shah Gulshan who is said to
   have instructed Wali; his _diwan_ is not long, but extremely popular,
@@ -1507,7 +1507,7 @@ or the new style of composition.
   ("Rose-garden of Iram," the legendary 'Adite paradise in southern
   Arabia), in praise of Faizabad, is likewise highly esteemed. Mir
   Muhammadi Soz was an elegant poet, remarkable for the success with
-  which he composed in the dialect of the harem called _Rekhti_, but
+  which he composed in the dialect of the [[Harem|harem]] called _Rekhti_, but
   somewhat licentious in his verse; he became a _darwesh_ and renounced
   the world in his later years. Jur'at was also a prolific poet, but,
   like Soz, his _ghazals_ and _masnavis_ are licentious and full of
@@ -1541,7 +1541,7 @@ or the new style of composition.
   Shah II., the last titular emperor of Delhi (d. 1862), wrote under the
   name of Zafar, and was a pupil in poetry of Shaikh Ibrahim Zauq, a
   distinguished writer; he has left a voluminous _diwan_, which has been
-  printed at Delhi. Mashafi (Ghulam-i Hamdani), who died about 1814, was
+  printed at Delhi. Mashafi (Ghulam-i [[Hamdani]]), who died about 1814, was
   one of the most distinguished of the revived poetic school of Delhi,
   and was himself one of its founders. Originally of Lucknow, he left
   that city for Delhi in 1777, and held conferences of poets, at which
@@ -1592,7 +1592,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   _Gul-i Maghfirat_ or _Dah Majlis_, an account of the holy persons of
   the Muhammadan faith; the _Gulzar-i Danish_, a translation of the
   _Bahar-i Danish_, a Persian work containing stories descriptive of the
-  craft and faithlessness of women; and the _Tarikh-i Nadiri_, a
+  [[Craft|craft]] and faithlessness of women; and the _Tarikh-i Nadiri_, a
   translation of a Persian history of Nadir Shah. Husaini is the author
   of an imitation in prose of Mir Hasan's _Sihru-l-bayan_, under the
   name of _Nasr-i Benazir_ ("the Incomparable Prose," or "the Prose of
@@ -1604,7 +1604,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   the time of Ahmad Shah Durrani for Patna, and in 1801 repaired to
   Calcutta. To him we owe the _Bagh o Bahar_ (1801-1802), an adaptation
   of Amir Khusrau's famous Persian romance entitled the _Chahar
-  Darwesh_, or "Story of the Four Dervishes." Amman's work is not itself
+  Darwesh_, or "Story of the Four [[Dervish|Dervishes]]." Amman's work is not itself
   directly modelled on the Persian, but is a rehandling of an almost
   contemporary rendering by Tahsin of Etawa, called the _Nau-tarz-i
   Murassa'_. The style of this composition is much admired by natives of
@@ -1682,7 +1682,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
 
   The works of these authors, though compiled and published under the
   superintendence of Dr Gilchrist, Captain Abraham Lockett, Professor J.
-  W. Taylor, Dr W. Hunter and other European officers of the college of
+  W. Taylor, Dr W. [[Hunter]] and other European officers of the college of
   Fort William, and originally intended for the instruction of the
   Company's officers in the vernacular, are essentially Indian in taste
   and style, and, until superseded by the more recent developments of
@@ -1712,7 +1712,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   nephew of 'Abdu-l'Aziz and 'Abdu-l-Qadir, the chief author of the
   sect. After a course of preaching and apostleship at Delhi, Sayyid
   Ahmad set out in 1820 for Calcutta, attended by numerous adherents.
-  Thence in 1822 he started on a pilgrimage to Mecca, whence he went to
+  Thence in 1822 he started on a pilgrimage to [[Mecca]], whence he went to
   Constantinople, and was there received with distinction and gained
   many disciples. He travelled for nearly six years in Turkey and
   Arabia, and then returned to Delhi. The religious degradation and
@@ -1720,7 +1720,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   after his sojourn in lands where the life of Islam is stronger, and he
   and his disciples established a propaganda throughout northern India,
   reprobating the superstitions which had crept into the faith from
-  contact with Hindus, and preaching a _jihad_ or holy war against the
+  contact with Hindus, and preaching a _[[Jihad|jihad]]_ or holy war against the
   Sikhs. In 1828 he started for Peshawar, attended by, it is said,
   upwards of 100,000 Indians, and accompanied by his chief followers,
   Haji Isma'il and 'Abdu-l-Hayy. He was furnished with means by a
@@ -1758,7 +1758,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   But the expense of this method of reproduction long precluded its
   extensive use in India, and movable types, though well suited for
   alphabets derived from the Sanskrit, were not equally applicable to
-  the flowing and graceful characters of Persian. Lithography was
+  the flowing and graceful characters of Persian. [[Lithography]] was
   introduced about 1837, when the first press was set up at Delhi, and
   immediately gave a powerful stimulus to the multiplication of
   literature, both original and editions of older works. In 1832 the
@@ -1771,7 +1771,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   required, not only greatly enlarged the vocabulary of the common
   speech, but led by degrees to the use of a simpler and more direct
   style, and the abandonment wholesale of the florid and artificial
-  ornament which was the legacy of the Persian literature upon which
+  ornament which was the [[Legacy|legacy]] of the Persian literature upon which
   Urdu prose had at first modelled itself. Lastly, the establishment of
   a vernacular newspaper press, which lithography had rendered possible,
   placed within the reach of a continually widening public the means of
@@ -1796,7 +1796,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   general terms. Style and vocabulary are still in a somewhat fluid and
   unsettled condition, and the subjects treated are almost as various as
   they are in European literatures. Much, indeed, of the work produced
-  has scarcely any claim to literary excellence, and in the crowd of
+  has scarcely any claim to literary excellence, and in the [[Crowd|crowd]] of
   writers we may content ourselves with mentioning only a few whose
   influence and authority make it probable that they will hereafter be
   known as leaders in the new culture.
@@ -1831,7 +1831,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   _Ruba'is_ or quatrains (101 in number), with an English translation,
   by Mr G. E. Ward (Oxford, 1904); in this is included a famous poem
   addressed to his muse, setting forth his ideals in poetry--simplicity,
-  avoidance of exaggeration and unreality, direct and emotional appeal
+  [[Avoidance|avoidance]] of exaggeration and unreality, direct and emotional appeal
   to the heart, and above all sincerity. There can be no doubt that he
   has succeeded in becoming the leader of a new poetic school, which
   shows much vigour and promise.
@@ -1839,7 +1839,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   Perhaps the most memorable of all Hali's compositions is his long poem
   in six-line stanzas (called _musaddas_) on "the flow and ebb of Islam"
   (1879), which has had an extraordinary influence in stimulating
-  enthusiasm in the cause of progress among the Musalmans of the north
+  [[Enthusiasm|enthusiasm]] in the cause of progress among the Musalmans of the north
   of India. In it he draws, in simple and direct but searching and
   eloquent language, a rapid sketch of the glories of Islam in the past,
   its principles and precepts, and the sources of its strength; and then
@@ -1873,7 +1873,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   ("Vestiges of Princes"), an excellent account of Delhi and its
   monuments, which has passed through several editions since it was
   first lithographed in 1847. His essays and occasional papers,
-  published in the _Aligarh Institute Gazette_ (started in 1864), and
+  published in the _Aligarh Institute [[Gazette]]_ (started in 1864), and
   afterwards (from 1870 onwards) in a periodical entitled
   _Tahzibul-Akhlaq_ (or "Muhammadan Social Reformer"), handle all the
   problems of religious, social and educational advancement among Indian
@@ -1894,11 +1894,11 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   Repentance of Nasuh"), _Banatun-Na'sh_ ("the Seven Stars of the Great
   Bear"), _Ibnul-Waqt_ ("Son of the Age"), and _Ayama_ ("Widows"). But
   Nazir Ahmad is a man of many sides; before he took to novel-writing he
-  was the principal translator into Urdu of the _Indian Penal Code_
+  was the principal translator into Urdu of the _Indian Penal [[Code]]_
   (1861), which is reckoned a masterpiece in the exact rendering of
   European legal ideas; and more lately he gave to the world the best
   Urdu version of the Quran. He has been a popular lecturer on social
-  subjects, displaying a rich vein of humour, and in his old age even
+  subjects, displaying a rich vein of [[Humour|humour]], and in his old age even
   ventured upon verse. During the latter portion of his life he was most
   closely associated with Sir Sayyid Ahmad Khan.
 
@@ -1911,7 +1911,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   Sarshar of Lucknow. The story, which is very long, is remarkable for
   the faithful and vivid pictures of Lucknow society which it presents,
   and its exact and lifelike delineation of character; it appeared
-  originally as a _feuilleton_ of the _Awadh Akhbar_, of which paper the
+  originally as a _[[Feuilleton|feuilleton]]_ of the _Awadh Akhbar_, of which paper the
   author was at the time editor. Another good writer in the same branch
   of literature is Maulavi 'Abdul-Halim Sharar, also a native of the
   neighbourhood of Lucknow, but settled at Hyderabad. He was editor of a
@@ -1919,9 +1919,9 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   contained essays and papers in European style, and in it his novels,
   which are all of an historical character, in the style of Sir Walter
   Scott, originally appeared. The best are _'Aziz and Virgina_, a tale
-  of the Crusades, and _Mansur and Mohina_, a story of which the scene
+  of the [[Crusades]], and _[[Mansur]] and Mohina_, a story of which the scene
   is laid in India at the time of the invasions of Sultan Mahmud of
-  Ghazni.
+  [[Ghazni]].
 
   Although Urdu chiefly represents Musalman culture, its use is by no
   means confined to adherents of that faith. It has just been mentioned
@@ -1948,7 +1948,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   Hindi has been a complete failure for this purpose.
 
   The most noticeable authors in Hindi since the middle of the 19th
-  century have been Babu Harishchandra and Raja Siva Prasad, both of
+  century have been [[Babu]] Harishchandra and Raja Siva Prasad, both of
   Benares. The former, during his short life (1850-1885), was an
   enthusiastic cultivator of the old poetic art, using the dialects just
   mentioned. He published in the _Sundari Tilak_ an anthology of the
@@ -1960,7 +1960,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   many problems, and traced the lines for further investigation. In his
   _Kashmir Kusum_, or history of Kashmir, a list is given of about a
   hundred works by him. He was also the real founder of the modern Hindi
-  drama; he wrote plays himself, and inspired others. Raja Siva Prasad
+  [[Drama|drama]]; he wrote plays himself, and inspired others. Raja Siva Prasad
   (1823-1895) served for many years in the educational department, and
   published a number of works intended for use in schools, which have
   greatly contributed to the formation of a sound vernacular form of
@@ -1986,7 +1986,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
   For Urdu poets, Professor Azad's _Ab-i Hayat_ (in Urdu) is the most
   trustworthy record. For the new school of Urdu literature reference
   may be made to a series of lectures (in English) by Shaikh
-  'Abdul-Qadir of Lahore, printed in 1898. The catalogues by Professor
+  'Abdul-Qadir of Lahore, printed in 1898. The [[Catalogue|catalogues]] by Professor
   Blumhardt of Hindostani and Hindi books in the libraries of the
   British Museum and the India Office will give a good idea of the
   volume of the recent productions of the press in those languages.
@@ -1996,7 +1996,7 @@ Lutf, Hafizuddin Ahmad, Sher 'Ali Afsos, Nihal Chand of Lahore, Kazim
 FOOTNOTES:
 
   [1] _Urdu_ is a Turkish word meaning a camp or army with its
-    followers, and is the origin of the European word _horde_. _Rekhta_
+    followers, and is the origin of the European word _[[Horde|horde]]_. _Rekhta_
     means "scattered, strewn," referring to the way in which Persian
     words are intermixed with those of Indian origin; it is used chiefly
     for the literary form of Urdu.
@@ -2029,7 +2029,7 @@ FOOTNOTES:
   [10] This name of Krishna, which means "He who quits the battle," is
     connected with the story of the transfer of the Yadava clan from
     Mathura to the new capital on the coast of the peninsula of
-    Kathiawar, the city of Dwaraka. This migration was the result of an
+    Kathiawar, the city of [[Dwaraka]]. This migration was the result of an
     invasion of Braj by Jarasandha, king of Magadha, before whom Krishna
     resolved to retreat. As his path southwards took him through
     Rajputana and Gujarat, it is in these regions that his form Ranchhor
@@ -2061,7 +2061,7 @@ FOOTNOTES:
   [15] An exception may be made to this general statement in favour of
     the _genre_ pictures of city and country life contained in the
     _masnavis_ of Sauda and Nazir. These are often satires (in the vein
-    of Horace rather than Juvenal), and are full of interest as pictures
+    of Horace rather than [[Juvenal]]), and are full of interest as pictures
     of society. In Sauda, however, the conventional language used in
     description is often Persian rather than Indian.
 
@@ -2071,7 +2071,7 @@ FOOTNOTES:
 
 
 
-HINDU CHRONOLOGY. The subject of Hindu chronology divides naturally into
+HINDU [[Chronology|CHRONOLOGY]]. The subject of Hindu chronology divides naturally into
 three parts: the calendar, the eras, and other reckonings.
 
 
@@ -2084,12 +2084,12 @@ treated in such a manner as to keep the beginning of the lunar year near
 the beginning of the solar year. The exact manner in which they arranged
 the details of their earliest calendar is still a subject of research.
 We deal here with their calendar as it now stands, in a form which was
-developed from about A.D. 400 under the influence of the Greek astronomy
+developed from about A.D. 400 under the influence of the Greek [[Astronomy|astronomy]]
 which had been introduced into India at no very long time previously.
 
 The Hindu calendar, then, is determined by years of two kinds, solar and
 lunar. For civil purposes, solar years are used in Bengal, including
-Orissa, and in the Tamil and Malayalam districts of Madras, and lunar
+Orissa, and in the Tamil and [[Malayalam]] districts of Madras, and lunar
 years throughout the rest of India. But the lunar year regulates
 everywhere the general religious rites and festivals, and the details of
 private and domestic life, such as the selection of auspicious occasions
@@ -2111,7 +2111,7 @@ is as follows. In our Western astronomy the signs of the zodiac have, in
 consequence of the precession of the equinoxes, drawn away to a large
 extent from the constellations from which they derived their names; with
 the result that the sun now comes to the vernal equinox, at the first
-point of the sign Aries, not in the constellation Aries, but at a point
+point of the sign [[Aries]], not in the constellation Aries, but at a point
 in Pisces, about 28 degrees before the beginning of Aries. The Hindus,
 however, have disregarded precession in connexion with their calendar
 from the time (A.D. 499, 522, or 527, according to different schools)
@@ -2210,11 +2210,11 @@ beginning on or closely about the 12th of April.
   successive _samkrantis_ or entrances of the sun into the (sidereal)
   signs of the zodiac, which, as with us, are twelve in number. The
   names of the signs in Sanskrit are as follows: Mesha, the ram (Aries);
-  Vrishabha, the bull (Taurus); Mithuna, the pair, the twins (Gemini);
-  Karka, Karkata, Karkataka, the crab (Cancer); Simha, the lion (Leo);
+  Vrishabha, the [[Bull|bull]] (Taurus); Mithuna, the pair, the twins (Gemini);
+  Karka, Karkata, Karkataka, the [[Crab|crab]] ([[Cancer]]); Simha, the lion (Leo);
   Kanya, the maiden (Virgo); Tula, the scales (Libra); Vrischika, the
-  scorpion (Scorpio); Dhanus, the bow (Sagittarius); Makara, the
-  sea-monster (Capricornus); Kumbha, the water-pot (Aquarius); and Mina,
+  scorpion (Scorpio); Dhanus, the [[Bow|bow]] (Sagittarius); Makara, the
+  sea-monster (Capricornus); Kumbha, the water-pot ([[Aquarius]]); and Mina,
   the fishes (Pisces). The solar months are known in some parts by the
   names of the signs or by corrupted forms of them; and these are the
   best names for them for general use, because they lead to no
@@ -2302,7 +2302,7 @@ beginning on or closely about the 12th of April.
   names are used in corrupted forms) are in Sanskrit Adityavara or
   Ravivara, the day of the sun, sometimes called Adivara, the
   beginning-day (Sunday); Somavara, the day of the moon (Monday);
-  Mangalavara, the day of Mars (Tuesday); Budhavara, the day of Mercury
+  Mangalavara, the day of [[Mars]] (Tuesday); Budhavara, the day of Mercury
   (Wednesday); Brihas-pativara or Guruvara, the day of Jupiter
   (Thursday); Sukravara, the day of Venus (Friday); and Sanivara, the
   day of Saturn (Saturday). It may be mentioned, as a matter of
@@ -2330,7 +2330,7 @@ beginning on or closely about the 12th of April.
   As their civil day begins at sunrise, the Hindus naturally count all
   their times, in _ghatikas_ and _palas_, from that moment. But the
   moment is a varying one, though not in India to anything like the
-  extent to which it is so in European latitudes; and under the British
+  extent to which it is so in European [[Latitude|latitudes]]; and under the British
   Government the Hindus have recognized the advantage, and in fact the
   necessity, especially in connexion with their lunar calendar, of
   having a convenient means of referring their own times to the time
@@ -2367,7 +2367,7 @@ and it now falls from about 17th October to about 15th November.
 
   The present names of the lunar months, indicated above, were derived
   from the _nakshatras_, which are certain conspicuous stars and groups
-  of stars lying more or less along the neighbourhood of the ecliptic.
+  of stars lying more or less along the neighbourhood of the [[Ecliptic|ecliptic]].
   The _nakshatras_ are regarded sometimes as twenty-seven in number,
   sometimes as twenty-eight, and are grouped in twelve sets of two or
   three each, beginning, according to the earlier arrangement of the
@@ -2399,7 +2399,7 @@ and it now falls from about 17th October to about 15th November.
   A lunar month may be regarded as ending either with the new-moon,
   which is called _amavasya_, or with the full-moon, which is called
   _purnamasi_, _purnima_: a month of the former kind is termed _amanta_,
-  "ending with the new-moon," or _sukladi_, "beginning with the bright
+  "ending with the new-moon," or _sukladi_, "beginning with the [[Bright|bright]]
   fortnight;" a month of the latter kind is termed purnimanta, "ending
   with the full-moon," or _krishnadi_, "beginning with the dark
   fortnight." For all purposes of the calendar, the _amanta_ month is
@@ -2554,7 +2554,7 @@ and it now falls from about 17th October to about 15th November.
   assigned to them: for instance, Vaisakha sukla 3 is Akshaya or
   Akshayya-tritiya, the third _tithi_ which ensures permanence to acts
   performed on it; Bhadrapada sukla 4 is Ganesa-chaturthi, the fourth
-  _tithi_ dedicated to the worship of the god Ganesa, Ganapati, and the
+  _tithi_ dedicated to the worship of the god [[Ganesa]], Ganapati, and the
   _amanta_ Bhadrapada or _purnimanta_ Asvina krishna 13 is
   Kaliyugadi-trayodasi, as being regarded (for some reason which is not
   apparent) as the anniversary of the beginning of the Kaliyuga, the
@@ -2655,7 +2655,7 @@ sacrificial calendar, a five-years lunisolar cycle, and possibly some
 extended cycles of the same nature; and there was in Buddhist circles a
 record of the years elapsed since the death of Buddha, which we shall
 mention again further on. But, as is gathered from books and is well
-illustrated by the edicts of Asoka (reigned 264-227 B.C.) and the
+illustrated by the edicts of [[Asoka]] (reigned 264-227 B.C.) and the
 inscriptions of other rulers, the years of the reign of each successive
 king were found sufficient for the public dating of proclamations and
 the record of events. There is no known case in which any Indian king,
@@ -2704,7 +2704,7 @@ reckoning was not maintained, there was devised in the 12th century A.D.
 a reckoning styled Buddhavarsha, "the years of Buddha," which still
 exists, and which purports to run from the death of Buddha, but has set
 up an erroneous date for that event in 544 B.C. This later reckoning
-spread from Ceylon to Burma and Siam, where, also, it is still used. It
+spread from Ceylon to [[Burma]] and Siam, where, also, it is still used. It
 did not obtain any general recognition in India, because, when it was
 devised, Buddhism had practically died out there, except at Bodh-Gaya.
 But, as there seems to have been constant intercourse between Bodh-Gaya
@@ -2769,7 +2769,7 @@ those in which the Ceylonese Buddhavarsha set up the erroneous date of
   the neighbouring territories; and so it became also known as the
   Valabhi era.
 
-  From Halsi in the Belgaum district, Bombay, we have a record of the
+  From Halsi in the [[Belgaum]] district, Bombay, we have a record of the
   Kadamba king Kakusthavarman, which was framed during the time when he
   was the Yuvaraja or anointed successor to the sovereignty, and may be
   referred to about A.D. 500. It is dated in "the eightieth victorious
@@ -2779,14 +2779,14 @@ those in which the Ceylonese Buddhavarsha set up the erroneous date of
   existence of this era has been obtained.
 
   The records of the Ganga kings of Kalinganagara, which is the modern
-  Mukhalingam-Nagarikatakam in the Ganjam district, Madras, show the
+  Mukhalingam-Nagarikatakam in the [[Ganjam]] district, Madras, show the
   existence of a Ganga era which ran for at any rate 254 years. And
   various details in the inscriptions enable us to trace the origin of
   the Ganga kings to Western India, and to place the initial point of
   their reckoning in A.D. 590, when a certain
   Satyasraya-Dhruvaraja-Indravarman, an ancestor and probably the
   grandfather of the first Ganga king Rajasimha-Indravarman I.,
-  commenced to govern a large province in the Konkan under the Chalukya
+  commenced to govern a large province in the [[Konkan]] under the Chalukya
   king Kirtivarman I.
 
   An era commencing in A.D. 605 or 606 was founded in Northern India by
@@ -2846,7 +2846,7 @@ those in which the Ceylonese Buddhavarsha set up the erroneous date of
 
   In the Tinnevelly district of Madras, and in the territories of the
   same presidency in which the Malayalam language prevails, namely,
-  South Kanara below Mangalore, the Malabar district, and the Cochin and
+  South [[Kanara]] below Mangalore, the [[Malabar]] district, and the [[Cochin]] and
   Travancore states, there is used a reckoning which is known sometimes
   as the Kollam or Kolamba reckoning, sometimes as the era of
   Parasurama. The years of it are solar: in the southern parts of the
@@ -2878,14 +2878,14 @@ those in which the Ceylonese Buddhavarsha set up the erroneous date of
   have had the same astrological origin.
 
   In Nepal there is a reckoning, known as the Newar era and commencing
-  in A.D. 879, which superseded the Gupta and Harsha eras there. One
+  in A.D. 879, which superseded the Gupta and [[Harsha]] eras there. One
   tradition attributes the foundation of it to a king Raghavadeva;
   another says that, in the time and with the permission of a king
   Jayadevamalla, a merchant named Sakhwal paid off, by means of wealth
-  acquired from sand which turned into gold, all the debts then existing
+  acquired from sand which turned into gold, all the [[Debt|debts]] then existing
   in the country, and introduced the new era in commemoration of the
   occurrence. It is possible that the era may have been founded by some
-  ruler of Nepal: but nothing authentic is known about the particular
+  ruler of Nepal: but nothing [[Authentic|authentic]] is known about the particular
   names mentioned in connexion with it. This era appears to have been
   discarded for state and official purposes, in favour of the Saka era,
   in A.D. 1768, when the Gurkhas became masters of Nepal; but
@@ -3013,7 +3013,7 @@ same year A.D.; and the year 1958 began in A.D. 1900.
   and that the reckoning commemorates his death. Modern research,
   however, based largely on the inscriptional records, has shown that
   there was no such king, and that the real facts are very different.
-  The era owes its existence to the Kushan king Kanishka, a foreign
+  The era owes its existence to the Kushan king [[Kanishka]], a foreign
   invader, who established himself in Northern India and commenced to
   reign there in B.C. 58.[8] He was the founder of it, in the sense that
   the opening years of it were the years of his reign. It was
@@ -3040,7 +3040,7 @@ same year A.D.; and the year 1958 began in A.D. 1900.
 The Saka era, though it actually had its origin in the south-west corner
 of Northern India, is the dominant era and the great historical
 reckoning of Southern India; that is, of the territory below the rivers
-Narbada and Mahanadi. It is also the subsidiary astronomical reckoning,
+Narbada and [[Mahanadi]]. It is also the subsidiary astronomical reckoning,
 largely used, from the 6th century A.D. onwards, in the _Karanas_, the
 works dealing with practical details of the calendar, for laying down
 epochs or points of time furnishing convenient bases for computation. As
@@ -3090,7 +3090,7 @@ established his sway over all the territory which had belonged to
 Nahapana on the north of the Narbada; founded a line of Hinduized
 foreign kings, who ruled there for more than three centuries; and,
 continuing Nahapana's regnal reckoning, established the era to which the
-name Saka eventually became attached. Inscriptions and coins show that,
+name Saka eventually became attached. Inscriptions and [[Coin|coins]] show that,
 up to at least the second decade of its fourth century, this reckoning
 had no specific appellation; its years were simply cited, in the usual
 fashion, as _varsha_, "the year (of such-and-such a number)." The
@@ -3150,10 +3150,10 @@ era of B.C. 58.
   its way into Northern India, outside Kathiawar and northern Gujarat at
   all, is unquestionably due to its use by the astronomers. It also
   travelled, across the sea, by the 7th century A.D. to Cambodia, and
-  somewhat later to Java; to which parts it was doubtless taken in
-  almanacs, or in invoices, statements of account, &c., by the persons
+  somewhat later to [[Java]]; to which parts it was doubtless taken in
+  almanacs, or in [[Invoice|invoices]], statements of account, &c., by the persons
   engaged in the trade between Broach and the far east via Tagara (Ter)
-  and the east coast. It also found its way in subsequent times to Assam
+  and the east coast. It also found its way in subsequent times to [[Assam]]
   and Ceylon, and more recently still to Nepal.
 
 
@@ -3181,7 +3181,7 @@ The older reckoning of Jupiter appears to be that of the 12-years cycle,
 which is found in two varieties; in both of them the _samvatsaras_ bear,
 according to certain rules which need not be explained here, the same
 names with the lunar months, Chaitra, Vaisakha, &c. In one variety, each
-_samvatsara_ runs from one of the planet's heliacal risings--that is,
+_samvatsara_ runs from one of the planet's [[Heliacal|heliacal]] risings--that is,
 from the day on which it becomes visible as a morning star on the
 eastern horizon--to the next such rising; and the length of such a
 _samvatsara_, according to the Hindu data, is from 392 to 405 days, with
@@ -3332,7 +3332,7 @@ placed one year earlier.
   The idea at the bottom of this reckoning is a belief that the
   Saptarshis, "the Seven Rishis or Saints," Marichi and others, were
   translated to heaven, and became the stars of the constellation Ursa
-  Major, in 3076 B.C. (or 3077); and that these stars possess an
+  [[Major]], in 3076 B.C. (or 3077); and that these stars possess an
   independent movement of their own, which, referred to the ecliptic,
   carries them round at the rate of 100 years for each _nakshatra_ or
   twenty-seventh division of the circle. Theoretically, therefore, the
@@ -3364,7 +3364,7 @@ placed one year earlier.
   1798, and 57 to mean A.D. 1857, and 9 to mean A.D. 1909. And the
   practical difficulties attending the use of such a system for
   chronological purposes are obvious; isolated dates recorded in such a
-  fashion cannot be allocated without some explicit clue to the
+  fashion cannot be allocated without some explicit [[Clue|clue]] to the
   centuries to which they belong. Fortunately, however, as regards
   Kashmir, we have the necessary guide in the facts that Kalhana
   recorded his own date in the Saka era as well as in this reckoning,
@@ -3385,7 +3385,7 @@ placed one year earlier.
   The Grahaparivritti cycle.
 
 The Grahaparivritti is a reckoning which is used in the southernmost
-parts of Madras, particularly in the Madura district. It consists of
+parts of Madras, particularly in the [[Madura]] district. It consists of
 cycles of 90 Meshadi solar years, and is said, in conformity with its
 name, which means "the revolution of planets," to be made up by the sum
 of the days in 1 revolution of the sun, 22 of Mercury, 5 of Venus, 15 of
@@ -3429,10 +3429,10 @@ Rajasimha-Indravarman I.
 
   The Maghi reckoning.
 
-In the Chittagong district, Bengal, there is a solar reckoning, known by
+In the [[Chittagong]] district, Bengal, there is a solar reckoning, known by
 the name Maghi, of which the year 1262 either began or ended in A.D.
 1900; so that it has an initial point in A.D. 639 or 638. It appears
-that Chittagong was conquered by the king of Arakan in the 9th century,
+that Chittagong was conquered by the king of [[Arakan]] in the 9th century,
 and remained usually in the possession of the Maghs--the Arakanese or a
 class of them--till A.D. 1666, when it was finally annexed to the Mogul
 empire. In these circumstances it is plain that the Magh reckoning took
@@ -3482,7 +3482,7 @@ which are used as revenue years:--
   reckoning, known as the Fasli, according to which the year 1308 began
   in A.D. 1900; so that the reckoning has an apparent initial point in
   A.D. 593. The name of this reckoning is derived from _fasl_, "a
-  harvest," of which there are two; the _fasl-i-rabi_ or "spring
+  [[Harvest|harvest]]," of which there are two; the _fasl-i-rabi_ or "spring
   harvest," commencing in February, and the _fasl-i-kharif_, or "autumn
   harvest" commencing in October. The years of this reckoning begin with
   the _purnimanta_ Asvina krishna 1, which now falls in September. A
@@ -3492,7 +3492,7 @@ which are used as revenue years:--
   without being affected by any expunction and repetition of _tithis_;
   and, for this and other reasons, it seems that in this case a new form
   of Hindu year was devised, of such a kind as to enable the
-  agriculturists to realize their produce and pay their assessments
+  agriculturists to realize their produce and pay their [[Assessment|assessments]]
   comfortably within the year. The Hijra era has, of course, now drawn
   somewhat widely away from this and the other reckonings derived from
   it; the Hijra year commencing in A.D. 1900 was 1318, ten years in
@@ -3580,14 +3580,14 @@ which are used as revenue years:--
   dates, was started by Warren, whose _Kala Sankalita_ was published in
   1825. The inquiry was carried on by Prinsep in his _Useful Tables_
   (1834-1836), by Cowasjee Patell in his _Chronology_ (1866), and by
-  Cunningham in his _Book of Indian Eras_ (1883). But Warren's
+  [[Cunningham]] in his _Book of Indian Eras_ (1883). But Warren's
   processes, though mostly giving accurate results, were lengthy and
   troublesome; and calculations made on the lines laid down by his
   successors gave results which might or might not be correct, and could
   only be cited as approximate results. The exact calculation of Hindu
   dates by easy processes was started by Shankar Balkrishna Dikshit, in
-  an article published in the _Indian Antiquary_, vol. 16 (1887). This
-  was succeeded by methods and tables devised by Jacobi, which were
+  an article published in the _Indian [[Antiquary]]_, vol. 16 (1887). This
+  was succeeded by methods and tables devised by [[Jacobi]], which were
   published in the next volume of the same journal. There then followed
   several contributions in the same line by other scholars, some for
   exact, others for closely approximate, results, and some valuable
@@ -3595,7 +3595,7 @@ which are used as revenue years:--
   reckonings, which were published in the same journal, vols. 17 (1888)
   to 26 (1897). And the treatment of the matter culminated for the time
   being in the publication, in 1896, of Sewell and Dikshit's _Indian
-  Calendar_, which contains an appendix by Schram on eclipses of the sun
+  Calendar_, which contains an appendix by Schram on [[Eclipse|eclipses]] of the sun
   in India, and was supplemented in 1898 by Sewell's _Eclipses of the
   Moon in India_. The present article is based on the above-mentioned
   and various detached writings, supplemented by original research. For

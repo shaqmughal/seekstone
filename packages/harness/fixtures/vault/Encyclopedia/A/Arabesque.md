@@ -13,7 +13,7 @@ certain form of decorative design in flowing lines intertwined; hence
 comes the more metaphorical use of this word, whether in nature or in
 morals, indicating a fantastic or complicated interweaving of lines
 against a background. In decorative design the term is historically a
-misnomer. It is applied to the grotesque decoration derived from Roman
+misnomer. It is applied to the [[Grotesque|grotesque]] decoration derived from Roman
 remains of the early time of the empire, not to any style derived from
 Arabian or Moorish work. Arabesque and Moresque are really distinct; the
 latter is from the Arabian style of ornament, developed by the Byzantine
@@ -23,7 +23,7 @@ cinquecento decoration, which have nothing in common with any Arabian
 examples in their details, but are a development derived from Greek and
 Roman grotesque designs, such as we find them in the remains of ancient
 palaces at Rome, and in ancient houses at Pompeii. These were reproduced
-by Raphael and his pupils in the decoration of some of the corridors of
+by Raphael and his pupils in the decoration of some of the [[Corridor|corridors]] of
 the Loggie of the Vatican at Rome: grotesque is thus a better name for
 these decorations than Arabesque. This technical Arabesque, therefore,
 is much more ancient than any Arabian or Moorish decoration, and has
@@ -59,9 +59,9 @@ was proscribed; the artists were, therefore, reduced to making
 symmetrical designs from forms which should have no positive meaning;
 yet the Byzantine Greeks, who were Christians, managed to work even
 their own ecclesiastical symbols, in a disguised manner, into their
-tracery and diapers; as the lily, for instance. The cross was not so
+tracery and [[Diaper|diapers]]; as the lily, for instance. The cross was not so
 introduced; this, of course, was inadmissible; but neither was the
-crescent ever introduced into any of this early work in Damascus or
+[[Crescent|crescent]] ever introduced into any of this early work in [[Damascus]] or
 Cairo. The crescent was itself not a Mahommedan device till after the
 conquest of Constantinople in 1453 A.D. The crescent, as the new moon,
 was the symbol of Byzantium; and it was only after that capital of the
@@ -74,13 +74,13 @@ The Alhambra diapers and original Majolica (Majorca) ware afford
 admirable specimens of genuine Saracenic or Moorish decoration. A
 conventional floriage is common in these diapers; tracery also is a
 great feature in this work, in geometrical combinations, whether
-rectilinear or curvilinear; and the designs are rich in colour; idolatry
+rectilinear or [[Curvilinear|curvilinear]]; and the designs are rich in colour; idolatry
 was in the reproduction of natural forms, not in the fanciful
-combination of natural colours. These curves and angles, therefore, or
+combination of natural [[Colours|colours]]. These curves and angles, therefore, or
 interlacings, chiefly in stucco, constitute the prominent elements of an
 Arabian ornamental design, combining also Arabic inscriptions; composed
 of a mass of foliation or floral forms conventionally disguised, as the
-exclusion of all natural images was the fundamental principle of the
+exclusion of all natural [[Image|images]] was the fundamental principle of the
 style in its purity. The Alhambra displays almost endless specimens of
 this peculiar work, all in relief, highly coloured, and profusely
 enriched with gold. The mosque of Tulun, in Cairo, A.D. 876, the known
@@ -88,15 +88,15 @@ work of a Greek, affords the completest example of this art in its early
 time; and Sicily contains many remains of this same exquisite Saracenic
 decoration.
 
-Such is the genuine Arabesque of the Arabs, but a very different style
+Such is the genuine Arabesque of the [[Arabs]], but a very different style
 of design is implied by the Arabesque of the cinquecento, a purely
 classical ornamentation. This owes its origin to the excavation and
 recovery of ancient monuments, and was developed chiefly by the
 sculptors of the north, and the painters of central Italy; by the
 Lombardi of Venice, by Agostino Busti of Milan, by Bramante of Urbino,
-by Raphael, by Giulio Romano, and others of nearly equal merit. Very
+by Raphael, by [[Giulio Romano]], and others of nearly equal merit. Very
 beautiful examples in sculpture of this cinquecento Arabesque are found
-in the churches of Venice, Verona and Brescia; in painting, the most
+in the churches of Venice, Verona and [[Brescia]]; in painting, the most
 complete specimens are those of the Vatican Loggie, and the Villa Madama
 at Rome and the ducal palaces at Mantua. The Vatican Arabesques, chiefly
 executed for Raphael by Giulio Romano, Gian Francesco Penni, and
@@ -107,7 +107,7 @@ features of these designs are balanced scrolls in panels; or standards
 variously composed, but symmetrically scrolled on either side, and on
 the tendrils of these scrolls are suspended or placed birds and animals,
 human figures and chimeras, of any or all kinds, or indeed any objects
-that may take the fancy of the artist. The most perfect specimens of
+that may take the [[Fancy|fancy]] of the artist. The most perfect specimens of
 cinquecento Arabesque are certainly found in sculpture. As specimens of
 exquisite work may be mentioned the Martinengo tomb, in the church of
 the Padri Riformati at Brescia, and the facade of the church of Santa

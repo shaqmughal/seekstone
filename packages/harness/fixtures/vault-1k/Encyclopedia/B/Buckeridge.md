@@ -12,7 +12,7 @@ Buckeridge, and was educated at the Merchant Taylors school and at St
 John's College, Oxford. He became a fellow of his college, and acted as
 tutor to William Laud, whose opinions were perhaps shaped by him. Leaving
 Oxford, Buckeridge held several livings, and was highly esteemed by King
-James I., whose chaplain he became. In 1605 he was elected president of St
+James I., whose [[Chaplain|chaplain]] he became. In 1605 he was elected president of St
 John's College, a position which he vacated on being made bishop of
 Rochester in 1611. He was transferred to the bishopric of Ely in 1628, and
 died on the 23rd of May 1631. The bishop won some fame as a theologian and

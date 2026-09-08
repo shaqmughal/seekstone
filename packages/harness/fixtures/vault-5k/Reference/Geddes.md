@@ -4,16 +4,16 @@ GEDDES, ALEXANDER (1737-1802), Scottish Roman Catholic theologian, was
 born in Rathven, Banffshire, on the 14th of September 1737. He was
 trained at the Roman Catholic seminary at Scalan and at the Scottish
 College in Paris, where he studied biblical philology, school divinity
-and modern languages. In 1764 he officiated as a priest in Dundee, but
+and modern languages. In 1764 he officiated as a priest in [[Dundee]], but
 in May 1765 accepted an invitation to live with the earl of Traquair;
 where, with abundance of leisure and the free use of an adequate
 library, he made further progress in his favourite biblical studies.
 After a second visit to Paris, which was employed by him in reading and
-making extracts from rare books and manuscripts, he was appointed in
+making extracts from rare books and [[Manuscript|manuscripts]], he was appointed in
 1769 priest of Auchinhalrig and Preshome in his native county. The
 freedom with which he fraternized with his Protestant neighbours called
-forth the rebuke of his bishop (George Hay), and ultimately, for hunting
-and for occasionally attending the parish church of Cullen, where one of
+forth the rebuke of his bishop (George [[Hay]]), and ultimately, for [[Hunting|hunting]]
+and for occasionally attending the parish church of [[Cullen]], where one of
 his friends was minister, he was deprived of his charge and forbidden
 the exercise of ecclesiastical functions within the diocese. This
 happened in 1779; and in 1780 he went with his friend Lord Traquair to
@@ -48,7 +48,7 @@ second volume of the translation, completing the historical books,
 published in 1797, found no more friendly reception; but this
 circumstance did not discourage him from giving forth in 1800 the volume
 of _Critical Remarks on the Hebrew Scriptures_, which presented in a
-somewhat brusque manner the then novel and startling views of Eichhorn
+somewhat brusque manner the then novel and startling views of [[Eichhorn]]
 and his school on the primitive history and early records of mankind.
 
 Geddes was engaged on a critical translation of the Psalms (published in

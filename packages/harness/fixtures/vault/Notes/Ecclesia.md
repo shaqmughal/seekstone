@@ -11,15 +11,15 @@ ECCLESIA (Gr. [Greek: ekklesia], from [Greek: ek], out, and [Greek:
 kalein], to call), in ancient Athens, the general assembly of all the
 freemen of the state. In the primitive unorganized state the king was
 theoretically absolute, though his great nobles meeting in the Council
-(see BOULE) were no doubt able to influence him considerably. There is,
+(see [[Boule|BOULE]]) were no doubt able to influence him considerably. There is,
 however, no doubt that in the earliest times the free people, i.e. the
 fighting force of the state, were called together to ratify the
 decisions of the king, and that they were gradually able to enforce
 their wishes against those of the nobles. In Athens, as in Rome, where
 the Plebs succeeded in their demand for the codification of the laws
 (the Twelve Tables), it was no doubt owing to the growing power of the
-people meeting in the Agora that Draco was entrusted with the task of
-publishing a code of law and so putting an end to the arbitrary
+people meeting in the Agora that [[Draco]] was entrusted with the task of
+publishing a [[Code|code]] of law and so putting an end to the arbitrary
 judicature of the aristocratic party. But there is no evidence that the
 Ecclesia had more than a _de facto_ existence before Solon's reforms.
 
@@ -31,14 +31,14 @@ magistracy. Now in speaking of the Thetes (the lowest of the four
 Solonian classes; see SOLON), Aristotle's _Constitution of Athens_ says
 that Solon gave them merely "a share in the Ecclesia and the Law
 Courts," and in the _Politics_ we find that he gave them the right of
-electing the magistrates and receiving their accounts at the end of the
+electing the [[Magistrate|magistrates]] and receiving their accounts at the end of the
 official year. Thus it seems that the "mixed" character of Solon's
 constitution consisted in the fact that though the officials of the
 state were still necessarily Eupatrid, the Ecclesia elected those of the
 Eupatrids whom they could trust, and further had the right of
 criticizing their official actions. Secondly, all our accounts agree
 that Solon admitted the Thetes to the Ecclesia, thus recognizing them as
-citizens. Under Cleisthenes the Ecclesia remained the sovereign power,
+citizens. Under [[Cleisthenes]] the Ecclesia remained the sovereign power,
 but the Council seems to have become to some extent a separate
 administrative body. The relation of Boule and Ecclesia in the
 Cleisthenic democracy was of the greatest importance. The Ecclesia
@@ -48,9 +48,9 @@ preliminary drafting was done by the small committee of the Boule which
 was in session at any particular time. In the 5th century the functions
 of the Ecclesia and the popular courts of justice were vastly increased
 by the exigencies of empire. At the beginning of the 4th century B.C.
-the system of payment was introduced (see below). In 308 B.C. Demetrius
+the system of payment was introduced (see below). In 308 B.C. [[Demetrius]]
 of Phalerum curtailed the power of the Ecclesia by the institution of
-the _Nomophylaces_ (Guardians of the Law), who prevented the Ecclesia
+the _Nomophylaces_ ([[Guardian|Guardians]] of the Law), who prevented the Ecclesia
 from voting on an illegal or injurious motion. Under Roman rule the
 powers of the Ecclesia and the popular courts were much diminished, and
 after 48 B.C. (the franchise being frequently sold to any casual alien)
@@ -62,7 +62,7 @@ when Athens became a _civitas libera_ under Roman protection.
 _Constitution and Functions._--Throughout the period of Athenian
 greatness the Ecclesia was the sovereign power, not only in practice but
 also in theory. The assembly met in early times near the sanctuary of
-Aphrodite Pandemus (i.e. south of the Acropolis), but, in the 5th and
+[[Aphrodite]] Pandemus (i.e. south of the Acropolis), but, in the 5th and
 4th centuries, the regular place of meeting was the Pnyx. From the 5th
 century it met sometimes in the theatre, which in the 3rd century was
 the regular place. From Demosthenes we learn that in his time special
@@ -74,7 +74,7 @@ individual status took place in the Agora. Meetings were (1) ordinary,
 kyriai], [Greek: synkletoi] and [Greek: katakletoi]), these last being
 called when it was desirable that the country people should attend. At
 ordinary meetings the attendance was practically confined to Athenian
-residents. According to Aristotle there were four regular meetings in
+residents. According to [[Aristotle]] there were four regular meetings in
 each prytany (see BOULE); probably only the first of these was called
 [Greek: kyria]. It is certain, however, that the four meetings did not
 fall on regular days, owing to the occurrence of feast days on which no
@@ -114,7 +114,7 @@ by the _peristiarchs_, who carried round slain sucking pigs; the curse
 against all who should deceive the people; the appointment (in the 4th
 century) of the _proedri_ and their _epistates_ (see BOULE); the report
 as to the weather-omens. The assembly was always dismissed if there were
-thunder, rain or an eclipse. These formalities over, the Prytaneis
+thunder, rain or an [[Eclipse|eclipse]]. These formalities over, the Prytaneis
 communicated the _probouleuma_ of the council, without which the
 Ecclesia could not debate. This recommendation either submitted definite
 proposals or merely brought the agenda before the assembly. Its
@@ -122,7 +122,7 @@ importance lay largely in the fact that it _explained_ the business in
 hand, which otherwise must often have been beyond the grasp of a
 miscellaneous assembly. After the reading, a preliminary vote was taken
 as to whether the council's report should be accepted _en bloc_. If it
-was decided to discuss, the herald called upon people to speak. Any
+was decided to [[Discus|discuss]], the herald called upon people to speak. Any
 person, without distinction of age or position, might obtain leave to
 speak, but it seems probable that the man who had moved the
 recommendation previously in the council would advocate it in the
@@ -134,10 +134,10 @@ motion and the substitution of another, (4) might bring in a motion
 asking the council for a recommendation on a particular matter, (5)
 might petition the council for leave to speak on a given matter to the
 assembly. Voting usually was by show of hands, but in special cases
-(ostracism, &c.) by ballot (i.e. by casting pebbles into one of two
+(ostracism, &c.) by [[Ballot|ballot]] (i.e. by casting pebbles into one of two
 urns). The decision of the assembly was called a _psephism_ and had
 absolute validity. These decisions were deposited in the Metrooen where
-state documents were preserved; peculiarly important decrees were
+state documents were preserved; peculiarly important [[Decree|decrees]] were
 inscribed also on a column (_stele_) erected on the Acropolis. It has
 been shown that the power of the council was far from sufficient. The
 real check on the vagaries of amateur legislators was the Graphe
@@ -147,11 +147,11 @@ voting in the Ecclesia. A trial in a Heliastic court was then arranged,
 and the plaintiff had to prove that the resolution in question
 contravened an existing law. If this contention were upheld by the
 court, when the case was brought to it by the Thesmothetae, the
-resolution was annulled, and the defendant had to appear in a new trial
-for the assessment of the penalty, which was usually a fine, rarely
+resolution was annulled, and the [[Defendant|defendant]] had to appear in a new trial
+for the [[Assessment|assessment]] of the penalty, which was usually a fine, rarely
 death. Three convictions under this law, however, involved a certain
 loss of rights; the loser could no longer move a resolution in the
-Ecclesia. After the lapse of a year the mover of a resolution could not
+Ecclesia. After the [[Lapse|lapse]] of a year the mover of a resolution could not
 be attacked. In the 4th century the Graphe Paranomon took the place of
 Ostracism (q.v.). In the 5th century it was merely an arrangement
 whereby the people sitting as sworn juries ratified or annulled their
@@ -211,9 +211,9 @@ as executive functions were discharged by the Ecclesia.
   A.H.J. Greenidge, _Handbook of Greek Constitutional History_ (1896);
   Gilbert, _Greek Constitutional Antiquities_ (trans. Brooks and
   Nicklin, 1895); Schoemann, _De comitiis Atheniensium_; L. Schmidt, "De
-  Atheniensis reipublicae indole democratica" in _Ind. Lect._ (Marburg,
-  1865); J.W. Headlam, _Election by Lot at Athens_ (Cambridge, 1891).
-  See also the histories of Greece by Meyer, Busolt, Grote, Evelyn
+  Atheniensis reipublicae indole democratica" in _Ind. Lect._ ([[Marburg]],
+  1865); J.W. Headlam, _Election by [[Lot]] at Athens_ (Cambridge, 1891).
+  See also the histories of Greece by Meyer, Busolt, [[Grote]], [[Evelyn]]
   Abbott, and J.E. Sandys' edition of the _Constitution of Athens_
   (1892); for a comparative study, E.A. Freeman, _Comparative Politics_.
        (J. M. M.)

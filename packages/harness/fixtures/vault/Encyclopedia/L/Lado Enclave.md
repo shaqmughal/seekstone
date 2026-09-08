@@ -11,8 +11,8 @@ tags: [history, metallurgy-theory]
 LADO ENCLAVE, a region of the upper Nile formerly administered by the
 Congo Free State, but since 1910 a province of the Anglo-Egyptian Sudan.
 It has an area of about 15,000 sq. m., and a population estimated at
-250,000 and consisting of Bari, Madi, Kuku and other Nilotic Negroes.
-The enclave is bounded S.E. by the north-west shores of Albert
+250,000 and consisting of [[Bari]], Madi, Kuku and other Nilotic Negroes.
+The [[Enclave|enclave]] is bounded S.E. by the north-west shores of Albert
 Nyanza--as far south as the port of Mahagi--E. by the western bank of
 the Nile (Bahr-el-Jebel) to the point where the river is intersected by
 5° 30´ N., which parallel forms its northern frontier from the Nile
@@ -33,10 +33,10 @@ the bed of the Nile is much obstructed and the river throughout this
 reach is unnavigable (see Nile). Below the Bedden Rapids rises the
 conical hill of Rejaf, and north of that point the Nile valley becomes
 flat. Ranges of hill, however, are visible farther westwards, and a
-little north of 5° N. is Jebel Lado, a conspicuous mountain 2500 ft.
+little north of 5° N. is [[Jebel]] Lado, a conspicuous mountain 2500 ft.
 high and some 12 m. distant from the Nile. It has given its name to the
 district, being the first hill seen from the Nile in the ascent of some
-1000 m. from Khartum. On the river at Rejaf, at Lado, and at Kiro, 28 m.
+1000 m. from [[Khartum]]. On the river at Rejaf, at Lado, and at Kiro, 28 m.
 N. of Lado, are government stations and trading establishments. The
 western chain of hills has loftier peaks than those of Kuku, Jebel Loka
 being about 3000 ft. high. This western chain forms a secondary
@@ -49,15 +49,15 @@ The northern part of the district was first visited by Europeans in
 1841-1842, when the Nile was ascended by an expedition despatched by
 Mehemet Ali to the foot of the rapids at Bedden. The neighbouring posts
 of Gondokoro, on the east bank of the Nile, and Lado, soon became
-stations of the Khartum ivory and slave traders. After the discovery of
-Albert Nyanza by Sir Samuel Baker in 1864, the whole country was overrun
-by Arabs, Levantines, Turks and others, whose chief occupation was slave
+stations of the Khartum [[Ivory|ivory]] and slave traders. After the discovery of
+Albert Nyanza by Sir Samuel [[Baker]] in 1864, the whole country was overrun
+by [[Arabs]], Levantines, Turks and others, whose chief occupation was slave
 raiding. The region was claimed as part of the Egyptian Sudan, but it
 was not until the arrival of Sir Samuel Baker at Gondokoro in 1870 as
 governor of the equatorial provinces, that any effective control of the
 slave traders was attempted. Baker was succeeded by General C. G.
 Gordon, who established a separate administration for the
-Bahr-el-Ghazal. In 1878 Emin Pasha became governor of the Equatorial
+[[Bahr-El-Ghazal|Bahr-el-Ghazal]]. In 1878 Emin Pasha became governor of the Equatorial
 Province, a term henceforth confined to the region adjoining the main
 Nile above the Sobat confluence, and the region south of the
 Bahr-el-Ghazal province. (The whole of the Lado Enclave thus formed part
@@ -68,11 +68,11 @@ had conducted an expedition from the Congo, evacuated the country and
 with Stanley made his way to the east coast. While the Mahdists remained
 in possession at Rejaf, Great Britain in virtue of her position in
 Uganda claimed the upper Nile region as within the British sphere; a
-claim admitted by Germany in 1890. In February 1894 the union jack was
+claim admitted by Germany in 1890. In February 1894 the union [[Jack|jack]] was
 hoisted at Wadelai, while in May of the same year Great Britain granted
-to Leopold II., as sovereign of the Congo State, a lease of large areas
+to [[Leopold]] II., as sovereign of the Congo State, a lease of large areas
 lying west of the upper Nile inclusive of the Bahr-el-Ghazal and
-Fashoda. Pressed however by France, Leopold II. agreed to occupy only
+[[Fashoda]]. Pressed however by France, Leopold II. agreed to occupy only
 that part of the leased area east of 30° E. and south of 5° 30´ N., and
 in this manner the actual limits of the Lado Enclave, as it was
 thereafter called, were fixed. Congo State forces had penetrated to the

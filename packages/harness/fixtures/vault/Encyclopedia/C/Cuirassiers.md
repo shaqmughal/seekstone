@@ -6,14 +6,14 @@ topic: history
 
 # Cuirassiers
 
-CUIRASSIERS, a kind of heavy cavalry, originally developed out of the
-men-at-arms or gendarmerie forming the heavy cavalry of feudal armies.
+CUIRASSIERS, a kind of heavy [[Cavalry|cavalry]], originally developed out of the
+men-at-arms or [[Gendarmerie|gendarmerie]] forming the heavy cavalry of feudal armies.
 Their special characteristic was the wearing of full armour, which they
 retained long after other troops had abandoned it. Hence they became
-distinguished as cuirassiers. The first Austrian corps of _kyrissers_
-was formed in 1484 by the emperor Maximilian and was 100 strong. In 1705
+distinguished as cuirassiers. The first Austrian [[Corps|corps]] of _kyrissers_
+was formed in 1484 by the emperor [[Maximilian]] and was 100 strong. In 1705
 Austria possessed twenty regiments of cuirassiers. After the war of
-1866, however, the existing regiments were converted into dragoons.
+1866, however, the existing regiments were converted into [[Dragoon|dragoons]].
 Russia has likewise in modern times abolished all but a few guard
 regiments of cuirassiers. The Prussian cuirassiers were first so called
 under Frederick William I., and in the wars of his successor Frederick
@@ -26,7 +26,7 @@ numbered 8th of the line, was formed. During the first Empire many
 regiments were created, until in 1812 there were fourteen. The number
 was reduced after the fall of Napoleon, but in modern times it has been
 again increased. The French regiments alone in Europe wear the cuirass
-on all parades and at manoeuvres.
+on all parades and at [[Manoeuvres|manoeuvres]].
 
 ## See also
 

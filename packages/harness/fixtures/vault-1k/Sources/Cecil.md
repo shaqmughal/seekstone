@@ -15,7 +15,7 @@ inquiries concerning the origin of his family created for it more than
 one splendid and improbable genealogy, although his grandfather is the
 first ascertained ancestor. In the latter half of the 15th century a
 family of yeomen or small gentry with the surname of Seyceld, whose
-descendants were accepted by Lord Burghley as his kinsmen, lived on
+descendants were accepted by Lord [[Burghley]] as his kinsmen, lived on
 their lands at Allt yr Ynys in Walterstone, a Herefordshire parish on
 the Welsh marches. Of the will of Richard ap Philip Seyceld of Allt yr
 Ynys, made in 1508, one David ap Richard Seyceld, apparently his younger
@@ -37,7 +37,7 @@ Edward VI. A gentleman of the privy chamber and sometime sheriff of
 Rutland, Richard Cecil had his share at the distribution of abbey lands,
 St Michael's priory in Stamford being among the grants made to him.
 William Cecil, only son of Richard, was born, by his own account, in
-1520, at Bourne in Lincolnshire. He advanced himself first in the
+1520, at [[Bourne]] in Lincolnshire. He advanced himself first in the
 service of the protector Somerset, after whose fall, his great abilities
 being necessary to the council, he was made a secretary of state and
 sworn of the privy council. In 1571 he was created Lord Burghley, and

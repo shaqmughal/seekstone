@@ -7,19 +7,19 @@ topic: history
 # Default
 
 DEFAULT (Fr. _defaut_, from _defailler_, to fail, Lat. _fallere_), in
-English law, a failure to do some act required by law either as a
+[[English Law|English law]], a failure to do some act required by law either as a
 regular step in procedure or as being a duty imposed. Parties in an
 action may be in default as to procedure by failure to appear to the
 writ, or to take some other step, within the prescribed time. In such
 cases the opposing party gains some advantage by being allowed to sign
 judgment or otherwise. But as a rule, unless the party is much in
 default and is under a peremptory order to proceed, the penalty for
-default is by order to pay the costs occasioned. When there is default
+default is by order to pay the [[Costs|costs]] occasioned. When there is default
 in complying with the terms of a judgment the remedy is by executing it
 by one of the processes admitted by the law. (See EXECUTION.) In the
 case of judgments in criminal or quasi-criminal cases, where a fine is
 imposed, it is in most cases legal and usual to order imprisonment if
-the fine is not paid or if the property of the defendant is insufficient
+the fine is not paid or if the property of the [[Defendant|defendant]] is insufficient
 to realize its amount. Default in compliance with a statute renders the
 defaulter liable to action by the person aggrieved or to indictment if
 the matter of command is of public concern, subject in either case to

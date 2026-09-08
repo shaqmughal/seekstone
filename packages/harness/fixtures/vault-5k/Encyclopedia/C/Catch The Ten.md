@@ -7,7 +7,7 @@ type: article
 
 # Catch The Ten
 
-CATCH THE TEN, sometimes Called _Scotch Whist_, a game played with a
+CATCH THE TEN, sometimes Called _Scotch Whist_, a [[Game|game]] played with a
 pack of 36 cards, from ace, king, queen to six in each suit, the ace
 being highest both in play and cutting. In trumps, however, the knave
 ranks highest. Any number from two to eight may play. If an even number,

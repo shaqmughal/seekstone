@@ -23,9 +23,9 @@ death on the 24th of July 1791. He introduced a method of extracting
 metals by amalgamation (_Uber das Anquicken der Erze_, 1786), and other
 improvements in mining and other technical processes. His publications
 also include _Lithophylacium Bornianum_ (1772-1775) and _Bergbaukunde_
-(1789), besides several museum catalogues. Von Born attempted satire
+(1789), besides several museum [[Catalogue|catalogues]]. Von Born attempted satire
 with no great success. _Die Staatsperucke_, a tale published without his
-knowledge in 1772, and an attack on Father Hell, the Jesuit, and king's
+knowledge in 1772, and an attack on Father [[Hell]], the Jesuit, and king's
 astronomer at Vienna, are two of his satirical works. Part of a satire,
 entitled _Monachologia_, in which the monks are described in the
 technical language of natural history, is also ascribed to him. Von Born
@@ -34,11 +34,11 @@ Europe, and with many branches of science not immediately connected with
 metallurgy and mineralogy. He took an active part in the political
 changes in Hungary. After the death of the emperor Joseph II., the diet
 of the states of Hungary rescinded many innovations of that ruler, and
-conferred the rights of denizen on several persons who had been
+conferred the rights of [[Denizen|denizen]] on several persons who had been
 favourable to the cause of the Hungarians, and, amongst others, on von
 Born. At the time of his death in 1791, he was employed in writing a
 work entitled _Fasti Leopoldini_, probably relating to the prudent
-conduct of Leopold II., the successor of Joseph, towards the Hungarians.
+conduct of [[Leopold]] II., the successor of Joseph, towards the Hungarians.
 
 ## See also
 

@@ -12,9 +12,9 @@ of some experiments concerning the different refrangibility of light"
 (_Phil. Trans._, 1758), describing the experiments that led him to the
 achievement with which his name is specially associated, the discovery
 of a means of constructing achromatic lenses by the combination of crown
-and flint glasses. Leonhard Euler in 1747 had suggested that achromatism
+and flint glasses. Leonhard [[Euler]] in 1747 had suggested that achromatism
 might be obtained by the combination of glass and water lenses. Relying
-on statements made by Sir Isaac Newton, Dollond disputed this
+on statements made by Sir [[Isaac]] Newton, Dollond disputed this
 possibility (_Phil. Trans._, 1753), but subsequently, after the Swedish
 physicist, Samuel Klingenstjerna (1698-1765), had pointed out that
 Newton's law of dispersion did not harmonize with certain observed
@@ -23,8 +23,8 @@ succeeded in producing refraction without colour by the aid of glass and
 water lenses, and a few months later he made a successful attempt to get
 the same result by a combination of glasses of different qualities (see
 TELESCOPE). For this achievement the Royal Society awarded him the
-Copley medal in 1758, and three years later elected him one of its
-fellows. Dollond also published two papers on apparatus for measuring
+[[Copley]] medal in 1758, and three years later elected him one of its
+[[Fellows|fellows]]. Dollond also published two papers on apparatus for measuring
 small angles (_Phil. Trans._, 1753, 1754). He died in London, of
 apoplexy, on the 30th of November 1761.
 

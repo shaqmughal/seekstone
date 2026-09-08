@@ -8,13 +8,13 @@ estimated income, L40,000; permanent land revenue, L9000.
 The attack on the fort at Bobbili made by General Bussy in 1756 is one
 of the most memorable episodes in Indian history. There was a constant
 feud between the chief of Bobbili and the raja of Vizianagram; and when
-Bussy marched to restore order the raja persuaded him that the fault lay
+Bussy marched to restore order the raja persuaded him that the [[Fault|fault]] lay
 with the chief of Bobbili and joined the French with 11,000 men against
 his rival. In spite of the fact that the French field-pieces at once
-made practicable breaches in the mud walls of the fort, the defenders
+made practicable [[Breach|breaches]] in the mud walls of the fort, the defenders
 held out with desperate valour. Two assaults were repulsed after hours
-of hand-to-hand fighting; and when, after a fresh bombardment, the
-garrison saw that their case was hopeless, they killed their women and
+of hand-to-hand fighting; and when, after a fresh [[Bombardment|bombardment]], the
+[[Garrison|garrison]] saw that their case was hopeless, they killed their women and
 children, and only succumbed at last to a third assault because every
 man of them was either killed or mortally wounded. An old man, however,
 crept out of a hut with a child, whom he presented to Bussy as the son

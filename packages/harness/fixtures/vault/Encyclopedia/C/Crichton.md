@@ -23,7 +23,7 @@ of his attainments with the highest praise. But those works of his which
 have come down to us show few traces of unusual ability; and the
 laudation of him as a universal genius by Sir Thomas Urquhart and Aldus
 Manutius requires to be discounted. Urquhart (in his _Discovery of a
-most exquisite jewel_) states that while in Paris Crichton successfully
+most exquisite [[Jewel|jewel]]_) states that while in Paris Crichton successfully
 held a dispute in the college of Navarre, on any subject and in twelve
 languages, and that the next day he won a tilting match at the Louvre.
 There is, however, no contemporary evidence for this, the only certain
@@ -39,24 +39,24 @@ Crichton's stay in Venice is a handbill printed by the Guerra press in
 1580 (and now in the British Museum), giving a short biography and an
 extravagant eulogy of his powers; he speaks ten languages, has a command
 of philosophy, theology, mathematics; he improvises Latin verses in all
-metres and on all subjects, has all Aristotle and his commentators at
+metres and on all subjects, has all [[Aristotle]] and his commentators at
 his fingers' ends; is of most beautiful appearance, a soldier from top
 to toe, &c. This work is undoubtedly by Manutius, as it was reprinted
 with his name in 1581 as _Relatione della qualita di ... Crettone_, and
 again in 1582 (reprinted Venice, 1831).
 
 In Venice Crichton met and vanquished all disputants except Giacomo
-Mazzoni, was followed from place to place by crowds of admirers, and won
-the affection of the humanists Lorenzo Massa and Giovanni Donati. In
+Mazzoni, was followed from place to place by [[Crowd|crowds]] of admirers, and won
+the affection of the humanists Lorenzo [[Massa]] and Giovanni Donati. In
 March 1581 he went to Padua, where he held two great disputations. In
 the first he extemporized in succession a Latin poem, a daring onslaught
-on Aristotelian ignorance, and an oration in praise of ignorance. In the
+on Aristotelian [[Ignorance|ignorance]], and an oration in praise of ignorance. In the
 second, which took place in the Church of St John and St Paul, and
-lasted three days, he undertook to refute innumerable errors in
+lasted three days, he undertook to refute innumerable [[Error|errors]] in
 Aristotelians, mathematicians and schoolmen, to conduct his dispute
 either logically or by the secret doctrine of numbers, &c. According to
 Aldus, who attended the debate and published an account of it in his
-dedication to Crichton prefixed to Cicero's "Paradoxa" (1581), the young
+[[Dedication|dedication]] to Crichton prefixed to Cicero's "Paradoxa" (1581), the young
 Scotsman was completely successful. In June Crichton was once more in
 Venice, and while there wrote two Latin odes to his friends Lorenzo
 Massa and Giovanni Donati, but after this date the details of his life
@@ -66,7 +66,7 @@ latter in a street quarrel in 1582. Aldus in his edition of Cicero's _De
 universitate_ (1583), dedicated to Crichton, laments the 3rd of July as
 the fatal day; and this account is apparently confirmed by the Mantuan
 state papers recently unearthed by Mr Douglas Crichton (_Proc. Soc. of
-Antiquaries of Scotland_, 1909). Mr Sidney Lee (_Dict. Nat. Biog._)
+Antiquaries of Scotland_, 1909). Mr Sidney [[Lee]] (_Dict. Nat. Biog._)
 argued against this date, on the ground that in 1584 and 1585 Crichton
 was alive and in Milan, as certain works of his published in that year
 testified, and regarded it as probable that he died in Mantua c.
@@ -84,9 +84,9 @@ legendary magnitude.
   some caution, since he was given to exaggerating the merits of his
   friend, and uses almost the same language about a young Pole named
   Stanilaus Niegosevski; see John Black's _Life of Torquato Tasso_, ii.
-  413-451 (1810), for a criticism. The _Life of Crichton_, by P. Fraser
+  413-451 (1810), for a criticism. The _Life of Crichton_, by P. [[Fraser]]
   Tytler (2nd ed., 1823), contains many extracts from earlier writers;
-  see also "Notices of Sir Robert Crichton of Cluny and of his son
+  see also "Notices of Sir Robert Crichton of [[Cluny]] and of his son
   James," by John Stuart, in _Proceedings Soc. of Antiquaries of
   Scotland_, vol. ii. pp. 103-118 (1855); and the article by Andrew
   Lang, "The death of the Admirable Crichton," in the _Morning Post_

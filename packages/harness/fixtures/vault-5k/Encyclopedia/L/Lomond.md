@@ -7,12 +7,12 @@ to the north of the Isle of the Vow; its area is 27 sq. m., and the
 greatest depth 630 ft. It is only 23 ft. above the sea, of which
 doubtless it was at one time an arm. It contains 30 islands, the largest
 of which is Inchmurrin, a deer park belonging to the duke of Montrose.
-Among other islands are Inch Cailliach (the "Island of Women," from the
+Among other islands are [[Inch]] Cailliach (the "Island of Women," from the
 fact that a nunnery once stood there), Inchfad ("Long Island"),
 Inchcruin ("Round Island"), Inchtavannach ("Monks' Isle"), Inchconnachan
 ("Colquhoun's Isle"), Inchlonaig ("Isle of the Yews," where Robert Bruce
 caused yews to be planted to provide arms for his bowmen), Creinch,
-Torrinch and Clairinch (which gave the Buchanans their war-cry). From
+Torrinch and Clairinch (which gave the [[Buchanan|Buchanans]] their war-cry). From
 the west the loch receives the Inveruglas, the Douglas, the Luss, the
 Finlas and the Fruin. From Balloch in the south it sends off the Leven
 to the Clyde; from the east it receives the Endrick, the Blair, the
@@ -55,7 +55,7 @@ was very rapid, especially in Latin, and in 1734 he was sent from Moscow
 to St Petersburg. There again his proficiency, especially in physical
 science, was marked, and he was one of the young Russians chosen to
 complete their education in foreign countries. He accordingly commenced
-the study of metallurgy at Marburg; he also began to write poetry,
+the study of metallurgy at [[Marburg]]; he also began to write poetry,
 imitating German authors, among whom he is said to have especially
 admired Günther. His _Ode on the Taking of Khotin from the Turks_ was
 composed in 1739, and attracted a great deal of attention at St
@@ -65,7 +65,7 @@ on the scanty allowance granted to him by the St Petersburg Academy,
 which, moreover, was irregularly sent. His circumstances became
 embarrassed, and he resolved to leave the country secretly and to return
 home. On his arrival in Russia he rapidly rose to distinction, and was
-made professor of chemistry in the university of St Petersburg; he
+made professor of [[Chemistry|chemistry]] in the university of St Petersburg; he
 ultimately became rector, and in 1764 secretary of state. He died in
 1765.
 

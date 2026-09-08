@@ -9,11 +9,11 @@ topic: botany-studies
 FORFEITURE (from "forfeit," originally an offence, and hence a fine
 exacted as a penalty for such; derived through the O. Fr. _forfait_,
 from the late Lat. _foris factum_, a trespass, that which is done
-_foris_, outside), in English law, the term applied (1) to loss or
-liability to the loss of property in consequence of an offence or breach
+_foris_, outside), in [[English Law|English law]], the term applied (1) to loss or
+liability to the loss of property in consequence of an offence or [[Breach|breach]]
 of contract; (2) to the property of which the party is deprived.
 
-Under the common law, conviction and attainder on indictment for treason
+Under the common law, conviction and [[Attainder|attainder]] on indictment for treason
 or felony was followed not only by forfeiture of the life of the
 offender, but also by forfeiture of his lands and goods. In the case of
 treason all the traitor's lands of whomsoever holden were forfeited to
@@ -35,7 +35,7 @@ _Diary_, 21st of January 1667-1668, will be found an illustration of the
 working of the old law. We find that on the suicide of his
 brother-in-law, Pepys at once applied to the king personally and
 obtained a grant of the brother-in-law's estate in favour of his widow
-and children should the inquest find a verdict of _felo-de-se_. It was
+and children should the [[Inquest|inquest]] find a verdict of _felo-de-se_. It was
 common practice for persons anticipating conviction for treason or
 felony to assign all their property to others to avoid the forfeiture;
 and in some instances the accused refused to plead to the indictment and
@@ -53,19 +53,19 @@ The term "forfeit" is also applied to penalties imposed by statute for
 acts or omissions which are neither treasonable nor felonious. In such
 statutes the forfeiture enures in favour of the crown unless the statute
 indicates another destination; and unless a particular method of
-enforcing the forfeiture is indicated it is enforceable as a debt to the
+enforcing the forfeiture is indicated it is enforceable as a [[Debt|debt]] to the
 crown and has priority as such. The words "forfeit and pay" are often
 used in imposing a pecuniary penalty for a petty misdemeanour, and where
 they are used the court dealing with the case must not only convict the
 offender but adjudicate as to the forfeiture.
 
-Statutory forfeitures in some cases extend to specific chattels, e.g. of
+Statutory forfeitures in some cases extend to specific [[Chattel|chattels]], e.g. of
 a British merchant-ship when her character as such is fraudulently
 dissimulated (Merch. Shipp. Act 1894, ss. 70, 76), or of goods smuggled
 in contravention of the customs acts or books introduced in violation of
-the copyright acts. Recognisances are said to be forfeited when the
+the [[Copyright|copyright]] acts. Recognisances are said to be forfeited when the
 conditions are broken and an order of court is made for their
-enforcement as a crown debt against the persons bound by them.
+enforcement as a [[Crown Debt|crown debt]] against the persons bound by them.
 
 The term "forfeiture" is now most commonly used with reference to real
 property, i.e. with reference to the rights of lords of the manor or
@@ -79,7 +79,7 @@ forfeitures" of this kind; and are astute to defeat the claim of the
 superior landlord or other person seeking to enforce them. By
 legislation of 1881 and 1892 there is jurisdiction to grant relief upon
 terms against the forfeiture of a lease for breach of certain classes of
-covenant, e.g. to pay rent or to insure.
+[[Covenant|covenant]], e.g. to pay rent or to insure.
 
 ## References
 

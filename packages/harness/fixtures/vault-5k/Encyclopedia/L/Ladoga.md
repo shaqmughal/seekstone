@@ -13,7 +13,7 @@ a quadrilateral, elongated from N.W. to S.E. Its eastern and southern
 shores are flat and marshy, the north-western craggy and fringed by
 numerous small rocky islands, the largest of which are Valamo and
 Konnevitz, together having an area of 14 sq. m. Ladoga is 7000 sq. m. in
-area, that is, thirty-one times as large as the Lake of Geneva; but, its
+area, that is, thirty-one times as large as the Lake of [[Geneva]]; but, its
 depth being less, it contains only nineteen times as much water as the
 Swiss lake. The greatest depth, 730 ft., is in a trough in the
 north-western part, the average depth not exceeding 250 to 350 ft. The
@@ -22,7 +22,7 @@ and falls about 7 ft., according to atmospheric conditions, a phenomenon
 very similar to the _seiches_ of the Lake of Geneva being observed in
 connexion with this.
 
-  The western and eastern shores consist of boulder clay, as well as a
+  The western and eastern shores consist of [[Boulder Clay|boulder clay]], as well as a
   narrow strip on the southern shore, south of which runs a ridge of
   crags of Silurian sandstones. The hills of the north-western shore
   afford a variety of granites and crystalline slates of the Laurentian
@@ -48,7 +48,7 @@ connexion with this.
   being 36.8°. The lake begins to freeze in October, but it is only
   about the end of December that it is frozen in its deeper parts; and
   it remains ice-bound until the end of March, though broad icefields
-  continue to float in the middle of the lake until broken up by gales.
+  continue to [[Float|float]] in the middle of the lake until broken up by gales.
   Only a small part of the Ladoga ice is discharged by the Neva; but it
   is enough to produce in the middle of June a return of cold in the
   northern capital. The thickness of the ice does not exceed 3 or 4 ft.;
@@ -59,7 +59,7 @@ connexion with this.
   along the eastern from south to north. The vegetation on the shores is
   poor; immense forests, which formerly covered them, are now mostly
   destroyed. But the fauna of the lake is somewhat rich; a species of
-  seal which inhabits its waters, as well as several species of arctic
+  seal which inhabits its waters, as well as several species of [[Arctic|arctic]]
   crustaceans, recall its former connexion with the Arctic Ocean. The
   sweet water _Diatomaceae_ which are found in great variety in the ooze
   of the deepest parts of the lake also have an arctic character.
@@ -73,7 +73,7 @@ connexion with this.
   directions from St Petersburg--to the monasteries of Konnevitz and
   Valamo, and to the mouth of the Svir, whence they go up that river to
   Lake Onega and Petrozavodsk; and small vessels transport timber,
-  firewood, planks, iron, kaolin, granite, marble, fish, hay and various
+  firewood, planks, iron, kaolin, granite, marble, fish, [[Hay|hay]] and various
   small wares from the northern shore to Schlüsselburg, and thence to St
   Petersburg. Navigation on the lake being too dangerous for small
   craft, canals with an aggregate length of 104 m. were dug in

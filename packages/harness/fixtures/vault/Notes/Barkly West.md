@@ -22,7 +22,7 @@ other crystals--garnets, agates, quartz and chalcedonies.
 
 Barkly West electoral division includes the whole of Griqualand West save
 the Kimberley division. It is divided into the fiscal districts of Barkly
-West, Hay and Herbert, with a total pop. (1904) of 48,388, of whom 12,170
+West, [[Hay]] and Herbert, with a total pop. (1904) of 48,388, of whom 12,170
 are whites (see GRIQUALAND).
 
 ## See also

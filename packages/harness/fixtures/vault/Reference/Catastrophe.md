@@ -1,7 +1,7 @@
 # Catastrophe
 
 CATASTROPHE (Gr. [Greek: katastrophe], from [Greek: katastrephein], to
-overturn), a term of the ancient Greek drama for the change in the plot
+overturn), a term of the ancient Greek [[Drama|drama]] for the change in the plot
 which leads up to the conclusion. The word is thus used of any sudden
 change, particularly of a violent or disastrous nature, and in geology
 of a cataclysm or great convulsion of the earth's surface.

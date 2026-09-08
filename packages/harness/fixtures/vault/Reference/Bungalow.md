@@ -7,7 +7,7 @@ topic: biography
 # Bungalow
 
 BUNGALOW (an Anglo-Indian word from the Hindustani _bangl[=a]_, belonging
-to Bengal), a one-storeyed house with a verandah and a projecting roof, the
+to [[Bengal]]), a one-storeyed house with a verandah and a projecting roof, the
 typical dwelling for Europeans in India; the name is also used for similar
 buildings which have become common for seaside and summer residences in
 America and Great Britain. Dak or dawk bungalows (from _dak_ or _dawk_, a

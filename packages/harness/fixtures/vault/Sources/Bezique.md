@@ -8,10 +8,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bezique"
 # Bezique
 
 BEZIQUE (probably from Span. _besico_, little kiss, in allusion to the
-meeting of the queen and knave, an important feature in the game), a
-game at cards played with two similar packs from which the twos, threes,
-fours, fives and sixes have been rejected, shuffled together and used as
-one. It is modelled on a group of card games which possess many features
+meeting of the queen and knave, an important feature in the [[Game|game]]), a
+game at [[Cards|cards]] played with two similar packs from which the twos, threes,
+fours, [[Fives|fives]] and sixes have been rejected, shuffled together and used as
+one. It is modelled on a group of card [[Games|games]] which possess many features
 in common; the oldest of these is _mariage_, then follow _brusquembille,
 l'homme de brou, briscan_ or _brisque_, and _cinq-cents_. Bezique (also
 called _besi_ and _besigue_) is, in fact, _brisque_ played with a double
@@ -60,7 +60,7 @@ _Table of Bezique Scores._
   _Last trick_ of all (as sometimes _played_, the last
      trick before the stock is exhausted) the winner marks        10
 
-A "declaration" can only be made by the winner of a trick immediately
+A "[[Declaration|declaration]]" can only be made by the winner of a trick immediately
 after he has won it, and before he draws from the stock. It is effected
 by placing the declared cards (one of which at least must not have been
 declared before) face upwards on the table, where they are left, unless
@@ -139,7 +139,7 @@ by means of a special bezique-marker.
   the trick places it face upwards in front of him (the same with both
   cards if two scoring cards are played to a trick), forming rows of
   aces, kings, queens, knaves and trump tens (called _open_ cards).
-  Cards of the same denomination are placed overlapping one another
+  Cards of the same [[Denomination|denomination]] are placed overlapping one another
   lengthwise from the player towards his adversary to economise space.
   When a scoring card is placed among the open cards, all the sevens,
   eights, nines, and plain suit tens in the tricks are turned down and
@@ -169,7 +169,7 @@ by means of a special bezique-marker.
   declares royal marriage (40); four kings (80); four queens (60); and
   sequence (250); and scores in all, 430. Again: ace of spades is turned
   up, and ace of hearts is led. The second player has two open aces, and
-  wins the ace of hearts with the seven of trumps and exchanges. He
+  wins the ace of hearts with the seven of trumps and [[Exchange|exchanges]]. He
   scores for the exchange, 10; for the ace of hearts, 10; for the ace of
   spades, 10; and adds the aces to his open cards, and scores 100 for
   aces; in all, 130. If a declaration or part of a compound declaration
@@ -191,7 +191,7 @@ by means of a special bezique-marker.
   to each player. The rules of Polish bezique hold good in regard to
   dealing, leading, playing to lead, drawing and declaring; but a player
   who receives a hand containing no picture-card (king, queen, or knave)
-  scores 50 for _carte blanche_, which he shows. If he does not draw a
+  scores 50 for _[[Carte|carte]] blanche_, which he shows. If he does not draw a
   picture-card, he can again score for _carte blanche_. The trump suit
   is decided by the first sequence or marriage declared. As four packs
   are used, triple and quadruple bezique may be made. Triple bezique

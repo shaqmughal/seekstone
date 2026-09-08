@@ -12,7 +12,7 @@ EMPIRE, a term now used to denote a state of large size and also (as a
 rule) of composite character, often, but not necessarily, ruled by an
 emperor--a state which may be a federation, like the German empire, or a
 unitary state, like the Russian, or even, like the British empire, a
-loose commonwealth of free states united to a number of subordinate
+loose [[Commonwealth|commonwealth]] of free states united to a number of subordinate
 dependencies. For many centuries the writers of the Church, basing
 themselves on the Apocalyptic writings, conceived of a cycle of four
 empires, generally explained--though there was no absolute unanimity
@@ -20,20 +20,20 @@ with regard to the members of the cycle--as the Assyrian, the Persian,
 the Macedonian and the Roman. But in reality the conception of Empire,
 like the term itself (Lat. _imperium_), is of Roman origin. The empire
 of Alexander had indeed in some ways anticipated the empire of Rome. "In
-his later years," Professor Bury writes, "Alexander formed the notion of
+his later years," Professor [[Bury]] writes, "Alexander formed the notion of
 an empire, both European and Asiatic, in which the Asiatics should not
 be dominated by the European invaders, but Europeans and Asiatics alike
 should be ruled on an equality by a monarch, indifferent to the
 distinction of Greek and barbarian, and looked upon as their own king by
 Persians as well as by Macedonians." The contemporary Cynic philosophy
 of cosmopolitanism harmonized with this notion, as Stoicism did later
-with the practice of the Roman empire; and Alexander, like Diocletian
+with the practice of the Roman empire; and Alexander, like [[Diocletian]]
 and Constantine, accustomed a Western people to the forms of an Oriental
-court, while, like the earlier Caesars, he claimed and received the
+court, while, like the earlier [[Caesar|Caesars]], he claimed and received the
 recognition of his own divinity. But when he died in 323, his empire,
 which had barely lasted ten years, died with him; and it was divided
-among Diadochi who, if in some other respects (for instance, the
-Hellenization of the East) they were heirs of their master's policy,
+among [[Diadochi]] who, if in some other respects (for instance, the
+Hellenization of the East) they were [[Heir|heirs]] of their master's policy,
 were destitute of the imperial conception. The work of Alexander was
 rather that of the forerunner than the founder. He prepared the way for
 the world-empire of Rome; he made possible the rise of a universal
@@ -46,7 +46,7 @@ ages, went together to make the thing which men called Empire.
 At Rome the term _imperium_ signified generally, in its earlier use, the
 sovereignty of the state over the individual, a sovereignty which the
 Romans had disengaged with singular clearness from all other kinds of
-authority. Each of the higher magistrates of the Roman people was
+authority. Each of the higher [[Magistrate|magistrates]] of the Roman people was
 vested, by a _lex curiata_ (for power was distinctly conceived as
 resident in, and delegated by, the community), with an _imperium_ both
 civil and military, which varied in degree with the magnitude of his
@@ -55,7 +55,7 @@ partly in Rome by the resident consuls and praetors, partly in the
 provinces by the various proconsuls or propraetors. There was thus a
 certain _morcellement_ of _imperium_, delegated as it was by the people
 to a number of magistrates: the coming of the Empire meant the
-reintegration of this _imperium_, and its unification, by a gradual
+reintegration of this _imperium_, and its unification, by a [[Gradual|gradual]]
 process, in the hands of the _princeps_, or emperor. The means by which
 this process was achieved had already been anticipated under the
 Republic. Already in the days of Pompey it had been found convenient to
@@ -80,7 +80,7 @@ indeed lend, but of which he was sole _Imperator_ (see under EMPEROR).
 Thus regarded as a permanent commander-in-chief, the emperor enjoyed the
 privileges, and suffered from the weaknesses, of his position. He had
 the power of the sword behind him; but he became more and more liable to
-be deposed, and to be replaced by a new commander, at the will of those
+be deposed, and to be replaced by a new [[Commander|commander]], at the will of those
 who bore the sword in his service.
 
 
@@ -107,7 +107,7 @@ of frontier defence had long been drawing the Empire towards the
 troubled East; and this tendency reached its culmination when a new Rome
 arose by the Bosporus, and Constantinople became the centre of what
 seemed a second Empire in the East (A.D. 324). Particularly after the
-division of the Empire between Arcadius and Honorius in 395 does this
+division of the Empire between [[Arcadius]] and [[Honorius]] in 395 does this
 bifurcation appear to be marked; and one naturally speaks of the two
 Empires of the West and the East. Yet it cannot be too much emphasized
 that in reality such language is utterly inexact. The Roman empire was,
@@ -146,13 +146,13 @@ now indeed indestructible, for, if it perished as an empire, it would
 live as a church. But the Church made it certain that it would not
 perish, even as an empire, for many centuries to come. On the one hand
 the Church thought in terms of empire and taught the millions of its
-disciples (including the barbarians themselves) to think in the same
+[[Disciple|disciples]] (including the barbarians themselves) to think in the same
 terms. No other political conception--no conception of a [Greek: polis]
 or of a nation--was any longer possible. When the Church gained its hold
 of the Roman world, the Empire, as it has been well said, was already
 "not only a government, but a fashion of conceiving the world": it had
 stood for three centuries, and no man could think of any other form of
-political association. Moreover, the gospel of St Paul--that there is
+political association. Moreover, the [[Gospel|gospel]] of St Paul--that there is
 _one_ Church, whereof Christ is the Head, and we are all members--could
 not but reinforce for the Christian the conception of a necessary
 political unity of all the world under a single head. _Una Chiesa in uno
@@ -163,22 +163,22 @@ materializing it in its own organization of itself. Growing up under the
 shadow of the Empire, the Church too became an empire, as the Empire had
 become a church. As it took over something of the old pagan ceremonial,
 so it took over much of the old secular organization. The pope borrowed
-his title of _pontifex maximus_ from the emperor: what is far more, he
+his title of _pontifex [[Maximus|maximus]]_ from the emperor: what is far more, he
 made himself gradually, and in the course of centuries, the Caesar and
 Imperator of the Church. The offices and the dioceses of the Church are
 parallel to the offices and dioceses of the Diocletian empire: the whole
 spirit of orderly hierarchy and regular organization, which breathes in
 the Roman Church, is the heritage of ancient Rome. The Donation of
-Constantine is a forgery; but it expresses a great truth when it
+Constantine is a [[Forgery|forgery]]; but it expresses a great truth when it
 represents Constantine as giving to the pope the imperial palace and
 insignia, and to the clergy the ornaments of the imperial army (see
-DONATION OF CONSTANTINE).
+[[Donation Of Constantine|DONATION OF CONSTANTINE]]).
 
 
   Barbarian invasions.
 
 Upon this world, informed by these ideas, there finally descended, in
-the 5th century, the avalanche of barbaric invasion. Its impact seemed
+the 5th century, the [[Avalanche|avalanche]] of barbaric invasion. Its impact seemed
 to split the Empire into fragmentary kingdoms; yet it left the universal
 Church intact, and with it the conception of empire. With that
 conception, indeed, the barbarians had already been for centuries
@@ -189,14 +189,14 @@ invaders, Odoacer (Odovakar), might seem, in 476, to have swept away the
 Empire from the West, when he commanded the abdication of Romulus
 Augustulus; and the date 476 has indeed been generally emphasized as
 marking "the fall of the Western empire." Other invaders, again, men
-like the Frank Clovis or the great Ostrogoth Theodoric, might seem, in
+like the [[Frank]] Clovis or the great Ostrogoth Theodoric, might seem, in
 succeeding years, to have completed the work of Odoacer, and to have
 shattered the sorry scheme of the later Empire, by remoulding it into
 national kingdoms. _De facto_, there is some truth in such a view: _de
 jure_, there is none.[2] All that Odoacer did was to abolish one of the
 two joint rulers of the indivisible Empire, and to make the remaining
 ruler at Constantinople sole emperor from the Bosporus to the pillars of
-Hercules. He abolished the dual sovereignty which had been inaugurated
+[[Hercules]]. He abolished the dual sovereignty which had been inaugurated
 by Diocletian, and returned to the unity of the Empire in the days of
 Marcus Aurelius. He did not abolish the Roman empire in the West: he
 only abolished its separate ruler, and, leaving the Empire itself
@@ -210,13 +210,13 @@ vicars and lieutenants of the Empire. Theodoric spoke of himself to Zeno
 as _imperio vestro famulans_; he left justice and administration in
 Roman hands, and maintained two annual consuls in Rome. Clovis received
 the title of consul from Anastasius; the Visigothic kings of Spain (like
-the kings of the savage Lombards) styled themselves Flavii, and
+the kings of the savage [[Lombards]]) styled themselves Flavii, and
 permitted the cities of their eastern coast to send tribute to
 Constantinople. Yet it must be admitted that, as a matter of fact, this
 adhesion of the new barbaric kings to the Empire was little more than a
 form. The Empire maintained its ideal unity by treating them as its
 vicars; but they themselves were forming separate and independent
-kingdoms within its borders. The Italy of the Ostrogoths cannot have
+kingdoms within its [[Borders|borders]]. The Italy of the Ostrogoths cannot have
 belonged, in any real sense, to the Empire; otherwise Justinian would
 never have needed to attempt its reconquest. And in the 7th and 8th
 centuries the form of adhesion itself decayed: the emperor was retiring
@@ -235,7 +235,7 @@ It is here that the action of the Church becomes of supreme importance.
 The Church had not ceased to believe in the continuous life of the
 Empire. The Fathers had taught that when the cycle of empires was
 finally ended by the disappearance of the empire of Rome, the days of
-Antichrist would dawn; and, since Antichrist was not yet come, the
+[[Antichrist]] would dawn; and, since Antichrist was not yet come, the
 Church believed that the Empire still lived, and would continue to live
 till his coming. Meanwhile the Eastern emperor, ever since Justinian's
 reconquest of Italy, had been able to maintain his hold on the centre of
@@ -268,8 +268,8 @@ ecclesiastical affairs in a manner which the popes and the Western
 Church refused to tolerate. Brought into contact with the pure
 monotheism of Mahommedanism, Leo the Isaurian (718-741) was stimulated
 into a crusade against image-worship, in order to remove from the
-Christian Church the charge of idolatry. The West clung to its images:
-the popes revolted against his decrees; and the breach rapidly became
+Christian Church the charge of idolatry. The West clung to its [[Image|images]]:
+the popes revolted against his [[Decree|decrees]]; and the [[Breach|breach]] rapidly became
 irreparable. As the hold of the Eastern emperor on central Italy began
 to be shaken, the popes may have begun to cherish the hope of becoming
 their successors and of founding a temporal dominion; and that hope can
@@ -277,12 +277,12 @@ only have contributed to the final dissolution of their connexion with
 the Eastern empire.
 
 
-  Coronation of Charlemagne as emperor of the West.
+  [[Coronation]] of Charlemagne as emperor of the West.
 
 Thus, in the course of the 8th century, the Empire, _as represented by
 the emperors at Constantinople_, had begun to fade utterly out of the
 West. It had been forgotten by lay sovereigns; it was being abandoned by
-the pope, who had been its chosen apostle. But it did not follow that,
+the pope, who had been its chosen [[Apostle|apostle]]. But it did not follow that,
 because the Eastern emperor ceased to be the representative of the
 Empire for the West, the conception of Empire itself therefore perished.
 The popes only abandoned the representative; they did not abandon the
@@ -317,13 +317,13 @@ In the year 800 central Italy ceased to date its documents by the regnal
 years of the Eastern emperors; for Charlemagne was crowned emperor in
 their stead.
 
-The king of the Franks was well fitted for the position which he was
+The king of the [[Franks]] was well fitted for the position which he was
 chosen to fill. He was king of a stock which had been from the first
 Athanasian, and had never been tainted, like most of the Germanic
 tribes, by the adoption of Arian tenets. His grandfather, Charles
 Martel, had saved Europe from the danger of a Mahommedan conquest by his
 victory at Poitiers (732); his father, Pippin the Short, had helped the
-English missionary Boniface to achieve the conversion of Germany. The
+English missionary Boniface to achieve the [[Conversion|conversion]] of Germany. The
 popes themselves had turned to the Frankish kings for support again and
 again in the course of the 8th century. Gregory III., involved in bitter
 hostilities with the iconoclastic reformers of the East, appealed to
@@ -344,14 +344,14 @@ aggressions of the last of the Lombard kings; and in 774 Charles
 conquered the Lombard kingdom, and himself assumed its iron crown. Thus
 by the end of the 8th century the Frankish king stood on the very steps
 of the imperial throne. He ruled a realm which extended from the
-Pyrenees to the Harz, and from Hamburg to Rome--a realm which might be
+Pyrenees to the Harz, and from [[Hamburg]] to Rome--a realm which might be
 regarded as in itself a _de facto_ empire. He bore the title of
 _patricius_, and he had shown that he did not bear it in vain by his
 vigorous defence of the papacy in 774. Here there stood, ready to hand,
 a natural representative of the conception of Empire; and Leo III.,
 finding that he needed the aid of Charlemagne to maintain himself
 against his own Romans, finally took the decisive step of crowning him
-emperor, as he knelt in prayer at St Peter's, on Christmas Day, 800.
+emperor, as he knelt in prayer at St Peter's, on [[Christmas]] Day, 800.
 
 
   Theory of the Carolingian empire.
@@ -370,13 +370,13 @@ in the Carolingian empire, we can only answer--the papacy. The idea of
 Empire was in the Church; and the head of the Church translated this
 idea into fact. If, however, we seek to conceive the event of 800 from a
 political or legal point of view, and to determine the residence of the
-right of constituting an emperor, we at once drift into the fogs of
+right of constituting an emperor, we at once [[Drift|drift]] into the [[Fog|fogs]] of
 centuries of controversy. Three answers are possible from three points
 of view; and all have their truth, according to the point of view. From
 the ecclesiastical point of view, the right resides with the pope. This
 theory was not promulgated (indeed no theory was promulgated) until the
 struggles of Papacy and Empire in the course of the middle ages; but by
-the time of Innocent III. it is becoming an established doctrine that a
+the time of [[Innocent]] III. it is becoming an established doctrine that a
 _translatio Imperii_ took place in 800, whereby the pope transferred the
 Roman empire from the Greeks to the Germans in the person of the
 magnificent Charles.[6] One can only say that, as a matter of fact, the
@@ -387,7 +387,7 @@ arose, at the time, of any right of the pope to give the Empire to
 Charlemagne, for the simple reason that neither of the actors was acting
 or thinking in a legal spirit. If we now turn to study the point of view
 of the civil lawyer, animated by such a spirit, and basing himself on
-the code of Justinian, we shall find that an emperor must derive his
+the [[Code|code]] of Justinian, we shall find that an emperor must derive his
 institution and power from a _lex regia_ passed by the _populus
 Romanus_; and such a view, strictly interpreted, will lead us to the
 conclusion that the citizens of Rome had given the crown to Charlemagne
@@ -397,14 +397,14 @@ Charlemagne's coronation, of the presence of "ancients among the Romans"
 and of "the faithful people"; but they are merely present to witness or
 applaud, and the conception of the Roman people as the source of Empire
 is one that was only championed, at a far later date, by antiquarian
-idealists like Arnold of Brescia and Cola di Rienzi. The _faex Romuli_,
+idealists like [[Arnold]] of [[Brescia]] and Cola di Rienzi. The _faex Romuli_,
 a population of lodging-house keepers, living upon pilgrims to the papal
-court, could hardly be conceived, except by an ardent imagination, as
+court, could hardly be conceived, except by an ardent [[Imagination|imagination]], as
 heir to the _Quirites_ of the past. Finally, from the point of view of
 the German tribesman, we must admit that the Empire was something which,
 once received by his king (no matter how), descended in the royal family
-as an heirloom; or to which (when the kingship became elective) a title
-was conferred, along with the kingship, by the vote of electors.[7]
+as an [[Heirloom|heirloom]]; or to which (when the kingship became elective) a title
+was conferred, along with the kingship, by the vote of [[Electors|electors]].[7]
 
 
   Relations of the Carolingian to the Eastern empire.
@@ -421,7 +421,7 @@ dominions made in 802. But the revision did not amount to much in bulk:
 what there was contained little that was Roman; and, on the whole, it
 hardly seems probable that Charlemagne entered into any new relation
 with his subjects. The relation of his empire to the empire in the East
-is a more difficult and important problem. In 797 the empress Irene had
+is a more difficult and important problem. In 797 the empress [[Irene]] had
 deposed and blinded her son, Constantine VI., and usurped his throne.
 Now it would seem that Charlemagne, whose thoughts were already set on
 Empire, hoped to depose and succeed Irene, and thus to become sole
@@ -454,7 +454,7 @@ at the moment, regarded themselves as the only lawful successors of
 Constantine VI., and viewed the Carolings and their later successors as
 upstarts and usurpers, with no right to their imperial pretensions.
 Henceforth two halves confronted one another, each claiming to be the
-whole; two finite bodies touched, and each yet claimed to be infinite.
+whole; two finite bodies touched, and each yet claimed to be [[Infinite|infinite]].
 
 
   Character of the Carolingian empire.
@@ -508,7 +508,7 @@ preserved, and the conception of a united Empire continued, in spite of
 the eventual dissolution of the realm of Charlemagne. When the
 Carolingian emperors disappeared, Benedict IV. could crown Louis of
 Provence (901) and John X. could invite to the vacant throne an Italian
-potentate like Berengar of Friuli (915); and even when Berengar died in
+potentate like Berengar of [[Friuli]] (915); and even when Berengar died in
 924, and the Empire was vacant of an emperor, they could hold, and hold
 with truth, that the Empire was not dead, but only suspended, until such
 time as they should invite a new ruler to assume the office.
@@ -530,7 +530,7 @@ German: already in 870 the partition of Mersen shows us the kings of
 France and Germany dividing the middle kingdom which lay between the two
 countries by the linguistic frontier of the Meuse and Moselle. The year
 888 is the birth-year of modern Europe. France, Germany, Italy, stood
-distinct as three separate units, with Burgundy and Lorraine as
+distinct as three separate units, with Burgundy and [[Lorraine]] as
 debatable lands, as they were destined to remain for centuries to come.
 If the conception of Empire was still to survive, the pope must
 ultimately invite the ruler of the strongest of these three units to
@@ -546,24 +546,24 @@ rivers and into the heart of France, Louis the German had consolidated
 his kingdom in a long reign of sixty years (817-876); and at the end of
 the 9th century two kings of Germany had already worn the imperial
 crown. Early in the 10th century the kingship of Germany had come to the
-vigorous Saxon dukes (919); and strong in their Saxon basis Henry I. and
+vigorous Saxon [[Dukes|dukes]] (919); and strong in their Saxon basis Henry I. and
 his son Otto had built a realm which, disunited as it was, was far more
 compact than that which the Carolings of the West ruled from Laon. Henry
 I. had thought in his later years of going to Rome for the imperial
-crown: under Otto I. the imperial idea becomes manifest. On the one
+crown: under Otto I. the imperial idea becomes [[Manifest|manifest]]. On the one
 hand, he established a semi-imperial position in the West: by 946 Louis
 IV. d'Outremer is his protégé, and it is his arms which maintain the
 young Conrad of Burgundy on his throne. On the other hand, he showed, by
 his policy towards the German Church, that he was the true heir of the
 Carolingian traditions. He made churchmen his ministers; he established
-missionary bishoprics on the Elbe which should spread Christianity among
-the Wends; and his dearest project was a new archbishopric of Magdeburg.
+missionary bishoprics on the [[Elbe]] which should spread Christianity among
+the Wends; and his dearest project was a new archbishopric of [[Magdeburg]].
 The one thing needful was that he should, like Charlemagne, acquire the
 throne of Italy; and the dissolute condition of that country during the
 first half of the 10th century made its acquisition not only possible,
 but almost imperative. Begun in 952, the acquisition was completed ten
 years later; and all the conditions were now present for Otto's
-assumption of the imperial throne. He was crowned by John XII. on
+[[Assumption|assumption]] of the imperial throne. He was crowned by John XII. on
 Candlemas Day 962, and thus was begun the Holy Roman Empire, which
 lasted henceforth with a continuous life until 1806.[8]
 
@@ -581,7 +581,7 @@ its Head, and needing (so men still thought) a secular counterpart of
 its indivisible unity.[9] To these two sanctions philosophy later added
 a third; and the doctrine of Realism, that the one universal is the true
 abiding substance--the doctrine which pervades the _De monarchia_ of
-Dante,--reinforced the feeling which demanded that Europe should be
+[[Dante]],--reinforced the feeling which demanded that Europe should be
 conceived as a single political unity. But if the Holy Roman empire of
 the German nation has the old foundations, it is none the less a thing
 _sui generis_. Externally, it meant far less than the empire of
@@ -598,7 +598,7 @@ unprecedented. If Latin imperialism had been combined with Frankish
 tribalism in the Empire of Charlemagne, it now met and blended with
 feudalism. The Holy Roman emperor of the middle ages, as Frederick I.
 proudly told the Roman envoys, found his senate in the diet of the
-German baronage, his _equites_ in the ranks of the German knights.
+German baronage, his _[[Equites|equites]]_ in the ranks of the German [[Knight|knights]].
 Feudalism, indeed, came in time to invade the very conception of Empire
 itself. The emperors began to believe that their position of emperor
 made them feudal overlords of other kings and princes; and they came to
@@ -632,17 +632,17 @@ the rights over papal elections conceived to belong to the office of
 _patricius_, which they generally held, enabled the emperors, upon
 occasion, to nominate the pope of their choice. The partnership of Otto
 III., son of a Byzantine princess, and his nominee Silvester II.
-(already distinguished as Gerbert, _scholasticus_ of the chapter school
-of Reims) forms a remarkable page in the annals of Empire and Papacy.
+(already distinguished as [[Gerbert]], _scholasticus_ of the chapter school
+of Reims) forms a remarkable page in the [[Annals|annals]] of Empire and Papacy.
 Otto, once the pupil of Silvester in classical studies, and taught by
 his mother the traditions of the Byzantine empire, dreamed of renewing
 the Empire of Constantine, with Rome itself for its centre; and this
-antiquarian idealism (which Arnold of Brescia and Cola di Rienzi were
+antiquarian [[Idealism|idealism]] (which Arnold of Brescia and Cola di Rienzi were
 afterwards, though with some difference of aim, to share) was encouraged
 in his pupil by the pope. Tradition afterwards ascribed to the two the
 first project of a crusade, and the institution of the seven electors:
 in truth their faces were turned to the past rather than to the future,
-and they sought not to create, but to renovate. The dream of restoring
+and they sought not to create, but to renovate. The [[Dream|dream]] of restoring
 the age of Constantine passed with the premature death of Otto; and
 after the death of Silvester II. the papacy was degraded into an
 appendage of the Tusculan family. From that degradation the Church was
@@ -650,16 +650,16 @@ rescued by Henry III. (the second emperor of the new Salian house, which
 reigned from 1024 to 1125), when in 1046 he caused the deposition of
 three competing popes, and afterwards filled the papal chair with his
 own nominees; but it was rescued more effectually by itself, when in
-1059 the celebrated bull _In nomine Domini_ of Nicholas II. reserved the
-right of electing the popes to the college of cardinals (see CONCLAVE).
+1059 the celebrated [[Bull|bull]] _In nomine Domini_ of Nicholas II. reserved the
+right of electing the popes to the college of cardinals (see [[Conclave|CONCLAVE]]).
 A new era of the Papacy begins with the decree, and that era found its
-exponent in Hildebrand. If under Henry III. the Empire stands in many
+exponent in [[Hildebrand]]. If under Henry III. the Empire stands in many
 respects at its zenith, and the emperor nominates to the Papacy, it
 sinks, under Henry IV., almost to the nadir of its fortunes, and a pope
 attempts, with no little success, to fight and defeat an emperor.
 
 
-  The Investiture contest.
+  The [[Investiture]] contest.
 
 The rise of the Papacy, which the action of Henry III. in 1046 had
 helped to begin, and the bull of 1059 had greatly promoted, was
@@ -672,7 +672,7 @@ lay investiture. A decree of Gregory VII. in 1075 forbade emperor, king
 or prince to "presume to give investiture of bishoprics," under pain of
 excommunication; and Henry IV., contravening the decree, fell under the
 penalty, and the War of Investitures began (1076-1122). Whether or no
-Henry humiliated himself at Canossa (and the opinion of German
+Henry humiliated himself at [[Canossa]] (and the opinion of German
 historians now inclines to regard the traditional account as
 exaggerated) the Empire certainly suffered in his reign a great loss of
 prestige. The emperor lost his hold over Germany, where the aid of the
@@ -714,7 +714,7 @@ Frederick I. regained a new strength in Germany, partly because he
 united in his veins the blood of the two great contending families, the
 Welfs and the Waiblingens; partly because he had acquired large
 patrimonial possessions in Swabia, which took the place of the last
-Saxon demesne; partly because he had a greater control over the German
+Saxon [[Demesne|demesne]]; partly because he had a greater control over the German
 episcopate than his predecessors had enjoyed for many years past. At the
 same time the revival of interest in the study of Roman law gave the
 emperor, as source and centre of that law, a new dignity and prestige,
@@ -740,12 +740,12 @@ Sicily involved him in the third great struggle of Empire and Papacy.
 Strong in his Sicilian kingdom in the south, and seeking, like his
 grandfather, to establish his power in Lombardy, Frederick practically
 aimed at the unification of Italy, a policy which threatened to engulf
-the States of the Church and to reduce the Papacy to impotence. The
+the States of the Church and to reduce the Papacy to [[Impotence|impotence]]. The
 popes excommunicated the emperor: they aided the Lombard towns to
 maintain their independence; finally, after Frederick's death (1250),
-they summoned Charles of Anjou into Sicily to exterminate his house. By
+they summoned Charles of [[Anjou]] into Sicily to exterminate his house. By
 1268 he had done his work, and the medieval Empire was practically at an
-end. When Rudolph of Habsburg succeeded in 1273, he was only the head of
+end. When Rudolph of [[Habsburg]] succeeded in 1273, he was only the head of
 a federation of princes in Germany, while in Italy he abandoned all
 claims over the centre and south, and only retained titular rights in
 the Lombard plain.
@@ -764,7 +764,7 @@ imperial hold on Italy threatened their independence. They had succeeded
 in defeating the Empire, but they had also destroyed the Papacy; for the
 French aid which they had invoked against the Hohenstaufen developed,
 within fifty years of the fall of that house, into French control, and
-the captivity at Avignon (1308-1378) was the logical result of the final
+the captivity at [[Avignon]] (1308-1378) was the logical result of the final
 victory of Charles of Anjou at Tagliacozzo. The struggle seemed to have
 ended in nothing but the exhaustion of both combatants. Yet in many
 respects it had in reality made for progress. It had set men thinking of
@@ -775,7 +775,7 @@ own sphere, a conception which is the necessary basis of the modern
 nation-state. If it had dislocated Germany into a number of territorial
 principalities, it had produced a college of electors to represent the
 cause of unity: if it had helped to prevent the unification of Italy,
-and had left to Italy the fatal legacy of Guelph and Ghibelline feuds,
+and had left to Italy the fatal [[Legacy|legacy]] of Guelph and Ghibelline feuds,
 it had equally helped to produce Italian municipal independence.
 
 
@@ -808,7 +808,7 @@ emperor existed to a great extent because he was a legal
 necessity--because, in Germany, he was necessary for the investiture of
 princes with their principalities, and because, in Europe, he was
 necessary, as the source of all rights, to bestow crowns upon would-be
-kings, or to act as the head of the great orders of chivalry, or to give
+kings, or to act as the head of the great orders of [[Chivalry|chivalry]], or to give
 patents to notaries. With the history of the Empire regarded as a German
 confederation we are not here concerned. The reigns of the Habsburg,
 Luxemburg and Wittelsbach emperors belong to the history of Germany.
@@ -823,7 +823,7 @@ in 1310, partly because he had no power and no occupation in Germany,
 partly because he was deeply imbued with the sense of his imperial
 dignity. Coming as a peacemaker and mediator, he was driven by Guelph
 opposition into a Ghibelline rôle; and he came into conflict with
-Clement V., the first of the Avignonese popes, who under the pressure of
+[[Clement]] V., the first of the Avignonese popes, who under the pressure of
 France attempted to enforce upon Henry a recognition of his feudal
 subjection. Henry asserted his independence: he claimed Rome for his
 capital, and the lordship of the world for his right; but, just as a
@@ -838,7 +838,7 @@ Marsilius of Padua and John of Jandun, who brought to the cause of Louis
 the spirit and the doctrines which had already been used in the struggle
 between Boniface VIII. and Philip IV. of France. Marsilius in
 particular, in a treatise called the _Defensor Pacis_, insisted on the
-majesty of the lay state, and even on its superiority to the Church.
+[[Majesty|majesty]] of the lay state, and even on its superiority to the Church.
 Perhaps it was Marsilius, learned as he was in Roman law, and
 remembering the _lex regia_ by which the Roman people had of old
 conferred its power on the emperor, who suggested to Louis the policy,
@@ -849,7 +849,7 @@ medieval Romans as the source of imperial power. Not less remarkable was
 the new attitude of the German electors, who for the first time
 supported an emperor against the pope, because they now felt menaced in
 their own electoral rights; and the one permanent result which finally
-flowed from the struggle was the enunciation and definition of the
+flowed from the struggle was the enunciation and [[Definition|definition]] of the
 rights and privileges of the electors in the Golden Bull of 1356 (see
 GOLDEN BULL).
 
@@ -868,20 +868,20 @@ was the duty discharged by Sigismund, when he forced John XXIII. to
 summon a council at Constance in 1414, and sought, though in vain, to
 guide its deliberations. The journey which Sigismund undertook in the
 interests of the council (1415-1417) is particularly noteworthy. He
-sought to make peace throughout western Europe, acting as international
+sought to make peace throughout western Europe, acting as [[International|international]]
 arbitrator--in virtue of his presidency of western Europe--between
 England and France, between Burgundians and Armagnacs; but he failed in
 his aim, and when he returned to the council, it was only to witness the
 defeat of the party of reform which he championed. National feeling and
 national antipathies proved too strong for Sigismund's attempt to revive
-the medieval empire for the purposes of international arbitration: the
+the medieval empire for the purposes of international [[Arbitration|arbitration]]: the
 same feeling, the same antipathies, made inevitable the failure of the
 council itself, in which western Europe had sought to meet once more as
 a single religious commonwealth. Early in the 15th century, therefore,
 the conception of the unity of western Europe, as a single
 Empire-Church, was already waning in both its aspects. The unity of the
 Church Universal was dissolving, and the conception of the nation-church
-arising (as the separate concordats granted by Martin V. to the
+arising (as the separate concordats granted by [[Martin]] V. to the
 different nations prove); while the unity of the Empire was proved a
 dream, by the powerlessness of the emperor in the face of the struggle
 of England and France.
@@ -903,7 +903,7 @@ it seemed, at the time of the Reformation, as if the old Empire had been
 revived in the person of Charles V., who owned territories as vast as
 those of Charlemagne. But Charles's dominions were a dynastic
 agglomeration, knit together by no vivifying conception; and, though
-Charles was a champion of the one Catholic Church against the
+Charles was a [[Champion|champion]] of the one Catholic Church against the
 Reformation, he did not in any way seek to revive the power of the
 medieval empire. Meanwhile the reforming monarchs, while they cast off
 the Roman Church, cast off with it the Roman empire. Henry VIII.
@@ -926,7 +926,7 @@ sweeping away the spiritual unity of western Christendom, had swept away
 any real conception of its political unity, and with that conception it
 had swept away the Empire; while it had also, by splitting Germany into
 two religious camps, and making the emperor at the most the head of a
-religious faction, dissipated the last vestiges of a real Empire in the
+religious [[Faction|faction]], dissipated the last vestiges of a real Empire in the
 country which had, since 962, been its peculiar home.
 
 
@@ -943,7 +943,7 @@ to-day. The dissolution of the Holy Roman Empire into this loose
 federation had already been anticipated by the concessions made to the
 princes by Frederick II. in 1220 and 1231; but the final organization of
 Germany on federal lines was only attained in the treaty of Westphalia
-of 1648. The attempt of Ferdinand II., in the course of the Thirty
+of 1648. The attempt of [[Ferdinand]] II., in the course of the Thirty
 Years' War, to assert a practically monarchical authority over the
 princes of Germany, only led to the regular vindication by the princes
 of their own monarchical authority. The emperor, who had tried in the
@@ -967,16 +967,16 @@ France in return for Tuscany (1735).
 
   End of the Holy Roman Empire.
 
-It needed the cataclysm of the French Revolution finally to overthrow
+It needed the cataclysm of the [[French Revolution]] finally to overthrow
 the Empire. Throughout the 18th century it lasted, a thing of
 long-winded protocols and never-ending lawsuits, "neither Holy, nor
 Roman, nor an Empire." But with Napoleon came its destroyer. As far back
 as the end of the 13th century, French kings had been scheming to annex
 the title or at any rate absorb the territories of the Empire: at the
-beginning of the 19th century the annexation of the title by Napoleon
+beginning of the 19th century the [[Annexation|annexation]] of the title by Napoleon
 seemed very imminent. Posing as the New Charlemagne ("because, like
 Charlemagne, I unite the crown of France to that of the Lombards, and my
-Empire marches with the East"), he resolved in 1806, during the
+Empire [[Marches|marches]] with the East"), he resolved in 1806, during the
 dissolution and recomposition of Germany which followed the peace of
 Lunéville, to oust Francis II. from his title, and to make the Holy
 Roman Empire part and parcel of the "Napoleonic idea." He was
@@ -1013,7 +1013,7 @@ prestige which the Empire brought. It is difficult to pronounce on
 either side; but one feels that the old localism and individualism which
 characterized the early German, and had never, on German soil, been
 combined with and counteracted by a large measure of Roman population
-and Roman civilization, as they were in Gaul and Spain, would in any
+and Roman civilization, as they were in [[Gaul]] and Spain, would in any
 case have continued to divide and disturb Germany till late in her
 history, even if the Empire had never come to reside within her borders.
 Of the larger question of the influence of the Empire on Europe we can
@@ -1022,7 +1022,7 @@ Holy Empire, the unity of all the faithful as one body in their secular,
 no less than in their religious life--an Empire which, again, as a Roman
 Empire, represented with an unbroken continuity the order of Roman
 administration and law--such an empire could not but make for the
-betterment of the world. It was not an empire resting on force, a
+[[Betterment|betterment]] of the world. It was not an empire resting on force, a
 military empire; it was not, as in modern times empires have sometimes
 been, an autocracy warranted and stamped by the plébiscite of the mob.
 It was an empire resting neither on the sword nor on the ballot-box, but
@@ -1066,9 +1066,9 @@ the cleavage between the Catholic and the Orthodox Churches. Yet, as
 when Rome fell, the Catholic Church survived, and ultimately found for
 itself a new Empire of the West, so, when Constantinople fell, the
 Orthodox Church continued its life, and found for itself a new Empire of
-the East--the Empire of Russia. Under Ivan the Great (1462-1505) Moscow
+the East--the Empire of Russia. Under [[Ivan]] the Great (1462-1505) Moscow
 became the metropolis of Orthodoxy; Byzantine law influenced his code;
-and he took for his cognizance the double-headed eagle. Ivan the
+and he took for his [[Cognizance|cognizance]] the double-headed [[Eagle|eagle]]. Ivan the
 Terrible, his grandson, finally assumed in 1547 the title of Tsar; and
 henceforth the Russian emperor is, in theory and very largely in fact,
 the successor of the old East Roman emperor,[13] the head of the
@@ -1080,14 +1080,14 @@ Constantinople.
 
 In the 19th century the word "empire" has had a large and important
 bearing in politics. In France it has been the apanage of the
-Bonapartes, and has meant a centralized system of government by an
+[[Bonaparte|Bonapartes]], and has meant a centralized system of government by an
 efficient Caesar, resting immediately on the people, and annihilating
 the powers of the people's representatives. Under Napoleon I. this
 conception had a Carolingian colour: under Napoleon III. there is less
 of Carolingianism, and more of Caesarism--more of a popular
 dictatorship. While in modern France Empire has meant autocracy instead
 of representative government, in Germany it has meant a greater national
-unity and a federal government in the place of a confederation. The
+unity and a [[Federal Government|federal government]] in the place of a confederation. The
 modern German empire is at once like and unlike the old Holy Roman
 Empire. It is unlike the old medieval Empire; for it has no connexion
 with the Catholic Church, and no relation to Rome. But it is like the
@@ -1108,7 +1108,7 @@ though the Habsburgs of to-day are personally the lineal descendants of
 the old Holy Roman emperors, they do not in any way possess an empire
 that represents the old Holy Empire. In England, of recent years, the
 term "Empire" and the conception of imperialism have become prominent
-and crucial. To Englishmen to-day, as to Germans before 1870, the term
+and [[Crucial|crucial]]. To Englishmen to-day, as to Germans before 1870, the term
 and the conception stand for the greater unity and definitely federal
 government of a number of separate states. For the German, indeed,
 Empire has meant, in great measure, the strengthening of a loose federal
@@ -1135,7 +1135,7 @@ field of political and social ideals.
   Authorities.--See, in the first place, J. Bryce, _Holy Roman Empire_
   (1904 edition); J. von Döllinger, article on "The Empire of Charles
   the Great" (in _Essays on Historical and Literary Subjects_,
-  translated by Margaret Warre, 1894); H. Fisher, _The Medieval Empire_
+  translated by [[Margaret]] Warre, 1894); H. Fisher, _The Medieval Empire_
   (1898); E. Gibbon, _The Decline and Fall of the Roman Empire_, edited
   by J.B. Bury. It would be impossible to refer to all the books bearing
   on the article, but one may select (i.) for the period down to 476,
@@ -1150,7 +1150,7 @@ field of political and social ideals.
   (1886-1894; Eng. trans., London, 1894-1900); E. Lavisse, _Histoire de
   France_, II. i. (1901); J.B. Bury, _History of the Later Roman Empire_
   (1889); (iii.) for the Holy Roman Empire of the German nation, W. von
-  Giesebrecht, _Geschichte der deutschen Kaiserzeit_ (1881-1890); J.
+  [[Giesebrecht]], _Geschichte der deutschen Kaiserzeit_ (1881-1890); J.
   Zeller, _Histoire d'Allemagne_ (1872-1891); R.L. Poole, _Illustrations
   of Medieval Thought_ (1884); S. Riezler, _Die literarischen
   Widersacher der Päpste zur Zeit Ludwigs des Baiers_ (1874); J.
@@ -1194,7 +1194,7 @@ FOOTNOTES:
     expresses this truth exactly. The envoys sent to Zeno by Odoacer urge
     [Greek: ôs hidias men autois basileias ou deoi koinos de hapochrêsei
     monos ôn autokratôr hep amphoterois tois perasi]. The envoys then
-    suggest the name of Odoacer, as one able to manage their affairs, and
+    suggest the name of Odoacer, as one able to [[Manage|manage]] their affairs, and
     ask Zeno to give him, _as an officer of the Empire_, the title of
     Patricius and the administration of Italy.
 
@@ -1215,8 +1215,8 @@ FOOTNOTES:
     5th century; it makes him representative of the Empire for Italy, in
     the sense in which it had been used of the exarchs.
 
-  [6] See the famous bull _Venerabilem_ (_Corp. Jur. Canon._ Decr.
-    Greg. i. 6, c. 34).
+  [6] See the famous bull _Venerabilem_ (_Corp. [[Jur]]. Canon._ Decr.
+    [[Greg]]. i. 6, c. 34).
 
   [7] Even on this view, an imperial coronation at the hands of the
     pope was necessary to complete the title; but this was regarded by
@@ -1225,9 +1225,9 @@ FOOTNOTES:
 
   [8] It is a curious fact that imperial titles (_imperator_ and
     _basileus_) are used in the Anglo-Saxon diplomata of the 10th
-    century. Edred, for instance (946-955) is "imperator," "cyning and
+    century. [[Edred]], for instance (946-955) is "imperator," "cyning and
     casere totius Britanniae," "basileus Anglorum hujusque insulae
-    barbarorum": Edgar is "totius Albionis imperator Augustus" (cf.
+    barbarorum": [[Edgar]] is "totius Albionis imperator Augustus" (cf.
     Stubbs, _Const. Hist._ i. c. vii. § 71). These titles partly show the
     turgidity of English Latinity in the 10th century, partly indicate
     the quasi-imperial position held by the Wessex kings after the

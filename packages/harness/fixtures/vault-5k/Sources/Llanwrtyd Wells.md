@@ -18,7 +18,7 @@ formation of 812. Welsh is the predominant language of the district.
 
 Four miles lower down the Irfon valley, at the junction of the Cammarch
 and Irfon, and with a station on the London & North Western railway, is
-the village of Llangammarch, noted for its barium springs. The ancient
+the village of Llangammarch, noted for its [[Barium|barium]] springs. The ancient
 parish of Llangammarch consists of the townships of Penbuallt and
 Treflis, the wells being in the former, which comprises 11,152 acres and
 had in 1901 a population of only 433. John Penry, the Puritan martyr,

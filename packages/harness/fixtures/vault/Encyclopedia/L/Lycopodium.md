@@ -8,7 +8,7 @@ tags: [biology, sculpture]
 # Lycopodium
 
 LYCOPODIUM, the principal genus of the Lycopodiaceae, a natural order of
-the Fern-allies (see PTERIDOPHYTA). They are flowerless herbs, with an
+the Fern-allies (see PTERIDOPHYTA). They are flowerless [[Herb|herbs]], with an
 erect, prostrate or creeping widely-branched stem, with small simple
 leaves which thickly cover the stem and branches. The "fertile" leaves
 are arranged in cones, and bear spore-cases (sporangia) in their axils,
@@ -33,7 +33,7 @@ FIG. 1.--Lycopodium clavatum.
   H, Sporophyte bearing the single sporangium on its upper surface.
   J, Spore.]
 
-  Gerard, in 1597, described two kinds of lycopodium (_Herball_, p.
+  [[Gerard]], in 1597, described two kinds of lycopodium (_Herball_, p.
   1373) under the names _Muscus denticulatus_ and _Muscus clavatus_ (_L.
   clavatum_) as "Club Mosse or Woolfes Clawe Mosse," the names being in
   Low Dutch, "Wolfs Clauwen," from the resemblance of the club-like or
@@ -46,7 +46,7 @@ FIG. 1.--Lycopodium clavatum.
   rolling pills in, as a dusting powder for infants' sores, &c. A
   _tinctura lycopodii_, containing one part of the powder to ten of
   alcohol (90%), has been given, in doses of 15 to 60 minims, in cases
-  of irritation and spasm of the bladder. The powder is highly
+  of irritation and spasm of the [[Bladder|bladder]]. The powder is highly
   inflammable, and is used in pyrotechny and for artificial lightning on
   the stage. If the hand be covered with the powder it cannot be wetted
   on being plunged into water. Another use of lycopodium is for dyeing;

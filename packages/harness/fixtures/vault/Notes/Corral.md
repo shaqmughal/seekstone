@@ -6,7 +6,7 @@ and also for a defensive circle formed of wagons against attacks from
 Indians. It is also used as a verb, meaning to drive into a corral, and
 so figuratively to enclose, hem in. The word is probably connected with
 the South African Dutch word kraal (q.v.). In Ceylon it is especially
-used for an enclosure meant for the capture of wild elephants. In this
+used for an enclosure meant for the capture of wild [[Elephant|elephants]]. In this
 last sense of the word the corresponding term in India is keddah (q.v.).
 
 ## References

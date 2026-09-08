@@ -10,10 +10,10 @@ id: 42-4192
 
 INDIANA, a north-central state of the United States of America, the
 second state to be erected from the old North-West Territory; popularly
-known as the "Hoosier State." It is located between latitudes 37° 47´
+known as the "Hoosier State." It is located between [[Latitude|latitudes]] 37° 47´
 and 41° 50´ N. and longitudes 84° 49´ and 88° 2´ W. It is bounded on the
 N. by Michigan and Lake Michigan, on the E. by Ohio, on the S. by
-Kentucky from which it is separated by the Ohio river, and on the W. by
+[[Kentucky]] from which it is separated by the Ohio river, and on the W. by
 Illinois. Its total area is 36,350 sq. m., of which 440 sq. m. are water
 surface.
 
@@ -27,7 +27,7 @@ surface.
   lakes, of glacial origin, of which the largest are English Lake in
   Stark county, James Lake and Crooked Lake in Steuben county, Turkey
   Lake and Tippecanoe Lake in Kosciusko county and Lake Maxinkuckee in
-  Marshall county. In the limestone region of the south there are
+  [[Marshall]] county. In the [[Limestone|limestone]] region of the south there are
   numerous caves, the most notable being Wyandotte Cave in Crawford
   county, next to Mammoth Cave the largest in the United States. In the
   southern and south-central part of the state, particularly in Orange
@@ -56,7 +56,7 @@ surface.
 
   _Flora and Fauna._--The flora of the state is varied, between 1400 and
   1500 species of flowering plants being found. Among its native fruits
-  are the persimmon, the paw-paw, the goose plum and the fox grape.
+  are the persimmon, the paw-paw, the [[Goose|goose]] plum and the fox grape.
   Cultivated fruits, such as apples, pears, peaches, plums, grapes and
   berries, are raised in large quantities for the market. The economic
   value of the forests was originally great, but there has been reckless
@@ -65,21 +65,21 @@ surface.
   1900 less than 30% of the total acreage of the state--only about
   10,800 sq. m.--was woodland, and on very little of this land were
   there forests of commercial importance. There are about 110 species of
-  trees in the state, the commonest being the oak. The bald cypress, a
+  trees in the state, the commonest being the oak. The bald [[Cypress|cypress]], a
   southern tree, seems to be an anomalous growth. Blue grass is valuable
   for grazing and hay-making. The principal crops include Indian corn,
-  wheat, oats, potatoes, buckwheat, rye and clover.
+  wheat, oats, potatoes, [[Buckwheat|buckwheat]], rye and clover.
 
   The fauna originally included buffalo, elk, deer, wolves, bear, lynx,
   beaver, otter, porcupine and puma, but civilization has driven them
   all out entirely. Rattlesnakes and copperheads were formerly common in
-  the south. The game birds include quail (Bob White), ruffed grouse
+  the south. The [[Game|game]] birds include quail (Bob White), ruffed grouse
   and a few pinnated grouse (once very plentiful, then nearly
   exterminated, but now apparently reappearing under strict protection),
   and such water birds as the mallard duck, wood duck, blue- and
   green-winged teals, Wilson's snipe, and greater and lesser yellow legs
   (snipe). The song birds and insectivorous birds include the cardinal
-  grosbeak, scarlet and summer tanagers, meadow lark, song sparrow,
+  grosbeak, scarlet and summer tanagers, meadow [[Lark|lark]], song sparrow,
   catbird, brown thrasher, wood thrush, house wren, robin, blue bird,
   goldfinch, red-headed woodpecker, flicker (golden-winged woodpecker),
   and several species of warblers. The game fish include the bass
@@ -96,7 +96,7 @@ surface.
   about 43 in., varying from 35 in. in the north to 46 in. in the Ohio
   Valley.
 
-  The soil of the greater part of the state consists of a drift deposit
+  The soil of the greater part of the state consists of a [[Drift|drift]] deposit
   of loose calcareous loam, which extends to a considerable depth, and
   which is exceedingly fertile. In the Ohio and White Water river
   valleys a sandstone and limestone formation predominates. The north
@@ -115,7 +115,7 @@ surface.
   105.3 acres in 1880 and to 97.4 acres in 1900. The value of the farm
   property increased from $726,781,857 in 1880 to $978,616,471 in 1900.
   The farms are commonly cultivated on the three-crop rotation system.
-  The proximity of such good markets as Chicago, Cincinnati, St Louis
+  The proximity of such good markets as [[Chicago]], Cincinnati, St Louis
   and Louisville, in addition to the local markets, and the unusual
   opportunities afforded by the railways that traverse every portion of
   the state, have been important factors in the rapid agricultural
@@ -125,7 +125,7 @@ surface.
   1899, although the value had considerably more than doubled,
   increasing from $94,759,262 in 1889 to $204,450,196 in 1899. The
   principal crops in which the state has maintained a high relative rank
-  are Indian corn, wheat and hay; the acreage devoted to each of these
+  are Indian corn, wheat and [[Hay|hay]]; the acreage devoted to each of these
   increased considerably in the decade 1890-1900. In 1907, according to
   the Department of Agriculture, the acreage of Indian corn was
   4,690,000 acres (7th of the states), and the yield was 168,840,000
@@ -154,7 +154,7 @@ surface.
   which is confined largely to the north and east portions of the state,
   decreased slightly in importance between 1890 and 1900. The value of
   the dairy products sold in 1899 (census of 1900) was $8,027,370,
-  nearly one-half of which was represented by butter; and the total
+  nearly one-half of which was represented by [[Butter|butter]]; and the total
   value of dairy products was $15,739,594.
 
   In the value, extent and producing power of her manufacturing
@@ -175,7 +175,7 @@ surface.
   valued at $29,037,843. Next in importance in 1905 was the slaughtering
   and meat-packing industry, of which the total product was valued at
   $29,352,593; in 1900 it was valued at $43,862,273. Other important
-  manufactured products were: those of machine shops and foundries, the
+  manufactured products were: those of [[Machine|machine]] shops and foundries, the
   value of which increased from $17,228,096 in 1900 to $23,108,516 in
   1905, or 34.1%; distilled liquors, the value of which had increased
   from $16,961,058 in 1900 to $20,520,261 in 1905, an increase of 21%;
@@ -198,11 +198,11 @@ surface.
   1905 in carriages and wagons, glass and distilled liquors; was seventh
   in 1900 and fourth in 1905 in furniture; was fourth in 1900 and
   seventh in 1905 in wholesale slaughtering and meat-packing; was fifth
-  in 1900 and sixth in 1905 in agricultural implements; and in iron and
+  in 1900 and sixth in 1905 in agricultural [[Implement|implements]]; and in iron and
   steel and flour and grist mill products was fifth in 1900 and eighth
   in 1905. The most important manufacturing centres are Indianapolis,
-  Terre Haute, Evansville, South Bend, Fort Wayne, Anderson, Hammond,
-  Richmond, Muncie, Michigan City and Elwood, each having a gross annual
+  Terre Haute, Evansville, South [[Bend]], Fort Wayne, Anderson, Hammond,
+  Richmond, Muncie, Michigan City and Elwood, each having a [[Gross|gross]] annual
   product of more than $6,000,000.
 
   According to the annual report on _Mineral Resources of the United
@@ -220,7 +220,7 @@ surface.
   decreased in the field centre by January 1896 to 230 lb., and by
   January 1901 to 115 lb., the general average of pressure at the latter
   date being 80 lb. The gas field extends over Hancock, Henry, Hamilton,
-  Tipton, Madison, Grant and Delaware counties. The value of the output
+  Tipton, [[Madison]], Grant and Delaware counties. The value of the output
   fell from $7,254,539 in 1900 to $1,750,715 in 1906, when the state's
   product was only 4.2% of that of the entire country. On the 1st of
   January 1909 there were 3223 wells in operation, some of which were
@@ -228,7 +228,7 @@ surface.
   somewhat deeper, generally become active oil wells. The development of
   the petroleum field, which extends over Adams, Wells, Jay, Blackford
   and Grant counties, was rapid up to 1904. The annual output increased
-  from 33,375 barrels in 1889 to 11,339,124 barrels in 1904, the latter
+  from 33,375 [[Barrel|barrels]] in 1889 to 11,339,124 barrels in 1904, the latter
   amount being valued at $12,235,674 and being 12.09% of the value of
   the product of the entire country. In 1906 there was an output of only
   7,673,477 barrels, valued at $6,770,066, being 7.3% of the product
@@ -240,19 +240,19 @@ surface.
   trebled since 1896, when it was 3,905,779 tons. The deposits consist
   of workable veins, 50 to 220 ft. in depth, and averaging 80 ft. below
   the surface. It is a high grade block, or "splint" coal, remarkably
-  free from sulphur and rich in carbon, peculiarly adapted to blast
+  free from sulphur and rich in [[Carbon|carbon]], peculiarly adapted to blast
   furnace use. The quarries and clay beds of the state are of great
   value. The quarries of sandstone and limestone are chiefly in the
   south and south-central portions of the state. The value of the
   limestone quarried in 1908 was $3,643,261, as compared with $2,553,502
-  in 1902. The Bedford oolitic limestone quarries in Owen, Monroe,
+  in 1902. The [[Bedford]] oolitic limestone quarries in Owen, Monroe,
   Lawrence, Washington and Crawford counties furnish one of the most
   valuable and widely used building stones in the United States, the
   value of the product in 1905 being $2,492,960, of which $2,393,475 was
   from Lawrence and Monroe counties and $1,550,076 from Lawrence county
   alone. Beds of brick-clays and potters' clay are widely distributed
   throughout the state, the total value of pottery products in 1902
-  being $5,283,733 and in 1906 $7,158,234. Marls adapted to the
+  being $5,283,733 and in 1906 $7,158,234. [[Marl|Marls]] adapted to the
   manufacture of Portland cement are found along the Ohio river, and in
   the lake region in the north. In 1905 and 1906 Indiana ranked third
   among the states in the production of Portland cement, which in 1908
@@ -269,7 +269,7 @@ surface.
   $507,746, only 2% being table waters). In 1907 19 springs were
   reported at which mineral waters were bottled and sold; they were in
   Allen, Hendricks, Pike, Bartholomew, Warren, Clark, Martin, Brown,
-  Gibson, Wayne, Orange, Vigo and Dearborn counties. A law of 1909
+  [[Gibson]], Wayne, Orange, Vigo and Dearborn counties. A law of 1909
   prohibited the pumping of certain mineral waters if such pumping
   diminished the flow or injured the quality of the water of any spring.
 
@@ -283,7 +283,7 @@ surface.
   river to Terre Haute and the western fork of the White river from
   Worthington, Greene county, to Petersburg, Pike county, whence it ran
   south-south-west to Evansville; and the White Water canal from
-  Hagerstown, Wayne county, mostly along the course of the White Water
+  [[Hagerstown]], Wayne county, mostly along the course of the White Water
   river, to Lawrenceburg, on the Ohio river, in the south-eastern corner
   of the state, although now abandoned, served an important purpose in
   their day. The completion (about 1850) of the National Road, which
@@ -302,7 +302,7 @@ surface.
   and Indiana interurban railways. The deepening of the channel of the
   Wabash river was begun in 1872. Below Vincennes before 1885 boats of
   3-ft. draft could navigate the river, but after work was concentrated
-  in 1885 on the lock at Grand Rapids, near Mt Carmel, Ill., the channel
+  in 1885 on the [[Lock|lock]] at Grand Rapids, near Mt Carmel, Ill., the channel
   was soon clogged again, and in 1909 it was impossible for boats with a
   greater draft than 20 in. to go from Mt Carmel to Vincennes, although
   up to June 1909 about $810,000 had been spent by the Federal
@@ -328,10 +328,10 @@ Haute (36,673), and South Bend (35,999). In the same year there were 14
 cities with a population of less than 35,000 (all less than 21,000) and
 more than 10,000; and there were 21 places with a population of less
 than 10,000 and more than 5000. In 1906 it was estimated that there were
-938,405 members of different religious denominations; of this total
+938,405 members of different religious [[Denomination|denominations]]; of this total
 233,443 were Methodists (210,593 of the Northern Church), 174,849 were
-Roman Catholics, 108,188 were Disciples of Christ (and 10,259 members of
-the Churches of Christ), 92,705 were Baptists (60,203 of the Northern
+Roman Catholics, 108,188 were [[Disciples Of Christ|Disciples of Christ]] (and 10,259 members of
+the Churches of Christ), 92,705 were [[Baptists]] (60,203 of the Northern
 Convention, 13,526 of the National (Colored) Convention, 8132 Primitive
 Baptists, and 6671 General Baptists), 58,633 were Presbyterians (49,041
 of the Northern Church, and 6376 of the Cumberland Church--since united
@@ -368,12 +368,12 @@ States one year and in Indiana six months immediately preceding the
 election, and who has declared his intention of becoming a citizen of
 the United States; but the General Assembly has the power to deprive of
 the suffrage any person convicted of an infamous crime. The Australian
-ballot was adopted in 1889. The general state election (up to 1881, held
+[[Ballot|ballot]] was adopted in 1889. The general state election (up to 1881, held
 in October) takes place on the first Tuesday after the first Monday in
 November of even-numbered years. The governor and lieutenant-governor
 (minimum age, 30 years) and the clerk of the Supreme Court are chosen in
 presidential years for a term of four years,[1] the other state
-officers--secretary of state, attorney-general, auditor, treasurer and
+officers--secretary of state, [[Attorney-General|attorney-general]], auditor, treasurer and
 superintendent of public instruction--every two years. The state
 legislature, known as the General Assembly, which meets biennially in
 odd-numbered years and in special session summoned by the governor,
@@ -394,7 +394,7 @@ separate the legislative and executive functions, provided for the
 election of legislative bodies in every township and county. These
 bodies have control of the local expenditures and tax levies, and
 without their consent the local administrative officers cannot contract
-debts. In 1905 a new municipal code, probably the most elaborate and
+debts. In 1905 a new municipal [[Code|code]], probably the most elaborate and
 complete local government act in the United States, providing for a
 uniform system of government in all cities and towns, went into effect.
 It was constructed on the lines of the Indianapolis city charter,
@@ -425,7 +425,7 @@ ward. Under this system 800 out of 1016 townships and more than 30
 entire counties were in 1908 without saloons. In 1908, when the
 Republican party had declared in favour of county option and the
 Democratic party favoured township and ward option, a special session of
-the legislature, called by the Republican governor, passed the Cox Bill
+the legislature, called by the Republican governor, passed the [[Cox]] Bill
 for county options.
 
 _Education._--Indiana has a well-organized free public school system.
@@ -450,7 +450,7 @@ boards, and township trustees are also chosen, the latter possessing the
 important power of issuing school bonds. Teachers' institutes are
 regularly held, and a state normal school, established in 1870, is
 maintained at Terre Haute. There are normal schools at Valparaiso,
-Angola, Marion and Danville, and a Teachers' College at Indianapolis,
+Angola, [[Marion]] and Danville, and a Teachers' College at Indianapolis,
 which are on the state's "accredited" list and belong to the normal
 school system. In 1897 a compulsory education law was enacted. In
 1906-1907 the state school tax was increased from 11.6 cents per $100 to
@@ -465,14 +465,14 @@ small, in 1900, 95.4% of the population (of 10 years old or over) being
 able to read and write. The total school revenue from state and local
 sources in 1905 amounted to $10,642,638, or $13.85 per capita of
 enumeration ($19.34 per capita of enrolment). In 1824 a state college
-was opened at Bloomington; it was re-chartered in 1838 as the State
+was opened at [[Bloomington]]; it was re-chartered in 1838 as the State
 University. Purdue University (1874) at Lafayette, maintained under
 state control, received the benefit of the Federal grant under the
 Morrill Act. Other educational institutions of college rank include
-Vincennes University (non-sectarian), at Vincennes; Hanover College
+Vincennes University (non-sectarian), at Vincennes; [[Hanover]] College
 (1833, Presbyterian), at Hanover; Wabash College (1832, non-sectarian),
-at Crawfordsville; Franklin College (1837, Baptist), at Franklin; De
-Pauw University (1837, Methodist Episcopal), at Greencastle; Butler
+at Crawfordsville; [[Franklin]] College (1837, Baptist), at Franklin; De
+Pauw University (1837, Methodist Episcopal), at [[Greencastle]]; Butler
 University (1855, Christian), at Indianapolis; Earlham College (1847,
 Friends), at Richmond; Notre Dame University (1842, Roman Catholic), at
 Notre Dame; Moore's Hill College (1856, Methodist Episcopal), at Moore's
@@ -535,12 +535,12 @@ Terre Haute.
   Charities (1889), which is appointed by the governor, and to which the
   excellent condition of state institutions is largely due. In the
   counties there are unsalaried boards of county charities and
-  correction and county boards of children's guardians, appointed by the
+  correction and county boards of children's [[Guardian|guardians]], appointed by the
   circuit judges. The township trustees, 1016 in number, are ex-officio
   overseers of the poor. They dispense official outdoor relief. Nowhere
   else have the principles of organized charities in the administration
   of public outdoor relief been applied to an entire state. Each county
-  provides for the indoor care of the poor in poor asylums and
+  provides for the indoor care of the poor in poor [[Asylum|asylums]] and
   children's homes, and for local prisoners in county jails. Provision
   is made for truant, dependent, neglected and delinquent children. No
   child can be made a public ward except upon order of the juvenile
@@ -548,18 +548,18 @@ Terre Haute.
   of the Board of State Charities.
 
   _Finance._--The total true value of taxable property in the state was,
-  according to the tax levy of 1907, $1,767,815,487, and the total
+  according to the tax [[Levy|levy]] of 1907, $1,767,815,487, and the total
   taxes, including delinquencies, in the same year amounted to
   $38,880,257. The total net receipts for the fiscal year ending
   September 30, 1908, were $4,771,628, and the total net expenditure
-  $5,259,002, the cash balance in the treasury for the year ending
+  $5,259,002, the [[Cash|cash]] [[Balance|balance]] in the treasury for the year ending
   September 30, 1907, amounted to $1,096,459, leaving a cash balance on
   September 30, 1908, of $609,085. The total state debt on September 30,
   1908, was $1,389,615.
 
 _History._--Of the prehistoric inhabitants of Indiana little is known,
 but extensive remains in the form of mounds and fortifications abound in
-every part of the state, being particularly numerous in Knox and
+every part of the state, being particularly numerous in [[Knox]] and
 Sullivan counties. Along the Ohio river are remnants of several
 interesting stone forts. Upon the earliest arrival of Europeans the
 state was inhabited chiefly by the various tribes of the Miami
@@ -656,7 +656,7 @@ the 7th of November 1811. After the close of the second war with Great
 Britain, immigration began again to flow rapidly into the Territory,
 and, having attained a sufficient population, Indiana was admitted to
 the Union as a state by joint resolution of Congress on the 11th of
-December 1816. The seat of government was established at Corydon,
+December 1816. The seat of government was established at [[Corydon]],
 whither it had been removed from Vincennes in 1813. In 1820 the site of
 the present Indianapolis was selected for a new capital, but the seat of
 government was not removed thither until 1825.
@@ -731,15 +731,15 @@ York banking house for the payment of the interest on the state debt, of
 borrowing money for state expenditure on his own responsibility, and of
 constituting an unofficial financial bureau, which disbursed money in
 disregard of the state officers. Furthermore Indiana was the principal
-centre of activity of the disloyal association known as the Knights of
+centre of activity of the disloyal association known as the [[Knight|Knights]] of
 the Golden Circle, or Sons of Liberty, which found a ready growth among
 the large Southern population. Prominent among Southern sympathisers was
 Senator Jesse D. Bright (1812-1875), who on the 5th of February 1862 was
 expelled from the United States Senate for writing a letter addressed to
-Jefferson Davis, as President of the Confederacy, in which he
+[[Jefferson]] Davis, as President of the Confederacy, in which he
 recommended a friend who had an improvement in fire-arms to dispose of.
 The Knights of the Golden Circle at first confined their activities to
-the encouragement of desertion, and resistance to the draft, but in 1864
+the encouragement of [[Desertion|desertion]], and resistance to the draft, but in 1864
 a plot to overthrow the state government was discovered, and Governor
 Morton's prompt action resulted in the seizure of a large quantity of
 arms and ammunition, and the arrest, trial and conviction of several of
@@ -786,22 +786,22 @@ Republican presidential electors were chosen.
   Joseph A. Wright                            1849-1857      "
   Ashbel P. Willard                           1857-1860      "
   Abram A. Hammond, Lt.-Gov. (acting)         1860-1861      "
-  Henry S. Lane                               1861        Republican
+  Henry S. [[Lane]]                               1861        Republican
   Oliver P. Morton, Lt.-Gov. (acting)         1861-1865      "
   Oliver P. Morton                            1865-1867      "
   Conrad Baker, Lt-Gov. (acting)              1867-1869      "
   Conrad Baker                                1869-1873      "
   Thomas A. Hendricks                         1873-1877   Democrat
   James D. Williams                           1877-1880      "
-  Isaac P. Gray, Lt.-Gov. (acting)            1880-1881      "
+  [[Isaac]] P. Gray, Lt.-Gov. (acting)            1880-1881      "
   Albert G. Porter                            1881-1885  Republican
   Isaac P. Gray                               1885-1889  Democrat
   Alvin P. Hovey                              1889-1891  Republican
   Ira J. Chase, Lt.-Gov. (acting)             1891-1893      "
-  Claude Matthews                             1893-1897  Democrat
+  Claude [[Matthew|Matthews]]                             1893-1897  Democrat
   James A. Mount                              1897-1901  Republican
   Winfield T. Durbin                          1901-1905      "
-  J. Frank Hanly                              1905-1909      "
+  J. [[Frank]] Hanly                              1905-1909      "
   Thomas R. Marshall                          1909-      Democrat
 
   BIBLIOGRAPHY.--There is a bibliography of Indiana history, by Isaac S.
@@ -811,7 +811,7 @@ Republican presidential electors were chosen.
   history and institutions. J. B. Dillon's _History of Indiana_
   (Indianapolis, 1859) is the most authoritative account of the early
   history to 1816. J. P. Dunn's _Indiana, a Redemption from Slavery_
-  (Boston, 1888) in the "American Commonwealth" series, as its secondary
+  ([[Boston]], 1888) in the "American [[Commonwealth]]" series, as its secondary
   title indicates, is devoted principally to the struggle over the
   provision in the Ordinance of 1787 prohibiting slavery. For the Civil
   War period consult J. A. Woodburn, "Party Politics in Indiana during
@@ -819,23 +819,23 @@ Republican presidential electors were chosen.
   Association_ (Washington, 1902); W. H. H. Terrell, "Indiana in the War
   of the Rebellion" (Official _Report_ of the Adjutant-General
   Indianapolis, 1869); and E. B. Pitman, _Trials for Treason at
-  Indianapolis_ (Indianapolis, 1865). See also De W. C. Goodrich and C.
+  Indianapolis_ (Indianapolis, 1865). See also De W. C. [[Goodrich]] and C.
   R. Tuttle, _Illustrated History of the State of Indiana_ (Chicago,
   1875); the same, revised and enlarged by W. S. Haymond (Indianapolis,
   1879); O. H. Smith, _Early Indiana Trials and Sketches_ (Indianapolis,
-  1858); and Nathaniel Bolton, "Early History of Indianapolis and
+  1858); and Nathaniel [[Bolton]], "Early History of Indianapolis and
   Central Indiana," in Indiana Historical Society _Publications_, No. 5.
   "The Executive Journal of Indiana Territory" has been reprinted in the
   Indiana Historical Society's _Publications_, vol. iii., 1900. For
   government and administration see E. L. Hendricks, _History and
   Government of Indiana_ (New York, 1908), _The Legislative and State
-  Manual of Indiana_ (Indianapolis, published biennially by the State
+  [[Manual]] of Indiana_ (Indianapolis, published biennially by the State
   librarian), _Constitutions of 1816 and 1851 of the State of Indiana
   with Amendments_ (Indianapolis, 1897), _School Law of Indiana, with
   Annotations_ (Indianapolis, 1904), and Wm. A. Rawles, _Centralizing
   Tendencies in the Administration of Indiana_ (New York and London,
-  1903), Columbia Univ. Press. "The New Municipal Code of Indiana" is
-  explained in an article by H. O. Stechhan in the _Forum_
+  1903), [[Columbia]] Univ. Press. "The New Municipal Code of Indiana" is
+  explained in an article by H. O. Stechhan in the _[[Forum]]_
   (October-December, 1905). For education see Fassett A. Cotton's
   _Education in Indiana_ (Indianapolis, 1905), and James A. Woodburn,
   _Higher Education in Indiana_ (Washington, 1891), U.S. Documents,

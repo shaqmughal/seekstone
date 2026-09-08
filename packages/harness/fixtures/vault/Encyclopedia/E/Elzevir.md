@@ -21,18 +21,18 @@ appeared in 1592, was long regarded as the earliest Elzevir, but the
 first is now known to be _Drusii Ebraicarum quaestionum ac responsionum
 libri duo_, which was produced in 1583. In all he published about 150
 works. He died on the 4th of February 1617. Of his five sons, Matthieu,
-Louis, Gilles, Joost and Bonaventure, who all adopted their father's
+Louis, [[Gill|Gilles]], Joost and Bonaventure, who all adopted their father's
 profession, Bonaventure, who was born in 1583, is the most celebrated.
 He began business as a printer in 1608, and in 1626 took into
 partnership Abraham, a son of Matthieu, born at Leiden in 1592. Abraham
 died on the 14th of August 1652, and Bonaventure about a month
 afterwards. The fame of the Elzevir editions rests chiefly on the works
 issued by this firm. Their Greek and Hebrew impressions are considered
-inferior to those of the Aldi and the Estiennes, but their small
+inferior to those of the Aldi and the [[Estienne|Estiennes]], but their small
 editions in 12mo, 16mo and 24mo, for elegance of design, neatness,
 clearness and regularity of type, and beauty of paper, cannot be
 surpassed. Especially may be mentioned the two editions of the New
-Testament in Greek ([Greek: Hê kainê diathêkê], _Novum Testamentum_,
+Testament in Greek ([Greek: Hê [[Kain|kain]]ê diathêkê], _Novum Testamentum_,
 &c.), published in 1624 and 1633, of which the latter is the more
 beautiful and the more sought after; the _Psalterium Davidis_, 1653;
 _Virgilii opera_, 1636; _Terentii comediae_, 1635; but the works which
@@ -41,16 +41,16 @@ authors on history and politics in 24mo, known under the name of the
 _Petites Républiques_, and their series of Latin, French and Italian
 classics in small 12mo. Jean, son of Abraham, born in 1622, had since
 1647 been in partnership with his father and uncle, and when they died
-Daniel, son of Bonaventure, born in 1626, joined him. Their partnership
+[[Daniel]], son of Bonaventure, born in 1626, joined him. Their partnership
 did not last more than two years, and after its dissolution Jean carried
 on the business alone till his death in 1661. In 1654 Daniel joined his
-cousin Louis (the third of that name and son of the second Louis), who
+[[Cousin|cousin]] Louis (the third of that name and son of the second Louis), who
 was born in 1604, and had established a printing press at Amsterdam in
 1638. From 1655 to 1666 they published a series of Latin classics in
 8vo, _cum notis variorum_; _Cicero_ in 4to; the _Etymologicon linguae
-Latinae_; and a magnificent _Corpus juris civilis_ in folio, 2 vols.,
+Latinae_; and a magnificent _Corpus juris [[Civilis|civilis]]_ in [[Folio|folio]], 2 vols.,
 1663. Louis died in 1670, and Daniel in 1680. Besides Bonaventure,
-another son of Matthieu, Isaac, born in 1593, established a printing
+another son of Matthieu, [[Isaac]], born in 1593, established a printing
 press at Leiden, where he carried on business from 1616 to 1625; but
 none of his editions attained much fame. The last representatives of the
 Elzevir printers were Peter, grandson of Joost, who from 1667 to 1675
@@ -63,10 +63,10 @@ simply the words _Apud Elzeverios_, or _Ex officina Elseveriana_, under
 the _rubrique_ of the town. But the majority bear one of their special
 devices, four of which are recognized as in common use. Louis Elzevir,
 the founder of the family, usually adopted the arms of the United
-Provinces, an eagle on a cippus holding in its claws a sheaf of seven
-arrows, with the motto _Concordia res parvae crescunt_. About 1620 the
+Provinces, an [[Eagle|eagle]] on a [[Cippus|cippus]] holding in its claws a sheaf of seven
+arrows, with the motto _[[Concordia]] res parvae crescunt_. About 1620 the
 Leiden Elzevirs adopted a new device, known as "the solitary," and
-consisting of an elm tree, a fruitful vine and a man alone, with a motto
+consisting of an [[Elm|elm]] tree, a fruitful vine and a man alone, with a motto
 _Non solus_. They also used another device, a palm tree with the motto,
 _Assurgo pressa_. The Elzevirs of Amsterdam used for their principal
 device a figure of Minerva with owl, shield and olive tree, and the
@@ -80,11 +80,11 @@ all kinds which came from the presses of the Elzevirs is given by
 Willems as 1608; there were also many forgeries.
 
   See "Notice de la collection d'auteurs latins, français, et italiens,
-  imprimée de format petit en 12, par les Elsévier," in Brunet's _Manuel
+  imprimée de format petit en 12, par les Elsévier," in Brunet's _[[Manuel]]
   du libraire_ (Paris, 1820); A. de Reume, _Recherches historiques,
   généalogiques, et bibliographiques sur les Elsévier_ (Brussels, 1847);
   Paul Dupont, _Histoire de l'imprimerie_, in two vols. (Paris, 1854);
-  Pieters, _Annales de l'imprimerie Elsévirienne_ (2nd ed., Ghent,
+  Pieters, _Annales de l'imprimerie Elsévirienne_ (2nd ed., [[Ghent]],
   1858); Walther, _Les Elséviriennes de la bibliothèque impériale de
   St-Pétersbourg_ (St Petersburg, 1864); Alphonse Willems, _Les
   Elzévier_ (Brussels, 1880), with a history of the Elzevir family and
@@ -92,7 +92,7 @@ Willems as 1608; there were also many forgeries.
   description of all works printed by them, their various typographical
   marks, and a plate illustrating the types used by them; Kelchner,
   _Catalogus librorum officinae Elsevirianae_ (Paris, 1880); Frick, _Die
-  Elzevirschen Republiken_ (Halle, 1892); Berghman, _Études sur la
+  Elzevirschen Republiken_ ([[Halle]], 1892); Berghman, _Études sur la
   bibliographie Elzévirienne_ (Stockholm, 1885), and _Nouvelles études,
   &c._ (_ib._ 1897).
 

@@ -8,7 +8,7 @@ tags: [medicine, magnetism]
 # Doddridge
 
 DODDRIDGE, PHILIP (1702-1751), English Nonconformist divine, was born in
-London on the 26th of June 1702. His father, Daniel Doddridge, was a
+London on the 26th of June 1702. His father, [[Daniel]] Doddridge, was a
 London merchant, and his mother the orphan daughter of the Rev. John
 Bauman, a Lutheran clergyman who had fled from Prague to escape
 religious persecution, and had held for some time the mastership of the
@@ -22,7 +22,7 @@ offers which would have led him into the Anglican ministry or the bar,
 and in 1719 entered the very liberal academy for dissenters at Kibworth
 in Leicestershire, taught at that time by the Rev. John Jennings, whom
 Doddridge succeeded in the ministry at that place in 1723, declining
-overtures from Coventry, Pershore and London (Haberdashers' Hall). In
+overtures from [[Coventry]], Pershore and London (Haberdashers' Hall). In
 1729, at a general meeting of Nonconformist ministers, he was chosen to
 conduct the academy established in that year at Market Harborough. In
 the same year he received an invitation from the independent
@@ -32,7 +32,7 @@ many engagements and bulky correspondence interfered seriously with his
 pulpit work, and with the discipline of his academy, where he had some
 200 students to whom he lectured on philosophy and theology in the
 mathematical or Spinozistic style. In 1751 his health, which had never
-been good, broke down, and he sailed for Lisbon on the 30th of September
+been good, broke down, and he sailed for [[Lisbon]] on the 30th of September
 of that year; but the change was unavailing, and he died there on the
 26th of October. His popularity as a preacher is said to have been
 chiefly due to his "high susceptibility, joined with physical advantages
@@ -55,7 +55,7 @@ him the degree of D.D.
   Diary_, in 5 vols., by his grandson, John Doddridge Humphreys (1829).
   The best life is Stanford's _Philip Doddridge_ (1880). Doddridge's
   academy is now represented by New College, Hampstead, in the library
-  of which there is a large collection of his manuscripts.
+  of which there is a large collection of his [[Manuscript|manuscripts]].
 
 ## References
 

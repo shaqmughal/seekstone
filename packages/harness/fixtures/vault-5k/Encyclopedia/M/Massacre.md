@@ -14,7 +14,7 @@ Ger. _matsken_, to cut in pieces; cf. mod. Ger. _metzeln_, to massacre.
 
 MASSAGE. The word _massage_ has of late years come into general use to
 signify the method of treating disease or other physical conditions by
-manipulating the muscles and joints. According to Littré the word is
+manipulating the muscles and [[Joints|joints]]. According to Littré the word is
 derived from the Arabic _mass_, and has the specific meaning of
 "pressing the muscular parts of the body with the hands, and exercising
 traction on the joints in order to give suppleness and stimulate
@@ -32,7 +32,7 @@ professional class; the Swedish gymnastic system instituted by Pehr
 Henrik Ling is derived from the book of Cong-Fou, the bonze of Tao-Sse.
 Hippocrates describes and enjoins the use of manipulation, especially in
 cases of stiff joints, and he was followed by other Greek physicians.
-Oribasius gives an account of the application of friction with the bare
+Oribasius gives an account of the application of [[Friction|friction]] with the bare
 hands, which exactly corresponds with the modern practice of massage. It
 is worthy of note that the treatment, after being held in high esteem by
 the leading Greek physicians, fell into disrepute with the profession,
@@ -85,7 +85,7 @@ the general term "manipulation" to cover all the movements mentioned;
 but this is a verbal subtlety of no importance. It is evident that alike
 among the Greeks, the Orientals, and savage races, the two processes
 have always been applied as part of the same treatment, and the
-definition quoted above from Littré goes to show that the word "massage"
+[[Definition|definition]] quoted above from Littré goes to show that the word "massage"
 is properly applied to both.
 
   Rubbing has been subdivided into several processes, namely (1)
@@ -103,16 +103,16 @@ is properly applied to both.
   along the limbs and the lower part of the body, downwards from the
   head. The effects of the increased physiological activity set up are
   numerous. Functional ability is restored to exhausted muscles by the
-  removal of fatigue products and the induction of a fresh blood supply;
+  removal of fatigue products and the [[Induction|induction]] of a fresh blood supply;
   congestion is relieved; collections of serous fluid are dispersed;
-  secretion and excretion are stimulated; local and general nutrition
+  secretion and [[Excretion|excretion]] are stimulated; local and general nutrition
   are improved. These effects indicate the conditions in which massage
   may be usefully applied. Such are various forms of paralysis and
   muscular wasting, chronic and subacute affections of the joints,
   muscular rheumatism, sciatica and other neuralgias, local congestions,
   sprains, contractions, insomnia and some forms of headache, in which
   downward stroking from the head relieves cerebral congestion. It has
-  also been used in anaemia, hysteria and "neurasthenia," disorders of
+  also been used in anaemia, [[Hysteria|hysteria]] and "neurasthenia," disorders of
   the female organs, melancholia and other forms of insanity,
   morphinism, obesity, constipation, inflammatory and other affections
   of the eye, including even cataract. General massage is sometimes
@@ -124,7 +124,7 @@ is properly applied to both.
   to ignore it altogether. Of its therapeutic value, when judiciously
   used, there is no doubt, but it is for the physician or surgeon to say
   when and how it should be applied. Affections to which it is not
-  applicable are fevers, pregnancy, collections of pus, acute
+  applicable are [[Fever|fevers]], pregnancy, collections of pus, acute
   inflammation of the joints, inflamed veins, fragile arteries, wounds
   of the skin and, generally speaking, those conditions in which it is
   not desirable to increase the circulation, or in which the patient

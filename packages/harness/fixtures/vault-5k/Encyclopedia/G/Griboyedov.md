@@ -32,14 +32,14 @@ disappointment he returned to Georgia, made himself useful by his
 linguistic knowledge to his relative Count Paskievitch-Erivansky during
 a campaign against Persia, and was sent to St Petersburg with the treaty
 of 1828. Brilliantly received there, he thought of devoting himself to
-literature, and commenced a romantic drama, _A Georgian Night_. But he
+literature, and commenced a romantic [[Drama|drama]], _A Georgian Night_. But he
 was suddenly sent to Persia as minister-plenipotentiary. Soon after his
 arrival at Teheran a tumult arose, caused by the anger of the populace
 against some Georgian and Armenian captives--Russian subjects--who had
 taken refuge in the Russian embassy. It was stormed, Griboyedov was
 killed (February 11, 1829), and his body was for three days so
 ill-treated by the mob that it was at last recognized only by an old
-scar on the hand, due to a wound received in a duel. It was taken to
+scar on the hand, due to a wound received in a [[Duel|duel]]. It was taken to
 Tiflis, and buried in the monastery of St David. There a monument was
 erected to his memory by his widow, to whom he had been but a few months
 married.

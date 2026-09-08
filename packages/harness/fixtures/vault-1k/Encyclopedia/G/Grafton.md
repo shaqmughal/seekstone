@@ -43,7 +43,7 @@ but in some cases he gives detailed accounts of contemporary events. His
 name frequently appears in the records of St Bartholomew's and Christ's
 hospitals, and in 1553 he was treasurer-general of the hospitals of King
 Edward's foundation. In 1553-1554 and 1556-1557 he represented the City
-in Parliament, and in 1562-1563 he sat for Coventry.
+in Parliament, and in 1562-1563 he sat for [[Coventry]].
 
   An elaborate account of Grafton was written in 1901 by Mr J. A.
   Kingdon under the auspices of the Grocers' Company, with the title

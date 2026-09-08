@@ -30,7 +30,7 @@ kind in the gardens. The botanical gardens at Kew were thrown open to
 the public in 1841 under the directorate of Sir William Hooker.
 Including the arboretum, their total area did not then exceed 11 acres.
 Four years later the pleasure grounds and gardens at Kew occupied by the
-king of Hanover were given to the nation and placed under the care of
+king of [[Hanover]] were given to the nation and placed under the care of
 Sir William for the express purpose of being converted into an
 arboretum. Hooker rose to the occasion and, zealously reinforced by his
 son and successor, Sir Joseph, established a collection which rapidly
@@ -43,7 +43,7 @@ Garden in Edinburgh and the Glasnevin Garden in Dublin. The collection
 of trees in the Botanic Garden at Cambridge is also one of respectable
 proportions. There is a small but very select collection of trees at
 Oxford, the oldest botanical garden in Great Britain, which was founded
-in 1632. In the United States the Arnold Arboretum at Boston ranks with
+in 1632. In the United States the Arnold Arboretum at [[Boston]] ranks with
 Kew for size and completeness. It takes its name from its donor, the
 friend of Emerson. It was originally a well-timbered park, which, by
 later additions, now covers 222 acres. Practically, it forms part of the

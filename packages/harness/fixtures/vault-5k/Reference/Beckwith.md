@@ -17,8 +17,8 @@ In 1802 he was promoted major, and in the following year
 lieutenant-colonel. Beckwith was one of the favourite officers of Sir
 John Moore in the famous camp of Shorncliffe, and aided that general in
 the training of the troops which afterwards became the Light Division.
-In 1806 he served in the expedition to Hanover, and in 1807 in that
-which captured Copenhagen. In 1806 the Rifles were present at Vimeira,
+In 1806 he served in the expedition to [[Hanover]], and in 1807 in that
+which captured [[Copenhagen]]. In 1806 the Rifles were present at Vimeira,
 and in the campaign of Sir John Moore they bore the brunt of the
 rearguard fighting. Beckwith took part in the great march of Craufurd to
 the field of Talavera, in the advanced guard fights on the Coa in 1810
@@ -55,8 +55,8 @@ condition influenced him so strongly that he settled in the valleys of
 Piedmont. The rest of his life was spent in the self-imposed task of
 educating the Waldenses, for whom he established and maintained a large
 number of schools, and in reviving the earlier faith of the people. In
-1848 King Charles Albert made him a knight of the order of St Maurice
-and St Lazarus. He was promoted colonel in the British army in 1837 and
+1848 King Charles Albert made him a [[Knight|knight]] of the order of St [[Maurice]]
+and St [[Lazarus]]. He was promoted colonel in the British army in 1837 and
 major-general in 1846. He died on the 19th of July 1862 at La Torre,
 Piedmont.
 

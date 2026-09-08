@@ -10,11 +10,11 @@ the Laocoon are among the priests of Athena Lindia, whose names are
 recorded by inscriptions. Some early temples have also been found, and
 inscriptions cut on the rock recording the sacrifices known as [Greek:
 Boukatia]. There are also traces of a theatre and rock-cut tombs. On the
-Acropolis is a castle, built by the knights in the 14th century, and
+Acropolis is a castle, built by the [[Knight|knights]] in the 14th century, and
 many houses in the town show work of the same date.
 
-  See RHODES; also Chr. Blinkenberg and K. F. Kinch, _Exploration arch.
-  de Rhodes_ (Copenhagen, 1904-1907).
+  See RHODES; also Chr. Blinkenberg and K. F. Kinch, _Exploration [[Arch|arch]].
+  de Rhodes_ ([[Copenhagen]], 1904-1907).
 
 ## See also
 

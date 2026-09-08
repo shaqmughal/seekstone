@@ -8,11 +8,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Goss"
 
 # Goss
 
-GOSS, SIR JOHN (1800-1880), English composer, was born at Fareham,
-Hampshire, on the 27th of December 1800. He was elected a chorister of
+GOSS, SIR JOHN (1800-1880), English composer, was born at [[Fareham]],
+[[Hampshire]], on the 27th of December 1800. He was elected a chorister of
 the Chapel Royal in 1811, and in 1816, on the breaking of his voice,
-became a pupil of Attwood. A few early compositions, some for the
-theatre, exist, and some glees were published before 1825. He was
+became a pupil of [[Attwood]]. A few early compositions, some for the
+theatre, exist, and some [[Glee|glees]] were published before 1825. He was
 appointed organist of St Luke's, Chelsea, in 1824, and in 1838 became
 organist of St Paul's in succession to Attwood; he kept the post until
 1872, when he resigned and was knighted. His position in the London

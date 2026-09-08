@@ -20,7 +20,7 @@ his ardour in defence of the creed formulated at Nicaea.
 
 An anonymous life of Ephraim was written not long after his death in
 373. The biography has come down to us in two recensions. But in neither
-form is it free from later interpolation; and its untrustworthiness is
+form is it free from later [[Interpolation|interpolation]]; and its untrustworthiness is
 shown by its conflicting with data supplied by his own works, as well as
 by the manner in which it is overloaded with miraculous events. The
 following is a probable outline of the main facts of Ephraim's life. He
@@ -28,7 +28,7 @@ was born in the reign of Constantine (perhaps in 306) at or near
 Nisibis. His father was a pagan, the priest of an idol called Abnil or
 Abizal.[1] During his boyhood Ephraim showed a repugnance towards
 heathen worship, and was eventually driven by his father from the home.
-He became a ward and disciple of the famous Jacob--the same who attended
+He became a ward and [[Disciple|disciple]] of the famous Jacob--the same who attended
 the Council of Nicaea as bishop of Nisibis, and died in 338. At his
 hands Ephraim seems to have received baptism at the age of 18 or of 28
 (the two recensions differ on this point), and remained at Nisibis till
@@ -40,10 +40,10 @@ city during the war begun by Shapur II. in 337, in the course of which
 Nisibis was thrice unsuccessfully besieged by the Persians (in 338, 346
 and 350). The statements of his biographer to this effect accord with
 the impression we derive from his own poems (_Carmina Nisibena_, 1-21).
-His intimate relations with Bishop Jacob were continued with the three
+His intimate relations with Bishop [[Jacob]] were continued with the three
 succeeding bishops--Babu (338-?349), Vologaeses (?349-361), and
 Abraham--on all of whom he wrote encomia. The surrender of the city in
-363 to the Persians resulted in a general exodus of the Christians, and
+363 to the Persians resulted in a general [[Exodus|exodus]] of the Christians, and
 Ephraim left with the rest. After visiting Amid (Diarbekr) he proceeded
 to Edessa, and there settled and spent the last ten years of his life.
 He seems to have lived mainly as a hermit outside the city: his time was
@@ -52,7 +52,7 @@ is possible that during these years he paid a visit to Basil at
 Caesarea. Near the end of his life he rendered great public service by
 distributing provisions in the city during a famine. The best attested
 date for his death is the 9th of June 373. It is clear that this
-chronology leaves no room for the visit to Egypt, and the eight years
+[[Chronology|chronology]] leaves no room for the visit to Egypt, and the eight years
 spent there in refuting Arianism, which are alleged by his biographer.
 Perhaps, as has been surmised, there may be confusion with another
 Ephraim. Nor can he have written the funeral panegyric on Basil who
@@ -63,7 +63,7 @@ lifetime, or at least soon after he died. His biographer's statement as
 to his habits and appearance is worth quoting, and is probably
 true:--"From the time he became a monk to the end of his life his only
 food was barley bread and sometimes pulse and vegetables: his drink was
-water. And his flesh was dried upon his bones, like a potter's sherd.
+water. And his flesh was dried upon his [[Bone|bones]], like a potter's sherd.
 His clothes were of many pieces patched together, the colour of dirt. In
 stature he was little; his countenance was always sad, and he never
 condescended to laughter. And he was bald and beardless."
@@ -109,7 +109,7 @@ prolix and wearisome in the extreme, and are distinguished by few
 striking poetic beauties. And so far as they are made the vehicle of
 reasoning, their efficiency is seriously hampered by their poetic form.
 On the other hand, it is fair to remember that the taste of Ephraim's
-countrymen in poetry was very different from ours. As Duval remarks:
+countrymen in poetry was very different from ours. As [[Duval]] remarks:
 "quant a la prolixite de saint Ephrem que nous trouvons parfois
 fastidieuse, on ne peut la condamner sans tenir compte du gout des
 Syriens qui aimaient les repetitions et les developpements de la meme
@@ -127,10 +127,10 @@ commentators. His commentary on the Gospels is of great importance in
 connexion with the textual history of the N.T., for the text on which he
 composed it was that of the Diatessaron. The Syriac original is lost:
 but the ancient Armenian version survives, and was published at Venice
-in 1836 along with Ephraim's commentary on the Pauline epistles (also
+in 1836 along with Ephraim's commentary on the Pauline [[Epistle|epistles]] (also
 only extant in Armenian) and some other works. A Latin version of the
 Armenian Diatessaron commentary has been made by Aucher and Mosinger
-(Venice, 1876). Using this version as a clue, J.R. Harris[2] has been
+(Venice, 1876). Using this version as a clue, J.R. [[Harris]][2] has been
 able to identify a number of Syriac quotations from or references to
 this commentary in the works of Isho'dadh, Bar-Kepha (Severus),
 Bar-salibi and Barhebraeus. Although, as Harris points out, it is
@@ -167,10 +167,10 @@ history of the third siege of Nisibis in 350.
   Burkitt, _Ephraim's Quotations_, pp. 4 sqq.; (2) _Carmina Nisibena_,
   edited with a Latin translation by G. Bickell (Leipzig, 1866); (3)
   _Hymni et sermones_, edited with a Latin translation by T.J. Lamy (4
-  vols., Malines, 1882-1902). Many selected homilies have been edited or
+  vols., [[Malines]], 1882-1902). Many selected homilies have been edited or
   translated by Overbeck, Zingerle and others (cf. Wright, _Short
   History_, pp. 35 sqq.); a selection of the _Hymns_ was translated by
-  H. Burgess, _Select Metrical Hymns of Ephrem Syrus_ (1853). Of the two
+  H. [[Burges|Burgess]], _Select Metrical Hymns of Ephrem Syrus_ (1853). Of the two
   recensions of Ephraim's biography, one was edited in part by J.S.
   Assemani (B.O. i. 26 sqq.) and in full by S.E. Assemani in the Roman
   edition (iii. pp. xxiii.-lxiii.); the other by Lamy (ii. 5-90) and

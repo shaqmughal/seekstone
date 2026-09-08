@@ -10,7 +10,7 @@ tags: [theology, art]
 FELT (cognate with Ger. _Filz_, Du. _vilt_, Swed. and Dan. _filt_; the
 root is unknown; the word has given Med. Lat. _filtrum_, "filter"), a
 fabric produced by the "matting" or "felting" together of fibrous
-materials such as wools, hairs, furs, &c. Most textile fibres (see
+materials such as wools, hairs, [[Fur|furs]], &c. Most textile fibres (see
 FIBRES) possess the quality of matting to some extent, but wools, furs
 and some few hairs are the only fibres which can be felted
 satisfactorily. It is probable that the quality of felting must be
@@ -25,7 +25,7 @@ high degree are naturally selected, carefully scoured so that the
 felting quality is not seriously damaged, spun into woollen yarn
 possessing the necessary fibre arrangement and twist, woven into cloth
 of such a character that subsequently satisfactory shrinking or felting
-may be effected, and finally scoured, milled in the stocks of machine of
+may be effected, and finally scoured, milled in the stocks of [[Machine|machine]] of
 both, dyed and finished on the lines of an ordinary woven fabric. The
 lighter styles of woven felts may be composed of a single cloth only,
 but for the heavier styles two or more cloths are woven, one on top of
@@ -81,7 +81,7 @@ reduction in width, length and thickness is remarkable. This may be
 controlled within certain limits. The principal styles of ordinary
 fibre-felts are--linings for coats, furniture and rubber shoes;
 saddlery; seatings for carriages and pews; carpets, surrounds and
-under-felts for carpets; mantles, dresses and table-cloths;
+under-felts for carpets; mantles, [[Dress|dresses]] and table-cloths;
 felt-slippers; mattress felts; chest-preservers, and shoulder-pads;
 steam-engine packing, motor-car and anti-vibration felts, shipbuilding
 felts; drawing-roller felts and gun-wad felts.

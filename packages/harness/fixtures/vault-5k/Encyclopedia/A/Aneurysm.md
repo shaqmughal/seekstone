@@ -19,12 +19,12 @@ tissues which thus form the aneurysmal sac.
 The division, of aneurysms into two classes, _true_ and _false_, is
 unsatisfactory. On the face of it, an aneurysm which is false is not
 an aneurysm, any more than a false bank-note is legal tender. A better
-classification is into _spontaneous_ and _traumatic_. The man who has
+[[Classification|classification]] is into _spontaneous_ and _traumatic_. The man who has
 chronic inflammation of a large artery, the result, for instance, of
 gout, arduous, straining work, or kidney-disease, and whose artery
 yields under cardiac pressure, has a _spontaneous_ aneurysm; the
 barman or window-cleaner who has cut his radial artery, the soldier
-whose brachial or femoral artery has been bruised by a rifle bullet
+whose brachial or femoral artery has been bruised by a rifle [[Bullet|bullet]]
 or grazed by a bayonet, and the boy whose naked foot is pierced by
 a sharp nail, are apt to be the subjects of _traumatic_ aneurysm.
 In those aneurysms which are a _saccular_ bulging on one side of the

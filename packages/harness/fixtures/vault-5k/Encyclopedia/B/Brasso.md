@@ -27,7 +27,7 @@ erected in 1553, and constitutes the principal remaining fragment of the
 old fortifications with which Brasso was encircled. The most interesting
 building in the town is the Protestant church, popularly called the
 Black Church, owing to its smoke-stained walls, caused by the great fire
-of 1689. This church, the finest in Transylvania, is a Gothic edifice
+of 1689. This church, the finest in Transylvania, is a [[Gothic]] edifice
 with traces of Romanesque influence, and was built in 1385-1425. In the
 square in front of it is the statue of Johannes Honterus (1498-1549),
 "the apostle of Transylvania," who was born in Brasso, and established
@@ -65,7 +65,7 @@ flourishing town. Through the activity of Honterus it played a leading
 part in the introduction of the Reformation in Transylvania in the 16th
 century. The town was almost completely destroyed by the big fire of
 1689. During the revolution of 1848-1849 it was besieged by the
-Hungarians under General Bern from March to July 1849, and several
+Hungarians under General [[Bern]] from March to July 1849, and several
 engagements between the Austrian and the Hungarian troops took place in
 its neighbourhood.
 

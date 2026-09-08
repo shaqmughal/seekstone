@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Finsbury"
 
 FINSBURY, a central metropolitan borough of London, England, bounded N.
 by Islington, E. by Shoreditch, S. by the city of London and W. by
-Holborn and St Pancras. Pop. (1901) 101,463. The principal thoroughfares
+[[Holborn]] and St Pancras. Pop. (1901) 101,463. The principal thoroughfares
 are Pentonville Road, from King's Cross east to the Angel, Islington,
 continuing E. and S. in City Road and S. again to the City in Moorgate
 Street; Clerkenwell Road and Old Street, crossing the centre from W. to
@@ -29,7 +29,7 @@ drained in the 16th century and subsequently laid out as public grounds.
 It was a frequent resort of Pepys, who mentions its houses of
 entertainment and the wrestling and other pastimes carried on, also that
 it furnished a refuge for many of those whose houses were destroyed in
-the fire of London in 1666. Bookstalls and other booths were numerous at
+the fire of London in 1666. Bookstalls and other [[Booth|booths]] were numerous at
 a somewhat later date. The borough includes the parish of Clerkenwell
 (q.v.), a locality of considerable historic interest, including the
 former priory of St John, Clerkenwell, of which the gateway and other
@@ -39,14 +39,14 @@ first, originally a Carthusian monastery, subsequently a hospital and a
 school out of which grew the famous public school at Godalming. Bunhill
 Fields, City Road, was used by the Dissenters as a burial-place from the
 middle of the 17th century until 1832. Among eminent persons interred
-here are John Bunyan, Daniel Defoe, Susanna, mother of John and Charles
+here are John Bunyan, [[Daniel]] [[Defoe]], Susanna, mother of John and Charles
 Wesley, and George Fox, founder of the Society of Friends. A
 neighbouring chapel is intimately associated with the Wesleys, and the
 house of John Wesley is opened as a museum bearing his name. Many
 victims of the plague were buried in a pit neighbouring to these fields,
 near the junction of Goswell Road and Old Street. To the south of the
 fields lies the Artillery Ground, the training ground of the Honourable
-Artillery Company, so occupied since 1641, with barracks and armoury.
+Artillery Company, so occupied since 1641, with [[Barracks|barracks]] and armoury.
 Sadler's Wells theatre, Rosebery Avenue, dating as a place of
 entertainment from 1683, preserves the name of a fashionable medicinal
 spring, music room and theatre, the last most notable in its connexion

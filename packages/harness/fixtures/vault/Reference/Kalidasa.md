@@ -9,16 +9,16 @@ Kalidasa or any other Sanskrit author. Native tradition places him in
 the 1st century B.C.; but the evidence on which this belief rests is
 worthless. The works of the poet contain no allusions by which their
 date can be directly determined; yet the extremely corrupt form of the
-Prakrit or popular dialects spoken by the women and the subordinate
+Prakrit or popular [[Dialect|dialects]] spoken by the women and the subordinate
 characters in his plays, as compared with the Prakrit in inscriptions of
-ascertained age, led such authorities as Weber and Lassen to agree in
+ascertained age, led such authorities as Weber and [[Lassen]] to agree in
 fixing on the 3rd century A.D. as the approximate period to which the
 writings of Kalidasa should be referred.
 
 He was one of the "nine gems" at the court of King Vikramaditya or
 Vikrama, at Ujjain, and the tendency is now to regard the latter as
 having flourished about A.D. 375; others, however, place him as late as
-the 6th century. The richness of his creative fancy, his delicacy of
+the 6th century. The richness of his creative [[Fancy|fancy]], his delicacy of
 sentiment, and his keen appreciation of the beauties of nature, combined
 with remarkable powers of description, place Kalidasa in the first rank
 of Oriental poets. The effect, however, of his productions as a whole is
@@ -29,7 +29,7 @@ contrast very unfavourably with the more genuine poetry of the Vedas.
 Though a true poet, he is wanting in that artistic sense of proportion
 so characteristic of the Greek mind, which exactly adjusts the parts to
 the whole, and combines form and matter into an inseparable poetic
-unity. Kalidasa's fame rests chiefly on his dramas, but he is also
+unity. Kalidasa's fame rests chiefly on his [[Drama|dramas]], but he is also
 distinguished as an epic and a lyric poet.
 
   He wrote three plays, the plots of which all bear a general
@@ -40,9 +40,9 @@ distinguished as an epic and a lyric poet.
   Of these, _Sakuntala_ is that which has always justly enjoyed the
   greatest fame and popularity. The unqualified praise bestowed upon it
   by Goethe sufficiently guarantees its poetic merit. There are two
-  recensions of the text in India, the Bengali and the Devanagari, the
+  recensions of the text in India, the [[Bengali]] and the Devanagari, the
   latter being generally considered older and purer. _Sakuntala_ was
-  first translated into English by Sir William Jones (Calcutta, 1789),
+  first translated into English by Sir William Jones ([[Calcutta]], 1789),
   who used the Bengali recension. It was soon after translated into
   German by G. Forster (1791; new ed. Leipzig, 1879). An edition of the
   Sanskrit original, with French translation, was published by A. L.
@@ -51,7 +51,7 @@ distinguished as an epic and a lyric poet.
   Other editions of the Bengali recension were published by Prema
   Chandra (Calcutta, 1860) for the use of European students and by R.
   Pischel (2nd ed., Kiel, 1886). The Devanagari recension was first
-  edited by O. Bohtlingk (Bonn, 1842), with a German translation. On
+  edited by O. Bohtlingk ([[Bonn]], 1842), with a German translation. On
   this were based the successive German translations of E. Meier
   (Tubingen, 1851) and E. Lobedanz (8th ed., Leipzig, 1892). The same
   recension has been edited by Dr C. Burkhard with a Sanskrit-Latin
@@ -64,11 +64,11 @@ distinguished as an epic and a lyric poet.
   The _Vikramorvasi_, or _Urvasi won by Valour_, abounds with fine
   lyrical passages, and is of all Indian dramas second only to
   _Sakuntala_ in poetic beauty. It was edited by R. Lenz (Berlin, 1833)
-  and translated into German by C. G. A. Hofer (Berlin, 1837), by B.
+  and translated into German by C. G. A. [[Hofer]] (Berlin, 1837), by B.
   Hirzel (1838), by E. Lobedanz (Leipzig, 1861) and F. Bollensen
   (Petersburg, 1845). There is also an English edition by Monier
   Williams, a metrical and prose version by Professor H. H. Wilson, and
-  a literal prose translation by Professor E. B. Cowell (1851). The
+  a literal prose translation by Professor E. B. [[Cowell]] (1851). The
   latest editions are by S. P. Pandit (Bombay, 1879) and K. B. Paranjpe
   (ibid. 1898).
 

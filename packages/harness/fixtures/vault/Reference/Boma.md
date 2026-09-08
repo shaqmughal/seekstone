@@ -10,7 +10,7 @@ Dutch merchants, but British, French and Portuguese firms also had
 factories there. No European power exercised sovereignty, though shadowy
 claims were from time to time put forward by Portugal (see AFRICA, S 5).
 In 1884 the natives of Boma granted a protectorate of their country to
-the International Association of the Congo.
+the [[International]] Association of the Congo.
 
   See H.M. Stanley, _The Congo and the Founding of its Free State_
   (London, 1885).

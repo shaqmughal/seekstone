@@ -7,9 +7,9 @@ topic: naturalists-studies
 # Glenelg
 
 GLENELG, CHARLES GRANT, BARON (1778-1866), eldest son of Charles Grant
-(q.v.), chairman of the directors of the East India Company, was born in
+(q.v.), chairman of the directors of the [[East India Company]], was born in
 India on the 26th of October 1778, and was educated at Magdalene
-College, Cambridge, of which he became a fellow in 1802. Called to the
+College, Cambridge, of which he became a [[Fellow|fellow]] in 1802. Called to the
 bar in 1807, he was elected member of parliament for the Inverness
 burghs in 1807, and having gained some reputation as a speaker in the
 House of Commons, he was made a lord of the treasury in December 1813,

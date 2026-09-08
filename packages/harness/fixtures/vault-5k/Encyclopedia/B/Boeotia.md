@@ -9,18 +9,18 @@ type: reference
 
 BOEOTIA, a district of central Greece, stretching from Phocis and Locris
 in the W. and N. to Attica and Megaris in the S. between the strait of
-Euboea and the Corinthian Gulf. This area, amounting in all to 1100 sq.
+[[Euboea]] and the Corinthian Gulf. This area, amounting in all to 1100 sq.
 m., naturally falls into two main divisions. In the north the basin of
 the Cephissus and Lake Copais lies between parallel mountain-walls
 continuing eastward the line of Parnassus in the extensive ridge of
-Helicon, the "Mountain of the Muses" (5470 ft.) and the east Locrian
+[[Helicon]], the "Mountain of the Muses" (5470 ft.) and the east Locrian
 range in Mts. Ptoum, Messapium and other smaller peaks. These ranges,
 which mostly lie close to the seaboard, form by their projecting spurs a
 narrow defile on the Phocian frontier, near the famous battlefield of
-Chaeroneia, and shut in Copais closely on the south between Coronea and
+[[Chaeroneia]], and shut in Copais closely on the south between Coronea and
 Haliartus. The north-east barrier was pierced by underground passages
 (_katavothra_) which carried off the overflow from Copais. The southern
-portion of the land forms a plateau which slopes to Mt. Cithaeron, the
+portion of the land forms a plateau which slopes to Mt. [[Cithaeron]], the
 frontier range between Boeotia and Attica. Within this territory the low
 ridge of Teumessus separates the plain of Ismenus and Dirce, commanded
 by the citadel of Thebes, from the upland plain of the Asopus, the only
@@ -36,7 +36,7 @@ were calculated to enhance its political importance. On the other hand
 the lack of good harbours hindered its maritime development; and the
 Boeotian nation, although it produced great men like Pindar,
 Epaminondas, Pelopidas and Plutarch, was proverbially as dull as its
-native air. But credit should be given to the people for their splendid
+native air. But [[Credit|credit]] should be given to the people for their splendid
 military qualities: both their cavalry and heavy infantry achieved a
 glorious record.
 
@@ -53,7 +53,7 @@ absorbed by these immigrants, and the Boeotians henceforth appear as a
 homogeneous nation. In historical times the leading city of Boeotia was
 Thebes, whose central position and military strength made it a suitable
 capital. It was the constant ambition of the Thebans to absorb the other
-townships into a single state, just as Athens had annexed the Attic
+townships into a single state, just as Athens had annexed the [[Attic]]
 communities. But the outlying cities successfully resisted this policy,
 and only allowed the formation of a loose federation which in early
 times seems to have possessed a merely religious character. While the
@@ -66,11 +66,11 @@ people is chiefly known as the producer of a type of geometric pottery
 similar to the Dipylon ware of Athens. About 519 the resistance of
 Plataea to the federating policy of Thebes led to the interference of
 Athens on behalf of the former; on this occasion, and again in 507, the
-Athenians defeated the Boeotian levy. During the Persian invasion of
+Athenians defeated the Boeotian [[Levy|levy]]. During the Persian invasion of
 480, while some of the cities fought whole-heartedly in the ranks of the
 patriots, Thebes assisted the invaders. For a time the presidency of the
 Boeotian League was taken away from Thebes, but in 457 the Spartans
-reinstated that city as a bulwark against Athenian aggression. Athens
+reinstated that city as a [[Bulwark|bulwark]] against Athenian aggression. Athens
 retaliated by a sudden advance upon Boeotia, and after the victory of
 Oenophyta brought under its power the whole country excepting the
 capital. For ten years the land remained under Athenian control, which
@@ -143,10 +143,10 @@ population (65,816 in 1907) is largely Albanian.
 AUTHORITIES.--Thuc. iv. 76-101; Xenophon, _Hellenica_, iii.-vii.;
 Strabo, pp. 400-412; Pausanias ix.; Theopompus (or Cratippus) in the
 _Oxyrhynchus Papyri_, vol. v. (London, 1908), No. 842, col. 12; W.M.
-Leake, _Travels in Northern Greece_, chs. xi.-xix. (London, 1835); H.F.
-Tozer, _Geography of Greece_ (London, 1873), pp. 233-238; W. Rhys
+[[Leake]], _Travels in Northern Greece_, chs. xi.-xix. (London, 1835); H.F.
+Tozer, _[[Geography]] of Greece_ (London, 1873), pp. 233-238; W. Rhys
 Roberts, _The Ancient Boeotians_ (Cambridge, 1895); E.A. Freeman.
-_Federal Government_ (ed. 1893, London), ch. iv. S 2; B.V. Head,
+_[[Federal Government]]_ (ed. 1893, London), ch. iv. S 2; B.V. Head,
 _Historia Numorum_, pp. 291 sqq. (Oxford, 1887); W. Larfeld, _Sylloge
 Inscriptionum Boeoticarum_ (Berlin, 1883). (See also THEBES.)
 

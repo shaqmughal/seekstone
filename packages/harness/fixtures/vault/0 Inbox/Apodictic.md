@@ -11,7 +11,7 @@ tags: [history, music]
 APODICTIC (Gr. [Greek: apodeiktikos], capable of demonstration), a
 logical term, applied to judgments which are necessarily true, as of
 mathematical conclusions. The term in Aristotelian logic is opposed to
-dialectic, as scientific proof to probable reasoning. Kant contrasts
+[[Dialectic|dialectic]], as scientific proof to probable reasoning. [[Kant]] contrasts
 apodictical with problematic and assertorical judgments.
 
 ## See also

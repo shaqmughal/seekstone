@@ -11,10 +11,10 @@ Islands, taking the place of his brother, who had been prevented by an
 illness. He reached Honolulu in March 1864, and was ordained priest in
 Whitsuntide of that year. Struck with the sad condition of the lepers,
 whom it was the practice of the Hawaian government to deport to the
-island of Molokai, he conceived an earnest desire to mitigate their lot,
+island of Molokai, he conceived an [[Earnest|earnest]] desire to mitigate their [[Lot|lot]],
 and in 1873 volunteered to take spiritual charge of the settlement at
 Molokai. Here he remained for the rest of his life, with occasional
-visits to Honolulu, until he became stricken with leprosy in 1885.
+visits to Honolulu, until he became stricken with [[Leprosy|leprosy]] in 1885.
 Besides attending to the spiritual needs of the lepers, he managed, by
 the labour of his own hands and by appeals to the Hawaian government, to
 improve materially the water-supply, the dwellings, and the victualling

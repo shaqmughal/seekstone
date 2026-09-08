@@ -10,22 +10,22 @@ id: 42-320
 
 GAUDEN, JOHN (1605-1662), English bishop and writer, reputed author of
 the _Eikon Basilike_, was born in 1605 at Mayland, Essex, where his
-father was vicar of the parish. Educated at Bury St Edmunds school and
+father was vicar of the parish. Educated at [[Bury]] St Edmunds school and
 at St John's College, Cambridge, he took his M.A. degree in 1625/6. He
 married Elizabeth, daughter of Sir William Russell of Chippenham,
-Cambridgeshire, and was tutor at Oxford to two of his wife's brothers.
+[[Cambridgeshire]], and was tutor at Oxford to two of his wife's brothers.
 He seems to have remained at Oxford until 1630, when he became vicar of
 Chippenham. His sympathies were at first with the parliamentary party.
-He was chaplain to Robert Rich, second earl of Warwick, and preached
+He was [[Chaplain|chaplain]] to Robert Rich, second earl of Warwick, and preached
 before the House of Commons in 1640. In 1641 he was appointed to the
 rural deanery of Bocking. Apparently his views changed as the
 revolutionary tendency of the Presbyterian party became more pronounced,
-for in 1648/9 he addressed to Lord Fairfax _A Religious and Loyal
+for in 1648/9 he addressed to Lord [[Fairfax]] _A Religious and Loyal
 Protestation_ ... against the proceedings of the parliament. Under the
-Commonwealth he faced both ways, keeping his ecclesiastical preferment,
+[[Commonwealth]] he faced both ways, keeping his ecclesiastical preferment,
 but publishing from time to time pamphlets on behalf of the Church of
 England. At the Restoration he was made bishop of Exeter. He immediately
-began to complain to Hyde, earl of Clarendon, of the poverty of the see,
+began to complain to Hyde, earl of [[Clarendon]], of the poverty of the see,
 and based claims for a better benefice on a certain secret service,
 which he explained on the 20th of January 1661 to be the sole invention
 of the _Eikon Basilike, The Pourtraicture of his sacred Majestie in his
@@ -79,7 +79,7 @@ would reconcile the conflicting evidence, that of those who saw Charles
 writing parts and read the MS. before publication, and the deliberate
 statements of Gauden.
 
-  See also the article by Richard Hooper in the _Dict. Nat. Biog._;
+  See also the article by Richard [[Hooper]] in the _Dict. Nat. Biog._;
   Christopher Wordsworth, _Who wrote Eikon Basilike?_ two letters
   addressed to the archbishop of Canterbury (1824), and _King Charles
   the First, the Author of Icon Basilikè_ (1828); H.J. Todd, _A Letter
@@ -111,11 +111,11 @@ shop of a brother-in-law at Cognac, and then under P.J. Robiquet at
 Paris, where from R.L. Desfontaines and L.C. Richard he acquired a
 knowledge of botany. In April 1810 he was appointed dispenser in the
 military marine, and from July 1811 to the end of 1814 he served at
-Antwerp. In 1817 he joined the corvette "Uranie" as pharmaceutical
+[[Antwerp]]. In 1817 he joined the corvette "Uranie" as pharmaceutical
 botanist to the circumpolar expedition commanded by D. de Freycinet. The
 wreck of the vessel on the Falkland Isles, at the close of 1819,
 deprived him of more than half the botanical collections he had made in
-various parts of the world. In 1830-1833 he visited Chile, Peru and
+various parts of the world. In 1830-1833 he visited [[Chile]], Peru and
 Brazil, and in 1836-1837 he acted as botanist to "La Bonite" during its
 circumnavigation of the globe. His theory accounting for the growth of
 plants by the supposed coalescence of elementary "phytons" involved him,

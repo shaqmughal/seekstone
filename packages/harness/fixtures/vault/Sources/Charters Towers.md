@@ -1,7 +1,7 @@
 # Charters Towers
 
 CHARTERS TOWERS, a mining town of Devonport county, Queensland,
-Australia, 82 m. by rail S.W. of Townsville and 820 m. direct N.N.W. of
+[[Australia]], 82 m. by rail S.W. of Townsville and 820 m. direct N.N.W. of
 Brisbane. It is the centre of an important gold-field, the reefs of
 which improve at the lower depths, the deepest shaft on the field being
 2558 ft. below the surface-level. The gold is of a very fine quality. An

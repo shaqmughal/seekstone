@@ -4,11 +4,11 @@ CACHOEIRA, an important inland town of Bahia, Brazil, on the Paraguassu
 river, about 48 m. from Sao Salvador, with which it is connected by
 river-boats. Pop. (1890) of the city, 12,607; of the municipality, 48,352.
 The Bahia Central railway starts from this point and extends S. of W. to
-Machado Portella, 161 m., and N. to Feira de Santa Anna, 28 m. Although
+Machado Portella, 161 m., and N. to Feira de Santa [[Anna]], 28 m. Although
 badly situated on the lower levels of the river (52 ft. above sea-level)
-and subject to destructive floods, Cachoeira is one of the most thriving
+and subject to destructive [[Flood|floods]], Cachoeira is one of the most thriving
 commercial and industrial centres in the state. It exports sugar and
-tobacco and is noted for its cigar and cotton factories.
+tobacco and is noted for its [[Cigar|cigar]] and cotton factories.
 
 CACTUS. This word, applied in the form of [Greek: Kaktos] by the ancient
 Greeks to some prickly plant, was adopted by Linnaeus as the name of a
@@ -23,7 +23,7 @@ group.
 
 [Illustration: FIG. 1.--Prickly Pear (_Opuntia vulgaris_). 1, Flower
 reduced; 2, Same in vertical section; 3, Flattened branch much reduced; 4,
-Horizontal plan of arrangement of flower.]
+Horizontal plan of arrangement of [[Flower|flower]].]
 
 The _Cacti_ may be described in general terms as plants having a woody
 axis, overlaid with thick masses of cellular tissue forming the fleshy
@@ -45,7 +45,7 @@ base, are developed small and at first inconspicuous scales, which
 gradually increase in size upwards, and at length become crowded, numerous
 and petaloid, forming a funnel-shaped blossom, the beauty of which is much
 enhanced by the multitude of conspicuous stamens which with the pistil
-occupy the centre. In another group, represented by _Opuntia_ (fig. 1), the
+occupy the centre. In another group, represented by _[[Opuntia]]_ (fig. 1), the
 flowers are rotate, that is to say, the long tube is replaced by a very
 short one. At the base of the tube, in both groups, the ovary becomes
 developed into a fleshy (often edible) fruit, that produced by the
@@ -53,8 +53,8 @@ _Opuntia_ being known as the prickly pear or Indian fig.
 
 The principal modern genera are grouped by the differences in the
 flower-tube just explained. Those with long-tubed flowers comprise the
-genera _Melocactus_, _Mammillaria_, _Echinocactus_, _Cereus_, _Pilocereus_,
-_Echinopsis_, _Phyllocactus_, _Epiphyllum_, &c.; while those with
+genera _Melocactus_, _Mammillaria_, _Echinocactus_, _Cereus_, _[[Pilocereus]]_,
+_Echinopsis_, _[[Phyllocactus]]_, _Epiphyllum_, &c.; while those with
 short-tubed flowers are _Rhipsalis_, _Opuntia_, _Peireskia_, and one or two
 of minor importance. Cactaceae belong almost entirely to the New World; but
 some of the Opuntias have been so long distributed over certain parts of
@@ -67,7 +67,7 @@ consequence of the thickness of their skin and the paucity of evaporating
 pores or stomata with which they are furnished,--these conditions not
 permitting the moisture they contain to be carried off too rapidly; the
 thick fleshy stems and branches contain a store of water. The succulent
-fruits are not only edible but agreeable, and in fevers are freely
+fruits are not only edible but agreeable, and in [[Fever|fevers]] are freely
 administered as a cooling drink. The Spanish Americans plant the Opuntias
 around their houses, where they serve as impenetrable fences.
 

@@ -9,8 +9,8 @@ type: source
 
 BUTTERY (from O. Fr. _boterie_, Late Lat. _botaria_, a place where liquor
 is stored, from _butta_, a cask), a place for storing wine; later, with a
-confusion with "butter," a pantry or storeroom for food; especially, at
-colleges at Oxford and Cambridge, the place where food other than meat,
+confusion with "[[Butter|butter]]," a pantry or storeroom for food; especially, at
+colleges at Oxford and Cambridge, the place where food other than [[Meat|meat]],
 especially bread and butter, ale and wines, &c., are kept.
 
 ## See also

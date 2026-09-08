@@ -10,11 +10,11 @@ railway. Owing to the bar at the estuary of the Teifi, the shipping
 trade is inconsiderable, but there are brick-works and foundries in the
 town; and as the centre of a large agricultural district, Cardigan
 market is well attended. There is a curious local custom of mixing
-"culm," a compound of clay and small coal, in the streets. The town has
-for the most part a modern and prosperous appearance. Two bastions with
-some of the curtain wall of the ancient castle remain, whilst the
+"[[Culm|culm]]," a [[Compound|compound]] of clay and small coal, in the streets. The town has
+for the most part a modern and prosperous appearance. Two [[Bastion|bastions]] with
+some of the [[Curtain|curtain]] wall of the ancient castle remain, whilst the
 dwelling-house known as Castle Green contains part of a drum tower, and
-some vaulted chambers of the 13th century. The chancel of the Priory
+some vaulted chambers of the 13th century. The [[Chancel|chancel]] of the Priory
 church of St Mary is an interesting specimen of early Perpendicular
 work, and the elaborate tracery of its fine east window contains some
 fragments of ancient stained glass. It is the only existing portion of a
@@ -33,16 +33,16 @@ severely defeated by the Welsh at Crug Mawr, now called Bank-y-Warren, a
 rounded hill 2 m. north-east of the town. During the latter part of the
 12th century the castle became the residence of Rhys ap Griffith, prince
 and justiciar of South Wales (d. 1196), who kept considerable state
-within its walls, and entertained here in 1188 Archbishop Baldwin and
+within its walls, and entertained here in 1188 Archbishop [[Baldwin]] and
 Giraldus Cambrensis during their preaching of the Third Crusade. In 1284
 Edward I. spent a month in the castle, settling the affairs of South
 Wales. This famous pile was finally taken and destroyed by the
 Parliamentarian Major-General Laugharne in 1645. The lordship, castle
 and town of Cardigan formed part of the dower bestowed on Queen
-Catherine of Aragon by King Henry VII. Henry VIII.'s charter of 1542
+Catherine of [[Aragon]] by King Henry VII. Henry VIII.'s charter of 1542
 confirmed earlier privileges granted by Edward I. and other monarchs,
 and provided for the government of the town by a duly elected mayor, two
-bailiffs and a coroner. In the assizes and quarter sessions were removed
+bailiffs and a [[Coroner|coroner]]. In the [[Assize|assizes]] and quarter sessions were removed
 hence to Lampeter, which has a more central position in the county.
 Cardigan was declared a parliamentary borough in 1536, but in 1885 its
 representation was merged in that of the county.

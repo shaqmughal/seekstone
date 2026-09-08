@@ -11,21 +11,21 @@ tags: [science, medicine-theory]
 
 JODELLE, ÉTIENNE, seigneur de Limodin (1532-1573), French dramatist and
 poet, was born in Paris of a noble family. He attached himself to the
-poetic circle of the Pléiade (see DAURAT) and proceeded to apply the
+poetic circle of the Pléiade (see [[Daurat|DAURAT]]) and proceeded to apply the
 principles of the reformers to dramatic composition. Jodelle aimed at
-creating a classical drama that should be in every respect different
+creating a classical [[Drama|drama]] that should be in every respect different
 from the moralities and _soties_ that then occupied the French stage.
-His first play, _Cléopâtre captive_, was represented before the court at
+His first play, _Cléopâtre [[Captive|captive]]_, was represented before the court at
 Reims in 1552. Jodelle himself took the title rôle, and the cast
 included his friends Remy Belleau and Jean de la Péruse. In honour of
-the play's success the friends organized a little fête at Arcueil when a
+the play's success the friends organized a little fête at [[Arcueil]] when a
 goat garlanded with flowers was led in procession and presented to the
 author--a ceremony exaggerated by the enemies of the Ronsardists into a
 renewal of the pagan rites of the worship of Bacchus. Jodelle wrote two
 other plays. _Eugène_, a comedy satirizing the superior clergy, had less
 success than it deserved. Its preface poured scorn on Jodelle's
 predecessors in comedy, but in reality his own methods are not so very
-different from theirs. _Didon se sacrifiant_, a tragedy which follows
+different from theirs. _[[Didon]] se sacrifiant_, a tragedy which follows
 Virgil's narrative, appears never to have been represented. Jodelle died
 in poverty in July 1573. His works were collected the year after his
 death by Charles de la Mothe. They include a quantity of miscellaneous

@@ -12,7 +12,7 @@ not less than fifteen years, sit as members of the House of Lords to
 adjudicate in cases before that House in its legal capacity, and also to
 aid the judicial committee of the Privy Council in hearing appeals. Of
 the four lords of appeal in ordinary one is usually appointed from the
-Irish bench or bar and one from Scotland. Their salary is £6000 a year.
+Irish [[Bench|bench]] or bar and one from Scotland. Their salary is £6000 a year.
 They hold office on the same conditions as other judges. By the
 Appellate Jurisdiction Act 1876, under which they are appointed, lords
 of appeal in ordinary are, by virtue of and according to the date of

@@ -4,7 +4,7 @@ JOAB (Heb. "Yah[weh] is a father"), in the Bible, the son of Zeruiah,
 David's sister (1 Chron. ii. 16). His brothers were Asahel and Abishai.
 All three were renowned warriors and played a prominent part in David's
 history. Abishai on one occasion saved the king's life from a Philistine
-giant (2 Sam. xxi. 17), and Joab as warrior and statesman was directly
+[[Giant|giant]] (2 Sam. xxi. 17), and Joab as warrior and statesman was directly
 responsible for much of David's success. Joab won his spurs, according
 to one account, by capturing Jerusalem (1 Chron. xi. 4-9); with Abishai
 and Ittai of Gath he led a small army against the Israelites who had

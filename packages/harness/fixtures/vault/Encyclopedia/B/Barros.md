@@ -10,14 +10,14 @@ type: article
 BARROS, JOÃO DE (1496-1570), called the Portuguese Livy, may be said to
 have been the first great historian of his country. Educated in the palace
 of King Manoel, he early conceived the idea of writing history, and, to
-prove his powers, composed, at the age of twenty, a romance of chivalry,
+prove his powers, composed, at the age of twenty, a romance of [[Chivalry|chivalry]],
 the _Chronicle of the Emperor Clarimundo_, in which he is said to have had
 the assistance of Prince John, afterwards King John III. The latter, on
 ascending the throne, gave Barros the captaincy of the fortress of St
 George of Elmina, whither he proceeded in 1522, and he obtained in 1525 the
 post of treasurer of the India House, which he held until 1528. The pest of
-1530 drove him from Lisbon to his country house near Pombal, and there he
-finished a moral dialogue, _Rhopica Pneuma_, which met with the applause of
+1530 drove him from [[Lisbon]] to his country house near Pombal, and there he
+finished a moral [[Dialogue|dialogue]], _Rhopica Pneuma_, which met with the [[Applause|applause]] of
 the learned Juan Luis Vives. On his return to Lisbon in 1532 the king
 appointed Barros factor of the India and Mina House--positions of great
 responsibility and importance at a time when Lisbon was the European
@@ -28,9 +28,9 @@ fortunes. At this time, John III., wishful to attract settlers to Brazil,
 divided it up into captaincies and gave that of Maranhão to Barros, who,
 associating two partners in the enterprise with himself, prepared an armada
 of ten vessels, carrying nine hundred men, which set sail in 1539. Owing to
-the ignorance of the pilots, the whole fleet suffered shipwreck, which
+the [[Ignorance|ignorance]] of the pilots, the whole fleet suffered shipwreck, which
 entailed serious financial loss on Barros, yet not content with meeting his
-own obligations, he paid the debts of those who had perished in the
+own obligations, he paid the [[Debt|debts]] of those who had perished in the
 expedition. During all these busy years he had continued his studies in his
 leisure hours, and shortly after the Brazilian disaster he offered to write
 a history of the Portuguese in India, which the king accepted. He began
@@ -63,7 +63,7 @@ Lisbon in 14 vols. in 1778-1788. The title of Barros's work is _Da Asia de
 João de Barros, dos feitos que os Portuguezes fizeram no descubrimento e
 conquista dos mares e terras do Oriente_, and the edition is accompanied by
 a volume containing a life of Barros by the historian Manoel Severim de
-Faria and a copious index of all the Decades. An Italian version in 2 vols.
+Faria and a copious [[Index|index]] of all the Decades. An Italian version in 2 vols.
 appeared in Venice in 1561-1562 and a German in 5 vols. in 1821.
 _Clarimundo_ has gone through the following editions: 1522, 1555, 1601,
 1742, 1791 and 1843, all published in Lisbon. It influenced Francisco de

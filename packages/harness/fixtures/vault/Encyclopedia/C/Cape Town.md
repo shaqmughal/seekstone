@@ -21,7 +21,7 @@ of the bay, has extended all round the shores of the bay and to the
 lower spurs of Table Mountain.
 
 The purely Dutch aspect which Cape Town preserved until the middle of
-the 19th century has disappeared. Nearly all the stucco-fronted brick
+the 19th century has disappeared. Nearly all the stucco-fronted [[Brick|brick]]
 houses, with flat roofs and cornices and wide spreading _stoeps_, of the
 early Dutch settlers have been replaced by shops, warehouses and offices
 in styles common to English towns. Of the many fine public buildings
@@ -29,7 +29,7 @@ which adorn the city scarcely any date before 1860. The mixture of races
 among the inhabitants, especially the presence of numerous Malays, who
 on all festive occasions appear in gorgeous raiment, gives additional
 animation and colour to the street scenes. The mosques with their
-cupolas and minarets, and houses built in Eastern fashion contrast
+[[Cupola|cupolas]] and minarets, and houses built in Eastern fashion contrast
 curiously with the Renaissance style of most of the modern buildings,
 the medieval aspect of the castle and the quaint appearance of the Dutch
 houses still standing.
@@ -68,7 +68,7 @@ an unpretentious building on the same site, is dedicated to St George.
 It lies between the library and St George's Street, in which are the
 chief newspaper offices, and premises of the wholesale merchants. West
 of St George's Street is Greenmarket Square, the centre of the town
-during the Dutch period. From the balcony of the town house, which
+during the Dutch period. From the [[Balcony|balcony]] of the town house, which
 overlooks the square, proclamations were read to the burghers, summoned
 to the spot by the ringing of the bell in the small-domed tower. Still
 farther west, in Riebeek Square, is the old slave market, now used as a
@@ -92,7 +92,7 @@ _The Suburbs_.--The suburbs of Cape Town, for natural beauty of
 position, are among the finest in the world. On the west they extend
 about 3 m., by Green Point to Sea Point, between the sea and the foot of
 the Lion's Rump; on the east they run round the foot of the Devil's
-Peak, by Woodstock, Mowbray, Rondebosch, Newlands, Claremont, &c., to
+Peak, by Woodstock, Mowbray, Rondebosch, Newlands, [[Claremont]], &c., to
 Wynberg, a distance of 7 m. Though these are managed by various
 municipalities, there is practically no break in the buildings for the
 whole distance. All the parts are connected by the suburban railway
@@ -104,14 +104,14 @@ Signal Hill. Of the suburbs mentioned, Green Point and Sea Point are
 seaside resorts, Woodstock being both a business and residential
 quarter. Woodstock covers the ground on which the British, in 1806,
 defeated the Dutch, and contains the house in which the articles of
-capitulation were signed. Another seaside suburb is Milnerton on the
+[[Capitulation|capitulation]] were signed. Another seaside suburb is Milnerton on the
 north-east shores of Table Bay at the mouth of the Diep river. Near
 Maitland, and 3 m. from the city, is the Cape Town observatory, built in
 1820 and maintained by the British government. Rondebosch, 5 m. from
 the city, contains some of the finest of the Dutch mansions in South
 Africa. Less than a mile from the station is Groote Schuur, a typical
 specimen of the country houses built by the Dutch settlers in the 17th
-century. The house was the property of Cecil Rhodes, and was bequeathed
+century. The house was the property of [[Cecil]] Rhodes, and was bequeathed
 by him for the use of the prime minister of Federated South Africa. The
 grounds of the estate extend up the slopes of Table Mountain. At
 Newlands is Bishop's Court, the home of the archbishop of Cape Town.
@@ -129,17 +129,17 @@ its prevalence Table Mountain is covered by a dense whitish-grey cloud,
 overlapping its side like a tablecloth.
 
 _The Harbour._--Table Bay, 20 m. wide at its entrance, is fully exposed
-to north and north-west gales. The harbour works, begun in 1860, afford
+to north and north-west [[Gale|gales]]. The harbour works, begun in 1860, afford
 sheltered accommodation for a large number of vessels. From the west end
 of the bay a breakwater extends north-east for some 4000 ft. East of the
 breakwater and parallel to it for 2700 ft. is the South pier. From
 breakwater and pier arms project laterally. In the area enclosed are the
 Victoria basin, covering 64 acres, the Alfred basin of 8-1/2 acres, a
-graving dock 529 ft. long and a patent slip for vessels up to 1500 tons.
-There is good anchorage outside the Victoria basin under the lee of the
+graving [[Dock|dock]] 529 ft. long and a patent slip for vessels up to 1500 tons.
+There is good anchorage outside the Victoria basin under the [[Lee|lee]] of the
 breakwater, and since 1904 the foreshore east of the south pier has been
 reclaimed and additional wharfage provided. Altogether there are 2-1/2 m.
-of quay walls, the wharfs being provided with electrical cranage. Cargo
+of quay walls, the wharfs being provided with electrical cranage. [[Cargo]]
 can be transferred direct from the ship into railway trucks. Vessels of
 the deepest draught can enter into the Victoria basin, the depth of
 water at low tide ranging from 24 to 36 ft.
@@ -185,7 +185,7 @@ remainder being chiefly of mixed blood. The most populous suburbs in
 _History and Local Government_.--Cape Town was founded in 1652 by
 settlers sent from Holland by the Netherlands East India Co., under Jan
 van Riebeek. It came definitely into the possession of Great Britain in
-1806. Its political history is indistinguishable from that of Cape
+1806. Its [[Political History|political history]] is indistinguishable from that of Cape
 Colony (q.v.). The town was granted municipal institutions in 1836.
 (Among the councillors returned at the election of 1904 was Dr
 Abdurrahman, a Mahommedan and a graduate of Edinburgh, this being, it is

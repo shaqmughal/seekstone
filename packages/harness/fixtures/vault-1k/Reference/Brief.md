@@ -68,7 +68,7 @@ distributed among rising juniors of their acquaintance, whose bundles of
 briefs were getting inconveniently large to be carried in their hands.
 These perquisites were abolished in 1830. English brief-bags are now either
 blue or red. Blue bags are those with which barristers provide themselves
-when first called, and it is a breach of etiquette to let this bag be
+when first called, and it is a [[Breach|breach]] of etiquette to let this bag be
 visible in court. The only brief-bag allowed to be placed on the desks is
 the red bag, which by English legal etiquette is given by a leading counsel
 to a junior who has been useful to him in some important case.

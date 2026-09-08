@@ -6,7 +6,7 @@ topic: history
 
 # Longinus
 
-LONGINUS, CASSIUS (c. A.D. 213-273), Greek rhetorician and philosophical
+LONGINUS, [[Cassius|CASSIUS]] (c. A.D. 213-273), Greek rhetorician and philosophical
 critic, surnamed PHILOLOGUS. The origin of his gentile name Cassius is
 unknown; it can only be conjectured that he adopted it from a Roman
 patron. He was perhaps a native of Emesa (Homs) in Syria, the birthplace
@@ -38,7 +38,7 @@ of his philological works, [Greek: philologoi homiliai] (_Philological
 Discourses_) consisting of at least 21 books, is omitted. A considerable
 fragment of the [Greek: Peri telous] (_De finibus, On the Chief End_) is
 preserved in the _Life of Plotinus_ by Porphyry (§ 20). Under his name
-there are also extant Prolegomena to the _Encheiridion_ of Hephaestion
+there are also extant Prolegomena to the _Encheiridion_ of [[Hephaestion]]
 on metre (printed in R. Westphal, _Scriptores Metrici Graeci_, i. 1866)
 and the fragment of a treatise on rhetoric (L. Spengel, _Rhetores
 Graeci_, i. pp. 299-320), inserted in the middle of a similar treatise
@@ -68,7 +68,7 @@ from the [Greek: philologoi homiliai].
   reference to the famous writers on rhetoric of the age of the
   Antonines, such as Hermogenes and Alexander son of Numenius. (4) The
   opening sentences show that the [Greek: Peri hypsous] was written with
-  a view of correcting the faults of style and method in a treatise by
+  a view of correcting the [[Fault|faults]] of style and method in a treatise by
   Caecilius (q.v.) of Calacte on the same subject. As Caecilius
   flourished during the reign of Augustus, it is hardly likely that his
   work would have been selected for purposes of criticism in the 3rd
@@ -94,7 +94,7 @@ from the [Greek: philologoi homiliai].
   Halicarnassus, the Atticist Aelius Dionysius of Halicarnassus,
   Dionysius Atticus of Pergamum, Dionysius of Miletus. Other suggested
   claimants to the authorship are Plutarch (L. Vaucher in _Études
-  critiques sur le traité du sublime_ (Geneva, 1854) and Aelius Theon of
+  critiques sur le traité du sublime_ ([[Geneva]], 1854) and Aelius Theon of
   Alexandria (W. Christ), the author of a work on the _Arrangement of
   Speech_. But it seems most probable that the author was an unknown
   writer who flourished in the 1st century soon after Caecilius and
@@ -105,7 +105,7 @@ from the [Greek: philologoi homiliai].
   Greek [Greek: Peri hypsous] ("impressiveness in style," Jebb). Nothing
   abnormal, such as is associated with the word "sublime," is the
   subject of discussion; it is rather a treatise on style. According to
-  the author's own definitions, "Sublimity is a certain distinction and
+  the author's own [[Definition|definitions]], "Sublimity is a certain distinction and
   excellence in expression," "sublimity consists in elevation,"
   "sublimity is the echo (or expression) of a great soul" (see note in
   Roberts).

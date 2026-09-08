@@ -13,15 +13,15 @@ of Bjälbo by King Erik Eriksson in 1248 and married the king's sister.
 On Erik's death (1250) Birger's son Valdemar was elected king while his
 father acted as regent. During the sixteen years of his sway Sweden
 advanced greatly in fame and prosperity. In 1249 he led an expedition to
-Finland, built the fortress of Tavastehus, and thus laid the foundations
+[[Finland]], built the fortress of Tavastehus, and thus laid the foundations
 of Sweden's oversea empire. He also built Stockholm, and enriched it by
-making it the chief mart for the trade of Lübeck, with which city he
+making it the chief mart for the trade of Lü[[Beck|beck]], with which city he
 concluded a commercial treaty. As a lawgiver also Birger laboured
 strenuously in the interests of civilization. In his old age he married
 the daughter of King Abel. There is a fine statue of the great jarl in
-the Riddarholm church at Stockholm, erected by Fogelberg at the expense
+the Riddarholm church at Stockholm, erected by [[Fogelberg]] at the expense
 of the Stockholm magistracy in 1884. He is also the central figure of
-Fr. Hedberg's drama _Brollopet på Ulfåsa_ (1865).
+Fr. Hedberg's [[Drama|drama]] _Brollopet på Ulfåsa_ (1865).
 
   See _Sveriges Historia_, vol. i. (Stockholm, 1879-1883).
 

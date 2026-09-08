@@ -2,7 +2,7 @@
 
 CAMPBELL-BANNERMAN, SIR HENRY (1836-1908), English prime minister, was
 born on the 7th of September 1836, being the second son of Sir James
-Campbell, Bart., of Stracathro, Forfarshire, lord provost of Glasgow.
+Campbell, Bart., of Stracathro, [[Forfarshire]], lord provost of [[Glasgow]].
 His elder brother James, who just outlived him, was Conservative M.P.
 for Glasgow and Aberdeen Universities from 1880 to 1906. Both his father
 and his uncle William Campbell, who had together founded an important
@@ -19,7 +19,7 @@ to the admiralty (1882-1884), and chief secretary for Ireland
 for Ireland, he "found salvation", to use his own phrase, and followed
 his leader. In Mr Gladstone's 1886 ministry he was secretary for war,
 and filled the same office in the Liberal ministry of 1892-1895. In the
-latter year he was knighted (G.C.B.). It fell to his lot as war minister
+latter year he was knighted (G.C.B.). It fell to his [[Lot|lot]] as war minister
 to obtain the duke of Cambridge's resignation of the office of
 commander-in-chief; but his intended appointment of a chief of the staff
 in substitution for that office was frustrated by the resignation of the
@@ -27,7 +27,7 @@ ministry. It was an imputed omission on the part of the war office, and
 therefore of the war minister, to provide a sufficient supply of
 small-arms ammunition for the army which on the 21st of June 1895 led to
 the defeat of the Rosebery government. Wealthy, popular and possessed of
-a vein of oratorical humour (Mr T. Healy had said that he tried to
+a vein of oratorical [[Humour|humour]] (Mr T. Healy had said that he tried to
 govern Ireland with Scottish jokes), Sir Henry had already earned the
 general respect of all parties, and in April 1895, when Mr Speaker Peel
 retired, his claims for the vacant post were prominently canvassed; but
@@ -36,27 +36,27 @@ Mr Gully was selected. Though a prominent member of the inner Liberal
 circle and a stanch party man, it was not supposed by the public at this
 time that any ambition for the highest place could be associated with
 Sir Henry Campbell-Bannerman; but the divisions among the Liberals, and
-the rivalry between Lord Rosebery and Sir William Harcourt, made the
+the rivalry between Lord Rosebery and Sir William [[Harcourt]], made the
 political situation an anomalous one. The very fact that he was
 apparently unambitious of personal supremacy combined with his
-honourable record and experience to make him a safe man; and in December
+[[Honourable|honourable]] record and experience to make him a safe man; and in December
 1898, on Sir W. Harcourt's formal resignation of the leadership of the
 Opposition, he was elected to fill the position in the House of Commons
 with the general assent of the party. In view of its parliamentary
-impotence, and its legacy of an unpopular Home Rule programme, Sir Henry
+[[Impotence|impotence]], and its [[Legacy|legacy]] of an unpopular Home Rule programme, Sir Henry
 had a difficult task to perform, but he prudently interpreted his duty
 as chiefly consisting in the effort to keep the Radical party together
 in the midst of its pronounced differences. In this he was successful,
 although the advent of the Boer War of 1899-1902 created new
 difficulties with the Liberal Imperialists. The leader of the Opposition
 from the first denounced the diplomatic steps taken by Lord Milner and
-Mr Chamberlain, and objected to all armed intervention or even
+Mr [[Chamberlain]], and objected to all armed intervention or even
 preparation for hostilities. Sir Henry's own tendency to favour the
 anti-war section, his refusal to support the government in any way, and
 his allusion to "methods of barbarism" in connexion with the conduct of
 the British army (June 14, 1901), accentuated the crisis within the
 party; and in 1901 the Liberal Imperialists, who looked to Lord Rosebery
-(q.v.) and Mr Asquith (q.v.) for their political inspiration, showed
+(q.v.) and Mr [[Asquith]] (q.v.) for their political inspiration, showed
 pronounced signs of restiveness. But a party meeting was called on the
 9th of July, and Sir Henry was unanimously confirmed in the leadership.
 
@@ -70,45 +70,45 @@ campaign on behalf of free trade the real leader, however, was Mr
 Asquith. Sir Henry's own principal contribution to the discussion was
 rather unfortunate, for while insisting on the blessings derived by
 England from its free-trade policy, he coupled this with the rhetorical
-admission (at Bolton in 1903) that "12,000,000 British citizens were
+admission (at [[Bolton]] in 1903) that "12,000,000 British citizens were
 underfed and on the verge of hunger." But Lord Salisbury's retirement,
 Unionist divisions, the staleness of the ministry, and the accumulating
 opposition in the country to the Education Act of 1902 and to the
 continued weight of taxation, together with the growth of the Labour
-movement, and the antagonism to the introduction of Chinese coolies
+movement, and the antagonism to the introduction of Chinese [[Coolie|coolies]]
 (1904) into South Africa under conditions represented by Radical
 spokesmen as those of "slavery," made the political pendulum swing back.
 A Liberal majority at the dissolution was promised by all the signs at
 by-elections. The government held on, but collapse was only a question
 of time (see the articles on BALFOUR, A.J., and CHAMBERLAIN, J.). On the
 4th of December 1905 the Unionist government resigned, and the king sent
-for Sir Henry Campbell-Bannerman, who in a few days formed his cabinet.
+for Sir Henry Campbell-Bannerman, who in a few days formed his [[Cabinet|cabinet]].
 Lord Rosebery, who until a short time before had seemed likely to
 co-operate, alone held aloof. In a speech at Stirling on the 23rd of
 November, Sir Henry appeared to him to have deliberately flouted his
 well-known susceptibilities by once more writing Home Rule in large
-letters on the party programme, and he declared at Bodmin that he would
+letters on the party programme, and he declared at [[Bodmin]] that he would
 "never serve under that banner." Sir Henry's actual words, which
 undoubtedly influenced the Irish vote, were that he "desired to see the
 effective management of Irish affairs in the hands of a representative
-Irish assembly. If an instalment of representative control was offered
+Irish assembly. If an [[Instalment|instalment]] of representative control was offered
 to Ireland, or any administrative improvement, he would advise the
 Nationalists to accept it, provided it was consistent and led up to
 their larger policy." But if Lord Rosebery once more separated himself
 from the official Liberals, his principal henchmen in the Liberal League
 were included in the cabinet, Mr Asquith becoming chancellor of the
-exchequer, Sir Edward Grey foreign secretary, and Mr Haldane war
+exchequer, Sir Edward Grey foreign secretary, and Mr [[Haldane]] war
 minister. Other sections of the party were strongly represented by Mr
 John Morley as secretary for India, Mr Bryce (afterwards ambassador at
 Washington) as chief secretary for Ireland, Sir R.T. Reid (Lord
-Loreburn) as lord chancellor, Mr Augustine Birrell as education minister
+Loreburn) as lord chancellor, Mr Augustine [[Birrell]] as education minister
 (afterwards Irish secretary), Mr Lloyd-George as president of the Board
 of Trade, Mr Herbert Gladstone as home secretary, and Mr John Burns--a
 notable rise for a Labour leader--as president of the Local Government
-Board. Lord Ripon became leader in the House of Lords; and Lord Elgin
+Board. Lord Ripon became leader in the House of Lords; and Lord [[Elgin]]
 (colonial secretary), Lord Carrington (agriculture), Lord Aberdeen (lord
-lieutenant of Ireland), Sir Henry Fowler (chancellor of the duchy of
-Lancaster), Mr Sidney Buxton (postmaster-general), Mr L.V. Harcourt
+lieutenant of Ireland), Sir Henry [[Fowler]] (chancellor of the duchy of
+[[Lancaster]]), Mr Sidney Buxton (postmaster-general), Mr L.V. Harcourt
 (first commissioner of works), and Captain John Sinclair (secretary for
 Scotland) completed the ministry, a place of prominence outside the
 cabinet being found for Mr Winston Churchill as under-secretary for the
@@ -130,7 +130,7 @@ personality, nor any positive programme, that brought the Liberals back
 to power, but the country's weariness of their predecessors and the
 successful employment at the elections of a number of miscellaneous
 issues. But as the man who had doggedly, yet unpretentiously, filled the
-gap in the days of difficulty, and been somewhat contemptuously
+[[Gap|gap]] in the days of difficulty, and been somewhat contemptuously
 criticized by the Unionist press for his pains, Sir Henry was clearly
 marked out for the post of prime minister when his party got its chance;
 and, as the head of a strongly composed cabinet, he satisfied the
@@ -153,13 +153,13 @@ as in the front line of English statesmen so far as originality of ideas
 or brilliance of debating power were concerned. It is not the fortune of
 many more brilliant statesmen to earn this testimonial to character.
 From the beginning of the session of 1908 it was evident, however, that
-Mr Asquith, who was acting as deputy prime minister, would before long
+Mr Asquith, who was acting as [[Deputy|deputy]] prime minister, would before long
 succeed to the Liberal leadership; and on the 5th of April Sir Henry
 Campbell-Bannerman's resignation was formally announced. He died on the
 22nd of the same month. He had spoken in the House of Commons on the
 13th of February, but since then had been prostrated and unable to
 transact business, his illness dating really from a serious heart attack
-in the night of the 13th of November at Bristol, after a speech at the
+in the night of the 13th of November at [[Bristol]], after a speech at the
 Colston banquet.
 
 From a party-political point of view the period of Sir Henry
@@ -206,10 +206,10 @@ of the various sections, and it was as a conciliator, ready to
 sympathize with the strong views of all sections of his following, that
 he kept the party together, while his colleagues went their own ways in
 their own departments. His own special "leads" were few, owing to the
-personal reasons given above; his declaration at the Queen's Hall,
+personal reasons given above; his [[Declaration|declaration]] at the Queen's Hall,
 London, early in 1907, in favour of drastic land reform, served only to
-encourage a number of extremists; and the Liberal enthusiasm against the
-House of Lords, violently excited in 1906 by the fate of the Education
+encourage a number of extremists; and the Liberal [[Enthusiasm|enthusiasm]] against the
+House of Lords, violently excited in 1906 by the [[Fate|fate]] of the Education
 Bill and Plural Voting Bill, was rather damped than otherwise, when his
 method of procedure by resolution of the House of Commons was disclosed
 in 1907. The House passed by an enormous majority a resolution
@@ -246,11 +246,11 @@ Chinese in the Transvaal was, in Mr Winston Churchill's phrase, a
 such as the Licensing Bill of 1908, offered excellent opportunities of
 electioneering attack. Moreover, the Liberal promises of economy had
 been largely falsified, the reductions in the navy estimates being
-dangerous in themselves, while the income tax still remained at
+dangerous in themselves, while the [[Income Tax|income tax]] still remained at
 practically the war level. For much of all this the prime minister's
 colleagues were primarily responsible; but he himself had given a lead
-to the anti-militarist section by prominently advocating international
-disarmament, and the marked rebuff to the British proposals at the Hague
+to the anti-militarist section by prominently advocating [[International|international]]
+disarmament, and the marked rebuff to the British proposals at the [[Hague]]
 conference of 1907 exposed alike the futility of this Radical ideal and
 the general inadequacy of the prime minister's policy of pacificism. Sir
 Henry's rather petulant intolerance of Unionist opposition, shown at the

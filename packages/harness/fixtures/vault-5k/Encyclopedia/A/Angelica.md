@@ -8,7 +8,7 @@ topic: philosophy
 
 ANGELICA, a genus of plants of the natural order _Umbelliferae_,
 represented in Britain by one species, _A. sylvestris_, a tall
-perennial herb with large bipinnate leaves and large compound umbels
+perennial [[Herb|herb]] with large bipinnate leaves and large [[Compound|compound]] umbels
 of white or purple flowers. The name Angelica is popularly given to
 a plant of an allied genus, _Archangelica officinalis_, the tender
 shoots of which are used in making certain kinds of aromatic

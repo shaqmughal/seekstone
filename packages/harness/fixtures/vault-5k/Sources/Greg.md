@@ -11,7 +11,7 @@ tags: [physics, theology-christian]
 GREG, WILLIAM RATHBONE (1809-1881), English essayist, the son of a
 merchant, was born at Manchester in 1809. He was educated at the
 university of Edinburgh and for a time managed a mill of his father's at
-Bury, and in 1832 began business on his own account. He entered with
+[[Bury]], and in 1832 began business on his own account. He entered with
 ardour into the struggle for free trade, and obtained in 1842 the prize
 offered by the Anti-Corn Law League for the best essay on "Agriculture
 and the Corn Laws." He was too much occupied with political, economical
@@ -19,7 +19,7 @@ and theological speculations to give undivided attention to his
 business, which he gave up in 1850 to devote himself to writing. His
 _Creed of Christendom_ was published in 1851, and in 1852 he contributed
 no less than twelve articles to four leading quarterlies. Disraeli
-praised him; Sir George Cornewall Lewis bestowed a Commissionership of
+praised him; Sir George Cornewall [[Lewis]] bestowed a Commissionership of
 Customs upon him in 1856; and in 1864 he was made Comptroller of the
 Stationery Office. Besides contributions to periodicals he produced
 several volumes of essays on political and social philosophy. The

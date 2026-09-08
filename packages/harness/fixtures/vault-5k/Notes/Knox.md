@@ -8,23 +8,23 @@ usually given as 1505, is matter of dispute. Beza, in his _Icones_,
 published in 1580, makes it 1515; Sir Peter Young (tutor to James VI. of
 Scotland), writing to Beza from Edinburgh in 1579, says 1513; and a
 strong case has been made out for holding that the generally accepted
-date is due to an error in transcription (see Dr Hay Fleming in the
+date is due to an error in transcription (see Dr [[Hay]] Fleming in the
 _Bookman_, Sept. 1905). But Knox seems to have been reticent about his
 early life, even to his contemporaries. What is known is that he was a
-son of William Knox, who lived in or near the town of Haddington, that
+son of William Knox, who lived in or near the town of [[Haddington]], that
 his mother's name was Sinclair, and that his forefathers on both sides
 had fought under the banner of the Bothwells. William Knox was "simple,"
 not "gentle"--perhaps a prosperous East Lothian peasant. But he sent his
 son John to school (no doubt the well-known grammar school of
 Haddington), and thereafter to the university, where, like his
-contemporary George Buchanan, he sat "at the feet" of John Major. Major
+contemporary George [[Buchanan]], he sat "at the feet" of John Major. Major
 was a native of Haddington, who had recently returned to Scotland from
 Paris with a great academical reputation. He retained to the last, as
 his _History of Greater Britain_ shows, the repugnance characteristic of
 the university of Paris to the tyranny of kings and nobles; but like it,
 he was now alarmed by the revolt of Luther, and ceased to urge its
 ancient protest against the supremacy of the pope. He exchanged his
-"regency" or professorship in Glasgow University for one in that of St
+"regency" or professorship in [[Glasgow]] University for one in that of St
 Andrews in 1523. If Knox's college time was later than that date (as it
 must have been, if he was born near 1515), it was no doubt spent, as
 Beza narrates, at St Andrews, and probably exclusively there. But in
@@ -94,15 +94,15 @@ including Knox, were thrown into the galleys on the Loire, to remain in
 irons and under the lash for at least nineteen months. Released at last
 (apparently through the influence of the young English king, Edward
 VI.), Knox was appointed one of the licensed preachers of the new faith
-for England, and stationed in the great garrison of Berwick, and
+for England, and stationed in the great garrison of [[Berwick]], and
 afterwards at Newcastle. In 1551 he seems to have been made a royal
-chaplain; in 1552 he was certainly offered an English bishopric, which
+[[Chaplain|chaplain]]; in 1552 he was certainly offered an English bishopric, which
 he declined; and during most of this year he used his influence, as
 preacher at court and in London, to make the new English settlement more
 Protestant. To him at least is due the Prayer-book rubric which explains
 that, when kneeling at the sacrament is ordered, "no adoration is
 intended or ought to be done." While in Northumberland Knox had been
-betrothed to Margaret Bowes, one of the fifteen children of Richard
+betrothed to Margaret [[Bow|Bowes]], one of the fifteen children of Richard
 Bowes, the captain of Norham Castle. Her mother, Elizabeth, co-heiress
 of Aske in Yorkshire, was the earliest of that little band of
 women-friends whose correspondence with Knox on religious matters throws
@@ -111,10 +111,10 @@ Mary Tudor succeeded her brother, and Knox in March 1554 escaped into
 five years' exile abroad, leaving Mrs. Bowes a fine treatise on
 "Affliction," and sending back to England two editions of a more acrid
 "Faithful Admonition" on the crisis there. He first drifted to
-Frankfort, where the English congregation divided as English Protestants
+[[Frankfort]], where the English congregation divided as English Protestants
 have always done, and the party opposed to Knox got rid of him at last
 by a complaint to the authorities of treason against the emperor Charles
-V. as well as Philip and Mary. At Geneva he found a more congenial
+V. as well as Philip and Mary. At [[Geneva]] he found a more congenial
 pastorate. Christopher Goodman (c. 1520-1603) and he, with other exiles,
 began there the Puritan tradition, and prepared the earlier English
 version of the Bible, "the household book of the English-speaking
@@ -128,17 +128,17 @@ But even here Knox was preparing for Scotland, and facing the
 difficulties of the future, theoretical as well as practical. In his
 first year abroad he consulted Calvin and Bullinger as to the right of
 the civil "authority" to prescribe religion to his subjects--in
-particular, whether the godly should obey "a magistrate who enforces
+particular, whether the godly should obey "a [[Magistrate|magistrate]] who enforces
 idolatry and condemns true religion," and whom should they join "in the
 case of a religious nobility resisting an idolatrous sovereign." In
 August 1555 be visited his native country and found the queen-mother,
-Mary of Lorraine, acting as regent in place of the real "sovereign," the
+Mary of [[Lorraine]], acting as regent in place of the real "sovereign," the
 youthful and better-known Mary, now being brought up at the court of
 France. Scripture-reading and the new views had spread widely, and the
 regent was disposed to wink at this in the case of the "religious
 nobility." Knox was accordingly allowed to preach privately for six
 months throughout the south of Scotland, and was listened to with an
-enthusiasm which made him break out, "O sweet were the death which
+[[Enthusiasm|enthusiasm]] which made him break out, "O sweet were the death which
 should follow such forty days in Edinburgh as here I have had three!"
 Before leaving he even addressed a letter to the regent, urging her to
 favour the Evangel. She accepted it jocularly as a "pasquil," and Knox
@@ -149,13 +149,13 @@ recommending the institution of something like the early apostolic
 worship in private congregations. Of the Protestant barons Knox, though
 in exile, seems to have been henceforward the chief adviser; and before
 the end of 1557 they, under the name of the "Lords of the Congregation,"
-had entered into the first of the religious "bands" or "covenants"
+had entered into the first of the religious "bands" or "[[Covenant|covenants]]"
 afterwards famous in Scotland. In 1558 he published his "Appellation" to
 the nobles, estates and commonalty against the sentence of death
 recently pronounced upon him, and along with it a stirring appeal "To
 his beloved brethren, the Commonalty of Scotland," urging that the care
 of religion fell to them also as being "God's creatures, created and
-formed in His own image," and having a right to defend their conscience
+formed in His own [[Image|image]]," and having a right to defend their conscience
 against persecution. About this time, indeed, there was in Scotland a
 remarkable approximation to that solution of the toleration difficulty
 which later ages have approved; for the regent was understood to favour
@@ -167,8 +167,8 @@ next year the regent, whose daughter was now queen of France and there
 mixed up with the persecuting policy of the Guises, forbade the reformed
 preaching in Scotland. A rupture ensued at once, and Knox appeared in
 Edinburgh on the 2nd of May 1559 "even in the brunt of the battle." He
-was promptly "blown to the horn" at the Cross there as an outlaw, but
-escaped to Dundee, and commenced public preaching in the chief towns of
+was promptly "blown to the [[Horn|horn]]" at the Cross there as an outlaw, but
+escaped to [[Dundee]], and commenced public preaching in the chief towns of
 central Scotland. At Perth and at St Andrews his sermons were followed
 by the destruction of the monasteries, institutions disliked in that age
 in Scotland alike by the devout and the profane. But while he notes that
@@ -193,14 +193,14 @@ in Scotland had disappointed his hopes, he had published a treatise
 against what he called "The Monstrous Regiment (regimen or government)
 of Women"; though the despotism of that despotic age was scarcely
 appreciably worse when it happened to be in female hands. Elizabeth
-never forgave him; but Cecil corresponded with the Scottish lords, and
+never forgave him; but [[Cecil]] corresponded with the Scottish lords, and
 their answer in July 1559, in Knox's handwriting, assures England not
 only of their own constancy, but of "a charge and commandment to our
 posterity, that the amity and league between you and us, contracted and
 begun in Christ Jesus, may by them be kept inviolated for ever." The
 league was promised by England; but the army of France was first in the
 field, and towards the end of the year drove the forces of the
-"congregation" from Leith into Edinburgh, and then out of it in a
+"congregation" from [[Leith]] into Edinburgh, and then out of it in a
 midnight rout to Stirling--"that dark and dolorous night," as Knox long
 afterwards said, "wherein all ye, my lords, with shame and fear left
 this town," and from which only a memorable sermon by their great
@@ -213,7 +213,7 @@ Scots allies; and the French embarked from Leith. On the 6th of July
 queen of France and Scotland; while Cecil instructed his mistress's
 plenipotentiaries to agree "that the government of Scotland be granted
 to the nation of the land." The revolution was in the meantime complete;
-and Knox, who takes credit for having done much to end the enmity with
+and Knox, who takes [[Credit|credit]] for having done much to end the enmity with
 England which was so long thought necessary for Scotland's independence,
 was strangely enough destined, beyond all other men, to leave the stamp
 of a more inward independence upon his country and its history.
@@ -248,7 +248,7 @@ or "particular kirks," and these grew and spread and were provincially
 united, till, in the last month of this memorable year, the first
 General Assembly of their representatives met, and became the "universal
 kirk," or "the whole church convened." It had before it the plan for
-church government and maintenance, drafted in August at the same time
+church government and [[Maintenance|maintenance]], drafted in August at the same time
 with the Confession, under the name of _The Book of Discipline_, and by
 the same framers. Knox was even more clearly in this case the chief
 author, and he had by this time come to desire a much more rigid
@@ -266,7 +266,7 @@ churches is to go on everywhere under the guidance of higher church
 officers called superintendents. All are to help their brethren, "for no
 man may be permitted to live as best pleaseth him within the Church of
 God." And above all things the young and the ignorant are to be
-instructed, the former by a regular gradation or ladder of parish or
+instructed, the former by a regular gradation or [[Ladder|ladder]] of parish or
 elementary schools, secondary schools and universities. Even the poor
 were to be fed by the Church's hands; and behind its moral influence,
 and a discipline over both poor and rich, was to be not only the
@@ -292,7 +292,7 @@ foreseen alike to the new Church, and to the commonalty and poor, began
 to be fulfilled a month later, when the lords, some of whom had already
 acquired, as others were about to acquire, much of the Church property,
 declined to make any of it over for Knox's magnificent scheme. It was,
-they said, "a devout imagination." Seven years afterwards, however, when
+they said, "a devout [[Imagination|imagination]]." Seven years afterwards, however, when
 the contest with the Crown was ended, the kirk was expressly
 acknowledged as the only Church in Scotland, and jurisdiction given it
 over all who should attempt to be outsiders; while the preaching of the
@@ -320,7 +320,7 @@ against Protestant intrusion. Knox publicly protested; and Moray, who
 probably understood and liked both parties, brought the preacher to the
 presence of his queen. There is nothing revealed to us by "the broad
 clear light of that wonderful book,"[1] _The History of the Reformation
-in Scotland_, more remarkable than the four Dialogues or interviews,
+in Scotland_, more remarkable than the four [[Dialogue|Dialogues]] or interviews,
 which, though recorded only by Knox, bear the strongest stamp of truth,
 and do almost more justice to his opponent than to himself. Mary took
 the aggressive and very soon raised the real question. "Ye have taught
@@ -339,7 +339,7 @@ may have learned from their teacher Major, but which were not to be
 accepted till a later age. "'Think ye,' quoth she, 'that subjects,
 having power, may resist their princes?' 'If their princes exceed their
 bounds, Madam, they may be resisted and even deposed,'" Knox replied.
-But these dialectics, creditable to both parties, had little effect upon
+But these [[Dialectic|dialectics]], creditable to both parties, had little effect upon
 the general situation. Knox had gone too far in intolerance, and Moray
 and Maitland of Lethington gradually withdrew their support. The court
 and parliament, guided by them, declined to press the queen or to pass
@@ -354,7 +354,7 @@ greatest sermons before the assembled lords, he drove at the heart of
 the situation--the risk of a Catholic marriage. The queen sent for him
 for the last time and burst into passionate tears as she asked, "What
 have you to do with my marriage? Or what are you within this
-commonwealth?" "A subject born within the same," was the answer of the
+[[Commonwealth|commonwealth]]?" "A subject born within the same," was the answer of the
 son of the East Lothian peasant; and the Scottish nobility, while
 thinking him overbold, refused to find him guilty of any crime, even
 when, later on, he had "convocated the lieges" to Edinburgh to meet a
@@ -362,7 +362,7 @@ crown prosecution. In 1564 a change came. Mary had wearied of her
 guiding statesmen, Moray and the more pliant Maitland; the Italian
 secretary David Rizzio, through whom she had corresponded with the pope,
 now more and more usurped their place; and a weak fancy for her handsome
-cousin, Henry Darnley, brought about a sudden marriage in 1565 and swept
+[[Cousin|cousin]], Henry Darnley, brought about a sudden marriage in 1565 and swept
 the opposing Protestant lords into exile. Darnley, though a Catholic,
 thought it well to go to Knox's preaching; but was so unfortunate as to
 hear a very long sermon, with allusions not only to "babes and women" as
@@ -388,7 +388,7 @@ was in Edinburgh. But he was influential at the December Assembly in the
 capital where a greater tragedy was now preparing, for Mary's
 infatuation for Bothwell was visible to all. At the Assembly's request,
 however, Knox undertook a long visit to England, where his two sons by
-his first wife were being educated, and were afterwards to be Fellows of
+his first wife were being educated, and were afterwards to be [[Fellows]] of
 St John's, Cambridge, the younger becoming a parish clergyman. It was
 thus during the reformer's absence that the murder of Darnley, the
 abduction and subsequent marriage of Mary, the flight of Bothwell, and
@@ -396,7 +396,7 @@ the imprisonment in Lochleven of the queen, unrolled themselves before
 the eyes of Scotland. Knox returned in time to guide the Assembly which
 sat on the 25th of June 1567 in dealing with this unparalleled crisis,
 and to wind up the revolution by preaching at Stirling on the 9th of
-July 1567, after Mary's abdication, at the coronation of the infant
+July 1567, after Mary's abdication, at the [[Coronation|coronation]] of the infant
 king.
 
 His main work was now really done; for the parliament of 1567 made Moray
@@ -408,7 +408,7 @@ tolerating her private religion. Knox's victory had not come too early,
 for his physical strength soon began to fail. But Mary's escape in 1568
 resulted only in her defeat at Langside, and in a long imprisonment and
 death in England. In Scotland the regent's assassination in 1570 opened
-a miserable civil war, but it made no permanent change. The massacre of
+a miserable civil war, but it made no permanent change. The [[Massacre|massacre]] of
 St Bartholomew rather united English and Scottish Protestantism; and
 Knox in St Giles' pulpit, challenging the French ambassador to report
 his words, denounced God's vengeance on the crowned murderer and his
@@ -451,7 +451,7 @@ probably founded on a portrait which was to be sent by Young to Beza
 along with the letter. The portrait, which was unfortunately adopted by
 Carlyle, has neither pedigree nor probability. After his two years in
 the French galleys, if not before, Knox suffered permanently from gravel
-and dyspepsia, and he confesses that his nature "was for the most part
+and [[Dyspepsia|dyspepsia]], and he confesses that his nature "was for the most part
 oppressed with melancholy." Yet he was always a hard worker; as sole
 minister of Edinburgh studying for two sermons on Sunday and three
 during the week, besides having innumerable cares of churches at home
@@ -463,7 +463,7 @@ enriched his sympathies as well as his energies, left him unable to put
 himself in the place of those who retained the views which he had
 himself held. All his training too, university, priestly and in foreign
 parts, tended to make him logical overmuch. But this was mitigated by a
-strong sense of humour (not always sarcastic, though sometimes savagely
+strong sense of [[Humour|humour]] (not always sarcastic, though sometimes savagely
 so), and by tenderness, best seen in his epistolary friendships with
 women; and it was quite overborne by an instinct and passion for great
 practical affairs. Hence it was that Knox as a statesman so often struck
@@ -482,7 +482,7 @@ he had to work for the future. That work was indeed chiefly done by the
 living voice; and in speaking, this "one man," as Elizabeth's very
 critical ambassador wrote from Edinburgh, was "able in one hour to put
 more life in us than five hundred trumpets continually blustering in our
-ears." But even his eloquence was constraining and constructive--a
+[[Ear|ears]]." But even his eloquence was constraining and constructive--a
 personal call for immediate and universal co-operation; and that
 personal influence survives to this day in the institutions of his
 people, and perhaps still more in their character. His countrymen indeed
@@ -494,7 +494,7 @@ its place in literature.
 
   BIBLIOGRAPHY.--Knox's books, pamphlets, public documents and letters
   are collected into the great edition in six volumes of _Knox's Works_,
-  by David Laing (Edinburgh, 1846-1864), with introductions, appendices
+  by David [[Laing]] (Edinburgh, 1846-1864), with introductions, appendices
   and notes. Of his books the chief are the following: 1.--_The History
   of the Reformation in Scotland_, incorporating the Confession and the
   Book of Discipline. Begun by Knox as a party manifesto in 1560, it was
@@ -504,7 +504,7 @@ its place in literature.
   but was suppressed by authority and published by David Buchanan, with
   a _Life_, in 1664. 2.--_On Predestination: an Answer to an Anabaptist_
   (London, 1591). 3.--_On Prayer_ (1554). 4.--_On Affliction_ (1556).
-  5.--_Epistles_, and _Admonition_, both to English Brethren in 1554.
+  5.--_[[Epistle|Epistles]]_, and _Admonition_, both to English Brethren in 1554.
   6.--_The First Blast of the Trumpet against the Monstrous Regiment of
   Women_ (1558). 7.--_An Answer to a Scottish Jesuit_ (1572).
 

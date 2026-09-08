@@ -2,10 +2,10 @@
 
 DROYSEN, JOHANN GUSTAV (1808-1884), German historian, was born on the
 6th of July 1808 at Treptow in Pomerania. His father, Johann Christoph
-Droysen, was an army chaplain, in which capacity he was present at the
+Droysen, was an army [[Chaplain|chaplain]], in which capacity he was present at the
 celebrated siege of Kolberg in 1806-7. As a child young Droysen
 witnessed some of the military operations during the War of Liberation,
-for his father was pastor at Greifenhagen, in the immediate
+for his father was pastor at [[Greifenhagen]], in the immediate
 neighbourhood of Stettin, which was held by the French during the
 greater part of 1813. The impressions of these early years laid the
 foundation of the ardent attachment to Prussia which distinguished him,
@@ -29,12 +29,12 @@ translated into French, but not into English.
 
 In 1840 Droysen was appointed professor of history at Kiel. He was at
 once attracted into the political movement for the defence of the rights
-of the Elbe duchies, of which Kiel was the centre. Like his predecessor
-F. C. Dahlmann, he placed his historical learning at the service of the
+of the [[Elbe]] duchies, of which Kiel was the centre. Like his predecessor
+F. C. [[Dahlmann]], he placed his historical learning at the service of the
 estates of Schleswig-Holstein and composed the address of 1844, in which
 the estates protested against the claim of the king of Denmark to alter
 the law of succession in the duchies. In 1848 he was elected a member of
-the Frankfort parliament, and acted as secretary to the committee for
+the [[Frankfort]] parliament, and acted as secretary to the committee for
 drawing up the constitution. He was a determined supporter of Prussian
 ascendancy, and was one of the first members to retire after the king of
 Prussia refused the imperial crown in 1849. During the next two years he
@@ -65,7 +65,7 @@ also gave him so much influence as a teacher.
 
 Droysen, who was twice married, died in Berlin on the 19th of June 1884.
 His eldest son, Gustav, is the author of several well-known historical
-works, namely, _Gustav Adolf_ (Leipzig, 1869-1870); _Herzog Bernhard von
+works, namely, _Gustav Adolf_ (Leipzig, 1869-1870); _[[Herzog]] Bernhard von
 Weimar_ (Leipzig, 1885); an admirable _Historischer Handatlas_ (Leipzig,
 1885), and several writings on various events of the Thirty Years' War.
 Another son, Hans Droysen, is the author of some works on Greek history

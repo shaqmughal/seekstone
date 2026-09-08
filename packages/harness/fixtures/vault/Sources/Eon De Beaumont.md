@@ -1,11 +1,11 @@
 # Eon De Beaumont
 
 EON DE BEAUMONT, CHARLES GENEVIEVE LOUISE AUGUSTE ANDRE TIMOTHEE D'
-(1728-1810), commonly known as the CHEVALIER D'EON, French political
+(1728-1810), commonly known as the [[Chevalier|CHEVALIER]] D'EON, French political
 adventurer, famous for the supposed mystery of his sex, was born near
 Tonnerre in Burgundy, on the 7th of October 1728. He was the son of an
 advocate of good position, and after a distinguished course of study at
-the College Mazarin he became a doctor of law by special dispensation
+the College Mazarin he became a doctor of law by special [[Dispensation|dispensation]]
 before the usual age, and adopted his father's profession. He began
 literary work as a contributor to Freron's _Annee litteraire_, and
 attracted notice as a political writer by two works on financial and
@@ -16,7 +16,7 @@ XV. (who had originally started his "secret" foreign policy--i.e. by
 undisclosed agents behind the backs of his ministers--in favour of the
 prince of Conti's ambition to be king of Poland) with a secret mission
 to the court of Russia. It was on this occasion that he is said for the
-first time to have assumed the dress of a woman, with the connivance, it
+first time to have assumed the [[Dress|dress]] of a woman, with the connivance, it
 is supposed, of the French court.[1] In this disguise he obtained the
 appointment of reader to the empress Elizabeth, and won her over
 entirely to the views of his royal master, with whom he maintained a
@@ -30,9 +30,9 @@ these diplomatic services he was rewarded with the decoration of the
 grand cross of St Louis. In 1759 he served with the French army on the
 Rhine as aide-de-camp to the marshal de Broglie, and was wounded during
 the campaign. He had held for some years previously a commission in a
-regiment of dragoons, and was distinguished for his skill in military
+regiment of [[Dragoon|dragoons]], and was distinguished for his skill in military
 exercises, particularly in fencing. In 1762, on the return of the duc de
-Nivernais, d'Eon, who had been secretary to his embassy, was appointed
+Nivernais, d'Eon, who had been secretary to his [[Embassy|embassy]], was appointed
 his successor, first as resident agent and then as minister
 plenipotentiary at the court of Great Britain. He had not been long in
 this position when he lost the favour of his sovereign, chiefly,
@@ -54,10 +54,10 @@ in the story of his first residence at St Petersburg as a female, began
 to excite public interest. In 1774 he published at Amsterdam a book
 called _Les Loisirs du Chevalier d'Eon_, which stimulated gossip. Bets
 were frequently laid on the subject, and an action raised before Lord
-Mansfield in 1777 for the recovery of one of these bets brought the
+[[Mansfield]] in 1777 for the recovery of one of these bets brought the
 question to a judicial decision, by which d'Eon was declared a female. A
 month after the trial he returned to France, having received permission
-to do so as the result of negotiations in which Beaumarchais was
+to do so as the result of negotiations in which [[Beaumarchais]] was
 employed as agent. The conditions were that he was to deliver up certain
 state documents in his possession, and to wear the dress of a female.
 The reason for the latter of these stipulations has never been clearly
@@ -74,7 +74,7 @@ of the body conclusively established the fact that d'Eon was a man.
 
   The best modern accounts are in the duc de Broglie's _Le Secret du
   roi_ (1888); Captain J. Buchan Telfer's _Strange Career of the
-  Chevalier d'Eon_ (1888); Octave Homberg and Fernand Jousselin, _Le
+  Chevalier d'Eon_ (1888); Octave [[Homberg]] and Fernand Jousselin, _Le
   Chevalier d'Eon_ (1904); and A. Lang's _Historical Mysteries_ (1904).
 
 

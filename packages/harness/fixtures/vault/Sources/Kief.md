@@ -1,6 +1,6 @@
 # Kief
 
-KIEF, KEF or KEIF (a colloquial form of the Arabic _kaif_, pleasure or
+KIEF, [[Kef|KEF]] or KEIF (a colloquial form of the Arabic _kaif_, pleasure or
 enjoyment), the state of drowsy contentment produced by the use of
 narcotics. To "do kef," or to "make kef," is to pass the time in such a
 state. The word is used in northern Africa, especially in Morocco, for

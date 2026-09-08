@@ -12,10 +12,10 @@ LEONARDO DA VINCI (1452-1519), the great Italian painter, sculptor,
 architect, musician, mechanician, engineer and natural philosopher, was
 the son of a Florentine lawyer, born out of wedlock by a mother in a
 humble station, variously described as a peasant and as of gentle birth.
-The place of his birth was Vinci, a _castello_ or fortified hill village
-in the Florentine territory near Empoli, from which his father's family
+The place of his birth was Vinci, a _[[Castello|castello]]_ or fortified hill village
+in the Florentine territory near [[Empoli]], from which his father's family
 derived its name. The Christian name of the father was Piero (the son of
-Antonio the son of Piero the son of Guido, all of whom had been men of
+[[Antonio]] the son of Piero the son of Guido, all of whom had been men of
 law like their descendant). Leonardo's mother was called Catarina. Her
 relations with Ser Piero da Vinci seem to have come to an end almost
 immediately upon the birth of their son. She was soon afterwards married
@@ -27,8 +27,8 @@ that city Ser Piero followed his profession with success, as notary to
 many of the chief families in the city, including the Medici, and
 afterwards to the signory or governing council of the state. The son
 born to him before marriage grew up into a youth of shining promise. To
-splendid beauty and activity of person he joined a winning charm of
-temper and manners, a tact for all societies, and an aptitude for all
+splendid beauty and activity of person he joined a winning [[Charm|charm]] of
+temper and [[Manners|manners]], a tact for all societies, and an aptitude for all
 accomplishments. An inexhaustible intellectual energy and curiosity lay
 beneath this amiable surface. Among the multifarious pursuits to which
 the young Leonardo set his hand, the favourites at first were music,
@@ -40,9 +40,9 @@ Verrocchio, although hardly one of the great creative or inventive
 forces in the art of his age at Florence, was a first-rate craftsman
 alike as goldsmith, sculptor and painter, and particularly distinguished
 as a teacher. In his studio Leonardo worked for several years (about
-1470-1477) in the company of Lorenzo di Credi and other less celebrated
+1470-1477) in the company of Lorenzo di [[Credi]] and other less celebrated
 pupils. Among his contemporaries he formed special ties of friendship
-with the painters Sandro Botticelli and Pietro Perugino. He had soon
+with the painters Sandro [[Botticelli]] and Pietro Perugino. He had soon
 learnt all that Verrocchio had to teach--more than all, if we are to
 believe the oft-told tale of the figure, or figures, executed by the
 pupil in the picture of Christ's Baptism designed by the master for the
@@ -74,7 +74,7 @@ for perfection. By his own instincts he was an exclusive student of
 nature. From his earliest days he had flung himself upon that study
 with an unprecedented ardour of delight and curiosity. In drawing from
 life he had early found the way to unite precision with freedom and
-fire--the subtlest accuracy of expressive definition with vital movement
+fire--the subtlest accuracy of expressive [[Definition|definition]] with vital movement
 and rhythm of line--as no draughtsman had been able to unite them
 before. He was the first painter to recognize the play of light and
 shade as among the most significant and attractive of the world's
@@ -84,9 +84,9 @@ broad, usual, patent appearances only of the world; its fugitive,
 fantastic, unaccustomed appearances attracted him most of all. Strange
 shapes of hills and rocks, rare plants and animals, unusual faces and
 figures of men, questionable smiles and expressions, whether beautiful
-or grotesque, far-fetched objects and curiosities, were things he loved
+or [[Grotesque|grotesque]], far-fetched objects and curiosities, were things he loved
 to pore upon and keep in memory. Neither did he stop at mere appearances
-of any kind, but, having stamped the image of things upon his brain,
+of any kind, but, having stamped the [[Image|image]] of things upon his brain,
 went on indefatigably to probe their hidden laws and causes. He soon
 satisfied himself that the artist who was content to reproduce the
 external aspects of things without searching into the hidden workings of
@@ -101,15 +101,15 @@ insatiable spirit of inquiry.
 
 The evidence of the young man's predilections and curiosities is
 contained in the legends which tell of lost works produced by him in
-youth. One of these was a cartoon or monochrome painting of Adam and Eve
-in tempera, and in this, besides the beauty of the figures, the infinite
+youth. One of these was a [[Cartoon|cartoon]] or monochrome painting of Adam and Eve
+in tempera, and in this, besides the beauty of the figures, the [[Infinite|infinite]]
 truth and elaboration of the foliage and animals in the background are
 celebrated in terms which bring to mind the treatment of the subject by
 Albrecht Dürer in his famous engraving done thirty years later. Again, a
 peasant of Vinci having in his simplicity asked Ser Piero to get a
 picture painted for him on a wooden shield, the father is said to have
 laughingly handed on the commission to his son, who thereupon shut
-himself up with all the noxious insects and grotesque reptiles he could
+himself up with all the noxious [[Insect|insects]] and grotesque reptiles he could
 find, observed and drew and dissected them assiduously, and produced at
 last a picture of a dragon compounded of their various shapes and
 aspects, which was so fierce and so life-like as to terrify all who saw
@@ -144,7 +144,7 @@ painted of Ginevra de' Benci used to be traditionally identified with
 the fine portrait of a matron at the Pitti absurdly known as _La
 Monaca_: more lately it has been recognized in a rather dull,
 expressionless Verrocchiesque portrait of a young woman with a fanciful
-background of pine-sprays in the Liechtenstein gallery at Vienna.
+background of pine-sprays in the [[Liechtenstein]] gallery at Vienna.
 Neither attribution can be counted convincing. Several works of
 sculpture, including a bas-relief at Pistoia and a small terra-cotta
 model of a St John at the Victoria and Albert Museum, have also been
@@ -159,9 +159,9 @@ Madonnas, including a charming series in the British Museum for a
 of his independence. A sheet with two studies of heads bears a MS. note
 of 1478, saying that in one of the last months of that year he began
 painting the "Two Maries." One of the two may have been a picture of the
-Virgin appearing to St Bernard, which we know he was commissioned to
+Virgin appearing to St [[Bernard]], which we know he was commissioned to
 paint in that year for a chapel in the Palace of the Signory, but never
-finished: the commission was afterwards transferred to Filippino Lippi,
+finished: the commission was afterwards transferred to Filippino [[Lippi]],
 whose performance is now in the Badia. One of the two heads on this
 dated sheet may probably have been a study for the same St Bernard; it
 was used afterwards by some follower for a St Leonard in a stiff and
@@ -179,14 +179,14 @@ preserved at the Uffizi, but the painting itself was never carried out,
 and after Leonardo's failure to fulfil his contract Filippino Lippi had
 once more to be employed in his place. Of equal or even more intense
 power, though of narrower scope, is an unfinished monochrome preparation
-for a St Jerome, found accidentally at Rome by Cardinal Fesch and now in
+for a St Jerome, found accidentally at Rome by Cardinal [[Fesch]] and now in
 the Vatican gallery; this also seems to belong to the first Florentine
 period, but is not mentioned in documents.
 
 The tale of completed work for these twelve or fourteen years (1470-1483
 or thereabouts) is thus very scanty. But it must be remembered that
-Leonardo was already full of projects in mechanics, hydraulics,
-architecture, and military and civil engineering, ardently feeling his
+Leonardo was already full of projects in mechanics, [[Hydraulics|hydraulics]],
+architecture, and military and civil [[Engineering|engineering]], ardently feeling his
 way in the work of experimental study and observation in every branch of
 theoretical or applied science in which any beginning had been made in
 his age, as well as in some in which he was himself the first pioneer.
@@ -202,7 +202,7 @@ dark-tempered, secret or morose; he was open and genial with all men. He
 has indeed praised "the self-sufficing power of solitude" in almost the
 same phrase as Wordsworth, and from time to time would even in youth
 seclude himself for a season in complete intellectual absorption, as
-when he toiled among his bats and wasps and lizards, forgetful of rest
+when he toiled among his bats and wasps and [[Lizard|lizards]], forgetful of rest
 and food, and insensible to the noisomeness of their corruption. But we
 have to picture him as anon coming out and gathering about him a
 tatterdemalion company, and jesting with them until they were in fits of
@@ -212,13 +212,13 @@ older generation like the mathematician Benedetto Aritmetico, the
 physician, geographer and astronomer Paolo Toscanelli, the famous Greek
 Aristotelian Giovanni Argiropoulo; or as out-rivalling all the youth of
 the city now by charm of recitation, now by skill in music and now by
-feats of strength and horsemanship; or as stopping to buy caged birds in
+feats of strength and [[Horsemanship|horsemanship]]; or as stopping to buy caged birds in
 the market that he might set them free and watch them rejoicing in their
 flight; or again as standing radiant in his rose-coloured cloak and his
 rich gold hair among the throng of young and old on the piazza, and
 holding them spellbound while he expatiated on the great projects in art
 and mechanics that were teeming in his mind. Unluckily it is to written
-records and to imagination that we have to trust exclusively for our
+records and to [[Imagination|imagination]] that we have to trust exclusively for our
 picture. No portrait of Leonardo as he appeared during this period of
 his life has come down to us.
 
@@ -232,7 +232,7 @@ mixed cult of the classic past and of a Christianity mystically blended
 and reconciled with Platonism, uncongenial to him. At any rate he was
 ready to leave Florence when the chance was offered him of fixed service
 at the court of Ludovico Sforza (il Moro) at Milan. Soon after that
-prince had firmly established his power as nominal guardian and
+prince had firmly established his power as nominal [[Guardian|guardian]] and
 protector of his nephew Gian Galeazzo but really as usurping ruler of
 the state, he revived a project previously mooted for the erection of an
 equestrian monument in honour of the founder of his house's greatness,
@@ -256,30 +256,30 @@ Milan dates from 1487. Some biographers have supposed that the interval,
 or part of it, between 1483 and that date was occupied by travels in the
 East. The grounds of the supposition are some drafts occurring among his
 MSS. of a letter addressed to the _diodario_ or _diwâdar_ of Syria,
-lieutenant of the sultan of Babylon (Babylon meaning according to a
+lieutenant of the sultan of [[Babylon]] (Babylon meaning according to a
 usage of that time Cairo). In these drafts Leonardo describes in the
 first person, with sketches, a traveller's strange experiences in Egypt,
-Cyprus, Constantinople, the Cilician coasts about Mount Taurus and
-Armenia. He relates the rise and persecution of a prophet and preacher,
-the catastrophe of a falling mountain and submergence of a great city,
+[[Cyprus]], Constantinople, the Cilician coasts about Mount Taurus and
+[[Armenia]]. He relates the rise and persecution of a prophet and preacher,
+the [[Catastrophe|catastrophe]] of a falling mountain and submergence of a great city,
 followed by a general inundation, and the claim of the prophet to have
-foretold these disasters; adding physical descriptions of the Euphrates
+foretold these disasters; adding physical descriptions of the [[Euphrates]]
 river and the marvellous effects of sunset light on the Taurus range. No
 contemporary gives the least hint of Leonardo's having travelled in the
 East; to the places he mentions he gives their classical and not their
 current Oriental names; the catastrophes he describes are unattested
-from any other source; he confuses the Taurus and the Caucasus; some of
-the phenomena he mentions are repeated from Aristotle and Ptolemy; and
+from any other source; he confuses the Taurus and the [[Caucasus]]; some of
+the phenomena he mentions are repeated from [[Aristotle]] and Ptolemy; and
 there seems little reason to doubt that these passages in his MSS. are
 merely his drafts of a projected geographical treatise or perhaps
-romance. He had a passion for geography and travellers' tales, for
+romance. He had a passion for [[Geography|geography]] and travellers' tales, for
 descriptions of natural wonders and ruined cities, and was himself a
 practised fictitious narrator and fabulist, as other passages in his
-MSS. prove. Neither is the gap in the account of his doings after he
+MSS. prove. Neither is the [[Gap|gap]] in the account of his doings after he
 first went to the court of Milan really so complete as has been
 represented. Ludovico was vehemently denounced and attacked during the
 earlier years of his usurpation, especially by the partisans of his
-sister-in-law Bona of Savoy, the mother of the rightful duke, young Gian
+sister-in-law [[Bona]] of Savoy, the mother of the rightful duke, young Gian
 Galeazzo. To repel these attacks he employed the talents of a number of
 court poets and artists, who in public recitation and pageant, in
 emblematic picture and banner and device, proclaimed the wisdom and
@@ -289,7 +289,7 @@ projects among his MSS. and by allegoric sketches still extant. Several
 such sketches are at Christ Church, Oxford: one shows a horned hag or
 she-fiend urging her hounds to an attack on the state of Milan, and
 baffled by the Prudence and Justice of Il Moro (all this made clear by
-easily recognizable emblems). The allusion must almost certainly be to
+easily recognizable [[Emblem|emblems]]). The allusion must almost certainly be to
 the attempted assassination of Ludovico by agents of the duchess Bona in
 1484. Again, it must have been the pestilence decimating Milan in
 1484-1485 which gave occasion to the projects submitted by Leonardo to
@@ -307,8 +307,8 @@ upshot none of them was carried out. From the beginning of his residence
 with Ludovico his combination of unprecedented mechanical ingenuity with
 apt allegoric invention and courtly charm and eloquence had made him the
 directing spirit in all court ceremonies and festivities. On the
-occasion of the marriage of the young duke Gian Galeazzo with Isabella
-of Aragon in 1487, we find Leonardo devising all the mechanical and
+occasion of the marriage of the young duke Gian Galeazzo with [[Isabella]]
+of [[Aragon]] in 1487, we find Leonardo devising all the mechanical and
 spectacular part of a masque of Paradise; and presently afterwards
 designing a bathing pavilion of unheard-of beauty and ingenuity for the
 young duchess. Meanwhile he was filling his note-books as busily as ever
@@ -321,7 +321,7 @@ existing sketches for the work (of which the chief collection is at
 Windsor) cannot be distinctly dated. In 1490, the seventh year of his
 residence at Milan, after some expressions of impatience on the part of
 his patron, he had all but got his model ready for display on the
-occasion of the marriage of Ludovico with Beatrice d'Este, but at the
+occasion of the marriage of Ludovico with [[Beatrice]] d'Este, but at the
 last moment was dissatisfied with what he had done and determined to
 begin all over again.
 
@@ -332,7 +332,7 @@ architectural difficulties concerning the cathedral. Here also the study
 of an ancient equestrian monument (the so-called _Regisole_, destroyed
 in 1796) gave him fresh ideas for his Francesco Sforza. In January 1491
 a double Sforza-Este marriage (Ludovico Sforza himself with Beatrice
-d'Este, Alfonso d'Este with Anna Sforza the sister of Gian Galeazzo)
+d'Este, Alfonso d'Este with [[Anna]] Sforza the sister of Gian Galeazzo)
 again called forth his powers as a masque and pageant-master. For the
 next following years the ever-increasing gaiety and splendour of the
 Milanese court gave him continual employment in similar kinds, including
@@ -342,11 +342,11 @@ among his MSS. occur the drafts of many such, some of them both profound
 and pungent. Meanwhile he was again at work upon the monument to
 Francesco Sforza, and this time to practical purpose. When ambassadors
 from Austria came to Milan towards the close of 1493 to escort the
-betrothed bride of their emperor Maximilian, Bianca Maria Sforza, away
+betrothed [[Bride|bride]] of their emperor [[Maximilian]], Bianca Maria Sforza, away
 on her nuptial journey, the finished colossal model, 26 ft. high, was at
 last in its place for all to see in the courtyard of the Castello.
 Contemporary accounts attest the magnificence of the work and the
-enthusiasm it excited, but are not precise enough to enable us to judge
+[[Enthusiasm|enthusiasm]] it excited, but are not precise enough to enable us to judge
 to which of the two main groups of extant sketches its design
 corresponded. One of these groups shows the horse and rider in
 relatively tranquil march, in the manner of the Gattemalata monument put
@@ -364,7 +364,7 @@ that year the long ousted and secluded prince, Gian Galeazzo, died under
 circumstances more than suspicious. In that year Ludovico, now duke of
 Milan in his own right, for the strengthening of his power against
 Naples, first entered into those intrigues with Charles VIII. of France
-which later brought upon Italy successive floods of invasion, revolution
+which later brought upon Italy successive [[Flood|floods]] of invasion, revolution
 and calamity. The same year was one of special importance in the
 prodigiously versatile activities of Leonardo da Vinci. Documents show
 him, among other things, planning during an absence of several months
@@ -384,7 +384,7 @@ character than the London picture.) In the same year, 1494, or early in
 the next, Leonardo, if Vasari is to be trusted, paid a visit to Florence
 to take part in deliberations concerning the projected new council-hall
 to be constructed in the palace of the Signory. Lastly, recent research
-has proved that it was in 1494 that Leonardo got to work in earnest on
+has proved that it was in 1494 that Leonardo got to work in [[Earnest|earnest]] on
 what was to prove not only by far his greatest but by far his most
 expeditiously and steadily executed work in painting. This was the "Last
 Supper" undertaken for the refectory of the convent church of Sta Maria
@@ -400,7 +400,7 @@ last (1904-1908) been treated with a mastery of scientific resource and
 a tenderness of conscientious skill that have revived for ourselves and
 for posterity a great part of its power. At the same time its true
 history has been investigated and re-established. The intensity of
-intellectual and manual application which Leonardo threw into the work
+intellectual and [[Manual|manual]] application which Leonardo threw into the work
 is proved by the fact that he finished it within four years, in spite of
 all his other avocations and of those prolonged pauses of concentrated
 imaginative effort and intense self-critical brooding to which we have
@@ -414,10 +414,10 @@ the loosened parts and those that remained firm. Decade after decade
 these processes went on, a rain of minute scales and grains falling,
 according to one witness, continually from the surface, till the picture
 seemed to be perishing altogether. In the 18th century attempts were
-first made at restoration. They all proceeded on the false assumption,
+first made at restoration. They all proceeded on the false [[Assumption|assumption]],
 dating from the early years of the 16th century, that the work had been
 executed in oil. With oil it was accordingly at one time saturated in
-hopes of reviving the colours. Other experimenters tried various
+hopes of reviving the [[Colours|colours]]. Other experimenters tried various
 "secrets," which for the most part meant deleterious glues and
 varnishes. Fortunately not very much of actual repainting was
 accomplished except on some parts of the garments. The chief operations
@@ -428,7 +428,7 @@ mildew. Yet this mere ghost of a picture, this evocation, half vanished
 as it was, by a great world-genius of a mighty spiritual world-event,
 remained a thing indescribably impressive. The ghost has now been
 brought back to much of true life again by the skill of the most
-scrupulous of all restorers, Cavaliere Cavenaghi, who, acting under the
+scrupulous of all restorers, [[Cavaliere]] Cavenaghi, who, acting under the
 authority of a competent commission, and after long and patient
 experiment, found it possible to secure to the wall the innumerable
 blistered, mildewed and half-detached flakes and scales of the original
@@ -437,9 +437,9 @@ the obliterating accretions due to decay and mishandling, and to bring
 the whole to unity by touching tenderly in with tempera the spots and
 spaces actually left bare. A further gain obtained through these
 operations has been the uncovering, immediately above the main subject,
-of a beautiful scheme of painted lunettes and vaultings, the lunettes
+of a beautiful scheme of painted [[Lunette|lunettes]] and vaultings, the lunettes
 filled by Leonardo's hand with inscribed scutcheons and interlaced plait
-or knot ornaments (_intrecciamenti_), the vaultings with stars on a blue
+or [[Knot|knot]] ornaments (_intrecciamenti_), the vaultings with stars on a blue
 ground. The total result, if adequate steps can be taken to counteract
 the effects of atmospheric change in future, will remain a splendid gain
 for posterity and a happy refutation of D'Annunzio's despairing poem,
@@ -449,7 +449,7 @@ Leonardo's "Last Supper," for all its injuries, became from the first,
 and has ever since remained, for all Christendom the typical
 representation of the scene. Goethe in his famous criticism has said all
 that needs to be said of it. The painter has departed from precedent in
-grouping the disciples, with their Master in the midst, along the far
+grouping the [[Disciple|disciples]], with their Master in the midst, along the far
 side and the two ends of a long, narrow table, and in leaving the near
 or service side of the table towards the spectator free. The chamber is
 seen in a perfectly symmetrical perspective, its rear wall pierced by
@@ -480,7 +480,7 @@ his own) are perfectly fused with those of his subtlest technical
 calculations on the rhythmical balancing of groups and arrangement of
 figures in space.
 
-Of authentic preparatory studies for this work there remain but few.
+Of [[Authentic|authentic]] preparatory studies for this work there remain but few.
 There is a sheet at the Louvre of much earlier date than the first idea
 or commission for this particular picture, containing some nude sketches
 for the arrangement of the subject; another later and farther advanced,
@@ -518,7 +518,7 @@ the last decade of the 19th century, works of thorough architectural
 investigation and repair were undertaken in that building under the
 superintendence of Professor Luca Beltrami, a devoted foreign student,
 Dr Paul Müller-Walde, obtained leave to scrape for traces of Leonardo's
-handiwork beneath the replastered and white-washed walls and ceilings of
+handiwork beneath the replastered and white-washed walls and [[Ceiling|ceilings]] of
 chambers that might be identified with these. In one small chamber there
 was cleared a frieze of cupids intermingled with foliage; but in this,
 after the first moments of illusion, it was only possible to acknowledge
@@ -550,7 +550,7 @@ them. He counted on baffling them by forming a counter league of the
 principalities of northern Italy, and by raising the Turks against
 Venice, and the Germans and Swiss against France. Germans and Swiss,
 however, inopportunely fell to war against each other. Ludovico
-travelled to Innsbruck, the better to push his interests (September
+travelled to [[Innsbruck]], the better to push his interests (September
 1499). In his absence Louis XII. invaded the Milanese, and the officers
 left in charge of the city surrendered it without striking a blow. The
 invading sovereign, going to Sta Maria delle Grazie with his retinue to
@@ -577,7 +577,7 @@ treacherously refusing to fight against a force of their own countrymen
 led by La Trémouille. Ludovico was taken prisoner and carried to France;
 the city, which had been strictly spared on the first entry of Louis
 XII., was entered and sacked; and the model of Leonardo's great statue
-made a butt (as eye witnesses tell) for Gascon archers. Two years later
+made a [[Butt|butt]] (as eye witnesses tell) for Gascon [[Archer|archers]]. Two years later
 we find the duke Ercole of Ferrara begging the French king's lieutenant
 in Milan to let him have the model, injured as it was, for the adornment
 of his own city; but nothing came of the petition, and within a short
@@ -590,10 +590,10 @@ essentially Florentine, carried out by Leonardo to a point of intense
 and almost glittering finish, of quintessential, almost overstrained,
 refinement in design and expression, and invested with a new element of
 romance by the landscape in which the scene is set--a strange watered
-country of basaltic caves and arches, with the lights and shadows
+country of basaltic caves and [[Arches|arches]], with the lights and shadows
 striking sharply and yet mysteriously among rocks, some upright, some
 jutting, some pendent, all tufted here and there with exquisite growths
-of shrub and flower. The National Gallery "Virgin of the Rocks"
+of shrub and [[Flower|flower]]. The National Gallery "Virgin of the Rocks"
 certainly, with help from Ambrogio de Predis; in this the Florentine
 character of the original is modified by an admixture of Milanese
 elements, the tendency to harshness and over-elaboration of detail
@@ -605,7 +605,7 @@ said. The decorations of the ceiling of the Sala della Torre in the
 Castello. Other paintings done by him at Milan are mentioned, and
 attempts have been made to identify them with works still existing. He
 is known to have painted portraits of two of the king's mistresses,
-Cecilia Gallerani and Lucrezia Crivelli. Cecilia Gallerani used to be
+[[Cecilia]] Gallerani and Lucrezia Crivelli. Cecilia Gallerani used to be
 identified as a lady with ringlets and a lute, depicted in a portrait at
 Milan, now rightly assigned to Bartolommeo Veneto. More lately she has
 by some been conjecturally recognized in a doubtful, though
@@ -621,7 +621,7 @@ are agreed in regarding as a work, done in a lucky hour, of Ambrogio de
 Predis. A portrait of a musician in the same gallery is in like manner
 contested between the master and the pupil. Mention is made of a
 "Nativity" painted for and sent to the emperor Maximilian, and also
-apparently of some picture painted for Matthias Corvinus, king of
+apparently of some picture painted for [[Matthias]] [[Corvinus]], king of
 Hungary; both are lost or at least unidentified. The painters especially
 recorded as Leonardo's immediate pupils during this part of his life at
 Milan are the two before mentioned, Giovanni Antonio Boltraffio and
@@ -634,7 +634,7 @@ the works of such men as Bramantino, Borgognone and Zenale; but his
 genius had in its turn reacted far more strongly upon the younger
 members of the school, and exercised, now or later, a transforming and
 dominating influence not only upon his immediate pupils, but upon men
-like Luini, Giampetrino, Bazzi, Cesare da Sesto and indeed the whole
+like [[Luini]], Giampetrino, Bazzi, Cesare da Sesto and indeed the whole
 Lombard school in the early 15th century. Of sculpture done by him
 during this period we have no remains, only the tragically tantalizing
 history of the Sforza monument. Of drawings there are very many,
@@ -646,8 +646,8 @@ kinds it was a period, as these MSS. attest, of extraordinary activity
 and self-development. At Pavia in 1494 we find him taking up literary
 and grammatical studies, both in Latin and the vernacular; the former,
 no doubt, in order the more easily to read those among the ancients who
-had laboured in the fields that were his own, as Euclid, Galen, Celsus,
-Ptolemy, Pliny, Vitruvius and, above all, Archimedes; the latter with a
+had laboured in the [[Fields|fields]] that were his own, as Euclid, Galen, [[Celsus]],
+Ptolemy, Pliny, Vitruvius and, above all, [[Archimedes]]; the latter with a
 growing hope of some day getting into proper form and order the mass of
 materials he was daily accumulating for treatises on all his manifold
 subjects of enquiry. He had been much helped by his opportunities of
@@ -664,10 +664,10 @@ impression not only in Italy but in the North, where the same
 engravings were copied by Albrecht Dürer. The whole notion has been
 proved mistaken. There existed no such academy at Milan, with Leonardo
 as president. The academies of the day represented the prevailing
-intellectual tendency of Renaissance humanism, namely, an absorbing
+intellectual tendency of Renaissance [[Humanism|humanism]], namely, an absorbing
 enthusiasm for classic letters and for the transcendental speculations
 of Platonic and neo-Platonic mysticism, not unmixed with the traditions
-and practice of medieval alchemy, astrology and necromantics. For these
+and practice of medieval alchemy, [[Astrology|astrology]] and necromantics. For these
 last pursuits Leonardo had nothing but contempt. His many-sided and
 far-reaching studies in experimental science were mainly his own,
 conceived and carried out long in advance of his time, and in communion
@@ -678,7 +678,7 @@ others. But he had no school in any proper sense except his studio, and
 his only scholars were those who painted there. Of these one or two, as
 we have evidence, tried their hands at engraving; among their engravings
 were these "knots," which, being things of use for decorative craftsmen
-to copy, were inscribed for identification, and perhaps for protection,
+to copy, were inscribed for [[Identification|identification]], and perhaps for protection,
 as coming from the Achademia Leonardi Vinci; a trifling matter
 altogether, and quite unfit to sustain the elaborate structure of
 conjecture which has been built on it.
@@ -700,14 +700,14 @@ already received the commission, courteously retiring from it in his
 favour. A year passed by, and no progress had been made with the
 painting. Questions of physical geography and engineering engrossed him
 as much as ever. He writes to correspondents making enquiries about the
-tides in the Euxine and Caspian Seas. He reports for the information of
+tides in the Euxine and [[Caspian Sea|Caspian Seas]]. He reports for the information of
 the _Arte de' Mercanti_ on the precautions to be taken against a
 threatening landslip on the hill of S. Salvatore dell' Osservanza. He
 submits drawings and models for the canalization and control of the
 waters of the Arno, and propounds, with compulsive eloquence and
-conviction, a scheme for transporting the Baptistery of St John, the
-"bel San Giovanni" of Dante, to another part of the city, and elevating
-it on a stately basement of marble. Meantime the Servite brothers of the
+conviction, a scheme for transporting the [[Baptistery]] of St John, the
+"[[Bel|bel]] San Giovanni" of [[Dante]], to another part of the city, and elevating
+it on a stately [[Basement|basement]] of [[Marble|marble]]. Meantime the Servite brothers of the
 Annunziata were growing impatient for the completion of their
 altar-piece. In April 1501 Leonardo had only finished the cartoon, and
 this all Florence flocked to see and admire. Isabella Gonzaga, who
@@ -719,8 +719,8 @@ Madonna, devout and sweet as is natural to him." In reply her
 correspondent says that the master is wholly taken up with geometry and
 very impatient of the brush, but at the same time tells her all about
 his just completed cartoon for the Annunziata. The subject was the
-Virgin seated in the lap of St Anne, bending forward to hold her child
-who had half escaped from her embrace to play with a lamb upon the
+Virgin seated in the lap of St [[Anne]], bending forward to hold her child
+who had half escaped from her embrace to play with a [[Lamb|lamb]] upon the
 ground. The description answers exactly to the composition of the
 celebrated picture of the Virgin and St Anne at the Louvre. A cartoon of
 this composition in the Esterhazy collection at Vienna is held to be
@@ -750,7 +750,7 @@ In spite of the universal praise of his cartoon, Leonardo did not
 persevere with the picture, and the monks of the Annunziata had to give
 back the commission to Filippino Lippi, at whose death the task was
 completed by Perugino. It remains uncertain whether a small Madonna with
-distaff and spindle, which the correspondent of Isabella Gonzaga reports
+[[Distaff|distaff]] and spindle, which the correspondent of Isabella Gonzaga reports
 Leonardo as having begun for one Robertet, a favourite of the king of
 France, was ever finished. He painted one portrait, it is said, at this
 time, that of Ginevra Benci, a kinswoman, perhaps sister, of a youth
@@ -772,37 +772,37 @@ suddenly took service, in the spring of 1502, with Cesare Borgia, duke
 of Valentinois, then almost within sight of the realization of his huge
 ambitions, and meanwhile occupied in consolidating his recent conquests
 in the Romagna. Between May 1502 and March 1503 Leonardo travelled as
-chief engineer to Duke Caesar over a great part of central Italy.
+chief engineer to Duke [[Caesar]] over a great part of central Italy.
 Starting with a visit to Piombino, on the coast opposite Elba, he went
 by way of Siena to Urbino, where he made drawings and began works; was
-thence hastily summoned by way of Pesaro and Rimini to Cesena; spent two
+thence hastily summoned by way of Pesaro and Rimini to [[Cesena]]; spent two
 months between there and Cesenatico, projecting and directing canal and
 harbour works, and planning the restoration of the palace of Frederic
 II.; thence hurriedly joined his master, momentarily besieged by enemies
 at Imola; followed him probably to Sinigaglia and Perugia, through the
 whirl of storms and surprises, vengeances and treasons, which marked his
-course that winter, and finally, by way of Chiusi and Acquapendente, as
+course that winter, and finally, by way of [[Chiusi]] and Acquapendente, as
 far as Orvieto and probably to Rome, where Caesar arrived on the 14th of
 February 1503. The pope's death and Caesar's own downfall were not
 destined to be long delayed. But Leonardo apparently had already had
 enough of that service, and was back at Florence in March. He has left
 dated notes and drawings made at most of the stations we have named,
-besides a set of six large-scale maps drawn minutely with his own hand,
-and including nearly the whole territory of the Maremma, Tuscany and
+besides a set of six large-scale [[Map|maps]] drawn minutely with his own hand,
+and including nearly the whole territory of the [[Maremma]], Tuscany and
 Umbria between the Apennines and the Tyrrhene Sea.
 
 At Florence he was at last persuaded, on the initiative of Piero
 Soderini, to undertake for his native city a work of painting as great
 as that with which he had adorned Milan. This was a battle-piece to
 decorate one of the walls of the new council-hall in the palace of the
-signory. He chose an episode in the victory won by the generals of the
+signory. He [[Chose|chose]] an episode in the victory won by the generals of the
 republic in 1440 over Niccolo Piccinino near a bridge at Anghiari, in
 the upper valley of the Tiber. To the young Michelangelo was presently
 entrusted a rival battle-piece to be painted on another wall of the same
 apartment; he chose, as is well known, a surprise of the Florentine
 forces in the act of bathing near Pisa. About the same time Leonardo
 took part in the debate on the proper site for Michelangelo's newly
-finished colossal "David," and voted in favour of the Loggia dei Lanzi,
+finished colossal "David," and voted in favour of the Loggia dei [[Lanzi]],
 against a majority which included Michelangelo himself. Neither
 Leonardo's genius nor his noble manners could soften the rude and
 taunting temper of the younger man, whose style as an artist,
@@ -821,7 +821,7 @@ at its fiercest. He chose the moment of a terrific struggle for the
 colours between the opposing sides; hence the work became commonly known
 as the "Battle of the Standard." Judging by the accounts of those who
 saw it, and the fragmentary evidences which remain, the tumultuous
-medley of men and horses, and the expressions of martial fury and
+medley of men and horses, and the expressions of [[Martial|martial]] fury and
 despair, must have been conceived and rendered with a mastery not less
 commanding than had been the looks and gestures of bodeful sorrow and
 soul's perplexity among the quiet company on the convent wall at Milan.
@@ -832,13 +832,13 @@ to follow its progress step by step. He had finished the cartoon in less
 than two years (1504-1505), and when it was exhibited along with that of
 Michelangelo, the two rival works seemed to all men a new revelation of
 the powers of art, and served as a model and example of the students of
-that generation, as the frescoes of Masaccio in the Carmine had served
+that generation, as the frescoes of [[Masaccio]] in the Carmine had served
 to those of two generations earlier. The young Raphael, whose
 incomparable instinct for rhythmical design had been trained hitherto on
 subjects of holy quietude and rapt contemplation according to the
 traditions of Umbrian art, learnt from Leonardo's example to apply the
 same instinct to themes of violent action and strife. From the same
-example Fra Bartolommeo and a crowd of other Florentine painters of the
+example Fra Bartolommeo and a [[Crowd|crowd]] of other Florentine painters of the
 rising or risen generation took in like manner a new impulse. The master
 lost no time in proceeding to the execution of his design upon the mural
 surface; this time he had devised a technical method of which, after a
@@ -858,10 +858,10 @@ deposit at the hospital of S. Maria Nuova, where he was accustomed also
 to deposit his moneys, and whence it seems before long to have
 disappeared. Our only existing memorials of the great work are a number
 of small pen-studies of fighting men and horses, three splendid studies
-in red chalk at Budapest for heads in the principal group, one head at
+in red chalk at [[Budapest]] for heads in the principal group, one head at
 Oxford copied by a contemporary of the size of the original cartoon
 (above life); a tiny sketch, also at Oxford, by Raphael after the
-principal group; an engraving done by Zacchia of Lucca in 1558 not after
+principal group; an engraving done by Zacchia of [[Lucca]] in 1558 not after
 the original but after a copy; a 16th-century Flemish drawing of the
 principal group, and another, splendidly spirited, by Rubens, both
 copies of copies; with Edelinck's fine engraving after the Rubens
@@ -876,7 +876,7 @@ haunting, enigmatic charm in which he delighted. He worked, it is said,
 at her portrait during some portion of four successive years, causing
 music to be played during the sittings that the rapt expression might
 not fade from off her countenance. The picture was bought afterwards by
-Francis I. for four thousand gold florins, and is now one of the glories
+Francis I. for four thousand gold [[Florin|florins]], and is now one of the glories
 of the Louvre. The richness of colouring on which Vasari expatiates has
 indeed flown, partly from injury, partly because in striving for effects
 of light and shade the painter was accustomed to model his figures on a
@@ -908,7 +908,7 @@ troublesome private affairs called him to Florence. His father had died
 in 1504, apparently intestate. After his death Leonardo experienced
 unkindness from his seven half-brothers, Ser Piero's legitimate sons.
 They were all much younger than himself. One of them, who followed his
-father's profession, made himself the champion of the others in
+father's profession, made himself the [[Champion|champion]] of the others in
 disputing Leonardo's claim to his share, first in the paternal
 inheritance, and then in that which had been left to be divided between
 the brothers and sisters by an uncle. The litigation that ensued dragged
@@ -951,7 +951,7 @@ was approaching his sixtieth year, may belong the noble portrait-drawing
 of himself in red chalk at Turin. He looks too old for his years, but
 quite unbroken; the character of a veteran sage has fully imprinted
 itself on his countenance; the features are grand, clear and deeply
-lined, the mouth firmly set and almost stern, the eyes strong and intent
+lined, the mouth firmly set and almost stern, the eyes strong and [[Intent|intent]]
 beneath their bushy eyebrows, the hair flows untrimmed over his
 shoulders and commingles with a majestic beard.
 
@@ -962,7 +962,7 @@ the vast mass of observations and speculations accumulated in his
 note-books, and to prepare some of them for publication. But as his star
 seemed rising that of his royal protector declined. The hold of the
 French on Lombardy was rudely shaken by hostile political powers, then
-confirmed again for a while by the victories of Gaston de Foix, and
+confirmed again for a while by the victories of Gaston de [[Foix]], and
 finally destroyed by the battle in which that hero fell under the walls
 of Ravenna. In June 1512 a coalition between Spain, Venice and the pope
 re-established the Sforza dynasty in power at Milan in the person of
@@ -970,38 +970,38 @@ Ludovico's son Massimiliano. This prince must have been familiar with
 Leonardo as a child, but perhaps resented the ready transfer of his
 allegiance to the French, and at any rate gave him no employment. Within
 a few months the ageing master uprooted himself from Milan, and moved
-with his chattels and retinue of pupils to Rome, into the service of the
+with his [[Chattel|chattels]] and retinue of pupils to Rome, into the service of the
 house that first befriended him, the Medici. The vast enterprises of
-Pope Julius II. had already made Rome the chief seat and centre of
+Pope [[Julius]] II. had already made Rome the chief seat and centre of
 Italian art. The accession of Giulio de' Medici in 1513 under the title
 of Leo X. raised on all hands hopes of still ampler and more sympathetic
 patronage. Leonardo's special friend at the papal court was the pope's
 youngest brother, Giuliano de' Medici, a youth who combined dissipated
 habits with thoughtful culture and a genuine interest in arts and
 sciences. By his influence Leonardo and his train were accommodated with
-apartments in the Belvedere of the Vatican. But the conditions of the
+apartments in the [[Belvedere]] of the Vatican. But the conditions of the
 time and place proved adverse. The young generation held the field.
 Michelangelo and Raphael, who had both, as we have seen, risen to
 greatness partly on Leonardo's shoulders, were fresh from the glory of
 their great achievements in the Sistine Chapel and the Stanze. Their
-rival factions hated each other, but both, especially the faction of
+rival [[Faction|factions]] hated each other, but both, especially the faction of
 Michelangelo, turned bitterly against the veteran newcomer. The pope,
 indeed, is said to have been delighted with Leonardo's minor experiments
 and ingenuities in science, and especially by a kind of zoological toys
 which he had invented by way of pastime, as well as mechanical tricks
 played upon living animals. But for the master's graver researches and
-projects he cared little, and was far more interested in the dreams of
+projects he cared little, and was far more interested in the [[Dream|dreams]] of
 astrologers and alchemists. When Leonardo, having received a commission
 for a picture, was found distilling for himself a new medium of oils and
-herbs before he had begun the design, the pope was convinced, not quite
+[[Herb|herbs]] before he had begun the design, the pope was convinced, not quite
 unreasonably, that nothing serious would come of it. The only paintings
 positively recorded as done by him at Rome are two small panels for an
 official of the papal court, one of a child, the other of a Madonna,
 both now lost or unrecognized. To this time may also belong a lost Leda,
 standing upright with the god in swan's guise at her side and the four
-children near their feet. This picture was at Fontainebleau in the 16th
+children near their feet. This picture was at [[Fontainebleau]] in the 16th
 century and is known from several copies, the finest of them at the
-Borghese gallery, as well as from one or two preliminary sketches by the
+[[Borghese]] gallery, as well as from one or two preliminary sketches by the
 master himself and a small sketch copy by Raphael. A portrait of a
 Florentine lady, said to have been painted for Giuliano de' Medici and
 seen afterwards in France, may also have been done at Rome; or may what
@@ -1013,7 +1013,7 @@ on the harbour and defences of Cività Vecchia. On the whole the master
 in these Roman days found himself slighted for the first and only time
 in his life. He was, moreover, plagued by insubordination and malignity
 on the part of two German assistant craftsmen lodged in his apartments.
-Charges of impiety and body-snatching laid by these men in connexion
+Charges of impiety and [[Body-Snatching|body-snatching]] laid by these men in connexion
 with his anatomical studies caused the favour of the pope to be for a
 time withdrawn. After a stay of less than two years, Leonardo left Rome
 under the following circumstances. Louis XII. of France had died in the
@@ -1021,7 +1021,7 @@ last days of 1514. His young and brilliant successor, Francis I.,
 surprised Europe by making a sudden dash at the head of an army across
 the Alps to vindicate his rights in Italy. After much hesitation Leo X.
 in the summer of 1515 ordered Giuliano de' Medici, as gonfalonier of the
-Church, to lead a papal force into the Emilia and watch the movements of
+Church, to lead a papal force into the [[Emilia]] and watch the movements of
 the invader. Leonardo accompanied his protector on the march, and
 remained with the headquarters of the papal army at Piacenza when
 Giuliano fell ill and retired to Florence. After the battle of Marignano
@@ -1041,14 +1041,14 @@ assurance of honour and regard.
 The remaining two and a half years of Leonardo's life were spent at the
 Castle of Cloux near Amboise, which was assigned, with a handsome
 pension, to his use. The court came often to Amboise, and the king
-delighted in his company, declaring his knowledge both of the fine arts
+delighted in his company, declaring his knowledge both of the [[Fine Arts|fine arts]]
 and of philosophy to be beyond those of all mortal men. In the spring of
 1518 Leonardo had occasion to exercise his old talents as a
-festival-master when the dauphin was christened and a Medici-Bourbon
+festival-master when the [[Dauphin|dauphin]] was christened and a Medici-Bourbon
 marriage celebrated. He drew the designs for a new palace at Amboise,
 and was much engaged with the project of a great canal to connect the
 Loire and Saône. An ingenious attempt has been made to prove, in the
-absence of records, that the famous spiral staircase at Blois was also
+absence of records, that the famous spiral staircase at [[Blois]] was also
 of his designing.
 
 Among his visitors was a fellow-countryman, Cardinal Louis of Aragon,
@@ -1060,7 +1060,7 @@ in the lap of St Anne (the Louvre picture; finished at Florence or Milan
 1507-1513?), and a youthful John the Baptist. The last, which may have
 been done since he settled in France, is the darkened and partly
 repainted, but still powerful and haunting half-length figure in the
-Louvre, with the smile of inward ravishment and the prophetic finger
+Louvre, with the smile of inward ravishment and the prophetic [[Finger|finger]]
 beckoning skyward like that of St Anne in the Academy cartoon. Of the
 "Pomona" mentioned by Lomazzo as a work of the Amboise time his visitor
 says nothing, nor yet of the Louvre "Bacchus," which tradition ascribes
@@ -1069,13 +1069,13 @@ master seems also to have shown and explained to his visitors some of
 his vast store of notes and observations on anatomy and physics. He kept
 hoping to get some order among his papers, the accumulation of more than
 forty years, and perhaps to give the world some portion of the studies
-they contained. But his strength was nearly exhausted. On Easter Eve
+they contained. But his strength was nearly exhausted. On [[Easter]] Eve
 1519, feeling that the end was near, he made his will. It made
 provision, as became a great servant of the most Christian king, for
-masses to be said and candles to be offered in three different churches
+masses to be said and [[Candle|candles]] to be offered in three different churches
 of Amboise, first among them that of St Florentin, where he desired to
 be buried, as well as for sixty poor men to serve as torch-bearers at
-his funeral. Vasari babbles of a death-bed conversion and repentance.
+his funeral. Vasari babbles of a death-bed [[Conversion|conversion]] and repentance.
 But Leonardo had never been either a friend or an enemy of the Church.
 Sometimes, indeed, he denounces fiercely enough the arts and pretensions
 of priests; but no one has embodied with such profound spiritual insight
@@ -1099,7 +1099,7 @@ the devoted Melzi, whom he named executor; to Salai and to his servant
 Battista Villanis a half each of his vineyard outside Milan; gifts of
 money and clothes to his maid Maturina; one of money to the poor of the
 hospital in Amboise; and to his unbrotherly half-brothers a sum of four
-hundred ducats lying to his credit at Florence.
+hundred [[Ducat|ducats]] lying to his [[Credit|credit]] at Florence.
 
 History tells of no man gifted in the same degree as Leonardo was at
 once for art and science. In art he was an inheritor and perfecter, born
@@ -1123,16 +1123,16 @@ perfecting the images of beauty and power which it was his business to
 create.
 
 Thence there grew upon him the passion of knowledge for its own sake. In
-the splendid balance of his nature the Virgilian longing, _rerum
+the splendid [[Balance|balance]] of his nature the Virgilian longing, _rerum
 cognoscere causas_, could never indeed wholly silence the call to
 exercise his active powers. But the powers he cared most to exercise
 ceased by degree to be those of imaginative creation, and came to be
 those of turning to practical human use the mastery which his studies
 had taught him over the forces of nature. In science he was the first
 among modern men to set himself most of those problems which unnumbered
-searchers of later generations have laboured severally or in concert to
+searchers of later generations have laboured severally or in [[Concert|concert]] to
 solve. Florence had had other sons of comprehensive genius, artistic and
-mechanical, Leon Battista Alberti perhaps the chief. But the more the
+mechanical, [[Leon]] Battista Alberti perhaps the chief. But the more the
 range and character of Leonardo's studies becomes ascertained the more
 his greatness dwarfs them all. A hundred years before Bacon, say those
 who can judge best, he showed a firmer grasp of the principles of
@@ -1148,12 +1148,12 @@ of his labours in those sciences and give them to the world, an
 incalculable impulse would have been given to all those enquiries by
 which mankind has since been striving to understand the laws of its
 being and control the conditions of its environment,--to mathematics and
-astronomy, to mechanics, hydraulics, and physics generally, to geology,
+[[Astronomy|astronomy]], to mechanics, hydraulics, and physics generally, to geology,
 geography, and cosmology, to anatomy and the sciences of life. As it
 was, these studies of Leonardo--"studies intense of strong and stern
 delight"--seemed to his trivial followers and biographers merely his
 whims and fancies, _ghiribizzi_, things to be spoken of slightingly and
-with apology. The MSS., with the single exception of some of those
+with [[Apology|apology]]. The MSS., with the single exception of some of those
 relating to painting, lay unheeded and undivulged until the present
 generation; and it is only now that the true range of Leonardo's powers
 is beginning to be fully discerned.
@@ -1166,7 +1166,7 @@ main, alone. Of things communicable he was at the same time, as we have
 said, communicative--a genial companion, a generous and loyal friend,
 ready and eloquent of discourse, impressing all with whom he was brought
 in contact by the power and the charm of genius, and inspiring fervent
-devotion and attachment in friends and pupils. We see him living on
+devotion and [[Attachment|attachment]] in friends and pupils. We see him living on
 terms of constant affection with his father, and in disputes with his
 brothers not the aggressor but the sufferer from aggression. We see him
 full of tenderness to animals, a virtue not common in Italy in spite of
@@ -1175,7 +1175,7 @@ getting--"poor," he says, "is the man of many wants"; not prone to
 resentment--"the best shield against injustice is to double the cloak of
 long-suffering"; zealous in labour above all men--"as a day well spent
 gives joyful sleep, so does a life well spent give joyful death." With
-these instincts and maxims, and with his strength, granting it almost
+these instincts and [[Maxims|maxims]], and with his strength, granting it almost
 more than human, spent ever tunnelling in abstruse mines of knowledge,
 his moral experience is not likely to have been deeply troubled. In
 religion, he regarded the faith of his age and country at least with
@@ -1189,7 +1189,7 @@ we know only (apart from a few passing shadows cast by calumny and envy)
 of affectionate and dignified relations with friends, patrons and
 pupils, of public and private regard mixed in the days of his youth with
 dazzled admiration, and in those of his age with something of
-reverential awe.
+reverential [[Awe|awe]].
 
   _The Drawings of Leonardo._--These are among the greatest treasures
   ever given to the world by the human spirit expressing itself in pen
@@ -1199,8 +1199,8 @@ reverential awe.
   Arundel collection); others of importance are in the British Museum;
   at Christ Church, Oxford; in the Louvre, at Chantilly, in the Uffizi,
   the Venice Academy, the Royal Library at Turin, the Museum of
-  Budapest, and in the collections of M. Bonnat, Mrs Mond, and Captain
-  Holford. Leonardo's chief implements were pen, silver-point, and red
+  Budapest, and in the collections of M. [[Bonnat]], Mrs Mond, and Captain
+  Holford. Leonardo's chief [[Implement|implements]] were pen, silver-point, and red
   and black chalk (red chalk especially). In silver-point there are many
   beautiful drawings of his earlier time, and some of his later; but of
   the charming heads of women and young men in this material attributed
@@ -1210,10 +1210,10 @@ reverential awe.
   doubt on the point; but a contemporary and intimate friend, Luca
   Pacioli, speaks of his "ineffable left hand"; all the best of his
   drawings are shaded downward from left to right, which would be the
-  readiest way for a left-handed man; and his habitual eccentric
+  readiest way for a left-handed man; and his habitual [[Eccentric|eccentric]]
   practice of writing from right to left is much more likely to have
   been due to natural left-handedness than to any desire of mystery or
-  concealment. A full critical discussion and catalogue of the extant
+  concealment. A full critical discussion and [[Catalogue|catalogue]] of the extant
   drawings of Leonardo are to be found in Berenson's _Drawings of the
   Florentine Painters_.
 
@@ -1282,7 +1282,7 @@ reverential awe.
   of the Institut de France undertaken by C. Ravaisson-Mollien; the next
   by the publication in 1883 of Dr J. P. Richter's _Literary Works of
   Leonardo da Vinci_ (see Bibliography): this work included, besides a
-  history and analytical index of the MSS., facsimiles of a number of
+  history and analytical [[Index|index]] of the MSS., facsimiles of a number of
   selected pages containing matter of autobiographical, artistic, or
   literary interest, with transcripts and translations of their MS.
   contexts. Since then much progress has been made in the publication of
@@ -1300,7 +1300,7 @@ reverential awe.
   _Victoria and Albert Museum_: ten note-books bound in 3 vols.;
   facsimile by Rouveyre, _Holkham_ (collection of Lord Leicester), 1
   vol., on hydraulics and the action of water; published in facsimile
-  with transliteration and notes by Gerolamo Calvi. France.--_Institut
+  with transliteration and notes by Gerolamo [[Calvi]]. France.--_Institut
   de France_: seventeen MSS., all published with transliteration and
   notes by C. Ravaisson-Mollien (6 vols., Paris, 1880-1891).
   Italy.--_Milan_, _Ambrosiana_: the _Codice Atlantico_, the huge
@@ -1317,7 +1317,7 @@ reverential awe.
   ser. v. vol. 7; "Breve vita di Leonardo da Vinci, scritto da un
   adnonimo del 1500" (known as the Anonimo Gaddiano), printed by G.
   Milanesi in _Archivio Storico Ital._ t. xvi. (1872), translated with
-  notes by H. P. Horne in series published by the Unicorn Library
+  notes by H. P. [[Horne]] in series published by the Unicorn Library
   (1903); Paolo Giovio, "Leonardi Vincii vita," in his _Elogia_, printed
   in Tiraboschi, _Storia della Lett. Ital._ t. vii. pt. 4, and in
   _Classici Italiani_, vol. 314; Vasari, in his celebrated _Lives of the
@@ -1338,7 +1338,7 @@ reverential awe.
   (Milan, 1869); Arsène Houssaye, _Histoire de L. de V._ (Paris, 1869
   and 1876, an agreeable literary biography of the pre-critical kind);
   Mrs Heaton, _Life of L. da V._ (London, 1872), a work also made
-  obsolete by recent research; Hermann Grothe, _L. da V. als Ingenieur
+  obsolete by recent research; [[Hermann]] Grothe, _L. da V. als Ingenieur
   und Philosoph_ (Berlin, 1874); A. Marks, the _S. Anne of L. da V._
   (London, 1882); J. P. Richter, _The Literary Works of L. da V._ (2
   vols., London, 1883), this is the very important and valuable history
@@ -1381,7 +1381,7 @@ reverential awe.
   of a wax bust of Flora acquired in 1909 for the Berlin Museum and
   unfortunately ascribed to Leonardo da Vinci, its real author having
   been proved by external and internal evidence to be the Englishman
-  Richard Cockle Lucas, and its date 1846.     (S. C.)
+  Richard Cockle [[Lucas]], and its date 1846.     (S. C.)
 
 ## See also
 

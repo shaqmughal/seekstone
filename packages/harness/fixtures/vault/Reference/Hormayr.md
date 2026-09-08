@@ -7,13 +7,13 @@ topic: medicine
 # Hormayr
 
 HORMAYR, JOSEPH, BARON VON (1782-1848), German statesman and historian,
-was born at Innsbruck on the 20th of January 1782. After studying law in
+was born at [[Innsbruck]] on the 20th of January 1782. After studying law in
 his native town, and attaining the rank of captain in the Tirolese
-Landwehr, the young man, who had the advantage of being the grandson of
+[[Landwehr]], the young man, who had the advantage of being the grandson of
 Joseph von Hormayr (1705-1778), chancellor of Tirol, obtained a post in
-the foreign office at Vienna (1801), from which he rose in 1803 to be
+the [[Foreign Office|foreign office]] at Vienna (1801), from which he rose in 1803 to be
 court secretary and, being a near friend of the Archduke John, director
-of the secret archives of the state and court for thirteen months. In
+of the secret [[Archive|archives]] of the state and court for thirteen months. In
 1803 he married Therese Anderler von Hohenwald. During the insurrection
 of 1809, by which the Tirolese sought to throw off the Bavarian
 supremacy confirmed by the treaty of Pressburg, Hormayr was the mainstay
@@ -28,10 +28,10 @@ imperial historiographer; but so little was he satisfied with the
 general policy and conduct of the Austrian court that in 1828 he
 accepted an invitation of King Louis I. to the Bavarian capital, where
 he became ministerial councillor in the department of foreign affairs.
-In 1832 he was appointed Bavarian minister-resident at Hanover, and from
+In 1832 he was appointed Bavarian minister-resident at [[Hanover]], and from
 1837 to 1846 he held the same position at Bremen. Together with Count
-Johann Friedrich von der Decken (1769-1840) he founded the Historical
-Society of Lower Saxony (Historischer Verein fur Niedersachsen). The
+Johann [[Friedrich]] von der Decken (1769-1840) he founded the Historical
+Society of Lower Saxony (Historischer Verein [[Fur|fur]] Niedersachsen). The
 last two years of his life were spent at Munich as superintendent of the
 national archives. He died on the 5th of October 1848.
 
@@ -42,7 +42,7 @@ to his treatment of the past, his record or criticism of contemporary
 events received authority and interest from his personal experience. But
 his history of the Tirolese rebellion is far from being impartial; for
 he always liked to put himself into the first place, and the merits of
-Andreas Hofer and of other leaders are not sufficiently acknowledged. In
+Andreas [[Hofer]] and of other leaders are not sufficiently acknowledged. In
 his later writings he appears as a keen opponent of the policy of the
 court of Vienna.
 
@@ -52,7 +52,7 @@ court of Vienna.
   Mittelalter_ (2 vols., Innsbruck, 1802-1803, new ed., 1805); _Gesch.
   der gefurst. Grafschaft Tirol_ (2 vols., Tubingen, 1806-1808);
   _Osterreichischer Plutarch_, 20 vols., collection of portraits and
-  biographies of the most celebrated administrators, commanders and
+  biographies of the most celebrated administrators, [[Commander|commanders]] and
   statesmen of Austria (Vienna, 1807); an edition of Beauchamp's
   _Histoire de la guerre en Vendee_ (1809); _Geschichte Hofers_ (1817,
   2nd ed., 2 vols., 1845) and other pamphlets; _Archiv fur Gesch.,
@@ -61,7 +61,7 @@ court of Vienna.
   Pariser Frieden_ (3 vols., Vienna, 1814-1819, 2nd ed., 1891); _Wien,
   seine Gesch. und Denkwurdigkeiten_ (5 vols., Vienna, 1823-1824);
   together with _Fragmente uber Deutschland, in Sonderheit Bayerns
-  Welthandel; Lebensbilder aus dem Befreiungskriege_ (3 vols., Jena,
+  Welthandel; Lebensbilder aus dem Befreiungskriege_ (3 vols., [[Jena]],
   1841-1844, 2nd ed., 1845); _Die goldene Chronik von Hohenschwangau_
   (Munich, 1842); _Anemonen aus dem Tagebuch eines alten Pilgersmanns_
   (4 vols., Jena, 1845-1847). Together with Mednyanski (1784-1844) he

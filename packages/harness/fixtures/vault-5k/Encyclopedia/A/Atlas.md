@@ -21,7 +21,7 @@ inhospitality, showed him the Gorgon's head (Ovid, _Metam._ iv. 627).
 Finally, Atlas was explained as the name of a primitive astronomer, who
 was said to have made the first celestial globe (Diodorus iii. 60). He
 was the father of the Pleiades and Hyades; according to Homer, of
-Calypso. In works of art he is represented as carrying the heavens or
+[[Calypso]]. In works of art he is represented as carrying the heavens or
 the terrestrial globe. The Farnese statue of Atlas in the Naples museum
 is well known.
 

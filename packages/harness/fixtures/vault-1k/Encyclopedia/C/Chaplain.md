@@ -29,7 +29,7 @@ civil servants, being eligible for a retiring pension after 23 years of
 service. Chaplains are also appointed under the foreign office to
 embassies, legations, consulates, &c.
 
-Workhouse chaplains are appointed by overseers and guardians on the
+Workhouse chaplains are appointed by overseers and [[Guardian|guardians]] on the
 direction of the Local Government Board, to which alone such chaplains
 are responsible. Prison chaplains are appointed by the home secretary.
 

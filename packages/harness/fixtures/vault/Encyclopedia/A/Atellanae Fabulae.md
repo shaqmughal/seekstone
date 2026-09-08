@@ -1,8 +1,8 @@
 # Atellanae Fabulae
 
 ATELLANAE FABULAE ("Atellan fables"), the name of a sort of popular
-comedy amongst the ancient Romans. The name is derived from Atella, an
-Oscan town in Campania; for this reason, and from their being also
+comedy amongst the ancient Romans. The name is derived from [[Atella]], an
+Oscan town in [[Campania]]; for this reason, and from their being also
 called _Osci Ludi_, it has been supposed that they were of Oscan origin
 and introduced at Rome after Campania had been deprived of its
 independence. It seems highly improbable that they were performed in the
@@ -12,9 +12,9 @@ to avoid causing offence by placing it at Rome or one of the Latin
 cities. These plays, or rather sketches, contained humorous descriptions
 of country as contrasted with town life, and found their subjects
 amongst the lower classes of the people. The subjects alone were decided
-upon before the performance began; the dialogue was improvised as it
+upon before the performance began; the [[Dialogue|dialogue]] was improvised as it
 proceeded. The Atellanae contained certain stock characters, like the
-Italian harlequinades: Maccus (the fool), Bucco (fat-chaps), Pappus
+Italian harlequinades: Maccus (the [[Fool|fool]]), Bucco (fat-chaps), Pappus
 (daddy), Dossennus (sharper); monsters and bogeys like Manducus, Pytho,
 Lamia also made their appearance. The performers were the sons of Roman
 citizens, who did not lose their rights as citizens, and were allowed to
@@ -23,7 +23,7 @@ dialogues were probably varied by songs in the rude Saturnian metre: the
 language was that of the common people, accompanied by lively
 gesticulation and movements. They were characterized by coarseness and
 obscenity. In the time of Sulla a literary form was given to the
-Atellanae by Pomponius of Bononia and Novius, who made them regular
+Atellanae by Pomponius of [[Bononia]] and Novius, who made them regular
 written comedies. Living persons seem to have been attacked, and even
 the doings of the gods and heroes of mythology burlesqued. From this
 time the Atellanae were used as after-pieces and performed by

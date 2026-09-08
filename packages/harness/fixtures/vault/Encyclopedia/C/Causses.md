@@ -8,9 +8,9 @@ topic: geography
 
 CAUSSES (from Lat. _calx_ through local Fr. _caous_, meaning "lime"),
 the name given to the table-lands lying to the south of the central
-plateau of France and sloping westward from the Cevennes. They form
-parts of the departments of Lozere, Aveyron, Card, Herault, Lot and
-Tarn-et-Garonne. They are of limestone formation, dry, sterile and
+plateau of France and sloping westward from the [[Cevennes]]. They form
+parts of the departments of Lozere, [[Aveyron]], Card, [[Herault]], [[Lot]] and
+Tarn-et-Garonne. They are of [[Limestone|limestone]] formation, dry, sterile and
 treeless. These characteristics are most marked in the east of the
 region, where the Causse de Sauveterre, the Causse Mejan, the Causse
 Noir and the Larzac flank the Cevennes. Here the Causse Mejan, the most
@@ -25,7 +25,7 @@ great depth, which are peculiar to the region. The inhabitants
 (_Caussenards_) of the higher causses cultivate hollows in the ground
 which are protected from the violent winds, and the scanty herbage
 permits of the raising of sheep, from the milk of which Roquefort
-cheeses are made. In the west, where the rigours of the weather are less
+[[Cheese|cheeses]] are made. In the west, where the rigours of the weather are less
 severe, agriculture is more easily carried on.
 
 ## See also

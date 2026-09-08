@@ -15,7 +15,7 @@ earth, the sea, the clouds, and from the corresponding usage in
 Assyrian; but in prose _bamah_ is always a place of worship. It has been
 surmised that it was so called because the places of worship were
 originally upon hill-tops, or that the _bamah_ was an artificial
-platform or mound, perhaps imitating the natural eminence which was the
+platform or mound, perhaps imitating the natural [[Eminence|eminence]] which was the
 oldest holy place, but neither view is historically demonstrable. The
 development of the religious significance of the word took place
 probably not in Israel but among the Canaanites, from whom the
@@ -43,7 +43,7 @@ famous sanctuaries at a distance from his home, but ordinarily the
 offerings which linked every side of his life to religion were paid at
 the _bamah_ of his own town. The building of royal temples in Jerusalem
 or in Samaria made no change in this respect; they simply took their
-place beside the older sanctuaries, such as Bethel, Dan, Gilgal,
+place beside the older sanctuaries, such as [[Bethel]], Dan, [[Gilgal]],
 Beersheba, to which they were, indeed, inferior in repute.
 
 The religious reformers of the 8th century assail the popular religion
@@ -62,7 +62,7 @@ ministry. In the prophets of the 7th and 6th centuries the word _bamoth_
 connotes "seat of heathenish or idolatrous worship"; and the historians
 of the period apply the term in this opprobrious sense not only to
 places sacred to other gods but to the old holy places of Yahweh in the
-cities and villages of Judah, which, in their view, had been
+cities and villages of [[Judah]], which, in their view, had been
 illegitimate from the building of Solomon's temple, and therefore not
 really seats of the worship of Yahweh; even the most pious kings of
 Judah are censured for tolerating their existence. The reaction which
@@ -70,7 +70,7 @@ followed the death of Josiah (608 B.C.) restored the old altars of
 Yahweh; they survived the destruction of the temple in 586, and it is
 probable that after its restoration (520-516 B.C.) they only slowly
 disappeared, in consequence partly of the natural predominance of
-Jerusalem in the little territory of Judaea, partly of the gradual
+Jerusalem in the little territory of Judaea, partly of the [[Gradual|gradual]]
 establishment of the supremacy of the written law over custom and
 tradition in the Persian period.
 
@@ -81,12 +81,12 @@ military colonists in Elephantine in the 5th century B.C. had their
 altar of Yahweh beside the high way; the Jews in Egypt in the Ptolemaic
 period had, besides many local sanctuaries, one greater temple at
 Leontopolis, with a priesthood whose claim to "valid orders" was much
-better than that of the High Priests in Jerusalem, and the legitimacy of
+better than that of the High Priests in Jerusalem, and the [[Legitimacy|legitimacy]] of
 whose worship is admitted even by the Palestinian rabbis.
 
   See Baudissin, "Hohendienst," _Protestantische Realencyklopadie_^3
   (viii. 177-195); Hoonacker, _Le Lieu du culte dans la legislation
-  rituelle des Hebreux_ (1894); v. Gall, _Altisraelitische Kultstadte_
+  rituelle des Hebreux_ (1894); v. [[Gall]], _Altisraelitische Kultstadte_
   (1898).
 
 

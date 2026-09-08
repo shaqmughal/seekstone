@@ -13,22 +13,22 @@ conducted by St Vincent de Paul (q.v.) and five other priests on the
 estates of the Gondi family. More immediately it dates from 1624, when
 the little community acquired a permanent settlement in the collège des
 Bons Enfans in Paris. Archiepiscopal recognition was obtained in 1626;
-by a papal bull of the 12th of January 1632, the society was constituted
+by a papal [[Bull|bull]] of the 12th of January 1632, the society was constituted
 a congregation, with St Vincent de Paul at its head. About the same time
 the canons regular of St Victor handed over to the congregation the
-priory of St Lazarus (formerly a lazar-house) in Paris, whence the name
+priory of St [[Lazarus]] (formerly a lazar-house) in Paris, whence the name
 of Lazarites or Lazarists. Within a few years they had acquired another
 house in Paris and set up other establishments throughout France;
 missions were also sent to Italy (1638), Tunis (1643), Algiers and
-Ireland (1646), Madagascar (1648) and Poland (1651). A fresh bull of
+Ireland (1646), [[Madagascar]] (1648) and Poland (1651). A fresh bull of
 Alexander VII. in April 1655 further confirmed the society; this was
 followed by a brief in September of the same year, regulating its
 constitution. The rules then adopted, which were framed on the model of
-those of the Jesuits, were published at Paris in 1668 under the title
-_Regulae seu constitutiones communes congregationis missionis_. The
+those of the [[Jesuits]], were published at Paris in 1668 under the title
+_Regulae seu constitutiones [[Commune|communes]] congregationis missionis_. The
 special objects contemplated were the religious instruction of the lower
 classes, the training of the clergy and foreign missions. During the
-French Revolution the congregation was suppressed and St Lazare
+[[French Revolution]] the congregation was suppressed and St Lazare
 plundered by the mob; it was restored by Napoleon in 1804 at the desire
 of Pius VII., abolished by him in 1809 in consequence of a quarrel with
 the pope, and again restored in 1816. The Lazarites were expelled from
@@ -45,7 +45,7 @@ Spain and Russia, some of which have been suppressed. In the same year
 they had fourteen establishments in the United States of America. The
 total number of Lazarites throughout the world is computed at about
 3000. Amongst distinguished members of the congregation may be
-mentioned: P. Collet (1693-1770), writer on theology and ethics; J. de
+mentioned: P. Collet (1693-1770), writer on theology and [[Ethics|ethics]]; J. de
 la Grive (1689-1757), geographer; E. Boré (d. 1878), orientalist; P.
 Bertholon (1689-1757), physician; and Armand David, Chinese missionary
 and traveller.

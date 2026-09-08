@@ -19,7 +19,7 @@ English Dictionary_ and C. B. Mount in _Notes and Queries_ (Oct. 23,
 1897, p. 322). The instrument consists of a slender tongue of steel
 riveted at one end to the base of a pear-shaped steel loop; the other
 end of the tongue, left free and passing out between the two branches of
-the frame, terminates in a sharp bend at right angles, to enable the
+the [[Frame|frame]], terminates in a sharp [[Bend|bend]] at right angles, to enable the
 player to depress it by an elastic blow and thus set it vibrating while
 firmly pressing the branches of the frame against his teeth. The
 vibrations of the steel tongue produce a compound sound composed of a
@@ -38,7 +38,7 @@ all its names), attracted attention in Germany. Heinrich Scheibler
 devised an ingenious holder with a handle, to contain five Jew's harps,
 all tuned to different notes; by holding one in each hand, a large
 compass, with duplicate notes, became available; he called this complex
-Jew's harp _Aura_[1] and with it played themes with variations, marches,
+Jew's harp _Aura_[1] and with it played themes with variations, [[Marches|marches]],
 Scotch reels, &c. Other virtuosi, such as Eulenstein, a native of
 Würtemberg, achieved the same result by placing the variously tuned
 Jew's harps upon the table in front of him, taking them up and setting

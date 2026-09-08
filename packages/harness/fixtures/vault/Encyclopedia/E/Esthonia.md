@@ -10,15 +10,15 @@ type: article
 ESTHONIA (Ger. _Ehstland_ and _Esthland_, Esthonian _Eestimaa_ and
 _Meie-maa_, also _Viroma_ and _Rahvama_; Lettish _Iggaun Senna_), a
 Baltic province of Russia, stretching along the south coast of the Gulf
-of Finland, and having Lake Peipus and Livonia on the S. and the
+of [[Finland]], and having Lake Peipus and Livonia on the S. and the
 government of St Petersburg on the E. An archipelago of islands, of
-which Dago is the largest, belongs to this government (Oesel belongs to
+which [[Dago]] is the largest, belongs to this government (Oesel belongs to
 Livonia). The area is 7818 sq. m., 503 sq. m. of this being insular. The
 surface is low, not exceeding 100 ft. in altitude along the coast and
 alongside Lake Peipus, while in the interior the average elevation
 ranges from 200 to 300 ft., and nowhere exceeds 450 ft. It was entirely
 covered with the bottom moraine of the great ice-sheet of the Glacial
-Epoch, resting upon Silurian sandstones and limestones. In places sands
+Epoch, resting upon Silurian sandstones and [[Limestone|limestones]]. In places sands
 and clays overlie the glacial deposits. The principal stream is the
 Narova, which issues from Lake Peipus, flows along the eastern border,
 and empties into the Gulf of Finland. The other drainage arteries are
@@ -37,8 +37,8 @@ greater scientific knowledge than in any other part of Russia. Of the
 total area about 16.6% is under cultivation; meadows and grass-lands
 amount to 41.7%; and forests cover 19%. The principal crops are rye,
 oats, barley and potatoes, with large quantities of vegetables.
-Cattle-breeding flourishes, and meat and butter are constantly
-increasing items of export. The manufactories consist chiefly of
+Cattle-breeding flourishes, and [[Meat|meat]] and [[Butter|butter]] are constantly
+increasing [[Item|items]] of export. The manufactories consist chiefly of
 distilleries (over 13,500,000 gallons annually), cotton (at Kranholm
 falls on the Narova), woollen, flour, paper and saw mills, iron and
 machinery works, and match factories. Fishing is active along the coast,
@@ -64,11 +64,11 @@ Finnish family, and consequently to the Ural-Altaic division of the
 human race. Altogether they number close upon one million, and are thus
 distributed: 365,959 in Esthonia (in 1897), 518,594 in Livonia, 64,116
 in the government of St Petersburg, 25,458 in that of Pskov, and 12,855
-in other parts of Russia. As a race they exhibit manifest evidences of
+in other parts of Russia. As a race they exhibit [[Manifest|manifest]] evidences of
 their Ural-Altaic or Mongolic descent in their short stature, absence of
 beard, oblique eyes, broad face, low forehead and small mouth. In
 addition to that they are an under-sized, ill-thriven people, with long
-arms and thin, short legs. They cling tenaciously to their native
+arms and thin, short [[Leg|legs]]. They cling tenaciously to their native
 language, which is closely allied to the Finnish, and divisible into
 two, or according to some authorities into three, principal
 dialects--Dorpat Esthonian and Reval Esthonian, with Pernau Esthonian.
@@ -84,7 +84,7 @@ the Finns they possess rich stores of national songs. These, which bear
 an unmistakable family likeness to those of the great Finnish epic of
 the _Kalevala_, were collected as the Kalevi Poeg, and edited by
 Kreutswald (1857), and translated into German by Reinthal (1857-1859)
-and Bertram (1861) and by Lowe (1900). Other collections of _Esthnische
+and [[Bertram]] (1861) and by Lowe (1900). Other collections of _Esthnische
 Volkslieder_ have been published by Neuss (1850-1852) and Kreutzwald and
 Neuss (1854); while Kreutzwald (1866) and Jannsen (1888) have published
 collections of legends and national tales. The earliest publication in
@@ -95,7 +95,7 @@ genauern Kenntniss der esthnischen Sprache_, by Rosenplanter, and from
 1840 onwards many valuable papers on Esthonian subjects were contributed
 to the _Verhandlungen der gelehrten esthnischen Gesellschaft zu Dorpat_.
 F.J. Wiedemann, who laboured indefatigably in the registration and
-preservation of matters connected with Esthonian language and lore,
+preservation of matters connected with Esthonian language and [[Lore|lore]],
 published an _Esthnisch-deutsches Worterbuch_ (1865; 2nd ed. by Hurt,
 1891, &c.), and in 1903 there appeared at Reval a _Deutsch-esthnisches
 Worterbuch_, by Ploompun and Kann.
@@ -110,9 +110,9 @@ more formidable crusade against them, in the course of which he founded
 the town and episcopal see of Reval. By his efforts the northern portion
 of the race were made submissive to the Danish crown; but, though
 conquered, they were by no means subdued, and were incessantly in
-revolt, until, after a great rebellion in 1343, Waldemar IV. Atterdag
+revolt, until, after a [[Great Rebellion|great rebellion]] in 1343, Waldemar IV. Atterdag
 sold for 19,000 marks his portion of Esthonia in 1346, to the order of
-the Knights of the Sword. These German crusaders had already, after a
+the [[Knight|Knights]] of the Sword. These German crusaders had already, after a
 quarter of a century's fighting, in 1224 gained possession of the
 regions inhabited by the southern portion of the race, that is those now
 included in Livonia. From that time for nearly six hundred years or more
@@ -132,7 +132,7 @@ enforcing the use of Russian in the schools and by harsh and repressive
 measures aimed at their native language.
 
   See Merkel, _Die freien Letten und Esthen_ (1820); Parrot, _Versuch
-  einer Entwickelung der Sprache, Abstammung, &c., der Liwen, Latten,
+  einer Entwickelung der Sprache, Abstammung, &c., der Liwen, [[Latten]],
   Eesten_ (1839); F. Kruse, _Urgeschichte des esthnischen Volksstammes_
   (1846); Wiedemann, _Grammatik der esthnischen Sprache_ (1875), and
   _Aus dem innern und aussern Leben der Esthen_ (1876); Koppen, _Die

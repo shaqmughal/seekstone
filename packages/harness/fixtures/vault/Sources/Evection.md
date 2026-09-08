@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Evection"
 
 # Evection
 
-EVECTION (Latin for "carrying away"), in astronomy, the largest
+EVECTION (Latin for "carrying away"), in [[Astronomy|astronomy]], the largest
 inequality produced by the action of the sun in the monthly revolution
 of the moon around the earth. The deviation expressed by it has a
 maximum amount of about 1° 15' in either direction. It may be considered

@@ -8,7 +8,7 @@ type: source
 # Council
 
 COUNCIL (Lat. _concilium_, from _cum_, together, and the root cal, to
-call), the general word for a convocation, meeting, assembly. The Latin
+call), the general word for a [[Convocation|convocation]], meeting, assembly. The Latin
 word was frequently confused with _consilium_ (from _consulere_, to
 deliberate, cf. _consul_), advice, i.e. counsel, and thus specifically
 an advisory assembly. Du Cange (_Gloss. Med. Infim. Latin._) quotes the
@@ -44,7 +44,7 @@ confronted with a serious problem of their own, augmented their numbers
 by receiving delegates from the churches of the neighbourhood. Hauck,
 however, holds that these augmented church meetings, which dealt with
 the affairs of but a single church, are to be distinguished from the
-synods, which took cognizance of matters of general interest. Older
+synods, which took [[Cognizance|cognizance]] of matters of general interest. Older
 Protestant writers have contented themselves with saying either that
 synods were of apostolic origin, or that they were the inevitable
 outcome of the need of the leaders of churches to take counsel together,
@@ -62,14 +62,14 @@ the course of the 3rd century came the decisive change, which increased
 the prestige of the councils: the right to vote was limited to bishops.
 This was the logical outgrowth of the belief that each local church
 ought to have but one bishop (monarchical episcopate), and that these
-bishops were the sole legitimate successors of the apostles (apostolic
+bishops were the sole legitimate successors of the [[Apostle|apostles]] (apostolic
 succession), and therefore official organs of the Holy Spirit. Although
 as late as 250 the consensus of the priests, the deacons and the people
 was still considered essential to the validity of a conciliar decision
 at Rome and in certain parts of the East, the development had already
 run its course in northern Africa. It was a further step in advance when
 synods began to meet at regular intervals. They were held annually in
-Cappadocia by the middle of the 3rd century, and the council of Nicaea
+[[Cappadocia]] by the middle of the 3rd century, and the council of Nicaea
 commanded in 325 that semiannual synods be held in every province, an
 arrangement which was not systematically enforced, and was altered in
 692, when the Trullan Council reduced the number to one a year.
@@ -81,22 +81,22 @@ thousand years of church history do not justify the sharpness of the
 traditional distinction. The _provincial_ synods, presided over by the
 metropolitan (archbishop), were usually held at the capital of the
 province, and attempted to legislate on all sorts of questions. The
-state had nothing to do with calling them, nor did their decrees require
+state had nothing to do with calling them, nor did their [[Decree|decrees]] require
 governmental sanction. Various abortive attempts were made to set up
 synods of _patriarchal_ or at least of more than provincial rank. In
 North Africa eighteen such synods were held between 393 and 424; during
 part of the 5th and 6th centuries _primatial_ councils assembled at
-Arles; and the patriarchs of Constantinople were accustomed to invite to
+[[Arles]]; and the patriarchs of Constantinople were accustomed to invite to
 their "_endemic_ synods" ([Greek: synodoi endemousai]) all bishops who
 happened to be sojourning at the capital. _Papal_ synods from the 5th
 and especially from the 9th century onward included members such as the
-archbishops of Ravenna, Milan, Aquileia and Grado, who resided outside
+archbishops of Ravenna, Milan, [[Aquileia]] and Grado, who resided outside
 the Roman archdiocese; but the territorial limits from which the
 membership was drawn do not appear to have been precisely defined.
 
 Before the form of the provincial synod had become absolutely fixed,
 there arose in the 4th century the _oecumenical_ council. The Greek term
-[Greek: synodos oikoumenike][2] (1) (used by Eusebius, _Vita
+[Greek: synodos oikoumenike][2] (1) (used by [[Eusebius]], _Vita
 Constantini_, iii. 6) is preferable to the Latin _concilium universale_
 or _generale_, which has been applied loosely to national and even to
 provincial synods. The oecumenical synods were not the logical outgrowth
@@ -149,7 +149,7 @@ synodal decrees which ran counter to the interests of the state. Clovis
 held the first French national synod at Orleans in 511; Reccared, the
 first in Spain in 589 at Toledo. Under Charlemagne they were
 occasionally so representative that they might almost be ranked as
-general synods of the West (Regensburg, 792, Frankfort, 794).
+general synods of the West (Regensburg, 792, [[Frankfort]], 794).
 Contemporaneous with the evolution of the national synod was the
 development of a new type of diocesan synod, which included the priests
 of separate and mutually independent parishes and also the leaders of
@@ -157,12 +157,12 @@ the monastic clergy.
 
 The papal synods came into the foreground with the success of the
 Cluniac reform of the Church, especially from the Lateran synod of 1059
-on. They grew in importance until at length Calixtus II. summoned to the
+on. They grew in importance until at length [[Calixtus]] II. summoned to the
 Lateran the synod of 1123 as "_generale concilium_." The powers which
 the pope as bishop of the church in Rome had exercised over its synods
 he now extended to the oecumenical councils. They were more completely
 under his control than the ancient ones had been under the sway of the
-emperor. The Pseudo-Isidorean principle that all major synods need papal
+emperor. The Pseudo-Isidorean principle that all [[Major|major]] synods need papal
 authorization was insisted on, and the decrees were formulated as papal
 edicts.
 
@@ -170,17 +170,17 @@ The absolutist principles cherished by the papal court in the 12th and
 13th centuries did not pass unchallenged; but the protests of Marsilius
 of Padua and the less radical William of Occam remained barren until the
 Great Schism of 1378. As neither the pope in Rome nor his rival in
-Avignon would give way, recourse was had to the idea that the supreme
+[[Avignon]] would give way, recourse was had to the idea that the supreme
 power was vested not in the pope but in the oecumenical council. This
 "conciliar theory," propounded by Conrad of Gelnhausen and championed by
 the great Parisian teachers Pierre d'Ailly and Gerson, proceeded from
-the nominalistic axiom that the whole is greater than its part. The
+the nominalistic [[Axiom|axiom]] that the whole is greater than its part. The
 decisive revolutionary step was taken when the cardinals independently
 of both popes ventured to hold the council of Pisa (1409). The council
 of Constance asserted the supremacy of oecumenical synods, and ordered
 that these be convened at regular intervals. The last of the Reform
-councils, that of Basel, approved these principles, and at length passed
-a sentence of deposition against Pope Eugenius IV. Eugenius, however,
+councils, that of [[Basel]], approved these principles, and at length passed
+a sentence of deposition against Pope [[Eugenius]] IV. Eugenius, however,
 succeeded in maintaining his power, and at the council of Florence
 (1439) secured the condemnation of the conciliar theory; and this was
 reiterated still more emphatically, on the eve of the Reformation, by
@@ -189,17 +189,17 @@ of the 13th and 14th centuries increasingly dominated the Roman Church.
 The popes so distrusted oecumenical councils that between 1517 and 1869
 they called but one; at this (Trent, 1545-1563), however, all treatment
 of the question of papal versus conciliar authority was purposely
-avoided. Although the Declaration of the French clergy of 1682
+avoided. Although the [[Declaration]] of the French clergy of 1682
 reaffirmed the conciliar doctrines of Constance, since the French
 Revolution this "Gallicanism" has shown itself to be but a passing phase
 of constitutional theory; and in the 19th century the ascendancy of
 Ultramontanism became so secure that Pius IX. could confidently summon
 to the Vatican a synod which set its seal on the doctrine of papal
-infallibility. Yet it would be a misconception to suppose that the
+[[Infallibility|infallibility]]. Yet it would be a misconception to suppose that the
 Vatican decrees mean the surrender of the ancient belief in the
 infallibility of oecumenical synods; their decisions may still be
 regarded as more solemn and more impressive than those of the pope
-alone; their authority is fuller, though not higher. At present it is
+alone; their authority is [[Fuller|fuller]], though not higher. At present it is
 agreed that the pope has the sole right of summoning oecumenical
 councils, of presiding or appointing presidents and of determining the
 order of business and the topics which shall come up. The papal
@@ -247,7 +247,7 @@ verdict that an irreconcilable minority may absent itself from the final
 vote, as was the case at the Vatican Council.
 
 The numbering of oecumenical synods is not fixed; the list most used in
-the Roman Church to-day is that of Hefele (_Conciliengeschichte_, 2nd
+the Roman Church to-day is that of [[Hefele]] (_Conciliengeschichte_, 2nd
 ed., I. 59 f.):
 
                                                         A.D.
@@ -263,7 +263,7 @@ ed., I. 59 f.):
   10.  Lateran II.                                     1139
   11.  Lateran III.                                    1179
   12.  Lateran IV.                                     1215
-  13.  Lyons I.                                        1245
+  13.  [[Lyons]] I.                                        1245
   14.  Lyons II.                                       1274
   15.  Vienne                                          1311
   16.  Constance (in part)                        1414-1418
@@ -279,7 +279,7 @@ separate articles.)
 By including Pisa (1409) and by treating Florence as a separate synod,
 certain writers have brought the number of oecumenical councils up to
 twenty-two. These standard lists are of the type which became
-established through the authority of Cardinal R. F. Bellarmine
+established through the authority of Cardinal R. F. [[Bellarmine]]
 (1542-1621), who criticized Constance and Basel, while defending
 Florence and the fifth Lateran council against the Gallicans. As late as
 the 16th century, however, "the majority did not regard those councils
@@ -305,7 +305,7 @@ veneration the dogmatic decisions of Nicaea I., Constantinople I.,
 Ephesus and Chalcedon. These four councils had enjoyed a more or less
 fortuitous pre-eminence both in Roman and in canon law, and by many
 Catholics at the time of the Reformation were regarded, along with the
-three great creeds (Apostles', Nicene, Athanasian), as a sort of
+three great [[Creeds|creeds]] (Apostles', Nicene, Athanasian), as a sort of
 irreducible minimum of orthodoxy. In the 17th century the liberal
 Lutheran George Calixtus based his attempts at reuniting Christendom on
 this _consensus quinquesaecularis_. Many other Protestants have accepted
@@ -329,7 +329,7 @@ synods are very limited, many of their advocates have been
 disillusioned; but the Lutheran churches of America, being independent
 of the state, have developed synods both numerous and potent. In the
 Reformed churches outside Germany synodal life is vigorous; its forms
-were developed by the Huguenots in days of persecution, and passed
+were developed by the [[Huguenots]] in days of persecution, and passed
 thence to Scotland and other presbyterian countries. Even many of the
 churches of congregational polity have organized national councils (see
 CONGREGATIONALISM); but here the principle of the independence of the
@@ -347,12 +347,12 @@ growing sentiment for Christian unity.
   AUTHORITIES.--GENERAL COLLECTIONS: _Collectio regia_ (Paris, 1644, 37
   vols.) (the first very extensive work); P. Labbe (not Labbe) and G.
   Cossart, _Sacrosancta concilia_ (Paris, 1672, 17 vols.), with
-  supplement by Etienne Baluze (Baluzius), 1683 (based on above); J.
-  Hardouin (Harduinus), _Conciliorum collectio regia maxima_ (Paris,
+  supplement by Etienne [[Baluze]] (Baluzius), 1683 (based on above); J.
+  [[Hardouin]] (Harduinus), _Conciliorum collectio regia maxima_ (Paris,
   1715), 11 tomi in 12 vols, (to 1714; more exact; indexed; serious
   omissions); enlarged edition by N. Coletus (Venice, 1728-1732),
   supplemented by J. D. Mansi, _Sanctorum conciliorum et decretorum nova
-  collectio_ (Lucca, 1748, 6 tomi). Convenient but fallible is Mansi's
+  collectio_ ([[Lucca]], 1748, 6 tomi). Convenient but fallible is Mansi's
   _Sacrorum conciliorum et decretorum nova et amplissima collectio_
   (Florence, 1759-1767; completed Venice, 1769-1798, 31 vols.);
   facsimile reproduction by Welter (Paris, 1901 ff.), adding (tom. O)
@@ -360,7 +360,7 @@ growing sentiment for Christian unity.
   18B) Baluze, _Capitularia regum Francorum_, and continuing to date by
   reproducing parts of Coletus and of Mansi's supplement to Coletus, and
   furnishing (tom. 37 ff.) a new edition of the councils from 1720 on by
-  J. B. Martin and L. Petit. A careful text of Roman Catholic synods
+  J. B. [[Martin]] and L. Petit. A careful text of Roman Catholic synods
   from 1682 to 1870 is _Collectio Lacensis_ (_Acta et decreta sacrorum
   conciliorum recentiorum_, Friburgi, 1870 ff.), 7 vols.
 
@@ -376,7 +376,7 @@ growing sentiment for Christian unity.
   American Church History Series_ (New York, 1893 ff. 13 vols.) gives
   information on the various Protestant synods.
 
-  FRANCE.--_Concilia aevi Merovingici_, rec. F. Maassen (Hanover, 1893)
+  FRANCE.--_Concilia aevi Merovingici_, rec. F. Maassen ([[Hanover]], 1893)
   (_Monumenta Germaniae historica, Legum sectio_ iii., _Concilia_, tom.
   i.); _Concilia antiqua Galliae_, cur. J. Sirmond (Paris, 1629, 3
   vols.); supplement by P. de la Lande (Paris, 1666); L. Odespun,
@@ -385,21 +385,21 @@ growing sentiment for Christian unity.
   1789). Synods of the Reformed Churches of France are contained in J.
   Quick, _Synodicon in Gallia reformata_ (London, 1692, 2 vols.); J.
   Aymon, _Tous les synodes nationaux des eglises reformees de France_
-  (La Haye, 1710, 2 vols.); E. Hugues, _Les Synodes du desert_ (Paris,
+  (La Haye, 1710, 2 vols.); E. Hugues, _Les Synodes du [[Desert|desert]]_ (Paris,
   1885 f., 3 vols.). For the synods of other countries see Herzog-Hauck,
   3rd ed., 19,262 f., and Wetzer and Welte, 2nd ed., 3809 f.
 
   LESS ELABORATE TEXTS: _Canones apostolorum et conciliorum saeculorum_,
   iv.-vii., rec. H. T. Bruns (Berlin, 1839, 2 vols.) (still useful); J.
-  Fulton, _Index Canonum_ (3rd ed., New York, 1892) (3rd and 4th
-  centuries); W. Bright, _Notes on the Canons of the First Four General
+  Fulton, _[[Index]] Canonum_ (3rd ed., New York, 1892) (3rd and 4th
+  centuries); W. [[Bright]], _Notes on the Canons of the First Four General
   Councils_ (2nd ed., Oxford, 1892); _Die Kanones der wichtigsten
   altkirchlichen Conzilien nebst den apostolischen Kanones_, ed. F.
-  Lauchert (Freiburg i. B., 1896); _Enchiridion symbolorum et
+  Lauchert ([[Freiburg]] i. B., 1896); _Enchiridion symbolorum et
   definitionum, quae de rebus fidei et morum a conciliis oecumenicis et
   summis pontificibus emanarunt_, ed. H. Denzinger (7th ed., Wurzburg,
   1895); _Bibliothek der Symbole und Glaubensregeln der alten Kirche_,
-  ed. by A. Hahn (3rd edition, revised and enlarged, Breslau, 1897),
+  ed. by A. [[Hahn]] (3rd edition, revised and enlarged, Breslau, 1897),
   with variant readings; C. Mirbt, _Quellen zur Geschichte des Papsttums
   und des romischen Katholizismus_ (2nd much enlarged ed., Tubingen,
   1901); E. F. Karl Muller, Die Bekenntnisschriften der reformierten
@@ -423,7 +423,7 @@ growing sentiment for Christian unity.
   A.D. 787, from A.D. 326 on, based on the second German edition
   (Edinburgh, 1871 ff.); French, by Delarc (Paris, 1869-1874, 10 vols.).
   This first edition not entirely superseded by the second, made after
-  the Vatican council, and continued by Knopfler and by Hergenrother
+  the Vatican council, and continued by Knopfler and by [[Hergenrother]]
   (Freiburg, 1873-1890, 9 vols.); a French translation, with
   continuation and critical and bibliographical notes, _par un religieux
   benedictin de Farnborough_, tome i. 1^re partie (Paris, Letouzey,
@@ -431,13 +431,13 @@ growing sentiment for Christian unity.
   (Paris, 1876) (_Extrait de la Revue historique_); W. P. du Bose, _The
   Ecumenical Councils_ (New York, 1896) (popular); P. Guerin, _Les
   Conciles generaux et particuliers_ (Paris, 1868, 3rd impression, 1897,
-  3 tom.); see also A. Harnack, _History of Dogma_ (Boston, 1895-1900, 7
+  3 tom.); see also A. Harnack, _History of Dogma_ ([[Boston]], 1895-1900, 7
   vols.); F. Loofs, _Leitfaden der Dogmengeschichte_ (4th ed., enlarged,
-  Halle, 1906).
+  [[Halle]], 1906).
 
   LITERATURE: _Dictionnaire universel et complet des conciles_, redige
   par A. C. Peltier, publie par Migne (Paris, 1847, 2 vols.) (Migne,
-  _Encyclopedie theologique_, vol. 13 f.); Z. Zitelli-Natali, _Epitome
+  _Encyclopedie theologique_, vol. 13 f.); Z. Zitelli-Natali, _[[Epitome]]
   historico-canonica conciliorum generalium_ (Rome, 1881); F. X. Kraus,
   _Realencyklopadie der christlichen Altertumer_, vol. i.
   (Freiburg-i.-B., 1882) (art. "Concilien" by Funk); William Smith and
@@ -445,23 +445,23 @@ growing sentiment for Christian unity.
   2 vols.) (erudite detail); Wetzer und Welte's _Kirchenlexikon_, 2nd
   ed. by Hergenrother and Kaulen (Freiburg i. B., 1882-1903, 13 vols.)
   (art. "Concil" by Scheeben); _La Grande Encyclopedie_ (Paris, s.d., 31
-  vols.) (numerous articles); P. Hinschius, _Das Kirchenrecht der
+  vols.) (numerous articles); P. [[Hinschius]], _Das Kirchenrecht der
   Katholiken und Protestanten in Deutschland_, vol. 3 (Berlin, 1883)
   (fundamental and masterly); R. von Scherer, _Handbuch des
   Kirchenrechtes_, vol. i. (Graz, 1886) (excellent notes and
-  references); E. H. Landon, _A Manual of Councils of the Holy Catholic
+  references); E. H. Landon, _A [[Manual]] of Councils of the Holy Catholic
   Church_, (revised ed., London, [1893], 2 vols.) (paraphrases chief
   canons; needs revision); Martigny, _Dictionnaire des antiquites
   chretiennes_ (3rd ed., Paris, 1889) (for ceremonial); R. Sohm,
   _Kirchenrecht_, vol. i. (Leipzig, 1892) (brilliant); A. Kneer, _Die
   Entstehung der konziliaren Theorie_ (Rome, 1893); _Realencyklopadie
-  fur protestantische Theologie und Kirche_, begrundet von J. J. Herzog,
+  [[Fur|fur]] protestantische Theologie und Kirche_, begrundet von J. J. [[Herzog]],
   3rd revised ed. by A. Hauck (Leipzig, 1896 ff.) (in vol. 19 Hauck's
   excellent _Synoden_, 1907); F. X. Funk, _Kirchengeschichtliche
   Abhandlungen und Untersuchungen_ (Paderborn, 1897); A. V. G. Allen,
   _Christian Institutions_ (New York, 1897), chap. xi.; C. A. Kneller,
   "Papst und Konzil im ersten Jahrtausend" (_Zeitschrift fur katholische
-  Theologie_, vols. 27 and 28, Innsbruck, 1893 f.); F. Bliemetzrieder,
+  Theologie_, vols. 27 and 28, [[Innsbruck]], 1893 f.); F. Bliemetzrieder,
   _Das Generalkonzil im grossen abendlandischen Schisma_ (Paderborn,
   1904); Wilhelm and Scannell, _Manual of Catholic Theology_ (3rd ed.,
   London, 1906, sect. 32); J. Forget, "Conciles," in A. Vacant and E.
@@ -472,7 +472,7 @@ growing sentiment for Christian unity.
 
 FOOTNOTES:
 
-  [1] For the Greek Council see BOULE; for the Hebdomadal Council see
+  [1] For the Greek Council see [[Boule|BOULE]]; for the Hebdomadal Council see
     OXFORD; see also ENGLAND: Local Government.
 
   [2] From [Greek: he oikoumene (ge)]. the inhabited world; Latin

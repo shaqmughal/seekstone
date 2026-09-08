@@ -2,20 +2,20 @@
 
 ESTREMADURA, or EXTREMADURA, an ancient territorial division of central
 and western Portugal, and of western Spain; comprising the modern
-districts of Leiria, Santarem and Lisbon, in Portugal, and the modern
-provinces of Badajoz and Caceres in Spain. Pop. (1900) 2,095,818; area,
+districts of [[Leiria]], Santarem and [[Lisbon]], in Portugal, and the modern
+provinces of Badajoz and [[Caceres]] in Spain. Pop. (1900) 2,095,818; area,
 23,055 sq. m. The name of Estremadura appears to be of early Romance or
 Late Latin origin, and probably was applied to all the far western lands
 (_extrema ora_) bordering upon the lower Tagus, as far as the Atlantic
-Ocean. It is thus equivalent to _Land's End_, or _Finistere_. In popular
+Ocean. It is thus equivalent to _[[Land'S End|Land's End]]_, or _Finistere_. In popular
 speech it is more commonly used than the names of the modern divisions
 mentioned above, which were created in the 19th century. As, however,
 there are many racial, economic and historic differences between
 Portuguese and Spanish Estremadura, the two provinces are separately
 described below.
 
-1. Portuguese Estremadura is bounded on the N. by Beira, E. and S. by
-Alemtejo, and W. by the Atlantic Ocean. Pop. (1900) 1,221,418; area,
+1. Portuguese Estremadura is bounded on the N. by [[Beira]], E. and S. by
+Alemtejo, and W. by the [[Atlantic Ocean]]. Pop. (1900) 1,221,418; area,
 6937 sq. m. The greatest length of the province, from N. to S., is 165
 m.; its greatest breadth, from E. to W., is 72 m. The general uniformity
 of the coast-line is broken by the broad and deep estuaries of the Tagus
@@ -31,7 +31,7 @@ undrained marshes. The Sado, which issues into Setubal Bay, is the only
 important river of this region. North of the Tagus, and parallel with
 its right bank, extends the mountain chain which is known at its
 northern extremity as the Serra do Aire and, where it terminates above
-Cape da Roca, as the Serra da Cintra. This ridge, which is buttressed on
+Cape da Roca, as the Serra da [[Cintra]]. This ridge, which is buttressed on
 all sides by lesser groups of hills, and includes part of the famous
 lines of Torres Vedras (q.v.), exceeds 2200 ft. in height, and
 constitutes the watershed between the right-hand tributaries of the
@@ -47,12 +47,12 @@ communications, &c., are described under PORTUGAL; for on such matters
 there is little to be said of this central and most characteristic
 province which does not apply to the whole kingdom. Separate articles
 are also devoted to Lisbon, the capital, and Abrantes, Cintra, Leiria,
-Mafra, Santarem, Setubal, Thomar, Torres Novas and Torres Vedras, the
+[[Mafra]], Santarem, Setubal, Thomar, Torres Novas and Torres Vedras, the
 other chief towns. The women of Peniche, a small fishing village on the
 promontory of Cape Carvoeiro, have long been celebrated throughout
-Portugal for their skill in the manufacture of fine laces.
+Portugal for their skill in the manufacture of fine [[Lace|laces]].
 
-2. Spanish Estremadura is bounded on the N. by Leon and Old Castile, E.
+2. Spanish Estremadura is bounded on the N. by [[Leon]] and Old Castile, E.
 by New Castile, S. by Andalusia, and W. by the Portuguese province of
 Beira and Alemtejo, which separate it from Portuguese Estremadura. Pop.
 (1900) 882,410; area, 16,118 sq. m. Spanish Estremadura consists of a
@@ -61,7 +61,7 @@ Gredos, the plateau of Bejar and the Sierra de Gata, which form an
 almost continuous barrier along the northern frontier, with its summits
 ranging from 6000 to more than 8500 ft. in altitude. On the south the
 comparatively low range of the Sierra Morena constitutes the frontier of
-Andalusia; on the east and west there is a still more gradual transition
+Andalusia; on the east and west there is a still more [[Gradual|gradual]] transition
 to the plateau of New Castile and the central plains of Portugal. The
 tableland of Spanish Estremadura is itself bisected from east to west by
 a line of mountains, the Sierras of San Pedro, Montanchez and Guadalupe
@@ -80,7 +80,7 @@ The climate in summer is hot but not unhealthy, except in the swamps
 which occur along the Guadiana. The rainfall is scanty; dew, however, is
 abundant and the nights are cool. Although the high mountains are
 covered with snow in November, the winters are not usually severe. The
-soil is naturally fertile, but drought, floods and locusts render
+soil is naturally fertile, but drought, [[Flood|floods]] and locusts render
 agriculture difficult, and sheep-farming is the most important of
 Estremaduran industries. (See SPAIN: _Agriculture_.) In the 19th
 century, however, this industry lost much of its former importance owing
@@ -89,7 +89,7 @@ to foreign competition.
 Immense herds of swine are bred and constitute a great source of support
 to the inhabitants, not only supplying them with food, but also forming
 a great article of export to other provinces--the pork, bacon and hams
-being in high esteem. The beech, oak and chestnut woods afford an
+being in high esteem. The [[Beech|beech]], oak and chestnut woods afford an
 abundance of food for swine, and there are numerous plantations of
 olive, cork and fruit trees, but a far greater area of forest has been
 destroyed. For an account of commerce, mining, communications, &c., in
@@ -97,7 +97,7 @@ Spanish Estremadura, with a list of the chief towns, see CACERES and
 BADAJOZ. In character and physical type, the people of this region are
 less easily classified than those of other Spanish provinces. They lack
 the endurance and energy of the Galicians, the independent and
-enterprising spirit of the Asturians, Basques and Catalans, the culture
+enterprising spirit of the Asturians, [[Basques]] and Catalans, the culture
 of the Castilians and Andalusians. Their failure to develop a
 distinctive local type of character and civilization is perhaps due to
 the adverse economic history of their country. The two great waterways
@@ -112,7 +112,7 @@ Pizarro (c. 1471-1541), the conqueror of Peru, were both born in
 Estremadura, their exploits, far from bringing prosperity to their
 native province, only encouraged the emigration of its best inhabitants.
 Heavy taxation and harsh land-laws prevented any recovery, while the
-felling of the forests reduced many fertile areas to waste land, and
+[[Felling|felling]] of the forests reduced many fertile areas to waste land, and
 rendered worse a climate already unfavourable to agriculture. Few
 countries leave upon the mind of the traveller a deeper impression of
 hopeless poverty.
@@ -126,7 +126,7 @@ the Casa Branca-Evora-Elvas railway. Pop. (1900) 7920. Estremoz is built
 at the base of a hill crowned by a large dismantled citadel; its
 fortifications, which in the 17th century accommodated 20,000 troops and
 rendered the town one of the principal defences of the frontier, are now
-obsolete. There are marble quarries in the neighbourhood, and the
+obsolete. There are [[Marble|marble]] quarries in the neighbourhood, and the
 Estremoz _bilhas_, red earthenware jars, are used throughout Portugal as
 water-holders and exported to Spain. At Ameixial (1188) and Monies
 Claros, near Estremoz, the Spanish were severely defeated by the

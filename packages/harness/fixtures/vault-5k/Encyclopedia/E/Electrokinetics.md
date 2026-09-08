@@ -3,9 +3,9 @@
 ELECTROKINETICS, that part of electrical science which is concerned with
 the properties of electric currents.
 
-_Classification of Electric Currents._--Electric currents are classified
+_[[Classification]] of Electric Currents._--Electric currents are classified
 into (a) conduction currents, (b) convection currents, (c) displacement
-or dielectric currents. In the case of conduction currents electricity
+or [[Dielectric|dielectric]] currents. In the case of conduction currents electricity
 flows or moves through a stationary material body called the conductor.
 In convection currents electricity is carried from place to place with
 and on moving material bodies or particles. In dielectric currents there
@@ -83,7 +83,7 @@ that any periodic curve having any wave form can be imitated by the
 superposition of simple sine currents differing in maximum value and in
 phase.
 
-_Definitions of Unit Electric Current._--In electrokinetic
+_[[Definition|Definitions]] of Unit Electric Current._--In electrokinetic
 investigations we are most commonly limited to the cases of
 unidirectional continuous and constant currents (C.C. or D.C.), or of
 simple periodic currents, or alternating currents of sine form (A.C.). A
@@ -119,7 +119,7 @@ the electromagnetic unit was too large for most purposes, whilst the
 electrostatic unit was too small; hence a practical unit of current
 called 1 ampere was selected, intended originally to be {1/10} of the
 absolute electromagnetic C.G.S. unit of current as above defined. The
-practical unit of current, called the international ampere, is, however,
+practical unit of current, called the [[International|international]] ampere, is, however,
 legally defined at the present time as the continuous unidirectional
 current which when flowing through a neutral solution of silver nitrate
 deposits in one second on the cathode or negative pole 0.001118 of a
@@ -152,7 +152,7 @@ continuous current the value of the current in amperes (A) is obtained
 as the quotient of the electromotive force acting in the circuit
 reckoned in volts by the resistance in ohms, or A = V/R. Ohm established
 his law by a course of reasoning which was similar to that on which
-J.B.J. Fourier based his investigations on the uniform motion of heat in
+J.B.J. [[Fourier]] based his investigations on the uniform motion of heat in
 a conductor. As a matter of fact, however, Ohm's law merely states the
 direct proportionality of steady current to steady electromotive force
 in a circuit, and asserts that this ratio is governed by the numerical
@@ -294,7 +294,7 @@ lines.
   good also for a long straight solenoid provided its length is large
   compared with its diameter. It can be shown that if insulated wire is
   wound round a sphere, the turns being all parallel to lines of
-  latitude, the magnetic force in the interior is constant and the lines
+  [[Latitude|latitude]], the magnetic force in the interior is constant and the lines
   of force therefore parallel. The magnetic force at a point outside a
   conductor conveying a current can by various means be measured or
   compared with some other standard magnetic forces, and it becomes then
@@ -407,7 +407,7 @@ insulated wire passing up it.
 
 [Illustration: FIG. 5.]
 
-Ampère devised certain crucial experiments, and the theory deduced from
+Ampère devised certain [[Crucial|crucial]] experiments, and the theory deduced from
 them is based upon four facts and one assumption.[2] He showed (1) that
 wire conveying a current bent back on itself produced no action upon a
 proximate portion of a movable astatic circuit; (2) that if the return
@@ -484,11 +484,11 @@ circuits together. If, however, the currents are in opposite directions
 then the lateral pressure of the similarly contracted lines of force
 between them pushes the conductors apart. Practical application of
 Ampère's discoveries was made by W.E. Weber in inventing the
-electrodynamometer, and later Lord Kelvin devised ampere balances for
+electrodynamometer, and later Lord Kelvin devised ampere [[Balance|balances]] for
 the measurement of electric currents based on the attraction between
 coils conveying electric currents.
 
-_Induction of Electric Currents._--Faraday[4] in 1831 made the important
+_[[Induction]] of Electric Currents._--Faraday[4] in 1831 made the important
 discovery of the induction of electric currents (see ELECTRICITY). If
 two conductors are placed parallel to each other, and a current in one
 of them, called the primary, started or stopped or changed in strength,
@@ -580,7 +580,7 @@ treated by Lord Kelvin in 1853 (_Phil. Mag._, 1853, 5, p. 292).
   that instant is ½q²/C, and the energy associated with the circuit is
   ½L(dq/dt)², and the rate of dissipation of energy by resistance is
   R(dq/dt)², since dq/dt = i is the discharge current. Hence we can
-  construct an equation of energy which expresses the fact that at any
+  construct an [[Equation|equation]] of energy which expresses the fact that at any
   instant the power given out by the condenser is partly stored in the
   circuit and partly dissipated as heat in it. Mathematically this is
   expressed as follows:--
@@ -776,13 +776,13 @@ relative magnitudes and phase differences of these currents.
   have to consider certain points called sources at which the current
   flows into the sheet, and certain points called sinks at which it
   leaves. We may investigate, first, the simple case of one source and
-  one sink in an infinite plane sheet of thickness [delta] and
+  one sink in an [[Infinite|infinite]] plane sheet of thickness [delta] and
   conductivity k. Take any point P in the plane at distances R and r
   from the source and sink respectively. The potential V at P is
   obviously given by
 
               Q            r1
-    V = -------------log_e --,
+    V = -------------[[Log|log]]_e --,
         2[pi]k[delta]      r2
 
   where Q is the quantity of electricity supplied by the source per
@@ -854,7 +854,7 @@ investigations. The question whether a statically electrified body in
 motion creates a magnetic field is of fundamental importance.
 Experiments to settle it were first undertaken in the year 1876 by H.A.
 Rowland, at a suggestion of H. von Helmholtz.[8] After preliminary
-experiments, Rowland's first apparatus for testing this hypothesis was
+experiments, Rowland's first apparatus for testing this [[Hypothesis|hypothesis]] was
 constructed, as follows:--An ebonite disk was covered with radial strips
 of gold-leaf and placed between two other metal plates which acted as
 screens. The disk was then charged with electricity and set in rapid
@@ -888,7 +888,7 @@ observation recorded by R.W. Wood (_Phil. Mag._, 1902, 2, p. 659)
 provides a confirmatory fact. He noticed that if carbon-dioxide strongly
 compressed in a steel bottle is allowed to escape suddenly the cold
 produced solidifies some part of the gas, and the issuing jet is full of
-particles of carbon-dioxide snow. These by friction against the nozzle
+particles of carbon-dioxide snow. These by [[Friction|friction]] against the nozzle
 are electrified positively. Wood caused the jet of gas to pass through a
 glass tube 2.5 mm. in diameter, and found that these particles of
 electrified snow were blown through it with a velocity of 2000 ft. a
@@ -923,8 +923,8 @@ force across the conductor.
   Electricity_ (3 vols., London, 1839, 1844, 1855); J. Clerk Maxwell,
   _Electricity and Magnetism_ (2 vols., Oxford, 1892); W. Watson and
   S.H. Burbury, _Mathematical Theory of Electricity and Magnetism_, vol.
-  ii. (Oxford, 1889); E. Mascart and J. Joubert, _A Treatise on
-  Electricity and Magnetism_ (2 vols., London, 1883); A. Hay,
+  ii. (Oxford, 1889); E. Mascart and J. [[Joubert]], _A Treatise on
+  Electricity and Magnetism_ (2 vols., London, 1883); A. [[Hay]],
   _Alternating Currents_ (London, 1905); W.G. Rhodes, _An Elementary
   Treatise on Alternating Currents_ (London, 1902); D.C. Jackson and
   J.P. Jackson, _Alternating Currents and Alternating Current Machinery_

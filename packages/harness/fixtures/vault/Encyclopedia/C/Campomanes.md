@@ -14,7 +14,7 @@ Castile; but on the accession of Charles IV. he was removed from his
 office, and retired from public life, regretted by the true friends of
 his country. His first literary work was _Antiquidad maritima de la
 republica de Cartago_, with an appendix containing a translation of the
-_Voyage of Hanno_ the Carthaginian, with curious notes. This appeared in
+_Voyage of [[Hanno]]_ the Carthaginian, with curious notes. This appeared in
 a quarto volume in 1756. His principal works are two admirable essays,
 _Discurso sobre el fomento de la industria popular_, 1774, and _Discurso
 sobre la educacion popular de los artesanos y su fomento_, 1775. As a

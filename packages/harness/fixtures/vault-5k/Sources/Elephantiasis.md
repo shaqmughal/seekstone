@@ -12,7 +12,7 @@ long-continued eczema, &c. The enlargement is limited to a particular
 part of the body, generally one, or in rare cases both of the lower
 limbs, occasionally the scrotum, one of the labiae or the mammary gland;
 far more rarely the face. An attack is usually ushered in by febrile
-disturbance (elephantoid fever), the part attacked becoming rapidly
+disturbance (elephantoid [[Fever|fever]]), the part attacked becoming rapidly
 swollen, and the skin tense and red as in erysipelas. The subcutaneous
 tissues become firm, infiltrated and hard, pitting only on considerable
 pressure. The skin becomes roughened with a network of dilated
@@ -26,7 +26,7 @@ of some years the attacks of fever cease, and the affected part remains
 permanently swollen. The only difference in the history of the two forms
 of the disease lies in the fact that the non-filarial form progresses
 steadily, until either the underlying condition is cured, or in the case
-of cancer, &c., brings about a fatal issue. The elephantiasis due to
+of [[Cancer|cancer]], &c., brings about a fatal issue. The elephantiasis due to
 filaria is spread by the agency of mosquitoes, in whose bodies the
 intermediate stage is passed. The dead mosquito falls upon the water,
 which thus becomes infected, and hence the ova reach the human stomach.
@@ -45,7 +45,7 @@ some vein (lymphangeioplasty). And in some few other cases artificial
 lymphatics have been made by introducing sterilized silk thread in the
 subcutaneous tissues of the affected part, and prolonging it into the
 normal tissues. This operation has been most successful when performed
-on elephantoid arms dependent on a late stage of cancerous breast.
+on elephantoid arms dependent on a late stage of cancerous [[Breast|breast]].
 Elevation of the limb and elastic pressure should always be tried, but
 often amputation has to be resorted to in the end. The disease is
 totally different from the so-called elephantiasis graecorum or true

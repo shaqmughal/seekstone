@@ -11,7 +11,7 @@ DEMMIN, a town of Germany, kingdom of Prussia, on the navigable river
 Peene (which in the immediate neighbourhood receives the Trebel and the
 Tollense), 72 m. W.N.W. of Stettin, on the Berlin-Stralsund railway.
 Pop. (1905) 12,541. It has manufactures of textiles, besides breweries,
-distilleries and tanneries, and an active trade in corn and timber.
+distilleries and tanneries, and an active trade in [[Corn|corn]] and timber.
 
 The town is of Slavonian origin and of considerable antiquity, and was a
 place of importance in the time of Charlemagne. It was besieged by a

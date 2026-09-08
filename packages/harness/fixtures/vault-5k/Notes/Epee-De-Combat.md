@@ -13,9 +13,9 @@ and elsewhere (blunted, of course) for exercise and amusement in fencing
 cutting edge, and the guard, or shell, is bowl-shaped, having its
 convexity towards the point. The _epee_ is the modern representative of
 the small-sword, and both are distinguished from the older rapier,
-mainly by being several inches shorter and much lighter in weight. The
+mainly by being several [[Inch|inches]] shorter and much lighter in weight. The
 small-sword (called thus in opposition to the heavy cavalry broadsword),
-was worn by gentlemen in full dress throughout the 18th century, and it
+was worn by gentlemen in full [[Dress|dress]] throughout the 18th century, and it
 still survives in the modern English court costume.
 
 Fencing practice was originally carried on without the protection of any
@@ -35,9 +35,9 @@ accomplished amateurs making a foil assault without masks, while in the
 background a less practised one is having a wire mask tied on.
 
 For greater safety the convention was very early arrived at that no hits
-should count in a fencing-bout except those landing on the breast. Thus
+should count in a fencing-bout except those landing on the [[Breast|breast]]. Thus
 sword-play soon became so unpractical as to lose much of its value as a
-training for war or the duel. For, hits with "sharps" take effect
+training for war or the [[Duel|duel]]. For, hits with "sharps" take effect
 wherever they are made, and many an expert fencer of the old school has
 been seriously wounded, or lost his life in a duel, through forgetting
 that very simple fact.
@@ -53,13 +53,13 @@ foil-fencing was laid with the epee or small-sword alone, in and before
 the days of Angelo, of Danet, and the famous chevalier de St George, who
 were among the first to adopt the fleuret also. All the illustrious
 French professors who came after them, such as La Boessiere the younger,
-Lafaugere, Jean Louis, Cordelois, Grisier, Bertrand and Robert, with
+Lafaugere, Jean Louis, Cordelois, Grisier, [[Bertrand]] and Robert, with
 amateurs like the baron d'Ezpeleta, were foil-players pure and simple,
 whose reputations were gained before the modern epee play had any
-recognized status. It was reserved for Jacob, a Parisian fencing-master,
+recognized status. It was reserved for [[Jacob]], a Parisian fencing-master,
 to establish in the last quarter of the 19th century a definite method
 of the epee, which differed essentially from all its forerunners. He was
-soon followed by Baudry, Spinnewyn, Laurent and Ayat. The methods of the
+soon followed by [[Baudry]], Spinnewyn, Laurent and Ayat. The methods of the
 four first-named, not differing much _inter se_, are based on the
 perception that in the real sword fight, where hits are effective on all
 parts of the person, the "classical" bent-arm guard, with the foil
@@ -95,10 +95,10 @@ both of attack and defence.
 
 It was mainly by amateurs that this development was achieved. Perhaps
 the most conspicuous representative of the new school is J.
-Joseph-Renaud, a consummate swordsman, who has also been a champion
+Joseph-Renaud, a consummate swordsman, who has also been a [[Champion|champion]]
 foil-player. Lucien Gaudin, Alibert and Edmond Wallace may be also
 mentioned as among the most skilful amateurs, Albert Ayat and L. Bouche
-as professors--all of Paris. Belgium, Italy and England have also
+as professors--all of Paris. [[Belgium]], Italy and England have also
 produced epeists quite of the first rank.
 
 The epee lends itself to competition far better than the foil, and the
@@ -116,9 +116,9 @@ Sulzbacher, C. Newton-Robinson being second, and Paul Ettlinger, a
 French resident in London, third. This was immediately followed by the
 institution of the Epee Club of London, which, under the successive
 residencies of a veteran swordsman, Sir Edward Jenkinson, and of Lord
-Desborough, subsequently held annual open international tournaments. The
+Desborough, subsequently held annual open [[International|international]] tournaments. The
 winners were: in 1901, Willy Sulzbacher; 1902, Robert Montgomerie; 1903,
-the marquis de Chasseloup-Laubat; 1904, J.J. Renaud; 1905, R.
+the marquis de [[Chasseloup-Laubat]]; 1904, J.J. Renaud; 1905, R.
 Montgomerie. In 1906 the Amateur Fencing Association for the first time
 recognized the best-placed Englishman, Edgar Seligman (who was the
 actual winner), as the English epee champion. In 1907 R. Montgomerie was
@@ -126,11 +126,11 @@ again the winner, in 1908 C.L. Daniell, in 1909 R. Montgomerie.
 
 Among the most active of the English amateurs who were the earliest to
 perceive the wonderful possibilities of epee-play, it is right to
-mention Captain Hutton, Lord Desborough, Sir Cosmo Duff-Gordon, Bart.,
-Sir Charles Dilke, Bart., Lord Howard de Walden, Egerton Castle, A.S.
+mention Captain Hutton, Lord Desborough, Sir Cosmo [[Duff-Gordon]], Bart.,
+Sir Charles [[Dilke]], Bart., Lord [[Howard]] de Walden, [[Egerton]] Castle, A.S.
 Cope, R.A., W.H.C. Staveley, C.F. Clay, Lord Morpeth, Evan James, Paul
-King, J.B. Cunliffe, John Norbury, Jr., Theodore A. Cook, John
-Jenkinson, R. Montgomerie, S. Martineau, E.B. Milnes, H.J. Law, R.
+King, J.B. Cunliffe, John Norbury, Jr., Theodore A. [[Cook]], John
+Jenkinson, R. Montgomerie, S. [[Martineau]], E.B. Milnes, H.J. Law, R.
 Merivale, the Marquis of Dufferin, Hugh Pollock, R.W. Doyne, A.G. Ross,
 the Hon. Ivor Guest and Henry Balfour.
 
@@ -148,7 +148,7 @@ six was inaugurated in Paris. Up to 1909 the French team uniformly won
 the first place, with Belgium or England second.
 
 English fencers who were members of these international teams were Lord
-Desborough, Theodore A. Cook, Bowden, Cecil Haig, J. Norbury, Jr., R.
+Desborough, Theodore A. Cook, Bowden, [[Cecil]] Haig, J. Norbury, Jr., R.
 Montgomerie, John Jenkinson, F. Townsend, W.H.C. Staveley, S. Martineau,
 C.L. Daniell, W. Godden, Captain Haig, M.D.V. Holt, Edgar Seligman, C.
 Newton-Robinson, A.V. Buckland, P.M. Davson, E.M. Amphlett and L.V.
@@ -156,7 +156,7 @@ Fildes. In 1906 a British epee team of four, consisting of Lord
 Desborough, Sir Cosmo Duff-Gordon, Bart., Edgar Seligman and C.
 Newton-Robinson, with Lord Howard de Walden and Theodore Cook as
 reserves (the latter acting as captain of the team), went to Athens to
-compete in the international match at the Olympic games. After defeating
+compete in the international match at the Olympic [[Games|games]]. After defeating
 the Germans rather easily, the team opposed and worsted the Belgians. It
 thus found itself matched against the French in the final, the Greek
 team having been beaten by the French and the Dutch eliminated by the
@@ -179,7 +179,7 @@ In open International Tournaments on the Continent, English epeists have
 also been coming to the front. None had won such a competition up to
 1909 outright, but the following had reached the final pool: C.
 Newton-Robinson, Brussels, 1901 (10th), Etretat, 1904 (6th); E.
-Seligman, Copenhagen, 1907 (2nd), and Paris, 1909 (12th); R.
+Seligman, [[Copenhagen]], 1907 (2nd), and Paris, 1909 (12th); R.
 Montgomerie, Paris, 1909 (5th); and E.M. Amphlett, Paris, 1909 (10th).
 
 The method of ascertaining the victor in epee "tournaments" is by
@@ -197,7 +197,7 @@ gardens.
 
 In the use of the epee the most essential points are (1) the position of
 the sword-arm, which, whether fully extended or not, should always be so
-placed as to ensure the protection of the wrist, forearm and elbow from
+placed as to ensure the protection of the wrist, forearm and [[Elbow|elbow]] from
 direct thrusts, by the intervention of the guard or shell; (2) readiness
 of the legs for _instant_ advance or retreat; and (3) the way in which
 the weapon is held, the best position (though hard to acquire and
@@ -235,7 +235,7 @@ epee which is usually held uppermost is slightly concave, the other is
 strengthened with a midrib, nearly equal in thickness and similar in
 shape to either half of the true blade. The material is tempered steel.
 There is a haft or tang about 8 in. long, which is pushed through a
-circular guard or shell ("_coquille_") of convex form, the diameter of
+circular guard or shell ("_coquille_") of [[Convex|convex]] form, the diameter of
 which is normally 5 in. and the convexity 1-3/4 in. The shell is of
 steel or aluminium, and if of the latter metal, sometimes fortified at
 the centre with a disk of steel the size of a crown piece. The insertion
@@ -276,7 +276,7 @@ blunt points of hardened steel each slightly excentric. The single point
 is sometimes prevented by the thickness of the button from scoring a
 good hit.
 
-A mask of wire netting is used to protect the face, and a stout glove on
+A mask of wire netting is used to protect the face, and a stout [[Glove|glove]] on
 the sword hand. It is necessary to wear strong clothes and to pad the
 jacket and trousers at the most exposed parts, in case the blade should
 break unnoticed. A vulnerable spot, which ought to be specially padded,

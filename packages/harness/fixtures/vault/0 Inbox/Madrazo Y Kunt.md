@@ -15,19 +15,19 @@ Winterhalter, and painted portraits of Baron Taylor and of Ingres. In
 Versailles, and painted "Godfrey de Bouillon proclaimed King of
 Jerusalem." The artist then went to Rome, where he worked at various
 subjects, sacred and profane. Then he painted "Maria Christina in the
-Dress of a Nun by the bedside of Ferdinand III." (1843), "Queen
-Isabella," "The Duchess of Medina-Coeli," and "The Countess de Vilchès"
-(1845-1847), besides a number of portraits of the Spanish aristocracy,
+[[Dress]] of a Nun by the bedside of [[Ferdinand]] III." (1843), "Queen
+[[Isabella]]," "The Duchess of Medina-Coeli," and "The Countess de Vilchès"
+(1845-1847), besides a number of portraits of the Spanish [[Aristocracy|aristocracy]],
 some of which were sent to the exhibition of 1855. He received the
-Legion of Honour in 1846. He was made a corresponding member of the
-Paris Academy of Fine Arts on the 10th of December 1853, and in 1873, on
+[[Legion]] of Honour in 1846. He was made a corresponding member of the
+Paris Academy of [[Fine Arts]] on the 10th of December 1853, and in 1873, on
 the death of Schnorr, the painter, he was chosen foreign member. After
 his father's death he succeeded him as director of the Prado Gallery and
 president of the Academy of San Fernando. He originated in Spain the
 production of art reviews and journals, such as _El Artista_, _El
 Renacimiento_ and _El Semanario pintoresco_. He died at Madrid on the
 11th of June 1894. His brother, DON LOUIS DE MADRAZO, was also known as
-a painter, chiefly by his "Burial of Saint Cecilia" (1855). Don
+a painter, chiefly by his "Burial of Saint [[Cecilia]]" (1855). Don
 Federico's best-known pupil was his son, DON RAIMUNDO DE MADRAZO (b.
 1841).
 

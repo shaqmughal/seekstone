@@ -14,23 +14,23 @@ extremity of South America. It is of wedge shape, extending from 21 deg.
 the Brazilian frontier and 73 deg. 17' 30" W. on the Chilean frontier.
 Its length from north to south is 2285 statute miles, and its greatest
 width about 930 m. It is the second largest political division of the
-continent, having an area of 1,083,596 sq. m. (Gotha measurement). It is
+continent, having an area of 1,083,596 sq. m. ([[Gotha]] measurement). It is
 bounded N. by Bolivia and Paraguay, E. by Paraguay, Brazil, Uruguay and
-the Atlantic, W. by Chile, and S. by the converging lines of the
+the Atlantic, W. by [[Chile]], and S. by the converging lines of the
 Atlantic and Chile.
 
 _Boundaries._--At different times Argentina has been engaged in disputes
 over boundary lines with every one of her neighbours, that with Chile
 being only settled in 1902. Beginning at the estuary of the Rio de la
 Plata, the boundary line ascends the Uruguay river, on the eastern side
-of the strategically important island of Martin Garcia, to the mouth of
-the Pequiry, thence under the award of President Grover Cleveland in
+of the strategically important island of [[Martin]] [[Garcia]], to the mouth of
+the Pequiry, thence under the award of President Grover [[Cleveland]] in
 1894 up that small river to its source and in a direct line to the
-source of the Santo Antonio, a small tributary of the Iguassu, thence
+source of the Santo [[Antonio]], a small tributary of the Iguassu, thence
 down the Santo Antonio and Iguassu to the upper Parana, which forms the
 southern boundary of Paraguay. From the confluence of the upper Parana
 and Paraguay the line ascends the latter to the mouth of the Pilcomayo,
-which river, under the award of President R.B. Hayes in 1878, forms the
+which river, under the award of President R.B. [[Hay|Hayes]] in 1878, forms the
 boundary between Argentina and Paraguay from the Paraguay river
 north-west to the Bolivian frontier. In accordance with the
 Argentine-Bolivian treaty of 1889 the boundary line between these
@@ -42,11 +42,11 @@ ascends the San Juan south and west to the Cerro de Granadas, and thence
 south-west to Cerro Incahuasi and Cerro Zapalegui on the Chilean
 frontier. The boundary with Chile, extending across more than 32 deg.
 lat., had been the cause of disputes for many years, which at times led
-to costly preparations for war. The debts of the two nations resulted
+to costly preparations for war. The [[Debt|debts]] of the two nations resulted
 largely from this one cause. In 1881 a treaty was signed which provided
 that the boundary line should follow the highest crests of the Andes
 forming the watershed as far south as the 52nd parallel, thence east to
-the 70th meridian and south-east to Cape Dungeness at the eastern
+the 70th meridian and south-east to Cape [[Dungeness]] at the eastern
 entrance to the Straits of Magellan. Crossing the Straits the line
 should follow the meridian of 68 deg. 44', south to Beagle Channel, and
 thence east to the Atlantic, giving Argentina the eastern part of the
@@ -57,18 +57,18 @@ on the north, the larger part of Tierra del Fuego and all the
 neighbouring islands south and west.
 
 When the attempt was made to mark this boundary the commissioners were
-unable to agree on a line across the Puna de Atacama in the north, where
+unable to agree on a line across the Puna de [[Atacama]] in the north, where
 parallel ranges enclosing a high arid plateau without any clearly
 defined drainage to the Atlantic or Pacific, gave an opportunity for
-conflicting claims. In the south the broken character of the Cordillera,
+conflicting claims. In the south the broken character of the [[Cordillera]],
 pierced in places by large rivers flowing into the Pacific and having
 their upper drainage basins on the eastern side of the line of highest
 crests, gave rise to unforeseen and very difficult questions. Finally,
 under a convention of the 17th of April 1896, these conflicting claims
-were submitted to arbitration. In 1899 a mixed commission with Hon. W.I.
-Buchanan, United States minister at Buenos Aires, serving as arbitrator,
+were submitted to [[Arbitration|arbitration]]. In 1899 a mixed commission with Hon. W.I.
+[[Buchanan]], United States minister at Buenos Aires, serving as arbitrator,
 reached a decision on the Atacama line north of 26 deg. 52' 45" S. lat.,
-which was a compromise though it gave the greater part of the territory
+which was a [[Compromise|compromise]] though it gave the greater part of the territory
 to Argentina. The line starts at the intersection of the 23rd parallel
 with the 67th meridian and runs south-westerly and southerly to the
 mountain and volcano summits of Rincon, Socompa, Llullaillaco, Azufre,
@@ -94,7 +94,7 @@ point of Mt. Tronador, and thence in a very tortuous course along local
 water-partings and across the Chilean rivers Manso, Puelo, Fetaleufu,
 Palena, Pico and Aisen, and the lakes Buenos Aires, Pueyrredon and San
 Martin, to avoid the inclusion of Argentine settlements within Chilean
-territory, to the Cerro Fitzroy and continental water-parting north-west
+territory, to the Cerro [[Fitzroy]] and continental water-parting north-west
 of Lake Viedma, between 49 deg. and 50 deg. S. lat. The northern half of
 this line does not run far from the 72nd meridian, except in 44 deg. 30'
 S. where it turns eastward nearly a degree to include the upper valley
@@ -109,7 +109,7 @@ crossing several streams and following the crests of the Cerro Cazador.
 The Chilean settlement of Ultima Esperanza (Last Hope), over which there
 had been much controversy, remains under Chilean jurisdiction.
 
-  _Physical Geography._--For purposes of surface description, Argentina
+  _Physical [[Geography]]._--For purposes of surface description, Argentina
   may be divided primarily into three great divisions--the mountainous
   zone and tablelands of the west, extending the full length of the
   republic; the great plains of the east, extending from the Pilcomayo
@@ -130,7 +130,7 @@ had been much controversy, remains under Chilean jurisdiction.
   eastern rampart of the great central plateau of which the Puna de
   Atacama covers a large part. The elevated plateaus between these
   ranges are semi-arid and inhospitable, and are covered with extensive
-  saline basins, which become lagoons in the wet season and morasses or
+  saline basins, which become [[Lagoon|lagoons]] in the wet season and morasses or
   dry salt-pans in the dry season. These saline basins extend down to
   the lower terraces of Cordoba, Mendoza and La Pampa. Flanking this
   great widening of the Andes on the south-east are the three short
@@ -154,10 +154,10 @@ had been much controversy, remains under Chilean jurisdiction.
   (1250 ft.), and thence westward and southward through still unsettled
   regions to the Rio Negro at the confluence of the Neuquen and Limay.
 
-  The Argentine part of the great La Plata plain extends from the
+  The Argentine part of the great [[La Plata]] plain extends from the
   Pilcomayo south to the Rio Negro, and from the lower terraces of the
   Andes eastward to the Uruguay and Atlantic. In the north the plain is
-  known as the Gran Chaco, and includes the country between the
+  known as the [[Gran Chaco]], and includes the country between the
   Pilcomayo and Salado del Norte and an extensive depression immediately
   north of the latter river, believed to be the undisturbed bottom of
   the ancient Pampean sea. The northern part of the Gran Chaco is partly
@@ -168,7 +168,7 @@ had been much controversy, remains under Chilean jurisdiction.
   covered with marshy lagoons are to be found, similar to those farther
   north. The forests here are heavier. Still farther south and
   south-west there are open grassy plains and large areas covered with
-  salt-pans. The general elevation of the Chaco varies from 600 to 800
+  salt-pans. The general elevation of the [[Chaco]] varies from 600 to 800
   ft. above sea-level. The Argentine "mesopotamia," between the Parana
   and Uruguay rivers, belongs in great measure to this same region,
   being partly wooded, flat and swampy in the north (Corrientes), but
@@ -183,7 +183,7 @@ had been much controversy, remains under Chilean jurisdiction.
   Evidence of this is to be found in the altitudes of the stations on
   the Buenos Aires and Pacific railway running a little north of west
   across the pampas to Mendoza. The average elevation of Buenos Aires is
-  about 65 ft.; of Mercedes, 70 m. westward, 132 ft.; of Junin (160 m.),
+  about 65 ft.; of Mercedes, 70 m. westward, 132 ft.; of [[Junin]] (160 m.),
   267 ft.; and of Paunero (400 m.) it is 1250 ft., showing an average
   rise of about 3 ft. in a mile. The apparently uniform level of the
   pampas is much broken along its southern margin by the Tandil and
@@ -207,7 +207,7 @@ had been much controversy, remains under Chilean jurisdiction.
   Jachal, or Zanjon, which flow into the Vermejo, the Patos, which flows
   into the San Juan, and the Mendoza, Tunuyan and Diamante which flow
   into the Desaguadero, all of these being Andean snow-fed rivers. The
-  Desaguadero also receives the outflow of the Laguna Bebedero, an
+  Desaguadero also receives the outflow of the [[Laguna]] Bebedero, an
   intensely saline lake of western San Luis. The lower course of the
   Desaguadero is known as the Salado because of the brackish character
   of its water. Another considerable river flowing into the same great
@@ -215,7 +215,7 @@ had been much controversy, remains under Chilean jurisdiction.
   Diamante. (A description of the Patagonian part of Argentina will be
   found under PATAGONIA.)
 
-  _Rivers and Lakes._--The hydrography of Argentina is of the simplest
+  _Rivers and Lakes._--The [[Hydrography|hydrography]] of Argentina is of the simplest
   character. The three great rivers that form the La Plata system--the
   Paraguay, Parana and Uruguay--have their sources in the highlands of
   Brazil and flow southward through a great continental depression, two
@@ -235,19 +235,19 @@ had been much controversy, remains under Chilean jurisdiction.
   south-east into the Parana. Another river of this class is the
   Carcaranal, about 300 m. long, formed by the confluence of the Tercero
   and Cuarto, whose sources are in the Sierra de Cordoba; it flows
-  eastward across the pampas, and discharges into the Parana at Gaboto,
+  eastward across the pampas, and [[Discharge|discharges]] into the Parana at Gaboto,
   about 40 m. above Rosario. Other small rivers rising in the Cordoba
   sierras are the Primero and Segundo, which flow into the lagoons of
   north-east Cordoba, and the Quinto, which flows south-easterly into
   the lagoons and morasses of southern Cordoba. The Lujan rises near
   Mercedes, province of Buenos Aires, is about 150 m. long, and flows
-  north-easterly into the Parana delta. Many smaller streams discharge
+  north-easterly into the Parana [[Delta|delta]]. Many smaller streams discharge
   into the Paraguay and Parana from the west, some of them wholly
   dependent upon the rains, and drying up during long droughts. The
   Argentine "mesopotamia" is well watered by a large number of small
   streams flowing north and west into the Parana, and east into the
   Uruguay. The largest of these are the Corrientes, Feliciano and
-  Gualeguay of the western slope, and the Aguapey and Mirinay of the
+  [[Gualeguay]] of the western slope, and the Aguapey and Mirinay of the
   eastern. None of the tributaries of the La Plata system thus far
   mentioned is navigable except the lower Pilcomayo and Bermejo for a
   few miles. These Chaco rivers are obstructed by sand bars and snags,
@@ -265,7 +265,7 @@ had been much controversy, remains under Chilean jurisdiction.
   character, and are of slight use in the pastoral and agricultural
   industries of the country. The lakes of Argentina are exceptionally
   numerous, although comparatively few are large enough to merit a name
-  on the ordinary general map. They vary from shallow, saline lagoons in
+  on the ordinary general [[Map|map]]. They vary from shallow, saline lagoons in
   the north-western plateaus, to great, picturesque, snow-fed lakes in
   the Andean foothills of Patagonia. The province of Buenos Aires has
   more than 600 lakes, the great majority small, and some brackish. The
@@ -282,12 +282,12 @@ had been much controversy, remains under Chilean jurisdiction.
   ocean-going vessels are Buenos Aires and Ensenada (La Plata), both of
   which have been constructed at great expense to overcome natural
   disadvantages. Perhaps the best natural harbour of the republic is
-  that of Bahia Blanca, a large bay of good depth, sheltered by islands,
+  that of [[Bahia Blanca]], a large bay of good depth, sheltered by islands,
   and 534 m. by sea south of Buenos Aires; here the government is
   building a naval station and port called Puerto Militar or Puerto
   Belgrano, and little dredging is needed to render the harbour
   accessible to the largest ocean-going vessels. About 100 m. south of
-  Bahia Blanca is the sheltered bay of San Bias, which may become of
+  Bahia Blanca is the sheltered bay of San [[Bias]], which may become of
   commercial importance, and between the 42nd and 43rd parallels are the
   land-locked bays of San Jose and Nueva (Golfo Nuevo)--the first as yet
   unused; on the latter is Puerto Madryn, 838 m. from Buenos Aires, the
@@ -300,25 +300,25 @@ had been much controversy, remains under Chilean jurisdiction.
   Tierra del Fuego. North of Buenos Aires, on the Parana river, is the
   port of Rosario, the outlet for a rich agricultural district, ranking
   next to the federal capital in importance. Other river ports, of less
-  importance, are Concordia on the Uruguay river, San Nicolas and
+  importance, are [[Concordia]] on the Uruguay river, San Nicolas and
   Campana on the Parana river, Santa Fe on the Salado, a few miles from
   the Parana, the city of Parana on the Parana river, and Gualeguay on
   the Gualeguay river.
 
   _Geology._--The Pampas of Argentina are generally covered by loess.
-  The Cordillera, which bounds them on the west, is formed of folded
+  The Cordillera, which [[Bounds|bounds]] them on the west, is formed of folded
   beds, while the Sierras which rise in their midst, consist mainly of
-  gneiss, granite and schist. In the western Sierras, which are more or
+  [[Gneiss|gneiss]], granite and schist. In the western Sierras, which are more or
   less closely attached to the main chain of the Cordillera, Cambrian
   and Silurian fossils have been found at several places. These older
   beds are overlaid, especially in the western part of the country, by a
   sandstone series which contains thin seams of coal and many remains of
   plants. At Bajo de Velis, in San Luis, the plants belong to the
   "Glossopteris flora," which is so widely spread in South Africa, India
-  and Australia, and the beds are correlated with the Karharbari series
+  and [[Australia]], and the beds are correlated with the Karharbari series
   of India (Permian or Permo-Carboni-ferous). Elsewhere the plants
-  generally indicate a higher horizon and are considered to correspond
-  with the Rhaetic of Europe. Jurassic beds are known only in the
+  generally indicate a higher [[Horizon|horizon]] and are considered to correspond
+  with the Rhaetic of Europe. [[Jurassic]] beds are known only in the
   Cordillera itself, and the Cretaceous beds, which occur in the west of
   the country, are of fresh-water origin. As far west, therefore, as the
   Cordillera, there is no evidence that any part of the region was ever
@@ -338,7 +338,7 @@ had been much controversy, remains under Chilean jurisdiction.
   During the Tertiary period the great volcanoes of the Andes were
   formed, and there were smaller eruptions in the Sierras. The principal
   rocks are andesites, but trachytes and basalts are also common. Great
-  masses of granite, syenite and diorite were intruded at this period,
+  masses of granite, syenite and [[Diorite|diorite]] were intruded at this period,
   and send tongues even into the andesitic tuffs.
 
   Silver, gold, lead and copper ores occur in many localities. They are
@@ -350,7 +350,7 @@ had been much controversy, remains under Chilean jurisdiction.
   permanently snow-covered peaks of the Andes, give it a highly
   diversified climate, which is further modified by prevailing winds and
   mountain barriers. The temperature and rainfall are governed by
-  conditions different from those in corresponding latitudes of the
+  conditions different from those in corresponding [[Latitude|latitudes]] of the
   northern hemisphere. Southern Patagonia and Tierra del Fuego, for
   instance, although they correspond in latitude to Labrador, are made
   habitable and an excellent sheep-grazing country by the southerly
@@ -404,7 +404,7 @@ had been much controversy, remains under Chilean jurisdiction.
   the year. The central and southern parts of the island and the
   neighbouring Staten Island are exceptionally rainy, the latter having
   251-1/2 rainy days in the year. The precipitation of rain, snow and
-  hail is about 55
+  [[Hail|hail]] is about 55
 
   in.
 
@@ -429,24 +429,24 @@ had been much controversy, remains under Chilean jurisdiction.
   region are also healthy, having a dry and bracing climate. In the
   north, however, the hot lowlands are malarial and unsuited to north
   European settlement, while the dry, elevated plateaus are celebrated
-  for their healthiness, those of Catamarca having an excellent
+  for their healthiness, those of [[Catamarca]] having an excellent
   reputation as a sanatorium for sufferers from pulmonary and bronchial
   diseases.
 
   _Flora._--The flora of Argentina should be studied according to
   natural zones corresponding to the physical divisions of the
   country--the rich tropical and sub-tropical regions of the north, the
-  treeless pampas of the centre, the desert steppes of the south, and
+  treeless pampas of the centre, the [[Desert|desert]] steppes of the south, and
   the arid plateaus of the north-west. The vegetation of each region has
   its distinctive character, modified here and there by elevation,
   irrigation from mountain streams, and by the saline character of the
-  soil. In the extreme south, where an Arctic vegetation is found, the
-  pastures are rich, and the forests, largely of the Antarctic beech
+  soil. In the extreme south, where an [[Arctic]] vegetation is found, the
+  pastures are rich, and the forests, largely of the Antarctic [[Beech|beech]]
   (_Fagus antarctica_), are vigorous wherever the rainfall is heavy. The
   greater part of Patagonia is comparatively barren and has no arboreal
   growth, except in the well-watered valleys of the Andean foothills.
   The water-courses and depressions of the shingly steppts afford
-  pasturage sufficient for the guanaco, and in places support a thorny
+  pasturage sufficient for the [[Guanaco|guanaco]], and in places support a thorny
   vegetation of low growth and starved appearance. The Antarctic beech
   and Winter's bark (_Drimys Winteri_) are found at intervals along the
   Andes to the northern limits of this zone. The pampas, which cover so
@@ -455,20 +455,20 @@ had been much controversy, remains under Chilean jurisdiction.
   and a fringe of low thorn-bushes along the Atlantic coast south to Mar
   Chiquita and south of the Tandil sierra, which, strictly speaking,
   does not belong to this region. The great plains are covered with
-  edible grasses, divided into two classes, _pasto duro_ (hard grass)
+  edible [[Grasses|grasses]], divided into two classes, _pasto duro_ (hard grass)
   and _pasto blando_, or _tierno_ (soft grass)--the former tall, coarse,
   nutritious and suitable for horses and cattle, and the latter tender
-  grasses and herbs, including clovers, suitable for sheep and cattle.
+  grasses and [[Herb|herbs]], including [[Clover|clovers]], suitable for sheep and cattle.
   The so-called "pampas-grass" (_Gynerium argenteum_) is not found at
   all on the dry lands, but in the wet grounds of the south and
   south-west. The _pasto duro_ is largely composed of the genera _Stipa_
   and _Melica_. In the dry, saline regions of the west and north-west,
   where the rainfall is slight, there are large thickets of low-growing,
   thorny bushes, poor in foliage. The predominating species is the
-  chanar (_Gurliaca decorticans_), which produces an edible berry, and
+  chanar (_Gurliaca decorticans_), which produces an edible [[Berry|berry]], and
   occurs from the Rio Negro to the northern limits of the republic. Huge
   cacti are also characteristic of this region. On the lower slopes of
-  the Andes are found oak, beech, cedar, Winter's bark, pine (_Araucaria
+  the Andes are found oak, beech, cedar, Winter's bark, pine (_[[Araucaria]]
   imbricata_), laurel and calden (_Prosopis algarobilla_). The provinces
   of Santa Fe, Cordoba and Santiago del Estero are only partially
   wooded; large areas of plains are intermingled with scrubby forests of
@@ -495,12 +495,12 @@ had been much controversy, remains under Chilean jurisdiction.
   more to that of the neighbouring Brazilian highlands. Among the
   marvellous changes wrought in Argentina by the advent of European
   civilization, is the creation of a new flora by the introduction of
-  useful trees and plants from every part of the world. Indian corn,
+  useful trees and plants from every part of the world. Indian [[Corn|corn]],
   quinoa, mandioca, possibly the potato, cotton and various fruits,
   including the strawberry, were already known to the aborigines, but
   with the conqueror came wheat, barley, oats, flax, many kinds of
-  vegetables, apples, peaches, apricots, pears, grapes, figs, oranges
-  and lemons, together with alfalfa and new grasses for the plains. The
+  vegetables, [[Apple|apples]], peaches, apricots, pears, grapes, figs, oranges
+  and [[Lemon|lemons]], together with alfalfa and new grasses for the plains. The
   Australian eucalyptus is now grown in many places, and there are
   groves of the paradise or paraiso tree (_Melia azedarach_) on the
   formerly treeless pampa. The cereals of Europe are a source of
@@ -514,23 +514,23 @@ had been much controversy, remains under Chilean jurisdiction.
   of the north and the guanaco of the west and south are the largest of
   the animals. The pampas were almost destitute of animal life before
   the horses and cattle of the Spanish invaders were there turned out to
-  graze, and the puma and jaguar never came there until the herds of
+  graze, and the puma and [[Jaguar|jaguar]] never came there until the herds of
   European cattle attracted them. The timid viscacha (_Lagostomus
   trichodactylus_), living in colonies, often with the burrowing owl,
   and digging deep under ground like the American prairie dog, was
   almost the only quadruped to be seen upon these immense open plains.
-  The fox, of which several species exist, probably never ventured far
+  The [[Fox|fox]], of which several species exist, probably never ventured far
   into the plain, for it afforded him no shelter. Immense flocks of
-  gulls were probably attracted to it then as now by its insect life,
+  [[Gull|gulls]] were probably attracted to it then as now by its [[Insect|insect]] life,
   and its lagoons and streams teemed with aquatic birds. The occupation
   of this region by Europeans, and the introduction of horses, asses,
   cattle, sheep, goats and swine, have completely changed its aspect and
   character. On the Patagonian steppes there are comparatively few
   species of animals. Among them are the puma (_Felis concolor_), a
   smaller variety of the jaguar (_Felis onca_), the wolf, the fox, the
-  Patagonian hare (_Dolichotis patagonica_) and two species of wild cat.
+  Patagonian [[Hare|hare]] (_Dolichotis patagonica_) and two species of wild cat.
   The huge glyptodon once inhabited this region, which now possesses the
-  smallest armadillo known, the "quir-quincho" or _Dasypus minutus_. The
+  smallest [[Armadillo|armadillo]] known, the "quir-quincho" or _Dasypus minutus_. The
   guanaco (_Auchenia_), which ranges from Tierra del Fuego to the
   Bolivian highlands, finds comparative safety in these uninhabitable
   solitudes, and is still numerous. The "nandu" or American ostrich
@@ -545,21 +545,21 @@ had been much controversy, remains under Chilean jurisdiction.
   territories of Brazil. Several species of monkeys inhabit the forests
   from the Parana to the Bolivian frontier. Pumas, jaguars and one or
   two species of wild cat are numerous, as also the Argentine wolf and
-  two of three species of fox. The coati, marten, skunk and otter
+  two of three species of fox. The [[Coati|coati]], marten, skunk and otter
   (_Lutra paranensis_) are widely distributed. Three species of deer are
   common. In the Chaco the tapir or anta (_Tapir americanus_) still
   finds a safe retreat, and the peccary (_Dycotyles torquatus_) ranges
   from Cordoba north to the Bolivian frontier. The capybara
   (_Hydrochoerus capybara_) is also numerous in this region. Of birds
   the number of species greatly exceeds that of the mammals, including
-  the rhea of the pampas and condor of the Andes, and the tiny,
-  brilliant-hued humming-birds of the tropical North. Vultures and hawks
+  the rhea of the pampas and [[Condor|condor]] of the Andes, and the tiny,
+  brilliant-hued [[Humming-Bird|humming-birds]] of the tropical North. Vultures and [[Hawks|hawks]]
   are well represented, but perhaps the most numerous of all are the
   parrots, of which there are six or seven species. The reptilians are
   represented in the Parana by the jacare (_Alligator sclerpos_), and on
   land by the "iguana" (_Teius teguexim, Podinema teguixin_), and some
-  species of lizard. Serpents are numerous, but only two are described
-  as poisonous, the cascavel (rattlesnake) and the "vibora de la cruz"
+  species of [[Lizard|lizard]]. Serpents are numerous, but only two are described
+  as poisonous, the cascavel (rattlesnake) and the "vibora de [[La Cruz|la cruz]]"
   (_Trigonocephalus alternatus_).[2]
 
 _Population._--In population Argentina ranks second among the republics
@@ -588,7 +588,7 @@ over-sea immigration for the forty-seven years 1857-1903 aggregated
 1,066,480, showing a net addition to the population of 1,806,108. A
 considerable percentage of these arrivals and departures represents
 seasonal labourers, who come out from Europe solely for the Argentine
-wheat harvest and should not be classed as immigrants. Unfavourable
+wheat [[Harvest|harvest]] and should not be classed as immigrants. Unfavourable
 political and economic conditions of a temporary character influence the
 emigration movement. During the years 1880-1889, when the country
 enjoyed exceptional prosperity, the arrivals numbered 1,020,907 and the
@@ -596,7 +596,7 @@ departures only 175,038, but in 1890-1899, a period of financial
 depression following the extravagant Celman administration, the arrivals
 were 928,865 and the departures 532,175. Another disturbing influence
 has been the high protective tariffs, adopted during the closing years
-of the century, which increased the costs of living more rapidly than
+of the century, which increased the [[Costs|costs]] of living more rapidly than
 the wages for labour, and compelled thousands of immigrants to seek
 employment elsewhere. The influence of such legislation on unsettled
 immigrant labourers may be seen in the number of Italians who
@@ -615,18 +615,18 @@ _Science and Literature._--Though the university of Cordoba is the
 oldest but one in South America, it has made no conspicuous contribution
 to Argentine literature beyond the historical works of its famous
 rector, Gregorio Funes (1749-1830). This university was founded in 1621
-and the university of Buenos Aires in 1821, but although Bonpland and
+and the university of Buenos Aires in 1821, but although [[Bonpland]] and
 some other European scientists were members of the faculty of Buenos
 Aires in its early years, neither there nor at Cordoba was any marked
 attention given to the natural sciences until President Sarmiento
 (official term, 1868-1874) initiated scientific instruction at the
-university of Cordoba under the eminent German naturalist, Dr Hermann
+university of Cordoba under the eminent German naturalist, Dr [[Hermann]]
 Burmeister (1807-1892), and founded the National Observatory at Cordoba
 and placed it under the direction of the noted American astronomer,
-Benjamin Apthorp Gould (1824-1896). Both of these men made important
+[[Benjamin]] Apthorp Gould (1824-1896). Both of these men made important
 contributions to science, and rendered an inestimable service to the
 country, not only through their publications but also through the
-interest they aroused in scientific research. A bureau of meteorology
+interest they aroused in scientific research. A [[Bureau|bureau]] of meteorology
 was afterwards created at Cordoba which has rendered valuable service.
 Dr Burmeister was afterwards placed in charge of the provincial museum
 of Buenos Aires, and devoted himself to the acquisition of a collection
@@ -637,7 +637,7 @@ development of the country; examples are the geographical explorations
 of the Andean frontier, and especially of the Patagonian Andes, by
 Francisco P. Moreno. In literature Argentina is still under the spell of
 Bohemianism and dilettanteism. Exceptions are the admirable biographies
-of Manuel Belgrano (d. 1820) and San Martin, important contributions to
+of [[Manuel]] Belgrano (d. 1820) and San Martin, important contributions to
 the history of the country and of the war of independence, by
 ex-President Bartolome Mitre (1821-1906). Buenos Aires has some
 excellent daily journals, but the tone of the press in general is
@@ -717,13 +717,13 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   with 1794 m. under construction. The greater development of railway
   construction between 1885 and 1891 was due, principally, to the
   dubious concessions of interest guarantees by the Celman
-  administration, and also to the fever of speculation. Some of these
+  administration, and also to the [[Fever|fever]] of speculation. Some of these
   lines resulted disastrously. The Transandine line, designed to open
   railway communication between Buenos Aires and Valparaiso, was so far
   completed early in 1909 that on the Argentine side only the summit
   tunnel, 2 m. 127 yds. long, remained to be finished. The piercing was
   completed in Nov. 1909, but in the meantime passengers were conveyed
-  by road over the pass. The gauge is broken at Mendoza, the Buenos
+  by road over the pass. The [[Gauge|gauge]] is broken at Mendoza, the Buenos
   Aires and Pacific having a gauge of 5 ft. 6 in. and the Transandine of
   one metre.
 
@@ -735,19 +735,19 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   nearly all the lines of that city have been reconstructed to meet its
   requirements, and subways are contemplated to relieve the congested
   street traffic of the central districts; the companies contribute 6%
-  of their gross receipts to the municipality, besides paying $50 per
+  of their [[Gross|gross]] receipts to the municipality, besides paying $50 per
   annum per square on each single track in paved streets, 5 per thousand
   on the value of their property, and 33% of the cost of street repaving
   and renewals.
 
   The telegraph lines of Argentina are subject to the national telegraph
-  law of 1875, the international telegraph conventions, and special
+  law of 1875, the [[International|international]] telegraph conventions, and special
   conventions with Brazil and Uruguay. In 1902 the total length of wires
   strung was 28,125 m.; in 1906 it had been increased to 34,080 m. The
   national lines extend from Buenos Aires north to La Quiaca on the
   Bolivian frontier (1180 m.), and south to Cape Virgenes (1926 m.), at
   the entrance to the Straits of Magellan. Telegraphic communication
-  with Europe is effected by cables laid along the Uruguayan and
+  with Europe is effected by [[Cable|cables]] laid along the Uruguayan and
   Brazilian coasts, and by the Brazilian land lines to connect with
   transatlantic cables from Pernambuco. Communication with the United
   States is effected by land lines to Valparaiso, and thence by a cable
@@ -765,7 +765,7 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
 
   _Shipping._--Although Argentina has an extensive coast-line, and one
   of the great fluvial systems of the world, the tonnage of steamers and
-  sailing vessels flying her flag is comparatively small. In 1898 the
+  sailing vessels flying her [[Flag|flag]] is comparatively small. In 1898 the
   list comprised only 1416 sailing vessels of all classes, from 10 tons
   up, with a total tonnage of 118,894 tons, and 222 steamships, of
   36,323 tons. There has been but slight improvement since that date.
@@ -781,8 +781,8 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   _Agriculture._--In 1878 the production of wheat was insufficient for
   home consumption, the amount of Indian corn grown barely covered local
   necessities, and the only market for live stock was in the
-  slaughtering establishments, where the meat was cut into strips and
-  cured, making the so-called "jerked beef" for the Brazilian and Cuban
+  slaughtering establishments, where the [[Meat|meat]] was cut into strips and
+  cured, making the so-called "jerked [[Beef|beef]]" for the Brazilian and Cuban
   markets. But three years later a new economic development began. In
   1881 President Roca offered for public purchase by auction the lands
   in the south-west of the province of Buenos Aires, the Pampa Central,
@@ -803,7 +803,7 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   saladero establishments. Gradually Durham, Shorthorn, Hereford and
   other stock were introduced to improve the native breeds, with results
   so satisfactory that now herds of three-quarters-bred cattle are to be
-  found in all parts of the country. Holstein, Jersey and other
+  found in all parts of the country. Holstein, [[Jersey]] and other
   well-known dairy breeds were imported for the new industries of
   butter- and cheese-making. Not only has the breed of cattle been
   improved, but the system of grazing has completely altered. Vast areas
@@ -838,12 +838,12 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   The advance made in agricultural industry also is of very great
   importance. In 1872 the cultivated area was about 1,430,000 acres; in
   1895, 12,083,000 acres; in 1901, 17,465,973 acres. In 1899 the wheat
-  exports exceeded 50,000,000 bushels, and the Indian corn 40,000,000
+  exports exceeded 50,000,000 [[Bushel|bushels]], and the Indian corn 40,000,000
   bushels. The area under wheat in 1901 was 8,351,843 acres; Indian
   corn, 3,102,140 acres; linseed, 1,512,340 acres; alfalfa, 3,088,929
   acres. The farming industry is not, however, on a satisfactory basis.
   No national lands in accessible districts are available for the
-  application of a homestead law, and the farmer too often has no
+  application of a [[Homestead|homestead]] law, and the [[Farmer|farmer]] too often has no
   interest in the land beyond the growing crops, a percentage of the
   harvest being the rent charged by the owner of the property. This
   system is mischievous, since, if a few, consecutive bad seasons occur,
@@ -877,7 +877,7 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   province to another, which has been declared unconstitutional in the
   courts, is still enforced, and is a vexatious tax upon the
   stock-raiser, while the consumption, or _octroi_, tax in Buenos Aires
-  and other cities is a heavy burden upon small producers.
+  and other cities is a heavy [[Burden|burden]] upon small producers.
 
   _Manufactures._--Manufacturing enterprise in Argentina, favoured by
   the protection of a high tariff, made noticeable progress in the
@@ -885,7 +885,7 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   especially in those small industries which commanded a secure market.
   The principal classes of products affected are foods, wearing apparel,
   building materials, furniture, &c., chemical products, printing and
-  allied trades, and sundry others, such as cigars, matches, tanning,
+  allied trades, and sundry others, such as [[Cigar|cigars]], matches, tanning,
   paints, &c. In some manufactures the raw material is imported partly
   manufactured, such as thread for weaving. The lack of coal in
   Argentina greatly increases the difficulty and cost of maintaining
@@ -903,8 +903,8 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   invested in railways and other undertakings, encouraged by the grant
   of interest guarantees and by state mortgage bank loans in the form of
   _cedulas_, nominally secured on landed property. In 1890 the crisis
-  came, the mortgage banks failed, credits were contracted, the value of
-  property declined, defaults were common, imports decreased, and the
+  came, the mortgage banks failed, [[Credit|credits]] were contracted, the value of
+  property declined, [[Default|defaults]] were common, imports decreased, and the
   losses to the country were enormous. The constant fluctuations in the
   value of the currency, then much depreciated, intensified the distress
   and complicated the situation. Recovery required years, although made
@@ -915,7 +915,7 @@ Juan (11,500), Rio Cuarto (10,800), San Luis (10,500), Barracas al Sud
   commercial methods since 1890, the retailer, and sometimes the
   consumer, importing direct to save intermediate commission charges.
   Such transactions are made easy by the foreign banks established in
-  all the large cities of the republic. The conversion law of 1899,
+  all the large cities of the republic. The [[Conversion|conversion]] law of 1899,
   which gave a fixed gold value to the currency (44 centavos gold for
   each 100 centavos paper), has had beneficial influence on commercial
   transactions, through the elimination of daily fluctuations in the
@@ -935,13 +935,13 @@ _Government._--The present constitution of Argentina dates from the 25th
 of September 1860. The legislative power is vested in a congress of two
 chambers--the senate, composed of 30 members (two from each province and
 two from the capital), elected by the provincial legislatures and by a
-special body of electors in the capital for a term of nine years; and
+special body of [[Electors|electors]] in the capital for a term of nine years; and
 the chamber of deputies, of 120 members (1906), elected for four years
-by direct vote of the people, one deputy for every 33,000 inhabitants.
+by direct vote of the people, one [[Deputy|deputy]] for every 33,000 inhabitants.
 To the chamber of deputies exclusively belongs the initiation of all
 laws relating to the raising of money and the conscription of troops. It
 has also the exclusive right to impeach the president, vice-president,
-cabinet ministers, and federal judges before the senate. The executive
+[[Cabinet|cabinet]] ministers, and federal judges before the senate. The executive
 power is exercised by the president, elected by presidential electors
 from each province chosen by direct vote of the people. The president
 and vice-president are voted for by separate tickets. The system closely
@@ -961,10 +961,10 @@ foreign affairs, finance, war, marine, justice, agriculture, and public
 works. They are appointed by and may be removed by the president.
 
 Justice is administered by a supreme federal court of five judges and an
-attorney-general, which is also a court of appeal, four courts of
+[[Attorney-General|attorney-general]], which is also a court of appeal, four courts of
 appeal, with three judges each, located in Buenos Aires, La Plata,
 Parana and Cordoba, and by a number of inferior and local courts. Each
-province has also its own judicial system. Trial by jury is established
+province has also its own judicial system. Trial by [[Jury|jury]] is established
 by the constitution, but never practised. Civil and criminal courts are
 both corrupt and dilatory. In May 1899 the minister of justice stated in
 the chamber of deputies that the machinery of the courts in the country
@@ -979,12 +979,12 @@ written, and the procedure is a survival of the antiquated Spanish
 system.
 
 Under the constitution, the provinces retain all the powers not
-delegated to the federal government. Each province has its own
+delegated to the [[Federal Government|federal government]]. Each province has its own
 constitution, which must be republican in form and in harmony with that
 of the nation. Each elects its governor, legislators and provincial
 functionaries of all classes, without the intervention of the federal
 government. Each has its own judicial system, and enacts laws relating
-to the administration of justice, the distribution and imposition of
+to the administration of justice, the distribution and [[Imposition|imposition]] of
 taxes, and all matters affecting the province. All the public acts and
 judicial decisions of one province have full legal effect and authority
 in all the others. In cases of armed resistance to a provincial
@@ -1000,9 +1000,9 @@ which all citizens 20 to 28 years of age are obliged to serve; (2) the
 National Guard, comprising citizens of 28 to 40 years; (3) the
 Territorial Guard, comprising those 40 to 45 years. Conscripts of 20
 years of age have to serve two years, three months each year. The active
-or standing army comprises 18 battalions of infantry, 12 regiments of
-cavalry, 8 regiments of artillery, and 4 battalions of engineers. A
-military school, with 125 cadets, is maintained at San Martin, near the
+or standing army comprises 18 [[Battalion|battalions]] of infantry, 12 regiments of
+[[Cavalry|cavalry]], 8 regiments of artillery, and 4 battalions of engineers. A
+military school, with 125 [[Cadet|cadets]], is maintained at San Martin, near the
 national capital, and a training school for non-commissioned officers in
 the capital itself. Compulsory attendance of young men at national guard
 drills is enforced for at least two months of the year, under penalty of
@@ -1011,7 +1011,7 @@ permission had been given by the German emperor for 30 Argentine
 officers to enter the German army each year and to serve eighteen
 months, and also for five officers to attend the Berlin Military
 Academy. The equipment of the standing army is thoroughly modern, the
-infantry being provided with Mauser rifles and the artillery with Krupp
+infantry being provided with Mauser rifles and the artillery with [[Krupp]]
 batteries.
 
 _Navy._--The disputes with Chile during the closing years of the 19th
@@ -1025,20 +1025,20 @@ suspended, the effective strength of the Argentine navy consisted of 3
 ironclads, 6 first-class armoured cruisers, 2 monitors (old), 4
 second-class cruisers, 2 torpedo cruisers, 3 destroyers, 3 high-sea
 torpedo boats, 14 river torpedo boats, 1 training ship, 5 transports,
-and various auxiliary vessels. Two of these first-class cruisers were
-sold to Japan. The armament included 394 guns of all calibres, 6 of
+and various [[Auxiliary|auxiliary]] vessels. Two of these first-class cruisers were
+sold to [[Japan]]. The armament included 394 guns of all calibres, 6 of
 which were of 250 millimetres, 4 of 240, and 12 of 200. There are about
 320 officers in active service, and the total personnel ranges from 5000
 to 6000 men. The service is not popular, and it is recruited by means of
 conscription from the national guard, the term of service being two
 years. These conscripts number about 2000 a year. In addition, there is
-a corps of coast artillery numbering 450 men, from which garrisons are
+a [[Corps|corps]] of coast artillery numbering 450 men, from which [[Garrison|garrisons]] are
 drawn for the military port, Zarate arsenal and naval prison. The
-government maintains a naval school at Flores, a school of mechanics in
+government maintains a naval school at [[Flores]], a school of mechanics in
 Buenos Aires, an artillery school on the cruiser "Patagonia," and a
 school for torpedo practice at La Plata. The naval arsenal is situated
 on the "north basin" of the Buenos Aires port, and the military port at
-Bahia Blanca is provided with a dry dock of the largest size, and
+Bahia Blanca is provided with a dry [[Dock|dock]] of the largest size, and
 extensive repair shops. There is also a dockyard and torpedo arsenal at
 La Plata, an artillery depot at Zarate, above Buenos Aires, and naval
 depots on the island of Martin Garcia and at Tigre, on the Lujan river.
@@ -1062,7 +1062,7 @@ work is excellent; notably, their model primary schools. For higher and
 professional education there are two national universities at Buenos
 Aires and Cordoba, and three provincial universities, at La Plata, Santa
 Fe and Parana, which comprise faculties of law, medicine and
-engineering, in addition to the usual courses in arts and science. To
+[[Engineering|engineering]], in addition to the usual courses in arts and science. To
 meet the needs of technical and industrial education there are a school
 of mines at San Juan, a school of viticulture at Mendoza, an agronomic
 and veterinary school at La Plata, several agricultural and pastoral
@@ -1082,8 +1082,8 @@ illiterate.
 _Religion._--The Argentine constitution recognizes the Roman Catholic
 religion as that of the state, but tolerates all others. The state
 controls all ecclesiastical appointments, decides on the passing or
-rejection of all decrees of the Holy See, and provides an annual subsidy
-for maintenance of the churches and clergy. Churches and chapels are
+rejection of all [[Decree|decrees]] of the Holy See, and provides an annual subsidy
+for [[Maintenance|maintenance]] of the churches and clergy. Churches and chapels are
 founded and maintained by religious orders and private gift as well. At
 the head of the Argentine hierarchy are one archbishop and five
 suffragan bishops, who have five seminaries for the education of the
@@ -1091,11 +1091,11 @@ priesthood. From statistics of 1895 it appears that in each 1000 of
 population 991 are Roman Catholics, 7 Protestants, and 2 Jews, the Jews
 being entirely of Russian origin, sent into the republic since 1891 by
 the Jewish Colonization Association under the provisions of the Hirsch
-legacy; from 1895 to 1908 the number of Jews in Argentina increased from
+[[Legacy|legacy]]; from 1895 to 1908 the number of Jews in Argentina increased from
 6085 to about 30,000.
 
   _Finance._--The revenue of the republic is derived mainly from customs
-  and excise, and the largest item of expenditure is the service of the
+  and excise, and the largest [[Item|item]] of expenditure is the service of the
   public debt. Since 1891 the national budgets have been calculated in
   both gold and currency, and both receipts and expenditures have been
   carried out in this dual system. The collection of a part of the
@@ -1184,7 +1184,7 @@ legacy; from 1895 to 1908 the number of Jews in Argentina increased from
   the bank-note circulation was increased to $161,700,000, and two
   mortgage banks--the National Hypothecary Bank and the Provincial
   Mortgage Bank (of Buenos Aires)--flooded the country with $509,000,000
-  of _cedulas_ (hypothecary bonds). When the crash came and the national
+  of _cedulas_ (hypothecary bonds). When the [[Crash|crash]] came and the national
   treasury was found to be without resources to meet current expenses,
   further issues of $110,000,000 in currency were made. The free-banking
   law which permitted the issue of notes by provincial banks was
@@ -1218,14 +1218,14 @@ legacy; from 1895 to 1908 the number of Jews in Argentina increased from
 HISTORY
 
 The first Europeans who visited the river Plate were a party of Spanish
-explorers in search of a south-west passage to the East Indies. Their
-leader, Juan Diaz de Solis, landing incautiously in 1516 on the north
-coast with a few attendants to parley with a body of Charrua Indians,
+explorers in search of a south-west passage to the [[East Indies]]. Their
+leader, Juan [[Diaz]] de Solis, landing incautiously in 1516 on the north
+coast with a few attendants to parley with a body of [[Charrua]] Indians,
 was suddenly attacked by them and was killed, together with a number of
 his followers. This untoward disaster led to the abandonment of the
 expedition, which forthwith returned to Spain, bringing with them the
 news of the discovery of a fresh-water sea. Four years later (1520) the
-Portuguese seaman, Ferdinand Magellan, entered the estuary in his
+Portuguese seaman, [[Ferdinand]] Magellan, entered the estuary in his
 celebrated voyage round the world, undertaken in the service of the king
 of Spain (Charles I., better known as the emperor Charles V.). Magellan,
 as soon as he had satisfied himself that there was no passage to the
@@ -1279,7 +1279,7 @@ obliged to leave the enterprise of South American discoveries to his
 wealthy nobles. Cabot's colony at San Espiritu did not long survive his
 departure; an attempt of the chief of the Timbus to gain possession of
 one of the Spanish ladies of the settlement led to a treacherous
-massacre of the garrison.
+[[Massacre|massacre]] of the garrison.
 
 
   Mendoza.
@@ -1314,7 +1314,7 @@ without much success, and at length, thoroughly discouraged and broken
 in health, he abandoned his enterprise, and returned to Spain in 1537.
 
 
-  Asuncion
+  [[Asuncion]]
 
 A portion of one of the expeditions he despatched, under Juan de Ayolas,
 pushing up the Paraguay, is said to have reached the south-east
@@ -1346,7 +1346,7 @@ ships to the river Plate, but himself with a small following marched
 overland from Santa Catherina on the coast of Brazil to join Irala. His
 doings at Asuncion belong, however, not to the history of Argentina, but
 of Paraguay. Suffice it to say that differences with Irala eventually
-led to his arrest, and to his being sent back to Spain to answer to the
+led to his [[Arrest|arrest]], and to his being sent back to Spain to answer to the
 charges brought against him for maladministration. The second settlement
 made by his expedition at Buenos Aires was even less successful and
 long-lived than the first. Exposed to the incessant attacks of the
@@ -1410,7 +1410,7 @@ Cabot had urged the feasibility of opening an easier channel for trade
 with the interior of Peru through the river Plate and its tributaries,
 than that by way of the West Indies and Panama; and now that his views
 were able to be realized, the interests of the merchants of Seville and
-of Lima, who had secured a monopoly of the trade by the route of the
+of [[Lima]], who had secured a monopoly of the trade by the route of the
 isthmus, were allowed to destroy the threatened rivalry of that by the
 river Plate. Never in the history of colonization has a mother country
 pursued so relentlessly a policy more selfish and short-sighted. Spanish
@@ -1423,12 +1423,12 @@ latter country. The strongest protests were raised, but the utmost they
 could effect was that, in 1618, permission was granted to export from
 Buenos Aires two shiploads of produce a year. But the Spanish government
 was not content with the prohibition of sea-borne commerce. To prevent
-internal trade with Peru a custom-house was set up at Cordoba to levy a
+internal trade with Peru a [[Custom-House|custom-house]] was set up at Cordoba to [[Levy|levy]] a
 duty of 50% on everything in transit to and from the river Plate. In
 1665 the relaxation of this system was brought about by the continual
 remonstrances of the people, but for more than a century afterwards
 (until 1776) the policy of exclusion was enforced. This naturally led to
-a contraband trade of considerable dimensions. The English, after the
+a contraband trade of considerable [[Dimension|dimensions]]. The English, after the
 treaty of Utrecht (1715) held the contract (_asiento_) for supplying the
 Spanish-American colonies with negro slaves. Among other places the
 slave ships regularly visited Buenos Aires, and despite the efforts of
@@ -1454,9 +1454,9 @@ finally expelled the Portuguese from the banks of the river Plate.
 
   Effects of French war.
 
-The wars of the French Revolution, in which Spain was allied with France
+The wars of the [[French Revolution]], in which Spain was allied with France
 against Great Britain, interrupted the growing prosperity of Buenos
-Aires. On the 17th of June 1806 General William Beresford landed with a
+Aires. On the 17th of June 1806 General William [[Beresford]] landed with a
 body of troops from a British fleet under the command of Sir Home
 Popham, and obtained possession of Buenos Aires. But a French officer,
 Jacques de Liniers, gathered together a large force with which he
@@ -1475,8 +1475,8 @@ Spanish connexion, which was soon to lead to open insurrection. The
 establishment of the Napoleonic dynasty at Madrid was the actual cause
 which brought about the disturbances which were to end in separation.
 Liniers was viceroy on the arrival of the news of the crowning of Joseph
-Bonaparte as king of Spain, but as a Frenchman he was distrusted and was
-deposed by the adherents of Ferdinand VII. The central junta at Seville,
+[[Bonaparte]] as king of Spain, but as a Frenchman he was distrusted and was
+deposed by the adherents of Ferdinand VII. The central [[Junta|junta]] at Seville,
 acting in the name of Ferdinand, appointed Balthasar de Cisneros to be
 viceroy in his place. He entered upon the duties of his office on the
 19th of July 1809, and at first he gained popularity by acceding to the
@@ -1511,12 +1511,12 @@ congress of deputies was assembled at Tucuman, who named Don Martin
 Pueyrredon supreme director, and on the 9th of July the separation of
 the united provinces of the Rio de la Plata was formally proclaimed, and
 comparative order was re-established in the country; Buenos Aires was
-declared the seat of the government. The jealousy of the provinces,
+declared the seat of the government. The [[Jealousy|jealousy]] of the provinces,
 however, against the capital led to a series of disturbances, and for
 many years continual civil war devastated every part of the country.
 Bolivia, Paraguay and Uruguay rose in armed revolt, and finally
 established themselves as separate republics, whilst the city of Buenos
-Aires itself was torn with faction and the scene of many a sanguinary
+Aires itself was torn with [[Faction|faction]] and the scene of many a sanguinary
 fight.
 
 
@@ -1576,7 +1576,7 @@ was shot (December 9, 1828), by the order of Lavalle, and during the
 year 1828 the country was given up to the horrors of civil war.
 
 
-  Rosas dictator.
+  Rosas [[Dictator|dictator]].
 
 On the death of Dorrego, a remarkable man, Juan Manuel de Rosas, became
 the Federalist chief. In 1829 he defeated Lavalle, made himself master
@@ -1613,7 +1613,7 @@ Rosas. A convention was signed in 1849, which secured the free
 navigation of the Parana and the independence of the Banda Oriental. The
 downfall of Rosas was at last brought about by the instrumentality of
 Justo Jose de Urquiza, who as governor of Entre Rios, had for many years
-been one of his strongest supporters. The breach between the two men
+been one of his strongest supporters. The [[Breach|breach]] between the two men
 which led to open collision took place in 1846. The first efforts of
 Urquiza to rouse the country against the oppressor were unsuccessful,
 but in 1851 he concluded an alliance with Brazil, to which Uruguay
@@ -1674,7 +1674,7 @@ patriotism. He was elected president of the Argentine confederation and
 did his utmost to settle the questions which had led to so many civil
 wars, on a permanent and sound basis. The constitution of 1853 was
 maintained, but Buenos Aires became the seat of federal government
-without ceasing to be a provincial capital. Causes of friction still
+without ceasing to be a provincial capital. Causes of [[Friction|friction]] still
 remained, but they did not develop into open quarrels, for Mitre was
 content to leave Urquiza in his province of Entre Rios, and the other
 administrators (_caudillos_) in their several governments, a large
@@ -1705,7 +1705,7 @@ greatly prospered, and the revolutionary movement was quickly subdued.
 In 1868 the term of General Mitre came to an end, and Doctor Domingo
 Faustino Sarmiento, a native of San Juan, was quietly elected to succeed
 him. His conduct of affairs was broad-minded and upright, and was
-characterized by earnest efforts to promote education and to develop the
+characterized by [[Earnest|earnest]] efforts to promote education and to develop the
 resources of the country. His period of office was marked by the rapid
 advance of Buenos Aires in population and prosperity, and by an
 expansion of trade that was unfortunately accompanied by financial
@@ -1762,7 +1762,7 @@ aiding the movement by collecting subscriptions for the purpose of
 armament and other necessaries. On the 13th of February 1880, the
 minister of war, Dr Carlos Pellegrini, summoned the principal officers
 connected with the Tiro Nacional, General Bartolome Mitre, his brother
-Emilio, Colonel Julio Campos, Colonel Hilario Lagos and others, and
+Emilio, Colonel Julio [[Campos]], Colonel Hilario Lagos and others, and
 warned them that as officers of the national army they owed obedience to
 the national government, and would be severely punished if concerned in
 any revolutionary outbreak against the constituted authorities. The
@@ -1787,7 +1787,7 @@ between the two factions, that an appeal to arms became inevitable.
 
 In the month of June 1880, President Avellaneda and his ministers left
 Buenos Aires, and this act was considered by the _porteno_ leaders
-equivalent to a declaration of war. The national government and the
+equivalent to a [[Declaration|declaration]] of war. The national government and the
 twelve provinces forming the Cordoba League, were ranged on one side;
 the city and province of Buenos Aires and the province of Corrientes on
 the other. The national troops were well armed with Remington rifles,
@@ -1845,12 +1845,12 @@ With this object he had promoted the extension of railways so as to link
 the provinces with the great port of Buenos Aires, and to provide at the
 same time facilities for the rapid despatch of military forces to
 disturbed districts. Unfortunately the last two years of Roca's term of
-office were marked by two grave errors, which subsequently caused
+office were marked by two grave [[Error|errors]], which subsequently caused
 widespread suffering and distress throughout the country. The first of
 these mistakes was a measure making (January 1885) the currency
 inconvertible for a period of two years. This act, which was only
 decided upon after much hesitation, had a most deleterious effect upon
-the national credit. The second was the nomination of Dr Miguel Juarez
+the national credit. The second was the nomination of Dr Miguel [[Juarez]]
 Celman for the presidential term commencing in October 1886. The
 nomination was brought about by the Cordoba clique, and Roca lacked the
 moral courage to oppose the decision of this group, though he was well
@@ -1871,9 +1871,9 @@ This hope, however, was doomed to disappointment, and before many months
 had elapsed it was clear that the president would listen to no prudent
 counsels from Roca or from any one else. The men of the old Cordoba
 League became dominant in all branches of the government, and
-carpet-bagging politicians occupied every official post. In their hurry
-to obtain wealth, this crowd of office-mongers from the provinces lent
-themselves to all kinds of bribery and corruption. The public credit was
+carpet-bagging politicians occupied every official post. In their [[Hurry|hurry]]
+to obtain wealth, this [[Crowd|crowd]] of office-mongers from the provinces [[Lent|lent]]
+themselves to all kinds of [[Bribery|bribery]] and corruption. The public credit was
 pledged at home and abroad to fill the pockets of the adventurers, and
 the wildest excesses were committed under the guise of administrative
 acts. What followed in the second and third years of the Celman
@@ -1893,7 +1893,7 @@ Bernardo Irigoyen, Dr Vicente Lopez, Dr Lucio Lopez, Dr Oscar Lilliedale
 and other leading citizens. The untiring energy and zeal of Leandro Alem
 fitted him for being the chief organizer of a movement into which he
 threw himself heart and soul. Mass meetings were held in Buenos Aires,
-and it fell specially to the lot of Dr del Valle, who was an able orator
+and it fell specially to the [[Lot|lot]] of Dr del Valle, who was an able orator
 as well as a sincere patriot, to expose the irresponsible and corrupt
 character of the administration, and the terrible dangers that
 threatened the republic through its reckless extravagance and financial
@@ -1914,14 +1914,14 @@ members to arms. It was joined by some regiments of the regular army and
 received the support of the fleet. Barricades were thrown up in the
 principal streets, and the surrounding houses were occupied by the
 insurgents. Two days of desultory street fighting ensued, during which
-the fleet began to bombard the city, but was compelled to desist by the
-interference of foreign men-of-war, on the ground that the bombardment
+the fleet began to [[Bombard|bombard]] the city, but was compelled to desist by the
+interference of foreign men-of-war, on the ground that the [[Bombardment|bombardment]]
 was causing unnecessary damage to the life and property of
 non-combatants. A suspension of hostilities then took place, and
 negotiations were opened between the contending parties. Celman, acting
 upon the advice of General Roca, who recognized the strength of public
 opinion in the outbreak, placed his resignation in the hands of congress
-on the 31st of July. A scene of intense enthusiasm followed, and Buenos
+on the 31st of July. A scene of intense [[Enthusiasm|enthusiasm]] followed, and Buenos
 Aires was _en fete_ for the following three days. The vice-president of
 the confederation, Carlos Pellegrini, who had been minister of war under
 presidents Avellaneda and Roca and had had much administrative
@@ -1950,10 +1950,10 @@ himself incapable of grappling with it. Instead of facing the
 difficulties, the president preferred to put off the day of reckoning by
 flooding the country with inconvertible notes, with the result that the
 financial crisis became more and more aggravated. Through the rapid
-depreciation of Argentine credit, the great firm of Baring Brothers, the
+depreciation of Argentine credit, the great firm of [[Baring]] Brothers, the
 financial agents of the government in London, became so heavily involved
 that they were forced into liquidation, November 1890. The consequences
-of this catastrophe were felt far and wide, and in the spring of 1891
+of this [[Catastrophe|catastrophe]] were felt far and wide, and in the spring of 1891
 both the Banco Nacional and the Banco de la provincia de Buenos Aires
 were unable to meet their obligations. Amidst this sea of financial
 troubles the government drifted helplessly on, without showing any
@@ -2001,7 +2001,7 @@ in Chile, was chosen as vice-president.
 The idea of Dr Saenz Pena was to conduct the government on common sense
 and non-partisan lines, in fact to translate into practical politics the
 principles which underlay the compromise of the Acuerdo. He was a
-straightforward and honourable man, who tried his best to do his duty in
+straightforward and [[Honourable|honourable]] man, who tried his best to do his duty in
 a position that had been forced upon him, and was in no sense of the
 word his own seeking. No sooner, however, was he installed in office
 than difficulties began to crop up on all sides, and he quickly
@@ -2016,7 +2016,7 @@ exile, was not slow to profit by the occasion. Embittered by his
 treatment in 1892, he openly preached the advisability of an armed
 rising to overthrow the existing administration. Public opinion had been
 outraged by the immunity with which the governors of certain provinces,
-and more particularly Dr Julio Costa, the governor of the province of
+and more particularly Dr Julio [[Costa]], the governor of the province of
 Buenos Aires, had been allowed to maintain local forces, by the aid of
 which they exacted the payment of illegal taxes and exercised other acts
 of injustice and oppression. A number of officers of the army and navy
@@ -2036,7 +2036,7 @@ with arms and ammunition, and he was able, by a bold attack, to seize
 the town of Rosario and there establish the revolutionary headquarters.
 This capture so alarmed the national government that a force was sent
 under the command of Roca to put down the insurrection. The revolt
-speedily collapsed before this redoubtable commander, and Alem and the
+speedily collapsed before this redoubtable [[Commander|commander]], and Alem and the
 other leaders surrendered. They were sentenced to banishment in Staten
 Island at the pleasure of the federal government.
 
@@ -2087,7 +2087,7 @@ dispute with Chile, to which reference has already been made, was of a
 more serious character. The dispute was of old standing. Already in 1884
 a protocol had been signed between the contending parties, by which it
 was agreed that the frontier should follow the line where "the highest
-peaks of the Andine ranges divide the watershed." This definition
+peaks of the Andine ranges divide the watershed." This [[Definition|definition]]
 unfortunately ignored the fact that the Andes do not run from north to
 south in one continuous line, but are separated into cordilleras with
 valleys between them, and covering in their total breadth a considerable
@@ -2105,7 +2105,7 @@ the state by the issue of national bonds to assume the provincial
 external indebtedness. This proof of the desire of the Argentine
 government to meet honestly all its obligations did much to restore its
 credit abroad. Uriburu found in 1897 the financial position so far
-improved that he was able to resume cash payments on the entire foreign
+improved that he was able to resume [[Cash|cash]] payments on the entire foreign
 debt.
 
 
@@ -2116,7 +2116,7 @@ by the prospect of a war with Chile, naturally supported the candidature
 of General Roca, and he was elected without opposition (12th October
 1898). The first question which he had to handle was the Chilean
 boundary dispute. During the last months of President Uriburu's
-administration, matters had reached a climax, especially in connexion
+administration, matters had reached a [[Climax|climax]], especially in connexion
 with the delimitation in a district known as the Puna de Atacama. In
 August an ultimatum was received from Chile demanding arbitration. After
 some hesitation, on the advice of Roca the Argentines agreed to the
@@ -2171,7 +2171,7 @@ controversy and ratified by both governments.
 
   Quintana and Alcorta Presidents.
 
-To the calm resourcefulness and level-headedness of President Roca at a
+To the [[Calm|calm]] resourcefulness and level-headedness of President Roca at a
 very difficult and critical juncture must be largely ascribed the
 preservation of peace, and the permanent removal of a dispute that had
 aroused so much irritation. His term of office came to an end in 1904,
@@ -2187,8 +2187,8 @@ Alcorta for the remaining years of his term. (G. E.)
   Sketches_ (London, 1893), and _A History of South America 1854-1904_
   (New York, 1905); Theodore Child, _The Spanish-American Republics_
   (London, 1891); Sir T.H. Holdich, _The Countries of the King's Award_
-  (London, 1904); W.H. Hudson, _The Naturalist in La Plata_ (London,
-  1892), and _Idle Days in Patagonia_ (London, 1893); A.H. Keane and C.
+  (London, 1904); W.H. [[Hudson]], _The Naturalist in La Plata_ (London,
+  1892), and _Idle Days in Patagonia_ (London, 1893); A.H. [[Keane]] and C.
   R. Markham, _Central and South America_, in Stanford's "Compendium of
   Geography and Travel" (London, 1901); G.E. Church, "Argentine
   Geography and the Ancient Pampean Sea" (_Geogr. Journal_, xii. p.
@@ -2205,7 +2205,7 @@ Alcorta for the remaining years of his term. (G. E.)
   _Archaeological Researches on the Frontier of Argentina and Bolivia
   1901-1902_ (Stockholm, 1904); Arturo B. Carranza, _Constitucion
   Nacional y Constituciones Provinciales Vigentes_ (Buenos Aires, 1898);
-  Angelo de Gubernatis, _L'Argentina_ (Firenze, 1898); Meliton Gonzales,
+  Angelo de [[Gubernatis]], _L'Argentina_ (Firenze, 1898); Meliton Gonzales,
   _El Gran Chaco Argentino_ (Buenos Aires, 1890); John Grant & Sons,
   _The Argentine Year Book_ (Buenos Aires, 1902 et seq.); Francis
   Latzina, _Diccionario Geografico Argentino_ (Buenos Aires, 1891);
@@ -2229,7 +2229,7 @@ Alcorta for the remaining years of his term. (G. E.)
 FOOTNOTES:
 
   [1] For the geology of Argentina, see Stelzner, _Beitrage zur
-    geologie der argentinischen Republik_ (Cassel and Berlin, 1885);
+    geologie der argentinischen Republik_ ([[Cassel]] and Berlin, 1885);
     Brackebusch, _Mapa geologico del Interiore de la Republica Argentina_
     (Gotha, 1892); Valentin, _Bosquejo geologico de la Argentina_ (Buenos
     Aires, 1897); Hauthal, "Beitrage zur Geologie der argentinischen

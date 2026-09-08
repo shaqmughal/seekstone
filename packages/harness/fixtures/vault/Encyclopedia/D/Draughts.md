@@ -1,19 +1,19 @@
 # Draughts
 
-DRAUGHTS (from A.S. _dragan_, to draw), a game played with pieces (or
+DRAUGHTS (from A.S. _dragan_, to draw), a [[Game|game]] played with pieces (or
 "men") called draughtsmen on a board marked in squares of two alternate
-colours. The game is called Checkers in America, and is known to the
-French as _Les Dames_ and to the Germans as _Damenspiel_. Though the
+[[Colours|colours]]. The game is called Checkers in America, and is known to the
+French as _Les [[Dame|Dames]]_ and to the Germans as _Damenspiel_. Though the
 game is not mentioned in the _Complete Gamester_, nor the _Académie de
 jeux_, and is styled a "modern invention" by Strutt, yet a somewhat
 similar game was known to the Egyptians, some of the pieces used having
 been found in tombs at least as old as 1600 B.C., and part of Anect
 Hat-Shepsa's board and some of her men are to be seen in the Egyptian
 gallery of the British Museum. An Egyptian vase also shows a lion and an
-antelope playing at draughts, with five men each, the lion making the
+[[Antelope|antelope]] playing at draughts, with five men each, the lion making the
 winning move and seizing the bag or purse that contains the stakes.
 Plato ascribes the invention of the game of [Greek: pessoi], or
-draughts, to Thoth, the Egyptian Hermes Trismegistus, and Homer
+draughts, to Thoth, the Egyptian [[Hermes]] Trismegistus, and [[Homer]]
 represents Penelope's suitors as playing it (_Odyss._ i. 107). In one
 form of the game as played by the Greeks there were 25 squares, and each
 player had 5 men which were probably moved along the lines. In another
@@ -31,7 +31,7 @@ was stale-mated, to use a chess phrase (_ad incitas redactus est_), and
 lost the game. Other explanations of this phrase are, however, given
 (see _Les Jeux des anciens_, by Becq de Fouquières). The fullest account
 of the Roman game is to be found in the _De laude Pisonis_, written by
-an anonymous contemporary of Nero (see CALPURNIUS, TITUS). Unfortunately
+an anonymous contemporary of Nero (see [[Calpurnius|CALPURNIUS]], TITUS). Unfortunately
 the texts are full of obscurities, so that it is difficult to make any
 definite statements as to how the game was played.
 
@@ -41,7 +41,7 @@ men are mentioned more than once.
 
 The history of the modern forms of the game starts with _El Ingenio o
 juego de marro, de punto o damas_, published by Torquemada at Valencia
-in 1547. Another Spaniard, Juan Garcia Canalejas, is said to have
+in 1547. Another Spaniard, Juan [[Garcia]] Canalejas, is said to have
 published in 1610 the first edition of his work, a better-known edition
 of which appeared in 1650. The third Spanish classic, that of Joseph
 Carlos Garcez, was printed in Madrid in 1684. It is noteworthy that in
@@ -49,7 +49,7 @@ an illustration in Garcez's book the pieces depicted resemble somewhat
 some of those used by the Egyptians, and are not unlike the pawns used
 in chess.
 
-In 1668 Pierre Mallet had published the first French work on the game,
+In 1668 Pierre [[Mallet]] had published the first French work on the game,
 and elementary though his knowledge of the game seems to have been, even
 in comparison with that of Canalejas or Garcez, the historical notes,
 rules and instructions which he gave, served as a basis for many later
@@ -62,7 +62,7 @@ the latter game originated in Paris about 1727.
 About 1736 a famous player named Laclef published the first book on
 Polish draughts, but the first important book on the game is Manoury's
 _Jeu de dames à la polonaise_, in the production of which it is said
-that the author had the assistance of Diderot and other
+that the author had the assistance of [[Diderot]] and other
 _encyclopédistes_. This book, which appeared in 1787, was to the new
 game all that Mallet's was to the old French game, and until the
 appearance of Poirson Prugneaux's _Encyclopédie du jeu de dames_ in 1855
@@ -79,10 +79,10 @@ deals with the new game and with the older Italian game.
 In 1694 Hyde wrote _Historia dami ludi seu latrinculorum_, in which he
 tried to prove the identity of draughts with _ludus latrinculorum_. This
 work is historical and descriptive, but contains nothing concerning the
-game as played in Great Britain. The authentic history of draughts in
+game as played in Great Britain. The [[Authentic|authentic]] history of draughts in
 England commences with William Payne's _Introduction to the Game of
-Draughts_, the dedication of which was written by Samuel Johnson.
-Payne's games and problems were incorporated in a much more important
+Draughts_, the [[Dedication|dedication]] of which was written by Samuel Johnson.
+Payne's [[Games|games]] and problems were incorporated in a much more important
 work, namely Sturges's _Guide to the Game of Draughts_, which appeared
 in 1800 and has gone through a score of editions. About this time the
 game was much practised in both England and Scotland, but the first
@@ -100,24 +100,24 @@ than thirty years later that the other openings received more adequate
 recognition. This was done in Robertson's _Guide to the Game of
 Draughts_, and perhaps better in Lees' _Guide_ (1892).
 
-Andrew Anderson was the first recognized British champion player of the
+Andrew Anderson was the first recognized British [[Champion|champion]] player of the
 game. He and Wyllie, better known as "the herd laddie," contested five
 matches for the honour, Anderson winning four to Wyllie's one. After his
 victory in 1847 Anderson retired from match play and the title fell to
 Wyllie, who made the game his profession and travelled all over the
 English-speaking world to play it. In 1872 he successfully defended his
-position against Martins, the English champion, and in 1874 against W.
-R. Barker, the American champion, but two years later he was beaten by
+position against [[Martin|Martins]], the English champion, and in 1874 against W.
+R. [[Barker]], the American champion, but two years later he was beaten by
 Yates, a young American. On the latter's retirement from the game, the
 championship lapsed to Wyllie, who held it successfully until his defeat
 by Ferrie, the Scottish champion, in 1894. Two years later Ferrie was
 beaten in his turn by Richard Jordan of Edinburgh, who had just gained
 the Scottish championship; and the new holder defeated Stewart, who
 challenged him in 1897, and successfully defended his title against C.
-F. Barker, the American champion, to meet whom he visited Boston in 1900
+F. Barker, the American champion, to meet whom he visited [[Boston]] in 1900
 and played a drawn match.
 
-In 1884 the first international match between England and Scotland took
+In 1884 the first [[International|international]] match between England and Scotland took
 place, and resulted in so decisive a victory for the northerners that
 the contest was not renewed for ten years. The matches played in 1894
 and 1899 also went strongly in favour of the Scots, but in 1903 the
@@ -127,7 +127,7 @@ In 1905 a British team visited America and defeated a side representing
 the United States.
 
 The tournament for the Scottish championship has been held annually in
-Glasgow since 1893. The number and skill of the Scottish players have
+[[Glasgow]] since 1893. The number and skill of the Scottish players have
 given this tournament its pre-eminence; but if the levelling up of the
 standards of play in Scotland and England continues, the competition
 which is held biennially by the English Draughts Association is likely
@@ -202,7 +202,7 @@ The game is drawn when neither of the players has sufficient advantage
 in force or position to enable him to win.
 
 The losing game, or "first off the board," is a form of draughts not
-much practised now by expert draught players. The player wins who gets
+much practised now by [[Expert|expert]] draught players. The player wins who gets
 all his pieces taken first. There is no "huffing"; a player who can take
 must do so.
 
@@ -265,7 +265,7 @@ must do so.
   than that used above. When practically all games started with 11-15 it
   was convenient to assign names to the more popular lines of play. Thus
   11-15, 23-19, 8-11, 22-17, if followed by 11-16, was called the
-  "Glasgow"; if followed by 9-13, 17-14, the "Laird and Lady"; if by
+  "Glasgow"; if followed by 9-13, 17-14, the "[[Laird]] and Lady"; if by
   3-8, the "Alma."
 
   The variety possible in the opening is a fair reply to the objection
@@ -348,7 +348,7 @@ must do so.
   e. 2-7, 27-24, 22-26, 23-18, 26-31, 18-15, 11-18, 20-2, 9-13, 2-9,
   5-14, 24-19, 13-22, 30-26. White wins.
 
-            Game No. 3.--"Dundee" Opening.
+            Game No. 3.--"[[Dundee]]" Opening.
 
       12-16    11-15  c 8-12   4-8    9-14   1-26
       24-20    20-11   17-13  18-15  26-22  31-22
@@ -477,7 +477,7 @@ must do so.
   _Other Varieties._--The forms of draughts practised on the European
   continent differ in some respects from the English variety, chiefly in
   respect of the power assigned to a man after "crowning." The game of
-  _Polish Draughts_ is played in France, Holland, Belgium and Poland,
+  _Polish Draughts_ is played in France, Holland, [[Belgium]] and Poland,
   where it has entirely superseded _Le Jeu de dames à la française_. It
   is played on a board of 100 squares with 20 men a side. The men move
   and capture as in English draughts, except that in capturing they move
@@ -506,7 +506,7 @@ must do so.
   or queens, or he may be huffed. Numerical power is the criterion, e.g.
   three men must be taken in preference to two queens. If the numbers
   are equal and one force comprises more queens than the other, the
-  player may take whichever lot he chooses. This form of draughts,
+  player may take whichever [[Lot|lot]] he chooses. This form of draughts,
   played on a board of 144 squares with 30 men a side, is extensively
   practised by British soldiers in India.
 

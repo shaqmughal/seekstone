@@ -1,9 +1,9 @@
 # Bettia
 
-BETTIA, a town of British India, in the Champaran district of Bengal;
+BETTIA, a town of British India, in the Champaran district of [[Bengal]];
 situated on a former branch of the Harha river, with a station on the
 Tirhoot section of the Bengal & North-Western railway. Bettia is the
-residence of one of the leading noblemen of northern Behar, who enjoys a
+residence of one of the leading noblemen of northern [[Behar]], who enjoys a
 rent-roll of L66,000. In 1901, owing to a disputed succession, the
 estate was under the management of the court of wards. It comprises land
 in no fewer than ten districts, much of which is let on permanent leases

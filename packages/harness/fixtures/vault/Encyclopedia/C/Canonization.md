@@ -20,7 +20,7 @@ it was the bishop who gave it. Gradually the canonization of saints came
 to be included in the centralizing movement which reserved to the pope
 the most important acts of ecclesiastical power. The earliest
 acknowledged instance of canonization by the pope is that of Ulric of
-Augsburg, who was declared a saint by John XV. in A.D. 993. From that
+[[Augsburg]], who was declared a saint by John XV. in A.D. 993. From that
 time the pontifical intervention became more and more frequent, and, in
 practice, the right of the bishops in the matter of canonization
 continued to grow more restricted. In 1170 the new right was
@@ -34,15 +34,15 @@ more summary than that practised in modern times. The evidence of those
 who had known the holy personages was collected on the spot. The inquiry
 was as rapid as the judgment, and both often took place a short time
 after the death of the saint, as in the cases of St Thomas of Canterbury
-(died 1170, canonized 1173), St Peter of Castelnau (died on the 15th of
+(died 1170, canonized 1173), St Peter of [[Castelnau]] (died on the 15th of
 January 1208, canonized on the 12th of March of the same year), St
-Francis of Assisi (died on the 4th of October 1226, canonized on the
-19th of July 1228), and St Anthony of Padua (died on the 13th of June
+[[Francis Of Assisi|Francis of Assisi]] (died on the 4th of October 1226, canonized on the
+19th of July 1228), and St [[Anthony]] of Padua (died on the 13th of June
 1231, canonized on the 3rd of June 1232).
 
 At this period there was no marked difference between canonization and
 beatification. In modern practice, as definitively settled by the
-decrees of Pope Urban VIII. (1625 and 1634), the two acts are totally
+[[Decree|decrees]] of Pope Urban VIII. (1625 and 1634), the two acts are totally
 distinct. Canonization is the solemn and definitive act by which the
 pope decrees the plenitude of public honours. Beatification consists in
 permitting a _cultus_, the manifestations of which are restricted, and
@@ -50,7 +50,7 @@ is merely a step towards canonization.
 
 The procedure at present followed at the Roman curia is either
 _exceptional_ or _common_. The approval of immemorial _cultus_ comes
-within the category of exceptional procedure. Urban VIII., while
+within the [[Category|category]] of exceptional procedure. Urban VIII., while
 forbidding the rendering of a public _cultus_ without authorization from
 the Holy See, made an exception in favour of the blessed who were at
 that time (1625) in possession of an immemorial _cultus_, i.e. dating
@@ -71,7 +71,7 @@ himself. The _postulator_, who is the mandatory of a diocese or
 ecclesiastical commonalty, is the solicitor. He must furnish the proofs,
 which are collected according to very stringent rules. The _promoter of
 the faith_, popularly called the "devil's advocate" (_advocatus
-diaboli_), is the defendant, whose official duty is to point out to the
+diaboli_), is the [[Defendant|defendant]], whose official duty is to point out to the
 tribunal the weak points of the case.
 
 The procedure is loaded with many formalities, of which the historical
@@ -93,7 +93,7 @@ beatificationem_). In the ceremony of beatification the essential part
 consists in the reading of the pontifical brief, placing the Venerable
 in the rank of the Blessed, which is done during a solemn mass,
 celebrated with special rites in the great hall above the vestibule of
-the basilica of St Peter.
+the [[Basilica|basilica]] of St Peter.
 
 The process of canonization, which follows that of beatification, is
 usually less lengthy. It consists principally in the discussion of the
@@ -110,7 +110,7 @@ and discretion, considerably retards the progress of the causes, and
 necessitates a numerous staff. This circumstance, together with the
 custom of ornamenting the basilica of St Peter very richly on the day of
 the ceremony, accounts for the considerable cost which a canonization
-entails. To prevent abuses, a minute tariff of expenses was drawn up
+[[Entail|entails]]. To prevent abuses, a minute tariff of expenses was drawn up
 during the pontificate of Leo XIII.
 
 The Greek Church, represented by the patriarch of Constantinople, and
@@ -137,10 +137,10 @@ Church, and as yet has been but imperfectly studied.
 
 CANON LAW. Canon law, _jus canonicum_, is the sum of the laws which
 regulate the ecclesiastical body; for this reason it is also called
-ecclesiastical law, _jus ecclesiasticum_. It is also referred to under
+[[Ecclesiastical Law|ecclesiastical law]], _jus ecclesiasticum_. It is also referred to under
 the name of _canones, sacri canones_, a title of great antiquity, for
 the [Greek: kanones], _regulae_, were very early distinguished from the
-secular laws, the [Greek: nomoi], _leges_.
+secular laws, the [Greek: nomoi], _[[Leg|leges]]_.
 
 
   Word "canon." Different meanings.
@@ -151,7 +151,7 @@ disciplinary decisions of the council of Nicaea, for example (can. 1, 2,
 &c.), employ it in the sense of an established rule, ecclesiastical in
 its origin and in its object. But the expression is most frequently used
 to designate disciplinary laws, in which case canons are distinguished
-from dogmatic definitions. With regard to form, the decisions of
+from dogmatic [[Definition|definitions]]. With regard to form, the decisions of
 councils, even when dogmatic, are called canons; thus the definitions of
 the council of Trent or of the Vatican, which generally begin with the
 words "_Si quis dixerit_," and end with the anathema, are canons; while
@@ -160,7 +160,7 @@ the name of chapters or decrees. Similarly, it has become customary to
 give the name of canons to the texts inserted in certain canonical
 compilations such as the _Decretum_ of Gratian, while the name of
 chapters is given to the analogous quotations from the Books of the
-Decretals. It is merely a question of words and of usage. As to the
+[[Decretals]]. It is merely a question of words and of usage. As to the
 expression _jus canonicum_, it implies the systematic codification of
 ecclesiastical legislation, and had no existence previous to the labours
 which resulted in the _Corpus juris canonici_.
@@ -182,10 +182,10 @@ given to the law established by the council of Trent and subsequent
 papal constitutions. There is a further distinction between the written
 law, _jus scriptum_, laws made by the councils or popes, which are to be
 found in the collections, and the unwritten law, _jus non scriptum_, a
-body of practical rules arising rather from natural equity and from
+body of practical rules arising rather from natural [[Equity|equity]] and from
 custom than from formal laws; with this is connected the customary law.
 In the Church, as in other societies, it has happened that the unwritten
-customary law has undergone a gradual diminution in importance, as a
+customary law has undergone a [[Gradual|gradual]] diminution in importance, as a
 consequence of centralization and the accumulation of written laws;
 nowadays it need not be reckoned with, save in cases where local customs
 are involved. The common law is that which is intended to regulate the
@@ -200,7 +200,7 @@ By the _sources_ or authors of the canon law are meant the authorities
 from which it is derived; they must obviously be of such a nature as to
 be binding upon the whole religious body, or at least upon a specified
 portion of it. In the highest rank must be placed Christ and the
-Apostles, whose dispositions for the constitution and government of the
+[[Apostle|Apostles]], whose dispositions for the constitution and government of the
 Church are contained in the New Testament, completed by tradition; for
 the Church did not accept the disciplinary and ritual provisions of the
 Old Testament as binding upon her (see Acts xi., xv.). To the apostles
@@ -232,14 +232,14 @@ to their customs and traditions, which, however, possessed a certain
 uniformity resulting from their close connexion with natural and divine
 law. Strangely enough, those documents which bear the greatest
 resemblance to a small collection of canonical regulations, such as the
-Didache, the Didascalia and the Canons of Hippolytus, have not been
+[[Didache]], the Didascalia and the Canons of [[Hippolytus]], have not been
 retained, and find no place in the collections of canons, doubtless for
 the reason that they were not official documents. Even the Apostolical
 Constitutions (q.v.), an expansion of the Didache and the Didascalia,
 after exercising a certain amount of influence, were rejected by the
 council in Trullo (692). Thus the only pseudo-epigraphic document
 preserved in the law of the Greek Church is the small collection of the
-eighty-five so-called "Apostolic Canons" (q.v.). The compilers, in their
+eighty-five so-called "[[Apostolic Canons]]" (q.v.). The compilers, in their
 several collections, gathered only occasional decisions, the outcome of
 no pre-determined plan, given by councils or by certain great bishops.
 
@@ -257,7 +257,7 @@ were further added the twenty-five canons of the so-called council _in
 encaeniis_ of that city (341). Soon afterwards, Paphlagonia contributed
 twenty canons passed at the council of Gangra (held, according to the
 _Synodicon orientale_, in 343),[2] and Phrygia fifty-nine canons of the
-assembly of Laodicea (345-381?), or rather of the compilation known as
+assembly of [[Laodicea]] (345-381?), or rather of the compilation known as
 the work of this council.[3] The collection was so well and so widely
 known that all these canons were numbered in sequence, and thus at the
 council of Chalcedon (451) several of the canons of Antioch were read
@@ -276,7 +276,7 @@ introduced into the West.
 In the course of the 6th century the collection was completed by the
 addition of documents already in existence, but which had hitherto
 remained isolated, notably the canonical letters of several great
-bishops, Dionysius of Alexandria, St Basil and others. It was at this
+bishops, [[Dionysius]] of Alexandria, St [[Basil]] and others. It was at this
 time that the Latin collection of Dionysius Exiguus became known; and
 just as he had given the Greek councils a place in his collection, so
 from him were borrowed the canons of councils which did not appear in
@@ -302,9 +302,9 @@ deal with the reception of the Nestorians, and were not communicated to
 the West), Chalcedon, Sardica, Carthage (that of 419, according to
 Dionysius), Constantinople (394); thirdly, the series of canonical
 letters of the following great bishops--Dionysius of Alexandria, Peter
-of Alexandria (the Martyr), Gregory Thaumaturgus, Athanasius, Basil,
-Gregory of Nyssa, Gregory of Nazianzus, Amphilochus of Iconium,
-Timotheus of Alexandria, Theophilus of Alexandria, Cyril of Alexandria,
+of Alexandria (the Martyr), Gregory Thaumaturgus, [[Athanasius]], Basil,
+Gregory of Nyssa, Gregory of Nazianzus, Amphilochus of [[Iconium]],
+Timotheus of Alexandria, Theophilus of Alexandria, [[Cyril]] of Alexandria,
 Gennadius of Constantinople; the canon of Cyprian of Carthage (the
 Martyr) is also mentioned, but with the note that it is only valid for
 Africa. With the addition of the twenty-two canons of the ecumenical
@@ -321,7 +321,7 @@ commentaries of Photius (883), Zonaras (1120) and Balsamon (1170). A
 collection in which the texts are simply reproduced in their
 chronological order is obviously inconvenient; towards 550, Johannes
 Scholasticus, patriarch of Constantinople, drew up a methodical
-classification of them under fifty heads. Finally should be mentioned
+[[Classification|classification]] of them under fifty heads. Finally should be mentioned
 yet another kind of compilation still in use in the Greek Church,
 bearing the name of _nomocanon_, because in them are inserted, side by
 side with the ecclesiastical canons, the imperial laws on each subject:
@@ -399,10 +399,10 @@ time by the monk Dionysius, known by the name of Dionysius Exiguus,
 which he himself had assumed as a sign of humility. He was a Scythian by
 birth, and did not come to Rome till after 496, his learning was
 considerable for his times, and to him we owe the employment of the
-Christian era and a new way of reckoning Easter. At the desire of
+Christian era and a new way of reckoning [[Easter]]. At the desire of
 Stephen, bishop of Salona, he undertook the task of making a new
 translation, from the original Greek text, of the canons of the Greek
-collection. The manuscript which he used contained only the first fifty
+collection. The [[Manuscript|manuscript]] which he used contained only the first fifty
 of the Apostolic Canons; these he translated, and they thus became part
 of the law of the West. This part of the work of Dionysius was not added
 to later; it was otherwise with the second part. This embodied the
@@ -410,7 +410,7 @@ documents containing the local law, namely 39 decretals of the popes
 from Siricius (384-398) to Anastasius II. (496-498). As was natural this
 collection received successive additions as further decretals appeared.
 The collection formed by combining these two parts remained the only
-official code of the Roman Church until the labours undertaken in
+official [[Code|code]] of the Roman Church until the labours undertaken in
 consequence of the reforming movement in the 11th century. In 774 Pope
 Adrian I. gave the twofold collection of the Scythian monk to the future
 emperor Charlemagne as the canonical book of the Roman Church; this is
@@ -420,7 +420,7 @@ officially received by the Frankish Church, imposed by the council of
 Aix-la-Chapelle of 802, and from that time on was recognized and quoted
 as the _liber canonum_. If we consider that the Church of Africa, which
 had already suffered considerably from the Vandal invasion, was at this
-period almost entirely destroyed by the Arabs, while the fate of Spain
+period almost entirely destroyed by the [[Arabs]], while the [[Fate|fate]] of Spain
 was but little better, it is easy to see why the collection of Dionysius
 became the code of almost the whole of the Western Church, with the
 exception of the Anglo-Saxon countries; though here too it was known.
@@ -431,7 +431,7 @@ have preserved for us, but as they have not exercised any great
 influence on the development of canon law, we may pass them over.
 
 
-  In Gaul.
+  In [[Gaul]].
 
   Quesnel collection.
 
@@ -440,7 +440,7 @@ of any other generally received collection of canons. In this country
 the Church had not been centralized round a principal see which would
 have produced unity in canon law as in other things; even the political
 territorial divisions had been very unstable. The only canonical centre
-of much activity was the Church of Arles, which exercised considerable
+of much activity was the Church of [[Arles]], which exercised considerable
 influence over the surrounding region in the 5th and 6th centuries. The
 chief collection known throughout Gaul before the Dionysio-Hadriana was
 the so-called collection of Quesnel, named after its first editor.[6] It
@@ -461,11 +461,11 @@ the following:--Arles (314), of great importance; a number of councils
 in the district of Arles, completed by the _Statuta Ecclesiae antiqua_
 of St Caesarius;[7] the councils of the province of Tours; the
 assemblies of the episcopate of the three kingdoms of the Visigoths at
-Agde (506), of the Franks at Orleans (511), and of the Burgundians at
+Agde (506), of the [[Franks]] at Orleans (511), and of the Burgundians at
 Epaone (517); several councils of the kingdoms of the Franks, chiefly at
 Orleans; and finally, the synods of the middle of the 8th century, under
 the influence of St Boniface. Evidently the impulse towards unity had to
-come from without; it began with the alliance between the Carolingians
+come from without; it began with the alliance between the [[Carolingians]]
 and the Papacy, and was accentuated by the recognition of the _liber
 canonum_.
 
@@ -485,12 +485,12 @@ Greek councils, following a translation of Italian origin, but known by
 the name of _Hispana_; African councils, Gallican councils and Spanish
 councils. The latter, which form the local section, are further divided
 into several classes: firstly, the synods held under the Roman empire,
-the chief being that of Elvira[9] (c. 300); next the texts belonging to
-the kingdom of the Suevi, after the conversion of these barbarians by St
-Martin of Braga: these are, the two councils of Braga (563 and 572), and
+the chief being that of [[Elvira]][9] (c. 300); next the texts belonging to
+the kingdom of the Suevi, after the [[Conversion|conversion]] of these barbarians by St
+[[Martin]] of Braga: these are, the two councils of Braga (563 and 572), and
 a sort of free translation or adaptation of the canons of the Greek
 councils, made by Martin of Braga; this is the document frequently
-quoted in later days under the name of _Capitula Martini papae_;
+quoted in later days under the name of _Capitula [[Martini]] papae_;
 thirdly, the decisions of the councils of the Visigothic Church, after
 its conversion to Catholicism. Nearly all these councils were held at
 Toledo, beginning with the great council of 589. The series continued up
@@ -524,11 +524,11 @@ existed.[11] They are, however, of difficult and uncertain ascription,
 since the collections have been largely amended and remodelled as
 practice required. Among the most important we may mention those bearing
 the names of Vinnianus (d. 589), Gildas (d. 583), Theodore of Canterbury
-(d. 690), the Venerable Bede (d. 735) and Egbert of York (732-767); the
+(d. 690), the Venerable [[Bede]] (d. 735) and Egbert of York (732-767); the
 Penitentials which are ascribed to St Columbanus, the founder of Luxeuil
 and Bobbio (d. 615), and Cumean (Cumine Ailbha, abbot of Iona); in the
 Prankish kingdom the most interesting work is the Penitential of
-Halitgar, bishop of Cambrai[12] from 817 to 831. As penances had for a
+Halitgar, bishop of [[Cambrai]][12] from 817 to 831. As penances had for a
 long time been lightened, and the books used by confessors began to
 consist more and more of instructions in the style of the later moral
 theology (and this is already the case of the books of Halitgar and
@@ -555,14 +555,14 @@ _Hispana_ began to be circulated in France. To this rich collection the
 author, who assumes the name of Isidore, the saintly bishop of Seville,
 added a good number of apocryphal documents already existing, as well as
 a series of letters ascribed to the popes of the earliest centuries,
-from Clement to Silvester and Damasus inclusive, thus filling up the gap
+from [[Clement]] to Silvester and [[Damasus]] inclusive, thus filling up the [[Gap|gap]]
 before the decretal of Siricius, which is the first genuine one in the
 collection. The other papal letters only rarely show signs of alteration
 or falsification, and the text of the councils is entirely
 respected.[14] From the same source and at the same date came two other
 forged documents--firstly, a collection of Capitularies, in three books,
-ascribed to a certain Benedict (Benedictus Levita),[15] a deacon of the
-church of Mainz; this collection, in which authentic documents find very
+ascribed to a certain Benedict ([[Benedictus]] Levita),[15] a deacon of the
+church of [[Mainz]]; this collection, in which [[Authentic|authentic]] documents find very
 little place, stands with regard to civil legislation exactly in the
 position of the False Decretals with regard to canon law. The other
 document, of more limited scope, is a group of _Capitula_ given under
@@ -589,7 +589,7 @@ This was the beginning of a codification of a common canon law, in which
 the sources drawn upon lose, as it were, their local character. This is
 made even more noticeable by the fact that, in a good number of the
 works extant, the author is not content merely to set forth and classify
-the texts; but he proceeds to discuss the point, drawing conclusions and
+the texts; but he proceeds to [[Discus|discuss]] the point, drawing conclusions and
 sometimes outlining some controversy on the subject, just as Gratian was
 to do more fully later on.
 
@@ -616,12 +616,12 @@ books of Burchard, bishop of Worms (1112-1122), the _Decretum_ or
 _Collectarium_,[17] very widely spread and known under the name of
 _Brocardum_, of which the 19th book, dealing with the process of
 confession, is specially noteworthy. Towards the end of the 11th
-century, under the influence of Hildebrand, the reforming movement
+century, under the influence of [[Hildebrand]], the reforming movement
 makes itself felt in several collections of canons, intended to support
 the rights of the Holy See and the Church against the pretensions of the
 emperor. To this group belong an anonymous collection, described by M.P.
-Fournier as the first manual of the Reform;[18] the collection of
-Anselm, bishop of Lucca,[19] in 13 books (1080-1086); that of Cardinal
+[[Fournier]] as the first [[Manual|manual]] of the Reform;[18] the collection of
+Anselm, bishop of [[Lucca]],[19] in 13 books (1080-1086); that of Cardinal
 Deusdedit,[20] in 4 books, dedicated to Pope Victor III. (1086-1087);
 and lastly that of Bonizo,[21] bishop of Sutri, in 10 books (1089). In
 the 12th century, the canonical works of Ivo of Chartres[22] are of
@@ -630,10 +630,10 @@ handy and well-arranged collection in 8 books; as to the _Decretum_, a
 weighty compilation in 17 books, there seems sufficient proof that it is
 a collection of material made by Ivo in view of his _Panormia_. To the
 12th century belong the collection in the MS. of Saragossa
-(_Caesaraugustana_) to which attention was drawn by Antonio Agustin;
+(_Caesaraugustana_) to which attention was drawn by [[Antonio]] Agustin;
 that of Cardinal Gregory, called by him the _Polycarpus_, in 8 books
 (about 1115); and finally the _Liber de misericordia et justitia_ of
-Algerus,[23] scholasticus of Liege, in 3 books, compiled at latest in
+Algerus,[23] scholasticus of [[Liege]], in 3 books, compiled at latest in
 1123.
 
 But all these works were to be superseded by the _Decretum_ of Gratian.
@@ -647,14 +647,14 @@ greatly surpasses them in scientific value and in magnitude. It is
 certainly the work which had the greatest influence on the formation of
 canon law; it soon became the sole manual, both for teaching and for
 practice, and even after the publication of the Decretals was the chief
-authority in the universities. The work is not without its faults;
+authority in the universities. The work is not without its [[Fault|faults]];
 Gratian is lacking in historical and critical faculty; his theories are
 often hesitating; but on the whole, his treatise is as complete and as
 perfect as it could be; so much so that no other work of the same kind
 has been compiled; just as there has never been made another Book of the
 Sentences. These two works, which were almost contemporary (Gratian is
 only about two years earlier),[24] were destined to have the same fate;
-they were the manuals, one for theology, the other for canon law, in use
+they were the [[Manuals|manuals]], one for theology, the other for canon law, in use
 in all the universities, taught, glossed and commented on by the most
 illustrious masters. From this period dates the more marked and
 definitive separation between theology and ecclesiastical law.
@@ -667,7 +667,7 @@ definitive separation between theology and ecclesiastical law.
   Mode of citation.
 
 Of Gratian we know practically nothing. He was a Camaldulensian monk of
-the convent of St Felix at Bologna, where he taught canon law, and
+the convent of St [[Felix]] at Bologna, where he taught canon law, and
 published, probably in 1148, his treatise called at first _Concordantia
 discordantium canonum_, but soon known under the name of the _Decretum_.
 Nowadays, and for some time past, the only part of the _Decretum_
@@ -715,7 +715,7 @@ Considered from the point of view of official authority, the _Decretum_
 occupies an intermediate position very difficult to define. It is not
 and cannot be a really official code, in which every text has the force
 of a law. It has never been recognized as such, and the pretended
-endorsement of it by Pope Eugenius III. is entirely apocryphal.
+endorsement of it by Pope [[Eugenius]] III. is entirely apocryphal.
 Moreover, it could not have become an official code; it would be
 impossible to transform into so many laws either the discordant texts
 which Gratian endeavoured to reconcile or his own _Dicta_; a treatise on
@@ -741,7 +741,7 @@ character. Henceforth a significant differentiation began to appear; the
 collections of texts, the number of which continued to increase, were
 clearly separated from the commentaries in which the canonists continued
 the formation and interpretation of the law. Thus the way was prepared
-for official collections. The disciples of Gratian, in glossing or
+for official collections. The [[Disciple|disciples]] of Gratian, in glossing or
 commenting on the _Decretum_, turned to the papal decretals, as they
 appeared, for information and the determination of doubtful points.
 Their idea, then, was to make collections of these points, to support
@@ -758,7 +758,7 @@ Decretum_).
 
   "Quinque compilationes."
 
-  Bernard of Pavia, "Breviarium."
+  [[Bernard]] of Pavia, "Breviarium."
 
   "Compilatio tertia."
 
@@ -781,18 +781,18 @@ of the book is the arrangement of the decretals or sections of decretals
 in five books, divided into titles (_tituli_) logically arranged. The
 five books treat of (1) ecclesiastical persons and dignitaries or judges;
 (2) procedure; (3) rights, duties and property of the clergy, i.e.
-benefices, dues, sacraments, &c., with the exception of marriage, which
+[[Benefice|benefices]], dues, sacraments, &c., with the exception of marriage, which
 is the subject of book (4); (5) of penalties. There is a well-known
 hexameter summing up this division:
 
   _Judex, judicium, clerus, connubia, crimen._
 
 This is the division adopted in all the official collections of the
-_Corpus juris_. By a bull of the 28th of December 1210 Innocent III.
+_Corpus juris_. By a [[Bull|bull]] of the 28th of December 1210 [[Innocent]] III.
 sent to the university of Bologna an authentic collection of the
 decretals issued during the first twelve years of his pontificate; this
 collection he had caused to be drawn up by his notary, Petrus
-Collivacinus of Benevento, his object being to supersede the collections
+Collivacinus of [[Benevento]], his object being to supersede the collections
 in circulation, which were incomplete and to a certain extent spurious.
 This was the _Compilatio tertia_; for soon after, Joannes Galensis (John
 of Wales) collected the decretals published between the collection of
@@ -800,7 +800,7 @@ Bernard of Pavia and the pontificate of Innocent III.; and this, though
 of later date, became known as the _Compilatio secunda_. The _quarta_,
 the author of which is unknown, contained the decretals of the last six
 years of Innocent III., and the important decrees of the Lateran council
-of 1215. Finally, in 1226, Honorius III. made an official presentation
+of 1215. Finally, in 1226, [[Honorius]] III. made an official presentation
 to Bologna of his own decretals, this forming the _Compilatio quinta_.
 
 
@@ -862,7 +862,7 @@ for the codification of the abstract law; and for this reason subsequent
 collections contain as a rule only the "constitutions" of popes or
 councils, i.e. rules laid down as of general application. Hence arose a
 separation, which became more and more marked, between legislation and
-jurisprudence. This change was not produced suddenly, the old method
+[[Jurisprudence|jurisprudence]]. This change was not produced suddenly, the old method
 being at first adhered to. In 1245 Innocent IV. sent to the universities
 a collection of 45 decretals, with the order that they should be
 inserted under their proper titles in the collection of Gregory IX. In
@@ -875,9 +875,9 @@ VIII., himself an eminent canonist, had this prepared by a committee of
 canonists and published it in 1298. As it came as an addition to the
 five books of Gregory IX., it was called the sixth book, the _Liber
 Sextus_. It includes the constitutions subsequent to 1234, and notably
-the decrees of the two ecumenical councils of Lyons, and is arranged in
+the decrees of the two ecumenical councils of [[Lyons]], and is arranged in
 books and titles, as above described; the last title, _de regulis
-juris_, contains no less than eighty-eight legal axioms, mostly borrowed
+juris_, contains no less than eighty-eight legal [[Axiom|axioms]], mostly borrowed
 from Roman law. The _Liber Sextus_ is cited like the decretals of
 Gregory IX., only with the addition of: _in sexto_ (in VI^o.).
 
@@ -897,7 +897,7 @@ way, with the additional indication _Clem-(entina)_.
 
   "Extravagantes" of John XXII.
 
-  And "communes."
+  And "[[Commune|communes]]."
 
 At this point the official collections stop. The two last, which have
 found a place in the editions of the _Corpus_, are collections of
@@ -922,8 +922,8 @@ XXII._, or _inter-comm-(unes)._
 Thus was closed, as the canonists say, the _Corpus juris canonici_; but
 this expression, which is familiar to us nowadays, is only a
 bibliographical term. Though we find in the 15th century, for example,
-at the council of Basel the expression _corpus juris_, obviously
-suggested by the _Corpus juris civilis_, not even the official edition
+at the council of [[Basel]] the expression _corpus juris_, obviously
+suggested by the _Corpus juris [[Civilis|civilis]]_, not even the official edition
 of Gregory XIII. has as its title the words _Corpus juris canonici_. and
 we do not meet with this title till the Lyons edition of 1671.
 
@@ -938,7 +938,7 @@ The history of the canonical collections forming the _Corpus juris_
 would not be complete without an account of the labours of which they
 were the object. We know that the universities of the middle ages
 contained a Faculty of Decrees, with or without a Faculty of Laws, i.e.
-civil law. The former made _doctores decretorum_, the latter _doctores
+[[Civil Law|civil law]]. The former made _doctores decretorum_, the latter _doctores
 legum_. The teaching of the _magistri_ consisted in oral lessons
 (_lecturae_) directly based on the text. The short remarks explanatory
 of words in the text, originally written in the margin, became the gloss
@@ -949,7 +949,7 @@ thus acquired by usage a kind of semi-official authority. The chief of
 the _glossatores_ of the _Decretum_ of Gratian were Paucapalea, the
 first disciple of the master, Rufinus (1160-1170), John of Faenza (about
 1170), Joannes Teutonicus (about 1210), whose glossary, revised and
-completed by Bartholomeus Brixensis (of Brescia) became the _glossa
+completed by Bartholomeus Brixensis (of [[Brescia]]) became the _glossa
 ordinaria decreti_. For the decretals we may mention Vincent the
 Spaniard and Bernard of Botone (Bernardus Parmensis, d. 1263), author of
 the _Glossa ordinaria_. That on the _Liber Sextus_ is due to the famous
@@ -959,19 +959,19 @@ commentaries not so entirely concerned with the text were called
 _Apparatus_; and _Summae_ was the name given to general treatises. The
 first of these works are of capital importance in the formation of a
 systematic canon law. Such were the _Summae_ of the first disciples of
-Gratian: Paucapalea (1150),[27] Rolando Bandinelli[28] (afterwards
+Gratian: Paucapalea (1150),[27] Rolando [[Bandinelli]][28] (afterwards
 Alexander III., c. 1150), Rufinus[29] (c. 1165), Etienne of Tournai[30]
 (Stephanus Tornacensis, c. 1168), John of Faenza (c. 1170), Sicard,
 bishop of Cremona (c. 1180), and above all Huguccio (c. 1180). For the
 Decretals we should mention: Bernard of Pavia[31] (c. 1195), Sinibaldo
-Fieschi (Innocent IV., c. 1240), Henry of Susa (d. 1271), commonly
+[[Fieschi]] (Innocent IV., c. 1240), Henry of Susa (d. 1271), commonly
 called (cardinalis) Hostiensis, whose _Summa Hostiensis_ or _Summa
 aurea_ is a work of the very highest order; Wilhelmus Durantis or
 Durandus, Joannes Andreae, Nicolas de Tudeschis (_abbas siculus_), &c.
 The 15th century produced few original treatises; but after the council
 of Trent the _Corpus juris_ was again commented on by distinguished
 canonists, e.g. the Jesuit Paul Laymann (1575-1635), the Portuguese
-Agostinho Barbosa (1590-1649), Manuel Gonzalez Tellez (d. 1649) and
+Agostinho Barbosa (1590-1649), [[Manuel]] Gonzalez Tellez (d. 1649) and
 Prospero Fagnani (1598-1687), who, although blind, was secretary to the
 Congregation of the Council. But as time goes on, the works gradually
 lose the character of commentaries on the text, and develop into
@@ -992,7 +992,7 @@ law were also revised. The commission of the _Correctores romani_,[32]
 established about 1563 by Pius IV., ended its work under Gregory XIII
 and the official edition, containing the text and the glosses, appeared
 at Rome in 1582. Richter's edition (2 vols., Leipzig, 1839) remains
-valuable, but has been greatly surpassed by that of E. Friedberg
+valuable, but has been greatly surpassed by that of E. [[Friedberg]]
 (Leipzig, 1879-1881). Many editions contain also the _Institutiones_
 composed at the command of Paul IV. (1555-1559) by Giovanni Paolo
 Lancelotti, a professor of Bologna, on the model of the Institutes of
@@ -1047,7 +1047,7 @@ number of pontifical constitutions, and of decrees emanating from the
 Roman Congregations, has greatly aggravated the situation; moreover, the
 attempts which have been made to resume the interrupted process of
 codification have entirely failed. As regards the texts, the canon law
-of to-day is in a very similar position to that of English law, which
+of to-day is in a very similar position to that of [[English Law|English law]], which
 gave rise to J.S. Mill's saying: "All ages of English history have given
 one another rendezvous in English law; their several products may be
 seen all together, not interfused, but heaped one upon another, as many
@@ -1077,20 +1077,20 @@ pontifical constitutions, which are collected together in the
 _Bullarium_; but this is a collection of private authority, if we except
 the _Bullarium_ of Benedict XIV., officially published by him in 1747;
 further, the _Bullarium_ is a compilation arranged in chronological
-order, and its dimensions make it rather unwieldy. In the third place
+order, and its [[Dimension|dimensions]] make it rather unwieldy. In the third place
 come the decrees of the Roman Congregations, which have the force of
 law. Several of these organs of the papal authority have published
 official collections, in which more place is devoted to jurisprudence
 than to laws; several others have only private compilations, or even
 none at all, among others the most important, viz. the Holy Office (see
-CURIA ROMANA). The resulting confusion and uncertainty may be imagined.
+[[Curia Romana|CURIA ROMANA]]). The resulting confusion and uncertainty may be imagined.
 
 
   "Liber septimus" of P. Mathieu.
 
   of Clement VIII.
 
-These drawbacks were felt a long time back, and to this feeling we owe
+These [[Drawback|drawbacks]] were felt a long time back, and to this feeling we owe
 two attempts at a supplementary codification which were made in the 16th
 century, both of which are known under the name of _Liber Septimus_. The
 first was of private origin, and had as its author Pierre Mathieu, the
@@ -1144,7 +1144,7 @@ Finally, in the course of so many centuries, the number of
 ecclesiastical laws has increased to such an extent, and these laws have
 accumulated in such immense collections, that in a certain sense we can
 well say: We are crushed beneath the laws, _obruimur legibus_. Hence
-arise infinite and inextricable difficulties which obstruct the study of
+arise [[Infinite|infinite]] and inextricable difficulties which obstruct the study of
 canon law; an immense field for controversy and litigation; a thousand
 perplexities of conscience; and finally contempt for the laws."[36] We
 know how the Vatican council had to separate without approaching the
@@ -1211,7 +1211,7 @@ persons or property of the Church. It is plain that the agreements under
 the concordats have a certain action upon a number of points in the
 canonical laws; and all these points go to constitute the local
 concordatory law. This is the case for Austria, Spain, Portugal,
-Bavaria, the Prussian Rhine provinces, Alsace, Belgium, and, in America,
+Bavaria, the Prussian Rhine provinces, Alsace, [[Belgium]], and, in America,
 Peru. Up to 1905 it was also the case in France, where the ancient local
 customs now continue, pending the reorganization of the Church without
 the concordat.
@@ -1232,17 +1232,17 @@ plenary councils of Baltimore (1852, 1866, 1884), without mentioning the
 diocesan synods; and the whole of Latin America is ruled by the special
 law of its plenary council, held at Rome in 1899. The same is the case
 with the Eastern Churches united to the Holy See; following the example
-of the famous council of Lebanon for the Maronites, held in 1730, and
+of the famous council of [[Lebanon]] for the [[Maronites]], held in 1730, and
 that of Zamosc for the Ruthenians, in 1720, these churches, at the
 suggestion of Leo XIII., have drawn up in plenary assembly their own
 local law: the Syrians at Sciarfa in 1888; the Ruthenians at Leopol in
-1891; and a little later, the Copts. The framing of local law will
+1891; and a little later, the [[Copts]]. The framing of local law will
 certainly be more clear and more easy when the general code of canon law
 has been published.
 
   BIBLIOGRAPHY.--For the texts and collections: the dissertations of Dom
   Coustant, _De antiquis canonum collectionibus, deque variis
-  epistolarum Rom. Pont, editionibus_ (Paris, 1721); P. de Marca, _De
+  epistolarum Rom. Pont, editionibus_ (Paris, 1721); P. de [[Marca]], _De
   veteribus collectionibus canonum_ (Paris, 1681); the brothers Peter
   and Jerome Ballerini, _De antiquis tum editis tum ineditis
   collectionibus et collectoribus canonum ad Gratianum usque_ (Venice,
@@ -1267,8 +1267,8 @@ has been published.
   canonischen Rechts von Gratian bis auf die Gegenwart_ (3 vols.,
   Stuttgart, 1875 et. seq.). Manuals for the study of the sources: Ph.
   Schneider, _Die Lehre von den Kirchenrechtsquellen_ (Regensburg,
-  1892); F. Laurin, _Introductio in Corpus juris canonici_ (Freiburg,
-  1889); Tardif, _Histoire des sources du droit canonique_ (Paris,
+  1892); F. Laurin, _Introductio in Corpus juris canonici_ ([[Freiburg]],
+  1889); Tardif, _Histoire des sources du [[Droit|droit]] canonique_ (Paris,
   1887). Most of the German manuals on canon law devote considerable
   space to the history of the sources: see Phillips, vol. ii (3rd ed.,
   1857; French translation by the abbe Crouzet); Vering, 3rd ed.
@@ -1295,15 +1295,15 @@ has been published.
   continuatio_, in 20 vols., going up to the fourth year of Gregory XVI.
   Every year, since 1854, has been printed a collection of pontifical
   acts, _Acta Pii IX., Acta Leonis XIII._, &c., which are the
-  equivalents of the _Bullarium_. Dictionaries: Durand de Maillane,
+  equivalents of the _Bullarium_. Dictionaries: [[Durand]] de Maillane,
   _Dictionnaire canonique_ (Paris, 1786), re-edited by Andre under the
   title, _Cours alphabetique et methodique de droit canonique_, and by
-  Wagner (Paris, 1894), has Gallican tendencies; Ferraris, _Prompta
+  Wagner (Paris, 1894), has Gallican tendencies; [[Ferrari|Ferraris]], _Prompta
   bibliotheca canonica_, &c., several new and enlarged editions; the
   best is that of Migne (1866), completed by Father Bucceroni, _Ferraris
   Supplementum_ (Rome, 1899). Articles on canon law in Wetzer und
   Welte's _Kirchenlexicon_ (2nd ed., Freiburg, 1880 et seq.); Hauck,
-  _Realencyklopadie fur prot. Theologie und Kirche_ (2nd ed., Leipzig,
+  _Realencyklopadie [[Fur|fur]] prot. Theologie und Kirche_ (2nd ed., Leipzig,
   1877-1888); Vacant-Mangenot's _Dictionnaire de theologie catholique_,
   in course of publication (Paris, 1899 et seq.). Periodicals: _Analecta
   juris pontificii_, ed. by Mgr. Chaillot (1863-1889); _Analecta
@@ -1319,10 +1319,10 @@ continental canon law recognized a quadripartite division of Church
 revenue of common right between (a) the bishop, (b) the clergy, (c) the
 poor, (d) the fabric--the English law maintained a tripartite
 division--(a) clergy, (b) the poor, (c) the fabric. Lord Selborne
-(_Ancient Facts and Fictions concerning Churches and Tithes_, 2nd ed.,
+(_Ancient Facts and [[Fictions]] concerning Churches and Tithes_, 2nd ed.,
 1892) denies that there was any division of tithe in England. (2) By the
-general canon law the burden of repairing the nave, as well as the
-chancel of the church, was upon the parson or rector who collected the
+general canon law the [[Burden|burden]] of repairing the nave, as well as the
+[[Chancel|chancel]] of the church, was upon the parson or rector who collected the
 whole tithe. But the custom of England transferred this burden to the
 parishioners, and some particular local customs (as in the city of
 London) placed even the burden of repair of the chancel on them. To meet
@@ -1335,7 +1335,7 @@ equally divided, correctly stated the English Canon law (_Reg._ v.
 _Millis_, 10 Cl. & Fin., 534) was in regard to the essentials of
 marriage. By the general Western canon law before the council of Trent,
 the parties themselves were said to be the "ministers of the Sacrament"
-in the case of holy matrimony. The declared consent of the parties to
+in the case of holy [[Matrimony|matrimony]]. The declared consent of the parties to
 take each other there and then constituted at once (although
 irregularly) holy matrimony. The presence of priest or witnesses was not
 necessary. In _Reg._ v. _Millis_, however, it was held that in England
@@ -1380,10 +1380,10 @@ the realm. To this doctrine express statutory authority (as the events
 have happened) has been given by 25 Hen. VIII. c. 19, sect. 7. A
 striking example of the doctrine is furnished by the decree of Innocent
 III. in the Fourth Lateran Council against pluralities. This decree was
-enforced in the court of Arches against a pluralist clerk in 1848
+enforced in the court of [[Arches]] against a pluralist clerk in 1848
 (_Burder_ v. _Mavor_, I Roberts, 614). The courts of common law from
 Lord Coke's time downwards have recognized this "constitution of the
-pope" (as the queen's bench called it in 1598). The exchequer chamber,
+pope" (as the queen's [[Bench|bench]] called it in 1598). The exchequer chamber,
 in 1837, declared it to have "become part of the common law of the land"
 (_Alstan_ v. _Atlay, 7 A._ and _E._ 289).
 
@@ -1403,7 +1403,7 @@ afterwards Pope Adrian V.) in 1269. Canons passed since 25 Hen. VIII. c.
 to give to previous canons, and do not necessarily bind the laity,
 although made under the king's licence and ratified by him. This
 doctrine laid down by Lord Hardwicke in _Middleton_ v. _Croft_ (2
-_Stra_. 1056) was approved in 1860 in _Marshall_ v. _Bp. of Exeter_
+_Stra_. 1056) was approved in 1860 in _[[Marshall]]_ v. _Bp. of Exeter_
 (L.R. 3 H.L. 17). Nevertheless, there are many provisions in these
 post-Reformation canons which are declaratory of the ancient usage and
 law of the Church, and the law which they thus record is binding on the
@@ -1411,9 +1411,9 @@ laity. The chief body of English post-Reformation canon law is to be
 found in the canons of 1603, amended in 1865 and 1888. The canons of
 1640 are apparently upon the same footing as those of 1603;
 notwithstanding objections made at the time that they were void because
-convocation continued to sit after the dissolution of parliament. The
+[[Convocation|convocation]] continued to sit after the dissolution of parliament. The
 opinion of all the judges taken at the time was in favour of the
-legality of this procedure. 13 Car. ii. c. 12 simply provided that these
+legality of this procedure. 13 [[Car]]. ii. c. 12 simply provided that these
 canons should not be given statutory force by the operation of that act.
 
 In addition to the enactment of canons (strictly so-called) the English
@@ -1503,7 +1503,7 @@ Synod has, from time to time, put forth other canons.
 The post-Reformation history of canon law in the Anglican communion in
 _Scotland_ has differed from the story of that law in the last four
 centuries in Ireland. After the legislation under William and Mary
-disestablishing episcopacy in Scotland and subjecting its professors to
+disestablishing [[Episcopacy|episcopacy]] in Scotland and subjecting its professors to
 civil penalties, little attention was given to canon law for many years.
 Synods of bishops at Edinburgh in 1724 and 1731 dealt with some disputed
 questions of ritual and ceremonial. In 1743 an assembly of five bishops
@@ -1529,8 +1529,8 @@ annual meeting of a purely episcopal synod, which was to receive appeals
 from either clergy or laity. In 1862-1863, another General Synod further
 revised and amended the Code of Canons. This revised code enabled the
 bishop to appoint a learned and discreet layman to act as his
-chancellor, to advise him in legal matters and be his assessor at
-diocesan synods. Assistant curates and mission priests were, under
+chancellor, to advise him in legal matters and be his [[Assessor|assessor]] at
+diocesan synods. Assistant [[Curate|curates]] and mission priests were, under
 certain restrictions, given seats in diocesan synods. Male communicants
 were also permitted to be present at such synods, with a deliberative
 but not "decisive" voice; unless in special circumstances the bishop
@@ -1550,7 +1550,7 @@ thereafter be called the Provincial Synod.
 The canon law in Scotland before the 16th century was generally that of
 the continent of Europe. The usages of the church were similar to those
 in France, and had not the insular character of those in England and
-Ireland. The canon law regulating marriage, legitimacy and succession
+Ireland. The canon law regulating marriage, [[Legitimacy|legitimacy]] and succession
 was taken over by the Scottish secular courts (see ECCLESIASTICAL
 JURISDICTION) and survived as part of the common law of the land almost
 unimpaired. Thus, the courts recognize marriages by _verba de
@@ -1585,7 +1585,7 @@ e.g. a very large portion of the canons of 1603 (Vinton, p. 32). In
 well as of bishops, assumed for itself and provided for its successors
 supreme legislative power. The concurrence of both "orders," clerical
 and lay, was required for the validity of any vote. Since 1853 a lay
-deputy to the Convention has been required to be a communicant (_ib._ p.
+[[Deputy|deputy]] to the Convention has been required to be a communicant (_ib._ p.
 102). Upon the American bishops numbering more than three, they became a
 separate "House" from the "Convention." The House of Bishops was given a
 right to propose measures to the "House of Deputies," and to negative
@@ -1593,14 +1593,14 @@ acts of the House of Deputies, provided they complied with certain
 forms. Similar "constitutions" providing for representation of the laity
 have been adopted by the different dioceses (Hoffman, _op. cit._ p. 184
 et seq.). Deacons are also admitted to a deciding voice in every diocese
-but New Jersey, where they may speak but not vote. A great body of
+but New [[Jersey]], where they may speak but not vote. A great body of
 legislation has been put forth by these bodies during the past century.
 
 Since 1870, at least, the "Church of the Province of _South Africa_" has
 secured autonomy while yet remaining a part of the Anglican Communion.
 By its constitution of that year the English Church in South Africa
 adopts the laws and usages of the Church of England, as far as they are
-applicable to an unestablished church, accepts the three creeds, the
+applicable to an unestablished church, accepts the three [[Creeds|creeds]], the
 Thirty-Nine Articles, the Book of Common Prayer, the decisions of the
 undisputed general councils, the Authorized English Version of the
 Scriptures, disclaims the right of altering any of these standards of
@@ -1624,7 +1624,7 @@ constitution and canons of the province. Canon 18 of the Code of 1870
 recognizes the offices of catechist, reader and sub-deacon (Wirgman,
 _The English Church and People in South Africa_, p. 223 et seq.).
 
-In the West Indies, Canada, Australia and New Zealand, provincial and
+In the West Indies, Canada, [[Australia]] and New Zealand, provincial and
 diocesan synods or conventions have been formed on one or other of the
 types above mentioned and have enacted canons.     (W. G. F. P.)
 
@@ -1633,7 +1633,7 @@ FOOTNOTES:
 
   [1] The councils which we are about to mention, up to the 9th
     century, have been published several times, notably in the great
-    collections of Hardouin, Mansi, &c.; they will be found brought
+    collections of [[Hardouin]], Mansi, &c.; they will be found brought
     together in one small volume in Bruns, _Canones apostolorum et
     conciliorum_ (Berlin, 1839).
 
@@ -1666,7 +1666,7 @@ FOOTNOTES:
   [9] L. Duchesne, "Le Concile d'Elvire" in the _Melanges Renier_.
 
   [10] For the Penitentials, see Wasserschleben, _Die Bussordnungen der
-    abendlandischen Kirche_ (Halle, 1851); Mgr. H.J. Schmitz, _Die
+    abendlandischen Kirche_ ([[Halle]], 1851); Mgr. H.J. Schmitz, _Die
     Bussbucher und die Bussdisciplin der Kirche_ (2 vols., Mainz, 1883,
     1898).
 
@@ -1684,7 +1684,7 @@ FOOTNOTES:
     francais et etranger_, vol. xxiii, note I.
 
   [14] The collection of the False Decretals has been published with a
-    long critical introduction by P. Hinschius, _Decretales
+    long critical introduction by P. [[Hinschius]], _Decretales
     Pseudo-Isidorianae et capitula Angilramni_ (Leipzig, 1863). For the
     rest of the bibliography, see DECRETALS (FALSE).
 
@@ -1726,7 +1726,7 @@ FOOTNOTES:
 
   [27] Edited by Schulte, _Die Summa des Paucapaiea_ (Giessen, 1890).
 
-  [28] Edited by Thaner, _Die Summa Magistri Rolandi_ (Innsbruck,
+  [28] Edited by Thaner, _Die Summa Magistri Rolandi_ ([[Innsbruck]],
     1874); later by Gietl, _Die Sentenzen Rolands_ (Freiburg im B.,
     1891).
 

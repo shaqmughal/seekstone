@@ -20,10 +20,10 @@ rose-coloured salts and a rose-coloured oxide. The oxide dissolves
 slowly in acids; it is not reduced by hydrogen and is infusible. The
 salts show a characteristic absorption spectrum.
 
-  See J.F. Bahr and R. Bunsen (_Ann._, 1866, 137, p. 1); A. v. Welsbach
+  See J.F. [[Bahr]] and R. [[Bunsen]] (_Ann._, 1866, 137, p. 1); A. v. Welsbach
   (_Monats._, 1883, 4, p. 641; 1884, 5, p. 508; 1885, 6, p. 477); P.T.
   Cleve (_Comptes rendus_, 1879, 89, p. 478; 1880, 91, pp. 328, 381;
-  1882, 95, p. 1225; _Bull. de la soc. chim._, 1874, 21, p. 196; 1883,
+  1882, 95, p. 1225; _[[Bull]]. de la soc. chim._, 1874, 21, p. 196; 1883,
   39, p. 287); C. Marignac (_Ann. Chim. phys._, 1849 [3] 27, p. 226); B.
   Brauner (_Monats._, 1882, 3, p. 13); W. Crookes (_Proc. Roy. Soc._,
   1886, 40, p. 502); Lecoq de Boisbaudran (_Comptes rendus_, 1886, 102,

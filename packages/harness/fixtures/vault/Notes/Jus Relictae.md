@@ -14,7 +14,7 @@ surviving, and to one-half where there are no surviving children. The
 widow's right vests by survivance, and is independent of the husband's
 testamentary provisions; it may however be renounced by contract, or be
 discharged by satisfaction. It is subject to alienation of the husband's
-movable estate during his lifetime or by its conversion into heritage.
+movable estate during his lifetime or by its [[Conversion|conversion]] into heritage.
 See also WILL.
 
 ## See also

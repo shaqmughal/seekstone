@@ -7,10 +7,10 @@ topic: naturalists-studies
 # Glenelg
 
 GLENELG, CHARLES GRANT, BARON (1778-1866), eldest son of Charles Grant
-(q.v.), chairman of the directors of the East India Company, was born in
+(q.v.), chairman of the directors of the [[East India Company]], was born in
 India on the 26th of October 1778, and was educated at Magdalene
-College, Cambridge, of which he became a fellow in 1802. Called to the
-bar in 1807, he was elected member of parliament for the Inverness
+College, Cambridge, of which he became a [[Fellow|fellow]] in 1802. Called to the
+bar in 1807, he was elected member of parliament for the [[Inverness]]
 burghs in 1807, and having gained some reputation as a speaker in the
 House of Commons, he was made a lord of the treasury in December 1813,
 an office which he held until August 1819, when he became secretary to
@@ -23,13 +23,13 @@ board of control Grant was primarily responsible for the act of 1833,
 which altered the constitution of the government of India. In April 1835
 he became secretary for war and the colonies, and was created Baron
 Glenelg. His term of office was a stormy one. His differences with Sir
-Benjamin d'Urban (q.v.), governor of Cape Colony, were serious; but more
+[[Benjamin]] [[D'Urban|d'Urban]] (q.v.), governor of Cape Colony, were serious; but more
 so were those with King William IV. and others over the administration
 of Canada. He was still secretary when the Canadian rebellion broke out
 in 1837; his wavering and feeble policy was fiercely attacked in
 parliament; he became involved in disputes with the earl of Durham, and
 the movement for his supercession found supporters even among his
-colleagues in the cabinet. In February 1839 he resigned, receiving
+colleagues in the [[Cabinet|cabinet]]. In February 1839 he resigned, receiving
 consolation in the shape of a pension of L2000 a year. From 1818 until
 he was made a peer Grant represented the county of Inverness in
 parliament, and he has been called "the last of the Canningites." Living

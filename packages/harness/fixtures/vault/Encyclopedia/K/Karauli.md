@@ -16,13 +16,13 @@ south-east boundary of the state. Iron ore and building stone comprise
 the mineral resources. The prevailing agricultural products are millets,
 which form the staple food of the people. The only manufactures consist
 of a little weaving, dyeing, wood-turning and stone-cutting. The
-principal imports are piece goods, salt, sugar, cotton, buffaloes and
-bullocks; the exports rice and goats. The feudal aristocracy of the
+principal imports are piece goods, salt, sugar, cotton, [[Buffalo|buffaloes]] and
+[[Bullock|bullocks]]; the exports rice and goats. The feudal [[Aristocracy|aristocracy]] of the
 state consists of Jadu Rajputs connected with the ruling house. They pay
 a tribute in lieu of constant military service, but in case of emergency
 or on occasions of state display they are bound to attend on the chief
-with their retainers. The maharaja is the head of the clan, which claims
-descent from Krishna. Maharaja Bhanwar Pal Deo, who was born in 1862 and
+with their retainers. The maharaja is the head of the [[Clan|clan]], which claims
+descent from [[Krishna]]. Maharaja Bhanwar Pal Deo, who was born in 1862 and
 succeeded in 1866, was appointed G.C.I.E. in 1897, on the occasion of
 Queen Victoria's diamond jubilee.
 

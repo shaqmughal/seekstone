@@ -13,12 +13,12 @@ It has a Roman Catholic and three Evangelical churches, and among other
 principal buildings are the Schloss built in the 12th century, and long
 a residence of the margraves of Meissen and the electors of Saxony; the
 town-hall, dating from 1442, and the famous school Furstenschule
-(_Illustre Moldanum_), erected by the elector Maurice on the site of the
+(_Illustre Moldanum_), erected by the elector [[Maurice]] on the site of the
 former Augustinian monastery in 1550, having provision for 104 free
 scholars and a library numbering 10,000 volumes. There are also a modern
 school, a teachers' seminary, a commercial school and a school of
-brewing. Among the industries of the town are ironfounding, machine
-building and dyeworks, while paper and gloves are manufactured there.
+brewing. Among the industries of the town are ironfounding, [[Machine|machine]]
+building and dyeworks, while paper and [[Glove|gloves]] are manufactured there.
 Gardening and agriculture generally are also important branches of
 industry. In the immediate neighbourhood are the ruins of the Cistercian
 nunnery from which Catherine von Bora fled in 1523, and the village of

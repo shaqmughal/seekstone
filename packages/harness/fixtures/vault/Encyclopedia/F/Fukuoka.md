@@ -7,7 +7,7 @@ type: reference
 
 # Fukuoka
 
-FUKUOKA, a town on the north-west coast of the island of Kiushiu, Japan,
+FUKUOKA, a town on the north-west coast of the island of Kiushiu, [[Japan]],
 in the province of Chikuzen, 90 m. N.N.E. of Nagasaki by rail. Pop.
 about 72,000. With Hakata, on the opposite side of a small coast stream,
 it forms a large centre of population, with an increasing export trade

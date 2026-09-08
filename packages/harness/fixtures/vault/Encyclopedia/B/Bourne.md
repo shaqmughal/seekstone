@@ -21,8 +21,8 @@ that did not belong to him. The Latin poems are remarkable not only for
 perfect mastery of all linguistic niceties, but for graceful expression
 and genuine poetic feeling. A number of them are translations of English
 poems, and it is not too much to say that the Latin versions almost
-invariably surpass the originals. Cowper, an old pupil of Bourne's,
-Beattie and Lamb have combined in praise of his wonderful power of Latin
+invariably surpass the originals. [[Cowper]], an old pupil of Bourne's,
+Beattie and [[Lamb]] have combined in praise of his wonderful power of Latin
 versification.
 
   See an edition (1840) of his _Poemata_, with a memoir by John Mitford.

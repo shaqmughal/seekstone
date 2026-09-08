@@ -4,7 +4,7 @@ LEOPARD,[1] PARD or PANTHER (_Felis pardus_), the largest spotted true
 cat of the Old World, with the exception of the snow-leopard, which is,
 however, inferior in point of size to the largest leopard. (See
 CARNIVORA and SNOW-LEOPARD.) Leopards, known in India as _cheeta_
-(_chita_), are characterized by the rosette-like form of the black spots
+(_[[Chita|chita]]_), are characterized by the rosette-like form of the black spots
 on the greater part of the body, and the absence of a central spot from
 each rosette. Towards the head and on the limbs the spots tend to become
 solid, but there is great local variation in regard to their form and
@@ -19,8 +19,8 @@ darker-coloured than those from the east side of the continent.
 
 Both as regards structure and habits, the leopard may be reckoned as one
 of the more typical representatives of the genus _Felis_, belonging to
-that section in which the hyoid bone is loosely connected with the
-skull, owing to imperfect ossification of its anterior arch, and the
+that section in which the hyoid [[Bone|bone]] is loosely connected with the
+skull, owing to imperfect ossification of its anterior [[Arch|arch]], and the
 pupil of the eye when contracted under the influence of light is
 circular, not linear as in the smaller cats.
 
@@ -28,14 +28,14 @@ The size of leopards varies greatly, the head and body usually measuring
 from 3½ to 4½ ft. in length, and the tail from 2½ to 3 ft., but some
 specimens exceed these limits, while the Somali leopard (_F. p.
 nanopardus_) falls considerably short of them. The ground-colour of the
-fur varies from a pale fawn to a rufous buff, graduating in the Indian
+[[Fur|fur]] varies from a pale fawn to a rufous [[Buff|buff]], graduating in the Indian
 race into pure white on the under-parts and inside of the limbs.
 Generally speaking, the spots on the under parts and limbs are simple
 and blacker than those on the other parts of the body. The bases of the
-ears behind are black, the tips buff. The upper side of the tail is
+[[Ear|ears]] behind are black, the tips buff. The upper side of the tail is
 buff, spotted with broken rings like the back, its under surface white
 with simple spots. The hair of the cubs is longer than that of the
-adults, its ground-colour less bright, and its spots less distinct.
+adults, its ground-colour less [[Bright|bright]], and its spots less distinct.
 Perfectly black leopards, which in certain lights show the
 characteristic markings on the fur, are not uncommon, and are examples
 of _melanism_, occurring as individual variations, sometimes in one cub
@@ -52,8 +52,8 @@ yielding to none in the ferocity of its disposition. It is exceedingly
 quick in its movements, but seizes its prey by waiting in ambush or
 stealthily approaching to within springing distance, when it suddenly
 rushes upon it and tears it to ground with its powerful claws and teeth.
-It preys upon almost any animal it can overcome, such as antelopes,
-deer, sheep, goats, monkeys, peafowl, and has a special liking for dogs.
+It preys upon almost any animal it can overcome, such as [[Antelope|antelopes]],
+deer, sheep, goats, monkeys, peafowl, and has a special liking for [[Dogs|dogs]].
 It not unfrequently attacks human beings in India, chiefly children and
 old women, but instances have been known of a leopard becoming a regular
 "man-eater." When favourable opportunities occur, it often kills many
@@ -64,8 +64,8 @@ when hunted, but usually lives on or near the ground, among rocks,
 bushes and roots and low branches of large trees.
 
 The geographical range of the leopard embraces practically all Africa,
-and Asia from Palestine to China and Manchuria, inclusive of Ceylon and
-the great Malay Islands as far as Java. Fossil bones and teeth,
+and Asia from Palestine to China and [[Manchuria]], inclusive of Ceylon and
+the great Malay Islands as far as [[Java]]. Fossil bones and teeth,
 indistinguishable from those of existing leopards, have been found in
 cave-deposits of Pleistocene age in Spain, France, Germany and England.
      (R. L.*; W. H. F.)

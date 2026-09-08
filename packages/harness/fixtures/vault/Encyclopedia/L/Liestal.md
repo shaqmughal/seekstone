@@ -11,7 +11,7 @@ tags: [engineering, philosophy]
 LIESTAL, the capital (since 1833) of the half canton of Basel-Stadt in
 Switzerland. It is a well-built but uninteresting industrial town,
 situated on the left bank of the Ergolz stream, and is the most populous
-town in the entire canton of Basel, after Basel itself. By rail it is 9¼
+town in the entire canton of [[Basel]], after Basel itself. By rail it is 9¼
 m. S.E. of Basel, and 15¾ m. N.W. of Olten. In the 15th-century town
 hall (_Rathaus_) is preserved the golden drinking cup of Charles the
 Bold, duke of Burgundy, which was taken at the battle of Nancy in 1477.

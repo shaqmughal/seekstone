@@ -23,8 +23,8 @@ infantry of the army of England in 1798. In 1800 he was sent as
 ambassador to Berlin, in 1802 to Madrid. Napoleon made him a senator and
 count of the empire. In 1814 he was a member of the provisional
 government organized after the abdication of Napoleon, and was created a
-peer of France. During the Hundred Days he followed Louis XVIII. to
-Ghent, and after the second restoration was made marquis and marshal of
+peer of France. During the [[Hundred Days]] he followed Louis XVIII. to
+[[Ghent]], and after the second restoration was made marquis and marshal of
 France.
 
   See A. Chaquet, _Les Guerres de la Revolution_ (Paris, 1886).

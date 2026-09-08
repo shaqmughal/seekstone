@@ -1,17 +1,17 @@
 # Machault D'Arnouville
 
-MACHAULT D'ARNOUVILLE, JEAN BAPTISTE DE (1701-1794), French statesman,
+MACHAULT D'ARNOUVILLE, JEAN [[Baptiste|BAPTISTE]] DE (1701-1794), French statesman,
 was a son of Louis Charles Machault d'Arnouville, lieutenant of police.
 In 1721 he was counsel to the parlement of Paris, in 1728 _maître des
 requêtes_, and ten years later was made president of the Great Council;
 although he had opposed the court in the _Unigenitus_ dispute, he was
-appointed intendant of Hainaut in 1743. From this position, through the
+appointed [[Intendant|intendant]] of Hainaut in 1743. From this position, through the
 influence at court of his old friend René Louis, Marquis d'Argenson, he
 was called to succeed Orry de Fulvy as controller-general of the
 finances in December 1745. He found, on taking office, that in the four
 years of the War of the Austrian Succession the economies of Cardinal
-Fleury had been exhausted, and he was forced to develop the system of
-borrowings which was bringing French finances to bankruptcy. He
+[[Fleury]] had been exhausted, and he was forced to develop the system of
+borrowings which was bringing French finances to [[Bankruptcy|bankruptcy]]. He
 attempted in 1749 a reform in the levying of direct taxes, which, if
 carried out, would have done much to prevent the later Revolutionary
 movement. He proposed to abolish the old tax of a tenth, which was

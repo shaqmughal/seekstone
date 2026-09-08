@@ -1,9 +1,9 @@
 # Hartford City
 
-HARTFORD CITY, a city and the county-seat of Blackford county, Indiana,
+HARTFORD CITY, a city and the county-seat of Blackford county, [[Indiana]],
 U.S.A., 62 m. N.E. of Indianapolis. Pop. (1890) 2287; (1900) 5912 (572
 foreign-born); (1910) 6187. The city is served by the Fort Wayne,
-Cincinnati & Louisville, and the Pittsburg, Cincinnati, Chicago & St
+Cincinnati & Louisville, and the Pittsburg, Cincinnati, [[Chicago]] & St
 Louis railways, and the Indiana Union Traction line (electric). There
 are oil and natural gas wells in the vicinity, and the city has pulp and
 paper mills, glass and tile works, and manufactories of woodenware, and

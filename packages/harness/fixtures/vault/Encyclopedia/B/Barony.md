@@ -12,7 +12,7 @@ into "baronies," which are equivalent to the "hundreds" (_q.v._) in
 England, and seem to have been formed out of the territories of the Irish
 chiefs, as each submitted to English rule (General Report of the Census of
 England, iv. 181, 1873). In Scotland the term is applied to any large
-freehold estate even when held by a commoner. Barony also denotes the rank
+[[Freehold|freehold]] estate even when held by a commoner. Barony also denotes the rank
 or dignity of a baron, and the feudal tenure "by barony."
 
 ## See also

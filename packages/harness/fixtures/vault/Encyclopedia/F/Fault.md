@@ -22,7 +22,7 @@ side are bent up (fig. 2). Most commonly the rocks on both sides are
 considerably broken, jumbled and crumpled, so that the line of fracture
 is marked by a belt or wall-like mass of fragmentary rock, _fault-rock_,
 which may be several yards in breadth. Faults are to be distinguished
-from joints and fissures by the fact that there must have been a
+from [[Joints|joints]] and fissures by the fact that there must have been a
 movement of the rock on one side of the fault-plane relatively to that
 on the other side. The trace of a fault-plane at the surface of the
 earth is a line (or belt of fault-rock), which in geological mapping is
@@ -36,12 +36,12 @@ the main fault may be accompanied by lateral subordinate faults (fig.
 
 [Illustration: FIG. 4.--Plan of a fault splitting into minor faults.]
 
-"Fault-planes" are sometimes perpendicular to the horizon, but more
+"Fault-planes" are sometimes perpendicular to the [[Horizon|horizon]], but more
 usually they are inclined at a greater or lesser angle. The angle made
 by the fault-plane with the vertical is the _hade_ of the fault (if the
 angle of inclination were measured from the horizon, as in determining
 the "dip" of strata, this would be expressed as the "dip of the fault").
-In figs. 1 and 2 the faults are hading towards the right of the reader.
+In figs. 1 and 2 the faults are [[Hading|hading]] towards the right of the reader.
 The amount of dislocation as measured along a fault-plane is the
 _displacement_ of the fault (for an illustration of these terms see fig.
 18, where they are applied to a thrust fault); the vertical displacement
@@ -64,7 +64,7 @@ the "foot-wall."
 [Illustration: FIG. 7.--Reversed fault, Liddesdale.]
 
 The relationship that exists between the hade and the direction of throw
-has led to the classification of faults into "normal faults," which hade
+has led to the [[Classification|classification]] of faults into "normal faults," which hade
 under the downthrow side, or in other words, those in which the
 hanging-wall has dropped; and "reversed faults," which hade beneath the
 upthrow side, that is to say, the foot-wall exhibits a relative sinking.
@@ -101,7 +101,7 @@ fault, with alternate throw in opposite directions.]
 
 [Illustration: FIG. 11.--Plan of a strike fault.]
 
-A broad monoclinal fold is sometimes observed to pass into a fault of
+A broad monoclinal [[Fold|fold]] is sometimes observed to pass into a fault of
 gradually increasing throw; such a fault is occasionally regarded as
 pivoted at one end. Again, a faulted mass may be on the downthrow side
 towards one end, and on the upthrow side towards the other, the movement
@@ -142,11 +142,11 @@ cause beds to be cut out at the surface on the upthrow side; if it hades
 against the dip direction it may repeat some of the beds on the upthrow
 side (figs. 11 and 12). With dip faults the crop is carried forward
 (down the dip) on the upthrow side. The perpendicular distance between
-the crop of the bed (dike or vein) on opposite sides of the fault is the
+the crop of the bed ([[Dike|dike]] or vein) on opposite sides of the fault is the
 "offset." The offset decreases with increasing angle of dip and
 increases with increase in the throw of the fault (fig. 13). Faults
 which run obliquely across the direction of dip, if they hade with the
-dip of the strata, will produce offset with "gap" between the outcrops;
+dip of the strata, will produce offset with "[[Gap|gap]]" between the outcrops;
 if they hade in the opposite direction to the dip, offset with "overlap"
 is caused: in the latter case the crop moves forward (down dip) on the
 denuded upthrow side, in the former it moves backward. The effect of a
@@ -160,20 +160,20 @@ reduced by denudation as to leave no sharp upstanding ridge; but
 examples are known where the upthrown side still exists as a prominent
 cliff-like face of rock, a "fault-scarp"; familiar instances occur in
 the Basin ranges of Utah, Nevada, &c., and many smaller examples have
-been observed in the areas affected by recent earthquakes in Japan, San
+been observed in the areas affected by recent earthquakes in [[Japan]], San
 Francisco and other places. But although there may be no sharp cliff,
 the effect of faulting upon topographic forms is abundantly evident
 wherever a harder series of strata has been brought in juxtaposition to
 softer rocks. By certain French writers, the upstanding side of a
 faulted piece of ground is said to have a _regard_, thus the faults of
-the Jura Mountains have a "_regard francais_," and in the same region it
+the [[Jura]] Mountains have a "_regard francais_," and in the same region it
 has been observed that in curved faults the convexity is directed the
 same way as the _regard_. Occasionally one or more parallel faults have
 let down an intervening strip of rock, thereby forming "fault valleys"
 or _Graben_ (_Grabensenken_); the Great Rift Valley is a striking
 example. On the other hand, a large area of rock is sometimes lifted up,
 or surrounded by a system of faults, which have let down the encircling
-ground; such a fault-block is known also as a _horst_; a considerable
+ground; such a fault-block is known also as a _[[Horst|horst]]_; a considerable
 area of Greenland stands up in this manner.
 
 [Illustration: FIG. 15.--Plan of an anticline (A) and syncline (S),
@@ -214,16 +214,16 @@ highlands, the western Alps, the Appalachians, the Belgian coal region,
 almost horizontally over underlying rocks, in some cases for several
 miles. One of the largest of the Scandinavian thrust masses is 1120 m.
 long, 80 m. broad, and 5000 ft. thick. In Scotland three grades of
-thrusts are recognized, maximum, major, and minor thrusts; the last have
+thrusts are recognized, maximum, [[Major|major]], and minor thrusts; the last have
 very generally been truncated by those of greater magnitude. Some of
 these great thrusts have received distinguishing names, e.g. the Moine
-thrust (fig. 19) and the Ben More thrust; similarly in the coal basin of
+thrust (fig. 19) and the [[Ben]] More thrust; similarly in the coal basin of
 Mons and Valenciennes we find the _faille de Boussu_ and the _Grande
 faille du midi_. Overturned folds are frequently seen passing into
 thrusts. Bayley Willis has classified thrusts as (1) Shear thrusts, (2)
 Break thrusts, (3) Stretch thrusts, and (4) Erosion thrusts.
 
-Dr J.E. Marr ("Notes on the Geology of the English Lake District,"
+Dr J.E. Marr ("Notes on the Geology of the English [[Lake District]],"
 _Proc. Geol. Assoc._, 1900) has described a type of fault which may be
 regarded as the converse of a thrust fault. If we consider a series of
 rock masses A, B, C--of which A is the oldest and undermost--undergoing
@@ -246,12 +246,12 @@ scrutiny, and there is room for extended observation and research. The
 sudden yielding of the strata along a plane of faulting is a familiar
 cause of earthquakes.
 
-  See E. de Margerie and A. Heim, _Les Dislocations de l'ecorce
+  See E. de Margerie and A. [[Heim]], _Les Dislocations de l'ecorce
   terrestre_ (Zurich, 1888); A. Rothpletz, _Geotektonische Probleme_
   (Stuttgart, 1894); B. Willis, "The Mechanics of Appalachian
   Structure," _13th Ann. Rep. U.S. Geol. Survey_ (1891-1892, pub. 1893).
   A prolonged discussion of the subject is given in _Economic Geology_,
-  Lancaster, Pa., U.S.A., vols. i. and ii. (1906, 1907).
+  [[Lancaster]], Pa., U.S.A., vols. i. and ii. (1906, 1907).
        (A. Ge.; J. A. H.)
 
 

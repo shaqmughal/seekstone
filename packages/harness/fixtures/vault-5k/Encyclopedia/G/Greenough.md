@@ -8,9 +8,9 @@ type: source
 # Greenough
 
 GREENOUGH, JAMES BRADSTREET (1833-1901), American classical scholar, was
-born in Portland, Maine, on the 4th of May 1833. He graduated at Harvard
+born in Portland, [[Maine]], on the 4th of May 1833. He graduated at Harvard
 in 1856, studied one year at the Harvard Law School, was admitted to the
-Michigan bar, and practised in Marshall, Michigan, until 1865, when he
+Michigan bar, and practised in [[Marshall]], Michigan, until 1865, when he
 was appointed tutor in Latin at Harvard. In 1873 he became assistant
 professor, and in 1883 professor of Latin, a post which he resigned
 hardly six weeks before his death at Cambridge, Massachusetts, on the
@@ -23,7 +23,7 @@ Optativs in Sanskrit und Griechischen_ (1871), which, however, quite
 overshadowed the Analysis. In 1872 appeared _A Latin Grammar for Schools
 and Colleges, founded on Comparative Grammar_, by Joseph A. Allen and
 James B. Greenough, a work of great critical carefulness. His theory of
-_cum_-constructions is that adopted and developed by William Gardner
+_cum_-constructions is that adopted and developed by William [[Gardner]]
 Hale. In 1872-1880 Greenough offered the first courses in Sanskrit and
 comparative philology given at Harvard. His fine abilities for advanced
 scholarship were used outside the classroom in editing the Allen and
@@ -36,10 +36,10 @@ He assisted largely in the founding of Radcliffe College. An able
 English scholar and an excellent etymologist, he collaborated with
 Professor George L. Kittredge on _Words and their Ways in English
 Speech_ (1901), one of the best books on the subject in the language. He
-wrote clever light verse, including _The Blackbirds_, a comedietta,
+wrote [[Clever|clever]] light verse, including _The Blackbirds_, a comedietta,
 first published in _The Atlantic Monthly_ (vol. xxxix. 1877); _The Rose
 and the Ring_ (1880), a pantomime adapted from Thackeray; _The Queen of
-Hearts_ (1885), a dramatic fantasia; and _Old King Cole_ (1889), an
+Hearts_ (1885), a dramatic [[Fantasia|fantasia]]; and _Old King Cole_ (1889), an
 operetta.
 
   See the sketch by George L. Kittredge in _Harvard Studies in Classical

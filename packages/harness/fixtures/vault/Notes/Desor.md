@@ -1,12 +1,12 @@
 # Desor
 
 DESOR, PIERRE JEAN ÉDOUARD (1811-1882), Swiss geologist, was born at
-Friedrichsdorf, near Frankfort-on-Main, on the 13th of February 1811.
+[[Friedrichsdorf]], near [[Frankfort-On-Main|Frankfort-on-Main]], on the 13th of February 1811.
 Associated in early years with Agassiz he studied palaeontology and
 glacial phenomena, and in company with J. D. Forbes ascended the
-Jungfrau in 1841. Desor afterwards became professor of geology in the
+[[Jungfrau]] in 1841. Desor afterwards became professor of geology in the
 academy at Neuchâtel, continued his studies on the structure of
-glaciers, but gave special attention to the study of Jurassic
+glaciers, but gave special attention to the study of [[Jurassic]]
 Echinoderms. He also investigated the old lake-habitations of
 Switzerland, and made important observations on the physical features of
 the Sahara. Having inherited considerable property he retired to Combe

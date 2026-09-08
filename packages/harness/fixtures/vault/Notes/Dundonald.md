@@ -19,19 +19,19 @@ impoverished owing to his losses over these schemes, but still possessed
 a good deal of interest. By the help of friends Thomas was provided with
 a commission in an infantry regiment, and at the same time put on the
 books of a man-of-war by his uncle, Captain A.F.I. Cochrane
-(1758-1832), while still a boy. He finally chose the navy, and went to
+(1758-1832), while still a boy. He finally [[Chose|chose]] the navy, and went to
 sea in his uncle's ship, the "Hind," in 1793. He could already count
 nearly five years' nominal service, an example of those naval abuses
 which he was to denounce (and to profit by) during a large part of his
 career. His promotion was rapid. He became a lieutenant in 1796. While
 in that rank he was led by his self-assertive temper into a quarrel with
 his superior, Lieutenant Philip Beaver (1766-1813), for which he was
-sent before a court-martial. A warning to avoid flippancy in future was,
+sent before a [[Court-Martial|court-martial]]. A warning to avoid flippancy in future was,
 however, the worst that happened to him.
 
 In 1800 he was appointed to the command of the "Speedy" brig, a small
 vessel in which he gained a great and deserved reputation as a daring
-and skilful officer. His capture of the Spanish frigate "El Gamo" (32)
+and skilful officer. His capture of the Spanish [[Frigate|frigate]] "El Gamo" (32)
 on the 6th of May 1801 was indeed a feat of unparalleled audacity. His
 promotion to post rank followed on the 8th of August. Though he was apt
 to represent himself as disliked and neglected by the admiralty, and was
@@ -39,7 +39,7 @@ frequently insolent towards his superiors, he was, as a matter of fact,
 pretty constantly employed, and he more than justified his appointments
 by his activity and success as captain of the "Pallas" (32) and
 "Impérieuse" (38) on the ocean and in the Mediterranean. Unfortunately
-for himself he secured his return to parliament as member for Honiton in
+for himself he secured his return to parliament as member for [[Honiton]] in
 1806 and for Westminster in 1807. In the House of Commons he soon made
 his mark as a radical, and as a denouncer of naval abuses. But his views
 did not prevent him from profiting to the utmost by one very bad abuse,
@@ -49,7 +49,7 @@ radical opinions he made a furious attack on the admiralty for the new
 prize money regulations which diminished the shares of the captains to
 the advantage of the men. In April 1809 he was engaged in the attack on
 the French squadron in the Basque Roads, which was very ill conducted by
-Lord Gambier. The conduct of Lord Cochrane, as he was called till the
+Lord [[Gambier]]. The conduct of Lord Cochrane, as he was called till the
 death of his father, was brilliant and was rewarded by the order of the
 Bath, but his aggressive temper led him into making attacks on the
 admiral which necessitated a court-martial on Gambier. The admiral was
@@ -58,10 +58,10 @@ admiralty. He was not employed again till 1813, when he was named to the
 command of the "Tonnant," which was ordered for service as flagship on
 the coast of America. In the interval he was restlessly active in
 parliament in denouncing naval abuses, and was also, most disastrously
-for himself, led into speculations on the Stock Exchange, by which he
+for himself, led into speculations on the Stock [[Exchange]], by which he
 was brought at the beginning of 1814 into pressing danger of total ruin.
 
-At this moment a notorious fraud was perpetrated on the Stock Exchange
+At this moment a notorious [[Fraud|fraud]] was perpetrated on the Stock Exchange
 by an uncle of his and by other persons with whom he habitually acted in
 his speculations. Lord Cochrane was brought to trial with the others
 before Lord Ellenborough on the 8th of June 1814 and all were condemned.
@@ -78,7 +78,7 @@ In 1817 he accepted the invitation of the Chileans, who were then in
 revolt against Spain, to take command of their naval forces, and
 remaining in their service until 1822 contributed largely to their
 success. His capture of the Spanish frigate "Esmeralda" (40) in the
-harbour of Callao, on the 5th of November 1820, was an achievement of
+harbour of [[Callao]], on the 5th of November 1820, was an achievement of
 signal daring. In 1823 he transferred his services to Brazil, where he
 helped the emperor Dom Pedro I. to shake off the yoke of Portugal; but
 by the end of 1825 he had fallen out with the Brazilians, and he
@@ -92,7 +92,7 @@ anxious, or to secure the arrears of pay he claimed.[1] He was restored
 to his place in the order of the Bath in 1847. In 1848 he was appointed
 to the command of the North American and West India station, which he
 retained till 1851. At various periods of his life he occupied himself
-with scientific invention. He took out patents for lamps to burn oil of
+with scientific invention. He took out patents for [[Lamp|lamps]] to [[Burn|burn]] oil of
 tar, for the propulsion of ships at sea, for facilitating excavation,
 mining and sinking, for rotary steam-engines and for other purposes; and
 so early as 1843 he was an advocate of the employment of steam and the
@@ -112,10 +112,10 @@ misfortunes.
 
 He was succeeded in the title by his son Thomas as 11th earl (d. 1885),
 and the latter by his son Douglas (b. 1852) as 12th earl, a
-distinguished cavalry officer who became a lieutenant-general in 1907.
+distinguished [[Cavalry|cavalry]] officer who became a lieutenant-general in 1907.
 
   The 10th earl's _Autobiography of a Seaman_ (2 vols., 1860-1861), the
-  main source for his _Life_ (1869, by his son and heir), is written
+  main source for his _Life_ (1869, by his son and [[Heir|heir]]), is written
   with spirit, but it was composed at the end of his career when his
   memory was failing, and was chiefly executed by others. He also wrote
   _Notes on the Mineralogy, Government and Condition of the British West

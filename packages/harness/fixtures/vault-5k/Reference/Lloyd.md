@@ -10,20 +10,20 @@ and literature. He died in London on the 22nd of December 1893. The work
 by which he is best known is _The Age of Pericles_ (1875), characterized
 by soundness of scholarship, great learning, and a thorough appreciation
 of the period with which it deals, but rendered unattractive by a
-difficult and at times obscure style. He wrote also: _Xanthian Marbles_
+difficult and at times obscure style. He wrote also: _Xanthian [[Marbles]]_
 (1845); _Critical Essays upon Shakespeare's Plays_ (1875); _Christianity
-in the Cartoons_ [of Raphael] (1865), which excited considerable
+in the [[Cartoon|Cartoons]]_ [of Raphael] (1865), which excited considerable
 attention from the manner in which theological questions were discussed;
 _The History of Sicily to the Athenian War_ (1872); _Panics and their
 Panaceas_ (1869); an edition of _Much Ado about Nothing_, "now first
 published in fully recovered metrical form" (1884; the author held that
-all the plays were originally written in blank verse). A number of
-manuscripts still remain unpublished, the most important of which have
+all the plays were originally written in [[Blank|blank]] verse). A number of
+[[Manuscript|manuscripts]] still remain unpublished, the most important of which have
 been bequeathed to the British Museum, amongst them being: _A Further
 History of Greece_; _The Century of Michael Angelo_; _The
 Neo-Platonists_.
 
-  See Memoir by Sophia Beale prefixed to Lloyd's (posthumously
+  See Memoir by Sophia Beale prefixed to [[Lloyd'S|Lloyd's]] (posthumously
   published) _Elijah Fenton: his Poetry and Friends_ (1894), containing
   a list of published and unpublished works.
 

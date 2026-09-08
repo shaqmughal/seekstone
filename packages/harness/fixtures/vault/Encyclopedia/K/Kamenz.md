@@ -1,10 +1,10 @@
 # Kamenz
 
 KAMENZ, a town in the kingdom of Saxony, on the Black Elster, 21 m. N.E.
-of Dresden, on a branch line of railway from Bischofswerda. Pop. (1900),
+of [[Dresden]], on a branch line of railway from Bischofswerda. Pop. (1900),
 9726. It has four Evangelical churches, among them a Wendish one, and a
 handsome new town-hall with a library. The hospital is dedicated to the
-memory of Lessing, who was born here. A colossal bust of the poet was
+memory of [[Lessing]], who was born here. A colossal bust of the poet was
 placed opposite the Wendish church in 1863, and a monument was raised to
 him on a neighbouring hill in 1864. The industries of Kamenz include
 wool-spinning, and the manufacture of cloth, glass, crockery and

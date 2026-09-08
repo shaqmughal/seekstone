@@ -1,7 +1,7 @@
 # Fregellae
 
-FREGELLAE, an ancient town of Latium adiectum, situated on the Via
-Latina, 11 m. W.N.W. of Aquinum, near the left branch of the Liris. It
+FREGELLAE, an ancient town of [[Latium]] adiectum, situated on the Via
+Latina, 11 m. W.N.W. of Aquinum, near the left branch of the [[Liri|Liris]]. It
 is said to have belonged in early times to the Opici or Oscans, and
 later to the Volscians. It was apparently destroyed by the Samnites a
 little before 330 B.C., in which year the people of Fabrateria Vetus

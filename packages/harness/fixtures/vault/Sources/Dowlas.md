@@ -2,7 +2,7 @@
 
 DOWLAS, the name given to a plain cloth, similar to sheeting, but
 usually coarser. It is made in several qualities, from line warp and
-weft to two warp and weft, and is used chiefly for aprons, pocketing,
+weft to two warp and weft, and is used chiefly for [[Apron|aprons]], pocketing,
 soldiers' gaiters, linings and overalls. The finer makes are sometimes
 made into shirts for workmen, and occasionally used for heavy
 pillow-cases. The word is spelt in many different ways, but the above is

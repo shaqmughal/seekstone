@@ -12,7 +12,7 @@ FREE PORTS, a term, strictly speaking, given to localities where no
 customs duties are levied, and where no customs supervision exists. In
 these ports (subject to payment for specific services rendered,
 wharfage, storage, &c., and to the observance of local police and
-sanitary regulations) ships load and unload, cargoes are deposited and
+sanitary regulations) ships load and unload, [[Cargo|cargoes]] are deposited and
 handled, industries are exercised, manufactures are carried on, goods
 are bought and sold, without any action on the part of fiscal
 authorities. Ports are likewise designated "free" where a space or zone
@@ -20,13 +20,13 @@ exists within which commercial operations are conducted without payment
 of import or export duty, and without active interference on the part of
 customs authorities. The French and German designations for these two
 descriptions of ports are--for the former _La Ville franche, Freihafen_;
-for the latter _Le Port franc, Freibezirk_ or _Freilager_. The English
+for the latter _Le Port [[Franc|franc]], Freibezirk_ or _Freilager_. The English
 phrase free port applies to both.[1] The leading conditions under which
 free ports in Europe derived their origin were as follows:--(1) When
 public order became re-established during the middle ages, trading
 centres were gradually formed. Marts for the exchange and purchase of
 goods arose in different localities. Many Italian settlements,
-constituting free zones, were established in the Levant. The Hanseatic
+constituting free zones, were established in the [[Levant]]. The Hanseatic
 towns arose in the 12th century. Great fairs became recognized--the
 Leipzig charter was granted in 1268. These localities were free as
 regards customs duties, although dues of the nature of octroi charges
@@ -34,7 +34,7 @@ were often levied. (2) Until the 19th century European states were
 numerous, and often of small size. Accordingly uniform customs tariffs
 of wide application did not exist. Uniform rates of duty were fixed In
 England by the Subsidy Act of 1660. In France, before the Revolution
-(besides the free ports), Alsace and the Lorraine Bishoprics were in
+(besides the free ports), Alsace and the [[Lorraine]] Bishoprics were in
 trade matters treated as foreign countries. The unification of the
 German customs tariff began in 1834 with the Steuerverein and the
 Zollverein. The Spanish fiscal system did not include the Basque
@@ -42,7 +42,7 @@ provinces until about 1850. The uniform Italian tariff dates from 1861.
 Thus until very recent times on the Continent free ports were compatible
 with the fiscal policy and practice of different countries. (3) Along
 the Mediterranean coast, up to the 19th century, convenient shelter was
-needed from corsairs. In other continental countries the prevalent
+needed from [[Corsair|corsairs]]. In other continental countries the prevalent
 colonial and mercantile policy sought to create trans-oceanic trade.
 Free ports were advantageous from all these points of view.
 
@@ -55,14 +55,14 @@ Free ports were advantageous from all these points of view.
   _Austria-Hungary._--Fiume and Trieste were respectively free ports
   during the periods 1722-1893 and 1719-1893.
 
-  _Belgium._--The emperor Joseph II. during his visit to the Austrian
+  _[[Belgium]]._--The emperor Joseph II. during his visit to the Austrian
   Netherlands in June 1781 endeavoured to create a direct trade between
   that country and India. Ostend was made a free port, and large bonding
-  facilities were afforded at Bruges, Brussels, Ghent and Louvain. In
+  facilities were afforded at Bruges, Brussels, [[Ghent]] and Louvain. In
   1796, however, the revolutionary government abolished the Ostend
   privileges.
 
-  _Denmark._--In November 1894 an area of about 150 acres at Copenhagen
+  _Denmark._--In November 1894 an area of about 150 acres at [[Copenhagen]]
   was opened as a free port, and great facilities are afforded for
   shipping and commercial operations in order that the Baltic trade may
   centre there.
@@ -87,7 +87,7 @@ Free ports were advantageous from all these points of view.
   only Hamburg remains a free port. There an area of about 2500 acres is
   exempt from customs duties and control, and is largely used for
   shipping and commercial purposes. Bremerhaven has a similar area of
-  nearly 700 acres. Brake, Bremen, Cuxhaven, Emden, Geestemuende,
+  nearly 700 acres. Brake, Bremen, [[Cuxhaven]], Emden, Geestemuende,
   Neufahrwasser and Stettin possess Freibezirke areas, portions of the
   larger port. Heligoland is outside the Zollverein--practically a
   foreign country.
@@ -105,7 +105,7 @@ Free ports were advantageous from all these points of view.
   franco" by a law passed in 1865, and only storing privileges now
   remain.
 
-  _Rumania._--Braila, Galatz and Kustenji were free ports (for a period
+  _Rumania._--[[Braila]], [[Galatz]] and Kustenji were free ports (for a period
   of about forty years) up to 1883, when bonded warehouses were
   established by the Rumanian government. Sulina remains free.
 
@@ -114,7 +114,7 @@ Free ports were advantageous from all these points of view.
   Russia via Archangel without any customs payment for internal
   consumption, and also in transit to Persia. The tsar Alexis revoked
   this grant on the execution of Charles I. Free ports were opened in
-  1895 at Kola, in Russian Lapland. Dalny, adjoining Port Arthur, was a
+  1895 at [[Kola]], in Russian Lapland. Dalny, adjoining Port Arthur, was a
   free port during the Russian occupation; and Japan after the war
   decided to renew this privilege as soon as practicable.
 
@@ -123,11 +123,11 @@ Free ports were advantageous from all these points of view.
   in other parts of the world, and customs duties have become almost
   universal, conjoined with bonding and transhipment facilities. In
   British colonies and possessions, under an act of parliament passed in
-  1766, and repealed in 1867, two ports in Dominica and four in Jamaica
+  1766, and repealed in 1867, two ports in [[Dominica]] and four in Jamaica
   were free, Malacca, Penang and Singapore have been free ports since
   1824, Hong-Kong since 1842, and Weihaiwei since it was leased to Great
   Britain in 1898. Zanzibar was a free port during 1892-1899. Aden,
-  Gibraltar, St Helena and St Thomas (West Indies) are sometimes
+  [[Gibraltar]], St Helena and St Thomas (West Indies) are sometimes
   designated free ports. A few duties are, however, levied, which are
   really octroi rather than customs charges. These places are mainly
   stations for coaling and awaiting orders.
@@ -139,12 +139,12 @@ Free ports were advantageous from all these points of view.
   closed to foreign trade, though the governor-general may in special
   circumstances vary the application of the new regulations.
 
-  Macao has been a free port since 1845. Portugal has no other harbour
+  [[Macao]] has been a free port since 1845. Portugal has no other harbour
   of this character.
 
   The American Republics have adopted the bonding system. In 1896 a free
   wharf was opened at New Orleans in imitation of the recent European
-  plan. Livingstone (Guatemala) was a free port during the period
+  plan. [[Livingstone]] ([[Guatemala]]) was a free port during the period
   1882-1888.
 
 The privileges enjoyed under the old free port system benefited the

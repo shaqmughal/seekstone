@@ -8,7 +8,7 @@ type: source
 # Lacinium
 
 LACINIUM, PROMUNTURIUM (mod. Capo delle Colonne), 7 m S.E. of Crotona
-(mod. Cotrone); the easternmost point of Bruttii (mod. Calabria). On the
+(mod. Cotrone); the easternmost point of Bruttii (mod. [[Calabria]]). On the
 cape still stands a single column of the temple erected to Hera Lacinia,
 which is said to have been fairly complete in the 16th century, but to
 have been destroyed to build the episcopal palace at Cotrone. It is a

@@ -2,7 +2,7 @@
 
 JOULE, JAMES PRESCOTT (1818-1889), English physicist, was born on the
 24th of December 1818, at Salford, near Manchester. Although he received
-some instruction from John Dalton in chemistry, most of his scientific
+some instruction from John [[Dalton]] in [[Chemistry|chemistry]], most of his scientific
 knowledge was self-taught, and this was especially the case with regard
 to electricity and electro-magnetism, the subjects in which his earliest
 researches were carried out. From the first he appreciated the
@@ -25,7 +25,7 @@ and the Mechanical Value of Heat," that he expressed the conviction that
 whenever mechanical force is expended an exact equivalent of heat is
 always obtained. By rotating a small electro-magnet in water, between
 the poles of another magnet, and then measuring the heat developed in
-the water and other parts of the machine, the current induced in the
+the water and other parts of the [[Machine|machine]], the current induced in the
 coils, and the energy required to maintain rotation, he calculated that
 the quantity of heat capable of warming one pound of water one degree F.
 was equivalent to the mechanical force which could raise 838 lb. through
@@ -48,9 +48,9 @@ effects of electric currents. This inquiry yielded (in 1867) the result
 his old determination by the frictional method; the latter, however, was
 repeated with every precaution, and again indicated 772.55 foot-pounds
 as the quantity of work that must be expended at sea-level in the
-latitude of Greenwich in order to raise the temperature of one pound of
+[[Latitude|latitude]] of [[Greenwich]] in order to raise the temperature of one pound of
 water, weighed _in vacuo_, from 60° to 61° F. Ultimately the discrepancy
-was traced to an error which, not by Joule's fault, vitiated the
+was traced to an [[Error|error]] which, not by Joule's [[Fault|fault]], vitiated the
 determination by the electrical method, for it was found that the
 standard ohm, as actually defined by the British Association committee
 and as used by him, was slightly smaller than was intended; when the
@@ -58,7 +58,7 @@ necessary corrections were made the results of the two methods were
 almost precisely congruent, and thus the figure 772.55 was vindicated.
 In addition, numerous other researches stand to Joule's credit--the work
 done in compressing gases and the thermal changes they undergo when
-forced under pressure through small apertures (with Lord Kelvin), the
+forced under pressure through small [[Aperture|apertures]] (with Lord [[Kelvin]]), the
 change of volume on solution, the change of temperature produced by the
 longitudinal extension and compression of solids, &c. It was during the
 experiments involved by the first of these inquiries that Joule was

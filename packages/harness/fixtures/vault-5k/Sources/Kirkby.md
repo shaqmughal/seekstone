@@ -18,7 +18,7 @@ not yet ordained priest he held several valuable benefices in the
 church. In 1283 he was chosen bishop of Rochester, but owing to the
 opposition of the archbishop of Canterbury, John Peckham, he did not
 press his claim to this see. In 1286, however, two years after he had
-become treasurer, he was elected bishop of Ely, and he was ordained
+become treasurer, he was elected bishop of [[Ely]], and he was ordained
 priest and then consecrated by Peckham. He died at Ely on the 26th of
 March 1290. Kirkby was a benefactor to his see, to which he left some
 property in London, including the locality now known as Ely Place, where

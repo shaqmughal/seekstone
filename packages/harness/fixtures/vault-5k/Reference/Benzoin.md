@@ -1,6 +1,6 @@
 # Benzoin
 
-BENZOIN, or GUM BENJAMIN (supposed to be from Arab. _luban_,
+BENZOIN, or [[Gum|GUM]] BENJAMIN (supposed to be from Arab. _luban_,
 frankincense, the first syllable being dropped in Romanic as if it were
 the article), a balsamic resin obtained from _Styrax benzoin_, a tree of
 considerable size, native to Sumatra and Java, and from other species of

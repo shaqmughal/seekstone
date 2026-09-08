@@ -12,7 +12,7 @@ of Prince Henry, verses in mock praise of the author, and intended
 originally to persuade some bookseller to undertake the publication of
 the _Crudities_, were added to the volume. These commendatory verses,
 written in a number of languages, and some in a mixture of languages, by
-Ben Jonson, Donne, Chapman, Drayton and others, were afterwards
+Ben [[Jonson]], Donne, Chapman, Drayton and others, were afterwards
 published (1611) by themselves as the _Odcombian Banquet_. The book
 contains a clear and interesting account of Coryate's travels, and,
 being the first of its kind, was extremely popular. It is now very rare,
@@ -37,7 +37,7 @@ often lived "competently" for a penny a day. Coryate died at Surat in
 1617.
 
   _Coryate's Crudities_, with his letters from India, was reprinted from
-  the edition of 1611 in 1776, and at the Glasgow University Press (2
+  the edition of 1611 in 1776, and at the [[Glasgow]] University Press (2
   vols., 1905). The _Odcombian Banquet_ was ridiculed by John Taylor,
   the Water Poet, in his _Laugh and be Fat, or a Commentary on the
   Odcombian Banket_ (1613) and two other satires.

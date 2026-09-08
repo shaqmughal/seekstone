@@ -10,13 +10,13 @@ id: 42-7366
 
 # Capel Curig
 
-CAPEL CURIG, a tourist resort in Carnarvonshire, North Wales, 14-1/2 m.
-from Bangor. It is a collection of a few houses, too scattered to form a
+CAPEL CURIG, a tourist resort in [[Carnarvonshire]], North Wales, 14-1/2 m.
+from [[Bangor]]. It is a collection of a few houses, too scattered to form a
 village properly so called. At the Roberts hotel is shown on a window
 pane the supposed signature of Wellington. The road from Bettws y coed,
-past the Swallow Falls to Capel Curig, and thence to Llanberis and
+past the Swallow Falls to Capel Curig, and thence to [[Llanberis]] and
 Carnarvon, is very interesting, grand and lonely. Excellent fishing is
-to be had here, chiefly for trout. In summer, coaching tours discharge
+to be had here, chiefly for trout. In summer, coaching tours [[Discharge|discharge]]
 numbers of visitors daily; the railway station is Bettws (London &
 North-Western railway). Capel Curig means "chapel of Curig," a British
 saint mentioned in Welsh poetry. The place is a centre for artists,

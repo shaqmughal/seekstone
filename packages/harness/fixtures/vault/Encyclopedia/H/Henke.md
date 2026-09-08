@@ -18,13 +18,13 @@ principal work (_Allgemeine Geschichte der christl. Kirche_, 6 vols.,
 accuracy and artistic composition. His other works are _Lineamenta
 institutionum fidei Christianae historico-criticarum_ (1783), _Opuscula
 academica_ (1802) and two volumes of _Predigten_. He was also editor of
-the _Magazin fur die Religionsphilosophie, Exegese und Kirchengeschichte_
+the _Magazin [[Fur|fur]] die Religionsphilosophie, Exegese und Kirchengeschichte_
 (1793-1802) and the _Archiv fur die neueste Kirchengeschichte_
 (1794-1799).
 
 His son, ERNST LUDWIG THEODOR HENKE (1804-1872), after studying at the
-university of Jena, became _professor extraordinarius_ there in 1833,
-and professor ordinarius of Marburg in 1839. He is known as the author
+university of [[Jena]], became _professor extraordinarius_ there in 1833,
+and professor ordinarius of [[Marburg]] in 1839. He is known as the author
 of monographs upon _Georg Calixt u. seine Zeit_ (1853-1860), _Papst Pius
 VII._ (1860), _Konrad von Marburg_ (1861), _Kaspar Peucer u. Nik. Krell_
 (1865), _Jak. Friedr. Fries_ (1867), _Zur neuern Kirchengeschichte_

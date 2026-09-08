@@ -7,21 +7,21 @@ father's house, he laboured to supplement his scanty education. In his
 twenty-sixth year, believing himself to be a divinely-commissioned
 prophet, he began to preach in his native parish and afterwards
 throughout Norway, calling people to repentance and attacking
-rationalism. In 1800 he passed to Denmark, where, as at home, he gained
+rationalism. In 1800 he passed to [[Denmark]], where, as at home, he gained
 many followers and assistants, chiefly among the lower orders.
-Proceeding to Christiansand in 1804, Hauge set up a printing-press to
+Proceeding to [[Christiansand]] in 1804, Hauge set up a printing-press to
 disseminate his views more widely, but was almost immediately arrested
 for holding illegal religious meetings, and for insulting the regular
 clergy in his books, all of which were confiscated; he was also heavily
 fined. After being in confinement for some years, he was released in
 1814 on payment of a fine, and retiring to an estate at Breddwill, near
-Christiania, he died there on the 29th of March 1824. His adherents, who
+[[Christiania]], he died there on the 29th of March 1824. His adherents, who
 did not formally break with the church, were called _Haugianer or Leser_
 (i.e. Readers). He unquestionably did much to revive the spiritual life
 of the northern Lutheran Church. His views were of a pietistic nature.
 Though he cannot be said to have rejected any article of the Lutheran
 creed, the peculiar emphasis which he laid upon the evangelical
-doctrines of faith and grace involved considerable antagonism to the
+doctrines of faith and [[Grace|grace]] involved considerable antagonism to the
 rationalistic or sacerdotal views commonly held by the established
 clergy.
 

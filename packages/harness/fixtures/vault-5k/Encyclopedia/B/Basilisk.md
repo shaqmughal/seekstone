@@ -2,7 +2,7 @@
 
 BASILISK (the [Greek: Basiliskos] of the Greeks, and _Tsepha_ (cockatrice)
 of the Hebrews), a name given by the ancients to a horrid monster of their
-own imagination, to which they attributed the most malignant powers and an
+own [[Imagination|imagination]], to which they attributed the most malignant powers and an
 equally fiendish appearance. The term is now applied, owing to a certain
 fanciful resemblance, to a genus of lizards belonging to the family
 _Iguanidae_, the species of which are characterized by the presence, in the
@@ -12,10 +12,10 @@ tail. _Basiliscus americanus_ reaches the length of one yard; its colour is
 green and brown, with dark crossbars, while the crest is reddish. This
 beautiful, strictly herbivorous creature is rather common amidst the
 luxuriant vegetation on the banks of rivers and streams of the Atlantic hot
-lands of Mexico and Guatemala. The lizards lie upon the branches of trees
+lands of Mexico and [[Guatemala]]. The lizards lie upon the branches of trees
 overhanging the water, into which they plunge at the slightest alarm. Then
 they propel themselves by rapid strokes of the hind limbs, beating the
-water in a semi-erect position and letting the long rudder-like tail drag
+water in a semi-erect position and letting the long rudder-like tail [[Drag|drag]]
 behind. They are universally known as _pasa-rios_, _i.e._ ferrymen.
 
 ## See also

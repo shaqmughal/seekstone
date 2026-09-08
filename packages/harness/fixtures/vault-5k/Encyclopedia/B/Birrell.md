@@ -13,10 +13,10 @@ Nonconformist minister, was born near Liverpool on the 19th of January
 Cambridge. He went to the bar, and gradually obtained a good practice;
 in 1893 he became a K.C., and he was professor of law at University
 College from 1896 to 1899. But it was as a literary critic of unusually
-clever style and an original vein of wit, that he first became known to
+[[Clever|clever]] style and an original vein of wit, that he first became known to
 the public, with his volume of essays entitled _Obiter Dicta_ (1884). In
 1889 he was returned to parliament for West Fifeshire as a Liberal. In
-the House of Commons his light but pointed humour gradually led to the
+the House of Commons his light but pointed [[Humour|humour]] gradually led to the
 coining of a new word, "barrelling," and his literary and oratorical
 reputation grew apace. Whether he was writing miscellaneous essays or
 law-books, his characteristic style prevailed, and his books on
@@ -24,7 +24,7 @@ copyright and on trusts were novelties indeed among legal textbooks, no
 less sparkling than his literary _Obiter Dicta_. A second series of the
 latter appeared in 1887. _Res Judicatae_ in 1892 and various other
 volumes followed, for he was in request among publishers and editors,
-and his easy charm of style and acute grasp of interesting detail gave
+and his easy [[Charm|charm]] of style and acute grasp of interesting detail gave
 him a front place among contemporary men of letters. Mr Birrell was
 first married in 1878, but his wife died next year, and in 1888 he
 married Mrs Lionel Tennyson, daughter of the poet Frederick Locker
@@ -32,7 +32,7 @@ married Mrs Lionel Tennyson, daughter of the poet Frederick Locker
 contest the N.E. division of Manchester rather than retain his seat in
 Fifeshire, but was defeated. He did valuable service, however, to his
 party by presiding over the Liberal Publication Department, and at the
-general election of 1906 he was returned for a division of Bristol. He
+general election of 1906 he was returned for a division of [[Bristol]]. He
 had been included in Sir Henry Campbell-Bannerman's cabinet, and as
 minister for education he was responsible for the education bill which
 was the chief government measure in their first session. But the

@@ -4,7 +4,7 @@ ISAIAH, ASCENSION OF, an apocryphal book of the Old Testament. The
 _Ascension of Isaiah_ is a composite work of very great interest. In its
 present form it is probably not older than the latter half of the 2nd
 century of our era. Its various constituents, however, and of these
-there were three--the _Martyrdom of Isaiah_, the _Testament of Hezekiah_
+there were three--the _Martyrdom of Isaiah_, the _Testament of [[Hezekiah]]_
 and the _Vision of Isaiah_--circulated independently as early as the 1st
 century. The first of these was of Jewish origin, and is of less
 interest than the other two, which were the work of Christian writers.
@@ -19,11 +19,11 @@ descriptions of the worldliness and lawlessness which prevailed among
 the elders and pastors, i.e. the bishops and priests, of the wide-spread
 covetousness and vainglory as well as the growing heresies among
 Christians generally, agree with similar accounts in 2 Peter, 2 Timothy
-and Clement of Rome.
+and [[Clement]] of Rome.
 
   _Various Titles._--Origen in his commentary on Matt. xiii. 57
   (Lommatzsch iii. 4, 9) calls it _Apocryph of Isaiah_--[Greek:
-  Apokryphon Hesaiou], Epiphanius (_Haer._ xl. 2) terms it the
+  Apokryphon Hesaiou], [[Epiphanius]] (_Haer._ xl. 2) terms it the
   _Ascension of Isaiah_--[Greek: to anabatikon Hesaiou], and similarly
   Jerome--_Ascensio Isaiae_. It was also known as the _Vision of Isaiah_
   and finally as the _Testament of Hezekiah_ (see Charles, _The
@@ -39,7 +39,7 @@ and Clement of Rome.
   actual Greek has survived in a multitude of phrases in the _Greek
   Legend_. G^2 denotes the Greek text from which the Slavonic and the
   second Latin Version (consisting of vi.-xi.) were translated. Of this
-  recension ii. 4-iv. 2 have been discovered by Grenfell and Hunt.[1]
+  recension ii. 4-iv. 2 have been discovered by Grenfell and [[Hunt]].[1]
   For complete details see Charles, _op. cit._ pp. xviii.-xxxiii.; also
   Flemming in Hennecke's _NTliche Apok_.
 
@@ -65,7 +65,7 @@ and Clement of Rome.
   13-v. 1 and xi. 2-22, and added i. 3, 4a, v. 15, 16, xi. 41.
 
   This analysis has on the whole been accepted by Harnack, Schurer,
-  Deane and Beer. These scholars have been influenced by Gebhardt's
+  [[Deane]] and [[Beer]]. These scholars have been influenced by Gebhardt's
   statement that in the _Greek Legend_ there is not a trace of iii.
   13-v. 1, xi. 2-22, and that accordingly these sections were absent
   from the text when the _Greek Legend_ was composed. But this statement
@@ -100,7 +100,7 @@ and Clement of Rome.
   _Dates of the Various Constituents of the Ascension._--(a) The
   _Martyrdom_ is quoted by the _Opus Imperfectum_, Ambrose, Jerome,
   Origen, Tertullian and by Justin Martyr. It was probably known to the
-  writer of the Epistle to the Hebrews. Thus we are brought back to the
+  writer of the [[Epistle]] to the Hebrews. Thus we are brought back to the
   1st century A.D. if the last reference is trustworthy. And this is no
   doubt the right date, for works written by Jews in the 2nd century
   would not be likely to become current in the Christian Church. (b) The
@@ -110,7 +110,7 @@ and Clement of Rome.
   Vision was used by Jerome, and a more primitive form of the text by
   the Archontici according to Epiphanius. It is still earlier attested
   by the _Actus Petri Vercellenses_. Since the Protevangel of James was
-  apparently acquainted with it, and likewise Ignatius (_ad. Ephes._
+  apparently acquainted with it, and likewise [[Ignatius]] (_ad. Ephes._
   xix.), the composition of the primitive form of the Vision goes back
   to the close of the 1st century.
 

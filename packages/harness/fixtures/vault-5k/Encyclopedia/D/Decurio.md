@@ -15,7 +15,7 @@ automatically into the senate of their town; but at a later date this
 order was reversed, and membership of the senate became a qualification
 for the magistracy. Cicero (_l.c._) speaks of the senate in the Sicilian
 towns as appointed by a vote of the township. But in most towns it was
-the duty of the chief magistrate to draw up a list (_album_) of the
+the duty of the chief [[Magistrate|magistrate]] to draw up a list (_album_) of the
 senators every five years. The _decuriones_ held office for life. They
 were convened by the magistrate, who presided as in the Roman senate.
 Their powers were extensive. In all matters the magistrates were obliged
@@ -28,7 +28,7 @@ underwent a marked decline. The office was no longer coveted, and
 documents of the 3rd and 4th centuries show that means were devised to
 compel members of the towns to undertake it. By the time of the jurists
 it had become hereditary and compulsory. This change was largely due to
-the heavy financial burdens which the Roman government laid on the
+the heavy financial [[Burden|burdens]] which the Roman government laid on the
 municipal senates. (2) The president of a _decuria_, a subdivision of
 the _curia_ (q.v.). (3) An officer in the Roman cavalry, commanding a
 troop of ten men (_decuria_).
@@ -37,7 +37,7 @@ troop of ten men (_decuria_).
   Nos. 27, 29, 30 (_leges municipales_); J. C. Orelli, _Inscr. Latinae_,
   No. 3721 (Album of Canusium); Godefroy, _Paratitl. ad cod.
   Theodosianam_, xii. 1 (vol. iv. pp. 352 et seq., ed. Ritter); J.
-  Marquardt, _Romische Staatsverwaltung_, i. pp. 183 et seq. (Leipzig,
+  [[Marquardt]], _Romische Staatsverwaltung_, i. pp. 183 et seq. (Leipzig,
   1881); P. Willems, _Droit public romain_, pp. 535 et seq. (Paris,
   1884); Pauly-Wissowa, _Realencyclopadie_, IV. ii. pp. 2319 foll.
   (Stuttgart, 1901); W. Liebenam, _Stadteverwaltung im romischen

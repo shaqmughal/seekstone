@@ -13,7 +13,7 @@ gilds, with mutual responsibility. (For details see RUSSIA.)
 
 ARTEMIDORUS. (1) A geographer "of Ephesus" who flourished about 100 B.C.
 After studying at Alexandria, he travelled extensively and published the
-results of his investigations in a large work on general geography
+results of his investigations in a large work on general [[Geography|geography]]
 ([Greek: Ta geographoumena]) in eleven books, much used by Strabo and
 others. The original work is lost, but we possess many small fragments
 and larger fragments of an abridgment made by Marcianus of Heracleia
@@ -28,8 +28,8 @@ make its name known to the world. His [Greek: Oneirokritica], or
 interpretation of dreams, was said to have been written by command of
 Apollo Daldianus, whose initiated votary he was. It is in four books,
 with an appendix containing a collection of prophetic dreams which had
-been realized. The first three books, addressed to Cassius Maximus, a
-Phoenician rhetorician (perhaps identical with Maximus of Tyre), treat
+been realized. The first three books, addressed to [[Cassius]] Maximus, a
+Phoenician rhetorician (perhaps identical with [[Maximus Of Tyre|Maximus of Tyre]]), treat
 of dreams and divination generally; the fourth--with a reply to his
 critics--and the appendix are dedicated to his son, also named
 Artemidorus and an interpreter of dreams. Artemidorus boasts of the

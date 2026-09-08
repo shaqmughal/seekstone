@@ -7,10 +7,10 @@ type: article
 
 # Birney
 
-BIRNEY, JAMES GILLESPIE (1792-1857), American reformer, leader of the
+BIRNEY, JAMES [[Gillespie|GILLESPIE]] (1792-1857), American reformer, leader of the
 conservative abolitionists in the United States from about 1835 to 1845,
-was born in Danville, Kentucky, of a family of wealth and influence, on
-the 4th of February 1792. He graduated at the College of New Jersey (now
+was born in Danville, [[Kentucky]], of a family of wealth and influence, on
+the 4th of February 1792. He graduated at the College of New [[Jersey]] (now
 Princeton University) in 1810. In 1814, after a course of legal study,
 he began the practice of the law at Danville. He entered immediately, as
 a Democrat, into Kentucky politics, and political ambition caused his
@@ -23,7 +23,7 @@ general assembly of Kentucky in 1816, and in that of Alabama in 1819, he
 opposed inter-state rendition of fugitive slaves and championed liberal
 slave-laws. His career as a lawyer in Alabama was exceptionally
 brilliant; but his political career was abruptly wrecked by his
-opposition in 1819 to Andrew Jackson, whose friends controlled the
+opposition in 1819 to Andrew [[Jackson]], whose friends controlled the
 state. His tariff and anti-slavery views, moreover, carried him more and
 more away from the Democratic party and toward the Whigs.
 
@@ -31,11 +31,11 @@ About 1826 he began to show an active interest in the American
 Colonization Society, and in 1832-1833 served as its agent in the
 south-west. In 1833 he returned to Danville, and devoted himself wholly
 to the anti-slavery cause. He freed his own slaves in 1834. Convinced
-that gradual emancipation would merely stimulate the inter-state slave
+that [[Gradual|gradual]] emancipation would merely stimulate the inter-state slave
 trade, and that the dangers of a mixed labour system were greater than
 those of emancipation in mass, he formally repudiated colonization in
 1834; moreover, gradualism had become for him an unjustifiable
-compromise in a matter of religion and justice. At this time also he
+[[Compromise|compromise]] in a matter of religion and justice. At this time also he
 abandoned the Whig party. He delivered anti-slavery addresses in the
 North, accepted the vice-presidency of the American Anti-Slavery Society
 and announced his intention to establish an anti-slavery journal at
@@ -51,7 +51,7 @@ Garrisonian abolitionists, who abhorred the federal Constitution and
 favoured secession. He always wrote, spoke and laboured for the
 permanent safety of the Union. The assaults of the South in defence of
 slavery upon free speech, free press, the right of petition and trial by
-jury, he pronounced "exorbitant claims ... on the liberties of the free
+[[Jury|jury]], he pronounced "exorbitant claims ... on the liberties of the free
 states"; the contest had become, he said, "one not alone of freedom for
 the blacks but of freedom for the whites." Twenty-three years before
 William H. Seward characterized as an "irrepressible conflict" the
@@ -76,9 +76,9 @@ Civil War in America.
   See _James G. Birney and His Times_ (New York, 1890), by his son,
   William Birney; and his principal writings: _On the Sin of Holding
   Slaves_ (1834). _Letter on Colonization_ (1834), _Vindication of
-  Abolitionists_ (1835), _American Churches the Bulwark of American
+  Abolitionists_ (1835), _American Churches the [[Bulwark]] of American
   Slavery_ (1840, 3rd ed. 1885); _Speeches in England_ (1840); and _Case
-  of Strader et al._ v. _Graham_ (1852).
+  of Strader et al._ v. _[[Graham]]_ (1852).
 
 ## References
 

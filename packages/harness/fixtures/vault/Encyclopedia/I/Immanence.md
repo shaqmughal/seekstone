@@ -20,7 +20,7 @@ present in and pervading it (immanent). The immanence doctrine has
 arisen from two main causes, the one metaphysical, the other religious.
 Metaphysical speculation on the relation of matter and mind has
 naturally led to a conviction of an underlying unity of all existence,
-and so to a metaphysical identification of God and the universe: when
+and so to a metaphysical [[Identification|identification]] of God and the universe: when
 this identification proceeds to the length of expressing the universe as
 merely a mode or form of deity the result is pantheism (cf. the
 Eleatics): when it regards the deity as simply the sum of the forces of
@@ -28,13 +28,13 @@ nature (cf. John Toland) the result is naturalism. In either case, but
 especially in the former, it frequently becomes pure mysticism (q.v.).
 Religious thinkers are faced by the problem of the Creator and the
 created, and the necessity for formulating a close relationship between
-God and man, the Infinite and Perfect with the finite and imperfect. The
+God and man, the [[Infinite]] and Perfect with the finite and imperfect. The
 conception of God as wholly external to man, a purely mechanical theory
 of the creation, is throughout Christendom regarded as false to the
 teaching of the New Testament as also to Christian experience. The
 contrary view has gained ground in some quarters (cf. the so-called "New
 Theology" of Rev. R. J. Campbell) so far as to postulate a divine
-element in human beings, so definitely bridging over the gap between
+element in human beings, so definitely bridging over the [[Gap|gap]] between
 finite and infinite which was to some extent admitted by the bulk of
 early Christian teachers. In support of such a view are adduced not only
 the metaphysical difficulty of postulating any relationship between the
@@ -55,7 +55,7 @@ of the same movement of thought. In pure metaphysics the term
 "immanence-philosophy" is given to a doctrine held largely by German
 philosophers (Rehmke, Leclair, Schuppe and others) according to which
 all reality is reduced to elements immanent in consciousness. This
-doctrine is derived from Berkeley and Hume on the one hand and from
+doctrine is derived from [[Berkeley]] and Hume on the one hand and from
 Kantianism on the other, and embodies the principle that nothing can
 exist for the mind save itself. The natural consequence of this theory
 is that the individual consciousness alone exists (solipsism): this

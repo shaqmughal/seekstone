@@ -1,6 +1,6 @@
 # Bognor
 
-BOGNOR, a seaside resort in the Chichester parliamentary division of
+BOGNOR, a seaside resort in the [[Chichester]] parliamentary division of
 Sussex, England, 66 m. S.S.W. from London by the London, Brighton &
 South Coast railway. Pop. of urban district (1901) 6180. Besides the
 parish church there is a Roman Catholic priory and church. The town

@@ -1,10 +1,10 @@
 # Favras
 
 FAVRAS, THOMAS DE MAHY, MARQUIS DE (1744-1790), French royalist, was
-born on the 26th of March 1744, at Blois. He belonged to a poor family
+born on the 26th of March 1744, at [[Blois]]. He belonged to a poor family
 whose nobility dated from the 12th century. At seventeen he was a
-captain of dragoons, and saw some service in the closing campaign of the
-Seven Years' War. In 1772 he became first lieutenant of the Swiss guards
+captain of [[Dragoon|dragoons]], and saw some service in the closing campaign of the
+Seven Years' War. In 1772 he became first lieutenant of the Swiss [[Guards|guards]]
 of the count of Provence (afterwards Louis XVIII.). Unable to meet the
 expenses of his rank, which was equivalent to the grade of colonel in
 the army, he retired in 1775. He married in 1776 Victoria Hedwig
@@ -12,23 +12,23 @@ Caroline, princess of Anhalt-Bernburg-Schaumburg, whose mother, deserted
 by her husband Prince Carl Ludwig in 1749, had found refuge with her
 daughter in the house of Marshal Soubise. After his marriage he went to
 Vienna to press the restitution of his wife's rights, and spent some
-time in Warsaw. In 1787 he was authorized to raise a patriotic legion to
+time in Warsaw. In 1787 he was authorized to raise a patriotic [[Legion|legion]] to
 help the Dutch against the stadtholder William IV. and his Prussian
 allies. Returning to Paris at the outbreak of the Revolution, he became
 implicated in schemes for the escape of Louis XVI. from Paris and the
 dominance of the National Assembly. He was commissioned by the count of
 Provence through one of his gentlemen, the comte de la Chatre, to
-negotiate a loan of two million francs from the bankers Schaumel and
+negotiate a loan of two million [[Franc|francs]] from the bankers Schaumel and
 Sartorius. Favras took into his confidence certain officers by whom he
-was betrayed; and, with his wife, he was arrested on Christmas Eve 1789
+was betrayed; and, with his wife, he was arrested on [[Christmas]] Eve 1789
 and imprisoned in the Abbaye. A fortnight later they were separated,
 Favras being removed to the Chatelet. It was stated in a leaflet
 circulated throughout Paris that Favras had organized a plot of which
 the count of Provence was the moving spirit. A force of 30,000 was to be
-raised, La Fayette and Bailly, the mayor of Paris, were to be
+raised, La Fayette and [[Bailly]], the [[Mayor|mayor]] of Paris, were to be
 assassinated, and Paris was to be starved into submission by cutting off
 supplies. The count hastened publicly to disavow Favras in a speech
-delivered before the commune of Paris and in a letter to the National
+delivered before the [[Commune|commune]] of Paris and in a letter to the National
 Assembly, although there is no reasonable doubt of his complicity in the
 plot that did exist. In the course of a trial of nearly two months'
 duration the witnesses disagreed, and even the editor of the

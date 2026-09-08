@@ -9,7 +9,7 @@ id: 42-6772
 # K. L. - Rev. Kirsopp Lake
 
 K. L. - REV. KIRSOPP LAKE, M.A.
-Lincoln College, Oxford. Professor of Early Christian Literature and New
+[[Lincoln]] College, Oxford. Professor of Early Christian Literature and New
 Testament Exegesis in the University of Leiden. Author of _The Text of the
 New Testament_; _The Historical Evidence for the Resurrection of Jesus
 Christ_; &c.

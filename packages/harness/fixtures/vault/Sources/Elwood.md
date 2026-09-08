@@ -1,9 +1,9 @@
 # Elwood
 
-ELWOOD, a city of Madison county, Indiana, U.S.A., on Duck Creek, about
+ELWOOD, a city of [[Madison]] county, [[Indiana]], U.S.A., on Duck [[Creek]], about
 38 m. N.E. of Indianapolis. Pop. (1880) 751; (1890) 2284; (1900) 12,950
 (1386 foreign-born); (1910) 11,028. Elwood is served by the Lake Erie &
-Western and the Pittsburg, Cincinnati, Chicago & St Louis railways, and
+Western and the Pittsburg, Cincinnati, [[Chicago]] & St Louis railways, and
 by an interurban electric line. Its rapid growth in population and as a
 manufacturing centre was due largely to its situation in the natural gas
 region; the failure of the gas supply in 1903 caused a decrease in

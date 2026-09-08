@@ -1,7 +1,7 @@
 # Hydrangea
 
-HYDRANGEA, a popular flower, the plant to which the name is most
-commonly applied being _Hydrangea Hortensia_, a low deciduous shrub,
+HYDRANGEA, a popular [[Flower|flower]], the plant to which the name is most
+commonly applied being _Hydrangea Hortensia_, a low [[Deciduous|deciduous]] shrub,
 producing rather large oval strongly-veined leaves in opposite pairs
 along the stem. It is terminated by a massive globular corymbose head of
 flowers, which remain a long period in an ornamental condition. The
@@ -16,7 +16,7 @@ the species above referred to, but well illustrated by others, in which
 they occupy the inner parts of the corymb, the larger showy neuter
 flowers being produced at the circumference.
 
-There are upwards of thirty species, found chiefly in Japan, in the
+There are upwards of thirty species, found chiefly in [[Japan]], in the
 mountains of India, and in North America, and many of them are familiar
 in gardens. _H. Hortensia_ (a species long known in cultivation In China
 and Japan) is the most useful for decoration, as the head of flowers
@@ -35,7 +35,7 @@ tolerably favourable situation, but except in the most sheltered
 localities they seldom blossom to any degree of perfection in the open
 air, the head of blossom depending on the uninjured development of a
 well-ripened terminal bud, and this growth being frequently affected by
-late spring frosts. They are much more useful for pot-culture indoors,
+late spring [[Frost|frosts]]. They are much more useful for pot-culture indoors,
 and should be reared from cuttings of shoots having the terminal bud
 plump and prominent, put in during summer, these developing a single
 head of flowers the succeeding summer. Somewhat larger plants may be had

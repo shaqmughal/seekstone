@@ -9,9 +9,9 @@ topic: navigation-theory
 LA CLOCHE, JAMES DE ["Prince James Stuart"] (1644?-1669), a character
 who was brought into the history of England by Lord Acton in 1862 (_Home
 and Foreign Review_, i. 146-174: "The Secret History of Charles II.").
-From information discovered by Father Boero in the archives of the
-Jesuits in Rome, Lord Acton averred that Charles II., when a lad at
-Jersey, had a natural son, James. The evidence follows. On the 2nd of
+From information discovered by Father Boero in the [[Archive|archives]] of the
+[[Jesuits]] in Rome, Lord Acton averred that Charles II., when a lad at
+[[Jersey]], had a natural son, James. The evidence follows. On the 2nd of
 April 1668, as the register of the Jesuit House of Novices at Rome
 attests, "there entered Jacobus de la Cloche." His baggage was exiguous,
 his attire was clerical. He is described as "from the island of Jersey,
@@ -23,7 +23,7 @@ de la Cloche de Bourg du Jersey," and avers that to recognize him
 publicly "would imperil the peace of the kingdoms"--why is not apparent.
 A third certificate of birth, in Latin, undated, was from Christina of
 Sweden, who declares that James, previously a Protestant, has been
-received into the church of Rome at Hamburg (where in 1667-1668 she was
+received into the church of Rome at [[Hamburg]] (where in 1667-1668 she was
 residing) on the 29th of July 1667. The next paper purports to be a
 letter from Charles II. of August 3/13 to Oliva, general of the Jesuits.
 The king writes, in French, that he has long wished to be secretly
@@ -40,16 +40,16 @@ changing his creed she will not keep it secret, and Charles will
 infallibly lose his life. With this letter there is another, written
 when the first had been sealed. Charles insists that James must not be
 accompanied, as novices were, when travelling, by a Jesuit socius or
-guardian. Charles's wife and mother have just heard that this is the
+[[Guardian|guardian]]. Charles's wife and mother have just heard that this is the
 rule, but the rule must be broken. James, who is to travel as "Henri de
 Rohan," must not come by way of France. Oliva will supply him with
 funds. On the back of this letter Oliva has written the draft of his
-brief reply to Charles (from Leghorn, October 14, 1668). He merely says
-that the bearer, a French gentleman (James spoke only French), will
+brief reply to Charles (from [[Leghorn]], October 14, 1668). He merely says
+that the bearer, a French [[Gentleman|gentleman]] (James spoke only French), will
 inform the king that his orders have been executed. Besides these two
 letters is one from Charles to James, of date August 4/14. It is
-addressed to "Le Prince Stuart," though none of Charles's bastards was
-allowed to bear the Stuart name. James is told that he may desert the
+addressed to "Le Prince Stuart," though none of Charles's [[Bastard|bastards]] was
+allowed to bear the Stuart name. James is told that he may [[Desert|desert]] the
 clerical profession if he pleases. In that case "you may claim higher
 titles from us than the duke of Monmouth." (There was no higher title
 save prince of Wales!) If Charles and his brother, the duke of York, die
@@ -58,7 +58,7 @@ oppose you, unless as, at present, they can only elect Protestant
 kings." This letter ought to have opened the eyes of Lord Acton and
 other historians who accept the myth of James de la Cloche. Charles knew
 that the crown of England was not elective, that there was no Exclusion
-Act, and that there were legal heirs if he and his brother died without
+Act, and that there were legal [[Heir|heirs]] if he and his brother died without
 issue. The last letter of Charles is dated November 18/28, and purports
 to have been brought from England to Oliva by James de la Cloche on his
 return to Rome. It reveals the fact that Oliva, despite Charles's
@@ -66,7 +66,7 @@ orders, did send James by way of France, with a _socius_ or guardian
 whom he was to pick up in France on his return to England. Charles says
 that James is to communicate certain matters to Oliva, and come back at
 once. Oliva is to give James all the money he needs, and Charles will
-later make an ample donation to the Jesuits. He acknowledges a debt to
+later make an ample donation to the Jesuits. He acknowledges a [[Debt|debt]] to
 Oliva of £800, to be paid in six months. The reader will remark that the
 king has never paid a penny to James or to Oliva, and that Oliva has
 never communicated directly with Charles. The truth is that all of
@@ -84,9 +84,9 @@ than did Charles, and would have exposed him.
 The name of James de la Cloche appears no more in documents. He reached
 Rome in December 1668, and in January a person calling himself "Prince
 James Stuart" appears in Naples, accompanied by a _socius_ styling
-himself a French knight of Malta. Both are on their way to England, but
+himself a French [[Knight|knight]] of [[Malta]]. Both are on their way to England, but
 Prince James falls ill and stays in Naples, while his companion departs.
-The knight of Malta may be a Jesuit. In Naples, Prince James marries a
+The knight of Malta may be a Jesuit. In Naples, Prince James [[Marri|marries]] a
 girl of no position, and is arrested on suspicion of being a coiner. To
 his confessors (he had two in succession) he says that he is a son of
 Charles II. Our sources are the despatches of Kent, the English agent at
@@ -100,12 +100,12 @@ on natural sons of the king." The son lived till about 1750, a penniless
 pretender, and writer of begging letters.
 
 It is needless to pursue Lord Acton's conjectures about later mysterious
-appearances of James de la Cloche at the court of Charles, or to discuss
+appearances of James de la Cloche at the court of Charles, or to [[Discus|discuss]]
 the legend that his mother was a lady of Jersey--or a sister of Charles!
 The Jersey myths may be found in _The Man of the Mask_ (1908), by
-Monsignor Barnes, who argued that James was the man in the iron mask
+Monsignor [[Barnes]], who argued that James was the man in the [[Iron Mask|iron mask]]
 (see IRON MASK). Later Monsignor Barnes, who had observed that the
-letter of Charles to Prince James Stuart is a forgery, noticed the
+letter of Charles to Prince James Stuart is a [[Forgery|forgery]], noticed the
 impossibility that Charles, in 1668, should constantly write of his
 mother as resident in London, which she left for ever in 1665.
 

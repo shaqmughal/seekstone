@@ -13,10 +13,10 @@ name from the quantities of grains of gold mixed with the sand of the
 rivers traversing the district. The term Gold Coast is now generally
 identified with the British Gold Coast colony. This extends from 3 deg.
 7' W. to 1 deg. 14' E., the length of the coast-line being about 370 m.
-It is bounded W. by the Ivory Coast colony (French), E. by Togoland
-(German). On the north the British possessions, including Ashanti (q.v.)
+It is bounded W. by the [[Ivory]] Coast colony (French), E. by Togoland
+(German). On the north the British possessions, including [[Ashanti]] (q.v.)
 and the Northern Territories, extend to the 11th degree of north
-latitude. The frontier separating the colony from Ashanti (fixed by
+[[Latitude|latitude]]. The frontier separating the colony from Ashanti (fixed by
 order in council, 22nd of October 1906) is in general 130 m. from the
 coast, but in the central portion of the colony the southern limits of
 Ashanti project wedge-like to the confluence of the rivers Ofin and
@@ -26,18 +26,18 @@ area of the Gold Coast, Ashanti and the Northern Territories, is about
 2,700,000; the Gold Coast colony alone has an area of 24,200 sq. m.,
 with a population of over a million, of whom about 2000 are Europeans.
 
-[Map: Gold Coast and Hinterland.]
+[Map: Gold Coast and [[Hinterland]].]
 
-  _Physical features._--Though the lagoons common to the West African
+  _Physical features._--Though the [[Lagoon|lagoons]] common to the West African
   coast are found both at the western and eastern extremities of the
   colony (Assini in the west and Kwitta in the east) the greater part of
   the coast-line is of a different character. Cape Three Points (4 deg.
   44' 40" N. 2 deg. 5' 45" W.) juts boldly into the sea, forming the
   most southerly point of the colony. Thence the coast trends E. by N.,
-  and is but slightly indented. The usually low sandy beach is, however,
+  and is but slightly indented. The usually low sandy [[Beach|beach]] is, however,
   diversified by bold, rocky headlands. The flat belt of country does
   not extend inland any considerable distance, the spurs of the great
-  plateau which forms the major part of West Africa advancing in the
+  plateau which forms the [[Major|major]] part of West Africa advancing in the
   east, in the Akwapim district, near to the coast. Here the hills reach
   an altitude of over 2000 ft. Out of the level plain rise many isolated
   peaks, generally of conical formation. Numerous rivers descend from
@@ -49,18 +49,18 @@ with a population of over a million, of whom about 2000 are Europeans.
   of about 150 m., and is navigable in steam launches for about 80 m.
   The Prah ("Busum Prah," sacred river) is regarded as a fetish stream
   by the Fanti and Ashanti. One of its sub-tributaries has its rise near
-  Kumasi. The Prah rises in the N.E. of the colony and flows S.W. Some
+  [[Kumasi]]. The Prah rises in the N.E. of the colony and flows S.W. Some
   60 m. from its mouth it is joined by the Ofin, which comes from the
   north-west. The united stream flows S. and reaches the sea in 1 deg.
   35' W. As a waterway the river, which has a course of 400 m., is
-  almost useless, owing to the many cataracts in its course. Another
+  almost useless, owing to the many [[Cataract|cataracts]] in its course. Another
   river is the Tano, which for some distance in its lower course forms
   the boundary between the colony and the Ivory Coast.
 
   _Geology._--Cretaceous rocks occur at intervals along the coast belt,
   but are mostly hidden under an extensive development of superficial
   deposits. Basalt occurs at Axim. Inland is a broad belt of sandstone
-  and marl with an occasional band of auriferous conglomerate, best
+  and [[Marl|marl]] with an occasional band of auriferous conglomerate, best
   known and most extensively worked for gold in the Wasaw district.
   Though the conglomerates bear some resemblance to the "Banket" of
   South Africa they are most probably of more recent date. The alluvial
@@ -68,13 +68,13 @@ with a population of over a million, of whom about 2000 are Europeans.
 
   _Climate._--The climate on the coast is hot, moist and unhealthy,
   especially for Europeans. The mean temperature in the shade in the
-  coast towns is 78 deg. to 80 deg. F. Fevers and dysentery are the
+  coast towns is 78 deg. to 80 deg. F. [[Fever|Fevers]] and dysentery are the
   diseases most to be dreaded by the European. The native inhabitants,
   although they enjoy tolerable health and live to an average age, are
   subject in the rainy season to numerous chest complaints. There are
   two wet seasons. From April to August are the greater rains, whilst in
   October and November occur the "smalls" or second rains. From the end
-  of December to March the dry harmattan wind blows from the Sahara. In
+  of December to March the dry [[Harmattan|harmattan]] wind blows from the Sahara. In
   consequence of the prevalence of the sea-breeze from the south-west
   the western portion of the colony, up to the mouth of the Sekum river
   (a small stream to the west of Accra), is called the windward
@@ -97,44 +97,44 @@ with a population of over a million, of whom about 2000 are Europeans.
   Flowering plants are comparatively rare; they include orchids and a
   beautiful white lily. The "bush" or intermediate growth is made up of
   smaller trees, the rubber vine and other creepers, some as thick as
-  hawsers, bamboos and sensitive mimosa, and has a height of from 30 to
+  [[Hawser|hawsers]], bamboos and sensitive mimosa, and has a height of from 30 to
   60 ft. The creepers are found not only in the bush, but on the ground
-  and hanging from the branches of the highest trees. West of the Prah
+  and [[Hanging|hanging]] from the branches of the highest trees. West of the Prah
   the forest comes down to the edge of the Atlantic. East of that river
   the coast land is covered with bushes 5 to 12 ft. high, occasional
   large trees and groves of oil palms. Still farther east, by Accra, are
-  numerous arborescent Euphorbias, and immediately west of the lower
-  Volta forests of oil palms and grassy plains with fan palms. Behind
+  numerous arborescent [[Euphorbia|Euphorbias]], and immediately west of the lower
+  Volta forests of oil palms and grassy plains with [[Fan|fan]] palms. Behind
   all these eastern regions is a belt of thin forest country before the
   denser forest is reached. In the north-east are stretches of
-  orchard-like country with wild plum, shea-butter and kola trees,
-  baobabs, dwarf date and fan palms. The cotton and tobacco plants grow
+  orchard-like country with wild plum, shea-butter and [[Kola|kola]] trees,
+  [[Baobab|baobabs]], dwarf date and fan palms. The cotton and tobacco plants grow
   wild. At the mouths of the rivers and along the lagoons the mangrove
   is the characteristic tree. There are numerous coco-nut palms along
   the coast. The fruit trees and plants also include the orange,
   pine-apple, mango, papaw, banana and avocado or alligator pear.
 
-  _Fauna._--The fauna includes leopards, panthers, hyenas, Potto lemurs,
-  jackals, antelopes, buffaloes, wild-hogs and many kinds of monkey,
+  _Fauna._--The fauna includes [[Leopard|leopards]], panthers, hyenas, Potto [[Lemur|lemurs]],
+  jackals, [[Antelope|antelopes]], [[Buffalo|buffaloes]], wild-hogs and many kinds of monkey,
   including the chimpanzee and the _Colobus vellerosus_, whose skin,
-  with long black silky hair, is much prized in Europe. The elephant has
-  been almost exterminated by ivory hunters. The snakes include pythons,
+  with long black silky hair, is much prized in Europe. The [[Elephant|elephant]] has
+  been almost exterminated by ivory [[Hunter|hunters]]. The snakes include pythons,
   cobras, horned and puff adders and the venomous water snake. Among the
-  lesser denizens of the forest are the squirrel and porcupine.
-  Crocodiles and in fewer numbers manatees and otters frequent the
-  rivers and lagoons and hippopotami are found in the Volta. Lizards of
-  brilliant hue, tortoises and great snails are common. Birds, which are
-  not very numerous, include parrots and hornbills, kingfishers,
-  ospreys, herons, crossbills, curlews, woodpeckers, doves, pigeons,
+  lesser [[Denizen|denizens]] of the forest are the squirrel and porcupine.
+  [[Crocodile|Crocodiles]] and in fewer numbers manatees and otters frequent the
+  rivers and lagoons and hippopotami are found in the Volta. [[Lizard|Lizards]] of
+  brilliant [[Hue|hue]], tortoises and great snails are common. Birds, which are
+  not very numerous, include parrots and hornbills, [[Kingfisher|kingfishers]],
+  ospreys, herons, [[Crossbill|crossbills]], curlews, woodpeckers, [[Dove|doves]], pigeons,
   storks, pelicans, swallows, vultures and the spur plover (the
-  last-named rare). Shoals of herrings frequent the coast, and the other
-  fish include mackerel, sole, skate, mullet, bonito, flying fish,
+  last-named rare). Shoals of [[Herrings|herrings]] frequent the coast, and the other
+  fish include [[Mackerel|mackerel]], sole, skate, mullet, bonito, flying fish,
   fighting fish and shynose. Sharks abound at the mouths of all the
   rivers, edible turtle are fairly common, as are the sword fish,
-  dolphin and sting ray (with poisonous caudal spine). Oysters are
+  [[Dolphin|dolphin]] and sting ray (with poisonous caudal spine). Oysters are
   numerous on rocks running into the sea and on the exposed roots of
-  mangrove trees. Insect life is multitudinous; beetles, spiders, ants,
-  fireflies, butterflies and jiggers abound. The earthworm is rare. The
+  mangrove trees. [[Insect]] life is multitudinous; beetles, spiders, ants,
+  fireflies, butterflies and jiggers abound. The [[Earthworm|earthworm]] is rare. The
   mosquitos include the _Culex_ or ordinary kind, the _Anopheles_, which
   carry malarial fever, and the _Stegomyia_, a striped white and black
   mosquito which carries yellow-fever.
@@ -152,17 +152,17 @@ with a population of over a million, of whom about 2000 are Europeans.
   portion of the colony, have engaged in gold-digging from time
   immemorial. The capital of their country is Kibbi. The Akwapim
   (Aquapem), southern neighbours of the Akim, are extensively engaged in
-  agriculture and in trade. The Accra, a clever race, are to be found in
+  agriculture and in trade. The Accra, a [[Clever|clever]] race, are to be found in
   all the towns of the West African coast as artisans and sailors. They
   are employed by the interior tribes as middlemen and interpreters. On
   the right bank of the Volta occupying the low marshy land near the sea
   are the Adangme. The Krobos live in little villages in the midst of
-  the palm tree woods which grow round about the Kroboberg, an eminence
+  the palm tree woods which grow round about the Kroboberg, an [[Eminence|eminence]]
   about 1000 ft. high. Their country lies between that of the Akim and
   the Adangme. In the west of the colony is the Ahanta country, formerly
   an independent kingdom. The inhabitants were noted for their skill in
   war. They are one of the finest and most intelligent of the tribes of
-  Accra stock. The Apollonia, a kindred race, occupy the coast region
+  Accra stock. The [[Apollonia]], a kindred race, occupy the coast region
   nearest the Ivory Coast.
 
 
@@ -170,7 +170,7 @@ with a population of over a million, of whom about 2000 are Europeans.
 
   The Tshi, Tchwi or Chi language,[1] which is that spoken on the Gold
   Coast, belongs to the great prefix-pronominal group. It comprises many
-  dialects, which may, however, be reduced to two classes or types. Akan
+  [[Dialect|dialects]], which may, however, be reduced to two classes or types. Akan
   dialects are spoken in Assini, Amanahia (Apollonia), Awini, Ahanta,
   Wasaw, Tshuforo (Juffer or Tufel), and Denkyera in the west, and in
   Asen, Akim, and Akwapim in the east, as well as in the different parts
@@ -182,7 +182,7 @@ with a population of over a million, of whom about 2000 are Europeans.
   deteriorated form of the same original. Akim is considered the finest
   and purest of all the Akan dialects. The Akwapim, which is based on
   the Akim but has imbibed Fanti influences, has been made the
-  book-language by the Basel missionaries. They had reduced it to
+  book-language by the [[Basel]] missionaries. They had reduced it to
   writing before 1850. About a million people in all, it is estimated,
   speak dialects of the Tshi.
 
@@ -202,12 +202,12 @@ with a population of over a million, of whom about 2000 are Europeans.
 
     Religion and education.
 
-  Fetishism (q.v.) is the prevailing religion of all the tribes. Belief
+  [[Fetishism]] (q.v.) is the prevailing religion of all the tribes. Belief
   in a God is universal, as also is a belief in a future state.
   Christianity and Mahommedanism are both making progress. The natives
   professing Christianity number about 40,000. A Moravian mission was
   started at Christiansborg about 1736; the Basel mission (Evangelical)
-  was begun in 1828, the missionaries combining manual training and farm
+  was begun in 1828, the missionaries combining [[Manual|manual]] training and farm
   labour with purely religious work; the Wesleyans started a mission
   among the Fanti in 1835, and the Anglican and Roman Catholic Churches
   are also represented, as well as the Bremen Missionary Society.
@@ -246,7 +246,7 @@ with a population of over a million, of whom about 2000 are Europeans.
   Coromantynes given in the West Indies to slaves from the Gold Coast.
   Eighty miles from Cape Coast is Accra (q.v.) (pop. 17,892), capital of
   the colony. (Winnebah is passed 30 m. before Accra is reached. It is
-  an old town noted for the manufacture of canoes.) There is no station
+  an old town noted for the manufacture of [[Canoe|canoes]].) There is no station
   of much importance in the 60 m. between Accra and the Volta, on the
   right bank of which river, near its mouth, is the town of Addah (pop.
   13,240). Kwitta (pop. 3018) lies beyond the Volta not far from the
@@ -262,8 +262,8 @@ with a population of over a million, of whom about 2000 are Europeans.
   _Agriculture and Trade._--The soil is everywhere very fertile and the
   needs of the people being few there is little incentive to work. The
   forests alone supply an inexhaustible source of wealth, notably in the
-  oil palm. Among vegetable products cultivated are cocoa, cotton,
-  Indian corn, yams, cassava, peas, peppers, onions, tomatoes,
+  oil palm. Among vegetable products cultivated are [[Cocoa|cocoa]], cotton,
+  Indian [[Corn|corn]], yams, [[Cassava|cassava]], peas, peppers, onions, tomatoes,
   groundnuts (_Arachis hypogaea_), Guinea corn (_Sorghum vulgare_) and
   Guinea grains (_Amomum grana-paradisi_). The most common article of
   cultivation is, however, the kola nut (_Sterculia acuminata_), the
@@ -280,7 +280,7 @@ with a population of over a million, of whom about 2000 are Europeans.
   slightly exceeded 2,000,000 lb. and fetched L42,000. In 1907 the
   quantity exported was nearly 21,000,000 lb. and in value exceeded
   L515,000. In 1904 efforts were begun by the government and the British
-  Cotton Growing Association in co-operation to foster the growing of
+  Cotton Growing Association in [[Co-Operation|co-operation]] to foster the growing of
   cotton for export and by 1907 the cotton industry had become firmly
   established. Tobacco and coffee are grown at some of the Basel
   missionary stations.
@@ -289,8 +289,8 @@ with a population of over a million, of whom about 2000 are Europeans.
   timber (including mahogany) and kola nuts. Of these articles the gold
   and rubber are shipped chiefly to England, whilst Germany, France and
   America, take the palm products and groundnuts. The rubber comes
-  chiefly from Ashanti. The imports consist of cotton goods, rum, gin
-  and other spirits, rice, sugar, tobacco, beads, machinery, building
+  chiefly from Ashanti. The imports consist of cotton goods, rum, [[Gin|gin]]
+  and other spirits, rice, sugar, tobacco, [[Bead|beads]], machinery, building
   materials and European goods generally.
 
   The value of the trade increased from L1,628,309 in 1896 to L4,055,351
@@ -311,7 +311,7 @@ with a population of over a million, of whom about 2000 are Europeans.
   flourishing industry, and salt from the lagoons near Addah is roughly
   prepared. There are also native artificers in gold and other metals,
   the workmanship in some cases being of conspicuous merit. Odum wood is
-  largely used in building and for cabinet work.
+  largely used in building and for [[Cabinet|cabinet]] work.
 
   _Gold Mining._--Gold is found in almost every part of the colony, but
   only in a few districts in paying quantities. Although since the
@@ -327,14 +327,14 @@ with a population of over a million, of whom about 2000 are Europeans.
   overcome. Consequent upon the taking up of a number of concessions, a
   concessions ordinance was issued in August 1900. This was followed in
   1901 by the grant of 2825 concessions, and a "boom" in the West
-  African market on the London stock exchange. Many concessions were
+  African market on the London stock [[Exchange|exchange]]. Many concessions were
   speedily abandoned, and in 1901 the export of gold dropped to its
   lowest point, 6162 oz., worth L22,186, but in 1902 a large company
   began crushing ore and the output of gold rose to 26,911 oz., valued
   at L96,880. In 1907 the export was 292,125 oz., worth L1,164,676. It
   should be noted that one of the principal gold mines is not in the
   colony proper, but at Obuassi in Ashanti. Underground labour is
-  performed mainly by Basas and Krumen from Liberia. Of native tribes
+  performed mainly by Basas and [[Krumen]] from Liberia. Of native tribes
   the Apollonia have proved the best for underground work, as they have
   mining traditions dating from Portuguese times. A good deal of
   alluvial gold is obtained by dredging apparatus. The use of dredging
@@ -349,7 +349,7 @@ with a population of over a million, of whom about 2000 are Europeans.
   Kumasi, the distance to Obuassi (124 m.) being completed by December
   1902, whilst the first train entered the Ashanti capital on the 1st of
   October 1903. The total length of the line is 168 m. The cost of
-  construction was L1,820,000. The line has a gauge 3 ft. 6 in. There is
+  construction was L1,820,000. The line has a [[Gauge|gauge]] 3 ft. 6 in. There is
   a branch line, 20 m. long, from Tarkwa N.W. to Prestea on the Ankobra
   river. Another railway, built 1907-10, 35 m. in length, runs from
   Accra to Mangoase, in the centre of the chief cocoa plantations. An
@@ -394,10 +394,10 @@ with a population of over a million, of whom about 2000 are Europeans.
   children. The government of the tribes is by their own kings and
   chiefs under the supervision of district commissioners. Slavery has
   been abolished in the colony. In the Northern Territories the dealing
-  in slaves is unlawful, neither can any person be put in pawn for debt;
+  in slaves is unlawful, neither can any person be put in pawn for [[Debt|debt]];
   nor will any court give effect to the relations between master and
   slave except in so far as those relations may be in accordance with
-  the English laws relating to master and servant.
+  the [[English Law|English laws]] relating to master and servant.
 
   For administrative purposes the colony is divided into three provinces
   under provincial commissioners, and each province is subdivided into
@@ -406,13 +406,13 @@ with a population of over a million, of whom about 2000 are Europeans.
   justice and three puisne judges. The defence of the colony is
   entrusted to the Gold Coast regiment of the West African Frontier
   Force, a force of natives controlled by the Colonial Office but
-  officered from the British army. There is also a corps of volunteers
+  officered from the British army. There is also a [[Corps|corps]] of volunteers
   (formed 1892).
 
   The chief source of revenue is the customs and (since 1902) railway
-  receipts, whilst the heaviest items of expenditure are transport
+  receipts, whilst the heaviest [[Item|items]] of expenditure are transport
   (including railways) and mine surveys, medical and sanitary services,
-  and maintenance of the military force. The revenue, which in the
+  and [[Maintenance|maintenance]] of the military force. The revenue, which in the
   period 1894-1898 averaged L244,559 yearly, rose in 1898-1903 to an
   average of L556,316 a year. For the five years 1903-1907 the average
   annual revenue was L647,557 and the average annual expenditure
@@ -429,13 +429,13 @@ record, that a company of Norman merchants established themselves about
 1364 at a place they named La Mina (Elmina), and that they traded with
 the natives for nearly fifty years, when the enterprise was abandoned.
 It is well established that a Portuguese expedition under Diogo
-d'Azambuja, accompanied probably by Christopher Columbus, took
+d'Azambuja, accompanied probably by [[Christopher]] Columbus, took
 possession of (or founded) Elmina in 1481-1482. By the Portuguese it was
 called variously Sao Jorge da Mina or Ora del Mina--the mouth of the
 (gold) mines. That besides alluvial washings they also worked the gold
 mines was proved by discoveries in the latter part of the 19th century.
 The Portuguese remained undisturbed in their trade until the
-Reformation, when the papal bull which had given the country, with many
+Reformation, when the papal [[Bull|bull]] which had given the country, with many
 others, to Portugal ceased to have a binding power. English ships in
 1553 brought back from Guinea gold to the weight of 150 lb. The fame of
 the Gold Coast thereafter attracted to it adventurers from almost every
@@ -487,7 +487,7 @@ exercise territorial rights in the towns where they held forts, and in
 1817 the right of the British to control the natives living in the coast
 towns was recognized by Ashanti. In 1824 the first step towards the
 extension of British authority beyond the coast region was taken by
-Governor Sir Charles M'Carthy, who incited the Fanti to rise against
+Governor Sir Charles [[M'Carthy]], who incited the Fanti to rise against
 their oppressors, the Ashanti. (The Fanti's country had been conquered
 by the Ashanti in 1807.) Sir Charles and the Fanti army were defeated,
 the governor losing his life, but in 1826 the English gained a victory
@@ -497,10 +497,10 @@ disturbances in the protectorate and the trouble it occasioned,
 determined to abandon the settlements, and sent instructions for the
 forts to be destroyed and the Europeans brought home. The merchants,
 backed by Major Rickets, 2nd West India regiments, the administrator,
-protested, and as a compromise the forts were handed over to a committee
+protested, and as a [[Compromise|compromise]] the forts were handed over to a committee
 of merchants (Sept. 1828), who were given a subsidy of L4000 a year. The
 merchants secured (1830) as their administrator Mr George Maclean--a
-gentleman with military experience on the Gold Coast and not engaged in
+[[Gentleman|gentleman]] with military experience on the Gold Coast and not engaged in
 trade. To Maclean is due the consolidation of British interests in the
 interior. He concluded, 1831, a treaty with the Ashanti advantageous to
 the Fanti, whilst with very inadequate means he contrived to extend
@@ -544,7 +544,7 @@ its junction with the White Volta. Thence the frontier turns south and
 afterwards east so as to include the Brumasi district in the
 protectorate, the frontier gaining the main Volta below Yeji. The
 Territories include nearly all the country from the meridian of
-Greenwich to 3 deg. W. and between 8 deg. and 11 deg. N., and cover an
+[[Greenwich]] to 3 deg. W. and between 8 deg. and 11 deg. N., and cover an
 area of about 33,000 sq. m.
 
 Lying north of the great belt of primeval forest which extends parallel
@@ -571,7 +571,7 @@ to slave-raiding and gaining the confidence of the chiefs. Trained by
 British officers, the natives make excellent soldiers.
 
   _Agriculture and Trade._--The chief crops are maize, guinea-corn,
-  millet, yams, rice, beans, groundnuts, tobacco and cotton. Cotton is
+  millet, yams, rice, [[Bean|beans]], groundnuts, tobacco and cotton. Cotton is
   grown in most parts of the protectorate, the soil and climate in many
   districts being very suitable for its cultivation. Rubber is found in
   the north-western regions. When the protectorate was assumed by Great
@@ -588,7 +588,7 @@ British officers, the natives make excellent soldiers.
   latter used in cooking and as an illuminant. The principal imports are
   kola-nuts, salt and cotton goods. A large proportion of the European
   goods imported is German and comes through Togoland. The
-  administration levies a tax on traders' caravans, and in return
+  administration [[Levi|levies]] a tax on traders' [[Caravan|caravans]], and in return
   ensures the safety of the roads. This tax is the chief local source of
   revenue. The revenue and expenditure of the Territories, as well as
   statistics of trade, are included in those of the Gold Coast.
@@ -611,12 +611,12 @@ British officers, the natives make excellent soldiers.
   Bole (Baule) and Wa. They carry on an extensive trade with Bontuku,
   the capital of Jaman, and other places in the Ivory Coast colony. In
   all the towns the population largely consists of aliens--Hausa,
-  Ashanti, Mandingos, &c.
+  Ashanti, [[Mandingo|Mandingos]], &c.
 
   _Communications._--Lack of easy communication with the sea hinders the
   development of the country. The ancient caravan routes have been,
   however, supplemented by roads built by the British, who have further
-  organized a service of boats on the Volta. Large cargo boats, chiefly
+  organized a service of boats on the Volta. Large [[Cargo|cargo]] boats, chiefly
   laden with salt, ascend that river from Addah to Yeji and Daboya. From
   Yeji, the port of Salaga, a good road, 150 m. long, has been made to
   Gambaga. There is also a river service from Yeji to Longoro on the
@@ -626,18 +626,18 @@ British officers, the natives make excellent soldiers.
 
 _History._--It was not until the last quarter of the 19th century that
 the country immediately north of Ashanti became known to Europeans. The
-first step forward was made by Monsieur M. J. Bonnat (one of the Kumasi
-captives, see ASHANTI) who, ascending the Volta, reached Salaga
+first step forward was made by Monsieur M. J. [[Bonnat]] (one of the Kumasi
+[[Captive|captives]], see ASHANTI) who, ascending the Volta, reached Salaga
 (1875-1876). In 1882 Captain R. La Trobe Lonsdale, an officer in British
 colonial service, went farther, visiting Yendi in the north and Bontuku
-in the west. Two years later Captain Brandon Kirby made his way to
+in the west. Two years later Captain Brandon [[Kirby]] made his way to
 Kintampo. In 1887-1889 Captain L. G. Binger, a French officer, traversed
 the country from north to south. Thereafter the whole region was visited
 by British, French and German political missions. Prominent among the
 British agents was Mr George E. Ferguson, a native of West Africa, who
 had previously explored northern Ashanti. Between 1892 and 1897 Ferguson
 concluded several treaties guarding British interests. In 1897
-Lieutenant Henderson and Ferguson occupied Wa, where they were attacked
+Lieutenant [[Henderson]] and Ferguson occupied Wa, where they were attacked
 by the _sofas_ of Samory (see SENEGAL, S 3). Henderson, who had gone to
 the _sofa_ camp to parley, was held prisoner for some time, while
 Ferguson was killed. Meantime negotiations were opened in Europe to
@@ -673,18 +673,18 @@ has been marked.
 
   BIBLIOGRAPHY.--A good summary of the condition and history of the
   colony to the close of the 19th century will be found in vol. 3, "West
-  Africa," of the _Historical Geography of the British Empire_ by C. P.
-  Lucas (2nd ed., Oxford, 1900). For current information see the _Gold
+  Africa," of the _Historical [[Geography]] of the British Empire_ by C. P.
+  [[Lucas]] (2nd ed., Oxford, 1900). For current information see the _Gold
   Coast Civil Service List_ (London, yearly), the annual Blue Books
   published in the colony, and the annual _Report_ issued by the
-  Colonial Office, London. For fuller information consult the _Report
+  Colonial Office, London. For [[Fuller|fuller]] information consult the _Report
   from the Select Committee on Africa_ (_Western Coast_) (London, 1865),
   a mine of valuable information; _The Gold Coast, Past and Present_, by
-  G. Macdonald (London, 1898); _History of the Gold Coast and Ashanti_,
+  G. [[Macdonald]] (London, 1898); _History of the Gold Coast and Ashanti_,
   by C. C. Reindorf, a native pastor (Basel, 1895); _A History of the
   Gold Coast_, by Col. A. B. Ellis (London, 1893); _Wanderings in West
   Africa_ (London, 1863) and _To the Gold Coast for Gold_ (London,
-  1883), both by Sir Richard Burton. Of the earlier books the most
+  1883), both by Sir Richard [[Burton]]. Of the earlier books the most
   notable are _The Golden Coast or a Description of Guinney together
   with a relation of such persons as got wonderful estates by their
   trade thither_ (London, 1665), and _A New and Accurate Description of
@@ -702,7 +702,7 @@ has been marked.
   plants. See also _Report on Economic Agriculture on the Gold Coast_
   (Colonial Office Reports, No. 110, 1890), and _Papers relating to the
   Construction of Railways in ... the Gold Coast_ (London, 1904). The
-  best map is that of Major F. G. Guggisberg, over 70 sheets, scale 1 :
+  best [[Map|map]] is that of Major F. G. Guggisberg, over 70 sheets, scale 1 :
   125,000 (London, 1907-1909). There is a War Office map on the scale 1
   : 1,000,000 in one sheet. See also the works quoted under ASHANTI.
 

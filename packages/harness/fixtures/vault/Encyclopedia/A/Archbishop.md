@@ -18,7 +18,7 @@ jurisdiction. Nor are the terms interchangeable now; for not all
 metropolitans are archbishops,[1] nor all archbishops metropolitans. The
 title seems to have been introduced first in the East, in the 4th
 century, as an honorary distinction implying no superiority of
-jurisdiction. Its first recorded use is by Athanasius, bishop of
+jurisdiction. Its first recorded use is by [[Athanasius]], bishop of
 Alexandria, who applied it to his predecessor Alexander as a mark of
 respect. In the same way Gregory of Nazianzus bestowed it upon
 Athanasius himself. In the next century its use would seem to have been
@@ -42,7 +42,7 @@ certain branches of the Lutheran (Evangelical) Church.
 
 In the Roman Catholic Church the powers of the archbishop are
 considerably less extensive than they were in the middle ages. According
-to the medieval canon law, based on the decretals, and codified in the
+to the medieval canon law, based on the [[Decretals|decretals]], and codified in the
 13th century in the _Corpus juris canonici_, by which the earlier powers
 of metropolitans had been greatly curtailed, the powers of the
 archbishop consisted in the right (1) to confirm and consecrate
@@ -51,7 +51,7 @@ to superintend the suffragans and visit their dioceses, as well as to
 censure and punish bishops in the interests of discipline, the right of
 deprivation, however, being reserved to the pope; (4) to act as a court
 of appeal from the diocesan courts; (5) to exercise the _jus
-devolutionis_, i.e. present to benefices in the gift of bishops, if
+devolutionis_, i.e. present to [[Benefice|benefices]] in the gift of bishops, if
 these neglect their duty in this respect. These rights were greatly
 curtailed by the council of Trent. The confirmation and consecration of
 bishops (q.v.) is now reserved to the Holy See. The summoning of
@@ -87,7 +87,7 @@ the archbishop is known only as archbishop-elect, and is not empowered
 to exercise his _potestas ordinis_ in the archdiocese nor to summon the
 provincial synod and exercise the jurisdiction dependent upon this. He
 may, however, exercise his purely _episcopal_ functions. The special
-ensign of his office is the cross, _crux erecta_ or _gestatoria_,
+[[Ensign|ensign]] of his office is the cross, _crux erecta_ or _gestatoria_,
 carried before him on solemn occasions (see CROSS).
 
 
@@ -97,7 +97,7 @@ In the Orthodox and other churches of the East the title of archbishop
 is of far more common occurrence than in the West, and is less
 consistently associated with metropolitan functions. Thus in Greece
 there are eleven archbishops to thirteen bishops, the archbishop of
-Athens alone being metropolitan; in Cyprus, where there are four bishops
+Athens alone being metropolitan; in [[Cyprus]], where there are four bishops
 and only one archbishop, all five are of metropolitan rank.
 
 
@@ -106,7 +106,7 @@ and only one archbishop, all five are of metropolitan rank.
 In the Protestant churches of continental Europe the title of archbishop
 has fallen into almost complete disuse. It is, however, still borne by
 the Lutheran bishop of Upsala, who is metropolitan of Sweden, and by the
-Lutheran bishop of Abo in Finland. In Prussia the title has occasionally
+Lutheran bishop of Abo in [[Finland]]. In Prussia the title has occasionally
 been bestowed by the king on general superintendents of the Lutheran
 church, as in 1829, when Frederick William III. gave it to his friend
 and spiritual adviser, the celebrated preacher, Ludwig Ernst Borowski
@@ -133,26 +133,26 @@ primate of all England extends in certain matters into the province of
 York. He exercised the jurisdiction of _legatus natus_ of the pope
 throughout all England before the Reformation, and since that event he
 has been empowered, by 25 Hen. VIII. c. 21, to exercise certain powers
-of dispensation in cases formerly sued for in the court of Rome. Under
+of [[Dispensation|dispensation]] in cases formerly sued for in the court of Rome. Under
 this statute the archbishop continues to grant special licences to
 marry, which are valid in both provinces; he appoints notaries public,
 who may practise in both provinces; and he grants dispensations to
 clerks to hold more than one benefice, subject to certain restrictions
 which have been imposed by later statutes. The archbishop also continues
 to grant degrees in the faculties of theology, music and law, which are
-known as Lambeth degrees. His power to grant degrees in medicine,
+known as [[Lambeth]] degrees. His power to grant degrees in medicine,
 qualifying the recipients to practise, was practically restrained by the
 Medical Act 1858.
 
 The archbishop of Canterbury exercises the twofold jurisdiction of a
-metropolitan and a diocesan bishop. As metropolitan he is the guardian
+metropolitan and a diocesan bishop. As metropolitan he is the [[Guardian|guardian]]
 of the spiritualities of every vacant see within the province, he
 presents to all benefices which fall vacant during the vacancy of the
-see, and through his special commissary exercises the ordinary
+see, and through his special [[Commissary|commissary]] exercises the ordinary
 jurisdiction of a bishop within the vacant diocese. He exercises also an
 appellate jurisdiction over each bishop, which, in cases of licensed
-curates, he exercises personally under the Pluralities Act 1838; but his
-ordinary appellate jurisdiction is exercised by the judge of the Arches
+[[Curate|curates]], he exercises personally under the Pluralities Act 1838; but his
+ordinary appellate jurisdiction is exercised by the judge of the [[Arches]]
 court (see ARCHES, COURT OF). The archbishop had formerly exclusive
 jurisdiction in all causes of wills and intestacies, where parties died
 having personal property in more than one diocese of the province of
@@ -164,7 +164,7 @@ of the bishops of the province in all testamentary and matrimonial
 causes. The matrimonial jurisdiction was transferred to the crown by the
 Matrimonial Causes Act 1857. The court of Audience, in which the
 archbishop presided personally, attended by his vicar-general, and
-sometimes by episcopal assessors, has fallen into desuetude. The
+sometimes by episcopal [[Assessor|assessors]], has fallen into desuetude. The
 vicar-general, however, exercises jurisdiction in matters of ordinary
 marriage licences and of institutions to benefices. The master of the
 faculties regulates the appointment of notaries public, and all
@@ -175,10 +175,10 @@ of great importance, is that of the visitation and deprivation of
 inferior bishops. Since there is no example of the archbishop of York
 exercising or being reputed to have such disciplinary jurisdiction over
 his suffragans,[2] and this right could, according to the canon law
-cited above, in the middle ages only be exercised normally in concert
+cited above, in the middle ages only be exercised normally in [[Concert|concert]]
 with the provincial synod, it would seem to be a survival of the special
 jurisdiction enjoyed by the pre-Reformation archbishop as _legatus
-natus_ of the pope. It was somewhat freely exercised by Cranmer and his
+natus_ of the pope. It was somewhat freely exercised by [[Cranmer]] and his
 successors immediately after the Reformation; but the main precedent now
 relied upon is that of Dr Watson, bishop of St Davids, who was deprived
 in 1695 by Archbishop Tennison for simony and other offences, the
@@ -188,12 +188,12 @@ argument in this case that the archbishop of Canterbury had undoubtedly
 exercised such independent power of visitation both before and after the
 Reformation; and it was on this precedent that in 1888 the judicial
 committee of the privy council mainly relied in deciding that the
-archbishop had the right to cite before him the bishop of Lincoln (Dr
+archbishop had the right to cite before him the bishop of [[Lincoln]] (Dr
 Edward King), who was accused of certain irregular ritual practices. The
 trial began on the 12th of February 1889 before the archbishop and
 certain assessors, the protest of Dr King, based on the claim that he
 could only be tried in a provincial synod, being overruled by Archbishop
-Benson on the grounds above stated. The main importance of the "Lincoln
+[[Benson]] on the grounds above stated. The main importance of the "Lincoln
 Judgment," delivered on the 21st of November 1890, is that it set a new
 precedent for the effective jurisdiction of the archbishop, based on the
 ancient canon law, and so did something towards the establishment of a
@@ -204,7 +204,7 @@ It is the privilege of the archbishop of Canterbury to crown the kings
 and queens of England. He is entitled to consecrate all the bishops
 within his province and was formerly entitled, upon consecrating a
 bishop, to select a benefice within his diocese at his option for one of
-his chaplains, but this practice was indirectly abolished by 3 and 4
+his [[Chaplain|chaplains]], but this practice was indirectly abolished by 3 and 4
 Vict. c. III, S 42. He is entitled to nominate eight chaplains, who had
 formerly certain statutory privileges, which are now abolished. He is
 _ex officio_ an ecclesiastical commissioner for England, and has by
@@ -238,21 +238,21 @@ chancellor of England. He is ex officio an ecclesiastical commissioner
 for England (see further ENGLAND, CHURCH OF).
 
 The Church of Ireland had at the time of the Act of Union four
-archbishops, who took their titles from Armagh, Dublin, Cashel and Tuam.
+archbishops, who took their titles from [[Armagh]], Dublin, Cashel and Tuam.
 By acts of 1833 and 1834, the metropolitans of Cashel and of Tuam were
 reduced to the status of diocesan bishops. The two archbishoprics of
 Armagh and Dublin are maintained in the disestablished Church of
 Ireland.
 
 The title archbishop has been used in certain of the colonial churches,
-e.g. Australia, South Africa, Canada, and the West Indies, since 1893,
+e.g. [[Australia]], South Africa, Canada, and the West Indies, since 1893,
 when it was assumed by the metropolitans of Canada and Rupert's Land
 (see ANGLICAN COMMUNION). Archbishops have the title of His (or Your)
-Grace and Most Reverend Father in God.
+[[Grace]] and Most Reverend Father in God.
 
-  See Hinschius, _System des katholischen Kirchenrechts_ (Berlin, 1869),
+  See [[Hinschius]], _System des katholischen Kirchenrechts_ (Berlin, 1869),
   also article "Erzbischof," in Hauck, _Realencyklopadie_ (1898);
-  Phillimore, _The Ecclesiastical Law of the Church of England_, and
+  Phillimore, _The [[Ecclesiastical Law]] of the Church of England_, and
   authorities there cited.     (W. A. P.)
 
 

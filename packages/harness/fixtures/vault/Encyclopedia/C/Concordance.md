@@ -15,10 +15,10 @@ concordance).
 The original impetus to the making of concordances was due to the
 conviction that the several parts of the Bible are consistent with each
 other, as parts of a divine revelation, and may be combined as
-harmonious elements in one system of spiritual truth. To Anthony of
+harmonious elements in one system of spiritual truth. To [[Anthony]] of
 Padua (1195-1231) ancient tradition ascribes the first concordance, the
 anonymous _Concordantiae Morales_, of which the basis was the Vulgate.
-The first authentic work of the kind was due to Cardinal Hugh of St
+The first [[Authentic|authentic]] work of the kind was due to Cardinal Hugh of St
 Cher, a Dominican monk (d. 1263), who, in preparing for a commentary on
 the Scriptures, found the need of a concordance, and is reported to have
 used for the purpose the services of five hundred of his brother monks.
@@ -27,15 +27,15 @@ importance, one by Conrad of Halberstadt (fl. c. 1290) and the other by
 John of Segovia in the next century. This book was published in a
 greatly improved and amplified form in the middle of the 19th century by
 David Nutt, of London, edited by T. P. Dutripon. The first Hebrew
-concordance was compiled in 1437-1445 by Rabbi Isaac Nathan b. Kalonymus
-of Arles. It was printed at Venice in 1523 by Daniel Bomberg, in Basel
+concordance was compiled in 1437-1445 by Rabbi [[Isaac]] Nathan b. Kalonymus
+of [[Arles]]. It was printed at Venice in 1523 by [[Daniel]] Bomberg, in [[Basel]]
 in 1556, 1569 and 1581. It was published under the title _Meir Natib_,
 "The Light of the Way." In 1556 it was translated into Latin by Johann
-Reuchlin, but many errors appeared in both the Hebrew and the Latin
-edition. These were corrected by Marius de Calasio, a Franciscan friar,
-who published a four volume folio _Concordantiae Sacr. Bibl. Hebr. et
+Reuchlin, but many [[Error|errors]] appeared in both the Hebrew and the Latin
+edition. These were corrected by [[Marius]] de Calasio, a Franciscan [[Friar|friar]],
+who published a four volume [[Folio|folio]] _Concordantiae Sacr. Bibl. Hebr. et
 Latin._ at Rome, 1621, much enlarged, with proper names included.
-Another concordance based on Nathan's was Johann Buxtorf the elder's
+Another concordance based on Nathan's was Johann [[Buxtorf]] the elder's
 _Concordantiae Bibl. Ebraicae nova et artificiosa methodo dispositae_,
 Basel, 1632. It marks a stage in both the arrangement and the knowledge
 of the roots of words, but can only be used by those who know the
@@ -47,7 +47,7 @@ the monarchs of Europe and also of the pope. In 1754 John Taylor, D.D.,
 a Presbyterian divine in Norwich, published in two volumes the _Hebrew
 Concordance adapted to the English Bible_, disposed after the manner of
 Buxtorf. This was the most complete and convenient concordance up to the
-date of its publication. In the middle of the 19th century Dr Julius
+date of its publication. In the middle of the 19th century Dr [[Julius]]
 Fürst issued a thoroughly revised edition of Buxtorf's concordance. The
 _Hebräischen und chaldäischen Concordanz zu den Heiligen Schriften Alten
 Testaments_ (Leipzig, 1840) carried forward the development of the
@@ -56,36 +56,36 @@ on Hahn's Vanderhoogt's Bible; (2) the Rabbinical meanings; (3)
 explanations in Latin, and illustrations from the three Greek versions,
 the Aramaic paraphrase, and the Vulgate; (4) the Greek words employed by
 the Septuagint as renderings of the Hebrew; (5) notes on philology and
-archaeology, so that the concordance contained a Hebrew lexicon. An
-English translation by Dr Samuel Davidson was published in 1867. A
+[[Archaeology|archaeology]], so that the concordance contained a Hebrew lexicon. An
+English translation by Dr Samuel [[Davidson]] was published in 1867. A
 revised edition of Buxtorf's work with additions from Fürst's was
 published by B. Bär (Stettin, 1862). A new concordance embodying the
 matter of all previous works with lists of proper names and particles
 was published by Solomon Mandelkern in Leipzig (1896); a smaller edition
 of the same, without quotations, appeared in 1900. There are also
-concordances of Biblical proper names by G. Brecher (Frankfort-on-Main,
+concordances of Biblical proper names by G. Brecher ([[Frankfort-On-Main|Frankfort-on-Main]],
 1876) and Schusslovicz (Wilna, 1878).
 
-A _Concordance to the Septuagint_ was published at Frankfort in 1602 by
-Conrad Kircher of Augsburg; in this the Hebrew words are placed in
+A _Concordance to the Septuagint_ was published at [[Frankfort]] in 1602 by
+Conrad Kircher of [[Augsburg]]; in this the Hebrew words are placed in
 alphabetical order and the Greek words by which they are translated are
 placed under them. A Septuagint concordance, giving the Greek words in
 alphabetical order, was published in 1718 in two volumes by Abraham
-Tromm, a learned minister at Groningen, then in the eighty-fourth year
+Tromm, a learned minister at [[Groningen]], then in the eighty-fourth year
 of his age. It gives the Greek words in alphabetical order; a Latin
 translation; the Hebrew word or words for which the Greek term is used
 by the Septuagint; then the places where the words occur in the order of
 the books and chapters; at the end of the quotations from the Septuagint
-places are given where the word occurs in Aquila, Symmachus and
+places are given where the word occurs in [[Aquila]], Symmachus and
 Theodotion, the other Greek translations of the O. T.; and the words of
-the Apocrypha follow in each case. Besides an index to the Hebrew and
+the Apocrypha follow in each case. Besides an [[Index|index]] to the Hebrew and
 Chaldaic words there is another index which contains a lexicon to the
-_Hexapla_ of Origen. In 1887 (London) appeared the _Handy Concordance of
+_[[Hexapla]]_ of Origen. In 1887 (London) appeared the _Handy Concordance of
 the Septuagint giving various readings from Codices Vaticanus,
 Alexandrinus, Sinaiticus and Ephraemi, with an appendix of words from
-Origen's Hexapla, not found in the above manuscripts_, by G. M., without
+Origen's Hexapla, not found in the above [[Manuscript|manuscripts]]_, by G. M., without
 quotations. A work of the best modern scholarship was brought out in
-1897 by the Clarendon Press, Oxford, entitled _A Concordance to the
+1897 by the [[Clarendon]] Press, Oxford, entitled _A Concordance to the
 Septuagint and the other Greek versions of the Old Testament including
 the Apocryphal Books_, by Edwin Hatch and H. A. Redpath, assisted by
 other scholars; this was completed in 1900 by a list of proper names.
@@ -98,12 +98,12 @@ Henry, his son. Then in 1638 came Schmied's [Greek: tamieion], which has
 been the basis of subsequent concordances to the New Testament. Erasmus
 Schmied or Schmid was a Lutheran divine who was professor of Greek in
 Wittenberg, where he died in 1637. Revised editions of the [Greek:
-tamieion] were published at Gotha in 1717, and at Glasgow in 1819 by the
-University Press. In the middle of the 19th century Charles Hermann
+tamieion] were published at [[Gotha]] in 1717, and at [[Glasgow]] in 1819 by the
+University Press. In the middle of the 19th century Charles [[Hermann]]
 Bruder brought out a beautiful edition (Tauchnitz) with many
 improvements. The _apparatus criticus_ was a triumph of New Testament
 scholarship. It collates the readings of Erasmus, R. Stephens' third
-edition, the Elzevirs, Mill, Bengel, Webster, Knapp, Tittman, Scholz,
+edition, the [[Elzevir|Elzevirs]], Mill, Bengel, Webster, Knapp, Tittman, Scholz,
 Lachmann. It also gives a selection from the most ancient patristic
 MSS. and from various interpreters. No various reading of critical value
 is omitted. An edition of Bruder with readings of Samuel Prideaux
@@ -143,10 +143,10 @@ whole Bible, so often as it is there expressed or mentioned_, Lond.
 1550. Although Robert Stephens had divided the Bible into verses in
 1545, Marbeck does not seem to have known this and refers to the
 chapters only. In 1550 also appeared Walter Lynne's translation of the
-concordance issued by Bullinger, Jude, Pellican and others of the
+concordance issued by [[Bullinger]], Jude, Pellican and others of the
 Reformers. Other English concordances were published by Cotton, Newman,
 and in abbreviated forms by John Downham or Downame (cd. 1652), Vavasor
-Powell (1617-1670), Jackson and Samuel Clarke (1626-1701). In 1737
+Powell (1617-1670), [[Jackson]] and Samuel Clarke (1626-1701). In 1737
 Alexander Cruden (q.v.), a London bookseller, born and educated in
 Aberdeen, published his _Complete Concordance to the Holy Scriptures of
 the Old and New Testament, to which is added a concordance to the books
@@ -156,11 +156,11 @@ editions were published during Cruden's life, and many since his death.
 Cruden's work is accurate and full, and later concordances only
 supersede his by combining an English with a Greek and Hebrew
 concordance. This is done by the _Critical Greek and English
-Concordance_ prepared by C. F. Hudson, H. A. Hastings and Ezra Abbot,
-LL.D., published in Boston, Mass., and by the _Critical Lexicon and
+Concordance_ prepared by C. F. [[Hudson]], H. A. [[Hastings]] and [[Ezra]] Abbot,
+LL.D., published in [[Boston]], Mass., and by the _Critical Lexicon and
 Concordance to the English and Greek New Testament_, by E. L. Bullinger,
 1892. The _Interpreting Concordance to the New Testament_, edited by
-James Gall, shows the Greek original of every word, with a glossary
+James [[Gall]], shows the Greek original of every word, with a glossary
 explaining the Greek words of the New Testament, and showing their
 varied renderings in the Authorized Version. The most convenient of
 these is _Young's Analytical Concordance_, published in Edinburgh in

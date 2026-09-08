@@ -8,7 +8,7 @@ grace and colouring. His name was for about four centuries burdened with
 the heinous charge of murder; it was said that he treacherously
 assassinated his colleague, Domenico Veneziano, in order to monopolize
 the then recent secret of oil painting as practised in Flanders by the
-Van Eycks. This charge has, however, been proved to be an untruth;
+Van [[Eyck|Eycks]]. This charge has, however, been proved to be an untruth;
 Domenico died four years after Andrea. The latter is commonly called
 "Andrea (or Andreino) degl' Impiccati" (of the Hanged Men); this was in
 consequence of his being commissioned in 1435 to paint, in the Palazzo

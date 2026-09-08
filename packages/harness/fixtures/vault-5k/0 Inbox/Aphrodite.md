@@ -13,15 +13,15 @@ Greek Aphrodite.
 
 Among the Semitic peoples (with the notable exception of the Hebrews) a
 supreme female deity was worshipped under different names--the Assyrian
-Ishtar, the Phoenician Ashtoreth (Astarte), the Syrian Atargatis
+[[Ishtar]], the Phoenician Ashtoreth (Astarte), the Syrian Atargatis
 (Derketo), the Babylonian Belit (Mylitta), the Arabian Ilat (Al-ilat).
 The article "Aphrodite" in Roscher's _Lexikon der Mythologie_ is based
 upon the theory that all these were originally moon-goddesses, on which
 assumption all their functions are explained. This view, however, has
 not met with general acceptance, on the ground that, in Semitic
 mythology, the moon is always a male divinity; and that the full moon
-and crescent, found as attributes of Astarte, are due to a
-misinterpretation of the sun's disk and cow's horns of Isis, the result
+and [[Crescent|crescent]], found as attributes of Astarte, are due to a
+misinterpretation of the sun's disk and cow's [[Horn|horns]] of [[Isis]], the result
 of the dependence of Syrian religious art upon Egypt. On the other hand,
 there is some evidence in ancient authorities (Herodian v. 6, 10;
 Lucian, _De Dea Syria_, 4) that Astarte and the moon were considered
@@ -31,13 +31,13 @@ This oriental Aphrodite was worshipped as the bestower of all animal and
 vegetable fruitfulness, and under this aspect especially as a goddess of
 women. This worship was degraded by repulsive practices (e.g. religious
 prostitution, self-mutilation), which subsequently made their way to
-centres of Phoenician influence, such as Corinth and Mount Eryx in
+centres of Phoenician influence, such as [[Corinth]] and Mount Eryx in
 Sicily. In this connexion may be mentioned the idea of a divinity, half
 male, half female, uniting in itself the active and passive functions of
 creation, a symbol of luxuriant growth and productivity. Such was the
-bearded Aphrodite of Cyprus, called Aphrodites by Aristophanes according
+bearded Aphrodite of [[Cyprus]], called Aphrodites by Aristophanes according
 to Macrobius, who mentions a statue of the androgynous divinity in his
-_Saturnalia_ (iii. 8. 2; see also HERMAPHRODITUS). The moon, by its
+_Saturnalia_ (iii. 8. 2; see also [[Hermaphroditus|HERMAPHRODITUS]]). The moon, by its
 connexion with menstruation, and as the cause of the fertilizing dew,
 was regarded as exercising an influence over the entire animal and
 vegetable creation.
@@ -54,7 +54,7 @@ version, ashamed of her amour with a beautiful youth, which resulted in
 the birth of Semiramis, she attempted to drown herself, but was changed
 into a fish with human face (see ATARGATIS). At Hierapolis (Bambyce)
 there was a pool with an altar in the middle, sacred to the goddess,
-where a festival was held, at which her images were carried into the
+where a festival was held, at which her [[Image|images]] were carried into the
 water. Her connexion with the sea is explained by the influence of the
 moon on the tides, and the idea that the moon, like the sun and the
 stars, came up from the ocean.
@@ -67,17 +67,17 @@ and vegetable productivity ceases, to begin again with her return to
 earth--a clear indication of the conception of her as a goddess of
 fertility. This legend, which strikingly resembles that of Persephone,
 probably refers to the decay of vegetation in winter, and the
-reawakening of nature in spring (cf. HYACINTHUS). The lunar theory
+reawakening of nature in spring (cf. [[Hyacinthus|HYACINTHUS]]). The lunar theory
 connects it with the disappearance of the moon at the time of change or
 during an eclipse.
 
 Another aspect of her character is that of a warlike goddess, armed with
-spear or bow, sometimes wearing a mural crown, as sovereign lady and
+spear or [[Bow|bow]], sometimes wearing a mural crown, as sovereign lady and
 protectress of the locality where she was worshipped. The spear and
 arrows are identified with the beams of the sun and moon.
 
-The attributes of the goddess were the ram, the he-goat, the dove,
-certain fish, the cypress, myrtle and pomegranate, the animals being
+The attributes of the goddess were the ram, the he-goat, the [[Dove|dove]],
+certain fish, the [[Cypress|cypress]], myrtle and pomegranate, the animals being
 symbolical of fertility, the plants remedies against sterility.
 
 The worship of Aphrodite at an early date was introduced into Cyprus,
@@ -94,7 +94,7 @@ definite tradition of a connexion with the cult of the oriental
 Aphrodite Urania, an epithet which will be referred to later. The
 oriental features of her worship as practised at Corinth are due to its
 early commercial relations with Asia Minor; the fame of her temple
-worship on Mount Eryx spread to Carthage, Rome and Latium.
+worship on Mount Eryx spread to Carthage, Rome and [[Latium]].
 
 In the _Iliad_, Aphrodite is the daughter of Zeus and Dione, a name by
 which she herself is sometimes called. This has been supposed to point
@@ -116,7 +116,7 @@ the fact that, at the time of the adoption of the oriental goddess, the
 Greeks already possessed lunar divinities in Hecate, Selene, Artemis.
 But, although her connexion with the moon has practically disappeared,
 in all other aspects a development from the Semitic divinity is clearly
-manifest.
+[[Manifest|manifest]].
 
 Aphrodite as the goddess of all fruitfulness in the animal and vegetable
 world is especially prominent. In the Homeric hymn to Aphrodite she is
@@ -128,7 +128,7 @@ she is called Antheia ("the flower-goddess"), at Athens [Greek: en
 kepois] ("in the gardens"), and [Greek: en kalamois] ("in the
 reed-beds") or [Greek: en elei] ("in the marsh") at Samos. Her character
 as a goddess of vegetation is clearly shown in the cult and ritual of
-Adonis (q.v.; also Farnell, ii. p. 644) and Attis (q.v.). In the animal
+Adonis (q.v.; also Farnell, ii. p. 644) and [[Attis]] (q.v.). In the animal
 world she is the goddess of sexual impulse; amongst men, of birth,
 marriage, and family life. To this aspect may be referred the names
 Genetyllis ("bringing about birth"), Arma ([Greek: aro], "to join,"
@@ -152,7 +152,7 @@ two epithets [Greek: androphonos] ("man-slayer") and [Greek: sosandra]
 ("man-preserver") find an illustration in the pseudo-Plautine (in the
 _Mercator_) address to Astarte, who is described as the life and death,
 the saviour and destroyer of men and gods. It was natural that a
-personality invested with such charms should be regarded as the ideal of
+personality invested with such [[Charm|charms]] should be regarded as the ideal of
 womanly beauty, but it is remarkable that the only probable instance in
 which she appears as such is as Aphrodite [Greek: morpho] ("form") at
 Sparta (O. Gruppe suggests the meaning "ghost," C. Tumpel the "dark
@@ -172,12 +172,12 @@ Further proof may be found in many of her titles--[Greek: anaduomene]
 ("rising from the sea"), [Greek: enploia] ("giver of prosperous
 voyages"), [Greek: galenaia] ("goddess of fair weather"), [Greek:
 kataskopia] ("she who keeps a look-out from the heights")--in the
-attribute of the dolphin, and the veneration in which she was held by
+attribute of the [[Dolphin|dolphin]], and the veneration in which she was held by
 seafarers. Aphrodite Aineias, the protectress of the Trojan hero, is
 probably also another form of the maritime goddess of the East (see E.
 Worner, article "Aineias" in Roscher's _Lexikon_, and Farnell, ii. p.
 638), which originated in the Troad, where Aphrodite Aineias may have
-been identical with the earth-goddess Cybele. The title [Greek:
+been identical with the earth-goddess [[Cybele]]. The title [Greek:
 ephippos] is connected with the legend of Aeneas, who is said to have
 dedicated to his mother a statue that represented her on horseback.
 Remembering the importance of the horse in the cult of the sea-god
@@ -188,7 +188,7 @@ the corn-spirit (see J.G. Frazer, _The Golden Bough_, ii., 1900, p.
 281).
 
 Like Ishtar, Aphrodite was connected with the lower world. Thus, at
-Delphi there was an image of Aphrodite [Greek: epitumbia] ("Aphrodite of
+[[Delphi]] there was an image of Aphrodite [Greek: epitumbia] ("Aphrodite of
 the tomb"), to which the dead were summoned to receive libations; the
 epithets [Greek: tumboruchos] ("grave-digger"), [Greek: muchia]
 ("goddess of the depths"), [Greek: melainis] ("the dark one"), the grave
@@ -234,7 +234,7 @@ doubtful whether there are two goddesses, or whether Urania and Pandemos
 are two names for the same goddess, just as Zeus, although one and the
 same, has many titles; but in any case, he says, the ritual of Urania is
 purer, more serious, than that of Pandemos. The same idea is expressed
-in the statement (quoted by Athenaeus, 569d, from Nicander of Colophon)
+in the statement (quoted by [[Athenaeus]], 569d, from Nicander of Colophon)
 that after Solon's time courtesans were put under the protection of
 Aphrodite Pandemos. But there is no doubt that the cult of Aphrodite was
 on the whole as pure as that of any other divinities, and although a
@@ -267,18 +267,18 @@ Munich. Of existing statues the most famous is the Aphrodite of Melos
 the Venus of Capua, represented as a goddess of victory (these two
 exhibit a lofty conception of the goddess); the Medicean Venus at
 Florence, found in the porticus of Octavia at Rome and (probably
-wrongly) attributed to Cleomenes; the Venus stooping in the bath, in the
+wrongly) attributed to [[Cleomenes]]; the Venus stooping in the bath, in the
 Vatican; and the Callipygos at Naples, a specimen of the most sensual
 type.
 
   For the oriental Aphrodite, see E. Meyer, article "Astarte" in W.H.
   Roscher's _Lexikon der Mythologie_, and Wolf Baudissin, articles
-  "Astarte" and "Atargatis" in Herzog-Hauck's _Realencyklopadie fur
+  "Astarte" and "Atargatis" in Herzog-Hauck's _Realencyklopadie [[Fur|fur]]
   protestantische Theologie_; for the Greek, articles m Roscher's
   _Lexikon_ and Pauly-Wissowa's _Realencyclopadie_; L. Preller,
   _Griechische Mythologie_ (4th ed. by C. Robert); L.R. Farnell, _Cults
   of the Greek States_, ii. (1896); O. Gruppe, _Griechische Mythologie
-  und Religionsgeschichte_, ii. (1906); L. Dyer, _The Gods in Greece_
+  und Religionsgeschichte_, ii. (1906); L. [[Dyer]], _The Gods in Greece_
   (1891); A. Enmann, _Kypros und der Ursprung des Aphrodite-Kults_
   (1886). W.H. Engel, _Kypros_, ii. (1841), and J.B. Lajard, _Recherches
   sur le culte de Venus_ (1837), may still be consulted with advantage.
@@ -290,7 +290,7 @@ type.
 
 FOOTNOTE:
 
-  [1] No satisfactory etymology of the name has been given; although
+  [1] No satisfactory [[Etymology|etymology]] of the name has been given; although
     the first part is usually referred to [Greek: aphros] ("the sea
     foam"), it is equally probable that it is of Eastern origin. F.
     Homoll (_Jahrbucher fur classische Philologie_, cxxv., 1882) explains

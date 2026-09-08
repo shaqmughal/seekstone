@@ -11,7 +11,7 @@ where it may be considered to terminate. The most interesting spot in
 the glen is that traditionally known as the grave of Ossian. The
 district east of Buchanty, near which are the remains of a Roman camp,
 is said to be the Drumtochty of Ian Maclaren's stories. The mountainous
-region at the head of the glen is dominated by Ben y Hone or Ben Chonzie
+region at the head of the glen is dominated by Ben y [[Hone]] or Ben Chonzie
 (3048 ft. high).
 
 ## References

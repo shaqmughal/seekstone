@@ -5,7 +5,7 @@ term occasionally used for rural or pastoral poetry. The expression has
 been traced back in English to the beginning of the 14th century, being
 used to describe the "Eclogues" of Virgil. The most celebrated collection
 of bucolics in antiquity is that of Theocritus, of which about thirty, in
-the Doric dialect, and mainly written in hexameter verse, have been
+the Doric [[Dialect|dialect]], and mainly written in hexameter verse, have been
 preserved. This was the name, as is believed, originally given by Virgil to
 his pastoral poems, with the direct object of challenging comparison with
 the writings of Theocritus. In modern times the term "bucolics" has not

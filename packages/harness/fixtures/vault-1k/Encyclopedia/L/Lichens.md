@@ -123,7 +123,7 @@ into one another, and the distinction is not of classificatory value.
   very variable. In the dry and more typical state it is most frequently
   white or whitish, and almost as often greyish or greyish glaucous.
   Less commonly it is of different shades of brown, red, yellow and
-  black. In the moist state of the thallus these colours are much less
+  black. In the moist state of the thallus these [[Colours|colours]] are much less
   apparent, as the textures then become more or less translucent, and
   the thallus usually prevents the greenish colour of the gonidia (e.g.
   _Parmelia Borreri_, _Peltidea aphthosa_, _Umbilicaria pustulata_ and
@@ -770,7 +770,7 @@ respect has long since been abandoned.
 many species for supplying food for man and beast. This results from
 their containing starchy substances, and in some cases a small quantity
 of saccharine matter of the nature of mannite. One of the most useful
-nutritious species is _Cetraria islandica_, "Iceland moss," which, after
+nutritious species is _Cetraria islandica_, "[[Iceland]] moss," which, after
 being deprived of its bitterness by boiling in water, is reduced to a
 powder and made into cakes, or is boiled and eaten with milk by the poor
 Icelander, whose sole food it often constitutes. Similarly _Cladonia

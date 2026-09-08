@@ -9,7 +9,7 @@ by a morainic deposit, and thus flows in an inland direction. The early
 course of the Derwent lies through a flat open valley between the North
 Yorkshire moors and the Yorkshire Wolds, the upper part of which is
 known as the Carrs, when the river follows an artificial drainage cut.
-It receives numerous tributaries from the moors, then breaches the low
+It receives numerous tributaries from the moors, then [[Breach|breaches]] the low
 hills below Malton in a narrow picturesque valley, and debouches upon
 the central plain of Yorkshire. Its direction, hitherto westerly and
 south-westerly from the Carrs, now becomes southerly, and it flows
@@ -24,14 +24,14 @@ east from the tidal water to the small market town of Pocklington.
 (2) The Derbyshire Derwent rises in Bleaklow Hill north of the Peak and
 traverses a narrow dale, which, with those of such tributary streams as
 the Noe, watering Hope Valley, and the Wye, is famous for its beauty
-(see DERBYSHIRE). The Derwent flows south past Chatsworth, Matlock and
-Belper and then, passing Derby, debouches upon a low plain, and turns
+(see DERBYSHIRE). The Derwent flows south past Chatsworth, [[Matlock]] and
+Belper and then, passing [[Derby]], debouches upon a low plain, and turns
 south-eastward, with an extremely sinuous course, to join the Trent near
 Sawley. Its length is about 60 m. It falls in all some 1700 ft. (from
 Matlock 200 ft.), and no part is navigable, save certain reaches at
 Matlock and elsewhere for pleasure boats.
 
-(3) The Cumberland Derwent rises below Great End in the Lake District,
+(3) The Cumberland Derwent rises below Great End in the [[Lake District]],
 draining Sprinkling and Sty Head tarns, and flows through Borrowdale,
 receiving a considerable tributary from Lang Strath. It then drains the
 lakes of Derwentwater and Bassenthwaite, after which its course,

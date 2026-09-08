@@ -2,7 +2,7 @@
 
 BIHARI (properly _Bihari_), the name of the most western of the four
 forms of speech which comprise the Eastern Group of modern Indo-Aryan
-Languages (q.v.). The other members are Bengali, Oriya and Assamese (see
+Languages (q.v.). The other members are [[Bengali]], Oriya and Assamese (see
 BENGALI). The number of speakers of Bihari in 1901 was 34,579,844 in
 British India, out of a total of 90,242,167 for the whole group. It is
 also the language of the inhabitants of the neighbouring Tarai districts
@@ -16,22 +16,22 @@ extent this is a true description. It is the direct descendant of the
 old Magadhi Prakrit (see PRAKRIT), of which the headquarters were South
 Bihár, or the present districts of Patna and Gaya. It is, however, also
 spoken considerably beyond the limits of this province. To the west it
-extends over the province of Agra so far as the longitude of Benares,
-and to the south it covers nearly the whole of the province of Chota
+extends over the province of Agra so far as the longitude of [[Benares]],
+and to the south it covers nearly the whole of the province of [[Chota]]
 Nagpur. Allowing for the speakers in Nepal, its area extends over about
 90,000 sq. m., and the total number of people who claim it as a
 vernacular is about the same as the population of France. Bihari has
 been looked upon as a separate language only during the past twenty-five
 years. Before that it was grouped with all the other languages spoken
-between Bengal and the Punjab, under the general term "Hindi."
+between [[Bengal]] and the Punjab, under the general term "[[Hindi]]."
 
 The usual character employed for writing Bihari is that known as
 _Kaithi_, a cursive form of the well-known Nagari character of Upper
 India. The name of the character is derived from the _Kayath_ or
-_Kayasth_ caste, whose profession is that of scribes. Kaithi is widely
+_Kayasth_ [[Caste|caste]], whose profession is that of scribes. Kaithi is widely
 spread, under various names, all over northern India, and is the
 official character of Gujarati. The Nagari character is commonly
-employed for printed books, while the Brahmans of Tirhut have a
+employed for printed books, while the [[Brahman|Brahmans]] of Tirhut have a
 character of their own, akin to that used for writing Bengali and
 Assamese. In the south of the Bihari tract the Oriya character belonging
 to the neighbouring Orissa is also found.
@@ -45,7 +45,7 @@ Bengali as its pronunciation of the vowel _a_ and of the consonant _s_.
 The first is sounded like the _o_ in "hot" (transliterated _o_). In
 Eastern Bihari the same vowel has a broad sound, but not so broad as in
 Bengali. As we go westwards this broad sound is gradually lost, till it
-entirely disappears in the most western dialect, Bhojpuri. As regards
+entirely disappears in the most western [[Dialect|dialect]], Bhojpuri. As regards
 _s_, the Magadhi Prakrit pronounced it as _'s_, like the _sh_ in "shin."
 The Prakrits of the West preserved its dental sound, like that of the
 _s_ in "sin." Here Bengali and Eastern Hindi exactly represent the
@@ -73,7 +73,7 @@ which fall into two divisions, an eastern and a western. The eastern
 division includes _Maithili_ or _Tirhutia_ and _Magahi_. Magahi is the
 dialect of the country corresponding to the ancient Magadha, and may
 therefore be taken as the modern representative of the purest Magadhi
-Prakrit. Its northern boundary is generally the river Ganges, and its
+Prakrit. Its northern boundary is generally the river [[Ganges]], and its
 western the river Son. To the south it has overflowed into the northern
 half of Chota Nagpur. It is nearly related to Maithili, but it is quite
 uncultivated and has no literature, although it is the vernacular of the
@@ -131,14 +131,14 @@ language, had it any literature worthy of the name.
 
   When a word ends in _a_ preceded by a single uncompounded consonant,
   the _a_ is not pronounced; thus, _kisana_, sounded _kisan_. This vowel
-  is sometimes pronounced with a drawl, like the _a_ in "ball," and is
+  is sometimes pronounced with a drawl, like the _a_ in "[[Ball|ball]]," and is
   then transliterated _å_. When _a_ has this sound it can end a word,
   and in this position is common in the second person of verbs; thus,
   _dekhå_, see thou. This sound is very frequently heard in Bhojpuri,
   and gives a peculiar tone to the whole dialect, which at once strikes
   the casual hearer. The usual short form of the letter _a_ is _a_, but
   when this would lead to confusion it is shortened in Mth. and Mg. to a
-  sound like that of _a_ in the German _Mann_, and is then
+  sound like that of _a_ in the German _[[Mann]]_, and is then
   transliterated _a_. In Bh. it is always shortened to _a_. As an
   example, from _pani_, water, is formed the word _paniya_, but (in Mth.
   and Mg.) from the word _marab_, to strike, we have Mth. _mar^ali_, Mg.
@@ -161,8 +161,8 @@ language, had it any literature worthy of the name.
   dental _r_ and _rh_; thus, _ghoda_, pronounced _ghora_ or _ghora_. The
   semivowels _y_ and _v_ are always pronounced like _j_ and _b_
   respectively, unless they are simply euphonic letters put in to bridge
-  the hiatus between two concurrent vowels; thus _yauvana_ pronounced
-  _jauban_, and _maliya_ for _mali-a, ghor^awa_ for _ghor^a-a_. The
+  the [[Hiatus|hiatus]] between two concurrent vowels; thus _yauvana_ pronounced
+  _jauban_, and _maliya_ for _mali-a, [[Ghor|ghor]]^awa_ for _ghor^a-a_. The
   sibilants _s_ and _s_ are both pronounced as a dental _s_, but (a
   relic of the old Mg. Pr.) are both invariably written as a palatal _s_
   in the Kaithi character. Thus, the English word "session" (_sesun_) is
@@ -193,7 +193,7 @@ language, had it any literature worthy of the name.
   another dental letter. Thus, we have _kali_ or _kari_, black; _phar_
   or _phal_, fruit; Skr. _rajju-_, B. _leju-ri_, a string; _Lakhnaur_,
   the name of a town, quite commonly pronounced _Nakhlaul_; and the
-  English names Kelly and Currie both pronounced indifferently _kari_ or
+  English names Kelly and [[Currie]] both pronounced indifferently _kari_ or
   _kali_. Compare Assamese _saril_ for _Skr. sarira-_.
 
   The genius of the Bihari language is adverse to the existence of a
@@ -249,7 +249,7 @@ language, had it any literature worthy of the name.
   postpositions, are still separate words, and have not yet become
   suffixes. The more common postpositions are[1] Acc.-Dat. _ke_;
   Instr.-Abl. _så, se_; Loc. _må., me_. The genitive does not change to
-  agree with the gender of the governing noun, as in Hindostani, but in
+  agree with the gender of the governing noun, as in [[Hindostani]], but in
   Bh. (not in Mth. or Mg.), when the governing noun is not in the
   nominative singular, the genitive postposition takes the oblique form
   _ka_; thus, _raja-ke mandir_, the palace of the king; but _raja-ka
@@ -373,7 +373,7 @@ language, had it any literature worthy of the name.
   shall confine ourselves to describing the formation of the principal
   parts of the verb.
 
-  In Mth. the usual verb substantive and auxiliary verb is, as in
+  In Mth. the usual verb substantive and [[Auxiliary|auxiliary]] verb is, as in
   Bengali, based on the root _ach_ (Skr. _rcchati_), the initial vowel
   being generally dropped, as in _chi_, I am; _chalah^u_, I was; but
   _ach^i_, he is. In Mg. we have _hi_ or _hiki_, I am; _halu_, I was.
@@ -425,7 +425,7 @@ language, had it any literature worthy of the name.
   and of causal verbs formed from transitives, generally by adding _ab_
   (Skr. _apaya_-, Pr. _ave_-). Compound verbs are numerous. Noteworthy
   is the desiderative compound formed by adding the root _cah_, wish, to
-  the dative of a verbal noun. Thus, _ham dekha-ke cahait-chi_, I am
+  the [[Dative|dative]] of a verbal noun. Thus, _ham dekha-ke cahait-chi_, I am
   wishing for the seeing, I wish to see.
 
   _Conjugation in Bhojpuri._--The Bh. conjugation is as simple as that
@@ -438,14 +438,14 @@ language, had it any literature worthy of the name.
   _rahati_, Pr. _rahai_), as in _rah^ali_ or (contracted) _rahi_, I was.
   The verbal nouns and participles are nearly the same as in Mth.-Mg.,
   the first verbal noun and the present participle being _mar_ and
-  _marat_, as in Mg. The old present and imperative, derived from the
+  _[[Marat|marat]]_, as in Mg. The old present and imperative, derived from the
   Mg. Pr. forms, are also employed in Bh. Thus, _mare_ (Pr. _marei_), he
   strikes. This tense is often used as a present conditional. When it is
   wished to emphasize the sense of a present indicative, the syllable
   -_la_ is suffixed. The same suffix is employed in Rajasthani, Naipali
-  and Marathi to form the future, and in Bh. it is often also used with
+  and [[Marathi]] to form the future, and in Bh. it is often also used with
   a future sense. The past tense is formed, as in Mth.-Mg., by adding
-  pronominal suffixes to the past participle; thus, _mar^ali_ (_mara +
+  pronominal suffixes to the past participle; thus, _mar^ali_ (_[[Mara|mara]] +
   li_), I struck, as explained above. Similarly, for the first and
   second persons of the future we have _mar^abi_, I shall strike, and so
   on, but the third person is _mari_ (Pr. _marehi_), he will strike,
@@ -490,17 +490,17 @@ of whom we have any record is Vidyapati Thakkura (Bidyapati Thakur), who
 lived at the court of Raja Siva Simha of Sugaona in Tirhut in the 15th
 century. He was a voluminous Sanskrit writer, but his fame rests chiefly
 on his dainty lyrics in Maithili dealing with the loves of Radha and
-Krishna. These have exercised an important influence on the religious
+[[Krishna]]. These have exercised an important influence on the religious
 history of eastern India. They were adopted and enthusiastically recited
 by the reformer Caitanya (16th century), and through him became the
 home-poetry of the Bengali-speaking Lower Provinces. Their language was
 transformed (we can hardly say translated) into Bengali, and in that
 shape they have had numerous imitators. A collection of poems by the old
-Master-singer in their Maithili dress has been published by the present
+Master-singer in their Maithili [[Dress|dress]] has been published by the present
 writer in his _Chrestomathy_ of that language. The most admired of
 Vidyapati's successors is Manbodh Jha, who died in 1788. He composed a
 _Haribans_, or poetical life of Krishna, which has great popularity.
-Many dramas have been composed in Mithila. The fashion is to write the
+Many [[Drama|dramas]] have been composed in Mithila. The fashion is to write the
 body of the work in Sanskrit and Prakrit, but the songs in Maithili. Two
 dramas, the _Parijata-harana_ and the _Rukmini-parinaya_, are attributed
 to Vidyapati. Among modern writers in the dialect, we may mention
@@ -510,11 +510,11 @@ translation of Vidyapati's Sanskrit _Purusa-pariksa_ are deservedly
 popular.
 
   AUTHORITIES.--_The Linguistic Survey of India_, vol. v. part ii.
-  (Calcutta, 1903), gives a complete conspectus of Bihari in all its
+  ([[Calcutta]], 1903), gives a complete conspectus of Bihari in all its
   dialects and sub-dialects. See also G.A. Grierson, _Seven Grammars of
   the Dialects and Sub-dialects of the Bihari Language_, parts i. to
   viii. (Calcutta, 1883-1887--these deal with every form of Bihari
-  except standard Maithili); and S.H. Kellogg, _A Grammar of the Hindi
+  except standard Maithili); and S.H. [[Kellogg]], _A Grammar of the Hindi
   Language, in which are treated High Hindi... also the Colloquial
   Dialects of ... Bhojpur, Magadha, Maithila, &c._ (2nd ed., London,
   1893).
@@ -524,7 +524,7 @@ popular.
   Vocabulary_; part i. _Grammar_ (Calcutta, 1881; 2nd ed., 1909); part
   ii. _Chrestomathy and Vocabulary_ (Calcutta, 1882). For Vidyapati
   Thakkura, see J. Beames, "The Early Vaishnava Poets of Bengal," in
-  _Indian Antiquary_, ii. (1873), pp. 37 ff.; the same, "On the Age and
+  _Indian [[Antiquary]]_, ii. (1873), pp. 37 ff.; the same, "On the Age and
   Country of Vidyapati," _ibid_. iv. (1875), pp. 299 ff.; anon, article
   in the _Banga Darsana_, vol. iv. (1282 B.S.), pp. 75 ff.; Saradacarana
   Maitra, Introduction to _Vidyapatir Padavali_ (2nd ed., Calcutta, 1285

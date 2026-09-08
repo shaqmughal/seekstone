@@ -12,8 +12,8 @@ temperature. It is a colourless crystalline substance, assuming forms
 belonging to the hexagonal system, and distinguished by a well-marked
 habit of twinning, which occasions the beautiful "ice flowers" displayed
 by hoar-frost. It is frequently precipitated as hoar-frost, snow or
-hail; and in the glaciers and snows of lofty mountain systems or of
-regions of high latitude it exists on a gigantic scale, being
+[[Hail|hail]]; and in the glaciers and snows of lofty mountain systems or of
+regions of high [[Latitude|latitude]] it exists on a gigantic scale, being
 especially characteristic of the seas and lands around the poles. In
 various regions, especially in France and Italy, great quantities of ice
 form in caves, which, in virtue of their depth below the earth's
@@ -23,13 +23,13 @@ unaffected by ordinary climatic changes, so that the mean annual
 temperature is sufficiently low to ensure the permanency of the ice. The
 temperature at which water freezes, and also at which ice melts, is so
 readily determined that it is employed as one of the standard
-temperatures in the graduation of ordinary thermometer scales, this
+temperatures in the [[Graduation|graduation]] of ordinary thermometer scales, this
 temperature being the zero of the Centigrade and Réaumur scales, and 32°
 of the Fahrenheit (see THERMOMETRY). In the act of freezing, water,
 though its temperature remains unchanged, undergoes a remarkable
 expansion so that ice at 0° C. is less dense than water--a fact
 demonstrated by its power of floating. The sub-aqueous retention of
-"ground-ice" or "anchor-ice," which forms in certain circumstances at
+"[[Ground-Ice|ground-ice]]" or "anchor-ice," which forms in certain circumstances at
 the bottom of streams or pools in which there are many eddies, is due to
 the cohesion between it and the stones or rocks which compose the bed of
 the streams or pools. As water expands on freezing, so conversely ice
@@ -53,7 +53,7 @@ as the specific heat of ice, or about half that of water.
 
 Though no rise of temperature accompanies the melting of ice, there is
 yet a definite quantity of heat absorbed, namely, about 80 calories per
-gram; this is called the latent heat of fusion of water (see FUSION).
+gram; this is called the latent heat of [[Fusion|fusion]] of water (see FUSION).
 The same amount of heat is evolved when water becomes ice. That ice can
 be melted by increase of pressure was first pointed out by James Thomson
 in 1849. He showed that, since water expands on freezing, the laws of
@@ -61,7 +61,7 @@ thermodynamics require that its freezing-point must be lowered by
 increase of pressure; and he calculated that for every additional
 atmosphere of pressure the freezing-point of water was lowered by
 0.0075°. This result was verified by his brother, Sir William Thomson
-(Lord Kelvin), in 1850. The Thomsons and H. L. F. Helmholtz successfully
+(Lord [[Kelvin]]), in 1850. The Thomsons and H. L. F. [[Helmholtz]] successfully
 applied this behaviour of ice under pressure to the explanation of many
 properties of the substance. When two blocks of ice at 0° C. are pressed
 together or even simply laid in contact, they gradually unite along
@@ -85,7 +85,7 @@ upper provinces of India water is made to freeze during cold clear
 nights by leaving it overnight in porous vessels, or in bottles which
 are enwrapped in moistened cloth. The water then freezes in virtue of
 the cold produced by its own evaporation or by the drying of the
-moistened wrapper. In Bengal the natives resort to a still more
+moistened wrapper. In [[Bengal]] the natives resort to a still more
 elaborate forcing of the conditions. Pits are dug about 2 ft. deep and
 filled three-quarters full with dry straw, on which are set flat porous
 pans containing the water to be frozen. Exposed overnight to a cool dry

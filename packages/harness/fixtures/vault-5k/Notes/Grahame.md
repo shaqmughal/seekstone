@@ -8,7 +8,7 @@ id: 42-4255
 
 # Grahame
 
-GRAHAME, JAMES (1765-1811), Scottish poet, was born in Glasgow on the
+GRAHAME, JAMES (1765-1811), Scottish poet, was born in [[Glasgow]] on the
 22nd of April 1765, the son of a successful lawyer. After completing his
 literary course at Glasgow university, Grahame went in 1784 to
 Edinburgh, where he qualified as writer to the signet, and subsequently
@@ -19,7 +19,7 @@ Gloucestershire, and then at Sedgefield, Durham. His works include a
 dramatic poem, _Mary Queen of Scots_ (1801), _The Sabbath_ (1804),
 _British Georgics_ (1804), _The Birds of Scotland_ (1806), and _Poems on
 the Abolition of the Slave Trade_ (1810). His principal work, _The
-Sabbath_, a sacred and descriptive poem in blank verse, is characterized
+Sabbath_, a sacred and descriptive poem in [[Blank|blank]] verse, is characterized
 by devotional feeling and by happy delineation of Scottish scenery. In
 the notes to his poems he expresses enlightened views on popular
 education, the criminal law and other public questions. He was

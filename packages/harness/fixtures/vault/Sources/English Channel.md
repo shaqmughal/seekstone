@@ -4,11 +4,11 @@ ENGLISH CHANNEL (commonly called "The Channel"; Fr. _La Manche_, "the
 sleeve"), the narrow sea separating England from France. If its entrance
 be taken to lie between Ushant and the Scilly Isles, its extreme breadth
 (between those points) is about 100 m., and its length about 350. At the
-Strait of Dover, its breadth decreases to 20 m. Along both coasts of the
+Strait of [[Dover]], its breadth decreases to 20 m. Along both coasts of the
 Channel, cliffs and lowland alternate, and the geological affinities
 between successive opposite stretches are well marked, as between the
-Devonian and granitic rocks of Cornwall and Brittany, the Jurassic of
-Portland and Calvados, and the Cretaceous of the Pays de Caux and the
+Devonian and granitic rocks of [[Cornwall]] and Brittany, the [[Jurassic]] of
+Portland and [[Calvados]], and the Cretaceous of the Pays de Caux and the
 Isle of Wight and the Sussex coast, as well as either shore of the
 Strait of Dover. The English Channel is of comparatively recent
 geological formation. The land-connexion between England and the
@@ -19,14 +19,14 @@ and currents, both destructive and constructive, is well seen at many
 points; thus Shakespeare Cliff at Dover is said to have been cut back
 more than a mile during the Christian era, and the cliffs of Grisnez
 have similarly receded. Of the opposite process notable examples are the
-building of the pebbly beaches of Chesil Bank and near Tréguier in Côtes
-du Nord, and the promontory of Dungeness. The total drainage area of the
+building of the pebbly [[Beach|beaches]] of Chesil Bank and near Tréguier in Côtes
+du Nord, and the promontory of [[Dungeness]]. The total drainage area of the
 English rivers flowing into the Channel is about 8000 sq. m.; of the
 French rivers, including as they do the Seine, it is about 41,000 sq. m.
 
 From the Strait of Dover the bottom slopes fairly regularly down to the
 western entrance of the Channel, the average depths ranging from 20 to
-30 fathoms in the Strait to 60 fathoms at the entrance. An exception to
+30 [[Fathom|fathoms]] in the Strait to 60 fathoms at the entrance. An exception to
 this condition, however, is found in Hurd's Deep, a narrow depression
 about 70 m. long, lying north and north-west of the Channel Islands, and
 at its nearest point to them only 5 m. distant from their outlying
@@ -45,14 +45,14 @@ deepest parts of the Channel is more regular than that from the French
 coast, and for that reason, and in consideration of the greater dangers
 to navigation towards the French shore, the fairway is taken to lie
 between 12 and 24 m. from the principal promontories of the English
-shore, as far up-channel as Beachy Head. These promontories (the Lizard,
+shore, as far up-channel as Beachy Head. These promontories (the [[Lizard]],
 Start Point, Portland Bill, St Alban's Head, St Catherine's Point of the
-Isle of Wight, Selsey Bill, Beachy Head, Dungeness, the South Foreland)
+Isle of Wight, Selsey Bill, Beachy Head, Dungeness, the South [[Foreland]])
 demarcate a series of bays roughly of sickle-shape, the shores of which
 run north and south, or nearly so, at their western sides, turn eastward
 somewhat abruptly at their heads, and then trend more gently towards the
 south-east. On the French coast the arrangement is similar but reversed;
-Capes Grisnez, Antifer and La Hague, and the Pointe du Sillon
+Capes Grisnez, Antifer and La [[Hague]], and the Pointe du Sillon
 demarcating a series of bays (larger than those on the English coast)
 whose shores run north and south on the eastern side, and have a gentler
 trend westward from the head.
@@ -96,15 +96,15 @@ Dover is almost the same at all points, though somewhat earlier at the
 east than at the west of this stretch of coast. The configuration of the
 French coast causes a very strong tidal flow in the Gulf of St Malo,
 with an extreme range at spring tides of 42 ft. at St Germain, compared
-with a range of 12 ft. at Exmouth and 7 ft. at Portland. In the
-neighbourhood of Beer Head and Portland and Weymouth Roads the streams
+with a range of 12 ft. at [[Exmouth]] and 7 ft. at Portland. In the
+neighbourhood of [[Beer]] Head and Portland and Weymouth Roads the streams
 are found to form vortices with only a slight movement. On the eastern
 (Selsey-Dover) section of the English coast the _maximum_ range of tide
-is found at Hastings, with a decrease both eastward and westward of this
+is found at [[Hastings]], with a decrease both eastward and westward of this
 point.
 
 Westerly winds are most prevalent in the Channel. The total number of
-gales recorded in the period 1871-1885 was 190, of which 104 were
+[[Gale|gales]] recorded in the period 1871-1885 was 190, of which 104 were
 south-westerly. Gales are most frequent from October to January
 (November during the above period had more than any other month, with an
 average of 2.1), and most rare from May to July. It appears that gales
@@ -113,11 +113,11 @@ tides than with neaps. The winds have naturally a powerful effect on the
 tidal streams and currents, the latter being in these seas simply
 movements of the water set up by gales, which may themselves be far
 distant. Thus under the influence of westerly winds prevailing west of
-the Iberian Peninsula a current may be set up from the Bay of Biscay
+the Iberian Peninsula a current may be set up from the Bay of [[Biscay]]
 across the entrance of the Channel; this is called Rennell's current.
-Fogs and thick weather are common in the Channel, and occur at all
+[[Fog|Fogs]] and thick weather are common in the Channel, and occur at all
 seasons of the year. Observations during the period 1876-1890 at Dover,
-Hurst Castle and the Scilly Isles showed that at the two first stations
+[[Hurst]] Castle and the Scilly Isles showed that at the two first stations
 fogs most frequently accompany anticyclonic conditions in winter, but at
 the Scilly Isles they are much more common in summer than in winter, and
 accompany winds of moderate strength more frequently than in the case of
@@ -140,7 +140,7 @@ the Irish Channel. The mean annual salinity decreases from between 35.4
 and 35.5 pro mille in the western entrance to 35.2 pro mille at the
 Strait of Dover on the central axis, and to about 34.7 pro mille under
 the Isle of Wight and off the Bay of the Seine. The English Channel may
-be divided into two areas by a line drawn from Start Point to Guernsey
+be divided into two areas by a line drawn from Start Point to [[Guernsey]]
 and the Gulf of St Malo. In the eastern area the water is thoroughly
 mixed owing to the action of the strong tidal currents and its
 comparatively small depth, and salinities and temperatures are
@@ -182,8 +182,8 @@ later than on the surface.
 
   A detailed account of the mean conditions in the English Channel will
   be found in _Rap. et procès-verbaux_, vol. vi., and _Bulletin
-  supplémentaire_ (1908) of the Conseil Permanent International pour
-  l'Exploration de la Mer (Copenhagen).     (D. J. M.)
+  supplémentaire_ (1908) of the Conseil Permanent [[International]] pour
+  l'Exploration de la Mer ([[Copenhagen]]).     (D. J. M.)
 
 _Cross-Channel Communication._--An immense amount of time and thought
 has been expended in the elaboration of schemes to provide unbroken
@@ -221,7 +221,7 @@ idea of a tunnel both in England and France. Its engineers on the
 English side were Lowe, Sir James Brunlees and Sir John Hawkshaw, the
 last of whom in 1866 had made trial borings at St Margaret's and near
 Sangatte; and on the French side Thomé de Gamond, Paulin Talabot and
-Michael Chevalier. In 1868 they reported that there was a reasonable
+Michael [[Chevalier]]. In 1868 they reported that there was a reasonable
 prospect of completing the tunnel in ten or twelve years at a cost not
 exceeding ten millions sterling. They admitted, however, that there was
 some risk of an influx of the sea, but pointed out that this risk could
@@ -230,7 +230,7 @@ and for this purpose asked for financial aid from the imperial treasury.
 A commission of inquiry then appointed by the French ministry of public
 works reported favourably on the plans, though it declined to, recommend
 a grant of money; but the further progress of the scheme was interrupted
-by the outbreak of the Franco-German war.
+by the outbreak of the [[Franco-German War|Franco-German war]].
 
 The tunnel was by no means the only plan in evidence at this period for
 securing continuous railway communication between England and France. An
@@ -238,7 +238,7 @@ iron tube, resting on the bottom of the sea, had been proposed by
 Tessier de Mottray in 1803, and had again been considered by Thomé de
 Gamond in 1833; but after 1850 projects of this kind might almost be
 counted by the dozen. Some of the structures were to be of iron, others
-of concrete or masonry, and some were to be floated a moderate distance
+of concrete or [[Masonry|masonry]], and some were to be floated a moderate distance
 below the surface. One of the most carefully worked out plans was that
 of J. F. Bateman and J. Revy, who proposed to construct a continuous
 tube, 13 ft. in internal diameter, of iron rings each 10 ft. long, each
@@ -246,8 +246,8 @@ ring being built out from the completed portion of the tube by means of
 a horizontal chamber or bell, which slid telescopically over the last
 few rings previously put in place, and was moved forward by hydraulic
 power. About the same time Zerah Colburn produced plans for a tube
-constructed of 1000 ft. sections, which were to be built in dry dock and
-then successively attached by a ball and socket joint to the completed
+constructed of 1000 ft. sections, which were to be built in dry [[Dock|dock]] and
+then successively attached by a [[Ball|ball]] and socket joint to the completed
 portion, the whole being raised from the bottom and dragged out to sea,
 by the aid of a large number of ships, as each section was attached and
 launched. Thomas Page, again, the builder of Westminster Bridge,
@@ -261,15 +261,15 @@ in length were contemplated, while another required 190 towers, 500 ft.
 apart and rising 500 ft. above the water-level, which obviously would
 have constituted an intolerable nuisance to navigation. The case,
 however, was different with a train ferry which was vigorously advocated
-by Sir John Fowler. His proposal was to employ steamers 450 ft. long,
-with a beam of 57 ft. and a speed of 20 knots, having railway lines laid
+by Sir John [[Fowler]]. His proposal was to employ steamers 450 ft. long,
+with a beam of 57 ft. and a speed of 20 [[Knot|knots]], having railway lines laid
 down on their decks on and off which railway vehicles could be run
 directly at each side of the strait. Dover was to be the English port,
 while on the French coast a new harbour was to be formed at
-Audresselles, between Calais and Boulogne. This plan in 1872 received
+Audresselles, between Calais and [[Boulogne]]. This plan in 1872 received
 the sanction of the House of Commons, but was rejected in the House of
 Lords by the casting vote of the chairman of the committee. According to
-another similar ferry scheme, which was worked out by Admiral Dupuy de
+another similar ferry scheme, which was worked out by Admiral [[Dupuy]] de
 Lôme in 1870, a new maritime station was to be constructed at Calais, so
 far off the shore that it would command deep water at every state of the
 tide, and connected with the French railways by a bridge.
@@ -286,7 +286,7 @@ between the governments. In 1875 the Channel Tunnel Company obtained an
 act authorizing it to undertake certain preliminary works at St
 Margaret's Bay. In the same year the French Submarine Railway Company
 obtained a concession, with the obligation to spend a minimum of
-2,000,000 francs in making investigations; in fact it took over 3000
+2,000,000 [[Franc|francs]] in making investigations; in fact it took over 3000
 samples from the bottom of the sea in the strait, and made over 7000
 soundings, and also sunk a shaft at Sangatte and started a heading. The
 English company did not do so much, for it failed to raise the money it
@@ -299,7 +299,7 @@ the chalk suitable were dissatisfied With the actual plans and formed a
 rival "Anglo-French Submarine Railway Company." In 1882 another tunnel
 company made its appearance. In 1874 the South Eastern Railway Company
 had obtained powers to sink experimental shafts on its property between
-Dover and Folkestone, and in 1881 to acquire lands, including the beach
+Dover and [[Folkestone]], and in 1881 to acquire lands, including the beach
 and foreshore, in that area in connexion with a Channel tunnel. These
 powers resulted, in 1882, in the formation of the Submarine Continental
 Railway Company which in that year sought parliamentary sanction for a
@@ -319,7 +319,7 @@ authorize experimental works in connexion with it, all were rejected. In
 they were ultimately discontinued. They included a driftway 7 ft. in
 diameter which was driven for a distance of about 2300 yds. eastwards
 under the sea at an inclination of 1 in 72 from the bottom of a shaft
-sunk to a depth of 164 ft. in the chalk marl at Shakespeare's Cliff.
+sunk to a depth of 164 ft. in the chalk [[Marl|marl]] at Shakespeare's Cliff.
 
 About this time the Channel Bridge and Railway Company took in hand the
 design of a bridge, the preliminary plans for which were exhibited in
@@ -338,8 +338,8 @@ would be 3 m. less, the number of piers, by employing spans of 434 and
 was estimated at £28,320,000, exclusive of interest on capital during
 the period of construction, which was put at seven years. The same
 company also worked out plans for a moving chariot or platform, capable
-of holding a railway train and supported by long legs on a submerged
-causeway or track constructed of steel or armoured concrete 45 or 50
+of holding a railway train and supported by long [[Leg|legs]] on a submerged
+[[Causeway|causeway]] or track constructed of steel or armoured concrete 45 or 50
 ft. below low-water level. No attempt has been made actually to carry
 out either this project or that of a bridge.
 
@@ -352,14 +352,14 @@ activity and started a campaign in favour of its scheme; but the bill
 which it promoted was opposed by the government and accordingly was
 withdrawn in March 1907.
 
-  See _Blue-book, Correspondence respecting the proposed Channel
+  See _[[Blue-Book|Blue-book]], Correspondence respecting the proposed Channel
   Tunnel_, Commercial No. 6 (1875); _Blue-book, Correspondence with
   reference to the proposed Construction of a Channel Tunnel_, C. 3358
   (1882); _Blue-book, Report from the Joint Select Committee of the
   House of Lords and House of Commons on the Channel Tunnel_ (1883); F.
-  J. Bramwell, "The Making and Working of a Channel Tunnel," _Proc. Roy.
+  J. [[Bramwell]], "The Making and Working of a Channel Tunnel," _Proc. Roy.
   Inst._, May 1882; Tylden Wright, "The Channel Tunnel," _North of
-  England Inst. Min. and Mech. Eng._ vol. 33 (1882); W. Boyd Dawkins,
+  England Inst. Min. and Mech. Eng._ vol. 33 (1882); W. [[Boyd]] [[Dawkins]],
   "The Channel Tunnel," _Manchester Geol. Soc._, May 1882, and _Brit.
   Assoc. Rep._ (1882, 1899); E. de Rodakowski, _The Channel Ferry_
   (London, 1905).     (H. M. R.)
@@ -379,14 +379,14 @@ be readily noticed, yet from the time of the Norman Conquest to the
 beginning of the 20th century the line of connexion is substantially
 unbroken. Perhaps the most revolutionary changes occurred in the 17th
 century, as the outcome of the Civil War, and, later on, the revolution
-of 1688. But even in this case there was no real breach of continuity.
+of 1688. But even in this case there was no real [[Breach|breach]] of continuity.
 It is, therefore, possible to trace the normal growth and expansion of
 British finance as one of the aspects of the nation's history.
 
 The primitive financial institutions of England centre round the king's
 household, or, in other words, the royal economy precedes the national
 one. Revenue dues collected by the king's agents, rents, or rather
-returns of produce, from land, and special levies for emergencies form
+returns of produce, from land, and special [[Levi|levies]] for emergencies form
 the elements of the royal income, which gradually acquired greater
 regularity and consistency. There is, however, little or no evidence of
 any effective financial organization until we approach the 11th century.
@@ -414,7 +414,7 @@ the 12th century, was a peculiar product of the conceptions as to fiscal
 organization formed by Norman subtlety. It is the manner in which this
 institution held together and focused the revenues and expenditure of
 the kingdom that has to be considered. The picture presented by the
-"Dialogue of the Exchequer" (c. 1176) is that of a comprehensive system
+"[[Dialogue]] of the Exchequer" (c. 1176) is that of a comprehensive system
 which secured the receipt of the royal income, and provided a thorough
 audit of the accounts by employing processes adapted to the
 circumstances of the time. It is, in fact, through the description of
@@ -426,7 +426,7 @@ and lawyers was deeply interested.
 
 In order to understand the character Of English finance in the middle
 ages it is absolutely essential to bear constantly in mind the
-identification of the king with the state. Though feudalism (q.v.) was,
+[[Identification|identification]] of the king with the state. Though feudalism (q.v.) was,
 in one of its aspects, a powerful instrument for division of political
 authority, it, nevertheless, in the particular form in which the
 Conqueror introduced it into England, enabled the fiscal rights of the
@@ -434,9 +434,9 @@ crown to be established in a more definite shape than was possible under
 the older condition. For, in the first place, the actual property of the
 crown was more carefully administered as each royal manor came under the
 system of accounting. Again, the various claims or dues of the king took
-more decidedly the feudal type and received stricter legal definition.
+more decidedly the feudal type and received stricter legal [[Definition|definition]].
 Further, the higher judicial organization assisted the expansion of
-court fees; while, above all, the increased authority of the state made
+court [[Fee|fees]]; while, above all, the increased authority of the state made
 the casual receipts (for such they were) from trade more profitable.
 
 In a broad view the sources of revenue fall under the following
@@ -448,7 +448,7 @@ king's (_terra regis_). Over fourteen hundred manors appear in Domesday
 as royal property. The forests, placed under special laws, yielded
 little revenue, except in the form of penalties on offenders. The rural
 tenants, who at first paid their rents in produce, gradually commuted
-them into money payments. As the royal demesne was favourable for the
+them into money payments. As the royal [[Demesne|demesne]] was favourable for the
 growth of towns the rents derived from urban tenants became a valuable
 part of the yield from the demesne; this, later, took the shape of a
 payment from the town as a unit (the _firma burgi_), a method which
@@ -456,10 +456,10 @@ secured to the burghers freedom from the exactions of the sheriff and
 which was purchased by special payments. (2) The feudal rights. These
 included the claim to military service; the three regular aids and the
 payments of relief at succession to a fief, as also the profits on
-wardships and marriages. Escheats and forfeitures completed the list.
+wardships and marriages. Escheats and [[Forfeiture|forfeitures]] completed the list.
 The yield from this source varied with the power of the king and was
-kept within bounds by the resistance of the tenants as shown in the
-provisions of Magna Carta. (3) The administration of justice was a
+kept within [[Bounds|bounds]] by the resistance of the tenants as shown in the
+provisions of [[Magna Carta]]. (3) The administration of justice was a
 lucrative prerogative of the crown. Suitors had to pay for securing the
 hearing of their cases in addition to the fees for writs, and both
 amercements and compositions increased the receipts under this head. (4)
@@ -475,7 +475,7 @@ pleasure, either by taking a percentage of their property (e.g. in one
 case, one-fourth), or by levies for alleged offences. The existence of a
 separate exchequer for the Jews is an indication of their fiscal value.
 (5) Direct taxation formed an extraordinary or occasional head of
-revenue. The Danegeld was succeeded by the carucage, and the commutation
+revenue. The Danegeld was succeeded by the carucage, and the [[Commutation|commutation]]
 of military service introduced the scutage, but these forms were of
 little immediate importance, though very significant for the future
 course of development. (6) Lastly come the dues claimed at the ports,
@@ -513,24 +513,24 @@ of the barons' demands by the issue of Magna Carta rendered financial
 readjustments inevitable. During the long reign of Henry III. the
 struggle to maintain the privileges granted by the Charter acted on the
 fiscal system by checking the arbitrary use of tallages, and as a
-consequence, encouraging the regular assessment of the tax on movables,
+consequence, encouraging the regular [[Assessment|assessment]] of the tax on movables,
 which was becoming more prominent. The fruitful idea that it was
 necessary to obtain the consent of the payers of taxes before the
-imposition operated powerfully in favour of the establishment of bodies
+[[Imposition|imposition]] operated powerfully in favour of the establishment of bodies
 representing the several estates. It is through the reaction of
 constitutional on fiscal development that the transition from feudal to
 parliamentary taxation in its earlier form is made.
 
 Almost at the opening of the age of parliamentary taxation one of the
 older sources of revenue ceased. The pressure of popular opinion forced
-Edward I. to decree the expulsion of the Jews (1290), though he
+Edward I. to [[Decree|decree]] the expulsion of the Jews (1290), though he
 naturally desired to retain such profitable subjects. It is, indeed,
 probable that, owing to the exactions practised on them, the Jewish
 usurers had become less serviceable to the exchequer; while it is
 certain that the general resources of the kingdom had so increased as to
 make their contribution relatively much smaller. The first effects of
 the representative influence in the fiscal domain are the abandonment of
-the tallages on towns and the decline of scutage as a mode of levy. The
+the tallages on towns and the decline of scutage as a mode of [[Levy|levy]]. The
 tax on movables was framed in a more systematic way. Instead of distinct
 charges on different classes, or variations in proportion of levy from
 one-fourth to one-fortieth, the policy of imposing a tax of one-tenth on
@@ -555,7 +555,7 @@ lowest point, while the borough authorities were naturally not eager to
 enforce the charge on their fellow-citizens. England in the 14th century
 was not ripe for a system that has been found hard to make effective in
 more advanced societies. Hence, from 1334 onward, the method of
-"apportionment" was employed, i.e. the tenth and fifteenth was taken as
+"[[Apportionment|apportionment]]" was employed, i.e. the tenth and fifteenth was taken as
 affording a definite sum measured by the yield on the ancient valuation.
 As this gave, in the aggregate, between £38,000 and £39,000, "the tenth
 and fifteenth" became for the future "practically a fiscal expression
@@ -576,23 +576,23 @@ established in 1334, just before the opening of the Hundred Years' War,
 in connexion with which it was particularly serviceable.
 
 Akin to the tax that has just been described, at least in its nature as
-a direct impost, is the poll or capitation tax. Financial pressure at
+a direct [[Impost|impost]], is the poll or capitation tax. Financial pressure at
 the close of Edward III.'s reign (1377) led to the adoption of a tax of
 fourpence per head on all persons in the kingdom (mendicants and persons
-under fourteen years being excepted). This "tallage of groats," which
+under fourteen years being excepted). This "tallage of [[Groat|groats]]," which
 seems to be derived by analogy from the hearth money for Peter's pence,
 was followed by the graduated poll taxes of 1379 and 1380. In the former
-the scale ranged from ten marks (£6:13:4) imposed on the royal dukes and
+the scale ranged from ten marks (£6:13:4) imposed on the royal [[Dukes|dukes]] and
 the viscounts, through six marks on earls, bishops and abbots, and three
 on barons, down to the groat or fourpence payable by all persons over
 sixteen years of age. Such a form of taxation approximated--as Adam
-Smith saw--to an income tax, but it proved to be unproductive, only half
+Smith saw--to an [[Income Tax|income tax]], but it proved to be unproductive, only half
 of the estimated yield of £50,000 being obtained. The tax of 1380 varied
 within narrower limits; from twenty shillings to fourpence (or sixty
 groats to three), with the proviso that "the strong should aid the
 weak." But this particular tax is chiefly memorable as the
 occasion--whatever may have been the real causes--of the great
-"Peasants' Revolt" of 1381. This unlucky association sealed the fate of
+"Peasants' Revolt" of 1381. This unlucky association sealed the [[Fate|fate]] of
 the poll tax as a fiscal expedient. It was abandoned, with one
 exception, for nearly three hundred years; and its occasional employment
 in the 17th century did not result in its permanent revival. Apart from
@@ -603,14 +603,14 @@ agents had to gather the latter, even from the poorest classes. In fact,
 the episode of the poll taxes may be regarded as an attempt--fortunately
 unsuccessful--to relieve the propertied classes at the expense of the
 peasants and poorer burghers. Failure in this respect helped in the
-maintenance of the settlement of direct taxation devised in 1334.
+[[Maintenance|maintenance]] of the settlement of direct taxation devised in 1334.
 
 Parallel with the evolution of direct taxation, but decidedly lagging
 behind, is the progress of indirect taxation. As already mentioned, the
 right of levying dues on goods entering or leaving English ports
 belonged from very early times to the king. Whether this power was, in
 its origin, due to the protection afforded to traders and thus a kind of
-insurance, or the result of the royal prerogative of pre-emption is
+[[Insurance|insurance]], or the result of the royal prerogative of pre-emption is
 immaterial for finance. What is established is that the "prisage" of
 wine or levy of one cask in ten, and the taking of one-tenth or
 one-fifteenth of other commodities was in force. Attempts to impose
@@ -648,7 +648,7 @@ One great source of English wealth in the 14th century was the export of
 the peculiarly fine wool of the country, and the political circumstances
 of Edward III.'s time suggested the manipulation of the trade in this
 commodity for purposes of policy as well as revenue. Sometimes, in order
-to influence the towns of Flanders, the export of wool was absolutely
+to influence the towns of [[Flanders]], the export of wool was absolutely
 prohibited; at others, export duties of varying amounts were imposed on
 wool, skins and leather. In the early years of the reign these
 arrangements were settled by agreement with the merchants. The subsidies
@@ -668,7 +668,7 @@ dues intact.
 
 One class or "estate" occupied a peculiar position. The clergy still
 claimed the privilege of self-taxation, and therefore it was
-convocation, not parliament, that voted the tenths imposed on clerical
+[[Convocation|convocation]], not parliament, that voted the tenths imposed on clerical
 property. In some instances much heavier charges (e.g. in 1296
 one-third) were decreed by the king, but the taxation of the clergy
 declined in productiveness during the 14th century. By the close of the
@@ -700,7 +700,7 @@ from a "tenth and fifteenth" to £31,000. As a supplement a land tax,
 affecting only the large owners, was voted at the rate of 5% in 1404,
 and repeated with wider scope, but at the lower rate of 1-2/3%, in
 1411. A house tax made its appearance in 1428. Taxes on knight's fees
-and other freeholds were also tried, while in 1435 and 1450 the
+and other [[Freehold|freeholds]] were also tried, while in 1435 and 1450 the
 graduated income tax was employed. The minimum rate, 2½%, applied to
 incomes under £100 (or under £20 in the tax of 1450), and rose to 10% on
 the higher incomes. These devices are evidence of the demand for larger
@@ -773,7 +773,7 @@ the old right of purveyance (q.v.), in restraint of which a series of
 statutes had been passed.
 
 Whatever possibilities of obtaining some additional revenue from the
-crown lands or prerogative rights may have existed in the 16th century,
+[[Crown Land|crown lands]] or prerogative rights may have existed in the 16th century,
 and these were slight, all the political and social conditions tended
 more and more to make the need of taxation as the principal financial
 resource imperative. Amongst the cases of increased calls for funds to
@@ -840,13 +840,13 @@ rather than finance, but they had the indirect effect of increasing the
 control exercised at the ports. The loss of Calais (1558) dislocated the
 system of the staple and cut off one centre of customs revenue; and it
 was also probably the cause of an important change in the mode of
-valuing goods for duty. For the declaration on oath of the merchant a
+valuing goods for duty. For the [[Declaration|declaration]] on oath of the merchant a
 fixed valuation was substituted and set forth in a book of rates, the
 first of its class (1558). Following this reform came more stringent
-regulations against smuggling and fraud on the part of officials. All
+regulations against smuggling and [[Fraud|fraud]] on the part of officials. All
 through the Tudor period the cost of collection was unduly high. For the
 first six years of Elizabeth it has been estimated at one-sixth of the
-gross receipts.
+[[Gross|gross]] receipts.
 
 Just as in the 14th century the subsidy had followed the "old" and "new"
 customs, so in the 16th the "impositions" levied by royal prerogative
@@ -868,7 +868,7 @@ I. to the opening of the Civil War (1603-42) it appears that the legal
 basis of indirect taxation was tested for the port duties in the "Great
 Case of Impositions" (known as Bates' case, see BATES, JOHN), while that
 of direct taxation was considered in the even more famous "Ship Money"
-case (for ever associated with the name of Hampden). In parliament the
+case (for ever associated with the name of [[Hampden]]). In parliament the
 debates deal with impositions, monopolies, the grounds for voting
 subsidies, and the proper application of the funds granted; in fact,
 with nearly all the financial questions of the time. Notwithstanding
@@ -927,7 +927,7 @@ sanction. The Tunnage and Poundage Act of 1641 pronounced definitely
 against the legality of any extra parliamentary customs and thus closed
 another of the constitutional problems of finance.
 
-In the progress from the Conquest to the crisis of the Great Rebellion
+In the progress from the Conquest to the crisis of the [[Great Rebellion]]
 there is noticeable a practically complete shifting of the classes of
 revenue. The king had ceased "to live of his own"; the royal demesne and
 the prerogative rights included in feudalism had become very
@@ -937,7 +937,7 @@ principal forms of receipt.
 
 In the long course of English financial history the nearest approach to
 the new departure and an abandonment of old devices is found at the time
-of the Civil War and Commonwealth. The actual outlines of the now
+of the Civil War and [[Commonwealth]]. The actual outlines of the now
 existing system made their appearances, while the older portions of the
 revenue--particularly the survivals of feudalism--are eliminated. Thus
 the Civil War and the Interregnum (1642-60) may be regarded as marking a
@@ -952,7 +952,7 @@ shape of a "monthly assessment" which was fixed from time to time, and
 which was collected under strict regulations, in marked contrast to the
 lax management of the former subsidies. As the amount for each district
 was fixed, the systematic collection secured "the more equitable
-adjustment of the burden of the tax as regards the various taxpayers"
+adjustment of the [[Burden|burden]] of the tax as regards the various taxpayers"
 without hardship to the community. In spite of its origin, the
 "assessment" was the model for later taxation of property. The yield of
 this tax--exceeding for the whole period £32,000,000--is a proof of its
@@ -968,17 +968,17 @@ and wool were excluded from 1649 to 1656. Far more revolutionary in its
 effects was the introduction of the excise or inland duties on goods--a
 step which Elizabeth, James I. and Charles I. had hesitated to take.
 Beginning (1643) with duties on ale, beer and spirits, it was soon
-extended to meat, salt and various textiles. Meat and domestic salt were
+extended to [[Meat|meat]], salt and various textiles. Meat and domestic salt were
 relieved in 1647, and the taxation became definitely established under
 the administration of commissioners appointed for the purpose. Powers to
-let out the collection to farmers were granted, and a bid for both
+let out the collection to [[Farmer|farmers]] were granted, and a bid for both
 excise and customs amounted in 1657 to £1,100,000. Confiscations of
 church lands and those belonging to royalists, feudal charges and
 special collections helped to make up the total of £83,000,000 raised
 during the nineteen years of this revolutionary period. Another mark of
 change was the removal of the exchequer to Oxford, leaving, however, the
 real fiscal machinery at the disposal of the committees that directed
-the affairs of the parliament. Under Cromwell the exchequer was
+the affairs of the parliament. Under [[Cromwell]] the exchequer was
 re-established (1654) in a form suited for the changes in the finances,
 the office of treasurer being placed in the hands of commissioners.
 
@@ -1006,15 +1006,15 @@ revenue, which, in the later years of Charles II. and in the short reign
 of his successor, was with difficulty kept up to the level of the
 increasing expenditure. The Commonwealth assessments were revived on
 several occasions, and indirect taxation was made more rigorous by the
-imposition of extra duties on brandy, tobacco and sugar, as also on
+imposition of extra duties on [[Brandy|brandy]], tobacco and sugar, as also on
 French linens and silks. A very important development was the placing of
 the customs (1670) and the excise (1683) in the hands of special
 commissioners, instead of the system of farming them out to private
 collectors. The approach to modern conditions is further evidenced by
-the greater care in the administration. Amongst expert officials Dudley
+the greater care in the administration. Amongst [[Expert|expert]] officials [[Dudley]]
 North (q.v.), as commissioner of customs, was the most distinguished. In
-this period, too, the beginning of the public debt as in the
-appropriation of the bankers' deposits may be found.
+this period, too, the beginning of the public [[Debt|debt]] as in the
+[[Appropriation|appropriation]] of the bankers' deposits may be found.
 
 The Revolution of 1688 may be regarded both on its constitutional and
 financial sides as the completion of the work of the Long Parliament. In
@@ -1076,12 +1076,12 @@ the last year of the reign, the opening one of the 18th century, the
 returns from these taxes respectively were: land tax (at 2s.), £990,000,
 customs £1,540,000, excise £986,000, or a total exceeding three and a
 half millions. The removal of the regular export duties in respect of
-(a) domestic woollen manufactures, (b) corn, was the only alleviation of
+(a) domestic woollen manufactures, (b) [[Corn|corn]], was the only alleviation of
 taxation, and in both cases it was due to special reasons of policy.
 
 Quite as remarkable as the growth of revenue is the sudden appearance of
 the use of public loans. In earlier periods a ruler had accumulated
-treasure (Henry VII. left £1,800,000) or had pledged "his jewels or the
+treasure (Henry VII. left £1,800,000) or had pledged "his [[Jewel|jewels]] or the
 customs or occasionally the persons of his friends for the payment" of
 his borrowings. Edward III.'s dealings with the Florentine bankers are
 well known; but it was only after the Revolution that the two conditions
@@ -1114,7 +1114,7 @@ year of Waterloo there is a nearly unbroken war time of over twenty
 years. The forty years' peace is closed by the Crimean War (1854-56);
 and another forty years of peace ends with the South African War
 (1899-1902). During this time the older mercantilism passes into
-protectionism; and this, again, gives way before the gradual adoption of
+protectionism; and this, again, gives way before the [[Gradual|gradual]] adoption of
 the free trade policy. At each time of war, taxation (particularly in
 the indirect form) and debt increase. Financial reform is connected with
 the maintenance of peace. Among the great financial ministers Walpole,
@@ -1133,7 +1133,7 @@ parish, and by this process has sunk from the amount of £1,911,000 in
 impaired the value of the land tax as a fiscal support. (2) Parallel
 with the movement of the land tax but showing much more rapid growth was
 the excise of the 18th century. Most of the articles of common
-consumption were permanently taxed. Soap, salt, candles and leather are
+consumption were permanently taxed. Soap, salt, [[Candle|candles]] and leather are
 described by Adam Smith as taxed, and that taxation is unreservedly
 condemned by him. In 1739 the excise duties brought in £3,000,000. By
 1792 they had risen to £10,000,000. Their continued expansion was due
@@ -1150,7 +1150,7 @@ duties on tobacco and sugar. In 1784 the customs revenue came to over
 extreme rigour of the duties and prohibitions, aimed chiefly against
 French trade; and (2) the absence of care in estimating the point of
 maximum productiveness for each duty. Swift's famous saying that "in the
-arithmetic of the customs two and two sometimes, made only one" is well
+[[Arithmetic|arithmetic]] of the customs two and two sometimes, made only one" is well
 exemplified in England at this time. The smuggler did a great deal of
 the foreign trade of the country. Efforts at reform were not, however,
 altogether wanting. Walpole succeeded in carrying several useful
@@ -1167,7 +1167,7 @@ improvement. The consolidation of the customs laws (1787), the reduction
 of the tea duty to nearly one-tenth of its former amount, the conclusion
 of a liberal commercial treaty with France, and the attempted trade
 arrangement with Ireland, tend to show that "Pitt would have anticipated
-many of the free trade measures of later years if it had been his lot to
+many of the free trade measures of later years if it had been his [[Lot|lot]] to
 enjoy ten more years of peaceful administration." One of the financial
 problems which excited the interest and even the alarm of the students
 of public affairs was the rapid increase of the public debt. Each war
@@ -1176,7 +1176,7 @@ very little diminution in it. From sixteen millions in 1702, the debt
 rose to £53,000,000 at the treaty of Utrecht (1713). In 1748 it reached
 £78,000,000, at the close of the Seven Years' War it was £137,000,000,
 and when the American colonies had established their independence it
-exceeded £238,000,000. Apprehensions of national bankruptcy led to the
+exceeded £238,000,000. [[Apprehension|Apprehensions]] of national [[Bankruptcy|bankruptcy]] led to the
 adoption of the device of a sinking fund, and in this case Pitt's usual
 sagacity seems to have failed him. The influence of R. Price's theory
 induced the policy of assigning special sums for debt reduction, without
@@ -1214,7 +1214,7 @@ continued all through the 18th century, had been supplemented in the
 American War by a tax on inhabited houses (one of Adam Smith's many
 suggestions), a group to which the assessment taxes were naturally
 joined. During the 18th century the probate duty had been gradually
-raised, and in 1780 the legacy duty was introduced; but these charges
+raised, and in 1780 the [[Legacy|legacy]] duty was introduced; but these charges
 were moderate in character and did not affect land. Though the direct
 and quasi-direct taxes had been so largely increased, their growth was
 eclipsed by that of the excise and customs. With each succeeding year of
@@ -1224,8 +1224,8 @@ country--"Wherever you see an object, tax it"--would fairly express the
 guiding policy of the English system of the early 19th century.
 Eatables, liquors, the materials of industry, manufactures, and the
 transactions of commerce had in nearly all their forms to pay toll. To
-take examples:--salt paid 15s. per bushel; sugar 30s. per cwt.; beer
-10s. per barrel (with 4s. 5d. per bushel on malt and a duty on hops);
+take examples:--salt paid 15s. per [[Bushel|bushel]]; sugar 30s. per cwt.; beer
+10s. per [[Barrel|barrel]] (with 4s. 5d. per bushel on malt and a duty on [[Hop|hops]]);
 tea 96% _ad valorem_. Timber, cotton, raw silk, hemp and bar iron were
 taxed, so were leather, soap, glass, candles, paper and starch. In spite
 of the need of revenue, many of the customs duties were framed on the
@@ -1234,7 +1234,7 @@ on salt in 1815 produced £547, as against £1,616,124 from excise;
 pill-boxes brought in 18s. 10d., saltpetre 2d., with 1d. for the war
 duties. The course of the war taxation was marked by varied experiments.
 Duties were raised, lowered, raised again, or given some new form in the
-effort to find additional revenue. Some duties, e.g. that on gloves,
+effort to find additional revenue. Some duties, e.g. that on [[Glove|gloves]],
 were abandoned as unproductive; but the conclusion is irresistible that
 the financial system suffered from over-complication and absence of
 principle. In the period of his peace administration Pitt was prepared
@@ -1306,7 +1306,7 @@ continued and expanded considerably since. Both the excise and customs
 at the close of the war were marked by some of the worst defects of a
 vicious kind of taxation. The former had the evil effect of restricting
 the progress of industry and hampering invention. The raw materials and
-the auxiliary substances of industry were in many cases raised in price.
+the [[Auxiliary|auxiliary]] substances of industry were in many cases raised in price.
 The duties on salt and glass specially illustrated the bad results of
 the excise. New processes were hindered and routine made compulsory. The
 customs duties were still more restrictive of trade; as they practically
@@ -1316,7 +1316,7 @@ profitable customs taxes were few in number. Less than a score of
 articles contributed more than nineteen-twentieths of the revenue from
 import duties. The duties on transactions, levied chiefly by stamps,
 were ill-graded and lacking in comprehensiveness. From the standpoint of
-equity the ground for criticism was equally plain. The great weight of
+[[Equity|equity]] the ground for criticism was equally plain. The great weight of
 taxation fell on the poorer classes. The owners of land escaped giving
 any return for the property that they held under the state, and other
 persons were not taxed in proportion to their abilities, which had been
@@ -1366,7 +1366,7 @@ old Probate Duty into a comprehensive impost (entitled the Estate Duty)
 applicable to all the possessions of a deceased person. This
 "Inheritance Tax"--to give it its scientific title--operates as a
 complementary property tax, and is thus an addition to the contribution
-from incomes derived from large properties. By graduation the charges on
+from incomes derived from large properties. By [[Graduation|graduation]] the charges on
 large estates in 1908-1909 (before the proposal for further increase in
 1909-1910) came to 10% on £1,000,000, and reached the maximum of 15% at
 £3,500,000. From the several forms of the "Inheritance Taxes" the
@@ -1382,7 +1382,7 @@ one-third of the total receipts as against less than one-twentieth in
 But though this wider employment of direct taxation--a characteristic of
 European finance generally--reduced the _relative_ position of the
 taxation of commodities, there was a growth in the absolute amount
-obtained from this category of duties. There were also considerable
+obtained from this [[Category|category]] of duties. There were also considerable
 alterations, the result of changes in the views respecting fiscal
 policy. At the close of the Great War the excise duties were at first
 retained, and even in some cases increased. After some years reforms
@@ -1412,7 +1412,7 @@ producers disappeared. Expressed in financial terms, all duties were
 imposed "for revenue only," and estimated in reference to their
 productiveness. An assimilation between the excise and customs rates
 necessarily followed. The stages of the development under the guidance
-of (1) Huskisson, (2) Peel, and (3) Gladstone are commonly regarded as
+of (1) [[Huskisson]], (2) Peel, and (3) Gladstone are commonly regarded as
 part of the movement for Free Trade; but the financial working of the
 alteration is understood only by remembering that the duties removed by
 "tens" or by "hundreds" were quite trivial in yield, and did not involve
@@ -1420,7 +1420,7 @@ any serious loss to the revenue. Perhaps the most remarkable feature of
 the English customs of the 19th century was the steadiness of the
 receipts. In spite of trade depressions, commercial crises and sweeping
 changes in rates, the annual revenue in the period 1815-1900 only varied
-between £19,000,000 and £24,000,000; though, on balance, duties
+between £19,000,000 and £24,000,000; though, on [[Balance|balance]], duties
 amounting to £30,000,000 were remitted. The potential resources of this
 branch of revenue were made evident in the rapid rise of the yield by
 the new taxation imposed for the South African War (1899-1902). In
@@ -1463,7 +1463,7 @@ lands and rights (such as vintage charges) are of even less financial
 value.
 
 One cardinal principle of the greatest English finance ministers has
-been the avoidance of deficits or undue surpluses. Gladstone's
+been the [[Avoidance|avoidance]] of deficits or undue surpluses. Gladstone's
 inheritance of doctrine from Peel "was to estimate expenditure
 liberally, to estimate revenue carefully, to make each year pay its own
 expenses, and to take care that your charge is not greater than your
@@ -1474,7 +1474,7 @@ be said to involve due care in the treatment of the national resources.
 The reaction of ill-chosen taxes on industry is a hindrance to their
 productiveness and their growth.
 
-  AUTHORITIES.--The constitutional historians--Stubbs, Gneist,
+  AUTHORITIES.--The constitutional historians--Stubbs, [[Gneist]],
   Hallam--deal with the legal and constitutional aspects of finance.
   Special financial histories are: Sir J. Sinclair, _History of the
   Public Revenue of the British Empire_ (3 vols., 3rd ed., London,
@@ -1482,7 +1482,7 @@ productiveness and their growth.
   2nd ed., London, 1888); Schanz, _Englische Handelspolitik_ (2 vols.,
   Leipzig, 1881), and H. Hall, _History of the Customs Revenue of
   England_ (2 vols., London, 1885), are valuable for the earlier
-  periods. W. Cunningham, _Growth of English Industry and Commerce_ (2
+  periods. W. [[Cunningham]], _Growth of English Industry and Commerce_ (2
   vols., Cambridge, 1903-1907); H. O. Meredith, _Economic History of
   England_ (London, 1908), devote sections to finance. A. Smith, _Wealth
   of Nations_ (1776), Tooke and Newmarch, _History of Prices_ (6 vols.,

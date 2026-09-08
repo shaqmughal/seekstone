@@ -12,7 +12,7 @@ which the iron and niobium are replaced by varying amounts of manganese
 and tantalum respectively, the general formula being (Fe, Mn) (Nb,
 Ta)2O6. It was in this mineral that Charles Hatchett discovered,
 in 1801, the element niobium, which he himself called columbium after
-the country (Columbia or America) whence came the specimen in the
+the country ([[Columbia]] or America) whence came the specimen in the
 British Museum collection which he examined. The species has also been
 called niobite. It crystallizes in the orthorhombic system, and the
 black, opaque crystals are often very brilliant with a sub-metallic

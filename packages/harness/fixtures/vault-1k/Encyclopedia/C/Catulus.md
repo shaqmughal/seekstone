@@ -13,7 +13,7 @@ had been wounded at Drepanum, took no part in the operations, but on his
 return to Rome was accorded the honour of a triumph, which against his
 will he shared with Valerius. (See PUNIC WARS: First, ad fin.).
 
-2. QUINTUS LUTATIUS CATULUS, Roman general and consul with Marius in 102
+2. QUINTUS LUTATIUS CATULUS, Roman general and consul with [[Marius]] in 102
 B.C. In the war against the Cimbri and Teutones he was sent to defend
 the passage of the Alps but found himself compelled to retreat over the
 Po, his troops having been reduced to a state of panic (see MARIUS,
@@ -27,7 +27,7 @@ in Greek literature. He is said to have written the history of his
 consulship and the Cimbrian War after the manner of Xenophon; two
 epigrams by him have been preserved, one on Roscius the celebrated actor
 (Cicero, _De Nat. Deorum_, i. 28), the other of an erotic character,
-imitated from Callimachus (Gellius xix. 9). He was a man of great
+imitated from [[Callimachus]] (Gellius xix. 9). He was a man of great
 wealth, which he spent in beautifying Rome. Two buildings were known as
 "Monumenta Catuli": the temple of _Fortuna hujusce diei_, to commemorate
 the day of Vercellae, and the Porticus Catuli, built from the sale of
@@ -63,7 +63,7 @@ Crassus. Although not a man of great abilities, Catulus exercised
 considerable influence through his political consistency and his
 undoubted solicitude for the welfare of the state.
 
-  See Sallust, _Catilina_, 35. 49; Dio Cassius xxxvi. 13; Plutarch,
+  See Sallust, _Catilina_, 35. 49; Dio [[Cassius]] xxxvi. 13; Plutarch,
   _Crassus_; Suetonius, _Caesar_, 15.
 
 ## References

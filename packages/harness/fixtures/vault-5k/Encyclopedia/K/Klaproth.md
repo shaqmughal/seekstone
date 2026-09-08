@@ -9,13 +9,13 @@ type: source
 
 KLAPROTH, MARTIN HEINRICH (1743-1817), German chemist, was born at
 Wernigerode on the 1st of December 1743. During a large portion of his
-life he followed the profession of an apothecary. After acting as
-assistant in pharmacies at Quedlinburg, Hanover, Berlin and Danzig
+life he followed the profession of an [[Apothecary|apothecary]]. After acting as
+assistant in pharmacies at Quedlinburg, [[Hanover]], Berlin and Danzig
 successively he came to Berlin on the death of Valentin Rose the elder
 in 1771 as manager of his business, and in 1780 he started an
 establishment on his own account in the same city, where from 1782 he
-was pharmaceutical assessor of the Ober-Collegium Medicum. In 1787 he
-was appointed lecturer in chemistry to the Royal Artillery, and when the
+was pharmaceutical [[Assessor|assessor]] of the Ober-Collegium Medicum. In 1787 he
+was appointed lecturer in [[Chemistry|chemistry]] to the Royal Artillery, and when the
 university was founded in 1810 he was selected to be the professor of
 chemistry. He died in Berlin on the 1st of January 1817. Klaproth was
 the leading chemist of his time in Germany. An exact and conscientious
@@ -26,7 +26,7 @@ of the Lavoisierian doctrines outside France. He was the first to
 discover uranium, zirconium and titanium, and to characterize them as
 distinct elements, though he did not obtain any of them in the pure
 metallic state; and he elucidated the composition of numerous substances
-till then imperfectly known, including compounds of the then newly
+till then imperfectly known, including [[Compound|compounds]] of the then newly
 recognized elements: tellurium, strontium, cerium and chromium.
 
   His papers, over 200 in number, were collected by himself in _Beiträge
@@ -58,7 +58,7 @@ the Royalists at Le Mans and Savenay. For openly expressing his opinion
 that lenient measures ought to be pursued towards the Vendéans he was
 recalled; but in April 1794 he was once more reinstated and sent to the
 Army of the Sambre-and-Meuse. He displayed his skill and bravery in the
-numerous actions around Charleroi, and especially in the crowning
+numerous actions around [[Charleroi]], and especially in the crowning
 victory of Fleurus, after which in the winter of 1794-95 he besieged
 Mainz. In 1795 and again in 1796 he held the chief command of an army
 temporarily, but declined a permanent appointment as commander-in-chief.
@@ -78,7 +78,7 @@ command of the French forces. In this capacity, seeing no hope of
 bringing his army back to France or of consolidating his conquests, he
 made the convention of El-Arish. But when Lord Keith, the British
 admiral, refused to ratify the terms, he attacked the Turks at
-Heliopolis, though with but 10,000 men against 60,000, and utterly
+[[Heliopolis]], though with but 10,000 men against 60,000, and utterly
 defeated them on the 20th of March 1800. He then retook Cairo, which had
 revolted from the French. Shortly after these victories he was
 assassinated at Cairo by a fanatic on the 14th of June 1800, the same
@@ -94,7 +94,7 @@ all--inferior to those he possessed as a general.
 
   Ernouf, the grandson of Jourdan's chief of staff, published in 1867 a
   valuable biography of Kléber. See also Reynaud, _Life of Merlin de
-  Thionville_; Ney, Memoirs; Dumas, _Souvenirs_; Las Casas, _Memorial de
+  Thionville_; Ney, Memoirs; Dumas, _Souvenirs_; [[Las Casas]], _Memorial de
   Ste Hélène_; J. Charavaray, _Les Généraux morts pour la patrie_;
   General Pajol, _Kléber_; lives of Marceau and Desaix; M. F. Rousseau,
   _Kléber et Menou en Egypte_ (Paris, 1900).

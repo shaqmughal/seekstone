@@ -6,7 +6,7 @@ Lichfield cathedral and afterwards keeper of printed books at the
 British Museum, who came of a Yorkshire family, was born at Lichfield on
 the 27th of February 1835. His father was really the pioneer of modern
 philological research in England; his articles in the _Quarterly Review_
-(1835, 1836) on English lexicography and dialects, and on the Celtic
+(1835, 1836) on English lexicography and [[Dialect|dialects]], and on the Celtic
 question, and his essays in the _Transactions_ of the Philological
 Society (reprinted 1859), were invaluable to the later study of the
 English language. The son, who thus owed much to his parentage, was
@@ -24,20 +24,20 @@ publications in book-form were: in verse, _Primula_ (1858), _Io in
 Egypt_ (1859), _Idylls and Epigrams_ (1869, republished in 1892 as _A
 Chaplet from the Greek Anthology_), _The Queen and other Poems_ (1902),
 _Collected Poems_ (1893); in prose, biographies of Carlyle (1887),
-Emerson (1887), Milton (1890), Edward Gibbon Wakefield (1898); a volume
+[[Emerson]] (1887), Milton (1890), Edward Gibbon Wakefield (1898); a volume
 of remarkably original and fanciful tales, _The Twilight of the Gods_
-(1888); a tragedy, _Iphigenia in Delphi_ (1890); _A Short History of
+(1888); a tragedy, _Iphigenia in [[Delphi]]_ (1890); _A Short History of
 Italian Literature_ (1898); _Essays in Librarianship and Bibliophily_
 (1899); _Essays of an Ex-librarian_ (1901). He was an extensive
 contributor to the _Encyclopaedia Britannica_ and the _Dictionary of
-National Biography_, editor of the _International Library of Famous
-Literature_, and co-editor, with E. Gosse, of the elaborate _English
+National Biography_, editor of the _[[International]] Library of Famous
+Literature_, and co-editor, with E. [[Gosse]], of the elaborate _English
 Literature: an illustrated Record_. So multifarious was his output,
 however, in contributions to reviews, &c., and as translator or editor,
 that this list represents only a small part of his published work. He
 was a member of numerous learned literary societies, British and
 foreign. His facility as an expositor, and his gift for lucid and acute
-generalization, together with his eminence as a bibliophile, gave his
+generalization, together with his [[Eminence|eminence]] as a bibliophile, gave his
 work an authority which was universally recognized, though it sometimes
 suffered from his relying too much on his memory and his power of
 generalizing--remarkable as both usually were--in cases requiring
@@ -51,12 +51,12 @@ appreciation. His official career at the British Museum marked an epoch
 in the management of the library, in the history of which his place is
 second only to that of Panizzi. Besides introducing the "sliding press"
 in 1887 he was responsible for reviving the publication of the general
-catalogue, the printing of which, interrupted in 1841, was resumed under
-him in 1880, and gradually completed. The antipodes of a Dryasdust, his
-human interest in books made him an ideal librarian, and his courtesy
+[[Catalogue|catalogue]], the printing of which, interrupted in 1841, was resumed under
+him in 1880, and gradually completed. The [[Antipodes|antipodes]] of a Dryasdust, his
+human interest in books made him an ideal librarian, and his [[Courtesy|courtesy]]
 and helpfulness were outstanding features in a personality of singular
-charm. The whole bookish world looked on him as a friend. Among his
-"hobbies" was a study of astrology, to which, without associating his
+[[Charm|charm]]. The whole bookish world looked on him as a friend. Among his
+"hobbies" was a study of [[Astrology|astrology]], to which, without associating his
 name with it in public, he devoted prolonged inquiry. Under the
 pseudonym of "A.G. Trent" he published in 1880 an article (in the
 _University Magazine_) on "The Soul and the Stars"--quoted in Wilde and

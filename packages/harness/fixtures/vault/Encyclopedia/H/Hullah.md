@@ -3,8 +3,8 @@
 HULLAH, JOHN PYKE (1812-1884), English composer and teacher of music,
 was born at Worcester on the 27th June 1812. He was a pupil of William
 Horsley from 1829, and entered the Royal Academy of Music in 1833. He
-wrote an opera to words by Dickens, _The Village Coquettes_, produced in
-1836; _The Barbers of Bassora_ in 1837, and _The Outpost_ in 1838, the
+wrote an opera to words by [[Dickens]], _The Village Coquettes_, produced in
+1836; _The [[Barber|Barbers]] of Bassora_ in 1837, and _The Outpost_ in 1838, the
 last two at Covent Garden. From 1839, when he went to Paris to
 investigate various systems of teaching music to large masses of people,
 he identified himself with Wilhem's system of the "fixed Do," and his
@@ -12,11 +12,11 @@ adaptation of that system was taught with enormous success from 1840 to
 1860. In 1847 a large building in Long Acre, called St Martin's Hall,
 was built by subscription and presented to Hullah. It was inaugurated in
 1850 and burnt to the ground in 1860, a blow from which Hullah was long
-in recovering. He had risked his all in the maintenance of the building,
+in recovering. He had risked his all in the [[Maintenance|maintenance]] of the building,
 and had to begin the world again. A series of lectures was given at the
 Royal Institution in 1861, and in 1864 he lectured in Edinburgh, but in
 the following year was unsuccessful in his application for the Reid
-professorship. He conducted concerts in Edinburgh in 1866 and 1867, and
+professorship. He conducted [[Concert|concerts]] in Edinburgh in 1866 and 1867, and
 the concerts of the Royal Academy of Music from 1870 to 1873; he had
 been elected to the committee of management in 1869. In 1872 he was
 appointed by the Council of Education musical inspector of training

@@ -6,7 +6,7 @@ the "Umbre" by T. Pennant, now placed in a separate family _Scopidae_
 between the herons and storks. It was discovered by M. Adanson, the
 French traveller, in Senegal about the middle of the 19th century, and
 was described by M. J. Brisson in 1760. It has since been found to
-inhabit nearly the whole of Africa and Madagascar, and is the
+inhabit nearly the whole of Africa and [[Madagascar]], and is the
 "hammerkop" (hammerhead) of the Cape colonists. Though not larger than a
 raven, it builds an enormous nest, some six feet in diameter, with a
 flat-topped roof and a small hole for entrance and exit, and placed

@@ -4,7 +4,7 @@ ARQUEBUS (also called harquebus, hackbut, &c.), a firearm of the 16th
 century, the immediate predecessor of the musket. The word itself is
 certainly to be derived from the German Hakenbuhse (mod. Hakenbuchse,
 cf. Eng. _hackbut_ and _hackbush_), "hook gun." The "hook" is often
-supposed to refer to the bent shape of the butt, which differentiated it
+supposed to refer to the bent shape of the [[Butt|butt]], which differentiated it
 from the straight-stocked hand gun, but it has also been suggested that
 the original arquebus had a metal hook near the muzzle, which was used
 to grip the wall (or other fixed object) so as to steady the aim and
@@ -13,7 +13,7 @@ spread till it became the generic name for small arms, and that the
 original form of the weapon then took the name of _arquebus a croc_. The
 French form _arquebuse_ and Italian _arcobugio_, _archibugio_, often and
 wrongly supposed to indicate the hackbut's affinity with the crossbow
-("hollow bow" or "mouthed bow"), are popular corruptions, the Italian
+("hollow [[Bow|bow]]" or "mouthed bow"), are popular corruptions, the Italian
 being apparently the earlier of the two and supplanting the first and
 purest French form _haquebut_. Previous to the French wars in Italy,
 hand-gun men and even arbalisters seem to have been called arquebusiers,

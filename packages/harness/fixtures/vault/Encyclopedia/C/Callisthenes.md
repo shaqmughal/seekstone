@@ -1,7 +1,7 @@
 # Callisthenes
 
 CALLISTHENES (_c._ 360-328 B.C.), of Olynthus, Greek historian, a
-relative and pupil of Aristotle, through whose recommendation he was
+relative and pupil of [[Aristotle]], through whose recommendation he was
 appointed to attend Alexander the Great in his Asiatic expedition. He
 censured Alexander's adoption of oriental customs, inveighing especially
 against the servile ceremony of adoration. Having thereby greatly
@@ -16,13 +16,13 @@ war and other works, all of which have perished. The romantic life of
 Alexander, the basis of all the Alexander legends of the middle ages,
 originated during the time of the Ptolemies, but in its present form
 belongs to the 3rd century A.D. Its author is usually known as
-pseudo-Callisthenes, although, in the Latin translation by Julius
+pseudo-Callisthenes, although, in the Latin translation by [[Julius]]
 Valerius Alexander Polemius (beginning of the 4th century) it is
-ascribed to a certain Aesopus; Aristotle, Antisthenes, Onesicritus and
-Arrian have also been credited with the authorship. There are also
+ascribed to a certain Aesopus; Aristotle, [[Antisthenes]], Onesicritus and
+[[Arrian]] have also been credited with the authorship. There are also
 Syrian, Armenian and Slavonic versions, in addition to four Greek
 versions (two in prose and two in verse) in the middle ages (see
-Krumbacher, _Geschichte der byzantinischen Litteratur_, 1897, p. 849).
+[[Krumbacher]], _Geschichte der byzantinischen Litteratur_, 1897, p. 849).
 Valerius's translation was completely superseded by that of Leo,
 arch-priest of Naples in the 10th century, the so-called _Historia de
 Preliis_.
@@ -36,7 +36,7 @@ Preliis_.
   article by Edward Meyer in Ersch and Gruber's _Allgemeine
   Encyklopädie_; A. Ausfeld, _Zur Kritik des griechischen
   Alexanderromans_ (Bruchsal, 1894); Plutarch, _Alexander_, 52-55;
-  Arrian, _Anab_. iv. 10-14; Diog. Laërtius v. I; Quintus Curtius viii.
+  Arrian, _Anab_. iv. 10-14; Diog. Laërtius v. I; Quintus [[Curtius]] viii.
   5-8; Suidas _s.v._ See also ALEXANDER THE GREAT (_ad fin._). For the
   Latin translations see Teuffel-Schwabe, _Hist. of Roman Literature_
   (Eng, trans.), § 399; and M. Schanz, _Geschichte der römischen

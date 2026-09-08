@@ -1,10 +1,10 @@
 # Lowndes
 
 LOWNDES, THOMAS (1692-1748), founder of the Lowndean professorship of
-astronomy at Cambridge university, England, was born in 1692, both his
+[[Astronomy|astronomy]] at Cambridge university, England, was born in 1692, both his
 father and mother being Cheshire landowners. In 1725 he was appointed
 provost marshal of South Carolina, a post he preferred to fill by
-deputy. In 1727 Lowndes claimed to have taken a prominent part in
+[[Deputy|deputy]]. In 1727 Lowndes claimed to have taken a prominent part in
 inducing the British government to purchase Carolina, but he surrendered
 his patent when the transfer of the colony to the crown was completed.
 His patent was renewed in 1730, but he resigned it in 1733. He then

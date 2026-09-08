@@ -15,13 +15,13 @@ the winter of 874-875 they advanced as far north as the Tyne, and at the
 same time Cambridge was occupied. In the meantime the great struggle
 with Alfred the Great was being carried on. This was terminated by the
 peace of Wedmore in 878, when the Danes withdrew from Wessex and settled
-finally in East Anglia under their king Guthrum. This peace was finally
+finally in East Anglia under their king [[Guthrum]]. This peace was finally
 and definitely ratified in the document known as the peace of Alfred and
 Guthrum, which is probably to be referred to the year 880. The peace
 determined the boundary of Guthrum's East Anglian kingdom. According to
 the terms of the agreement the boundary was to run along the Thames
 estuary to the mouth of the Lea (a few miles east of London), then up
-the Lea to its source near Leighton Buzzard, then due north to Bedford,
+the Lea to its source near [[Leighton Buzzard]], then due north to [[Bedford]],
 then eastwards up the Ouse to Watling Street somewhere near Fenny or
 Stony Stratford. From this point the boundary is left undefined, perhaps
 because the kingdoms of Alfred and Guthrum ceased to be conterminous
@@ -34,7 +34,7 @@ district known as the Danelagh.
 The three chief divisions of the Danelagh were (1) the kingdom of
 Northumbria, (2) the kingdom of East Anglia, (3) the district of the
 Five (Danish) Boroughs--lands grouped round Leicester, Nottingham,
-Derby, Stamford and Lincoln, and forming a loose confederacy. Of the
+[[Derby]], Stamford and Lincoln, and forming a loose confederacy. Of the
 history of the two Danish kingdoms we know very little. Guthrum of East
 Anglia died in 890, and later we hear of a king Eric or Eohric who died
 in 902. Another Guthrum was ruling there in the days of Edward the
@@ -77,7 +77,7 @@ Lincolnshire, part of Northamptonshire, Nottinghamshire, Rutlandshire
 When we turn to the social divisions we find in Domesday and other
 documents classes of society in these districts bearing purely Norse
 names, _dreng_, _karl_, _karlman_, _bonde_, _thrall_, _lysing_, _hold_;
-in the system of taxation we have an assessment by _carucates_ and not
+in the system of taxation we have an assessment by _[[Carucate|carucates]]_ and not
 by hides and _virgates_, and the duodecimal rather than the decimal
 system of reckoning.
 

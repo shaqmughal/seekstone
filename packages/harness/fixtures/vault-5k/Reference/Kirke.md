@@ -23,8 +23,8 @@ returned to England, and a year later their colonel served as a
 brigadier in Faversham's army. After Sedgemoor the rebels were treated
 with great severity; but the charges so often brought against the
 "Lambs" are now known to be exaggerated, though the regiment shared to
-the full in the ruthless hunting down of the fugitives. It is often
-stated that it formed Jeffreys's escort in the "Bloody Assize," but this
+the full in the ruthless [[Hunting|hunting]] down of the fugitives. It is often
+stated that it formed Jeffreys's escort in the "Bloody [[Assize]]," but this
 is erroneous. Brigadier Kirke took a notable part in the Revolution
 three years later, and William III. promoted him. He commanded at the
 relief of Derry, and made his last campaign in Flanders in 1691. He

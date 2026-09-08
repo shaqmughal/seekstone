@@ -8,14 +8,14 @@ tags: [geography, jurisprudence]
 
 # Jeroboam
 
-JEROBOAM (Heb. _yarob'am_, apparently "Am ['the clan,' here perhaps a
+JEROBOAM (Heb. _yarob'am_, apparently "Am ['the [[Clan|clan]],' here perhaps a
 divine name] contends"; LXX. [Greek: ieroboam]), the name of two kings
 in the Bible.
 
 1. The first king of (north) Israel after the disruption (see SOLOMON).
 According to the traditions of his early life (1 Kings xi. 26 sqq. and
 LXX.), he was an Ephraimite who for his ability was placed over the
-forced levy of Ephraim and Manasseh. Having subsequently incurred
+forced [[Levy|levy]] of Ephraim and [[Manasseh]]. Having subsequently incurred
 Solomon's suspicions he fled to Shishak, king of Egypt, and remained
 with him until Rehoboam's accession. When the latter came to be made
 king at Shechem, the old religious centre (see ABIMELECH), hopes were
@@ -29,8 +29,8 @@ details are preserved except the late story of Rehoboam's son Abijah in
 2 Chron. xiii. Jeroboam's chief achievement was the fortification of
 Shechem (his new capital) and of Penuel in east Jordan. To counteract
 the influence of Jerusalem he established golden calves at Dan and
-Bethel, an act which to later ages was as gross a piece of wickedness as
-his rebellion against the legitimate dynasty of Judah. No notice has
+[[Bethel]], an act which to later ages was as [[Gross|gross]] a piece of wickedness as
+his rebellion against the legitimate dynasty of [[Judah]]. No notice has
 survived of Shishak's invasion of Israel (see REHOBOAM), and after a
 reign of twenty-two years Jeroboam was succeeded by Nadab, whose violent
 death two years later brought the whole house of Jeroboam to an end.
@@ -57,7 +57,7 @@ death two years later brought the whole house of Jeroboam to an end.
 
 2. JEROBOAM, son of Joash (2) a contemporary of Azariah king of Judah.
 He was one of the greatest of the kings of Israel. He succeeded in
-breaking the power of Damascus, which had long been devastating his
+breaking the power of [[Damascus]], which had long been devastating his
 land, and extended his kingdom from Hamath on the Orontes to the Dead
 Sea. The brief summary of his achievements preserved in 2 Kings xiv. 23
 sqq. may be supplemented by the original writings of Amos and Hosea.[2]
@@ -79,7 +79,7 @@ FOOTNOTES:
   [1] On the variant traditions in the Hebrew text and the Septuagint,
     see the commentaries on Kings.
 
-  [2] See also JONAH. In 2 Kings xiv. 28, "Hamath, _which had belonged_
+  [2] See also [[Jonah|JONAH]]. In 2 Kings xiv. 28, "Hamath, _which had belonged_
     to Judah" (R.V.) is incorrect; Winckler (_Keilinschrift. u. Alte
     Test._, 2nd ed., 262) suspects a reference to Israel's overlordship
     in Judah; Burney (_Heb. Text of Kings_) reads: "how he fought with

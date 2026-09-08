@@ -39,7 +39,7 @@ the sister of Beaumarchais, and had failed to keep his word. The
 adventure had not the tragic ending of Goethe's _Clavigo_, for
 Beaumarchais did not pursue his vengeance beyond words. Beaumarchais
 made his first essay as a writer for the stage with the sentimental
-drama _Eugenie_ (1767), in which he drew largely on the Clavijo
+[[Drama|drama]] _Eugenie_ (1767), in which he drew largely on the Clavijo
 incident. This was followed after an interval of two years by _Les Deux
 Amis_, but neither play had more than moderate success. His first wife
 had died within a year of the marriage and in 1768 Beaumarchais married
@@ -47,9 +47,9 @@ Mme Leveque. Her death in 1771 was the signal for unfounded rumours of
 poisoning. Duverney died in 1770; but some time before his death a
 duplicate settlement of the affairs between him and Beaumarchais had
 been drawn up, in which the banker acknowledged himself debtor to
-Beaumarchais for 15,000 francs. Duverney's heir, the comte de La Blache,
+Beaumarchais for 15,000 [[Franc|francs]]. Duverney's heir, the comte de La Blache,
 denied the validity of the document though without directly stigmatizing
-it as a forgery. The matter was put to trial. Beaumarchais gained his
+it as a [[Forgery|forgery]]. The matter was put to trial. Beaumarchais gained his
 cause, but his adversary at once carried the case before the parlement.
 In the meantime the duc de Chaulnes forced Beaumarchais into a quarrel
 over Mdlle Menard, an actress at the Comedie Italienne, which resulted
@@ -73,7 +73,7 @@ at once brought an accusation against him for an attempt to corrupt
 justice. The battle was fought chiefly through the _Memoires_, or
 reports published by the adverse parties, and in it Beaumarchais's
 success was complete. For vivacity of style, fine satire and broad
-humour, his famous _Memoires_ have never been surpassed. Even Voltaire
+[[Humour|humour]], his famous _Memoires_ have never been surpassed. Even Voltaire
 was constrained to envy them. Beaumarchais was skilful enough to make
 his particular case of universal application. He was attacking the
 parlement through one of its members, and the parlement was the
@@ -90,7 +90,7 @@ La Blache.
 During the next few years he was engaged in the king's secret service.
 One of his missions was to England to destroy the _Memoires secrets
 d'une femme publique_ in which Charles Theveneau de Morande made an
-attack on Mme Du Barry. Beaumarchais secured this pamphlet, and burnt
+attack on Mme [[Du Barry]]. Beaumarchais secured this pamphlet, and burnt
 the whole impression in London. Another expedition to England and
 Holland to seize a pamphlet attacking Marie Antoinette led to a series
 of incidents more amazing than the intrigues in Beaumarchais's own
@@ -164,7 +164,7 @@ Convention with muskets from Holland, proved a ruinous failure. He was
 accused of concealing arms and corn in his house, but when his house was
 searched nothing was discovered but some thousands of copies of the
 edition (1783-1790) of the works of Voltaire which he had had printed at
-his private press at Kehl, in Baden. He was charged with treason to the
+his private press at [[Kehl]], in Baden. He was charged with treason to the
 republic and was imprisoned in the Abbaye on the 20th of August 1792. A
 week later he was released at the intercession of Mme Houret de la
 Mariniere, who had been his mistress. He took refuge in Holland and
@@ -176,9 +176,9 @@ Paris he was proscribed as an _emigre_. He returned to Paris in 1796,
 and died there, suddenly, on the 18th of May 1799.
 
   Gudin de la Brenellerie's _Histoire de Beaumarchais_ (1809) was edited
-  by M. Maurice Tourneux in 1888. See also L. de Lomenie, _Beaumarchais
+  by M. [[Maurice]] Tourneux in 1888. See also L. de Lomenie, _Beaumarchais
   et son temps_ (1855), Eng. trans. by H.S. Edwards, (4. vols., 1856);
-  A. Hallay's _Beaumarchais_ (1897); M. de Lescure, _Eloge de
+  A. Hallay's _Beaumarchais_ (1897); M. de [[Lescure]], _Eloge de
   Beaumarchais_ (1886); and Sainte-Beuve, _Causeries du lundi_, vol. vi.
   Beaumarchais's works have been edited by Gudin (7 vols., 1809); by
   Furne (6 vols., 1827); and by E. Fournier (1876). A variorum edition

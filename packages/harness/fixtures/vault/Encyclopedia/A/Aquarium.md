@@ -17,9 +17,9 @@ opportunities for that study of the habits and environment of marketable
 food-fish without which no steps for the improvement of sea-fisheries
 can be safely taken. The numerous "zoological stations" which have
 sprung up, chiefly in Europe and the United States, but also in the
-British colonies and Japan, often endeavour to unite these two aims, and
+British colonies and [[Japan]], often endeavour to unite these two aims, and
 have in many cases become centres of experimental work in problems
-relating to fisheries, as well as in less directly practical subjects.
+relating to [[Fisheries|fisheries]], as well as in less directly practical subjects.
 Of these stations, the oldest and the most important is that at Naples,
 which, though designed for purely scientific objects, also encourages
 popular study by means of a public aquarium. The following account
@@ -28,7 +28,7 @@ serve to show the methods and aims, and the complex and expensive
 equipment, of a modern aquarium:--
 
 "The zoological station at Naples is an institution for the advancement
-of biological science--that is, of comparative anatomy, zoology, botany,
+of biological science--that is, of [[Comparative Anatomy|comparative anatomy]], zoology, botany,
 physiology. It serves this end by providing the biologist with the
 various objects of his study and the necessary appliances; it is not a
 teaching institution. The station was founded by Dr Anton Dohrn, and
@@ -48,7 +48,7 @@ finished in 1887, contains the rooms in which the animals are delivered,
 sorted and preserved, and the fishing tackle kept, together with the
 workshop of the engineer; on the first and second floors are workrooms,
 amongst others the botanical laboratory; on the third floor are
-store-rooms. In the basement of both buildings, which is continued
+store-rooms. In the [[Basement|basement]] of both buildings, which is continued
 underneath the court, there are sea-water cisterns and filters, engines
 and store-rooms. The materials for study which the station offers to the
 biologist are specimens of marine animals and plants which abound in the
@@ -57,8 +57,8 @@ To obtain these, two screw-steamers and several rowing boats are
 required, which are moored in the harbour of Mergellina, situated close
 by. The larger steamer, 'Johannes Muller' (15 m. long, 2-1/2 m. wide, 1
 m. draught), which can steam eight to ten English miles per hour, is
-provided with a steam dredge working to a depth of eighty fathoms. From
-the small steamer, 'Frank Balfour,' and the rowing boats, the fishing is
+provided with a steam dredge working to a depth of eighty [[Fathom|fathoms]]. From
+the small steamer, '[[Frank]] Balfour,' and the rowing boats, the fishing is
 done by means of tow-nets. Besides these there are fishermen and others
 who daily supply living material for study. The plankton (small floating
 animals) is distributed in the morning, other animals as required. The
@@ -100,7 +100,7 @@ animals it is necessary to keep the water absolutely free from harmful
 bacteria; for this purpose large sand-filters have lately been placed in
 the system, through which the water passes after leaving the cisterns.
 Each of the smaller cisterns, which are fixed in the workrooms, consist
-of two water-tanks, placed one above the other; their frames are of
+of two water-tanks, placed one above the other; their [[Frame|frames]] are of
 wrought iron and the walls generally of glass. Vessels containing minute
 animals can be placed between these two tanks, receiving their water
 through a siphon from the upper tank; the water afterwards flows away
@@ -122,13 +122,13 @@ changed at all, air being driven through it by means of an apparatus put
 into motion by the drinking-water supply.
 
 "The library contains about 9000 volumes, which students use with the
-help of a slip catalogue, arranged according to authors. The station has
+help of a slip [[Catalogue|catalogue]], arranged according to authors. The station has
 published at intervals since 1879 two periodicals treating of the
-organisms of the Mediterranean. One is _Fauna und Flora des Golfes van
+organisms of the Mediterranean. One is _Fauna und Flora des [[Golf|Golfes]] van
 Neapel_, the other _Mittheilungen aus der zoologischen Station zu
 Neapel_. The former consists of monographs in which special groups of
 animals and plants are most exhaustively treated and the Mediterranean
-species portrayed according to life in natural colours; up to the
+species portrayed according to life in natural [[Colours|colours]]; up to the
 present time twenty-one zoological and five botanical monographs have
 appeared, making altogether 1200 4to sheets with about 400 plates. Of
 the Mittheilungen, which contain smaller articles on organisms of the
@@ -144,13 +144,13 @@ the lay visitor an idea of the marine animal world.
 physiologist, one secretary, two draughtsmen, one engineer. The station
 is a private institution, open to biologists of all nations under the
 following conditions: there are agreements with the governments of
-Austria, Baden, Bavaria, Belgium, Hamburg, Holland, Hesse, Italy,
+Austria, Baden, Bavaria, [[Belgium]], [[Hamburg]], Holland, [[Hesse]], Italy,
 Prussia, Russia, Saxony, Switzerland, Hungary, Wurttemberg, the province
 of Naples, and the universities of Cambridge, Oxford, Strassburg,
-Columbia College (New York), and the British Association for the
+[[Columbia]] College (New York), and the British Association for the
 Advancement of Science, the Smithsonian Institution, and a society of
 women in the United States of North America (formerly also with
-Bulgaria, Rumania, Spain, the Academy of Sciences in Berlin, Williams
+[[Bulgaria]], Rumania, Spain, the Academy of Sciences in Berlin, Williams
 College, University of Pennsylvania), by virtue of which the governments
 and corporate bodies named have the right, on payment of L100 per annum,
 to send a worker to the station; this places at his disposal a 'table'
@@ -158,7 +158,7 @@ or workplace, furnished with all the necessary appliances and materials
 as set down in the agreement. At present there are agreements for
 thirty-three tables, and since the foundation of the station nearly 1200
 biologists have worked there. The current expenses are paid out of the
-table-rents, the entrance fees to the public aquarium, and an annual
+table-rents, the entrance [[Fee|fees]] to the public aquarium, and an annual
 subvention paid by the German empire."
 
 In England a station on similar lines, but on a smaller scale, is
@@ -207,18 +207,18 @@ of water in circulation; if practicable, they should be excavated in
 rock, and lined with the best cement. Thera is no reason why they should
 not be shallow, exposed to light and air, and cultivated as rock-pools
 by the introduction of seaweeds and small animals, but they must then be
-screened from rain, cold and dust. The pumps used in circulation will be
+screened from rain, cold and [[Dust|dust]]. The pumps used in circulation will be
 less likely to kill minute animals if of the plunger or ram type, rather
 than rotary, and should be of gun-metal or one of the new bronze-alloys
 which take a patina in salt water. For the circulating pipes many
 materials have been tried. Vulcanite is not only expensive and brittle,
 but has other disadvantages; common iron pipes, coated internally with
-cement or asphalt or glazed internally, with all unions and joints
+cement or [[Asphalt|asphalt]] or glazed internally, with all unions and [[Joints|joints]]
 cemented, have been used with more or less success. Probably best of all
 is common lead piping, the joints being served with red-lead; water
 should be circulated through such pipes till they become coated with
 insoluble carbonate, for some time before animals are put into the
-tanks. For small installations glass may be used, the joints being made
+tanks. For small [[Installation|installations]] glass may be used, the joints being made
 with marine glue or other suitable cement.
 
 In building the tanks themselves, regard must be had to their special
@@ -226,7 +226,7 @@ purposes. If intended for show-tanks for popular admiration, or for the
 study of large animals, they must be large with a plate-glass front; for
 ordinary scientific work small tanks with all sides opaque are
 preferable from every point of view. According to their character, size
-and position, fixed tanks may be of brickwork, masonry or rock, coated
+and position, fixed tanks may be of [[Brickwork|brickwork]], [[Masonry|masonry]] or rock, coated
 in each case with cement; asphalting the sides offers no particular
 advantages, and often gives rise to great trouble and expense. All
 materials, and especially the cements, must be of the finest quality
@@ -254,7 +254,7 @@ of nitrogen present in various forms, and the reduced alkalinity; these
 two being probably connected. The excess of nitrogen is referable to
 dead animals, to waste food and to the excreta of the living organisms.
 The first two of these sources of contamination may be reduced by care
-and cleanliness, and by the maintenance of a flow of water sufficient to
+and cleanliness, and by the [[Maintenance|maintenance]] of a flow of water sufficient to
 prevent the excessive accumulation of sediment in the tanks. The
 following experiment shows the rapid rise of nitrogen if unchecked. A
 tank with a considerable fauna was isolated from the general circulation
@@ -285,7 +285,7 @@ be effected by filtration, a method first introduced successfully at
 Hamburg, where a most thriving aquarium has been maintained by the local
 Zoological Society for many years on the circulation principle, new
 water being added only to compensate for waste and evaporation. The
-filters consist of open double boxes, the inner having a bottom of
+filters consist of open double [[Box|boxes]], the inner having a bottom of
 perforated slate on which rests rough gravel; on the latter is fine
 gravel, then coarse, and finally fine sand. Filtration may be either
 upwards or downwards through the inner box to the outer. Such filters,
@@ -309,7 +309,7 @@ exhaustion and death which soon follow their unaided efforts to keep off
 the bottom; this duty is effected in nature by specific gravity, tide
 and surface current. In order to deal with this difficulty a simple but
 efficient apparatus has been devised by Mr E.T. Browne; a "plunger,"
-generally a glass plate or filter funnel, moves slowly up and down in a
+generally a glass plate or filter [[Funnel|funnel]], moves slowly up and down in a
 bell-jar or other small tank, with a period of rest between each stroke;
 the motive power is obtained through a simple bucket-and-siphon
 arrangement worked by the overflow from other tanks. This apparatus

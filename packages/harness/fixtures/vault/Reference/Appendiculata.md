@@ -7,10 +7,10 @@ topic: science
 # Appendiculata
 
 APPENDICULATA, a zoological name introduced by E. Ray Lankester (preface
-to the English edition of C. Gegenbaur's _Comparative Anatomy_), and
+to the English edition of C. Gegenbaur's _[[Comparative Anatomy]]_), and
 employed by the same writer in the 9th edition of this encyclopaedia
-(article "Zoology") to denote the eighth phylum, or major division, of
-coelomate animals. The animals thus associated, the Rotifera, Chaetopoda
+(article "Zoology") to denote the eighth phylum, or [[Major|major]] division, of
+coelomate animals. The animals thus associated, the Rotifera, [[Chaetopoda]]
 and Arthropoda, are composed of a larger or smaller number of hollow
 rings, each ring possessing typically a pair of hollow lateral
 appendages, moved by intrinsic muscles and penetrated by blood-spaces.

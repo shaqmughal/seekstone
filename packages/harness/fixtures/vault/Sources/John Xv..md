@@ -15,7 +15,7 @@ chair Crescentius was patrician of Rome, but, although his influence was
 on this account very much hampered, the presence of the empress
 Theophano in Rome from 989 to 991 restrained also the ambition of
 Crescentius. On her departure the pope, whose venality and nepotism had
-made him very unpopular with the citizens, died of fever before the
+made him very unpopular with the citizens, died of [[Fever|fever]] before the
 arrival of Otto III., who elevated his own kinsman Bruno to the papal
 dignity under the name of Gregory V.
 

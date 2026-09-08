@@ -7,7 +7,7 @@ process to be unable to pay his debts. Although the terms "bankruptcy" and
 commercial usage distinct significations. When a person's financial
 liabilities are greater than his means of meeting them, he is said to be
 "insolvent"; but he may nevertheless be able to carry on his business
-affairs by means of credit, paying old debts by incurring new ones, and he
+affairs by means of [[Credit|credit]], paying old debts by incurring new ones, and he
 may even, if fortunate, regain a position of solvency without his creditors
 ever being aware of his true condition. And even when his insolvency
 becomes public and default occurs, a debtor may still avert bankruptcy if
@@ -24,14 +24,14 @@ creditors were left to pursue their remedies by such means as the law or
 practice of the community might sanction, and these were generally of a
 very drastic character. Under the Roman law of the Twelve Tables, the
 creditors might, as a last resort, cut the debtor's body into pieces, each
-of them taking his proportionate share; and although Blackstone in quoting
+of them taking his proportionate share; and although [[Blackstone]] in quoting
 this law appears to cast some doubt upon its too literal interpretation,
 there can be no doubt that the power of selling the debtor and his family
 into slavery was one which was habitually exercised in Greece, Rome, and
 generally among the nations of antiquity. Even among the Jews, whose
 legislation was of a comparatively humane character, this practice is
 illustrated by the Old Testament story of the woman who sought the help of
-Elisha, saying, "Thy servant my husband is dead ... and the creditor is
+[[Elisha]], saying, "Thy servant my husband is dead ... and the creditor is
 come to take unto him my two children to be bondmen." The savage severity
 of these earlier laws was, however, found to be inconsistent with the
 development of more humane ideas and the growth of popular rights; and
@@ -241,7 +241,7 @@ which made such arrangements binding without a _cessio_ and reduced the
 majority required to make a deed of arrangement binding on all the
 creditors, to a majority in number and three-fourths in value of those
 whose claims amounted to £10 and upwards. The result was an enormous
-increase in fraudulent arrangements. The then attorney-general, Sir Robert
+increase in fraudulent arrangements. The then [[Attorney-General|attorney-general]], Sir Robert
 Collier, in introducing an amending act in 1869, described the abuses which
 had grown up under the 1849 and 1861 acts, as having the effect of enabling
 a bankrupt to "defraud those to whom he was indebted and to set them at
@@ -448,7 +448,7 @@ courts to which they are attached. While effecting this supervision and
 control by a public department directly responsible to parliament, the main
 objects of the measure were to secure--(1) An independent and public
 investigation of the debtor's conduct; (2) The punishment of commercial
-misconduct and fraud in the interests of public morality; (3) The summary
+misconduct and [[Fraud|fraud]] in the interests of public morality; (3) The summary
 and inexpensive administration of small estates where the assets do not
 exceed £300 by the official receiver, unless a majority in number and
 three-fourths in value of the creditors voting resolve to appoint a
@@ -464,7 +464,7 @@ to make administration orders for payment by instalments in lieu of
 immediate committal to prison, in the case of judgment debtors whose total
 indebtedness does [v.03 p.0324] not exceed £50 (§ 122). It also provides
 for the getting in and administration by the Board of Trade of unclaimed
-dividends and undistributed balances on estates wound up under previous
+dividends and undistributed [[Balance|balances]] on estates wound up under previous
 bankruptcy acts (§ 162). Lastly, it amends the procedure under the Debtors
 Act of 1869, dealing with criminal offences committed by bankrupts (which,
 prior to 1869, had been treated as part of the bankruptcy law), by enacting
@@ -512,7 +512,7 @@ of frauds by debtors on their creditors, and any points and matters upon
 which the existing laws seemed to require amendment. The committee received
 a vast amount of evidence as well as documents and memoranda from chambers
 of commerce, trade protection societies and influential public bodies. The
-scope of the inquiry was not limited to English law and procedure, but also
+scope of the inquiry was not limited to [[English Law|English law]] and procedure, but also
 embraced that of Germany, France, Australia, Scotland and Ireland. The
 report of the committee was issued in 1908 (Cd. 4068), and reference may be
 made to it for much valuable information. The committee reported that the
@@ -528,7 +528,7 @@ committed an offence for which he could and ought to be prosecuted,
 prosecution and conviction, with adequate punishment, ought to follow
 speedily and decisively, and the chief recommendation of the committee was
 that, while the existing procedure should be left untouched, offences ought
-also to be punishable on summary conviction before magistrates and
+also to be punishable on summary conviction before [[Magistrate|magistrates]] and
 justices, and the provisions of the Summary Jurisdiction Acts applied to
 them, and that where an order for a prosecution is made on an application
 by the official receiver of a bankruptcy court and based on his report,
@@ -565,7 +565,7 @@ force in France and Germany; that failure or omission by a debtor to have
 kept the required books should only be punishable in the event of a debtor
 becoming bankrupt and of the liquidated debts proved in the bankruptcy
 exceeding £200 in amount; that no prosecution of a debtor for failure or
-omission to keep books of account should take place before the lapse of two
+omission to keep books of account should take place before the [[Lapse|lapse]] of two
 years from the passing of the law; that a debtor should not be punished if
 he could show that his failure or omission to keep proper books was honest
 and excusable and did not contribute to his insolvency, and that no
@@ -580,7 +580,7 @@ an undischarged bankrupt, and dealings with such property, and with respect
 to married women and their liabilities under bankruptcy law. The committee
 also reported on the law and practice relating to voluntary deeds of
 arrangement between a debtor and his creditors and on the compulsory
-regulation of assignments of book debts, and of agreements for the hire and
+regulation of [[Assignment|assignments]] of book debts, and of agreements for the hire and
 purchase of chattels.
 
 [Sidenote: Results of legislation.]
@@ -678,7 +678,7 @@ binding on those who do not assent to them, such arrangements, where
 honestly entered into and carried out by capable administration, in many
 cases form a useful and expeditious method of liquidating a debtor's
 affairs, and where the debtor's insolvency has been brought about without
-any gross misconduct they will probably always be largely resorted to. The
+any [[Gross|gross]] misconduct they will probably always be largely resorted to. The
 danger attending them is that even in cases where the debtor has been
 guilty of misconduct, a private arrangement may be used to screen his
 conduct from investigation, while in many cases it may be made the medium
@@ -744,7 +744,7 @@ assignment for the benefit of his creditors generally; if he absconds or
 keeps house; if he gives notice of suspension of payments; if his goods are
 sold or seized under execution; if he files in court a declaration of
 inability to pay his debts; or if he grants a fraudulent preference or
-conveyance. These acts are here enumerated in the order in which they most
+[[Conveyance|conveyance]]. These acts are here enumerated in the order in which they most
 frequently occur in practice.
 
 _Object and Effect of Receiving Order_.--The object of the order is to
@@ -814,7 +814,7 @@ could exercise if present may be given to the official receiver or to any
 person in the regular employment of the creditor. Special proxies may be
 given to any person to vote for specified resolutions, or for the
 appointment of specified persons as trustee and committee. Only official
-forms can be used, and the blanks must be filled up in the handwriting of
+forms can be used, and the [[Blank|blanks]] must be filled up in the handwriting of
 the creditor or some person in his regular employment, including the
 authorized agent of a creditor resident abroad. A proxy must be lodged with
 the official receiver not later than four o'clock on the day before the
@@ -842,7 +842,7 @@ rate of 4% per annum.
 _Effect on Bankrupt_.--The bankrupt is bound to aid the trustee in his
 administration, and if he wilfully fails to deliver up any part of his
 property he is guilty of contempt of court. He is also liable to criminal
-prosecution under the Debtors Act if with intent to defraud he conceals or
+prosecution under the Debtors Act if with [[Intent|intent]] to defraud he conceals or
 removes property to the value of £10 or upwards; or if he fails to deliver
 to the trustee all his property, books, documents, &c.; or if he knowingly
 permits false debts to be proved on his estate without disclosure; or
@@ -865,7 +865,7 @@ years after his discharge, unless the bankruptcy is annulled or he obtains
 his discharge with a certificate by the court that the bankruptcy was
 caused by misfortune without misconduct, act as a member of the
 legislature, or as a justice of the peace, mayor, alderman, councillor,
-guardian or overseer of the poor, member of a sanitary authority, school,
+[[Guardian|guardian]] or overseer of the poor, member of a sanitary authority, school,
 highway or burial board, or select vestry in any part of the United
 Kingdom.
 
@@ -893,7 +893,7 @@ three months preceding the receiving order given an undue preference; or
 has increased his liabilities with the view of making his assets equal to
 ten shillings in the pound; or has previously been bankrupt or made an
 arrangement with creditors; or has been guilty of any fraud or fraudulent
-breach of trust; then the court shall, on proof of any of these facts,
+[[Breach|breach]] of trust; then the court shall, on proof of any of these facts,
 either (a) refuse the discharge, or (b) suspend it for a period of not less
 than two years, or until a dividend of not less than ten shillings in the
 pound has been paid; or (c) qualify the order by the condition that
@@ -904,7 +904,7 @@ to modify the conditions if he is unable to comply with them. An order of
 discharge releases the debtor from all his obligations except debts due to
 the crown, and other obligations of a public character which can only be
 discharged with the consent of the Treasury, debts incurred by fraud, and
-judgment debts in an action for seduction or as a co-respondent in a
+judgment debts in an action for seduction or as a [[Co-Respondent|co-respondent]] in a
 matrimonial suit or under an affiliation order, which are only released to
 such extent and subject to such conditions as the court may expressly
 order. The release of the bankrupt does not operate as a release [v.03
@@ -985,7 +985,7 @@ consideration, are also void, as are similar settlements within ten years,
 unless it is proved that the settlor was (independently of the settled
 property) solvent at the date of the settlement, and that the interest in
 the property passed to the trustees on the execution of the deed. The same
-rule applies to covenants to settle in consideration of marriage
+rule applies to [[Covenant|covenants]] to settle in consideration of marriage
 future-acquired property in which the debtor had no interest at the date of
 the marriage (other than property acquired by the bankrupt through his
 wife), if such property is not actually transferred before the bankruptcy.
@@ -1150,14 +1150,14 @@ credit, or divide the estate where practicable among the creditors in its
 existing form. He may, without special sanction, but subject to any
 directions which may be given by the creditors in general meeting, or
 failing them by the committee, sell the property or any part of it for
-cash, including business goodwill and book debts, and either by public
+[[Cash|cash]], including business [[Goodwill|goodwill]] and book debts, and either by public
 auction or private treaty, and generally exercise all the powers which the
 bankrupt might before adjudication have exercised in relation to the
 property, or which are by the Bankruptcy Act conferred on the trustee.
 
 Where any part of the property is held subject to onerous obligations, such
 as the payment of rent, &c., the trustee may disclaim the same, subject in
-certain cases to the leave of the court, and the disclaimer operates to
+certain cases to the leave of the court, and the [[Disclaimer|disclaimer]] operates to
 determine all interest in or liability in respect of the property on the
 part of the estate. The trustee is required to keep a record book (which is
 commenced by the official receiver), containing minutes of the proceedings
@@ -1285,7 +1285,7 @@ parliament (1621, c. 18) that no debtor after insolvency should
 fraudulently diminish the fund belonging to his creditors, and if a deed of
 assignment was gratuitously executed after the contracting of debt in
 favour of a near relation or a confidential friend, fraudulent dealing was
-to be presumed. The act 1696, c. 5, settled the definition of a notour or
+to be presumed. The act 1696, c. 5, settled the [[Definition|definition]] of a notour or
 notorious bankrupt, a question which had previously engaged the attention
 of the judges of the court of session. The statute defines "a notour
 bankrupt" to be any debtor who, being under diligence by horning or

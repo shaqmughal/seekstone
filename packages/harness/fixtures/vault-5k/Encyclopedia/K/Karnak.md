@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Karnak"
 KARNAK, a village in Upper Egypt (pop. 1907, 12,585), which has given
 its name to the northern half of the ruins of Thebes on the east bank of
 the Nile, the southern being known as Luxor (q.v.). The Karnak ruins
-comprise three great enclosures built of crude brick. The northernmost
+comprise three great enclosures built of crude [[Brick|brick]]. The northernmost
 and smallest of these contained a temple of the god Mont, built by
 Amenophis III., and restored by Rameses II. and the Ptolemies. Except a
 well-preserved gateway dating from the reign of Ptolemy Euergetes I.,
@@ -118,7 +118,7 @@ Alexander the Great restored a chamber in the festival hall of Tethmosis
 III., and Ptolemy Soter built the central shrine of granite in the name
 of Philip Arrhidaeus. The walls throughout, as usually in Egyptian
 temples, are covered with scenes and inscriptions, many of these, such
-as those which record the annals of Tethmosis III., the campaign of Seti
+as those which record the [[Annals|annals]] of Tethmosis III., the campaign of Seti
 I. in Syria, the exploit of Rameses II. at the battle of Kadesh and his
 treaty with the Hittites, and the dedication of Sheshonk's victories to
 Ammon, are of great historical importance. Several large stelae with
@@ -134,7 +134,7 @@ the find, both from the artistic and historical standpoints, is immense.
 The purpose of the deposit is still in doubt; many of the objects are of
 the finest materials and finest workmanship, and in perfect
 preservation: even precious metals are not absent. Multitudes of objects
-in wood, ivory, &c., have decayed beyond recovery. That all were waste
+in wood, [[Ivory|ivory]], &c., have decayed beyond recovery. That all were waste
 pieces seems incredible. They are found lying in the utmost confusion;
 in date they range from the XIIth Dynasty to the Ptolemaic period.
 
@@ -143,7 +143,7 @@ saltpetre produced from the organic matter about the ruins, annually
 melting and crystallizing, has disintegrated the soft sandstone in the
 lower courses of the walls and the lower drums and bases of the columns.
 There is moreover no solid foundation in any part of the temple. Slight
-falls of masonry have taken place from time to time, and the
+falls of [[Masonry|masonry]] have taken place from time to time, and the
 accumulation of rubbish was the only thing that prevented a great
 disaster. Repairs, often on a large scale, have therefore gone on side
 by side with the clearance, especially since the fall of many columns in
@@ -159,7 +159,7 @@ remains of the earliest periods, proving that the history of Thebes goes
 back to a remote antiquity.
 
   See Baedeker's _Handbook for Egypt_; also _Description de l'Egypte.
-  Atlas, Antiquites_ (tome iii.); A. Mariette, _Karnak, Etude
+  [[Atlas]], Antiquites_ (tome iii.); A. Mariette, _Karnak, Etude
   topographique et archeologique_; L. Borchardt, _Zur Baugeschichte des
   Ammontempels von Karnak_; G. Legrain in _Recueil des travaux relatifs
   a l'arch. Egypt._, vol. xxvii. &c.; and reports in _Annales du service

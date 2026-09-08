@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Khattak"
 
 KHATTAK, an important Pathan tribe in the North-West Frontier Province
 of India, inhabiting the south-eastern portion of the Peshawar district
-and the south-eastern and eastern portions of Kohat. They number 24,000,
+and the south-eastern and eastern portions of [[Kohat]]. They number 24,000,
 and have always been quiet and loyal subjects of the British government.
 They furnish many recruits to the Indian army, and make most excellent
 soldiers.

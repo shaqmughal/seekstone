@@ -7,9 +7,9 @@ extremity, between the Adriatic Sea and the Gulf of Tarentum, ending in the
 lapygian promontory (Lat. _Promunturium Sallentinum_; the village upon it
 was called Leuca--Gr. [Greek: Leuka], white, from its colour--and is still
 named S. Maria di Leuca) and corresponding in the main with the modern
-province of Lecce, Brundisium and Tarentum being its most north-westerly
+province of [[Lecce]], Brundisium and Tarentum being its most north-westerly
 cities, though the boundary of the latter extends somewhat farther [v.04
-p.0964] west. It is a low terrace of limestone, the highest parts of which
+p.0964] west. It is a low terrace of [[Limestone|limestone]], the highest parts of which
 seldom reach 1500 ft.; the cliffs, though not high, are steep, and it has
 no rivers of any importance, but despite lack of water it was (and is)
 remarkably fertile. Strabo mentions its pastures and trees, and its olives,
@@ -18,7 +18,7 @@ are frequently spoken of by the ancients. The wool of Tarentum and
 Brundisium was also famous, and at the former place were considerable
 dye-works. These two towns acquired importance in very early times owing to
 the excellence of their harbours. Traces of a prehistoric population of the
-stone and early bronze age are to be found all over Calabria. Especially
+stone and early [[Bronze Age|bronze age]] are to be found all over Calabria. Especially
 noticeable are the menhirs (_pietre fitte_) and the round tower-like
 _specchie_ or _truddhi_, which are found near Lecce, Gallipolli and Muro
 Leccese (and only here in Italy); they correspond to similar monuments, the
@@ -33,15 +33,15 @@ tells us that in earlier days Calabria had been extremely populous and had
 had thirteen cities, but that in his time all except Tarentum and
 Brundisium, which retained their commercial importance, had dwindled down
 to villages. The Via Appia, prolonged to Brundisium perhaps as early as 190
-B.C., passed through Tarentum; the shorter route by Canusium, Barium and
+B.C., passed through Tarentum; the shorter route by Canusium, [[Barium]] and
 Gnathia was only made into a main artery of communication by Trajan (see
 APPIA, VIA). The only other roads were the two coast roads, the one from
-Brundisium by Lupiae, the other from Tarentum by Manduria, Neretum, Aletium
+Brundisium by Lupiae, the other from Tarentum by [[Manduria]], Neretum, Aletium
 (with a branch to Callipolis) and Veretum (hence a branch to Leuca), which
 met at Hydruntum. Augustus joined Calabria to Apulia and the territory of
-the Hirpini to form the second region of Italy. From the end of the second
+the [[Hirpini]] to form the second region of Italy. From the end of the second
 century we find Calabria for juridical purposes associated either with
-Apulia or with Lucania and the district of the Bruttii, while Diocletian
+Apulia or with Lucania and the district of the Bruttii, while [[Diocletian]]
 placed it under one _corrector_ with Apulia. The loss of the name Calabria
 came with the Lombard conquest of this district, when it was transferred to
 the land of the Bruttii, which the Byzantine empire still held.
@@ -53,7 +53,7 @@ bounded on the N. by the province of Potenza (Basilicata) and on the other
 three sides by the sea. Area 5819 sq. m. The north boundary is rather
 farther north than that of the ancient district of the Bruttii (_q.v._).
 Calabria acquired its present name in the time of the Byzantine supremacy,
-after the ancient Calabria had fallen into the hands of the Lombards and
+after the ancient Calabria had fallen into the hands of the [[Lombards]] and
 been lost to the Eastern empire about A.D. 668. The name is first found in
 the modern sense in Paulus Diaconus's _Historia Langobardorum_ (end of the
 8th century). It is mainly mountainous; at the northern extremity of the
@@ -74,12 +74,12 @@ government property, while in much of the rest there is good pasture. The
 scenery is fine, though the country is hardly at all visited by travellers.
 The coast strip is very fertile, and though some parts are almost deserted
 owing to malaria, others produce wine, olive-oil and fruit (oranges and
-lemons, figs, &c.) in abundance, the neighbourhood of Reggio being
+[[Lemon|lemons]], figs, &c.) in abundance, the neighbourhood of Reggio being
 especially fertile. The neighbourhood of Cosenza is also highly cultivated;
 and at the latter place a school of agriculture has been founded, though
 the methods used in many parts of Calabria are still primitive. Wheat,
 rice, cotton, liquorice, saffron and tobacco are also cultivated. The coast
-fisheries are important, especially in and near the straits of Messina.
+[[Fisheries|fisheries]] are important, especially in and near the straits of Messina.
 Commercial organization is, however, wanting. The climate is very hot in
 summer, while snow lies on the mountain-tops for at least half the year.
 Earthquakes are frequent and have done great damage: that of the autumn of
@@ -99,18 +99,18 @@ this is one of the causes of the economic difficulties of Calabria. Another
 is the unequal distribution of wealth, there being practically no middle
 class; a third is the injudicious disforestation which has been carried on
 without regard to the future. The natural check upon torrents is thus
-removed, and they sometimes do great damage. The Calabrian costumes are
+removed, and they sometimes do great damage. The Calabrian [[Costume|costumes]] are
 still much worn in the remoter districts: they vary considerably in the
 different villages. There is, and has been, considerable emigration to
 America, but many of the emigrants return, forming a slightly higher class,
 and producing a rise in the rate of payment to cultivators, which has
 increased the difficulties of the small proprietors. The smallness and
-large number of the communes, and the consequently large number of the
+large number of the [[Commune|communes]], and the consequently large number of the
 professional classes and officials, are other difficulties, which,
 noticeable throughout Italy, are especially felt in Calabria. The
 population of Calabria was 1,439,329 in 1901. The chief towns of the
 province of Catanzaro were in 1901:--Catanzaro (32,005), Nicastro (18,150),
-Monteleone (13,481), Cotrone (9545), total of province (1871) 412,226;
+Monteleone (13,481), [[Cotrone]] (9545), total of province (1871) 412,226;
 (1901) 498,791; number of communes, 152; of the province of Cosenza,
 Cosenza (20,857), Corigliano Calabro (15,379), Rossano (13,354), S.
 Giovanni in Fiore (13,288), Castrovillari (9945), total of province (1871)

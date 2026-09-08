@@ -11,7 +11,7 @@ DIALECT (from Gr. [Greek: dialektos], conversation, manner of speaking,
 [Greek: dialegesthai], to converse), a particular or characteristic
 manner of speech, and hence any variety of a language. In its widest
 sense languages which are branches of a common or parent language may be
-said to be "dialects" of that language; thus Attic, Ionic, Aeolic and
+said to be "dialects" of that language; thus [[Attic]], Ionic, Aeolic and
 Doric are dialects of Greek, though there may never have at any time
 been a separate language of which they were variations; so the various
 Romance languages, Italian, French, Spanish, &c., were dialects of

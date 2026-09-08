@@ -18,7 +18,7 @@ compared by their twisting moment on a wire, are used, especially in
 gravitational, electrostatic and magnetic experiments (see GRAVITATION and
 ELECTROMETER). The term also connotes the idea of equality or equalization;
 _e.g._ in the following expressions: "balance," in bookkeeping, the amount
-which equalizes the debit and credit accounts; "balance wheel," [v.03
+which equalizes the debit and [[Credit|credit]] accounts; "balance wheel," [v.03
 p.0235] in horology, a device for equalizing the relaxing of a watch or
 clock spring (see CLOCK); the "balancing of engines," the art of minimizing
 the total vibrations of engines when running, and consisting generally in

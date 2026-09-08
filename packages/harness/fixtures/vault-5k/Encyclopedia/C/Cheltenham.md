@@ -4,7 +4,7 @@ CHELTENHAM, a municipal and parliamentary borough of Gloucestershire,
 England, 109 m. W. by N. of London by the Great Western railway; served
 also by the west and north line of the Midland railway. Pop. (1901)
 49,439. The town is well situated in the valley of the Chelt, a small
-tributary of the Severn, under the high line of the Cotteswold Hills to
+tributary of the Severn, under the high line of the [[Cotteswold Hills]] to
 the east, and is in high repute as a health resort. Mineral springs were
 accidentally discovered in 1716. The Montpellier and Pittville Springs
 supply handsome pump rooms standing in public gardens, and are the

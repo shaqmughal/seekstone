@@ -1,6 +1,6 @@
 # Astrology
 
-ASTROLOGY, the ancient art or science of divining the fate and future of
+ASTROLOGY, the ancient art or science of divining the [[Fate|fate]] and future of
 human beings from indications given by the positions of the stars (sun,
 moon and planets). The belief in a connexion between the heavenly bodies
 and the life of man has played an important part in human history. For
@@ -8,7 +8,7 @@ long ages astronomy and astrology (which might be called astromancy, on
 the same principle as "chiromancy") were identified; and a distinction
 is made between "natural astrology," which predicts the motions of the
 heavenly bodies, eclipses, &c., and "judicial astrology," which studies
-the influence of the stars on human destiny. Isidore of Seville (d. 636)
+the influence of the stars on human destiny. [[Isidore Of Seville|Isidore of Seville]] (d. 636)
 is one of the first to distinguish between astronomy and astrology; nor
 did astronomy begin to rid itself of astrology till the 16th century,
 when, with the system of Copernicus, the conviction that the earth
@@ -26,7 +26,7 @@ Arabs from the 7th to the 13th century, and in the Europe of the 14th
 and 15th centuries astrologers were dominating influences at court.
 
 Even up to the present day men of intellectual eminence like Dr Richard
-Garnett have convinced themselves that astromancy has a foundation of
+[[Garnett]] have convinced themselves that astromancy has a foundation of
 truth, just as there are still believers in chiromancy or other forms of
 divination. Dr Garnett ("A.G. Trent") insisted indeed that it was a
 mistake to confuse astrology with fortune-telling, and maintained that
@@ -109,7 +109,7 @@ Venus, Saturn, Mercury and Mars--to name them in the order in which they
 appear in the older cuneiform literature; in later texts Mercury and
 Saturn change places. These five planets were identified with the great
 gods of the pantheon as follows:--Jupiter with Marduk (q.v.), Venus with
-the goddess Ishtar (q.v.), Saturn with Ninib (q.v.), Mercury with Nebo
+the goddess [[Ishtar]] (q.v.), Saturn with Ninib (q.v.), Mercury with Nebo
 (q.v.), and Mars with Nergal (q.v.). The movements of the sun, moon and
 five planets were regarded as representing the activity of the five gods
 in question, together with the moon-god Sin (q.v.) and the sun-god
@@ -123,9 +123,9 @@ to the more prominent and recognizable fixed stars. That system involved
 not merely the movements of the moon, sun and planets, but the
 observation of their relative position to one another and to all kinds of
 peculiarities noted at any point in the course of their movements: in the
-case of the moon, for instance, the exact appearance of the new crescent,
+case of the moon, for instance, the exact appearance of the new [[Crescent|crescent]],
 its position in the heavens, the conditions at conjunction and
-opposition, the appearance of the horns, the halo frequently seen with
+opposition, the appearance of the [[Horn|horns]], the halo frequently seen with
 the new moon, which was compared to a "cap," the ring round the full
 moon, which was called a "stall" (i.e. "enclosure"), and more of the
 like. To all these phenomena some significance was attached, and this
@@ -152,7 +152,7 @@ appearance of the new moon earlier than was expected was regarded as an
 unfavourable omen--prognosticating in one case defeat, in another death
 among cattle, in a third bad crops--not necessarily because these events
 actually took place after such a phenomenon, but by an application of the
-general principle resting upon association of ideas whereby anything
+general principle resting upon [[Association Of Ideas|association of ideas]] whereby anything
 premature would suggest an unfavourable occurrence. A thin halo seen
 above the new moon was pictured as a cap, and the association between
 this and the symbol of royalty, which was a conical-shaped cap, led to
@@ -253,7 +253,7 @@ Babylonians, and it is indeed a matter of surprise to observe the
 harmonious combination of the two fields--a harmony that seems to grow
 more complete with each age, and that is not broken until we reach the
 threshold of modern science in the 16th century. To the Greek astronomer
-Hipparchus belongs the credit of the discovery (c. 130 B.C.) of the
+Hipparchus belongs the [[Credit|credit]] of the discovery (c. 130 B.C.) of the
 theory of the precession of the equinoxes, for a knowledge of which
 among the Babylonians we find no definite proof; but such a signal
 advance in pure science did not prevent the Greeks from developing in a
@@ -266,7 +266,7 @@ to astrology. The system was carried to such a degree of perfection that
 later ages made but few additions of an essential character to the
 genethliology or drawing up of the individual horoscope by the Greek
 astrologers. The system was taken up almost bodily by the Arab
-astronomers, it was embodied in the Kabbalistic lore of Jews and
+astronomers, it was embodied in the Kabbalistic [[Lore|lore]] of Jews and
 Christians, and through these and other channels came to be the
 substance of the astrology of the middle ages, forming, as already
 pointed out, under the designation of "judicial astrology," a
@@ -277,8 +277,8 @@ motions and phenomena of the heavenly bodies.
 Partly in further development of views unfolded in Babylonia, but
 chiefly under Greek influences, the scope of astrology was enlarged
 until it was brought into connexion with practically all of the known
-sciences, botany, chemistry, zoology, mineralogy, anatomy and medicine.
-Colours, metals, stones, plants, drugs and animal life of all kinds were
+sciences, botany, [[Chemistry|chemistry]], zoology, mineralogy, anatomy and medicine.
+[[Colours]], metals, stones, plants, drugs and animal life of all kinds were
 associated with the planets and placed under their tutelage. In the
 system that passes under the name of Ptolemy, Saturn is associated with
 grey, Jupiter with white, Mars with red, Venus with yellow, while
@@ -314,7 +314,7 @@ brain, which in later times was looked upon as the centre of soul-life;
 Venus, as the planet of the passion of love, was supposed to reign
 supreme over the genital organs, the belly and the lower limbs; Mars, as
 the violent planet, is associated with the bile, as well as with the
-blood and kidneys. Again, the right ear is associated with Saturn, the
+blood and kidneys. Again, the right [[Ear|ear]] is associated with Saturn, the
 left ear with Mars, the right eye in the case of the male with the sun
 and the left eye with the moon, while in the case of the female it was
 just the reverse. From the planets the same association of ideas was
@@ -330,11 +330,11 @@ which all had their corresponding section in the zodiac itself. The head
 was placed in the first sign of the zodiac--the Ram; and the feet in the
 last sign--the Fishes. Between these two extremes the other parts and
 organs of the body were distributed among the remaining signs of the
-zodiac, the neck being assigned to the Bull, the shoulders and arms to
-the Gemini (or twins), the breast to Cancer, the flanks to Leo, the
-bladder to Virgo, the buttocks to the Balance, the pubis to the
-Scorpion, the thighs to Sagittarius, the knees to Capricorn, and the
-limbs to Aquarius. Not content with this, we find the late Egyptian
+zodiac, the neck being assigned to the [[Bull]], the shoulders and arms to
+the Gemini (or twins), the [[Breast|breast]] to [[Cancer]], the flanks to Leo, the
+bladder to Virgo, the buttocks to the [[Balance]], the pubis to the
+Scorpion, the thighs to Sagittarius, the [[Knee|knees]] to Capricorn, and the
+limbs to [[Aquarius]]. Not content with this, we find the late Egyptian
 astrologers setting up a correspondence between the thirty-six _decani_
 recognized by them and the human body, which is thus divided into
 thirty-six parts; to each part a god was assigned as a controlling
@@ -347,7 +347,7 @@ to conditions observed in a constellation or in the position of a star;
 and an interesting survival of this bond between astrology and medicine
 is to be seen in the use up to the present time of the sign of Jupiter,
 which still heads medicinal prescriptions, while, on the other hand, the
-influence of planetary lore appears in the assignment of the days of the
+influence of planetary lore appears in the [[Assignment|assignment]] of the days of the
 week to the planets, beginning with Sunday, assigned to the sun, and
 ending with Saturday, the day of Saturn. Passing on into still later
 periods, Saturn's day was associated with the Jewish sabbath, Sunday
@@ -364,7 +364,7 @@ Among the Arabs similar associations of lucky and unlucky days directly
 connected with the influence of the planets prevailed through all times,
 Tuesday and Wednesday, for instance, being regarded as the days for
 blood-letting, because Tuesday was connected with Mars, the lord of war
-and blood, and Wednesday with Mercury, the planet of humours. Even in
+and blood, and Wednesday with Mercury, the planet of [[Humour|humours]]. Even in
 modern times travellers relate how, when an auspicious day has been
 proclaimed by the astrologers, the streets of Bagdad may be seen running
 with blood from the barbers' shops.
@@ -372,7 +372,7 @@ with blood from the barbers' shops.
 It is unnecessary here to give a detailed analysis of the methods of
 judicial astrology as an art, or directions for the casting of a
 horoscope, or "nativity," i.e. a map of the heavens at the hour of
-birth, showing, according to the Ephemeris, the position of the heavenly
+birth, showing, according to the [[Ephemeris]], the position of the heavenly
 bodies, from which their influence may be deduced. Each of the twelve
 signs of the zodiac (q.v.) is credited with its own characteristics and
 influence, and is the controlling sign of its "house of life." The sign
@@ -391,8 +391,8 @@ very elaborate and complicated manner.
 Judicial astrology, as a form of divination, is a concomitant of natural
 astrology, in its purer astronomical aspect, but mingled with what is
 now considered an unscientific and superstitious view of world-forces.
-In the _Janua aurea reserata quatuor linguarum_ (1643) of J.A. Comenius
-we find the following definition:--"_Astronomus siderum meatus seu motus
+In the _Janua aurea reserata quatuor linguarum_ (1643) of J.A. [[Comenius]]
+we find the following [[Definition|definition]]:--"_Astronomus siderum meatus seu motus
 considerat: Astrologus eorundem efficaciam, influxum, et effectum_."
 Kepler was more cautious in his opinion; he spoke of astronomy as the
 wise mother, and astrology as the foolish daughter, but he added that
@@ -403,7 +403,7 @@ devoted himself to astronomy. In their numerous allusions to the subtle
 mercury, which the one makes when treating of a means of measuring time
 by the efflux of the metal, and the other in a treatise on the transit
 of the planet, we see traces of the school in which they served their
-first apprenticeship. Huygens, moreover, in his great posthumous work,
+first apprenticeship. [[Huygens]], moreover, in his great posthumous work,
 _Cosmotheoros, seu de terris coelestibus_, shows himself a more exact
 observer of astrological symbols than Kircher himself in his _Iter
 exstaticum_. Huygens contends that between the inhabitants of different
@@ -442,7 +442,7 @@ one Dr Pena, that the queen mother, who was given to curious arts,
 caused the king her husband's nativitie to be calculated, under a false
 name; and the astrologer gave a judgment, that he should be killed in a
 duell; at which the queene laughed, thinking her husband to be above
-challenges and duels; but he was slaine, upon a course at tilt, the
+challenges and [[Duel|duels]]; but he was slaine, upon a course at tilt, the
 splinters of the staffe of Mongomery going in at his bever." A favourite
 topic of the astrologers of all countries has been the immediate end of
 the world. As early as 1186 the earth had escaped one threatened
@@ -508,12 +508,12 @@ then rife. The influence of the Medici made astrologers popular in
 France. Richelieu, on whose council was Jacques Gaffarel (1601-1681),
 the last of the Kabbalists, did not despise astrology as an engine of
 government. At the birth of Louis XIV. a certain Morin de Villefranche
-was placed behind a curtain to cast the nativity of the future autocrat.
+was placed behind a [[Curtain|curtain]] to cast the nativity of the future autocrat.
 A generation back the astrologer would not have been hidden behind a
 curtain, but have taken precedence of the doctor. La Bruyere dares not
 pronounce against such beliefs, "for there are perplexing facts affirmed
 by grave men who were eye-witnesses." In England William Lilly and
-Robert Fludd were both dressed in a little brief authority. The latter
+Robert [[Fludd]] were both dressed in a little brief authority. The latter
 gives us elaborate rules for the detection of a thief, and tells us that
 he has had personal experience of their efficacy. "If the lord of the
 sixth house is found in the second house, or in company with the lord of
@@ -525,14 +525,14 @@ Sir Thomas Browne, too, while he denies the capacity of the astrologers
 of his day, does not venture to dispute the reality of the science. The
 idea of the souls of men passing at death to the stars, the blessedness
 of their particular sphere being assigned them according to their
-deserts (the metempsychosis of J. Reynaud), may be regarded as a
+[[Desert|deserts]] (the metempsychosis of J. Reynaud), may be regarded as a
 survival of religious astrology, which, even as late as Descartes's day,
 assigned to the angels the task of moving the planets and the stars.
 Joseph de Maistre believed in comets as messengers of divine justice,
 and in animated planets, and declared that divination by astrology is
 not an absolutely chimerical science. Lastly, we may mention a few
 distinguished men who ran counter to their age in denying stellar
-influences. Aristarchus of Samos, Martianus Capella (the precursor of
+influences. Aristarchus of Samos, Martianus [[Capella]] (the precursor of
 Copernicus), Cicero, Favorinus, Sextus Empiricus, Juvenal, and in a
 later age Savonarola and Pico della Mirandola, and La Fontaine, a
 contemporary of the neutral La Bruyere, were all pronounced opponents of
@@ -540,7 +540,7 @@ astrology.
 
 In England Swift may fairly claim the credit of having given the
 death-blow to astrology by his famous squib, entitled _Prediction for
-the Year 1708, by Isaac Bickerstaff, Esq._ He begins, by professing
+the Year 1708, by [[Isaac]] Bickerstaff, Esq._ He begins, by professing
 profound belief in the art, and next points out the vagueness and the
 absurdities of the philomaths. He then, in the happiest vein of parody,
 proceeds to show them a more excellent way:--"My first prediction is but
@@ -548,16 +548,16 @@ a trifle, yet I mention it to show how ignorant these sottish pretenders
 to astrology are in their own concerns: it refers to Partridge the
 almanac-maker. I have consulted the star of his nativity by my own
 rules, and find he will infallibly die upon the 29th of March next about
-eleven at night of a raging fever. Therefore I advise him to consider of
+eleven at night of a raging [[Fever|fever]]. Therefore I advise him to consider of
 it and settle his affairs in time." Then followed a letter to a person
 of quality giving a full and particular account of the death of
 Partridge on the very day and nearly at the hour mentioned. In vain the
 wretched astrologer protested that he was alive, got a literary friend
 to write a pamphlet to prove it, and published his almanac for 1709.
 Swift, in his reply, abused him for his want of manners in giving a
-gentleman the lie, answered his arguments _seriatim_, and declared that
+[[Gentleman|gentleman]] the lie, answered his arguments _seriatim_, and declared that
 the evidence of the publication of another almanac was wholly
-irrelevant, "for Gadbury, Poor Robin, Dove and Way do yearly publish
+irrelevant, "for Gadbury, Poor Robin, [[Dove]] and Way do yearly publish
 their almanacs, though several of them have been dead since before the
 Revolution." Nevertheless a field is found even to this day for almanacs
 of a similar type, and for popular belief in them.
@@ -566,8 +566,8 @@ To astrological politics we owe the theory of heaven-sent rulers,
 instruments in the hands of Providence, and saviours of society.
 Napoleon, as well as Wallenstein, believed in his star. Many passages in
 the older English poets are unintelligible without some knowledge of
-astrology. Chaucer wrote a treatise on the astrolabe; Milton constantly
-refers to planetary influences; in Shakespeare's _King Lear_, Gloucester
+astrology. Chaucer wrote a treatise on the [[Astrolabe|astrolabe]]; Milton constantly
+refers to planetary influences; in Shakespeare's _King [[Lear]]_, Gloucester
 and Edmund represent respectively the old and the new faith. We still
 _contemplate_ and consider; we still speak of men as _jovial_,
 _saturnine_ or _mercurial_; we still talk of the _ascendancy_ of genius,
@@ -592,17 +592,17 @@ strange opinions formerly held about the moon.
   astronomy on the one hand, and to other forms of popular belief on the
   other, the following works out of a large number that might be
   mentioned are specially recommended:--A. Bouche-Leclercq,
-  _L'Astrologie grecque_ (Paris, 1899), with a full bibliography; Franz
+  _L'Astrologie grecque_ (Paris, 1899), with a full bibliography; [[Franz]]
   Boll, _Sphaera_ (Leipzig, 1903); Franz Cumont, _Catalogus Codicum
   Astrologorum Graecorum_ (Brussels, 1898; 7 parts published up to
   1909); Franz Boll, "Die Erforschung der antiken Astrologie" (in _Neue
-  Jahrbucher fur das klassische Altertum_, Band xxi. Heft 2, pp.
+  Jahrbucher [[Fur|fur]] das klassische Altertum_, Band xxi. Heft 2, pp.
   103-126); Franz Cumont, _Les Religions orientates dans le paganisme
   romain_ (Paris, 1907) (ch. vii. "L'Astrologie et la magie"); Alfred
-  Maury, _La Magie et l'astrologie a l'antiquite et au moyen age_ (4th
+  [[Maury]], _La Magie et l'astrologie a l'antiquite et au moyen age_ (4th
   ed., Paris, 1877); R.C. Thompson, _Reports of the Magicians and
-  Astrologers of Nineveh and Babylon_ (2 vols., London, 1900); F.X.
-  Kugler, _Sternkunde und Sterndienst in Babel_ (Freiburg, 1907;--to be
+  Astrologers of Nineveh and [[Babylon]]_ (2 vols., London, 1900); F.X.
+  Kugler, _Sternkunde und Sterndienst in Babel_ ([[Freiburg]], 1907;--to be
   completed in 4 vols.); Ch. Virolleaud, _L'Astrologie chaldeenne_
   (Paris, 1905--to be completed in 8 parts--transliteration and
   translations of cuneiform texts); Jastrow, _Religion Babyloniens und
@@ -618,9 +618,9 @@ strange opinions formerly held about the moon.
   different ways: E.M. Bennett, _Astrology_ (New York, 1894); J.M.
   Pfaff, _Astrologie_ (Bamberg, 1816); G. Wilde, _Chaldaean Astrology up
   to date_ (1901); R. Garnett ("A.G. Trent"), "The Soul and the Stars,"
-  in the _University Magazine_, 1880 (reprinted in Dobson and Wilde,
+  in the _University Magazine_, 1880 (reprinted in [[Dobson]] and Wilde,
   _Natal Astrology_, 1893); Abel Haatan, _Traite d'astrologie
-  judiciaire_ (Paris, 1825); Fomalhaut, _Manuel d'astrologie spherique
+  judiciaire_ (Paris, 1825); Fomalhaut, _[[Manuel]] d'astrologie spherique
   el judiciaire_ (Paris, 1897).     (M. Ja.)
 
 ## See also

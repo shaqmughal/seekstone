@@ -1,6 +1,6 @@
 # Clay Cross
 
-CLAY CROSS, an urban district in the Chesterfield parliamentary division
+CLAY CROSS, an urban district in the [[Chesterfield]] parliamentary division
 of Derbyshire, England, near the river Amber, on the Midland railway, 5
 m. S. of Chesterfield. Pop. (1901) 8358. The Clay Cross Colliery and
 Ironworks Company, whose mines were for a time leased by George

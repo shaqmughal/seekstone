@@ -10,7 +10,7 @@ type: source
 GIPSIES, or GYPSIES, a wandering folk scattered through every European
 land, over the greater part of western Asia and Siberia; found also in
 Egypt and the northern coast of Africa, in America and even in
-Australia. No correct estimate of their numbers outside of Europe can be
+[[Australia]]. No correct estimate of their numbers outside of Europe can be
 given, and even in Europe the information derived from official
 statistics is often contradictory and unreliable. The only country in
 which the figures have been given correctly is Hungary. In 1893 there
@@ -19,13 +19,13 @@ only partly settled and 8938 nomads. Of these 91,603 spoke the Gipsy
 language in 1890, but the rest had already been assimilated. Next in
 numbers stands Rumania, the number varying between 250,000 and 200,000
 (1895). Turkey in Europe counted 117,000 (1903), of whom 51,000 were in
-Bulgaria and Eastern Rumelia, 22,000 in the vilayet of Adrianople and
+[[Bulgaria]] and Eastern Rumelia, 22,000 in the vilayet of Adrianople and
 2500 in the vilayet of Kossovo. In Asiatic Turkey the estimates vary
-between 67,000 and 200,000. Servia has 41,000; Bosnia and Herzegovina,
+between 67,000 and 200,000. Servia has 41,000; [[Bosnia And Herzegovina|Bosnia and Herzegovina]],
 18,000; Greece, 10,000; Austria (Cisleithania), 16,000, of whom 13,500
 are in Bohemia and Moravia; Germany, 2000; France, 2000 (5000?); Basque
 Provinces, 500 to 700; Italy, 32,000; Spain, 40,000; Russia, 58,000;
-Poland, 15,000; Sweden and Norway, 1500; Denmark and Holland, 5000;
+Poland, 15,000; Sweden and Norway, 1500; [[Denmark]] and Holland, 5000;
 Persia, 15,000; Transcaucasia, 3000. The rest is mere guesswork. For
 Africa, America and Australia the numbers are estimated between 135,000
 and 166,000. The estimate given by Miklosich (1878) of 700,000 fairly
@@ -36,13 +36,13 @@ The Gipsies are known principally by two names, which have been modified
 by the nations with whom they came in contact, but which can easily be
 traced to either the one or the other of these two distinct stems. The
 one group, embracing the majority of Gipsies in Europe, the compact
-masses living in the Balkan Peninsula, Rumania and Transylvania and
+masses living in the [[Balkan Peninsula]], Rumania and Transylvania and
 extending also as far as Germany and Italy, are known by the name
 _Atzigan_ or _Atsigan_, which becomes in time Tshingian (Turkey and
 Greece), Tsigan (Bulgarian, Servian, Rumanian), Czigany (Hungarian),
 Zigeuner (Germany), Zingari (Italian), and it is not unlikely that the
 English word Tinker or Tinkler (the latter no doubt due to a popular
-etymology connecting the gaudy gipsy with the tinkling coins or the
+[[Etymology|etymology]] connecting the [[Gaudy|gaudy]] gipsy with the tinkling [[Coin|coins]] or the
 metal wares which he carried on his back as a smith and tinker) may be a
 local transformation of the German _Zigeuner_. The second name, partly
 known in the East, where the word, however, is used as an expression of
@@ -53,9 +53,9 @@ also known by the parallel expressions _Faraon_ (Rumanian) and _Pharao
 Nephka_ (Hungarian) or Pharaoh's people, which are only variations
 connected with the Egyptian origin. In France they are known as
 _Bohemiens_, a word the importance of which will appear later. To the
-same category belong other names bestowed upon them, such as Walachi,
+same [[Category|category]] belong other names bestowed upon them, such as Walachi,
 Saraceni, Agareni, Nubiani, &c. They were also known by the name of
-Tartars, given to them in Germany, or as "Heathen," _Heydens_. All these
+Tartars, given to them in Germany, or as "[[Heathen]]," _Heydens_. All these
 latter must be considered as nicknames without thereby denoting their
 probable origin. The same may have now been the ease with the first name
 with which they appear in history, _Atzigan_. Much ingenuity has been
@@ -84,7 +84,7 @@ the 9th century describe the Athinganoi as soothsayers, magicians and
 serpent-charmers. From these descriptions nothing definite can be proved
 as to the identity of the Athinganoi with the Gipsies, or the reason why
 this name was given to soothsayers, charmers, &c. But the inner history
-of the Byzantine empire of that period may easily give a clue to it and
+of the Byzantine empire of that period may easily give a [[Clue|clue]] to it and
 explain how it came about that such a nickname was given to a new sect
 or to a new race which suddenly appeared in the Greek Empire at that
 period. In the history of the Church we find them mentioned in one
@@ -97,12 +97,12 @@ such names as first struck them, on the scantiest of imaginary
 similarities. One sect was called Paulician, another Melki-Zedekite; so
 also these were called Athinganoi, probably being considered the
 descendants of the outcast Samer, who, according to ancient tradition,
-was a goldsmith and the maker of the Golden Calf in the desert. For this
+was a goldsmith and the maker of the Golden [[Calf]] in the [[Desert|desert]]. For this
 sin Samer was banished and compelled to live apart from human beings and
 even to avoid their touch (Athinganos: "Touch-me-not"). Travelling from
 East to West these heretical sects obtained different names in different
 countries, in accordance with the local traditions or to imaginary
-origins. The Bogomils and Patarenes became Bulgarians in France, and so
+origins. The [[Bogomils]] and Patarenes became Bulgarians in France, and so
 the gypsies Bohemiens, a name which was also connected with the
 heretical sect of the Bohemian brothers (_Bohmische Bruder_). Curiously
 enough the Kutzo-Vlachs living in Macedonia (q.v.) and Rumelia are also
@@ -116,11 +116,11 @@ those of the Zingari, as smiths, &c. As to the other name, Egyptians,
 this is derived from a peculiar tale which the gipsies spread when
 appearing in the west of Europe. They alleged that they had come from a
 country of their own called Little Egypt, either a confusion between
-Little Armenia and Egypt or the Peloponnesus.
+Little [[Armenia]] and Egypt or the Peloponnesus.
 
 Attention may be drawn to a remarkable passage in the Syriac version of
 the apocryphal Book of Adam, known as the _Cave of Treasures_ and
-compiled probably in the 6th century: "And of the seed of Canaan were
+compiled probably in the 6th century: "And of the seed of [[Canaan]] were
 as I said the Aegyptians; and, lo, they were scattered all over the
 earth and served as slaves of slaves" (ed. Bezold, German translation,
 p. 25). No reference to such a scattering and serfdom of the Egyptians
@@ -135,7 +135,7 @@ Europe, America and Australia call themselves by the name of Rom, the
 woman being Romni and a stranger Gazi. Many etymologies have been
 suggested for the word Rom. Paspati derived it from the word Droma
 (Indian), and Miklosich had identified it with Doma or Domba, a "low
-caste musician," rather an extraordinary name for a nation to call
+[[Caste|caste]] musician," rather an extraordinary name for a nation to call
 itself by. Having no home and no country of their own and no political
 traditions and no literature, they would naturally try to identify
 themselves with the people in whose midst they lived, and would call
@@ -154,9 +154,9 @@ _Appearance in Europe._--Leaving aside the doubtful passages in the
 Byzantine writers where the Athinganoi are mentioned, the first
 appearance of Gipsies in Europe cannot be traced positively further back
 than the beginning of the 14th century. Some have hitherto believed that
-a passage in what was erroneously called the Rhymed Version of Genesis
+a passage in what was erroneously called the Rhymed Version of [[Genesis]]
 of Vienna, but which turns out to be the work of a writer before the
-year 1122, and found only in the Klagenfurt manuscript (edited by
+year 1122, and found only in the [[Klagenfurt]] [[Manuscript|manuscript]] (edited by
 Ditmar, 1862), referred to the Gipsies. It runs as follows: Gen. xiii.
 15--"Hagar had a son from whom were born the Chaltsmide. When Hagar had
 that child, she named it Ismael, from whom the Ismaelites descend who
@@ -173,7 +173,7 @@ important to note that at least three centuries before historical
 evidence proves the immigration of the genuine Gipsy, there had been
 wayfaring smiths, travelling from country to country, and practically
 paving the way for their successors, the Gipsies, who not only took up
-their crafts but who probably have also assimilated a good proportion of
+their [[Craft|crafts]] but who probably have also assimilated a good proportion of
 these vagrants of the west of Europe. The name given to the former, who
 probably were Oriental or Greek smiths and pedlars, was then transferred
 to the new-comers. The Komodromoi mentioned by Theophanes (758-818), who
@@ -181,28 +181,28 @@ speaks under the date 554 of one hailing from Italy, and by other
 Byzantine writers, are no doubt the same as the Chaltsmide of the German
 writer of the 12th century translated by Ducange as _Chaudroneurs_. We
 are on surer ground in the 14th century. Hopf has proved the existence
-of Gipsies in Corfu before 1326. Before 1346 the empress Catherine de
+of Gipsies in [[Corfu]] before 1326. Before 1346 the empress Catherine de
 Valois granted to the governor of Corfu authority to reduce to vassalage
 certain vagrants who came from the mainland; and in 1386, under the
 Venetians, they formed the Feudum Acindanorum, which lasted for many
 centuries. About 1378 the Venetian governor of Nauplia confirmed to the
 "Acingani" of that colony the privileges granted by his predecessor to
 their leader John. It is even possible to identify the people described
-by Friar Simon in his _Itinerarium_, who, speaking of his stay in Crete
+by [[Friar]] Simon in his _[[Itinerarium]]_, who, speaking of his stay in Crete
 in 1322, says: "We saw there a people outside the city who declare
 themselves to be of the race of Ham and who worship according to the
 Greek rite. They wander like a cursed people from place to place, not
 stopping at all or rarely in one place longer than thirty days; they
-live in tents like the Arabs, a little oblong black tent." But their
+live in tents like the [[Arabs]], a little oblong black tent." But their
 name is not mentioned, and although the similarity is great between
-these "children of Ham" and the Gipsies, the identification has only the
-value of an hypothesis. By the end of the 15th century they must have
+these "children of Ham" and the Gipsies, the [[Identification|identification]] has only the
+value of an [[Hypothesis|hypothesis]]. By the end of the 15th century they must have
 been settled for a sufficiently long time in the Balkan Peninsula and
 the countries north of the Danube, such as Transylvania and Walachia, to
 have been reduced to the same state of serfdom as they evidently
 occupied in Corfu in the second half of the 14th century. The voivode
 Mircea I. of Walachia confirms the grant made by his uncle Vladislav
-Voivode to the monastery of St Anthony of Voditsa as to forty families
+Voivode to the monastery of St [[Anthony]] of Voditsa as to forty families
 of "Atsigane," for whom no taxes should be paid to the prince. They were
 considered crown property. The same gift is renewed in the year 1424 by
 the voivode Dan, who repeats the very same words (i Acigane, m, celiudi.
@@ -215,10 +215,10 @@ voivode Alexander of Moldavia granting these Gipsies in the year 1478
 their smithy." But a certain portion, probably the largest, became
 serfs, who could be sold, exchanged, bartered and inherited. It may be
 mentioned here that in the 17th century a family when sold fetched forty
-Hungarian florins, and in the 18th century the price was sometimes as
+Hungarian [[Florin|florins]], and in the 18th century the price was sometimes as
 high as 700 Rumanian piastres, about L8, 10s. As late as 1845 an auction
 of 200 families of Gipsies took place in Bucharest, where they were sold
-in batches of no less than 5 families and offered at a "ducat" cheaper
+in batches of no less than 5 families and offered at a "[[Ducat|ducat]]" cheaper
 per head than elsewhere. The Gipsies followed at least four distinct
 pursuits in Rumania and Transylvania, where they lived in large masses.
 A goodly proportion of them were tied to the soil; in consequence their
@@ -228,11 +228,11 @@ for any length of time, or to have been treated, except for a very short
 period, with any consideration of humanity.
 
 Their appearance in the West is first noted by chroniclers early in the
-15th century. In 1414 they are said to have already arrived in Hesse.
+15th century. In 1414 they are said to have already arrived in [[Hesse]].
 This date is contested, but for 1417 the reports are unanimous of their
 appearance in Germany. Some count their number to have been as high as
-1400, which of course is exaggeration. In 1418 they reached Hamburg,
-1419 Augsburg, 1428 Switzerland. In 1427 they had already entered France
+1400, which of course is exaggeration. In 1418 they reached [[Hamburg]],
+1419 [[Augsburg]], 1428 Switzerland. In 1427 they had already entered France
 (Provence). A troupe is said to have reached Bologna in 1422, whence
 they are said to have gone to Rome, on a pilgrimage alleged to have been
 undertaken for some act of apostasy. After this first immigration a
@@ -242,7 +242,7 @@ and 1512. About 1500 they must have reached England. On the 5th of July
 1505 James IV. of Scotland gave to "Antonius Gaginae," count of Little
 Egypt, letters of recommendation to the king of Denmark; and special
 privileges were granted by James V. on the 15th of February 1540 to
-"oure louit johnne Faw Lord and Erle of Litill Egypt," to whose son and
+"oure louit johnne Faw Lord and [[Erle]] of Litill Egypt," to whose son and
 successor he granted authority to hang and punish all Egyptians within
 the realm (May 26, 1540).
 
@@ -253,25 +253,25 @@ to give a full description, which was afterwards repeated by Munster in
 his _Cosmographia_ (iii. 5). He says that in the year 1417 there
 appeared for the first time in Germany a people uncouth, black, dirty,
 barbarous, called in Italian "Ciani," who indulge specially in thieving
-and cheating. They had among them a count and a few knights well
+and [[Cheating|cheating]]. They had among them a count and a few [[Knight|knights]] well
 dressed, others followed afoot. The women and children travelled in
-carts. They also carried with them letters of safe-conduct from the
+[[Cart|carts]]. They also carried with them letters of safe-conduct from the
 emperor Sigismund and other princes, and they professed that they were
 engaged on a pilgrimage of expiation for some act of apostasy.
 
-The guilt of the Gipsies varies in the different versions of the story,
+The [[Guilt|guilt]] of the Gipsies varies in the different versions of the story,
 but all agree that the Gipsies asserted that they came from their own
 country called "Litill Egypt," and they had to go to Rome, to obtain
 pardon for that alleged sin of their forefathers. According to one
 account it was because they had not shown mercy to Joseph and Mary when
-they had sought refuge in Egypt from the persecution of Herod (_Basel
+they had sought refuge in Egypt from the persecution of [[Herod]] (_[[Basel]]
 Chronicle_). According to another, because they had forsaken the
 Christian faith for a while (_Rhaetia_, 1656), &c. But these were
 fables, no doubt connected with the legend of Cartaphylus or the
 Wandering Jew.
 
 Krantz's narrative continues as follows: This people have no country and
-travel through the land. They live like dogs and have no religion
+travel through the land. They live like [[Dogs|dogs]] and have no religion
 although they allow themselves to be baptized in the Christian faith.
 They live without care and gather unto themselves also other vagrants,
 men and women. Their old women practise fortune-telling, and whilst they
@@ -284,7 +284,7 @@ coppersmiths or farriers or musicians. The immunity which they enjoyed
 during their first appearance in western Europe is due to the letter of
 safe-conduct of the emperor. As it is of extreme importance for the
 history of civilization as well as the history of the Gipsies, it may
-find a place here. It is taken from the compilation of Felix Oefelius,
+find a place here. It is taken from the compilation of [[Felix]] Oefelius,
 _Rerum Boicarum scriptores_ (Augsburg, 1763), ii. 15, who reproduces the
 "Diarium sexennale" of "Andreas Presbyter," the contemporary of the
 first appearance of the Gipsies in Germany.
@@ -310,13 +310,13 @@ quorumcunque ex tunc non vos nec aliquis alter vestrum, sed idem
 Ladislaus Wayuoda iudicandi et liberandi habeat facultatem. Praesentes
 autem post earum lecturam semper reddi iubemus praesentanti.
 
-"Datum in Sepus Dominica die ante festum St Georgii Martyris Anno Domini
+"Datum in Sepus [[Dominica]] die ante festum St Georgii Martyris [[Anno]] Domini
 MCCCCXXIII., Regnorum nostrorum anno Hungar. XXXVI., Romanorum vero
 XII., Bohemiae tertio."
 
-Freely translated this reads: "We Sigismund by the grace of God emperor
+Freely translated this reads: "We Sigismund by the [[Grace|grace]] of God emperor
 of Rome, king of Hungary, Bohemia, &c. unto all true and loyal subjects,
-noble soldiers, commanders, castellans, open districts, free towns and
+noble soldiers, [[Commander|commanders]], castellans, open districts, free towns and
 their judges in our kingdom established and under our sovereignty, kind
 greetings. Our faithful voivode of the Tsigani with others belonging to
 him has humbly requested us that we might graciously grant them our
@@ -373,7 +373,7 @@ many countries to class them with rogues and vagabonds, to declare them
 outlaws and felons and to treat them with extreme severity. More than
 one judicial murder has been committed against them. In some places they
 were suspected as Turkish spies and treated accordingly, and the
-murderer of a Gipsy was often regarded as innocent of any crime.
+murderer of a Gipsy was often regarded as [[Innocent|innocent]] of any crime.
 
 Weissenbruch describes the wholesale murder of a group of Gipsies, of
 whom five men were broken on the wheel, nine perished on the gallows,
@@ -382,18 +382,18 @@ and three men and eight women were decapitated. This took place on the
 countries from the end of the 15th century onwards sentencing the
 "Egyptians" to exile under pain of death. Nor was this an empty threat.
 In Edinburgh four "Faas" were hanged in 1611 "for abyding within the
-kingdome, they being Egiptienis," and in 1636 at Haddington the
+kingdome, they being Egiptienis," and in 1636 at [[Haddington]] the
 Egyptians were ordered "the men to be hangied and the weomen to be
 drowned, and suche of the weomen as hes children to be scourgit throw
 the burg and burnt in the cheeks." The burning on the cheek or on the
-back was a common penalty. In 1692 four Estremadura Gipsies caught by
-the Inquisition were charged with cannibalism and made to own that they
+back was a common penalty. In 1692 four [[Estremadura]] Gipsies caught by
+the Inquisition were charged with [[Cannibalism|cannibalism]] and made to own that they
 had eaten a friar, a pilgrim and even a woman of their own tribe, for
 which they suffered the penalty of death. And as late as 1782, 45
 Hungarian Gipsies were charged with a similar monstrous crime, and when
 the supposed victims of a supposed murder could not be found on the spot
 indicated by the Gipsies, they owned under torture and said on the rack,
-"We ate them." Of course they were forthwith beheaded or hanged. The
+"We [[Ate|ate]] them." Of course they were forthwith beheaded or hanged. The
 emperor Joseph II., who was also the author of one of the first edicts
 in favour of the Gipsies, and who abolished serfdom throughout the
 Empire, ordered an inquiry into the incident; it was then discovered
@@ -417,7 +417,7 @@ vagrant and sedentary Gipsy families.
 
 Different has been the history of the Gipsies in what originally formed
 the Turkish empire of Europe, notably in Rumania, i.e. Walachia and
-Moldavia, and a careful search in the archives of Rumania would offer
+Moldavia, and a careful search in the [[Archive|archives]] of Rumania would offer
 rich materials for the history of the Gipsies in a country where they
 enjoyed exceptional treatment almost from the beginning of their
 settlement. They were divided mainly into two classes, (1) _Robi_ or
@@ -429,7 +429,7 @@ four classes according to their occupation, such as the Lingurari
 ironworkers), Ursari (lit. "bear drivers") and Rudari (miners), also
 called Aurari (gold-washers), who used formerly to wash the gold out of
 the auriferous river-sands of Walachia. A separate and smaller class
-consisted of the Gipsy _Laeshi_ or _Vatrashi_ (settled on a homestead or
+consisted of the Gipsy _Laeshi_ or _Vatrashi_ (settled on a [[Homestead|homestead]] or
 "having a fireplace" of their own). Each _shatra_ or Gipsy community was
 placed under the authority of a judge or leader, known in Rumania as
 _jude_, in Hungary as _aga_; these officials were subordinate to the
@@ -439,14 +439,14 @@ The _yuzbasha_ was responsible for the regular income to be derived from
 the vagrant Gipsies, who were considered and treated as the prince's
 property. These voivodi or yuzbashi who were not Gipsies by origin often
 treated the Gipsies with great tyranny. In Hungary down to 1648 they
-belonged to the aristocracy. The last Polish _Krolestvo cyganskie_ or
+belonged to the [[Aristocracy|aristocracy]]. The last Polish _Krolestvo cyganskie_ or
 Gipsy king died in 1790. The _Robi_ could be bought and sold, freely
 exchanged and inherited, and were treated as the negroes in America down
 to 1856, when their final freedom in Moldavia was proclaimed. In Hungary
 and in Transylvania the abolition of servitude in 1781-1782 carried with
 it the freedom of the Gipsies. In the 18th and 19th centuries many
 attempts were made to settle and to educate the roaming Gipsies; in
-Austria this was undertaken by the empress Maria Theresa and the emperor
+Austria this was undertaken by the empress [[Maria Theresa]] and the emperor
 Francis II. (1761-1783), in Spain by Charles III. (1788). In Poland
 (1791) the attempt succeeded. In England (1827) and in Germany (1830)
 societies were formed for the reclamation of the Gipsies, but nothing
@@ -467,7 +467,7 @@ petition to the Sobranye, demanding the recognition of their political
 rights. A curious reawakening, and an interesting chapter in the history
 of this peculiar race.
 
-_Origin and Language of the Gipsies._--The real key to their origin is,
+_Origin and Language of the Gipsies._--The real [[Key|key]] to their origin is,
 however, the Gipsy language. The scientific study of that language began
 in the middle of the 19th century with the work of Pott, and was brought
 to a high state of perfection by Miklosich. From that time on monographs
@@ -479,7 +479,7 @@ contributed to swell their ranks and to introduce discordant elements
 into their vocabulary. Ruediger (1782), Grellmann (1783) and Marsden
 (1783) almost simultaneously and independently of one another came to
 the same conclusion, that the language of the Gipsies, until then
-considered a thieves' jargon, was in reality a language closely allied
+considered a thieves' [[Jargon|jargon]], was in reality a language closely allied
 with some Indian speech. Since then the two principal problems to be
 solved have been, firstly, to which of the languages of India the
 original Gipsy speech was most closely allied, and secondly, by which
@@ -489,7 +489,7 @@ languages, no solution has yet been found to the first problem, nor is
 it likely to be found. For the language of the Gipsies, as shown now by
 recent studies of the Armenian Gipsies, has undergone such a profound
 change and involves so many difficulties, that it is impossible to
-compare the modern Gipsy with any modern Indian dialect owing to the
+compare the modern Gipsy with any modern Indian [[Dialect|dialect]] owing to the
 inner developments which the Gipsy language has undergone in the course
 of centuries. All that is known, moreover, of the Gipsy language, and
 all that rests on reliable texts, is quite modern, scarcely earlier than
@@ -509,8 +509,8 @@ ancient vocabulary were discovered representing the oldest form of the
 common stock from which the European dialects have sprung; for there can
 be no doubt of the unity of the language of the European Gipsies. The
 question whether Gipsy stands close to Sanskrit or Prakrit, or shows
-forms more akin to Hindi dialects, specially those of the North-West
-frontier, or Dardestan and Kafiristan, to which may be added now the
+forms more akin to [[Hindi]] dialects, specially those of the North-West
+frontier, or Dardestan and [[Kafiristan]], to which may be added now the
 dialects of the Pisaca language (Grierson, 1906), is affected by the
 fact established by Fink that the dialect of the Armenian Gipsies shows
 much closer resemblance to Prakrit than the language of the European
@@ -522,7 +522,7 @@ tribe or caste which, dislocated at a certain period by political
 disturbances, had travelled through Persia, making a very short stay
 there, thence to Armenia staying there a little longer, and then
 possibly to the Byzantine Empire at an indefinite period between 1100
-and 1200; and that another clan had followed in their wake, passing
+and 1200; and that another [[Clan|clan]] had followed in their wake, passing
 through Persia, settling in Armenia and then going farther down to
 Syria, Egypt and North Africa. These two tribes though of a common
 remote Indian origin must, however, be kept strictly apart from one
@@ -588,13 +588,13 @@ that country. They have no ethical principles and they do not recognize
 the obligations of the Ten Commandments. There is extreme moral laxity
 in the relation of the two sexes, and on the whole they take life
 easily, and are complete fatalists. At the same time they are great
-cowards, and they play the role of the fool or the jester in the popular
+cowards, and they play the role of the [[Fool|fool]] or the jester in the popular
 anecdotes of eastern Europe. There the poltroon is always a Gipsy, but
 he is good-humoured and not so malicious as those Gipsies who had
 endured the hardships of outlawry in the west of Europe.
 
 There is nothing specifically of an Oriental origin in their religious
-vocabulary, and the words _Devla_ (God), _Bang_ (devil) or _Trushul_
+vocabulary, and the words _Devla_ (God), _[[Bang]]_ (devil) or _Trushul_
 (Cross), in spite of some remote similarity, must be taken as later
 adaptations, and not as remnants of an old Sky-worship or
 Serpent-worship. In general their beliefs, customs, tales, &c. belong to
@@ -602,8 +602,8 @@ the common stock of general folklore, and many of their symbolical
 expressions find their exact counterpart in Rumanian and modern Greek,
 and often read as if they were direct translations from these languages.
 Although they love their children, it sometimes happens that a Gipsy
-mother will hold her child by the legs and beat the father with it. In
-Rumania and Turkey among the settled Gipsies a good number are carriers
+mother will hold her child by the [[Leg|legs]] and beat the father with it. In
+Rumania and Turkey among the settled Gipsies a good number are [[Carrier|carriers]]
 and bricklayers; and the women take their full share in every kind of
 work, no matter how hard it may be. The nomadic Gipsies carry on the
 ancient craft of coppersmiths, or workers in metal; they also make
@@ -612,7 +612,7 @@ horse-dealers. They are far-famed for their music, in which art they are
 unsurpassed. The Gipsy musicians belong mostly to the class who
 originally were serfs. They were retained at the courts of the boyars
 for their special talent in reciting old ballads and love songs and
-their deftness in playing, notably the guitar and the fiddle. The former
+their deftness in playing, notably the [[Guitar|guitar]] and the fiddle. The former
 was used as an accompaniment to the singing of either love ditties and
 popular songs or more especially in recital or heroic ballads and epic
 songs; the latter for dances and other amusements. They were the
@@ -628,13 +628,13 @@ music. This is an exaggeration, as seen by the comparison of the Gipsy
 music in other parts of south-east Europe; but they undoubtedly have
 given the most faithful expression to the national temperament. Equally
 famous is the Gipsy woman for her knowledge of occult practices. She is
-the real witch; she knows charms to injure the enemy or to help a
+the real witch; she knows [[Charm|charms]] to injure the enemy or to help a
 friend. She can break the charm if made by others. But neither in the
 one case nor in the other, and in fact as little as in their songs, do
 they use the Gipsy language. It is either the local language of the
 natives as in the case of charms, or a slightly Romanized form of Greek,
 Rumanian or Slavonic. The old Gipsy woman is also known for her skill in
-palmistry and fortune-telling by means of a special set of cards, the
+palmistry and fortune-telling by means of a special set of [[Cards|cards]], the
 well-known Tarok of the Gipsies. They have also a large stock of fairy
 tales resembling in each country the local fairy tales, in Greece
 agreeing with the Greek, and in Rumania with the Rumanian fairy tales.
@@ -663,12 +663,12 @@ appearance of the Gipsies in 1416 in Germany knows them by their Italian
 name "Cianos," so evidently he must have known of their existence in
 Italy previous to any date recorded hitherto anywhere, and it is
 therefore not impossible that coming from Italy they brought with them
-also their book of divination.
+also their book of [[Divination|divination]].
 
 _Physical Characteristics._--As a race they are of small stature varying
-in colour from the dark tan of the Arab to the whitish hue of the
+in colour from the dark tan of the Arab to the whitish [[Hue|hue]] of the
 Servian and the Pole. In fact there are some white-coloured Gipsies,
-especially in Servia and Dalmatia, and these are often not easily
+especially in Servia and [[Dalmatia]], and these are often not easily
 distinguishable from the native peoples, except that they are more lithe
 and sinewy, better proportioned and more agile in their movements than
 the thick-set Slavs and the mixed race of the Rumanians. By one feature,
@@ -678,8 +678,8 @@ well built; others have the features of a mongrel race, due no doubt to
 intermarriage with outcasts of other races. The women age very quickly
 and the mortality among the Gipsies is great, especially among children;
 among adults it is chiefly due to pulmonary diseases. They love display
-and Oriental showiness, bright-coloured dresses, ornaments, bangles,
-&c.; red and green are the colours mostly favoured by the Gipsies in the
+and Oriental showiness, bright-coloured [[Dress|dresses]], ornaments, bangles,
+&c.; red and green are the [[Colours|colours]] mostly favoured by the Gipsies in the
 East. Along with a showy handkerchief or some shining gold coins round
 their necks, they will wear torn petticoats and no covering on their
 feet. And even after they have been assimilated and have forgotten their
@@ -703,7 +703,7 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   enumerated. See also _Verzeichnis von Werken und Aufsatzen ... uber
   die Geschichte und Sprache der Zigeuner, &c._, 248 entries (Leipzig,
   1886); J. Tipray, "Adalekok a cziganyokrol szolo irodalomhoz," in
-  _Magyar Konyvszemle_ (Budapest, 1877); Ch. G. Leland, _A Collection of
+  _Magyar Konyvszemle_ ([[Budapest]], 1877); Ch. G. [[Leland]], _A Collection of
   Cuttings ... relating to Gypsies_ (1874-1891), bequeathed by him to
   the British Museum. See also the _Orientalischer Jahresbericht_, ed.
   Muller (Berlin, 1887 ff.).
@@ -715,18 +715,18 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   1545); J. Thurmaier, _Annalium Boiorum libri septem_, ed. T. Zieglerus
   (Ingolstad, 1554); M. Crusius, _Annales Suevici, &c._ (Frankfurt,
   1595-1596), _Schwabische Chronik ..._ (Frankfurt, 1733); A. Krantz,
-  _Saxonia_ (Cologne, 1520); Simon Simeon, _Itineraria, &c._, ed. J.
+  _Saxonia_ ([[Cologne]], 1520); Simon Simeon, _Itineraria, &c._, ed. J.
   Nasmith (Cambridge, 1778). (b) Origin and spread of the Gipsies: H. M.
-  G. Grellmann, _Die Zigeuner, &c._ (1st ed., Dessau and Leipzig, 1783;
+  G. Grellmann, _Die Zigeuner, &c._ (1st ed., [[Dessau]] and Leipzig, 1783;
   2nd ed., Gottingen, 1787); English by M. Roper (London, 1787; 2nd ed.,
   London, 1807), entitled _Dissertation on the Gipsies, &c._; Carl von
   Heister, _Ethnographische ... Notizen uber die Zigeuner_ (Konigsberg,
   1842), a third and greatly improved edition of Grellmann and the best
-  book of its kind up to that date; A. F. Pott, _Die Zigeuner in Europa
-  und Asien_ (2 vols., Halle, 1844-1845), the first scholarly work with
+  book of its kind up to that date; A. F. Pott, _Die Zigeuner in [[Europa]]
+  und Asien_ (2 vols., [[Halle]], 1844-1845), the first scholarly work with
   complete and critical bibliography, detailed grammar, etymological
   dictionary and important texts; C. Hopf, _Die Einwanderung der
-  Zigeuner in Europa_ (Gotha, 1870); F. von Miklosich, "Beitrage zur
+  Zigeuner in Europa_ ([[Gotha]], 1870); F. von Miklosich, "Beitrage zur
   Kenntnis der Zigeuner-Mundarten," i.-iv., in _Sitzungsber. d. Wiener
   Akad. d. Wissenschaften_ (Vienna, 1874-1878), "Uber die Mundarten und
   die Wanderungen der Zigeuner Europas," i.-xii., in _Denkschriften d.
@@ -736,7 +736,7 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   1886); Zedler, _Universal-Lexicon_, vol. lxii., s.v. "Zigeuner," pp.
   520-544 containing a rich bibliography; many publications of P.
   Bataillard from 1844 to 1885; A. Colocci, _Storia d' un popolo
-  errante_, with illustrations, map and Gipsy-Ital. and Ital.-Gipsy
+  errante_, with illustrations, [[Map|map]] and Gipsy-Ital. and Ital.-Gipsy
   glossaries (Turin, 1889); F. H. Groome, "The Gypsies," in E.
   Magnusson, _National Life and Thought_ (1891), and art. "Gipsies" in
   _Encyclopaedia Britannica_ (9th ed., 1879); C. Amero, _Bohemiens,
@@ -759,10 +759,10 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   Monarchie, &c._ (Vienna, 1869); V. S. Morwood, _Our Gipsies_ (London,
   1885); D. MacRitchie, _Scottish Gypsies under the Stewarts_
   (Edinburgh, 1894); F. A. Coelho, "Os Ciganos de Portugal," in _Bol.
-  Soc. Geog._ (Lisbon, 1892); A. Dumbarton, _Gypsy Life in the Mysore
+  Soc. Geog._ ([[Lisbon]], 1892); A. Dumbarton, _Gypsy Life in the Mysore
   Jungle_ (London, 1902).
 
-  III. _Linguistic._--[Armenia], F. N. Finck, "Die Sprache der
+  III. _Linguistic._--[Armenia], F. N. [[Finck]], "Die Sprache der
   armenischen Zigeuner," in _Memoires de l'Acad. Imp. des Sciences_,
   viii. (St Petersburg, 1907). [Austria-Hungary], R. von Sowa, _Die
   Mundart der slovakischen Zigeuner_ (Gottingen, 1887), and _Die
@@ -774,12 +774,12 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   Wlislocki, _Die Sprache der transsilvanischen Zigeuner_ (Leipzig,
   1884). [Brazil], A. T. de Mello Moraes, _Os ciganos no Brazil_ (Rio de
   Janeiro, 1886). [France, the Basques], A. Baudrimont, _Vocabulaire de
-  la langue des Bohemiens habitant les pays basques-francais_ (Bordeaux,
+  la langue des Bohemiens habitant les pays basques-francais_ ([[Bordeaux]],
   1862). [Germany], R. Pischel, _Beitrage zur Kenntnis der deutschen
   Zigeuner_ (Halle, 1894); R. von Sowa, "Worterbuch des Dialekts der
   deutschen Zigeuner," in _Abhandlungen f. d. Kunde d. Morgenlandes_,
   xi. 1, very valuable (Leipzig, 1898); F. N. Finck, _Lehrbuch des
-  Dialekts der deutschen Zigeuner_--very valuable (Marburg, 1903).
+  Dialekts der deutschen Zigeuner_--very valuable ([[Marburg]], 1903).
   [Great Britain, &c.], Ch. G. Leland, _The English Gipsies and their
   Language_ (London and New York, 1873; 2nd ed., 1874), _The Gipsies of
   Russia, Austria, England, America, &c._ (London, 1882)--the validity
@@ -796,23 +796,23 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   Spain_ (London, 1841, and numerous later editions); R. Campuzano,
   _Origen ... de los Gitanos, y diccionario de su dialecto_ (2nd ed.,
   Madrid, 1857); A. de C., _Diccionario del dialecto gitano, &c._
-  (Barcelona, 1851); M. de Sales y Guindale, _Historia, costumbres y
+  ([[Barcelona]], 1851); M. de Sales y Guindale, _Historia, costumbres y
   dialecto de los Gitanos_ (Madrid, 1870); M. de Sales, _El Gitanismo_
   (Madrid, 1870); J. Tineo Rebolledo, _"A Chipicalli" la lengua gitana:
   diccionario gitano-espanol_ (Granada, 1900). [Turkey], A. G. Paspati,
   _Etudes sur les Tchinghianes, ou Bohemiens de l'empire ottoman_
   (Constantinople, 1870), with grammar, vocabulary, tales and French
   glossary; very important. [General], John Sampson, "Gypsy Language and
-  Origin," in _Journ. Gypsy Lore Soc._ vol. i. (2nd ser., Liverpool,
+  Origin," in _Journ. Gypsy [[Lore]] Soc._ vol. i. (2nd ser., [[Liverpool]],
   1907); J. A. Decourdemanche, _Grammaire du Tchingane, &c._ (Paris,
   1908)--fantastic in some of its philology; F. Kluge, _Rotwelsche
-  Quellen_ (Strassburg, 1901); L. Gunther, _Das Rotwelsch des deutschen
+  Quellen_ (Strassburg, 1901); L. [[Gunther]], _Das Rotwelsch des deutschen
   Gauners_ (Leipzig, 1905), for the influence of Gipsy on argot; L.
   Besses, _Diccionario de argot espanol_ (Barcelona); G. A. Grierson,
   _The Pi'saca Languages of North-Western India_ (London, 1906), for
-  parallels in Indian dialects; G. Borrow, _Criscote e majaro Lucas ...
+  parallels in Indian dialects; G. Borrow, _Criscote e majaro [[Lucas]] ...
   El evangelio segun S. Lucas ..._ (London, 1837; 2nd ed., 1872)--this
-  is the only complete translation of any one of the gospels into Gipsy.
+  is the only complete translation of any one of the [[Gospel|gospels]] into Gipsy.
   For older fragments of such translations, see Pott ii. 464-521.
 
   IV. _Folklore, Tales, Songs, &c._--Many songs and tales are found in
@@ -821,7 +821,7 @@ denationalize the Gipsy and to make "Romani Chib" a thing of the past.
   Tuckey, _English Gipsy Songs in Romany, with Metrical English
   Translation_ (London, 1875); G. Smith, _Gipsy Life, &c._ (London,
   1880); M. Rosenfeld, _Lieder der Zigeuner_ (1882); Ch. G. Leland, _The
-  Gypsies_ (Boston, Mass., 1882), _Gypsy Sorcery and Fortune-Telling_
+  Gypsies_ ([[Boston]], Mass., 1882), _Gypsy Sorcery and Fortune-Telling_
   (London, 1891); H. von Wlislocki, _Marchen und Sagen der
   transsilvanischen Zigeuner_ (Berlin, 1886)--containing 63 tales, very
   freely translated; _Volksdichtungen der siebenburgischen und

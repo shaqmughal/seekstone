@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Jumna"
 
 # Jumna
 
-JUMNA, or JAMUNA, a river of northern India. Rising in the Himalayas in
+JUMNA, or JAMUNA, a river of northern India. Rising in the [[Himalaya|Himalayas]] in
 Tehri state, about 5 m. N. of the Jamnotri hot springs, in 31° 3´ N. and
 78° 30´ E., the stream first flows S. for 7 m., then S.W. for 32 m., and
 afterwards due S. for 26 m., receiving several small tributaries in its
@@ -26,12 +26,12 @@ due S. for 80 m. to Delhi city, thence S.E. for 27 m. to near Dankaur,
 receiving the waters of the Hindan river on the east. From Dankaur it
 resumes its southerly course for 100 m. to Mahaban near Muttra, where it
 turns E. for nearly 200 m., passing the towns of Agra, Ferozabad and
-Etawah, receiving on its left bank the Karwan-nadi, and on its right the
+[[Etawah]], receiving on its left bank the Karwan-nadi, and on its right the
 Banganga (Utanghan). From Etawah it flows 140 m. S.E. to Hamirpur, being
 joined by the Sengar on its north bank, and on the south by the great
 river Chambal from the west, and by the Sind. From Hamirpur, the Jumna
 flows nearly due E., until it enters Allahabad district and passes
-Allahabad city, below which it falls into the Ganges in 25° 25´ N. and
+Allahabad city, below which it falls into the [[Ganges]] in 25° 25´ N. and
 81° 55´ E. In this last part of its course it receives the waters of the
 Betwa and the Ken. Where the Jumna and the Ganges unite is the _prayag_,
 or place of pilgrimage, where devout Hindus resort in thousands to wash
@@ -45,7 +45,7 @@ of which the former, constructed in 1823-1830, irrigates 300,000 acres
 in the districts of Saharanpur, Muzaffarnagar and Meerut, in the United
 Provinces; while the latter, consisting of the reopened channels of two
 canals dating from about 1350 and 1628 respectively, extends through the
-districts of Umballa, Karnal, Hissar, Rohtak and Delhi, and the native
+districts of Umballa, Karnal, [[Hissar]], Rohtak and Delhi, and the native
 states of Patiala and Jind in the Punjab, irrigating 600,000 acres. The
 headworks of the two canals are situated near the point where the river
 issues from the Siwaliks.

@@ -6,7 +6,7 @@ topic: medicine
 
 # Black Mountain
 
-BLACK MOUNTAIN, a mountain range and district on the Hazara border of
+BLACK MOUNTAIN, a mountain range and district on the [[Hazara]] border of
 the North-West Frontier Province of India. It is inhabited by Yusafzai
 Pathans. The Black Mountain itself has a total length of 25 to 30 m.,
 and an average height of 8000 ft. above the sea. It rises from the Indus

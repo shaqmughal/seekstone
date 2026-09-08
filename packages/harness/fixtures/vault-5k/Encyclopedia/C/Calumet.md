@@ -17,7 +17,7 @@ special use was at the making of treaties of peace. It was usually about
 found chiefly in the Côteau des Prairies west of Big Stone Lake, Dakota.
 The quarries were formerly neutral ground among the warring Indian
 tribes, many sacred traditions being associated with the locality and
-its product (Longfellow, _Hiawatha_, i.). The pipe stem was of reed
+its product (Longfellow, _[[Hiawatha]]_, i.). The pipe stem was of reed
 decorated with eagles' quills or women's hair. Native tobacco mixed with
 willow-bark or sumac leaves was smoked. The pipe was offered as a
 supreme proof of hospitality to distinguished strangers, and its refusal

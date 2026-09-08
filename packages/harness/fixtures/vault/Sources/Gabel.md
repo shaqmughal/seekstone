@@ -8,17 +8,17 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gabel"
 
 # Gabel
 
-GABEL, KRISTOFFER (1617-1673), Danish statesman, was born at Gluckstadt,
+GABEL, KRISTOFFER (1617-1673), Danish statesman, was born at [[Gluckstadt]],
 on the 6th of January 1617. His father, Wulbern, originally a landscape
 painter and subsequently recorder of Gluckstadt, was killed at the siege
 of that fortress by the Imperialists in 1628. Kristoffer is first heard
 of in 1639, as overseer and accountant at the court of Duke Frederick.
 When the duke ascended the Danish throne as Frederick III., Gabel
-followed him to Copenhagen as his private secretary and man of business.
+followed him to [[Copenhagen]] as his private secretary and man of business.
 Gabel, who veiled under a mysterious reticence considerable financial
 ability and uncommon shrewdness, had great influence over the irresolute
 king. During the brief interval between King Charles X.'s first and
-second attack upon Denmark, Gabel was employed in several secret
+second attack upon [[Denmark]], Gabel was employed in several secret
 missions to Sweden; and he took a part in the intrigues which resulted
 in the autocratic revolution of 1660 (see DENMARK: _History_). His
 services on this occasion have certainly been exaggerated; but if not

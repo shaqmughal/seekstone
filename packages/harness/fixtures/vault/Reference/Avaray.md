@@ -12,9 +12,9 @@ members have been conspicuous in history. The Béarnaise family named
 Bésiade moved into the province of Orléanais in the 17th century, and there
 acquired the estate of Avaray. In 1667 Théophile de Bésiade, marquis
 d'Avaray, obtained the office of grand bailiff of Orleans, which was held
-by several of his descendants after him. Claude Antoine de Bésiade, marquis
-d'Avaray, was deputy for the bailliage of Orleans in the states-general of
-1789, and proposed a _Declaration of the Duties of Man_ as a pendant to the
+by several of his descendants after him. [[Claude]] [[Antoine]] de Bésiade, marquis
+d'Avaray, was [[Deputy|deputy]] for the bailliage of Orleans in the states-general of
+1789, and proposed a _[[Declaration]] of the Duties of Man_ as a pendant to the
 _Declaration of the Rights of Man_; he subsequently became a
 lieutenant-general in 1814, a peer of France in 1815, and duc d'Avaray in
 1818. Antoine Louis François, comte d'Avaray, son of the above,

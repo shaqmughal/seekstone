@@ -7,18 +7,18 @@ type: note
 
 # Charon
 
-CHARON, in Greek mythology, the son of Erebus and Nyx (Night). It was
+CHARON, in Greek mythology, the son of [[Erebus]] and Nyx (Night). It was
 his duty to ferry over the Styx (or Acheron) those souls of the deceased
 who had duly received the rites of burial, in payment for which service
-he received an obol, which was placed in the mouth of the corpse. It was
+he received an obol, which was placed in the mouth of the [[Corpse|corpse]]. It was
 only exceptionally that he carried living passengers (_Aeneid_, vi. 295
-ff). As ferryman of the dead he is not mentioned in Homer or Hesiod, and
+ff). As ferryman of the dead he is not mentioned in [[Homer]] or Hesiod, and
 in this character is probably of Egyptian origin. He is represented as a
 morose and grisly old man in a black sailor's cape. By the Etruscans he
 was also supposed to be a kind of executioner of the powers of the
 nether world, who, armed with an enormous hammer, was associated with
-Mars in the slaughter of battle. Finally he came to be regarded as the
-image of death and the world below. As such he survives in the Charos or
+[[Mars]] in the slaughter of battle. Finally he came to be regarded as the
+[[Image|image]] of death and the world below. As such he survives in the Charos or
 Charontas of the modern Greeks--a black bird which darts down upon its
 prey, or a winged horseman who fastens his victims to the saddle and
 bears them away to the realms of the dead.

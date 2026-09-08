@@ -1,8 +1,8 @@
 # Kilbride
 
 KILBRIDE, WEST, a town on the coast of Ayrshire, Scotland, near the
-mouth of Kilbride Burn, 4 m. N.N.W. of Ardrossan and 35¾ m. S.W. of
-Glasgow by the Glasgow & South-Western railway. Pop. (1901), 2315. It
+mouth of Kilbride [[Burn]], 4 m. N.N.W. of Ardrossan and 35¾ m. S.W. of
+[[Glasgow]] by the Glasgow & South-Western railway. Pop. (1901), 2315. It
 has been growing in repute as a health resort; the only considerable
 industry is weaving. In the neighbourhood are the ruins of Law Castle,
 Crosbie Castle and Portincross Castle, the last, dating from the 13th

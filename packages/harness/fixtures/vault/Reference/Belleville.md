@@ -19,7 +19,7 @@ and two newspapers are published in German, besides three dailies, three
 weeklies and a semi-weekly in English. Among the industrial
 establishments of the city are stove and range factories, flour mills,
 rolling mills, distilleries, breweries, shoe factories, copper refining
-works, nail and tack factories, glass works and agricultural implement
+works, nail and tack factories, glass works and agricultural [[Implement|implement]]
 factories. The value of the city's factory products increased from
 $2,873,334 in 1900 to $4,356,615 in 1905 or 51.6%. Belleville is in a
 rich agricultural region, and in the vicinity there are valuable coal

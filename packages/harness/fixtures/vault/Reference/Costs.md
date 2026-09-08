@@ -8,14 +8,14 @@ id: 42-5546
 
 # Costs
 
-COSTS, a term used in English law to denote the expenses incurred (1) in
+COSTS, a term used in [[English Law|English law]] to denote the expenses incurred (1) in
 employing a lawyer in his professional capacity for purposes other than
 litigation; (2) in instituting and carrying on litigation whether with
 or without the aid of a lawyer.
 
 _Solicitor and Client._--The retainer of a solicitor implies a contract
 to pay to him his proper charges and disbursements with respect to the
-work done by him as a solicitor. In cases of conveyancing his
+work done by him as a solicitor. In cases of [[Conveyancing|conveyancing]] his
 remuneration is now for the most part regulated by scales _ad valorem_
 on the value of the property dealt with (Solicitors' Remuneration Order
 1882), and clients are free to make written agreements for the conduct
@@ -58,7 +58,7 @@ that "costs follow the event." But there are many special circumstances
 which interfere to modify the application of this rule. The action,
 though successful, may be in its nature frivolous or vexatious, or it
 may have been brought in a higher court where a lower court would have
-been competent to deal with it. On the other hand the defendant,
+been competent to deal with it. On the other hand the [[Defendant|defendant]],
 although he has escaped a judgment against him, may by his conduct have
 rendered the action necessary or otherwise justifiable. In such cases
 the rule that costs should follow the event would be felt to work an
@@ -67,7 +67,7 @@ In the law of England the provisions as to litigious costs, though now
 simpler than of old, are still elaborate and complicated, and the costs
 themselves are on a higher scale than is known in most other countries.
 
-Except as regards appeals to the House of Lords and suits in equity, the
+Except as regards appeals to the House of Lords and suits in [[Equity|equity]], the
 right to recover costs from the opposite party in litigation has always
 depended on statute law or on rules made under statutory authority,
 "Costs are the creature of statute." The House of Lords has declared its
@@ -80,7 +80,7 @@ the costs are taxed by the registrar of the council.
 
 Courts of equity have always claimed a discretion independently of
 statute to give or refuse costs, but as a general rule the maxim of the
-civil law, _victus victori in expensis condemnatus est_, was followed.
+[[Civil Law|civil law]], _victus victori in expensis condemnatus est_, was followed.
 The successful party was recognized to have a prima facie claim to
 costs, but the court might, on sufficient cause shown, not only deprive
 him of his costs, but even in some rare cases order him to pay the costs
@@ -97,7 +97,7 @@ baseless or vexatious action could not even recover his costs thus
 indirectly, and the indirect costs given to a plaintiff under the name
 of damages were often inadequate and uncertain. Costs were first given
 under the Statute of Gloucester (1277, 6 Edward I. c. 1), which enacted
-that "the demandant shall recover damages in an assize of novel
+that "the demandant shall recover damages in an [[Assize|assize]] of novel
 disseisin and in writs of mort d'ancestor, cosinage, aiel and beziel,
 and further that the demandant may recover against the tenant the costs
 of his writ purchased together with the damages above said. And this act
@@ -106,7 +106,7 @@ shall hold in all cases when the party is to recover damages." The words
 suit. The statute gave costs, wherever damages were recovered, and no
 matter what the amount of the damages may be. Costs were first given to
 a defendant by the Statute of Marlbridge (1267) in a case relating to
-wardship in chivalry (52 Henry III. C. 6); but costs were not given
+wardship in [[Chivalry|chivalry]] (52 Henry III. C. 6); but costs were not given
 generally to successful defendants until 1531 (23 Henry VIII. c. 15),
 when it was enacted that "if in the actions therein mentioned the
 plaintiff after appearance of the defendant be non-suited, or any
@@ -127,7 +127,7 @@ Limitations Act 1623, § 6, ordered that if the plaintiff in an action of
 slander recovered less than 40s. damages, the plaintiff should be
 allowed no more as costs than he got as damages. By 43 Elizabeth c. 6 it
 was enacted that in any personal action not being for any title or
-interest in land, nor concerning the freehold or inheritance of lands
+interest in land, nor concerning the [[Freehold|freehold]] or inheritance of lands
 nor for battery, where the damages did not amount to 40s. no more costs
 than damages could be allowed. By 3 & 4 Vict. c. 24 (Lord Denman's Act
 1840), where the plaintiff in an action of tort recovered less than
@@ -153,17 +153,17 @@ carried on or resisted any proceedings of any right to costs out of a
 particular estate or fund to which he would be entitled under the rules
 hitherto (i.e. before 1883) acted upon in the chancery division as
 successor of the court of chancery; (2) that where an action, cause,
-matter or issue is tried with a jury, the costs shall follow the event
+matter or issue is tried with a [[Jury|jury]], the costs shall follow the event
 unless the judge who tried the case or the court shall for good cause
 otherwise order." (R.S.C., O. 65, r. 1.)
 
 The rule above stated applies to civil proceedings on the crown side of
-the king's bench division, including mandamus, prohibition _quo
+the king's [[Bench|bench]] division, including mandamus, prohibition _quo
 warranto_, and certiorari (_R._ v. _Woodhouse_, 1906, 2 K.B. 502, 540);
 and to proceedings on the revenue side of that division (O. 68, r. 1);
 but it does not apply to criminal proceedings in the High Court, which
 are regulated by the crown office rules of 1906, or by statutes dealing
-with particular breaches of the law, and as to procedure in taxing costs
+with particular [[Breach|breaches]] of the law, and as to procedure in taxing costs
 by O. 65, r. 27, of the Rules of the Supreme Court.
 
 The rule is also subject to specific provision empowering the courts to
@@ -209,7 +209,7 @@ In the taxation of litigious costs two methods are still adopted, known
 as "between party and party" and "between solicitor and client." Unless
 a special order is made the first of the two methods is adopted. Until
 very recently "party and party" costs were found to be a very imperfect
-indemnity to the successful litigant; because many items which his
+[[Indemnity|indemnity]] to the successful litigant; because many [[Item|items]] which his
 solicitor would be entitled to charge against him for the purposes of
 the litigation were not recoverable from his unsuccessful opponent. The
 High Court can now, in exercise of the equitable jurisdiction derived
@@ -221,7 +221,7 @@ party costs only are ordered to be paid under the present practice
 party all costs, charges and expenses necessary or proper for the
 attainment of justice or defending the rights of the successful party,
 but not costs incurred through over-caution, negligence, or by paying
-special fees to counsel or special fees to witnesses or other persons,
+special [[Fee|fees]] to counsel or special fees to witnesses or other persons,
 or by any other unusual expenses (R.S.C., O. 65, rr. 27, 29). This
 practice tends to give an approximate indemnity, while preventing
 oppression of the losing party by making him pay for lavish expenditure
@@ -250,7 +250,7 @@ unsuccessful to the successful party (Summary Jurisdiction Act 1848, §
 18).
 
 On prosecutions for treason or felony the court may order the accused
-person, if convicted, to pay the costs of his prosecution (Forfeiture
+person, if convicted, to pay the costs of his prosecution ([[Forfeiture]]
 Act 1870); and the like power exists as to persons convicted of offences
 indictable under the Criminal Law Amendment Act 1885 (see § 18), and as
 to persons convicted on indictment of assault, corrupt practices at

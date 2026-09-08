@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lacrosse"
 
 # Lacrosse
 
-LACROSSE, the national ball game of Canada. It derives its name from the
-resemblance of its chief implement used, the curved netted stick, to a
+LACROSSE, the national [[Ball|ball]] [[Game|game]] of Canada. It derives its name from the
+resemblance of its chief [[Implement|implement]] used, the curved netted stick, to a
 bishop's crozier. It was borrowed from the Indian tribes of North
 America. In the old days, according to Catlin, the warriors of two
 tribes in their war-paint would form the sides, often 800 or 1000
@@ -20,7 +20,7 @@ umpires, and the squaws urged on the men by beating them with switches.
 The game attracted much attention from the early French settlers in
 Canada. In 1763, after Canada had become British, the game was used by
 the aborigines to carry out an ingenious piece of treachery. On the 4th
-of June, when the garrison of Fort Michilimackinac (now Mackinac) was
+of June, when the [[Garrison|garrison]] of Fort Michilimackinac (now Mackinac) was
 celebrating the king's birthday, it was invited by the Ottawas, under
 their chief Pontiac, to witness a game of "baggataway" (lacrosse). The
 players gradually worked their way close to the gates, when, throwing
@@ -29,7 +29,7 @@ suddenly produced from under their blankets, they rushed into the fort
 and massacred all the inmates except a few Frenchmen.
 
 The game found favour among the British settlers, but it was not until
-1867, the year in which Canada became a Dominion, that G. W. Beers, a
+1867, the year in which Canada became a Dominion, that G. W. [[Beer|Beers]], a
 prominent player, suggested that Lacrosse should be recognized as the
 national game, and the National Lacrosse Association of Canada was
 formed. From that time the game has flourished vigorously in Canada and
@@ -52,7 +52,7 @@ annually from 1881 to 1904.
 
   _Implements of the Game._--The ball is made of india-rubber sponge,
   weighs between 4¼ and 4½ oz., and measures 8 to 8½ in. in
-  circumference. The "crosse" is formed of a light staff of hickory
+  circumference. The "crosse" is formed of a light staff of [[Hickory|hickory]]
   wood, the top being bent to form a kind of hook, from the tip of which
   a thong is drawn and made fast to the shaft about 2 ft. from the other
   end. The oval triangle thus formed is covered with a network of gut or
@@ -69,7 +69,7 @@ annually from 1881 to 1904.
 
   _The Game._--The object of the game is to send the ball, by means of
   the crosse, through the enemy's goal-posts as many times as possible
-  during the two periods of play, precisely as in football and hockey.
+  during the two periods of play, precisely as in [[Football|football]] and hockey.
   There are twelve players of each side. In every position save that of
   goal there are two men, one of each side, whose duties are to "mark"
   and neutralize each other's efforts. The game is opened by the act of
@@ -108,7 +108,7 @@ annually from 1881 to 1904.
 
   See the official publications of the English Lacrosse Union; and
   _Lacrosse_ by W. C. Schmeisser, in Spalding's "Athletic Library." Also
-  _Manners, Customs and Condition of the North American Indians_, by
+  _[[Manners]], Customs and Condition of the North American Indians_, by
   George Catlin.
 
 ## References

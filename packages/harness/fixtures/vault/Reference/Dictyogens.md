@@ -1,7 +1,7 @@
 # Dictyogens
 
 DICTYOGENS (Gr. [Greek: diktyon], a net, and the termination [Greek:
--genês], produced), a botanical name proposed by John Lindley for a
+-genês], produced), a botanical name proposed by John [[Lindley]] for a
 class including certain families of Monocotyledons which have net-veined
 leaves. The class was not generally recognized.
 

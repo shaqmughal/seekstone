@@ -1,15 +1,15 @@
 # Hardee
 
 HARDEE, WILLIAM JOSEPH (1815-1873), American soldier, was born in
-Savannah, Georgia, on the 10th of November 1815 and graduated from West
-Point in 1838. As a subaltern of cavalry he was employed on a special
+Savannah, [[Georgia]], on the 10th of November 1815 and graduated from West
+Point in 1838. As a subaltern of [[Cavalry|cavalry]] he was employed on a special
 mission to Europe to study the cavalry methods in vogue (1839). He was
 promoted captain in 1844 and served under Generals Taylor and Scott in
-the Mexican War, winning the brevet of major for gallantry in action in
+the Mexican War, winning the [[Brevet|brevet]] of [[Major|major]] for gallantry in action in
 March 1847 and subsequently that of lieut.-colonel. After the war he
 served as a substantive major under Colonel Sidney Johnston and
-Lieut.-Colonel Robert Lee in the 2nd U.S. cavalry, and for some time
-before 1856 he was engaged in compiling the official manual of infantry
+Lieut.-Colonel Robert [[Lee]] in the 2nd U.S. cavalry, and for some time
+before 1856 he was engaged in compiling the official [[Manual|manual]] of infantry
 drill and tactics which, familiarly called "Hardee's Tactics,"
 afterwards formed the text-book for the infantry arm in both the Federal
 and the Confederate armies. From 1856 to 1861 he was commandant of West
@@ -17,7 +17,7 @@ Point, resigning his commission on the secession of his state in the
 latter year. Entering the Confederate service as a colonel, he was
 shortly promoted brigadier-general. He distinguished himself very
 greatly by his tactical leadership on the field of Shiloh, and was
-immediately promoted major-general. As a corps commander he fought under
+immediately promoted major-general. As a [[Corps|corps]] [[Commander|commander]] he fought under
 General Bragg at Perryville and Stone River, and for his distinguished
 services in these battles was promoted lieutenant-general. He served in
 the latter part of the campaign of 1863 under Bragg and in that of 1864
@@ -31,7 +31,7 @@ Virginia, on the 6th of November 1873.
 
 
 HARDENBERG, KARL AUGUST VON, PRINCE (1750-1822), Prussian statesman, was
-born at Essenroda in Hanover on the 31st of May 1750. After studying at
+born at Essenroda in [[Hanover]] on the 31st of May 1750. After studying at
 Leipzig and Gottingen he entered the Hanoverian civil service in 1770 as
 councillor of the board of domains (_Kammerrat_); but, finding his
 advancement slow, he set out--on the advice of King George III.--on a
@@ -46,12 +46,12 @@ becoming entangled in an _amour_ with the prince of Wales, so great a
 scandal was created that he was forced to leave the Hanoverian service.
 In 1782 he entered that of the duke of Brunswick, and as president of
 the board of domains displayed a zeal for reform, in the manner approved
-by the enlightened despots of the century, that rendered him very
+by the enlightened [[Despot|despots]] of the century, that rendered him very
 unpopular with the orthodox clergy and the conservative estates. In
 Brunswick, too, his position was in the end made untenable by the
 conduct of his wife, whom he now divorced; he himself, shortly
 afterwards, marrying a divorced woman. Fortunately for him, this
-coincided with the lapsing of the principalities of Ansbach and Bayreuth
+coincided with the lapsing of the principalities of [[Ansbach]] and [[Bayreuth]]
 to Prussia, owing to the resignation of the last margrave, Charles
 Alexander, in 1791. Hardenberg, who happened to be in Berlin at the
 time, was on the recommendation of Herzberg appointed administrator of
@@ -65,14 +65,14 @@ ability led to his appointment as Prussian envoy, with a roving
 commission to visit the Rhenish courts and win them over to Prussia's
 views; and ultimately, when the necessity for making peace with the
 French Republic had been recognized, he was appointed to succeed Count
-Goltz as Prussian plenipotentiary at Basel (February 28, 1795), where he
+[[Goltz]] as Prussian plenipotentiary at [[Basel]] (February 28, 1795), where he
 signed the treaty of peace.
 
 In 1797, on the accession of King Frederick William III., Hardenberg was
 summoned to Berlin, where he received an important position in the
-cabinet and was appointed chief of the departments of Magdeburg and
+[[Cabinet|cabinet]] and was appointed chief of the departments of [[Magdeburg]] and
 Halberstadt, for Westphalia, and for the principality of Neuchatel. In
-1793 Hardenberg had struck up a friendship with Count Haugwitz, the
+1793 Hardenberg had struck up a friendship with Count [[Haugwitz]], the
 influential minister for foreign affairs, and when in 1803 the latter
 went away on leave (August-October) he appointed Hardenberg his _locum
 tenens_. It was a critical period. Napoleon had just occupied Hanover,
@@ -82,7 +82,7 @@ the king's irresolution continued; he clung to the policy of neutrality
 which had so far seemed to have served Prussia so well; and Hardenberg
 contented himself with adapting himself to the royal will. By the time
 Haugwitz returned, the unyielding attitude of Napoleon had caused the
-king to make advances to Russia; but the mutual declarations of the 3rd
+king to make advances to Russia; but the mutual [[Declaration|declarations]] of the 3rd
 and 25th of May 1804 only pledged the two powers to take up arms in the
 event of a French attack upon Prussia or of further aggressions in North
 Germany. Finally, Haugwitz, unable to persuade the cabinet to a more
@@ -92,15 +92,15 @@ succeeded him as foreign minister.
 If there was to be war, Hardenberg would have preferred the French
 alliance, which was the price Napoleon demanded for the cession of
 Hanover to Prussia; for the Eastern powers would scarcely have
-conceded, of their free will, so great an augmentation of Prussian
-power. But he still hoped to gain the coveted prize by diplomacy, backed
+conceded, of their free will, so great an [[Augmentation|augmentation]] of Prussian
+power. But he still hoped to gain the coveted prize by [[Diplomacy|diplomacy]], backed
 by the veiled threat of an armed neutrality. Then occurred Napoleon's
 contemptuous violation of Prussian territory by marching three French
 corps through Ansbach; King Frederick William's pride overcame his
 weakness, and on the 3rd of November he signed with the tsar Alexander
 the terms of an ultimatum to be laid before the French emperor. Haugwitz
 was despatched to Vienna with the document; but before he arrived the
-battle of Austerlitz had been fought, and the Prussian plenipotentiary
+battle of [[Austerlitz]] had been fought, and the Prussian plenipotentiary
 had to make the best terms he could with the conqueror. Prussia, indeed,
 by the treaty signed at Schonbrunn on the 15th of December 1805,
 received Hanover, but in return for all her territories in South
@@ -113,7 +113,7 @@ granted to Prussia by the treaty of Tilsit was Hardenberg's dismissal.
 After the enforced retirement of Stein in 1810 and the unsatisfactory
 interlude of the feeble Altenstein ministry, Hardenberg was again
 summoned to Berlin, this time as chancellor (June 6, 1810). The campaign
-of Jena and its consequences had had a profound effect upon him; and in
+of [[Jena]] and its consequences had had a profound effect upon him; and in
 his mind the traditions of the old diplomacy had given place to the new
 sentiment of nationality characteristic of the coming age, which in him
 found expression in a passionate desire to restore the position of
@@ -147,7 +147,7 @@ fame, was passed. In diplomacy he was no match for Metternich, whose
 influence soon overshadowed his own in the councils of Europe, of
 Germany, and ultimately even of Prussia itself. At Vienna, in spite of
 the powerful backing of Alexander of Russia, he failed to secure the
-annexation of the whole of Saxony to Prussia; at Paris, after Waterloo,
+[[Annexation|annexation]] of the whole of Saxony to Prussia; at Paris, after Waterloo,
 he failed to carry through his views as to the further dismemberment of
 France; he had weakly allowed Metternich to forestall him in making
 terms with the states of the Confederation of the Rhine, which secured
@@ -156,7 +156,7 @@ the conference of Carlsbad (1819) he signed a convention with
 Metternich, by which--to quote the historian Treitschke--"like a
 penitent sinner, without any formal _quid pro quo_, the monarchy of
 Frederick the Great yielded to a foreign power a voice in her internal
-affairs." At the congresses of Aix-la-Chapelle, Troppau, Laibach and
+affairs." At the congresses of Aix-la-Chapelle, Troppau, [[Laibach]] and
 Verona the voice of Hardenberg was but an echo of that of Metternich.
 
 The cause lay partly in the difficult circumstances of the loosely-knit
@@ -170,10 +170,10 @@ have needed all the powers of an adviser at once wise and in character
 wholly trustworthy. Hardenberg was wise enough; he saw the necessity for
 constitutional reform; but he clung with almost senile tenacity to the
 sweets of office, and when the tide turned strongly against Liberalism
-he allowed himself to drift with it. In the privacy of royal commissions
+he allowed himself to [[Drift|drift]] with it. In the privacy of royal commissions
 he continued to elaborate schemes for constitutions that never saw the
-light; but Germany, disillusioned, saw only the faithful henchman of
-Metternich, an accomplice in the policy of the Carlsbad Decrees and the
+light; but Germany, disillusioned, saw only the faithful [[Henchman|henchman]] of
+Metternich, an accomplice in the policy of the [[Carlsbad Decrees]] and the
 Troppau Protocol. He died, soon after the closing of the congress of
 Verona, at Genoa, on the 26th of November 1822.
 
@@ -189,12 +189,12 @@ Verona, at Genoa, on the 26th of November 1822.
 
 
 
-HARDERWYK, a seaport in the province of Gelderland, Holland, on the
+HARDERWYK, a seaport in the province of [[Gelderland]], Holland, on the
 shores of the Zuider Zee, 17 m. by rail N.N.E. of Amersfoort. Pop.
 (1900) 7425. It is a quaint old town, approached by a fine avenue of
 trees, and standing in the midst of a patch of fertile ground. Harderwyk
 is chiefly important as being the depot for recruits for the Dutch
-colonial army. It contains a small fort and large barracks. The
+colonial army. It contains a small fort and large [[Barracks|barracks]]. The
 principal buildings are the town hall, with some ancient furniture, a
 large 15th century church with a notable square tower, a municipal
 orphanage, and the Nassau-Veluwe gymnasium. Agriculture, fishing, and a
@@ -208,19 +208,19 @@ HARDICANUTE [more correctly HARDACNUT] (c. 1010-1042), son of Canute,
 king of England, by his wife Aelfgifu or Emma, was born about 1019. In
 the contest for the English crown which followed the death of Canute in
 1035 the claims of Hardicanute were supported by Emma and her ally,
-Godwine, earl of the West Saxons, in opposition to those of Harold,
+[[Godwine]], earl of the West Saxons, in opposition to those of Harold,
 Canute's illegitimate son, who was backed by the Mercian earl Leofric
 and the chief men of the north. At a meeting of the witan at Oxford a
-compromise was ultimately arranged by which Harold was temporarily
+[[Compromise|compromise]] was ultimately arranged by which Harold was temporarily
 elected regent of all England, pending the final settlement of the
-question on the return of Hardicanute from Denmark. The compromise was
+question on the return of Hardicanute from [[Denmark]]. The compromise was
 strongly opposed by Godwine and Emma, who for a time forcibly held
 Wessex in Hardicanute's behalf. But Harold's party rapidly increased;
 and early in 1037 he was definitely elected king. Emma was driven out
 and took refuge at Bruges. In 1039 Hardicanute joined her, and together
 they concerted an attack on England. But next year Harold died; and
 Hardicanute peacefully succeeded. His short reign was marked by great
-oppression and cruelty. He caused the dead body of Harold to be dug up
+oppression and [[Cruelty|cruelty]]. He caused the dead body of Harold to be dug up
 and thrown into a fen; he exacted so heavy a geld for the support of his
 foreign fleet that great discontent was created throughout the kingdom,
 and in Worcestershire a general uprising took place against those sent

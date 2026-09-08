@@ -144,7 +144,7 @@ acts of parliament, or expound them in any other sense than is truly and
 properly the exposition of them, the king's great courts of common law
 may prohibit and control them."
 
-The design of constructing a code of ecclesiastical laws was entertained
+The design of constructing a [[Code|code]] of ecclesiastical laws was entertained
 during the period of the Reformation, but never carried into effect. It
 is alluded to in various statutes of the reign of Henry VIII., who
 obtained power to appoint a commission to examine the old ecclesiastical
@@ -198,10 +198,10 @@ ENGLAND, CHURCH OF; ESTABLISHMENT; &c.)
 
   AUTHORITIES.--The number of works on ecclesiastical law is very great,
   and it must suffice here to mention a few of the more conspicuous
-  modern ones: Ferdinand Walter, _Lehrbuch des Kirchenrechts aller
-  christlichen Konfessionen_ (14th ed., Bonn, 1871); G. Phillips,
+  modern ones: [[Ferdinand]] Walter, _Lehrbuch des Kirchenrechts aller
+  christlichen Konfessionen_ (14th ed., [[Bonn]], 1871); G. Phillips,
   _Kirchenrecht_, Bde. i.-vii. (Regensburg, 1845-1872) incomplete; the
-  text-book by Cardinal Hergenroether (q.v.); P. Hinschius, _Kirchenrecht
+  text-book by Cardinal Hergenroether (q.v.); P. [[Hinschius]], _Kirchenrecht
   der Katholiken und Protestanten in Deutschland_, 6 Bde. (Berlin, 1869
   sqq.), only the Catholic part, a masterly and detailed survey of the
   ecclesiastical law, finished; Sir Robert Phillimore, _Eccl. Law of the

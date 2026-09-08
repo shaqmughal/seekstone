@@ -10,7 +10,7 @@ type: article
 JOHN OF BRIENNE (c. 1148-1237), king of Jerusalem and Latin emperor of
 Constantinople, was a man of sixty years of age before he began to play
 any considerable part in history. Destined originally for the Church, he
-had preferred to become a knight, and in forty years of tournaments and
+had preferred to become a [[Knight|knight]], and in forty years of tournaments and
 fights he had won himself a considerable reputation, when in 1208 envoys
 came from the Holy Land to ask Philip Augustus, king of France, to
 select one of his barons as husband to the heiress, and ruler of the
@@ -26,7 +26,7 @@ on the advance from Damietta, in spite of the warnings of King John, he
 refused to accept the favourable terms of the sultan, as the king
 advised, until it was too late. After the failure of the crusade, King
 John came to the West to obtain help for his kingdom. In 1223 he met
-Honorius III. and the emperor Frederick II. at Ferentino, where, in
+Honorius III. and the emperor Frederick II. at [[Ferentino]], where, in
 order that he might be connected more closely with the Holy Land,
 Frederick was betrothed to John's daughter Isabella, now heiress of the
 kingdom. After the meeting at Ferentino, John went to France and
@@ -41,10 +41,10 @@ revenge himself on Frederick, by commanding the papal troops which
 attacked southern Italy during the emperor's absence on the sixth
 crusade (1228-1229). In 1229 John, now eighty years of age, was invited
 by the barons of the Latin empire of Constantinople to become emperor,
-on condition that Baldwin of Courtenay should marry his second daughter
+on condition that [[Baldwin]] of Courtenay should marry his second daughter
 and succeed him. For nine years he ruled in Constantinople, and in 1235,
 with a few troops, he repelled a great siege of the city by Vataces of
-Nicaea and Azen of Bulgaria. After this last feat of arms, which has
+Nicaea and Azen of [[Bulgaria]]. After this last feat of arms, which has
 perhaps been exaggerated by the Latin chroniclers, who compare him to
 Hector and the Maccabees, John died in the habit of a Franciscan friar.
 An aged paladin, somewhat uxorious and always penniless, he was a

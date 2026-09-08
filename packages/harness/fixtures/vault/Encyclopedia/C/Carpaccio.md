@@ -15,7 +15,7 @@ improbable that at that time he had reached so mature an age as
 thirty-five; and the date of his birth is more probably to be guessed
 from his being about twenty-five in 1490. What is certain is that he was
 a pupil (not, as sometimes thought, the master) of Lazzaro Bastiani,
-who, like the Bellini and Vivarini, was the head of a large _atelier_ in
+who, like the [[Bellini]] and Vivarini, was the head of a large _atelier_ in
 Venice, and whose own work is seen in such pictures as the "S.
 Veneranda" at Vienna, and the "Doge Mocenigo kneeling before the Virgin"
 and "Madonna and Child" (formerly attributed to Carpaccio) in the
@@ -64,11 +64,11 @@ Mountains at Orsova. The valley of the March and Oder separates the
 Carpathians from the Silesian and Moravian chains, which belong to the
 middle wing of the great central mountain system of Europe. The
 Carpathians separate Hungary and Transylvania from Lower Austria,
-Moravia, Silesia, Galicia, Bukovina and Rumania, while its ramifications
+Moravia, Silesia, [[Galicia]], [[Bukovina]] and Rumania, while its ramifications
 fill the whole northern part of Hungary, and form the quadrangular mass
 of the Transylvanian plateau. Unlike the other wings of the great
 central system of Europe, the Carpathians, which form the watershed
-between the northern seas and the Black Sea, are surrounded on all sides
+between the northern seas and the [[Black Sea]], are surrounded on all sides
 by plains, namely the great Hungarian plain on the south-west, the plain
 of the Lower Danube (Rumania) on the south, and the Galician plain on
 the north-east.
@@ -96,7 +96,7 @@ Carpathians, and (c) the central groups.
   highest peak Javornik (3325 ft.), and the Zemerka (3445 ft.); the
   Beskid proper or western Beskid group, which extends from a little
   west of the Jablunka pass to the river Poprad, with the highest peaks,
-  Beskid (3115 ft.), Smrk (4395 ft.), Lissa Hora (4350 ft.) and Ossus
+  Beskid (3115 ft.), Smrk (4395 ft.), [[Lissa]] Hora (4350 ft.) and Ossus
   (5106 ft.); and the Magura or Arva Magura group, which extends to the
   south of Beskid Mountains, and contains the Babia Gora (5650 ft.), the
   highest peak in the whole western Carpathians.
@@ -111,7 +111,7 @@ Carpathians, and (c) the central groups.
   two-thirds of this range has a mean altitude of 3250 ft., and only in
   its southern portion it attains a mean altitude of 5000 ft. The
   principal peaks are Rusky Put (4264 ft.), Popadjé (5690 ft.), Bistra
-  (5936 ft.), Pop Ivan (6214 ft.), Tomnatik (5035 ft.), Giumaleu (6077
+  (5936 ft.), Pop [[Ivan]] (6214 ft.), Tomnatik (5035 ft.), Giumaleu (6077
   ft.) and Cserna Gora (6505 ft.), the culminating peak of the whole
   range. To the eastern Carpathians belongs also the range of mountains
   extending between the Laborcza and the Upper Theiss, called Vihorlat,
@@ -124,7 +124,7 @@ Carpathians, and (c) the central groups.
   confluence of the rivers Arva and Waag to the river Poprad, and
   include the highest group of the Carpathian system. They consist of
   the High Tatra group (see TATRA MOUNTAINS), where is found the
-  Gerlsdorfer or Franz Josef peak (Hung. _Gerlachfalvi-Csúcs_), with an
+  Gerlsdorfer or [[Franz]] Josef peak (Hung. _Gerlachfalvi-Csúcs_), with an
   altitude of 8737 ft., the highest peak in the whole Carpathian
   Mountains. On its west are the Liptauer Magura, with the highest peak
   the Biela Szkala (6900 ft.), and on its east are the Zipser Magura,
@@ -183,7 +183,7 @@ Carpathians, and (c) the central groups.
   Tarnow. In the eastern Carpathians are: the Dukla pass, the
   Mezo-Laborcz pass crossed by the railway from Tokaj to Przemysl; the
   Uszok pass, crossed by the road from Ungvár to Sambor; the Vereczke
-  pass, crossed by the railway from Lemberg to Munkács; the Delatyn or
+  pass, crossed by the railway from [[Lemberg]] to Munkács; the Delatyn or
   Körösmezö pass (3300 ft.), also called the Magyar route, crossed by
   the railway from Kolomea to Debreczen; and the Stiol pass in Bukovina.
 
@@ -198,7 +198,7 @@ Carpathians, and (c) the central groups.
   uniform both in composition and structure. It is formed almost
   entirely of a succession of sandstones and shales of Cretaceous and
   Tertiary age--the so-called Carpathian Sandstone--and these are thrown
-  into a series of isoclinal folds dipping constantly to the south. The
+  into a series of isoclinal [[Fold|folds]] dipping constantly to the south. The
   folding of this zone took place during the Miocene period. The _inner
   zone_ is not continuous, and is much more complex in structure. It is
   visible only in the west and in the east, while in the central
@@ -212,7 +212,7 @@ Carpathians, and (c) the central groups.
   the old foundation with but little subsequent disturbance. In the
   eastern Carpathians also, the Permian and Mesozoic beds are not much
   folded except near the outer margin of the zone. The _Klippen_ are
-  isolated hills, chiefly of Jurassic limestone, rising up in the midst
+  isolated hills, chiefly of [[Jurassic]] [[Limestone|limestone]], rising up in the midst
   of the later and softer deposits on the inner border of the sandstone
   zone. Their relations to the surrounding beds are still obscure. They
   may be "rootless" masses brought upon the top of the later beds by
@@ -240,7 +240,7 @@ Carpathians, and (c) the central groups.
   to the north. The vegetation of these regions is naturally subjected
   to the different climateric conditions. The mountains themselves are
   mostly covered with forests, and their vegetation presents four zones:
-  that of the beech extends to an altitude of 4000 ft.; that of the
+  that of the [[Beech|beech]] extends to an altitude of 4000 ft.; that of the
   Scottish fir to 1000 ft. higher. Above this grows a species of pine,
   which becomes dwarfed and disappears at an altitude of about 6000 ft.,
   beyond which is a zone of lichen and moss covered or almost bare rock.
@@ -249,7 +249,7 @@ Carpathians, and (c) the central groups.
   middle region. Remarkable is the sea-shore flora, which is found in
   the numerous salt-impregnated lakes, ponds and marshes in
   Transylvania. As regards the fauna, the Carpathians still contain
-  numerous bears, wolves and lynxes, as well as birds of prey. It
+  numerous bears, wolves and [[Lynx|lynxes]], as well as birds of prey. It
   presents a characteristic feature in its mollusc fauna, which contains
   many species not found in the neighbouring regions, and only found in
   the Alpine region. Cattle and sheep are pastured in great numbers on
@@ -272,7 +272,7 @@ Carpathians, and (c) the central groups.
   only from the beginning of the 19th century. The first ascension of
   the Lomnitzer peak in the High Tatra was made by one David or Johann
   Fröhlich in 1615. The first account of the Tatra Mountains was written
-  by Georg Buchholz, a resident of Kesmark in 1664. The English
+  by Georg [[Buchholz]], a resident of Kesmark in 1664. The English
   naturalist, Robert Townson, explored the Tatra in 1793 and 1794, and
   was the first to make a few reliable measurements. The results of his
   exploration appeared in his book, _Travels in Hungary_, published in
@@ -283,7 +283,7 @@ Carpathians, and (c) the central groups.
   the former explorations were embodied by A. von Sydow in an extensive
   work published in 1827. During the 19th century the measurements of
   the various parts of the Carpathians was undertaken by the ordnance
-  survey of the Austrian army, which published their first map of the
+  survey of the Austrian army, which published their first [[Map|map]] of the
   central Carpathians in 1870. A great stimulus to the study of this
   mountain system was given by the foundation of the Hungarian
   Carpathian Society in 1873, and a great deal of information has been

@@ -7,13 +7,13 @@ tags: [naturalists-theory, mythology]
 
 # Gospel
 
-GOSPEL (O. Eng. _godspel_, i.e. good news, a translation of Lat. _bona
+GOSPEL (O. Eng. _godspel_, i.e. good news, a translation of Lat. _[[Bona|bona]]
 annuntiatio_, or _evangelium_, Gr. [Greek: euangelion]; cf. Goth. _iu
 spillon_, "to announce good news," Ulfilas' translation of the Greek,
 from _iu_, that which is good, and _spellon_ to announce), primarily the
 "glad tidings" announced to the world by Jesus Christ. The word thus
 came to be applied to the whole body of doctrine taught by Christ and
-his disciples, and so to the Christian revelation generally (see
+his [[Disciple|disciples]], and so to the Christian revelation generally (see
 CHRISTIANITY); by analogy the term "gospel" is also used in other
 connexions as equivalent to "authoritative teaching." In a narrower
 sense each of the records of the life and teaching of Christ preserved
@@ -22,7 +22,7 @@ many more or less imaginative lives of Christ which are not accepted by
 the Christian Church as canonical are known as "apocryphal gospels" (see
 APOCRYPHAL LITERATURE). The present article is concerned solely with
 general considerations affecting the four canonical Gospels; see for
-details of each, the articles under MATTHEW, MARK, LUKE and JOHN.
+details of each, the articles under [[Matthew|MATTHEW]], MARK, [[Luke|LUKE]] and JOHN.
 
 _The Four Gospels._--The disciples of Jesus proclaimed the Gospel that
 He was the Christ. Those to whom this message was first delivered in
@@ -40,7 +40,7 @@ of Jesus and His words were only related orally. This would be in
 accordance with the habits of mind of the early preachers of the Gospel.
 Moreover, they were so absorbed in the expectation of the speedy return
 of Christ that they did not feel called to make provision for the
-instruction of subsequent generations. The Epistles of the New Testament
+instruction of subsequent generations. The [[Epistle|Epistles]] of the New Testament
 contain no indications of the existence of any written record of the
 life and teaching of Christ. Tradition indicates A.D. 60-70 as the
 period when written accounts of the life and teaching of Jesus began to
@@ -87,7 +87,7 @@ little treatise commonly called the Epistle of Barnabas, probably
 composed about A.D. 130, where (c. iv. 14) the words "many are called
 but few chosen" are introduced by the formula "as it is written."
 
-For the identification, therefore, of the source or sources used we have
+For the [[Identification|identification]], therefore, of the source or sources used we have
 to rely upon the amount of correspondence with our Gospels in the
 quotations made, and in respect to other parallelisms of statement and
 of expression, in these early Christian writers. The correspondence is
@@ -110,7 +110,7 @@ clear in the several cases, that all the four Gospels were known in the
 first two or three decades of the 2nd century. It is fullest as to our
 first Gospel and, next to this one, as to our third.
 
-After this time it becomes manifest that, as we should expect, documents
+After this time it becomes [[Manifest|manifest]] that, as we should expect, documents
 were the recognized authorities for the Gospel history; but there is
 still some uncertainty as to the documents upon which reliance was
 placed, and the precise estimation in which they were severally held.
@@ -122,10 +122,10 @@ Christ and of the facts of the Gospel, while terms that would not be
 understood by, and names that would not carry weight with, others than
 Christians are to a large extent avoided. The most important of the
 writings now in question are two by Justin Martyr (_circa_ A.D.
-145-160), viz. his _Apology_ and his _Dialogue with Trypho_. In the
+145-160), viz. his _[[Apology]]_ and his _[[Dialogue]] with Trypho_. In the
 former of these works he shows plainly his intention of adapting his
-language and reasoning to Gentile, and in the latter to Jewish, readers.
-In both his name for the Gospel-records is "Memoirs of the Apostles."
+language and reasoning to [[Gentile]], and in the latter to Jewish, readers.
+In both his name for the Gospel-records is "Memoirs of the [[Apostle|Apostles]]."
 After a great deal of controversy there has come to be very wide
 agreement that he reckoned the first three Gospels among these Memoirs.
 In the case of the second and third there are indications, though slight
@@ -148,9 +148,9 @@ compilation from our four Gospels.[2]
 Before the close of the 2nd century the four Gospels had attained a
 position of unique authority throughout the greater part of the Church,
 not different from that which they have held since, as is evident from
-the treatise of Irenaeus _Against Heresies_ (c. A.D. 180; see esp. iii.
+the treatise of [[Irenaeus]] _Against Heresies_ (c. A.D. 180; see esp. iii.
 i. 1 f. and x., xi.) and from other evidence only a few years later. The
-struggle against Gnosticism, which had been going on during the middle
+struggle against [[Gnosticism]], which had been going on during the middle
 part of the century, had compelled the Church both to define her creed
 and to draw a sharper line of demarcation than heretofore between those
 writings whose authority she regarded as absolute and all others. The
@@ -236,7 +236,7 @@ collection of the sayings and discourses of Jesus. This name has been
 suggested by Schleiermacher's interpretation of Papias' fragment on
 Matthew (see MATTHEW, GOSPEL OF). But some have maintained that the
 source in question also contained a good many narratives, and in order
-to avoid any premature assumption as to its contents and character
+to avoid any premature [[Assumption|assumption]] as to its contents and character
 several recent critics have named it "Q." It may, however, fairly be
 called "the Logian document," as a convenient way of indicating the
 character of the greater part of the matter which our first and third
@@ -257,7 +257,7 @@ employed in pointing out the special characteristics of each, will still
 prove serviceable.
 
   AUTHORITIES.--1. German Books: _Introductions to the New
-  Testament_--H. J. Holtzmann (3rd ed., 1892), B. Weiss (Eng. trans.,
+  Testament_--H. J. [[Holtzmann]] (3rd ed., 1892), B. Weiss (Eng. trans.,
   1887), Th. Zahn (2nd ed., 1900), G. A. Julicher (6th ed., 1906; Eng.
   trans., 1904); H. v. Soden, _Urchristliche Literaturgeschichte_, vol.
   i. (1905; Eng. trans., 1906). Books on the Synoptic Gospels,
@@ -270,11 +270,11 @@ prove serviceable.
   (1899); W. Soltau, _Unsere Evangelien, ihre Quellen und ihr
   Quellenwert_ (1901); H. J. Holtzmann, _Hand-Commentar zum N.T._, vol.
   i. (1889); J. Wellhausen, _Das Evangelium Marci_, _Das Evangelium
-  Matthai_, _Das Evangelium Lucas_ (1904), _Einleitung in die drei
+  Matthai_, _Das Evangelium [[Lucas]]_ (1904), _Einleitung in die drei
   ersten Evangelien_ (1905); A. Harnack, _Spruche und Reden Jesu, die
   zweite Quelle des Matthaus und Lukas_ (1907).
 
-  2. French Books: A. Loisy, _Les Evangiles synoptiques_ (1907-1908).
+  2. French Books: A. [[Loisy]], _Les Evangiles synoptiques_ (1907-1908).
 
   3. English Books: G. Salmon, _Introduction to the New Testament_ (1st
   ed., 1885; 9th ed., 1904); W. Sanday, _Inspiration_ (Lect. vi., 3rd
@@ -282,9 +282,9 @@ prove serviceable.
   Gospels_ (1st ed., 1851; 8th ed., 1895); A. Wright, _The Composition
   of the Four Gospels_ (1890); J. E. Carpenter, _The First Three
   Gospels, their Origin and Relations_ (1890); A. J. Jolley, _The
-  Synoptic Problem_ (1893); J. C. Hawkins, _Horae synopticae_ (1899); W.
+  Synoptic Problem_ (1893); J. C. [[Hawkins]], _Horae synopticae_ (1899); W.
   Alexander, _Leading Ideas of the Gospels_ (new ed., 1892); E. A.
-  Abbott, _Clue_ (1900); J. A. Robinson, _The Study of the Gospels_
+  Abbott, _[[Clue]]_ (1900); J. A. Robinson, _The Study of the Gospels_
   (1902); F. C. Burkitt, _The Gospel History and its Transmission_
   (1906); G. Salmon, _The Human Element in the Gospels_ (1907); V. H.
   Stanton, _The Gospels as Historical Documents_: Pt. I., _The Early Use

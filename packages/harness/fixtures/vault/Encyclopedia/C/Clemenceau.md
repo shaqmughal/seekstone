@@ -10,18 +10,18 @@ CLEMENCEAU, GEORGES (1841-   ), French statesman, was born at
 Mouilleron-en-Pareds, Vendée, on the 28th of September 1841. Having
 adopted medicine as his profession, he settled in 1869 in Montmartre;
 and after the revolution of 1870 he had become sufficiently well known
-to be nominated mayor of the 18th arrondissement of Paris
+to be nominated [[Mayor|mayor]] of the 18th [[Arrondissement|arrondissement]] of Paris
 (Montmartre)--an unruly district over which it was a difficult task to
 preside. On the 8th of February 1871 he was elected as a Radical to the
 National Assembly for the department of the Seine, and voted against the
 peace preliminaries. The execution, or rather murder, of Generals
 Lecomte and Clément Thomas by the communists on 18th March, which he
 vainly tried to prevent, brought him into collision with the central
-committee sitting at the hôtel de ville, and they ordered his arrest,
+committee sitting at the hôtel de ville, and they ordered his [[Arrest|arrest]],
 but he escaped; he was accused, however, by various witnesses, at the
 subsequent trial of the murderers (November 29th), of not having
 intervened when he might have done, and though he was cleared of this
-charge it led to a duel, for his share in which he was prosecuted and
+charge it led to a [[Duel|duel]], for his share in which he was prosecuted and
 sentenced to a fine and a fortnight's imprisonment.
 
 Meanwhile, on the 20th of March 1871, he had introduced in the National
@@ -49,12 +49,12 @@ political critic, and as a destroyer of ministries who yet would not
 take office himself, rapidly grew. He led the Extreme Left in the
 Chamber. He was an active opponent of M. Jules Ferry's colonial policy
 and of the Opportunist party, and in 1885 it was his use of the Tongking
-disaster which principally determined the fall of the Ferry cabinet. At
+disaster which principally determined the fall of the Ferry [[Cabinet|cabinet]]. At
 the elections of 1885 he advocated a strong Radical programme, and was
 returned both for his old seat in Paris and for the Var, selecting the
 latter. Refusing to form a ministry to replace the one he had
-overthrown, he supported the Right in keeping M. Freycinet in power in
-1886, and was responsible for the inclusion of General Boulanger in the
+overthrown, he supported the Right in keeping M. [[Freycinet]] in power in
+1886, and was responsible for the inclusion of General [[Boulanger]] in the
 Freycinet cabinet as war minister. When Boulanger (q.v.) showed himself
 as an ambitious pretender, Clemenceau withdrew his support and became a
 vigorous combatant against the Boulangist movement, though the Radical
@@ -64,7 +64,7 @@ By his exposure of the Wilson scandal, and by his personal plain
 speaking, M. Clemenceau contributed largely to M. Grévy's resignation of
 the presidency in 1887, having himself declined Grévy's request to form
 a cabinet on the downfall of that of M. Rouvier; and he was primarily
-responsible, by advising his followers to vote neither for Floquet,
+responsible, by advising his followers to vote neither for [[Floquet]],
 Ferry nor Freycinet, for the election of an "outsider" as president in
 M. Carnot. He had arrived, however, at the height of his influence, and
 several factors now contributed to his decline. The split in the Radical
@@ -78,14 +78,14 @@ was defeated for the Chamber, after having sat in it continuously since
 1876. After his defeat for the Chamber, M. Clemenceau confined his
 political activities to journalism, his career being further
 overclouded--so far as any immediate possibility of regaining his old
-ascendancy was concerned--by the long-drawn-out Dreyfus case, in which
-he took an active and honourable part as a supporter of M. Zola and an
+ascendancy was concerned--by the long-drawn-out [[Dreyfus]] case, in which
+he took an active and [[Honourable|honourable]] part as a supporter of M. Zola and an
 opponent of the anti-Semitic and Nationalist campaign. In 1900 he
 withdrew from _La Justice_ to found a weekly review, _Le Bloc_, which
 lasted until March 1902. On the 6th of April 1902 he was elected senator
 for the Var, although he had previously continually demanded the
 suppression of the Senate. He sat with the Socialist Radicals, and
-vigorously supported the Combes ministry. In June 1903 he undertook the
+vigorously supported the [[Combes]] ministry. In June 1903 he undertook the
 direction of the journal _L'Aurore_, which he had founded. In it he led
 the campaign for the revision of the Dreyfus affair, and for the
 separation of Church and State.
@@ -117,9 +117,9 @@ on the 27th of September 1765, at Murcia, and was educated there at the
 Colegio de San Fulgencio. Abandoning his intention of taking orders, he
 found employment at Madrid in 1788 as tutor to the sons of the
 countess-duchess de Benavente, and devoted himself to the study of
-archaeology. In 1807 he became editor of the _Gaceta de Madrid_, and in
+[[Archaeology|archaeology]]. In 1807 he became editor of the _Gaceta de Madrid_, and in
 the following year was condemned to death by Murat for publishing a
-patriotic article; he fled to Cadiz, and under the Junta Central held
+patriotic article; he fled to [[Cadiz]], and under the [[Junta]] Central held
 various posts from which he was dismissed by the reactionary government
 of 1814. During the liberal régime of 1820-1823 Clemencín took office as
 colonial minister, was exiled till 1827, and in 1833 published the first

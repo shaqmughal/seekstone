@@ -16,7 +16,7 @@ newly elected pope gives his blessing _urbi et orbi_. Inside churches
 balconies are sometimes provided for the singers, and in banqueting halls
 and the like for the musicians. In theatres the "balcony" was formerly a
 stage-box, but the name is now usually confined to the part of the
-auditorium above the dress circle and below the gallery.
+auditorium above the [[Dress|dress]] circle and below the gallery.
 
 ## See also
 

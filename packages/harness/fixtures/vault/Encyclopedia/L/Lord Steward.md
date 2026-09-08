@@ -3,14 +3,14 @@
 LORD STEWARD, in England, an important official of the king's household.
 He is always a member of the government, a peer and a privy councillor.
 Up to 1782, the office was one of considerable political importance and
-carried cabinet rank. The lord steward receives his appointment from the
-sovereign in person, and bears a white staff as the emblem and warrant
+carried [[Cabinet|cabinet]] rank. The lord steward receives his appointment from the
+sovereign in person, and bears a white staff as the [[Emblem|emblem]] and warrant
 of his authority. He is the first dignitary of the court. In the
 _Statutes of Eltham_ he is called "the lord great master," but in the
 _Household Book_ of Queen Elizabeth "the lord steward," as before and
 since. In an act of Henry VIII. (1539) "for placing of the lords," he is
 described as "the grand master or lord steward of the king's most
-honourable household." He presides at the Board of Green Cloth.[1] In
+[[Honourable|honourable]] household." He presides at the Board of Green Cloth.[1] In
 his department are the treasurer and comptroller of the household, who
 rank next to him. These officials are usually peers or the sons of peers
 and privy councillors. They sit at the Board of Green Cloth, carry white
@@ -19,7 +19,7 @@ belong to the lord steward, treasurer and comptroller of the household
 are in practice performed by the master of the household, who is a
 permanent officer and resides in the palace. He is a white-staff officer
 and a member of the Board of Green Cloth but not of the ministry, and
-among other things he presides at the daily dinners of the suite in
+among other things he presides at the daily [[Dinner|dinners]] of the suite in
 waiting on the sovereign. In his case history repeats itself. He is not
 named in the _Black Book_ of Edward IV. or in the _Statutes_ of Henry
 VIII., and is entered as "master of the household and clerk of the green
@@ -28,7 +28,7 @@ the lord steward of the household, as the lord steward of the household
 at one time superseded the lord high steward of England.
 
 In the lord steward's department are the officials of the Board of Green
-Cloth, the coroner ("coroner of the verge"), and paymaster of the
+Cloth, the [[Coroner|coroner]] ("coroner of the verge"), and paymaster of the
 household, and the officers of the almonry (see ALMONER). Other offices
 in the department were those of the cofferer of the household, the
 treasurer of the chamber, and the paymaster of pensions, but these, with
@@ -75,21 +75,21 @@ FOOTNOTE:
 
 
 LORÉ, AMBROISE DE (1396-1446), baron of Ivry in Normandy and a French
-commander, was born at the château of Loré (Orne, arrondissement of
+[[Commander|commander]], was born at the château of Loré (Orne, [[Arrondissement|arrondissement]] of
 Domfront). His first exploit in arms was at the battle of Agincourt in
 1415; he followed the party of the Armagnacs and attached himself to the
-dauphin Charles. He waged continual warfare against the English in Maine
-until the advent of Joan of Arc. He fought at Jargeau, at
+[[Dauphin|dauphin]] Charles. He waged continual warfare against the English in [[Maine]]
+until the advent of [[Joan Of Arc|Joan of Arc]]. He fought at Jargeau, at
 Meung-sur-Loire and at Patay (1429). Using his fortress of Saint Céneri
 as a base of operations during the next few years, he seized upon
-Matthew Gough near Vivoin in 1431, and made an incursion as far as the
+[[Matthew]] Gough near Vivoin in 1431, and made an incursion as far as the
 walls of Caen, whence he brought away three thousand prisoners. Taken
-captive himself in 1433, he was exchanged for Talbot. In 1435 he and
-Dunois defeated the English near Meulan, and in 1436 he helped the
+[[Captive|captive]] himself in 1433, he was exchanged for Talbot. In 1435 he and
+[[Dunois]] defeated the English near Meulan, and in 1436 he helped the
 constable Arthur, earl of Richmond (de Richmond), to expel them from
 Paris. He was appointed provost of Paris in February 1437, and in 1438
 he was made "judge and general reformer of the malefactors of the
-kingdom." He was present in 1439 at the taking of Meaux, in 1441 at that
+kingdom." He was present in 1439 at the taking of [[Meaux]], in 1441 at that
 of Pontoise, and he died on the 24th of May 1446.
 
   See the _Nouvelle Biographie Générale_, vol. xxxi., and the _Revue

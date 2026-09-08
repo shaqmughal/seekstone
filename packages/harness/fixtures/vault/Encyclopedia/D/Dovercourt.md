@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Dovercourt
 # Dovercourt
 
 DOVERCOURT, a watering-place in the Harwich parliamentary division of
-Essex, England, immediately S.W. of Harwich, with a station between
+[[Essex]], England, immediately S.W. of Harwich, with a station between
 Parkeston Quay and Harwich town on the Great Eastern railway, 70 m. N.E.
 by E. from London. Pop. (1901) 3894. The esplanade and sea-wall front
 the North Sea, and there is a fine expanse of sand affording good

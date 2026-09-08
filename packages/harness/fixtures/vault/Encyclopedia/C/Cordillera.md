@@ -8,7 +8,7 @@ system into Mexico. In North America the parallel ranges of mountains
 running between and including the Rocky Mountains and the Sierra Nevada
 are known as the "Cordilleras," and that part of the western continent
 crossed by them has been termed the "Cordilleran region." Although the
-name has been applied to the eastern mountain system of Australia, the
+name has been applied to the eastern mountain system of [[Australia]], the
 word is not, outside America, used as a generic term for parallel ranges
 of mountains.
 

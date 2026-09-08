@@ -18,7 +18,7 @@ network of conductors to be ascertained. Another discussed conduction in
 curved sheets; a third the distribution of electricity in two
 influencing spheres; a fourth the determination of the constant on which
 depends the intensity of induced currents; while others were devoted to
-Ohm's law, the motion of electricity in submarine cables, induced
+Ohm's law, the motion of electricity in submarine [[Cable|cables]], induced
 magnetism, &c. In other papers, again, various miscellaneous topics were
 treated--the thermal conductivity of iron, crystalline reflection and
 refraction, certain propositions in the thermodynamics of solution and
@@ -27,7 +27,7 @@ _Vorlesungen über mathematische Physik_ (1876), in which the principles
 of dynamics, as well as various special problems, were treated in a
 somewhat novel and original manner. But his name is best known for the
 researches, experimental and mathematical, in radiation which led him,
-in company with R. W. von Bunsen, to the development of spectrum
+in company with R. W. von [[Bunsen]], to the development of spectrum
 analysis as a complete system in 1859-1860. He can scarcely be called
 its inventor, for not only had many investigators already used the prism
 as an instrument of chemical inquiry, but considerable progress had been

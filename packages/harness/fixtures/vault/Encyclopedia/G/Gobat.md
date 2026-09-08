@@ -1,13 +1,13 @@
 # Gobat
 
 GOBAT, SAMUEL (1799-1879), bishop of Jerusalem, was born at Cremine,
-Bern, Switzerland, on the 26th of January 1799. After serving in the
-mission house at Basel from 1823 to 1826, he went to Paris and London,
+[[Bern]], Switzerland, on the 26th of January 1799. After serving in the
+mission house at [[Basel]] from 1823 to 1826, he went to Paris and London,
 whence, having acquired some knowledge of Arabic and Ethiopic, he went
 out to Abyssinia under the auspices of the Church Missionary Society.
 The unsettled state of the country and his own ill health prevented his
 making much headway; he returned to Europe in 1835 and from 1839 to 1842
-lived in Malta, where he supervised an Arabic translation of the Bible.
+lived in [[Malta]], where he supervised an Arabic translation of the Bible.
 In 1846 he was consecrated Protestant bishop of Jerusalem, under the
 agreement between the British and Prussian governments (1841) for the
 establishment of a joint bishopric for Lutherans and Anglicans in the

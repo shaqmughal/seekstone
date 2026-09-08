@@ -11,21 +11,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Corning"
 CORNING, a city of Steuben county, New York, U.S.A., in the S. part of
 the state, on the Chemung river, 10 m. W.N.W. of Elmira. Pop. (1890)
 8550; (1900) 11,061, of whom 1410 were foreign-born; (1910) 13,730.
-Corning is served by the Erie, the Delaware, Lackawanna & Western, and
-the New York Central & Hudson River railways. Among the principal
+Corning is served by the Erie, the [[Delaware]], Lackawanna & Western, and
+the New York Central & [[Hudson]] River railways. Among the principal
 buildings and institutions are a fine city hall, a Federal building, a
 county court house, the Corning hospital, a free public library and St
-Mary's orphan asylum (Roman Catholic). Corning is one of the principal
+Mary's orphan [[Asylum|asylum]] (Roman Catholic). Corning is one of the principal
 markets in New York state for tobacco, which is extensively produced in
 the surrounding country. The principal industry is the making of cut and
 flint glass, and, of the several extensive plants devoted to this
 industry, that of the Corning Glass Works is one of the largest in the
-world. The city also has railway car shops and foundries, and among its
-manufactures are pressed brick, tile and terra-cotta, papier-mâché and
+world. The city also has railway [[Car|car]] shops and foundries, and among its
+manufactures are pressed [[Brick|brick]], tile and terra-cotta, papier-mâché and
 lumber. The total value of the factory products in 1905 was $3,083,515,
 35.7% more than in 1900. There were settlers on the site of Corning as
 early as 1789, but it was not until 1848 that it was incorporated as a
-village under its present name, given in honour of Erastus Corning, the
+village under its present name, given in honour of [[Erastus]] Corning, the
 railway builder. Corning was chartered as a city in 1890.
 
   See C. H. M'Master, _History of the Settlement of Steuben County_
@@ -34,7 +34,7 @@ railway builder. Corning was chartered as a city in 1890.
 
 
 
-CORN LAWS. In England, legislation on corn was early applied both to
+[[Corn|CORN]] LAWS. In England, legislation on corn was early applied both to
 home and foreign trade in this essential produce. Roads were so bad, and
 the chain of home trade so feeble, that there was often scarcity of
 grain in one part, and plenty in another part of the same kingdom.
@@ -50,7 +50,7 @@ of the crown, was paid in kind, the sovereign, the barons and other
 landholders had little interest in the price of corn different from that
 of other classes of people, the only demand for corn being for
 consumption and not for resale or export. But as rents of land came to
-be paid in money, the interest of the farmer to be distinguished by a
+be paid in money, the interest of the [[Farmer|farmer]] to be distinguished by a
 remove from that of the landowner, the difference between town and
 country to be developed, and the business of society to be more complex,
 the ruling powers of the state were likely to be actuated by other
@@ -83,7 +83,7 @@ without state licence, when the price of wheat or other corn fell below
 certain prices. The reason given in the preamble of the statute was that
 the previous state of the law had compelled farmers to sell their corn
 at low prices, which was no doubt true, but which also showed the
-important turn of the tide that had set in. J. R. M'Culloch, in an
+important turn of the tide that had set in. J. R. [[M'Culloch]], in an
 elaborate article in the _Commercial Dictionary_, says that the
 fluctuation of the prices of corn in that age was so great, and beyond
 all present conception, that "it is not easy to determine whether the
@@ -98,7 +98,7 @@ have sold their produce in that age to Dutch merchants to better
 advantage than in their own market towns, or even in London, but were
 prohibited to export abroad, and yet had no means of distributing their
 supplies at home so as to realize the highest medium price in England,
-must have felt aggrieved, and that their barons and knights of the shire
+must have felt aggrieved, and that their barons and [[Knight|knights]] of the shire
 would have a common interest in making a strong effort to rectify the
 injustice in parliament. This object appears to have been in some
 measure accomplished by this statute, and twenty-seven years afterwards
@@ -172,7 +172,7 @@ under consideration, was easier of transport and much less liable to
 damage than corn, and, under the extending manufactures of France and
 the Low Countries, was sure of a foreign as well as a domestic market.
 Here was one description of rural produce on which there was the least
-embargo, and on which some reliance could be placed that it would in all
+[[Embargo|embargo]], and on which some reliance could be placed that it would in all
 circumstances bring a fair value; while corn, the prime rural produce,
 was subject as a commodity of merchandise to every difficulty,
 internally and externally, which meddling legislation and popular
@@ -197,7 +197,7 @@ designed. (3) The wages of labour would have followed the advance in the
 prices of commodities had wages been left free, but they were kept down
 by statute to the three or four pence per day at which they stood when
 the pound sterling contained one-fourth more silver, and silver itself
-was much more valuable. This was a refinement of cruelty. The feudal
+was much more valuable. This was a refinement of [[Cruelty|cruelty]]. The feudal
 system was breaking up; a wage-earning population was rapidly increasing
 both in the farms and in the towns; but the spirit of feudalism
 remained, and the iron collar of serfdom was riveted round the necks of
@@ -205,7 +205,7 @@ the labourers by these statutes many generations after they had become
 nominally freemen.[1] The result was chronic privation and discontent
 among the common people, by which all the conditions of agriculture and
 trade in corn were further straitened and barbarized; and an age, in
-some high respects among the most brilliant in the annals of England,
+some high respects among the most brilliant in the [[Annals|annals]] of England,
 was marked by an enormous increase of pauperism, and by the introduction
 of the merciful but wasteful remedy of the Poor Laws.
 
@@ -213,7 +213,7 @@ of the merciful but wasteful remedy of the Poor Laws.
   1660-1773.
 
 The corn legislation of Elizabeth remained without change during the
-reign of James, the civil wars and the Commonwealth. But on the
+reign of James, the civil wars and the [[Commonwealth]]. But on the
 restoration of Charles II. in 1660, the question was resumed, and an act
 was passed of a more prohibitory character. Export and import of corn,
 while nominally permitted, were alike subjected to heavy duties--the
@@ -233,7 +233,7 @@ the decline of agriculture continued to be as rife under this act as
 under the others, till on the accession of William and Mary, the landed
 interest, taking advantage of the Revolution as they had taken advantage
 of the Restoration to promote their own interests, took the new and
-surprising step of enacting a bounty on the export of grain. This evil
+surprising step of enacting a [[Bounty|bounty]] on the export of grain. This evil
 continued to affect the corn laws of the kingdom, varied, on one
 occasion at least, with the further complication of bounties on import,
 until the 19th century. The duties on export being abolished, while the
@@ -244,7 +244,7 @@ fell, instead of rising. There had occurred at the period of the
 Revolution a depreciation of the money of the realm, analogous in one
 respect to that which marked the first era of the corn statutes
 (1436-1551), and forming one of the greatest difficulties which the
-government of William had to encounter. The coin of the realm was
+government of William had to encounter. The [[Coin|coin]] of the realm was
 greatly debased, and as rapidly as the mint sent out money of standard
 weight and purity, it was melted down, and disappeared from the
 circulation. The influx of silver from South America to Europe had spent
@@ -263,12 +263,12 @@ complained with no less reason that the money wages of labour could not
 purchase them the usual necessaries of life. Macaulay, in his _History
 of England_, says of this period, with little exaggeration, that "the
 price of the necessaries of life, of shoes, of ale, of oatmeal, rose
-fast. The labourer found that the bit of metal which, when he received
-it, was called a shilling, would hardly, when he purchased a pot of beer
+fast. The labourer found that the [[Bit|bit]] of metal which, when he received
+it, was called a shilling, would hardly, when he purchased a pot of [[Beer|beer]]
 or a loaf of rye bread, go as far as sixpence." The state of agriculture
 could not be prosperous under these conditions. But when the government
 of William surmounted this difficulty of the coinage, as they did
-surmount it, under the guidance of Sir Isaac Newton, with remarkable
+surmount it, under the guidance of Sir [[Isaac]] Newton, with remarkable
 statesmanship, it necessarily followed that prices, so far from rising,
 declined, because, for one reason, they were now denominated in a solid
 metallic value. The rise of prices of corn attending the first years of
@@ -310,7 +310,7 @@ reached a maximum of 1,667,778 quarters in 1749-1750, had fallen to
   1791-1846.
 
 Burke's Act lasted long enough to introduce a regular import of foreign
-grain, varying with the abundance or scarcity of the home harvest, yet
+grain, varying with the abundance or scarcity of the home [[Harvest|harvest]], yet
 establishing in the end a systematic preponderance of imports over
 exports. The period, moreover, was marked by great agricultural
 improvements, by extensive reclamation of waste lands, and by an
@@ -341,7 +341,7 @@ home consumer is remarkable. There were deficient home harvests for some
 years after 1791, particularly in 1795 and 1797, and parliament was
 forced to the new expedient of granting high bounties on importation. At
 this period the country was involved in a great war; all the customary
-commercial relations were violently disturbed; freight, insurance and
+commercial relations were violently disturbed; freight, [[Insurance|insurance]] and
 other charges on import and export were multiplied fivefold; heavier and
 heavier taxes were imposed; and the capital resources of the kingdom
 were poured with a prodigality without precedent into the war channels.
@@ -350,7 +350,7 @@ rose greatly: and the Bank of England having stopped paying in specie
 in 1797, this raised nominal prices still more under the liberal use of
 bank paper in loans and discounts, and the difference that began to be
 established in the actual value of Bank of England notes and their legal
-par in bullion.
+par in [[Bullion|bullion]].
 
 The average price of British wheat rose to £5: 19: 6 in 1801. So unusual
 a value must have led to a large extension of the area under wheat, and
@@ -393,12 +393,12 @@ expenditure of money raised by public loans had ended, the ports of the
 continent were again open to some measure of trade and to the equalizing
 effect of trade upon prices, the Bank of England and other banks of
 issue had to begin the uphill course of a resumption of specie payments,
-the nation had to begin to feel the whole naked weight of the war debt,
+the nation had to begin to feel the whole naked weight of the war [[Debt|debt]],
 and the idea of the protectors of a high price of corn was proved by the
 event to be an utter hallucination. The corn statutes of the next twenty
 years, though occupying an enormous amount of time and attention in the
 Houses of Parliament, may be briefly treated, for they are simply a
-record of the impotence of legislation to maintain the price of a
+record of the [[Impotence|impotence]] of legislation to maintain the price of a
 commodity at a high point when all the natural economic causes in
 operation are opposed to it. In 1822 a statute was passed reducing the
 limit of prices at which importation could proceed to 70s. for wheat,
@@ -461,7 +461,7 @@ succeeding to office, and commencing his remarkable career as a
 free-trade statesman, introduced and carried in 1842 a new sliding scale
 of duties somewhat better adjusted to the current values. But public
 opinion by this time was changing, and the prime minister, convinced, as
-he confessed, by the arguments of Cobden and the Anti-Corn-Law League,
+he confessed, by the arguments of [[Cobden]] and the Anti-Corn-Law League,
 and stimulated into action by the failure of the potato crop in Ireland,
 put an effectual end to the history of the corn laws by the famous act
 of 1846. It was provided under this measure that the maximum duty on
@@ -472,7 +472,7 @@ prices rose above these figures; but the conclusive part of the
 enactment was that in three years--on the 1st of February 1849--these
 duties were to cease, and all foreign corn to be admitted at a duty of
 1s. per quarter, and all foreign meal and flour at a duty of 4½d. per
-cwt.--the same nominal imposts which were conceded to grain and flour of
+cwt.--the same nominal [[Impost|imposts]] which were conceded to grain and flour of
 British possessions abroad from the date of the act. In 1869 even these
 nominal duties were abolished by Robert Lowe in a Customs Duties Act. In
 1902 a registration duty of 3d. per cwt. was imposed on imported corn,
@@ -480,7 +480,7 @@ and 5d. per cwt. on imported flour, in the expectation that such a duty
 would broaden the basis of taxation. The duty was, however, repealed the
 following year. But a low duty on imported foreign corn was made an
 essential part of the tariff reform scheme advocated by Mr. J.
-Chamberlain (q.v.) from 1903 onwards.
+[[Chamberlain]] (q.v.) from 1903 onwards.
 
 
   Spain.
@@ -489,7 +489,7 @@ Chamberlain (q.v.) from 1903 onwards.
 
   France.
 
-  Belgium.
+  [[Belgium]].
 
   Netherlands.
 
@@ -559,7 +559,7 @@ increase. In 1878 the import duty on wheat was 6¾d. per cwt.; this was
 increased to 1s. 2¾d. in 1888, and in 1894 to 3s. 0½d. As in Spain and
 France, there was a temporary reduction and suspension during 1898, on
 the Spanish-American war. The duty on rye, barley, oats and maize was
-fixed by the tariff of 1878 at 5½d. per cwt. By a decree of 1894 the
+fixed by the tariff of 1878 at 5½d. per cwt. By a [[Decree|decree]] of 1894 the
 duty on rye was raised to 1s. 10d.; that on barley, by a decree of 1896,
 to 1s. 7½d.; that on oats, by a decree of 1888, to 1s. 7½d.; and that on
 maize, by a decree of 1896, to 3s. 0½d. The duty on flour, fixed at 1s.
@@ -594,7 +594,7 @@ flour, 3s. 9¾d.
 
   India.
 
-  Australia, New Zealand, Canada.
+  [[Australia]], New Zealand, Canada.
 
   South Africa.
 
@@ -612,7 +612,7 @@ exportation. The same remark applies to Russia, whose exportation and
 importation are alike free, though there is an import duty on wheat
 flour of 2s. 11½d. per cwt. In the British colonies probably the only
 example of an export duty is that on rice in British India; it amounts
-to 3 annas per maund (4d. per cwt.). The import of grain into India is
+to 3 [[Anna|annas]] per maund (4d. per cwt.). The import of grain into India is
 free. In Australia, New Zealand, Canada, and all mainly agricultural
 countries, there is no export duty. In each of these countries, however,
 there is an import duty; in the cases of Australia and New Zealand,
@@ -621,9 +621,9 @@ on the part of the other. The Australian import duty is 1s. 6d. per
 cental (100 lb av.), and the New Zealand 9d. per cental. The Canadian
 import duties on grain are important only in the light of being a
 species of retaliation against similar duties imposed by the United
-States with the design of restricting inter-frontier exchange. The
-Canadian import duty is, on barley, 30% _ad valorem_; on buckwheat, rye
-and oats, 4.93d. per bushel, and on wheat, 5.92d. per bushel. The South
+States with the design of restricting inter-frontier [[Exchange|exchange]]. The
+Canadian import duty is, on barley, 30% _ad valorem_; on [[Buckwheat|buckwheat]], rye
+and oats, 4.93d. per [[Bushel|bushel]], and on wheat, 5.92d. per bushel. The South
 African production of cereal is still insufficient to meet the demand
 for home consumption, and there is a considerable grain importation. The
 import duty, which undoubtedly acts as an encouragement to home

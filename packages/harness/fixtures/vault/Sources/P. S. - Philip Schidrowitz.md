@@ -2,10 +2,10 @@
 
 P. S. - PHILIP SCHIDROWITZ, PH.D., F.C.S.
 Member of Council, Institute of Brewing; Member of Committee of Society of
-Chemical Industry. Author of numerous articles on the Chemistry and
+Chemical Industry. Author of numerous articles on the [[Chemistry]] and
 Technology of Brewing, Distilling, &c.
 
-- Beer.
+- [[Beer]].
 
 R. A.* - ROBERT ANCHEL.
 Archivist of the Département de l'Eure.
@@ -15,7 +15,7 @@ Archivist of the Département de l'Eure.
 R. Ad. - ROBERT ADAMSON, M.A., LL.D.
 See the biographical article: ADAMSON, ROBERT.
 
-- Bacon, Francis; Bacon, Roger; Beneke; Berkeley, Bishop.
+- Bacon, Francis; Bacon, Roger; [[Beneke]]; [[Berkeley]], Bishop.
 
 ## See also
 

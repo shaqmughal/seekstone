@@ -24,7 +24,7 @@ were such societies, composed of handicraftsmen, which entered upon a
 struggle with the earlier gilds and finally defeated them. The
 circumstances and results of the struggle were of much the same
 character in England and on the continent. In London the victory of the
-crafts is decisively marked by the ordinance of the time of Edward II.,
+[[Craft|crafts]] is decisively marked by the ordinance of the time of Edward II.,
 which required every citizen to be a member of some trade or mystery,
 and by another ordinance in 1375 which transferred the right of election
 of corporate officers (including members of parliament) from the
@@ -32,22 +32,22 @@ ward-representatives to the trading companies. Henceforward, and for
 many years, the companies engrossed political and municipal power in the
 city of London.
 
-The trading fraternities assumed generally the character of corporations
+The trading [[Fraternities|fraternities]] assumed generally the character of corporations
 in the reign of Edward III. Many of them had been chartered before, but
 their privileges, hitherto exercised only on sufferance and by payment
 of their terms, were now confirmed by letters patent. Edward III.
 himself became a member of the fraternity of Linen Armourers, or
 Merchant Taylors, and other distinguished persons followed his example.
 From this time they are called livery companies, "from now generally
-assuming a distinctive dress or livery." The origin of the Grocers'
+assuming a distinctive [[Dress|dress]] or [[Livery|livery]]." The origin of the Grocers'
 Company is thus described: "Twenty-two persons, carrying on the business
-of pepperers in Soper's Lane, Cheapside, agree to meet together, to a
-dinner, at the Abbot of Bury's, St Mary Axe, and commit the particulars
+of pepperers in Soper's [[Lane]], Cheapside, agree to meet together, to a
+[[Dinner|dinner]], at the Abbot of Bury's, St Mary Axe, and commit the particulars
 of their formation into a trading society to writing. They elect after
 dinner two persons of the company so assembled--Roger Osekyn and
-Lawrence de Haliwell--as their first governors or wardens, appointing,
+[[Lawrence]] de Haliwell--as their first governors or wardens, appointing,
 at the same time, in conformity with the pious custom of the age, a
-priest or chaplain to celebrate divine offices for their souls" (Heath's
+priest or [[Chaplain|chaplain]] to celebrate divine offices for their souls" (Heath's
 "Account of the Grocers' Company," quoted in Herbert's _Twelve Great
 Livery Companies_, 1836, i. 43). The religious observances and the
 common feasts were characteristic features of those institutions. They
@@ -69,7 +69,7 @@ merchants called grocers who engrossed all manner of merchandize
 vendable, and who suddenly raised the prices of such merchandize within
 the realm," it was enacted "that all artificers and people of mysteries
 shall each choose his own mystery[1] before next Candlemas, and that,
-having so chosen it, he shall henceforth use no other." L. Brentano (_On
+having so chosen it, he shall henceforth use no other." L. [[Brentano]] (_On
 Gilds_) holds that it is wrong to represent such regulations as
 monopolistic, inasmuch as there was no question whatever of a monopoly
 in that time nor until the degeneration of the craftgilds into limited
@@ -99,7 +99,7 @@ Persons might be members who had nothing to do with the craft, and the
 rise of great capitalists and the development of competition in trade
 made the regulation of industry by means of companies no longer
 possible. For an account of the "degeneration of craftgilds" a general
-reference may be made to Brentano, _On Gilds_ (1870), and C. Gross, _The
+reference may be made to Brentano, _On Gilds_ (1870), and C. [[Gross]], _The
 Gild Merchant_ (2 vols., 1890). The usurpation of power on the part of
 the richer members was not always effected without opposition. Brentano
 refers to a pamphlet on the Clothworkers' Company, published in 1649,
@@ -109,7 +109,7 @@ records a dispute in the Goldsmiths' Company in 1529. The mode of
 electing officers, and the system of management generally, was
 challenged by three members who called themselves "artificers, poor men
 of the craft of goldsmiths." The company, or rather, the wardens, the
-assistants and livery presented a petition to the lord mayor, which was
+assistants and livery presented a petition to the lord [[Mayor|mayor]], which was
 answered by the discontented craftsmen. The dispute was carried into the
 court of chancery and the star chamber. The artificers accused the
 company of subverting their grants, misappropriating the funds and
@@ -147,7 +147,7 @@ liverymen were no longer a representative class, and some change in the
 system became necessary. The Reform Acts of 1832 and 1867 reformed the
 representation in several particulars. The liverymen of the companies,
 being freemen of the city, have still, however, the exclusive power of
-electing the lord mayor, sheriffs, chamberlain and other corporate
+electing the lord mayor, sheriffs, [[Chamberlain|chamberlain]] and other corporate
 officers.
 
 The contributions made by the companies to the public purposes of the
@@ -169,7 +169,7 @@ we may regard them as a rough but not unfair mode of taxation. The
 government, when money was wanted for public works, informed the lord
 mayor, who apportioned the sums required among the various societies,
 and issued precepts for its payment. Contributions towards setting the
-poor to work, erecting the Royal Exchange, cleansing the city ditch,
+poor to work, erecting the Royal [[Exchange]], cleansing the city ditch,
 discovering new countries, furnishing military and naval armaments, for
 men, arms and ammunition for the defence of the city, are among what
 Herbert calls the sponging expedients of the government. The crown
@@ -185,29 +185,29 @@ existence are the following:
   Apothecaries.   | Fellowship Porters. | Needlemakers.
   Armourers and   | Feltmakers.         | Painters.
     Brasiers.     | Fishmongers.        | Pattern Makers.
-  Bakers.         | Fletchers.          | Pewterers.
-  Barbers.        | Founders.           | Plaisterers.
+  [[Baker|Bakers]].         | Fletchers.          | Pewterers.
+  [[Barber|Barbers]].        | Founders.           | Plaisterers.
   Basket Makers.  | Framework Knitters. | Playing Card
   Blacksmiths.    | Fruiterers.         |   Makers.
   Bowyers.        | Girdlers.           | Plumbers.
-  Brewers.        | Glass Sellers.      | Poulters.
+  [[Brewer|Brewers]].        | Glass Sellers.      | Poulters.
   Broderers.      | Glaziers.           | Saddlers.
-  Butchers.       | Glovers.            | Salters.
+  [[Butcher|Butchers]].       | [[Glover|Glovers]].            | Salters.
   Carmen.         | Gold and Silver     | Scriveners.
   Carpenters      |   Wyre-drawers.     | Shipwrights.
   Clockmakers.    | Goldsmiths.         | Silkthrowsters.
   Clothworkers.   | Grocers.            | Skinners.
   Coach and       | Gunmakers.          | Spectacle makers.
-    Coach-Harness | Haberdashers        | Stationers.
+    Coach-Harness | [[Haberdasher|Haberdashers]]        | Stationers.
     Makers.       | Horners.            | Tallow Chandlers.
-  Cooks.          | Innholders.         | Tin Plate Workers.
+  [[Cook|Cooks]].          | Innholders.         | Tin Plate Workers.
   Coopers.        | Ironmongers.        | Turners.
   Cordwainers.    | Joiners.            | Tylers and
   Curriers.       | Leathersellers.     |   Bricklayers.
-  Cutlers.        | Loriners.           | Upholders.
+  [[Cutler|Cutlers]].        | [[Loriner|Loriners]].           | Upholders.
   Distillers.     | Masons.             | Wax Chandlers.
-  Drapers.        | Mercers.            | Weavers.
-  Dyers.          | Merchant Taylors.   | Wheelwrights.
+  [[Draper|Drapers]].        | Mercers.            | Weavers.
+  [[Dyer|Dyers]].          | Merchant Taylors.   | Wheelwrights.
   Fanmakers.      | Musicians.          | Woolmen.
   Farriers.       |                     |
 
@@ -239,7 +239,7 @@ which the society still acts.
   age born in lawful wedlock after the admission of his father to the
   freedom), by servitude (by being bound as an apprentice to a freeman
   of the company) or by redemption. Admission to many of the companies
-  is subject to the payment of considerable fees. For example, in the
+  is subject to the payment of considerable [[Fee|fees]]. For example, in the
   Merchant Taylors the fees are--upon taking up the freedom, by
   patrimony or servitude, £1, 3s. 4d.; by redemption, £84; on admission
   to the livery, £80, 8s.; on election to the court of assistants, £115,
@@ -263,7 +263,7 @@ which the society still acts.
   Bowyers, Distillers, Glovers, Tin-Plate Workers and Weavers. The
   Commission estimated the annual income of the companies to be from
   £750,000 to £800,000, about £200,000 of that amount being trust
-  income, the balance corporate income.
+  income, the [[Balance|balance]] corporate income.
 
   AUTHORITIES.--In addition to the _Report_ referred to above the
   following works may be consulted: H. T. Riley, _Memorials of London
@@ -273,7 +273,7 @@ which the society still acts.
   1859-1862); J. Toulmin Smith, _English Gilds_ (published by Early
   English Text Society), with essay by L. Brentano (1870); W. Herbert,
   _History of the Twelve Great Livery Companies_ (1837); C. Gross, _The
-  Gild Merchant_ (2 vols., 1890); W. C. Hazlitt, _The Livery Companies
+  Gild Merchant_ (2 vols., 1890); W. C. [[Hazlitt]], _The Livery Companies
   of the City of London_ (1892), contains a précis of the Royal
   Commission; P. H. Ditchfield, _The City Companies of London_ (1904);
   G. Unwin, _The Gilds and Companies of London_ (1908).     (T. A. I.)
@@ -285,7 +285,7 @@ FOOTNOTE:
     "mistery;" it comes through the O. Fr. _mestier_, modern _métier_,
     from Lat. _ministerium_, service, employment, and meant a trade or
     craft, and hence the plays acted by craftsmen and members of gilds
-    were called "mystery plays" (see DRAMA). For the word meaning a
+    were called "mystery plays" (see [[Drama|DRAMA]]). For the word meaning a
     hidden or secret rite, with which this has so often been confused,
     see MYSTERY.
 

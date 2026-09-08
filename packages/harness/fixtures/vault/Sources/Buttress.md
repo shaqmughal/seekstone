@@ -8,20 +8,20 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Buttress"
 # Buttress
 
 BUTTRESS (from the O. Fr. _bouteret_, that which bears a thrust, from
-_bouter_, to push, cf. Eng. "butt" and "abutment"), masonry projecting from
+_bouter_, to push, cf. Eng. "[[Butt|butt]]" and "abutment"), [[Masonry|masonry]] projecting from
 a wall, provided to give additional strength to the same, and also to
 resist the thrust of the roof or wall, especially when concentrated at any
 one point. In Roman architecture the plans of the building, where the
 vaults were of considerable span and the thrust therefore very great, were
 so arranged as to provide cross-walls, dividing the aisles, as in the case
-of the Basilica of Maxentius, and, in the Thermae of Rome, the subdivisions
+of the [[Basilica]] of [[Maxentius]], and, in the Thermae of Rome, the subdivisions
 of the less important halls, so that there were no visible buttresses. In
-the baths of Diocletian, however, these cross-walls rose to the height of
+the baths of [[Diocletian]], however, these cross-walls rose to the height of
 the great vaulted hall, the tepidarium, and their upper portions were
 decorated with niches and pilasters. In a palace at Shuka in Syria,
 attributed to the end of the 2nd century A.D., where, in consequence of the
 absence of timber, it was necessary to cover over the building with slabs
-of stones, these latter were carried on arches thrown across the great
+of stones, these latter were carried on [[Arches|arches]] thrown across the great
 hall, and this necessitated two precautions, viz. the provision of an
 abutment inside the building, and of buttresses outside, the earliest
 example in which the feature was frankly accepted. In Byzantine work there

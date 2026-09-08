@@ -11,7 +11,7 @@ extending through part of Oxfordshire, Buckinghamshire and Bedfordshire.
 Running from S.W. to N.E., they form a well-marked escarpment
 north-westward, while the south-eastern slope is long. The name of
 Chilterns is applied to the hills between the Thames in the
-neighbourhood of Goring and the headwaters of its tributary the Lea
+neighbourhood of [[Goring]] and the headwaters of its tributary the Lea
 between Dunstable and Hitchin, the crest line between these points being
 about 55 m. in length. But these hills are part of a larger chalk
 system, continuing the line of the White Horse Hills from Berkshire, and
@@ -117,7 +117,7 @@ accordingly spoken of as taking the Chiltern Hundreds.
   1820. After 1820 it was discontinued and finally abolished in 1838.
 
   6. _Steward of the Manor of Old Shoreham, Sussex._--This manor
-  belonged to the duchy of Cornwall, and it is difficult to understand
+  belonged to the duchy of [[Cornwall]], and it is difficult to understand
   how it came to be regarded as a crown appointment. It was first used
   for parliamentary purposes in 1756, and then, occasionally, until
   1799, in which year it was sold by the duchy to the duke of Norfolk.

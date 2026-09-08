@@ -1,8 +1,8 @@
 # Handicap
 
-HANDICAP (from the expression _hand in cap_, referring to drawing lots),
+HANDICAP (from the expression _hand in cap_, referring to drawing [[Lot|lots]]),
 a disadvantageous condition imposed upon the superior competitor in
-sports and games, or an advantage allowed the inferior, in order to
+sports and [[Games|games]], or an advantage allowed the inferior, in order to
 equalize the chances of both. The character of the handicap depends upon
 the nature of the sport. Thus in horse-racing the better horse must
 carry the heavier weight. In foot races the inferior runners are allowed
@@ -12,10 +12,10 @@ fly-casting, jumping, &c.) the inferior contestants add certain
 distances to their scores. In time contests (yachting, canoe-racing,
 &c.) the weaker or smaller competitors subtract certain periods of time
 from that actually made, reckoned by the mile. In stroke contests (e.g.
-golf) a certain number of strokes are subtracted from or added to the
-scores, according to the strength of the players. In chess and draughts
+[[Golf|golf]]) a certain number of strokes are subtracted from or added to the
+scores, according to the strength of the players. In chess and [[Draughts|draughts]]
 the stronger competitor may play without one or more pieces. In court
-games (tennis, lawn-tennis, racquets, &c.) and in billiards certain
+games (tennis, [[Lawn-Tennis|lawn-tennis]], racquets, &c.) and in [[Billiards|billiards]] certain
 points, or percentage of points, are accorded the weaker players.
 
 Handicapping was applied to horse-racing as early as 1680, though the
@@ -31,20 +31,20 @@ his inferior with a selzer-bottle instead of a racquet; or a golfer to
 play with only one club; or a chess-player to make his moves without
 seeing the board.
 
-The name "handicap" was taken from an ancient English game, to which
+The name "handicap" was taken from an ancient English [[Game|game]], to which
 Pepys, in his _Diary_ under the date of the 18th of September 1660, thus
 refers: "Here some of us fell to handicap, a sport that I never knew
 before, which was very good." This game, which became obsolete in the
 19th century, was described as early as the 14th in _Piers the Plowman_
 under the name of "New Faire." It was originally played by three
-persons, one of whom proposed to "challenge," or exchange, some piece of
+persons, one of whom proposed to "challenge," or [[Exchange|exchange]], some piece of
 property belonging to another for something of his own. The challenge
 being accepted an umpire was chosen, and all three put up a sum of money
 as a forfeit. The two players then placed their right hands in a cap, or
 in their pockets, in which there was loose money, while the umpire
 proceeded to describe the two objects of exchange, and to declare what
 sum of money the owner of the inferior article should pay as a bonus to
-the other. This declaration was made as rapidly as possible and ended
+the other. This [[Declaration|declaration]] was made as rapidly as possible and ended
 with the invitation, "Draw, gentlemen!" Each player then withdrew and
 held out his hand, which he opened. If both hands contained money the
 exchange was effected according to the conditions laid down by the
@@ -54,8 +54,8 @@ forfeit money. If only one player signified his acceptance of the
 exchange by holding money in his hand, he was entitled to the
 forfeit-money, though the exchange was not made.
 
-Handicap was also the name of an old game at cards, now obsolete. It
-resembled the game of Loo, and probably derived its name from the
+Handicap was also the name of an old game at [[Cards|cards]], now obsolete. It
+resembled the game of [[Loo]], and probably derived its name from the
 ancient sport described above.
 
 ## See also

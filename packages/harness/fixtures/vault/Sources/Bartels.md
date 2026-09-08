@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bartels"
 
 # Bartels
 
-BARTELS, HANS VON (1856- ), German painter, was born in Hamburg, the son of
+BARTELS, HANS VON (1856- ), German painter, was born in [[Hamburg]], the son of
 Dr N. F. F. von Bartels, a Russian government official. He studied first
 under the marine painter R. Hardorff in Hamburg, then under C. Schweitzer
 in Düsseldorf and C. Oesterley in Hamburg, and finally at the Berlin School
@@ -20,7 +20,7 @@ vigour and a great display of technical skill. He excels in storm scenes
 and in depicting the strong, healthy fishing-folk of the northern coasts.
 He became an honorary member of leading English, German, Dutch, Belgian and
 Austrian art societies. Among his principal works are:--"Sturmflut" (Berlin
-Gallery); "Lonely Beach" (Hungarian National Gallery); "Potato
+Gallery); "Lonely [[Beach]]" (Hungarian National Gallery); "Potato
 Harvest--Rügen" (Prague); "Storm--Bornholm" (German emperor's collection);
 and "Moonlight on the Zuyder Zee" (New Pinakothek, Munich).
 

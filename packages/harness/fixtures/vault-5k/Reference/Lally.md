@@ -26,10 +26,10 @@ outset met with some trifling military success. He was a man of courage
 and a capable general; but his pride and ferocity made him disliked by
 his officers and hated by his soldiers, while he regarded the natives as
 slaves, despised their assistance, and trampled on their traditions of
-caste. In consequence everything went wrong with him. He was
+[[Caste|caste]]. In consequence everything went wrong with him. He was
 unsuccessful in an attack on Tanjore, and had to retire from the siege
 of Madras (1758) owing to the timely arrival of the British fleet. He
-was defeated by Sir Eyre Coote at Wandiwash (1760), and besieged in
+was defeated by Sir [[Eyre]] Coote at Wandiwash (1760), and besieged in
 Pondicherry and forced to capitulate (1761). He was sent as a prisoner
 of war to England. While in London, he heard that he was accused in
 France of treachery, and insisted, against advice, on returning on

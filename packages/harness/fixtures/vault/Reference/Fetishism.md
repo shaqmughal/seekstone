@@ -6,7 +6,7 @@ negro religion in general; (c) the worship of inanimate objects
 conceived as the residence of spirits not inseparably bound up with, nor
 originally connected with, such objects; (d) the doctrine of spirits
 embodied in, or attached to, or conveying influence through, certain
-material objects (Tylor); (e) the use of charms, which are not
+material objects (Tylor); (e) the use of [[Charm|charms]], which are not
 worshipped, but derive their magical power from a god or spirit; (f) the
 use as charms of objects regarded as magically potent in themselves. A
 further extension is given by some writers, who use the term as
@@ -18,7 +18,7 @@ animism.
 
 _Derivation._--The word fetish (or fetich) was first used in connexion
 with Africa by the Portuguese discoverers of the last half of the 15th
-century; relics of saints, rosaries and images were then abundant all
+century; relics of saints, rosaries and [[Image|images]] were then abundant all
 over Europe and were regarded as possessing magical virtue; they were
 termed by the Portuguese _feiticos_ (_i.e._ charms). Early voyagers to
 West Africa applied this term to the wooden figures, stones, &c.,
@@ -32,7 +32,7 @@ _Du culte des dieux fétiches_ (1760), but it is frequently used by W.
 Bosman in his _Description of Guinea_ (1705), in the sense of "the false
 god, Bossum" or "Bohsum," properly a tutelary deity of an individual.
 
-_Definition._--The term fetish is commonly understood to mean the
+_[[Definition]]._--The term fetish is commonly understood to mean the
 worship of or respect for material, inanimate objects, conceived as
 magically active from a virtue inherent in them, temporarily or
 permanently, which does not arise from the fact that a god or spirit is
@@ -57,7 +57,7 @@ in question. After making an offering the object is carried to an
 appropriate spot and a "fetish" tree set up as a shade for it, which is
 sacred so long as the _bohsum_ remains beneath it. The fall of the tree
 is believed to mark the departure of the spirit. A _bohsum_ may also be
-procured through a dream; but in this case, too, it is necessary to
+procured through a [[Dream|dream]]; but in this case, too, it is necessary to
 apply to the priest to decide whether the dream was veridical. (b) The
 _suhman_ or tutelary deity of an individual is not an object selected at
 random to be the residence of the spirit. It is only procurable at the
@@ -94,8 +94,8 @@ driven, in order to procure the vengeance of the indwelling spirit on
 some enemy.
 
 In many cases the fetish spirit is believed to leave the "god-house" and
-pass for the time being into the body of the priest, who manifests the
-phenomena of possession (q.v.). It is a common error to suppose that the
+pass for the time being into the body of the priest, who [[Manifest|manifests]] the
+phenomena of possession (q.v.). It is a common [[Error|error]] to suppose that the
 whole of African religion is embraced in the practices connected with
 these tutelary deities; so far from this being the case, belief in
 higher gods, not necessarily accompanied with worship or propitiation,
@@ -106,7 +106,7 @@ Christian or Mahommedan missionaries.
   See A.B. Ellis, _Tshi-speaking Peoples_, chs. vii., viii. and xii.;
   Waitz, _Anthropologie der Naturvölker_, ii. 174; R.E. Dennett in
   _Folklore_, vol. xvi.; R.H. Nassau, _Fetichism in West Africa_ (1904);
-  also Tylor, _Primitive Culture_, ii. 143, and M.H. Kingsley, _West
+  also Tylor, _Primitive Culture_, ii. 143, and M.H. [[Kingsley]], _West
   African Studies_ (2nd ed., 1901), where the term is used in a more
   extended sense.     (N. W. T.)
 

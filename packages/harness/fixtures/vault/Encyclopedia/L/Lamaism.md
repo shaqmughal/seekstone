@@ -13,7 +13,7 @@ that in which Roman Catholicism, so long as the temporal power of the
 pope was still in existence, stood to primitive Christianity. The
 ethical and metaphysical ideas most conspicuous in the doctrines of
 Lamaism are not confined to the highlands of central Asia, they are
-accepted in great measure also in Japan and China. It is the union of
+accepted in great measure also in [[Japan]] and China. It is the union of
 these ideas with a hierarchical system, and with the temporal
 sovereignty of the head of that system in Tibet, which constitutes what
 is distinctively understood by the term Lamaism. Lamaism has acquired a
@@ -42,14 +42,14 @@ that only a Buddha is capable of discovering that doctrine, and that a
 Buddha is a man who by self-denying efforts, continued through many
 hundreds of different births, has acquired the so-called _Ten Paramitas_
 or cardinal virtues in such perfection that he is able, when sin and
-ignorance have gained the upper hand throughout the world, to save the
+[[Ignorance|ignorance]] have gained the upper hand throughout the world, to save the
 human race from impending ruin. But until the process of perfection has
 been completed, until the moment when at last the sage, sitting under
 the Wisdom tree acquires that particular insight or wisdom which is
 called Enlightenment or Buddhahood, he is still only a Bodhisat. The
 link of connexion between the various Bodhisats in the future Buddha's
 successive births is not a soul which is transferred from body to body,
-but the _karma_, or character, which each successive Bodhisat inherits
+but the _[[Karma|karma]]_, or character, which each successive Bodhisat inherits
 from his predecessors in the long chain of existences. Now the older
 school also held, in the first place, that, when a man had, in this
 life, attained to Arahatship, his karma would not pass on to any other
@@ -77,14 +77,14 @@ being directed to the details of Bodhisatship. And the opinion that
 every leader in their religious circles, every teacher distinguished
 among them for his sanctity of life, or for his extensive learning, was
 a Bodhisat, who might have and who probably had inherited the karma of
-some great teacher of old, opened the door to a flood of superstitious
+some great teacher of old, opened the door to a [[Flood|flood]] of superstitious
 fancies.
 
 It is worthy of note that the new school found its earliest professors
 and its greatest expounders in a part of India outside the districts to
 which the personal influence of Gotama and of his immediate followers
 had been confined. The home of early Buddhism was round about Kosala and
-Magadha; in the district, that is to say, north and south of the Ganges
+Magadha; in the district, that is to say, north and south of the [[Ganges]]
 between where Allahabad now lies on the west and Rajgir on the east. The
 home of the Great Vehicle was, at first, in the countries farther to the
 north and west. Buddhism arose in countries where Sanskrit was never
@@ -106,7 +106,7 @@ only one of them has as yet been published in Europe (the _Lalita
 Vistara_, edited by Lofmann), and only two have been translated into any
 European language. These are the _Lalita Vistara_, translated into
 French, through the Tibetan, by M. Foucaux, and the _Saddharma
-Pundarika_, translated into English by Professor Kern. The former is
+Pundarika_, translated into English by Professor [[Kern]]. The former is
 legendary work, partly in verse, on the life of Gotama, the historical
 Buddha; and the latter, also partly in verse, is devoted to proving the
 essential identity of the Great and the Little Vehicles, and the equal
@@ -120,13 +120,13 @@ name of Nagarjuna, whose probable date is about A.D. 200.
 Together with Nagarjuna, other early teachers of the Great Vehicle whose
 names are known are Vasumitra, Vasubandhu, Aryadeva, Dharmapala and
 Gunamati--all of whom were looked upon as Bodhisats. As the newer school
-did not venture so far as to claim as Bodhisats the disciples stated in
+did not venture so far as to claim as Bodhisats the [[Disciple|disciples]] stated in
 the older books to have been the contemporaries of Gotama (they being
 precisely the persons known as Arahats), they attempted to give the
 appearance of age to the Bodhisat theory by representing the Buddha as
 being surrounded, not only by his human companions the Arahats, but also
 by fabulous beings, whom they represented as the Bodhisats existing at
-that time. In the opening words of each Mahayana treatise a list is
+that time. In the opening words of each [[Mahayana]] treatise a list is
 given of such Bodhisats, who were beginning, together with the
 historical Bodhisats, to occupy a position in the Buddhist church of
 those times similar to that occupied by the saints in the corresponding
@@ -146,7 +146,7 @@ Mañju-sri and Avalokitesvara. That these saints were already
 acknowledged by the followers of the Great Vehicle at the beginning of
 the 5th century is clear from the fact that Fa Hien, who visited India
 about that time, says that "men of the Great Vehicle" were then
-worshipping them at Mathura, not far from Delhi (F. H., chap. xvi.).
+worshipping them at Mathura, not far from [[Delhi]] (F. H., chap. xvi.).
 These were supposed to be celestial beings who, inspired by love of the
 human race, had taken the so-called Great Resolve to become future
 Buddhas, and who therefore descended from heaven when the actual Buddha
@@ -191,7 +191,7 @@ the Dhyani-Buddha of this trinity, soon began to fill the largest place
 in the minds of the new school; and Avalokiteswara, his Bodhisat, was
 looked upon with a reverence somewhat less than his former glory. It is
 needless to add that, under the overpowering influence of these vain
-imaginations, the earnest moral teachings of Gotama became more and more
+[[Imagination|imaginations]], the [[Earnest|earnest]] moral teachings of Gotama became more and more
 hidden from view. The imaginary saints grew and flourished. Each new
 creation, each new step in the theory, demanded another, until the whole
 sky was filled with forgeries of the brain, and the nobler and simpler
@@ -204,18 +204,18 @@ practical lessons of Arahatship, turned their attention, as far as it
 was not engaged upon their hierarchy of mythological beings, to
 questions of metaphysical speculation, which, in the earliest Buddhism,
 are not only discouraged but forbidden. We find long treatises on the
-nature of being, idealistic dreams which have as little to do with the
+nature of being, idealistic [[Dream|dreams]] which have as little to do with the
 Bodhisatship that is concerned with the salvation of the world as with
 the Arahatship that is concerned with the perfect life. Only one lower
 step was possible, and that was not long in being taken. The animism
 common alike to the untaught Huns and to their Hindu conquerors, but
 condemned in early Buddhism, was allowed to revive. As the stronger side
 of Gotama's teaching was neglected, the debasing belief in rites and
-ceremonies, and charms and incantations, which had been the especial
+ceremonies, and [[Charm|charms]] and [[Incantation|incantations]], which had been the especial
 object of his scorn, began to spread like the Birana weed warmed by a
 tropical sun in marsh and muddy soil. As in India, after the expulsion
-of Buddhism, the degrading worship of Siva and his dusky bride had been
-incorporated into Hinduism from the savage devil worship of Aryan and of
+of Buddhism, the degrading worship of Siva and his dusky [[Bride|bride]] had been
+incorporated into [[Hinduism]] from the savage devil worship of [[Aryan]] and of
 non-Aryan tribes, so, as pure Buddhism died away in the north, the
 _Tantra_ system, a mixture of magic and witchcraft and sorcery, was
 incorporated into the corrupted Buddhism.
@@ -243,10 +243,10 @@ his own country and Nepal, the new wine, sweet and luscious to the taste
 of savages, completely disqualified them from enjoying any purer drink;
 and now in both countries Saivism is supreme, and Buddhism is even
 nominally extinct, except in some outlying districts of Nepal. But this
-full effect has only been worked out in the lapse of ages; the Tantra
+full effect has only been worked out in the [[Lapse|lapse]] of ages; the Tantra
 literature has also had its growth and its development, and some unhappy
 scholar of a future age may have to trace its loathsome history. The
-nauseous taste repelled even the self-sacrificing industry of Burnouf,
+nauseous taste repelled even the self-sacrificing industry of [[Burnouf]],
 when he found the later Tantra books to be as immoral as they are
 absurd. "The pen," he says, "refuses to transcribe doctrines as
 miserable in respect of form as they are odious and degrading in respect
@@ -260,14 +260,14 @@ developed at last into a hierarchical monarchy will best be understood
 by a sketch of the history of Tibet.
 
 
-  Early political history.
+  Early [[Political History|political history]].
 
 Its real history commences with Srong Tsan Gampo, who was born a little
 after 600 A.D., and who is said in the Chinese chronicles to have
 entered, in 634, into diplomatic relationship with Tai Tsung, one of the
 emperors of the Tang dynasty. He was the founder of the present capital
 of Tibet, now known as Lhasa; and in the year 622 (the same year as that
-in which Mahomet fled from Mecca) he began the formal introduction of
+in which Mahomet fled from [[Mecca]]) he began the formal introduction of
 Buddhism into Tibet. For this purpose he sent the minister Thumi
 Sambhota, afterwards looked upon as an incarnation of Mañju-sri, to
 India, there to collect the sacred books, and to learn and translate
@@ -280,9 +280,9 @@ _Mani Kambum_, "the Myriad of Precious Words"--a treatise chiefly on
 religion, but which also contains an account of the introduction of
 Buddhism into Tibet, and of the closing part of the life of Srong Tsan
 Gampo. He is also very probably the author of another very ancient
-standard work of Tibetan Buddhism, the _Samatog_, a short digest of
-Buddhist morality, on which the civil laws of Tibet have been founded.
-It is said in the _Mani Kambum_ to have fallen from heaven in a casket
+standard work of Tibetan Buddhism, the _Samatog_, a short [[Digest|digest]] of
+Buddhist morality, on which the [[Civil Law|civil laws]] of Tibet have been founded.
+It is said in the _Mani Kambum_ to have fallen from heaven in a [[Casket|casket]]
 (Tibetan, _samatog_), and, like the last-mentioned work, is only known
 to us in meagre abstract.
 
@@ -303,11 +303,11 @@ Yin_, a personification of Avalokitesvara as the heavenly word, who is
 often represented with a child in her arms. Srong Tsan Gampo has also
 become a saint, being looked upon as an incarnation of Avalokitesvara;
 and the description in the ecclesiastical historians of the measures he
-took for the welfare of his subjects do great credit to their ideal of
+took for the welfare of his subjects do great [[Credit|credit]] to their ideal of
 the perfect Buddhist king. He is said to have spent his long reign in
 the building of reservoirs, bridges and canals; in the promotion of
-agriculture, horticulture and manufactures; in the establishment of
-schools and colleges; and in the maintenance of justice and the
+agriculture, [[Horticulture|horticulture]] and manufactures; in the establishment of
+schools and colleges; and in the [[Maintenance|maintenance]] of justice and the
 encouragement of virtue. But the degree of his success must have been
 slight. For after the death of himself and of his wives Buddhism
 gradually decayed, and was subjected by succeeding kings to cruel
@@ -322,7 +322,7 @@ established in the land.
 This monarch again sent to India to replace the sacred books that had
 been lost, and to invite Buddhist pandits to translate them. The most
 distinguished of those who came were Santa Rakshita, Padma Sambhava and
-Kamala Sila, for whom, and for their companions, the king built a
+[[Kamala]] Sila, for whom, and for their companions, the king built a
 splendid monastery still existing, at Samje, about three days' journey
 south-east of Lhasa. It was to them that the Tibetans owed the great
 collection of what are still regarded as their sacred books--the
@@ -382,8 +382,8 @@ petty wars, and conducted plundering expeditions against the
 neighbouring tenants, whilst the great abbeys were places of refuge for
 the studious or religious, and their heads were the only rivals to the
 barons in social state, and in many respects the only protectors and
-friends of the people. Meanwhile Jenghiz Khan had founded the Mongol
-empire, and his grandson Kublai Khan became a convert to the Buddhism of
+friends of the people. Meanwhile Jenghiz [[Khan]] had founded the Mongol
+empire, and his grandson [[Kublai Khan]] became a convert to the Buddhism of
 the Tibetan Lamas. He granted to the abbot of the Sakya monastery in
 southern Tibet the title of tributary sovereign of the country, head of
 the Buddhist church, and overlord over the numerous barons and abbots,
@@ -399,7 +399,7 @@ Under Kublai's successors in China the Buddhist cause flourished
 greatly, and the Sakya Lamas extended their power both at home and
 abroad. The dignity of abbot at Sakya became hereditary, the abbots
 breaking so far the Buddhist rule of celibacy that they remained married
-until they had begotten a son and heir. But rather more than half a
+until they had begotten a son and [[Heir|heir]]. But rather more than half a
 century afterwards their power was threatened by a formidable rival at
 home, a Buddhist reformer.
 
@@ -420,7 +420,7 @@ Europe, but have not yet been translated or analysed. But the principal
 lines on which his reformation proceeded are sufficiently attested. He
 insisted in the first place on the complete carrying out of the ancient
 rules of the order as to the celibacy of its members, and as to
-simplicity in dress. One result of the second of these two reforms was
+simplicity in [[Dress|dress]]. One result of the second of these two reforms was
 to make it necessary for every monk openly to declare himself either in
 favour of or against the new views. For Tsongkapa and his followers wore
 the yellow or orange-coloured garments which had been the distinguishing
@@ -440,8 +440,8 @@ the practice of the paramitas or cardinal virtues, and established an
 annual national fast or week of prayer to be held during the first days
 of each year. This last institution indeed is not found in the ancient
 Vinaya, but was almost certainly modelled on the traditional account of
-the similar assemblies convoked by Asoka and other Buddhist sovereigns
-in India every fifth year. Laymen as well as monks take part in the
+the similar assemblies convoked by [[Asoka]] and other Buddhist sovereigns
+in India every fifth year. [[Laymen]] as well as monks take part in the
 proceedings, the details of which are unknown to us except from the
 accounts of the Catholic missionaries--Fathers Huc and Gabet--who
 describe the principal ceremonial as, in outward appearance, wonderfully
@@ -492,7 +492,7 @@ deceased Great Lama are laid before his survivor. He chooses three out
 of the whole number; their names are thrown into a golden casket
 provided for that purpose by a former emperor of China. The Chutuktus,
 or abbots of the great monasteries, then assemble, and after a week of
-prayer, the lots are drawn in their presence and in presence of the
+prayer, the [[Lot|lots]] are drawn in their presence and in presence of the
 surviving Great Lama and of the Chinese political resident. The child
 whose name is first drawn is the future Great Lama; the other two
 receive each of them 500 pieces of silver. The Chutuktus just mentioned
@@ -510,7 +510,7 @@ possess one of these living Buddhas. Besides these mystical persons
 there are in the Tibetan church other ranks and degrees, corresponding
 to the deacon, full priest, dean and doctor of divinity in the West. At
 the great yearly festival at Lhasa they make in the cathedral an
-imposing array, not much less magnificent than that of the clergy in
+imposing [[Array|array]], not much less magnificent than that of the clergy in
 Rome; for the ancient simplicity of dress has disappeared in the growing
 differences of rank, and each division of the spiritual army is
 distinguished in Tibet, as in the West, by a special uniform. The
@@ -526,12 +526,12 @@ practically under his control or influence.
   xii.; Sanang Setzen's _History of the East Mongols_ (in Mongolian,
   translated into German by J. Schmidt, _Geschichte der Ost-Mongolen_);
   "Analyse du Kandjur," by M. Léon Feer, in _Annales du Musée Gaimet_
-  (1881); Schott, _Ueber den Buddhismus in Hoch-Asien_; Gutzlaff,
-  _Geschichte des Chinesischen Reiches_; Hue and Gabet, _Souvenirs d'un
+  (1881); Schott, _Ueber den Buddhismus in Hoch-Asien_; [[Gutzlaff]],
+  _Geschichte des Chinesischen Reiches_; [[Hue]] and Gabet, _Souvenirs d'un
   voyage dans la Tartarie, le Tibet, et la Chine_ (Paris, 1858);
   Pallas's _Sammlung historischer Nachrichten über die Mongolischen
-  Völkerschaften_; Babu Sarat Chunder Das's "Contributions on the
-  Religion and History of Tibet," in the _Journal of the Bengal Asiatic
+  Völkerschaften_; [[Babu]] Sarat Chunder Das's "Contributions on the
+  Religion and History of Tibet," in the _Journal of the [[Bengal]] Asiatic
   Society_, 1881; L. A. Waddell, _The Buddhism of Tibet_ (London, 1895);
   A. H. Francke, _History of Western Tibet_ (London, 1907); A.
   Grünwedel, _Mythologie des Buddhismus in Tibet und der Mongolei_

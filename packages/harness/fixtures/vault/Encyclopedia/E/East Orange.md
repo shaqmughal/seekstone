@@ -1,12 +1,12 @@
 # East Orange
 
-EAST ORANGE, a city of Essex county, New Jersey, U.S.A., in the
+EAST ORANGE, a city of [[Essex]] county, New [[Jersey]], U.S.A., in the
 north-eastern part of the state, adjoining the city of Newark, and about
 12 m. W. of New York city. Pop. (1890) 13,282; (1900) 21,506, of whom
 3950 were foreign-born and 1420 were negroes; (1910 census) 34,371. It
-is served by the Morris & Essex division of the Delaware, Lackawanna &
+is served by the Morris & Essex division of the [[Delaware]], Lackawanna &
 Western railway and by the Orange branch of the Erie (the former having
-four stations--Ampere, Grove Street, East Orange and Brick Church), and
+four stations--Ampere, Grove Street, East Orange and [[Brick]] Church), and
 is connected with Newark, Orange and West Orange by electric line. The
 city covers an area of about 4 sq. m., and has broad, well-paved
 streets, bordered with fine shade trees (under the jurisdiction of a
@@ -14,7 +14,7 @@ streets, bordered with fine shade trees (under the jurisdiction of a
 York and Newark, and has many beautiful homes; with Orange, West Orange
 and South Orange it forms virtually one community, popularly known as
 "the Oranges." The public school system is excellent, and the city has a
-Carnegie library (1903), with more than 22,000 volumes in 1907. Among
+[[Carnegie]] library (1903), with more than 22,000 volumes in 1907. Among
 the principal buildings are several attractive churches, the city hall,
 and the club-house of the Woman's Club of Orange. The principal
 manufactures of East Orange are electrical machinery, apparatus, and

@@ -9,7 +9,7 @@ tags: [art, science-history]
 
 # Ecliptic
 
-ECLIPTIC, in astronomy. The plane of the ecliptic is that plane in or
+ECLIPTIC, in [[Astronomy|astronomy]]. The plane of the ecliptic is that plane in or
 near which the centre of gravity of the earth and moon revolves round
 the sun. The ecliptic itself is the great circle in which this plane
 meets the celestial sphere. It is also defined, but not with absolute
@@ -28,7 +28,7 @@ is subject to a slow secular variation amounting, during our time, to
 nearly 47" per century. The rate of this motion is slowly diminishing.
 
 The obliquity of the ecliptic is the angle which its plane makes with
-that of the equator. Its mean value is now about 23 deg. 27'. The motion
+that of the [[Equator|equator]]. Its mean value is now about 23 deg. 27'. The motion
 of the ecliptic produces a secular variation in the obliquity which is
 now diminishing by an amount nearly equal to the entire motion of the
 ecliptic itself. The laws of motion of the ecliptic and equator are

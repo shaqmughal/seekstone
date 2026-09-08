@@ -7,14 +7,14 @@ on a gentle eminence near the confluence of the upper branches of the
 river Stour. It has a fine Perpendicular church dedicated to St Mary,
 with a lofty, well-proportioned tower and many interesting monuments.
 The grammar school was founded by Sir Norman Knatchbull in the reign of
-Charles I. Ashford has agricultural implement works and breweries; and
+Charles I. Ashford has agricultural [[Implement|implement]] works and breweries; and
 the large locomotive and carriage works of the South-Eastern & Chatham
 railway are here. At Bethersden, between Ashford and Tenterden, marble
 quarries were formerly worked extensively, supplying material to the
 cathedrals of Canterbury and Rochester, and to many local churches. At
 Charing, north-west of Ashford, the archbishops of Canterbury had a
 residence from pre-Conquest times, and ruins of a palace, mainly of the
-Decorated period, remain. On the south-eastern outskirts of Ashford is
+[[Decorated Period|Decorated period]], remain. On the south-eastern outskirts of Ashford is
 the populous village of Willesborough (3602).
 
   Ashford (Esselesford, Asshatisforde, Essheford) was held at the time
@@ -38,9 +38,9 @@ the populous village of Willesborough (3602).
 
 
 'ASHI (352-427), Jewish _'amora_, the first editor of the Talmud, was
-born at Babylon. He was head of the Sura Academy, and there began the
+born at [[Babylon]]. He was head of the Sura Academy, and there began the
 Babylonian Talmud, spending thirty years of his life at it. He left the
-work incomplete, and it was finished by his disciple Rabina just before
+work incomplete, and it was finished by his [[Disciple|disciple]] Rabina just before
 the year 500 A.D. (See TALMUD.)
 
 ## References

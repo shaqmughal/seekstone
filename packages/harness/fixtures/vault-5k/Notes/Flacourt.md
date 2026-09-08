@@ -7,9 +7,9 @@ type: reference
 
 # Flacourt
 
-FLACOURT, ÉTIENNE DE (1607-1660), French governor of Madagascar, was
+FLACOURT, ÉTIENNE DE (1607-1660), French governor of [[Madagascar]], was
 born at Orleans in 1607. He was named governor of Madagascar by the
-French East India Company in 1648. Flacourt restored order among the
+French [[East India Company]] in 1648. Flacourt restored order among the
 French soldiers, who had mutinied, but in his dealings with the natives
 he was less successful, and their intrigues and attacks kept him in
 continual harassment during all his term of office. In 1655 he returned

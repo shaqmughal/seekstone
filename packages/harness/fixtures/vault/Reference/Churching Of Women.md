@@ -37,12 +37,12 @@ the second of his books, she was to be "nigh unto the place where the
 Table standeth." Bishop Wren's orders for the diocese of Norwich in 1636
 are "That women to be churched come and kneel at a side near the
 Communion Table without the rail, being veiled according to custom, and
-not covered with a hat." In Devonshire churching was sometimes called
+not covered with a hat." In [[Devonshire]] churching was sometimes called
 "being uprose." Churchings were formerly registered in some parishes. In
 pre-Reformation days it was the custom in England for women to carry
 lighted tapers when being churched, in allusion to the Feast of the
 Purification of the Virgin (February 2nd), the day chosen by the Roman
-Catholic church for the blessing of the candles for the whole year (see
+Catholic church for the blessing of the [[Candle|candles]] for the whole year (see
 CANDLEMAS). At her churching a woman was expected to make some offering
 to the church, such as the chrisom or alb thrown over the child at
 christening.

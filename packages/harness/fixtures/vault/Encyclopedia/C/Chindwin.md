@@ -1,6 +1,6 @@
 # Chindwin
 
-CHINDWIN, a river of Burma, the largest tributary of the Irrawaddy, its
+CHINDWIN, a river of [[Burma]], the largest tributary of the Irrawaddy, its
 entire course being in Burmese territory. It is called Ningthi by the
 Manipuris. The Chindwin is formed by the junction of the Tanai, the
 Tawan and the Tarôn or Turông, but it is still uncertain which is the
@@ -18,7 +18,7 @@ interval forming a succession of long, low, partially populated islands.
 The most southerly mouth of the Chindwin is, according to tradition, an
 artificial channel, cut by one of the kings of Pag[=a]n. It was choked
 up for many centuries until in 1824 it was opened out by an exceptional
-flood. The Tanai (it is frequently called Tanaikha, but _kha_ is merely
+[[Flood|flood]]. The Tanai (it is frequently called Tanaikha, but _kha_ is merely
 the Kachin word for river), as long as it retains that name, is a swift,
 clear river, from 50 to 300 yds. wide and from 3 to 15 ft. deep. The
 river is navigated by native boats in the Hukawng valley, but launches
@@ -37,7 +37,7 @@ cannot come up from the Chindwin proper because of the reefs below Taro.
   least with winter snows. Below the Hukawng valley the Chindwin is
   interrupted at several places by fails or transverse reefs. At the
   village of Haksa there is a fall, which necessitates transhipment from
-  large boats to canoes. Not far below this the Uyu river comes in on
+  large boats to [[Canoe|canoes]]. Not far below this the Uyu river comes in on
   the left bank at Homalin, and from this point downwards the steamers
   of the Irrawaddy Flotilla Company ply for the greater part of the
   year. The Uyu flows through a fertile and well-cultivated valley, and
@@ -46,12 +46,12 @@ cannot come up from the Chindwin proper because of the reefs below Taro.
   communication with Homalin ceases in the dry weather, but from Kindat,
   nearly 150 m. below it, there are weekly steamers all the year round.
   Below Kindat the only considerable affluent of the Chindwin is the
-  Myit-tha, which receives the Chin hills drainage. The Chindwin rises
+  Myit-tha, which receives the [[Chin Hills|Chin hills]] drainage. The Chindwin rises
   considerably during the rains, but in March and April it is here and
   there so shallow as to make navigation difficult even for small steam
   launches. Whirlpools and narrows and shifting sandbanks also give some
   trouble, but much has been done to improve navigation since the
-  British annexation. Kindat, the headquarters of the Upper Chindwin
+  British [[Annexation|annexation]]. Kindat, the headquarters of the Upper Chindwin
   district, and Mônywa of the Lower, are on the banks of the river.
      (J. G. SC.)
 

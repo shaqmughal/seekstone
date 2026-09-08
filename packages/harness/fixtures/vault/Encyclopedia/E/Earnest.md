@@ -1,6 +1,6 @@
 # Earnest
 
-EARNEST (probably a corruption of the obsolete _arles_ or _erles_,
+EARNEST (probably a corruption of the obsolete _[[Arles|arles]]_ or _[[Erle|erles]]_,
 adapted from Lat. equivalent _arrha_, due to a confusion with the
 adjective "earnest," serious, O. Eng. _eornust_, cognate with Ger.
 _ernst_), the payment of a sum of money by the buyer of goods to the
@@ -10,8 +10,8 @@ may be traced back in the history of legal institutions to a period when
 the validity of a contract depended not so much upon the real intention
 of the parties, as upon the due observance of a prescribed ceremony. But
 _earnest_ was never part payment, which _arrha_ might have been. Apart
-from its survival as a custom, its chief importance in English law is
-its recognition by the Statute of Frauds as giving validity to contracts
+from its survival as a custom, its chief importance in [[English Law|English law]] is
+its recognition by the Statute of [[Fraud|Frauds]] as giving validity to contracts
 for the sale of goods of a value exceeding L10 (see SALE OF GOODS). It
 is in that statute clearly distinguished from part payment, consequently
 any sum, however small, would be sufficient as earnest, being given as a

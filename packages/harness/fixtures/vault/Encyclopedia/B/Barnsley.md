@@ -1,10 +1,10 @@
 # Barnsley
 
-BARNSLEY (BLACK, or properly BLEAK BARNSLEY), a market town and municipal
+BARNSLEY (BLACK, or properly [[Bleak|BLEAK]] BARNSLEY), a market town and municipal
 borough in the Barnsley parliamentary division of the West Riding of
 Yorkshire, England, 15 m. N. of Sheffield. Pop. (1891) 35,427; (1901)
 41,086. It is served by the Midland, Great Central, Lancashire & Yorkshire,
-Great Northern, and Hull & Barnsley railways. It is in the parish of
+Great Northern, and [[Hull]] & Barnsley railways. It is in the parish of
 Silkstone, which gives name to important collieries. It is situated on
 rising ground west of the river Dearne, and, though it loses in attraction
 owing to its numerous factories, its neighbourhood has considerable natural
@@ -14,7 +14,7 @@ churches, of which the oldest, the parish church of St Mary, was built in
 library. Among several educational institutions, the free grammar school
 dates from 1665; and a philosophical society was founded in 1828. A
 monument was erected in 1905 to prominent members of the Yorkshire Miners'
-Association. The park was presented in 1862 by the widow of Joseph Locke,
+Association. The park was presented in 1862 by the widow of Joseph [[Locke]],
 M.P. The manufacture of iron and steel, and the weaving of linen and other
 cloth, are the two principal industries; but there are also bleachfields,
 printfields, dyeworks, sawmills, cornmills and malt-houses; and the
@@ -27,7 +27,7 @@ Wentworth Castle, built in 1730 by Thomas, earl of Strafford, stands in a
 singularly beautiful park, and contains a fine collection of portraits of
 historical interest. Besides the communications afforded by railway,
 Barnsley has the advantage of connexion with the Aire and Calder Navigation
-system of canals. The borough is under a mayor, six aldermen and eighteen
+system of canals. The borough is under a [[Mayor|mayor]], six aldermen and eighteen
 councillors. Area, 2385 acres.
 
 At the time of the Domesday survey Ilbert de Lacy held Barnsley by gift of
@@ -37,7 +37,7 @@ granted by Henry de Lacy to the monks of Pontefract. Henry III. in 1249
 granted the prior and convent of Pontefract a market every Wednesday at
 Barnsley, and a fair on the vigil and feast of St Michael and two following
 days, and Henry VIII. in 1512 granted them a new fair on the day of the
-Conversion of St Paul and two following days. The monastery evidently also
+[[Conversion]] of St Paul and two following days. The monastery evidently also
 held another fair there called St Ellen's fair, for in 1583 Queen Elizabeth
 granted this fair and St Paul's fair and the market "lately belonging to
 the dissolved monastery of Pontefract" to one Henry Burdett, and Ralph and
@@ -49,7 +49,7 @@ chief industry had been wire-drawing, but this trade began to decrease
 about the end of the 18th century, just as the linen trade was becoming
 important. In 1869 Barnsley was incorporated.
 
-See Rowland Jackson, _The History of the Town and Township of Barnsley_
+See Rowland [[Jackson]], _The History of the Town and Township of Barnsley_
 (1858); _Victoria County History--Yorkshire_.
 
 ## See also

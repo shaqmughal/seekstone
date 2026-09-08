@@ -1,9 +1,9 @@
 # Hatchettite
 
 HATCHETTITE, sometimes termed _Mountain Tallow_, _Mineral Adipocire_, or
-_Adipocerite_, a mineral hydrocarbon occurring in the Coal-measures of
-Belgium and elsewhere, occupying in some cases the interior of hollow
-concretions of iron-ore, but more generally the cavities of fossil
+_Adipocerite_, a mineral [[Hydrocarbon|hydrocarbon]] occurring in the Coal-measures of
+[[Belgium]] and elsewhere, occupying in some cases the interior of hollow
+[[Concretion|concretions]] of iron-ore, but more generally the cavities of fossil
 shells or crevices in the rocks. It is of yellow colour, and
 translucent, but darkens and becomes opaque on exposure. It has no
 odour, is greasy to the touch, and has a slightly glistening lustre. Its

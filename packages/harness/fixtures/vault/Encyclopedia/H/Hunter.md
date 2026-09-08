@@ -9,18 +9,18 @@ id: 42-4691
 # Hunter
 
 HUNTER, JOHN (1728-1793), British physiologist and surgeon, was born on
-the 13th[1] of February 1728, at Long Calderwood, in the parish of East
-Kilbride, Lanarkshire, being the youngest of the ten children of John
+the 13th[1] of February 1728, at Long [[Calderwood]], in the parish of East
+[[Kilbride]], Lanarkshire, being the youngest of the ten children of John
 and Agnes Hunter. His father, who died on the 30th of October 1741,[2]
 aged 78, was descended from the old Ayrshire family of Hunter of
 Hunterston, and his mother was the daughter of a Mr Paul, treasurer of
-Glasgow. Hunter is said to have made little progress at school, being
+[[Glasgow]]. Hunter is said to have made little progress at school, being
 averse to its restraints and pursuits, and fond of country amusements.
 When seventeen years old he went to Glasgow, where for a short time he
-assisted his brother-in-law, Mr Buchanan, a cabinetmaker. Being desirous
+assisted his brother-in-law, Mr [[Buchanan]], a cabinetmaker. Being desirous
 at length of some settled occupation, he obtained from his brother
 William (q.v.) permission to aid, under Mr Symonds, in making
-dissections in his anatomical school, then the most celebrated in
+[[Dissection|dissections]] in his anatomical school, then the most celebrated in
 London, intending, should he be unsuccessful there, to enter the army.
 He arrived accordingly in the metropolis in September 1748, about a
 fortnight before the beginning of his brother's autumnal course of
@@ -35,7 +35,7 @@ Hard-working, and singularly patient and skilful in dissection, Hunter
 had by his second winter in London acquired sufficient anatomical
 knowledge to be entrusted with the charge of his brother's practical
 class. In the summer months of 1749-1750, at Chelsea Military Hospital,
-he attended the lectures and operations of William Cheselden, on whose
+he attended the lectures and operations of William [[Cheselden]], on whose
 retirement in the following year he became a surgeon's pupil at St
 Bartholomew's, where Percivall Pott was one of the senior surgeons. In
 the summer of 1752 he visited Scotland. Sir Everard Home and, following
@@ -54,7 +54,7 @@ absorbents, studied the formation of pus and the nature of the placental
 circulation, and with his brother earned the chief merit of practically
 proving the function and importance of the lymphatics in the animal
 economy. On the 5th of June 1755,[4] he was induced to enter as a
-gentleman commoner at St Mary's Hall, Oxford, but his instincts would
+[[Gentleman|gentleman]] commoner at St Mary's Hall, Oxford, but his instincts would
 not permit him, to use his own expression, "to stuff Latin and Greek at
 the university." Some three and thirty years later he thus significantly
 wrote of an opponent: "Jesse Foot accuses me of not understanding the
@@ -64,7 +64,7 @@ linguistic studies would have served to correct in him what was perhaps
 a natural defect--a difficulty in the presentation of abstract ideas not
 wholly attributable to the novelty of his doctrines.
 
-An attack of inflammation of the lungs in the spring of 1759 having
+An attack of inflammation of the [[Lung|lungs]] in the spring of 1759 having
 produced symptoms threatening consumption, by which the promising
 medical career of his brother James had been cut short, Hunter obtained
 in October 1760 the appointment of staff-surgeon in Hodgson and Keppel's
@@ -73,7 +73,7 @@ year he served with the English forces on the frontier of Portugal.
 Whilst with the army he acquired the extensive knowledge of gunshot
 wounds embodied in his important treatise (1794) on that subject, in
 which, amongst other matters of moment, he insists on the rejection of
-the indiscriminate practice of dilating with the knife followed almost
+the indiscriminate practice of dilating with the [[Knife|knife]] followed almost
 universally by surgeons of his time. When not engaged in the active
 duties of his profession, he occupied himself with physiological and
 other scientific researches. Thus, in 1761, off Belleisle, the
@@ -81,29 +81,29 @@ conditions of the coagulation of the blood were among the subjects of
 his inquiries.[6] Later, on land, he continued the study of human
 anatomy, and arranged his notes and memoranda on inflammation; he also
 ascertained by experiment that digestion does not take place in snakes
-and lizards during hibernation, and observed that enforced vigorous
+and [[Lizard|lizards]] during [[Hibernation|hibernation]], and observed that enforced vigorous
 movement at that season proves fatal to such animals, the waste so
 occasioned not being compensated, whence he drew the inference that, in
 the diminution of the power of a part attendant on mortification, resort
 to stimulants which increase action without giving real strength is
-inadvisable.[7] A MS. catalogue by Hunter, probably written soon after
+inadvisable.[7] A MS. [[Catalogue|catalogue]] by Hunter, probably written soon after
 his return from Portugal, shows that he had already made a collection of
 about two hundred specimens of natural and morbid structures.
 
 On arriving in England early in 1763, Hunter, having retired from the
 army on half-pay, took a house in Golden Square, and began the career of
 a London surgeon. Most of the metropolitan practice at the time was held
-by P. Pott, C. Hawkins, Samuel Sharp, Joseph Warner and Robert Adair;
+by P. Pott, C. [[Hawkins]], Samuel Sharp, Joseph Warner and Robert Adair;
 and Hunter sought to eke out his at first slender income by teaching
 practical anatomy and operative surgery to a private class. His leisure
-was devoted to the study of comparative anatomy, to procure subjects for
+was devoted to the study of [[Comparative Anatomy|comparative anatomy]], to procure subjects for
 which he obtained the refusal of animals dying in the Tower menagerie
 and in various travelling zoological collections. In connexion with his
-rupture of a tendo Achillis,[8] in 1767, he performed on dogs several
+rupture of a tendo Achillis,[8] in 1767, he performed on [[Dogs|dogs]] several
 experiments which, with the illustrations in his museum of the reunion
 of such structures after division, laid the foundation of the modern
 practice of cutting through tendons (tenotomy) for the relief of
-distorted and contracted joints. In the same year he was elected F.R.S.
+distorted and contracted [[Joints|joints]]. In the same year he was elected F.R.S.
 His first contribution to the _Philosophical Transactions_, with the
 exception of a supplement to a paper by J. Ellis in the volume for
 1766, was an essay on post-mortem digestion of the stomach, written at
@@ -119,7 +119,7 @@ brother-in-law. William Lynn and Sir A. Carlisle, though not inmates of
 his house, were frequent visitors there. His pupils at St George's
 included John Abernethy, Henry Cline, James Earle and Astley Cooper. In
 1770 he settled in Jermyn Street, in the house which his brother William
-had previously occupied; and in July 1771 he married Anne, the eldest
+had previously occupied; and in July 1771 he married [[Anne]], the eldest
 daughter of Robert Home, surgeon to Burgoyne's regiment of light
 horse.[10]
 
@@ -128,16 +128,16 @@ by him at Earl's Court, Brompton, where most of his biological
 researches were carried on. There he kept for the purpose of study and
 experiment the fishes, lizards, blackbirds, hedgehogs and other animals
 sent him from time to time by Jenner; tame pheasants and partridges, at
-least one eagle, toads, silkworms, and many more creatures, obtained
-from every quarter of the globe. Bees he had under observation in his
+least one [[Eagle|eagle]], toads, silkworms, and many more creatures, obtained
+from every quarter of the globe. [[Bee|Bees]] he had under observation in his
 conservatory for upwards of twenty years; hornets and wasps were also
 diligently studied by him. On two occasions his life was in risk from
-his pets--once in wrestling with a young bull, and again when he
-fearlessly took back to their dens two leopards which had broken loose
+his pets--once in wrestling with a young [[Bull|bull]], and again when he
+fearlessly took back to their [[Dens|dens]] two [[Leopard|leopards]] which had broken loose
 among his dogs.
 
 Choosing intuitively the only true method of philosophical discovery,
-Hunter, ever cautious of confounding fact and hypothesis, besought of
+Hunter, ever cautious of confounding fact and [[Hypothesis|hypothesis]], besought of
 nature the truth through the medium of manifold experiments and
 observations. "He had never read Bacon," says G. G. Babington, "but his
 mode of studying nature was as strictly Baconian as if he had."[11] To
@@ -145,12 +145,12 @@ Jenner, who had offered a conjectural explanation of a phenomenon, he
 writes, on the 2nd of August 1775: "I think your solution is just; but
 why think? why not try the experiment? Repeat all the experiments upon a
 hedgehog[12] as soon as you receive this, and they will give you the
-solution." It was his axiom however, "that experiments should not be
+solution." It was his [[Axiom|axiom]] however, "that experiments should not be
 often repeated which tend merely to establish a principle already known
 and admitted, but that the next step should be the application of that
 principle to useful purposes" ("Anim. Oecon.," _Works_, iv. 86). During
 fifteen years he kept a flock of geese simply in order to acquaint
-himself with the development of birds in eggs, with reference to which
+himself with the development of birds in [[Egg|eggs]], with reference to which
 he remarked: "It would almost appear that this mode of propagation was
 intended for investigation." In his toxicological and other researches,
 in which his experience had led him to believe that the effects of
@@ -160,16 +160,16 @@ animals."[13]
 
 By inserting shot at definite distances in the leg-bones of young pigs,
 and also by feeding them with madder, by which all fresh osseous
-deposits are tinged,[14] Hunter obtained evidence that bones increase in
+deposits are tinged,[14] Hunter obtained evidence that [[Bone|bones]] increase in
 size, not by the intercalation of new amongst old particles, as had been
-imagined by H. L. Duhamel du Monceau, but by means of additions to their
+imagined by H. L. [[Duhamel]] du Monceau, but by means of additions to their
 extremities and circumference, excess of calcareous tissue being removed
 by the absorbents. Some of his most extraordinary experiments were to
 illustrate the relation of the strength of constitution to sex. He
-exchanged the spurs of a young cock and a young pullet, and found that
+exchanged the spurs of a young [[Cock|cock]] and a young pullet, and found that
 on the former the transplanted structure grew to a fair size, on the
-latter but little; whereas a spur from one leg of a cock transferred to
-its comb, a part well supplied with blood, grew more than twice as fast
+latter but little; whereas a spur from one [[Leg|leg]] of a cock transferred to
+its [[Comb|comb]], a part well supplied with blood, grew more than twice as fast
 as that left on the other leg. Another experiment of his, which required
 many trials for success, was the engrafting of a human incisor on the
 comb of a cock.[15] The uniting of parts of different animals when
@@ -181,7 +181,7 @@ brought to feed on barley the muscular parietes of the gizzard became
 greatly thickened. A similar phenomenon was noticed by him in the case
 of other carnivorous birds fed on a vegetable diet.
 
-It was in 1772 that Hunter, in order effectually to gauge the extent of
+It was in 1772 that Hunter, in order effectually to [[Gauge|gauge]] the extent of
 his own knowledge, and also correctly to express his views, which had
 been repeatedly misstated or ascribed to others, began his lectures on
 the theory and practice of surgery, at first delivered free to his
@@ -209,12 +209,12 @@ course of only six weeks' duration. His class was usually small and
 never exceeded thirty. He was deficient in the gifts of a good extempore
 speaker, being in this respect a remarkable contrast to his brother
 William; and he read his lectures, seldom raising his eyes from the
-manuscript. His manner with his auditory is stated to have been
+[[Manuscript|manuscript]]. His manner with his auditory is stated to have been
 embarrassed and awkward, or, as Adams puts it (_Obs. on Morbid Pois._,
 p. 272), "frequently ungraceful," and his language always unadorned; but
 that his "expressions for the explaining of his new theories rendered
 his lectures often unintelligible" is scarcely evident in his pupils'
-notes still extant. His own and others' errors and fallacies were
+notes still extant. His own and others' [[Error|errors]] and fallacies were
 exposed with equal freedom in his teaching. Occasionally he would tell
 his pupils, "You had better not write down that observation, for very
 likely I shall think differently next year"; and once in answer to a
@@ -233,8 +233,8 @@ he tells us, he received his first hint of the use of the absorbents.
 Abernethy (_Physiological Lectures_, p. 196) relates that Hunter, being
 once asked how he could suppose it possible for absorbents to do such
 things as he attributed to them, replied, "Nay, I know not, unless they
-possess powers similar to those which a caterpillar exerts when feeding
-on a leaf." Hunter in 1780 read before the Royal Society a paper in
+possess powers similar to those which a [[Caterpillar|caterpillar]] exerts when feeding
+on a [[Leaf|leaf]]." Hunter in 1780 read before the Royal Society a paper in
 which he laid claim to have been the first to make out the nature of the
 utero-placental circulation. His brother William, who had five years
 previously described the same in his _Anatomy of the Gravid Uterus_,
@@ -242,7 +242,7 @@ thereupon wrote to the Society attributing to himself this honour. John
 Hunter in a rejoinder to his brother's letter, dated the 17th of
 February 1780, reiterated his former statement, viz. that his discovery,
 on the evening of the day in 1754 that he had made it in a specimen
-injected by a Dr Mackenzie, had been communicated by him to Dr Hunter.
+injected by a Dr [[Mackenzie]], had been communicated by him to Dr Hunter.
 Thus arose an estrangement between the two Hunters, which continued
 until the time of William's last illness, when his brother obtained
 permission to visit him.
@@ -268,9 +268,9 @@ and in May to other visitors--were J. F. Blumenbach, P. Camper and A.
 Scarpa. In the acquisition of subjects for his varied biological
 investigations and of specimens for his museum, expense was a matter of
 small moment with Hunter. Thus he endeavoured, at his own cost, to
-obtain information respecting the Cetacea by sending out a surgeon to
+obtain information respecting the [[Cetacea]] by sending out a surgeon to
 the North in a Greenland whaler. He is said, moreover, to have given, in
-June 1783, L500 for the body of O'Brien, or Byrne, the Irish giant,
+June 1783, L500 for the body of O'Brien, or Byrne, the Irish [[Giant|giant]],
 whose skeleton, 7 ft. 7 in. high, is so conspicuous an object in the
 museum of the College of Surgeons of London.[19]
 
@@ -282,16 +282,16 @@ mentioned complaint, to which he was henceforward subject when under
 anxiety or excitement of mind.
 
 In May 1785,[20] chiefly to oblige William Sharp the engraver, Hunter
-consented to have his portrait taken by Sir Joshua Reynolds. He proved a
+consented to have his portrait taken by Sir [[Joshua]] Reynolds. He proved a
 bad sitter, and Reynolds made little satisfactory progress, till one day
 Hunter, while resting his somewhat upraised head on his left hand, fell
-into a profound reverie--one of those waking dreams, seemingly, which in
+into a profound reverie--one of those waking [[Dream|dreams]], seemingly, which in
 his lectures he has so well described, when "the body loses the
 consciousness of its own existence."[21] The painter had now before him
-the man he would fain depict, and, turning his canvas upside down, he
+the man he would [[Fain|fain]] depict, and, turning his canvas upside down, he
 sketched out the admirable portrait which, afterwards skilfully restored
 by H. Farrar, is in the possession of the Royal College of Surgeons. A
-copy by Jackson, acquired from Lady Bell, is to be seen at the National
+copy by [[Jackson]], acquired from Lady Bell, is to be seen at the National
 Portrait Gallery, and St Mary's Hall, Oxford, also possesses a copy.
 Sharp's engraving of the original, published in 1788, is one of the
 finest of his productions. The volumes seen in Reynolds' picture are a
@@ -305,7 +305,7 @@ committed to the flames.[22]
 Among the subjects of Hunter's physiological investigation in 1785 was
 the mode of growth of deer's antlers. As he possessed the privilege of
 making experiments on the deer in Richmond Park, he in July of that year
-had a buck there caught and thrown, and tied one of its external carotid
+had a [[Buck|buck]] there caught and thrown, and tied one of its external carotid
 arteries. He observed that the antler which obtained its blood supply
 therefrom, then half-grown, became in consequence cold to the touch.
 Hunter debated with himself whether it would be shed in due time, or be
@@ -314,13 +314,13 @@ re-examining the antler a week or two later, when the wound around the
 ligatured artery was healed, that it had regained its warmth, and was
 still increasing in size. Had, then, his operation been in some way
 defective? To determine this question, the buck was killed and sent to
-Leicester Fields. On examination Hunter ascertained that the external
+Leicester [[Fields]]. On examination Hunter ascertained that the external
 carotid had been duly tied, but that certain small branches of the
 artery above and below the ligature had enlarged, and by their
 anastomoses had restored the blood supply of the growing part. Thus it
 was evident that under "the stimulus of necessity," to use a phrase of
 the experimenter, the smaller arterial channels are capable of rapid
-increase in dimensions to perform the offices of the larger.[23] It
+increase in [[Dimension|dimensions]] to perform the offices of the larger.[23] It
 happened that, in the ensuing December, there lay in one of the wards of
 St George's Hospital a patient admitted for popliteal aneurism. The
 disease must soon prove fatal unless by some means arrested. Should the
@@ -333,7 +333,7 @@ at least to diminish the severity of operations, which he considered
 were an acknowledgment of the imperfection of the art of healing, and
 compared to "the acts of the armed savage, who attempts to get that by
 force which a civilized man would get by stratagem." Since, he argued,
-the experiment with the buck had shown that collateral vessels are
+the experiment with the buck had shown that [[Collateral|collateral]] vessels are
 capable of continuing the circulation when passage through a main trunk
 is arrested, why should he not, in the aneurism case, leaving the
 absorbents to deal with the contents of the tumour, tie the artery in
@@ -356,13 +356,13 @@ Without the aid of the booksellers, 1000 copies of it were sold within a
 twelvemonth. Although certain views therein expressed with regard to the
 relationship of syphilis have been proved erroneous, the work is a
 valuable compendium of observations of cases and modes of treatment (cf.
-John Hilton, _Hunt. Orat._ p. 40). Towards the end of the year appeared
+John [[Hilton]], _[[Hunt]]. Orat._ p. 40). Towards the end of the year appeared
 his _Observations on certain parts of the Animal Oeconomy_, which,
 besides the more important of his contributions to the _Philosophical
 Transactions_, contains nine papers on various subjects. In 1786 Hunter
-became deputy surgeon-general to the army; his appointment as
+became [[Deputy|deputy]] surgeon-general to the army; his appointment as
 surgeon-general and as inspector-general of hospitals followed in 1790.
-In 1787 he received the Royal Society's Copley medal, and was also
+In 1787 he received the Royal Society's [[Copley]] medal, and was also
 elected a member of the American Philosophical Society. On account of
 the increase in his practice and his impaired health, he now obtained
 the services of Home as his assistant at St George's Hospital. The death
@@ -379,10 +379,10 @@ through membrane, were made so early as the summer of 1755.
 
 Hunter in 1792 announced to his colleagues at St George's, who, he
 considered, neglected the proper instruction of the students under their
-charge, his intention no longer to divide with them the fees which he
+charge, his intention no longer to divide with them the [[Fee|fees]] which he
 received for his hospital pupils. Against this innovation, however, the
 governors of the hospital decided in March 1793. Subsequently, by a
-committee of their appointing, a code of rules respecting pupils was
+committee of their appointing, a [[Code|code]] of rules respecting pupils was
 promulgated, one clause of which, probably directed against an
 occasional practice of Hunter's, stipulated that no person should be
 admitted as a student of the hospital without certificates that he had
@@ -404,7 +404,7 @@ privately on the 22nd of October 1793, in the vaults of St Martin's in
 the Fields. Thence, on the 28th of March 1859, through the
 instrumentality of F. T. Buckland, they were removed to Abbot Islip's
 chapel in Westminster Abbey, to be finally deposited in the grave in the
-north aisle of the nave, close to the resting-place of Ben Jonson.
+north aisle of the nave, close to the resting-place of [[Ben]] [[Jonson]].
 
   Hunter was of about medium height, strongly built and high-shouldered
   and short-necked. He had an open countenance, and large features, eyes
@@ -415,20 +415,20 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   during the latter part of his life, and saw his outdoor and hospital
   patients till about four, when he dined, taking, according to Home, as
   at other meals in the twenty years preceding his death, no wine. After
-  dinner he slept an hour; he then superintended experiments, read or
+  [[Dinner|dinner]] he slept an hour; he then superintended experiments, read or
   prepared his lectures, and made, usually by means of an amanuensis,
   records of the day's dissections. "I never could understand," says W.
   Clift, "how Mr Hunter obtained rest: when I left him at midnight, it
-  was with a lamp fresh trimmed for further study, and with the usual
+  was with a [[Lamp|lamp]] fresh trimmed for further study, and with the usual
   appointment to meet him again at six in the morning." H. Leigh Thomas
   records[27] that, on his first arrival in London, having by desire
   called on Hunter at five o'clock in the morning, he found him already
-  busily engaged in the dissection of insects. Rigidly economical of
+  busily engaged in the dissection of [[Insect|insects]]. Rigidly economical of
   time, Hunter was always at work, and he had always in view some fresh
   enterprise. To his museum he gave a very large share of his attention,
   being fearful lest the ordering of it should be incomplete at his
   death, and knowing of none who could continue his work for him. "When
-  I am dead," said he one day to Dr Maxwell Garthshore, "you will not
+  I am dead," said he one day to Dr [[Maxwell]] Garthshore, "you will not
   soon meet with another John Hunter." At the time of his death he had
   anatomized over 500 different species of animals, some of them
   repeatedly, and had made numerous dissections of plants. The
@@ -451,10 +451,10 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   for domestic expenses were, during the last ten years of his life,
   devoted to the improvement of his museum; and his property, this
   excepted, was found on his decease to be barely sufficient to pay his
-  debts. By his contemporaries generally Hunter was respected as a
+  [[Debt|debts]]. By his contemporaries generally Hunter was respected as a
   master of the art and science of anatomy, and as a cautious and
   trustworthy if not an elegant or very dexterous operator. Few,
-  however, perceived the drift of his biological researches. Although it
+  however, perceived the [[Drift|drift]] of his biological researches. Although it
   was admitted, even by Jesse Foot,[28] that the idea after which his
   unique museum had been formed--namely, that of morphology as the only
   true basis of a systematic zoological classification--was entirely his
@@ -479,15 +479,15 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   prime minister, Pitt, on being asked to consider the matter,
   exclaimed: "What! buy preparations! Why, I have not money enough to
   purchase gunpowder." He, however, consented to the bestowal of a
-  portion of the king's bounty for a couple of years on Mrs Hunter and
-  her two surviving children. In 1796 Lord Auckland undertook to urge
+  portion of the king's [[Bounty|bounty]] for a couple of years on Mrs Hunter and
+  her two surviving children. In 1796 Lord [[Auckland]] undertook to urge
   upon the government the advisability of acquiring the collection, and
   on the 13th of June 1799, parliament voted L15,000 for this purpose.
   Its custodianship, after refusal by the College of Physicians, was
   unanimously accepted by the Corporation of Surgeons on the terms
   proposed. These were in brief--that the collection be open four hours
   in the forenoon, two days every week, for the inspection and
-  consultation of the fellows of the College of Physicians, the members
+  consultation of the [[Fellows|fellows]] of the College of Physicians, the members
   of the Company of Surgeons and persons properly introduced by them, a
   catalogue of the preparations and an official to explain it being at
   those times always at hand; that a course of not less than twenty-four
@@ -516,7 +516,7 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   various phases of life exhibited in organized structures, both animal
   and vegetable, from the simplest to the most highly differentiated. By
   him, therefore, comparative anatomy was employed, not in subservience
-  to the classification of living forms, as by Cuvier, but as a means of
+  to the [[Classification|classification]] of living forms, as by Cuvier, but as a means of
   gaining insight into the principle animating and producing these
   forms, by virtue of which he perceived that, however different in form
   and faculty, they were all allied to himself. In what does life
@@ -531,7 +531,7 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   great chemist," a power capable of manufacturing a variety of
   substances into one kind of generally distributed nutriment, and of
   furnishing from this a still greater variety of dissimilar substances.
-  Like Harvey, who terms it the _anima vegetiva_, he regarded it as a
+  Like [[Harvey]], who terms it the _anima vegetiva_, he regarded it as a
   principle of self-preservation, which keeps the body from dissolution.
   Life is shown, said he, in renovation and action; but, although
   facilitated in its working by mechanical causes, it can exist without
@@ -564,7 +564,7 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   compared to the contraction of muscles, and believed to be an
   operation of life distinct from chemical coagulation, adducing in
   support of his opinion the fact that, in animals killed by lightning,
-  by violent blows on the stomach, or by the exhaustion of hunting, it
+  by violent blows on the stomach, or by the exhaustion of [[Hunting|hunting]], it
   does not take place. "Breathing," said Hunter, "seems to render life
   to the blood, and the blood continues it in every part of the
   body."[34] Life, he held, could be regarded as a fire, or something
@@ -625,7 +625,7 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   found, he was led to infer that at various periods not only repeated
   oscillations of the level of the land, lasting thousands of centuries,
   but also great climatic variations, perhaps due to a change in the
-  ecliptic, had taken place in geological times. Hunter considered that
+  [[Ecliptic|ecliptic]], had taken place in geological times. Hunter considered that
   very few fossils of those that resemble recent forms are identical
   with them. He conceived that the latter might be varieties, but that
   if they are really different species, then "we must suppose that a new
@@ -660,15 +660,15 @@ north aisle of the nave, close to the resting-place of Ben Jonson.
   effects of injury and disease in general. To attempt to set forth what
   in Hunter's teaching was new to pathology and systematic surgery, or
   was rendered so by his mode of treatment, would be well-nigh to
-  present an epitome of all that he wrote on those subjects. "When we
+  present an [[Epitome|epitome]] of all that he wrote on those subjects. "When we
   make a discovery in pathology," says Adams, writing in 1818, "we only
   learn what we have overlooked in his writings or forgotten in his
   lectures." Surgery, which only in 1745 had formally ceased to be
-  associated with "the art and mystery of barbers," he raised to the
+  associated with "the art and mystery of [[Barber|barbers]]," he raised to the
   rank of a scientific profession. His doctrines were, necessarily, not
   those of his age: while lesser minds around him were still dim with
-  the mists of the ignorance and dogmatism of times past, his lofty
-  intellect was illumined by the dawn of a distant day.
+  the mists of the [[Ignorance|ignorance]] and dogmatism of times past, his lofty
+  [[Intellect|intellect]] was illumined by the dawn of a distant day.
 
   AUTHORITIES.--See, besides the above quoted publications, _An Appeal
   to the present Parliament ... on the subject of the late J. Hunter's
@@ -698,7 +698,7 @@ FOOTNOTES:
 
   [1] The date is thus entered in the parish register, see Joseph
     Adams, _Memoirs_, Appendix, p. 203. The Hunterian Oration, instituted
-    in 1813 by Dr Matthew Baillie and Sir Everard Home, is delivered at
+    in 1813 by Dr [[Matthew]] Baillie and Sir Everard Home, is delivered at
     the Royal College of Surgeons on the 14th of February, which Hunter
     used to give as the anniversary of his birth.
 
@@ -709,7 +709,7 @@ FOOTNOTES:
   [3] So in Home's _Life_, p. xvi., and Ottley's, p. 15. Hunter himself
     (_Treatise on the Blood_, p. 62) mentions the date 1755.
 
-  [4] Ottley incorrectly gives 1753 as the date. In the buttery book
+  [4] Ottley incorrectly gives 1753 as the date. In the [[Buttery|buttery]] book
     for 1755 at St Mary's Hall his admission is thus noted: "Die Junii
     5^to 1755 Admissus est Johannes Hunter superioris ordinis
     Commensalis." Hunter apparently left Oxford after less than two
@@ -734,7 +734,7 @@ FOOTNOTES:
     violent fit of the cramp"; W. Clift, however, who says he probably
     never danced, believed that he met with the accident "in getting up
     from the dissecting table after being cramped by long sitting" (see
-    W. Lawrence, _Hunt. Orat._, 1834, p. 64).
+    W. [[Lawrence]], _Hunt. Orat._, 1834, p. 64).
 
   [9] The subjects and dates of his subsequent papers in the
     _Transactions_, the titles of which give little notion of the
@@ -742,20 +742,20 @@ FOOTNOTES:
     air-receptacles in birds, and the Gillaroo trout (1774); the
     _Gymnotus electricus_, and the production of heat by animals and
     vegetables (supplemented in 1777), (1775); the recovery of people
-    apparently drowned (1776); the free martin (1779); the communication
+    apparently drowned (1776); the free [[Martin|martin]] (1779); the communication
     of smallpox to the foetus in utero, and the occurrence of male
     plumage in old hen pheasants (1780); the organ of hearing in fishes
     (1782); the anatomy of a "new marine animal" described by Home
     (1785); the specific identity of the wolf, jackal and dog
     (supplemented in 1789), the effect on fertility of extirpation of one
     ovarium, and the structure and economy of whales (1787); observations
-    on bees (1793); and some remarkable caves in Bayreuth and fossil
+    on bees (1793); and some remarkable caves in [[Bayreuth]] and fossil
     bones found therein (1794). With these may be included a paper by
     Home, from materials supplied by Hunter, on certain horny
     excrescences of the human body.
 
-  [10] Mrs Hunter died on the 7th of January 1821, in Holles Street,
-    Cavendish Square, London, in her seventy-ninth year. She was a
+  [10] Mrs Hunter died on the 7th of January 1821, in [[Holles]] Street,
+    [[Cavendish]] Square, London, in her seventy-ninth year. She was a
     handsome and accomplished woman, and well fulfilled the social duties
     of her position. The words for Haydn's English canzonets were
     supplied by her, and were mostly original poems; of these the lines
@@ -779,7 +779,7 @@ FOOTNOTES:
     Phil. Trans., vol. xxxix., 1736, pp. 287 and 299.
 
   [15] _Essays and Observations_, i. 55, 56. "May we not claim for
-    him," says Sir Wm. Fergusson, with reference to these experiments,
+    him," says Sir Wm. [[Fergusson]], with reference to these experiments,
     "that he anticipated by a hundred years the scientific data on which
     the present system of human grafting is conducted?" (_Hunt. Orat._,
     1871, p. 17).
@@ -797,10 +797,10 @@ FOOTNOTES:
   [18] Bell lived with Hunter fourteen years, i.e. from 1775 to 1789,
     and was employed by him chiefly in making and drawing anatomical
     preparations for the museum. He died in 1792 at Sumatra, where he was
-    assistant-surgeon to the East India Company.
+    assistant-surgeon to the [[East India Company]].
 
   [19] O'Brien, dreading dissection by Hunter, had shortly before his
-    death arranged with several of his countrymen that his corpse should
+    death arranged with several of his countrymen that his [[Corpse|corpse]] should
     be conveyed by them to the sea, and sunk in deep water; but his
     undertaker, who had entered into a pecuniary compact with the great
     anatomist, managed that while the escort was drinking at a certain
@@ -812,7 +812,7 @@ FOOTNOTES:
     division boiled to obtain the bones. See Tom Taylor, _Leicester
     Square_, ch. xiv. (1874); cf. _Annual Register_, xxvi. 209 (1783).
 
-  [20] See C. R. Leslie and Tom Taylor, _Life and Times of Sir J.
+  [20] See C. R. [[Leslie]] and Tom Taylor, _Life and Times of Sir J.
     Reynolds_, ii. 474 (1865).
 
   [21] _Works_, i. 265-266.
@@ -822,14 +822,14 @@ FOOTNOTES:
     notes, in 1861, under the title of _Essays and Observations in
     Natural History, Anatomy, Physiology, Psychology and Geology_. On the
     destruction of Hunter's papers see Clift's "Appendix" in vol. ii. p.
-    497, also W. H. Flower, _Introd. Lect._, pp. 7-9 (1870).
+    497, also W. H. [[Flower]], _Introd. Lect._, pp. 7-9 (1870).
 
   [23] In his _Treatise on the Blood_, p. 288, Hunter observes: "We
-    find it a common principle in the animal machine, that every part
+    find it a common principle in the animal [[Machine|machine]], that every part
     increases in some degree according to the action required. Thus we
     find ... vessels become larger in proportion to the necessity of
     supply, as for instance, in the gravid uterus; the external carotids
-    in the stag, also, when his horns are growing, are much larger than
+    in the stag, also, when his [[Horn|horns]] are growing, are much larger than
     at any other time."
 
   [24] See Sir R. Owen, "John Hunter and Vivisection," _Brit. Med.

@@ -1,7 +1,7 @@
 # Cepheus
 
 CEPHEUS, in Greek mythology, the father of Andromeda (q.v.); in
-astronomy, a constellation of the northern hemisphere, mentioned by
+[[Astronomy|astronomy]], a constellation of the northern hemisphere, mentioned by
 Eudoxus (4th century B.C.) and Aratus (3rd century B.C.). Ptolemy
 catalogued 13 stars in this constellation, Tycho n, and Hevelius 51. The
 most interesting star in it is [delta] _Cephei_, a remarkable double

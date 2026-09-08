@@ -18,12 +18,12 @@ operator, and a clear and incisive writer, and though in lecturing he
 was afflicted with a stutter, he frequently utilized it with humorous
 effect and emphasis. From 1843 to 1849 he was editor of _Guy's Hospital
 Reports_, which contain many of his papers, particularly on stricture of
-the urethra, puncture of the bladder, injuries to the head, and hernia.
+the urethra, puncture of the [[Bladder|bladder]], injuries to the head, and hernia.
 He was the first English surgeon to perform pharyngotomy with success,
 and also one of the first to succeed in trephining for middle meningeal
-haemorrhage; but the operation by which his name is known is that of
+[[Haemorrhage|haemorrhage]]; but the operation by which his name is known is that of
 opening the urethra through the perinaeum (see _Guy's Hospital Reports_,
-1866). He died at Kingston in 1892.
+1866). He died at [[Kingston]] in 1892.
 
 ## See also
 

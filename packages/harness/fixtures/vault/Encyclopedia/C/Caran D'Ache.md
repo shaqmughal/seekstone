@@ -1,6 +1,6 @@
 # Caran D'Ache
 
-CARAN D'ACHE, the pseudonym (meaning "lead-pencil") of Emmanuel Poire
+CARAN D'ACHE, the pseudonym (meaning "lead-pencil") of [[Emmanuel]] Poire
 (1858-1909), French artist and illustrator, who was born and educated at
 Moscow, being the grandson of one of Napoleon's officers who had settled
 in Russia. He determined to be a military painter, and when he arrived
@@ -16,12 +16,12 @@ mannered simplicity. Much of his work was contributed to _La Vie
 parisienne_, _Le Figaro illustre_, _La Caricature_, _Le Chat noir_, and
 he also issued various albums of sketches, the _Carnet de cheques_,
 illustrating the Panama scandals, _Album de croquis militaires et
-d'histoire sans legendes_, _Histoire de Marlborough_, &c., besides
+d'histoire sans legendes_, _Histoire de [[Marlborough]]_, &c., besides
 illustrating a good many books, notably the _Prince Kozakokoff_ of
 Bemadaky. He died on the 26th of February 1909.
 
   A collection of his work was exhibited at the Fine Art Society's rooms
-  in London in 1898. The catalogue contained a prefatory note by M.H.
+  in London in 1898. The [[Catalogue|catalogue]] contained a prefatory note by M.H.
   Spielmann.
 
 ## References

@@ -13,7 +13,7 @@ municipal building, also contains the public library and several
 noteworthy paintings, including "The Spirit of '76" or "Yankee Doodle"
 by Archibald M. Willard. The post office and custom-house was completed
 in 1904. There are several parks (Crocker, Fort Sewall, Seaside, and
-Fountain), and an old burying-ground, in which many of the early
+[[Fountain]]), and an old burying-ground, in which many of the early
 settlers and a number of soldiers of the War of Independence (including
 General John Glover) are buried; and a granite monument near the railway
 station commemorates the taking of the British supply and powder ship

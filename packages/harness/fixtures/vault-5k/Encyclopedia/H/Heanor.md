@@ -9,7 +9,7 @@ id: 42-1557
 
 HEANOR, an urban district in the Ilkeston parliamentary division of
 Derbyshire, England, 10 m. N.W. of Nottingham, on the Great Northern and
-Midland railways. Pop. (1901) 16,249. Large hosiery works employ many of
+Midland railways. Pop. (1901) 16,249. Large [[Hosiery|hosiery]] works employ many of
 the inhabitants, and collieries are worked in the parish. The urban
 district includes Codnor-cum-Loscoe. Shipley Hall, to the south of
 Heanor, is a mansion built on a hill, amidst fine gardens. The ruin of

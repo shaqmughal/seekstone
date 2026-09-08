@@ -13,7 +13,7 @@ horse, mule and ass. Those of the cat are not employed, and therefore it
 is supposed that the word is properly _kitgut, kit_ meaning "fiddle,"
 and that the present form has arisen through confusion with _kit_ = cat.
 The substance is used for the strings of harps and violins, as well as
-other stringed musical instruments, for hanging the weights of clocks,
+other stringed musical instruments, for [[Hanging|hanging]] the weights of clocks,
 for bow-strings, and for suturing wounds in surgery. To prepare it the
 intestines are cleaned, freed from fat, and steeped for some time in
 water, after which their external membrane is scraped off with a blunt

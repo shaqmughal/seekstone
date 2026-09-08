@@ -70,7 +70,7 @@ years he passed in retirement and literary activity. In 1840 he was
 reinstated in his professorship, and in 1841 was chosen rector of the
 university. The revolutionary outbreak of 1848 rekindled in the
 venerable patriot his old hopes and energies, and he took his seat as
-one of the deputies to the National Assembly at Frankfort. He formed one
+one of the deputies to the National Assembly at [[Frankfort]]. He formed one
 of the deputation that offered the imperial crown to Frederick William
 IV., and indignant at the king's refusal to accept it, he retired with
 the majority of von Gagern's adherents from public life. He continued to

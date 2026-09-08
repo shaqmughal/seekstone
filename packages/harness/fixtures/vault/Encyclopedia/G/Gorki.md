@@ -2,17 +2,17 @@
 
 GORKI, MAXIM (1868-   ), the pen-name of the Russian novelist Alexei
 Maximovich Pyeshkov, who was born at Nizhni-Novgorod on the 26th of
-March 1868. His father was a dyer, but he lost both his parents in
+March 1868. His father was a [[Dyer|dyer]], but he lost both his parents in
 childhood, and in his ninth year was sent to assist in a boot-shop. We
 find him afterwards in a variety of callings, but devouring books of all
 sorts greedily, whenever they fell into his hands. He ran away from the
-boot-shop and went to help a land-surveyor. He was then a cook on board
+boot-shop and went to help a land-surveyor. He was then a [[Cook|cook]] on board
 a steamer and afterwards a gardener. In his fifteenth year he tried to
 enter a school at Kazan, but was obliged to betake himself again to his
-drudgery. He became a baker, than hawked about _kvas_, and helped the
-barefooted tramps and labourers at the docks. From these he drew some of
+drudgery. He became a [[Baker|baker]], than hawked about _kvas_, and helped the
+barefooted tramps and labourers at the [[Dock|docks]]. From these he drew some of
 his most striking pictures, and learned to give sketches of humble life
-generally with the fidelity of a Defoe. After a long course of drudgery
+generally with the fidelity of a [[Defoe]]. After a long course of drudgery
 he had the good fortune to obtain the place of secretary to a barrister
 at Nizhni-Novgorod. This was the turning-point of his fortunes, as he
 found a sympathetic master who helped him. He also became acquainted

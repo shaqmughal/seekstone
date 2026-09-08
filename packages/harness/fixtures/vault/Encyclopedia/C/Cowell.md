@@ -1,8 +1,8 @@
 # Cowell
 
 COWELL, JOHN (1554-1611), English jurist, was born at Ernsborough,
-Devonshire. He was educated at Eton, and King's College, Cambridge,
-ultimately becoming professor of civil law in that university, and
+[[Devonshire]]. He was educated at [[Eton]], and King's College, Cambridge,
+ultimately becoming professor of [[Civil Law|civil law]] in that university, and
 master of Trinity Hall. In 1607 he compiled a law dictionary, _The
 Interpreter_, in which he exalted the king's prerogative so much that he
 was prosecuted before the House of Commons by Sir Edward Coke, and saved

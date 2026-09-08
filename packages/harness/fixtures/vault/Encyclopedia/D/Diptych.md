@@ -12,7 +12,7 @@ love-letters), and official tokens of the commencement of a consul's,
 praetor's or aedile's term of office. The latter variety of diptych was
 inscribed with the magistrate's name and bore his portrait, and was
 issued to his friends and the public generally. They were made of
-boxwood or maple. More costly examples were in cedar, ivory (q.v.),
+boxwood or [[Maple|maple]]. More costly examples were in cedar, [[Ivory|ivory]] (q.v.),
 silver or sometimes gold. They were often sent as New Year gifts.
 
 (2)In the primitive church when the worshippers brought their own
@@ -30,7 +30,7 @@ from which a person could be excluded on account of suspicion of heresy
 or by the intrigues of enemies. His name could, if written, be expunged
 under similar circumstances. The names thus written were read from the
 ambo, in which the diptych was kept. The reading of these names during
-the canon of the mass gave rise to the term _canonization_. By various
+the canon of the mass gave rise to the term _[[Canonization|canonization]]_. By various
 councils it was ordained that the name of the pope should always be
 inserted in the diptych list.
 
@@ -46,7 +46,7 @@ living, a diptych might be a _diptycha episcoporum_, _diptycha
 mortuorum_ or _diptycha vivorum_.
 
 In course of time the list of the names swelled to such proportions that
-the space afforded by the diptych was insufficient. A third fold was
+the space afforded by the diptych was insufficient. A third [[Fold|fold]] was
 consequently provided, and the tablet became a _triptych_ (though the
 name _diptych_ was retained as a general term for the object). Further
 room was afforded by the insertion of leaves of parchment or wood

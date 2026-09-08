@@ -12,11 +12,11 @@ valuable woods and abounding with deer and wild hogs. Its chief towns
 are Coxen Hole and Puerto Real. Its trade is chiefly with New Orleans in
 plantains, cocoa-nuts, pineapples and other fruit. Guanaja is 9 m. long
 by 5 m. broad; it lies 15 m. E.N.E. of Roatan. Wild hogs abound in its
-thickly-wooded limestone hills. The other islands are comparatively
+thickly-wooded [[Limestone|limestone]] hills. The other islands are comparatively
 small, and may, in some cases, be regarded as detached parts of Roatan,
 with which they are connected by reefs. Guanaja was discovered in 1502
 by Columbus, but the islands were not colonized until the 17th century,
-when they were occupied by British logwood cutters from Belize, and
+when they were occupied by British logwood cutters from [[Belize]], and
 pearlers from the Mosquito Coast. Forts were built on Roatan in 1742,
 but abandoned in 1749. In 1852 the islands were annexed by Great
 Britain. In 1859 they were ceded to Honduras.

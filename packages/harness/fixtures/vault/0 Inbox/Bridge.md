@@ -1,8 +1,8 @@
 # Bridge
 
-BRIDGE, a game of cards, developed out of the game of whist. The country of
+BRIDGE, a [[Game|game]] of [[Cards|cards]], developed out of the game of whist. The country of
 its origin is unknown. A similar game is said to have been played in
-Denmark in the middle of the 19th century. A game in all respects the same
+[[Denmark]] in the middle of the 19th century. A game in all respects the same
 as bridge, except that in "no trumps" each trick counted ten instead of
 twelve, was played in England about 1884 under the name of Dutch whist.
 Some connect it with Turkey and Egypt under the name of "Khedive," or with
@@ -30,22 +30,22 @@ trumps ("chicane"), and for winning all the tricks or all but one ("slam").
 The score has to be kept on paper. It is usual for the scoring block to
 have two vertical columns divided halfway by a horizontal line. The left
 column is for the scorers' side, and the right for the opponents'. Honours
-are scored above the horizontal line, and tricks below. The drawback to
+are scored above the horizontal line, and tricks below. The [[Drawback|drawback]] to
 this arrangement is that, since the scores for each hand are not kept
-separately, it is generally impossible to trace an error in the score
+separately, it is generally impossible to trace an [[Error|error]] in the score
 without going through the whole series of hands. A better plan, it seems,
 is to have four columns ruled, the inner two being assigned to tricks, the
 outer ones to honours. By this method a line can be reserved for each hand,
 and any discrepancy in the scores at once rectified.
 
-The Portland Club, London, drew up a code of laws in 1895, and this code,
+The Portland Club, London, drew up a [[Code|code]] of laws in 1895, and this code,
 with a few amendments, was in July 1895 adopted by a joint committee of the
 Turf and Portland Clubs. A revised code came into force in January 1905,
 the provisions of which are here summarized.
 
-Each trick above 6 counts 2 points in a spade declaration, 4 in a club, 6
+Each trick above 6 counts 2 points in a spade [[Declaration|declaration]], 4 in a club, 6
 in a diamond, 8 in a heart, 12 in a no-trump declaration. The game consists
-of 30 points made by tricks alone. When one side has won two games the
+of 30 points made by tricks alone. When one side has won two [[Games|games]] the
 rubber is ended. The winners are entitled to add 100 points to their score.
 Honours consist of ace, king, queen, knave, ten, in a suit declaration. If
 a player and his partner conjointly hold 3 (or "simple") honours they score
@@ -142,7 +142,7 @@ should be declared if the hand is nearly strong enough for no trumps, also
 if the hand is very irregular with one suit missing or five of a black
 suit. Six diamonds with one honour, five with three honours or four all
 honours should be declared; weaker diamonds should be declared if the suits
-are irregular, especially if blank in hearts. Six clubs with three honours
+are irregular, especially if [[Blank|blank]] in hearts. Six clubs with three honours
 or five with four honours should be declared. Spades are practically only
 declared with a weak hand; with only a king in the hand a suit of five
 spades should be declared as a defensive measure. With nothing above a ten
@@ -151,7 +151,7 @@ hands a suit of five clubs or of six red cards will probably prove less
 expensive.
 
 _Declarations by Dummy._--From the fact that the call has been passed, the
-dealer's partner must credit the dealer with less than average strength as
+dealer's partner must [[Credit|credit]] the dealer with less than average strength as
 regards the rank of his cards, and probably a slightly increased number of
 black cards; he must therefore be more backward in making a high
 declaration whenever he can make a sound declaration of less value. On the
@@ -475,7 +475,7 @@ may assist him to fulfil his contract, but shall not entitle him to any
 bonus for a double or redouble. A revoking side may score nothing either
 above or below the line except for honours or chicane. As regards the
 essential feature of auction bridge, the competitive declaration, it is
-impossible here to discuss the intricacies involved. It entails, clearly,
+impossible here to [[Discus|discuss]] the intricacies involved. It [[Entail|entails]], clearly,
 much reliance on a good partner, since the various rounds of bidding enable
 good players to draw inferences as to where the cards lie. The game opens
 the door to much larger scores than ordinary bridge, and since the end only
@@ -486,7 +486,7 @@ the winner by points, and many players prefer to go for points (_i.e._
 above the line) extorted from their opponents rather than for fulfilling a
 declaration made by themselves.
 
-AUTHORITIES.--"Hellespont," _Laws and Principles of Bridge_; W. Dalton,
+AUTHORITIES.--"Hellespont," _Laws and Principles of Bridge_; W. [[Dalton]],
 _Saturday Bridge_, containing full bibliography (London, 1906); J. B.
 Elwell, _Advanced Bridge_; R. F. Foster, _Bridge Tactics_; "Badsworth,"
 _Laws and Principles of Bridge_; E. Bergholt, _Double-Dummy Bridge:

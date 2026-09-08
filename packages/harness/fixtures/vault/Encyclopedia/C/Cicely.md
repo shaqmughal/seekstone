@@ -7,7 +7,7 @@ tags: [science, history]
 
 # Cicely
 
-CICELY, _Myrrhis odorata_ (natural order Umbelliferae), a perennial herb
+CICELY, _Myrrhis odorata_ (natural order Umbelliferae), a perennial [[Herb|herb]]
 with a leafy hollow stem, 2 to 3 ft. high, much divided leaves, whitish
 beneath, a large sheathing base, and terminal umbels of small white
 flowers, the outer ones only of which are fertile. The fruit is dark

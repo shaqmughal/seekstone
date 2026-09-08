@@ -9,7 +9,7 @@ id: 42-3022
 
 BARRY, JAMES (1741-1806), English painter, was born at Cork on the 11th of
 October 1741. His father had been a builder, and, at one time of his life,
-a coasting trader between the two countries of England and Ireland. To this
+a [[Coasting|coasting]] trader between the two countries of England and Ireland. To this
 business of trader James was destined, and he actually made when a boy
 several voyages; but he manifested such an aversion to the life and habits
 of a sailor as to induce his father to suffer him to pursue his own
@@ -18,11 +18,11 @@ in Cork to which he was sent he was regarded as a prodigy. About the age of
 seventeen he first attempted oil-painting, and between that and the age of
 twenty-two, when he first went to Dublin, he produced several large
 pictures, which decorated his father's house, such as "Aeneas escaping with
-his Family from the Flames of Troy," "Susanna and the Elders," "Daniel in
+his Family from the Flames of Troy," "Susanna and the Elders," "[[Daniel]] in
 the Lions' Den," &c. At this period he also produced the painting which
 first brought him into public notice, and gained him the acquaintance and
 patronage of Edmund Burke. The picture was founded on an old tradition of
-the landing of St Patrick on the sea-coast of Cashel, and of the conversion
+the landing of St Patrick on the sea-coast of Cashel, and of the [[Conversion|conversion]]
 and baptism of the king of that district by the patron saint of Ireland. It
 was exhibited in London in 1762 or 1763.
 
@@ -30,20 +30,20 @@ By the liberality of Burke and his other friends, Barry in the latter part
 of 1765 was enabled to go abroad. He went first to Paris, then to Rome,
 where he remained upwards of three years, from Rome to Florence and
 Bologna, and thence home through Venice. His letters to the Burkes, giving
-an account of Raphael, Michelangelo, Titian and Leonardo da Vinci, show
+an account of Raphael, Michelangelo, Titian and [[Leonardo Da Vinci|Leonardo da Vinci]], show
 remarkable insight. Barry painted two pictures while abroad, an Adam and
 Eve, and a Philoctetes, neither of them of any merit. Soon after his return
 to England in 1771 he produced his picture of Venus, which was compared,
 though with little justice, to the Galatea of Raphael, the Venus of Titian
-and the Venus de Medici. In 1773 he exhibited his "Jupiter and Juno on
-Mount Ida." His [v.03 p.0445] "Death of General Wolfe," in which the
-British and French soldiers are represented in very primitive costumes, was
+and the Venus de Medici. In 1773 he exhibited his "Jupiter and [[Juno]] on
+Mount [[Ida]]." His [v.03 p.0445] "Death of General Wolfe," in which the
+British and French soldiers are represented in very primitive [[Costume|costumes]], was
 considered as a falling-off from his great style of art. His fondness for
 Greek costume was assigned by his admirers as the cause of his reluctance
 to paint portraits. His failure to go on with a portrait of Burke which he
 had begun caused a misunderstanding with his early patron. The difference
 between them is said to have been widened by Burke's growing intimacy with
-Sir Joshua Reynolds, and by Barry's feeling some little jealousy of the
+Sir [[Joshua]] Reynolds, and by Barry's feeling some little [[Jealousy|jealousy]] of the
 fame and fortune of his rival "in a humbler walk of the art." About the
 same time he painted a pair of classical subjects, Mercury inventing the
 lyre, and Narcissus looking at himself in the water, the last suggested to
@@ -57,7 +57,7 @@ failure, for he had in anticipation fixed upon the subject he intended to
 paint--the rejection of Christ by the Jews when Pilate proposes his
 release. In 1773 he published _An Inquiry into the real and imaginary
 Obstructions to the Acquisition of the Arts in England_, vindicating the
-capacity of the English for the fine arts and tracing their slow progress
+capacity of the English for the [[Fine Arts|fine arts]] and tracing their slow progress
 hitherto to the Reformation, to political and civil dissensions, and lastly
 to the general direction of the public mind to mechanics, manufactures and
 commerce. In 1774 a proposal was made through Valentine Green to Reynolds,
@@ -71,7 +71,7 @@ His offer was accepted, and he finished the series of pictures at the end
 of seven years to the entire satisfaction of the members of the society,
 who granted him two exhibitions, and at different periods voted him 50
 guineas, their gold medal and 200 guineas. Of the six paintings making up
-the series, only one, that of the Olympic Games, shows any artistic power.
+the series, only one, that of the Olympic [[Games]], shows any artistic power.
 
 Soon after his return from the continent Barry had been chosen a member of
 the Royal Academy; and in 1782 he was appointed professor of painting in
@@ -80,8 +80,8 @@ insisted on the necessity of purchasing a collection of pictures by the
 best masters as models for the students, and proposed several of those in
 the Orleans collection. This recommendation was not relished, and in 1799
 Barry was expelled from the academy, soon after the appearance of his
-_Letter to the Dilettanti Society_, a very amusing but eccentric
-publication, full of enthusiasm for his art and at the same time of
+_Letter to the Dilettanti Society_, a very amusing but [[Eccentric|eccentric]]
+publication, full of [[Enthusiasm|enthusiasm]] for his art and at the same time of
 contempt for the living professors of it. After the loss of his salary, a
 subscription was set on foot by the earl of Buchan to relieve him from his
 difficulties, and to settle him in a larger house to finish his picture of

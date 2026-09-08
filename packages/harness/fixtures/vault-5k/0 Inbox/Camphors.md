@@ -7,8 +7,8 @@ id: 42-4282
 
 # Camphors
 
-CAMPHORS, organic chemical compounds, the alcohols and ketones of the
-hydrocarbons known as terpenes, occurring associated with volatile oils
+CAMPHORS, organic chemical [[Compound|compounds]], the alcohols and ketones of the
+[[Hydrocarbon|hydrocarbons]] known as terpenes, occurring associated with volatile oils
 in many plants. They are extracted together with volatile oils by
 distilling certain plants with steam, the volatile oils being
 subsequently separated by fractional distillation. The term "camphor" is
@@ -43,7 +43,7 @@ sparingly soluble in water, but very soluble in alcohol, ether and in
 alkaline solutions. In medicine it is used as an antiseptic, being more
 active than phenol. Iodine and potash convert it into di-iodthymol,
 which has been introduced in surgery under the names _aristol_ and
-_annidalin_, as a substitute for iodoform.
+_annidalin_, as a substitute for [[Iodoform|iodoform]].
 
 _Borneol, Borneo camphor_ or camphol, also known as Malayan, Barus or
 Dryobalanops camphor, C10H17OH, occurs in fissures in the wood of
@@ -84,7 +84,7 @@ diaphoretic and a feeble antipyretic. It is excreted by the kidneys as
 various substances, including campho-glycuric acid (Schmiedeberg). In
 large doses it causes marked nervous symptoms, exhilaration being
 followed by abdominal pain, violent epileptiform convulsions, coma and
-death. Its internal uses are in hysteria, and in such conditions as
+death. Its internal uses are in [[Hysteria|hysteria]], and in such conditions as
 diarrhoea, dysentery and cholera. It is a popular remedy for "cold in
 the head," but it is not to be relied upon as a prophylactic against
 infection either by an ordinary cold or true influenza.

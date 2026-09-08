@@ -24,7 +24,7 @@ increased his reputation by his conduct as proconsul of Asia. He acquired
 much influence with the emperor Hadrian, who adopted him as his son and
 successor on the 25th of February 138, after the death of his first
 adopted son Aelius Verus, on condition that he himself adopted Marcus
-Annius Verus, his wife's brother's son, and Lucius, son of Aelius Verus,
+Annius Verus, his wife's brother's son, and [[Lucius]], son of Aelius Verus,
 afterwards the emperors Marcus Aurelius and Lucius Aelius Verus
 (colleague of Marcus Aurelius). A few months afterwards, on Hadrian's
 death, he was enthusiastically welcomed to the throne by the Roman
@@ -43,31 +43,31 @@ them the strong hand of his protection throughout the empire. Rather than
 give occasion to that oppression which he regarded as inseparable from an
 emperor's progress through his dominions, he was content to spend all the
 years of his reign in Rome, or its neighbourhood. Under his patronage the
-science of jurisprudence was cultivated by men of high ability, and a
+science of [[Jurisprudence|jurisprudence]] was cultivated by men of high ability, and a
 number of humane and equitable enactments were passed in his name. Of the
 public transactions of this period we have but scant information, but, to
 judge by what we possess, those twenty-two years were not remarkably
 eventful. One of his first acts was to persuade the senate to grant
 divine honours to Hadrian, which they had at first refused; this gained
 him the title of Pius (dutiful in affection). He built temples, theatres,
-and mausoleums, promoted the arts and sciences, and bestowed honours and
+and [[Mausoleum|mausoleums]], promoted the arts and sciences, and bestowed honours and
 salaries upon the teachers of rhetoric and philosophy. His reign was
 comparatively peaceful. Insurrections amongst the Moors, Jews, and
-Brigantes in Britain were easily put down. The one military result which
+[[Brigantes]] in Britain were easily put down. The one military result which
 is of interest to us now is the building in Britain of the wall of
-Antoninus from the Forth to the Clyde. In his domestic relations
-Antoninus was not so fortunate. His wife, Faustina, has almost become a
+Antoninus from the Forth to the [[Clyde]]. In his [[Domestic Relations|domestic relations]]
+Antoninus was not so fortunate. His wife, [[Faustina]], has almost become a
 byword for her lack of womanly virtue; but she seems to have kept her
 hold on his affections to the last. On her death he honoured her memory
 by the foundation of a charity for orphan girls, who bore the name of
 _Alimentariae Faustinianae_. He had by her two sons and two daughters;
 but they all died before his elevation to the throne, except Annia
-Faustina, who became the wife of Marcus Aurelius. Antoninus died of fever
-at Lorium in Etruria, about 12 m. from Rome, on the 7th of March 161,
+Faustina, who became the wife of Marcus Aurelius. Antoninus died of [[Fever|fever]]
+at [[Lorium]] in Etruria, about 12 m. from Rome, on the 7th of March 161,
 giving the keynote to his life in the last word that he uttered when the
 tribune of the night-watch came to ask the password--_aequanimitas_.
 
-  The only account of his life handed down to us is that of Julius
+  The only account of his life handed down to us is that of [[Julius]]
   Capitolinus, one of the _Scriptores Historiae Augustae_. See
   Bossart-Mueller, _Zur Geschichte des Kaisers A._ (1868); Lacour-Gayet,
   _A. le Pieux et son Temps_ (1888); Bryant, _The Reign of Antonine_

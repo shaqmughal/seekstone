@@ -14,17 +14,17 @@ England. By his strenuous efforts and perseverance, aided by the
 secretarial ability of Sir W. R. Drake, he founded the Royal Society of
 Painter-Etchers and Engravers. As president he ruled the destinies of
 that society with a strong hand from its first beginnings in 1880. In
-1843-1844, with his friends Duval, Le Cannes and Col. Guibout, he had
+1843-1844, with his friends [[Duval]], Le Cannes and Col. Guibout, he had
 travelled in Italy and made his first sketches from nature. Haden
 attended no art school and had no art teachers, but in 1845, 1846, 1847
 and 1848 he studied portfolios of prints belonging to an old second-hand
 dealer named Love, who had a shop in Bunhill Row, the old Quaker quarter
 of London. These portfolios he would carry home, and arranging the
 prints in chronological order, he studied the works of the great
-original engravers, Durer, Lucas van Leyden and Rembrandt. These
+original engravers, Durer, [[Lucas]] van [[Leyden]] and Rembrandt. These
 studies, besides influencing his original work, led to his important
 monograph on the etched work of Rembrandt. By lecture and book, and with
-the aid of the memorable exhibition at the Burlington Fine Arts Club in
+the aid of the memorable exhibition at the [[Burlington]] [[Fine Arts]] Club in
 1877, he endeavoured to give a just idea of Rembrandt's work, separating
 the true from the false, and giving altogether a nobler idea of the
 master's mind by taking away from the list of his works many dull and
@@ -45,30 +45,30 @@ Of his original plates, more than 250 in number, one of the most notable
 was the large "Breaking up of the Agamemnon." An early plate, rare and
 most beautiful, is "Thames Fisherman." "Mytton Hall" is broad in
 treatment, and a fine rendering of a shady avenue of yew trees leading
-to an old manor-house in sunlight. "Sub Tegmine" was etched in Greenwich
+to an old manor-house in sunlight. "Sub Tegmine" was etched in [[Greenwich]]
 Park in 1859; and "Early Morning--Richmond," full of the poetry and
 freshness of the hour, was done, the artist has said, actually at
 sunrise. One of the rarest and most beautiful of his plates is "A
 By-Road in Tipperary"; "Combe Bottom" is another; and "Shere Mill Pond"
 (both the small study and the larger plate), "Sunset in Ireland,"
 "Penton Hook," "Grim Spain" and "Evening Fishing, Longparish," are also
-notable examples of his genius. A catalogue of his works was begun by
-Sir William Drake and completed by Mr N. Harrington (1880). During later
+notable examples of his genius. A [[Catalogue|catalogue]] of his works was begun by
+Sir William Drake and completed by Mr N. [[Harrington]] (1880). During later
 years Haden began to practise the sister art of mezzotint engraving,
 with a measure of the same success that he had already achieved in pure
 etching and in dry-point. Some of his mezzotints are: "An Early Riser,"
-a stag seen through the morning mists, "Grayling Fishing" and "A Salmon
+a stag seen through the morning mists, "[[Grayling]] Fishing" and "A Salmon
 Pool on the Spey." He also produced some remarkable drawings of trees
-and park-like country in charcoal.
+and park-like country in [[Charcoal|charcoal]].
 
 Other books by Haden not already mentioned are--_Etudes a l'eau forte_
 (Paris, 1865); _About Etching_ (London, 1878-1879); _The Art of the
 Painter-Etcher_ (London, 1890); _The Relative Claims of Etching and
 Engraving to rank as Fine Arts and to be represented in the Royal
 Academy_ (London, 1883); _Address to Students of Winchester School of
-Art_ (Winchester, 1888); _Cremation: a Pamphlet_ (London, 1875); and
+Art_ (Winchester, 1888); _[[Cremation]]: a Pamphlet_ (London, 1875); and
 _The Disposal of the Dead, a Plea for Legislation_ (London, 1888). As
-the last two indicate, he was an ardent champion of a system of "earth
+the last two indicate, he was an ardent [[Champion|champion]] of a system of "earth
 to earth" burial.
 
 Among numerous distinctions he received the Grand Prix, Paris, in 1889

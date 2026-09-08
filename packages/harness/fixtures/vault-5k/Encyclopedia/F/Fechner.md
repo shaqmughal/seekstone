@@ -2,8 +2,8 @@
 
 FECHNER, GUSTAV THEODOR (1801-1887), German experimental psychologist,
 was born on the 19th of April 1801 at Gross-Sarchen, near Muskau, in
-Lower Lusatia, where his father was pastor. He was educated at Sorau and
-Dresden and at the university of Leipzig, in which city he spent the
+Lower [[Lusatia]], where his father was pastor. He was educated at Sorau and
+[[Dresden]] and at the university of Leipzig, in which city he spent the
 rest of his life. In 1834 he was appointed professor of physics, but in
 1839 contracted an affection of the eyes while studying the phenomena of
 colour and vision, and, after much suffering, resigned. Subsequently
@@ -38,7 +38,7 @@ sensation, so that any sensation S might be regarded as composed of n
 units. Sensations, he argued, thus being representable by numbers,
 psychology may become an "exact" science, susceptible of mathematical
 treatment. His general formula for getting at the number of units in any
-sensation is S = C log R, where S stands for the sensation, R for the
+sensation is S = C [[Log|log]] R, where S stands for the sensation, R for the
 stimulus numerically estimated, and C for a constant that must be
 separately determined by experiment in each particular order of
 sensibility. This reasoning of Fechner's has given rise to a great mass
@@ -51,7 +51,7 @@ sensation has been a fruitful one, and mainly through his influence on
 Wundt, Fechner was the father of that "new" psychology of laboratories
 which investigates human faculties with the aid of exact scientific
 apparatus. Though he has had a vast influence in this special
-department, the disciples of his general philosophy are few. His
+department, the [[Disciple|disciples]] of his general philosophy are few. His
 world-conception is highly animistic. He feels the thrill of life
 everywhere, in plants, earth, stars, the total universe. Man stands
 midway between the souls of plants and the souls of stars, who are
@@ -72,7 +72,7 @@ the monadism of Lotze.
   Andenken G. Th. Fechners," in _Grenzbote_, 1888; J.E. Kuntze, _G. Th.
   Fechner_ (Leipzig, 1892); Karl Lasswitz, _G. Th. Fechner_ (Stuttgart,
   1896 and 1902); E.B. Titchener, _Experimental Psychology_ (New York,
-  1905); G.F. Stout, _Manual of Psychology_ (1898), bk. ii. ch. vii.; R.
+  1905); G.F. Stout, _[[Manual]] of Psychology_ (1898), bk. ii. ch. vii.; R.
   Falckenberg, _Hist. of Mod. Phil._ (Eng. trans., 1895), pp. 601 foll.;
   H. Hoffding, _Hist. of Mod. Phil._ (Eng. trans., 1900), vol. ii. pp.
   524 foll.; Liebe, _Fechners Metaphysik, im Umriss dargestellt_ (1903).

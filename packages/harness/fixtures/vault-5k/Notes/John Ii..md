@@ -2,7 +2,7 @@
 
 JOHN II. (1319-1364), surnamed the Good, king of France, son of Philip
 VI. and Jeanne of Burgundy, succeeded his father in 1350. At the age of
-13 he married Bona of Luxemburg, daughter of John, king of Bohemia. His
+13 he married [[Bona]] of Luxemburg, daughter of John, king of Bohemia. His
 early exploits against the English were failures and revealed in the
 young prince both avarice and stubborn persistence in projects obviously
 ill-advised. It was especially the latter quality which brought about
@@ -20,11 +20,11 @@ its festivals with great display. Raids of the Black Prince in Languedoc
 led to the states-general of 1355, which readily voted money, but
 sanctioned the right of resistance against all kinds of pillage--a
 distinct commentary on the incompetence of the king. In September 1356
-John gathered the flower of his chivalry and attacked the Black Prince
+John gathered the flower of his [[Chivalry|chivalry]] and attacked the Black Prince
 at Poitiers. The utter defeat of the French was made the more
 humiliating by the capture of their king, who had bravely led the third
 line of battle. Taken to England to await ransom, John was at first
-installed in the Savoy Palace, then at Windsor, Hertford, Somerton, and
+installed in the Savoy Palace, then at Windsor, [[Hertford]], Somerton, and
 at last in the Tower. He was granted royal state with his captive
 companions, made a guest at tournaments, and supplied with luxuries
 imported by him from France. The treaty of Brétigny (1360), which fixed

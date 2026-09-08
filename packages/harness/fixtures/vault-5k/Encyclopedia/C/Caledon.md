@@ -10,7 +10,7 @@ type: reference
 CALEDON (1) a town of the Cape Province, 81 m. by rail E.S.E. of Cape Town.
 Pop. (1904) 3508. The town is 15 m. N. of the sea at Walker Bay and is
 built on a spur of the Zwartberg, 800 ft. high. The streets are lined with
-blue gums and oaks. From the early day of Dutch settlement at the Cape
+blue [[Gum|gums]] and oaks. From the early day of Dutch settlement at the Cape
 Caledon has been noted for the curative value of its mineral springs, which
 yield 150,000 gallons daily. There are seven springs, six with a natural
 temperature of 120 deg. F., the seventh [v.04 p.0987] being cold. The district

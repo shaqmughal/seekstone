@@ -10,13 +10,13 @@ mountaineers, from whom the district was named in Roman times ([Greek:
 Brettia] also in Greek writers). The Greek colonies were established
 first as trading stations, which grew into independent cities. At an
 early time a trade in copper was carried on between Greece and Temesa
-(Homer, _Od._ i. 181).[1] The trade for a long time was chiefly in the
-hands of the Euboeans; and Cyme (Cumae) in Campania was founded in the
+([[Homer]], _Od._ i. 181).[1] The trade for a long time was chiefly in the
+hands of the Euboeans; and Cyme (Cumae) in [[Campania]] was founded in the
 8th century B.C., when the Euboean Cyme was still a great city. After
 this the energy of Chalcis went onward to Sicily, and the states of the
 Corinthian Gulf carried out the colonization of Italy, Rhegium having
 been founded, it is true, by Chalcis, but after Messana (Zancle), and at
-the request of the inhabitants of the latter. Sybaris (721) and Crotona
+the request of the inhabitants of the latter. Sybaris (721) and [[Crotona]]
 (703) were Achaean settlements; Locri Epizephyrii (about 710) was
 settled by Ozolian Locrians, so that, had it not been for the Dorian
 colony of Tarentum, the southern coast of Italy would have been entirely
@@ -36,12 +36,12 @@ contend against the power of Carthage. After the Achaean cities had
 combined to destroy the Ionic Siris, and had founded Metapontum as a
 counterpoise to the Dorian Tarentum, there seems to have been little
 strife among the Italiotes. An amphictyonic league, meeting in common
-rites at the temple of Hera on the Lacinian promontory, fostered a
+rites at the temple of [[Hera]] on the Lacinian promontory, fostered a
 feeling of unity among them. The Pythagorean and Eleatic systems of
 philosophy had their chief seat in Magna Graecia. Other departments of
 literature do not seem to have been so much cultivated among them. The
-poet Ibycus, though a native of Rhegium, led a very wandering life. They
-sent competitors to the Olympic games (among them the famous Milo of
+poet [[Ibycus]], though a native of Rhegium, led a very wandering life. They
+sent competitors to the Olympic [[Games|games]] (among them the famous Milo of
 Croton); and the physicians of Croton early in the 6th century
 (especially in the person of Democedes) were reputed the best in Greece;
 but politically they appear to have generally kept themselves separate.
@@ -57,7 +57,7 @@ took comparatively little part; Locri was strongly anti-Athenian, but
 Rhegium, though it was the headquarters of the Athenians in 427,
 remained neutral in 415. Foreign enemies pressed heavily on it. The
 Lucanians and Bruttians on the north captured one town after another.
-Dionysius of Syracuse attacked them from the south; and after he
+[[Dionysius]] of Syracuse attacked them from the south; and after he
 defeated the Crotoniate league and destroyed Caulonia (389 B.C.),
 Tarentum remained the only powerful city. Henceforth the history of
 Magna Graecia is only a record of the vicissitudes of Tarentum (q.v.).

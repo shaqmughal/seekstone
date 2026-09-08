@@ -7,7 +7,7 @@ included in the French protectorate of Cambodia. It is situated in 103
 deg. 6' E., 13 deg. 6' N., in the midst of a fertile plain and on the
 river Sang Ke, which flows eastwards and falls into the Tonle or Tale
 Sap, the great lake of Cambodia. The town is a collection of bamboo
-houses of no importance, but there is a walled enceinte of some
+houses of no importance, but there is a walled [[Enceinte|enceinte]] of some
 historical interest. Trade is small and is carried on by Chinese
 settlers, chiefly overland with Bangkok, but to a small extent also by
 water with Saigon. The population is about 5000, two-thirds Cambodian

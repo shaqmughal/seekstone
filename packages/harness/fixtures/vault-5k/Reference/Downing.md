@@ -1,23 +1,23 @@
 # Downing
 
 DOWNING, SIR GEORGE, Bart. (c. 1624-1684), English soldier and
-diplomatist, son of Emmanuel Downing, barrister, and of Lucy, sister of
+diplomatist, son of [[Emmanuel]] Downing, barrister, and of Lucy, sister of
 Governor John Winthrop, was born in England about 1624.[1] His family
 joined Winthrop in America in 1638, settling in Salem, Massachusetts,
 and Downing studied at Harvard College. In 1645 he sailed for the West
 Indies as a preacher and instructor of the seamen, and arrived in
-England some time afterwards, becoming chaplain to Colonel John Okey's
+England some time afterwards, becoming [[Chaplain|chaplain]] to Colonel John Okey's
 regiment. Subsequently he seems to have abandoned his religious vocation
 for a military career, and in 1650 he was scout-master-general of
 Cromwell's forces in Scotland, and as such received in 1657 a salary of
 £365 and £500 as a teller of the exchequer. His marriage in 1654 with
-Frances, daughter of Sir William Howard of Naworth, and sister of the
+[[Franc|Frances]], daughter of Sir William [[Howard]] of Naworth, and sister of the
 1st earl of Carlisle, aided his advancement. In Cromwell's parliament of
 1654 he represented Edinburgh, and Carlisle in those of 1656 and 1659.
-He was one of the first to urge Cromwell to take the royal title and
+He was one of the first to urge [[Cromwell]] to take the royal title and
 restore the old constitution. In 1655 he was sent to France to
-remonstrate on the massacre of the Protestant Vaudois. Later in 1657 he
-was appointed resident at The Hague, to effect a union of the Protestant
+remonstrate on the [[Massacre|massacre]] of the Protestant Vaudois. Later in 1657 he
+was appointed resident at The [[Hague]], to effect a union of the Protestant
 European powers, to mediate between Portugal and Holland and between
 Sweden and Denmark, to defend the interests of the English traders
 against the Dutch, and to inform the government concerning the movements
@@ -43,7 +43,7 @@ Dutch as the commercial rivals of England. He had strongly supported the
 Navigation Act of 1660, and he now deliberately drew on the fatal and
 disastrous war. During its continuance he took part at home in the
 management of the treasury, introduced the appropriation of supplies,
-opposed strongly by Clarendon as an encroachment on the prerogative, and
+opposed strongly by [[Clarendon]] as an encroachment on the prerogative, and
 in May 1667 was made secretary to the commissioners, his appointment
 being much welcomed by Pepys.[4] He had been returned for Morpeth in the
 convention parliament of April 1660, a constituency which he represented
@@ -60,7 +60,7 @@ defended the Declaration of Indulgence the same year, and made himself
 useful in supporting the court policy. He died in July 1684. Downing
 Street, London, is named after him, while Downing College, Cambridge,
 derived its name from his grandson, the 3rd baronet. The title became
-extinct when the 4th baronet, Sir Jacob G. Downing, died in 1764.
+extinct when the 4th baronet, Sir [[Jacob]] G. Downing, died in 1764.
 
 Downing was undoubtedly a man of great political and diplomatic ability,
 but his talents were rarely employed for the advantage of his country

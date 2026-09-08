@@ -24,11 +24,11 @@ on the main line of railway to Aix-la-Chapelle. Pop. (1885) 44,230;
 (1905) 60,714. It is one of the chief manufacturing places in Rhenish
 Prussia, its principal industries being the spinning and weaving of
 cotton, the manufacture of silks, velvet, ribbon and damasks, and dyeing
-and bleaching. There are also tanneries, tobacco manufactories, machine
+and [[Bleaching|bleaching]]. There are also tanneries, tobacco manufactories, [[Machine|machine]]
 works and foundries. The town possesses a fine park and has statues of
 the emperor William I. and of Prince Bismarck. There are ten Roman
 Catholic churches here, among them being the beautiful minster, with a
-Gothic choir dating from 1250, a nave dating from the beginning of the
+[[Gothic]] choir dating from 1250, a nave dating from the beginning of the
 13th century and a crypt of the 8th century. The town has two hospitals,
 several schools, and is the headquarters of important insurance
 societies. Gladbach existed before the time of Charlemagne, and a

@@ -31,7 +31,7 @@ Under the microscope even with high powers and the very thinnest modern
 sections, it often cannot be resolved into its components. In places it
 may contain determinable minute crystals of quartz; less commonly it may
 show grains which can be proved to be felspar, but usually it consists
-of an ultra-microscopic aggregate of fibres, threads and grains, which
+of an ultra-microscopic aggregate of [[Fibres|fibres]], threads and grains, which
 react to polarized light in a feeble and indefinite manner. Spherulitic,
 spotted, streaky and fluidal structures may appear in it, and many
 different varieties have been established on such characters as these
@@ -40,7 +40,7 @@ but without much validity.
 Its association with the acid rocks, its hardness, method of weathering
 and chemical composition, indicate that it is an intermixture of quartz
 and acid felspar, and the occasional presence of these two minerals in
-well-defined grains confirms this. Moreover, in many dikes, while the
+well-defined grains confirms this. Moreover, in many [[Dike|dikes]], while the
 ground-mass is microcrystalline and consists of quartz and felspar near
 the centre of the mass, towards the margins, where it has been rapidly
 chilled by contact with the cold surrounding rocks, it is felsitic. The
@@ -62,7 +62,7 @@ its freezing point, and then consolidates simultaneously. This may be
 so, but analyses show that it has not always the same composition and
 consequently that the conditions which determine its formation are not
 quite simple. Felsitic rocks are sometimes silicified and have their
-matrix replaced by granular aggregates of cloudy quartz. (J. S. F.)
+[[Matrix|matrix]] replaced by granular aggregates of cloudy quartz. (J. S. F.)
 
 ## See also
 

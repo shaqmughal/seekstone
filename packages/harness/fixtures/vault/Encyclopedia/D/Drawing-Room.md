@@ -15,7 +15,7 @@ private and exclusive preserve of the ladies of the household, to which
 they withdrew from the dining-room. The term "drawing-room" is also used
 in a special sense of the formal receptions or "courts" held by the
 British sovereign or his representative, at which ladies are presented,
-as distinguished from a "levee," at which men are presented.
+as distinguished from a "[[Levee|levee]]," at which men are presented.
 
 ## See also
 

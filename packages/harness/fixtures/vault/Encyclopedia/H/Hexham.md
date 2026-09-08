@@ -8,15 +8,15 @@ pleasantly situated beneath the hills on the S. bank of the Tyne, and
 its market square and narrow streets bear many marks of antiquity. It is
 famous for its great abbey church of St Andrew. This building, as
 renovated in the 12th century, was to consist of nave and transepts,
-choir and aisles, and massive central tower. The Scots are believed to
+[[Choir|choir]] and aisles, and massive central tower. The Scots are believed to
 have destroyed the nave in 1296, but it may be doubted if it was ever
 completed. In 1536 the last prior was hanged for being concerned in the
-insurrection called the Pilgrimage of Grace. The church as it stands is
+insurrection called the Pilgrimage of [[Grace]]. The church as it stands is
 a fine monument of Early English work, with Transitional details.
 Within, although it suffered much loss during a restoration c. 1858,
 there are several objects of interest. Among these are a Roman slab,
 carved with figures of a horseman trampling upon an enemy, several fine
-tombs and stones of the 13th and 14th centuries, the frith or fridstool
+tombs and stones of the 13th and 14th centuries, the [[Frith|frith]] or fridstool
 of stone, believed to be the original bishop's throne, and the fine
 Perpendicular roodscreen of oak, retaining its loft. The crypt,
 discovered in 1726, is part of the Saxon church, and a noteworthy
@@ -24,7 +24,7 @@ example of architecture of the period. Its material is Roman, some of
 the stones having Roman inscriptions. These were brought from the Roman
 settlement at Corbridge, 4 m. E. of Hexham on the N. bank of the Tyne;
 for Hexham itself was not a Roman station. In 1832 a vessel containing
-about 8000 Saxon coins was discovered in the churchyard. Fragments of
+about 8000 Saxon [[Coin|coins]] was discovered in the churchyard. Fragments of
 the monastic buildings remain, and west of the churchyard is the monks'
 park, known as the Seal, and now a promenade, commanding beautiful
 views. In the town are two strong castellated towers of the 14th
@@ -38,8 +38,8 @@ It is replete with memories of the last earl of Derwentwater, who was
 beheaded in 1716 for his part in the Stuart rising of the previous year,
 and was buried in the chapel. There is an Elizabethan grammar school.
 Hexham and Newcastle form a Roman Catholic bishopric, with the cathedral
-at Newcastle. There are manufactures of leather gloves and other goods,
-and in the neighbourhood barytes and coal mines and extensive market
+at Newcastle. There are manufactures of leather [[Glove|gloves]] and other goods,
+and in the neighbourhood [[Barytes|barytes]] and coal mines and extensive market
 gardens.
 
 The church and monastery at Hexham (Hextoldesham) were founded about 673
@@ -59,10 +59,10 @@ liberty was annexed to the county of Northumberland. Hexham was a
 borough by prescription, and governed by a bailiff at least as early as
 1276, and the same form of government continued until 1853. In 1343 the
 men of Hexham were accused of pretending to be Scots and imprisoning
-many people of Northumberland and Cumberland, killing some and extorting
+many people of Northumberland and [[Cumberland]], killing some and extorting
 ransoms for others. The Lancastrians were defeated in 1464 near Hexham,
 and legend says that it was in the woods round the town that Queen
-Margaret and her son hid until their escape to Flanders. In 1522 the
+[[Margaret]] and her son hid until their escape to [[Flanders]]. In 1522 the
 bishop of Carlisle complained to Cardinal Wolsey, then archbishop of
 York, that the English thieves committed more thefts than "all the Scots
 of Scotland," the men of Hexham being worst of all, and appearing 100
@@ -72,14 +72,14 @@ affairs appears to have continued until the accession of James I., and
 in 1595 the bailiff and constables of Hexham were removed as being
 "infected with combination and toleration of thieves." Hexham was at one
 time the market town of a large agricultural district. In 1227 a market
-on Monday and a fair on the vigil and day of St Luke the Evangelist were
+on Monday and a fair on the vigil and day of St [[Luke]] the Evangelist were
 granted to the archbishop, and in 1320 Archbishop Melton obtained the
-right of holding two new fairs on the feasts of St James the Apostle
+right of holding two new fairs on the feasts of St James the [[Apostle]]
 lasting five days and of SS. Simon and Jude lasting six days. The market
-day was altered to Tuesday in 1662, and Sir William Fenwick, then lord
+day was altered to Tuesday in 1662, and Sir William [[Fenwick]], then lord
 of the manor, received a grant of a cattle market on the Tuesday after
 the feast of St Cuthbert in March and every Tuesday fortnight until the
-feast of St Martin. The market rights were purchased from Wentworth B.
+feast of St [[Martin]]. The market rights were purchased from Wentworth B.
 Beaumont, lord of the manor, in 1886. During the 17th and 18th centuries
 Hexham was noted for the leather trade, especially for the manufacture
 of gloves, but in the 19th century the trade began to decline. Coal
@@ -90,7 +90,7 @@ county.
 
   See Edward Bateson and A. B. Hinds, _A History of Northumberland_ vol.
   iii. (1893-1896); A. B. Wright, _An Essay towards the History of
-  Hexham_ (1823); James Hewitt, _A Handbook to Hexham and its
+  Hexham_ (1823); James [[Hewitt]], _A Handbook to Hexham and its
   Antiquities_ (1879).
 
 ## See also

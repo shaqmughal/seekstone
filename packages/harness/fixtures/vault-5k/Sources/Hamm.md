@@ -1,14 +1,14 @@
 # Hamm
 
 HAMM, a town of Germany, in the Prussian province of Westphalia, on the
-Lippe, 19 m. by rail N.E. from Dortmund on the main line
+[[Lippe]], 19 m. by rail N.E. from Dortmund on the main line
 Cologne-Hanover. Pop. (1905) 38,430. It is surrounded by pleasant
 promenades occupying the site of the former engirdling fortifications.
 The principal buildings are four Roman Catholic and three Evangelical
 churches, several schools and an infirmary. The town is flourishing and
 rapidly increasing, and possesses very extensive wire factories (in
-connexion with which there are puddling and rolling works), machine
-works, and manufactories of gloves, baskets, leather, starch, chemicals,
+connexion with which there are puddling and rolling works), [[Machine|machine]]
+works, and manufactories of [[Glove|gloves]], baskets, leather, starch, chemicals,
 varnish, oil and beer. Near the town are some thermal baths.
 
 Hamm, which became a town about the end of the 12th century, was
@@ -35,7 +35,7 @@ _Hammad ar-Rawiya_, "the reciter of verses from memory." The Omayyad
 caliph Walid is said to have tested him, the result being that he
 recited 2900 qasidas of pre-Islamic date and Walid gave him 100,000
 dirhems. He was favoured by Yazid II. and his successor Hisham, who
-brought him up from Irak to Damascus. Arabian critics, however, say that
+brought him up from [[Irak]] to [[Damascus]]. Arabian critics, however, say that
 in spite of his learning he lacked a true insight into the genius of the
 Arabic language, and that he made more than thirty--some say three
 hundred--mistakes of pronunciation in reciting the Koran. To him is

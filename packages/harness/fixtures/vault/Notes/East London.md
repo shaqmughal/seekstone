@@ -8,7 +8,7 @@ type: reference
 # East London
 
 EAST LONDON, a town of the Cape province, South Africa, at the mouth of
-the Buffalo river, in 33 deg. 1' S. 27 deg. 55' E., 543 m. E.N.E. of Cape Town
+the [[Buffalo]] river, in 33 deg. 1' S. 27 deg. 55' E., 543 m. E.N.E. of [[Cape Town]]
 by sea and 666 m. S. of Johannesburg by rail. Pop. (1904) 25,220, of
 whom 14,674 were whites. The town is picturesquely situated on both
 sides of the river, which is spanned by a combined road and railway
@@ -20,7 +20,7 @@ grouped round Vincent Square, a large open space. In consequence of the
 excellent sea bathing, and the beauty of the river banks above the town,
 East London is the chief seaside holiday resort of the Cape province.
 The town is the entrepot of a rich agricultural district, including the
-Transkei, Basutoland and the south of Orange Free State, and the port of
+Transkei, [[Basutoland]] and the south of Orange Free State, and the port of
 the Cape nearest Johannesburg. It ranks third among the ports of the
 province. The roadstead is exposed and insecure, but the inner harbour,
 constructed at a cost of over L2,000,000, is protected from all winds. A
@@ -32,7 +32,7 @@ wide, reduced between the training walls to 250 ft. There is extensive
 wharf accommodation on both sides of the river, and steamers of over
 8000 tons can moor alongside. There is a patent slip capable of taking
 vessels of 1000 tons dead weight. An aerial steel ropeway from the river
-bank to the town greatly facilitates the delivery of cargo. The imports
+bank to the town greatly facilitates the delivery of [[Cargo|cargo]]. The imports
 are chiefly textiles, hardware and provisions, the exports mainly wool
 and mohair. The rateable value of the town in 1908 was L4,108,000, and
 the municipal rate 1-5/8 d.

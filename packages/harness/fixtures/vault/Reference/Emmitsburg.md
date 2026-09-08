@@ -25,7 +25,7 @@ Academy (incorporated in 1816), for young women, which is conducted by
 the Sisters of Charity--this order was introduced into the United States
 at Emmitsburg by Mrs Elizabeth Ann Seton in 1809. The first settlement
 at Emmitsburg was made about 1773. It was at first called "Silver
-Fancy," and then for a time was known as "Poplar Fields"; but in 1786
+[[Fancy]]," and then for a time was known as "Poplar [[Fields]]"; but in 1786
 the present name was adopted in honour of William Emmitt, one of the
 original settlers. The town was incorporated in 1824.
 

@@ -9,9 +9,9 @@ id: 42-8056
 # Latten
 
 LATTEN (from O. Fr. _laton_, mod. Fr. _laiton_, possibly connected with
-Span. _lata_, Ital. _latta_, a lath), a mixed metal like brass, composed
+Span. _lata_, Ital. _latta_, a lath), a mixed metal like [[Brass|brass]], composed
 of copper and zinc, generally made in thin sheets, and used especially
-for monumental brasses and effigies. A fine example is in the screen of
+for monumental [[Brasses|brasses]] and effigies. A fine example is in the screen of
 Henry VII.'s tomb in Westminster Abbey. There are three forms of latten,
 "black latten," unpolished and rolled, "shaven latten," of extreme
 thinness, and "roll latten," of the thickness either of black or shaven

@@ -101,7 +101,7 @@ mouth the English river is about 2 m. across. Lourenço Marques is the
 nearest seaport to the Rand gold mines. The port is 8374 m. from
 Southampton via Cape Town and 7565 m. via the Suez canal. It is served
 by British, Portuguese and German liners, the majority of the goods
-imported being shipped at Southampton, Lisbon or Hamburg. Over 50% of
+imported being shipped at Southampton, [[Lisbon]] or Hamburg. Over 50% of
 the import trade of Johannesburg is with Lourenço Marques. Great Britain
 and British possessions take some 40% of the import trade, Portugal,
 Germany, Norway, Sweden and America coming next in order. Most of the

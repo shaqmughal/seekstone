@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Kenyon"
 
 # Kenyon
 
-KENYON, LLOYD KENYON, 1ST BARON (1732-1802), lord chief-justice of
+KENYON, [[Lloyd|LLOYD]] KENYON, 1ST BARON (1732-1802), lord chief-justice of
 England, was descended by his father's side from an old Lancashire
 family; his mother was the daughter of a small proprietor in Wales. He
 was born at Gredington, Flintshire, on the 5th of October 1732. Educated
@@ -15,9 +15,9 @@ at Ruthin grammar school, he was in his fifteenth year articled to an
 attorney at Nantwich, Cheshire. In 1750 he entered at Lincoln's Inn,
 London, and in 1756 was called to the bar. As for several years he was
 almost unemployed, he utilized his leisure in taking notes of the cases
-argued in the court of King's Bench, which he afterwards published.
+argued in the court of King's [[Bench]], which he afterwards published.
 Through answering the cases of his friend John Dunning, afterwards Lord
-Ashburton, he gradually became known to the attorneys, after which his
+[[Ashburton]], he gradually became known to the attorneys, after which his
 success was so rapid that in 1780 he was made king's counsel. He showed
 conspicuous ability in the cross-examination of the witnesses at the
 trial of Lord George Gordon, but his speech was so tactless that the
@@ -28,10 +28,10 @@ ability of statement; and his position was achieved chiefly by hard
 work, a good knowledge of law and several lucky friendships. Through the
 influence of Lord Thurlow, Kenyon in 1780 entered the House of Commons
 as member for Hindon, and in 1782 he was, through the same friendship,
-appointed attorney-general in Lord Buckingham's administration, an
+appointed [[Attorney-General|attorney-general]] in Lord Buckingham's administration, an
 office which he continued to hold under Pitt. In 1784 he received the
 mastership of the rolls, and was created a baronet. In 1788 he was
-appointed lord chief justice as successor to Lord Mansfield, and the
+appointed lord chief justice as successor to Lord [[Mansfield]], and the
 same year was raised to the peerage as Baron Kenyon of Gredington. As he
 had made many enemies, his elevation was by no means popular with the
 bar; but on the bench, in spite of his capricious and choleric temper,

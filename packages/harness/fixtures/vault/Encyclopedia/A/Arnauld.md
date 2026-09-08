@@ -9,16 +9,16 @@ type: source
 
 ARNAULD, the surname of a family of prominent French lawyers, chiefly
 remembered in connexion with the Jansenist troubles of the 17th century.
-At their head was ANTOINE ARNAULD (1560-1619), a leader of the Paris
+At their head was [[Antoine|ANTOINE]] ARNAULD (1560-1619), a leader of the Paris
 bar; in this capacity he delivered a famous philippic against the
-Jesuits in 1594, accusing them of gross disloyalty to the newly
+[[Jesuits]] in 1594, accusing them of [[Gross|gross]] disloyalty to the newly
 converted Henry IV. This speech was afterwards known as the original sin
 of the Arnaulds.
 
 Of his twenty children several grew up to fight the Jesuits on more
 important matters. Five gave themselves up wholly to the church. HENRI
-ARNAULD (1597-1692), the second son, became bishop of Angers in 1649,
-and represented Jansenism on the episcopal Bench for as long as
+ARNAULD (1597-1692), the second son, became bishop of [[Angers]] in 1649,
+and represented [[Jansenism]] on the episcopal [[Bench]] for as long as
 forty-three years. The youngest son, ANTOINE (1612-1694), was the most
 famous of Jansenist theologians (see below). The second daughter,
 ANGELIQUE (1591-1661), was abbess and reformer of Port Royal; here she
@@ -41,7 +41,7 @@ was created marquis de Pomponne. Lastly Madame Lemaistre and two of her
 sons became identified with Port Royal. On her husband's death she took
 the veil there. Her eldest son, ANTOINE LEMAISTRE (1608-1658), became
 the first of the _solitaires_, or hermits of Port Royal. There he was
-joined by his younger brother, ISAAC LEMAISTRE DE SACI (1613-1684), who
+joined by his younger brother, [[Isaac|ISAAC]] LEMAISTRE DE SACI (1613-1684), who
 presently took holy orders, and became confessor to the hermits.
 
 The Arnaulds' connexion with Port Royal (q.v.)--a convent of Cistercian
@@ -62,7 +62,7 @@ was presently joined by his brother, de Saci, and other hermits, who led
 an austere semi-monastic existence, though without taking any formal
 vow. In 1646 they were joined by their uncle, Arnauld d'Andilly,
 hitherto a personage of some importance at court and in the world; he
-was a special favourite of the queen regent, Anne of Austria, and had
+was a special favourite of the queen regent, [[Anne]] of Austria, and had
 held various offices of dignity in the government. Uncle and nephews
 passed their time partly in ascetic exercises--though Andilly never
 pretended to vie in austerity with the younger men--partly in managing
@@ -72,11 +72,11 @@ works, into singularly delicate French. Lemaistre attacked the lives of
 the saints; in 1654 Saci set to work on a translation of the Bible. His
 labours were interrupted by the outbreak of persecution. In 1661 he was
 forced to go into hiding; in 1666 he was arrested, thrown into the
-Bastille, and kept there more than two years. Meanwhile his friends
+[[Bastille]], and kept there more than two years. Meanwhile his friends
 printed his translation of the New Testament--really in Holland,
 nominally at Mons in the Spanish Netherlands (1667). Hence it is usually
 known as the _Nouveau Testament de Mons_. It found enthusiastic friends
-and violent detractors. Bossuet approved its orthodoxy, but not its
+and violent detractors. [[Bossuet]] approved its orthodoxy, but not its
 over-elaborate style; and it was destructively criticized by Richard
 Simon, the founder of Biblical criticism in France. On the other hand it
 undoubtedly did much to popularize the Bible, and was bitterly attacked
@@ -102,12 +102,12 @@ confessional brought on a motion to expel him from the Sorbonne. This
 motion was the immediate cause of Pascal's _Provincial Letters_. Pascal,
 however, failed to save his friend; in February 1656 Arnauld was
 solemnly degraded. Twelve years later the tide of fortune turned. The
-so-called peace of Clement IX. put an end to persecution. Arnauld
+so-called peace of [[Clement]] IX. put an end to persecution. Arnauld
 emerged from his retirement, was most graciously received by Louis XIV.,
 and treated almost as a popular hero. He now set to work with Nicole
 (q.v.) on a great work against the Calvinists: _La Perpetuite de la foi
 catholique touchant l'eucharistie_. Ten years later, however, another
-storm of persecution burst. Arnauld was compelled to fly from France,
+storm of persecution burst. Arnauld was compelled to [[Fly|fly]] from France,
 and take refuge in the Netherlands, finally settling down at Brussels.
 Here the last sixteen years of his life were spent in incessant
 controversy with Jesuits, Calvinists and misbelievers of all kinds; here
@@ -136,7 +136,7 @@ to drive home every possible point, and cut his adversary off from every
 possible line of retreat, makes him seem intolerably prolix. "In spite
 of myself," Arnauld once said regretfully, "my books are seldom very
 short." And even lucidity may prove a snare to those who trust to it
-alone, and scornfully refuse to appeal to the imagination or the
+alone, and scornfully refuse to appeal to the [[Imagination|imagination]] or the
 feelings. It is to be feared that, but for his connexion with Pascal,
 Arnauld's name would be almost forgotten--or, at most, live only in the
 famous epitaph Boileau consecrated to his memory--
@@ -151,13 +151,13 @@ famous epitaph Boileau consecrated to his memory--
   _Memoires pour servir a l'histoire de Port-Royal_ (3 vols., Utrecht
   1742). Three volumes of her correspondence were also published at the
   same time and place. There are excellent modern lives of her in
-  English by Miss Frances Martin (_Angelique Arnauld_, 1873) and by A.
+  English by Miss [[Franc|Frances]] [[Martin]] (_Angelique Arnauld_, 1873) and by A.
   K. H. (_Angelique of Port Royal_, 1905). Antoine Arnauld's complete
   works--thirty-seven volumes in forty-two parts--were published in
   Paris, 1775-1781. No modern biography of him exists; but there is a
   study of his philosophy in Bouillier, _Histoire de la philosophie
   cartesienne_ (Paris, 1868); and his mathematical achievements are
-  discussed by Dr Bopp in the 14th volume of the _Abhandlungen zur
+  discussed by Dr [[Bopp]] in the 14th volume of the _Abhandlungen zur
   Geschichte der mathematischen Wissenschaften_ (Leipzig, 1902). The
   memoirs of Arnauld d'Andilly and of his son, the abbe Arnauld, are
   reprinted both in Petitot's and Poujoulat's collections of memoirs

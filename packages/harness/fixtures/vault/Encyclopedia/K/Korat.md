@@ -17,11 +17,11 @@ the whole of the plateau district which forms the eastern part of Siam.
 There are copper mines of reputed wealth in the neighbourhood. It is the
 centre of a silk-growing district and is the headquarters of the
 government sericultural department, instituted in 1904 with the
-assistance of Japanese experts for the purpose of improving the quality
+assistance of Japanese [[Expert|experts]] for the purpose of improving the quality
 of Siamese silk. The government is that of an ordinary provincial
 division of Siam. A French vice-consul resides here. Since the founding
 of Ayuthia in the 14th century, Korat has been tributary to, or part
-of, Siam, with occasional lapses into independence or temporary
+of, Siam, with occasional [[Lapse|lapses]] into independence or temporary
 subjection to Cambodia. Before that period it was probably part of
 Cambodia, as appears from the nature of the ruins still to be seen in
 its neighbourhood. In 1896 the last vestige of its tributary condition

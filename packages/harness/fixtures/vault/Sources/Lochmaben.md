@@ -11,9 +11,9 @@ LOCHMABEN, a royal and police burgh of Dumfriesshire, Scotland, 8 m.
 N.E. of Dumfries, with a station on the Caledonian railway company's
 branch from Dumfries to Locherbie. Pop. (1901) 1328. It is delightfully
 situated, there being eight lakes in the immediate neighbourhood, while
-the river Annan, and the Waters of Ae, Kinnel and Dryfe are in the
+the river [[Annan]], and the Waters of Ae, Kinnel and Dryfe are in the
 vicinity. The town hall is a handsome edifice with clock tower. At the
-south end of Castle Loch, the chief lake, stand the ruins, a mere shell,
+south end of Castle [[Loch]], the chief lake, stand the ruins, a mere shell,
 of Lochmaben Castle, dating from the 13th century, where local tradition
 declares that Robert Bruce was born--an honour which is also claimed,
 however, for Turnberry Castle on the coast of Ayrshire. In the parish
@@ -29,12 +29,12 @@ This fish, which is believed to be growing scarcer, is alleged on
 doubtful authority to have been introduced by Queen Mary. It is captured
 by the sweep-net in August, and is esteemed as a delicacy. The lakes
 adjoining the town afford the inhabitants exceptional advantages for the
-game of curling. There was once a team of Lochmaben Curlers entirely
+[[Game|game]] of curling. There was once a team of Lochmaben Curlers entirely
 composed of shoemakers (souters) who held their own against all comers,
 and their prowess added the phrase "to souter" to the vocabulary of the
 sport, the word indicating a match in which the winners scored "game" to
 their opponents' "love." Lochmaben unites with Annan, Dumfries,
-Kirkcudbright and Sanquhar (the Dumfries burghs) in returning one member
+[[Kirkcudbright]] and Sanquhar (the Dumfries burghs) in returning one member
 to parliament.
 
 ## See also

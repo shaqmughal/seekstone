@@ -12,7 +12,7 @@ of February 1847, at Milan, Erie county, Ohio, of mixed Dutch and
 Scottish descent; but his parents moved to Port Huron, Michigan, when he
 was seven years old. At the age of twelve he became a train news-boy on
 the railway to Detroit, and managed to gratify his youthful interest in
-chemistry by performing experiments while travelling. At fifteen he
+[[Chemistry|chemistry]] by performing experiments while travelling. At fifteen he
 became a telegraph operator, and was employed in many cities in the
 United States and Canada, but frequently neglected his duties in order
 to carry on studies and experiments in electrical science. Before he was
@@ -29,12 +29,12 @@ removed to Menlo Park, and later to West Orange, N.J., where he
 continued his experiments. Since then his name has been prominently
 associated with all kinds of novelties in practical electricity. Among
 his principal inventions are his system of duplex telegraphy, which he
-later developed into quadruplex and sextuplex transmission; his carbon
+later developed into quadruplex and sextuplex transmission; his [[Carbon|carbon]]
 telephone transmitter; the microtasimeter, for the detection of small
 variations in temperature; the phonograph, which records and reproduces
 all manner of sounds; the cinematograph, which his improvements made
 practicable; and his method of preparing carbon filaments for the
-incandescent electric lamp. In 1878 Edison was made a chevalier of the
+incandescent electric [[Lamp|lamp]]. In 1878 Edison was made a chevalier of the
 Legion of Honour by the French government.
 
 ## See also

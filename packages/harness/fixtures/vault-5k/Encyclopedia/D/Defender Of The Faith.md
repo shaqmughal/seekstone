@@ -5,7 +5,7 @@ sovereign of England in the same way as _Christianissimus_ belonged to
 the king of France, and _Catholicus_ belongs to the ruler of Spain. It
 seems to have been suggested in 1516, and although certain charters have
 been appealed to in proof of an earlier use of the title, it was first
-conferred by Pope Leo X. on Henry VIII. The Bull granting the title is
+conferred by Pope Leo X. on Henry VIII. The [[Bull]] granting the title is
 dated the 11th of October 1521, and was a reward for the king's
 treatise, _Assertio, septem sacramentorum_, against Luther. When Henry
 broke with the papacy, Pope Paul III. deprived him of this designation,

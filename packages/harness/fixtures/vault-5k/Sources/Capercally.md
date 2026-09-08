@@ -24,7 +24,7 @@ became extinct about that time, since Robert Gray (_Birds of the West of
 Scotland_, p. 229) quotes the Rev. John Grant as writing in 1794: "The
 last seen in Scotland was in the woods of Strathglass about thirty-two
 years ago." Of its existence in Ireland we have scarcely more details.
-If we may credit the _Pavones sylvestres_ of Giraldus Cambrensis with
+If we may [[Credit|credit]] the _Pavones sylvestres_ of Giraldus Cambrensis with
 being of this species, it was once abundant there, and Willughby (1678)
 was told that it was known in that kingdom as the "cock-of-the-wood." A
 few other writers mention it by the same name, and John Rutty, in 1772,
@@ -41,7 +41,7 @@ which some particulars are given by J. Vaughan Thompson (_Birds of
 Ireland_, ii. 32), was made at Glengariff, but it seems to have utterly
 failed, whereas in Scotland, where it was begun at Taymouth, it finally
 succeeded, and the species is now not only firmly established, but is
-increasing in numbers and range. Mr L. Lloyd, the author of several
+increasing in numbers and range. Mr L. [[Lloyd]], the author of several
 excellent works on the wild sports and natural history of Scandinavia,
 supplied the stock from Sweden, but it must be always borne in mind that
 the original British race was wholly extinct, and no remains of it are
@@ -50,26 +50,26 @@ known to exist in any museum.
 This species is widely, though intermittently, distributed on the
 continent of Europe, from Lapland to the northern parts of Spain, Italy
 and Greece, but is always restricted to pine-forests, which alone afford
-it food in winter. Its bones have been found in the kitchen-middens of
+it food in winter. Its [[Bone|bones]] have been found in the kitchen-middens of
 Denmark, proving that country to have once been clothed with woods of
 that kind. Its remains have also been recognized from the caves of
-Aquitaine. Its eastern or southern limits in Asia cannot be precisely
+[[Aquitaine]]. Its eastern or southern limits in Asia cannot be precisely
 given, but it certainly inhabits the forests of a great part of Siberia.
 On the Stannovoi Mountains, however, it is replaced by a distinct though
 nearly allied species, the _T. urogalloides_ of Dr von Middendorff,[2]
 which is smaller with a slenderer bill but longer tail.
 
 The cock-of-the-wood is remarkable for his large size and dark plumage,
-with the breast metallic green. He is polygamous, and in spring mounts
+with the [[Breast|breast]] metallic green. He is polygamous, and in spring mounts
 to the topmost bough of a tall tree, whence he challenges all comers by
 extraordinary sounds and gestures; while the hens, which are much
 smaller and mottled in colour, timidly abide below the result of the
-frequent duels, patiently submitting themselves to the victor. While
+frequent [[Duel|duels]], patiently submitting themselves to the victor. While
 this is going on it is the practice in many countries, though generally
 in defiance of the law, for the so-called sportsman stealthily to draw
 nigh, and with well-aimed gun to murder the principal performer in the
 scene. The hen makes an artless nest on the ground, and lays therein
-from seven to nine or even more eggs. The young are able to fly soon
+from seven to nine or even more [[Egg|eggs]]. The young are able to fly soon
 after they are hatched, and towards the end of summer and beginning of
 autumn, from feeding on the fruit and leaves of the bilberries and other
 similar plants, which form the undercovert of the forests, get into

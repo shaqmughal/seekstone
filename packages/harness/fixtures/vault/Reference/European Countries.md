@@ -37,7 +37,7 @@ The bank has remained on the same site ever since. The structure occupied
 the space previously covered by the house and gardens of Sir John Houblon,
 the first governor, which had been bought for the purpose. Between 1764 and
 1788 the wings were erected. In 1780 the directors, alarmed at the
-dangerous facilities which the adjacent church of St Christopher le Stocks
+dangerous facilities which the adjacent church of St [[Christopher]] le Stocks
 might give to a mob, obtained parliamentary powers and acquired the fabric,
 on the site of which much of the present building stands. The structure was
 developed to its present form about the commencement of the 19th century.
@@ -51,7 +51,7 @@ superannuated clerks of about £20,000 more. The number of persons of all
 classes employed in 1906 (head office and eleven branches) was about 1400.
 
 Originally established to advance the government a loan of £1,200,000, the
-management of the British national debt has been confided to the Bank of
+management of the British national [[Debt|debt]] has been confided to the Bank of
 England from the date of its foundation, and it has remained the banker of
 the government ever since. The interest on the stock in which the debt is
 inscribed has always been paid by the bank, originally half-yearly, now
@@ -91,7 +91,7 @@ One main feature of the act of 1844 was the manner in which the issue of
 notes was dealt with, as described by Sir Robert Peel in parliament on the
 6th of May 1844:--"Two departments of the bank will be constituted: one for
 the issue of notes, the other for the transaction of the ordinary business
-of banking. The bullion now in the possession of the bank will be
+of banking. The [[Bullion|bullion]] now in the possession of the bank will be
 transferred to the issue department. The issue of notes will be restricted
 to an issue of £14,000,000 upon securities--the remainder being issued upon
 bullion and governed in amount by the fluctuations in the stock of
@@ -139,14 +139,14 @@ that after the act came into force commercial crises would cease, have not
 been realized.
 
 The number of changes in the bank rate from 1876[3] to 1906 in England,
-France, Germany, Holland and Belgium were as follows:--
+France, Germany, Holland and [[Belgium]] were as follows:--
 
   England.  France.  Germany.  Holland.  Belgium.
     183       27       110       55        77
 
 There has been frequent discussion among bankers and occasionally with the
 government as to the advantage it might be to grant the Bank of England an
-automatic power to augment the note issue on securities when necessary,
+automatic power to [[Augment|augment]] the note issue on securities when necessary,
 similar to that possessed by the Bank of Germany (_Reichsbank_). One of the
 hindrances to the success of such a plan has been that the government,
 acting on the advice of the treasury, required an extremely high rate of
@@ -180,14 +180,14 @@ banks, some of considerable power.
 
 [Sidenote: Early English banking.]
 
-The state papers included in F. G. Hilton Price's _Handbook of London
+The state papers included in F. G. [[Hilton]] Price's _Handbook of London
 Bankers_ (1876) contain some of the earliest records about the
 establishment of banking in England. The first of these is a petition,
 printed in the original Italian, to Queen Elizabeth, of Christopher
 Hagenbuck and his partners in November 1581, representing "that he had
 found out a method and form in which it will be possible to institute an
 office into which shall enter every year a very large sum of money without
-expense to your Majesty," so "that not only your Majesty will be able to be
+expense to your [[Majesty]]," so "that not only your Majesty will be able to be
 always provided with whatever notable sum of money your Majesty may wish,
 but by this means your State and people also; and it shall keep the country
 in abundance and remove the extreme usuries that devour your Majesty and
@@ -204,18 +204,18 @@ become familiar to Hagenbuck from commerce with Venice. Other state papers
 in 1621 and 1622 and again in 1662 and 1666 contain somewhat similar
 proposals which however were never carried into practice.
 
-The little _London Directory_, 1677, contains a list of goldsmiths
-mentioned as keeping "running cashes." Of these firms described in 1677,
+The little _London [[Directory]]_, 1677, contains a list of goldsmiths
+mentioned as keeping "running [[Cash|cashes]]." Of these firms described in 1677,
 five houses were carrying on business in 1876. Three of these, or firms
-immediately descended from them, Child & Co. of Temple Bar, Martin & Co. of
-Lombard Street (as Martin's Bank, Ltd.), and Hoare & Co. of Fleet Street,
-are still carrying on business. Barnetts, Hoare & Co. and Willis, Percival
-& Co. have been absorbed since 1876, the first by Lloyds Bank (1884), the
+immediately descended from them, Child & Co. of Temple Bar, [[Martin]] & Co. of
+Lombard Street (as Martin's Bank, Ltd.), and [[Hoare]] & Co. of Fleet Street,
+are still carrying on business. [[Barnett|Barnetts]], Hoare & Co. and Willis, Percival
+& Co. have been absorbed since 1876, the first by [[Lloyd|Lloyds]] Bank (1884), the
 second by the Capital and Counties (1878). Many of the goldsmiths carried
 on a considerable business. Thus the books of Edward Blackwell, who was an
 eminent goldsmith and banker in the reign of Charles II., show that the
 king himself, the queen mother, Henrietta Maria, James, duke of York, the
-prince of Orange, Samuel Pepys, the East India Company, the Goldsmiths'
+prince of Orange, Samuel Pepys, the [[East India Company]], the Goldsmiths'
 Company and other city companies did business with him. Sir John Houblon,
 the first governor of the Bank of England, kept an account with Blackwell,
 who was, however, ruined by the closing of the exchequer in 1672. But his
@@ -226,11 +226,11 @@ partners in Child's Bank.
 provinces claims to have been established before the Bank of England.
 Smiths' of Nottingham, since amalgamated with the Union of London Bank, is
 stated to have been founded in 1688. Others also claim considerable
-antiquity. The old Bank of Bristol (Bailey, Cave & Co.) was founded in
+antiquity. The old Bank of [[Bristol]] ([[Bailey]], Cave & Co.) was founded in
 1750; the business amalgamated with Prescott & Co., Ltd., of London. The
-Hull Old Bank (Pease & Co.) dated from 1754; this business also still
+[[Hull]] Old Bank (Pease & Co.) dated from 1754; this business also still
 continues (amalgamated, 1894, with the York Union Banking Co., Ltd., and
-since with Barclay & Co., Ltd.). The banks of Gurney & Co., established at
+since with [[Barclay]] & Co., Ltd.). The banks of Gurney & Co., established at
 the end of the 18th century in the eastern counties, have with numerous
 other banks of similar standing amalgamated with the firm of Barclay & Co.,
 Ltd., of Lombard Street.
@@ -248,10 +248,10 @@ a single month in their hands, or even a lesser time. This was a great
 allurement for people to put their money into their hands, which would bear
 interest till the day they wanted it. And they could also draw it out by
 £100 or £50, &c., at a time, as they wanted it, with infinitely less
-trouble than if they had lent it out on either real or personal security.
+trouble than if they had [[Lent|lent]] it out on either real or personal security.
 The consequence was that it quickly brought a great quantity of cash into
 their hands; so that the chief or greatest of them were now enabled to
-supply Cromwell with money in advance on the revenues as his occasion
+supply [[Cromwell]] with money in advance on the revenues as his occasion
 required, upon great advantage to themselves."
 
 The Bank of England, as stated before, was incorporated by the act of 1694.
@@ -287,7 +287,7 @@ of such notes they gave them books of cheques. Before the invention of
 cheque-books, the practice of issuing notes was considered so essentially
 the main feature of banking, that a prohibition of issue was considered an
 effectual bar against banking. Accordingly the prohibitory clause in the
-act of 6 Anne, c. 50, 1707 (in Record edition), which was repeated in the
+act of 6 [[Anne]], c. 50, 1707 (in Record edition), which was repeated in the
 Bank of England Act 1708, 7 Anne, c. 30, § 66 (in Record edition),
 prohibiting more than six persons from issuing promissory notes, was
 intended to prevent any bank being formed with more than six partners, and
@@ -302,7 +302,7 @@ kept back from becoming shareholders, that is to say partners, in banks.
 For up to the date of the act of 1862 permitting "limited liability," every
 shareholder in a joint-stock bank was liable to the extent of the whole of
 his means (see the article COMPANY). Even as late as 1858 when the Western
-Bank of Scotland and 1878 when the City of Glasgow Bank failed, very great
+Bank of Scotland and 1878 when the City of [[Glasgow]] Bank failed, very great
 hardship was inflicted on many persons who had trusted with over confidence
 to the management of those banks. The failure of the City of Glasgow Bank
 was the cause of the Companies Act of 1879, passed to enable unlimited
@@ -339,7 +339,7 @@ has been made but little use of. The difficulties of carrying on business
 on a large scale by private firms were augmented by certain legal
 technicalities which practically rendered large private banks impossible in
 ordinary circumstances. Hence banking business did not begin to assume its
-present form till almost half-way through the 19th century. The gradual
+present form till almost half-way through the 19th century. The [[Gradual|gradual]]
 change followed the passing of the acts of 1826-1833, of 1844-1845, of 1862
 and of 1879. Incidentally the act of 1844 had an unexpected influence on
 the constitution of the banking system. After favouring the existence of
@@ -357,7 +357,7 @@ was formed into or joined a joint-stock bank, the issue lapsed.
 The greater number of the provincial banks in England and Wales had been
 banks of issue up to 1844. The act of 1844 [v.03 p.0338] restricted their
 power of issuing notes, which at that date and even subsequently continued
-to be of importance to them, in such a manner that, as Sir R. H. Inglis
+to be of importance to them, in such a manner that, as Sir R. H. [[Inglis]]
 Palgrave stated in giving evidence before the committee of the House of
 Commons at the banking inquiry of 1875, these banks possessed in their
 issues a property they could use, but were not able to sell. The statistics
@@ -397,7 +397,7 @@ much more favourable to the public.
 No security was ever required to be given for the local issues in the
 United Kingdom. The provisions of the acts of 1844-1845 which compel the
 Irish and Scottish banks to hold specie against the notes issued beyond the
-legal limit, do not make the coin held a security for them. The legislation
+legal limit, do not make the [[Coin|coin]] held a security for them. The legislation
 of 1879 which made the note issues a first charge, with unlimited
 liability, on the total assets of the joint-stock banks which accepted the
 principle of limited liability for the rest of their business, has been the
@@ -548,7 +548,7 @@ statistics of the position of banking in the United Kingdom extending back
 for more than forty or fifty years. Even the Scottish banks, who have been
 less reticent as to their position than the English banks, did not publish
 their accounts generally till 1865. The figures of the total deposits and
-cash balances in the Irish joint-stock banks were published collectively
+cash [[Balance|balances]] in the Irish joint-stock banks were published collectively
 from the year 1840 by the care of Dr Neilson Hancock, but it is only of
 quite recent years that any statement of the general position other than an
 estimate has been possible owing to the long-continued reluctance of many
@@ -581,7 +581,7 @@ said that the bank deposits of the United Kingdom have about doubled since
 [Sidenote: Clearing.]
 
 The purely city banks had associated themselves in a "Clearing House"
-certainly by 1776. An entry in the books of the Grasshopper,[4]
+certainly by 1776. An entry in the books of the [[Grasshopper]],[4]
 namely--"1773 to quarterly charge for use of the Clearing-room of 19/6d.,"
 points to an earlier and perhaps less definitely organized system of
 settlement. A house was taken for the purpose in 1810, in which year the
@@ -622,12 +622,12 @@ January 1906.)
 
 If we add to the returns of the London Clearing House those of the clearing
 houses in the large towns of England, Ireland and Scotland, and the
-numerous exchanges which occur daily, and the large number which the
+numerous [[Exchange|exchanges]] which occur daily, and the large number which the
 different offices of banks with a great many branches settle among
 themselves, and the number drawn by one customer of a bank and paid to
 another, we may form some notion of the vast amount of the yearly turnover
 in cheques. This may be roughly estimated to be at least twice as great as
-that registered by the London Clearing House. The earliest authentic
+that registered by the London Clearing House. The earliest [[Authentic|authentic]]
 statement as to the clearing is found in the _Appendix to the Second
 Report, Committee of House of Commons, Banks of Issue_ (1841).
 
@@ -652,14 +652,14 @@ that William III. was then king, which led to the Bank of Scotland being
 prohibited under a heavy penalty from lending money under any circumstances
 to the king. It is the only Scottish bank established by act of parliament.
 The directors began at a very early period to receive deposits and to allow
-interest thereon, also to grant cash credit accounts, a minute of the
+interest thereon, also to grant cash [[Credit|credit]] accounts, a minute of the
 directors respecting the mode of keeping the latter being dated so far back
 as 1729.
 
 Though the system of branches forms now so marked a feature of banking in
 Scotland, a good many years had to pass before they obtained any hold. It
 was not till about the year 1700 that the directors of the Bank of Scotland
-established branches at Glasgow, Aberdeen, Dundee and Montrose, but so
+established branches at Glasgow, Aberdeen, [[Dundee]] and Montrose, but so
 little encouragement was given to these branches, the expenses far
 exceeding the profits arising from them, that the directors resolved to
 close them. In 1731 another attempt was made, and agencies were established
@@ -678,7 +678,7 @@ undertaking the manufacture of linen, but by 1763 they found it best to
 confine their operations to banking transactions. This bank also was
 incorporated by charter.
 
-The note circulation was always an important item in the Scottish banks.
+The note circulation was always an important [[Item|item]] in the Scottish banks.
 Thus in the case of the Bank of Dundee, the receiving money from the public
 did not commence till 1792. Up to that time the whole business of the bank
 from 1764 onwards, twenty-eight years in all, had consisted in its issue of
@@ -769,7 +769,7 @@ banks tends beyond doubt to their stability and prosperity. The network of
 banks on the surface of Scotland is as important to the development of the
 prosperity of the country as the network of the railways. It has caused a
 great economy of capital, as the universal practice of people, even of the
-most moderate means, is to lodge their money with the banks.
+most moderate means, is to [[Lodge|lodge]] their money with the banks.
 
 [Sidenote: Irish banks.]
 
@@ -781,7 +781,7 @@ of the Bank of England. For many years this proposal met with no favour. It
 was not till 1783 that the Bank of Ireland was established and commenced
 its business. The first governor was David La Touche, junior, and two other
 members of his family were amongst the first board of directors. The bank
-met with very great success, but the jealousy against rival establishments
+met with very great success, but the [[Jealousy|jealousy]] against rival establishments
 was extreme. By the act forming the Bank of Ireland it was enacted that no
 company or society exceeding six in number, except the Bank of Ireland,
 should borrow or take up money on their bills or notes payable on demand.
@@ -810,7 +810,7 @@ not make a marriage settlement on a son or daughter, a grandson or
 granddaughter, so as to be good against his creditors, though for a
 valuable consideration, and though such creditors were not creditors at the
 time the grant was made. This act gave power to creditors over all
-conveyances by bankers affecting real estates; and all dispositions after
+[[Conveyance|conveyances]] by bankers affecting real estates; and all dispositions after
 the 10th of May 1760 by bankers of real or leasehold interest therein to or
 for children were made void as against creditors, though for valuable
 consideration and though not creditors at the time. No banker to issue
@@ -819,10 +819,10 @@ these enactments appear to be in force at the present day; suggestions have
 been made, though apparently unsuccessfully, for their repeal.
 
 So extraordinary were the views of the common people that a banker in
-Dublin of the name of Beresford having made himself very unpopular, a
+Dublin of the name of [[Beresford]] having made himself very unpopular, a
 "large assemblage of ignorant country people having previously collected a
 quantity of Beresford's notes, publicly burnt them, crying out with
-enthusiasm while the promises to pay on demand were consuming, 'What will
+[[Enthusiasm|enthusiasm]] while the promises to pay on demand were consuming, 'What will
 he do now; his bank will surely break.'"
 
 The number of banks which failed in Ireland in earlier times was
@@ -859,7 +859,7 @@ were established and their position in 1906, are as follows:--
   | Hibernian Bank*      1824 |    500,000 |    10      |
   | Provincial Bank      1825 |    540,000 |    20      |
   | Northern Banking Co. 1825 |    500,000 |    18½     |
-  | Belfast Banking Co.  1827 |    500,000 |    36      |
+  | [[Belfast]] Banking Co.  1827 |    500,000 |    36      |
   | National Bank        1835 |  1,500,000 |     8      |
   | Ulster Banking Co.   1836 |    500,000 |    18      |
   | Royal Bank*          1836 |    300,000 |    12      |
@@ -911,8 +911,8 @@ position, the desired relaxation was given. The official letter (25th
 October) recommended "the directors of the Bank of England, in the present
 emergency, to enlarge the amount of their discounts and advances upon
 approved security." A high rate, 8%, was to be charged to keep these
-operations within reasonable limits; a bill of indemnity was promised if
-the arrangement led to a breach of the law. The extra profit derived was to
+operations within reasonable limits; a bill of [[Indemnity|indemnity]] was promised if
+the arrangement led to a [[Breach|breach]] of the law. The extra profit derived was to
 be for the benefit of the public. The effect of the government letter in
 allaying the panic was complete.
 
@@ -927,7 +927,7 @@ government securities at a considerable loss.
 
 The extreme pressure was relaxed by the letter issued by the government on
 the 12th of November 1857, signed by Lord Palmerston, then premier, and Sir
-G. C. Lewis, which allowed a temporary relaxation of the Bank Act of 1844.
+G. C. [[Lewis]], which allowed a temporary relaxation of the Bank Act of 1844.
 The public alarm, however, was so great that it was not until the 21st of
 November that the severity of the pressure was in any way diminished. On
 the 20th of November the notes issued to the public on securities beyond
@@ -1001,7 +1001,7 @@ suspension of that act which forms the very foundation of the monetary
 system of Great Britain. This, whenever it has occurred, has exercised a
 very injurious effect on credit abroad, as well as on prosperity at home.
 
-The British money-market, the clearing-house of the world, is, in
+The British money-market, the [[Clearing-House|clearing-house]] of the world, is, in
 consequence of the smallness of its reserve, exposed to greater
 fluctuations than that of any other country. These fluctuations may arise
 from the need of meeting the requirements of other countries for specie or
@@ -1021,7 +1021,7 @@ colonies and other countries we can only speak briefly. It must not be
 overlooked that in the Dominion of Canada there are 29 banks, many of them
 large, managed much on the Scottish principle with capitals of nearly
 £19,000,000 and deposits of about £140,000,000. These banks have more than
-1200 offices. In Australia and New Zealand there are 24 banks with capitals
+1200 offices. In [[Australia]] and New Zealand there are 24 banks with capitals
 of nearly £18,000,000 and deposits of about £130,000,000. The number of
 offices is nearly 1700. There are, including the three Presidency banks,
 about 15 banks doing business mainly in India--in some cases connecting
@@ -1039,7 +1039,7 @@ British territories there are 6 banks, principally in South America, with
 nearly £4,000,000 capital, £36,000,000 deposits and about 60 offices. There
 are 6 large banks doing business principally in the East with more than
 £6,700,000 capitals, £77,000,000 deposits and 106 offices: and 7 other
-banks, including Barings, with about £4,500,000 capitals and £22,000,000
+banks, including [[Baring|Barings]], with about £4,500,000 capitals and £22,000,000
 deposits There are thus about 20 British banks doing business in foreign
 countries with capitals amounting to £15,200,000, deposits £135,000,000 and
 offices 173.
@@ -1079,7 +1079,7 @@ over the Bank of Savoy after that province was united to France.
 The Bank of France has successfully surmounted many political as well as
 financial troubles both during and since the times of Napoleon I. The
 overthrow of the government of Louis Philippe in 1848, the war with Germany
-in 1870, the many difficulties that followed when the Commune reigned in
+in 1870, the many difficulties that followed when the [[Commune]] reigned in
 Paris in 1871, the payment of the war indemnity--not completed till
 1873--were all happily overcome. Great pains, too, have been taken,
 especially of recent years, to render services to large and small
@@ -1131,7 +1131,7 @@ has been extended are as follows:--
 
   +--------------------------+-------------+-------------------+
   |      Dates               | Millions of |  Converting the   |
-  |                          |   Francs    | Franc as 25 = £1. |
+  |                          |   [[Franc|Francs]]    | Franc as 25 = £1. |
   +--------------------------+-------------+-------------------+
   | 15th March 1848          |     350     |     £14,000,000   |
   | 27th April, 2nd May 1848 |     452     |      18,000,000   |
@@ -1155,10 +1155,10 @@ generally considerably larger in amount than that held by the Bank of
 England, which in the autumn of 1890 had to borrow £3,000,000 in gold from
 the Bank of France at the time of the Baring crisis. The large specie
 reserve of the bank has given stability to the trade of France, and has
-enabled the bank to manage its business without the numerous fluctuations
+enabled the bank to [[Manage|manage]] its business without the numerous fluctuations
 in the rate of discount which are constantly occurring in England. It is
 true that the holding this very large amount of specie imposes a very heavy
-burden on the shoulders of the shareholders of the bank, but they do not
+[[Burden|burden]] on the shoulders of the shareholders of the bank, but they do not
 complain. The advantage to business from the low rate of interest which has
 to be paid for the use of borrowed capital in France is a great advantage
 to the trade and industry of that country.
@@ -1242,7 +1242,7 @@ above, is between £60,000,000 and £70,000,000.
 A large and apparently increasing proportion of the resources of the German
 banks is employed in industrial concerns, some of which are beyond the
 boundaries of the empire. The dangers of this practice have called forth
-many criticisms in Germany, among which may be quoted the remarks of Caesar
+many criticisms in Germany, among which may be quoted the remarks of [[Caesar]]
 Strauss and of Dr R. Koch, the president of the Reichsbank. Dr Koch
 especially points out the need of the development of powerful banks in
 Germany unconnected with speculative business of this kind. The object of
@@ -1276,7 +1276,7 @@ The Imperial Bank also receives deposits, and cheques are drawn against
 these, but in Germany notes are principally used in payments for ordinary
 business.
 
-Before the Reichsbank was established, Hamburg was the first, and for a
+Before the Reichsbank was established, [[Hamburg]] was the first, and for a
 long time the only, example of a clearing in Germany. This was taken up by
 the Reichsbank when it established its office in Hamburg in the
 time-honoured building which had belonged to the Hamburg Clearing House.
@@ -1302,14 +1302,14 @@ The note circulation is also a powerful factor of the business of the
 Reichsbank. It is governed by the law of 1875 and the amending law of 1899,
 corresponding in some degree to Peel's act of 1844, which regulates the
 note circulation of the Bank of England. An uncovered limit, originally
-£12,500,000, increased to £14,811,450 by the lapse of the issues of other
+£12,500,000, increased to £14,811,450 by the [[Lapse|lapse]] of the issues of other
 banks allowed to it, has been extended by these and by the act of the 5th
 of June 1902 to £23,641,450. Against the notes thus issued which are not
 represented by specie, treasury notes (_Reichskassenscheine_, the legal
 tender notes of the [v.03 p.0344] empire)[6] and notes of the issuing banks
 which are allowed to be reckoned as specie or discounted bills, must be
 held--maturing not later than three months after being taken--with, as a
-rule, three, but never less than two, good indorsements. There is also a
+rule, three, but never less than two, good [[Indorsement|indorsements]]. There is also a
 provision that at least one-third of the notes in circulation must be
 covered by current German notes, money, notes of the imperial treasury, and
 gold in bullion or foreign coin reckoned at £69, 12s. per pound fine. The
@@ -1363,7 +1363,7 @@ times they are not to discount at more than ¼% below the official rate of
 the Reichsbank, or in case the Reichsbank itself discounts at a lower rate
 than the official rate, at more than 1/8% below that rate. If the
 Reichsbank discounts below the official rate, it is to announce that fact
-in the _Gazette_.
+in the _[[Gazette]]_.
 
 The subject being important, we quote from the amending act the sections
 governing the discount rate:--_Gesetz, betreffend die Abänderung des
@@ -1425,7 +1425,7 @@ of Money (or more if requir'd)_, by A. D. of Grey's Inn, Esq., and some
 Others, his Friends (1697); Hayes' _Negociators' Magazine of Monies and
 Exchanges_, 1730; Lord King, _Thoughts on Bank Restrictions_ (1804); _The
 Theory of Money with considerations on the Bank of England_ (1811); William
-Cobbett, _Paper against Gold and Glory against Prosperity_, 2 vols. (1815);
+[[Cobbett]], _Paper against Gold and Glory against Prosperity_, 2 vols. (1815);
 _Circulating Credit with Hints for improving the Banking System of Britain,
 by a Scottish Banker_ (1832); W. Leckie, _Bank Restriction_ (1841);
 _Debates in the House of Commons on Sir R. Peel's Bank Bills of 1844 and
@@ -1442,29 +1442,29 @@ _The Country Banker's Handbook_, 4th ed. (1903); C. F. Dunbar, _Chapters on
 the Theory and History of Banking_ (1891); Charles Gairdner, _The Making of
 the Gold Reserves_ (1891); J. B. Attfield, _English and Foreign Banks_
 (1893) (refers to management of banks); T. B. Moxon, _English Practical
-Banking_, 10th ed. (1899); A. Crump, _The Key to the London Money Market_
-(1872); W. Y. Duncan, _Notes on the Rate of Discount in London_, 3 vols.,
+Banking_, 10th ed. (1899); A. Crump, _The [[Key]] to the London Money Market_
+(1872); W. Y. [[Duncan]], _Notes on the Rate of Discount in London_, 3 vols.,
 1822-1856, 1856-1866, 1866-1873, privately printed, Edinburgh, 1856, 1867
 and 1877; R. H. Inglis Palgrave, _Bank Rate and the Money Market in
 England, France, Germany, Holland and Belgium_, 1844-1900 (1903); Ernest
-Seyd, _The Bank of England Note Issue and its Error_ (1874); Ernest Seyd,
+Seyd, _The Bank of England Note Issue and its [[Error]]_ (1874); Ernest Seyd,
 _London Banking and Bankers' Clearing House System_; Ernest Seyd, _The
 Silver Question in 1893_; Walter Bagehot, _Depreciation of Silver_ (1877);
-Ernest Seyd, _Bullion and the Foreign Exchanges_ (1868); Clare, _The A B C
+Ernest Seyd, _Bullion and the Foreign Exchanges_ (1868); [[Clare]], _The A B C
 of the Foreign Exchanges_ (1895, 2nd ed. 1895); _Tracts_, by Lord Overstone
 (1837-1857); _Select Tracts on Money, &c._, reprinted privately by Lord
 Overstone, 1856-1859 (containing much valuable and interesting information
 on early history); A. Crump, _A Practical Treatise on Banking, Currency and
 the Exchanges_ (1866); Bonamy Price, _Currency and Banking_ (1876) (the
 interest of this volume to the student of banking is found mainly in the
-correspondence between Mr Henry Hucks Gibbs (Lord Aldenham) and Professor
+correspondence between Mr Henry Hucks [[Gibbs]] (Lord Aldenham) and Professor
 Bonamy Price on the reserve of the Bank of England); R. H. Inglis Palgrave,
 _On the Influence of a Note Circulation in the Conduct of Banking
-Business_, read before the Manchester Statistical Society, 1877; Edgar
+Business_, read before the Manchester Statistical Society, 1877; [[Edgar]]
 Jaffé, _Das englische Bankwesen_ (Leipzig, 1905); _A History of Banks_
 (1837); D. Hardcastle, _Banks and Bankers_ (1843); W. J. Lawson, _The
 History of Banking_ (1850); R. Baxter, _The Panic of 1866_ (1866); F. G. H.
-Price, _A Handbook of London Bankers_ (1876); Conant, _History of Modern
+Price, _A Handbook of London Bankers_ (1876); [[Conant]], _History of Modern
 Banks of Issue_ (New York, 1896); _History of Banking in all Leading
 Nations_, 4 vols. (New York, 1896); Viscount Goschen, _Essays and Addresses
 on Economic Questions, 1865-1893_ (1905), (arts. on "Seven per cent," "Two
@@ -1484,21 +1484,21 @@ HISTORY OF BANKING HOUSES.--L. H. Grindon, _Manchester Banks and Bankers_
 (1877); J. B. Martin, _"The Grasshopper" in Lombard Street_ (1892); M.
 Phillips, _Banks, Bankers, and Banking in Northumberland, Durham and North
 Yorkshire_ (1894); C. H. Cave, _History of Banking in Bristol_ (1899);
-Bidwell, _Annals of an East Anglian Bank_ (1900); Richardson, _Coutts &
+Bidwell, _[[Annals]] of an East Anglian Bank_ (1900); Richardson, _Coutts &
 Co., Bankers, Edinburgh and London_; H. T. Easton, _History of a Banking
-House_ (Smith, Payne & Smiths) (1903); J. Hughes, _Liverpool Banks and
+House_ (Smith, Payne & Smiths) (1903); J. Hughes, _[[Liverpool]] Banks and
 Bankers, 1760-1837_ (1906).
 
 SCOTLAND.--W. H. Logan, _The Scottish Banker_ (1847); Robert Somers, _The
 Scotch Banks and System of Issue_ (1873); W. Mitchell, _Scotch Banks and
 Limited Liability_ (1879); A. W. Kerr, _History of Scotch Banking_ (1884);
-A. W. Kerr, _Scottish Banking, 1865-1896_ (1898); Boase, _A Century of
+A. W. Kerr, _Scottish Banking, 1865-1896_ (1898); [[Boase]], _A Century of
 Banking in Dundee_ (1867).
 
-IRELAND.--Malcolm Dillon, _History and Development of Banking in Ireland_
+IRELAND.--[[Malcolm]] [[Dillon]], _History and Development of Banking in Ireland_
 (1889).
 
-BRITISH COLONIES.--Edward B. Hamilton, _A Manual of the Law and Practice of
+BRITISH COLONIES.--Edward B. Hamilton, _A [[Manual]] of the Law and Practice of
 Banking in Australia and New Zealand_ (1880); _Banking in Australasia_
 (1883); _The Canadian System of Banking and the National Banking System of
 the United States_ (Toronto, 1890); _Journal of the Canadian Bankers'
@@ -1507,11 +1507,11 @@ Association_ (Montreal).
 FRANCE.--Annuaire-Chaix, _Les Principales Sociétés par actions_ (1905); A.
 Raffalovich, _Le Marché financier_ (1905).
 
-GERMANY.--Dr W. Scharling, _Bank Politik_ (Jena, 1900); _Die Reichsbank,
+GERMANY.--Dr W. Scharling, _Bank Politik_ ([[Jena]], 1900); _Die Reichsbank,
 1876-1900_ (a history and description of the operations of the bank); Dr
 Adolf Weber, _Depositenbanken und Spekulationsbanken, Ein Vergleich
-deutschen und englischen Bankwesens_ (Leipzig, 1902); Dr Felix Hecht, _Die
-Mannheimer Banken, 1870 bis 1900_ (Leipzig, 1902); Siegfried Buff, _Das
+deutschen und englischen Bankwesens_ (Leipzig, 1902); Dr [[Felix]] Hecht, _Die
+Mannheimer Banken, 1870 bis 1900_ (Leipzig, 1902); Siegfried [[Buff]], _Das
 Kontokurrentgeschaft im deutschen Bankwerbe_ (Stuttgart and Berlin, 1904);
 Dr Riesser, _Zur Entwicklungsgeschichte der deutschen Grossbanken mit
 besonderer Rucksicht auf die Konzentrationsbestrebungen_ (1905); G. M.
@@ -1521,11 +1521,11 @@ ITALY.--_La Banca Popolare di Milano_ (1881).
 
 AUSTRIA.--Compass, _Finanzielles Jahrbuch für Österreich-Ungarn_ (Vienna).
 
-JAPAN.--_The House of Mitsui_ (Tokio); _The Law and the By-Laws of the
+[[Japan|JAPAN]].--_The House of Mitsui_ (Tokio); _The Law and the By-Laws of the
 Nippon Kogyo Ginko (The Industrial Bank of Japan)_ (1903).
 
 H. W. Wolff, _People's Banks_ (1893). (On systems worked by
-Schulze-Delitzsch, Raiffeisen, Luzzatti, Banche Popolari, Dr Wollemborg,
+Schulze-Delitzsch, Raiffeisen, [[Luzzatti]], Banche Popolari, Dr Wollemborg,
 Popular Banks in Belgium, Switzerland, France, England).
 
 (R. H. I. P.)

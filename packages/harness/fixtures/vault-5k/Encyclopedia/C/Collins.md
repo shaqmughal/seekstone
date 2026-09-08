@@ -9,7 +9,7 @@ topic: literature
 COLLINS, WILLIAM (1721-1759), English poet, was born on the 25th of
 December 1721. He divides with Gray the glory of being the greatest
 English lyrist of the 18th century. After some childish studies in
-Chichester, of which his father, a rich hatter, was the mayor, he was
+[[Chichester]], of which his father, a rich hatter, was the mayor, he was
 sent, in January 1733, to Winchester College, where Whitehead and Joseph
 Warton were his school-fellows. When he had been nine months at the
 school, Pope paid Winchester a visit and proposed a subject for a prize
@@ -23,7 +23,7 @@ In 1734 the young poet published his first verses, in a sixpenny
 pamphlet on _The Royal Nuptials_, of which, however, no copy has come
 down to us; another poem, probably satiric, called _The Battle of the
 Schoolbooks_, was written about this time, and has also been lost. Fired
-by his poetic fellows to further feats in verse, Collins produced, in
+by his poetic [[Fellows|fellows]] to further feats in verse, Collins produced, in
 his seventeenth year, those _Persian Eclogues_ which were the only
 writings of his that were valued by the world during his own lifetime.
 They were not printed for some years, and meanwhile Collins sent, in
@@ -72,7 +72,7 @@ marketable article. Collins's little volume fell dead from the press,
 but it won him the admiration and friendship of the poet Thomson, with
 whom, until the death of the latter in 1748, he lived on terms of
 affectionate intimacy. In 1749 Collins was raised beyond the fear of
-poverty by the death of his uncle, Colonel Martyn, who left him about
+poverty by the death of his uncle, Colonel [[Martyn]], who left him about
 £2000, and he left London to settle in his native city. He had hardly
 begun to taste the sweets of a life devoted to literature and quiet,
 before the weakness of his will began to develop in the direction of
@@ -88,7 +88,7 @@ probably has sustained a severe loss. With this poem his literary career
 closes, although he lingered in great misery for nearly nine years. From
 Gilbert White, who jotted down some pages of invaluable recollections of
 Collins in 1781, and from other friends, we learn that his madness was
-occasionally violent, and that he was confined for a time in an asylum
+occasionally violent, and that he was confined for a time in an [[Asylum|asylum]]
 at Oxford. But for the most part he resided at Chichester, suffering
 from extreme debility of body when the mind was clear, and incapable of
 any regular occupation. Music affected him in a singular manner, and it
@@ -105,7 +105,7 @@ No English poet so great as Collins has left behind him so small a bulk
 of writings. Not more than 1500 lines of his have been handed down to
 us, but among these not one is slovenly, and few are poor. His odes are
 the most sculpturesque and faultless in the language. They lack fire,
-but in charm and precision of diction, exquisite propriety of form, and
+but in [[Charm|charm]] and precision of diction, exquisite propriety of form, and
 lofty poetic suggestion they stand unrivalled. The ode named _The
 Passions_ is the most popular; that _To Evening_ is the classical
 example of perfect unrhymed verse. In this, and the _Ode to Simplicity_,

@@ -7,7 +7,7 @@ topic: history
 # Bronzite
 
 BRONZITE, a member of the pyroxene group of minerals, belonging with
-enstatite and hypersthene to the orthorhombic series of the group. Rather
+[[Enstatite|enstatite]] and [[Hypersthene|hypersthene]] to the orthorhombic series of the group. Rather
 than a distinct species, it is really a ferriferous variety of enstatite,
 which owing to partial alteration has acquired a bronze-like sub-metallic
 lustre on the cleavage surfaces. Enstatite is magnesium metasilicate,
@@ -22,17 +22,17 @@ a metallic sheen or "schiller," which is even more pronounced in
 hypersthene than in bronzite. The colour of bronzite is green or brown; its
 specific gravity is about 3.2-3.3, varying with the amount of iron present.
 Like enstatite, bronzite is a constituent of many basic igneous rocks, such
-as norites, gabbros, and especially peridotites, and of the serpentines
+as norites, [[Gabbro|gabbros]], and especially peridotites, and of the serpentines
 which have been derived from them. It also occurs in some crystalline
 schists.
 
-Bronzite is sometimes cut and polished, usually in convex forms, for small
+Bronzite is sometimes cut and polished, usually in [[Convex|convex]] forms, for small
 ornamental objects, but its use for this purpose is less extensive than
 that of hypersthene. It often has a more or less distinct fibrous
 structure, and when this is pronounced the sheen has a certain resemblance
-to that of cat's-eye. Masses sufficiently large for cutting are found in
+to that of [[Cat'S-Eye|cat's-eye]]. Masses sufficiently large for cutting are found in
 the norite of the Kupferberg in the Fichtelgebirge, and in the serpentine
-of Kraubat near Leoben in Styria. In this connexion mention may be made of
+of Kraubat near [[Leoben]] in Styria. In this connexion mention may be made of
 an altered form of enstatite or bronzite known as _bastite_ or
 _schiller-spar_. Here, in addition to schillerization, the original
 enstatite has been altered by hydration and the product has approximately

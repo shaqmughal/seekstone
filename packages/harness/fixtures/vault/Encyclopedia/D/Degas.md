@@ -17,7 +17,7 @@ at its first exhibition in 1874, and repeatedly contributed to these
 exhibitions (in 1876, 1878, 1879 and 1880). In 1868 he had shown his
 first study of a dancer, and in numerous pastels he proclaimed himself
 the painter of the ballet, representing its figurantes in every attitude
-with more constant aim at truth than grace. Several of his works may be
+with more constant aim at truth than [[Grace|grace]]. Several of his works may be
 seen at the Luxembourg Gallery, to which they were bequeathed, among a
 collection of impressionist pictures, by M. Caillebotte. In 1880 Degas
 showed his powers of observation in a set of "Portraits of Criminals,"
@@ -30,7 +30,7 @@ Impressionist Exhibition, in 1886, Degas continued his realistic studies
 of modern life, showing drawings of the nude, of workwomen, and of
 jockeys. Besides his pastels and his paintings of genre and
 portraits--among these, several likenesses of Manet--Degas also handled
-his favourite subjects in etching and in aquatint; and executed several
+his favourite subjects in etching and in [[Aquatint|aquatint]]; and executed several
 lithographs of "Singers at Cafes-concert," of "Ballet-girls," and indeed
 of every possible subject of night-life and incidents behind the scenes.
 His work is to be seen not only at the Luxembourg but in many of the
@@ -40,7 +40,7 @@ Cotton-Broker's Office at New Orleans" (belonging to the Museum at Pau)
 and "The Rehearsal."
 
   See also G. Moore, "Degas, the Painter of Modern Life," _Magazine of
-  Art_ (1890); J. K. Huysmans, _Certains_ (Paris, 1889); G. Geffroy, _La
+  Art_ (1890); J. K. [[Huysmans]], _Certains_ (Paris, 1889); G. [[Geffroy]], _La
   Vie Artistique_ (3^e Serie, Paris, 1894).
 
 ## See also

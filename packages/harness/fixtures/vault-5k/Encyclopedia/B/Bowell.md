@@ -7,9 +7,9 @@ Canada, where he finally became editor and proprietor of the
 _Intelligencer_. He was elected grand master of the Orange Association
 of British America, and was long the exponent in the Canadian parliament
 of the claims of that order. From 1867 till 1892 he represented North
-Hastings in the House, after which he retired to the senate. From 1878
+[[Hastings]] in the House, after which he retired to the senate. From 1878
 till 1891 he was minister of customs in the cabinet of Sir John
-Macdonald; then minister of militia; and under the premiership of Sir
+[[Macdonald]]; then minister of militia; and under the premiership of Sir
 John Thompson, minister of trade and commerce. From December 1894 till
 April 1896 he was premier of Canada, and endeavoured to enforce remedial
 legislation in the question of the Manitoba schools. But his policy was

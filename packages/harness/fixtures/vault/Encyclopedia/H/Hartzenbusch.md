@@ -18,7 +18,7 @@ used by Rey de Artieda, Tirso de Molina and Perez de Montalban. _Los
 Amantes de Teruel_ at once made the author's reputation, which was
 scarcely maintained by _Dona Mencia_ (1839) and _Alfonso el Casto_
 (1841); it was not till 1845 that he approached his former success with
-_La Jura en Santa Gadea_. Hartzenbusch was chief of the National Library
+_La [[Jura]] en Santa Gadea_. Hartzenbusch was chief of the National Library
 from 1862 to 1875, and was an indefatigable--though not very
 judicious--editor of many national classics. Inferior in inspiration to
 other contemporary Spanish dramatists, Hartzenbusch excels his rivals in

@@ -18,7 +18,7 @@ Besides large alkali works, it has a vigorous trade in grain, livestock,
 timber and coal, from the surrounding hills, where there is a colony of
 Hungarian miners; while the salt springs, owned by the state both at
 Dolnja, or Lower, and Gornja, or Upper Tuzla, 6 m. E., are without a
-rival in the Balkan Peninsula.
+rival in the [[Balkan Peninsula]].
 
 Dolnja Tuzla was called by the Romans _Ad Salinas_. Constantine
 Porphyrogenitus mentions it, in the 10th century, as _Salenes_; in other

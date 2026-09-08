@@ -5,7 +5,7 @@ division of Durham, England, 11 m. S.S.W. of the city of Durham, the
 junction of several branches of the North Eastern railway. Pop. of urban
 district (1901) 11,969. It is beautifully situated on an eminence near
 the confluence of the Wear and the Gaunless. The parish church is 1 m.
-distant, at Auckland St Andrews, a fine cruciform structure, formerly
+distant, at [[Auckland]] St Andrews, a fine cruciform structure, formerly
 collegiate, in style mainly Early English, but with earlier portions.
 The palace of the bishops of Durham, which stands at the north-east end
 of the town, is a spacious and splendid, though irregular pile The site

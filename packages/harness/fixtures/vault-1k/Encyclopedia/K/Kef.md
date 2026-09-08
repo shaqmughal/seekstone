@@ -44,7 +44,7 @@ than the Roman colony. Pop. about 6000, including about 100 Europeans
   Arnobius the Elder lived here.
 
   See H. Barth, _Die Kustenlander des Mittelmeeres_ (1849); _Corpus
-  Inscript. Lat._, vol. viii.; Sombrun in _Bull. de la soc. de geog. de
+  Inscript. Lat._, vol. viii.; Sombrun in _[[Bull]]. de la soc. de geog. de
   Bordeaux_ (1878). Also Cardinal Newman's Callista: _a Sketch of the
   Third Century_ (1856), for a "reconstruction" of the manner of life of
   the early Christians and their oppressors.

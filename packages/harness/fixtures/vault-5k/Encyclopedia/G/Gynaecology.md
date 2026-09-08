@@ -22,7 +22,7 @@ first years of the Christian era gynaecologists were much in demand
 (Haser). A speculum for gynaecological purposes has been found in the
 ruins of Pompeii, and votive offerings of anatomical parts found in the
 temples show that various gynaecological malformations were known to the
-ancients. Writers who have treated of this branch are Celsus (50
+ancients. Writers who have treated of this branch are [[Celsus]] (50
 B.C.-A.D. 7) and Soranus of Ephesus (A.D. 98-138), who refers in his
 works to the fact that the Roman midwives frequently called to their aid
 practitioners who made a special study of diseases of women. These
@@ -49,14 +49,14 @@ In modern times James Parsons (1705-1770) published his _Elenchus
 gynaicopathologicus et obstetricarius_, and in 1755 Charles Perry
 published his _Mechanical account and explication of the hysterical
 passion and of all other nervous disorders incident to the sex, with an
-appendix on cancers_. In the early part of the 19th century fresh
+appendix on [[Cancer|cancers]]_. In the early part of the 19th century fresh
 interest in diseases of women awakened. Joseph Recamier (1774-1852) by
 his writings and teachings advocated the use of the speculum and sound.
 This was followed in 1840 by the writings of Simpson in England and
 Huguier in France. In 1845 John Hughes Bennett published his great work
 on inflammation of the uterus, and in 1850 Tilt published his book on
-ovarian inflammation. The credit of being the first to perform the
-operation of ovariotomy is now credited to McDowell of Kentucky in 1809,
+ovarian inflammation. The [[Credit|credit]] of being the first to perform the
+operation of ovariotomy is now credited to McDowell of [[Kentucky]] in 1809,
 and to Robert Lawson Tait (1845-1899) in 1883 the first operation for
 ruptured ectopic gestation.
 
@@ -69,7 +69,7 @@ ruptured ectopic gestation.
   spoken of as "the change of life." Both the age of puberty and that of
   the menopause may supervene earlier or later according to local
   conditions. At both times the menstrual flow may be replaced by
-  haemorrhage from distant organs (epistaxis, haematemesis,
+  [[Haemorrhage|haemorrhage]] from distant organs (epistaxis, haematemesis,
   haemoptysis); this is called _vicarious menstruation_. Menstruation is
   usually but not necessarily coincident with ovulation. The usual
   disorders of menstruation are: (1) _amenorrhoea_ (absence of flow),
@@ -77,12 +77,12 @@ ruptured ectopic gestation.
   flow), (4) _metrorrhagia_ (excessive and irregular flow). Amenorrhoea
   may arise from physiological causes, such as pregnancy, lactation, the
   menopause; constitutional causes, such as phthisis, anaemia and
-  chlorosis, febrile disorders, some chronic intoxications, such as
+  chlorosis, febrile disorders, some chronic [[Intoxication|intoxications]], such as
   morphinomania, and some forms of cerebral disease; local causes, which
   include malformations or absence of one or more of the genital parts,
   such as absence of ovaries, uterus or vagina, atresia of vagina,
   imperforate cervix, disease of the ovaries, or sometimes imperforate
-  hymen. The treatment of amenorrhoea must be directed towards the
+  [[Hymen|hymen]]. The treatment of amenorrhoea must be directed towards the
   cause. In anaemia and phthisis menstruation often returns after
   improvement in the general condition, with good food and good sanitary
   conditions, an outdoor life and the administration of iron or other
@@ -105,7 +105,7 @@ ruptured ectopic gestation.
   treated by dilatation, fibroid growths if present removed, and
   endometritis when present treated by local applications or curetting
   according to its severity. Menorrhagia signifies excessive bleeding at
-  the menstrual periods. Constitutional causes are purpura, haemophilia,
+  the menstrual periods. Constitutional causes are purpura, [[Haemophilia|haemophilia]],
   excessive food and alcoholic drinks and warm climates; while local
   causes are congestion and displacements of the uterus, endometritis,
   subinvolution, retention of the products of conception, new growths in
@@ -143,12 +143,12 @@ ruptured ectopic gestation.
   boracic acid. The parts must be kept thoroughly clean and discharges
   swabbed away. Diphtheritic vulvitis occasionally occurs, and
   erysipelas of the vulva may follow wounds, but since the use of
-  antiseptics is rarely seen. (3) Vascular disturbances may occur in the
-  vulva, including varix, haematoma, oedema and gangrene; the treatment
+  [[Antiseptics|antiseptics]] is rarely seen. (3) Vascular disturbances may occur in the
+  vulva, including varix, haematoma, oedema and [[Gangrene|gangrene]]; the treatment
   is the same as for the same disease in other parts. (4) The vulva is
   likely to be affected by a number of cutaneous affections, the most
-  important being erythema, eczema, herpes, lichen, tubercle,
-  elephantiasis, vulvitis pruriginosa, syphilis and kraurosis. These
+  important being erythema, eczema, [[Herpes|herpes]], lichen, tubercle,
+  [[Elephantiasis|elephantiasis]], vulvitis pruriginosa, syphilis and kraurosis. These
   affections present the same characters as in other parts of the body.
   _Kraurosis vulvae_, first described by Lawson Tait in 1875, is an
   atrophic change accompanied by pain and a yellowish discharge; the
@@ -188,8 +188,8 @@ ruptured ectopic gestation.
   extend into the bladder, causing cystitis. Strict rest should be
   enjoined, douches of carbolic acid (1 in 40) or of perchloride of
   mercury (1 in 2000) should be ordered morning and evening, the vagina
-  being packed with tampons of iodoform gauze. Saline purgatives and
-  alkaline diuretics should be given, (c) Chronic vaginitis (leucorrhoea
+  being packed with tampons of [[Iodoform|iodoform]] gauze. Saline purgatives and
+  alkaline [[Diuretics|diuretics]] should be given, (c) Chronic vaginitis (leucorrhoea
   or "the whites") may follow acute conditions and persist indefinitely.
   The vagina is rarely the seat of tumours, but cysts are common.
 
@@ -266,7 +266,7 @@ ruptured ectopic gestation.
   frequent of these injuries is laceration of the cervix uteri, which is
   frequent in precipitate labour. Once the cervix is torn the raw
   surfaces become covered by granulations and later by cicatricial
-  tissue, but as a rule they do not unite. The torn lips may become
+  tissue, but as a rule they do not unite. The torn [[Lip|lips]] may become
   unhealthy, and the congestion and oedema spread to the body of the
   uterus. A lacerated cervix does not usually give rise to symptoms;
   these depend on the accompanying endometritis, and include
@@ -424,9 +424,9 @@ ruptured ectopic gestation.
   the variety of abortion termed hydatid mole. In many cases it destroys
   life with a rapidity unequalled by any other kind of growth. It
   quickly ulcerates and infiltrates the uterine tissues, forming
-  metastatic growths in the lung and vagina. Clinically it is recognized
+  metastatic growths in the [[Lung|lung]] and vagina. Clinically it is recognized
   by the occurrence after pregnancy of violent haemorrhages, progressive
-  cachexia and fever with rigors. Recent suggestions have been made as
+  cachexia and [[Fever|fever]] with rigors. Recent suggestions have been made as
   to chorion-epithelioma being the result of pathological changes in the
   lutein tissue of the ovary. The growth is usually primary in the
   uterus, but may be so in the Fallopian tubes and in the vagina. A few
@@ -473,7 +473,7 @@ ruptured ectopic gestation.
   published by Dr Catherine van Tussenboek of Amsterdam in 1899
   (Bland-Sutton). Tubal pregnancy is most frequent in the left tube; it
   sometimes complicates uterine pregnancy; rarely both tubes are
-  pregnant. When the oosperm lodges in the ampulla or isthmus it is
+  pregnant. When the oosperm [[Lodge|lodges]] in the ampulla or isthmus it is
   called tubal gestation; when it is retained in the portion traversing
   the uterine wall it is called tubo-uterine gestation. Wherever the
   fertilized ovum remains and implants its villi the tube becomes turgid
@@ -535,7 +535,7 @@ ruptured ectopic gestation.
   size. The largest on record was removed by Dr Elizabeth Reifsnyder of
   Shanghai, and contained 100 litres of fluid, and the patient
   recovered. The operation is termed ovariotomy. Dermoid cysts
-  containing skin, bones, teeth and hair, are of frequent growth in the
+  containing skin, [[Bone|bones]], teeth and hair, are of frequent growth in the
   ovary, and have attained the weight of from 20 to 40 kilogrammes. In
   one case a girl weighed 27 kilogrammes and her tumour 44 kilogrammes
   (Keen). Papillomatous cysts also occur in the ovary. Parovarian and
@@ -546,7 +546,7 @@ ruptured ectopic gestation.
   is fairly frequent, sarcoma being the most usual ovarian tumour
   occurring before puberty. Carcinoma of the ovary is rarely primary,
   but it is a common situation for secondary cancer to that of the
-  breast, gall-bladder or gastro-intestinal tract. The treatment of all
+  [[Breast|breast]], gall-bladder or gastro-intestinal tract. The treatment of all
   rapidly-growing tumours of the ovary is removal.
 
   _Diseases of the Pelvic Peritoneum and Connective Tissue._--Women are
@@ -566,7 +566,7 @@ ruptured ectopic gestation.
   may be due to tumours of the abdominal viscera or to tuberculosis of
   the peritoneum. (4) Pelvic cellulitis (parametritis) signifies the
   inflammation of the connective tissue between the folds of the broad
-  ligament (mesometrium). The general causes are septic changes
+  [[Ligament|ligament]] (mesometrium). The general causes are septic changes
   following abortion, delivery at term (especially instrumental
   delivery), following operations on the uterus or salpingitis. The
   symptoms are chill followed by severe intrapelvic pain and tension,
@@ -586,13 +586,13 @@ ruptured ectopic gestation.
   myomata, lipomata and sarcomata), and echinnococcus colonies
   (hydatids).
 
-  BIBLIOGRAPHY.--Albutt, Playfair and Eden, _System of Gynaecology_
-  (1906); McNaughton Jones, _Manual of Diseases of Women_ (1904);
-  Bland-Sutton and Giles, _Diseases of Women_ (1906); C. Lockyer,
+  BIBLIOGRAPHY.--Albutt, Playfair and [[Eden]], _System of Gynaecology_
+  (1906); McNaughton Jones, _[[Manual]] of Diseases of Women_ (1904);
+  Bland-Sutton and [[Giles]], _Diseases of Women_ (1906); C. Lockyer,
   "Lutein Cysts in association with Chorio-Epithelioma," _Journal of
   Obstetrics and Gynaecology_ (January, 1905); W. Stewart McKay,
-  _History of Ancient Gynaecology_; Hart and Barbour, _Diseases of
-  Women_; Howard Kelly, _Operative Gynaecology_.     (H. L. H.)
+  _History of Ancient Gynaecology_; [[Hart]] and [[Barbour]], _Diseases of
+  Women_; [[Howard]] Kelly, _Operative Gynaecology_.     (H. L. H.)
 
 ## See also
 

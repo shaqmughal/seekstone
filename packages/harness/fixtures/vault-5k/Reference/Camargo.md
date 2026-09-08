@@ -8,7 +8,7 @@ topic: thermodynamics
 
 CAMARGO, MARIE ANNE DE CUPIS DE (1710-1770), French dancer, of Spanish
 descent, was born in Brussels on the 15th of April 1710. Her father,
-Ferdinand Joseph de Cupis, earned a scanty living as violinist and
+[[Ferdinand]] Joseph de Cupis, earned a scanty living as violinist and
 dancing-master, and from childhood she was trained for the stage. At ten
 years of age she was given lessons by Mlle Françoise Prévost
 (1680-1741), then the first dancer at the Paris Opéra, and at once

@@ -1,7 +1,7 @@
 # Annelida
 
 ANNELIDA, a name derived from J.B.P. Lamarck's term _Annelides_, now
-used to denote a major phylum or division of coelomate invertebrate
+used to denote a [[Major|major]] phylum or division of coelomate invertebrate
 animals. Annelids are segmented worms, and differ from the Arthropoda
 (q.v.), which they closely resemble in many respects, by the possession
 of a portion of the coelom traversed by the alimentary canal. In the
@@ -17,10 +17,10 @@ consisting of a pair of anterior, dorsally-placed ganglia, a ring
 surrounding the alimentary canal, and a double ventral ganglionated
 chain, a definite vascular system, an excretory system consisting of
 nephridia, and paired generative organs formed from the coelomic
-epithelium. They are divided as follows: (1) Haplodrili (q.v.) or
-Archiannelida; (2) Chaetopoda (q.v.); (3) Myzostomida (q.v.), probably
+epithelium. They are divided as follows: (1) [[Haplodrili]] (q.v.) or
+Archiannelida; (2) [[Chaetopoda]] (q.v.); (3) Myzostomida (q.v.), probably
 degenerate Polychaeta; (4) Hirudinea (see CHAETOPODA and LEECH); (5)
-Echiuroidea (q.v.).     (P. C. M.)
+[[Echiuroidea]] (q.v.).     (P. C. M.)
 
 ## References
 

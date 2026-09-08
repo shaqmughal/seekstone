@@ -22,7 +22,7 @@ The former variety is by far the more common, and appears to be capable
 of being produced by various causes, the chief of which are the
 following:--
 
-1. Where a portion of the lung has become wasted, or its vesicular
+1. Where a portion of the [[Lung|lung]] has become wasted, or its vesicular
 structure permanently obliterated by disease, without corresponding
 falling in of the chest wall, the neighbouring air-vesicles or some of
 them undergo dilatation to fill the vacuum (vicarious emphysema).
@@ -62,14 +62,14 @@ heart failure and all its attendant troubles. The chief symptom in this
 complaint is shortness of breath, more or less constant but greatly
 aggravated by exertion, and by attacks of bronchitis, to which persons
 suffering from emphysema appear to be specially liable. The respiration
-is of similar character to that already described in the case of asthma.
+is of similar character to that already described in the case of [[Asthma|asthma]].
 In severe forms of the disease the patient comes to acquire a peculiar
 puffy or bloated appearance, and the configuration of the chest is
 altered, assuming the character known as the _barrel-shaped_ or
 _emphysematous_ chest.
 
 The main element in the treatment of emphysema consists in attention to
-the general condition of the health, and in the avoidance of all causes
+the general condition of the health, and in the [[Avoidance|avoidance]] of all causes
 likely to aggravate the disease or induce its complications. Compressed
 air baths and expiration into rarefied air may be useful. During attacks
 of urgent dyspnoea and lividity, with engorgement of veins, the patient
@@ -78,7 +78,7 @@ emphysema arising from the rupture of air-cells in the immediate
 neighbourhood of the pleura may occur as a complication of the vesicular
 form, or separately as the result of some sudden expulsive effort, such
 as a fit of coughing, or, as has frequently happened, in parturition.
-Gangrene or post-mortem decomposition may lead to the presence of air in
+[[Gangrene]] or post-mortem decomposition may lead to the presence of air in
 the interstitial tissue of the lung. Occasionally the air infiltrates
 the cellular tissue of the posterior mediastinum, and thence comes to
 distend the integument of the whole surface of the body (surgical

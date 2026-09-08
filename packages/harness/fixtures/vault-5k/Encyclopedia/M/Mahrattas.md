@@ -11,11 +11,11 @@ MAHRATTAS, a people of India, inhabiting the district known by the
 ancient name of Maharashtra (Sans. "great kingdom or region"). This
 large tract, extending from the Arabian Sea on the west to the Satpura
 mountains in the north, comprises a good part of western and central
-India, including the modern provinces of the Konkan, Khandesh, Berar,
+India, including the modern provinces of the Konkan, Khandesh, [[Berar]],
 the British Deccan, part of Nagpur, and about half the nizam's Deccan.
 
-The etymology of the word Mahratta (_Maratha_) is uncertain. The name
-does not indicate a social caste, or a religious sect; it is not even
+The [[Etymology|etymology]] of the word Mahratta (_Maratha_) is uncertain. The name
+does not indicate a social [[Caste|caste]], or a religious sect; it is not even
 tribal. Strictly, it is confined to the upper class from whom Sivaji's
 generals were mostly drawn, and who sometimes claim a Rajput origin. In
 a wider sense it may be extended to include all who inhabit Maharashtra
@@ -130,7 +130,7 @@ history.
   harvest of the year has been secured and the second crops sown. This
   has always been held with the utmost pomp and magnificence at every
   centre of Mahratta wealth and power. The people frequently assemble in
-  bowers and arbours constructed of leafy boughs to hear kathas recited.
+  [[Bower|bowers]] and arbours constructed of leafy boughs to hear kathas recited.
   These recitations are partly religious, partly also romantic and
   quasi-historical. After them national resolves of just resistance or
   of aggressive ambition have often been formed.
@@ -140,7 +140,7 @@ history.
   general truth in what was once said by a high authority to the effect
   that, while there will be something dignified in the humblest Rajput,
   there will be something mean in the highest Mahratta. Bluff
-  good-nature, a certain jocoseness, a humour pungent and ready, though
+  good-nature, a certain jocoseness, a [[Humour|humour]] pungent and ready, though
   somewhat coarse, a hot or even violent disposition, are
   characteristics of Mahratta chieftains. They usually show little
   aptitude for business or for sedentary pursuits; but, on the other
@@ -159,7 +159,7 @@ The range of the Western Ghats enabled the Mahrattas to rise against
 their Mahommedan conquerors, to reassert their Hindu nationality against
 the whole power of the Mogul Empire, and to establish in its place an
 empire of their own. It is often stated that in India British conquest
-or annexation succeeded Mahommedan rule; and to a considerable extent
+or [[Annexation|annexation]] succeeded Mahommedan rule; and to a considerable extent
 this was the case. But, on the other hand, the principal power, the
 widest sovereignty, which the British overthrew in India was that of the
 Mahrattas.
@@ -171,7 +171,7 @@ times. It was against the Mahommedan king of Bijapur in the Deccan that
 Sivaji, the hero of Mahratta history, first rebelled in 1657. Sivaji and
 his fighting officers were Mahrattas of humble caste, but his ministers
 were Brahmans. When the Mogul Empire absorbed the Bijapur kingdom he
-defied the emperor. He imparted a self-reliant enthusiasm to his
+defied the emperor. He imparted a self-reliant [[Enthusiasm|enthusiasm]] to his
 countrymen, formed them into an army, and organized them as a political
 community; his mountaineer infantry, though limited in numbers, proved
 desperately courageous; his cavalry was daring and ubiquitous. The
@@ -198,13 +198,13 @@ however, the raja was still venerated as the descendant of Sivaji.
 Then several chiefs carved out principalities of their own from among
 the ruins of the Mogul Empire. Thus Raghoji Bhonsla established himself
 in the tracts lying underneath the southern base of the Satpura range
-(namely, Nagpur and Berar), overran Orissa and entered Bengal. Damaji
+(namely, Nagpur and Berar), overran Orissa and entered [[Bengal]]. Damaji
 Gaekwar descended from the Western Ghats upon the alluvial plains of
 Gujarat around Baroda; Tukoji Holkar subdued the uplands of Malwa beyond
 the Vindhya range on the north bank of the Nerbudda; and Mahadji Sindhia
 obtained possession of large tracts immediately south of Agra and Delhi,
 marched into Hindustan and became virtually the master of the Mogul
-emperor himself (see GWALIOR). Sivaji's own father had founded a
+emperor himself (see [[Gwalior|GWALIOR]]). Sivaji's own father had founded a
 dominion at Tanjore in the extreme south, which, however, never had
 relations with the central power at Poona. The same may be said of the
 state of Kolhapur, allotted to a younger branch of Sivaji's family.
@@ -230,7 +230,7 @@ fully a hundred thousand in all. The horsemen were splendidly audacious
 in riding for long distances into the heart of a hostile country,
 without support, striking some terrific blows, and then returning
 rapidly beyond reach of pursuit. They could truly boast of having
-watered their horses in every Indian river from the Cauvery to the
+watered their horses in every Indian river from the [[Cauvery]] to the
 Indus. If attacked, however, in a competent manner, they would not
 stand; and afterwards, in conflict with the British, whole masses of
 them behaved in a dastardly manner. As their ambition grew the chiefs
@@ -240,7 +240,7 @@ others--rose in the Mahratta service to a position dangerous to the
 British. But the new system was unsuited to the Mahratta genius; it
 hampered the meteoric movements of the cavalry, which was obliged to
 manoeuvre in combination with the new artillery and the disciplined
-battalions. Mahratta elders hence uttered predictions of military
+[[Battalion|battalions]]. Mahratta elders hence uttered predictions of military
 disaster which were in the end more than fulfilled.
 
 The rapid and amazing success of the Mahratta confederation rendered it
@@ -271,7 +271,7 @@ Bombay. The nascent Sikh power prevented Mahratta incursions from being
 permanently successful in the Punjab. As the Mogul Empire broke up, some
 separate Mahommedan powers rose upon its ruins. The nizam of the Deccan
 established himself at Hyderabad, comparatively near the headquarters of
-the peshwa. Hyder Ali was proclaimed sultan of Mysore in the south.
+the peshwa. [[Hyder Ali]] was proclaimed sultan of Mysore in the south.
 Ahmed Shah Abdali burst upon India from Afghanistan. The Mahrattas
 bravely encountered him at Panipat near Delhi in 1761, and were
 decisively defeated. The defeat, however, did not essentially shake the
@@ -282,7 +282,7 @@ The first collision with the English occurred in 1775, arising from a
 disputed succession to the peshwaship. The English government at Bombay
 supported one of the claimants, and the affair became critical for the
 English as well as for the Mahrattas. It was at this conjuncture that
-Warren Hastings displayed his political genius and rendered signal
+Warren [[Hastings]] displayed his political genius and rendered signal
 service to his country, by succouring from Bengal the defeated Bombay
 army and negotiating a peace (in 1782) that restored the _status quo_.
 
@@ -294,7 +294,7 @@ displayed those talents for military and political combination which
 rendered him illustrious. It was during the campaigns which ensued that
 General Arthur Wellesley defeated Sindhia and the Bhonsla raja at
 Assaye, and General Lake won the victories of Farrukhabad, Dig and
-Laswari over Sindhia and Holkar. The three confederates, Sindhia, Holkar
+[[Laswari]] over Sindhia and Holkar. The three confederates, Sindhia, Holkar
 and the Bhonsla, concluded peace with the British government, after
 making large sacrifices of territory in favour of the victor, and
 submitting to British control politically. It was during these events

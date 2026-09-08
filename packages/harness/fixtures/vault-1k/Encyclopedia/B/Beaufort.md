@@ -15,7 +15,7 @@ considerable influence over the prince of Wales, afterwards King Henry
 V., and although he steadily supported the house of Lancaster he opposed
 the party led by Thomas Arundel, archbishop of Canterbury. A dispute
 over money left by John Beaufort, marquess of Dorset, caused or widened
-a breach in the royal family which reached a climax in 1411. The details
+a [[Breach|breach]] in the royal family which reached a climax in 1411. The details
 are not quite clear, but it seems tolerably certain that the prince and
 the bishop, anxious to retain their power, sought to induce Henry IV. to
 abdicate in favour of his son. Angry at this request, the king dismissed
@@ -37,7 +37,7 @@ the citizens of London; and this ill-feeling was heightened when
 Gloucester, who was a favourite of the Londoners, returned to England
 and was doubtless reproached by Beaufort for the folly of his
 undertaking. A riot took place in London, and at the bishop's entreaty,
-the protector, John, duke of Bedford, came back to England. As this
+the protector, John, duke of [[Bedford]], came back to England. As this
 dispute was still unsettled when the parliament met at Leicester in
 February 1426, Bedford and the lords undertook to arbitrate. Charged by
 Gloucester with treason against Henry IV. and his successors, Beaufort
@@ -107,7 +107,7 @@ worse until all was lost."
   See _Historiae Croylandensis continuatio_, translated by H.T. Riley
   (London, 1854); _Proceedings and Ordinances of the Privy Council_,
   edited by N.H. Nicolas (London, 1834-1837); Aeneas Sylvius
-  Piccolomini, _Historica Bohemica_ (Frankfort and Leipzig, 1707); W.
+  Piccolomini, _Historica Bohemica_ ([[Frankfort]] and Leipzig, 1707); W.
   Stubbs, _Constitutional History_, vol. iii. (Oxford, 1895): M.
   Creighton, _A History of the Papacy during the Period of the
   Reformation_ (London, 1897); and L.B. Radford, _Henry Beaufort_

@@ -2,11 +2,11 @@
 
 LESLIE, THOMAS EDWARD CLIFFE (1827-1882), English economist, was born in
 the county of Wexford in (as is believed) the year 1827. He was the
-second son of the Rev. Edward Leslie, prebendary of Dromore, and rector
+second son of the Rev. Edward Leslie, prebendary of [[Dromore]], and rector
 of Annahilt, in the county of Down. His family was of Scottish descent,
 but had been connected with Ireland since the reign of Charles I.
 Amongst his ancestors were that accomplished prelate, John Leslie
-(1571-1671), bishop first of Raphoe and afterwards of Clogher, who, when
+(1571-1671), bishop first of Raphoe and afterwards of [[Clogher]], who, when
 holding the former see, offered so stubborn a resistance to the
 Cromwellian forces, and the bishop's son Charles (see above), the
 nonjuror. Cliffe Leslie received his elementary education from his
@@ -24,7 +24,7 @@ two years a pupil in a conveyancer's chambers in London, and was called
 to the English bar. But his attention was soon turned from the pursuit
 of legal practice, for which he seems never to have had much
 inclination, by his appointment, in 1853, to the professorship of
-jurisprudence and political economy in Queen's College, Belfast. The
+[[Jurisprudence|jurisprudence]] and political economy in Queen's College, [[Belfast]]. The
 duties of this chair requiring only short visits to Ireland in certain
 terms of each year, he continued to reside and prosecute his studies in
 London, and became a frequent writer on economic and social questions in
@@ -40,7 +40,7 @@ society, and treated him with a respect and kindness which Leslie always
 gratefully acknowledged.
 
 In the frequent visits which Leslie made to the continent, especially to
-Belgium and some of the less-known districts of France and Germany, he
+[[Belgium]] and some of the less-known districts of France and Germany, he
 occupied himself much in economic and social observation, studying the
 effects of the institutions and system of life which prevailed in each
 region, on the material and moral condition of its inhabitants. In this
@@ -57,8 +57,8 @@ February 1881); and to the close of his life there existed between him
 and M. de Laveleye relations of mutual esteem and cordial intimacy.
 
 Two essays of Leslie's appeared in volumes published under the auspices
-of the Cobden Club, one on the "Land System of France" (2nd ed., 1870),
-containing an earnest defence of _la petite culture_ and still more of
+of the [[Cobden]] Club, one on the "Land System of France" (2nd ed., 1870),
+containing an [[Earnest|earnest]] defence of _la petite culture_ and still more of
 _la petite propriété_; the other on "Financial Reform" (1871), in which
 he exhibited in detail the impediments to production and commerce
 arising from indirect taxation. Many other articles were contributed by
@@ -67,7 +67,7 @@ the history of prices and the movements of wages in Europe, and a sketch
 of life in Auvergne in his best manner; the most important of them,
 however, related to the philosophical method of political economy,
 notably a memorable one which appeared in the Dublin University
-periodical, _Hermathena_. In 1879 the provost and senior fellows of
+periodical, _Hermathena_. In 1879 the provost and senior [[Fellows|fellows]] of
 Trinity College published for him a volume in which a number of these
 articles were collected under the title of _Essays in Political and
 Moral Philosophy_. These and some later essays, together with the
@@ -102,7 +102,7 @@ the end succumbed at Belfast, on the 27th of January 1882.
   unfitted to serve the purposes of a modern industrial society. The
   policy he recommended is summed up in the following list of
   requirements, "a simple jurisprudence relating to land, a law of equal
-  intestate succession, a prohibition of entail, a legal security for
+  intestate succession, a prohibition of [[Entail|entail]], a legal security for
   tenants' improvements, an open registration of title and transfer and
   a considerable number of peasant properties." The volume is full of
   practical good sense, and exhibits a thorough knowledge of home and
@@ -129,7 +129,7 @@ the end succumbed at Belfast, on the 27th of January 1882.
   this movement of thought Leslie was the principal representative, if
   not the originator, in England. There is no doubt, for he has himself
   placed it on record, that the first influence which impelled him in
-  the direction of the historical method was that of Sir Henry Maine, by
+  the direction of the historical method was that of Sir Henry [[Maine]], by
   whose personal teaching of jurisprudence, as well as by the example of
   his writings, he was led "to look at the present economic structure
   and state of society as the result of a long evolution." The study of
@@ -151,7 +151,7 @@ the end succumbed at Belfast, on the 27th of January 1882.
   by declaring that "political economy must be content to take rank as
   an inductive, instead of a purely deductive science," and that, by
   this change of character, "it will gain in utility, interest and real
-  truth far more than a full compensation for the forfeiture of a
+  truth far more than a full compensation for the [[Forfeiture|forfeiture]] of a
   fictitious title to mathematical exactness and certainty." But it is
   in the essays collected in the volume of 1879 that his attitude in
   relation to the question of method is most decisively marked. In one
@@ -159,7 +159,7 @@ the end succumbed at Belfast, on the 27th of January 1882.
   very interesting way the co-existence in the _Wealth of Nations_ of
   historical-inductive investigation in the manner of Montesquieu with a
   priori speculation founded on theologico-metaphysical bases, and
-  points out the error of ignoring the former element, which is the
+  points out the [[Error|error]] of ignoring the former element, which is the
   really characteristic feature of Smith's social philosophy, and places
   him in strong contrast with his _soi-disant_ followers of the school
   of Ricardo. The essay, however, which contains the most brilliant

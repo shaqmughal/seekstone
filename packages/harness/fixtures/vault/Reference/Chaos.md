@@ -7,13 +7,13 @@ id: 42-5935
 
 # Chaos
 
-CHAOS, in the Hesiodic theogony, the infinite empty space, which existed
+CHAOS, in the Hesiodic theogony, the [[Infinite|infinite]] empty space, which existed
 before all things (_Theog._ 116, 123). It is not, however, a mere
 abstraction, being filled with clouds and darkness; from it proceed
-Erebus and Nyx (Night), whose children are Aether (upper air) and Hemera
-(Day). In the Orphic cosmogony the origin of all goes back to Chronos,
+[[Erebus]] and Nyx (Night), whose children are Aether (upper air) and Hemera
+(Day). In the Orphic [[Cosmogony|cosmogony]] the origin of all goes back to Chronos,
 the personification of time, who produces Aether and Chaos. In the
-Aristophanic parody (_Birds_, 691) the winged Eros in conjunction with
+Aristophanic parody (_Birds_, 691) the winged [[Eros]] in conjunction with
 gloomy Chaos brings forth the race of birds. The later Roman conception
 (Ovid, _Metam._ i. 7) makes Chaos the original undigested, amorphous
 mass, into which the architect of the world introduces order and

@@ -11,7 +11,7 @@ ELBE (the _Albis_ of the Romans and the _Labe_ of the Czechs), a river
 of Germany, which rises in Bohemia not far from the frontiers of
 Silesia, on the southern side of the Riesengebirge, at an altitude of
 about 4600 ft. Of the numerous small streams (Seifen or Flessen as they
-are named in the district) whose confluent waters compose the infant
+are named in the district) whose confluent waters compose the [[Infant|infant]]
 river, the most important are the Weisswasser, or White Water, and the
 Elbseifen, which is formed in the same neighbourhood, but at a little
 lower elevation. After plunging down the 140 ft. of the Elbfall, the
@@ -19,14 +19,14 @@ latter stream unites with the steep torrential Weisswasser at
 Mädelstegbaude, at an altitude of 2230 ft., and thereafter the united
 stream of the Elbe pursues a southerly course, emerging from the
 mountain glens at Hohenelbe (1495 ft.), and continuing on at a soberer
-pace to Pardubitz, where it turns sharply to the west, and at Kolin (730
-ft.), some 27 m. farther on, bends gradually towards the north-west. A
+pace to Pardubitz, where it turns sharply to the west, and at [[Kolin]] (730
+ft.), some 27 m. farther on, [[Bend|bends]] gradually towards the north-west. A
 little above Brandeis it picks up the Iser, which, like itself, comes
 down from the Riesengebirge, and at Melnik it has its stream more than
 doubled in volume by the Moldau, a river which winds northwards through
 the heart of Bohemia in a sinuous, trough-like channel carved through
 the plateaux. Some miles lower down, at Leitmeritz (433 ft.), the waters
-of the Elbe are tinted by the reddish Eger, a stream which drains the
+of the Elbe are tinted by the reddish [[Eger]], a stream which drains the
 southern slopes of the Erzgebirge. Thus augmented, and swollen into a
 stream 140 yds. wide, the Elbe carves a path through the basaltic mass
 of the Mittelgebirge, churning its way through a deep, narrow rocky
@@ -41,20 +41,20 @@ stream. Shortly after crossing the Bohemian-Saxon frontier, and whilst
 still struggling through the sandstone defiles, the stream assumes a
 north-westerly direction, which on the whole it preserves right away to
 the North Sea. At Pirna the Elbe leaves behind it the stress and turmoil
-of the Saxon Switzerland, rolls through Dresden, with its noble river
+of the Saxon Switzerland, rolls through [[Dresden]], with its noble river
 terraces, and finally, beyond Meissen, enters on its long journey across
-the North German plain, touching Torgau, Wittenberg, Magdeburg,
-Wittenberge, Hamburg, Harburg and Altona on the way, and gathering into
+the North German plain, touching Torgau, Wittenberg, [[Magdeburg]],
+Wittenberge, [[Hamburg]], [[Harburg]] and Altona on the way, and gathering into
 itself the waters of the Mulde and Saale from the left, and those of the
-Schwarze Elster, Havel and Elde from the right. Eight miles above
+Schwarze Elster, [[Havel]] and Elde from the right. Eight miles above
 Hamburg the stream divides into the Norder (or Hamburg) Elbe and the
 Süder (or Harburg) Elbe, which are linked together by several
 cross-channels, and embrace in their arms the large island of
 Wilhelmsburg and some smaller ones. But by the time the river reaches
 Blankenese, 7 m. below Hamburg, all these anastomosing branches have
 been reunited, and the Elbe, with a width of 4 to 9 m. between bank and
-bank, travels on between the green marshes of Holstein and Hanover until
-it becomes merged in the North Sea off Cuxhaven. At Kolin the width is
+bank, travels on between the green marshes of Holstein and [[Hanover]] until
+it becomes merged in the North Sea off [[Cuxhaven]]. At Kolin the width is
 about 100 ft., at the mouth of the Moldau about 300, at Dresden 960, and
 at Magdeburg over 1000. From Dresden to the sea the river has a total
 fall of only 280 ft., although the distance is about 430 m. For the 75
@@ -77,10 +77,10 @@ border upon its banks. As a result of these labours there is now in the
 Bohemian portion of the river a minimum depth of 2 ft. 8 in., whilst
 from the Bohemian frontier down to Magdeburg the minimum depth is 3 ft.,
 and from Magdeburg to Hamburg, 3 ft. 10 in. In 1896 and 1897 Prussia and
-Hamburg signed covenants whereby two channels are to be kept open to a
+Hamburg signed [[Covenant|covenants]] whereby two channels are to be kept open to a
 depth of 9¾ ft., a width of 656 ft., and a length of 550 yds. between
 Bunthaus and Ortkathen, just above the bifurcation of the Norder Elbe
-and the Süder Elbe. In 1869 the maximum burden of the vessels which were
+and the Süder Elbe. In 1869 the maximum [[Burden|burden]] of the vessels which were
 able to ply on the upper Elbe was 250 tons; but in 1899 it was increased
 to 800 tons. The large towns through which the river flows have vied
 with one another in building harbours, providing shipping accommodation,
@@ -90,12 +90,12 @@ Hamburg; but Magdeburg, Dresden, Meissen, Riesa, Tetschen, Aussig and
 other places have all done their relative shares, Magdeburg, for
 instance, providing a commercial harbour and a winter harbour. In spite,
 however, of all that has been done, the Elbe remains subject to serious
-inundations at periodic intervals. Among the worst floods were those of
+inundations at periodic intervals. Among the worst [[Flood|floods]] were those of
 the years 1774, 1799, 1815, 1830, 1845, 1862, 1890 and 1909. The growth
 of traffic up and down the Elbe has of late years become very
 considerable. A towing chain, laid in the bed of the river, extends from
 Hamburg to Aussig, and by this means, as by paddle-tug haulage, large
-barges are brought from the port of Hamburg into the heart of Bohemia.
+[[Barge|barges]] are brought from the port of Hamburg into the heart of Bohemia.
 The fleet of steamers and barges navigating the Elbe is in point of fact
 greater than on any other German river. In addition to goods thus
 conveyed, enormous quantities of timber are floated down the Elbe; the
@@ -128,14 +128,14 @@ the year named a special commission was appointed for the regulation of
 the Moldau and Elbe between Prague and Aussig, at a cost estimated at
 about £1,000,000, of which sum two-thirds were to be borne by the
 Austrian empire and one-third by the kingdom of Bohemia. The regulation
-is effected by locks and movable dams, the latter so designed that in
-times of flood or frost they can be dropped flat on the bottom of the
+is effected by [[Lock|locks]] and movable dams, the latter so designed that in
+times of flood or [[Frost|frost]] they can be dropped flat on the bottom of the
 river. In 1901 the Austrian government laid before the Reichsrat a canal
 bill, with proposals for works estimated to take twenty years to
 complete, and including the construction of a canal between the Oder,
 starting at Prerau, and the upper Elbe at Pardubitz, and for the
 canalization of the Elbe from Pardubitz to Melnik (see AUSTRIA:
-_Waterways_). In 1900 Lübeck was put into direct communication with the
+_Waterways_). In 1900 Lü[[Beck|beck]] was put into direct communication with the
 Elbe at Lauenburg by the opening of the Elbe-Trave Canal, 42 m. in
 length, and constructed at a cost of £1,177,700, of which the state of
 Lübeck contributed £802,700, and the kingdom of Prussia £375,000. The
@@ -173,7 +173,7 @@ by a fine triple-arched bridge (1888) for vehicular traffic.
 _Fish._--The river is well stocked with fish, both salt-water and
 fresh-water species being found in its waters, and several varieties of
 fresh-water fish in its tributaries. The kinds of greatest economic
-value are sturgeon, shad, salmon, lampreys, eels, pike and whiting.
+value are sturgeon, shad, salmon, [[Lamprey|lampreys]], eels, pike and whiting.
 
 _Tolls._--In the days of the old German empire no fewer than thirty-five
 different tolls were levied between Melnik and Hamburg, to say nothing
@@ -190,31 +190,31 @@ Saxon frontier. But the number of tolls was only reduced to one, levied
 at Wittenberge, in 1863, about one year after Hanover was induced to
 give up the Stade or Brunsbüttel toll in return for a compensation of
 2,857,340 thalers. Finally, in 1870, 1,000,000 thalers were paid to
-Mecklenburg and 85,000 thalers to Anhalt, which thereupon abandoned all
-claims to levy tolls upon the Elbe shipping, and thus navigation on the
+[[Mecklenburg]] and 85,000 thalers to Anhalt, which thereupon abandoned all
+claims to [[Levy|levy]] tolls upon the Elbe shipping, and thus navigation on the
 river became at last entirely free.
 
 _History._--The Elbe cannot rival the Rhine in the picturesqueness of
 the scenery it travels through, nor in the glamour which its romantic
-and legendary associations exercise over the imagination. But it
-possesses much to charm the eye in the deep glens of the Riesengebirge,
+and legendary associations exercise over the [[Imagination|imagination]]. But it
+possesses much to [[Charm|charm]] the eye in the deep glens of the Riesengebirge,
 amid which its sources spring, and in the bizarre rock-carving of the
 Saxon Switzerland. It has been indirectly or directly associated with
 many stirring events in the history of the German peoples. In its lower
 course, whatever is worthy of record clusters round the historical
 vicissitudes of Hamburg--its early prominence as a missionary centre
-(Ansgar) and as a bulwark against Slav and marauding Northman, its
+(Ansgar) and as a [[Bulwark|bulwark]] against Slav and marauding Northman, its
 commercial prosperity as a leading member of the Hanseatic League, and
 its sufferings during the Napoleonic wars, especially at the hands of
-the ruthless Davoût. The bridge over the river at Dessau recalls the hot
-assaults of the _condottiere_ Ernst von Mansfeld in April 1626, and his
+the ruthless Davoût. The bridge over the river at [[Dessau]] recalls the hot
+assaults of the _[[Condottiere|condottiere]]_ Ernst von Mansfeld in April 1626, and his
 repulse by the crafty generalship of Wallenstein. But three years later
 this imperious leader was checked by the heroic resistance of the
 "Maiden" fortress of Magdeburg; though two years later still she lost
 her reputation, and suffered unspeakable horrors at the hands of Tilly's
 lawless and unlicensed soldiery. Mühlberg, just outside the Saxon
 frontier, is the place where Charles V. asserted his imperial authority
-over the Protestant elector of Saxony, John Frederick, the Magnanimous
+over the Protestant elector of Saxony, [[John Frederick]], the Magnanimous
 or Unfortunate, in 1547. Dresden, Aussig and Leitmeritz are all
 reminiscent of the fierce battles of the Hussite wars, and the last
 named of the Thirty Years' War. But the chief historical associations of
@@ -235,7 +235,7 @@ of July 1866.
   "Die künstlichen Wasserstrassen des deutschen Reichs," in _Geog.
   Zeitschrift_ (1898), pp. 601-617; and (the official) _Der Elbstrom_
   (1900); B. Weissenborn, _Die Elbzölle und Elbstapelplätze im
-  Mittelalter_ (Halle, 1900); Daniel, _Deutschland_; and A. Supan,
+  Mittelalter_ ([[Halle]], 1900); [[Daniel]], _Deutschland_; and A. Supan,
   _Wasserstrassen und Binnenschifffahrt_ (Berlin, 1902).
 
 

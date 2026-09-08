@@ -9,7 +9,7 @@ tags: [architecture, religion]
 # Bolbec
 
 BOLBEC, a town of northern France, in the department of
-Seine-Inferieure, on the Bolbec, 19 m. E.N.E. of Havre by rail. Pop.
+Seine-Inferieure, on the Bolbec, 19 m. E.N.E. of [[Havre]] by rail. Pop.
 (1906) 10,959. Bolbec is important for its cotton spinning and weaving,
 and carries on the dyeing and printing of the fabric, and the
 manufacture of sugar. There are a chamber of commerce and a board of

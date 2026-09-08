@@ -7,13 +7,13 @@ type: note
 
 # Judge
 
-JUDGE (Lat. _judex_, Fr. _juge_), in the widest legal sense an officer
+JUDGE (Lat. _judex_, Fr. _[[Juge|juge]]_), in the widest legal sense an officer
 appointed by the sovereign power in a state to administer the law; in
-English practice, however, justices of the peace and magistrates are not
+English practice, however, justices of the peace and [[Magistrate|magistrates]] are not
 usually regarded as "judges" in the titular sense. The duties of the
 judge, whether in a civil or a criminal matter, are to hear the
 statements on both sides in open court, to arrive at a conclusion as to
-the truth of the facts submitted to him or, when a jury is engaged, to
+the truth of the facts submitted to him or, when a [[Jury|jury]] is engaged, to
 direct the jury to find such a conclusion, to apply to the facts so
 found the appropriate rules of law, and to certify by his judgment the
 relief to which the parties are entitled or the obligations or penalties
@@ -29,7 +29,7 @@ other governing functions; (2) although the judge is assumed to take the
 law from the legislative authority, yet, as the existing law never at
 any time contains provision for all cases, the judge may be obliged to
 invent or create principles applicable to the case--this is called by
-Bentham and the English jurists judge-made and judiciary law; (3) the
+[[Bentham]] and the English jurists judge-made and judiciary law; (3) the
 separation of the function of judge and jury, and the exclusive charge
 of questions of law given to the judge, are more particularly
 characteristic of the English judicial system. During a considerable
@@ -42,9 +42,9 @@ commissioned to hear and report upon a particular case.
 
 The following are points more specially characteristic of the English
 system and its kindred judicial systems: (1) Judges are absolutely
-protected from action for anything that they may do in the discharge of
+protected from action for anything that they may do in the [[Discharge|discharge]] of
 their judicial duties. This is true in the fullest sense of judges of
-the supreme courts. "It is a principle of English law that no action
+the supreme courts. "It is a principle of [[English Law|English law]] that no action
 will lie against a judge of one of the superior courts for a judicial
 act, though it be alleged to have been done maliciously and corruptly."
 Other judicial officers are also protected, though not to the same
@@ -54,7 +54,7 @@ resolution passed by both houses and assented to by the sovereign. The
 inferior judges and magistrates are removable for misconduct by the lord
 chancellor. (3) The judiciary in England is not a separate profession.
 The judges are chosen from the class of advocates, and almost entirely
-according to their eminence at the bar. (4) Judges are in England
+according to their [[Eminence|eminence]] at the bar. (4) Judges are in England
 appointed for the most part by the crown. In a few cases municipal
 corporations may appoint their own judicial officer.
 

@@ -18,7 +18,7 @@ two last missions were at Rome (1557) and at the Diet of Augsburg
 (1559). In 1550 he was given the bishopric of Vannes, and in 1557 the
 archbishopric of Vienne; he also became a member of the privy council.
 He distinguished himself as a statesman at the Assembly of Notables at
-Fontainebleau in 1560, when he delivered an exceedingly brilliant
+[[Fontainebleau]] in 1560, when he delivered an exceedingly brilliant
 discourse, in which he opposed the policy of violence and demanded a
 national council and the assembly of the states general. Irritated by
 his opposition, the Guises compelled him to leave the court, and he died

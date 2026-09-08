@@ -19,7 +19,7 @@ Some neolithic remains have been found at Horsham. The town is not
 mentioned in Domesday Book, but the Rape of Bramber, in which it lies,
 belonged at that time to William de Braose. His descendants held the
 borough and the manor of Horsham, and through them they passed to the
-family of Mowbray, afterwards dukes of Norfolk. There are traces of
+family of Mowbray, afterwards [[Dukes|dukes]] of Norfolk. There are traces of
 burgage tenure at Horsham in 1210, and it was called a borough in 1236.
 It has no charter of incorporation. Horsham sent two representatives to
 parliament from 1295 until 1832, when the number was reduced to one. In

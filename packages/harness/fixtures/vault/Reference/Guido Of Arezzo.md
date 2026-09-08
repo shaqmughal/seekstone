@@ -7,9 +7,9 @@ topic: mineralogy-studies
 # Guido Of Arezzo
 
 GUIDO OF AREZZO (possibly to be identified with Guido de St Maur des
-Fosses), a musician who lived in the 11th century. He has by many been
+[[Foss|Fosses]]), a musician who lived in the 11th century. He has by many been
 called the father of modern music, and a portrait of him in the
-refectory of the monastery of Avellana bears the inscription _Beatus
+refectory of the monastery of Avellana bears the inscription _[[Beatus]]
 Guido, inventor musicae_. Of his life little is known, and that little
 is chiefly derived from the dedicatory letters prefixed to two of his
 treatises and addressed respectively to Bishop Theodald (not Theobald,
@@ -25,11 +25,11 @@ Guido was a monk in the Benedictine monastery of Pomposa, and it was
 there that he taught singing and invented his educational method, by
 means of which, according to his own statement, a pupil might learn
 within five months what formerly it would have taken him ten years to
-acquire. Envy and jealousy, however, were his only reward, and by these
+acquire. Envy and [[Jealousy|jealousy]], however, were his only reward, and by these
 he was compelled to leave his monastery--"inde est, quod me vides
 prolixis finibus exulatum," as he says himself in the second of the
 letters above referred to. According to one account, he travelled as far
-as Bremen, called there by Archbishop Hermann in order to reform the
+as Bremen, called there by Archbishop [[Hermann]] in order to reform the
 musical service. But this statement has been doubted. Certain it is that
 not long after his flight from Pomposa Guido was living at Arezzo, and
 it was here that, about 1030, he received an invitation to Rome from
@@ -39,7 +39,7 @@ his success Guido could not be induced to remain in Rome, the
 insalubrious air of which seems to have affected his health. In Rome he
 met again his former superior, the abbot of Pomposa, who seems to have
 repented of his conduct, and to have induced Guido to return to Pomposa;
-and here all authentic records of Guido's life cease. We only know that
+and here all [[Authentic|authentic]] records of Guido's life cease. We only know that
 he died, on the 17th of May 1050, as prior of Avellana, a monastery of
 the Camaldulians; such at least is the statement of the chroniclers of
 that order. It ought, however, to be added that the Camaldulians claim
@@ -85,13 +85,13 @@ contemporaries and predecessors.
   prolatae_; and the _Epistola Guidonis Michaeli monacho de ignoto
   cantu_, already referred to. These are published in the second volume
   of Gerbert's _Scriptores ecclesiastici de musica sacra_. A very
-  important manuscript unknown to Gerbert (the _Codex bibliothecae
+  important [[Manuscript|manuscript]] unknown to [[Gerbert]] (the _Codex bibliothecae
   Uticensis_, in the Paris library) contains, besides minor treatises,
-  an antiphonarium and gradual undoubtedly belonging to Guido.
+  an antiphonarium and [[Gradual|gradual]] undoubtedly belonging to Guido.
 
   See also L. Angeloni, _G. d'Arezzo_ (1811); Kiesewetter, _Guido von
   Arezzo_ (1840); Kornmuller, "Leben und Werken Guidos von Arezzo," in
-  Habert's _Jahrb._ (1876); Antonio Brandi, _G. Aretino_ (1882); G. B.
+  Habert's _Jahrb._ (1876); [[Antonio]] Brandi, _G. Aretino_ (1882); G. B.
   Ristori, _Biografia di Guido monaco d'Arezzo_ (1868).
 
 
@@ -99,7 +99,7 @@ contemporaries and predecessors.
 
 GUIDO OF SIENA. The name of this Italian painter is of considerable
 interest in the history of art, on the ground that, if certain
-assumptions regarding him could be accepted as true, he would be
+[[Assumption|assumptions]] regarding him could be accepted as true, he would be
 entitled to share with Cimabue, or rather indeed to supersede him in,
 the honour of having given the first onward impulse to the art of
 painting. The case stands thus. In the church of S. Domenico in Siena is
@@ -130,7 +130,7 @@ record remains earlier than 1278, when he is mentioned as the painter of
 a banner. Guido da Siena appears always to have painted on panel, not in
 fresco on the wall. He has been termed, very dubiously, a pupil of
 Pietrolino, and the master of "Diotisalvi," Mino da Turrita and
-Berlinghieri da Lucca.
+Berlinghieri da [[Lucca]].
 
 ## See also
 

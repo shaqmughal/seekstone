@@ -4,9 +4,9 @@ HAIDINGER, WILHELM KARL, RITTER VON (1795-1871), Austrian mineralogist,
 geologist and physicist, was born at Vienna on the 5th of February 1795.
 His father, Karl Haidinger, contributed largely to the development of
 mineralogical science in the latter half of the 18th century. Having
-studied at the normal school of St Anne, and attended classes at the
+studied at the normal school of St [[Anne]], and attended classes at the
 university, Wilhelm, at the age of seventeen, joined Professor F. Mohs
-at Gratz, and five years later accompanied the professor to Freiberg on
+at Gratz, and five years later accompanied the professor to [[Freiberg]] on
 the transfer of his labours to the mining academy of that town.
 
 In 1822 Haidinger visited France and England with Count Breunner, and,
@@ -17,7 +17,7 @@ Mineralogy_ (1825). After a tour in northern Europe, including the
 Scandinavian mining districts, he undertook the scientific direction of
 the porcelain works at Elbogen, belonging to his brothers. In 1840 he
 was appointed counsellor of mines (Bergrat) at Vienna in the place of
-Professor Mohs, a post which included the charge of the imperial cabinet
+Professor Mohs, a post which included the charge of the imperial [[Cabinet|cabinet]]
 of minerals. He devoted himself to the rearrangement and enrichment of
 the collections, and the museum became the first in Europe. Shortly
 after (1843) Haidinger commenced a series of lectures on mineralogy,

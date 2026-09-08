@@ -7,14 +7,14 @@ topic: chemistry
 # Crittenden
 
 CRITTENDEN, JOHN JORDAN (1787-1863), American statesman, was born in
-Versailles, Kentucky, on the 10th of September 1787. After graduating at
+Versailles, [[Kentucky]], on the 10th of September 1787. After graduating at
 the College of William and Mary in 1807, he began the practice of law in
 his native state. He served for three months, in 1810, as
-attorney-general of Illinois Territory, but soon returned to Kentucky,
+[[Attorney-General|attorney-general]] of Illinois Territory, but soon returned to Kentucky,
 and during the War of 1812 he was for a time on the staff of General
-Isaac Shelby. In 1811-1817 he served in the state House of
+[[Isaac]] Shelby. In 1811-1817 he served in the state House of
 Representatives, being speaker in 1815-1816, and in 1817-1819 was a
-United States senator. Settling in Frankfort, he soon took high rank as
+United States senator. Settling in [[Frankfort]], he soon took high rank as
 a criminal lawyer, was in the Kentucky House of Representatives in 1825
 and 1829-1832, acting as speaker in the latter period, and from 1827 to
 1829 was United States district-attorney. He was removed by President
@@ -28,12 +28,12 @@ Kentucky. He was an ardent and outspoken supporter of Clay's compromise
 measures, and in 1850 he entered President Fillmore's cabinet as
 attorney-general, serving throughout the administration. From 1855 to
 1861 he was once more a member of the United States Senate. During these
-years he was perhaps the foremost champion of Union in the South, and
+years he was perhaps the foremost [[Champion|champion]] of Union in the South, and
 strenuously opposed the Kansas-Nebraska Bill, which he declared
 prophetically would unite the various elements of opposition in the
-North, and render the breach between the sections irreparable.
+North, and render the [[Breach|breach]] between the sections irreparable.
 Nevertheless he laboured unceasingly in the cause of compromise, gave
-his strong support to the Bell and Everett ticket in 1860, and in
+his strong support to the Bell and [[Everett]] ticket in 1860, and in
 1860-1861 proposed and vainly contended for the adoption by congress of
 the compromise measures which bear his name. When war became inevitable
 he threw himself zealously into the Union cause, and lent his great
@@ -71,7 +71,7 @@ father, he was a strong Union man, and in September 1861 he was
 commissioned by President Lincoln a brigadier-general of volunteers. He
 commanded a division at Shiloh, for gallantry in which battle he was
 promoted major-general in July 1862. He was in command of a corps in the
-army of the Ohio under Gen. D. C. Buell, and took part in the battles of
+army of the Ohio under Gen. D. C. [[Buell]], and took part in the battles of
 Stone River and Chickamauga. Subsequently he served in the Virginia
 campaign of 1864. He resigned his commission in December 1864, but in
 July 1866 entered the regular army with the rank of colonel of infantry,

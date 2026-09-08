@@ -4,13 +4,13 @@ JEHORAM, or JORAM (Heb. "Yah[weh] is high"), the name of two Biblical
 characters.
 
 1. The son of Ahab, and king of Israel in succession to his brother
-Ahaziah.[1] He maintained close relations with Judah, whose king came to
+Ahaziah.[1] He maintained close relations with [[Judah]], whose king came to
 his assistance against Moab which had revolted after Ahab's death (2
 Kings i. 1; iii.). The king in question is said to have been
-Jehoshaphat; but, according to Lucian's recension, it was Ahaziah,
+[[Jehoshaphat]]; but, according to Lucian's recension, it was Ahaziah,
 whilst i. 17 would show that it was Jehoram's namesake (see 2). The
 result of the campaign appears to have been a defeat for Israel (see on
-the incidents EDOM, ELISHA, MOAB). The prophetical party were throughout
+the incidents [[Edom|EDOM]], [[Elisha|ELISHA]], MOAB). The prophetical party were throughout
 hostile to Jehoram (with his reform iii. 2 contrast x. 27), and the
 singular account of the war of Benhadad king of Syria against the king
 of Israel (vi. 24-vii.) shows the feeling against the reigning dynasty.
@@ -53,7 +53,7 @@ FOOTNOTES:
     the narrative in 2 Kings i. (see ELIJAH), nothing is known of this
     Ahaziah. Notwithstanding his very brief reign (1 Kings xxii. 51; 2
     Kings iii. 1), the compiler passes the usual hostile judgment (1
-    Kings xxii. 52 seq.); see KINGS (BOOKS). The chronology in 1 Kings
+    Kings xxii. 52 seq.); see KINGS (BOOKS). The [[Chronology|chronology]] in 1 Kings
     xxii. 51 is difficult; if Lucian's text (twenty-fourth year of
     Jehoshaphat) is correct, Jehoram 1 and 2 must have come to their
     respective thrones at almost the same time.

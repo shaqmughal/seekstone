@@ -8,9 +8,9 @@ tags: [geography, literature]
 
 # Engis
 
-ENGIS, a cave on the banks of the Meuse near Liége, Belgium, where in
+ENGIS, a cave on the banks of the Meuse near Liége, [[Belgium]], where in
 1832 Dr P.C. Schmerling found human remains in deposits belonging to the
-Quaternary period. Bones of the cave-bear, mammoth, rhinoceros and hyena
+Quaternary period. [[Bone|Bones]] of the cave-bear, mammoth, rhinoceros and hyena
 were discovered in association with parts of a man's skeleton and a
 human skull. This, known as "the Engis Skull," gave rise to much
 discussion among anthropologists, since it has characteristics of both

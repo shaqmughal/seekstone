@@ -7,7 +7,7 @@ topic: history
 # Castillejo
 
 CASTILLEJO, CRISTÓBAL DE (1490-1556), Spanish poet, was born at Ciudad
-Rodrigo in 1490. In 1518 he left Spain with Ferdinand of Austria,
+Rodrigo in 1490. In 1518 he left Spain with [[Ferdinand]] of Austria,
 afterwards emperor, whose private secretary he eventually became. While
 residing at Vienna in 1528-1530 he wrote the _Historia de Píramo y
 Tisbe_, and dedicated it to Anna von Schaumberg, with whom he had a
@@ -23,7 +23,7 @@ when he indulges in caustic parody of the new school--as in the lines
 _Contra los que dejan los metros castellanos_. He excels by virtue of
 his charming simplicity and his ingenious wit, always keen, sometimes
 licentious, never brutal. The urbane gaiety of his occasional poems is
-delightfully spontaneous, and the cynical humour which informs the
+delightfully spontaneous, and the cynical [[Humour|humour]] which informs the
 _Diálogo de las condiciones de las mujeres_ and the _Diálogo de la vida
 de la corte_ is impregnated with the Renaissance spirit. Castillejo is
 the Clément Marot of Spain. His plays are lost; the best text of his

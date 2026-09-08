@@ -8,21 +8,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/George"
 
 # George
 
-GEORGE, SAINT (d. 303), the patron saint of England, Aragon and
+GEORGE, SAINT (d. 303), the patron saint of England, [[Aragon]] and
 Portugal. According to the legend given by Metaphrastes the Byzantine
 hagiologist, and substantially repeated in the Roman _Acta sanctorum_
-and in the Spanish breviary, he was born in Cappadocia of noble
+and in the Spanish [[Breviary|breviary]], he was born in [[Cappadocia]] of noble
 Christian parents, from whom he received a careful religious training.
 Other accounts place his birth at Lydda, but preserve his Cappadocian
 parentage. Having embraced the profession of a soldier, he rapidly rose
-under Diocletian to high military rank. In Persian Armenia he organized
+under [[Diocletian]] to high military rank. In Persian [[Armenia]] he organized
 and energized the Christian community at Urmi (Urumiah), and even
 visited Britain on an imperial expedition. When Diocletian had begun to
-manifest a pronounced hostility towards Christianity, George sought a
+[[Manifest|manifest]] a pronounced hostility towards Christianity, George sought a
 personal interview with him, in which he made deliberate profession of
 his faith, and, earnestly remonstrating against the persecution which
 had begun, resigned his commission. He was immediately laid under
-arrest, and after various tortures, finally put to death at Nicomedia
+[[Arrest|arrest]], and after various tortures, finally put to death at Nicomedia
 (his body being afterwards taken to Lydda) on the 23rd of April 303. His
 festival is observed on that anniversary by the entire Roman Catholic
 Church as a semi-duplex, and by the Spanish Catholics as a duplex of the
@@ -31,18 +31,18 @@ feast in the Orthodox Eastern Church, where the saint is distinguished
 by the titles [Greek: megalomartyr] and [Greek: tropaiophoros].
 
 The historical basis of the tradition is particularly unsound, there
-being two claimants to the name and honour. Eusebius, _Hist. eccl._
+being two claimants to the name and honour. [[Eusebius]], _Hist. eccl._
 viii. 5, writes: "Immediately on the promulgation of the edict (of
 Diocletian) a certain man of no mean origin, but highly esteemed for his
-temporal dignities, as soon as the decree was published against the
+temporal dignities, as soon as the [[Decree|decree]] was published against the
 churches in Nicomedia, stimulated by a divine zeal and excited by an
 ardent faith, took it as it was openly placed and posted up for public
 inspection, and tore it to shreds as a most profane and wicked act.
-This, too, was done when the two Caesars were in the city, the first of
+This, too, was done when the two [[Caesar|Caesars]] were in the city, the first of
 whom was the eldest and chief of all and the other held fourth grade of
 the imperial dignity after him. But this man, as the first that was
 distinguished there in this manner, after enduring what was likely to
-follow an act so daring, preserved his mind, calm and serene, until the
+follow an act so daring, preserved his mind, [[Calm|calm]] and serene, until the
 moment when his spirit fled." Rivalling this anonymous martyr, who is
 often supposed to have been St George, is an earlier martyr briefly
 mentioned in the _Chronicon Pascale_: "In the year 225 of the Ascension
@@ -52,13 +52,13 @@ suffered martyrdom, among whom also the Holy George was martyred."
 Two Syrian church inscriptions bearing the name, one at Ezr'a and the
 other at Shaka, found by Burckhardt and Porter, and discussed by J. Hogg
 in the _Transactions of the Royal Literary Society_, may with some
-probability be assigned to the middle of the 4th century. Calvin
+probability be assigned to the middle of the 4th century. [[Calvin]]
 impugned the saint's existence altogether, and Edward Reynolds
 (1599-1676), bishop of Norwich, like Edward Gibbon a century later, made
-him one with George of Laodicea, called "the Cappadocian," the Arian
+him one with George of [[Laodicea]], called "the Cappadocian," the Arian
 bishop of Alexandria (see GEORGE OF LAODICEA).
 
-Modern criticism, while rejecting this identification, is not unwilling
+Modern criticism, while rejecting this [[Identification|identification]], is not unwilling
 to accept the main fact that an officer named Georgios, of high rank in
 the army, suffered martyrdom probably under Diocletian. In the canon of
 Pope Gelasius (494) George is mentioned in a list of those "whose names
@@ -66,8 +66,8 @@ are justly reverenced among men, but whose acts are known only to God,"
 a statement which implies that legends had already grown up around his
 name. The caution of Gelasius was not long preserved; Gregory of Tours,
 for example, asserts that the saint's relics actually existed in the
-French village of Le Maine, where many miracles were wrought by means of
-them; and Bede, while still explaining that the _Gesta Georgii_ are
+French village of Le [[Maine]], where many miracles were wrought by means of
+them; and [[Bede]], while still explaining that the _Gesta Georgii_ are
 reckoned apocryphal, commits himself to the statement that the martyr
 was beheaded under Dacian, king of Persia, whose wife Alexandra,
 however, adhered to the Christian faith. The great fame of George, who
@@ -84,11 +84,11 @@ Saracens. This cathedral was in turn destroyed by Saladin.
 
 The connexion of St George with a dragon, familiar since the _Golden
 Legend_ of Jacobus de Voragine, can be traced to the close of the 6th
-century. At Arsuf or Joppa--neither of them far from Lydda--Perseus had
+century. At [[Arsuf]] or Joppa--neither of them far from Lydda--Perseus had
 slain the sea-monster that threatened the virgin Andromeda, and George,
 like many another Christian saint, entered into the inheritance of
 veneration previously enjoyed by a pagan hero.[1] The exploit thus
-attaches itself to the very common Aryan myth of the sun-god as the
+attaches itself to the very common [[Aryan]] myth of the sun-god as the
 conqueror of the powers of darkness.
 
 The popularity of St George in England has never reached the height
@@ -99,9 +99,9 @@ III. that he was made patron of the kingdom. The republics of Genoa and
 Venice were also under his protection.
 
   See P. Heylin, _The History of ... S. George of Cappadocia_ (1631); S.
-  Baring-Gould, Curious _Myths of the Middle Ages_; Fr. Gorres, "Der
+  [[Baring-Gould]], Curious _Myths of the Middle Ages_; Fr. Gorres, "Der
   Ritter St Georg in der Geschichte, Legende und Kunst" (_Zeitschrift
-  fur wissenschaftliche Theologie_, xxx., 1887, Heft i.); E.A.W. Budge,
+  [[Fur|fur]] wissenschaftliche Theologie_, xxx., 1887, Heft i.); E.A.W. Budge,
   _The Martyrdom and Miracles of St George of Cappadocia_: the Coptic
   texts edited with an English translation (1888); Bolland, _Acta
   Sancti_, iii. 101; E.O. Gordon, _Saint George_ (1907); M.H. Bulley,
@@ -113,11 +113,11 @@ FOOTNOTE:
   [1] G.A. Smith (_Hist. Geog. of Holy Land_, p. 164) points out
     another coincidence. "The Mahommedans who usually identify St George
     with the prophet Elijah, at Lydda confound his legend with one about
-    Christ himself. Their name for Antichrist is Dajjal, and they have a
+    Christ himself. Their name for [[Antichrist]] is Dajjal, and they have a
     tradition that Jesus will slay Antichrist by the gate of Lydda. The
     notion sprang from an ancient bas-relief of George and the Dragon on
     the Lydda church. But Dajjal may be derived, by a very common
-    confusion between _n_ and _l_, from Dagon, whose name two
+    confusion between _n_ and _l_, from [[Dagon]], whose name two
     neighbouring villages bear to this day, while one of the gates of
     Lydda used to be called the Gate of Dagon." It is a curious process
     by which the monster that symbolized heathenism conquered by
@@ -128,12 +128,12 @@ FOOTNOTE:
 
 
 GEORGE I. [George Louis] (1660-1727), king of Great Britain and Ireland,
-born in 1660, was heir through his father Ernest Augustus to the
+born in 1660, was [[Heir|heir]] through his father [[Ernest Augustus]] to the
 hereditary lay bishopric of Osnabruck, and to the duchy of Calenberg,
 which formed one portion of the Hanoverian possessions of the house of
 Brunswick, whilst he secured the reversion of the other portion, the
 duchy of Celle or Zell, by his marriage (1682) with the heiress, his
-cousin Sophia Dorothea. The marriage was not a happy one. The morals of
+[[Cousin|cousin]] Sophia Dorothea. The marriage was not a happy one. The morals of
 German courts in the end of the 17th century took their tone from the
 splendid profligacy of Versailles. It became the fashion for a prince to
 amuse himself with a mistress or more frequently with many mistresses
@@ -141,7 +141,7 @@ simultaneously, and he was often content that the mistresses whom he
 favoured should be neither beautiful nor witty. George Louis followed
 the usual course. Count Konigsmark--a handsome adventurer--seized the
 opportunity of paying court to the deserted wife. Conjugal infidelity
-was held at Hanover to be a privilege of the male sex. Count Konigsmark
+was held at [[Hanover]] to be a privilege of the male sex. Count Konigsmark
 was assassinated. Sophia Dorothea was divorced in 1694, and remained in
 seclusion till her death in 1726. When George IV., her descendant in the
 fourth generation, attempted in England to call his wife to account for
@@ -160,19 +160,19 @@ James I. of England, was not one which at first seemed likely to confer
 any prospect of advancement to his family. But though there were many
 persons whose birth gave them better claims than she had to the English
 crown, she found herself, upon the death of the duke of Gloucester, the
-next Protestant heir after Anne. The Act of Settlement in 1701 secured
+next Protestant heir after [[Anne]]. The Act of Settlement in 1701 secured
 the inheritance to herself and her descendants. Being old and
 unambitious she rather permitted herself to be burthened with the honour
 than thrust herself forward to meet it. Her son George took a deeper
 interest in the matter. In his youth he had fought with determined
 courage in the wars of William III. Succeeding to the electorate on his
 father's death in 1698, he had sent a welcome reinforcement of
-Hanoverians to fight under Marlborough at Blenheim. With prudent
+Hanoverians to fight under [[Marlborough]] at [[Blenheim]]. With prudent
 persistence he attached himself closely to the Whigs and to Marlborough,
 refusing Tory offers of an independent command, and receiving in return
 for his fidelity a guarantee by the Dutch of his succession to England
-in the Barrier treaty of 1709. In 1714 when Anne was growing old, and
-Bolingbroke and the more reckless Tories were coquetting with the son of
+in the [[Barrier Treaty|Barrier treaty]] of 1709. In 1714 when Anne was growing old, and
+[[Bolingbroke]] and the more reckless Tories were coquetting with the son of
 James II., the Whigs invited George's eldest son, who was duke of
 Cambridge, to visit England in order to be on the spot in case of need.
 Neither the elector nor his mother approved of a step which was likely
@@ -208,10 +208,10 @@ order to do this he attached himself entirely to the Whig party, though
 he refused to place himself at the disposal of its leaders. He gave his
 confidence, not to Somers and Wharton and Marlborough, but to Stanhope
 and Townshend, the statesmen of the second rank. At first he seemed to
-be playing a dangerous game. The Tories, whom he rejected, were
+be playing a dangerous [[Game|game]]. The Tories, whom he rejected, were
 numerically superior to their adversaries, and were strong in the
 support of the country gentlemen and the country clergy. The strength of
-the Whigs lay in the towns and in the higher aristocracy. Below both
+the Whigs lay in the towns and in the higher [[Aristocracy|aristocracy]]. Below both
 parties lay the mass of the nation, which cared nothing for politics
 except in special seasons of excitement, and which asked only to be let
 alone. In 1715 a Jacobite insurrection in the north, supported by the
@@ -240,8 +240,8 @@ sufficiently depressed. A fortunate concurrence of circumstances enabled
 George's ministers, by an alliance with the regent of France, the duke
 of Orleans, to pursue at the same time the Whig policy of separating
 France from Spain and from the cause of the Pretender, and the Tory
-policy of the maintenance of a good understanding with their neighbour
-across the Channel. The same eclecticism was discernible in the
+policy of the [[Maintenance|maintenance]] of a good understanding with their neighbour
+across the Channel. The same [[Eclecticism|eclecticism]] was discernible in the
 proceedings of the home government. The Whigs were conciliated by the
 repeal of the Schism Act and the Occasional Conformity Act, whilst the
 Tories were conciliated by the maintenance of the Test Act in all its
@@ -263,7 +263,7 @@ conciliatory policy which quieted Tory opposition by abstaining from
 pushing Whig principles to their legitimate consequences.
 
 Nevertheless something of the honour due to Walpole must be reckoned to
-the king's credit. It is evident that at his accession his decisions
+the king's [[Credit|credit]]. It is evident that at his accession his decisions
 were by no means unimportant. The royal authority was still able within
 certain limits to make its own terms. This support was so necessary to
 the Whigs that they made no resistance when he threw aside their leaders
@@ -274,7 +274,7 @@ great-grandson in his struggle for power. If such a combination arose
 before the end of his reign it was owing more to his omitting to fulfil
 the duties of his station than from the necessity of the case. As he
 could talk no English, and his ministers could talk no German, he
-absented himself from the meetings of the cabinet, and his frequent
+absented himself from the meetings of the [[Cabinet|cabinet]], and his frequent
 absences from England and his want of interest in English politics
 strengthened the cabinet in its tendency to assert an independent
 position. Walpole at last by his skill in the management of parliament
@@ -283,14 +283,14 @@ prime minister. In connexion with Walpole the force of wealth and
 station established the Whig aristocracy in a point of vantage from
 which it was afterwards difficult to dislodge them. Yet, though George
 had allowed the power which had been exercised by William and Anne to
-slip through his hands, it was understood to the last that if he chose
-to exert himself he might cease to be a mere cipher in the conduct of
+slip through his hands, it was understood to the last that if he [[Chose|chose]]
+to exert himself he might cease to be a mere [[Cipher|cipher]] in the conduct of
 affairs. As late as 1727 Bolingbroke gained over one of the king's
 mistresses, the duchess of Kendal; and though her support of the fallen
 Jacobite took no effect, Walpole was not without fear that her
 reiterated entreaties would lead to his dismissal. The king's death in a
 carriage on his way to Hanover, in the night between 10th and 11th June
-in the same year, put an end to these apprehensions.
+in the same year, put an end to these [[Apprehension|apprehensions]].
 
 His only children were his successor George II. and Sophia Dorothea
 (1687-1757), who married in 1706 Frederick William, crown prince
@@ -313,8 +313,8 @@ is in no case an easy one to fill with dignity, and the ill-treatment of
 the prince's mother by his father was not likely to strengthen in him a
 reverence for paternal authority. It was most unwillingly that, on his
 first journey to Hanover in 1716, George I. appointed the prince of
-Wales guardian of the realm during his absence. In 1717 the existing
-ill-feeling ripened into an open breach. At the baptism of one of his
+Wales [[Guardian|guardian]] of the realm during his absence. In 1717 the existing
+ill-feeling ripened into an open [[Breach|breach]]. At the baptism of one of his
 children, the prince selected one godfather whilst the king persisted in
 selecting another. The young man spoke angrily, was ordered into arrest,
 and was subsequently commanded to leave St James's and to be excluded
@@ -333,7 +333,7 @@ was indicative of the course likely to be taken by the new sovereign.
 His own mind was incapable of rising above the merest details of
 business. He made war in the spirit of a drill-sergeant, and he
 economized his income with the minute regularity of a clerk. A blunder
-of a master of the ceremonies in marshalling the attendants on a levee
+of a master of the ceremonies in marshalling the attendants on a [[Levee|levee]]
 put him out of temper. He took the greatest pleasure in counting his
 money piece by piece, and he never forgot a date. He was above all
 things methodical and regular. "He seems," said one who knew him well,
@@ -342,13 +342,13 @@ doing it to-morrow."
 
 Most men so utterly immersed in details would be very impracticable to
 deal with. They would obstinately refuse to listen to a wisdom and
-prudence which meant nothing in their ears, and which brought home to
+prudence which meant nothing in their [[Ear|ears]], and which brought home to
 them a sense of their own inferiority. It was the happy peculiarity of
 George II. that he was exempt from this failing. He seemed to have an
 instinctive understanding that such and such persons were either wiser
 or even stronger than himself, and when he had once discovered that, he
 gave way with scarcely a struggle. Thus it was that, though in his
-domestic relations he was as loose a liver as his father had been, he
+[[Domestic Relations|domestic relations]] he was as loose a [[Liver|liver]] as his father had been, he
 allowed himself to be guided by the wise but unobtrusive counsels of his
 wife until her death in 1737, and that when once he had recognized
 Walpole's superiority he allowed himself to be guided by the political
@@ -395,7 +395,7 @@ the constitutional question of the power of appointing ministers. The
 war between Spain and England had broken out in 1739. In 1741 the death
 of the emperor Charles VI. brought on the war of the Austrian
 succession. The position of George II. as a Hanoverian prince drew him
-to the side of Maria Theresa through jealousy of the rising Prussian
+to the side of [[Maria Theresa]] through [[Jealousy|jealousy]] of the rising Prussian
 monarchy. Jealousy of France led England in the same direction, and in
 1741 a subsidy of L300,000 was voted to Maria Theresa. The king himself
 went to Germany and attempted to carry on the war according to his own
@@ -408,16 +408,16 @@ expenditure of English money and troops was to be thrown uselessly away
 as soon as it appeared that Hanover was in the slightest danger. In 1742
 Walpole was no longer in office. Lord Wilmington, the nominal head of
 the ministry, was a mere cipher. The ablest and most energetic of his
-colleagues, Lord Carteret (afterwards Granville), attached himself
+colleagues, Lord Carteret (afterwards [[Granville]]), attached himself
 specially to the king, and sought to maintain himself in power by his
-special favour and by brilliant achievements in diplomacy.
+special favour and by brilliant achievements in [[Diplomacy|diplomacy]].
 
 In part at least by Carteret's mediation the peace of Breslau was
 signed, by which Maria Theresa ceded Silesia to Frederick (July 28,
 1742). Thus relieved on her northern frontier, she struck out vigorously
 towards the west. Bavaria was overrun by her troops. In the beginning of
 1743 one French army was driven across the Rhine. On June 27th another
-French army was defeated by George II. in person at Dettingen. Victory
+French army was defeated by George II. in person at [[Dettingen]]. Victory
 brought elation to Maria Theresa. Her war of defence was turned into a
 war of vengeance. Bavaria was to be annexed. The French frontier was to
 be driven back. George II. and Carteret after some hesitation placed
@@ -444,7 +444,7 @@ Aix-la-Chapelle in 1748, the great war ministry of Pitt at the close of
 the reign, did not receive their impulse from him. He had indeed done
 his best to exclude Pitt from office. He disliked him on account of his
 opposition in former years to the sacrifices demanded by the Hanoverian
-connexion. When in 1756 Pitt became secretary of state in the Devonshire
+connexion. When in 1756 Pitt became secretary of state in the [[Devonshire]]
 administration, the king bore the yoke with difficulty. Early in the
 next year he complained of Pitt's long speeches as being above his
 comprehension, and on April 5, 1757, he dismissed him, only to take him
@@ -467,21 +467,21 @@ and severe than it was.
 Of the connexion between Hanover and England in this reign two memorials
 remain more pleasant to contemplate than the records of parliamentary
 and ministerial intrigues. With the support of George II., amidst the
-derision of the English fashionable world, the Hanoverian Handel
+derision of the English fashionable world, the Hanoverian [[Handel]]
 produced in England those masterpieces which have given delight to
 millions, whilst the foundation of the university of Gottingen by the
 same king opened a door through which English political ideas afterwards
 penetrated into Germany.
 
-George II. had three sons,--Frederick Louis (1707-1751); George William
-(1717-1718); and William Augustus, duke of Cumberland (1721-1765); and
+George II. had three sons,--[[Frederick Louis]] (1707-1751); George William
+(1717-1718); and William Augustus, duke of [[Cumberland]] (1721-1765); and
 five daughters, Anne (1709-1759), married to William, prince of Orange,
 1734; Amelia Sophia Eleonora (1711-1786); Elizabeth Caroline
-(1713-1757); Mary (1723-1772), married to Frederick, landgrave of
-Hesse-Cassel, 1740; Louisa (1724-1751), married to Frederick V., king of
-Denmark, 1743.     (S. R. G.)
+(1713-1757); Mary (1723-1772), married to Frederick, [[Landgrave|landgrave]] of
+[[Hesse-Cassel]], 1740; Louisa (1724-1751), married to Frederick V., king of
+[[Denmark]], 1743.     (S. R. G.)
 
-  See Lord Hervey, _Memoirs of the Reign of George II._, ed. by J. W,
+  See Lord [[Hervey]], _Memoirs of the Reign of George II._, ed. by J. W,
   Croker (3 vols., London, 1884); Horace Walpole, _Mem. of the Reign of
   George II._, with notes by Lord Holland (3 vols., 2nd ed., 1847).
 
@@ -493,7 +493,7 @@ Britain and Ireland, son of Frederick, prince of Wales, and grandson of
 George II., whom he succeeded in 1760, was born on the 4th of June 1738.
 After his father's death in 1751 he had been educated in seclusion from
 the fashionable world under the care of his mother and of her favourite
-counsellor the earl of Bute. He had been taught to revere the maxims of
+counsellor the earl of Bute. He had been taught to revere the [[Maxims|maxims]] of
 Bolingbroke's "Patriot King," and to believe that it was his appointed
 task in life to break the power of the Whig houses resting upon
 extensive property and the influence of patronage and corruption. That
@@ -513,7 +513,7 @@ not without reason, that men would feel more flattered in accepting a
 place from a king than from a minister. The new Toryism of which he was
 the founder was no recurrence to the Toryism of the days of Charles II.
 or even of Anne. The question of the amount of toleration to be accorded
-to Dissenters had been entirely laid aside. The point at issue was
+to [[Dissenter|Dissenters]] had been entirely laid aside. The point at issue was
 whether the crown should be replaced in the position which George I.
 might have occupied at the beginning of his reign, selecting the
 ministers and influencing the deliberations of the cabinet. For this
@@ -523,13 +523,13 @@ resistance was really hopeless. As the first English-born sovereign of
 his house, speaking from his birth the language of his subjects, he
 found a way to the hearts of many who never regarded his predecessors as
 other than foreign intruders. The contrast, too, between the pure
-domestic life which he led with his wife Charlotte, whom he married in
+domestic life which he led with his wife [[Charlotte]], whom he married in
 1761, and the habits of three generations of his house, told in his
 favour with the vast majority of his subjects. Even his marriage had
 been a sacrifice to duty. Soon after his accession he had fallen in love
-with Lady Sarah Lennox, and had been observed to ride morning by morning
-along the Kensington Road, from which the object of his affections was
-to be seen from the lawn of Holland House making hay, or engaged in some
+with Lady Sarah [[Lennox]], and had been observed to ride morning by morning
+along the [[Kensington]] Road, from which the object of his affections was
+to be seen from the [[Lawn|lawn]] of Holland House making [[Hay|hay]], or engaged in some
 other ostensible employment. Before the year was over Lady Sarah
 appeared as one of the queen's bridesmaids, and she was herself married
 to Sir Charles Bunbury in 1762.
@@ -551,13 +551,13 @@ secure of his favour, and who voted one way or the other according to
 his wishes. Under these circumstances no ministry could possibly be
 stable; and yet every ministry was strong enough to impose some
 conditions on the king. Lord Bute, the king's first choice, resigned
-from a sense of his own incompetency in 1763. George Grenville was in
+from a sense of his own incompetency in 1763. George [[Grenville]] was in
 office till 1765; the marquis of Rockingham till 1766; Pitt, becoming
-earl of Chatham, till illness compelled him to retire from the conduct
-of affairs in 1767, when he was succeeded by the duke of Grafton. But a
+earl of [[Chatham]], till illness compelled him to retire from the conduct
+of affairs in 1767, when he was succeeded by the duke of [[Grafton]]. But a
 struggle of interests could gain no real strength for any government,
 and the only chance the king had of effecting a permanent change in the
-balance of power lay in the possibility of his associating himself with
+[[Balance Of Power|balance of power]] lay in the possibility of his associating himself with
 some phase of strong national feeling, as Pitt had associated himself
 with the war feeling caused by the dissatisfaction spread by the
 weakness and ineptitude of his predecessors.
@@ -576,9 +576,9 @@ become a superstition. Parliaments were held to be properly vested with
 authority, not because they adequately represented the national will,
 but simply because they were parliaments. There were thousands of people
 in England to whom it never occurred that there was any good reason why
-a British parliament should be allowed to levy a duty on tea in the
-London docks and should not be allowed to levy a duty on tea at the
-wharves of Boston. Undoubtedly George III. derived great strength from
+a British parliament should be allowed to [[Levy|levy]] a duty on tea in the
+London [[Dock|docks]] and should not be allowed to levy a duty on tea at the
+wharves of [[Boston]]. Undoubtedly George III. derived great strength from
 his honest participation in this mistake. Contending under parliamentary
 forms, he did not wound the susceptibilities of members of parliament,
 and when at last in 1770 he appointed Lord North--a minister of his own
@@ -588,7 +588,7 @@ with the servile band of the king's friends.
 
 As long as the struggle with America was carried on with any hope of
 success they gained that kind of support which is always forthcoming to
-a government which shares in the errors and prejudices of its subjects.
+a government which shares in the [[Error|errors]] and prejudices of its subjects.
 The expulsion of Wilkes from the House of Commons in 1769, and the
 refusal of the House to accept him as a member after his re-election,
 raised a grave constitutional question in which the king was wholly in
@@ -624,7 +624,7 @@ George III. was still able to control the disposition of office. He
 could not control the course of events. His very ministers gave up the
 struggle as hopeless long before he would acknowledge the true state of
 the case. Before the end of 1779, two of the leading members of the
-cabinet, Lords Gower and Weymouth, resigned rather than bear the
+cabinet, Lords [[Gower]] and Weymouth, resigned rather than bear the
 responsibility of so ruinous an enterprise as the attempt to overpower
 America and France together. Lord North retained office, but he
 acknowledged to the king that his own opinion was precisely the same as
@@ -638,7 +638,7 @@ constitution. Since the presentation of the Kentish petition in the
 reign of William III. there had been from time to time upheavings of
 popular feeling against the doings of the legislature, which kept up the
 tradition that parliament existed in order to represent the nation. But
-these upheavings had all been so associated with ignorance and violence
+these upheavings had all been so associated with [[Ignorance|ignorance]] and violence
 as to make it very difficult for men of sense to look with displeasure
 upon the existing emancipation of the House of Commons from popular
 control. The Sacheverell riots, the violent attacks upon the Excise
@@ -654,16 +654,16 @@ unnecessary offices in the household, the only use of which was to
 spread abroad corruption amongst the upper classes. George III. could
 not bear to be interfered with at all, or to surrender any element of
 power which had served him in his long struggle with the Whigs. He held
-out for more than another year. The news of the capitulation of Yorktown
+out for more than another year. The news of the [[Capitulation|capitulation]] of Yorktown
 reached London on the 25th of November 1781. On the 20th of March 1782
 Lord North resigned.
 
 George III. accepted the consequences of defeat. He called the marquis
 of Rockingham to office at the head of a ministry composed of pure Whigs
-and of the disciples of the late earl of Chatham, and he authorized the
+and of the [[Disciple|disciples]] of the late earl of Chatham, and he authorized the
 new ministry to open negotiations for peace. Their hands were greatly
 strengthened by Rodney's victory over the French fleet, and the failure
-of the combined French and Spanish attack upon Gibraltar; and before the
+of the combined French and Spanish attack upon [[Gibraltar]]; and before the
 end of 1782 a provisional treaty was signed with America, preliminaries
 of peace with France and Spain being signed early in the following year.
 On the 3rd of September 1783 the definitive treaties with the three
@@ -672,14 +672,14 @@ Adams, the first minister of the United States of America accredited to
 him, "I wish you to believe, and that it may be understood in America,
 that I have done nothing in the late contest but what I thought myself
 indispensably bound to do by the duty which I owed to my people. I will
-be very frank with you. I was the last to consent to the separation: but
+be very [[Frank|frank]] with you. I was the last to consent to the separation: but
 the separation having been made and having become inevitable, I have
 always said, as I say now, that I would be the first to meet the
 friendship of the United States as an independent power."
 
 Long before the signature of the treaties Rockingham died (July 1,
 1782). The king chose Lord Shelburne, the head of the Chatham section of
-the government, to be prime minister. Fox and the followers of
+the government, to be prime minister. [[Fox]] and the followers of
 Rockingham refused to serve except under the duke of Portland, a
 minister of their own selection, and resigned office. The old
 constitutional struggle of the reign was now to be fought out once more.
@@ -730,7 +730,7 @@ of the whole political situation was that George III. had gone a long
 way towards disentangling the reality of parliamentary government from
 its accidents. His ministry finally stood because it had appealed to the
 constituencies against their representatives. Since then it has properly
-become a constitutional axiom that no such appeal should be made by the
+become a constitutional [[Axiom|axiom]] that no such appeal should be made by the
 crown itself. But it may reasonably be doubted whether any one but the
 king was at that time capable of making the appeal. Lord Shelburne, the
 leader of the ministry expelled by the coalition, was unpopular in the
@@ -742,10 +742,10 @@ well as nominally at the head of the government; but whether under the
 special circumstances which existed in 1783 it was not better that the
 king should call upon the people to support him, than that government
 should be left in the hands of men who rested their power on close
-boroughs and the dispensation of patronage, without looking beyond the
+boroughs and the [[Dispensation|dispensation]] of patronage, without looking beyond the
 walls of the House of Commons for support.
 
-That the king gained credit far beyond his own deserts by the glories of
+That the king gained credit far beyond his own [[Desert|deserts]] by the glories of
 Pitt's ministry is beyond a doubt. Nor can there be any reasonable doubt
 that his own example of domestic propriety did much to strengthen the
 position of his minister. It is true that that life was insufferably
@@ -766,7 +766,7 @@ discovery which made known so large a part of the islands and coasts of
 the Pacific Ocean received from him a warm support. In the early days of
 the Royal Academy, its finances were strengthened by liberal grants from
 the privy purse. His favourite pursuit, however, was farming. When
-Arthur Young was issuing his _Annals of Agriculture_, he was supplied
+Arthur Young was issuing his _[[Annals]] of Agriculture_, he was supplied
 with information by the king, under the assumed name of Mr Ralph
 Robinson, relating to a farm at Petersham.
 
@@ -774,7 +774,7 @@ The life of the king was suddenly clouded over. Early in his reign, in
 1765, he had been out of health, and--though the fact was studiously
 concealed at the time--symptoms of mental aberration were even then to
 be perceived. In October 1788 he was again out of health, and in the
-beginning of the following month his insanity was beyond a doubt. Whilst
+beginning of the following month his [[Insanity|insanity]] was beyond a doubt. Whilst
 Pitt and Fox were contending in the House of Commons over the terms on
 which the regency should be committed to the prince of Wales, the king
 was a helpless victim to the ignorance of physicians and the brutalities
@@ -786,17 +786,17 @@ thanking him for his warm support of his interests during his illness.
 On the 23rd of April he went in person to St Paul's to return thanks for
 his recovery.
 
-The popular enthusiasm which burst forth around St Paul's was but a
-foretaste of a popularity far more universal. The French Revolution
+The popular [[Enthusiasm|enthusiasm]] which burst forth around St Paul's was but a
+foretaste of a popularity far more universal. The [[French Revolution]]
 frightened the great Whig landowners till they made their peace with the
 king. Those who thought that the true basis of government was
 aristocratical were now of one mind with those who thought that the true
 basis of government was monarchical; and these two classes were joined
 by a far larger multitude which had no political ideas whatever, but
-which had a moral horror of the guillotine. As Elizabeth had once been
+which had a moral horror of the [[Guillotine|guillotine]]. As Elizabeth had once been
 the symbol of resistance to Spain, George was now the symbol of
 resistance to France. He was not, however, more than the symbol. He
-allowed Pitt to levy taxes and incur debt, to launch armies to defeat,
+allowed Pitt to levy taxes and incur [[Debt|debt]], to launch armies to defeat,
 and to prosecute the English imitators of French revolutionary courses.
 At last, however, after the Union with Ireland was accomplished, he
 learned that Pitt was planning a scheme to relieve the Catholics from
@@ -806,7 +806,7 @@ politician who had served all parties in turn, and who sought to forward
 his own interests by falling in with the king's prejudices. George III.
 at once took up the position from which he never swerved. He declared
 that to grant concessions to the Catholics involved a breach of his
-coronation oath. No one has ever doubted that the king was absolutely
+[[Coronation|coronation]] oath. No one has ever doubted that the king was absolutely
 convinced of the serious nature of the objection. Nor can there be any
 doubt that he had the English people behind him. Both in his peace
 ministry and in his war ministry Pitt had taken his stand on royal
@@ -845,17 +845,17 @@ government.
 For the moment this difficulty was not felt. On the 1st of October 1801,
 preliminaries of peace were signed between England and France, to be
 converted into the definitive peace of Amiens on the 27th of March 1802.
-The ruler of France was now Napoleon Bonaparte, and few persons in
+The ruler of France was now Napoleon [[Bonaparte]], and few persons in
 England believed that he had any real purpose of bringing his aggressive
 violence to an end. "Do you know what I call this peace?" said the king;
 "an experimental peace, for it is nothing else. But it was unavoidable."
 
-The king was right. On the 18th of May 1803 the declaration of war was
+The king was right. On the 18th of May 1803 the [[Declaration|declaration]] of war was
 laid before parliament. The war was accepted by all classes as
 inevitable, and the French preparations for an invasion of England
 roused the whole nation to a glow of enthusiasm only equalled by that
 felt when the Armada threatened its shores. On the 26th of October the
-king reviewed the London volunteers in Hyde Park. He found himself the
+king reviewed the London volunteers in [[Hyde Park]]. He found himself the
 centre of a great national movement with which he heartily sympathized,
 and which heartily sympathized with him.
 
@@ -877,7 +877,7 @@ The whole question was reopened on Pitt's death on the 23rd of January
 1806. This time the king gave way. The ministry of All the Talents, as
 it was called, included Fox amongst its members. At first the king was
 observed to appear depressed at the necessity of surrender. But Fox's
-charm of manner soon gained upon him. "Mr Fox," said the king, "I
+[[Charm|charm]] of manner soon gained upon him. "Mr Fox," said the king, "I
 little thought that you and I should ever meet again in this place; but
 I have no desire to look back upon old grievances, and you may rest
 assured I never shall remind you of them." On the 13th of September Fox
@@ -924,7 +924,7 @@ ministry in 1809 was not an event of any real significance, and in 1811
 the reign practically came to an end. The king's reason finally broke
 down after the death of the princess Amelia, his favourite child; and
 the prince of Wales (see GEORGE IV.) became prince regent. The remaining
-nine years of George III.'s life were passed in insanity and blindness,
+nine years of George III.'s life were passed in insanity and [[Blindness|blindness]],
 and he died on the 29th of January 1820.
 
 His wife, Charlotte Sophia (1744-1818), was a daughter of Charles Louis
@@ -933,7 +933,7 @@ on the 8th of September 1761. After a peaceful and happy married life
 the queen died at Kew on the 17th of November 1818.
 
 George III. had nine sons. After his successor came Frederick, duke of
-York and Albany (1763-1827); William Henry, duke of Clarence, afterwards
+York and Albany (1763-1827); William Henry, duke of [[Clarence]], afterwards
 King William IV. (1765-1837); Edward Augustus, duke of Kent (1767-1825),
 father of Queen Victoria; Ernest Augustus, duke of Cumberland,
 afterwards king of Hanover (1771-1851); Augustus Frederick, duke of
@@ -941,7 +941,7 @@ Sussex (1773-1843); Adolphus Frederick, duke of Cambridge (1774-1850);
 Octavius (1779-1783); Alfred (1780-1782). He had also six
 daughters--Charlotte Augusta (1766-1828), married in 1797 to Frederick,
 afterwards king of Wurttemberg; Augusta Sophia (1768-1840); Elizabeth
-(1770-1840), married Frederick, landgrave of Hesse-Homburg, 1818; Mary
+(1770-1840), married Frederick, landgrave of [[Hesse-Homburg]], 1818; Mary
 (1776-1857), married to William Frederick, duke of Gloucester, 1816;
 Sophia (1777-1848); Amelia (1783-1810).     (S. R. G.)
 
@@ -968,7 +968,7 @@ well taught in the classics, learnt to speak French, Italian and German
 fluently, and had considerable taste for music and the arts; and in
 person he was remarkably handsome. His tutor, Bishop Richard Hurd, said
 of him when fifteen years old that he would be "either the most polished
-gentleman or the most accomplished blackguard in Europe--possibly both";
+[[Gentleman|gentleman]] or the most accomplished blackguard in Europe--possibly both";
 and the latter prediction was only too fully justified. Reaction from
 the strict and parsimonious style of his parents' domestic life, which
 was quite out of touch with the gaiety and extravagance of London
@@ -981,7 +981,7 @@ had an early amour with the actress Mary ("Perdita") Robinson, and in
 the choice of his friends he opposed and annoyed the king, with whom he
 soon became (and always remained) on the worst of terms, by associating
 himself with Fox and Sheridan and the Whig party. When in 1783 he came
-of age, a compromise between the coalition ministry and the king secured
+of age, a [[Compromise|compromise]] between the coalition ministry and the king secured
 him an income of L50,000 from the Civil List, and L60,000 was voted by
 parliament to pay his debts and start his separate establishment at
 Carlton House. There, under the auspices of C.J. Fox and Georgiana,
@@ -997,7 +997,7 @@ factor in his life, though her devotion and self-sacrificing conduct
 were in marked contrast with his unscrupulousness and selfishness. Mary
 Anne (or as she always called herself, Maria) Fitzherbert (1756-1837)
 was the daughter of Walter Smythe, the second son of Sir John Smythe,
-Bart., of Acton Burnell Park, Shropshire, and came of an old Roman
+Bart., of Acton [[Burnell]] Park, Shropshire, and came of an old Roman
 Catholic family. Educated at a French convent, she married first in 1775
 Edward Weld, who died within the year, and secondly in 1778 Thomas
 Fitzherbert, who died in 1781, leaving his widow with a comfortable
@@ -1007,7 +1007,7 @@ who wooed her with all the ardour of a violent passion. She herself was
 distracted between her desire to return his love, her refusal to
 contemplate becoming his mistress, and her knowledge that state reasons
 made a regular marriage impossible. The Act of Settlement (1689)
-entailed his forfeiture of the succession if he married a Roman
+entailed his [[Forfeiture|forfeiture]] of the succession if he married a Roman
 Catholic, apart from the fact that the Royal Marriage Act of 1772 made
 any marriage illegal without the king's consent, which was out of the
 question. But after trying for a while to escape his attentions, her
@@ -1043,13 +1043,13 @@ king adding L10,000 to his income; and Mrs Fitzherbert, who at first
 thought of severing her connexion with the prince, forgave him. Their
 union--there was no child of the marriage--was brutally broken off in
 June 1794 by the prince, when further pressure of debts (and the
-influence of a new Egeria in Lady Jersey) made him contemplate his
+influence of a new Egeria in Lady [[Jersey]]) made him contemplate his
 official marriage with princess Caroline; in 1800, however, it was
 renewed, after urgent pleading on the prince's part, and after Mrs
 Fitzherbert had obtained a formal decision from the pope pronouncing her
 to be his wife, and sanctioning her taking him back; her influence over
 him continued till shortly before the prince became regent, when his
-relations with Lady Hertford brought about a final separation. For the
+relations with Lady [[Hertford]] brought about a final separation. For the
 best years of his life he had at least had in Mrs Fitzherbert the
 nearest approach to a real wife, and this was fully recognized by the
 royal family.[2] But his dissolute nature was entirely selfish, and his
@@ -1081,7 +1081,7 @@ to form a ministry. There soon arose differences of opinion between them
 on the answer to be returned to the address of the Houses, and the
 prince regent then informed the prime minister, Mr Perceval, that he
 should continue the existing ministry in office. The ground alleged by
-him for this desertion of his friends was the fear lest his father's
+him for this [[Desertion|desertion]] of his friends was the fear lest his father's
 recovery might be rendered impossible if he should come to hear of the
 advent of the opposition to power. Lord Wellesley's resignation in
 February 1812 made the reconstruction of the ministry inevitable. As
@@ -1094,7 +1094,7 @@ important to be shelved, and that their difference of opinion with Mr
 Perceval was too glaring to be ignored. The prince regent was
 excessively angry, and continued Perceval in office till that minister's
 assassination on the 11th of May, when he was succeeded by Lord
-Liverpool, after a negotiation in which the proposition of entering the
+[[Liverpool]], after a negotiation in which the proposition of entering the
 cabinet was again made to the Whigs and rejected by them. In the
 military glories of the following years the prince regent had no share.
 When the allied sovereigns visited England in 1814, he played the part
@@ -1207,7 +1207,7 @@ the merit of acquiescing in the change nor the courage to resist it.
 
 George IV. died on the 26th of June 1830, and was succeeded by his
 brother, the duke of Clarence, as William IV. His only child by Queen
-Caroline, the princess Charlotte Augusta, was married in 1816 to Leopold
+Caroline, the princess Charlotte Augusta, was married in 1816 to [[Leopold]]
 of Saxe-Coburg, afterwards king of the Belgians, and died in childbirth
 on the 6th of November 1817.
 
@@ -1222,7 +1222,7 @@ on the 6th of November 1817.
   of the picture of the period handed down in the memoirs and diaries of
   the time, such as Greville's, Croker's, Creevey's, Lord Holland's,
   Lord Malmesbury's, &c. Among later works see _The First Gentleman of
-  Europe_, by Lewis Melville (1906), a book for the general reader.
+  Europe_, by [[Lewis]] Melville (1906), a book for the general reader.
        (S. R. G.; H. Ch.)
 
 
@@ -1240,11 +1240,11 @@ FOOTNOTES:
     years of their union; and there she died, seven years after the death
     of George IV., in 1837. William IV. on his accession offered to
     create her a duchess, but she declined; she accepted, however, his
-    permission to put her servants in royal livery. William IV. in fact
+    permission to put her servants in royal [[Livery|livery]]. William IV. in fact
     did all he could, short of a public acknowledgment (which the duke of
     Wellington opposed on state grounds), to recognize her position as
     his brother's widow. Charles Greville, writing of her after her
-    death, says in his _Diary_, "She was not a clever woman, but of a
+    death, says in his _Diary_, "She was not a [[Clever|clever]] woman, but of a
     very noble spirit, disinterested, generous, honest and affectionate."
     The actual existence of a marriage tie and the documentary evidence
     of her rights were not definitely established for many years; but in
@@ -1254,12 +1254,12 @@ FOOTNOTES:
     Wilkins's _Mrs Fitzherbert and George IV_. In 1796 the prince had
     made a remarkable will in Mrs Fitzherbert's favour, which he gave her
     in 1799, and it is included among these documents (now in the private
-    archives at Windsor). In this he speaks of her emphatically
+    [[Archive|archives]] at Windsor). In this he speaks of her emphatically
     throughout as "my wife." It also contained directions that at his
     death a locket with her miniature, which he always wore, should be
     interred with him; and Mrs Fitzherbert was privately assured, on the
     duke of Wellington's authority, that when the king was buried at
-    Windsor the miniature was on his breast.
+    Windsor the miniature was on his [[Breast|breast]].
 
 
 
@@ -1269,40 +1269,40 @@ Ireland and of the British Dominions beyond the Seas, emperor of India
 (1865- ), second son of King Edward VII., was born at Marlborough House,
 London, on the 3rd of June 1865. When four years old, he and his elder
 brother, Prince Albert Victor, two years his senior, were placed under
-the tutorship of John Neale Dalton, then curate of Sandringham. In 1877
-the two princes became naval cadets on the "Britannia" at Spithead,
+the tutorship of John Neale [[Dalton]], then [[Curate|curate]] of Sandringham. In 1877
+the two princes became naval [[Cadet|cadets]] on the "Britannia" at Spithead,
 where they passed through the ordinary curriculum, and in 1879 they
 joined H.M.S. "Bacchante" under the command of Captain Lord Charles
 Scott, making a voyage to the West Indies, in the course of which they
 were rated midshipmen. After a month at home in 1880 they returned to
 the ship to make another prolonged cruise in H.M.S. "Bacchante," in the
-course of which they visited South America, South Africa, Australia, the
-Fiji Islands, Japan, Ceylon, Egypt, Palestine and Greece. A narrative of
+course of which they visited South America, South Africa, [[Australia]], the
+[[Fiji]] Islands, [[Japan]], Ceylon, Egypt, Palestine and Greece. A narrative of
 this voyage, _The Cruise of H.M.S. "Bacchante_," compiled from the
 letters, diaries and notebooks of the princes, was published in 1886. At
 the close of this tour in 1882 the brothers separated. Prince George,
 who remained in the naval service, was appointed to H.M.S. "Canada,"
 commanded by Captain Durrant, on the North American and West Indian
 station, and was promoted sub-lieutenant. On his return home he passed
-through the Royal Naval College at Greenwich and the gunnery and torpedo
+through the Royal Naval College at [[Greenwich]] and the gunnery and torpedo
 schools, being promoted lieutenant in 1885. A year later he was
 appointed to H.M.S. "Thunderer" of the Mediterranean squadron, and was
 subsequently transferred to H.M.S. "Dreadnaught" and H.M.S. "Alexandra."
 In 1889 he joined the flagship of the Channel squadron, H.M.S.
 "Northumberland," and in that year was in command of torpedo boat No. 79
-for the naval manoeuvres. In 1890 he was put in command of the gunboat
+for the naval [[Manoeuvres|manoeuvres]]. In 1890 he was put in command of the gunboat
 H.M.S. "Thrush" for service on the North American and West Indian
-station. After his promotion as commander in 1891 he commissioned H.M.S.
+station. After his promotion as [[Commander|commander]] in 1891 he commissioned H.M.S.
 "Melampus," the command of which he relinquished on the death of his
 brother, Albert Victor, the duke of Clarence, in January 1892, since his
 duties as eventual heir to the crown precluded him from devoting himself
 exclusively to the navy. He was promoted captain in 1893, rear-admiral
 in 1901, and vice-admiral in 1903. He was created duke of York, earl of
-Inverness, and Baron Killarney in 1892, and on the 6th of July 1893 he
+[[Inverness]], and Baron [[Killarney]] in 1892, and on the 6th of July 1893 he
 married Princess Victoria Mary (b. 26th May 1867), daughter of Francis,
 duke of Teck, and Princess Mary Adelaide, duchess of Teck, daughter of
 Adolphus Frederick, duke of Cambridge. Their eldest son, Prince Edward
-Albert, was born at White Lodge, Richmond, on the 23rd of June 1894;
+Albert, was born at White [[Lodge]], Richmond, on the 23rd of June 1894;
 Prince Albert Frederick George was born at Sandringham on the 14th of
 December 1895; Princess Victoria Alexandra on the 25th of April 1897;
 Prince Henry William Frederick Albert on the 31st of March 1900; Prince
@@ -1313,9 +1313,9 @@ of Queen Victoria that they should make a tour in the colonies. On the
 accession of King Edward VII. (1901) this plan was confirmed. They
 sailed in the "Ophir" on the 16th of March 1901, travelling by the
 ordinary route, and landed at Melbourne in May, when they opened the
-first parliament of the Commonwealth. They then proceeded to New
+first parliament of the [[Commonwealth]]. They then proceeded to New
 Zealand, returning by way of South Africa and Canada. An official
-account of the tour was published by Sir Donald Mackenzie Wallace as
+account of the tour was published by Sir Donald [[Mackenzie]] Wallace as
 _The Web of Empire_ (1902). In November 1901 the duke was created prince
 of Wales. On the death of Edward VII. (May 6, 1910) he succeeded to the
 Crown as George V., his consort taking the style of Queen Mary.

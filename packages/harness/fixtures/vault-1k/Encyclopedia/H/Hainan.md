@@ -23,7 +23,7 @@ bears the name of Li-mou shan or Wu-tchi shan (the Five-Finger
 Mountain), and attains a height of 6000 or 7000 ft. Its praises are
 celebrated in a glowing ode by Ch'iu, a native poet. The island appears
 to be well watered, and some of its rivers are not without importance as
-possible highways of commerce; but the details of its hydrography are
+possible highways of commerce; but the details of its [[Hydrography|hydrography]] are
 very partially ascertained. A navigable channel extends in an irregular
 curve from the bay of Hoi-how (Hai-K'ow) in the north to Tan-chow on the
 west coast. Being exposed to the winter monsoon, the northern parts of
@@ -129,7 +129,7 @@ the Chinese supremacy was weakened, but in A.D. 43 the natives were led
 by the success of Ma-yuan in Tong-king to make a new tender of their
 allegiance. About this time the whole island took the name of Chu-yai.
 In A.D. 627 the name of K'iung-chow came into use. On its conquest by
-the generals of Kublai Khan in 1278 the island was incorporated with the
+the generals of Kublai [[Khan]] in 1278 the island was incorporated with the
 western part of the province of Kwang-tung in a new satrapy, Hai-peh
 Hai-nan Tao, i.e. the circuit north of the sea and south of the sea. It
 was thus that Hai-nan-Tao, or district south of the sea or strait, came

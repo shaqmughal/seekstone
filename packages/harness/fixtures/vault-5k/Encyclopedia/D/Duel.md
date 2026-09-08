@@ -26,13 +26,13 @@ noteworthy that in Tacitus (_Germania_, cap. x.) we find the rudiments
 of the judicial duel (see WAGER, for the wager of battle). Domestic
 differences, he tells us, were settled by a legalized form of combat
 between the disputants, and when a war was impending a captive from the
-hostile tribe was armed and pitted against a national champion, and the
+hostile tribe was armed and pitted against a national [[Champion|champion]], and the
 issue of the duel was accepted as an omen. The judicial combat was a
 Teutonic institution, and it was in fact an appeal from human justice to
 the God of battles, partly a sanction of the current creed that might is
 right, that the brave not only will win but deserve to win. It was on
 these grounds that Gundobald justified, against the complaints of a
-bishop, the famous edict passed at Lyons (A.D. 501) which established
+bishop, the famous edict passed at [[Lyons]] (A.D. 501) which established
 the wager of battle as a recognized form of trial. It is God, he argued,
 who directs the issue of national wars, and in private quarrels we may
 trust His providence to favour the juster cause. Thus, as Gibbon
@@ -59,7 +59,7 @@ man shall say to another, "You are not a man equal to other men," or
 "You have not the heart of a man," and the other shall reply, "I am a
 man as good as you," they shall meet on the highway, and then follow the
 regulations for the combat. What is this but the modern challenge? By
-the law of the Lombards if one man call another arga, the insulted party
+the law of the [[Lombards]] if one man call another arga, the insulted party
 might defy the other to mortal combat. What is _arga_ but the _dummer
 Junger_ of the German student? Beaumanoir thus describes a legal process
 under Louis le Débonnaire:--The appellant begins by a declaration before
@@ -85,7 +85,7 @@ fought, the result of which was so preposterous that even the most
 superstitious began to lose faith in the efficacy of such a judgment of
 God. A certain Jacques Legris was accused by the wife of Jean Carrouge
 of having introduced himself by night in the guise of her husband whom
-she was expecting on his return from the Crusades. A duel was ordained
+she was expecting on his return from the [[Crusades]]. A duel was ordained
 by the parlement of Paris, which was fought in the presence of Charles
 VI. Legris was defeated and hanged on the spot. Not long after, a
 criminal arrested for some other offence confessed himself to be the
@@ -94,9 +94,9 @@ confutation, and it was annulled by the parlement. Henceforward the duel
 in France ceases to be an appeal to Heaven, and becomes merely a
 satisfaction of wounded honour. Under Louis XII. and Francis I. we find
 the first vestiges of tribunals of honour. The last instance of a duel
-authorized by the magistrates, and conducted according to the forms of
+authorized by the [[Magistrate|magistrates]], and conducted according to the forms of
 law, was the famous one between François de Vivonne de la Châtaignerie
-and Guy Chabot de Jarnac. The duel was fought on the 10th of July 1547
+and Guy Chabot de [[Jarnac]]. The duel was fought on the 10th of July 1547
 in the courtyard of the château of St Germain-en-Laye, in the presence
 of the king and a large assembly of courtiers. It was memorable in two
 ways. It enriched the French language with a new phrase; a sly and
@@ -105,7 +105,7 @@ Châtaignerie, has since been called a _coup de Jarnac_. And Henry,
 grieved at the death of his favourite, swore a solemn oath that he would
 never again permit a duel to be fought. This led to the first of the
 many royal edicts against duelling. By a decree of the council of Trent
-(cap. xix.) a ban was laid on "the detestable use of duels, an invention
+(cap. xix.) a [[Ban|ban]] was laid on "the detestable use of duels, an invention
 of the devil to compass the destruction of souls together with a bloody
 death of the body."
 
@@ -133,14 +133,14 @@ the mock-heroic battle between Horner the Armourer and his man Peter in
 _Henry VI._; and by Sir W. Scott in the _Fair Maid of Perth_, where
 Henry Gow appears before the king as the champion of Magdalen Proudfute.
 The judicial duel never took root in England as it did in France. In
-civil suits it was superseded by the grand assize of Henry II., and in
+civil suits it was superseded by the grand [[Assize|assize]] of Henry II., and in
 cases of felony by indictment at the prosecution of the crown. One of
 the latest instances occurred in the reign of Elizabeth, 1571, when the
 lists were actually prepared and the justices of the common pleas
 appeared at Tothill Fields as umpires of the combat. Fortunately the
 petitioner failed to put in an appearance, and was consequently
 nonsuited (see Spelman, _Glossary_, s.v. "Campus"). As late as 1817 Lord
-Ellenborough, in the case of _Thornton_ v. _Ashford_, pronounced that
+Ellenborough, in the case of _Thornton_ v. _[[Ashford]]_, pronounced that
 "the general law of the land is that there shall be a trial by battle in
 cases of appeal unless the party brings himself within some of the
 exceptions." Thornton was accused of murdering Mary Ashford, and claimed
@@ -162,23 +162,23 @@ abolition of the wager of battle. To pursue its history we must return
 to France, the country where it first arose, and the soil on which it
 has most flourished. The causes which made it indigenous to France are
 sufficiently explained by the condition of society and the national
-character. As Buckle has pointed out, duelling is a special development
-of chivalry, and chivalry is one of the phases of the protective spirit
+character. As [[Buckle]] has pointed out, duelling is a special development
+of [[Chivalry|chivalry]], and chivalry is one of the phases of the protective spirit
 which was predominant in France up to the time of the Revolution. Add to
 this the keen sense of personal honour, the susceptibility and the
 pugnacity which distinguish the French race. Montaigne, when touching on
 this subject in his essays, says, "Put three Frenchmen together on the
-plains of Libya, and they will not be a month in company without
+plains of [[Libya]], and they will not be a month in company without
 scratching one another's eyes out." The third chapter of d'Audiguier's
 _Ancien usage des duels_ is headed, "Pourquoi les seuls Français se
 battent en duel." English literature abounds with allusions to this
 characteristic of the French nation. Lord Herbert of Cherbury, who was
 ambassador at the court of Louis XIII., says, "There is scarce a
 Frenchman worth looking on who has not killed his man in a duel." Ben
-Jonson, in his _Magnetic Lady_, makes Compass, the scholar and soldier,
+[[Jonson]], in his _Magnetic Lady_, makes Compass, the scholar and soldier,
 thus describe France, "that garden of humanity":--
 
-  "There every gentleman professing arms
+  "There every [[Gentleman|gentleman]] professing arms
    Thinks he is bound in honour to embrace
    The bearing of a challenge for another,
    Without or questioning the cause or asking
@@ -186,7 +186,7 @@ thus describe France, "that garden of humanity":--
 
 Duels were not common before the 16th century. Hallam attributes their
 prevalence to the barbarous custom of wearing swords as a part of
-domestic dress, a fashion which was not introduced till the later part
+domestic [[Dress|dress]], a fashion which was not introduced till the later part
 of the 15th century. In 1560 the states-general at Orleans supplicated
 Charles IX. to put a stop to duelling. Hence the famous ordinance of
 1566, drawn up by the chancellor de l'Hôpital, which served as the basis
@@ -279,8 +279,8 @@ river he should on no account be pulled out.
 
 Under the long reign of Louis XIV. many celebrated duels took place, of
 which the most remarkable were that between the duke of Guise and Count
-Coligny, the last fought on the Place Royale, and that between the dukes
-of Beaufort and Nemours, each attended by four friends. Of the ten
+Coligny, the last fought on the Place Royale, and that between the [[Dukes|dukes]]
+of [[Beaufort]] and Nemours, each attended by four friends. Of the ten
 combatants, Nemours and two others were killed on the spot, and none
 escaped without some wound. No less than eleven edicts against duelling
 were issued under le Grand Monarque. That of 1643 established a supreme
@@ -298,7 +298,7 @@ treated. In the preamble to the edict of 1704 Louis XIV. records his
 satisfaction at seeing under his reign an almost entire cessation of
 those fatal combats which by the inveterate force of custom had so long
 prevailed. Addison (_Spectator_, 99) notes it as one of the most
-glorious exploits of his reign to have banished the false point of
+glorious exploits of his reign to have banished the [[False Point|false point]] of
 honour. Under the regency of Louis XV. there was a brief revival. The
 last legislative act for the suppression of duels was passed on the 12th
 of April 1723. Then came the Revolution, which in abolishing the _ancien
@@ -310,7 +310,7 @@ why in the legislation of the National Assembly there is no mention of
 duels. Camille Desmoulins when challenged shrugged his shoulders and
 replied to the charge of cowardice that he would prove his courage on
 other fields than the Bois de Boulogne. The two great Frenchmen whose
-writings preluded the French Revolution both set their faces against it.
+writings preluded the [[French Revolution]] both set their faces against it.
 Voltaire had indeed, as a young man, in obedience to the dictates of
 society, once sought satisfaction from a nobleman for a brutal insult,
 and had reflected on his temerity in the solitude of the Bastille.[1]
@@ -331,10 +331,10 @@ exceptions bloodless affairs. If fought with pistols, the distance and
 the weapons chosen render a hit improbable; and, if fought with rapiers,
 honour is generally satisfied with the first blood drawn. Among
 Frenchmen famous in politics or letters who have "gone out" may be
-mentioned Armand Carrel, who fell in an encounter with Émile Girardin;
+mentioned Armand [[Carrel]], who fell in an encounter with Émile Girardin;
 Thiers, who thus atoned for a youthful indiscretion; the elder Dumas;
 Lamartine; Ste Beuve, who to show at once his sangfroid and his sense of
-humour, fought under an umbrella; Ledru Rollin; Edmond About; Clément
+[[Humour|humour]], fought under an umbrella; Ledru Rollin; Edmond About; Clément
 Thomas; Veuillot, the representative of the church militant; Rochefort;
 and Boulanger, the Bonapartist _fanfaron_, whose discomfiture in a duel
 with Floquet resulted in a notable loss of popular respect.
@@ -354,11 +354,11 @@ Glendinning, and that in _Kenilworth_ between Tressilian and Varney.
 (That in _Anne of Geierstein_ either is an anachronism or must reckon as
 a wager by battle.) Under James I. we have the encounter between Nigel
 and Lord Dalgarno. The greater evil of war, as we observed in French
-history, expels the lesser, and the literature of the Commonwealth is in
-this respect a blank. With the Restoration there came a reaction against
+history, expels the lesser, and the literature of the [[Commonwealth]] is in
+this respect a [[Blank|blank]]. With the Restoration there came a reaction against
 Puritan morality, and a return to the gallantry and loose manners of
 French society, which is best represented by the theatre of the day. The
-drama of the Restoration abounds in duels. Passing on to the reign of
+[[Drama|drama]] of the Restoration abounds in duels. Passing on to the reign of
 Queen Anne, we find the subject frequently discussed in the _Tatler_ and
 the _Spectator_, and Addison points in his happiest way the moral to a
 contemporary duel between Mr Thornhill and Sir Cholmeley Dering. "I come
@@ -374,27 +374,27 @@ the best conceived in fiction. Throughout the reigns of the Georges they
 are frequent. Richardson expresses his opinion on the subject in six
 voluminous letters to the _Literary Repositor_. Sheridan, like Farquhar
 in a previous generation, not only dramatized a duel, but fought two
-himself. Byron thus commemorates the bloodless duel between Tom Moore
+himself. [[Byron]] thus commemorates the bloodless duel between Tom Moore
 and Lord Jeffrey:--
 
   "Can none remember that eventful day,
    That ever glorious almost fatal fray,
    When Little's leadless pistols met the eye,
-   And Bow Street myrmidons stood laughing by?"
+   And [[Bow]] Street myrmidons stood laughing by?"
 
 There are no duels in Miss Austen's novels, but in those of Miss
-Edgeworth, her contemporary, there are three or four. As we approach the
+[[Edgeworth]], her contemporary, there are three or four. As we approach the
 19th century they become rarer in fiction. Thackeray's novels, indeed,
 abound in duels. "His royal highness the late lamented commander-in-chief"
 had the greatest respect for Major Macmurdo, as a man who had conducted
 scores of affairs for his acquaintance with the greatest prudence and
 skill; and Rawdon Crawley's duelling pistols, "the same which I shot
-Captain Marker," have become a household word. Dickens, on the other hand,
+Captain Marker," have become a household word. [[Dickens]], on the other hand,
 who depicts contemporary English life, and mostly in the middle classes,
 in all his numerous works has only three; and George Eliot never once
 refers to a duel. Tennyson, using a poet's privilege, laid the scene of a
 duel in the year of the Crimean War, but he echoes the spirit of the times
-when he stigmatizes "the Christless code that must have life for a blow."
+when he stigmatizes "the Christless [[Code|code]] that must have life for a blow."
 Browning, who delights in cases of conscience, has given admirably the
 double moral aspect of the duel in his two lyrics entitled "Before" and
 "After."
@@ -402,15 +402,15 @@ double moral aspect of the duel in his two lyrics entitled "Before" and
 To pass from fiction to fact we will select the most memorable English
 duels of the last century and a half. Lord Byron killed Mr Chaworth in
 1765; Charles James Fox and Mr Adams fought in 1779; duke of York and
-Colonel Lennox, 1789; William Pitt and George Tierney, 1796; George
+Colonel [[Lennox]], 1789; William Pitt and George Tierney, 1796; George
 Canning and Lord Castlereagh, 1809; Mr Christie killed John Scott,
 editor of the _London Magazine_, 1821; duke of Wellington and earl of
 Winchelsea, 1829; Mr Roebuck and Mr Black, editor of _Morning
-Chronicle_, 1835; Lord Alvanley and a son of Daniel O'Connell in the
-same year; Earl Cardigan wounded Captain Tuckett, was tried by his
+Chronicle_, 1835; Lord Alvanley and a son of [[Daniel]] O'Connell in the
+same year; Earl [[Cardigan]] wounded Captain Tuckett, was tried by his
 peers, and acquitted on a legal quibble, 1840.
 
-The year 1808 is memorable in the annals of duelling in England. Major
+The year 1808 is memorable in the [[Annals|annals]] of duelling in England. Major
 Campbell was sentenced to death and executed for killing Captain Boyd in
 a duel. In this case it is true that there was a suspicion of foul play;
 but in the case of Lieutenant Blundell, who was killed in a duel in
@@ -434,7 +434,7 @@ there had been formed in London the association for the suppression of
 duelling. It included leading members of both houses of parliament and
 distinguished officers of both services. The first report, issued in
 1844, gives a memorial of the association presented to Queen Victoria
-through Sir James Graham, and in a debate in the House of Commons (15th
+through Sir James [[Graham]], and in a debate in the House of Commons (15th
 of March 1844) Sir H. Hardinge, the secretary of war, announced to the
 House that Her Majesty had expressed herself desirous of devising some
 expedient by which the barbarous practice of duelling should be as much
@@ -470,7 +470,7 @@ of the law. It is, notwithstanding, still the fact that a German officer
 who is not prepared to accept a challenge and fight, if the opinion of
 his regiment demands it, must leave the service. The German penal code
 (_Reichsstrafgesetzbuch_, pars. 101-110) only punishes a duel when it is
-fought with lethal weapons; and much controversy has raged round the
+fought with [[Lethal|lethal]] weapons; and much controversy has raged round the
 question of the _Mensuren_ or students' duels, which, as being conducted
 with sharpened rapiers, have, despite the precautions taken, in the way
 of bandaging the vital parts of the body which a cut would reach, to
@@ -481,7 +481,7 @@ to be punishable.
 The _Mensuren_ (German students' duels) above referred to are frequently
 misunderstood. They bear little resemblance, save in form, to the duel
 _à outrance_, and should rather be considered in the light of athletic
-games, in which the overflow of high animal spirits in young Germany
+[[Games|games]], in which the overflow of high animal spirits in young Germany
 finds its outlet. These combats are indulged in principally by picked
 representatives of the "corps" (recognized clubs), and according to the
 position and value of the _Schmisse_ (cuts which have landed) points are
@@ -509,7 +509,7 @@ semper et retinebitur." Some, however, of the problems, moral and
 social, which it suggests may be shortly noticed. That duelling
 flourished so long in England the law is, perhaps, as much to blame as
 society. It was doubtless from the fact that duels were at first a form
-of legal procedure that English law has refused to take cognizance of
+of legal procedure that [[English Law|English law]] has refused to take cognizance of
 private duels. A duel in the eye of the law differs nothing from an
 ordinary murder. The greatest English legal authorities, from the time
 of Elizabeth downwards, such as Coke, Bacon and Hale, have all
@@ -520,7 +520,7 @@ distinction between wilful murder and a deadly combat wherein each party
 consented to his own death or submitted to the risk of it. No jury could
 be found to convict when conviction involved in the same penalty a Fox
 or a Pitt and a Turpin or a Brownrigg. Such, however, was the
-conservatism of English publicists that Bentham was the first to point
+conservatism of English publicists that [[Bentham]] was the first to point
 out clearly this defect of the law, and propose a remedy. In his
 _Introduction to the Principles of Morals and Legislation_, published in
 1789, Bentham discusses the subject with his usual boldness and logical
@@ -535,7 +535,7 @@ Vulgar moralists, by condemning public opinion upon this point, only
 confirm the fact." He then points out the true remedy for the evil. It
 is to extend the same legal protection to offences against honour as to
 offences against the person. The legal satisfactions which he suggests
-are some of them extremely grotesque. Thus for an insult to a woman, the
+are some of them extremely [[Grotesque|grotesque]]. Thus for an insult to a woman, the
 man is to be dressed in a woman's clothes, and the retort to be
 inflicted by the hand of a woman. But the principle indicated is a sound
 one, that in offences against honour the punishment must be analogous to
@@ -545,10 +545,10 @@ passed away. That duels have since become extinct is no doubt
 principally owing to social changes, but it may be in part ascribed to
 improvements in legal remedies in the sense which Bentham indicated. A
 notable instance is Lord Campbell's Act of 1843, by which, in the case
-of a newspaper libel, a public apology coupled with a pecuniary payment
+of a newspaper libel, a public [[Apology|apology]] coupled with a pecuniary payment
 is allowed to bar a plea. In the Indian Code there are special
 enactments concerning duelling, which is punishable not as murder but as
-homicide.
+[[Homicide|homicide]].
 
 Suggestions have from time to time been made for the establishment of
 courts of honour, but the need of such tribunals is doubtful, while the
@@ -559,7 +559,7 @@ against reputation are sufficiently punished, and the rule of the
 lawyers, that mere scurrility or opprobrious words, which neither of
 themselves import nor are attended with any hurtful effects, are not
 punishable, seems on the whole a wise one. What in a higher rank is
-looked upon as a gross insult may in a lower rank be regarded as a mere
+looked upon as a [[Gross|gross]] insult may in a lower rank be regarded as a mere
 pleasantry or a harmless joke. Among the lower orders offences against
 honour can hardly be said to exist; the learned professions have each
 its own tribunal to which its members are amenable; and the highest
@@ -573,14 +573,14 @@ to the dissolution of magistracy." It survived in more civilized times
 as a class distinction and as an ultimate court of appeal to punish
 violations of the social code. In a democratic age and under a settled
 government it is doomed to extinction. The military duels of the
-European continent, and the so-called American duel, where the lot
+European continent, and the so-called American duel, where the [[Lot|lot]]
 decides which of the two parties shall end his life, are singular
 survivals. For real offences against reputation law will provide a
 sufficient remedy The learned professions will have each its own
 tribunal to which its members are amenable. Social stigma is at once a
 surer and a juster defence against conduct unworthy of a gentleman. Yet
 the duel dies hard, and even to-day it is approved or palliated by some
-notable publicists and professors in France and Germany. M.H. Marion
+notable publicists and professors in France and Germany. M.H. [[Marion]]
 (_La Grande Encyclopédie_), in an article strongly condemnatory of
 duels, still holds that the wrongdoer is bound to accept a challenge,
 though he may not take the offensive, and further allows that obligatory
@@ -590,7 +590,7 @@ not only defends the duels of university students (_Mensuren_) as an
 encouragement of physical exercise, a proof of courage and a protest of
 worth against wealth, but maintains generally that the duel should be
 retained as an expedient in those exceptional cases when a man cannot
-bring himself to drag before a law court the outrage done to his
+bring himself to [[Drag|drag]] before a law court the outrage done to his
 personal honour. But in such cases Dr Paulsen would have the courts hold
 the injured person scathless, whether he be challenger or challenged,
 and visit the aggressor with condign punishment.
@@ -598,20 +598,20 @@ and visit the aggressor with condign punishment.
   BIBLIOGRAPHY.--Castillo, _Tractatus de duello_ (Turin, 1525); J.P.
   Pigna, _Il Duello_ (1554); Muzio Girolamo, _Traité du duel_ (Venice,
   1553): Boyssat, _Recherches sur les duels_ (Lyons, 1610); J. Savaron,
-  _Traité contre les duels_ (Paris, 1610); Brantôme, _Mémoire sur les
+  _Traité contre les duels_ (Paris, 1610); [[Brant]]ôme, _Mémoire sur les
   duels rodomontades_; F. Bacon, _Charge concerning Duels_, &c. (1614);
   d'Audiguier, _Le Vray et ancien usage des duels_ (Paris, 1617); _His
   Majesties Edict and severe Censure against private combats_ (London,
   1618); Cockburn, _History of Duels_ (London, 1720); Brillat Savarin,
   _Essai sur le duel_ (1819); Châteauvillard, _Essai sur le duel_
-  (1836); Colombey, _Histoire anecdotique du duel_ (Paris); Fourgeroux
+  (1836); [[Colombey]], _Histoire anecdotique du duel_ (Paris); Fourgeroux
   de Champigneules, _Histoire des duels anciens et modernes_ (2 vols.,
   Paris, 1835-1837); Millingen, _History of Duelling_ (London, 1841); L.
-  Sabine, _Notes on Duels_ (Boston, 1855); Steinmetz, _Romance of
+  Sabine, _Notes on Duels_ ([[Boston]], 1855); Steinmetz, _Romance of
   Duelling_ (London, 1868). See also Eugène Cauchy, _Du duel_, &c.
   (1846), a learned and philosophic treatise by a French lawyer; G.
   Letainturier-Fradin, _Le Duel à travers les âges_ (Paris, 1892);
-  Mackay, _History of Popular Delusions, Duels and Ordeals_; and for a
+  [[Mackay]], _History of Popular Delusions, Duels and Ordeals_; and for a
   valuable list of authorities, Buckle, _History of Civilization in
   England_, ii. 137, note 71. For judicial combats see Gibbon, _Decline
   and Fall_, ch. xxxviii. For courts of honour see _Armed Strength of

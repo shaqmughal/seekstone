@@ -1,11 +1,11 @@
 # Bukovina
 
 BUKOVINA, a duchy and crownland of Austria, bounded E. by Russia and
-Rumania, S. by Rumania, W. by Transylvania and Hungary, and N. by Galicia.
+Rumania, S. by Rumania, W. by Transylvania and Hungary, and N. by [[Galicia]].
 Area, 4035 sq. m. The country, especially in its southern parts, is
 occupied by the offshoots of the Carpathians, which attain in the Giumaleu
 an altitude of 6100 ft. The principal passes are the Radna Pass and the
-Borgo Pass. With the exception of the Dniester, which skirts its northern
+Borgo Pass. With the exception of the [[Dniester]], which skirts its northern
 border, Bukovina belongs to the watershed of the Danube. The principal
 rivers are the Pruth, and the Sereth with its affluents the Suczawa, the
 Moldava and the Bistritza. The climate of Bukovina is healthy but severe,
@@ -31,7 +31,7 @@ the population belong to the Greek Orthodox Church, and stand under the
 ecclesiastical jurisdiction of the archbishop or metropolitan of
 Czernowitz. To the Roman Catholic Church belong 11%, to the Greek United
 Church 3.25%, while 2.5% are Protestants. Elementary education is
-improving, but, after Dalmatia, Bukovina still shows the largest number of
+improving, but, after [[Dalmatia]], Bukovina still shows the largest number of
 illiterates in Austria. The local diet, of which the archbishop of
 Czernowitz and the rector of the university are members _ex officio_, is
 composed of 31 members, and Bukovina sends 14 deputies to the Reichsrat at

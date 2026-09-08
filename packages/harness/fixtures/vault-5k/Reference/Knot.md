@@ -12,7 +12,7 @@ _knoten_), an intertwined loop of rope, cord, string or other flexible
 material, used to fasten two such ropes, &c., to one another, or to
 another object. (For the various forms which such "knots" may take see
 below.) The word is also used for the distance-marks on a log-line, and
-hence as the equivalent of a nautical mile (see LOG), and for any hard
+hence as the equivalent of a nautical mile (see [[Log|LOG]]), and for any hard
 mass, resembling a knot drawn tight, especially one formed in the trunk
 of a tree at the place of insertion of a branch. Knots in wood are the
 remains of dead branches which have become buried in the wood of the
@@ -32,7 +32,7 @@ tradition, was cut by Alexander the Great (see GORDIUM).
 
 [Illustration: FIG 2.]
 
-Knots, Bends, Hitches, Splices and Seizings are all ways of fastening
+Knots, [[Bend|Bends]], Hitches, Splices and Seizings are all ways of fastening
 cords or ropes, either to some other object such as a spar, or a ring,
 or to one another. The "knot" is formed to make a knob on a rope,
 generally at the extremity, and by untwisting the strands at the end and
@@ -72,7 +72,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   [Illustration: FIG. 4.]
 
   _Reef Knot_ (figs. 3, 4).--Form an overhand knot as above. Then take
-  the end _a_ over the end _b_ and through the bight. If the end _a_
+  the end _a_ over the end _b_ and through the [[Bight|bight]]. If the end _a_
   were taken under the end _b_, a _granny_ would be formed. This knot is
   so named from being used in tying the reef-points of a sail.
 
@@ -173,7 +173,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   _b_, terminating at the end _e_´´, in the opposite direction
   vertically and horizontally to the other end. The ends should be
   securely stopped to their respective standing parts, and also a stop
-  put on the becket or extreme end to prevent it catching a pipe or
+  put on the [[Becket|becket]] or extreme end to prevent it catching a pipe or
   chock; in that form this is the best quick means of uniting two large
   hawsers, since they cannot jam. When large hawsers have to work
   through small pipes, good security may be obtained either by passing
@@ -210,7 +210,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   then let the ends follow their own parts round until all the parts
   appear double. Put the ends down through the knot.
 
-  _Matthew Walker_ (figs. 26, 27).--Unlay the end of a rope. Take the
+  _[[Matthew]] Walker_ (figs. 26, 27).--Unlay the end of a rope. Take the
   first strand round the rope and through its own bight; the second
   strand round the rope, through the bight of the first, and through its
   own bight; the third through all three bights. Haul the ends taut.
@@ -263,7 +263,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   is also called a Spanish windlass.
 
   _Slings_ (fig. 32).--This is simply the bight of a rope turned up over
-  its own part; it is frequently made of chain, when a shackle (bow up)
+  its own part; it is frequently made of chain, when a shackle ([[Bow|bow]] up)
   takes the place of the bight at _s_ and another at _y_, connecting the
   two ends with the part which goes round the mast-head. Used to sling
   lower yards. For boat's yards it should be a grummet with a thimble
@@ -287,7 +287,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   in the stay or shroud round its own part and hove together with a bar
   and strand; two or three seizings diminishing in size (one round and
   one or two either round or flat) are hove on taut and snug, the end
-  being at the side of the fellow part. The dead-eye is put in and the
+  being at the side of the [[Fellow|fellow]] part. The dead-eye is put in and the
   eye driven down with a commander.
 
   _Turning in a Dead-Eye end up_ (fig. 35).--The shroud is measured
@@ -334,18 +334,18 @@ ordinary "knots and splices" are described in every book on seamanship.
   smooth and serve the part disturbed tightly with suitable hard line.
   Uses too numerous to mention. _Cut Splice._--Made in a similar manner
   to an eye splice, but of two pieces of rope, therefore with two
-  splices. Used for mast-head pendants, jib-guys, breast backstays, and
+  splices. Used for mast-head pendants, jib-guys, [[Breast|breast]] backstays, and
   even odd shrouds, to keep the eyes of the rigging lower by one part.
   It is not so strong as two separate eyes. _Horseshoe Splice._--Made
   similar to the above, but one part much shorter than the other, or
   another piece of rope is spliced across an eye, forming a horseshoe
-  with two long legs. Used for back-ropes on dolphin striker, back stays
+  with two long legs. Used for back-ropes on [[Dolphin|dolphin]] striker, back stays
   (one on each side) and cutter's runner pendants. _Long Splice._--The
   strands must be unlaid about three times as much as for a short splice
   and married--care being taken to preserve the lay or shape of each.
   Unlay one of the strands still further and follow up the vacant space
   with the corresponding strand of the other part, fitting it firmly
-  into the rope till only a few inches remain. Treat the other side in a
+  into the rope till only a few [[Inch|inches]] remain. Treat the other side in a
   similar manner. There will then appear two long strands in the centre
   and a long and a short one on each side. The splice is practically
   divided into three distinct parts; at each the strands are divided and
@@ -517,7 +517,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   larger: brace-blocks are more than five times the nominal size of the
   brace. Leading-blocks and sheaves in racks are generally smaller than
   the blocks through which the ropes pass farther away, which appears to
-  be a mistake, as more power is lost by friction. A clump-block should
+  be a mistake, as more power is lost by [[Friction|friction]]. A clump-block should
   be double the nominal size of the rope. A single strop may be made by
   joining the ends of a rope of sufficient length to go round the block
   and thimble by a common short splice, which rests on the crown of the
@@ -657,7 +657,7 @@ ordinary "knots and splices" are described in every book on seamanship.
 
   [Illustration: FIG. 48.]
 
-  _Butt Slings_ (fig. 48).--Made of 4-in. rope, each pair being 26 ft.
+  _[[Butt]] Slings_ (fig. 48).--Made of 4-in. rope, each pair being 26 ft.
   in length, with an eye spliced in one end, through which the other is
   rove before being placed over one end of the cask; the rope is then
   passed round the opposite side of the cask and two half-hitches made
@@ -665,7 +665,7 @@ ordinary "knots and splices" are described in every book on seamanship.
   down taut as the tackle receives the weight. Slings for smaller casks
   requiring care should be of this description, though of smaller rope,
   as the cask cannot possibly slip out. _Bale Slings_ are made by
-  splicing the ends of about 3 fathoms of 3-in. rope together, which
+  splicing the ends of about 3 [[Fathom|fathoms]] of 3-in. rope together, which
   then looks like a long strop, similar to the double strop represented
   in fig. 45--the bights _t_ being placed under the cask or bale and one
   of the bights _a_, _a_ rove through the other and attached to the
@@ -700,16 +700,16 @@ become one line, which is the knot in question. We may free it by
 slitting the paper along its middle line; and then we have the juggler's
 trick of putting a knot on an endless unknotted band. One of the above
 forms cannot be deformed into the other. The one is, in Listing's
-language, the "perversion" of the other, i.e. its image in a plane
+language, the "perversion" of the other, i.e. its [[Image|image]] in a plane
 mirror. He gives a method of symbolizing reduced knots, but shows that
 in this method the same knot may, in certain cases, be represented by
 different symbols. It is clear that the brief notice he published
 contains a mere sketch of his investigations.
 
 The most extensive dissertation on the properties of knots is that of
-Peter Guthrie Tait (_Trans. Roy. Soc. Edin._, xxviii. 145, where the
+Peter [[Guthrie]] Tait (_Trans. Roy. Soc. Edin._, xxviii. 145, where the
 substance of a number of papers in the _Proceedings_ of the same society
-is reproduced). It was for the most part written in ignorance of the
+is reproduced). It was for the most part written in [[Ignorance|ignorance]] of the
 work of Listing, and was suggested by an inquiry concerning vortex
 atoms.
 

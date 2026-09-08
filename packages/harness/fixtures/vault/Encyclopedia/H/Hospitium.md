@@ -28,7 +28,7 @@ Amongst the Romans, private hospitality, which had existed from the
 earliest times, was more accurately and legally defined than amongst the
 Greeks, the tie between host and guest being almost as strong as that
 between patron and client. It was of the nature of a contract, entered
-into by mutual promise, the clasping of hands, and exchange of an
+into by mutual promise, the clasping of hands, and [[Exchange|exchange]] of an
 agreement in writing (_tabula hospitalis_) or of a token (_tessera_ or
 _symbolum_), and was rendered hereditary by the division of the tessera.
 The advantages thus obtained by the guest were, the right of hospitality
@@ -49,7 +49,7 @@ introduce its ambassadors, to procure them admission to the assembly and
 seats in the theatre, and in general to look after the commercial and
 political interests of the state by which he had been appointed to his
 office. Many cases occur where such an office was hereditary; thus the
-family of Callias at Athens were proxeni of the Spartans. We find the
+family of [[Callias]] at Athens were proxeni of the Spartans. We find the
 office mentioned in a Corcyraean inscription dating probably from the
 7th century B.C., and it continued to grow more important and frequent
 throughout Greek history. There is no proof that any direct emolument
@@ -57,8 +57,8 @@ was ever attached to the office, while the expense and trouble entailed
 by it must often have been very great. Probably the honours which it
 brought with it were sufficient recompense. These consisted partly in
 the general respect and esteem paid to a proxenus, and partly in many
-more substantial honours conferred by special decree of the state whose
-representative he was, such as freedom from taxation and public burdens,
+more substantial honours conferred by special [[Decree|decree]] of the state whose
+representative he was, such as freedom from taxation and public [[Burden|burdens]],
 the right of acquiring property in Attica, admission to the senate and
 popular assemblies, and perhaps even full citizenship. Public hospitium
 seems also to have existed among the Italian races; but the
@@ -69,13 +69,13 @@ towns entering into a position of clientship to some distinguished
 Roman, who then became patronus of such a town. Foreigners were
 frequently granted the right of public hospitality by the senate down to
 the end of the republic. The public hospes had a right to entertainment
-at the public expense, admission to sacrifices and games, the right of
+at the public expense, admission to sacrifices and [[Games|games]], the right of
 buying and selling on his own account, and of bringing an action at law
 without the intervention of a Roman patron.
 
   A full bibliography of the subject will be found in the article in
   Daremberg and Saglio, _Dictionnaire des antiquites_, to which may be
-  added R. von Jhering, _Die Gastfreundschaft im Altertum_ (1887); see
+  added R. von [[Jhering]], _Die Gastfreundschaft im Altertum_ (1887); see
   also Smith's _Dictionary of Greek and Roman Antiquities_ (3rd ed.,
   1890).
 

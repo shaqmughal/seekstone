@@ -42,7 +42,7 @@ and the two main streets crossed one another close to but not through
 it. At Timgad the main streets are some 5 or 6 ft. lower than the forum.
 The word _forum_ frequently appears in the names of Roman market towns;
 as, for example, in Forum Appii, Forum Julii (_Frejus_), Forum Livii
-(_Forli_), Forum Sempronii (_Fossombrone_). These _fora_ were
+(_[[Forli]]_), Forum Sempronii (_Fossombrone_). These _fora_ were
 distinguished from mere _vici_ by the possession of a municipal
 organization, which, however, was less complete than that of a
 prefecture. In legal phraseology, which distinguishes the _forum

@@ -1,11 +1,11 @@
 # Holtzendorff
 
-HOLTZENDORFF, JOACHIM WILHELM FRANZ PHILIPP VON (1829-1889), German
+HOLTZENDORFF, JOACHIM WILHELM [[Franz|FRANZ]] PHILIPP VON (1829-1889), German
 jurist, born at Vietmannsdorf, in the Mark of Brandenburg, on the 14th
 of October 1829, was descended from a family of the old nobility. He was
 educated at Berlin and at Pforta, afterwards studying law at the
-universities of Bonn, Heidelberg and Berlin. The struggles of 1848
-inspired him with youthful enthusiasm, and he remained for the rest of
+universities of [[Bonn]], Heidelberg and Berlin. The struggles of 1848
+inspired him with youthful [[Enthusiasm|enthusiasm]], and he remained for the rest of
 his life a strong advocate of political liberty. In 1852 he graduated
 LL.D. at Berlin; in 1857 he became a Privatdocent, and in 1860 he was
 nominated a professor extraordinary. The predominant party in Prussia
@@ -15,7 +15,7 @@ accept a chair at the university of Munich. At Munich he passed the last
 nineteen years of his life. During the thirty years that he was
 professor he successively taught several branches of jurisprudence, but
 he was chiefly distinguished as an authority on criminal and
-international law. He was especially well fitted for organizing
+[[International|international]] law. He was especially well fitted for organizing
 collective work, and he has associated his name with a series of
 publications of the first value. While acting as editor he often
 reserved for himself, among the independent monographs of which the work
@@ -27,7 +27,7 @@ deutschen Strafrechts_ (Berlin, 1871-1877, 4 vols.), and his _Handbuch
 des Volkerrechts auf Grundlage europaischer Staatspraxis_ (Berlin,
 1885-1890, 4 vols.). Among his many independent works may be mentioned:
 _Das irische Gefangnissystem_ (Leipzig, 1859), _Franzosische
-Rechtszustande_ (Leipzig, 1859), _Die Deportation als Strafmittel_
+Rechtszustande_ (Leipzig, 1859), _Die [[Deportation]] als Strafmittel_
 (Leipzig, 1859), _Die Kurzungsfahigkeit der Freiheitsstrafen_ (Leipzig,
 1861), _Die Reform der Staatsanwaltschaft in Deutschland_ (Berlin,
 1864), _Die Umgestaltung der Staatsanwaltschaft_ (Berlin, 1865), _Die

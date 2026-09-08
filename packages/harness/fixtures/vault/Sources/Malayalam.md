@@ -1,6 +1,6 @@
 # Malayalam
 
-MALAYALAM, a language of the Dravidian family, spoken on the west coast
+MALAYALAM, a language of the [[Dravidian]] family, spoken on the west coast
 of southern India. It is believed to have developed out of Tamil as
 recently as the 9th century. It possesses a large literature, in which
 words borrowed from Sanskrit are conspicuous. In 1901 the total number
@@ -10,18 +10,18 @@ of speakers of Malayalam in all India was just about six millions.
 
 
 MALAY ARCHIPELAGO[1] (variously called _Malaysia_, the _Indian
-Archipelago_, the _East Indies_, _Indonesia_, _Insulinde_), the largest
+Archipelago_, the _[[East Indies]]_, _Indonesia_, _Insulinde_), the largest
 group of islands in the world, lying south-east of Asia and north and
-north-west of Australia. It includes the Sunda Islands, the Moluccas,
+north-west of [[Australia]]. It includes the Sunda Islands, the Moluccas,
 New Guinea, and the Philippine Islands, but excludes the Andaman-Nicobar
-group. The equator passes through the middle of the archipelago; it
+group. The [[Equator|equator]] passes through the middle of the archipelago; it
 successively cuts Sumatra, Borneo, Celebes and Halmahera, four of the
 most important islands. A. R. Wallace (who includes the Solomon Islands
 as well as New Guinea in the group) points out that the archipelago
 "includes two islands larger than Great Britain; and in one of them,
 Borneo, the whole of the British Isles might be set down, and would be
 surrounded by a sea of forests. Sumatra is about equal in extent to
-Great Britain; Java, Luzon, and Celebes are each about the size of
+Great Britain; [[Java]], Luzon, and Celebes are each about the size of
 Ireland. Eighteen more islands are on the average as large as Jamaica;
 and more than a hundred are as large as the Isle of Wight."
 
@@ -35,7 +35,7 @@ and more than a hundred are as large as the Isle of Wight."
   +------------------------+---------+-----------------------+
 
 The islands of the archipelago nearly all present bold and picturesque
-profiles against the horizon, and at the same time the character of the
+profiles against the [[Horizon|horizon]], and at the same time the character of the
 scenery varies from island to island and even from district to district.
 The mountains are arranged for the most part in lines running either
 from north-west to south-east or from west to east. In Sumatra and in
@@ -50,10 +50,10 @@ the Moluccas, and again north, from the end of Celebes through the whole
 line of the Philippines, they follow a line roughly resembling a
 horseshoe narrowed towards the point. The loftiest mountain in the
 archipelago would appear to be Kinabalu in Borneo (13,698 ft.). An
-important fact in the physical geography of the archipelago is that
-Java, Bali, Sumatra and Borneo, and the lesser islands between them and
+important fact in the physical [[Geography|geography]] of the archipelago is that
+Java, [[Bali]], Sumatra and Borneo, and the lesser islands between them and
 the Asiatic mainland, all rest on a great submerged bank, nowhere more
-than 100 fathoms below sea-level, which may be considered a continuation
+than 100 [[Fathom|fathoms]] below sea-level, which may be considered a continuation
 of the continent; while to the east the depth of the sea has been found
 at various places to be from 1000 to 2500 fathoms. As the value of this
 fact was particularly emphasized by Wallace, the limit of the shallow
@@ -72,23 +72,23 @@ the Asiatic did so.
 
   The most notable fact in the geological history of the archipelago is
   the discovery in Java of the fossil remains of _Pithecanthropus
-  erectus_, a form intermediate between the higher apes and man. In its
+  erectus_, a form intermediate between the higher [[Ape|apes]] and man. In its
   structure and cranial capacity it is entitled to a higher place in the
   zoological scale than any anthropoid, for it almost certainly walked
   erect; and, on the other hand, in its intellectual powers it must have
   been much below the lowest of the human race at present known. The
   strata in which it was found belong to the Miocene or Upper Pliocene.
   Among the rocks of economic importance may be mentioned granite of
-  numerous kinds, syenite, serpentine, porphyry, marble, sandstones and
-  marls. Coal is worked in Sumatra, Borneo and Labuan. Diamonds are
-  obtained in Borneo, garnets in Sumatra, Bachian and Timor, and topazes
+  numerous kinds, syenite, serpentine, porphyry, [[Marble|marble]], sandstones and
+  [[Marl|marls]]. Coal is worked in Sumatra, Borneo and [[Labuan]]. Diamonds are
+  obtained in Borneo, [[Garnet|garnets]] in Sumatra, [[Bachian]] and Timor, and topazes
   in Bachian, antimony in Borneo and the Philippines; lead in Sumatra,
   Borneo and the Philippines; copper and malachite in the Philippines,
-  Timor, Borneo and Sumatra; and, most important of all, tin in Banka,
+  Timor, Borneo and Sumatra; and, most important of all, tin in [[Banka]],
   Billiton and Singkep. Iron is pretty frequent in various forms. Gold
   is not uncommon in the older ranges of Sumatra, Banka, Celebes,
   Bachian, Timor and Borneo. Manganese could be readily worked in Timor,
-  where it lies in the Carboniferous Limestone. Platinum is found in
+  where it lies in the Carboniferous [[Limestone]]. Platinum is found in
   Landak and other parts of Borneo. Petroleum is a valuable product of
   Sumatra and Java, and is also found in Borneo.
 
@@ -111,26 +111,26 @@ brings the principal rainy season in the archipelago.
   maize, sugar and coffee, among the widely cultivated crops, but the
   coco-nut, the bread-fruit, the banana and plantain, the sugar-palm,
   the tea-plant, the sago-palm, the coco-tree, the ground-nut, the yam,
-  the cassava, and others besides, are of practical importance. The
+  the [[Cassava|cassava]], and others besides, are of practical importance. The
   cultivation of sugar and coffee owes its development mainly to the
   Dutch; and to them also is due the introduction of tea. They have
   greatly encouraged the cultivation of the coco-nut among the natives,
   and it flourishes, especially in the coast districts, in almost every
   island in their territory. The oil is largely employed in native
-  cookery. Pepper, nutmegs and cloves were long the objects of the most
+  [[Cookery|cookery]]. Pepper, nutmegs and cloves were long the objects of the most
   important branch of Dutch commerce; and gutta-percha, camphor, dammar,
-  benzoin and other forest products have a place among the exports.
+  [[Benzoin|benzoin]] and other forest products have a place among the exports.
 
   To the naturalist the Malay Archipelago is a region of the highest
   interest; and from an early period it has attracted the attention of
   explorers of the first rank. The physical division between the Asiatic
   and Australian regions is clearly reflected in the botany and zoology.
   The flora of the Asiatic islands (thus distinguished) "is a special
-  development of that prevailing from the Himalayas to the Malay
+  development of that prevailing from the [[Himalaya|Himalayas]] to the Malay
   Peninsula and south China. Farther east this flora intermingles with
   that of Australia" (F. H. H. Guillemard, _Australasia_). Similarly, in
   the Asiatic islands are found the great mammals of the continent--the
-  elephant, tiger, rhinoceros, anthropoid ape, &c., which are wanting
+  [[Elephant|elephant]], tiger, rhinoceros, anthropoid ape, &c., which are wanting
   in the Australian region, with which the eastern part of the
   archipelago is associated. (For details concerning flora and fauna,
   see separate articles, especially JAVA.)
@@ -140,26 +140,26 @@ brings the principal rainy season in the archipelago.
 _Inhabitants._--The majority of the native inhabitants of the Malay
 Archipelago belong to two races, the Malays and the Melanesians
 (Papuans). As regards the present racial distribution, the view accepted
-by many anthropologists, following A. H. Keane, is that the Negritos,
-still found in the Philippines, are the true aborigines of Indo-China
+by many anthropologists, following A. H. [[Keane]], is that the Negritos,
+still found in the Philippines, are the true aborigines of [[Indo-China]]
 and western Malaysia, while the Melanesians, probably their kinsmen,
 were the earliest occupants of eastern Malaysia and western Polynesia.
 At some date long anterior to history it is supposed that Indo-China was
 occupied first by a fair Caucasian people and later by a yellow
 Mongolian race. From these two have come all the peoples--other than
-Negrito or Papuan--found to-day from the Malay Peninsula to the farthest
+Negrito or Papuan--found to-day from the [[Malay Peninsula]] to the farthest
 islands of Polynesia. The Malay Archipelago was thus first invaded by
 the Caucasians, who eventually passed eastward and are to-day
 represented in the Malay Archipelago only by the Mentawi islanders. They
 were followed by an immigration of Mongol-Caucasic peoples with a
-preponderance of Caucasic blood--the Indonesians of some, the pre-Malays
+preponderance of Caucasic blood--the [[Indonesian|Indonesians]] of some, the pre-Malays
 of other writers--who are to-day represented in the archipelago by such
-peoples as the Dyaks of Borneo and the Battas of Sumatra. At a far later
+peoples as the [[Dyaks]] of Borneo and the Battas of Sumatra. At a far later
 date, probably almost within historic times, the true Malay race, a
 combination of Mongol and Caucasic elements, came into existence and
 overran the archipelago, in time becoming the dominant race. A Hindu
 strain is evident in Java and others of the western islands; Moors and
-Arabs (that is, as the names are used in the archipelago, Mahommedans
+[[Arabs]] (that is, as the names are used in the archipelago, Mahommedans
 from various countries between Arabia and India) are found more or less
 amalgamated with many of the Malay peoples; and the Chinese form, from
 an economical point of view, one of the most important sections of the
@@ -181,7 +181,7 @@ attention at Amboyna and other ancient settlements.
   the native tongues is the Javanese, and it is spoken by a greater
   number of people than any of the others. To it Sundanese stands in the
   relation that Low German holds to High German, and the Madurese in the
-  relation of a strongly individualized dialect. Among the other
+  relation of a strongly individualized [[Dialect|dialect]]. Among the other
   languages which have been reduced to writing and grammatically
   analysed are the Balinese, closely connected with the Javanese, the
   Batta (with its dialect the Toba), the Dyak and the Macassarese.
@@ -214,7 +214,7 @@ NETHERLANDS INDIA
   Natives, Chinese and Arabs, are given seats, and in certain instances
   some of the members are elected, but more generally they are appointed
   by government. The islands are often described as of two groups, Java
-  and Madura forming one, and the other consisting of Sumatra, Borneo,
+  and [[Madura]] forming one, and the other consisting of Sumatra, Borneo,
   Riouw-Lingga Archipelago, Banka, Billiton, Celebes, Molucca
   Archipelago, the small Sunda Islands, and a part of New Guinea--the
   Outposts as they are collectively named. The Outposts are divided into
@@ -303,7 +303,7 @@ NETHERLANDS INDIA
 
   _Religion and Instruction._--Entire liberty is granted to the members
   of all religious confessions. The Reformed Church has about 40
-  ministers and 30 assistants, the Roman Catholic 35 curates and 20
+  ministers and 30 assistants, the Roman Catholic 35 [[Curate|curates]] and 20
   priests, not salaried out of the public funds. There are about 170
   Christian missionaries, and the progress of their work may be
   illustrated by showing that the number of Christians among the natives
@@ -316,16 +316,16 @@ NETHERLANDS INDIA
     | In the Outposts    | 148,672 | 290,065 |   "   390,000 |
     +--------------------+---------+---------+---------------+
 
-  About 10,000 natives go annually to Mecca on pilgrimage.
+  About 10,000 natives go annually to [[Mecca]] on pilgrimage.
 
   Both the government and private enterprise maintain vernacular
   schools. Large sums have been voted in Holland for the establishment
   of primary and secondary schools, and the government has undertaken to
   assist in the establishment of parochial schools, the object being
   that every village, at least in Java, should possess one. There are
-  schools for higher education at Batavia, Surabaya and Semarang; at the
+  schools for higher education at [[Batavia]], Surabaya and Semarang; at the
   first two of these towns are government schools for mechanical
-  engineering, and at Batavia a crafts school and a medical school for
+  [[Engineering|engineering]], and at Batavia a [[Craft|crafts]] school and a medical school for
   natives. There are five colleges for native schoolmasters and four for
   sons of native officials. Government schools for the European
   education of Chinese children are established in the principal towns.
@@ -383,11 +383,11 @@ NETHERLANDS INDIA
     +------+-------------+--------------+
 
   The monetary system is similar to that of Holland (the unit being the
-  _guilder_), but there are also certain silver and copper coins of
+  _guilder_), but there are also certain silver and copper [[Coin|coins]] of
   small value bearing Malay or Javanese inscriptions. The Java Bank,
   established in 1828, with headquarters at Batavia, is the only bank
   issuing notes, two-fifths of the amount of which must be covered by
-  specie or bullion. The government has a control over the
+  specie or [[Bullion|bullion]]. The government has a control over the
   administration of this bank.
 
   _Defence._--The army is purely colonial, i.e. distinct from that of
@@ -398,14 +398,14 @@ NETHERLANDS INDIA
   soldiers are at liberty to enlist, by permission of their commanding
   officers, in the army of Netherlands India, and they form its nucleus.
   Native and European soldiers are generally mixed together in the same
-  battalions, though in separate companies. The officers were all Dutch
+  [[Battalion|battalions]], though in separate companies. The officers were all Dutch
   till 1908, when a trial was made of native officers from noble
   Javanese families. The artillery is composed of European gunners, with
-  native riders, while the cavalry are Europeans and natives. A military
+  native riders, while the [[Cavalry|cavalry]] are Europeans and natives. A military
   academy is established at Meester Cornelis, near Batavia. Schools for
   soldiers are attached to every battalion. There are certain local
   forces outside the regular army--militia in some of the large towns,
-  native infantry in Madura, and guards of some of the vassal princes.
+  native infantry in Madura, and [[Guards|guards]] of some of the vassal princes.
   Unlike the army, which is purely colonial, the navy in Netherlands
   India is partly colonial, partly belonging to the royal navy of the
   Netherlands, and its expenses are therefore borne partly by the mother
@@ -415,8 +415,8 @@ NETHERLANDS INDIA
   undertake police supervision, prevention of slave trading, &c.
 
   _Trade and Industries._--The principal articles of export are sugar,
-  tobacco, copra, forest products (various gums, &c.), coffee,
-  petroleum, tea, cinchona, tin, rice, pepper, spices and gambier. The
+  tobacco, [[Copra|copra]], forest products (various [[Gum|gums]], &c.), coffee,
+  petroleum, tea, [[Cinchona|cinchona]], tin, rice, pepper, spices and [[Gambier|gambier]]. The
   average annual value of exports during 1900-1905 was £22,496,468, and
   of imports £17,050,338. A great proportion of the exports goes to the
   mother country, though a considerable quantity of rice is exported to
@@ -457,7 +457,7 @@ NETHERLANDS INDIA
   Nederl. Indië_ (Amsterdam, 1869), to which P. J. Veth and other
   specialists were contributors. A general survey of the people,
   administration and resources of the Dutch colony is provided in
-  _Twentieth Century Impressions of Netherlands India_, ed. by Arnold
+  _Twentieth Century Impressions of Netherlands India_, ed. by [[Arnold]]
   Wright (London, 1910). See also A. R. Wallace, _Malay Archipelago_
   (London, 1869, and later editions, notably for zoological
   distribution) and _Island Life_ (London, 1880, notably for
@@ -465,17 +465,17 @@ NETHERLANDS INDIA
   Archipelago_ (London, 1885); P. van der Lith, _Nederlandsch Oostindië_
   (2nd ed., Leiden, 1893-1895); F. H. H. Guillemard, _Australasia_, vol.
   ii., in _Stamford's Compendium_ (London, 1894); _Encyclopaedie van
-  Nederlandsch-Indië_ (the Hague, 1895-1904); _Guide à travers la
+  Nederlandsch-Indië_ (the [[Hague]], 1895-1904); _Guide à travers la
   section des Indes néerlandaises_, Paris Exhibition (the Hague, 1900);
   A. R. Colquhoun, _The Mastery of the Pacific_ (London, 1902); M.
   Weber, _Der indo-australische Archipel und die Geschichte seiner
-  Tierwelt_ (Jena, 1902); G. Karsten and H. Schenck,
+  Tierwelt_ ([[Jena]], 1902); G. Karsten and H. Schenck,
   _Vegetationsbilder_, vol. ii. (Jena, 1903); J. van Bemmelen and G. B.
   Hooyer, _Guide through Netherlands India_ (London, 1903); D. Bezemer,
   _Nederlandsch Oost-Indië_ (the Hague, 1904); H. Blink, _Nederlandsch
   Oost- en West-Indië, geographisch, ethnologisch, en economisch
   beschreven_ (Leiden, 1904, sqq.). Among Dutch official publications
-  may be mentioned _Jaarcijfers door het Centraal Bureau voor de
+  may be mentioned _Jaarcijfers door het Centraal [[Bureau]] voor de
   Statistiek_; _Jaarboek van het Mijnwezen in Nederlandsch Oost-Indië_
   (Amsterdam); _Koloniale-Economische Bijdragen_ (the Hague); _Koloniaal
   Verslag_ (the Hague); _Regeerings-Almanak voor Nederlandsch-Indië_
@@ -503,17 +503,17 @@ remoter districts, even of Java and Sumatra, remained in a condition of
 complete savagery.
 
 The Portuguese were the first Europeans to colonize any part of the
-archipelago. A Portuguese squadron under Diogo Lopes de Sequeira arrived
+archipelago. A Portuguese squadron under Diogo [[Lopes]] de Sequeira arrived
 off Sumatra in 1509, explored the north coast for some distance, and
 noted that the inhabitants of the interior were cannibals, while those
 of the littoral were civilized and possessed a gold coinage. The main
 object of the Portuguese was to obtain a share in the lucrative spice
 trade carried on by the Malays, Chinese and Japanese; the trade-routes
-of the archipelago converged upon Malacca, which was the point of
+of the archipelago converged upon [[Malacca]], which was the point of
 departure for spice merchants trading with every country on the shores
 of the Indian Ocean and Arabian Sea. In 1511 the Portuguese under
 Alphonso d'Albuquerque occupied Malacca, and in November of that year an
-expedition under Antonio de Abreu was despatched to find a route to the
+expedition under [[Antonio]] de Abreu was despatched to find a route to the
 Moluccas and Banda Islands, then famous for their cloves and nutmegs.
 The explorers reached Amboyna and Ternate, after gaining some knowledge
 of Java, Madura, Sumbawa and other islands, possibly including New
@@ -522,14 +522,14 @@ Serrão, was shipwrecked, but succeeded in making his way in a native
 boat to Mindanao. Thus the Philippines were discovered: In 1514 a second
 Portuguese fleet arrived at Ternate, which during the next five years
 became the centre of Portuguese enterprise in the archipelago; regular
-traffic with Malacca and Cochin was established, and the native raja
+traffic with Malacca and [[Cochin]] was established, and the native raja
 became a vassal of Portugal.
 
 Meanwhile the Spanish government was considering whether the Moluccas
 did not fall within the Spanish sphere of influence as defined by the
 Treaty of Tordesillas in 1494; and in August 1519 an expedition
-commanded by Ferdinand Magellan (q.v.) sailed from Seville to seek a
-westward passage to the archipelago. After losing the commander in the
+commanded by [[Ferdinand]] Magellan (q.v.) sailed from Seville to seek a
+westward passage to the archipelago. After losing the [[Commander|commander]] in the
 Philippines and discovering Borneo, the two surviving ships reached the
 Moluccas late in 1520. One vessel returned to Seville by the Cape route,
 thus completing the first voyage round the world; the other attempted to
@@ -537,7 +537,7 @@ return by the Pacific, but was driven back to Tidore and there welcomed
 by the natives as a useful ally against the Portuguese. Reinforcements
 from Spain arrived in 1525 and 1528; but in 1529 a treaty was concluded
 between the emperor Charles V. and John III. of Portugal, by which, in
-return for 350,000 gold ducats, the Spanish claim to the Moluccas was
+return for 350,000 gold [[Ducat|ducats]], the Spanish claim to the Moluccas was
 withdrawn. The boundary between the Spanish and Portuguese spheres was
 fixed at 17° E. of the Moluccas, but by a geographical fiction the
 Philippines were included within the Spanish sphere. Further disputes
@@ -553,9 +553,9 @@ Moluccas, who was the highest official in the archipelago, though
 subordinate to the viceroy or governor of Portuguese India. The first
 attempt to enter into relations with the states of Borneo was made by D.
 Jorge de Menezes, who visited Brunci in 1526, and in 1528 sent an envoy
-to its raja. The embassy failed in a curious manner. Among the gifts
+to its raja. The [[Embassy|embassy]] failed in a curious manner. Among the gifts
 sent by Menezes was a piece of tapestry representing the marriage of
-Catherine of Aragon to Arthur, prince of Wales. The raja was persuaded
+[[Catherine Of Aragon|Catherine of Aragon]] to Arthur, prince of Wales. The raja was persuaded
 that these mysterious figures were demons under a spell, which might
 come to life and kill him as he slept. The envoy was therefore
 dismissed.
@@ -564,7 +564,7 @@ In 1536, after a period of war and anarchy caused by the tyrannical rule
 of Menezes, Antonio Galvão, the historian, was appointed governor of the
 Moluccas. He crushed the rebellion and won the affection of the natives
 by his just and enlightened administration, which had no parallel in the
-annals of Portuguese rule in the archipelago. He returned to Europe in
+[[Annals|annals]] of Portuguese rule in the archipelago. He returned to Europe in
 1540 (see PORTUGAL: _Literature_), after inaugurating an active
 missionary movement, which was revived in 1546-1547 by Francis Xavier
 (q.v.). At this period the Portuguese power in the East was already
@@ -574,7 +574,7 @@ Achin; bitter hostility was aroused by the attempts which the Portuguese
 made to establish a commercial monopoly and to force Christianity upon
 their native subjects and allies (see PORTUGAL: _History_). From 1580 to
 1640 Portugal was itself united to Spain--a union which differed from
-annexation in little but name.
+[[Annexation|annexation]] in little but name.
 
 _The English and Dutch, 1595-1674._--Pirates from Dieppe visited the
 archipelago between 1527 and 1539. It is possible that they reached
@@ -582,7 +582,7 @@ Australia[2]--more than sixty years before the first voyage thither of
 which there is any clear record; but their cruise had no political
 significance, and the Spaniards and Portuguese remained without European
 competitors until the appearance of Sir Francis Drake in 1579. An
-English squadron under Sir James Lancaster came into conflict with the
+English squadron under Sir James [[Lancaster]] came into conflict with the
 Portuguese in 1591, and an expedition under Sir Henry Middleton traded
 in the archipelago in 1604. But the English were simple traders or
 explorers; far more formidable were the Dutch, who came to the East
@@ -590,53 +590,53 @@ partly to avenge the injuries inflicted on their country by the
 Spaniards, partly to break the commercial monopoly of the peninsular
 states. As middlemen they already possessed a large interest in the
 spice trade, for the Portuguese, having no direct access to the
-principal European markets, had made a practice of sending cargo to the
+principal European markets, had made a practice of sending [[Cargo|cargo]] to the
 Netherlands for distribution by way of the Scheldt and Rhine. The Dutch
 now sought to monopolize not only the distribution but the production of
-spices--an enterprise facilitated by the co-operation of many exiled
+spices--an enterprise facilitated by the [[Co-Operation|co-operation]] of many exiled
 Portuguese Jews who had settled in Holland.
 
 The first Dutch fleet sailed from Texel, under the command of Cornelis
 Houtman, on the 2nd of April 1595 and reached Sumatra on the 1st of
 January 1596. It visited Madura, and came into conflict with the
-Portuguese at Bantam in Java, returning to Holland in 1597. Though not a
+Portuguese at [[Bantam]] in Java, returning to Holland in 1597. Though not a
 commercial success, the expedition had demonstrated the weakness of the
-Portuguese. In 1602 the Dutch East India Company (q.v.) was
+Portuguese. In 1602 the [[Dutch East India Company]] (q.v.) was
 incorporated, and for nearly two centuries this organization played the
 chief part in the history of the archipelago. By 1604 the Dutch could
 already claim to be the stronger power at sea. They had attacked the
 Portuguese in Ceylon (1601), established friendly relations with Achin
 (1602), and defeated a powerful fleet off Banda (1602). In 1606 they
 concluded a treaty of alliance with the sultan of Johor, and in 1608
-they forced the Portuguese to assent to an armistice for twelve years.
+they forced the Portuguese to assent to an [[Armistice|armistice]] for twelve years.
 On the 29th of November 1609 Pieter Both was chosen by the
 states-general, on the nomination of the Dutch East India Company, as
 first governor-general of Netherlands India. In 1611 the headquarters of
 the Dutch was changed from Bantam to Jakarta, which in 1619 was renamed
 Batavia, and was thenceforward the Dutch capital. Meanwhile the English
-East India Company, chartered in 1600, had also extended its operations
+[[East India Company]], chartered in 1600, had also extended its operations
 to the archipelago. After 1611 the commercial rivalry between the Dutch
 and British became acute, and in 1613, 1615 and 1618 commissioners met
-in London to discuss the matters in dispute. The result of their
+in London to [[Discus|discuss]] the matters in dispute. The result of their
 deliberations was the Treaty of Defence, signed on the 2nd of June 1619
 and modified on the 24th of January 1620, which arranged for
 co-operation between the Dutch and British companies, and especially for
-the maintenance of a joint fleet. But neither company could restrain
+the [[Maintenance|maintenance]] of a joint fleet. But neither company could restrain
 its agents in the East from aggressive action, and many fresh causes of
 dispute arose, the chief being the failure of the British to provide the
 naval forces required for service against the Portuguese, and the
-so-called "massacre of Amboyna" (q.v.) in 1623. The Treaty of Defence
+so-called "[[Massacre|massacre]] of Amboyna" (q.v.) in 1623. The Treaty of Defence
 lapsed in 1637, but as early as 1634 the British made peace with
 Portugal. Even without allies, however, the Dutch continued to extend
 their trade and to annex fresh territory, for the British were weakened
 by civil war at home, while, after 1640, the Portuguese were struggling
 to maintain their independence against Spain. The Dutch company opened
-up a profitable trade with Japan and China, and prosecuted the war
+up a profitable trade with [[Japan]] and China, and prosecuted the war
 against Portugal with great vigour, invading Portuguese India and
-capturing Point de Galle in 1640, Malacca in 1641, Cochin and Cannanore
+capturing Point de [[Galle]] in 1640, Malacca in 1641, Cochin and [[Cannanore]]
 in 1663. The war with England in 1652-54 and the renewal of the
 Anglo-Portuguese alliance by the marriage of Charles II. to Catherine of
-Braganza in 1661 were unable to check the growth of Dutch power; more
+[[Braganza]] in 1661 were unable to check the growth of Dutch power; more
 serious was the resistance offered by some of the native states.
 Rebellions in Java (1629) and the Moluccas (1650) were suppressed with
 great severity, but in 1662 the company suffered a heavy reverse in
@@ -656,10 +656,10 @@ _Dutch Ascendancy, 1674-1749._--The weakness of Spain and Portugal and
 the withdrawal of the British left the Dutch company free to develop its
 vast colonial and commercial interests. In 1627 the so-called Dutch
 "colonial system" had been inaugurated by the fourth governor-general,
-Jan Pieterszoon Coen (q.v.). Under this system, which was intended to
+Jan Pieterszoon [[Coen]] (q.v.). Under this system, which was intended to
 provide Netherlands India with a fixed population of European descent,
 Dutch girls were sent to the archipelago to be married to white
-settlers, and subsequently marriages between Dutchmen and captive native
+settlers, and subsequently marriages between Dutchmen and [[Captive|captive]] native
 women were encouraged. As early as 1624 vast fortunes had been acquired
 by trade: two members of the company who died in that year were stated
 to possess seven and eight tons of gold respectively, an amount
@@ -682,7 +682,7 @@ India to Europe, was severely felt. The administration was corrupt,
 largely because of the vast powers given to officials, who were
 invariably underpaid; and the financial methods of the company
 precipitated its ruin, large dividends being paid out of borrowed money.
-The burden of defence could no longer be sustained; piracy and smuggling
+The [[Burden|burden]] of defence could no longer be sustained; piracy and smuggling
 became so common that the company was compelled to appeal to the
 states-general for aid. In 1798 it was abolished and its authority
 vested in a "Council of the Asiatic Possessions." In 1803 a commission
@@ -691,10 +691,10 @@ administrative and commercial reforms, notably freedom of trade in all
 commodities except firearms, opium, rice and wood--with coffee, pepper
 and spices, which were state monopolies. Some of these reforms were
 carried out by H. W. Daendels (1808-1811), who was sent out as
-governor-general by Louis Bonaparte, after the French conquest of
+governor-general by Louis [[Bonaparte]], after the French conquest of
 Holland. Daendels, however, maintained the existing restrictions upon
 trade and even made rice a state monopoly. His harsh rule aroused great
-antagonism; in 1811 he was recalled and J. W. Janssens became
+antagonism; in 1811 he was recalled and J. W. [[Janssens]] became
 governor-general.
 
 _British Occupation, 1811-1816._--Netherlands India was at this time
@@ -744,13 +744,13 @@ despotism, and made the governor-general in council responsible to the
 minister of the colonies at the Hague. They reformed the judicature,
 introduced elementary education for the natives, and abolished slavery
 in Java as from the 1st of January 1860. They also prepared the way for
-further legislation tending towards the gradual emancipation of the
+further legislation tending towards the [[Gradual|gradual]] emancipation of the
 natives from the culture system, and from semi-feudal servitude to their
 native rulers. That servitude existed in many forms all over the
 archipelago, but among the most curious must be reckoned the
 _pandelingschap_ or "pledgedom," which originated in Borneo, and
 according to which a man had the power to make his debtors his serfs
-until their debts were paid.
+until their [[Debt|debts]] were paid.
 
 The reform movement was aided by the publication in 1860 of _Max
 Havelaar_, a romance by E. Douwes Dekker (q.v.), which contained a
@@ -762,13 +762,13 @@ enabling the states-general to control the revenue and expenditure of
 Netherlands India; in 1865 he reduced and in 1872 abolished the
 differentiation of customs dues in favour of goods imported from
 Holland, substituting a uniform import duty of 6% and establishing a
-number of free ports throughout the archipelago. The import duty was
+number of [[Free Ports|free ports]] throughout the archipelago. The import duty was
 considered so moderate that an increase required for revenue purposes
 was readily conceded in 1886. In 1876 the practice of paying a yearly
 surplus (_batig slot_) from the revenues of Netherlands India to the
 treasury at the Hague was discontinued. The chief reforms in the land
 system were those introduced by De Waal, then minister for the colonies,
-in 1870. The cultivation of pepper, cochineal, cinnamon and indigo for
+in 1870. The cultivation of pepper, [[Cochineal|cochineal]], cinnamon and indigo for
 the government had already ceased; De Waal restricted the area of the
 sugar plantations (carried on by forced native labour) as from 1878, and
 provided for their abolition after 1890. He also enabled natives to
@@ -781,9 +781,9 @@ Guinea--proceeded simultaneously with the reform movement, and from time
 to time involved war with various native states. A large expedition was
 sent to Lombok in 1894, and almost the whole of that island was
 incorporated in the Dutch dominions. The long and costly war with Achin
-(q.v.) began in 1873 and reached its climax in the military occupation
+(q.v.) began in 1873 and reached its [[Climax|climax]] in the military occupation
 of the country after 1905, when the native sultan surrendered and was
-deported. A guerrilla war was still carried on by his subjects, but
+deported. A [[Guerrilla|guerrilla]] war was still carried on by his subjects, but
 their principal leader, the chief Panglima Polim, was captured in 1907;
 in 1908-1910 the condition of Achin under the military rule of General
 Swart was one of almost unbroken peace, and taxes were regularly paid.
@@ -791,23 +791,23 @@ Swart was one of almost unbroken peace, and taxes were regularly paid.
 While the Dutch were thus consolidating their authority, other countries
 were acquiring new commercial or colonial interests in the archipelago.
 Immigration from China and Japan steadily increased, especially towards
-the end of the period 1816-1910. The enterprise of Sir James Brooke
+the end of the period 1816-1910. The enterprise of Sir James [[Brooke]]
 (q.v.) led, after 1838, to the establishment of British sovereignty in
 North Borneo; in 1895 New Guinea was divided between Great Britain,
 Germany and the Netherlands; and the Spanish-American War of 1898
 resulted in the cession of the Philippines, Sulu Island and the largest
-of the Mariana Islands to the United States, and the sale of the
+of the [[Mariana]] Islands to the United States, and the sale of the
 Caroline group to Germany. Australian and Japanese trade in the
 archipelago was stimulated by the establishment of the Australian
-Commonwealth (1901) and the Russo-Japanese War (1904-5). In 1910 the
+[[Commonwealth]] (1901) and the Russo-Japanese War (1904-5). In 1910 the
 nations most directly interested in the future of the archipelago were
 the Netherlands, Great Britain, the United States, Germany, Japan, China
 and Portugal.
 
   BIBLIOGRAPHY.--For the period 1511-1595, the chief Portuguese
-  authorities are the chronicles of Barros, Corrêa, Castanheda and Couto
+  authorities are the chronicles of [[Barros]], Corrêa, Castanheda and Couto
   (see PORTUGAL: _History_), with the letters of Xavier (q.v.), and the
-  _Tratado_ of A. Galvão (Lisbon, 1563 and 1731), of which a translation
+  _Tratado_ of A. Galvão ([[Lisbon]], 1563 and 1731), of which a translation
   entitled _Discoveries of the World_ was made for Richard Hakluyt and
   reprinted by the Hakluyt Society (London, 1862). See also M. F. de
   Navarette, _Coleccion de los viages_ (vols. 4 and 5, Madrid, 1837).

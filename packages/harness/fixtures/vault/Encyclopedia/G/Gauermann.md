@@ -6,8 +6,8 @@ topic: geography
 
 # Gauermann
 
-GAUERMANN, FRIEDRICH (1807-1862), Austrian painter, son of the landscape
-painter Jacob Gauermann (1773-1843), was born at Wiesenbach near
+GAUERMANN, [[Friedrich|FRIEDRICH]] (1807-1862), Austrian painter, son of the landscape
+painter [[Jacob]] Gauermann (1773-1843), was born at Wiesenbach near
 Gutenstein in Lower Austria on the 20th of September 1807. It was the
 intention of his father that he should devote himself to agriculture,
 but the example of an elder brother, who, however, died early, fostered
@@ -27,7 +27,7 @@ and his numerous animal pieces have entitled him to a place in the first
 rank of painters of that class of subjects. The peculiarity of his
 pictures is the representation of human and animal figures in connexion
 with appropriate landscapes and in characteristic situations so as to
-manifest nature as a living whole, and he particularly excels in
+[[Manifest|manifest]] nature as a living whole, and he particularly excels in
 depicting the free life of animals in wild mountain scenery. Along with
 great mastery of the technicalities of his art, his works exhibit
 patient and keen observation, free and correct handling of details, and

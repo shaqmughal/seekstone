@@ -27,7 +27,7 @@ was extensively adopted, being the foundation upon which the prevailing
 land system in early England was built. An opposing school denies
 entirely the existence of the mark system, and a French writer, Fustel
 de Coulanges, refers to it contemptuously as "a figment of the Teutonic
-imagination." This view is based largely upon the supposition that
+[[Imagination|imagination]]." This view is based largely upon the supposition that
 common ownership of the land was practically unknown among the early
 Germans, and was by no means general among the early English. The truth
 will doubtless be found to lie somewhere between the two extremes. The

@@ -1,6 +1,6 @@
 # Baluchistan
 
-BALUCHISTAN, a country within the borders of British India which, like
+BALUCHISTAN, a country within the [[Borders|borders]] of British India which, like
 Afghanistan, derives its name from its dominant race of inhabitants. It
 extends from the Gomal river to the Arabian Sea, and from the borders of
 Persia and Afghanistan to those of the Punjab and Sind. It is divided into
@@ -9,25 +9,25 @@ India under the chief commissioner, and the foreign territories under the
 administration or superintendence of the same officer as agent to the
 governor-general. The former portion, with an area of 9403 sq. m., consists
 principally of tracts ceded to the British government by Afghanistan under
-the treaty of Gandamak (1879), and formally declared to be part of British
+the treaty of [[Gandamak]] (1879), and formally declared to be part of British
 India in 1887. The second class comprises three subdivisions, namely areas
 directly administered, native states and tribal areas. The
 directly-administered districts include areas acquired in various ways.
-Some portions are held on lease from the khan of Kalat; while others are
+Some portions are held on lease from the [[Khan|khan]] of [[Kalat]]; while others are
 tribal areas in which it has been decided for various reasons that revenue
 shall be taken. They include the whole of the Zhob and Chagai political
 agencies, the eastern portion of the Quetta tahsil and other tracts, among
-which may be mentioned the Bolan Pass, comprising 36,401 sq. m. in all. The
+which may be mentioned the [[Bolan Pass]], comprising 36,401 sq. m. in all. The
 whole of the northern boundary, with the north-eastern corner and the
 railway which traverses Baluchistan through Quetta up to New Chaman on the
 Afghan-Baluch frontier, is therefore in one form or other under direct
 British control. The remainder of the territory (79,382 sq. m.) belongs to
-the native states of Kalat (including Makran and Kharan) and Las Bela.
-Tribal areas, in the possession of the Marri and Bugti tribes, cover 7129
+the native states of Kalat (including [[Makran]] and Kharan) and Las [[Bela]].
+Tribal areas, in the possession of the [[Marri]] and [[Bugti]] tribes, cover 7129
 sq. m.
 
 Baluchistan as a whole is a sparsely populated tract covering a larger area
-than any Indian province save Burma, Madras and Bengal. Three hundred miles
+than any Indian province save [[Burma]], Madras and [[Bengal]]. Three hundred miles
 of its mountain walls facing the Indus are south of the railway from the
 Indus to Quetta, and about 250 north of it. The railway with the passes and
 plains about it, and the dominant hills which surround Quetta, divide
@@ -42,26 +42,26 @@ of the Gomal, and expands to more than 200 m. on the line of the railway.
 Here all the main drainage either runs northwards to the Gomal, passing
 through the uplands that lie west of the Suliman Range; or it gathers
 locally in narrow lateral valleys at the back of these mountains and then
-bursts directly eastwards through the limestone axis of the hills, making
+bursts directly eastwards through the [[Limestone|limestone]] axis of the hills, making
 for the Indus by the shortest transverse route. South of the railway lies a
 square block of territory, measuring roughly 300 m. by 300, primarily the
 home of the Brahui and the Baluch; but within that block are included
 almost every conceivable phase of climate and representatives of half the
 great races of Asia. Here, throughout the elevated highlands of the Kalat
 plateau which are called Jalawan, the drainage gathers into channels which
-cut deep gorges in the hills, and passes eastwards into the plains of Sind.
+cut deep [[Gorges|gorges]] in the hills, and passes eastwards into the plains of Sind.
 Beyond and south of the hydrographical area of the Jalawan highlands the
 rivers and streams of the hills either run in long straight lines to the
 Arabian Sea, north of Karachi, or, curving gradually westwards, they
 disappear in the inland swamps which form so prominent a feature in this
 part of south-west Asia. A narrow width of the coast districts collects its
-waters for discharge into the Arabian Sea direct. This section includes
+waters for [[Discharge|discharge]] into the Arabian Sea direct. This section includes
 Makran. Baluchistan thus becomes naturally divided into two districts,
 north and south, by an intervening space which contains the Sind-Pishin
-railway. This intervening space comprises the wedge-shaped desert of Kach
+railway. This intervening space comprises the wedge-shaped [[Desert|desert]] of Kach
 Gandava (Gandava), which is thrust westwards from the Indus as a deep
 indentation into the mountains, and, above it, the central uplands which
-figure on the map as "British Baluchistan"--where lies Quetta. All
+figure on the [[Map|map]] as "British Baluchistan"--where lies Quetta. All
 Baluchistan has now been surveyed. From the great Indus series of triangles
 bases have been selected at intervals which have supported minor chains of
 triangulation reaching into the heart of the country. These again have been
@@ -95,15 +95,15 @@ Pathans of the Suliman Range as it does with that of the northern chiefs;
 but the occupation of a line of posts on the Zhob river, which flanks that
 range almost from end to end on the west, places the doors of communication
 with Afghanistan in British hands, and gives command of their hills. It
-thus tends to the maintenance of peace and order on the southern frontier
+thus tends to the [[Maintenance|maintenance]] of peace and order on the southern frontier
 to a degree that does not exist in the north.
 
 The central range of the Suliman hills is the dominant feature in the
-geography of northern Baluchistan. The central line or axis of the range
+[[Geography|geography]] of northern Baluchistan. The central line or axis of the range
 lies a little east of the meridian of 70° E., and it is geologically
-composed of one or more great folds of the Cretaceous series. Towards the
+composed of one or more great [[Fold|folds]] of the Cretaceous series. Towards the
 northern extremity of the range occur a group of peaks, which together form
-an oblong block or "massif" amongst the neighbouring ridges known as
+an oblong block or "[[Massif|massif]]" amongst the neighbouring ridges known as
 "Kaisargarh" amongst the Sherani clansmen who occupy it; and as the
 "Takht-i-Suliman" (Solomon's throne), generally, on the frontier, from the
 fact of a celebrated shrine of that name existing near its southern
@@ -112,7 +112,7 @@ sea-level), bounded on its eastern and western edges by high, rugged and
 steep parallel ridges. The western ridge culminates on the north in the
 peak of Kaisargarh (11,300 ft.), and the eastern in a block, or detached
 headland, on the south, where rests the immortal "zirat" or shrine (11,070
-ft.). This tableland is formed by a huge cap of coral limestone, estimated
+ft.). This tableland is formed by a huge cap of [[Coral|coral]] limestone, estimated
 by Griesbach at from 4000 to 5000 ft. in thickness. At each end the
 tableland is rent by gorges which deepen, amidst stupendous precipices, to
 the channel of the Draband or "Gat" on the north, and of the Dhana on the
@@ -137,7 +137,7 @@ Kundar. As they pass away southwards this grid-iron formation strikes with
 a gentle curve westwards, the narrow enclosed valleys widening out towards
 the sources of the rivers, where ages of denudation have worn down the
 folds and filled up the hollows with fruitful soil, until at last they
-touch the central water-divide, the key of the whole system, on the Quetta
+touch the central water-divide, the [[Key|key]] of the whole system, on the Quetta
 plateau. Thus the upper parts of the Zhob valley are comparatively open and
 fertile, with flourishing villages, and a cultivation which has been
 greatly developed under British rule, and are bounded by long, sweeping,
@@ -153,7 +153,7 @@ a more strictly regular, but higher and more rugged, ridge of hills which
 marks the Siwaliks. The Baluch Siwaliks afford us strange glimpses into a
 recent geological past, when the same gigantic mammals roamed along the
 foot of these wild hills as once inhabited the tangled forests below the
-Himalaya. Between the Takht Mountain and the Siwaliks, the intervening belt
+[[Himalaya]]. Between the Takht Mountain and the Siwaliks, the intervening belt
 of ridge and furrow has been greatly denuded by transverse drainage--a
 system of drainage which we now know to have existed before the formation
 of the hills, and to have continued to cut through them as they gradually
@@ -164,13 +164,13 @@ Beyond the Siwaliks, still looking eastwards, are the sand waves of the
 Indus plain; a yellow sea broken here and there with the shadow of village
 orchards and the sheen of cultivation, extending to the long black sinuous
 line which denotes the fringe of trees bordering the Indus. Such is the
-scene which Solomon is said to have invited his Indian bride to gaze upon
-for the last time, as they rested on the crags of the southern buttress of
+scene which Solomon is said to have invited his Indian [[Bride|bride]] to gaze upon
+for the last time, as they rested on the crags of the southern [[Buttress|buttress]] of
 the Takht--where his shrine exists to this day. To that shrine thousands of
 pilgrims, Mahommedans and Hindus alike, resort on their yearly pilgrimages,
 in spite of its dangerous approach. All this country, so far, is
 independent Baluchistan within the jurisdiction of the Baluchistan Agency,
-with the exception of certain clans of the Sheranis on the eastern slopes
+with the exception of certain [[Clan|clans]] of the Sheranis on the eastern slopes
 of the Takht-i-Suliman, north of the Vihowa, who are under the North-West
 Frontier Province administration. Wedged in between the railway and the
 Indus, but still north of the railway, is a curious mass of rough mountain
@@ -184,14 +184,14 @@ At this point, as might be expected, are some of the grandest peaks and
 precipices in Baluchistan. Khalifat on the east of Quetta, flanking the
 Harnai loop of the Sind-Pishin railway; Takatu to the north; Chahiltan
 (Chiltan) on the south-west; and the great square-headed Murdar to the
-south--all overlook the pretty cantonment from heights which range from
+south--all overlook the pretty [[Cantonment|cantonment]] from heights which range from
 10,500 to 11,500 ft. Lying in the midst of them, on an open plain formed by
 the high-level tributaries of the Lora (which have also raised the Pishin
 valley to the north), 5500 ft. above the sea, is Quetta. The mass of
 twisted flexures, the curved wrinkles that end the Suliman system, is
 occupied by true Baluchis, the Marri and Bugti sections of the great Rind
 confederation of tribes owning an Arabic origin. There are no Pathans here.
-To the north of them are the Bozdars, another Rind clan; and these Rind
+To the north of them are the [[Bozdar|Bozdars]], another Rind clan; and these Rind
 tribes form the exception to the general rule of Pathan occupation of
 northern Baluchistan. Amongst the Pathans, the Kakars and Dumars of Pishin,
 with the Mando Khel of Zhob, are the most prominent tribal divisions.
@@ -204,10 +204,10 @@ striking into the Baluchistan mountain system. The point of this desert
 inlet receives the drainage of two local basins, the Bolan and the Nari.
 Both drain south-eastwards from the central Quetta-Pishin plateau and both
 have served for railway alignment. Being fed by tributaries which for the
-most part drain narrow valleys where gradual denudation has washed bare the
+most part drain narrow valleys where [[Gradual|gradual]] denudation has washed bare the
 flat-backed slopes of limestone ridges, and which consequently send down
 torrents of rapidly accumulating rainfall, both these central lines of
-water-course are liable to terrific floods. The drainage of the Bolan and
+water-course are liable to terrific [[Flood|floods]]. The drainage of the Bolan and
 Nari finally disappears in the irrigated flats of the alluvial bay (Kach
 Gandava), which extends 130 m. from the Indus to Sibi at the foot of the
 hills, and which offers (in spite of periodic Indus floods) an opportunity
@@ -220,7 +220,7 @@ summer, and drops below freezing-point in winter; where there is a deadly
 monotony of dust-coloured scenery for the greater part of the year, with
 the minimum of rain and the maximum of heat. The Quetta and Pishin plateau
 to which it leads is the central dominant water-divide of Baluchistan and
-the base of the Kandahar highway.
+the base of the [[Kandahar]] highway.
 
 [Sidenote: British.]
 
@@ -241,7 +241,7 @@ to vary in direct proportion to their [v.03 p.0292] distance from Quetta.
 No part of Baluchistan is beyond the reach of the political officer, but
 there are many parts where he is not often seen. The climate of British
 Baluchistan is dry and bracing--even exhilarating--but the extremes of
-temperature lead to the development of fever in very severe forms. On the
+temperature lead to the development of [[Fever|fever]] in very severe forms. On the
 whole it is favourable to European existence.
 
 [Sidenote: Southern.]
@@ -283,7 +283,7 @@ Mashkel. Directly south are the beginnings of the meridional arteries, the
 Hab, the Purali and the Hingol, which end in the Arabian Sea, leaving a
 space of mountainous seaboard (Makran) south of the Panjgur and west of the
 Hingol, which is watered (so far as it is watered at all) by the long
-lateral Kej river and several smaller mountain streams. Thus southern
+lateral [[Kej]] river and several smaller mountain streams. Thus southern
 Baluchistan comprises four hydrographical sections. First is the long
 extension from Kalat, southwards, of that inconceivably wild highland
 country which faces the desert of Sind, the foot of which forms the Indian
@@ -299,8 +299,8 @@ sandy plain. The one break, or gorge, which allows the Kej waters to pass,
 only forms a local gateway into a mass of impracticable hills. Secondly, to
 the west of this mountain wilderness, stretching upwards from the sea in a
 wedge form between the Brahui highlands and the group of towering peaks
-which enclose the Hingol river and abut on the sea at Malan, are the
-alluvial flats and delta of the Purali, forming the little province of Las
+which enclose the Hingol river and abut on the sea at [[Malan]], are the
+alluvial flats and [[Delta|delta]] of the Purali, forming the little province of Las
 Bela, the home of the Las Rajput. In this hot and thirsty corner of
 Baluchistan, ruled by the Jam or Cham, there is a fairly wide stretch of
 cultivation, nourished by the alluvial detritus of the Purali and well
@@ -315,7 +315,7 @@ cuts across the Lora hamun, leaving the frontier post of Chagai to
 Baluchistan, and from this point to the Malik Siah Koh it is based partly
 on the central mountainous water-divide already referred to, and partly
 runs in straight lines through the desert south of the salt swamps of the
-Gaud-i-Zirreh. It thus passes 50 m. to the south of the Helmund, entirely
+Gaud-i-Zirreh. It thus passes 50 m. to the south of the [[Helmund]], entirely
 shutting off that valley and the approach to Seistan between the Helmund
 and the Gaud-i-Zirreh (the only approach from the east in seasons of flood)
 from Baluchistan. But it leaves a connected line of desert route between
@@ -328,13 +328,13 @@ Quetta to Nushki.
 _Geology._[1]--The mountain ranges of Baluchistan consist chiefly of
 Cretaceous and Tertiary beds, which are thrown into a series of folds
 running approximately parallel to the mountain ridges. The folds are part
-of an extensive system arranged as if in a festoon hanging southwards
-between Peshawar and Mount Ararat, but with the outer folds looped up at
+of an extensive system arranged as if in a festoon [[Hanging|hanging]] southwards
+between Peshawar and Mount [[Ararat]], but with the outer folds looped up at
 Sibi so as to form the subsidiary festoon of the Suliman and Bugti Hills.
 Outside the folds lie the horizontal deposits of the Makran coast, and
 within them lies the stony desert of north-western Baluchistan. In the
 broader depressions between the mountain ridges the beds are said to be but
-little disturbed. Besides the Cretaceous and Tertiary beds, Jurassic rocks
+little disturbed. Besides the Cretaceous and Tertiary beds, [[Jurassic]] rocks
 are known to take a considerable part in the formation of the hills of
 British Baluchistan. Triassic beds lie along the south side of the upper
 Zhob, and _Fusulina_ limestone has also been found there. With the
@@ -342,7 +342,7 @@ exception of the later Tertiary beds the deposits are mostly marine. But in
 the upper Cretaceous and lower Tertiary, especially in north-western
 Baluchistan, there is an extensive development of volcanic tuffs and
 conglomerates, which are probably contemporaneous with the Deccan Traps of
-India. Great masses of syenite and diorite were intruded during the
+India. Great masses of syenite and [[Diorite|diorite]] were intruded during the
 Tertiary period, and within the curve of the folded belt a line of recent
 volcanic cones stretches from western Baluchistan into eastern Persia. In
 Baluchistan these volcanoes appear to be extinct; though the Koh-i-Tafdan,
@@ -374,7 +374,7 @@ Baluchistan within historic times, although the exact date is uncertain.
 The Naushirwanis appear to be identical with the Tahuki or Tahukani who are
 found in Perso-Baluchistan. (A place Taoce is mentioned by Nearchus, by
 Strabo and by Ptolemy.) They are a fine manly race of people, in many
-respects superior to their modern compatriots of Iran. Between the
+respects superior to their modern compatriots of [[Iran]]. Between the
 Naushirwanis of the Kharan desert and Mashkel, and the fish-eating
 population of the coast, enclosed in the narrow valleys of the Rakshan and
 Kej tributaries, or about the sources of the Hingol, are tribes
@@ -384,8 +384,8 @@ scattered through the whole country, and almost everywhere recognizable, is
 the underlying Persian population (Tajik), which is sometimes represented
 by a locally dominant tribe, but more frequently by the agricultural slave
 and bondsman of the general community. Such are the Dehwars or Dehkans, and
-the Durzadas (_Derusiaei_ of Herod. i. 125), who extend all through Makran,
-and, as slaves, are called Nakibs. The Arabs have naturally left their mark
+the Durzadas (_Derusiaei_ of [[Herod]]. i. 125), who extend all through Makran,
+and, as slaves, are called Nakibs. The [[Arabs]] have naturally left their mark
 most strongly impressed on the ethnography of Baluchistan. All Rind tribes
 claim to be of Arab origin and of Koraish extraction. As the Arabs occupied
 all southern Baluchistan and Seistan from a very early date, and finally
@@ -400,12 +400,12 @@ great wealth of architectural remains, which may be found to the west of
 the Indus as well as in the delta. One particular tribe (the Kalmats), who
 left their name on the Makran coast and subsequently dominated Bela and
 Sind, west of the Indus, for a considerable period, exhibit great power of
-artistic design in their sepulchral monuments. The Dravidian races
+artistic design in their sepulchral monuments. The [[Dravidian]] races
 (Brahuis), who are chiefly represented by the Kambaranis and Mingals or
 Mongals (the latter are doubtless of Tatar origin), spread through southern
 Baluchistan as well as the eastern hills, and are scattered irregularly
 through the mountain tracts south of Kharan. The ancient Oreitae mentioned
-by Arrian are probably represented by the tribe of Hot, who, as original
+by [[Arrian]] are probably represented by the tribe of Hot, who, as original
 masters of the soil, are exempt from taxation. The name Brahui is
 (according to Bellew) but a corruption of Ba-rohi (or "hillmen") in a
 language derived from Sanskrit which would represent the same term by
@@ -417,7 +417,7 @@ Bolédi, who give their name to the Bolida valley, a tributary of the Kej.
 The Bolédi were once the ruling race of southern Baluchistan, which was
 originally called Boledistan, and it seems possible that this may be the
 real origin of the much-disputed name of the country generally. Bola was an
-Assyrian term for Bael or Bel, the god of the Phoenicians and Druids. The
+Assyrian term for Bael or [[Bel]], the god of the Phoenicians and [[Druids]]. The
 Bolédi ruling family were in 1906 represented by but one living member, a
 lady, who was a government pensioner. The fast-diminishing Sajidis
 (Sajittae) and Saka (Sacae) are others of the more ancient races of
@@ -429,14 +429,14 @@ generations they remained Hindus; since then there has arisen amongst them
 a strange new sect called Zikari, with exceedingly loose notions of
 morality. The sect, however, appears to be fast merging into orthodox
 Mahommedanism. A Baluch (or rather Makran) race which deserves attention is
-that of the Gadaras, who once gave the name Gadrosia to Southern
+that of the [[Gadara|Gadaras]], who once gave the name Gadrosia to Southern
 Baluchistan. According to Tate the Gadaras are now represented by Sidi
 half-castes--those Makrani "boys" who are so well known in the mercantile
 marine as stokers and firemen. It seems unlikely that this modern admixture
 of Asiatic and African blood represents the "Asiatic Ethiopian" of
 Herodotus, which was more probably a direct connexion of the Himyaritic
 Arab builders of "bunds" and revetments who spread eastwards from Arabia.
-Bellew finds in the Gadara the Garuda (eagles) of Sanskrit, who were ever
+Bellew finds in the Gadara the Garuda ([[Eagle|eagles]]) of Sanskrit, who were ever
 in opposition to the Naga (snakes) of Scythic origin. Southern Baluchistan
 affords a most interesting field for the ethnographer. It has never yet
 been thoroughly explored in the interests of ethnographical science.
@@ -456,18 +456,18 @@ humanity. Taking the Rind Baluch as the type opposed to the Afridi Pathan,
 the Baluch is easier to deal with and to control than the Pathan, owing to
 his tribal organization and his freedom from bigoted fanaticism or blind
 allegiance to his priest. The Baluch is less turbulent, less treacherous,
-less bloodthirsty and less fanatical than the Pathan. His frame is shorter
+less bloodthirsty and less fanatical than the Pathan. His [[Frame|frame]] is shorter
 and more spare and wiry than that of his neighbour to the north, though
 generations have given to him too a bold and manly bearing. It would be
 difficult to match the stately dignity and imposing presence of a Baluch
 chief of the Marri or Bugti clans. His Semitic features are those of the
 Bedouin and he carries himself as straight and as loftily as any Arab
-gentleman. Frank and open in his manners, fairly truthful, faithful to his
+[[Gentleman|gentleman]]. [[Frank]] and open in his [[Manners|manners]], fairly truthful, faithful to his
 word, temperate and enduring, and looking upon courage as the highest
 virtue, the true Baluch of the Derajat is a pleasant man to have dealings
 with. As a revenue payer he is not so satisfactory, his want of industry
-and the pride which looks upon manual labour as degrading making him but a
-poor husbandman. He is an expert rider; horse-racing is his national
+and the pride which looks upon [[Manual|manual]] labour as degrading making him but a
+poor husbandman. He is an [[Expert|expert]] rider; horse-racing is his national
 amusement, and the Baluch breed of horses is celebrated throughout northern
 India. Like the Pathan he is a bandit by tradition and descent and makes a
 first-rate fighting man, but he rarely enlists in the Indian army. He is
@@ -492,7 +492,7 @@ or could be maintained at all but for the assistance of the British
 government. The Baluch is still essentially a robber and a raider (a trait
 which is common to all tribes), and the history of Baluchistan is nothing
 but a story of successful robberies, of lawless rapine and bloodshed, for
-which plunder and devastation were accounted a worthy and honourable
+which plunder and devastation were accounted a worthy and [[Honourable|honourable]]
 return.
 
 [Sidenote: Climate.]
@@ -504,7 +504,7 @@ desiccated. Possibly the ordinary processes of denudation and erosion,
 acting on those recent deposits which overlie the harder beds of the older
 series, may have much to say to these climatic changes, and the wanton
 destruction of forests may have assisted the efforts of nature; but it is
-difficult to understand the widespread desiccation of large areas of the
+difficult to understand the widespread [[Desiccation|desiccation]] of large areas of the
 Baluch highlands, where evidences of Arab irrigation works and of
 cultivation still attest to a once flourishing agricultural condition,
 without appealing to more rapidly destructive principles for the change.
@@ -514,7 +514,7 @@ in a relative rise of the ground, over the crests of anticlinal folds,
 within historic record. "Proof that this compression is still going on was
 given on 20th December 1892, when a severe earthquake resulted from the
 sudden yielding of the earth's crust along what appears to be an old line
-of fault, west of the Kawaja Amran range, whereby an adjustment took place
+of [[Fault|fault]], west of the Kawaja Amran range, whereby an adjustment took place
 indicated by a shortening of some 2½ ft. on the railway line which crossed
 the fault." Nor should the evidences of active volcanic agency afforded by
 the mud volcanoes of the coast be overlooked. It is probably to climatic
@@ -527,15 +527,15 @@ trade and agriculture must be attributed.
 The total area of Baluchistan is 132,315 sq. m. and its population in 1901
 was 914,551. The population is largely nomadic. The fact that so many as
 15,000 camels have been counted in the Bolan Pass during one month of the
-annual Brahui migration indicates the dimensions which the movement
+annual Brahui migration indicates the [[Dimension|dimensions]] which the movement
 assumes. The religion of the country is so overwhelmingly Mahommedan that
 out of every 100,000 inhabitants 94,403 are Mussulman, and only 4706
-Hindus, while the balance is made up by Christians, Sikhs and other
-denominations. Out of the total number 280 in the thousand are literates.
+Hindus, while the [[Balance|balance]] is made up by Christians, Sikhs and other
+[[Denomination|denominations]]. Out of the total number 280 in the thousand are literates.
 The chief languages spoken are vernaculars of Baluchistan, Pushtu, Panjabi,
 Urdu and Sindhi, The [v.03 p.0294] Baluchi language belongs to the Iranian
-branch of the Aryan subfamily of the Indo-European family. It is divided
-into two main dialects which are so different that speakers of the one are
+branch of the [[Aryan]] subfamily of the Indo-European family. It is divided
+into two main [[Dialect|dialects]] which are so different that speakers of the one are
 almost unintelligible to speakers of the other. These two dialects are
 separated by the belt of Brahui and Sindhi speakers who occupy the Sarawan
 and Jalawan hills, and Las Bela. Owing probably to the fact that Makran was
@@ -547,7 +547,7 @@ nearly all pure Baluchi, the remainder of the language being borrowed from
 Persian, Sindhi and Panjabi. There is no indigenous literature, but many
 specimens of poetry exist in which heroes and brave deeds are commemorated,
 and a good many of these have been collected from time to time. The
-philological classification of the Brahui dialect has been much disputed,
+philological [[Classification|classification]] of the Brahui dialect has been much disputed,
 but the latest enquiries, conducted by Dr G. A. Grierson, have resulted in
 his placing it among the Dravidian languages. It is remarkable to find in
 Baluchistan a Dravidian tongue, surrounded on all sides by Aryan languages,
@@ -589,7 +589,7 @@ The precise period at which the Brahuis gained the mastery cannot be
 accurately ascertained; but it was probably about two and a half centuries
 ago. The last raja of the Hindu dynasty found himself compelled to call for
 the assistance of the mountain shepherds, with their leader, Kambar, in
-order to check the encroachments of a horde of depredators, headed by an
+order to check the encroachments of a [[Horde|horde]] of depredators, headed by an
 Afghan chief, who infested the country and even threatened to attack the
 seat of government. Kambar successfully performed the service for which he
 had been engaged; but having in a few years quelled the robbers against
@@ -615,7 +615,7 @@ in a battle with the forces of the nawabs of Sind. He was succeeded by his
 eldest son, Haji Mahommed Khan, who abandoned himself to the most
 tyrannical and licentious way of life and alienated his subjects by
 oppressive taxation. In these circumstances Nasir Khan, the second son of
-Abdulla Khan, who had accompanied the victorious Nadir to Delhi, and
+Abdulla Khan, who had accompanied the victorious Nadir to [[Delhi]], and
 acquired the favour and confidence of that monarch, returned to Kalat and
 was hailed by the whole population as their deliverer. Finding that
 expostulation had no effect upon his brother, he one day entered his
@@ -631,7 +631,7 @@ Nasir Khan proved an active, politic and warlike prince. He took great
 pains to re-establish the internal government of all the provinces in his
 dominions, and improved and fortified the city of Kalat. On the death of
 Nadir Shah in 1747, he acknowledged the title of the king of Kabul, Ahmad
-Shah (Durani). In 1758 he declared himself entirely independent; upon which
+Shah ([[Durani]]). In 1758 he declared himself entirely independent; upon which
 Ahmad Shah despatched a force against him under one of his ministers. The
 khan, however, raised an army and totally routed the Afghan army. On
 receiving intelligence of this discomfiture, the king himself marched with
@@ -641,10 +641,10 @@ the victor, who invested the place with his whole army. The khan made a
 vigorous defence; and, after the royal troops had been foiled in their
 attempts to take the city by storm or surprise, a negotiation was proposed
 by the king which terminated in a treaty of peace. By this treaty it was
-stipulated that the king was to receive the cousin of Nasir Khan in
+stipulated that the king was to receive the [[Cousin|cousin]] of Nasir Khan in
 marriage; and that the khan was to pay no tribute, but only, when called
 upon, to furnish troops to assist the armies, for which he was to receive
-an allowance in cash equal to half their pay. The khan frequently
+an allowance in [[Cash|cash]] equal to half their pay. The khan frequently
 distinguished himself in the subsequent wars of Kabul; and, as a reward for
 his services, the king bestowed upon him several districts in perpetual and
 entire sovereignty. Having succeeded in quelling a dangerous rebellion
@@ -677,7 +677,7 @@ his object being to bring his master to ruin and to obtain for himself all
 power in the state, knowing that Mehrab's successor was only a child. How
 far he succeeded in his object history has shown. In the following year
 Kalat changed hands, the governor established by the British, together with
-a feeble garrison, being overpowered. At the close of the same year it was
+a feeble [[Garrison|garrison]], being overpowered. At the close of the same year it was
 reoccupied by the British under General Nott. In 1841 Nasir Khan II., the
 youthful son of the slain Mehrab Khan, was recognized by the British, who
 soon after evacuated the country.
@@ -686,19 +686,19 @@ From the conquest of Sind by the British troops under the command of
 General Sir Charles Napier in 1843 up to 1854 no diplomatic intercourse
 occurred worthy of note between the British and Baluch states. In the
 latter year, however, under the governor-generalship of the marquess of
-Dalhousie, General John Jacob, C.B., at the time political superintendent
+[[Dalhousie]], General John [[Jacob]], C.B., at the time political superintendent
 and commandant on the Sind frontier, was deputed to arrange and conclude a
 treaty between the Kalat state, then under the chieftainship of Nasir Khan
 and the British government. This treaty was executed on the 14th of May
 1854 and was to the following effect:--
 
     "That the former offensive and defensive treaty, concluded in 1841 by
-    Major Outram between the British government and Nasir Khan II., chief
+    [[Major]] Outram between the British government and Nasir Khan II., chief
     of Kalat, was to be annulled.
 
-    "That Nasir Khan II., his heirs and successors, bound themselves to
+    "That Nasir Khan II., his [[Heir|heirs]] and successors, bound themselves to
     oppose to the utmost all the enemies of the British government, and in
-    all cases to act in subordinate co-operation with that government, and
+    all cases to act in subordinate [[Co-Operation|co-operation]] with that government, and
     to enter into no negotiations with other states without its consent.
 
     "That should it be deemed necessary to station British troops in any
@@ -726,7 +726,7 @@ hands of the rebels, a British officer (Major Henry Green) was deputed, on
 the part of the British government, to reside as political agent with the
 Khan at Kalat and to assist him by his advice in maintaining control over
 his turbulent tribes. This duty was successfully performed until 1863,
-when, during the temporary absence of Major Malcolm Green, the then
+when, during the temporary absence of Major [[Malcolm]] Green, the then
 political agent, Khodadad Khan was, at the instigation of some of his
 principal chiefs, attacked while out riding by his cousin, Sher dil Khan,
 and severely wounded. Khodadad fled in safety to a residence close to the
@@ -746,7 +746,7 @@ the end of 1874.
 After this the chiefs of Las and Wad, the Marris and Bugtis, Kej and Makran
 all threw off their allegiance, and anarchy became so widespread that the
 British government again interfered. The treaty of 1854 was renewed in 1876
-by Lord Lytton (under Sandeman's advice), and the khan received substantial
+by Lord [[Lytton]] (under Sandeman's advice), and the khan received substantial
 aid from the government in the form of an annual subsidy of a lakh of
 rupees, instead of the Rs.50,000 previously assigned to him. The treaty of
 1854 was a treaty of alliance offensive and defensive. The treaty of 1876
@@ -793,8 +793,8 @@ has been increased lately by Rs.9000 as already stated. In 1899 the total
 imports of Kalat were valued at Rs.700,000, and the exports at Rs.505,000.
 
 AUTHORITIES.--The Seistan Boundary Report of 1873 by Sir F. Goldsmid;
-Floyer, _Unexplored Baluchistan_ (London, 1882); T. Thornton, _Life of
-Sandeman_ (London, 1896); G. P. Tate, _Kalat, a Memoir_ (Calcutta, 1896);
+[[Floyer]], _Unexplored Baluchistan_ (London, 1882); T. Thornton, _Life of
+Sandeman_ (London, 1896); G. P. Tate, _Kalat, a Memoir_ ([[Calcutta]], 1896);
 Sir T. Holdich, "Ethnographic and Historical Notes on Makran," Calcutta,
 1892 (_Survey Report_); "Antiquities, Ethnography, &c., of Las Bela and
 Makran," Calcutta, 1894 (_Survey Report_); "Ancient and Medieval Makran,"
@@ -808,7 +808,7 @@ vols., _Roy. As. Soc._ 1907).
 (T. H. H.*)
 
 [1] See W. T. Blanford, "Geological Notes on the Hills in the neighbourhood
-of the Sind and Punjab Frontier between Quetta and Dera Ghazi Khan," _Mem.
+of the Sind and Punjab Frontier between Quetta and [[Dera Ghazi Khan]]," _Mem.
 Geol. Surv. India_, vol. xx. pt. 2 (1883); E. Vredenburg, "A Geological
 Sketch of the Baluchistan Desert, and part of Eastern Persia," _Mem. Geol.
 Surv. India_, vol. xxxi. pt. 2 (1901); E. Vredenburg, "On the Occurrence of

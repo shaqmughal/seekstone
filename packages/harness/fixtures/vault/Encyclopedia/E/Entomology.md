@@ -8,20 +8,20 @@ tags: [africa, law]
 
 # Entomology
 
-ENTOMOLOGY (Gr. [Greek: entoma,] insects, and [Greek: logos], a
+ENTOMOLOGY (Gr. [Greek: entoma,] [[Insect|insects]], and [Greek: logos], a
 discourse), the science that treats of insects, i.e. of the animals
-included in the class Hexapoda of the great phylum (or sub-phylum)
+included in the class [[Hexapoda]] of the great phylum (or sub-phylum)
 Arthropoda. The term, however, is somewhat elastic in its current use,
-and students of centipedes and spiders are often reckoned among the
+and students of [[Centipede|centipedes]] and spiders are often reckoned among the
 entomologists. As the number of species of insects is believed to exceed
 that of all other animals taken together, it is no wonder that their
 study should form a special division of zoology with a distinctive name.
 
 Beetles (Scarabaei) are the subjects of some of the oldest sculptured
-works of the Egyptians, and references to locusts, bees and ants are
+works of the Egyptians, and references to locusts, [[Bee|bees]] and ants are
 familiar to all readers of the Hebrew scriptures. The interest of
 insects to the eastern races was, however, economic, religious or moral.
-The science of insects began with Aristotle, who included in a class
+The science of insects began with [[Aristotle]], who included in a class
 "Entoma" the true insects, the arachnids and the myriapods, the
 Crustacea forming another class ("Malacostraca") of the "Anaema" or
 "bloodless animals." For nearly 2000 years the few writers who dealt
@@ -42,8 +42,8 @@ centuries. Of these the most famous are M. Malpighi's treatise on the
 silkworm (1669) and J. Swammerdam's _Biblia naturae_, issued in 1737,
 fifty years after its author's death, and containing observations on the
 structure and life-history of a series of insect types. Aristotle and
-Harvey (_De generatione animalium_, 1651) had considered the insect larva
-as a prematurely hatched embryo and the pupa as a second egg. Swammerdam,
+[[Harvey]] (_De generatione animalium_, 1651) had considered the insect larva
+as a prematurely hatched embryo and the pupa as a second [[Egg|egg]]. Swammerdam,
 however, showed the presence under the larval cuticle of the pupal
 structures. His only unfortunate contribution to entomology--indeed to
 zoology generally--was his theory of pre-formation, which taught the
@@ -54,27 +54,27 @@ from putrid flesh, and had shown that they can only develop from the eggs
 of flies.
 
 Meanwhile the English naturalist, John Ray, was studying the
-classification of animals; he published, in 1705, his _Methodus
+[[Classification|classification]] of animals; he published, in 1705, his _Methodus
 insectorum_, in which the nature of the metamorphosis received due
 weight. Ray's "Insects" comprised the Arachnids, Crustacea, Myriapoda
-and Annelida, in addition to the Hexapods. Ray was the first to
+and [[Annelida]], in addition to the Hexapods. Ray was the first to
 formulate that definite conception of the species which was adopted by
 Linnaeus and emphasized by his binominal nomenclature. In 1735 appeared
 the first edition of the _Systema naturae_ of Linnaeus, in which the
 "Insecta" form a group equivalent to the Arthropoda of modern
 zoologists, and are divided into seven orders, whose names--Coleoptera,
-Diptera, Lepidoptera, &c., founded on the nature of the wings--have
+[[Diptera]], [[Lepidoptera]], &c., founded on the nature of the wings--have
 become firmly established. The fascinating subjects of insect bionomics
 and life-history were dealt with in the classical memoirs (1734-1742) of
 the Frenchman R.A.F. de Reaumur, and (1752-1778) of the Swede C. de
-Geer. The freshness, the air of leisure, the enthusiasm of discovery
+Geer. The freshness, the air of leisure, the [[Enthusiasm|enthusiasm]] of discovery
 that mark the work of these old writers have lessons for the modern
 professional zoologist, who at times feels burdened with the accumulated
 knowledge of a century and a half. From the end of the 18th century
 until the present day, it is only possible to enumerate the outstanding
 features in the progress of entomology. In the realm of classification,
-the work of Linnaeus was continued in Denmark by J.C. Fabricius
-(_Systema entomologica_, 1775), and extended in France by G.P.B. Lamarck
+the work of Linnaeus was continued in [[Denmark]] by J.C. [[Fabricius]]
+(_Systema entomologica_, 1775), and extended in France by G.P.B. [[Lamarck]]
 (_Animaux sans vertebres_, 1801) and G. Cuvier (_Lecons d'anatomie
 comparee_, 1800-1805), and in England by W.E. Leach (_Trans. Linn. Soc._
 xi., 1815). These three authors definitely separated the Arachnida,
@@ -85,7 +85,7 @@ of to-day.
 
 In the anatomical field the work of Malpighi and Swammerdam was at first
 continued most energetically by French students. P. Lyonnet had
-published in 1760 his elaborate monograph on the goat-moth caterpillar,
+published in 1760 his elaborate monograph on the goat-moth [[Caterpillar|caterpillar]],
 and H.E. Strauss-Durckheim in 1828 issued his great treatise on the
 cockchafer. But the name of J.C.L. de Savigny, who (_Mem. sur les
 animaux sans vertebres_, 1816) established the homology of the jaws of
@@ -113,31 +113,31 @@ number of collectors; and these "Aurelians"--regarded as harmless
 lunatics by most of their friends--were the forerunners of the
 systematic students of later times. While the insect fauna of European
 countries was investigated by local naturalists, the spread of
-geographical exploration brought ever-increasing stores of exotic
+geographical exploration brought ever-increasing stores of [[Exotic|exotic]]
 material to the great museums, and specialization--either in the fauna
 of a small district or in the world-wide study of an order or a group of
 families--became constantly more marked in systematic work. As examples
 may be instanced the studies of A.H. Haliday and H. Loew on the European
 Diptera, of John Curtis on British insects, of H.T. Stainton and O.
 Staudinger on the European Lepidoptera, of R. M'Lachlan on the European
-and of H.A. Hagen on the North American Neuroptera, of D. Sharp on the
-_Dyticidae_ and other families of Coleoptera of the whole world.
+and of H.A. [[Hagen]] on the North American Neuroptera, of D. Sharp on the
+_Dyticidae_ and other families of [[Coleoptera]] of the whole world.
 
 The embryology of insects is entirely a study of the last century. C.
 Bonnet indeed observed in 1745 the virgin-reproduction of Aphids, but it
 was not until 1842 that R.A. von Kolliker described the formation of the
 blastoderm in the egg of the midge _Chironomus_. Later A. Weismann
 (1863-1864) traced details of the growth of embryo and of pupa among the
-Diptera, and A. Kovalevsky in 1871 first described the formation of the
+Diptera, and A. [[Kovalevsky]] in 1871 first described the formation of the
 germinal layers in insects. Most of the recent work on the embryology of
 insects has been done in Germany or the United States, and among
 numerous students V. Graber, K. Heider, W.M. Wheeler and R. Heymons may
 be especially mentioned.
 
-The work of de Reaumur and de Geer on the bionomics and life-history of
+The work of de Reaumur and [[De Geer|de Geer]] on the bionomics and life-history of
 insects has been continued by numerous observers, among whom may be
-especially mentioned in France J.H. Fabre and C. Janet, in England W.
-Kirby and W. Spence, J. Lubbock (Lord Avebury) and L.C. Miall, and in
+especially mentioned in France J.H. [[Fabre]] and C. [[Janet]], in England W.
+[[Kirby]] and W. Spence, J. Lubbock (Lord Avebury) and L.C. Miall, and in
 the United States C.V. Riley. The last-named may be considered the
 founder of the strong company of entomological workers now labouring in
 America. Though Riley was especially interested in the bearings of
@@ -149,7 +149,7 @@ After the publication of C. Darwin's _Origin of Species_ (1859) a fresh
 impetus was given to entomology as to all branches of zoology, and it
 became generally recognized that insects form a group convenient and
 hopeful for the elucidation of certain problems of animal evolution. The
-writings of Darwin himself and of A.R. Wallace (both at one time active
+writings of [[Darwin]] himself and of A.R. Wallace (both at one time active
 entomological collectors) contain much evidence drawn from insects in
 favour of descent with modification. The phylogeny of insects has since
 been discussed by F. Brauer, A.S. Packard and many others; mimicry and
@@ -185,7 +185,7 @@ independent subclass, and to follow Claus in calling it the Leptostraca,
 or to introduce it among the Malacostraca as the Nebaliacea, or with
 Packard and Sars to make it an entomostracan subdivision under the title
 Phyllocarida. At present it comprises the single family _Nebaliidae_.
-The bivalved carapace has a jointed rostrum, and covers only the front
+The bivalved [[Carapace|carapace]] has a jointed rostrum, and covers only the front
 part of the body, to which it is only attached quite in front, the
 valve-like sides being under control of an adductor muscle. The eyes are
 stalked and movable. The first antennae have a lamellar appendage at the
@@ -234,7 +234,7 @@ reserved.
   their stumpy little tails by having nineteen instead of the normal
   eleven pairs of branchial feet, consist exclusively of _Polyartemia
   forcipata_ (Fischer, 1851). This species from the high north of Europe
-  and Asia carries green eggs, and above them a bright pattern in
+  and Asia carries green eggs, and above them a [[Bright|bright]] pattern in
   ultramarine (Sars, 1896, 1897). The _Thamnocephalidae_ have likewise
   but a single species, _Thamnocephalus platyurus_ (Packard, 1877),
   which justifies its title "bushy-head of the broad tail" by a
@@ -247,7 +247,7 @@ reserved.
   remaining family, the _Branchipodidae_, includes eight genera. In the
   long familiar _Branchipus_, _Chirocephalus_ and _Streptocephalus_ the
   males have frontal appendages, but these are wanting in the
-  "brine-shrimp" _Artemia_, and the same want helps to distinguish
+  "brine-shrimp" _Artemia_, and the same want [[Helps|helps]] to distinguish
   _Branchinecta_ (Verrill, 1869) from the old genus _Branchipus_. Of
   _Branchiopsyllus_ (Sars, 1897) the male is not yet known, but in his
   genera of the same date, the Siberian _Artemiopsis_ and the South
@@ -271,7 +271,7 @@ reserved.
   feet, sometimes sixty-three pairs, exceeding the number of segments to
   which they are attached, the first pair are more or less unlike the
   rest, and in the female the eleventh have the epipod and exopod
-  (flabellum and sub-apical lobe of Lankester) modified to form an
+  (flabellum and sub-apical [[Lobe|lobe]] of Lankester) modified to form an
   ovisac. Development begins with a nauplius stage. Males are very rare.
   The single family _Apodidae_ contains only two genera, _Apus_ and its
   very near neighbour _Lepidurus_. _Apus australiensis_ (Spencer and
@@ -297,7 +297,7 @@ reserved.
   genera. Of these _Limnadella_ (Girard, 1855) has a single eye. It
   remains rather obscure, though the type species originally "was
   discovered in great abundance in a roadside puddle subject to
-  desiccation." _Limnadia_ (Brongniart, 1820) is supposed to consist of
+  [[Desiccation|desiccation]]." _Limnadia_ ([[Brongniart]], 1820) is supposed to consist of
   species exclusively parthenogenetic. But when asked to believe that
   males never occur among these amazons, one cannot but remember how
   hard it is to prove a negative. (b) The _Lynceidae_, with not more
@@ -311,21 +311,21 @@ reserved.
   _Estheria_ (Ruppell, 1837) was instituted for the species
   _dahalacensis_, which Sars includes in his genus _Leptestheria_
   (1898); but _Estheria_ was already appropriated, and of its synonyms
-  _Cyzicus_ (Audouin, 1837) is lost for vagueness, while _Isaura_ (Joly,
+  _Cyzicus_ ([[Audouin]], 1837) is lost for vagueness, while _Isaura_ (Joly,
   1842) is also appropriated, so that _Leptestheria_ becomes the name of
   the typical genus, and determines the name of the family. (d)
   _Cyclestheriidae_. This family consists of the single species
-  _Cyclestheria hislopi_ (Baird), reported from India, Ceylon, Celebes,
-  Australia, East Africa and Brazil. Sars (1887) having had the
+  _Cyclestheria hislopi_ ([[Baird]]), reported from India, Ceylon, Celebes,
+  [[Australia]], East Africa and Brazil. Sars (1887) having had the
   opportunity of raising it from dried Australian mud, found that,
   unlike other phyllopods, but like the Cladocera, the parent keeps its
   brood within the shell until their full development.
 
 _Cladocera._--In this suborder the head is more or less distinct, the
 rest of the body being in general laterally compressed and covered by a
-bivalved test. The title "branching horns" alludes to the second
+bivalved test. The title "branching [[Horn|horns]]" alludes to the second
 antennae, which are two-branched except in the females of _Holopedium_,
-with each branch setiferous, composed of only two to four joints. The
+with each branch setiferous, composed of only two to four [[Joints|joints]]. The
 mandibles are without palp. The pairs of feet are four to six. The eye
 is single, and in addition to the eye there is often an "eye-spot,"
 _Monospilus_ being unique in having the eye-spot alone and no eye, while
@@ -351,7 +351,7 @@ protoephippium. In _Leydigia_ he has recently found a structure almost
 as complex as that of the _Daphniidae_. In some families the resting
 eggs escape into the water without special covering. Only the embryos of
 _Leptodora_ are known to hatch out in the nauplius stage. _Penilia_
-(Dana, 1849) is perhaps the only exclusively marine genus. The great
+([[Dana]], 1849) is perhaps the only exclusively marine genus. The great
 majority of the Cladocera belong to fresh water, but their adaptability
 is large, since _Moina rectirostris_ (O.F. Muller) can equally enjoy a
 pond at Blackheath, and near Odessa live in water twice as salt as that
@@ -363,7 +363,7 @@ colossal.
   for the most part concealed by the carapace, is subdivided into two
   tribes, the Ctenopoda, or "comb-feet," in which the six pairs of
   similar feet, all branchial and nonprehensile, are furnished with
-  setae arranged like the teeth of a comb, and the Anomopoda, or
+  setae arranged like the teeth of a [[Comb|comb]], and the Anomopoda, or
   "variety-feet," in which the front feet differ from the rest by being
   more or less prehensile, without branchial laminae.
 
@@ -378,7 +378,7 @@ colossal.
   he had not met with a single male.
 
   The Anomopoda are arranged in four families, all but one very
-  extensive. (a) _Daphniidae_. Of the seven genera, the cosmopolitan
+  extensive. (a) _Daphniidae_. Of the seven genera, the [[Cosmopolitan|cosmopolitan]]
   _Daphnia_ contains about 100 species and varieties, of which Thomas
   Scott (1899) observes that "scarcely any of the several characters
   that have at one time or another been selected as affording a means
@@ -409,7 +409,7 @@ colossal.
   Arthropoda. (d) _Chydoridae._ This family, so commonly called
   _Lynceidae_, contains a large number of genera, among which one may
   usually search in vain, and rightly so, for the genus _Lynceus_. The
-  key to the riddle is to be found in the _Encyclopaedia Britannica_ for
+  [[Key|key]] to the riddle is to be found in the _Encyclopaedia Britannica_ for
   1816. There, as above explained, Leach began the subdivision of
   Muller's too comprehensive genus, the result being that _Lynceus_
   belongs to the Phyllopoda, and _Chydorus_ (Leach, 1816) properly gives
@@ -419,7 +419,7 @@ colossal.
   macrops_ (Sars, 1901), from South America and Ceylon, has a very large
   eye and an eye-spot fully as large, but it is a very small creature,
   odd in its behaviour, moving by jumps at the very surface of the
-  water. "To the naked eye it looked like a little black atom darting
+  water. "To the naked eye it looked like a little black [[Atom|atom]] darting
   about in a most wonderful manner."
 
   [Illustration: FIG. 1.--_Dolops ranarum_ (Stuhlmann).]
@@ -431,7 +431,7 @@ colossal.
   such a process. To the _Polyphemidae_, the well-known family of the
   former tribe, Sars in 1897 added two remarkable genera, _Cercopagis_,
   meaning "tail with a sling," and _Apagis_, "without a sling," for
-  seven species from the Sea of Azov. The Haplopoda likewise have but a
+  seven species from the Sea of [[Azov]]. The Haplopoda likewise have but a
   single family, the _Leptodoridae_, and this has but the single genus
   _Leptodora_ (Lilljeborg, 1861). Dr Richard (1895, 1896) gives a
   Cladoceran bibliography of 601 references.
@@ -447,8 +447,8 @@ agree with those of the Phyllopoda. The family are described by Claus as
 fishes or frogs, and swim about in freedom for a considerable period.
 The long-known _Argulus_ (O.F. Muller) has the second maxillae
 transformed into suckers, but in _Dolops_ (Audouin, 1837) (fig. 1), the
-name of which supersedes the more familiar _Gyropeltis_ (Heller, 1857),
-these effect attachment by ending in strong hooks (Bouvier, 1897). A
+name of which supersedes the more familiar _Gyropeltis_ ([[Heller]], 1857),
+these effect [[Attachment|attachment]] by ending in strong hooks (Bouvier, 1897). A
 third genus, _Chonopeltis_ (Thiele, 1900), has suckers, but has lost its
 first antennae, at least in the female.
 
@@ -470,7 +470,7 @@ Podocopa, which have none.
   _Cypridinidae, Halocypridae_, and the heartless _Polycopidae_, which
   constituted the tribe Cladocopa of Sars. From the first of these Brady
   and Norman distinguish the Asteropidae (fig. 3), remarkable for seven
-  pairs of long branchial leaves which fold over the hinder extremity of
+  pairs of long branchial leaves which [[Fold|fold]] over the hinder extremity of
   the animal, and the _Sarsiellidae_, still somewhat obscure, besides
   adding the _Rutidermatidae_, knowledge of which is based on skilful
   maceration of minute and long-dried specimens. The _Halocypridae_ are
@@ -514,7 +514,7 @@ penetrate underground, nor what are the limits of their activity between
 the floor and the surface of aquatic expanses, fresh or saline. In
 individual size they have never been important, and of living forms the
 largest is one of recent discovery, _Crossophorus africanus_, a
-Cypridinid about three-fifths of an inch (15.5 mm.) long; but a length
+Cypridinid about three-fifths of an [[Inch|inch]] (15.5 mm.) long; but a length
 of one or two millimetres is more common, and it may descend to the
 seventy-fifth of an inch. By multitude they have been, and still are,
 extremely important.
@@ -555,7 +555,7 @@ extremely important.
   second maxillae is sufficiently shown by the fact that G.W. Muller,
   our leading authority, adopts the confusing plan of calling them
   second maxillae in the _Cypridinidae_ (including _Asteropidae_),
-  maxillipeds in the _Halocypridae_ and _Cyprididae_, and first legs in
+  maxillipeds in the _Halocypridae_ and _Cyprididae_, and first [[Leg|legs]] in
   the _Bairdiidae_, _Cytheridae_, _Polycopidae_ and _Cytherellidae_, so
   that in his fine monograph he uses the term first leg in two quite
   different senses. The first legs, meaning thereby the sixth pair of
@@ -620,7 +620,7 @@ those which in adult life are wholly parasitic and then sometimes
 grotesquely unlike the normal standard. Giesbrecht and Hansen have shown
 that the mouth-organs consist of mandibles, first and second maxillae
 and maxillipeds; and Claus himself relinquished his long-maintained
-hypothesis that the last two pairs were the separated exopods and
+[[Hypothesis|hypothesis]] that the last two pairs were the separated exopods and
 endopods of a single pair of appendages. Thorell's classification (1859)
 of Gnathostoma, Poecilostoma, Siphonostoma, based on the mouth-organs,
 was long followed, though almost at the outset shown by Claus to depend
@@ -680,7 +680,7 @@ out as follows:--
   pointed out, _Diaptomus_ (Westwood, 1836) is the oldest genus in it.
   Of 177 species valid in the family Giesbrecht and Schmeil assign 67 to
   _Diaptomus_. In regard to one of its species Dr Brady says: "In one
-  instance, at least (Talkin Tarn, Cumberland) I have seen the net come
+  instance, at least (Talkin Tarn, [[Cumberland]]) I have seen the net come
   up from a depth of 6 or 8 ft. below the surface with a dense mass
   consisting almost entirely of _D. gracilis_." The length of this
   net-filling species is about a twentieth of an inch.
@@ -707,7 +707,7 @@ out as follows:--
   of holding her being transferred to the male maxillipeds, while the
   genital openings of the female are dorsal, though at times strongly
   lateral. In 1899, with a view to the many modifications exhibited by
-  parasitic and semi-parasitic species, the definitions, stripped of a
+  parasitic and semi-parasitic species, the [[Definition|definitions]], stripped of a
   too hampering precision, took a different form: (a) Ampharthrandria.
   "Swimming Podoplea with geniculating first antennae in the male sex,
   and descendants of such; first antennae in female and male almost
@@ -737,7 +737,7 @@ out as follows:--
   _Amymoninae_, _Harpacticinae_, _Idyinae_, _Canthocamptinae_ (for which
   _Canthocampinae_ should be read), and _Nannopinae_, adding
   _Stenheliinae_ (Brady) without distinctive characters for it. The
-  _Ascidicolidae_ have variable characters, showing a gradual adaptation
+  _Ascidicolidae_ have variable characters, showing a [[Gradual|gradual]] adaptation
   to parasitic life in Tunicates. Giesbrecht (1900) considers Canu quite
   right in grouping together in this single family those parasites of
   ascidians, simple and compound, which had been previously distributed
@@ -751,7 +751,7 @@ out as follows:--
   semi-parasitic life on echinoderms, sponges, &c., imbibing their food.
   Giesbrecht, displacing the older name _Ascomyzontidae_, assigns to
   this family 21 genera in five subfamilies, and suggests that the
-  long-known but still puzzling _Nicothoe_ from the gills of the lobster
+  long-known but still puzzling _Nicothoe_ from the [[Gill|gills]] of the lobster
   might be placed in an additional subfamily, or be made the
   representative of a closely related family. The _Dichelestiidae_, on
   account of their sometimes many-jointed first antennae, are referred
@@ -773,12 +773,12 @@ out as follows:--
   Monstrilloida, Caligoida, Lernaeoida.
 
   AUTHORITIES.--(The earlier memoirs of importance are cited in
-  Giesbrecht's _Monograph of Naples_, 1892); Canu, "Hersiliidae," _Bull.
+  Giesbrecht's _Monograph of Naples_, 1892); Canu, "Hersiliidae," _[[Bull]].
   Sci. France belgique_, ser. 3, vol. i. p. 402 (1888); and _Les
   Copepodes du Boulonnais_ (1892); Cuenot, _Rev. biol. Nord France_,
-  vol. v. (1892); Giesbrecht, "Pelag. Copepoden." _F. u. fl. des Golfes
+  vol. v. (1892); Giesbrecht, "Pelag. Copepoden." _F. u. fl. des [[Golf|Golfes]]
   von Neapel_ (Mon. 19, 1892); Hansen, _Entomol. Med._ vol. iii. pt. 5
-  (1892); I.C. Thompson, "Copepoda of Liverpool Bay," _Trans. Liv. Biol.
+  (1892); I.C. Thompson, "Copepoda of [[Liverpool]] Bay," _Trans. Liv. Biol.
   Soc._ vol. vii. (1893); Schmeil, "Deutschlands Copepoden,"
   _Bibliotheca zoologica_ (1892-1897); Brady, _Journ. R. Micr. Soc._ p.
   168 (1894); T. Scott, "Entomostraca from the Gulf of Guinea," _Trans.
@@ -790,10 +790,10 @@ out as follows:--
   "Copepoda gymnoplea," _Das Tierreich_ (1898); Giesbrecht,
   "Asterocheriden," _F. u. fl. Neapel_ (Mon. 25, 1899); Bassett-Smith,
   "Copepoda on Fishes," _Proc. Zool. Soc. London_, p. 438 (1899); Brady,
-  _Trans. Zool. Soc. London_, vol. xv. pt. 2, p. 31 (1899); Sars, _Arch.
+  _Trans. Zool. Soc. London_, vol. xv. pt. 2, p. 31 (1899); Sars, _[[Arch]].
   Naturv._ vol. xxi. No. 2 (1899); Giesbrecht, _Mitteil. Zool. Stat.
   Neapel_, vol. xiv. p. 39 (1900); Scott, "Fish Parasites," _Scottish
-  Fishery Board_, 18th Ann. Rep. p. 144 (1900); Stebbing, _Willey's
+  [[Fishery]] Board_, 18th Ann. Rep. p. 144 (1900); Stebbing, _Willey's
   Zool. Results_, pt. 5, p. 664 (1900); Embleton, _Journ. Linn. Soc.
   London_, vol. xxviii. p. 211 (1901); Sars, _Crustacea of Norway_, vol.
   iv. (1901).     (T. R. R. S.)

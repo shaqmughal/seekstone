@@ -2,11 +2,11 @@
 
 LUDINGTON, a city and the county-seat of Mason county, Michigan, U.S.A.,
 on Lake Michigan, at the mouth of the Marquette river, about 85 m. N.W.
-of Grand Rapids. Pop. (1900) 7166 (2259 foreign-born); (1904, state
+of [[Grand Rapids]]. Pop. (1900) 7166 (2259 foreign-born); (1904, state
 census) 7259; (1910) 9132. It is served by the Père Marquette, and the
-Ludington and Northern railways, and by steamboat lines to Chicago,
-Milwaukee and other lake ports. To Manitowoc, Milwaukee, Kewanee and Two
-Rivers, Wisconsin, on the W. shore of Lake Michigan, cars, especially
+Ludington and Northern railways, and by steamboat lines to [[Chicago]],
+Milwaukee and other lake ports. To Manitowoc, Milwaukee, [[Kewanee]] and Two
+Rivers, Wisconsin, on the W. shore of Lake Michigan, [[Car|cars]], especially
 those of the Père Marquette railway, are ferried from here. Ludington
 was formerly well known as a lumber centre, but this industry has
 greatly declined. There are various manufactures, and the city has a

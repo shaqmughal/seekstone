@@ -8,7 +8,7 @@ coast of Mexico, and the port is a principal outlet for the products of
 the large state of Sonora. The town stands on a small, arid plain,
 nearly shut in by mountains, and has a very hot, dry climate. It is
 connected with the railways of the United States by a branch of the
-Southern Pacific from Benson, Arizona, and is 230 m. S. by W. of the
+Southern Pacific from [[Benson]], Arizona, and is 230 m. S. by W. of the
 frontier town of Nogales, where that line enters Mexico. The exports
 include gold, silver, hides and pearls.
 

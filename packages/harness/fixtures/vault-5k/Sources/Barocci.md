@@ -14,7 +14,7 @@ travelled to Rome, where he painted in fresco and was warmly commended by
 Michelangelo. He then returned to Urbino, where, with the exception of some
 short visits to Rome, he continued to reside till his death. He acquired
 great fame by his paintings of religious subjects, in the style of which he
-to some extent imitated Correggio. His own followers were very numerous,
+to some extent imitated [[Correggio]]. His own followers were very numerous,
 but according to Lanzi (_Hist. of Painting_) carried their master's
 peculiarities to excess. Barocci also etched from his own designs a few
 prints, which are highly finished, and executed with great softness and

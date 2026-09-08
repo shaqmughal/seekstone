@@ -7,10 +7,10 @@ type: reference
 
 # Low Sunday
 
-LOW SUNDAY, the first Sunday after Easter, so called because of its
+LOW SUNDAY, the first Sunday after [[Easter]], so called because of its
 proximity to the "highest" of all feasts and Sundays, Easter. It was
 also known formerly as White Sunday, being still officially termed by
-the Roman Catholic Church _Dominica in albis_, "Sunday in white
+the Roman Catholic Church _[[Dominica]] in albis_, "Sunday in white
 garments," in allusion to the white garments anciently worn on this day
 by those who had been baptized and received into the Church just before
 Easter. Alb Sunday, Quasimodo and, in the Greek Church, Antipascha, and

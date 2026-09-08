@@ -8,12 +8,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Irving"
 # Irving
 
 IRVING, EDWARD (1792-1834), Scottish church divine, generally regarded
-as the founder of the "Catholic Apostolic Church" (q.v.), was born at
-Annan, Dumfriesshire, on the 4th of August 1792. By his father's side,
+as the founder of the "[[Catholic Apostolic Church]]" (q.v.), was born at
+[[Annan]], Dumfriesshire, on the 4th of August 1792. By his father's side,
 who followed the occupation of a tanner, he was descended from a family
 long known in the district, and the purity of whose Scottish lineage had
 been tinged by alliance with French Protestant refugees; but it was from
-his mother's race, the Lowthers, farmers or small proprietors in
+his mother's race, the Lowthers, [[Farmer|farmers]] or small proprietors in
 Annandale, that he seems to have derived the most distinctive features
 of his personality. The first stage of his education was passed at a
 school kept by "Peggy Paine," a relation of the well-known author of the
@@ -21,9 +21,9 @@ _Age of Reason_, after which he entered the Annan academy, taught by Mr
 Adam Hope, of whom there is a graphic sketch in the _Reminiscences_ of
 Thomas Carlyle. At the age of thirteen he entered the university of
 Edinburgh. In 1809 he graduated M.A.; and in 1810, on the recommendation
-of Sir John Leslie, he was chosen master of an academy newly established
-at Haddington, where he became the tutor of Jane Welsh, afterwards
-famous as Mrs Carlyle. He became engaged in 1812 to Isabella Martin,
+of Sir John [[Leslie]], he was chosen master of an academy newly established
+at [[Haddington]], where he became the tutor of Jane Welsh, afterwards
+famous as Mrs Carlyle. He became engaged in 1812 to [[Isabella]] [[Martin]],
 whom in 1823 he married; but it may be at once stated here that
 meanwhile he gradually fell in love with Jane Welsh, and she with him.
 He tried to get out of his engagement with Miss Martin, but was
@@ -34,9 +34,9 @@ introduced Carlyle to her.
 His appointment at Haddington he exchanged for a similar one at
 Kirkcaldy in 1812. Completing his divinity studies by a series of
 partial sessions, he was "licensed" to preach in June 1815, but
-continued to discharge his scholastic duties for three years. He devoted
+continued to [[Discharge|discharge]] his scholastic duties for three years. He devoted
 his leisure, not only to mathematical and physical science, but to a
-course of reading in English literature, his bias towards the antique in
+course of reading in English literature, his [[Bias|bias]] towards the antique in
 sentiment and style being strengthened by a perusal of the older
 classics, among whom Richard Hooker was his favourite author. At the
 same time his love of the marvellous found gratification in the wonders
@@ -52,9 +52,9 @@ method of address seems to have gained him the qualified approval of
 certain dignitaries of the church, the prospect of his obtaining a
 settled charge seemed as remote as ever, and he was meditating a
 missionary tour in Persia when his departure was arrested by steps taken
-by Dr Chalmers, which, after considerable delay, resulted, in October
+by Dr [[Chalmers]], which, after considerable delay, resulted, in October
 1819, in Irving being appointed his assistant and missionary in St
-John's parish, Glasgow. Except in the case of a select few, Irving's
+John's parish, [[Glasgow]]. Except in the case of a select few, Irving's
 preaching awakened little interest among the congregation of Chalmers,
 Chalmers himself, with no partiality for its bravuras and flourishes,
 comparing it to "Italian music, appreciated only by connoisseurs"; but
@@ -67,9 +67,9 @@ magic of his personality found opportunity to reveal itself in close and
 homely intercourse. This half-success in a subordinate sphere was,
 however, so far from coinciding with his aspirations that he had again,
 in the winter of 1821, begun to turn his attention towards missionary
-labour in the East, when the possibility of fulfilling the dream of his
+labour in the East, when the possibility of fulfilling the [[Dream|dream]] of his
 life was suddenly revealed to him by an invitation from the Caledonian
-church, Hatton Garden, London, to "make trial and proof" of his gifts
+church, [[Hatton]] Garden, London, to "make trial and proof" of his gifts
 before the "remnant of the congregation which held together." Over that
 charge he was ordained in July 1822. Some years previously he had
 expressed his conviction that "one of the chief needs of the age was to
@@ -78,7 +78,7 @@ literature, of sentiment, of policy and of rank, who are content in
 their several idolatries to do without piety to God and love to Him whom
 He hath sent"; and, with an abruptness which must have produced on him
 at first an effect almost astounding, he now had the satisfaction of
-beholding these various votaries thronging to hear from his lips the
+beholding these various votaries thronging to hear from his [[Lip|lips]] the
 words of wisdom which would deliver them from their several idolatries
 and remodel their lives according to the fashion of apostolic times.
 
@@ -91,9 +91,9 @@ form, the dark and melancholy beauty of his countenance, rather rendered
 piquant than impaired by an obliquity of vision, produced an imposing
 impression even before his deep and powerful voice had given utterance
 to its melodious thunders; and harsh and superficial half-truths
-enunciated with surpassing ease and grace of gesture, and not only with
+enunciated with surpassing ease and [[Grace|grace]] of gesture, and not only with
 an air of absolute conviction but with the authority of a prophetic
-messenger, in tones whose magical fascination was inspired by an
+messenger, in tones whose magical [[Fascination|fascination]] was inspired by an
 earnestness beyond all imitation of art, acquired a plausibility and
 importance which, at least while the orator spoke, made his audience
 entirely forgetful of their preconceived objections against them. The
@@ -104,7 +104,7 @@ he thought, for "teaching imaginative men, and political men, and legal
 men, and scientific men who bear the world in hand"; and he did not
 attempt to win their attention to abstract and worn-out theological
 arguments, but discussed the opinions, the poetry, the politics, the
-manners and customs of the time, and this not with philosophical
+[[Manners|manners]] and customs of the time, and this not with philosophical
 comprehensiveness, not in terms of warm eulogy or measured blame, but
 of severe satire varied by fierce denunciation, and with a specific
 minuteness which was concerned primarily with individuals. A fire of
@@ -122,10 +122,10 @@ the failure of the commission he had undertaken was sooner or later
 inevitable; and shortly after the opening of his new church in Regent
 Square in 1827, he found that "fashion had taken its departure," and the
 church, "though always well filled," was "no longer crowded." By this
-desertion his self-esteem, one of his strongest passions, though
+[[Desertion|desertion]] his self-esteem, one of his strongest passions, though
 curiously united with singular sincerity and humility, was doubtless
 hurt to the quick; but the wound inflicted was of a deeper and deadlier
-kind, for it confirmed him finally in his despair of the world's gradual
+kind, for it confirmed him finally in his despair of the world's [[Gradual|gradual]]
 amelioration, and established his tendency towards supernaturalism.
 
 For years the subject of prophecy had occupied much of his thoughts, and
@@ -148,7 +148,7 @@ of the prophetical books and especially of the Apocalypse, and by
 several series of sermons on prophecy both in London and the provinces,
 his apocalyptic lectures in 1828 more than crowding the largest churches
 of Edinburgh in the early summer mornings. In 1830, however, there was
-opened up to his ardent imagination a new vista into spiritual things, a
+opened up to his ardent [[Imagination|imagination]] a new vista into spiritual things, a
 new hope for the age in which he lived, by the seeming actual revival in
 a remote corner of Scotland of those apostolic gifts of prophecy and
 healing which he had already in 1828 persuaded himself had only been
@@ -181,7 +181,7 @@ care, while still in the prime of life, on the 7th of December 1834.
 
   The writings of Edward Irving published during his lifetime were _For
   the Oracles of God, Four Orations_ (1823); _For Judgment to come_
-  (1823); _Babylon and Infidelity foredoomed_ (1826); _Sermons_, &c. (3
+  (1823); _[[Babylon]] and Infidelity foredoomed_ (1826); _Sermons_, &c. (3
   vols., 1828); _Exposition of the Book of Revelation_ (1831); an
   introduction to a translation of Ben-Ezra; and an introduction to
   Horne's _Commentary on the Psalms_. His collected works were published

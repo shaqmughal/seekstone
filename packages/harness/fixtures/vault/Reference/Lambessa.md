@@ -7,7 +7,7 @@ topic: history
 # Lambessa
 
 LAMBESSA, the ancient Lambaesa, a village of Algeria, in the
-arrondissement of Batna and department of Constantine, 7 m. S.E. of
+[[Arrondissement|arrondissement]] of Batna and department of Constantine, 7 m. S.E. of
 Batna and 17 W. of Timgad. The modern village, the centre of an
 agricultural colony founded in 1848, is noteworthy for its great convict
 establishment (built about 1850). The remains of the Roman town, and
@@ -15,16 +15,16 @@ more especially of the Roman camp, in spite of wanton vandalism, are
 among the most interesting ruins in northern Africa. They are now
 preserved by the _Service des Monuments historiques_ and excavations
 have resulted in many interesting discoveries. The ruins are situated on
-the lower terraces of the Jebel Aures, and consist of triumphal arches
+the lower terraces of the [[Jebel]] Aures, and consist of triumphal [[Arches|arches]]
 (one to Septimius Severus, another to Commodus), temples, aqueducts,
-vestiges of an amphitheatre, baths and an immense quantity of masonry
+vestiges of an amphitheatre, baths and an immense quantity of [[Masonry|masonry]]
 belonging to private houses. To the north and east lie extensive
 cemeteries with the stones standing in their original alignments; to the
 west is a similar area, from which, however, the stones have been
 largely removed for building the modern village. Of the temple of
 Aesculapius only one column is standing, though in the middle of the
 19th century its façade was entire. The capitol or temple dedicated to
-Jupiter, Juno and Minerva, which has been cleared of débris, has a
+Jupiter, [[Juno]] and Minerva, which has been cleared of débris, has a
 portico with eight columns. On level ground about two-thirds of a mile
 from the centre of the ancient town stands the camp, its site now partly
 occupied by the penitentiary and its gardens. It measures 1640 ft. N. to
@@ -43,11 +43,11 @@ are epitaphs of the barest kind, the more important pieces supply an
 outline of the history of the place. Over 2500 inscriptions relating to
 the camp have been deciphered. In a museum in the village are objects of
 antiquity discovered in the vicinity. Besides inscriptions, statues,
-&c., are some fine mosaics found in 1905 near the arch of Septimius
+&c., are some fine mosaics found in 1905 near the [[Arch|arch]] of Septimius
 Severus. The statues include those of Aesculapius and Hygieia, taken
 from the temple of Aesculapius.
 
-  Lambaesa was a military foundation. The camp of the third legion
+  Lambaesa was a military foundation. The camp of the third [[Legion|legion]]
   (Legio III. Augusta), to which it owes its origin, appears to have
   been established between A.D. 123 and 129, in the time of Hadrian,
   whose address to his soldiers was found inscribed on a pillar in a
@@ -56,7 +56,7 @@ from the temple of Aesculapius.
   name; and the vicus became a municipium probably at the time when it
   was made the capital of the newly founded province of Numidia. The
   legion was removed by Gordianus, but restored by Valerianus and
-  Gallienus; and its final departure did not take place till after 392.
+  [[Gallienus]]; and its final departure did not take place till after 392.
   The town soon afterwards declined. It never became the seat of a
   bishop, and no Christian inscriptions have been found among the ruins.
 
@@ -68,7 +68,7 @@ from the temple of Aesculapius.
   romaines de l'Algérie_ (Paris, 1855); Gustav Wilmann, "Die röm.
   Lagerstadt Afrikas," in _Commentationes phil. in honorem Th. Mommseni_
   (Berlin, 1877); Sir L. Playfair, _Travels in the Footsteps of Bruce_
-  (London, 1877); A. Graham, _Roman Africa_ (London, 1902).
+  (London, 1877); A. [[Graham]], _Roman Africa_ (London, 1902).
 
 ## References
 

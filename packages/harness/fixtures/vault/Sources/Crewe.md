@@ -15,7 +15,7 @@ estate called Oak Farm in the parish of Monk's Coppenhall, and takes its
 name from the original stations having been placed in the township of
 Crewe, in which the seat of Lord Crewe is situated. It is a railway
 junction where lines converge from London, Manchester, North Wales and
-Holyhead, North Stafford and Hereford. It is inhabited principally by
+[[Holyhead]], North Stafford and Hereford. It is inhabited principally by
 persons in the employment of the London & North-Western railway company,
 and was practically created by that corporation, at a point where in
 1841 only a farmhouse stood in open country. Crewe is not only one of
@@ -40,7 +40,7 @@ built its principal schools, provided it with a mechanics' institute,
 containing library, science and art classes, reading rooms, assembly
 rooms, &c. Victoria Park, also the gift of the company, was opened in
 1888. The municipal corporation built the technical school and school of
-art. The borough incorporated in 1877, is under a mayor, 7 aldermen and
+art. The borough incorporated in 1877, is under a [[Mayor|mayor]], 7 aldermen and
 21 councillors. Area, 2185 acres.
 
 ## See also

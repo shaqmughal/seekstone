@@ -2,12 +2,12 @@
 
 ASHLEY, WILLIAM JAMES (1860-   ), English economist, was born in London
 on the 25th of February 1860. He was educated at St Olave's grammar
-school and Balliol College, Oxford, and became a fellow of Lincoln
+school and Balliol College, Oxford, and became a [[Fellow|fellow]] of [[Lincoln]]
 College. In 1888 he was appointed professor of political economy and
 constitutional history in Toronto University, a post which he resigned
 in 1892, in order to become professor of economic history at Harvard
 University. In 1901 he was appointed professor of commerce and finance
-in Birmingham University and in 1902 dean of the faculty of commerce.
+in [[Birmingham]] University and in 1902 dean of the faculty of commerce.
 Professor Ashley became well known for his work on the early history of
 English industry, and for his prominence among those English economists
 who supported Mr Chamberlain's tariff reform movement. His most

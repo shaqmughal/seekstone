@@ -28,7 +28,7 @@ of 46° 40´ and 36° 38´ N., and between 6° 30´ and 18° 30´ E. Its
 greatest length in a straight line along the mainland is from N.W. to
 S.E., in which direction it measures 708 m. in a direct line from the
 frontier near Courmayeur to Cape Sta Maria di Leuca, south of Otranto,
-but the great mountain peninsula of Calabria extends about two degrees
+but the great mountain peninsula of [[Calabria]] extends about two degrees
 farther south to Cape Spartivento in lat. 37° 55´. Its breadth is, owing
 to its configuration, very irregular. The northern portion, measured
 from the Alps at the Monte Viso to the mouth of the Po, has a breadth of
@@ -51,7 +51,7 @@ probably the best point that could be selected. But Augustus, who was
 the first to give to Italy a definite political organization, carried
 the frontier to the river Varus or Var, a few miles west of Nice, and
 this river continued in modern times to be generally recognized as the
-boundary between France and Italy. But in 1860 the annexation of Nice
+boundary between France and Italy. But in 1860 the [[Annexation|annexation]] of Nice
 and the adjoining territory to France brought the political frontier
 farther east, to a point between Mentone and Ventimiglia which
 constitutes no natural limit.
@@ -86,7 +86,7 @@ of Lunéville in 1801 was governed by sovereign archbishops, subject only
 to the German emperors, being now included in the Austrian empire.
 
 While the Alps thus constitute the northern boundary of Italy, its
-configuration and internal geography are determined almost entirely by
+configuration and internal [[Geography|geography]] are determined almost entirely by
 the great chain of the Apennines, which branches off from the Maritime
 Alps between Nice and Genoa, and, after stretching in an unbroken line
 from the Gulf of Genoa to the Adriatic, turns more to the south, and is
@@ -150,10 +150,10 @@ do not correspond to any natural divisions.
   the Stura, which rises in the glaciers of the Roche Melon; then the
   Orca, flowing through the Val di Locana; and then the Dora Baltea, one
   of the greatest of all the Alpine tributaries of the Po, which has its
-  source in the glaciers of Mont Blanc, above Courmayeur, and thence
+  source in the glaciers of Mont [[Blanc]], above Courmayeur, and thence
   descends through the Val d'Aosta for about 70 m. till it enters the
   plain at Ivrea, and, after flowing about 20 m. more, joins the Po a
-  few miles below Chivasso. This great valley--one of the most
+  few miles below [[Chivasso]]. This great valley--one of the most
   considerable on the southern side of the Alps--has attracted special
   attention, in ancient as well as modern times, from its leading to two
   of the most frequented passes across the great mountain chain--the
@@ -167,7 +167,7 @@ do not correspond to any natural divisions.
   Sesia, also a large river, which has its source above Alagna at the
   southern foot of Monte Rosa, and after flowing by Varallo and Vercelli
   falls into the Po about 14 m. below the latter city. About 30 m. east
-  of this confluence--in the course of which the Po makes a great bend
+  of this confluence--in the course of which the Po makes a great [[Bend|bend]]
   south to Valenza, and then returns again to the northward--it is
   joined by the Ticino, a large and rapid river, which brings with it
   the outflow of Lago Maggiore and all the waters that flow into it. Of
@@ -180,7 +180,7 @@ do not correspond to any natural divisions.
   Domodossola, where it receives the waters of the Doveria from the
   Simplon, and a few miles lower down those of the Val d'Anzasca from
   the foot of Monte Rosa, and 12 m. farther has its outlet into the
-  lake between Baveno and Pallanza. The Lago Maggiore is also the
+  lake between [[Baveno]] and Pallanza. The Lago Maggiore is also the
   receptacle of the waters of the Lago di Lugano on the east and the
   Lago d'Orta on the west.
 
@@ -197,14 +197,14 @@ do not correspond to any natural divisions.
   70 m. till it enters the Po between Piacenza and Cremona. It flows by
   Lodi and Pizzighettone, and receives the waters of the Brembo,
   descending from the Val Brembana, and the Serio from the Val Seriana
-  above Bergamo. The Oglio, a more considerable stream than either of
+  above [[Bergamo]]. The Oglio, a more considerable stream than either of
   the last two, rises in the Monte Tonale above Edolo, and descends
   through the Val Camonica to Lovere, where it expands into a large
-  lake, called Iseo from the town of that name on its southern shore.
+  lake, called [[Iseo]] from the town of that name on its southern shore.
   Issuing thence at its south-west extremity, the Oglio has a long and
   winding course through the plain before it finally reaches the Po a
   few miles above Borgoforte. In this lower part it receives the smaller
-  streams of the Mella, which flows by Brescia, and the Chiese, which
+  streams of the Mella, which flows by [[Brescia]], and the Chiese, which
   proceeds from the small Lago d'Idro, between the Lago d'Iseo and that
   of Garda.
 
@@ -224,7 +224,7 @@ do not correspond to any natural divisions.
   Italy--descends as far as Verona, where it enters the great plain,
   with a course from north to south nearly parallel to the rivers last
   described, and would seem likely to discharge its waters into those of
-  the Po, but below Legnago it turns eastward and runs parallel to the
+  the Po, but below [[Legnago]] it turns eastward and runs parallel to the
   Po for about 40 m., entering the Adriatic by an independent mouth
   about 8 m. from the northern outlet of the greater stream. The waters
   of the two rivers have, however, been made to communicate by
@@ -267,7 +267,7 @@ do not correspond to any natural divisions.
   The tract adjoining this long line of lagoons is, like the basin of
   the Po, a broad expanse of perfectly level alluvial plain, extending
   from the Adige eastwards to the Carnic Alps, where they approach close
-  to the Adriatic between Aquileia and Trieste, and northwards to the
+  to the Adriatic between [[Aquileia]] and Trieste, and northwards to the
   foot of the great chain, which here sweeps round in a semicircle from
   the neighbourhood of Vicenza to that of Aquileia. The space thus
   included was known in ancient times as Venetia, a name applied in the
@@ -326,8 +326,8 @@ do not correspond to any natural divisions.
   from the Maritime Alps between Nice and Albenga. The most considerable
   of them are--the Roja, which rises in the Col di Tenda and descends to
   Ventimiglia; the Taggia, between San Remo and Oneglia; and the Centa,
-  which enters the sea at Albenga. The Lavagna, which enters the sea at
-  Chiavari, is the only stream of any importance between Genoa and the
+  which enters the sea at Albenga. The [[Lavagna]], which enters the sea at
+  [[Chiavari]], is the only stream of any importance between Genoa and the
   Gulf of Spezia. But immediately east of that inlet (a remarkable
   instance of a deep landlocked gulf with no river flowing into it) the
   Magra, which descends from Pontremoli down the valley known as the
@@ -399,7 +399,7 @@ do not correspond to any natural divisions.
   well as considerable elevation above the sea. Such is the basin of
   Lake Fucino, situated in the centre of the mass, almost exactly midway
   between the two seas, at an elevation of 2180 ft. above them; while
-  the upper valley of the Aterno, in which Aquila is situated, is 2380
+  the upper valley of the Aterno, in which [[Aquila]] is situated, is 2380
   ft. above the sea. Still more elevated is the valley of the Gizio (a
   tributary of the Aterno), of which Sulmona is the chief town. This
   communicates with the upper valley of the Sangro by a level plain
@@ -408,7 +408,7 @@ do not correspond to any natural divisions.
   form a continuous ridge of great altitude for any considerable
   distance; they are rather a series of groups separated by tracts of
   very inferior elevation forming natural passes across the range, and
-  broken in some places (as is the case in almost all limestone
+  broken in some places (as is the case in almost all [[Limestone|limestone]]
   countries) by the waters from the upland valleys turning suddenly at
   right angles, and breaking through the mountain ranges which bound
   them. Thus the Gran Sasso and the Maiella are separated by the deep
@@ -423,7 +423,7 @@ do not correspond to any natural divisions.
   The district west of the Apennines, a region of great beauty and
   fertility, though inferior in productiveness to Northern Italy,
   coincides in a general way with the countries familiar to all students
-  of ancient history as Etruria and Latium. Until the union of Italy
+  of ancient history as Etruria and [[Latium]]. Until the union of Italy
   they were comprised in Tuscany and the southern Papal States. The
   northern part of Tuscany is indeed occupied to a considerable extent
   by the underfalls and offshoots of the Apennines, which, besides the
@@ -446,7 +446,7 @@ do not correspond to any natural divisions.
   the country between the frontier of Tuscany and the Tiber is in great
   part of volcanic origin, forming hills with distinct crater-shaped
   basins, in several instances occupied by small lakes (the Lake of
-  Bolsena, Lake of Vico and Lake of Bracciano). This volcanic tract
+  [[Bolsena]], Lake of Vico and Lake of Bracciano). This volcanic tract
   extends across the Campagna of Rome, till it rises again in the lofty
   group of the Alban hills, the highest summit of which, the Monte Cavo,
   is 3160 ft. above the sea. In this part the Apennines are separated
@@ -456,12 +456,12 @@ do not correspond to any natural divisions.
   ft. South of Palestrina again, the main mass of the Apennines throws
   off another lateral mass, known in ancient times as the Volscian
   mountains (now called the Monti Lepini), separated from the central
-  ranges by the broad valley of the Sacco, a tributary of the Liri
+  ranges by the broad valley of the Sacco, a tributary of the [[Liri]]
   (Liris) or Garigliano, and forming a large and rugged mountain mass,
   nearly 5000 ft. in height, which descends to the sea at Terracina, and
   between that point and the mouth of the Liri throws out several
   rugged mountain headlands, which may be considered as constituting the
-  natural boundary between Latium and Campania, and consequently the
+  natural boundary between Latium and [[Campania]], and consequently the
   natural limit of Central Italy. Besides these offshoots of the
   Apennines there are in this part of Central Italy several detached
   mountains, rising almost like islands on the seashore, of which the
@@ -471,7 +471,7 @@ do not correspond to any natural divisions.
   separated from the Volscian Apennines.
 
   The two valleys of the Arno and the Tiber (Ital. _Tevere_) may be
-  considered as furnishing the key to the geography of all this portion
+  considered as furnishing the [[Key|key]] to the geography of all this portion
   of Italy west of the Apennines. The Arno, which has its source in the
   Monte Falterona, one of the most elevated summits of the main chain of
   the Tuscan Apennines, flows nearly south till in the neighbourhood of
@@ -482,7 +482,7 @@ do not correspond to any natural divisions.
   Pontassieve, bringing down the waters of the Val di Mugello. The Elsa
   and the Era, which join it on its left bank, descending from the hills
   near Siena and Volterra, are inconsiderable streams; and the Serchio,
-  which flows from the territory of Lucca and the Alpi Apuani, and
+  which flows from the territory of [[Lucca]] and the Alpi Apuani, and
   formerly joined the Arno a few miles from its mouth, now enters the
   sea by a separate channel. The most considerable rivers of Tuscany
   south of the Arno are the Cecina, which flows through the plain below
@@ -492,7 +492,7 @@ do not correspond to any natural divisions.
   The Tiber, a much more important river than the Arno, and the largest
   in Italy with the exception of the Po, rises in the Apennines, about
   20 m. east of the source of the Arno, and flows nearly south by Borgo
-  S. Sepolcro and Città di Castello, then between Perugia and Todi to
+  S. Sepolcro and Città di [[Castello]], then between Perugia and Todi to
   Orte, just below which it receives the Nera. The Nera, which rises in
   the lofty group of the Monte della Sibilla, is a considerable stream,
   and brings with it the waters of the Velino (with its tributaries the
@@ -535,7 +535,7 @@ do not correspond to any natural divisions.
   of Potenza, in the heart of the province of Basilicata, corresponding
   nearly to the ancient Lucania. The whole of the district known in
   ancient times as Samnium (a part of which retains the name of Sannio,
-  though officially designated the province of Campobasso) is occupied
+  though officially designated the province of [[Campobasso]]) is occupied
   by an irregular mass of mountains, of much inferior height to those of
   Central Italy, and broken up into a number of groups, intersected by
   rivers, which have for the most part a very tortuous course. This
@@ -583,7 +583,7 @@ do not correspond to any natural divisions.
   Volture, which rises in the neighbourhood of Melfi and Venosa to 4357
   ft., is of volcanic origin, and in great measure detached from the
   adjoining mass of the Apennines. Eastward from this the ranges of low
-  bare hills called the Murgie of Gravina and Altamura gradually sink
+  bare hills called the Murgie of [[Gravina]] and Altamura gradually sink
   into the still more moderate level of those which constitute the
   peninsular tract between Brindisi and Taranto as far as the Cape of
   Sta Maria di Leuca, the south-east extremity of Italy. This projecting
@@ -600,7 +600,7 @@ do not correspond to any natural divisions.
   the mountains between Castel di Sangro and Agnone, flows past Isernia,
   Venafro and Capua, and enters the sea about 15 m. from the mouth of
   the Garigliano. About 16 m. above Capua it receives the Calore, which
-  flows by Benevento. The Silarus or Sele enters the Gulf of Salerno a
+  flows by [[Benevento]]. The Silarus or Sele enters the Gulf of Salerno a
   few miles below the ruins of Paestum. Below this the watershed of the
   Apennines is too near to the sea on that side to allow the formation
   of any large streams. Hence the rivers that flow in the opposite
@@ -684,7 +684,7 @@ do not correspond to any natural divisions.
 
     Islands.
 
-  The three great islands of Sicily, Sardinia and Corsica are closely
+  The three great islands of Sicily, Sardinia and [[Corsica]] are closely
   connected with Italy, both by geographical position and community of
   language, but they are considered at length in separate articles. Of
   the smaller islands that lie near the coasts of Italy, the most
@@ -696,23 +696,23 @@ do not correspond to any natural divisions.
   about 25 m. farther north, is still smaller, and is a mere rock,
   inhabited by a few fishermen. South of Elba are the equally
   insignificant islets of Pianosa and Montecristo, while the more
-  considerable island of Giglio lies much nearer the mainland,
+  considerable island of [[Giglio]] lies much nearer the mainland,
   immediately opposite the mountain promontory of Monte Argentano,
   itself almost an island. The islands farther south in the Tyrrhenian
-  Sea are of an entirely different character. Of these Ischia and
+  Sea are of an entirely different character. Of these [[Ischia]] and
   Procida, close to the northern headland of the Bay of Naples, are of
   volcanic origin, as is the case also with the more distant group of
   the Ponza Islands. These are three in number--Ponza, Palmarola and
   Zannone; while Ventotene (also of volcanic formation) is about midway
-  between Ponza and Ischia. The island of Capri, on the other hand,
+  between Ponza and Ischia. The island of [[Capri]], on the other hand,
   opposite the southern promontory of the Bay of Naples, is a
-  precipitous limestone rock. The Aeolian or Lipari Islands, a
+  precipitous limestone rock. The Aeolian or [[Lipari Islands]], a
   remarkable volcanic group, belong rather to Sicily than to Italy,
   though Stromboli, the most easterly of them, is about equidistant from
   Sicily and from the mainland.
 
   The Italian coast of the Adriatic presents a great contrast to its
-  opposite shores, for while the coast of Dalmatia is bordered by a
+  opposite shores, for while the coast of [[Dalmatia]] is bordered by a
   succession of islands, great and small, the long and uniform
   coast-line of Italy from Otranto to Rimini presents not a single
   adjacent island; and the small outlying group of the Tremiti Islands
@@ -793,7 +793,7 @@ do not correspond to any natural divisions.
 
   _Climate and Vegetation._--The geographical position of Italy,
   extending from about 46° to 38° N., renders it one of the hottest
-  countries in Europe. But the effect of its southern latitude is
+  countries in Europe. But the effect of its southern [[Latitude|latitude]] is
   tempered by its peninsular character, bounded as it is on both sides
   by seas of considerable extent, as well as by the great range of the
   Alps with its snows and glaciers to the north. There are thus
@@ -807,10 +807,10 @@ do not correspond to any natural divisions.
   summer temperature of Milan is higher than that of Sassari, and equal
   to that of Naples, and the extremes reached at Milan and Bologna are a
   good deal higher than those of Naples, the mean winter temperature of
-  Turin is actually lower than that of Copenhagen. The lowest recorded
+  Turin is actually lower than that of [[Copenhagen]]. The lowest recorded
   winter temperature at Turin is 5° Fahr. Throughout the region north of
   the Apennines no plants will thrive which cannot stand occasional
-  severe frosts in winter, so that not only oranges and lemons but even
+  severe [[Frost|frosts]] in winter, so that not only oranges and lemons but even
   the olive tree cannot be grown, except in specially favoured
   situations. But the strip of coast between the Apennines and the sea,
   known as the Riviera of Genoa, is not only extremely favourable to the
@@ -902,7 +902,7 @@ do not correspond to any natural divisions.
   is certain that it had not attained in ancient times to anything like
   the extension and importance which it now possesses. The eucalyptus is
   of quite modern introduction; it has been extensively planted in
-  malarious districts. The characteristic cypress, ilex and stone-pine,
+  malarious districts. The characteristic [[Cypress|cypress]], ilex and stone-pine,
   however, are native trees, the last-named flourishing especially near
   the coast. The proportion of evergreens is large, and has a marked
   effect on the landscape in winter.
@@ -914,10 +914,10 @@ do not correspond to any natural divisions.
   flocks are protected against them by large white sheepdogs, who have
   some wolf blood in them. Wild boars are also found in mountainous and
   forest districts. Foxes are common in the neighbourhood of Rome. The
-  sea mammals include the common dolphin (_Delphinus delphis_). The
+  sea mammals include the common [[Dolphin|dolphin]] (_Delphinus [[Delphi|delphis]]_). The
   birds are similar to those of central Europe; in the mountains
-  vultures, eagles, buzzards, kites, falcons and hawks are found.
-  Partridges, woodcock, snipe, &c., are among the game birds; but all
+  vultures, eagles, buzzards, kites, falcons and [[Hawk|hawks]] are found.
+  Partridges, woodcock, snipe, &c., are among the [[Game|game]] birds; but all
   kinds of small birds are also shot for food, and their number is thus
   kept down, while many members of the migratory species are caught by
   traps in the foothills on the south side of the Alps, especially near
@@ -932,7 +932,7 @@ do not correspond to any natural divisions.
   of commerce, is derived from the _Thalassochelys caretta_, a sea
   turtle. Of freshwater fish the trout of the mountain streams and the
   eels of the coast lagoons may be mentioned. The tarantula spider and
-  the scorpion are found in the south of Italy. The aquarium of the
+  the scorpion are found in the south of Italy. The [[Aquarium|aquarium]] of the
   zoological station at Naples contains the finest collection in the
   world of marine animals, showing the wonderful variety of the
   different species of fish, molluscs, crustacea, &c., found in the
@@ -972,7 +972,7 @@ do not correspond to any natural divisions.
     |                                  +---------+------------+------------+
     |         Lombardy                 |    9386 |  3,680,574 |  4,334,099 |
     |                                  +---------+------------+------------+
-    | Belluno                          |    1293 |    174,140 |    214,803 |
+    | [[Belluno]]                          |    1293 |    174,140 |    214,803 |
     | Padua                            |     823 |    397,762 |    444,360 |
     | Rovigo                           |     685 |    217,700 |    222,057 |
     | Treviso                          |     960 |    375,704 |    416,945 |
@@ -999,7 +999,7 @@ do not correspond to any natural divisions.
     | Grosseto                         |    1738 |    114,295 |    137,795 |
     | Leghorn                          |     133 |    121,612 |    121,137 |
     | Lucca                            |     558 |    284,484 |    329,986 |
-    | Massa and Carrara                |     687 |    169,469 |    202,749 |
+    | [[Massa]] and Carrara                |     687 |    169,469 |    202,749 |
     | Pisa                             |    1179 |    283,563 |    319,854 |
     | Siena                            |    1471 |    205,926 |    233,874 |
     |                                  +---------+------------+------------+
@@ -1007,7 +1007,7 @@ do not correspond to any natural divisions.
     |                                  +---------+------------+------------+
     | Ancona                           |     762 |    267,338 |    308,346 |
     | Ascoli Piceno                    |     796 |    209,185 |    251,829 |
-    | Macerata                         |    1087 |    239,713 |    269,505 |
+    | [[Macerata]]                         |    1087 |    239,713 |    269,505 |
     | Pesaro and Urbino                |    1118 |    223,043 |    259,083 |
     |                                  +---------+------------+------------+
     |         Marches                  |    3763 |    939,279 |  1,088,763 |
@@ -1048,7 +1048,7 @@ do not correspond to any natural divisions.
     |         Calabria                 |    5819 |  1,257,883 |  1,439,329 |
     |                                  +---------+------------+------------+
     | Caltanisetta                     |    1263 |    266,379 |    329,449 |
-    | Catania                          |    1917 |    563,457 |    703,598 |
+    | [[Catania]]                          |    1917 |    563,457 |    703,598 |
     | Girgenti                         |    1172 |    312,487 |    380,666 |
     | Messina                          |    1246 |    460,924 |    550,895 |
     | Palermo                          |    1948 |    699,151 |    796,151 |
@@ -1079,7 +1079,7 @@ do not correspond to any natural divisions.
   The kingdom is divided into 69 provinces, 284 regions, of which 197
   are classed as _circondarii_ and 87 as districts (the latter belonging
   to the province of Mantua and the 8 provinces of Venetia), 1806
-  administrative divisions (_mandamenti_) and 8262 communes. These were
+  administrative divisions (_mandamenti_) and 8262 [[Commune|communes]]. These were
   the figures at the date of the census. In 1906 there were 1805
   _mandamenti_ and 8290 communes, and 4 boroughs in Sardinia not
   connected with communes. The _mandamenti_ or administrative divisions
@@ -1093,7 +1093,7 @@ do not correspond to any natural divisions.
   The provincial council elects a provincial commission and the communal
   council a municipal council from among its own members; these smaller
   bodies carry on the business of the larger while they are not sitting.
-  The syndic of each commune is elected by ballot by the communal
+  The syndic of each commune is elected by [[Ballot|ballot]] by the communal
   council from among its own members.
 
   The actual (not the resident or "legal") population of Italy since
@@ -1139,7 +1139,7 @@ latter. Much, however, is effected towards unification, by compulsory
 military service, it being the principle that no man shall serve within
 the military district to which he belongs. In almost all parts the idea
 of personal loyalty (e.g. between master and servant) retains an almost
-feudal strength. The inhabitants of the north--the Piedmontese, Lombards
+feudal strength. The inhabitants of the north--the Piedmontese, [[Lombards]]
 and Genoese especially--have suffered less than those of the rest of the
 peninsula from foreign domination and from the admixture of inferior
 racial elements, and the cold winter climate prevents the heat of summer
@@ -1157,7 +1157,7 @@ short of stature, with dark or black hair and eyes, often good looking.
 Both sexes reach maturity early. Mortality is decreasing, but if we may
 judge from the physical conditions of the recruits the physique of the
 nation shows little or no improvement. Much of this lack of progress is
-attributed to the heavy manual (especially agricultural) work undertaken
+attributed to the heavy [[Manual|manual]] (especially agricultural) work undertaken
 by women and children. The women especially age rapidly, largely owing
 to this cause (E. Nathan, _Vent' anni di vita italiana attraverso all'
 annuario_, 169 sqq.).
@@ -1217,7 +1217,7 @@ annuario_, 169 sqq.).
     +---------------------------------+-----------+-----------+-----------+
     |                                 |   Total.  |   Males.  |  Females. |
     +---------------------------------+-----------+-----------+-----------+
-    | Agricultural (including hunting |           |           |           |
+    | Agricultural (including [[Hunting|hunting]] |           |           |           |
     |   and fishing)                  | 9,666,467 | 6,466,165 | 3,200,302 |
     | Industrial                      | 4,505,736 | 3,017,393 | 1,488,343 |
     | Commerce and transport          |           |           |           |
@@ -1377,13 +1377,13 @@ cultivation.
   Apennine zone. The barley zone is geographically extensive but
   embraces not more than 1% of the total area, of which half is situated
   in Sardinia and Sicily. Oats, cultivated in the Roman and Tuscan
-  maremma and in Apulia, are used almost exclusively for horses and
+  [[Maremma|maremma]] and in Apulia, are used almost exclusively for horses and
   cattle. The area of oats cultivation is 1.5% of the total area. The
   other cereals, millet and _panico sorgo_ (_Panicum italicum_), have
   lost much of their importance in consequence of the introduction of
   maize and rice. Millet, however, is still cultivated in the north of
   Italy, and is used as bread for agricultural labourers, and as forage
-  when mixed with buckwheat (_Sorghum saccaratum_). The manufacture of
+  when mixed with [[Buckwheat|buckwheat]] (_Sorghum saccaratum_). The manufacture of
   macaroni and similar foodstuff is a characteristic Italian industry.
   It is extensively distributed, but especially flourishes in the
   Neapolitan provinces. The exportation of "corn-flour pastes" sank,
@@ -1393,11 +1393,11 @@ cultivation.
   categories of temporary and perennial. The temporary includes vetches,
   pulse, lupine, clover and trifolium; and the perennial,
   meadow-trefoil, lupinella, sulla (_Hedysarum coronarium_), lucerne and
-  darnel. The natural grass meadows are extensive, and hay is grown all
+  darnel. The natural grass meadows are extensive, and [[Hay|hay]] is grown all
   over the country, but especially in the Po valley. Pasture occupies
   about 30% of the total area of the country, of which Alpine pastures
   occupy 1.25%. Seed-bearing vegetables are comparatively scarce. The
-  principal are: white beans, largely consumed by the working classes;
+  principal are: white [[Bean|beans]], largely consumed by the working classes;
   lentils, much less cultivated than beans; and green peas, largely
   consumed in Italy, and exported as a spring vegetable. Chick-pease are
   extensively cultivated in the southern provinces. Horse beans are
@@ -1408,7 +1408,7 @@ cultivation.
   about 0.7% of the whole of the country. Turnips are grown principally
   in the central provinces as an alternative crop to wheat. They yield
   as much as 12 tons per acre. Beetroot (_Beta vulgaris_) is used as
-  fodder, and yields about 10 tons per acre. Sugar beet is extensively
+  fodder, and yields about 10 tons per acre. Sugar [[Beet|beet]] is extensively
   grown to supply the sugar factories. In 1898-1899 there were only four
   sugar factories, with an output of 5972 tons; in 1905 there were
   thirty-three, with an output of 93,916 tons.
@@ -1432,7 +1432,7 @@ cultivation.
   Piceno and Caserta. Bologna hemp is specially valued. Flax covers
   about 160,000 acres, with a product, in fibre, amounting to about
   20,000 tons. Cotton (_Gossypium herbaceum_), which at the beginning of
-  the 19th century, at the time of the Continental blockade, and again
+  the 19th century, at the time of the Continental [[Blockade|blockade]], and again
   during the American War of Secession, was largely cultivated, is now
   grown only in parts of Sicily and in a few southern provinces. Sumach,
   liquorice and madder are also grown in the south.
@@ -1447,7 +1447,7 @@ cultivation.
   Marches, Umbria and the southern provinces, they are trained to trees
   which are either left in their natural state or subjected to pruning
   and pollarding. In Campania the vines are allowed to climb freely to
-  the tops of the poplars. In the rest of Italy the elm and the maple
+  the tops of the poplars. In the rest of Italy the [[Elm|elm]] and the [[Maple|maple]]
   are the trees mainly employed as supports. Artificial props of several
   kinds--wires, cane work, trellis work, &c.--are also in use in many
   districts (in the neighbourhood of Rome canes are almost exclusively
@@ -1465,7 +1465,7 @@ cultivation.
   considerable amount remained over from 1906. The exportation in 1902
   only reached about 45 million gallons (and even that is double the
   average), while an equally abundant vintage in France and Spain
-  rendered the exportation of the balance of 1907 impossible, and fiscal
+  rendered the exportation of the [[Balance|balance]] of 1907 impossible, and fiscal
   regulations rendered the distillation of the superfluous amount
   difficult. The quality, too, owing to bad weather at the time of
   vintage, was not good; Italian wine, indeed, never is sufficiently
@@ -1501,7 +1501,7 @@ cultivation.
   manufacture of small articles. The olive-growing area occupies about
   3.5% of the total area of the country, and the crop in 1905 produced
   about 75,000,000 gallons of oil. The falling off of the crop,
-  especially in 1899, was due to bad seasons and to insects, notably the
+  especially in 1899, was due to bad seasons and to [[Insect|insects]], notably the
   _Cycloconium oleoginum_, and the _Dacus oleae_, or oil-fly, which have
   ravaged the olive-yards, and it is noticeable that lately good and bad
   seasons seem to alternate; between 1900 and 1905 the crops were
@@ -1531,11 +1531,11 @@ cultivation.
   the cultivation is extensive, but receives little attention. Both
   crude and concentrated lime-juice is exported, and essential oils are
   extracted from the rind of the _agrumi_, more particularly from that
-  of the lemon and the bergamot. In northern and central Italy, except
+  of the lemon and the [[Bergamot|bergamot]]. In northern and central Italy, except
   in the province of Brescia, the _agrumi_ are almost non-existent. The
   trees are planted on irrigated soil and the fruit gathered between
   November and August. Considerable trade is done in _agro di limone_ or
-  lemon extract, which forms the basis of citric acid. Extraction is
+  lemon extract, which forms the basis of [[Citric Acid|citric acid]]. Extraction is
   extensively carried on in the provinces of Messina and Palermo.
 
   Among other fruit trees, apple-trees have special importance. Almonds
@@ -1585,7 +1585,7 @@ cultivation.
   chestnut is of great value for its wood and its fruit, an article of
   popular consumption. Good timber is furnished by the oak and beech,
   and pine and fir forests of the Alps and Apennines. Notwithstanding
-  the efforts of the government to unify and co-ordinate the forest laws
+  the efforts of the government to unify and co-ordinate the [[Forest Laws|forest laws]]
   previously existing in the various states, deforestation has continued
   in many regions. This has been due to speculation, to the unrestricted
   pasturage of goats, to the rights which many communes have over the
@@ -1617,7 +1617,7 @@ cultivation.
   goats, 1,800,000; swine, 1,800,000.
 
   The breed of cattle most widely distributed is that known as the
-  Podolian, usually with white or grey coat and enormous horns. Of the
+  Podolian, usually with white or grey coat and enormous [[Horn|horns]]. Of the
   numerous sub-varieties, the finest is said to be that of the Val di
   Chiana, where the animals are stall-fed all the year round; next is
   ranked the so-called Valle Tiberina type. Wilder varieties roam in
@@ -1639,7 +1639,7 @@ cultivation.
   Enormous flocks are possessed by professional sheep-farmers, who
   pasture them in the mountains in the summer, and bring them down to
   the plains in the winter. At Saluzzo in Piedmont there is a stock with
-  hanging ears, arched face and tall stature, kept for its dairy
+  [[Hanging|hanging]] [[Ear|ears]], arched face and tall stature, kept for its dairy
   qualities; and in the Biellese the merino breed is maintained by some
   of the larger proprietors. In the upper valleys of the Alps there are
   many local varieties, one of which at Ossola is like the Scottish
@@ -1660,7 +1660,7 @@ cultivation.
   Similarly, the number of goats, which are reared only in hilly
   regions, is decreasing, especially on account of the existing forest
   laws, as they are the chief enemies of young plantations.
-  Horse-breeding is on the increase. The state helps to improve the
+  Horse-breeding is on the increase. The state [[Helps|helps]] to improve the
   breeds by placing choice stallions at the disposal of private breeders
   at a low tariff. The exportation is, however, unimportant, while the
   importation is largely on the increase, 46,463 horses having been
@@ -1671,7 +1671,7 @@ cultivation.
   kept in the open air, few shelters being provided. The erection of
   shelters, however, is encouraged by the state. Swine are extensively
   reared in many provinces. Fowls are kept on all farms and, though
-  methods are still antiquated, trade in fowls and eggs is rapidly
+  methods are still antiquated, trade in fowls and [[Egg|eggs]] is rapidly
   increasing.
 
   In 1905 Italy exported 32,786 and imported 17,766 head of cattle;
@@ -1681,7 +1681,7 @@ cultivation.
   agricultural products shows a large increase.
 
   The north of Italy has long been known for its great dairy districts.
-  Parmesan cheese, otherwise called Lodigiano (from Lodi) or _grana_,
+  Parmesan [[Cheese|cheese]], otherwise called Lodigiano (from Lodi) or _grana_,
   was presented to King Louis XII. as early as 1509. Parmesan is not
   confined to the province from which it derives its name; it is
   manufactured in all that part of Emilia in the neighbourhood of the
@@ -1754,7 +1754,7 @@ cultivation.
   _mezzadria_ the contract generally lasts three years. Products are
   usually divided in equal proportions between the owner and the tiller.
   The owner pays the taxes, defrays the cost of preparing the ground,
-  and provides the necessary implements. Stock usually belongs to the
+  and provides the necessary [[Implement|implements]]. Stock usually belongs to the
   owner, and, even if kept on the half-and-half system, is usually
   bought by him. The peasant, or _mezzadro_, provides labour. Under
   _terzieria_ the owner furnishes stock, implements and seed, and the
@@ -1806,10 +1806,10 @@ cultivation.
   leasehold and farming by landlords prevail, but cases of _mezzadria_
   and of "improvement farms" exist. In the _agro Romano_, or zone
   immediately around Rome, land is as a rule left for pasturage. It
-  needs, therefore, merely supervision by guardians and mounted
+  needs, therefore, merely supervision by [[Guardian|guardians]] and mounted
   overseers, or _butteri_, who are housed and receive wages. Large
   landlords are usually represented by _ministri_, or factors, who
-  direct agricultural operations and manage the estates, but the estate
+  direct agricultural operations and [[Manage|manage]] the estates, but the estate
   is often let to a middleman, or _mercante di campagna_. Wherever corn
   is cultivated, leasehold predominates. Much of the work is done by
   companies of peasants, who come down from the mountainous districts
@@ -1992,7 +1992,7 @@ manufacturing companies, both Italian and foreign.
   The textile industries, some of which are of ancient date, are among
   those that have most rapidly developed. Handlooms and small spinning
   establishments have, in the silk industry, given place to large
-  establishments with steam looms. The production of raw silk at least
+  establishments with steam [[Loom|looms]]. The production of raw silk at least
   tripled itself between 1875 and 1900, and the value of the silks woven
   in Italy, estimated in 1890 to be £2,200,000, is now, on account of
   the development of the export trade, calculated to be almost
@@ -2074,11 +2074,11 @@ manufacturing companies, both Italian and foreign.
 
   Paper-making is highly developed in the provinces of Novara, Caserta,
   Milan, Vicenza, Turin, Como, Lucca, Ancona, Genoa, Brescia, Cuneo,
-  Macerata and Salerno. The hand-made paper of Fabriano is especially
+  Macerata and Salerno. The hand-made paper of [[Fabriano]] is especially
   good.
 
   Furniture-making in different styles is carried on all over Italy,
-  especially as a result of the establishment of industrial schools.
+  especially as a result of the establishment of [[Industrial School|industrial schools]].
   Each region produces a special type, Venetia turning out imitations of
   16th- and 17th-century styles, Tuscany the 15th-century or cinquecento
   style, and the Neapolitan provinces the Pompeian style. Furniture and
@@ -2088,7 +2088,7 @@ manufacturing companies, both Italian and foreign.
 
   A characteristic Italian industry is that of straw-plaiting for
   hat-making, which is carried on principally in Tuscany, in the
-  district of Fermo, in the Alpine villages of the province of Vicenza,
+  district of [[Fermo]], in the Alpine villages of the province of Vicenza,
   and in some communes of the province of Messina. The plaiting is done
   by country women, while the hats are made up in factories. Both plaits
   and hats are largely exported.
@@ -2105,7 +2105,7 @@ manufacturing companies, both Italian and foreign.
   In the various ceramic arts Italy was once unrivalled, but the ancient
   tradition for a long time lost its primeval impulse. The works at
   Vinovo, which had fame in the 18th century, came to an untimely end in
-  1820; those of Castelli (in the Abruzzi), which have been revived,
+  1820; those of [[Castelli]] (in the Abruzzi), which have been revived,
   were supplanted by Charles III.'s establishment at Capodimonte, 1750,
   which after producing articles of surprising execution was closed
   before the end of the century. The first place now belongs to the
@@ -2158,7 +2158,7 @@ for the division of products.
     Malaria.
 
   It was only at the close of the 19th century that the true cause of
-  malaria--the conveyance of the infection by the bite of the _Anopheles
+  malaria--the [[Conveyance|conveyance]] of the infection by the bite of the _Anopheles
   claviger_--was discovered. This mosquito does not as a rule enter the
   large towns; but low-lying coast districts and ill-drained plains are
   especially subject to it. Much has been done in keeping out the
@@ -2217,7 +2217,7 @@ for the division of products.
   the labourers' position. Yet in some Tuscan provinces, as, for
   instance, that of Grosseto, where malaria rages, labourers are
   organized in gangs under "corporals," who undertake harvest work. They
-  are poverty-stricken, and easily fall victims to fever. In the Abruzzi
+  are poverty-stricken, and easily fall victims to [[Fever|fever]]. In the Abruzzi
   and in Apulia both regular and irregular workmen are engaged by the
   year. The _curatori_ or _curatoli_ (factors) receive £40 a year, with
   a slight interest in the profits; the stockmen hardly earn in money
@@ -2349,7 +2349,7 @@ and since then up till 1902 it oscillated between 105 and 95.
 Provident institutions have considerably developed in Italy under the
 forms of savings banks, assurance companies and mutual benefit
 societies. Besides the Post Office Savings Bank and the ordinary savings
-banks, many co-operative credit societies and ordinary credit banks
+banks, many co-operative [[Credit|credit]] societies and ordinary credit banks
 receive deposits of savings.
 
   The greatest number of savings banks exists in Lombardy; Piedmont and
@@ -2357,7 +2357,7 @@ receive deposits of savings.
   of the savings of that region being deposited in the provident
   institutions of Naples. In Liguria and Sardinia the habit of thrift is
   less developed. Assurance societies in Italy are subject to the
-  general dispositions of the commercial code regarding commercial
+  general dispositions of the commercial [[Code|code]] regarding commercial
   companies. Mutual benefit societies have increased rapidly, both
   because their advantages have been appreciated, and because, until
   recently, the state had taken no steps directly to insure workmen
@@ -2369,7 +2369,7 @@ receive deposits of savings.
   exactly the aims of the societies, and, while allowing them to give
   help to their sick, old or feeble members, or aid the families of
   deceased members, to forbid them to pay old-age pensions, lest they
-  assumed burdens beyond their financial strength. Nevertheless, the
+  assumed [[Burden|burdens]] beyond their financial strength. Nevertheless, the
   majority of societies have not sought recognition, being suspicious of
   fiscal state intervention.
 
@@ -2437,7 +2437,7 @@ in case of loss. They are especially widespread in Lombardy and Venetia.
   country, we find the passenger and goods traffic almost doubled
   (except the cattle traffic), the capital expenditure almost doubled,
   the working expenses per mile almost imperceptibly increased, and the
-  gross receipts per mile slightly lower. The _personnel_ had increased
+  [[Gross|gross]] receipts per mile slightly lower. The _personnel_ had increased
   from 70,568 to 108,690. The construction of numerous unremunerative
   lines, and the free granting of concessions to government and other
   employees (and also of cheap tickets on special occasions for
@@ -2469,7 +2469,7 @@ in case of loss. They are especially widespread in Lombardy and Venetia.
   in length) from Domodossola to Brigue, the St Gotthard from Milan to
   Chiasso (the tunnel is entirely in Swiss territory), the Brenner from
   Verona to Trent, the line from Udine to Tarvis and the line from
-  Venice to Triest by the Adriatic coast. Besides these international
+  Venice to Triest by the Adriatic coast. Besides these [[International|international]]
   lines the most important are those from Milan to Turin (via Vercelli
   and via Alessandria), to Genoa via Tortona, to Bologna via Parma and
   Modena, to Verona, and the shorter lines to the district of the lakes
@@ -2580,7 +2580,7 @@ in case of loss. They are especially widespread in Lombardy and Venetia.
   shipping, trade with foreign countries prevails (especially as regards
   arrivals) over trade between Italian ports. Most of the merchandise
   and passengers bound for and hailing from foreign ports sail under
-  foreign flags. Similarly, foreign vessels prevail over Italian vessels
+  foreign [[Flag|flags]]. Similarly, foreign vessels prevail over Italian vessels
   in regard to goods embarked. European countries absorb the greater
   part of Italian sea-borne trade, whereas most of the passenger traffic
   goes to North and South America. The substitution of steamships for
@@ -2718,7 +2718,7 @@ the moment of national unification, was most widely diffused. For
 instance, the number of bridegrooms unable to write their names in 1872
 was in the province of Turin 26%, and in the Calabrian province of
 Cosenza 90%; in 1899 the percentage in the province of Turin had fallen
-to 5%, while in that of Cosenza it was still 76%. Infant asylums (where
+to 5%, while in that of Cosenza it was still 76%. Infant [[Asylum|asylums]] (where
 the first rudiments of instruction are imparted to children between two
 and a half and six years of age) and elementary schools have increased
 in number. There has been a corresponding increase in the number of
@@ -2764,7 +2764,7 @@ per teacher.
   are to be provided in the communes where the proportion of illiterates
   is highest. In 1895 they numbered 4245, with 138,181 scholars.
   Regimental schools impart elementary education to illiterate soldiers.
-  Whereas the levy of 1894 showed 40% of the recruits to be completely
+  Whereas the [[Levy|levy]] of 1894 showed 40% of the recruits to be completely
   illiterate, only 27% were illiterate when the levy was discharged in
   1897. Private institutions and working-class associations have striven
   to improve the intellectual conditions of the working classes. Popular
@@ -2865,7 +2865,7 @@ per teacher.
     | Medicine and surgery           |  4,428 |  9,055 |
     | Professional diploma, pharmacy |    798 |  3,290 |
     | Mathematics and natural science|  1,364 |  3,500 |
-    | Engineering                    |    982 |  1,293 |
+    | [[Engineering]]                    |    982 |  1,293 |
     | Agriculture                    |    145 |    507 |
     | Commerce                       |    128 |    167 |
     |                                +--------+--------+
@@ -2905,7 +2905,7 @@ per teacher.
   under the universities and allied schools, include an Oriental
   institute at Naples with 243 pupils; 34 schools of agriculture with
   (1904-1905) 1925 students; 2 schools of mining (at Caltanisetta and
-  Iglesias) with (1904-1905) 83 students; 308 industrial and commercial
+  [[Iglesias]]) with (1904-1905) 83 students; 308 industrial and commercial
   schools with (1903-1904) 46,411 students; 174 schools of design and
   moulding with (1898) 12,556 students; 13 government fine art
   institutes (1904-1905) with 2778 students and 13 non-government with
@@ -2914,7 +2914,7 @@ per teacher.
   these show a considerable increase.
 
 _Libraries_ are numerous in Italy, those even of small cities being
-often rich in manuscripts and valuable works. Statistics collected in
+often rich in [[Manuscript|manuscripts]] and valuable works. Statistics collected in
 1893-1894 and 1896 revealed the existence of 1831 libraries, either
 private (but open to the public) or completely public. The public
 libraries have been enormously increased since 1870 by the incorporation
@@ -2995,7 +2995,7 @@ Calabria and Basilicata stand lowest, Latium standing comparatively low.
   (municipal charity boards existing in every commune, and composed of
   members elected by the municipal council), which administer funds
   destined for the poor in general. All charitable institutions were
-  under the protection of provincial administrative junta, existing in
+  under the protection of provincial administrative [[Junta|junta]], existing in
   every province, and empowered to control the management of charitable
   endowments. The supreme control was vested in the minister of the
   Interior. The law of 1890 also empowers every citizen to appeal to the
@@ -3019,11 +3019,11 @@ Calabria and Basilicata stand lowest, Latium standing comparatively low.
   annum. Part of these sums is given to hospitals, and part spent
   directly by the communal and provincial authorities. Of the sum spent
   by the communes, about ½ goes for the sanitary service (doctors,
-  midwives, vaccination), 1/8 for the maintenance of foundlings, 1/10
+  midwives, vaccination), 1/8 for the [[Maintenance|maintenance]] of foundlings, 1/10
   for the support of the sick in hospitals, and 1/22 for sheltering the
   aged and needy. Of the sum spent by the provincial authorities, over
   half goes to lunatic asylums and over a quarter to the maintenance of
-  foundling hospitals.
+  [[Foundling Hospitals|foundling hospitals]].
 
 _Religion._--The great majority of Italians--97.12%--are Roman
 Catholics. Besides the ordinary Latin rite, several others are
@@ -3033,7 +3033,7 @@ the Greek rite and the Greek language in their public worship, and their
 priests, like those of the Greek Church, are allowed to marry. Certain
 peculiarities introduced by St Ambrose distinguish the ritual of Milan
 from that of the general church. Up to 1871 the island of Sicily was,
-according to the bull of Urban II., ecclesiastically dependent on the
+according to the [[Bull|bull]] of Urban II., ecclesiastically dependent on the
 king, and exempt from the canonical power of the pope.
 
 Though the territorial authority of the papal see was practically
@@ -3051,7 +3051,7 @@ Italy some 2500 members of the Greek Orthodox Church. There were in 1901
 province to province, Sicily having larger parishes in virtue of the old
 Sicilian church laws, and Naples, and some parts of central Italy,
 having the smallest. The Italian parishes had in 1901 a total gross
-revenue, including assignments from the public worship endowment fund,
+revenue, including [[Assignment|assignments]] from the public worship endowment fund,
 of £1,280,000 or an average of £63 per parish; 51% of this gross sum
 consists of revenue from glebe lands.
 
@@ -3072,7 +3072,7 @@ consists of revenue from glebe lands.
 
     Acerenza-Matera         Anglona-Tursi, Tricarico, Venosa.
 
-    Bari                    Conversano, Ruvo-Bitonto.
+    Bari                    [[Conversano]], Ruvo-Bitonto.
 
     Benevento               S. Agata de' Goti, Alife, Ariano, Ascoli
                               Satriano Cerignola, Avellino, Bojano,
@@ -3105,14 +3105,14 @@ consists of revenue from glebe lands.
 
     Lanciano and Ortona     No suffragan.
 
-    Manfredonia and Viesti  No suffragan.
+    [[Manfredonia]] and Viesti  No suffragan.
 
     Messina                 Lipari, Nicosia, Patti.
 
     Milan                   Bergamo, Brescia, Como, Crema, Cremona, Lodi,
                               Mantua, Pavia.
 
-    Modena                  Carpi, Guastalla, Massa-Carrara, Reggio.
+    Modena                  [[Carpi]], [[Guastalla]], Massa-Carrara, Reggio.
 
     Monreale                Caltanisetta, Girgenti.
 
@@ -3172,10 +3172,10 @@ consists of revenue from glebe lands.
   archbishops are those of Amalfi, Aquila, Camerino and Treia, Catania,
   Cosenza, Ferrara, Gaeta, Lucca, Perugia, Rossano, Spoleto, and Udine,
   and the bishops those of Acireale, Acquapendente, Alatri, Amelia,
-  Anagni, Ancona-Umana, Aquino-Sora-Pontecorvo, Arezzo, Ascoli, Assisi,
+  Anagni, Ancona-Umana, Aquino-Sora-Pontecorvo, Arezzo, Ascoli, [[Assisi]],
   Aversa, Bagnorea, Borgo San Donnino, Cava-Sarno, Città di Castello,
   Città della Pieve, Cività Castellana-Orte-Gallese, Corneto-Civita
-  Vecchia, Cortona, Fabriano-Matelica, Fano, Ferentino, Foggia, Foligno,
+  Vecchia, [[Cortona]], Fabriano-Matelica, Fano, [[Ferentino]], Foggia, [[Foligno]],
   Gravina-Montepeloso, Gubbio, Jesi, Luni-Sarzana and Bragnato, S.
   Marco-Bisignano, Marsi (Pescina), Melfi-Rapolla, Mileto,
   Molfetta-Terlizzi-Giovennazzo, Monopoli, Montalcino, Montefiascone,
@@ -3229,7 +3229,7 @@ consists of revenue from glebe lands.
   disposed of like the other property of the domain; and except in
   Sicily, where the system of emphyteusis was adopted, the church lands
   began to be sold by auction. To encourage the poorer classes of the
-  people to become landholders, it was decided that the lots offered for
+  people to become landholders, it was decided that the [[Lot|lots]] offered for
   sale should be small, and that the purchaser should be allowed to pay
   by five or ten yearly instalments. By a new act in 1866 the process of
   secularization was extended to the whole kingdom. All the members of
@@ -3286,7 +3286,7 @@ consists of revenue from glebe lands.
   still occupied by monks or nuns. The rest was made up of capital and
   interest. The liabilities of the fund (capitalized) amounted to
   £10,668,105, of which monastic pensions represented a rapidly
-  diminishing sum of £2,564,930. The chief items of annual expenditure
+  diminishing sum of £2,564,930. The chief [[Item|items]] of annual expenditure
   drawn from the fund are the supplementary stipends to priests and the
   pensions to members of suppressed religious houses. The number of
   persons in receipt of monastic pensions on the 30th of June 1899 was
@@ -3334,7 +3334,7 @@ consists of revenue from glebe lands.
 _Constitution and Government._--The Vatican palace itself (with St
 Peter's), the Lateran palace, and the papal villa at Castel Gandolfo
 have secured to them the privilege of extraterritoriality by the law of
-1871. The small republic of San Marino is the only other enclave in
+1871. The small republic of San Marino is the only other [[Enclave|enclave]] in
 Italian territory. Italy is a constitutional monarchy, in which the
 executive power belongs exclusively to the sovereign, while the
 legislative power is shared by him with the parliament. He holds supreme
@@ -3408,18 +3408,18 @@ while the manifold checks and counterchecks have by no means always been
 sufficient to prevent dishonesty.
 
   _Titles of Honour._--The former existence of so many separate
-  sovereignties and "fountains of honour" gave rise to a great many
+  sovereignties and "[[Fountain|fountains]] of honour" gave rise to a great many
   hereditary titles of nobility. Besides many hundreds of princes,
-  dukes, marquesses, counts, barons and viscounts, there are a large
+  [[Dukes|dukes]], marquesses, counts, barons and viscounts, there are a large
   number of persons of "patrician" rank, persons with a right to the
-  designation _nobile_ or _signori_, and certain hereditary knights or
+  designation _nobile_ or _signori_, and certain hereditary [[Knight|knights]] or
   cavalieri. In the "Golden Book of the Capitol" (_Libro d'Oro del
   Campidoglio_) are inscribed 321 patrician families, and of these 28
   have the title of prince and 8 that of duke, while the others are
   marquesses, counts or simply patricians. For the Italian orders of
-  knighthood see KNIGHTHOOD AND CHIVALRY: _Orders of Knighthood_. The
+  knighthood see KNIGHTHOOD AND [[Chivalry|CHIVALRY]]: _Orders of Knighthood_. The
   king's uncle is duke of Aosta, his son is prince of Piedmont and his
-  cousin is duke of Genoa.
+  [[Cousin|cousin]] is duke of Genoa.
 
   _Justice._--The judiciary system of Italy is mainly framed on the
   French model. Italy has courts of cassation at Rome, Naples, Palermo,
@@ -3427,7 +3427,7 @@ sufficient to prevent dishonesty.
   1535 _mandamenti_, each with its own magistracy (_pretura_). In 13 of
   the principal towns there are also _pretori_ who have exclusively
   penal jurisdiction. For minor civil cases involving sums up to 100
-  lire (£4), _giudici conciliatori_ have also jurisdiction, while they
+  lire (£4), _[[Giudici|giudici]] conciliatori_ have also jurisdiction, while they
   may act as arbitrators up to any amount by request. The Roman court of
   cassation is the highest, and in both penal and civil matters has a
   right to decide questions of law and disputes between the lower
@@ -3439,7 +3439,7 @@ sufficient to prevent dishonesty.
   (_contravvenzioni_) or offences (_delitti_) punishable by imprisonment
   not exceeding three months or by fine not exceeding 1000 lire (£40).
   The penal tribunals have jurisdiction in cases involving imprisonment
-  up to ten years, or a fine exceeding £40, while the assize courts,
+  up to ten years, or a fine exceeding £40, while the [[Assize|assize]] courts,
   with a jury, deal with offences involving imprisonment for life or
   over ten years, and have exclusive jurisdiction (except that the
   senate is on occasion a high court of justice) over all political
@@ -3513,17 +3513,17 @@ sufficient to prevent dishonesty.
   reformatories, and 3071 (males) were inmates of forced residences.
 
   _Crime._--Statistics of offences, including _contravvenzioni_ or
-  breaches of by-laws and regulations, exhibit a considerable increase
+  [[Breach|breaches]] of by-laws and regulations, exhibit a considerable increase
   per 100,000 inhabitants since 1887, and only a slight diminution on
   the figures of 1897. The figure was 1783.45 per 100,000 in 1887,
   2164.46 in 1892, 2546.49 in 1897, 2497.90 in 1902. The increase is
   partly covered by _contravvenzioni_, but almost every class of penal
-  offence shows a rise except homicide, and even in that the diminution
+  offence shows a rise except [[Homicide|homicide]], and even in that the diminution
   is slow, 5418 in 1880, 3966 in 1887, 4408 in 1892, 4005 in 1897, 3202
   in 1902; and Italy remains, owing to the frequent use of the knife,
   the European country in which it is most frequent. Libels, insults,
   &c., resistance to public authority, offences against good customs,
-  thefts and frauds, have increased; assaults are nearly stationary.
+  thefts and [[Fraud|frauds]], have increased; assaults are nearly stationary.
   There is also an increase in juvenile delinquency. From 1890 to 1900
   the actual number rose by one-third (from 30,108 to 43,684), the
   proportion to the rest of those sentenced from one-fifth to
@@ -3533,7 +3533,7 @@ sufficient to prevent dishonesty.
   authority is still not inconsiderable.
 
   Procedure, both civil and criminal, is somewhat slow, and the
-  preliminary proceedings before the _juge d'instruction_ occupy much
+  preliminary proceedings before the _[[Juge|juge]] d'instruction_ occupy much
   time; and recent murder trials, by the large number of witnesses
   called (including experts) and the lengthy speeches of counsel, have
   been dragged out to an unconscionable length. In this, as in the
@@ -3577,7 +3577,7 @@ recruiting or organization, as understood in Germany, practically
 impossible. To secure fairly uniform efficiency in the various corps,
 and also as a means of unifying Italy, Piedmontese, Umbrians and
 Neapolitans are mixed in the same corps and sleep in the same barrack
-room. But on leaving the colours the men disperse to their homes, and
+room. But on leaving the [[Colours|colours]] the men disperse to their homes, and
 thus a regiment has, on mobilization, to draw largely on the nearest
 reservists, irrespective of the corps to which they belong. The remedy
 for this condition of affairs is sought in a most elaborate and
@@ -3586,7 +3586,7 @@ another at stated intervals in peace-time, but this is no more than a
 palliative, and there are other difficulties of almost equal importance
 to be surmounted. Thus in Italy the universal service system, though
 probably the best organization both for the army and the nation, works
-with a maximum of friction. "Army Reform," therefore, has been very much
+with a maximum of [[Friction|friction]]. "Army Reform," therefore, has been very much
 in the forefront of late years owing to the estrangement of Austria
 (which power can mobilize much more rapidly), but financial difficulties
 have hitherto stood in the way of any radical and far-reaching reforms,
@@ -3693,7 +3693,7 @@ quartered on the plain of Lombardy and Venetia and on the frontiers, and
 2 more in northern Central Italy. Their headquarters are: I. Turin, II.
 Alessandria, III. Milan, IV. Genoa, V. Verona, VI. Bologna, VII. Ancona,
 VIII. Florence, IX. Rome, X. Naples, XI. Bari, XII. Palermo, Sardinian
-division Cagliari. In addition there are 22 "Alpini" battalions and 15
+division Cagliari. In addition there are 22 "Alpini" [[Battalion|battalions]] and 15
 mountain batteries stationed on the Alpine frontiers.
 
 The war strength was estimated in 1901 as, _Active Army_ (incl. Reserve)
@@ -3754,7 +3754,7 @@ Venice; and into two _comandi militari_, with headquarters at Taranto
 and at the island of Maddalena. The _personnel_ of the navy consists of
 the following corps: (1) General staff; (2) naval engineers, chiefly
 employed in building and repairing war vessels; (3) sanitary corps; (4)
-commissariat corps, for supplies and account-keeping; (5) crews.
+[[Commissariat|commissariat]] corps, for supplies and account-keeping; (5) crews.
 
 The _matériel_ of the Italian navy has been completely transformed,
 especially in virtue of the bill of the 31st of March 1875. Old types of
@@ -3778,7 +3778,7 @@ vessels have been sold or demolished, and replaced by newer types.
 
   The four modern ships--the "Vittorio Emanuele" class, laid down in
   1897--have a tonnage of 12,625, two 12-in. and twelve 8-in. guns, an
-  I.H.P. of 19,000, and a designed speed of 22 knots, being intended to
+  I.H.P. of 19,000, and a designed speed of 22 [[Knot|knots]], being intended to
   avoid any battleship and to carry enough guns to destroy any cruiser.
 
   The _personnel_ on active service consisted of 1799 officers and
@@ -3848,7 +3848,7 @@ proper, the approximate totals are:--
   contributions from every branch of the effective revenue, except the
   "contributions and repayments from local authorities." The railways
   showed an increase of £351,685; registration transfer and succession,
-  £295,560; direct taxation, £42,136 (mainly from income tax, which more
+  £295,560; direct taxation, £42,136 (mainly from [[Income Tax|income tax]], which more
   than made up for the remission of the house tax in the districts of
   Calabria visited by the earthquake of 1906); customs and excise,
   £1,036,742; government monopolies, £291,027; posts, £41,310;
@@ -3856,7 +3856,7 @@ proper, the approximate totals are:--
   was allocated to the improvement of posts, telegraphs and telephones;
   £1,000,000 to public works (£720,000 for harbour improvement and
   £280,000 for internal navigation); £200,000 to the navy (£132,000 for
-  a second dry dock at Taranto and £68,000 for coal purchase); and
+  a second dry [[Dock|dock]] at Taranto and £68,000 for coal purchase); and
   £200,000 as a nucleus of a fund for the purchase of valuable works of
   art which are in danger of exportation.
 
@@ -3907,7 +3907,7 @@ proper, the approximate totals are:--
   successions, stamps, registrations, mortgages, &c.; the latter to
   distilleries, breweries, explosives, native sugar and matches, though
   the customs revenue and octrois upon articles of general consumption,
-  such as corn, wine, spirits, meat, flour, petroleum, butter, tea,
+  such as corn, wine, spirits, meat, flour, petroleum, [[Butter|butter]], tea,
   coffee and sugar, may be considered as belonging to this class. The
   monopolies are those of salt, tobacco and the lottery.
 
@@ -4042,7 +4042,7 @@ proper, the approximate totals are:--
   amount afterwards.
 
   _Currency._--The _lira_ (plural _lire_) of 100 _centesimi_ (centimes)
-  is equal in value to the French franc. The total coinage (exclusive of
+  is equal in value to the French [[Franc|franc]]. The total coinage (exclusive of
   Eritrean currency) from the 1st of January 1862 to the end of 1907 was
   1,104,667,116 lire (exclusive of recoinage), divided as follows: gold,
   427,516,970 lire; silver, 570,097,025 lire; nickel, 23,417,000 lire;
@@ -4125,7 +4125,7 @@ proper, the approximate totals are:--
   and of 94.8 on the Paris Bourse. By the end of 1901 the price of
   Italian stock on the Paris Bourse had, however, risen to par or
   thereabouts. The average price of Italian 4% in 1905 was 105.29; since
-  the conversion to 3¾% net (to be further reduced to 3½ in five more
+  the [[Conversion|conversion]] to 3¾% net (to be further reduced to 3½ in five more
   years), the price has been about 103.5. Rates of exchange, or, in
   other words the gold premium, favoured Italy during the years
   immediately following the abolition of the forced currency in 1881. In
@@ -4193,7 +4193,7 @@ proper, the approximate totals are:--
   was divided into 69 provinces and 8545 communes. The extent to which
   communal independence had been maintained in Italy through all the
   centuries of its political disintegration was strongly in its favour.
-  The syndic (_sindaco_) or chief magistrate of the commune was
+  The syndic (_sindaco_) or chief [[Magistrate|magistrate]] of the commune was
   appointed by the king for three years, and he was assisted by a
   "municipal junta."
 
@@ -4361,7 +4361,7 @@ A. ANCIENT LANGUAGES AND PEOPLES
 The ethnography of ancient Italy is a very complicated and difficult
 subject, and notwithstanding the researches of modern scholars is still
 involved in some obscurity. The great beauty and fertility of the
-country, as well as the charm of its climate, undoubtedly attracted,
+country, as well as the [[Charm|charm]] of its climate, undoubtedly attracted,
 even in early ages, successive swarms of invaders from the north, who
 sometimes drove out the previous occupants of the most favoured
 districts, at others reduced them to a state of serfdom, or settled down
@@ -4375,7 +4375,7 @@ is to a great extent inapplicable, from the fact that the idioms that
 prevailed in Italy in and before the 5th century B.C. are preserved, if
 at all, only in a few scanty and fragmentary inscriptions, though from
 that date onwards we have now a very fair record of many of them (see,
-e.g. LATIN LANGUAGE, OSCA LINGUA, IGUVIUM, VOLSCI, ETRURIA: section
+e.g. LATIN LANGUAGE, OSCA LINGUA, [[Iguvium|IGUVIUM]], VOLSCI, ETRURIA: section
 _Language_, and below). These materials, imperfect as they are, when
 combined with the notices derived from ancient writers and the evidence
 of archaeological excavations, may be considered as having furnished
@@ -4402,7 +4402,7 @@ Taking the term Italy to comprise the whole peninsula with the northern
 region as far as the Alps, we must first distinguish the tribe or tribes
 which spoke Indo-European languages from those who did not. To the
 latter category it is now possible to refer with certainty only the
-Etruscans (for the chronology and limits of their occupation of Italian
+Etruscans (for the [[Chronology|chronology]] and limits of their occupation of Italian
 soil see ETRURIA: section _Language_). Of all the other tribes that
 inhabited Italy down to the classical period, of whose speech there is
 any record (whether explicit or in the form of names and glosses), it is
@@ -4437,7 +4437,7 @@ to link them with the -_CO_- peoples, whose early distribution is
 discussed under VOLSCI and LIGURIA. (4) It is difficult to point to any
 definite evidence by which we may determine the dates of the earliest
 appearance of Gallic tribes in the north of Italy. No satisfactory
-collection has been made of the Celtic inscriptions of Cisalpine Gaul,
+collection has been made of the Celtic inscriptions of Cisalpine [[Gaul]],
 though many are scattered about in different museums. For our present
 purpose it is important to note that the archaeological stratification
 in deposits like those of Bologna shows that the Gallic period
@@ -4453,10 +4453,10 @@ century B.C. Their linguistic neighbours were Ligurian in the south and
 south-west, and the Veneti on the east.
 
 We know from the Roman historians that a large force of Gauls came as
-far south as Rome in the year 390 B.C., and that some part of this horde
+far south as Rome in the year 390 B.C., and that some part of this [[Horde|horde]]
 settled in what was henceforward known as the _Ager Gallicus_, the
 easternmost strip of coast in what was later known as Umbria, including
-the towns of Caesena, Ravenna and Ariminum. A bilingual inscription
+the towns of Caesena, Ravenna and [[Ariminum]]. A bilingual inscription
 (Gallic and Latin) of the 2nd century B.C. was found as far south as
 Tuder, the modern Todi (_Italic Dialects_, ii. 528; Stokes,
 _Bezzenberger's Beiträge_, 11, p. 113).
@@ -4465,7 +4465,7 @@ _Bezzenberger's Beiträge_, 11, p. 113).
 the narrower sense, (a) Oscan; (b) the dialect of Velitrae, commonly
 called Volscian; (c) Latinian (i.e. Latin and its nearest congeners,
 like Faliscan); and (d) Umbrian (or, as it may more safely be called,
-Iguvine), two principles of classification offer themselves, of which
+Iguvine), two principles of [[Classification|classification]] offer themselves, of which
 the first is purely linguistic, the second linguistic and topographical.
 Writers on the ethnology of Italy have been hitherto content with the
 first, namely, the broad distinction between the dialects which
@@ -4478,7 +4478,7 @@ and Umbrian _pis_ (see further LATIN LANGUAGE).
 This distinction, however, takes us but a little way towards an
 historical grouping of the tribes, since the only Latinian dialects of
 which, besides Latin, we have inscriptions are Faliscan and Marsian (see
-FALISCI, MARSI); although the place-names of the Aequi (q.v.) suggest
+[[Falisci|FALISCI]], MARSI); although the place-names of the Aequi (q.v.) suggest
 that they belong to the same group in this respect. Except, therefore,
 for a very small and apparently isolated area in the north of Latium and
 south of Etruria, all the tribes of Italy, though their idioms differed
@@ -4497,7 +4497,7 @@ oppidan names of communities belonging to the Sabine stock were marked
 by the use of the suffix -_NO_- as in _Sabini_; and that there was some
 linguistic evidence that this stratum of population overcame an earlier
 population, which used, generally, ethnica in -_CO_- or -_TI_- (as in
-_Marruci_, _Ardeates_, transformed later into _Marrucini_, _Ardeatini_).
+_Marruci_, _Ardeates_, transformed later into _[[Marrucini]]_, _Ardeatini_).
 
 The validity of this distinction and its results are discussed under
 SABINI and VOLSCI, but it is well to state here its chief consequences.
@@ -4511,7 +4511,7 @@ invasions began.
 2. It would follow, on the other hand, that what is called Oscan
 represented the language of the invading Sabines (more correctly
 Safines), whose racial affinities would seem to be of a distinctly more
-northern cast, and to mark them, like the Dorians or Achaeans in Greece,
+northern cast, and to mark them, like the [[Dorians]] or Achaeans in Greece,
 as an early wave of the invaders who more than once in later history
 have vitally influenced the fortunes of the tempting southern land into
 which they forced their way.
@@ -4619,7 +4619,7 @@ its confluence with the Trebia just above Placentia.
 
 The tenth region included Venetia from the Padus and Adriatic to the
 Alps, to which was annexed the neighbouring peninsula of Istria, and to
-the west the territory of the Cenomani, a Gaulish tribe, extending from
+the west the territory of the [[Cenomani]], a Gaulish tribe, extending from
 the Athesis to the Addua, which had previously been regarded as a part
 of Gallia Cisalpina.
 
@@ -4662,7 +4662,7 @@ centre, the Via Appia itself ran south-east through the mountains past
 Venusia to Tarentum on the south-west coast of the "heel," and thence
 across Calabria to Brundusium, while Trajan's correction of it,
 following an older mule-track, ran north-east through the mountains and
-then through the lower ground of Apulia, reaching the coast at Barium.
+then through the lower ground of Apulia, reaching the coast at [[Barium]].
 Both met at Brundusium, the principal port for the East. From Aequum
 Tuticum, on the Via Traiana, the Via Herculia ran to the south-east,
 crossing the older Via Appia, then south to Potentia and so on to join
@@ -4674,14 +4674,14 @@ Claudius; but on the north and north-west started the main highways
 which communicated with central and northern Italy, and with all that
 part of the Roman empire which was accessible by land. The Via Salaria,
 a very ancient road, with its branch, the Via Caecilia, ran
-north-eastwards to the Adriatic coast and so also did the Via Flaminia,
+north-eastwards to the Adriatic coast and so also did the Via [[Flaminia]],
 which reached the coast at Fanum Fortunae, and thence followed it to
 Ariminum. The road along the east coast from Fanum Fortunae down to
 Barium, which connected the terminations of the Via Salaria and Via
 Valeria, and of other roads farther south crossing from Campania, had no
 special name in ancient times, as far as we know. The Via Flaminia was
 the earliest and most important road to the north; and it was soon
-extended (in 187 B.C.) by the Via Aemilia running through Bononia as
+extended (in 187 B.C.) by the Via Aemilia running through [[Bononia]] as
 far as Placentia, in an almost absolutely straight line between the
 plain of the Po and the foot of the Apennines. In the same year a road
 was constructed over the Apennines from Bononia to Arretium, but it is
@@ -4689,7 +4689,7 @@ difficult to suppose that it was not until later that the Via Cassia was
 made, giving a direct communication between Arretium and Rome. The Via
 Clodia was an alternative route to the Cassia for the first portion out
 of Rome, a branch having been built at the same time from Florentia to
-Lucca and Luna. Along the west coast the Via Aurelia ran up to Pisa and
+Lucca and Luna. Along the west coast the Via [[Aurelia]] ran up to Pisa and
 was continued by another Via Aemilia to Genoa. Thence the Via Postumia
 led to Dertona, Placentia and Cremona, while the Via Aemilia and the Via
 Julia Augusta continued along the coast into Gallia Narbonensis.
@@ -4737,11 +4737,11 @@ earliest date with dualism. The same revolution vested supreme authority
 in a non-resident and inefficient autocrat, whose title gave him the
 right to interfere in Italian affairs, but who lacked the power and will
 to rule the people for his own or their advantage. Odoacer inaugurated
-that long series of foreign rulers--Greeks, Franks, Germans, Spaniards
+that long series of foreign rulers--Greeks, [[Frank|Franks]], Germans, Spaniards
 and Austrians--who have successively contributed to the misgovernment of
 Italy from distant seats of empire.
 
-I. _Gothic and Lombard Kingdoms._--In 488 Theodoric, king of the East
+I. _[[Gothic]] and Lombard Kingdoms._--In 488 Theodoric, king of the East
 Goths, received commission from the Greek emperor, Zeno, to undertake
 the affairs of Italy. He defeated Odoacer, drove him to Ravenna,
 besieged him there, and in 493 completed the conquest of the country by
@@ -4759,7 +4759,7 @@ their rule was favourable to the Romans, they were Arians; and
 religious differences, combined with the pride and jealousies of a
 nation accustomed to imperial honours, rendered the inhabitants of Italy
 eager to throw off their yoke. When, therefore, Justinian undertook the
-reconquest of Italy, his generals, Belisarius and Narses, were supported
+reconquest of Italy, his generals, [[Belisarius]] and Narses, were supported
 by the south. The struggle of the Greeks and the Goths was carried on
 for fourteen years, between 539 and 553, when Teias, the last Gothic
 king, was finally defeated in a bloody battle near Vesuvius. At its
@@ -4832,7 +4832,7 @@ population throughout Italy. The fruit of his policy, which made of Rome
 a counterpoise against the effete empire of the Greeks upon the one hand
 and against the pressure of the feudal kingdom on the other, was seen in
 the succeeding century. When Leo the Isaurian published his decrees
-against the worship of images in 726, Gregory II. allied himself with
+against the worship of [[Image|images]] in 726, Gregory II. allied himself with
 Liudprand, the Lombard king, threw off allegiance to Byzantium, and
 established the autonomy of Rome. This pope initiated the dangerous
 policy of playing one hostile force off against another with a view to
@@ -4865,12 +4865,12 @@ II. _Frankish Emperors._--The Franko-Papal alliance, which conferred a
 crown on Pippin and sovereign rights upon the see of Rome, held within
 itself that ideal of mutually supporting papacy and empire which
 exercised so powerful an influence in medieval history. When Charles the
-Great (Charlemagne) deposed his father-in-law Desiderius, the last
+Great (Charlemagne) deposed his father-in-law [[Desiderius]], the last
 Lombard king, in 774, and when he received the circlet of the empire
 from Leo III. at Rome in 800, he did but complete and ratify the compact
 offered to his grandfather, Charles Martel, by Gregory III. The
 relations between the new emperor and the pope were ill defined; and
-this proved the source of infinite disasters to Italy and Europe in the
+this proved the source of [[Infinite|infinite]] disasters to Italy and Europe in the
 sequel. But for the moment each seemed necessary to the other; and that
 sufficed. Charles took possession of the kingdom of Italy, as limited by
 Pippin's settlement. The pope was confirmed in his rectorship of the
@@ -4979,7 +4979,7 @@ national feeling. Berengar stood alone against a multitude, unanimous in
 their intolerance of discipline. His predecessor in the kingdom, Lothar,
 had left a young and beautiful widow, Adelheid. Berengar imprisoned her
 upon the Lake of Como, and threatened her with a forced marriage to his
-son Adalbert. She escaped to the castle of Canossa, where the great
+son Adalbert. She escaped to the castle of [[Canossa]], where the great
 count of Tuscany espoused her cause, and appealed in her behalf to Otto
 the Saxon. The king of Germany descended into Italy, and took Adelheid
 in marriage. After this episode Berengar was more discredited and
@@ -5052,9 +5052,9 @@ Otto III., who descended into Italy in 996, found that the affairs of
 Rome and of the southern provinces were more than even their imperial
 powers could cope with. The faction of the counts of Tusculum raised its
 head from time to time in the Eternal City, and Rome still claimed to be
-a commonwealth. Otto III.'s untimely death in 1002 introduced new
+a [[Commonwealth|commonwealth]]. Otto III.'s untimely death in 1002 introduced new
 discords. Rome fell once more into the hands of her nobles. The Lombards
-chose Ardoin, marquis of Ivrea, for king, and Pavia supported his claims
+[[Chose|chose]] Ardoin, marquis of Ivrea, for king, and Pavia supported his claims
 against those of Henry of Bavaria, who had been elected in Germany.
 Milan sided with Henry; and this is perhaps the first eminent instance
 of cities being reckoned powerful allies in the Italian disputes of
@@ -5137,7 +5137,7 @@ Roman see as theirs. These German popes were short-lived and
 inefficient. Their appointment, according to notions which defined
 themselves within the church at this epoch, was simoniacal; and during
 the long minority of Henry IV., who succeeded his father in 1056, the
-terrible Tuscan monk, Hildebrand of Soana, forged weapons which he used
+terrible Tuscan monk, [[Hildebrand]] of Soana, forged weapons which he used
 with deadly effect against the presumption of the empire. The condition
 of the church seemed desperate, unless it could be purged of crying
 scandals--of the subjection of the papacy to the great Roman nobles, of
@@ -5187,7 +5187,7 @@ their power in all directions, until they made themselves the most
 considerable force in southern Italy. William of Hauteville was
 proclaimed count of Apulia. His half-brother, Robert Wiskard or
 Guiscard, after defeating the papal troops at Civitella in 1053,
-received from Leo IX. the investiture of all present and future
+received from Leo IX. the [[Investiture|investiture]] of all present and future
 conquests in Apulia, Calabria and Sicily, which he agreed to hold as
 fiefs of the Holy See. Nicholas II. ratified this grant, and confirmed
 the title of count. Having consolidated their possessions on the
@@ -5214,7 +5214,7 @@ of the peninsula. Their kingdom, though Naples was from time to time
 separated from Sicily, never quite lost the cohesion they had given it;
 and all the disturbances of equilibrium in Italy were due in after days
 to papal manipulation of the rights acquired by Robert Guiscard's act of
-homage. The southern regno, in the hands of the popes, proved an
+[[Homage|homage]]. The southern regno, in the hands of the popes, proved an
 insurmountable obstacle to the unification of Italy, led to French
 interference in Italian affairs, introduced the Spaniard and maintained
 in those rich southern provinces the reality of feudal sovereignty long
@@ -5232,7 +5232,7 @@ council, and passed measures enforcing the celibacy of the clergy. In
 1075 he caused the investiture of ecclesiastical dignitaries by secular
 potentates of any degree to be condemned. These two reforms, striking at
 the most cherished privileges and most deeply-rooted self-indulgences of
-the aristocratic caste in Europe, inflamed the bitterest hostility.
+the aristocratic [[Caste|caste]] in Europe, inflamed the bitterest hostility.
 Henry IV., king of Germany, but not crowned emperor, convened a diet in
 the following year at Worms, where Gregory was deposed and
 excommunicated. The pope followed with a counter excommunication, far
@@ -5241,7 +5241,7 @@ allegiance. War was thus declared between the two chiefs of western
 Christendom, that war of investitures which out-lasted the lives of both
 Gregory and Henry, and was not terminated till the year 1122. The
 dramatic episodes of this struggle are too well known to be enlarged
-upon. In his single-handed duel with the strength of Germany, Gregory
+upon. In his single-handed [[Duel|duel]] with the strength of Germany, Gregory
 received material assistance from the Countess Matilda of Tuscany. She
 was the last heiress of the great house of Canossa, whose fiefs
 stretched from Mantua across Lombardy, passed the Apennines, included
@@ -5257,7 +5257,7 @@ Robert Guiscard carried him in 1084 from the anarchy of rebellious Rome.
 With unbroken spirit, though the objects of his life were unattained,
 though Italy and Europe had been thrown into confusion, and the issue of
 the conflict was still doubtful, Gregory expired in 1085 with these
-words on his lips: "I loved justice, I hated iniquity, therefore in
+words on his [[Lip|lips]]: "I loved justice, I hated iniquity, therefore in
 banishment I die."
 
 The greatest of the popes thus breathed his last; but the new spirit he
@@ -5267,7 +5267,7 @@ carried on his struggle with Henry IV. and his imperial antipopes,
 encouraging the emperor's son to rebel against him, and stirring up
 Europe for the first crusade. When Henry IV. died, his own son's
 prisoner, in 1106, Henry V. crossed the Alps, entered Rome, wrung the
-imperial coronation from Paschal II. and compelled the pope to grant his
+imperial [[Coronation|coronation]] from Paschal II. and compelled the pope to grant his
 claims on the investitures. Scarcely had he returned to Germany when the
 Lateran disavowed all that the pope had done, on the score that it had
 been extorted by force. France sided with the church. Germany rejected
@@ -5391,7 +5391,7 @@ small price to pay for independence. It inflicted upon Italy the
 ineradicable curse of party-warfare, setting city against city, house
 against house, and rendering concordant action for a national end
 impossible. No sooner had the compromise of the investitures been
-concluded than it was manifest that the burghers of the new enfranchised
+concluded than it was [[Manifest|manifest]] that the burghers of the new enfranchised
 communes were resolved to turn their arms against each other. We seek in
 vain an obvious motive for each separate quarrel. All we know for
 certain is that, at this epoch, Rome attempts to ruin Tivoli, and Venice
@@ -5443,7 +5443,7 @@ neither the imperial nor the anti-imperial party had any real community
 of interest with Frederick. He came to supersede self-government by
 consuls, to deprive the cities of the privilege of making war on their
 own account and to extort his regalian rights of forage, food and
-lodging for his armies. It was only the habit of inter-urban jealousy
+lodging for his armies. It was only the habit of inter-urban [[Jealousy|jealousy]]
 which prevented the communes from at once combining to resist demands
 which threatened their liberty of action, and would leave them passive
 at the pleasure of a foreign master. The diet was opened at Roncaglia
@@ -5457,7 +5457,7 @@ southward to Rome. Outside the gates of Rome he was met by a deputation
 from the senate he had come to supersede, who addressed him in words
 memorable for expressing the republican spirit of new Italy face to face
 with autocratic feudalism: "Thou wast a stranger, I have made thee a
-citizen"; it is Rome who speaks: "Thou earnest as an alien from beyond
+citizen"; it is Rome who speaks: "Thou [[Earnest|earnest]] as an alien from beyond
 the Alps, I have conferred on thee the principality." Moved only to
 scorn and indignation by the rhetoric of these presumptuous enthusiasts,
 Frederick marched into the Leonine city, and took the imperial crown
@@ -5484,7 +5484,7 @@ the Adda and Ticino, and waited for the emperor's next descent. He came
 in 1158 with a large army, overran Lombardy, raised his imperial allies,
 and sat down before the walls of Milan. Famine forced the burghers to
 partial obedience, and Frederick held a victorious diet at Roncaglia.
-Here the jurists of Bologna appeared, armed with their new lore of Roman
+Here the jurists of Bologna appeared, armed with their new [[Lore|lore]] of Roman
 law, and expounded Justinian's code in the interests of the German
 empire. It was now seen how the absolutist doctrines of autocracy
 developed in Justinian's age at Byzantium would bear fruits in the
@@ -5495,10 +5495,10 @@ this stretch of his authority, while it exacerbated his foes, forced
 even his friends to join their ranks against him. The war, meanwhile,
 dragged on. Crema yielded after an heroic siege in 1160, and was
 abandoned to the cruelty of its fierce rival Cremona. Milan was invested
-in 1161, starved into capitulation after nine months' resistance, and
+in 1161, starved into [[Capitulation|capitulation]] after nine months' resistance, and
 given up to total destruction by the Italian imperialists of Frederick's
 army, so stained and tarnished with the vindictive passions of municipal
-rivalry was even this, the one great glorious strife of Italian annals.
+rivalry was even this, the one great glorious strife of Italian [[Annals|annals]].
 Having ruined his rebellious city, but not tamed her spirit, Frederick
 withdrew across the Alps. But, in the interval between his second and
 third visit, a league was formed against him in north-eastern Lombardy.
@@ -5508,13 +5508,13 @@ of German knights, the imperial cities refused to join his standards.
 This was the first and ominous sign of a coming change.
 
 
-  Lombard League.
+  [[Lombard League]].
 
 Meanwhile the election of Alexander III. to the papacy in 1159 added a
 powerful ally to the republican party. Opposed by an anti-pope whom the
 emperor favoured, Alexander found it was his truest policy to rely for
 support upon the anti-imperialist communes. They in return gladly
-accepted a champion who lent them the prestige and influence of the
+accepted a [[Champion|champion]] who lent them the prestige and influence of the
 church. When Frederick once more crossed the Alps in 1166, he advanced
 on Rome, and besieged Alexander in the Coliseum. But the affairs of
 Lombardy left him no leisure to persecute a recalcitrant pontiff. In
@@ -5527,7 +5527,7 @@ established. Novara, Vercelli, Asti and Tortona swelled its ranks; only
 Pavia and Montferrat remained imperialist between the Alps and
 Apennines. Frederick fled for his life by the Mont Cenis, and in 1168
 the town of Alessandria was erected to keep Pavia and the marquisate in
-check. In the emperor's absence, Ravenna, Rimini, Imola and Forli joined
+check. In the emperor's absence, Ravenna, Rimini, Imola and [[Forli]] joined
 the league, which now called itself the "Society of Venice, Lombardy,
 the March, Romagna and Alessandria." For the fifth time, in 1174,
 Frederick entered his rebellious dominions. The fortress town of
@@ -5656,7 +5656,7 @@ Lombardy. A second great event was the fourth crusade, undertaken in
 Italians in the Mediterranean. The Venetians, who contracted for the
 transport of the crusaders, and whose blind doge Dandolo was first to
 land in Constantinople, received one-half and one-fourth of the divided
-Greek empire for their spoils. The Venetian ascendancy in the Levant
+Greek empire for their spoils. The Venetian ascendancy in the [[Levant]]
 dates from this epoch; for, though the republic had no power to occupy
 all the domains ceded to it, Candia was taken, together with several
 small islands and stations on the mainland. The formation of a Latin
@@ -5708,13 +5708,13 @@ Cortenuova in 1237, and sent their carroccio as a trophy of his victory
 to Rome. Gregory IX. feared lest the Guelph party would be ruined by
 this check. He therefore made alliance with Venice and Genoa, fulminated
 a new excommunication against Frederick, and convoked a council at Rome
-to ratify his ban in 1241. The Genoese undertook to bring the French
+to ratify his [[Ban|ban]] in 1241. The Genoese undertook to bring the French
 bishops to this council. Their fleet was attacked at Meloria by the
 Pisans, and utterly defeated. The French prelates went in silver chains
 to prison in the Ghibelline capital of Tuscany. So far Frederick had
 been successful at all points. In 1243 a new pope, Innocent IV., was
 elected, who prosecuted the war with still bitterer spirit. Forced to
-fly to France, he there, at Lyons, in 1245, convened a council, which
+fly to France, he there, at [[Lyons]], in 1245, convened a council, which
 enforced his condemnation of the emperor. Frederick's subjects were
 freed from their allegiance, and he was declared dethroned and deprived
 of all rights. Five times king and emperor as he was, Frederick, placed
@@ -5729,7 +5729,7 @@ from him, and he spent months in 1247-1248 vainly trying to reduce this
 one time faithful city. The only gleam of success which shone on his ill
 fortune was the revolution which placed Florence in the hands of the
 Ghibellines in 1248. Next year Bologna rose against him, defeated his
-troops and took his son Enzio, king of Sardinia, prisoner at Fossalta.
+troops and took his son [[Enzio]], king of Sardinia, prisoner at Fossalta.
 Hunted to the ground and broken-hearted, Frederick expired at the end of
 1250 in his Apulian castle of Fiorentino. It is difficult to judge his
 career with fairness. The only prince who could, with any probability of
@@ -5761,7 +5761,7 @@ Ezzelino. This tyrant had made himself justly odious; and when he was
 hunted to death in 1259, the triumph was less for the Guelph cause than
 for humanity outraged by the iniquities of such a monster. The battle
 between Guelph and Ghibelline raged with unintermitting fury. While the
-former faction gained in Lombardy by the massacre of Ezzelino, the
+former faction gained in Lombardy by the [[Massacre|massacre]] of Ezzelino, the
 latter revived in Tuscany after the battle of Montaperti, which in 1260
 placed Florence at the discretion of the Ghibellines. Manfred, now
 called king of Sicily, headed the Ghibellines, and there was no strong
@@ -5775,8 +5775,8 @@ defeated Manfred in a battle at Grandella near Benevento in 1266.
 Manfred was killed; and, when Conradin, a lad of sixteen, descended from
 Germany to make good his claims to the kingdom, he too was defeated at
 Tagliacozzo in 1267. Less lucky than his uncle, Conradin escaped with
-his life, to die upon a scaffold at Naples. His glove was carried to his
-cousin Constance, wife of Peter of Aragon, the last of the great
+his life, to die upon a scaffold at Naples. His [[Glove|glove]] was carried to his
+cousin Constance, wife of Peter of [[Aragon]], the last of the great
 Norman-Swabian family. Enzio died in his prison four years later. The
 popes had been successful; but they had purchased their bloody victory
 at a great cost. This first invitation to French princes brought with it
@@ -5820,12 +5820,12 @@ Neri and Bianchi, had acquired such force that Boniface VIII., a
 violently Guelph pope, called in Charles of Valois to pacify the
 republic and undertake the charge of Italian affairs. Boniface was a
 passionate and unwise man. After quarrelling with the French king,
-Philip le Bel, he fell into the hands of the Colonna family at Anagni,
+Philip le [[Bel]], he fell into the hands of the Colonna family at Anagni,
 and died, either of the violence he there received or of mortification,
 in October 1303.
 
 
-  Translation of the Papacy to Avignon.
+  Translation of the Papacy to [[Avignon]].
 
 After the short papacy of Benedict XI. a Frenchman, Clement V., was
 elected, and the seat of the papacy was transferred to Avignon. Thus
@@ -5840,7 +5840,7 @@ pontiffs, in their detestation of Ghibellinism, to rely successively
 upon the houses of Anjou and of Valois. This policy it was which
 justified Dante's fierce epigram--the _puttaneggiar co regi_.
 
-The period we have briefly traversed was immortalized by Dante in an
+The period we have briefly traversed was immortalized by [[Dante]] in an
 epic which from one point of view might be called the poem of the
 Guelphs and Ghibellines. From the foregoing bare narration of events it
 is impossible to estimate the importance of these parties, or to
@@ -5881,7 +5881,7 @@ plebeians. The elder noble families die out or lose their preponderance.
 In some cities, as notably in Florence after the date 1292, it becomes
 criminal to be _scioperato_, or unemployed in industry. New houses rise
 into importance; a new commercial aristocracy is formed. Burghers of all
-denominations are enrolled in one or other of the arts or gilds, and
+[[Denomination|denominations]] are enrolled in one or other of the arts or gilds, and
 these trading companies furnish the material from which the government
 or signoria of the city is composed. Plebeian handicrafts assert their
 right to be represented on an equality with learned professions and
@@ -6050,7 +6050,7 @@ eager to fasten and found tyrannies upon the provinces they had been
 summoned to defend. Their generals substituted heavy-armed cavalry for
 the old militia, and introduced systems of campaigning which reduced the
 art of war to a game of skill. Battles became all but bloodless;
-diplomacy and tactics superseded feats of arms and hard blows in pitched
+[[Diplomacy|diplomacy]] and tactics superseded feats of arms and hard blows in pitched
 fields. In this way the Italians lost their military vigour, and wars
 were waged by despots from their cabinets, who pulled the strings of
 puppet captains in their pay. Nor were the people only enfeebled for
@@ -6143,11 +6143,11 @@ obtained his release and recognition as king. From the end of the year
 for the first time since the year 1282 the crowns of Sicily and Naples.
 The former he held by inheritance, together with that of Aragon. The
 latter he considered to be his by conquest. Therefore, when he died in
-1458, he bequeathed Naples to his natural son Ferdinand, while Sicily
+1458, he bequeathed Naples to his natural son [[Ferdinand]], while Sicily
 and Aragon passed together to his brother John, and so on to Ferdinand
 the Catholic. The twenty-three years of Alfonso's reign were the most
 prosperous and splendid period of South Italian history. He became an
-Italian in taste and sympathy, entering with enthusiasm into the
+Italian in taste and sympathy, entering with [[Enthusiasm|enthusiasm]] into the
 humanistic ardour of the earlier Renaissance, encouraging men of letters
 at his court, administering his kingdom on the principles of an
 enlightened despotism, and lending his authority to establish that
@@ -6171,7 +6171,7 @@ Bernabò and Galeazzo. In the next year Matteo, being judged incompetent
 to rule, was assassinated by order of his brothers, who made an equal
 partition of their subject cities--Bernabò residing in Milan, Galeazzo
 in Pavia. Galeazzo was the wealthiest and most magnificent Italian of
-his epoch. He married his daughter Violante to our duke of Clarence, and
+his epoch. He married his daughter Violante to our duke of [[Clarence]], and
 his son Gian Galeazzo to a daughter of King John of France. When he died
 in 1378, this son resolved to reunite the domains of the Visconti; and,
 with this object in view, he plotted and executed the murder of his
@@ -6205,7 +6205,7 @@ tyranny of several Lombard cities. In others the petty tyrants whom the
 Visconti had uprooted reappeared. The Estensi recovered their grasp upon
 Ferrara, and the Gonzaghi upon Mantua. Venice strengthened herself
 between the Adriatic and the Alps. Florence reassumed her Tuscan
-hegemony. Other communes which still preserved the shadow of
+[[Hegemony|hegemony]]. Other communes which still preserved the shadow of
 independence, like Perugia and Bologna, began once more to dream of
 republican freedom under their own leading families. Meanwhile Gian
 Galeazzo had left two sons, Giovanni Maria and Filippo Maria. Giovanni,
@@ -6213,7 +6213,7 @@ a monster of cruelty and lust, was assassinated by some Milanese nobles
 in 1412; and now Filippo set about rebuilding his father's duchy. Herein
 he was aided by the troops of Facino Cane, who, dying opportunely at
 this period, left considerable wealth, a well-trained band of
-mercenaries, and a widow, Beatrice di Tenda. Filippo married and then
+mercenaries, and a widow, [[Beatrice]] di Tenda. Filippo married and then
 beheaded Beatrice after a mock trial for adultery, having used her money
 and her influence in reuniting several subject cities to the crown of
 Milan. He subsequently spent a long, suspicious, secret and
@@ -6243,7 +6243,7 @@ despot, but he also knew how to curb his desire for territory. The
 conception of confederated Italy found in him a vigorous supporter. Thus
 the limitation of the Milanese duchy under Filippo Maria Visconti, and
 its consolidation under Francesco Sforza, were equally effectual in
-preparing the balance of power to which Italian politics now tended.
+preparing the [[Balance Of Power|balance of power]] to which Italian politics now tended.
 
 [Illustration: Map of the Unification of Italy 1859-1870.]
 
@@ -6350,8 +6350,8 @@ establishment of a republic upon a fantastic basis, half classical,
 half feudal, proved the temper of the times; while the rise of dynastic
 families in the cities of the church, claiming the title of papal
 vicars, but acting in their own interests, weakened the authority of the
-Holy See. The predatory expeditions of Bertrand du Poiet and Robert of
-Geneva were as ineffective as the descents of the emperors; and, though
+Holy See. The predatory expeditions of [[Bertrand]] du Poiet and Robert of
+[[Geneva]] were as ineffective as the descents of the emperors; and, though
 the cardinal Albornoz conquered Romagna and the March in 1364, the
 legates who resided in those districts were not long able to hold them
 against their despots. At last Gregory XI. returned to Rome; and Urban
@@ -6364,7 +6364,7 @@ two princely houses of Orsini and Colonna, alike dangerous as friends or
 foes, rendered Rome an unsafe residence. Even when the schism was
 nominally terminated in 1415 by the council of Constance, the next two
 popes held but a precarious grasp upon their Italian domains. Martin V.
-(1417-1431) resided principally at Florence. Eugenius IV. (1431-1447)
+(1417-1431) resided principally at Florence. [[Eugenius]] IV. (1431-1447)
 followed his example. And what Martin managed to regain Eugenius lost.
 At the same time, the change which had now come over Italian politics,
 the desire on all sides for a settlement, and the growing conviction
@@ -6496,8 +6496,8 @@ and Spanish kings were to divide the spoil. The conquest was easy; but,
 when it came to a partition, Ferdinand played his ally false. He made
 himself supreme over the Two Sicilies, which he now reunited under a
 single crown. Three years later, unlessoned by this experience, Louis
-signed the treaty of Blois (1504), whereby he invited the emperor
-Maximilian to aid him in the subjugation of Venice. No policy could have
+signed the treaty of [[Blois]] (1504), whereby he invited the emperor
+[[Maximilian]] to aid him in the subjugation of Venice. No policy could have
 been less far-sighted; for Charles V., joint heir to Austria, Burgundy,
 Castile and Aragon, the future overwhelming rival of France, was already
 born.
@@ -6506,7 +6506,7 @@ The stage was now prepared, and all the actors who were destined to
 accomplish the ruin of Italy trod it with their armies. Spain, France,
 Germany, with their Swiss auxiliaries, had been summoned upon various
 pretexts to partake her provinces. Then, too late, patriots like
-Machiavelli perceived the suicidal self-indulgence of the past, which,
+[[Machiavelli]] perceived the suicidal self-indulgence of the past, which,
 by substituting mercenary troops for national militias, left the
 Italians at the absolute discretion of their neighbours. Whatever parts
 the Italians themselves played in the succeeding quarter of a century,
@@ -6528,7 +6528,7 @@ Julius II. played a perilous game; but the stakes were high, and he
 fancied himself strong enough to guide the tempest he evoked.
 Quarrelling with the Venetians in 1508, he combined the forces of all
 Europe by the league of Cambray against them; and, when he had succeeded
-in his first purpose of humbling them even to the dust, he turned round
+in his first purpose of humbling them even to the [[Dust|dust]], he turned round
 in 1510, uttered his famous resolve to expel the barbarians from Italy,
 and pitted the Spaniards against the French. It was with the Swiss that
 he hoped to effect this revolution; but the Swiss, now interfering for
@@ -6569,7 +6569,7 @@ counterpoise to Charles. It is impossible in this place to follow the
 tangled intrigues of that period. The year 1527 was signalized by the
 famous sack of Rome. An army of mixed German and Spanish troops,
 pretending to act for the emperor, but which may rather be regarded as a
-vast marauding party, entered Italy under their leader Frundsberg. After
+vast marauding party, entered Italy under their leader [[Frundsberg]]. After
 his death, the Constable de Bourbon took command of them; they marched
 slowly down, aided by the marquis of Ferrara, and unopposed by the duke
 of Urbino, reached Rome, and took it by assault. The constable was
@@ -6691,7 +6691,7 @@ great Doria family, and held a feeble sway in Corsica; and the two
 insignificant republics of Lucca and San Marino.
 
 The future hope of Italy, however, was growing in a remote and hitherto
-neglected corner. Emmanuel Philibert, duke of Savoy, represented the
+neglected corner. [[Emmanuel]] Philibert, duke of Savoy, represented the
 oldest and not the least illustrious reigning house in Europe, and his
 descendants were destined to achieve for Italy the independence which no
 other power or prince had given her since the fall of ancient Rome. (See
@@ -6721,7 +6721,7 @@ still further concentrated upon Lombard conquests. Charles Emmanuel now
 attempted the acquisition of Montferrat, which was soon to become vacant
 by the death of Francesco Gonzaga, who held it together with Mantua. In
 order to secure this territory, he went to war with Philip III. of
-Spain, and allied himself with Venice and the Grisons to expel the
+Spain, and allied himself with Venice and the [[Grisons]] to expel the
 Spaniards from the Valtelline. When the male line of the Gonzaga family
 expired in 1627, Charles, duke of Nevers, claimed Mantua and Montferrat
 in right of his wife, the only daughter of the last duke. Charles
@@ -6746,7 +6746,7 @@ Urbino on the death of Francesco Maria II., the last representative of
 Montefeltro and Della Rovere. The popes were now masters of a fine and
 compact territory, embracing no inconsiderable portion of Countess
 Matilda's legacy, in addition to Pippin's donation, and the patrimony of
-St Peter. Meanwhile Spanish fanaticism, the suppression of the Huguenots
+St Peter. Meanwhile Spanish fanaticism, the suppression of the [[Huguenots]]
 in France and the Catholic policy of Austria combined to strengthen
 their authority as pontiffs. Urban's predecessor, Paul V., advanced so
 far as to extend his spiritual jurisdiction over Venice, which, up to
@@ -6755,7 +6755,7 @@ Holy See. Venice offered the single instance in Italy of a national
 church. The republic managed the tithes, and the clergy acknowledged no
 chief above their own patriarch. Paul V. now forced the Venetians to
 admit his ecclesiastical supremacy; but they refused to readmit the
-Jesuits, who had been expelled in 1606. This, if we do not count the
+[[Jesuits]], who had been expelled in 1606. This, if we do not count the
 proclamation of James I. of England (1604), was the earliest instance of
 the order's banishment from a state where it had proved disloyal to the
 commonwealth.
@@ -6767,7 +6767,7 @@ Venice rapidly declined throughout the 17th century. The loss of trade
 consequent upon the closing of Egypt and the Levant, together with the
 discovery of America and the sea-route to the Indies, had dried up her
 chief source of wealth. Prolonged warfare with the Ottomans, who forced
-her to abandon Candia in 1669, as they had robbed her of Cyprus in 1570,
+her to abandon Candia in 1669, as they had robbed her of [[Cyprus]] in 1570,
 still further crippled her resources. Yet she kept the Adriatic free of
 pirates, notably by suppressing the sea-robbers called Uscocchi
 (1601-1617), maintained herself in the Ionian Islands, and in 1684 added
@@ -6777,7 +6777,7 @@ read the title Peloponnesiacus, wrested the whole of the Morea from the
 Turks. But after his death in 1715 the republic relaxed her hold upon
 his conquests. The Venetian nobles abandoned themselves to indolence and
 vice. Many of them fell into the slough of pauperism, and were saved
-from starvation by public doles. Though the signory still made a brave
+from starvation by public [[Dol|doles]]. Though the signory still made a brave
 show upon occasions of parade, it was clear that the state was rotten to
 the core, and sinking into the decrepitude of dotage. The Spanish
 monarchy at the same epoch dwindled with apparently less reason.
@@ -6801,7 +6801,7 @@ thrown themselves upon his mercy.
   Wars of Succession.
 
 This inglorious and passive chapter of Italian history is continued to
-the date of the French Revolution with the records of three dynastic
+the date of the [[French Revolution]] with the records of three dynastic
 wars, the war of the Spanish succession, the war of the Polish
 succession, the war of the Austrian succession, followed by three
 European treaties, which brought them respectively to diplomatic
@@ -6862,10 +6862,10 @@ was imprisoned in the castle of Rivoli, where he ended his days in 1732.
 The War of the Polish Succession which now disturbed Europe is only
 important in Italian history because the treaty of Vienna in 1738
 settled the disputed affairs of the duchies of Parma and Tuscany. The
-duke Antonio Farnese died in 1731; the grand-duke Gian Gastone de'
+duke [[Antonio]] Farnese died in 1731; the grand-duke Gian Gastone de'
 Medici died in 1737. In the duchy of Parma Don Carlos had already been
 proclaimed. But he was now transferred to the Two Sicilies, while
-Francis of Lorraine, the husband of Maria Theresa, took Tuscany and
+Francis of [[Lorraine]], the husband of Maria Theresa, took Tuscany and
 Parma. Milan and Mantua remained in the hands of the Austrians. On this
 occasion Charles Emmanuel acquired Tortona and Novara.
 
@@ -7012,7 +7012,7 @@ sovereigns who made peace with, and recognized the French republic,
 early in 1795. The first fortnight of Napoleon's campaign of 1796
 detached Sardinia from alliance with Austria and England. The enthusiasm
 of the Italians for the young Corsican "liberator" greatly helped his
-progress. Two months later Ferdinand of Naples sought for an armistice,
+progress. Two months later Ferdinand of Naples sought for an [[Armistice|armistice]],
 the central duchies were easily overrun, and, early in 1797, Pope Pius
 VI. was fain to sign terms of peace with Bonaparte at Tolentino,
 practically ceding the northern part of his states, known as the
@@ -7048,7 +7048,7 @@ republic. During his sojourn at the castle of Montebello or Mombello,
 near Milan, he commissioned several of the leading men of northern Italy
 to draw up a project of constitution and list of reforms for that
 province. Meanwhile he took care to curb the excesses of the Italian
-Jacobins and to encourage the Moderates, who were favourable to the
+[[Jacobins]] and to encourage the Moderates, who were favourable to the
 French connexion as promising a guarantee against Austrian domination
 and internal anarchy. He summed up his conduct in the letter of the 8th
 of May 1797 to the French directory, "I cool the hot heads here and warm
@@ -7080,7 +7080,7 @@ France for that eastern expedition on which Bonaparte had already set
 his heart. Venice not only paid the costs of the war to the two chief
 belligerents, but her naval resources also helped to launch the young
 general on his career of eastern adventure. Her former rival, Genoa, had
-also been compelled, in June 1797, to bow before the young conqueror,
+also been compelled, in June 1797, to [[Bow|bow]] before the young conqueror,
 and had undergone at his hands a remodelling on the lines already
 followed at Milan. The new Genoese republic, French in all but name, was
 renamed the Ligurian Republic.
@@ -7094,7 +7094,7 @@ challenge the pope's authority at the Eternal City itself. Joseph
 Bonaparte, then French envoy to the Vatican, encouraged democratic
 manifestations; and one of them, at the close of 1797, led to a scuffle
 in which a French general, Duphot, was killed. The French directory at
-once ordered its general, Berthier, to march to Rome: the Roman
+once ordered its general, [[Berthier]], to march to Rome: the Roman
 democrats proclaimed a republic on the 15th of February 1798, and on
 their invitation Berthier and his troops marched in. The pope, Pius VI.,
 was forthwith haled away to Siena and a year later to Valence in the
@@ -7146,7 +7146,7 @@ Italy. The French, poorly handled by Schérer and Sérurier, were
 everywhere beaten, especially at Magnano (April 5) and Cassano (April
 27). Milan and Turin fell before the allies, and Moreau, who took over
 the command, had much difficulty in making his way to the Genoese
-coast-line. There he awaited the arrival of Macdonald with the army of
+coast-line. There he awaited the arrival of [[Macdonald]] with the army of
 Naples. That general, Championnet's successor, had been compelled by
 these reverses and by the threatening pressure of Nelson's fleet to
 evacuate Naples and central Italy. In many parts the peasants and
@@ -7163,7 +7163,7 @@ Meanwhile Macdonald, after struggling through central Italy, had
 defeated an Austrian force at Modena (June 12, 1799), but Suvarov was
 able by swift movements utterly to overthrow him at the Trebbia (June
 17-19). The wreck of his force drifted away helplessly towards Genoa. A
-month later the ambitious young general, Joubert, who took over Moreau's
+month later the ambitious young general, [[Joubert]], who took over Moreau's
 command and rallied part of Macdonald's following, was utterly routed by
 the Austro-Russian army at Novi (August 15) with the loss of 12,000 men.
 Joubert perished in the battle. The growing friction between Austria and
@@ -7220,7 +7220,7 @@ points in the south.
 
 Other changes took place in that year, all of them in favour of France.
 By complex and secret bargaining with the court of Madrid, Bonaparte
-procured the cession to France of Louisiana, in North America, and
+procured the cession to France of [[Louisiana]], in North America, and
 Parma; while the duke of Parma (husband of an infanta of Spain) was
 promoted by him to the duchy of Tuscany, now renamed the kingdom of
 Etruria. Piedmont was declared to be a military division at the disposal
@@ -7279,7 +7279,7 @@ about by Bonaparte in August 1802. Finally we must note that the
 Cisalpine now took the name of the Italian Republic, and that by a
 concordat with the pope, Bonaparte regulated its relations to the Holy
 See in a manner analogous to that adopted in the famous French concordat
-promulgated at Easter 1802 (see CONCORDAT). It remains to add that the
+promulgated at [[Easter]] 1802 (see CONCORDAT). It remains to add that the
 Ligurian Republic and that of Lucca remodelled their constitutions in a
 way somewhat similar to that of the Cisalpine.
 
@@ -7345,7 +7345,7 @@ with a British squadron captured Capri (February 1806), and the peasants
 of the Abruzzi and Calabria soon began to give trouble. Worst of all was
 the arrival of a small British force in Calabria under Sir John Stuart,
 which beat off with heavy loss an attack imprudently delivered by
-General Réynier on level ground near the village of Maida (July 4). The
+General Réynier on level ground near the village of [[Maida]] (July 4). The
 steady volleys of Kempt's light infantry were fatal to the French, who
 fell back in disorder under a bayonet charge of the victors, with the
 loss of some 2700 men. Calabria now rose in revolt against King Joseph,
@@ -7460,7 +7460,7 @@ should infringe the prerogatives of the Holy See in this matter.
 Thereupon the French general, Miollis, who still occupied Rome, caused
 the pope to be arrested and carried him away northwards into Tuscany,
 thence to Savona; finally he was taken, at Napoleon's orders, to
-Fontainebleau. Thus, a second time, fell the temporal power of the
+[[Fontainebleau]]. Thus, a second time, fell the temporal power of the
 papacy. By an imperial decree of the 17th of February 1810, Rome and the
 neighbouring districts, including Spoleto, became part of the French
 empire. Rome thenceforth figured as its second city, and entered upon a
@@ -7493,7 +7493,7 @@ is said that out of 27,000 Italians who entered Russia with Eugène, only
 end for the Napoleonic domination in Italy as elsewhere. Murat, left in
 command of the Grand Army at Vilna, abandoned his charge and in the next
 year made overtures to the allies who coalesced against Napoleon. For
-his vacillations at this time and his final fate, see Murat. Here it
+his vacillations at this time and his final [[Fate|fate]], see Murat. Here it
 must suffice to say that the uncertainty caused by his policy in
 1813-1814 had no small share in embarrassing Napoleon and in
 precipitating the downfall of his power in Italy. Eugène Beauharnais,
@@ -7668,10 +7668,10 @@ was very little oppression, the French codes were retained, and the
 council of state was consulted on all legislative matters. Lucca too
 enjoyed good government, and the peasantry were well cared for and
 prosperous. In Tuscany the rule of Ferdinand and of his minister
-Fossombroni was mild and benevolent, but enervating and demoralizing.
+[[Fossombroni]] was mild and benevolent, but enervating and demoralizing.
 The Papal States were ruled by a unique system of theocracy, for not
 only the head of the state but all the more important officials were
-ecclesiastics, assisted by the Inquisition, the Index and all the
+ecclesiastics, assisted by the Inquisition, the [[Index]] and all the
 paraphernalia of medieval church government. The administration was
 inefficient and corrupt, the censorship uncompromising, the police
 ferocious and oppressive, although quite unable to cope with the
@@ -7710,10 +7710,10 @@ French rule and remember only its good side. The masses were still more
 or less indifferent, but among the nobility and the educated middle
 classes, cut off from all part in free political life, there was
 developed either the spirit of despair at Italy's moral degradation, as
-expressed in the writings of Foscolo and Leopardi, or a passion of
+expressed in the writings of [[Foscolo]] and Leopardi, or a passion of
 hatred and revolt, which found its manifestation, in spite of severe
 laws, in the development of secret societies. The most important of
-these were the Carbonari lodges, whose objects were the expulsion of the
+these were the Carbonari [[Lodge|lodges]], whose objects were the expulsion of the
 foreigner and the achievement of constitutional freedom (see CARBONARI).
 
 
@@ -7736,12 +7736,12 @@ constitution (July 13, 1820), and appointed his son Francis regent. The
 events that followed are described in the article on the history of
 Naples (q.v.). Not only did the constitution, which was modelled on the
 impossible Spanish constitution of 1812, prove unworkable, but the
-powers of the Grand Alliance, whose main object was to keep the peace of
+powers of the [[Grand Alliance]], whose main object was to keep the peace of
 Europe, felt themselves bound to interfere to prevent the evil precedent
 of a successful military revolution. The diplomatic developments that
 led to the intervention of Austria are sketched elsewhere (see EUROPE:
 _History_); in general the result of the deliberations of the congresses
-of Troppau and Laibach was to establish, not the general right of
+of Troppau and [[Laibach]] was to establish, not the general right of
 intervention claimed in the Troppau Protocol, but the special right of
 Austria to safeguard her interests in Italy. The defeat of General Pepe
 by the Austrians at Rieti (March 7, 1821) and the re-establishment of
@@ -7878,7 +7878,7 @@ masses, the despotic governments were unable to hold their own without
 the assistance of foreign bayonets.
 
 
-  Mazzini and "Young Italy."
+  [[Mazzini]] and "Young Italy."
 
 On the 27th of April 1831, Charles Albert succeeded Charles Felix on the
 throne of Piedmont. Shortly afterwards he received a letter from an
@@ -7894,7 +7894,7 @@ Sardinian territory. Mazzini, who had learned to distrust Carbonarism
 owing to its lack of a guiding principle and its absurd paraphernalia of
 ritual and mystery, had conceived the idea of a more serious political
 association for the emancipation of his country not only from foreign
-and domestic despotism but from national faults of character; and this
+and domestic despotism but from national [[Fault|faults]] of character; and this
 idea he had materialized in the organization of a society called the
 _Giovane Italia_ (Young Italy) among the Italian refugees at Marseilles.
 After the events of 1831 he declared that the liberation of Italy could
@@ -8040,7 +8040,7 @@ of the pope, for according to the treaties Austria had the right of
 occupying the citadel alone. There was great resentment throughout
 Italy, and in answer to the pope's request Charles Albert declared that
 he was with him in everything, while from South America Giuseppe
-Garibaldi wrote to offer his services to His Holiness. Charles Albert,
+[[Garibaldi]] wrote to offer his services to His Holiness. Charles Albert,
 although maintaining his reactionary policy, had introduced
 administrative reforms, built railways, reorganized the army and
 developed the resources of the country. He had little sympathy with
@@ -8140,7 +8140,7 @@ pope gave way to popular clamour, granting one concession after another,
 and on the 8th of February he publicly called down God's blessing on
 Italy--that Italy hated by the Austrians, whose name it had hitherto
 been a crime to mention. On the 10th of March he appointed a new
-ministry, under Cardinal Antonelli, which included several Liberal
+ministry, under Cardinal [[Antonelli]], which included several Liberal
 laymen, such as Marco Minghetti, G. Pasolini, L. C. Farini and Count G.
 Recchi. On the 11th a constitution drawn up by a commission of
 cardinals, without the knowledge of the ministry, was promulgated, a
@@ -8228,7 +8228,7 @@ the cession of Nice and Savoy, which the king refused to consider.
   Proclamation of the Roman Republic.
 
 Meanwhile, the republic had been proclaimed in Venice; but on the 7th of
-July the assembly declared in favour of fusion with Piedmont, and Manin,
+July the assembly declared in favour of [[Fusion|fusion]] with Piedmont, and Manin,
 who had been elected president, resigned his powers to the royal
 commissioners. Soon after Custozza, however, the Austrians blockaded the
 city on the land side. In Rome the pope's authority weakened day by day,
@@ -8398,7 +8398,7 @@ call to fight for Italy (see GARIBALDI).
 
 After a heroic defence, conducted by Giuseppe Martinengo, Brescia was
 recaptured in April by the Austrians under Lieut. Field-Marshal von
-Haynau, the atrocities which followed earning for Haynau the name of
+[[Haynau]], the atrocities which followed earning for Haynau the name of
 "The Hyena of Brescia." In May they seized Bologna, and Ancona in June,
 restoring order in those towns by the same methods as at Brescia. Venice
 alone still held out; after Novara the Piedmontese commissioners
@@ -8505,7 +8505,7 @@ attempts, for he was out of touch with Italian public opinion, and he
 greatly weakened his influence by favouring a crack-brained outbreak at
 Milan on the 6th of February 1853, which was easily quelled, numbers of
 the insurgents being executed or imprisoned. Radetzky, not satisfied
-with this, laid an embargo on the property of many Lombard emigrants who
+with this, laid an [[Embargo|embargo]] on the property of many Lombard emigrants who
 had settled in Piedmont and become naturalized, accusing them of
 complicity. The Piedmontese government rightly regarded this measure as
 a violation of the peace treaty of 1850, and Cavour recalled the
@@ -8630,7 +8630,7 @@ movement in favour of Italian unity under Victor Emmanuel, inspired by
 the Milanese marquis Giorgio Pallavicini, who had spent 14 years in the
 Spielberg, and by Manin, living in exile in Paris, both of them
 ex-republicans who had become monarchists. The propaganda was organized
-by the Sicilian La Farina by means of the _Società Nazionale_. All who
+by the Sicilian La [[Farina]] by means of the _Società Nazionale_. All who
 accepted the motto "Unity, Independence and Victor Emmanuel" were
 admitted into the society. Many of the republicans and Mazzinians joined
 it, but Mazzini himself regarded it with no sympathy. In the Austrian
@@ -8750,7 +8750,7 @@ surprise of all Europe, while the allied forces were drawn up ready for
 battle, Napoleon, without consulting Victor Emmanuel, sent General
 Fleury on the 6th of July to Francis Joseph to ask for an armistice,
 which was agreed to. The king was now informed, and on the 8th Generals
-Vaillant, Della Rocca and Hess met at Villafranca and arranged an
+Vaillant, Della Rocca and [[Hess]] met at Villafranca and arranged an
 armistice until the 15th of August. But the king and Cavour were
 terribly upset by this move, which meant peace without Venetia; Cavour
 hurried to the king's headquarters at Monzambano and in excited, almost
@@ -8889,11 +8889,11 @@ who gave no signs of any intention to change his father's policy, and,
 in spite of Napoleon's advice, refused to grant a constitution or to
 enter into an alliance with Sardinia. The result was a revolutionary
 agitation which in Sicily, stirred up by Mazzini's agents, Rosalino Pilo
-and Francesco Crispi, culminated, on the 5th of April 1860, in open
+and Francesco [[Crispi]], culminated, on the 5th of April 1860, in open
 revolt. An invitation had been sent Garibaldi to put himself at the head
 of the movement; at first he had refused, but reports of the progress of
 the insurrection soon determined him to risk all on a bold stroke, and
-on the 5th of May he embarked at Quarto, near Genoa, with Bixio, the
+on the 5th of May he embarked at Quarto, near Genoa, with [[Bixio]], the
 Hungarian Türr and some 1000 picked followers, on two steamers. The
 preparations for the expedition, openly made, were viewed by Cavour with
 mixed feelings. With its object he sympathized; yet he could not give
@@ -8903,7 +8903,7 @@ opinion. He accordingly directed the Sardinian admiral Persano only to
 arrest the expedition should it touch at a Sardinian port; while in
 reply to the indignant protests of the continental powers he disclaimed
 all knowledge of the affair. On the 11th Garibaldi landed at Marsala,
-without opposition, defeated the Neapolitan forces at Calatafimi on the
+without opposition, defeated the Neapolitan forces at [[Calatafimi]] on the
 15th, and on the 27th entered Palermo in triumph, where he proclaimed
 himself, in King Victor Emmanuel's name, dictator of Sicily. By the end
 of July, after the hard-won victory of Milazzo, the whole island, with
@@ -9175,7 +9175,7 @@ such a storm of disapproval that the king for the first time used his
 privilege of dismissing the ministry. Under La Marmora's administration
 the September convention was ratified, and the capital was transferred
 to Florence the following year. This affair resulted in an important
-political change, for the Piedmontese deputies, hitherto the bulwarks of
+political change, for the Piedmontese deputies, hitherto the [[Bulwark|bulwarks]] of
 moderate conservatism, now shifted to the Left or constitutional
 opposition.
 
@@ -9322,7 +9322,7 @@ and was succeeded by Menabrea. Garibaldi joined the bands on the 23rd,
 but his ill-armed and ill-disciplined force was very inferior to his
 volunteers of '49, '60 and '66. On the 24th he captured Monte Rotondo,
 but did not enter Rome as the expected insurrection had not broken out.
-On the 29th a French force, under de Failly, arrived, and on the 3rd of
+On the 29th a French force, under de [[Failly]], arrived, and on the 3rd of
 November a battle took place at Mentana between 4000 or 5000 red-shirts
 and a somewhat superior force of French and pontificals. The
 Garibaldians, mowed down by the new French _chassepôt_ rifles, fought
@@ -9330,7 +9330,7 @@ until their last cartridges were exhausted, and retreated the next day
 towards the Italian frontier, leaving 800 prisoners.
 
 
-  Lanza Ministry.
+  [[Lanza]] Ministry.
 
 The affair of Mentana caused considerable excitement throughout Europe,
 and the Roman question entered on an acute stage. Napoleon suggested his
@@ -9365,7 +9365,7 @@ gone.
   Italian occupation of Rome.
 
 In December 1869 the XXI. oecumenical council began its sittings in
-Rome, and on the 18th of July 1870 proclaimed the infallibility of the
+Rome, and on the 18th of July 1870 proclaimed the [[Infallibility|infallibility]] of the
 pope (see VATICAN COUNCIL). Two days previously Napoleon had declared
 war on Prussia, and immediately afterwards he withdrew his troops from
 Civitavecchia; but he persuaded Lanza to promise to abide by the
@@ -9423,7 +9423,7 @@ of Italy were accomplished.
   _Gli ultimi rivolgimenti italiani_ (4 vols., Florence, 1850) is
   important for the period from 1831 to 1847, and so also is L. Farina's
   _Storia d' Italia dal 1815 al 1849_ (5 vols., Turin, 1851); W. R.
-  Thayer's _Dawn of Italian Independence_ (Boston, 1893) is gushing and
+  Thayer's _Dawn of Italian Independence_ ([[Boston]], 1893) is gushing and
   not always accurate; C. Cantù's _Dell' indipendenza italiana
   cronistoria_ (Naples, 1872-1877) is reactionary and often unreliable;
   V. Bersezio, _Il Regno di Vittorio Emanuele II_ (8 vols., Turin, 1889,
@@ -9431,7 +9431,7 @@ of Italy were accomplished.
   _Liberation of Italy_ (London, 1895) is to be strongly recommended,
   and is indeed, for accuracy, fairness and synthesis, as well as for
   charm of style, one of the very best books on the subject in any
-  language; Bolton King's _History of Italian Unity_ (2 vols., London,
+  language; [[Bolton]] King's _History of Italian Unity_ (2 vols., London,
   1899) is bulkier and less satisfactory, but contains a useful
   bibliography. A succinct account of the chief events of the period
   will be found in Sir Spencer Walpole's _History of Twenty-Five Years_
@@ -9467,7 +9467,7 @@ moreover, was indignant at the connivance of the Italian government in
 the Garibaldian expedition to Dijon, and was irritated by
 Visconti-Venosta's plea in the Italian parliament for the integrity of
 French territory. The course of events in France, however, soon calmed
-German apprehensions. The advent of Thiers, his attitude towards the
+German [[Apprehension|apprehensions]]. The advent of Thiers, his attitude towards the
 petition of French bishops on behalf of the pope, the recall of Senard,
 the French minister at Florence--who had written to congratulate Victor
 Emmanuel on the capture of Rome--and the instructions given to his
@@ -9500,7 +9500,7 @@ that debt having been taken over by the Italian state. On the 29th of
 September Cardinal Antonelli further apprised Baron Blanc that he was
 about to issue drafts for the monthly payment of the 50,000 crowns
 inscribed in the pontifical budget for the maintenance of the pope, the
-Sacred College, the apostolic palaces and the papal guards. The Italian
+Sacred College, the apostolic palaces and the papal [[Guards|guards]]. The Italian
 treasury at once honoured all the papal drafts, and thus contributed a
 first instalment of the 3,225,000 lire per annum afterwards placed by
 Article 4 of the Law of Guarantees at the disposal of the Holy See.
@@ -9631,7 +9631,7 @@ of commercial and industrial activity, and on salt, flour and other
 necessaries of life; with a deficit of £8,500,000 for the current year,
 and the prospect of a further aggregate deficit of £12,000,000 during
 the next quinquennium, Sella's heroic struggle against national
-bankruptcy was still far from a successful termination. He chiefly had
+[[Bankruptcy|bankruptcy]] was still far from a successful termination. He chiefly had
 borne the brunt and won the laurels of the unprecedented fight against
 deficit in which Italy had been involved since 1862. As finance minister
 in the Rattazzi cabinet of that year he had been confronted with a
@@ -9639,7 +9639,7 @@ public debt of nearly £120,000,000, and with an immediate deficit of
 nearly £18,000,000. In 1864, as minister in the La Marmora cabinet, he
 had again to face an excess of expenditure over income amounting to more
 than £14,600,000. By the seizure and sale of Church lands, by the sale
-of state railways, by "economy to the bone" and on one supreme occasion
+of state railways, by "economy to the [[Bone|bone]]" and on one supreme occasion
 by an appeal to taxpayers to advance a year's quota of the land-tax, he
 had met the most pressing engagements of that troublous period. The king
 was persuaded to forgo one-fifth of his civil list, ministers and the
@@ -9759,7 +9759,7 @@ of the Left. Sella, uncertain of the loyalty of the Right, challenged a
 vote on the immediate discussion of further financial reforms, and on
 the 23rd of June was overthrown by a coalition of the Left under
 Depretis with a part of the Right under Minghetti and the Tuscan Centre
-under Correnti. The administration which thus fell was unquestionably
+under [[Correnti]]. The administration which thus fell was unquestionably
 the most important since the death of Cavour. It had completed national
 unity, transferred the capital to Rome, overcome the chief obstacles to
 financial equilibrium, initiated military reform and laid the foundation
@@ -9808,7 +9808,7 @@ in July 1875, the government was compelled to withdraw the temporalities
 of ecclesiastics who had neglected to apply for the _exequatur_, and to
 evict sundry bishops who had taken possession of their palaces without
 authorization from the state. Parliamentary pressure further obliged
-Bonghi, minister of public instruction, to compel clerical seminaries
+[[Bonghi]], minister of public instruction, to compel clerical seminaries
 either to forgo the instruction of lay pupils or to conform to the laws
 of the state in regard to inspection and examination, an ordinance which
 gave rise to conflicts between ecclesiastical and lay authorities, and
@@ -9821,7 +9821,7 @@ suppression of the Catholic university in Rome.
 More noteworthy than its management of internal affairs were the efforts
 of the Minghetti cabinet to strengthen and consolidate national defence.
 Appalled by the weakness, or rather the non-existence, of the navy,
-Admiral Saint-Bon, with his coadjutor Signor Brin, addressed himself
+Admiral Saint-Bon, with his coadjutor Signor [[Brin]], addressed himself
 earnestly to the task of recreating the fleet, which had never recovered
 from the effects of the disaster of Lissa. During his three years of
 office he laid the foundation upon which Brin was afterwards to build up
@@ -9846,7 +9846,7 @@ France, it could but be Visconti-Venosta's aim to uphold the dignity of
 his country while convincing European diplomacy that United Italy was an
 element of order and progress, and that the spiritual independence of
 the Roman pontiff had suffered no diminution. Prudence, moreover,
-counselled avoidance of all action likely to serve the predominant
+counselled [[Avoidance|avoidance]] of all action likely to serve the predominant
 anti-Italian party in France as a pretext for violent intervention in
 favour of the pope. On the occasion of the Metrical Congress, which met
 in Paris in 1872, he, however, successfully protested against the
@@ -9856,7 +9856,7 @@ minister, a formal declaration that the presence of Father Secchi on
 that occasion could not constitute a diplomatic precedent. The
 irritation displayed by Bismarck at the Francophil attitude of Italy
 towards the end of the Franco-German War gave place to a certain show of
-goodwill when the great chancellor found himself in his turn involved in
+[[Goodwill|goodwill]] when the great chancellor found himself in his turn involved in
 a struggle against the Vatican and when the policy of Thiers began to
 strain Franco-Italian relations. Thiers had consistently opposed the
 emperor Napoleon's pro-Italian policy. In the case of Italy, as in that
@@ -9951,14 +9951,14 @@ Several diplomatists in active service were approached, but, partly on
 account of their refusal, and partly from the desire of the Left to
 avoid giving so important a post to a diplomatist bound by ties of
 friendship or of interest to the Right, the choice fell upon Melegari,
-Italian minister at Bern.
+Italian minister at [[Bern]].
 
 
   Programme of the Left.
 
 The new ministers had long since made monarchical professions of faith,
 but, up to the moment of taking office, were nevertheless considered to
-be tinged with an almost revolutionary hue. The king alone appeared to
+be tinged with an almost revolutionary [[Hue|hue]]. The king alone appeared to
 feel no misgiving. His shrewd sense of political expediency and his
 loyalty to constitutional principles saved him from the error of
 obstructing the advent and driving into an anti-dynastic attitude
@@ -10035,7 +10035,7 @@ wrath of the Chamber, and on the 14th of December 1877 a cabinet crisis
 arose over a question concerning the secrecy of telegraphic
 correspondence. Depretis thereupon reconstructed his administration,
 excluding Nicotera, Melegari and Zanardelli, placing Crispi at the home
-office, entrusting Magliani with finance, and himself assuming the
+office, entrusting [[Magliani]] with finance, and himself assuming the
 direction of foreign affairs.
 
 
@@ -10119,7 +10119,7 @@ The entry of Crispi into the Depretis cabinet (December 1877) placed at
 the ministry of the interior a strong hand and sure eye at a moment when
 they were about to become imperatively necessary. Crispi was the only
 man of truly statesmanlike calibre in the ranks of the Left. Formerly a
-friend and disciple of Mazzini, with whom he had broken on the question
+friend and [[Disciple|disciple]] of Mazzini, with whom he had broken on the question
 of the monarchical form of government which Crispi believed
 indispensable to the unification of Italy, he had afterwards been one of
 Garibaldi's most efficient coadjutors and an active member of the "party
@@ -10155,7 +10155,7 @@ Emmanuel, Pius IX. had been bound up with the history of the
 Risorgimento, but, unlike him, had represented and embodied the
 anti-national, reactionary spirit. Ecclesiastically, he had become the
 instrument of the triumph of Jesuit influence, and had in turn set his
-seal upon the dogma of the Immaculate Conception, the Syllabus and Papal
+seal upon the dogma of the [[Immaculate Conception]], the Syllabus and Papal
 Infallibility. Yet, in spite of all, his jovial disposition and
 good-humoured cynicism saved him from unpopularity, and rendered his
 death an occasion of mourning. Notwithstanding the pontiff's bestowal of
@@ -10219,7 +10219,7 @@ one-fourth, and its complete abolition within four years. Cairoli's
 premiership was, however, destined to be cut short by an attempt made
 upon the king's life in November 1878, during a royal visit to Naples,
 by a miscreant named Passanante. In spite of the courage and presence of
-mind of Cairoli, who received the dagger thrust intended for the king,
+mind of Cairoli, who received the [[Dagger|dagger]] thrust intended for the king,
 public and parliamentary indignation found expression in a vote which
 compelled the ministry to resign.
 
@@ -10292,7 +10292,7 @@ no attempt to crush an agitation as mischievous as it was futile, but
 granted a state funeral to General Avezzana, president of the
 Irredentist League. In Bonghi's mordant phrase, the foreign policy of
 Italy during this period may be said to have been characterized by
-"enormous intellectual impotence counterbalanced by equal moral
+"enormous intellectual [[Impotence|impotence]] counterbalanced by equal moral
 feebleness." Home affairs were scarcely better managed. Parliament had
 degenerated into a congeries of personal groups, whose members were
 eager only to overturn cabinets in order to secure power for the leaders
@@ -10375,12 +10375,12 @@ arrangement made between Lord Salisbury and Waddington at the instance
 of Bismarck, that, when convenient, France should occupy Tunisia, an
 agreement afterwards confirmed (with a reserve as to the eventual
 attitude of Italy) in despatches exchanged in July and August 1878
-between the Quai d'Orsay and Downing Street. Almost up to the moment of
+between the Quai d'Orsay and [[Downing]] Street. Almost up to the moment of
 the French occupation of Tunisia the Italian government believed that
 Great Britain, if only out of gratitude for the bearing of Italy in
 connexion with the Dulcigno demonstration in the autumn of 1880, would
 prevent French acquisition of the Regency. Ignorant of the assurance
-conveyed to France by Lord Granville that the Gladstone cabinet would
+conveyed to France by Lord [[Granville]] that the Gladstone cabinet would
 respect the engagements of the Beaconsfield-Salisbury administration,
 Cairoli, in deference to Italian public opinion, endeavoured to
 neutralize the activity of the French consul Roustan by the appointment
@@ -10411,7 +10411,7 @@ dealings with other countries.
 
 Italian indignation at the French _coup de main_ was the deeper on
 account of the apparent duplicity of the government of the Republic. On
-the 11th of May the French foreign minister, Barthélémy Saint Hilaire,
+the 11th of May the French foreign minister, [[Barth]]élémy Saint Hilaire,
 had officially assured the Italian ambassador in Paris that France "had
 no thought of occupying Tunisia or any part of Tunisian territory,
 beyond some points of the Kroumir country." This assurance, dictated by
@@ -10523,7 +10523,7 @@ alliance with Austria and Germany counterbalanced each other. A
 _rapprochement_ with France and a continuance of the Irredentist
 movement could not fail to arouse Austro-German hostility; but, on the
 other hand, to draw near to the central powers would inevitably
-accentuate the diffidence of France. In the one hypothesis, as in the
+accentuate the diffidence of France. In the one [[Hypothesis|hypothesis]], as in the
 other, Italy could count upon the moral support of Great Britain, but
 could not make of British friendship the keystone of a Continental
 policy. Apart from resentment against France on account of Tunisia there
@@ -10683,7 +10683,7 @@ French resentment. At the request of Kalnóky, Mancini defined his proposal
 in a memorandum, but the illness of himself and Depretis, combined with an
 untoward discussion in the Italian press on the failure of the Austrian
 emperor to return in Rome King Humbert's visit to Vienna, caused
-negotiations to drag. The pope, it transpired, had refused to receive the
+negotiations to [[Drag|drag]]. The pope, it transpired, had refused to receive the
 emperor if he came to Rome on a visit to the Quirinal, and Francis Joseph,
 though anxious to return King Humbert's visit, was unable to offend the
 feelings of his Catholic subjects. Meanwhile (11th May 1882) the Italian
@@ -10847,7 +10847,7 @@ treasury payments in gold with funds obtained through a loan of
 £14,500,000 issued in London on the 5th of May 1882. Owing to the
 hostility of the French market, the loan was covered with difficulty,
 and, though the gold premium fell and commercial exchanges were
-temporarily facilitated by the resumption of cash payments, it is
+temporarily facilitated by the resumption of [[Cash|cash]] payments, it is
 doubtful whether these advantages made up for the burden of £640,000
 additional annual interest thrown upon the exchequer. On the 6th of
 March 1885 parliament finally sanctioned the conventions by which state
@@ -11100,11 +11100,11 @@ lest Italy might be forestalled by France or Russia, both of which
 powers were suspected of desiring to establish themselves firmly on the
 Red Sea and to exercise a protectorate over Abyssinia. News of the
 occupation reached Europe simultaneously with the tidings of the fall of
-Khartum, an event which disappointed Italian hopes of military
+[[Khartum]], an event which disappointed Italian hopes of military
 co-operation with Great Britain in the Sudan. The resignation of the
 Gladstone-Granville cabinet further precluded the projected Italian
 occupation of Suakin, and the Italians, wisely refraining from an
-independent attempt to succour Kassala, then besieged by the Mahdists,
+independent attempt to succour [[Kassala]], then besieged by the Mahdists,
 bent their efforts to the increase of their zone of occupation around
 Massawa. The extension of the Italian zone excited the suspicions of
 John, negus of Abyssinia, whose apprehensions were assiduously fomented
@@ -11179,7 +11179,7 @@ and conceded to Italy a portion of the high plateau, with the positions
 of Halai, Saganeiti and Asmarà. The main point of the treaty, however,
 lay in clause 17:--
 
-  "His Majesty the king of kings of Ethiopia _consents_ to make use of
+  "His Majesty the king of kings of [[Ethiopia]] _consents_ to make use of
   the government of His Majesty the king of Italy for the treatment of
   all questions concerning other powers and governments."
 
@@ -11398,7 +11398,7 @@ understanding with Great Britain in regard to Mediterranean questions,
 and by an apparent animosity towards France, which at one moment seemed
 likely to lead to war. Shortly before the fall of the Depretis-Robilant
 cabinet Count Robilant had announced the intention of Italy to denounce
-the commercial treaties with France and Austria, which would lapse on
+the commercial treaties with France and Austria, which would [[Lapse|lapse]] on
 the 31st of December 1887, and had intimated his readiness to negotiate
 new treaties. On the 24th of June 1887, in view of a possible rupture of
 commercial relations with France, the Depretis-Crispi cabinet introduced
@@ -11419,7 +11419,7 @@ subsequent speech at Turin, in which, while professing sentiments of
 friendship and esteem for France, he eulogized the personality of
 Bismarck, aroused against him a hostility on the part of the French
 which he was never afterwards able to allay. France was equally careless
-of Italian susceptibilities, and in April 1888 Goblet made a futile but
+of Italian susceptibilities, and in April 1888 [[Goblet]] made a futile but
 irritating attempt to enforce at Massawa the Ottoman régime of the
 capitulations in regard to non-Italian residents. In such circumstances
 the negotiations for the new commercial treaty could but fail, and
@@ -11448,7 +11448,7 @@ naval dispositions. Moreover, under Crispi's hand Italy awoke from the
 apathy of former years and gained consciousness of her place in the
 world. The conflict with France, the operations in Eritrea, the vigorous
 interpretation of the triple alliance, the questions of Morocco and
-Bulgaria, were all used by him as means to stimulate national sentiment.
+[[Bulgaria]], were all used by him as means to stimulate national sentiment.
 With the instinct of a true statesman, he felt the pulse of the people,
 divined their need for prestige, and their preference for a government
 heavy-handed rather than lax. How great had been Crispi's power was seen
@@ -11469,7 +11469,7 @@ financiers in the hope of obtaining the support of the Paris Bourse for
 Italian securities, the precipitate renewal of the alliance destroyed
 all probability of a close understanding with France. The desire of
 Rudini to live on the best possible terms with all powers was further
-evinced in the course of a visit paid to Monza by M. de Giers in October
+evinced in the course of a visit paid to Monza by M. de [[Giers]] in October
 1891, when the Russian statesman was apprised of the entirely defensive
 nature of Italian engagements under the triple alliance. At the same
 time he carried to a successful conclusion negotiations begun by Crispi
@@ -11550,7 +11550,7 @@ workmen to the municipal hospital. These occurrences provoked
 anti-French demonstrations in many parts of Italy, and revived the
 chronic Italian rancour against France. The Italian foreign minister,
 Brin, began by demanding the punishment of the persons guilty of the
-massacre, but hastened to accept as satisfactory the anodyne measures
+massacre, but hastened to accept as satisfactory the [[Anodyne|anodyne]] measures
 adopted by the French government. Giolitti removed the prefect of Rome
 for not having prevented an expression of popular anger, and presented
 formal excuses to the French consul at Messina for a demonstration
@@ -11666,13 +11666,13 @@ premier, but after many vicissitudes, including the flight of Giolitti
 to Berlin in order to avoid arrest, the Chamber refused authorization
 for the prosecution, and the matter dropped. A fresh attempt of the same
 kind was then made against Crispi by the Radical leader Cavallotti, who
-advanced unproven charges of corruption and embezzlement. These attacks
+advanced unproven charges of corruption and [[Embezzlement|embezzlement]]. These attacks
 were, however, unavailing to shake Crispi's position, and in the general
 election of May 1895 his government obtained a majority of nearly 200
 votes. Nevertheless public confidence in the efficacy of the
 parliamentary system and in the honesty of politicians was seriously
 diminished by these unsavoury occurrences, which, in combination with
-the acquittal of all the defendants in the Banca Romana trial, and the
+the acquittal of all the [[Defendant|defendants]] in the Banca Romana trial, and the
 abandonment of the proceedings against Giolitti, reinforced to an
 alarming degree the propaganda of the revolutionary parties.
 
@@ -11861,7 +11861,7 @@ his camp and returned southwards to Shoa. At the same time Baldissera
 detached Colonel Stevani with four native battalions to relieve Kassala,
 then hard pressed by the Mahdists. Kassala was relieved on the 1st of
 April, and Stevani a few days later severely defeated the dervishes at
-Jebel Mokram and Tucruff. Returning from Kassala Colonel Stevani
+[[Jebel]] Mokram and Tucruff. Returning from Kassala Colonel Stevani
 rejoined Baldissera, who on the 4th of May relieved Adigrat after a
 well-executed march. By adroit negotiations with Mangashà the Italian
 general obtained the release of the Italian prisoners in Tigré, and
@@ -12061,7 +12061,7 @@ conference in Rome to discuss secret means for the repression of
 anarchist propaganda and crime in view of the assassination of the
 empress of Austria by an Italian anarchist (Luccheni), but it is
 doubtful whether results of practical value were achieved. The action of
-the tsar of Russia in convening the Peace Conference at The Hague in May
+the tsar of Russia in convening the Peace Conference at The [[Hague]] in May
 1900 gave rise to a question as to the right of the Vatican to be
 officially represented, and Admiral Canevaro, supported by Great Britain
 and Germany, succeeded in preventing the invitation of a papal delegate.
@@ -12211,7 +12211,7 @@ for daring to maintain order. The strike spread to nearly all the
 industrial centres, although in many places it was limited to a few
 trades. At Milan it was more serious and lasted longer than elsewhere,
 as the movement was controlled by the anarchists under Arturo Labriola;
-the hooligans committed many acts of savage violence, especially against
+the [[Hooligan|hooligans]] committed many acts of savage violence, especially against
 those workmen who refused to strike, and much property was wilfully
 destroyed. At Genoa, which was in the hands of the _teppisti_ for a
 couple of days, three persons were killed and 50 wounded, including 14
@@ -12428,7 +12428,7 @@ satisfactory to all the best elements in the country, and great hopes
 were entertained that the advent of a rigid and honest statesman would
 usher in a new era of Italian parliamentary life. Unfortunately at the
 very outset of its career the composition of the new cabinet proved
-disappointing; for while such men as Count Guicciardini, the minister
+disappointing; for while such men as Count [[Guicciardini]], the minister
 for foreign affairs, and Signor Luzzatti at the treasury commanded
 general approval, the choice of Signor Sacchi as minister of justice and
 of Signor Pantano as minister of agriculture and trade, both of them
@@ -12518,7 +12518,7 @@ Church and the government was becoming every day more strained. With the
 rebellion of her "Eldest Daughter," the Roman Church could not continue
 in her old attitude of uncompromising hostility towards United Italy,
 and the Vatican began to realize the folly of placing every Italian in
-the dilemma of being _either_ a good Italian _or_ a good Catholic, when
+the [[Dilemma|dilemma]] of being _either_ a good Italian _or_ a good Catholic, when
 the majority wished to be both. Outside of Rome relations between the
 clergy and the authorities were as a rule quite cordial, and in May 1903
 Cardinal Sarto, the patriarch of Venice, asked for and obtained an
@@ -12628,7 +12628,7 @@ government had persistently refused to create an Italian university for
 its Italian subjects, fearing lest it should become a hotbed of
 "irredentism," the Italian-speaking students being thus obliged to
 attend the German-Austrian universities. An attempt at compromise
-resulted in the institution of an Italian law faculty at Innsbruck, but
+resulted in the institution of an Italian law faculty at [[Innsbruck]], but
 this aroused the violent hostility of the German students and populace,
 who gave proof of their superior civilization by an unprovoked attack on
 the Italians in October 1902. Further acts of violence were committed by
@@ -12667,7 +12667,7 @@ announced to King Victor Emmanuel and to other rulers by autograph
 letters from the emperor-king. The news caused the most widespread
 sensation, and public opinion in Italy was greatly agitated at what it
 regarded as an act of brigandage on the part of Austria, when Signor
-Tittoni in a speech at Carate Brianza (October 6th) declared that "Italy
+Tittoni in a speech at Carate [[Brianza]] (October 6th) declared that "Italy
 might await events with serenity, and that these could find her neither
 unprepared nor isolated." These words were taken to mean that Italy
 would receive compensation to restore the balance of power upset in
@@ -12687,7 +12687,7 @@ note presented to the Italian foreign office on the 12th of April 1909.
 Italy had developed some important commercial interests in Montenegro,
 and anything which strengthened the position of that principality was a
 guarantee against further Austrian encroachments. The harbour works in
-the Montenegrin port of Antivari, commenced in March 1905 and completed
+the Montenegrin port of [[Antivari]], commenced in March 1905 and completed
 early in 1909, were an Italian concern, and Italy became a party to the
 agreement for the Danube-Adriatic Railway (June 2, 1908) together with
 Russia, France and Servia; Italy was to contribute 35,000,000 lire out
@@ -12731,7 +12731,7 @@ all contingencies.
   Cesare Balbo's _Sommario_ (Florence, 1856) presents the main outlines
   of the subject with brevity and clearness. For the period of the
   French revolution and the Napoleonic wars see F. Lemmi's _Le Origini
-  del risorgimento italiano_ (Milan, 1906); E. Bonnal de Ganges, _La
+  del risorgimento italiano_ (Milan, 1906); E. Bonnal de [[Ganges]], _La
   Chute d'une république [Venise]_ (Paris, 1885); D. Carutti, _Storia
   della corte di Savoia durante la rivoluzione e l' impero francese_ (2
   vols., Turin, 1892); G. de Castro, _Storia d' Italia dal 1797 al 1814_
@@ -12760,9 +12760,9 @@ all contingencies.
   great deal of valuable material for local history. From the point of
   view of papal history, L. von Ranke's _History of the Popes_ (English
   edition, London, 1870), M. Creighton's _History of the Papacy_
-  (London, 1897) and L. Pastor's _Geschichte der Päpste_ (Freiburg i.
+  (London, 1897) and L. Pastor's _Geschichte der Päpste_ ([[Freiburg]] i.
   B., 1886-1896), should be mentioned. From the point of view of general
-  culture, Jacob Burckhardt's _Cultur der Renaissance in Italien_
+  culture, [[Jacob]] Burckhardt's _Cultur der Renaissance in Italien_
   (Basel, 1860), E. Guinet's _Révolutions d' Italie_ (Paris, 1857), and
   J. A. Symonds's _Renaissance in Italy_ (5 vols., London, 1875, &c.)
   should be consulted.     (L. V.*)
@@ -12786,7 +12786,7 @@ FOOTNOTES:
 
   [6] "Movement of capital" consists, as regards "income," of the
     proceeds of the sale of buildings, Church or Crown lands, old
-    prisons, barracks, &c., or of moneys derived from sale of
+    prisons, [[Barracks|barracks]], &c., or of moneys derived from sale of
     consolidated stock. Thus "income" really signifies diminution of
     patrimony or increase of debt. In regard to "expenditure," "movement
     of capital" refers to extinction of debt by amortization or
@@ -12827,7 +12827,7 @@ FOOTNOTES:
 
   [13] The popular cry of "Viva Verdi!" did not merely express
     enthusiasm for Italy's most eminent musician, but signified, in
-    initials: "Viva Vittorio Emanuele Re d' Italia!"
+    [[Initials|initials]]: "Viva Vittorio Emanuele Re d' Italia!"
 
   [14] La Farina's _Epistolario_, ii. 426.
 

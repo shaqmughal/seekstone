@@ -8,7 +8,7 @@ id: 42-6355
 # Elemi
 
 ELEMI, an oleo-resin (Manilla elemi) obtained in the Philippine Islands,
-probably from _Canarium commune_ (nat. ord. Burseraceae), which when
+probably from _Canarium [[Commune|commune]]_ (nat. ord. Burseraceae), which when
 fresh and of good quality is a pale yellow granular substance, of
 honey-like consistency, but which gradually hardens with age. It is
 soluble in alcohol and ether, and has a spicy taste with a smell like

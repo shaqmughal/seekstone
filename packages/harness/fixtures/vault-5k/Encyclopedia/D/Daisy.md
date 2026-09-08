@@ -9,7 +9,7 @@ tags: [cartography, philosophy-studies]
 # Daisy
 
 DAISY (A.S. _daeges eage_, day's eye), the name applied to the plants
-constituting the genus _Bellis_, of the natural order Compositae. The
+constituting the genus _[[Belli|Bellis]]_, of the natural order Compositae. The
 genus contains ten species found in Europe and the Mediterranean region.
 The common daisy, _B. perennis_, is the only representative of the genus
 in the British Isles. It is a perennial, abundant everywhere in pastures
@@ -45,11 +45,11 @@ and the flower is often alluded to with admiration by the other poets of
 nature. To the farmer, however, the daisy is a weed, and a most wasteful
 one, as it exhausts the soil and is not eaten by any kind of stock.
 
-In French the daisy is termed _la marguerite_ ([Greek: margarites], a
-pearl), and "herb margaret" is stated to be an old English appellation
+In French the daisy is termed _la [[Marguerite|marguerite]]_ ([Greek: margarites], a
+pearl), and "[[Herb|herb]] margaret" is stated to be an old English appellation
 for it. In Scotland it is popularly called the gowan, and in Yorkshire
-it is the bairn wort, or flower beloved by children. The Christmas and
-Michaelmas daisies are species of _Aster_; the ox-eye daisy is
+it is the bairn wort, or flower beloved by children. The [[Christmas]] and
+Michaelmas daisies are species of _[[Aster]]_; the ox-eye daisy is
 _Chrysanthemum Leucanthemum_, a common weed in meadows and waste places.
 _B. perennis flore-pleno_, the double daisy, consists of dwarf, showy, 3
 to 4 in. plants, flowering freely in spring if grown in rich light soil,

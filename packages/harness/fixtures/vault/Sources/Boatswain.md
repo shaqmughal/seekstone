@@ -2,8 +2,8 @@
 
 BOATSWAIN (pronounced "bo'sun"; derived from "boat" and "swain," a
 servant), the warrant officer of the navy who in sailing-ships had
-particular charge of the boats, sails, rigging, colours, anchors and
-cordage. He superintended the rigging of the ship in dock, and it was
+particular charge of the boats, sails, rigging, [[Colours|colours]], anchors and
+cordage. He superintended the rigging of the ship in [[Dock|dock]], and it was
 his duty to summon the crew to work by a whistle. The office still
 remains, though with functions modified by the introduction of steam. In
 a merchant ship the boatswain is the foreman of the crew and is

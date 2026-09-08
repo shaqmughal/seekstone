@@ -1,6 +1,6 @@
 # Hang-Chow-Fu
 
-HANG-CHOW-FU, a city of China, in the province of Cheh-Kiang, 2 m. N.W.
+HANG-CHOW-FU, a city of China, in the province of [[Cheh-Kiang]], 2 m. N.W.
 of the Tsien-tang-Kiang, at the southern terminus of the Grand canal, by
 which it communicates with Peking. It lies about 100 m. S.W. of
 Shanghai, in 30 deg. 20' 20" N., 120 deg. 7' 27" E. Towards the west is
@@ -8,7 +8,7 @@ the Si-hu or Western Lake, a beautiful sheet of water, with its banks
 and islands studded with villas, monuments and gardens, and its surface
 traversed by gaily-painted pleasure boats. Exclusive of extensive and
 flourishing suburbs, the city has a circuit, of 12 m.; its streets are
-well paved and clean; and it possesses a large number of arches, public
+well paved and clean; and it possesses a large number of [[Arches|arches]], public
 monuments, temples, hospitals and colleges. It has long ranked as one of
 the great centres of Chinese commerce and Chinese learning. In 1869 the
 silk manufactures alone were said to give employment to 60,000 persons
@@ -20,8 +20,8 @@ the examinations for the second degree, twice every three years, from
 the city is the Nestorian church which was noted by Marco Polo, the
 facade being "elaborately carved and the gates covered with elegantly
 wrought iron." There is a Roman Catholic mission in Hangchow, and the
-Church Missionary Society, the American Presbyterians, and the Baptists
-have stations. The local dialect differs from the Mandarin mainly in
+Church Missionary Society, the American Presbyterians, and the [[Baptists]]
+have stations. The local [[Dialect|dialect]] differs from the Mandarin mainly in
 pronunciation. The population, which is remarkable for gaiety of
 clothing, was formerly reckoned at 2,000,000, but is now variously
 estimated at 300,000, 400,000 or 800,000. Hang-chow-fu was declared open
@@ -47,7 +47,7 @@ and noblest city in the world, and speaks enthusiastically of the number
 and splendour of its mansions and the wealth and luxuriance of its
 inhabitants. According to this authority it had a circuit of 100 m., and
 no fewer than 12,000 bridges and 3000 baths. The name Kinsai, which
-appears in Wassaf as Khanzai, in Ibn Batuta as Khansa, in Odoric of
+appears in Wassaf as Khanzai, in Ibn Batuta as [[Khansa]], in Odoric of
 Pordenone as Camsay, and elsewhere as Campsay and Cassay, is really a
 corruption of the Chinese _King-sze_, capital, the same word which is
 still applied to Peking. From the 10th to the 13th century (960-1272)

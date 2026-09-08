@@ -20,7 +20,7 @@ Judgment. The three are commonly known as _Cynewulf's Christ_, but the
 runic signature attests only the second. (2) A version of the legend of
 the martyr _St Juliana_, also in the _Exeter Book_. (3) _Elene_, in the
 _Vercelli Book_, on the story of the empress Helena and the "Invention
-of the Cross." (4) A short poem on _The Fates of the Apostles_, in the
+of the Cross." (4) A short poem on _The [[Fate|Fates]] of the [[Apostle|Apostles]]_, in the
 same MS. The page containing the signature to this poem was first
 discovered by Professor A. S. Napier in 1888, so that the piece is not
 included in earlier enumerations of the poet's signed works.
@@ -43,7 +43,7 @@ apart in date. They may therefore be referred provisionally to the
 beginning of the 9th century, any lower date being for linguistic and
 metrical reasons improbable.
 
-The MSS. of the poems are in the West-Saxon dialect, with occasional
+The MSS. of the poems are in the West-Saxon [[Dialect|dialect]], with occasional
 peculiarities that indicate transcription from Northumbrian or Mercian.
 Professor E. Sievers's arguments for a Northumbrian original have
 considerable weight; for the Mercian theory no linguistic arguments have
@@ -57,7 +57,7 @@ higher qualities of poetry they give little evidence. There are pleasing
 passages in _Elene_, but the clumsy and tasteless narration of the Latin
 original is faithfully reproduced, and the added descriptions of battles
 and voyages are strings of conventional phrases, with no real
-imagination. In _The Ascension_ the genuine religious fervour imparts a
+[[Imagination|imagination]]. In _The Ascension_ the genuine religious fervour imparts a
 higher tone to the poetry; the piece has real but not extraordinary
 merit. Of the other two poems no critic has much to say in praise. If
 Cynewulf is to be allowed high poetic rank, it must be on the ground of
@@ -65,7 +65,7 @@ his authorship of other works than those which he has signed. At one
 time or other nearly the whole body of extant Old English poetry
 (including _Beowulf_) has been conjecturally assigned to him. Some of
 the attributed works show many striking resemblances in style and
-diction to his authentic writings. But it is impossible to determine
+diction to his [[Authentic|authentic]] writings. But it is impossible to determine
 with certainty how far the similarities may be due to imitation or to
 the following of a common tradition.
 
@@ -73,7 +73,7 @@ Until recently, it was commonly thought that Cynewulf's authorship of
 the Riddles (q.v.) in the _Exeter Book_ was beyond dispute. The
 monodramatic lyric _Wulf and Eadwacer_, imagined to be the first of
 these Riddles, was in 1857 interpreted by Heinrich Leo as a charade on
-the name Cynewulf. This absurd fancy was for about thirty years
+the name Cynewulf. This absurd [[Fancy|fancy]] was for about thirty years
 generally accepted as a fact, but is now abandoned. Some of the Riddles
 have been shown by Professor E. Sievers to be older than Cynewulf's
 time; that he may have written some of the rest remains a bare
@@ -103,10 +103,10 @@ question whether Cynewulf may not have been the imitator has apparently
 never been discussed. The poem (so far agreeing with _The Fates of the
 Apostles_) copies the style of the old heroic poetry.
 
-Cynewulf's authorship has been asserted by some scholars for _The Dream
+Cynewulf's authorship has been asserted by some scholars for _The [[Dream]]
 of the Rood_, the noblest example of Old English religious poetry. But
 an extract from this poem is carved on the Ruthwell Cross; and,
-notwithstanding the arguments of Prof. A. S. Cook, the language of the
+notwithstanding the arguments of Prof. A. S. [[Cook]], the language of the
 inscription seems too early for Cynewulf's date. The similarities
 between the _Dream_ and _Elene_ are therefore probably due to Cynewulf's
 acquaintance with the older poem.
@@ -116,16 +116,16 @@ _Phoenix_. The author of this fine poem was, like Cynewulf, a scholar,
 and uses many of his turns of expression, but he was a man of greater
 genius than is shown in Cynewulf's signed compositions.
 
-Professor M. Trautmann, following J. Grimm and F. Dietrich, would
+Professor M. Trautmann, following J. Grimm and F. [[Dietrich]], would
 identify the poet with Cynewulf, bishop of Lindisfarne, who died in 783.
-This speculation conflicts with the chronology suggested in this
+This speculation conflicts with the [[Chronology|chronology]] suggested in this
 article, and is destitute of evidence. Cynewulf was indeed probably a
 Northumbrian churchman, but it is unlikely that there were not many
 Northumbrian churchmen bearing this common name; and as the bishop is
-not recorded to have written anything, the identification is at best an
+not recorded to have written anything, the [[Identification|identification]] is at best an
 unsupported possibility. Professor A. S. Cook has suggested that our
 Cynewulf may have been the "Cynulf," priest of Dunwich, whose name is
-among those appended to a decree of the council of Clofesho in 803, and
+among those appended to a [[Decree|decree]] of the council of Clofesho in 803, and
 of whom nothing else is known. This conjecture suits the probable date
 of Cynewulf, but otherwise there is nothing in its favour.
 

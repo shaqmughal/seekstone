@@ -8,11 +8,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Anu"
 # Anu
 
 ANU, a Babylonian deity, who, by virtue of being the first figure in a
-triad consisting of Anu, Bel and Ea, came to be regarded as the father
+triad consisting of Anu, [[Bel]] and Ea, came to be regarded as the father
 and king of the gods. Anu is so prominently associated with the city of
-Erech in southern Babylonia that there are good reasons for believing
+[[Erech]] in southern Babylonia that there are good reasons for believing
 this place to have been the original seat of the Anu cult. If this be
-correct, then the goddess Nana (or Ishtar) of Erech was presumably
+correct, then the goddess Nana (or [[Ishtar]]) of Erech was presumably
 regarded as his consort. The name of the god signifies the "high one"
 and he was probably a god of the atmospheric region above the
 earth--perhaps a storm god like Adad (q.v.), or like Yahweh among the
@@ -54,7 +54,7 @@ whole.
 In the astral theology of Babylonia and Assyria, Anu, Bel and Ea became
 the three zones of the ecliptic, the northern, middle and southern zone
 respectively. The purely theoretical character of Anu is thus still
-further emphasized, and in the annals and votive inscriptions as well as
+further emphasized, and in the [[Annals|annals]] and votive inscriptions as well as
 in the incantations and hymns, he is rarely introduced as an active
 force to whom a personal appeal can be made. His name becomes little
 more than a synonym for the heavens in general and even his title as

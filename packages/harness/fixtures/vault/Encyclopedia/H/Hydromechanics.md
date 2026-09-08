@@ -1,13 +1,13 @@
 # Hydromechanics
 
 HYDROMECHANICS ([Greek: hydromêchanika]), the science of the mechanics
-of water and fluids in general, including _hydrostatics_ or the
+of water and fluids in general, including _[[Hydrostatics|hydrostatics]]_ or the
 mathematical theory of fluids in equilibrium, and _hydromechanics_, the
 theory of fluids in motion. The practical application of hydromechanics
-forms the province of hydraulics (q.v.).
+forms the province of [[Hydraulics|hydraulics]] (q.v.).
 
   _Historical._--The fundamental principles of hydrostatics were first
-  given by Archimedes in his work [Greek: Peri tôn ochoumenôn], or _De
+  given by [[Archimedes]] in his work [Greek: Peri tôn ochoumenôn], or _De
   iis quae vehuntur in humido_, about 250 B.C., and were afterwards
   applied to experiments by Marino Ghetaldi (1566-1627) in his _Promotus
   Archimedes_ (1603). Archimedes maintained that each particle of a
@@ -18,14 +18,14 @@ forms the province of hydraulics (q.v.).
 
   In the Greek school at Alexandria, which flourished under the auspices
   of the Ptolemies, the first attempts were made at the construction of
-  hydraulic machinery, and about 120 B.C. the fountain of compression,
+  hydraulic machinery, and about 120 B.C. the [[Fountain|fountain]] of compression,
   the siphon, and the forcing-pump were invented by Ctesibius and Hero.
   The siphon is a simple instrument; but the forcing-pump is a
   complicated invention, which could scarcely have been expected in the
-  infancy of hydraulics. It was probably suggested to Ctesibius by the
+  [[Infancy|infancy]] of hydraulics. It was probably suggested to Ctesibius by the
   _Egyptian Wheel_ or _Noria_, which was common at that time, and which
   was a kind of chain pump, consisting of a number of earthen pots
-  carried round by a wheel. In some of these machines the pots have a
+  carried round by a wheel. In some of these [[Machine|machines]] the pots have a
   valve in the bottom which enables them to descend without much
   resistance, and diminishes greatly the load upon the wheel; and, if we
   suppose that this valve was introduced so early as the time of
@@ -35,7 +35,7 @@ forms the province of hydraulics (q.v.).
   Notwithstanding these inventions of the Alexandrian school, its
   attention does not seem to have been directed to the motion of fluids;
   and the first attempt to investigate this subject was made by Sextus
-  Julius Frontinus, inspector of the public fountains at Rome in the
+  [[Julius]] [[Frontinus]], inspector of the public fountains at Rome in the
   reigns of Nerva and Trajan. In his work _De aquaeductibus urbis Romae
   commentarius_, he considers the methods which were at that time
   employed for ascertaining the quantity of water discharged from
@@ -50,10 +50,10 @@ forms the province of hydraulics (q.v.).
   orifice, the want of precision which appears in his results is not
   surprising.
 
-  Benedetto Castelli (1577-1644), and Evangelista Torricelli
-  (1608-1647), two of the disciples of Galileo, applied the discoveries
-  of their master to the science of hydrodynamics. In 1628 Castelli
-  published a small work, _Della misura dell' acque correnti_, in which
+  Benedetto [[Castelli]] (1577-1644), and Evangelista Torricelli
+  (1608-1647), two of the [[Disciple|disciples]] of Galileo, applied the discoveries
+  of their master to the science of [[Hydrodynamics|hydrodynamics]]. In 1628 Castelli
+  published a small work, _Della misura dell' acque [[Correnti|correnti]]_, in which
   he satisfactorily explained several phenomena in the motion of fluids
   in rivers and canals; but he committed a great paralogism in supposing
   the velocity of the water proportional to the depth of the orifice
@@ -63,7 +63,7 @@ forms the province of hydraulics (q.v.).
   that it ought to move with the same velocity as if it had fallen
   through that height by the force of gravity, and hence he deduced the
   proposition that the velocities of liquids are as the square root of
-  the head, apart from the resistance of the air and the friction of the
+  the head, apart from the resistance of the air and the [[Friction|friction]] of the
   orifice. This theorem was published in 1643, at the end of his
   treatise _De motu gravium projectorum_, and it was confirmed by the
   experiments of Raffaello Magiotti on the quantities of water
@@ -71,13 +71,13 @@ forms the province of hydraulics (q.v.).
 
   In the hands of Blaise Pascal (1623-1662) hydrostatics assumed the
   dignity of a science, and in a treatise on the equilibrium of liquids
-  (_Sur l'équilibre des liqueurs_), found among his manuscripts after
+  (_Sur l'équilibre des liqueurs_), found among his [[Manuscript|manuscripts]] after
   his death and published in 1663, the laws of the equilibrium of
   liquids were demonstrated in the most simple manner, and amply
   confirmed by experiments.
 
   The theorem of Torricelli was employed by many succeeding writers, but
-  particularly by Edmé Mariotte (1620-1684), whose _Traité du mouvement
+  particularly by Edmé [[Mariotte]] (1620-1684), whose _Traité du mouvement
   des eaux_, published after his death in the year 1686, is founded on a
   great variety of well-conducted experiments on the motion of fluids,
   performed at Versailles and Chantilly. In the discussion of some
@@ -106,10 +106,10 @@ forms the province of hydraulics (q.v.).
   considerably less than that which is computed from theory.
 
   The effects of friction and viscosity in diminishing the velocity of
-  running water were noticed in the _Principia_ of Sir Isaac Newton, who
+  running water were noticed in the _Principia_ of Sir [[Isaac]] Newton, who
   threw much light upon several branches of hydromechanics. At a time
   when the Cartesian system of vortices universally prevailed, he found
-  it necessary to investigate that hypothesis, and in the course of his
+  it necessary to investigate that [[Hypothesis|hypothesis]], and in the course of his
   investigations he showed that the velocity of any stratum of the
   vortex is an arithmetical mean between the velocities of the strata
   which enclose it; and from this it evidently follows that the velocity
@@ -118,14 +118,14 @@ forms the province of hydraulics (q.v.).
   advantage of these results, Henri Pitot (1695-1771) afterwards showed
   that the retardations arising from friction are inversely as the
   diameters of the pipes in which the fluid moves. The attention of
-  Newton was also directed to the discharge of water from orifices in
+  Newton was also directed to the [[Discharge|discharge]] of water from orifices in
   the bottom of vessels. He supposed a cylindrical vessel full of water
   to be perforated in its bottom with a small hole by which the water
   escaped, and the vessel to be supplied with water in such a manner
   that it always remained full at the same height. He then supposed this
   cylindrical column of water to be divided into two parts,--the first,
-  which he called the "cataract," being an hyperboloid generated by the
-  revolution of an hyperbola of the fifth degree around the axis of the
+  which he called the "[[Cataract|cataract]]," being an hyperboloid generated by the
+  revolution of an [[Hyperbola|hyperbola]] of the fifth degree around the axis of the
   cylinder which should pass through the orifice, and the second the
   remainder of the water in the cylindrical vessel. He considered the
   horizontal strata of this hyperboloid as always in motion, while the
@@ -142,7 +142,7 @@ forms the province of hydraulics (q.v.).
   which appeared in 1713, he reconsidered his theory. He had discovered
   a contraction in the vein of fluid (_vena contracta_) which issued
   from the orifice, and found that, at the distance of about a diameter
-  of the aperture, the section of the vein was contracted in the
+  of the [[Aperture|aperture]], the section of the vein was contracted in the
   subduplicate ratio of two to one. He regarded, therefore, the section
   of the contracted vein as the true orifice from which the discharge of
   water ought to be deduced, and the velocity of the effluent water as
@@ -151,8 +151,8 @@ forms the province of hydraulics (q.v.).
   though still open to serious objections. Newton was also the first to
   investigate the difficult subject of the motion of waves (q.v.).
 
-  In 1738 Daniel Bernoulli (1700-1782) published his _Hydrodynamica seu
-  de viribus et motibus fluidorum commentarii_. His theory of the motion
+  In 1738 [[Daniel]] Bernoulli (1700-1782) published his _Hydrodynamica seu
+  de viribus et motibus fluidorum [[Commentarii|commentarii]]_. His theory of the motion
   of fluids, the germ of which was first published in his memoir
   entitled _Theoria nova de motu aquarum per canales quocunque
   fluentes_, communicated to the Academy of St Petersburg as early as
@@ -160,7 +160,7 @@ forms the province of hydraulics (q.v.).
   conformable to experience. He supposed that the surface of the fluid,
   contained in a vessel which is emptying itself by an orifice, remains
   always horizontal; and, if the fluid mass is conceived to be divided
-  into an infinite number of horizontal strata of the same bulk, that
+  into an [[Infinite|infinite]] number of horizontal strata of the same bulk, that
   these strata remain contiguous to each other, and that all their
   points descend vertically, with velocities inversely proportional to
   their breadth, or to the horizontal sections of the reservoir. In
@@ -170,16 +170,16 @@ forms the province of hydraulics (q.v.).
   that principle, his results did not command the confidence which they
   would otherwise have deserved, and it became desirable to have a
   theory more certain, and depending solely on the fundamental laws of
-  mechanics. Colin Maclaurin (1698-1746) and John Bernoulli (1667-1748),
+  mechanics. Colin [[Maclaurin]] (1698-1746) and John Bernoulli (1667-1748),
   who were of this opinion, resolved the problem by more direct methods,
   the one in his _Fluxions_, published in 1742, and the other in his
   _Hydraulica nunc primum detecta, et demonstrata directe ex fundamentis
   pure mechanicis_, which forms the fourth volume of his works. The
   method employed by Maclaurin has been thought not sufficiently
-  rigorous; and that of John Bernoulli is, in the opinion of Lagrange,
+  rigorous; and that of John Bernoulli is, in the opinion of [[Lagrange]],
   defective in clearness and precision. The theory of Daniel Bernoulli
   was opposed also by Jean le Rond d'Alembert. When generalizing the
-  theory of pendulums of Jacob Bernoulli (1654-1705) he discovered a
+  theory of pendulums of [[Jacob]] Bernoulli (1654-1705) he discovered a
   principle of dynamics so simple and general that it reduced the laws
   of the motions of bodies to that of their equilibrium. He applied this
   principle to the motion of fluids, and gave a specimen of its
@@ -191,7 +191,7 @@ forms the province of hydraulics (q.v.).
   different manner. He considered, at every instant, the actual motion
   of a stratum as composed of a motion which it had in the preceding
   instant and of a motion which it had lost; and the laws of equilibrium
-  between the motions lost furnished him with equations representing the
+  between the motions lost furnished him with [[Equation|equations]] representing the
   motion of the fluid. It remained a desideratum to express by equations
   the motion of a particle of the fluid in any assigned direction. These
   equations were found by d'Alembert from two principles--that a
@@ -201,7 +201,7 @@ forms the province of hydraulics (q.v.).
   incompressible, or dilates itself according to a given law when the
   fluid is elastic. His ingenious method, published in 1752, in his
   _Essai sur la résistance des fluides_, was brought to perfection in
-  his _Opuscules mathématiques_, and was adopted by Leonhard Euler.
+  his _Opuscules mathématiques_, and was adopted by Leonhard [[Euler]].
 
   The resolution of the questions concerning the motion of fluids was
   effected by means of Euler's partial differential coefficients. This
@@ -268,7 +268,7 @@ forms the province of hydraulics (q.v.).
   the coefficients of discharge in different conditions (_Civil
   Ingénieur_, 1880). Julius Weisbach (1806-1871) also made many
   experimental investigations on the discharge of fluids. The
-  experiments of J. B. Francis (_Lowell Hydraulic Experiments_, Boston,
+  experiments of J. B. Francis (_[[Lowell]] Hydraulic Experiments_, [[Boston]],
   Mass., 1855) led him to propose variations in the accepted formulae
   for the discharge over weirs, and a generation later a very complete
   investigation of this subject was carried out by H. Bazin. An
@@ -284,8 +284,8 @@ forms the province of hydraulics (q.v.).
   important data were yielded by the gaugings of the Mississippi made
   for the United States government by A. A. Humphreys and H. L. Abbot,
   by Robert Gordon's gaugings of the Irrawaddy, and by Allen J. C.
-  Cunningham's experiments on the Ganges canal. The friction of water,
-  investigated for slow speeds by Coulomb, was measured for higher
+  Cunningham's experiments on the [[Ganges]] canal. The friction of water,
+  investigated for slow speeds by [[Coulomb]], was measured for higher
   speeds by William Froude (1810-1879), whose work is of great value in
   the theory of ship resistance (_Brit. Assoc. Report._, 1869), and
   stream line motion was studied by Professor Osborne Reynolds and by

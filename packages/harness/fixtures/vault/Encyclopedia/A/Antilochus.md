@@ -18,13 +18,13 @@ attacked by Memnon, he saved his life at the sacrifice of his own
 (Pindar, _Pyth._ vi. 28), thus fulfilling an oracle which had bidden him
 "beware of an Ethiopian." His death was avenged by Achilles. According
 to other accounts, he was slain by Hector (Hyginus, _Fab._ 113), or by
-Paris in the temple of the Thymbraean Apollo together with Achilles
+Paris in the temple of the Thymbraean [[Apollo]] together with Achilles
 (Dares Phrygius 34). His ashes, with those of Achilles and Patroclus,
 were deposited in a mound on the promontory of Sigeum, where the
 inhabitants of Ilium offered sacrifice to the dead heroes (_Odyssey_,
 xxiv. 72; Strabo xiii. p. 596). In the _Odyssey_ (xi. 468) the three
 friends are represented as united in the underworld and walking together
-in the fields of asphodel; according to Pausanias (iii. 19) they dwell
+in the [[Fields|fields]] of [[Asphodel|asphodel]]; according to Pausanias (iii. 19) they dwell
 together in the island of Leuke.
 
 ## See also

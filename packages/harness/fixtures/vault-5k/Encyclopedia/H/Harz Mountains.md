@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Harz_Mount
 
 HARZ MOUNTAINS (also spelt HARTZ, Ger. _Harzgebirge_, anc. _Silva
 Hercynia_), the most northerly mountain-system of Germany, situated
-between the rivers Weser and Elbe, occupy an area of 784 sq. m., of
+between the rivers Weser and [[Elbe]], occupy an area of 784 sq. m., of
 which 455 belong to Prussia, 286 to Brunswick and 43 to Anhalt. Their
 greatest length extends in a S.E. and N.W. direction for 57 m., and
 their maximum breadth is about 20 m. The group is made up of an
@@ -25,7 +25,7 @@ Upper Harz are the Brocken (3747 ft.), the Heinrichshohe (3425 ft.), the
 Konigsberg (3376 ft.) and the Wurmberg (3176 ft.); of the Lower Harz,
 the Josephshohe in the Auerberg group and the Viktorhohe in the Ramberg,
 each 1887 ft. Of these the Brocken (q.v.) is celebrated for the legends
-connected with it, immortalized in Goethe's _Faust_. Streams are
+connected with it, immortalized in Goethe's _[[Faust]]_. Streams are
 numerous, but all small. While rendered extensively useful, by various
 skilful artifices, in working the numerous mines of the district, at
 other parts of their course they present the most picturesque scenery in
@@ -33,26 +33,26 @@ the Harz. Perhaps the finest valley is the rocky Bodethal, with the
 Rosstrappe, the Hexentanzplatz, the Baumannshohle and the Bielshohle.
 
   The Harz is a mass of Palaeozoic rock rising through the Mesozoic
-  strata of north Germany, and bounded on all sides by faults. Slates,
-  schists, quartzites and limestones form the greater part of the hills,
+  strata of north Germany, and bounded on all sides by [[Fault|faults]]. Slates,
+  schists, quartzites and [[Limestone|limestones]] form the greater part of the hills,
   but the Brocken and Victorshohe are masses of intrusive granite, and
   diabases and diabase tuffs are interstratified with the sedimentary
   deposits. The Silurian, Devonian and Carboniferous systems are
   represented--the Silurian and Devonian forming the greater part of the
   hills S.E. of a line drawn from Lauterberg to Wernigerode, while N.W.
   of this line the Lower Carboniferous predominates. A few patches of
-  Upper Carboniferous are found on the borders of the hills near Ilfeld,
-  Ballenstedt, &c., lying unconformably upon the Devonian. The structure
+  Upper Carboniferous are found on the borders of the hills near [[Ilfeld]],
+  [[Ballenstedt]], &c., lying unconformably upon the Devonian. The structure
   of the Harz is very complicated, but the general strike of the folds,
   especially in the Oberharz plateau, is N.E. or N.N.E. The whole mass
   evidently belongs to the ancient Hercynian chain of North Europe
   (which, indeed, derives its name from the Harz), and is the
   north-easterly continuation of the rocks of the Ardennes and the
-  Eifel. The folding of the old rocks took place towards the close of
+  [[Eifel]]. The folding of the old rocks took place towards the close of
   the Palaeozoic era; but the faulting to which they owe their present
   position was probably Tertiary. Metalliferous veins are common,
   amongst the best-known being the silver-bearing lead veins of
-  Klausthal, which occur in the Culm or Lower Carboniferous.
+  Klausthal, which occur in the [[Culm]] or Lower Carboniferous.
 
 Owing to its position as the first range which the northerly winds
 strike after crossing the north German plain, the climate on the summit
@@ -68,7 +68,7 @@ forests, and the legendary and romantic associations attaching to every
 fantastic rock and ruined castle, the Harz is a favourite summer resort
 of the German people. Among the more popular places of resort are
 Harzburg, Thale and the Bodethal; Blankenburg, with the Teufelsmauer and
-the Hermannshohle; Wernigerode, Ilsenburg, Grund, Lauterberg,
+the Hermannshohle; Wernigerode, [[Ilsenburg]], Grund, Lauterberg,
 Hubertusbad, Alexisbad and Suderode. Some of these, and other places not
 named, add to their natural attractions the advantage of mineral springs
 and baths, pine-needle baths, whey cures, &c. The Harz is penetrated by
@@ -79,8 +79,8 @@ The northern summits are destitute of trees, but the lower slopes of the
 Upper Harz are heavily wooded with pines and firs. Between the forests
 of these stretch numerous peat-mosses, which contain in their spongy
 reservoirs the sources of many small streams. On the Brocken are found
-one or two arctic and several alpine, plants. In the Lower Harz the
-forests contain a great variety of timber. The oak, elm and birch are
+one or two [[Arctic|arctic]] and several alpine, plants. In the Lower Harz the
+forests contain a great variety of timber. The oak, [[Elm|elm]] and [[Birch|birch]] are
 common, while the beech especially attains an unusual size and beauty.
 The walnut-tree grows in the eastern districts.
 
@@ -127,10 +127,10 @@ peculiar objects and appearances of nature.
 
   See _Zeitschrift des Harzvereins_ (Wernigerode, annually since 1868);
   Gunther, _Der Harz in Geschichts- Kultur- und Landschaftsbildern_
-  (Hanover, 1885), and "Der Harz" in Scobel's _Monographien zur
+  ([[Hanover]], 1885), and "Der Harz" in Scobel's _Monographien zur
   Erdkunde_ (Bielefeld, 1901); H. Hoffmann and others, _Der Harz_
   (Leipzig, 1899), _Harzwanderungen_ (Leipzig, 1902); Hampe, _Flora
-  Hercynica_ (Halle, 1873); von Groddeck, _Abriss der Geognosie des
+  Hercynica_ ([[Halle]], 1873); von Groddeck, _Abriss der Geognosie des
   Harzes_ (2nd ed., Klausthal, 1883); Prohle, _Harzsagen_ (2nd ed.,
   Leipzig, 1886); Hautzinger, _Der Kupfer- und Silbersegen des Harzes_
   (Berlin, 1877); Hoppe, _Die Bergwerke im Ober- und Unterharz_

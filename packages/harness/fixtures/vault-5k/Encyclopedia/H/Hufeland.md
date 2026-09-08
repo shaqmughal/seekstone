@@ -14,7 +14,7 @@ Jena, Hufeland accepted a call to Wurzburg, from which, after but a
 brief tenure of a professorial chair, he proceeded to Landshut. From
 1808 to 1812 he acted as burgomaster in his native town of Dantzig.
 Returning to Landshut, he lived there till 1816, when he was invited to
-Halle, where he died on the 25th of February 1817.
+[[Halle]], where he died on the 25th of February 1817.
 
   Hufeland's works on the theory of legislation--_Versuch uber den
   Grundsatz Naturrechts_ (1785); _Lehrbuch des Naturrechts_ (1790);

@@ -9,9 +9,9 @@ id: 42-3931
 
 # Glaser
 
-GLASER, CHRISTOPHER, a pharmaceutical chemist of the 17th century, was a
-native of Basel, became demonstrator of chemistry at the Jardin du Roi
-in Paris and apothecary to Louis XIV. and to the duke of Orleans. He is
+GLASER, [[Christopher|CHRISTOPHER]], a pharmaceutical chemist of the 17th century, was a
+native of [[Basel]], became demonstrator of [[Chemistry|chemistry]] at the Jardin du Roi
+in Paris and [[Apothecary|apothecary]] to Louis XIV. and to the duke of Orleans. He is
 best known by his _Traite de la chymie_ (Paris, 1663), which went
 through some ten editions in about five-and-twenty years, and was
 translated into both German and English. It has been alleged that he was

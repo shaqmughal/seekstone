@@ -7,13 +7,13 @@ topic: natural-history
 # Draper
 
 DRAPER, JOHN WILLIAM (1811-1882), American scientist, was born at St
-Helen's, near Liverpool, on the 5th of May 1811. He studied at Woodhouse
+Helen's, near [[Liverpool]], on the 5th of May 1811. He studied at Woodhouse
 Grove, at the University of London, and, after removing to America in
 1832, at the medical school of the University of Pennsylvania in
-1835-1836. In 1837 he was elected professor of chemistry in the
+1835-1836. In 1837 he was elected professor of [[Chemistry|chemistry]] in the
 University of the City of New York, and was a professor in its school of
 medicine in 1840-1850, president of that school in 1850-1873, and
-professor of chemistry until 1881. He died at Hastings, New York, on the
+professor of chemistry until 1881. He died at [[Hastings]], New York, on the
 4th of January 1882. He made important researches in photo-chemistry,
 made portrait photography possible by his improvements (1839) on
 Daguerre's process, and published a _Text-book on Chemistry_ (1846),
@@ -34,9 +34,9 @@ spectroscopy; he ruled metal gratings in 1869-1870, made valuable
 spectrum photographs after 1871, and proved the presence of oxygen in
 the sun in a monograph of 1877. Edward C. Pickering carried on his study
 of stellar spectra with the funds of the Henry Draper Memorial at
-Harvard, endowed by his widow (_née_ Mary Anna Palmer).
+Harvard, endowed by his widow (_née_ Mary [[Anna]] Palmer).
 
-  See accounts by George F. Barker in _Biographical Memoirs of the
+  See accounts by George F. [[Barker]] in _Biographical Memoirs of the
   National Academy of Science_, vols. 2 and 3 (Washington, 1886, 1888).
 
 ## See also

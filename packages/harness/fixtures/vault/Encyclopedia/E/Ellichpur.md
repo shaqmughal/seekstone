@@ -1,7 +1,7 @@
 # Ellichpur
 
 ELLICHPUR, or ILLICHPUR, a town of India in the Amraoti district of
-Berar. Pop. (1901) 26,082. It is first mentioned authentically in the
+[[Berar]]. Pop. (1901) 26,082. It is first mentioned authentically in the
 13th century as "one of the famous cities of the Deccan." Though
 tributary to the Mahommedans after 1294, it remained under Hindu
 administration till 1318, when it came directly under the Mahommedans.

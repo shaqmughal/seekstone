@@ -9,27 +9,27 @@ type: article
 
 DE BARY, HEINRICH ANTON (1831-1888), German botanist, was of Belgian
 extraction, though his family had long been settled in Germany, and was
-born on the 26th of January 1831, at Frankfort-on-Main. From 1849 to
-1853 he studied medicine at Heidelberg, Marburg and Berlin. In 1853 he
-settled at Frankfort as a surgeon. In 1854 he became privat-docent for
-botany in Tubingen, and professor of botany at Freiburg in 1855. In 1867
-he migrated to Halle, and in 1872 to Strassburg, where he was the first
+born on the 26th of January 1831, at [[Frankfort-On-Main|Frankfort-on-Main]]. From 1849 to
+1853 he studied medicine at Heidelberg, [[Marburg]] and Berlin. In 1853 he
+settled at [[Frankfort]] as a surgeon. In 1854 he became privat-docent for
+botany in Tubingen, and professor of botany at [[Freiburg]] in 1855. In 1867
+he migrated to [[Halle]], and in 1872 to Strassburg, where he was the first
 rector of the newly constituted university, and where he died on the
 19th of January 1888.
 
 Although one of his largest and most important works was on the
-_Comparative Anatomy of Ferns and Phanerogams_ (1877), and
+_[[Comparative Anatomy]] of Ferns and Phanerogams_ (1877), and
 notwithstanding his admirable acquaintance with systematic and field
 botany generally, de Bary will always be remembered as the founder of
 modern mycology. This branch of botany he completely revolutionized in
 1866 by the publication of his celebrated _Morphologie und Physiologie
 d. Pilze_, &c., a classic which he rewrote in 1884, and which has had a
-world-wide influence on biology. His clear appreciation of the real
-significance of symbiosis and the dual nature of lichens is one of his
+world-wide influence on [[Biology|biology]]. His clear appreciation of the real
+significance of symbiosis and the dual nature of [[Lichens|lichens]] is one of his
 most striking achievements, and in many ways he showed powers of
 generalizing in regard to the evolution of organisms, which alone would
 have made him a distinguished man. It was as an investigator of the then
-mysterious Fungi, however, that de Bary stands out first and foremost
+mysterious [[Fungi]], however, that de Bary stands out first and foremost
 among the biologists of the 19th century. He not only laid bare the
 complex facts of the life-history of many forms,--e.g. the Ustilagineae,
 Peronosporeae, Uredineae and many Ascomycetes,--treating them from the
@@ -113,17 +113,17 @@ The first principle to be borne in mind is that a company cannot borrow
 unless it is expressly or impliedly authorized to do so by its
 memorandum of association. In the case of a _trading_ company borrowing
 is impliedly authorized as a necessary incident of carrying on the
-company's business. Thus a company established for the conveyance of
+company's business. Thus a company established for the [[Conveyance|conveyance]] of
 passengers and luggage by omnibuses, a company formed to buy and run
-vessels between England and Australia, and a company whose objects
+vessels between England and [[Australia]], and a company whose objects
 included discounting approved commercial bills, have all been held to be
 trading companies with an incidental power of borrowing as such to a
 reasonable amount. A building society, on the other hand, has no
 inherent power of borrowing (though a limited statutory power was
-conferred on such societies by the Building Societies Act 1874); nor has
+conferred on such societies by the [[Building Societies]] Act 1874); nor has
 a society formed not for gain but to promote art, science, religion,
 charity or any other useful object. Public companies formed to carry out
-some undertaking of public utility, such as docks, water works, or gas
+some undertaking of public utility, such as [[Dock|docks]], water works, or gas
 works, and governed by the Companies Clauses Acts, have only limited
 powers of borrowing.
 
@@ -140,11 +140,11 @@ to commence business: one of which is that the company must have
 obtained its "minimum subscription." A person who is proposing to lend
 money to a company must be careful to acquaint himself with any
 statutory regulations of this kind, and also to see (1) that the
-memorandum and articles of association authorize borrowing, and (2) that
+memorandum and [[Articles Of Association|articles of association]] authorize borrowing, and (2) that
 the borrowing limit is not being exceeded, for if it should turn out
 that the borrowing was in excess of the company's powers and _ultra
 vires_, the company cannot be bound, and the borrower's only remedy is
-against the directors for breach of warranty of authority, or to be
+against the directors for [[Breach|breach]] of warranty of authority, or to be
 surrogated to the rights of any creditors who may have been paid out of
 the borrowed moneys.
 
@@ -156,7 +156,7 @@ public to subscribe. Underwriting is also resorted to, as in the case of
 shares, to ensure that the issue is taken up. There is no objection to a
 company issuing debentures or debenture stock at a discount, as there is
 to its issuing its shares at a discount. It must borrow on the best
-terms its credit will enable it to obtain. A prospectus inviting
+terms its [[Credit|credit]] will enable it to obtain. A prospectus inviting
 subscriptions for debentures or debenture stock comes within the terms
 of the Directors' Liability Act 1890 (re-enacted in Companies Act 1908,
 S 84), and persons who are parties to it have the onus cast upon them,
@@ -183,7 +183,7 @@ floating charge. In the mortgage debenture there is also a floating
 charge, but the property forming the principal part of the security is
 conveyed by the company to trustees under a trust deed for the benefit
 of the debenture-holders. In the debenture bond there is no security
-proper: only the covenant for payment by the company. For purposes of
+proper: only the [[Covenant|covenant]] for payment by the company. For purposes of
 title and transfer, debentures are either "registered" or "to bearer."
 For purposes of payment they are either "terminable" or "perpetual" (see
 Companies Act 1908, S 103).
@@ -213,19 +213,19 @@ winding-up order is made against the company, or a resolution for
 winding-up is passed. Other events indicative of insolvency are
 sometimes added in which payment is to be accelerated. The conditions
 also provide for the mode and form of transfer of the debentures, the
-death or bankruptcy of the holder, the place of payment, &c. The most
+death or [[Bankruptcy|bankruptcy]] of the holder, the place of payment, &c. The most
 characteristic feature of the security--the floating charge--grew
 naturally out of a charge on a company's undertaking as a going concern.
 Such a charge could only be made practicable by leaving the company free
 to deal with and dispose of its property in the ordinary course of its
-business--to sell, mortgage, lease, and exchange it as if no charge
+business--to sell, mortgage, lease, and [[Exchange|exchange]] it as if no charge
 existed: and this is how the security works. The debenture-holders give
 the directors an implied licence to deal with and dispose of the
 property comprised in the security until the happening of any of the
 events upon which the debenture-holders' money becomes under the
 debenture conditions immediately repayable. Pending this the charge is
 dormant. The licence extends, however, only to dealings in _the ordinary
-course of business_. Payment by a company of its just debts is always in
+course of business_. Payment by a company of its just [[Debt|debts]] is always in
 the ordinary course of business, but satisfaction by execution levied
 _in invitum_ is not. This floating form of security is found very
 convenient both to the borrowing company and to the lender. The company
@@ -233,7 +233,7 @@ is not embarrassed by the charge, while the lender has a security
 covering the whole assets for the time being, and can intervene at any
 moment by obtaining a receiver if his security is imperilled, even
 though none of the events in which the principal moneys are made payable
-have happened. If any of them has happened, for instance default in
+have happened. If any of them has happened, for instance [[Default|default]] in
 payment of interest, or a resolution by the company to wind up, the
 payment of the principal moneys is accelerated, and a debenture-holder
 can at once commence an action to obtain payment and to realize his
@@ -244,7 +244,7 @@ debentures. Very nice questions of priority have arisen under such a
 clause. A floating charge created by a company within three months of
 its being wound up will now be invalid under S 12 of the Companies Act
 1908 unless the company is shown to have been solvent at the time, but
-there is a saving clause for cash paid under the security and interest
+there is a saving clause for [[Cash|cash]] paid under the security and interest
 at 5%.
 
 _Trust Deeds._--When the amount borrowed by a company is large, the
@@ -263,7 +263,7 @@ interests of the debenture-holders and take steps for their protection
 if necessary. In particular it provides machinery for the calling of
 meetings of debenture-holders by the trustees, and empowers a majority
 of (say) two-thirds or three-fourths in number and value at such meeting
-to bind the rest to any compromise or arrangement with the company which
+to bind the rest to any [[Compromise|compromise]] or arrangement with the company which
 such majorities may deem beneficial. This is found a very useful power,
 and may save recourse to a scheme or arrangement first sanctioned under
 the machinery of the Joint Stock Companies Arrangement Act 1870
@@ -289,7 +289,7 @@ _Debentures Registered and to Bearer._--Debentures are, for purposes of
 title and transfer, of two kinds--(1) registered debentures, and (2)
 debentures to bearer. Registered debentures are transferable only in the
 books of the company. Debentures to bearer are negotiable instruments
-and pass by delivery. Coupons for interest are attached. Sometimes
+and pass by delivery. [[Coupon|Coupons]] for interest are attached. Sometimes
 debentures to bearer are made exchangeable for registered debentures and
 vice versa.
 
@@ -311,7 +311,7 @@ after payment of interest on the debentures. Redeemed debentures may in
 certain cases be reissued; see Companies Act 1908 (S 104).
 
 _Debenture Stock._--Debenture stock bears the same relation to
-debentures that stock does to shares. "Debenture stock," as Lord Lindley
+debentures that stock does to shares. "Debenture stock," as Lord [[Lindley]]
 states (_Companies_, 5th ed., 195), "is merely borrowed capital
 consolidated into one mass for the sake of convenience. Instead of each
 lender having a separate bond or mortgage, he has a certificate
@@ -348,7 +348,7 @@ also issued to bearer. A deed securing debenture stock requires an _ad
 valorem_ stamp.
 
 _Debenture Scrip._--Debentures and debenture stock are usually made
-payable in instalments, for example 10% on application, 10% on allotment
+payable in [[Instalment|instalments]], for example 10% on application, 10% on allotment
 and the remainder at intervals of a few months. Until these payments are
 complete the securities are not issued, but to enable the subscriber to
 deal with his security pending completion the company issues to him an
@@ -366,7 +366,7 @@ only with the aid of the court.
 
 1. If there is a trust deed, the trustees may appoint a receiver of the
 property comprised in the security, and they may also sell under the
-powers contained in the deed, or under S 25 of the Conveyancing Act
+powers contained in the deed, or under S 25 of the [[Conveyancing]] Act
 1881. Sometimes, where there is no trust deed, similar powers--to
 appoint a receiver and to sell--are inserted in the conditions indorsed
 on the debentures.
@@ -375,7 +375,7 @@ on the debentures.
 more debenture-holders on behalf of all for a receiver and to realize
 the security; (b) an originating summons for sale or other relief, under
 Rules of Supreme Court, 1883, O. lv. r. 5A; (c) an action for
-foreclosure where the security is deficient (all the debenture-holders
+[[Foreclosure|foreclosure]] where the security is deficient (all the debenture-holders
 must be parties to this proceeding); (d) a winding-up petition. Of these
 modes of proceeding, the first is by far the most common and most
 convenient. Immediately on the issue of the writ in the action the
@@ -453,7 +453,7 @@ received legislative sanction shall not be broken up or destroyed, as
 they would be if the mortgagees or debenture-holders were allowed the
 ordinary rights of mortgagees for realizing their security by seizure and
 sale. Hence the legislature has given them only "the fruit of the tree,"
-as Lord Cairns expressed it. The debenture-holders or the
+as Lord [[Cairns]] expressed it. The debenture-holders or the
 debenture-stockholders may take the earnings of the company's undertaking
 by obtaining the appointment of a receiver, but that is all they can do.
 They cannot sell the undertaking or disorganize it by levying execution,
@@ -467,7 +467,7 @@ and the Railway Securities Act 1866.
 
 _Municipal Corporations and County Councils._--These bodies are
 authorized to borrow for their proper purposes on debentures and
-debenture stock with the sanction of the Local Government Board. See the
+debenture stock with the sanction of the [[Local Government Board]]. See the
 Municipal Corporations Act 1882, the Local Authorities' Loans Act 1875,
 and the Local Government (England and Wales) Act 1888.
 
@@ -478,7 +478,7 @@ certain sum on an audited account, or that it will refund a certain sum
 paid for duties on imported goods, in case they are subsequently
 exported.
 
-  AUTHORITIES.--E. Manson, _Debentures and Debenture Stock_ (London, 2nd
+  AUTHORITIES.--E. [[Manson]], _Debentures and Debenture Stock_ (London, 2nd
   ed., 1908); Simonson, _Debentures and Debenture Stock_ (London, 2nd
   ed., 1902); Palmer, _Company Precedents (Debentures)_ (3rd ed.,
   London, 1907).     (E. Ma.)

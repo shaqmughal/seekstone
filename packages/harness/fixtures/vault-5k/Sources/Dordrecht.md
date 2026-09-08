@@ -13,8 +13,8 @@ the 14th century and contains some finely carved stalls (1540) by Jan
 Terween Aertsz, a remarkable pulpit (1759), many old monuments and a set
 of gold communion plate. In the town museum is an interesting collection
 of paintings, chiefly by modern artists, but including also pictures by
-some of the older masters, among whom Ferdinand Bol, the two Cuyps,
-Nicolas Maes, Godefried Schalcken, and in later times Ary Scheffer, were
+some of the older masters, among whom [[Ferdinand]] Bol, the two [[Cuyp|Cuyps]],
+Nicolas [[Maes]], Godefried Schalcken, and in later times Ary Scheffer, were
 all natives of Dordrecht. The celebrated 17th-century statesman John de
 Witt was also a native of the town. Close to the museum is one of the
 old city gates, rebuilt in 1618, and now containing a collection of
@@ -23,7 +23,7 @@ Museum (1902) contains memorials of the Boer War of 1899-1902. The
 harbour of Dordrecht still has a large trade, but much has been diverted
 to Rotterdam. Large quantities of wood are imported from Germany,
 Scandinavia and America. There are numerous saw-mills, shipbuilding
-yards, engineering works, distilleries, sugar refineries, tobacco
+yards, [[Engineering|engineering]] works, distilleries, sugar refineries, tobacco
 factories, linen bleacheries and stained glass, salt and white lead
 works.
 

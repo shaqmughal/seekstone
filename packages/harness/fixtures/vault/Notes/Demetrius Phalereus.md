@@ -8,19 +8,19 @@ id: 42-7849
 
 # Demetrius Phalereus
 
-DEMETRIUS PHALEREUS (c. 345-283 B.C.), Attic orator, statesman and
+DEMETRIUS PHALEREUS (c. 345-283 B.C.), [[Attic]] orator, statesman and
 philosopher, born at Phalerum, was a pupil of Theophrastus and an
 adherent of the Peripatetic school. He governed the city of Athens as
-representative of Cassander (q.v.) for ten years from 317. It is said
+representative of [[Cassander]] (q.v.) for ten years from 317. It is said
 that he so won the hearts of the people that 360 statues were erected in
 his honour; but opinions are divided as to the character of his rule. On
-the restoration of the old democracy by Demetrius Poliorcetes, he was
+the restoration of the old democracy by [[Demetrius]] Poliorcetes, he was
 condemned to death by the fickle Athenians and obliged to leave the
 city. He escaped to Egypt, where he was protected by Ptolemy Lagus, to
 whom he is said to have suggested the foundation of the Alexandrian
 library. Having incurred the displeasure of Lagus's successor
 Philadelphus, Demetrius was banished to Upper Egypt, where he died
-(according to some, voluntarily) from the bite of an asp. Demetrius
+(according to some, voluntarily) from the bite of an [[Asp|asp]]. Demetrius
 composed a large number of works on poetry, history, politics, rhetoric
 and accounts of embassies, all of which are lost.
 

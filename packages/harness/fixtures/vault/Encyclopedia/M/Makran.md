@@ -8,16 +8,16 @@ id: 42-2773
 
 # Makran
 
-MAKRAN, or MEKRAN, a province of Baluchistan, fringing the Arabian Sea
-from Persia almost to Sind for about 200 m. It is subject to the khan of
-Kalat under British political supervision. Estimated area, 26,000 sq.
-m.; estimated pop. (1903), 78,000. The long lateral valley of Kej is
+MAKRAN, or MEKRAN, a province of [[Baluchistan]], fringing the Arabian Sea
+from Persia almost to Sind for about 200 m. It is subject to the [[Khan|khan]] of
+[[Kalat]] under British political supervision. Estimated area, 26,000 sq.
+m.; estimated pop. (1903), 78,000. The long lateral valley of [[Kej]] is
 usually associated with Makran in early geographical records. The
 Kej-Macoran of Marco Polo is the Makran of to-day.
 
 The long stretch of sandy foreshore is broken on the coast-line by the
-magnificent cliffs of Malan, the hammer-shaped headlands of Ormarah and
-Gwadar, and the precipitous cliffs of Jebel Zarain, near Pasni. Within
+magnificent cliffs of [[Malan]], the hammer-shaped headlands of Ormarah and
+Gwadar, and the precipitous cliffs of [[Jebel]] Zarain, near Pasni. Within
 them lies the usual frontier band of parallel ridges, alternating with
 narrow valleys. Amongst them the ranges called Talana and Talur are
 conspicuous by their height and regular configuration. The normal
@@ -50,13 +50,13 @@ trickle of salt water leaves a white and leprous streak amongst the
 faded tamarisk or the yellow stalks of last season's grass. Makran is
 the home of remnants of an innumerable company of mixed people gathered
 from the four corners of Asia and eastern Africa. The ancient
-Dravidians, of whom the Brahui is typical, still exist in many of the
+[[Dravidian|Dravidians]], of whom the Brahui is typical, still exist in many of the
 districts which are assigned to them in Herodotus. Amongst them there is
-always a prominent Arab element, for the Arabs held Makran even before
+always a prominent Arab element, for the [[Arabs]] held Makran even before
 they conquered Sind and made the Kej valley their trade highway to
 India. There are negroes on the coast, bred from imported slaves. The
 Meds of the Indus valley still form the greater part of the fishing
-population, representing the Ichthyophagi of Arrian. The old Tajik
+population, representing the [[Ichthyophagi]] of [[Arrian]]. The old Tajik
 element of Persia is not so evident in Makran as it is farther north;
 and the Karak pirates whose depredations led to the invasion of India
 and the conquest of Sind, seem to have disappeared altogether. The
@@ -66,13 +66,13 @@ border east and west, unite to break through the intervening chain of
 hills northward to form the Mashkel swamps, and define the northern
 limits of Makran. In these valleys are narrow strips of very advanced
 cultivation, the dates of Panjgur being generally reckoned superior even
-to those of the Euphrates. The great Mashkel swamp and the Kharan desert
+to those of the [[Euphrates]]. The great Mashkel swamp and the Kharan [[Desert|desert]]
 to the east of it, mark the flat phase of southern Baluchistan
 topography. It is geologically part of an ancient inland lake or sea
-which included the present swamp regions of the Helmund, but not the
+which included the present swamp regions of the [[Helmund]], but not the
 central depression of the Lora. The latter is buttressed against hills
 at a much higher elevation than the Kharan desert, which is separated
-from the great expanse of the Helmund desert within the borders of
+from the great expanse of the Helmund desert within the [[Borders|borders]] of
 Afghanistan by a transverse band of serrated hills forming a distinct
 watershed from Nushki to Seistan. Here and there these jagged peaks
 appear as if half overwhelmed by an advancing sea of sand. They are
@@ -85,15 +85,15 @@ sinking to 1500 ft. in the Mashkel Hamun and the Gaod-i-Zirreh.
 The whole of this country has been surveyed by Indian surveyors and the
 boundary between Persian and British Baluchistan was demarcated by a
 commission in 1895-1896. In 1898 a column of British troops under
-Colonel Mayne was despatched to Makran by sea, owing to a rebellion
+Colonel [[Mayne]] was despatched to Makran by sea, owing to a rebellion
 against the authority of the khan of Kalat, and an attack made by some
 Makran chiefs on a British survey party. The campaign was short and
 terminated with the capture of the Kej citadel. Another similar
 expedition was required in 1901 to storm the fort at Nodiz. The
 headquarters of the native governor, under the khan of Kalat, are at
-Turbat, with deputies at Tump, Kolwa, Pasni and Panjgur. A levy corps,
+Turbat, with deputies at Tump, Kolwa, Pasni and Panjgur. A [[Levy|levy]] [[Corps|corps]],
 with two British officers, is stationed along the western frontier. The
-port of Gwadur forms an enclave belonging to the sultan of Muscat.
+port of Gwadur forms an [[Enclave|enclave]] belonging to the sultan of Muscat.
 
   _Baluchistan District Gazetteer_, vol. vii. (Bombay, 1907).
        (T. H. H.*)

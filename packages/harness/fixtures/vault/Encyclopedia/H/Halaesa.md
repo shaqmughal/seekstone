@@ -10,7 +10,7 @@ tags: [americas, africa-studies]
 HALAESA, an ancient town on the north coast of Sicily, about 14 m. E. of
 Cephaloedium [Cefalu], to the east of the modern Castel di Tusa, founded
 in 403 B.C. by Archonides, tyrant of Herbita, whose name it sometimes
-bore: we find, e.g. _Halaisa Archonida_ on a coin of the time of
+bore: we find, e.g. _Halaisa Archonida_ on a [[Coin|coin]] of the time of
 Augustus (_Corp. inscrip. Lat._ x., Berlin, 1883, p. 768). It was the
 first town to surrender to the Romans in the First Punic War, and was
 granted freedom and immunity from tithe. It became a place of some

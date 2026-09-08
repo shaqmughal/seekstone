@@ -1,7 +1,7 @@
 # Bowline
 
 BOWLINE (a word found in most Teutonic languages, probably connected
-with the "bow" of a ship), a nautical term for a rope leading from the
+with the "[[Bow|bow]]" of a ship), a nautical term for a rope leading from the
 edge of a sail to the bows, for the purpose of steadying the sail when
 sailing close to the wind--"on a bowline."
 

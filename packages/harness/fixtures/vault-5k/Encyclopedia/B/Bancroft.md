@@ -6,15 +6,15 @@ America since 1632, and his father, Aaron Bancroft, was distinguished as a
 revolutionary soldier, clergyman and author. The son was educated at
 Phillips Academy, Exeter, at Harvard University, at Heidelberg, Göttingen
 and Berlin. At Göttingen he studied Plato with Heeren, New Testament Greek
-with Eichhorn and natural science with Blumenbach. His heart was in the
+with [[Eichhorn]] and natural science with Blumenbach. His heart was in the
 work of Heeren, easily the greatest of historical critics then living, and
 the forerunner of the modern school; it was from this master that Bancroft
-caught his enthusiasm for minute pains-taking erudition. He concluded his
+caught his [[Enthusiasm|enthusiasm]] for minute pains-taking erudition. He concluded his
 years of preparation by a European tour, in the [v.03 p.0307] course of
 which he received kind attention from almost every distinguished man in the
 world of letters, science and art; among others, from Goethe, Humboldt,
-Schleiermacher, Hegel, Byron, Niebuhr, Bunsen, Savigny, Cousin, Constant
-and Manzoni. Bancroft's father was a Unitarian, and he had devoted his son
+Schleiermacher, Hegel, [[Byron]], Niebuhr, Bunsen, Savigny, [[Cousin]], Constant
+and [[Manzoni]]. Bancroft's father was a Unitarian, and he had devoted his son
 to the work of the ministry; but the young man's first experiments at
 preaching, shortly after his return from Europe in 1822, were
 unsatisfactory, the theological teaching of the time having substituted
@@ -42,7 +42,7 @@ from the family of his first wife, who were ardent Whigs, he refused to
 serve. In 1831 he likewise declined the nomination of the Massachusetts
 Democrats for secretary of state. By this time he was influential in the
 councils of his party, and President Van Buren appointed him collector of
-the port of Boston, a position which he filled with success. Two of his
+the port of [[Boston]], a position which he filled with success. Two of his
 appointees were Orestes Brownson and Nathaniel Hawthorne. In 1844 he was
 the Democratic candidate for the governorship, but he was defeated. In 1845
 he entered Polk's cabinet as secretary of the navy, serving until 1846,
@@ -50,7 +50,7 @@ when for a month he was acting secretary of war. During this short period
 in the cabinet he established the naval academy at Annapolis, gave the
 orders which led to the occupation of California, and sent Zachary Taylor
 into the debatable land between Texas and Mexico. He also continued his
-pleadings for the annexation of Texas, as extending "the area of freedom,"
+pleadings for the [[Annexation|annexation]] of Texas, as extending "the area of freedom,"
 and though a Democrat, took high moral ground as to slavery; he likewise
 made himself the authority on the North-Western Boundary question. In 1846
 he was sent as minister to London, where he lived in constant companionship
@@ -63,7 +63,7 @@ lived in Washington and Newport, dying at Washington on the 17th of January
 arbitration he displayed great versatility and skill, winning his case
 before the emperor with brilliant ease. The naturalization treaties which
 he negotiated successively with Prussia and the other north German states
-were the first international recognition of the right of expatriation, a
+were the first [[International|international]] recognition of the right of [[Expatriation|expatriation]], a
 principle since incorporated in the law of nations.
 
 In spite of the exacting and severe routine of the Round Hill school,
@@ -83,7 +83,7 @@ reprinted in England and translated immediately into Danish, Italian,
 German and French. The latest volumes were considered by all competent
 judges quite as important as their predecessors. When the author was
 preparing to return from Berlin, the Royal Academy made him their guest at
-a public dinner, an unprecedented honour; and the universities of Berlin,
+a public [[Dinner|dinner]], an unprecedented honour; and the universities of Berlin,
 Heidelberg and Munich united in a testimonial of regard. At Washington he
 was the confidential advisor of statesmen to the end of his life and the
 unofficial dean of the best society.
@@ -126,14 +126,14 @@ pace with them by ruthless revision, yet even the latest edition of his
 work disregards some minor facts which others knew for the insertion of
 much which the author alone knew.
 
-Bancroft's imagination and enthusiasm were alike exuberant. His pages
+Bancroft's [[Imagination|imagination]] and enthusiasm were alike exuberant. His pages
 abound in fine and acute insight. His generalizations are vivid and
 enlightening. He spared no pains to acquire true style, frequently
 rewriting his chapters, and sometimes testing passages of philosophy and
 description in eight different forms. Yet to a certain extent he lacked the
 representative power and often failed to conceal his art, many pages
 ringing with artificial tones. But, after making all allowances, it remains
-true that he had a perfect sense of proportion, sound maxims and thorough
+true that he had a perfect sense of proportion, sound [[Maxims|maxims]] and thorough
 common-sense. He was of that greatest human type: a man of the present,
 valuing justly the past and no dreamer. In the nature and extent of his
 studies, in the solidity of his work, and in the philosophic spirit which

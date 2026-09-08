@@ -28,7 +28,7 @@ serve to show the methods and aims, and the complex and expensive
 equipment, of a modern aquarium:--
 
 "The zoological station at Naples is an institution for the advancement
-of biological science--that is, of comparative anatomy, zoology, botany,
+of biological science--that is, of [[Comparative Anatomy|comparative anatomy]], zoology, botany,
 physiology. It serves this end by providing the biologist with the
 various objects of his study and the necessary appliances; it is not a
 teaching institution. The station was founded by Dr Anton Dohrn, and
@@ -48,7 +48,7 @@ finished in 1887, contains the rooms in which the animals are delivered,
 sorted and preserved, and the fishing tackle kept, together with the
 workshop of the engineer; on the first and second floors are workrooms,
 amongst others the botanical laboratory; on the third floor are
-store-rooms. In the basement of both buildings, which is continued
+store-rooms. In the [[Basement|basement]] of both buildings, which is continued
 underneath the court, there are sea-water cisterns and filters, engines
 and store-rooms. The materials for study which the station offers to the
 biologist are specimens of marine animals and plants which abound in the
@@ -57,8 +57,8 @@ To obtain these, two screw-steamers and several rowing boats are
 required, which are moored in the harbour of Mergellina, situated close
 by. The larger steamer, 'Johannes Muller' (15 m. long, 2-1/2 m. wide, 1
 m. draught), which can steam eight to ten English miles per hour, is
-provided with a steam dredge working to a depth of eighty fathoms. From
-the small steamer, 'Frank Balfour,' and the rowing boats, the fishing is
+provided with a steam dredge working to a depth of eighty [[Fathom|fathoms]]. From
+the small steamer, '[[Frank]] Balfour,' and the rowing boats, the fishing is
 done by means of tow-nets. Besides these there are fishermen and others
 who daily supply living material for study. The plankton (small floating
 animals) is distributed in the morning, other animals as required. The
@@ -124,11 +124,11 @@ into motion by the drinking-water supply.
 "The library contains about 9000 volumes, which students use with the
 help of a slip catalogue, arranged according to authors. The station has
 published at intervals since 1879 two periodicals treating of the
-organisms of the Mediterranean. One is _Fauna und Flora des Golfes van
+organisms of the Mediterranean. One is _Fauna und Flora des [[Golf|Golfes]] van
 Neapel_, the other _Mittheilungen aus der zoologischen Station zu
 Neapel_. The former consists of monographs in which special groups of
 animals and plants are most exhaustively treated and the Mediterranean
-species portrayed according to life in natural colours; up to the
+species portrayed according to life in natural [[Colours|colours]]; up to the
 present time twenty-one zoological and five botanical monographs have
 appeared, making altogether 1200 4to sheets with about 400 plates. Of
 the Mittheilungen, which contain smaller articles on organisms of the
@@ -144,13 +144,13 @@ the lay visitor an idea of the marine animal world.
 physiologist, one secretary, two draughtsmen, one engineer. The station
 is a private institution, open to biologists of all nations under the
 following conditions: there are agreements with the governments of
-Austria, Baden, Bavaria, Belgium, Hamburg, Holland, Hesse, Italy,
+Austria, Baden, Bavaria, [[Belgium]], Hamburg, Holland, [[Hesse]], Italy,
 Prussia, Russia, Saxony, Switzerland, Hungary, Wurttemberg, the province
 of Naples, and the universities of Cambridge, Oxford, Strassburg,
-Columbia College (New York), and the British Association for the
+[[Columbia]] College (New York), and the British Association for the
 Advancement of Science, the Smithsonian Institution, and a society of
 women in the United States of North America (formerly also with
-Bulgaria, Rumania, Spain, the Academy of Sciences in Berlin, Williams
+[[Bulgaria]], Rumania, Spain, the Academy of Sciences in Berlin, Williams
 College, University of Pennsylvania), by virtue of which the governments
 and corporate bodies named have the right, on payment of L100 per annum,
 to send a worker to the station; this places at his disposal a 'table'
@@ -207,13 +207,13 @@ of water in circulation; if practicable, they should be excavated in
 rock, and lined with the best cement. Thera is no reason why they should
 not be shallow, exposed to light and air, and cultivated as rock-pools
 by the introduction of seaweeds and small animals, but they must then be
-screened from rain, cold and dust. The pumps used in circulation will be
+screened from rain, cold and [[Dust|dust]]. The pumps used in circulation will be
 less likely to kill minute animals if of the plunger or ram type, rather
 than rotary, and should be of gun-metal or one of the new bronze-alloys
 which take a patina in salt water. For the circulating pipes many
 materials have been tried. Vulcanite is not only expensive and brittle,
 but has other disadvantages; common iron pipes, coated internally with
-cement or asphalt or glazed internally, with all unions and joints
+cement or asphalt or glazed internally, with all unions and [[Joints|joints]]
 cemented, have been used with more or less success. Probably best of all
 is common lead piping, the joints being served with red-lead; water
 should be circulated through such pipes till they become coated with
@@ -226,7 +226,7 @@ purposes. If intended for show-tanks for popular admiration, or for the
 study of large animals, they must be large with a plate-glass front; for
 ordinary scientific work small tanks with all sides opaque are
 preferable from every point of view. According to their character, size
-and position, fixed tanks may be of brickwork, masonry or rock, coated
+and position, fixed tanks may be of brickwork, [[Masonry|masonry]] or rock, coated
 in each case with cement; asphalting the sides offers no particular
 advantages, and often gives rise to great trouble and expense. All
 materials, and especially the cements, must be of the finest quality
@@ -254,7 +254,7 @@ of nitrogen present in various forms, and the reduced alkalinity; these
 two being probably connected. The excess of nitrogen is referable to
 dead animals, to waste food and to the excreta of the living organisms.
 The first two of these sources of contamination may be reduced by care
-and cleanliness, and by the maintenance of a flow of water sufficient to
+and cleanliness, and by the [[Maintenance|maintenance]] of a flow of water sufficient to
 prevent the excessive accumulation of sediment in the tanks. The
 following experiment shows the rapid rise of nitrogen if unchecked. A
 tank with a considerable fauna was isolated from the general circulation
@@ -292,7 +292,7 @@ upwards or downwards through the inner box to the outer. Such filters,
 intercalated between tanks and reservoir, have been shown by analysis to
 stop a very large proportion of nitrogenous matter. It is doubtful
 whether aquarium water will not always show an excess of nitrogenous
-compounds, but they must be kept down in every way possible. In small
+[[Compound|compounds]], but they must be kept down in every way possible. In small
 tanks, well lighted, seaweeds can be got to flourish in a way that has
 not been found practicable in large tanks with a circulation; these,
 with Lamellibranchs and small Crustacea as scavengers, will be found

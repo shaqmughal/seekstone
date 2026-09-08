@@ -11,7 +11,7 @@ CHLORINE (symbol Cl), atomic weight 35.46 (O = 16), a gaseous chemical
 element of the halogen group, taking its name from the colour,
 greenish-yellow (Gr. [Greek: chloros]). It was discovered in 1774 by
 Scheele, who called it _dephlogisticated muriatic acid_; about 1785,
-C.L. Berthollet, regarding it as being a compound of hydrochloric acid
+C.L. [[Berthollet]], regarding it as being a compound of hydrochloric acid
 and oxygen, termed it _oxygenized muriatic acid_. This view was
 generally held until about 1810-1811, when Sir H. Davy showed definitely
 that it was an element, and gave it the name which it now bears.
@@ -36,7 +36,7 @@ manganese dioxide, use is frequently made of a mixture of common salt
 and manganese dioxide, to which concentrated sulphuric acid is added and
 the mixture is then heated:--MnO2 + 2NaCl + 3H2SO4 = MnSO4 + 2NaHSO4 +
 2H2O + Cl2. Chlorine may also be obtained by the action of dilute
-sulphuric acid on bleaching powder.
+sulphuric acid on [[Bleaching|bleaching]] powder.
 
 Owing to the enormous quantities of chlorine required for various
 industrial purposes, many processes have been devised, either for the
@@ -87,7 +87,7 @@ preparing chlorine without the necessity of using manganese in any form
   air current. With four cylinders the process is continuous (L. Mond,
   _British Assoc. Reports_, 1896, p. 734).
 
-  More recently, owing to the production of caustic soda by electrolytic
+  More recently, owing to the production of [[Caustic|caustic]] soda by electrolytic
   methods, much chlorine has consequently been produced in the same
   manner (see ALKALI MANUFACTURE).
 
@@ -96,7 +96,7 @@ characteristic unpleasant and suffocating smell. It can be liquefied at
 -34° C. under atmospheric pressure, and at -102° C. it solidifies and
 crystallizes. Its specific heat at constant pressure is 0.1155, and at
 constant volume 0.08731 (A. Strecker, _Wied. Ann._, 1877 [2], 13, p.
-20); and its refractive index 1.000772, whilst in the liquid condition
+20); and its refractive [[Index|index]] 1.000772, whilst in the liquid condition
 the refractive index is 1.367. The density is 2.4885 (air = 1)
 (Treadwell and Christie, _Zeit. anorg. Chem._, 1905, 47, p. 446). Its
 critical temperature is 146° C. Liquid and solid chlorine are both
@@ -105,12 +105,12 @@ displacement, since it is soluble in water and also attacks mercury; or
 over a saturated salt solution, in which it is only slightly soluble. At
 ordinary temperatures it unites directly with many other elements; thus
 with hydrogen, combination takes place in direct sunlight with explosive
-violence; arsenic, antimony, thin copper foil and phosphorus take fire
+violence; [[Arsenic|arsenic]], antimony, thin copper foil and phosphorus take fire
 in an atmosphere of chlorine, forming the corresponding chlorides. Many
 compounds containing hydrogen are readily decomposed by the gas; for
 example, a piece of paper dipped in turpentine inflames in an atmosphere
 of chlorine, producing hydrochloric acid and a copious deposit of soot;
-a lighted taper burns in chlorine with a dull smoky flame. The solution
+a lighted taper [[Burns|burns]] in chlorine with a dull smoky flame. The solution
 of chlorine in water, when freshly prepared, possesses a yellow colour,
 but on keeping becomes colourless, on account of its decomposition into
 hydrochloric acid and oxygen. It is on this property that its bleaching
@@ -119,19 +119,19 @@ chlorine at 0° C. deposits crystals of a hydrate Cl2·8H2O, which is
 readily decomposed at a higher temperature into its constituents.
 Chlorine hydrate has an historical importance, as by sealing it up in a
 bent tube, and heating the end containing the hydrate, whilst the other
-limb of the tube was enclosed in a freezing mixture, M. Faraday was
+limb of the tube was enclosed in a freezing mixture, M. [[Faraday]] was
 first able to obtain liquid chlorine.
 
   Chlorine is used commercially for the extraction of gold (q.v.) and
-  for the manufacture of "bleaching powder" and of chlorates. It also
-  finds an extensive use in organic chemistry as a substituting and
+  for the manufacture of "bleaching powder" and of [[Chlorates|chlorates]]. It also
+  finds an extensive use in organic [[Chemistry|chemistry]] as a substituting and
   oxidizing agent, as well as for the preparation of addition compounds.
   For purposes of substitution, the free element as a rule only works
   slowly on saturated compounds, but the reaction may be accelerated by
-  the action of sunlight or on warming, or by using a "carrier." In
+  the action of sunlight or on warming, or by using a "[[Carrier|carrier]]." In
   these latter cases the reaction may proceed in different directions;
-  thus, with the aromatic hydrocarbons, chlorine in the cold or in the
-  presence of a carrier substitutes in the benzene nucleus, but in the
+  thus, with the aromatic [[Hydrocarbon|hydrocarbons]], chlorine in the cold or in the
+  presence of a carrier substitutes in the [[Benzene|benzene]] nucleus, but in the
   presence of sunlight or on warming, substitution takes place in the
   side chain. Iodine, antimony trichloride, molybdenum pentachloride,
   ferric chloride, ferric oxide, antimony, tin, stannic oxide and
@@ -141,17 +141,17 @@ first able to obtain liquid chlorine.
   F. Penny (_Phil, Trans._, 1839, 13). J.S. Stas, from the synthesis of
   silver chloride, obtained the value 35.457 (O = 16), and C. Marignac
   found the value 34.462. More recent determinations are: H.B. Dixon and
-  E.C. Edgar (_Phil. Trans._, 1905); T.W. Richards and G. Jones (_Abst.
+  E.C. [[Edgar]] (_Phil. Trans._, 1905); T.W. Richards and G. Jones (_Abst.
   J.C.S._, 1907); W.A. Noyes and H.C. Weber (ibid., 1908), and Edgar
   (ibid., 1908).
 
 _Hydrochloric Acid._--Chlorine combines with hydrogen to form
 hydrochloric acid, HCl, the only known compound of these two elements.
-The acid itself was first obtained by J.R. Glauber in about 1648, but J.
+The acid itself was first obtained by J.R. [[Glauber]] in about 1648, but J.
 Priestley in 1772 was the first to isolate it in the gaseous condition,
 and Sir H. Davy in 1810 showed that it contained hydrogen and chlorine
 only, as up to that time it was considered to contain oxygen. It may be
-prepared by the direct union of its constituents (see Burgess and
+prepared by the direct union of its constituents (see [[Burges|Burgess]] and
 Chapman, _J.C.S._, 1906, 89, p. 1399), but on the large scale and also
 for the preparation of small quantities it is made by the decomposition
 of salt by means of concentrated sulphuric acid, NaCl+H2SO4=NaHSO4+HCl.
@@ -189,14 +189,14 @@ lead soldering.
   chloride, merçurous chloride, cuprous chloride and palladious chloride
   which are insoluble in water, and thallous chloride and lead chloride
   which are only slightly soluble in cold water, but are readily soluble
-  in hot water. Bismuth and antimony chlorides are decomposed by water
+  in hot water. [[Bismuth]] and antimony chlorides are decomposed by water
   with production of oxychlorides, whilst titanium tetrachloride yields
   titanic acid under the same conditions. All the metallic chlorides,
   with the exception of those of the alkali and alkaline earth metals,
   are reduced either to the metallic condition or to that of a lower
   chloride on heating in a current of hydrogen; most are decomposed by
   concentrated sulphuric acid. They can be distinguished from the
-  corresponding bromides and iodides by the fact that on distillation
+  corresponding bromides and iodides by the fact that on [[Distillation|distillation]]
   with a mixture of potassium bichromate and concentrated sulphuric acid
   they yield chromium oxychloride, whereas bromides and iodides by the
   same treatment give bromine and iodine respectively. Some metallic
@@ -208,10 +208,10 @@ lead soldering.
   metallic salts can be recognized by the formation of insoluble silver
   chloride, on adding silver nitrate to their nitric acid solution, and
   also by the formation of chromium oxychloride (see above). Chlorides
-  can be estimated quantitatively by conversion into silver chloride, or
+  can be estimated quantitatively by [[Conversion|conversion]] into silver chloride, or
   if in the form of alkaline chlorides (in the absence of other metals,
   and of any free acids) by titration with standard silver nitrate
-  solution, using potassium chromate as an indicator.
+  solution, using potassium chromate as an [[Indicator|indicator]].
 
   Chlorine and oxygen do not combine directly, but compounds can be
   obtained indirectly. Three oxides are known: chlorine monoxide, Cl2O,
@@ -223,9 +223,9 @@ lead soldering.
   of 737.9 mm.). It is extremely unstable, decomposing with extreme
   violence on the slightest shock or disturbance, or on exposure to
   sunlight. It is readily soluble in water, with which it combines to
-  form hypochlorous acid. Sulphur, phosphorus, carbon compounds, and
+  form hypochlorous acid. Sulphur, phosphorus, [[Carbon|carbon]] compounds, and
   the alkali metals react violently with the gas, taking fire with
-  explosive decomposition. A.J. Balard determined the volume composition
+  explosive decomposition. A.J. [[Balard]] determined the volume composition
   of the gas by decomposition over mercury on gentle warming, followed
   by the absorption of the chlorine produced with potassium hydroxide,
   and then measured the residual oxygen.
@@ -253,7 +253,7 @@ lead soldering.
   liberated setting fire to the sugar, which goes on burning. Similarly,
   phosphorus can be burned under water by covering it with a little
   potassium chlorate and running in a thin stream of concentrated
-  sulphuric acid (see papers by Bray, _Zeit. phys. Chem._, 1906, et
+  sulphuric acid (see papers by [[Bray]], _Zeit. phys. Chem._, 1906, et
   seq.).
 
   Chlorine heptoxide was obtained by A. Michael by slowly adding
@@ -289,7 +289,7 @@ lead soldering.
   soda, has been extensively used for bleaching purposes. One of the
   most important derivatives of hypochlorous acid is bleaching powder.
   Sodium hypochlorite can be prepared by the electrolysis of brine
-  solution in the presence of carbon electrodes, having no diaphragm in
+  solution in the presence of carbon electrodes, having no [[Diaphragm|diaphragm]] in
   the electrolytic cell, and mixing the anode and cathode products by
   agitating the liquid. The temperature should be kept at about 15° C.,
   and the concentration of the hypochlorite produced must not be allowed
@@ -301,10 +301,10 @@ lead soldering.
   peroxide: 2ClO2 + Na2O2 = 2NaClO2 + O2. The silver and lead salts are
   unstable, being decomposed with explosive violence at 100° C. On
   adding a caustic alkali solution to one of chlorine peroxide, a
-  mixture of a chlorite and a chlorate is obtained.
+  mixture of a [[Chlorite|chlorite]] and a chlorate is obtained.
 
   Chloric acid was discovered in 1786 by C.L. Berthollet, and is best
-  prepared by decomposing barium chlorate with the calculated amount of
+  prepared by decomposing [[Barium|barium]] chlorate with the calculated amount of
   dilute sulphuric acid. The aqueous solution can be concentrated _in
   vacuo_ over sulphuric acid until it contains 40% of chloric acid.
   Further concentration leads to decomposition, with evolution of oxygen

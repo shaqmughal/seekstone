@@ -11,14 +11,14 @@ id: 42-4306
 
 CHEVRON (Fr. from _chévre_, a goat), in architecture, the beams or
 rafters in the roofs of a building, meeting in an angle with a fancied
-resemblance to the horns of a butting goat; in heraldry a bent bar on a
+resemblance to the [[Horn|horns]] of a butting goat; in heraldry a bent bar on a
 shield, used also as a distinguishing badge of rank on the sleeves of
 non-commissioned officers in most armies and navies and by police and
 other organized bodies wearing uniform, and as a mark of good conduct in
 the army and navy. Chevron is also an architectural term for an
 inflected ornament, called also "zig-zag," found largely in romanesque
 architecture in France, England and Sicily. It is one of the most common
-decorations found in the voussoirs of the Norman arch, and was employed
+decorations found in the voussoirs of the Norman [[Arch|arch]], and was employed
 also on shafts, as in the cloisters of Monreale near Palermo, those of
 St Paul outside Rome, and many churches in Germany. Its earliest
 appearance was in the tomb of Agamemnon at Mycenae, where the shafts

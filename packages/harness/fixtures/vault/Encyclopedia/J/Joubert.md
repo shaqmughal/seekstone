@@ -19,12 +19,12 @@ legal affairs was held led to his election to the Volksraad as member
 for Wakkerstroom early in the sixties, Marthinus Pretorius being then in
 his second term of office as president. In 1870 Joubert was again
 elected, and the use to which he put his slender stock of legal
-knowledge secured him the appointment of attorney-general of the
+knowledge secured him the appointment of [[Attorney-General|attorney-general]] of the
 republic, while in 1875 he acted as president during the absence of T.
-F. Burgers in Europe. During the first British annexation of the
+F. [[Burgers]] in Europe. During the first British [[Annexation|annexation]] of the
 Transvaal, Joubert earned for himself the reputation of a consistent
 irreconcilable by refusing to hold office under the government, as Paul
-Kruger and other prominent Boers were doing. Instead of accepting the
+[[Kruger]] and other prominent Boers were doing. Instead of accepting the
 lucrative post offered him, he took a leading part in creating and
 directing the agitation which led to the war of 1880-1881, eventually
 becoming, as commandant-general of the Boer forces, a member of the
@@ -42,7 +42,7 @@ the Uitlander population which had grown up on the Rand. The poll
 been manipulated by Kruger's agents) was declared to have resulted in
 7911 votes being cast for Kruger and 7246 for Joubert. After a protest
 Joubert acquiesced in Kruger's continued presidency. He stood again in
-1898, but the Jameson raid had occurred meantime and the voting was
+1898, but the [[Jameson]] raid had occurred meantime and the voting was
 12,858 for Kruger and 2001 for Joubert. Joubert's position had then
 become much weakened by accusations of treachery and of sympathy with
 the Uitlander agitation. He took little part in the negotiations that
@@ -54,13 +54,13 @@ them his own will. His cautious nature, which had in early life gained
 him the sobriquet of "Slim Piet," joined to a lack of determination and
 assertiveness that characterized his whole career, led him to act mainly
 on the defensive; and the strategically offensive movements of the Boer
-forces, such as Elandslaagte and Willow Grange, appear to have been
+forces, such as Elandslaagte and Willow [[Grange]], appear to have been
 neither planned nor executed by him. As the war went on, physical
 weakness led to Joubert's virtual retirement, and, though two days
 earlier he was still reported as being in supreme command, he died at
 Pretoria from peritonitis on the 28th of March 1900. Sir George White,
-the defender of Ladysmith, summed up Joubert's character when he called
-him "a soldier and a gentleman, and a brave and honourable opponent."
+the defender of [[Ladysmith]], summed up Joubert's character when he called
+him "a soldier and a [[Gentleman|gentleman]], and a brave and [[Honourable|honourable]] opponent."
 
 ## References
 

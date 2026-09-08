@@ -7,7 +7,7 @@ type: article
 
 # Barton-Upon-Humber
 
-BARTON-UPON-HUMBER, a market town in the N. Lindsey or Brigg parliamentary
+BARTON-UPON-HUMBER, a market town in the N. Lindsey or [[Brigg]] parliamentary
 division of Lincolnshire, England, the terminus of a branch of the Great
 Central railway, 44 m. N. by E. of Lincoln. Pop. of urban district (1901)
 5671. It lies beneath low hills, on flat ground bordering the Humber, but

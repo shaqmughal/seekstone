@@ -14,11 +14,11 @@ Minneapolis, and about 25 m. E. of Grand Forks, North Dakota. Pop.
 foreign-born, including 656 from Norway (2 Norwegian weeklies are
 published), 613 from Canada, 292 from Sweden; (1910 U.S. census) 7559.
 Crookston is served by the Great Northern and the Northern Pacific
-railways. It has a Carnegie library, and the St Vincent and Bethesda
+railways. It has a [[Carnegie]] library, and the St Vincent and [[Bethesda]]
 hospitals, and is the seat of a Federal Land Office and of a state
 agricultural high school (with an experimental farm). Dams on the Red
 Lake river provide a fine water-power, and among the city's manufactures
-are lumber, leather, flour, farm implements, wagons and bricks. The city
+are lumber, leather, flour, farm [[Implement|implements]], wagons and [[Brick|bricks]]. The city
 is situated in a fertile farming region, and is a market for grain,
 potatoes and other agricultural products, and lumber. Crookston was
 settled about 1872, was incorporated in 1879, received its first city

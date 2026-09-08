@@ -13,9 +13,9 @@ Mommsen, _ab angerendo_= [Greek: apo tou anapheresthai. ton haelion).]
 Her festival, called Divalia or Angeronalia, was celebrated on the
 21st of December. The priests offered sacrifice in the temple of
 Volupia, the goddess of pleasure, in which stood a statue of Angerona,
-with a finger on her mouth, which was bound and closed (Macrobius
+with a [[Finger|finger]] on her mouth, which was bound and closed (Macrobius
 i. 10; Pliny, _Nat. Hist._ iii. 9; Varro, _L. L._ vi. 23). She was
-worshipped as Ancharia at Faesulae, where an altar belonging to her
+worshipped as Ancharia at [[Faesulae]], where an altar belonging to her
 has been recently discovered. (See FAESULAE.)
 
 ## See also

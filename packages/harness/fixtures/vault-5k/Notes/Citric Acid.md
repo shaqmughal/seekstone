@@ -25,12 +25,12 @@ the production of calcium acetate and butyrate.
 The synthesis of citric acid was accomplished by L.E. Grimaux and P.
 Adam in 1881. Glycerin when treated with hydrochloric acid gives
 propenyl dichlorhydrin, which may be oxidized to s-dichloracetone. This
-compound combines with hydrocyanic acid to form a nitrile which
-hydrolyses to dichlor-hydroxy iso-butyric acid. Potassium cyanide reacts
+[[Compound|compound]] combines with hydrocyanic acid to form a nitrile which
+hydrolyses to dichlor-hydroxy iso-butyric acid. Potassium [[Cyanide|cyanide]] reacts
 with this acid to form the corresponding dinitrile, which is converted
 by hydrochloric acid into citric acid. This series of operations proves
 the constitution of the acid. A. Haller and C.A. Held synthesized the
-acid from ethyl chlor-acetoacetate (from chlorine and acetoacetic ester)
+acid from ethyl chlor-acetoacetate (from [[Chlorine|chlorine]] and acetoacetic ester)
 by heating with potassium cyanide and saponifying the resulting nitrile.
 The acetone dicarboxylic acid, CO(CH2CO2H)2, so obtained
 combines with hydrocyanic acid, and this product yields citric acid on
@@ -42,7 +42,7 @@ in alcohol, but not in ether. At 150°C. it melts, and on the continued
 application of heat boils, giving off its water of crystallization. At
 175° C. it is resolved into water and aconitic acid, C6H6O6, a
 substance found in _Equisetum fluviatile_, monks-hood and other plants.
-A higher temperature decomposes this body into carbon dioxide and
+A higher temperature decomposes this body into [[Carbon|carbon]] dioxide and
 itaconic acid, C5H6C4, which, again, by the expulsion of a
 molecule of water, yields citraconic anhydride, C5H4O3. Citric
 acid digested at a temperature below 40°C. with concentrated sulphuric
@@ -76,7 +76,7 @@ silver mirror when boiled, whereas silver citrate is reduced only after
 prolonged ebullition.
 
 Citric acid is used in calico printing, also in the preparation of
-effervescing draughts, as a refrigerant and sialogogue, and occasionally
+effervescing [[Draughts|draughts]], as a refrigerant and sialogogue, and occasionally
 as an antiscorbutic, instead of fresh lemon juice. In the form of lime
 juice it has long been known as an antidote for scurvy. Several of the
 citrates are much employed as medicines, the most important being the

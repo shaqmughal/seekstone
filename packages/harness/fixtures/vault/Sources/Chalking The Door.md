@@ -13,7 +13,7 @@ chalks the most patent door forty days before Whit Sunday, having made
 out an execution of 'chalking,' in which his name must be inserted, and
 which must be subscribed by himself and two witnesses." This ceremony
 now proceeds simply on the verbal order of the proprietor. The execution
-of chalking is a warrant under which decree of removal will be
+of chalking is a warrant under which [[Decree|decree]] of removal will be
 pronounced by the burgh court, in virtue of which the tenant may be
 ejected on the expiration of a charge of six days.
 

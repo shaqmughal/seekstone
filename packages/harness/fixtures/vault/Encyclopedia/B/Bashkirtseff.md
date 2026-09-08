@@ -36,7 +36,7 @@ gifts and by the names of the various distinguished persons with whom she
 came in contact, so treated certain portions as to draw down vehement
 protest. This, to some extent, has brought into question the stamp of
 truthfulness which constitutes the chief merit of this extraordinarily
-interesting book. A further instalment of Marie Bashkirtseff literature was
+interesting book. A further [[Instalment|instalment]] of Marie Bashkirtseff literature was
 published in the shape of letters between her and Guy de Maupassant, with
 whom she started a correspondence under a feigned name and without
 revealing her identity.

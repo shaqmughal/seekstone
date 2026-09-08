@@ -19,7 +19,7 @@ of 1859, being present at Magenta and Solferino. He took part in the
 Syrian campaign of 1860-61 as a lieutenant-colonel; and as colonel
 commanded the 48th regiment at Rome in 1864. He returned to Algeria as
 general of brigade, assisted to quell the Arab insurrection, and
-commanded the subdivisions of Bel Abbes and Tlemcen in 1868. Although he
+commanded the subdivisions of [[Bel]] Abbes and Tlemcen in 1868. Although he
 had acquired a good professional reputation, he was in bad odour at the
 war office on account of suspected contributions to the press, and at
 the outbreak of the Franco-German War he was curtly refused a brigade

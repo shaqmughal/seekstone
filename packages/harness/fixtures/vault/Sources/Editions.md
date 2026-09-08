@@ -16,11 +16,11 @@ a very great work), was published in his lifetime.
 
 Of modern editions that of the _Bach-Gesellschaft_ is, of course, the only
 complete one. It is, inevitably, of very unequal merit. Its first editors
-could not realize their own ignorance of Bach's language; their immediate
+could not realize their own [[Ignorance|ignorance]] of Bach's language; their immediate
 admiration of his larger choruses seemed to them proof of their competence
 to retain or dismiss details of ornamentation, figured bass, variants
 between score and parts, &c., without always stopping to see what light
-these might shed on questions of _tempo_ and style--especially in the arias
+these might shed on questions of _tempo_ and style--especially in the [[Aria|arias]]
 and recitatives, which they regarded as archaic almost in direct proportion
 to the depth of thought really displayed in them. In the 9th _Jahrgang_
 Wilhelm Rust introduced scholarly methods, with the happiest results. The
@@ -52,10 +52,10 @@ but a selection, far better than the complete series issued by Breitkopf
 and Härtel in conformity with the _Bach Gesellschaft_, and therefore
 accepted as authoritative (see INSTRUMENTATION). The English vocal scores
 published by Novello are generally very good though covering but small
-ground. The Novello score of the Christmas oratorio contains a fine
-analytic preface by Sir George Macfarren.
+ground. The Novello score of the [[Christmas]] oratorio contains a fine
+analytic preface by Sir George [[Macfarren]].
 
-BIBLIOGRAPHY.--J. N. Forkel, _Über Bach's Leben, Kunst und Kunstwerke_,
+BIBLIOGRAPHY.--J. N. [[Forkel]], _Über Bach's Leben, Kunst und Kunstwerke_,
 translated (London, 1820); C. H. Bitter, _John Sebastian Bach_ (Berlin,
 1865); Ernest David, _La Vie et les oeuvres de Bach_ (Paris, 1882); P.
 Spitta, _Johann Sebastian Bach_ (Leipzig, 1873 and 1880); E. Heinrich,
@@ -68,13 +68,13 @@ everything worth knowing about Bach, except the music itself.
 
 (D. F. T.)
 
-[1] Spitta points out that this cannot mean singing in the choir at a
+[1] Spitta points out that this cannot mean singing in the [[Choir|choir]] at a
 service, but making music in church privately.
 
 [2] The same surgeon operated unsuccessfully on both composers.
 
 [3] See the wild conjectures of the editor of the Four Short Masses as to
-the "displacing" of structure in the _kyrie_ of the G minor Mass (_B.-G.,
+the "displacing" of structure in the _[[Kyrie|kyrie]]_ of the G minor Mass (_B.-G.,
 Jahr. viii._ preface, with Rust's answer in the preface to _Jahr. xxiii._).
 
 [4] The object of the _Neue Bachgesellschaft_ is to render the completed

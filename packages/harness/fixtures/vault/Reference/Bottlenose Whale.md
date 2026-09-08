@@ -20,10 +20,10 @@ under-parts being greyish white. There is no notch between the flukes,
 as in other whales, but the hinder part of the tail is rounded.
 Bottlenoses feed on cuttle-fishes and squills, and are practically
 toothless; the only teeth which exist in the adult being a small pair at
-the front of the lower jaw, concealed beneath the gum during life.
+the front of the lower jaw, concealed beneath the [[Gum|gum]] during life.
 Examples have frequently been recorded on the British coasts. In
-November 1904 a female, 24 ft. long, and a calf 15 ft. long were driven
-ashore at Whitstable. (See CETACEA.)
+November 1904 a female, 24 ft. long, and a [[Calf|calf]] 15 ft. long were driven
+ashore at Whitstable. (See [[Cetacea|CETACEA]].)
 
 ## See also
 

@@ -3,10 +3,10 @@
 MAROT, CLÉMENT (1496-1544), French poet, was born at Cahors, the capital
 of the province of Quercy, some time during the winter of the year
 1496-1497. His father, Jean Marot (c. 1463-1523), whose more correct
-name appears to have been des Mares, Marais or Marets, was a Norman of
+name appears to have been des Mares, Marais or [[Maret|Marets]], was a Norman of
 the neighbourhood of Caen. Jean was himself a poet of considerable
 merit, and held the post of _escripvain_ (apparently uniting the duties
-of poet laureate and historiographer) to Anne of Brittany. He had
+of poet [[Laureate|laureate]] and historiographer) to [[Anne Of Brittany|Anne of Brittany]]. He had
 however resided in Cahors for a considerable time, and was twice married
 there, his second wife being the mother of Clément. The boy was "brought
 into France"--it is his own expression, and is not unnoteworthy as
@@ -19,10 +19,10 @@ the fashionable forms of verse-making, which indeed required not a
 little instruction. It was the palmy time of the _rhétoriqueurs_, poets
 who combined stilted and pedantic language with an obstinate adherence
 to the allegorical manner of the 15th century and to the most
-complicated and artificial forms of the _ballade_ and the _rondeau_.
-Clément himself practised with diligence this poetry (which he was to do
+complicated and artificial forms of the _[[Ballade|ballade]]_ and the _rondeau_.
+Clément himself practised with [[Diligence|diligence]] this poetry (which he was to do
 more than any other man to overthrow), and he has left panegyrics of its
-coryphaeus Guillaume Crétin, the supposed original of the Raminagrobis
+[[Coryphaeus|coryphaeus]] [[Guillaume]] Crétin, the supposed original of the Raminagrobis
 of Rabelais, while he translated Virgil's first eclogue in 1512. Nor did
 he long continue even a nominal devotion to law. He became page to
 Nicolas de Neuville, seigneur de Villeroy, and this opened to him the
@@ -33,21 +33,21 @@ letters.
 
 As early as 1514, before the accession of Francis I., Clément presented
 to him his _Judgment of Minos_, and shortly afterwards he was either
-styled or styled himself _facteur_ (poet) _de la reine_ to Queen Claude.
-In 1519 he was attached to the suite of Marguerite d'Angoulême, the
+styled or styled himself _facteur_ (poet) _de la reine_ to Queen [[Claude]].
+In 1519 he was attached to the suite of [[Marguerite]] d'Angoulême, the
 king's sister, who was for many years to be the mainstay not only of him
 but of almost all French men of letters. He was also a great favourite
-of Francis himself, attended the Field of the Cloth of Gold in 1520, and
-duly celebrated it in verse. Next year he was at the camp in Flanders,
+of Francis himself, attended the [[Field Of The Cloth Of Gold|Field of the Cloth of Gold]] in 1520, and
+duly celebrated it in verse. Next year he was at the camp in [[Flanders]],
 and writes of the horrors of war. It is certain that Marot, like most of
 Marguerite's literary court, and perhaps more than most of them, was
 greatly attracted by her gracious ways, her unfailing kindness, and her
 admirable intellectual accomplishments, but there is not the slightest
-ground for thinking that his attachment was other than platonic. It is,
+ground for thinking that his [[Attachment|attachment]] was other than platonic. It is,
 however, evident that at this time either sentiment or matured critical
 judgment effected a great change in his style, a change which was wholly
 for the better. At the same time he celebrates a certain Diane, whom it
-has been sought to identify with Diane de Poitiers. There is nothing to
+has been sought to identify with [[Diane De Poitiers|Diane de Poitiers]]. There is nothing to
 support this idea and much against it, for it was an almost invariable
 habit of the poets of the 16th century, when the mistresses whom they
 celebrated were flesh and blood at all (which was not always the case),
@@ -62,8 +62,8 @@ opposition to both forms of innovation, however, now began to be
 manifested, and Marot, who was at no time particularly prudent, was
 arrested on a charge of heresy and lodged in the Châtelet, February
 1526. But this was only a foretaste of the coming trouble, and a
-friendly prelate, acting for Marguerite, extricated him from his durance
-before Easter. The imprisonment gave him occasion to write a vigorous
+friendly prelate, acting for Marguerite, extricated him from his [[Durance|durance]]
+before [[Easter]]. The imprisonment gave him occasion to write a vigorous
 poem on it entitled _Enfer_, which was afterwards imitated by his
 luckless friend Étienne Dolet. His father died about this time, and
 Marot seems to have been appointed to the place which Jean had latterly
@@ -76,14 +76,14 @@ time the king and queen of Navarre seem to have bailed him themselves.
 
 In 1532 he published (it had perhaps appeared three years earlier),
 under the title of _Adolescence Clémentine_, a title the characteristic
-grace of which excuses its slight savour of affectation, the first
+[[Grace|grace]] of which excuses its slight savour of affectation, the first
 printed collection of his works, which was very popular and was
 frequently reprinted with additions. Dolet's edition of 1538 is believed
 to be the most authoritative. Unfortunately, however, the poet's enemies
 were by no means discouraged by their previous ill-success, and the
 political situation was very unfavourable to the Reforming party. In
 1535 Marot was implicated in the affair of "The Placards,"[1] and this
-time he was advised or thought it best to fly. He passed through Béarn,
+time he was advised or thought it best to [[Fly|fly]]. He passed through Béarn,
 and then made his way to Renée, duchess of Ferrara, a supporter of the
 French reformers as steadfast as her aunt Marguerite, and even more
 efficacious, because her dominions were out of France. At Ferrara he
@@ -94,15 +94,15 @@ able to persuade her husband, Ercole d'Este, to share her views, and
 Marot had to quit the city. He then went to Venice, but before very long
 the pope Paul III. remonstrated with Francis I. on the severity with
 which the Protestants were treated, and they were allowed to return to
-Paris on condition of recanting their errors. Marot returned with the
-rest, and abjured his heresy at Lyons. In 1539 Francis gave him a house
+Paris on condition of recanting their [[Error|errors]]. Marot returned with the
+rest, and abjured his heresy at [[Lyons]]. In 1539 Francis gave him a house
 and grounds in the suburbs.
 
 It was at this time that his famous translations of the Psalms appeared.
 The merit of these has been sometimes denied, it is, however,
 considerable, and the powerful influence which the book exercised on
 contemporaries is not denied by anyone. The great persons of the court
-chose different pieces, each as his or her favourite. They were sung in
+[[Chose|chose]] different pieces, each as his or her favourite. They were sung in
 court and city, and they are said, with exaggeration doubtless, but
 still with a basis of truth, to have done more than anything else to
 advance the cause of the Reformation in France. Indeed, the vernacular
@@ -121,10 +121,10 @@ with a too little governed tongue and pen.
 
 The publication of the Psalms gave the Sorbonne a handle, and the book
 was condemned by that body. In 1543 it was evident that he could not
-rely on the protection of Francis. Marot accordingly fled to Geneva; but
+rely on the protection of Francis. Marot accordingly fled to [[Geneva]]; but
 the stars were now decidedly against him. He had, like most of his
 friends, been at least as much of a freethinker as of a Protestant, and
-this was fatal to his reputation in the austere city of Calvin. He had
+this was fatal to his reputation in the austere city of [[Calvin]]. He had
 again to fly, and made his way into Piedmont, and he died at Turin in
 the autumn of 1544.
 
@@ -146,7 +146,7 @@ the autumn of 1544.
   weaknesses, his importance in the history of French literature is very
   great, and was long rather under than over-valued. Coming immediately
   before a great literary reform--that of the Pléiade--Marot suffered
-  the drawbacks of his position; he was both eclipsed and decried by the
+  the [[Drawback|drawbacks]] of his position; he was both eclipsed and decried by the
   partakers in that reform. In the reaction against the Pléiade he
   recovered honour; but its restoration to virtual favour, a perfectly
   just restoration, again unjustly depressed him. Yet Marot is in no
@@ -158,7 +158,7 @@ the autumn of 1544.
   and rhyme, allegoric matter and pedantic language. In his second stage
   he entirely emancipated himself from this, and became one of the
   easiest, least affected and most vernacular poets of France. In these
-  points indeed he has, with the exception of La Fontaine, no rival, and
+  points indeed he has, with the exception of [[La Fontaine]], no rival, and
   the lighter verse-writers ever since have taken one or the other or
   both as model. In his third period he lost a little of this flowing
   grace and ease, but acquired something in stateliness, while he
@@ -167,7 +167,7 @@ the autumn of 1544.
   poet as Villon nor as some of his successors of the Pléiade, but he is
   much less antiquated than the first (whose works, as well as the
   _Roman de la rose_, it may be well to mention that he edited) and not
-  so elaborately artificial as the second. Indeed if there be a fault to
+  so elaborately artificial as the second. Indeed if there be a [[Fault|fault]] to
   find with Marot, it is undoubtedly that in his gallant and successful
   effort to break up, supple, and liquefy the stiff forms and stiffer
   language of the 15th century, he made his poetry almost too vernacular
@@ -182,11 +182,11 @@ the autumn of 1544.
   published at Lyons in 1538 and 1544. In the second of these the
   arrangement of his poems which has been accepted in later issues was
   first adopted. In 1596 an enlarged edition was edited by François
-  Mizière. Others of later date are those of N. Lenglet du Fresnoy (the
-  Hague, 1731) and P. Jannet (1868-1872; new ed., 1873-1876), on the
+  Mizière. Others of later date are those of N. Lenglet du [[Fresnoy]] (the
+  [[Hague]], 1731) and P. Jannet (1868-1872; new ed., 1873-1876), on the
   whole the best, but there is a very good selection with a still better
   introduction by Charles d'Héricault, the joint editor of the Jannet
-  edition in the larger _Collection Garnier_ (no date). An elaborate
+  edition in the larger _Collection [[Garnier]]_ (no date). An elaborate
   edition by G. Guiffrey remained incomplete, only vols. ii. and iii.
   (1875-1881) having been issued. For information about Marot himself
   see _Notices biographiques des trois Marot_, edited from the MS. of
@@ -207,7 +207,7 @@ FOOTNOTES:
   [2] The _blason_ was defined by Thomas Sibilet as a perpetual praise
     or continuous vituperation of its subject. The _blasons_ of Marot's
     followers were printed in 1543 with the title of _Blasons anatomiques
-    du corps féminin_.
+    du [[Corps|corps]] féminin_.
 
 ## References
 

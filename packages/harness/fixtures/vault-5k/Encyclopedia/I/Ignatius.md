@@ -13,8 +13,8 @@ Church is more famous than Ignatius, and yet among the leading churchmen
 of the time there is scarcely one about whose career we know so little.
 Our only trustworthy information is derived from the letters which he
 wrote to various churches on his last journey from Antioch to Rome, and
-from the short epistle of Polycarp to the Philippians. The earlier
-patristic writers seem to have known no more than we do. Irenaeus, for
+from the short [[Epistle|epistle]] of Polycarp to the Philippians. The earlier
+patristic writers seem to have known no more than we do. [[Irenaeus]], for
 instance, gives a quotation from his Epistle to the Romans and does not
 appear to know (or if he knew he has forgotten) the name of the author,
 since he describes him (_Adv. haer._ v. 28. 4) as "one of those
@@ -67,8 +67,8 @@ Mary to Ignatius. (c) _The Syriac or Curetonian recension_ contains only
 three Epistles, viz. to Polycarp, to the Romans, and to the Ephesians,
 and these when compared with the same letters in the short and long
 recensions are found to be considerably abbreviated. The Syriac
-recension was made by William Cureton in 1845 from three Syriac MSS.
-which had recently been brought from the Nitrian desert and deposited
+recension was made by William [[Cureton]] in 1845 from three Syriac MSS.
+which had recently been brought from the Nitrian [[Desert|desert]] and deposited
 in the British Museum. One of these MSS. belongs to the 6th century, the
 other two are later. Summed up in a word, therefore, the Ignatian
 problem is this: which of these three recensions (if any) represents the
@@ -83,7 +83,7 @@ raised the question as to the authority of the papacy and the hierarchy.
 Roman Catholic scholars used the interpolated Ignatian Epistles very
 freely in their defence and derived many of their arguments from them,
 while Protestant scholars threw discredit on these Epistles. The
-Magdeburg centuriators expressed the gravest doubts as to their
+[[Magdeburg]] centuriators expressed the gravest doubts as to their
 genuineness, and Calvin declared that "nothing was more foul than those
 fairy tales (_naeniis_) published under the name of Ignatius!" It should
 be stated, however, that one Roman Catholic scholar, Denys Petau
@@ -99,7 +99,7 @@ superiority of the Vossian recension. This was speedily demonstrated,
 though some attempts were made, notably by Jean Morin or Morinus (about
 1656), Whiston (in 1711) and Meier (in 1836), to resuscitate the long
 recension. Many Protestants still maintained that the new recension,
-like the old, was a forgery. The chief attack came from Jean Daillé, who
+like the old, was a [[Forgery|forgery]]. The chief attack came from Jean Daillé, who
 in his famous work (1666) drew up no fewer than sixty-six objections to
 the genuineness of the Ignatian literature. He was answered by Pearson,
 who in his _Vindiciae epistolarum S. Ignatii_ (1672) completely
@@ -130,7 +130,7 @@ the 4th century. (4) The recension has been proved to be dependent on
 the _Apostolical Constitutions_. (5) The doctrinal atmosphere implies
 the existence of Arian and Apollinarian heresies. (6) The added passages
 reveal a difference in style which stamps them at once as
-interpolations. There are several different theories with regard to the
+[[Interpolation|interpolations]]. There are several different theories with regard to the
 origin of the recension. Some, e.g. Leclerc, Newman and Zahn, think that
 the writer was an Arian and that the additions were made in the interest
 of Arianism. Funk, on the other hand, regards the writer as an
@@ -156,13 +156,13 @@ cannot be substantiated.
 V. _The Date and Genuineness of the Vossian Epistles._--We are left
 therefore with the seven Epistles. Are they the genuine work of
 Ignatius, and, if so, at what date were they written? The main
-objections are as follows: (1) The conveyance of a condemned prisoner to
+objections are as follows: (1) The [[Conveyance|conveyance]] of a condemned prisoner to
 Rome to be put to death in the amphitheatre is unlikely on historical
 grounds, and the route taken is improbable for geographical reasons.
 This objection has very little solid basis. (2) The heresies against
 which Ignatius contends imply the rise of the later Gnostic and Docetic
 sects. It is quite certain, however, that Docetism was in existence in
-the 1st century (cf. 1 John), while many of the principles of Gnosticism
+the 1st century (cf. 1 John), while many of the principles of [[Gnosticism]]
 were in vogue long before the great Gnostic sects arose (cf. the
 Pastoral Epistles). There is nothing in Ignatius which implies a
 knowledge of the teaching of Basilides or Valentinus. In fact, as
@@ -193,7 +193,7 @@ about the history of his career. The fact that like St Paul he describes
 himself as an [Greek: ektrôma] (_Rom._ 9), and that he speaks of himself
 as "the last of the Antiochene Christians" (_Trall._ 13; _Smyrn._ xi.),
 seems to suggest that he had been converted from paganism somewhat late
-in life and that the process of conversion had been abrupt and violent.
+in life and that the process of [[Conversion|conversion]] had been abrupt and violent.
 He bore the surname of Theophorus, i.e. "God-clad" or "bearing God."
 Later tradition regarded the word as a passive form ("God-borne") and
 explained it by the romantic theory that Ignatius was the child whom
@@ -210,7 +210,7 @@ But if the Epistles tell us little of the life of Ignatius, they give us
 an excellent picture of the man himself, and are a mirror in which we
 see reflected certain ideals of the life and thought of the day.
 Ignatius, as Schaff says, "is the incarnation of three closely connected
-ideas: the glory of martyrdom, the omnipotence of episcopacy, and the
+ideas: the glory of martyrdom, the omnipotence of [[Episcopacy|episcopacy]], and the
 hatred of heresy and schism."
 
 1. Zeal for martyrdom in later days became a disease in the Church, but
@@ -222,7 +222,7 @@ through all the Epistles; thus he says:
   them I can attain unto God. I am God's wheat, and I am ground by the
   wild beasts that I may be found the pure bread of Christ. Entice the
   wild beasts that they may become my sepulchre...; come fire and cross
-  and grapplings with wild beasts, wrenching of bones, hacking of limbs,
+  and grapplings with wild beasts, wrenching of [[Bone|bones]], hacking of limbs,
   crushings of my whole body; only be it mine to attain unto Jesus
   Christ" (_Rom._ 4-5).
 
@@ -258,7 +258,7 @@ kernel of the truth" (i. 40).
 The chief danger to the church came from the Docetists who denied the
 reality of the humanity of Christ and ascribed to him a phantom body.
 Hence we find Ignatius laying the utmost stress on the fact that Christ
-"was _truly_ born and ate and drank, was _truly_ persecuted under
+"was _truly_ born and [[Ate|ate]] and drank, was _truly_ persecuted under
 Pontius Pilate ... was _truly_ raised from the dead" (_Trall._ 9). "I
 know that He was in the flesh even after the resurrection, and when He
 came to Peter and his company, He said to them, 'Lay hold and handle me,
@@ -285,7 +285,7 @@ virginity of Mary and her child-bearing and likewise also the death of
 the Lord, three mysteries to be cried aloud, the which were wrought in
 the silence of God" (_Eph._ 19). Here, it will be observed, we have the
 nucleus of the later doctrine of the deception of Satan. In regard to
-the Eucharist also later ideas occur in Ignatius. It is termed a [Greek:
+the [[Eucharist]] also later ideas occur in Ignatius. It is termed a [Greek:
 mystêrion] (_Trall._ 2), and the influence of the Greek mysteries is
 seen in such language as that used in _Eph._ 20, where Ignatius
 describes the Eucharistic bread as "the medicine of immortality and the
@@ -295,7 +295,7 @@ the flesh of Christ," the words seem to imply that materialistic ideas
 were beginning to find an entrance into the church (_Smyr._ 6). Other
 points that call for special notice are: (1) Ignatius's rather
 extravagant angelology. In one place for instance he speaks of himself
-as being able to comprehend heavenly things and "the arrays of angels
+as being able to comprehend heavenly things and "the [[Array|arrays]] of angels
 and the musterings of principalities" (_Trall._ 5). (2) His view of the
 Old Testament. In one important passage Ignatius emphatically states his
 belief in the supremacy of Christ even over "the archives" of the faith,
@@ -303,7 +303,7 @@ i.e. the Old Testament: "As for me, my archives--my inviolable
 archives--are Jesus Christ, His cross, His death, His resurrection and
 faith through Him" (_Philadel._ 8).
 
-  AUTHORITIES.--T. Zahn, _Ignatius von Antiochien_ (Gotha, 1873); J. B.
+  AUTHORITIES.--T. Zahn, _Ignatius von Antiochien_ ([[Gotha]], 1873); J. B.
   Lightfoot, _Apostolic Fathers_, part ii. (London, 2nd ed., 1889); F.
   X. Funk, _Die Echtheit der ignat. Briefe_ (Tübingen, 1892); A.
   Harnack, _Chronologie der altchristlichen Litteratur_ (Leipzig, 1897).

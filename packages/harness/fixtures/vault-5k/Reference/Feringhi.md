@@ -1,6 +1,6 @@
 # Feringhi
 
-FERINGHI, or FERINGHEE, a Frank (Persian, _Farangi_). This term for a
+FERINGHI, or FERINGHEE, a [[Frank]] (Persian, _Farangi_). This term for a
 European is very old in Asia, and was originally used in a purely
 geographical sense, but now generally carries a hostile or contemptuous
 significance. The combatants on either side during the Indian Mutiny

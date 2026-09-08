@@ -12,7 +12,7 @@ MAMERTINUS, CLAUDIUS (4th century A.D.), one of the Latin panegyrists.
 After the death of Julian, by whom he was evidently regarded with
 special favour, he was praefect of Italy (365) under Valens and
 Valentinian, but was subsequently (368) deprived of his office for
-embezzlement. He was the author of an extant speech of thanks to Julian
+[[Embezzlement|embezzlement]]. He was the author of an extant speech of thanks to Julian
 for raising him to the consulship, delivered on the 1st of January 362
 at Constantinople. Two panegyrical addresses (also extant) to Maximian
 (emperor A.D. 286-305) are attributed to an older _magister_ Mamertinus,

@@ -10,7 +10,7 @@ id: 42-7944
 # Grampound
 
 GRAMPOUND, a small market town in the mid-parliamentary division of
-Cornwall, England, 9 m. E.N.E. of Truro, and 2 m. from its station
+[[Cornwall]], England, 9 m. E.N.E. of Truro, and 2 m. from its station
 (Grampound Road) on the Great Western railway. It is situated on the
 river Fal, and has some industry in tanning. It retains an ancient town
 hall; there is a good market cross; and in the neighbourhood, along the
@@ -29,8 +29,8 @@ always be held there and two fairs at the feasts of St Peter in Cathedra
 and St Barnabas, both of which are still held, and a Tuesday market (now
 held on Friday) and that it should be a free borough rendering a yearly
 rent to the earl of Cornwall. Two members were summoned to parliament by
-Edward VI. in 1553. The electors consisted of an indefinite number of
-freemen, about 50 in all, indirectly nominated by the mayor and
+Edward VI. in 1553. The [[Electors|electors]] consisted of an indefinite number of
+freemen, about 50 in all, indirectly nominated by the [[Mayor|mayor]] and
 corporation, which existed by prescription. The venality of the electors
 became notorious. In 1780 L3000 was paid for a seat: in 1812 each
 supporter of one of the candidates received L100. The defeat of this

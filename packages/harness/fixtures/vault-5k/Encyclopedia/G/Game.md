@@ -1,7 +1,7 @@
 # Game
 
 GAME, a word which in its primary and widest significance means any
-amusement or sport, often combined in the early examples with "glee,"
+amusement or sport, often combined in the early examples with "[[Glee|glee]],"
 "play," "joy" or "solace." It is a common Teutonic word, in O. Eng.
 _gamen_, in O.H.G. _gaman_, but only appears in modern usage outside
 English in Dan. _gammen_ and Swed. _gamman_. The ulterior derivation is
@@ -16,8 +16,8 @@ food, distinguished as such from meat, fish and poultry, and from the
 flesh of deer, to which the name "venison" is given. For "game," from
 the legal aspect, and the laws relating to its pursuit and capture see
 GAME LAWS. The athletic contests of the ancient Greeks ([Greek: agones])
-and the public shows (_ludi_) of the arena and amphitheatre of the
-ancient Romans are treated below (GAMES, CLASSICAL); the various forms
+and the public shows (_ludi_) of the [[Arena|arena]] and amphitheatre of the
+ancient Romans are treated below ([[Games|GAMES]], CLASSICAL); the various forms
 of modern games, indoor and outdoor, whether of skill, strength or
 chance, are dealt with under their specific titles. A special use
 ("gaming" or "gambling") restricts the term to the playing of games for
@@ -37,7 +37,7 @@ horse, It. _gambado_, _gamba_, leg (Mod. Fr. _jambe_).
 
 
 
-GAME LAWS. This title in English law is applied to the statutes which
+GAME LAWS. This title in [[English Law|English law]] is applied to the statutes which
 regulate the right to pursue and take or kill certain kinds of wild
 animals (see above). The existence of these statutes is due to the rules
 of the common law as to the nature of property, and the interest of the
@@ -47,7 +47,7 @@ possession of things and the power to deal with them as we see fit. By
 the common law wild animals are regarded as _res nullius_, and as not
 being the subject of private property until reduced into possession by
 being killed or captured. A bird in the hand is owned: a bird in the
-bush is not. Even bees do not become property until hived. "Though a
+bush is not. Even [[Bee|bees]] do not become property until hived. "Though a
 swarm lights in my tree," says Bracton, "I have no more property therein
 than I have in the birds which make their nests thereon." If reclaimed
 or confined they become property. If they escape, the rights of the
@@ -60,7 +60,7 @@ his animals on to the lands of another, and the only case in which any
 right to follow wild animals on to the lands of others is now expressly
 recognized is when deer or hares are hunted with hounds or greyhounds.
 This recognition merely excepts such pursuit from the law as to criminal
-game trespass, and fox-hunters and those who course hares or hunt stags
+game trespass, and fox-hunters and those who course hares or [[Hunt|hunt]] stags
 are civilly liable for trespass if they pass over land without the
 consent of the occupier (_Paul v. Summerhayes_, 1878, 4 Q.B.D. 9).
 
@@ -94,7 +94,7 @@ preservation of deer and game for the recreation and amusement of
 persons of fortune, and to prevent persons of inferior rank from
 squandering in the pursuit of game time which their station in life
 required to be more profitably employed. These enactments included the
-rigorous code known as the Laws of the Forest (see FOREST LAWS), as well
+rigorous [[Code|code]] known as the Laws of the Forest (see [[Forest Laws|FOREST LAWS]]), as well
 as what are usually called the Game Laws.
 
 In England the older statutes relating to game were all repealed early
@@ -134,7 +134,7 @@ theft for a trespasser to pick up and carry off a pheasant killed by the
 owner of the land on his own land or even a pheasant killed by an
 independent gang of poachers. The young of wild animals belong (_propter
 impotentiam_) to the owner of the land until they are able to fly or run
-away. This right does not extend to the eggs of wild birds. But the
+away. This right does not extend to the [[Egg|eggs]] of wild birds. But the
 owner can reduce the eggs into possession by taking them up and setting
 them under hens or in enclosures. And if this is done persons who take
 them are thieves and not merely poachers. A game farm, like a decoy for
@@ -142,14 +142,14 @@ wild water-fowl, is treated as a trade or business; but a game preserve
 in which full-grown animals fly or run wild is subject to the ordinary
 incidents of the law as to animals _ferae naturae_.
 
-  The classification of wild animals for purposes of sport in England is
+  The [[Classification|classification]] of wild animals for purposes of sport in England is
   as follows:--
 
-  1. Beasts of forest are hart and hind (red deer), boar, wolf and all
+  1. Beasts of forest are [[Hart|hart]] and hind (red deer), boar, wolf and all
   beasts of venery.
 
   2. Beasts of chase and park are buck and doe (fallow deer), fox,
-  marten and roe, or all beasts of venery and hunting.
+  marten and roe, or all beasts of venery and [[Hunting|hunting]].
 
   3. Beasts of (free) warren are roe, hare, rabbit, partridge, pheasant,
   woodcock, quail, rail and heron.
@@ -183,10 +183,10 @@ incidents of the law as to animals _ferae naturae_.
   over beasts and fowl of warren on all lands within the franchise. As
   will appear from the list above, some game birds are not fowl of
   warren, e.g. black game and red grouse (_Duke of Devonshire_ v.
-  _Lodge_, 1827, 7 B. & C. 39). Free warren is quite different from
+  _[[Lodge]]_, 1827, 7 B. & C. 39). Free warren is quite different from
   ordinary warrens, in which hares or rabbits are bred by the owner of
   the soil for sport or profit. Ground game in such warrens is protected
-  under the Larceny Act 1861, s. 17, as well as by the game laws. In
+  under the [[Larceny]] Act 1861, s. 17, as well as by the game laws. In
   manors, of which none have been created since 1290, the lord by his
   franchise had the sporting rights over the manor, but at the present
   time this right is restricted to the commons and wastes of the manor,
@@ -207,8 +207,8 @@ incidents of the law as to animals _ferae naturae_.
   hereinafter stated, reserve to himself the right to kill or take
   "game" or rabbits or other wild animals concurrently with or in
   exclusion of the tenant. Where the exclusive right is in the landlord
-  the tenant is not only liable to forfeiture or damages for breaches of
-  covenants in the lease, but is also liable to penalties on summary
+  the tenant is not only liable to forfeiture or damages for [[Breach|breaches]] of
+  [[Covenant|covenants]] in the lease, but is also liable to penalties on summary
   conviction if without the lessor's authority he pursues, kills or
   takes any "game" upon the land or gives permission to others to do so
   (1831, s. 12). In effect he is made criminally liable for game
@@ -260,11 +260,11 @@ incidents of the law as to animals _ferae naturae_.
   sunrise to the end of the first hour after sunset, and by "night" from
   the end of the first hour after sunset to the beginning of the first
   hour before sunrise (act of 1828, s. 12; act of 1831, s. 34). The time
-  is reckoned by local and not by Greenwich time.
+  is reckoned by local and not by [[Greenwich]] time.
 
   The penalties for night poaching are severe, but encounters between
   the owners of sporting rights and armed gangs of poachers have often
-  been attended by homicide. It is to be observed that it is illegal and
+  been attended by [[Homicide|homicide]]. It is to be observed that it is illegal and
   severely punishable to set traps or loaded spring guns for poachers
   (Offences against the Person Act 1861, s. 31), whereby any grievous
   bodily harm is intended or may be caused even to a trespasser, so that
@@ -283,8 +283,8 @@ incidents of the law as to animals _ferae naturae_.
   unlawfully in search or pursuit of 'game,' or any persons aiding or
   abetting such person, and having in his possession any game unlawfully
   obtained, or any gun, part of gun, or nets or engines used for the
-  killing or taking game; and also to stop and search any cart or other
-  conveyance in or upon which such constable or peace officer shall have
+  killing or taking game; and also to stop and search any [[Cart|cart]] or other
+  [[Conveyance|conveyance]] in or upon which such constable or peace officer shall have
   good cause to suspect that any such game, or any such article or
   thing, is being carried by such person." If any such thing be found
   the constable is to detain it, and apply for a summons against the
@@ -319,7 +319,7 @@ incidents of the law as to animals _ferae naturae_.
      ** Except in Devon, Somerset and New Forest, where to Sept. 1.
 
   In England and Ireland the winged game above named and hares may not
-  be killed on Sundays or Christmas Day. It is illegal to sell or expose
+  be killed on Sundays or [[Christmas]] Day. It is illegal to sell or expose
   for sale hares or leverets in March, April, May, June and July. It is
   illegal throughout the United Kingdom to buy or sell winged game birds
   after ten days from the beginning of the close season as fixed by the
@@ -395,7 +395,7 @@ incidents of the law as to animals _ferae naturae_.
   licensed premises. A licence must be taken out for each shop. The
   following persons are disqualified for holding the licence:
   innkeepers, persons holding licences to sell intoxicants, owners,
-  guards or drivers of mail-carts, stagecoaches or public conveyances,
+  [[Guards|guards]] or drivers of mail-carts, stagecoaches or public conveyances,
   carriers and higglers (1831, s. 18). This enactment interferes with
   the grant of game licences to large stores which also have licences to
   sell beer. The licensed dealer may buy British game only from persons
@@ -411,7 +411,7 @@ incidents of the law as to animals _ferae naturae_.
   of licences is to prevent the disposal of game by poachers rather than
   to benefit the revenue.
 
-  _Deer_.--Deer are not included within the definition of game in any of
+  _Deer_.--Deer are not included within the [[Definition|definition]] of game in any of
   the English game laws. Deer-stealing was very seriously punished by
   the old law, and under an act of 9 George I. c. 22, known as the
   Waltham Black Act, passed because of the depredations of disguised
@@ -456,7 +456,7 @@ incidents of the law as to animals _ferae naturae_.
   sport imported or artificially raised on land, the person who breeds
   or brings them there is liable for the damage done to the crops of
   adjoining owners or occupiers (_Farrer_ v. _Nelson_, 1885, 15 Q.B.D.
-  258; _Birkbeck_ v. _Paget_, 31 Beav. 403; _Hilton_ v. _Green_, 1862, 2
+  258; _Birkbeck_ v. _Paget_, 31 Beav. 403; _[[Hilton]]_ v. _Green_, 1862, 2
   F. & F. 821).
 
   Recent legislation has greatly increased the rights of the occupiers
@@ -481,7 +481,7 @@ incidents of the law as to animals _ferae naturae_.
   charter or franchise (s. 5). The mode of exercise of the occupier's
   right is subject to certain limitations. The ground game is only to be
   taken by him or by persons whom he has duly authorized in writing, who
-  must be members of his family or his servants or bona fide employed by
+  must be members of his family or his servants or [[Bona|bona]] fide employed by
   him for reward to take ground game. The written authority must be
   produced on demand to persons having concurrent rights to take and
   kill the ground game (s. 1 (1) (c)). Firearms may not be used by
@@ -521,7 +521,7 @@ incidents of the law as to animals _ferae naturae_.
   when severed from the occupation of land, are subject to income or
   property tax, and to assessment for the purpose of local rates (Rating
   Act 1874); and in valuing land whether for rates or taxes the value of
-  the sporting rights is now an important and often the chief item of
+  the sporting rights is now an important and often the chief [[Item|item]] of
   value in beneficial occupation of the land. Where the sporting rights
   are the landlord's, the rate thereon is paid in the first instance by
   the tenant and deducted from his rent. Where the sporting right is

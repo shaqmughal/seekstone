@@ -5,7 +5,7 @@ Saône-et-Loire, on the right bank of the Loire, 55 m. W.N.W. of Mâcon on
 the Paris-Lyon railway. Pop. (1906) 5321. It is situated at the meeting
 places of the Loire, the Lateral canal of the Loire and the Canal du
 Centre, which here crosses the Loire by a fine aqueduct. The town
-carries on considerable manufactures of faience, pottery and porcelain.
+carries on considerable manufactures of [[Faience|faience]], pottery and porcelain.
 The port on the Canal du Centre has considerable traffic in timber,
 sand, iron, coal and stone.
 

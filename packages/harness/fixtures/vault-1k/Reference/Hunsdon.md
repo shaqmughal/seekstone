@@ -28,10 +28,10 @@ His eldest son, GEORGE (1547-1603), 2nd Baron Hunsdon, was a member of
 parliament, a diplomatist, a soldier and lord chamberlain. He was also
 captain-general of the Isle of Wight during the time of the Spanish
 Armada. He was succeeded by his brother John (d. 1617). In 1628 John's
-son Henry, 4th Baron Hunsdon, was created earl of Dover. This title
+son Henry, 4th Baron Hunsdon, was created earl of [[Dover]]. This title
 became extinct on the death of the 2nd earl, John, in 1677, and a like
-fate befell the barony of Hunsdon on the death of the 8th baron, William
-Ferdinand, in June 1765. Elizabeth, daughter of Sir John Spencer of
+[[Fate|fate]] befell the barony of Hunsdon on the death of the 8th baron, William
+[[Ferdinand]], in June 1765. Elizabeth, daughter of Sir John Spencer of
 Althorp, and wife of the 2nd Lord Hunsdon, is celebrated as the
 patroness of her kinsman, the poet Spenser; and either this lady or her
 daughter Elizabeth was the author of the _Tragedie of Marian_ (1613).

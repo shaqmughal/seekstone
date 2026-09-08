@@ -12,9 +12,9 @@ French substantival use of _levée_ in the English sense), a reception or
 assembly held by the British sovereign or his representative, in Ireland
 by the lord-lieutenant, in India by the viceroy, in the forenoon or
 early afternoon, at which men only are present in distinction from a
-"drawing-room," at which ladies also are presented or received. Under
+"[[Drawing-Room|drawing-room]]," at which ladies also are presented or received. Under
 the _ancien règime_ in France the _lever_ of the king was regulated,
-especially under Louis XIV., by elaborate etiquette, and the various
+especially under Louis XIV., by elaborate [[Etiquette|etiquette]], and the various
 divisions of the ceremonial followed the stages of the king's rising
 from bed, from which it gained its name. The _petit lever_ began when
 the king had washed and said his daily offices; to this were admitted

@@ -2,11 +2,11 @@
 
 DE LA RUE, WARREN (1815-1889), British astronomer and chemist, son of
 Thomas De la Rue, the founder of the large firm of stationers of that
-name in London, was born in Guernsey on the 18th of January 1815. Having
+name in London, was born in [[Guernsey]] on the 18th of January 1815. Having
 completed his education in Paris, he entered his father's business, but
 devoted his leisure hours to chemical and electrical researches, and
 between 1836 and 1848 published several papers on these subjects.
-Attracted to astronomy by the influence of James Nasmyth, he constructed
+Attracted to [[Astronomy|astronomy]] by the influence of James Nasmyth, he constructed
 in 1850 a 13-in. reflecting telescope, mounted first at Canonbury, later
 at Cranford, Middlesex, and with its aid executed many drawings of the
 celestial bodies of singular beauty and fidelity. His chief title to
@@ -24,12 +24,12 @@ photo-heliograph, described in his report to the British Association,
 Lecture (_Phil. Trans._ vol. clii. pp. 333-416). Regular work with this
 instrument, inaugurated at Kew by De la Rue in 1858, was carried on
 there for fourteen years; and was continued at the Royal Observatory,
-Greenwich, from 1873 to 1882. The results obtained in the years
+[[Greenwich]], from 1873 to 1882. The results obtained in the years
 1862-1866 were discussed in two memoirs, entitled "Researches on Solar
 Physics," published by De la Rue, in conjunction with Professor Balfour
 Stewart and Mr B. Loewy, in the _Phil. Trans._ (vol. clix. pp. 1-110,
 and vol. clx. pp. 389-496). In 1860 De la Rue took the photo-heliograph
-to Spain for the purpose of photographing the total solar eclipse which
+to Spain for the purpose of photographing the total solar [[Eclipse|eclipse]] which
 occurred on the 18th of July of that year. This expedition formed the
 subject of the Bakerian Lecture already referred to. The photographs
 obtained on that occasion proved beyond doubt the solar character of the
@@ -38,10 +38,10 @@ solar eclipse. In 1873 De la Rue gave up active work in astronomy, and
 presented most of his astronomical instruments to the university
 observatory, Oxford. Subsequently, in the year 1887, he provided the
 same observatory with a 13-in. refractor to enable it to take part in
-the International Photographic Survey of the Heavens. With Dr Hugo
+the [[International]] Photographic Survey of the Heavens. With Dr [[Hugo]]
 Muller as his collaborator he published several papers of a chemical
 character between the years 1856 and 1862, and investigated, 1868-1883,
-the discharge of electricity through gases by means of a battery of
+the [[Discharge|discharge]] of electricity through gases by means of a battery of
 14,600 chloride of silver cells. He was twice president of the Chemical
 Society, and also of the Royal Astronomical Society (1864-1866). In 1862
 he received the gold medal of the latter society, and in 1864 a Royal
@@ -51,7 +51,7 @@ photography. He died in London on the 19th of April 1889.
 
   See _Monthly Notices Roy. Astr. Soc._ l. 155; _Journ. Chem. Soc._
   lvii. 441; _Nature_, xl. 26; _The Times_ (April 22, 1889); Royal
-  Society, _Catalogue of Scientific Papers_.
+  Society, _[[Catalogue]] of Scientific Papers_.
 
 ## References
 

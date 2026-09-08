@@ -37,7 +37,7 @@ asunder, in April or early in May, and the plants are afterwards to be
 thinned to about 8 in. apart in the lines, but not more, as
 moderate-sized roots are preferable. The plants should grow on till the
 end of October or later, when a portion should be taken up for use, and
-the rest laid in in a sheltered corner, and covered up from frost. The
+the rest laid in in a sheltered corner, and covered up from [[Frost|frost]]. The
 roots must not be bruised and the leaves must be twisted off--not
 closely cut, as they are then liable to bleed. In the north the crop may
 be wholly taken up in autumn, and stored in a pit or cellar, beyond

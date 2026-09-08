@@ -10,7 +10,7 @@ id: 42-516
 
 KHARGA (WAH EL-KHARGA, the outer oasis), the largest of the Egyptian
 oases, and hence frequently called the Great Oasis. It lies in the
-Libyan desert between 24° and 26° N. and 30° and 31° E., the chief town,
+Libyan [[Desert|desert]] between 24° and 26° N. and 30° and 31° E., the chief town,
 also called Kharga, being 435 m. by rail S. by W. of Cairo. It is
 reached by a narrow-gauge line (opened in 1908) from Kharga junction, a
 station on the Nile valley line near Farshut. The oasis consists of a
@@ -41,12 +41,12 @@ principal ruin, a temple of Ammon, built under Darius, is of sandstone,
 142 ft. long by 63 ft. broad and 30 ft. in height. South-east is another
 temple, a square stone building with the name of Antoninus Pius over one
 off the entrances. On the eastern escarpment of the oasis on the way to
-Girga are the remains of a large Roman fort with twelve bastions. On the
+Girga are the remains of a large Roman fort with twelve [[Bastion|bastions]]. On the
 road to Assiut is a fine Roman columbarium or dove-cote. Next to the
 great temple the most interesting ruin in the oasis is, however, the
 necropolis, a burial-place of the early Christians, placed on a hill 3
 m. N. of the town of Kharga. There are some two hundred rectangular tomb
-buildings in unburnt brick with ornamented fronts. In most of the tombs
+buildings in unburnt [[Brick|brick]] with ornamented fronts. In most of the tombs
 is a chamber in which the mummy was placed, the Egyptian Christians at
 first continuing this method of preserving the bodies of their dead. In
 several of the tombs and in the chapel of the cemetery is painted the
@@ -66,7 +66,7 @@ Hadrian), &c.
 Kharga is usually identified with the city of Oasis mentioned by
 Herodotus as being seven days' journey from Thebes and called in Greek
 the Island of the Blessed. The oasis was traversed by the army of
-Cambyses when on its way to the oasis of Ammon (Siwa), the army
+[[Cambyses]] when on its way to the oasis of Ammon (Siwa), the army
 perishing in the desert before reaching its destination. During the
 Roman period, as it had also been in Pharaonic times, Kharga was used as
 a place of banishment, the most notable exile being Nestorius, sent
@@ -78,7 +78,7 @@ About 100 m. W. of Kharga is the oasis of Dakhla, the inner or receding
 oasis, so named in contrast to Kharga as being farther from the Nile.
 Dakhla has a population (1907) of 18,368. Its chief town, El Kasr, has
 3602 inhabitants. The principal ruin, of Roman origin and now called
-Deir el Hagar (the stone convent), is of considerable size. The Theban
+[[Deir]] el Hagar (the stone convent), is of considerable size. The Theban
 triad were the chief deities worshipped here. Some 120 m. N.W. of Dakhla
 is the oasis of Farafra, population about 1000, said to be the first of
 the oases conquered by the Moslems from the Christians. It is noted for

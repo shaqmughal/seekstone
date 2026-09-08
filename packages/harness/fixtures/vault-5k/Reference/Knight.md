@@ -6,18 +6,18 @@ hobby, and he subsequently devoted himself to it. In 1861 he had his
 first picture hung at the Academy. He was essentially an open-air
 painter, constantly going on sketching tours in the most picturesque
 spots of England, and all his pictures were painted out of doors. He
-died at Dover on the 2nd of January 1908. The Chantrey trustees bought
+died at [[Dover]] on the 2nd of January 1908. The [[Chantrey]] trustees bought
 his "December's Bareness Everywhere" for the nation in the following
 month. Most of his best pictures had passed into the collection of Mr
 Iceton of Putney (including "White Walls of Old England" and "Hereford
-Cathedral"), Mr Walter Briggs of Burley in Wharfedale (especially
+Cathedral"), Mr Walter [[Brigg|Briggs]] of Burley in Wharfedale (especially
 "Pinner"), and Mr S. M. Phillips of Wrotham (especially two
 water-colours of Richmond Bridge).
 
 
 
 
-KNIGHTHOOD and CHIVALRY. These two words, which are nearly but not quite
+KNIGHTHOOD and [[Chivalry|CHIVALRY]]. These two words, which are nearly but not quite
 synonymous, designate a single subject of inquiry, which presents itself
 under three different although connected and in a measure intermingled
 aspects. It may be regarded in the first place as a mode or variety of
@@ -42,7 +42,7 @@ period of life which intervenes between childhood and manhood. But some
 time before the middle of the 12th century they had acquired the meaning
 they still retain of the French _chevalier_ and _chevalerie_. In a
 secondary sense _cniht_ meant a servant or attendant answering to the
-German _Knecht_, and in the Anglo-Saxon Gospels a disciple is described
+German _Knecht_, and in the Anglo-Saxon Gospels a [[Disciple|disciple]] is described
 as a _leorning cniht_. In a tertiary sense the word appears to have been
 occasionally employed as equivalent to the Latin _miles_--usually
 translated by _thegn_--which in the earlier middle ages was used as the
@@ -66,7 +66,7 @@ attendant, at all events of the king. But besides the king, the
 ealdormen, bishops and king's thegns themselves had their thegns, and to
 these it is more than probable that the name of _cniht_ was applied.
 
-Around the Anglo-Saxon magnates were collected a crowd of retainers and
+Around the Anglo-Saxon magnates were collected a [[Crowd|crowd]] of retainers and
 dependants of all ranks and conditions; and there is evidence enough to
 show that among them were some called _cnihtas_ who were not always the
 humblest or least considerable of their number.[5] The testimony of
@@ -74,7 +74,7 @@ Domesday also establishes the existence in the reign of Edward the
 Confessor of what Stubbs describes as a "large class" of landholders who
 had commended themselves to some lord, and he regards it as doubtful
 whether their tenure had not already assumed a really feudal character.
-But in any event it is manifest that their condition was in many
+But in any event it is [[Manifest|manifest]] that their condition was in many
 respects similar to that of a vast number of unquestionably feudal and
 military tenants who made their appearance after the Norman Conquest. If
 consequently the former were called _cnihtas_ under the Anglo-Saxon
@@ -103,7 +103,7 @@ his native earth to receive the onslaught of her enemies."[7] In this
 perhaps we may behold one of the most ancient of British insular
 prejudices, for on the Continent the importance of cavalry in warfare
 was already abundantly understood. It was by means of their horsemen
-that the Austrasian Franks established their superiority over their
+that the Austrasian [[Frank|Franks]] established their superiority over their
 neighbours, and in time created the Western Empire anew, while from the
 word _caballarius_, which occurs in the _Capitularies_ in the reign of
 Charlemagne, came the words for knight in all the Romance languages.[8]
@@ -125,7 +125,7 @@ way of derivation with the "equites" of Rome, the knights of King
 Arthur's Round Table, or the Paladins of Charlemagne. But there are
 grounds for believing that some of the rudiments of chivalry are to be
 detected in early Teutonic customs, and that they may have made some
-advance among the Franks of Gaul. We know from Tacitus that the German
+advance among the Franks of [[Gaul]]. We know from Tacitus that the German
 tribes in his day were wont to celebrate the admission of their young
 men into the ranks of their warriors with much circumstance and
 ceremony. The people of the district to which the candidate belonged
@@ -141,7 +141,7 @@ recognized importance. It does not follow that a similar ceremony
 extended to personages less exalted than the sons of kings and emperors.
 But if it did we must naturally suppose that it applied in the first
 instance to the mounted warriors who formed the most formidable portion
-of the warlike array of the Franks. It was among the Franks indeed, and
+of the warlike [[Array|array]] of the Franks. It was among the Franks indeed, and
 possibly through their experiences in war with the Saracens, that
 cavalry first acquired the pre-eminent place which it long maintained in
 every European country. In early society, where the army is not a paid
@@ -149,7 +149,7 @@ force but the armed nation, the cavalry must necessarily consist of the
 noble and wealthy, and cavalry and chivalry, as Freeman observes,[10]
 will be the same. Since then we discover in the _Capitularies_ of
 Charlemagne actual mention of "caballarii" as a class of warriors, it
-may reasonably be concluded that formal investiture with arms applied to
+may reasonably be concluded that formal [[Investiture|investiture]] with arms applied to
 the "caballarii" if it was a usage extending beyond the sovereign and
 his heir-apparent. "But," as Hallam says, "he who fought on horseback
 and had been invested with peculiar arms in a solemn manner wanted
@@ -166,7 +166,7 @@ vernacular designation.
 
 Before it was known that the chronicle ascribed to Ingulf of Croyland is
 really a fiction of the 13th or 14th century, the knighting of Heward or
-Hereward by Brand, abbot of Burgh (now Peterborough), was accepted from
+Hereward by [[Brand]], abbot of Burgh (now Peterborough), was accepted from
 Selden to Hallam as an historical fact, and knighthood was supposed, not
 only to have been known among the Anglo-Saxons, but to have had a
 distinctively religious character which was contemned by the Norman
@@ -219,7 +219,7 @@ contract.[13] On the Continent the systematic employment of mercenaries
 was both an early and a common practice.
 
 
-  The Crusades.
+  The [[Crusades]].
 
 Besides consideration for the mutual convenience of sovereigns and their
 feudatories, there were other causes which materially contributed
@@ -233,7 +233,7 @@ accustomed to lead. It was thus established that pay, the love of
 enterprise and the prospect of plunder--if we leave zeal for the sacred
 cause which they had espoused for the moment out of sight--were quite as
 useful for the purpose of enlisting troops and keeping them together as
-the tenure of land and the solemnities of homage and fealty. Moreover,
+the tenure of land and the solemnities of [[Homage|homage]] and fealty. Moreover,
 the crusaders who survived the difficulties and dangers of an expedition
 to Palestine were seasoned and experienced although frequently
 impoverished and landless soldiers, ready to hire themselves to the
@@ -262,7 +262,7 @@ Europe. And in their indifference to the distinctions of race and
 nationality they merely accommodated themselves to the spirit which had
 become characteristic of chivalry itself, already recognized, like the
 church, as a universal institution which knit together the whole warrior
-caste of Christendom into one great fraternity irrespective alike of
+[[Caste|caste]] of Christendom into one great fraternity irrespective alike of
 feudal subordination and territorial boundaries. Somewhat later the
 adoption of hereditary surnames and armorial bearings marked the
 existence of a large and noble class who either from the subdivision of
@@ -273,13 +273,13 @@ rule offered greater attractions than the former in an era of much
 licence and little learning. Hence the favourite expedient for men of
 birth, although not of fortune, was to attach themselves to some prince
 or magnate in whose military service they were sure of an adequate
-maintenance and might hope for even a rich reward in the shape of booty
+[[Maintenance|maintenance]] and might hope for even a rich reward in the shape of booty
 or of ransom.[14] It is probably to this period and these circumstances
 that we must look for at all events the rudimentary beginnings of the
 military as well as the religious orders of chivalry. Of the existence
 of any regularly constituted companionships of the first kind there is
 no trustworthy evidence until between two and three centuries after
-fraternities of the second kind had been organized. Soon after the
+[[Fraternities|fraternities]] of the second kind had been organized. Soon after the
 greater crusading societies had been formed similar orders, such as
 those of St James of Compostella, Calatrava and Alcantara, were
 established to fight the Moors in Spain instead of the Saracens in the
@@ -302,7 +302,7 @@ engagements usually lasted through life, but sometimes only for a
 specified period or during the continuance of specified circumstances,
 and they were always ratified by oath, occasionally reduced to writing
 in the shape of a solemn bond and often sanctified by their reception of
-the Eucharist together. Romance and tradition speak of strange
+the [[Eucharist]] together. Romance and tradition speak of strange
 rites--the mingling and even the drinking of blood--as having in remote
 and rude ages marked the inception of these martial and fraternal
 associations.[16] But in later and less barbarous times they were
@@ -314,7 +314,7 @@ them they were in conflict, and that their friends might be unable to
 accord more applause to one than to the other for his prowess in the
 field. It seems likely enough therefore that there should grow up bodies
 of knights banded together by engagements of fidelity, although free
-from monastic obligations; wearing a uniform or livery, and naming
+from monastic obligations; wearing a uniform or [[Livery|livery]], and naming
 themselves after some special symbol or some patron saint of their
 adoption. And such bodies placed under the command of a sovereign or
 grand master, regulated by statutes, and enriched by ecclesiastical
@@ -335,14 +335,14 @@ committed in the camp and field were tried and adjudged, and among whose
 duties it was to carry orders and messages, to deliver challenges and
 call truces, and to identify and number the wounded and the slain. The
 main divisions of the army were distributed under the royal and other
-principal standards, smaller divisions under the banners of some of the
+principal standards, smaller divisions under the [[Banners|banners]] of some of the
 greater nobility or of knights banneret, and smaller divisions still
 under the pennons of knights or, as in distinction from knights banneret
 they came to be called, knights bachelors. All knights whether bachelors
 or bannerets were escorted by their squires. But the banner of the
 banneret always implied a more or less extensive command, while every
 knight was entitled to bear a pennon and every squire a pencel. All
-three flags were of such a size as to be conveniently attached to and
+three [[Flag|flags]] were of such a size as to be conveniently attached to and
 carried on a lance, and were emblazoned with the arms or some portion of
 the bearings of their owners. But while the banner was square the
 pennon, which resembled it in other respects, was either pointed or
@@ -372,22 +372,22 @@ he was more anciently and more correctly called, the "valet" or
 seven and eight years old, and the initial phase continued for seven or
 eight years longer. He acted as the constant personal attendant of both
 his master and mistress. He waited on them in their hall and accompanied
-them in the chase, served the lady in her bower and followed the lord to
-the camp.[21] From the chaplain and his mistress and her damsels he
+them in the chase, served the lady in her [[Bower|bower]] and followed the lord to
+the camp.[21] From the [[Chaplain|chaplain]] and his mistress and her damsels he
 learnt the rudiments of religion, of rectitude and of love,[22] from his
 master and his squires the elements of military exercise, to cast a
 spear or dart, to sustain a shield, and to march with the measured tread
 of a soldier; and from his master and his huntsmen and falconers the
 "mysteries of the woods and rivers," or in other words the rules and
-practices of hunting and hawking. When he was between fifteen and
+practices of [[Hunting|hunting]] and hawking. When he was between fifteen and
 sixteen he became a squire. But no sudden or great alteration was made
-in his mode of life. He continued to wait at dinner with the pages,
+in his mode of life. He continued to wait at [[Dinner|dinner]] with the pages,
 although in a manner more dignified according to the notions of the age.
 He not only served but carved and helped the dishes, proffered the first
 or principal cup of wine to his master and his guests, and carried to
 them the basin, ewer or napkin when they washed their hands before and
 after meat. He assisted in clearing the hall for dancing or minstrelsy,
-and laid the tables for chess or draughts, and he also shared in the
+and laid the tables for chess or [[Draughts|draughts]], and he also shared in the
 pastimes for which he had made preparation. He brought his master the
 "vin de coucher" at night, and made his early refection ready for him in
 the morning. But his military exercises and athletic sports occupied an
@@ -397,8 +397,8 @@ battle-axe, to swim and climb, to run and leap, and to bear the weight
 and overcome the embarrassments of armour. He inured himself to the
 vicissitudes of heat and cold, and voluntarily suffered the pains or
 inconveniences of hunger and thirst, fatigue and sleeplessness. It was
-then too that he chose his "lady-love," whom he was expected to regard
-with an adoration at once earnest, respectful, and the more meritorious
+then too that he [[Chose|chose]] his "lady-love," whom he was expected to regard
+with an adoration at once [[Earnest|earnest]], respectful, and the more meritorious
 if concealed. And when it was considered that he had made sufficient
 advancement in his military accomplishments, he took his sword to the
 priest, who laid it on the altar, blessed it, and returned it to
@@ -415,13 +415,13 @@ he served, to raise him from the ground if he were unhorsed, to supply
 him with another or his own horse if his was disabled or killed, to
 receive and keep any prisoners he might take, to fight by his side if he
 was unequally matched, to rescue him if captured, to bear him to a place
-of safety if wounded, and to bury him honourably when dead. And after he
+of safety if wounded, and to [[Bury|bury]] him honourably when dead. And after he
 had worthily and bravely, borne himself for six or seven years as a
 squire, the time came when it was fitting that he should be made a
 knight. This, at least, was the current theory; but it is specially
 dangerous in medieval history to assume too much correspondence between
 theory and fact. In many castles, and perhaps in most, the discipline
-followed simply a natural and unwritten code of "fagging" and seniority,
+followed simply a natural and unwritten [[Code|code]] of "fagging" and seniority,
 as in public schools or on board men-of-war some hundred years or so
 ago.
 
@@ -471,7 +471,7 @@ used in the church at or before the receiving of the dignity."[25] But
 the leading authority on the subject is an ancient tract written in
 French, which will be found at length either in the original or
 translated by Segar, Dugdale, Byshe and Nicolas, among other English
-writers.[26] Daniel explains his reasons for transcribing it, "tant à
+writers.[26] [[Daniel]] explains his reasons for transcribing it, "tant à
 cause du detail que de la naïveté du stile et encore plus de la
 bisarrerie des ceremonies que se faisoient pourtant alors fort
 sérieusement," while he adds that these ceremonies were essentially
@@ -490,7 +490,7 @@ identical in England, France, Germany, Spain and Italy.
   chivalry," and when they had fulfilled their mission they poured some
   of the water of the bath over his shoulders, signing the left shoulder
   with the cross, and retired. He was then taken from the bath and put
-  into a plain bed without hangings, in which he remained until his body
+  into a plain bed without [[Hanging|hangings]], in which he remained until his body
   was dry, when the two esquires put on him a white shirt and over that
   "a robe of russet with long sleeves having a hood thereto like unto
   that of an hermit." Then the "two ancient and grave knights" returned
@@ -514,7 +514,7 @@ identical in England, France, Germany, Spain and Italy.
   him came into the hall, and, the candidate's sword and spurs having
   been presented to him, he delivered the right spur to the "most noble
   and gentle" knight present, and directed him to fasten it on the
-  candidate's right heel, which he kneeling on one knee and putting the
+  candidate's right heel, which he kneeling on one [[Knee|knee]] and putting the
   candidate's right foot on his knee accordingly did, signing the
   candidate's knee with the cross, and in like manner by another "noble
   and gentle" knight the left spur was fastened to his left heel. And
@@ -524,7 +524,7 @@ identical in England, France, Germany, Spain and Italy.
   him. When this was done they all went to the chapel with much music,
   and the new knight laying his right hand on the altar promised to
   support and defend the church, and ungirding his sword offered it on
-  the altar. And as he came out from the chapel the master cook awaited
+  the altar. And as he came out from the chapel the master [[Cook|cook]] awaited
   him at the door and claimed his spurs as his fee, and said, "If you
   do anything contrary to the order of chivalry (which God forbid), I
   shall hack the spurs from your heels."[27]
@@ -532,7 +532,7 @@ identical in England, France, Germany, Spain and Italy.
 The full solemnities for conferring knighthood seem to have been so
 largely and so early superseded by the practice of dubbing or giving the
 accolade alone that in England it became at last restricted to such
-knights as were made at coronations and some other occasions of state.
+knights as were made at [[Coronation|coronations]] and some other occasions of state.
 And to them the particular name of Knights of the Bath was assigned,
 while knights made in the ordinary way were called in distinction from
 them knights of the sword, as they were also called knights bachelors in
@@ -555,10 +555,10 @@ different countries. On the Continent the distinction which is commonly
 but incorrectly made between the nobility and the gentry has never
 arisen, and it was unknown here while chivalry existed and heraldry was
 understood. Here, as elsewhere in the old time, a nobleman and a
-gentleman meant the same thing, namely, a man who under certain
+[[Gentleman|gentleman]] meant the same thing, namely, a man who under certain
 conditions of descent was entitled to armorial bearings. Hence Du Cange
 divides the medieval nobility of France and Spain into three classes:
-first, barons or ricos hombres; secondly, chevaliers or caballeros; and
+first, barons or ricos hombres; secondly, chevaliers or [[Caballero|caballeros]]; and
 thirdly, écuyers or infanzons; and to the first, who with their several
 special titles constituted the greater nobility of either country, he
 limits the designation of banneret and the right of leading their
@@ -722,7 +722,7 @@ to the preparation of the royal chapel of Windsor are dated in August
 an entry in November 1348 of the gift by him of "twenty-four garters to
 the knights of the Society of the Garter."[45] But that the order,
 although from this manifestly already fully constituted in the autumn of
-1348, was not in existence before the summer of 1346 Sir Harris Nicolas
+1348, was not in existence before the summer of 1346 Sir [[Harris]] Nicolas
 proves pretty conclusively by pointing out that nobody who was not a
 knight could under its statutes have been admitted to it, and that
 neither the prince of Wales nor several others of the original
@@ -733,24 +733,24 @@ regarding the date of its foundation. The "vulgar and more general
 story," as Ashmole calls it, is that of the countess of Salisbury's
 garter. But commentators are not at one as to which countess of
 Salisbury was the heroine of the adventure, whether she was Katherine
-Montacute or Joan the Fair Maid of Kent, while Heylyn rejects the legend
+Montacute or Joan the Fair Maid of Kent, while [[Heylyn]] rejects the legend
 as "a vain and idle romance derogatory both to the founder and the
 order, first published by Polydor Vergil, a stranger to the affairs of
-England, and by him taken upon no better ground than fama vulgi, the
+England, and by him taken upon no better ground than [[Fama|fama]] vulgi, the
 tradition of the common people, too trifling a foundation for so great a
 building."[46]
 
 Another legend is that contained in the preface to the Register or Black
 Book of the order, compiled in the reign of Henry VIII., by what
 authority supported is unknown, that Richard I., while his forces were
-employed against Cyprus and Acre, had been inspired through the
+employed against [[Cyprus]] and Acre, had been inspired through the
 instrumentality of St George with renewed courage and the means of
 animating his fatigued soldiers by the device of tying about the legs of
 a chosen number of knights a leathern thong or garter, to the end that
 being thereby reminded of the honour of their enterprise they might be
 encouraged to redoubled efforts for victory. This was supposed to have
 been in the mind of Edward III. when he fixed on the garter as the
-emblem of the order, and it was stated so to have been by Taylor, master
+[[Emblem|emblem]] of the order, and it was stated so to have been by Taylor, master
 of the rolls, in his address to Francis I. of France on his investiture
 in 1527.[47] According to Ashmole the true account of the matter is that
 "King Edward having given forth his own garter as the signal for a
@@ -759,7 +759,7 @@ that of Crécy), the victory, we say, being happily gained, he thence
 took occasion to institute this order, and gave the garter (assumed by
 him for the symbol of unity and society) preeminence among the ensigns
 of it." But, as Sir Harris Nicolas points out--although Ashmole is not
-open to the correction--this hypothesis rests for its plausibility on
+open to the correction--this [[Hypothesis|hypothesis]] rests for its plausibility on
 the assumption that the order was established before the invasion of
 France in 1346. And he further observes that "a great variety of
 devices and mottoes were used by Edward III.; they were chosen from the
@@ -774,7 +774,7 @@ of it.' Such a circumstance occurring at a time of general festivity,
 when devices, mottoes and conceits of all kinds were adopted as
 ornaments or badges of the habits worn at jousts and tournaments, would
 naturally have been commemorated as other royal expressions seem to have
-been by its conversion into a device and motto for the dresses at an
+been by its [[Conversion|conversion]] into a device and motto for the [[Dress|dresses]] at an
 approaching hastilude."[48] Moreover, Sir Harris Nicolas contends that
 the order had no loftier immediate origin than a joust or tournament. It
 consisted of the king and the Black Prince, and 24 knights divided into
@@ -785,7 +785,7 @@ become a permanent institution, were assigned stalls either on the
 sovereign's or the prince's side of St George's Chapel. That Sir Harris
 Nicolas is accurate in this conjecture seems probable from the selection
 which was made of the "founder knights." As Beltz observes, the fame of
-Sir Reginald Cobham, Sir Walter Manny and the earls of Northampton,
+Sir Reginald [[Cobham]], Sir Walter Manny and the earls of Northampton,
 Hereford and Suffolk was already established by their warlike exploits,
 and they would certainly have been among the original companions had the
 order been then regarded as the reward of military merit only. But,
@@ -812,9 +812,9 @@ of knights, and some other women of exalted position, were designated
 "Dames de la Fraternité de St George," and entries of the delivery of
 robes and garters to them are found at intervals in the Wardrobe
 Accounts from the 50th Edward III. (1376) to the 10th of Henry VII.
-(1495), the first being Isabel, countess of Bedford, the daughter of the
+(1495), the first being Isabel, countess of [[Bedford]], the daughter of the
 one king, and the last being Margaret and Elizabeth, the daughters of
-the other king. The effigies of Margaret Byron, wife of Sir Robert
+the other king. The effigies of Margaret [[Byron]], wife of Sir Robert
 Harcourt, K.G., at Stanton Harcourt, and of Alice Chaucer, wife of
 William de la Pole, duke of Suffolk, K.G., at Ewelme, which date from
 the reigns of Henry VI. and Edward IV., have garters on their left arms.
@@ -862,7 +862,7 @@ each other knights much as they were afterwards, and are now, in the
 habit of exchanging the stars and ribbons of their orders. Henry II. was
 knighted by his great-uncle David I. of Scotland, Alexander III. of
 Scotland by Henry III., Edward I. when he was prince by Alphonso X. of
-Castile, and Ferdinand of Portugal by Edmund of Langley, earl of
+Castile, and [[Ferdinand]] of Portugal by Edmund of Langley, earl of
 Cambridge.[54] And, long after the military importance of knighthood had
 practically disappeared, what may be called its cosmopolitan character
 was maintained: a knight's title was recognized in all European
@@ -898,7 +898,7 @@ Queen Elizabeth, and were even occasionally held until after the death
 of Henry, prince of Wales. But on the Continent they were discredited by
 the fatal accident which befell Henry II. of France in 1559. The golden
 age of chivalry has been variously located. Most writers would place it
-in the early 13th century, but Gautier would remove it two or three
+in the early 13th century, but [[Gautier]] would remove it two or three
 generations further back. It may be true that, in the comparative
 scarcity of historical evidence, 12th-century romances present a more
 favourable picture of chivalry at that earlier time; but even such
@@ -927,7 +927,7 @@ below that rank with any decree of scorn and cruelty. The spirit of
 chivalry implies the arbitrary choice of one or two virtues to be
 practised in such an exaggerated degree as to become vices, while the
 ordinary laws of right and wrong are forgotten. The false code of honour
-supplants the laws of the commonwealth, the law of God and the eternal
+supplants the laws of the [[Commonwealth|commonwealth]], the law of God and the eternal
 principles of right. Chivalry again in its military aspect not only
 encourages the love of war for its own sake without regard to the cause
 for which war is waged, it encourages also an extravagant regard for a
@@ -967,7 +967,7 @@ the reverence paid to the Virgin Mary, raised the position of women
 made it difficult to separate the woman's person from her fief: instead
 of the freedom of Christian marriage on which the Church in theory
 insisted, lands and women were handed over together, as a business
-bargain, by parents or guardians. In theory, the knight was the defender
+bargain, by parents or [[Guardian|guardians]]. In theory, the knight was the defender
 of widows and orphans; but in practice wardships and marriages were
 bought and sold as a matter of everyday routine like stocks and shares
 in the modern market. Lord Thomas de Berkeley (1245-1321) counted on
@@ -1004,7 +1004,7 @@ which the ten contracting parties averaged less than eleven years of
 age: the marriage contract of another Lord Berkeley was drawn up before
 he was six years old. Moreover, the same business considerations which
 dictated those early marriages clashed equally with the strict theory of
-knighthood. In the same Berkeley family, the lord Maurice IV. was
+knighthood. In the same Berkeley family, the lord [[Maurice]] IV. was
 knighted in 1338 at the age of seven to avoid the possible evils of
 wardship, and Thomas V. for the same reason in 1476 at the age of five.
 Smyth's record of this great family shows that, from the middle of the
@@ -1049,7 +1049,7 @@ that the dignity is open to any rich upstart, however disreputable his
 antecedents.[63] Similar causes contributed to the decay of knightly
 ideas in warfare. Even in the 12th century, when war was still rather
 the pastime of kings and knights than a national effort, the strict
-code of chivalry was more honoured in the breach than in the
+code of chivalry was more honoured in the [[Breach|breach]] than in the
 observance.[64] But when the Hundred Years' War brought a real national
 conflict between England and France, when archery became of supreme
 importance, and a large proportion even of the cavalry were mercenary
@@ -1058,9 +1058,9 @@ outward display and those class-conventions on which chivalry had always
 rested. Siméon Luce (chap. vi.) has shown how much the English successes
 in this war were due to strict business methods. Several of the best
 commanders (e.g. Sir Robert Knolles and Sir Thomas Dagworth) were of
-obscure birth, while on the French side even Du Guesclin had to wait
+obscure birth, while on the French side even [[Du Guesclin]] had to wait
 long for his knighthood because he belonged only to the lesser nobility.
-The tournament again, which for two centuries had been under the ban of
+The tournament again, which for two centuries had been under the [[Ban|ban]] of
 the Church, was often almost as definitely discouraged by Edward III. as
 it was encouraged by John of France; and while John's father opened the
 Crécy campaign by sending Edward a challenge in due form of chivalry,
@@ -1068,7 +1068,7 @@ Edward took advantage of this formal delay to amuse the French king with
 negotiations while he withdrew his army by a rapid march from an almost
 hopeless position. A couple of quotations from Froissart will illustrate
 the extent to which war had now become a mere business. Much as he
-admired the French chivalry, he recognized their impotence at Crécy.
+admired the French chivalry, he recognized their [[Impotence|impotence]] at Crécy.
 "The sharp arrows ran into the men of arms and into their horses, and
 many fell, horse and men.... And also among the Englishmen there were
 certain rascals that went afoot with great knives, and they went in
@@ -1084,8 +1084,8 @@ been worth, one with another, four hundred thousand franks." In 1402
 Lord Thomas de Berkeley bought, as a speculation, 24 Scottish prisoners.
 Similar practical considerations forced the nobles of other European
 countries either to conform to less sentimental methods of warfare and
-to growing conceptions of nationality, or to become mere Ishmaels of the
-type which outlived the middle ages in Götz von Berlichingen and his
+to growing conceptions of nationality, or to become mere [[Ishmael|Ishmaels]] of the
+type which outlived the middle ages in Götz von [[Berlichingen]] and his
 compeers.
 
   BIBLIOGRAPHY.--Froissart is perhaps the source from which we may
@@ -1095,7 +1095,7 @@ compeers.
   the earlier chronicles of the crusades, and is especially emphasized
   by preachers and moralists like Jacques de Vitry, Étienne de Bourbon,
   Nicole Bozon and John Gower. John Smyth's _Lives of the Berkeleys_
-  (Bristol and Gloucs. Archaeol. Soc, 2 vols.) and the _Book of the
+  ([[Bristol]] and Gloucs. Archaeol. Soc, 2 vols.) and the _Book of the
   Knight of La Tour-Landry_ (ed. A. de Montaiglon, or in the old English
   trans. published by the Early English Text Soc.) throw a very vivid
   light on the inner life of noble families. Of modern books, besides
@@ -1104,7 +1104,7 @@ compeers.
   Luce, _Hist. de Du Guesclin et de son Époque_ (2nd ed., Paris, 1882),
   masterly but unfortunately unfinished at the author's death; Léon
   Gautier, _La Chevalerie_ (Paris, 1883), written with a strong
-  apologetic bias, but full and correct in its references; and F. W.
+  apologetic [[Bias|bias]], but full and correct in its references; and F. W.
   Cornish, _Chivalry_ (London, 1901), too little reference to the more
   prosaic historical documents, but candid and without intentional
   partiality.     (G. G. Co.)
@@ -1123,7 +1123,7 @@ orders the classes are more numerous, as in the Royal Victorian, for
 instance, which has five, numerous foreign orders a like number, some
 six, while the Chinese "Dragon" boasts no less than eleven degrees.
 Generally speaking, the insignia of the "knights grand cross" consist of
-a star worn on the left breast and a badge, usually some form either of
+a star worn on the left [[Breast|breast]] and a badge, usually some form either of
 the cross _patée_ or of the Maltese cross, worn suspended from a ribbon
 over the shoulder or, in certain cases, on days of high ceremonial from
 a collar. The "commanders" wear the badge from a ribbon round the neck,
@@ -1199,7 +1199,7 @@ lieutenant of Ireland, and the king of arms is Ulster King of Arms;
 Black Rod is the usher. The chapel is in St Patrick's Cathedral, Dublin.
 The star, badge and ribbon are illustrated on Plate II., figs. 7 and 8.
 The collar is formed of alternate roses with red and white leaves, and
-gold harps linked by gold knots; the badge is suspended from a harp
+gold harps linked by gold [[Knot|knots]]; the badge is suspended from a harp
 surmounted by an imperial jewelled crown. The motto is _Quis separabit_?
 
 The "most honourable" _Order of the Bath_ was established by George I.
@@ -1315,7 +1315,7 @@ ribbon is garter blue and crimson and is worn round the neck.
   eligible. The members of the order have the distinction of adding the
   letters I.S.O. after their names. In precedence the order ranks after
   the _Distinguished Service Order_. The badge is a gold medallion
-  bearing the royal cipher and the words "For Faithful Service" in blue;
+  bearing the royal [[Cipher|cipher]] and the words "For Faithful Service" in blue;
   for men it rests on a silver star, for women it is surrounded by a
   silver wreath. The ribbon is one blue between two crimson stripes.
 
@@ -1361,24 +1361,24 @@ to this the sovereign was expressly subject. Thus we find that the
 emperor Charles V. accepted humbly the criticism of the knights of the
 Fleece on his over-centralization of the government and the wasteful
 personal attention to details (E. A. Armstrong, _Charles V._, 1902, ii.
-373). The knights could claim as of right to be tried by their fellows
+373). The knights could claim as of right to be tried by their [[Fellows|fellows]]
 on charges of rebellion, heresy and treason, and Charles V. conferred on
 the order exclusive jurisdiction over all crimes committed by the
 knights. The arrest of the offender had to be by warrant signed by at
 least six knights, and during the process of charge and trial he
 remained not in prison but _dans l'aimable compagnie du dit ordre_. It
 was in defiance of this right that Alva refused the claim of Counts
-Egmont and Horn to be tried by the knights of the Fleece in 1568. During
+Egmont and [[Horn]] to be tried by the knights of the Fleece in 1568. During
 the 16th century the order frequently acted as a consultative body in
 the state; thus in 1539 and 1540 Charles summons the knights with the
 council of state and the privy council to decide what steps should be
-taken in face of the revolt of Ghent (Armstrong, _op. cit._, i. 302), in
+taken in face of the revolt of [[Ghent]] (Armstrong, _op. cit._, i. 302), in
 1562 Margaret of Parma, the regent, summons them to Brussels to debate
 the dangerous condition of the provinces (Motley, i. 48), and they were
 present at the abdication of Charles in the great hall at Brussels in
 1555. The history of the order and its subsequent division into the two
 branches of Austria and Spain may be briefly summarized. By the marriage
-of Mary, only daughter of Charles the Bold of Burgundy to Maximilian,
+of Mary, only daughter of Charles the Bold of Burgundy to [[Maximilian]],
 archduke of Austria, 1477, the grand mastership of the order came to the
 house of Habsburg and, with the Netherlands provinces, to Spain in 1504
 on the accession of Philip, Maximilian's son, to Castile. On the
@@ -1420,7 +1420,7 @@ in 1907.
   stripe. The collar, only worn by the knights grand cross, is of gold,
   and consists of Hungarian crowns linked together alternately by the
   monograms of St Stephen, S.S., and the foundress, M.T.; the centre of
-  the collar is formed by a flying lark encircled by the motto _Stringit
+  the collar is formed by a flying [[Lark|lark]] encircled by the motto _Stringit
   amore_. An illustration of the star of the grand cross is given on
   Plate V. fig. 4. _The Order of Leopold_, for civil and military
   service, was founded in 1808 by the emperor Francis I. in memory of
@@ -1431,7 +1431,7 @@ in 1907.
   F.I.A., and on the encircling white fillet is the inscription
   _Integritati et Merito_. When conferred for service in war the cross
   rests on a green laurel wreath. The ribbon is scarlet with two white
-  stripes. The collar consists of imperial crowns, the initials F. and
+  stripes. The collar consists of imperial crowns, the [[Initials|initials]] F. and
   L. and oak wreaths. _The Order of the Iron Crown_, i.e. of Lombardy,
   was founded by Napoleon as king of Italy in 1809, and refounded as an
   Austrian order of civil and military merit in 1816 by the emperor
@@ -1490,7 +1490,7 @@ in 1907.
 
   _Niagara Litho. Co., Buffalo, N. Y._]
 
-  _Belgium._--The _Order of Leopold_, for civil and military merit, was
+  _[[Belgium]]._--The _Order of Leopold_, for civil and military merit, was
   founded in 1832 by Leopold I., with four classes, a fifth being added
   in 1838. The badge is a white enamelled cross, with gold borders and
   balls, suspended from a royal crown and resting on a green laurel and
@@ -1505,7 +1505,7 @@ in 1907.
   Star_ (1888), the _Royal Order of the Lion_ (1891) and the _Congo
   Star_ (1889).
 
-  _Bulgaria._--The _Order of SS Cyril and Methodius_ was instituted in
+  _[[Bulgaria]]._--The _Order of SS Cyril and Methodius_ was instituted in
   1909 by King Ferdinand to commemorate the elevation of the
   principality to the position of an independent kingdom. It now takes
   precedence of the _Order of St Alexander_, which was founded by Prince
@@ -1569,13 +1569,13 @@ the 28th of January 1897, and a decree of the 26th of June 1900. The
 president of the republic is the grand master of the order; the
 administration is in the hands of a grand chancellor, who has a council
 of the order nominated by the grand master. The chancellery is housed in
-the _Palais de la Légion de l'Honneur_, which, burnt during the Commune,
+the _Palais de la Légion de l'Honneur_, which, burnt during the [[Commune]],
 was rebuilt in 1878. The order consists of the five classes of grand
 cross (limited to 80), grand officer (200), commander (1000), officers
 (4000), and chevalier or knight, in which the number is unlimited. These
 limitations in number do not affect the foreign recipients of the order.
 Salaries (_traitements_) are attached to the military and naval
-recipients of the order when on the active list, viz. 3000 francs for
+recipients of the order when on the active list, viz. 3000 [[Franc|francs]] for
 grand cross, 2000 francs for grand officers, 1000 francs for commanders,
 250 francs for chevaliers. The numbers of the recipients of the order
 _sans traitement_ are limited through all classes. In ordinary
@@ -1594,10 +1594,10 @@ medallion is _République française_. Since 1805 there has existed an
 institution, _Maison d'éducation de la Legion d'Honneur_, for the
 education of the daughters, granddaughters, sisters and nieces of
 members of the Legion of Honour. There are three houses, at Saint Denis,
-at Écouen and Les Loges (see _Dictionnaire de l'administration
+at Écouen and Les [[Log|Loges]] (see _Dictionnaire de l'administration
 française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
 
-  Among the orders swept away at the French Revolution, restored in part
+  Among the orders swept away at the [[French Revolution]], restored in part
   at the Restoration, and finally abolished at the revolution of July
   1830 were the following: The _Order of St Michael_ was founded by
   Louis XI. in 1469 for a limited number of knights of noble birth.
@@ -1607,14 +1607,14 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   into which the _Order of St Michael_ had fallen, Henry III. founded in
   1578 the _Order of the Holy Ghost_ (_St Esprit_). The badge of the
   order was a white Maltese cross decorated in gold, with the gold
-  lilies of France at the angles, in the centre a white dove with wings
+  lilies of France at the angles, in the centre a white [[Dove|dove]] with wings
   outstretched, the ribbon was sky blue (_cordon bleu_). The motto of
   the order was _Duce et auspice_. The _Order of St Louis_ was founded
   by Louis XIV. in 1693 for military merit, and the _Order of Military
   Merit_ by Louis XV. in 1759, originally for Protestant officers.
 
   _Germany._--i. _Anhalt._ The _Order of Albert the Bear_, a family
-  order or _Hausorden_, was founded in 1836 by the dukes Henry of
+  order or _Hausorden_, was founded in 1836 by the [[Dukes|dukes]] Henry of
   Anhalt-Köthen, Leopold Frederick of Anhalt-Dessau and Alexander
   Charles of Anhalt-Bernburg. Changes in the constitution have been made
   at various dates. It now consists of five classes, grand cross,
@@ -1649,7 +1649,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   order; it was founded in 1877 as a higher class of the _Zähringen
   Lion_.
 
-  iii. _Bavaria._ The _Order of St Hubert_, one of the oldest and most
+  iii. _Bavaria._ The _Order of St [[Hubert]]_, one of the oldest and most
   distinguished knightly orders, was founded in 1444 by duke Gerhard V.
   of Jülich-Berg in honour of a victory over Count Arnold of Egmont at
   Ravensberg on the 3rd of November, St Hubert's day. The knights wore a
@@ -1664,7 +1664,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   rank of count or _Freiherr_. The badge of the order and the ribbon are
   illustrated in Plate V. fig. 3. The central medallion represents the
   conversion of St Hubert. The collar is composed of gold and blue
-  enamel figures of the conversion linked by the Gothic monogram I.T.V.,
+  enamel figures of the conversion linked by the [[Gothic]] monogram I.T.V.,
   _In Trau Vast_, the motto of the order, alternately red and green. The
   _Order of St George_, said to have been founded in the 12th century as
   a crusading order and revived by the emperor Maximilian I. in 1494,
@@ -1676,7 +1676,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   German and foreign languages," and it also has a "spiritual class."
   The members of the order must be Roman Catholics. The badge is a blue
   enamelled cross with white and gold edging suspended from the mouth of
-  a gold lion's head; in the angles of the cross are blue lozenges
+  a gold lion's head; in the angles of the cross are blue [[Lozenge|lozenges]]
   containing the letters V.I.B.I., _Virgini Immaculatae Bavaria
   Immaculata_. The central medallion contains a figure of the Immaculate
   Conception. The medallion on the reverse contains a figure of St
@@ -1698,7 +1698,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   of Brunswick, a crowned pillar and a white horse, between two sickles.
   The ribbon is deep red bordered with yellow.
 
-  v. _Hanover._ The _Order of St George_ (one class only) was instituted
+  v. _[[Hanover]]._ The _Order of St George_ (one class only) was instituted
   by King Ernest Augustus I. in 1839 as the family order of the house of
   Hanover; the _Royal Guelphic Order_ (three classes) by George, prince
   regent, afterwards George IV. of Great Britain, in 1815; and the
@@ -1708,7 +1708,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   was more British than Hanoverian, not since the death of William IV.
   in 1837. The last British grand cross was the late duke of Cambridge.
 
-  vi. _Hesse._ Of the various orders founded by the houses of
+  vi. _[[Hesse]]._ Of the various orders founded by the houses of
   Hesse-Cassel and Hesse-Darmstadt the following are still bestowed in
   the grand duchy of Hesse. The _Order of Louis_, founded by the grand
   duke Louis I. of Hesse-Darmstadt in 1807; there are five classes; the
@@ -1730,11 +1730,11 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   the grand cross can be granted to ladies. The badge is a white cross
   bearing on a blue centre the Wendish crown, surrounded by the motto,
   for the Schwerin knights, _Per aspera ad astra_, for the Strelitz
-  knights, _Avito viret honore_. The _Order of the Griffin_, founded in
+  knights, _Avito viret honore_. The _Order of the [[Griffin]]_, founded in
   1884 by Frederick Francis III. of Schwerin, was made common to the
   duchies in 1904.
 
-  viii. _Oldenberg._ The _Order of Duke Peter Frederick Louis_, a family
+  viii. _Oldenberg._ The _Order of Duke Peter [[Frederick Louis]]_, a family
   order and order of merit, was founded by the grand duke Paul Frederick
   Augustus in memory of his father in 1838. It has two divisions, each
   of five classes, of capitular knights and honorary members. The badge
@@ -1843,7 +1843,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   classes; the _Order of Civil Merit_, was founded in 1815. For ladies
   there are the _Order of Sidonia_, 1870, in memory of the wife of
   Albert the Bold, the mother (_Stamm-Mutter_) of the Albertine line;
-  and the _Maria Anna Order_, 1906.
+  and the _Maria [[Anna]] Order_, 1906.
 
   [Illustration: PLATE IV.
 
@@ -1856,7 +1856,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
 
   _Niagara Litho. Co., Buffalo, N. Y._]
 
-  xi. The duchies of _Saxe Altenburg_, _Saxe Coburg Gotha_ and _Saxe
+  xi. The duchies of _Saxe Altenburg_, _Saxe [[Coburg]] [[Gotha]]_ and _Saxe
   Meiningen_ have in common the family _Order of Ernest_, founded in
   1833 in memory of Duke Ernest the Pious of Saxe Gotha and as a revival
   of the _Order of German Integrity_ (_Orden der deutschen Redlichkeit_)
@@ -1909,7 +1909,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   the order were fifteen (Amadeus VIII. added five others in 1434).
   Charles III. decreed that the order should be called the Annunziata,
   and made some other alterations in 1518. His son and successor,
-  Emmanuel Philibert, made further modifications in the statute and the
+  [[Emmanuel]] Philibert, made further modifications in the statute and the
   costume. The church of the order was originally the Carthusian
   monastery of Pierre-châtel in the district of Bugey, but after Charles
   Emmanuel I. had given Bugey and Bresse to France in 1601 the church of
@@ -1917,7 +1917,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   That religious order having been suppressed at the time of the French
   Revolution, King Charles Albert decreed in 1840 that the Carthusian
   church of Collegno should be the chapel of the order. The knights of
-  the Annunziata have the title of "cousins of the king," and enjoy
+  the Annunziata have the title of "[[Cousin|cousins]] of the king," and enjoy
   precedence over all the other officials of the state. The costume of
   the order is of white satin embroidered in silk, with a purple velvet
   cloak adorned with roses and gold embroidery, but it is now never
@@ -1928,7 +1928,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   _Ordini Cavallereschi_ (Turin, 1846) with coloured plates of the
   costume and badges.
 
-  The _Order of St Maurice and St Lazarus_ (SS Maurizio e Lazzaro), is a
+  The _Order of St Maurice and St [[Lazarus]]_ (SS Maurizio e Lazzaro), is a
   combination of two ancient orders. The Order of St Maurice was
   originally founded by Amadeus VIII., duke of Savoy, in 1434, when he
   retired to the hermitage of Ripaille, and consisted of a group of
@@ -1949,9 +1949,9 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   was afterwards recognized as the legitimate descendant of the
   Jerusalem community, was empowered to seize and confine anyone
   suspected of leprosy, a permission which led to the establishment of a
-  regular inquisitorial system of blackmail. In the 15th and 16th
+  regular inquisitorial system of [[Blackmail|blackmail]]. In the 15th and 16th
   centuries dissensions broke out among the knights, and the order
-  declined in credit and wealth, until finally the grand master,
+  declined in [[Credit|credit]] and wealth, until finally the grand master,
   Giannotto Castiglioni, resigned his position in favour of Emmanuel
   Philibert, duke of Savoy, in 1571. Two years later the orders of St
   Lazarus and St Maurice were incorporated into one community, the
@@ -2181,9 +2181,9 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   powerful as the sovereign. In 1494-1495 Juan de Zuñiga was prevailed
   upon to resign the grand-mastership to Ferdinand, who thereupon vested
   it in his own person as king; and this arrangement was ratified by a
-  bull of Pope Alexander VI., and was declared permanent by Pope Adrian
+  [[Bull|bull]] of Pope Alexander VI., and was declared permanent by Pope Adrian
   VI. in 1523. The yearly income of Zuñiga at the time of his
-  resignation amounted to 150,000 ducats. In 1540 Pope Paul III.
+  resignation amounted to 150,000 [[Ducat|ducats]]. In 1540 Pope Paul III.
   released the knights from the strictness of Benedictine rule by giving
   them permission to marry, though second marriage was forbidden. The
   three vows were henceforth _obedientia_, _castitas conjugalis_ and
@@ -2216,7 +2216,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   originally instituted to reward loyalty in defence of the Spanish
   possessions in America, it is now a general order of merit, in three
   classes. The badge is a red rayed cross with gold rays in the angles,
-  in the centre a representation of the pillars of Hercules; the cross
+  in the centre a representation of the pillars of [[Hercules]]; the cross
   is attached to the yellow and white ribbon by a green laurel wreath.
   Other Spanish orders are the _Maria Louisa_, 1792, for noble ladies;
   the military and naval orders of merit of _St Ferdinand_, founded by
@@ -2277,7 +2277,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   founded 1831 by Mahmoud II.; the _Nischan-i-Mejidi_, the _Mejidieh_,
   was founded as a civil and military order of merit in 1851 by Abdul
   Medjid. There are five classes; the badge is a silver sun of seven
-  clustered rays, with crescent and star between each cluster; on a gold
+  clustered rays, with [[Crescent|crescent]] and star between each cluster; on a gold
   centre is the sultan's name in black Turkish lettering, surrounded by
   a red fillet inscribed with the words _Zeal_, _Devotion_, _Loyalty_;
   it is suspended from a red crescent and star; the ribbon is red with
@@ -2309,7 +2309,7 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
 
   _China._--There are no orders for natives, and such distinctions as
   are conferred by the different coloured buttons of the mandarins, the
-  grades indicated by the number of peacocks' feathers, the gift of the
+  grades indicated by the number of peacocks' [[Feather|feathers]], the gift of the
   yellow jacket and the like, are rather insignia of rank or personal
   marks of honour than orders, whether of knighthood or merit, in the
   European sense. For foreigners, however, the emperor in 1882
@@ -2349,12 +2349,12 @@ française_, by M. Block and E. Magnéro, 1905, _s.v._ "Decorations").
   deep red bordered with purple. The collar, which may be granted with
   the order or later, is composed of four members repeated, two gold
   chrysanthemums, one with green leaves, the other surrounded by a
-  wreath of palm, and two elaborate arabesque designs. The _Order of the
+  wreath of palm, and two elaborate [[Arabesque|arabesque]] designs. The _Order of the
   Paulownia Sun_ (_Tokwa Daijasho_), founded in 1888, in one class, may
   be in a sense regarded as the highest class of the _Rising Sun_
   (_Kiokujitsasho_) founded in eight classes, in 1875. The badge of both
   orders is essentially the same, viz. the red sun with white and gold
-  rays; in the former the lilac flowers of the Paulownia tree, the
+  rays; in the former the [[Lilac|lilac]] flowers of the Paulownia tree, the
   flower of the Tycoon's arms, take a prominent part. The ribbon of the
   first order is deep red with white edging, of the second scarlet with
   white central stripe. The last two classes of the _Rising Sun_ wear a
@@ -2409,7 +2409,7 @@ FOOTNOTES:
 
   [7] _Comparative Politics_, p. 74.
 
-  [8] Baluze, _Capitularia Regum Francorum_, ii. 794, 1069.
+  [8] [[Baluze]], _Capitularia Regum Francorum_, ii. 794, 1069.
 
   [9] Du Cange, _Gloss._, _s.v._ "Arma."
 
@@ -2425,7 +2425,7 @@ FOOTNOTES:
     the system of raising troops by free contract had begun. Luce (ch.
     vi.) points out how much England relied at this time on what would
     now be called conscription: and his remarks are entirely borne out by
-    the Norwich documents published by Mr W. Hudson (Norf, and Norwich
+    the Norwich documents published by Mr W. [[Hudson]] (Norf, and Norwich
     Archaeological Soc. xiv. 263 sqq.), by a Lynn corporation document of
     18th Edw. III. (Hist. MSS. Commission Report XI. Appendix pt. iii. p.
     189), and by Smyth's _Lives of the Berkeleys_, i. 312, 319, 320.
@@ -2437,12 +2437,12 @@ FOOTNOTES:
     _Mémoires_, i. 272; G. F. Beltz, _Memorials of the Order of the
     Garter_ (1841,) p. xxvii.
 
-  [16] Du Cange, _Dissertation_, xxi., and _Lancelot du Lac_, among
+  [16] Du Cange, _Dissertation_, xxi., and _[[Lancelot]] du [[Lac]]_, among
     other romances.
 
   [17] Anstis, _Register of the Order of the Garter_, i. 63.
 
-  [18] Grose, _Military Antiq._ i. 207 seq.; Stubbs, _Const. Hist._ ii.
+  [18] [[Grose]], _Military Antiq._ i. 207 seq.; Stubbs, _Const. Hist._ ii.
     276 seq., and iii. 278 seq.
 
   [19] Grose's _Military Antiquities_, ii. 256.
@@ -2508,12 +2508,12 @@ FOOTNOTES:
     15). See also Selden, _Titles of Honor_, p. 678, and the
     _Archæological Journal_, v. 258 seq.
 
-  [27] As may be gathered from Selden, Favyn, La Colombiers, Menestrier
+  [27] As may be gathered from Selden, Favyn, La [[Colombier|Colombiers]], Menestrier
     and Sainte Palaye, there were several differences of detail in the
     ceremony at different times and in different places. But in the main
     it was everywhere the same both in its military and its
     ecclesiastical elements. In the _Pontificale Romanum_, the old _Ordo
-    Romanus_ and the manual or Common Prayer Book in use in England
+    Romanus_ and the [[Manual|manual]] or Common Prayer Book in use in England
     before the Reformation forms for the blessing or consecration of new
     knights are included, and of these the first and the last are quoted
     by Selden.
@@ -2555,7 +2555,7 @@ FOOTNOTES:
     Antiquities_, ii. 206.
 
   [39] Froissart, Bk. I. ch. 241 and Bk. II. ch. 53. The recipients
-    were Sir John Chandos and Sir Thos. Trivet.
+    were Sir John [[Chandos]] and Sir Thos. Trivet.
 
   [40] _Commonwealth of England_ (ed. 1640), p. 48.
 
@@ -2607,7 +2607,7 @@ FOOTNOTES:
 
   [52] Harleian MS. 6063; Hargrave MS. 325.
 
-  [53] _Patent Rolls_, 35th Hen. VIII., pt. xvi., No. 24; Burnet,
+  [53] _Patent Rolls_, 35th Hen. VIII., pt. xvi., No. 24; [[Burnet]],
     _Hist. of Reformation_, i. 15.
 
   [54] Spelman, "De milite dissertatio," _Posthumous Works_, p. 181.
@@ -2626,14 +2626,14 @@ FOOTNOTES:
     serfs, and as such had no claim to the privileges of Magna Carta;
     disputes between a serf and his lord were decided in the latter's
     court, although the king's courts attempted to protect the serf's
-    life and limb and necessary implements of work. By French feudal law,
+    life and limb and necessary [[Implement|implements]] of work. By French feudal law,
     the villein had no appeal from his lord save to God (Pierre de
     Fontaines, _Conseil_, ch. xxi. art. 8); and, though common sense and
     natural good feeling set bounds in most cases to the tyranny of the
-    nobles, yet there was scarcely any injustice too gross to be
+    nobles, yet there was scarcely any injustice too [[Gross|gross]] to be
     possible. "How mad are they who exult when sons are born to their
     lords!" wrote Cardinal Jacques de Vitry early in the 13th century
-    (_Exempla_, p. 64, Folk Lore Soc. 1890).
+    (_Exempla_, p. 64, Folk [[Lore]] Soc. 1890).
 
   [59] Sainte Palaye, ii. 90.
 
@@ -2669,7 +2669,7 @@ FOOTNOTES:
   [64] Lecoy de la Marche (_Chaire française au moyen âge_, 2nd ed., p.
     387) gives many instances to prove that "al chevalerie, au xiii^e
     siècle, est déjà sur son déclin." But already about 1160 Peter of
-    Blois had written, "The so-called order of knighthood is nowadays
+    [[Blois]] had written, "The so-called order of knighthood is nowadays
     mere disorder" (_ordo militum nunc est, ordinem non tenere_. Ep.
     xciv.: the whole letter should be read); and, half a century earlier
     still, Guibert of Nogent gives an equally unflattering picture of

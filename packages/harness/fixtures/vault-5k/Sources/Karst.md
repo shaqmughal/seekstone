@@ -9,8 +9,8 @@ tags: [history, geography]
 
 # Karst
 
-KARST, in physical geography, the region east of the northern part of
-the Adriatic. It is composed of high and dry limestone ridges. The
+KARST, in physical [[Geography|geography]], the region east of the northern part of
+the Adriatic. It is composed of high and dry [[Limestone|limestone]] ridges. The
 country is excessively faulted by a long series of parallel fractures
 that border the N.E. Adriatic and continue inland that series of steps
 which descend beneath the sea and produce the series of long parallel

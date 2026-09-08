@@ -26,7 +26,7 @@ Industry under the Christian Law_ (1893); _The Church and the Kingdom_
 _Seven Puzzling Bible Books_ (1897); _How much is Left of the Old
 Doctrines_ (1899); _Social Salvation_ (1901); _Witnesses of the Light_
 (1903); the William Belden Noble Lectures (Harvard), being addresses on
-Dante, Michelangelo, Fichte, Hugo, Wagner and Ruskin; _The New Idolatry_
+[[Dante]], Michelangelo, Fichte, [[Hugo]], Wagner and Ruskin; _The New Idolatry_
 (1905); _Christianity and Socialism_ (1906), and _The Church and Modern
 Life_ (1908). In 1909 he published his _Recollections_.
 

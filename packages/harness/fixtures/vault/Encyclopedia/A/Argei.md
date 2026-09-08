@@ -1,10 +1,10 @@
 # Argei
 
 ARGEI, the name given by the ancient Romans to a number of rush puppets
-(24 or 27 according to the reading of Varro, _de Ling_. _lat_. vii. 44,
-or 30 according to Dionysius i. 38) resembling men tied hand and foot,
+(24 or 27 according to the reading of Varro, _de [[Ling]]_. _lat_. vii. 44,
+or 30 according to [[Dionysius]] i. 38) resembling men tied hand and foot,
 which were taken down to the ancient bridge over the Tiber (_pans
-sublicius_) on the 14th of May by the pontifices and magistrates, with
+sublicius_) on the 14th of May by the pontifices and [[Magistrate|magistrates]], with
 the flaminica Dialis in mourning guise, and there thrown into the Tiber
 by the Vestal virgins. There were also in various parts of the four
 Servian regions of the city a number of _sacella Argeorum_ (chapels),
@@ -23,13 +23,13 @@ dramatic rather than sacrificial character, and that its object was
 possibly to procure rain; (2) that of Wissowa, who refuses to date it
 farther back than the latter half of the 3rd century B.C., and sees in
 it the yearly representation of an original sacrifice of twenty-seven
-captive Greeks (taking Argei as a Latin form of [Greek: Argeioi]) by
+[[Captive|captive]] Greeks (taking Argei as a Latin form of [Greek: Argeioi]) by
 drowning in the Tiber. This second theory is, however, not borne out by
 any Roman historical record.
 
   See Wissowa's arguments in the article "Argei" in his edition of
   Pauly's _Realencydopadie_. For the other view see W. Mannhardt,
-  _Antike Wald und Feldkulte_, 178 foll.; W.W. Fowler, _Roman
+  _Antike Wald und Feldkulte_, 178 foll.; W.W. [[Fowler]], _Roman
   Festivals_, pp. 111 foll.     (W. W. F.*)
 
 ## References

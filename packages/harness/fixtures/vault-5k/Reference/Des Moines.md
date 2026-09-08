@@ -12,7 +12,7 @@ county-seat of Polk county, in the south central part of the state, at
 the confluence of the Raccoon with the Des Moines river. Pop. (1890)
 50,093; (1900) 62,139, of whom 7946 were foreign-born, including 1907
 from Sweden and 1432 from Germany; (1910 census) 86,368. Des Moines is
-served by the Chicago, Burlington & Quincy, the Chicago & North-Western,
+served by the [[Chicago]], [[Burlington]] & Quincy, the Chicago & North-Western,
 the Chicago Great Western, the Chicago, Milwaukee & St Paul, the
 Chicago, Rock Island & Pacific, the Wabash, the Minneapolis & St Louis,
 and the Des Moines, Iowa Falls & Northern railways; also by several
@@ -22,11 +22,11 @@ buildings are the public library (containing, in 1908, 40,415 volumes),
 the court house, the post office, the Iowa State Historical building, a
 large auditorium and two hospitals. As a manufacturing centre the city
 has considerable importance. Among the leading products are those of the
-furnaces, foundries and machine shops, flour and grist mills, planing
+furnaces, foundries and [[Machine|machine]] shops, flour and grist mills, planing
 mills, creameries, bridge and iron works, publishing houses and a
-packing house; and brick, tile, pottery, patent medicines, furniture,
+packing house; and [[Brick|brick]], tile, pottery, patent medicines, furniture,
 caskets, tombstones, carriages, farm machinery, Portland cement, glue,
-gloves and hosiery. The value of the factory product in 1905 was
+[[Glove|gloves]] and [[Hosiery|hosiery]]. The value of the factory product in 1905 was
 $15,084,958, an increase of 79.7% in five years. The city is in one of
 the most productive coal regions of the state, has a large jobbing
 trade, and is an important centre for the insurance business. The Iowa
@@ -34,7 +34,7 @@ state fair is held here annually. In 1908 this city had a park system of
 750 acres. Des Moines is the seat of Des Moines College, a Baptist
 institution, co-educational, founded in 1865 (enrolment, 1907-1908,
 214); of Drake University (co-educational; founded in 1881 by the
-Disciples of Christ; now non-sectarian), with colleges of liberal arts,
+[[Disciples Of Christ|Disciples of Christ]]; now non-sectarian), with colleges of liberal arts,
 law, medicine, dental surgery and of the Bible, a conservatory of music,
 and a normal school, in which are departments of oratory and commercial
 training, and having in 1907-1908 1764 students, of whom 520 were in the

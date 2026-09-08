@@ -9,11 +9,11 @@ topic: republic-theory
 ISLY, the name of a small river on the Moroccan-Algerian frontier, a
 sub-tributary of the Tafna, famous as the scene of the greatest victory
 of the French army in the Algerian wars. The intervention of Morocco on
-the side of Abd-el-Kader led at once to the bombardment of Tangier by
-the French fleet under the prince de Joinville, and the advance of the
+the side of Abd-el-Kader led at once to the [[Bombardment|bombardment]] of Tangier by
+the French fleet under the prince de [[Joinville]], and the advance of the
 French army of General Bugeaud (1844). The enemy, 45,000 strong, was
 found to be encamped on the Isly river near Kudiat-el-Khodra. Bugeaud
-disposed of some 6500 infantry and 1500 cavalry, with a few pieces of
+disposed of some 6500 infantry and 1500 [[Cavalry|cavalry]], with a few pieces of
 artillery. In his own words, the formation adopted was "a boar's head."
 With the army were Lamoriciere, Pelissier and other officers destined to
 achieve distinction. On the 14th of August the "boar's head" crossed the

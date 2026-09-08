@@ -1,7 +1,7 @@
 # Butter
 
 BUTTER (Lat. _butyrum_, Gr. [Greek: bouturon], apparently connected with
-[Greek: bous], cow, and [Greek: turos], cheese, but, according to the _New
+[Greek: bous], cow, and [Greek: turos], [[Cheese|cheese]], but, according to the _New
 English Dictionary_, perhaps of Scythian origin), the fatty portion of the
 milk of mammalian animals. The milk of all mammals contains such fatty
 constituents, and butter from the milk of goats, sheep and other animals

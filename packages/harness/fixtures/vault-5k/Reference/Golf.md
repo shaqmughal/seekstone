@@ -7,8 +7,8 @@ topic: ethics
 # Golf
 
 GOLF (in its older forms GOFF, GOUFF or GOWFF, the last of which gives
-the genuine old pronunciation), a game which probably derives its name
-from the Ger. _kolbe_, a club--in Dutch, _kolf_--which last is nearly in
+the genuine old pronunciation), a [[Game|game]] which probably derives its name
+from the Ger. _[[Kolbe|kolbe]]_, a club--in Dutch, _kolf_--which last is nearly in
 sound identical and might suggest a Dutch origin,[1] which many pictures
 and other witnesses further support.
 
@@ -37,7 +37,7 @@ ilk paroche kirk a pair of buttis, and _schuttin be usit ilk Sunday_."
 Fourteen years afterwards, in May 1471, it was judged necessary to pass
 another act "anent wapenshawings," and in 1491 a final and evidently
 angry fulmination was issued on the general subject, with pains and
-penalties annexed. It runs thus--"Futeball and Golfe forbidden. Item, it
+penalties annexed. It runs thus--"Futeball and Golfe forbidden. [[Item]], it
 is statut and ordainit that in na place of the realme there be usit
 fute-ball, _golfe, or uther sik unprofitabill sportis_," &c. This, be it
 noted, is an edict of James IV.; and it is not a little curious
@@ -60,7 +60,7 @@ club before him, James IV. is the first who figures formally in the
 golfing record. James V. was also very partial to the game distinctively
 known as "royal"; and there is some scrap of evidence to show that his
 daughter, the unhappy Mary Stuart, was a golfer. It was alleged by her
-enemies that, as showing her shameless indifference to the fate of her
+enemies that, as showing her shameless indifference to the [[Fate|fate]] of her
 husband, a very few days after his murder, she "was seen playing _golf_
 and pallmall in the fields beside Seton."[3] That her son, James VI.
 (afterwards James I. of England), was a golfer, tradition confidently
@@ -69,7 +69,7 @@ practice of the game is slight. Of the interest he took in it we have
 evidence in his act--already alluded to--"anent _golfe ballis_,"
 prohibiting their importation, except under certain restrictions.
 Charles I. (as his brother Prince Henry had been[4]) was devotedly
-attached to the game. Whilst engaged in it on the links of Leith, in
+attached to the game. Whilst engaged in it on the links of [[Leith]], in
 1642, the news reached him of the Irish rebellion of that year. He had
 not the equanimity to finish his match, but returned precipitately and
 in much agitation to Holyrood.[5] Afterwards, while prisoner to the
@@ -84,7 +84,7 @@ king to parliament, and an historical monument of his prowess as a
 golfer remains there to this day in the "Golfer's Land," as it is still
 called, 77 Canongate. The duke having been challenged by two English
 noblemen of his suite, to play a match against them, for a very large
-stake, along with any Scotch ally he might select, chose as his partner
+stake, along with any Scotch ally he might select, [[Chose|chose]] as his partner
 one "Johne Patersone," a shoemaker. The duke and the said Johne won
 easily, and half of the large stake the duke made over to his humble
 coadjutor, who therewith built himself the house mentioned above. In
@@ -114,7 +114,7 @@ Blackheath a few Scotsmen resident in London had long played golf. In
 1864 the Royal North Devon Club was formed at Westward Ho, and this was
 the first of the seaside links discovered and laid out for golf in
 England. In 1869 the Royal Liverpool Club established itself in
-possession of the second English course of this quality at Hoylake, in
+possession of the second English course of this quality at [[Hoylake]], in
 Cheshire. A golf club was formed in connexion with the London Scottish
 Volunteers corps, which had its house on the Putney end of Wimbledon
 Common on Putney Heath; and, after making so much of a start, the
@@ -163,7 +163,7 @@ receipts of railway companies.
 Moreover, ladies have learned to play golf. Although this is a crude and
 brief sentence, it does not state the fact too widely nor too forcibly,
 for though it is true that before 1885 many played on the short links of
-St Andrews, North Berwick, Westward Ho and elsewhere, still it was
+St Andrews, North [[Berwick]], Westward Ho and elsewhere, still it was
 virtually unknown that they should play on the longer courses, which
 till then had been in the undisputed possession of the men. At many
 places women now have their separate links, at others they play on the
@@ -185,7 +185,7 @@ successive years. Now the ancient green of Musselburgh, somewhat worn
 out with length of hard and gallant service, and moreover, as a
 nine-holes course inadequately accommodating the numbers who compete in
 the championships to-day, has been superseded by the course at Muirfield
-as a championship arena.
+as a championship [[Arena|arena]].
 
 While golf had been making itself a force in the southern kingdom, the
 professional element--men who had learned the game from childhood, had
@@ -229,10 +229,10 @@ golf described it, to a waste corner, a kind of "Jews' Quarter," of the
 links. And the Americans have taken up golf in the spirit of a sumptuous
 and opulent people, spending money on magnificent clubhouses beyond the
 finest dreams of the Englishman or the Scot. The greatest success
-achieved by any American golfer fell to the lot of Mr Walter Travis of
+achieved by any American golfer fell to the [[Lot|lot]] of Mr Walter Travis of
 the Garden City club, who in 1904 won the British amateur championship.
 
-So much enthusiasm and so much golf in America have not failed to make
+So much [[Enthusiasm|enthusiasm]] and so much golf in America have not failed to make
 their influence felt in the United Kingdom. Naturally and inevitably
 they have created a strong demand for professional instruction, both by
 example and by precept, and for professional advice and assistance in
@@ -249,7 +249,7 @@ _The Game._--The game of golf may be briefly defined as consisting in
 hitting the ball over a great extent of country, preferably of that
 sand-hill nature which is found by the seaside, and finally hitting or
 "putting" it into a little hole of some 4 in. diameter cut in the turf.
-The place of the hole is commonly marked by a flag. Eighteen is the
+The place of the hole is commonly marked by a [[Flag|flag]]. Eighteen is the
 recognized number of these holes on a full course, and they are at
 varying distances apart, from 100 yds. up to anything between a 1/4 and
 1/2 m. For the various strokes required to achieve the hitting of the
@@ -268,7 +268,7 @@ sand-hill, or in a bunker, a differently-shaped club is required for
 raising it over such an obstacle from that which is needed when it is
 placed on the tee to start with; and again, that another club is needed
 to strike the ball out of a cup or out of heavy grass. It is this
-variety that gives the game its charm. Each player plays with his own
+variety that gives the game its [[Charm|charm]]. Each player plays with his own
 ball, with no interference from his opponent, and the object of each is
 to hit the ball from the starting-point into each successive hole in the
 fewest strokes. The player who at the end of the round (i.e. of the
@@ -305,10 +305,10 @@ redoubtable adversary.
   England--Hoylake, Sandwich and Deal. This brief list is very far from
   being complete as regards links of first-class quality in Great
   Britain. Besides those named, there are in Scotland--Carnoustie, North
-  Berwick, Cruden Bay, Nairn, Aberdeen, Dornoch, Troon, Machrihanish,
-  South Uist, Islay, Gullane, Luffness and many more. In England there
+  Berwick, Cruden Bay, Nairn, Aberdeen, [[Dornoch]], Troon, Machrihanish,
+  South Uist, [[Islay]], Gullane, Luffness and many more. In England there
   are--Westward Ho, Bembridge, Littlestone, Great Yarmouth, Brancaster,
-  Seaton Carew, Formby, Lytham, Harlech, Burnham, among the seaside
+  Seaton Carew, Formby, Lytham, [[Harlech]], Burnham, among the seaside
   ones; while of the inland, some of them of very fine quality, we
   cannot even attempt a selection, so large is their number and so
   variously estimated their comparative merits. Ireland has Portrush,
@@ -325,7 +325,7 @@ redoubtable adversary.
   The Open Championship of golf was started in 1860 by the Prestwick
   Club giving a belt to be played for annually under the condition that
   it should become the property of any who could win it thrice in
-  succession. The following is the list of the champions:--
+  succession. The following is the list of the [[Champion|champions]]:--
 
     1860. W. Park, Musselburgh           174--at Prestwick.
     1861. Tom Morris, sen., Prestwick    163--at Prestwick.
@@ -363,16 +363,16 @@ redoubtable adversary.
     1880. Bob Fergusson, Musselburgh      162--at Musselburgh.
     1881. Bob Fergusson, Musselburgh      170--at Prestwick.
     1882. Bob Fergusson, Musselburgh      171--at St Andrews.
-    1883. W. Fernie, Dumfries             159--at Musselburgh.
-    1884. Jack Simpson, Carnoustie        160--at Prestwick.
+    1883. W. [[Fernie]], Dumfries             159--at Musselburgh.
+    1884. Jack Simpson, [[Carnoustie]]        160--at Prestwick.
     1885. Bob Martin, St Andrews          171--at St Andrews.
     1886. D. Brown, Musselburgh           157--at Musselburgh.
     1887. Willie Park, jun., Musselburgh  161--at Prestwick.
-    1888. Jack Burns, Warwick             171--at St Andrews.
+    1888. Jack [[Burns]], Warwick             171--at St Andrews.
     1889. Willie Park, jun., Musselburgh  155--at Musselburgh.
     1890. Mr John Ball, jun., Hoylake     164--at Prestwick.
     1891. Hugh Kirkaldy, St Andrews       166--at St Andrews.
-    1892. Mr H. H. Hilton, Hoylake        305--at Muirfield.
+    1892. Mr H. H. [[Hilton]], Hoylake        305--at Muirfield.
     1893. W. Auchterlonie, St Andrews     322--at Prestwick.
     1894. J. H. Taylor, Winchester        326--at Sandwich.
     1895. J. H. Taylor, Winchester        322--at St Andrews.
@@ -387,7 +387,7 @@ redoubtable adversary.
     1904. J. White, Sunningdale           296--at Sandwich.
     1905. J. Braid, Walton Heath          318--at St Andrews.
     1906. J. Braid, Walton Heath          300--at Muirfield.
-    1907. Arnaud Massey, La Boulie        312--at Hoylake.
+    1907. [[Arnaud]] [[Massey]], La Boulie        312--at Hoylake.
     1908. J. Braid, Walton Heath          291--at Prestwick.
     1909. J. H. Taylor, Richmond          295--at Deal.
     1910. J. Braid, Walton Heath          298--at St Andrews.
@@ -413,7 +413,7 @@ redoubtable adversary.
     1902. Mr C. Hutchings          at Hoylake.
     1903. Mr R. Maxwell            at Muirfield.
     1904. Mr W. J. Travis          at Sandwich.
-    1905. Mr A. G. Barry           at St Andrews.
+    1905. Mr A. G. [[Barry]]           at St Andrews.
     1906. Mr J. Robb               at Hoylake.
     1907. Mr John Ball             at St Andrews.
     1908. Mr E. A. Lassen          at Sandwich.
@@ -430,7 +430,7 @@ redoubtable adversary.
     1898. Miss L. Thompson         at Yarmouth.
     1899. Miss M. Hezlet           at Newcastle.
     1900. Miss R. K. Adair         at Westward Ho.
-    1901. Miss M. A. Graham        at Aberdovy.
+    1901. Miss M. A. [[Graham]]        at Aberdovy.
     1902. Miss M. Hezlet           at Deal.
     1903. Miss R. K. Adair         at Portrush.
     1904. Miss L. Dod              at Troon.
@@ -443,7 +443,7 @@ redoubtable adversary.
 
 There have been some slight changes of detail and arrangement as time
 has gone on, in the rules of the game (the latest edition of the Rules
-should be consulted). A new class of golfer has arisen, requiring a code
+should be consulted). A new class of golfer has arisen, requiring a [[Code|code]]
 of rules framed rather more exactly than the older code. The Scottish
 golfer, who was "teethed" on a golf club, as Mr Andrew Lang has
 described it, imbibed all the traditions of the game with his natural
@@ -478,7 +478,7 @@ questions that are sent up to it by clubs or by individuals; and the
 committee's answers to these questions have the force of law until they
 have come before the next general meeting of the Royal and Ancient Club
 at St Andrews, which may confirm or may reject them at will. The ladies
-of Great Britain manage otherwise. They have a Golfing Union which
+of Great Britain [[Manage|manage]] otherwise. They have a Golfing Union which
 settles questions for them; but since this union itself accepts as
 binding the answers given by the Rules of Golf Committee, they really
 arrive at the same conclusions by a slightly different path. Nor does
@@ -486,10 +486,10 @@ the American Union, governing the play of men and women alike in the
 States, really act differently. The Americans naturally reserve to
 themselves freedom to make their own rules, but in practice they conform
 to the legislation of Scotland, with the exception of a more drastic
-definition of the status of the amateur player, and certain differences
+[[Definition|definition]] of the status of the amateur player, and certain differences
 as to the clubs used.
 
-A considerable modification has been effected in the implements of the
+A considerable modification has been effected in the [[Implement|implements]] of the
 game. The tendency of the modern wooden clubs is to be short in the head
 as compared with the clubs of, say, 1880 or 1885. The advantage claimed
 (probably with justice) for this shape is that it masses the weight
@@ -503,7 +503,7 @@ the local club-makers' shops all the kingdom over, but is an important
 branch of the commerce of the stores and of the big athletic outfitters,
 both in Great Britain and in the United States. By far the largest
 modification in the game since the change to gutta-percha balls from
-balls of leather-covering stuffed with feathers, is due to the American
+balls of leather-covering stuffed with [[Feather|feathers]], is due to the American
 invention of the india-rubber cased balls. Practically it is as an
 American invention that it is still regarded, although the British law
 courts decided, after a lengthy trial (1905), that there had been "prior
@@ -599,7 +599,7 @@ for all the life of a man or woman.
 
   _Brassy._--A wooden club with a brass sole.
 
-  _Bulger._--A driver in which the face "bulges" into a convex shape.
+  _Bulger._--A driver in which the face "bulges" into a [[Convex|convex]] shape.
   The head is shorter than in the older-fashioned driver.
 
   _Bunker._--A sand-pit.
@@ -608,7 +608,7 @@ for all the life of a man or woman.
   than remain for play.
 
   _Caddie._--The person who carries the clubs. Diminutive of "cad"; cf.
-  laddie (from Fr. _cadet_).
+  laddie (from Fr. _[[Cadet|cadet]]_).
 
   _Cleek._--The iron-headed club that is capable of the farthest drive
   of any of the clubs with iron heads.
@@ -651,7 +651,7 @@ for all the life of a man or woman.
   _Handicap._--The strokes which a player receives either in match play
   or competition.
 
-  _Hanging._--Said of a ball that lies on a slope inclining downwards in
+  _[[Hanging]]._--Said of a ball that lies on a slope inclining downwards in
   regard to the direction in which it is wished to drive.
 
   _Hazard._--A general term for bunker, whin, long grass, roads and all
@@ -764,11 +764,11 @@ for all the life of a man or woman.
   compiled, with assistance, by Mr Horace Hutchinson, is in the first
   place a picture-gallery of famous golfers in their respective
   attitudes of play. Taylor, Vardon and Braid have each contributed a
-  volume of instruction, and Mr G. W. Beldam has published a book with
+  volume of instruction, and Mr G. W. [[Beldam]] has published a book with
   admirable photographs of players in action, called _Great Golfers:
   their Methods at a Glance_. A work intended for the use of green
   committees is among the volumes of the _Country Life_ Library of
-  Sport. Much interesting lore is contained in the _Golfing Annual_, in
+  Sport. Much interesting [[Lore|lore]] is contained in the _Golfing Annual_, in
   the _Golfer's Year Book_ and in the pages of _Golf_, which has now
   become _Golf Illustrated_, a weekly paper devoted to the game. Among
   works that have primarily a local interest, but yet contain much of

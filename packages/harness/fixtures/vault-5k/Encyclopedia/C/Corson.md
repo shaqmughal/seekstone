@@ -13,7 +13,7 @@ became professor emeritus) of English literature, a chair formed for
 him. He edited Chaucer's _Legende of Goode Women_ (1863) and _Selections
 from Chaucer's Canterbury Tales_ (1896), and wrote a _Hand-Book of
 Anglo-Saxon and Early English_ (1871), and, among other text-books, _An
-Elocutionary Manual_ (1864), _A Primer of English Verse_ (1892), and
+Elocutionary [[Manual]]_ (1864), _A Primer of English Verse_ (1892), and
 _Introductions_ to the study of Browning (1886, 1889), of Shakespeare
 (1889) and of Milton (1899). The volume on Shakespeare and the _Jottings
 on the Text of Macbeth_ (1874) contain some excellent Shakespearian

@@ -13,9 +13,9 @@ meal the next week. From this started the Club, the members of which
 delighted to call themselves "The Steaks." Among them were Hogarth,
 Garrick, Wilkes, Bubb Doddington and many other celebrities. The
 rendezvous was the theatre till the fire in 1808, when the club moved
-first to the Bedford Coffee House, and the next year to the Old Lyceum.
-In 1785 the prince of Wales joined, and later his brothers the dukes of
-Clarence and Sussex became members. On the burning of the Lyceum, "The
+first to the [[Bedford]] Coffee House, and the next year to the Old [[Lyceum]].
+In 1785 the prince of Wales joined, and later his brothers the [[Dukes|dukes]] of
+[[Clarence]] and Sussex became members. On the burning of the Lyceum, "The
 Steaks" met again in the Bedford Coffee House till 1838, when the New
 Lyceum was opened, and a large room there was allotted the club. These
 meetings were held till the club ceased to exist in 1867. Thomas

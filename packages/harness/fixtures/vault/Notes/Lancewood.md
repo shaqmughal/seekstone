@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lancewood"
 # Lancewood
 
 LANCEWOOD, a straight-grained, tough, light elastic wood obtained from
-the West Indies and Guiana. It is brought into commerce in the form of
+the West Indies and [[Guiana]]. It is brought into commerce in the form of
 taper poles of about 20 ft. in length and from 6 to 8 in. in diameter at
 the thickest end. Lancewood is used by carriage-builders for shafts; but
 since the practice of employing curved shafts has come largely into use
@@ -19,7 +19,7 @@ obtained from two members of the natural order Anonaceae. The black
 lancewood or carisiri of Guiana (_Guatteria virgata_) grows to a height
 of 50 ft., is of remarkably slender form, and seldom yields wood more
 than 8 in. diameter. The yellow lancewood tree (_Duguetia quitarensis_,
-yari-yari, of Guiana) is of similar dimensions, found in tolerable
+yari-yari, of Guiana) is of similar [[Dimension|dimensions]], found in tolerable
 abundance throughout Guiana, and used by the Indians for arrow-points,
 as well as for spars, beams, &c.
 

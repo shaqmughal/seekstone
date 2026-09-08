@@ -9,7 +9,7 @@ facility of the other. We admire in Da Vinci's heads a heavenly
 contentment and smile, in his technical execution great gloss and
 smoothness of finish. Credi's faces disclose a smiling beatitude; his
 pigments have the polish of enamel. But Da Vinci imparted life to his
-creations and modulation to his colours, and these are qualities which
+creations and modulation to his [[Colours|colours]], and these are qualities which
 hardly existed in Credi. Perugino displayed a well-known form of
 tenderness in heads, moulded on the models of the old Umbrian school.
 Peculiarities of movement and attitude become stereotyped in his

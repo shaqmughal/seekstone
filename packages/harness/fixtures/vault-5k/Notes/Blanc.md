@@ -13,7 +13,7 @@ Bonaparte. Failing to receive aid from Pozzo di Borgo, his mother's
 uncle, Louis Blanc studied law in Paris, living in poverty, and became a
 contributor to various journals. In the _Revue du progres_, which he
 founded, he published in 1839 his study on _L'Organisation du travail_.
-The principles laid down in this famous essay form the key to Louis
+The principles laid down in this famous essay form the [[Key|key]] to Louis
 Blanc's whole political career. He attributes all the evils that afflict
 society to the pressure of competition, whereby the weaker are driven to
 the wall. He demanded the equalization of wages, and the merging of
@@ -43,10 +43,10 @@ honnetes gens_ (Paris, 1849), written in London after his flight; but by
 the insurgent mob of the 15th of May and by the victorious Moderates
 alike he was regarded as responsible. Between the _sansculottes_, who
 tried to force him to place himself at their head, and the national
-guards, who maltreated him, he was nearly done to death. Rescued with
-difficulty, he escaped with a false passport to Belgium, and thence to
+[[Guards|guards]], who maltreated him, he was nearly done to death. Rescued with
+difficulty, he escaped with a false passport to [[Belgium]], and thence to
 London; in his absence he was condemned by the special tribunal
-established at Bourges, _in contumaciam_, to deportation. Against trial
+established at [[Bourges]], _in contumaciam_, to [[Deportation|deportation]]. Against trial
 and sentence he alike protested, developing his protest in a series of
 articles in the _Nouveau Monde_, a review published in Paris under his
 direction. These he afterwards collected and published as _Pages de
@@ -67,7 +67,7 @@ and served as a private in the national guard. On the 8th of February
 maintained that the republic was "the necessary form of national
 sovereignty," and voted for the continuation of the war; yet, though a
 member of the extreme Left, he was too clear-minded to sympathize with
-the Commune, and exerted his influence in vain on the side of
+the [[Commune]], and exerted his influence in vain on the side of
 moderation. In 1878 he advocated the abolition of the presidency and the
 senate. In January 1879 he introduced into the chamber a proposal for
 the amnesty of the Communists, which was carried. This was his last

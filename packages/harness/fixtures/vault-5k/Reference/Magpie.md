@@ -13,7 +13,7 @@ led to this result, yet the injuries it causes are exaggerated by common
 report; and in many countries of Europe it is still the tolerated or
 even the cherished neighbour of every farmer, as it formerly was in
 England if not in Scotland also. It did not exist in Ireland in 1617,
-when Fynes Morison wrote his _Itinerary_, but it had appeared there
+when [[Fyne|Fynes]] Morison wrote his _Itinerary_, but it had appeared there
 within a hundred years later, when Swift mentions its occurrences in his
 _Journal to Stella_, 9th July 1711. It is now common enough in that
 country, and there is a widespread but unfounded belief that it was
@@ -27,7 +27,7 @@ Since the persecution to which the pie has been subjected in Great
 Britain, its habits have altered greatly. It is no longer the merry,
 saucy hanger-on of the homestead, but is become the suspicious thief,
 shunning the gaze of man, and knowing that danger may lurk in every
-bush. Hence opportunities of observing it fall to the lot of few, and
+bush. Hence opportunities of observing it fall to the [[Lot|lot]] of few, and
 most persons know it only as a curtailed captive in a wicker cage, where
 its vivacity and natural beauty are lessened or wholly lost. At large
 few European birds possess greater beauty, the pure white of its
@@ -41,7 +41,7 @@ hollow cup, plastered with earth, and lined with fibres; but around this
 is erected a firmly interwoven, basket-like outwork of thorny sticks,
 forming a dome over the nest, and leaving but a single hole in the side
 for entrance and exit, so that the whole structure is rendered almost
-impregnable. Herein are laid from six to nine eggs, of a pale
+impregnable. Herein are laid from six to nine [[Egg|eggs]], of a pale
 bluish-green freckled with brown and blotched with ash-colour.
 Superstition as to the appearance of the pie still survives even among
 many educated persons, and there are several versions of a rhyming adage

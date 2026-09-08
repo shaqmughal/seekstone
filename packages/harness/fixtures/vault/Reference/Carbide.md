@@ -6,16 +6,16 @@ topic: religion
 
 # Carbide
 
-CARBIDE, in chemistry, a compound of carbon with another element. The
+CARBIDE, in [[Chemistry|chemistry]], a compound of [[Carbon|carbon]] with another element. The
 introduction of the electric furnace into practical chemistry was
 followed by the preparation of many metallic carbides previously
 unknown, some of which, especially calcium carbide, are now of great
 commercial importance. Carbides of the following general formulae have
-been obtained by H. Moissan (M denotes an atom of metal and C of
+been obtained by H. Moissan (M denotes an [[Atom|atom]] of metal and C of
 carbon):--
 
 M3C = manganese, iron; M2C = molybdenum; M3C2 = chromium; MC =
-zirconium; M4C3 = beryllium, aluminium; M2C3 = uranium; MC2 = barium,
+zirconium; M4C3 = [[Beryllium|beryllium]], aluminium; M2C3 = uranium; MC2 = [[Barium|barium]],
 calcium, strontium, lithium, thorium, &c.; MC4 = chromium.
 
 The principal methods for the preparation of carbides may be classified
@@ -26,7 +26,7 @@ high temperatures, e.g. calcium, barium, strontium, manganese, chromium,
 of carbon, e.g. calcium, lithium; (4) by the action of metals on
 acetylene or metallic derivatives of acetylene, e.g., sodium, potassium.
 The metallic carbides are crystalline solids, the greater number being
-decomposed by water into a metallic hydrate and a hydrocarbon; sometimes
+decomposed by water into a metallic hydrate and a [[Hydrocarbon|hydrocarbon]]; sometimes
 hydrogen is also evolved. Calcium carbide owes its industrial importance
 to its decomposition into acetylene; lithium carbide behaves similarly.
 Methane is yielded by aluminium and beryllium carbides, and, mixed with

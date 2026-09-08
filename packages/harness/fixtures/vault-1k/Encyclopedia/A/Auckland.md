@@ -71,7 +71,7 @@ daughters. On the death of his son George, 2nd baron and earl of
 Auckland (q.v.), the barony passed to the 1st baron's younger son Robert
 John (1790-1870), bishop of Bath and Wells, from whom the later barons
 were descended, and who was also the father of Sir Ashley Eden
-(1831-1887), lieutenant-governor of Bengal. The 1st baron had two
+(1831-1887), lieutenant-governor of [[Bengal]]. The 1st baron had two
 distinguished brothers--Morton Eden (1752-1830), a diplomatist, who
 married Lady Elizabeth Henley, and in 1799 was created 1st Baron Henley
 (his family, from 1831, taking the name of Henley instead of Eden); and

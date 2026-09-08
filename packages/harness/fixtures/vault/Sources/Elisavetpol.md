@@ -1,9 +1,9 @@
 # Elisavetpol
 
 ELISAVETPOL, a government of Russia, Transcaucasia, having the
-governments of Tiflis and Daghestan on the N., Baku on the E., and
+governments of Tiflis and [[Daghestan]] on the N., Baku on the E., and
 Erivan and Tiflis on the W. and Persia on the S. Area, 16,721 sq. m. It
-includes: (a) the southern slope of the main Caucasus range in the
+includes: (a) the southern slope of the main [[Caucasus]] range in the
 north-east, where Bazardyuzi (14,770 ft.) and other peaks rise above the
 snow-line; (b) the arid and unproductive steppes beside the Kura,
 reaching 1000 ft. of altitude in the west and sinking to 100-200 ft. in
@@ -14,7 +14,7 @@ chains of mountains consisting of trachytes and various crystalline
 rocks, and reaching 12,845 ft. in Mount Kapujikh. Elsewhere the country
 has the character of a plateau, 7000 to 8000 ft. high, deeply trenched
 by tributaries of the Aras. All varieties of climate are found from that
-of the snowclad peaks, Alpine meadows, and stony deserts of the high
+of the snowclad peaks, Alpine meadows, and stony [[Desert|deserts]] of the high
 levels, to that of the hill slopes, clothed with gardens and vineyards,
 and of the arid Caspian steppes. Thus, at Shusha, on the plateau, at an
 altitude of 3680 ft., the average temperatures are: year 48°, January
@@ -34,7 +34,7 @@ every year). Nearly 8000 acres are under vines, the yield of wine
 averaging 82½ million gallons annually. Gardening reaches a high
 standard of perfection. Liquorice root is obtained to the extent of
 about 35,000 tons annually. The rearing of live-stock is largely carried
-on on the steppes. Copper, magnetic iron ore, cobalt and a small
+on on the steppes. Copper, magnetic iron ore, [[Cobalt|cobalt]] and a small
 quantity of naphtha are extracted, and nearly 10,000 persons are
 employed in manufacturing industry--copper works and silk-mills.
 Carpet-weaving is widely spread. Owing to the Transcaucasian railway,

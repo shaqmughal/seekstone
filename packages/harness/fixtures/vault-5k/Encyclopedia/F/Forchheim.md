@@ -9,10 +9,10 @@ type: note
 
 FORCHHEIM, a town of Germany, in the kingdom of Bavaria, near the
 confluence of the Wiesent and the Regnitz, 16 m. S.S.E. of Bamberg. Pop.
-(1905) 8417. It has four Roman Catholic churches, including the Gothic
+(1905) 8417. It has four Roman Catholic churches, including the [[Gothic]]
 Collegiate church and a Protestant church. Among the other public
 buildings are the progymnasium and an orphanage. The industries of the
-town include spinning and weaving, bleaching and dyeing, bone and glue
+town include spinning and weaving, [[Bleaching|bleaching]] and dyeing, [[Bone|bone]] and glue
 works, brewing and paper-making. The spacious chateau occupies the site
 of the Carolingian palace which was destroyed in 1246.
 

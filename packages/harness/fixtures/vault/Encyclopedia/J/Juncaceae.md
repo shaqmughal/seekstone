@@ -12,7 +12,7 @@ belonging to the series Liliiflorae of the class Monocotyledons,
 containing about two hundred species in seven genera, widely distributed
 in temperate and cold regions. It is well represented in Britain by the
 two genera which comprise nearly the whole order--_Juncus_, rush, and
-_Luzula_, woodrush. They are generally perennial herbs with a creeping
+_Luzula_, woodrush. They are generally perennial [[Herb|herbs]] with a creeping
 underground stem and erect, unbranched, aerial stems, bearing slender
 leaves which are grass-like or cylindrical or reduced to membranous
 sheaths. The small inconspicuous flowers are generally more or less
@@ -23,7 +23,7 @@ number and arrangement of parts as in the order Liliaceae, from which
 they differ in the inconspicuous membranous character of the perianth,
 the absence of honey or smell, and the brushlike stigmas with long
 papillae-adaptations to wind-pollination as contrasted with the methods
-of pollination by insect agency, which characterize the Liliaceae.
+of pollination by [[Insect|insect]] agency, which characterize the Liliaceae.
 Juncaceae are, in fact, a less elaborated group of the same series as
 Liliaceae, but adapted to a simpler and more uniform environment than
 that larger and much more highly developed family.
@@ -33,7 +33,7 @@ that larger and much more highly developed family.
   1. Plant.
   2. Inflorescence.
   3. End of branch of inflorescence, slightly enlarged.
-  4. Flower, enlarged.
+  4. [[Flower]], enlarged.
   5. Fruit, enlarged.
   6. Seed.
   7. Seed, much enlarged.]

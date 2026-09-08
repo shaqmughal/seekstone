@@ -11,7 +11,7 @@ tags: [physics, biography]
 FURST, JULIUS (1805-1873), German Orientalist, was born of Jewish
 parents at Zerkowo in Posen, on the 12th of May 1805. He studied
 philosophy and philology at Berlin, and oriental literature at Posen,
-Breslau and Halle. In 1857 he was appointed to a lectureship at the
+Breslau and [[Halle]]. In 1857 he was appointed to a lectureship at the
 university of Leipzig, and he was promoted to a professorship in 1864,
 which he held until his death at Leipzig on the 9th of February 1873.
 Among his writings may be mentioned _Lehrgebaude der aramaischen Idiome_

@@ -1,7 +1,7 @@
 # Bakewell
 
 BAKEWELL, a market-town in the western parliamentary division of
-Derbyshire, England, on the river Wye, 25 m. N.N.W. of Derby, on the
+Derbyshire, England, on the river Wye, 25 m. N.N.W. of [[Derby]], on the
 Midland railway. Pop. of urban district (1901) 2850. The church of All
 Saints is mentioned in Domesday, and tradition ascribes the building of its
 nave to King John, while the western side of the tower must be older still.
@@ -20,7 +20,7 @@ of an earthwork, said to have been raised by Edward the Elder in 924.
 Within the parish are included the mansions of Burton Closes and Castle
 Hill. Two miles from the town, amidst beautiful gardens and meadows, is
 Haddon Hall. To the east lies the magnificent domain of Chatsworth. The
-scenery of the neighbourhood, in both the Wye and the Derwent valleys, is
+scenery of the neighbourhood, in both the Wye and the [[Derwent]] valleys, is
 very beautiful; the village of Eyam (pronounced Eem) near the Derwent may
 be noticed as specially picturesque. The plague of 1665, carried hither
 from London, almost depopulated this village, and the name of the rector,

@@ -32,7 +32,7 @@ Italian, Dutch and French styles. They were planned by the 2nd earl of
 Perth (d. 1662), and take rank with the most magnificent in the United
 Kingdom. The keep of the castle dates from 1490, and much of the
 original building was demolished in 1689, a few years after its siege by
-Cromwell. The present structure was erected subsequent to the extinction
+[[Cromwell]]. The present structure was erected subsequent to the extinction
 of the Jacobite rebellion.
 
 ## References

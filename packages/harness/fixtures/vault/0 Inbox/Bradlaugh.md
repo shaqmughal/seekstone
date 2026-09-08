@@ -14,7 +14,7 @@ stationer, and his mother had been a nursemaid. At twelve years old he
 became office-boy to his father's employer, and at fourteen wharf-clerk
 and cashier to a coal merchant in the City Road. He had been baptized
 and brought up in the Church of England, but he now came into contact
-with a group of free-thinkers who were disciples of Richard Carlile. He
+with a group of free-thinkers who were [[Disciple|disciples]] of Richard [[Carlile]]. He
 was hastily labelled an "atheist," and was turned out of his situation.
 Thus driven into the arms of the secularists, he managed to earn a
 living by odd jobs, and became further immersed in the study of
@@ -24,17 +24,17 @@ employment as a lawyer's clerk, and gradually became known as a
 free-thought lecturer, under the name of "Iconoclast." From 1860 he
 conducted the _National Reformer_ for several years, and displayed much
 resource in legal defence when the paper was prosecuted by the
-government on account of its alleged blasphemy and sedition in
+government on account of its alleged [[Blasphemy|blasphemy]] and sedition in
 1868-1869. Bradlaugh became notorious as a leading "infidel," and was
 supported by the sympathy of those who were enthusiasts at that time for
 liberty of speech and thought. He was a constant figure in the law
 courts; and his competence to take the oath was continually being called
-in question, while his atheism and republican opinions were adduced as
-reasons why no jury should give damages for attacks on his character. In
-1874 he became acquainted with Mrs Annie Besant (b. 1847), who
+in question, while his [[Atheism|atheism]] and republican opinions were adduced as
+reasons why no [[Jury|jury]] should give damages for attacks on his character. In
+1874 he became acquainted with Mrs Annie [[Besant]] (b. 1847), who
 afterwards became famous for her gifts as a lecturer on socialism and
 theosophy. She began by writing for the _National Reformer_ and soon
-became co-editor. In 1876 the Bristol publisher of an American pamphlet
+became co-editor. In 1876 the [[Bristol]] publisher of an American pamphlet
 on the population question, called _Fruits of Philosophy_, was indicted
 for selling a work full of indecent physiological details, and, pleading
 guilty, was lightly sentenced; but Bradlaugh and Mrs Besant took the
@@ -44,12 +44,12 @@ which resulted created considerable scandal. They were convicted and
 sentenced to a heavy fine and imprisonment, but the sentence was stayed
 and the indictment ultimately quashed on a technical point. The affair,
 however, had several side issues in the courts and led to much prejudice
-against the defendants, the distinction being ignored between a protest
+against the [[Defendant|defendants]], the distinction being ignored between a protest
 against the suppression of opinion and the championship of the
 particular opinions in question. Mrs Besant's close alliance with
 Bradlaugh eventually terminated in 1886, when she drifted from
 secularism, first into socialistic and labour agitation and then into
-theosophy as a pupil of Mme Blavatsky. Bradlaugh himself took up
+theosophy as a pupil of Mme [[Blavatsky]]. Bradlaugh himself took up
 politics with increasing fervour. He had been unsuccessful in standing
 for Northampton in 1868, but in 1880 he was returned by that
 constituency to parliament as an advanced Radical. A long and
@@ -72,7 +72,7 @@ as unquestionable as his combativeness.
 
   His _Life_ was written, from a sympathetic point of view, with much
   interesting detail as to the history of secularism, by his daughter,
-  Mrs Bradlaugh Bonner, and J.M. Robertson (1894).
+  Mrs Bradlaugh [[Bonner]], and J.M. Robertson (1894).
 
 ## See also
 

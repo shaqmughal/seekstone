@@ -1,12 +1,12 @@
 # Charlotte
 
 CHARLOTTE, a city and the county-seat of Mecklenburg county, North
-Carolina, U.S.A., situated on Sugar Creek, in the south-west part of the
+Carolina, U.S.A., situated on Sugar [[Creek]], in the south-west part of the
 state, about 175 m. south-west of Raleigh. Pop. (1890) 11,557; (1900)
 18,091, of whom 7151 were negroes; (1910 census) 34,014. It is served by
 the Seaboard Air Line and the Southern railways. Among the public
 buildings are a fine city hall, court-house, Federal and Young Men's
-Christian Association buildings, and a Carnegie library; several
+Christian Association buildings, and a [[Carnegie]] library; several
 hospitals: St Peter's (Episcopal) for whites, Good Samaritan (Episcopal)
 for negroes, Mercy General (Roman Catholic) and a Presbyterian. The city
 is the seat of Elizabeth College and Conservatory of Music (1897), a

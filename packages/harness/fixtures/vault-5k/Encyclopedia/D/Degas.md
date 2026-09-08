@@ -40,7 +40,7 @@ Cotton-Broker's Office at New Orleans" (belonging to the Museum at Pau)
 and "The Rehearsal."
 
   See also G. Moore, "Degas, the Painter of Modern Life," _Magazine of
-  Art_ (1890); J. K. Huysmans, _Certains_ (Paris, 1889); G. Geffroy, _La
+  Art_ (1890); J. K. Huysmans, _Certains_ (Paris, 1889); G. [[Geffroy]], _La
   Vie Artistique_ (3^e Serie, Paris, 1894).
 
 ## See also

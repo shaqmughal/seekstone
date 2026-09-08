@@ -8,7 +8,7 @@ type: reference
 # Clever
 
 CLEVER, an adjective implying dexterous activity of mind or body, and
-ability to meet emergencies with readiness and adroitness. The etymology
+ability to meet emergencies with readiness and adroitness. The [[Etymology|etymology]]
 and the early history of the word are obscure. The earliest instance
 quoted by the _New English Dictionary_ is in the _Bestiary_ of _c._ 1200
 (An Old English Miscellany, ed. R. Morris, 1872, E.E.T.S. 49)--"On the
@@ -28,8 +28,8 @@ East Angle countries" (_Tract._ viii. in Wilkins's ed. of _Works_, iv.
 205). The earlier uses of the word seem to be confined to that of bodily
 dexterity. In this sense it took the place of a use of "deliver" as an
 adjective, meaning nimble, literally "free in action," a use taken from
-Fr. _delivre_ (Late Lat. _deliberare_, to set free), cf. Chaucer,
-_Prologue to Cant. Tales_, 84, "wonderly deliver and grete of strength,"
+Fr. _delivre_ (Late Lat. _deliberare_, to set free), cf. [[Chaucer]],
+_Prologue to [[Cant]]. Tales_, 84, "wonderly deliver and grete of strength,"
 and _Romaunt of the Rose_, 831, "Deliver, smert and of gret might." It
 has been suggested that "clever" is a corruption of "deliver" in this
 sense, but this is not now accepted. The earliest use of the word for

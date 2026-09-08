@@ -6,12 +6,12 @@ maritime career. After numerous adventures he returned to Italy in 1846,
 joined the Giovine Italia, and, on 4th November 1847, made himself
 conspicuous at Genoa by seizing the bridle of Charles Albert's horse and
 crying, "Pass the Ticino, Sire, and we are all with you." He fought
-through the campaign of 1848, became captain under Garibaldi at Rome in
-1849, taking prisoners an entire French battalion, and gaining the gold
+through the campaign of 1848, became captain under [[Garibaldi]] at Rome in
+1849, taking prisoners an entire French [[Battalion|battalion]], and gaining the gold
 medal for military valour. In 1859 he commanded a Garibaldian battalion,
 and gained the military cross of Savoy. Joining the Marsala expedition
-in 1860, he turned the day in favour of Garibaldi at Calatafimi, was
-wounded at Palermo, but recovered in time to besiege Reggio in Calabria
+in 1860, he turned the day in favour of Garibaldi at [[Calatafimi]], was
+wounded at Palermo, but recovered in time to besiege Reggio in [[Calabria]]
 (21st of August 1860), and, though again wounded, took part in the
 battle of Volturno, where his leg was broken. Elected deputy in 1861, he
 endeavoured to reconcile Cavour and Garibaldi. In 1866, at the head of

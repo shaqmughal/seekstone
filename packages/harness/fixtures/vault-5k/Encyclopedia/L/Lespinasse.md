@@ -8,11 +8,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lespinasse
 # Lespinasse
 
 LESPINASSE, JEANNE JULIE ÉLÉONORE DE (1732-1776), French author, was
-born at Lyons on the 9th of November 1732. A natural child of the
+born at [[Lyons]] on the 9th of November 1732. A natural child of the
 comtesse d'Albon, she was brought up as the daughter of Claude
 Lespinasse of Lyons. On leaving her convent school she became governess
 in the house of her mother's legitimate daughter, Mme de Vichy, who had
-married the brother of the marquise du Deffand. Here Mme du Deffand made
+married the brother of the marquise du [[Deffand]]. Here Mme du Deffand made
 her acquaintance, and, recognizing her extraordinary gifts, persuaded
 her to come to Paris as her companion. The alliance lasted ten years
 (1754-1764) until Mme du Deffand became jealous of the younger woman's
@@ -50,7 +50,7 @@ sequel to Sterne's _Sentimental Journey_.
   may be mentioned that of Eugène Asse (1876-1877). _Lettres inédites de
   Mademoiselle de Lespinasse à Condorcet, à D'Alembert, à Guibert, au
   comte de Crillon_, edited by M. Charles Henry (1887), contains copies
-  of the documents available for her biography. Mrs Humphry Ward's
+  of the documents available for her biography. Mrs [[Humphry]] Ward's
   novel, _Lady Rose's Daughter_, owes something to the character of Mlle
   de Lespinasse.
 

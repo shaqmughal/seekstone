@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Harris"
 # Harris
 
 HARRIS, THOMAS LAKE (1823-1906), American spiritualistic "prophet," was
-born at Fenny Stratford in Buckinghamshire, England, on the 15th of May
-1823. His parents were Calvinistic Baptists, and very poor. They settled
+born at [[Fenny Stratford]] in [[Buckinghamshire]], England, on the 15th of May
+1823. His parents were Calvinistic [[Baptists]], and very poor. They settled
 at Utica, New York, when Harris was five years old. When he was about
 twenty Harris became a Universalist preacher, and then a Swedenborgian.
 He became associated about 1847 with a spiritualist of indifferent
@@ -35,7 +35,7 @@ from his disciples--even the surrender of moral judgment. He taught that
 God was bi-sexual, and apparently, though not in reality, that the rule
 of society should be one of married celibacy. He professed to teach his
 community a change in the mode of respiration which was to be the
-visible sign of possession by Christ and the seal of immortality. The
+visible sign of possession by Christ and the seal of [[Immortality|immortality]]. The
 Oliphants broke away from the restraint about 1881, charging him with
 robbery and succeeding in getting back from him many thousands of pounds
 by legal proceedings. But while losing faith in Harris himself, they did
@@ -49,11 +49,11 @@ and supple obedience. Harris in 1876 discontinued for a time public
 activities, but issued to a secret circle books of verse dwelling mainly
 on sexual questions. On these his mind ran from the first. In 1891 he
 announced that his body had been renewed, and that he had discovered the
-secret of the resuscitation of humanity. He published a book, _Lyra
+secret of the resuscitation of humanity. He published a book, _[[Lyra]]
 triumphalis_, dedicated to A. C. Swinburne. He also made a third
 marriage, and visited England intending to remain there. He was called
 back by a fire which destroyed large stocks of his wine, and remained in
-New York till 1903, when he visited Glasgow. His followers believed that
+New York till 1903, when he visited [[Glasgow]]. His followers believed that
 he had attained the secret of immortal life on earth, and after his
 death on the 23rd of March 1906 declared that he was only sleeping. It
 was three months before it was acknowledged publicly that he was really
@@ -61,9 +61,9 @@ dead. There can be little or no doubt as to the real character of
 Harris. His teaching was esoteric in form, but is a thinly veiled
 attempt to alter the ordering of sexual relations.
 
-  The authoritative biography from the side of his disciples is the
+  The authoritative biography from the side of his [[Disciple|disciples]] is the
   _Life_ by A. A. Cuthbert, published in Glasgow in 1908. It is full of
-  the jargon of Harris's sect, but contains some biographical facts as
+  the [[Jargon|jargon]] of Harris's sect, but contains some biographical facts as
   well as many quotations. Mrs Oliphant's _Life of Laurence Oliphant_
   (1891) has not been shaken in any important particular, and Oliphant's
   own portrait of Harris in _Masollam_ is apparently unexaggerated. But

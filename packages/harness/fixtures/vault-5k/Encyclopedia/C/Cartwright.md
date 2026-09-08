@@ -15,8 +15,8 @@ educated at Newark grammar school and Heath Academy in Yorkshire, and at
 the age of eighteen entered the navy. He was present, in his first year
 of service, at the capture of Cherbourg, and served in the following
 year in the action between Sir Edward Hawke and Admiral Conflans.
-Engaged afterwards under Sir Hugh Palliser and Admiral Byron on the
-Newfoundland station, he was appointed to act as chief magistrate of the
+Engaged afterwards under Sir Hugh Palliser and Admiral [[Byron]] on the
+Newfoundland station, he was appointed to act as chief [[Magistrate|magistrate]] of the
 settlement; and the duties of this post he discharged for five years
 (1765-1770). Ill-health necessitated his retirement from active service
 for a time in 1771. When the disputes with the American colonies began,
@@ -41,13 +41,13 @@ association, which took shape in 1780 as the "Society for Constitutional
 Information," including among its members some of the most distinguished
 men of the day. From this society sprang the more famous "Corresponding
 Society." Major Cartwright worked unweariedly for the promotion of
-reform. He was one of the witnesses on the trial of his friends, Horne
+reform. He was one of the witnesses on the trial of his friends, [[Horne]]
 Tooke, John Thelwall and Thomas Hardy, in 1794, and was himself indicted
 for conspiracy in 1819. He was found guilty in the following year, and
 was condemned to pay a fine of £100. He died in London on the 23rd of
 September 1824. He had married in 1780, but had no children. In 1831 a
 monument from a design by Macdowell was erected to him in Burton
-Crescent where he had lived.
+[[Crescent]] where he had lived.
 
   _The Life and Correspondence of Major Cartwright_, edited by his niece
   F.D. Cartwright, was published in 1826.

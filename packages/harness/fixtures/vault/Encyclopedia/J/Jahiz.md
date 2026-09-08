@@ -1,6 +1,6 @@
 # Jahiz
 
-JAHIZ (ABU 'UTHMAN 'AMR IBN BAHR UL-JAHIZ; i.e. "the man the pupils of
+JAHIZ (ABU 'UTHMAN 'AMR IBN [[Bahr|BAHR]] UL-JAHIZ; i.e. "the man the pupils of
 whose eyes are prominent") (d. 869), Arabian writer. He spent his life
 and devoted himself in Basra chiefly to the study of polite literature.
 A Mu'tazilite in his religious beliefs, he developed a system of his own

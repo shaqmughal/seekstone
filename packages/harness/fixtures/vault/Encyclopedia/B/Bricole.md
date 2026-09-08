@@ -9,7 +9,7 @@ topic: art
 BRICOLE (a French word of unknown origin), a military engine for casting
 heavy stones; also a term in tennis for a sidestroke rebounding off the
 wall of the court, corrupted into "brickwall" from a supposed reference to
-the wall, and in billiards for a stroke off the cushion to make a cannon or
+the wall, and in [[Billiards|billiards]] for a stroke off the cushion to make a [[Cannon|cannon]] or
 hazard.
 
 ## See also

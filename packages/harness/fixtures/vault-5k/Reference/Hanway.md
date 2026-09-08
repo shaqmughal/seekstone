@@ -6,10 +6,10 @@ topic: revolution
 
 # Hanway
 
-HANWAY, JONAS (1712-1786), English traveller and philanthropist, was
+HANWAY, [[Jonas|JONAS]] (1712-1786), English traveller and philanthropist, was
 born at Portsmouth in 1712. While still a child, his father, a
 victualler, died, and the family moved to London. In 1729 Jonas was
-apprenticed to a merchant in Lisbon. In 1743, after he had been some
+apprenticed to a merchant in [[Lisbon]]. In 1743, after he had been some
 time in business for himself in London, he became a partner with Mr
 Dingley, a merchant in St Petersburg, and in this way was led to travel
 in Russia and Persia. Leaving St Petersburg on the 10th of September

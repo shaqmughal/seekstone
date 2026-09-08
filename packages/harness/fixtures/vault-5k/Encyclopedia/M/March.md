@@ -11,7 +11,7 @@ between England and Wales, and (2) England and Scotland, and held
 severally by great feudal families possessed of lands in those border
 districts. The earls of March on the Welsh borders were descended from
 Roger de Mortemer (so called from his castle of Mortemer in Normandy),
-who was connected by marriage with the dukes of Normandy. His son Ralph
+who was connected by marriage with the [[Dukes|dukes]] of Normandy. His son Ralph
 (d. c. 1104) figures in Domesday as the holder of vast estates in
 Shropshire, Herefordshire and other parts of England, especially in the
 west; and his grandson Hugh de Mortimer, founder of the priory of
@@ -34,11 +34,11 @@ enforce his authority. This brought him into conflict with the De Lacys,
 who turned for support to Edward Bruce, brother of Robert Bruce, king of
 Scotland. Mortimer was appointed lord-lieutenant of Ireland by Edward
 II. in 1316, and at the head of a large army drove Bruce to
-Carrickfergus, and the De Lacys into Connaught, wreaking vengeance on
+[[Carrickfergus]], and the De Lacys into Connaught, wreaking vengeance on
 their adherents whenever they were to be found. He was then occupied for
 some years with baronial disputes on the Welsh border until about 1318,
 when he began to interest himself in the growing opposition to Edward
-II. and his favourites, the Despensers; and he supported Humphrey de
+II. and his favourites, the [[Despenser|Despensers]]; and he supported Humphrey de
 Bohun, earl of Hereford, in refusing to obey the king's summons to
 appear before him in 1321. Forced to surrender to the king at Shrewsbury
 in January 1322, Mortimer was consigned to the Tower of London, whence
@@ -62,7 +62,7 @@ procured the murder of Edward II. in the following September. Rich
 estates and offices of profit and power were now heaped on Mortimer, and
 in September 1328 he was created earl of March. Greedy and grasping, he
 was no more competent than the Despensers to conduct the government of
-the country. The jealousy and anger of Lancaster having been excited by
+the country. The [[Jealousy|jealousy]] and anger of Lancaster having been excited by
 March's arrogance, Lancaster prevailed upon the young king, Edward III.,
 to throw off the yoke of his mother's paramour. At a parliament held at
 Nottingham in October 1330 a plot was successfully carried out by which
@@ -84,7 +84,7 @@ as a ward of the crown, was placed by Edward III. under the care of
 William of Wykeham and Richard Fitzalan, earl of Arundel. The position
 of the young earl, powerful on account of his possessions and hereditary
 influence in the Welsh marches, was rendered still more important by his
-marriage in 1368 to Philippa, only daughter of Lionel, duke of Clarence,
+marriage in 1368 to Philippa, only daughter of Lionel, duke of [[Clarence]],
 third son of Edward III. Lionel's wife was Elizabeth, daughter and
 heiress of William de Burgh, 6th Lord of Connaught and 3rd earl of
 Ulster, and Lionel had himself been created earl of Ulster before his
@@ -133,14 +133,14 @@ and two daughters, the elder of whom, Elizabeth, married Henry Percy
 (Hotspur), son of the earl of Northumberland. His eldest son Roger
 succeeded him as 4th earl of March and Ulster. His second son Edmund
 (1376-1409) played an important part in conjunction with his
-brother-in-law Hotspur against Owen Glendower; but afterwards joined the
+brother-in-law Hotspur against Owen [[Glendower]]; but afterwards joined the
 latter, whose daughter he married about 1402.
 
 ROGER DE MORTIMER, 4th earl of March and Ulster (1374-1398), son of the
 3rd earl, succeeded to the titles and estates of his family when a child
 of seven, and a month afterwards he was appointed lord-lieutenant of
 Ireland, his uncle Sir Thomas Mortimer acting as his deputy. Being a
-ward of the Crown, his guardian was the earl of Kent, half-brother to
+ward of the Crown, his [[Guardian|guardian]] was the earl of Kent, half-brother to
 Richard II.; and in 1388 he married Kent's daughter, Eleanor. The
 importance which he owed to his hereditary influence and possessions,
 and especially to his descent from Edward III., was immensely increased
@@ -184,7 +184,7 @@ ascended the throne in 1461 as Edward IV., the earldom of March became
 merged in the crown.
 
   See Thomas Rymer, _Foedera_, &c. (London, 1704-1732); T. F. Tout, _The
-  Political History of England_, vol. iii., ed. by William Hunt and R.
+  [[Political History]] of England_, vol. iii., ed. by William [[Hunt]] and R.
   L. Poole (London, 1905); Sir William Dugdale, _Monasticon anglicanum_
   (3 vols., London, 1655-1673); William Stubbs, _Constitutional History
   of England_, vol. ii.
@@ -208,13 +208,13 @@ the performance of the Treaty of Falaise for the liberation of William
 the Lion in 1175. Waltheof's son Patrick Dunbar (the name Dunbar,
 derived from the family estates, now becoming an hereditary surname),
 styled 5th earl of Dunbar, although his father had been the first to
-adopt the territorial designation, was keeper of Berwick Castle, and
+adopt the territorial designation, was keeper of [[Berwick]] Castle, and
 married Ada, natural daughter of William the Lion. His grandson Patrick,
 7th earl, headed the party that liberated King Alexander III. in 1255
 from the Comyns, and in the same year was nominated guardian of the king
 and queen by the Treaty of Roxburgh. He signed the Treaty of Perth (July
 6, 1266) by which Magnus VI. of Norway ceded the Isle of Man and the
-Hebrides to Scotland. His wife was Christian, daughter of Robert Bruce,
+[[Hebrides]] to Scotland. His wife was Christian, daughter of Robert Bruce,
 the competitor for the crown of Scotland.
 
 PATRICK DUNBAR, 8th earl of Dunbar and 1st earl of March, claimed the
@@ -226,9 +226,9 @@ perhaps, to be traced to the seven provinces of the Pictish kingdom. He
 was the first of the earls of Dunbar to appear in the records as "comes
 de Marchia," or earl of March. Like most of his family in later times,
 he was favourable to the English interest in Scottish affairs, and he
-did homage to Edward I. of England. His wife Marjory, daughter of
+did [[Homage|homage]] to Edward I. of England. His wife Marjory, daughter of
 Alexander Comyn, earl of Buchan, took the other side and held the castle
-of Dunbar for Baliol, but was forced to surrender it to Edward in 1296.
+of Dunbar for [[Baliol]], but was forced to surrender it to Edward in 1296.
 In 1298 he was appointed the English king's lieutenant in Scotland.
 
 PATRICK DUNBAR (1285-1369), 9th earl of Dunbar and 2nd earl of March,
@@ -268,7 +268,7 @@ He died in 1420.
 
 GEORGE DUNBAR, 11th earl of Dunbar and 4th earl of March, was one of the
 negotiators for the release of James I. of Scotland in 1423 from his
-captivity in England, and was knighted at that king's coronation. In
+captivity in England, and was knighted at that king's [[Coronation|coronation]]. In
 1434, however, on the ground that the regent had had no power to reverse
 his father's forfeiture for treason, March was imprisoned and his castle
 of Dunbar seized by the king; and the parliament at Perth declared his
@@ -281,11 +281,11 @@ The earldom of March in the house of Dunbar having thus been forfeited
 to the crown, James II. in 1455 conferred the title, together with that
 of warden of the marches, on his second son Alexander, duke of Albany;
 but this prince entered into treasonable correspondence with Edward IV.
-of England, and in 1487 the earldom of March and the barony and castle
+of England, and in 1487 the earldom of March and the [[Barony|barony]] and castle
 of Dunbar were again declared forfeited and annexed to the crown of
 Scotland.
 
-The title of earl of March was next held by the house of Lennox. In 1576
+The title of earl of March was next held by the house of [[Lennox]]. In 1576
 the earldom of Lennox became extinct on the death without male issue of
 Charles (father of Lady Arabella Stuart), 5th earl of Lennox; and it was
 then revived in favour of Robert Stuart, a grand-uncle of King James
@@ -307,10 +307,10 @@ earldom of March has descended to its present holder the duke of
 Richmond and Gordon. (See RICHMOND, EARLS AND DUKES OF; and LENNOX.)
 
 The title of earl of March in the peerage of Scotland, by another
-creation, was conferred in 1697 on William Douglas, second son of
+creation, was conferred in 1697 on [[William Douglas]], second son of
 William, 1st duke of Queensberry. His grandson William, 3rd earl of
 March, became 4th duke of Queensberry on the death without surviving
-male issue of his cousin Charles, 3rd duke of Queensberry, in 1778.
+male issue of his [[Cousin|cousin]] Charles, 3rd duke of Queensberry, in 1778.
 Dying unmarried in 1810, the several titles of the duke passed to
 different branches of the house of Douglas. The earldom of March is
 stated by Sir Bernard Burke and other authorities to have devolved upon

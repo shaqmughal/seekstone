@@ -9,10 +9,10 @@ tags: [reference-studies, architecture]
 
 # Aspiroz
 
-ASPIROZ, MANUEL DE (1836-1905), Mexican statesman and diplomatist, was
+ASPIROZ, [[Manuel|MANUEL]] DE (1836-1905), Mexican statesman and diplomatist, was
 born at Puebla, and educated at the university of Mexico, where he took
 his degree in 1855. He took part in the war against the emperor
-Maximilian, and in 1867, on the establishment of the republic, was
+[[Maximilian]], and in 1867, on the establishment of the republic, was
 appointed assistant secretary of state for foreign affairs. In 1873 he
 became Mexican consul at San Francisco, where he remained till his
 election to the Senate in 1875. He was professor of jurisprudence at the

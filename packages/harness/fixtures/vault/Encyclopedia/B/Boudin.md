@@ -8,8 +8,8 @@ type: article
 # Boudin
 
 BOUDIN, EUGENE (1824-1898), French painter of the _paysage de mer_, was
-the son of a pilot. Born at Honfleur he was cabin-boy for a while on
-board the rickety steamer that plied between Havre and Honfleur across
+the son of a pilot. Born at [[Honfleur]] he was cabin-boy for a while on
+board the rickety steamer that plied between [[Havre]] and Honfleur across
 the estuary of the Seine. But before old age came on him, Boudin's
 father abandoned seafaring, and the son gave it up too, having of course
 no real vocation for it, though he preserved to his last days much of a
@@ -18,7 +18,7 @@ the elder now established himself as stationer and frame-maker; this
 time in the greater seaport town of Havre; and Eugene helped in the
 little business, and, in stolen hours, produced certain drawings. That
 was a time at which the romantic outlines of the Norman coast engaged
-Isabey, and the green wide valleys of the inland country engaged Troyon;
+[[Isabey]], and the green wide valleys of the inland country engaged Troyon;
 and Troyon and Isabey, and Millet too, came to the shop at Havre. Young
 Boudin found his desire to be a painter stimulated by their influence;
 his work made a certain progress, and the interest taken in the young
@@ -28,14 +28,14 @@ partly in Paris; but whatever individuality he possessed in those years
 was hidden and covered, rather than disclosed. An instance of tiresome,
 elaborate labour--good enough, no doubt, as groundwork, and not out of
 keeping with what at least was the popular taste of that day--is his
-"Pardon of Sainte Anne de la Palud," a Breton scene, of 1858, in which
+"Pardon of Sainte [[Anne]] de la Palud," a Breton scene, of 1858, in which
 he introduced the young Breton woman who was immediately to become his
 wife. This conscientious and unmoving picture hangs in the museum of
 Havre, along with a hundred later, fresher, thoroughly individual
 studies and sketches, the gift of Boudin's brother, Louis Boudin, after
 the painter's death. Re-established at Honfleur, Boudin was married and
 poor. But his work gained character and added, to merely academic
-correctness, character and charm. He was beginning to be himself by 1864
+correctness, character and [[Charm|charm]]. He was beginning to be himself by 1864
 or 1865--that was the first of such periods of his as may be accounted
 good--and, though not at that time so fully a master of transient
 effects of weather as he became later, he began then to paint with a
@@ -50,7 +50,7 @@ the small ports and the rocky or chalk-cliff coasts, over the
 watering-places, Trouville, Dieppe, and over those larger harbours, with
 _port_ and _avant-port_ and _bassin_, of Dunkirk, of Havre. In the war
 time, Boudin was in Brittany and then in the Low Countries. About
-1875-1876 he was at Rotterdam and Bordeaux. That great bird's-eye
+1875-1876 he was at Rotterdam and [[Bordeaux]]. That great [[Bird'S-Eye|bird's-eye]]
 vision of Bordeaux which is in the Luxembourg dates from these years,
 and in these years he was at Rotterdam, the companion of Jongkind, with
 whom he had so much in common, but whose work, like his, free and
@@ -78,19 +78,19 @@ blazes least, had been caught by him and presented nobly at Antibes and
 Villefranche. At last, resorting to the south again as a refuge from
 ill-health, and recognizing soon that the relief it could give him was
 almost spent, he resolved that it should not be for him, in the words of
-Maurice Barres, a "_tombe fleurie_," and he returned, hastily, weak and
+[[Maurice]] [[Barre|Barres]], a "_tombe fleurie_," and he returned, hastily, weak and
 sinking, to his home at Deauville, that he might at least die within
 sight of Channel waters and under Channel skies. As a "marine
 painter"--more properly as a painter of subjects in which water must
-have some part, and as curiously expert in the rendering of all that
+have some part, and as curiously [[Expert|expert]] in the rendering of all that
 goes upon the sea, and as the painter too of the green banks of tidal
-rivers and of the long-stretched beach, with crinolined Parisienne noted
+rivers and of the long-stretched [[Beach|beach]], with crinolined Parisienne noted
 as ably as the sailor-folk--Boudin stands alone. Beside him others are
 apt to seem rather theatrical--or if they do not romance they appear,
 perhaps, to chronicle dully. The pastels of Boudin--summary and economic
 even in the 'sixties, at a time when his painted work was less
 free--obtained the splendid eulogy of Baudelaire, and it was no other
-than Corot who, before his pictures, said to him: "You are the master of
+than [[Corot]] who, before his pictures, said to him: "You are the master of
 the sky."
 
   See also Gustave Cahen, _Eugene Boudin_ (Paris, 1899); Arsene

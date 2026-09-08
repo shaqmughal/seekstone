@@ -28,7 +28,7 @@ calling of the apostles. It is thus used in nonconformist churches of
 the invitation to serve as minister a particular congregation or chapel.
 It is from this sense of a _vocatio_ or summons that the word "calling"
 is used, not only of the divine vocation, but of a man's ordinary
-profession, occupation or business. In card games "call" is used, in
+profession, occupation or business. In card [[Games|games]] "call" is used, in
 poker, of the demand that the hand of the highest bettor be exposed or
 seen, exercised by that player who equals his bet; in whist or bridge,
 of a certain method of play, the "call" for a suit or for trumps on the

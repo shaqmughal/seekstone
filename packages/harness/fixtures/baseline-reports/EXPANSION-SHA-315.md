@@ -1,5 +1,12 @@
 # SHA-315 — 1-hop graph expansion: dev-split eval (2026-08-30)
 
+> **Superseded on fixture v2:** this verdict was measured on fixture v1,
+> whose links were all random. Fixture v2 (SHA-322) added real prose
+> cross-links and the re-tuned verdict lives in
+> [EXPANSION-SHA-322.md](./EXPANSION-SHA-322.md) — measurable now, still
+> not shipped. This file stays as the v1 record; its `expand-dev-*` tables
+> have been replaced by the v2 runs.
+
 **Verdict: NOT SHIPPED — unmeasurable on this fixture, and provably so.**
 The implementation (`packages/server/src/semantic/expand.ts`) is complete,
 unit-tested, and evaluated, but is deliberately not wired into the search

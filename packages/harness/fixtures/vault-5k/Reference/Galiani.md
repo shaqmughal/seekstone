@@ -29,7 +29,7 @@ Neapolitan embassy at Paris. This post he held for ten years, when he
 returned to Naples and was made a councillor of the tribunal of
 commerce, and in 1777, minister of the royal domains. His economic
 reputation was made by a book written in French and published in Paris,
-namely, his _Dialogues sur le commerce des bles_. This work, by its
+namely, his _[[Dialogue|Dialogues]] sur le commerce des bles_. This work, by its
 light and pleasing style, and the vivacious wit with which it abounded,
 delighted Voltaire, who spoke of it as a book in the production of which
 Plato and Moliere might have been combined! The author, says Pecchio,

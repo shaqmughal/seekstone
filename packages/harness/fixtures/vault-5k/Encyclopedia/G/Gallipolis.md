@@ -35,12 +35,12 @@ Alexandria, Virginia, arrived on the site of Gallipolis, where rude huts
 had been built for them. This land, however, fell within the limits of
 the tract bought outright by the Ohio Company, which sold it to the
 Scioto Company, and to which it reverted on the failure of the Scioto
-Company to pay. In 1794 William Bradford, attorney-general of the United
+Company to pay. In 1794 William [[Bradford]], [[Attorney-General|attorney-general]] of the United
 States, decided that all rights in the 4,000,000 acres, on which the
 Ohio Company had secured an option for the Scioto Company, were legally
 vested in the Ohio Company. In 1795 the Ohio Company sold to the French
 settlers for $1.25 an acre the land they occupied and adjacent improved
-lots, and the United States government granted to them 24,000 acres in
+[[Lot|lots]], and the United States government granted to them 24,000 acres in
 the southern part of what is now Scioto County in 1795; little of this
 land (still known as the "French Grant"), however, was ever occupied by
 them. Gallipolis was incorporated as a village in 1842, and was first

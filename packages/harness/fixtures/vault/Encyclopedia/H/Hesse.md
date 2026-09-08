@@ -48,7 +48,7 @@ The area and population of the three provinces of Hesse are as follow:
   +-------------+------+----------+----------+
 
 The chief towns of the grand duchy are Darmstadt (the capital) and
-Offenbach in Starkenburg, Mainz and Worms in Rheinhessen and Giessen in
+Offenbach in Starkenburg, [[Mainz]] and Worms in Rheinhessen and Giessen in
 Oberhessen. More than two-thirds of the inhabitants are Protestants; the
 majority of the remainder are Roman Catholics, and there are about
 25,000 Jews. The grand duke is head of the Protestant church. Education
@@ -68,28 +68,28 @@ the chancellor of the university, two elected representatives of the
 land-owning nobility, and twelve members nominated by the grand duke.
 The lower chamber consists of ten deputies from large towns and forty
 from small towns and rural districts. They are indirectly elected, by
-deputy electors (_Wahlmanner_) nominated by the electors, who must be
+[[Deputy|deputy]] [[Electors|electors]] (_Wahlmanner_) nominated by the electors, who must be
 Hessians over twenty-five years old, paying direct taxes. The executive
 ministry of state is divided into the departments of the interior,
 justice and finance. The three provinces are divided for local
-administration into 18 circles and 989 communes. The ordinary revenue
+administration into 18 circles and 989 [[Commune|communes]]. The ordinary revenue
 and expenditure amount each to about L4,000,000 annually, the chief
 taxes being an income-tax, succession duties and stamp tax. The public
-debt, practically the whole of which is on railways, amounted to
+[[Debt|debt]], practically the whole of which is on railways, amounted to
 L19,097,468 in 1907.
 
 _History_.--The name of Hesse, now used principally for the grand duchy
 formerly known as Hesse-Darmstadt, refers to a country which has had
 different boundaries and areas at different times. The name is derived
 from that of a Frankish tribe, the Hessi. The earliest known inhabitants
-of the country were the Chatti, who lived here during the 1st century
+of the country were the [[Chatti]], who lived here during the 1st century
 A.D. (Tacitus, _Germania_, c. 30), and whose capital, Mattium on the
 Eder, was burned by the Romans about A.D. 15. "Alike both in race and
 language," says Walther Schultze, "the Chatti and the Hessi are
 identical." During the period of the _Volkerwanderung_ many of these
 people moved westward, but some remained behind to give their name to
 the country, although it was not until the 8th century that the word
-Hesse came into use. Early Hesse was the district around the Fulda, the
+Hesse came into use. Early Hesse was the district around the [[Fulda]], the
 Werra, the Eder and the Lahn, and was part of the Frankish kingdom both
 during Merovingian and during Carolingian times. Soon _Hessegau_ is
 mentioned, and this district was the headquarters of Charlemagne during
@@ -107,21 +107,21 @@ independent; but after the accession of Otto in 936 the land quietly
 accepted the yoke of the medieval emperors. About 1120 another Giso,
 count of Gudensberg, secured possession of the lands of the Werners; on
 his death in 1137 his daughter and heiress, Hedwig, married Louis,
-landgrave of Thuringia; and from this date until 1247, when the
+[[Landgrave|landgrave]] of Thuringia; and from this date until 1247, when the
 Thuringian ruling family became extinct, Hesse formed part of Thuringia.
 The death of Henry Raspe, the last landgrave of Thuringia, in 1247,
 caused a long war over the disposal of his lands, and this dispute was
 not settled until 1264 when Hesse, separated again from Thuringia, was
 secured by his niece Sophia (d. 1284), widow of Henry II., duke of
-Brabant. In the following year Sophia handed over Hesse to her son Henry
+[[Brabant]]. In the following year Sophia handed over Hesse to her son Henry
 (1244-1308), who, remembering the connexion of Hesse and Thuringia, took
 the title of landgrave, and is the ancestor of all the subsequent rulers
 of the country. In 1292 Henry was made a prince of the Empire, and with
 him the history of Hesse properly begins.
 
 For nearly 300 years the history of Hesse is comparatively uneventful.
-The land, which fell into two main portions, upper Hesse round Marburg,
-and lower Hesse round Cassel, was twice divided between two members of
+The land, which fell into two main portions, upper Hesse round [[Marburg]],
+and lower Hesse round [[Cassel]], was twice divided between two members of
 the ruling family, but no permanent partition took place before the
 Reformation. A _Landtag_ was first called together in 1387, and the
 landgraves were constantly at variance with the electors of Mainz, who
@@ -131,19 +131,19 @@ Ziegenhain, Nidda and, after a long struggle, Katzenelnbogen were
 acquired, while in 1432 the abbey of Hersfeld placed itself under the
 protection of Hesse. The most noteworthy of the landgraves were perhaps
 Louis I. (d. 1458), a candidate for the German throne in 1440, and
-William II. (d. 1509), a comrade of the German king, Maximilian I. In
+William II. (d. 1509), a comrade of the German king, [[Maximilian]] I. In
 1509 William's young son, Philip (q.v.), became landgrave, and by his
 vigorous personality brought his country into prominence during the
 religious troubles of the 16th century. Following the example of his
 ancestors Philip cared for education and the general welfare of his
 land, and the Protestant university of Marburg, founded in 1527, owes to
 him its origin. When he died in 1567 Hesse was divided between his four
-sons into Hesse-Cassel, Hesse-Darmstadt, Hesse-Marburg and
+sons into [[Hesse-Cassel]], Hesse-Darmstadt, Hesse-Marburg and
 Hesse-Rheinfels. The lines ruling in Hesse-Rheinfels and Hesse-Marburg,
 or upper Hesse, became extinct in 1583 and 1604 respectively, and these
 lands passed to the two remaining branches of the family. The small
-landgraviate of Hesse-Homburg was formed in 1622 from Hesse-Darmstadt.
-After the annexation of Hesse-Cassel and Hesse-Homburg by Prussia in
+landgraviate of [[Hesse-Homburg]] was formed in 1622 from Hesse-Darmstadt.
+After the [[Annexation|annexation]] of Hesse-Cassel and Hesse-Homburg by Prussia in
 1866 Hesse-Darmstadt remained the only independent part of Hesse, and it
 generally receives the common name.
 
@@ -156,11 +156,11 @@ lands of both these princes are now mediatized. Hesse-Nassau is a
 province of Prussia formed in 1866 from part of Hesse-Cassel and part of
 the duchy of Nassau.
 
-  See H. B. Wenck, _Hessische Landesgeschichte_ (Frankfort, 1783-1803);
+  See H. B. Wenck, _Hessische Landesgeschichte_ ([[Frankfort]], 1783-1803);
   C. von Rommel, _Geschichte von Hesse_ (Cassel, 1820-1858); F.
   Munscher, _Geschichte von Hesse_ (Marburg, 1894); F. Gundlach, _Hesse
   und die Mainzer Stiftsfehde_ (Marburg, 1899); Walther, _Literarisches
-  Handbuch fur Geschichte und Landeskunde von Hesse_ (Darmstadt, 1841;
+  Handbuch [[Fur|fur]] Geschichte und Landeskunde von Hesse_ (Darmstadt, 1841;
   Supplement, 1850-1869); K. Ackermann, _Bibliotheca Hessiaca_ (Cassel,
   1884-1899); Hoffmeister, _Historischgenealogisches Handbuch uber alle
   Linien des Regentenhauses Hesse_ (Marburg, 1874), and the _Zeitschrift

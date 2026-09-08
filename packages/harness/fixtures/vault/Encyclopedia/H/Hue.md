@@ -6,11 +6,11 @@ topic: botany-studies
 
 # Hue
 
-HUE, a town of French Indo-China, capital of Annam, on the Hue river
+HUE, a town of French [[Indo-China]], capital of [[Annam]], on the Hue river
 (Song-Huong-Giang) about 8 m. from its mouth in the China Sea. Pop.
 about 42,000, of whom 240 are Europeans. The country immediately
 surrounding it is flat, alluvial land, traversed by streams and canals
-and largely occupied by rice fields. Beyond the plain rises a circle of
+and largely occupied by rice [[Fields|fields]]. Beyond the plain rises a circle of
 hills formed by spurs of the mountains of Annam. The official portion of
 the town, fortified under French superintendence, lies on the left bank
 of the river within an enclosure over 7300 yds. square. It contains the

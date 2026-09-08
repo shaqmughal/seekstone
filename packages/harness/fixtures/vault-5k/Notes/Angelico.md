@@ -12,7 +12,7 @@ Angelico da Fiesole is the name given to a far-famed painter-friar of
 the Florentine state in the 15th century, the representative, beyond
 all other men, of pietistic painting. He is often, but not accurately,
 termed simply "Fiesole," which is merely the name of the town where he
-first took the vows; more often Fra Angelico. If we turn his compound
+first took the vows; more often Fra Angelico. If we turn his [[Compound|compound]]
 designation into English, it runs thus--"the Beatified Friar John the
 Angelic of Fiesole." In his lifetime he was known no doubt simply as
 Fra Giovanni or Friar John; "The Angelic" is a laudatory term which
@@ -33,7 +33,7 @@ school is discernible in his work.
 
 According to Vasari, the first paintings of this artist were in the
 Certosa of Florence; none such exist there now. His earliest extant
-performances, in considerable number, are at Cortona, whither he
+performances, in considerable number, are at [[Cortona]], whither he
 was sent during his novitiate, and here apparently he spent all the
 opening years of his monastic life. His first works executed in fresco
 were probably those, now destroyed, which he painted in the convent
@@ -45,7 +45,7 @@ altarpiece for the choir, followed by many other works; he may have
 studied about this time the renowned frescoes in the Brancacci chapel
 in the Florentine church of the Carmine and also the paintings of
 Orcagna. In or about 1445 he was invited by the pope to Rome. The pope
-who reigned from 1431 to 1447 was Eugenius IV., and he it was who in
+who reigned from 1431 to 1447 was [[Eugenius]] IV., and he it was who in
 1445 appointed another Dominican friar, a colleague of Angelico, to
 be archbishop of Florence. If the story (first told by Vasari) is
 true--that this appointment was made at the suggestion of Angelico
@@ -84,14 +84,14 @@ to trace approximately the sequence of the works which we now proceed
 to name as among his most important productions. In Florence, in the
 convent of S. Marco (now converted into a national museum), a series
 of frescoes, beginning towards 1443; in the first cloister is the
-Crucifixion with St. Dominic kneeling; and the same treatment recurs on
-a wall near the dormitory; in the chapterhouse is a third Crucifixion,
+Crucifixion with St. [[Dominic]] kneeling; and the same treatment recurs on
+a wall near the [[Dormitory|dormitory]]; in the chapterhouse is a third Crucifixion,
 with the Virgin swooning, a composition of twenty life-sized
 figures--the red background, which has a strange and harsh effect, is
 the misdoing of some restorer; an "Annunciation," the figures of about
 three-fourths of life-size, in a dormitory; in the adjoining passage,
 the "Virgin enthroned," with four saints; on the wall of a cell,
-the "Coronation of the Virgin," with Saints Paul, Thomas Aquinas,
+the "[[Coronation]] of the Virgin," with Saints Paul, Thomas Aquinas,
 Benedict, Dominic, Francis and Peter Martyr; two Dominicans welcoming
 Jesus, habited as a pilgrim; an "Adoration of the Magi"; the "Marys
 at the Sepulchre." All these works are later than the altarpiece which
@@ -121,7 +121,7 @@ For the church of Santa Trinita, Florence, Angelico executed a
 Judgment," both now in the Florentine academy; for S. Maria Novella, a
 "Coronation of the Virgin," with a predella in three sections, now
 in the Uffizi,--this again is one of his masterpieces. In Orvieto
-cathedral he painted three triangular divisions of the ceiling,
+cathedral he painted three triangular divisions of the [[Ceiling|ceiling]],
 portraying respectively Christ in a glory of angels, sixteen saints
 and prophets, and the virgin and apostles: all these are now much
 repainted and damaged. In Rome, in the Chapel of Nicholas V., the acts
@@ -141,7 +141,7 @@ artist. Benedetto may perhaps have assisted Giovanni in the frescoes
 at S. Marco, but nothing of the kind is distinctly traceable. A folio
 series of engravings from these paintings was published in Florence,
 in 1852. Along with Gozzoli already mentioned, Zanobi Strozzi and
-Gentile da Fabriano are named as pupils of the Beato.
+[[Gentile Da Fabriano|Gentile da Fabriano]] are named as pupils of the Beato.
 
 We have spoken of Angelico's art as "pietistic"; this is in fact
 its predominant character. His visages have an air of rapt suavity,

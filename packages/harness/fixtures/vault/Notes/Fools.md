@@ -12,12 +12,12 @@ _fête des fous_), the name for certain burlesque quasi-religious
 festivals which, during the middle ages, were the ecclesiastical
 counterpart of the secular revelries of the Lord of Misrule. The
 celebrations are directly traceable to the pagan Saturnalia of ancient
-Rome, which in spite of the conversion of the Empire to Christianity,
+Rome, which in spite of the [[Conversion|conversion]] of the Empire to Christianity,
 and of the denunciation of bishops and ecclesiastical councils,
 continued to be celebrated by the people on the Kalends of January with
 all their old licence. The custom, indeed, so far from dying out, was
 adopted by the barbarian conquerors and spread among the Christian Goths
-in Spain, Franks in Gaul, Alemanni in Germany, and Anglo-Saxons in
+in Spain, [[Franks]] in [[Gaul]], Alemanni in Germany, and Anglo-Saxons in
 Britain. So late as the 11th century Bishop Burchard of Worms thought it
 necessary to fulminate against the excesses connected with it
 (_Decretum_, xix. c. 5, Migne, _Patrologia lat_. 140, p. 965). Then,
@@ -28,8 +28,8 @@ festivals for different orders of the clergy: the feast of St Stephen
 (December 26) for the deacons, St John's day (December 27) for the
 priests, Holy Innocents' Day for the boys, and for the sub-deacons
 Circumcision, the Epiphany, or the 11th of January. The Feast of Holy
-Innocents became a regular festival of children, in which a boy, elected
-by his fellows of the choir school, functioned solemnly as bishop or
+[[Innocent|Innocents]] became a regular festival of children, in which a boy, elected
+by his [[Fellows|fellows]] of the [[Choir|choir]] school, functioned solemnly as bishop or
 archbishop, surrounded by the elder choir-boys as his clergy, while the
 canons and other clergy took the humbler seats. At first there is no
 evidence to prove that these celebrations were characterized by any
@@ -40,9 +40,9 @@ _Patrol_. _lat_. 202, p. 79). The burlesque ritual which characterized
 the Feast of Fools throughout the middle ages was now at its height. A
 young sub-deacon was elected bishop, vested in the episcopal _insignia_
 (except the mitre) and conducted by his fellows to the sanctuary. A mock
-mass was begun, during which the lections were read _cum farsia_,
+mass was begun, during which the [[Lection|lections]] were read _cum farsia_,
 obscene songs were sung and dances performed, cakes and sausages eaten
-at the altar, and cards and dice played upon it.
+at the altar, and [[Cards|cards]] and dice played upon it.
 
 This burlesquing of things universally held sacred, though condemned by
 serious-minded theologians, conveyed to the child-like popular mind of
@@ -65,11 +65,11 @@ was a mere incident in the Feast of Fools; but sometimes he was the
 occasion of a special festival, ridiculous enough to modern notions, but
 by no means intended in an irreverent spirit. The three most notable
 celebrations of the Feast of the Ass were at Rouen, Beauvais and Sens.
-At Rouen the feast was celebrated on Christmas Day, and was intended to
+At Rouen the feast was celebrated on [[Christmas]] Day, and was intended to
 represent the times before the coming of Christ. The service opened with
 a procession of Old Testament characters, prophets, patriarchs and
-kings, together with heathen prophets, including Virgil, the chief
-figure being Balaam on his ass. The ass was a hollow wooden effigy,
+kings, together with [[Heathen|heathen]] prophets, including Virgil, the chief
+figure being [[Balaam]] on his ass. The ass was a hollow wooden effigy,
 within which a priest capered and uttered prophecies. The procession was
 followed, inside the church, by a curious combination of ritual office
 and mystery play, the text of which, according to the _Ordo processionis
@@ -78,23 +78,23 @@ asinorum secundum Rothomagensem usum_, is given in Du Cange.
 Far more singular was the celebration at Beauvais, which was held on the
 14th of January, and represented the flight into Egypt. A richly
 caparisoned ass, on which was seated the prettiest girl in the town
-holding in her arms a baby or a large doll, was escorted with much pomp
+holding in her arms a baby or a large [[Doll|doll]], was escorted with much pomp
 from the cathedral to the church of St Étienne. There the procession was
-received by the priests, who led the ass and its burden to the
+received by the priests, who led the ass and its [[Burden|burden]] to the
 sanctuary. Mass was then sung; but instead of the ordinary responses to
-the _Introit_, _Kyrie_, _Gloria_, &c., the congregation chanted "Hinham"
+the _Introit_, _[[Kyrie]]_, _Gloria_, &c., the congregation chanted "Hinham"
 (Hee-haw) three times. The rubric of the mass for this feast actually
 runs: _In fine Missae Sacerdos versus ad populum vice, Ite missa est,
 Hinhannabit: populus vero vice, Deo Gratias, ter respondebit Hinham,
 Hinham, Hinham_ (At the close of the mass the priest turning to the
-people instead of saying, _Ite missa est_, shall bray thrice: the
+people instead of saying, _Ite missa est_, shall [[Bray|bray]] thrice: the
 people, instead of _Deo gratias_, shall thrice respond Hee-haw, Hee-haw,
 Hee-haw).
 
 At Sens the Feast of the Ass was associated with the Feast of Fools,
 celebrated at Vespers on the Feast of Circumcision. The clergy went in
 procession to the west door of the church, where two canons received the
-ass, amid joyous chants, and led it to the precentor's table. Bizarre
+ass, amid joyous [[Chant|chants]], and led it to the precentor's table. Bizarre
 vespers followed, sung falsetto and consisting of a medley of extracts
 from all the vespers of the year. Between the lessons the ass was
 solemnly fed, and at the conclusion of the service was led by the
@@ -120,13 +120,13 @@ to these efforts, and it survived throughout Europe till the
 Reformation, and even later in France; for in 1645 Mathurin de Neuré
 complains in a letter to Pierre Gassendi of the monstrous fooleries
 which yearly on Innocents' Day took place in the monastery of the
-Cordeliers at Antibes. "Never did pagans," he writes, "solemnize with
+[[Cordeliers]] at Antibes. "Never did pagans," he writes, "solemnize with
 such extravagance their superstitious festivals as do they.... The
 lay-brothers, the cabbage-cutters, those who work in the kitchen ...
 occupy the places of the clergy in the church. They don the sacerdotal
 garments, reverse side out. They hold in their hands books turned upside
 down, and pretend to read through spectacles in which for glass have
-been substituted bits of orange-peel."
+been substituted [[Bit|bits]] of orange-peel."
 
   See B. Picart, _Cérémonies et coutumes religieuses de tous les
   peuples_ (1723); du Tilliot, _Mémoires pour servir à l'histoire de la

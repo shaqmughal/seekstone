@@ -16,8 +16,8 @@ lb., although one of bronze, preserved in the British Museum, weighs
 over 8 lb. Sometimes a kind of quoit, spherical in form, was used,
 through a hole in which a thong was passed to assist the athlete in
 throwing it. The sport of throwing the discus was common in the time of
-Homer, who mentions it repeatedly. It formed a part of the _pentathlon_,
-or quintuple games, in the ancient Olympic Games. Statius, in _Thebais_,
+[[Homer]], who mentions it repeatedly. It formed a part of the _pentathlon_,
+or quintuple [[Games|games]], in the ancient Olympic Games. Statius, in _Thebais_,
 646-721, fully describes the use of the discus. In the British Museum
 there is a restored copy of a statue by Myron (see GREEK ART, Plate IV.
 fig. 68) of a discus-thrower (_discobolus_) in the act of hurling the
@@ -30,7 +30,7 @@ time it has become a recognized event in the athletic championship
 meetings of several European nations, as well as in the United States,
 where it has become very popular. According to the American rules the
 discus must be of a smooth, hard-wood body without finger-holes,
-weighted in the centre with lead disks and capped with polished brass
+weighted in the centre with lead disks and capped with polished [[Brass|brass]]
 disks, with a steel ring on the outside. Its weight must be 4½ lb., its
 outside diameter 8 in. and its thickness at the centre 2 in. It must be
 thrown from a 7-ft. circle, which may not be overstepped in throwing,

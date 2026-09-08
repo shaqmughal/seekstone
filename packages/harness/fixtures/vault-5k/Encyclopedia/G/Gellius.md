@@ -4,7 +4,7 @@ GELLIUS, AULUS (c. A.D. 130-180), Latin author and grammarian, probably
 born at Rome. He studied grammar and rhetoric at Rome and philosophy at
 Athens, after which he returned to Rome, where he held a judicial
 office. His teachers and friends included many distinguished
-men--Sulpicius Apollinaris, Herodes Atticus and Fronto. His only work,
+men--Sulpicius Apollinaris, [[Herod|Herodes]] Atticus and Fronto. His only work,
 the _Noctes Atticae_, takes its name from having been begun during the
 long nights of a winter which he spent in Attica. He afterwards
 continued it at Rome. It is compiled out of an Adversaria, or
@@ -14,7 +14,7 @@ comprises notes on grammar, geometry, philosophy, history and almost
 every other branch of knowledge. The work, which is utterly devoid of
 sequence or arrangement, is divided into twenty books. All these have
 come down to us except the eighth, of which nothing remains but the
-index. The _Noctes Atticae_ is valuable for the insight it affords into
+[[Index|index]]. The _Noctes Atticae_ is valuable for the insight it affords into
 the nature of the society and pursuits of those times, and for the
 numerous excerpts it contains from the works of lost ancient authors.
 
@@ -29,7 +29,7 @@ numerous excerpts it contains from the works of lost ancient authors.
 
 GELLIVARA [GELLIVARE], a mining town of Sweden in the district (_län_)
 of Norrbotten, 815 m. N. by E. of Stockholm by rail. It lies in the
-well-nigh uninhabited region of Swedish Lapland, 43 m. N. of the Arctic
+well-nigh uninhabited region of Swedish Lapland, 43 m. N. of the [[Arctic]]
 Circle. It owes its importance to the iron mines in the mountain
 Malmberget 4½ m. to the north, rising to 2024 ft. above sea-level (830
 ft. above Gellivara town). During the dark winter months work proceeds

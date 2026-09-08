@@ -2,10 +2,10 @@
 
 LORD JUSTICE CLERK, in Scotland, a judge next in rank to the lord
 justice-general. He presides in the second division of the court of
-session, and in the absence of the lord justice-general, presides in the
+session, and in the absence of the [[Lord Justice-General|lord justice-general]], presides in the
 court of justiciary. The justice clerk was originally not a judge at
-all, but simply clerk and legal assessor of the justice court. In course
-of time he was raised from the clerk's table to the bench, and by custom
+all, but simply clerk and legal [[Assessor|assessor]] of the justice court. In course
+of time he was raised from the clerk's table to the [[Bench|bench]], and by custom
 presided over the court in the absence of the justice-general. Up to
 1672 his position was somewhat anomalous, as it was doubtful whether he
 was a clerk or a judge, but an act of that year, which suppressed the

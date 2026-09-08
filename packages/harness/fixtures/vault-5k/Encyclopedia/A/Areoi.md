@@ -27,7 +27,7 @@ them. If, however, the infant was allowed to survive half an hour only,
 it was spared; but to have the right of keeping it the mother must find
 a male Areoi willing to adopt it. The Areois travelled about, devoting
 their whole time to feasting, dancing (the chief dance of the women
-being the grossly indecent _Timorodee_ mentioned by Captain Cook), and
+being the grossly indecent _Timorodee_ mentioned by Captain [[Cook]]), and
 debauchery, varied by elaborate realistic stage presentments of the
 lives and loves of gods and legendary heroes.
 

@@ -1,15 +1,15 @@
 # Fowey
 
 FOWEY (usually pronounced _Foy_), a seaport and market-town in the
-Bodmin parliamentary division of Cornwall, England, on the Great Western
+[[Bodmin]] parliamentary division of [[Cornwall]], England, on the Great Western
 railway, 25 m. by sea W. of Plymouth. Pop. (1901) 2258. It lies on the
 west shore of the picturesque estuary of the river Fowey, close to the
 water's edge, and sheltered by a screen of hills. Its church of St
 Nicholas is said to have been built in the 14th century, on the site of
 a still older edifice dedicated to St Finbar of Cork. It has a fine
 tower and late Norman doorway. Within are a priest's chamber over the
-porch, a handsome oak ceiling, a 15th-century pulpit, and some curious
-monuments and brasses. Place House, adjacent to the church, is a highly
+porch, a handsome oak [[Ceiling|ceiling]], a 15th-century pulpit, and some curious
+monuments and [[Brasses|brasses]]. Place House, adjacent to the church, is a highly
 ornate Tudor building. A few ancient houses remain in the town. Deep-sea
 fishing is carried on; but the staple trade consists in the export of
 china clay and minerals, coal being imported. Fowey harbour, which is
@@ -26,7 +26,7 @@ from the reign of Edward I. to the days of the Tudors. The numerous
 references to the privateering exploits of its ships in the Patent and
 Close Rolls and the extraordinary number of them at the siege of Calais
 in 1346 alike testify to its importance. During this period the king's
-mandates were addressed to the bailiffs or to the mayor and bailiffs,
+[[Mandate|mandates]] were addressed to the bailiffs or to the [[Mayor|mayor]] and bailiffs,
 and no charter of incorporation appears to have been granted until the
 reign of James II. Under the second charter of 1690 the common council
 consisted of a mayor and eight aldermen and these with a recorder

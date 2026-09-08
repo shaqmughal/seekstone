@@ -44,7 +44,7 @@ Coventry is the man and nothing done till he comes," and on his removal
 in 1669 the duke of Albemarle, no friendly or partial critic, declares
 that "nothing now would be well done." His appointment, however, came
 too late to ward off the naval disaster at Chatham the same year and the
-national bankruptcy in 1672.
+national [[Bankruptcy|bankruptcy]] in 1672.
 
 Meanwhile Coventry's rising influence had been from the first the cause
 of increasing jealousy to the old chancellor Clarendon, who especially
@@ -78,13 +78,13 @@ was clearly the final adoption by Charles of the policy of subservience
 to France and desertion of Holland and Protestant interests. Six weeks
 before Coventry's fall, the conference between Charles, James,
 Arlington, Clifford and Arundel had taken place, which resulted a year
-and a half later in the disgraceful treaty of Dover. To such schemes Sir
+and a half later in the disgraceful treaty of [[Dover]]. To such schemes Sir
 William, with his steady hostility to France and active devotion to
 Protestantism, was doubtless a formidable opponent. He now withdrew
 definitely from official life, still retaining, however, his ascendancy
 in the House of Commons, and leading the party which condemned and
 criticized the reactionary and fatal policy of the government, his
-credit and reputation being rather enhanced than diminished by his
+[[Credit|credit]] and reputation being rather enhanced than diminished by his
 dismissal.[3]
 
 In 1673 was published a pamphlet which went through five editions the

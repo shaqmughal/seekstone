@@ -7,9 +7,9 @@ type: article
 
 # Haverhill
 
-HAVERHILL, a city of Essex county, Massachusetts, U.S.A., situated on
+HAVERHILL, a city of [[Essex]] county, Massachusetts, U.S.A., situated on
 the Merrimac river, at the head of tide and navigation, and on the
-Boston & Maine railway, 33 m. N. of Boston. Pop. (1880) 18,472; (1890)
+[[Boston]] & [[Maine]] railway, 33 m. N. of Boston. Pop. (1880) 18,472; (1890)
 27,412; (1900) 37,175, of whom 8530 were foreign-born (including 2403
 French Canadians, 1651 English Canadians and 2144 Irish), and 15,077
 were of foreign parentage (both parents foreign-born); (1910 census)
@@ -23,12 +23,12 @@ Winnikenni Park (214 acres), contiguous to Lake Kenoza, is of great
 natural beauty. The city has three well-equipped hospitals, the
 beautiful Pentucket club house, a children's home, an old ladies' home
 and numerous charitable organizations. The schools of the city, both
-public and private, are of high standing; they include Bradford Academy
+public and private, are of high standing; they include [[Bradford]] Academy
 (1803) for girls and the St James School (Roman Catholic). The public
 library is generously endowed, and in 1908 had about 90,000 volumes.
 Almost from the beginning of its history Haverhill was active
 industrially. Thomas Dustin, the husband of Hannah Dustin, manufactured
-bricks, and this industry has been carried on in the same locality for
+[[Brick|bricks]], and this industry has been carried on in the same locality for
 more than two hundred years. The large Stevens woollen mills are the
 outgrowth of mills established in 1835. The manufacture of woollen hats,
 established in the middle of the 18th century, is one of the prominent
@@ -44,15 +44,15 @@ output being represented by boots and shoes or their accessories. One of
 the largest sole-leather manufactories in the world is here.
 
 Haverhill was settled in June 1640 by a small colony from Newbury and
-Ipswich, and its Indian name, Pentucket, was replaced by that of
+[[Ipswich]], and its Indian name, Pentucket, was replaced by that of
 Haverhill in compliment to the first minister, Rev. John Ward, who was
 born at Haverhill, England. In its earlier years this frontier town
 suffered severely from the forays of the Indians, and in 1690 the
 abandonment of the settlement was contemplated. Two Indian attacks are
 particularly noteworthy--one in 1698, in which Hannah Dustin, her
 new-born babe, and her nurse were carried away to the vicinity of
-Penacook, now Concord, New Hampshire. Here in the night Mrs Dustin,
-assisted by her nurse and by a captive English boy, tomahawked and
+Penacook, now Concord, New [[Hampshire]]. Here in the night Mrs Dustin,
+assisted by her nurse and by a [[Captive|captive]] English boy, tomahawked and
 scalped ten Indians (two men, the others children and women) and escaped
 down the river to Haverhill; a monument to her stands in City Hall Park.
 In 1708 250 French and Indians attacked the village, killing 40 of its

@@ -3,11 +3,11 @@
 HAIR (a word common to Teutonic languages), the general term for the
 characteristic outgrowth of the epidermis forming the coat of mammals.
 The word is also applied by analogy to the filamentous outgrowths from
-the body of insects, &c., plants, and metaphorically to anything of like
+the body of [[Insect|insects]], &c., plants, and metaphorically to anything of like
 appearance.
 
 For anatomy, &c. of animal hair see SKIN AND EXOSKELETON; FIBRES and
-allied articles; FUR, and LEATHER.
+allied articles; [[Fur|FUR]], and LEATHER.
 
 _Anthropology._--The human hair has an important place among the
 physical criteria of race. While its general structure and quantity vary
@@ -66,7 +66,7 @@ hybrids. Quatrefages quotes the case of a triple hybrid, "half negro,
 quarter Cherokee, quarter English," who had short crisp furry-looking
 hair.
 
-Wavy types of hair vary most in colour: almost the deepest hue of black
+Wavy types of hair vary most in colour: almost the deepest [[Hue|hue]] of black
 being found side by side with the most flaxen and towy. Colour varies
 less in the lank type, and scarcely at all in the woolly. The only
 important exception to the uniform blackness of the negroid wool is to
@@ -101,7 +101,7 @@ reach 6 ft. or more.
 
 The growth of hair on the body corresponds in general with that on the
 head. The hairiest races are the Australians and Tasmanians, whose heads
-are veritable mops in the thickness and unkempt luxuriance of the locks.
+are veritable mops in the thickness and unkempt luxuriance of the [[Lock|locks]].
 Next to them are the Todas, and other hill-tribesmen of India, and the
 Hairy Ainu of Japan. Traces, too, of the markedly hairy race, now
 extinct, supposed to be the ancestor of Toda and Ainu alike, are to be
@@ -133,9 +133,9 @@ that which characterizes to-day the great ethnical groups. The wavy type
 bridges the gulf between the lank and woolly types, all in turn derived
 from a common hair-covered being. In this connexion it is worth mention,
 as pointed out by P. Topinard, that though the regions occupied by the
-negroid races are the habitat of the anthropoid apes, the hair of the
+negroid races are the habitat of the anthropoid [[Ape|apes]], the hair of the
 latter is real hair, not wool. Further in the eastern section of the
-dark domain, while the Papuan is still black and dolichocephalic, his
+dark domain, while the Papuan is still black and [[Dolichocephalic|dolichocephalic]], his
 presumed progenitor, the orang-utan, is brachycephalic with decidedly
 red hair. Thus the white races are seen to come nearest the higher apes
 in this respect, yellow next, and black farthest removed.
@@ -147,7 +147,7 @@ of the race might serve to define it." At any rate a hair of an
 individual bears the stamp of his origin.
 
   See Dr Pruner-Bey in _Memoires de la societe d'anthropologie_, ii. P.
-  A. Brown, _Classification of Mankind by the Hair_; P. Topinard,
+  A. Brown, _[[Classification]] of Mankind by the Hair_; P. Topinard,
   _L'Homme dans la nature_ (1891), chap. vi.
 
   _Commerce._--Hair enters into a considerable variety of manufactures.
@@ -184,22 +184,22 @@ individual bears the stamp of his origin.
   manufactures dependent on the material are industries of some
   importance. In addition to the purposes already alluded to, horse hair
   is woven into crinoline for ladies' bonnets, plaited into fishing
-  lines, woven into bags for oil and cider pressers, and into straining
-  cloths for brewers, &c., and for numerous other minor uses. The
+  lines, woven into bags for oil and [[Cider|cider]] pressers, and into straining
+  cloths for [[Brewer|brewers]], &c., and for numerous other minor uses. The
   manufactures which arise in connexion with human hair are more
   peculiar than important, although occasionally fashions arise which
   cause a large demand for human hair. The fluctuations of such fashions
   determine the value of hair; but at all times long tresses are of
   considerable value. Grey, light, pale and auburn hair are
-  distinguished as extra colours, and command much higher prices than
+  distinguished as extra [[Colours|colours]], and command much higher prices than
   the common shades. The light-coloured hair is chiefly obtained in
   Germany and Austria, and the south of France is the principal source
   of the darker shades. In the south of France the cultivation and sale
-  of heads of hair by peasant girls is a common practice; and hawkers
+  of heads of hair by peasant girls is a common practice; and [[Hawker|hawkers]]
   attend fairs for the special purpose of engaging in this traffic. Hair
   5 and even 6 ft. long is sometimes obtained. Scarcely any of the "raw
   material" is obtained in the United Kingdom except in the form of
-  ladies' "combings." Bleaching of hair by means of peroxide of hydrogen
+  ladies' "combings." [[Bleaching]] of hair by means of peroxide of hydrogen
   is extensively practised, with the view of obtaining a supply of
   golden locks, or of preparing white hair for mixing to match grey
   shades; but in neither case is the result very successful. Human hair

@@ -15,7 +15,7 @@ which divides the town into two parts, the larger of which is on the
 southern bank, and there the trade of the town, which is chiefly in
 flour and agricultural produce, is mainly carried on. The town has
 several good streets and some noteworthy buildings. Of the latter, the
-most prominent are the military barracks on the north bank of the river,
+most prominent are the military [[Barracks|barracks]] on the north bank of the river,
 the Protestant church, the Roman Catholic cathedral and St Colman's
 Roman Catholic college. Fermoy rose to importance only at the beginning
 of the 19th century, owing entirely to the devotion of John Anderson, a

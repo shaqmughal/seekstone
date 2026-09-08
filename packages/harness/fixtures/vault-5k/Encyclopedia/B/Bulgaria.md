@@ -13,7 +13,7 @@ parallel, on the south, are the minor ranges of the Sredna Gora or "Middle
 Mountains" (highest summit 5167 ft.) and the Karaja Dagh, enclosing
 respectively the sheltered valleys of Karlovo and Kazanlyk. At its eastern
 extremity the Balkan chain divides into three ridges, the central
-terminating in the Black Sea at Cape Emine ("Haemus"), the northern forming
+terminating in the [[Black Sea]] at Cape Emine ("Haemus"), the northern forming
 the watershed between the tributaries of the Danube and the rivers falling
 directly into the Black Sea. The Rhodope, or southern group, is altogether
 distinct from the Balkans, with which, however, it is connected by the
@@ -56,7 +56,7 @@ their eastern extremity and, uniting with the Great Kamchik, falls into the
 Black Sea. The Maritza, the ancient _Hebrus_, springs from the slopes of
 Musalla, and, with its tributaries, the Tunja and Arda, waters the wide
 plain of Eastern Rumelia. The Struma (ancient and modern Greek _Strymon_)
-drains the valley of Kiustendil, and, like the Maritza, flows into the
+drains the valley of [[Kiustendil]], and, like the Maritza, flows into the
 Aegean. The elevated basins of Samakov (lowest altitude 3050 ft.), Trn
 (2525 ft.), Breznik (2460 ft.), Radomir (2065 ft.), Sofia (1640 ft.), and
 Kiustendil (1540 ft.), are a peculiar feature of the western highlands.
@@ -64,7 +64,7 @@ Kiustendil (1540 ft.), are a peculiar feature of the western highlands.
 [Illustration]
 
 _Geology._--The stratified formation presents a remarkable variety, almost
-all the systems being exemplified. The Archean, composed of gneiss and
+all the systems being exemplified. The Archean, composed of [[Gneiss|gneiss]] and
 crystalline schists, and traversed by eruptive veins, extends over the
 greater part of the Eastern Rumelian plain, the Rilska Planina, Rhodope,
 and the adjacent ranges. North of the Balkans it appears only in the
@@ -74,7 +74,7 @@ continental _facies_ (Kulm). Here anthracitiferous coal is found in beds of
 argillite and sandstone. Red sandstone and conglomerate, representing the
 Permian system, appear especially around the basin of Sofia. Above these,
 in the western Balkans, are Mesozoic deposits, from the Trias to the upper
-Jurassic, also occurring in the central part of the range. The Cretaceous
+[[Jurassic]], also occurring in the central part of the range. The Cretaceous
 system, from the infra-Cretaceous Hauterivien to the Senonian, appears
 throughout the whole extent of Northern Bulgaria, from the summits of the
 Balkans to the Danube. Gosau beds are found on the southern declivity of
@@ -86,21 +86,21 @@ Tertiary, the Mediterranean, or earlier, stage appears near Pleven (Plevna)
 in the Leithakalk and Tegel forms, and between Varna and Burgas with beds
 of spaniodons, as in the Crimea; the Sarmatian stage in the plain of the
 Danube and in the districts of Silistria and Varna. A rich mammaliferous
-deposit (_Hipparion_, _Rhinoceros_, _Dinotherium_, _Mastodon_, &c.) of this
+deposit (_Hipparion_, _Rhinoceros_, _Dinotherium_, _[[Mastodon]]_, &c.) of this
 period has been found near Mesemvria. Other Neogene strata occupy a more
 limited space. The Quaternary era is represented by the typical loess,
 which covers most of the Danubian plain; to its later epochs belong the
 alluvial deposits of the riparian districts with remains of the _Ursus_,
 _Equus_, &c., found in bone-caverns. Eruptive masses intrude in the Balkans
 and Sredna Gora, as well as in the Archean formation of the southern [v.04
-p.0774] ranges, presenting granite, syenite, diorite, diabase,
+p.0774] ranges, presenting granite, syenite, [[Diorite|diorite]], diabase,
 quartz-porphyry, melaphyre, liparite, trachyte, andesite, basalt, &c.
 
 _Minerals._--The mineral wealth of Bulgaria is considerable, although, with
 the exception of coal, it remains largely unexploited. The minerals which
 are commercially valuable include gold (found in small quantities), silver,
-graphite, galena, pyrite, marcasite, chalcosine, sphalerite, chalcopyrite,
-bornite, cuprite, hematite, limonite, ochre, chromite, magnetite, azurite,
+graphite, [[Galena|galena]], pyrite, [[Marcasite|marcasite]], chalcosine, sphalerite, chalcopyrite,
+bornite, cuprite, hematite, limonite, ochre, chromite, [[Magnetite|magnetite]], [[Azurite|azurite]],
 manganese, malachite, gypsum, &c. The combustibles are anthracitiferous
 coal, coal, "brown coal" and lignite. The lignite mines opened by the
 government at Pernik in 1891 yielded in 1904 142,000 tons. Coal beds have
@@ -113,9 +113,9 @@ their valuable therapeutic qualities. The mineral springs on the north of
 the Balkans are, with one exception (Vrshetz, near Berkovitza), cold.
 
 _Climate._--The severity of the climate of Bulgaria in comparison with that
-of other European regions of the same latitude is attributable in part to
+of other European regions of the same [[Latitude|latitude]] is attributable in part to
 the number and extent of its mountain ranges, in part to the general
-configuration of the Balkan Peninsula. Extreme heat in summer and cold in
+configuration of the [[Balkan Peninsula]]. Extreme heat in summer and cold in
 winter, great local contrasts, and rapid transitions of temperature occur
 here as in the adjoining countries. The local contrasts are remarkable. In
 the districts extending from the Balkans to the Danube, which are exposed
@@ -139,7 +139,7 @@ is short and severe; the spring short, changeable and rainy; the summer
 hot, but tempered by thunderstorms; the autumn (_yasen_, "the clear time")
 magnificently fine and sometimes prolonged into the month of December. The
 mean temperature is 52 deg.. The climate is healthy, especially in the
-mountainous districts. Malarial fever prevails in the valley of the
+mountainous districts. Malarial [[Fever|fever]] prevails in the valley of the
 Maritza, in the low-lying regions of the Black Sea coast, and even in the
 upland plain of Sofia, owing to neglect of drainage. The mean annual
 rainfall is 25-59 in. (Gabrovo, 41-73; Sofia, 27-68; Varna, 18-50).
@@ -166,13 +166,13 @@ in the other countries of southeastern Europe; the fierce shaggy grey
 sheep-dog leaves a lasting impression on most travellers in the interior.
 Fowls, especially turkeys, are everywhere abundant, and great numbers of
 geese may be seen in the Moslem villages. The ornithology of Bulgaria is
-especially interesting. Eagles (_Aquila imperialis_ and the rarer _Aquila
+especially interesting. Eagles (_[[Aquila]] imperialis_ and the rarer _Aquila
 fulva_), vultures (_Vultur monachus_, _Gyps fulvus_, _Neophron
 percnopterus_), owls, kites, and the smaller birds of prey are
 extraordinarily abundant; singing birds are consequently rare. The
 lammergeier (_Gypaetus barbatus_) is not uncommon. Immense flocks of wild
 swans, geese, pelicans, herons and other waterfowl haunt the Danube and the
-lagoons of the Black Sea coast. The cock of the woods (_Tetrao urogallus_)
+lagoons of the Black Sea coast. The [[Cock|cock]] of the woods (_Tetrao urogallus_)
 is found in the Balkan and Rhodope forests, the wild pheasant in the Tunja
 valley, the bustard (_Otis tarda_) in the Eastern Rumelian plain. Among the
 migratory birds are the crane, which hibernates in the Maritza valley,
@@ -182,7 +182,7 @@ sometimes appears in large flights. The stork, which is never molested,
 adds a picturesque feature to the Bulgarian village. Of fresh-water fish,
 the sturgeon (_Acipenser sturio_ and _A. huso_), sterlet, salmon (_Salmo
 hucho_), and carp are found in the Danube; the mountain streams abound in
-trout. The Black Sea supplies turbot, mackerel, &c.; dolphins and flying
+trout. The Black Sea supplies turbot, mackerel, &c.; [[Dolphin|dolphins]] and flying
 fish may sometimes be seen.
 
 _Flora._--In regard to its flora the country may be divided into (1) the
@@ -204,7 +204,7 @@ owing to its southerly aspect, affords the vegetation of the Macedonian
 valleys. The flora of the Balkans corresponds with that of the Carpathians;
 the Rila and Rhodope group is rich in purely indigenous types combined with
 those of the central European Alps and the mountains of Asia Minor. The
-Alpine types are often represented by variants: _e.g._ the _Campanula
+Alpine types are often represented by variants: _e.g._ the _[[Campanula]]
 alpina_ by the _Campanula orbelica_, the _Primula farinosa_ by the _Primula
 frondosa_ and _P. exigua_, the _Gentiana germanica_ by the _Gentiana
 bulgarica_, &c. The southern mountain group, in common, perhaps, with the
@@ -212,12 +212,12 @@ unexplored highlands of Macedonia, presents many isolated types, unknown
 elsewhere in Europe, and in some cases corresponding with those of the
 Caucasus. Among the more characteristic genera of the Bulgarian flora are
 the following:--_Centaurea_, _Cirsium_, _Linaria_, _Scrophularia_,
-_Verbascum_, _Dianthus_, _Silene_, _Trifolium_, _Euphorbia_, _Cytisus_,
+_Verbascum_, _Dianthus_, _Silene_, _Trifolium_, _[[Euphorbia]]_, _Cytisus_,
 _Astragalus_, _Ornithogalum_, _Allium_, _Crocus_, _Iris_, _Thymus_,
 _Umbellifera_, _Sedum_, _Hypericum_, _Scabiosa_, _Ranunculus_, _Orchis_,
 _Ophrys_.
 
-_Forests._--The principal forest trees are the oak, beech, ash, elm,
+_Forests._--The principal forest trees are the oak, beech, ash, [[Elm|elm]],
 walnut, cornel, poplar, pine and juniper. The oak is universal in the
 thickets, but large specimens are now rarely found. Magnificent forests of
 beech clothe the valleys of the higher Balkans and the Rilska Planina; the
@@ -226,7 +226,7 @@ southern slope is bare. The walnut and chestnut are mainly confined to
 eastern Rumelia. Conifers (_Pinus silvestris_, _Picea excelsa_, _Pinus
 laricis_, _Pinus mughus_) are rare in the Balkans, but abundant in the
 higher regions of the southern mountain group, where the _Pinus peuce_,
-otherwise peculiar to the Himalayas, also flourishes. The wild lilac forms
+otherwise peculiar to the [[Himalaya|Himalayas]], also flourishes. The wild [[Lilac|lilac]] forms
 a beautiful feature in the spring landscape. Wild fruit trees, such as the
 apple, pear and plum, are common. The vast forests of the middle ages
 disappeared under the supine Turkish administration, which took no measures
@@ -240,13 +240,13 @@ only by brushwood and scrub. The beautiful forests of the Rila district are
 rapidly disappearing under exploitation.
 
 _Agriculture._--Agriculture, the main source of wealth to the country, is
-still in an extremely primitive condition. The ignorance and conservatism
+still in an extremely primitive condition. The [[Ignorance|ignorance]] and conservatism
 of the peasantry, the habits engendered by widespread insecurity and the
 fear of official rapacity under Turkish rule, insufficiency of
 communications, want of capital, and in some districts sparsity of
 population, have all tended to retard the development of this most
 important industry. The peasants cling to traditional usage, and look with
-suspicion on modern implements and new-fangled modes of production. The
+suspicion on modern [[Implement|implements]] and new-fangled modes of production. The
 plough is of a primeval type, rotation of crops is only partially
 practised, and the use of manure is almost unknown. The government has
 sedulously endeavoured to introduce more enlightened methods and ideas by
@@ -277,7 +277,7 @@ growths. The tobacco, which is not of the highest quality, is grown in
 considerable quantities for home consumption and only an insignificant
 amount is exported. The best tobacco-fields in Bulgaria are on the northern
 slopes of Rhodope, but the southern declivity, which produces the famous
-Kavala growth, is more adapted to the cultivation of the plant. The
+[[Kavala]] growth, is more adapted to the cultivation of the plant. The
 rose-fields of Kazanlyk and Karlovo lie in the sheltered valleys between
 the Balkans and the parallel chains of the Sredna Gora and Karaja Dagh.
 About 6000 lb of the rose-essence is annually exported, being valued from
@@ -367,8 +367,8 @@ which the prosperity of the country practically depends:--
   1903    4,322,945    3,272,103    7,595,048
   1904    6,304,756    5,187,583   11,492,339
 
-The principal exports are cereals, live stock, homespuns, hides, cheese,
-eggs, attar of roses. Exports to the United Kingdom in 1900 were valued at
+The principal exports are cereals, live stock, homespuns, hides, [[Cheese|cheese]],
+[[Egg|eggs]], attar of roses. Exports to the United Kingdom in 1900 were valued at
 L239,665; in 1904 at L989,127. The principal imports are textiles, metal
 goods, colonial goods, implements, furniture, leather, petroleum. Imports
 from the United Kingdom in 1900, L301,150; in 1904, L793,972.
@@ -395,7 +395,7 @@ rate of interest is 10%, but much higher rates are not uncommon.
 Bulgaria, like the neighbouring states of the Peninsula, has adopted the
 metric system. Turkish weights and measures, however, are still largely
 employed in local commerce. The monetary unit is the _lev_, or "lion" (pl.
-_leva_), nominally equal to the franc, with its submultiple the _stotinka_
+_leva_), nominally equal to the [[Franc|franc]], with its submultiple the _stotinka_
 (pl. _-ki_), or centime. The coinage consists of nickel and bronze coins
 (21/2, 5, 10 and 20 _stotinki_) and silver coins [v.04 p.0776] (50
 _stotinki_; 1, 2 and 5 _leva_). A gold coinage was struck in 1893 with
@@ -433,7 +433,7 @@ debt, 15,603,774 fr. (L624,151); Eastern Rumelian debt, 1,910,208
 (L76,408). In February 1907 a 41/2% loan of 145,000,000 fr. at 85, secured on
 the surplus proceeds of the revenues already pledged to the loans of 1902
 and 1904, was contracted with the Banque de Paris et des Pays Bas
-associated with some German and Austrian banks for the conversion of the
+associated with some German and Austrian banks for the [[Conversion|conversion]] of the
 loans of 1888 and 1889 (requiring about 53,000,000 fr.) and for railway
 construction and other purposes. The total external debt was thus raised to
 upwards of 450,000,000 fr. The Eastern Rumelian tribute and the rent of the
@@ -445,7 +445,7 @@ with Eastern Rumelia the budget receipts increased from 40,803,262 leva
 estimated revenue for 1905 was 111,920,000 leva (L4,476,800), of which
 41,179,000 (L1,647,160) were derived from direct and 38,610,000
 (L1,544,400) from indirect taxation; the estimated expenditure was
-111,903,281 leva (L4,476,131), the principal items being: public debt,
+111,903,281 leva (L4,476,131), the principal [[Item|items]] being: public debt,
 31,317,346 (L1,252,693); army, 26,540,720 (L1,061,628); education,
 10,402,470 (L416,098); public works, 14,461,171 (L578,446); interior,
 7,559,517 (L302,380). The actual receipts in 1905 were 127,011,393 leva. In
@@ -455,7 +455,7 @@ increased. In 1906 direct taxation amounted to 9 fr. 92 c., indirect to 8
 fr. 58 c., per head of the population. The financial difficulties in which
 the country was involved at the close of the 19th century were attributable
 not to excessive indebtedness but to heavy outlay on public works, the
-army, and education, and to the maintenance of an unnecessary number of
+army, and education, and to the [[Maintenance|maintenance]] of an unnecessary number of
 officials, the economic situation being aggravated by a succession of bad
 harvests. The war budget during ten years (1888-1897) absorbed the large
 sum of 275,822,017 leva (L11,033,300) or 35.77% of the whole national
@@ -492,13 +492,13 @@ communication is still in an unsatisfactory condition. Roads are divided
 into three classes: "state roads," or main highways, maintained by the
 government; "district roads" maintained by the district councils; and
 "inter-village roads" (_mezhduselski shosseta_), maintained by the
-communes. Repairs are effected by the _corvee_ system with requisitions of
+[[Commune|communes]]. Repairs are effected by the _corvee_ system with requisitions of
 material. There are no canals, and inland navigation is confined to the
 Danube. The Austrian _Donaudampschiffahrtsgesellschaft_ and the Russian
 _Gagarine_ steamship company compete for the river traffic; the grain trade
 is largely served by steamers belonging to Greek merchants. The coasting
 trade on the Black Sea is carried on by a Bulgarian steamship company; the
-steamers of the Austrian Lloyd, and other foreign companies call at Varna,
+steamers of the Austrian [[Lloyd]], and other foreign companies call at Varna,
 and occasionally at Burgas.
 
 The development of postal and telegraphic communication has been rapid. In
@@ -589,7 +589,7 @@ military service, while the Bulgarian remnant increased, notwithstanding a
 considerable emigration to Bessarabia before and after the Russo-Turkish
 campaign of 1828. Efforts were made by the Porte to strengthen the Moslem
 element by planting colonies of Tatars in 1861 and Circassians in 1864. The
-advance of the Russian army in 1877-1878 caused an enormous exodus of the
+advance of the Russian army in 1877-1878 caused an enormous [[Exodus|exodus]] of the
 Turkish population, of which only a small proportion returned to settle
 permanently. The emigration continued after the conclusion of peace, and is
 still in progress, notwithstanding the efforts of the Bulgarian government
@@ -635,7 +635,7 @@ in thousands every summer to pasture their flocks on the Bulgarian
 mountains; they are divided into two tribes--the Kutzovlachs, or "lame
 Vlachs," who speak Rumanian, and the Hellenized Karakatchans or "black
 shepherds" (compare the Morlachs, or Mavro-vlachs, [Greek: mauroi blaches],
-of Dalmatia), who speak Greek. The Tatars, a peaceable, industrious race,
+of [[Dalmatia]]), who speak Greek. The Tatars, a peaceable, industrious race,
 are chiefly found in the neighbourhood of Varna and Silistria; they were
 introduced as colonists by the Turkish government in 1861. They may be
 reckoned at 12,000. The gipsies, who are scattered in considerable numbers
@@ -661,7 +661,7 @@ remarkable degree the qualities of patience, perseverance and endurance,
 with the capacity for laborious effort peculiar to an agricultural race.
 The tenacity and determination with which they pursue their national aims
 may eventually enable them to vanquish their more brilliant competitors in
-the struggle for hegemony in the Peninsula. Unlike most southern races, the
+the struggle for [[Hegemony|hegemony]] in the Peninsula. Unlike most southern races, the
 Bulgarians are reserved, taciturn, phlegmatic, unresponsive, and extremely
 suspicious of foreigners. The peasants are industrious, peaceable and
 orderly; the vendetta, as it exists in Albania, Montenegro and Macedonia,
@@ -732,9 +732,9 @@ the rural districts he collects the taxes. Each village, as a rule, forms a
 separate commune, but occasionally two or more villages are grouped
 together.
 
-_Justice._--The civil and penal codes are, for the most part, based on the
+_Justice._--The civil and penal [[Code|codes]] are, for the most part, based on the
 Ottoman law. While the principality formed a portion of the Turkish empire,
-the privileges of the capitulations were guaranteed to foreign subjects
+the privileges of the [[Capitulation|capitulations]] were guaranteed to foreign subjects
 (Berlin Treaty, Art. viii.). The lowest civil and criminal court is that of
 the village kmet, whose jurisdiction is confined to the limits of the
 commune; no corresponding tribunal exists in the towns. Each sub-prefecture
@@ -742,7 +742,7 @@ and town has a justice of the peace--in some cases two or more; the number
 of these officials is 130. Next follows the departmental tribunal or court
 of first instance, which is competent to pronounce sentences of death,
 penal servitude and deprivation of civil rights; in specified criminal
-cases the judges are aided by three assessors chosen by lot from an
+cases the judges are aided by three [[Assessor|assessors]] chosen by [[Lot|lot]] from an
 annually prepared panel of forty-eight persons. Three courts of appeal sit
 respectively at Sofia, Rustchuk and Philippopolis. The highest tribunal is
 the court of cassation, sitting at Sofia, and composed of a president, two
@@ -770,7 +770,7 @@ the active army being composed of 9 divisions of infantry, each of 4
 regiments, 5 regiments of cavalry together with 12 squadrons attached to
 the infantry divisions, 9 regiments of artillery each of 3 groups of 3
 batteries, together with 2 groups of mountain artillery, each of 3
-batteries, and 3 battalions of siege artillery; 9 battalions of engineers
+batteries, and 3 [[Battalion|battalions]] of siege artillery; 9 battalions of engineers
 with 1 railway and balloon section and 1 bridging section. At the same date
 the army was locally distributed in nine divisional areas with headquarters
 at Sofia, Philippopolis, Sliven, Shumla, Rustchuk, Vratza, Plevna,
@@ -800,7 +800,7 @@ exception of the engineer regiments, are furnished with the .315"
 Mannlicher magazine rifle, the engineer and militia with the Berdan; the
 artillery in 1905 mainly consisted of 8.7- and 7.5-cm. Krupp guns (field)
 and 6.5 cm. Krupp (mountain), 12 cm. Krupp and 15 cm. Creuzot (Schneider)
-howitzers, 15 cm. Krupp and 12 cm. Creuzot siege guns, and 7.5 cm. Creuzot
+[[Howitzer|howitzers]], 15 cm. Krupp and 12 cm. Creuzot siege guns, and 7.5 cm. Creuzot
 quick-firing guns; total of all description, 1154. Defensive works were
 constructed at various strategical points near the frontier and elsewhere,
 and at Varna and Burgas. The naval force consisted of a flotilla stationed
@@ -831,12 +831,12 @@ consisting of four metropolitans, which assembles once a year. The laity
 take part in the election of metropolitans and parish priests, only the
 "black clergy," or monks, being eligible for the episcopate. All
 ecclesiastical appointments are subject to the approval of the government.
-There are 2106 parishes (_eporii_) in the kingdom with 9 archimandrites,
+There are 2106 parishes (_eporii_) in the kingdom with 9 [[Archimandrite|archimandrites]],
 1936 parish priests and 21 deacons, 78 monasteries with 184 monks, and 12
 convents with 346 nuns. The celebrated monastery of Rila possesses a vast
 estate in the Rilska Planina; its abbot or _hegumen_ owns no spiritual
 superior but the exarch. Ecclesiastical affairs are under the control of
-the minister of public worship; the clergy of all denominations are paid by
+the minister of public worship; the clergy of all [[Denomination|denominations]] are paid by
 the state, being free, however, to accept fees for baptisms, marriages,
 burials, the administering of oaths, &c. The census of January 1901 gives
 3,019,999 persons of the Orthodox faith (including 66,635 Patriarchist

@@ -27,7 +27,7 @@ importance to his geographical investigations, and praises him for being
 the first to separate the historical from the merely geographical
 element. Polybius (xii. 25 g) while crediting him with a knowledge of
 the conditions of naval warfare, ridicules his description of the
-battles of Leuctra and Mantineia as showing ignorance of the nature of
+battles of [[Leuctra]] and Mantineia as showing [[Ignorance|ignorance]] of the nature of
 land operations. He was further to be commended for drawing (though not
 always) a sharp line of demarcation between the mythical and historical
 (Strabo ix. p. 423); he even recognized that a profusion of detail,
@@ -50,7 +50,7 @@ court of Alexander the Great.
   critical introduction on the life and writings of Ephorus; see J.A.
   Klugmann, _De Ephoro historico_ (1860); C.A. Volquardsen,
   _Untersuchungen uber die Quellen der griechischen und sicilischen
-  Geschichten bei Diodor_. _xi.-xvi._ (1868); and specially J.B. Bury,
+  Geschichten bei Diodor_. _xi.-xvi._ (1868); and specially J.B. [[Bury]],
   _Ancient Greek Historians_ (1909); E. Schwartz, in Pauly-Wissowa,
   _Realencyc._ s.v.; and article GREECE: _History_: Ancient Authorities.
 

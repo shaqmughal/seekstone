@@ -9,7 +9,7 @@ this the central provinces of the empire were invaded by the Taiping
 rebels, and in defence of his native district he raised a regiment of
 militia, with which he did such good service to the imperial cause that
 he attracted the attention of Tsêng Kuo-fan, the generalissimo in
-command. In 1859 he was transferred to the province of Fu-kien, where he
+command. In 1859 he was transferred to the province of [[Fu-Kien|Fu-kien]], where he
 was given the rank of taotai, or intendant of circuit. But Tsêng had not
 forgotten him, and at his request Li was recalled to take part against
 the rebels. He found his cause supported by the "Ever Victorious Army,"
@@ -22,7 +22,7 @@ connected with the surrender of Suchow, however, left a lasting stain
 upon his character. By an arrangement with Gordon the rebel wangs, or
 princes, yielded Nanking on condition that their lives should be spared.
 In spite of the assurance given them by Gordon, Li ordered their instant
-execution. This breach of faith so aroused Gordon's indignation that he
+execution. This [[Breach|breach]] of faith so aroused Gordon's indignation that he
 seized a rifle, intending to shoot the falsifier of his word, and would
 have done so had not Li saved himself by flight. On the suppression of
 the rebellion (1864) Li took up his duties as governor, but was not long
@@ -31,13 +31,13 @@ Nienfei, a remnant of the Taipings, in Ho-nan and Shan-tung (1866) he
 was ordered again to take the field, and after some misadventures he
 succeeded in suppressing the movement. A year later he was appointed
 viceroy of Hukwang, where he remained until 1870, when the Tientsin
-massacre necessitated his transfer to the scene of the outrage. He was,
+[[Massacre|massacre]] necessitated his transfer to the scene of the outrage. He was,
 as a natural consequence, appointed to the viceroyalty of the
 metropolitan province of Chihli, and justified his appointment by the
 energy with which he suppressed all attempts to keep alive the
 anti-foreign sentiment among the people. For his services he was made
 imperial tutor and member of the grand council of the empire, and was
-decorated with many-eyed peacocks' feathers.
+decorated with many-eyed peacocks' [[Feather|feathers]].
 
 To his duties as viceroy were added those of the superintendent of
 trade, and from that time until his death, with a few intervals of
@@ -73,8 +73,8 @@ the peace discussions at Shimonoseki, as Li was being borne through the
 narrow streets of the town, a would-be assassin fired a pistol
 point-blank in his face. The wound inflicted was not serious, and after
 a few days' rest Li was able to take up again the suspended
-negotiations. In 1896 he represented the emperor at the coronation of
-the tsar, and visited Germany, Belgium, France, England, and the United
+negotiations. In 1896 he represented the emperor at the [[Coronation|coronation]] of
+the tsar, and visited Germany, [[Belgium]], France, England, and the United
 States of America. For some time after his return to China his services
 were demanded at Peking, where he was virtually constituted minister for
 foreign affairs; but in 1900 he was transferred to Canton as viceroy of

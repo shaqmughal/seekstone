@@ -33,7 +33,7 @@ finely divided state it rapidly combines with oxygen, the compact metal
 requiring a strong heating to bring about this combination. It
 decomposes steam at a red heat, and slowly dissolves in dilute
 hydrochloric and sulphuric acids, but more readily in nitric acid.
-Cobalt burns in nitric oxide at 150° C. giving the monoxide. It may be
+Cobalt [[Burns|burns]] in nitric oxide at 150° C. giving the monoxide. It may be
 obtained in the pure state, according to C. Winkler (_Zeit. für anorg.
 Chem._, 1895, 8, p. 1), by electrolysing the pure sulphate in the
 presence of ammonium sulphate and ammonia, using platinum electrodes,
@@ -45,7 +45,7 @@ current of hydrogen.
   there are probably oxides of composition CoO2, Co8O9, Co6O7 and Co4O5.
   Cobalt monoxide, CoO, is prepared by heating the hydroxide or
   carbonate in a current of air, or by heating the oxide Co3O4 in a
-  current of carbon dioxide. It is a brown coloured powder which is
+  current of [[Carbon|carbon]] dioxide. It is a brown coloured powder which is
   stable in air, but gives a higher oxide when heated. On heating in
   hydrogen, ammonia or carbon monoxide, or with carbon or sodium, it is
   reduced to the metallic state. It is readily soluble in warm dilute
@@ -62,7 +62,7 @@ current of hydrogen.
   190-300° in a current of hydrogen it gives the oxide Co3O4, while at
   higher temperatures the monoxide is formed, and ultimately cobalt is
   obtained. Cobaltic hydroxide, Co(OH)3, is formed when a cobalt salt is
-  precipitated by an alkaline hypochlorite, or on passing chlorine
+  precipitated by an alkaline hypochlorite, or on passing [[Chlorine|chlorine]]
   through water containing suspended cobaltous hydroxide or carbonate.
   It is a brown-black powder soluble in hydrochloric acid, chlorine
   being simultaneously liberated. This hydroxide is soluble in well
@@ -72,7 +72,7 @@ current of hydrogen.
   and caustic soda are added to a solution of a cobaltous salt. By
   suspending cobaltous hydroxide in water and adding hydrogen peroxide,
   a strongly acid liquid is obtained (after filtering) which probably
-  contains _cobaltous acid_, H2CoO3. The barium and magnesium salts of
+  contains _cobaltous acid_, H2CoO3. The [[Barium|barium]] and magnesium salts of
   this acid are formed when baryta and magnesia are fused with cobalt
   sesquioxide. Tricobalt tetroxide, Co3O4, is produced when the other
   oxides, or the nitrate, are heated in air. By heating a mixture of
@@ -92,7 +92,7 @@ current of hydrogen.
   Alkaline carbonates give precipitates of basic carbonates, the
   formation of which is also retarded by the presence of ammonium salts.
   For the action of ammonia on the cobaltous salts in the presence of
-  air see _Cobaltammines_ (below). On the addition of potassium cyanide
+  air see _Cobaltammines_ (below). On the addition of potassium [[Cyanide|cyanide]]
   they give a brown precipitate of cobalt cyanide, Co(CN)2, which
   dissolves in excess of potassium cyanide to a green solution.
 
@@ -104,7 +104,7 @@ current of hydrogen.
   hydrochloric acid. The hydrated salt forms rose-red prisms, readily
   soluble in water to a red solution, and in alcohol to a blue solution.
   Other hydrated forms of the chloride, of composition CoCl2·2H2O and
-  CoCl2 · 4H2O have been described (P. Sabatier, _Bull. Soc. Chim._ 51,
+  CoCl2 · 4H2O have been described (P. Sabatier, _[[Bull]]. Soc. Chim._ 51,
   p. 88; Bersch, _Jahresb. d. Chemie_, 1867, p. 291). Double chlorides
   of composition CoCl2·NH4Cl·6H2O; CoCl2·SnCl4·6H2O and
   CoCl2·2CdCl2·12H2O are also known. By the addition of excess of
@@ -112,7 +112,7 @@ current of hydrogen.
   greenish-blue precipitate is obtained which, on heating, dissolves in
   the solution, giving a rose-red liquid. This solution, on standing,
   deposits octahedra of the composition CoCl2·6NH3. These crystals when
-  heated to 120° C. lose ammonia and are converted into the compound
+  heated to 120° C. lose ammonia and are converted into the [[Compound|compound]]
   CoCl2·2NH3 (E. Frémy). The bromide, CoBr2, resembles the chloride, and
   may be prepared by similar methods. The hydrated salt readily loses
   water on heating, forming at 100° C. the hydrate CoBr2·2H2O, and at
@@ -153,7 +153,7 @@ current of hydrogen.
   composition CoSO4·M2SO4·6H2O (M = K, NH4, &c.).
 
   The cobaltic salts corresponding to the oxide Co2O3 are generally
-  unstable compounds which exist only in solution. H. Marshall (_Proc.
+  unstable compounds which exist only in solution. H. [[Marshall]] (_Proc.
   Roy. Soc. Edin._ 59, p. 760) has prepared cobaltic sulphate
   Co2(SO4)3·18H2O, in the form of small needles, by the electrolysis of
   cobalt sulphate. In a similar way potassium and ammonium cobalt alums
@@ -170,7 +170,7 @@ current of hydrogen.
   be prepared by the addition of potassium nitrite to an acetic acid
   solution of cobalt chloride. The yellow precipitate obtained is washed
   with a solution of potassium acetate and finally with dilute alcohol.
-  The reaction proceeds according to the following equation: 2CoCl2 +
+  The reaction proceeds according to the following [[Equation|equation]]: 2CoCl2 +
   10KNO2 + 4HNO2 = Co2(NO2)6·6KNO2 + 4KCl + 2NO + 2H2O (A. Stromeyer,
   _Annalen_, 1855, 96, p. 220). This salt may be used for the separation
   of cobalt and nickel, since the latter metal does not form a similar
@@ -302,7 +302,7 @@ current of hydrogen.
 
   The _oxycobaltammines_ are a series of compounds of the general type
   [Co2O3·H2(NH3)10]X4 first observed by L. Gmelin, and subsequently
-  examined by E. Frémy, W. Gibbs and G. Vortmann (_Monatshefte für
+  examined by E. Frémy, W. [[Gibbs]] and G. Vortmann (_Monatshefte für
   Chemie_, 1885, 6, p. 404). They result from the cobaltammines by the
   direct taking up of oxygen and water. On heating, they decompose,
   forming basic tetrammine salts.

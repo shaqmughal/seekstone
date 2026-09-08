@@ -6,7 +6,7 @@ dinitro-diphenyl, or by the reduction of azo-benzene with tin and
 hydrochloric acid. In this latter case hydrazo-benzene C6H5NH.NH.C6H5 is
 first formed and then undergoes a peculiar re-arrangement into benzidine
 (see H. Schmidt and G. Schultz, _Annalen_, 1881, 207, p. 320; O.N. Witt
-and Hans v. Helmont, _Berichte_, 1894, 27, p. 2352; P. Jacobson,
+and Hans v. [[Helmont]], _Berichte_, 1894, 27, p. 2352; P. Jacobson,
 _Berichte_, 1892, 25, p. 994). Benzidine crystallizes in plates (from
 water) which melt at 122 deg. C., and boil above 360 deg. C., and is
 characterized by the great insolubility of its sulphate. It is a di-acid
@@ -14,7 +14,7 @@ base and forms salts with the mineral acids. It is readily brominated
 and nitrated; when the nitration is carried out in the presence of
 sulphuric acid, the nitro-groups take up the meta position with regard
 to the amino-groups. Benzidine finds commercial application since its
-tetrazo compound couples readily with amino-sulphonic acids, phenol
+tetrazo [[Compound|compound]] couples readily with amino-sulphonic acids, phenol
 carboxylic acids, and phenol and naphthol-sulphonic acids to produce
 substantive cotton dyes (see DYEING). Among such dyestuffs are
 chrysamine or flavophenine, obtained from salicylic acid and diazotized
@@ -30,7 +30,7 @@ quantity of diphenylin being formed at the same time. The two products
 are separated by the different solubilities of their sulphates. This
 reaction is known as the _benzidine transformation_. If, however, one of
 the para positions in the hydrazo compound is substituted, then either
-diphenyl derivatives or azo compounds are formed, or what is known as
+diphenyl derivatives or [[Azo|azo]] compounds are formed, or what is known as
 the _semidine change_ takes place (P. Jacobson, _Berichte_, 1892, 25, p.
 992; 1893, 26, p. 681; 1896, 29, p. 2680; _Annalen_, 1895, 287, p. 97;
 1898, 303, p. 290). A para mono substituted hydrazo compound in the
@@ -39,7 +39,7 @@ either a para diphenyl derivative (the substituent group being
 eliminated), an ortho-semidine, a para-semidine, or a diphenyl base,
 whilst a decomposition with the formation of amines may also take place.
 The nature of the substituent exerts a specific influence on the
-reaction; thus with chlorine or bromine, ortho-semidines and the
+reaction; thus with [[Chlorine|chlorine]] or bromine, ortho-semidines and the
 diphenyl bases are the chief products; the dimethylamino, -N(CH3)2, and
 acetamino, -NHCOCH3, groups give the diphenyl base and the para-semidine
 respectively. With a methyl group, the chief product is an
@@ -50,7 +50,7 @@ nitrous acid the ortho-semidines give azimido compounds, whilst the
 para-semidines give complex diazo derivatives; with formic or acetic
 acids the ortho-semidines give anhydro compounds of a basic character,
 the para-semidines give acyl products possessing no basic character. The
-carbon disulphide and salicylic aldehyde products have also been used as
+[[Carbon|carbon]] disulphide and salicylic aldehyde products have also been used as
 means of distinction, as has also the formation of the stilbazonium
 bases obtained by condensing ortho-semidines with benzil (O.N. Witt,
 _Berichte_, 1892, 25, p. 1017).

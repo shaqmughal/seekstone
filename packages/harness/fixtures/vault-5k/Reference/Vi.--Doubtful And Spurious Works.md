@@ -11,7 +11,7 @@ VI.--DOUBTFUL AND SPURIOUS WORKS
 Bach's autographs give the name of the composer on the outside sheet only.
 He was constantly making copies of all that interested him; and where the
 outside sheet is lost, only the music itself can tell us whether it is his
-or not. The above-mentioned _Passion according to St Luke_ is the chief
+or not. The above-mentioned _Passion according to St [[Luke]]_ is the chief
 case in point. The little music-books he and his second wife wrote for
 their children are full of pieces in the most various styles, and the
 editors of the _Bach-Gesellschaft_ have not completely identified them,

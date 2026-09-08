@@ -9,10 +9,10 @@ Water naturally collects in such trenches, and hence the word is applied
 to natural and artificial channels filled with water, as appears in the
 proverbial expression "February fill-dyke," and in the names of many
 narrow waterways in East Anglia. "Dike" also is naturally used of the
-bank of earth thrown up out of the ditch, and so of any embankment, dam
-or causeway, particularly the defensive works in Holland, the Fen
+bank of earth thrown up out of the ditch, and so of any [[Embankment|embankment]], dam
+or [[Causeway|causeway]], particularly the defensive works in Holland, the Fen
 district of England, and other low-lying districts which are liable to
-flooding by the sea or rivers (see HOLLAND and FENS). In Scotland any
+flooding by the sea or rivers (see HOLLAND and [[Fens|FENS]]). In Scotland any
 wall, fence or even hedge, used as a boundary is called a dyke. In
 geology the term is applied to wall-like masses of rock (sometimes
 projecting beyond the surrounding surface) which fill up vertical or

@@ -8,23 +8,23 @@ type: reference
 # Angola
 
 ANGOLA, the general name of the Portuguese possessions on the west
-coast of Africa south of the equator. With the exception of the
-enclave of Kabinda (_q.v._) the province lies wholly south of the
-river Congo. Bounded on the W. by the Atlantic Ocean, it extends along
+coast of Africa south of the [[Equator|equator]]. With the exception of the
+[[Enclave|enclave]] of [[Kabinda]] (_q.v._) the province lies wholly south of the
+river Congo. Bounded on the W. by the [[Atlantic Ocean]], it extends along
 the coast from the southern bank of the Congo (6° S., 12° E.) to the
-mouth of the Kunene river (17° 18' S., 11° 50' E.). The coast-line is
+mouth of the [[Kunene]] river (17° 18' S., 11° 50' E.). The coast-line is
 some 900 m. long. On the north the Congo forms for 80 m. the boundary
 separating Angola from the Congo Free State. The frontier thence
 (in 5° 52' S.) goes due east to the Kwango river. The eastern
 boundary--dividing the Portuguese possessions from the Congo State and
 Barotseland (N.W. Rhodesia)--is a highly irregular line. On the south
-Angola borders German South-West Africa, the frontier being drawn
-somewhat S. of the 17th degree of S. latitude. The area of the
+Angola [[Borders|borders]] German South-West Africa, the frontier being drawn
+somewhat S. of the 17th degree of S. [[Latitude|latitude]]. The area of the
 province is about 480,000 sq. m. The population is estimated (1906) at
 4,119,000.
 
 The name Angola (a Portuguese corruption of the Bantu word _Ngola_)
-is sometimes confined to the 105 m. of coast, with its hinterland,
+is sometimes confined to the 105 m. of coast, with its [[Hinterland|hinterland]],
 between the mouths of the rivers Dande and Kwanza, forming the central
 portion of the Portuguese dominions in West Africa; in a looser manner
 Angola is used to designate all the western coast of Africa south
@@ -32,12 +32,12 @@ of the Congo in the possession of Portugal; but the name is now
 officially applied to the whole of the province. Angola is divided
 into five districts: four on the coast, the fifth, Lunda, wholly
 inland, being the N.E. part of the province. Lunda is part of the
-old Bantu kingdom of Muata Yanvo, divided by international agreement
+old Bantu kingdom of Muata Yanvo, divided by [[International|international]] agreement
 between Portugal and the Congo Free State.
 
 The coast divisions of Angola are Congo on the N. (from the river
 Congo to the river Loje), corresponding roughly with the limits of
-the "kingdom of Congo" (see _History_ below); Loanda, which includes
+the "kingdom of Congo" (see _History_ below); [[Loanda]], which includes
 Angola in the most restricted sense mentioned above; Benguella
 and Mossamedes to the south. Mossamedes is again divided into two
 portions--the coast region and the hinterland, known as Huilla.
@@ -59,7 +59,7 @@ sandy beds of the rivers. The plateau has an altitude ranging from
 4000 to 6000 ft. It consists of well-watered, wide, rolling plains,
 and low hills with scanty vegetation. In the east the tableland falls
 away to the basins of the Congo and Zambezi, to the south it merges
-into a barren sandy desert. A large number of rivers make their way
+into a barren sandy [[Desert|desert]]. A large number of rivers make their way
 westward to the sea; they rise, mostly, in the mountain belt, and are
 unimportant, the only two of any size being the Kwanza and the Kunene,
 separately noticed. The mountain chains which form the edge of the
@@ -82,20 +82,20 @@ by a series of hills more or less parallel with the coast, (3) the
 central plateau. The central plateau consists of ancient crystalline
 rocks with granites overlain by unfossiliferous sandstones and
 conglomerates considered to be of Palaeozoic age. The outcrops are
-largely hidden under laterite. The median zone is composed largely of
+largely hidden under [[Laterite|laterite]]. The median zone is composed largely of
 crystalline rocks with granites and some Palaeozoic unfossiliferous
 rocks. The littoral zone contains the only fossiliferous strata. These
 are of Tertiary and Cretaceous ages, the latter rocks resting on a
 reddish sandstone of older date. The Cretaceous rocks of the Dombe
 Grande region (near Benguella) are of Albian age and belong to the
 _Acanthoceras mamillari_ zone. The beds containing _Schloenbachia
-inflata_ are referable to the Gault. Rocks of Tertiary age are met
+inflata_ are referable to the [[Gault]]. Rocks of Tertiary age are met
 with at Dombe Grande, Mossamedes and near Loanda. The sandstones with
-gypsum, copper and sulphur of Dombe are doubtfully considered to be
+[[Gypsum|gypsum]], copper and sulphur of Dombe are doubtfully considered to be
 of Triassic age. Recent eruptive rocks, mainly basalts, form a line
 of hills almost bare of vegetation between Benguella and Mossamedes.
 Nepheline basalts and liparites occur at Dombe Grande. The presence
-of gum copal in considerable quantities in the superficial rocks is
+of [[Gum|gum]] copal in considerable quantities in the superficial rocks is
 characteristic of certain regions.
 
 [v.02 p.0039]
@@ -128,11 +128,11 @@ excellent timber, such as the tacula (_Pterocarpus tinctorius_), which
 grows to an immense size, its wood being blood-red in colour, and the
 Angola mahogany. The bark of the musuemba (_Albizzia coriaria_) is
 largely used in the tanning of leather. The mulundo bears a fruit
-about the size of a cricket ball covered with a hard green shell and
+about the size of a cricket [[Ball|ball]] covered with a hard green shell and
 containing scarlet pips like a pomegranate. The fauna includes the
-lion, leopard, cheetah, elephant, giraffe, rhinoceros, hippopotamus,
-buffalo, zebra, kudu and many other kinds of antelope, wild pig,
-ostrich and crocodile. Among fish are the barbel, bream and African
+lion, [[Leopard|leopard]], cheetah, [[Elephant|elephant]], [[Giraffe|giraffe]], rhinoceros, [[Hippopotamus|hippopotamus]],
+[[Buffalo|buffalo]], zebra, [[Kudu|kudu]] and many other kinds of [[Antelope|antelope]], wild pig,
+ostrich and [[Crocodile|crocodile]]. Among fish are the [[Barbel|barbel]], bream and African
 yellow fish.
 
 
@@ -151,10 +151,10 @@ Boers, the Boer population being about 2000. In the coast towns the
 majority of the white inhabitants are Portuguese. The Mushi-Kongo
 and other divisions of the Ba-Kongo retain curious traces of the
 Christianity professed by them in the 16th and 17th centuries and
-possibly later. Crucifixes are used as potent fetish charms or as
+possibly later. Crucifixes are used as potent fetish [[Charm|charms]] or as
 symbols of power passing down from chief to chief; whilst every native
 has a "Santu" or Christian name and is dubbed dom or dona.
-Fetishism is the prevailing religion throughout the province. The
+[[Fetishism]] is the prevailing religion throughout the province. The
 dwelling-places of the natives are usually small huts of the simplest
 construction, used chiefly as sleeping apartments; the day is spent in
 an open space in front of the hut protected from the sun by a roof of
@@ -191,7 +191,7 @@ government offices. There is a fort, built about 1850, and a small
 military force is at the disposal of the Portuguese resident. Bembe
 and Encoje are smaller towns in the Congo district south of Sao
 Salvador. Bihe, the capital of the plateau district of the same
-name forming the hinterland of Benguella, is a large caravan centre.
+name forming the hinterland of Benguella, is a large [[Caravan|caravan]] centre.
 Kangomba, the residence of the king of Bihe, is a large town. Caconda
 is in the hill country S.E. of Benguella.
 
@@ -200,7 +200,7 @@ _Agriculture and Trade._--Angola is rich in both agricultural and
 mineral resources. Amongst the cultivated products are mealies and
 manioc, the sugar-cane and cotton, coffee and tobacco plants. The
 chief exports are coffee, rubber, wax, palm kernels and palm-oil,
-cattle and hides and dried or salt fish. Gold dust, cotton, ivory and
+cattle and hides and dried or salt fish. Gold [[Dust|dust]], cotton, [[Ivory|ivory]] and
 gum are also exported. The chief imports are food-stuffs, cotton and
 woollen goods and hardware. Considerable quantities of coal come
 from South Wales. Oxen, introduced from Europe and from South Africa,
@@ -218,18 +218,18 @@ compared with foreign goods entering the province increased from 43 to
 The minerals found include thick beds of copper at Bembe, and deposits
 on the M'Brije and the Cuvo and in various places in the southern
 part of the province; iron at Ociras (on the Lucalla affluent of the
-Kwanza) and in Bailundo; petroleum and asphalt in Dande and Quinzao;
+Kwanza) and in Bailundo; petroleum and [[Asphalt|asphalt]] in Dande and Quinzao;
 gold in Lombije and Cassinga; and mineral salt in Quissama. The native
 blacksmiths are held in great repute.
 
 
 _Communications._--There is a regular steamship communication between
 Portugal, England and Germany, and Loanda, which port is within
-sixteen days' steam of Lisbon. There is also a regular service between
-Cape Town, Lobito and Lisbon and Southampton. The Portuguese line is
+sixteen days' steam of [[Lisbon]]. There is also a regular service between
+[[Cape Town]], Lobito and Lisbon and Southampton. The Portuguese line is
 subsidized by the government. The railway from Loanda to Ambaca and
 Malanje is known as the Royal Trans-African railway. It is of metre
-gauge, was begun in 1887 and is some 300 m. long. It was intended to
+[[Gauge|gauge]], was begun in 1887 and is some 300 m. long. It was intended to
 carry the line across the continent to Mozambique, but when the line
 reached Ambaca (225 m.) in 1894 that scheme was abandoned. The railway
 had created a record in being the most expensive built in tropical
@@ -242,7 +242,7 @@ seaports to their hinterland. Apart from the railways, communication
 is by ancient caravan routes and by ox-wagon tracks in the southern
 district. Riding-oxen are also used. The province is well supplied
 with telegraphic communication and is connected with Europe by
-submarine cables.
+submarine [[Cable|cables]].
 
 [v.02 p.0040]
 
@@ -254,24 +254,24 @@ those delegated to the governor-general, are exercised by the home
 government. Revenue is raised chiefly from customs, excise duties
 and direct taxation. The revenue (in 1904-1905 about £350,000)
 is generally insufficient to meet expenditure (in 1904-1905 over
-£490,000)--the balance being met by a grant from the mother country.
+£490,000)--the [[Balance|balance]] being met by a grant from the mother country.
 Part of the extra expenditure is, however, on railways and other
 reproductive works.
 
 
 _History._--The Portuguese established themselves on the west coast
 of Africa towards the close of the 15th century. The river Congo was
-discovered by Diogo Cam or Cao in 1482. He erected a stone pillar at
+discovered by Diogo [[Cam]] or Cao in 1482. He erected a stone pillar at
 the mouth of the river, which accordingly took the title of Rio de
 Padrao, and established friendly relations with the natives, who
 reported that the country was subject to a great monarch, Mwani Congo
 or lord of Congo, resident at Bonza Congo. The Portuguese were not
 long in making themselves influential in the country. Gonçalo de Sousa
-was despatched on a formal embassy in 1490; and the first missionaries
+was despatched on a formal [[Embassy|embassy]] in 1490; and the first missionaries
 entered the country in his train. The king was soon afterwards
 baptized and Christianity was nominally established as the national
 religion. In 1534 a cathedral was founded at Bonza Congo (renamed Sao
-Salvador), and in 1560 the Jesuits arrived with Paulo Diaz de Novaes.
+Salvador), and in 1560 the [[Jesuits]] arrived with Paulo [[Diaz]] de Novaes.
 Of the prosperity of the country the Portuguese have left the most
 glowing and indeed incredible accounts. It was, however, about this
 time ravaged by cannibal invaders (Bangala) from the interior,
@@ -320,7 +320,7 @@ the Congo Free State, Germany and France in 1885-1886 (modified in
 details by subsequent arrangements) fixed the limits of the province,
 except in the S.E., where the frontier between Barotseland (N.W.
 Rhodesia) and Angola was determined by an Anglo-Portuguese agreement
-of 1891 and the arbitration award of the king of Italy in 1905 (see
+of 1891 and the [[Arbitration|arbitration]] award of the king of Italy in 1905 (see
 AFRICA: _History)_. Up to the end of the 19th century the hold of
 Portugal over the interior of the province was slight, though its
 influence extended to the Congo and Zambezi basins. The abolition of
@@ -340,7 +340,7 @@ Portuguese column lost over 300 men killed, including 114 Europeans,
 in an encounter with the Kunahamas on the Kunene, not far from the
 German frontier. The Kunahamas are a wild, raiding tribe and
 were probably largely influenced by the revolt of their southern
-neighbours, the Hereros, against the Germans. In 1905 and again in
+neighbours, the [[Herero|Hereros]], against the Germans. In 1905 and again in
 1907 there was renewed fighting in the same region.
 
 
@@ -349,9 +349,9 @@ _AUTHORITIES._--E. de Vasconcellos, _As Colonias Portuguesas_ (Lisbon,
 London, 1875); Viscount de Paiva Manso, _Historia do Congo....
 (Documentos_) (Lisbon, 1877); _A Report of the Kingdom of Congo_
 (London, 1881), an English translation, with notes by Margarite
-Hutchinson, of Filippo Pigafetta's _Relatione del Reame di Congo_
+[[Hutchinson]], of Filippo Pigafetta's _Relatione del Reame di Congo_
 (Rome, 1591), a book founded on the statements and writings of
-Duarte Lopez; Rev. Thos. Lewis, "The Ancient Kingdom of Kongo" in
+Duarte Lopez; Rev. Thos. [[Lewis]], "The Ancient Kingdom of Kongo" in
 _Geographical Journal,_ vol. xix. and vol. xxxi. (London, 1902 and
 1908); _The Strange Adventures of Andrew Battell of Leigh in Angola
 and the Adjoining Regions_ (London, 1901), a volume of the Hakluyt
@@ -361,10 +361,10 @@ century; J.C. Feo Cardozo, _Memorias contendo ... a historia dos
 governadores e capitaens generaes de Angola, desde 1575 até 1825_
 (Paris, 1825); H.W. Nevinson, _A Modern Slavery_ (London, 1906), an
 examination of the system of indentured labour and its recruitment;
-_Ornithologie d'Angola_, by J.V. Barboza du Bocage (Lisbon, 1881);
+_Ornithologie d'Angola_, by J.V. Barboza du [[Bocage]] (Lisbon, 1881);
 "Géologie des Colonies portugaises en Afrique," by P. Choffat, in
 _Com. d. service géol. du Portugal._ See also the annual reports on
-the _Trade of Angola,_ issued by the British Foreign Office.
+the _Trade of Angola,_ issued by the British [[Foreign Office]].
 
 ## References
 

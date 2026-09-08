@@ -15,11 +15,11 @@ believes to be necessary for the warding off an attack, even to the
 extent of killing an assailant. The same right of reciprocal defence
 extends not only to defence of one's own person, but also to the defence
 of a husband or wife, parent or child, master or servant. (See ASSAULT;
-HOMICIDE.) As a legal term in English pleading, "defence" means the
+[[Homicide|HOMICIDE]].) As a legal term in English pleading, "defence" means the
 denial by the party proceeded against of the validity of a charge, or
 the steps taken by an accused person or his legal advisers for defending
 himself. In civil actions, a statement of defence is the second step in
-proceedings, being the answer of the defendant to the plaintiff's
+proceedings, being the answer of the [[Defendant|defendant]] to the plaintiff's
 statement of claim. In the statement of defence must be set out every
 material fact upon which the defendant intends to rely at the trial.
 Every fact alleged in the statement of claim must be dealt with, and
@@ -48,7 +48,7 @@ assistance under the act is only given where both (1) the nature of the
 defence as disclosed is such that in the interests of justice the
 prisoner should have legal aid to make his defence clear, and (2) where
 also his means are insufficient for that end (Lord Alverstone, C. J., at
-Warwick Summer Assizes, _The Times_, July 26, 1904).
+Warwick Summer [[Assize|Assizes]], _The Times_, July 26, 1904).
 
 ## References
 

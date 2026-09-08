@@ -1,19 +1,19 @@
 # Carrickfergus
 
 CARRICKFERGUS, a seaport and watering-place of Co. Antrim, Ireland, in
-the east parliamentary division; on the northern shore of Belfast Lough,
+the east parliamentary division; on the northern shore of [[Belfast]] Lough,
 9½ m. N.E. of Belfast by the Northern Counties (Midland) railway. Pop.
 of urban district (1901) 4208. It stretches for about 1 m. along the
 shore of the Lough. The principal building is the castle, originally
-built by John de Courci towards the close of the 12th century, and
+built by John de [[Courci]] towards the close of the 12th century, and
 subsequently much enlarged. It stands on a projecting rock above the
 sea, and was formerly a place of much strength. It is still maintained
-as an arsenal, and mounted with heavy guns. The ancient donjon or keep,
+as an arsenal, and mounted with heavy guns. The ancient [[Donjon|donjon]] or keep,
 90 ft. in height, is still in good preservation. The town walls, built
 by Sir Henry Sidney, are still visible on the west and north, and the
 North Gate remains. The parish church of St Nicholas, an antiquated
 cruciform structure with curious Elizabethan work in the north transept,
-and monuments of the Chichester family, was originally a chapel or
+and monuments of the [[Chichester]] family, was originally a chapel or
 oratory dependent on a Franciscan monastery. The entrance to a
 subterranean passage between the two establishments is still visible
 under the communion-table of the church. The gaol, built on the site of

@@ -8,7 +8,7 @@ type: note
 # Jungfrau
 
 JUNGFRAU, a well-known Swiss mountain (13,669 ft.), admirably seen from
-Interlaken. It rises on the frontier between the cantons of Bern and of
+Interlaken. It rises on the frontier between the cantons of [[Bern]] and of
 the Valais, and is reckoned among the peaks of the Bernese Oberland, two
 of which (the Finsteraarhorn, 14,026 ft., and the Aletschhorn, 13,721
 ft.) surpass it in height. It was first ascended in 1811 by the brothers

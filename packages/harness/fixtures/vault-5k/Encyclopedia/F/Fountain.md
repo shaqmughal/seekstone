@@ -24,12 +24,12 @@ ornamental or useful fountains are legion, and it will suffice here to
 mention some of the more important facts of historical interest.
 
 Among the Greeks fountains were very common in the cities. Springs being
-very plentiful in Greece, little engineering skill was required to
+very plentiful in Greece, little [[Engineering|engineering]] skill was required to
 convey the water from place to place. Receptacles of sufficient size
 were made for it at the springs; and to maintain its purity, structures
 were raised enclosing and covering the receptacle. In Greece they were
 dedicated to gods and goddesses, nymphs and heroes, and were frequently
-placed in or near temples. That of Pirene at Corinth (mentioned also by
+placed in or near temples. That of Pirene at [[Corinth]] (mentioned also by
 Herodotus) was formed of white stone, and contained a number of cells
 from which the pleasant water flowed into an open basin. Legend connects
 it with the nymph Pirene, who shed such copious tears, when bewailing
@@ -40,7 +40,7 @@ the horse Pegasus. The fountain of Glauce, enclosed in the Odeum, was
 dedicated to Glauce, because she was said to have thrown herself into it
 believing that its waters could counteract the poisons of Medea. Another
 Corinthian fountain had a bronze statue of Poseidon standing on a
-dolphin from which the water flowed. The fountain constructed by
+[[Dolphin|dolphin]] from which the water flowed. The fountain constructed by
 Theagenes at Megara was remarkable for its size and decorations, and for
 the number of its columns. One at Lerna was surrounded with pillars, and
 the structure contained a number of seats affording a cool summer
@@ -60,7 +60,7 @@ Triptolemus. The fountain in the temple of Erechtheus at Athens was
 supplied by a spring of salt water, and a similar spring supplied that
 in the temple of Poseidon Hippios at Mantinea.
 
-The water-supply of Rome and the works auxiliary to it were on a scale
+The water-supply of Rome and the works [[Auxiliary|auxiliary]] to it were on a scale
 to be expected from a people of such great practical power. The remains
 of the aqueducts which stretched from the city across the Campagna are
 amongst the most striking monuments of Italy. Vitruvius (book viii.)
@@ -81,18 +81,18 @@ villas and country houses; in those so situated the water generally
 ally fell from above into a large marble basin, with at times a second
 fall into a still lower receptacle. Two adjacent houses in Pompeii had
 very remarkable fountains. One, says Gell, "is covered with a sort of
-mosaic consisting of vitrified tesserae of different colours, but in
+mosaic consisting of vitrified tesserae of different [[Colours|colours]], but in
 which blue predominates. These are sometimes arranged in not inelegant
 patterns, and the grand divisions as well as the borders are entirely
 formed and ornamented with real sea-shells, neither calcined by the heat
-of the eruption nor changed by the lapse of so many centuries"
+of the eruption nor changed by the [[Lapse|lapse]] of so many centuries"
 (_Pompeiana_, i. 196). Another of large size was similarly decorated
 with marine shells, and is supposed to have borne two sculptured
 figures, one of which, a bronze, is in the museum at Naples. This
 fountain projects 5 ft. 7 in. from the wall against which it is placed,
 and is 7 ft. wide in front, while the height of the structure up to the
-eaves of the pediment is 7 ft. 7 in. On a central column in the piscina
-was a statue of Cupid, with a dove, from the mouth of which water
+[[Eaves|eaves]] of the pediment is 7 ft. 7 in. On a central column in the piscina
+was a statue of Cupid, with a [[Dove|dove]], from the mouth of which water
 issued. Cicero had, at his villa at Formiae, a fountain which was
 decorated with marine shells.
 
@@ -102,7 +102,7 @@ little ornament except a human or animal head, from the mouth of which
 it was arranged that the water should issue. Not only did simple running
 fountains exist, but the remains of _jets d'eau_ have been found; and a
 drawing exists representing a vase with a double jet of water, standing
-on a pedestal placed in what is supposed to have been the impluvium of a
+on a pedestal placed in what is supposed to have been the [[Impluvium|impluvium]] of a
 house. There was also a _jet d'eau_ at the eastern end of the peristyle
 of the Fullonica at Pompeii.
 
@@ -117,7 +117,7 @@ square basin formed of large flat stones, which receives a fountain of
 water. At Lochrist is another vestige of the Celtic cult of fountains.
 Beneath the church, and at the foot of the hill upon which it is built,
 is a sacred fountain, near which is erected an ancient chapel, which
-with its ivy-covered walls has a most romantic appearance. A Gothic
+with its ivy-covered walls has a most romantic appearance. A [[Gothic]]
 vault protects this fountain. Miraculous virtues are still attributed to
 its water, and on certain days the country people still come with
 offerings to draw it (see La Poix de Freminville, _Antiquites de la
@@ -137,7 +137,7 @@ districts was that in which the fountain was reached by descending steps
 spout, but often from the spring itself. This basin was covered by a
 sort of porch or vault, with at times moulded arches and sculptured
 figures and escutcheons. On the bank of the Clain at Poitiers is a
-fountain of this kind, the Fontaine Joubert, which though restored in
+fountain of this kind, the Fontaine [[Joubert]], which though restored in
 1597 was originally a structure of the 14th century. This kind of
 fountain is frequently decorated with figures of the Virgin or of
 saints, or with the family arms of its founder; often, too, the water is
@@ -151,7 +151,7 @@ structure at the centre, from the lower part of which it was arranged
 that spouts should issue, playing into an open basin, and supplying
 vessels brought for the purpose in the cleanest and quickest manner. The
 columns take very various forms, from that of a simple regular
-geometrical solid, with only grotesque masks at the spouts, to that of
+geometrical solid, with only [[Grotesque|grotesque]] masks at the spouts, to that of
 an elaborate and ornate Gothic structure, with figures of virgins,
 saints and warriors, with mouldings, arches, crockets and finials. At
 Provins there is a fountain said to be of the 12th century, which is in
@@ -165,11 +165,11 @@ structure may date no earlier than the 15th or 16th century, have been
 found on the place of, and perhaps may almost be considered as
 restorations of, pre-existing fountains. Except in Italy few fountains
 are of earlier date than the 14th century. Two of that date are at the
-abbey of Fontaine Daniel, near Mayenne, and another, of granite, is at
+abbey of Fontaine [[Daniel]], near Mayenne, and another, of granite, is at
 Limoges. Some of these middle-age fountains are simple, open reservoirs
-enclosed in structures which, however plain, still carry the charm that
+enclosed in structures which, however plain, still carry the [[Charm|charm]] that
 belongs to the stone-work of those times. There is one of this kind at
-Cully, Calvados, walled on three sides, and fed from the spring by two
+Cully, [[Calvados]], walled on three sides, and fed from the spring by two
 circular openings. Its only ornamentation is a small empty niche with
 mouldings. At Lincoln is a fountain of the time of Henry VIII., in front
 of the church of St Mary Wickford. At Durham is one of octangular plan,
@@ -191,14 +191,14 @@ des Innocens (the earliest) and those of the Place Royal, of the Champs
 Elysees and of the Place de la Concorde are the most noticeable. The
 fountain of the lions and other fountains in the Alhambra palace are,
 with their surroundings, a very magnificent sight. The largest _jets
-d'eau_ are those at Versailles, at the Sydenham Crystal Palace and at
+d'eau_ are those at Versailles, at the Sydenham [[Crystal Palace]] and at
 San Ildefonso.
 
 About the earliest drawing of any drinking fountain in England occurs in
 Moxon's _Tutor to Astronomie and Geographie_ (1659); it is "surmounted
 by a diall, which was made by Mr John Leak, and set upon a composite
 column at Leadenhall corner, in the majoralty of Sir John Dethick,
-Knight." The water springs from the top and base of the column, which
+[[Knight]]." The water springs from the top and base of the column, which
 stands upon a square pedestal and bears four female figures, one at
 least of which represents the costume of the period.
 

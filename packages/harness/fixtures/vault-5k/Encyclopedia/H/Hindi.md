@@ -4,7 +4,7 @@ HINDI, WESTERN, the Indo-Aryan language of the middle and upper Gangetic
 Doab, and of the country to the north and south. It is the vernacular of
 over 40,000,000 people. Its standard dialect is Braj Bhasha, spoken near
 Muttra, which has a considerable literature mainly devoted to the
-religion founded on devotion to Krishna. Another dialect spoken near
+religion founded on devotion to [[Krishna]]. Another dialect spoken near
 Delhi and in the upper Gangetic Doab is the original from which
 Hindostani, the great _lingua franca_ of India, has developed (see
 HINDOSTANI). Western Hindi, like Punjabi, its neighbour to the west, is

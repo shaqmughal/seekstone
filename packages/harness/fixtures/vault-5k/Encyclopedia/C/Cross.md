@@ -14,7 +14,7 @@ to one another, are understood to form a cross. It should be noted,
 however, that Lipsius and other writers speak of the single upright
 stake to which criminals were bound as a cross, and to such a stake the
 name of _crux simplex_ has been applied. The usual conception, however,
-of a cross is that of a compound figure.
+of a cross is that of a [[Compound|compound]] figure.
 
 Punishment by crucifixion was widely employed in ancient times. It is
 known to have been used by nations such as those of Assyria, Egypt,
@@ -26,11 +26,11 @@ xxi. 22, 23) as a punishment to be inflicted.
 Two methods were followed in the infliction of the punishment of
 crucifixion. In both of these the criminal was first of all usually
 stripped naked, and bound to an upright stake, where he was so cruelly
-scourged with an implement, formed of strips of leather having pieces of
+scourged with an [[Implement|implement]], formed of strips of leather having pieces of
 iron, or some other hard material, at their ends, that not merely was
-the flesh often stripped from the bones, but even the entrails partly
+the flesh often stripped from the [[Bone|bones]], but even the entrails partly
 protruded, and the anatomy of the body was disclosed. In this pitiable
-state he was reclothed, and, if able to do so, was made to drag the
+state he was reclothed, and, if able to do so, was made to [[Drag|drag]] the
 stake to the place of execution, where he was either fastened to it, or
 impaled upon it, and left to die. In this method, where a single stake
 was employed, we have the _crux simplex_ of Lipsius. The other method is
@@ -39,9 +39,9 @@ Testament account of the crucifixion of Jesus Christ. In such a case,
 after the scourging at the stake, the criminal was made to carry a
 gibbet, formed of two transverse bars of wood, to the place of
 execution, and he was then fastened to it by iron nails driven through
-the outstretched arms and through the ankles. Sometimes this was done as
+the outstretched arms and through the [[Ankle|ankles]]. Sometimes this was done as
 the cross lay on the ground, and it was then lifted into position. In
-other cases the criminal was made to ascend by a ladder, and was then
+other cases the criminal was made to ascend by a [[Ladder|ladder]], and was then
 fastened to the cross. Probably the feebleness, or state of collapse,
 from which the criminal must often have suffered, had much to do in
 deciding this. It is not quite clear which of these two plans was
@@ -54,7 +54,7 @@ cross. Such representations may, however, have been due to a pious
 desire, on the part of their authors, to emphasize the voluntary
 offering of Himself as the Saviour of the World, rather than as being
 intended for actual pictures of the scene itself. It may be noted,
-however, that among the "Emblems of the Passion," as they are called,
+however, that among the "[[Emblem|Emblems]] of the Passion," as they are called,
 and which were very favourite devices in the middle ages, the ladder is
 not infrequently found in conjunction with the crown of thorns, nails,
 spear, &c.
@@ -115,7 +115,7 @@ It was not till the time of Constantine that the cross was publicly used
 as the symbol of the Christian religion. Till then its employment had
 been restricted, and private among the Christians themselves. Under
 Constantine it became the acknowledged symbol of Christianity, in the
-same way in which, long afterwards, the crescent was adopted as the
+same way in which, long afterwards, the [[Crescent|crescent]] was adopted as the
 symbol of the Mahommedan religion. Constantine's action was no doubt
 influenced by the vision which he believed he saw of the cross in the
 sky with the accompanying words [Greek: en touto nika], as well as by
@@ -174,7 +174,7 @@ would seem that it ought to be considered part of the relic which
 Constantine sent to Rome. By some means it was entirely lost sight of
 until the year 1492, when it is said that it was accidentally found in a
 vault in the church of S. Croce in Gerusalemme at Rome. Pope Alexander
-III. published a bull certifying to the truth of this rediscovery of the
+III. published a [[Bull|bull]] certifying to the truth of this rediscovery of the
 relic, and authenticated its character.
 
 As regards the nails, a question has arisen whether there were three or
@@ -215,14 +215,14 @@ churches will plainly indicate the frequency of, and the importance
 attached to, its employment. Its occasional use is retained by the
 Lutherans, and in the Church of England it is authoritatively used at
 baptism, and at the "sacring" or anointing of the sovereign at the
-coronation.
+[[Coronation|coronation]].
 
 [Illustration: FIG. 3.]
 
 [Illustration: FIG. 4.]
 
 Passing from the sign to the material figures of the cross, a very usual
-classification distinguishes three main forms: (1) the _crux immissa_,
+[[Classification|classification]] distinguishes three main forms: (1) the _crux immissa_,
 or _capitata_ [Latin cross] (fig. 3) known also as the Latin cross, or
 if each limb is of the same length, + (fig. 4) as the Greek cross; (2)
 the _crux decussata_, formed like the letter X, and (3) the _crux
@@ -233,7 +233,7 @@ on a cross of that form. The _crux commissa_ is often called St
 Anthony's cross, probably only because it resembles the crutch with
 which the great hermit is generally depicted.
 
-The cross in one form or other appears, appropriately, on the flags and
+The cross in one form or other appears, appropriately, on the [[Flag|flags]] and
 ensigns of many Christian countries. The English cross of St George is a
 plain red cross on a white ground, the Scottish cross of St Andrew is a
 plain diagonal white cross on a blue ground, and the Irish cross of St
@@ -245,16 +245,16 @@ crosses are combined in the Union Jack (see FLAG).
 [Illustration: FIG. 6.]
 
 The cross has also been adopted by many orders of knighthood. Perhaps
-the best known of these is the cross of the knights of Malta. It is a
+the best known of these is the cross of the [[Knight|knights]] of Malta. It is a
 white cross of eight points on a black ground (fig. 5) and is the proper
 Maltese cross, a name which is often wrongly applied to the cross
 _patee_ (fig. 6). The knights of the Garter use the cross of St George,
 as do those of the order of St Michael and St George, the knights of the
 Thistle use St Andrew's cross, and those of St Patrick the cross of St
-Patrick charged with a shamrock leaf. The cross of the Danish order of
+Patrick charged with a shamrock [[Leaf|leaf]]. The cross of the Danish order of
 the Dannebrog (fig. 7) affords a good example of this use of the cross.
 It is in form a white cross patee, superimposed upon a red one of the
-same form, and is surmounted by the royal cipher and crown, and has upon
+same form, and is surmounted by the royal [[Cipher|cipher]] and crown, and has upon
 its surface the royal cipher repeated, and the legend, or motto, "_Gud
 og Kongen_" = "God and the King." (For crosses of monastic orders see
 COSTUME.)
@@ -303,7 +303,7 @@ plain, but there are a very large number of instances in which this is
 not so, and in which branches, with leaf designs, are thrown out at
 intervals the entire length of the shaft. In some cases the shaft rises
 from a series of steps at its base, and in such a case the name of a
-Calvary cross is applied to it. Fig. 11, from Stradsett church, Norfolk,
+[[Calvary]] cross is applied to it. Fig. 11, from Stradsett church, Norfolk,
 and fig. 12 from Bosbury church, Herefordshire, are good examples of the
 designs at the head of sepulchral crosses. Often, by the side of the
 cross, an emblem or symbol is placed, denoting the calling in life of
@@ -341,8 +341,8 @@ which are mentioned, but there is no real doubt that it commemorates the
 resting of the coffin of the queen in Geddington church on its way from
 Harby. These crosses, like the Black Friars cross at Hereford, are
 elaborate architectural erections, and very similar to them in this
-respect are the beautiful market crosses at Winchester, Chichester,
-Salisbury, Devizes, Shepton Mallet, Leighton Buzzard, &c. Of churchyard
+respect are the beautiful market crosses at Winchester, [[Chichester]],
+Salisbury, Devizes, Shepton [[Mallet]], [[Leighton Buzzard]], &c. Of churchyard
 crosses, as distinguished from memorial crosses in churchyards, one only
 is believed to have escaped in a perfect condition the ravages of time,
 and the fanaticism of the past. It stands in the churchyard of Somerby,
@@ -368,8 +368,8 @@ latter, which is formed with a crook at the end, is quite distinct, and
 is used by archbishops and bishops alike, who bear it with the left hand
 in processions, and when blessing the people. The archiepiscopal cross,
 on the contrary, is always borne before the archbishop, or during the
-vacancy of the archiepiscopal see before the guardian of the
-spiritualities _sede vacante_. The bishop of Dol in Brittany, of
+vacancy of the archiepiscopal see before the [[Guardian|guardian]] of the
+spiritualities _sede vacante_. The bishop of [[Dol]] in Brittany, of
 ordinary diocesan bishops, alone possessed the privilege of having a
 cross borne before him in his diocese. Good illustrations of the
 archiepiscopal cross occur on the monumental brasses of Archbishop
@@ -388,14 +388,14 @@ very usual in the middle ages.
 
 As a personal ornament the cross came into common use, and was usually
 worn suspended by a chain from the neck. A cross of this kind, of very
-great interest and beauty, was found about 1690, on the breast of Queen
+great interest and beauty, was found about 1690, on the [[Breast|breast]] of Queen
 Dagmar, the wife of Waldemar II., king of Denmark (d. 1213). It is of
 Byzantine design and workmanship, and is of enamelled gold (fig. 13
 shows both sides of it); on one side is the Crucifixion, and on the
 other side the half figure of our Lord in the centre, with the Virgin
 and St John the Evangelist on either side, and St Chrysostom and St
 Basil above and below. From the way in which such crosses were worn,
-hanging over the chest, they are called pectoral crosses. At the present
+[[Hanging|hanging]] over the chest, they are called pectoral crosses. At the present
 day a pectoral cross forms part of the recognized insignia of a Roman
 Catholic bishop, and is worn by him over his robes, but this official
 use of the pectoral cross is not ancient, and no instance is known of it
@@ -420,7 +420,7 @@ ancient sanction or authority.
   AUTHORITIES.--Mortillet, _Le Signe de la croix avant le Christianisme_
   (Paris, 1866); Bingham, _Antiquities of the Christian Church_;
   Lipsius, _De Cruce Christi_; Lady Eastlake, _History of our Lord_,
-  vol. ii.; Cutts, _Manual of Sepulchral Slabs and Crosses_; (Anon.)
+  vol. ii.; Cutts, _[[Manual]] of Sepulchral Slabs and Crosses_; (Anon.)
   _Handbook to Christian and Ecclesiastical Rome_, part ii. (London,
   1897); Veldeuer, _History of the Holy Cross_ (reprint, 1863).
        (T. M. F.)
@@ -435,7 +435,7 @@ FOOTNOTES:
 
   [2] The acceptance of this word as the English equivalent for this
     peculiar form of the cross rests only, according to the _New English
-    Dictionary_, on a MS. of about 1500 in the Lansdowne collection,
+    Dictionary_, on a MS. of about 1500 in the [[Lansdowne]] collection,
     which gives details for the erection of a memorial stained-glass
     window, "... the fylfot in the nedermost pane under ther I knele
     ..."; in the sketch given with the instructions a cross occupies the

@@ -8,14 +8,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Atterbom"
 
 # Atterbom
 
-ATTERBOM, PER DANIEL AMADEUS (1790-1855), Swedish poet, son of a country
+ATTERBOM, PER [[Daniel|DANIEL]] AMADEUS (1790-1855), Swedish poet, son of a country
 parson, was born in the province of Ostergotland on the 19th of January
 1790. He studied in the university of Upsala from 1805 to 1815, and
 became professor of philosophy there in 1828. He was the first great
 poet of the romantic movement which, inaugurated by the critical work of
 Lorenzo Hammerskold, was to revolutionize Swedish literature. In 1807,
 when in his seventeenth year, he founded at Upsala an artistic society,
-called the Aurora League, the members of which included V.F. Palmblad,
+called the [[Aurora]] League, the members of which included V.F. Palmblad,
 A.A. Grafstrom (d. 1870), Samuel Hedborn (d. 1849), and other youths
 whose names were destined to take a foremost rank in the literature of
 their generation. Their first newspaper, _Polyfem_, was a crude effort,
@@ -24,12 +24,12 @@ edited by Atterbom, which lasted for three years and finds a place in
 classic Swedish literature. It consisted entirely of poetry and
 aesthetico-polemical essays; it introduced the study of the newly arisen
 Romantic school of Germany, and formed a vehicle for the early works,
-not of Atterbom only, but of Hammerskold, Dahlgren, Palmblad and others.
+not of Atterbom only, but of Hammerskold, [[Dahlgren]], Palmblad and others.
 Later, the members of the Aurora League established the _Poetisk
 Kalender_ (1812-1822), in which their poems appeared, and a new critical
 organ, _Svensk Litteraturtidning_ (1813-1824). Among Atterbom's
 independent works the most celebrated is _Lycksalighetens O_ (_The
-Fortunate Island_), a romantic drama of extraordinary beauty, published
+Fortunate Island_), a romantic [[Drama|drama]] of extraordinary beauty, published
 in 1823. Before this he had published a somewhat in the manner of
 Novalis. Of a dramatized fairy tale, _Fagel bla (The Blue Bird_), only a
 fragment, which is among the most exquisite of his writings, is

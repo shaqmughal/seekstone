@@ -7,7 +7,7 @@ as widespread as humanity, and the variety of its forms is limited only
 by the capacity for devising means of making a noise. Among civilized
 nations, however, it has at various times been subject to certain
 conventions. Thus the Romans had a set ritual of applause for public
-performances, expressing degrees of approval: snapping the finger and
+performances, expressing degrees of approval: snapping the [[Finger|finger]] and
 thumb, clapping with the flat or hollow palm, waving the flap of the
 toga, for which last the emperor Aurelian substituted a handkerchief
 (_orarium_), distributed to all Roman citizens (see STOLE). In the
@@ -16,7 +16,7 @@ plaudite!", and the audience, guided by an unofficial choregus, chaunted
 their applause antiphonally. This was often organized and paid for
 (Bottiger, _Uber das Applaudieren im Theater bei den Alten_, Leipz.,
 1822). When Christianity became fashionable the customs of the theatre
-were transferred to the churches. Eusebius (_Hist. Eccl._ vii. 30) says
+were transferred to the churches. [[Eusebius]] (_Hist. Eccl._ vii. 30) says
 that Paul of Samosata encouraged the congregation to applaud his
 preaching by waving linen cloths ([Greek: othonais]), and in the 4th and
 5th centuries applause of the rhetoric of popular preachers had become
@@ -29,7 +29,7 @@ serious performances. The reverential spirit which abolished applause in
 church has tended to spread to the theatre and the concert-room, largely
 under the influence of the quasi-religious atmosphere of the Wagner
 performances at Baireuth. In Germany (e.g. the court theatres at Berlin)
-applause during the performance and "calling before the curtain" have
+applause during the performance and "calling before the [[Curtain|curtain]]" have
 been officially forbidden, but even in Germany this is felt to be in
 advance of public opinion. (See also ACCLAMATION and CHEERING.)
 

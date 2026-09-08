@@ -6,7 +6,7 @@ topic: history
 
 # Long Branch
 
-LONG BRANCH, a city of Monmouth county, New Jersey, U.S.A., on the
+LONG BRANCH, a city of Monmouth county, New [[Jersey]], U.S.A., on the
 easternmost or "long" branch of the Shrewsbury river and on the Atlantic
 coast, about 30 m. S. of New York City. Pop. (1890) 7231; (1900) 8872,
 of whom 1431 were foreign-born and 987 were negroes; (1910 census)
@@ -14,7 +14,7 @@ of whom 1431 were foreign-born and 987 were negroes; (1910 census)
 New York & Long Branch, and electric railways, and by steamboats to New
 York. The carriage roads in the vicinity are unusually good. Long Branch
 is one of the oldest American watering-places. It is situated on a bluff
-which rises abruptly 20-35 ft. above the beach, and along the front of
+which rises abruptly 20-35 ft. above the [[Beach|beach]], and along the front of
 which bulkheads and jetties have been erected as a protection from the
 waves; along or near the edge of the bluff, Ocean Avenue, 60 ft. wide
 and about 5 m. long (from Seabright to Deal), commands delightful views
@@ -35,30 +35,30 @@ Branch was owned by Colonel White, a British officer. It was confiscated
 as a result of the war, and late in the century its development as a
 watering-place began. Long Branch was chartered as a city in 1904.
 
-_LONGCHAMP, WILLIAM_ (d. 1197), chancellor of England and bishop of Ely,
+_LONGCHAMP, WILLIAM_ (d. 1197), chancellor of England and bishop of [[Ely]],
 entered public life at the close of Henry II.'s reign as official to the
 king's son Geoffrey, for the archdeaconry of Rouen. Henry II., who
 disliked him, called him the "son of two traitors." He soon deserted
-Geoffrey for Richard, who made him chancellor of the duchy of Aquitaine.
+Geoffrey for Richard, who made him chancellor of the duchy of [[Aquitaine]].
 He always showed himself an able diplomatist. He first distinguished
 himself at Paris, as Richard's envoy, when he defeated Henry II.'s
 attempt to make peace with Philip Augustus (1189). On Richard's
 accession William became chancellor of the kingdom and bishop of Ely.
 When Richard left England (Dec. 1189), he put the tower of London in his
-hands and chose him to share with Hugh de Puiset, the great bishop of
+hands and [[Chose|chose]] him to share with [[Hugh De Puiset|Hugh de Puiset]], the great bishop of
 Durham, the office of chief justiciar. William immediately quarrelled
 with Hugh, and by April 1190 had managed to oust him completely from
 office. In June 1190 he received a commission as legate from Pope
-Celestine. He was then master in church as well as state. But his
-disagreeable appearance and manners, his pride, his contempt for
+[[Celestine]]. He was then master in church as well as state. But his
+disagreeable appearance and [[Manners|manners]], his pride, his contempt for
 everything English made him detested. His progresses through the country
-with a train of a thousand knights were ruinous to those on whom
-devolved the burden of entertaining him. Even John seemed preferable to
+with a train of a thousand [[Knight|knights]] were ruinous to those on whom
+devolved the [[Burden|burden]] of entertaining him. Even John seemed preferable to
 him. John returned to England in 1191; he and his adherents were
 immediately involved in disputes with William, who was always worsted.
 At last (June 1191) Geoffrey, archbishop of York and William's earliest
 benefactor, was violently arrested by William's subordinates on landing
-at Dover. They exceeded their orders, which were to prevent the
+at [[Dover]]. They exceeded their orders, which were to prevent the
 archbishop from entering England until he had sworn fealty to Richard.
 But this outrage was made a pretext for a general rising against
 William, whose legatine commission had now expired, and whose power was
@@ -74,9 +74,9 @@ died in January 1197. His loyalty to Richard was unswerving, and it was
 no doubt through his unscrupulous devotion to the royal interest that he
 incurred the hatred of Richard's English subjects.
 
-  AUTHORITIES.--Benedictus, _Gesta Henrici_, vol. ii.; Giraldus
+  AUTHORITIES.--[[Benedictus]], _Gesta Henrici_, vol. ii.; Giraldus
   Cambrensis, _De Vita Galfridi_; Stubbs' Preface to Roger of Hoveden,
-  vol. iii.; L. Bovine-Champeaux, _Notice sur Guillaume de Longchamp_
+  vol. iii.; L. Bovine-Champeaux, _Notice sur [[Guillaume]] de Longchamp_
   (Évreux, 1885).
 
 ## See also

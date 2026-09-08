@@ -3,10 +3,10 @@
 MANTLE, a long flowing cloak without sleeves, worn by either sex.
 Particularly applied to the long robe worn over the armour by the
 men-at-arms of the middle ages, the name is still given to the robes of
-state of kings, peers, and the members of an order of knights. Thus the
-"electoral mantle" was a robe of office worn by the imperial electors,
+state of kings, peers, and the members of an order of [[Knight|knights]]. Thus the
+"electoral mantle" was a robe of office worn by the imperial [[Electors|electors]],
 and the Teutonic knights were known as the _orde alborum mantellorum_
-from their white mantles. As an article of women's dress a mantle now
+from their white mantles. As an article of women's [[Dress|dress]] a mantle now
 means a loose cloak or cape, of any length, and made of silk, velvet, or
 other rich material. The word is derived from the Latin _mantellum_ or
 _mantelum_, a cloak, and is probably the same as, or another form of,
@@ -25,7 +25,7 @@ in the 18th century for a similar garment, is probably a corruption of
 _manteau_, due to silk or other materials coming from the Italian town
 of that name, and known by the trade name of "mantuas." The Spanish
 _mantilla_ is a covering for the head and shoulders of white or black
-lace or other material, the characteristic head-dress of women in
+[[Lace|lace]] or other material, the characteristic head-dress of women in
 southern and central Spain. It is occasionally seen in the other parts
 of Spain and Spanish countries, and also in Portugal.
 
@@ -38,7 +38,7 @@ oxides employed in systems of incandescent lighting (see LIGHTING). The
 verb is used for the creaming or frothing of liquids and of the
 suffusing of the skin with blood. In heraldry "mantling," also known as
 "panache," "lambrequin" or "contoise," is an ornamental appendage to an
-escutcheon, of flowing drapery, forming a background (see HERALDRY).
+[[Escutcheon|escutcheon]], of flowing drapery, forming a background (see HERALDRY).
 
 ## References
 

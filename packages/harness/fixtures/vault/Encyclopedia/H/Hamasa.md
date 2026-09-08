@@ -6,11 +6,11 @@ collection is so called from the title of its first book, containing
 poems descriptive of constancy and valour in battle, patient endurance
 of calamity, steadfastness in seeking vengeance, manfulness under
 reproach and temptation, all which qualities make up the attribute
-called by the Arabs _hamasah_ (briefly paraphrased by at-Tibrizi as
+called by the [[Arabs]] _hamasah_ (briefly paraphrased by at-Tibrizi as
 _ash-shiddah fi-l-amr_). It consists of ten books or parts, containing
 in all 884 poems or fragments of poems, and named respectively--(1)
-_al-Hamasa_, 261 pieces; (2) _al-Marathi_, "Dirges," 169 pieces; (3)
-_al-Adab_, "Manners," 54 pieces; (4) _an-Nasib_, "The Beauty and Love of
+_al-Hamasa_, 261 pieces; (2) _al-Marathi_, "[[Dirge|Dirges]]," 169 pieces; (3)
+_al-Adab_, "[[Manners]]," 54 pieces; (4) _an-Nasib_, "The Beauty and Love of
 Women," 139 pieces; (5) _al-Hija_, "Satires," 80 pieces; (6) _al-Adyaf
 wa-l-Madih_, "Hospitality and Panegyric," 143 pieces; (7) _as-Sifat_,
 "Miscellaneous Descriptions," 3 pieces; (8) _as-Sair wa-n-Nu'as_,
@@ -28,7 +28,7 @@ Ante-Islamic time (_Jahiliyyun_), those of the early days of Al-Islam
 Omayyad caliphs, A.D. 660-749 (_Islamiyyun_). Perhaps the oldest in the
 collection are those relating to the war of Basus, a famous legendary
 strife which arose out of the murder of Kulaib, chief of the combined
-clans of Bakr and Taghlib, and lasted for forty years, ending with the
+[[Clan|clans]] of Bakr and Taghlib, and lasted for forty years, ending with the
 peace of Dhu-l-Majaz, about A.D. 534. Of the period of the Abbasid
 caliphs, under whom Abu Tammam himself lived, there are probably not
 more than sixteen fragments.
@@ -47,19 +47,19 @@ Imra 'al-Qais (Amru-ul-Qais) occurs in the _Hamasa_, nor are there any
 from 'Alqama, Zuhair or A'sha; Nabigha is represented only by two pieces
 (pp. 408 and 742 of Freytag's edition) of four and three verses
 respectively; 'Antara by two pieces of four verses each (id. pp. 206,
-209); Tarafa by one piece of five verses (id. p. 632); Labid by one
+209); Tarafa by one piece of five verses (id. p. 632); [[Labid]] by one
 piece of three verses (id. p. 468); and 'Amr ibn Kulthum by one piece of
 four verses (id. p. 236). The compilation is thus essentially an
 anthology of minor poets, and exhibits (so far at least as the more
 ancient poems are concerned) the general average of poetic utterance at
 a time when to speak in verse was the daily habit of every warrior of
-the desert.
+the [[Desert|desert]].
 
 To this description, however, there is an important exception in the
 book entitled _an-Nasib_, containing verses relating to women and love.
 In the classical age of Arab poetry it was the established rule that all
 _qasidas_, or finished odes, whatever their purpose, must begin with the
-mention of women and their charms (_tashbib_), in order, as the old
+mention of women and their [[Charm|charms]] (_tashbib_), in order, as the old
 critics said, that the hearts of the hearers might be softened and
 inclined to regard kindly the theme which the poet proposed to unfold.
 The fragments included in this part of the work are therefore generally
@@ -71,16 +71,16 @@ representative was 'Omar ibn Abi Rabi'a) arose.
 The compiler was himself a distinguished poet in the style of his day,
 and wandered through many provinces of the Moslem empire earning money
 and fame by his skill in panegyric. About 220 A.H. he betook himself to
-Khorasan, then ruled by 'Abdallah ibn Tahir, whom he praised and by whom
-he was rewarded; on his journey home to 'Irak he passed through
+[[Khorasan]], then ruled by 'Abdallah ibn Tahir, whom he praised and by whom
+he was rewarded; on his journey home to '[[Irak]] he passed through
 Hamadhan, and was there detained for many months a guest of Abu-l-Wafa,
 son of Salama, the road onward being blocked by heavy falls of snow.
 During his residence at Hamadhan, Abu Tammam is said to have compiled or
 composed, from the materials which he found in Abu-l-Wafa's library,
 five poetical works, of which one was the _Hamasa_. This collection
-remained as a precious heirloom in the family of Abu-l-Wafa until their
+remained as a precious [[Heirloom|heirloom]] in the family of Abu-l-Wafa until their
 fortunes decayed, when it fell into the hands of a man of Dinawar named
-Abu-l-'Awadhil, who carried it to Isfahan and made it known to the
+Abu-l-'Awadhil, who carried it to [[Isfahan]] and made it known to the
 learned of that city.
 
 The worth of the _Hamasa_ as a store-house of ancient legend, of
@@ -98,8 +98,8 @@ not small; but most of all there shines forth from it a complete
 portraiture of the hardy and manful nature, the strenuous life of
 passion and battle, the lofty contempt of cowardice, niggardliness and
 servility, which marked the valiant stock who bore Islam abroad in a
-flood of new life over the outworn civilizations of Persia, Egypt and
-Byzantium. It has the true stamp of the heroic time, of its cruelty and
+[[Flood|flood]] of new life over the outworn civilizations of Persia, Egypt and
+Byzantium. It has the true stamp of the heroic time, of its [[Cruelty|cruelty]] and
 wantonness as of its strength and beauty.
 
   No fewer than twenty commentaries are enumerated by Hajji Khalifa. Of
@@ -111,12 +111,12 @@ wantonness as of its strength and beauty.
   Ahmad al-Marzuqi of Isfahan (d. 421 A.H.). Upon al-Marzuqi's
   commentary is chiefly founded that of Abu Zakariya Yahya at-Tibrizi
   (b. 421 A.H., d. 502), which has been published by the late Professor
-  G. W. Freytag of Bonn, together with a Latin translation and notes
+  G. W. Freytag of [[Bonn]], together with a Latin translation and notes
   (1828-1851). This monumental work, the labour of a life, is a treasure
   of information regarding the classical age of Arab literature which
   has not perhaps its equal for extent, accuracy, and minuteness of
   detail in Europe. No other complete edition of the _Hamasa_ has been
-  printed in the West; but in 1856 one appeared at Calcutta under the
+  printed in the West; but in 1856 one appeared at [[Calcutta]] under the
   names of Maulavi Ghulam Rabbani and Kabiru-d-din Ahmad. Though no
   acknowledgment of the fact is contained in this edition, it is a
   simple reprint of Professor Freytag's text (without at-Tibrizi's
@@ -129,11 +129,11 @@ wantonness as of its strength and beauty.
   carelessly edited and printed, and in many places unintelligible.
   Freytag's text, with at-Tibrizi's commentary, has been reprinted at
   Bulaq (1870). In 1882 an edition of the text, with a marginal
-  commentary by Munshi 'Abdul-Qadir ibn Shaikh Luqman, was published at
+  commentary by Munshi 'Abdul-Qadir ibn Shaikh [[Luqman]], was published at
   Bombay.
 
   The _Hamasa_ has been rendered with remarkable skill and spirit into
-  German verse by the illustrious Friedrich Ruckert (Stuttgart, 1846),
+  German verse by the illustrious [[Friedrich]] Ruckert (Stuttgart, 1846),
   who has not only given translations of almost all the poems proper to
   the work, but has added numerous fragments drawn from other sources,
   especially those occurring in the _scholia_ of at-Tibrizi, as well as

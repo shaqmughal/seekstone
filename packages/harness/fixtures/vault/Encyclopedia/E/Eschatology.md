@@ -18,7 +18,7 @@ near, and would give the divine completion to the world's history. The
 use of the term, however, has been extended so as to include all that is
 taught in the Scriptures about the future life of the individual as well
 as the final destiny of the world. The reasons for the belief in a life
-after death are discussed in the article IMMORTALITY. The present
+after death are discussed in the article [[Immortality|IMMORTALITY]]. The present
 article, after a brief glance at the conceptions of the future of the
 individual or the world found in other religions, will deal with the
 teaching of the Old and New Testaments, the Jewish and the Christian
@@ -30,7 +30,7 @@ continuation of the present life in its essential features, although
 under conditions more or less favourable. It may also be thought of as
 retributive, as a reversal of present conditions so that the miserable
 are comforted, and the prosperous laid low, or as a reward or punishment
-for good or evil desert here. Personal identity may be absorbed, as in
+for good or evil [[Desert|desert]] here. Personal identity may be absorbed, as in
 the transmigration of souls, or it may even be denied, while the good or
 bad result of one life is held to determine the weal or woe of another.
 The scene of the future life may be thought of on earth, in some distant
@@ -46,7 +46,7 @@ Theology_, xiv., 1902).
 
   Eastern Religions.
 
-(1) Confucius, though unwilling to discuss any questions concerning the
+(1) Confucius, though unwilling to [[Discus|discuss]] any questions concerning the
 dead, by approving ancestor-worship recognized a future life. (2) Taoism
 promises immortality as the reward of merit. (3) _The Book of the
 Dead_--a guide-book for the departed on his long journey in the unseen
@@ -54,22 +54,22 @@ world to the abode of the blessed--shows the attention the Egyptian
 religion gave to the state of the dead. (4) Although the Babylonian
 religion presents a very gloomy view of the world of the dead, it is not
 without a few faint glimpses of a hope that a few mortals at least may
-gain deliverance from the dread doom. (5) A characteristic feature of
+gain deliverance from the dread [[Doom|doom]]. (5) A characteristic feature of
 Indian thought is the transmigration of the soul from one mode of life
 to another, the physical condition of each being determined by the moral
 and religious character of the preceding. But deliverance from this
 cycle of existences, which is conceived as misery, is promised by means
 of speculation and asceticism. Denying the continuance of the soul,
-Buddhism affirmed a continuity of moral consequences (_Karma_), each
+Buddhism affirmed a continuity of moral consequences (_[[Karma]]_), each
 successive life being determined by the total moral result of the
 preceding life. Its doctrine of salvation was a guide to, if not
 absolute non-existence, yet cessation of all consciousness of existence
 (_Nirvana_). Later Buddhism has, however, a doctrine of many heavens and
-hells. (6) In Zoroastrianism not only was continuance of life
+[[Hell|hells]]. (6) In Zoroastrianism not only was continuance of life
 recognized, but a strict retribution was taught. Heaven and hell were
 very clearly distinguished, and each soul according to its works passed
 to the one or to the other. But this faith did not concern itself only
-with the future lot of the individual soul. It was also interested in
+with the future [[Lot|lot]] of the individual soul. It was also interested in
 the close of the world's history, and taught a decisive, final victory
 of Ormuzd over Ahriman, of the forces of good over the forces of evil.
 It is not at all improbable that Jewish eschatology in its later
@@ -81,7 +81,7 @@ religions).
 
   Old Testament.
 
-In the Old Testament we can trace the gradual development of an ever
+In the Old Testament we can trace the [[Gradual|gradual]] development of an ever
 more definite doctrine of "the final condition of man and the world."
 This is regarded as the last stage in a moral process, a redemptive
 purpose of God. The eschatology of the Old Testament is thus closely
@@ -94,14 +94,14 @@ dealing first with the people. The universalism which marks the promise
 to the seed of the woman (Gen. iii. 15) appears also in the blessing of
 Noah (ix. 25). In the promise to Abraham (xii. 3) this universal good is
 directly related to God's particular purpose for His chosen people; so
-also in the blessing of Jacob (xlix.) and of Moses (Deut. xxxiii.).
+also in the blessing of [[Jacob]] (xlix.) and of Moses (Deut. xxxiii.).
 David's last words (2 Sam. xxiii.) blend together his desire that his
 family should retain the kingship, and his aspiration for a kingdom of
 righteousness on earth. The conception of the "Day of the Lord" is
 frequent and prominent in the prophets, and the sense given to the
 phrase by the people and by the prophets throws into bold relief the
 contrast between popular beliefs and the prophetic faith. The people
-simply expected deliverance from their miseries and burdens by the
+simply expected deliverance from their miseries and [[Burden|burdens]] by the
 intervention of Yahweh, because He had chosen Israel for His people. The
 prophets had an ethical conception of Yahweh; the sin of His own people
 and of other nations called for His intervention in judgment as the
@@ -115,14 +115,14 @@ Restoration the judgment is represented as falling on the nations while
 redemption is being wrought for God's people; after the Restoration the
 people of God is again threatened, but still the warning of judgment is
 mainly directed towards the nations and deliverance is promised to
-Israel. As the manifestation of God in grace as well as judgment, the
+Israel. As the manifestation of God in [[Grace|grace]] as well as judgment, the
 day of the Lord will bring joy to Israel and even to the world. As a
 day of judgment it is accompanied by terrible convulsions of nature (not
 to be taken figuratively, but probably intended literally by the
 prophets in accordance with their view of the absolute subordination of
 nature to the divine purpose for man). It ushers in the Messianic age.
 While the moral issues are finally determined by this day, yet the world
-of the Messianic age is painted with the colours of the prophet's own
+of the Messianic age is painted with the [[Colours|colours]] of the prophet's own
 surroundings. Israel is restored to its own land, and to it the other
 nations are brought into subjugation, by force or persuasion. The
 contributions of the Old Testament to Christian eschatology embrace
@@ -132,7 +132,7 @@ kingdom of the Lord, when all Israel shall be saved and when the nations
 shall be partakers of their salvation; and (4) the finality and eternity
 of this condition, that which constitutes the blessedness of the saved
 people being the Presence of God in the midst of them--this last point
-corresponding to the Christian idea of heaven" (A.B. Davidson, in
+corresponding to the Christian idea of heaven" (A.B. [[Davidson]], in
 Hastings's _Bible Dictionary_, i. p. 738). This hope is for the people
 on this earth though transfigured.
 
@@ -141,15 +141,15 @@ lxv. 20; Zech. viii. 4), but the abolition of death itself is also
 declared (Is. xxv. 8). The resurrection, which appears at first as a
 revival of the dead nation (Hos. vi. 2; Ez. xxxvii. 12-14), is
 afterwards promised for the pious individuals (Is. xxvi. 19), so that
-they too may share in the national restoration. Only in Daniel xii. 2 is
-taught a resurrection of the wicked "to shame and everlasting contempt"
+they too may share in the national restoration. Only in [[Daniel]] xii. 2 is
+taught a resurrection of the wicked "to shame and [[Everlasting|everlasting]] contempt"
 as well as of the righteous to "everlasting life." It was only at the
 Exile, when the nation ceased to be, that the worth of the individual
 came to be recognized, and the hopes given to the nation were claimed
 for the individual. In dealing with the individual eschatology we must
 carefully distinguish the popular ideas regarding death and the
 hereafter which Israel shared with the other Semitic peoples, from the
-intuitions, inferences, aspirations evoked in the pious by the divine
+[[Intuition|intuitions]], inferences, aspirations evoked in the pious by the divine
 revelation itself. The former have not the moral significance or the
 religious value of the latter. The starting-point of the development was
 the common belief that the dead continued to exist in an unsubstantial
@@ -211,7 +211,7 @@ recognized, but attention is specially concentrated on the final
 judgment, which is usually conceived as taking place in two stages. (1)
 The Messianic is executed by the Messiah or the saints by victory in
 war, or by judicial sentence. (2) The final remains in God's hands; but
-in one writing (the _Ethiopic Enoch_) is represented as Messiah's
+in one writing (the _Ethiopic [[Enoch]]_) is represented as Messiah's
 function. This judgment either closes the Messianic age, if thought of
 as temporal, or ushers it in, if conceived as eternal, or closes the
 world's history, if no Messianic age is expected. The place of torment
@@ -221,7 +221,7 @@ lxvi. 24). Here corporal as well as spiritual punishment was endured; it
 was inflicted on apostate Jews or the wicked generally; the righteous
 witnessed its initial stages but not its final form. In later Judaism it
 was the purgatory of faithless Jews, who at last reached Paradise, but
-it remained the place of eternal torment for the Gentiles. Paradise was
+it remained the place of eternal torment for the [[Gentile|Gentiles]]. Paradise was
 sometimes regarded as the division of Sheol to which the righteous
 passed after death, but at others it was conceived as the heavenly abode
 of Moses, Enoch and Elijah, to which other saints would pass after the
@@ -249,7 +249,7 @@ the world as near, and seemingly as one. This is in accordance with the
 characteristic of prophecy, which sees in "timeless sequence" events
 which are historically separated from one another. While the Return is
 represented in the Synoptists as an external event, it is conceived in
-the fourth gospel as an internal experience in the operation of the
+the fourth [[Gospel|gospel]] as an internal experience in the operation of the
 Spirit on the believer (John xiv. 16-21); nevertheless here also the
 Parousia in the synoptic sense is looked for (John xxi. 22; cf. 1 John
 ii. 28). The object of the Second Coming is the execution of judgment by
@@ -263,10 +263,10 @@ Sadducees, but accepted by the Pharisees and the majority of the Jewish
 people, and confirmed by Christ, not only as an individual spiritual
 renovation (John v. 25, 26), but as a universal physical resuscitation
 (28 and 29; Matt. xxii. 30). This resurrection is of the unjust as well
-as the just (Matt. v. 29, 30, x. 28; Luke xiv. 14). On the _Intermediate
+as the just (Matt. v. 29, 30, x. 28; [[Luke]] xiv. 14). On the _Intermediate
 State_ Jesus does not speak clearly. He uses the term Hades twice
 metaphorically (Matt. xi. 23, xvi. 18), and once in a parable, the "Rich
-Man and Lazarus" (Luke xvi. 23), in which he employs the current phrases
+Man and [[Lazarus]]" (Luke xvi. 23), in which he employs the current phrases
 such as "Abraham's bosom" (verse 22), without any definite doctrinal
 intention, to unveil the secrets of the hereafter by confirming with His
 authority the common beliefs of His time. The term Paradise (Luke xxiii.
@@ -318,13 +318,13 @@ against Christ has been given. The phrase "the times of restoration of
 all things" (iii. 21) is too vague in itself, and is too isolated in its
 context to warrant the dogmatic teaching of universalism, although there
 are other passages which seem to point towards the same goal. While
-John's Apocalypse is distinctly eschatological, the Epistles and the
+John's Apocalypse is distinctly eschatological, the [[Epistle|Epistles]] and the
 Gospels often give these conceptions an ethical and spiritual import,
 without, however, excluding the eschatological. Life is present while
 eternal (1 John v. 12, 13), but it is also future (ii. 25). There is
 expected a future manifestation of Christ as He is, and what the
 believer himself will be does not yet appear (iii. 2). The writer speaks
-of the last hour (ii. 18), the Antichrist that cometh (ii. 22, iv. 3),
+of the last hour (ii. 18), the [[Antichrist]] that cometh (ii. 22, iv. 3),
 and the Christian's full reward (2 John v. 8) as well as the Parousia (1
 John ii. 28). The Apocalypse reproduces much of the current Jewish
 eschatology. A millennial reign of Christ on earth is interposed between
@@ -346,7 +346,7 @@ the doctrines of the Rapture of the Saints (1 Thess. iv. 17) and the Man
 of Sin (2 Thess. ii. 3-6), but these have affinities elsewhere. A
 reference to the millennial reign of Christ in the period between the
 two resurrections is sometimes sought in 1 Cor. xv. 22-24; but it is not
-a chronology of the last things Paul is here giving. So also a
+a [[Chronology|chronology]] of the last things Paul is here giving. So also a
 justification for the doctrine of purgatory is sought in iii. 12-15; but
 the day and the fire are of the last judgment. A descent of Christ into
 Hades, implying an extension of the opportunity of grace such as is
@@ -354,7 +354,7 @@ supposed to be taught in 1 Peter, is also discovered in the obscure
 statements in Rom. x. 7 (where Paul is freely quoting Deut. xxx. 11-14),
 and Eph. iv. 10 (where he is commenting on Ps. lxviii. 18). Universal
 restoration is inferred from 1 Cor. xv. 24-28, "God all in all," Phil.
-ii. 10-11, every knee bowing to, and every tongue confessing Jesus
+ii. 10-11, every [[Knee|knee]] bowing to, and every tongue confessing Jesus
 Christ, Eph. i. 9, 10, the summing up of all things in Christ, Col. i.
 20, God reconciling all things unto Himself in Christ. These passages
 inspire a hope, but do not sustain a certainty. Paul's shrinking from
@@ -387,20 +387,20 @@ spirit already possessed immortality. Marcion expected that the Church
 would be assailed by Antichrist; a visible return of Christ he did not
 teach, but he recognized that human history would issue in a separation
 of the good from the bad. Montanism sought to form a new Christian
-commonwealth which, separated from the world, should prepare itself for
+[[Commonwealth|commonwealth]] which, separated from the world, should prepare itself for
 the descent of the Jerusalem from above, and its establishment in the
 spot which by the direction of the Spirit had been chosen in Phrygia.
-While Irenaeus held fast the traditional eschatological beliefs, yet his
+While [[Irenaeus]] held fast the traditional eschatological beliefs, yet his
 conception of the Christian salvation as a deification of man tended to
 weaken their hold on Christian thought. The Alogi in the 2nd century
-rejected the Apocalypse on account of its chiliasm, its teaching of a
+rejected the Apocalypse on account of its [[Chiliasm|chiliasm]], its teaching of a
 visible reign of Christ on earth for a thousand years. Montanism also
 brought these apocalyptic expectations into discredit in orthodox
 ecclesiastical circles. The Alexandrian theology strengthened this
-movement against chiliasm. Clement of Alexandria taught that justice is
+movement against chiliasm. [[Clement]] of Alexandria taught that justice is
 not merely retributive, that punishment is remedial, that probation
 continues after death till the final judgment, that Christ and the
-apostles preached the Gospel in Hades to those who lacked knowledge, but
+[[Apostle|apostles]] preached the Gospel in Hades to those who lacked knowledge, but
 whose heart was right, that a spiritual body will be raised. Origen
 taught that a germ of the spiritual body is in the present body, and its
 development depends on the character, that perfect bliss is reached only
@@ -414,7 +414,7 @@ hell as tortures of conscience; (4) the spiritualizing version of the
 resurrection of the body; (5) the idea of the continued creation of new
 worlds" (A. Harnack, _History of Dogma_, iii. p. 186).
 
-Epiphanius, following Methodius, insisted on the most perfect identity
+[[Epiphanius]], following Methodius, insisted on the most perfect identity
 between the resurrection body and the material body; and this belief,
 enforced in the West by Jerome, soon established itself as alone
 orthodox. Augustine made experiments on the flesh of a peacock in order
@@ -467,7 +467,7 @@ heaven involved in the knowledge of the endless suffering of others
 grace that the continued antagonism of any of God's creatures would
 imply, the dissatisfaction God as Father must feel until His whole
 family is restored. It has been argued that the term "eternal" has
-reference not to duration of time but quality of being (Maurice); but it
+reference not to duration of time but quality of being ([[Maurice]]); but it
 does seem certain that the writers in the Holy Scriptures who used it
 did not foresee an end either to the life or to the death to which they
 applied the term. The contention should not be based on the meaning of a
@@ -483,7 +483,7 @@ God to annihilate those men who finally oppose themselves to redemption,
 and the final purpose of the kingdom of God." He thus makes immortality
 conditional on inclusion in the kingdom of God. The doctrine of
 _universal restoration_ was maintained by Thomas Erskine of Linlathen on
-the ground of the Fatherhood of God, and Archdeacon Wilson anticipates
+the ground of the Fatherhood of God, and [[Archdeacon]] Wilson anticipates
 such discipline after death as will restore all souls to God. C.I.
 Nitzsch argues against the doctrine of the annihilation of the wicked,
 regards the teaching of Scripture about eternal damnation as
@@ -512,7 +512,7 @@ fulfilment of Messianic prophecy, for fulfilment always transcends
 prophecy. Even if the common beliefs of the apostolic age have not
 modified the evangelist's reports of Jesus' teaching, it must be
 remembered that He used the common prophetic phraseology, the literal
-fulfilment of which is not to be looked for. Some parables (the leaven,
+fulfilment of which is not to be looked for. Some parables (the [[Leaven|leaven]],
 the mustard seed) suggest a gradual progressive realization of His
 kingdom. The Fourth Gospel interprets both judgment and resurrection
 spiritually. Accordingly the general resurrection and the last judgment
@@ -529,7 +529,7 @@ mankind and the world.
   Doctrine of Immortality_ (4th ed., 1901); R.H. Charles, _A Critical
   History of the Doctrine of a Future Life in Israel, in Judaism, and in
   Christianity_ (1899); L.N. Dahle, _Life after Death and the Future of
-  the Kingdom of God_ (Eng. tr. by J. Beveridge, 1895); J.A. Beet, _The
+  the Kingdom of God_ (Eng. tr. by J. Beveridge, 1895); J.A. [[Beet]], _The
   Last Things_ (new ed., 1905); W.G.T. Shedd, _Doctrine of Endless
   Punishment_ (New York, 1886); F.W. Farrar, _The Eternal Hope_ (1892);
   E. Petavel, _The Problem of Immortality_ (Eng. tr. by F.A. Freer,

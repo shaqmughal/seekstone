@@ -16,18 +16,18 @@ Europe and the East, and made excellent use of his experiences in books
 published after his return. In 1851 he was one of the founders of the
 _Revue de Paris_ (suppressed in 1858), and was a frequent contributor to
 the _Revue des deux mondes_. In 1853 he was made an officer of the
-Legion of Honour. He served as a volunteer with Garibaldi in 1860, and
+[[Legion]] of Honour. He served as a volunteer with [[Garibaldi]] in 1860, and
 gave an account of his experiences in his _Expédition des deux Siciles_
 (1861). In 1870 he was nominated for the senate, but his election was
 frustrated by the downfall of the Empire. He was elected a member of the
 French Academy in 1880, mainly, it is said, on account of his history of
-the Commune, published under the title of _Les Convulsions de Paris_
-(1878-1880). His writings include among others the _Chants modernes_
+the [[Commune]], published under the title of _Les Convulsions de Paris_
+(1878-1880). His writings include among others the _[[Chant|Chants]] modernes_
 (1855), _Convictions_ (1858); numerous works on travel, _Souvenirs et
 paysages d'orient_ (1848), _Égypte, Nubie, Palestine, Syrie_ (1852);
 works of art criticism, _Les Salons de 1857, 1859, 1861_; novels,
 _L'Homme au bracelet d'or_ (1862), _Une Histoire d'amour_ (1889);
-literary studies, _Théophile Gautier_ (1890). Du Camp was the author of
+literary studies, _Théophile [[Gautier]]_ (1890). Du Camp was the author of
 a valuable book on the daily life of Paris, _Paris, ses organes, ses
 fonctions, sa vie dans la seconde moitié du XIX^e siècle_ (1869-1875).
 He published several works on social questions, one of which, the

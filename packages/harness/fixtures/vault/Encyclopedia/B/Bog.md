@@ -17,7 +17,7 @@ bog-slides have occurred in Ireland, such as that of the Knocknageeha
 Bog, Rathmore, Kerry, in 1896, at Castlerea, Roscommon, 1901, and at
 Kilmore, Galway, 1909.
 
-There is a French game of cards called "bog," said to be of Italian
+There is a French [[Game|game]] of [[Cards|cards]] called "bog," said to be of Italian
 origin, played with a piquet pack on a table with six divisions, one of
 which is known by the name of the game and forms the pool. It was
 fashionable during the Second Empire.

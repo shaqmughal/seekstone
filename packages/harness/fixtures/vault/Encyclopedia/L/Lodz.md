@@ -16,9 +16,9 @@ towns--Zgerz, Leczyca, Pabianice, Konstantinov and Aleksandrov. Chiefly
 owing to a considerable immigration of German capitalists and workers,
 Lodz has grown with American-like rapidity. It consists principally of
 one main street, 7 m. long, and is a sort of Polish Manchester,
-manufacturing cottons, woollens and mixed stuffs, with chemicals, beer,
+manufacturing cottons, woollens and mixed stuffs, with chemicals, [[Beer|beer]],
 machinery and silk. One of the very few educational institutions is a
-professional industrial school. The population, which was only 50,000 in
+professional [[Industrial School|industrial school]]. The population, which was only 50,000 in
 1872, reached 351,570 in 1900; the Poles numbering about 37%, Germans
 40% and Jews 22½%.
 

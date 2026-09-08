@@ -11,7 +11,7 @@ burst), a general term for any escape of blood from a blood-vessel (see
 Blood). It commonly results from injury, as the tearing or cutting of a
 blood-vessel, but certain forms result from disease, as in scurvy and
 purpura. The chief varieties of haemorrhage are _arterial_, _venous_ and
-_capillary_. Bleeding from an artery is of a bright red colour, and
+_capillary_. Bleeding from an artery is of a [[Bright|bright]] red colour, and
 escapes from the end of the vessel nearest the heart in jets synchronous
 with the heart's beat. Bleeding from a vein is of a darker colour; the
 flow is steady, and the bleeding is from the distal end of the vessel.
@@ -27,7 +27,7 @@ blood from the air-passages, which is usually bright red and frothy from
 admixture with air. _Haematuria_ means passage of blood with the urine.
 
 Cessation of bleeding may take place from natural or from artificial
-means. Natural arrest of haemorrhage arises from (1) the coagulation of
+means. Natural [[Arrest|arrest]] of haemorrhage arises from (1) the coagulation of
 the blood itself, (2) the diminution of the heart's action as in
 fainting, (3) changes taking place in the cut vessel causing its
 retraction and contraction. In the surgical treatment of haemorrhage
@@ -46,7 +46,7 @@ arrest haemorrhage permanently. In large vessels it is usual to pass a
 ligature round the vessel and tie it with a reef-knot. Apply the
 ligature, if possible, at the bleeding point, tying both ends of the cut
 vessel. If this cannot be done, the main artery of the limb must be
-exposed by dissection at the most accessible point between the wound and
+exposed by [[Dissection|dissection]] at the most accessible point between the wound and
 the heart, and there ligatured.
 
 Haemorrhage has been classified as--(1) primary, occurring at the time
@@ -66,10 +66,10 @@ to stop the flow of blood.
 The surgical procedure for the treatment of an open wound is--(1) arrest
 of haemorrhage; (2) cleansing of the wound and removal of any foreign
 bodies; (3) careful apposition of its edges and surfaces--the edges
-being best brought in contact by sutures of aseptic silk or catgut, the
+being best brought in contact by sutures of aseptic silk or [[Catgut|catgut]], the
 surfaces by carefully applied pressure; (4) free drainage, if necessary,
 to prevent accumulation either of blood or serous effusion; (5)
-avoidance of sepsis; (6) perfect rest of the part. These methods of
+[[Avoidance|avoidance]] of sepsis; (6) perfect rest of the part. These methods of
 treatment require to be modified for wounds in special situations and
 for those in which there is much contusion and laceration. When a
 special poison has entered the wound at the time of its infliction or at

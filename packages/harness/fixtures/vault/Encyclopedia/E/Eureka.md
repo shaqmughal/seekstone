@@ -7,7 +7,7 @@ type: source
 
 # Eureka
 
-EUREKA, a city, port of entry, and the county seat of Humboldt county,
+EUREKA, a city, port of entry, and the county seat of [[Humboldt]] county,
 California, U.S.A., on the E. shore of Humboldt Bay. Pop. (1880) 2639;
 (1890) 4858; (1900) 7327 (2035 foreign-born); (1910) 11,845. It has a
 good harbour, greatly improved by the National government, and is

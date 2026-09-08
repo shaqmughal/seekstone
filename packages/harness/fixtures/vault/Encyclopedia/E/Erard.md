@@ -9,16 +9,16 @@ upholsterer, he found opportunity for the early exercise of his
 mechanical ingenuity. When he was sixteen his father died, and he
 removed to Paris where he obtained employment with a harpsichord maker.
 Here his remarkable constructive skill, though it speedily excited the
-jealousy of his master and procured his dismissal, almost equally soon
+[[Jealousy|jealousy]] of his master and procured his dismissal, almost equally soon
 attracted the notice of musicians and musical instrument makers of
-eminence. Before he was twenty-five he set up in business for himself,
+[[Eminence|eminence]]. Before he was twenty-five he set up in business for himself,
 his first workshop being a room in the hotel of the duchesse de
 Villeroi, who gave him warm encouragement. Here he constructed in 1780
 his first pianoforte, which was also one of the first manufactured in
 France. It quickly secured for its maker such a reputation that he was
 soon overwhelmed with commissions, and finding assistance necessary, he
-sent for his brother, Jean Baptiste, in conjunction with whom he
-established in the rue de Bourbon, in the Faubourg St Germain, a piano
+sent for his brother, Jean [[Baptiste]], in conjunction with whom he
+established in the rue de [[Bourbon]], in the Faubourg St Germain, a piano
 manufactory, which in a few years became one of the most celebrated in
 Europe. On the outbreak of the Revolution he went to London where he
 established a factory. Returning to Paris in 1796, he soon afterwards

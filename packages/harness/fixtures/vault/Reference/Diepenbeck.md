@@ -1,7 +1,7 @@
 # Diepenbeck
 
 DIEPENBECK, ABRAHAM VAN (1599-1675), Flemish painter, was born at
-Herzogenbusch, and studied painting at Antwerp, where he became one of
+Herzogenbusch, and studied painting at [[Antwerp]], where he became one of
 Rubens's "hundred pupils." But he was not one of the cleverest of
 Rubens's followers, and he succeeded, at the best, in imitating the
 style and aping the peculiarities of his master. We see this in his
@@ -20,13 +20,13 @@ other occupation for the lucrative business of a draughtsman and
 designer for engravings. Most of Diepenbeck's important canvases are in
 continental galleries. The best are the "Marriage of St Catherine" at
 Berlin and "Mary with Angels Wailing over the Dead Body of Christ" in
-the Belvedere at Vienna, the first a very fair specimen of the artist's
+the [[Belvedere]] at Vienna, the first a very fair specimen of the artist's
 skill, the second a picture of more energy and feeling than might be
 expected from one who knew more of the outer form than of the spirit of
 Rubens. Then we have the fine "Entombment" at Brunswick, and "St Francis
 Adoring the Sacrament" at the museum at Brussels, "Clelia and her Nymphs
 Flying from the Presence and Pursuit of Porsenna" in two examples at
-Berlin and Paris, and "Neptune and Amphitrite" at Dresden. In all these
+Berlin and Paris, and "Neptune and Amphitrite" at [[Dresden]]. In all these
 compositions the drawing and execution are after the fashion of Rubens,
 though inferior to Rubens in harmony of tone and force of contrasted
 light and shade. Occasionally a tendency may be observed to imitate the
@@ -40,16 +40,16 @@ scenes from the life of St Francis of Paula in the church of the Minimes
 at Antwerp. In 1644 he received payment for four windows in St Jacques
 of Antwerp, two of which are still preserved, and represent Virgins to
 whom Christ appears after the Resurrection. The windows ascribed to him
-at St Gudule of Brussels were executed from the cartoons of Theodore van
+at St Gudule of Brussels were executed from the [[Cartoon|cartoons]] of Theodore van
 Thulden. On the occasion of his matriculation at Antwerp in 1638-1639,
-Diepenbeck was registered in the guild of St Luke as a glass-painter. He
+Diepenbeck was registered in the guild of St [[Luke]] as a glass-painter. He
 resigned his membership in the Artist Club of the Violette in 1542,
 apparently because he felt hurt by a valuation then made of drawings
 furnished for copperplates to the engraver Pieter de Jode. The earliest
 record of his residence at Antwerp is that of his election to the
 brotherhood (Sodalität) "of the Bachelors" in 1634. It is probable that
 before this time he had visited Rome and London, as noted in the work of
-Houbraken. In 1636 he was made a burgess of Antwerp. He married twice,
+Houbraken. In 1636 he was made a [[Burges|burgess]] of Antwerp. He married twice,
 in 1637 and 1652. He died in December 1675, and was buried at St Jacques
 of Antwerp.
 

@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bentinck"
 
 # Bentinck
 
-BENTINCK, LORD WILLIAM GEORGE FREDERICK CAVENDISH, better known as LORD
+BENTINCK, LORD WILLIAM GEORGE FREDERICK [[Cavendish|CAVENDISH]], better known as LORD
 GEORGE BENTINCK (1802-1848), British politician, was the second
 surviving son of the fourth duke of Portland, by Henrietta, sister of
 Viscountess Canning, and was born on the 27th of February 1802. He was

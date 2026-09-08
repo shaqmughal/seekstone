@@ -1,8 +1,8 @@
 # Gentile
 
 GENTILE, in the English Bible, the term generally applied to those who
-were not of the Jewish race. It is an adaptation of the Lat. _gentilis_,
-of or belonging to the same _gens_, the clan or family; as defined in
+were not of the Jewish race. It is an adaptation of the Lat. _[[Gentili|gentilis]]_,
+of or belonging to the same _gens_, the [[Clan|clan]] or family; as defined in
 Paulus ex Festo "gentilis dicitur et ex eodem genere ortus et is qui
 simili nomine; ut ait Cincius, gentiles mihi sunt, qui meo nomine
 appellantur." In post-Augustan Latin _gentilis_ became wider in meaning,

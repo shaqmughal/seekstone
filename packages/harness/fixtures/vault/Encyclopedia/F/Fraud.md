@@ -38,9 +38,9 @@ that they had reasonable grounds for believing the statements to be
 true. It is also to be observed that, though damages cannot be recovered
 in an action for a misrepresentation made with an honest belief in its
 truth, still any person induced to enter into a contract by a
-misrepresentation, whether fraudulent or innocent, is entitled to avoid
-the contract and to obtain a declaration that it is not binding upon
-him. This is in accordance with the rule of equity, which since the
+misrepresentation, whether fraudulent or [[Innocent|innocent]], is entitled to avoid
+the contract and to obtain a [[Declaration|declaration]] that it is not binding upon
+him. This is in accordance with the rule of [[Equity|equity]], which since the
 Judicature Act prevails in all the courts. Whether the representation is
 fraudulent or innocent, the contract is not void, but voidable. The
 party misled must exercise his option to avoid the contract without

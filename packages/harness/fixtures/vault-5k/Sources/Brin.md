@@ -18,15 +18,15 @@ the programme of Saint-Bon, while enlarging and completing it in such way
 as to form the first organic scheme for the development of the Italian
 fleet. The huge warships "Italia" and "Dandolo" were his work, though he
 afterwards abandoned their type in favour of smaller and faster vessels of
-the "Varese" and the "Garibaldi" class. By his initiative Italian naval
+the "Varese" and the "[[Garibaldi]]" class. By his initiative Italian naval
 industry, almost non-existent in 1873, made rapid progress. During his
 eleven years' ministry (1876-1878 with Depretis, 1884-1891 with Depretis
-and Crispi, 1896-1898 with Rudini), he succeeded in creating large private
+and [[Crispi]], 1896-1898 with Rudini), he succeeded in creating large private
 shipyards, engine works and metallurgical works for the production of
 armour, steel plates and guns. In 1892 he entered the Giolitti cabinet as
 minister for foreign affairs, accompanying, in that capacity, the king and
 queen of Italy to Potsdam, but showed weakness towards France on the
-occasion of the massacre of Italian workmen at Aigues-Mortes. He died on
+occasion of the [[Massacre|massacre]] of Italian workmen at Aigues-Mortes. He died on
 the 24th of May 1898, while minister of marine in the Rudini cabinet. He,
 more than any other man, must be regarded as the practical creator of the
 Italian navy.

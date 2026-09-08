@@ -52,7 +52,7 @@ Lodge's _Mechanics_:--
 2. _The Change of State of Matter._--By a change of temperature and
 pressure combined, a substance can in general be made to pass from one
 state into another; thus by gradually increasing the temperature a solid
-piece of ice can be melted into the liquid state of water, and the water
+piece of [[Ice|ice]] can be melted into the liquid state of water, and the water
 again can be boiled off into the gaseous state as steam. Again, by
 raising the temperature, a metal in the solid state can be melted and
 liquefied, and poured into a mould to assume any form desired, which is
@@ -77,7 +77,7 @@ make it flow, whereas the viscous liquid will yield to the slightest
 stress, but requires a certain length of time for the effect to be
 appreciable.
 
-According to Maxwell (_Theory of Heat_) "When a continuous alteration of
+According to [[Maxwell]] (_Theory of Heat_) "When a continuous alteration of
 form is produced only by a stress exceeding a certain value, the
 substance is called a solid, however soft and plastic it may be. But
 when the smallest stress, if only continued long enough, will cause a
@@ -85,21 +85,21 @@ perceptible and increasing change of form, the substance must be
 regarded as a viscous fluid, however hard it may be." Maxwell
 illustrates the difference between a soft solid and a hard liquid by a
 jelly and a block of pitch; also by the experiment of supporting a
-candle and a stick of sealing-wax; after a considerable time the
+[[Candle|candle]] and a stick of sealing-wax; after a considerable time the
 sealing-wax will be found bent and so is a fluid, but the candle remains
 straight as a solid.
 
-4. _Definition of a Fluid._--A fluid is a substance which yields
+4. _[[Definition]] of a Fluid._--A fluid is a substance which yields
 continually to the slightest tangential stress in its interior; that is,
 it can be divided very easily along any plane (given plenty of time if
 the fluid is viscous). It follows that when the fluid has come to rest,
 the tangential stress in any plane in its interior must vanish, and the
-stress must be entirely normal to the plane. This mechanical axiom of
+stress must be entirely normal to the plane. This mechanical [[Axiom|axiom]] of
 the _normality of fluid pressure_ is the foundation of the mathematical
 theory of hydrostatics.
 
 The theorems of hydrostatics are thus true for all stationary fluids,
-however viscous they may be; it is only when we come to hydrodynamics,
+however viscous they may be; it is only when we come to [[Hydrodynamics|hydrodynamics]],
 the science of the motion of a fluid, that viscosity will make itself
 felt and modify the theory; unless we begin by postulating the perfect
 fluid, devoid of viscosity, so that the principle of the _normality of
@@ -150,7 +150,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   was enunciated by Pascal, 1653, and applied by him to the invention of
   the _hydraulic press_.
 
-  This machine consists essentially of two communicating cylinders (fig.
+  This [[Machine|machine]] consists essentially of two communicating cylinders (fig.
   1a), filled with liquid and closed by pistons. If a thrust P lb. is
   applied to one piston of area A ft.², it will be balanced by a thrust
   W lb. applied to the other piston of area B ft.², where
@@ -163,7 +163,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   without the intervention of levers and machinery.
 
   Fig. 1b shows also a modern form of the hydraulic press, applied to
-  the operation of covering an electric cable with a lead coating.
+  the operation of covering an electric [[Cable|cable]] with a lead coating.
 
   8. _Theorem._--In a fluid at rest under gravity the pressure is the
   same at any two points in the same horizontal plane; in other words, a
@@ -241,7 +241,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   water, or 27,200 ft. of air. The pressure of the air is a convenient
   unit to employ in practical work, where it is called an "atmosphere";
   it is made the equivalent of a pressure of one kg/cm²; and one
-  ton/inch², employed as the unit with high pressure as in artillery,
+  ton/[[Inch|inch]]², employed as the unit with high pressure as in artillery,
   may be taken as 150 atmospheres.
 
   12. _Theorem._--A body immersed in a fluid is buoyed up by a force
@@ -262,10 +262,10 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   of gravity are in the same vertical line. So also a balloon begins to
   rise when the weight of air displaced is greater than the weight of
   the balloon, and it is in equilibrium when the weights are equal. This
-  theorem is called generally the _principle of Archimedes_.
+  theorem is called generally the _principle of [[Archimedes]]_.
 
   It is used to determine the density of a body experimentally; for if W
-  is the weight of a body weighed in a balance in air (strictly _in
+  is the weight of a body weighed in a [[Balance|balance]] in air (strictly _in
   vacuo_), and if W´ is the weight required to balance when the body is
   suspended in water, then the upward thrust of the liquid or weight of
   liquid displaced is W - W´, so that the _specific gravity_ (S.G.),
@@ -275,7 +275,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   As stated first by Archimedes, the principle asserts the obvious fact
   that a body displaces its own volume of water; and he utilized it in
   the problem of the determination of the adulteration of the crown of
-  Hiero. He weighed out a lump of gold and of silver of the same weight
+  [[Hiero]]. He weighed out a lump of gold and of silver of the same weight
   as the crown; and, immersing the three in succession in water, he
   found they spilt over measures of water in the ratio 1/14 : 4/77 :
   2/21 or 33 : 24 : 44; thence it follows that the gold : silver alloy
@@ -318,7 +318,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   be in the interspace between the outer mould and the core inside; and
   this was formerly considered paradoxical.
 
-  _Analytical Equations of Equilibrium of a Fluid at rest under any
+  _Analytical [[Equation|Equations]] of Equilibrium of a Fluid at rest under any
   System of Force._
 
   14. Referred to three fixed coordinate axes, a fluid, in which the
@@ -330,7 +330,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
      |  | lp dS = |  |  | [rho]X dx dy dz,   (1)
     _/ _/        _/ _/ _/
 
-  where l, m, n denote the direction cosines of the normal drawn outward
+  where l, m, n denote the direction [[Cosin|cosines]] of the normal drawn outward
   of the surface S.
 
   But by Green's transformation
@@ -385,7 +385,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
 
   15. As an example of the general equations, take the simplest case of
   a uniform field of gravity, with Oz directed vertically downward;
-  employing the gravitation unit of force,
+  employing the [[Gravitation|gravitation]] unit of force,
 
       1   dp        1   dp        1   dp
     ----- -- = 0, ----- -- = 0, ----- -- = 1,  (1)
@@ -442,10 +442,10 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   pressure and density diminish at compound discount, and for pressures
   p1 and p2 at heights z1 and z2
 
-    (z1 - z2)/k = log e (p2/p1) = 2.3 log10 (p2/p1).   (10)
+    (z1 - z2)/k = [[Log|log]] e (p2/p1) = 2.3 log10 (p2/p1).   (10)
 
   In the convective equilibrium of the atmosphere, the air is supposed
-  to change in density and pressure without exchange of heat by
+  to change in density and pressure without [[Exchange|exchange]] of heat by
   conduction; and then
 
     [rho]/[rho]0 = ([theta]/[theta]0)^n, p/p0 =
@@ -484,7 +484,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
       + (p - p0)/[lambda], [lambda] = k[rho]0, (15)
 
   so that [lambda] is the pressure due to a head k of the liquid at
-  density [rho]0 under atmospheric pressure p0; and it is the gauge
+  density [rho]0 under atmospheric pressure p0; and it is the [[Gauge|gauge]]
   pressure required on this law to double the density. Then
 
     dp/dz = kd[rho]/dz = [rho], [rho] = [rho]0e^(z/k),
@@ -501,7 +501,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   metres by the compressibility of the water; and the density at the
   bottom is increased 4%.
 
-  On another physical assumption of constant cubical elasticity
+  On another physical [[Assumption|assumption]] of constant cubical elasticity
   [lambda],
 
     dp = [lambda]d[rho]/[rho], (p - p0)/[lambda] = log([rho]/[rho]0), (18)
@@ -605,7 +605,7 @@ fluid pressure_ is taken to hold when the fluid is in movement.
   The _core_ of an area is the name given to the limited area round its
   C.G. within which the C·P. must lie when the area is immersed
   completely; the boundary of the core is therefore the locus of the
-  antipodes with respect to the momental ellipse of water lines which
+  [[Antipodes|antipodes]] with respect to the momental ellipse of water lines which
   touch the boundary of the area. Thus the core of a circle or an
   ellipse is a concentric circle or ellipse of one quarter the size.
 
@@ -693,7 +693,7 @@ across the deck and the angle is observed of the heel produced.
   through the C.G. of the water-line area, which we denote by F and call
   the centre of flotation.
 
-  The righting couple of the wedges of immersion and emersion will be
+  The righting couple of the wedges of [[Immersion|immersion]] and emersion will be
 
     [Sigma]wy dA tan [theta]·y = w tan [theta] [Sigma] y² dA
       = w tan [theta]·Ak² ft. tons,   (4)
@@ -729,7 +729,7 @@ across the deck and the angle is observed of the heel produced.
   tan[theta]; but if weights inside the ship are raised to bring G above
   B, the righting couple is diminished by W.BG.tan[theta], so that the
   resultant righting couple is W·GM·tan[theta]. Provided the ship is
-  designed to float upright at the smallest draft with no load on board,
+  designed to [[Float|float]] upright at the smallest draft with no load on board,
   the stability at any other draft of water can be arranged by the
   stowage of the weight, high or low.
 
@@ -773,9 +773,9 @@ section is normal, and the principle of the normality and thence of the
 equality of fluid pressure can be employed, as in hydrostatics. The
 practical problems of fluid motion, which are amenable to mathematical
 analysis when viscosity is taken into account, are excluded from
-treatment here, as constituting a separate branch called "hydraulics"
+treatment here, as constituting a separate branch called "[[Hydraulics|hydraulics]]"
 (q.v.). Two methods are employed in hydrodynamics, called the Eulerian
-and Lagrangian, although both are due originally to Leonhard Euler. In
+and Lagrangian, although both are due originally to Leonhard [[Euler]]. In
 the Eulerian method the attention is fixed on a particular point of
 space, and the change is observed there of pressure, density and
 velocity, which takes place during the motion; but in the Lagrangian
@@ -1318,7 +1318,7 @@ to d'Alembert's principle form a system in equilibrium.
   vortex inside may be determined as due to a series of vortex-images,
   so arranged as to make the flow zero across the boundary.
 
-  For a plane boundary the image is the optical reflection of the
+  For a plane boundary the [[Image|image]] is the optical reflection of the
   vortex. For example, a pair of equal opposite vortices, moving on a
   line parallel to a plane boundary, will have a corresponding pair of
   images, forming a rectangle of vortices, and the path of a vortex will
@@ -1489,7 +1489,7 @@ to d'Alembert's principle form a system in equilibrium.
      [phi]1       U1  \    b²/    a² - b²
 
   and this, by § 36, is also the ratio of the kinetic energy in the
-  annular interspace between the two cylinders to the kinetic energy of
+  [[Annular|annular]] interspace between the two cylinders to the kinetic energy of
   the liquid moving bodily inside r = b.
 
   Consequently the inertia to overcome in moving the cylinder r = b,
@@ -1592,7 +1592,7 @@ to d'Alembert's principle form a system in equilibrium.
   distributed impulse [pi][rho]m across the two parts of a diameter in
   the liquid, will generate the vortex motion, and react on the cylinder
   with an impulse couple -[rho]m[pi]a² and [rho]m[pi]b², having
-  resultant [rho]m[pi](b² - a²), and this couple is infinite when b =
+  resultant [rho]m[pi](b² - a²), and this couple is [[Infinite|infinite]] when b =
   [oo], as the angular momentum of the vortex is infinite. Round the
   cylinder r = a held fixed in the U current the liquid streams past
   with velocity
@@ -1655,8 +1655,8 @@ to d'Alembert's principle form a system in equilibrium.
   the surface of a vertical whirlpool in a sink.
 
   Restoring [sigma] will make the path of the cylinder a trochoid; and
-  so the swerve can be explained of the ball in tennis, cricket,
-  baseball, or golf.
+  so the swerve can be explained of the [[Ball|ball]] in tennis, cricket,
+  baseball, or [[Golf|golf]].
 
   Another explanation may be given of the sidelong force, arising from
   the velocity of liquid past a cylinder, which is encircled by a
@@ -1682,7 +1682,7 @@ to d'Alembert's principle form a system in equilibrium.
     z = c ch[zeta], x = c ch [eta] cos [xi], y = c sh [eta] sin [zeta];   (1)
 
   then the curves for which [eta] and [xi] are constant are confocal
-  ellipses and hyperbolas, and
+  ellipses and [[Hyperbola|hyperbolas]], and
 
         d(x, y)
     J = -------, [xi]) = c²(ch²[eta] - cos² [xi])
@@ -1919,7 +1919,7 @@ to d'Alembert's principle form a system in equilibrium.
 
   (iii.) [psi]1 + ½Rx² = ½Ra², [psi]1 = ½R(a² - x²), when y = ± b.
 
-  Expanded in a Fourier series,
+  Expanded in a [[Fourier]] series,
 
                32       __  cos (2n + 1) ½[pi]x/a
     a² - x² = ----- a² \    ---------------------,   (1)
@@ -2127,7 +2127,7 @@ with a certain velocity; and if an equal circular vortex is generated
 coaxially with the first, the mutual influence can be observed. The
 first vortex dilates and moves slower, while the second contracts and
 shoots through the first; after which the motion is reversed
-periodically, as if in a game of leap-frog. Projected perpendicularly
+periodically, as if in a [[Game|game]] of leap-frog. Projected perpendicularly
 against a plane boundary, the motion is determined by an equal opposite
 vortex ring, the optical image; the vortex ring spreads out and moves
 more slowly as it approaches the wall; at the same time the molecular
@@ -2325,7 +2325,7 @@ for the electro-magnetic effect of a current circulating in each ring.
   If at any two points of a vortex line the cross-section ABC, A´B´C´ is
   drawn of the vortex filament, joined by the vortex line AA´, then,
   since the flow in AA´ is taken in opposite directions in the complete
-  circuit ABC AA´B´C´ A´A, the resultant flow in AA´ cancels, and the
+  circuit ABC AA´B´C´ A´A, the resultant flow in AA´ [[Cancel|cancels]], and the
   circulation in ABC, A´B´C´ is the same; this is expressed by saying
   that at all points of a vortex filament [omega][alpha] is constant
   where [alpha] is the cross-section of the filament and [omega] the
@@ -2398,7 +2398,7 @@ for the electro-magnetic effect of a current circulating in each ring.
 
   38. _Moving Axes in Hydrodynamics._--In many problems, such as the
   motion of a solid in liquid, it is convenient to take coordinate axes
-  fixed to the solid and moving with it as the movable trihedron frame
+  fixed to the solid and moving with it as the movable trihedron [[Frame|frame]]
   of reference. The components of velocity of the moving origin are
   denoted by U, V, W, and the components of angular velocity of the
   frame of reference by P, Q, R; and then if u, v, w denote the
@@ -2536,7 +2536,7 @@ for the electro-magnetic effect of a current circulating in each ring.
     --- + --- + --- = 1;   (1)
      a²    b²    c²
 
-  and first suppose the liquid to be frozen, and the ellipsoid to be
+  and first suppose the liquid to be frozen, and the [[Ellipsoid|ellipsoid]] to be
   rotating about the centre with components of angular velocity [xi],
   [eta], [zeta]; then
 
@@ -2757,12 +2757,12 @@ for the electro-magnetic effect of a current circulating in each ring.
 
   and a state of steady motion is impossible when 3a > c > a.
 
-An experiment was devised by Lord Kelvin for demonstrating this, in
+An experiment was devised by Lord [[Kelvin]] for demonstrating this, in
 which the difference of steadiness was shown of a copper shell filled
 with liquid and spun gyroscopically, according as the shell was slightly
 oblate or prolate. According to the theory above the stability is
 regained when the length is more than three diameters, so that a modern
-projectile with a cavity more than three diameters long should fly
+projectile with a cavity more than three diameters long should [[Fly|fly]]
 steadily when filled with water; while the old-fashioned type, not so
 elongated, would be highly unsteady; and for the same reason the gas
 bags of a dirigible balloon should be over rather than under three
@@ -2771,7 +2771,7 @@ diameters long.
 40. _A Liquid Jet._--By the use of the complex variable and its
 conjugate functions, an attempt can be made to give a mathematical
 interpretation of problems such as the efflux of water in a jet or of
-smoke from a chimney, the discharge through a weir, the flow of water
+smoke from a chimney, the [[Discharge|discharge]] through a weir, the flow of water
 through the piers of a bridge, or past the side of a ship, the wind
 blowing on a sail or aeroplane, or against a wall, or impinging jets of
 gas or water; cases where a surface of discontinuity is observable, more
@@ -3041,7 +3041,7 @@ or air.
 
   giving the intrinsic equation.
 
-  41. The first problem of this kind, worked out by H. v. Helmholtz, of
+  41. The first problem of this kind, worked out by H. v. [[Helmholtz]], of
   the efflux of a jet between two edges A and A1 in an infinite wall, is
   obtained by the symmetrical duplication of the above, with n = 1, b =
   0, a´ = -[oo], as in fig. 5,
@@ -3073,7 +3073,7 @@ or air.
   straight stream line of infinite length, forming an axis of symmetry;
   and then by duplication the result can be obtained, with assigned n,
   a, and b, of the efflux from a symmetrical converging mouthpiece, or
-  of the flow of water through the arches of a bridge, with wedge-shaped
+  of the flow of water through the [[Arches|arches]] of a bridge, with wedge-shaped
   piers to divide the stream.
 
   [Illustration: FIG. 5.]
@@ -3283,13 +3283,13 @@ or air.
   Two corners B1 and B2 in the wall xA, with a´ = -[oo], and n = 1, will
   give the solution, by duplication, of a jet issuing by a reentrant
   mouthpiece placed symmetrically in the end wall of the channel; or
-  else of the channel blocked partially by a diaphragm across the
+  else of the channel blocked partially by a [[Diaphragm|diaphragm]] across the
   middle, with edges turned back symmetrically, problems discussed by J.
   H. Michell, A. E. H. Love and M. Réthy.
 
   When the polygon is closed by the walls joining, instead of reaching
   back to infinity at xx´, the liquid motion must be due to a source,
-  and this modification has been worked out by B. Hopkinson in the
+  and this modification has been worked out by B. [[Hopkinson]] in the
   _Proc. Lond. Math. Soc._, 1898.
 
   Michell has discussed also the hollow vortex stationary inside a
@@ -3529,7 +3529,7 @@ or air.
     [alpha] = ------ = ------;   (25)
                  U     1 - A0
 
-  in this way the air drag was calculated by Green for an ellipsoidal
+  in this way the air [[Drag|drag]] was calculated by Green for an ellipsoidal
   pendulum.
 
   Similarly, the inertia parallel to Oy and Oz is
@@ -3617,7 +3617,7 @@ or air.
     [phi]´ = ½Ux ( 1 + --  ),   [psi]´ = ½Uy² ( 1 - --  ).   (6)
                   \    B0 /                    \    B0 /
 
-  Changing the origin from the centre to the focus of a prolate
+  Changing the origin from the centre to the [[Focus|focus]] of a prolate
   spheroid, then putting b² = pa, [lambda] = [lambda]´a, and proceeding
   to the limit where a = [oo], we find for a paraboloid of revolution
 
@@ -3698,7 +3698,7 @@ or air.
   must be introduced at some other internal point S´.
 
   When S and S´ lie on the same radius, taken along Ox, the Stokes'
-  function can be written down; and when S and S´ coalesce a doublet is
+  function can be written down; and when S and S´ coalesce a [[Doublet|doublet]] is
   produced, with a doublet image at H.
 
   For a doublet at S, of moment m, the Stokes' function is
@@ -3902,7 +3902,7 @@ or air.
   true generally for a flexible system, such as considered here for a
   liquid, with one or more rigid bodies swimming in it; and they express
   the statement that the work done by an impulse is the product of the
-  impulse and the arithmetic mean of the initial and final velocity; so
+  impulse and the [[Arithmetic|arithmetic]] mean of the initial and final velocity; so
   that the kinetic energy is the work done by the impulse in starting
   the motion from rest.
 
@@ -4077,7 +4077,7 @@ or air.
     r²  \ dt  /
 
   where X3 is a quartic function of x3, and thus t is given by an
-  elliptic integral of the first kind; and by inversion x3 is in
+  elliptic integral of the first kind; and by [[Inversion|inversion]] x3 is in
   elliptic function of the time t. Now
 
   (x1 - x2i)(y1 + y2i) = x1y1 + x2y2 + i(x1y2 - x2y1)
@@ -4215,7 +4215,7 @@ direction of motion with respect to the external shape of the body, and
 on W´ the weight of fluid medium displaced.
 
   Consider, for example, a submarine boat under water; the inertia is
-  different for axial and broadside motion, and may be represented by
+  different for axial and [[Broadside|broadside]] motion, and may be represented by
 
     c1 = W + W´[alpha], c2 = W + W´[beta],   (1)
 
@@ -4264,7 +4264,7 @@ on W´ the weight of fluid medium displaced.
 
   An oblate flattened body, like a disk or plate, has c2 - c1 negative,
   so that the medium steers the body axially; this may be verified by a
-  plate dropped in water, and a leaf or disk or rocket-stick or piece of
+  plate dropped in water, and a [[Leaf|leaf]] or disk or rocket-stick or piece of
   paper falling in air. A card will show the influence of the couple N
   if projected with a spin in its plane, when it will be found to change
   its aspect in the air.
@@ -4358,7 +4358,7 @@ GYROSCOPE).
 
     +-----------------------+-----------------+-----------------+-----------------+-----------------+
     |                       | Cast-iron Common| Palliser Shell  |   Solid Steel   |   Solid Lead    |
-    |                       | Shell [f] = 2/3,| [f] = ½, S.G. 8.|     Bullet      | Bullet [f] = 0, |
+    |                       | Shell [f] = 2/3,| [f] = ½, S.G. 8.|     [[Bullet]]      | Bullet [f] = 0, |
     |                       |     S.G. 7.2.   |                 | [f] = 0, S.G. 8.|    S.G. 10.9.   |
     +--------+--------------+--------+--------+--------+--------+--------+--------+--------+--------+
     |   x    |[beta]-[alpha]|[delta] |   n    |[delta] |   n    |[delta] |   n    |[delta] |   n    |

@@ -16,11 +16,11 @@ Princeton, where he graduated in 1793. After studying theology under
 Bishop William White at Philadelphia, he was ordained deacon in 1798,
 and priest two years later. He was elected assistant bishop of New York,
 with the right of succession, in 1811, and was acting diocesan from that
-date because of the ill-health of Bishop Benjamin Moore, whom he
+date because of the ill-health of Bishop [[Benjamin]] Moore, whom he
 formally succeeded on the latter's death in February 1816. He was one of
 the founders of the General Theological Seminary, became its professor
 of pastoral theology in 1821, and as bishop was its governor. In his
-zeal for the historic episcopacy he published in 1807 _An Apology for
+zeal for the historic [[Episcopacy|episcopacy]] he published in 1807 _An [[Apology]] for
 Apostolic Order and its Advocates_, a series of letters to Rev. John M.
 Mason, who, in _The Christian's Magazine_, of which he was editor, had
 attacked the Episcopacy in general and in particular Hobart's
@@ -40,19 +40,19 @@ Knowledge. He delivered episcopal charges to the clergy of Connecticut
 and New York entitled _The Churchman_ (1819) and _The High Churchman
 Vindicated_ (1826), in which he accepted the name "high churchman," and
 stated and explained his principles "in distinction from the corruptions
-of the Church of Rome and from the Errors of Certain Protestant Sects."
+of the Church of Rome and from the [[Error|Errors]] of Certain Protestant Sects."
 He exerted himself greatly in building up his diocese, attempting to
 make an annual visit to every parish. His failing health led him to
 visit Europe in 1823-1825. Upon his return he preached a characteristic
 sermon entitled _The United States of America compared with some
-European Countries, particularly England_ (published 1826), in which,
+[[European Countries]], particularly England_ (published 1826), in which,
 although there was some praise for the English church, he so boldly
-criticized the establishment, state patronage, cabinet appointment of
+criticized the establishment, state patronage, [[Cabinet|cabinet]] appointment of
 bishops, lax discipline, and the low requirements of theological
 education, as to rouse much hostility in England, where he had been
 highly praised for two volumes of _Sermons on the Principal Events and
-Truths of Redemption_ (1824). He died at Auburn, New York, on the 12th
-of September 1830. He was able, impetuous, frank, perfectly fearless in
+Truths of Redemption_ (1824). He died at [[Auburn]], New York, on the 12th
+of September 1830. He was able, impetuous, [[Frank|frank]], perfectly fearless in
 controversy, a speaker and preacher of much eloquence, a supporter of
 missions to the Oneida Indians in his diocese, and the compiler of the
 following devotional works: _A Companion for the Altar_ (1804),

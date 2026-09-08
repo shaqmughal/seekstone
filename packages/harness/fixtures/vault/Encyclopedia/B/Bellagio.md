@@ -7,7 +7,7 @@ type: source
 
 # Bellagio
 
-BELLAGIO, a town of Lombardy, Italy, in the province of Como, about 15
+BELLAGIO, a town of Lombardy, Italy, in the province of [[Como]], about 15
 m. N.N.E. by steamer from the town of Como, situated on the promontory
 which divides the two southern arms of the Lake of Como. Pop. (1901)
 3536. It is chiefly remarkable for the beauty of its scenery, and is a

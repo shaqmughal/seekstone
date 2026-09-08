@@ -18,8 +18,8 @@ law. His works are very voluminous. The most important of them are _De foro
 legatorum_ (1702); _Observationes Juris Romani_ (1710), of which a
 continuation in four books appeared in 1733; the treatise _De Dominio
 Maris_ (1721); and the _Quaestiones Juris Publici_ (1737). Complete
-editions of his works were published after his death; one in folio at
-Geneva in 1761, and another in two volumes folio at Leiden in 1766.
+editions of his works were published after his death; one in [[Folio|folio]] at
+[[Geneva]] in 1761, and another in two volumes folio at Leiden in 1766.
 
 ## See also
 

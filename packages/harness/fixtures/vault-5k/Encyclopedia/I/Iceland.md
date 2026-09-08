@@ -1,8 +1,8 @@
 # Iceland
 
-ICELAND (Dan. _Island_), an island in the North Atlantic Ocean,
+ICELAND (Dan. _Island_), an island in the North [[Atlantic Ocean]],
 belonging to Denmark. Its extreme northerly point is touched by the
-Arctic Circle; it lies between 13° 22´ and 24° 35´ W., and between 63°
+[[Arctic]] Circle; it lies between 13° 22´ and 24° 35´ W., and between 63°
 12´ and 66° 33´ N., and has an area of 40,437 sq. m. Its length is 298
 m. and its breadth 194 m., the shape being a rough oval, broken at the
 north-west, where a peninsula, diversified by a great number of fjords,
@@ -16,7 +16,7 @@ these lowlands are almost the only parts of the island which are
 inhabited. In consequence of the rigour of its climate, the central
 tableland is absolutely uninhabitable. At the outside, not more than
 one-fourth of the area of Iceland is inhabited; the rest consists of
-elevated deserts, lava streams and glaciers. The north-west peninsula is
+elevated [[Desert|deserts]], lava streams and glaciers. The north-west peninsula is
 separated from the main mass of the island by the bays Hunaflói and
 Breiðifjörðr, so that there are really two tablelands, a larger and a
 smaller. The isthmus which connects the two is only 4¼ m. across, but
@@ -65,7 +65,7 @@ but it rises gradually towards the interior, terminating in a
 ramification of valleys. Its maximum altitude is attained at 381 ft.
 near Geysir. On the west of Mount Hekla this plain connects by a regular
 slope directly with the tableland, to the great injury of its inhabited
-districts, which are thus exposed to the clouds of pumice dust and
+districts, which are thus exposed to the clouds of pumice [[Dust|dust]] and
 driftsand that cover large areas of the interior. Nevertheless the
 greater part of this lowland plain produces good grass, and is
 relatively well inhabited. The plain is drained by three
@@ -170,7 +170,7 @@ one-fifth of the total population.
 The Icelandic volcanoes may be divided into three classes: (1)
 cone-shaped, like Vesuvius, built up of alternate layers of ashes,
 scoriae and lava; (2) cupola-shaped, with an easy slope and a vast
-crater opening at the top--these shield-shaped cupolas are composed
+crater opening at the top--these shield-shaped [[Cupola|cupolas]] are composed
 entirely of layers of lava, and their inclination is seldom steeper than
 7°-8°; (3) chains of craters running close alongside a fissure in the
 ground. For the most part the individual craters are low, generally not
@@ -248,7 +248,7 @@ Faxaflói.
   belonging to several different groups or divisions, the youngest of
   which seems to be of a date subsequent to the Glacial epoch. All over
   Iceland, in both the basalt and breccia formations, there occur small
-  intrusive beds and dikes of liparite, and as this rock is of a lighter
+  intrusive beds and [[Dike|dikes]] of liparite, and as this rock is of a lighter
   colour than the basalt, it is visible from a distance. In the
   south-east of the island, in the parish of Lón, there exist a few
   mountains of gabbro, a rock which does not occur in any other part of
@@ -268,14 +268,14 @@ Faxaflói.
   blocks, are found scattered all over Iceland. Signs of elevation
   subsequent to the Glacial epoch are common all round the island,
   especially on the north-west peninsula. There are found strikingly
-  developed marine terraces of gravel, shore lines and surf beaches
+  developed marine terraces of gravel, shore lines and surf [[Beach|beaches]]
   marked on the solid rock. In several places there are traces of
   shells; and sometimes skeletal remains of whales and walruses, as well
   as ancient driftwood, have been discovered at tolerable distances from
   the present coast. The ancient shore-lines occur at two different
   altitudes. Along the higher, 230 to 266 ft. above the existing
   sea-level, shells have been found which are characteristic of high
-  Arctic latitudes and no longer exist in Iceland; whereas on the lower
+  Arctic [[Latitude|latitudes]] and no longer exist in Iceland; whereas on the lower
   shore-line, 100 to 130 ft., the shells belong to species which occur
   amongst the coast fauna of the present day.
 
@@ -331,7 +331,7 @@ remarked. Thunderstorms occur mostly in winter.
   importance to the inhabitants, for upon them they are dependent for
   the keep of their live stock. Heather covers large tracts, and also
   affords pasture for sheep. The development of forest trees is
-  insignificant. Birch woods exist in a good many places, especially in
+  insignificant. [[Birch]] woods exist in a good many places, especially in
   the warmer valleys; but the trees are very short, scarcely attaining
   more than 3 to 10 ft. in height. In a few places, however, they reach
   13 to 20 ft. and occasionally more. A few mountain ash or rowan trees
@@ -404,7 +404,7 @@ There are marine insurance societies and a school of navigation at
 Reykjavik. The export of fish and fish products has greatly increased.
 In 1849 to 1855 the annual average exported was 1480 tons; whereas at
 the close of the century (in 1899) it amounted to 11,339 tons and 68,079
-barrels of oil, valued at £276,596.
+[[Barrel|barrels]] of oil, valued at £276,596.
 
 _Commerce_.--From the first colonization of the island down to the 14th
 century the trade was in the hands of native Icelanders and Norsemen; in
@@ -440,7 +440,7 @@ been made, more particularly in the south. Since 1888 many bridges have
 been built; previous to that year there was none. The larger rivers have
 been spanned by iron swing-bridges, and the Blanda is crossed by a fixed
 iron bridge. Postal connexion is maintained with Denmark by steamers,
-which sail from Copenhagen and call at Leith. Besides, steamers go round
+which sail from [[Copenhagen]] and call at [[Leith]]. Besides, steamers go round
 the island, touching at nearly every port.
 
 _Religion_.--The Icelanders are Lutherans. For ecclesiastical purposes
@@ -461,7 +461,7 @@ death-rate of young children has especially diminished. This improvement
 is due to greater cleanliness, better dwellings, better nourishment, and
 the increase in the number of doctors. There are now doctors in all
 parts of the country, whereas formerly there were hardly any in the
-island. There is a modern asylum for leprosy at Laugarnes near
+island. There is a modern [[Asylum|asylum]] for leprosy at Laugarnes near
 Reykjavik, and a medical school at Reykjavik, opened in 1876. The
 general sanitary affairs of the island are under the control of a chief
 surgeon (national physician) who lives in Reykjavik, and has
@@ -477,7 +477,7 @@ representatives of the people out of their own body. The lower division
 consists of the remaining 24 representative members. The minister for
 Iceland, who resided in Copenhagen until 1903, when his office was
 transferred to Reykjavik, is responsible to the king and the Althing for
-the maintenance of the constitution, and he submits to the king for
+the [[Maintenance|maintenance]] of the constitution, and he submits to the king for
 confirmation the legislative measures proposed by the Althing. The king
 appoints a governor-general (_landshöfðingi_) who is resident in the
 island and carries on the government on the responsibility of the
@@ -532,14 +532,14 @@ Friends of the People, and the Archaeological Society of Reykjavik.
   Bugter" (1901); "Geog. og geol. Unders. ved den sydlige Del af
   Faxaflói paa Island" (1903); "Lavaörkener og Vulkaner paa Islands
   Höjland" (1905). See also C. S. Forbes, _Iceland_ (London, 1860); S.
-  Baring-Gould, _Iceland, its Scenes and Sagas_ (London, 1863); Sir R.
+  [[Baring-Gould]], _Iceland, its Scenes and Sagas_ (London, 1863); Sir R.
   F. Burton, _Ultima Thule_ (Edinburgh, 1875); W. T. McCormick, _A Ride
   across Iceland_ (London, 1892); J. Coles, Summer Travelling in Iceland
-  (London, 1882); H. J. Johnston Lavis, "Notes on the Geography,
+  (London, 1882); H. J. Johnston Lavis, "Notes on the [[Geography]],
   Geology, Agriculture and Economics of Iceland," _Scott. Geog. Mag._
   xi. (1895); W. Bisiker, _Across Iceland_ (London, 1902); J. Hann, "Die
   Anomalien der Witterung auf Island in dem Zeitraume 1851-1900, &c.,"
-  _Sitzungsberichte, Vienna Acad. Sci._ (1904); P. Hermann, _Island in
+  _Sitzungsberichte, Vienna Acad. Sci._ (1904); P. [[Hermann]], _Island in
   Vergangenheit und Gegenwart_ (Leipzig, 1907). Also _Geografisk
   Tidskrift_, and the _Geographical Journal_ (London), _passim_.
        (Th. T.)
@@ -565,7 +565,7 @@ north. They had colonized the west in the viking times; they had "fought
 at Hafursfirth," helping their stay-at-home kinsmen against the
 centralization of the great head-king, who, when he had crushed
 opposition in Norway, followed up his victory by compelling them to flee
-or bow to his rule. Such were Ingimund the Old, Geirmund Hellskin, Thord
+or [[Bow|bow]] to his rule. Such were Ingimund the Old, Geirmund Hellskin, Thord
 Beardie (who had wed St. Edmund's granddaughter,) Audun Shackle,
 Bryniulf the Old, Uni, to whom Harold promised the earldom of the new
 land if he could make the settlers acknowledge him as king (a hopeless
@@ -576,12 +576,12 @@ Among them were Earl Hrollaug (half-brother of Hrolf Ganger and of the
 first earl of Orkney), Hialti, Hrafnkell Frey's priest, and the sons of
 Asbiorn. Fully three-quarters of the land was settled from the west, and
 among these immigrants there was no small proportion of Irish blood. In
-1100 there were 4500 franklins, i.e. about 50,000 souls.
+1100 there were 4500 [[Franklin|franklins]], i.e. about 50,000 souls.
 
 _Table of Icelandic Literature and History._
 
   +------------+-----------------------------------------------------------------+
-  |            |              I. _The Commonwealth. 400 years._                  |
+  |            |              I. _The [[Commonwealth]]. 400 years._                  |
   |   Heroic   |                           |                                     |
   |    Age.    |                           |                                     |
   |            |                           |                                     |
@@ -707,7 +707,7 @@ peace for a time, provoked in the end the struggles which put an end to
 the commonwealth.
 
 Christianity was introduced c. 1000. Tithes were established in 1096,
-and an ecclesiastical code made c. 1125. The first disputes about the
+and an ecclesiastical [[Code|code]] made c. 1125. The first disputes about the
 jurisdiction of the clergy were moved by Gudmund in the 13th century,
 bringing on a civil war, while the questions of patronage and rights
 over glebe and mortmainland occupied Bishop Arni and his adversaries
@@ -733,7 +733,7 @@ E.) 1056, and Holar (N.) 1106, and about 175 parishes (two-thirds of
 which belonged to the southern bishopric). They belonged to the
 metropolitan see of Bremen, then to Lund, lastly to Nidaros, 1237. There
 were several religious foundations: Thingore (founded 1133), Thwera
-(1155), Hitardale (c. 1166), Kirkby Nunnery (1184), Stad Nunnery (1296),
+(1155), Hitardale (c. 1166), [[Kirkby]] Nunnery (1184), Stad Nunnery (1296),
 and Saurby (c. 1200) were Benedictine, while Ver (1168), Flatey after
 Holyfell (1172), Videy (1226), Madderfield Priory (1296), and Skrid
 Priory (14th century) were Augustinian. The bishops, elected by the
@@ -748,7 +748,7 @@ found in the _Biskupasögur_ (edited by Dr Vigfusson).
 
 Iceland was not agricultural but pastoral, depending upon flocks Mode of
 and herds for subsistence, for, though rye and other grain would grow in
-favoured localities, the hay, self-sown, was the only regular crop. In
+favoured localities, the [[Hay|hay]], self-sown, was the only regular crop. In
 some districts the fisheries and fowling were of importance, but
 nine-tenths of the population lived by their sheep and cattle. Life on
 each homestead was regularly portioned out: out door occupations--fishing,
@@ -759,7 +759,7 @@ Althing meeting at midsummer, the marriage and arval gatherings after the
 summer, and the long yule feasts at midwinter. There were but two degrees
 of men, free and unfree, though only the franklins had any political
 power; and, from the nature of the life, social intercourse was
-unrestrained and unfettered; goði and thrall lived the same lives, ate the
+unrestrained and unfettered; goði and thrall lived the same lives, [[Ate|ate]] the
 same food, spoke the same tongue, and differed little in clothing or
 habits. The thrall had a house of his own and was rather villein or serf
 than slave, having rights and a legal price by law. During the heathen
@@ -803,7 +803,7 @@ reserved its essential rights, was disregarded by the absolute Danish
 monarchs; but, though new taxation was imposed, it was rather their
 careless neglect than their too active interference that damaged
 Iceland's interests. But for an English trade, which sprang up out of
-the half-smuggling, half-buccaneering enterprise of the Bristol
+the half-smuggling, half-buccaneering enterprise of the [[Bristol]]
 merchants, the island would have fared badly, for during the whole of
 the 15th century their trade with England, exporting sulphur, eiderdown
 (of which the English taught them the value), wool, and salt stock-fish,
@@ -812,7 +812,7 @@ was their only link with the outer world. This period of Iceland's
 existence is eventless: she had got peace but with few of its blessings;
 all spirit seemed to have died with the commonwealth; even shepherding
 and such agriculture as there had been sank to a lower stage; wagons,
-ploughs and carts went out of use and knowledge; architecture in timber
+ploughs and [[Cart|carts]] went out of use and knowledge; architecture in timber
 became a lost art, and the fine carved and painted halls of the heathen
 days were replaced by turf-walled barns half sunk in the earth; the
 large decked luggers of the old days gave way to small undecked
@@ -824,7 +824,7 @@ fishing-boats.
 The Reformation in Iceland wakened men's minds, but it left their
 circumstances little changed. Though the fires of martyrdom were never
 lighted in Iceland, the story of the easily accepted Reformation is not
-altogether a pleasant one. When it was accomplished, the little knot of
+altogether a pleasant one. When it was accomplished, the little [[Knot|knot]] of
 able men who came to the front did much in preserving the records of the
 past, while Odd and Hallgrim exhibit the noblest impulses of their time.
 While there was this revolution in religion a social and political
@@ -845,7 +845,7 @@ the close of the 16th century and opening of the 17th, causing
 widespread panic and some devastation in 1579, 1613-1616 and 1627.
 Nothing points more to the helplessness of the natives' condition than
 their powerlessness against these foes. But the 18th century is the most
-gloomy in Iceland's annals. Smallpox, famine, sheep disease, and the
+gloomy in Iceland's [[Annals|annals]]. Smallpox, famine, sheep disease, and the
 eruptions of 1765 and 1783 follow each other in terrible succession.
 Against such visitations, which reduced the population by about a
 fourth, little could be done. The few literary men, whose work was done
@@ -858,7 +858,7 @@ who worked and wrote for his own generation.[5]
 
 Gradually the ideas which were agitating Europe spread through
 Scandinavia into Iceland, and its claims were more respectfully listened
-to. The continental system, which, by its leading to the blockade of
+to. The continental system, which, by its leading to the [[Blockade|blockade]] of
 Denmark, threatened to starve Iceland, was neutralized by special action
 of the British government. Trade and fishery grew a little brisker, and
 at length the turn came.
@@ -886,7 +886,7 @@ lavished on the saga, a prose epic, while Icelandic poetry is to be
 rated very high for the one quality which its authors have ever aimed
 at--melody of sound. To these generalizations there are few exceptions,
 though Icelandic literature includes a group of poems which possess
-qualities of high imagination, deep pathos, fresh love of nature,
+qualities of high [[Imagination|imagination]], deep pathos, fresh love of nature,
 passionate dramatic power, and noble simplicity of language which
 Icelandic poetry lacks. The solution is that these poems do not belong
 to Iceland at all. They are the poetry of the "Western Islands."
@@ -915,7 +915,7 @@ classified into groups:--
   school belong, probably, the _Lay_ underlying the story of Ivar's
   death in _Skioldunga Saga_.
 
-  (c) The Didactic Poetry:--_Grímnismál_, _Vafpruðnismál_, _Alvíssmal_,
+  (c) The [[Didactic Poetry]]:--_Grímnismál_, _Vafpruðnismál_, _Alvíssmal_,
   &c.
 
   (d) The Genealogical and Mythological Poems:--_Hyndluljoð_ written for
@@ -945,8 +945,8 @@ classified into groups:--
 In form all these poems belong to two or three classes:--_kviða_, an
 epic "cantilena"; _tál_, a genealogical poem; _drapa_, songs of praise,
 &c., written in modifications of the old Teutonic metre which we know in
-Beowulf; _galdr_ and _lokkr_, spell and charm songs in a more lyric
-measure; and _mál_, a dialogue poem, and _liod_, a lay, in elegiac
+Beowulf; _galdr_ and _lokkr_, spell and [[Charm|charm]] songs in a more lyric
+measure; and _mál_, a [[Dialogue|dialogue]] poem, and _liod_, a lay, in elegiac
 measure suited to the subject.
 
 The characteristics of this Western school are no doubt the result of
@@ -970,7 +970,7 @@ their verse naturally descends. While shrewdness, plain
 straightforwardness, and a certain stern way of looking at life are
 common to both, the Icelandic school adds a complexity of structure and
 ornament, an elaborate mythological and enigmatical phraseology, and a
-regularity of rhyme, assonance, luxuriance, quantity and
+regularity of rhyme, [[Assonance|assonance]], luxuriance, quantity and
 syllabification, which it caught from the Latin and Celtic poets, and
 adapted with exquisite ingenuity to its own main object, that of
 securing the greatest possible beauty of sound.
@@ -988,12 +988,12 @@ satire or with a sword-thrust, but clinging through all to their art, in
 which they attained most marvellous skill.
 
 Such men were Egil, the foe of Eirik Bloodaxe and the friend of
-Æthelstan; Kormak, the hot-headed champion; Eyvind, King Haakon's poet,
+Æthelstan; Kormak, the hot-headed [[Champion|champion]]; Eyvind, King Haakon's poet,
 called Skaldaspillir, because he copied in his dirge over that king the
 older and finer _Eíríksmál_; Gunnlaug, who sang at Æthelred's court, and
 fell at the hands of a brother bard, Hrafn; Hallfred, Olaf Tryggvason's
 poet, who lies in Iona by the side of Macbeth; Sighvat, Saint Olafs
-henchman, most prolific of all his comrades; Thormod, Coalbrow's poet,
+[[Henchman|henchman]], most prolific of all his comrades; Thormod, Coalbrow's poet,
 who died singing after Sticklestad battle; Ref, Ottar the Black, Arnor
 the earls' poet, and, of those whose poetry was almost confined to
 Iceland, Gretti, Biorn the Hitdale champion, and the two model Icelandic
@@ -1056,12 +1056,12 @@ end of the 11th century, when it overthrew the old Icelandic poetry in
 favour of the rimur.
 
 The introduction of the _danz_, ballads (or _fornkvædi_, as they are now
-called) for singing, with a burden, usually relating to a love-tale,
+called) for singing, with a [[Burden|burden]], usually relating to a love-tale,
 which were immensely popular with the people and performed by whole
 companies at weddings, yule feasts and the like, had relegated the
 regular Icelandic poetry to more serious events or to the more
-cultivated of the chiefs. But these "jigs," as the Elizabethans would
-have called them, dissatisfied the popular ear in one way: they were,
+cultivated of the chiefs. But these "[[Jig|jigs]]," as the Elizabethans would
+have called them, dissatisfied the popular [[Ear|ear]] in one way: they were,
 like old English ballads, which they closely resembled, in rhyme, but
 void of alliteration, and accordingly they were modified and replaced by
 the "rimur," the staple literary product of the 15th century. These were
@@ -1122,7 +1122,7 @@ Olafsson, traveller, naturalist and patriot, whose untimely death in
 1768 was a great loss to his country. His _Bunadar-balkr_, a Georgic
 written, like Tusser's _Points_, with a practical view of raising the
 state of agriculture, has always been much prized. Paul Vidalin's
-ditties are very naïve and clever.
+ditties are very naïve and [[Clever|clever]].
 
 Of later poets, down to more recent times, perhaps the best was Sigurd
 of Broadfirth, many of whose prettiest poems were composed in Greenland
@@ -1161,7 +1161,7 @@ blood is greatest. In comparing the Irish tales with the saga, there
 will be felt deep divergencies in matter, style and taste, the richness
 of one contrasting with the chastened simplicity of the other; the one's
 half-comic, half-earnest bombast is wholly unlike the other's grim
-humour; the marvellous, so unearthly in the one, is almost credible in
+[[Humour|humour]]; the marvellous, so unearthly in the one, is almost credible in
 the other; but in both are the keen grasp of character, the biting
 phrase, the love of action and the delight in blood which almost assumes
 the garb of a religious passion.
@@ -1218,13 +1218,13 @@ in Iceland at Borg, illustrating very clearly what manner of men those
 great settlers and their descendants were, and the feelings of pride and
 freedom which led them to Iceland. The style is that of Snorri, who had
 himself dwelt at Borg. _Eyrbyggia_ (890-1031) is the saga of politics,
-the most loosely woven of all the compound stories. It includes a mass
+the most loosely woven of all the [[Compound|compound]] stories. It includes a mass
 of information on the law, religion, traditions, &c., of the heathen
 days in Iceland, and the lives of Eric, the real discoverer of
 Greenland, Biorn of Broadwick, a famous chief, and Snorri, the greatest
 statesman of his day. Dr Vigfusson would ascribe its editing and
 completion to Sturla the Lawman, c. 1250. _Laxdæla_ (910-1026) is the
-saga of Romance. Its heroine Gudrun is the most famous of all Icelandic
+saga of Romance. Its heroine [[Gudrun]] is the most famous of all Icelandic
 ladies. Her love for Kiartan the poet, and his career abroad, his
 betrayal by his friend Bolli, the sad death of Kiartan at his hands, the
 revenge taken for him on Bolli, whose slayers are themselves afterwards
@@ -1264,7 +1264,7 @@ Of tales relating to the east there survive the Weapon-firth cycle--the
 tales of _Thorstein the White_ (c. 900), of _Thorstein the Staffsmitten_
 (c. 985), of _Gunnar Thidrand's Bane_ (1000-1008) and of the
 _Weapon-firth Men_ (975-990), all relating to the family of Hof and
-their friends and kin for several generations--and the story of
+their friends and [[Kin|kin]] for several generations--and the story of
 _Hrafnkell Frey's Priest_ (c. 960), the most idyllic of sagas and best
 of the eastern tales. Of later times there are _Droplaug's Sons' Saga_
 (997-1007), written probably about 1110, and preserved in the uncouth
@@ -1291,7 +1291,7 @@ Ragnhild are as sharply contrasted as the men Gunnar, Skarphedin, Flosi
 and Kari. The pathos of such tragedies as the death of Gunnar and
 Hoskuld and the burning is interrupted by the humour of the Althing
 scenes and the intellectual interest of the legal proceedings. The plot
-dealing first with the life and death of Gunnar, type of the chivalry of
+dealing first with the life and death of Gunnar, type of the [[Chivalry|chivalry]] of
 his day, then with the burning of Nial by Flosi, and how it came about,
 and lastly with Kari's revenge on the burners, is the ideal saga-plot.
 The author must have been of the east, a good lawyer and genealogist,
@@ -1331,7 +1331,7 @@ The forged Icelandic sagas appear as early as the 13th century. They are
 very poor, and either worked up on hints given in genuine stories or
 altogether apocryphal.
 
-_History._--About the year of the battle of Hastings was born Ari Froði
+_History._--About the year of the battle of [[Hastings]] was born Ari Froði
 Thorgilsson (1067-1148), one of the blood of Queen Aud, who founded the
 famous historical school of Iceland, and himself produced its greatest
 monument in a work which can be compared for value with the English
@@ -1374,7 +1374,7 @@ his plan with regard to part of the east coast, a district with which
 Ari in his western home at Stad was little familiar. _Landnamabók_ has
 reached us in two complete editions, one edited by Sturla, who brought
 down the genealogies to his own grandfather and grandmother, Sturla and
-Gudny, and one by Hawk, who traces the pedigrees still later to himself.
+Gudny, and one by [[Hawk]], who traces the pedigrees still later to himself.
 
 Ari also wrote a _Book of Icelanders_ (_Islendingabók_, c. 1127), which
 has perished as a whole, but fragments of it are embedded in many sagas
@@ -1403,7 +1403,7 @@ churchman, whose learning so impressed his age that he got the
 reputation of a magician. He was the friend of Bishop John, the founder
 of the great Odd-Verjar family, and the author of a _Book of Kings_ from
 Harald Fairhair to Magnus the Good, in which he seems to have fixed the
-exact chronology of each reign. It is most probable that he wrote in
+exact [[Chronology|chronology]] of each reign. It is most probable that he wrote in
 Latin. The idea that he had anything to do with the poetic _Edda_ in
 general, or the _Sun's Song_ in particular, is unfounded.
 
@@ -1412,7 +1412,7 @@ century. Eirik Oddsson (c. 1150) wrote the lives of Sigurd Evil-deacon
 and the sons of Harold Gille, in his _Hryggiar-Stykki_ (Sheldrake), of
 which parts remain in the MSS. collections of _Kings' Lives_,
 _Morkin-skinna_, &c. Karl Jonsson, abbot of Thingore, the Benedictine
-minister, wrote (c. 1184) _Sverrissaga_ from the lips of that great
+minister, wrote (c. 1184) _Sverrissaga_ from the [[Lip|lips]] of that great
 king, a fine racy biography, with a style and spirit of its own.
 _Böglunga-Sögur_ tell the story of the civil wars which followed
 Sverri's death. They are probably by a contemporary.
@@ -1436,7 +1436,7 @@ written since Ari's death; but the style and treatment of them are
 Snorri's own. The fine Thucydidean speeches, the dramatic power of
 grasping character, and the pathos and poetry that run through the
 stories, along with a humour such as is shown in the _Edda_, and a
-varied grace of style that never flags or palls, make Snorri one of the
+varied grace of style that never [[Flag|flags]] or palls, make Snorri one of the
 greatest of historians.
 
 Here it should be noticed that _Heimskringla_ and its class of MSS.
@@ -1455,7 +1455,7 @@ but sources now lost, it is of worth. Its real title is _Konunga-tal_.
 
 _Noregs Konunga-tal_, now called _Fagrskinna_, is a Norse compendium of
 the _Kings' Lives_ from Halfdan the Black to Sverri's accession,
-probably written for King Haakon, to whom it was read on his death-bed.
+probably written for King [[Haakon]], to whom it was read on his death-bed.
 It is an original work, and contains much not found elsewhere. As
 non-Icelandic it is only noticed here for completeness.
 
@@ -1500,7 +1500,7 @@ Bishop Adam_. A scholastic sketch of the rise of the Scandinavian
 empire, the _Foundation of Norway_, dating c. 1120, is prefixed to the
 whole.
 
-_Færeyinga_ tells the tale of the conversion of the Færeys or Faroes,
+_Færeyinga_ tells the tale of the [[Conversion|conversion]] of the Færeys or Faroes,
 and the lives of its chiefs Sigmund and Leif, composed in the 13th
 century from their separate sagas by an Icelander of the Sturlung
 school.
@@ -1556,11 +1556,11 @@ contemporary history; it deals with the life of his own nephew,
 especially his career in Iceland from 1252 to 1258. The second part of
 _Islendinga_ (1242-1262), which relates to the second part of the civil
 war, telling of the careers of Thord Kakali, Kolbein the Young, Earl
-Gizur and Hrafn Oddsson. The end is imperfect, there being a blank of
+Gizur and Hrafn Oddsson. The end is imperfect, there being a [[Blank|blank]] of
 some years before the fragmentary ending to which an editor has affixed
 a notice of the author's death. The first part of _Islendinga_
 (1202-1242) tells of the beginning and first part of the civil wars, the
-lives of Snorri and Sighvat, Sturla's uncles, of his cousin and namesake
+lives of Snorri and Sighvat, Sturla's uncles, of his [[Cousin|cousin]] and namesake
 Sturla Sighvatsson, of Bishop Gudmund, and Thorwald Gizursson,--the fall
 of the Sturlungs, and with them the last hopes of the great houses to
 maintain the commonwealth, being the climax of the story.
@@ -1581,7 +1581,7 @@ Lincoln, which he left in 1161. These lives cover the years 1056-1193.
 The life of St John, a great reformer, a contemporary of Thorodd, whom
 he employed to build a church for him, is by another author (1052-1121).
 The life of Gudmund (_Gudmundar Saga Goda_), as priest, recounts the
-early life of this Icelandic Becket till his election as bishop
+early life of this Icelandic [[Becket]] till his election as bishop
 (1160-1202); his after career must be sought out in _Islendinga_. It is
 written by a friend and contemporary. A later life by Arngrim, abbot of
 Thingore, written c. 1350, as evidence of his subject's sanctity, tells
@@ -1591,7 +1591,7 @@ century. The former work, _Arna Saga Biskups_, is imperfect; it is the
 record of the struggles of church and state over patronage rights and
 glebes, written c. 1315; it now covers only the years 1269-1291; a great
 many documents are given in it, after the modern fashion. The latter,
-_Laurentius Saga Biskups_, by his disciple, priest Einar Haflidason, is
+_[[Laurentius]] Saga Biskups_, by his [[Disciple|disciple]], priest Einar Haflidason, is
 a charming biography of a good and pious man, whose chequered career in
 Norway and Iceland is picturesquely told (1324-1331). It is the last of
 the sagas. _Bishop Jon's Table-Talk_ (1325-1339) is also worth noticing;
@@ -1611,7 +1611,7 @@ of the island's history.
 _Literature of Foreign Origin._--After the union with Norway and change
 of law genuine tradition died out with the great houses. The ordinary
 medieval literature reached Iceland through Norway, and every one began
-to put it into a vernacular dress, so neglecting their own classics that
+to put it into a vernacular [[Dress|dress]], so neglecting their own classics that
 but for a few collectors like Lawman Hauk they would have perished
 entirely.
 
@@ -1653,12 +1653,12 @@ _Saints_ fill many MSS. (edited in four large volumes by Professor
 Unger), and are the works of many authors, chiefly of the 13th and 14th
 centuries; amongst them are the lives of _SS. Edward the Confessor_,
 _Oswald of Northumbria_, _Dunstan_ and _Thomas of Canterbury_. Of the
-authors we know Priest Berg Gunsteinsson (d. 1211); Kygri-Biorn,
-bishop-elect (d. 1237); Bishop Brand (d. 1264); Abbot Runolf (d. 1307);
+authors we know Priest [[Berg]] Gunsteinsson (d. 1211); Kygri-Biorn,
+bishop-elect (d. 1237); Bishop [[Brand]] (d. 1264); Abbot Runolf (d. 1307);
 Bishop Lawrence's son Arni (c. 1330); Abbot Berg (c. 1340), &c. A
 paraphrase of the historical books of the Bible was made by Bishop Brand
 (d. 1264), called _Gydinga Sögur_. About 1310 King Haakon V. ordered a
-commentary on the Bible to be made, which was completed down to Exodus
+commentary on the Bible to be made, which was completed down to [[Exodus]]
 xix. To this Brand's work was afterwards affixed, and the whole is known
 as _Stiorn_. The Norse version of the famous _Barlaam and Josaphat_,
 made for Prince Haakon (c. 1240), must not be forgotten.
@@ -1666,14 +1666,14 @@ made for Prince Haakon (c. 1240), must not be forgotten.
 _Post-classical Literature._--The post-classical literature falls
 chiefly under three heads--religious, literary and scientific. Under the
 first comes foremost the noble translation of the New Testament by Odd
-Gottskalksson, son of the bishop of Hólar. Brought up in Norway, he
+Gottskalksson, son of the bishop of Hó[[Lar|lar]]. Brought up in Norway, he
 travelled in Denmark and Germany, and took upon him the new faith before
 he returned to Iceland, where he became secretary to Bishop Ogmund of
-Skalholt. Here he began by translating the Gospel of Matthew into his
+Skalholt. Here he began by translating the Gospel of [[Matthew]] into his
 mother-tongue in secret. Having finished the remainder of the New
 Testament at his own house at Olves, he took it to Denmark, where it was
 printed at Roskild in 1540. Odd afterwards translated the Psalms, and
-several devotional works of the day, Corvinus's _Epistles_, &c. He was
+several devotional works of the day, Corvinus's _[[Epistle|Epistles]]_, &c. He was
 made lawman of the north and west, and died from a fall in the Laxa in
 Kios, June 1556. Three years after his death the first press was set up
 in Iceland by John Matthewson, at Breidabolstad, in Hunafloe, and a
@@ -1711,7 +1711,7 @@ lastly, that of Sir Richard Burton, an excellent account of the land and
 people, crammed with information of every kind (1875), are the best.
 
 Iceland is emphatically a land of proverbs, while of folk-tales, those
-other keys to the people's heart, there is plentiful store. Early work
+other [[Key|keys]] to the people's heart, there is plentiful store. Early work
 in this direction was done by Jon Gudmundsson, Olaf the Old and John
 Olafsson in the 17th century, who all put traditions on paper, and their
 labours were completed by the magnificent collection of Jon Arnason
@@ -1725,7 +1725,7 @@ The Renaissance of Iceland dates from the beginning of the 17th century,
 when a school of antiquaries arose. Arngrim Jonsson's _Brevis
 Commentarius_ (1593), and _Crymogaea_ (1609), were the first-fruits of
 this movement, of which Bishops Odd, Thorlak and Bryniulf (worthy
-parallels to Parker and Laud) were the wise and earnest supporters. The
+parallels to Parker and [[Laud]]) were the wise and [[Earnest|earnest]] supporters. The
 first (d. 1630) collected much material for church history. The second
 (d. 1656) saved _Sturlunga_ and the _Bishops' Lives_, encouraged John
 Egilsson to write his _New Hungerwaker_, lives of the bishops of the
@@ -1773,7 +1773,7 @@ date, 1821.
   Möbius and K. von Maurer, to name only a few), can only be referred to
   here. See also Finnur Jónsson, _Den Oldnorske og Oldislanske
   Litteraturs Historie_ (Copenhagen, 1893-1900); R. B. Anderson's
-  translation (Chicago, 1884) of Winkel Horn's _History of the
+  translation ([[Chicago]], 1884) of Winkel Horn's _History of the
   Literature of the Scandinavian North_; and W. Morris and E.
   Magnusson's _Saga Library_.     (F. Y. P.)
 
@@ -1789,7 +1789,7 @@ seemed to be in sight. The most successful poet of this school is
 Steingrímr Thorsteinsson (b. 1830). He is specially famous for his
 splendid descriptions of scenery (_The Song of Gilsbakki_), his
 love-songs and his sarcastic epigrams. As a translator he has enriched
-the literature with _The Arabian Nights_, _Sakuntala_, _King Lear_ and
+the literature with _The Arabian Nights_, _Sakuntala_, _King [[Lear]]_ and
 several other masterpieces of foreign literature. Equal in fame is
 Matthías Jochumsson (b. 1835), who, following another of Jónas
 Hallgrímsson's many ways, has successfully revived the old metres of the
@@ -1798,7 +1798,7 @@ sometimes too gorgeous, language. He is as an artist inferior to
 Steingrímr Thorsteinsson, but surpasses him in bold flight of
 imagination. He has successfully treated subjects from Icelandic history
 _Grettisljóð_, a series of poems about the famous outlaw Grettir. His
-chief fault is a certain carelessness in writing; he can never write a
+chief [[Fault|fault]] is a certain carelessness in writing; he can never write a
 bad poem, but rarely a poem absolutely flawless. He has translated
 Tegnér's _Frithiofs Saga_, several plays of Shakespeare and some other
 foreign masterpieces. The great religious poet of Iceland, Hallgrímr
@@ -1808,7 +1808,7 @@ Jochumsson in the copious flow of his rhetoric; some of his poems are
 perfect both as regards form and contents, but he sometimes neglects the
 latter while polishing the former. An interesting position is occupied
 by Benedict Gröndal (b. 1826), whose travesties of the old romantic
-stories,[7] and his Aristophanic drama _Gandreiðin_ ("The Magic Ride")
+stories,[7] and his Aristophanic [[Drama|drama]] _Gandreiðin_ ("The Magic Ride")
 about contemporary events, are among the best satirical and humorous
 productions of Icelandic literature.
 
@@ -1833,7 +1833,7 @@ mentioned _The Oath_, a series of most beautiful ballads, with a
 tragical love-story of the 17th century as their base, but with many and
 happy satirical allusions to modern life; _Jörundr_, a long poem about
 the convict king, the Danish pirate Jörgensen, who nearly succeeded in
-making himself the master of Iceland, and _The Fate of the Gods_ and
+making himself the master of Iceland, and _The [[Fate]] of the Gods_ and
 _The Men of the West_ (the Americans), two poems which, with their
 anti-clerical and half-socialistic tendencies, have caused strong
 protests from orthodox Lutheran clergy. Near to this school, but still
@@ -1843,7 +1843,7 @@ In the beginning of the 'eighties a new school arose--having its origin
 in the colony of Icelandic students at the University of Copenhagen.
 They had all attended the lectures of Georg Brandes, the great reformer
 of Scandinavian literature, and, influenced by his literary theories,
-they chose their models in the realistic school. This school is very
+they [[Chose|chose]] their models in the realistic school. This school is very
 dissimilar from the half-romantic school of Jónas Hallgrímsson; it is
 nearer the national Icelandic school represented by Páll Olafsson and
 Þorsteinn Erlingsson, but differs from those writers by introducing
@@ -1913,7 +1913,7 @@ political review, _Eimreiðin_ ("The Locomotive").
   See J. C. Poestion, _Islandische Dichter der Neuzeit_ (Leipzig, 1897);
   C. Küchler, _Geschichte der isländischen Dichtung der Neuzeit_
   (Leipzig, 1896); Ph. Schweitzer, _Island; Land und Leute_ (Leipzig,
-  1885); Alexander Baumgartner, _Island und die Faroer_ (Freiburg im
+  1885); Alexander Baumgartner, _Island und die Faroer_ ([[Freiburg]] im
   Breisgau, 1889).     (S. Bl.)
 
 
@@ -1933,7 +1933,7 @@ FOOTNOTES:
     _History_ of Finn Jonsson are the best authority.
 
   [6] Many of these poems were Englished in prose by the translator of
-    Mallet, by B. Thorpe in his _Sæmund's Edda_, and two or three by
+    [[Mallet]], by B. Thorpe in his _Sæmund's Edda_, and two or three by
     Messrs Morris and Magnussen, as appendices to their translation of
     _Volsunga Saga_. Earlier translations in verse are those in Dryden's
     _Miscellany_ (vol. vi), A. Cottle's _Edda_, Mathias's _Translations_,

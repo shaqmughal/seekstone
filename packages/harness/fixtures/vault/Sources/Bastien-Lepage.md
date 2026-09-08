@@ -22,7 +22,7 @@ sent a full-length "Portrait of Lady L." and "My Parents"; and in 1878 a
 the Luxembourg, is regarded as a typical work from its stamp of
 realistic truth. Thenceforth Bastien-Lepage was recognized in France as
 the leader of a school, and his "Portrait of Mme Sarah Bernhardt"
-(1879), painted in a light key, won him the cross of the Legion of
+(1879), painted in a light [[Key|key]], won him the cross of the [[Legion]] of
 Honour. In 1880 he exhibited a small portrait of M. Andrieux and "Joan
 of Arc listening to the Voices"; and in the same year, at the Royal
 Academy, the little portrait of the "Prince of Wales." In 1881 he

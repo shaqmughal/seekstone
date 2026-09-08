@@ -8,7 +8,7 @@ The reed of the cromorne, like that of the bassoon, is formed by a
 double tongue of cane adapted to the small end of a conical brass tube
 or crook, the large end fitting into the main bore of the instrument. It
 presents, however, this difference, that it is not, like that of the
-bassoon, in contact with the player's lips, but is covered by a cap
+bassoon, in contact with the player's [[Lip|lips]], but is covered by a cap
 pierced in the upper part with a raised slit against which the
 performer's lips rest, the air being forced through the opening into the
 cap and setting the reed in vibration. The reed itself is therefore not
@@ -24,12 +24,12 @@ for conical tubes provided with reeds, to produce notes of the same
 pitch. Moreover, when, to obtain an harmonic, the column of air is
 divided, the cromorne will not give the octave, like the oboe and
 bassoon, but the twelfth, corresponding in this peculiarity with the
-clarinet and all stopped pipes or bourdons. In order, however, to obtain
+clarinet and all stopped pipes or [[Bourdon|bourdons]]. In order, however, to obtain
 an harmonic on the cromorne, the cap would have to be discarded, for a
 reed only overblows to give the harmonic overtones when pressed by the
 lips. With the ordinary boring of eight lateral holes the cromorne
 possesses a limited compass of a ninth. Sometimes, however, deeper
-sounds are obtained by the addition of one or more keys. By its
+sounds are obtained by the addition of one or more [[Key|keys]]. By its
 construction the cromorne is one of the oldest wind instruments; it is
 evidently derived from the Gr. aulos[2] and the Roman tibia, which
 likewise consisted of a simple cylindrical pipe of which the air column
@@ -70,7 +70,7 @@ sono_; Virgil, _Aen._ xi. 737 _curva choros indixit tibia Bacchi_).[3]
   17th century, and are to be found in illustrations of pageants, as for
   instance in the magnificent collection of woodcuts designed by Hans
   Burgmair, a pupil of Albrecht Durer, representing the triumph of the
-  emperor Maximilian,[8] where a bass and a tenor Krumbhorn player
+  emperor [[Maximilian]],[8] where a bass and a tenor Krumbhorn player
   figure in the procession among countless other musicians. In the
   inventory of the wardrobe, &c., belonging to Henry VIII. at
   Westminster, made during the reign of Edward VI., we find eighteen
@@ -88,7 +88,7 @@ sono_; Virgil, _Aen._ xi. 737 _curva choros indixit tibia Bacchi_).[3]
   enrolled among the musicians of the Grande Ecurie du Roi;[9] they
   received a yearly salary of 120 livres, which various supplementary
   allowances brought up to about 330 livres. In 1729 one of the cromorne
-  players sold his appointment for 4000 francs. This was a sign of the
+  players sold his appointment for 4000 [[Franc|francs]]. This was a sign of the
   failing popularity of the instrument. The duties of the cromorne and
   tromba-marina players consisted in playing in the great
   _divertissements_ and at court functions and festivals in honour of
@@ -96,7 +96,7 @@ sono_; Virgil, _Aen._ xi. 737 _curva choros indixit tibia Bacchi_).[3]
 
   Cromornes have become of extreme rarity and are not to be found in all
   collections. The Paris Conservatoire possesses one large bass cromorne
-  of the 16th century, the Kgl. Hochschule fur Musik,[10] Berlin, a set
+  of the 16th century, the Kgl. Hochschule [[Fur|fur]] Musik,[10] Berlin, a set
   of seven, and the Ambroser Sammlung, Vienna, a cromorne in
   E[flat].[11] The museum of the Conservatoire Royal de Musique at
   Brussels has the good fortune to possess a complete family which is
@@ -116,7 +116,7 @@ sono_; Virgil, _Aen._ xi. 737 _curva choros indixit tibia Bacchi_).[3]
   attend to them during the performance. E. van der Straeten[12]
   mentions a key belonging to a large cromorne bearing the date 1537, of
   which he gives a large drawing. A cromorne appears in a musical scene
-  with a trumpet in Hermann Finck's _Practica Musica_.[13]
+  with a trumpet in [[Hermann]] Finck's _Practica Musica_.[13]
 
   The "Platerspil," of which Virdung gives a drawing, is only a kind of
   cromorne. It is characterized by having, instead of a cap to cover the
@@ -143,12 +143,12 @@ FOOTNOTES:
 
   [1] Crumhorne need not be regarded as a corruption of the German,
     since the two words of which it is composed were both in use in
-    medieval England. _Crumb_ = curved; _crumbe_ = hook, bend; _crome_ =
+    medieval England. _Crumb_ = curved; _crumbe_ = hook, [[Bend|bend]]; _crome_ =
     a staff with a hook at the end of it. See Stratmann's _Middle English
     Dictionary_ (1891), and Halliwell, _Dictionary of Archaic and
     Provincial Words_ (London, 1881).
 
-  [2] See A. Howard, "Aulos or Tibia," _Harvard Studies_, iv. (Boston,
+  [2] See A. [[Howard]], "Aulos or Tibia," _Harvard Studies_, iv. ([[Boston]],
     1893).
 
   [3] See also A. A. Howard, op. cit., "Phrygian Aulos," pp. 35-38.

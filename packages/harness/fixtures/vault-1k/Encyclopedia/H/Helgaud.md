@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Helgaud"
 
 HELGAUD, or HELGALDUS (d. c. 1048), French chronicler, was a monk of the
 Benedictine abbey of Fleury. Little else is known about him save that he
-was chaplain to the French king, Robert II. the Pious, whose life he
+was [[Chaplain|chaplain]] to the French king, Robert II. the Pious, whose life he
 wrote. This _Epitoma vitae Roberti regis_, which is probably part of a
 history of the abbey of Fleury, deals rather with the private than with
 the public life of the king, and its value is not great either from the

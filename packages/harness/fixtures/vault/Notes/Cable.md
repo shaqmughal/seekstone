@@ -10,7 +10,7 @@ type: reference
 CABLE (from Late Lat. _capulum_, a halter, from _capere_, to take hold of),
 a large rope or chain, used generally with ships, but often employed for
 other purposes; the term "cable" is also used by analogy in minor varieties
-of similar engineering or other attachments, and in the case of "electric
+of similar [[Engineering|engineering]] or other [[Attachment|attachments]], and in the case of "electric
 cables" for the submarine wires (see TELEGRAPH) by which telegraphic
 messages are transmitted.[1]
 
@@ -19,19 +19,19 @@ The cable by which a ship rides at her anchor is now made of iron; prior to
 first-rate's complement on the East Indian station being eleven; the
 largest was 25 in. (equal to 21/4 in. iron cable) and weighed 6 tons. In
 1811, iron cables were supplied to stationary ships; their superiority over
-hempen ones was manifest, as they were less liable to foul or to be cut by
+hempen ones was [[Manifest|manifest]], as they were less liable to foul or to be cut by
 rocks, or to be injured by enemy's shot. Iron cables are also handier and
 cleaner, an offensive odour being exhaled from dirty hempen cables, when
 unbent and stowed inboard. The first patent for iron cables was by Phillip
 White in 1634; twisted links were suggested in 1813 by Captain Brown (who
-afterwards, in conjunction with Brown, Lenox & Co., planned the Brighton
+afterwards, in conjunction with Brown, [[Lenox]] & Co., planned the Brighton
 chain pier in 1823); and studs were introduced in 1816. Hempen cables are
-not now supplied to ships, having been superseded by steel wire hawsers.
-The length of a hempen cable is 101 fathoms, and a cable's length, as a
+not now supplied to ships, having been superseded by steel wire [[Hawser|hawsers]].
+The length of a hempen cable is 101 [[Fathom|fathoms]], and a cable's length, as a
 standard of measurement, usually placed on charts, is assumed to be 100
 fathoms or 600 ft. The sizes, number and lengths of cables supplied to
 ships of the British navy are given in the official publication, the
-_Ship's Establishment_; cables for merchant ships are regulated by Lloyds,
+_Ship's Establishment_; cables for merchant ships are regulated by [[Lloyd|Lloyds]],
 and are tested according to the Anchors and Chain Cables Act 1899.
 
 In manufacturing chain cables, the bars are cut to the required length of
@@ -90,7 +90,7 @@ which prevents a "foul hawse", _i.e._ the cables being entwined round each
 other. When mooring, unmooring, and as may be necessary, cables are
 temporarily secured by "slips" shackled to eye or ring bolts in the deck
 (see ANCHOR). The cable is hove up by either a capstan or windlass (see
-CAPSTAN) actuated by steam, electricity or manual power. Ships in the
+CAPSTAN) actuated by steam, electricity or [[Manual|manual]] power. Ships in the
 British navy usually ride by the compressor, the cable holder being used
 for checking the cable running out. When a ship has been given the
 necessary cable, the cable holder is eased up and the compressor "bowsed
@@ -99,21 +99,21 @@ to"; in a heavy sea, a turn, or if necessary two turns, are taken round the
 ("deck") pipes. A single turn of cable is often taken round the bitts when
 anchoring in deep water. Small vessels of the mercantile marine ride by
 turns around the windlass; in larger or more modern vessels fitted with a
-steam windlass, the friction brakes take the strain, aided when required by
+steam windlass, the [[Friction|friction]] brakes take the strain, aided when required by
 the bitts, compressor or controller in bad weather.
 
 (J. W. D.)
 
 [1] The word "cable" is a various reading for "camel" in the Biblical
 phrase, "it is easier for a camel to go through the eye of a needle" of
-Matt. xix. 24, Mark x. 25, and Luke xviii. 25, mentioned as early as Cyril
-of Alexandria (5th cent.); and it was adopted by Sir John Cheke and other
+Matt. xix. 24, Mark x. 25, and [[Luke]] xviii. 25, mentioned as early as [[Cyril]]
+of Alexandria (5th cent.); and it was adopted by Sir John [[Cheke]] and other
 16th century and later English writers. The reading [Greek: kamilos] for
-[Greek: kamelos] is found in several late cursive MSS. Cheyne, in the
+[Greek: kamelos] is found in several late cursive MSS. [[Cheyne]], in the
 _Ency. Biblica_, ascribes it to a non-Semitic scribe, and regards [Greek:
 kamelos] as correct. (See under CAMEL.)
 
-[2] The dimensions marked in the figure are those for 1-in. chains, and
+[2] The [[Dimension|dimensions]] marked in the figure are those for 1-in. chains, and
 signify so many diameters of the iron of the common links; thus forming a
 scale for all sizes.
 

@@ -116,24 +116,24 @@ mandate from the archbishop of Canterbury, directing him to induct the
 bishop into the real, actual, and corporal possession of the bishopric,
 and to install and to enthrone him; and in the case of the archbishop,
 under an analogous mandate from the dean and chapter of Canterbury, as
-being guardians of the spiritualities during the vacancy of the
+being [[Guardian|guardians]] of the spiritualities during the vacancy of the
 archiepiscopal see. In the colonies there are two or more archdeacons in
 each diocese, and their functions correspond to those of English
 archdeacons. In the Episcopal church of America the office of archdeacon
 exists in only one or two dioceses.
 
-  See Hinschius, _Kirchenrecht_, ii., SS 86. 87; Schroder, _Die
+  See [[Hinschius]], _Kirchenrecht_, ii., SS 86. 87; Schroder, _Die
   Entwicklung des Archdiakonats bis zum 11. Jahrhundert_ (Munich, 1890);
   Wetzer and Welte, _Kirchenlexikon_ (Freiburg-im-Breisgau, 1882-1901);
   Herzog-Hauck, _Realencyklopadie_ (ed. 1896); Phillimore,
-  _Ecclesiastical Law_, part ii. chap. v. (London, 1895).     (W. A. P.)
+  _[[Ecclesiastical Law]]_, part ii. chap. v. (London, 1895).     (W. A. P.)
 
 
 FOOTNOTE:
 
   [1] Archdeaconries were, indeed, sometimes treated as ordinary fiefs
     and were held as such by laymen. Thus Ordericus Vitalis says that
-    "(Fulk) granted to the monks the archdeaconry which he and his
+    "([[Fulk]]) granted to the monks the archdeaconry which he and his
     predecessors held in fee of the archbishop of Rouen" (_Hist. Eccl._
     iii. 12).
 

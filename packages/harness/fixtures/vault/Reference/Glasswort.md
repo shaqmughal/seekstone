@@ -7,7 +7,7 @@ topic: geography
 # Glasswort
 
 GLASSWORT, a name given to _Salicornia herbacea_ (also known as marsh
-samphire), a salt-marsh herb with succulent, jointed, leafless stems, in
+samphire), a salt-marsh [[Herb|herb]] with succulent, jointed, leafless stems, in
 reference to its former use in glass-making, when it was burnt for
 barilla. _Salsola Kali_, an allied plant with rigid, fleshy,
 spinous-pointed leaves, which was used for the same purpose, was known

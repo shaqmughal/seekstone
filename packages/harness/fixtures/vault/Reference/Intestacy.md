@@ -25,7 +25,7 @@ fact the administrator until the passing of an act of Edward III. for
 administration upon intestacy (1357). An earlier statute (Westminster 2,
 1275), directed against the abuses of the system, required the ordinary,
 instead of applying the residue of the estate to "pious uses," to pay
-the debts of the intestate. The act of Edward III. went further in
+the [[Debt|debts]] of the intestate. The act of Edward III. went further in
 providing that "in case where a man dieth intestate, the ordinaries
 shall depute of the next and most lawful friends of the dead person
 intestate to administer his goods," with power to sue for debts due to
@@ -39,7 +39,7 @@ The courts of law having held that by the grant of administration the
 authority of the ecclesiastical courts was exhausted, the administrator
 became entitled to the privilege, similar to that formerly enjoyed by
 the ordinary, of dealing as he pleased with residue of the property. The
-next of kin of the same degree of relationship to the deceased were thus
+next of [[Kin|kin]] of the same degree of relationship to the deceased were thus
 aggrieved by the preference of the administrator, and it was to remedy
 this grievance that the Statute of Distributions 1670/1 was passed. It
 empowered the ordinary to take a bond from the administrator binding him
@@ -60,7 +60,7 @@ moiety of the property is to be allotted to the wife of the intestate,
 the residue "to be distributed equally to any of the next of kindred of
 the intestate who are equal in degree and those who legally represent
 them." By S 7 there shall "be no representation admitted among
-collaterals after brothers' and sisters' children; and in case there be
+[[Collateral|collaterals]] after brothers' and sisters' children; and in case there be
 no wife, then all the said estate to be distributed equally to and among
 the children; and in case there be no child, then to the next of kindred
 in equal degree of or unto the intestate and their legal representatives
@@ -71,7 +71,7 @@ after distribution, the persons sharing the estate shall refund the
 amount of the same ratably. With reference to the above rules the
 following points may be observed: (1) The husband's absolute right to
 administer his wife's estate is not affected by the act. This was made
-clear by a later act of the same reign. (The Statute of Frauds 1677).
+clear by a later act of the same reign. (The Statute of [[Fraud|Frauds]] 1677).
 Administration is now granted to the representatives of the husband
 where he has died without taking out administration to his wife, unless
 it can be shown that the wife's next of kin are beneficially interested.
@@ -97,7 +97,7 @@ other moiety be given undivided to B's child? It is now settled that the
 latter method of distribution is the correct one, and it is thought that
 this will also apply when only great-grandchildren are alive. (4) The
 next of kin must be ascertained according to the rules of consanguinity,
-which are the same in English as in the civil law. Degree is calculated
+which are the same in English as in the [[Civil Law|civil law]]. Degree is calculated
 from the intestate, through the common ancestor if any, to the kindred.
 Thus from son to father is one degree, to grandfather two degrees, to
 brother two degrees, to uncle three degrees, and so on. The statute
@@ -106,7 +106,7 @@ _pro suo cuique jure_, according to the laws in such cases and the rules
 and limitations hereafter set down." Equality in degree is therefore not
 in all cases accompanied by equality in rights of succession. Neglecting
 the cases of wife and children already noticed, the father excludes all
-other next of kin. So would a mother, in default of a father surviving,
+other next of kin. So would a mother, in [[Default|default]] of a father surviving,
 but an act of 1685 enacted that in such a case the brothers and sisters,
 and children of brothers and sisters, of the intestate should share
 equally with the mother. In the absence of brothers or sisters and their
@@ -145,7 +145,7 @@ the Scots rules of succession.
   In the law of Scotland the free movable estate of the intestate is
   divided amongst the nearest of kin, the full blood excluding the half
   blood, and neither mother nor maternal relations being originally
-  admitted. The heir of the heritable (i.e. real) property if one of the
+  admitted. The [[Heir|heir]] of the heritable (i.e. real) property if one of the
   next of kin must collate with the next of kin if he wishes to share in
   the movables. Proximity of kin is reckoned in the same order as in the
   case of inheritance. The Intestate Movable Succession Act 1855 among
@@ -163,7 +163,7 @@ intestacy, and its principles have been applied to real property also.
 "In a majority of the states the descent of real and personal property
 is to the same persons and in the same proportions, and the regulation
 is the same in substance as the English Statute of Distribution. In
-Georgia the real and personal property of the intestate is considered as
+[[Georgia]] the real and personal property of the intestate is considered as
 altogether of the same nature and upon the same footing." There are many
 states, however, in which the distribution differs materially from the
 English statute. In Illinois the distribution is the same as descent of

@@ -18,9 +18,9 @@ authentic. It seems that he carried on the democratic tradition of his
 house by helping to overthrow an oligarchic government which succeeded
 the tyranny in Agrigentum, and was invited by the citizens to become
 their king. That he refused the honour may have been due to a real
-enthusiasm for free institutions or to the prudential recognition of the
+[[Enthusiasm|enthusiasm]] for free institutions or to the prudential recognition of the
 peril which in those turbulent times surrounded the royal dignity.
-Ultimately a change in the balance of parties compelled him to leave the
+Ultimately a change in the [[Balance|balance]] of parties compelled him to leave the
 city, and he died in the Peloponnese of the results of an accident in
 430.
 
@@ -29,15 +29,15 @@ in unequal fragments out of the original 5000; of the hymns of
 purification ([Greek: katharmoi]) less than 100 verses remain; of the
 other works, improbably assigned to him, nothing is known. His grand
 but obscure hexameters, after the example of Parmenides, delighted
-Lucretius. Aristotle, it is said, called him the father of rhetoric. But
+[[Lucretius]]. Aristotle, it is said, called him the father of rhetoric. But
 it was as at once statesman, prophet, physicist, physician and reformer
-that he most impressed the popular imagination. To his contemporaries,
+that he most impressed the popular [[Imagination|imagination]]. To his contemporaries,
 as to himself, he seemed more than a mere man. The Sicilians honoured
 his august aspect as he moved amongst them with purple robes and golden
 girdle, with long hair bound by a Delphic garland, and brazen sandals on
 his feet, and with a retinue of slaves behind him. Stories were told of
 the ingenuity and generosity by which he had made the marshes round
-Selinus salubrious, of the grotesque device by which he laid the winds
+Selinus salubrious, of the [[Grotesque|grotesque]] device by which he laid the winds
 that ruined the harvests of Agrigentum, and of the almost miraculous
 restoration to life of a woman who had long lain in a death-like trance.
 Legends stranger still told of his disappearance from among men.
@@ -48,7 +48,7 @@ that men, finding no traces of his end, would suppose him translated to
 heaven. But his hopes were cheated by the volcano, which cast forth his
 brazen sandals and betrayed his secret (Diog. Laërt. viii. 67). The
 people of Agrigentum have never ceased to honour his name, and even in
-modern times he has been celebrated by followers of Mazzini as the
+modern times he has been celebrated by followers of [[Mazzini]] as the
 democrat of antiquity _par excellence_.
 
 As his history is uncertain, so his doctrines are hard to put together.
@@ -67,7 +67,7 @@ According to the different proportions in which these four
 indestructible and unchangeable matters are combined with each other is
 the difference of the organic structure produced; e.g. flesh and blood
 are made of equal (in weight but not in volume) parts of all four
-elements, whereas bones are one-half fire, one-fourth earth, and
+elements, whereas [[Bone|bones]] are one-half fire, one-fourth earth, and
 one-fourth water. It is in the aggregation and segregation of elements
 thus arising that Empedocles, like the atomists, finds the real process
 which corresponds to what is popularly termed growth, increase or
@@ -150,14 +150,14 @@ parts of the universe.
   Simplicius, _Phys._ f. 24, f. 76. For text Simon Karsten, "Empedoclis
   Agrigenti carminum reliquiae," in _Reliq. phil. vet._ (Amsterdam,
   1838); F.W.A. Mullach, _Fragmenta philosophorum Graecorum_, vol. i.;
-  H. Stein, _Empedoclis Agrigenti fragmenta_ (Bonn, 1882); H. Ritter and
-  L. Preller, _Historia philosophiae_ (4th ed., Gotha, 1869), chap. iii.
+  H. Stein, _Empedoclis Agrigenti fragmenta_ ([[Bonn]], 1882); H. Ritter and
+  L. Preller, _Historia philosophiae_ (4th ed., [[Gotha]], 1869), chap. iii.
   ad fin.; A. Fairbanks, _The First Philosophers of Greece_ (1898).
   Verse translation, W.E. Leonard (1908). For criticism E. Zeller,
   _Phil. der Griechen_ (Eng. trans. S.F. Alleyne, 2 vols., London,
   1881); A.W. Benn, _Greek Philosophers_ (1882); J.A. Symonds, _Studies
   of the Greek Poets_ (3rd ed., 1893), vol. i. chap. 7; C.B. Renouvier,
-  _Manuel de philosophie ancienne_ (Paris, 1844); T. Gomperz, _Greek
+  _[[Manuel]] de philosophie ancienne_ (Paris, 1844); T. Gomperz, _Greek
   Thinkers_, vol. i. (Eng. trans. L. Magnus, 1901); W. Windelband,
   _Hist. of Phil._ (Eng. trans. 1895); many articles in periodicals (see
   Baldwin's _Dict. of Philos._ vol. iii. p. 190).     (W. W.; X.)

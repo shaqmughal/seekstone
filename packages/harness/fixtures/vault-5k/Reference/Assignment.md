@@ -18,7 +18,7 @@ person making over is called the _assignor_ or _cedent_; the recipient,
 the _assign_ or _assignee_. An assignee may be such either _by deed_, as
 when a lessee assigns his lease to another, or _in law_, as when
 property devolves upon an executor. The law as to assignment in
-connexion with each particular subject, as the assignment of a chose in
+connexion with each particular subject, as the assignment of a [[Chose|chose]] in
 action, assignment in contract, of dower, of errors, of a lease, &c.,
 will be found under the respective headings. In a colloquial sense,
 "assignation" means a secretly contrived meeting between lovers.

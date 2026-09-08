@@ -7,11 +7,11 @@ topic: history
 # Celsius
 
 CELSIUS, ANDERS (1701-1744), Swedish astronomer, was born at Upsala on
-the 27th of November 1701. He occupied the chair of astronomy in the
+the 27th of November 1701. He occupied the chair of [[Astronomy|astronomy]] in the
 university of his native town from 1730 to 1744, but travelled during
 1732 and some subsequent years in Germany, Italy and France. At
 Nuremberg he published in 1733 a collection of 316 observations of the
-aurora borealis made by himself and others 1716-1732. In Paris he
+[[Aurora|aurora]] borealis made by himself and others 1716-1732. In Paris he
 advocated the measurement of an arc of the meridian in Lapland, and took
 part, in 1736, in the expedition organized for the purpose by the French
 Academy. Six years later he described the centigrade thermometer in a

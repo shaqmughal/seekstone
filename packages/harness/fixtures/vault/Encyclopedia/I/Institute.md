@@ -15,7 +15,7 @@ particular sense, applied to periodic classes giving instruction in the
 principles of education to the teachers of elementary and district
 schools. The term "institute" is often used to translate the Lat.
 _institutio_, in the sense of a treatise on the elements of any subject,
-and particularly of law or jurisprudence; thus the compilation of the
+and particularly of law or [[Jurisprudence|jurisprudence]]; thus the compilation of the
 principles of Roman law, made by order of the emperor Justinian, is
 known as _Justinian's Institutes_, and hence Coke's treatise on English
 law, of which the first part is better known as _Coke upon Littleton_,

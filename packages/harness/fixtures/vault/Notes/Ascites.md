@@ -11,14 +11,14 @@ ASCITES, ([Greek: askitaes] dropsical, from [Greek: askosaskos] _sc_.
 [Greek: nosos] disease), the term in medicine applied to an effusion of
 non-inflammatory fluid within the peritoneum. It is not a disease in
 itself, but is one of the manifestations of disease elsewhere--usually
-in the kidneys, heart, or in connexion with the liver (portal
+in the kidneys, heart, or in connexion with the [[Liver|liver]] (portal
 obstruction). Portal obstruction is the commonest cause of well-marked
 ascites. It is produced by (1) diseases within the liver, as cirrhosis
-(usually alcoholic) and cancer; (2) diseases outside the liver, as
+(usually alcoholic) and [[Cancer|cancer]]; (2) diseases outside the liver, as
 cancer of stomach, duodenum or pancreas, causing pressure on the portal
 vein, or enlarged glands in the fissure of the liver producing the same
 effect. Ascites is one of the late symptoms in the disease, and precedes
-dropsy of the leg, which may come on later, due to pressure on the large
+dropsy of the [[Leg|leg]], which may come on later, due to pressure on the large
 veins in the abdominal cavity by the ascitic fluid. In ascites due to
 heart disease, the dropsy of the feet and legs precedes the ascites, and
 there will be a history of palpitation, shortness of breath, and perhaps

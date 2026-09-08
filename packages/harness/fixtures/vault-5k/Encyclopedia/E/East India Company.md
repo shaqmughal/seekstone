@@ -28,7 +28,7 @@ Governor and Company of Merchants of London, trading into the East
 Indies." This charter conferred the sole right of trading with the East
 Indies, i.e. with all countries lying beyond the Cape of Good Hope or
 the Straits of Magellan, upon the company for a term of 15 years.
-Unauthorized interlopers were liable to forfeiture of ships and cargo.
+Unauthorized interlopers were liable to forfeiture of ships and [[Cargo|cargo]].
 There were 125 shareholders in the original East India Company, with a
 capital of L72,000: the first governor was Sir Thomas Smythe. The early
 voyages of the company, from 1601 to 1612, are distinguished as the
@@ -39,7 +39,7 @@ for the benefit of the company as a whole. These early voyages, whose
 own narratives may be read in Purchas, pushed as far as Japan, and
 established friendly relations at the court of the Great Mogul. In
 1610-1611 Captain Hippon planted the first English factories on the
-mainland of India, at Masulipatam and at Pettapoli in the Bay of Bengal.
+mainland of India, at Masulipatam and at Pettapoli in the Bay of [[Bengal]].
 The profitable nature of the company's trade had induced James I. to
 grant subsidiary licences to private traders; but in 1609 he renewed the
 company's charter "for ever," though with a proviso that it might be
@@ -49,7 +49,7 @@ to the realm.
 
   English and Dutch disputes.
 
-Meanwhile friction was arising between the English and Dutch East India
+Meanwhile [[Friction|friction]] was arising between the English and Dutch East India
 Companies. The Dutch traders considered that they had prior rights in
 the Far East, and their ascendancy in the Indian Archipelago was indeed
 firmly established on the basis of territorial dominion and authority.
@@ -59,14 +59,14 @@ fertile in disputes between the armed traders of both nations. In 1619
 was ratified a "treaty of defence" to prevent disputes between the
 English and Dutch companies. When it was proclaimed in the East,
 hostilities solemnly ceased for the space of an hour, while the Dutch
-and English fleets, dressed out in all their flags and with yards
+and English fleets, dressed out in all their [[Flag|flags]] and with yards
 manned, saluted each other; but the treaty ended in the smoke of that
 stately salutation, and perpetual and fruitless contentions between the
 Dutch and English companies went on just as before. In 1623 these
-disputes culminated in the "massacre of Amboyna," where the Dutch
+disputes culminated in the "[[Massacre|massacre]] of Amboyna," where the Dutch
 governor tortured and executed the English residents on a charge of
 conspiring to seize the fort. Great and lasting indignation was aroused
-in England, but it was not until the time of Cromwell that some
+in England, but it was not until the time of [[Cromwell]] that some
 pecuniary reparation was exacted for the heirs of the victims. The
 immediate result was that the English company tacitly admitted the Dutch
 claims to a monopoly of the trade in the Far East, and confined their
@@ -159,13 +159,13 @@ until 1766, and in 1742 the term was extended until 1783 in return for
 the loan of a million. This million was required for the war with
 France, which extended to India and involved the English and French
 companies there in long-drawn hostilities, in which the names of Dupleix
-and Clive became prominent.
+and [[Clive]] became prominent.
 
 
   The company and the crown.
 
 So long as the company's chief business was that of trade, it was left
-to manage its own affairs. The original charter of Elizabeth had placed
+to [[Manage|manage]] its own affairs. The original charter of Elizabeth had placed
 its control in the hands of a governor and a committee of twenty-four,
 and this arrangement subsisted in essence down to the time of George
 III. The chairman and court of directors in London exercised unchecked

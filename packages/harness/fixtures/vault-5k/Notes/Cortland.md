@@ -13,10 +13,10 @@ U.S.A., in the central part of the state, on Tioughnioga river, at the
 junction of its E. and W. branches. Pop. (1890) 8590; (1900) 9014, of
 whom 682 were foreign born; (1905) 11,272;(1910) 11,504. It is served by
 the Delaware, Lackawanna & Western and the Lehigh Valley railways. The
-Franklin Hatch library and a state normal and training school (opened in
+[[Franklin]] Hatch library and a state normal and training school (opened in
 1869) are in Cortland. The city has important manufactories of wire, and
 wire-cloth and netting (one of the largest in America), cabs, carriages
-and waggons, iron and steel, wall-paper, dairy supplies, corundum
+and waggons, iron and steel, wall-paper, dairy supplies, [[Corundum|corundum]]
 wheels, and clothing. The value of the city's factory products increased
 from $3,063,828 in 1900 to $4,574,191 in 1905 or 49.3%. The town of
 Cortlandville, which formed a part of the Phelps and Gorham Purchase,

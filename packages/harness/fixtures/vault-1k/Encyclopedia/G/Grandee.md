@@ -8,7 +8,7 @@ points out, not a general term denoting a class, but "an additional
 dignity not only to all dukes, but to some marquesses and condes also"
 (_Titles of Honor_, ed. 1672, p. 478). It formerly implied certain
 privileges; notably that of sitting covered in the royal presence. Until
-the time of Ferdinand and Isabella, when the power of the territorial
+the time of [[Ferdinand]] and Isabella, when the power of the territorial
 nobles was broken, the grandees had also certain more important rights,
 e.g. freedom from taxation, immunity from arrest save at the king's
 express command, and even--in certain cases--the right to renounce their

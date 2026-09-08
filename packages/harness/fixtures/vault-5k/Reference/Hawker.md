@@ -9,17 +9,17 @@ type: reference
 
 HAWKER, ROBERT STEPHEN (1803-1874), English antiquary and poet, was born
 at Stoke Damerel, Devonshire, on the 3rd of December 1803. His father,
-Jacob Stephen Hawker, was at that time a doctor, but afterwards curate
-and vicar of Stratton, Cornwall. Robert was sent to Liskeard grammar
+[[Jacob]] Stephen Hawker, was at that time a doctor, but afterwards curate
+and vicar of Stratton, [[Cornwall]]. Robert was sent to Liskeard grammar
 school, and when he was about sixteen was apprenticed to a solicitor. He
-was soon removed to Cheltenham grammar school, and in April 1823
+was soon removed to [[Cheltenham]] grammar school, and in April 1823
 matriculated at Pembroke College, Oxford. In the same year he married
-Charlotte I'Ans, a lady much older than himself. On returning to Oxford
+[[Charlotte]] I'Ans, a lady much older than himself. On returning to Oxford
 he migrated to Magdalen Hall, where he graduated in 1828, having already
 won the Newdigate prize for poetry in 1827. He became vicar of
 Morwenstow, a village on the north Cornish coast, in 1834. Hawker
 described the bulk of his parishioners as a "mixed multitude of
-smugglers, wreckers and dissenters of various hues." He was himself a
+smugglers, wreckers and dissenters of various [[Hue|hues]]." He was himself a
 high churchman, and carried things with a high hand in his parish, but
 was much beloved by his people. He was a man of great originality, and
 numerous stories were told of his striking sayings and eccentric
@@ -28,19 +28,19 @@ _Sweet and Twenty_. His first wife died in 1863, and in 1864 he married
 Pauline Kuczynski, daughter of a Polish exile. He died in Plymouth on
 the 15th of August 1875. Before his death he was formally received into
 the Roman Catholic Church, a proceeding which aroused a bitter newspaper
-controversy. The best of his poems is _The Quest of the Sangraal: Chant
+controversy. The best of his poems is _The Quest of the Sangraal: [[Chant]]
 the First_ (Exeter, 1864). Among his _Cornish Ballads_ (1869) the most
 famous is on "Trelawny," the refrain of which, "And shall Trelawny die,"
 &c., he declared to be an old Cornish saying.
 
   See _The Vicar of Morwenstow_ (1875; later and corrected editions,
-  1876 and 1886), by the Rev. S. Baring-Gould, which was severely
-  criticized by Hawker's friend, W. Maskell, in the _Athenaeum_ (March
+  1876 and 1886), by the Rev. S. [[Baring-Gould]], which was severely
+  criticized by Hawker's friend, W. Maskell, in the _[[Athenaeum]]_ (March
   26, 1876); _Memorials of the late Robert Stephen Hawker_ (1876), by
   the late Dr F. G. Lee. These were superseded in 1905 by _The Life and
-  Letters of R. S. Hawker_, by his son-in-law, C. E. Byles, which
+  Letters of R. S. Hawker_, by his son-in-law, C. E. [[Byles]], which
   contains a bibliography of his works, now very valuable to collectors.
-  See also Boase and Courtney, _Bibliotheca Cornubiensis_. His _Poetical
+  See also [[Boase]] and [[Courtney]], _Bibliotheca Cornubiensis_. His _Poetical
   Works_ (1879) and his _Prose Works_ (1893) were edited by J. G.
   Godwin. Another edition of his _Poetical Works_ (1899) has a preface
   and bibliography by Alfred Wallis, and a complete edition of his poems
@@ -61,7 +61,7 @@ have turned God's house intill hucksteress bothe" (_Ormulum_, 15,817).
 The base of the two words is the same, and is probably to be referred to
 German _hocken_, to squat, crouch; cf. "hucklebone," the hip-bone; and
 the hawkers or hucksters were so called either because they stooped
-under their packs, or squatted at booths in markets, &c. Another
+under their packs, or squatted at [[Booth|booths]] in markets, &c. Another
 derivation finds the origin in the Dutch _hock_, a hole, corner. It may
 be noticed that the termination of "huckster" is feminine; though there
 are examples of its application to women it was always applied
@@ -84,7 +84,7 @@ distributors of Bibles and other religious literature.
   Kingdom, and the two classes have also been technically distinguished.
   The Pedlars Act 1871 defines a pedlar as "any hawker, pedlar, petty
   chapman, tinker, caster of metals, mender of chairs, or other person
-  who, _without_ any horse or other beast bearing or drawing burden,
+  who, _without_ any horse or other beast bearing or drawing [[Burden|burden]],
   travels and trades on foot and goes from town to town or to other
   men's houses, carrying to sell or exposing for sale any goods, wares
   or merchandise ... or selling or offering for sale his skill in

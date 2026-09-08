@@ -32,7 +32,7 @@ funnel) plane. From the funnel, canals are given off in three
 directions; (a) a pair of paragastric (stomachal, or stomodaeal) canals
 run orally, parallel to the stomodaeum, and end blindly near the mouth;
 (b) a pair of perradial canals run in the transverse plane towards the
-equator of the animal; each of these becomes divided into two short
+[[Equator|equator]] of the animal; each of these becomes divided into two short
 canals at the base of the tentacle sheath which they supply, but has
 previously given off a pair of short interradial canals, which again
 bifurcate into two adradial canals; all these branches lie in the
@@ -41,7 +41,7 @@ into eight meridianal canals which run orally and aborally under the
 costae; (c) a pair of aboral vessels which run towards the sense-organ,
 each of which bifurcates; of the four vessels thus formed, two only open
 at the sides of the sense-organ, forming the so-called excretory
-apertures. These three sets of structures, with the funnel from which
+[[Aperture|apertures]]. These three sets of structures, with the funnel from which
 they rise, make up the endodermal coelenteron, or gastro-vascular
 system. The generative organs are endodermal by origin, borne at the
 sides of the meridianal canals as indicated by the signs [male]
@@ -54,10 +54,10 @@ termed balancers, but is otherwise free. The ciliated ectoderm below the
 organ is markedly thickened, and perhaps functionally represents a
 nerve-ganglion: from it eight ciliated furrows radiate outwards, two
 passing under each balancer as through an archway, and diverge each to
-the head of a meridianal costa. These ciliated furrows stain deeply with
+the head of a meridianal [[Costa|costa]]. These ciliated furrows stain deeply with
 osmic acid, and nervous impulses are certainly transmitted along them.
 Locomotion is effected by strokes of the paddles in an aboral direction,
-driving the animal mouth forwards through the water: each paddle or comb
+driving the animal mouth forwards through the water: each paddle or [[Comb|comb]]
 (Gr. [Greek: kteis]; hence Ctenophora) consists of a plate of fused or
 matted cilia set transversely to the costa. The myoepithelial cells
 (formerly termed neuro-muscular cells), characteristic of other
@@ -109,8 +109,8 @@ The Ctenophora are classified as follows:--
   meridianal and paragastric canals end blindly. An example of these has
   already been briefly described. The LOBATA are of the same general
   type as the first Order, except for the presence of four circumoral
-  auricles (processes of the subtransverse costae) and of a pair of
-  sagittal outgrowths or lobes, on to which the subsagittal costae are
+  [[Auricle|auricles]] (processes of the subtransverse costae) and of a pair of
+  sagittal outgrowths or [[Lobe|lobes]], on to which the subsagittal costae are
   continued. Small accessory tentacles lie in grooves, but there is no
   tentacular pouch; the meridianal vessels anastomose in the lobes. In
   the CESTOIDEA the body is compressed in the transverse plane,
@@ -206,7 +206,7 @@ for us to-day that ancestor from which Ctenophora and Turbellaria are
 alike derived. For details of this brilliant theory, the reader is
 referred to the original monograph.
 
-  LITERATURE.--G. C. Bourne, "The Ctenophora," in Ray Lankester's
+  LITERATURE.--G. C. [[Bourne]], "The Ctenophora," in Ray Lankester's
   _Treatise on Zoology_ (1900), where a bibliography is given; G.
   Curreri, "Osservazioni sui ctenofori," _Boll. Soc. Zool. Ital._ (2),
   i. pp. 190-193 et ii. pp. 58-76; A. Garbe, "Untersuchungen uber die

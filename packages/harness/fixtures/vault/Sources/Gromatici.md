@@ -2,7 +2,7 @@
 
 GROMATICI (from _groma_ or _gruma_, a surveyor's pole), or
 _Agrimensores_, the name for land-surveyors amongst the Romans. The art
-of surveying was probably at first in the hands of the augurs, by whom
+of surveying was probably at first in the hands of the [[Augurs|augurs]], by whom
 it was exercised in all cases where the demarcation of a _templum_ (any
 consecrated space) was necessary. Thus, the boundaries of Rome itself,
 of colonies and camps, were all marked out in accordance with the rules
@@ -20,13 +20,13 @@ not merely geometrical or mathematical, but required legal knowledge for
 consultations or the settlement of disputes. This led to the institution
 of special schools for the training of surveyors and a special
 literature, which lasted from the 1st to the 6th century A.D. The
-earliest of the gromatic writers was Frontinus (q.v.), whose _De agrorum
+earliest of the gromatic writers was [[Frontinus]] (q.v.), whose _De agrorum
 qualitate_, dealing with the legal aspect of the art, was the subject of
 a commentary by Aggenus Urbicus, a Christian schoolmaster. Under Trajan
-a certain Balbus, who had accompanied the emperor on his Dacian
-campaign, wrote a still extant manual of geometry for land surveyors
+a certain [[Balbus]], who had accompanied the emperor on his Dacian
+campaign, wrote a still extant [[Manual|manual]] of geometry for land surveyors
 (_Expositio et ratio omnium formarum_ or _mensurarum_, probably after a
-Greek original by Hero), dedicated to a certain Celsus who had invented
+Greek original by Hero), dedicated to a certain [[Celsus]] who had invented
 an improvement in a gromatic instrument (perhaps the dioptra, resembling
 the modern theodolite); for the treatises of Hyginus see that name.
 Somewhat later than Trajan was Siculus Flaccus (_De condicionibus
@@ -52,7 +52,7 @@ officials; _professor_, _auctor_ as professional instructors.
   romischen Agrimensoren_ (Leipzig, 1875); P. de Tissot, _La Condition
   des Agrimensores dans l'ancienne Rome_ (1879); G. Rossi, _Groma e
   squadro_ (Turin, 1877); articles by F. Hultsch in Ersch and Gruber's
-  _Allgem. Encyklopadie_, and by G. Humbert in Daremberg and Saglio's
+  _Allgem. Encyklopadie_, and by G. [[Humbert]] in Daremberg and Saglio's
   _Dictionnaire des antiquites_; Teuffel-Schwabe, _Hist. of Roman
   Literature_, 58.
 

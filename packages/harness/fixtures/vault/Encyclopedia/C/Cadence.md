@@ -13,7 +13,7 @@ sounds, as in the "fall" of the voice in speaking, the rhythm or measure of
 verses, song or dance. In music, the word is used of the closing chords of
 a musical phrase, which succeed one another in such a way as to produce,
 first an expectation or suspense, and then an impression of finality,
-indicating also the key strongly. "Cadenza," the Italian form of the same
+indicating also the [[Key|key]] strongly. "Cadenza," the Italian form of the same
 word, is used of a free flourish in a vocal or instrumental composition,
 introduced immediately before the close of a movement or at the end of the
 piece. The object is to display the performer's technique, or to prevent

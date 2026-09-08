@@ -7,7 +7,7 @@ type: note
 
 # Crustumerium
 
-CRUSTUMERIUM, an ancient town of Latium, on the edge of the Sabine
+CRUSTUMERIUM, an ancient town of [[Latium]], on the edge of the Sabine
 territory, near the headwaters of the Allia, not far from the Tiber. It
 appears several times in the early history of Rome, but was conquered in
 500 B.C. according to Livy ii. 19, the _tribus Crustumina_ [or

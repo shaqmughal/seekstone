@@ -5,7 +5,7 @@ in Lincoln on the 2nd of November 1815. His father was a tradesman of
 limited means, but of studious character and active mind. Being
 especially interested in mathematical science, the father gave his son
 his first lessons; but the extraordinary mathematical powers of George
-Boole did not manifest themselves in early life. At first his favourite
+Boole did not [[Manifest|manifest]] themselves in early life. At first his favourite
 subject was classics. Not until the age of seventeen did he attack the
 higher mathematics, and his progress was much retarded by the want of
 efficient help. When about sixteen years of age he became
@@ -15,7 +15,7 @@ profession. Few distinguished men, indeed, have had a less eventful
 life. Almost the only changes which can be called events are his
 successful establishment of a school at Lincoln, its removal to
 Waddington, his appointment in 1849 as professor of mathematics in the
-Queen's College at Cork, and his marriage in 1855 to Miss Mary Everest,
+Queen's College at Cork, and his marriage in 1855 to Miss Mary [[Everest]],
 who, as Mrs Boole, afterwards wrote several useful educational works on
 her husband's principles.
 
@@ -29,7 +29,7 @@ which lasted until the premature death of the latter in 1844. A long
 list of Boole's memoirs and detached papers, both on logical and
 mathematical topics, will be found in the _Catalogue of Scientific
 Memoirs_ published by the Royal Society, and in the supplementary volume
-on _Differential Equations_, edited by Isaac Todhunter. To the
+on _Differential [[Equation|Equations]]_, edited by [[Isaac]] Todhunter. To the
 _Cambridge Mathematical Journal_ and its successor, the _Cambridge and
 Dublin Mathematical Journal_, Boole contributed in all twenty-two
 articles. In the third and fourth series of the _Philosophical Magazine_
@@ -70,7 +70,7 @@ extending his researches with the object of producing a second edition
 of his _Differential Equations_ much more complete than the first
 edition; and part of his last vacation was spent in the libraries of the
 Royal Society and the British Museum. But this new edition was never
-completed. Even the manuscripts left at his death were so incomplete
+completed. Even the [[Manuscript|manuscripts]] left at his death were so incomplete
 that Todhunter, into whose hands they were put, found it impossible to
 use them in the publication of a second edition of the original
 treatise, and wisely printed them, in 1865, in a supplementary volume.
@@ -87,7 +87,7 @@ regarded this as a hasty and imperfect exposition of his logical system,
 and he desired that his much larger work, _An Investigation of the Laws
 of Thought, on which are founded the Mathematical Theories of Logic and
 Probabilities_ (1854), should alone be considered as containing a mature
-statement of his views. Nevertheless, there is a charm of originality
+statement of his views. Nevertheless, there is a [[Charm|charm]] of originality
 about his earlier logical work which no competent reader can fail to
 appreciate. He did not regard logic as a branch of mathematics, as the
 title of his earlier pamphlet might be taken to imply, but he pointed
@@ -122,7 +122,7 @@ events to determine the consequent probability of any other event
 logically connected with the given events.
 
 Though Boole published little except his mathematical and logical works,
-his acquaintance with general literature was wide and deep. Dante was
+his acquaintance with general literature was wide and deep. [[Dante]] was
 his favourite poet, and he preferred the _Paradiso_ to the _Inferno_.
 The metaphysics of Aristotle, the ethics of Spinoza, the philosophical
 works of Cicero, and many kindred works, were also frequent subjects of
@@ -139,7 +139,7 @@ a medal from the Royal Society for his memoir of 1844, and the honorary
 degree of LL.D. from the university of Dublin, he neither sought nor
 received the ordinary rewards to which his discoveries would entitle
 him. On the 8th of December 1864, in the full vigour of his intellectual
-powers, he died of an attack of fever, ending in suffusion on the lungs.
+powers, he died of an attack of [[Fever|fever]], ending in suffusion on the [[Lung|lungs]].
 
   An excellent sketch of his life and works, by the Rev. R. Harley,
   F.R.S., is to be found in the _British Quarterly Review_ for July

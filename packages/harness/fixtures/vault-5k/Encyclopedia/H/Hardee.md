@@ -9,7 +9,7 @@ the Mexican War, winning the brevet of major for gallantry in action in
 March 1847 and subsequently that of lieut.-colonel. After the war he
 served as a substantive major under Colonel Sidney Johnston and
 Lieut.-Colonel Robert Lee in the 2nd U.S. cavalry, and for some time
-before 1856 he was engaged in compiling the official manual of infantry
+before 1856 he was engaged in compiling the official [[Manual|manual]] of infantry
 drill and tactics which, familiarly called "Hardee's Tactics,"
 afterwards formed the text-book for the infantry arm in both the Federal
 and the Confederate armies. From 1856 to 1861 he was commandant of West
@@ -31,7 +31,7 @@ Virginia, on the 6th of November 1873.
 
 
 HARDENBERG, KARL AUGUST VON, PRINCE (1750-1822), Prussian statesman, was
-born at Essenroda in Hanover on the 31st of May 1750. After studying at
+born at Essenroda in [[Hanover]] on the 31st of May 1750. After studying at
 Leipzig and Gottingen he entered the Hanoverian civil service in 1770 as
 councillor of the board of domains (_Kammerrat_); but, finding his
 advancement slow, he set out--on the advice of King George III.--on a
@@ -70,9 +70,9 @@ signed the treaty of peace.
 
 In 1797, on the accession of King Frederick William III., Hardenberg was
 summoned to Berlin, where he received an important position in the
-cabinet and was appointed chief of the departments of Magdeburg and
+cabinet and was appointed chief of the departments of [[Magdeburg]] and
 Halberstadt, for Westphalia, and for the principality of Neuchatel. In
-1793 Hardenberg had struck up a friendship with Count Haugwitz, the
+1793 Hardenberg had struck up a friendship with Count [[Haugwitz]], the
 influential minister for foreign affairs, and when in 1803 the latter
 went away on leave (August-October) he appointed Hardenberg his _locum
 tenens_. It was a critical period. Napoleon had just occupied Hanover,
@@ -93,7 +93,7 @@ If there was to be war, Hardenberg would have preferred the French
 alliance, which was the price Napoleon demanded for the cession of
 Hanover to Prussia; for the Eastern powers would scarcely have
 conceded, of their free will, so great an augmentation of Prussian
-power. But he still hoped to gain the coveted prize by diplomacy, backed
+power. But he still hoped to gain the coveted prize by [[Diplomacy|diplomacy]], backed
 by the veiled threat of an armed neutrality. Then occurred Napoleon's
 contemptuous violation of Prussian territory by marching three French
 corps through Ansbach; King Frederick William's pride overcame his
@@ -147,7 +147,7 @@ fame, was passed. In diplomacy he was no match for Metternich, whose
 influence soon overshadowed his own in the councils of Europe, of
 Germany, and ultimately even of Prussia itself. At Vienna, in spite of
 the powerful backing of Alexander of Russia, he failed to secure the
-annexation of the whole of Saxony to Prussia; at Paris, after Waterloo,
+[[Annexation|annexation]] of the whole of Saxony to Prussia; at Paris, after Waterloo,
 he failed to carry through his views as to the further dismemberment of
 France; he had weakly allowed Metternich to forestall him in making
 terms with the states of the Confederation of the Rhine, which secured
@@ -156,7 +156,7 @@ the conference of Carlsbad (1819) he signed a convention with
 Metternich, by which--to quote the historian Treitschke--"like a
 penitent sinner, without any formal _quid pro quo_, the monarchy of
 Frederick the Great yielded to a foreign power a voice in her internal
-affairs." At the congresses of Aix-la-Chapelle, Troppau, Laibach and
+affairs." At the congresses of Aix-la-Chapelle, Troppau, [[Laibach]] and
 Verona the voice of Hardenberg was but an echo of that of Metternich.
 
 The cause lay partly in the difficult circumstances of the loosely-knit
@@ -170,9 +170,9 @@ have needed all the powers of an adviser at once wise and in character
 wholly trustworthy. Hardenberg was wise enough; he saw the necessity for
 constitutional reform; but he clung with almost senile tenacity to the
 sweets of office, and when the tide turned strongly against Liberalism
-he allowed himself to drift with it. In the privacy of royal commissions
+he allowed himself to [[Drift|drift]] with it. In the privacy of royal commissions
 he continued to elaborate schemes for constitutions that never saw the
-light; but Germany, disillusioned, saw only the faithful henchman of
+light; but Germany, disillusioned, saw only the faithful [[Henchman|henchman]] of
 Metternich, an accomplice in the policy of the Carlsbad Decrees and the
 Troppau Protocol. He died, soon after the closing of the congress of
 Verona, at Genoa, on the 26th of November 1822.
@@ -194,7 +194,7 @@ shores of the Zuider Zee, 17 m. by rail N.N.E. of Amersfoort. Pop.
 (1900) 7425. It is a quaint old town, approached by a fine avenue of
 trees, and standing in the midst of a patch of fertile ground. Harderwyk
 is chiefly important as being the depot for recruits for the Dutch
-colonial army. It contains a small fort and large barracks. The
+colonial army. It contains a small fort and large [[Barracks|barracks]]. The
 principal buildings are the town hall, with some ancient furniture, a
 large 15th century church with a notable square tower, a municipal
 orphanage, and the Nassau-Veluwe gymnasium. Agriculture, fishing, and a

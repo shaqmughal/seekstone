@@ -8,7 +8,7 @@ topic: law
 
 BRADFORD, a city, and municipal, county and parliamentary borough, in
 the West Riding of Yorkshire, England, 192 m. N.N.W. of London and 8 m.
-W. of Leeds. Pop. (1891) 265,728; (1901) 279,767. It is served by the
+W. of [[Leeds]]. Pop. (1891) 265,728; (1901) 279,767. It is served by the
 Midland and the North Eastern railways (Midland station), and by the
 Great Northern and the Lancashire & Yorkshire railways (Exchange
 station). It lies in a small valley opening southward from that of the
@@ -34,7 +34,7 @@ The general infirmary is the principal of numerous charitable
 institutions. The most noteworthy public buildings beside the town hall
 are St George's hall (1853), used for concerts and public meetings, the
 exchange (1867), extensive market buildings, and two court-houses. The
-Cartwright memorial hall, principally the gift of Lord Masham, opened in
+[[Cartwright]] memorial hall, principally the gift of Lord [[Masham]], opened in
 1904 and containing an art gallery and museum, commemorates Dr Edmund
 Cartwright (1743-1823) as the inventor of the power-loom and the
 combing-machine. The hall stands in Lister Park, and was opened
@@ -57,7 +57,7 @@ of valuable deposits of coal and iron. The principal textile
 manufactures in order of importance are worsted, employing some 36,000
 hands, females considerably outnumbering males; woollens, employing some
 8000, silk and cotton. The corporation maintains a conditioning-hall for
-testing textile materials. A new hall was opened in 1902. Engineering
+testing textile materials. A new hall was opened in 1902. [[Engineering]]
 and iron works (as at Bowling and Low Moor) are extensive; and the
 freestone of the neighbourhood is largely quarried, and in Bradford
 itself its use is general for building. It blackens easily under the
@@ -91,7 +91,7 @@ manor-house, a fulling mill, a market every Sunday, and a fair on the
 feast of St Andrew. There were also certain burgesses holding
 twenty-eight burgages. Alice, only daughter and heiress of Henry de
 Lacy, married Thomas Plantagenet, earl of Lancaster, and on the
-attainder of her husband she and Joan, widow of Henry, were obliged to
+[[Attainder|attainder]] of her husband she and Joan, widow of Henry, were obliged to
 release their rights in the manor to the king. The earl of Lancaster's
 attainder being reversed in 1327, Bradford, with his other property, was
 restored to his brother and heir, Henry Plantagenet, but again passed to
@@ -116,7 +116,7 @@ manufacture had been begun at that time. By the reign of Henry VIII. it
 had become an important industry and added much to the status of the
 town. Towards the end of the 17th and beginning of the 18th century the
 woollen trade decreased and worsted manufacture began to take its place.
-Leland in his _Itinerary_ says that Bradford is "a praty quik Market
+[[Leland]] in his _Itinerary_ says that Bradford is "a praty quik Market
 Toune. It standith much by clothing." In 1773 a piece hall was erected
 and for many years served as a market-place for the manufacturers and
 merchants of the district. On the introduction of steam-power and
@@ -133,7 +133,7 @@ is made into goods that will compete with those manufactured from the
 perfect cocoon.
 
   See John James, _History of Bradford_ (1844, new and enlarged ed.,
-  1866); A. Holroyd, _Collectanea Bradfordiana_ (1873); _Victoria County
+  1866); A. [[Holroyd]], _Collectanea Bradfordiana_ (1873); _Victoria County
   History--Yorkshire_.
 
 ## See also

@@ -8,7 +8,7 @@ Rhegium and Zancle, appealed to the Carthaginians, who came to his
 assistance, but were utterly defeated by Gelon of Syracuse in 480
 B.C.--on the same day, it is said, as the battle of Salamis.
 Thrasydaeus, son of Theron of Agrigentum, seems to have ruled the city
-oppressively, but an appeal made to Hiero of Syracuse, Gelon's brother,
+oppressively, but an appeal made to [[Hiero]] of Syracuse, Gelon's brother,
 was betrayed by him to Theron; the latter massacred all his enemies and
 in the following year resettled the town. In 415 it refused to admit the
 Athenian fleet and remained an ally of Syracuse. In 408 the Carthaginian

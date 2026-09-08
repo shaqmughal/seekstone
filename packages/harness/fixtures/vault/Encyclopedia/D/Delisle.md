@@ -8,7 +8,7 @@ id: 42-4416
 
 # Delisle
 
-DELISLE, LEOPOLD VICTOR (1826-   ), French bibliophile and historian, was
+DELISLE, [[Leopold|LEOPOLD]] VICTOR (1826-   ), French bibliophile and historian, was
 born at Valognes (Manche) on the 24th of October 1826. At the Ecole des
 Chartes, where his career was remarkably brilliant, his valedictory
 thesis was an _Essai sur les revenus publics en Normandie au XII^e
@@ -16,12 +16,12 @@ siecle_ (1849), and it was to the history of his native province that he
 devoted his early works. Of these the _Etudes sur la condition de la
 classe agricole et l'etat de l'agriculture en Normandie au moyen age_
 (1851), condensing an enormous mass of facts drawn from the local
-archives, was reprinted in 1905 without change, and remains
-authoritative. In November 1852 he entered the manuscript department of
+[[Archive|archives]], was reprinted in 1905 without change, and remains
+authoritative. In November 1852 he entered the [[Manuscript|manuscript]] department of
 the Bibliotheque Imperiale (Nationale), of which in 1874 he became the
 official head in succession to Jules Taschereau. He was already known as
 the compiler of several invaluable inventories of its manuscripts. When
-the French government decided on printing a general catalogue of the
+the French government decided on printing a general [[Catalogue|catalogue]] of the
 printed books in the Bibliotheque, Delisle became responsible for this
 great undertaking and took an active part in the work; in the preface to
 the first volume (1897) he gave a detailed history of the library and
@@ -46,8 +46,8 @@ the printed books and MSS. in the Musee Conde at Chantilly, left by the
 due d'Aumale to the French Institute. He produced many valuable official
 reports and catalogues and a great number of memoirs and monographs on
 points connected with palaeography and the study of history and
-archaeology (see his _Melanges de paleographie et de bibliographie_
-(1880) with atlas; and his articles in the _Album paleographique_
+[[Archaeology|archaeology]] (see his _Melanges de paleographie et de bibliographie_
+(1880) with [[Atlas|atlas]]; and his articles in the _Album paleographique_
 (1887). Of his purely historical works special mention must be made of
 his _Memoire sur les actes d'Innocent III_ (1857), and his _Memoire sur
 les operations financieres des Templiers_ (1889), a collection of
@@ -59,7 +59,7 @@ with regard to the middle ages; and his knowledge of diplomatics,
 palaeography and printing was profound. His output of work, in
 catalogues, &c., was enormous, and his services to the Bibliotheque
 Nationale in this respect cannot be overestimated. His wife, a daughter
-of Eugene Burnouf, was for many years his collaborator.
+of Eugene [[Burnouf]], was for many years his collaborator.
 
   The _Bibliographie des travaux de L. Delisle_ (1902), by Paul Lacombe,
   may be consulted for a full list of his numerous works.

@@ -12,14 +12,14 @@ than he means, [Greek: eirein], to speak), a form of speech in which the
 real meaning is concealed or contradicted by the words used; it is
 particularly employed for the purpose of ridicule, mockery or contempt,
 frequently taking the form of sarcastic phrase. The word is frequently
-used figuratively, especially in such phrases as "the irony of fate," of
+used figuratively, especially in such phrases as "the irony of [[Fate|fate]]," of
 an issue or result that seems to contradict the previous state or
 condition. The Greek word was particularly used of an under-statement in
 the nature of dissimulation. It is especially exemplified in the assumed
-ignorance which Socrates adopted as a method of dialectic, the "Socratic
+[[Ignorance|ignorance]] which Socrates adopted as a method of [[Dialectic|dialectic]], the "Socratic
 irony" (see SOCRATES). In tragedy, what is called "tragic irony" is a
 device for heightening the intensity of a dramatic situation. Its use is
-particularly characteristic of the drama of ancient Greece, owing to the
+particularly characteristic of the [[Drama|drama]] of ancient Greece, owing to the
 familiarity of the spectators with the legends on which so many of the
 plays were based. In this form of irony the words and actions of the
 characters belie the real situation, which the spectators fully realize.

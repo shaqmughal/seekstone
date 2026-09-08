@@ -1,8 +1,8 @@
 # Chancel
 
-CHANCEL (through O. Fr. from Lat. plur. _cancelli_, dim. of _cancer_,
+CHANCEL (through O. Fr. from Lat. plur. _[[Cancelli|cancelli]]_, dim. of _[[Cancer|cancer]]_,
 grating, lattice, probably connected with an Indo-European root _Kar_-,
-to bend; cf. circus, curve, &c.), in the earliest and strictest sense
+to [[Bend|bend]]; cf. [[Circus|circus]], curve, &c.), in the earliest and strictest sense
 that part of a church near the altar occupied by the deacons and
 sub-deacons assisting the officiating priest, this space having
 originally been separated from the rest of the church by _cancelli_ or
@@ -10,10 +10,10 @@ lattice work. The word _cancelli_ is used in classical Latin of a
 screen, bar or the like, set to mark off an enclosed space in a building
 or in an open place. It is thus used of the bar in a court of justice
 (Cicero, _Verres_, ii. 3 seq.). It is particularly used of the lattice
-or screen in the ancient basilica, which separated the _bema_, or raised
+or screen in the ancient [[Basilica|basilica]], which separated the _[[Bema|bema]]_, or raised
 tribunal, from the rest of the building. The use of the name in
 ecclesiastical buildings is thus natural, for the altar stood in the
-place occupied by the _bema_ in the apse of the basilica. From the
+place occupied by the _bema_ in the [[Apse|apse]] of the basilica. From the
 screen the term was early transferred to the space _inter cancellos_,
 i.e. the _locus altaris cancellis septus_. This railed-off space is now
 generally known among Roman Catholics as the "sanctuary," the word
@@ -22,7 +22,7 @@ chancel survived the Reformation, and is applied, both in the
 ecclesiastical and the architectural sense, to that part of the church
 occupied by the principal altar or communion table and by the clergy and
 singers officiating at the chief services; it thus includes presbytery,
-chancel proper and choir (q.v.), and in this sense, in the case of
+chancel proper and [[Choir|choir]] (q.v.), and in this sense, in the case of
 cathedrals and other large churches, is often used synonymously with
 choir. In this more inclusive sense the early basilican churches had no
 chancels, which were a comparatively late development; the _cancelli_,
@@ -31,13 +31,13 @@ e.g. of such a church as San Clemente at Rome are equivalent not to the
 divide off the sanctuary. In churches of the type that grew to its
 perfection in the middle ages the chancels are clearly differentiated
 from the nave by structural features: by the raising of the floor level,
-by the presence of a "chancel arch," and by a chancel or rood screen
+by the presence of a "chancel [[Arch|arch]]," and by a chancel or rood screen
 (see ROOD). The chancel screen might be no more than a low barrier, some
 4 ft. high, or a light structure of wood or wrought iron; sometimes,
 however, they were massive stone screens, which in certain cases were
 continued on either side between the piers of the choir and (on the
 European continent) round the east end of the sanctuary, as in the
-cathedrals of Paris, Bourges, Limoges, Amiens and Chartres. These
+cathedrals of Paris, [[Bourges]], [[Limoges]], Amiens and Chartres. These
 screens served the purpose, in collegiate and conventual churches, of
 cutting off the space reserved for the services conducted for and by the
 members of the chapter or community. For popular services a second high

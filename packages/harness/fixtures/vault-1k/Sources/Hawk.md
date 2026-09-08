@@ -20,7 +20,7 @@ species the irides are yellow, deepening with age into orange or even
 red, and that the immature plumage is almost invariably more or less
 striped or mottled with heart-shaped spots beneath, while that of the
 adults is generally much barred, though the old males have in many
-instances the breast and belly quite free from markings. Nearly all are
+instances the [[Breast|breast]] and belly quite free from markings. Nearly all are
 of small or moderate size--the largest among them being the gos-hawk
 (q.v.) and its immediate allies, and the male of the smallest,
 _Accipiter tinus_, is not bigger than a song-thrush. They are all birds

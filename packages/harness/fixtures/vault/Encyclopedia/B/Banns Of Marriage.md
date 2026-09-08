@@ -1,7 +1,7 @@
 # Banns Of Marriage
 
-BANNS OF MARRIAGE (formerly _bannes_, from A.S. _gebann_, proclamation, Fr.
-_ban_, Med. Lat. _bannum_), the public legal notice of an impending
+BANNS OF MARRIAGE (formerly _[[Bann|bannes]]_, from A.S. _gebann_, proclamation, Fr.
+_[[Ban|ban]]_, Med. Lat. _bannum_), the public legal notice of an impending
 marriage. The church in earliest days was forewarned of marriages
 (Tertullian, _Ad Uxorem, De Pudicitia_, c. 4). The first canonical
 enactment on the subject in the English church is that contained in the
@@ -10,7 +10,7 @@ that "no marriage shall be contracted without banns thrice published in the
 church, unless by special authority of the bishop." It is, however,
 believed that the practice was in France as old as the 9th century, and
 certainly Odo, bishop of Paris, ordered it in 1176. Some have thought that
-the custom originated in the ancient rule that all "good knights and true,"
+the custom originated in the ancient rule that all "good [[Knight|knights]] and true,"
 who elected to take part in the tournaments, should hang up their shields
 in the nearest church for some weeks before the opening of the lists, so
 that, if any "impediment" existed, they might be "warned off." By the

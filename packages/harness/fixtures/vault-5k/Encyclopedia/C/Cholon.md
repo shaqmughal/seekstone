@@ -7,7 +7,7 @@ type: note
 
 # Cholon
 
-CHOLON ("great market"), a town of French Indo-China, the largest
+CHOLON ("great market"), a town of French [[Indo-China]], the largest
 commercial centre of Cochin China, 3½ m. S.W. of Saigon, with which it
 is united by railway, steam-tramway and canal. Cholon was founded by
 Chinese immigrants about 1780, and is situated on the Chinese arroyo at
@@ -27,7 +27,7 @@ governor, fills the office of mayor. There are a fine municipal hospital
 and municipal schools for boys and girls. The principal thoroughfares
 are lighted by electric light. The rice trade, almost monopolized by the
 Chinese, is the leading industry, the rice being treated in large steam
-mills. Tanning, dyeing, copper-founding, glass, brick and pottery
+mills. Tanning, dyeing, copper-founding, glass, [[Brick|brick]] and pottery
 manufacture, stone working, timber-sawing and junk building are also
 included among the industries.
 

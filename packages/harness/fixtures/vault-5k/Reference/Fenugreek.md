@@ -2,7 +2,7 @@
 
 FENUGREEK, in botany, _Trigonella Foenum-graecum_ (so called from the
 name given to it by the ancients, who used it as fodder for cattle), a
-member of a genus of leguminous herbs very similar in habit and in most
+member of a genus of leguminous [[Herb|herbs]] very similar in habit and in most
 of their characters to the species of the genus _Medicago_. The leaves
 are formed of three obovate leaflets, the middle one of which is
 stalked; the flowers are solitary, or in clusters of two or three, and

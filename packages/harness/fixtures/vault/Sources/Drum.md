@@ -8,7 +8,7 @@ the well-known musical instrument (see below) and also to many objects
 resembling it in shape. Thus it is used of any receptacle of similar
 shape, as a "drum" of oil, &c.; in machinery, of a revolving cylinder,
 round which belting is passed; of the _tympanum_ or cylindrically shaped
-middle ear, and specially of the membrane that closes the external
+middle [[Ear|ear]], and specially of the membrane that closes the external
 auditory meatus; and, in architecture, of the substructure of a dome
 when raised to some height above the pendentives. The architectural drum
 had a twofold object; first, to give greater elevation to the dome
@@ -16,7 +16,7 @@ externally so that it should rise well above the surrounding building,
 and secondly, to allow of the interior being lighted with vertical
 windows cut in the drum, instead of forming penetrations in the dome
 itself, as in St Sophia, Constantinople. The term is also applied to the
-circular blocks of stone, which in columns of large dimensions were
+circular blocks of stone, which in columns of large [[Dimension|dimensions]] were
 built with a series of drums. At Selinus in Sicily some of these great
 circular blocks are found on the road between the quarries and the
 temples; they vary from 8 to 10 ft. in diameter, being about 6 ft. high.
@@ -24,7 +24,7 @@ The term _frusta_ is sometimes applied to them.
 
 In music the drum (Fr. _tambour_; Ger. _Trommel_; Ital. _tamburo_) is an
 instrument of percussion common in some form to all nations and ages. It
-consists of a frame or vessel forming a resonant cavity, over one or
+consists of a [[Frame|frame]] or vessel forming a resonant cavity, over one or
 both ends of which is stretched a skin or vellum set in vibration by
 direct percussion of hand or stick. Drums fall into two divisions
 according to the nature of their sonority:--(1) instruments producing
@@ -61,7 +61,7 @@ degree of tension and inversely with the size of the vellum.
 
 [Illustration: FIG. 1.--Military Bass Drum (Besson & Co.)]
 
-The _bass drum_ or Turkish drum (Fr. _grosse caisse_; Ger. _Grosse
+The _bass drum_ or Turkish drum (Fr. _[[Grosse|grosse]] caisse_; Ger. _Grosse
 Trommel_; Ital. _gran cassa_ or _tamburo grande_) consists of a short
 cylinder of very wide diameter covered at both ends by vellum stretched
 over thin hoops, which in turn are kept in place by larger hoops fitting
@@ -92,17 +92,17 @@ alternately; two kettledrum sticks answer the purpose still better. It
 is understood that the cymbals play the same music as the bass drum
 unless the composer has written _senza piatti_ over the part. Wagner did
 not once score for the bass drum after he composed _Rienzi_, but Verdi,
-Gounod, Berlioz and Sullivan used it effectively. The bass drum was
+[[Gounod]], [[Berlioz]] and Sullivan used it effectively. The bass drum was
 formerly known as the _long drum_, the cylinder being long in proportion
 to the diameter.
 
 The _side_ or _snare drum_ (Fr. _tambour militaire_; Ger.
 _Militärtrommel_; Ital. _tamburo militare_) is an instrument consisting
-of a small wooden or brass cylinder with a vellum at each end. The
+of a small wooden or [[Brass|brass]] cylinder with a vellum at each end. The
 parchments are lapped over small hoops and pressed firmly down by larger
 hoops. As in the bass drum, these and the vellums are tightened or
 slackened by means of cords and leather braces, or by a system of rods
-and screws. Across the lower head are stretched two or more catgut
+and screws. Across the lower head are stretched two or more [[Catgut|catgut]]
 strings called snares, which produce a rattling sound at each stroke on
 the upper head, owing to the sympathetic vibration of the lower head
 which jars against the snares. The upper head, set in vibration by
@@ -132,7 +132,7 @@ rattling tremolo. This roll ("daddy-mammy") is very difficult to
 acquire, and requires long practice. The side drum can be muffled by
 loosening the snares or by inserting a piece of silk or cloth between
 the snares and the parchment. An impressive effect is produced by a
-continued roll on muffled drums in funeral marches. The notation for the
+continued roll on muffled drums in funeral [[Marches|marches]]. The notation for the
 side drum is similar to that in use for the bass drum; the value of the
 note is alone of importance; the place of the note on the staff is
 immaterial and purely a matter of custom. In orchestral scores, a single
@@ -151,7 +151,7 @@ military bands, in some theatre orchestras, and on the stage.
 The _tambourin de Provence_ is a small drum with a long cylinder of
 narrow diameter used in the Basque provinces with a small pipe
 (_galoubet_) having three holes. The drum is beaten with one stick only,
-the performer steadying it with the hand which fingers the pipe. The
+the performer steadying it with the hand which [[Finger|fingers]] the pipe. The
 tambourin and galoubet are in fact a survival of the pipe and tabor
 (q.v.).
 
@@ -161,10 +161,10 @@ instrument in a variety of shapes and sizes on the monuments and
 paintings of Egypt, Assyria, India and Persia. The _tympanon_, under
 which name seem to have been included tambourines and kettledrums, as
 well as the dulcimer (during the middle ages), was in use among Greeks
-and Romans chiefly in the worship of Cybele and Bacchus; it was
+and Romans chiefly in the worship of [[Cybele]] and Bacchus; it was
 introduced through the medium of the Roman civilization into western
 Europe. It is often said that the drum was introduced by the crusaders,
-but it was certainly known in England long before the crusades, for Bede
+but it was certainly known in England long before the [[Crusades|crusades]], for [[Bede]]
 (_Musica practica_) mentions it in his list of instruments, and
 Cassiodorus (ii. p. 507) describes it. The side drum was, until the
 reign of Elizabeth, of a much larger size than now and was held
@@ -173,7 +173,7 @@ snares were added; Praetorius (_Syntagma musicum_, 1618) and Mersenne
 (_L'Harmonie universelle_, Paris, 1636) both mention them. A drawing of
 a side drum showing a snare appears in a book[2] from the printing press
 of J. Badius Ascensius (1510); the instrument also has cords and braces.
-Another woodcut of the same century is given as frontispiece to an
+Another woodcut of the same century is given as [[Frontispiece|frontispiece]] to an
 edition of Flavius Vegetius Renatus.[3] An actual side drum with two
 curved drumsticks belonging to the ancient Egyptians was found during
 the excavations conducted at Thebes in 1823.[4] It measured 1½ ft. in
@@ -197,15 +197,15 @@ pipenede loude and made a great schowte upon the Skottes."
 
 Froissart, under date 1338, gives details of the means taken by the
 Scots to intimidate the soldiers of Edward III.[5] Having mentioned
-their great horns, he adds, "ils font si grand' noise avec grands
+their great [[Horn|horns]], he adds, "ils font si grand' noise avec grands
 tambours qu'ils ont aussi." The same chronicler, describing the
 triumphal entry of Edward III. into Calais (1347), gives the following
 list of instruments used: "trompes, tambours, nacaires, chalemies,
 muses."[6]
 
 Drums were used in the British army in the 16th century to give signals
-in war and peace-side drums by the infantry and dragoons, and
-kettledrums by the cavalry.[7] In the reign of Henry VIII. two drummers
+in war and peace-side drums by the infantry and [[Dragoon|dragoons]], and
+kettledrums by the [[Cavalry|cavalry]].[7] In the reign of Henry VIII. two drummers
 were allowed to every company of 100 men. The chief drum beats used by
 the infantry in the 17th century[8] were _call_, _troop_, _preparative_,
 _march_, _battaile_ and _retreat_; these were later[9] changed to
@@ -216,22 +216,22 @@ Marais (1636-1728) scored for it in his opera _Alcione_.     (K. S.)
 
 FOOTNOTES:
 
-  [1] See Victor Mahillon, _Catalogue descriptif_ (Ghent, 1880), vol.
+  [1] See Victor Mahillon, _[[Catalogue]] descriptif_ ([[Ghent]], 1880), vol.
     i. pp. 19 and 20.
 
   [2] Joannes Mauburnius, _Rosetum exercitiorum spiritualium et
     sacrarum meditationum_ (Paris, 1510), Alphabetum, ix.
 
   [3] _Vier Bücher der Ritterschaft; mit manicherleyen gerüsten_, &c.;
-    (Augsburg, 1534).
+    ([[Augsburg]], 1534).
 
-  [4] Carl Engel, _The Music of the Most Ancient Nations_ (London,
+  [4] Carl [[Engel]], _The Music of the Most Ancient Nations_ (London,
     1864), p. 219.
 
   [5] _Chron._ ii. p. 737, see also Grose's _Military Antiquities_, ii.
     41.
 
-  [6] See Froissart in J. A. Buchon, _Panthéon litt._ (Paris, 1837),
+  [6] See Froissart in J. A. [[Buchon]], _Panthéon litt._ (Paris, 1837),
     vol. i. cap. 322, p. 273.
 
   [7] Sir John Smythe, _A Brief Discourse_ (London, 1594), pp. 158-159.

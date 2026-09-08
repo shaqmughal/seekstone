@@ -32,7 +32,7 @@ square of the distance. So also is the light received from it. Hence the
 brightness is the same at all distances.
 
 The word brightness is often used (even scientifically) in another sense
-from that just defined. Thus we speak of a bright star, of the
+from that just defined. Thus we speak of a [[Bright|bright]] star, of the
 question--When is Venus at its brightest? &c. Strictly, such expressions
 are not defensible except for sources of light which (like a star) have
 no apparent surface, so that we cannot tell from what amount of
@@ -46,7 +46,7 @@ distant objects; it does not increase the "apparent brightness." If we
 put out of account the loss of light by reflection at glass surfaces (or
 by imperfect reflection at metallic surfaces) and by absorption, and
 suppose that the magnifying power does not exceed the ratio of the
-aperture of the object-glass to that of the pupil, under which condition
+[[Aperture|aperture]] of the object-glass to that of the pupil, under which condition
 the pupil will be filled with light, we may say that the "apparent
 brightness" is absolutely unchanged by the use of a telescope. In this
 statement, however, two reservations must be admitted. If the object
@@ -65,7 +65,7 @@ explanation is probably to be sought in imperfect action of the lens of
 the eye when the pupil is dilated to the utmost. Lord Rayleigh found
 that in a nearly dark room he became distinctly short-sighted, a defect
 of which there is no trace whatever in a moderate light. If this view be
-correct, the brightness of the image on the retina is really less in the
+correct, the brightness of the [[Image|image]] on the retina is really less in the
 case of a small than in the case of a large object, although the
 so-called apparent brightnesses may be the same. However this may be,
 the utility of a night-glass is beyond dispute.
@@ -95,7 +95,7 @@ time, as the following quotation from Smith's _Optics_ (Cambridge,
 
 A very important fact connected with our present subject is: The
 brightness of a self-luminous surface does not depend upon its
-inclination to the line of sight. Thus a red-hot ball of iron, free from
+inclination to the line of sight. Thus a red-hot [[Ball|ball]] of iron, free from
 scales of oxide, &c., appears flat in the dark; so, also, the sun, seen
 through mist, appears as a flat disk. This fact, however, depends
 ultimately upon the second law of thermodynamics (see RADIATION). It may
@@ -112,7 +112,7 @@ from a luminous surface is proportional to the cosine of the obliquity.
   represents the illumination of the surface on which it falls. The flow
   through unit of surface whose normal is inclined at an angle [theta]
   to the ray is of course [mu]r^(-2) cos [theta], again representing the
-  illumination. These are precisely the expressions for the gravitation
+  illumination. These are precisely the expressions for the [[Gravitation|gravitation]]
   force exerted by a particle of mass [mu] on a unit of matter at
   distance r, and for its resolved part in a given direction. Hence we
   may employ an expression V = [Sigma][mu]r^(-1), which is exactly
@@ -139,7 +139,7 @@ from a luminous surface is proportional to the cosine of the obliquity.
   the same side as that from which it is regarded.
 
   Though this process bears some resemblance to the heat analogy
-  employed by Lord Kelvin (Sir W. Thomson) for investigations in
+  employed by Lord [[Kelvin]] (Sir W. Thomson) for investigations in
   statical electricity and to Clerk Maxwell's device of an
   incompressible fluid without mass, it is by no means identical with
   them. Each method deals with a substance, real or imaginary, which
@@ -184,7 +184,7 @@ then, in the instinctive transference of an idea from one medium to
 another; the more spontaneous it be and the less laboured in
 application, the better.
 
-Leaving on one side the illuminated manuscripts of the middle ages (see
+Leaving on one side the illuminated [[Manuscript|manuscripts]] of the middle ages (see
 ILLUMINATED MSS.) we start with the fact that illustration was
 coincident with the invention of printing. Italian art produced many
 fine examples, notably the outline illustrations to the _Poliphili
@@ -192,17 +192,17 @@ Hypneratomachia_, printed by Aldus at Venice in the last year of the
 15th century. Other early works exist, the products of unnamed artists
 of the French, German, Spanish and Italian schools; while of more
 singular importance, though not then brought into book form, were the
-illustrations to Dante's _Divine Comedy_ made by Botticelli at about the
+illustrations to Dante's _Divine Comedy_ made by [[Botticelli]] at about the
 same period. The sudden development of engraving on metal and wood drew
 many painters of the Renaissance towards illustration as a further
 opportunity for the exercise of their powers; and the line-work, either
 original or engraved by others, of Pollajuolo, Mantegna, Michelangelo
-and Titian has its place in the gradual enlargement of illustrative art.
+and Titian has its place in the [[Gradual|gradual]] enlargement of illustrative art.
 The German school of the 16th century committed its energies even more
 vigorously to illustration; and many of its artists are now known
 chiefly through their engravings on wood or copper, a good proportion of
 which were done to the accompaniment of printed matter. The names of
-Dürer, Burgmair, Altdorfer and Holbein represent a school whose engraved
+Dürer, Burgmair, Altdorfer and [[Holbein]] represent a school whose engraved
 illustrations possess qualities which have never been rivalled, and
 remain an invaluable aid to imitators of the present day.
 
@@ -217,12 +217,12 @@ upon the illustration of the period and quickened it into a medium for
 true artistic expression. The etchers of the Low Countries during the
 17th century, with Rembrandt at their head, were to a great extent
 illustrators in their choice of subjects. In France the period of
-Watteau and Fragonard gave rise to a school of delicately engraved
-illustration, exquisite in detail and invention. In England Hogarth came
+Watteau and [[Fragonard]] gave rise to a school of delicately engraved
+illustration, exquisite in detail and invention. In England [[Hogarth]] came
 to be the founder of many new conditions, both in painting and
 illustration, and was followed by men of genius so distinct as Reynolds
 on the one side and Bewick on the other. With Reynolds one connects the
-illustrators and engravers for whom now Bartolozzi supplies a surviving
+illustrators and engravers for whom now [[Bartolozzi]] supplies a surviving
 name and an embodiment in his graceful but never quite English art. But
 it is from Thomas Bewick that the wonderfully consistent development of
 English illustration begins to date. Bewick marks an important period in
@@ -237,8 +237,8 @@ absent from it in the work of the 15th and 16th century German and
 Italian schools. Bewick's method started a new school; but the more racy
 qualities of his woodcuts were entirely dependent on the designer being
 his own cutter; and the same happy relationship gave distinct
-characteristics to the nearly contemporary work of William Blake and of
-Calvert. Blake's wonderful _Illustrations to the Book of Job_, while
+characteristics to the nearly contemporary work of William [[Blake]] and of
+[[Calvert]]. Blake's wonderful _Illustrations to the Book of Job_, while
 magnificent in their conventional rendering of light and shade, still
 retain the colourlessness of the old masters, as do also the more
 broadly handled designs to his own books of prophecy and verse; but in
@@ -252,7 +252,7 @@ Technically these engravings are far more able than those from which
 they drew their inspiration.
 
 With the exception of the two artists named, and in a minor degree of
-Thomas Stothard and John Flaxman, who also produced original
+Thomas Stothard and John [[Flaxman]], who also produced original
 illustrations, the period from the end of the 18th century till about
 the middle of the 19th was less notable for the work of the designer
 than of the engraver. The delicate plates to Rogers's _Italy_ were done
@@ -262,20 +262,20 @@ Bonington were merely studies of architecture and landscape made in a
 material that admitted of indefinite multiplication. It is true that
 Géricault came over to England about the year 1820 to draw the English
 race-horse and other studies of country life, which were published in
-London in 1821, and that other fine work in lithography was done by
-James Ward, G. Cattermole, and somewhat later by J. F. Lewis. But
+London in 1821, and that other fine work in [[Lithography|lithography]] was done by
+James Ward, G. [[Cattermole]], and somewhat later by J. F. [[Lewis]]. But
 illustration proper, subject-illustration applied to literature, was
 mainly in the hands of the wood-engravers; and these, forming a really
 fine school founded on the lines which Bewick had laid down, had for
 about thirty years to content themselves with rendering the works of
-ephemeral artists, among whom Benjamin R. Haydon and John Martin stand
+ephemeral artists, among whom [[Benjamin]] R. [[Haydon]] and John [[Martin]] stand
 out as the chief lights. It must not be forgotten, however, that while
 the day of a serious English school of illustration had not yet come,
-Great Britain possessed an indigenous tradition of gross and lively
+Great Britain possessed an indigenous tradition of [[Gross|gross]] and lively
 caricature; a tradition of such robust force and vulgarity that, by the
 side of some choicer specimens of James Gillray and Henry W. Bunbury,
 the art of Rowlandson appears almost refined. This was the school in
-which George Cruikshank, John Leech, and the Dickens illustrators had
+which George [[Cruikshank]], John Leech, and the [[Dickens]] illustrators had
 their training, from which they drew more and more away; until, with the
 help of _Punch_, just before the middle of the 19th century, English
 caricaturists had learned the secret of how to be apposite and amusing
@@ -311,7 +311,7 @@ engraving which flourished during the 'sixties, and lasted just so long
 as its conditions were unimpaired--losing its flavour only at the moment
 when "improved" mechanical appliances enabled the artist once more to
 dissociate himself from the conditions which bound the engraver in his
-craft.
+[[Craft|craft]].
 
 
   Pre-Raphaelite movement.
@@ -326,7 +326,7 @@ others; but their methods were too vague and diffuse to bear as yet the
 mark of a school; no single influence gave a unity to their efforts. On
 some of them Adolf von Menzel's illustrations to Kügler's _Frederick the
 Great_, published in England in 1844, may have left a mark; Gilbert
-certainly shows traces of the influence of Delacroix and Bonington in
+certainly shows traces of the influence of [[Delacroix]] and Bonington in
 the free, loose method of his draughtsmanship, independent of accurate
 modelling, and with here and there a paint-like dab of black to relieve
 a generally colourless effect; while Tenniel, with cold, precise lines
@@ -339,13 +339,13 @@ it antedates, so to the end does it stand somewhat removed in character
 from, the school with which for a time it became contemporary. The year
 which decisively marked the beginning of new things in illustration was
 1857, the year of the Moxon _Tennyson_ and of Wilmott's _Poets of the
-Nineteenth Century_, with illustrations by Rossetti, Millais, Holman
-Hunt and Ford Madox Brown. In these artists we get the germ of the
+Nineteenth Century_, with illustrations by Rossetti, Millais, [[Holman]]
+[[Hunt]] and Ford Madox Brown. In these artists we get the germ of the
 movement which afterwards came to have so wide a popularity. At the
 beginning, Pre-Raphaelite in name, poetic and literary in its choice of
 subjects, the school quickly expanded to an acceptance of those open-air
 and everyday subjects which one connects with the names of Frederick
-Walker, Arthur B. Houghton, G. F. Pinwell and M. North. The
+Walker, Arthur B. [[Houghton]], G. F. Pinwell and M. North. The
 illustrations of the Pre-Raphaelites were eminently thoughtful, full of
 symbolism, and with a certain pressure of interest to which the epithet
 of "intense" came to be applied. As an example of their method of
@@ -364,7 +364,7 @@ Of this phase Rossetti must be accounted the leader, but it was Millais
 who, by the sheer weight of his personality, carried English
 illustration along with him from Pre-Raphaelitism to the freer
 romanticism and naturalistic tendencies of the 'sixties. Rossetti, with
-his poetic enthusiasm, his strong personal magnetism and dramatic power
+his poetic [[Enthusiasm|enthusiasm]], his strong personal magnetism and dramatic power
 of composition, may be said to have brought about the awakening; it was
 Millais who, by his rapid development of style, his original and daring
 technique, turned it into a movement. When he started, there were many
@@ -402,11 +402,11 @@ Frederick Sandys. His illustrations, scattered through nearly all the
 magazines which have been named, show always a decorative power of
 design and are full of fine drawing and fine invention, but remain
 resolutely cold in handling and lacking in imaginative ardour. The few
-illustrations done by Burne-Jones at this period show a whole-hearted
+illustrations done by [[Burne-Jones]] at this period show a whole-hearted
 following of Rossetti, but a somewhat struggling technique; and the same
 qualities are to be found in the work of Arthur Hughes, whose
-illustrations in _Good Words for the Young_ (1869) have a charm of
-tender poetic invention showing through the faults and persistent
+illustrations in _Good Words for the Young_ (1869) have a [[Charm|charm]] of
+tender poetic invention showing through the [[Fault|faults]] and persistent
 uncertainty of his draughtsmanship. The illustrations of Frederick
 Shields to Defoe's _History of the Plague_ have a certain affinity to
 the work of Sandys; but, with less power over form, they show a more
@@ -428,9 +428,9 @@ naturalism and popular romance, the men to whom more particularly is
 given the name of the period and school "the 'sixties," and whose more
 immediate leader, as far as popular estimation goes, was Frederick
 Walker. With his, one may roughly group the names of Pinwell, Houghton,
-North, Charles Keene, Lawless, Matthew J. Mahoney, Morten and, with a
+North, Charles [[Keene]], Lawless, [[Matthew]] J. Mahoney, Morten and, with a
 certain reservation, W. Small and G. du Maurier. In no very separate
-category stand two other artists whose contributions to illustration
+[[Category|category]] stand two other artists whose contributions to illustration
 were but incidental, John Pettie and J. M'Neill Whistler. The broad
 characteristics of this variously related group were a loose, easy line
 suggestive of movement, a general fondness for white spaces and open-air
@@ -439,9 +439,9 @@ of domestic and rural life. They treated the present with a feeling
 rather idyllic than realistic; when they touched the past it was with a
 courteous sort of realism, and a wonderful inventiveness of detail which
 carried with it a charm of conviction. Walker's method shows a broad and
-vivid use of black and white, with a fine sense of balance, but very
+vivid use of black and white, with a fine sense of [[Balance|balance]], but very
 little preoccupation for decorative effect. Pinwell had a more delicate
-fancy, but less freedom in his technique--less ease, but more
+[[Fancy|fancy]], but less freedom in his technique--less ease, but more
 originality of composition. In Houghton's work one sees a swift,
 masterful technique, full of audacity, noble in its economy of means,
 sometimes rough and careless. His temperament was dramatic, passionate,
@@ -462,25 +462,25 @@ hungry rush for the record of latest events, became a weekly feature.
 Its waning influence may be plainly traced through the early years of
 the _Graphic_, which started in 1869 with some really fine work, done
 under transitional conditions before the engraver's rendering of
-tone-drawings once more ousted facsimile from its high place in
+tone-drawings once more ousted facsimile from its [[High Place|high place]] in
 illustration.
 
 In connexion with this transitional period, drawings for the _Graphic_
-by Houghton, Pinwell, Sir Hubert von Herkomer, E. J. Gregory, H. Woods,
+by Houghton, Pinwell, Sir [[Hubert]] von Herkomer, E. J. Gregory, H. Woods,
 Charles Green, H. Paterson (Mrs Allingham) and William Small deserve
-honourable mention. Yet it was the last-named who was mainly
+[[Honourable|honourable]] mention. Yet it was the last-named who was mainly
 instrumental in bringing about the change from line-work to pigment,
 which depressed the artistic value of illustration during the 'seventies
 and the 'eighties to almost absolute mediocrity. Several artists of
 great ability practised illustration during this period: in addition to
-those _Graphic_ artists already mentioned there were Luke Fildes, Frank
-Holl, S. P. Hall, Paul Renouard and a few others of smaller merit. But
+those _Graphic_ artists already mentioned there were [[Luke]] [[Fildes]], [[Frank]]
+[[Holl]], S. P. Hall, Paul Renouard and a few others of smaller merit. But
 the interest was for the time shifting from black-and-white work and
 turning to colour. Kate Greenaway began to produce her charming idyllic
 renderings of children in mob-caps and long skirts. Walter Crane on
 somewhat similar lines designed his illustrated nursery rhymes; while
 Randolph Caldecott took the field with his fresh and breezy scenes of
-hunting life and carousal in the times most typical of the English
+[[Hunting|hunting]] life and carousal in the times most typical of the English
 squirearchy. Working with a broad outline, suggestive of the brush by
 its easy freedom, and adding washes of conventional colour for
 embellishment, he was one of the first in England to show the beginnings
@@ -489,18 +489,18 @@ illustrated books for children; while in black and white, in his
 illustrations to _Bracebridge Hall_ (1876), for instance, pen and ink
 began to replace the pencil, and to produce a new and more independent
 style of draughtsmanship. This style was taken up and followed by many
-artists of ability, by Harry Furniss, Hugh Thomson and others, till the
+artists of ability, by Harry [[Furniss]], Hugh Thomson and others, till the
 influence of E. A. Abbey's more mobile and more elaborate penmanship
 came to produce a still further development in the direction of fineness
 and illusion, and that of Phil May, with Linley Sambourne for his
 teacher, to simplify and make broad for those who aimed rather at a
 journalistic and shorthand method of illustration. (See also CARICATURE
-and CARTOON.)
+and [[Cartoon|CARTOON]].)
 
   Under the absolutely liberating conditions of "process reproduction"
   (see PROCESS) the latest developments in illustration on its lighter
   and more popular side are full of French influences, or ready to
-  follow the wind in any fresh direction, whether to America or Japan;
+  follow the wind in any fresh direction, whether to America or [[Japan]];
   but on the graver side they show a strong leaning towards the older
   traditions of the 'sixties and of Pre-Raphaelitism. The founding by
   William Morris of the Kelmscott Press in 1891, through which were
@@ -509,18 +509,18 @@ and CARTOON.)
   sense of material claimed mastery over the whole scheme, and subdued
   the illustrations to a sort of glorious captivity into which no breath
   of modern spirit could be breathed. The illustrations of Burne-Jones
-  filled with a happy touch of archaism the decorative borders of
+  filled with a happy touch of archaism the decorative [[Borders|borders]] of
   William Morris; and only a little less happy, apart from their
   imaginative inferiority, were the serious efforts of Walter Crane and
   one or two others. Directly under the Morris influence arose the
-  "Birmingham school," with an entire devotion to decorative methods and
+  "[[Birmingham]] school," with an entire devotion to decorative methods and
   still archaic effects which tended sometimes to rather inane
   technical results. Among its leaders may be named Arthur Gaskin, C. M.
   Gere and E. H. New; while work not dissimilar but more independent in
-  spirit had already been done by Selwyn Image and H. P. Horne in the
+  spirit had already been done by Selwyn Image and H. P. [[Horne]] in the
   _Century Guild Hobby-Horse_. But far greater originality and force
   belonged to the work of a group, known for a time as the
-  neo-Pre-Raphaelites, which joined to an earnest study of the past a
+  neo-Pre-Raphaelites, which joined to an [[Earnest|earnest]] study of the past a
   scrupulously open mind towards more modern influences. Its earliest
   expression of existence was the publication of an occasional
   periodical, the _Dial_ (1889-1897), but before long its influence
@@ -538,7 +538,7 @@ and CARTOON.)
   publications), and a studied note of world-weariness, kept them
   somewhat apart from the sturdy medievalism of Morris, and linked them
   intellectually with the decadent school initiated by the wayward
-  genius of Aubrey Beardsley. But though broadly men may be classed in
+  genius of [[Aubrey]] [[Beardsley]]. But though broadly men may be classed in
   groups, no grouping will supply a formula for all the noteworthy work
   produced when men are drawn this way and that by current influences.
   Among artists resolutely independent of contemporary coteries may be
@@ -562,11 +562,11 @@ and CARTOON.)
     United States.
 
   In America, until a comparatively recent date, illustration bowed the
-  knee to the superior excellence of the engraver over the artist. Not
+  [[Knee|knee]] to the superior excellence of the engraver over the artist. Not
   until the brilliant pen-drawing of E. A. Abbey carried the day with
   the black-and-white artists of England did any work of real moment
   emanate from the United States, unless that of Elihu Vedder be
-  regarded as an exception. Howard Pyle is a brilliant imitator of
+  regarded as an exception. [[Howard]] Pyle is a brilliant imitator of
   Dürer; he has also the ability to adapt himself to draughtsmanship of
   a more modern tendency. C. S. Reinhart was an artist of directness and
   force, in a style based upon modern French and German examples; while
@@ -574,8 +574,8 @@ and CARTOON.)
   fanciful penmanship of Alfred Brennan. Other artists who stand in the
   front rank of American illustrators, and whose works appear chiefly in
   the pages of _Scribner's_, _Harper's_ and the _Century Magazine_, are
-  W. T. Smedley, F. S. Church, R. Blum, Wenzell, A. B. Frost, and in
-  particular C. Dana Gibson, the last of whom gained a reputation in
+  W. T. Smedley, F. S. Church, R. Blum, Wenzell, A. B. [[Frost]], and in
+  particular C. [[Dana]] [[Gibson]], the last of whom gained a reputation in
   England as an American du Maurier.
 
 
@@ -586,22 +586,22 @@ and CARTOON.)
   the triumphs of early lithography. The illustrators of France at that
   period were also her greatest artists. Of the historical and romantic
   school were D. Raffet, Nicholas J. Charlet, Géricault, Delacroix, J.
-  B. Isabey and Achille Devéria, many of whose works appeared in
+  B. [[Isabey]] and Achille Devéria, many of whose works appeared in
   _L'Artiste_, a paper founded in 1831 as the official organ of the
   romanticists; while the realists were led in the direction of
-  caricature by two artists of such enormous force as Gavarni and Honoré
-  Daumier, whose works, appearing in _La Lithographie Mensuelle_, _Le
-  Charivari_ and _La Caricature_, ran the gauntlet of political
+  caricature by two artists of such enormous force as [[Gavarni]] and Honoré
+  [[Daumier]], whose works, appearing in _La Lithographie Mensuelle_, _Le
+  Charivari_ and _La Caricature_, ran the [[Gauntlet|gauntlet]] of political
   interference and suppression during a troubled period of French
   politics--which was the very cause of their prosperity. Behind these
-  men lay the influence of the great Spanish realist Goya. Following
+  men lay the influence of the great Spanish realist [[Goya]]. Following
   upon the harsh satire and venomous realism of this famous school of
-  pictorial invective, the influence of the Barbizon school came as a
+  pictorial invective, the influence of the [[Barbizon]] school came as a
   milder force; but the power of its artists did not show in the
   direction of original lithography, and far more value attaches to the
   few woodcuts of J. F. Millet's studies of peasant life. In these we
   see clearly the tendency of French illustrative art to keep as far as
-  possible the authentic and sketch-like touch of the artist; and it was
+  possible the [[Authentic|authentic]] and sketch-like touch of the artist; and it was
   no doubt from this tendency that so many of the great French
   illustrators retained lithography rather than commit themselves to the
   middleman engraver. Nevertheless, from about the year 1830 many French
@@ -615,22 +615,22 @@ and CARTOON.)
   drawing for the engraver seems to have been done with the pen; and the
   tendency to penmanship was still more accentuated when from Spain came
   the influence of M. J. Fortuny's brilliant technique; while after him,
-  again, came Daniel Vierge, to make, as it were, the point of the pen
+  again, came [[Daniel]] Vierge, to make, as it were, the point of the pen
   still more pointed. During the middle period of the 19th century the
   best French illustration was serious in character; but among the later
   men, when we have recognized the grave beauty of Grasset's _Les Quatre
   Fils d'Aymon_ (in spite of his vicious treatment of the page by
   flooding washes of colour through the type itself), and the delicate
-  grace of Boutet de Monvel's _Jeanne d'Arc_, also in colours, it is to
+  [[Grace|grace]] of Boutet de Monvel's _Jeanne d'Arc_, also in [[Colours|colours]], it is to
   the illustrators of the comic papers that we have to go for the most
   typical and most audacious specimens of French art. In the pages of
   _Gil Blas_, _Le Pierrot_, _L'Écho de Paris_, _Le Figaro Illustré_, _Le
   Courrier Français_, and similar publications, are to be found,
   reproduced with a dexterity of process unsurpassed in England, the
-  designs of J. L. Forain, C. L. Léandre, L. A, Willette and T. A.
+  designs of J. L. [[Forain]], C. L. Léandre, L. A, Willette and T. A.
   Steinlen, the leaders of a school enterprising in technique, and with
-  a mixture of subtlety and grossness in its humour. Caran d'Ache also
-  became celebrated as a draughtsman of comic drama in outline.
+  a mixture of subtlety and grossness in its [[Humour|humour]]. [[Caran D'Ache|Caran d'Ache]] also
+  became celebrated as a draughtsman of comic [[Drama|drama]] in outline.
 
 
     Germany.
@@ -640,8 +640,8 @@ and CARTOON.)
   in some respects his technical superior; but apart from these two, the
   illustrators respectively of Kügler's _Frederick the Great_ and
   Holberg's _Comedies_, there is no German, Danish or Dutch illustrator
-  who can lay claim to first rank. Max Klinger, A. Böcklin, W. Trübner,
-  Franz Stück and Hans Thoma are all symbolists who combine in a
+  who can lay claim to first rank. Max [[Klinger]], A. Böcklin, W. Trübner,
+  [[Franz]] Stück and Hans Thoma are all symbolists who combine in a
   singular degree force with brutality; the imaginative quality in their
   work is for the most part ruined by the hard, braggart way in which it
   is driven home. The achievements and tendency of the later school of
@@ -650,13 +650,13 @@ and CARTOON.)
   work of Adolf Oberländer, a solid, scientific sort of caricaturist,
   whose illustrations are at times so monumental that the humour in them
   seems crushed out of life. Others who command high qualities of
-  technique are W. Dietz, L. von Nagel, Hermann Vogel, H. Lüders and
+  technique are W. Dietz, L. von Nagel, [[Hermann]] Vogel, H. Lüders and
   Robert Haug. Behind all these men in greater or less degree lies the
   influence of Menzel's coldly balanced and dry-lighted realism; but
   wherever the influence of Menzel ceases, the merit of German
   illustration for the most part tends to disappear or become mediocre.
 
-  AUTHORITIES.--W. J. Linton, _The Masters of Wood Engraving_ (London,
+  AUTHORITIES.--W. J. [[Linton]], _The Masters of Wood Engraving_ (London,
   1889); C. G. Harper, _English Pen Artists of To-day_ (London, 1892);
   Joseph Pennell, _Pen Drawing and Pen Draughtsmen_ (London, 1894),
   _Modern Illustration_ (London, 1895); Walter Crane, _The Decorative
@@ -675,7 +675,7 @@ artists, during the period since the year 1875, is mainly that of the
 development of what is called Process (q.v.), the term applied to
 methods of reproducing a drawing or photograph which depend on the use
 of some mechanical agency in the making of the block, as distinguished
-from such products of manual skill as steel or wood-engraving,
+from such products of [[Manual|manual]] skill as steel or wood-engraving,
 lithography and the like. There is good reason to believe that the art
 of stereotyping--the multiplication of an already existing block by
 means of moulds and casts--is as old as the 15th century; and the early
@@ -701,7 +701,7 @@ similar experiments at about the same time.
   block to be so broken up that every tone of the drawing should be
   represented thereon by a grain holding ink enough to reproduce it.
   This was finally accomplished by the insertion of a screen, in the
-  camera, between the lens and the plate--the effect of which was to
+  [[Camera|camera]], between the lens and the plate--the effect of which was to
   break up the whole surface of the negative into dots, and so secure,
   when printed on a zinc plate and etched, an approximation to the
   desired result. Half-tone blocks (as they were called) of this nature
@@ -734,7 +734,7 @@ similar experiments at about the same time.
   time in England was colour-printing. The _Graphic_ and the
   _Illustrated London News_ published full-page supplements of high
   technical merit printed from wood-blocks in conjunction with metal
-  plates, the latter sometimes having a relief aquatint surface which
+  plates, the latter sometimes having a relief [[Aquatint|aquatint]] surface which
   produced an effect of stipple upon the shading; metal was also used in
   preference to wood for the printing of certain colours. The children's
   books illustrated by Randolph Caldecott, Walter Crane and Kate
@@ -776,7 +776,7 @@ similar experiments at about the same time.
   increase in the numbers and circulation of cheap periodical
   publications depending to a very large extent for popularity on their
   illustrations. Several of these, printed on the coarsest paper, from
-  rotary machines, sell to the extent of hundreds of thousands of copies
+  rotary [[Machine|machines]], sell to the extent of hundreds of thousands of copies
   per week. It was inevitable that this cheapening process should not be
   permitted to develop without opposition, and the _Dial_ (1889-1897)
   must be looked on as a protest by the band of artists who promoted it

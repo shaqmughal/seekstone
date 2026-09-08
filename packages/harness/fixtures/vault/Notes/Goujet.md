@@ -1,8 +1,8 @@
 # Goujet
 
-GOUJET, CLAUDE PIERRE (1697-1767), French abbe and litterateur, was born
+GOUJET, [[Claude|CLAUDE]] PIERRE (1697-1767), French abbe and litterateur, was born
 in Paris on the 19th of October 1697. He studied at the College of the
-Jesuits, and at the College Mazarin, but he nevertheless became a strong
+[[Jesuits]], and at the College Mazarin, but he nevertheless became a strong
 Jansenist. In 1705 he assumed the ecclesiastical habit, in 1719 entered
 the order of Oratorians, and soon afterwards was named canon of St
 Jacques l'Hopital. On account of his extreme Jansenist opinions he
@@ -19,7 +19,7 @@ at Paris on the 1st of February 1767.
   vols., 1730); he also wrote _Memoires historiques et litteraires sur
   le college royal de France_ (1758); _Histoire des Inquisitions_
   (Paris, 1752); and supervised an edition of Richelet's _Dictionnaire_,
-  of which he has also given an abridgment. He helped the abbe Fabre in
+  of which he has also given an abridgment. He helped the abbe [[Fabre]] in
   his continuation of Fleury's _Histoire ecclesiastique_.
 
   See _Memoires hist. et litt. de l'abbe Goujet_ (1767).

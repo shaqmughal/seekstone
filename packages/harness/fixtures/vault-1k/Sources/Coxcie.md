@@ -13,7 +13,7 @@ this branch of art. But his productions were till lately concealed under
 an interlaced monogram M.C.O.K.X.I.N. Coxcie returned in 1539 to
 Malines, where he matriculated, and painted for the chapel of the gild
 of St Luke the wings of an altarpiece now in Sanct Veit of Prague. The
-centre of this altarpiece, by Mabuse, represents St Luke portraying the
+centre of this altarpiece, by [[Mabuse]], represents St Luke portraying the
 Virgin; the side pieces contain the Martyrdom of St Vitus and the Vision
 of St John in Patmos. At van Orley's death in 1541 Coxcie succeeded to
 the office of court painter to the regent Mary of Hungary, for whom he

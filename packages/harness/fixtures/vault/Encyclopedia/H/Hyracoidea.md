@@ -8,7 +8,7 @@ family _Procaviidae_. These creatures have no proper English name, and
 are generally known as hyraxes, from the scientific term (_Hyrax_) by
 which they were for many years designated--a term which has
 unfortunately had to give place to the earlier _Procavia_. In size these
-animals may be compared roughly to rabbits and hares; and they have
+animals may be compared roughly to rabbits and [[Hare|hares]]; and they have
 rodent-like habits, hunching up their backs after the fashion of some
 foreign members of the hare-family, more especially the Liu-Kiu rabbit.
 In the matter of nomenclature these animals have been singularly
@@ -33,17 +33,17 @@ which has been anglicized into "dassie."
   but sharp-pointed. They are preceded by functional, rooted milk-teeth.
   The lower incisors have long tapering roots, but not of persistent
   growth; and are straight, directed somewhat forwards, with awl-shaped,
-  tri-lobed crowns. Behind the incisors is a considerable gap, followed
+  tri-lobed crowns. Behind the incisors is a considerable [[Gap|gap]], followed
   by the cheek-teeth, which are all contiguous, and formed almost
   exactly on the pattern of some of the perissodactyle ungulates. The
   milk-dentition includes three pairs of incisors and one of canines in
-  each jaw. The hyoid arch is unlike that of any known mammal. The
+  each jaw. The hyoid [[Arch|arch]] is unlike that of any known mammal. The
   dorsal and lumbar vertebrae are very numerous, 28 to 30, of which 21
   or 22 bear ribs. The tail is extremely short. There are no clavicles.
   In the fore foot, the three middle toes are subequally developed, the
   fifth is present, but smaller, and the first is rudimentary, although,
-  in one species at least, all its normal bones are present. The
-  terminal phalanges of the four outer digits are small, somewhat
+  in one species at least, all its normal [[Bone|bones]] are present. The
+  terminal phalanges of the four outer [[Digit|digits]] are small, somewhat
   conical and flattened in form. The carpus has a distinct os centrale.
   There is a slight ridge on the femur in the place of a third
   trochanter. The fibula is complete, thickest at its upper end, where
@@ -60,13 +60,13 @@ which has been anglicized into "dassie."
   sac_, lined by a very dense white epithelium, and a right pyloric
   cavity, with a thick, soft, vascular lining. The intestinal canal is
   long, and has, in addition to the ordinary short, but capacious and
-  sacculated caecum at the commencement of the colon, lower down, a pair
-  of large, conical, pointed caeca. The liver is much subdivided, and
+  sacculated caecum at the commencement of the [[Colon|colon]], lower down, a pair
+  of large, conical, pointed caeca. The [[Liver|liver]] is much subdivided, and
   there is no gall-bladder. The brain resembles that of typical
   ungulates far more than that of rodents. The testes are permanently
-  abdominal. The ureters open into the fundus of the bladder as in some
+  abdominal. The ureters open into the fundus of the [[Bladder|bladder]] as in some
   Rodents. The female has six teats, of which four are inguinal and two
-  axillary, and the placenta is zonary and deciduous. There is a gland
+  axillary, and the placenta is zonary and [[Deciduous|deciduous]]. There is a gland
   on the back.
 
   [Illustration: FIG. 2.--Skull and Dentition of Tree-Hyrax (_Procavia
@@ -82,13 +82,13 @@ which has been anglicized into "dassie."
   eastern Africa. They inhabit mountainous and rocky regions, and live
   on the ground. In a second section the molar teeth have the same
   pattern as in _Palaeotherium_ (except that the third lower molar has
-  but two lobes); the interval between the upper incisors exceeds the
+  but two [[Lobe|lobes]]); the interval between the upper incisors exceeds the
   width of the teeth; and the lower incisors have distinctly tri-lobed
   crowns. Vertebrae: C. 7, D. 21, L. 7, S. 5, C. 10. The members of this
   section frequent the trunks and large branches of trees, sleeping in
   holes. There are several species from Western and South Africa, as _P.
   arboreus_ and _P. dorsalis_. The members of both groups appear to have
-  a power like that possessed by geckos of clinging to vertical surfaces
+  a power like that possessed by [[Gecko|geckos]] of clinging to vertical surfaces
   of rocks and trees by the soles of their feet.
 
   _Extinct Hyracoids._--For many years extinct representatives of the
@@ -138,20 +138,20 @@ which has been anglicized into "dassie."
   forms. In fact the hyraxes were then almost as distinct from other
   mammals as they are at the present day.
 
-  See also C. W. Andrews, _Descriptive Catalogue of the Tertiary
+  See also C. W. Andrews, _Descriptive [[Catalogue]] of the Tertiary
   Vertebrata of the Fayum_, British Museum (1906).     (R. L.*)
 
 
 
 
-HYRCANIA. (1) An ancient district of Asia, south of the Caspian Sea, and
+HYRCANIA. (1) An ancient district of Asia, south of the [[Caspian Sea]], and
 bounded on the E. by the river Oxus, called _Virkana_, or "Wolf's Land,"
 in Old Persian. It was a wide and indefinite tract. Its chief city is
-called Tape by Strabo, Zadracarta by Arrian (probably the modern
-Astarabad). The latter is evidently the same as Carta, mentioned by
+called Tape by Strabo, Zadracarta by [[Arrian]] (probably the modern
+[[Astarabad]]). The latter is evidently the same as Carta, mentioned by
 Strabo as an important city. Little is known of the history of the
-country. Xenophon says it was subdued by the Assyrians; Curtius that
-6000 Hyrcanians were in the army of Darius III. (2) Two towns named
+country. Xenophon says it was subdued by the Assyrians; [[Curtius]] that
+6000 Hyrcanians were in the army of [[Darius]] III. (2) Two towns named
 Hyrcania are mentioned, one in Hyrcania, the other in Lydia. The latter
 is said to have derived its name from a colony of Hyrcanians,
 transported thither by the Persians.

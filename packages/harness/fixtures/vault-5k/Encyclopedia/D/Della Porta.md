@@ -37,7 +37,7 @@ Carbonaria_ (1628); _La Cintia_ (1628). Among all the above-mentioned
 works the chief interest attaches to the _Magia naturalis_, in which a
 strange medley of subjects is discussed, including the reproduction of
 animals, the transmutation of metals, pyrotechny, domestic economy,
-statics, hunting, the preparation of perfumes. In book xvii. he
+statics, [[Hunting|hunting]], the preparation of perfumes. In book xvii. he
 describes a number of optical experiments, including a description of
 the camera obscura (q.v.).
 

@@ -15,12 +15,12 @@ and is a site of great historical interest. It received a charter in the
 reign of Edward III., at which time it was walled and fortified, and
 entered by four gates, two of which remain. It was a military post of
 importance in Elizabeth's reign, but its fortifications were for the
-most part demolished by order of Cromwell. Two castellated mansions are
+most part demolished by order of [[Cromwell]]. Two castellated mansions are
 still to be seen. The church of St Peter and St Paul belonged to a
 former abbey, and has a tower at the north-west corner which is a
 converted round tower. The Dominican Abbey, of the 13th century, has
 Early English remains of great beauty and a tomb to Edmund, the last of
-the White Knights, a branch of the family of Desmond intimately
+the White [[Knight|Knights]], a branch of the family of Desmond intimately
 connected with Kilmallock, who received their title from Edward III. at
 the battle of Halidon Hill. The foundation of Kilmallock, however, is
 attributed to the Geraldines, who had several towns in this vicinity.

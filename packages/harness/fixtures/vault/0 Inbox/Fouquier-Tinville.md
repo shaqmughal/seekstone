@@ -1,6 +1,6 @@
 # Fouquier-Tinville
 
-FOUQUIER-TINVILLE, ANTOINE QUENTIN (1746-1795), French revolutionist,
+FOUQUIER-TINVILLE, [[Antoine|ANTOINE]] QUENTIN (1746-1795), French revolutionist,
 was born at Herouel, a village in the department of the Aisne.
 Originally a _procureur_ attached to the Chatelet at Paris, he sold his
 office in 1783, and became a clerk under the lieutenant-general of
@@ -12,10 +12,10 @@ filled until the 28th of July 1794. His activity during this time earned
 him the reputation of one of the most terrible and sinister figures of
 the Revolution. His function as public prosecutor was not so much to
 convict the guilty as to see that the proscriptions ordered by the
-faction for the time being in power were carried out with a due regard
+[[Faction|faction]] for the time being in power were carried out with a due regard
 to a show of legality. He was as ruthless and as incorrupt as
 Robespierre himself; he could be moved from his purpose neither by pity
-nor by bribes; nor was there in his cruelty any of that quality which
+nor by bribes; nor was there in his [[Cruelty|cruelty]] any of that quality which
 made the ordinary Jacobin _enrage_ by turns ferocious and sentimental.
 It was this very quality of passionless detachment that made him so
 effective an instrument of the Terror. He had no forensic eloquence; but
@@ -33,7 +33,7 @@ to death, and guillotined on the 7th of May 1795.
   revolutionnaire_, &c. (Paris, 1794); Domenget, _Fouquier-Tinville et
   le tribunal revolutionnaire_ (Paris, 1878); H. Wallon, _Histoire du
   tribunal revolutionnaire de Paris_ (1880-1882) (a work of general
-  interest, but not always exact); George Lecocq, _Notes et documents
+  interest, but not always exact); George [[Lecocq]], _Notes et documents
   sur Fouquier-Tinville_ (Paris, 1885). See also the documents relating
   to his trial enumerated by M. Tourneux in _Bibliographie de l'histoire
   de Paris pendant la Revolution Francaise_, vol. i. Nos. 4445-4454

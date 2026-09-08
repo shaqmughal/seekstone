@@ -4,7 +4,7 @@ CARBORUNDUM, a silicide of carbon formed by the action of carbon on sand
 (silica) at high temperatures, which on account of its great hardness is
 an important abrasive, and also has possible applications in the
 metallurgy of iron and steel. Its name was derived from _carbon_ and
-_corundum_ (a form of alumina), from a mistaken view as to its
+_[[Corundum|corundum]]_ (a form of alumina), from a mistaken view as to its
 composition. It was first obtained accidentally in 1891 by Acheson in
 America, when he was experimenting with the electric furnace in the hope
 of producing artificial diamonds. The experiments were followed up in an

@@ -10,7 +10,7 @@ reference to a person's mental or bodily qualities, quick, nimble,
 adroit. (3) A nautical term for the holes cut in the flooring in a ship
 above the keelson, to allow water to drain to the pumps.
 
-  The etymology of these words is obscure. According to the _New English
+  The [[Etymology|etymology]] of these words is obscure. According to the _New English
   Dictionary_ the origin of (1) is to be found in the Fr. _limonière_, a
   derivative of _limon_, the shaft of a vehicle, a meaning which appears
   in English from the 15th century but is now obsolete, except

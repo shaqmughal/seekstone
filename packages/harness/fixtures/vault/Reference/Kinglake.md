@@ -12,7 +12,7 @@ tags: [geology-studies, geology]
 KINGLAKE, ALEXANDER WILLIAM (1800-1891), English historian and
 traveller, was born at Taunton on the 5th of August 1809. His father, a
 successful solicitor, intended his son for a legal career. Kinglake went
-to Eton and Trinity College, Cambridge, where he matriculated in 1828,
+to [[Eton]] and Trinity College, Cambridge, where he matriculated in 1828,
 being a contemporary and friend of Tennyson and Thackeray. After leaving
 Cambridge he joined Lincoln's Inn, and was called to the bar in 1837.
 While still a student he travelled, in 1835, throughout the East, and
@@ -20,7 +20,7 @@ the impression made upon him by his experiences was so powerful that he
 was seized with a desire to record them in literature. _Eothen_, a
 sensitive and witty record of impressions keenly felt and remembered,
 was published in 1844, and enjoyed considerable reputation. In 1854 he
-went to the Crimea, and was present at the battle of the Alma. During
+went to the [[Crimea]], and was present at the battle of the Alma. During
 the campaign he made the acquaintance of Lord Raglan, who was so much
 attracted by his talents that he suggested to Kinglake the plan for an
 elaborate _History of the Crimean War_, and placed his private papers at
@@ -33,7 +33,7 @@ Bridgwater from 1857 until the disfranchisement of the borough in 1868.
 He died on the 2nd of January 1891. Kinglake's life-work, _The History
 of the Crimean War_, is in scheme and execution too minute and
 conscientious to be altogether in proportion, but it is a wonderful
-example of painstaking and talented industry. It is not without errors
+example of painstaking and talented industry. It is not without [[Error|errors]]
 of partisanship, but it shows remarkable skill in the moulding of vast
 masses of despatches and technical details into an absorbingly
 interesting narrative; it is illumined by natural descriptions and

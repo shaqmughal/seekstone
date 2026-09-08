@@ -17,25 +17,25 @@ Henry VIII.'s absence was charged with the defence of the realm) had no
 organized force in the north of England, but James wasted much precious
 time among the border castles, and when Surrey appeared at Wooler, with
 an army equal in strength to his own, which was now greatly weakened by
-privations and desertion, he had not advanced beyond Ford Castle. The
-English commander promptly sent in a challenge to a pitched battle,
+privations and [[Desertion|desertion]], he had not advanced beyond Ford Castle. The
+English [[Commander|commander]] promptly sent in a challenge to a pitched battle,
 which the king, in spite of the advice of his most trusted counsellors,
 accepted. On the 6th of September, however, he left Ford and took up a
 strong position facing south, on Flodden Edge. Surrey's reproaches for
-the alleged breach of faith, and a second challenge to fight on
+the alleged [[Breach|breach]] of faith, and a second challenge to fight on
 Millfield Plain were this time disregarded. The English commander, thus
 foiled, executed a daring and skilful march round the enemy's flank, and
 on the 9th drew up for battle in rear of the hostile army. It is evident
 that Surrey was confident of victory, for he placed his own army, not
 less than the enemy, in a position where defeat would involve utter
 ruin. On his appearance the Scots hastily changed front and took post on
-Branxton Hill, facing north. The battle began at 4 P.M. Surrey's archers
-and cannon soon gained the upper hand, and the Scots, unable quietly to
+Branxton Hill, facing north. The battle began at 4 P.M. Surrey's [[Archer|archers]]
+and [[Cannon|cannon]] soon gained the upper hand, and the Scots, unable quietly to
 endure their losses, rushed to close quarters. Their left wing drove the
-English back, but Lord Dacre's reserve corps restored the fight on this
+English back, but Lord Dacre's reserve [[Corps|corps]] restored the fight on this
 side. In all other parts of the field, save where James and Surrey were
 personally opposed, the English gradually gained ground. The king's
-corps was then attacked by Surrey in front, and by Sir Edward Stanley in
+corps was then attacked by Surrey in front, and by Sir [[Edward Stanley]] in
 flank. As the Scots were forced back, a part of Dacre's force closed
 upon the other flank, and finally Dacre himself, boldly neglecting an
 almost intact Scottish division in front of him, charged in upon the

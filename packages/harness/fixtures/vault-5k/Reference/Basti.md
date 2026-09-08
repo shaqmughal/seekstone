@@ -10,7 +10,7 @@ Ami and Katneihia rivers. The tract lying between these streams consists
 of a rich alluvial deposit, more or less subject to inundations, but
 producing good crops of rice, wheat and barley. In 1901 the population
 was 1,846,153, showing an increase of 3% in the decade. A railway from
-Gorakhpur to Gonda runs through the district, and the river Gogra is
+Gorakhpur to [[Gonda]] runs through the district, and the river Gogra is
 navigable. A large transit trade is conducted with Nepal. The export
 trade of the district itself is chiefly in rice, sugar and other
 agricultural produce.

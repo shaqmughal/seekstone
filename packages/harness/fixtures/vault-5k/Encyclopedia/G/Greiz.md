@@ -21,7 +21,7 @@ Plauen. It was wholly destroyed by fire in 1494, and almost totally in
 1802.
 
   See Wilke, _Greiz und seine Umgebung_ (1875), and _Jahresberichte des
-  Vereins fur Greizer Geschichte_ (1894, seq.)
+  Vereins [[Fur|fur]] Greizer Geschichte_ (1894, seq.)
 
 ## References
 

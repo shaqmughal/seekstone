@@ -1,9 +1,9 @@
 # Hoti-Mardan
 
-HOTI-MARDAN, or MARDAN, a frontier cantonment of British India in the
+HOTI-MARDAN, or MARDAN, a frontier [[Cantonment|cantonment]] of British India in the
 Peshawar district of the North-West Frontier Province, situated 15 m. N.
 of Nowshera. Pop. (1901) 3572. It is notable as the permanent
-headquarters of the famous corps of Guides, and also contains a cavalry
+headquarters of the famous [[Corps|corps]] of Guides, and also contains a [[Cavalry|cavalry]]
 brigade belonging to the 1st division of the northern army.
 
 ## See also

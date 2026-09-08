@@ -14,14 +14,14 @@ married an heiress, Maria Ernestine Franziska von Rietburg. The family
 was ancient, and was believed to have been of Slavonic origin in
 Moravia. Wenzel Anton, being a second son, was designed for the church,
 but on the death of his elder brother he was trained for the law and for
-diplomacy, at Vienna, Leipzig and Leiden, and by travel. His family had
+[[Diplomacy|diplomacy]], at Vienna, Leipzig and Leiden, and by travel. His family had
 served the Habsburgs with some distinction, and Kaunitz had no
 difficulty in obtaining employment. In 1735 he was a _Reichshofrath_.
 When the Emperor Charles VI. died in 1740, he is said to have hesitated
 before deciding to support Maria Theresa. If so, his hesitation did not
 last long, and left no trace on his loyalty. From 1742 to 1744 he was
 minister at Turin, and in the latter year was sent as minister with the
-Archduke Charles of Lorraine, the governor of Belgium. He was therefore
+Archduke Charles of [[Lorraine]], the governor of [[Belgium]]. He was therefore
 an eye-witness of the campaigns in which Marshal Saxe overran Belgium.
 At this time he was extremely discouraged, and sought for his recall.
 But he had earned the approval of Maria Theresa, who sent him as
@@ -59,7 +59,7 @@ consumed by a solemn, garrulous and pedantic vanity. When in 1770 he met
 Frederick the Great at Mahrisch-Neustadt, he came with a summary of
 political principles, which he called a catechism, in his pocket, and
 assured the king that he must be allowed to speak without interruption.
-When Frederick, whose interest it was to humour him, promised to listen
+When Frederick, whose interest it was to [[Humour|humour]] him, promised to listen
 quietly, Kaunitz rolled his mind out for two hours, and went away with
 the firm conviction that he had at last enlightened the inferior
 intellect of the king of Prussia as to what politics really were. Within
@@ -69,7 +69,7 @@ laborious and orderly; when his advice was not taken he would carry out
 the wishes of his masters, while no defeat ever damped his pertinacity.
 
 To tell his history from 1750 till his retirement in 1792 would be to
-tell part of the internal history of Austria, and all the international
+tell part of the internal history of Austria, and all the [[International|international]]
 politics of eastern and central Europe. His governing principle was to
 forward the interests of "the august house of Austria," a phrase
 sometimes repeated at every few lines of his despatches. In internal
@@ -85,7 +85,7 @@ Revolution had begun to alter all the relations of the Powers before his
 retirement. He never understood its full meaning. Yet the circular
 despatch which he addressed to the ambassadors of the emperor on the
 17th of July 1794 contains the first outlines of Metternich's policy of
-"legitimacy," and the first proposal for the combined action of the
+"[[Legitimacy|legitimacy]]," and the first proposal for the combined action of the
 powers, based on the full recognition of one another's rights, to defend
 themselves against subversive principles. Kaunitz died at his house, the
 Garten Palast, near Vienna, on the 27th of June 1794. He married on the

@@ -21,8 +21,8 @@ copper, lead, nickel, iron, coal and malachite, but of these only copper
 and silver are mined, and these chiefly in the Andalgala district. Salt
 deposits also exist, but are worked only to a limited extent. Cereals,
 alfalfa and fruit are grown. Large numbers of cattle, fattened in the
-alfalfa fields of Pucara, Tinogasta and Copacabana, are driven into
-northern Chile across the San Francisco pass (13,124 ft. above sea
+alfalfa [[Fields|fields]] of Pucara, Tinogasta and Copacabana, are driven into
+northern [[Chile]] across the San Francisco pass (13,124 ft. above sea
 level) and mules are bred for the Bolivian market. Wine of an excellent
 quality is produced and exported. Tanning leather is another industry of
 the province, some of the trees growing in the Catamarca forests being

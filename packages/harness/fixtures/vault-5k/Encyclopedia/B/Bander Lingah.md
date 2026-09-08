@@ -17,7 +17,7 @@ Bombay. Like many other Persian Gulf ports, Bander Lingah was for many
 generations a hereditary patrimony of the Sheikh of an Arab tribe, in this
 case the Juvasmi tribe, and it was only in 1898 that the Arabs were
 expelled from the place by a Persian force. It is the chief port for the
-Persian province of Láristan (under Fars), and has a thriving trade with
+Persian province of Láristan (under [[Fars]]), and has a thriving trade with
 Bahrein and the Arab coast. It has a British post office, and the steamers
 of the British India Company call there weekly. Of the 133,000 tons of
 shipping which in 1905 entered the port 104,500 were British.

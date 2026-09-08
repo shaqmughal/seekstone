@@ -7,9 +7,9 @@ dissatisfied with his Order and had planned to publish its secrets. When
 his purpose became known to the Masons, Morgan was subjected to frequent
 annoyances, and finally in September 1826 he was seized and
 surreptitiously conveyed to Fort Niagara, whence he disappeared. Though
-his ultimate fate was never known, it was generally believed at the time
+his ultimate [[Fate|fate]] was never known, it was generally believed at the time
 that he had been foully dealt with. The event created great excitement,
-and led many to believe that Masonry and good citizenship were
+and led many to believe that [[Masonry]] and good citizenship were
 incompatible. Opposition to Masonry was taken up by the churches as a
 sort of religious crusade, and it also became a local political issue in
 western New York, where early in 1827 the citizens in many mass meetings

@@ -7,7 +7,7 @@ age of fourteen. Owing to the outbreak of the Civil War he was obliged
 to quit his studies, but according to Sir John Bramston "he had a good
 tutor who made him a scholar, and he travelled and got the French
 language in good perfection." "He was young whilst the war continued,"
-wrote Clarendon, "yet he had put himself before the end of it into the
+wrote [[Clarendon]], "yet he had put himself before the end of it into the
 army and had the command of a foot company and shortly after travelled
 into France." Here he remained till all hopes of obtaining foreign
 assistance and of raising a new army had to be laid aside, when he
@@ -43,15 +43,15 @@ perceive," writes Pepys on the 23rd of August 1667, "Sir William
 Coventry is the man and nothing done till he comes," and on his removal
 in 1669 the duke of Albemarle, no friendly or partial critic, declares
 that "nothing now would be well done." His appointment, however, came
-too late to ward off the naval disaster at Chatham the same year and the
-national bankruptcy in 1672.
+too late to ward off the naval disaster at [[Chatham]] the same year and the
+national [[Bankruptcy|bankruptcy]] in 1672.
 
 Meanwhile Coventry's rising influence had been from the first the cause
-of increasing jealousy to the old chancellor Clarendon, who especially
+of increasing [[Jealousy|jealousy]] to the old chancellor Clarendon, who especially
 disliked and discouraged the younger generation. Coventry resented this
 repression and thought ill of the conduct of the administration. He
 became the chief mover in the successful attack made upon Clarendon, but
-refused to take any part in his impeachment. Two days after Clarendon's
+refused to take any part in his [[Impeachment|impeachment]]. Two days after Clarendon's
 resignation (on the 31st of August), Coventry announced his intention of
 leaving the duke's service and of terminating his connexion with the
 navy.[2] As the principal agent in effecting Clarendon's fall he
@@ -64,7 +64,7 @@ incapable duke of Buckingham, a favourite of the king, succeeded to Lord
 Clarendon. The relations between the two men soon became unfriendly.
 Buckingham ridiculed Sir William's steady attention to business, and was
 annoyed at his opposition to Clarendon's impeachment. Coventry rapidly
-lost influence, was excluded from the cabinet council, and six months
+lost influence, was excluded from the [[Cabinet|cabinet]] council, and six months
 after Clarendon's fall complains he has scarcely a friend at court.
 Finally, in March 1669, Buckingham having written a play in which Sir
 William was ridiculed, the latter sent him a challenge. Notice of the
@@ -72,19 +72,19 @@ challenge reached the authorities through the duke's second, and Sir
 William was imprisoned in the Tower on the 3rd of March and subsequently
 expelled from the privy council. He was superseded in the treasury on
 the 11th of March by Buckingham's favourite, Sir Thomas Osborne,
-afterwards earl of Danby and duke of Leeds, and was at last released
+afterwards earl of Danby and duke of [[Leeds]], and was at last released
 from the Tower on the 21st in disgrace. The real cause of his dismissal
 was clearly the final adoption by Charles of the policy of subservience
-to France and desertion of Holland and Protestant interests. Six weeks
+to France and [[Desertion|desertion]] of Holland and Protestant interests. Six weeks
 before Coventry's fall, the conference between Charles, James,
-Arlington, Clifford and Arundel had taken place, which resulted a year
-and a half later in the disgraceful treaty of Dover. To such schemes Sir
+[[Arlington]], Clifford and Arundel had taken place, which resulted a year
+and a half later in the disgraceful treaty of [[Dover]]. To such schemes Sir
 William, with his steady hostility to France and active devotion to
 Protestantism, was doubtless a formidable opponent. He now withdrew
 definitely from official life, still retaining, however, his ascendancy
 in the House of Commons, and leading the party which condemned and
 criticized the reactionary and fatal policy of the government, his
-credit and reputation being rather enhanced than diminished by his
+[[Credit|credit]] and reputation being rather enhanced than diminished by his
 dismissal.[3]
 
 In 1673 was published a pamphlet which went through five editions the
@@ -92,10 +92,10 @@ same year, entitled _England's appeal from the Private Cabal at
 Whitehall to the Great Council of the Nation ... by a true Lover of his
 Country_, an anonymous work universally ascribed to Sir William, which
 forcibly reflects his opinions on the French entanglement. In the great
-matter of the Indulgence, while refusing to discuss the limits of
+matter of the Indulgence, while refusing to [[Discus|discuss]] the limits of
 prerogative and liberty, he argued that the dispensing power of the
 crown could not be valid during the session of parliament, and
-criticized the manner of the declaration while approving its ostensible
+criticized the manner of the [[Declaration|declaration]] while approving its ostensible
 object. He supported the Test Act, but maintained a statesmanlike
 moderation amidst the tide of indignation rising against the government,
 and refused to take part in the personal attacks upon ministers, drawing
@@ -116,12 +116,12 @@ became the leader of the moderate party, he enjoined prudence and
 patience, and greatly regretted the violence of the opposition which
 eventually excited a reaction and ruined everything. He refused to stand
 for the new parliament, and retired to his country residence at Minster
-Lovell near Witney, in Oxfordshire. He died unmarried on the 23rd of
+[[Lovell]] near Witney, in Oxfordshire. He died unmarried on the 23rd of
 June 1686, at Somerhill near Tunbridge Wells, where he had gone to take
 the waters, and was buried at Penshurst, where a monument was erected to
 his memory. In his will he ordered his funeral to be at small expense,
 and left L2000 to the French Protestant refugees in England, besides
-L3000 for the liberation of captives in Algiers. He had shortly before
+L3000 for the liberation of [[Captive|captives]] in Algiers. He had shortly before
 his death already paid for the liberation of sixty slaves. He was much
 beloved and respected in his family circle, his nephew, Henry Savile,
 alluding to him in affectionate terms as "our dearest uncle" and
@@ -149,21 +149,21 @@ national bottom which at length will prevail." His prudence is expressed
 in his "perpetual unwillingness to do things which I cannot undo." "A
 singular independence of spirit, a breadth of mind which refused to be
 contracted by party formulas, a sanity which was proof against the
-contagion of national delirium, were equally characteristic of uncle and
+contagion of national [[Delirium|delirium]], were equally characteristic of uncle and
 nephew."[4] Sir William Coventry's conceptions of statesmanship, under
 the guiding hand of his nephew, largely inspired the future revolution
 settlement, and continued to be an essential condition of English
 political growth and progress.
 
 Besides the tract already mentioned Coventry was the author of _A Letter
-to Dr Burnet giving an Account of Cardinal Pool's Secret Powers ..._
+to Dr [[Burnet]] giving an Account of Cardinal Pool's Secret Powers ..._
 (1685). _The Character of a Trimmer_, often ascribed to him, is now
 known to have been written by Lord Halifax. "Notes concerning the Poor,"
 and an essay "concerning the decay of rents and the remedy," are among
 the Malet Papers (_Hist. MSS. Comm._ Ser. 5th Rep. app. 320 (a)) and
 _Add. MSS._ Brit. Mus. (cal. 1882-1887); an "Essay concerning France"
 (4th Rep. app. 229 (b)) and a "Discourse on the Management of the Navy"
-(230b) are among the MSS. of the marquess of Bath, also a catalogue of
+(230b) are among the MSS. of the marquess of Bath, also a [[Catalogue|catalogue]] of
 his library (233(a)).
 
   BIBLIOGRAPHY.--No adequate life of Sir William Coventry has been
@@ -171,9 +171,9 @@ his library (233(a)).
   abilities is to be found in the several passages relating to him in
   the _Life of George Savile, Marquis of Halifax_, by Miss A. C.
   Foxcroft (1898); see also _Hist. MSS. Comm._ 3 and 4 Rep. (Longleat
-  Collection), 5 Rep. (_Malet Collection_ and see Index) now in the
+  Collection), 5 Rep. (_Malet Collection_ and see [[Index]]) now in the
   Brit. Mus. add. Cal. (1882-1887), Some of his papers being also at
-  Devonshire House; _MSS. of Marquis of Ormond_, iii. of _J. M.
+  [[Devonshire]] House; _MSS. of Marquis of Ormond_, iii. of _J. M.
   Heathcote and Miscellaneous Collections_; Clarendon's _Life and
   Continuation_ (Oxford, 1857); _Calendar of Clarendon Papers; Burnet's
   Hist, of His Own Times_ (Oxford, 1823); _Hallam's Constitutional

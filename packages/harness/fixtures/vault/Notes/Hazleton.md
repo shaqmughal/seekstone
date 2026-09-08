@@ -5,15 +5,15 @@ of Wilkes-Barre. Pop. (1890) 11,872; (1900) 14,230, of whom 2732 were
 foreign-born; (1910 census) 25,452. It is served by the Lehigh Valley,
 the Pennsylvania (for freight), and the Wilkes-Barre & Hazleton
 (electric) railways. The city is built on a broad tableland on Nescopeck
-or Buck Mountain, a spur of the Blue Mountains, about 1620 ft. above
+or [[Buck]] Mountain, a spur of the Blue Mountains, about 1620 ft. above
 sea-level. It has a park and a number of handsome residences; and its
 agreeable climate and picturesque situation make it attractive as a
 summer resort. The city has a public library. Hazleton is near the
 centre of one of the richest coal regions (the Lehigh or "Eastern Middle
 Coal Field") of the state, and its principal industry is the mining and
-shipping of anthracite coal. It has silk mills, knitting mills, shirt
+shipping of anthracite coal. It has silk mills, [[Knitting|knitting]] mills, shirt
 factories, breweries, macaroni factories, lumber and planing mills,
-important iron works, a casket factory and a large electric power plant.
+important iron works, a [[Casket|casket]] factory and a large electric power plant.
 The value of the city's factory products increased from $998,823 in
 1900 to $2,185,876 in 1905, or 118.8%, only three other cities in the
 state having a population of 8000 or more in 1900 showing a greater rate

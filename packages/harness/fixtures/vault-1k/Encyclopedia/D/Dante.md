@@ -43,7 +43,7 @@ and Brunetto Latini, the philosopher and diplomatist, his instructor,
 tells him in the _Inferno_ (xv. 25, foll.) that, if he follows its
 guidance, he cannot fail to reach the harbour of fame. Boccaccio relates
 that before his birth his mother dreamed that she lay under a very lofty
-laurel, growing in a green meadow, by a very clear fountain, when she
+laurel, growing in a green meadow, by a very clear [[Fountain|fountain]], when she
 felt the pangs of childbirth,--that her child, feeding on the berries
 which fell from the laurel, and on the waters of the fountain, in a very
 short time became a shepherd, and attempted to reach the leaves of the
@@ -63,7 +63,7 @@ arithmetic and geometry, by reading of history, by the turning over many
 curious books, watching and sweating in his studies, he acquired the
 science which he was to adorn and explain in his verses." Of Brunetto
 Latini Dante himself speaks with the most loving gratitude and
-affection, though he does not hesitate to brand his vices with infamy.
+affection, though he does not hesitate to [[Brand|brand]] his vices with infamy.
 Under such guidance Dante became master of all the science of his age at
 a time when it was not impossible to know all that could be known. He
 had some knowledge of drawing; at any rate he tells us that on the
@@ -156,7 +156,7 @@ unexpected quarter. Clement IV., elected pope in 1265, offered the crown
 of Apulia and Sicily to Charles of Anjou. The French prince, passing
 rapidly through Lombardy, Romagna and the Marches, reached Rome by way
 of Spoleto, was crowned on the 6th of January 1266, and on the 23rd of
-February defeated and killed Manfred at Benevento. In such a storm of
+February defeated and killed Manfred at [[Benevento]]. In such a storm of
 conflict did Dante first see the light. In 1267 the Guelphs were
 recalled, but instead of settling down in peace with their opponents
 they summoned Charles of Anjou to vengeance, and the Ghibellines were
@@ -175,7 +175,7 @@ including the _speziali_,--druggists and dealers in all manner of
 oriental goods, and in books--among whom Dante afterwards enrolled
 himself. They remained in office for two months, and during that time
 lived and shared a common table in the public palace. We shall see what
-influence this office had upon the fate of Dante. The success of the
+influence this office had upon the [[Fate|fate]] of Dante. The success of the
 "Sicilian Vespers" (March 1282), the death of Charles of Anjou (January
 1285), and of Martin IV. in the following March, roused again the
 courage of the Ghibellines. They entered Arezzo, where the Ghibellines
@@ -219,7 +219,7 @@ after the lady's death (June 9th, 1290). He saw Beatrice only once or
 twice, and she probably knew little of him. She married Simone de'
 Bardi. But the worship of her lover was stronger for the remoteness of
 its subject. The last chapter of the Vita Nuova relates how, after the
-lapse of a year, "it was given me to behold a wonderful vision, wherein
+[[Lapse|lapse]] of a year, "it was given me to behold a wonderful vision, wherein
 I saw things which determined me to say nothing further of this blessed
 one until such time as I could discourse more worthily concerning her.
 And to this end I labour all I can, as she in truth knoweth. Therefore
@@ -251,7 +251,7 @@ of Corso in his great poem, and speaks kindly of his kinsmen Piccarda
 and Forese.
 
 In 1293 Giano della Bella, a man of old family who had thrown in his lot
-with the people, induced the commonwealth to adopt the so-called
+with the people, induced the [[Commonwealth|commonwealth]] to adopt the so-called
 "Ordinances of Justice," a severely democratic constitution, by which
 among other things it was enacted that no man of noble family, even
 though engaged in trade, could hold office as prior. Two years later
@@ -349,7 +349,7 @@ succeeded by Benedict XI., and in March the cardinal da Prato came to
 Florence, sent by the new pope to make peace. The people received him
 with enthusiasm; ambassadors came to him from the Whites; and he did his
 best to reconcile the two parties. But the Blacks resisted all his
-efforts. He shook the dust from off his feet, and departed, leaving the
+efforts. He shook the [[Dust|dust]] from off his feet, and departed, leaving the
 city under an interdict. Foiled by the calumnies and machinations of the
 one party, the cardinal gave his countenance to the other. It happened
 that Corso Donati and the heads of the Black party were absent at
@@ -361,7 +361,7 @@ from Lastra, the failure of which further disorganized the party. Dante
 had, however, already separated from the "ill-conditioned and foolish
 company" of common party-politicians, who rejected his counsels of
 wisdom, and had learnt that he must henceforth form a party by himself.
-In 1303 he had left Arezzo and gone to Forli in Romagna, of which city
+In 1303 he had left Arezzo and gone to [[Forli]] in Romagna, of which city
 Scarpetta degli Ordelaffi was lord. To him, according to Flavius Blondus
 the historian (d. before 1484), a native of the place, Dante acted for a
 time as secretary.
@@ -435,7 +435,7 @@ into the Low Countries. That he ever crossed the Channel or went to
 Oxford, or himself saw where the heart of Henry, son of Richard, earl of
 Cornwall, murdered by his cousin Guy of Montfort in 1271, was "still
 venerated on the Thames," may safely be disbelieved. The only evidence
-for it is in the _Commentary_ of John of Serravalle, bishop of Fermo,
+for it is in the _Commentary_ of John of Serravalle, bishop of [[Fermo]],
 who lived a century later, had no special opportunity of knowing, and
 was writing for the benefit of two English bishops. The election in 1308
 of Henry of Luxemburg as emperor stirred again his hopes of a deliverer.
@@ -475,7 +475,7 @@ Avellana in the same district, situated on the slopes of Catria, one of
 the highest peaks of the Apennines in that region. After the death of
 the French pope, Clement V., he addressed a letter, dated the 14th of
 July 1314, to the cardinals in conclave, urging them to elect an Italian
-pope. About this time he came to Lucca, then lately conquered by his
+pope. About this time he came to [[Lucca]], then lately conquered by his
 friend Uguccione. Here he completed the last cantos of the _Purgatory_,
 which he dedicated to Uguccione, and here he must have become acquainted
 with Gentucca, whose name had been whispered to him by her countryman on
@@ -581,7 +581,7 @@ invective, to clear-cut picture and to trenchant epigram, was first
 employed by Dante.
 
 The action of the _Commedia_ opens in the early morning of the Thursday
-before Easter, in the year 1300. The poet finds himself lost in a
+before [[Easter]], in the year 1300. The poet finds himself lost in a
 forest, escaping from which he has his way barred by a wolf, a lion and
 a leopard. All this, like the rest of the poem, is highly symbolical.
 This branch of the subject is too vast to be entered on at any length
@@ -787,7 +787,7 @@ great poem his grey hairs may be crowned with laurel on the banks of the
 Arno. Although the Latin of these poems is superior to that of his prose
 works, we may feel thankful that Dante composed the great work of his
 life in his own vernacular. The versification, however, is good, and
-there are pleasant touches of gentle humour. The _Eclogues_ have been
+there are pleasant touches of gentle [[Humour|humour]]. The _Eclogues_ have been
 edited by Messrs Wicksteed and Gardiner (_Dante and Giovanni del
 Virgilio_, London, 1902).
 
@@ -895,7 +895,7 @@ America, and many studies for separate points are appearing every year.
   their father's poem. Their works were published, again at Lord
   Vernon's expense, in 1845 and 1848. Boccaccio's lectures on the
   _Commedia_, cut short at _Inf._ xvii. 17 by his death in 1375, are
-  accessible in various forms. His work was achieved by his disciple
+  accessible in various forms. His work was achieved by his [[Disciple|disciple]]
   Benvenuto Rambaldi of Imola (d. c. 1390). Benvenuto's commentary,
   written in Latin, genial in temper, and often acute, was popular from
   the first. Extracts from it were used as notes in many MSS. Much of it
@@ -922,7 +922,7 @@ America, and many studies for separate points are appearing every year.
   portion of the poem was made by Rogers, who only completed the
   _Inferno_ (1782). The entire poem appeared first in English in the
   version of Henry Boyd (1802) in six-line stanzas; but the first
-  adequate rendering is the admirable blank verse of H. F. Cary (1814,
+  adequate rendering is the admirable [[Blank|blank]] verse of H. F. Cary (1814,
   2nd ed. 1819), which has remained the standard translation, though
   others of merit, notably those of Pollock (1854) and Longfellow (1867)
   in blank verse, Plumptre (1887) and Haselfoot (1887) in _terza rima_;
@@ -950,7 +950,7 @@ America, and many studies for separate points are appearing every year.
   also useful. _A Study of Dante_, by J. A. Symonds, is interesting.
   More advanced students will find Dr Toynbee's _Dante Dictionary_
   indispensable, and Dr E. Moore's _Studies in Dante_ of great service
-  in its discussion of difficult places. Two concordances, to the
+  in its discussion of difficult places. Two [[Concordance|concordances]], to the
   _Commedia_ by Dr Fay (Cambridge, Mass., 1888), and to the minor works
   by Messrs Sheldon and White (Oxford, 1905), are due to American
   scholars. Mr W. W. Vernon's _Readings in Dante_ have profited many

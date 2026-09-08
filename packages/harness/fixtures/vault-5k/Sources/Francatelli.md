@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Francatell
 
 # Francatelli
 
-FRANCATELLI, CHARLES ELMÉ (1805-1876), Anglo-Italian cook, was born in
+FRANCATELLI, CHARLES [[Elm|ELM]]É (1805-1876), Anglo-Italian [[Cook|cook]], was born in
 London, of Italian extraction, in 1805, and was educated in France,
 where he studied the art of cookery. Coming to England, he was employed
 successively by various noblemen, subsequently becoming manager of

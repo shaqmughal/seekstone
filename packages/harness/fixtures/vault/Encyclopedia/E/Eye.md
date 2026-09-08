@@ -13,11 +13,11 @@ ANATOMY.--The eye consists of the eyeball, which is the true organ of
 sight, as well as of certain muscles which move it, and of the lachrymal
 apparatus which keeps the front of it in a moist condition. The
 _eyeball_ is contained in the front of the orbit and is a sphere of
-about an inch (24 mm.) in diameter. From the front of this a segment of
+about an [[Inch|inch]] (24 mm.) in diameter. From the front of this a segment of
 a lesser sphere projects slightly and forms the _cornea_ (fig. 1, co).
 There are three coats to the eyeball, an external (protective), a middle
 (vascular), and an internal (sensory). There are also three refracting
-media, the aqueous humour, the lens and the vitreous humour or body.
+media, the aqueous [[Humour|humour]], the lens and the vitreous humour or body.
 
 [Illustration: FIG. 1.--Diagrammatic Section through the Eyeball.
 
@@ -50,7 +50,7 @@ _substantia propria_ of the cornea which is fibrous with spaces in which
 the stellate _corneal corpuscles_ lie, while behind this is the
 posterior elastic layer and then a delicate layer of endothelium. The
 transparency of the cornea is due to the fact that all these structures
-have the same refractive index.
+have the same refractive [[Index|index]].
 
 The middle or vascular coat of the eye consists of the _choroid_, the
 _ciliary processes_ and the _iris_. The choroid (fig. 1, ch) does not
@@ -65,14 +65,14 @@ The _ciliary processes_ are some seventy triangular ridges, radially
 arranged, with their apices pointing backward (fig. 1, pc), while their
 bases are level with the corneo-scleral junction. They are as vascular
 as the rest of the choroid, and contain in their interior the _ciliary
-muscle_, which consists of radiating and circular fibres. The radiating
+muscle_, which consists of radiating and circular [[Fibres|fibres]]. The radiating
 fibres (fig. 1, mc) rise, close to the canal of Schlemm, from the margin
 of the posterior elastic lamina of the cornea, and pass backward and
 outward into the ciliary processes and anterior part of the choroid,
 which they pull forward when they contract. The circular fibres lie just
 internal to these and are few or wanting in short-sighted people.
 
-The _iris_ (fig. 1, I) is the coloured diaphragm of the eye, the centre
+The _iris_ (fig. 1, I) is the coloured [[Diaphragm|diaphragm]] of the eye, the centre
 of which is pierced to form the pupil; it is composed of a connective
 tissue stroma containing blood-vessels, pigment cells and muscle fibres.
 In front of it is a reflection of the same layer of endothelium which
@@ -183,7 +183,7 @@ nerve, and at its centre the retinal artery appears and divides into
 branches. An appreciation of the condition of the optic disk is one of
 the chief objects of the ophthalmoscope.
 
-The _crystalline lens_ (fig. 1, L) with its ligament separates the
+The _crystalline lens_ (fig. 1, L) with its [[Ligament|ligament]] separates the
 aqueous from the vitreous chamber of the eye; it is a biconvex lens the
 posterior surface of which is more curved than the anterior. Radiating
 from the anterior and posterior poles are three faint lines forming a Y,
@@ -191,7 +191,7 @@ the posterior Y being erect and the anterior inverted. Running from
 these figures are a series of lamellae, like the layers of an onion,
 each of which is made up of a number of fibrils called the lens fibres.
 On the anterior surface of the lens is a layer of epithelial cells,
-which, towards the margin or equator, gradually elongate into lens
+which, towards the margin or [[Equator|equator]], gradually elongate into lens
 fibres. The whole lens is enclosed in an elastic structureless membrane,
 and, like the cornea, its transparency is due to the fact that all its
 constituents have the same refractive index.
@@ -200,7 +200,7 @@ The ligament of the lens is the thickened anterior part of the hyaloid
 membrane which surrounds the vitreous body; it is closely connected to
 the iris at the ora serrata, and then splits into two layers, of which
 the anterior is the thicker and blends with the anterior part of the
-elastic capsule of the lens, so that, when its attachment to the ora
+elastic [[Capsule|capsule]] of the lens, so that, when its [[Attachment|attachment]] to the ora
 serrata is drawn forward by the ciliary muscle, the lens, by its own
 elasticity, increases its convexity. Between the anterior and posterior
 splitting of the hyaloid membrane is a circular lymph space surrounding
@@ -228,7 +228,7 @@ The _arteries of the eyeball_ are all derived from the ophthalmic branch
 of the internal carotid, and consist of the retinal which enters the
 optic nerve far back in the orbit, the two long ciliaries, which run
 forward in the choroid and join the anterior ciliaries, from muscular
-branches of the ophthalmic, in the circulus iridis major round the
+branches of the ophthalmic, in the circulus iridis [[Major|major]] round the
 margin of the iris, and the six to twelve short ciliaries which pierce
 the sclerotic round the optic nerve and supply the choroid and ciliary
 processes.
@@ -266,7 +266,7 @@ right across the front of the eyeball, continually moistening the
 conjunctiva. The two ducts are bent round a small pink tubercle called
 the _caruncula lachrymalis_ (fig. 3, 4) at the inner angle of the
 eyelids, and open into the _lachrymal sac_ (fig. 3, 5), which lies in a
-groove in the lachrymal bone. The sac is continued down into the _nasal
+groove in the lachrymal [[Bone|bone]]. The sac is continued down into the _nasal
 duct_ (fig. 3, 6), which is about ¾ inch long and opens into the
 inferior meatus of the nose, its opening being guarded by a valve.
 
@@ -360,7 +360,7 @@ nerve cells in the brain.
   [epsilon], Aqueous.
   [kappa], Eyelids.]
 
-The eyelids are developed as ectodermal folds, which blend with one
+The eyelids are developed as ectodermal [[Fold|folds]], which blend with one
 another about the third month and separate again before birth in Man
 (fig. 7, [Greek: kappa]). The lachrymal sac and duct are formed from
 solid ectodermal thickenings which later become canalized.
@@ -374,12 +374,12 @@ well as the iris and cornea are derived from the mesoderm.
   See _Human Embryology_, by C.S. Minot (New York); Quain's _Anatomy_,
   vol. i. (1908); "Entwickelung des Auges der Wirbeltiere," by A.
   Froriep, in _Handbuch der vergleichenden und experimentellen
-  Entwickelungslehre der Wirbeltiere_ (O. Hertwig, Jena, 1905).
+  Entwickelungslehre der Wirbeltiere_ (O. Hertwig, [[Jena]], 1905).
 
-COMPARATIVE ANATOMY.--The Acrania, as represented by Amphioxus (the
+[[Comparative Anatomy|COMPARATIVE ANATOMY]].--The Acrania, as represented by Amphioxus (the
 lancelet), have a patch of pigment in the fore part of the brain which
 is regarded as the remains of a degenerated eye. In the Cyclostomata the
-hag (Myxine) and larval lamprey (Ammocoetes) have ill-developed eyes
+hag (Myxine) and larval [[Lamprey|lamprey]] (Ammocoetes) have ill-developed eyes
 lying beneath the skin and devoid of lens, iris, cornea and sclerotic as
 well as eye muscles. In the adult lamprey (Petromyzon) these structures
 are developed at the metamorphosis, and the skin becomes transparent,
@@ -407,7 +407,7 @@ large. In the cartilaginous fishes (Elasmobranchs) there is a silvery
 layer, called the _tapetum lucidum_, on the retinal surface of the
 choroid.
 
-In the Amphibia the cornea is more convex than in the fish, but the lens
+In the Amphibia the cornea is more [[Convex|convex]] than in the fish, but the lens
 is circular and the sclerotic often chondrified. There is no processus
 falciformis or tapetum lucidum, but the class is interesting in that it
 shows the first rudiments of the ciliary muscle, although accommodation
@@ -421,7 +421,7 @@ protected by bony plates in the sclerotic (Lacertilia and Chelonia). The
 ciliary muscle is striated, and in most reptiles accommodation is
 effected by relaxing the ciliary ligament as in higher vertebrates,
 though in the snakes (Ophidia) the lens is shifted as it is in the lower
-forms. Many lizards have a vascular projection of the choroid into the
+forms. Many [[Lizard|lizards]] have a vascular projection of the choroid into the
 vitreous, foreshadowing the pecten of birds and homologous with the
 processus falciformis of fishes. In the retina the rods are scarce or
 absent.
@@ -435,14 +435,14 @@ structure disappears. In the retina the cones outnumber the rods, but
 are not as numerous as in the reptiles. The ciliary muscle is of the
 striped variety.
 
-In the Mammalia the eye is largely enclosed in the orbit, and bony
+In the [[Mammalia]] the eye is largely enclosed in the orbit, and bony
 plates in the sclerotic are only found in the monotremes. The cornea is
 convex except in aquatic mammals, in which it is flattened. The lens is
 biconvex in diurnal mammals, but in nocturnal and aquatic it is
 spherical. There is no pecten, but the numerous hyaloid arteries which
 are found in the embryo represent it. The iris usually has a circular
 pupil, but in some ungulates and kangaroos it is a transverse slit. In
-the Cetacea this transverse opening is kidney-shaped, the hilum of the
+the [[Cetacea]] this transverse opening is kidney-shaped, the hilum of the
 kidney being above. In many carnivores, especially nocturnal ones, the
 slit is vertical, and this form of opening seems adapted to a feeble
 light, for it is found in the owl, among birds. The tapetum lucidum is
@@ -470,11 +470,11 @@ or anterior part becomes the Harderian gland. Below the amphibians
 glands are not necessary, as the water keeps the eye moist.
 
 The lachrymal duct first appears in the tailed amphibians; in snakes and
-gecko lizards, however, it opens into the mouth.
+[[Gecko|gecko]] lizards, however, it opens into the mouth.
 
   For literature up to 1900 see R. Wiedersheim's _Vergleichende Anatomie
   der Wirbeltiere_ (Jena, 1902). Later literature is noticed in the
-  catalogue of the Physiological Series of the R. College of Surgeons of
+  [[Catalogue|catalogue]] of the Physiological Series of the R. College of Surgeons of
   England Museum, vol. iii. (London, 1906).     (F. G. P.)
 
 
@@ -491,18 +491,18 @@ rise to conscious perception cause a stimulation of the same area in the
 brain. Impressions formed simultaneously, for instance, on the right
 side of the right retina and on corresponding areas of the right side of
 the left retina, are conveyed to the same spots in the right occipital
-lobe of the brain. Pathological processes, therefore, which are
+[[Lobe|lobe]] of the brain. Pathological processes, therefore, which are
 localized in the right or left occipital lobes, or along any part of the
 course of the fibres which pass from the right or left optic tracts to
 these "visual centres," cause defects in function of the right or left
 halves of the two retinae. _Hemianopia_, or half-blindness, arising from
 these pathological changes, is of very varying degrees of severity,
-according to the nature and extent of the particular lesion. The blind
-areas in the two fields of vision, corresponding to the outward
+according to the nature and extent of the particular [[Lesion|lesion]]. The blind
+areas in the two [[Fields|fields]] of vision, corresponding to the outward
 projection of the paralysed retinal areas, are always symmetrical both
 in shape and degree. The central lesion may for instance be very small,
 but at the same time destructive to the nerve tissue. This will be
-revealed as a sector-shaped or insular symmetrical complete blindness in
+revealed as a sector-shaped or insular symmetrical complete [[Blindness|blindness]] in
 the fields of vision to the opposite side. Or a large central area, or
 an area comprising many or all of the nerve fibres which pass to the
 visual centre on one side, may be involved in a lesion which causes
@@ -511,7 +511,7 @@ There is thus caused a symmetrical weakening of vision (_amblyopia_) in
 the opposite fields. In such cases the colour vision is so much more
 evidently affected than the sense of form that the condition has been
 called _hemiachromatopsia_ or half-colour blindness. Hemianopia may be
-caused by haemorrhage, by embolism, by tumour growth which either
+caused by [[Haemorrhage|haemorrhage]], by embolism, by tumour growth which either
 directly involves the visual nerve elements or affects them by
 compression and by inflammation. Transitory hemianopia is rare and is no
 doubt most frequently of toxic origin.
@@ -519,11 +519,11 @@ doubt most frequently of toxic origin.
 The two eyes also act as if they were one in accommodating. It is
 impossible for the two eyes to accommodate simultaneously to different
 extents, so that where there is, as occasionally happens, a difference
-in focus between them, this difference remains the same for all
+in [[Focus|focus]] between them, this difference remains the same for all
 distances for which they are adapted. In such cases, therefore, both
 eyes cannot ever be accurately adapted at the same time, though either
 may be alone. It often happens as a consequence that the one eye is used
-to receive the sharpest images of distant, and the other of near
+to receive the sharpest [[Image|images]] of distant, and the other of near
 objects. Any pathological change which leads to an interference in the
 accommodating power of one eye alone must have its origin in a lesion
 which lies peripherally to the nucleus of the third cranial nerve. Such
@@ -630,12 +630,12 @@ anterior chamber is invaded by pus (_hypopyon_). The healing of a
 corneal ulcer is characterized by the disappearance of pain where this
 has been a symptom and by the rounding off of its sharp margins as
 epithelium spreads over them from the surrounding healthy parts. Ulcers
-tend to extend either in depth or superficially, rarely in both manners
+tend to extend either in depth or superficially, rarely in both [[Manners|manners]]
 at the same time. A deep ulcer leads to perforation with more or less
 serious consequences according to the extent of the perforation. Often
 an eye bears permanent traces of a perforation in adhesion of the iris
 to the back of a corneal scar or in changes in the lens capsule
-(capsular cataract). In other cases the ulcerated cornea may yield to
+(capsular [[Cataract|cataract]]). In other cases the ulcerated cornea may yield to
 pressure from within, which causes it to bulge forwards (_staphyloma_).
 
 The principal causes of primary keratitis are traumata and infection
@@ -661,8 +661,8 @@ temperature, and occasionally mild antiseptic irrigation of the nasal
 mucous membrane is all that is required. It is a common and dangerous
 mistake to over treat.
 
-Of local antiseptics which are of use may be mentioned the actual
-cautery, chlorine water, freshly prepared silver nitrate or protargol,
+Of local [[Antiseptics|antiseptics]] which are of use may be mentioned the actual
+cautery, [[Chlorine|chlorine]] water, freshly prepared silver nitrate or protargol,
 and the yellow oxide of mercury. These different agents are of course
 not all equally applicable in any given case; it depends upon the
 severity as well as upon the nature of the inflammation which is the
@@ -729,7 +729,7 @@ scleral infiltration causes a firm swelling, often sensitive to touch,
 over which the conjunctiva is freely movable. The overlying conjunctiva
 is always injected. The infiltration itself at the height of the process
 is densely vascularized. Seen through the conjunctiva its vessels have a
-darker, more purplish hue than the superficial ones. The swelling caused
+darker, more purplish [[Hue|hue]] than the superficial ones. The swelling caused
 by the infiltration gradually subsides, leaving a cicatrix to which the
 overlying conjunctiva becomes adherent. The cicatrix has a slaty
 porcellanous-looking colour. Superficial scleritis occurs in both sexes
@@ -753,7 +753,7 @@ the process, may be of use.
 
 _The Aqueous Humour._--Intransparency of the aqueous humour is always
 due to some exudation. This comes either from the iris or the ciliary
-processes, and may be blood, pus or fibrin. An exudation in this
+processes, and may be blood, pus or [[Fibrin|fibrin]]. An exudation in this
 situation tends naturally to gravitate to the most dependent part, and,
 in the case of blood or pus, is known as _kyphaema_ or _hypopyon_.
 
@@ -772,7 +772,7 @@ _senile_ cataract is not, however, necessarily associated with any
 general senile changes. An idiopathic uncomplicated cataract is also met
 with as a congenital defect due to faulty development of the crystalline
 lens. A particular and not uncommon form of this kind of cataract, which
-may also develop during infancy, is _lamellar_ or _zonular cataract_.
+may also develop during [[Infancy|infancy]], is _lamellar_ or _zonular cataract_.
 This is a partial and stationary form of cataract in which, while the
 greater part of the lens retains its transparency, some of the lamellae
 are intransparent. Traumatic cataract occurs in two ways: by laceration
@@ -786,7 +786,7 @@ do not cause rupture of the capsule, are sometimes followed, after a
 time, by slowly-progressing cataract. Secondary cataract is due to
 abnormalities in the nutrient matter supplied to the lens owing to
 disease of the ciliary body, choroid or retina. In some diseases, as
-diabetes, the altered general nutrition tells in the same way on the
+[[Diabetes|diabetes]], the altered general nutrition tells in the same way on the
 crystalline lens. Cataract is then rapidly formed. All cases of cataract
 in diabetes are not, however, necessarily true diabetic cataracts in the
 above sense. _Dislocations of the lens_ are traumatic or congenital. In
@@ -808,7 +808,7 @@ greatly upon the preponderance of the latter process.
 _Diseases of the Iris and Ciliary Body._--Inflammation of the iris,
 iritis, arises from different causes. The various idiopathic forms have
 relations to constitutional disturbances such as rheumatism, gout,
-albuminuria, tuberculosis, fevers, syphilis, gonorrhoea and others, or
+albuminuria, tuberculosis, [[Fever|fevers]], syphilis, gonorrhoea and others, or
 they may come from cold alone. Traumatic and infected cases are
 attributable to accidents, the presence of foreign bodies, operations,
 &c. In addition, iritis may be secondary to keratitis, scleritis or
@@ -830,7 +830,7 @@ longer. Others are chronic from the first, and in one clinical type of
 iritis, in which the ciliary body is also at the same time affected,
 viz. _iritis serosa_, there is usually comparatively little injection of
 the eye or pain, so that the patient's attention may only be directed to
-the eye owing to the gradual impairment of sight which results. In some
+the eye owing to the [[Gradual|gradual]] impairment of sight which results. In some
 cases, and more particularly in men, there is a tendency to the
 recurrence at longer or shorter intervals of attacks of iritis
 (_recurrent iritis_). In these cases, as well as in all cases of plastic
@@ -987,9 +987,9 @@ which sets it up.
 Traumata, the presence of foreign bodies in the conjunctival sac, or the
 irritations of superficial chalky infarcts in the Meibomian ducts, cause
 more or less severe transitory congestion. Continued subjection to
-irritating particles such as flour, stones, dust, &c., causes a more
+irritating particles such as flour, stones, [[Dust|dust]], &c., causes a more
 continued hyperaemia which is often circumscribed and less pronounced.
-Bad air in schools, barracks, workhouses, &c., also causes a chronic
+Bad air in schools, [[Barracks|barracks]], workhouses, &c., also causes a chronic
 hyperaemia in which it is common to find a follicular hyperplasia. Long
 exposure to too intense light, astigmatism and other ocular defects
 which cause asthenopia lead also to chronic hyperaemia. Anaemic
@@ -1013,7 +1013,7 @@ distinguished are the following: ([alpha]) Catarrhal conjunctivitis,
 ([delta]) Granular conjunctivitis and ([epsilon]) Diphtheritic
 conjunctivitis.
 
-However desirable a truly etiological classification might appear to be,
+However desirable a truly etiological [[Classification|classification]] might appear to be,
 it is doubtful whether such could satisfactorily be made. So much is
 certain at all events, that not only can identically the same clinical
 appearance result from the actions of quite different pathogenetic
@@ -1060,7 +1060,7 @@ so-called _hay-fever_. In this condition the mucous membrane of the nose
 and throat are similarly affected, and there is at the same time more or
 less constitutional disturbance. Hay-fever is due to irritation from the
 pollen of many plants, but principally from that of the different
-grasses. Some people are so susceptible to it that they invariably
+[[Grasses|grasses]]. Some people are so susceptible to it that they invariably
 suffer every year during the early summer months. Here it is difficult
 to remove the cause, but many cases can be cured and almost all are
 alleviated be means of a special antitoxin applied locally.
@@ -1164,7 +1164,7 @@ conjunctivitis. In it the conjunctival secretion is not altered, unless
 there should exist at the same time a complication with some other form
 of conjunctivitis. This condition is most frequent in children,
 particularly such as are ill-nourished or are recovering from some
-illness, e.g. measles. The susceptibility occurs in fact mainly where
+illness, e.g. [[Measles|measles]]. The susceptibility occurs in fact mainly where
 there exists what used to be called a "strumous" diathesis. In many
 cases, therefore, there is some kind of tubercular basis for the
 manifestations. This basis has to do with the susceptibility only, at
@@ -1174,7 +1174,7 @@ probability produced by staphylococci.
 
 Many children suffering from phlyctenular conjunctivitis get after a
 short time an eczematous excoriation of the skin of the nostrils. This
-excoriated, scabby area contains crowds of staphylococci which find a
+excoriated, scabby area contains [[Crowd|crowds]] of staphylococci which find a
 nidus here, where the copious tear-flow down the nostrils has excoriated
 and irritated the skin. Lacrymation is indeed a very common concomitant
 of phlyctenular conjunctivitis. Another frequently distressing symptom
@@ -1249,7 +1249,7 @@ may be shortly referred to.
 
 _Amyloid degeneration_, in which waxy-looking masses grow from the
 palpebral conjunctiva of both lids, often attaining very considerable
-dimensions. The condition is not uncommon in China and elsewhere in the
+[[Dimension|dimensions]]. The condition is not uncommon in China and elsewhere in the
 East.
 
 _Essential Shrinking of the Conjunctiva._--This is the result of

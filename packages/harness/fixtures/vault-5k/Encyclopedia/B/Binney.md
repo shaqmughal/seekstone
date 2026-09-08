@@ -5,7 +5,7 @@ of Presbyterian parents at Newcastle-on-Tyne in 1798, and educated at an
 ordinary day school. After spending seven years in the employment of a
 bookseller he entered the theological school at Wymondley, Herts, now
 incorporated in New College, Hampstead. In 1829, after short pastorates
-at Bedford (New Meeting) and Newport, Isle of Wight, he accepted a call
+at [[Bedford]] (New Meeting) and Newport, Isle of Wight, he accepted a call
 to the historic Weigh House chapel, London. Here he became very popular,
 and it was found necessary to build a much larger chapel on Fish Street
 Hill, to which the congregation removed in 1834. An address delivered on

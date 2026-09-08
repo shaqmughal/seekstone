@@ -8,7 +8,7 @@ id: 42-8321
 
 # Khajraho
 
-KHAJRAHO, a village of Central India, in the state of Chhatarpur, famous
+KHAJRAHO, a village of Central India, in the state of [[Chhatarpur]], famous
 for its old temples; pop. (1901), 1242. It is believed to have been the
 capital of the ancient kingdom of Jijhoti, corresponding with modern
 Bundelkhand. The temples consist of three groups: Saiva, Vaishnav and

@@ -1,6 +1,6 @@
 # Executors And Administrators
 
-EXECUTORS AND ADMINISTRATORS, in English law, those persons upon whom
+EXECUTORS AND ADMINISTRATORS, in [[English Law|English law]], those persons upon whom
 the property of a deceased person both real and personal devolves
 according as he has or has not left a will. Executors differ from
 administrators both in the mode of their creation and in the date at
@@ -29,7 +29,7 @@ representative stands in the shoes of the deceased he is entitled to sue
 upon any contract or for any debt which the deceased might have sued in
 his lifetime.
 
-  The duties of a representative are as follows: 1. To bury the deceased
+  The duties of a representative are as follows: 1. To [[Bury|bury]] the deceased
   in a manner suitable to the estate he leaves behind him; and the
   expenses of such funeral take precedence of any duty or debt whatever;
   but extravagant expenses will not be allowed. No rule can be laid down
@@ -100,7 +100,7 @@ his lifetime.
   next proceed to satisfy the legacies and devises left by the testator.
   In order to enable him to do this with safety to himself, it is
   provided that he cannot be compelled to divide the estate among the
-  legatees or next of kin until twelve months from the death of the
+  legatees or next of [[Kin|kin]] until twelve months from the death of the
   deceased (this is commonly known as "the executor's year"), though if
   there is no doubt as to the solvency of the estate he may do so at
   once. As a further protection the representative may give notice by
@@ -131,7 +131,7 @@ his lifetime.
   The liabilities of the representative may be shortly stated. He is
   liable in his representative capacity in all cases where the deceased
   would be liable were he alive. To this general rule there are some
-  exceptions. The representative cannot be sued for breach of a contract
+  exceptions. The representative cannot be sued for [[Breach|breach]] of a contract
   for personal services which can be performed only in the lifetime of
   the person contracting, nor again can he be sued in a case where
   unliquidated damages only could have been recovered against the
@@ -172,7 +172,7 @@ his lifetime.
   the court and corresponding in most respects to the English
   administrator. Caution is required from the latter, not from the
   former. By the common law doctrine of passive representation the heir
-  or executor was liable to be sued for implement of the deceased's
+  or executor was liable to be sued for [[Implement|implement]] of the deceased's
   obligations. The Roman principle of _beneficium inventarii_ was first
   introduced by an act of 1695. As the law at present stands, the heir
   or executor is liable only to the value of the succession, except
@@ -187,7 +187,7 @@ his lifetime.
   AUTHORITIES.--R.L. Vaughan Williams, _The Law of Executors and
   Administrators_; W.G. Walker, _Compendium on the Law of Executors and
   Administrators_; James Schouler, _Law of Executors and Administrators_
-  (3rd ed., Boston, 1901).
+  (3rd ed., [[Boston]], 1901).
 
 ## See also
 

@@ -1,7 +1,7 @@
 # Macdonnell
 
 MACDONNELL, SORLEY BOY (c. 1505-1590), Scoto-Irish chieftain, son of
-Alexander Macdonnell, lord of Islay and Kintyre (Cantire), was born at
+Alexander Macdonnell, lord of [[Islay]] and Kintyre (Cantire), was born at
 Ballycastle, Co. Antrim. From an ancestor who about a hundred years
 earlier had married Margaret Bisset, heiress of the district on the
 Antrim coast known as the Glynns (or Glens), he inherited a claim to the
@@ -44,7 +44,7 @@ Thomas Smith, and later of the earl of Essex, for colonizing Ulster with
 English settlers. Sorley Boy was willing to come to terms with the
 government provided his claims to his lands were allowed, but Essex
 determined to reduce him to unconditional submission. John Norris was
-ordered to proceed by sea from Carrickfergus to Rathlin Island, where
+ordered to proceed by sea from [[Carrickfergus]] to Rathlin Island, where
 Sorley Boy's children and valuables, together with the families of his
 principal retainers, had been lodged for safety; and while the chieftain
 was himself at Ballycastle, within sight of the island, the women and

@@ -10,7 +10,7 @@ tags: [shipbuilding, biology]
 EDWY (EADWIG), "THE FAIR" (c. 940-959), king of the English, was the
 eldest son of King Edmund and Ælfgifu, and succeeded his uncle Eadred in
 955, when he was little more than fifteen years old. He was crowned at
-Kingston by Archbishop Odo, and his troubles began at the coronation
+Kingston by Archbishop Odo, and his troubles began at the [[Coronation|coronation]]
 feast. He had retired to enjoy the company of the ladies Æthelgifu
 (perhaps his foster-mother) and her daughter Ælfgifu, whom the king
 intended to marry. The nobles resented the king's withdrawal, and he was

@@ -19,7 +19,7 @@ on. They form the bulk of the amir's cavalry. Their name seems to have
 been first used in Persia of the Shiites in allusion to their red caps.
 
   See Ernest Chantre, _Recherches anthropologiques dans l'Asie
-  occidentale_ (Lyons, 1895).
+  occidentale_ ([[Lyons]], 1895).
 
 ## See also
 

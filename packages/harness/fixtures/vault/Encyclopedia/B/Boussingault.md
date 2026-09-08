@@ -1,13 +1,13 @@
 # Boussingault
 
-BOUSSINGAULT, JEAN BAPTISTE JOSEPH DIEUDONNE (1802-1887), French
+BOUSSINGAULT, JEAN [[Baptiste|BAPTISTE]] JOSEPH DIEUDONNE (1802-1887), French
 chemist, was born in Paris on the 2nd of February 1802. After studying
 at the school of mines at Saint-Etienne he went, when little more than
 twenty years old, to South America as a mining engineer on behalf of an
 English company. During the insurrection of the Spanish colonies he was
 attached to the staff of General Bolivar, and travelled widely in the
 northern parts of the continent. Returning to France he became professor
-of chemistry at Lyons, and in 1839 was appointed to the chair of
+of [[Chemistry|chemistry]] at [[Lyons]], and in 1839 was appointed to the chair of
 agricultural and analytical chemistry at the Conservatoire des Arts et
 Metiers in Paris. In 1848 he was elected to the National Assembly, where
 he sat as a Moderate republican. Three years later he was dismissed from
@@ -17,8 +17,8 @@ especially by his colleagues, who threatened to resign in a body, that
 he was reinstated. He died in Paris on the 11th of May 1887. His first
 papers were concerned with mining topics, and his sojourn in South
 America yielded a number of miscellaneous memoirs, on the cause of
-goitre in the Cordilleras, the gasses of volcanoes, earthquakes,
-tropical rain, &c., which won the commendation of A. von Humboldt. From
+[[Goitre|goitre]] in the [[Cordillera|Cordilleras]], the gasses of volcanoes, earthquakes,
+tropical rain, &c., which won the [[Commendation|commendation]] of A. von [[Humboldt]]. From
 1836 he devoted himself mainly to agricultural chemistry and animal and
 vegetable physiology, with occasional excursions into mineral chemistry.
 His work included papers on the quantity of nitrogen in different foods,

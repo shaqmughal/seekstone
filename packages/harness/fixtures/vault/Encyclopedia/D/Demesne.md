@@ -1,7 +1,7 @@
 # Demesne
 
 DEMESNE (DEMEINE, DEMAIN, DOMAIN, &c.),[1] that portion of the lands of
-a manor not granted out in freehold tenancy, but (a) retained by the
+a manor not granted out in [[Freehold|freehold]] tenancy, but (a) retained by the
 lord of the manor for his own use and occupation or (b) let out as
 tenemental land to his retainers or "villani." This demesne land,
 originally held at the will of the lord, in course of time came to
@@ -9,7 +9,7 @@ acquire fixity of tenure, and developed into the modern copyhold (see
 MANOR). It is from demesne as used in sense (a) that the modern
 restricted use of the word comes, i.e. land immediately surrounding the
 mansion or dwelling-house, the park or chase. _Demesne of the crown_, or
-royal demesne, was that part of the crown lands not granted out to
+royal demesne, was that part of the [[Crown Land|crown lands]] not granted out to
 feudal tenants, but which remained under the management of stewards
 appointed by the crown. These crown lands, since the accession of George
 III., have been appropriated by parliament, the sovereign receiving in
@@ -27,7 +27,7 @@ FOOTNOTE:
 
   [1] The form "demesne" is an Anglo-French spelling of the Old Fr.
     _demeine_ or _demaine_, belonging to a lord, from Med. Lat.
-    _dominicus_, _dominus_, lord; _dominicum_ in Med. Lat. meant
+    _dominicus_, _[[Dominus|dominus]]_, lord; _dominicum_ in Med. Lat. meant
     _proprietas_ (see Du Cange). From the later Fr. _domaine_, which
     approaches more nearly the original Lat., comes the other Eng. form
     "domain," which is chiefly used in a non-legal sense of any tract of

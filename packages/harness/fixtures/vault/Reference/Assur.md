@@ -21,19 +21,19 @@ above).
 
 The title _Ashir_ was given to various gods in the south, as Marduk and
 Nebo, and there is every reason to believe that it represents a direct
-transfer with the intent to emphasize that Assur is the "leader" or head
+transfer with the [[Intent|intent]] to emphasize that Assur is the "leader" or head
 of the pantheon of the north. He is in fact to all intents and purposes
 of the north. Originally like Marduk a solar deity with the winged
 disk--the disk always typifying the sun--as his symbol, he becomes as
 Assyria develops into a military power a god of war, indicated by the
-attachment of the figure of a man with a bow to the winged disk.[1]
+[[Attachment|attachment]] of the figure of a man with a [[Bow|bow]] to the winged disk.[1]
 While the cult of the other great gods and goddesses of Babylonia was
 transferred to Assyria, the worship of Assur so overshadowed that of the
 rest as to give the impression of a decided tendency towards the
 absorption of all divine powers by the one god. Indeed, the other gods,
 Sin, Shamash (Samas), Adad, Ninib and Nergal, and even Ea, take on the
 warlike traits of Assur in the epithets and descriptions given of them
-in the annals and votive inscriptions of Assyrian rulers to such an
+in the [[Annals|annals]] and votive inscriptions of Assyrian rulers to such an
 extent as to make them appear like little Assurs by the side of the
 great one. Marduk alone retains a large measure of his independence as a
 concession on the part of the Assyrians to the traditions of the south,
@@ -59,8 +59,8 @@ of the lands." Its exact site has been determined by excavations
 conducted at Kaleh Sherghat since 1903 by the German Oriental Society.
 The name indicates the existence of the same conception regarding sacred
 edifices in Assyria as in Babylonia, where we find such names as E-Kur
-("mountain house") for the temple of Bel (q.v.) at Nippur, and E-Saggila
-("lofty house") for Marduk's (q.v.) temple at Babylon and that of Ea
+("mountain house") for the temple of [[Bel]] (q.v.) at Nippur, and E-Saggila
+("lofty house") for Marduk's (q.v.) temple at [[Babylon]] and that of Ea
 (q.v.) at Eridu, and in view of the general dependence of Assyrian
 religious beliefs as of Assyrian culture in general, there is little
 reason to doubt that the name of Assur's temple represents a direct
@@ -68,8 +68,8 @@ adaptation of such a name as E-Kur, further embellished by epithets
 intended to emphasize the supreme control of the god to whom the edifice
 was dedicated. The foundation of the edifice can be traced back to Uspia
 (Ushpia), c. 2000 B.C., and may turn out to be even older. Besides the
-chief temple, the capital contained temples and chapels to Anu, Adad,
-Ishtar, Marduk, Gula, Sin, Shamash, so that we are to assume the
+chief temple, the capital contained temples and chapels to [[Anu]], Adad,
+[[Ishtar]], Marduk, [[Gula]], Sin, Shamash, so that we are to assume the
 existence of a sacred precinct in Assur precisely as in the religious
 centres of the south. On the removal of the seat of residence of the
 Assyrian kings to Calah (c. 1300 B.C.), and then in the 8th century to

@@ -2,7 +2,7 @@
 
 DESICCATION (from the Lat. _desiccare_, to dry up), the operation of
 drying or removing water from a substance. It is of particular
-importance in practical chemistry. If a substance admits of being heated
+importance in practical [[Chemistry|chemistry]]. If a substance admits of being heated
 to say 100°, the drying may be effected by means of an air-bath, which
 is simply an oven heated by gas or by steam. Otherwise a _desiccator_
 must be employed; this is essentially a closed vessel in which a
@@ -22,19 +22,19 @@ rises. Liquids are dried either by means of the desiccator, or, as is
 more usual, by shaking with a substance which removes the water. Fused
 calcium chloride is the commonest absorbent; but it must not be used
 with alcohols and several other compounds, since it forms compounds with
-these substances. Quicklime, barium oxide, and dehydrated copper
+these substances. Quicklime, [[Barium|barium]] oxide, and dehydrated copper
 sulphate are especially applicable to alcohol and ether; the last traces
 of water may be removed by adding metallic sodium and distilling. Gases
 are dried by leading them through towers or tubes containing an
-appropriate drying material. The experiments of H. B. Baker on the
+appropriate drying material. The experiments of H. B. [[Baker]] on the
 influence of moisture on chemical combination have shown the difficulty
 of removing the last traces of water.
 
 In chemical technology, apparatus on the principle of the laboratory
 air-bath are mainly used. Crystals and precipitates, deprived of as much
-water as possible by centrifugal machines or filter-presses, are
+water as possible by centrifugal [[Machine|machines]] or filter-presses, are
 transported by means of a belt, screw, or other form of conveyer, on to
-trays staged in brick chambers heated directly by flue gases or steam
+trays staged in [[Brick|brick]] chambers heated directly by flue gases or steam
 pipes; the latter are easily controlled, and if the steam be superheated
 a temperature of 300° and over may be maintained. In some cases the
 material traverses the chamber from the coolest to the hottest part on a

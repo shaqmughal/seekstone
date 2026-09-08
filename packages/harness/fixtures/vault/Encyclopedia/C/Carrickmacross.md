@@ -12,9 +12,9 @@ CARRICKMACROSS, a market town of Co. Monaghan, Ireland, in the south
 parliamentary division, 68 m. N.W. of Dublin on a branch of the Great
 Northern railway. Pop. of urban district (1901) 1874. It has a pleasant,
 elevated site, a considerable agricultural trade, and a famous
-manufacture of lace, which is carried on in various conventual
+manufacture of [[Lace|lace]], which is carried on in various conventual
 establishments. There are some remains of an Elizabethan castle, a seat
-of the earls of Essex, which was destroyed during the wars of 1641; the
+of the earls of [[Essex]], which was destroyed during the wars of 1641; the
 ruins of the old church of St Finbar commemorate the same disastrous
 period.
 

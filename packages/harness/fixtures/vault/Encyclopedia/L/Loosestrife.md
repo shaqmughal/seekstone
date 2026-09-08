@@ -19,7 +19,7 @@ are trimorphic, that is to say, exist in three forms which differ in the
 relative length of the styles and stamens and are known as long-styled,
 mid-styled and short-styled forms respectively; the size and colour of
 the pollen also differ. These differences play an important part in the
-pollination of the flower.
+pollination of the [[Flower|flower]].
 
 ## See also
 

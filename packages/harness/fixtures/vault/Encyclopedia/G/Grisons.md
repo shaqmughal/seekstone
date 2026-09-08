@@ -5,7 +5,7 @@ also the largest in extent, though relatively the most sparsely
 populated. Its total area is 2753.2 sq. m., of which 1634.4 sq. m. are
 classed as "productive" (forests covering 503.1 sq. m. and vineyards 1.3
 sq. m.), but it has also 138.6 sq. m. of glaciers, ranking in this
-respect next after the Valais and before Bern. The whole canton is
+respect next after the Valais and before [[Bern]]. The whole canton is
 mountainous, the principal glacier groups being those of the Todi, N.
 (11,887 ft.), of Medels, S.W. (Piz Medel, 10,509 ft.), of the Rheinwald
 or the Adula Alps, S.W. (Rheinwaldhorn, 11,149 ft.), with the chief
@@ -22,7 +22,7 @@ Oberhalbstein. The chief affluents of the Rhine in the canton are the
 Glenner (flowing through the Lugnetz valley), the Avers Rhine, the
 Albula (swollen by the Julia and the Landwasser), the Plessur (Schanfigg
 valley) and the Landquart (coming from the Prattigau). The Rhine and the
-Inn flow respectively into the North and the Black Seas. Of other
+Inn flow respectively into the North and the [[Black Sea|Black Seas]]. Of other
 streams that of Val Mesocco joins the Ticino and so the Po, while the
 Maira or Mera (Val Bregaglia) and the Poschiavino join the Adda, and the
 Rambach (Munster valley) the Adige, all four thus ultimately reaching
@@ -30,10 +30,10 @@ the Adriatic Sea. The inner valleys are the highest in Central Europe,
 and among the loftiest villages are Juf, 6998 ft. (the highest
 permanently inhabited village in the Alps), at the head of the Avers
 glen, and St Moritz, 6037 ft., in the Upper Engadine. The lower courses
-of the various streams are rent by remarkable gorges, such as the Via
+of the various streams are rent by remarkable [[Gorges|gorges]], such as the Via
 Mala, the Rofna, the Schyn, and those in the Avers, Medels and Lugnetz
-glens, as well as that of the Zuge in the Landwasser glen. Below Coire,
-near Malans, good wine is produced, while in the Val Mesocco, &c., maize
+glens, as well as that of the Zuge in the Landwasser glen. Below [[Coire]],
+near [[Malan|Malans]], good wine is produced, while in the Val Mesocco, &c., maize
 and chestnuts flourish. But the forests and the mountain pasturages are
 the chief source of wealth. The lower pastures maintain a fine breed of
 cows, while the upper are let out in summer to Bergamasque shepherds.
@@ -41,7 +41,7 @@ There are many mineral springs, such as those of St Moritz, Schuls,
 Alvaneu, Fideris, Le Prese and San Bernardino. The climate and
 vegetation, save on the southern slope of the Alps, are alpine and
 severe. But yearly vast numbers of strangers visit different spots in
-the canton, especially Davos (q.v.), Arosa and the Engadine. As yet
+the canton, especially [[Davos]] (q.v.), Arosa and the Engadine. As yet
 there are comparatively few railways. There is one from Maienfeld
 (continued north to Constance and north-west to Zurich) to Coire (11
 m.), which sends off a branch line from Landquart, E., past Klosters to
@@ -53,9 +53,9 @@ leading to or towards Italy. Besides those leading to the Engadine may
 be noted the roads from Ilanz past Disentis over the Oberalp Pass (6719
 ft.) to Andermatt, from Disentis over the Lukmanier Pass (6289 ft.) to
 Biasca, on the St Gotthard railway, from Reichenau past Thusis and
-Splugen over the San Bernardino Pass (6769 ft.) to Bellinzona on the
+Splugen over the San Bernardino Pass (6769 ft.) to [[Bellinzona]] on the
 same railway line, and from Splugen over the Splugen Pass (6946 ft.) to
-Chiavenna. The Septimer Pass (7582 ft.) from the Julier route to the
+[[Chiavenna]]. The Septimer Pass (7582 ft.) from the Julier route to the
 Maloja route has now only a mule path, but was probably known in Roman
 times (as was possibly the Splugen), and was much frequented in the
 middle ages.
@@ -74,15 +74,15 @@ survival of an ancient Romance language (the _lingua rustica_ of the
 Roman Empire), which has lagged behind its sisters. It has a scanty
 printed literature, but is still widely spoken, so that, of the 38,651
 persons in the Swiss Confederation who speak it, no fewer than 36,472
-are in the Grisons. It is distinguished into two dialects: the Romonsch
+are in the Grisons. It is distinguished into two [[Dialect|dialects]]: the Romonsch
 (sometimes wrongly called Romansch), which prevails in the Bundner
 Oberland and in the Hinter Rhine valley (Schams and Domleschg), and the
 Ladin (closely related to the tongue spoken in parts of the South
 Tyrol), that survives in the Engadine and in the neighbouring valleys of
 Bergun, Oberhalbstein and Munster. (See F. Rausch's _Geschichte der
-Literatur des rhaeto-romanischen Volkes_, Frankfort, 1870, and Mr
+Literatur des rhaeto-romanischen Volkes_, [[Frankfort]], 1870, and Mr
 Coolidge's bibliography of this language, given on pp. 22-23 of Lorria
-and Martel's _Le Massif de la Bernina_, Zurich, 1894.) Yet in the midst
+and Martel's _Le [[Massif]] de la Bernina_, Zurich, 1894.) Yet in the midst
 of this Romance-speaking population are islets (mostly, if not entirely,
 due to immigration in the 13th century from the German-speaking Upper
 Valais) of German-speaking inhabitants, so in the Vals and Safien glens,
@@ -101,7 +101,7 @@ A certain number of lead and silver mines were formerly worked, but are
 now abandoned. The capital of the canton is Coire (q.v.).
 
 The canton is divided into 14 administrative districts, and includes 224
-communes. It sends 2 members (elected by a popular vote) to the Federal
+[[Commune|communes]]. It sends 2 members (elected by a popular vote) to the Federal
 _Standerath_, and 5 members (also elected by a popular vote) to the
 Federal _Nationalrath_. The existing cantonal constitution was accepted
 by the people in 1892, and came into force on 1st January 1894. The
@@ -128,18 +128,18 @@ bailiwick.
 The greater part (excluding the three valleys where the inhabitants
 speak Italian) of the modern canton of the Grisons formed the southern
 part of the province of Raetia (probably the aboriginal inhabitants, the
-Raeti, were Celts rather than, as was formerly believed, Etruscans), set
+Raeti, were [[Celt|Celts]] rather than, as was formerly believed, Etruscans), set
 up by the Romans after their conquest of the region in 15 B.C. The
 Romanized inhabitants were to a certain extent (The Romonsch or Ladin
 tongue is a survival of the Roman dominion) Teutonized under the
-Ostrogoths (A.D. 493-537) and under the Franks (from 537 onwards).
+Ostrogoths (A.D. 493-537) and under the [[Franks]] (from 537 onwards).
 Governors called _Praesides_ are mentioned in the 7th and 8th centuries,
 while members of the same family occupied the episcopal see of Coire
 (founded 4th-5th centuries). About 806 Charles the Great made this
 region into a county, but in 831 the bishop procured for his dominions
 exemption ("immunity") from the jurisdiction of the counts, while before
 847 his see was transferred from the Italian province of Milan to the
-German province of Mainz (Mayence) and was thus cut off from Italy to be
+German province of [[Mainz]] (Mayence) and was thus cut off from Italy to be
 joined to Germany. In 916 the region was united with the duchy of
 Alamannia, but the bishop still retained practical independence, and his
 wide-spread dominions placed him even above the abbots of Disentis and
@@ -170,18 +170,18 @@ Maienfeld, the Schanfigg valley, Churwalden, and the lordship of Belfort
 name of the League. In 1450 the _Zehngerichtenbund_ concluded an
 alliance with the _Gotteshausbund_ and in 1471 with the _Ober Bund_; but
 of the so-called perpetual alliance at Vazerol, near Tiefenkastels,
-there exists no authentic evidence in the oldest chronicles, though
+there exists no [[Authentic|authentic]] evidence in the oldest chronicles, though
 diets were held there. By a succession of purchases (1477-1496) nearly
 all the possessions of the extinct dynasty of the counts of Toggenburg
 in the Prattigau had come to the junior or Tyrolese line of the
 Habsburgers. On its extinction (1496) in turn they passed to the elder
-line, the head of which, Maximilian, was already emperor-elect and
+line, the head of which, [[Maximilian]], was already emperor-elect and
 desired to maintain the rights of his family there and in the Lower
 Engadine. Hence in 1497 the Ober Bund and in 1498 the _Gotteshausbund_
 became allies of the Swiss Confederation. War broke out in 1499, but was
 ended by the great Swiss victory (22nd May 1499) at the battle of the
 Calven gorge (above Mals) which, added to another Swiss victory at
-Dornach (near Basel), compelled the emperor to recognize the _practical_
+Dornach (near [[Basel]]), compelled the emperor to recognize the _practical_
 independence of the Swiss and their allies of the Empire. The religious
 Reformation brought disunion into the three Leagues, as the _Ober Bund_
 clung in the main to the old faith, and for this reason their connexion
@@ -205,7 +205,7 @@ inhabitants to give up Protestantism. Finally, after the emperor had
 _formally_ recognized, by the treaty of Westphalia (1648), the
 independence of the Swiss Confederation, the rights of the Habsburgers
 in the Prattigau and the Lower Engadine were bought up (1649 and 1652).
-But the Austrian _enclaves_ of Tarasp (Lower Engadine) and of Razuns
+But the Austrian _[[Enclave|enclaves]]_ of Tarasp (Lower Engadine) and of Razuns
 (near Reichenau) were only annexed to the Grisons in 1809 and 1815
 respectively, in each case France holding the lordship for a short time
 after its cession by Austria. In 1748 (finally in 1762) the three
@@ -221,15 +221,15 @@ Napoleon's Act of Mediation, it entered, under the name of Canton of the
 Grisons or Graubunden, the reconstituted Swiss Confederation, of which
 it then first became a full member.
 
-  AUTHORITIES.--A. Andrea, Das Bergell (Frauenfeld, 1901);
+  AUTHORITIES.--A. Andrea, Das Bergell ([[Frauenfeld]], 1901);
   _Bundnergeschichte in 11 Vortragen_, by various writers (Coire, 1902);
-  _Codex diplomaticus Raetiae_ (5 vols., Coire, 1848-1886); W. Coxe,
+  _Codex diplomaticus Raetiae_ (5 vols., Coire, 1848-1886); W. [[Coxe]],
   _Travels in Switzerland_, vol. ii. of the 1789 London edition; E.
   Dunant, _La Reunion des Grisons a la Suisse_ (1798-1799) (Basel,
   1899); G. Fient, _Das Prattigau_ (2nd ed., Davos, 1897); P. Foffa,
   _Das bundnerische Munsterthal_ (Coire, 1864); F. Fossati, _Codice
   diplomatico della Rezia_ (originally published in the _Periodico_ of
-  the _Societa storica a Comense_ at Como; separate reprint, Como,
+  the _Societa storica a Comense_ at [[Como]]; separate reprint, Como,
   1901); R. A. Ganzoni, _Beitrage zur Kenntnis d. bundnerischen
   Referendums_ (Zurich, 1890); Mrs Henry Freshfield, _A Summer Tour in
   the Grisons_ (London, 1862); C. and F. Jecklin, _Der Anteil
@@ -248,7 +248,7 @@ it then first became a full member.
   Theobald, _Das Bundner Oberland_ (Coire, 1861), and _Naturbilder aus
   den rhatischen Alpen_ (3rd ed., Coire, 1893); N. Valaer, _Johannes von
   Planta_ (d. 1572) (Zurich, 1888); R. Wagner and L. R. von Salis,
-  _Rechtsquellen d. Cant. Graubunden_ (Basel, 1877-1892); F. Jecklin,
+  _Rechtsquellen d. [[Cant]]. Graubunden_ (Basel, 1877-1892); F. Jecklin,
   _Materialen zur Standes- und Landesgeschichte Gem. iii. Bunde_
   (Graubunden), _1464-1803_ (pt. i., _Regesten_, was published at Basel
   in 1907). See also COIRE, ENGADINE, JENATSCH and VALTELLINA.

@@ -4,13 +4,13 @@ DEPARTMENT (Fr. _département_, from _départir_, to separate into parts),
 a division. The word is used of the branches of the administration in a
 state or municipality; in Great Britain it is applied to the subordinate
 divisions only of the great offices and boards of state, such as the
-bankruptcy department of the Board of Trade, but in the United States
-these subordinate divisions are known as "bureaus," while "department"
+[[Bankruptcy|bankruptcy]] department of the Board of Trade, but in the United States
+these subordinate divisions are known as "[[Bureau|bureaus]]," while "department"
 is used of the eight chief branches of the executive.
 
 A particular use of the word is that for a territorial division of
 France, corresponding loosely to an English county. Previous to the
-French Revolution, the local unit in France was the province, but this
+[[French Revolution]], the local unit in France was the province, but this
 division was too closely bound up with the administrative mismanagement
 of the old régime. Accordingly, at the suggestion of Mirabeau, France
 was redivided on entirely new lines, the thirty-four provinces being
@@ -29,9 +29,9 @@ renamed Meurthe-et-Moselle, making the number at present eighty-seven.
 For a complete list of the departments see FRANCE. Each department is
 presided over by an officer called a prefect, appointed by the
 government, and assisted by a prefectorial council (_conseil de
-préfecture_). The departments are subdivided into arrondissements, each
+préfecture_). The departments are subdivided into [[Arrondissement|arrondissements]], each
 in charge of a sub-prefect. Arrondissements are again subdivided into
-cantons, and these into communes, somewhat equivalent to the English
+cantons, and these into [[Commune|communes]], somewhat equivalent to the English
 parish (see FRANCE: _LOCAL GOVERNMENT_).
 
 ## See also

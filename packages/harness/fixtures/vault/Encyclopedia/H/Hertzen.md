@@ -8,10 +8,10 @@ topic: geography
 
 HERTZEN, ALEXANDER (1812-1870), Russian author, was born at Moscow, a
 very short time before the occupation of that city by the French. His
-father, Ivan Yakovlef, after a personal interview with Napoleon, was
+father, [[Ivan]] Yakovlef, after a personal interview with Napoleon, was
 allowed to leave, when the invaders arrived, as the bearer of a letter
 from the French to the Russian emperor. His family attended him to the
-Russian lines. Then the mother of the infant Alexander (a young German
+Russian lines. Then the mother of the [[Infant|infant]] Alexander (a young German
 Protestant of Jewish extraction from Stuttgart, according to A. von
 Wurzbach), only seventeen years old, and quite unable to speak Russian,
 was forced to seek shelter for some time in a peasant's hut. A year
@@ -20,12 +20,12 @@ youth--remaining there, after completing his studies at the university,
 till 1834, when he was arrested and tried on a charge of having
 assisted, with some other youths, at a festival during which verses by
 Sokolovsky, of a nature uncomplimentary to the emperor, were sung. The
-special commission appointed to try the youthful culprits found him
+special commission appointed to try the youthful [[Culprit|culprits]] found him
 guilty, and in 1835 he was banished to Viatka. There he remained till
-the visit to that city of the hereditary grand-duke (afterwards
+the visit to that city of the hereditary [[Grand-Duke|grand-duke]] (afterwards
 Alexander II.), accompanied by the poet Joukofsky, led to his being
 allowed to quit Viatka for Vladimir, where he was appointed editor of
-the official gazette of that city. In 1840 he obtained a post in the
+the official [[Gazette|gazette]] of that city. In 1840 he obtained a post in the
 ministry of the interior at St Petersburg; but in consequence of having
 spoken too frankly about a death due to a police officer's violence, he
 was sent to Novgorod, where he led an official life, with the title of
@@ -33,7 +33,7 @@ was sent to Novgorod, where he led an official life, with the title of
 his will a very large property. Early in 1847 he left Russia, never to
 return. From Italy, on hearing of the revolution of 1848, he hastened to
 Paris, whence he afterwards went to Switzerland. In 1852 he quitted
-Geneva for London, where he settled for some years. In 1864 he returned
+[[Geneva]] for London, where he settled for some years. In 1864 he returned
 to Geneva, and after some time went to Paris, where he died on the 21st
 of January 1870.
 
@@ -43,18 +43,18 @@ Russian, on _Dilettantism in Science_, under the pseudonym of
 pardoned, not being allowed in those days to publish under their own
 names. His second work, also in Russian, was his _Letters on the Study
 of Nature_ (1845-1846). In 1847 appeared, his novel _Kto Vinovat?_
-(Whose Fault?), and about the same time were published in Russian
+(Whose [[Fault]]?), and about the same time were published in Russian
 periodicals the stories which were afterwards collected and printed in
 London in 1854, under the title of _Prervannuie Razskazui_ (Interrupted
 Tales). In 1850 two works appeared, translated from the Russian
-manuscript, _Vom anderen Ufer_ (From another Shore) and _Lettres de
+[[Manuscript|manuscript]], _Vom anderen Ufer_ (From another Shore) and _Lettres de
 France et d'Italie_. In French appeared also his essay _Du Developpement
 des idees revolutionnaires en Russie_, and his _Memoirs_, which, after
 being printed in Russian, were translated under the title of _Le Monde
 russe et la Revolution_ (3 vols., 1860-1862), and were in part
 translated into English as _My Exile to Siberia_ (2 vols., 1855). From a
 literary point of view his most important work is _Kto Vinovat?_ a story
-describing how the domestic happiness of a young tutor, who marries the
+describing how the domestic happiness of a young tutor, who [[Marri|marries]] the
 unacknowledged daughter of a Russian sensualist of the old type, dull,
 ignorant and genial, is troubled by a Russian sensualist of the new
 school, intelligent, accomplished and callous, without there being any
@@ -93,7 +93,7 @@ statesman, which had appeared in the genuine number, was omitted. At
 length the sweeping changes introduced by Alexander II. greatly
 diminished the need for and appreciation of Hertzen's assistance in the
 work of reform. The freedom he had demanded for the serfs was granted,
-the law-courts he had so long denounced were remodelled, trial by jury
+the law-courts he had so long denounced were remodelled, trial by [[Jury|jury]]
 was established, liberty was to a great extent conceded to the press. It
 became clear that Hertzen's occupation was gone. When the Polish
 insurrection of 1863 broke out, and he pleaded the insurgents' cause,

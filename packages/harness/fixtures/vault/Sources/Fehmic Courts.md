@@ -41,7 +41,7 @@ passed and executed by the Fehmic courts in the emperor's name alone.
 
 The system, though ancient, began to become of importance only after the
 division of the duchy of Saxony on the fall of Henry the Lion, when the
-archbishop of Cologne, duke of Westphalia from 1180 onwards, placed
+archbishop of [[Cologne]], duke of Westphalia from 1180 onwards, placed
 himself as representative of the emperor at the head of the Fehme. The
 organization now rapidly spread. Every free man, born in lawful wedlock,
 and neither excommunicate nor outlaw, was eligible for membership.
@@ -61,7 +61,7 @@ archbishop of Cologne being, as stated above, supreme over all
 _Freigraf_ (free count) chosen for life by the _Stuhlherr_ from among
 the _Freischoffen_, who formed the great body of the initiated. Of these
 the lowest rank were the _Fronboten_ or _Freifronen_, charged with the
-maintenance of order in the courts and the duty of carrying out the
+[[Maintenance|maintenance]] of order in the courts and the duty of carrying out the
 commands of the _Freigraf_. The immense development of the Fehme is
 explained by the privileges of the _Freischoffen_; for they were subject
 to no jurisdiction but those of the Westphalian courts, whether as
@@ -71,14 +71,14 @@ society. At their initiation these swore to support the Fehme with all
 their powers, to guard its secrets, and to bring before its tribunal
 anything within its competence that they might discover. They were then
 initiated into the secret signs by which members recognized each other,
-and were presented with a rope and with a knife on which were engraved
+and were presented with a rope and with a [[Knife|knife]] on which were engraved
 the mystic letters S.S.G.G., supposed to mean _Strick_, _Stein_, _Gras_,
 _Grun_ (rope, stone, grass, green).
 
 The procedure of the Fehmic courts was practically that of the ancient
 German courts generally. The place of session, known as the _Freistuhl_
 (free seat), was usually a hillock, or some other well-known and
-accessible spot. The _Freigraf_ and _Schoffen_ occupied the bench,
+accessible spot. The _Freigraf_ and _Schoffen_ occupied the [[Bench|bench]],
 before which a table, with a sword and rope upon it, was placed. The
 court was held by day and, unless the session was declared secret, all
 freemen, whether initiated or not, were admitted. The accusation was in
@@ -87,7 +87,7 @@ the offence came under the competence of the court, i.e. was punishable
 by death, a summons to the accused was issued under the seal of the
 _Freigraf_. This was not usually served on him personally, but was
 nailed to his door, or to some convenient place where he was certain to
-pass. Six weeks and three days' grace were allowed, according to the old
+pass. Six weeks and three days' [[Grace|grace]] were allowed, according to the old
 Saxon law, and the summons was thrice repeated. If the accused appeared,
 the accuser stated the case, and the investigation proceeded by the
 examination of witnesses as in an ordinary court of law. The judgment
@@ -111,27 +111,27 @@ punishment which the secret court could inflict was death. If the
 accused appeared, the sentence was carried into execution at once; if he
 did not appear, it was quickly made known to the whole body, and the
 _Freischoffe_ who was the first to meet the condemned was bound to put
-him to death. This was usually done by hanging, the nearest tree serving
+him to death. This was usually done by [[Hanging|hanging]], the nearest tree serving
 for gallows. A knife with the cabalistic letters was left beside the
-corpse to show that the deed was not a murder.
+[[Corpse|corpse]] to show that the deed was not a murder.
 
 That an organization of this character should have outlived its
 usefulness and issued in intolerable abuses was inevitable. With the
-growing power of the territorial sovereigns and the gradual improvement
+growing power of the territorial sovereigns and the [[Gradual|gradual]] improvement
 of the ordinary process of justice, the functions of the Fehmic courts
-were superseded. By the action of the emperor Maximilian and of other
+were superseded. By the action of the emperor [[Maximilian]] and of other
 German princes they were, in the 16th century, once more restricted to
 Westphalia, and here, too, they were brought under the jurisdiction of
 the ordinary courts, and finally confined to mere police duties. With
 these functions, however, but with the old forms long since robbed of
 their impressiveness, they survived into the 19th century. They were
-finally abolished by order of Jerome Bonaparte, king of Westphalia, in
+finally abolished by order of Jerome [[Bonaparte]], king of Westphalia, in
 1811. The last _Freigraf_ died in 1835.
 
-  AUTHORITIES.--P. Wigand, _Das Femgericht Westfalens_ (Hamm, 1825, 2nd
-  ed., Halle, 1893); L. Tross, _Sammlung merkwurdiger Urkunden fur die
-  Geschichte der Femgerichte_ (Hanover, 1826); F.P. Usener, _Die frei-
-  und heimlichen Gerichte Westfalens_ (Frankfort, 1832); K.G. von
+  AUTHORITIES.--P. Wigand, _Das Femgericht Westfalens_ ([[Hamm]], 1825, 2nd
+  ed., [[Halle]], 1893); L. Tross, _Sammlung merkwurdiger Urkunden [[Fur|fur]] die
+  Geschichte der Femgerichte_ ([[Hanover]], 1826); F.P. Usener, _Die frei-
+  und heimlichen Gerichte Westfalens_ ([[Frankfort]], 1832); K.G. von
   Wachter, _Beitrage zur deutschen Gesch., insbesondere ... des
   deutschen Strafrechts_ (Tubingen, 1845); O. Wachter, F_emgerichte und
   Hexenprozesse in Deutschland_ (Stuttgart, 1882); T. Lindner, _Die

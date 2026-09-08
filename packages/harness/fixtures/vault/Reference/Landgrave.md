@@ -11,11 +11,11 @@ LANDGRAVE (Ger. _Landgraf_, from _Land_, "a country" and _Graf_, "count"
 ), a German title of nobility surviving from the times of the Holy Roman
 Empire. It originally signified a count of more than usual power or
 dignity, and in some cases implied sovereignty. The title is now rare;
-it is borne by the former sovereign of Hesse-Homburg, now incorporated
-in Prussia, the heads of the various branches of the house of Hesse, and
+it is borne by the former sovereign of [[Hesse-Homburg]], now incorporated
+in Prussia, the heads of the various branches of the house of [[Hesse]], and
 by a branch of the family of Fürstenberg. In other cases the title of
 landgrave is borne by German sovereigns as a subsidiary title; e.g. the
-grand-duke of Saxe-Weimar is landgrave of Thuringia.
+[[Grand-Duke|grand-duke]] of Saxe-Weimar is landgrave of Thuringia.
 
 
 
@@ -30,7 +30,7 @@ _Law of England._--The law of England--and the laws of Scotland and
 Ireland agree with it on this point--recognizes no absolute private
 ownership of land. The absolute and ultimate owner of all land is the
 crown, and the highest interest that a subject can hold therein--viz. an
-estate in fee simple--is only a tenancy. But this aspect of the law,
+estate in [[Fee|fee]] simple--is only a tenancy. But this aspect of the law,
 under which the landlord, other than the crown, is himself always a
 tenant, falls beyond the scope of the present article, which is
 restricted to those holdings that arise from the hiring and leasing of
@@ -40,16 +40,16 @@ land.
   Leases.
 
 The legal relationship of landlord and tenant is constituted by a lease,
-or an agreement for a lease, by assignment, by attornment and by
+or an agreement for a lease, by [[Assignment|assignment]], by attornment and by
 estoppel. And first of a lease and an agreement for a lease. All kinds
 of interests and property, whether corporeal, such as lands or
 buildings, or incorporeal, such as rights of common or of way, may be
-let. The Benefices Act 1898, however, now prohibits the grant of a lease
+let. The [[Benefice|Benefices]] Act 1898, however, now prohibits the grant of a lease
 of an advowson. Titles of honour, offices of trust or relating to the
 administration of justice, and pensions granted by the crown for
 military services are also inalienable. Generally speaking, any person
 may grant or take a lease. But there are a number of common-law and
-statutory qualifications and exceptions. A lease by or to an infant is
+statutory qualifications and exceptions. A lease by or to an [[Infant|infant]] is
 voidable at his option. But extensive powers of leasing the property of
 infants have been created by the Settled Estates Act 1877 and the
 Settled Land Act 1882. A person of unsound mind can grant or take a
@@ -63,7 +63,7 @@ An alien was, at common law, incapable of being either a lessor or a
 lessee. But this disqualification is removed by the Naturalization Act
 1870. The right to deal with the property of a convict while he is
 undergoing sentence (but not while he is out of prison on leave) is, by
-the Forfeiture Act 1870, vested in his administrator. Leases by or to
+the [[Forfeiture]] Act 1870, vested in his administrator. Leases by or to
 corporations must be by deed under their common seal, and the leasing
 powers of ecclesiastical corporations in particular are subject to
 complicated statutory restrictions which cannot here be examined (see
@@ -107,7 +107,7 @@ pays rent, the agreement will be regarded as a lease from year to year;
 and if the agreement is one of which specific performance would be
 decreed (i.e. if it contains a complete contract between the parties
 and satisfies the provisions--to be noted immediately--of the Statute of
-Frauds, and if, in all the circumstances, its enforcement is just and
+[[Fraud|Frauds]], and if, in all the circumstances, its enforcement is just and
 equitable), the lessee is treated as having a lease for the term fixed
 in the agreement from the time that he took possession under it, just as
 if a valid lease had been executed. At common law a lease for a term of
@@ -139,7 +139,7 @@ lawfully authorized by him.
   the surface. A lease under the Settled Land Act 1882 must be by deed
   and must be made to take effect in possession not later than 12 months
   after its date; the best rent that can reasonably be obtained must be
-  reserved and the lease must contain a covenant by the lessee for
+  reserved and the lease must contain a [[Covenant|covenant]] by the lessee for
   payment of the rent, and a condition of re-entry on non-payment within
   a specified time not exceeding 30 days, (ii.) _Tenancy for Years_,
   i.e. for a term of years.--This tenancy is created by an express
@@ -160,7 +160,7 @@ lawfully authorized by him.
   tenant may be dispossessed by a notice given at any time, effect will
   be given to this provision. The common law doctrine of a six months'
   notice being required to terminate a tenancy from year to year of a
-  corporeal hereditament, does not apply to an incorporeal hereditament
+  corporeal [[Hereditament|hereditament]], does not apply to an incorporeal hereditament
   such as a right to shoot. (iv.) _Tenancies for Shorter
   Periods._--Closely associated with tenancies from year to year are
   various other tenancies for shorter periods than a year--weekly,
@@ -181,7 +181,7 @@ lawfully authorized by him.
   tenancy, like tenancy from year to year, may be treated either by
   express contract or by implication, as where premises are occupied
   with the consent of the owner, but without any express or implied
-  agreement as to the duration of the tenancy, or where a house is lent
+  agreement as to the duration of the tenancy, or where a house is [[Lent|lent]]
   rent free by one person to another. A tenancy at will is determined by
   either party alienating his interest as soon as such alienation comes
   to the knowledge of the other. (vi.) _Tenancy at Sufferance._--A
@@ -207,14 +207,14 @@ used, but any term indicating an express intention to make a present
 letting is sufficient); the parcels in which the extent of the premises
 demised is stated; the _habendum_ (which defines the commencement and
 the term of the lease), the _reddendum_ or reservation of rent, and the
-covenants and conditions. The Conveyancing Act 1881 provides that, as
-regards conveyances subsequent to 1881, unless a contrary intention is
+covenants and conditions. The [[Conveyancing]] Act 1881 provides that, as
+regards [[Conveyance|conveyances]] subsequent to 1881, unless a contrary intention is
 expressed, a lease of "land" is to be deemed to include all buildings,
-fixtures, easements, &c., appertaining to it; and, if there are houses
+[[Fixtures|fixtures]], [[Easement|easements]], &c., appertaining to it; and, if there are houses
 or other buildings on the land demised, all out-houses, erections, &c.,
 are to pass with the lease of the land. Rights which the landlord
 desires to retain over the lands let are excepted or reserved. Sporting
-rights will pass to the lessee unless reserved (see GAME LAWS). A grant
+rights will pass to the lessee unless reserved (see [[Game|GAME]] LAWS). A grant
 or reservation of mines in general terms confers, or reserves, a right
 to work the mines, subject to the obligation of leaving a reasonable
 support to the surface as it exists at the time of the grant or
@@ -253,7 +253,7 @@ absence of a date, it will take effect from the day of delivery.
   ordinarily be included. (iii.) _The Covenants running with the
   Land._--A covenant is said to "run with the land" when the rights and
   duties which it creates are not merely personal to the immediate
-  parties (in which case a covenant is said to be "collateral"), but
+  parties (in which case a covenant is said to be "[[Collateral|collateral]]"), but
   pass also to their assignees. At common law, it was said that
   covenants "ran with the land" but not with the reversion, the assignee
   of the reversion not having the rights of the original lessor. But the
@@ -277,15 +277,15 @@ absence of a date, it will take effect from the day of delivery.
   be applied for even if, under the covenant, it cannot be withheld);
   and covenants in restraint of trade, e.g. not to use the demised
   premises for certain trading purposes, and in the case of "tied
-  houses" a covenant by the lessees to purchase all beer required from
+  houses" a covenant by the lessees to purchase all [[Beer|beer]] required from
   the lessors.
 
   In addition a lease frequently contains covenants for renewal of the
-  lease at the option of the lessee, and for repairs or insurance
+  lease at the option of the lessee, and for repairs or [[Insurance|insurance]]
   against damage by fire by the lessee. Leases frequently contain a
-  covenant by the lessee to bear and pay rates, taxes, assessments and
-  other "impositions" or "charges," or "duties" or "outgoings," or
-  "burdens" (except property tax) imposed upon the demised premises
+  covenant by the lessee to bear and pay rates, taxes, [[Assessment|assessments]] and
+  other "[[Imposition|impositions]]" or "charges," or "duties" or "outgoings," or
+  "[[Burden|burdens]]" (except property tax) imposed upon the demised premises
   during the term. Considerable difficulty has arisen as to the scope of
   the terms "impositions," "charges," "duties," "outgoings," "burdens."
   The words, "rates, taxes, assessments" point to payments of a
@@ -301,7 +301,7 @@ absence of a date, it will take effect from the day of delivery.
   and not in favour of restricting the meaning of covenants of this
   class. It may be added that, if a lessee covenants to pay rates and
   taxes, no demand by the collector apparently is necessary to
-  constitute a breach of the covenant; where a rate is duly made and
+  constitute a [[Breach|breach]] of the covenant; where a rate is duly made and
   published it is the duty of the parties assessed to seek out the
   collector and pay it.
 
@@ -318,7 +318,7 @@ tenant during the term, but not for wrongful eviction unless he is
 himself the wrong-doer or has expressly made himself responsible for
 evictions of all kinds. It may be noted here that at common law no lease
 for years is complete till actual entry has been made by the lessee.
-Till then, he has only a right of entry or _interesse termini_. (ii.)
+Till then, he has only a right of entry or _[[Interesse Termini|interesse termini]]_. (ii.)
 The tenant, on his part, is presumed to undertake to use the property in
 a reasonable manner, according to the purposes for which it was let, and
 to do reasonable repairs. A landlord is not presumed to have undertaken
@@ -330,7 +330,7 @@ keep the premises in "good condition" or "tenantable repair." The amount
 and quality of the repairs necessary to fulfil the covenant are always
 relative to the age, class and condition of the premises at the time of
 the lease. A tenant is not responsible, under such a covenant, for
-deterioration due to diminution in value caused by lapse of time or by
+deterioration due to diminution in value caused by [[Lapse|lapse]] of time or by
 the elements. Where there is an unqualified covenant to repair, and the
 premises during the tenancy are burnt down, or destroyed by some other
 inevitable calamity, the tenant is bound to rebuild and restore them at
@@ -385,7 +385,7 @@ underlessee to inform himself as to the covenants of the original lease,
 and, if he enters and takes possession, he will be considered to have
 had full notice of, and will be bound by, these covenants.
 
-_Bankruptcy, Death._--The contract of tenancy may also be altered by
+_[[Bankruptcy]], Death._--The contract of tenancy may also be altered by
 operation of law. If a tenant become bankrupt, his interest passes to
 his trustee in bankruptcy--unless, as is frequently the case, the lease
 makes the occurrence of that contingency determine the lease. So, on the
@@ -429,7 +429,7 @@ tenant. (1) In respect of _fixtures_ (which may be shortly defined as
 movables so affixed to the soil as to become part thereof), the tenant
 may sometimes remove them, e.g. when they have been brought on the
 premises for the purpose of being used in business (see FIXTURES). (2)
-In respect of _emblements_, i.e. the profits of sown land, a tenant may
+In respect of _[[Emblements|emblements]]_, i.e. the profits of sown land, a tenant may
 be entitled to these whose term comes to an end by the happening of an
 uncertain contingency (see EMBLEMENTS). (3) A similar right is very
 generally recognized by custom in tenants whose term expires in the
@@ -459,15 +459,15 @@ The law as to _Ejectment_ is dealt with under that heading.
   writing; and (ii.) certain other classes of improvements although the
   landlord's consent has not been obtained. As examples of class (i.)
   may be mentioned--erection or enlargement of buildings, laying down of
-  permanent pasture, making of gardens or fences, planting of hops,
-  embankments and sluices; as examples of (ii.)--chalking of land, clay
+  permanent pasture, making of gardens or fences, planting of [[Hop|hops]],
+  [[Embankment|embankments]] and sluices; as examples of (ii.)--chalking of land, clay
   burning, application to land of purchased artificial or purchased
   manure, except they have been made for the purpose of making provision
   to protect the holding from injury or deterioration. In the case of
   proposed drainage improvements, notice in writing must be given to the
   landlord, who may then execute the improvements himself and charge the
   tenant with interest not exceeding 5% per annum on the outlay, or such
-  annual instalments, payable for a period of twenty-five years, and
+  annual [[Instalment|instalments]], payable for a period of twenty-five years, and
   recoverable as rent, as will repay the outlay, with interest at the
   rate of 3% a year. Under s. 11 of the act a tenant is entitled to
   compensation for disturbance, when he is compelled to quit without
@@ -488,7 +488,7 @@ The law as to _Ejectment_ is dealt with under that heading.
   small holdings and allotments (the expression "small holding" meaning
   an agricultural holding which exceeds one acre, and either does not
   exceed fifty acres, or, if exceeding fifty acres, is at the date of
-  sale or letting of an annual value for the purposes of income tax not
+  sale or letting of an annual value for the purposes of [[Income Tax|income tax]] not
   exceeding fifty pounds; the expression "allotment" includes a field
   garden). Section 47 of the act gives the tenant the same rights to
   compensation as if his holding had been a holding under the
@@ -512,21 +512,21 @@ Long Leases_.
   I. _Ordinary Leases, Common Law and Statutory._--A verbal lease for a
   year is good. Such a lease for more than a year is not effectual even
   for a year, except where the lessee has taken possession. At common
-  law, while a lease was binding on the grantor and his heirs, it was
+  law, while a lease was binding on the grantor and his [[Heir|heirs]], it was
   not good against "singular successors," i.e. persons acquiring by
   purchase or adjudication, and the lessee was liable to be ejected by
   such persons, unless (a precaution usually taken) sasine of the
   subjects demised was expressly conferred on him by the lease. To
   obviate this difficulty, the Scots Act 1449, c. 18, made possession of
   the subjects of the lease equivalent to sasine. This enactment applies
-  to leases of agricultural subjects, houses, mills, fisheries and
+  to leases of agricultural subjects, houses, mills, [[Fisheries|fisheries]] and
   whatever is _fundo annexum_; provided that (a) the lease, when for
   more than one year, must be in writing, (b) it must be definite as to
   subject, rent (which may consist of money, grain or services, if the
   _reddendum_ is not illusory) and term of duration, (c) possession must
   follow on the lease. Special powers of granting leases are conferred
-  by statute on trustees. (Trusts [Scotland] Act 1867, s. 2), _curatores
-  bonis_ (Judicial Factors [Scotland] Act 1889) and heirs of entail (cf.
+  by statute on trustees. (Trusts [Scotland] Act 1867, s. 2), _[[Curator|curatores]]
+  [[Boni|bonis]]_ (Judicial Factors [Scotland] Act 1889) and heirs of [[Entail|entail]] (cf.
   Entail Act 1882, ss. 5, 6, 8, 9). The requisites of the statutory
   leases, last mentioned, are similar to those imposed in England upon
   tenants for life by the Settled Land Acts (_v. sup._ p. 3). The rent
@@ -541,9 +541,9 @@ Long Leases_.
   no destination to heirs. The rights and obligations of the lessor and
   the tenant (e.g. as to the use of the produce, the payment of rent,
   the quiet possession of the subjects demised, and as to the payment of
-  rates and taxes) are similar to those existing under English law. An
+  rates and taxes) are similar to those existing under [[English Law|English law]]. An
   agricultural lease does not, apart from stipulation, confer any right
-  to kill game, other than hares and rabbits (as to which, see the
+  to kill game, other than [[Hare|hares]] and rabbits (as to which, see the
   Ground Game Act 1880, and GAME LAWS) or any right of fishing. A tenant
   is not entitled, without the landlord's consent, to change the
   character of the subjects demised, and, except under an agricultural
@@ -572,7 +572,7 @@ Long Leases_.
   destruction, e.g. by fire, of the subject leased, unless the
   landlord is bound to restore it. Complete destruction of the subject
   leased, e.g. where a house is burnt down, or a farm is reduced to
-  "sterility" by flood or hurricane, discharges the tenant from the
+  "sterility" by [[Flood|flood]] or [[Hurricane|hurricane]], [[Discharge|discharges]] the tenant from the
   obligation to pay rent. The effect of partial destruction has given
   rise to some uncertainty. "The distinction seems to be that if the
   destruction be permanent, though partial, the failure of the subject
@@ -596,7 +596,7 @@ Long Leases_.
   reap the crop sown before the term of removal (whether or not that be
   the natural termination of the lease), the right of exclusive
   possession being his during seed time. But he is not entitled to the
-  use of the barns in threshing, &c., the corn.
+  use of the barns in threshing, &c., the [[Corn|corn]].
 
   The Agricultural Holdings (Scotland) Acts 1883 and 1900, already
   referred to incidentally, contain provisions--similar to those of the
@@ -609,10 +609,10 @@ Long Leases_.
   pasture land--"from year to year who resides on his holding, the
   annual rent of which does not exceed £30 in money, and which is
   situated in a 'crofting parish.'" Nearly all the parishes in Argyll,
-  Inverness, Ross, Cromarty, Sutherland, Caithness and Orkney and
+  [[Inverness]], Ross, Cromarty, Sutherland, [[Caithness]] and Orkney and
   Shetland answer to this description. The crofter enjoys a perpetual
   tenure subject to the fulfilment of certain conditions as to payment
-  of rent, non-assignment of tenancy, &c., and to defeasance at his own
+  of rent, non-assignment of tenancy, &c., and to [[Defeasance|defeasance]] at his own
   option on giving one year's notice to the landlord. A Crofters'
   Commission constituted under the acts has power to fix fair rents, and
   the crofter on renunciation of his tenancy or removal from his holding
@@ -620,7 +620,7 @@ Long Leases_.
   Holdings Act 1892 applies to Scotland.
 
   Under the law of Scotland down to 1880, a landlord had as security for
-  rent due on an agricultural lease a "hypothec"--i.e. a preferential
+  rent due on an agricultural lease a "[[Hypothec|hypothec]]"--i.e. a preferential
   right over ordinary creditors, and extending, subject to certain
   limitations, over the whole stock and crop of the tenant. This right
   was enforceable by sequestration and sale. It was abolished in 1880 as
@@ -666,7 +666,7 @@ the same way, and the rights and duties of parties are substantially
 identical. A lease must contain, either in itself or by clear reference,
 all the terms of a complete contract--the names of the parties,
 description of the property let, the rent (see RENT) and the conditions.
-The date is not essential. That is a matter of identification as to
+The date is not essential. That is a matter of [[Identification|identification]] as to
 time only. In Pennsylvania, parol evidence of the date is allowed. The
 general American doctrine is that where the contract is contained in
 separate writings they must connect themselves by reference, and that
@@ -690,7 +690,7 @@ the enjoyment of the subject agreed to be let.
 _Laws of other Countries._--It is impossible here to deal with the
 systems of land tenure in force in other countries. Only the question of
 the legal relations between landlord and tenant can be touched upon. In
-France, the Code Civil recognizes two such relationships, the letting to
+France, the [[Code]] Civil recognizes two such relationships, the letting to
 hire of houses (_bail à loyer_) and the letting to farm of rural
 properties (_bail à ferme_). To a certain extent, both forms of tenancy
 are governed by the same rules. The letting may be either written or
@@ -699,7 +699,7 @@ unperformed and one of the parties denies its existence, it cannot be
 proved by witnesses. The party who denies the letting can only be put to
 his oath (Arts. 1714-1715). It may further be noted that in the case of
 a verbal lease, notice to quit is regulated by the custom of the place
-(Art. 1736). The tenant or farmer has the right of underletting or
+(Art. 1736). The tenant or [[Farmer|farmer]] has the right of underletting or
 assigning his lease, in the absence of prohibiting stipulation (Art.
 1717). The lessor is bound by the nature of his contract and without the
 need of any particular stipulation (i.) to deliver to the lessee the
@@ -707,7 +707,7 @@ thing hired in a good state of repair; (ii.) to maintain it in a state
 to serve the purpose for which it has been hired; (iii.) to secure to
 the lessee peaceable enjoyment during the continuance of the lease
 (Arts. 1719-1720). He is bound to warrant the lessee against, and to
-indemnify him for, any loss arising from any faults or defects in the
+indemnify him for, any loss arising from any [[Fault|faults]] or defects in the
 thing hired which prevent its use, even though he was not aware of them
 at the time of the lease (Art. 1721). If during the continuance of the
 letting, the thing hired is entirely destroyed by accident, the lease is
@@ -739,22 +739,22 @@ the prescribed term (Art. 1737)--if at that period the lessee remains
 and is left in possession, there is, in the case of written leases, a
 tacit renewal (_tacite reconduction_) of the lease as a verbal lease
 (Arts. 1738-1739); (ii.) by the loss of the thing hired and by the
-default of the lessor or lessee in the fulfilment of their respective
+[[Default|default]] of the lessor or lessee in the fulfilment of their respective
 obligations (Art. 1741), but (iii.) not by the death either of the
 lessor or of the lessee (1742). The conditions of EJECTMENT are stated
 under that heading. The special rules (Arts. 1752-1762) relative to the
 hire of houses are touched upon in LODGER AND LODGINGS. It only remains
 here to refer to those applicable to leases to farm. The lessee is bound
-to stock the farm with the cattle and implements necessary for its
+to stock the farm with the cattle and [[Implement|implements]] necessary for its
 husbandry (Art. 1766), and to stack in the places appointed for the
 purpose in the lease (Art. 1767). A lessee, who farms on condition of
 dividing the produce with the lessor, can only underlet or assign if he
 is expressly empowered to do so by the lease (Art. 1763). The lessee
 must give notice to the lessor of any acts of usurpation committed on
-the property (Art. 1768). If at least half of the harvest in any year is
+the property (Art. 1768). If at least half of the [[Harvest|harvest]] in any year is
 destroyed by accident, the lessee (a) in the case of a lease for several
 years, obtains, at the end of his lease, a refund of rent, by way of
-indemnity, unless he has been indemnified by preceding harvests; (b) in
+[[Indemnity|indemnity]], unless he has been indemnified by preceding harvests; (b) in
 the case of a lease for a year only, may secure a proportional abatement
 of the current rent. No refund is payable if the produce was severed
 before the accident, unless the lessor was entitled to a portion of it,
@@ -763,8 +763,8 @@ morâ_ as regards the delivery of the lessor's portion. The lessee has no
 right to a refund when the cause of damage was existing and known at the
 date of the lease (Arts. 1769-1771). Liability for loss by "accidents"
 may be thrown on the lessee by express stipulation (Art. 1772).
-"Accidents" here mean ordinary accidents only, such as hail, lightning
-or frost, and the lessee will not be answerable for loss caused by
+"Accidents" here mean ordinary accidents only, such as [[Hail|hail]], lightning
+or [[Frost|frost]], and the lessee will not be answerable for loss caused by
 extraordinary accidents such as war or floods, unless he has been made
 liable for all accidents, foreseen or unforeseen (Art. 1773). A verbal
 lease is deemed to be for the term necessary to enable the lessee to
@@ -788,7 +788,7 @@ lessor--the lessee taking half the profit and bearing half the loss
 (Art. 1804); (ii.) cheptel by moiety (_cheptel à moietié_)--here each of
 the contracting parties furnishes half of the stock, which remains
 common for profit or loss (Art. 1818); (iii.) cheptel given to a farmer
-(_fermier_) or participating cultivator (_colon partiaire_)--in the
+(_fermier_) or participating cultivator (_[[Colon|colon]] partiaire_)--in the
 cheptel given to the farmer (also called _cheptel de fer_) stock of a
 value equal to the estimated price of the stock given must be left at
 the expiry of the lease (Art. 1821); cheptel given to the participating
@@ -798,7 +798,7 @@ contract by which cattle are given to be housed and fed--here the lessor
 retains the ownership, but has only the profit of the calves (Art.
 1831).
 
-The French system just described is in force in its entirety in Belgium
+The French system just described is in force in its entirety in [[Belgium]]
 (Code Civil, Arts. 1713 et seq.) and has been followed to some extent
 in Italy (Civil Code, Arts. 1568 et seq.), Spain (Civil Code, Arts 1542
 et seq.), and Portugal (Civil Code, Arts. 1298 et seq., 1595 et seq.).
@@ -811,34 +811,34 @@ the French.
 
 The Indian law of landlord and tenant is described in the article INDIAN
 LAW. The laws of the various British colonies on the subject are too
-numerous and too different to be dealt with here. In Mauritius, the
+numerous and too different to be dealt with here. In [[Mauritius]], the
 provisions of the Code Civil are in force without modification. In
-Quebec (Civil Code, Arts. 1605 et seq.) and St Lucia (Civil Code, Arts.
+Quebec (Civil Code, Arts. 1605 et seq.) and St [[Lucia]] (Civil Code, Arts.
 1512 et seq.) they have been reproduced by the local law. In many of the
 colonies, parts of the English law of landlord and tenant, common law
 and statutory, have been introduced by local enactments (cf. British
-Guiana, Ord. 4 of 1846; Jamaica, 1 Vict. c. 26). In others (e.g.
+[[Guiana]], Ord. 4 of 1846; Jamaica, 1 Vict. c. 26). In others (e.g.
 Victoria, Landlord and Tenant Act 1890, No. 1108; Ontario, Rev. Stats.
 1897, c. 170) consolidating statutes have been passed.
 
-  AUTHORITIES.--English Law: Wolstenholme, Brinton and Cherry,
+  AUTHORITIES.--English Law: Wolstenholme, [[Brinton]] and Cherry,
   _Conveyancing and Settled Land Acts_ (London, 9th ed., 1905); Hood and
   Challis, _Conveyancing and Settled Land Acts_ (London, 7th ed., 1909);
   Foà, on _Landlord and Tenant_ (London, 4th ed., 1907); Woodfall, on
   _Landlord and Tenant_ (London, 18th ed., 1907); Fawcett, _Landlord and
-  Tenant_ (London, 3rd ed., 1905). Scots Law: Hunter, on _Landlord and
+  Tenant_ (London, 3rd ed., 1905). Scots Law: [[Hunter]], on _Landlord and
   Tenant_ (Edinburgh, 4th ed., 1876); Rankine, on _Land Ownership_
   (Edinburgh, 3rd ed., 1891); Rankine, on _Leases_ (Edinburgh, 2nd ed.,
-  1893); Hunter, _Landlord and Tenant_ (4th ed. G. Guthrie, Edinburgh,
+  1893); Hunter, _Landlord and Tenant_ (4th ed. G. [[Guthrie]], Edinburgh,
   1876). Irish Law: Kelly's _Statute Law of Landlord and Tenant in
-  Ireland_ (Dublin, 1898); Barton and Cherry's _Land Act 1896_ (Dublin,
+  Ireland_ (Dublin, 1898); [[Barton]] and Cherry's _Land Act 1896_ (Dublin,
   1896); Quill, Hamilton and Longworth, _Irish Land Acts of 1903 and
   1904_ (Dublin, 1904). American Law: Bouvier, _Law Dictionary_ (ed.
   Rawle) (London, 1897); McAdam, _Rights, Remedies and Liabilities of
   Landlord and Tenant_ (New York, 1900); Wood, _Law of Landlord and
   Tenant_ (New York, 1888). Foreign and Colonial Laws: Field,
   _Landholding and the relation of Landlord and Tenant in various
-  Countries; Ruling Cases_ (American Notes), (London and Boston,
+  Countries; Ruling Cases_ (American Notes), (London and [[Boston]],
   1894-1901).     (A. W. R.)
 
 ## See also

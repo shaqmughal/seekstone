@@ -12,7 +12,7 @@ plays, notably _La Città morta_ (1898) and _Francesca da Rimini_ (1901),
 provided her with important parts. But some of her great successes
 during the 'eighties and early 'nineties--the days of her chief
 triumphs--were in Italian versions of such plays as _La Dame aux
-camélias_, in which Sarah Bernhardt was already famous; and Madame
+[[Cam|cam]]é[[Lias|lias]]_, in which Sarah Bernhardt was already famous; and Madame
 Duse's reputation as an actress was founded less on her "creations" than
 on her magnificent individuality. In contrast to the great French
 actress she avoided all "make-up"; her art depended on intense

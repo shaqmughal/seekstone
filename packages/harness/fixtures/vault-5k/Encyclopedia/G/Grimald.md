@@ -1,14 +1,14 @@
 # Grimald
 
 GRIMALD (or GRIMOALD), NICHOLAS (1519-1562), English poet, was born in
-Huntingdonshire, the son probably of Giovanni Baptista Grimaldi, who had
-been a clerk in the service of Empson and Dudley in the reign of Henry
+[[Huntingdonshire]], the son probably of Giovanni Baptista Grimaldi, who had
+been a clerk in the service of Empson and [[Dudley]] in the reign of Henry
 VII. He was educated at Christ's College, Cambridge, where he took his
 B.A. degree in 1540. He then removed to Oxford, becoming a
 probationer-fellow of Merton College in 1541. In 1547 he was lecturing
-on rhetoric at Christ Church, and shortly afterwards became chaplain to
+on rhetoric at Christ Church, and shortly afterwards became [[Chaplain|chaplain]] to
 Bishop Ridley, who, when he was in prison, desired Grimald to translate
-Laurentius Valla's book against the alleged _Donation of Constantine_,
+[[Laurentius]] Valla's book against the alleged _[[Donation Of Constantine|Donation of Constantine]]_,
 and the _De gestis Basiliensis Concilii_ of Aeneas Sylvius (Pius II.).
 His connexion with Ridley brought him under suspicion, and he was
 imprisoned in the Marshalsea. It is said that he escaped the penalties
@@ -23,14 +23,14 @@ attributed to him, but most of the works assigned to him by Bale are
 lost. Two Latin tragedies are extant; _Archipropheta sive Johannes
 Baptista_, printed at Cologne in 1548, probably performed at Oxford the
 year before, and _Christus redivivus_ (Cologne, 1543), edited by Prof.
-J. M. Hart (for the Modern Language Association of America, 1886,
+J. M. [[Hart]] (for the Modern Language Association of America, 1886,
 separately issued 1899). It cannot be determined whether Grimald was
 familiar with Buchanan's _Baptistes_ (1543), or with J. Schoeppe's
 _Johannes decollatus vel Ectrachelistes_ (1546). Grimald provides a
 purely romantic motive for the catastrophe in the passionate attachment
-of Herodias to Herod, and constantly resorts to lyrical methods. As a
+of Herodias to [[Herod]], and constantly resorts to lyrical methods. As a
 poet Grimald is memorable as the earliest follower of Surrey in the
-production of blank verse. He writes sometimes simply enough, as in the
+production of [[Blank|blank]] verse. He writes sometimes simply enough, as in the
 lines on his own childhood addressed to his mother, but in general his
 style is more artificial, and his metaphors more studied than is the
 case with the other contributors to the _Miscellany_. His classical

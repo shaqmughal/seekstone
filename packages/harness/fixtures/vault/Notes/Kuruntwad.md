@@ -16,7 +16,7 @@ senior and a junior branch. The territory of both is widely scattered
 among other native states and British districts. Area of the senior
 branch, 185 sq. m.; pop. (1901), 42,474; revenue, £13,000. Area of
 junior branch, 114 sq. m.; pop. (1901), 34,003; revenue, £9000. The
-joint tribute is £640. The chiefs are Brahmans by caste, of the
+joint tribute is £640. The chiefs are [[Brahman|Brahmans]] by [[Caste|caste]], of the
 Patwardhan family. The town of Kuruntwad, in which both branches have
 their residence, is on the right bank of the Panchganga river near its
 junction with the Kistna. Pop. (1901), 10,451.

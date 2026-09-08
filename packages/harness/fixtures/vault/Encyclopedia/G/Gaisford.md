@@ -14,9 +14,9 @@ in 1811 appointed regius professor of Greek in the university. Taking
 orders, he held (1815-1847) the college living of Westwell, in
 Oxfordshire, and other ecclesiastical preferments simultaneously with
 his professorship. From 1831 until his death on the 2nd of June 1855, he
-was dean of Christ Church. As curator of the Bodleian and principal
+was dean of Christ Church. As [[Curator|curator]] of the Bodleian and principal
 delegate of the University Press he was instrumental in securing the
-co-operation of distinguished European scholars as collators, notably
+[[Co-Operation|co-operation]] of distinguished European scholars as collators, notably
 Bekker and Dindorf. Among his numerous contributions to Greek literature
 may be mentioned, Hephaestion's _Encheiridion_ (1810); _Poetae Graeci
 minores_ (1814-1820); Stobaeus' _Florilegium_ (1822); _Herodotus_, with

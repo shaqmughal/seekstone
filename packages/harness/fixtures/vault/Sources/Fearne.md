@@ -21,7 +21,7 @@ expense. He died in 1794, leaving his widow and family in necessitous
 circumstances. His _Essay on the Learning of Contingent Remainders and
 Executory Devises_, the work which has made his reputation as a legal
 authority, and which has passed through numerous editions, was called
-forth by a decision of Lord Mansfield in the case of _Perrin v. Blake_,
+forth by a decision of Lord [[Mansfield]] in the case of _Perrin v. [[Blake]]_,
 and had the effect of reversing that decision.
 
   A volume entitled _Fearne's Posthumous Works_ was published by
@@ -47,7 +47,7 @@ civilization, at least in its earlier stages, will generally be found to
 increase their number, enrich their ritual, fix more precisely the time
 and order of their recurrence, and widen the area of their observance.
 
-Some uncivilized tribes, such as the Juangs of Bengal, the Fuegians and
+Some uncivilized tribes, such as the Juangs of [[Bengal]], the Fuegians and
 the Andamanese, have been described as having no word for God, no idea
 of a future state, and consequently no religious ceremonies of any kind
 whatever. But such cases, doubtful at the best, are confessedly
@@ -69,9 +69,9 @@ ceremonial observed is of the simplest; but it ever tends to become more
 elaborate; and above all it calls for repetition, and repetition, too,
 at regular intervals. Whenever this last demand has made itself felt, a
 calendar begins to take shape. The simplest calendar is obviously the
-lunar. "The Naga tribes of Assam celebrate their funeral feasts month by
+lunar. "The Naga tribes of [[Assam]] celebrate their funeral feasts month by
 month, laying food and drink on the graves of the departed." But it soon
-comes to be combined with the solar. Thus the Karens, "while habitually
+comes to be combined with the solar. Thus the [[Karen|Karens]], "while habitually
 making oblations, have also annual feasts for the dead, at which they
 ask the spirits to eat and drink." The natives of the Mexican valley in
 November lay animals, edibles and flowers on the graves of their dead
@@ -91,7 +91,7 @@ seasons of the year, and also on certain other days.[3]
 In the majority of recorded instances, the religious feeling of the
 savage has been found to express itself in other forms besides that of
 reverence towards the dead. The oldest literatures of the world, at all
-events, whether Aryan or Semitic, embody a religion of a much higher
+events, whether [[Aryan]] or Semitic, embody a religion of a much higher
 type than ancestor worship. The hymns of the Rig-Veda, for example,
 while not without traces of the other, yet indicate chiefly a worship of
 the powers of nature, connected with the regular recurrence of the
@@ -105,7 +105,7 @@ to commence only at certain lucky constellations and in certain months.
 So, for instance, as a rule, no great sacrifice can commence during the
 sun's southern progress. The great sacrifices generally take place in
 spring, in the months of April and May.[5] In the Parsee Scriptures[6]
-the year is divided into six seasons or gahanbars of two months each,
+the year is divided into six seasons or [[Gahanbar|gahanbars]] of two months each,
 concluding with February, the season at which "great expiatory
 sacrifices were offered for the growth of the whole creation in the last
 two months of the year." We have no means of knowing precisely what were
@@ -142,8 +142,8 @@ special observances intended for purposes of purification and expiation,
 after which the festivities lasted until the moon entered her second
 quarter.
 
-_Greek Festivals._--Perhaps the annual Attic festival in honour of
-Erechtheus alluded to in the _Iliad_ (ii. 550) ought to be regarded as
+_Greek Festivals._--Perhaps the annual [[Attic]] festival in honour of
+[[Erechtheus]] alluded to in the _Iliad_ (ii. 550) ought to be regarded as
 an instance of ancestor-worship; but the seasonal character of the
 [Greek: heorte] or new-moon feast in _Od._ xx. 156, and of the [Greek:
 thalusia] or harvest-festival in _Il._ ix. 533, is generally
@@ -151,7 +151,7 @@ acknowledged. The older Homeric poems, however, give no such express
 indications of a fully-developed system of festivals as are to be met
 with in the so-called "Homeric" hymns, in the _Works and Days_ of
 Hesiod, in the pages of Herodotus, and so abundantly in most authors of
-the subsequent period; and it is manifest that the calendar of Homer or
+the subsequent period; and it is [[Manifest|manifest]] that the calendar of [[Homer]] or
 even of Herodotus must have been a much simpler matter than that of the
 Tarentines, for example, came to be, of whom we are told by Strabo that
 their holidays were in excess of their working days. Each demos of
@@ -163,15 +163,15 @@ lost, and in others have reached us only in a very fragmentary state.
 But with regard to the Athenian calendar, the most interesting of all,
 our means of information are fortunately very copious. It included some
 50 or 60 days on which all business, and especially the administration
-of justice, was by order of the magistrates suspended. Among these
+of justice, was by order of the [[Magistrate|magistrates]] suspended. Among these
 [Greek: hieromeniai] were included--in Gamelion (January), the _Lenaea_
-or festival of vats in honour of Dionysus; in Anthesterion (February),
+or festival of vats in honour of [[Dionysus]]; in Anthesterion (February),
 the _Anthesteria_, also in honour of Dionysus, lasting three days
 (Pithoigia, Choes and Chytri); the _Diasia_ in honour of Zeus, and the
 lesser _Eleusinia_; in Elaphebolion (March), the _Pandia_ (? of Zeus),
-the _Elaphebolia_ of Artemis, and the greater _Dionysia_; in Munychion,
+the _Elaphebolia_ of Artemis, and the greater _[[Dionysia]]_; in Munychion,
 the _Munychia_ of Artemis as the moon goddess ([Greek: Mounuchia]) and
-the _Delphinia_ of Apollo; in Thargelion (May), the _Thargelia_ of
+the _[[Delphinia]]_ of [[Apollo]]; in Thargelion (May), the _Thargelia_ of
 Apollo and the _Plynteria_ and _Callynteria_ of Athena; in Scirophorion
 (June), the _Diipolia_ of Zeus and the _Scirophoria_ of Athena; in
 Hekatombaion, hecatombs were offered to Apollo the summer-god, and the
@@ -192,7 +192,7 @@ equinoxes and the solstices.[9] In addition to their numerous public
 festivals, the Greeks held various family celebrations, also called
 [Greek: heortai], in connexion with weddings, births and similar domestic
 occurrences. For the great national [Greek: panegureis]--Olympian,
-Pythian, Nemean and Isthmian--see the article GAMES, CLASSICAL.
+Pythian, Nemean and Isthmian--see the article [[Games|GAMES]], CLASSICAL.
 
 _Roman Festivals._--For the purpose of holding _comitia_ and
 administering justice, the days of the Roman year were regarded as being
@@ -216,7 +216,7 @@ possess of the _Fasti_ of Ovid. The number was somewhat fluctuating.
 Festivals frequently fell into desuetude or were revived, were increased
 or diminished, were shortened or prolonged at the will of the emperor,
 or under the caprice of the popular taste. Thus Augustus restored the
-Compitalia and Lupercalia; while Marcus Antoninus in his turn found it
+Compitalia and [[Lupercalia]]; while Marcus Antoninus in his turn found it
 expedient to diminish the number of holidays.
 
 The following is an enumeration of the stated festivals as given by Ovid
@@ -229,22 +229,22 @@ so also on the 15th. On the 13th of February were the _Faunalia_, on the
 15th the _Lupercalia_, on the 17th the _Quirinalia_, on the 18th the
 _Feralia_, on the 23rd (at one time the last day of the Roman year) the
 _Terminalia_, on the 24th the _Regifugium_ or _Fugalia_, and on the 27th
-the _Equiria_ (of Mars). On the 1st of March were the _Matronalia_, on
-the 14th a repetition of the _Equiria_, on the 15th the festival of Anna
+the _Equiria_ (of [[Mars]]). On the 1st of March were the _Matronalia_, on
+the 14th a repetition of the _Equiria_, on the 15th the festival of [[Anna]]
 Perenna, on the 17th the _Liberalia_ or _Agonalia_, and from the 19th to
 the 23rd the _Quinquatria_ (of Minerva). On the 4th of April were the
-_Megalesia_ (of Cybele), on the 12th the _Cerealia_, on the 21st the
+_Megalesia_ (of [[Cybele]]), on the 12th the _Cerealia_, on the 21st the
 _Palilia_, on the 23rd the _Vinalia_, on the 25th the _Robigalia_, and
 on the 28th the _Floralia_. The 1st of May was the festival of the
-_Lares Praestites_; on the 9th, 11th and 13th the _Lemuria_ were
-celebrated; on the 12th the _Ludi Martiales_, and on the 15th those of
+_[[Lares]] Praestites_; on the 9th, 11th and 13th the _Lemuria_ were
+celebrated; on the 12th the _Ludi [[Martial|Martiales]]_, and on the 15th those of
 Mercury. June 5 was sacred to _Semo Sancus_; the _Vestalia_ occurred on
 the 9th, the _Matralia_ on the 11th, and the _Quinquatrus Minusculae_
 on the 13th. The _Ludi Apollinares_ were on the 5th, and the
 _Neptunalia_ on the 23rd of July. On the 13th of August were the
 _Nemoralia_, in honour of Diana; on the 18th the _Consualia_, on the
 19th the _Vinalia Rustica_, and on the 23rd the _Vulcanalia_. The _Ludi
-Magni_, in honour of Jupiter, Juno and Minerva, began on September 4.
+Magni_, in honour of Jupiter, [[Juno]] and Minerva, began on September 4.
 The _Meditrinalia_ (new wine) were on the 11th of October, the
 _Faunalia_ on the 13th, and the _Equiria_ on the 15th. The _Epulum
 Jovis_ was on 13th November. The December festivals were--on the 5th
@@ -252,7 +252,7 @@ _Faunalia_, and towards the close _Opalia_, _Saturnalia_, _Larentalia_.
 
 The calendar as it stood at the Augustan age was known to contain many
 comparatively recent accessions, brought in under the influence of two
-"closely allied powers, the foreign priest and the foreign cook"
+"closely allied powers, the foreign priest and the foreign [[Cook|cook]]"
 (Mommsen). The _Megalesia_, for example, had been introduced 204 B.C.
 The _Ludi Apollinares_ could not be traced farther back than 208 B.C.
 The _Floralia_ and _Cerealia_ had not come in much earlier. Among the
@@ -306,38 +306,38 @@ Passover be excepted, it will be seen that all these celebrations or
 commemorations associate themselves more readily with natural than with
 historical events.[11] There was also a considerable number of
 post-Mosaic festivals, of which the principal were that of the
-Dedication (described in 1 Macc. iv. 52-59; comp. John x. 22) and that
+[[Dedication]] (described in 1 Macc. iv. 52-59; comp. John x. 22) and that
 of Purim, the origin of which is given in the book of Esther (ix. 20
 seq.). It has probably no connexion with the Persian festival Furdigan
 (see ESTHER).[12]
 
 _Earlier Christian Festivals._--While making it abundantly manifest that
-Christ and his disciples observed the appointed Jewish feasts, the New
+Christ and his [[Disciple|disciples]] observed the appointed Jewish feasts, the New
 Testament nowhere records the formal institution of any distinctively
 Christian festival. But we have unambiguous evidence of the actual
 observance, from a very early period, of the first day of the week as a
 holy day (John xx. 19, 26; 1 Cor. xvi. 2; Acts xx. 7; Rev. i. 10). Pliny
 in his letter to Trajan describes the Christians of Bithynia as meeting
 for religious purposes on a set day; that this day was Sunday is put
-beyond all reasonable doubt by such a passage as that in the _Apology_
+beyond all reasonable doubt by such a passage as that in the _[[Apology]]_
 of Justin Martyr, where he says that "on Sunday ([Greek: te tou heliou
 legomene hemera]) all the Christians living either in the city or the
 country met together." The Jewish element, in some churches at least,
 and especially in the East, was strong enough to secure that, along with
-the _dies dominica_, the seventh day should continue to be kept holy.
+the _dies [[Dominica|dominica]]_, the seventh day should continue to be kept holy.
 Thus in the _Apostolic Constitutions_ (ii. 59) we find the Saturday
 specially mentioned along with the Sunday as a day for the assembling of
-the church; in v. 15 it is ordained that there shall be no fasting on
+the church; in v. 15 it is ordained that there shall be no [[Fasting|fasting]] on
 Saturday, while in viii. 33 it is added that both on Saturday and Sunday
 slaves are to have rest from their labours. The 16th canon of the
-council of Laodicea almost certainly means that solemn public service
+council of [[Laodicea]] almost certainly means that solemn public service
 was to be held on Saturday as well as on Sunday. In other quarters,
 however, the tendency to regard both days as equally sacred met with
 considerable resistance. The 36th canon of the council of Illiberis, for
 example, deciding that Saturday should be observed as a fast-day, was
 doubtless intended to enforce the distinction between Saturday and
 Sunday. At Milan in Ambrose's time Saturday was observed as a festival;
-but Pope Innocent is found writing to the bishop of Eugubium to urge
+but Pope [[Innocent]] is found writing to the bishop of Eugubium to urge
 that it should be kept as a fast. Ultimately the Christian church came
 to recognize but one weekly festival.
 
@@ -345,28 +345,28 @@ The numerous yearly festivals of the later Christian church, when
 historically investigated, can be traced to very small beginnings.
 Indeed, while it appears to be tolerably certain that Jewish Christians
 for the most part retained all the festivals which had been instituted
-under the old dispensation, it is not at all probable that either they
-or their Gentile brethren recognized any yearly feasts as of
+under the old [[Dispensation|dispensation]], it is not at all probable that either they
+or their [[Gentile]] brethren recognized any yearly feasts as of
 distinctively Christian origin or obligation. It cannot be doubted,
 however, that gradually, in the course of the 2nd century, the universal
 church came to observe the anniversaries of the death and resurrection
 of Christ--the [Greek: pascha staurosimon] and the [Greek: pascha
-hanastasimon], as they were respectively called (see EASTER and GOOD
+hanastasimon], as they were respectively called (see [[Easter|EASTER]] and GOOD
 FRIDAY). Not long afterwards Whitsunday also came to be fixed in the
 usage of Christendom as a great annual festival. Even Origen (in the 8th
-book _Against Celsus_) enumerates as Christian festivals the Sunday, the
+book _Against [[Celsus]]_) enumerates as Christian festivals the Sunday, the
 [Greek: paraskeue], the Passover with the feast of the Resurrection, and
 Pentecost; under which latter term, however, he includes the whole
 period between Easter and Whitsuntide. About Cyprian's time we find
 individual Christians commemorating their departed friends, and whole
 churches commemorating their martyrs; in particular, there are traces of
-a local and partial observance of the feast of the Innocents. Christmas
+a local and partial observance of the feast of the Innocents. [[Christmas]]
 day and Epiphany were among the later introductions, the feast of the
 Epiphany being somewhat the earlier of the two. Both are alluded to
 indeed by Clemens Alexandrinus (i. 340), but only in a way which
 indicates that even in his time the precise date of Christ's birth was
 unknown, that its anniversary was not usually observed, and that the day
-of his baptism was kept as a festival only by the followers of Basilides
+of his baptism was kept as a festival only by the followers of [[Basilides]]
 (see EPIPHANY).
 
 When we come down to the 4th century we find that, among the 50 days
@@ -381,7 +381,7 @@ uniform. Many passages, indeed, could be quoted from Chrysostom, Jerome
 and Augustine to show that these fathers had not by any means forgotten
 that comparative freedom with regard to outward observances was one of
 the distinctive excellences of Christianity as contrasted with Judaism
-and the various heathen systems (compare Socrates, _H.E._ v. 22). But
+and the various [[Heathen|heathen]] systems (compare Socrates, _H.E._ v. 22). But
 there were many special circumstances which seemed to the leaders of the
 Church at that time to necessitate the permission and even legislative
 sanction of a large number of new feasts. The innovations of heretics
@@ -393,26 +393,26 @@ to seek to adapt the old usages to the new worship rather than to
 abolish them altogether;[13] moreover, although the empire had become
 Christian, it was manifestly expedient that the old holidays should be
 recognized as much as possible in the new arrangements of the calendar.
-Constantine soon after his conversion enacted that on the _dies
+Constantine soon after his [[Conversion|conversion]] enacted that on the _dies
 dominica_ there should be no suits or trials in law; Theodosius the
 Great added a prohibition of all public shows on that day, and
 Theodosius the younger extended the prohibition to Epiphany and the
 anniversaries of martyrdoms, which at that time included the festivals
 of St Stephen, and of St Peter and St Paul, as also that of the
-Maccabees. In the 21st canon of the council of Agde (506), besides
+[[Maccabees]]. In the 21st canon of the council of Agde (506), besides
 Easter, Christmas, Epiphany, Ascension and Pentecost, we find the
 Nativity of John the Baptist already mentioned as one of the more
 important festivals on which attendance at church was regarded as
 obligatory. To these were added, in the centuries immediately following,
-the feasts of the Annunciation, the Purification, and the Assumption of
+the feasts of the Annunciation, the Purification, and the [[Assumption]] of
 the Virgin; as well as those of the Circumcision, of St Michael and of
 All Saints.
 
 Festivals were in practice distinguished from ordinary days in the
 following ways: all public and judicial business was suspended,[14] as
-well as every kind of game or amusement which might interfere with
+well as every kind of [[Game|game]] or amusement which might interfere with
 devotion; the churches were specially decorated; Christians were
-expected to attend public worship, attired in their best dress; love
+expected to attend public worship, attired in their best [[Dress|dress]]; love
 feasts were celebrated, and the rich were accustomed to show special
 kindness to the poor; fasting was strictly forbidden, and public prayers
 were said in a standing posture.
@@ -421,10 +421,10 @@ _Later Practice._--In the present calendar of the Roman Catholic Church
 the number of feast days is very large. Each is celebrated by an
 appropriate office, which, according to its character, is either duplex,
 semi-duplex or simplex. A duplex again may be either of the first class
-or of the second, or a major or a minor. The distinctions of ritual for
+or of the second, or a [[Major|major]] or a minor. The distinctions of ritual for
 each of these are given with great minuteness in the general rubrics of
-the breviary; they turn chiefly on the number of Psalms to be sung and
-of lessons to be read, on the manner in which the antiphons are to be
+the [[Breviary|breviary]]; they turn chiefly on the number of Psalms to be sung and
+of lessons to be read, on the manner in which the [[Antiphon|antiphons]] are to be
 given and on similar details. The duplicia of the first class are the
 Nativity, the Epiphany, Easter with the three preceding and two
 following days, the Ascension, Whitsunday and the two following days,
@@ -435,17 +435,17 @@ duplicia of the second class are the Circumcision, the feast of the Holy
 Name of Jesus, of the Holy Trinity, and of the Most Precious Blood of
 Christ, the feasts of the Purification, Annunciation, Visitation,
 Nativity and Conception of the Virgin, the Natalitia of the Twelve
-Apostles, the feasts of the Evangelists, of St Stephen, of the Holy
+[[Apostle|Apostles]], the feasts of the Evangelists, of St Stephen, of the Holy
 Innocents, of St Joseph and of the Patrocinium of Joseph, of St
-Lawrence, of the Invention of the Cross and of the Dedication of St
+[[Lawrence]], of the Invention of the Cross and of the Dedication of St
 Michael. The Dominicae majores of the first class are the first Sunday
-in Advent, the first in Lent, Passion Sunday, Palm Sunday, Easter
+in Advent, the first in [[Lent]], Passion Sunday, Palm Sunday, Easter
 Sunday, Dominica in Albis, Whitsunday and Trinity Sunday; the Dominicae
 majores of the second class are the second, third and fourth in Advent,
 Septuagesima, Sexagesima and Quinquagesima Sundays, and the second,
 third and fourth Sundays in Lent.
 
-In the canons and decrees of the council of Trent repeated allusions are
+In the canons and [[Decree|decrees]] of the council of Trent repeated allusions are
 made to the feast days, and their fitness, when properly observed, to
 promote piety. Those entrusted with the cure of souls are urged to see
 that the feasts of the Church be devoutly and religiously observed, the
@@ -455,21 +455,21 @@ the people on such days some of the things which have been read in the
 office for the day. Since the council of Trent the practice of the
 Church with respect to the prohibition of servile work on holidays has
 varied considerably in different Catholic countries, and even in the
-same country at different times. Thus in 1577, in the diocese of Lyons,
+same country at different times. Thus in 1577, in the diocese of [[Lyons]],
 there were almost forty annual festivals of a compulsory character. By
 the concordat of 1802 the number of such festivals was for France
 reduced to four, namely, Christmas day, Ascension day, the Assumption of
 the Virgin, and All Saints day.
 
-The calendar of the Greek Church is even fuller than that of the Latin,
+The calendar of the Greek Church is even [[Fuller|fuller]] than that of the Latin,
 especially as regards the [Greek: heortai ton hagion]. Thus on the last
-Sunday in Advent the feast of All Saints of the Old Covenant is
-celebrated; while Adam and Eve, Job, Elijah, Isaiah, &c., have separate
+Sunday in Advent the feast of All Saints of the Old [[Covenant]] is
+celebrated; while Adam and Eve, Job, Elijah, [[Isaiah]], &c., have separate
 days. The distinctions of ritual are analogous to those in the Western
 Church. In the Coptic Church there are seven great festivals, Christmas,
 Epiphany, the Annunciation, Palm Sunday, Easter Sunday, Ascension and
-Whitsunday, on all of which the Copts "wear new clothes (or the best
-they have), feast and give alms" (Lane). They also observe, as minor
+Whitsunday, on all of which the [[Copts]] "wear new clothes (or the best
+they have), feast and give alms" ([[Lane]]). They also observe, as minor
 festivals, Maundy Thursday, Holy Saturday, the feast of the Apostles
 (11th July), and that of the Discovery of the Cross.
 
@@ -477,11 +477,11 @@ In common with most of the churches of the Reformation, the Church of
 England retained a certain number of feasts besides all Sundays in the
 year. They are, besides Monday and Tuesday both in Easter-week and
 Whitsun-week, as follows: the Circumcision, the Epiphany, the Conversion
-of St Paul, the Purification of the Blessed Virgin, St Matthias the
+of St Paul, the Purification of the Blessed Virgin, St [[Matthias]] the
 Apostle, the Annunciation of the Blessed Virgin, St Mark the Evangelist,
 St Philip and St James (Apostles), the Ascension, St Barnabas, the
 Nativity of St John Baptist, St Peter the Apostle, St James the Apostle,
-St Bartholomew, St Matthew, St Michael and all Angels, St Luke the
+St Bartholomew, St [[Matthew]], St Michael and all Angels, St [[Luke]] the
 Evangelist, St Simon and St Jude, All Saints, St Andrew, St Thomas,
 Christmas, St Stephen, St John the Evangelist, the Holy Innocents. The
 13th canon enjoins that all manner of persons within the Church of
@@ -494,10 +494,10 @@ amendment of the same, in reconciling themselves charitably to their
 neighbours where displeasure hath been, in oftentimes receiving the
 communion of the body and blood of Christ, in visiting of the poor and
 sick, using all godly and sober conversation. (Compare Hooker, _E.P._ v.
-70.) In the _Directory for the Public Worship of God_ which was drawn up
+70.) In the _[[Directory]] for the Public Worship of God_ which was drawn up
 by the Westminster Assembly, and accepted by the Church of Scotland in
 1645, there is an appendix which declares that there is no day commanded
-in Scripture to be kept holy under the gospel but the Lord's day, which
+in Scripture to be kept holy under the [[Gospel|gospel]] but the Lord's day, which
 is the Christian Sabbath; festival days, vulgarly called holy-days,
 having no warrant in the Word of God, are not to be continued;
 nevertheless it is lawful and necessary, upon special emergent
@@ -507,14 +507,14 @@ providence shall administer cause and opportunity to his people.
 
 Several attempts have been made at various times in western Europe to
 reorganize the festival system on some other scheme than the Christian.
-Thus at the time of the French Revolution, during the period of
+Thus at the time of the [[French Revolution]], during the period of
 Robespierre's ascendancy, it was proposed to substitute a tenth day
 (Decadi) for the weekly rest, and to introduce the following new
 festivals: that of the Supreme Being and of Nature, of the Human Race,
 of the French people, of the Benefactors of Mankind, of Freedom and
 Equality, of the Martyrs of Freedom, of the Republic, of the Freedom of
 the World, of Patriotism, of Hatred of Tyrants and Traitors, of Truth,
-of Justice, of Modesty, of Fame and Immortality, of Friendship, of
+of Justice, of Modesty, of Fame and [[Immortality]], of Friendship, of
 Temperance, of Heroism, of Fidelity, of Unselfishness, of Stoicism, of
 Love, of Conjugal Fidelity, of Filial Affection, of Childhood, of Youth,
 of Manhood, of Old Age, of Misfortune, of Agriculture, of Industry, of
@@ -555,20 +555,20 @@ rainy season; on the last day of June presents are made of cakes of the
 new rice; in August is the festival of the angel of the river, "whose
 forgiveness is then asked for every act by which the waters of the
 Meinam have been rendered impure." See Bowring's _Siam_ and Carne's
-_Travels in Indo-China and the Chinese Empire_. Copious details of the
+_Travels in [[Indo-China]] and the Chinese Empire_. Copious details of the
 elaborate festival-system of the Chinese may be found in Doolittle's
 _Social Life of the Chinese_.
 
   LITERATURE.--For Christian feasts see K.A. H. Kellner, _Heortologie_
-  (Freiburg im Breisgau, 1906); Hippolyte Delehaye, _Les Legendes
-  hagiographiques_ (Brussels, 1905); J. Rendel Harris, _The Cult of the
+  ([[Freiburg]] im [[Breisgau]], 1906); Hippolyte Delehaye, _Les Legendes
+  hagiographiques_ (Brussels, 1905); J. Rendel [[Harris]], _The Cult of the
   Heavenly Twins_ (Cambridge, 1906); de Rossi-Duchesne, _Martyrologium
   Hieronymianum_.
 
 
 FOOTNOTES:
 
-  [1] "To feast" is simply to keep a festum or festival. The etymology
+  [1] "To feast" is simply to keep a festum or festival. The [[Etymology|etymology]]
     of the word is uncertain; but probably it has no connexion with the
     Gr. [Greek: hestian].
 
@@ -590,24 +590,24 @@ FOOTNOTES:
 
   [7] Plutarch, _De Iside et Osiride_; Macrobius, _Saturnalia_, i. 21.
 
-  [8] In this month the anniversaries of the battle of Marathon, and of
+  [8] In this month the anniversaries of the battle of [[Marathon]], and of
     the downfall of the thirty tyrants, were also publicly celebrated.
 
   [9] See Schoemann, _Griechische Altertumer_, ii. 439 seq.; Mommsen
     _Heortologie_.
 
   [10] _Feriae privatae_, such as anniversaries of births, deaths, and
-    the like, were observed by separate clans, families or individuals.
+    the like, were observed by separate [[Clan|clans]], families or individuals.
 
   [11] In the "parallel" passages, there is considerable variety in the
     designation and arrangement of these feasts. While Ex. xii.
     approximates most closely to Lev. xxiii. and Num. xxviii., Ex. xxiii.
     has stronger affinities with Deut. xvi. The relations of these
-    passages are largely discussed by Graf, _Die geschichtlichen Bucher
+    passages are largely discussed by Graf, _Die geschichtlichen [[Bucher]]
     des A. T._, pp. 34-41, and by other recent critics.
 
   [12] On the whole subject of Jewish festivals see Reland, _Antiq.
-    Hebr._; Knobel, _Leviticus_ (c. 23); George, _Die judischen Feste_;
+    Hebr._; Knobel, _[[Leviticus]]_ (c. 23); George, _Die judischen Feste_;
     Edersheim, _The Temple; its Ministry and Services_; Ewald,
     _Altertumer des Volkes Israel_; articles in Bible dictionaries.
 

@@ -9,10 +9,10 @@ id: 42-6447
 
 LANFRANC (d. 1089), archbishop of Canterbury, was a Lombard by
 extraction. He was born in the early years of the 11th century at Pavia,
-where his father, Hanbald, held the rank of a magistrate. Lanfranc was
+where his father, Hanbald, held the rank of a [[Magistrate|magistrate]]. Lanfranc was
 trained in the legal studies for which northern Italy was then becoming
 famous, and acquired such proficiency that tradition links him with
-Irnerius of Bologna as a pioneer in the renaissance of Roman law. Though
+[[Irnerius]] of Bologna as a pioneer in the renaissance of Roman law. Though
 designed for a public career Lanfranc had the tastes of a student. After
 his father's death he crossed the Alps to found a school in France; but
 in a short while he decided that Normandy would afford him a better
@@ -23,7 +23,7 @@ of Bec. Until 1045 he lived at Bec in absolute seclusion. He was then
 persuaded by Abbot Herluin to open a school in the monastery. From the
 first he was celebrated (_totius Latinitatis magister_). His pupils were
 drawn not only from France and Normandy, but also from Gascony,
-Flanders, Germany and Italy. Many of them afterwards attained high
+[[Flanders]], Germany and Italy. Many of them afterwards attained high
 positions in the Church; one, Anselm of Badagio, became pope under the
 title of Alexander II. In this way Lanfranc set the seal of intellectual
 activity on the reform movement of which Bec was the centre. The
@@ -33,7 +33,7 @@ transubstantiation against the attacks of Berengar of Tours. He took up
 the task with the greatest zeal, although Berengar had been his personal
 friend; he was the protagonist of orthodoxy at the councils of Vercelli
 (1050), Tours (1054) and Rome (1059). To his influence we may attribute
-the desertion of Berengar's cause by Hildebrand and the more
+the [[Desertion|desertion]] of Berengar's cause by [[Hildebrand]] and the more
 broad-minded of the cardinals. Our knowledge of Lanfranc's polemics is
 chiefly derived from the tract _De corpore et sanguine Domini_ which he
 wrote many years later (after 1079) when Berengar had been finally
@@ -62,7 +62,7 @@ Conquest the papal benediction--a notable advantage to William at the
 moment, but subsequently the cause of serious embarrassments.
 
 Naturally, when the see of Rouen next fell vacant (1067), the thoughts
-of the electors turned to Lanfranc. But he declined the honour, and he
+of the [[Electors|electors]] turned to Lanfranc. But he declined the honour, and he
 was nominated to the English primacy as soon as Stigand had been
 canonically deposed (1070). The new archbishop at once began a policy of
 reorganization and reform. His first difficulties were with Thomas of
@@ -76,7 +76,7 @@ forged documents, the primate carried the council's verdict upon every
 point. Even if he were not the author of the forgeries he can scarcely
 have been the dupe of his own partisans. But the political dangers to be
 apprehended from the disruption of the English Church were sufficiently
-serious to palliate the fraud. This was not the only occasion on which
+serious to palliate the [[Fraud|fraud]]. This was not the only occasion on which
 Lanfranc allowed his judgment to be warped by considerations of
 expediency. Although the school of Bec was firmly attached to the
 doctrine of papal sovereignty, he still assisted William in maintaining
@@ -113,8 +113,8 @@ Lanfranc's greatest political service to the Conqueror was rendered in
 by the earls of Norfolk and Hereford. But this was not the only occasion
 on which he turned to good account his influence with the native
 English. Although he regarded them as an inferior race he was just and
-honourable towards their leaders. He interceded for Waltheof's life and
-to the last spoke of the earl as an innocent sufferer for the crimes of
+[[Honourable|honourable]] towards their leaders. He interceded for Waltheof's life and
+to the last spoke of the earl as an [[Innocent|innocent]] sufferer for the crimes of
 others; he lived on terms of friendship with Bishop Wulfstan. On the
 death of the Conqueror (1087) he secured the succession for William
 Rufus, in spite of the discontent of the Anglo-Norman baronage; and in
@@ -124,7 +124,7 @@ Duke Robert. He exacted promises of just government from Rufus, and was
 not afraid to remonstrate when the promises were disregarded. So long as
 he lived he was a check upon the worst propensities of the king's
 administration. But his restraining hand was too soon removed. In 1089
-he was stricken with fever and he died on the 24th of May amidst
+he was stricken with [[Fever|fever]] and he died on the 24th of May amidst
 universal lamentations. Notwithstanding some obvious moral and
 intellectual defects, he was the most eminent and the most disinterested
 of those who had co-operated with William I. in riveting Norman rule
@@ -145,7 +145,7 @@ the most successful.
   also be consulted. The first edition of these two sources, and of
   Lanfranc's writings, is that of L. d'Achery, _Beati Lanfranci opera
   omnia_ (Paris, 1648). Another edition, slightly enlarged, is that of
-  J. A. Giles, _Lanfranci opera_ (2 vols., Oxford, 1844). The
+  J. A. [[Giles]], _Lanfranci opera_ (2 vols., Oxford, 1844). The
   correspondence between Lanfranc and Gregory VII. is given in the
   _Monumenta Gregoriana_ (ed. P. Jaffé, Berlin, 1865). Of modern works
   A. Charma's _Lanfranc_ (Paris, 1849), H. Boehmer's _Die Fälschungen

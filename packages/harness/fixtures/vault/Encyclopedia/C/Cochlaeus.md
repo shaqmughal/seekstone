@@ -14,22 +14,22 @@ Wendelstein (near Nuremberg), whence his friends gave him the punning
 surname Cochlaeus (spiral), for which he occasionally substituted
 Wendelstinus. Having received some education at Nuremberg from the
 humanist Heinrich Grieninger, he entered (1504) the university of
-Cologne. In 1507 he graduated, and published under the name of
+[[Cologne]]. In 1507 he graduated, and published under the name of
 Wendelstein his first piece, _In musicam exhortatorium_. He left Cologne
 (May 1510) to become schoolmaster at Nuremberg, where he brought out
-several school manuals. In 1515 he was at Bologna, hearing (with
+several school [[Manuals|manuals]]. In 1515 he was at Bologna, hearing (with
 disgust) Eck's famous disputation against usury, and associating with
-Ulrich von Hutten and humanists. He took his doctor's degree at Ferrara
+Ulrich von [[Hutten]] and humanists. He took his doctor's degree at Ferrara
 (1517), and spent some time in Rome, where he was ordained priest. In
-1520 he became dean of the Liebfrauenkirche at Frankfort, where he first
+1520 he became dean of the Liebfrauenkirche at [[Frankfort]], where he first
 entered the lists as a controversialist against the party of Luther,
 developing that bitter hatred to the Reformation which animated his
 forceful but shallow ascription of the movement to the meanest motives,
 due to a quarrel between the Dominicans and Augustinians. Luther would
-not meet him in discussion at Mainz in 1521. He was present at the diets
-of Worms, Regensburg, Spires and Augsburg. The peasants' war drove him
+not meet him in discussion at [[Mainz]] in 1521. He was present at the diets
+of Worms, Regensburg, Spires and [[Augsburg]]. The peasants' war drove him
 from Frankfort; he obtained (1526) a canonry at Mainz; in 1529 he became
-secretary to Duke George of Saxony, at Dresden and Meissen. The death of
+secretary to Duke George of Saxony, at [[Dresden]] and Meissen. The death of
 his patron (1539) compelled him to take flight. He became canon
 (September 1539) at Breslau, where he died on the 10th of January 1552.
 He was a prolific writer, largely of overgrown pamphlets, harsh and

@@ -19,20 +19,20 @@ forbidden it. As a punishment she was sentenced to be buried alive in a
 vault, where she hanged herself, and Haemon killed himself in despair.
 Her character and these incidents of her life presented an attractive
 subject to the Greek tragic poets, especially Sophocles in the
-_Antigone_ and _Oedipus at Colonus_, and Euripides, whose _Antigone_,
+_Antigone_ and _Oedipus at Colonus_, and [[Euripides]], whose _Antigone_,
 though now lost, is partly known from extracts incidentally preserved in
 later writers, and from passages in his _Phoenissae_. In the order of
 the events, at least, Sophocles departed from the original legend,
 according to which the burial of Polyneices took place while Oedipus was
 yet in Thebes, not after he had died at Colonus. Again, in regard to
 Antigone's tragic end Sophocles differs from Euripides, according to
-whom the calamity was averted by the intercession of Dionysus and was
+whom the calamity was averted by the intercession of [[Dionysus]] and was
 followed by the marriage of Antigone and Haemon. In Hyginus's version of
 the legend, founded apparently on a tragedy by some follower of
 Euripides, Antigone, on being handed over by Creon to her lover Haemon
 to be slain, was secretly carried off by him, and concealed in a
 shepherd's hut, where she bore him a son Maeon. When the boy grew up, he
-went to some funeral games at Thebes, and was recognized by the mark of
+went to some funeral [[Games|games]] at Thebes, and was recognized by the mark of
 a dragon on his body. This led to the discovery that Antigone was still
 alive. Heracles pleaded in vain with Creon for Haemon, who slew both
 Antigone and himself, to escape his father's vengeance. On a painted
@@ -46,10 +46,10 @@ indicating their unalterable hatred, even in death.
 
 (2) A second Antigone was the daughter of Eurytion, king of Phthia, and
 wife of Peleus. Her husband, having accidentally killed Eurytion in the
-Calydonian boar hunt, fled and obtained expiation from Acastus, whose
+Calydonian boar [[Hunt|hunt]], fled and obtained expiation from Acastus, whose
 wife made advances to Peleus. Finding that her affection was not
 returned, she falsely accused Peleus of infidelity to his wife, who
-thereupon hanged herself (Apollodorus, iii. 13).
+thereupon hanged herself ([[Apollodorus]], iii. 13).
 
 ## See also
 

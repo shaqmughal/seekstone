@@ -23,7 +23,7 @@ development of income tax and the ease with which it is collected. The
 act of 1803 (43 Geo. III. c. 122) distributed the various descriptions
 of income under different schedules, known as A, B, C, D and E. A rate
 of 5% was imposed on all incomes of £150 a year and over, with
-graduation on incomes between £60 and £150. This income tax of 5%
+[[Graduation|graduation]] on incomes between £60 and £150. This income tax of 5%
 collected at the source yielded almost as much as the previous tax of
 10% collected direct from each taxpayer. The tax was continued from year
 to year with the principle unchanged but with variations in the rate
@@ -73,7 +73,7 @@ found in the Finance Acts of 1894, 1897, 1898, 1907 and 1909-1910.
   from the occupation of land, the amount of such profits being assumed
   to be one-third of the annual value of the land as fixed for the
   purposes of schedule A. This applies principally to farmers who might,
-  if they chose, be assessed on schedule D on their actual profits.
+  if they [[Chose|chose]], be assessed on schedule D on their actual profits.
   Schedule C included income derived from interest, &c., payable out of
   the public funds of the United Kingdom or any other country. Schedule
   D, the most important branch of the income tax and the most difficult
@@ -88,7 +88,7 @@ found in the Finance Acts of 1894, 1897, 1898, 1907 and 1909-1910.
   Commissioners of Taxes. They are appointed by the Land Tax
   Commissioners out of their own body, and, as regards assessment, are
   not in any way controlled by the executive government. They appoint a
-  clerk, who is their principal officer and legal adviser, assessors for
+  clerk, who is their principal officer and legal adviser, [[Assessor|assessors]] for
   each parish and collectors. There is an appeal from their decisions to
   the High Court of Justice on points of law, but not on questions of
   fact. Assessments under schedules A and B are usually made every five
@@ -137,7 +137,7 @@ their _Report_ (365 of 1906) was:--
   exceeded by raising the amount of income on which an abatement would
   be allowed to £1000 or even more.
 
-  2. Graduation by a super-tax is practicable. If it be desired to levy
+  2. Graduation by a super-tax is practicable. If it be desired to [[Levy|levy]]
   a much higher rate of tax upon large incomes (say of £5000 and
   upwards) than has hitherto been charged, a super-tax based on personal
   declaration would be a practicable method.
@@ -153,7 +153,7 @@ their _Report_ (365 of 1906) was:--
 
   5. A compulsory personal declaration from each individual of total net
   income in respect of which tax is payable is expedient, and would do
-  much to prevent the evasion and avoidance of income tax which at
+  much to prevent the evasion and [[Avoidance|avoidance]] of income tax which at
   present prevail.
 
 Acting upon the report of this committee the Finance Bill of 1909 was
@@ -185,7 +185,7 @@ in other countries:--[2]
   _Austria._--The income tax dates from 1849, but the existing tax,
   which is arranged on a progressive system, came into force on the 1st
   of January 1898. The tax is levied on net income, deductions from the
-  gross income being allowed for upkeep of business, houses and lands,
+  [[Gross|gross]] income being allowed for upkeep of business, houses and lands,
   for premiums paid for insurance against injuries, for interest on
   business and private debts, and for payment of taxes other than income
   tax. Incomes under £50 a year are exempt, the rate of taxation at the
@@ -205,7 +205,7 @@ in other countries:--[2]
   people in possession of pensions from the Order of Maria Theresa, and
   those who receive pensions on account of wounds or the pension
   attached to the medal for bravery, are exempted as far as the pensions
-  are concerned; (f) officers, chaplains and men of the army and navy
+  are concerned; (f) officers, [[Chaplain|chaplains]] and men of the army and navy
   have no tax levied on their pay; (g) all other military persons, and
   such people as are included in the scheme of mobilization are exempted
   from any tax on their pay. Special allowances are made for incomes
@@ -224,7 +224,7 @@ in other countries:--[2]
   collector's office in two instalments--one on the 1st of June and the
   other on the 1st of December.
 
-  _Belgium._--No income tax proper exists in Belgium, but there is a
+  _[[Belgium]]._--No income tax proper exists in Belgium, but there is a
   state tax of 2% on the dividends of joint stock companies.
 
   _Denmark._--Income tax is levied under a law of the 15th of May 1903.
@@ -236,7 +236,7 @@ in other countries:--[2]
   Exempt from the duty are--the king, members of the royal family and
   the civil list; the legations, staffs and consular officers of foreign
   powers (not being Danish subjects); foreigners temporarily resident in
-  the country; mortgage societies, credit institutions, savings and loan
+  the country; mortgage societies, [[Credit|credit]] institutions, savings and loan
   banks. The increase in capital resulting from an increase in value of
   properties is not deemed income--on the other hand no deduction in
   income is made if such properties decrease in value--nor are daily
@@ -245,9 +245,9 @@ in other countries:--[2]
   reside outside his own parish. Certain deductions can be made in
   calculating income--such as working expenses, office expenses,
   pensions and other burthens, amounts paid for direct taxation, dues to
-  commune and church, tithe, tenant and farming charges, heirs'
+  [[Commune|commune]] and church, tithe, tenant and farming charges, heirs'
   allowances and similar burthens; interest on mortgages and other
-  debts, and what has been spent for necessary maintenance or insurance
+  debts, and what has been spent for necessary [[Maintenance|maintenance]] or insurance
   of the property of the taxpayer. There are also certain exemptions
   with respect to companies not having an establishment in the country.
 
@@ -296,7 +296,7 @@ in other countries:--[2]
   profits (all of which are reckoned as increases of capital); (c)
   expenses incurred for the purpose of acquiring, assuring and
   maintaining income; (d) interest on debts; (e) the regular annual
-  depreciation arising from wear of buildings, machines, tools, &c., in
+  depreciation arising from wear of buildings, [[Machine|machines]], tools, &c., in
   so far as they are not included under working expenses; (f) the
   contributions which taxpayers are compelled by law or agreement to pay
   to invalid, accident, old age insurance, widow, orphan and pension
@@ -328,7 +328,7 @@ in other countries:--[2]
   reduce the income by more than one class. In the case of persons with
   incomes not exceeding £290 abatement (not exceeding three classes) is
   allowed--(a) when the support of children or indigent relations
-  involves a burden of such a nature as to affect the general standard
+  involves a [[Burden|burden]] of such a nature as to affect the general standard
   of living; (b) on account of long-continued illness, involving heavy
   expense; and, on restoration to health, temporary decrease of
   wage-earning power; (c) in the case of accidents which have had the
@@ -472,7 +472,7 @@ in other countries:--[2]
   (4) a uniform rate of tax, with progression in the amount of income
   liable to taxation.
 
-  _United States._--One of the means adopted by the Federal Government
+  _United States._--One of the means adopted by the [[Federal Government]]
   for meeting its expenses during the Civil War was the levying of an
   income tax. By the Act of Congress of the 5th of August 1861 a tax of
   3% was imposed on all incomes, with an exemption of $800, and was made

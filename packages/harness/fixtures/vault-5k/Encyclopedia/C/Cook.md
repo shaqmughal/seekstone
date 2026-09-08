@@ -3,7 +3,7 @@
 COOK, JAMES (1728-1779), English naval captain and explorer, was born on
 the 28th of October 1728, at Marton village, Cleveland, Yorkshire, where
 his father was first an agricultural labourer and then a farm bailiff.
-At twelve years of age he was apprenticed to a haberdasher at Staithes,
+At twelve years of age he was apprenticed to a [[Haberdasher|haberdasher]] at Staithes,
 near Whitby, and afterwards to Messrs Walker, shipowners, of Whitby,
 whom he served for years in the Norway, Baltic and Newcastle trades.
 
@@ -63,29 +63,29 @@ Zealand he resumed his "search for a continent," working up and down
 across the South Pacific, and penetrating to 67° 31' and again to 71°
 10' S., with imminent risk of destruction from floating ice, but with
 the satisfaction of disproving the possibility of the disputed continent
-in the seas south-eastward of New Zealand. He then made for Easter
+in the seas south-eastward of New Zealand. He then made for [[Easter]]
 Island, whose exact position he determined, for the first time, with
 accuracy; noticing and describing the gigantic statues which Roggewein,
 the first discoverer of the island, had made known. In the same manner
 he accomplished a better determination and examination of the Marquesas,
 as well as of the Tonga or Friendly Islands, than had yet been made; and
 after a stay at Tahiti to rest and refit, crossed the central Pacific to
-the "New Hebrides," as he renamed Quiros's "Southern Land of the Holy
+the "New [[Hebrides]]," as he renamed Quiros's "Southern Land of the Holy
 Spirit" (a name preserved in the modern island of _Espiritu Santo_),
 called by Bougainville the "Great Cyclades" (_Grandes Cyclades_), whose
 position, extent, divisions and character were now verified as never
-before. Next followed the wholly new discoveries of New Caledonia,
+before. Next followed the wholly new discoveries of New [[Caledonia]],
 Norfolk Island, and the Isle of Pines. Another visit to New Zealand, and
 yet another examination of the far southern Pacific, which was crossed
 from west to east through the whole of its extent, from south Australia
 to Tierra del Fuego, were now undertaken by Cook before he finally
 closed his work in refutation of the Antarctic continent, as previously
 understood, on this side of the world. The voyage closed with a rapid
-survey of the "Land of Fire," the rounding of Cape Horn, the rediscovery
+survey of the "Land of Fire," the rounding of Cape [[Horn]], the rediscovery
 of the island now named Southern Georgia, the discovery of Sandwich
 Land, the crossing of the South Atlantic (here also exploding the great
 _Terra Australis_ delusion), and visits to the Cape of Good Hope, St
-Helena, Ascension, Fernando Noronha and the Azores. The voyage
+Helena, Ascension, Fernando Noronha and the [[Azores]]. The voyage
 (reckoning only from the Cape of Good Hope and back to the same) had
 covered considerably more than 20,000 leagues, nearly three times the
 equatorial circumference of the earth; it left the main outlines of the
@@ -96,9 +96,9 @@ than 1000 days; he had conquered scurvy.
 
 The discoverer reached Plymouth on the 25th of July 1775, and his
 achievements were promptly, if meanly, rewarded. He was immediately
-raised to the rank of post-captain, appointed a captain in Greenwich
+raised to the rank of post-captain, appointed a captain in [[Greenwich]]
 hospital, and soon afterwards unanimously elected a member of the Royal
-Society, from which he received the Copley gold medal for the best
+Society, from which he received the [[Copley]] gold medal for the best
 experimental paper which had appeared during the year.
 
 Cook's third and last voyage was primarily to settle the question of the
@@ -107,7 +107,7 @@ north-west passage, practically abandoned since before the middle of the
 interest, by the British government. The explorer, who had volunteered
 for this service, was instructed to sail first into the Pacific through
 the chain of the newly discovered islands which he had recently visited,
-and on reaching New Albion to proceed northward as far as latitude 65°
+and on reaching New Albion to proceed northward as far as [[Latitude|latitude]] 65°
 and endeavour to find a passage to the Atlantic. Several ships were at
 the same time fitted out to attempt a passage on the other side from the
 Atlantic to the Pacific. Sailing from the Nore on the 25th of June 1776
@@ -136,7 +136,7 @@ of Wales, the westernmost extremity of North America, never yet seen by
 English navigators, but well known to Russian explorers, who probably
 first sighted it in 1648; he also penetrated into the bay afterwards
 known as Cook's Inlet or River, which at first seemed to promise a
-passage to the Arctic Seas, to the south-east of the Alaska peninsula.
+passage to the [[Arctic]] Seas, to the south-east of the Alaska peninsula.
 Cook next visited the Asiatic shores of Bering Straits (the extreme
 north-east of Siberia); returning to America, he explored Norton Sound,
 north of the Yukon; touched at (Aleutian) Unalaska, where he met with
@@ -152,7 +152,7 @@ seizing the king's person until reparation should be made. Having landed
 on the following day with some marines, a scuffle ensued which compelled
 the party to retreat to their boats. Cook was the last to retire; and as
 he was nearing the shore he received a blow from behind which felled him
-to the ground. He rose immediately, and vigorously resisted the crowds
+to the ground. He rose immediately, and vigorously resisted the [[Crowd|crowds]]
 that pressed upon him, but was soon overpowered.
 
 Had Cook returned from his third voyage, there is ground for believing

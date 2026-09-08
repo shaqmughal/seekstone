@@ -30,14 +30,14 @@ elongated hilly island of Olkhon, and the peninsula of Svyatoi Nos, which
 forms its continuation on the opposite eastern shore, divide the lake into
 two basins. The deepest part is in the south-east, at the foot of the
 Khamar-daban border-ridge of the high plateau. An elongated trough, 66 m.
-long, reaches there a depth of over 600 fathoms, with a maximum depth of
+long, reaches there a depth of over 600 [[Fathom|fathoms]], with a maximum depth of
 880 fathoms, _i.e._ about 5280 ft. below the level of the ocean. As a rule
 the bottom of the lake has very steep slopes: the 100-fathom and even the
 250-fathom lines run close to the shores, that is to say, the steepness of
 the surrounding mountains (4600 to 6000 ft.) continues beneath the surface.
 At the mouth of the Selenga, however, which enters from the south-east,
 pouring into it the waters and the alluvial deposits from a drainage area
-of 173,500 sq. m., a wide delta is thrust out into the lake, reducing its
+of 173,500 sq. m., a wide [[Delta|delta]] is thrust out into the lake, reducing its
 width to 20 m. and spreading under its waters, so as to leave only a narrow
 channel, 230 to 247 fathoms deep, along the opposite coast. The depth of
 the middle portion of the lake has not yet been measured, but must exceed
@@ -58,7 +58,7 @@ a depth of 500 fathoms there is a nearly uniform temperature of 38°. At
 various places round the shores, _e.g._ the mouth of the Barguzin, hot
 springs exist. The lake freezes usually at the end of December, or in the
 beginning of January, so solidly that a temporary post-horse station is
-erected on the ice in the middle of the lake, and it remains frozen till
+erected on the [[Ice|ice]] in the middle of the lake, and it remains frozen till
 the second half of May. The evaporation from this large basin exercises a
 certain influence on the climate of the surrounding country, while the
 absorption of heat for the thawing of the ice has a notable cooling effect
@@ -70,7 +70,7 @@ the Barguzin, on the east, and the Selenga on the south-east. Its only
 outflow is the lower Angara, which issues through a rocky cleft on the west
 shore. The Irkut no longer reaches the Baikal, though it once did so. After
 approaching its south-west extremity it abandons the broad valley which
-leads to the lake, and makes its way northwards through a narrow gap in the
+leads to the lake, and makes its way northwards through a narrow [[Gap|gap]] in the
 mountains and joins the Angara at Irkutsk.
 
 _Mountains_.--With the exception of the delta of the Selenga, Lake Baikal
@@ -95,13 +95,13 @@ still frequent along its shores.
 _Fauna_.--The fauna, explored by Dybowski and Godlewski, and in 1900-2 by
 Korotnev, is much richer than it was supposed to be, and has quite an
 original character; but hypotheses as to a direct communication having
-existed between Lake Baikal and the Arctic Ocean during the Post-Tertiary
+existed between Lake Baikal and the [[Arctic]] Ocean during the Post-Tertiary
 or Tertiary ages are not proved. Still, Lake Baikal has a seal (_Phoca
 vitulina_, _Phoca baikalensis_ of Dybowski) quite akin to the seals of
 Spitsbergen, marine sponges, polychaetes, a marine mollusc (_ancilodoris_),
 and some marine gammarids. The waters of the lake swarm with fish
 (sturgeons and _salmonidae_), and its herring (_Salmo omul_) is the chief
-product of the fisheries, though notably fewer have been taken within the
+product of the [[Fisheries|fisheries]], though notably fewer have been taken within the
 last forty or fifty years. Plankton is very abundant. The little Lake
 Frolikha, situated close to the northern extremity of Lake Baikal and
 communicating with it by means of a river of the same name, contains a
@@ -120,7 +120,7 @@ from it weekly to Misovaya (Posolskoe) on the opposite shore, a few times a
 year to Verkhne-Angarsk, at the northern extremity of the lake, and
 frequently to the mouth of the Selenga. Steamers ascend this river as far
 as Bilyutai, near the Mongolian frontier, and bring back tea, imported via
-Kiakhta, while grain, cedar nuts, salt, soda, wool and timber are shipped
+[[Kiakhta]], while grain, cedar nuts, salt, soda, wool and timber are shipped
 on rafts down the Khilok, Chikoi and Uda (tributaries of the Selenga), and
 manufactured goods are taken up the river for export to China. Attempts are
 being made to render the Angara navigable below Irkutsk down to the
@@ -133,8 +133,8 @@ ferry trains across from Listvinichnoe to Misovaya.
 
 AUTHORITIES.--Drizhenko, "Hydrographic Reconnoitring of Lake Baikal," in
 _Izvestia Russ. Geogr. Soc._ (1897, 2); Russian Addenda to Ritter's _Asia,
-East Siberia, Baikal,_ &c. (1895); Chersky's Geological Map of Shores of
-Lake Baikal, 6-2/3 m. to the inch, in _Zapiski_ of _Russ. Geogr. Soc._ xv.
+East Siberia, Baikal,_ &c. (1895); Chersky's Geological [[Map]] of Shores of
+Lake Baikal, 6-2/3 m. to the [[Inch|inch]], in _Zapiski_ of _Russ. Geogr. Soc._ xv.
 (1886); "Report of Geological Exploration of Shores of Lake Baikal," in
 _Zapiski_ of _East Siberian Branch_ of _Russ. Geogr. Soc._ xii. (1886);
 Obruchev, "Geology of Baikal Mountains," _Izvestia_ of same Society (1890,

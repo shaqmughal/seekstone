@@ -1,6 +1,6 @@
 # Hashish
 
-HASHISH, or HASHEESH, the Arabic name, meaning literally "dried herb,"
+HASHISH, or HASHEESH, the Arabic name, meaning literally "dried [[Herb|herb]],"
 for the various preparations of the Indian hemp plant (_Cannabis
 indica_), used as a narcotic or intoxicant in the East, and either
 smoked, chewed or drunk (see HEMP and BHANG). From the Arabic

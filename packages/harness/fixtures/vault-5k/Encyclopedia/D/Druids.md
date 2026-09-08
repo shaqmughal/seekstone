@@ -2,7 +2,7 @@
 
 DRUIDS, ORDER OF, a friendly society founded, as an imitation of the
 ancient Druids, in London in 1781. They adopted Masonic rites and spread
-to America (1833) and Australia. Their lodges are called "Groves." In
+to America (1833) and Australia. Their [[Lodge|lodges]] are called "Groves." In
 1872 the Order was introduced into Germany. (See FRIENDLY SOCIETIES.)
 
 ## See also

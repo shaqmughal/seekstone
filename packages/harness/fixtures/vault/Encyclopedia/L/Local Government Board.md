@@ -26,7 +26,7 @@ president appointed by the sovereign. The board itself seldom meets, and
 the duties of the department are discharged by the president assisted by
 a parliamentary and a permanent secretary and a permanent staff. The
 president and one of the secretaries usually have seats in parliament,
-and the president is generally a member of the cabinet. The salary of
+and the president is generally a member of the [[Cabinet|cabinet]]. The salary of
 the president, formerly £2000, was raised in 1910 to £5000 a year. The
 board has all the powers of the secretary of state under the Public
 Health Act 1848, and the numerous subsequent acts relating to sanitary
@@ -37,7 +37,7 @@ of the board have been largely added to by legislation since its
 creation; it may be said that the board exercises a general supervision
 over the numerous authorities to whom local government has been
 entrusted (see ENGLAND: _Local Government_). A committee presided over
-by Lord Jersey in 1904 inquired into the constitution and duties of the
+by Lord [[Jersey]] in 1904 inquired into the constitution and duties of the
 board, but made no recommendation as to any change therein. It
 recommended, however, an increase in the salaries of the president and
 of the parliamentary and permanent secretaries.

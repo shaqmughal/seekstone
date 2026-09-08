@@ -7,10 +7,10 @@ topic: science
 # Leadhills
 
 LEADHILLS, a village of Lanarkshire, Scotland, 5¾ m. W.S.W. of Elvanfoot
-station on the Caledonian Railway Company's main line from Glasgow to
+station on the Caledonian Railway Company's main line from [[Glasgow]] to
 the south. Pop. (1901) 835. It is the highest village in Scotland, lying
 1301 ft. above sea-level, near the source of Glengonner Water, an
-affluent of the Clyde. It is served by a light railway. Lead and silver
+affluent of the [[Clyde]]. It is served by a light railway. Lead and silver
 have been mined here and at Wanlockhead, 1½ m. S.W., for many
 centuries--according to some authorities even in Roman days. Gold was
 discovered in the reign of James IV., but though it is said then to have

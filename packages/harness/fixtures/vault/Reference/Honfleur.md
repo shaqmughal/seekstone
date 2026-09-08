@@ -1,10 +1,10 @@
 # Honfleur
 
 HONFLEUR, a seaport of north-western France, in the department of
-Calvados, 57 m. N.E. of Caen by rail. Pop. (1906) 8735. The town is
+[[Calvados]], 57 m. N.E. of Caen by rail. Pop. (1906) 8735. The town is
 situated at the foot of a semicircle of hills, on the south shore of the
-Seine estuary, opposite Havre, with which it communicates by steamboat.
-Honfleur, with its dark narrow lanes and old houses, has the typical
+Seine estuary, opposite [[Havre]], with which it communicates by steamboat.
+Honfleur, with its dark narrow [[Lane|lanes]] and old houses, has the typical
 aspect of an old-fashioned seaport. The most noteworthy of its buildings
 is the church of St Catherine, constructed entirely of timber work, with
 the exception of the facade added in the 18th century, and consisting of
@@ -22,14 +22,14 @@ Notre-Dame-de-Grace, a shrine much resorted to by pilgrim sailors, which
 is said to have been founded in 1034 by Robert the Magnificent of
 Normandy and rebuilt in 1606. The town has a tribunal and a chamber of
 commerce and a communal college. The port, which is protected from the
-west winds by the height known as the Cote de Grace, consists of the
+west winds by the height known as the Cote de [[Grace]], consists of the
 tidal harbour and four floating basins--The West basin, dating from the
 17th century, and the Centre, East and Carnot basins. A reservoir
 affords the means of sluicing the channel and supplying the basins. The
 surface available for vessels is about 27 acres. Numerous fishing and
-coasting vessels frequent the harbour. In 1907 there entered 375
+[[Coasting|coasting]] vessels frequent the harbour. In 1907 there entered 375
 vessels, of 133,872 tons, more than half this tonnage being British. The
-exports go mainly to England and include poultry, butter, eggs, cheese,
+exports go mainly to England and include poultry, [[Butter|butter]], [[Egg|eggs]], [[Cheese|cheese]],
 chocolate, vegetables, fruit, seeds and purple ore. There is regular
 communication by steamer with Southampton. Timber from Scandinavia,
 English coal and artificial manures form the bulk of the imports. There
@@ -45,7 +45,7 @@ suburb of St Leonard; and though Henry IV. effected its capture in 1590
 he had again to invest it in 1594 after all the rest of Normandy had
 submitted to his arms. In the earlier years of the 17th century Honfleur
 colonists founded Quebec, and Honfleur traders established factories in
-Java and Sumatra and a fishing establishment in Newfoundland.
+[[Java]] and Sumatra and a fishing establishment in Newfoundland.
 
 ## See also
 

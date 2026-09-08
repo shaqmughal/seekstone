@@ -39,7 +39,7 @@ individual is well and strong, and there has been no hurt, strain or
 accident to lower the power of resistance of the bone, the staphylococci
 may circulate harmlessly in the blood, until they are gradually eaten up
 by the white corpuscles; but if a bone has been injured it offers a
-likely and attractive focus to the wandering germs.
+likely and attractive [[Focus|focus]] to the wandering germs.
 
 The disease is infective. That is to say, the micro-organisms having
 begun to germinate in the damaged bone find their way by the
@@ -50,8 +50,8 @@ poisoned, and he would run the risk of losing his finger, his hand, or
 even his life. The starting-point of the disease is the delicate growing
 tissue recently deposited between the main part of the shaft of the bone
 (diaphysis) and the cartilaginous end. And it often happens that the
-earliest complaint of pain is just above or below the knee; just above
-the ankle, the elbow or the wrist. If the surgeon is prompt in operating
+earliest complaint of pain is just above or below the [[Knee|knee]]; just above
+the [[Ankle|ankle]], the [[Elbow|elbow]] or the wrist. If the surgeon is prompt in operating
 he may find the disease limited to that spot. In the case of infants,
 the germs are very apt to make their way into the neighbouring joint,
 giving rise to the very serious disease known as _acute arthritis of
@@ -60,13 +60,13 @@ infants_.
 Probably the first sign of there being anything amiss with the limb will
 be a complaint of aches or pains near a joint; and these pains are apt
 to be miscalled rheumatic. Perhaps they occur during convalescence from
-scarlet or typhoid fever, or after exposure to injury, or to wet or
+scarlet or typhoid [[Fever|fever]], or after exposure to injury, or to wet or
 cold, or after unusual fatigue. The part becomes swollen, hot, red and
 excessively tender; the tenderness, however, is not in the skin but in
 the bone, and in the engorged membrane around it, the periosteum. The
 temperature may run up to 104 deg., and may be associated with
 convulsions or shiverings. The patient's nights are disturbed, and very
-likely he has violent delirium. If the case is allowed to drift on,
+likely he has violent delirium. If the case is allowed to [[Drift|drift]] on,
 abscess forms, and death may ensue from septic pneumonia, or
 pericarditis, or from some other form of blood-poisoning.
 
@@ -136,7 +136,7 @@ may be due to muscular action as when a violent cough causes a rib to
 break. In the first case the fracture is generally transverse and in the
 second more or less oblique. The fully developed bone is broken fairly
 across; the soft bones of young people may simply be bent--_green stick_
-or _willow fracture._ Fractures are either _simple_ or _compound_. A
+or _willow fracture._ Fractures are either _simple_ or _[[Compound|compound]]_. A
 simple fracture is analogous to the subcutaneous laceration in the soft
 parts, and a compound one to an open wound in the soft parts. The wound
 of the soft parts in the compound fracture may be due either to the
@@ -253,7 +253,7 @@ selection of one's patients is an antiseptic measure--by which he meant
 that if a surgeon intended to get the most perfect results for his
 operative work, he must carefully consider whether any individual
 patient is physically adapted for the performance upon him of any
-particular operation. This aphorism implies that not every patient with
+particular operation. This [[Aphorism|aphorism]] implies that not every patient with
 a broken knee-cap is suited for the opening of his knee-joint, or even
 for the subcutaneous adjustment of the broken fragments. An operative
 procedure which is admirably suited for one patient might result in
@@ -267,7 +267,7 @@ surgeon's business to know what to advise in each individual case.
   commerce. Composed of mineral matter--phosphates, &c.--fat and
   gelatinous substances, the phosphates are used as artificial manures,
   the fat is worked up by the soap-maker and chandler, and the
-  gelatinous matter forms the basis of the gelatin and glue of commerce;
+  gelatinous matter forms the basis of the [[Gelatin|gelatin]] and glue of commerce;
   while by the dry distillation of bones from which the gelatin has been
   but partially removed, there are obtained a carbonaceous
   residue--animal charcoal--and a tarry distillate, from which "bone
@@ -286,7 +286,7 @@ surgeon's business to know what to advise in each individual case.
   about six hours. This removes a part of the fat and gelatinous matter;
   the former rises as a scum, the latter passes into solution, and the
   bones remain sufficiently firm to be worked up by the lathe, &c. The
-  fat is skimmed off, and, after bleaching, reappears as a component of
+  fat is skimmed off, and, after [[Bleaching|bleaching]], reappears as a component of
   fine soaps, or, if unbleached, the oil is expressed and is used as an
   adulterant of other oils, while the stearine or solid matter goes to
   the candle-maker; the gelatinous water is used (after filtration) for
@@ -294,7 +294,7 @@ surgeon's business to know what to advise in each individual case.
   and then transferred to the bone-worker.
 
   The glue-worker first removes the fat, which is supplied to the soap
-  and candle trades; the bones are now treated for glue (q.v.); and
+  and [[Candle|candle]] trades; the bones are now treated for glue (q.v.); and
   the residue is worked up for manures, &c. These residues are ground to
   a fine or coarse meal, and supplied either directly as a fertilizer or
   treated with sulphuric acid to form the more soluble superphosphates,
@@ -321,7 +321,7 @@ surgeon's business to know what to advise in each individual case.
   red-hot to air-tight vessels in which it is allowed to cool. It is
   then passed through grinding mills, and is subsequently riddled by
   revolving cylindrical sieves. The yield is from 55 to 60% of the bones
-  carbonized, and the product contains about 10% of carbon and about 75%
+  carbonized, and the product contains about 10% of [[Carbon|carbon]] and about 75%
   of calcium phosphate, the remainder being various inorganic salts and
   moisture (6-7%). Animal charcoal has a deep black colour, and is much
   used as a filtering and clarifying material. The vapours evolved
@@ -343,8 +343,8 @@ surgeon's business to know what to advise in each individual case.
 FOOTNOTE:
 
   [1] Bone oil, also known as Dippel's oil, was originally produced by
-    the distillation of stags' horns; it is of interest in the history of
-    chemistry, since from it were isolated in 1846 by T. Anderson
+    the distillation of stags' [[Horn|horns]]; it is of interest in the history of
+    [[Chemistry|chemistry]], since from it were isolated in 1846 by T. Anderson
     pyridine and some of its homologues.
 
 ## See also

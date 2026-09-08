@@ -28,7 +28,7 @@ victory gained or a calamity averted, or in expiation of some crime.
 Each of the great contests was held near some shrine or sacred place and
 is associated with some deity or mythical hero. It was not before the
 4th century that this honour was paid to a living man (see Plutarch,
-_Lysander_, 18). The games of the _Iliad_ and those of the _Odyssey_ at
+_[[Lysander]]_, 18). The games of the _Iliad_ and those of the _Odyssey_ at
 the court of Alcinous are also of interest as showing at what an early
 date the distinctive forms of Greek athletics--boxing, wrestling,
 putting the weight, the foot and the chariot race--were determined.
@@ -42,7 +42,7 @@ ranged the statues of the victorious athletes, and the temple of
 Olympian Zeus with the chryselephantine statue of the god, the
 masterpiece of Pheidias. There Heracles (so ran the legend which Pindar
 has introduced in one of his finest odes), when he had conquered Elis
-and slain its king Augeas, consecrated a temenos and instituted games in
+and slain its king [[Augeas]], consecrated a temenos and instituted games in
 honour of his victory. A later legend, which probably embodies
 historical fact, tells how, when Greece was torn by dissensions and
 ravaged by pestilence, Iphitus inquired of the oracle for help, and was
@@ -52,7 +52,7 @@ bronze disk whereon were inscribed, with the regulations of the games,
 the names of Iphitus and Lycurgus. From this we may safely infer that
 the games were a primitive observance of the Eleians and Pisans, and
 first acquired their celebrity from the powerful concurrence of Sparta.
-The sacred armistice, or cessation of all hostilities, during the month
+The sacred [[Armistice|armistice]], or cessation of all hostilities, during the month
 in which the games were held, is also credited to Iphitus.
 
 In 776 B.C. the Eleians engraved the name of their countryman Coroebus
@@ -73,7 +73,7 @@ a Romanized Armenian named Varastad.
 Let us attempt to call up the scene which Olympia in its palmy days must
 have presented as the great festival approached. Heralds had proclaimed
 throughout Greece the "truce of God." So religiously was this observed
-that the Spartans chose to risk the liberties of Greece, when the
+that the Spartans [[Chose|chose]] to risk the liberties of Greece, when the
 Persians were at the gates of Pylae, rather than march during the holy
 days. Those white tents which stand out against the sombre grey of the
 olive groves belong to the Hellanodicae, or ten judges of the games,
@@ -87,7 +87,7 @@ theoroi] or sacred deputies, clad in their robes of office, and bearing
 with them in their carriages of state offerings to the shrine of the
 god. Nor is there any lack of distinguished visitors. It may be
 Alcibiades, who, they say, has entered no less than seven chariots; or
-Gorgias, who has written a famous [Greek: epideixis] for the occasion;
+[[Gorgias]], who has written a famous [Greek: epideixis] for the occasion;
 or the sophist Hippias, who boasts that all he bears about him, from the
 sandals on his feet to the dithyrambs he carries in his hand, are his
 own manufacture; or Aetion, who will exhibit his picture of the Marriage
@@ -104,13 +104,13 @@ the presidents were sitting, and proved by witnesses that they were of
 pure Hellenic descent, and had no stain, religious or civil, on their
 character. Laying their hands on the bleeding victim, they swore that
 they had duly qualified themselves by ten months' continuous training in
-the gymnasium, and that they would use no fraud or guile in the sacred
+the gymnasium, and that they would use no [[Fraud|fraud]] or guile in the sacred
 contests. Thence they proceeded to the stadium, where they stripped to
 the skin and anointed themselves. A herald proclaimed, "Let the runners
 put their feet to the line," and called on the spectators to challenge
 any disqualified by blood or character. If no objection was made, they
 were started by the note of the trumpet, running in heats of four,
-ranged in the places assigned them by lot. The presidents seated near
+ranged in the places assigned them by [[Lot|lot]]. The presidents seated near
 the goal adjudged the victory. The foot-race was only one of twenty-four
 Olympian contests which Pausanias enumerates, though we must not suppose
 that these were all exhibited at any one festival. Till the 77th
@@ -141,7 +141,7 @@ extended to five.
   the [Greek: pentathlon] (pentathlon), a combination of the five games
   enumerated in the well-known pentameter ascribed to Simonides:--
 
-    [Greek: halma, podokeien, diskon, hakonta, palen].
+    [Greek: [[Halma|halma]], podokeien, diskon, hakonta, palen].
 
   Only the first of these calls for any comment. The only leap practised
   seems to have been the long jump. The leapers increased their momentum
@@ -152,7 +152,7 @@ extended to five.
   Phayllus of Croton is credited, 55 ft., is incredible with or without
   a spring-board. It is disputed whether a victory in all five contests,
   or in three at least, was required to win the [Greek: pentathlon]. (4)
-  The rules for boxing were not unlike those of the modern ring (see
+  The rules for [[Boxing|boxing]] were not unlike those of the modern ring (see
   PUGILISM), and the chief difference was in the use of the _caestus_.
   This in Greek times consisted of leather thongs bound round the
   boxer's fists and wrists; and the weighting with lead or iron or metal
@@ -160,7 +160,7 @@ extended to five.
   boxing-glove, was a later Roman development. The death of an
   antagonist, unless proved to be accidental, not only disqualified for
   a prize but was severely punished. The use of ear-guards and the comic
-  allusions to broken ears, not noses, suggest that the Greek boxer did
+  allusions to broken [[Ear|ears]], not noses, suggest that the Greek boxer did
   not hit out straight from the shoulder, but fought windmill fashion,
   like the modern rustic. In the _pancratium_, a combination of
   wrestling and boxing, the use of the caestus, and even of the clenched
@@ -181,7 +181,7 @@ extended to five.
   part. The large outlay involved excluded all but rich competitors, and
   even kings and tyrants eagerly contested the palm. Thus in the list of
   victors we find the names of Cylon, the would-be tyrant of Athens,
-  Pausanias the Spartan king, Archelaus of Macedon, Gelon and Hiero of
+  Pausanias the Spartan king, Archelaus of Macedon, Gelon and [[Hiero]] of
   Syracuse, and Theron of Agrigentum. Chariot-races with mules, with
   mares, with two horses in place of four, were successively introduced,
   but none of these present any special interest. Races on horseback
@@ -193,8 +193,8 @@ extended to five.
   The prizes were at first, as in the Homeric times, of some intrinsic
   value, but after the 6th Olympiad the only prize for each contest was
   a garland of wild olive, which was cut with a golden sickle from the
-  kallistephanos, the sacred tree brought by Hercules "from the dark
-  fountains of Ister in the land of the Hyperboreans, to be a shelter
+  kallistephanos, the sacred tree brought by [[Hercules]] "from the dark
+  [[Fountain|fountains]] of Ister in the land of the [[Hyperboreans]], to be a shelter
   common to all men and a crown of noble deeds" (Pindar, _Ol._ iii. 18).
   Greek writers from Herodotus to Plutarch dwell with complacency on the
   magnanimity of a people who cared for nothing but honour and were
@@ -205,7 +205,7 @@ extended to five.
   the moralists. The successful athlete received in addition to the
   immediate honours very substantial rewards. A herald proclaimed his
   name, his parentage and his country; the Hellanodicae took from a
-  table of ivory and gold the olive crown and placed it on his head, and
+  table of [[Ivory|ivory]] and gold the olive crown and placed it on his head, and
   in his hand a branch of palm; as he marched in the sacred revel to the
   temple of Zeus, his friends and admirers showered in his path flowers
   and costly gifts, singing the old song of Archilochus, [Greek: tenella
@@ -214,9 +214,9 @@ extended to five.
   Athenian he received, according to the law of Solon, 500 drachmae, and
   free rations for life in the Prytaneum; if a Spartan, he had as his
   prerogative the post of honour in battle. Poets like Pindar, Simonides
-  and Euripides sung his praises, and sculptors like Pheidias and
+  and [[Euripides]] sung his praises, and sculptors like Pheidias and
   Praxiteles were engaged by the state to carve his statue. We even read
-  of a breach in the town walls being made to admit him, as if the
+  of a [[Breach|breach]] in the town walls being made to admit him, as if the
   common road were not good enough for such a hero; and there are
   well-attested instances of altars being built and sacrifices offered
   to a successful athlete. No wonder then that an Olympian prize was
@@ -236,7 +236,7 @@ extended to five.
   multitude flocked round him and decked him with garlands, _as though
   he were an athlete_.
 
-The _Pythian_ games originated in a local festival held at Delphi,
+The _Pythian_ games originated in a local festival held at [[Delphi]],
 anciently called Pytho, in honour of the Pythian Apollo, and were
 limited to musical competitions. The date at which they became a
 Panhellenic [Greek: agon] (so Demosthenes calls them) cannot be
@@ -252,7 +252,7 @@ times were open to all Greece and provided the established round of
 contests, except that no mention is made of a chariot-race. A wreath of
 wild celery was the prize.
 
-The _Isthmian_ games, held on the Isthmus of Corinth in the first and
+The _Isthmian_ games, held on the Isthmus of [[Corinth]] in the first and
 third year of each Olympiad, date, according to Eusebius, from 523 B.C.
 They are variously reported to have been founded by Poseidon or Sisyphus
 in honour of Melicertes, or by Theseus to celebrate his victory over the
@@ -269,7 +269,7 @@ included gymnastic, equestrian and musical contests, differing little
 from those of the other great festivals, and the prize was a crown made
 at one time of parsley (more probably wild celery), at a later period of
 pine. The importance of the Isthmian games in later times is shown by
-the fact that Flamininus chose the occasion for proclaiming the
+the fact that [[Flamininus]] chose the occasion for proclaiming the
 liberation of Greece, 196 B.C. That at a later anniversary (A.D. 67)
 Nero repeated the proclamation of Flamininus, and coupled with it the
 announcement of his own infamous victory at Olympia, shows alike the
@@ -283,7 +283,7 @@ The _Ludi Publici_ of the Romans included feasts and theatrical
 exhibitions as well as the public games with which alone we are
 concerned. As in Greece, they were intimately connected with religion.
 At the beginning of each civil year it was the duty of the consuls to
-vow to the gods games for the safety of the commonwealth, and the
+vow to the gods games for the safety of the [[Commonwealth|commonwealth]], and the
 expenses were defrayed by the treasury. Thus, at no cost to themselves,
 the Roman public were enabled to indulge at the same time their
 religious feelings and their love of amusement. Their taste for games
@@ -293,7 +293,7 @@ aediles who succeeded to this duty of the consuls were expected to
 supplement the state allowance from their private purse. Political
 adventurers were not slow to discover so ready a road to popularity, and
 what at first had been exclusively a state charge devolved upon men of
-wealth and ambition. A victory over some barbarian horde or the death of
+wealth and ambition. A victory over some barbarian [[Horde|horde]] or the death of
 a relation served as the pretext for a magnificent display. But the
 worst extravagance of private citizens was eclipsed by the reckless
 prodigality of the Caesars, who squandered the revenues of whole
@@ -339,8 +339,8 @@ seats for 350,000 spectators.
   were originally a votive feast to Capitoline Jupiter, promised by the
   general when he took the field, and performed on his return from the
   annual campaign. They thus presented the appearance of a military
-  spectacle, or rather a review of the whole burgess force, which
-  marched in solemn procession from the capitol to the forum and thence
+  spectacle, or rather a review of the whole [[Burges|burgess]] force, which
+  marched in solemn procession from the capitol to the [[Forum|forum]] and thence
   to the circus, which lay between the Palatine and Aventine. First came
   the sons of patricians mounted on horseback, next the rest of the
   burghers ranged according to their military classes, after them the
@@ -360,7 +360,7 @@ seats for 350,000 spectators.
   professionals, though the stigma under which the gladiator lay never
   attached to their calling. Indeed a successful driver may compare in
   popularity and fortune with a modern jockey. The drivers were divided
-  into companies distinguished by the colours of their tunics, whence
+  into companies distinguished by the [[Colours|colours]] of their tunics, whence
   arose the faction of the circus which assumed such importance under
   the later emperors. In republican times there were two factions, the
   white and the red; two more, the green and the blue, were added under
@@ -380,10 +380,10 @@ seats for 350,000 spectators.
   the baiting of wild animals who were pitted either with one another or
   with men--captives, criminals or trained hunters called _bestiarii_.
   The first certain instance on record of this amusement is in 186 B.C.,
-  when M. Fulvius exhibited lions and tigers in the arena. The taste for
+  when M. Fulvius exhibited lions and tigers in the [[Arena|arena]]. The taste for
   these brutalizing spectacles grew apace, and the most distant
   provinces were ransacked by generals and proconsuls to supply the
-  arena with rare animals--giraffes, tigers and crocodiles. Sulla
+  arena with rare animals--giraffes, tigers and [[Crocodile|crocodiles]]. Sulla
   provided for a single show 100 lions, and Pompey 600 lions, besides
   elephants, which were matched with Gaetulian hunters. Julius Caesar
   enjoys the doubtful honour of inventing the bull-fight. At the
@@ -410,7 +410,7 @@ seats for 350,000 spectators.
   admitted rather out of compliment to the conquerors than from any love
   of the sport. In spite of numerous prohibitions from Constantine
   downwards, they continued to flourish even as late as St Augustine. To
-  a Christian martyr, if we may credit the story told by Theodoret and
+  a Christian martyr, if we may [[Credit|credit]] the story told by Theodoret and
   Cassiodorus, belongs the honour of their final abolition. In the year
   404 Telemachus, a monk who had travelled from the East on this sacred
   mission, rushed into the arena and endeavoured to separate the
@@ -421,7 +421,7 @@ seats for 350,000 spectators.
   Of the other Roman games the briefest description must suffice. The
   _Ludi Apollinares_ were established in 212 B.C., and were annual after
   211 B.C.; mainly theatrical performances. The _Megalenses_ were in
-  honour of the great goddess, Cybele: instituted 204 B.C., and from 191
+  honour of the great goddess, [[Cybele]]: instituted 204 B.C., and from 191
   B.C. celebrated annually. A procession of Galli, or priests of Cybele,
   was a leading feature. Under the empire the festival assumed a more
   orgiastic character. Four of Terence's plays were produced at these
@@ -438,13 +438,13 @@ between the pursuits and amusements of children than of adults. Homer's
 children built castles in the sand, and Greek and Roman children alike
 had their dolls, their hoops, their skipping-ropes, their hobby-horses,
 their kites, their knuckle-bones and played at hopscotch, the
-tug-of-war, pitch and toss, blind-man's buff, hide and seek, and kiss in
+tug-of-war, pitch and toss, blind-man's [[Buff|buff]], hide and seek, and kiss in
 the ring or at closely analogous games. Games of ball were popular in
 Greece from the days of Nausicaa, and at Rome there were five distinct
 kinds of ball and more ways of playing with them. For particulars the
 dictionary of antiquities must be consulted. It is strange that we can
-find in classical literature no analogy to cricket, tennis, golf or
-polo, and though the _follis_ resembled our football, it was played with
+find in classical literature no analogy to cricket, tennis, [[Golf|golf]] or
+polo, and though the _follis_ resembled our [[Football|football]], it was played with
 the hand and arm, not with the leg. Cock-fighting was popular both at
 Athens and Rome, and quails were kept and put to various tests to prove
 their pluck.
@@ -458,13 +458,13 @@ gambling was lashed by Juvenal no less vigorously than by Pope. The
 Latin name for a dice-box has survived in the _fritillary_ butterfly and
 flower.
 
-The primitive game of guessing the number of fingers simultaneously held
+The primitive [[Game|game]] of guessing the number of fingers simultaneously held
 up by the player and his opponent is still popular in Italy where it is
 known as "morra." The proverbial phrase for an honest man was _quicum in
 tenebris mices_, one you would trust to play at morra in the dark.
 
 Athena found the suitors of Penelope seated on cowhides and playing at
-[Greek: pessoi], some kind of draughts. The invention of the game was
+[Greek: pessoi], some kind of [[Draughts|draughts]]. The invention of the game was
 ascribed to Palamedes. In its earliest form it was played on a board
 with five lines and with five pieces. Later we find eleven lines, and a
 further development was the division of the board into squares, as in
@@ -482,7 +482,7 @@ usual accompaniment of a wine party. In its simplest form each guest
 threw what was left in his cup into a metal basin, and the success of
 the throw, determined partly by the sound of the wine in falling, was
 reckoned a divination of love. For the various elaborations of the game
-(in Sicily we read of Cottabus houses), Athenaeus and Pollux must be
+(in Sicily we read of Cottabus houses), [[Athenaeus]] and Pollux must be
 consulted.
 
   BIBLIOGRAPHY.--Daremberg et Saglio, _Dictionnaire des antiquites
@@ -490,7 +490,7 @@ consulted.
   "Olympia," "Spiele"; Curtius and Adler, _Olympia_ (5 vols., 1890,
   &c.); Hachtmann, _Olympia und seine Festspiele_; Blumner, _Home Life
   of the Ancient Greeks_; J.P. Mahaffy, _Old Greek Education_; P.
-  Gardner and F.B. Jevons, _Manual of Greek Antiquities_; E.N. Gardiner,
+  [[Gardner]] and F.B. Jevons, _[[Manual]] of Greek Antiquities_; E.N. Gardiner,
   _Greek Athletic Sports_ (1910); Becker-Marquardt, _Handbuch der
   romischen Altertumer_ (5 vols.).     (F. S.)
 
@@ -534,7 +534,7 @@ the enforcement in courts of justice of gambling contracts.
   The earliest English legislation against games was passed in the
   interests of archery and other manly sports which were believed to
   render the lieges more fit for service in war. A statute of Richard
-  II. (1388) directed servants and labourers to have bows and arrows and
+  II. (1388) directed servants and labourers to have [[Bow|bows]] and arrows and
   to use them on Sundays and holidays, and to cease from playing
   football, quoits, dice, putting the stone, kails and other such
   importune games. A more drastic statute was passed in 1409 (11 Hen.
@@ -543,7 +543,7 @@ the enforcement in courts of justice of gambling contracts.
   acts were superseded in 1541 (33 Hen. VIII. c. 9) by a statute passed
   on the petition of the bowyers, fletchers (_flechiers_), stringers and
   arrowhead makers of the realm. This act (still partly in force) is
-  entitled an "act for maintenance of archery and debarring of unlawful
+  entitled an "act for [[Maintenance|maintenance]] of archery and debarring of unlawful
   games"; and it recites that, since the last statutes (of 3 & 6 Hen.
   VIII.) "divers and many subtil inventative and crafty persons have
   found and daily find many and sundry new and crafty games and plays,
@@ -565,7 +565,7 @@ the enforcement in courts of justice of gambling contracts.
   husbandry, journeyman or servant of artificer, mariners, fishermen,
   watermen, or any serving man, shall play at the tables, tennis, dice,
   cards, bowls, clash, coyting, logating or any other unlawful game out
-  of Christmas under the pain of xxs. to be forfeit for every time; and
+  of [[Christmas]] under the pain of xxs. to be forfeit for every time; and
   in Christmas to play at any of the said games in their masters' houses
   or in their masters' presence; and also that no manner of person shall
   at any time play at any bowl or bowls in open places out of his garden
@@ -583,7 +583,7 @@ the enforcement in courts of justice of gambling contracts.
   attempted to enforce this act against Sunday football. The act goes on
   to prohibit any bear-baiting, bull-baiting, interludes, common plays
   or other unlawful exercises or plays on Sunday by parishioners within
-  their own parishes. According to Blackstone (iv. _Comm._ c. 13) the
+  their own parishes. According to [[Blackstone]] (iv. _Comm._ c. 13) the
   principal ground of complaint leading to legislation in the 18th
   century was "gambling in high life." He collects the statutes made
   with this view, but only those still in force need have been
@@ -606,14 +606,14 @@ the enforcement in courts of justice of gambling contracts.
   The following list of lawful games, sports and exercises is given in
   _Oliphant on Horses, &c._ (6th ed.): horse-races, steeplechases,
   trotting matches, coursing matches, foot-races, boat-races, regattas,
-  rowing matches, golf, wrestling matches, cricket, tennis, fives,
+  rowing matches, golf, wrestling matches, cricket, tennis, [[Fives|fives]],
   rackets, bowls, skittles, quoits, curling, putting the stone,
-  football, and presumably every bona-fide variety, e.g. croquet, knurr
+  football, and presumably every bona-fide variety, e.g. [[Croquet|croquet]], knurr
   and spell, hockey or any similar games. Cock-fighting is said to have
   been unlawful at common law, and that and other modes of setting
   animals to fight are offences against the Prevention of Cruelty to
   Animals Acts. The following are also lawful games: whist and other
-  lawful games at cards, backgammon, bagatelle, billiards, chess,
+  lawful games at cards, backgammon, [[Bagatelle|bagatelle]], [[Billiards|billiards]], chess,
   draughts and dominoes. But to allow persons to play for money at these
   games or at skittles or "skittle pool" or "puff and dart" on licensed
   premises is gaming within the Licensing Act 1872. The earlier acts
@@ -635,7 +635,7 @@ the enforcement in courts of justice of gambling contracts.
   of dice having one or more figures or numbers thereon (1739), roulet
   or roly-poly (1744), and all lotteries (except Art Union lotteries),
   _rouge et noir_, _baccarat-banque_ (1884), _chemin de fer_ (1895), and
-  all games at cards which are not games of mere skill. The definition
+  all games at cards which are not games of mere skill. The [[Definition|definition]]
   of unlawful game does not include whist played for a prize not
   subscribed to by the players, but it does include playing cards for
   money in licensed premises; even in the private room of the licensee
@@ -663,7 +663,7 @@ the enforcement in courts of justice of gambling contracts.
   lotteries. More success has been obtained in putting down various
   devices by newspapers and shopkeepers to attract customers by
   instituting "missing word competitions" and "racing coupon
-  competitions"; by automatic machines which give speculative chances in
+  competitions"; by automatic [[Machine|machines]] which give speculative chances in
   addition to the article obtained for the coin inserted; by
   distribution of prizes by lot or chance to customers; by holding
   sweepstakes at public-houses, by putting coins in sweetmeats to tempt
@@ -706,11 +706,11 @@ the enforcement in courts of justice of gambling contracts.
   keeper and makes further provisions to facilitate conviction. It may
   be added that the Gaming Act 1845 makes winning money by cheating at
   any game or wager punishable in the same way as obtaining money by
-  false pretences. At the present time proceedings for keeping
+  [[False Pretences|false pretences]]. At the present time proceedings for keeping
   gaming-houses in the sense in which that word is commonly understood
   are comparatively rare, and are usually against foreigners. The
   statutes hit both public and private gaming-houses (see the Park Club
-  case, _Jenks_ v. _Turpin_, 1884, 13 Q.B.D. 505, the leading case on
+  case, _[[Jenks]]_ v. _Turpin_, 1884, 13 Q.B.D. 505, the leading case on
   unlawful games). The proprietor and the person who keeps the bank at
   an unlawful game are both within the statute: the players are not, but
   the act of Henry VIII. is so far alive that they can be put under
@@ -771,7 +771,7 @@ the enforcement in courts of justice of gambling contracts.
   to bets falling within the act of 1853, and it does not prohibit the
   publication of betting news or sporting tips in newspapers. A few
   newspapers do not publish these aids to ruin, and in some public
-  libraries the betting news is obliterated, as it attracts crowds of
+  libraries the betting news is obliterated, as it attracts [[Crowd|crowds]] of
   undesirable readers. The act of 1853 has been to a great extent
   effectual against betting houses, and has driven some of them to
   Holland and other places. But it has been deemed expedient to
@@ -851,7 +851,7 @@ ridicule.[1] The courts were constantly called upon to enforce wagers
 and constantly exercised their ingenuity to discover excuses for
 refusing. A writer on the law of contracts[2] discovers here the origin
 of that principle of "public policy" which plays so important a part in
-English law. Wagering contracts were rejected because the contingencies
+[[English Law|English law]]. Wagering contracts were rejected because the contingencies
 on which they depended tended to create interests hostile to the common
 weal. A bet on the life of the emperor Napoleon was declared void
 because it gave one of the parties an interest in keeping the king's
@@ -860,7 +860,7 @@ compassing his death by unlawful means. A bet as to the amount of the
 hop-duty was held to be against public policy, because it tended to
 expose the condition of the king's revenue to all the world. A bet
 between two hackney coachmen, as to which of them should be selected by
-a gentleman for a particular journey, was void because it tended to
+a [[Gentleman|gentleman]] for a particular journey, was void because it tended to
 expose the customer to their importunities. When no such subtlety could
 be invented, the law, however reluctantly, was compelled to enforce the
 fulfilment of a wager. Actions on wagers were not favoured by the
@@ -913,7 +913,7 @@ decided, or even after the decision of the event and before the stake is
 paid over to the winner;[3] and a man who pays a bet for a friend, or a
 turf commission agent or other agent who pays a bet for a principal, has
 now no legal means of recovering the money, unless some actual deceit
-was used to induce him to pay in ignorance that it was a bet. But a
+was used to induce him to pay in [[Ignorance|ignorance]] that it was a bet. But a
 person who has received a bet on account of another can still, it would
 seem, be compelled to pay it over, and the business of a betting man is
 treated as so far lawful that income-tax is charged on its profits, and
@@ -974,7 +974,7 @@ differences only. The form, however, of all bargains on the Stock
 Exchange is calculated and intended to preclude people from setting up a
 gaming act defence: as each contract entitles the holder to call for
 delivery or acceptance of the stock named therein. In the event of the
-bankruptcy of a person involved in speculations, the bankruptcy
+[[Bankruptcy|bankruptcy]] of a person involved in speculations, the bankruptcy
 officials exclude from proof against the estate all claims founded on
 any dealing in the nature of a wager; and on the same principle the
 bankrupt's trustee cannot recover sums won by the bankrupt by gaming
@@ -1002,7 +1002,7 @@ void but made upon an "illegal" consideration. The effect of the change
 is to enable an innocent transferee for value, of a bill, note or
 cheque, to recover on a security worthless in the hands of the original
 taker (see s. 30 of the Bills of Exchange Act 1882), but to put on him
-the burden of proving that he is a bona fide holder for value. In the
+the [[Burden|burden]] of proving that he is a [[Bona|bona]] fide holder for value. In the
 case of a negotiable security given for a wager not within the acts of
 1710 or 1841 (e.g. a bet on a contested election), but within the act of
 1845, a third person holding it would be presumed to be a holder for
@@ -1043,18 +1043,18 @@ debts wherever incurred (_Moulis_ v. _Owen_, 1907, 1 K.B. 746).
   gambling introduced by the Chinese. Under these ordinances the money
   paid for a lottery ticket is recoverable by law. In the Transvaal
   betting houses were suppressed by proclamation (No. 33) soon after the
-  annexation. An invention known in France as the _pari mutuel_, and in
+  [[Annexation|annexation]]. An invention known in France as the _pari mutuel_, and in
   Australia as the totalizator, is allowed to be used on race-courses in
   most of the states (but not in New South Wales). In Queensland, South
   Australia, Tasmania and Western Australia the state levies a duty on
-  the takings of the machine. In Tasmania the balance of the money
+  the takings of the machine. In Tasmania the [[Balance|balance]] of the money
   retained by the stewards of the course less the tax must be applied
   solely for improving the course or promoting horse-racing. In Victoria
   under an act of 1901 the promoters of sports may by advertisement duly
   posted make betting on the ground illegal.
 
   _Egypt._--By law No. 10 of 1905 all lotteries are prohibited with
-  certain exceptions, and it is made illegal to hawk the tickets or
+  certain exceptions, and it is made illegal to [[Hawk|hawk]] the tickets or
   offer them for sale or to bring illegal lotteries in any way to the
   notice of the public. The authorized lotteries are those for
   charitable purposes, e.g. those of the benevolent societies of the
@@ -1065,12 +1065,12 @@ debts wherever incurred (_Moulis_ v. _Owen_, 1907, 1 K.B. 746).
   a game of hazard. Betting contracts and securities given upon a bet
   are often made void, and this may destroy a gaming note in the hands
   of an innocent purchaser for value. The subject lies outside of the
-  province of the federal government. By the legislation of some states
+  province of the [[Federal Government|federal government]]. By the legislation of some states
   the loser may recover his money if he sue within a limited time, as he
   might have done in England under 9 Anne c. 19.
 
   AUTHORITIES.--Brandt on _Games_ (1872); Oliphant, _Law of Horses, &c._
-  (6th ed. by Lloyd, 1908); Schwabe on the _Stock Exchange_ (1905);
+  (6th ed. by [[Lloyd]], 1908); Schwabe on the _Stock Exchange_ (1905);
   Melsheimer on the _Stock Exchange_ (4th ed., 1905); Coldridge and
   Hawksford, _The Law of Gambling_ (1895); Stutfield, _Betting_ (3rd
   ed., 1901).     (W. F. C.)
@@ -1078,7 +1078,7 @@ debts wherever incurred (_Moulis_ v. _Owen_, 1907, 1 K.B. 746).
 
 FOOTNOTES:
 
-  [1] Leake on _Contracts_ (4th ed.), p. 529.
+  [1] [[Leake]] on _Contracts_ (4th ed.), p. 529.
 
   [2] Pollock, _Contracts_ (7th ed.), p. 313.
 

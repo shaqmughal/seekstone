@@ -5,7 +5,7 @@ born at Toul on the 13th of April 1764. At the age of eighteen he went
 to Rome with the view of prosecuting the study of painting, but although
 he continued his artistic studies after his return to Paris in 1784 he
 never definitely adopted the profession of a painter. In 1792 he was
-chosen a captain in a volunteer battalion, and served on the staff of
+chosen a captain in a volunteer [[Battalion|battalion]], and served on the staff of
 General Custine. Promotion rapidly followed, and in the course of two
 years he had become a general of division. In 1796 he commanded the
 centre division of Moreau's army in the campaign of the Rhine, and by
@@ -27,7 +27,7 @@ Madrid. In 1803 he was appointed to the command of an army corps in
 Italy, in 1805 he served with distinction under Massena, and in 1806 was
 engaged in the campaign in southern Italy. He took part in the Prussian
 and Polish campaigns of 1807, and in 1808, in which year he was made a
-count, he commanded an army corps in Catalonia; but, not wishing to
+count, he commanded an army corps in [[Catalonia]]; but, not wishing to
 comply with certain orders he received from Paris (for which see Oman,
 _Peninsular War_, vol. iii.), he resigned his command and remained in
 disgrace till 1811. He was still a general of division, having been
@@ -37,7 +37,7 @@ the opening of the Russian campaign he received command of an army
 corps, and on the 18th of August 1812 obtained a victory over the
 Russians at Polotsk, in recognition of which he was created a marshal of
 France. He received a severe wound in one of the actions during the
-general retreat. St-Cyr distinguished himself at the battle of Dresden
+general retreat. St-Cyr distinguished himself at the battle of [[Dresden]]
 (August 26-27, 1813), and in the defence of that place against the
 Allies after the battle of Leipzig, capitulating only on the 11th of
 November, when Napoleon had retreated to the Rhine. On the restoration
@@ -49,7 +49,7 @@ continued to discharge till November 1819. During this time he effected
 many reforms, particularly in respect of measures tending to make the
 army a national rather than a dynastic force. He exerted himself also to
 safeguard the rights of the old soldiers of the Empire, organized the
-general staff and revised the code of military law and the pension
+general staff and revised the [[Code|code]] of military law and the pension
 regulations. He was made a marquess in 1817. He died at Hyeres (Var) on
 the 17th of March 1830. Gouvion St-Cyr would doubtless have obtained
 better opportunities of acquiring distinction had he shown himself more

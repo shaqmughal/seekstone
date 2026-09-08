@@ -7,13 +7,13 @@ type: source
 
 # Arkansas City
 
-ARKANSAS CITY, a city of Cowley county, Kansas, U.S.A., situated near
+ARKANSAS CITY, a city of [[Cowley]] county, Kansas, U.S.A., situated near
 the S. boundary of the state, in the fork of the Arkansas and Walnut
 rivers. Pop. (1890) 8347; (1900) 6140, of whom 302 were negroes; (1905)
-7634; (1910) 7508. The city is served by the Atchison, Topeka & Santa
+7634; (1910) 7508. The city is served by the [[Atchison]], Topeka & Santa
 Fe, the Missouri Pacific, the St Louis & San Francisco, the Midland
 Valley and the Kansas South-Western railways. To the south is the
-Chilocco Indian school (in Key county, Oklahoma), established by the
+Chilocco Indian school (in [[Key]] county, Oklahoma), established by the
 U.S. government in 1884. A canal joining the Arkansas and Walnut rivers
 furnishes good water power. The manufactories include flour mills,
 packing establishments, a creamery and a paint factory. The city is

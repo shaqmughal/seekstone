@@ -7,7 +7,7 @@ process to be unable to pay his debts. Although the terms "bankruptcy" and
 commercial usage distinct significations. When a person's financial
 liabilities are greater than his means of meeting them, he is said to be
 "insolvent"; but he may nevertheless be able to carry on his business
-affairs by means of credit, paying old debts by incurring new ones, and he
+affairs by means of [[Credit|credit]], paying old debts by incurring new ones, and he
 may even, if fortunate, regain a position of solvency without his creditors
 ever being aware of his true condition. And even when his insolvency
 becomes public and default occurs, a debtor may still avert bankruptcy if
@@ -24,14 +24,14 @@ creditors were left to pursue their remedies by such means as the law or
 practice of the community might sanction, and these were generally of a
 very drastic character. Under the Roman law of the Twelve Tables, the
 creditors might, as a last resort, cut the debtor's body into pieces, each
-of them taking his proportionate share; and although Blackstone in quoting
+of them taking his proportionate share; and although [[Blackstone]] in quoting
 this law appears to cast some doubt upon its too literal interpretation,
 there can be no doubt that the power of selling the debtor and his family
 into slavery was one which was habitually exercised in Greece, Rome, and
 generally among the nations of antiquity. Even among the Jews, whose
 legislation was of a comparatively humane character, this practice is
 illustrated by the Old Testament story of the woman who sought the help of
-Elisha, saying, "Thy servant my husband is dead ... and the creditor is
+[[Elisha]], saying, "Thy servant my husband is dead ... and the creditor is
 come to take unto him my two children to be bondmen." The savage severity
 of these earlier laws was, however, found to be inconsistent with the
 development of more humane ideas and the growth of popular rights; and
@@ -464,7 +464,7 @@ to make administration orders for payment by instalments in lieu of
 immediate committal to prison, in the case of judgment debtors whose total
 indebtedness does [v.03 p.0324] not exceed £50 (§ 122). It also provides
 for the getting in and administration by the Board of Trade of unclaimed
-dividends and undistributed balances on estates wound up under previous
+dividends and undistributed [[Balance|balances]] on estates wound up under previous
 bankruptcy acts (§ 162). Lastly, it amends the procedure under the Debtors
 Act of 1869, dealing with criminal offences committed by bankrupts (which,
 prior to 1869, had been treated as part of the bankruptcy law), by enacting
@@ -512,7 +512,7 @@ of frauds by debtors on their creditors, and any points and matters upon
 which the existing laws seemed to require amendment. The committee received
 a vast amount of evidence as well as documents and memoranda from chambers
 of commerce, trade protection societies and influential public bodies. The
-scope of the inquiry was not limited to English law and procedure, but also
+scope of the inquiry was not limited to [[English Law|English law]] and procedure, but also
 embraced that of Germany, France, Australia, Scotland and Ireland. The
 report of the committee was issued in 1908 (Cd. 4068), and reference may be
 made to it for much valuable information. The committee reported that the
@@ -565,7 +565,7 @@ force in France and Germany; that failure or omission by a debtor to have
 kept the required books should only be punishable in the event of a debtor
 becoming bankrupt and of the liquidated debts proved in the bankruptcy
 exceeding £200 in amount; that no prosecution of a debtor for failure or
-omission to keep books of account should take place before the lapse of two
+omission to keep books of account should take place before the [[Lapse|lapse]] of two
 years from the passing of the law; that a debtor should not be punished if
 he could show that his failure or omission to keep proper books was honest
 and excusable and did not contribute to his insolvency, and that no
@@ -678,7 +678,7 @@ binding on those who do not assent to them, such arrangements, where
 honestly entered into and carried out by capable administration, in many
 cases form a useful and expeditious method of liquidating a debtor's
 affairs, and where the debtor's insolvency has been brought about without
-any gross misconduct they will probably always be largely resorted to. The
+any [[Gros|gross]] misconduct they will probably always be largely resorted to. The
 danger attending them is that even in cases where the debtor has been
 guilty of misconduct, a private arrangement may be used to screen his
 conduct from investigation, while in many cases it may be made the medium
@@ -814,7 +814,7 @@ could exercise if present may be given to the official receiver or to any
 person in the regular employment of the creditor. Special proxies may be
 given to any person to vote for specified resolutions, or for the
 appointment of specified persons as trustee and committee. Only official
-forms can be used, and the blanks must be filled up in the handwriting of
+forms can be used, and the [[Blank|blanks]] must be filled up in the handwriting of
 the creditor or some person in his regular employment, including the
 authorized agent of a creditor resident abroad. A proxy must be lodged with
 the official receiver not later than four o'clock on the day before the
@@ -865,7 +865,7 @@ years after his discharge, unless the bankruptcy is annulled or he obtains
 his discharge with a certificate by the court that the bankruptcy was
 caused by misfortune without misconduct, act as a member of the
 legislature, or as a justice of the peace, mayor, alderman, councillor,
-guardian or overseer of the poor, member of a sanitary authority, school,
+[[Guardian|guardian]] or overseer of the poor, member of a sanitary authority, school,
 highway or burial board, or select vestry in any part of the United
 Kingdom.
 
@@ -893,7 +893,7 @@ three months preceding the receiving order given an undue preference; or
 has increased his liabilities with the view of making his assets equal to
 ten shillings in the pound; or has previously been bankrupt or made an
 arrangement with creditors; or has been guilty of any fraud or fraudulent
-breach of trust; then the court shall, on proof of any of these facts,
+[[Breach|breach]] of trust; then the court shall, on proof of any of these facts,
 either (a) refuse the discharge, or (b) suspend it for a period of not less
 than two years, or until a dividend of not less than ten shillings in the
 pound has been paid; or (c) qualify the order by the condition that

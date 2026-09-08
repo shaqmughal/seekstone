@@ -43,7 +43,7 @@ ungracious to carp at the method.
   come, the former still looked for his coming. However, the Jews have
   the advantage of being an ancient nation with an ancient faith. The
   idea of an Incarnation of God is absurd; why should the human race
-  think itself so superior to bees, ants and elephants as to be put in
+  think itself so superior to [[Bee|bees]], ants and elephants as to be put in
   this unique relation to its maker? And why should God choose to come
   to men as a Jew? The Christian idea of a special providence is
   nonsense, an insult to the deity. Christians are like a council of
@@ -56,8 +56,8 @@ ungracious to carp at the method.
   repeat the Thyestean charges so frequently brought against Christians
   by their calumniators, but he says the Christian teachers who are
   mainly weavers and cobblers have no power over men of education. The
-  qualifications for conversion are ignorance and childish timidity.
-  Like all quacks they gather a crowd of slaves, children, women and
+  qualifications for [[Conversion|conversion]] are [[Ignorance|ignorance]] and childish timidity.
+  Like all quacks they gather a [[Crowd|crowd]] of slaves, children, women and
   idlers. "I speak bitterly about this," says Celsus, "because I feel
   bitterly. When we are invited to the Mysteries the masters use another
   tone. They say, 'Come to us ye who are of clean hands and pure speech,
@@ -137,7 +137,7 @@ The date also is clearly defined. Besides the general indication that
 the Empire was passing through a military crisis, which points to the
 long struggle waged by Marcus Aurelius against the Marcomanni and other
 Germanic tribes, there is a reference (_Contra Celsum_, viii. 69) to the
-rescript of that emperor impressing on governors and magistrates the
+rescript of that emperor impressing on governors and [[Magistrate|magistrates]] the
 duty of keeping a strict watch on extravagances in religion. This edict
 dates from 176-177, and inaugurated the persecution which lasted from
 that time till the death of Marcus Aurelius in 180. During these years
@@ -150,8 +150,8 @@ reference to this joint rule (viii. 71).
 Celsus shows himself familiar with the story of Jewish origins. Any
 pagan who wished to understand and criticize Christianity intimately had
 to begin by learning from the Jews, and this accounts for the opening
-chapters of his argument. He has a good knowledge of Genesis and Exodus,
-refers to the stories of Jonah, Daniel (vii. 53) and Enoch (v. 52), but
+chapters of his argument. He has a good knowledge of [[Genesis]] and [[Exodus]],
+refers to the stories of [[Jonah]], [[Daniel]] (vii. 53) and [[Enoch]] (v. 52), but
 does not make much use of the Prophets or the Psalter. As regards the
 New Testament his position is closely in agreement with that reflected
 in the contemporary _Acts of the Martyrs of Scili_. He speaks of a
@@ -183,7 +183,7 @@ attack for these writers.
 
 Of more importance than these matters is the light which the book sheds
 on the strength of the Church about the year 180. It is of course easy
-to see that Celsus had no apprehension of the spiritual needs even of
+to see that Celsus had no [[Apprehension|apprehension]] of the spiritual needs even of
 his own day which it was the Christian purpose to satisfy, that he could
 not grasp anything of the new life enjoyed by the poor in spirit, and
 that he underrated the significance of the Church, regarding it simply
@@ -202,7 +202,7 @@ abstain from politics, the affairs of the world would fall into the
 hands of wild and lawless barbarians" (viii. 68). Forced to admit that
 Christians are not _infructuosi in negotiis_, he wants them to be good
 citizens, to retain their own belief but conform to the state religion.
-It is an earnest and striking appeal on behalf of the Empire, which was
+It is an [[Earnest|earnest]] and striking appeal on behalf of the Empire, which was
 clearly in great danger, and it shows the terms offered to the Church,
 as well as the strength of the Church at the time. Numerically,
 Christians may have formed perhaps a tenth of the population, i.e. in
@@ -212,7 +212,7 @@ community was out of all proportion to their mere numbers.
   LITERATURE.--Th. Keim, _Celsus' Wahres Wort_ (1873); Pelagaud, _Etude
   sur Celse_ (1878); K.J. Neumann's edition in _Scriptores Graeci qui
   Christianam impugnaverunt religionem_, and article in Hauck-Herzog's
-  _Realencyk. fur prot. Theol._, where a very full bibliography is
+  _Realencyk. [[Fur|fur]] prot. Theol._, where a very full bibliography is
   given. See also W. Moeller, _Hist, of the Chr. Church_, i. 169 ff.; A.
   Harnack, _Expansion of Christianity_, ii. 129 ff.; J.A. Froude, _Short
   Studies_, iv.

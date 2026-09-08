@@ -9,7 +9,7 @@ id: 42-1349
 # Goliad
 
 GOLIAD, an unincorporated village and the county-seat of Goliad county,
-Texas, U.S.A., on the N. bank of the San Antonio river, 85 m. S.E. of
+Texas, U.S.A., on the N. bank of the San [[Antonio]] river, 85 m. S.E. of
 San Antonio. Pop. (1900) about 1700. It is served by the Galveston,
 Harrisburg & San Antonio railway (Southern Pacific System). Situated in
 the midst of a rich farming and stock-raising country, Goliad has flour
@@ -24,11 +24,11 @@ force of Mexicans, who surrendered to the Texans in October 1835, and on
 the 20th of December a preliminary "declaration of independence" was
 published here, antedating by several months the official Declaration
 issued at Old Washington, Texas, on the 2nd of March 1836. In 1836, when
-Santa Anna began his advance against the Texan posts, Goliad was
+Santa [[Anna]] began his advance against the Texan posts, Goliad was
 occupied by a force of about 350 Americans under Colonel James W. Fannin
-(c. 1800-1836), who was overtaken on the Coletta Creek while attempting
+(c. 1800-1836), who was overtaken on the Coletta [[Creek]] while attempting
 to carry out orders to withdraw from Goliad and to unite with General
-Houston; he surrendered after a sharp fight (March 19-20) in which he
+[[Houston]]; he surrendered after a sharp fight (March 19-20) in which he
 inflicted a heavy loss on the Mexicans, and was marched back with his
 force to Goliad, where on the morning of the 27th of March they were
 shot down by Santa Anna's orders. Goliad was nearly destroyed by a

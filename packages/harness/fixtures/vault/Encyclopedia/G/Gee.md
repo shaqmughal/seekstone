@@ -22,7 +22,7 @@ in Wales, and played a great part in stirring up the nationalist
 movement in the principality. In educational matters he waged a long and
 successful struggle on behalf of undenominational schools and for the
 establishment of the intermediate school system. He was an enthusiastic
-advocate of church disestablishment, and had a historic newspaper duel
+advocate of church disestablishment, and had a historic newspaper [[Duel|duel]]
 with Dr John Owen (afterwards bishop of St David's) on this question.
 The Eisteddfod found in him a thorough friend and a wise counsellor. His
 commanding presence, mastery of diction, and resonant voice made him an

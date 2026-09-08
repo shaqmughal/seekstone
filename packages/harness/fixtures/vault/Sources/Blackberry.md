@@ -22,7 +22,7 @@ villosus_), are widely cultivated; it is described as one of the most
 important and profitable of bush-fruits.
 
   For details see F.W. Card in L.H. Bailey's _Cyclopedia of American
-  Horticulture_ (1900).
+  [[Horticulture]]_ (1900).
 
 ## References
 

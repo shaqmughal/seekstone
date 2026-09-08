@@ -18,7 +18,7 @@ the original distillate. This simple method is subject to variations in
 manufacture, and the addition of a small quantity of Jamaica rum, in
 particular, is said to much improve the flavour. Dry Curacoa contains
 about 39%, the sweet variety about 36% of alcohol. A lighter variety of
-Curacoa, made with fine brandy, is known as "Grand Marnier."
+Curacoa, made with fine [[Brandy|brandy]], is known as "Grand Marnier."
 
 ## See also
 

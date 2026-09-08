@@ -13,10 +13,10 @@ was, like Titinius and Afranius, distinguished as a writer of _fabulae
 togatae_, national comedies. He had the reputation of being a vivid
 delineator of character, especially female. He also seems to have
 published a collection of epigrams. The scanty fragments contain many
-archaisms, but are lively in style. According to Horace (_Epistles_, ii
+archaisms, but are lively in style. According to Horace (_[[Epistle|Epistles]]_, ii
 1. 79) the plays of Atta were still put on the stage in his time.
 
-  Aulus Gellius vii. 9; fragments in Neukirch, _De fabula togata
+  Aulus [[Gellius]] vii. 9; fragments in Neukirch, _De fabula togata
   Romanorum_ (1833); Ribbeck, _Comicorum Latinorum reliquiae_ (1855).
 
 ## References

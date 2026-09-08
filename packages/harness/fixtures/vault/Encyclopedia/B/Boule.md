@@ -18,7 +18,7 @@ of communication between the king and the freemen assembled in the
 Agora. In Dorian states this aristocratic form of government was
 retained (for the Spartan Council of Elders see GEROUSIA). In Athens the
 ancient council was called the Boule until the institution of a
-democratic council, or committee of the Ecclesia, when, for purposes of
+democratic council, or committee of the [[Ecclesia]], when, for purposes of
 distinction, it was described as "the Boule on the Areopagus," or, more
 shortly, "the Areopagus" (q.v.). It must be clearly understood that the
 second, or Solonian Boule, was entirely different from the Areopagus
@@ -33,12 +33,12 @@ we have even fairly detailed information, it is necessary to mention
 that councils existed in other Greek states also, both oligarchic and
 democratic. A Boule was in the first place a necessary part of a Greek
 oligarchy; the transition from monarchy to oligarchy was nominally begun
-by the gradual transference of the powers of the monarch to the Boule of
+by the [[Gradual|gradual]] transference of the powers of the monarch to the Boule of
 nobles. Further, in the Greek democracy, the larger democratic Boule was
 equally essential. The general assembly of the people was utterly
 unsuited to the proper management of state affairs in all their
 minutiae. We therefore find councils of both kinds in almost all the
-states of Greece. (1) At Corinth we learn that there was an oligarchic
+states of Greece. (1) At [[Corinth]] we learn that there was an oligarchic
 council of unknown numbers presided over by eight leaders (Nicol.
 Damasc. _Frag_. 60). It was probably like the old Homeric council,
 except that its constitution did not depend on a birth qualification,
@@ -46,9 +46,9 @@ but on a high census. This was natural in Corinth where, according to
 Herodotus (ii. 167), mercantile pursuits bore no stigma. (2) From an
 inscription we learn that the Athenians, in imposing a constitution on
 Erythrae (about 450 B.C.), included a council analogous to their own.
-(3) In Elis (Thuc. v. 47) there was an aristocratic council of ninety,
+(3) In [[Eli|Elis]] (Thuc. v. 47) there was an aristocratic council of ninety,
 which was superseded by a popular council of six hundred (471). (4)
-Similarly in Argos there were an aristocratic council of eighty and
+Similarly in [[Argos]] there were an aristocratic council of eighty and
 later a popular council of much larger size (Thuc. v. 47). Councils are
 also found at (5) Rhodes, (6) Megalopolis (democratic), (7) Corcyra
 (democratic), (Thuc. iii. 70). Of these seven the most instructive is
@@ -58,7 +58,7 @@ at Erythrae (and probably in the other tributary cities).
 
 _The Boule at Athens. History._--The origin of the second Boule, or
 Council of Four Hundred, at Athens is involved in obscurity. In the
-Aristotelian _Constitution of Athens_ (c. 4), it is stated that Draco
+Aristotelian _Constitution of Athens_ (c. 4), it is stated that [[Draco]]
 established a council of 401, and that he transferred to it some of the
 functions of the Council of Areopagus (q.v.). It is, however, generally
 held (see DRACO) that this statement is untrue, and that it was Solon
@@ -66,13 +66,13 @@ who first established the council as a part of the constitution.
 Thirdly, it has been held that the council was not invented either by
 Draco or by Solon, but was of older and unknown origin. Fourthly, it has
 also been maintained by some recent writers that no Boule existed before
-Cleisthenes. The principal evidence for this view is the omission of any
+[[Cleisthenes]]. The principal evidence for this view is the omission of any
 reference to the Boule in one of the earliest Athenian inscriptions,
 that relating to Salamis (Hicks and Hill, No. 4), where in place of the
 customary formula of a later age, [Greek: hedoxe tae boulae kai to
 daemo], we have the formula [Greek: edochsen to daemo]. This argument is
 far from conclusive, and it is clear from the _Constitution_ (c. 20)
-that the resistance of the Boule to Cleomenes and Isagoras was anterior
+that the resistance of the Boule to [[Cleomenes]] and Isagoras was anterior
 to the legislation of Cleisthenes (i.e. that the Boule in question was
 the Solonian and not the Cleisthenian). On the whole it is reasonable to
 conclude that it was Solon who invented the Boule to act as a
@@ -80,7 +80,7 @@ semi-democratic check upon the democracy, whose power he was increasing
 at the expense of the oligarchs by giving new powers to the people in
 the Ecclesia and the Dicasteries. Practically nothing is known of the
 operations of this council until the struggle between Isagoras and
-Cleisthenes (Herod, v. 72). Solon's council had been based on the four
+Cleisthenes ([[Herod]], v. 72). Solon's council had been based on the four
 Ionic tribes. When Cleisthenes created the new ten tribes in order to
 destroy the local influence of dominant families and to give the country
 demes a share in government, he changed the Solonian council into a body
@@ -88,7 +88,7 @@ of 500 members, 50 from each tribe. This new body (see below) was the
 keystone of the Cleisthenean democracy, and may be said in a sense to
 have embodied the principle of local representation. After Cleisthenes,
 the council remained unaltered till 306 B.C., when, on the addition of
-two new tribes named after Antigonus and his son, Demetrius Poliorcetes,
+two new tribes named after Antigonus and his son, [[Demetrius]] Poliorcetes,
 its numbers were increased to 600. In A.D. 126-127 the old number of 500
 was restored. A council of 750 members is mentioned in an inscription of
 the early 3rd century A.D., and about A.D. 400 the number of councillors
@@ -103,7 +103,7 @@ _Constitution and Functions._--(a) Under Solon the council consisted of
 400 members, 100 from each of the four Ionic tribes. It is certain that
 all classes were eligible except the Thetes, but the method of
 appointment is not known. Three suggestions have been made, (1) that
-each tribe chose its representatives, (2) that they were chosen by lot
+each tribe [[Chose|chose]] its representatives, (2) that they were chosen by [[Lot|lot]]
 from qualified citizens in rotation, (3) that the combined method of
 selection by lot from a larger number of elected candidates was
 employed. According to the passage in Plutarch's _Solon_ the functions
@@ -113,7 +113,7 @@ assigned to it until the Cleisthenean reforms. When we consider,
 however, the double danger of leaving the Ecclesia in full power, and
 yet under the presidency of the aristocratic archons, it seems probable
 that the probouleutic functions were devised by Solon as a method of
-maintaining the balance. On this hypothesis the Solonian Boule was from
+maintaining the [[Balance|balance]]. On this [[Hypothesis|hypothesis]] the Solonian Boule was from
 the first what it certainly was later, a _committee_ of the Ecclesia,
 i.e. not a "senate." It may be regarded as certain that the system of
 Prytaneis was the invention of Cleisthenes, not of Solon. (b) Under
@@ -183,20 +183,20 @@ administrative and judicial control. (1) It was before the council that
 the Poletae arranged the farming of public revenues, the receipt of
 tenders for public works and the sale of confiscated property; further,
 it dealt with defaulting collectors ([Greek: eklogeis]), exacted the
-debts of private persons to the state, and probably drew up annual
+[[Debt|debts]] of private persons to the state, and probably drew up annual
 estimates. (2) It supervised the treasury payments of the Apodectae
 ("Receivers") and the "Treasurers of the God." (3) From Demosthenes (_In
 Androt_.) it is clear that it had to arrange for the provision of so
 many triremes per annum and the award of the trierarchic crown. (4) It
-arranged for the maintenance of the cavalry and the special levies from
-the demes. (5) It heard certain cases of _eisangelia_ (impeachment) and
+arranged for the [[Maintenance|maintenance]] of the [[Cavalry|cavalry]] and the special [[Levi|levies]] from
+the demes. (5) It heard certain cases of _eisangelia_ ([[Impeachment|impeachment]]) and
 had the right to fine up to 500 drachmas, or hand the case over to the
 Heliaea. The cases which it tried were mainly prosecutions for crimes
-against the state (e.g. treason, conspiracy, bribery). In later times it
+against the state (e.g. treason, conspiracy, [[Bribery|bribery]]). In later times it
 acted mainly as a court of first instance. Subsequently (_Ath. Pol._ c.
 45) its powers were limited and an appeal was allowed to the popular
 courts. (6) The council presided over the _dokimasia_ (consideration of
-fitness) of the magistrates; this examination, which was originally
+fitness) of the [[Magistrate|magistrates]]; this examination, which was originally
 concerned with a candidate's moral and physical fitness, degenerated
 into a mere inquiry into his politics. (7) In foreign affairs the
 council as the only body in permanent session naturally received foreign
@@ -204,9 +204,9 @@ envoys and introduced them to the Ecclesia. Further, the Boule, with
 the Strategi ("Generals"), took treaty oaths, after the Ecclesia had
 decided on the terms. The Xenophontic _Politeia_ states that the council
 of the 5th century was "concerned with war," but in the 4th century it
-chiefly supervised the docks and the fleet. On two occasions at least
+chiefly supervised the [[Dock|docks]] and the fleet. On two occasions at least
 the council was specially endowed with full powers; Demosthenes (_De
-Fals. Leg._ p. 389) states that the people gave it full powers to send
+Fals. [[Leg]]._ p. 389) states that the people gave it full powers to send
 ambassadors to Philip, and Andocides (_De Myst._ 14 foil.) states that
 it had full power to investigate the affair of the mutilation of the
 Hermae on the night before the sailing of the Sicilian Expedition.
@@ -221,17 +221,17 @@ the Ecclesia, and was immediately connected with a system of
 sub-committees which exercised executive functions.
 
   BIBLIOGRAPHY.--With this article compare ECCLESIA, STRATEGUS, ARCHON,
-  DRACO, SOLON, CLEISTHENES, where collateral information is given.
-  Besides the chief histories of Greece (Grote, ed. 1907, Meyer &c.),
+  DRACO, SOLON, CLEISTHENES, where [[Collateral|collateral]] information is given.
+  Besides the chief histories of Greece ([[Grote]], ed. 1907, Meyer &c.),
   see Gilbert, _Constitutional Antiquities_ (Eng. trans. by E.J. Brooks
-  and T. Nicklin, 1895); J.B. Bury, _History of Greece_ (1900); A.H.J.
+  and T. Nicklin, 1895); J.B. [[Bury]], _History of Greece_ (1900); A.H.J.
   Greenidge _Handbook of Greek Constitutional History_ (1896); J.E.
   Sandys' edition of the _Constitution of Athens_; Boeckh, _Die
   Staatshaushaltung der Athener_ (1886); Schumann, _Griechische
   Altertumer_ (1897-1902); Busolt, _Die griechischen Staats- und
   Rechtsaltertumer_ (1902). See also H. Swoboda, _Die griechischen
   Volksbeschlusse_ (1890); Szanto, _Das griechische Burgerrecht_ (1892);
-  Perrot, _Essai sur le droit public d'Athenes_ (1869). It should be
+  Perrot, _Essai sur le [[Droit|droit]] public d'Athenes_ (1869). It should be
   observed that all works published before 1891 are so far useless that
   they are without the information contained in the _Constitution of
   Athens_ (q.v.). See also GREEK LAW.     (J. M. M.)

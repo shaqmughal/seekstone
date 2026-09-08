@@ -1,13 +1,13 @@
 # Henzada
 
-HENZADA, a district of Lower Burma, formerly in the Pegu, but now in the
+HENZADA, a district of Lower [[Burma]], formerly in the Pegu, but now in the
 Irrawaddy division. Area, 2870 sq. m. Pop. (1901) 484,558. It stretches
 from north to south in one vast plain, forming the valley of the
 Irrawaddy, and is divided by that river into two nearly equal portions.
-This country is protected from inundation by immense embankments, so
+This country is protected from inundation by immense [[Embankment|embankments]], so
 that almost the whole area is suitable for rice cultivation. The chief
-mountains are the Arakan and Pegu Yoma ranges. The greatest elevation of
-the Arakan Yomas in Henzada, attained in the latitude of Myan-aung, is
+mountains are the [[Arakan]] and Pegu Yoma ranges. The greatest elevation of
+the Arakan Yomas in Henzada, attained in the [[Latitude|latitude]] of Myan-aung, is
 4003 ft. above sea-level. Numerous torrents pour down from the two
 boundary ranges, and unite in the plains to form large streams, which
 fall into the chief streams of the district, which are the Irrawaddy,

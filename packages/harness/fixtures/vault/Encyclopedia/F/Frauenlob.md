@@ -10,7 +10,7 @@ gradually acquired a reputation as a singer at the various courts of the
 German princes. In 1278 we find him with Rudolph I. in the Marchfeld, in
 1286 he was at Prague at the knighting of Wenceslaus (Wenzel) II., and
 in 1311 he was present at a knightly festival celebrated by Waldemar of
-Brandenburg before Rostock. After this he settled in Mainz, and there
+Brandenburg before Rostock. After this he settled in [[Mainz]], and there
 according to the popular account, founded the first school of
 Meistersingers (q.v.). He died in 1318, and was buried in the cloisters
 of the cathedral at Mainz. His grave is still marked by a copy made in

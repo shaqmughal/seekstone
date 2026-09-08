@@ -12,7 +12,7 @@ towers still remain. It has a well-known academy of mining and a number
 of technical schools. Its extensive iron-works and trade in iron are a
 consequence of its position on the verge of the important lignite
 deposits of Upper Styria and in the neighbourhood of the iron mines and
-furnaces of Vordernberg and Eisenerz. On the 18th of April 1797 a
+furnaces of Vordernberg and [[Eisenerz]]. On the 18th of April 1797 a
 preliminary peace was concluded here between Austria and France, which
 led to the treaty of Campo-Formio.
 

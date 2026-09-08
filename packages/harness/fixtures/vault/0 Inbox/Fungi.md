@@ -15,16 +15,16 @@ which arise from spores, and the thallus of which is either unicellular
 or composed of branched or unbranched tubes or cell-filaments (hyphae)
 with apical growth, or of more or less complex wefted sheets or
 tissue-like masses of such (mycelium). The latter may in certain cases
-attain large dimensions, and even undergo cell-divisions in their
+attain large [[Dimension|dimensions]], and even undergo cell-divisions in their
 interior, resulting in the development of true tissues. The spores,
 which may be uni- or multicellular, are either abstricted free from the
 ends of hyphae (acrogenous), or formed from segments in their course
 (_chlamydospores_) or from protoplasm in their interior (endogenous).
 The want of chlorophyll restricts their mode of life--which is rarely
-aquatic--since they are therefore unable to decompose the carbon dioxide
+aquatic--since they are therefore unable to decompose the [[Carbon|carbon]] dioxide
 of the atmosphere, and renders them dependent on other plants or
 (rarely) animals for their carbonaceous food-materials. These they
-obtain usually in the form of carbohydrates from the dead remains of
+obtain usually in the form of [[Carbohydrate|carbohydrates]] from the dead remains of
 other organisms, or in this or other forms from the living cells of
 their hosts; in the former case they are termed saprophytes, in the
 latter parasites. While some moulds (_Penicillium_, _Aspergillus_) can
@@ -37,7 +37,7 @@ the cilia, spores and other peculiarities of the former, and the
 emission of naked amoeboid masses of protoplasm, which creep and fuse to
 streaming plasmodia, with special modes of nutrition and spore-formation
 of the latter, have led to their separation as groups of organisms
-independent of the true Fungi. On the other hand, lichens, previously
+independent of the true Fungi. On the other hand, [[Lichens|lichens]], previously
 regarded as autonomous plants, are now known to be dual organisms--fungi
 symbiotic with algae.
 
@@ -50,12 +50,12 @@ and 650 of Schizomycetes. Allowing for these and for the cases,
 undoubtedly not few, where one and the same fungus has been described
 under different names, we obtain Schroeter's estimate (in 1892) of
 20,000 species. In illustration of the very different estimates that
-have been made, however, may be mentioned that of De Bary in 1872 of
-150,000 species, and that of Cooke in 1895 of 40,000, and Massee in 1899
+have been made, however, may be mentioned that of [[De Bary]] in 1872 of
+150,000 species, and that of [[Cooke]] in 1895 of 40,000, and Massee in 1899
 of over 50,000 species, the fact being that no sufficient data are as
 yet to hand for any accurate census. As regards their geographical
 distribution, fungi, like flowering plants, have no doubt their centres
-of origin and of dispersal; but we must not forget that every exchange
+of origin and of dispersal; but we must not forget that every [[Exchange|exchange]]
 of wood, wheat, fruits, plants, animals, or other commodities involves
 transmission of fungi from one country to another; while the migrations
 of birds and other animals, currents of air and water, and so forth, are
@@ -71,10 +71,10 @@ countries; it is certain that the tropics are the home of very numerous
 species. Again, the accuracy of the statement that the fleshy Agaricini,
 Polyporei, _Pezizae_, &c., are relatively rarer in the tropics may
 depend on the fact that they are more difficult to collect and remit for
-identification than the abundantly recorded woody and coriaceous forms
+[[Identification|identification]] than the abundantly recorded woody and coriaceous forms
 of these regions. When we remember that many parts of the world are
 practically unexplored as regards fungi, and that new species are
-constantly being discovered in the United States, Australia and northern
+constantly being discovered in the United States, [[Australia]] and northern
 Europe--the best explored of all--it is clear that no very accurate
 census of fungi can as yet be made, and no generalizations of value as
 to their geographical distribution are possible.
@@ -99,14 +99,14 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   less branched (_Peronospora_) or coiled (_Protomyces_) haustorium. In
   _Rhizopus_ certain hyphae creep horizontally on the surface of the
   substratum, and then anchor their tips to it by means of a tuft of
-  short branches (_appressorium_), the walls of which soften and gum
+  short branches (_appressorium_), the walls of which soften and [[Gum|gum]]
   themselves to it, then another branch shoots out from the tuft and
   repeats the process, like a strawberry-runner. Appressoria are also
   formed by some parasitic fungi, as a minute flattening of the tip of a
   very short branch (_Erysiphe_), or the swollen end of any hypha which
   comes in contact with the surface of the host (_Piptocephalis_,
   _Syncephalis_), haustoria piercing in each case the cell-wall below.
-  In _Botrytis_ the appressoria assume the form of dense tassels of
+  In _[[Botrytis]]_ the appressoria assume the form of dense tassels of
   short branches. In _Arthrobotrys_ side-branches of the mycelium sling
   themselves around the host (_Tylenchus_) much as tendrils round a
   support.
@@ -190,7 +190,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
 
   As regards its composition, the cell-wall of fungi exhibits variations
   of the same kind as those met with in higher plants. While the
-  fundamental constituent is a cellulose in many Mucorini and other
+  fundamental constituent is a [[Cellulose|cellulose]] in many Mucorini and other
   Phycomycetes, in others bodies like pectose, callose, &c., commonly
   occur, and Wisselingh's researches show that chitin, a gluco-proteid
   common in animals, forms the main constituent in many cases, and is
@@ -211,7 +211,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   and structural differentiations, as well as the changes referred to
   above, alter the primary wall considerably. Such thickening may be
   localized, and _pits_ (e.g. _Uredospores_, septa of Basidiomycetes),
-  _spirals_, _reticulations_, _rings_, &c. (capillitium fibres of
+  _spirals_, _reticulations_, _rings_, &c. (capillitium [[Fibres|fibres]] of
   _Podaxon_, _Calostoma_, _Battarrea_), occur as in the vessels of
   higher plants, while sculptured networks, pittings and so forth are as
   common on fungus-spores as they are on pollen grains.
@@ -228,14 +228,14 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   Ascomycetes, yeast, &c. In addition to these cell-contents we have
   good indirect evidence of the existence of large series of other
   bodies, such as proteids, carbohydrates, organic acids, alkaloids,
-  enzymes, &c. These must not be confounded with the numerous substances
+  [[Enzyme|enzymes]], &c. These must not be confounded with the numerous substances
   obtained by chemical analysis of masses of the fungus, as there is
   often no proof of the manner of occurrence of such bodies, though we
   may conclude with a good show of probability that some of them also
   exist preformed in the living cell. Such are sugars (glucose, mannite,
   &c.), acids (acetic, citric and a whole series of lichen-acids),
   ethereal oils and resinous bodies, often combined with the intense
-  colours of fungi and lichens, and a number of powerful alkaloid
+  [[Colours|colours]] of fungi and lichens, and a number of powerful alkaloid
   poisons, such as muscarin (_Amanita_), ergotin (_Claviceps_), &c.
 
   Among the enzymes already extracted from fungi are _invertases_
@@ -247,12 +247,12 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   convert proteids into peptones and other bodies (_Penicillium_, &c.);
   lipases, which break up fatty oils (_Empusa_, _Phycomyces_, &c.);
   oxydases, which bring about the oxidations and changes of colour
-  observed in _Boletus_, and _zymase_, extracted by Buchner from yeast,
-  which brings about the conversion of sugar into alcohol and
+  observed in _[[Boletus]]_, and _zymase_, extracted by Buchner from yeast,
+  which brings about the [[Conversion|conversion]] of sugar into alcohol and
   carbon-dioxide. That such enzymes are formed in the protoplasm is
   evident from the behaviour of hyphae, which have been observed to
-  pierce cell-membranes, the chitinous coats of insects, artificial
-  collodion films and layers of wax, &c. That a fungus can secrete more
+  pierce cell-membranes, the chitinous coats of [[Insect|insects]], artificial
+  [[Collodion|collodion]] films and layers of wax, &c. That a fungus can secrete more
   than one enzyme, according to the materials its hyphae have to attack,
   has been shown by the extraction of diastase, inulase, trehalase,
   invertase, maltase, raffinase, malizitase, emulsin, trypsin and lipase
@@ -280,14 +280,14 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   nucleus. As a rule the nuclei of the mycelium are very minute (1.5-2
   [mu] in _Phycomyces_), but those of many asci and spores are large and
   easily rendered visible. As with other plants, so in fungi the
-  essential process of fertilization consists in the fusion of two
+  essential process of fertilization consists in the [[Fusion|fusion]] of two
   nuclei, but owing to the absence of well-marked sexual organs from
   many fungi, a peculiar interest attaches to certain nuclear fusions in
   the vegetative cells or in young spores of many forms. Thus in
   Ustilagineae the chlamydospores, and in Uredineae the teleutospores,
   each contain two nuclei when young, which fuse as the spores mature.
   In young asci a similar fusion of two nuclei occurs, and also in
-  basidia, in each case the nucleus of the ascus or of the basidium
+  basidia, in each case the nucleus of the [[Ascus|ascus]] or of the basidium
   resulting from the fusion subsequently giving rise by division to the
   nuclei of the ascospores and basidiospores respectively. The
   significance of these fusions will be discussed under the various
@@ -296,7 +296,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
 
   _Spores._--No agreement has ever been arrived at regarding the
   consistent use of the term spore. This is apparently owing to the
-  facts that too much has been attempted in the definition, and that
+  facts that too much has been attempted in the [[Definition|definition]], and that
   differences arise according as we aim at a morphological or a
   physiological definition. Physiologically, any cell or group of cells
   separated off from a hypha or unicellular fungus, and capable of
@@ -316,7 +316,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   (zoospore) or a quiescent body cut off from a hypha (conidium) or
   developed along its course (oidium or chlamydospore), or in its
   protoplasm (endospore), are matters of importance which have their
-  uses in the classification and terminology of spores, though in many
+  uses in the [[Classification|classification]] and terminology of spores, though in many
   respects they are largely of academic interest.
 
   [Illustration: FIG. 2.--_Peronospora parasitica_ (De Bary).
@@ -441,7 +441,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   into the complex forms met with in _Sparassis_, _Xylaria_,
   _Polyporei_, and _Agaricini_, &c. In these cases the compound
   sporophore is often termed the hymenophore, and its various parts
-  demand special names (pileus, stipes, gills, pores, &c.) to denote
+  demand special names (pileus, stipes, [[Gill|gills]], pores, &c.) to denote
   peculiarities of distribution of the hymenium over the surface.
 
   Other series of modifications arise in which the tissues corresponding
@@ -449,12 +449,12 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   spores, asci, basidia, &c., in a cavity. In the simplest case the
   stroma, after bearing its crop of conidia or oidia, develops
   ascogenous branches in the loosened meshes of its interior (e.g.
-  _Onygena_). Another simple case is where the plane or slightly convex
+  _Onygena_). Another simple case is where the plane or slightly [[Convex|convex]]
   surface of the stroma rises at its margins and overgrows the
   sporogenous hyphal ends, so that the spores, asci, &c., come to lie in
   the depression of a cavity--e.g. _Solenia_, _Cyphella_--and even
   simpler cases are met with in _Mortierella_, where the zygospore is
-  invested by the overgrowth of a dense mat of closely branching hyphae,
+  invested by the overgrowth of a dense [[Mat|mat]] of closely branching hyphae,
   and in _Gymnoascus_, where a loose mat of similarly barren hyphae
   covers in the tufts of asci as they develop.
 
@@ -465,7 +465,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   more involved, inasmuch as the latter is developed in the interior of
   hyphal tissues, which are by no means obviously homologous with a
   stroma. Thus in _Penicillium_, _Eurotium_, _Erysiphe_, &c., hyphal
-  ends which are the initials of ascogenous branches, are invested by
+  ends which are the [[Initials|initials]] of ascogenous branches, are invested by
   closely packed branches at an early stage of development, and the asci
   develop inside what has by that time become a complete investment.
   Whether a true sexual process precedes these processes or not does not
@@ -487,25 +487,25 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   _Cicinnobolus_, _Pleospora_, _Cucurbitaria_, _Leptosphaeria_ and
   others. In other cases (_Diplodia_, _Aecidium_, &c.) conidial or
   oidial "fructifications" arise by a number of hyphae interweaving
-  themselves into a knot, as if they were forming a Sclerotium. The
+  themselves into a [[Knot|knot]], as if they were forming a Sclerotium. The
   outer parts of the mass then differentiate as a wall or investment,
   and the interior becomes a hollow, into which hyphal ends grow and
   abstrict the spores. Much more complicated are the processes in a
   large series of "fructifications," where the mycelium first develops a
-  densely packed mass of hyphae, all alike, in which labyrinths of
+  densely packed mass of hyphae, all alike, in which [[Labyrinth|labyrinths]] of
   cavities subsequently form by separation of hyphae in the previously
   homogeneous mass, and the hymenium covers the walls of these cavities
   and passages as with a lining layer. Meanwhile differences in
   consistency appear in various strata, and a dense outer protective
   layer (peridium), soft gelatinous layers, and so on are formed, the
   whole eventually attaining great complexity--e.g. puff-balls,
-  earth-stars and various _Phalloideae_.
+  [[Earth-Star|earth-stars]] and various _Phalloideae_.
 
   _Spore-Distribution._--Ordinary conidia and similarly abstricted dry
   spores are so minute, light and numerous that their dispersal is
   ensured by any current of air or water, and we also know that rats and
-  other burrowing animals often carry them on their fur; similarly with
-  birds, insects, slugs, worms, &c., on claws, feathers, proboscides,
+  other burrowing animals often carry them on their [[Fur|fur]]; similarly with
+  birds, insects, slugs, worms, &c., on claws, [[Feather|feathers]], proboscides,
   &c., or merely adherent to the slimy body. In addition to these
   accidental modes of dispersal, however, there is a series of
   interesting adaptations on the part of the fungus itself. Passing over
@@ -520,7 +520,7 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   _Empusa_), and similarly with _basidiospores_ (_Coprinus_, _Agaricus_,
   &c.). A more complicated case is illustrated by _Sphaerobolus_, where
   the entire mass of spores, enclosed in its own peridium, is suddenly
-  shot up into the air like a bomb from a mortar by the elastic
+  shot up into the air like a [[Bomb|bomb]] from a mortar by the elastic
   retroversion of a peculiar layer which, up to the last moment,
   surrounded the bomb, and then suddenly splits above, turns inside out,
   and drives the former as a projectile from a gun. Gelatinous or
@@ -539,14 +539,14 @@ with haustoria (h); 2, _Erysiphe_; A and B, mycelium (m), with haustoria
   spores are jerked asunder. In many cases the slimy masses of spermatia
   (_Uredineae_), conidia (_Claviceps_), basidiospores (_Phallus_,
   _Coprinus_), &c., emit more or less powerful odours, which attract
-  flies or other insects, and it has been shown that bees carry the
+  flies or other insects, and it has been shown that [[Bee|bees]] carry the
   fragrant oidia of _Sclerotinia_ to the stigma of _Vaccinium_ and
   infect it, and that flies carry away the foetid spores of _Phallus_,
   just as pollen is dispersed by such insects. Whether the strong odour
   of trimethylamine evolved by the spores of _Tilletia_ attracts insects
   is not known.
 
-  The recent observations and exceedingly ingenious experiments of Falck
+  The recent observations and exceedingly ingenious experiments of [[Falck]]
   have shown that the sporophores of the Basidiomycetes--especially the
   large sporophores of such forms as _Boletus_, _Polyporus_--contain
   quantities of reserve combustible material which are burnt up by the
@@ -656,7 +656,7 @@ article:
       Gasteromycetes.
 
 A. PHYCOMYCETES.--Most of the recent work of importance in this group
-deals with the cytology of sexual reproduction and of spore-formation,
+deals with the [[Cytology|cytology]] of sexual reproduction and of spore-formation,
 and the effect of external conditions on the production of reproductive
 organs.
 
@@ -737,7 +737,7 @@ organs.
   [Illustration: FIG. 5.--_Phytophthora infestans_. Fungus of Potato
   Disease.
 
-    A, B, Section of Leaf of Potato with sporangiophores of
+    A, B, Section of [[Leaf]] of Potato with sporangiophores of
     _Phytophthora infestans_ passing through the stomata D, on the under
     surface of the leaf.
 
@@ -768,7 +768,7 @@ organs.
   degree of concentration sporangia are developed. Further reduction of
   the supplies of food effects the formation of oogonia. This explains
   the sequence of events in the case of a _Saprolegnia_-mycelium
-  radiating from a dead fly in water. Those parts nearest the fly and
+  radiating from a dead [[Fly|fly]] in water. Those parts nearest the fly and
   best supplied develop barren hyphae only; in a zone at the periphery,
   where the products of putrefaction dissolved in the water form a
   dilute but easily accessible supply, the zoosporangia are developed in
@@ -835,7 +835,7 @@ organs.
   with several spores, the conidium the sporangiole with but one spore,
   and that not loose but fused with the sporangiole wall. On this basis,
   with other interesting morphological comparisons, Brefeld erected his
-  hypothesis, now untenable, that the Ascomycetes and Basidiomycetes
+  [[Hypothesis|hypothesis]], now untenable, that the Ascomycetes and Basidiomycetes
   diverge from the Zygomycetes, the former having particularly
   specialized the ascus (sporangial) mode of reproduction, the latter
   having specialized the conidial (indehiscent one-spored sporangiole)
@@ -877,7 +877,7 @@ organs.
   acceptance of Brefeld's view of the homology of ascus and sporangium.
   The cytology of zygospore-formation is not known in detail; the
   so-called gametes which fuse are multinucleate and are no doubt of the
-  nature of gametangia. The fate of these nuclei is doubtful, probably
+  nature of gametangia. The [[Fate|fate]] of these nuclei is doubtful, probably
   they fuse in pairs (fig. 6).
 
   Blakeslee has lately made some very important observations of the
@@ -919,7 +919,7 @@ organs.
   forms which are parasitic on insects. _Empusa Muscae_ causes the
   well-known epidemic in house-flies during the autumn; the dead,
   affected flies are often found attached to the window surrounded by a
-  white halo of conidia. _B. ranarum_ is found in the alimentary canal
+  white [[Halo|halo]] of conidia. _B. ranarum_ is found in the alimentary canal
   of the frog and growing on its excrement. In these three genera the
   conidia are cast off with a jerk somewhat in the same way as the
   sporangium of _Pilobolus_.
@@ -975,7 +975,7 @@ B, of _Tilletia Caries_.
   crops by budding exactly as in the yeast plant, but they cannot
   ferment sugar solutions. It is the rapid spread of these yeast-conidia
   in manure and soil waters which makes it so difficult to get rid of
-  smuts, &c., in the fields, and they, like the ordinary conidia,
+  smuts, &c., in the [[Fields|fields]], and they, like the ordinary conidia,
   readily infect the seedling wheat, oats, barley or other cereals.
   Infection in these cases occurs in the seedling at the place where
   root and shoot meet, and the infecting hypha having entered the plant
@@ -987,7 +987,7 @@ B, of _Tilletia Caries_.
   adhere to the grain, and unless destroyed, by "steeping" or other
   treatment, are sown with it, and again produce sporidia and
   yeast-conidia which infect the seedlings. In other species the
-  infection occurs through the style of the flower, but the fungus after
+  infection occurs through the style of the [[Flower|flower]], but the fungus after
   reaching the ovule develops no further during that year but remains
   dormant in the embryo of the seed. On germination, however, the fungus
   behaves in the same way as one which has entered in the seedling
@@ -1077,7 +1077,7 @@ B, of _Tilletia Caries_.
   on the mycelium and are therefore fully exposed, being devoid from the
   beginning of any investment. The _Taphrineae_, which include
   _Exoascus_ and _Taphrina_, are important parasites--e.g. pocket-plums
-  and witches' brooms on birches, &c., are due to their action (fig.
+  and witches' brooms on [[Birch|birches]], &c., are due to their action (fig.
   10). _Exoascus_ and _Ascorticium_ present interesting parallels to
   _Exobasidium_ and _Corticium_ among the Basidiomycetes.
 
@@ -1117,7 +1117,7 @@ B, of _Tilletia Caries_.
   cell-series, which mat together into mycelium-like veils. At the
   bottom of the fermented liquor the cells often obtain fatty contents
   and thick walls, and behave as resting cells (chlamydospores). The
-  characters employed by experts for determining a species of yeast are
+  characters employed by [[Expert|experts]] for determining a species of yeast are
   the sum of its peculiarities as regards form and size: the shapes,
   colours, consistency, &c., of the colonies grown on certain definite
   media; the optimum temperature for spore-formation, and for the
@@ -1154,7 +1154,7 @@ B, of _Tilletia Caries_.
     |_S. Pastorianus I_   | 27 deg.-5 deg. | 26 deg.-28 deg.|   Low    | Rounded   | Globoid   |<    form alcohol 4-6 vol. %.           |
     |_S. ellipsoideus_    |     25 deg.    | 33 deg.-34 deg.|   Low    | Rounded   | Globoid   | \                                      |
     |                     |                |                |          |           |           |                                        |
-    |_S. anomalus_        | 28 deg.-31 deg.|        ?       |   High   | Elliptical| Hat-shaped| Ditto, and evolves a fragrant ether.   |
+    |_S. anomalus_        | 28 deg.-31 deg.|        ?       |   High   | Elliptical| Hat-shaped| [[Ditto]], and evolves a fragrant ether.   |
     |                     |                |                |          |                       |                                        |
     |_S. Ludwigii_        | 30 deg.-31 deg.|        ?       |    ?     | Elongated | Globoid   | Will not invert maltose.               |
     |                     |                |                |          |                       |                                        |
@@ -1193,7 +1193,7 @@ B, of _Tilletia Caries_.
   a sporangium, and in it eight spores are developed. In certain cases
   single cells develop parthenogenetically, without fusion, each cell
   producing, however, only four spores. In _Zygosaccharomyces_ described
-  by Barker (1901) we have a form of the usual sprouting type, but here
+  by [[Barker]] (1901) we have a form of the usual sprouting type, but here
   again there is a fusion of two cells to form a sporangium.
 
   _Cytology._--The study of the nucleus of yeast-cells is rendered
@@ -1246,7 +1246,7 @@ B, of _Tilletia Caries_.
   would expect two reductions, and Harper has suggested that the
   division of the nuclei into eight in the ascus, instead of into four
   spores as in most reduction processes, is associated with a _double_
-  reduction process in the ascus. Miss Fraser in _Humaria rutilans_
+  reduction process in the ascus. Miss [[Fraser]] in _Humaria rutilans_
   finds two reductions: a normal synaptic reduction in the first nuclear
   division of the ascus, and a peculiar reduction division termed
   _brachymeiosis_ in the third ascus division.
@@ -1266,7 +1266,7 @@ B, of _Tilletia Caries_.
   epidermal cells. Only in rare cases is the mycelium intercellular.
   Owing to their appearance they go by the popular name of mildews.
   _Sphaerotheca Humuli_ is the well known hop-mildew, _Sphaerotheca
-  Mors-Uvae_ is the gooseberry mildew, the recent advent of which has
+  Mors-Uvae_ is the [[Gooseberry|gooseberry]] mildew, the recent advent of which has
   led to special legislation in Great Britain to prevent its spreading,
   as when rampant it makes the culture of gooseberries impossible.
   _Erysiphe_, _Uncinula_ and _Phyllactinia_ are other well-known genera.
@@ -1358,7 +1358,7 @@ B, of _Tilletia Caries_.
   hymenium. Such an ascocarp goes by the name of _apothecium_. Owing to
   the shape of the fruit-body many of these forms are known as
   cup-fungi, the cup or apothecium often attaining a large size,
-  sometimes several inches across (fig. 12). Functional male and female
+  sometimes several [[Inch|inches]] across (fig. 12). Functional male and female
   organs have been shown to exist in _Pyronema_ and _Boudiera_; in
   _Lachnea stercorea_ both ascogonia and antheridia are present, but the
   antheridium is non-functional, the ascogonial (female) nuclei fusing
@@ -1395,10 +1395,10 @@ B, of _Tilletia Caries_.
   The genus _Peziza_ (in its widest sense) may be taken as the type of
   the group. Most of them grow on living plants or on dead vegetable
   remains, very often on fallen wood; a number, however, are found
-  growing on earth which is rich in humus. The genus _Sclerotinia_ may
+  growing on earth which is rich in [[Humus|humus]]. The genus _Sclerotinia_ may
   be mentioned here; a number of forms have been investigated by
   Woronin. The conidia are fragrant and are carried by bees to the
-  stigma of the bilberry; here they germinate with the pollen and the
+  stigma of the [[Bilberry|bilberry]]; here they germinate with the pollen and the
   hyphae pass with the pollen tubes down the style; the former infect
   the ovules and produce sclerotia, therein reducing the fruits to a
   mummified condition. From the sclerotia later the apothecium develops.
@@ -1571,7 +1571,7 @@ B, of _Tilletia Caries_.
     | _Melampsora Rostrupi_       | _Populus_        |   _Mecurialis_   |
     | _Pucciniastrum Goeppertiana_| _Vaccinium_      |   _Abies_        |
     | _Gymnosporangium Sabinae_   | _Juniperus_      |   _Pyrus_        |
-    | _Uromyces Pisi_             | _Pisum, &c._     |   _Euphorbia_    |
+    | _Uromyces Pisi_             | _Pisum, &c._     |   _[[Euphorbia]]_    |
     | _Puccinia graminis_         | _Triticum, &c._  |   _Berberis_     |
     | _P. dispersa_               | _Secale, &c._    |   _Anchusa_      |
     | _P. coronata_               | _Agrostis_       |   _Rhamnus_      |
@@ -1602,7 +1602,7 @@ B, of _Tilletia Caries_.
     cell (a) of one of the rows of spores.
 
     C, A further stage in which from sm1 the first aecidiospore (a) and
-    the intercalary cell (z) have arisen.
+    the [[Intercalary|intercalary]] cell (z) have arisen.
 
     sm2, The second spore-mother-cell.
 
@@ -1657,12 +1657,12 @@ B, of _Tilletia Caries_.
   on to the Basidiomycetes, yet owing to their retaining in many cases
   definite traces of sexual organs they are clearly a more primitive
   group. Their marked parasitic habit also separates them off, so that
-  they are best included with the Basidiomycetes in a larger cohort
+  they are best included with the Basidiomycetes in a larger [[Cohort|cohort]]
   which may be called Basidiales. Most of Basidiomycetes are
   characterized by the large sporophore on which the basidia with its
   basidiospores are borne.
 
-  [Illustration: From _Annals of Botany_, by permission of the Clarendon
+  [Illustration: From _[[Annals]] of Botany_, by permission of the [[Clarendon]]
   Press.
 
   FIG. 18.]
@@ -1687,7 +1687,7 @@ B, of _Tilletia Caries_.
   the basidium divided like the promycelium of the Uredineae. They are
   characterized by their gelatinous consistence and large size of their
   sporophore. _Hirneola_ (_Auricularia_) _Auricula-Judae_ is the
-  well-known Jew's Ear, so named from the resemblance of the sporophore
+  well-known Jew's [[Ear]], so named from the resemblance of the sporophore
   to a human ear.
 
   [Illustration: FIG. 19.--_Amanita muscaria_.
@@ -1740,7 +1740,7 @@ B, of _Tilletia Caries_.
   springing from it appear in the form of a ring--the so-called fairy
   rings. _Armillaria melleus_ and _Polyporus annosus_ are examples of
   parasitic forms which attack and destroy living trees, while _Merulius
-  lacrymans_ is the well-known "dry rot" fungus.
+  lacrymans_ is the well-known "[[Dry Rot|dry rot]]" fungus.
 
   [Illustration: FIG. 20.--_Agaricus mucidus_. Portion of hymenium. s,
   Sporidia; st, sterigmata; g, sterile cells; c, cystidium, with
@@ -1766,13 +1766,13 @@ B, of _Tilletia Caries_.
   _Phalloideae_, which is sometimes placed as a distinct division of the
   Autobasidiomycetes. _Phallus impudicus_, the stink-horn, is
   occasionally found growing in woods in Britain. The fruit-body before
-  it ruptures may reach the size of a hen's egg and is white in colour;
+  it ruptures may reach the size of a hen's [[Egg|egg]] and is white in colour;
   from this there grows out a hollow cylindrical structure which can be
   distinguished at the distance of several yards by its disgusting
   odour. It is highly poisonous.
 
 _Physiology._--The physiology of the fungi comes under the head of that
-of plants generally, and the works of Pfeffer, Sachs, Vines, Darwin and
+of plants generally, and the works of Pfeffer, Sachs, Vines, [[Darwin]] and
 Klebs may be consulted for details. But we may refer generally here to
 certain phenomena peculiar to these plants, the life-actions of which
 are restricted and specialized by their peculiar dependence on organic
@@ -1855,7 +1855,7 @@ notice.
   of fungi. Pfeffer showed that certain substances in definite
   concentrations cause the tips of hyphae to turn towards them; other
   substances, though not innutritious, repel them, as also do nutritious
-  bodies if too highly concentrated. Marshall Ward showed that the
+  bodies if too highly concentrated. [[Marshall]] Ward showed that the
   hyphae of _Botrytis_ pierce the cell-walls of a lily by secreting a
   cytase and dissolving a hole through the membrane. Miyoshi then
   demonstrated that if _Botrytis_ is sown in a lamella of gelatine, and
@@ -1890,7 +1890,7 @@ notice.
   a number of forms which though morphologically similar were
   physiologically distinct. He found that the species really consisted
   of six distinct races, each having a more or less narrow range of
-  grasses on which it can live. The six races he named _P. graminis
+  [[Grasses|grasses]] on which it can live. The six races he named _P. graminis
   Secalis_, _Tritici_, _Avenae_, _Airae_, _Agrostis_, _Poae_. The first
   named will grow on rye and barley but not on wheat or oat. The form
   _Tritici_ is the least sharply marked and will grow on wheat, barley,
@@ -1898,7 +1898,7 @@ notice.
   on oat and many grasses but not on the other three cereals mentioned.
   The last three forms grow only on the genera _Aira_, _Agrostis_ and
   _Poa_ respectively. All these forms have of course their
-  aecidium-stage on the barberry. The terms biologic forms, biological
+  aecidium-stage on the [[Barberry|barberry]]. The terms biologic forms, biological
   species, physiological species, physiological races, specialized forms
   have all been applied to these; perhaps the term biologic forms is the
   most satisfactory. A similar specialization has been observed by
@@ -1932,7 +1932,7 @@ notice.
   organism--the lichen--totally different from either, has now been
   proved to be universal in these plants, and lichens are in all cases
   merely algae enmeshed in the interwoven hyphae of fungi (see LICHENS).
-  This dualism, where the one constituent (alga) furnishes
+  This [[Dualism|dualism]], where the one constituent (alga) furnishes
   carbohydrates, and the other (fungus) ensures a supply of mineral
   matters, shade and moisture, has been termed _symbiosis_. Since then
   numerous other cases of symbiosis have been demonstrated. Many trees
@@ -1940,7 +1940,7 @@ notice.
   their action, but so far from these being injurious, experiments go to
   show that this mycorhiza (fungus-root) is necessary for the well-being
   of the tree. This is also the case with numerous other plants of moors
-  and woodlands--e.g. Ericaceae, Pyrolaceae, Gentianaceae, Orchidaceae,
+  and woodlands--e.g. [[Ericaceae]], Pyrolaceae, Gentianaceae, Orchidaceae,
   ferns, &c. Recent experiments have shown that the difficulties of
   getting orchid seeds to germinate are due to the absence of the
   necessary fungus, which must be in readiness to infect the young
@@ -1960,13 +1960,13 @@ notice.
   AUTHORITIES.--_General_: Engler and Prantl, _Die naturlichen
   Pflanzenfamilien_, i. Teil (1892 onwards); Zopf, _Die Pilze_ (Breslau,
   1890); De Bary, _Comparative Morphology of Fungi_, &c. (Oxford, 1887);
-  von Tafel, _Vergleichende Morphologie der Pilze_ (Jena, 1892);
+  von Tafel, _Vergleichende Morphologie der Pilze_ ([[Jena]], 1892);
   Brefeld, _Unters. aus dem Gesamtgebiete der Mykologie_, Heft i. 13
   (1872-1905); Lotsy, _Vortrage uber botanische Stammesgeschichte_
   (Jena, 1907). _Distribution_, &c.: Cooke, _Introduction to the Study
-  of Fungi_ (London, 1895); Felix in _Zeitschr. d. deutsch. geologisch.
+  of Fungi_ (London, 1895); [[Felix]] in _Zeitschr. d. deutsch. geologisch.
   Gesellsch._ (1894-1896); Staub, _Sitzungsber. d. bot. Sec. d. Kgl.
-  ungarischen naturwiss. Gesellsch. zu Budapest_ (1897). _Anatomy_, &c.:
+  ungarischen naturwiss. Gesellsch. zu [[Budapest]]_ (1897). _Anatomy_, &c.:
   Bommer, "Sclerotes et cordons myceliens," _Mem. de l'Acad. Roy. de
   Belg._ (1894); Mangin, "Observ. sur la membrane des mucorinees,"
   _Journ. de Bot._ (1899); Zimmermann, _Die Morph. und Physiologie des
@@ -1996,7 +1996,7 @@ notice.
   der Fortpflanzung" _Prings. Jahr._ (1898 and 1899), "Uber _Sporodinia
   grandis_," _Bot. Zeit._ (1902); Falck, "Die Bedingungen der
   Zygotenbildung bei Sporodinia grandis," Cohn's Beitr. z. Biol. d.
-  Pflanzen, Bd. 8 (1902); Gruber "Verhalten der Zellkerne in den
+  Pflanzen, Bd. 8 (1902); [[Gruber]] "Verhalten der Zellkerne in den
   Zygosporen von _Sporodinia grandis_," _Ber. d. deutschen bot. Ges._
   Bd. 19 (1901); Blakeslee, "Sexual Reproduction in the Mucorineae,"
   _Proc. Am. Acad._ (1904); "Zygospore germination in the Mucorineae,"
@@ -2007,7 +2007,7 @@ notice.
   Bluteninfektion bei den Brandpilzen," ibid. Heft xiii. 1905; Dangeard,
   "La Reproduction sexuelle des Ustilaginees," C.R., Oct. 9, 1893;
   Maire, "Recherches cytologiques et taxonomiques sur les
-  Basidiomyceten," _Annexe au Bull. de la Soc. Mycol. de France_ (1902).
+  Basidiomyceten," _Annexe au [[Bull]]. de la Soc. Mycol. de France_ (1902).
   _Saccharomycetaceae_: Jorgensen, _The Micro-organisms of Fermentation_
   (1899); Barker, _Ann. of Bot._ vol. xiv. (1901); "On Spore-formation
   among the Saccharomycetes," _Journ. of the Fed. Institute of Brewing_,
@@ -2018,7 +2018,7 @@ notice.
   _Erysiphaceae_: Harper, "Die Entwicklung des Perithecium bei
   _Sphaerotheca castagnei_," _Ber. d. deut bot Ges._ (1896); "Sexual
   Reproduction and the Organization of the Nucleus in certain Mildews,"
-  _Publ. Carnegie Institution_ (Washington, 1906); Blackman & Fraser,
+  _Publ. [[Carnegie]] Institution_ (Washington, 1906); Blackman & Fraser,
   "Fertilization in _Sphaerotheca_," _Ann. of Bot._ (1905).
   _Perisporiaceae_: Brefeld, _Untersuchungen aus dem Gesamtgeb. der
   Mykol._ Heft 10 (1891); Fraser and Chamber, _Annales mycologici_
@@ -2034,10 +2034,10 @@ notice.
   (1888); Dittrich, "Zur Entwickelungsgeschichte der Helvellineen,"
   Cohn's _Beitr. z. Biol. d. Pflanzen_ (1892). _Pyrenomycetes_: Fisch,
   "Beitr. z. Entwickelungsgeschichte einiger Ascomyceten," _Bot. Zeit._
-  (1882); Frank, "Uber einige neue u. weniger bekannte Pflanzkrankh.,"
+  (1882); [[Frank]], "Uber einige neue u. weniger bekannte Pflanzkrankh.,"
   _Landw. Jahrb._ Bd. 12 (1883); Ward, "_Onygena equina_, a
-  horn-destroying fungus," _Phil. Trans._, vol. 191 (1899); Dawson, "On
-  the Biology of Poroniapunctata," Ann. of Bot. 14 (1900). _Tuberineae_:
+  horn-destroying fungus," _Phil. Trans._, vol. 191 (1899); [[Dawson]], "On
+  the [[Biology]] of Poroniapunctata," Ann. of Bot. 14 (1900). _Tuberineae_:
   Buchholtz, "Zur Morphologie u. Systematik der Fungi hypogaei," _Ann.
   Mycol._ Bd. 1 (1903); Fischer in Engler and Prantl, _Die naturlichen
   Pflanzenfamilien_ (1896). _Laboulbeniineae_: Thaxter, "Monograph of
@@ -2061,7 +2061,7 @@ notice.
   Origin of the Binucleated Cells in certain Basidiomycetes," _Trans.
   Wisconsin Acad. of Sciences_, vol. 15 (1905); Wager, "The Sexuality of
   the Fungi," _Ann. of Bot._ 13 (1899); Woronin, "_Exobasidium
-  Vaccinii_," _Verh. Naturf. Ges. zu Freiburg_, Bd. 4 (1867).
+  Vaccinii_," _Verh. Naturf. Ges. zu [[Freiburg]]_, Bd. 4 (1867).
   _Fermentation_: Buchner, "Gahrung ohne Hefezellen," _Bot. Zeit._ Bd.
   18 (1898); Albert, _Cent. f. Bakt._ Bd. 17 (1901); Green, _The
   Soluble Ferments and Fermentation_ (Cambridge, 1899). _Parasitism_:
@@ -2077,7 +2077,7 @@ notice.
   vol. 11 (1904), also _Ann. of Bot_. vol. 19 (1905). _Symbiosis_: Ward,
   "The Ginger-Beer Plant," _Phil. Trans. Roy. Soc_. (1892); "Symbiosis,"
   _Ann. of Bot_. 13 (1899); Shalk, "Der Sinn der Mykorrhizenbildung,"
-  _Jahrb. f. wiss. Bot_. Bd. 34 (1900); Bernard, "On some Different
+  _Jahrb. f. wiss. Bot_. Bd. 34 (1900); [[Bernard]], "On some Different
   Cases of Germination," _Gardener's Chronicle_ (1900); Pierce, _Publ.
   Univ. California_ (1900).     (H. M. W.; V. H. B.)
 

@@ -14,7 +14,7 @@ ever-increasing reputation. His success was confirmed at the Gymnase when
 he returned to Paris in 1846, and he made his _debut_ at the Comedie
 Francaise as a full-fledged _societaire_ in 1854. From playing the ardent
 young lover, he turned to leading roles both in modern plays and in the
-classical repertoire. His Richelieu in _Mlle de Belle-Isle_, his Octave in
+classical repertoire. His Richelieu in _Mlle de [[Belle-Isle]]_, his Octave in
 Alfred de Musset's _Les Caprices de Marianne_, and his appearance in de
 Musset's _Il faut qu'une porte soit ouverte ou fermee_ and _Un caprice_
 were followed by _Tartuffe_, _Le Misanthrope_ and _Don Juan_. Bressant

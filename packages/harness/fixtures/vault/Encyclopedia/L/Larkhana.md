@@ -14,7 +14,7 @@ in the decade. Its western part is mountainous, but the remainder is a
 plain of alluvium watered by canals and well cultivated, being the most
 fertile part of Sind. The staple grain-crops are rice, wheat and
 millets, which are exported, together with wool, cotton and other
-agricultural produce. Cotton cloth, carpets, salt and leather goods are
+agricultural produce. Cotton cloth, [[Carpet|carpets]], salt and leather goods are
 manufactured, and dyeing is an important industry. The district is
 served by the North-Western railway.
 

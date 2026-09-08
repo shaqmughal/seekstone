@@ -198,7 +198,7 @@ Raczynski's _Sketch of the Poles and Poland_ (Posen, 1843).
 
   See Jozef Zajaczek, _History of the Revolution of_ 1794 (Pol.)
   (Lemberg, 1881); Leonard Jakob Borejko Chodzko, _Biographie du général
-  Kosciuszko_ (Fontainebleau, 1837); Karol Falkenstein, _Thaddäus
+  Kosciuszko_ ([[Fontainebleau]], 1837); Karol Falkenstein, _Thaddäus
   Kosciuszko_ (2nd ed., Leipzig, 1834; French ed., Paris, 1839); Antoni
   Choloniewski, _Tadeusz Kosciuszko_ (Pol.) (Lemberg, 1902); Franciszek
   Rychlicki, _T. Kosciuszko and the Partition of Poland_ (Pol.) (Cracow,

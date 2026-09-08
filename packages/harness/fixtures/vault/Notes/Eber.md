@@ -1,6 +1,6 @@
 # Eber
 
-EBER, PAUL (1511-1569), German theologian, was born at Kitzingen in
+EBER, PAUL (1511-1569), German theologian, was born at [[Kitzingen]] in
 Franconia, and was educated at Nuremberg and Wittenberg, where he became
 the close friend of Philip Melanchthon. In 1541 he was appointed
 professor of Latin grammar at Wittenberg, and in 1557 professor of the

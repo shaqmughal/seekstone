@@ -2,7 +2,7 @@
 
 KENSINGTON, a western metropolitan borough of London, England, bounded
 N.E. by Paddington, and the city of Westminster, S.E. by Chelsea, S.W.
-by Fulham, N.W. by Hammersmith, and extending N. to the boundary of the
+by Fulham, N.W. by [[Hammersmith]], and extending N. to the boundary of the
 county of London. Pop. (1901), 176,628. It includes the districts of
 Kensal Green (partly) in the north, Notting Hill in the north-central
 portion, Earl's Court in the south-west, and Brompton in the south-east.
@@ -18,29 +18,29 @@ district and was still traceable in Tudor times. The most probable
 derivation, however, finds in the name a connection with the Saxon tribe
 or family of Kensings. The history of the manor is traceable from the
 time of Edward the Confessor, and after the Conquest it was held of the
-Bishop of Coutances by Aubrey de Vere. Soon after this it became the
+Bishop of Coutances by [[Aubrey]] [[De Vere|de Vere]]. Soon after this it became the
 absolute property of the de Veres, who were subsequently created Earls
 of Oxford. The place of the manorial courts is preserved in the name of
 the modern district of Earl's Court. With a few short intervals the
 manor continued in the direct line until Tudor times. There were also
 three sub-manors, one given by the first Aubrey de Vere early in the
 12th century to the Abbot of Abingdon, whence the present parish church
-is called St Mary Abbots; while in another, Knotting Barnes, the origin
+is called St Mary Abbots; while in another, Knotting [[Barnes]], the origin
 of the name Notting Hill is found.
 
 The brilliant period of history for which Kensington is famous may be
 dated from the settlement of the Court here by William III. The village,
 as it was then, had a reputation for healthiness through its gravel soil
 and pure atmosphere. A mansion standing on the western flank of the
-present Kensington Gardens had been the seat of Heneage Finch, Lord
+present Kensington Gardens had been the seat of Heneage [[Finch]], Lord
 Chancellor and afterwards Earl of Nottingham. It was known as Nottingham
 House, but when bought from the second earl by William, who was desirous
-of avoiding residence in London as he suffered from asthma, it became
+of avoiding residence in London as he suffered from [[Asthma|asthma]], it became
 known as Kensington Palace. The extensive additions and alterations made
 by Wren according to the taste of the King resulted in a severely plain
-edifice of brick; the orangery, added in Queen Anne's time, is a better
+edifice of [[Brick|brick]]; the orangery, added in Queen Anne's time, is a better
 example of the same architect's work. In the palace died Mary, William's
-consort, William himself, Anne and George II., whose wife Caroline did
+consort, William himself, [[Anne]] and George II., whose wife Caroline did
 much to beautify Kensington Gardens, and formed the beautiful lake
 called the Serpentine (1733). But a higher interest attaches to the
 palace as the birthplace of Queen Victoria in 1819; and here her
@@ -62,19 +62,19 @@ found in Holland House, hidden in its beautiful park north of Kensington
 Road. It was built by Sir Walter Cope, lord of the manor, in 1607, and
 obtained its present name on coming into the possession of Henry Rich,
 earl of Holland, through his marriage with Cope's daughter. He extended
-and beautified the mansion. General Fairfax and General Lambert are
+and beautified the mansion. General [[Fairfax]] and General [[Lambert]] are
 mentioned as occupants after his death, and later the property was let,
 William Penn of Pennsylvania being among those who leased it. Addison,
 marrying the widow of the 6th earl, lived here until his death in 1719.
-During the tenancy of Henry Fox, third Lord Holland (1773-1840), the
+During the tenancy of Henry [[Fox]], third Lord Holland (1773-1840), the
 house gained a European reputation as a meeting-place of statesmen and
 men of letters. The formal gardens of Holland House are finely laid out,
 and the rooms of the house are both beautiful in themselves and enriched
 with collections of pictures, china and tapestries. Famous houses no
 longer standing were Campden House, in the district north-west of the
-parish church, formerly known as the Gravel Pits; and Gore House, on the
+parish church, formerly known as the Gravel Pits; and [[Gore]] House, on the
 site of the present Albert Hall, the residence of William Wilberforce,
-and later of the countess of Blessington.
+and later of the countess of [[Blessington]].
 
 The parish church of St Mary Abbots, High Street, occupies an ancient
 site, but was built from the designs of Sir Gilbert Scott in 1869. It is
@@ -95,11 +95,11 @@ commonly called the South Kensington, Museum contains various exhibits
 divided into sections, and includes the buildings of the Royal College
 of Science. Close by is the Natural History Museum, in a great building
 by Alfred Waterhouse, opened as a branch of the British Museum in 1880.
-Near this stood Cromwell House, erroneously considered to have been the
+Near this stood [[Cromwell]] House, erroneously considered to have been the
 residence of Oliver Cromwell, the name of which survives in the adjacent
 Cromwell Road. In Kensington Gardens, near the upper end of Exhibition
 Road, which separates the two museums, was held the Great Exhibition of
-1851, the hall of which is preserved as the Crystal Palace at Sydenham.
+1851, the hall of which is preserved as the [[Crystal Palace]] at Sydenham.
 The greater part of the gardens, however, with the Albert Memorial,
 erected by Queen Victoria in memory of Albert, prince consort, the
 Albert Hall, opposite to it, one of the principal concert-halls in
@@ -116,7 +116,7 @@ nation, and open, with its art collection, to the public.
 
 Kensington is a suffragan bishopric in the diocese of London. The
 parliamentary borough of Kensington has north and south divisions, each
-returning one member. The borough council consists of a mayor, 10
+returning one member. The borough council consists of a [[Mayor|mayor]], 10
 aldermen and 60 councillors. Area, 2291.1 acres.
 
 ## See also

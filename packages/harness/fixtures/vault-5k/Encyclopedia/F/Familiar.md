@@ -10,8 +10,8 @@ of any one not justified by any close relationship, friendship or
 intimacy. "Familiar" is, however, also used as a substantive,
 especially of the spirit or demon which attended on a wizard or
 magician, and was summoned to execute his master's wishes. The idea
-underlies the notion of the Christian guardian angel and of the Roman
-_genius natalis_ (see DEMONOLOGY; WITCHCRAFT). In the Roman Church the
+underlies the notion of the Christian [[Guardian|guardian]] angel and of the Roman
+_genius natalis_ (see [[Demonology|DEMONOLOGY]]; WITCHCRAFT). In the Roman Church the
 term is applied to persons attached to the household of the pope or of
 bishops. These must actually do some domestic service. They are
 supported by their patron, and enjoy privileges which in the case of the

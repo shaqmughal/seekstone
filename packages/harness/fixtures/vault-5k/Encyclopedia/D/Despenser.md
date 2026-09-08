@@ -7,7 +7,7 @@ topic: science-theory
 # Despenser
 
 DESPENSER, HUGH LE (1262-1326), English courtier, was a son of the
-English justiciar who died at Evesham. He fought for Edward I. in Wales,
+English justiciar who died at [[Evesham]]. He fought for Edward I. in Wales,
 France and Scotland, and in 1295 was summoned to parliament as a baron.
 Ten years later he was sent by the king to Pope Clement V. to secure
 Edward's release from the oaths he had taken to observe the charters in
@@ -22,7 +22,7 @@ this time Hugh's son, the younger Hugh le Despenser, had become
 associated with his father, and having been appointed the king's
 chamberlain was enjoying a still larger share of the royal favour. About
 1306 this baron had married Eleanor (d. 1337), one of the sisters and
-heiresses of Gilbert de Clare, earl of Gloucester, who was slain at
+heiresses of Gilbert de [[Clare]], earl of Gloucester, who was slain at
 Bannockburn; and after a division of the immense Clare lands had been
 made in 1317 violent quarrels broke out between the Despensers and the
 husbands of the other heiresses, Roger of Amory and Hugh of Audley.
@@ -40,10 +40,10 @@ government of the country, which they attempted to rule in a moderate
 and constitutional fashion. But their next enemy, Queen Isabella, was
 more formidable, or more fortunate, than Lancaster. Returning to England
 after a sojourn in France in 1326 the queen directed her arms against
-her husband's favourites. The elder Despenser was seized at Bristol,
+her husband's favourites. The elder Despenser was seized at [[Bristol]],
 where he was hanged on the 27th of October 1326, and the younger was
-taken with the king at Llantrisant and hanged at Hereford on the 24th of
-November following. The attainder against the Despensers was reversed in
+taken with the king at [[Llantrisant]] and hanged at Hereford on the 24th of
+November following. The [[Attainder|attainder]] against the Despensers was reversed in
 1398. The intense hatred with which the barons regarded the Despensers
 was due to the enormous wealth which had passed into their hands, and to
 the arrogance and rapacity of the younger Hugh.
@@ -79,11 +79,11 @@ was employed to defend his country on the seas. Almost alone among his
 peers Henry remained true to Richard in 1399; he was then imprisoned,
 but was quickly released and reconciled with the new king, Henry IV. He
 died on the 23rd of August 1406. Despenser was an active enemy of the
-Lollards, whose leader, John Wycliffe, had fiercely denounced his
+[[Lollards]], whose leader, John Wycliffe, had fiercely denounced his
 crusade in Flanders.
 
-The barony of Despenser, called out of abeyance in 1604, was held by the
-Fanes, earls of Westmorland, from 1626 to 1762; by the notorious Sir
+The [[Barony|barony]] of Despenser, called out of abeyance in 1604, was held by the
+[[Fan|Fanes]], earls of Westmorland, from 1626 to 1762; by the notorious Sir
 Francis Dashwood from 1763 to 1781; and by the Stapletons from 1788 to
 1891. In 1891 it was inherited, through his mother, by the 7th Viscount
 Falmouth.
@@ -95,13 +95,13 @@ DES PÉRIERS, BONAVENTURE (c. 1500-1544), French author, was born of a
 noble family at Arnay-le-duc in Burgundy at the end of the 15th century.
 The circumstances of his education are uncertain, but he became a good
 classical scholar, and was attached to various noble houses in the
-capacity of tutor. In 1533 or 1534 Des Périers visited Lyons, then the
+capacity of tutor. In 1533 or 1534 Des Périers visited [[Lyons]], then the
 most enlightened town of France, and a refuge for many liberal scholars
 who might elsewhere have had to suffer for their opinions. He gave some
 assistance to Robert Olivetan and Lefèvre d'Étaples in the preparation
 of the vernacular version of the Old Testament, and to Étienne Dolet in
 the _Commentarii linguae latinae_. In 1536 he put himself under the
-protection of Marguerite d'Angoulême, queen of Navarre, who made him her
+protection of [[Marguerite]] d'Angoulême, queen of Navarre, who made him her
 _valet-de-chambre_. He acted as the queen's secretary, and transcribed
 the _Heptaméron_ for her. It is probable that his duties extended beyond
 those of a mere copyist, and some writers have gone so far as to say
@@ -110,15 +110,15 @@ Marguerite's court encouraged a licence of thought as displeasing to the
 Calvinists as to the Catholics. This free inquiry became scepticism in
 Bonaventure's _Cymbalum Mundi ..._ (1537), and the queen of Navarre
 thought it prudent to disavow the author, though she continued to help
-him privately until 1541. The book consisted of four dialogues in
+him privately until 1541. The book consisted of four [[Dialogue|dialogues]] in
 imitation of Lucian. Its allegorical form did not conceal its real
 meaning, and, when it was printed by Morin, probably early in 1538, the
 Sorbonne secured the suppression of the edition before it was offered
-for sale. The dedication provides a key to the author's intention:
+for sale. The dedication provides a [[Key|key]] to the author's intention:
 _Thomas du Clevier (or Clenier) à son ami Pierre Tryocan_ was recognized
 by 19th-century editors to be an anagram for _Thomas l'Incrédule à son
 ami Pierre Croyant_. The book was reprinted in Paris in the same year.
-It made many bitter enemies for the author. Henri Estienne called it
+It made many bitter enemies for the author. Henri [[Estienne]] called it
 _détestable_, and Étienne Pasquier said it deserved to be thrown into
 the fire with its author if he were still living. Des Périers prudently
 left Paris, and after some wanderings settled at Lyons, where he lived

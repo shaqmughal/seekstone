@@ -20,7 +20,7 @@ of the lemon has not yet been discovered.
 [Illustration: FIG. 1.--Lemon--_Citrus Limonum_.
 
   1, Flowering shoot.
-  2, Flower with two petals and two bundles of stamens removed; slightly
+  2, [[Flower]] with two petals and two bundles of stamens removed; slightly
        enlarged.
   3, Fruit.
   4, Same cut across.
@@ -28,12 +28,12 @@ of the lemon has not yet been discovered.
   6, Same cut lengthwise.]
 
 The lemon seems to have been unknown to the ancient Greeks and Romans,
-and to have been introduced by the Arabs into Spain between the 12th and
-13th centuries. In 1494 the fruit was cultivated in the Azores, and
+and to have been introduced by the [[Arabs]] into Spain between the 12th and
+13th centuries. In 1494 the fruit was cultivated in the [[Azores]], and
 largely shipped to England, but since 1838 the exportation has ceased.
 As a cultivated plant the lemon is now met with throughout the
 Mediterranean region, in Spain and Portugal, in California and Florida,
-and in almost all tropical and subtropical countries. Like the apple and
+and in almost all tropical and subtropical countries. Like the [[Apple|apple]] and
 pear, it varies exceedingly under cultivation. Risso and Poiteau
 enumerate forty-seven varieties of this fruit, although they maintain as
 distinct the sweet lime, _C. Limetta_, with eight varieties, and the
@@ -41,16 +41,16 @@ sweet lemon, _C. Lumia_, with twelve varieties, which differ only in the
 fruit possessing an insipid instead of an acid juice.
 
   The lemon is more delicate than the orange, although, according to
-  Humboldt, both require an annual mean temperature of 62° Fahr. Unlike
+  [[Humboldt]], both require an annual mean temperature of 62° Fahr. Unlike
   the orange, which presents a fine close head of deep green foliage, it
   forms a straggling bush, or small tree, 10 to 12 ft. high, with paler,
   more scattered leaves, and short angular branches with sharp spines in
   the axils. The flowers, which possess a sweet odour quite distinct
   from that of the orange, are in part hermaphrodite and in part
-  unisexual, the outside of the corolla having a purplish hue. The
+  unisexual, the outside of the corolla having a purplish [[Hue|hue]]. The
   fruit, which is usually crowned with a nipple, consists of an outer
   rind or peel, the surface of which is more or less rough from the
-  convex oil receptacles imbedded in it, and of a white inner rind,
+  [[Convex|convex]] oil receptacles imbedded in it, and of a white inner rind,
   which is spongy and nearly tasteless, the whole of the interior of the
   fruit being filled with soft parenchymatous tissue, divided into about
   ten to twelve compartments, each generally containing two or three
@@ -61,14 +61,14 @@ fruit possessing an insipid instead of an acid juice.
   the cultivation of the lemon is preferred in Italy wherever it will
   succeed. In damp valleys it is liable like the orange (q.v.) to be
   attacked by a fungus sooty mould, the stem, leaves, and fruit becoming
-  covered with a blackish dust. This is coincident with or subsequent to
-  the attacks of a small oval brown insect, _Chermes hesperidum_. Trees
+  covered with a blackish [[Dust|dust]]. This is coincident with or subsequent to
+  the attacks of a small oval brown [[Insect|insect]], _Chermes hesperidum_. Trees
   not properly exposed to sunlight and air suffer most severely from
   these pests. Syringing with resin-wash or milk of lime when the young
   insects are hatched, and before they have fixed themselves to the
   plant, is a preventive. Since 1875 this fungoid disease has made great
   ravages in Sicily among the lemon and citron trees, especially around
-  Catania and Messina. Heritte attributes the prevalence of the disease
+  [[Catania]] and Messina. Heritte attributes the prevalence of the disease
   to the fact that the growers have induced an unnatural degree of
   fertility in the trees, permitting them to bear enormous crops year
   after year. This loss of vitality is in some measure met by grafting
@@ -78,12 +78,12 @@ fruit possessing an insipid instead of an acid juice.
 The lemon tree is exceedingly fruitful, a large one in Spain or Sicily
 ripening as many as three thousand fruits in favourable seasons. In the
 south of Europe lemons are collected more or less during every month of
-the year, but in Sicily the chief harvest takes place from the end of
+the year, but in Sicily the chief [[Harvest|harvest]] takes place from the end of
 October to the end of December, those gathered during the last two
 months of the year being considered the best for keeping purposes. The
 fruit is gathered while still green. After collection the finest
 specimens are picked out and packed in cases, each containing about four
-hundred and twenty fruits, and also in boxes, three of which are equal
+hundred and twenty fruits, and also in [[Box|boxes]], three of which are equal
 to two cases, each lemon being separately packed in paper. The
 remainder, consisting of ill-shaped or unsound fruits, are reserved for
 the manufacture of essential oil and juice. The whole of the sound
@@ -107,12 +107,12 @@ quantity is shipped. Besides those exported from Messina and Palermo,
 lemons are also imported into England to a less extent from the Riviera
 of Genoa, and from Malaga in Spain, the latter being the most esteemed.
 Of the numerous varieties the wax lemon, the imperial lemon and the
-Gaeta lemon are considered to be the best. Lemons are also extensively
+[[Gaeta]] lemon are considered to be the best. Lemons are also extensively
 grown in California and Florida.
 
   Lemons of ordinary size contain about 2 oz. of juice, of specific
   gravity 1.039-1.046, yielding on an average 32.5 to 42.53 grains of
-  citric acid per oz. The amount of this acid, according to Stoddart,
+  [[Citric Acid|citric acid]] per oz. The amount of this acid, according to Stoddart,
   varies in different seasons, decreasing in lemons kept from February
   to July, at first slowly and afterwards rapidly, until at the end of
   that period it is all split up into glucose and carbonic acid--the
@@ -122,9 +122,9 @@ grown in California and Florida.
   perceptible deterioration by varnishing them with an alcoholic
   solution of shellac--the coating thus formed being easily removed when
   the fruit is required for household use by gently kneading it in the
-  hands. Besides citric acid, lemon juice contains 3 to 4% of gum and
+  hands. Besides citric acid, lemon juice contains 3 to 4% of [[Gum|gum]] and
   sugar, albuminoid matters, malic acid and 2.28% of inorganic salts.
-  Cossa has determined that the ash of dried lemon juice contains 54% of
+  [[Cossa]] has determined that the ash of dried lemon juice contains 54% of
   potash, besides 15% of phosphoric acid. In the white portion of the
   peel (in common with other fruits of the genus) a bitter principle
   called _hesperidin_ has been found. It is very slightly soluble in
@@ -155,7 +155,7 @@ grown in California and Florida.
   juice in copper vessels over an open fire until its specific gravity
   is about 1.239, seven to ten pipes of raw making only one of
   concentrated lemon juice. "Lemon juice" for use on shipboard is
-  prepared also from the fruits of limes and Bergamot oranges. It is
+  prepared also from the fruits of limes and [[Bergamot]] oranges. It is
   said to be sometimes adulterated with sulphuric acid on arrival in
   England.
 
@@ -176,7 +176,7 @@ grown in California and Florida.
 
   _Essence or Essential Oil of Lemon._--The essential oil contained in
   the rind of the lemon occurs in commerce as a distinct article. It is
-  manufactured chiefly in Sicily, at Reggio in Calabria, and at Mentone
+  manufactured chiefly in Sicily, at Reggio in [[Calabria]], and at Mentone
   and Nice in France. The small and irregularly shaped fruits are
   employed while still green, in which state the yield of oil is greater
   than when they are quite ripe. In Sicily and Calabria the oil is
@@ -199,9 +199,9 @@ grown in California and Florida.
   distilled to obtain the small quantity of volatile oil they contain.
   At Mentone and Nice a different process is adopted. The lemons are
   placed in an _écuelle à piquer_, a shallow basin of pewter about 8½
-  in. in diameter, having i a lip for pouring on one side and a closed
+  in. in diameter, having i a [[Lip|lip]] for pouring on one side and a closed
   tube at the bottom about 5 in. long and 1 in. in diameter. A number of
-  stout brass pins stand up about half an inch from the bottom of the
+  stout [[Brass|brass]] pins stand up about half an [[Inch|inch]] from the bottom of the
   vessel. The workman rubs a lemon over these pins, which rupture the
   oil vesicles, and the oil collects in the tube, which when it becomes
   full is emptied into another vessel that it may separate from the
@@ -209,7 +209,7 @@ grown in California and Florida.
   citron au zeste_, or, in the English market, as perfumers' essence of
   lemon, inferior qualities being distinguished as druggists' essence of
   lemon. An additional product is obtained by immersing the scarified
-  lemons in warm water and separating the oil which floats off. _Essence
+  lemons in warm water and separating the oil which [[Float|floats]] off. _Essence
   de citron distillée_ is obtained by rubbing the surface of fresh
   lemons (or of those which have been submitted to the action of the
   _écuelle à piquer_) on a coarse grater of tinned iron, and distilling
@@ -223,7 +223,7 @@ grown in California and Florida.
   state of purity in commerce, almost all that comes into the market
   being diluted with the cheaper distilled oil. This fact may be
   considered as proved by the price at which the essence of lemon is
-  sold in England, this being less than it costs the manufacturer to
+  sold in England, this being less than it [[Costs|costs]] the manufacturer to
   make it. When long kept the essence deposits a white greasy
   stearoptene, apparently identical with the bergaptene obtained from
   the essential oil of the Bergamot orange. The chief constituent of oil
@@ -231,7 +231,7 @@ grown in California and Florida.
   oil of turpentine, readily yields crystals of terpin, C10H163OH2, but
   differs in yielding the crystalline compound, C10H16 + 2Cl, oil of
   turpentine forming one having the formula C10H16 + HCl. Oil of lemons
-  also contains, according to Tilden, another hydrocarbon, C10H16,
+  also contains, according to Tilden, another [[Hydrocarbon|hydrocarbon]], C10H16,
   boiling at 3.20° Fahr., a small amount of _cymene_, and a compound
   acetic ether, C2H3O·C10H17O. The natural essence of lemon not being
   wholly soluble in rectified spirit of wine, an essence for culinary
@@ -241,9 +241,9 @@ grown in California and Florida.
   percolating the alcohol through it. This article is known as "lemon
   flavour."
 
-The name lemon is also applied to some other fruits. The Java lemon is
+The name lemon is also applied to some other fruits. The [[Java]] lemon is
 the fruit of _Citrus javanica_, the pear lemon of a variety of _C.
-Limetta_, and the pearl lemon of _C. margarita_. The fruit of a
+Limetta_, and the pearl lemon of _C. [[Margarita|margarita]]_. The fruit of a
 passion-flower, _Passiflora laurifolia_, is sometimes known as the
 water-lemon, and that of a Berberidaceous plant, _Podophyllum peltatum_,
 as the wild lemon. In France and Germany the lemon is known as the
@@ -271,14 +271,14 @@ small flowers are white or tinged with pink on the outside; the fruit is
 small and generally round, with a thin, light green or lemon-yellow
 bitter rind, and a very sour, somewhat bitter juicy pulp. It is
 extensively cultivated throughout the West Indies, especially in
-Dominica, Montserrat and Jamaica, the approximate annual value of the
+[[Dominica]], Montserrat and Jamaica, the approximate annual value of the
 exports from these islands being respectively £45,000, £6000 and £6000.
 The plants are grown from seed in nurseries and planted out about 200 to
 the acre. They begin to bear from about the third year, but full crops
 are not produced until the trees are six or seven years old. The ripe
 yellow fruit is gathered as it falls. The fruit is bruised by hand in a
 funnel-shaped vessel known as an _écuelle_, with a hollow stem; by
-rolling the fruit on a number of points on the side of the funnel the
+rolling the fruit on a number of points on the side of the [[Funnel|funnel]] the
 oil cells in the rind are broken and the oil collects in the hollow
 stem--this is the essential oil or essence of limes. The fruits are then
 taken to the mill, sorted, washed and passed through rollers and exposed
@@ -297,7 +297,7 @@ citric acid.
   obtained by hand as described above. Green limes and pickled limes
   preserved in brine are largely exported to the United States, and more
   recently green limes have been exported to the United Kingdom.
-  Limalade or preserved limes is an excellent substitute for marmalade.
+  Limalade or preserved limes is an excellent substitute for [[Marmalade|marmalade]].
   A spineless form of the lime appeared as a sport in Dominica in 1892,
   and is now grown there and elsewhere on a commercial scale. A form
   with seedless fruits has also recently been obtained in Dominica and

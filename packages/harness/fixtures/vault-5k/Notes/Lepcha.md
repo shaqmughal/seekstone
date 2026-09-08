@@ -9,11 +9,11 @@ preserved from extinction by the efforts of General Mainwaring and
 others; but their literature was almost entirely destroyed by the
 Tibetans, and their traditions are being rapidly forgotten. Once free
 and independent, they are now the poorest people in Sikkim, and it is
-from them that the coolie class is drawn. They are above all things
+from them that the [[Coolie|coolie]] class is drawn. They are above all things
 woodmen, knowing the ways of beasts and birds, and possessing an
 extensive zoological and botanical nomenclature of their own.
 
-  See Florence Donaldson, _Lepcha Land_ (1900).
+  See Florence [[Donaldson]], _Lepcha Land_ (1900).
 
 ## See also
 

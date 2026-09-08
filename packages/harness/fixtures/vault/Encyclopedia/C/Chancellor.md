@@ -13,8 +13,8 @@ the Roman empire. At different times and in different countries it has
 stood and stands for very various duties, and has been, and is, borne by
 officers of various degrees of dignity. The original chancellors were
 the _cancelarii_ of Roman courts of justice, ushers who sat at the
-_cancelli_ or lattice work screens of a "basilica" or law court, which
-separated the judge and counsel from the audience (see CHANCEL). In the
+_[[Cancelli|cancelli]]_ or lattice work screens of a "[[Basilica|basilica]]" or law court, which
+separated the judge and counsel from the audience (see [[Chancel|CHANCEL]]). In the
 later Eastern empire the _cancellarii_ were promoted at first to
 notarial duties. The barbarian kingdoms which arose on the ruin of the
 empire in the West copied more or less intelligently the Roman model in
@@ -49,7 +49,7 @@ reign of Edward the Confessor, the first English king to use the Norman
 practice of sealing instead of signing documents; and from the Norman
 Conquest onwards the succession of chancellors is continuous. The
 chancellor was originally, and long continued to be, an ecclesiastic,
-who combined the functions of the most dignified of the royal chaplains,
+who combined the functions of the most dignified of the royal [[Chaplain|chaplains]],
 the king's secretary in secular matters, and keeper of the royal seal.
 From the first, then, though at the outset overshadowed by that of the
 justiciar, the office of chancellor was one of great influence and
@@ -61,8 +61,8 @@ whole secretarial work of the royal household was conducted, the
 accounts were kept under the justiciar and treasurer, writs were drawn
 up and sealed, and the royal correspondence was carried on. He was, in
 fact, as Stubbs puts it, a sort of secretary of state for all
-departments. "This is he," wrote John of Salisbury (d. 1180), "who
-cancels (_cancellat_) the evil laws of the realm, and makes equitable
+departments. "This is he," wrote [[John Of Salisbury|John of Salisbury]] (d. 1180), "who
+[[Cancel|cancels]] (_cancellat_) the evil laws of the realm, and makes equitable
 (_aequa_) the commands of a pious prince," a curious anticipation of the
 chancellor's later equitable jurisdiction. Under Henry II., indeed, the
 chancellor was already largely employed in judicial work, either in
@@ -72,10 +72,10 @@ the chancellor was "great alike in Curia and Exchequer"; he was
 _secundus a rege_, i.e. took precedence immediately after the justiciar,
 and nothing was done either in the Curia or the exchequer without his
 consent. So great was his office that William FitzStephen, the
-biographer of Becket, tells us that it was not purchasable (_emenda non
+biographer of [[Becket]], tells us that it was not purchasable (_emenda non
 est_), a statement which requires modification, since it was in fact
 more than once sold under Henry I., Stephen, Richard and John (Stubbs,
-_Const. Hist._ i. pp. 384-497; Gneist, _Const. Hist. of England_, p.
+_Const. Hist._ i. pp. 384-497; [[Gneist]], _Const. Hist. of England_, p.
 219), an evil precedent which was, however, not long followed.
 
 The judicial duties of the chancellor grew out of the fact that all
@@ -85,10 +85,10 @@ ordinance was issued directing the chancellor and the justices to deal
 with the greater number of them; those which involved the use of the
 great seal being specially referred to the chancellor. The chancellor
 and justices were to determine which of them were "so great, and of
-grace, that the chancellor and others would not despatch them without
+[[Grace|grace]], that the chancellor and others would not despatch them without
 the king," and these the chancellor and other chief ministers were to
 carry in person to the king (Stubbs ii. 263, note, and p. 268). At this
-period the chancellor, though employed in equity, had ministerial
+period the chancellor, though employed in [[Equity|equity]], had ministerial
 functions only; but when, in the reign of Edward III., the chancellor
 ceased to follow the court, his tribunal acquired a more definite
 character, and petitions for grace and favour began to be addressed
@@ -105,18 +105,18 @@ known as Equity (q.v.).
 
 The position of the chancellor as speaker or prolocutor of the House of
 Lords dates from the time when the ministers of the royal Curia formed
-_ex officio_ a part of the _commune concilium_ and parliament. The
+_ex officio_ a part of the _[[Commune|commune]] concilium_ and parliament. The
 chancellor originally attended with the other officials, and he
 continued to attend _ex officio_ after they had ceased to do so. If he
 chanced to be a bishop, he was summoned regularly _qua_ bishop;
 otherwise he attended without summons. When not a peer the chancellor
 had no place in parliament except as chancellor, and the act of 31 Henry
 VIII. cap. 10 (1539) laid down that, if not a peer, he had "no interest
-to give any assent or dissent in the House." Yet Sir Robert Bourchier
+to give any assent or dissent in the House." Yet Sir Robert [[Bourchier]]
 (d. 1349), the first lay chancellor, had protested in 1341 against the
 first statute of 15 Edward III. (on trial by peers, &c.), on the ground
 that it had not received his assent and was contrary to the laws of the
-realm. From the time, however, of William, Lord Cowper (first lord high
+realm. From the time, however, of William, Lord [[Cowper]] (first lord high
 chancellor of Great Britain in 1705, created Baron Cowper in 1706), all
 chancellors have been made peers on their elevation to the woolsack.
 Sometimes the custody of the great seal has been transferred from the
@@ -141,10 +141,10 @@ in the separation of the chancery from the exchequer in the reign of
 Henry III. (1216-1272). His duties consisted originally in the custody
 and employment of the seal of the exchequer, in the keeping of a
 counter-roll to check the roll kept by the treasurer, and in the
-discharge of certain judicial functions in the exchequer of account. So
+[[Discharge|discharge]] of certain judicial functions in the exchequer of account. So
 long as the treasury board was in active working, the chancellorship of
 the exchequer was an office of small importance, and even during a great
-part of the 19th century was not necessarily a cabinet office, unless
+part of the 19th century was not necessarily a [[Cabinet|cabinet]] office, unless
 held in conjunction with that of first lord of the treasury. At the
 present time the chancellor of the exchequer is minister of finance, and
 therefore always of cabinet rank (see EXCHEQUER).
@@ -152,11 +152,11 @@ therefore always of cabinet rank (see EXCHEQUER).
 
   Chancellor of the duchy.
 
-The chancellor of the duchy of Lancaster is the representative of the
+The chancellor of the duchy of [[Lancaster]] is the representative of the
 crown in the management of its lands and the control of its courts in
 the duchy of Lancaster, the property of which is scattered over several
 counties. These lands and privileges, though their inheritance has
-always been vested in the king and his heirs, have always been kept
+always been vested in the king and his [[Heir|heirs]], have always been kept
 distinct from the hereditary revenues of the sovereign, whose palatine
 rights as duke of Lancaster were distinct from his rights as king. The
 Judicature Act of 1873 left only the chancery court of the duchy, but
@@ -168,7 +168,7 @@ salary is derived from the revenue of the duchy. As the judicial and
 estate work is done by subordinate officials, the office is practically
 a sinecure and is usually given to a minister whose assistance is
 necessary to a government, but who for one reason or another cannot
-undertake the duties of an important department. John Bright described
+undertake the duties of an important department. John [[Bright]] described
 him as the maid-of-all-work of the cabinet.
 
 
@@ -205,14 +205,14 @@ especially in its relations with the government. The chancellor is
 represented in the university by a vice-chancellor, who performs the
 administrative and judicial functions of the office. In the United
 States the heads of certain educational establishments have the title of
-chancellor. In Scotland the foreman of a jury is called its chancellor.
+chancellor. In Scotland the foreman of a [[Jury|jury]] is called its chancellor.
 In the United States the chancellors are judges of the chancery courts
-of the states, e.g. Delaware and New Jersey, where these courts are
+of the states, e.g. [[Delaware]] and New [[Jersey]], where these courts are
 still maintained as distinct from the courts of common law. In other
 states, e.g. New York since 1847, the title has been abolished, and
 there is no federal chancellor.
 
-In diplomacy generally the chancellor of an embassy or legation is an
+In [[Diplomacy|diplomacy]] generally the chancellor of an [[Embassy|embassy]] or legation is an
 official attached to the suite of an ambassador or minister. He performs
 the functions of a secretary, archivist, notary and the like, and is at
 the head of the chancery, or chancellery (Fr. _chancellerie_), of the
@@ -229,7 +229,7 @@ chanceries have nothing to do with it.
 
 _France._--The country in which the office of chancellor followed most
 closely the same lines as in England is France. He had become a great
-officer under the Carolingians, and he grew still greater under the
+officer under the [[Carolingians]], and he grew still greater under the
 Capetian sovereigns. The great chancellor, _summus cancellarius_ or
 _archi-cancellarius_, was a dignitary who had indeed little real power.
 The post was commonly filled by the archbishop of Reims, or the bishop
@@ -241,17 +241,17 @@ ecclesiastic who was the chief of the king's chaplains or king's clerks,
 who administered all ecclesiastical affairs; he had judicial powers, and
 from the 12th century had the general control of foreign affairs. The
 chancellor in fact became so great that the Capetian kings, who did not
-forget the mayor of the palace, grew afraid of him. Few of the early
+forget the [[Mayor|mayor]] of the palace, grew afraid of him. Few of the early
 ecclesiastical chancellors failed to come into collision with the king,
 or parted with him on good terms. Philip Augustus suspended the
 chancellorship throughout the whole of his reign, and appointed a keeper
 of the seals (_garde des sceaux_). The office was revived under Louis
 VIII., but the ecclesiastical chancellorship was finally suppressed in
 1227. The king of the 13th century employed only keepers of the seal.
-Under the reign of Philip IV. le Bel lay chancellors were first
+Under the reign of Philip IV. le [[Bel]] lay chancellors were first
 appointed. From the reign of Charles V. to that of Louis XI. the French
 _chancelier_ was elected by the royal council. In the 16th century he
-became irremovable, a distinction more honourable than effective, for
+became irremovable, a distinction more [[Honourable|honourable]] than effective, for
 though the king could not dismiss him from office he could, and on some
 occasions did, deprive him of the right to exercise his functions, and
 entrusted them to a keeper of the seal. The _chancelier_ from the 13th
@@ -265,18 +265,18 @@ office which was imitated rather from the _Erz-Kanzler_ of the Holy
 Roman Empire than from the old French _chancelier_. At the Restoration
 the office of chancellor of France was restored, the chancellor being
 president of the House of Peers, but it was finally abolished at the
-revolution of 1848. The administration of the Legion of Honour is
+revolution of 1848. The administration of the [[Legion]] of Honour is
 presided over by a _grand chancelier_, who is a grand cross of the
 order, and who advises the head of the state in matters concerning the
 affairs of the order. The title of _chancelier_ continues also to be
 used in France for the large class of officials who discharge notarial
 duties in some public offices, in embassies and consulates. They draw up
 diplomas and prepare all formal documents, and have charge of the
-registration and preservation of the archives.
+registration and preservation of the [[Archive|archives]].
 
 _Spain._--In Spain the office of chancellor, _canciller_, was introduced
 by Alphonso VII. (1126-1157), who adopted it from the court of his
-cousins of the Capetian dynasty of France. The _canciller_ did not in
+[[Cousin|cousins]] of the Capetian dynasty of France. The _canciller_ did not in
 Spain go beyond being the king's notary. The chancellor of the privy
 seal, _canciller del sello de la puridad_ (literally the secret seal),
 was the king's secretary, and sealed all papers other than diplomas and
@@ -297,27 +297,27 @@ followed Anglo-Norman precedents very closely, and, at least in Sicily,
 employed Englishmen, were such officers as were known in the West. The
 similarity is somewhat concealed by the fact that these sovereigns also
 adopted names and offices from the imperial court at Constantinople.
-Their chancellor was officially known as Protonotary and Logothete, and
+Their chancellor was officially known as Protonotary and [[Logothete]], and
 their example was followed by the German princes of the Hohenstaufen
 family, who acquired the kingdoms of Naples and Sicily. The papal or
-apostolic chancery is dealt with in the article on the Curia Romana
+apostolic chancery is dealt with in the article on the [[Curia Romana]]
 (q.v.). It may be pointed out here, however, that the close connexion of
 the papacy with the Holy Roman Empire is illustrated by the fact that
-the archbishop of Cologne, who by right of his see was the emperor's
+the archbishop of [[Cologne]], who by right of his see was the emperor's
 arch-chancellor (_Erz-Kanzler_) for Italy, was confirmed as papal
-arch-chancellor by a bull of Leo IX. in 1052. The origin and duration of
+arch-chancellor by a [[Bull|bull]] of Leo IX. in 1052. The origin and duration of
 this connexion are, however, obscure; it appears to have ceased before
 1187. The last record of a papal chancellor in the middle ages dates
 from 1212, from which time onward, for reasons much disputed, the head
-of the papal chancery bore the title vice-chancellor (Hinschius i. 439),
+of the papal chancery bore the title vice-chancellor ([[Hinschius]] i. 439),
 until the office of chancellor was restored by the constitution
 _Sapientius_ of Pius X. in 1908.
 
 The title of arch-chancellor (_Erz-Kanzler_) was borne by three great
 ecclesiastical dignitaries of the Holy Roman Empire. The archbishop of
-Mainz was arch-chancellor for Germany. The archbishop of Cologne held
-the dignity for Italy, and the archbishop of Trier for Gaul and the
-kingdom of Arles. The second and third of these dignities became purely
+[[Mainz]] was arch-chancellor for Germany. The archbishop of Cologne held
+the dignity for Italy, and the archbishop of Trier for [[Gaul]] and the
+kingdom of [[Arles]]. The second and third of these dignities became purely
 formal with the decline of the Empire in the 13th century. But the
 arch-chancellorship of Germany remained to some extent a reality till
 the Empire was finally dissolved in 1806. The office continued to be
@@ -329,14 +329,14 @@ _Bundes Kanzler_, or chancellor of the North German Confederation. The
 duties imposed on the imperial chancery by the very complicated
 constitution of the Empire were, however, discharged by a
 vice-chancellor who was attached to the court of the emperor. The abbot
-of Fulda was chancellor to the empress.
+of [[Fulda]] was chancellor to the empress.
 
 The house of Austria in their hereditary dominions, and in those of
 their possessions which they treated as hereditary, even where the
 sovereignty was in theory elective, made a large and peculiar use of the
 title chancellor. The officers so called were of course distinct from
 the arch-chancellor and vice-chancellor of the Empire, although the
-imperial crown became in practice hereditary in the house of Habsburg.
+imperial crown became in practice hereditary in the house of [[Habsburg]].
 In the family states their administration was, to use a phrase familiar
 to the French, "polysynodic." As it was when fully developed, and as it
 remained until the March revolution of 1848, it was conducted through
@@ -345,7 +345,7 @@ chancellorships for the internal affairs of their dominions, "a united
 aulic chancellorship for all parts of the empire (i.e. of Austria, not
 the Holy Roman) not belonging to Hungary or Transylvania, and a separate
 chancellorship for each of those last-mentioned provinces" (Hartig,
-_Genesis of the Revolution in Austria_). There were also a house, a
+_[[Genesis]] of the Revolution in Austria_). There were also a house, a
 court, and a state chancellor for the business of the imperial household
 and foreign affairs, who were not, however, the presidents of a board.
 These "aulic" (i.e. court) officers were in fact secretaries of the
@@ -392,22 +392,22 @@ have charge of archives. The title of chancellor has naturally been
 widely used in the German and Scandinavian states, and in Russia since
 the reign of Peter the Great. It has there as elsewhere wavered between
 being a political and a judicial office. Frederick the Great of Prussia
-created a _Gross Kanzler_ for judicial duties in 1746. But there was in
+created a _[[Gross]] Kanzler_ for judicial duties in 1746. But there was in
 Prussia a state chancellorship on the Austrian model. It was allowed to
-lapse on the death of Hardenberg in 1822. The Prussian chancellor after
+[[Lapse|lapse]] on the death of Hardenberg in 1822. The Prussian chancellor after
 his time was one of the four court ministries (_Hofamter_) of the
 Prussian monarchy.
 
   AUTHORITIES.--Du Cange, _Glossarium_, s.v. "Cancellarius"; W. Stubbs,
   _Const. Hist. of England_ (1874-1878); Rudolph Gneist, _Hist. of the
   English Constitution_ (Eng. trans., London, 1891); L.O. Pike, _Const.
-  Hist. of the House of Lords_ (London, 1894); Sir William R. Anson,
+  Hist. of the House of Lords_ (London, 1894); Sir William R. [[Anson]],
   _The Law and Custom of the Constitution_, vol. ii. part i. (Oxford,
-  1907); A. Luchaire, _Manuel des institutions francaises_ (Paris,
-  1892); K.F. Stumpf, _Die Reichs Kanzler_ (3 vols., Innsbruck,
+  1907); A. Luchaire, _[[Manuel]] des institutions francaises_ (Paris,
+  1892); K.F. Stumpf, _Die Reichs Kanzler_ (3 vols., [[Innsbruck]],
   1865-1873); G. Sceliger, _Erzkanzler und Reichskanzleien_ (ib. 1889);
   P. Hinschius, _Kirchenrecht_ (Berlin, 1869); Sir R.J. Phillimore,
-  _Eccles. Law_ (London, 1895); P. Pradier-Fodere, _Cours de droit
+  _Eccles. Law_ (London, 1895); P. Pradier-Fodere, _Cours de [[Droit|droit]]
   diplomatique_, ii. 542 (Paris, 1899).
 
 ## See also

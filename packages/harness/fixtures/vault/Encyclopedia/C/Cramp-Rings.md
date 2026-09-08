@@ -1,13 +1,13 @@
 # Cramp-Rings
 
 CRAMP-RINGS, rings anciently worn as a cure for cramp and
-"falling-sickness" or epilepsy. The legend is that the first one was
+"falling-sickness" or [[Epilepsy|epilepsy]]. The legend is that the first one was
 presented to Edward the Confessor by a pilgrim on his return from
 Jerusalem, its miraculous properties being explained to the king. At his
 death it passed into the keeping of the abbot of Westminster, by whom it
 was used medically and was known as St Edward's Ring. From that time the
 belief grew that the successors of Edward inherited his powers, and that
-the rings blessed by them worked cures. Hence arose the custom for the
+the rings blessed by them worked [[Cures|cures]]. Hence arose the custom for the
 successive sovereigns of England each year on Good Friday formally to
 bless a number of cramp-rings. A service was held; prayers and psalms
 were said; and water "in the name of the Father, Son and Holy Ghost" was

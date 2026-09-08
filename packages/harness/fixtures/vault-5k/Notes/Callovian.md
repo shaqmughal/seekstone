@@ -43,15 +43,15 @@ continental Callovien includes the following zones:--
                    |   of _C. gowerianum_ and _Macrocephalites
                    \   macrocephalus_.
 
-Rocks of Callovian age (according to the continental classification) are
+Rocks of Callovian age (according to the continental [[Classification|classification]]) are
 widely spread in Europe, which, with the exception of numerous insular
 masses, was covered by the Callovian Sea. The largest of these land
 areas lay over Scandinavia and Finland, and extended eastward as far as
-the 40th meridian. In arctic regions these rocks have been discovered in
-Spitzbergen, Franz Josef Land, the east coast of Greenland, and Siberia.
-They occur in the Hebrides and Skye and in England as indicated above.
-In France they are well exposed on the coast of Calvados between
-Trouville and Dives, where the marls and clays are 200 ft. thick. In the
+the 40th meridian. In [[Arctic|arctic]] regions these rocks have been discovered in
+Spitzbergen, [[Franz]] Josef Land, the east coast of Greenland, and Siberia.
+They occur in the [[Hebrides]] and Skye and in England as indicated above.
+In France they are well exposed on the coast of [[Calvados]] between
+Trouville and Dives, where the [[Marl|marls]] and clays are 200 ft. thick. In the
 Ardennes clays bearing pyrites and oolitic limonite are about 30 ft.
 thick. Around Poitiers the Callovian is 100 ft. thick, but the formation
 thins in the direction of the Jura.
@@ -61,11 +61,11 @@ Germany; while in Russia the deposits of this age are mainly
 argillaceous. In North America Callovian fossils are found in
 California; in South America in Bolivia. In Africa they have been found
 in Algeria and Morocco, in Somaliland and Zanzibar, and on the west
-coast of Madagascar. In India they are represented by the shales and
-limestones of the Chari series of Cutch. Callovian rocks are also
+coast of [[Madagascar]]. In India they are represented by the shales and
+[[Limestone|limestones]] of the Chari series of Cutch. Callovian rocks are also
 recorded from New Guinea and the Moluccas.
 
-  See JURASSIC; also A. de Lapparent, _Traité de géologie_, vol. ii.
+  See [[Jurassic|JURASSIC]]; also A. de Lapparent, _Traité de géologie_, vol. ii.
   (5th ed., 1906), and H.B. Woodward, "The Jurassic Rocks of Britain,"
   _Mem. Geol. Survey_, vol. v.     (J. A. H.)
 

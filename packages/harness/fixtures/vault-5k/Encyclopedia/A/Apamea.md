@@ -10,9 +10,9 @@ APAMEA, the name of several towns in western Asia.
 
 1. A treasure city and stud-depot of the Seleucid kings in the valley of
 the Orontes. It was so named by Seleucus Nicator, after Apama, his wife.
-Destroyed by Chosroes in the 7th century A.D.. it was partially rebuilt
+Destroyed by [[Chosroes]] in the 7th century A.D.. it was partially rebuilt
 and known as _Famia_ by the Arabs; and overthrown by an earthquake in
-1152. It kept its importance down to the time of the Crusades. The
+1152. It kept its importance down to the time of the [[Crusades]]. The
 acropolis hill is now occupied by the ruins of Kalat el-Mudik.
 
   See R.F. Burton and T. Drake, _Unexplored Syria_; E. Sachau, _Reise in
@@ -49,7 +49,7 @@ considerable remains, including a great number of important Graeco-Roman
 inscriptions.
 
   See W.M. Ramsay, _Cities and Bishoprics of Phrygia_, vol. ii.; G.
-  Weber, _Dineir-Celenes_ (1892); D.G. Hogarth in _Journ, Hell. Studies_
+  Weber, _Dineir-Celenes_ (1892); D.G. Hogarth in _Journ, [[Hell]]. Studies_
   (1888); O. Hirschfeld in _Trans. Berlin Academy_ (1875).
        (D. G. H.)
 
@@ -61,7 +61,7 @@ Birejik (q.v.).
 Brusa. The name was given it by Prusias I., who rebuilt it.
 
 5. A city mentioned by Stephanus and Pliny as situated near the Tigris,
-the identification of which is still uncertain.
+the [[Identification|identification]] of which is still uncertain.
 
 6. A Greek city in Parthia, near Rhagae.
 

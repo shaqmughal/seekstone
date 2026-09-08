@@ -147,7 +147,7 @@ first able to obtain liquid chlorine.
 
 _Hydrochloric Acid._--Chlorine combines with hydrogen to form
 hydrochloric acid, HCl, the only known compound of these two elements.
-The acid itself was first obtained by J.R. Glauber in about 1648, but J.
+The acid itself was first obtained by J.R. [[Glauber]] in about 1648, but J.
 Priestley in 1772 was the first to isolate it in the gaseous condition,
 and Sir H. Davy in 1810 showed that it contained hydrogen and chlorine
 only, as up to that time it was considered to contain oxygen. It may be

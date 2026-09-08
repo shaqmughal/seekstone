@@ -16,12 +16,12 @@ returned to Italy, and lived precariously as a literary man until 1870,
 when his reputation was established by the unexpected success of his
 first acted tragedy, _Nero_. From this time to his death in 1880 Cossa
 continued to produce a play a year, usually upon some classical subject.
-_Cleopatra_, _Messalina_, _Julian_, enjoyed great popularity, and his
-dramas on subjects derived from Italian history, _Rienzi_ and _The
+_[[Cleopatra]]_, _Messalina_, _Julian_, enjoyed great popularity, and his
+[[Drama|dramas]] on subjects derived from Italian history, _Rienzi_ and _The
 Borgias_, were also successful. _Plautus_, a comedy, was preferred by
 the author himself, and is more original. Cossa had neither the
-divination which would have enabled him to reconstruct the ancient
-world, nor the imagination which would have enabled him to idealize it.
+[[Divination|divination]] which would have enabled him to reconstruct the ancient
+world, nor the [[Imagination|imagination]] which would have enabled him to idealize it.
 But he was an energetic writer, never tame or languid, and at the same
 time able to command the attention of an audience without recourse to
 melodramatic artifice; while his sonorous verse, if scarcely able to

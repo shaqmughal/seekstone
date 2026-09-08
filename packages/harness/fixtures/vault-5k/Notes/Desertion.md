@@ -12,7 +12,7 @@ desertion has always been recognized by the civil law, and until 1827 (7
 & 8 Geo. IV. c. 28) was a felony punishable by death. It was
 subsequently dealt with by the various Mutiny Acts, which were replaced
 by the Army Act 1881, renewed annually by the Army (Annual) Act. By § 12
-of the act every person subject to military law who deserts or attempts
+of the act every person subject to military law who [[Desert|deserts]] or attempts
 to desert, or who persuades or procures any person to desert, shall, on
 conviction by court martial, if he committed the offence when on active
 service or under orders for active service, be liable to suffer death,
@@ -24,7 +24,7 @@ contains a scale of punishments, and §§ 175-184 an enumeration of
 persons subject to military law. By § 153 any person who persuades a
 soldier to desert or aids or assists him or conceals him is liable, on
 conviction, to be imprisoned, with or without hard labour, for not more
-than six months. § 154 makes provision for the apprehension of
+than six months. § 154 makes provision for the [[Apprehension|apprehension]] of
 deserters. § 161 lays down that where a soldier has served continuously
 in an exemplary manner for not less than three years in any corps of
 regular forces he is not to be tried or punished for desertion which has
@@ -36,7 +36,7 @@ desertion, as defined at the commencement of this article, and the
 quitting one regiment in order to enlist in another. This offence is now
 separately dealt with as fraudulent enlistment; formerly, it was termed
 "desertion and fraudulent enlistment," and the statistics of desertion
-proper were consequently and erroneously magnified. The gross total of
+proper were consequently and erroneously magnified. The [[Gross|gross]] total of
 desertions in the British Army in an average year (1903-1904) was nearly
 4000, or 1.4% of the average strength of the army, but owing to men
 rejoining from desertion, fraudulent enlistment, &c., the net loss was

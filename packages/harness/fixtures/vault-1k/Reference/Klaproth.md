@@ -10,11 +10,11 @@ type: source
 KLAPROTH, MARTIN HEINRICH (1743-1817), German chemist, was born at
 Wernigerode on the 1st of December 1743. During a large portion of his
 life he followed the profession of an apothecary. After acting as
-assistant in pharmacies at Quedlinburg, Hanover, Berlin and Danzig
+assistant in pharmacies at Quedlinburg, [[Hanover]], Berlin and Danzig
 successively he came to Berlin on the death of Valentin Rose the elder
 in 1771 as manager of his business, and in 1780 he started an
 establishment on his own account in the same city, where from 1782 he
-was pharmaceutical assessor of the Ober-Collegium Medicum. In 1787 he
+was pharmaceutical [[Assessor|assessor]] of the Ober-Collegium Medicum. In 1787 he
 was appointed lecturer in chemistry to the Royal Artillery, and when the
 university was founded in 1810 he was selected to be the professor of
 chemistry. He died in Berlin on the 1st of January 1817. Klaproth was
@@ -94,7 +94,7 @@ all--inferior to those he possessed as a general.
 
   Ernouf, the grandson of Jourdan's chief of staff, published in 1867 a
   valuable biography of Kléber. See also Reynaud, _Life of Merlin de
-  Thionville_; Ney, Memoirs; Dumas, _Souvenirs_; Las Casas, _Memorial de
+  Thionville_; Ney, Memoirs; Dumas, _Souvenirs_; [[Las Casas]], _Memorial de
   Ste Hélène_; J. Charavaray, _Les Généraux morts pour la patrie_;
   General Pajol, _Kléber_; lives of Marceau and Desaix; M. F. Rousseau,
   _Kléber et Menou en Egypte_ (Paris, 1900).

@@ -9,13 +9,13 @@ id: 42-2659
 # Aspasius
 
 ASPASIUS, a Greek peripatetic philosopher, and a prolific commentator on
-Aristotle. He flourished probably towards the close of the 1st century
+[[Aristotle]]. He flourished probably towards the close of the 1st century
 A.D., or perhaps during the reign of Antoninus Pius. His commentaries on
 the _Categories, De Interpretatione, De Sensu_, and other works of
 Aristotle are frequently referred to by later writers, but have not come
 down to us. Commentaries on Plato, mentioned by Porphyry in his life of
 Plotinus, have also been lost. Commentaries on books 1-4, 7 (in part),
-and 8 of the _Nicomachean Ethics_ are preserved; that on book 8 was
+and 8 of the _Nicomachean [[Ethics]]_ are preserved; that on book 8 was
 printed with those of Eustratius and others by Aldus Manutius at Venice
 in 1536. They were partly (2-4) translated into Latin by Felicianus in
 1541, and have frequently been republished, but their authenticity has

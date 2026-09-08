@@ -2,7 +2,7 @@
 
 AUXILIARY (from Lat. _auxilium_, help), that which gives aid or support;
 the term is used in grammar of a verb which completes the tense, mood or
-voice of another verb; in engineering, _e.g._ of the low steam power used
+voice of another verb; in [[Engineering|engineering]], _e.g._ of the low steam power used
 to supplement the sail-power in sailing ships, still occasionally used in
 yachts, sealers or whalers; and in military use, of foreign or allied
 troops, more properly of any troops not permanently maintained under arms.

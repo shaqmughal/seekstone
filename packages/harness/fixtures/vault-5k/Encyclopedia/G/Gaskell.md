@@ -2,7 +2,7 @@
 
 GASKELL, ELIZABETH CLEGHORN (1810-1865), English novelist and
 biographer, was born on the 29th of September 1810 in Lindsay Row,
-Chelsea, London, since destroyed to make way for Cheyne Walk. Her
+Chelsea, London, since destroyed to make way for [[Cheyne]] Walk. Her
 father, William Stevenson (1772-1829), came from Berwick-on-Tweed, and
 had been successively Unitarian minister, farmer, boarding-house keeper
 for students at Edinburgh, editor of the _Scots Magazine_, and
@@ -23,14 +23,14 @@ Newcastle-on-Tyne In the family of William Turner, a Unitarian minister,
 and a third in Edinburgh. On the 30th of August 1832 she was married in
 the parish church of Knutsford to William Gaskell, minister of the
 Unitarian chapel in Cross Street, Manchester, and the author of many
-treatises and sermons in support of his own religious denomination. Mr
+treatises and sermons in support of his own religious [[Denomination|denomination]]. Mr
 Gaskell held the chair of English history and literature in Manchester
 New College.
 
 Henceforth Mrs Gaskell's life belonged to Manchester. She and her
-husband lived first in Dover Street, then in Rumford Street, and finally
+husband lived first in [[Dover]] Street, then in Rumford Street, and finally
 in 1850 at 84 Plymouth Grove. Her literary life began with poetry. She
-and her husband aspired to emulate George Crabbe and write the annals of
+and her husband aspired to emulate George Crabbe and write the [[Annals|annals]] of
 the Manchester poor. One poetic "Sketch," which appeared in _Blackwood's
 Magazine_ for January 1837, seems to have been the only outcome of this
 ambition. Henceforth, while in perfect union in all else, husband and
@@ -47,7 +47,7 @@ Clopton Hall, Warwickshire, as she had heard it in schooldays, and
 Howitt incorporated the letter in that book, which was published in
 1840. Serious authorship, however, does not seem to have been commenced
 until four or five years later. In 1844 Mr and Mrs Gaskell visited North
-Wales, where their only son "Willie" died of scarlet fever at the age of
+Wales, where their only son "Willie" died of scarlet [[Fever|fever]] at the age of
 ten months, and it was, it is said, to distract Mrs Gaskell from her
 sorrow that her husband suggested a long work of fiction, and _Mary
 Barton_ was begun. There were earlier short stories in _Howitt's
@@ -55,13 +55,13 @@ Journal_, where "Libbie Marsh's Three Eras" and "The Sexton's Hero"
 appeared in 1847. But it was _Mary Barton: A Tale of Manchester Life_
 that laid the foundation of Mrs Gaskell's literary career. It was
 completed in 1847 and offered to a publisher who returned it unread. It
-was then sent to Chapman & Hall, who retained the manuscript for a year
+was then sent to Chapman & Hall, who retained the [[Manuscript|manuscript]] for a year
 without reading it or communicating with the author. A reminder,
 however, led to its being sought for, considered and accepted, the
 publishers agreeing to pay the author L100 for the copyright. It was
 published anonymously in two volumes in 1848. This story had a wide
 popularity, and its author secured first the praise and then the
-friendship of Carlyle, Landor and Dickens. Dickens indeed asked her in
+friendship of Carlyle, [[Landor]] and [[Dickens]]. Dickens indeed asked her in
 1850 to become a contributor to his new magazine _Household Words_, and
 here the whole of _Cranford_ appeared at intervals from December 1851 to
 May 1853, exclusive of one sketch, reprinted in the "World's Classics"
@@ -69,7 +69,7 @@ edition (1907), that was published in _All the Year Round_ for November
 1863. Earlier than this, indeed, for the very first number of _Household
 Words_ she had written "Lizzie Leigh." Mrs Gaskell's second book,
 however, was _The Moorland Cottage_, a dainty little volume that
-appeared at Christmas 1850 with illustrations by Birket Foster. In the
+appeared at [[Christmas]] 1850 with illustrations by Birket Foster. In the
 Christmas number of _Household Words_ for 1853 appeared "The Squire's
 Story," reprinted in _Lizzie Leigh and other Tales_ in 1865. In 1853
 appeared another long novel, _Ruth_, and the incomparable _Cranford_.
@@ -81,7 +81,7 @@ Once more we are introduced to Knutsford, thinly disguised, and to the
 little Unitarian chapel in that town where the author had worshipped in
 early years. In 1855 _North and South_ was published. It had previously
 appeared serially in _Household Words_. Then came--in 1857--the _Life of
-Charlotte Bronte_, in two volumes. Miss Bronte, who had enjoyed the
+[[Charlotte]] Bronte_, in two volumes. Miss Bronte, who had enjoyed the
 friendship of Mrs Gaskell and had exchanged visits, died in March 1855.
 Two years earlier she had begged her publishers to postpone the issue of
 her own novel _Villette_ in order that her friend's _Ruth_ should not
@@ -91,8 +91,8 @@ interest in their writings and gave its author a considerable place
 among English biographers. But much matter was contained in the first
 and second editions that was withdrawn from the third. Certain
 statements made by the writer as to the school of Charlotte Bronte's
-infancy, an identification of the "Lowood" of _Jane Eyre_ with the
-existing school, and the acceptance of the story of Bramwell Bronte's
+infancy, an [[Identification|identification]] of the "Lowood" of _Jane [[Eyre]]_ with the
+existing school, and the acceptance of the story of [[Bramwell]] Bronte's
 ruin having been caused by the woman in whose house he had lived as
 tutor, brought threats of libel actions. Apologies were published, and
 the third edition of the book was modified, as Mrs Gaskell declares, by
@@ -108,11 +108,11 @@ and other Tales_. In the next year 1860 appeared yet another volume of
 short stories, entitled _Right at Last and other Tales_. The title story
 had appeared two years earlier in _Household Words_ as "The Sin of a
 Father." In 1862 Mrs Gaskell wrote a preface to a little book by Colonel
-Vecchj, translated from the Italian--_Garibaldi and Caprera_, and in
+Vecchj, translated from the Italian--_[[Garibaldi]] and Caprera_, and in
 1863 she published her last long novel, _Sylvia's Lovers_, dedicated "to
 My dear Husband by her who best knows his Value." After this we have--in
 1863--a one-volume story, _A Dark Night's Work_, and in the same year
-_Cousin Phyllis and other Tales_ appeared. Reprinted short stories from
+_[[Cousin]] Phyllis and other Tales_ appeared. Reprinted short stories from
 _All the Year Round_, _Cornhill Magazine_, and other publications, tend
 to lengthen the number of books published by Mrs Gaskell during her
 lifetime. _The Grey Woman and other Tales_ appeared in 1865.

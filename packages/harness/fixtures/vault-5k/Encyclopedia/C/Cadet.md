@@ -18,7 +18,7 @@ _ecoles militaires_, but by becoming attached to corps without pay but with
 certain privileges. "Cadet Corps," in the British service, are bodies of
 boys or youths organized, armed and trained on volunteer military lines.
 Derived from "cadet," through the Scots form "cadee," comes "caddie," a
-messenger-boy, and particularly one who carries clubs at golf, and also the
+messenger-boy, and particularly one who carries clubs at [[Golf|golf]], and also the
 slang word "cad," a vulgar, ill-bred person.
 
 ## References

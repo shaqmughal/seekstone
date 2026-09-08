@@ -9,12 +9,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bush."
 # Bush.
 
 BUSH. (1) (A word common to many European languages, meaning "a wood", cf.
-the Ger. _Busch_, Fr. _bois_, Ital. _bosco_ and the med. Lat. _boscus_), a
+the Ger. _[[Busch]]_, Fr. _bois_, Ital. _bosco_ and the med. Lat. _boscus_), a
 shrub or group of shrubs, especially of those plants whose branches grow
 low and thick. Collectively "the bush" is used in British colonies,
 particularly in Australasia and South Africa, for the tract of country
 covered with brushwood not yet cleared for cultivation. From the custom of
-hanging a bush as a sign outside a tavern comes the proverb "Good wine
+[[Hanging|hanging]] a bush as a sign outside a tavern comes the proverb "Good wine
 needs no bush." (2) (From a Teutonic word meaning "a box", cf. the Ger.
 _Rad-buechse_, a wheel box, and the termination of "blunderbuss" and
 "arquebus"; the derivation from the Fr. _bouche_, a mouth, is not correct),

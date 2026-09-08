@@ -7,11 +7,11 @@ topic: diplomacy
 # Cambyses
 
 CAMBYSES (Pers. _Kambujiya_), the name borne by the father and the son
-of Cyrus the Great. When Cyrus conquered Babylon in 539 he was employed
+of [[Cyrus]] the Great. When Cyrus conquered [[Babylon]] in 539 he was employed
 in leading religious ceremonies (_Chronicle of Nabonidus_), and in the
 cylinder which contains Cyrus's proclamation to the Babylonians his name
 is joined to that of his father in the prayers to Marduk. On a tablet
-dated from the first year of Cyrus, Cambyses is called king of Babel.
+dated from the first year of Cyrus, Cambyses is called king of [[Babel]].
 But his authority seems to have been quite ephemeral; it was only in
 530, when Cyrus set out on his last expedition into the East, that he
 associated Cambyses on the throne, and numerous Babylonian tablets of
@@ -27,8 +27,8 @@ _Forschungen zur alien Geschichte_, ii. 470 ff.
 The traditions about Cambyses, preserved by the Greek authors, come from
 two different sources. The first, which forms the main part of the
 account of Herodotus (iii. 2; 4; 10-37), is of Egyptian origin. Here
-Cambyses is made the legitimate son of Cyrus and a daughter of Apries
-(Herod, iii. 2, Dinon fr. 11, Polyaen. viii. 29), whose death he avenges
+Cambyses is made the legitimate son of Cyrus and a daughter of [[Apries]]
+([[Herod]], iii. 2, Dinon fr. 11, Polyaen. viii. 29), whose death he avenges
 on the successor of the usurper Amasis. (In Herod, iii. 1 and Ctesias
 _ap_. Athen. xiii. 560 D, this tradition is corrected by the Persians:
 Cambyses wants to marry a daughter of Amasis, who sends him a daughter
@@ -38,18 +38,18 @@ is punished by madness, in which he commits many other crimes, kills his
 brother and his sister, and at last loses his empire and dies from a
 wound in the hip, at the same place where he had wounded the sacred
 animal. Intermingled are some stories derived from the Greek
-mercenaries, especially about their leader Phanes of Halicarnassus, who
+mercenaries, especially about their leader Phanes of [[Halicarnassus]], who
 betrayed Egypt to the Persians. In the Persian tradition the crime of
 Cambyses is the murder of his brother; he is further accused of
-drunkenness, in which he commits many crimes, and thus accelerates his
+[[Drunkenness|drunkenness]], in which he commits many crimes, and thus accelerates his
 ruin. These traditions are found in different passages of Herodotus, and
 in a later form, but with some trustworthy detail about his household,
 in the fragments of Ctesias. With the exception of Babylonian dated
 tablets and some Egyptian inscriptions, we possess no contemporary
-evidence about the reign of Cambyses but the short account of Darius in
-the Behistun inscription. It is impossible from these sources to form a
+evidence about the reign of Cambyses but the short account of [[Darius]] in
+the [[Behistun]] inscription. It is impossible from these sources to form a
 correct picture of Cambyses' character; but it seems certain that he was
-a wild despot and that he was led by drunkenness to many atrocious
+a wild [[Despot|despot]] and that he was led by drunkenness to many atrocious
 deeds.
 
 It was quite natural that, after Cyrus had conquered Asia, Cambyses
@@ -59,21 +59,21 @@ killed his brother Bardiya (Smerdis), whom Cyrus had appointed governor
 of the eastern provinces. The date is given by Darius, whereas the Greek
 authors narrate the murder after the conquest of Egypt. The war took
 place in 525, when Amasis had just been succeeded by his son
-Psammetichus III. Cambyses had prepared for the march through the desert
+Psammetichus III. Cambyses had prepared for the march through the [[Desert|desert]]
 by an alliance with Arabian chieftains, who brought a large supply of
 water to the stations. King Amasis had hoped that Egypt would be able to
 withstand the threatened Persian attack by an alliance with the Greeks.
 But this hope failed; the Cyprian towns and the tyrant Polycrates of
 Samos, who possessed a large fleet, now preferred to join the Persians,
-and the commander of the Greek troops, Phanes of Halicarnassus, went
+and the [[Commander|commander]] of the Greek troops, Phanes of Halicarnassus, went
 over to them. In the decisive battle at Pelusium the Egyptians were
-beaten, and shortly afterwards Memphis was taken. The captive king
+beaten, and shortly afterwards Memphis was taken. The [[Captive|captive]] king
 Psammetichus was executed, having attempted a rebellion. The Egyptian
 inscriptions show that Cambyses officially adopted the titles and the
-costume of the Pharaohs, although we may very well believe that he did
+[[Costume|costume]] of the Pharaohs, although we may very well believe that he did
 not conceal his contempt for the customs and the religion of the
-Egyptians. From Egypt Cambyses attempted the conquest of Ethiopia
-(Cush), i.e. the kingdom of Napata and Meroe, the modern Nubia. But his
+Egyptians. From Egypt Cambyses attempted the conquest of [[Ethiopia]]
+([[Cush]]), i.e. the kingdom of Napata and Meroe, the modern Nubia. But his
 army was not able to cross the deserts; after heavy losses he was forced
 to return. In an inscription from Napata (in the Berlin museum) the
 Ethiopian king Nastesen relates that he had beaten the troops of
@@ -89,11 +89,11 @@ impossible, died by his own hand (March 521). This is the account of
 Darius, which certainly must be preferred to the traditions of Herodotus
 and Ctesias, which ascribe his death to an accident. According to
 Herodotus (iii. 64) he died in the Syrian Ecbatana, i.e. Hamath;
-Josephus (_Ant._ xi. 2. 2) names Damascus; Ctesias, Babylon, which is
+Josephus (_Ant._ xi. 2. 2) names [[Damascus]]; Ctesias, Babylon, which is
 absolutely impossible.
 
   See A. Lincke, _Kambyses in der Sage, Litteratur und Kunst des
-  Mittelalters_, in _Aegyptiaca: Festschrift für Georg Ebers_ (Leipzig
+  Mittelalters_, in _Aegyptiaca: Festschrift für Georg [[Eber|Ebers]]_ (Leipzig
   1897), pp. 41-61; also PERSIA: _Ancient History._     (Ed. M.)
 
 

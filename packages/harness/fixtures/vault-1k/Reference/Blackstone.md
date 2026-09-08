@@ -149,7 +149,7 @@ how much importance is attached to the _ipsissima verba_ of a writer who
 aimed more at presenting a picture intelligible to laymen than at
 recording the principles of the law with technical accuracy of detail.
 
-  See also the article ENGLISH LAW.
+  See also the article [[English Law|ENGLISH LAW]].
 
 ## References
 

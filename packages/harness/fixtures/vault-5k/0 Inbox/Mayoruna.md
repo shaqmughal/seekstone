@@ -9,7 +9,7 @@ id: 42-4395
 
 MAYORUNA, a tribe of South American Indians of Panoan stock. Their
 country is between the Ucayali and Javari rivers, north-eastern Peru.
-They are a fine race, roaming the forests and living by hunting. They
+They are a fine race, roaming the forests and living by [[Hunting|hunting]]. They
 cut their hair in a line across the forehead and let it hang down their
 backs. Many have fair skins and beards, a peculiarity sometimes
 explained by their alleged descent from Ursua's soldiers, but this

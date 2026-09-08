@@ -20,7 +20,7 @@ _Lyrae_ is a multiple star, separated by the naked eye or by a small
 telescope into two stars; these are each resolved into two stars by a
 3" telescope, while a more powerful instrument (4") reveals three
 smaller stars between the two pairs, [beta] _Lyrae_ and _R. Lyrae_ are
-short period variables. There is the famous ring or annular nebula, _M.
+short period variables. There is the famous ring or [[Annular|annular]] nebula, _M.
 57 Lyrae_, in the middle of which is a very faint star, which is readily
 revealed by photography; and also the meteoric swarm named the _Lyrids_,
 which appear in April and have their radiant in this constellation (see

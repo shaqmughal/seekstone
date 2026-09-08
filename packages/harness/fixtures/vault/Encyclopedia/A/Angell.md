@@ -11,9 +11,9 @@ tags: [history, biography]
 ANGELL, GEORGE THORNDIKE (1823-1909), American philanthropist, was
 born at Southbridge, Massachusetts, on the 5th of June 1823. He
 graduated at Dartmouth in 1846, studied law at the Harvard Law School,
-and in 1851 was admitted to the bar in Boston, where he practised
+and in 1851 was admitted to the bar in [[Boston]], where he practised
 for many years. In 1868 he founded and became president of the
-Massachusetts Society for the Prevention of Cruelty to Animals, in the
+Massachusetts Society for the Prevention of [[Cruelty]] to Animals, in the
 same year establishing and becoming editor of _Our Dumb Animals_, a
 journal for the promotion of organized effort in securing the humane
 treatment of animals. For many years he was active in the organization

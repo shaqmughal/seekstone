@@ -24,8 +24,8 @@ from a modern joiner, but it is no less true that the habit of neatness
 and the great precision of the joiner make him a much slower workman
 than the man practised in works of carpentry. In carpentry framing owes
 its strength mainly to the form and position of its parts, but in
-joinery the strength of a frame depends to a larger extent upon the
-strength of the joinings. The importance of fitting the joints together
+joinery the strength of a [[Frame|frame]] depends to a larger extent upon the
+strength of the joinings. The importance of fitting the [[Joints|joints]] together
 as accurately as possible is therefore obvious. It is very desirable
 that a joiner shall be a quick workman, but it is still more so that he
 shall be a good one, and that he should join his materials with firmness
@@ -39,7 +39,7 @@ the work.
 
 In early times every part was rude, and jointed in the most artless
 manner. The first dawnings of the art of modern joinery appear in the
-thrones, stalls, pulpits and screens of early Gothic cathedrals and
+thrones, stalls, pulpits and screens of early [[Gothic]] cathedrals and
 churches, but even in these it is indebted to the carver for everything
 that is worthy of regard. With the revival of classic art, however,
 great changes took place in every sort of construction. Forms began to
@@ -56,18 +56,18 @@ scarcity of oak timber, and the expense of working it, subsequently led
 to the importation of fir timber from northern Europe, and this
 gradually superseded all other material save for special work.
 
-_Tools and Materials._--The joiner operates with saws, planes, chisels,
-gouges, hatchet, adze, gimlets and other boring instruments (aided and
-directed by chalked lines), gauges, squares, hammers, wallets, floor
+_Tools and Materials._--The joiner operates with saws, planes, [[Chisel|chisels]],
+[[Gouge|gouges]], hatchet, adze, gimlets and other boring instruments (aided and
+directed by chalked lines), [[Gauge|gauges]], squares, hammers, wallets, floor
 cramps and a great many other tools. His operations consist principally
 of sawing and planing in all their varieties, and of setting out and
 making joints of all kinds. There is likewise a great range of other
 operations--such as paring, gluing up, wedging, pinning, fixing, fitting
 and hanging--and many which depend on nailing and screwing, such as
-laying floors, boarding ceilings, wainscoting walls, bracketing,
+laying floors, boarding [[Ceiling|ceilings]], wainscoting walls, bracketing,
 cradling, firring, and the like. In addition to the wood on which the
 joiner works, he requires also glue, white lead, nails, brads, screws
-and hinges, and accessorily he applies bolts, locks, bars and other
+and hinges, and accessorily he applies bolts, [[Lock|locks]], bars and other
 fastenings, together with pulleys, lines, weights, holdfasts, wall
 hooks, &c. The joiner's work for a house is for the most part prepared
 at the shop, where there should be convenience for doing everything in
@@ -78,12 +78,12 @@ i.e. wedged up and cleaned off at the shop; the flooring is planed and
 prepared with rebated or grooved edges ready for laying, and the moulded
 work--the picture and dado rails, architraves, skirtings and
 panelling--is all got out at the shop. On a new building the joiner fits
-up a temporary workshop with benches, sawing stools and a stove for his
+up a temporary workshop with [[Bench|benches]], sawing stools and a stove for his
 glue pot. Here he adjusts the work for fitting up and makes any small
 portions that may still be required.
 
 The preparation of joinery entirely by hand is now the exception--a fact
-due to the ever-increasing use of machines, which have remarkably
+due to the ever-increasing use of [[Machine|machines]], which have remarkably
 shortened the time required to execute the ordinary operations. Various
 machines rapidly and perfectly execute planing and surfacing, mortising
 and moulding, leaving the craftsman merely to fit and glue up. Large
@@ -106,12 +106,12 @@ joinery work.
   species of North European and North American pine, oak, teak and
   mahogany (see TIMBER). The greater part of English joiners' work is
   executed in the northern pine exported from the Baltic countries.
-  Hence the joiner obtains the planks, deals, battens and strips from
+  Hence the joiner obtains the planks, deals, [[Batten|battens]] and strips from
   which he shapes his work. The timber reaches the workman from the
   sawmills in a size convenient for the use he intends, considerable
   time and labour being saved in this way.
 
-  A log of timber sawn to a square section is termed a _balk_. In
+  A [[Log|log]] of timber sawn to a square section is termed a _balk_. In
   section it may range from 1 to 1½ ft. square. _Planks_ are formed by
   sawing the balk into sections from 11 to 18 in. wide and 3 to 6 in.
   thick, and the term _deal_ is applied to sawn stuff 9 in. wide and 2
@@ -141,7 +141,7 @@ joinery work.
   moulded joints allow shrinkage to take place without detriment to the
   appearance of the work. The _rebated_ joint is used in the meeting
   styles of casements and folding doors, and it is useful in excluding
-  draughts and preventing observation through the joint.
+  [[Draughts|draughts]] and preventing observation through the joint.
 
   [Illustration: FIG. 2.]
 
@@ -151,8 +151,8 @@ joinery work.
   it needs a practised and accurate hand for its proper execution. The
   common mitre is essentially weak unless reinforced with blocks glued
   into the angle at the back of it, and is therefore often strengthened
-  with a feather of wood or iron. Other variations of the mitre are the
-  _mitre and butt_, used where the pieces connected are of unequal
+  with a [[Feather|feather]] of wood or iron. Other variations of the mitre are the
+  _mitre and [[Butt|butt]]_, used where the pieces connected are of unequal
   thickness; the _mitre and rebate_, with a square section which
   facilitates nailing or screwing; the _mitre rebate and feather_,
   similar to the latter, with a feather giving additional strength to
@@ -164,8 +164,8 @@ joinery work.
   consists of a simple mitre joint, which after being glued up has a
   number of pairs of saw cuts made across the angle, into which are
   fitted and glued thin triangular slips of hard wood, or as an
-  alternative, pieces of brass or other metal. Other forms of angle
-  joints are based on the rebate with a bead worked on in such a
+  alternative, pieces of [[Brass|brass]] or other metal. Other forms of angle
+  joints are based on the rebate with a [[Bead|bead]] worked on in such a
   position as to hide any bad effects caused by the joint opening by
   shrinkage. They may be secured either by nailing or screwing, or by
   glued angle blocks.
@@ -186,9 +186,9 @@ joinery work.
   swelling and shrinking due to changes in the humidity of the
   atmosphere must not be checked, or the result will be disastrous. To
   effect this end various simple devices are available. The direction of
-  the annular rings in alternate boards may be reversed, and when the
+  the [[Annular|annular]] rings in alternate boards may be reversed, and when the
   boards have been carefully jointed with tongues or dowels and glued
-  up, a hard-wood tapering key, dovetail in section, may be let into a
+  up, a hard-wood tapering [[Key|key]], dovetail in section, may be let into a
   wide dovetail at the back (fig. 4). It must be accurately fitted and
   driven tightly home, but, of course, not glued. Battens of hard wood
   may be used for the same purpose, fixed either with hard-wood buttons
@@ -244,7 +244,7 @@ joinery work.
   adopting the former method the panel is free to shrink--as it
   undoubtedly will do--without altering the good appearance of the work,
   but should the moulding be fixed to the panel it will, when the latter
-  shrinks, be pulled out of place, leaving an unsightly gap between it
+  shrinks, be pulled out of place, leaving an unsightly [[Gap|gap]] between it
   and the framing.
 
   _Flooring._--When the bricklayer, mason and carpenter have prepared
@@ -266,7 +266,7 @@ joinery work.
   yellow deal, which, when of good quality and well seasoned, is lasting
   and wears well. For floors where a fine appearance is desired, or
   which will be subjected to heavy wear, some harder and tougher
-  material, such as pitch pine, oak, ash, maple or teak, should be laid.
+  material, such as pitch pine, oak, ash, [[Maple|maple]] or teak, should be laid.
   These woods are capable of taking a fine polish and, finished in this
   way, form a beautiful as well as a durable floor.
 
@@ -275,7 +275,7 @@ joinery work.
   the board should be placed downwards so that in drying the tendency
   will be for the edges to press more tightly to the joists instead of
   curling upwards. The square joint should be used only on ground
-  floors; if it is used for the upper rooms, dust and water will drop
+  floors; if it is used for the upper rooms, [[Dust|dust]] and water will drop
   through the crevices and damage the ceiling beneath. Dowelled joints
   are open to the same objection. One of the best and most economical
   methods is the _ploughed and tongued_ joint. The tongue may be of hard
@@ -293,7 +293,7 @@ joinery work.
 
   _Wood block floors_ are much used, and are exceedingly solid. The
   blocks are laid directly on a smoothed concrete bed or floor in a
-  damp-proof mastic having bitumen as its base; this fulfils the double
+  damp-proof [[Mastic|mastic]] having bitumen as its base; this fulfils the double
   purpose of preventing the wood from rotting, and securing the blocks
   in their places. To check any inclination to warp and rise, however,
   the edges of the blocks in the better class of floors are connected by
@@ -328,7 +328,7 @@ joinery work.
   formed in the floor and the skirting tongued into it so that an open
   joint is avoided should shrinkage occur. The skirting should be nailed
   only near the top to wood grounds fixed to wood plugs in the joints of
-  the brickwork. These grounds are about ¾ to 1 in. thick, i.e. the same
+  the [[Brickwork|brickwork]]. These grounds are about ¾ to 1 in. thick, i.e. the same
   thickness as the plaster, and are generally splayed or grooved on the
   edge to form a key for the plaster. A rough coat of plaster should
   always be laid on the wall behind the skirting in order to prevent the
@@ -385,7 +385,7 @@ joinery work.
   that a slight pull opens or closes the window to the desired extent,
   and the cord is then held by being tied to, or twisted round, a small
   metal button or clip, or a geared fanlight opener may be used. For the
-  side sashes of lantern lights and for stables and factories this form
+  side sashes of [[Lantern|lantern]] lights and for stables and factories this form
   of window is in general use.
 
   [Illustration: FIG. 9.--Details of French Casement to open inwards.]
@@ -394,7 +394,7 @@ joinery work.
   the _cased frame with double hung sliding sashes_. This style has many
   advantages. It is efficient in excluding wet and draughts, ventilation
   may be easily regulated and the sashes can be lowered and raised with
-  ease without interference with any blinds, curtains or other fittings,
+  ease without interference with any blinds, [[Curtain|curtains]] or other fittings,
   that may be applied to the windows. In the ordinary window of this
   style, however, difficulty is experienced in cleaning the external
   glass without assuming a dangerous position on the sill, but there are
@@ -403,7 +403,7 @@ joinery work.
   thumb-screw--the reversal of the sash on a pivot or hinge. For a small
   extra cost these arrangements may be provided; they will be greatly
   appreciated by those who clean the windows. The cased frames are in
-  the form of boxes to enclose the iron or lead weights which balance
+  the form of [[Box|boxes]] to enclose the iron or lead weights which [[Balance|balance]]
   the sashes (fig. 7), and consist of a pulley style--which takes the
   wear of the sashes and is often of hard wood on this account--an
   inside lining, and an outside lining; these three members are
@@ -417,7 +417,7 @@ joinery work.
   bead separates the sashes, and the inside bead keeps them in position.
   A parting slip hung from the head inside the cased frame separates the
   balancing weights and ensures their smooth working. The inside lining
-  is usually grooved to take the elbow and soffit linings, and the
+  is usually grooved to take the [[Elbow|elbow]] and soffit linings, and the
   window board is fitted into a groove formed in the sill. The example
   shown in fig. 7 has an extra deep bottom rail and bead; this enables
   the lower sash to be raised so as to permit of ventilation between the
@@ -437,7 +437,7 @@ joinery work.
   heads of the side lights and attached to counter-balance weights
   working in casings at the junction of the window with the wall. This
   enables solid angle mullions to be employed. If all the lights are
-  required to be hung the difficulty may be surmounted by hanging two
+  required to be hung the difficulty may be surmounted by [[Hanging|hanging]] two
   sashes to one weight. Lead weights take up less space than iron, and
   are used for heavy sashes.
 
@@ -464,7 +464,7 @@ joinery work.
   little light. External shutters are generally hung by means of hinges
   to the frame of the window: when the window is set in a reveal these
   hinges are necessarily of special shape, being of large projection to
-  enable the shutters to fold back against the face of the wall.
+  enable the shutters to [[Fold|fold]] back against the face of the wall.
   Internally fixed shutters may be hinged or may slide either vertically
   or horizontally. Hinged folding boxed shutters are shown in the
   illustration of a casement window (fig. 8), where the method of
@@ -505,8 +505,8 @@ joinery work.
   be 10 in. and of the cornice 18 in. beyond the building line. No
   woodwork of any shop-front shall be fixed higher than 25 ft. above the
   level of the public pavement. No woodwork shall be fixed nearer than 4
-  in. to the centre of the party wall. The pier of brick or stone must
-  project at least an inch in front of the woodwork. These by-laws will
+  in. to the centre of the party wall. The pier of [[Brick|brick]] or stone must
+  project at least an [[Inch|inch]] in front of the woodwork. These by-laws will
   be made clear on reference to fig. 10, which is of a shop-front
   designed to face on to a road more than 30 ft. wide.
 
@@ -541,10 +541,10 @@ joinery work.
   thick and rebated for the door. When the width of jamb allows it,
   panelling may be introduced as in the example shown. The linings are
   nailed or screwed to rough framed grounds 1 in. in thickness plugged
-  or nailed to the wall or partition. _Architraves_ are the borders or
+  or nailed to the wall or partition. _Architraves_ are the [[Borders|borders]] or
   finishing mouldings fixed around a window or door opening, and screwed
   or nailed to wood grounds. They are variously moulded according to the
-  fancy of the designer. The ordinary form of architrave is shown in the
+  [[Fancy|fancy]] of the designer. The ordinary form of architrave is shown in the
   illustration of a cased window frame (fig. 8), and a variation appears
   in the combined architrave and over door frieze and capping fitted
   around the six-panelled door (fig. 7). The latter would need to be
@@ -575,7 +575,7 @@ joinery work.
   the other members to the bottom of the door. The three forms of door
   described above are used mainly for temporary purposes, and stables,
   farm buildings and outhouses of all descriptions. They are usually
-  hung by wrought-iron cross garnet or strap hinges fixed with screws or
+  hung by wrought-iron cross [[Garnet|garnet]] or strap hinges fixed with screws or
   through bolts and nuts.
 
   [Illustration: FIG. 11.--Forms of Panelling.]
@@ -593,8 +593,8 @@ joinery work.
 
   A clear idea of the method of jointing the various members may be
   obtained from fig. 12. The tongues of raised panels should be of
-  parallel thickness, the bevels being stopped at the moulding. The
-  projecting ends or _horns_ of the styles are cut off after the door
+  parallel thickness, the [[Bevel|bevels]] being stopped at the moulding. The
+  projecting ends or _[[Horn|horns]]_ of the styles are cut off after the door
   has been glued and wedged, as they prevent the ends of the styles
   being damaged by the wedging process.
 
@@ -624,7 +624,7 @@ joinery work.
   layer of hard wood, such as oak, mahogany or teak, giving the
   appearance of a solid door of the better material. Made in the
   ordinary way, however, the shrinkage or warping of the soft wood is
-  very liable to cause the veneer to buckle and peel off. Veneered doors
+  very liable to cause the veneer to [[Buckle|buckle]] and peel off. Veneered doors
   made on an improved method obviating this difficulty have been placed
   on the market by a Canadian company. The core is made up of strips of
   pine with the grain reversed, dried at a temperature of 200° F., and
@@ -655,8 +655,8 @@ joinery work.
   public buildings erected in more recent years. Fine examples of Old
   English joinery exist at Hampton Court Palace, the Temple Church in
   London, the Chapel of Henry VII. in Westminster Abbey, and Haddon
-  Hall. Specimens of modern work are to be seen in Beverley Minster in
-  Yorkshire, the Church of St Etheldreda in Ely Place, London, and the
+  Hall. Specimens of modern work are to be seen in [[Beverley]] Minster in
+  Yorkshire, the Church of St Etheldreda in [[Ely]] Place, London, and the
   Wycliffe Hall Chapel at Oxford. Other examples both ancient and modern
   abound in the country.
 
@@ -665,7 +665,7 @@ joinery work.
   execution. But even in this work machinery has found a place, and
   carved ornaments of all descriptions are rapidly wrought with its aid.
   Small carved mouldings especially are evolved in this manner, and,
-  being incomparably cheaper than those worked by manual labour, are
+  being incomparably cheaper than those worked by [[Manual|manual]] labour, are
   used freely where a rich effect is desired. Elaborately carved panels
   also are made by machines and a result almost equal to work done
   entirely by hand is obtained if, after machinery has done all in its
@@ -688,7 +688,7 @@ joinery work.
   snap should they sustain a shock. _Lifting butts_ are made with a
   removable pin to enable the door to be removed and replaced without
   unscrewing. _Rising butts_ have oblique joints which cause the door to
-  rise and clear a thick carpet and yet make a close joint with the
+  rise and clear a thick [[Carpet|carpet]] and yet make a close joint with the
   floor when shut. Hinges of brass or gun-metal are used in special
   circumstances. Common forms of hinges used on ledged doors are the
   _cross garnet_ and the _strap_. There are many varieties of _spring
@@ -697,7 +697,7 @@ joinery work.
   or other convenient place to prevent undue strain through the door
   being forced back.
 
-  Among _locks and fastenings_ the ordinary _barrel_ or _tower_ bolt
+  Among _locks and fastenings_ the ordinary _[[Barrel|barrel]]_ or _tower_ bolt
   needs no description. The _flush barrel_ is a bolt let in flush with
   the face of a door. The _espagnolette_ is a development of the tower
   bolt and extends the whole height of the door; a handle at a
@@ -710,11 +710,11 @@ joinery work.
   cased_ rim lock is a cheap form for domestic and general use. The use
   of a rim lock obviates the necessity of forming a mortice in the
   thickness of the door which is required when a mortice lock is used.
-  _Finger plates_ add greatly to the good appearance of a door, and
+  _[[Finger]] plates_ add greatly to the good appearance of a door, and
   protect the painted work. _Sash fasteners_ are fixed at the meeting
   rails of double hung sashes to prevent the window being opened from
   the outside and serve also to clip the two sashes tightly together.
-  They should be of a pattern to resist the attack of a knife inserted
+  They should be of a pattern to resist the attack of a [[Knife|knife]] inserted
   between the rails. _Sash lifts_ and _pulls_ of brass or bronze are
   fitted to large sashes. Ornamental _casement stays_ and fasteners in
   many different metals are made in numerous designs and styles.
@@ -722,12 +722,12 @@ joinery work.
   sashes, may be designed to suit positions difficult of access.
 
   The following are the principal books of reference on this subject: J.
-  Gwilt, _Encyclopaedia of Architecture_; Sutcliffe, _Modern House
+  [[Gwilt]], _Encyclopaedia of Architecture_; Sutcliffe, _Modern House
   Construction_; Rivington, _Notes on Building Construction_ (3 vols.);
   H. Adams, _Building Construction_; C. F. Mitchell, _Building
   Construction_; Robinson, _Carpentry and Joinery_; J. P. Allen,
   _Practical Building Construction_; J. Newlands, _Carpenter and
-  Joiner's Assistant_; Bury, _Ecclesiastical Woodwork_; T. Tredgold and
+  Joiner's Assistant_; [[Bury]], _Ecclesiastical Woodwork_; T. Tredgold and
   Young, _Joinery_; Peter Nicholson, _Carpenter and Joiner's Assistant_.
        (J. Bt.)
 

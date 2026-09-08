@@ -21,7 +21,7 @@ of Winchester. The _Annales Waverlienses_, published by Gale in his
 _Scriptores_ and afterwards in the Record series of _Chronicles_, are
 believed to have suggested to Sir Walter Scott the name of his first
 novel. Farnham Castle, on a hill north of the town, the seat of the
-bishops of Winchester, was first built by Henry de Blois, bishop of
+bishops of Winchester, was first built by Henry de [[Blois]], bishop of
 Winchester, and brother of King Stephen; but it was razed by Henry III.
 It was rebuilt and garrisoned for Charles I. by Denham, from whom it was
 taken in 1642 by Sir W. Waller; and having been dismantled, it was
@@ -29,7 +29,7 @@ restored by George Morley, bishop of Winchester (1662-1684). Farnham has
 a town hall and exchange in Italian style (1866), a grammar school of
 early foundation, and a school of science and art. It was formerly noted
 for its cloth manufacture. Hops of fine quality are grown in the
-vicinity. William Cobbett was born in the parish (1766), and is buried
+vicinity. William [[Cobbett]] was born in the parish (1766), and is buried
 in the churchyard of St Andrew's. The neighbouring mansion of Moor Park
 was the residence of Sir William Temple (d. 1699), and Swift worked here
 as his secretary. Hester Johnson, Swift's "Stella," was the daughter of
@@ -48,7 +48,7 @@ other privileges, a fair on All Saints' Day. The burgesses surrendered
 the proceeds of the borough court and other rights in 1365 in return for
 respite of the fee farm rent; these were recovered in 1405 and rent
 again paid. Bishop Waynflete is said to have confirmed the original
-charter in 1452, and in 1566 Bishop Horne granted a new charter by
+charter in 1452, and in 1566 Bishop [[Horne]] granted a new charter by
 which the burgesses elected 2 bailiffs and 12 burgesses annually and did
 service at their own courts every three weeks, the court leet being held
 twice a year. In resisting an attack made by the bishop in 1660 on their

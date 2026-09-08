@@ -9,12 +9,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hazara"
 
 HAZARA, a district of British India, in the Peshawar division of the
 North-West Frontier Province, with an area of 3391 sq. m. It is bounded
-on the N. by the Black Mountain, the Swat country, Kohistan and Chilas;
+on the N. by the [[Black Mountain]], the Swat country, Kohistan and Chilas;
 on the E. by the native state of Kashmir; on the S. by Rawalpindi
 district; and on the W. by the river Indus. On the creation of the
 North-West Frontier Province in 1901 the district was reconstituted, the
 Tahsil of Attock being transferred to Rawalpindi. The district forms a
-wedge of territory extending far into the heart of the outer Himalayas,
+wedge of territory extending far into the heart of the outer [[Himalaya|Himalayas]],
 and consisting of a long narrow valley, shut in on both sides by lofty
 mountains, whose peaks rise to a height of 17,000 ft. above sea level.
 Towards the centre of the district the vale of Kagan is bounded by
@@ -52,7 +52,7 @@ Sikh War. It was also undisturbed during the Mutiny. The population in
 1901 was 560,288, showing an increase of 8.52% in the decade. The
 headquarters are at Abbotabad; pop. (1901) 7764. Through the Kagan
 valley and over the Babusar pass at its head lies the most direct route
-from the Punjab to Chilas and Gilgit.
+from the Punjab to Chilas and [[Gilgit]].
 
 ## See also
 

@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Icon"
 # Icon
 
 ICON (through the Latinized form, from Gr. [Greek: eikôn], portrait,
-image), generally any image or portrait-figure, but specially the term
+[[Image|image]]), generally any image or portrait-figure, but specially the term
 applied to the representations in the Eastern Church of sacred
 personages, whether in painting or sculpture, and particularly to the
 small metal plaques in archaic Byzantine style, venerated by the

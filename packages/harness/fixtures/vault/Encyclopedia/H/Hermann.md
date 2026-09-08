@@ -1,10 +1,10 @@
 # Hermann
 
-HERMANN, FRIEDRICH BENEDICT WILHELM VON (1795-1868), German economist,
+HERMANN, [[Friedrich|FRIEDRICH]] BENEDICT WILHELM VON (1795-1868), German economist,
 was born on the 5th of December 1795, at Dinkelsbuhl in Bavaria. After
 finishing his primary education he was for some time employed in a
 draughtsman's office. He then resumed his studies, partly at the
-gymnasium in his native town, partly at the universities of Erlangen and
+gymnasium in his native town, partly at the universities of [[Erlangen]] and
 Wurzburg. In 1817 he took up a private school at Nuremberg, where he
 remained for four years. After filling an appointment as teacher of
 mathematics at the gymnasium of Erlangen, he became in 1823
@@ -14,7 +14,7 @@ dissertation was on the notions of political economy among the Romans
 pertinentes_, Erlangen, 1823). He afterwards acted as professor of
 mathematics at the gymnasium and polytechnic school in Nuremberg, where
 he continued till 1827. During his stay there he published an elementary
-treatise on arithmetic and algebra (_Lehrbuch der Arith. u. Algeb._,
+treatise on [[Arithmetic|arithmetic]] and algebra (_Lehrbuch der Arith. u. Algeb._,
 1826), and made a journey to France to inspect the organization and
 conduct of technical schools in that country. The results of his
 investigation were published in 1826 and 1828 (_Uber technische
@@ -29,9 +29,9 @@ frequent journeys to Berlin and Paris in order to study the methods
 there pursued. In the state service of Bavaria, to which he devoted
 himself, he rose rapidly. In 1837 he was placed on the council for
 superintendence of church and school work; in 1839 he was entrusted with
-the direction of the bureau of statistics; in 1845 he was one of the
+the direction of the [[Bureau|bureau]] of statistics; in 1845 he was one of the
 councillors for the interior; in 1848 he sat as member for Munich in the
-national assembly at Frankfort. In this assembly Hermann, with Johann
+national assembly at [[Frankfort]]. In this assembly Hermann, with Johann
 Heckscher and others, was mainly instrumental in organizing the
 so-called "Great German" party, and was selected as one of the
 representatives of their views at Vienna. Warmly supporting the customs

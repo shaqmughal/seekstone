@@ -1,15 +1,15 @@
 # Knigge
 
-KNIGGE, ADOLF FRANZ FRIEDRICH, FREIHERR VON (1752-1796), German author,
-was born on the family estate of Bredenbeck near Hanover on the 16th of
+KNIGGE, ADOLF [[Franz|FRANZ]] [[Friedrich|FRIEDRICH]], FREIHERR VON (1752-1796), German author,
+was born on the family estate of Bredenbeck near [[Hanover]] on the 16th of
 October 1752. After studying law at Göttingen he was attached
-successively to the courts of Hesse-Cassel and Weimar as
+successively to the courts of [[Hesse-Cassel]] and Weimar as
 gentleman-in-waiting. Retiring from court service in 1777, he lived a
-private life with his family in Frankfort-on-Main, Hanau, Heidelberg and
+private life with his family in [[Frankfort-On-Main|Frankfort-on-Main]], Hanau, Heidelberg and
 Hanover until 1791, when he was appointed _Oberhauptmann_ (civil
 administrator) in Bremen, where he died on the 6th of May 1796. Knigge,
 under the name "Philo," was one of the most active members of the
-_Illuminati_, a mutual moral and intellectual improvement society
+_[[Illuminati]]_, a mutual moral and intellectual improvement society
 founded by Adam Weishaupt (1748-1830) at Ingolstadt, and which later
 became affiliated to the Freemasons. Knigge is known as the author of
 several novels, among which _Der Roman meines Lebens_ (1781-1787; new

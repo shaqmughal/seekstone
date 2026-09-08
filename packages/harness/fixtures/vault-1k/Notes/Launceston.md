@@ -12,7 +12,7 @@ the seat of the earls of Cornwall, and was frequently besieged during
 the civil wars of the 17th century. In 1656 George Fox the Quaker was
 imprisoned in the north-east tower for disturbing the peace at St Ives
 by distributing tracts. Fragments of the old town walls and the south
-gateway, of the Decorated period, are standing. The church of St Mary
+gateway, of the [[Decorated Period|Decorated period]], are standing. The church of St Mary
 Magdalen, built of granite, and richly ornamented without, was erected
 early in the 16th century, but possesses a detached tower dated 1380. A
 fine Norman doorway, now appearing as the entrance to a hotel, is

@@ -18,7 +18,7 @@ administration. In 223, when consul with P. Furius Philus, he took the
 field against the Gauls, who were said to have been roused to war by his
 agrarian law. Having crossed the Po to punish the Insubrians, he at
 first met with a severe check and was forced to capitulate. Reinforced
-by the Cenomani, he gained a decisive victory on the banks of the Addua.
+by the [[Cenomani]], he gained a decisive victory on the banks of the Addua.
 He had previously been recalled by the optimates, but ignored the order.
 The victory seems to have been due mainly to the admirable discipline
 and fighting qualities of the soldiers, and he obtained the honour of a
@@ -28,7 +28,7 @@ limited the freedmen to the four city tribes (see COMITIA). His name is
 further associated with two great works. He erected the Circus Flaminius
 on the Campus Martius, for the accommodation of the plebeians, and
 continued the military road from Rome to Ariminum, which had hitherto
-only reached as far as Spoletium (see FLAMINIA, VIA). He probably also
+only reached as far as Spoletium (see [[Flaminia|FLAMINIA]], VIA). He probably also
 instituted the "plebeian" games. In 218, as a leader of the democratic
 opposition, Flaminius was one of the chief promoters of the measure
 brought in by the tribune Quintus Claudius, which prohibited senators

@@ -23,7 +23,7 @@ under the republic the president--had the right of nomination. The same
 is true of Austria (except four sees), Bavaria, Spain and Portugal. In
 some countries the bishop is elected by the cathedral chapter (as in
 Wurttemberg), or by the bishops of the provinces (as in Ireland). In
-others, as in Great Britain, the United States of America and Belgium,
+others, as in Great Britain, the United States of America and [[Belgium]],
 the pope selects one out of a list submitted by the chapter. In all
 cases the nomination or election is subject to confirmation by the Holy
 See. Before this is granted the candidate is submitted to a double
@@ -70,7 +70,7 @@ The insignia (_pontificalia_ or pontificals) of the Roman Catholic
 bishop are (1) a ring with a jewel, symbolizing fidelity to the church,
 (2) the pastoral staff, (3) the pectoral cross, (4) the vestments,
 consisting of the caligae, stockings and sandals, the tunicle, and
-purple gloves, (5) the mitre, symbol of the royal priesthood, (6) the
+purple [[Glove|gloves]], (5) the mitre, symbol of the royal priesthood, (6) the
 throne (cathedra), surmounted by a baldachin or canopy, on the gospel
 side of the choir in the cathedral church.
 
@@ -114,13 +114,13 @@ assisted by two or more bishops. The essential "form" of the
 consecration is in the simultaneous "laying on of hands" by the
 consecrating prelates. After this the new bishop, who has so far been
 vested only in a rochet, retires and puts on the rest of the episcopal
-habit, viz. the chimere. After consecration the bishop is competent to
+habit, viz. the [[Chimere|chimere]]. After consecration the bishop is competent to
 exercise all the spiritual functions of his office; but a bishopric in
-the Established Church, being a barony, is under the guardianship of the
+the Established Church, being a [[Barony|barony]], is under the guardianship of the
 crown during a vacancy, and has to be conferred afresh on each new
 holder. A bishop, then, cannot enter into the enjoyment of the
 temporalities of his see, including his rights of presentation to
-benefices, before doing homage to the king. This is done in the ancient
+benefices, before doing [[Homage|homage]] to the king. This is done in the ancient
 feudal form, surviving elsewhere only in the conferring of the M.A.
 degree at Cambridge. The bishop kneels before the king, places his hands
 between his, and recites an oath of temporal allegiance; he then kisses
@@ -133,16 +133,16 @@ exercise for the most part through their consistorial courts, or through
 commissioners appointed under the Church Discipline Act of 1840. By the
 Clergy Discipline Act of 1892 it was decreed that the trial of clerks
 accused of unfitness to exercise the cure of souls should be before the
-consistory court with five assessors. Under the Public Worship
+consistory court with five [[Assessor|assessors]]. Under the Public Worship
 Regulation Act of 1874, which gave to churchwardens and aggrieved
 parishioners the right to institute proceedings against the clergy for
-breaches of the law in the conduct of divine service, a discretionary
+[[Breach|breaches]] of the law in the conduct of divine service, a discretionary
 right was reserved to the bishop to stay proceedings.
 
 The bishops also exercise a certain jurisdiction over marriages,
 inasmuch as they have by the canons of the Church of England a power of
 dispensing with the proclamation of banns before marriage. These
-dispensations are termed marriage licences, and their legal validity is
+[[Dispensation|dispensations]] are termed marriage licences, and their legal validity is
 recognised by the Marriage Act of 1823. The bishops had formerly
 jurisdiction over all questions touching the validity of marriages and
 the status of married persons, but this jurisdiction has been
@@ -174,7 +174,7 @@ themselves of the sufficiency of each clerk within twenty-eight days,
 after which time, if they have not rejected him as insufficiently
 qualified, they are bound to institute him, or to license him, as the
 case may be, to the benefice, and thereupon to send their mandate to the
-archdeacon to induct him into the temporalities of the benefice. Where
+[[Archdeacon|archdeacon]] to induct him into the temporalities of the benefice. Where
 the bishop himself is patron of a benefice within his own diocese he is
 empowered to collate a clerk to it,--in other words, to confer it on the
 clerk without the latter being presented to him. Where the clerk himself
@@ -194,7 +194,7 @@ bishops of London and Durham, was passed in 1856, declaring that on the
 resignation of their sees being accepted by their respective
 metropolitans, those bishops should cease to sit as lords of parliament,
 and their sees should be filled up in the manner provided by law in the
-case of the avoidance of a bishopric. In 1869 the Bishops' Resignation
+case of the [[Avoidance|avoidance]] of a bishopric. In 1869 the Bishops' Resignation
 Act was passed. It provided that, on any bishop desiring to retire on
 account of age or incapacity, the sovereign should be empowered to
 declare the see void by an order in council, the retiring bishop of
@@ -220,7 +220,7 @@ England, is extended to all, whether suffragans or holders of colonial
 bishoprics, by courtesy.
 
 The insignia of the Anglican bishop are the rochet and the chimere, and
-the episcopal throne on the gospel side of the chancel of the cathedral
+the episcopal throne on the gospel side of the [[Chancel|chancel]] of the cathedral
 church. The use of the mitre, pastoral staff and pectoral cross, which
 had fallen into complete disuse by the end of the 18th century, has been
 now very commonly, though not universally, revived; and, in some cases,
@@ -235,7 +235,7 @@ In the Orthodox Church of the East and the various communions springing
 from it, the _potestas ordinis_ of the bishop is the same as in the
 Western Church. Among his qualifications the most peculiar is that he
 must be unmarried, which, since the secular priests are compelled to
-marry, entails his belonging to the "black clergy" or monks. The
+marry, [[Entail|entails]] his belonging to the "black clergy" or monks. The
 insignia of an oriental bishop, with considerable variation in form, are
 essentially the same as those of the Catholic West.
 
@@ -251,7 +251,7 @@ church to exercise jurisdiction in the remote towns and villages as
 these were converted from paganism. Their functions varied in different
 times and places, and by some it has been held that they were originally
 only presbyters. In any case, this class of bishops, which had been
-greatly curtailed in the East in A.D. 343 by the council of Laodicea,
+greatly curtailed in the East in A.D. 343 by the council of [[Laodicea]],
 was practically extinct everywhere by the 10th century. It survived
 longest in Ireland, where in 1152 a synod, presided over by the papal
 legate, decreed that, after the death of the existing holders of the
@@ -280,7 +280,7 @@ _auxiliares_) are those appointed to assist diocesan bishops in their
 pontifical functions when hindered by infirmity, public affairs or other
 causes. In the Roman Church the appointment of the suffragan rests with
 the pope, on the petition of the bishop, who must prove that such is the
-custom of the see, name a suitable priest and guarantee his maintenance.
+custom of the see, name a suitable priest and guarantee his [[Maintenance|maintenance]].
 The suffragan is given a title _in partibus_, but never that of
 archbishop, and the same title is never given to two suffragans in
 succession. In the Church of England the status of suffragan bishops was
@@ -305,7 +305,7 @@ to him by the commission, and no other.
 The title of bishop survived the Reformation in certain of the Lutheran
 churches of the continent, in Denmark, Norway, Finland, Sweden and
 Transylvania; it was temporarily restored in Prussia in 1701, for the
-coronation of King Frederick I., again between 1816 and 1840 by
+[[Coronation|coronation]] of King Frederick I., again between 1816 and 1840 by
 Frederick William III., and in Nassau in 1818. In these latter cases,
 however, the title bishop is equivalent to that of "superintendent," the
 form most generally employed. The Lutheran bishops, as a rule, do not
@@ -320,7 +320,7 @@ Protestant prince. From 1762 to 1802 it was held by Frederick, duke of
 York, the last prince-bishop. Similarly, the bishopric of Schwerin
 survived as a Protestant prince-bishopric until 1648, when it was
 finally secularized and annexed to Mecklenburg, and the see of Lubeck
-was held by Protestant "bishops" from 1530 till its annexation to
+was held by Protestant "bishops" from 1530 till its [[Annexation|annexation]] to
 Oldenburg in 1803.[1]
 
 In other Protestant communities, e.g. the Moravians, the Methodist
@@ -329,17 +329,17 @@ survived, or been created. Their functions and status will be found
 described in the accounts of the several churches.
 
   See Wetzer and Welte, _Kirchenlexikon_, s. "Bischof" and "Weihen";
-  Hinschius, _Kirchenrecht_, vol. ii.; Herzog-Hauck, _Realencyklopadie_,
+  [[Hinschius]], _Kirchenrecht_, vol. ii.; Herzog-Hauck, _Realencyklopadie_,
   s. "Bischof" (the author rather arbitrarily classes Anglican with
   Lutheran bishops as not bishops in any proper sense at all);
-  Phillimore's _Ecclesiastical Law_; the articles ORDER, HOLY;
-  VESTMENTS; ECCLESIASTICAL JURISDICTION; EPISCOPACY.     (W. A. P.)
+  Phillimore's _[[Ecclesiastical Law]]_; the articles ORDER, HOLY;
+  VESTMENTS; ECCLESIASTICAL JURISDICTION; [[Episcopacy|EPISCOPACY]].     (W. A. P.)
 
 
 FOOTNOTE:
 
   [1] The title prince-bishop, attached in Austria to the sees of
-    Laibach, Seckau, Gurk, Brixen, Trent and Lavant, and in Prussia to
+    [[Laibach]], Seckau, Gurk, [[Brixen]], Trent and Lavant, and in Prussia to
     that of Breslau, no longer implies any secular jurisdiction, but is
     merely a title of honour recognized by the state, owing either to the
     importance of the sees or for reasons purely historical.

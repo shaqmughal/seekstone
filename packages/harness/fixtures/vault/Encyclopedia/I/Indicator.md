@@ -1,10 +1,10 @@
 # Indicator
 
 INDICATOR (from Lat. _indicare_, to point out), that which points out or
-records. In engineering, the word is specifically given to a mechanical
+records. In [[Engineering|engineering]], the word is specifically given to a mechanical
 device for registering the pressure of the working fluid in an engine
 cylinder during a stroke of the piston, the record so provided being
-termed the "indicator diagram" (see STEAM-ENGINE). In chemistry, the
+termed the "indicator diagram" (see STEAM-ENGINE). In [[Chemistry|chemistry]], the
 word is generically applied to re-agents or chemicals which detect
 usually small quantities or traces of other substances; it is, however,
 more customarily restricted to re-agents which show whether a substance
@@ -15,7 +15,7 @@ Here we shall only deal with indicators in this last restricted sense.
 They were first systematically employed in analytical chemistry by
 Robert Boyle, who used the aqueous extracts of the coloured principles
 present in red-cabbage, violets and cornflowers. The indicator most in
-use to-day is litmus (q.v.), whose solution is turned red by an acid,
+use to-day is [[Litmus|litmus]] (q.v.), whose solution is turned red by an acid,
 and blue by an alkali. Several synthetic indicators are employed in
 acidimetry and alkalimetry. The choice is not altogether arbitrary, for
 experiments have shown that some are more suitable for acidimetry, while
@@ -38,10 +38,10 @@ acid; the change is only sharp with strong acids. Para-nitrophenol,
 obtained in the direct nitration of phenol, yields a colourless solution
 in the presence of acids, and an intense yellow with alkalis. Of more
 recent introduction are: alizarin red, I.W.S. (alizarin mono-sulphonic
-acid), claimed by G. E. Knowles (_Abst. J.C.S._, 1907, ii. 389) to be
+acid), claimed by G. E. [[Knowles]] (_Abst. J.C.S._, 1907, ii. 389) to be
 better than methyl orange in alkalimetry; 3-amino-2-methylquinoline, used
 by O. Stark (ibid. 1907, i. 974) in ammonia estimations;
-para-nitrobenzeneazo-a-naphthol, shown by J. T. Hewitt (_Analyst_, 1908,
+para-nitrobenzeneazo-a-naphthol, shown by J. T. [[Hewitt]] (_Analyst_, 1908,
 33, p. 85) to change from purple to yellow when alkalis are titrated with
 weak acids; para-dimethylaminoazobenzene-ortho-carboxylic acid, proposed
 by E. Rupp and R. Loose (_Ber._, 1908, 41, p. 3905) as very serviceable in
@@ -64,7 +64,7 @@ produced in the presence of the former.
   free hydrions, and an alkaline solution is one containing free
   hydroxidions. A neutral solution contains hydrions and hydroxidions in
   equal concentration; this is a consequence of the fact that pure water
-  itself undergoes a certain dissociation, and several different methods
+  itself undergoes a certain [[Dissociation|dissociation]], and several different methods
   show that in the purest water obtainable the concentration of the free
   hydrions and hydroxidions is 10^(-7) at 24°. Moreover, the law of
   mass-action (see CHEMICAL ACTION) demands that the product of the
@@ -79,7 +79,7 @@ produced in the presence of the former.
   value of about 2 - N, and the minimum occurs in 6.7 - N potassium
   hydroxide, where its value is 5 × 10^(-15), that of the hydroxidion
   being about 2 - N. These figures apply to a temperature of 24°.
-  Bearing in mind the concentration of the ions in a neutral solution,
+  Bearing in mind the concentration of the [[Ion|ions]] in a neutral solution,
   it is seen that a scheme of seven grades of "neutrality," differing by
   successive powers of ten, may be formulated. The concentration of
   hydrion and hydroxidion in any solution may be determined by several
@@ -101,7 +101,7 @@ produced in the presence of the former.
   varying concentrations of hydrion or hydroxidion is now to be
   considered. Ostwald formulated his ionization theory which assumes the
   change to be due to the transition of the non-dissociated indicator to
-  the ionized condition, which are necessarily of different colours. On
+  the ionized condition, which are necessarily of different [[Colours|colours]]. On
   this theory, an indicator must be weakly basic or acid, for if it were
   a strong acid or base high dissociation would occur when it was in the
   free state, and there would be no change of colour when the solution

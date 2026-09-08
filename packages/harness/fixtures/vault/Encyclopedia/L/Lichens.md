@@ -6,7 +6,7 @@ filamentous, alga. The fungal part of the organism nearly always
 consists of a number of the _Discomycetes_ or _Pyrenomycetes_, while the
 algal portion is a member of the Schizophyceae (Cyanophyceae or
 Blue-green Algae) or of the Green Algae; only in a very few cases is the
-fungus a member of the Basidiomycetes. The special fungi which take part
+fungus a member of the Basidiomycetes. The special [[Fungi|fungi]] which take part
 in the association are, with rare exceptions, not found growing
 separately, while the algal forms are constantly found free. The
 reproductive organs of the lichen are of a typically fungal character,
@@ -20,7 +20,7 @@ situations where neither the alga nor fungus could exist alone. The
 enclosed alga is protected by the threads (hyphae) of the fungus, and
 supplied with water and salts and, possibly, organic nitrogenous
 substances; in its turn the alga by means of its green or blue-green
-colouring matter and the sun's energy manufactures carbohydrates which
+colouring matter and the sun's energy manufactures [[Carbohydrate|carbohydrates]] which
 are used in part by the fungus. An association of two organisms to their
 mutual advantage is known as _symbiosis_, and the lichen in botanical
 language is described as a symbiotic union of an alga and a fungus. This
@@ -62,7 +62,7 @@ The view of the dual nature of lichens had hitherto been based on
 analysis; the final proof of this view was now supplied by the actual
 _synthesis_ of a lichen from fungal and algal constituents. Rees in 1871
 produced the sterile thallus of a _Collema_ from its constituents; later
-Stahl did the same for three species. Later Bonnier (1886) succeeded in
+Stahl did the same for three species. Later [[Bonnier]] (1886) succeeded in
 producing fertile thalli by sowing lichen spores and the appropriate
 algae upon sterile glass plates or portions of bark, and growing them in
 sterilized air (fig. 1). Möller also in 1887 succeeded in growing small
@@ -90,7 +90,7 @@ into one another, and the distinction is not of classificatory value.
   From Strasburger's _Lehrbuch der Botanik_, by permission of Gustav
   Fischer.
 
-  FIG. 1.--_Xanthoria parietina._ By the fusion of the hyphae in the
+  FIG. 1.--_Xanthoria parietina._ By the [[Fusion|fusion]] of the hyphae in the
   middle of the mycelium a pseudo-parenchymatous cortical layer has
   begun to form.
 
@@ -117,13 +117,13 @@ into one another, and the distinction is not of classificatory value.
   _Placodium_), areolate, granulose or pulverulent (in various
   _Lecanorae_ and _Lecideae_). (d) The _hypophloeodal_ thallus is often
   concealed beneath the bark of trees (as in some _Verrucariae_ and
-  _Arthoniae_), or enters into the fibres of wood (as in _Xylographa_
+  _Arthoniae_), or enters into the [[Fibres|fibres]] of wood (as in _Xylographa_
   and _Agyrium_), being indicated externally only by a very thin film
   (figs. 3, 4, 5, 6, 7 and 8). In colour also the thallus externally is
   very variable. In the dry and more typical state it is most frequently
   white or whitish, and almost as often greyish or greyish glaucous.
   Less commonly it is of different shades of brown, red, yellow and
-  black. In the moist state of the thallus these colours are much less
+  black. In the moist state of the thallus these [[Colours|colours]] are much less
   apparent, as the textures then become more or less translucent, and
   the thallus usually prevents the greenish colour of the gonidia (e.g.
   _Parmelia Borreri_, _Peltidea aphthosa_, _Umbilicaria pustulata_ and
@@ -326,7 +326,7 @@ germination, with the appropriate algal component.
   also there is considerable evidence for their original sexual nature,
   though they appear in that group to be functionless in all cases. The
   observations of Möller, &c., on the germination cannot be assumed to
-  negative the sexual hypothesis for the sexual cells of _Ulothrix_ and
+  negative the sexual [[Hypothesis|hypothesis]] for the sexual cells of _Ulothrix_ and
   _Ectocarpus_, for example are able to develop with or without fusion.
   The most satisfactory view in the present state of our knowledge seems
   to be that the spermatia are male cells which, while retaining their
@@ -374,7 +374,7 @@ constant in form and since the gonidia take no part in the formation of
 this organ or that of the apothecium it has the general structure
 characteristic of that division of fungi. The apothecia, though of the
 normal fungal type and usually disk-shaped, are somewhat more variable,
-and since the variations are of value in classification some more
+and since the variations are of value in [[Classification|classification]] some more
 details may be added.
 
 [Illustration: After Schwendener, from De Bary's _Vergleichende
@@ -624,7 +624,7 @@ before bearing apothecia. This slowness of growth is associated with
 great length of life and it is probable that individuals found growing
 on hard mountain rocks or on the trunks of aged trees are many hundreds
 of years old. It is possible that specimens of such long-lived species
-as _Lecidea geographica_ actually outrival in longevity the oldest
+as _Lecidea geographica_ actually outrival in [[Longevity|longevity]] the oldest
 trees.
 
 
@@ -653,12 +653,12 @@ They also differ very markedly from free living fungi in their chemical
 reactions.
 
 
-_Chemistry of Lichens._
+_[[Chemistry]] of Lichens._
 
   The chemistry of lichens is very complex, not yet fully investigated
   and can only be very briefly dealt with here. The wall of the hyphae
   of the fungus give in the young state the ordinary reactions of
-  cellulose but older material shows somewhat different reactions,
+  [[Cellulose|cellulose]] but older material shows somewhat different reactions,
   similar to those of the so-called fungus-cellulose. In many
   lichen-fungi the wall shows various chemical modifications. In
   numerous lichens, e.g. _Cetraria islandica_, the wall contains
@@ -676,7 +676,7 @@ _Chemistry of Lichens._
   colouring which is usually due to the incrustation of the hyphae with
   crystalline excretory products. These excretory products have usually
   an acid nature and hence are generally known as lichen-acids. A large
-  number of these acids, which are mostly benzene derivatives, have been
+  number of these acids, which are mostly [[Benzene|benzene]] derivatives, have been
   isolated and more or less closely investigated. They are characterized
   by their insolubility or very slight solubility in water; as examples
   may be mentioned erythrinic acid in _Roccella_ and _Lecanora_; evernic
@@ -689,9 +689,9 @@ _Chemistry of Lichens._
   unique in the fact that chemical colour reactions are used by many
   lichenologists in the discrimination of species, and these reactions
   are included in the specific diagnoses. The substances used as tests
-  in these reactions are caustic potash and calcium hypochlorite; the
+  in these reactions are [[Caustic|caustic]] potash and calcium hypochlorite; the
   former being the substance dissolved in an equal weight of water and
-  the latter a saturated extract of bleaching powder in water. These
+  the latter a saturated extract of [[Bleaching|bleaching]] powder in water. These
   substances are represented by lichenologists by the signs K and CaCl
   respectively, and the presence or absence of the colour reactions are
   represented thus, K+, CaCl+, or K-, CaCl-. If the cortical layer
@@ -723,14 +723,14 @@ formerly.
 
 1. _Lichens Used in the Arts._--Of these the most important are such as
 yield, by maceration in ammonia, the dyes known in commerce as archil,
-cudbear and litmus. These, however, may with propriety be regarded as
+cudbear and [[Litmus|litmus]]. These, however, may with propriety be regarded as
 but different names for the same pigmentary substance, the variations in
 the character of which are attributable to the different modes in which
 the pigments are manufactured. Archil proper is derived from several
 species of _Roccella_ (e.g. _R. Montaguei_, _R. tinctoria_), which yield
 a rich purple dye; it once fetched a high price in the market. Of
 considerable value is the "perelle" prepared from _Lecanora parella_,
-and used in the preparation of a red or crimson dye. Inferior to this is
+and used in the preparation of a red or [[Crimson|crimson]] dye. Inferior to this is
 "cudbear," derived from _Lecanora tartarea_, which was formerly very
 extensively employed by the peasantry of north Europe for giving a
 scarlet or purple colour to woollen cloths. By adding certain alkalies
@@ -745,7 +745,7 @@ _Platysma juniperinum_, _Parmelia caperata_ and _P. conspersa_, _Physcia
 flavicans_, _Ph. parietina_ and _Ph. lychnea_, though like the preceding
 they do not form articles of commerce, being merely used locally by the
 natives of the regions in which they occur most plentifully. In addition
-to these, many exotic lichens, belonging especially to _Parmelia_ and
+to these, many [[Exotic|exotic]] lichens, belonging especially to _Parmelia_ and
 _Sticta_ (e.g. _Parmelia tinctorum_, _Sticta argyracea_), are rich in
 colouring matter, and, if obtained in sufficient quantity, would yield a
 dye in every way equal to archil. These pigments primarily depend upon
@@ -753,7 +753,7 @@ special acids contained in the thalli of lichens, and their presence may
 readily be detected by means of the reagents already noticed. In the
 process of manufacture, however, they undergo various changes, of which
 the chemistry is still but little understood. At one time also some
-species were used in the arts for supplying a gum as a substitute for
+species were used in the arts for supplying a [[Gum|gum]] as a substitute for
 gum-arabic. These were chiefly _Ramalina fraxinea_, _Evernia prunastri_
 and _Parmelia physodes_, all of which contain a considerable proportion
 of gummy matter (of a much inferior quality, however, to gum-arabic),
@@ -770,7 +770,7 @@ respect has long since been abandoned.
 many species for supplying food for man and beast. This results from
 their containing starchy substances, and in some cases a small quantity
 of saccharine matter of the nature of mannite. One of the most useful
-nutritious species is _Cetraria islandica_, "Iceland moss," which, after
+nutritious species is _Cetraria islandica_, "[[Iceland Moss|Iceland moss]]," which, after
 being deprived of its bitterness by boiling in water, is reduced to a
 powder and made into cakes, or is boiled and eaten with milk by the poor
 Icelander, whose sole food it often constitutes. Similarly _Cladonia
@@ -779,9 +779,9 @@ frequently eaten by man in times of scarcity, after being powdered and
 mixed with flour. Their chief importance, however, is that in Lapland
 and other northern countries they supply the winter food of the reindeer
 and other animals, who scrape away the snow and eagerly feed upon them.
-Another nutritious lichen is the "Tripe de Roche" of the arctic regions,
+Another nutritious lichen is the "Tripe de Roche" of the [[Arctic|arctic]] regions,
 consisting of several species of the _Gyrophorei_, which when boiled is
-often eaten by the Canadian hunters and Red Indians when pressed by
+often eaten by the Canadian [[Hunter|hunters]] and Red Indians when pressed by
 hunger. But the most singular esculent lichen of all is the "manna
 lichen," which in times of drought and famine has served as food for
 large numbers of men and cattle in the arid steppes of various countries
@@ -793,23 +793,23 @@ use as food we may observe that of recent years in Scandinavia and
 Russia an alcoholic spirit has been distilled from _Cladonia
 rangiferina_ and extensively consumed, especially in seasons when
 potatoes were scarce and dear. Formerly also _Sticta pulmonaria_ was
-much employed in brewing instead of hops, and it is said that a Siberian
-monastery was much celebrated for its beer which was flavoured with the
+much employed in brewing instead of [[Hop|hops]], and it is said that a Siberian
+monastery was much celebrated for its [[Beer|beer]] which was flavoured with the
 bitter principle of this species.
 
 3. _Medicinal Lichens._--During the middle ages, and even in some
 quarters to a much later period, lichens were extensively used in
-medicine in various European countries. Many species had a great repute
+medicine in various [[European Countries|European countries]]. Many species had a great repute
 as demulcents, febrifuges, astringents, tonics, purgatives and
 anthelmintics. The chief of those employed for one or other, and in
 some cases for several, of these purposes were _Cladonia pyxidata_,
 _Usnea barbata_, _Ramalina farinacea_, _Evernia prunastri_, _Cetraria
 ìslandica_, _Sticla pulmonaria_, _Parmelia saxatilis_, _Xanthoria
 parietina_ and _Pertusaria amara_. Others again were believed to be
-endowed with specific virtues, e.g. _Peltigera canina_, which formed the
-basis of the celebrated "pulvis antilyssus" of Dr Mead, long regarded as
+endowed with specific virtues, e.g. _Peltigera [[Canina|canina]]_, which formed the
+basis of the celebrated "pulvis antilyssus" of Dr [[Mead]], long regarded as
 a sovereign cure for hydrophobia; _Platysma juniperinum_, lauded as a
-specific in jaundice, no doubt on the _similia similibus_ principle from
+specific in [[Jaundice|jaundice]], no doubt on the _similia similibus_ principle from
 a resemblance between its yellow colour and that of the jaundiced skin;
 _Peltidea aphthosa_, which on the same principle was regarded by the
 Swedes, when boiled in milk, as an effectual remedy for the _aphthae_ or
@@ -841,7 +841,7 @@ his followers, who did not accept the Schwenderian doctrine of duality.
 In actual practice the difference between the second and third methods
 is not very great since the fungus is the producer of the reproductive
 organs and generally the main constituent. Most systems agree in
-deriving the major divisions from the characters of the reproductive
+deriving the [[Major|major]] divisions from the characters of the reproductive
 organs (perithecia, apothecia, or basidiospore bearing fructification),
 while the characters of the algal cells and those of the thallus
 generally are used for the minor divisions. The difference between the
@@ -957,7 +957,7 @@ however, as is known, they are very limited in number (e.g. _Lecidea_,
 _Bouteillei_, _Strigula_).
 
 Sometimes various lichens occur abnormally in such unexpected habitats
-as dried dung of sheep, bleached bones of reindeer and whales, old
+as dried dung of sheep, bleached [[Bone|bones]] of reindeer and whales, old
 leather, iron and glass, in districts where the species are abundant. It
 is apparent that in many cases lichens are quite indifferent to the
 substrata on which they occur, whence we infer that the preference of
@@ -1006,7 +1006,7 @@ In intertropical regions lichens attain their maximum development (and
 beauty) in the foliaceous _Stictei_ and _Parmeliei_, while they are
 especially characterized by epiphyllous species, as _Strigula_, and by
 many peculiar corticole _Thelotremei_, _Graphidei_ and _Pyrenocarpei_.
-Some lichens, especially saxicolous ones, seem to be cosmopolitan (e.g.
+Some lichens, especially saxicolous ones, seem to be [[Cosmopolitan|cosmopolitan]] (e.g.
 _Lecanora subfusca_, _Cladonia pyxidata_); and others, not strictly
 cosmopolitan, have been observed in regions widely apart. A considerable
 number of species, European and exotic, seem to be _endemic_, but
@@ -1028,7 +1028,7 @@ lichens would necessarily far exceed available limits.
   A. Famintzin and J. Baranetzky, "Zur Entwicklungsgeschichte der
   Gonidien u. Zoosporenbildung der Lichenen," _Bot. Zeit._ (1867, p.
   189, 1868, p. 169); S. Schwendener, _Die Algentypen der
-  Flechtengonidien_ (Basel, 1869); A. Möller, _Über die Kultur
+  Flechtengonidien_ ([[Basel]], 1869); A. Möller, _Über die Kultur
   flechtenbildender Ascomyceten ohne Algen_. (Münster, 1887). Sexuality:
   E. Stahl, _Beiträge zur Entwickelungsgeschichte der Flechten_
   (Leipzig, 1877); G. Lindau, _Über Anlage und Entwickelung einiger
@@ -1040,7 +1040,7 @@ lichens would necessarily far exceed available limits.
   Apothecium-entwickelung der Flechte, Physcia pulverulenta," _Nyl.
   Prings. Jahrb._ (Bd. 34, 1900). Chemistry.--W. Zopf, "Vergleichende
   Produkte," _Beitr. z. bot. Centralbl._ (Bd. 14, 1903); _Die
-  Flechtenstoffe_ (Jena, 1907).     (J. M. C; V. H. B.)
+  Flechtenstoffe_ ([[Jena]], 1907).     (J. M. C; V. H. B.)
 
 
 FOOTNOTE:

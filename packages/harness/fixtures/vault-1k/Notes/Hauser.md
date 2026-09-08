@@ -21,7 +21,7 @@ name as Kaspar Hauser, and said that he wished to be a cavalry officer
 like his father. For some time he was detained in prison at Nuremberg as
 a vagrant, but on the 18th of July 1828 he was delivered over by the
 town authorities to the care of a schoolmaster, Professor Daumer, who
-undertook to be his guardian and to take the charge of his education.
+undertook to be his [[Guardian|guardian]] and to take the charge of his education.
 Further mysteries accumulated about Kaspar's personality and conduct,
 not altogether unconnected with the vogue in Germany, at that time, of
 "animal magnetism," "somnambulism," and similar theories of the occult
@@ -36,7 +36,7 @@ After this he became clerk in the office of Paul John Anselm von
 Feuerbach, president of the court of appeal, who had begun to pay
 attention to his case in 1828; and his strange history was almost
 forgotten by the public when the interest in it was suddenly revived by
-his receiving a deep wound on his left breast, on the 14th of December
+his receiving a deep wound on his left [[Breast|breast]], on the 14th of December
 1833, and dying from it three or four days afterwards. He affirmed that
 the wound was inflicted by a stranger, but many believed it to be the
 work of his own hand, and that he did not intend it to be fatal, but
@@ -50,7 +50,7 @@ and ended by being accused of contriving his death!
   nicht unwahrscheinlich ein Betruger_; but the truthfulness of his
   statements was defended by Daumer, who published _Mitteilungen uber
   Kaspar Hauser_ (Nuremberg, 1832), and _Enthullungen uber Kaspar
-  Hauser_ (Frankfort, 1859); as well as _Kaspar Hauser, sein Wesen,
+  Hauser_ ([[Frankfort]], 1859); as well as _Kaspar Hauser, sein Wesen,
   seine Unschuld_, &c. (Regensburg, 1873), in answer to Meyer's (a son
   of Kaspar's tutor) _Authentische Mitteilungen uber Kaspar Hauser_
   (Ansbach, 1872). Feuerbach awakened considerable psychological

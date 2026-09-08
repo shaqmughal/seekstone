@@ -18,12 +18,12 @@ Zeus bestowed upon her the honour of presiding over all sacrifices. To
 her the opening sacrifice was offered; to her at the sacrificial meal
 the first and last libations were poured. The fire of Hestia was always
 kept burning, and, if by any accident it became extinct, only sacred
-fire produced by friction, or by burning glasses drawing fire from the
+fire produced by [[Friction|friction]], or by burning glasses drawing fire from the
 sun, might be used to rekindle it. Hestia is the goddess of the family
 union, the personification of the idea of home; and as the city union is
 only the family union on a large scale, she was regarded as the goddess
 of the state. In this character her special sanctuary was in the
-prytaneum, where the common hearth-fire round which the magistrates meet
+prytaneum, where the common hearth-fire round which the [[Magistrate|magistrates]] meet
 is ever burning, and where the sacred rites that sanctify the concord of
 city life are performed. From this fire, as the representative of the
 life of the city, intending colonists took the fire which was to be
@@ -36,7 +36,7 @@ domestic life on the one hand, and business and outdoor life on the
 other; or, according to others, the association is local--that of the
 god of boundaries with the goddess of the house. In later philosophy
 Hestia became the hearth of the universe--the personification of the
-earth as the centre of the universe, identified with Cybele and Demeter.
+earth as the centre of the universe, identified with [[Cybele]] and Demeter.
 As Hestia had her home in the prytaneum, special temples dedicated to
 her are of rare occurrence. She is seldom represented in works of art,
 and plays no important part in legend. It is not certain that any really

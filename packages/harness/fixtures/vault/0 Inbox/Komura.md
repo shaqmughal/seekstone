@@ -9,7 +9,7 @@ tags: [geography, philosophy]
 # Komura
 
 KOMURA, JUTARO, COUNT (1855-   ), Japanese statesman, was born in Hiuga.
-He graduated at Harvard in 1877, and entered the foreign office in Tokyo
+He graduated at Harvard in 1877, and entered the [[Foreign Office|foreign office]] in Tokyo
 in 1884. He served as chargé d'affaires in Peking, as Japanese minister
 in Seoul, in Washington, in St Petersburg, and in Peking (during the
 Boxer trouble), earning in every post a high reputation for diplomatic
@@ -23,8 +23,8 @@ year were concluded. For these services, and for negotiating the second
 Anglo-Japanese alliance, he received the Japanese title of count and was
 made a K.C.B. by King Edward VII. He resigned his portfolio in 1906 and
 became privy councillor, from which post he was transferred to the
-embassy in London, but he returned to Tokyo in 1908 and resumed the
-portfolio of foreign affairs in the second Katsura cabinet.
+[[Embassy|embassy]] in London, but he returned to Tokyo in 1908 and resumed the
+portfolio of foreign affairs in the second [[Katsura]] [[Cabinet|cabinet]].
 
 
 
@@ -35,7 +35,7 @@ ornamented building--externally at least--in the whole world." It was
 erected in the middle of the 13th century, and was dedicated to the
 sun-god. It consisted of a tower, probably once over 180 ft. high, with
 a porch in front 140 ft. high, sculptured with figures of lions,
-elephants, horses, &c.
+[[Elephant|elephants]], horses, &c.
 
 ## See also
 

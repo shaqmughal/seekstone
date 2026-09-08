@@ -19,7 +19,7 @@ has a mild, humid climate, and is set in the midst of orchards and
 gardens. It is the see of a bishop and has a large number of churches
 and convents, and many substantial residences. Ibarra has manufactures
 of cotton and woollen fabrics, hats, sandals (_alpargates_), sacks and
-rope from _cabulla_ fibre, laces, sugar and various kinds of distilled
+rope from _cabulla_ fibre, [[Lace|laces]], sugar and various kinds of distilled
 spirits and cordials made from the sugar-cane grown in the vicinity.
 Mules are bred for the Colombian markets of Pasto and Popayan. Ibarra
 was founded in 1597 by Alvaro de Ibarra, the president of Quito. It has

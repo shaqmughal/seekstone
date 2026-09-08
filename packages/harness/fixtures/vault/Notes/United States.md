@@ -17,14 +17,14 @@ in the project of a number of the citizens of Philadelphia to supply the
 continental army with rations. The first bills, issued in 1780, were
 nothing more than interest-bearing notes payable at a future time. The
 advances in continental money made by the shareholders were secured by
-bills of exchange for £150,000, drawn on the American envoys in Europe, but
+bills of [[Exchange|exchange]] for £150,000, drawn on the American envoys in Europe, but
 not intended to be negotiated.
 
 A further outgrowth of the needs of the continental government was the Bank
 of North America, which was authorized by congress on May 26, 1781. The act
 gave to Robert Morris, the financier, power to create a bank with a capital
 of $400,000, to be increased if desirable. Morris arranged with the Bank of
-Pennsylvania to take over its holdings of foreign bills and paid in cash
+Pennsylvania to take over its holdings of foreign bills and paid in [[Cash|cash]]
 its claims against the Federation. The Bank of North America did not begin
 business until the 7th of January 1782, and there was so much doubt of the
 power of the continental congress to charter a bank that it was thought
@@ -34,14 +34,14 @@ banking system in 1863, and it may be considered the oldest organized
 banking institution in the United States.
 
 The bank did much, during the first eight years after its organization, to
-restore order to the chaos of Federation finances. It loaned to Morris, as
+restore order to the [[Chaos|chaos]] of Federation finances. It loaned to Morris, as
 government superintendent of finance, $1,249,975, of which $996,581 was
 repaid in cash and the remainder by surrendering the stock in the bank
 owned by the government.
 
 _The Bank of the United States._--A national bank of issue was one of the
 essential parts of the system built up by Alexander Hamilton in organizing
-the finances of the Federal government under the constitution of 1789. The
+the finances of the [[Federal Government|Federal government]] under the constitution of 1789. The
 first "Bank of the United States" was accordingly incorporated in 1791,
 with a capital of $10,000,000, divided into 25,000 shares of $400 each.
 This bank issued circulating notes, discounted commercial paper and aided
@@ -53,7 +53,7 @@ carried the obligation by the end of 1795 to $6,200,000. In order to meet
 these obligations, the government gradually disposed of its bank stock,
 until by 1802 its entire holdings had been disposed of at a profit of
 $671,860. The bank did not publish regular reports, but a statement
-submitted by Gallatin to congress for January 24, 1811, showed resources of
+submitted by [[Gallatin]] to congress for January 24, 1811, showed resources of
 $24,183,046, of which $14,578,294 was in loans and discounts, $2,750,000 in
 United States stock and $5,009,567 in specie.
 
@@ -84,10 +84,10 @@ was authorized to appoint five of the twenty-five directors and public
 funds were to be deposited in the bank, "unless the secretary of the
 treasury shall at any time otherwise order and direct." The right of
 congress to charter the bank came before the Supreme Court in 1819 in the
-famous case of _McCulloch_ v. _Maryland_. Chief Justice Marshall rendered
+famous case of _McCulloch_ v. _Maryland_. Chief Justice [[Marshall]] rendered
 the decision that the right to create the bank was within the implied
 powers granted by the Federal constitution, and that it was not competent
-for the states to levy taxes upon the circulating notes of the bank or upon
+for the states to [[Levy|levy]] taxes upon the circulating notes of the bank or upon
 its property except in common with other property.
 
 The second Bank of the United States was not well managed in the early part
@@ -106,7 +106,7 @@ payment to the government, and payments to individuals in business."
 
 The bank in 1835 had attained a circulation of $23,075,422; loans of
 $59,232,445; and deposits of $5,061,456. The institution was ultimately
-destroyed by the open enmity of President Jackson, who in 1833 had
+destroyed by the open enmity of President [[Jackson]], who in 1833 had
 suspended the deposit of public money in its custody. This policy known as
 the "removal of the deposits," excited a bitter political controversy in
 which Clay and Webster led the opposition, but Jackson was supported by the
@@ -131,7 +131,7 @@ followed by a banking mania. In Pennsylvania a bill authorizing 41 new
 banks was passed over the veto of the governor, and 37 of them were in
 operation in 1814. Similar movements in other states increased the number
 of banks in four years (1811-1815) from 88 to 208. The amount of specie was
-not adequate to support the mass of credit which these banks created, and
+not adequate to support the mass of [[Credit|credit]] which these banks created, and
 what there was in the country drifted to New England, which was upon a
 metallic basis. A number of banks collapsed in 1814, and business
 prostration was prolonged for several years.
@@ -143,7 +143,7 @@ system prevailed which required the prompt redemption of the banks' notes
 at par. The New England Bank was the pioneer of this movement in 1814. In
 1824 what was known as the "Suffolk system" of redemption came into
 operation. This system provided for the deposit by a bank in the Suffolk
-Bank in Boston of a redemption fund, from which the notes were redeemed and
+Bank in [[Boston]] of a redemption fund, from which the notes were redeemed and
 afterwards sent home by the Suffolk Bank for collection. This system, with
 slight modifications, continued in successful operation until 1858. The
 circulation of the New England banks in 1858 was less than $40,000,000 and
@@ -161,7 +161,7 @@ The period from 1836 to 1842 was a trying one for American banking. It was
 preceded by another great expansion in financial ventures, made without
 sufficient circulating capital or adherence to conservative banking
 methods. Foreign capital had come into the country in considerable amounts
-after the English crisis of 1825, the entire debt of the general government
+after the English crisis of 1825, the entire [[Debt|debt]] of the general government
 was paid off and a tremendous speculation occurred in public lands, which
 were expected to advance rapidly in value as the result of immigration and
 the growth of the country. The sales of public lands in 1836, on the eve of
@@ -174,8 +174,8 @@ be made only in specie or notes of specie value. Practically every bank in
 the Union stopped payment, and banking capital fell from $358,442,692 in
 1840 to $196,894,309 in 1846. As usual in periods of business collapse the
 shrinkage of capital did not follow at once the outbreak of the panic, but
-was the result of gradual liquidation. Specie payments were resumed in
-1838, but there was another crash in 1842, after the United States Bank
+was the result of [[Gradual|gradual]] liquidation. Specie payments were resumed in
+1838, but there was another [[Crash|crash]] in 1842, after the United States Bank
 finally suspended.
 
 In New York, which was becoming the chief commercial state of the Union,
@@ -197,7 +197,7 @@ the requirements of the law, to form a bank and issue circulation secured
 by the deposit of various classes of public bonds. This system was in
 operation at the outbreak of the Civil War, was imitated in several other
 states, and became in a measure the model of the national banking system.
-The state banks of Indiana and Ohio were among the most successful of the
+The state banks of [[Indiana]] and Ohio were among the most successful of the
 state banks, being modelled somewhat on the European plan of a central
 bank. They held in their states an exclusive charter for issuing notes and
 had branches at important points throughout the state. Under the management
@@ -208,7 +208,7 @@ and retired its circulation when gold went to a premium in 1862.
 One of the defects of the state system of note-issues was the inconvenience
 which it occasioned. Notes issued outside a state could not safely be
 received without careful scrutiny as to the responsibility of their
-issuers. The systems prevailing in New England, in Louisiana, in Ohio and
+issuers. The systems prevailing in New England, in [[Louisiana]], in Ohio and
 in Indiana were eminently successful, and proved the soundness of the issue
 of bank-notes upon the assets of a well-conducted commercial bank. But the
 speculation fostered by loose banking laws in some other states, and the
@@ -222,7 +222,7 @@ not attained its full development. Thus in 1835 circulation and capital of
 state banks combined were about $335,000,000 and deposits were only
 $83,000,000, in 1907 circulation and capital of national banks
 $1,430,000,000, while deposits were $4,322,000,000--in the earlier period
-deposits forming less than one-third of the other two items and in the
+deposits forming less than one-third of the other two [[Item|items]] and in the
 later period three times the other items. The circulation of the state
 banks fluctuated widely at different periods. A maximum of $149,185,890 was
 attained in 1837, to decline to $106,968,572 three years later and to a
@@ -252,7 +252,7 @@ years are as follows:--
 
 _The National Banking System._--The creation of the national banking system
 was mainly the outcome of the financial necessities of the Federal
-government in the Civil War. It was found difficult to float government
+government in the Civil War. It was found difficult to [[Float|float]] government
 bonds at profitable rates, and Mr Chase, the secretary of the treasury,
 devised the scheme of creating a compulsory market for the bonds by
 offering special privileges to banks organized under Federal charters,
@@ -315,7 +315,7 @@ the treasury for the redemption of these notes would have exhausted the
 gold funds laboriously accumulated by secretary Sherman and compelled a new
 suspension. But the banks appointed a committee to co-operate with the
 treasury, declined to receive gold longer as a special deposit, and
-resolved to receive and pay balances without discrimination between gold
+resolved to receive and pay [[Balance|balances]] without discrimination between gold
 and government notes. Thus resumption was accomplished without jar, and as
 early as the 17th of December 1878 gold sold at par in paper.
 
@@ -323,7 +323,7 @@ The silver legislation enacted by Congress in 1878 and 1890 caused
 uneasiness in banking circles, and the banks discriminated against silver
 dollars and silver certificates in their cash. When the treasury began to
 lose gold heavily, however, in 1893, a combination of leading bankers in
-New York, Boston, Philadelphia, Baltimore and Chicago turned over a large
+New York, Boston, Philadelphia, Baltimore and [[Chicago]] turned over a large
 part of their holdings to replenish the government reserves. About 150
 national banks suspended during the panic of 1893, but 84 of these
 afterwards resumed business. As in former periods of depression, the system
@@ -347,7 +347,7 @@ $328,198,613; in 1902, $335,783,189; in 1903, $380,650,821; in 1904,
 $424,530,581; in 1905, $490,037,806; in 1906, $536,933,169; and in 1907
 $562,727,614.
 
-The lowest denomination of national bank-notes authorized by law is $5, and
+The lowest [[Denomination|denomination]] of national bank-notes authorized by law is $5, and
 not more than one-third of any bank's issues can be of this denomination.
 The government issues notes for $1 and $2, as well as for higher
 denominations. The largest amount of bank-notes of one denomination is in
@@ -363,7 +363,7 @@ low as $25,000, in places having a population not in excess of 3000. The
 previous minimum limit had been $50,000. Under this provision there were
 incorporated to the 31st of October 1907 2389 national banks with capitals
 of less than $50,000, with aggregate capital of $62,312,500, of which 272
-banks were conversions of state and private institutions, 752 were
+banks were [[Conversion|conversions]] of state and private institutions, 752 were
 reorganizations and 1365 were new institutions.
 
 The national banks possess most of the powers of commercial banks, but are
@@ -400,7 +400,7 @@ failures as occurred in 1893.
 Payment of cheques in currency was suspended in New York on the 28th of
 October 1907, and continued until about the beginning of the year 1908. The
 panic was precipitated by over-speculation by a group of national banks,
-followed by the suspension of the Knickerbocker Trust Company on the 22nd
+followed by the suspension of the [[Knickerbocker]] Trust Company on the 22nd
 of October with deposits of $48,000,000. Then came runs on other companies,
 a deficit in the required reserves of New York banks of $38,838,825 in the
 week of 2nd November, and arrangements for the importation of foreign gold
@@ -514,7 +514,7 @@ $44,859,000,000.
 
 The system of clearing cheques has attained a higher development in the
 United States than in any other country, except perhaps, Great Britain.
-Clearing-houses exist in about 112 leading cities, and the aggregate
+[[Clearing-House|Clearing-houses]] exist in about 112 leading cities, and the aggregate
 clearings for the year ending 30th September 1907 reached $154,662,515,258.
 The New York Clearing-House inevitably does a large proportion of this
 business; its clearings constituted in 1906 67.2% of the total clearings in
@@ -556,7 +556,7 @@ aid in emergencies to a bank which is unwisely conducted. This power was
 used in the panic of 1907 to eliminate several important, but speculative,
 financial interests from control of national banks. Only national and state
 banks and the sub-Treasury were members of the Clearing-House at this time.
-Their weekly reports of condition were awaited every Saturday as an index
+Their weekly reports of condition were awaited every Saturday as an [[Index|index]]
 of the state of the money-market and the exchanges; but this index was
 incomplete and sometimes misleading, because regular weekly reports were
 not made by trust companies. It was announced early in 1908 by the state
@@ -565,14 +565,14 @@ law to require weekly reports in future from trust companies, so that the
 two classes of reports would present a substantially complete mirror of
 banking conditions in New York.
 
-AUTHORITIES.--William M. Gouge, _A History of Paper Money and Banking in
+AUTHORITIES.--William M. [[Gouge]], _A History of Paper Money and Banking in
 the United States_ (Philadelphia, 1833); Condy Raguet, _A Treatise on
 Currency and Banking_ (Philadelphia, 1840); J. S. Gibbons, _The Banks of
 New York, their Dealers, the Clearing-House and the Panic of 1857_ (New
-York, 1858); Albert S. Bolles. _Financial History of the United States_ (3
+York, 1858); Albert S. [[Boll|Bolles]]. _Financial History of the United States_ (3
 vols., New York, 1884-1886); Charles F. Dunbar, _Chapters on the Theory and
 History of Banking_ (New York and London, 1891); Horace White, _Money and
-Banking_ (Boston, 1902); Charles A. Conant, _A History of Modern Banks of
+Banking_ (Boston, 1902); Charles A. [[Conant]], _A History of Modern Banks of
 Issue_ (New York, 1896); Alexander D. Noyes, _Thirty Years of American
 Finance_ (New York, 1898); Davis Rich Dewey, _Financial History of the
 United States_ (New York and London, 1903); John C. Schwab, _The
@@ -581,10 +581,10 @@ _The Independent Treasury of the United States_ (New York, 1893); _Report
 of the Monetary Commission of the Indianapolis Convention_ (Chicago, 1898);
 Charles A. Conant, _The Principles of Money and Banking_ (2 vols., New
 York, 1905); William G. Sumner, _A History of American Currency_ (New York,
-1884); Amos Kidder Fiske, _The Modern Bank_ (New York, 1904); William G.
+1884); Amos Kidder [[Fiske]], _The Modern Bank_ (New York, 1904); William G.
 Sumner, _A History of Banking in the United States_ (New York, 1896), being
-vol. i. in _A History of Banking in All the Leading Nations_; John Jay
-Knox, _History of Banking in the United States_ (rev. ed., New York, 1900);
+vol. i. in _A History of Banking in All the Leading Nations_; John [[Jay]]
+[[Knox]], _History of Banking in the United States_ (rev. ed., New York, 1900);
 and R. C. H. Catterall, _The Second Bank of the United States_ (Chicago,
 1903).
 

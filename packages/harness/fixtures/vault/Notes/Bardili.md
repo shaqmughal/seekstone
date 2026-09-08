@@ -22,7 +22,7 @@ his idea in a one-sided manner. He held that thought has in itself no power
 of development, and ultimately reduced it to arithmetical computation. He
 published _Grundriss der ersten Logik_ (Stuttgart, 1800); _Über die Gesetze
 der Ideenassociation_ (Tübingen, 1796); _Briefe über den Ursprung der
-Metaphysik_ (Altona, 1798); _Philos. Elementarlehre_ (Landshut, 1802-1806);
+Metaphysik_ (Altona, 1798); _Philos. Elementarlehre_ ([[Landshut]], 1802-1806);
 _Beiträge zur Beurteilung des gegenwärtigen Zustandes der Vernunftlehre_
 (Landshut, 1803).
 

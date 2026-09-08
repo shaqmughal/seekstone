@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Baena"
 
 # Baena
 
-BAENA, a town of southern Spain, in the province of Cordova; 32 m. by road
+BAENA, a town of southern Spain, in the province of [[Cordova]]; 32 m. by road
 S.E. of the city of Cordova. Pop. (1900) 14,539. Baena is picturesquely
 situated near the river Marbella, on the slope of a hill crowned with a
 castle, which formerly belonged to the famous captain Gonzalo de Cordova.

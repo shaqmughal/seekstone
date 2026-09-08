@@ -1,6 +1,6 @@
 # Civilis
 
-CIVILIS, CLAUDIUS, or more correctly, JULIUS, leader of the Batavian
+CIVILIS, CLAUDIUS, or more correctly, [[Julius|JULIUS]], leader of the Batavian
 revolt against Rome (A.D. 69-70). He was twice imprisoned on a charge of
 rebellion, and narrowly escaped execution. During the disturbances that
 followed the death of Nero, he took up arms under pretence of siding
@@ -8,24 +8,24 @@ with Vespasian and induced the inhabitants of his native country to
 rebel. The Batavians, who had rendered valuable aid under the early
 emperors, had been well treated in order to attach them to the cause of
 Rome. They were exempt from tribute, but were obliged to supply a large
-number of men for the army, and the burden of conscription and the
+number of men for the army, and the [[Burden|burden]] of conscription and the
 oppressions of provincial governors were important incentives to revolt.
 The Batavians were immediately joined by several neighbouring German
-tribes, the most important of whom were the Frisians. The Roman
-garrisons near the Rhine were driven out, and twenty-four ships
-captured. Two legions under Mummius Lupercus were defeated at Castra
-Vetera (near the modern Xanten) and surrounded. Eight cohorts of
+tribes, the most important of whom were the [[Frisians]]. The Roman
+[[Garrison|garrisons]] near the Rhine were driven out, and twenty-four ships
+captured. Two [[Legion|legions]] under Mummius Lupercus were defeated at Castra
+Vetera (near the modern Xanten) and surrounded. Eight [[Cohort|cohorts]] of
 Batavian veterans joined their countrymen, and the troops sent by
-Vespasian to the relief of Vetera threw in their lot with them. The
+Vespasian to the relief of Vetera threw in their [[Lot|lot]] with them. The
 result of these accessions to the forces of Civilis was a rising in
-Gaul. Hordeonius Flaccus was murdered by his troops (70), and the whole
-of the Roman forces were induced by two commanders of the Gallic
+[[Gaul]]. Hordeonius Flaccus was murdered by his troops (70), and the whole
+of the Roman forces were induced by two [[Commander|commanders]] of the Gallic
 auxiliaries--Julius Classicus and Julius Tutor--to revolt from Rome and
 join Civilis. The whole of Gaul thus practically declared itself
 independent, and the foundation of a new kingdom of Gaul was
 contemplated. The prophetess Velleda predicted the complete success of
 Civilis and the fall of the Roman Empire. But disputes broke out amongst
-the different tribes and rendered co-operation impossible; Vespasian,
+the different tribes and rendered [[Co-Operation|co-operation]] impossible; Vespasian,
 having successfully ended the civil war, called upon Civilis to lay down
 his arms, and on his refusal resolved to take strong measures for the
 suppression of the revolt. The arrival of Petillius Cerialis with a
@@ -78,8 +78,8 @@ restricted.
 Adequate proof that civilization as we now know it is the result of a
 long, slow process of evolution was put forward not long after the
 middle of the 19th century by the students of palaeontology and of
-prehistoric archaeology. A recognition of the fact that primitive man
-used implements of chipped flint, of polished stone, and of the softer
+prehistoric [[Archaeology|archaeology]]. A recognition of the fact that primitive man
+used [[Implement|implements]] of chipped flint, of polished stone, and of the softer
 metals for successive ages, before he attained a degree of technical
 skill and knowledge that would enable him to smelt iron, led the Danish
 archaeologists to classify the stages of human progress under these
@@ -95,7 +95,7 @@ has everywhere been achieved along the same lines and through the same
 sequence of changes, makes it possible to interpret the past history of
 the civilized races of to-day in the light of the present-day conditions
 of other races that are still existing under social and political
-conditions of a more primitive type. Such races as the Maoris and the
+conditions of a more primitive type. Such races as the [[Maori|Maoris]] and the
 American Indians have furnished invaluable information to the student of
 social evolution; and the knowledge thus gained has been extended and
 fortified by the ever-expanding researches of the palaeontologist and
@@ -116,20 +116,20 @@ thousand years may perhaps be taken as a safe minimal estimate. At the
 beginning of this long period, the most advanced race of men must be
 thought of as a promiscuous company of pre-troglodytic mammals, at least
 partially arboreal in habit, living on uncooked fruits and vegetables,
-and possessed of no arts and crafts whatever--nor even of the knowledge
+and possessed of no [[Arts And Crafts|arts and crafts]] whatever--nor even of the knowledge
 of the rudest implement. At the end of the period, there emerges into
 the more or less clear light of history a large-brained being, living in
 houses of elaborate construction, supplying himself with divers luxuries
 through the aid of a multitude of elaborate handicrafts, associated with
-his fellows under the sway of highly organized governments, and
+his [[Fellows|fellows]] under the sway of highly organized governments, and
 satisfying aesthetic needs through the practice of pictorial and
 literary arts of a high order. How was this amazing transformation
 brought about?
 
 
-  Crucial developments.
+  [[Crucial]] developments.
 
-If an answer can be found to that query, we shall have a clue to all
+If an answer can be found to that query, we shall have a [[Clue|clue]] to all
 human progress, not only during the prehistoric but also during the
 historic periods; for we may well believe that recent progress has not
 departed from the scheme of development impressed on humanity during
@@ -148,7 +148,7 @@ civilization.
 
 In outlining the story of primitive man's advancement, upon such a
 basis, we may follow the scheme of one of the most philosophical of
-ethnologists, Lewis H. Morgan, who made a provisional analysis of the
+ethnologists, [[Lewis]] H. Morgan, who made a provisional analysis of the
 prehistoric period that still remains among the most satisfactory
 attempts in this direction. Morgan divides the entire epoch of man's
 progress from bestiality to civilization into six successive periods,
@@ -172,13 +172,13 @@ period.
 The Middle Period of Savagery began with a knowledge of the uses of
 fire. This wonderful discovery enabled the developing race to extend its
 habitat almost indefinitely, and to include flesh, and in particular
-fish, in its regular dietary. Man could now leave the forests, and
+fish, in its regular [[Dietary|dietary]]. Man could now leave the forests, and
 wander along the shores and rivers, migrating to climates less
 enervating than those to which he had previously been confined.
-Doubtless he became an expert fisher, but he was as yet poorly equipped
-for hunting, being provided, probably, with no weapon more formidable
+Doubtless he became an [[Expert|expert]] fisher, but he was as yet poorly equipped
+for [[Hunting|hunting]], being provided, probably, with no weapon more formidable
 than a crude hatchet and a roughly fashioned spear. The primitive races
-of Australia and Polynesia had not advanced beyond this middle status of
+of [[Australia]] and Polynesia had not advanced beyond this middle status of
 savagery when they were discovered a few generations ago. It is obvious,
 then, that in dealing with the further progress of nascent civilization
 we have to do with certain favoured portions of the race, which sought
@@ -187,7 +187,7 @@ their quondam peers remained static and hence by comparison seemed to
 retrograde.
 
 
-  Bow and arrow.
+  [[Bow]] and arrow.
 
 The next great epochal discovery, in virtue of which a portion of the
 race advanced to the Upper Status of Savagery, was that of the bow and
@@ -196,13 +196,13 @@ bring down the fleetest animal and could defend himself against the most
 predatory. He could provide himself not only with food but with
 materials for clothing and for tent-making, and thus could migrate at
 will back from the seas and large rivers, and far into inhospitable but
-invigorating temperate and sub-Arctic regions. The meat diet, now for
+invigorating temperate and sub-Arctic regions. The [[Meat|meat]] diet, now for
 the first time freely available, probably contributed, along with the
 stimulating climate, to increase the physical vigour and courage of this
 highest savage, thus urging him along the paths of progress.
 Nevertheless many tribes came thus far and no further, as witness the
-Athapascans of the Hudson's Bay Territory and the Indians of the valley
-of the Columbia.
+[[Athapascan|Athapascans]] of the Hudson's Bay Territory and the Indians of the valley
+of the [[Columbia]].
 
 
   Pottery.
@@ -217,9 +217,9 @@ no permanent utensils that could withstand the action of fire. He could
 not readily boil water except by some such cumbersome method as the
 dropping of heated stones into a wooden or skin receptacle. The effect
 upon his dietary of having at hand earthen vessels in which meat and
-herbs could be boiled over a fire must have been momentous. Various
+[[Herb|herbs]] could be boiled over a fire must have been momentous. Various
 meats and many vegetables become highly palatable when boiled that are
-almost or quite inedible when merely roasted before a fire. Bones,
+almost or quite inedible when merely roasted before a fire. [[Bone|Bones]],
 sinews and even hides may be made to give up a modicum of nutriment in
 this way; and doubtless barbaric man, before whom starvation always
 loomed threateningly, found the crude pot an almost perennial refuge.
@@ -232,10 +232,10 @@ which the newly discovered mechanism exerted a civilizing influence.
 The next great progressive movement, which carried man into the Middle
 Status of Barbarism, is associated with the domestication of animals in
 the Eastern hemisphere, and with the use of irrigation in cultivating
-the soil and of adobe bricks and stone in architecture in the Western
+the soil and of adobe [[Brick|bricks]] and stone in architecture in the Western
 hemisphere. The dog was probably the first animal to be domesticated,
 but the sheep, the ox, the camel and the horse were doubtless added in
-relatively rapid succession, so soon as the idea that captive animals
+relatively rapid succession, so soon as the idea that [[Captive|captive]] animals
 could be of service had been clearly conceived. Man now became a
 herdsman, no longer dependent for food upon the precarious chase of wild
 animals. Milk, procurable at all seasons, made a highly important
@@ -243,8 +243,8 @@ addition to his dietary. With the aid of camel and horse he could
 traverse wide areas hitherto impassable, and come in contact with
 distant peoples. Thus commerce came to play an extended rôle in the
 dissemination of both commodities and ideas. In particular the nascent
-civilization of the Mediterranean region fell heir to numerous products
-of farther Asia,--gums, spices, oils, and most important of all, the
+civilization of the Mediterranean region fell [[Heir|heir]] to numerous products
+of farther Asia,--[[Gum|gums]], spices, oils, and most important of all, the
 cereals. The cultivation of the latter gave the finishing touch to a
 comprehensive and varied diet, while emphasizing the value of a fixed
 abode. For the first time it now became possible for large numbers of
@@ -264,7 +264,7 @@ permitted--a relatively high stage of civilization.
 
   Iron.
 
-There remained, however, one master craft of which he had no conception.
+There remained, however, one master [[Craft|craft]] of which he had no conception.
 This was the art of smelting iron. When, ultimately, his descendants
 learned the wonderful secrets of that art, they rose in consequence to
 the Upper Status of Barbarism. This culminating practical invention, it
@@ -280,8 +280,8 @@ a multitude of minor implements and utensils hitherto quite unknown, or
 at best rare and costly. Nor must we overlook the aesthetic influence of
 edged implements, with which wood and stone could readily be sculptured
 when placed in the hands of a race that had long been accustomed to
-scratch the semblance of living forms on bone or ivory and to fashion
-crude images of clay. In a word, man, the "tool-making animal," was now
+scratch the semblance of living forms on bone or [[Ivory|ivory]] and to fashion
+crude [[Image|images]] of clay. In a word, man, the "tool-making animal," was now
 for the first time provided with tools worthy of his wonderful hands and
 yet more wonderful brain.
 
@@ -339,7 +339,7 @@ importance, all his subsequent works."
 Without insisting on this comparison, however, let us ask what
 discoveries and inventions man has made within the historical period
 that may fairly be ranked with the half-dozen great epochal achievements
-that have been put forward as furnishing the keys to all the progress of
+that have been put forward as furnishing the [[Key|keys]] to all the progress of
 the prehistoric periods. In other words, let us sketch the history of
 progress during the ten thousand years or so that have elapsed since man
 learned the art of writing, adapting our sketch to the same scale which
@@ -364,7 +364,7 @@ thousand years. During the early part of this period such localized
 civilizations as those of the Egyptians, the Sumerians, the Babylonians
 and the Hittites rose, grew strong and passed beyond their meridian.
 This suggests that we must now admit the word "civilization" to yet
-another definition, within its larger meaning: we must speak of "_a_
+another [[Definition|definition]], within its larger meaning: we must speak of "_a_
 civilization," as that of Egypt, of Babylonia, of Assyria, and we must
 understand thereby a localized phase of society bearing the same
 relation to civilization as a whole that a wave bears to the ocean or a
@@ -386,11 +386,11 @@ Similarly the art of Egyptian and Assyrian and Greek was but the
 elaboration and perfection of methods that barbaric man had practised
 away back in the days when he was a cave-dweller. The weapons of warfare
 of Greek and Roman were the spear and the bow and arrow that their
-ancestors had used in the period of savagery, aided by sword and helmet
+ancestors had used in the period of savagery, aided by sword and [[Helmet|helmet]]
 dating from the upper period of barbarism. Greek and Roman government at
 their best were founded upon the system of _gentes_ that barbaric man
 had profoundly studied,--as witness, for example, the federal system of
-the barbaric Iroquois Indians existing in America before the coming of
+the barbaric [[Iroquois]] Indians existing in America before the coming of
 Columbus. And if the Greeks had better literature, the Romans better
 roads and larger cities, than their predecessors, these are but matters
 of detailed development, the like of which had marked the progress of
@@ -438,7 +438,7 @@ James Watt gave to the world the perfected steam-engine. Almost
 contemporaneously Arkwright and Hargreaves developed revolutionary
 processes of spinning and weaving by machinery. Meantime James Hutton
 and William Smith and their successors on the one hand, and Erasmus
-Darwin, François Lamarck, and (a half-century later) Charles Darwin on
+[[Darwin]], François [[Lamarck]], and (a half-century later) Charles Darwin on
 the other, turned men's ideas topsy-turvy by demonstrating that the
 world as the abiding-place of animals and man is enormously old, and
 that man himself instead of deteriorating from a single perfect pair six
@@ -456,7 +456,7 @@ vehicles drawn by horses, quite as their remoter ancestors had done
 since the time of higher barbarism. It may be doubted whether there
 existed in the world in the year 1800 a postal service that could
 compare in speed and efficiency with the express service of the Romans
-of the time of Caesar; far less was there a telegraph service that could
+of the time of [[Caesar]]; far less was there a telegraph service that could
 compare with that of the ancient Persians. Nor was there a ship sailing
 the seas that a Phoenician trireme might not have overhauled. But now
 within the lifetime of a single man the world was covered with a network
@@ -508,7 +508,7 @@ mind a new stimulus by changing his habitat. A fundamental secret of
 progress is revealed in this fact. Man probably never would have evolved
 from savagery had he remained in the Tropics where he doubtless
 originated. But successive scientific inventions enabled him, as has
-been suggested, to migrate to distant latitudes, and thus more or less
+been suggested, to migrate to distant [[Latitude|latitudes]], and thus more or less
 involuntarily to become the recipient of new creative and progressive
 impulses. After migrations in many directions had resulted in the
 development of divers races, each with certain capacities and
@@ -537,7 +537,7 @@ some measure at least, by the fact that the Celtic element held aloof
 from the Anglo-Saxon element century after century sufficiently to
 maintain racial integrity, yet mingled sufficiently to give and receive
 the fresh stimulus of "new blood." It is interesting in this connexion
-to examine the map of Great Britain with reference to the birthplaces of
+to examine the [[Map|map]] of Great Britain with reference to the birthplaces of
 the men named above as being the originators of the inventions and
 discoveries that made the close of the 18th century memorable as
 ushering in a new ethnic era. It may be added that these names suggest
@@ -599,13 +599,13 @@ of the nation into which he chances to be born, regardless of whether
 the national cause in which he struggles be in any given case good or
 bad, right or wrong. The communal judgment of this epoch pronounces any
 man a traitor who will not uphold his own nation even in a wrong
-cause--and the word "traitor" marks the utmost brand of ignominy.
+cause--and the word "traitor" marks the utmost [[Brand|brand]] of ignominy.
 
 
   Nationality and cosmopolitanism.
 
 But while the idea of nationality has thus been accentuated, there has
-been a never-ending struggle within the bounds of the nation itself to
+been a never-ending struggle within the [[Bounds|bounds]] of the nation itself to
 adjust the relations of one citizen to another. The ideas that might
 makes right, that the strong man must dominate the weak, that leadership
 in the community properly belongs to the man who is physically most
@@ -617,15 +617,15 @@ that were their concomitants. So throughout the periods when the
 oriental civilizations of Egypt and Babylonia and Assyria and Persia
 were dominant, a despotic form of government was accepted as the natural
 order of things. It does not appear that any other form was even
-considered as a practicality. A despot might indeed be overthrown, but
-only to make way for the coronation of another despot. A little later
+considered as a practicality. A [[Despot|despot]] might indeed be overthrown, but
+only to make way for the [[Coronation|coronation]] of another despot. A little later
 the Greeks and Romans modified the conception of a heaven-sent
 individual monarch; but they went no further than to substitute a
 heaven-favoured community, with specially favoured groups (_Patricii_)
-within the community. With this, national egoism reached its climax; for
+within the community. With this, national egoism reached its [[Climax|climax]]; for
 each people regarded its own citizens as the only exemplars of
 civilization, openly branding all the rest of the world as "barbarians,"
-fit subjects for the exaction of tribute or for the imposition of the
+fit subjects for the exaction of tribute or for the [[Imposition|imposition]] of the
 bonds of actual slavery. During the middle ages there was a reaction
 towards individualism as opposed to nationalism: but the entire system
 of feudalism, with its clearly recognized conditions of over-lordship
@@ -638,7 +638,7 @@ dominance throughout the first period of civilization.
 But gunpowder, marking the transition to the second period of
 civilization, came as a great levelling influence. With its aid the
 weakest peasant might prove more than a match for the most powerful
-knight. Before its assaults the castle of the lord ceased to be an
+[[Knight|knight]]. Before its assaults the castle of the lord ceased to be an
 impregnable fortress. And while gunpowder thus levelled down the power
 of the mighty, the printing-press levelled up the intelligence, and
 hence the power and influence of the lowly. Meantime the mariner's
@@ -680,7 +680,7 @@ The developments of the middle period of civilization cannot be
 considered, therefore, to have tended to decrease the spirit of
 nationality, with its concomitant penalty of what is sometimes called
 provincialism. The history of this entire period, as commonly presented,
-is largely made up of the records of international rivalries and
+is largely made up of the records of [[International|international]] rivalries and
 jealousies, perennially culminating in bitterly contested wars. It was
 only towards the close of the epoch that the desirability of free
 commercial intercourse among nations began to find expression as a
@@ -692,7 +692,7 @@ year 1776 in the pages of Condillac and of Adam Smith.
 But the discoveries that ushered in the third period of civilization
 were destined to work powerfully from the outset for the breaking down
 of international barriers, though, of course, their effects would not be
-at once manifest. Thus the substitution of steam power for water power,
+at once [[Manifest|manifest]]. Thus the substitution of steam power for water power,
 besides giving a tremendous impetus to manufacturing in general, mapped
 out new industrial centres in regions that nature had supplied with coal
 but not always with other raw materials. To note a single result,
@@ -721,7 +721,7 @@ isolation is no longer possible; globe-trotting has become a habit with
 thousands of individuals of many nations; and Orient and Occident,
 representing civilizations that for thousands of years were almost
 absolutely severed and mutually oblivious of each other, have been
-brought again into close touch for mutual education and betterment. The
+brought again into close touch for mutual education and [[Betterment|betterment]]. The
 Western mind has learned with amazement that the aforetime _Terra
 Incognita_ of the far East has nurtured a gigantic civilization having
 ideals in many ways far different from our own. The Eastern mind has
@@ -734,16 +734,16 @@ hemispheres of the globe, but now brought by the new mechanisms into
 daily and even hourly communication.
 
 
-  Modern humanism.
+  Modern [[Humanism|humanism]].
 
 While the new conditions of the industrial world have thus tended to
 develop a new national outlook, there has come about, as a result of the
 scientific discoveries already referred to, a no less significant
-broadening of the mental and spiritual horizons. Here also the trend is
-away from the narrowly egoistic and towards the cosmopolitan view. About
+broadening of the mental and spiritual [[Horizon|horizons]]. Here also the trend is
+away from the narrowly egoistic and towards the [[Cosmopolitan|cosmopolitan]] view. About
 the middle of the 19th century Dr Pritchard declared that many people
 debated whether it might not be permissible for the Australian settlers
-to shoot the natives as food for their dogs; some of the disputants
+to shoot the natives as food for their [[Dogs|dogs]]; some of the disputants
 arguing that savages were without the pale of human brotherhood. To-day
 the thesis that all mankind are one brotherhood needs no defence. The
 most primitive of existing aborigines are regarded merely as brethren
@@ -753,7 +753,7 @@ so significant a part of the population of even our highest present-day
 civilizations, are no longer regarded with anger or contempt, as beings
 who are suffering just punishment for wilful transgressions, but are
 considered as pitiful victims of hereditary and environmental influences
-that they could neither choose nor control. Insanity is no longer
+that they could neither choose nor control. [[Insanity]] is no longer
 thought of as demoniac possession, but as the most lamentable of
 diseases.
 
@@ -778,10 +778,10 @@ galaxies of deities and demons, which have haunted him thus far at every
 stage of his long journey through savagery, barbarism and civilization.
 Doubtless here and there a thinker, even in the barbaric eras, may have
 realized that these ghosts that so influenced the everyday lives of his
-fellows were but children of the imagination. But the certainty that
+fellows were but children of the [[Imagination|imagination]]. But the certainty that
 such is the case could not have come with the force of demonstration
 even to the most clear-sighted thinker until 19th-century science had
-investigated with penetrating vision the realm of molecule and atom; had
+investigated with penetrating vision the realm of molecule and [[Atom|atom]]; had
 revealed the awe-inspiring principle of the conservation of energy; and
 had offered a comprehensible explanation of the evolution of one form of
 life from another, from monad to man, that did not presuppose the
@@ -816,8 +816,8 @@ to their needs and less distinctly ethical in teaching than their own
 religions.
 
 Such are but a few of the illustrations that might be cited from many
-fields to suggest that the mind of our generation is becoming receptive
-to a changed point of view that augurs the coming of a new ethnic era.
+[[Fields|fields]] to suggest that the mind of our generation is becoming receptive
+to a changed point of view that [[Augurs|augurs]] the coming of a new ethnic era.
 If one may be permitted to enter very tentatively the field of prophecy,
 it seems not unlikely that the great revolutionary invention which will
 close the third period of civilization and usher in a new era is already
@@ -828,11 +828,11 @@ one of its practical ideals the conquest of the air; and that this
 conquest will become a factor in the final emergence of humanity from
 the insularity of nationalism to the broad view of cosmopolitanism,
 towards which, as we have seen, the tendencies of the present era are
-verging. That the gap to be covered is a vastly wide one no one need be
+verging. That the [[Gap|gap]] to be covered is a vastly wide one no one need be
 reminded who recalls that the civilized nations of Europe, together with
-America and Japan, are at present accustomed to spend more than three
+America and [[Japan]], are at present accustomed to spend more than three
 hundred million pounds each year merely that they may keep armaments in
-readiness to fly at one another's throats should occasion arise.
+readiness to [[Fly|fly]] at one another's throats should occasion arise.
 Formidable as these armaments now seem, however, the developments of the
 not very distant future will probably make them quite obsolete; and
 sooner or later, as science develops yet more deadly implements of
@@ -841,14 +841,14 @@ the suicidal folly of the international attitude that characterized, for
 example, the opening decade of the 20th century. At some time, after the
 first period of cosmopolitanism shall be ushered in as a tenth ethnic
 period, it will come to be recognized that there is a word fraught with
-fuller meanings even than the word patriotism. That word is
+[[Fuller|fuller]] meanings even than the word patriotism. That word is
 humanitarianism. The enlightened generation that realizes the full
 implications of that word will doubtless marvel that their ancestors of
 the third period of civilization should have risen up as nations and
 slaughtered one another by thousands to settle a dispute about a
 geographical boundary. Such a procedure will appear to have been quite
 as barbarous as the cannibalistic practices of their yet more remote
-ancestors, and distinctly less rational, since cannibalism might
+ancestors, and distinctly less rational, since [[Cannibalism|cannibalism]] might
 sometimes save its practiser from starvation, whereas warfare of the
 civilized type was a purely destructive agency.
 
@@ -859,7 +859,7 @@ bugbear; and it will no longer be considered rational to keep up the
 census at the cost of propagating low orders of intelligence, to feed
 the ranks of paupers, defectives and criminals. On the contrary it will
 be thought fitting that man should become the conscious arbiter of his
-own racial destiny to the extent of applying whatever laws of heredity
+own racial destiny to the extent of applying whatever laws of [[Heredity|heredity]]
 he knows or may acquire in the interests of his own species, as he has
 long applied them in the case of domesticated animals. The survival and
 procreation of the unfit will then cease to be a menace to the progress
@@ -927,7 +927,7 @@ laws with which he gave expression to his ethical conceptions applied,
 of necessity, to his own people alone. The gods with which his
 imagination peopled the world were local in habitat, devoted to the
 interests of his race only, and at enmity with the gods of rival
-peoples. As between nation and nation, the only principle of ethics that
+peoples. As between nation and nation, the only principle of [[Ethics|ethics]] that
 ever occurred to him was that might makes right. Civilized man for a
 long time advanced but slowly upon this view of international morality.
 No Egyptian or Babylonian or Hebrew or Greek or Roman ever hesitated to
@@ -996,9 +996,9 @@ by no means been achieved; nor will it have been until the inventive
 brain of man has provided a civilization in which a far higher
 percentage of citizens will find the life-vocations to which they are
 best adapted by nature, and in which, therefore, the efforts of the
-average worker may be directed with such vigour, enthusiasm and interest
+average worker may be directed with such vigour, [[Enthusiasm|enthusiasm]] and interest
 as can alone make for true efficiency; a civilization adjusted to such
-an economic balance that the average man may live in reasonable comfort
+an economic [[Balance|balance]] that the average man may live in reasonable comfort
 without heart-breaking strain, and yet accumulate a sufficient surplus
 to ensure ease and serenity for his declining days. Such, seemingly,
 should be the normal goal of progressive civilization. Doubtless mankind
@@ -1021,7 +1021,7 @@ unification of the world.    (H. S. WI.)
   Keane's _Man Past and Present_ (1899); and Lewis H. Morgan's _Ancient
   Society_ (1877). The earliest attempt at writing a history of
   civilization which has any value for the 20th-century reader was F.
-  Guizot's in 1828-1830, a handy English translation by William Hazlitt
+  Guizot's in 1828-1830, a handy English translation by William [[Hazlitt]]
   being included in Bohn's Standard Library under the title of _The
   History of Civilization_. The earlier lectures, delivered at the Old
   Sorbonne, deal with the general progress of European civilization,
@@ -1044,9 +1044,9 @@ unification of the world.    (H. S. WI.)
   may be said that all serious historical work has been more or less a
   history of civilization as displayed in all countries and ages, and a
   bibliography of the works bearing on the subject would be coextensive
-  with the catalogue of a complete historical library. Special mention,
+  with the [[Catalogue|catalogue]] of a complete historical library. Special mention,
   however, may be made of such important and suggestive works as C.H.
-  Pearson's _National Life and Character_ (1893); Benjamin Kidd's
+  Pearson's _National Life and Character_ (1893); [[Benjamin]] Kidd's
   _Social Evolution_ (1894) and _Principles of Western Civilization_
   (1902); Edward Eggleston's _Transit of Civilization_ (1901); C.
   Seignobos's _Histoire de la civilisation_ (1887); C. Faulmann's

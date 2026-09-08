@@ -3,7 +3,7 @@
 DEMONETIZATION, a term employed in monetary science in two different
 senses. (a) The depriving or divesting of a metal of its standard
 monetary value. From 1663 to 1717 silver was the standard of value in
-England and gold coins passed at their market value. The debasement and
+England and gold [[Coin|coins]] passed at their market value. The debasement and
 underrating of the silver coinage insensibly brought about the
 demonetization of silver in England as a standard of value and the
 substitution of gold. During the latter half of the 19th century, the

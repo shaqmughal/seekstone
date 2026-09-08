@@ -12,20 +12,20 @@ London, served by the London and North Western, Metropolitan and
 District railways. Pop. (1901), 10,220. It takes its name from its
 position on an isolated hill rising to a height of 345 ft. On the
 summit, and forming a conspicuous landmark, is the church of St Mary,
-said to have been founded by Lanfranc, archbishop of Canterbury, in the
+said to have been founded by [[Lanfranc]], archbishop of Canterbury, in the
 reign of William I., and Norman work appears at the base of the tower.
 The remainder of the church is of various later dates, and there are
-several ancient monuments and brasses.
+several ancient monuments and [[Brasses|brasses]].
 
 Harrow is celebrated for its public school, founded in 1571 by John
-Lyon, whose brass is in the church, a yeoman of the neighbouring village
+Lyon, whose [[Brass|brass]] is in the church, a yeoman of the neighbouring village
 of Preston who had yearly during his life set aside 20 marks for the
 education of poor children of Harrow; though a school existed before his
 time. Though the charter was granted by Queen Elizabeth in 1571, and the
 statutes drawn up by the founder in 1590, two years before his death, it
 was not till 1611 that the first building was opened for scholars. Lyon
 originally settled about two-thirds of his property on the school,
-leaving the remainder for the maintenance of the highway between London
+leaving the remainder for the [[Maintenance|maintenance]] of the highway between London
 and Harrow, but in the course of time the values of the respective
 endowments have changed so far that the benefit accruing to the school
 is a small proportion of the whole. About 1660 the headmaster, taking
@@ -53,7 +53,7 @@ is about 600. The principal buildings are modern, including the chapel
 Charles John Vaughan, and the speech-room (1877), the scene of the
 brilliant ceremony on "Speech Day" each summer term. The fourth form
 room, however, dates from 1611, and on its panels are cut the names of
-many eminent _alumni_, such as Byron, Robert Peel, R. B. Sheridan and
+many eminent _alumni_, such as [[Byron]], Robert Peel, R. B. Sheridan and
 Temple (Lord Palmerston). Several of the buildings were erected out of
 the Lyon Tercentenary Fund, subscribed after the tercentenary
 celebration in 1871.

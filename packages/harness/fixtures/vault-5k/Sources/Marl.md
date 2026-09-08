@@ -2,11 +2,11 @@
 
 MARL (from O. Fr. _marle_, Late Lat. _margila_, dim. of _marga_; cf. Du.
 and Ger. _Mergel_), a calcareous clay, or a mixture of carbonate of lime
-with argillaceous matter. It is impossible to give a strict definition
+with argillaceous matter. It is impossible to give a strict [[Definition|definition]]
 of a marl, for the term is applied to a great variety of rocks and soils
 with a considerable range of composition. On the one hand, the marls
 graduate into clays by diminution in the amount of lime that they
-contain, and on the other hand they pass into argillaceous limestones
+contain, and on the other hand they pass into argillaceous [[Limestone|limestones]]
 (see LIMESTONE). From 25-75% of carbonate of lime may be regarded as
 characteristic of the marls. But in popular usage many substances are
 called marls which would not be included under the definition given
@@ -22,7 +22,7 @@ increased fertility.
 The typical marls are soft, earthy, and of a white, grey or brownish
 colour. Many of them disintegrate in water; and they are readily
 attacked by dilute hydrochloric acid, which dissolves the carbonate of
-lime rapidly, giving off bubbles of carbon dioxide. The lime of some
+lime rapidly, giving off bubbles of [[Carbon|carbon]] dioxide. The lime of some
 marls is present in the form of shells, whole or broken; in others it is
 a fine impalpable powder mixed with the clay. In many marls there is
 organic matter (plant fragments or humus). Sand is usually not abundant
@@ -31,10 +31,10 @@ simple crystals with the form of lozenge-shaped plates or in twinned
 groups resembling an arrow-head; fine examples of these are obtained in
 the marls of Montmartre near Paris, where celestine (strontium sulphate)
 occurs also in nodular or concretionary masses. Large crystals of
-calcite or of dolomite, lumps of iron pyrites or radiate nodules of
-marcasite, and small crystals of quartz are found in certain marl
+[[Calcite|calcite]] or of [[Dolomite|dolomite]], lumps of iron pyrites or radiate nodules of
+[[Marcasite|marcasite]], and small crystals of quartz are found in certain marl
 deposits; and in Westphalia the marls of the Senonian (part of the
-Cretaceous system) at Hamm yield masses of strontianite up to two feet
+Cretaceous system) at [[Hamm]] yield masses of strontianite up to two feet
 in length. A very large variety of accessory minerals may be proved to
 exist in marls by microscopic examination.
 
@@ -66,20 +66,20 @@ exist in marls by microscopic examination.
   England soft argillaceous limestones of marine origin, which may be
   described as marls, occur on several horizons. At its base the white
   chalk is often mixed with clay, and the "chalk marl" is a rock of this
-  kind; it is known in Cambridgeshire, at Folkestone, in the Isle of
+  kind; it is known in [[Cambridgeshire]], at [[Folkestone]], in the Isle of
   Wight, &c. The chloritic marl, which underlies the chalk and is well
   developed in the Isle of Wight, is a greenish argillaceous limestone,
-  the colour being due to the presence of glauconite, not of chlorite;
-  it is often very fossiliferous. The Gault, an argillaceous type of the
+  the colour being due to the presence of [[Glauconite|glauconite]], not of chlorite;
+  it is often very fossiliferous. The [[Gault]], an argillaceous type of the
   Upper Greensand, is a stiff greyish calcareous clay, beneath the white
   chalk, well known for the excellent preservation of its fossils. It
   outcrops along the base of the escarpment of the North and South
   Downs; the original name given to it by William Smith was "the blue
-  marl." In the Jurassic rocks of England there are marls or shelly
+  marl." In the [[Jurassic]] rocks of England there are marls or shelly
   fresh-water clays in the Purbeck series and also in the estuarine beds
   of the Great Oolite, but the name "marlstone" has long been reserved
-  for the argillaceous limestone of the Middle Lias. It ranges from the
-  Dorset coast, through Edge Hill in Warwickshire and Lincolnshire, and
+  for the argillaceous limestone of the Middle [[Lias]]. It ranges from the
+  Dorset coast, through [[Edge Hill]] in Warwickshire and Lincolnshire, and
   thence to the sea in the north of Yorkshire, presenting many
   variations in this long extent of country and often accompanied by, or
   converted into, beds of clay ironstone. The marlstone is typically a
@@ -93,12 +93,12 @@ exist in marls by microscopic examination.
   valuable deposits of rock salt, the principal sources of that mineral
   in Great Britain. In the strict sense these rocks are not marls, being
   ferruginous clays rather than calcareous clays. Most of them appear to
-  have been laid down in saline lakes in desert regions. As a rule they
+  have been laid down in saline lakes in [[Desert|desert]] regions. As a rule they
   contain very few fossils, and often they have little or no carbonate
   of lime, but beds and veins of fibrous gypsum occur in them in
   considerable profusion. These rocks cover a wide area in the midland
-  counties extending to the south coast near Exmouth, and reappear in
-  the north in the Vale of Eden and a few places in southern Scotland.
+  counties extending to the south coast near [[Exmouth]], and reappear in
+  the north in the Vale of [[Eden]] and a few places in southern Scotland.
   The clays are used for brick-making, and yield a stiff soil, mostly
   devoted to pasture and dairy farming. In the Rhaetic beds which
   immediately overlie the Triassic rocks there are three seams of

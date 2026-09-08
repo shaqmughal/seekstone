@@ -12,7 +12,7 @@ LATITUDE (Lat. _latitudo_, _latus_, broad), a word meaning breadth or
 width, hence, figuratively, freedom from restriction, but more generally
 used in the geographical and astronomical sense here treated. The
 latitude of a point on the earth's surface is its angular distance from
-the equator, measured on the curved surface of the earth. The direct
+the [[Equator|equator]], measured on the curved surface of the earth. The direct
 measure of this distance being impracticable, it has to be determined by
 astronomical observations. As thus determined it is the angle between
 the direction of the plumb-line at the place and the plane of the
@@ -150,7 +150,7 @@ between Albrecht's numerical results and Chandler's formulae is
 generally less than 0.05´´.
 
 When the fluctuation in the position of the pole was fully confirmed,
-its importance in astronomy and geodesy led the International Geodetic
+its importance in astronomy and geodesy led the [[International]] Geodetic
 Association to establish a series of stations round the globe, as nearly
 as possible on the same parallel of latitude, for the purpose of
 observing the fluctuation with a greater degree of precision than could

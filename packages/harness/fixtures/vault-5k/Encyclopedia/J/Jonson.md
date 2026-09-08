@@ -3,7 +3,7 @@
 JONSON, BEN[1] (1573-1637), English dramatist, was born, probably in
 Westminster, in the beginning of the year 1573 (or possibly, if he
 reckoned by the unadopted modern calendar, 1572; see Castelain, p. 4,
-note 1). By the poet's account his grandfather had been a gentleman who
+note 1). By the poet's account his grandfather had been a [[Gentleman|gentleman]] who
 "came from" Carlisle, and originally, the grandson thought, from
 Annandale. His arms, "three spindles or rhombi," are the family device
 of the Johnstones of Annandale, a fact which confirms his assertion of
@@ -14,7 +14,7 @@ birth of her son the widow married again; she may be supposed to have
 loved him in a passionate way peculiar to herself, since on one occasion
 we find her revealing an almost ferocious determination to save his
 honour at the cost of both his life and her own. Jonson's stepfather was
-a master bricklayer, living in Hartshorn Lane, near Charing Cross, who
+a master bricklayer, living in Hartshorn [[Lane]], near Charing Cross, who
 provided his stepson with the foundations of a good education. After
 attending a private school in St Martin's Lane, the boy was sent to
 Westminster School at the expense, it is said, of William Camden.
@@ -30,7 +30,7 @@ that he was a member of St John's College, see J. B. Mullinger, the
 _Eagle_, No. xxv.) He says, however, himself that he studied at neither
 university, but was put to a trade immediately on leaving school. He
 soon had enough of the trade, which was no doubt his father's
-bricklaying, for Henslowe in writing to Edward Alleyne of his affair
+bricklaying, for [[Henslowe]] in writing to Edward Alleyne of his affair
 with Gabriel Spenser calls him "bergemen [_sic_] Jonson, bricklayer."
 Either before or after his marriage--more probably before, as Sir
 Francis Vere's three English regiments were not removed from the Low
@@ -46,7 +46,7 @@ son Benjamin died of the plague ten years later (epigram 45). (A
 younger Benjamin died in 1635.) His wife Jonson characterized to
 Drummond as "a shrew, but honest"; and for a period (undated) of five
 years he preferred to live without her, enjoying the hospitality of Lord
-Aubigny (afterwards duke of Lennox). Long burnings of oil among his
+Aubigny (afterwards duke of [[Lennox]]). Long burnings of oil among his
 books, and long spells of recreation at the tavern, such as Jonson
 loved, are not the most favoured accompaniments of family life. But
 Jonson was no stranger to the tenderest of affections: two at least of
@@ -60,7 +60,7 @@ time--when Shakespeare, his senior by nearly nine years, was already in
 prosperous circumstances and good esteem--at least a regular member of
 the acting profession, with a fixed engagement in the lord admiral's
 company, then performing under Henslowe's management at the Rose.
-Perhaps he had previously acted at the Curtain (a former house of the
+Perhaps he had previously acted at the [[Curtain]] (a former house of the
 lord admiral's men), and "taken mad Jeronimo's part" on a play-wagon in
 the highway. This latter appearance, if it ever took place, would, as
 was pointed out by Gifford, probably have been in Thomas Kyd's _Spanish
@@ -68,7 +68,7 @@ Tragedy_, since in _The First Part of Jeronimo_ Jonson would have had,
 most inappropriately, to dwell on the "smallness" of his "bulk." He was
 at a subsequent date (1601) employed by Henslowe to write up _The
 Spanish Tragedy_, and this fact may have given rise to Wood's story of
-his performance as a stroller (see, however, Fleay, _The English Drama_,
+his performance as a stroller (see, however, Fleay, _The English [[Drama]]_,
 ii. 29, 30). Jonson's additions, which were not the first changes made
 in the play, are usually supposed to be those printed with _The Spanish
 Tragedy_ in the edition of 1602; Charles Lamb's doubts on the subject,
@@ -87,7 +87,7 @@ Tamia_ as one of "the best for tragedy," without any reference to a
 connexion on his part with the other branch of the drama. Whether this
 was a criticism based on material evidence or an unconscious slip, Ben
 Jonson in the same year 1598 produced one of the most famous of English
-comedies, _Every Man in his Humour_, which was first acted--probably in
+comedies, _Every Man in his [[Humour]]_, which was first acted--probably in
 the earlier part of September--by the lord chamberlain's company at the
 Curtain. Shakespeare was one of the actors in Jonson's comedy, and it is
 in the character of Old Knowell in this very play that, according to a
@@ -106,16 +106,16 @@ reminiscences of Shylock and his daughter. The earlier of these two
 comedies was indisputably successful.
 
 Before the year 1598 was out, however, Jonson found himself in prison
-and in danger of the gallows. In a duel, fought on the 22nd of September
+and in danger of the gallows. In a [[Duel|duel]], fought on the 22nd of September
 in Hogsden Fields, he had killed an actor of Henslowe's company named
 Gabriel Spenser. The quarrel with Henslowe consequent on this event may
 account for the production of _Every Man in his Humour_ by the rival
 company. In prison Jonson was visited by a Roman Catholic priest, and
 the result (certainly strange, if Jonson's parentage is considered) was
-his conversion to the Church of Rome, to which he adhered for twelve
+his [[Conversion|conversion]] to the Church of Rome, to which he adhered for twelve
 years. Jonson was afterwards a diligent student of divinity; but, though
-his mind was religious, it is not probable that its natural bias much
-inclined it to dwell upon creeds and their controversies. He pleaded
+his mind was religious, it is not probable that its natural [[Bias|bias]] much
+inclined it to dwell upon [[Creeds|creeds]] and their controversies. He pleaded
 guilty to the charge brought against him, as the rolls of Middlesex
 sessions show; but, after a short imprisonment, he was released by
 benefit of clergy, forfeiting his "goods and chattels," and being
@@ -133,7 +133,7 @@ comfort to the most learned of her dramatists, before there was laid
 upon her the inevitable hand of which his courtly epilogue had besought
 death to forget the use. Indeed, of his _Cynthia's Revels_, performed by
 the chapel children in 1600 and printed with the first title of _The
-Fountain of Self-Love_ in 1601, though it was no doubt primarily
+[[Fountain]] of Self-Love_ in 1601, though it was no doubt primarily
 designed as a compliment to the queen, the most marked result had been
 to offend two playwrights of note--Dekker, with whom he had formerly
 worked in company, and who had a healthy if rough grip of his own; and
@@ -142,14 +142,14 @@ versatility. According to Jonson, his quarrel with Marston had begun by
 the latter attacking his morals, and in the course of it they came to
 blows, and might have come to worse. In _Cynthia's Revels_, Dekker is
 generally held to be satirized as Hedon, and Marston as Anaides (Fleay,
-however, thinks Anaides is Dekker, and Hedon Daniel), while the
+however, thinks Anaides is Dekker, and Hedon [[Daniel]]), while the
 character of Crites most assuredly has some features of Jonson himself.
 Learning the intention of the two writers whom he had satirized, or at
 all events of Dekker, to wreak literary vengeance upon him, he
 anticipated them in _The Poetaster_ (1601), again played by the children
 of the queen's chapel at the Blackfriars and printed in 1602; Marston
 and Dekker are here ridiculed respectively as the aristocratic Crispinus
-and the vulgar Demetrius. The play was completed fifteen weeks after its
+and the vulgar [[Demetrius]]. The play was completed fifteen weeks after its
 plot was first conceived. It is not certain to what the proceedings
 against author and play before the lord chief justice, referred to in
 the dedication of the edition of 1616, had reference, or when they were
@@ -160,7 +160,7 @@ piece, consisted of _Troilus and Cressida_ is supremely ingenious, but
 cannot be examined here. As for Dekker, he retaliated on _The Poetaster_
 by the _Satiromastix, or The Untrussing of the Humorous Poet_ (1602).
 Some more last words were indeed attempted on Jonson's part, but in the
-_Apologetic Dialogue_ added to _The Poetaster_ in the edition of 1616,
+_Apologetic [[Dialogue]]_ added to _The Poetaster_ in the edition of 1616,
 though excluded from that of 1602, he says he intends to turn his
 attention to tragedy. This intention he apparently carried out
 immediately, for in 1602 he received £10 from Henslowe for a play,
@@ -184,7 +184,7 @@ Englishman, John Michael Girish, at the court of the grandson of James
 I. at Heidelberg.
 
 When the reign of James I. opened in England and an adulatory loyalty
-seemed intent on showing that it had not exhausted itself at the feet of
+seemed [[Intent|intent]] on showing that it had not exhausted itself at the feet of
 Gloriana, Jonson's well-stored brain and ready pen had their share in
 devising and executing ingenious variations on the theme "Welcome--since
 we cannot do without thee!" With extraordinary promptitude his genius,
@@ -200,7 +200,7 @@ entertained at houses of the nobility. _The Satyr_ (1603) was produced
 on one of these occasions, Queen Anne's sojourn at Althorpe, the seat of
 Sir Robert Spencer, afterwards Lord Althorpe, who seems to have
 previously bestowed some patronage upon him. _The Penates_ followed on
-May-day 1604 at the house of Sir William Cornwallis at Highgate, and the
+May-day 1604 at the house of Sir William Cornwallis at [[Highgate]], and the
 queen herself with her ladies played his _Masque of Blackness_ at
 Whitehall in 1605. He was soon occasionally employed by the court
 itself--already in 1606 in conjunction with Inigo Jones, as responsible
@@ -226,7 +226,7 @@ were arrested on account of one or more passages in the play which were
 deemed insulting to the Scots, he "voluntarily imprisoned himself" with
 them. They were soon released, and a banquet at his expense, attended by
 Camden and Selden, terminated the incident. If Jonson is to be believed,
-there had been a report that the prisoners were to have their ears and
+there had been a report that the prisoners were to have their [[Ear|ears]] and
 noses cut, and, with reference apparently to this peril, "at the midst
 of the feast his old mother drank to him, and showed him a paper which
 she had intended (if the sentence had taken execution) to have mixed in
@@ -239,7 +239,7 @@ no cause to any good man of grief," were again in prison on account of
 consequence of a very manly and dignified letter addressed by Jonson to
 the Earl of Salisbury. As to the relations between Chapman and Jonson,
 illustrated by newly discovered letters, see Bertram Dobell in the
-_Athenaeum_ No. 3831 (March 30, 1901), and the comments of Castelain.
+_[[Athenaeum]]_ No. 3831 (March 30, 1901), and the comments of Castelain.
 He thinks that the play in question, in which both Chapman and Jonson
 took part, was _Sir Gyles Goosecappe_, and that the last imprisonment of
 the two poets was shortly after the discovery of the Gunpowder Plot. In
@@ -270,8 +270,8 @@ Fair_ and _The Devil is an Ass_ (acted respectively in 1614 and 1616).
 During the same period he produced several masques, usually in connexion
 with Inigo Jones, with whom, however, he seems to have quarrelled
 already in this reign, though it is very doubtful whether the architect
-is really intended to be ridiculed in _Bartholomew Fair_ under the
-character of Lanthorn Leatherhead. Littlewit, according to Fleay, is
+is really intended to be ridiculed in _[[Bartholomew Fair]]_ under the
+character of Lanthorn [[Leatherhead]]. Littlewit, according to Fleay, is
 Daniel. Among the most attractive of his masques may be mentioned the
 _Masque of Blackness_ (1606), the Masque of Beauty (1608), and the
 _Masque of Queens_ (1609), described by Swinburne as "the most splendid
@@ -301,7 +301,7 @@ description be authentic) no longer appeared even on a visit from his
 comfortable retreat at Stratford. That on the other hand Ben carried his
 wicked town habits into Warwickshire, and there, together with Drayton,
 made Shakespeare drink so hard with them as to bring upon himself the
-fatal fever which ended his days, is a scandal with which we may fairly
+fatal [[Fever|fever]] which ended his days, is a scandal with which we may fairly
 refuse to load Jonson's memory. That he had a share in the preparing for
 the press of the first folio of Shakespeare, or in the composition of
 its preface, is of course a mere conjecture.
@@ -313,9 +313,9 @@ heroically for a man of his habits) determined to make the journey on
 foot; and he was speedily followed by John Taylor, the water-poet, who
 still further handicapped himself by the condition that he would
 accomplish the pilgrimage without a penny in his pocket. Jonson, who put
-money in his good friend's purse when he came up with him at Leith,
+money in his good friend's purse when he came up with him at [[Leith]],
 spent more than a year and a half in the hospitable Lowlands, being
-solemnly elected a burgess of Edinburgh, and on another occasion
+solemnly elected a [[Burges|burgess]] of Edinburgh, and on another occasion
 entertained at a public banquet there. But the best-remembered
 hospitality which he enjoyed was that of the learned Scottish poet,
 William Drummond of Hawthornden, to which we owe the so-called
@@ -329,7 +329,7 @@ contemner and scorner of others." A poetical account of this journey,
 
 After his return to England Jonson appears to have resumed his former
 course of life. Among his noble patrons and patronesses were the
-countess of Rutland (Sidney's daughter) and her cousin Lady Wroth; and
+countess of Rutland (Sidney's daughter) and her [[Cousin|cousin]] Lady Wroth; and
 in 1619 his visits to the country seats of the nobility were varied by a
 sojourn at Oxford with Richard Corbet, the poet, at Christ Church, on
 which occasion he took up the master's degree granted to him by the
@@ -451,7 +451,7 @@ nostrat_. in the _Discoveries_. But if Gifford had rendered no other
 service to Jonson's fame he must be allowed to have once for all
 vindicated it from the cruellest aspersion which has ever been cast upon
 it. That in general Ben Jonson was a man of strong likes and dislikes,
-and was wont to manifest the latter as vehemently as the former, it
+and was wont to [[Manifest|manifest]] the latter as vehemently as the former, it
 would be idle to deny. He was at least impartial in his censures,
 dealing them out freely to Puritan poets like Wither and (supposing him
 not to have exaggerated his free-spokenness) to princes of his church
@@ -462,7 +462,7 @@ The personage that he disliked the most, and openly abused in the
 roundest terms, was unfortunately one with many heads and a tongue to
 hiss in each--no other than that "general public" which it was the
 fundamental mistake of his life to fancy he could "rail into
-approbation" before he had effectively secured its goodwill. And upon
+approbation" before he had effectively secured its [[Goodwill|goodwill]]. And upon
 the whole it may be said that the admiration of the few, rather than the
 favour of the many, has kept green the fame of the most independent
 among all the masters of an art which, in more senses than one, must
@@ -486,7 +486,7 @@ simplicity hardly to be reached--or even to be appreciated--without some
 measure of classical training.
 
 Exclusively of the few lyrics in Jonson's dramas (which, with the
-exception of the stately choruses in _Catiline_, charm, and perhaps may
+exception of the stately choruses in _Catiline_, [[Charm|charm]], and perhaps may
 surprise, by their lightness of touch), his non-dramatic works are
 comprised in the following collections. The book of _Epigrams_
 (published in the first folio of 1616) contained, in the poet's own
@@ -496,9 +496,9 @@ ancient, not the restricted modern one--still less that of the critic
 to Jonson, "witty" was "obscene." On the whole, these epigrams excel
 more in encomiastic than in satiric touches, while the pathos of one or
 two epitaphs in the collection is of the truest kind. In the lyrics and
-epistles contained in the _Forest_ (also in the first folio), Jonson
+[[Epistle|epistles]] contained in the _Forest_ (also in the first folio), Jonson
 shows greater variety in the poetic styles adopted by him; but the
-subject of love, which Dryden considered conspicuous by its absence in
+subject of love, which [[Dryden]] considered conspicuous by its absence in
 the author's dramas, is similarly eschewed here. The _Underwoods_ (not
 published collectively till the second and surreptitious folio) are a
 miscellaneous series, comprising, together with a few religious and a
@@ -507,7 +507,7 @@ few amatory poems, a large number of epigrams, epitaphs, elegies and
 and other patrons and friends, besides the _Execration upon Vulcan_, and
 the characteristic ode addressed by the poet to himself. To these pieces
 in verse should be added the _Discoveries--Timber, or Discoveries made
-upon Men and Matters_, avowedly a commonplace book of aphorisms noted by
+upon Men and Matters_, avowedly a commonplace book of [[Aphorism|aphorisms]] noted by
 the poet in his dally readings--thoughts adopted and adapted in more
 tranquil and perhaps more sober moods than those which gave rise to the
 outpourings of the _Conversations at Hawthornden_. As to the critical
@@ -569,8 +569,8 @@ distinctions of character, he broadened the whole basis of English
 comedy after his fashion, as Molière at a later date, keeping in closer
 touch with the common experience of human life, with a lighter hand
 broadened the basis of French and of modern Western comedy at large. It
-does not of course follow that Jonson's disciples, the Bromes and the
-Cartwrights, always adequately reproduced the master's conception of
+does not of course follow that Jonson's [[Disciple|disciples]], the Bromes and the
+[[Cartwright|Cartwrights]], always adequately reproduced the master's conception of
 "humorous" comedy. Jonson's wide and various reading helped him to
 diversify the application of his theory, while perhaps at times it led
 him into too remote illustrations of it. Still, Captain Bobadil and
@@ -579,7 +579,7 @@ number of other characters impress themselves permanently upon the
 memory of those whose attention they have as a matter of course
 commanded. It is a very futile criticism to condemn Jonson's characters
 as a mere series of types of general ideas; on the other hand, it is a
-very sound criticism to object, with Barry Cornwall, to the "multitude
+very sound criticism to object, with [[Barry]] [[Cornwall]], to the "multitude
 of characters who throw no light upon the story, and lend no interest to
 it, occupying space that had better have been bestowed upon the
 principal agents of the plot."
@@ -588,7 +588,7 @@ In the construction of plots, as in most other respects, Jonson's at
 once conscientious and vigorous mind led him in the direction of
 originality; he depended to a far less degree than the greater part of
 his contemporaries (Shakespeare with the rest) upon borrowed plots. But
-either his inventive character was occasionally at fault in this
+either his inventive character was occasionally at [[Fault|fault]] in this
 respect, or his devotion to his characters often diverted his attention
 from a brisk conduct of his plot. Barry Cornwall has directed attention
 to the essential likeness in the plot of two of Jonson's best comedies,
@@ -613,7 +613,7 @@ laid near Florence; and his _Volpone_, which is perhaps the darkest
 social picture ever drawn by him, plays at Venice. Neither locality was
 ill-chosen, but the real atmosphere of his comedies is that of the
 native surroundings amidst which they were produced; and Ben Jonson's
-times live for us in his men and women, his country gulls and town
+times live for us in his men and women, his country [[Gull|gulls]] and town
 gulls, his alchemists and exorcists, his "skeldring" captains and
 whining Puritans, and the whole ragamuffin rout of his _Bartholomew
 Fair_, the comedy _par excellence_ of Elizabethan low life. After he had
@@ -630,11 +630,11 @@ exercising the influence or creating the effects which he wished to
 exercise or create without the appearance of consciousness. Concealment
 never crept over his efforts, and he scorned insinuation. Instead of
 this, influenced no doubt by the example of the free relations between
-author and public permitted by Attic comedy, he resorted again and
+author and public permitted by [[Attic]] comedy, he resorted again and
 again, from _Every Man out of his Humour_ to _The Magnetic Lady_, to
-inductions and commentatory intermezzos and appendices, which, though
+[[Induction|inductions]] and commentatory intermezzos and appendices, which, though
 occasionally effective by the excellence of their execution, are to be
-regretted as introducing into his dramas an exotic and often vexatious
+regretted as introducing into his dramas an [[Exotic|exotic]] and often vexatious
 element. A man of letters to the very core, he never quite understood
 that there is and ought to be a wide difference of methods between the
 world of letters and the world of the theatre.
@@ -647,7 +647,7 @@ said, "only Fletcher and Chapman could write a masque." He introduced,
 or at least established, the ingenious innovation of the anti-masque,
 which Schlegel has described, as a species of "parody added by the poet
 to his device, and usually prefixed to the serious entry," and which
-accordingly supplies a grotesque antidote to the often extravagantly
+accordingly supplies a [[Grotesque|grotesque]] antidote to the often extravagantly
 imaginative main conception. Jonson's learning, creative power and
 humorous ingenuity--combined, it should not be forgotten, with a genuine
 lyrical gift--all found abundant opportunities for displaying themselves
@@ -658,13 +658,13 @@ in Comus.
 
 _The Sad Shepherd_, of which Jonson left behind him three acts and a
 prologue, is distinguished among English pastoral dramas by its
-freshness of tone; it breathes something of the spirit of the greenwood,
+freshness of tone; it breathes something of the spirit of the [[Greenwood|greenwood]],
 and is not unnatural even in its supernatural element. While this piece,
-with its charming love-scenes between Robin Hood and Maid Marion,
+with its charming love-scenes between Robin Hood and Maid [[Marion]],
 remains a fragment, another pastoral by Jonson, the _May Lord_ (which F.
 G. Fleay and J. A. Symonds sought to identify with _The Sad Shepherd_;
-see, however, W. W. Greg in introduction to the Louvain reprint), has
-been lost, and a third, of which Loch Lomond was intended to be the
+see, however, W. W. [[Greg]] in introduction to the Louvain reprint), has
+been lost, and a third, of which Loch [[Lomond]] was intended to be the
 scene, probably remained unwritten.
 
 Though Ben Jonson never altogether recognized the truth of the maxim
@@ -672,7 +672,7 @@ that the dramatic art has properly speaking no didactic purpose, his
 long and laborious life was not wasted upon a barren endeavour. In
 tragedy he added two works of uncommon merit to our dramatic literature.
 In comedy his aim was higher, his effort more sustained, and his success
-more solid than were those of any of his fellows. In the subsidiary and
+more solid than were those of any of his [[Fellows|fellows]]. In the subsidiary and
 hybrid species of the masque, he helped to open a new and attractive
 though undoubtedly devious path in the field of dramatic literature. His
 intellectual endowments surpassed those of most of the great English
@@ -690,7 +690,7 @@ and the inscription, "O Rare Ben Jonson," was cut in the slab over his
 grave. In the beginning of the 18th century a portrait bust was put up
 to his memory in the Poets' Corner by Harley, earl of Oxford. Of
 Honthorst's portrait of Jonson at Knole Park there is a copy in the
-National Portrait Gallery; another was engraved by W. Marshall for the
+National Portrait Gallery; another was engraved by W. [[Marshall]] for the
 1640 edition of his Poems.
 
   BIBLIOGRAPHY.--The date of the first folio volume of Jonson's _Works_
@@ -708,9 +708,9 @@ National Portrait Gallery; another was engraved by W. Marshall for the
   first includes a biographical memoir, and the famous essay on the
   "Proofs of Ben Jonson's Malignity, from the Commentators on
   Shakespeare"). A new edition of Gifford's was published in 9 vols. in
-  1875 by Colonel F. Cunningham, as well as a cheap reprint in 3 vols.
+  1875 by Colonel F. [[Cunningham]], as well as a cheap reprint in 3 vols.
   in 1870. Both contain the _Conversations_ with Drummond, which were
-  first printed in full by David Laing in the _Shakespeare Society's
+  first printed in full by David [[Laing]] in the _Shakespeare Society's
   Publications_ (1842) and the _Jonsonus Virbius_, a collection
   (unparalleled in number and variety of authors) of poetical tributes,
   published about six months after Jonson's death by his friends and
@@ -752,7 +752,7 @@ National Portrait Gallery; another was engraved by W. Marshall for the
   important French work on Ben Jonson, both biographical and critical,
   and containing, besides many translations of scenes and passages, some
   valuable appendices, to more than one of which reference has been made
-  above, is Maurice Castelain's _Ben Jonson, l'homme et l'oeuvre_
+  above, is [[Maurice]] Castelain's _Ben Jonson, l'homme et l'oeuvre_
   (1907). Among treatises or essays on particular aspects of his
   literary work may be mentioned Emil Koeppel's _Quellenstudien zu den
   Dramen Ben Jonson's_, &c. (1895); the same writer's "Ben Jonson's
@@ -773,7 +773,7 @@ FOOTNOTES:
 
   [2] With Inigo Jones, however, in quarrelling with whom, as Howell
     reminds Jonson, the poet was virtually quarrelling with his bread and
-    butter, he seems to have found it impossible to live permanently at
+    [[Butter|butter]], he seems to have found it impossible to live permanently at
     peace; his satirical _Expostulation_ against the architect was
     published as late as 1635. Chapman's satire against his old
     associate, perhaps due to this quarrel, was left unfinished and

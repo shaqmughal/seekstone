@@ -25,14 +25,14 @@ characteristic devotional attitude, it rests motionless upon the four
 posterior limbs waiting for prey, or occasionally stalks it with slow
 and silent movements, finally seizing it with its knife-blades and
 devouring it. Although apparently not daring to attack ants, these
-insects destroy great numbers of flies, grasshoppers and caterpillars,
+insects destroy great numbers of flies, [[Grasshopper|grasshoppers]] and caterpillars,
 and the larger South-American species even attack small frogs, lizards
 and birds. They are very pugnacious, fencing with their sword-like limbs
 "like hussars with sabres," the larger frequently devouring the smaller,
 and the females the males. The Chinese keep them in bamboo cages, and
 match them like fighting-cocks.
 
-The common species fixes its somewhat nut-like egg capsules on the stems
+The common species fixes its somewhat nut-like [[Egg|egg]] capsules on the stems
 of plants in September. The young are hatched in early summer, and
 resemble the adults, but are without wings.
 

@@ -7,7 +7,7 @@ topic: politics
 # Krochmal
 
 KROCHMAL, NAHMAN (1785-1840), Jewish scholar, was born at Brody in
-Galicia in 1785. He was one of the pioneers in the revival of Jewish
+[[Galicia]] in 1785. He was one of the pioneers in the revival of Jewish
 learning which followed on the age of Moses Mendelssohn. His chief work
 was the _Moreh Nebuche hazeman_ ("Guide for the Perplexed of the Age"),
 a title imitated from that of the 12th-century "Guide for the Perplexed"

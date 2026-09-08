@@ -20,16 +20,16 @@ are also exceedingly characteristic of cassoni, most of which are of
 massive and sarcophagus-like proportions with moulded lids, while many
 of them are adorned at their corners with figures sculptured in high
 relief. The scroll-work inlay is commonly simple and graceful,
-consisting of floral or geometrical motives, or arabesques. The examples
+consisting of floral or geometrical motives, or [[Arabesque|arabesques]]. The examples
 coated with gilded _gesso_ or blazoned with paintings are, however, the
 most magnificent. They were often made of chestnut, and decorated with
 flowers and foliage in a relief which, low at first, became after the
 Renaissance very high and sharp. The panels of the painted cassoni
 frequently bore representations of scriptural and mythological subjects,
-or incidents derived from the legends of chivalry. Nor was heraldry
+or incidents derived from the legends of [[Chivalry|chivalry]]. Nor was heraldry
 forgotten, the arms of the family for which the chest was made being
 perhaps emblazoned upon the front. These chests rarely bear dates or
-initials, but it is often possible to determine their history from their
+[[Initials|initials]], but it is often possible to determine their history from their
 armorial bearings.
 
 ## References

@@ -18,10 +18,10 @@ of trade communication with the outer world, and with the inland town of
 Villa Rica (95 m.) by a railway worked by an English company. The city
 faces upon a curve in the river bank forming what is called the Bay of
 Asuncion, and is built on a low sandy plain, rising to pretty hillsides
-overlooking the bay and the low, wooded country of the Chaco on the
+overlooking the bay and the low, wooded country of the [[Chaco]] on the
 opposite shore. The general elevation is only 253 ft. above sea-level.
-Asuncion is laid out on a regular plan, the credit for which is largely
-due to Dictator Francia; the principal streets are paved and lighted by
+Asuncion is laid out on a regular plan, the [[Credit|credit]] for which is largely
+due to [[Dictator]] Francia; the principal streets are paved and lighted by
 gas and electricity; and telephone and street-car services are
 maintained. The climate is hot but healthful, the mean annual
 temperature being about 72 deg. F. The city is the seat of a bishopric
@@ -35,15 +35,15 @@ majority of the residences being thatched, mud-walled cabins.
 Considerable progress was made during the last two decades of the 19th
 century, however, notwithstanding misgovernment and the extreme poverty
 of the people. Asuncion was founded by Ayolas in 1335, and is the oldest
-permanent Spanish settlement on the La Plata. It was for a long time the
+permanent Spanish settlement on the [[La Plata]]. It was for a long time the
 seat of Spanish rule in this region, and later the scene of a bitter
-struggle between the church authorities and Jesuits. Soon after the
-declaration of independence in 1811, the city fell under the despotic
+struggle between the church authorities and [[Jesuits]]. Soon after the
+[[Declaration|declaration]] of independence in 1811, the city fell under the despotic
 rule of Dr Francia, and then under that of the elder and younger Lopez,
 through which its development was greatly impeded. It was captured and
 plundered by the Brazilians in 1869, and has been the theatre of several
 revolutionary outbreaks since then, one of which (1905) resulted in a
-blockade of several months' duration.     (A. J. L.)
+[[Blockade|blockade]] of several months' duration.     (A. J. L.)
 
 ## See also
 

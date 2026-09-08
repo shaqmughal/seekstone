@@ -10,14 +10,14 @@ of Rome noticed above. It is strictly an abbreviation of Hormuzd-dad,
 of King Hormizd I. and II. ([Greek: Hormisdates]).
 
 1. HORMIZD I. (272-273) was the son of Shapur I., under whom he was
-governor of Khorasan, and appears in his wars against Rome (Trebellius
+governor of [[Khorasan]], and appears in his wars against Rome (Trebellius
 Pollio, _Trig. Tyr._ 2, where Noldeke has corrected the name Odomastes
 into Oromastes, i.e. Hormizd). In the Persian tradition of the history
 of Ardashir I., preserved in a Pahlavi text (Noldeke, _Geschichte des
 Artachsir I. Papakan_), he is made the son of a daughter of Mithrak, a
 Persian dynast, whose family Ardashir had extirpated because the magians
 had predicted that from his blood would come the restorer of the empire
-of Iran. Only this daughter is preserved by a peasant; Shapur sees her
+of [[Iran]]. Only this daughter is preserved by a peasant; Shapur sees her
 and makes her his wife, and her son Hormizd is afterwards recognized and
 acknowledged by Ardashir. In this legend, which has been partially
 preserved also in Tabari, the great conquests of Shapur are transferred
@@ -25,7 +25,7 @@ to Hormizd. In reality he reigned only one year and ten days.
 
 2. HORMIZD II., son of Narseh, reigned for seven years five months,
 302-309. Of his reign nothing is known. After his death his son
-Adarnases was killed by the grandees after a very short reign, as he
+Adarnases was killed by the [[Grandee|grandees]] after a very short reign, as he
 showed a cruel disposition; another son, Hormizd, was kept a prisoner,
 and the throne reserved for the child with which a concubine of Hormizd
 II. was pregnant and which received the name Shapur II. Hormizd escaped
@@ -39,7 +39,7 @@ Persia; his son, with the same name, became consul in 366 (Ammian. Marc.
 had continually to fight with his brothers and with the Ephthalites in
 Bactria, and was killed by Peroz in 459.
 
-4. HORMIZD IV., son of Chosroes I., reigned 578-590. He seems to have
+4. HORMIZD IV., son of [[Chosroes]] I., reigned 578-590. He seems to have
 been imperious and violent, but not without some kindness of heart. Some
 very characteristic stories are told of him by Tabari (Noldeke,
 _Geschichte d. Perser und Araber unter den Sasaniden_, 264 ff.). His
@@ -47,7 +47,7 @@ father's sympathies had been with the nobles and the priests. Hormizd
 protected the common people and introduced a severe discipline in his
 army and court. When the priests demanded a persecution of the
 Christians, he declined on the ground that the throne and the government
-could only be safe if it gained the goodwill of both concurring
+could only be safe if it gained the [[Goodwill|goodwill]] of both concurring
 religions. The consequence was that he raised a strong opposition in the
 ruling classes, which led to many executions and confiscations. When he
 came to the throne he killed his brothers, according to the oriental

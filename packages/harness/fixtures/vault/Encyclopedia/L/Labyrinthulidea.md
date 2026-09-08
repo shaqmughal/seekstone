@@ -28,14 +28,14 @@ this.
   1. A colony or "cell-heap" of _Labyrinthula vitellina_, Cienk.,
   crawling upon an Alga.
 
-  2. A colony or "cell-heap" of _Chlamydomyxa labyrinthuloides_, Archer,
+  2. A colony or "cell-heap" of _Chlamydomyxa labyrinthuloides_, [[Archer]],
   with fully expanded network of threads on which the oat-shaped
   corpuscles (cells) are moving. o, Is an ingested food particle; at c a
   portion of the general protoplasm has detached itself and become
   encysted.
 
   3 A portion of the network of _Labyrinthula vitellina_, Cienk., more
-  highly magnified. p, Protoplasmic mass apparently produced by fusion
+  highly magnified. p, Protoplasmic mass apparently produced by [[Fusion|fusion]]
   of several filaments. p´, Fusion of several cells which have lost
   their definite spindle-shaped contour. s, Corpuscles which have become
   spherical and are no longer moving (perhaps about to be encysted).
@@ -60,14 +60,14 @@ The cell-body contains numerous nuclei; but in its active state is not
 resolvable into distinct oval amoeboids. It is amphitrophic, ingesting
 and digesting other Protista, as well as "assimilating" by its
 chromatophores, the product being oil, not starch. The whole body may
-form a laminated cellulose resting cyst, from which it may only
+form a laminated [[Cellulose|cellulose]] resting cyst, from which it may only
 temporarily emerge (fig. 2), or it may undergo resolution into nucleate
 cells which then encyst, and become multinucleate before rupturing the
 cyst afresh.
 
 _Leydenia_ (F. Schaudinn) is a parasite in malignant diseases of the
 pleura. The pseudopodia of adjoining cells unite to form a network; but
-its affinities seem to such social naked Foraminifera as _Mikrogromia_.
+its affinities seem to such social naked [[Foraminifera]] as _Mikrogromia_.
 
   See Cienkowsky, _Archiv f. Microscopische Anatomie_, iii. 274 (1867),
   xii. 44 (1876); W. Archer, _Quart. Jour. Microscopic Science_, xv. 107
@@ -75,7 +75,7 @@ its affinities seem to such social naked Foraminifera as _Mikrogromia_.
   Jenkinson, _Ibid._, xiii. 89 (1899); W. Zopf, _Beiträge zur
   Physiologie und Morphologie niederer Organismen_, ii. 36 (1892), iv.
   60 (1894); Pènard, _Archiv für Protistenkunde_, iv. 296 (1904); F.
-  Schaudinn and Leyden, _Sitzungsberichte der Königlich preussischen
+  Schaudinn and [[Leyden]], _Sitzungsberichte der Königlich preussischen
   Akademie der Wissenschaft_, vi. (1896).
 
 ## References

@@ -8,21 +8,21 @@ tags: [renaissance, history]
 
 # Latium
 
-LATIUM,[1] in ancient geography, the name given to the portion of
+LATIUM,[1] in ancient [[Geography|geography]], the name given to the portion of
 central Italy which was bounded on the N.W. by Etruria, on the S.W. by
-the Tyrrhenian Sea, on the S.E. by Campania, on the E. by Samnium and on
+the Tyrrhenian Sea, on the S.E. by [[Campania]], on the E. by Samnium and on
 the N.E. by the mountainous district inhabited by the Sabini, Aequi and
 Marsi. The name was, however, applied very differently at different
 times. Latium originally means the land of the Latini, and in this
 sense, which alone is in use historically, it was a tract of limited
 extent; but after the overthrow of the Latin confederacy, when the
-neighbouring tribes of the Rutuli, Hernici, Volsci and Aurunci, as well
+neighbouring tribes of the Rutuli, Hernici, Volsci and [[Aurunci]], as well
 as the Latini properly so called, were reduced to the condition of
 subjects and citizens of Rome, the name of Latium was extended to
 comprise them all. It thus denoted the whole country from the Tiber to
 the mouth of the Savo, and just included the Mons Massicus, though the
 boundary was not very precisely fixed (see below). The change thus
-introduced, though already manifest in the composition of the Latin
+introduced, though already [[Manifest|manifest]] in the composition of the Latin
 league (see below) was not formally established till the reign of
 Augustus, who formed of this larger Latium and Campania taken together
 the first region of Italy; but it is already recognized by Strabo (v. 3.
@@ -37,7 +37,7 @@ between 4000 and 5000 ft. Several of the Latin cities, including Tibur
 and Praeneste, were situated on the terrace-like underfalls of these
 mountains,[2] while Cora, Norba and Setia were placed in like manner on
 the slopes of the Volscian mountains (Monti Lepini), a rugged and lofty
-limestone range, which runs parallel to the main mass of the Apennines,
+[[Limestone|limestone]] range, which runs parallel to the main mass of the Apennines,
 being separated from them, however, by the valley of the Trerus (Sacco),
 and forms a continuous barrier from there to Terracina. No volcanic
 eruptions are known to have taken place in these mountains within the
@@ -62,7 +62,7 @@ formidable description.
 
   Four main periods may be distinguished in the geological history of
   Rome and the surrounding district. The hills on the right bank of the
-  Tiber culminating in Monte Mario (455 ft.) belong to the first of
+  Tiber culminating in Monte [[Mario]] (455 ft.) belong to the first of
   these, being of the Pliocene formation; they consist of a lower
   bluish-grey clay and an upper group of yellow sands and gravels. This
   clay since Roman times has supplied the material for brick-making, and
@@ -78,13 +78,13 @@ formidable description.
   springs, containing abundant carbonate of lime in solution, produced
   deposits of travertine at various points. In the third, after the
   Campagna, by a great general uplift, had become a land surface,
-  volcanic energy found an outlet in comparatively few large craters,
+  volcanic energy found an outlet in comparatively few large [[Crater|craters]],
   which emitted streams of hard lava as well as fragmentary materials,
   the latter forming sperone (_lapis Gabinus_) and peperino (_lapis
   Albanus_), while upon one of the former, which runs from the Alban
   Hills to within 2 m. of Rome, the Via Appia was carried. The two main
   areas near Rome are formed by the group of craters on the north
-  (Bracciano, Bolsena, &c.) and the Alban Hills on the south, the latter
+  (Bracciano, [[Bolsena]], &c.) and the Alban Hills on the south, the latter
   consisting of one great crater with a base about 12 m. in diameter, in
   the centre of which a smaller crater was later on built up (the basin
   is now known as the Campo di Annibale) with several lateral vents (the
@@ -125,9 +125,9 @@ formidable description.
   of the Tiber to the promontory of Antium (Porto d'Anzio); a low rocky
   headland, projecting out into the sea, and forming the only
   considerable angle in this line of coast. Thence again a low sandy
-  shore of similar character, but with extensive shore lagoons which
+  shore of similar character, but with extensive shore [[Lagoon|lagoons]] which
   served in Roman times and serve still for fish-breeding, extends for
-  about 24 m. to the foot of the Monte Circeo (_Circeius Mons_, q.v.).
+  about 24 m. to the foot of the Monte Circeo (_[[Circeius Mons]]_, q.v.).
   The region of the Pomptine Marshes (q.v.) occupies almost the whole
   tract between the sandy belt on the seashore and the Volscian
   mountains, extending from the southern foot of the Alban Hills below
@@ -179,7 +179,7 @@ formidable description.
   Numerous isolated palaeolithic objects of the Mousterian type have
   been found in the neighbourhood of Rome in the quaternary gravels of
   the Tiber and Anio; but no certain traces of the neolithic period have
-  come to light, as the many flint implements found sporadically round
+  come to light, as the many flint [[Implement|implements]] found sporadically round
   Rome probably belong to the period which succeeded neolithic (called
   by Italian archaeologists the eneolithic period) inasmuch as both
   stone and metal (not, however, bronze, but copper) were in use.[4] At
@@ -194,7 +194,7 @@ formidable description.
   cemeteries and objects of a similar character have been found in Rome
   itself and in southern Etruria, especially the characteristic
   hut-urns. The objects found in these cemeteries show close affinity
-  with those found in the terremare of Emilia, these last being of
+  with those found in the terremare of [[Emilia]], these last being of
   earlier date, and hence Pigorini and Helbig consider that the Latini
   were close descendants of the inhabitants of the terremare. On the
   other hand, the ossuaries of the Villanova type, while they occur as
@@ -207,27 +207,27 @@ formidable description.
   complete accord, _e.g_. some archaeologists assign to the 11th, others
   (and with far better reasons) to the 8th century B.C., the earliest
   tombs of the Alban necropolis and the coeval tombs of the necropolis
-  recently discovered in the Forum at Rome. In this last necropolis
-  cremation seems slightly to precede inhumation in date.
+  recently discovered in the [[Forum]] at Rome. In this last necropolis
+  [[Cremation|cremation]] seems slightly to precede inhumation in date.
 
   For the prehistoric period see _Bullettino di paleontologia Italiana,
   passim_, B. Modestov, _Introduction à l'histoire romaine_ (Paris,
-  1907), and T. E. Peet, _The Stone and Bronze Ages in Italy_ (Oxford,
+  1907), and T. E. Peet, _The Stone and [[Bronze Age|Bronze Ages]] in Italy_ (Oxford,
   1909).
 
 
   Latin League.
 
 It is uncertain to what extent reliance can be placed upon the
-traditional accounts of the gradual spread of the supremacy of Rome in
+traditional accounts of the [[Gradual|gradual]] spread of the supremacy of Rome in
 Latium, and the question cannot be discussed here.[5] The list of the
-thirty communities belonging to the Latin league, given by Dionysius of
-Halicarnassus (v. 61), is, however, of great importance. It is
+thirty communities belonging to the Latin league, given by [[Dionysius]] of
+[[Halicarnassus]] (v. 61), is, however, of great importance. It is
 considered by Th. Mommsen (_Roman History_, i. 448) that it dates from
 about the year 370 B.C., to which period belong the closing of the
 confederacy, no fresh communities being afterwards admitted to it, and
 the consequent fixing of the boundaries of Latium. The list is as
-follows: Ardeates, Aricini, Bovillani,[6] Bubentani, Cabani, Carventani,
+follows: Ardeates, [[Aricini]], Bovillani,[6] Bubentani, Cabani, Carventani,
 Circeiates, Coriolani, Corbintes, Corni (probably Corani), Fortinei (?),
 Gabini, Laurentini, Lavinates, Labicani, Lanuvini, Nomentani, Norbani,
 Praenestini, Pedani, Querquetulani, Satricani, Scaptini, Setini,
@@ -238,12 +238,12 @@ Tellenii, Tiburtini, Tolerini, Tusculani, Veliterni.
   in the legendary history of Aeneas, were situated in the sandy strip
   near the sea-coast--the former only 8 m. S.E. of Ostia, which was from
   the first merely the port of Rome, and never figured as an independent
-  city. Farther S.E. again lay Ardea, the ancient capital of the Rutuli,
+  city. Farther S.E. again lay [[Ardea]], the ancient capital of the Rutuli,
   and some distance beyond that Antium, situated on the sea-coast, which
-  does not occur in the list of Dionysius, and is, in the early annals
+  does not occur in the list of Dionysius, and is, in the early [[Annals|annals]]
   of Rome, called a Volscian town--even their chief city. On the
   southern underfalls of the Alban mountains, commanding the plain at
-  the foot, stood Lanuvium and Velitrae; Aricia rose on a neighbouring
+  the foot, stood Lanuvium and Velitrae; [[Aricia]] rose on a neighbouring
   hill, and Corioli was probably situated on the lower slopes. The
   village of the Cabani (probably identical with the Cabenses) is
   possibly to be sought on the site of the modern Rocca di Papa, N. of
@@ -251,7 +251,7 @@ Tellenii, Tiburtini, Tolerini, Tusculani, Veliterni.
   northern summits of the same group; while opposite to it, in a
   commanding situation on a lofty offshoot of the Apennines, rose
   Praeneste, now Palestrina. Bola and Pedum were probably in the same
-  neighbourhood, Labici on an outlying summit (Monte Compatri) of the
+  neighbourhood, [[Labici]] on an outlying summit (Monte Compatri) of the
   Alban Hills below Tusculum, and Corbio (probably at Rocca Priora) on a
   rocky summit east of the same city. Tibur (Tivoli) occupied a height
   commanding the outlet of the river Anio. Corniculum, farther west,
@@ -262,7 +262,7 @@ Tellenii, Tiburtini, Tolerini, Tusculani, Veliterni.
   the Apennines and the Tiber, and close to the Sabine frontier. The
   boundary between the two nations was indeed in this part very
   fluctuating. Nearly in the centre of the plain of the Campagna stood
-  Gabii; Bovillae was also in the plain, but close to the Appian Way,
+  [[Gabii]]; [[Bovillae]] was also in the plain, but close to the [[Appian]] Way,
   where it begins to ascend the Alban Hills. Several other
   cities--Tellenae, Scaptia and Querquetulum--mentioned in the list of
   Dionysius were probably situated in the Campagna, but the site cannot
@@ -277,11 +277,11 @@ Tellenii, Tiburtini, Tolerini, Tusculani, Veliterni.
 
 A considerable number of the Latin cities had before 370 B.C. either
 been utterly destroyed or reduced to subjection by Rome, and had thus
-lost their independent existence. Such were Antemnae and Caenina, both
+lost their independent existence. Such were [[Antemnae]] and Caenina, both
 of them situated within a few miles of Rome to the N., the conquest of
-which was ascribed to Romulus; Fidenae, about 5 m. N. of the city, and
-close to the Tiber; and Crustumerium, in the hilly tract farther north
-towards the Sabine frontier. Suessa Pometia also, on the borders of the
+which was ascribed to Romulus; [[Fidenae]], about 5 m. N. of the city, and
+close to the Tiber; and [[Crustumerium]], in the hilly tract farther north
+towards the Sabine frontier. Suessa Pometia also, on the [[Borders|borders]] of the
 Pontine Marshes, to which it was said to have given name, was a city of
 importance, the destruction of which was ascribed to Tarquinius
 Superbus. In any case it had disappeared before 370 B.C., as it does not
@@ -290,7 +290,7 @@ probably to be sought between Velletri and Cisterna. But by far the most
 important of these extinct cities was Alba, on the lake to which it gave
 its name, which was, according to universally received tradition, the
 parent of Rome, as well as of numerous other cities within the limits of
-Latium, including Gabii, Fidenae, Collatia, Nomentum and other
+Latium, including Gabii, Fidenae, [[Collatia]], Nomentum and other
 well-known towns. Whether or not this tradition deserves to rank as
 historical, it appears certain that at a still earlier period there
 existed a confederacy of thirty towns, of which Alba was the supreme
@@ -306,7 +306,7 @@ This earlier league was doubtless broken up by the fall of Alba; it was
 probably the increasing power of the Volsci and Aequi that led to the
 formation of the later league, including all the more powerful cities of
 Latium, as well as to the alliance concluded by them with the Romans in
-the consulship of Spurius Cassius (493 B.C.). Other cities of the Latin
+the consulship of Spurius [[Cassius]] (493 B.C.). Other cities of the Latin
 league had already (according to the traditional dates) received Latin
 colonies--Velitrae (494 B.C.), Norba (492), Ardea (442), Labici (418),
 Circei (393), Satricum (385), Setia (382).
@@ -329,18 +329,18 @@ We are on firmer ground in dealing with the spread of the supremacy of
 Rome in Latium when we take account of the foundation of new colonies
 and of the formation of new tribes, processes which as a rule go
 together. The information that we have as to the districts in which the
-sixteen earliest clans (_tribus rusticae_)[9] were settled shows us
+sixteen earliest [[Clan|clans]] (_tribus rusticae_)[9] were settled shows us
 that, except along the Tiber, Rome's dominion extended hardly more than
 5 m. beyond the city gates (Mommsen, _History of Rome_, i. 58). Thus,
 towards the N. and E. we find the towns of Antemnae, Fidenae, Caenina
 and Gabii;[10] on the S.E., towards Alba, the boundary of Roman
-territory was at the Fossae Cluiliae, 5 m. from Rome, where Coriolanus
+territory was at the Fossae Cluiliae, 5 m. from Rome, where [[Coriolanus]]
 encamped (Livy ii. 39), and, on the S., towards Laurentum at the 6th
 mile, where sacrifice to Terminus was made (Ovid, _Fasti_, ii. 681): the
 Ambarvalia too were celebrated even in Strabo's day (v. 3. 3. p. 230) at
 a place called [Greek: Phêstoi] between the 5th and 6th mile. The
-identification (cf. Hülsen in Pauly-Wissowa, _Realencyclopädie_, vi.
-2223) of this locality with the grove of the Arval brothers at the 5th
+[[Identification|identification]] (cf. Hülsen in Pauly-Wissowa, _Realencyclopädie_, vi.
+2223) of this locality with the grove of the [[Arval Brothers|Arval brothers]] at the 5th
 mile of the Via Portuensis, to the W. of Rome, and of the Ambarvalia
 with the festival celebrated by this brotherhood in May of each year, is
 now generally accepted. But Roman sway must either from the first, or
@@ -358,7 +358,7 @@ earliest tribes, so far as these are known to us. The _tribus Romilia_
 was settled on the right bank of the Tiber near the sanctuary of the
 Arvales, the _Galeria_ perhaps a little farther west on the lower course
 of the stream now known as Galera, and the _Fabia_ perhaps on the
-Cremera towards Veii. We know that the _pagus Lemonius_ was on the Via
+[[Cremera]] towards Veii. We know that the _pagus Lemonius_ was on the Via
 Latina, and that the _tribus Pupinia_ dwelt between Tusculum and the
 city, while the territory of the _Papiria_ possibly lay nearer Tusculum,
 as it was to this tribe that the Roman citizens in Tusculum belonged in
@@ -409,7 +409,7 @@ tribes were grouped is not known to us.
   Tiber bear the names of towns which belonged to the league--Nomentum,
   Tibur, Praeneste, Labici, Ardea, Laurentum--while Ficulea and Collatia
   do not appear. The Via Pedana, leading to Pedum, is known to us only
-  from an inscription (_Bull. Soc. Antiquaires de France_, 1905, p. 177)
+  from an inscription (_[[Bull]]. Soc. Antiquaires de France_, 1905, p. 177)
   discovered in Tunisia in 1905, and may be of much later origin; it was
   a branch of the Via Praenestina.
 
@@ -424,12 +424,12 @@ We can trace the advance of the Roman supremacy with greater ease after
 for what it is worth) until 299 B.C. every accession of territory is
 marked by the foundation of a group of new tribes; the limit of 35 in
 all was reached in the latter year. In 387, after the departure of the
-Gauls, southern Etruria was conquered, and four new tribes were formed:
+[[Gaul|Gauls]], southern Etruria was conquered, and four new tribes were formed:
 _Arnensis_ (probably derived from Aro, mod. Arrone--though the ancient
 name does not occur in literature--the stream which forms the outlet to
 the lake of Bracciano, anc. _Lacus Sabatinus_),[13] _Sabatina_ (called
 after this lake), _Stellatina_ (named from the Campus Stellatinus, near
-Capena; cf. Festus p. 343 Müll.) and _Tromentina_ (which, Festus tells
+[[Capena]]; cf. Festus p. 343 Müll.) and _Tromentina_ (which, Festus tells
 us, was so called from the Campus Tromentus, the situation of which we
 do not know). Four years later were founded the Latin colonies of
 Sutrium and Nepet. In 358 B.C. Roman preponderance in the Pomptine
@@ -447,29 +447,29 @@ further advance in the same direction ending in the capture of Privernum
 in 329 B.C. is marked by the establishment in 318 B.C. of the _tribus
 Oufentina_ (from the river Ufens which runs below Setia, mod. _Sezze_,
 and Privernum, mod. _Piperno_, and the _tribus Falerna_ (in the Ager
-Falernus), while the foundation of the colonies of Cales (334) and
-Fregellae (328) secured the newly won south Volscian and Campanian
+Falernus), while the foundation of the colonies of [[Cales]] (334) and
+[[Fregellae]] (328) secured the newly won south Volscian and Campanian
 territories and led no doubt to a prolongation of the Via Latina. The
 moment had now come for the pushing forward of another line of
 communication, which had no doubt reached Tarracina in 329 B.C. but was
 now definitely constructed (_munita_) as a permanent military highway as
-far as Capua in 312 B.C. by Appius Claudius, after whom it was named. To
+far as [[Capua]] in 312 B.C. by Appius Claudius, after whom it was named. To
 him no doubt is due the direct line of road through the Pontine Marshes
 from Velitrae to Terracina. Its construction may fairly be taken to mark
 the period at which the roads of which we have spoken, hitherto probably
 mere tracks, began to be transformed into real highways. In the same
-year (312) the colony of Interamna Lirenas was founded, while Luceria,
+year (312) the colony of [[Interamna Lirenas]] was founded, while Luceria,
 Suessa (Aurunca) and Saticula had been established a year or two
 previously. Sora followed nine years later. In 299 B.C. further
 successes led to the establishment of two new tribes--the _Teretina_ in
 the upper valley of the Trerus (Sacco) and the _Aniensis_, in the upper
 valley of the Anio--while to about the same time we must attribute the
 construction of two new military roads, both secured by fortresses. The
-southern road, the Via Valeria led to Carsioli and Alba Fucens (founded
+southern road, the Via Valeria led to [[Carsioli]] and Alba Fucens (founded
 as Latin colonies respectively in 298 and 303 B.C.), and the northern
-(afterwards the Via Flaminia[15]) to Narnia (founded as a Latin colony
+(afterwards the Via [[Flaminia]][15]) to Narnia (founded as a Latin colony
 in 299 B.C.). There is little doubt that the formation of the _tribus
-Quirina_ (deriving its name possibly from the town of Cures) and the
+Quirina_ (deriving its name possibly from the town of [[Cures]]) and the
 _tribus Velina_ (from the river Velinus, which forms the well-known
 waterfalls near Terni) is to be connected with the construction of the
 latter high road, though its date is not certainly known. The further
@@ -485,7 +485,7 @@ prosperity of the territory which immediately surrounded the city.[16]
 What had previously, it seems, been a well-peopled region, with peasant
 proprietors, kept healthy by careful drainage, became in the 4th and 3rd
 centuries B.C. a district consisting in large measure of huge estates
-(_latifundia_) owned by the Roman aristocracy, cultivated by gangs of
+(_latifundia_) owned by the Roman [[Aristocracy|aristocracy]], cultivated by gangs of
 slaves. This led to the disappearance of the agricultural population, to
 a decline in public safety, and to the spread of malaria in many parts;
 indeed, it is quite possible that it was not introduced into Latium
@@ -502,8 +502,8 @@ altogether ceased to exist, but the statement of Pliny that fifty-three
 communities (_populi_) had thus perished within the boundaries of Old
 Latium is perhaps exaggerated. By the end of the Republic a good many
 parts of Latium were infected, and Rome itself was highly malarious in
-the warm months (see W. H. S. Jones in _Annals of Archaeology and
-Anthropology_, ii. 97, Liverpool, 1909). The emperors Claudius, Nerva
+the warm months (see W. H. S. Jones in _Annals of [[Archaeology]] and
+Anthropology_, ii. 97, [[Liverpool]], 1909). The emperors Claudius, Nerva
 and Trajan turned their attention to the district, and under their
 example and exhortation the Roman aristocracy erected numerous villas
 within its boundaries, and used them at least for summer residences.
@@ -521,7 +521,7 @@ the Via Latina, and that of Hadrian near Tibur, the largest of all.
 When the land tax was introduced into Italy in 292, the first region of
 Augustus obtained the name of _provincia Campania_. Later on the name
 Latium entirely disappeared, and the name Campania extended as far as
-Veii and the Via Aurelia, whence the medieval and modern name Campagna
+Veii and the Via [[Aurelia]], whence the medieval and modern name Campagna
 di Roma. The donation made by Constantine to various churches of Rome of
 numerous estates belonging to the _patrimonium Caesaris_ in the
 neighbourhood of Rome was of great historical importance, as being the
@@ -529,7 +529,7 @@ origin of the territorial dominion of the papacy. His example was
 followed by others, so that the church property in the Campagna soon
 became considerable; and, owing to the immunities and privileges which
 it enjoyed, a certain revival of prosperity ensued. The invasions of the
-barbarian hordes did great harm, but the formation of centres
+barbarian [[Horde|hordes]] did great harm, but the formation of centres
 (_domuscultae_) in the 8th and 9th centuries was a fact of great
 importance: the inhabitants, indeed, formed the medieval militia of the
 papacy. Smaller centres (the _colonia_--often formed in the remains of
@@ -540,7 +540,7 @@ exarchate of Ravenna, similar to those established by Narses in the
 other districts of Italy.
 
 
-  Under the commune.
+  Under the [[Commune|commune]].
 
   Modern conditions
 
@@ -566,7 +566,7 @@ the amount of salt (which was a monopoly of the commune of Rome)
 consumed by each, Tomassetti bases an estimate of the population: this
 was about equal to that of our own times, but differently distributed,
 some of the smaller centres having disappeared at the expense of the
-towns. Several of the popes, as Sixtus IV. and Julius III., made
+towns. Several of the popes, as Sixtus IV. and [[Julius]] III., made
 unsuccessful attempts to improve the condition of the Campagna, the
 former making a serious attempt to revive agriculture as against
 pasture, while in the latter part of the 16th century a line of
@@ -575,7 +575,7 @@ true, falls the erection of many fine villas in the neighbourhood of
 Rome--not only in the hills round the Campagna, but even in certain
 places in the lower ground, e.g. those of Julius II. at La Magliana and
 of Cardinal Trivulzio at Salone,--and these continued to be frequented
-until the end of the 18th century, when the French Revolution dealt a
+until the end of the 18th century, when the [[French Revolution]] dealt a
 fatal blow to the prosperity of the Roman nobility. The 17th and 18th
 centuries, however, mark the worst period of depopulation in the more
 malarious parts of the Campagna, which seems to have begun in the 15th
@@ -601,7 +601,7 @@ clearing the marshes by pumping, the method principally employed; (ii.)
 the system of warping, i.e. directing a river so that it may deposit its
 sedimentary matter in the lower-lying parts, thus levelling them up and
 consolidating them, and then leading the water away again by drainage;
-(iii.) the planting of firs and eucalyptus trees, e.g. at Tre Fontane
+(iii.) the planting of firs and eucalyptus trees, e.g. at Tre [[Fontane]]
 and elsewhere. These efforts have not been without success, though it
 cannot be affirmed that the malarial Campagna is anything like healthy
 yet. The regulation of the rivers, more especially of the Tiber, is
@@ -614,7 +614,7 @@ annually under the plough. In its picturesque desolation, contrasting so
 strongly with its prosperity in Roman times, immediately surrounding a
 city of over half a million inhabitants, and with lofty mountains in
 view from all parts of it, it is one of the most interesting districts
-in the world, and has a peculiar and indefinable charm. The modern
+in the world, and has a peculiar and indefinable [[Charm|charm]]. The modern
 province of Rome (forming the _compartimento_ of Lazio) includes also
 considerable mountain districts, extending as far N.W. as the Lake of
 Bolsena, and being divided on the N.E. from Umbria by the Tiber, while
@@ -624,7 +624,7 @@ regarded as the centre, is known as the Ciociaria, from a kind of
 sandals (_cioce_) worn by the peasants. On the S.E. too a considerable
 proportion of the group of the Lepini belongs to the province. The land
 is for the most part let by the proprietors to _mercanti di Campagna_,
-who employ a subordinate class of factors (_fattori_) to manage their
+who employ a subordinate class of factors (_fattori_) to [[Manage|manage]] their
 affairs on the spot.
 
 
@@ -637,7 +637,7 @@ theories as to its origin had hitherto been propounded, but it is now
 possible to combat it on a definite plan, by draining the marshes,
 protecting the houses by fine mosquito-proof wire netting (for
 _Anopheles_ is not active by day), improving the water supply, &c.,
-while for those who have fever, quinine (now sold cheaply by the state)
+while for those who have [[Fever|fever]], quinine (now sold cheaply by the state)
 is a great specific. A great improvement is already apparent; and a law
 carried in 1903 for the _Bonifica dell' Agro Romano_ compels the
 proprietors within a radius of some 6 m. of Rome to cultivate their
@@ -654,15 +654,15 @@ in 1905).
 
   Produce.
 
-The wheat crop in 1906 in the Agro Romano was 8,108,500 bushels, the
-Indian corn 3,314,000 bushels, the wine 12,100,000 gallons and the olive
+The wheat crop in 1906 in the Agro Romano was 8,108,500 [[Bushel|bushels]], the
+Indian [[Corn|corn]] 3,314,000 bushels, the wine 12,100,000 gallons and the olive
 oil 1,980,000 gallons,--these last two from the hill districts. The wine
 production had declined by one-half from the previous year, exportation
 having fallen off in the whole country. 1907, however, was a year of
 great overproduction all over Italy. The wine of the Alban hills is
 famous in modern as in ancient times, but will not as a rule bear
 exportation. The forests of the Alban hills and near the coast produce
-much charcoal and light timber, while the Sabine and Volscian hills have
+much [[Charcoal|charcoal]] and light timber, while the Sabine and Volscian hills have
 been largely deforested and are now bare limestone rocks. Much of the
 labour in the winter and spring is furnished by peasants who come down
 from the Volscian and Hernican mountains, and from Abruzzi, and occupy
@@ -683,10 +683,10 @@ towns, is now considerable.
   its limits. It included the Hernican cities of Anagnia, Ferentinum,
   Alatrium and Verulae--a group of mountain strongholds on the north
   side of the valley of the Trerus (Sacco); together with the Volscian
-  cities on the south of the same valley, and in that of the Liris, the
+  cities on the south of the same valley, and in that of the [[Liri|Liris]], the
   whole of which, with the exception of its extreme upper end, was
   included in the Volscian territory. Here were situated Signia,
-  Frusino, Fabrateria, Fregellae, Sora, Arpinum, Atina, Aquinum, Casinum
+  Frusino, Fabrateria, Fregellae, Sora, Arpinum, [[Atina]], Aquinum, [[Casinum]]
   and Interamna; Anxur (Terracina) was the only seaport that properly
   belonged to the Volscians, the coast from thence to the mouth of the
   Liris being included in the territory of the Aurunci, or Ausones as
@@ -745,9 +745,9 @@ towns, is now considerable.
   A. Nibby, _Analisi storico-topografico-antiquaria della carta dei
   dintorni di Roma_ (3 vols., 2nd ed., 1848); J. Westphal, _Die römische
   Kampagne_ (Berlin, 1829); A. Bormann, _Alt-lateinische Chorographie
-  und Städte-Geschichte_ (Halle, 1852); M. Zoeller, _Latium und Rom_
+  und Städte-Geschichte_ ([[Halle]], 1852); M. Zoeller, _Latium und Rom_
   (Leipzig, 1878); R. Burn's _Rome and the Campagna_ (London, 1871); H.
-  Dessau, _Corp. Inscr. Lat._ v. xiv. (Berlin, 1887) (Latium); Th.
+  [[Dessau]], _Corp. Inscr. Lat._ v. xiv. (Berlin, 1887) (Latium); Th.
   Mommsen, _Corp. Inscr. Lat._ vol. x. pp. 498-675 (Berlin, 1883); G.
   Tomassetti, "Della Campagna Romana nel medio evo," published in the
   _Archivio della Società Romana di Storia Patria_ (Rome, 1874-1907),
@@ -766,7 +766,7 @@ towns, is now considerable.
 
 FOOTNOTES:
 
-  [1] _Latium_, from the same root as _latus_, side; _later_, brick;
+  [1] _Latium_, from the same root as _latus_, side; _later_, [[Brick|brick]];
     [Greek: platys], flat; Sans. _prath_: not connected with _latus_,
     wide.
 
@@ -786,7 +786,7 @@ FOOTNOTES:
     LIGURIA, SICULI and ARICIA. For the Etruscan dominion in the Latin
     plain see ETRURIA. Special mention may here be made of one or two
     points of importance. The legends represent the Latins of the
-    historical period as a fusion of different races, Ligures, Veneti and
+    historical period as a [[Fusion|fusion]] of different races, Ligures, Veneti and
     Siculi among them; the story of the alliance of the Trojan settler
     Aeneas with the daughter of Latinus, king of the aborigines, and the
     consequent enmity of the Rutulian prince Turnus, well known to
@@ -817,8 +817,8 @@ FOOTNOTES:
     Venetulani, Vitellenses (not far from Corbio).
 
   [8] To an earlier stage of the Latin league, perhaps to about 430
-    B.C. (Mommsen, _op. cit._ 445 n. 2) belongs the dedication of the
-    grove of Diana by a dictator Latinus, in the name of the people of
+    B.C. (Mommsen, _op. cit._ 445 n. 2) belongs the [[Dedication|dedication]] of the
+    grove of Diana by a [[Dictator|dictator]] Latinus, in the name of the people of
     Tusculum, Aricia, Lanuvium, Laurentum, Cora, Tibur, Suessa Pometia
     and Ardea.
 

@@ -4,21 +4,21 @@ LA SALLE, RENÉ ROBERT CAVELIER, SIEUR DE (1643-1687), French explorer in
 North America, was born at Rouen on the 22nd of November 1643. He taught
 for a time in a school (probably Jesuit) in France, and seems to have
 forfeited his claim to his father's estate by his connexion with the
-Jesuits. In 1666 he became a settler in Canada, whither his brother, a
+[[Jesuits]]. In 1666 he became a settler in Canada, whither his brother, a
 Sulpician abbé, had preceded him. From the Seminary of St Sulpice in
-Montreal La Salle received a grant on the St Lawrence about 8 m. above
+Montreal La Salle received a grant on the St [[Lawrence]] about 8 m. above
 Montreal, where he built a stockade and established a fur-trading post.
 In 1669 he sold this post (partly to the Sulpicians who had granted it
 to him) to raise funds for an expedition to China[1] by way of the
 Ohio,[2] which he supposed, from the reports of the Indians, to flow
 into the Pacific. He passed up the St Lawrence and through Lake Ontario
-to a Seneca village on the Genesee river; thence with an Iroquois guide
+to a Seneca village on the Genesee river; thence with an [[Iroquois]] guide
 he crossed the mouth of the Niagara (where he heard the noise of the
 distant falls) to Ganastogue, an Iroquois colony at the head of Lake
-Ontario, where he met Louis Joliet and received from him a map of parts
+Ontario, where he met Louis [[Joliet]] and received from him a [[Map|map]] of parts
 of the Great Lakes. La Salle's missionary comrades now gave up the quest
 for China to preach among the Indians. La Salle discovered the Ohio
-river, descended it at least as far as the site of Louisville, Kentucky,
+river, descended it at least as far as the site of Louisville, [[Kentucky]],
 and possibly, though not probably, to its junction with the Mississippi,
 and in 1669-1670, abandoned by his few followers, made his way back to
 Lake Erie. Apparently he passed through Lake Erie, Lake Huron and Lake
@@ -33,21 +33,21 @@ extending the French power to the lower Mississippi Valley. He secured
 the support of Count Frontenac, then governor of Canada, and in 1674 and
 1677 visited France, obtaining from Louis XIV. on his first visit a
 patent of nobility and a grant of lands about Fort Frontenac, on the
-site of the present Kingston, Ontario, and on his second visit a patent
+site of the present [[Kingston]], Ontario, and on his second visit a patent
 empowering him to explore the West at his own expense, and giving him
 the buffalo-hide monopoly. Late in the year 1678, at the head of a small
 party, he started from Fort Frontenac. He established a post above
 Niagara Falls, where he spent the winter, and where, his vessel having
 been wrecked, he built a larger ship, the "Griffon," in which he sailed
-up the Great Lakes to Green Bay (Lake Michigan), where he arrived in
-September 1679. Sending back the "Griffon" freighted with furs, by which
+up the Great Lakes to [[Green Bay]] (Lake Michigan), where he arrived in
+September 1679. Sending back the "Griffon" freighted with [[Fur|furs]], by which
 he hoped to satisfy the claims of his creditors, he proceeded to the
 Illinois river, and near what is now Peoria, Illinois, built a fort,
 which he called Fort Crèvecoeur. Thence he detached Father Hennepin,
 with one companion, to explore the Illinois to its mouth, and, leaving
 his lieutenant, Henri de Tonty (c. 1650-c. 1702),[3] with about fifteen
 men, at Fort Crèvecoeur, he returned by land, afoot, to Canada to obtain
-needed supplies, discovering the fate of the "Griffon" (which proved to
+needed supplies, discovering the [[Fate|fate]] of the "Griffon" (which proved to
 have been lost), thwarting the intrigues of his enemies and appeasing
 his creditors. In July 1680 news reached him at Fort Frontenac that
 nearly all Tonty's men had deserted, after destroying or appropriating
@@ -62,18 +62,18 @@ December 1681 to the Illinois. Passing down the Illinois to the
 Mississippi, which he reached in February 1682, he floated down that
 stream to its mouth, which he reached on the 9th of April, and, erecting
 there a monument and a cross, took formal possession in the name of
-Louis XIV., in whose honour he gave the name "Louisiana" to the region.
+Louis XIV., in whose honour he gave the name "[[Louisiana]]" to the region.
 He then returned to Michilimackinac, whence, with Tonty, he went again
 to the Illinois and established a fort, Fort St Louis, probably on
 Starved Rock (near the present Ottawa, Illinois), around which nearly
 20,000 Indians (Illinois, Miamis and others seeking protection from the
-Iroquois) had been gathered. La Salle then went to Quebec, and La Barre,
+Iroquois) had been gathered. La Salle then went to Quebec, and La [[Barre]],
 who had succeeded Frontenac, being unfriendly to him, again visited
 France (1684), where he succeeded in interesting the king in a scheme to
 establish a fort at the mouth of the Mississippi and to seize the
 Spanish posts in the vicinity. On the 24th of July 1684, with four
 vessels under the command of himself and Captain Beaujeu, a naval
-officer, he sailed from La Rochelle. Mistaking, it appears, the inlets
+officer, he sailed from [[La Rochelle]]. Mistaking, it appears, the inlets
 of Matagorda Bay (which La Salle called St Louis's Bay) in the present
 state of Texas, for the mouth of an arm of the Mississippi, he landed
 there, and Beaujeu, soon afterwards returned to France. The expedition
@@ -104,11 +104,11 @@ La Salle was one of the greatest of the explorers in North America.
 Besides discovering the Ohio and probably the Illinois, he was the first
 to follow the Mississippi from its upper course to its mouth and thus to
 establish the connexion between the discoveries of Radisson, Joliet and
-Marquette in the north with those of De Soto in the south. He was stern,
+Marquette in the north with those of [[De Soto]] in the south. He was stern,
 indomitable and full of resource.
 
   The best accounts of La Salle's explorations may be found in Francis
-  Parkman's _La Salle and the Discovery of the Great West_ (Boston,
+  Parkman's _La Salle and the Discovery of the Great West_ ([[Boston]],
   1879; later revised editions), in Justin Winsor's _Cartier to
   Frontenac_ (Boston, 1894), and in J. G. Shea's _Discovery and
   Exploration of the Mississippi Valley_ (New York, 1852); see also P.
@@ -121,7 +121,7 @@ indomitable and full of resource.
   1697). Original narratives may be found, translated into English, in
   _The Journeys of René Robert Cavelier, Sieur de La Salle, as related
   by his Faithful Lieutenant, Henri de Tonty, &c._ (2 vols., New York,
-  1905), edited by I. J. Cox; in Benjamin E. French's _Historical
+  1905), edited by I. J. [[Cox]]; in [[Benjamin]] E. French's _Historical
   Collections of Louisiana_ (6 series, New York, 1846-1853), and in
   Shea's _Early Voyages Up and Down the Mississippi_ (Albany, 1861); and
   an immense collection of documents relating to La Salle may be found
@@ -140,7 +140,7 @@ FOOTNOTES:
     or at least for its lower part; and this circumstance makes the story
     of La Salle's exploration peculiarly difficult to disentangle.
 
-  [3] Tonty (or Tonti), an Italian, born at Gaeta, was La Salle's
+  [3] Tonty (or Tonti), an Italian, born at [[Gaeta]], was La Salle's
     principal lieutenant, and was the equal of his chief in intrepidity.
     Before his association with La Salle he had engaged in military
     service in Europe, during which he had lost a hand. He accompanied La
@@ -148,12 +148,12 @@ FOOTNOTES:
     Louis from the time of its erection until 1702, except during his
     journeys down the Mississippi in search of his chief. In 1702 he
     joined d'Iberville in lower Louisiana, and soon after was despatched
-    on a mission to the Chickasaw Indians. This is the last authentic
+    on a mission to the Chickasaw Indians. This is the last [[Authentic|authentic]]
     trace of him.
 
   [4] Although La Salle and Don Diego de Peñalosa (1624-1687) presented
     to the French government independent plans for an expedition against
-    the Spaniards and Peñalosa afterwards proposed their co-operation,
+    the Spaniards and Peñalosa afterwards proposed their [[Co-Operation|co-operation]],
     there is no substantial evidence that this project was adopted.
     Parkman is of the opinion that La Salle proposed his expedition
     against the Spaniards in the hope that the conclusion of peace

@@ -9,27 +9,27 @@ place is taken by the closely allied Alpine, or mountain hare (fig. 2),
 the true _L. timidus_ of Linnaeus, and the type of the genus _Lepus_ and
 the family _Leporidae_ (see RODENTIA). The second is a smaller animal
 than the first, with a more rounded and relatively smaller head, and the
-ears, hind-legs and tail shorter. In Ireland and the southern districts
+[[Ear|ears]], hind-legs and tail shorter. In Ireland and the southern districts
 of Sweden it is permanently of a light fulvous grey colour, with black
 tips to the ears, but in more northerly districts the fur--except the
 black ear-tips--changes to white in winter, and still farther north the
 animal appears to be white at all seasons of the year. The range of the
 common or brown hare, inclusive of its local races, extends from England
-across southern and central Europe to the Caucasus; while that of the
+across southern and central Europe to the [[Caucasus]]; while that of the
 blue or mountain species, likewise inclusive of local races, reaches
 from Ireland, Scotland and Scandinavia through northern Europe and Asia
-to Japan and Kamchatka, and thence to Alaska.
+to [[Japan]] and [[Kamchatka]], and thence to Alaska.
 
 [Illustration: FIG. 1.--The Hare (_Lepus europaeus_).]
 
 The brown hare is a night-feeding animal, remaining during the day on
 its "form," as the slight depression is called which it makes in the
 open field, usually among grass. This it leaves at nightfall to seek
-fields of young wheat and other cereals whose tender herbage forms its
+[[Fields|fields]] of young wheat and other cereals whose tender herbage forms its
 favourite food. It is also fond of gnawing the bark of young trees, and
 thus often does great damage to plantations. In the morning it returns
 to its form, where it finds protection in the close approach which the
-colour of its fur makes to that of its surroundings; should it thus
+colour of its [[Fur|fur]] makes to that of its surroundings; should it thus
 fail, however, to elude observation it depends for safety on its
 extraordinary fleetness. On the first alarm of danger it sits erect to
 reconnoitre, when it either seeks concealment by clapping close to the
@@ -45,20 +45,20 @@ are born covered with hair and with the eyes open, and after being
 suckled for a month are able to look after themselves. In Europe this
 species has seldom bred in confinement, although an instance has
 recently been recorded. It will interbreed with the blue hare. Hares
-(and rabbits) have a cosmopolitan distribution with the exception of
-Madagascar and Australasia; and are now divided into numerous genera and
+(and rabbits) have a [[Cosmopolitan|cosmopolitan]] distribution with the exception of
+[[Madagascar]] and Australasia; and are now divided into numerous genera and
 subgenera, mentioned in the article RODENTIA. Reference may here be made
 to a few species. Asia is the home of numerous species, of which the
 Common Indian _L. ruficaudatus_ and the black-necked hare _L.
 nigricollis_, are inhabitants of the plains of India; the latter taking
-its name from a black patch on the neck. In Assam there is a small spiny
+its name from a black patch on the neck. In [[Assam]] there is a small spiny
 hare (_Caprolagus hispidus_), with the habits of a rabbit; and an allied
 species (_Nesolagus nitscheri_) inhabits Sumatra, and a third
 (_Pentalagus furnessi_) the Liu-kiu Islands. The plateau of Tibet is
 very rich in species, among which _L. hypsibius_ is very common.
 
 [Illustration: FIG. 2.--The Blue or Mountain Hare (_Lepus timidus_) in
-winter dress.]
+winter [[Dress|dress]].]
 
 Of African species, the Egyptian Hare (_L. aegyptius_) is a small
 animal, with long ears and pale fur; and in the south there are the Cape

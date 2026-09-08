@@ -13,7 +13,7 @@ Ingulets River, near the station of the same name on the Ekaterinoslav
 railway, 113 m. S.W. of the city of Ekaterinoslav. Pop. (1900), about
 10,000. It is the centre of a district very rich in minerals, obtained
 from a narrow stretch of crystalline schists underlying the Tertiary
-deposits. Iron ores (60 to 70% of iron), copper ores, colours, brown
+deposits. Iron ores (60 to 70% of iron), copper ores, [[Colours|colours]], brown
 coal, graphite, slate, and lithographic stone are obtained--nearly
 2,000,000 tons of iron ore annually.
 

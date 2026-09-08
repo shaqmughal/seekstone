@@ -9,10 +9,10 @@ curie_); but this phrase was also used to denote the king's privy purse,
 and the chamberlain may be considered as originally the financial
 officer of the household. But as he was always a great baron, deputies
 performed his financial work, and his functions became, as they are now,
-mainly ceremonial, though the emblem of his office is still a key. The
+mainly ceremonial, though the [[Emblem|emblem]] of his office is still a [[Key|key]]. The
 office had been held by Robert Malet, son of a leading companion of the
 Conqueror, but he was forfeited by Henry I., who, in 1133, gave the
-great chamberlainship to Aubrey de Vere and his heirs. Aubrey's son was
+great chamberlainship to Aubrey [[De Vere|de Vere]] and his heirs. Aubrey's son was
 created earl of Oxford, and the earls held the office, with some
 intermission, till 1526, when the then earl left female heirs. His
 heir-male succeeded to the earldom, but the crown, as is now
@@ -45,10 +45,10 @@ by any peer he may select, and walks himself in the procession on the
 right of the sword of state, a little before it and next to the
 sovereign. He issues the tickets of admission on the same occasions. He
 assists at the introduction of all peers into the House of Lords on
-their creation, and at the homage of all bishops after their
-consecration. At coronations he emerges into special importance; he
+their creation, and at the [[Homage|homage]] of all bishops after their
+consecration. At [[Coronation|coronations]] he emerges into special importance; he
 still asserts before the court of claims his archaic right to bring the
-king his "shirt, stockings and drawers" and to dress him on coronation
+king his "shirt, stockings and drawers" and to [[Dress|dress]] him on coronation
 day and to receive his ancient fees, which include the king's bed and
 "night robe." He also claims in error to serve the king ~~3 with water
 before and after the banquet, which was the function of the "ewry," a

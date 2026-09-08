@@ -82,11 +82,11 @@ beginning of the present century there were fifty provinces with some
 Capuchin friars, including lay-brothers, was reckoned at 9500. In
 England there are ten or twelve Capuchin monasteries, and in Ireland
 three. The Capuchins now possess the church of the Portiuncula at
-Assisi. The Capuchins still keep up their missionary work and have some
+[[Assisi]]. The Capuchins still keep up their missionary work and have some
 200 missionary stations in all parts of the world--notably India,
 Abyssinia and the Turkish empire. Though "the poorest of all orders," it
 has attracted into its ranks an extraordinary number of the highest
-nobility and even of royalty. The celebrated Father Mathew, the apostle
+nobility and even of royalty. The celebrated Father [[Mathew]], the apostle
 of Temperance in Ireland, was a Capuchin friar. Like the Franciscans the
 Capuchins wear a brown habit.
 

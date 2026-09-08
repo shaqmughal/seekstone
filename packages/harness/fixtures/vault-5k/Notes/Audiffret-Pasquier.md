@@ -9,7 +9,7 @@ legislature, but was elected in February 1871 to the National Assembly,
 and became president of the right centre in 1873. After the fall of
 Thiers, he directed the negotiations between the different royalist
 parties to establish a king in France, but as he refused to give up the
-tricolour for the flag of the old _regime_, the project failed. Yet he
+tricolour for the [[Flag|flag]] of the old _regime_, the project failed. Yet he
 retained the confidence of the chamber, and was its president in 1875
 when the constitutional laws were being drawn up. Nominated senator
 under the new constitution, he likewise was president of the senate from
@@ -86,14 +86,14 @@ LAW).
 
 Auditor is also the designation of certain officials of the Roman curia.
 The _auditores Rotae_ are the judges of the court of the Rota (so
-called, according to Hinschius, probably from the form of the panelling
+called, according to [[Hinschius]], probably from the form of the panelling
 in the room where they originally met). These were originally
 ecclesiastics appointed to _hear_ particular questions in dispute and
 report to the pope, who retained the decision in his own hands. In the
 _Speculum juris_ of Durandus (published in 1272 and re-edited in 1287
 and 1291) the _auditores palatii domini papae_ are cited as permanent
 officials appointed to instruct the pope on questions as they arose. The
-court of the Rota appears for the first time under this name in the bull
+court of the Rota appears for the first time under this name in the [[Bull|bull]]
 _Romani Pontificis_ of Martin V. in 1422, and the auditores by this time
 had developed into a permanent tribunal to which the definitive decision
 of certain disputes, hitherto relegated to a commission of cardinals or

@@ -1,18 +1,18 @@
 # Cobbett
 
 COBBETT, WILLIAM (1766-1835), English politician and writer, was born
-near Farnham in Surrey, according to his own statement, on the 9th of
+near [[Farnham]] in Surrey, according to his own statement, on the 9th of
 March 1766. He was the grandson of a farm-labourer, and the son of a
-small farmer; and during his early life he worked on his father's farm.
+small [[Farmer|farmer]]; and during his early life he worked on his father's farm.
 At the age of sixteen, inspired with patriotic feeling by the sight of
 the men-of-war in Portsmouth harbour, he thought of becoming a sailor;
 and in May 1783, having, while on his way to Guildford fair, met the
 London coach, he suddenly resolved to accompany it to its destination.
 He arrived at Ludgate Hill with exactly half-a-crown in his pocket, but
-an old gentleman who had travelled with him invited him to his house,
+an old [[Gentleman|gentleman]] who had travelled with him invited him to his house,
 and obtained for him the situation of copying clerk in an attorney's
 office. He greatly disliked his new occupation; and rejecting all his
-father's entreaties that he would return home, he went down to Chatham
+father's entreaties that he would return home, he went down to [[Chatham]]
 early in 1784 with the intention of joining the marines. By some
 mistake, however, he was enlisted in a regiment of the line, which
 rather more than a year after proceeded to St John's, New Brunswick. All
@@ -23,8 +23,8 @@ power of writing correctly which he had acquired, quickly raised him to
 the rank of corporal, from which, without passing through the
 intermediate grade of sergeant, he was promoted to that of
 sergeant-major. In November 1791 he was discharged at his own request,
-and received the official thanks of the major and the general who signed
-his discharge. In February 1792 Cobbett married the daughter of a
+and received the official thanks of the [[Major|major]] and the general who signed
+his [[Discharge|discharge]]. In February 1792 Cobbett married the daughter of a
 sergeant-major of artillery, whom he had met some years before in New
 Brunswick. But his liberty was threatened in consequence of his bringing
 a charge of peculation against certain officers in his old regiment, and
@@ -33,16 +33,16 @@ literature. In his absence, the inquiry into his charges ended in an
 acquittal.
 
 In September he crossed to the United States, and supported himself at
-Wilmington, Delaware, by teaching English to French emigrants. Among
+Wilmington, [[Delaware]], by teaching English to French emigrants. Among
 these was Talleyrand, who employed him, according to Cobbett's story,
 not because he was ignorant of English, but because he wished to
 purchase his pen. Cobbett made his first literary sensation by his
 _Observations on the Emigration of a Martyr to the Cause of Liberty_, a
-clever retort on Dr Priestley, who had just landed in America
+[[Clever|clever]] retort on Dr Priestley, who had just landed in America
 complaining of the treatment he had received in England. This pamphlet
 was followed by a number of papers, signed "Peter Porcupine," and
 entitled _Prospect from the Congress Gallery_, the _Political Censor_
-and the _Porcupine's Gazette_. In the spring of 1796, having quarrelled
+and the _Porcupine's [[Gazette]]_. In the spring of 1796, having quarrelled
 with his publisher, he set up in Philadelphia as bookseller and
 publisher of his own works. On the day of opening, his windows were
 filled with prints of the most extravagant of the French Revolutionists
@@ -56,23 +56,23 @@ his attacks on Spain, he was prosecuted, though unsuccessfully, by the
 Spanish ambassador. Immediately on this he was taken up for libels upon
 American statesmen, and bound in recognizances to the amount of $4000,
 and shortly after he was prosecuted a third time for saying that Dr
-Benjamin Rush, who was much addicted to blood-letting, killed nearly all
+[[Benjamin]] Rush, who was much addicted to blood-letting, killed nearly all
 the patients he attended. The trial was repeatedly deferred, and was not
 settled till the end of 1799, when he was fined $5000. After this last
 misfortune, for a few months Cobbett carried on a newspaper called the
 _Rushlight_; but in June 1800 he set sail for England.
 
-At home he found himself regarded as the champion of order and monarchy.
-Windham invited him to dinner, introduced him to Pitt, and begged him to
+At home he found himself regarded as the [[Champion|champion]] of order and monarchy.
+Windham invited him to [[Dinner|dinner]], introduced him to Pitt, and begged him to
 accept a share in the _True Briton_. He refused the offer and joined an
 old friend, John Morgan, in opening a book shop in Pall Mall. For some
 time he published the _Porcupine's Gazette_, which was followed in
 January 1802 by the _Weekly Political Register_. In 1801 appeared his
-_Letters to Lord Hawkesbury_ (afterwards earl of Liverpool) and his
+_Letters to Lord Hawkesbury_ (afterwards earl of [[Liverpool]]) and his
 _Letters to the Rt. Hon. Henry Addington_, in opposition to the proposed
 peace of Amiens. On the conclusion of the peace (1802) Cobbett made a
 still bolder protest; he determined to take no part in the general
-illumination, and--assisted by the sympathy of his wife, who, being in
+[[Illumination|illumination]], and--assisted by the sympathy of his wife, who, being in
 delicate health, removed to the house of a friend--he carried out his
 resolve, allowing his windows to be smashed and his door broken open by
 the angry mob. The letters to Addington are among the most polished and
@@ -98,10 +98,10 @@ hamper containing specimens of its produce and other provisions came to
 him every week; and he amused himself with the company of some of his
 children and with weekly letters from the rest. On his release a public
 dinner, presided over by Sir F. Burdett, was held in honour of the
-event. He returned to his farm at Botley in Hampshire, and continued in
+event. He returned to his farm at Botley in [[Hampshire]], and continued in
 his old course, extending his influence by the publication of the
 _Twopenny Trash_, which, not being periodical, escaped the newspaper
-stamp tax. Meanwhile, however, he had contracted debts to the amount of
+stamp tax. Meanwhile, however, he had contracted [[Debt|debts]] to the amount of
 £34,000 (for it is said that, notwithstanding the aversion he publicly
 expressed to paper currency, he had carried on his business by the aid
 of accommodation bills to a very large amount); and early in 1817 he
@@ -111,7 +111,7 @@ was here that he wrote his clear and interesting _English Grammar_, of
 which 10,000 copies were sold in a month.
 
 His return to England was accompanied by his weakest exhibition--the
-exhuming and bringing over of the bones of Thomas Paine, whom he had
+exhuming and bringing over of the [[Bone|bones]] of Thomas Paine, whom he had
 once heartily abused, but on whom he now wrote a panegyrical ode. Nobody
 paid any attention to the affair; the relics he offered were not
 purchased; and the bones were reinterred.
@@ -119,11 +119,11 @@ purchased; and the bones were reinterred.
 Cobbett's great aim was now to obtain a seat in the House of Commons. He
 calmly suggested that his friends should assist him by raising the sum
 of £5000; it would be much better, he said, than a meeting of 50,000
-persons. He first offered himself for Coventry, but failed; in 1826 he
+persons. He first offered himself for [[Coventry]], but failed; in 1826 he
 was by a large number of votes last of the candidates for Preston; and
 in 1828 he could find no one to propose him for the office of common
 councillor. In 1830, that year of revolutions, he was prosecuted for
-inciting to rebellion, but the jury disagreed, and soon after, through
+inciting to rebellion, but the [[Jury|jury]] disagreed, and soon after, through
 the influence of one of his admirers, Mr Fielden, who was himself a
 candidate for Oldham, he was returned for that town. In the House his
 speeches were listened to with amused attention. His position is
@@ -162,7 +162,7 @@ forcible.
   Register_, which ended only with Cobbett's death (June 1835). An
   abridgment of these works, with notes, was published by his sons, John
   M. Cobbett and James P. Cobbett. Besides this he published _An Account
-  of the Horrors of the French Revolution_, and a work tracing all these
+  of the Horrors of the [[French Revolution]]_, and a work tracing all these
   horrors to "the licentious politics and infidel philosophy of the
   present age" (both 1798); _A Year's Residence in the United States_;
   _Parliamentary History of England from the Norman Conquest to 1800_
@@ -170,15 +170,15 @@ forcible.
   _English Grammar_, both in the form of letters; _Geographical
   Dictionary of England and Wales_; _History of the Regency and Reign of
   George IV._, containing a defence of Queen Caroline, whose cause he
-  warmly advocated (1830-1834); _Life of Andrew Jackson, President of
-  the United States_ (1834); _Legacy to Labourers_; _Legacy to Peel_;
+  warmly advocated (1830-1834); _Life of Andrew [[Jackson]], President of
+  the United States_ (1834); _[[Legacy]] to Labourers_; _Legacy to Peel_;
   _Legacy to Parsons_ (1835), an attack on the secular claims of the
-  Established Church; _Doom of Tithes_; _Rural Rides_ (1830; new ed.
+  Established Church; _[[Doom]] of Tithes_; _Rural Rides_ (1830; new ed.
   1885), an account of his tours on horse-back through England, full of
   admirable descriptive writing; _Advice to Young Men and Women_;
-  _Cobbett's Corn_ (1828); and _History of the Protestant Reformation in
+  _Cobbett's [[Corn]]_ (1828); and _History of the Protestant Reformation in
   England and Ireland_ (1824-1827), in which he defends the monasteries,
-  Queen Mary and Bonner, and attacks the Reformation, Henry VIII.,
+  Queen Mary and [[Bonner]], and attacks the Reformation, Henry VIII.,
   Elizabeth and all who helped to bring it about, with such vehemence
   that the work was translated into French and Italian, and extensively
   circulated among Roman Catholics.

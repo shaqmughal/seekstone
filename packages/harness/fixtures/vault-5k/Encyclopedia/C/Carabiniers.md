@@ -18,8 +18,8 @@ companies present were united in one body, and after the action Louis
 XIV. consolidated them into a permanent regiment with the name Royal
 Carabiniers. This was one of the old regiments which survived the French
 Revolution, at which time the title was changed to "horse grenadiers";
-it is represented in the French army of to-day by the 11th Cuirassiers.
-The carabiniers (6th Dragoon Guards) of the British army date from 1685,
+it is represented in the French army of to-day by the 11th [[Cuirassiers]].
+The carabiniers (6th Dragoon [[Guards]]) of the British army date from 1685,
 and received the title from being armed with the carabine in 1692.
 Regimentally therefore they were one year senior to the French regiment
 of Royal Carabiniers, and as a matter of fact they took part as a

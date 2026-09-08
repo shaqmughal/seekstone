@@ -9,7 +9,7 @@ tags: [viticulture-studies, warfare]
 
 LUNG, in anatomy, the name of each of the pair of organs of respiration
 in man and other air-breathing animals, the corresponding organs in
-fishes being the _branchiae_ or gills (see RESPIRATORY SYSTEM). The word
+fishes being the _branchiae_ or [[Gill|gills]] (see RESPIRATORY SYSTEM). The word
 in Old English was _lungen_; it appears in many Teutonic languages, cf.
 Ger. _Lunge_, Du. _long_, Swed. _lunga_; the Teutonic root from which
 these are derived meant "light," and the lungs were so-called from their
@@ -22,8 +22,8 @@ seen in Sansk. _laghu_, Gr. [Greek: elaphros].
   injury to the chest, as from a wheel passing over him, the ribs may be
   broken and driven into the lung. Air then entering into the pleural
   space, the lung collapses, and breathing becomes so difficult that
-  death may ensue from asphyxia. Short of this, however, there is a
-  cough with the spitting of frothy, blood-stained mucus or of bright
+  death may ensue from [[Asphyxia|asphyxia]]. Short of this, however, there is a
+  cough with the spitting of frothy, blood-stained mucus or of [[Bright|bright]]
   red blood. All that can be done is to place the person on his back,
   slightly propped up by pillows, and to combat syncope by subcutaneous
   injections of ether and strychnia.
@@ -31,13 +31,13 @@ seen in Sansk. _laghu_, Gr. [Greek: elaphros].
   _Empyema_ means the presence of an abscess between the lung and the
   chest wall, i.e. in the pleural space; it is the result of a septic
   inflammation of the pleura by the micro-organisms of pneumonia or of
-  typhoid fever, or by some other germs. As the abscess increases in
+  typhoid [[Fever|fever]], or by some other germs. As the abscess increases in
   size, the lung is pushed towards the spine, and that side of the chest
   gives a dull note on percussion. If much fluid collects the heart may
   be pushed out of its place, and, the lung-space being taken up,
   respiration is embarrassed. Having made sure of the presence of an
   abscess by exploring with syringe and hollow needle, the surgeon opens
-  and drains it. The drainage is made more effectual by removing an inch
+  and drains it. The drainage is made more effectual by removing an [[Inch|inch]]
   or so of one of the ribs, for, unless this is done, there is a risk of
   the rubber drainage tube being compressed as the ribs come closer
   together again.

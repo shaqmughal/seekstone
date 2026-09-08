@@ -31,8 +31,8 @@ displayed unobtrusive learning, fresh application of old sayings, and a
 high conception of Judaism and its claims. Jellinek was a powerful
 apologist and an accomplished homilist, at once profound and ingenious.
 
-His son, GEORGE JELLINEK, was appointed professor of international law
-at Heidelberg in 1891. Another son, MAX HERMANN JELLINEK, was made
+His son, GEORGE JELLINEK, was appointed professor of [[International|international]] law
+at Heidelberg in 1891. Another son, MAX [[Hermann|HERMANN]] JELLINEK, was made
 assistant professor of philology at Vienna in 1892.
 
 A brother of Adolf, HERMANN JELLINEK (b. 1823), was executed at the age

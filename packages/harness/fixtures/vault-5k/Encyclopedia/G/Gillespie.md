@@ -11,21 +11,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gillespie"
 GILLESPIE, GEORGE (1613-1648), Scottish divine, was born at Kirkcaldy,
 where his father, John Gillespie, was parish minister, on the 21st of
 January 1613, and entered the university of St Andrews as a "presbytery
-bursar" in 1629. On the completion of a brilliant student career, he
-became domestic chaplain to John Gordon, 1st Viscount Kenmure (d. 1634),
+[[Bursar|bursar]]" in 1629. On the completion of a brilliant student career, he
+became domestic [[Chaplain|chaplain]] to John Gordon, 1st Viscount [[Kenmure]] (d. 1634),
 and afterwards to John Kennedy, earl of Cassillis, his conscience not
 permitting him to accept the episcopal ordination which was at that time
-in Scotland an indispensable condition of induction to a parish. While
+in Scotland an indispensable condition of [[Induction|induction]] to a parish. While
 with the earl of Cassillis he wrote his first work, _A Dispute against
 the English Popish Ceremonies obtruded upon the Church of Scotland_,
-which, opportunely published shortly after the "Jenny Geddes" incident
+which, opportunely published shortly after the "Jenny [[Geddes]]" incident
 (but without the author's name) in the summer of 1637, attracted
 considerable attention, and within a few months had been found by the
 privy council to be so damaging that by their orders all available
 copies were called in and burnt. In April 1638, soon after the authority
 of the bishops had been set aside by the nation, Gillespie was ordained
 minister of Wemyss (Fife) by the presbytery of Kirkcaldy, and in the
-same year was a member of the famous Glasgow Assembly, before which he
+same year was a member of the famous [[Glasgow]] Assembly, before which he
 preached (November 21st) a sermon against royal interference in matters
 ecclesiastical so pronounced, as to call for some remonstrance on the
 part of Argyll, the lord high commissioner. In 1642 Gillespie was

@@ -9,7 +9,7 @@ type: source
 
 HAIL (O. Eng. _haegl_ and _hagol_,[1] cf. the cognate Teutonic _hagel_,
 as in German, Dutch, Swedish, &c.; the Gr. [Greek: kachlex], pebble, is
-probably allied), the name for rounded masses or single pellets of ice
+probably allied), the name for rounded masses or single pellets of [[Ice|ice]]
 falling from the clouds in a shower. True hail has a concentric
 structure caused by the frozen particles of moisture first descending
 into a warm cloud, whence they are carried upwards on an ascending
@@ -26,7 +26,7 @@ cyclone, since true hail is almost entirely a summer phenomenon, and
 falls most frequently in thunderstorms which are produced under the
 conditions that are favourable to the formation of hail, i.e. great
 heat, a still atmosphere, the production of strong local convection
-currents in consequence, and the passage of a cold upper drift.
+currents in consequence, and the passage of a cold upper [[Drift|drift]].
 
 
 FOOTNOTE:
@@ -34,7 +34,7 @@ FOOTNOTE:
   [1] "Hail," a call of greeting or salutation, a shout to attract
     attention, must, of course, be distinguished. This word represents
     the Old Norwegian _heill_, prosperity, cognate with O. Eng. _hal_,
-    whence "hale," "whole," and _hael_, whence "health," "heal."
+    whence "[[Hale|hale]]," "whole," and _hael_, whence "health," "heal."
 
 ## See also
 

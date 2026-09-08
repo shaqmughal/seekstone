@@ -29,7 +29,7 @@ plants of the same order are in cultivation.
 
 
 
-FINGER-PRINTS. The use of finger-prints as a system of identification
+FINGER-PRINTS. The use of finger-prints as a system of [[Identification|identification]]
 (q.v.) is of very ancient origin, and was known from the earliest days
 in the East when the impression of his thumb was the monarch's
 sign-manual. A relic of this practice is still preserved in the formal
@@ -38,15 +38,15 @@ deed." The permanent character of the finger-print was first put forward
 scientifically in 1823 by J.E. Purkinje, an eminent professor of
 physiology, who read a paper before the university of Breslau, adducing
 nine standard types of impressions and advocating a system of
-classification which attracted no great attention. Bewick, the English
+[[Classification|classification]] which attracted no great attention. Bewick, the English
 draughtsman, struck with the delicate qualities of the lineation, made
 engravings of the impression of two of his finger-tips and used them as
-signatures for his work. Sir Francis Galton, who laboured to introduce
+signatures for his work. Sir Francis [[Galton]], who laboured to introduce
 finger-prints, points out that they were proposed for the identification
 of Chinese immigrants when registering their arrival in the United
-States. In India, Sir William Herschel desired to use finger-prints in
-the courts of the Hugli district to prevent false personation and fix
-the identity upon the executants of documents. The Bengal police under
+States. In India, Sir William [[Herschel]] desired to use finger-prints in
+the courts of the [[Hugli]] district to prevent false personation and fix
+the identity upon the executants of documents. The [[Bengal]] police under
 the wise administration of Sir E.R. Henry, afterwards chief commissioner
 of the London metropolitan police, usefully adopted finger-prints for
 the detection of crime, an example followed in many public departments
@@ -54,7 +54,7 @@ in India. A transfer of property is attested by the thumb-mark, so are
 documents when registered, and advances made to opium-growers or to
 labourers on account of wages, or to contracts signed under the
 emigration law, or medical certificates to vouch for the persons
-examined, all tending to check the frauds and impostures constantly
+examined, all tending to check the [[Fraud|frauds]] and impostures constantly
 attempted.
 
 The prints depend upon a peculiarity seen in the human hand and to some
@@ -67,10 +67,10 @@ identification. The impressions, when examined, show that the ridges
 appear in certain fixed patterns, from which an alphabet of signs or a
 system of notation has been arrived at for convenience of record. As
 the result of much experiment a fourfold scheme of classification has
-been evolved, and the various types employed are styled "arches,"
+been evolved, and the various types employed are styled "[[Arches|arches]],"
 "loops," "whorls" and "composites." There are seven subclasses, and all
-are perfectly distinguishable by an expert, who can describe each by its
-particular symbol in the code arranged, so that the whole "print" can be
+are perfectly distinguishable by an [[Expert|expert]], who can describe each by its
+particular symbol in the [[Code|code]] arranged, so that the whole "print" can be
 read as a distinct and separate expression. Very few, and the simplest,
 appliances are required for taking the print--a sheet of white paper, a
 tin slab, and some printer's ink. Scars or malformations do not
@@ -82,7 +82,7 @@ into a residence and among other things helped himself to a glass of
 wine, leaving two finger-prints upon the tumbler which were subsequently
 found to be identical with those of a notorious criminal who was
 arrested, pleaded guilty and was convicted. Another burglar effected
-entrance by removing a pane of glass from a basement window, but,
+entrance by removing a pane of glass from a [[Basement|basement]] window, but,
 unhappily for him, left his imprints, which were referred to the
 registry and found to agree exactly with those of a convict at large;
 his address was known, and when visited some of the stolen property was
@@ -92,19 +92,19 @@ papers of the deceased. This man was convicted of theft but not of the
 murder.
 
 The keystone to the whole system is the central office where the
-register or index of all criminals is kept for ready reference. The
+register or [[Index|index]] of all criminals is kept for ready reference. The
 operators need no special gifts or lengthy training; method and accuracy
 suffice, and abundant checks exist to obviate incorrect classification
-and reduce the liability to error.
+and reduce the liability to [[Error|error]].
 
-  AUTHORITIES.--F. Galton, _Finger Prints_ (1892), _Fingerprint
+  AUTHORITIES.--F. Galton, _[[Finger]] Prints_ (1892), _Fingerprint
   Directories_ (1895); E.R. Henry, _Classification and Uses of Finger
   Prints_; A. Yvert, _L'Identification par les empreintes digitales
   palmaires_ (1905); K. Windt, R.S. Kodicek, _Daktyloskopie. Verwertung
   von Fingerabdrücken zu Identifizierungszwecken_ (Vienna, 1904); E.
   Loeard, _La Dactyloscopie. Identification des récidivistes par les
   empreintes digitales_ (1904); H. Faulds, _Guide to Finger-Print
-  Identification_ (1905); H. Gross, _Criminal Investigation_ (trans. J.
+  Identification_ (1905); H. [[Gross]], _Criminal Investigation_ (trans. J.
   and J.C. Adam, 1907).     (A. G.)
 
 ## See also

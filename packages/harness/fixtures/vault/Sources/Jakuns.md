@@ -1,6 +1,6 @@
 # Jakuns
 
-JAKUNS, an aboriginal race of the Malay Peninsula. They have become much
+JAKUNS, an aboriginal race of the [[Malay Peninsula]]. They have become much
 mixed with other tribes, and are found throughout the south of the
 peninsula and along the coasts. The purest types are straight-haired,
 exhibit marked Mongolian characteristics and are closely related to the

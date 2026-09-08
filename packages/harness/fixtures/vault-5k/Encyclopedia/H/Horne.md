@@ -19,7 +19,7 @@ He received a Civil List pension in 1874, and died at Margate on the
 13th of March 1884. Horne possessed extraordinary versatility, but,
 except in the case of _Orion_, he never attained to a very high degree
 of distinction. That poem, indeed, has much of the quality of fine
-poetry; it is earnest, vivid and alive with spirit. But Horne early
+poetry; it is [[Earnest|earnest]], vivid and alive with spirit. But Horne early
 drove his talent too hard, and continued to write when he had little
 left to say. In criticism he had insight and quickness. He was one of
 the first to appreciate Keats and Tennyson, and he gave valuable

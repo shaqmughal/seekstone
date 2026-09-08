@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Elisha"
 # Elisha
 
 ELISHA (a Hebrew name meaning "God is deliverance"), in the Bible, the
-disciple and successor of Elijah, was the son of Shaphat of Abel-meholah
+[[Disciple|disciple]] and successor of Elijah, was the son of Shaphat of Abel-meholah
 in the valley of the Jordan. He was symbolically elected to the
 prophetic office by Elijah some time during the reign of Ahab (1 Kings
 xix. 19-21), and he survived until the reign of Joash. His career thus

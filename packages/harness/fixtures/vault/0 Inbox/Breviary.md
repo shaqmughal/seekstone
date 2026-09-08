@@ -7,7 +7,7 @@ type: source
 
 # Breviary
 
-BREVIARY (Lat. _breviarium_, abridgment, epitome), the book which contains
+BREVIARY (Lat. _breviarium_, abridgment, [[Epitome|epitome]]), the book which contains
 the offices for the canonical hours, _i.e._ the daily service of the Roman
 Catholic Church. As compared with the Anglican Book of Common Prayer it is
 both more and less comprehensive; more, in that it includes lessons and
@@ -19,7 +19,7 @@ custom was followed, the Bible furnished all that was thought necessary,
 containing as it did the books from which the lessons were read and the
 psalms that were recited. The first step in the evolution of the Breviary
 was the separation of the Psalter into a choir-book. At first the president
-of the local church (bishop) or the leader of the choir chose a particular
+of the local church (bishop) or the leader of the [[Choir|choir]] [[Chose|chose]] a particular
 psalm as he thought appropriate. From about the 4th century certain psalms
 began to be grouped together, a process that was furthered by the monastic
 practice of daily reciting the 150 psalms. This took so much time that the
@@ -28,13 +28,13 @@ allotting to each hour its portion of the Psalter. St Benedict in the 6th
 century drew up such an arrangement, probably, though not certainly, on the
 basis of an older Roman division which, though not so skilful, is the one
 in general use. Gradually there were added to these psalter choir-books
-additions in the form of antiphons, responses, collects or short prayers,
+additions in the form of [[Antiphon|antiphons]], responses, collects or short prayers,
 for the use of those not skilful at improvisation and metrical
 compositions. Jean Beleth, a 12th-century liturgical author, gives the
 following list of books necessary for the right conduct of the canonical
 office:--the _Antiphonarium_, the Old and New Testaments, the
 _Passionarius_ (_liber_) and the _Legendarius_ (dealing respectively with
-martyrs and saints), the _Homiliarius_ (homilies on the Gospels), the
+martyrs and saints), the _Homiliarius_ (homilies on the [[Gospel|Gospels]]), the
 _Sermologus_ (collection of sermons) and the works of the Fathers, besides,
 of course, the _Psalterium_ and the _Collectarium_. To overcome the
 inconvenience of using such a library the Breviary came into existence and
@@ -49,23 +49,23 @@ too, simplified the liturgy as performed at the Roman court, and gave his
 abridgment the name of Breviary, which thus came to denote a work which
 from another point of view might be called a Plenary, involving as it did
 the collection of several works into one. There are several extant
-specimens of 12th-century Breviaries, all Benedictine, but under Innocent
+specimens of 12th-century Breviaries, all Benedictine, but under [[Innocent]]
 III. (pope 1198-1216) their use was extended, especially by the newly
-founded and active Franciscan order. These preaching friars, with the
+founded and active Franciscan order. These preaching [[Friar|friars]], with the
 authorization of Gregory IX., adopted (with some modifications, _e.g._ the
 substitution of the "Gallican" for the "Roman" version of the Psalter) the
 Breviary hitherto used exclusively by the Roman court, and with it
 gradually swept out of Europe all the earlier partial books (Legendaries,
 Responsories), &c., and to some extent the local Breviaries, like that of
 Sarum. Finally, Nicholas III. (pope 1277-1280) adopted this version both
-for the curia and for the basilicas of Rome, and thus made its position
+for the curia and for the [[Basilica|basilicas]] of Rome, and thus made its position
 secure. The Benedictines and Dominicans have Breviaries of their own. The
 only other types that merit notice are:--(1) the Mozarabic Breviary, once
 in use throughout all Spain, but now confined to a single foundation at
 Toledo; it is remarkable for the number and length of its hymns, and for
 the fact that the majority of its collects are addressed to God the Son;
 (2) the Ambrosian, now confined to Milan, where it owes its retention to
-the attachment of the clergy and people to their traditionary rites, which
+the [[Attachment|attachment]] of the clergy and people to their traditionary rites, which
 they derive from St Ambrose (see LITURGY).
 
 [v.04 p.0504] Till the council of Trent every bishop had full power to
@@ -85,10 +85,10 @@ and evening services are but a condensation and simplification of the
 Breviary offices. Some parts of the prefaces at the beginning of the
 English Prayer-Book are free translations of those of Quignonez. The Pian
 Breviary was again altered by Sixtus V. in 1588, who introduced the revised
-Vulgate text; by Clement VIII. in 1602 (through Baronius and Bellarmine),
+Vulgate text; by [[Clement]] VIII. in 1602 (through [[Baronius]] and [[Bellarmine]]),
 especially as concerns the rubrics; and by Urban VIII. (1623-1644), a
 purist who unfortunately tampered with the text of the hymns, injuring both
-their literary charm and their historic worth.
+their literary [[Charm|charm]] and their historic worth.
 
 In the 17th and 18th centuries a movement of revision took place in France,
 and succeeded in modifying about half the Breviaries of that country.
@@ -105,7 +105,7 @@ whole Psalter every week (which had become a mere theory in the Roman
 Breviary, owing to its frequent supersession by saints' day services) was
 made a reality. These reformed French Breviaries--_e.g._ the Paris Breviary
 of 1680 by Archbishop Francois de Harlay (1625-1695) and that of 1736 by
-Archbishop Charles Gaspard Guillaume de Vintimille (1655-1746)--show a deep
+Archbishop Charles Gaspard [[Guillaume]] de Vintimille (1655-1746)--show a deep
 knowledge of Holy Scripture, and much careful adaptation of different
 texts; but during the pontificate of Pius IX. a strong Ultramontane
 movement arose against them. This was inaugurated by Montalembert, but its
@@ -114,7 +114,7 @@ abbot of Solesmes, and Louis Francois Veuillot (1813-1883) of the
 _Univers_; and it succeeded in suppressing them everywhere, the last
 diocese to surrender being Orleans in 1875. The Jansenist and Gallican
 influence was also strongly felt in Italy and in Germany, where Breviaries
-based on the French models were published at Cologne, Muenster, Mainz and
+based on the French models were published at [[Cologne]], Muenster, [[Mainz]] and
 other towns. Meanwhile, under the direction of Benedict XIV. (pope
 1740-1758), a special congregation collected many materials for an official
 revision, but nothing was published. Subsequent changes have been very few
@@ -134,30 +134,30 @@ them. Doubtless many editions have perished without leaving a trace of
 their existence, while others are known by unique copies. In Scotland the
 only one which has survived the convulsions of the 16th century is that of
 Aberdeen, a Scottish form of the Sarum Office,[2] revised by William
-Elphinstone (bishop 1483-1514), and printed at Edinburgh by Walter Chapman
+[[Elphinstone]] (bishop 1483-1514), and printed at Edinburgh by Walter Chapman
 and Andrew Myllar in 1509-1510. Four copies have been preserved of it, of
 which only one is complete; but it was reprinted in facsimile in 1854 for
-the Bannatyne Club by the munificence of the duke of Buccleuch. It is
+the Bannatyne Club by the munificence of the duke of [[Buccleuch]]. It is
 particularly valuable for the trustworthy notices of the early history of
 Scotland which are embedded in the lives of the national saints. Though
-enjoined by royal mandate in 1501 for general use within the realm of
+enjoined by royal [[Mandate|mandate]] in 1501 for general use within the realm of
 Scotland, it was probably never widely adopted. The new Scottish _Proprium_
 sanctioned for the Roman Catholic province of St Andrews in 1903 contains
 many of the old Aberdeen collects and antiphons.
 
 The Sarum or Salisbury Breviary itself was very widely used. The first
-edition was printed at Venice in 1483 by Raynald de Novimagio in folio; the
+edition was printed at Venice in 1483 by Raynald de Novimagio in [[Folio|folio]]; the
 latest at Paris, 1556, 1557. While modern Breviaries are nearly always
 printed in four volumes, one for each season of the year, the editions of
 the Sarum never exceeded two parts.
 
 _Contents of the Roman Breviary_.--At the beginning stands the usual
-introductory matter, such as the tables for determining the date of Easter,
+introductory matter, such as the tables for determining the date of [[Easter]],
 the calendar, and the general rubrics. The Breviary itself is divided into
 four seasonal parts--winter, spring, summer, autumn--and comprises under
 each part (1) the Psalter; (2) _Proprium de Tempore_ (the special office of
 the season); (3) _Proprium Sanctorum_ (special offices of saints); (4)
-_Commune Sanctorum_ (general offices for saints); (5) Extra Services. These
+_[[Commune]] Sanctorum_ (general offices for saints); (5) Extra Services. These
 parts are often published separately.
 
 1. _The Psalter_.--This is the very backbone of the Breviary, the
@@ -166,7 +166,7 @@ responsories and versicles. In the Breviary the psalms are arranged
 according to a disposition dating from the 8th century, as follows. Psalms
 i.-cviii., with some omissions, are recited at Matins, twelve each day from
 Monday to Saturday, and eighteen on Sunday. The omissions are said at
-Lauds, Prime and Compline. Psalms cix.-cxlvii. (except cxvii., cxviii. and
+[[Laud|Lauds]], Prime and Compline. Psalms cix.-cxlvii. (except cxvii., cxviii. and
 cxlii.) are said at Vespers, five each day. Psalms cxlviii.-cl. are always
 used at Lauds, and give that hour its name. The text of this Psalter is
 that commonly known as the Gallican. The name is misleading, for it is
@@ -174,8 +174,8 @@ simply the second revision (A.D. 392) made by Jerome of the old _Itala_
 version originally used in Rome. Jerome's first revision of the _Itala_
 (A.D. 383), known as the Roman, is still used at St Peter's in Rome, but
 the "Gallican," thanks especially to St Gregory of Tours, who introduced it
-into Gaul in the 6th century, has ousted it everywhere else. The
-Antiphonary of Bangor proves that Ireland accepted the Gallican version in
+into [[Gaul]] in the 6th century, has ousted it everywhere else. The
+Antiphonary of [[Bangor]] proves that Ireland accepted the Gallican version in
 the 7th century, and the English Church did so in the 10th.
 
 2. The _Proprium de Tempore_ contains the office of the seasons of the
@@ -183,11 +183,11 @@ Christian year (Advent to Trinity), a conception that only gradually grew
 up. There is here given the whole service for every Sunday and week-day,
 the proper antiphons, responsories, hymns, and especially the course of
 daily Scripture-reading, averaging about twenty verses a day, and (roughly)
-arranged thus: for Advent, Isaiah; Epiphany to Septuagesima, Pauline
-Epistles; Lent, patristic homilies (Genesis on Sundays); Passion-tide,
-Jeremiah; Easter to Whitsun, Acts, Catholic epistles and Apocalypse;
+arranged thus: for Advent, [[Isaiah]]; Epiphany to Septuagesima, Pauline
+[[Epistle|Epistles]]; [[Lent]], patristic homilies ([[Genesis]] on Sundays); Passion-tide,
+[[Jeremiah]]; Easter to Whitsun, Acts, Catholic epistles and Apocalypse;
 Whitsun to August, Samuel and Kings; August to Advent, Wisdom books,
-Maccabees, Prophets. The extracts are often scrappy and torn out of their
+[[Maccabees]], Prophets. The extracts are often scrappy and torn out of their
 context.
 
 3. The _Proprium Sanctorum_ contains the lessons, psalms and liturgical
@@ -203,7 +203,7 @@ encroached upon the _Proprium de Tempore_, and this is the chief problem
 that confronts any who are concerned for a revision of the Breviary.
 
 4. The _Commune Sanctorum_ comprises psalms, antiphons, lessons, &c., for
-feasts of various groups or classes (twelve in all); _e.g._ apostles,
+feasts of various groups or classes (twelve in all); _e.g._ [[Apostle|apostles]],
 martyrs, confessors, virgins, and the Blessed Virgin Mary. These offices
 are of very ancient date, and many of them were probably [v.04 p.0505] in
 origin proper to individual saints. They contain passages of great literary
@@ -229,15 +229,15 @@ psalms, tends in practice to constant repetition of about one-third of the
 Psalter, and correspondingly rare recital of the remaining two-thirds,
 whereas the _Proprium de Tempore_, could it be adhered to, would provide
 equal opportunities for every psalm. As in the Greek usage and in the
-Benedictine, certain canticles like the Song of Moses (Exodus xv.), the
-Song of Hannah (1 Sam. ii.), the prayer of Habakkuk (iii.), the prayer of
-Hezekiah (Isaiah xxxviii.) and other similar Old Testament passages, and,
-from the New Testament, the Magnificat, the Benedictus and the Nunc
+Benedictine, certain canticles like the Song of Moses ([[Exodus]] xv.), the
+Song of Hannah (1 Sam. ii.), the prayer of [[Habakkuk]] (iii.), the prayer of
+[[Hezekiah]] (Isaiah xxxviii.) and other similar Old Testament passages, and,
+from the New Testament, the Magnificat, the [[Benedictus]] and the Nunc
 dimittis, are admitted as psalms.
 
 The _antiphons_ are short liturgical forms, sometimes of biblical,
 sometimes of patristic origin, used to introduce a psalm. The term
-originally signified a chant by alternate choirs, but has quite lost this
+originally signified a [[Chant|chant]] by alternate choirs, but has quite lost this
 meaning in the Breviary.
 
 The _responsories_ are similar in form to the antiphons, but come at the
@@ -253,12 +253,12 @@ improve them.
 The _lessons_, as has been seen, are drawn variously from the Bible, the
 Acts of the Saints and the Fathers of the Church. In the primitive church,
 books afterwards excluded from the canon were often read, _e.g._ the
-letters of Clement of Rome and the _Shepherd of Hermas_. In later days the
+letters of Clement of Rome and the _Shepherd of [[Hermas]]_. In later days the
 churches of Africa, having rich memorials of martyrdom, used them to
 supplement the reading of Scripture. Monastic influence accounts for the
 practice of adding to the reading of a biblical passage some patristic
 commentary or exposition. Books of homilies were compiled from the writings
-of SS. Augustine, Hilary, Athanasius, Isidore, Gregory the Great and
+of SS. Augustine, Hilary, [[Athanasius]], Isidore, Gregory the Great and
 others, and formed part of the library of which the Breviary was the
 ultimate compendium. In the lessons, as in the psalms, the order for
 special days breaks in upon the normal order of ferial offices and
@@ -288,23 +288,23 @@ Officii_, published in different countries and dioceses, and giving, under
 every day, minute directions for proper reading.
 
 Every clerk in orders and every member of a religious order must publicly
-join in or privately read aloud (_i.e._ using the lips as well as the
+join in or privately read aloud (_i.e._ using the [[Lip|lips]] as well as the
 eyes--it takes about two hours in this way) the whole of the Breviary
 services allotted for each day. In large churches the services are usually
 grouped; _e.g._ Matins and Lauds (about 7.30 A.M.); Prime, Terce (High
 Mass), Sext, and None (about 10 A.M.); Vespers and Compline (4 P.M.); and
 from four to eight hours (depending on the amount of music and the number
-of high masses) are thus spent in choir. Laymen do not use the Breviary as
-a manual of devotion to any great extent.
+of high masses) are thus spent in choir. [[Laymen]] do not use the Breviary as
+a [[Manual|manual]] of devotion to any great extent.
 
 The Roman Breviary has been translated into English (by the marquess of
-Bute in 1879; new ed. with a trans, of the Martyrology, 1908), French and
+Bute in 1879; new ed. with a trans, of the [[Martyrology]], 1908), French and
 German. The English version is noteworthy for its inclusion of the skilful
 renderings of the ancient hymns by J.H. Newman, J.M. Neale and others.
 
 AUTHORITIES.--F. Cabrol, _Introduction aux etudes liturgiques_; Probst,
 _Kirchenlex_. ii., _s.v._ "Brevier"; Baeumer, _Geschichte des Breviers_
-(Freiburg, 1895); P. Batiffol, _L'Histoire du breviaire romain_ (Paris,
+([[Freiburg]], 1895); P. Batiffol, _L'Histoire du breviaire romain_ (Paris,
 1893; Eng. tr.); Baudot, _Le Breviaire romain_ (1907). A complete
 bibliography is appended to the article by F. Cabrol in the _Catholic
 Encyclopaedia_, vol. ii. (1908).

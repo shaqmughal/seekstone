@@ -10,7 +10,7 @@ weapon which could be used along with the sword. The distinction is
 often difficult to establish in a given case owing to the variations in
 the length of the weapon. The principal medieval dagger was the
 _misericorde_, which from the end of the 12th century was used, in all
-countries in which chivalry flourished, to penetrate the joints of the
+countries in which [[Chivalry|chivalry]] flourished, to penetrate the [[Joints|joints]] of the
 armour of an unhorsed adversary (hence Ger. _Panzerbrecher_,
 armour-breaker). It was so called either because the threat of it caused
 the vanquished to surrender "at mercy," or from its use in giving what
@@ -24,13 +24,13 @@ by a staple; or, more rarely, it was connected with a _gypciere_ or
 pouch. The misericorde may be called a poniard. The distinction between
 the dagger and the poniard is arbitrary, and in ordinary language the
 latter is taken as being the shorter and as having less resemblance to a
-short sword or cutlass. A weapon, with a longer blade than the
+short sword or [[Cutlass|cutlass]]. A weapon, with a longer blade than the
 misericorde, was habitually worn by civilians, including judges, during
 the middle ages; such weapons bore the name of _anlace_ (from _annulus_,
 as it was fastened by a ring), _basilarde_ or _langue de boeuf_, the
 last from the broad ox-tongue shape of the blade. This had often a small
 knife fixed on the scabbard, like a Highland officer's dirk of the
-present day. By nobles and knights the dagger or poniard was worn when
+present day. By nobles and [[Knight|knights]] the dagger or poniard was worn when
 they had exchanged their armour for the costume of peace. It is recorded
 besides that when they appeared at a tournament and on some other
 occasions, ladies at that time wore daggers depending, with their
@@ -41,7 +41,7 @@ impositis." A longer and heavier dagger with a broad blade (Italian) is
 called _cinquedea_. The Scottish "dirk" was a long dagger, and survives
 in name in the dirk worn by midshipmen of the royal navy, and in fact in
 that worn by officers of Highland regiments. In the 15th and 16th
-centuries the infantry soldiers (Swiss or _landsknecht_) carried a heavy
+centuries the infantry soldiers (Swiss or _[[Landsknecht|landsknecht]]_) carried a heavy
 poniard or dagger. This and the earlier Spanish dagger with a thumb-ring
 were distinctively the weapons of professional soldiers. The rise of
 duelling produced another type, called the _main gauche_, which was a

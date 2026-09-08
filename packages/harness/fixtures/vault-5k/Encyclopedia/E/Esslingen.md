@@ -9,18 +9,18 @@ topic: art
 ESSLINGEN, a town of Germany, in the kingdom of Wurttemberg, in a
 fertile district on the Neckar, 9 m. S.E. from Stuttgart, on the railway
 to Ulm. Pop. (1905) 29,750. It is surrounded by medieval walls with
-towers and bastions, and has thirteen suburbs, one lying on an island in
+towers and [[Bastion|bastions]], and has thirteen suburbs, one lying on an island in
 the river. On a commanding height above the town lies the old citadel.
 The inner town has an old (1430) and a new Rathaus, the latter, formerly
 a palace, an exceedingly handsome edifice. The church of Our Lady
-(Frauenkirche) is a fine Gothic building of the 15th century, and has a
+(Frauenkirche) is a fine [[Gothic]] building of the 15th century, and has a
 beautifully sculptured doorway and a lattice spire 240 ft. high. The
 church of St Dionysius dated from the 13th century, and possesses a fine
 screen and a ciborium of 1486. Esslingen possesses several schools, a
 theatre and a richly endowed hospital, while its municipal archives
 contain much valuable literature bearing especially on the period of the
-Reformation. The town has railway, machine and electrical works; cloth,
-gloves and buttons are also manufactured here, and there are
+Reformation. The town has railway, [[Machine|machine]] and electrical works; cloth,
+[[Glove|gloves]] and buttons are also manufactured here, and there are
 spinning-mills. There is a large lithographic establishment, and a
 considerable trade is done in wine and fruit, the wines of Esslingen
 being very famous.

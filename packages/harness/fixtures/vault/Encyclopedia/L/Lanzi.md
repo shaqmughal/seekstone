@@ -7,7 +7,7 @@ antiquities and language. In the one field his labours are represented
 by his _Storia Pittorica della Italia_, the first portion of which,
 containing the Florentine, Sienese, Roman and Neapolitan schools,
 appeared in 1792, the rest in 1796. The work is translated by Roscoe. In
-archaeology his great achievement was _Saggio di lingua Etrusca_ (1789),
+[[Archaeology|archaeology]] his great achievement was _Saggio di lingua Etrusca_ (1789),
 followed by _Saggio delle lingue Ital. antiche_ (1806). In his memoir on
 the so-called Etruscan vases (_Dei vasi antichi dipinti volgarmente
 chiamati Etruschi_, 1806) Lanzi rightly perceived their Greek origin and

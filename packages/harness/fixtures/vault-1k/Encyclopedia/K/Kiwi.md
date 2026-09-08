@@ -22,7 +22,7 @@ possession of Lord Stanley, afterwards 13th earl of Derby, and president
 of the Zoological Society, and it is now with the rest of his collection
 in the Liverpool Museum. Considering the state of systematic ornithology
 at the time, Shaw's assignment of a position to this new and strange
-bird, of which he had but the skin, does him great credit, for he said
+bird, of which he had but the skin, does him great [[Credit|credit]], for he said
 it seemed "to approach more nearly to the Struthious and Gallinaceous
 tribes than to any other." And his credit is still greater when we find
 the venerable John Latham, who is said to have examined the specimen
@@ -128,7 +128,7 @@ captivity they will eat flesh suitably minced. Sir Walter Buller writes
   only rarely, supports itself by resting the point of its bill on the
   ground. It often yawns when disturbed in the daytime, gaping its
   mandibles in a very grotesque manner. When provoked it erects the
-  body, and, raising the foot to the breast, strikes downwards with
+  body, and, raising the foot to the [[Breast|breast]], strikes downwards with
   considerable force and rapidity, thus using its sharp and powerful
   claws as weapons of defence.... While hunting for its food the bird
   makes a continual sniffing sound through the nostrils, which are
@@ -176,7 +176,7 @@ FOOTNOTES:
     Academy of Natural Sciences at Philadelphia, includes a single
     specimen--probably the first taken to America.
 
-  [4] This bird in 1859 laid an egg, and afterwards continued to lay
+  [4] This bird in 1859 laid an [[Egg|egg]], and afterwards continued to lay
     one or two more every year. In 1865 a male of the same species was
     introduced, but though a strong disposition to breed was shown on the
     part of both, and the eggs, after the custom of the _Ratitae_, were

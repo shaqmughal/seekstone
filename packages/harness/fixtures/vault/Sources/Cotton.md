@@ -1,13 +1,13 @@
 # Cotton
 
 COTTON (Fr. _coton_; from Arab, _qutun_), the most important of the
-vegetable fibres of the world, consisting of unicellular hairs which
+vegetable [[Fibres|fibres]] of the world, consisting of unicellular hairs which
 occur attached to the seeds of various species of plants of the genus
-_Gossypium_, belonging to the Mallow order (Malvaceae). Each fibre is
+_Gossypium_, belonging to the [[Mallow]] order (Malvaceae). Each fibre is
 formed by the outgrowth of a single epidermal cell of the testa or outer
 coat of the seed.
 
-_Botany and Cultivation._--The genus _Gossypium_ includes herbs and
+_Botany and Cultivation._--The genus _Gossypium_ includes [[Herb|herbs]] and
 shrubs, which have been cultivated from time immemorial, and are now
 found widely distributed throughout the tropical and subtropical regions
 of both hemispheres. South America, the West Indies, tropical Africa and
@@ -20,7 +20,7 @@ of the species are perennials, but, in the United States for example,
 climatic conditions necessitate the plants being renewed annually, and
 even in the tropics it is often found advisable to treat them as annuals
 to ensure the production of cotton of the best quality, to facilitate
-cultural operations, and to keep insect and fungoid pests in check.
+cultural operations, and to keep [[Insect|insect]] and fungoid pests in check.
 
 Microscopic examination of a specimen of mature cotton shows that the
 hairs are flattened and twisted, resembling somewhat in general
@@ -35,7 +35,7 @@ on the interior of the pods (but not attached to the seeds) of
 _Eriodendron anfractuosum_, the silk cotton tree, a member of the
 Bombacaceae, an order very closely allied to the Malvaceae.
 
-_Classification._--Considerable difficulty is encountered in attempting
+_[[Classification]]._--Considerable difficulty is encountered in attempting
 to draw up a botanical classification of the species of _Gossypium_.
 Several are only known in cultivation, and we have but little knowledge
 of the wild parent forms from which they have descended. During the
@@ -49,7 +49,7 @@ render still more difficult any attempt to establish definitely the
 origin of the varieties now grown. Under these circumstances it is not
 surprising to find that those who have paid attention to the botany of
 the cottons differ greatly in the number of species they recognize.
-Linnaeus described five or six species, de Candolle thirteen. Of the two
+Linnaeus described five or six species, de [[Candolle]] thirteen. Of the two
 Italian botanists who in comparatively recent years have monographed the
 group, Parlatore (_Le Specie dei cotoni_, 1866) recognizes seven
 species, whilst Todaro (_Relazione sulla culta dei cotoni_, 1877-1878)
@@ -81,9 +81,9 @@ cottons. There remains one other important group, the so-called "kidney"
 cottons in which there are only long hairs, and the seed easily comes
 away clean as with "Sea Island," but, instead of each seed being
 separate, the whole group in each of the three compartments of the
-capsule is firmly united together in a more or less kidney-shaped mass.
+[[Capsule|capsule]] is firmly united together in a more or less kidney-shaped mass.
 Starting with this as the basis of classification, we can construct the
-following key, the remaining principal points of difference being
+following [[Key|key]], the remaining principal points of difference being
 indicated in their proper places:--
 
   i.  Seeds covered with long hairs only, flowers yellow, turning to red.
@@ -111,7 +111,7 @@ the modern high-class Sea Island cottons as _G. barbadense_, var.
 _maritima_. Whatever may be its true botanical name it is the plant
 known in commerce as "Sea Island" cotton, owing to its introduction and
 successful cultivation in the Sea Islands and the coastal districts of
-South Carolina, Georgia and Florida. It yields the most valuable of all
+South Carolina, [[Georgia]] and Florida. It yields the most valuable of all
 cottons, the hairs being long, fine and silky, and ranging in length
 from 3/8 to 2-1/2 in. By careful selection (the methods of which are
 described below) in the United States, the quality of the product was
@@ -128,12 +128,12 @@ the United States, where during recent years Egyptian cotton has
 comprised about 80% of all the "foreign" cottons imported. These special
 qualities are its fineness, strength, elasticity and great natural
 twist, which combined enable it to make very fine, strong yarns, suited
-to the manufacture of the better qualities of hosiery, for mixing with
-silk and wool, for making lace, &c. It also mercerizes very well. The
+to the manufacture of the better qualities of [[Hosiery|hosiery]], for mixing with
+silk and wool, for making [[Lace|lace]], &c. It also mercerizes very well. The
 principal varieties of Egyptian cotton are: _Mitafifi_, the best-known
 and most extensively grown, hardy and but little affected by climatic
 variation. It is usually regarded as the standard Egyptian cotton; the
-lint is yellowish brown, the seeds black and almost smooth, usually with
+[[Lint|lint]] is yellowish brown, the seeds black and almost smooth, usually with
 a little tuft of short green hairs at the ends. _Abassi_, a variety
 comparatively recently obtained by selection. The lint is pure white,
 very fine and silky, but not so strong as Mitafifi cotton. _Yannovitch_,
@@ -148,7 +148,7 @@ importance.
 
 2. _G. brasiliense_, Macf. (_G. peruvianum_, Engler), or kidney cotton.
 Amongst the varieties of cotton which are derived from this species
-appear to be Pernambuco, Maranham, Ceara, Aracaty and Maceio cottons.
+appear to be Pernambuco, Maranham, [[Ceara]], Aracaty and Maceio cottons.
 The fibre is generally white, somewhat harsh and wiry, and especially
 adapted for mixing with wool. The staple varies in length from 1 to
 about 1-1/2 in.
@@ -161,13 +161,13 @@ Orleans and Texas varieties. The staple varies usually in length between
 cottons between _G. hirsutum_ and _G. mexicanum_.
 
 
-4. _G. herbaceum_, Linn. Levant cotton is derived from this species. The
+4. _G. herbaceum_, Linn. [[Levant]] cotton is derived from this species. The
 majority of the races of cotton cultivated in India are often referred
 to this species, which is closely allied to _G. hirsutum_ and has been
 regarded as identical with it. Amongst the cottons of this source are
-Hinganghat, Tinnevelly, Dharwar, Broach, Amraoti (Oomras or
-Oomrawattee), Kumta, Westerns, Dholera, Verawal, Bengals, Sind and
-Bhaunagar. Watt dissents from this view and classes these Indian cottons
+Hinganghat, Tinnevelly, [[Dharwar]], Broach, Amraoti (Oomras or
+Oomrawattee), [[Kumta]], Westerns, Dholera, Verawal, [[Bengal|Bengals]], Sind and
+[[Bhaunagar]]. Watt dissents from this view and classes these Indian cottons
 as _G. obtusifolium_ and _G. Nanking_ with their varieties. The Indian
 cottons are usually of short staple (about 3/4 in.), but are probably
 capable of improvement.
@@ -176,7 +176,7 @@ capable of improvement.
 to India, but Dr Engler has pointed out that it is found wild in Upper
 Guinea, Abyssinia, Senegal, etc. It is the "tree cotton" of India and
 Africa, being typically a large shrub or small tree. The fibre is fine
-and silky, of about an inch in length. In India it is known as Nurma or
+and silky, of about an [[Inch|inch]] in length. In India it is known as Nurma or
 Deo cotton, and is usually stated to be employed for making thread for
 the turbans of the priests. Commercially it is of comparatively minor
 importance.
@@ -219,7 +219,7 @@ price will be at once apparent.
 
 _Cultivation._--Cotton is very widely cultivated throughout the world,
 being grown on a greater or less scale as a commercial crop in almost
-every country included in the broad belt between latitudes 43 deg. N.
+every country included in the broad belt between [[Latitude|latitudes]] 43 deg. N.
 and 33 deg. S., or approximately within the isothermal lines of 60 deg.
 F.
 
@@ -249,10 +249,10 @@ the cotton belt for this period is about 4-1/2 in. per month. During the
 second portion of July and the first of August a slightly higher
 rainfall is beneficial, and even heavy rains do little harm, provided
 the subsequent months are dry and warm. The first flowers usually appear
-in June, and the bolls ripen from early in August. Picking takes place
+in June, and the [[Boll|bolls]] ripen from early in August. Picking takes place
 normally during September and October, and during these months dry
 weather is essential. Flowering and fruiting go on continually, although
-in diminishing degree, until the advent of frost, which kills the
+in diminishing degree, until the advent of [[Frost|frost]], which kills the
 flowers and young bolls and so puts an end to the production of cotton
 for the season.
 
@@ -264,7 +264,7 @@ growth, and then decreasing as the bolls ripen, with a dry picking
 season, combined with sunny days and warm nights, provide the ideal
 conditions for successful cotton cultivation. In regions where climatic
 conditions are favourable, cotton grows more or less successfully on
-almost all kinds of soil; it can be grown on light sandy soils, loams,
+almost all kinds of soil; it can be grown on light sandy soils, [[Loam|loams]],
 heavy clays and sandy "bottom" lands with varying success. Sandy uplands
 produce a short stalk which bears fairly well. Clay and "bottom" lands
 produce a large, leafy plant, yielding less lint in proportion. The most
@@ -286,11 +286,11 @@ being added only when these differ considerably from American practice.
 
 The culture of cotton must be a clean one. It is not necessarily deep
 culture, and during the growing season the cultivation is preferably
-very shallow. The result is a great destruction of the humus of the
+very shallow. The result is a great destruction of the [[Humus|humus]] of the
 soil, and great leaching and washing, especially in the light loams of
 the hill country of the United States. The main object, therefore, of
 the American cotton-planter is to prevent erosion. Wherever the planters
-have failed to guard their fields by hillside ploughing and terracing,
+have failed to guard their [[Fields|fields]] by hillside ploughing and terracing,
 these have been extensively denuded of soil, rendering them barren, and
 devastating other fields lying at a lower level, which are covered by
 the wash. The hillsides have gradually to be terraced with the plough,
@@ -340,7 +340,7 @@ drilled in usually to better advantage. The plants are generally left 2
 or 3 in. above the middle of the row, which in four-foot rows gives a
 slope of 1 in. to the foot, causing the plough to lean from the plants
 in cultivating, and thus to cut fewer roots. The plants are usually cut
-out with a hoe from 8 to 14 in. apart. It seems to make little
+out with a [[Hoe|hoe]] from 8 to 14 in. apart. It seems to make little
 difference exactly what distance they are, so long as they are not wider
 apart on average land than 1 ft. On rich bottom-land they should be more
 distant. The seed is dropped from a planter, five or six seeds in a
@@ -373,7 +373,7 @@ sheds its "forms" (as the buds are called), blooms, and even half-grown
 bolls in great numbers. It has frequently been noted that even
 well-fertilized plants upon good soil will mature only 15 or 20% of the
 bolls produced. No means are known so far for preventing this great
-waste. Experts are at an entire loss to form a correct idea of the
+waste. [[Expert|Experts]] are at an entire loss to form a correct idea of the
 cause, or to apply any effective remedy.
 
 Cotton-picking is at once the most difficult and most expensive
@@ -398,7 +398,7 @@ or less occupied in cotton-growing, and capable, at the low average of
 therefore, that if this number could work through the whole season of
 100 days, they could pick three or four times as much cotton as the
 largest crop ever made. Great efforts have been made to devise
-cotton-picking machines, but, as yet, complete success has not been
+cotton-picking [[Machine|machines]], but, as yet, complete success has not been
 attained. Lowne's machine is useful in specially wide-planted fields and
 when the ground is sufficiently hard.
 
@@ -417,7 +417,7 @@ most primitive is hand-picking, the fibre being laboriously pulled from
 off each seed, as still practised in parts of Africa. In modern
 commercial cotton production ginning machines are always used. Very
 simple machines are used in some parts of Africa. The simplest cotton
-gin in extensive use is the "churka," used from early times, and still
+[[Gin|gin]] in extensive use is the "churka," used from early times, and still
 largely employed in India and China. It consists essentially of two
 rollers either both of wood, or one of wood and one of iron, geared to
 revolve in contact in opposite directions; the seed cotton is fed to the
@@ -427,7 +427,7 @@ hand, about 5 lb. of lint is the daily output. In the Macarthy roller
 gin, the lint, drawn by a roller covered with leather (preferably walrus
 hide), is drawn between a metal plate called the "doctor" (fixed
 tangentially to the roller and very close to it) and a blade called the
-"beater" or knife, which rapidly moves up and down immediately behind,
+"beater" or [[Knife|knife]], which rapidly moves up and down immediately behind,
 and parallel to, the fixed plate. The lint is held by the roughness of
 the roller, and the blade of the knife or beater readily detaches the
 seed from the lint; the seed falls through a grid, while the lint passes
@@ -437,13 +437,13 @@ similar, but larger machine, requiring about 1-1/2 horse-power to run it,
 will turn out 50 to 60 lb. of Egyptian or 60 to 80 lb. of Sea Island
 cleaned cotton per hour. By simple modifications the Macarthy gin can be
 used for all kinds of cotton. Various attempts have been made to
-substitute a comb for the knife or beater, and one of the latest
+substitute a [[Comb|comb]] for the knife or beater, and one of the latest
 productions is the "Universal fibre gin," in which a series of blunt
 combs working horizontally replace the solid beater and so-called knife
 of the Macarthy gin.
 
 Opposed to the various types of roller gins is the "saw gin," invented
-by Eli Whitney, an American, in 1792. This machine, under various
+by [[Eli]] Whitney, an American, in 1792. This machine, under various
 modifications, is employed for ginning the greater portion of the cotton
 grown in the Southern States of America. It consists essentially of a
 series of circular notched disks, the so-called saws, revolving between
@@ -456,7 +456,7 @@ short-stapled cotton they are largely used, owing to their great
 capacity. The average yield of lint per "saw" in the United States, when
 working under perfect conditions, is about 6 lb. per hour. Some of the
 American ginners are very large indeed, a number (_Bulletin of the
-Bureau of the Census on Cotton Production_) being reported as containing
+[[Bureau]] of the Census on Cotton Production_) being reported as containing
 on the average 1156 saws with an average production of 4120 bales of
 cotton. Saw gins are not adapted to long-stapled cottons, such as Sea
 Island and Egyptian, which are generally ginned by machines of the
@@ -497,7 +497,7 @@ With baling the work of the producer is concluded.
 _Cultivation in Egypt._--Climatic conditions in Egypt differ radically
 from those in the United States, the rainfall being so small as to be
 quite insufficient for the needs of the plant, very little rain indeed
-falling in the Nile Delta during the whole growing season of the crop:
+falling in the Nile [[Delta]] during the whole growing season of the crop:
 yet Egypt is in order the third cotton-producing country of the world,
 elaborate irrigation works supplying the crop with the requisite water.
 The area devoted to cotton in Egypt is about 1,800,000 acres, and
@@ -516,8 +516,8 @@ overflows its banks.
   +----------------+---------------+-----------+---------------+
   |                |    Winter.    |  Summer.  |     Nili.     |
   |                +---------------+-----------+---------------+
-  | First year     |Clover         |   Cotton  |      ..       |
-  | Second year    |Beans or wheat |     ..    |Corn or fallow |
+  | First year     |[[Clover]]         |   Cotton  |      ..       |
+  | Second year    |[[Bean|Beans]] or wheat |     ..    |[[Corn]] or fallow |
   +----------------+---------------+-----------+---------------+
 
 For cotton cultivation the land is ploughed, carefully levelled, and
@@ -539,12 +539,12 @@ cotton seed in the United States. The revolution in its treatment is a
 real romance of industry. Up till 1870 or thereabouts, cotton seed was
 regarded as a positive nuisance upon the American plantation. It was
 left to accumulate in vast heaps about ginhouses, to the annoyance of
-the farmer and the injury of his premises. Cotton seed in those days was
+the [[Farmer|farmer]] and the injury of his premises. Cotton seed in those days was
 the object of so much aversion that the planter burned it or threw it
 into running streams, as was most convenient. If the seed were allowed
 to lie about, it rotted, and hogs and other animals, eating it, often
-died. It was very difficult to burn, and when dumped into rivers and
-creeks was carried out by flood water to fill the edges of the flats
+died. It was very difficult to [[Burn|burn]], and when dumped into rivers and
+[[Creek|creeks]] was carried out by [[Flood|flood]] water to fill the edges of the flats
 with a decaying and offensive mass of vegetable matter. Although used in
 the early days to a limited extent as a food for milch cows and other
 stock, and to a larger extent as a manure, no systematic efforts were
@@ -583,10 +583,10 @@ cotton seed possesses, therefore, a distinct value.
 The products of cotton seed have become important elements in the
 national industry of the United States. The main product is the refined
 oil, which is used for a great number of purposes, such as a substitute
-for olive oil, mixed with beef products for preparation of compound
-lard, which is estimated to consume one-third of cotton seed oil
+for olive oil, mixed with [[Beef|beef]] products for preparation of compound
+[[Lard|lard]], which is estimated to consume one-third of cotton seed oil
 produced in the States. The poorer grades are employed in the
-manufacture of soap, candles and phonograph records. Miners' lamp oil
+manufacture of soap, [[Candle|candles]] and phonograph records. Miners' [[Lamp|lamp]] oil
 consists of the bleached oil mixed with kerosene. Cotton seed cake or
 meal (the residue after the oil is extracted) is one of the most
 valuable of feeding stuffs, as the following simple comparison between
@@ -594,8 +594,8 @@ it and oats and corn will show:--
 
 
   +-----------------+----------+--------------+-------+-----------+
-  |                 | Proteins |Carbohydrates |       |Ash or Bone|
-  |Average Analyses.| or Flesh | or Fuel and  | Fats. |  Makers.  |
+  |                 | Proteins |[[Carbohydrate|Carbohydrates]] |       |Ash or [[Bone]]|
+  |Average Analyses.| or Flesh | or [[Fuel]] and  | Fats. |  Makers.  |
   |                 | Formers. |Fat Suppliers.|       |           |
   +-----------------+----------+--------------+-------+-----------+
   |Cotton seed meal |   43.26  |     22.31    | 13.45 |    7.02   |
@@ -620,7 +620,7 @@ except in some of the northern states, where it is used for feeding
 purposes. A more rational proceeding would be to feed the meal to
 animals and apply the resulting manure to the soil. When this is done,
 from 80 to 90% of the fertilizing material of the meal is recovered in
-the manure, only 10 to 20% being converted by the animal into meat and
+the manure, only 10 to 20% being converted by the animal into [[Meat|meat]] and
 milk. The profit derived from the 20% thus removed is a very large one.
 These facts indicate that we have here an agricultural product the
 market price of which is still far below its value as compared, on the
@@ -634,7 +634,7 @@ cotton seed which cannot be manufactured by the mills. Another reason is
 found in the absence of cattle in the south to eat it.
 
 With the consideration of cotton seed oil and meal we have not, however,
-exhausted its possibilities. Cotton seed hulls constitute about half the
+exhausted its possibilities. Cotton seed [[Hull|hulls]] constitute about half the
 weight of the ginned seed. After the seed of Upland cotton has been
 passed through a fine gin, which takes off the short lint or linters
 left upon it by the farmer, it is passed through what is called a
@@ -650,9 +650,9 @@ burned produced an ash containing an average of 9% of phosphoric acid
 and 24% of potash--a very valuable fertilizer in itself, and one eagerly
 sought by growers of tobacco and vegetables. It was not long, however,
 before the stock-feeder in the South found that cotton seed hulls were
-an excellent substitute for hay. They are used on a very large scale in
+an excellent substitute for [[Hay|hay]]. They are used on a very large scale in
 the vicinity of oil mills in southern cities like Memphis, New Orleans,
-Houston, and Little Rock, from 500 to 5000 cattle being often collected
+[[Houston]], and [[Little Rock]], from 500 to 5000 cattle being often collected
 in a single yard for this purpose. No other feed is required, the only
 provision necessary being an adequate supply of water and an occasional
 allowance of salt. Many thousands of cattle are fattened annually in
@@ -731,7 +731,7 @@ from the fact that a conservative estimate places the loss due to insect
 attacks on cotton in the United States at the astounding figure of
 $60,000,000 (L12,000,000) annually. Of this total no less than
 $40,000,000 (L8,000,000) is credited to a small beetle, the cotton boll
-weevil, and to two caterpillars. The best means of combating these
+weevil, and to two [[Caterpillar|caterpillars]]. The best means of combating these
 attacks depends on a knowledge of the life-histories and habits of the
 pests. The following notes deal only with the practical side of the
 question, and as the United States produce some seven-tenths of the
@@ -749,7 +749,7 @@ the abandonment of cotton cultivation about Monclova in Mexico. About
 transported from place to place in seed-cotton, and for this reason the
 Egyptian government in 1904 prohibited the importation of American
 cotton seed. Not only is the pest carried from place to place, but it
-also migrates, and in 1907 it crossed from Louisiana, where it first
+also migrates, and in 1907 it crossed from [[Louisiana]], where it first
 appeared in 1905, to Mississippi. That the insect is likely to prove
 adaptable is perhaps indicated by the fact that in 1906 it made a
 northward advance of about 60 m. in a season with no obvious special
@@ -760,7 +760,7 @@ cotton of 900,000 acres" (_Year-book, U.S. Dept. Agriculture_, 1904). In
 1906 the additional area invaded amounted to 1,500,000 acres (_Ibid._,
 1906).
 
-The adult weevils puncture the young flower-buds and deposit eggs; and
+The adult weevils puncture the young flower-buds and deposit [[Egg|eggs]]; and
 as the grubs from the eggs develop, the bud drops. They also lay eggs
 later in the year in the young bolls. These do not drop, but as the
 grubs develop the cotton is ruined and the bolls usually become
@@ -770,8 +770,8 @@ No certain remedy is known for the destruction on a commercial scale of
 the boll weevil, but every effort has been made in the United States to
 check the advance of the insect, to ascertain and encourage its natural
 enemies, and to propagate races of cotton which resist its attacks.
-Special interest attaches to the investigations made by Mr O. F. Cook,
-of the U.S. Dept. of Agriculture, in Guatemala. The Indians in part of
+Special interest attaches to the investigations made by Mr O. F. [[Cook]],
+of the U.S. Dept. of Agriculture, in [[Guatemala]]. The Indians in part of
 Guatemala raise cotton, although the boll weevil is abundant.
 Examination showed that although the weevil attacked the young buds
 these did not drop off, but that a special growth of tissue inside the
@@ -877,7 +877,7 @@ three or four years.
 "Boll rot," or "Anthracnose," is a disease which may at times be
 sufficiently serious to destroy from 10 to 50% of the crop. The fungus
 which causes it (_Colletotrichum gossypii_) is closely related to one of
-the fungi attacking sugar-cane in various parts of the world. Small
+the [[Fungi|fungi]] attacking sugar-cane in various parts of the world. Small
 red-brown spots appear on the bolls, gradually enlarge, and develop into
 irregular black and grey patches. The damage may be only slight, or the
 entire boll may ripen prematurely and become dry and dead.
@@ -900,7 +900,7 @@ before the cotton grower in all parts of the world, but practical steps
 are not always taken to realize it. Some of the United States planters
 are alert to take advantage of the application of science to industry,
 and in many cases even to render active assistance, and very successful
-results have been attained by the co-operation of the United States
+results have been attained by the [[Co-Operation|co-operation]] of the United States
 Department of Agriculture and planters. With the improvement of cotton
 the name of Mr Herbert J. Webber is prominently associated, and a full
 discussion of methods and results will be found in his various papers in
@@ -998,7 +998,7 @@ decline in quality."
 When selection is being made for several characters at the same time,
 and also in hybridization experiments, where it is important to have
 full records of the characters of individual plants and their progeny,
-"score cards," such as are used in judging stock, with a scale of
+"score [[Cards|cards]]," such as are used in judging stock, with a scale of
 points, are used.
 
 The improvements desired in cotton vary to some degree in different
@@ -1009,7 +1009,7 @@ circumstances. Amongst the more important desiderata are:--
 1. Increased Yield.
 
 2. Increase in Length of Lint.--Webber records the case of Stamm
-Egyptian cotton imported into Columbia, in which by simple selection, as
+Egyptian cotton imported into [[Columbia]], in which by simple selection, as
 outlined above, during two years plants were obtained uniformly earlier,
 more productive, and yielding longer and better lint.
 
@@ -1118,7 +1118,7 @@ Bulletin No. 76_). The actual figures for the chief countries for
   | Peru            |     40,000 |     55,000 |     55,000 |
   | Turkey          |    100,000 |    107,000 |    107,000 |
   | Persia          |     45,000 |     47,000 |     47,000 |
-  | Japan           |     16,000 |     15,000 |     11,000 |
+  | [[Japan]]           |     16,000 |     15,000 |     11,000 |
   | Other countries |     70,000 |    100,000 |    100,000 |
   +-----------------+------------+------------+------------+
   | Total           | 18,803,000 | 15,747,000 | 19,942,000 |
@@ -1146,7 +1146,7 @@ thousands were for a time deprived of employment and the means of
 subsistence. In this period of destitution the cotton-growing resources
 of every part of the globe were tested to the utmost; and in the
 exhibition of 1862 the representatives of every country from which
-supplies might be expected met to concert measures for obtaining all
+supplies might be expected met to [[Concert|concert]] measures for obtaining all
 that was wanted without the aid of America. The colonies and
 dependencies of Great Britain, including India, seemed well able to grow
 all the cotton that could be required, whilst numerous other countries
@@ -1188,7 +1188,7 @@ The potentialities of the region are thus enormous.
   | Georgia          |  750,762,910 | 75,151,367 | 9,950,634 | 2,850,857| 78,002,224 |
   | Indian Territory |  196,648,765 | 19,684,542 |     ..    |    ..    | 19,684,542 |
   | Kansas           |        9,844 |        985 |     ..    |    ..    |        985 |
-  | Kentucky         |    1,008,290 |    100,930 |     ..    |    ..    |    100,930 |
+  | [[Kentucky]]         |    1,008,290 |    100,930 |     ..    |    ..    |    100,930 |
   | Louisiana        |  473,222,310 | 47,369,553 |     ..    |    ..    | 47,369,553 |
   | Mississippi      |  732,755,978 | 73,348,874 |     ..    |    ..    | 73,348,874 |
   | Missouri         |   26,040,093 |  2,606,613 |     ..    |    ..    |  2,606,613 |
@@ -1265,8 +1265,8 @@ _Cotton Production in the British West Indies_: 1905-1906.[2]
   |   _galante_ cotton).    |        |          |         |          |
   | St Kitts                |  1,000 |    241   |   15.0  |   8,380  |
   | Nevis                   |  1,700 |    240   |   13.0  |   8,364  |
-  | Anguilla                |  1,000 |    161   |   15.0  |   5,280  |
-  | Antigua                 |    700 |    200   |   14.2  |   6,522  |
+  | [[Anguilla]]                |  1,000 |    161   |   15.0  |   5,280  |
+  | [[Antigua]]                 |    700 |    200   |   14.2  |   6,522  |
   | Montserrat              |    770 |    196   |   15.0  |   6,789  |
   | Virgin Islands          |     40 |     14   |    ..   |     400  |
   | Jamaica                 |  1,500 |    123   |    ..   |   4,025  |
@@ -1298,7 +1298,7 @@ each, yield, average value per pound and total value of the crop in
 1905-1906.
 
 The whole of this crop was Sea Island cotton, with the exception of the
-"Marie galante" grown in Carriacou. Marie galante is a harsh cotton of
+"[[Marie Galante|Marie galante]]" grown in Carriacou. Marie galante is a harsh cotton of
 the Peruvian or Brazilian type. The low yield per acre in this island,
 and also the low value of the lint per lb. compared with the Sea Island
 cotton, is clearly apparent.
@@ -1316,24 +1316,24 @@ industry was abandoned as other crops became more remunerative. The
 government is encouraging recent efforts to re-establish the
 cultivation.
 
-_Malta._--Cotton has long been cultivated in Malta, but the acreage
+_[[Malta]]._--Cotton has long been cultivated in Malta, but the acreage
 diminished from 1750 acres in 1899 to 670 acres in 1906. A considerable
 quantity of the produce is spun and woven locally; e.g. in 1904 the
 export was equivalent to about 120 bales out of a total production of
 330 bales, and in 1905 to 258 out of 333 bales (of 500 lb. each).
 
-_Cyprus_ has a soil and climate suited to cotton, which was formerly
+_[[Cyprus]]_ has a soil and climate suited to cotton, which was formerly
 grown here on a large scale. The rainfall is uncertain and low, however,
 never exceeding 40 in., and on the supply of water by irrigation the
 future of the industry mainly depends. The exports dwindled from 3600
 bales in 1865 to 946 in 1905; great fluctuations occur, the export in
 1904, for example, being only 338 bales. The cotton grown is rather
-short-stapled and goes mainly to Marseilles and Trieste. Some is used
+short-stapled and goes mainly to [[Marseilles]] and Trieste. Some is used
 locally in the manufacture of cloth.
 
 _Egypt._--The position of Egypt as the third cotton-producing country of
 the world has already been pointed out, and the varieties grown and the
-mode of cultivation described. The introduction of the exotic varieties
+mode of cultivation described. The introduction of the [[Exotic|exotic]] varieties
 dates from the beginning of the 19th century. The industry was actively
 promoted by a Frenchman named Jumel, in the service of Mehemet Ali, from
 1820 onwards with great success. The area under cotton is about
@@ -1360,7 +1360,7 @@ cultivating cotton."
 
 _West Africa._--Cotton has long been grown in the various countries on
 the west coast of Africa, ginned by hand or by very primitive means,
-spun into yarn, and woven on simple looms into "country cloths"; these
+spun into yarn, and woven on simple [[Loom|looms]] into "country cloths"; these
 are often only a few inches wide, so that any large cloths have to be
 made by sewing the narrow strips together. These native cloths are
 exceedingly durable, and many of them are ornamented by using dyed yarns
@@ -1378,7 +1378,7 @@ exported from Lagos. The country offers a fairly promising field for
 development, especially now that arrangements have been made for
 providing the necessary means of transport by the construction of the
 new railways. The profits obtained from ground-nuts (_Arachis hypogea_)
-in Gambia, gold mining in the Gold Coast, and from products of the oil
+in Gambia, gold mining in the [[Gold Coast]], and from products of the oil
 palm (_Elaeis guineensis_) in the palm-oil belt serve to prevent much
 attention being given to cotton in these districts.
 
@@ -1411,7 +1411,7 @@ attention being given to cotton in these districts.
   +----------------------------+-----------+-----------+-----------+
     *Approximately.
 
-_Nyasaland (British Central Africa).--_The cultivation of cotton on a
+_Nyasaland ([[British Central Africa]]).--_The cultivation of cotton on a
 commercial scale is quite new in Nyasaland, and although general
 conditions of soil and climate appear favourable the question of
 transport is serious and labour is not abundant. The exports were
@@ -1446,11 +1446,11 @@ elements from nature for the production of cotton to an almost boundless
 extent, and of a useful and acceptable quality, India for a long series
 of years did but little towards supplying the manufactures of other
 countries with the raw material which they required. Between the years
-1788 and 1850 numerous attempts were made by the East India Company to
+1788 and 1850 numerous attempts were made by the [[East India Company]] to
 improve the cultivation and to increase the supply of cotton in India,
 and botanists and American planters were engaged for the purpose. One
 great object of their experiments was to introduce and acclimatize
-exotic cottons. Bourbon, New Orleans, Upland, Georgia, Sea Island,
+exotic cottons. [[Bourbon]], New Orleans, Upland, Georgia, Sea Island,
 Pernambuco, Egyptian, &c., were tried but with little permanent success.
 The results of these and similar attempts led to the conclusion that
 efforts to improve the indigenous cottons were most likely to be
@@ -1467,7 +1467,7 @@ three-quarters of an inch, and is not well suited to the requirements of
 the English spinner, but very large mills specially fitted to deal with
 short-stapled cottons have been erected in India and consume about
 one-half the total crop, the remainder being exported to Germany and
-other European countries, Japan and China. In 1906 the United Kingdom
+other [[European Countries|European countries]], Japan and China. In 1906 the United Kingdom
 took less than 5% of the cotton exported.
 
   _Cotton Production in British India._[3]
@@ -1490,7 +1490,7 @@ During recent years a considerable quantity of cotton has been exported,
 but more than a compensating amount of raw cotton, yarns and textiles,
 is imported. An estimate of the crop puts it at about 1,500,000 bales.
 
-_Korea_ is stated to have originally received its cotton plants from
+_[[Korea]]_ is stated to have originally received its cotton plants from
 China some 500 years ago. Conditions are well adapted to the cultivation
 of the plant, and since the cessation of the Russo-Japanese War the
 Japanese have undertaken the development of the industry. Figures are
@@ -1508,13 +1508,13 @@ normal trade before the war with Russia Japan imported annually about
 United States, and during the same period exported each year some 2000
 bales, mainly to Korea.
 
-_Dutch East Indies._--In Java and other Dutch possessions in the East
+_Dutch [[East Indies]]._--In [[Java]] and other Dutch possessions in the East
 cotton is cultivated. A considerable amount is used locally, and during
 the six years ending in 1907 the surplus exported ranged from about
 24,000 to 40,000 bales per annum.
 
 _Russia._--Some cotton is produced in European Russia in the southern
-Caucasus, but Turkestan in central Asia is by far the more important
+[[Caucasus]], but Turkestan in central Asia is by far the more important
 source of Russian-grown cotton. In this region cotton has been
 cultivated from very early times to supply local demands, and to a minor
 degree for export. Since about 1875 the Russians have fostered the
@@ -1531,13 +1531,13 @@ remainder coming chiefly from the United States.
 
 _Asia Minor._--Smyrna is the principal centre of cotton cultivation in
 this region. A native variety known as "Terli," and American cotton, are
-grown. The general conditions are favourable. According to the Liverpool
-_Cotton Gazette_, Asiatic Turkey produced in 1906 about 100,000 bales,
+grown. The general conditions are favourable. According to the [[Liverpool]]
+_Cotton [[Gazette]]_, Asiatic Turkey produced in 1906 about 100,000 bales,
 and Persia about 47,000 bales. Cotton was formerly cultivated profitably
 in Palestine.
 
 _Australasia._--The quantity of cotton now produced in Australasia is
-extremely small. Queensland, New South Wales and South Australia possess
+extremely small. Queensland, New South Wales and South [[Australia]] possess
 suitable climatic conditions, and in the first-named state the cotton
 has been grown on a commercial scale in past years, the crop in 1897
 being about 450 bales. Considerable interest attaches to the
@@ -1546,7 +1546,7 @@ experimented with in Australia, Ceylon and elsewhere. It is probably a
 hybrid between Sea Island and rough Peruvian cotton, but lacks most of
 the essential features of Sea Island.
 
-In _Fiji_ the cotton exported in the 'sixties and 'seventies was worth
+In _[[Fiji]]_ the cotton exported in the 'sixties and 'seventies was worth
 L93,000 annually; but the cultivation has been practically abandoned. In
 1899 about 60 bales, and in 1900 about 6 bales, were exported. During
 1901-1903 there were no exports of cotton, and in 1904 only 70 bales
@@ -1561,7 +1561,7 @@ over 100 bales, valued at L1052, were exported.     (W. G. F.)
 
 MARKETING AND SUPPLY
 
-  Moving the harvest to the ports.
+  Moving the [[Harvest|harvest]] to the ports.
 
 In the days of slave-grown cotton, the American planters, being men of
 wealth farming on a large scale, consigned the bulk of their produce as
@@ -1573,7 +1573,7 @@ are financed as a rule by commission agents. The decline of "spot" sales
 at the ports, partly but not entirely in consequence of the appearance
 of the small cultivator, has proceeded steadily. Hammond[4] has
 constructed a table from information supplied by the secretaries of the
-cotton exchanges at New York, Charleston, Savannah, Mobile, New Orleans
+cotton [[Exchange|exchanges]] at New York, [[Charleston]], Savannah, Mobile, New Orleans
 and Galveston, showing the sales of "spot" cotton at those ports for the
 twenty-two years between 1874-1875 and 1895-1896, and in all cases an
 absolute decline is evident. The receipts of cotton in the season
@@ -1591,19 +1591,19 @@ are given below.
   Vicksburg, Miss.    100  |  Columbus, Ga.         74
   Columbus, Miss.      57  |  Macon, Ga.            87
   Natchez, Miss.       76  |  Albany, Ga.           35
-  Atlanta, Ga.        134  |  Houston, Tex.      2,423
+  [[Atlanta]], Ga.        134  |  Houston, Tex.      2,423
   Rome, Ga.            72  |  Meridian, Miss.      133
   Augusta, Ga         446  |  Cincinnati, Ohio     167
   Columbia, S.C.       68  |  Yazoo City, Miss.     65
   Newberry, S.C.       17  |                      ----
-  Charlotte, N.C.      21  |  Total               6712
+  [[Charlotte]], N.C.      21  |  Total               6712
   Raleigh, N. C.       19  |                     -----
   St Louis, Mo.       672  |  Crop.             13,565
 
   _Receipts of Cotton at American Ports._
   (In Thousand Statistical Bales of 500 lb. each.)
 
-   Galveston, Tex.  2,879  |  Boston, Mass.          84
+   Galveston, Tex.  2,879  |  [[Boston]], Mass.          84
    New Orleans, La. 2,690  |  Philadelphia, Pa.      14
    Mobile, Ala.       330  |  Brunswick, Ga.        200
    Savannah, Ga.    1,877  |  Pensacola, Fla.       187
@@ -1652,17 +1652,17 @@ an end to which the Manchester Cotton Association had directed its
 efforts for some time past. The latter association was established at
 the end of 1894, with a membership of 265, in the interests of those
 spinners who desired importations direct to Manchester. The objects of
-the association are officially stated to be: (1) to frame suitable and
+the association are officially stated to be: (1) to [[Frame|frame]] suitable and
 authoritative forms of contract, and to make rules and regulations for
 the proper conduct of the trade; (2) to supervise and facilitate the
-delivery of the importations of cotton at the Manchester docks to the
+delivery of the importations of cotton at the Manchester [[Dock|docks]] to the
 various consignees; (3) to provide and maintain trustworthy standards of
 classification; (4) to procure and disseminate useful information on all
 subjects pertaining to the trade; (5) to act in concert with chambers of
 commerce and other bodies throughout the world for mutual protection;
 (6) to establish a market for cotton at Manchester. Spinning members
 preponderate, but almost all the Manchester cotton merchants and cotton
-brokers have also joined the association. The importance of the original
+[[Broker|brokers]] have also joined the association. The importance of the original
 spinners' representation on the association is shown by the fact that
 they worked over 14,000,000 spindles: in December 1905 the spindles
 represented by members had risen to nearly 20,000,000. Some 73,000 looms
@@ -1750,7 +1750,7 @@ requirements, as regards raw material, of all spinners are much alike
 generally, and that no spinner could afford to pay an expert to devote
 himself entirely to purchasing cotton for his mill.
 
-So far change had been gradual, but the success of the Manchester and
+So far change had been [[Gradual|gradual]], but the success of the Manchester and
 Liverpool railway undermined beyond repair the old system of doing
 business. Spinners could easily run over to Liverpool and buy their
 cotton from the large stocks displayed at that port. Before the railway
@@ -1760,7 +1760,7 @@ journey, combined with less easy terms for payment than were usual in
 Manchester, prevented any great numbers from departing from the beaten
 track. Cotton dealers up to this time had regularly financed the
 spinners, who were frequently men of little capital, by allowing long
-credit, and had even employed them to spin on commission. As men of
+[[Credit|credit]], and had even employed them to spin on commission. As men of
 substance increased among the ranks of the spinners, the Manchester
 cotton dealers found it impossible to retard a movement set on foot by
 the prospects of such appreciable advantages. Ultimately many of the old
@@ -1781,7 +1781,7 @@ Manchester dealers had been. The system was rendered comparatively
 inexpensive by the drop in commissions from 1 to 1/2% which had followed
 the adoption of selling by sample. This custom of buying and selling
 through brokers continued unshaken until the laying of the Atlantic
-cable tempted selling brokers occasionally, and even some buying
+[[Cable|cable]] tempted selling brokers occasionally, and even some buying
 brokers, to buy direct from American factors by telegraph and thus
 transform themselves into quasi-importers. The temptation was made the
 more difficult to resist by the development of "future" dealings. When
@@ -1805,14 +1805,14 @@ By 1876 "forward" operations had become so vast and complicated that a
 cotton-clearing house had to be established to deal with the confusing
 networks of debits and credits created by them. Its principle was
 exactly that of the clearing houses used by the railways and the banks,
-the cancellation of indebtedness and discharge simply of balances. The
-final settlement of a "future" contract involved usually a crowd of
+the cancellation of indebtedness and [[Discharge|discharge]] simply of [[Balance|balances]]. The
+final settlement of a "future" contract involved usually a [[Crowd|crowd]] of
 persons, and the passage of large sums of money backwards and forwards,
-so that the amount of cash required for circulation on the exchange
+so that the amount of [[Cash|cash]] required for circulation on the exchange
 became unreasonably excessive and an annoying waste of time was
 entailed. The cotton-clearing house substituted book-keeping for the
 bulk of these payments. The establishment of the Cotton Bank naturally
-followed. Now debts are discharged in the first instance by vouchers.
+followed. Now [[Debt|debts]] are discharged in the first instance by vouchers.
 Dealers pass their debit and credit vouchers into the Cotton Bank and
 pay or receive the balances which they owe or are entitled to. In order
 to protect dealers against the losses due to the insolvency of those
@@ -1837,7 +1837,7 @@ fall on Thursday, and the closing prices on the preceding Monday are
 taken as the basis of the settlement. From all differences interest at
 5% is deducted for the time between settlement day and the tenth day of
 the second month on which the "future" elapses, since settlement terms
-mean that money is paid in instalments before it is actually due. To the
+mean that money is paid in [[Instalment|instalments]] before it is actually due. To the
 admission of periodic settlements there was for a time vehement
 opposition on the ground that the door would be opened to gambling on
 "differences." Hence at first, in 1882, they were used only by a section
@@ -1914,7 +1914,7 @@ close of the 18th century there was a tacit understanding among brokers
 to supply one another with information. There were no printed circulars,
 except the monthly prices current of all kinds of produce, but brokers
 used to send particulars of business done to their customers in letters.
-These letters were the origin of circulars. Messrs Ewart and Rutson
+These letters were the origin of circulars. Messrs [[Ewart]] and Rutson
 pioneered in 1805 by issuing a weekly account of the sales and imports
 of cotton, and three years later three such circulars were on the
 market, though Hope's alone was confined to cotton. For the first
@@ -1958,8 +1958,8 @@ which are sometimes known technically as "deferred deliveries."
   The spinner's risks.
 
 When a spinner is required to quote prices of yarn for delivery in the
-future he is fixed on the horns of a dilemma. If he does not at once buy
-cotton, but quotes on the assumption that price will remain steady, he
+future he is fixed on the [[Horn|horns]] of a [[Dilemma|dilemma]]. If he does not at once buy
+cotton, but quotes on the [[Assumption|assumption]] that price will remain steady, he
 may be involved in serious loss through his estimate being mistaken. If
 he determines to buy cotton at once, others who risk more, and trust
 their judgment of the future, may secure the contract. On first thoughts
@@ -2130,7 +2130,7 @@ Egyptian futures, it will be observed, run out in single months. As the
 cost of dealing in "futures" is only one shilling on each transaction
 for a member of the Cotton Exchange (the outsider is charged in addition
 a commission by his broker), it is not surprising that the transactions
-taking place in "futures" number legion.
+taking place in "futures" number [[Legion|legion]].
 
 The methods of dealing in cotton are very intricate, and it is necessary
 here to interpolate an explanation of the relations between the prices
@@ -2164,7 +2164,7 @@ done, published on the morning of the 19th of April 1906.
   Tinnevelly    5-1/4    5-7/16     5-9/16      ..        ..       ..
 
   _Cotton Ships arrived._
-  Boston: Canadian S. Hamburg: Iceland S.
+  Boston: Canadian S. [[Hamburg]]: [[Iceland]] S.
 
   +-----------------+-------+--------+-------+--------+-------+--------+
   |                 |     Sales.     |   Speculation  | Imports includ-|
@@ -2203,7 +2203,7 @@ market had business been done. The work of the committee is by no means
 simple, as frequently very few transactions take place in the kinds of
 cotton of which quotations are given. As regards "middling" American,
 the committee fixes "spot" by allowing so many "points on or off"
-present month futures. The variations of the gaps between "spot" and
+present month futures. The variations of the [[Gap|gaps]] between "spot" and
 "present month futures" are somewhat mysterious, a matter to which we
 shall recur. "Spot" quotations, the reader will now understand, are
 partly nominal, and must therefore be taken as affording a general idea
@@ -2298,7 +2298,7 @@ the standard deviation is limited: the frequency of movement cannot be
 inferred from it; two series might have quite different average
 oscillations and yet the same standard deviation; and the range of
 movement, or spread of the variations from the average price (though
-allowed for in the standard deviation more than in the average error),
+allowed for in the standard deviation more than in the average [[Error|error]]),
 is hidden. Now frequency of movement, average daily price variation, and
 range of price movements are matters of fundamental importance to the
 public. Hence for practical purposes we require several kinds of
@@ -2373,7 +2373,7 @@ improvement can be traced it cannot logically be attributed
 unhesitatingly to the perfecting of the machinery of speculation,
 whereby a larger use has been made of "futures," since many other
 economic changes have taken place concomitantly and they may have
-wrought the major effect. The world may be steadying and steeling its
+wrought the [[Major|major]] effect. The world may be steadying and steeling its
 nerves. Now, turning to the actual effects, we discover somewhat
 remarkable facts. Expressed both absolutely and as percentages of the
 price averaged from the 1st of October to the 31st of July, the range of
@@ -2471,7 +2471,7 @@ operation would be much less in magnitude), may account for the change.
 
 "Futures" are not used in all markets--for instance, they are not to be
 found at Bremen; and in those in which they are used they play parts of
-different prominence--at Havre, for instance, the transactions in
+different prominence--at [[Havre]], for instance, the transactions in
 "futures" are of incomparably less relative importance than they are at
 Liverpool. But it is futile to seek the effect of much dealing in
 "futures" in the differences between price movements in the various
@@ -2517,7 +2517,7 @@ plausible conjecture that if "futures" were "bulling" the market in the
 first case, they were at least "bulling" it less in the second case
 _ceteris paribus_, and probably "bearing" it in the last case. A closer
 examination will reveal further that the magnitude of these gaps varies
-a great deal; and if the "futures" do "bear" and "bull," as has been
+a great deal; and if the "futures" do "bear" and "[[Bull|bull]]," as has been
 supposed, they probably influence these magnitudes. It might be thought
 that the "futures" of different months, being substitutes in proportion
 to their temporal proximity to one another, should vary together
@@ -2533,7 +2533,7 @@ therefore be expected to drop more than "spot" when this impression was
 at all widely entertained. But the fall of "current futures" would be
 checked by the demands that must be satisfied in the near future.
 Probably the prices of the more distant "futures" are determined in a
-higher degree by far-reaching imagination than the prices of nearer
+higher degree by far-reaching [[Imagination|imagination]] than the prices of nearer
 futures. This explains what has been called above the unintentional
 "bearing" of "spot" by "futures." And it is immediately evident that the
 deliberate "bear" works by selling "futures," and that the effect of his
@@ -2594,10 +2594,10 @@ more Indian cotton is used in continental countries than in England.
   | United States                          |   1436      |  1424       |
   | Brazil                                 |     13.8    |    31.5     |
   | Peru                                   |      8.5    |     8.6     |
-  | Chile (including the Pacific coast of  |       .8    |     2.2     |
+  | [[Chile]] (including the Pacific coast of  |       .8    |     2.2     |
   |   Patagonia)                           |             |             |
   | Venezuela and Republic of Colombia     |       .5    |      .5     |
-  | British West Indies and British Guiana |       .3    |      .6     |
+  | British West Indies and British [[Guiana]] |       .3    |      .6     |
   | Turkey (European and Asiatic)          |       .5    |     1.1     |
   | Egypt                                  |    295.7    |   314.4     |
   | British possessions in the East Indies |     40.7    |    61.9     |
@@ -2687,13 +2687,13 @@ Arrangements were concluded with the British South Africa Company for
 the formation of a small syndicate for working in Rhodesia.
 
 The general movement for the extension of cotton cultivation was
-welcomed by the International Congress of representatives of master
+welcomed by the [[International]] Congress of representatives of master
 cotton spinners and manufacturers' associations at the meeting at Zurich
 in May 1904. It placed on record "its cordial appreciation of the
 efforts of those governments and institutions which have already
 supported cotton-growing in their respective colonies." England is
 pre-eminent but not alone in the matter. Germany and France, and in a
-less degree Belgium, Portugal and Italy, have taken some steps. Russia,
+less degree [[Belgium]], Portugal and Italy, have taken some steps. Russia,
 too, is developing her internal supplies.
 
 The advantages that might accrue from the wider distribution of
@@ -2724,7 +2724,7 @@ is carried should gain in prosperity.
 
 The general difficulties in the way of the British Cotton Growing
 Association are many and will be sufficiently evident. Lessons of value
-may be learnt from the fate of similar work undertaken by the Cotton
+may be learnt from the [[Fate|fate]] of similar work undertaken by the Cotton
 Supply Association, which was instituted in April 1857. According to its
 fifth report, it originated "in the prospective fears of a portion of
 the trade that some dire calamity must inevitably, sooner or later,
@@ -2802,7 +2802,7 @@ connected with the trade.
 _Cotton Yarn._--The yarn trade is mainly in the hands of limited
 companies, and a private firm is looked upon as something of a survival
 from the past. The two great centres of production are Oldham, in which
-American cotton is chiefly, though not exclusively, spun, and Bolton,
+American cotton is chiefly, though not exclusively, spun, and [[Bolton]],
 which spins the finer counts from Egyptian or Sea Island cotton.
 Spinning mills are established, however, in most of the large Lancashire
 towns as well as in some parts of Cheshire and in Yorkshire, where there
@@ -2833,7 +2833,7 @@ twist and 36^s to 46^s weft in American, 50^s to 60^s twist and 42^s to
 nevertheless the experience of yarn salesmen that Lancashire produces an
 increasingly large amount of specialities that indicate a continued
 differentiation in trade. The tendency to spin finer counts has been to
-some extent counteracted by the development of the flannelette trade,
+some extent counteracted by the development of the [[Flannelette|flannelette]] trade,
 for which heavy wefts are used, and there has been again a tendency
 lately to use "condensor" or waste wefts, which has worked to the
 disadvantage of the spinners of the regular coarse counts spun at Royton
@@ -2846,7 +2846,7 @@ considerable developments continue in the use of dyed and mercerized
 yarns.
 
 Yarns are sold according to their "actual" counts, though when they are
-woven into cloth they frequently attain nominal or brevet rank. There
+woven into cloth they frequently attain nominal or [[Brevet|brevet]] rank. There
 has been a long-continued discussion, which between buyer and seller
 sometimes degenerates into a dispute, on the subject of moisture in
 yarns, and the difficulty is not confined to the Lancashire industry.
@@ -2878,7 +2878,7 @@ contracts between spinner and manufacturer. Doubtless some kind of sale
 note or acknowledgment usually passes between them, but in the home
 trade at least it is quite usual to leave the question of delivery an
 open one. It would not be correct to say that this system or want of
-system is satisfactory, but the trade manages to rub along very well
+system is satisfactory, but the trade [[Manage|manages]] to rub along very well
 with it, although inconveniences and disagreements sometimes arise when
 prices have advanced or declined considerably. Thus when prices have
 advanced the manufacturer may find it difficult to obtain delivery of
@@ -2887,7 +2887,7 @@ curious, indefensible preference for delivering their higher-priced
 orders; and, on the other hand, when prices have fallen the manufacturer
 sometimes ceases to take delivery of the high-priced yarn and actually
 purchases afresh for his needs. Yet positive repudiation is very rare
-though compromises are not uncommon, and a good many illogical
+though [[Compromise|compromises]] are not uncommon, and a good many illogical
 arrangements are made that imply forbearance and amity. Litigation in
 the yarn trade is very unusual, and Lancashire traders generally have
 only vague notions of the bearing of law upon their transactions, and a
@@ -2909,7 +2909,7 @@ wholesome dread of the experience that would lead to better knowledge.
 
   The whole of the cloth exports represent, of course, a corresponding
   home trade in yarns. The following table, taken from the _Manchester
-  Guardian_, gives in thousands of lb. the amounts of cotton yarns
+  [[Guardian]]_, gives in thousands of lb. the amounts of cotton yarns
   exported from Great Britain during 1903, 1904 and 1905 respectively,
   according to the Board of Trade returns, together with the average
   value per lb. for each of the countries:--
@@ -2925,7 +2925,7 @@ wholesome dread of the experience that would lead to better knowledge.
     | Russia                      |    814| 30.22|    713|  30.71|    557| 30.66|
     | Sweden                      |  1,526| 11.00|  1,486|  12.55|  1,512| 11.12|
     | Norway                      |  1,656|  9.54|  1,511|  11.05|  1,606|  9.73|
-    | Denmark                     |  2,429|  8.91|  2,368|  10.18|  2,860|  9.51|
+    | [[Denmark]]                     |  2,429|  8.91|  2,368|  10.18|  2,860|  9.51|
     | Germany                     | 27,239| 16.05| 40,295|    .27| 39,513| 16.38|
     | Netherlands                 | 29,591|  9.10| 29,384|  10.48| 37,341|  8.93|
     | Belgium                     |  3,970| 15.89|  5,864|  16.50|  7,205| 16.12|
@@ -2941,7 +2941,7 @@ wholesome dread of the experience that would lead to better knowledge.
     |   Bombay                    |  6,286| 10.80|  8,145|  11.88| 13,112| 10.86|
     |   Madras                    |  6,683| 11.07|  8,288|  12.48| 10,930| 11.91|
     |   Bengal                    |  6,777| 11.04|  6,596|  12.82| 11,068| 11.20|
-    |   Burma                     |  5,611| 12.17|  3,388|  12.39|  4,211| 12.31|
+    |   [[Burma]]                     |  5,611| 12.17|  3,388|  12.39|  4,211| 12.31|
     | Straits Settlements         |  1,945| 10.81|  1,137|  11.57|  2,149| 10.71|
     | Ceylon                      |     33| 11.92|     44|  16.51|     42| 13.55|
     | Other countries             | 21,129| 12.39| 21,252|  13.28| 23,970| 12.43|
@@ -2980,13 +2980,13 @@ wholesome dread of the experience that would lead to better knowledge.
   appears that as the native industries decline the weaving section
   persists longer than the spinning section.
 
-_Cotton Goods._--Cotton goods are of an infinite variety, and the titles
-that experience or fancy have evoked are even more numerous than the
+_Cotton Goods._--Cotton goods are of an [[Infinite|infinite]] variety, and the titles
+that experience or [[Fancy|fancy]] have evoked are even more numerous than the
 kinds. Descriptions of the following fabrics, which are not of course
-invariably made of cotton, will be found in separate articles: BAIZE,
-BANDANA, BOMBAZINE, BROCADE, CALICO, CAMBRIC, CANVAS, CHINTZ, CORDUROY,
+invariably made of cotton, will be found in separate articles: [[Baize|BAIZE]],
+BANDANA, BOMBAZINE, [[Brocade|BROCADE]], CALICO, [[Cambric|CAMBRIC]], CANVAS, [[Chintz|CHINTZ]], [[Corduroy|CORDUROY]],
 CRAPE, CRETONNE, DENIM, DIMITY, DRILL, DUCK, FLANNELETTE, FUSTIAN,
-GAUZE, GINGHAM, LONGCLOTH, MOLESKIN, MULL, MUSLIN, NANKEEN, PRINT, REP,
+GAUZE, [[Gingham|GINGHAM]], [[Longcloth|LONGCLOTH]], MOLESKIN, MULL, MUSLIN, NANKEEN, PRINT, REP,
 TICKING, TWILL, VELVETEEN. The following are notes on other varieties.
 
 _Grey cloth_ is a comprehensive term that includes unbleached cotton
@@ -3010,7 +3010,7 @@ Generally the China markets use rather better qualities than the Indian
 markets. The principal China market for shirtings and other staple goods
 is Shanghai, which holds a large stock and distributes to minor markets.
 A considerable trade is also done through Hong-Kong and other Far
-Eastern ports. The principal Indian markets are Calcutta, Bombay,
+Eastern ports. The principal Indian markets are [[Calcutta]], Bombay,
 Karachi and Madras.
 
 _Shirt-cloth_ is the term more commonly applied to what is actually used
@@ -3033,7 +3033,7 @@ firms.
 _Mexican_ is a plain, heavy grey calico, sometimes heavily sized. The
 origin of the word is doubtful, and it seems to be an arbitrary term.
 Mexicans are exported to various markets and also used in the home
-trade. For export the dimensions are commonly 32 or 36 in. by 24 yd.,
+trade. For export the [[Dimension|dimensions]] are commonly 32 or 36 in. by 24 yd.,
 and a usual count is 18 x 18. In the Mexican the yarns were originally
 of nearly the same weight and number of threads to the 1/4 in., an
 arrangement which gave the cloth an even appearance, thus differing from
@@ -3046,7 +3046,7 @@ _T Cloth_ is a plain grey calico, similar in kind to the Mexican and
 exported to the same markets. There is no absolute distinction between
 the two cloths, but the T cloth is generally lower in quality than the
 Mexican. The name seems to have been originally an arbitrary
-identification or trade mark.
+[[Identification|identification]] or trade mark.
 
 _Domestic_, a name originally used in the sense of "home-made," is
 applied especially to home-made cotton goods in the United States. In
@@ -3075,7 +3075,7 @@ plain. Sheetings for home trade are often double-warp, and double-warp
 twills and Wigans were and are used for the old-fashioned type of men's
 night-shirts.
 
-_Croydon_, which seems to be an arbitrary trade name, is a heavy,
+_[[Croydon]]_, which seems to be an arbitrary trade name, is a heavy,
 bleached, plain calico, usually stiff and glossy in finish. It used to
 be sold largely in the Irish trade as well as in the English home trade,
 but it has been supplanted a good deal by softer finishes.
@@ -3083,12 +3083,12 @@ but it has been supplanted a good deal by softer finishes.
 _Printing-cloth_ is a term with a general significance, but it is also
 particularly applied to a class of plain cloths in which a very large
 trade is done both for home trade and export. The chief place in
-Lancashire for the manufacture of printing-cloths is Burnley, and in the
+Lancashire for the manufacture of printing-cloths is [[Burnley]], and in the
 United States, Fall River. The Burnley cloths range in width from 29 in.
 to 40 in., and are usually about 120 yd. in length. The warp is commonly
 from 36^s to 44^s, the weft from 36^s to 54^s, and the threads from 13 X
 13 to 20 X 20 to the 1/4 in. Cheshire printers, which are made at Hyde,
-Stockport, Glossop and elsewhere, are commonly 34 in. to 36 in. wide,
+Stockport, [[Glossop]] and elsewhere, are commonly 34 in. to 36 in. wide,
 the warp is from 32^s to 36^s, the weft 32^s to 40^s, and the counts 16
 X 16 to 19 X 22.
 
@@ -3135,7 +3135,7 @@ selvage at a greater angle than 45 degrees and the warp makes the
 wearing surface.
 
 _Oxford_ is a plain-woven cloth usually with a coloured pattern, and is
-used for shirts and dresses. The name is comparatively modern, and is,
+used for shirts and [[Dress|dresses]]. The name is comparatively modern, and is,
 no doubt, arbitrarily selected.
 
 _Harvard_ is a twilled cloth similar to the Oxford.
@@ -3146,28 +3146,28 @@ largely and is still used for men's shirts.
 
 Fancy cotton goods are of great variety, and many of them have trade
 names that are used temporarily or occasionally. Apart from the large
-class of brocaded cloths made in Jacquard looms there are innumerable
+class of brocaded cloths made in [[Jacquard]] looms there are innumerable
 simpler kinds, including stripes and checks of various descriptions,
 such as Swiss, Cord, Satin, Doriah stripes, &c. _Mercerized cloths_ are
 of many kinds, as the mercerizing process can be applied to almost
-anything. _Lace_ and _lace curtains_ are made largely at Nottingham.
+anything. _Lace_ and _lace [[Curtain|curtains]]_ are made largely at Nottingham.
 Various light goods are made in Scotland, such as _book muslin_, a fine
 light muslin with an elastic finish, so called from being folded in
 book-form.
 
-Among the fancy cloths made in cotton may be mentioned: _matting_, which
+Among the fancy cloths made in cotton may be mentioned: _[[Matting|matting]]_, which
 includes various kinds with some similarity in appearance to a matting
 texture; _matelasse_, which is in some degree an imitation of French
 dress goods of that name; _pique_, also of French origin, woven in
 stripes in relief, which cross the width of the piece, and usually
-finished stiff; _Bedford cord_, a cheaper variety of pique in which the
+finished stiff; _[[Bedford]] cord_, a cheaper variety of pique in which the
 stripes run the length of the piece; _oatmeal cloth_, which has an
 irregular surface suggesting the grain of oatmeal, commonly dyed cream
-colour; _crimp cloth_, in which a puckered effect is obtained by uneven
+colour; _[[Crimp|crimp]] cloth_, in which a puckered effect is obtained by uneven
 shrinkage; _grenadine_, said to be derived from Granada, a light dress
 material originally made of silk or silk and wool; _brilliant_, a dress
-material, usually with a small raised pattern; _leno_, possibly a
-corrupt form of the French _linon_ or lawn, a kind of fancy gauze used
+material, usually with a small raised pattern; _[[Leno|leno]]_, possibly a
+corrupt form of the French _linon_ or [[Lawn|lawn]], a kind of fancy gauze used
 for veils curtains, &c.; _lappet_, a light material with a figure or
 pattern produced on the surface of the cloth by needles placed in a
 sliding frame; _lustre_, a light dress material with a lustrous face
@@ -3183,7 +3183,7 @@ after a few seasons.
 
 Cotton linings include _silesia_, originally a linen cloth made in
 Silesia and now usually a twilled cotton cloth which is dyed various
-colours; _Italian cloth_, a kind of jean or sateen produced originally
+[[Colours|colours]]; _Italian cloth_, a kind of jean or sateen produced originally
 in Italy. Various cotton cloths are imitations of other textures and
 have modified names which indicate their superficial character,
 frequently produced by finishing processes. Among these are _sateen_,
@@ -3205,7 +3205,7 @@ collars.
   | Netherlands                  |   47,570| 3.57|   46,187| 3.68|   56,639| 3.47|
   | Belgium                      |   52,199| 4.34|   56,237| 4.42|   67,509| 4.41|
   | France                       |   17,552| 4.61|   17,759| 4.39|   14,875| 4.65|
-  | Portugal, Azores and Madeira |   32,824| 2.70|   29,440| 2.92|   29,867| 3.03|
+  | Portugal, [[Azores]] and Madeira |   32,824| 2.70|   29,440| 2.92|   29,867| 3.03|
   | Italy                        |    6,363| 5.07|    7,904| 5.19|    8,746| 5.31|
   | Austria-Hungary              |    2,405| 3.44|    2,102| 3.40|    1,905| 3.60|
   | Greece                       |   40,973| 2.64|   32,658| 3.11|   28,190| 3.20|
@@ -3222,7 +3222,7 @@ collars.
   | United States of America     |   72,360| 6.80|   52,391| 7.18|   65,563| 7.40|
   | Foreign West Indies          |   86,349| 2.08|   98,797| 2.21|   80,679| 2.24|
   | Mexico                       |   19,327| 3.10|   21,679| 3.42|   21,028| 3.31|
-  | Central America              |   40,879| 1.97|   53,018| 2.21|   49,523| 2.29|
+  | [[Central America]]              |   40,879| 1.97|   53,018| 2.21|   49,523| 2.29|
   | Colombia and Panama          |   44,299| 2.25|   44,648| 2.54|   31,798| 2.41|
   | Venezuela                    |   52,330| 1.87|   52,934| 2.07|   32,717| 2.11|
   | Peru                         |   28,962| 2.66|   32,430| 2.85|   39,035| 2.78|
@@ -3230,7 +3230,7 @@ collars.
   | Brazil                       |  152,402| 2.64|  134,841| 2.89|  131,504| 2.50|
   | Uruguay                      |   44,062| 2.79|   35,670| 2.85|   56,770| 2.95|
   | Argentine Republic           |  151,003| 2.91|  186,022| 3.04|  159,115| 3.24|
-  | Gibraltar                    |   11,961| 2.39|   10,578| 2.47|    3,960| 2.73|
+  | [[Gibraltar]]                    |   11,961| 2.39|   10,578| 2.47|    3,960| 2.73|
   | Malta                        |    4,065| 3.11|    3,659| 3.45|    4,006| 3.31|
   | British W. Africa            |   69,795| 3.27|   69,308| 3.43|   74,392| 3.40|
   |    "    S.   "               |   61,778| 3.61|   29,670| 4.03|   50,592| 3.69|
@@ -3245,22 +3245,22 @@ collars.
   | New Zealand                  |   38,499| 3.58|   33,538| 3.81|   32,315| 3.63|
   | Canada                       |   47,439| 4.15|   49,903| 4.25|   45,189| 4.47|
   | British West India Islands,  |         |     |         |     |         |     |
-  |   Bahamas and British Guiana |   49,614| 2.49|   43,487| 2.61|   47,173| 2.21|
+  |   [[Bahamas]] and British Guiana |   49,614| 2.49|   43,487| 2.61|   47,173| 2.21|
   | Other countries              |  188,662| 2.84|  197,339| 3.14|  226,971| 3.03|
   +------------------------------+---------+-----+---------+-----+---------+-----+
   |            Total             |5,157,316| 2.57|5,591,822| 2.75|6,198,200| 2.74|
   +------------------------------+---------+-----+---------+-----+---------+-----+
-    * Including Federated Malay States.
+    * Including Federated [[Malay States]].
 
 Various cotton imitations share the name of the original, such as lawn,
-batiste, serge, huckaback, galloon, and a large number of names are of
-obvious derivation and use, such as umbrella cloth, apron cloth, sail
-cloth, book-binding cloth, shroud cloth, butter cloth, mosquito
-netting, handkerchief, blanket, towelling, bagging.
+batiste, serge, [[Huckaback|huckaback]], galloon, and a large number of names are of
+obvious derivation and use, such as umbrella cloth, [[Apron|apron]] cloth, sail
+cloth, book-binding cloth, shroud cloth, [[Butter|butter]] cloth, mosquito
+netting, handkerchief, blanket, towelling, [[Bagging|bagging]].
 
 Among the miscellaneous cloths made or made partly of cotton may be
 mentioned: _waste cloths_, made from waste yarns and usually coarse in
-texture; _khaki cloth_, made largely for military clothing in cotton as
+texture; _[[Khaki|khaki]] cloth_, made largely for military clothing in cotton as
 well as in woollen; _cottonade_, a name given to various coarse low
 cloths in the United States and elsewhere; _lasting_, which seems to be
 an abbreviation of "lasting cloth," a stiff, durable texture used in
@@ -3272,7 +3272,7 @@ woollen have frequently a cotton admixture; and _splits_, either plain
 or fancy, usually of low quality, which include any cloth woven two or
 three in the breadth of the loom and "split" into the necessary width.
 Cotton is used too for many miscellaneous purposes, including the
-manufacture of lamp wicks and even of billiard balls.
+manufacture of lamp wicks and even of billiard [[Ball|balls]].
 
 _British Cotton Cloth Exports._--The main lines of the Lancashire export
 trade in cotton goods are indicated in the Board of Trade returns. The
@@ -3317,10 +3317,10 @@ China, &c., is done under various conditions, however, and a good many
 firms have branches abroad. The regular "indent" by which most of the
 Manchester Eastern business is conducted now implies a definite offer
 for shipment from the dealer abroad, either direct or through the
-exporter's agents, and commonly includes freight and insurance. The term
+exporter's agents, and commonly includes freight and [[Insurance|insurance]]. The term
 "commission agent" is now discredited, and buying done by Manchester
 houses on simple commission terms is unusual though not unknown. This
-has been so since the famous law case of _Williamson_ v. _Barbour_ in
+has been so since the famous law case of _Williamson_ v. _[[Barbour]]_ in
 1877, when it was established that whatever might be the custom of the
 trade a commission agent was not entitled to make a profit over his
 commission on the various processes, such as handling and packing, which
@@ -3330,12 +3330,12 @@ are bought for delivery in the Manchester warehouse, all charges for
 packing, &c., and carriage being extra.
 
 Transactions with distant markets are now done almost entirely by cable,
-and a remarkable development of the telegraphic code has enabled
+and a remarkable development of the telegraphic [[Code|code]] has enabled
 merchants to pack a good deal into a brief message. A cable sent to
 India in the evening may bring a reply next morning, and in these days
 of rapid cotton fluctuations mail advices are confined mainly to general
 discussion, hypothetical inquiry, advice, admonition and complaint. Some
-Manchester export business is done through London, Glasgow, and
+Manchester export business is done through London, [[Glasgow]], and
 continental towns, of which Hamburg is the principal. Glasgow buys
 largely of yarns and cloth, some considerable part of which is dyed or
 printed, for India and elsewhere, and has an indigenous manufacture and
@@ -3436,7 +3436,7 @@ which are probably at least as profitable to retail as calico or
 flannelette sold in lengths.
 
 The normal course of home trade piece-goods is from manufacturer to
-bleacher, dyer, printer or finisher, either on account of a merchant to
+bleacher, [[Dyer|dyer]], printer or finisher, either on account of a merchant to
 whom the goods are sold or on the manufacturer's own account. By far the
 majority of Lancashire manufacturers sell their goods as they come from
 the loom, or, as it is called, in the "grey state," but an increasing
@@ -3449,7 +3449,7 @@ for the merchant with a limited capital and therefore a limited
 assortment to survive. The great general houses such as Rylands's,
 Philips's and Watt's in Manchester, and Cook's and Pawson's in London,
 some of which are manufacturers to a minor degree, continue to flourish
-because under one roof they can supply all that the draper requires, and
+because under one roof they can supply all that the [[Draper|draper]] requires, and
 so enable him to economize in the time spent in buying and to save
 himself the trouble of attending to many accounts. Some general
 merchants, indeed, supply what are practically "tied houses," which give
@@ -3500,9 +3500,9 @@ The profits of manufacturers, merchants and shopkeepers are commonly
 very much less on the lower classes of cotton goods than on the higher
 ones. Thus while there may be a difference of 1d. per yd. between the
 qualities on a manufacturer's list, the difference in cost may not be
-more than a farthing; and, again, while the shopkeeper sometimes pays
+more than a [[Farthing|farthing]]; and, again, while the shopkeeper sometimes pays
 2-1/2d. or even 2-5/8d. per yd. for a calico to retail at 2-3/4d., his
-next selling price may be 3-3/4d. for one which costs him only 2-3/4d.
+next selling price may be 3-3/4d. for one which [[Costs|costs]] him only 2-3/4d.
 or 3d. per yd. It appears, therefore, that if the poorer classes of the
 community have the discretion to avoid the lowest qualities they may
 obtain very good value in serviceable goods. In the matter of profits,
@@ -3522,7 +3522,7 @@ represented, but a large amount of business is transacted every day.
 Besides the persons immediately concerned in the cotton trade and
 connected with allied trades, a large number of members find it
 convenient to use this great meeting-place as a means of approach to a
-body of responsible persons. Thus not only bleachers, carriers, chemical
+body of responsible persons. Thus not only bleachers, [[Carrier|carriers]], chemical
 manufacturers, mill furnishers and accountants find their way there, but
 also tanners, timber merchants, stockbrokers and even wine merchants.
 Since the Ship Canal made Manchester into a cotton port there has been a
@@ -3607,7 +3607,7 @@ FOOTNOTES:
     merchant resident in Liverpool, received from one of his
     correspondents in the southern states a consignment of eight bags of
     cotton, which on its arrival in Liverpool was seized by the
-    custom-house officers, on the allegation that it could not have been
+    [[Custom-House|custom-house]] officers, on the allegation that it could not have been
     grown in the United States, and that it was liable to seizure under
     the Shipping Acts, as not being imported in a vessel belonging to the
     country of its growth. When afterwards released, it lay for many
@@ -3682,9 +3682,9 @@ most important seat still remains the land of its greatest development.
 As early as the 13th century cotton-wool was used in England for
 candle-wicks.[1] The importation of the cotton from the Levant in the
 16th century is mentioned by Hakluyt,[2] and according to Macpherson it
-was brought over from Antwerp in 1560. Reference to the manufacture of
+was brought over from [[Antwerp]] in 1560. Reference to the manufacture of
 cottons in England long before the second half of the 16th century are
-numerous, but the "cottons" spoken of were not cottons proper as Defoe
+numerous, but the "cottons" spoken of were not cottons proper as [[Defoe]]
 would seem to have mistakenly imagined. Thus, for example, there is a
 passage by William Camden (writing in 1590) quoted below, in which
 Manchester cottons are specifically described as woollens, and there is
@@ -3692,7 +3692,7 @@ a notice in the act of 33 Henry VIII. (c. xv.) of the Manchester linen
 and woollen industries, and of cottons--which are clearly woollens since
 their "dressyng and frisyng" is noted, and the latter process, which
 consists in raising and curling the nap, was not applicable to cotton
-textiles. John Leland, after his visit to Manchester about 1538, used
+textiles. John [[Leland]], after his visit to Manchester about 1538, used
 these words--"Bolton-upon-Moore market standeth most by cottons; divers
 villages in the Moores about Bolton do make cottons." Leland, it is
 true, might conceivably be referring to manufactures from the vegetable
@@ -3712,14 +3712,14 @@ cotton goods. The earliest reference to a cotton manufacture in England
 which may reasonably be regarded as pointing to the fabrication of
 textiles from cotton proper, is in the will of James Billston (a not
 un-English name), who is described as a "cotton manufacturer," proved at
-Chester in 1578.[4] It may plausibly be contended that James Billston
+[[Chester]] in 1578.[4] It may plausibly be contended that James Billston
 was a worker in the vegetable fibre, since otherwise "manufacturer of
 cottons" would have been a more natural designation. But the proof of
 the will of one cotton manufacturer establishes very little.
 
 The next earliest known reference to the cotton industry proper occurs
 in a petition to the earl of Salisbury, made presumably in 1610, asking
-for the continuance of a grant for reforming frauds committed in the
+for the continuance of a grant for reforming [[Fraud|frauds]] committed in the
 manufacture of "bambazine cotton such as groweth in the land of Persia
 being no kind of wool."[5] But a far more valuable piece of evidence,
 discovered by W. H. Price, is a petition of "Merchants and citizens of
@@ -3728,14 +3728,14 @@ the makers of the same fustians."[6] Its probable date is 1621, and it
 contains the following important passages:--
 
   "About twenty years past, divers people in this kingdom, but chiefly
-  in the county of Lancaster, have found out the trade of making of
+  in the county of [[Lancaster]], have found out the trade of making of
   other fustians, made of a kind of bombast or down, being a fruit of
   the earth growing upon little shrubs or bushes, brought into this
   kingdom by the Turkey merchants, from Smyrna, Cyprus, Acra and Sydon,
   but commonly called cotton wool; and also of linen yarn most part
   brought out of Scotland, and othersome made in England, and no part of
   the same fustians of any wool at all, for which said bombast and yarn
-  imported, his majesty has a great yearly sum of money for the custom
+  imported, his [[Majesty|majesty]] has a great yearly sum of money for the custom
   and subsidy thereof.
 
   "There is at the least 40 thousand pieces of fustian of this kind
@@ -3743,14 +3743,14 @@ contains the following important passages:--
   for making of every piece coming to between 8d. and 10d. the piece;
   and thousands of poor people set on working of these fustians.
 
-  "The right honourable duke of Lennox in 11 of Jacobus 1613 procured a
+  "The right [[Honourable|honourable]] duke of [[Lennox]] in 11 of Jacobus 1613 procured a
   patent from his majesty, of alnager of new draperies for 60 years,
   upon pretence that wool was converted into other sorts of commodities
   to the loss of customs and subsidies for wool transported beyond seas;
   and therein is inserted into his patent, searching and sealing; and
   subsidy for 80 several stuffs; and among the rest these fustians or
-  other stuffs of this kind of cotton wool, and subsidy and a fee for
-  the same, and forfeiture of 20s. for putting any to sale unsealed, the
+  other stuffs of this kind of cotton wool, and subsidy and a [[Fee|fee]] for
+  the same, and [[Forfeiture|forfeiture]] of 20s. for putting any to sale unsealed, the
   moiety of the same forfeiture to the said duke, and power thereby
   given to the duke or his deputies, to enter any man's house to search
   for any such stuffs, and seize them till the forfeiture be paid; and
@@ -3770,7 +3770,7 @@ trades. The date assigned by the petitioners for the first attraction of
 attention by the English cotton industry may be supported on negative
 grounds.
 
-Baines assures us that William Camden, who wrote in 1590, devoted not a
+Baines [[Assur|assures]] us that William Camden, who wrote in 1590, devoted not a
 sentence to the cotton industry, though Manchester figures among his
 descriptions: "This town," he says, "excels the towns immediately around
 it in handsomeness, populousness, woollen manufacture, market place,
@@ -3789,7 +3789,7 @@ the spinning of cotton and weaving wool.[8]
 
 Prior to Mr Price's discovery of the petition mentioned above, the
 earliest known notice of the existence in England of a cotton industry
-of any magnitude was the oft-quoted passage from Lewes Roberts's
+of any magnitude was the oft-quoted passage from [[Lewes]] Roberts's
 _Treasure of Traffic_ (1641), which runs: "The town of Manchester, in
 Lancashire, must be also herein remembered, and worthily for their
 encouragement commended, who buy the yarne of the Irish in great
@@ -3807,7 +3807,7 @@ to "A Description of the Towns of Manchester and Salford," 1650,[10] and
 woollens for a long time held the first place. But before another
 century had run its course cottons proper had pushed into the first
 rank, though the woollen industry continued to be of unquestionable
-importance. In 1727 Daniel Defoe could write, "the grand manufacture
+importance. In 1727 [[Daniel]] Defoe could write, "the grand manufacture
 which has so much raised this town is that of cotton in all its
 varieties,"[11] and he did not mean the woollen "cottons," as he made
 plain by other references to the industry in the same connexion; but it
@@ -3817,7 +3817,7 @@ unmistakable.[12] As a rule the woollen weavers were driven farther and
 farther east--Bury lay just outside the cotton area when Defoe
 wrote--and finally many of them settled in the West Riding. Edwin
 Butterworth even tells of woollen weavers who migrated from Oldham to
-the distant town of Bradford in Wiltshire because of the decline of
+the distant town of [[Bradford]] in Wiltshire because of the decline of
 their trade before the victorious cotton industry. Much the same fate
 was being shared by the linen industry in Lancashire, which was forced
 out of the county westwards and northwards. The explanation of the three
@@ -3839,7 +3839,7 @@ warps in the cotton industry ceased after the introduction of
 Arkwright's water-twist. When the factory became common the economies of
 centralization (which arise from the wide range of specialism laid open
 to a large local industry) increased; moreover they were reinforced by
-the diminution of social friction and the intensification of business
+the diminution of social [[Friction|friction]] and the intensification of business
 sensitiveness which marked the development of the 19th century. Once
 begun, the centralizing movement proceeded naturally with accelerating
 speed. The contrast beneath is an instructive statistical comment:--
@@ -3851,7 +3851,7 @@ speed. The contrast beneath is an instructive statistical comment:--
   |                          |    1838.     |   1898-1899.  |
   +--------------------------+--------------+---------------+
   | Cheshire                 |    36,400    |     34,300    |
-  | Cumberland               |     2,000    |        700    |
+  | [[Cumberland]]               |     2,000    |        700    |
   | Derbyshire               |    10,500    |     10,500    |
   | Lancashire               |   152,200    |    398,100    |
   | Nottinghamshire          |     1,500    |      1,600    |
@@ -3955,7 +3955,7 @@ rents, and combining the business of the hand-loom weaver with that of a
 working farmer have assisted to raise the rent of their land from the
 profits of their loom."[18] One of the first lines of specialism to
 appear was the severing of the connexion described above, and the
-concentration of the weavers in hamlets and towns. Finer fabrics and
+concentration of the weavers in [[Hamlet|hamlets]] and towns. Finer fabrics and
 more complicated fabrics were introduced, and the weaver soon learnt
 that such rough work as farming unfitted his hands for the delicate
 tasks required of them. Again, really to prosper a weaver found it
@@ -4065,7 +4065,7 @@ the industrial revolution. No doubt small hand-looms factories would have
 become the rule, and more and more control over production would have
 devolved upon the factory master, and the work to be done would have been
 increasingly assigned by merchants, had the steam-engine remained but the
-dream of Watt, and semi-automatic machinery not been invented. The spirit
+[[Dream|dream]] of Watt, and semi-automatic machinery not been invented. The spirit
 of the times was centralizing management before any mechanical changes of
 a revolutionizing character had been devised. Loom-shops, in which
 several journeymen were employed, were not uncommon: thus "in the latter
@@ -4087,8 +4087,8 @@ essential by inventions in spinning.
 
   Spinning and preparatory machinery.
 
-The chief inventors were Lewis Paul and John Wyatt, James Hargreaves and
-Samuel Crompton. The two first originated the principle of spinning by
+The chief inventors were [[Lewis]] Paul and John Wyatt, James Hargreaves and
+Samuel [[Crompton]]. The two first originated the principle of spinning by
 rollers. Their patent was taken out in 1738, but no good came of it
 immediately, though many trials were made and moderately large sums of
 money were lost. Ultimately Richard Arkwright brought forward the same
@@ -4097,8 +4097,8 @@ authorship of the fundamental idea there has been much controversy, and
 it has not been absolutely proved that the second inventor, whether
 Thomas Highs, Arkwright or John Kay (a clockmaker of Warrington who
 assisted Arkwright to construct his machine and is said by some to have
-told him of an invention by Highs), did not hit upon the device afresh
-in ignorance of the work already done. Even as between Paul and Wyatt it
+told him of an invention by Highs), did not [[Hit|hit]] upon the device afresh
+in [[Ignorance|ignorance]] of the work already done. Even as between Paul and Wyatt it
 is not easy to award due measure of praise. Probably the invention, as a
 working machine, resulted from real collaboration, each having an
 appreciable share in it. Robert Cole, in his paper to the British
@@ -4113,7 +4113,7 @@ Arkwright's prospects of financial success were much greater than those
 of his predecessors, because, first, there was more need in his time of
 mechanical aids, and secondly, he was highly talented as a business man.
 In 1775 he followed up his patent of 1769 with another relating to
-machinery for carding, drawing and roving. The latter patent was widely
+machinery for [[Carding|carding]], drawing and roving. The latter patent was widely
 infringed, and Arkwright was compelled to institute nine actions in 1781
 to defend his rights. An association of Lancashire spinners was formed
 to defend them, and by the one that came to trial the patent was set
@@ -4126,8 +4126,8 @@ presenting. In it he prayed not only that the decision of 1781 should be
 set aside, but that both patents should be continued to him for the
 unexpired period of the second patent, i.e. until 1789. In his "case"
 (i.e. the petition mentioned above) Arkwright stated that he had sold to
-numbers of adventurers residing in the different counties of Derby,
-Leicester, Nottingham, Worcester, Stafford, York, Hertford and
+numbers of adventurers residing in the different counties of [[Derby]],
+Leicester, Nottingham, Worcester, Stafford, York, [[Hertford]] and
 Lancaster, many of his patent machines, and continued: "Upon a moderate
 computation, the money expended in consequence of such grants (before
 1782) amounted to at least L60,000. Mr Arkwright and his partners also
@@ -4181,7 +4181,7 @@ tried.
 
   The following passage quoted from a note in Barnes's _History_
   illustrates the pressing need of the early mills: "On the river
-  Irwell, from the first mill near Bacup, to Prestolee, near Bolton,
+  Irwell, from the first mill near [[Bacup]], to Prestolee, near Bolton,
   there is about 900 ft. of fall available from mills, 800 of which is
   occupied. On this river and its branches it is computed that there are
   no less than three hundred mills. A project is in course of execution
@@ -4254,9 +4254,9 @@ mule, invented in 1825 by Richard Roberts, of the firm of Sharp, Roberts
 and brought out the complete self-actor. Self-actors had been put forward
 by others besides Roberts--for instance by William Strutt, F.R.S. (son of
 Arkwright's partner), before 1790; William Kelly, formerly of Lanark
-mills, in 1792; William Eaton of Wiln in Derbyshire; Peter Ewart of
-Manchester; de Jongh of Warrington; Buchanan, of Catrine works, Scotland;
-Knowles of Manchester; and Dr Brewster of America[30]--but none had
+mills, in 1792; William [[Eaton]] of Wiln in Derbyshire; Peter Ewart of
+Manchester; de Jongh of Warrington; [[Buchanan]], of Catrine works, Scotland;
+[[Knowles]] of Manchester; and Dr [[Brewster]] of America[30]--but none had
 succeeded. And Roberts's machines did not immediately win popularity. For
 a long time the winding done by them was defective, and they suffered
 from other imperfections. Broadly speaking, until the American Civil War
@@ -4280,7 +4280,7 @@ conjunction with the inventions already described, presaged the large
 factory system which covers Lancashire to-day. Gradually, for many
 years, the loom had been gathering complexities, though no fundamental
 alteration was introduced into its structure until 1738, when John Kay
-of Bury excited the wrath of his fellow-weavers by designing and
+of [[Bury]] excited the wrath of his fellow-weavers by designing and
 employing the device of the fly-shuttle. For some unfathomable
 reason--for the opposition of the weavers hardly explains it, though
 they expressed their views forcibly and acted upon them violently--this
@@ -4339,7 +4339,7 @@ the shuttle. Though shuttles could not in this fashion be set in rapid
 movement, the machine turned out to be economical for the production of
 ribbons and tapes, because many pieces could be woven by it at once.
 These contrivances were known as swivel-looms, and in 1724 Stukeley in
-his _Itinerarium curiosum_ wrote that the people of Manchester have
+his _[[Itinerarium]] curiosum_ wrote that the people of Manchester have
 "looms that work twenty-four laces at a time, which was stolen from the
 Dutch." Ogden says also that they were set up in imitation of Dutch
 machines by Dutch mechanics invited over for the purpose. Another
@@ -4373,7 +4373,7 @@ writer is aware. Looms with warp-stop motions are now common in the
 United States, as are also automatic looms, but both are still the
 exception in Lancashire for reasons that will be sketched later.
 
-Power-looms won their way only very gradually. Cartwright and others
+Power-looms won their way only very gradually. [[Cartwright]] and others
 lost fortunes in trying to make them pay, but the former was compensated
 by a grant of L10,000 from government. In 1813 there were 2400 only in
 the whole of the United Kingdom; in 1820 there were 14,000, beside some
@@ -4393,7 +4393,7 @@ work." It was not easy to obtain a sufficiency of good hands for the
 power-looms, because the operatives, who had acquired their habits under
 the domestic system, hated factory life. This, in conjunction with the
 ease with which the art of coarse weaving could be acquired and the
-cheapness of rough looms, helps to explain the wretched straits into
+cheapness of rough looms, [[Helps|helps]] to explain the wretched straits into
 which the hand-loom weavers were driven.
 
 [Sidenote: Growth.]
@@ -4406,7 +4406,7 @@ table to show the rate of growth in different periods of England's
 imports and exports as regards the raw material and products of this
 industry. It is important to remember when reading the last 6 columns
 that the value of money was the same in 1831-1835, 1851-1855 and
-1876-1880: the sums of Sauerbeck's index numbers for these periods were
+1876-1880: the sums of Sauerbeck's [[Index|index]] numbers for these periods were
 454, 451 and 444 respectively. In the last two periods there were
 considerable depressions in prices. If prices had remained constant, in
 the periods 1891-1895 and 1896-1900 the figures of exports would have
@@ -4462,7 +4462,7 @@ shipping, that he knew of no single person then building a spinning mill
 who was not attaching to it a power-loom factory. Some years later the
 weaving-shed split away from spinning, partly no doubt because of the
 economies of industrial specialism, partly because of commercial
-developments, to be described later, which rendered dissociation less
+developments, to be described later, which rendered [[Dissociation|dissociation]] less
 hazardous than it had been, and partly because, in consequence of these
 developments, much manufacturing (as weaving is termed) was constituted
 a business strikingly dissimilar from spinning. The manufacturer runs
@@ -4476,7 +4476,7 @@ holds his own while the small spinner has been crushed out. It also
 explains to some extent the prevalence of joint-stock companies in
 spinning, and their comparative rarity in manufacturing. Here we should
 notice, perhaps, that the only combination of importance in the cotton
-industry proper (apart from calico-printing, bleaching, &c., and the
+industry proper (apart from calico-printing, [[Bleaching|bleaching]], &c., and the
 manufacture of sewing-cotton) is the Fine Cotton Spinners and Doublers
 Association, founded in 1898, which is practically coextensive with fine
 spinning and doubling.
@@ -4499,9 +4499,9 @@ local knowledge, has written as follows:--
   Oldham and other towns. The weaving branches of the industry are
   chiefly conducted in the northern half of Lancashire--most of it in
   very large boroughs, as Blackburn, Burnley and Preston. Here, again,
-  there is a differentiation. Preston and Chorley produce the finer and
+  there is a differentiation. Preston and [[Chorley]] produce the finer and
   lighter fabrics; Blackburn, Darwen and Accrington, shirtings, dhooties
-  and other goods extensively shipped to India; whilst Nelson and Colne
+  and other goods extensively shipped to India; whilst Nelson and [[Colne]]
   make cloths woven from dyed yarn, and Bolton is distinguished for fine
   quiltings and fancy cotton dress goods. These demarcations are not
   absolutely observed, but they are sufficiently clear to give to each
@@ -4537,13 +4537,13 @@ operatives in the census returns of 1901.
   | Ashton-under-Lyne      |     8,600   |     1,839    |   11,500    |
   | Accrington             |     8,300   |       417    |   36,400    |
   | Colne                  |     7,300   |       140*** |   20,500    |
-  | Heywood                |     7,300   |       869    |    6,400    |
+  | [[Heywood]]                |     7,300   |       869    |    6,400    |
   | Stalybridge            |     7,100   |     1,106    |    7,100    |
   | Todmorden              |     6,900   |       261    |   15,800    |
   | Rawtenstall            |     6,600   |       356    |    8,800    |
   | Hyde                   |     6,500   |       553    |    7,900    |
-  | Chadderton             |     6,400   |     ..       |     ..      |
-  | Haslingden             |     6,100   |       148    |   12,000    |
+  | [[Chadderton]]             |     6,400   |     ..       |     ..      |
+  | [[Haslingden]]             |     6,100   |       148    |   12,000    |
   | Bacup                  |     5,900   |       315    |    9,300    |
   | Chorley                |     5,900   |       547    |   17,900    |
   | Farnworth, near Bolton |     5,700   |       738    |   10,600    |
@@ -4676,7 +4676,7 @@ under which commercial specialism evolves may be taken to be a
 moderately limited range of products which do not present many
 varieties, and the qualities of which can be judged generally on
 inspection. In such circumstances private markets need not be built up,
-as they must be, for instance, for a new brand of soap which claims some
+as they must be, for instance, for a new [[Brand|brand]] of soap which claims some
 subtle superiority to all others. Soaps under present conditions must be
 marketed by their producers. Broadly stated, if there be little
 competition as to substitutes, though there may be much as to price in
@@ -4966,7 +4966,7 @@ article COTTON: MARKETING AND SUPPLY.
   a Factory Act in 1891 and given extended application in 1895, the
   particulars required for the calculation of wages must be rendered by
   the employer. As in spinning there used to be doubts about the
-  quantity of work done, the "indicator," which measures the length of
+  quantity of work done, the "[[Indicator|indicator]]," which measures the length of
   yarn spun, is coming into general use under pressure from the
   operatives. We ought to observe here that the Oldham Spinning list
   differs from all others in that its basis is an agreed normal
@@ -5032,7 +5032,7 @@ article COTTON: MARKETING AND SUPPLY.
   Association.[43]
 
 
-    Factory Acts.
+    [[Factory Acts]].
 
   Factory legislation began in the cotton industry, and in no industry
   is it now more developed. The first acts were those of 1802 and 1819,
@@ -5362,7 +5362,7 @@ of work, which keep wages high, combined with the horizontal and
 vertical mobility of American labour, which prevents it from
 accumulating in pools, and causes streams of the best hands to be
 flowing continuously to other callings and places, and no insignificant
-proportion to climb the social ladder. The remainder naturally profit,
+proportion to climb the social [[Ladder|ladder]]. The remainder naturally profit,
 for a local or trade congestion of labour is avoided, and the voluminous
 recruiting of enterprise by the intensified competition among employers
 keeps the demand for labour high.
@@ -5385,13 +5385,13 @@ of looms approaches, though it does not quite reach, the same
 proportion. The leading States in the South in order of importance are
 South Carolina, North Carolina, Georgia and Alabama, and in the North,
 first Massachusetts with an enormous lead, then, in order, Rhode Island,
-New Hampshire, Connecticut, Maine, New York, Pennsylvania, New Jersey.
+New [[Hampshire]], Connecticut, [[Maine]], New York, Pennsylvania, New [[Jersey]].
 The bulk of the cotton industry in the North is contained within a small
 area. A circle around Providence, Rhode Island, of 30 m. radius
 includes, according to the twelfth census, nearly 7-1/4 million
 spindles,--there were only 58,500 spindles in this area in 1809. Of the
 chief towns Fall River stood first in 1900 in value output, and was
-followed in order by Philadelphia, New Bedford, Lowell, Manchester and
+followed in order by Philadelphia, New Bedford, [[Lowell]], Manchester and
 Pawtucket. The climate of Fall River is very similar to that of English
 spinning districts. Its population in 1900 was 105,000, and of these
 only 14,600 were of American parentage. Of the remainder, 16,700 were
@@ -5421,7 +5421,7 @@ England, when much of the industry was dependent for power upon water,
 decentralization was entailed, for the thin streams of Lancashire could
 not support more than two or three mills at most in proximity. Hence in
 England, after Watt's steam-engine had succeeded, the economies of
-centralization led eventually to the desertion of the mills on the
+centralization led eventually to the [[Desertion|desertion]] of the mills on the
 water-courses. But at Fall River the perfecting of the application of
 steam-power merely involved its use to supplement the water-power on the
 old site. The presence of water-power explains half the success of New
@@ -5429,7 +5429,7 @@ England. In the six States 35% of all the power used is derived from
 water, and in the cotton-manufacturing of these States water provides
 32.6% of the power. For industrial purposes generally the river most
 exploited is the Merrimac, upon which stand the leading cotton towns of
-Lowell, Lawrence and Manchester. Hitherto little has been done in the
+Lowell, [[Lawrence]] and Manchester. Hitherto little has been done in the
 way of using water to generate electric power.[52]
 
 The two most striking features of the American industry to-day are the
@@ -5437,7 +5437,7 @@ introduction of the automatic looms, already briefly referred to, and
 the development of the South. The Northrop Loom Company has spent a
 fortune in pushing its loom on to the market. It has not hesitated to
 share risks, and it has run one "advertisement" mill at least, namely
-that at Burlington, Vermont, with 55,000 spindles and nearly 1300 looms.
+that at [[Burlington]], Vermont, with 55,000 spindles and nearly 1300 looms.
 In this mill the labour-saving is shown by the following figures, the
 looms being of two sizes, 32 in. and 44 in. Of the former, 3 weavers run
 18 each, 39 tend 16 each, only a few odd weavers tend less than 16, and
@@ -5527,7 +5527,7 @@ developed parts of the country larger supplies of intrinsically good
 labour might be looked for at lower wages. Skill was not a matter of
 much moment, because in the North it would have been necessary to
 incorporate much labour without previous experience in the industry, the
-work was intended to be of the rough kind upon which manual skill is
+work was intended to be of the rough kind upon which [[Manual|manual]] skill is
 least important, and it was intended to repose reliance for economy upon
 machinery in the main. The choice of new fields meant at the outset the
 sacrifice of some of the economies of localization, but so large an
@@ -5552,7 +5552,7 @@ As regards the first of the two special advantages mentioned above, the
 saving in the cost of carriage of the raw material is not commonly held
 to be high. Transport to the cotton ports is so well organized and
 sea-carriage is so cheap that Lancashire's distance from the source of
-her raw material is not a very appreciable handicap. A good deal of the
+her raw material is not a very appreciable [[Handicap|handicap]]. A good deal of the
 cotton that must be used in some of the Southern mills cannot be
 supplied locally because it is not grown in the neighbourhood, and the
 requirements of these mills are met by transport arrangements which at
@@ -5572,7 +5572,7 @@ do not work in the mills; the reason is said to be partly their own
 disinclination and partly that they are not very efficient at factory
 work. As outside labourers, however, they have afforded important aid at
 a very trifling cost, but the expense of outside labour to a mill is
-never an item of much weight. The halcyon days to employers, when keen
+never an [[Item|item]] of much weight. The halcyon days to employers, when keen
 workers could be had for low wages, are now said to be past. The demand
 for labour was considerable, and as time went on additional supplies
 could be enticed only with the offer of better pay. In 1904 it was
@@ -5605,9 +5605,9 @@ to fall and the abuse of child labour, which had unquestionably crept
 in, may be expected to discontinue entirely. The factory conditions of
 children are better now than they were, but in some places they are
 still very bad. In Georgia no children under twelve are employed, but
-infants without fathers may begin work at ten years of age, and
+[[Infant|infants]] without fathers may begin work at ten years of age, and
 according to Mr Pidgin's report, "it certainly seemed as though the
-intention was honoured more in the breach than in the observance, or
+intention was honoured more in the [[Breach|breach]] than in the observance, or
 that there must be many widows in the neighbourhood of the cotton
 mills." In North and South Carolina the employment of children under
 twelve is illegal, but in these States also conditions are recognized
@@ -5652,7 +5652,7 @@ confronted by problems concerning replacements and alterations. The
 rapidity of Southern growth need not astonish those who have watched the
 operations by which new mills are frequently set up in Lancashire and
 remember that the American business man is more daring than his British
-cousin. Company promotion in the great financial centres, payment for
+[[Cousin|cousin]]. Company promotion in the great financial centres, payment for
 machinery and other plant in shares, or partially in shares, a general
 diffusion of risks and pledging of credit, would explain even more rapid
 growth of industries of even greater magnitude.
@@ -5700,7 +5700,7 @@ different from that in England, where businesses are specialized by
 processes; in America they are specialized by products but hardly at all
 by processes. Independent spinning, independent manufacturing,
 independent bleaching, dyeing and finishing are the significant features
-of English industry to the bird's-eye view; in the United States the
+of English industry to the [[Bird'S-Eye|bird's-eye]] view; in the United States the
 typical firm will spin, make up its own yarn, and perhaps complete its
 fabrics for the market; but the mills, it must be remembered, are
 intensely specialized as to the range of their product, so that the
@@ -5726,7 +5726,7 @@ industry on the commercial side which chiefly explains the arrangements
 found in England. Attention should also be directed to the huge
 magnitude of American businesses. This is partly a consequence of
 American ambition in business, and partly a consequence of the
-undeveloped commercial ligaments by which producing businesses are
+undeveloped commercial [[Ligament|ligaments]] by which producing businesses are
 brought into union. American producers in both North and South are too
 widely scattered for one town, like Manchester in the English cotton
 district, to be visited frequently by them for the purpose of making
@@ -5791,13 +5791,13 @@ range of product are not shown in the formulae.
     |                  |  Thousands. |               |  Thousands. |
     +------------------+-------------+---------------+-------------+
     | Mulhausen        |     471     | Chemnitz      |     195     |
-    | Augsburg         |     373     | Gebweiler     |     187     |
+    | [[Augsburg]]         |     373     | Gebweiler     |     187     |
     | Gronau           |     274     | Leipzig       |     182     |
-    | Werdau           |     249     | Crimmitzschau |     168     |
+    | Werdau           |     249     | [[Crimmitzschau]] |     168     |
     | Rheydt           |     248     | Logelbach     |     141     |
     | Munchen-Gladbach |     216     | Bocholt       |     128     |
     | Rheine           |     198     | Bamberg       |     125     |
-    | Hof              |     196     | Bayreuth      |     100     |
+    | [[Hof]]              |     196     | [[Bayreuth]]      |     100     |
     +------------------+-------------+---------------+-------------+
 
   The history of the hand industry in Germany runs back some centuries.
@@ -5864,7 +5864,7 @@ range of product are not shown in the formulae.
     1899-1903                  324
 
   It must be remembered that the spindles and looms of Alsace and
-  Lorraine were reckoned as German after the war: they amounted in 1895
+  [[Lorraine]] were reckoned as German after the war: they amounted in 1895
   to one and a half million spindles and nearly forty thousand looms.
 
   In the 'seventies there was no dispute as to England's substantial
@@ -6049,13 +6049,13 @@ range of product are not shown in the formulae.
   proceed now to her colonies. Normandy, the north and east, in order,
   are the chief seats of the industry. In Normandy the leading city is
   Rouen, and Darnetal, Maromme, Sotteville, Havre, Yvetot, Dieppe,
-  Evreux, Gisors, Falaise and Flers are important places. The north
+  Evreux, [[Gisors]], [[Falaise]] and Flers are important places. The north
   contains the important towns of Lille, Tourcoing, Roubaix, St
   Quentin, Amiens and Hellemmes. The Vosges is the chief district of the
   east, and the leading towns are Epinal, St Die, Remiremont, Senones,
-  Val d'Ajol, Cornimont and La Bresse. The following towns which are not
+  Val d'Ajol, Cornimont and La [[Bresse]]. The following towns which are not
   included in any of the districts mentioned above are also
-  noteworthy:--Troyes, Nantes, Cholet, Laval, Tarare, Roanne, Thizy and
+  noteworthy:--Troyes, Nantes, [[Cholet]], Laval, Tarare, Roanne, Thizy and
   Villefranche upon the Saone. Cotton arrives at Havre and Marseilles;
   at the latter chiefly the product of Egypt and the East. Havre used to
   be the most important cotton port in continental Europe, but to-day
@@ -6112,7 +6112,7 @@ range of product are not shown in the formulae.
     | Jaroslaw      |      4     |       347       |        2        |
     | Kostroma      |     25     |       274       |       20        |
     | Tver          |      6     |       348       |        9        |
-    | Esthonia      |      1     |       440       |        2        |
+    | [[Esthonia]]      |      1     |       440       |        2        |
     | Ryazan        |      4     |       146       |        3        |
     | Elsewhere     |     15     |       198       |        4        |
     |               +------------+-----------------+-----------------+
@@ -6156,7 +6156,7 @@ range of product are not shown in the formulae.
   cotton goods, laces and trimmings are the leading specialities of the
   Swiss textile workers. About half the Swiss spindles are in the canton
   of Zurich, between a quarter and a third in Glarus, about the same in
-  St Gall and 9% in Aargau. Figures show that the average size of the
+  St [[Gall]] and 9% in Aargau. Figures show that the average size of the
   Swiss mill is small. The average spindles to a mill were 22,000, and
   very few mills held more than 50,000 spindles. Some 9000 of the
   power-looms are in Zurich, some 4500 in Glarus and 4000 in St Gall.
@@ -6197,7 +6197,7 @@ range of product are not shown in the formulae.
     Lombardy         1,850,000
     Piedmont         1,000,000
     Venetia            550,000
-    Campania           250,000
+    [[Campania]]           250,000
     Liguria            250,000
     Tuscany            100,000
 
@@ -6207,8 +6207,8 @@ range of product are not shown in the formulae.
     +-------------+--------------++-------------+--------------+
     |             |   Spindles.  ||             |   Spindles.  |
     | Turin       |   470,000    || Genoa       |   210,000    |
-    | Bergamo     |   450,000    || Salerno     |   150,000    |
-    | Como        |   250,000    || Brescia     |   310,000    |
+    | [[Bergamo]]     |   450,000    || Salerno     |   150,000    |
+    | [[Como]]        |   250,000    || [[Brescia]]     |   310,000    |
     | Milan       |   660,000    || Naples      |   100,000    |
     | Novara      |   410,000    || Udine       |   240,000    |
     +-------------+--------------++-------------+--------------+
@@ -6236,19 +6236,19 @@ range of product are not shown in the formulae.
   spite of English legal prohibitions. Lievin Bauwens was the prime
   mover of the achievement. Expansion rapidly followed, and in 1892
   Belgian spindles numbered nearly a million. Since then a decline has
-  set in. Ghent, with about 600,000 spindles, is the only really
+  set in. [[Ghent]], with about 600,000 spindles, is the only really
   important place: no other place has as many as 50,000. Holland
   possesses about 417,000 spindles: the leading district is Twente and
-  the leading town Enschede; Twente contains also about 20,000
+  the leading town [[Enschede]]; Twente contains also about 20,000
   power-looms. Rotterdam is the chief cotton port; Amsterdam, always a
   far-away second, has lost place still further of late.
 
   _Spain and Portugal._--The greatness of Spain in the cotton industry
   lies buried in the remote past, but of late she has awakened somewhat,
   with the result that her spindles now number about 1,853,000.
-  Catalonia is the chief province where the industry is carried on, and
-  Barcelona surpasses all other centres. Portugal possesses nearly half
-  a million spindles (the bulk in Lisbon and Oporto), many of which have
+  [[Catalonia]] is the chief province where the industry is carried on, and
+  [[Barcelona]] surpasses all other centres. Portugal possesses nearly half
+  a million spindles (the bulk in [[Lisbon]] and Oporto), many of which have
   appeared since 1894.
 
   _The Rest of Europe_.--Of Sweden, Norway, Denmark, Greece and
@@ -6263,7 +6263,7 @@ range of product are not shown in the formulae.
   against the all-cottons of India. Soon after the introduction of
   spinning by rollers, English all-cottons began to rival the Indian in
   quality as well as in cost. A large export trade to India has grown
-  up, but Indian hand-loom weavers still ply their craft. In 1851
+  up, but Indian hand-loom weavers still ply their [[Craft|craft]]. In 1851
   power-spinning was started, and by 1876 there were in India 1,000,000
   spindles. Since then they have nearly reached six millions and
   importations of yarn have been significantly affected. The growth of
@@ -6284,7 +6284,7 @@ range of product are not shown in the formulae.
   illegally--legally as regards children over fourteen who are classed
   as adults. The working of heavy hours began with the electric lighting
   of the mills; previously all shut down at sunset largely because of
-  the cost of illumination. The outcry which has been raised is,
+  the cost of [[Illumination|illumination]]. The outcry which has been raised is,
   perhaps, sufficient guarantee that the worst evils will be remedied.
   Indian spinning, it must be remembered, is still very coarse as a
   rule, though some fine work is attempted and the average of counts
@@ -6398,12 +6398,12 @@ range of product are not shown in the formulae.
     +------------+------------++------------+------------+
     |            |    L  s.   ||            |     L s.   |
     | Osaka      |   1226.5   || Nara       |    111.5   |
-    | Hyogo      |    495.5   || Hiroshima  |     91.3   |
+    | Hyogo      |    495.5   || [[Hiroshima]]  |     91.3   |
     | Okayama    |    374.4   || Kyoto      |     82.2   |
     | Miye       |    238.1   || Wakayama   |     79.2   |
     | Tokyo      |    227.9   || Ehime      |     70.5   |
     | Aichi      |    224.3   || Kajawa     |     36.4   |
-    | Fukuoka    |    168.1   ||            |            |
+    | [[Fukuoka]]    |    168.1   ||            |            |
     +------------+------------++------------+------------+
 
 
@@ -6411,7 +6411,7 @@ range of product are not shown in the formulae.
 
     +---------+----------+-----------+-----------+-----------+----------+----------+---------+-------+--------------+--------------+
     |         |          | Average   |  Quantity |           | Average  | Average  |         |       |   Average    |   Average    |
-    |         |  Gross   |  Number   |   of Raw  |   Total   |  Number  | Number   | Annual  | Daily |    Daily     |    Daily     |
+    |         |  [[Gross]]   |  Number   |   of Raw  |   Total   |  Number  | Number   | Annual  | Daily |    Daily     |    Daily     |
     |  Year   |  Amount  |    of     |    and    | Production| of Male  |of Female | Working |Working|    Wage      |   Wage of    |
     |         |of Capital| Spindles  |  Ginned   | of Cotton |Operatives|Operatives|  Days.  | Hours.|    of Male   |    Female    |
     |         | invested.|used daily.|  Cotton   |   Yarn.   |  daily   |  daily   |         |       |  Operatives. | Operatives.  |
@@ -6431,7 +6431,7 @@ range of product are not shown in the formulae.
   in India and China is strong also in Japan, and the economy of the
   factory system is greater relatively in spinning than in
   manufacturing. In Japan it is ring-spinning which prevails: 95% of the
-  spindles are on ring-frames. Ring-spinning entails less skill on the
+  spindles are on ring-frames. Ring-spinning [[Entail|entails]] less skill on the
   part of the operative, and ring-yarn is quite satisfactory for the
   sort of fabrics used most largely in the Far East. The counts produced
   are low as a rule. Generally mills run day and night with double
@@ -6465,7 +6465,7 @@ range of product are not shown in the formulae.
   the Cotton Trade, &c._, by a person concerned in trade (1823);
   Ellison, _The Cotton Trade of Great Britain including a History of the
   Liverpool Cotton Market and of the Liverpool Cotton Brokers'
-  Association_ (1886); Leon Faucher, _Etudes sur Angleterre_ (1845);
+  Association_ (1886); [[Leon]] Faucher, _Etudes sur Angleterre_ (1845);
   French, _The Life and Times of Samuel Crompton_ (1859); Guest, _A
   Compendious History of the Cotton-manufacture, with a Disproval of the
   Claim of Sir Richard Arkwright to the Invention of its Ingenious
@@ -6532,7 +6532,7 @@ range of product are not shown in the formulae.
   very full financial and economical annual, and the British government
   issues annually a good statistical abstract for India. The American
   census contains much detailed information, and there are, in addition
-  to the statistics issued by the Federal government, those of
+  to the statistics issued by the [[Federal Government|Federal government]], those of
   Massachusetts, the Bureau of Statistics of which has also reported the
   results of an investigation into the industry in the Southern states.
   Among official matter the semi-official Bombay and Lancashire cotton
@@ -6546,7 +6546,7 @@ range of product are not shown in the formulae.
   in the Patent Office library. We may notice particularly the _Cotton
   Factory Times_; _Textile Journal_; _Textile Manufacturer_; _Textile
   Mercury_; _Textile Recorder_; _Textile World Record_ (American); _Der
-  Leipzige Monatsschrift fur Textilindustrie_; and the French _Textile
+  Leipzige Monatsschrift [[Fur|fur]] Textilindustrie_; and the French _Textile
   Journal_. Shepperson's _Cotton Facts_ is an annual which relates
   chiefly, though not entirely, to raw cotton, as does also _Cotton_,
   the periodical of the Manchester Cotton Association. For technical
@@ -6570,12 +6570,12 @@ FOOTNOTES:
   [5] _State Papers, Domestic_, lix. 5. See W. H. Price, _Quar. Jour.
     Econ._, vol. xx.
 
-  [6] London Guildhall Library, vol. Beta, _Petitions and Parliamentary
+  [6] London [[Guildhall]] Library, vol. Beta, _Petitions and Parliamentary
     Matters_ (1620-1621), No. 16 (old No. 25).
 
   [7] The act referred to is 33 Henry VIII. c. xv., already mentioned.
 
-  [8] Cunningham, _Growth of English Industry and Commerce_ (1903),
+  [8] [[Cunningham]], _Growth of English Industry and Commerce_ (1903),
     vol. ii. p. 623.
 
   [9] Original edition, pp. 32, 33.
@@ -6655,7 +6655,7 @@ FOOTNOTES:
   [31] "Counts" are determined by the number of hanks to the lb. A hank
     is 840 yds. The origin of the hank of 840 yds. is probably that
     spinners used a winding-reel of 1-1/2 yds. in circumference, so that 80
-    threads (one "lea" or "rap" according to old phraseology) would
+    threads (one "[[Lea|lea]]" or "rap" according to old phraseology) would
     contain 120 yds., and seven leas (i.e. a hank) would contain 840 yds.
     A hank of seven leas was the common measure in the woollen industry,
     in which the reels were 1 yd. or 2 yds. in circumference. For details
@@ -6674,7 +6674,7 @@ FOOTNOTES:
     described. 1691, Specification 276.
 
   [36] In the parliamentary reports (1840), xxiv. p. 611, the invention
-    of the swivel-loom is claimed for a "Van Anson." It is a plausible
+    of the swivel-loom is claimed for a "Van [[Anson]]." It is a plausible
     supposition that by "Van Anson" is meant Vaucanson, as he appears to
     have improved the swivel-loom. But he could not have been the
     original inventor, since in 1724 (that is, when Vaucanson was at the
@@ -6688,13 +6688,13 @@ FOOTNOTES:
   [38] Figures for the years above up to 1838 will be found in
     parliamentary reports (1840), xxiv. p. 611.
 
-  [39] This is the manuscript diary of a weaver of Oldham roughly
+  [39] This is the [[Manuscript|manuscript]] diary of a weaver of Oldham roughly
     covering the period 1787 to 1830. It is now in the Oldham public
     library. Mr S. Andrew edited extracts from it in a series of articles
-    in the _Standard_ (an Oldham paper), under the title _Annals of
+    in the _Standard_ (an Oldham paper), under the title _[[Annals]] of
     Oldham_, beginning January 1, 1887.
 
-  [40] Printed in _British Industries_. Edited by W. J. Ashley.
+  [40] Printed in _British Industries_. Edited by W. J. [[Ashley]].
 
   [41] This is explained in the article COTTON: _Marketing and Supply_.
 
@@ -6727,7 +6727,7 @@ FOOTNOTES:
     conditions.
 
   [51] The method of calculating these percentages is discussed in the
-    blue-book mentioned.
+    [[Blue-Book|blue-book]] mentioned.
 
   [52] Upon the above see Uttley's report.
 
@@ -6750,7 +6750,7 @@ FOOTNOTES:
 
   [59] Uttley's report, p. 4.
 
-  [60] Similar formulae have been used above, where a fuller
+  [60] Similar formulae have been used above, where a [[Fuller|fuller]]
     explanation is given.
 
   [61] Deutschland als Industriestaat.
@@ -6828,7 +6828,7 @@ R. Banks._)
   is employed to clean both long and short stapled cottons. In this gin
   the fibres are drawn by a leather-covered roller (A, fig. 2) over the
   edge of a stationary blade (B) called a doctor, which is fixed
-  tangential to the roller. Two cranks (E) move two other blades (C, D)
+  tangential to the roller. Two [[Crank|cranks]] (E) move two other [[Blades|blades]] (C, D)
   up and down immediately behind, and parallel to, the fixed blade (B).
   The cotton is thrown into the hopper (F) and the fibres are drawn by
   the roller (A) until the seeds are against the edge of the doctor (B),
@@ -6858,7 +6858,7 @@ R. Banks._)
   foregoing stages are: The bale breaker, opener and scutcher; the card
   and comber; the drawing, slubbing, intermediate and roving frames;
   ring and mule spinning; winding, doubling; clearing and gassing the
-  reel, and bundling press, together with several auxiliary machines.
+  reel, and bundling press, together with several [[Auxiliary|auxiliary]] machines.
   All the operations included in this list are not necessarily employed
   in the production of all kinds of yarn; low counts require fewer, and
   high counts more processes.
@@ -6897,8 +6897,8 @@ R. Banks._)
   conical beaters make about 1000, and small ones make from 1000 to 1500
   revolutions per minute. The opened cotton is carried, in the direction
   indicated by the arrows, upon a strong blast of air which is generated
-  by a fan (H), and this deposits it in patches upon the surfaces of two
-  perforated zinc or wire cylinders (C), but dust and foreign particles
+  by a [[Fan|fan]] (H), and this deposits it in patches upon the surfaces of two
+  perforated zinc or wire cylinders (C), but [[Dust|dust]] and foreign particles
   pass through the interstices. As these cylinders revolve towards each
   other the cotton passes between them in the form of a sheet to a pair
   of feed-rollers (D), which may again deliver it to a beater with two
@@ -6983,7 +6983,7 @@ R. Banks._)
   advance upon the cylinder A to the doffer teeth, where the scattered
   fibres on the surface of A are collected into a light fleece. In this
   condition they are stripped by a vibrating comb (F), drawn together by
-  a funnel, formed into a sliver, and deposited in a can (G). This
+  a [[Funnel|funnel]], formed into a sliver, and deposited in a can (G). This
   machine is now chiefly used to card waste and low-class cotton. If
   such a card is made with two main cylinders, a connecting cylinder
   called a tummer collects the fibres from the first and passes them on
@@ -7079,7 +7079,7 @@ R. Banks._)
   leaving the front roller the sliver is conducted to a trumpet-shaped
   tube (D), thence between a pair of calender rollers (E), and, finally,
   through a diagonal passage in a plate (F); the latter coils the sliver
-  into a rotating can (G). Back and front devices are provided to arrest
+  into a rotating can (G). Back and front devices are provided to [[Arrest|arrest]]
   motion in this machine when a sliver fails. At the back, each sliver
   passes over and depresses a separate spoon-shaped lever (I), thereby
   lifting the hooked lower end of (I) high enough to allow an arm (J) to
@@ -7111,7 +7111,7 @@ R. Banks._)
   effected by a differential motion which usually consists of a large
   wheel, within which two other wheels are made to work; the interior
   wheels have a regular motion, but the large wheel is driven from a
-  pair of cone drums at a decreasing speed.
+  pair of cone [[Drum|drums]] at a decreasing speed.
 
   [Illustration: FIG. 7.]
 
@@ -7130,7 +7130,7 @@ R. Banks._)
   the intermediate frame, draws two into one, twists them and winds them
   upon tubes. This machine is usually the last employed to prepare
   cotton for spinning, but for spinning fine yarns from the best
-  Egyptian and Sea Islands cottons, a second roving, or _Jack frame_ may
+  Egyptian and Sea Islands cottons, a second roving, or _[[Jack]] frame_ may
   be required, in which event pairs of rovings from the first machine
   are similarly treated in the second in order to render the final
   product sufficiently fine for spinning yarns of the requisite counts.
@@ -7146,12 +7146,12 @@ R. Banks._)
   roving spools were placed vertically in a creel between the two sets
   of rollers, and the rovings reduced to the requisite fineness by the
   latter; after which each was passed through a coiled eye at the lower
-  end of a flyer leg, and attached to a double-flanged spool which was
+  end of a flyer [[Leg|leg]], and attached to a double-flanged spool which was
   loosely mounted upon a spindle. At each revolution of a flyer a twist
   was put into the attenuated roving, and the flyer wrapped as much
   thread upon a spool as the rollers delivered. The spools rested upon a
   piece of woollen cloth stretched over a rail, and this rail rose and
-  fell through a space equal to the length of the spool barrel. On
+  fell through a space equal to the length of the spool [[Barrel|barrel]]. On
   account of a thread having to pull a spool round, it was not possible
   to spin finer counts than 60^s, and since each flyer was mounted upon
   the top of an unsupported spindle, vibration increased with speed. In
@@ -7164,7 +7164,7 @@ R. Banks._)
   lowest entirely below it. A thread passed from the drawing rollers,
   outside the cup, to a spool. As a spool rotated its thread was
   uniformly twisted, the lower edge of the cup built the yarn equally on
-  every part of the spool barrel, and the requisite drag resulted from
+  every part of the spool barrel, and the requisite [[Drag|drag]] resulted from
   friction set up by the thread rubbing against the surface of the cup.
   The throstle has almost disappeared from the cotton industry, and
   Danforth's cap frame entirely so, but the latter is still used to spin
@@ -7175,7 +7175,7 @@ R. Banks._)
   States of America by J. Thorpe, in 1828, and in that country was
   extensively used long before it became established in England. Its
   chief feature consists in the substitution for the flyer, or the cap,
-  of a smooth annular ring (A, fig. 8) formed with a flange at the upper
+  of a smooth [[Annular|annular]] ring (A, fig. 8) formed with a flange at the upper
   edge, over which a light C-shaped piece of wire (B), called a
   traveller, is sprung. The rings are secured in a rail (C) that rises
   quickly and falls slowly, but at each succeeding ascent and descent it
@@ -7271,7 +7271,7 @@ R. Banks._)
   For many purposes the threads as spun by the ring frame or the mule
   are ready for the manufacturer; but where extra strength or smoothness
   is required, as in threads for sewing, crocheting, hosiery, lace and
-  carpets; also where multicoloured effects are needed, as in
+  [[Carpet|carpets]]; also where multicoloured effects are needed, as in
   Grandrelle, or some special form of irregularity, as in corkscrewed,
   and knopped yarns, two or more single threads are compounded and
   twisted together. This operation is known as doubling. In order to
@@ -7282,12 +7282,12 @@ R. Banks._)
   _Winding machines_ for this purpose are of various kinds. There are
   those in which the threads are laid evenly between the flanges of a
   bobbin, and those that coil the threads upon a straight or a tapering
-  tube to form "cheeses." In the latter the tubes may be laid upon
+  tube to form "[[Cheese|cheeses]]." In the latter the tubes may be laid upon
   diagonally split drums and rotated by frictional contact. By placing
   each group of threads to be wound in the slit of a rotating drum, it
   is drawn quickly to and fro and coiled upon a spool. If solid instead
   of split drums be used, the guides for all the threads on one side of
-  a machine are attached to a bar, which is traversed by a cam placed at
+  a machine are attached to a bar, which is traversed by a [[Cam|cam]] placed at
   one end of the frame. Or independent mechanism may be provided
   throughout for treating each group of threads to be wound. The bobbins
   or tubes may be filled from cops, ring spools or hanks, but a stop
@@ -7342,10 +7342,10 @@ R. Banks._)
   into a cop. Between the creel and the spindles all the strands are
   kept equally tense by drawing them over flannel-covered boards and
   under porcelain weights. For wet doubling, the strands pass through a
-  trough containing water, and the flannel surfaces are also wet.
+  trough containing water, and the [[Flannel|flannel]] surfaces are also wet.
 
   _Clearing_.--After the first, or the final, doubling it is often
-  necessary to remove lumps, imperfect knots and loose fibres from a
+  necessary to remove lumps, imperfect [[Knot|knots]] and loose fibres from a
   thread. This is accomplished by passing each through a slit, or
   clearer, whose width is adjusted to the diameter of the thread to be
   treated. By this means anything which gives a thread abnormal bulk
@@ -7359,7 +7359,7 @@ R. Banks._)
   from a creel is drawn over a tension rod to two freely mounted
   pulleys, having parallel grooves cut in their surfaces and axes in the
   same horizontal plane. After bending a thread forward and backward in
-  the grooves of both pulleys, it passes through a Bunsen flame and is
+  the grooves of both pulleys, it passes through a [[Bunsen]] flame and is
   coiled upon a tube, which is held against the face of a rotating drum,
   while a vibrating guide distributes the thread across the tube. The
   gas-burner is situated midway between the grooved pulleys, and so
@@ -7391,9 +7391,9 @@ R. Banks._)
   weighing 5 or 10 lb. In short bundles it is usual to form groups of
   ten hanks, and these are twisted together, folded and compressed into
   bundles; but in long bundles the hanks are compressed without being
-  folded. A press consists of a strong table upon which a box, with open
+  folded. A press consists of a strong table upon which a [[Box|box]], with open
   ends, is formed. The bottom of this box is grooved transversely and
-  made to rise and fall by wheel gearing or by eccentrics. The sides and
+  made to rise and fall by wheel gearing or by [[Eccentric|eccentrics]]. The sides and
   top are made of vertical and horizontal bars, set to coincide with the
   grooves in the bottom. To one set of vertical bars a similar number of
   horizontal top pieces are hinged, and to the other set levers are

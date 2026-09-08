@@ -1,8 +1,8 @@
 # Kachin Hills
 
-KACHIN HILLS, a mountainous tract in Upper Burma, inhabited by the
-Kachin or Chingpaw, who are known on the Assam frontier as Singphos.
-Owing to the great number of tribes, sub-tribes and clans of the
+KACHIN HILLS, a mountainous tract in Upper [[Burma]], inhabited by the
+Kachin or Chingpaw, who are known on the [[Assam]] frontier as Singphos.
+Owing to the great number of tribes, sub-tribes and [[Clan|clans]] of the
 Kachins, the part of the Kachin hills which has been taken under
 administration in the Myitkyina and Bhamo districts was divided into 40
 Kachin hill tracts (recently reduced to five). Beyond these tracts there
@@ -14,10 +14,10 @@ Irrawaddy, which drains the country. There were 64,405 Kachins
 enumerated at the census of 1901. Philological investigations show that
 it is probable that the progenitors of the Kachins or Chingpaw were the
 Indo-Chinese race who, before the beginnings of history, but after the
-Mon-Annam wave had covered Indo-China, forsook their home in western
+Mon-Annam wave had covered [[Indo-China]], forsook their home in western
 China to pour over the region where Tibet, Assam, Burma and China
 converge, and that the Chingpaw are the residue left round the
-headquarters of the Irrawaddy and the Chindwin after those branches,
+headquarters of the Irrawaddy and the [[Chindwin]] after those branches,
 destined to become the Tibetans, the Nagas, the Burmans and the Kuki
 Chins, had gone westwards and southwards. In the middle of the 19th
 century the southern limit of the Kachins was 200 m. farther north than
@@ -31,7 +31,7 @@ Hill Tribes Regulation of 1895, administrative responsibility is
 accepted by the British government on the left bank of the Irrawaddy for
 the country south of the Nmaikha, and on the right bank for the country
 south of a line drawn from the confluence of the Malikha and Nmaikha
-through the northern limit of the Laban district and including the jade
+through the northern limit of the Laban district and including the [[Jade|jade]]
 mines. The tribes north of this line were told that if they abstained
 from raiding to the south of it they would not be interfered with. South
 of that line peace was to be enforced and a small tribute exacted, with

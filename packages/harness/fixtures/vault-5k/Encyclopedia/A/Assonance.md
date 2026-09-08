@@ -11,12 +11,12 @@ to), a term defined, in its prosodical sense, as "the corresponding or
 riming of one word with another in the accented vowel and those which
 follow it, but not in the consonants" (_New English Dictionary_,
 Oxford). In other words, assonance is an improper or imperfect form of
-rhyme, in which the ear is satisfied with the incomplete identity of
+rhyme, in which the [[Ear|ear]] is satisfied with the incomplete identity of
 sound which the vowel gives without the aid of consonants. Much rustic
 or popular verse in England is satisfied with assonance, as in such
 cases as
 
-  "And pray who gave thee that jolly red _nose_?
+  "And pray who gave thee that [[Jolly|jolly]] red _nose_?
    Cinnamon, Ginger, Nutmeg and _Cloves_,"
 
 where the agreement between the two _o's_ permits the ear to neglect the

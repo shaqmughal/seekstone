@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Isis"
 
 ISIS (Egyptian _Ese_), the most famous of the Egyptian goddesses. She
 was of human form, in early times distinguished only by the hieroglyph
-of her name [symbol] upon her head. Later she commonly wore the horns of
+of her name [symbol] upon her head. Later she commonly wore the [[Horn|horns]] of
 a cow, and the cow was sacred to her; it is doubtful, however, whether
 she had any animal representation in early times, nor had she possession
 of any considerable locality until a late period, when Philae, Behbet
@@ -28,7 +28,7 @@ healing or protection of Horus by Isis, and it is chiefly from magical
 texts that the myth of Isis and Osiris as given by Plutarch can be
 illustrated. The Metternich stela (XXXth Dynasty), the finest example of
 a class of prophylactic stelae generally known by the name of "Horus on
-the crocodiles," is inscribed with a long text relating the adventures
+the [[Crocodile|crocodiles]]," is inscribed with a long text relating the adventures
 of Isis and Horus in the marshes of the Delta. With her sister Nephthys,
 Isis is frequently represented as watching the body of Osiris or
 mourning his death.
@@ -53,7 +53,7 @@ triumph of Horus over Seth and the resurrection of the slain
 god--accompanied by music and an exposition of the inner meaning of the
 spectacle. These were traditional in ancient Egypt, and in their later
 development were no doubt affected by the Eleusinian mysteries of
-Demeter. They appealed powerfully to the imagination and the religious
+Demeter. They appealed powerfully to the [[Imagination|imagination]] and the religious
 sense. The initiated went through rites of purification, and practised a
 degree of asceticism; but for many the festival was believed to be an
 occasion for dark orgies. Isis nursing the child Horus (Harpokhrates)
@@ -68,7 +68,7 @@ Vespasian onwards the worship of Isis, always popular with some
 sections, had a great vogue throughout the western world, and is not
 without traces in Britain. It proved the most successful of the pagan
 cults in maintaining itself against Christianity, with which it had not
-a little in common, both in doctrine and in emblems. But the destruction
+a little in common, both in doctrine and in [[Emblem|emblems]]. But the destruction
 of the Serapeum at Alexandria in A.D. 397 was a fatal blow to the
 prestige of the Graeco-Egyptian divinities. The worship of Isis,
 however, survived in Italy into the 5th century. At Philae her temple

@@ -16,10 +16,10 @@ represented by the literals a, b, c, &c..., i.e. the introductory
 letters of the alphabet. Any number or literal which expresses what
 multiple of term occurs in an equation is called the coefficient of that
 term; and the term which does not contain an unknown is called the
-absolute term. The degree of an equation is equal to the greatest index
+absolute term. The degree of an equation is equal to the greatest [[Index|index]]
 of an unknown in the equation, or to the greatest sum of the indices of
 products of unknowns. If each term has the sum of its indices the same,
-the equation is said to be homogeneous. These definitions are
+the equation is said to be homogeneous. These [[Definition|definitions]] are
 exemplified in the equations:--
 
   (1) ax^2 + 2bx + c = 0,
@@ -37,7 +37,7 @@ equations containing only one unknown the number of roots equals the
 degree of the equation; thus a simple equation has one root, a quadratic
 two, a cubic three, and so on. If one equation be given containing two
 unknowns, as for example ax + by = c or ax^2 + by^2 = c, it is seen that
-there are an infinite number of roots, for we can give x, say, any value
+there are an [[Infinite|infinite]] number of roots, for we can give x, say, any value
 and then determine the corresponding value of y; such an equation is
 called _indeterminate_; of the examples chosen the first is a linear and
 the second a quadratic indeterminate equation. In general, an
@@ -62,7 +62,7 @@ to employ the sign [Identical to] to express this relation.
   the first case there is obviously no limit to the number of unknowns
   and to the degree of the equation; and, consequently, this aspect is
   the most general. In the second case the number of unknowns is limited
-  to three, corresponding to the three dimensions of space; the degree
+  to three, corresponding to the three [[Dimension|dimensions]] of space; the degree
   is unlimited as before. It must be noticed, however, that by the
   introduction of appropriate hyperspaces, i.e. of degree equal to the
   number of unknowns, any equation theoretically admits of geometrical
@@ -73,7 +73,7 @@ to employ the sign [Identical to] to express this relation.
   former leads to exact results, or, by methods of approximation, to
   results correct to any required degree of accuracy. The latter can
   only yield approximate values: when theoretically exact constructions
-  are available there is a source of error in the draughtsmanship, and
+  are available there is a source of [[Error|error]] in the draughtsmanship, and
   when the constructions are only approximate, the accuracy of the
   results is more problematical. The geometric aspect, however, is of
   considerable value in discussing the theory of equations.
@@ -86,7 +86,7 @@ arithmetical nature, assuming such forms as "a mass and its 1/7th makes
 a simple equation. Arithmetical problems also gave origin to equations
 involving two unknowns; the early Greeks were familiar with and solved
 simultaneous linear equations, but indeterminate equations, such, for
-instance, as the system given in the "cattle problem" of Archimedes,
+instance, as the system given in the "cattle problem" of [[Archimedes]],
 were not seriously studied until Diophantus solved many particular
 problems. Quadratic equations arose in the Greek investigations in the
 doctrine of proportion, and although they were presented and solved in
@@ -107,13 +107,13 @@ gives x^2 = ay and xy = 2a^2; eliminating y we obtain x^3 = 2a^3, a
 simple cubic. The Greeks could not solve this equation, which also arose
 in the problems of duplicating a cube and trisecting an angle, by the
 ruler and compasses, but only by mechanical curves such as the cissoid,
-conchoid and quadratrix. Such solutions were much improved by the Arabs,
+conchoid and quadratrix. Such solutions were much improved by the [[Arabs]],
 who also solved both cubics and biquadratics by means of intersecting
 conics; at the same time, they developed methods, originated by
 Diophantus and improved by the Hindus, for finding approximate roots of
 numerical equations by algebraic processes. The algebraic solution of
 the general cubic and biquadratic was effected in the 16th century by S.
-Ferro, N. Tartaglia, H. Cardan and L. Ferrari (see ALGEBRA: _History_).
+Ferro, N. Tartaglia, H. Cardan and L. [[Ferrari]] (see ALGEBRA: _History_).
 Many fruitless attempts were made to solve algebraically the quintic
 equation until P. Ruffini and N.H. Abel proved the problem to be
 impossible; a solution involving elliptic functions has been given by C.
@@ -129,7 +129,7 @@ which explained the nature of such solutions, in particular those
 wherein conics were employed, and, in addition, established the most
 important facts that every equation represents a geometrical locus, and
 conversely. To represent equations containing two unknowns, x, y, he
-chose two axes of reference mutually perpendicular, and measured x along
+[[Chose|chose]] two axes of reference mutually perpendicular, and measured x along
 the horizontal axis and y along the vertical. Then by the methods
 described in the article GEOMETRY: _Analytical_, he showed that--(1) a
 linear equation represents a straight line, and (2) a quadratic
@@ -456,7 +456,7 @@ see DIFFERENTIAL EQUATIONS.
   is wanting by the substitution x = y - A/3. This transformation is a
   particular case of a general theorem. Let x^n + Ax^(n - 1) + Bx^(n -
   2) ... = 0. Substitute x = y + h; then (y + h)^n + A(y + h)^(n - 1)
-  ... = 0. Expand each term by the binomial theorem, and let us fix our
+  ... = 0. Expand each term by the [[Binomial|binomial]] theorem, and let us fix our
   attention on the coefficient of y^(n - 1). By this process we obtain 0
   = y^n + y^(n - 1)(A + nh) + terms involving lower powers of y.
 
@@ -575,7 +575,7 @@ see DIFFERENTIAL EQUATIONS.
   3. When a biquadratic equation has all its terms, its resolution may
   be always reduced to that of a cubic equation. There are various
   methods by which such a reduction may be effected. The following was
-  first given by Leonhard Euler in the _Petersburg Commentaries_, and
+  first given by Leonhard [[Euler]] in the _Petersburg Commentaries_, and
   afterwards explained more fully in his _Elements of Algebra_.
 
   We have already explained how an equation which is complete in its
@@ -803,7 +803,7 @@ this one, and only this one, real root.
   In particular cases it is frequently possible to ascertain the number
   of the real roots, and to effect their separation by trial or
   otherwise, without much difficulty; but the foregoing was the general
-  process as employed by Joseph Louis Lagrange even in the second
+  process as employed by Joseph Louis [[Lagrange]] even in the second
   edition (1808) of the _Traite de la resolution des equations
   numeriques_;[2] the determination of the limit [delta] had to be
   effected by means of the "equation of differences" or equation of the
@@ -853,8 +853,8 @@ laborious.
 single real root which lies between the two given limits may be effected
 to any required degree of approximation either by the processes of W.G.
 Horner and Lagrange (which are in principle a carrying out of the method
-of Sturm's theorem), or by the process of Sir Isaac Newton, as perfected
-by Joseph Fourier (which requires to be separately considered).
+of Sturm's theorem), or by the process of Sir [[Isaac]] Newton, as perfected
+by Joseph [[Fourier]] (which requires to be separately considered).
 
   First as to Horner and Lagrange. We know that between the limits
   [beta], [alpha] there lies one, and only one, real root of the
@@ -942,7 +942,7 @@ by Joseph Fourier (which requires to be separately considered).
   assumed value [gamma], then, drawing the ordinate CP to meet the curve
   in P, and the tangent PC' to meet the axis in C', we shall have OC' as
   the new approximate value of the root. But observe that there is here
-  a real root OX, and that the curve beyond X is convex to the axis;
+  a real root OX, and that the curve beyond X is [[Convex|convex]] to the axis;
   under these conditions the point C' is nearer to X than was C; and,
   starting with C' instead of C, and proceeding in like manner to draw a
   new ordinate and tangent, and so on as often as we please, we
@@ -974,7 +974,7 @@ by Joseph Fourier (which requires to be separately considered).
   like manner with the points D', C', and so on as often as we please,
   we obtain at each step two limits approximating more and more nearly
   to the required root OX. The process as to the point D', translated
-  into analysis, is the ordinate process of interpolation. Suppose OD =
+  into analysis, is the ordinate process of [[Interpolation|interpolation]]. Suppose OD =
   [beta], OC = [alpha], we have approximately [f]([beta] + h) =
   [f]([beta]) + h{[f]([alpha]) - [f]([beta])} / ([alpha] - [beta]),
   whence if the root is [beta] + h then h = - ([alpha] -
@@ -1146,7 +1146,7 @@ the question is how many roots lie within such contour.
   fundamental theorem that a numerical equation of the nth order (not
   only has a numerical root, but) has precisely n roots. It would appear
   that this proof of the fundamental theorem in its most complete form
-  is in principle identical with the last proof of K.F. Gauss (1849) of
+  is in principle identical with the last proof of K.F. [[Gauss]] (1849) of
   the theorem, in the form--A numerical equation of the nth order has
   always a root.[3]
 
@@ -1168,7 +1168,7 @@ number).
   The foregoing conclusions apply, viz. there are always n roots, which,
   it may be shown, are all unequal. And these can be found numerically
   by the extraction of the square root, and of an nth root, of _real_
-  numbers, and by the aid of a table of natural sines and cosines.[4]
+  numbers, and by the aid of a table of natural sines and [[Cosin|cosines]].[4]
   For writing
 
                                                       /          [alpha]                         [beta]            \
@@ -1267,7 +1267,7 @@ functions [Sigma]a, [Sigma]ab, &c.
   symbols of operation. As regards such equations, there is certainly no
   proof that every equation has a root, or that an equation of the nth
   order has n roots; nor is it in any wise clear what the precise
-  signification of the statement is. But it is found that the assumption
+  signification of the statement is. But it is found that the [[Assumption|assumption]]
   of the existence of the n roots can be made without contradictory
   results; conclusions derived from it, if they involve the roots, rest
   on the same ground as the original assumption; but the conclusion may
@@ -1794,7 +1794,7 @@ the binomial equations x^n - 1 = 0 present an instance.
   then not only r^n - 1 = 0, but also r^(n - 1) + r^(n - 2) + ... + r +
   1 = 0.
 
-23. The process of solution due to Karl Friedrich Gauss (1801) depends
+23. The process of solution due to Karl [[Friedrich]] Gauss (1801) depends
 essentially on the arrangement of the roots in a certain order, viz. not
 as above, with the indices of r in arithmetical progression, but with
 their indices in geometrical progression; the prime number n has a
@@ -1899,7 +1899,7 @@ the solution (by either process) requires the extraction of square roots
 only; and it was thus that Gauss discovered that it was possible to
 construct geometrically the regular polygons of 17 sides and 257 sides
 respectively. Some interesting developments in regard to the theory were
-obtained by C.G.J. Jacobi (1837); see the memoir "Ueber die
+obtained by C.G.J. [[Jacobi]] (1837); see the memoir "Ueber die
 Kreistheilung, u.s.w.," _Crelle_, t. xxx. (1846).
 
 The equation x^(n - 1) + ... + x + 1 = 0 has been considered for its own
@@ -1928,7 +1928,7 @@ theory is, in fact, very analogous to that of the above particular case.
 
 24. But the theory of the algebraical solution of equations in its most
 complete form was established by Evariste Galois (born October 1811,
-killed in a duel May 1832; see his collected works, _Liouville_, t. xl.,
+killed in a [[Duel|duel]] May 1832; see his collected works, _Liouville_, t. xl.,
 1846). The definition of an irreducible equation resembles Abel's,--an
 equation is reducible when it admits of a rational divisor, irreducible
 in the contrary case; only the word _rational_ is used in this extended
@@ -1989,14 +1989,14 @@ adjoin the radical [root](1/4 p^2 - q).
   seems to be the fundamental one in Galois's theory. But the problem of
   solution by radicals, instead of being the sole object of the theory,
   appears as the first link of a long chain of questions relating to the
-  transformation and classification of irrationals.
+  transformation and [[Classification|classification]] of irrationals.
 
   Returning to the question of solution by radicals, it will be readily
   understood that by the adjunction of a radical the group may be
   diminished; for instance, in the case of the general cubic, where the
   group is that of the six permutations, by the adjunction of the square
   root which enters into the solution, the group is reduced to abc, bca,
-  cab; that is, it becomes possible to express rationally, in terms of
+  [[Cab|cab]]; that is, it becomes possible to express rationally, in terms of
   the coefficients and of the adjoint square root, any function such as
   a^2 b + b^2 c + c^2 a which is not altered by the cyclical
   substitution a into b, b into c, c into a. And hence, to determine
@@ -2030,7 +2030,7 @@ adjoin the radical [root](1/4 p^2 - q).
   (1852). See also J.A. Serret's _Cours d'algebre superieure_, 2nd ed.
   (1854); 4th ed. (1877-1878).
 
-25. Returning to quintic equations, George Birch Jerrard (1835)
+25. Returning to quintic equations, George [[Birch]] Jerrard (1835)
 established the theorem that the general quintic equation is by the
 extraction of only square and cubic roots reducible to the form x^5 + ax
 + b = 0, or what is the same thing, to x^5 + x + b = 0. The actual
@@ -2087,9 +2087,9 @@ Annalen_, t. xiii. (1877-1878).
   the hyperelliptic functions into an odd number of parts." (See also
   GROUPS, THEORY OF.)     (A. Ca.)
 
-  BIBLIOGRAPHY.--For the general theory see W.S. Burnside and A.W.
+  BIBLIOGRAPHY.--For the general theory see W.S. [[Burnside]] and A.W.
   Panton, _The Theory of Equations_ (4th ed., 1899-1901); the Galoisian
-  theory is treated in G.B. Matthews, _Algebraic Equations_ (1907). See
+  theory is treated in G.B. [[Matthew|Matthews]], _Algebraic Equations_ (1907). See
   also the _Ency. d. math. Wiss._ vol. ii.
 
 

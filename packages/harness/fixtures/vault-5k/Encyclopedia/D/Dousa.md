@@ -9,7 +9,7 @@ topic: art
 DOUSA, JANUS [Jan van der Does], lord of Noordwyck (1545-1604), Dutch
 statesman, historian, poet and philologist, and the heroic defender of
 Leiden, was born at Noordwyck, in the province of Holland, on the 6th of
-December 1545. He began his studies at Lier in Brabant, became a pupil
+December 1545. He began his studies at Lier in [[Brabant]], became a pupil
 of Henry Junius at Delft in 1560, and then passed on in succession to
 Louvain, Douai and Paris. Here he studied Greek under Pierre Dorat,
 professor at the Collège Royal, and became acquainted with the
@@ -40,12 +40,12 @@ research he turned to good account. He had three sons and five
 daughters. All his sons acquired a reputation for learning, but two of
 them died before their father. Dousa was author of several volumes of
 Latin verse and of philological commentaries on Horace, Plautus,
-Catullus and other Latin poets. His principal work is the _Annals of
+Catullus and other Latin poets. His principal work is the _[[Annals]] of
 Holland_, which first appeared in a metrical form in 1599, and was
 published in prose under the title of _Bataviae Hollandiaeque annales_
 in 1601. Dousa also took part as editor or contributor in various other
 publications. He died at Noordwyck on the 8th of October 1604, and was
-interred at the Hague; but no monument was erected to his memory till
+interred at the [[Hague]]; but no monument was erected to his memory till
 1792, when one of his descendants placed a tomb to his honour in the
 church of Noordwyck. There are good portraits of the Great Dousa, as he
 is often called, by Visscher and Houbraken.

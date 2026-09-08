@@ -19,7 +19,7 @@ host of imitators. The novelist himself returned to his hero in _The
 Memoirs of Sherlock Holmes_ (1893), _The Hound of the Baskervilles_
 (1902), and _The Return of Sherlock Holmes_ (1905). His later books
 include numerous novels; plays, _The Story of Waterloo_ (1894), in which
-Sir Henry Irving played the leading part, _The Fires of Fate_ (1909),
+Sir Henry Irving played the leading part, _The Fires of [[Fate]]_ (1909),
 and _The House of Temperley_ (1909); and two books in defence of the
 British army in South Africa--_The Great Boer War_ (1900) and _The War
 in South Africa; its Causes and Conduct_ (1902). Dr Conan Doyle served

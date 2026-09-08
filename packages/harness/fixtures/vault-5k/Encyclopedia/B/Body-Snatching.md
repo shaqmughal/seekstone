@@ -27,7 +27,7 @@ examples of which may still be seen in Greyfriars' churchyard,
 Edinburgh.
 
   For a detailed history of body-snatching, see _The Diary of a
-  Resurrectionist_, edited by J.B. Bailey (London, 1896), which also
+  Resurrectionist_, edited by J.B. [[Bailey]] (London, 1896), which also
   contains a full bibliography and the regulations in force in foreign
   countries for the supply of bodies for anatomical purposes.
 

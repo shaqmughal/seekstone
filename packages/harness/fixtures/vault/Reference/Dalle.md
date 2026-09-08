@@ -13,7 +13,7 @@ falling over flat smooth rock surfaces in a river bed, especially in
 rivers flowing between basaltic rocks. The name is common in America,
 and came into use through the French employes of the Hudson's Bay
 Company. Well-known "dalles" are on the St Louis, St Croix and Wisconsin
-rivers. The "dalles" of the Columbia river are very beautiful, and have
+rivers. The "dalles" of the [[Columbia River|Columbia river]] are very beautiful, and have
 given its name to Dalles (1910 pop. 4880), county-seat of Wasco county,
 Oregon.
 

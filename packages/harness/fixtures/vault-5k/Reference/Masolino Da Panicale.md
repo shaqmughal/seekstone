@@ -6,7 +6,7 @@ probable, however, that he was born in Florence itself, his father,
 Cristoforo Fini, who was an "imbiancatore," or whitewasher, having been
 domiciled in the Florentine quarter of S. Croce. There is reason to
 believe that Tommaso, nicknamed Masolino, was a pupil of the painter
-Starnina, and was principally influenced in style by Antonio Veneziano;
+Starnina, and was principally influenced in style by [[Antonio]] Veneziano;
 he may probably enough have become in the sequel the master of Masaccio.
 He was born in 1383; he died later than 1429, perhaps as late as 1440 or
 even 1447. Towards 1423 he entered the service of Filippo Scolari, the

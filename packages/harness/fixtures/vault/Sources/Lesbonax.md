@@ -1,7 +1,7 @@
 # Lesbonax
 
 LESBONAX, of Mytilene, Greek sophist and rhetorician, flourished in the
-time of Augustus. According to Photius (_cod._ 74) he was the author of
+time of Augustus. According to Photius (_[[Cod|cod]]._ 74) he was the author of
 sixteen political speeches, of which two are extant, a hortatory speech
 after the style of Thucydides, and a speech on the Corinthian War. In
 the first he exhorts the Athenians against the Spartans, in the second
@@ -11,7 +11,7 @@ are also attributed to him.
 
   The Lesbonax described in Suidas as the author of a large number of
   philosophical works is probably of much earlier date; on the other
-  hand, the author of a small treatise [Greek: Peri Schêmatôn] on
+  hand, the author of a small treatise [Greek: Peri Schê[[Mat|mat]]ôn] on
   grammatical figures (ed. Rudolf Müller, Leipzig, 1900), is probably
   later.
 

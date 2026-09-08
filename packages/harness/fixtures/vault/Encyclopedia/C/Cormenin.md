@@ -7,7 +7,7 @@ of the admiralty. At the age of twenty he was received advocate, and
 about the same time he gained some reputation as a writer of piquant and
 delicate poems. In 1810 he received from Napoleon I. the appointment of
 auditor to the council of state; and after the restoration of the
-Bourbons he became master of requests. During the period of his
+[[Bourbon|Bourbons]] he became master of requests. During the period of his
 connexion with the council he devoted himself zealously to the study of
 administrative law. He was selected to prepare some of the most
 important reports of the council. Among his separate publications at
@@ -17,11 +17,11 @@ responsabilité des agents du gouvernement_. In the former he claimed,
 for the protection of the rights of private persons in the
 administration of justice, the institution of a special court whose
 members should be irremovable, the right of oral defence, and publicity
-of trial. In 1822 appeared his _Questions de droit administratif_, in
+of trial. In 1822 appeared his _Questions de [[Droit|droit]] administratif_, in
 which he for the first time brought together and gave scientific shape
 to the scattered elements of administrative law. These he arranged and
-stated clearly in the form of aphorisms, with logical deductions,
-establishing them by proofs drawn from the archives of the council of
+stated clearly in the form of [[Aphorism|aphorisms]], with logical deductions,
+establishing them by proofs drawn from the [[Archive|archives]] of the council of
 state. This is recognized as his most important work as a jurist. The
 fifth edition (1840) was thoroughly revised.
 
@@ -36,11 +36,11 @@ and administrative abuses. After the revolution of July 1830, Cormenin
 was one of the 221 who signed the protest against the elevation of the
 Orleans dynasty to the throne; and he resigned both his office in the
 council of state and his seat in the chamber. He was, however, soon
-re-elected deputy, and now voted with the extreme Left. The discussions
+re-elected [[Deputy|deputy]], and now voted with the extreme Left. The discussions
 on the budget in 1831 gave rise to the publication of his famous series
 of _Lettres sur la liste civile_, which in ten years ran through
 twenty-five editions. In the following year he was elected deputy for
-Belley. In 1834 he was elected by two arrondissements, and sat for
+Belley. In 1834 he was elected by two [[Arrondissement|arrondissements]], and sat for
 Joigny, which he represented till 1846. In this year he lost his seat in
 consequence of the popular prejudice aroused against him by his
 trenchant pamphlet _Oui et non_ (1845) against attacks on religious
@@ -48,7 +48,7 @@ liberty, and a second entitled _Feu! Feu!_ (1845), written in reply to
 those who demanded a retractation of the former. Sixty thousand copies
 were rapidly sold.
 
-Cormenin was an earnest advocate of universal suffrage before the
+Cormenin was an [[Earnest|earnest]] advocate of universal suffrage before the
 revolution of February 1848, and had remorselessly exposed the corrupt
 practices at elections in his pamphlet--_Ordre du jour sur la corruption
 électorale_. After the revolution he was elected by four departments to

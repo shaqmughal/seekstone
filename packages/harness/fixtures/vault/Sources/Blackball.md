@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Blackball"
 
 # Blackball
 
-BLACKBALL, a token used for voting by ballot against the election of a
+BLACKBALL, a token used for voting by [[Ballot|ballot]] against the election of a
 candidate for membership of a club or other association. Formerly white
-and black balls about the size of pigeons' eggs were used respectively
+and black [[Ball|balls]] about the size of pigeons' [[Egg|eggs]] were used respectively
 to represent votes for and against a candidate for such election; and
 although this method is now generally obsolete, the term "blackball"
 survives both as noun and verb. The rules of most clubs provide that a

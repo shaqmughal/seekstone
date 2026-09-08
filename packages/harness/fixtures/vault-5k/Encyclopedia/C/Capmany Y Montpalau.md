@@ -6,11 +6,11 @@ topic: history
 
 # Capmany Y Montpalau
 
-CAPMANY Y MONTPALAU, ANTONIO DE (1742-1813), Spanish polygraph, was born
+CAPMANY Y MONTPALAU, [[Antonio|ANTONIO]] DE (1742-1813), Spanish polygraph, was born
 at Barcelona on the 24th of November 1742. He retired from the army in
 1770, and was subsequently elected secretary of the Royal Academy of
 History at Madrid. His principal works are--_Memorias historicas sobre
-la marina, commercio, y artes de la antigua ciudad de Barcelona_ (4
+la marina, commercio, y artes de la [[Antigua|antigua]] ciudad de Barcelona_ (4
 vols. 1779-1792); _Teatro historico-critico de la elocuencia Espanola_
 (1786); _Filiosofia de la elocuencia_ (1776), and _Cuestiones criticas
 sobre varias puntos de historia economica, politica, y militar_ (1807).

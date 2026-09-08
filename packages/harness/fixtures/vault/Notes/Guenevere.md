@@ -12,13 +12,13 @@ calls her Guanhumara, makes her a Roman lady, but the general tradition
 is that she was of Cornish birth and daughter to King Leodegrance. Wace,
 who, while translating Geoffrey, evidently knew, and used, popular
 tradition, combines these two, asserting that she was of Roman parentage
-on the mother's side, but cousin to Cador of Cornwall by whom she was
+on the mother's side, but [[Cousin|cousin]] to Cador of [[Cornwall]] by whom she was
 brought up. The tradition relating to Guenevere is decidedly confused
 and demands further study. The Welsh triads know no fewer than three
-Gwenhwyfars; Giraldus Cambrensis, relating the discovery of the royal
-tombs at Glastonbury, speaks of the body found as that of Arthur's
-second wife; the prose _Merlin_ gives Guenevere a bastard half-sister of
-the same name, who strongly resembles her; and the _Lancelot_ relates
+Gwenhwyfars; [[Giraldus Cambrensis]], relating the discovery of the royal
+tombs at [[Glastonbury]], speaks of the body found as that of Arthur's
+second wife; the prose _Merlin_ gives Guenevere a [[Bastard|bastard]] half-sister of
+the same name, who strongly resembles her; and the _[[Lancelot]]_ relates
 how this lady, trading on the likeness, persuaded Arthur that she was
 the true daughter of Leodegrance, and the queen the bastard interloper.
 This episode of the false Guenevere is very perplexing.
@@ -34,10 +34,10 @@ relations between them are of the most conventional and courtly
 character, and are entirely lacking in the genuine dramatic passion which
 marks the love story of Tristan and Iseult. The _Lancelot-Guenevere_
 romance took form and shape in the artificial atmosphere encouraged by
-such patronesses of literature as Eleanor of Aquitaine and her daughter
-Marie, Comtesse de Champagne (for whom Chretien de Troyes wrote his
-_Chevalier de la Charrette_), and reflects the low social morality of a
-time when love between husband and wife was declared impossible. But
+such patronesses of literature as Eleanor of [[Aquitaine]] and her daughter
+Marie, Comtesse de [[Champagne]] (for whom Chretien de Troyes wrote his
+_[[Chevalier]] de la Charrette_), and reflects the low social morality of a
+time when love between [[Husband And Wife|husband and wife]] was declared impossible. But
 though Guenevere has changed her lover, the tradition of her infidelity
 is of much earlier date and formed a part of the primitive Arthurian
 legend. Who the original lover was is doubtful; the _Vita Gildae_ relates
@@ -47,7 +47,7 @@ of a Welsh poem seems to confirm this tradition, which certainly lies at
 the root of her later abduction by Meleagaunt. In the _Lanzelet_ of
 Ulrich von Zatzikhoven the abductor is Falerin. The story in these forms
 represents an other-world abduction. A curious fragment of Welsh
-dialogues, printed by Professor Rhys in his _Studies on the Arthurian
+[[Dialogue|dialogues]], printed by Professor Rhys in his _Studies on the Arthurian
 Legend_, appears to represent Kay as the abductor. In the
 pseudo-Chronicles and the romances based upon them the abductor is
 Mordred, and in the chronicles there is no doubt that the lady was no

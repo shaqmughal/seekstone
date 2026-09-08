@@ -21,7 +21,7 @@ Röntgen ray work and wireless telegraphy.
 
 The instrument began to be developed soon after Faraday's discovery of
 induced currents in 1831, and the subsequent researches of Joseph Henry,
-C. G. Page and W. Sturgeon on the induction of a current. N. J. Callan
+C. G. Page and W. Sturgeon on the [[Induction|induction]] of a current. N. J. Callan
 described in 1836 the construction of an electromagnet with two separate
 insulated wires, one thick and the other thin, wound on an iron core
 together. He provided the primary circuit of this instrument with an
@@ -44,7 +44,7 @@ independently invented the form of hammer break now employed. In this
 break the magnetization of the iron core by the primary current is made
 to attract an iron block fixed to the end of a spring, in such a way
 that two platinum points are separated and the primary circuit thus
-interrupted. It was not until 1853 that H. L. Fizeau added to the break
+interrupted. It was not until 1853 that H. L. [[Fizeau]] added to the break
 the condenser which greatly improved the operation of the coil. It 1851
 H. D. Rühmkorff (1803-1877), an instrument-maker in Paris, profiting by
 all previous experience, addressed himself to the problem of increasing
@@ -71,8 +71,8 @@ circuit 150 m. in length. The diameter of the wire was 0.014 in., and
 the secondary bobbin when complete had an external diameter of 2 ft. and
 a length of 4 ft. 10 ins. The primary bobbin weighed 145 lb., and
 consisted of 6000 turns of copper wire 3770 yds. in length, the wire
-being .095 of an inch in diameter. Excited by the current from 40 large
-Bunsen cells, this coil could give secondary sparks 30 in. in length.
+being .095 of an [[Inch|inch]] in diameter. Excited by the current from 40 large
+[[Bunsen]] cells, this coil could give secondary sparks 30 in. in length.
 Subsequently, in 1876, Apps constructed a still larger coil for William
 Spottiswoode, which is now in the possession of the Royal Institution.
 The secondary circuit consisted of 280 m. of copper wire about 0.01 of
@@ -97,9 +97,9 @@ spark-producing power of the secondary circuit. The primary coil must be
 wholly enclosed in ebonite, and the tube containing it is generally
 longer than the secondary bobbin. The second circuit consists of a
 number of flat coils wound up between paraffined or shellaced paper,
-much as a sailor coils a rope. It is essential that no joints in this
-wire shall occur in inaccessible places in the interior. A machine has
-been devised by Leslie Miller for winding secondary circuits in flat
+much as a sailor coils a rope. It is essential that no [[Joints|joints]] in this
+wire shall occur in inaccessible places in the interior. A [[Machine|machine]] has
+been devised by [[Leslie]] Miller for winding secondary circuits in flat
 sections without any joints in the wire at all (British Patent, No.
 5811, 1903). A coil intended to give a 10 or 12 in. spark is generally
 wound in this fashion in several hundred sections, the object of this
@@ -132,7 +132,7 @@ primary circuit is made between two contact studs which ought to be of
 massive platinum, and across the break points is joined the primary
 condenser. This consists of a number of sheets of paraffined paper
 interposed between sheets of tin foil, alternate sheets of the tin foil
-being joined together (see Leyden Jar). This condenser serves to quench
+being joined together (see [[Leyden]] Jar). This condenser serves to quench
 the break spark. If the primary condenser is not inserted, the arc or
 spark which takes place at the contact points prolongs the fall of
 magnetism in the core, and since the secondary electromotive force is
@@ -143,14 +143,14 @@ increase the suddenness with which the primary current is interrupted,
 and so greatly increases the electromotive force in the secondary
 circuit. Lord Rayleigh showed (_Phil. Mag._, 1901, 581) that if the
 primary circuit is interrupted with sufficient suddenness, as for
-instance if it is severed by a bullet from a gun, then no condenser is
+instance if it is severed by a [[Bullet|bullet]] from a gun, then no condenser is
 needed. No current flows in the secondary circuit so long as a steady
 direct current is passing through the primary, but at the moments that
 the primary circuit is closed and opened two electromotive forces are
 set up in the secondary; these are opposite in direction, the one
 induced by the breaking of the primary circuit being by far the
 stronger. Hence the necessity for some form of circuit breaker, by the
-continuous action of which there results a series of discharges from one
+continuous action of which there results a series of [[Discharge|discharges]] from one
 secondary terminal to the other in the form of sparks.
 
 [Illustration: FIG. 1.]
@@ -168,7 +168,7 @@ hand or by a motor, is periodically immersed in mercury and so serves to
 close the primary circuit. To prevent oxidation of the mercury by the
 spark and break it must be covered with oil or alcohol. In some cases
 the interruption is caused by the continuous rotation of a motor either
-working an eccentric which operates the plunger, or, as in the
+working an [[Eccentric|eccentric]] which operates the plunger, or, as in the
 Mackenzie-Davidson break, rotating a slate disk having a metal stud on
 its surface, which is thus periodically immersed in mercury in a vessel.
 A better class of interrupter is the mercury turbine interrupter. In
@@ -212,7 +212,7 @@ turbine breaks can be arranged to give interruptions from about 10 per
 second up to about 50 or 60. The electrolytic breaks are capable of
 working at a higher speed, and under some conditions will give
 interruptions up to a thousand per second. If the secondary terminals of
-the induction coils are connected to spark balls placed a short distance
+the induction coils are connected to spark [[Ball|balls]] placed a short distance
 apart, then with an electrolytic break the discharge has a flame-like
 character resembling an alternating current arc. This type of break is
 therefore preferred for Röntgen ray work since it makes less flickering
@@ -231,10 +231,10 @@ half of the primary, thus reversing the magnetization of the core; and
 again annulling the magnetization. As this series of operations can be
 performed without interrupting a large current through the inductive
 circuit there is not much spark at the commutator, and the speed of
-commutation can be regulated so as to obtain the best results due to a
+[[Commutation|commutation]] can be regulated so as to obtain the best results due to a
 resonance between the primary and secondary circuits. Another device due
 to Grisson is the electrolytic condenser interrupter. If a plate of
-aluminium and one of carbon or iron is placed in an electrolyte yielding
+aluminium and one of [[Carbon|carbon]] or iron is placed in an electrolyte yielding
 oxygen, this aluminium-carbon or aluminium-iron cell can pass current in
 one direction but not in the other. Much greater resistance is
 experienced by a current flowing from the aluminium to the iron than in
@@ -282,8 +282,8 @@ circuit of the ordinary induction coil a secondary electromotive force
 is set up which charges the Leyden jar, and if the spark balls are set
 at the proper distance, this charge is succeeded by a discharge
 consisting of a movement of electricity backwards and forwards across
-the spark gap, constituting an oscillatory electric discharge (see
-ELECTROKINETICS). Each charge of the jar may produce from a dozen to a
+the spark [[Gap|gap]], constituting an oscillatory electric discharge (see
+[[Electrokinetics|ELECTROKINETICS]]). Each charge of the jar may produce from a dozen to a
 hundred electric oscillations which are in fact brief electric currents
 of gradually decreasing strength. If the circuit of few turns and low
 resistance through which this discharge takes place is overlaid with
@@ -302,7 +302,7 @@ results the primary circuit of the oscillation transformer should
 consist of only one thick turn of wire or, at most, but of a few turns.
 It is also necessary that the two circuits, primary and secondary,
 should be well insulated from one another, and for this purpose the
-oscillation transformer is immersed in a box or vessel full of highly
+oscillation transformer is immersed in a [[Box|box]] or vessel full of highly
 insulating oil. For full details N. Tesla's original Papers must be
 consulted (see _Journ. Inst. Elect. Eng._ 21, 62).
 
@@ -311,7 +311,7 @@ secondary, are sections of one single coil. In this form the arrangement
 is called a _resonator_ or _auto transformer_, and is much used for
 producing high frequency discharges for medical purposes. The
 construction of a resonator is as follows: A bare copper wire is wound
-upon an ebonite or wooden cylinder or frame, and one end of it is
+upon an ebonite or wooden cylinder or [[Frame|frame]], and one end of it is
 connected to the outside of a Leyden jar or battery of Leyden jars, the
 inner coating of which is connected to one spark ball of the ordinary
 induction coil. The other spark ball is connected to a point on the
@@ -348,7 +348,7 @@ therapeutic powers.
   induce other oscillations in the second circuit. The two circuits have
   a certain mutual inductance M, and each circuit has self inductance L1
   and L2. If then the capacities in the two circuits are denoted by C1
-  and C2 the following simultaneous equations express the relation of
+  and C2 the following simultaneous [[Equation|equations]] express the relation of
   the currents, i1 and i2, and potentials, v1, and v2, in the primary
   and secondary circuits respectively at any instant:--
 
@@ -423,12 +423,12 @@ therapeutic powers.
 
   [Illustration: FIG. 4.]
 
-  REFERENCES.--J. A. Fleming, _The Alternate Current Transformer_ (2
+  REFERENCES.--J. A. [[Fleming]], _The Alternate Current Transformer_ (2
   vols., London, 1900), containing a full history of the induction coil;
   id., _Electric Wave Telegraphy_ (London, 1906), dealing in chap. i.,
   with the construction of the induction coil and various forms of
   interrupter as well as with the theory of oscillation transformers; A.
-  T. Hare, _The Construction of Large Induction Coils_ (London, 1900);
+  T. [[Hare]], _The Construction of Large Induction Coils_ (London, 1900);
   J. Trowbridge, "On the Induction Coil," _Phil. Mag._ (1902), 3, p.
   393; Lord Rayleigh, "On the Induction Coil," _Phil. Mag._ (1901), 2,
   p. 581; J. E. Ives, "Contributions to the Study of the Induction

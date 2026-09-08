@@ -1,7 +1,7 @@
 # Hildesheim
 
 HILDESHEIM, a town and episcopal see of Germany, in the Prussian
-province of Hanover, beautifully situated at the north foot of the Harz
+province of [[Hanover]], beautifully situated at the north foot of the Harz
 Mountains, on the right bank of the Innerste, 18 m. S.E. of Hanover by
 railway, and on the main line from Berlin, via Magdeburg to Cologne.
 Pop. (1885) 20,386, (1905) 47,060. The town consists of an old and a new
@@ -45,7 +45,7 @@ Late Gothic erroneously said to have been built by the Knights Templars;
 the Knochenhaueramthaus, formerly the gild-house of the butchers, which
 was restored after being damaged by fire in 1884, and is probably the
 finest specimen of a wooden building in Germany; the Michaelis
-monastery, used as a lunatic asylum; and the old Carthusian monastery.
+monastery, used as a lunatic [[Asylum|asylum]]; and the old Carthusian monastery.
 The Romer museum of antiquities and natural history is housed in the
 former church of St Martin; the buildings of Trinity hospital, partly
 dating from the 14th century, are now a factory; and the Wedekindhaus
@@ -76,7 +76,7 @@ known as the _Hildesheimer Stiftsfehde_, which broke out early in the
 bishop and his allies were successful, but in 1521 the king of Denmark
 and the duke of Brunswick overran his lands and in 1523 he made peace,
 surrendering nearly all his possessions. Much, however, was restored
-when Ferdinand, prince of Bavaria, was bishop (1612-1650), as this
+when [[Ferdinand]], prince of Bavaria, was bishop (1612-1650), as this
 warlike prelate took advantage of the disturbances caused by the Thirty
 Years' War to seize the lost lands, and at the beginning of the 19th
 century the extent of the prince bishopric was 682 sq. m. In 1801 the

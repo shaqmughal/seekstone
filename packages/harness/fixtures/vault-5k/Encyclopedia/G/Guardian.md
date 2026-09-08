@@ -1,6 +1,6 @@
 # Guardian
 
-GUARDIAN, one who guards or defends another, a protector. The O. Fr.
+GUARDIAN, one who [[Guards|guards]] or defends another, a protector. The O. Fr.
 _guarden_, _garden_, mod. _gardien_, from _guarder_, _garder_, is of
 Teutonic origin, from the base _war-_, to protect, cf. O.H. Ger.
 _warten_, and Eng. "ward"; thus "guardian" and "warden" are

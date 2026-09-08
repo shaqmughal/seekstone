@@ -13,8 +13,8 @@ along the Sungari and Usuri rivers. In physique they are typically
 Mongolic. Like the Chinese they wear a pigtail, and from them, too, have
 learnt the art of silk embroidery. The Golds live almost entirely on
 fish, and are excellent boatmen. They keep large herds of swine and
-dogs, which live, like themselves, on fish. Geese, wild duck, eagles,
-bears, wolves and foxes are also kept in menageries. There is much
+[[Dogs|dogs]], which live, like themselves, on fish. Geese, wild duck, [[Eagle|eagles]],
+bears, wolves and [[Foxe|foxes]] are also kept in menageries. There is much
 reverence paid to the eagles, and hence the Manchus call the Golds
 "Eaglets." Their religion is Shamanism.
 

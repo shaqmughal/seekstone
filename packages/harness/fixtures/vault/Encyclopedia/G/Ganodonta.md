@@ -15,7 +15,7 @@ Wasatch, and _Stylinodon_ from the Bridger Eocene. With the exception of
 _Conoryctes_, in which it is longer, the skull is short and suggests
 affinity to the sloths, as does what little is known of the limb-bones.
 The dentition, too, is of a type which might well be considered
-ancestral to that of the Edentata. For instance, the molars when first
+ancestral to that of the [[Edentata]]. For instance, the molars when first
 developed have tritubercular summits, but these soon become worn away,
 leaving tall columnar crowns, with a subcircular surface of dentine
 exposed at the summit of each. Moreover, while the earlier types have a
@@ -28,8 +28,8 @@ W.B. Scott. Teeth provisionally assigned to _Calamodon_ have been
 obtained from the Lower Tertiary deposits of Switzerland.
 
   See J.L. Wortman, "The Ganodonta and their Relationship to the
-  Edentata," _Bull. Amer. Mus._ vol. ix. p. 59 (1897); W.B. Scott,
-  "Mammalia of the Santa Cruz Beds, Edentata," _Rep. Princeton Exped. to
+  Edentata," _[[Bull]]. Amer. Mus._ vol. ix. p. 59 (1897); W.B. Scott,
+  "[[Mammalia]] of the Santa Cruz Beds, Edentata," _Rep. Princeton Exped. to
   Patagonia_, vol. v. (1903-1904).     (R. L.*)
 
 ## See also

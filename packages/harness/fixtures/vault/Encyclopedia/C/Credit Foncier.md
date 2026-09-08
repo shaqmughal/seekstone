@@ -13,13 +13,13 @@ id: 42-770
 CREDIT FONCIER, in France, an institution for advancing money on
 mortgage of real securities. Due to a great extent to the initiative of
 the economist L. Wolowski, it was created by virtue of a governmental
-decree of the 28th of February 1852. This decree empowered the issue of
+[[Decree|decree]] of the 28th of February 1852. This decree empowered the issue of
 loans at a low rate of interest, secured by mortgage bonds, extending
-over a long period, and repayable by annuities, including instalments of
-capital. On its inception it had a capital of 25,000,000 francs and took
+over a long period, and repayable by annuities, including [[Instalment|instalments]] of
+capital. On its inception it had a capital of 25,000,000 [[Franc|francs]] and took
 the title of Banque Fonciere de Paris. The parent institution in Paris
-was followed by similar institutions in Nevers and Marseilles. These two
-were afterwards amalgamated with the first under the title of Credit
+was followed by similar institutions in Nevers and [[Marseilles]]. These two
+were afterwards amalgamated with the first under the title of [[Credit]]
 Foncier de France. The capital was increased to 60,000,000 francs, the
 government giving a subvention of 10,000,000 francs, and exercising
 control over the bank by directly appointing the governor and two
@@ -34,7 +34,7 @@ bodies, departmental and communal, for short or long periods, and with
 or without mortgage. Its capital amounts to L13,500,000. Its charter was
 renewed in 1881 for a period of ninety-nine years.
 
-In 1860 the Credit Foncier lent its support to the foundation of an
+In 1860 the Credit Foncier [[Lent|lent]] its support to the foundation of an
 organization for supplying capital and credit for agricultural and
 allied industries. This Credit Agricole rendered but trifling services
 to agriculture, however, and soon threw itself into speculation. Between

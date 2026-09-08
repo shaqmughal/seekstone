@@ -4,7 +4,7 @@ MARQUARDT, JOACHIM (1812-1882), German historian and writer on Roman
 antiquities, was born at Danzig on the 19th of April 1812. He studied at
 Berlin and Leipzig, held various educational appointments from 1833
 onwards at Berlin, Danzig and Posen, and became in 1859 head of the
-gymnasium in Gotha, where he died on the 30th of November 1882. The
+gymnasium in [[Gotha]], where he died on the 30th of November 1882. The
 dedication of his treatise _Historiae equitum romanorum libri quatuor_
 (1841) to Lachmann led to his being recommended to the publisher of W.
 A. Becker's _Handbuch der römischen Alterthümer_ to continue the work on
@@ -31,7 +31,7 @@ the Pacific Ocean lying between 7° 50´ and 10° 35´ S. and 138° 50´ and
 140° 50´ W., and belonging to France. It extends over 250 m. from S.E.
 to N.W., and has a total area of 490 sq. m. The southern or Mendaña
 group consists of the islands Fatuhiva or Magdalena, Motane or San
-Pedro, Tahuata or Santa Christina and Hivaoa or Dominica, the last with
+Pedro, Tahuata or Santa Christina and Hivaoa or [[Dominica]], the last with
 a coast-line of more than 60 m. With these is often included the rocky
 islet of Fatuhuku or Hood, lying in mid-channel to the north of Hivaoa.
 The north-western or Washington group is formed of seven islands, the
@@ -48,7 +48,7 @@ to the Society Islands. The vegetable products comprise bananas,
 breadfruit, yams, plantains, wild cotton, bamboos, sugarcane, coconut
 and dwarf palms, and several kinds of timber trees. The land fauna
 however is very poor; there are few mammals with the exception of dogs,
-rats and pigs; and amphibia and insects are also generally scarce. Of
+rats and pigs; and amphibia and [[Insect|insects]] are also generally scarce. Of
 twenty species of birds more than half belong to the sea, where animal
 life is as abundant as about other sub-tropical Polynesian groups. The
 climate, although hot and damp, is not unhealthy. During the greater
@@ -57,7 +57,7 @@ larger islands there are often both land and sea breezes. The rainy
 season accompanied by variable winds sets in at the end of November, and
 lasts for about six months. During this period the thermometer varies
 from 84° to 91° F.; in the dry season its average range is from 77° to
-86°. The archipelago, which has some small trade in copra, cotton and
+86°. The archipelago, which has some small trade in [[Copra|copra]], cotton and
 cotton seeds, is administered by a French resident, and has a total
 population of about 4300, nearly all natives.
 
@@ -68,28 +68,28 @@ healthy bronze. Until the introduction of civilization they were
 remarkable for their elaborate tattooing. Their cannibalism seems to
 have been dictated by taste, for it was never associated with their
 religion, the sacrifices to their gods being always swine. Of these and
-fowls they rear a great quantity. Their native drink is _kava_. Their
+fowls they rear a great quantity. Their native drink is _[[Kava|kava]]_. Their
 houses are unlike those usual in Polynesia in being built on platforms
 raised from the ground. In disposition the islanders are friendly and
 hospitable, brave and somewhat bloodthirsty; and, although naturally
 indolent and morose, they have proved industrious and keen traders. As
 among their kinsfolk the Tahitians, debauchery was systematized and
 infanticide an organized institution. A population which at the time of
-the annexation by France (1842) was 20,000 has been reduced to little
+the [[Annexation|annexation]] by France (1842) was 20,000 has been reduced to little
 over 4000. Latterly the natives have for the most part outwardly adopted
 Christianity.
 
   The Marquesas Islands were discovered on the 21st of July 1595 by
   Alvaro Mendaña, who, however, only knew of the south-eastern group, to
   which he gave the name by which they are generally known (although
-  they also bear his own), in honour of Don Garcia Hurtado de Mendoza,
+  they also bear his own), in honour of Don [[Garcia]] Hurtado de Mendoza,
   marquis of Cañete, viceroy of Peru, and patron of the voyage. Captain
-  Cook pursuing the same track rediscovered this group, with the
+  [[Cook]] pursuing the same track rediscovered this group, with the
   addition of Fatuhuku, in 1774. The north-western islands were first
   sighted by the American Captain Ingraham in 1791, and given the name
   of Washington by him; the French Captain Marchand followed in the same
   year, and Lieut. Hergest in 1792. The Russian explorer, Adam Ivan
-  Krusenstern, made an extensive investigation of the archipelago in
+  [[Krusenstern]], made an extensive investigation of the archipelago in
   1804. In 1813 the American Commodore David Porter failed to establish
   a colony here; and in May 1842, after French Roman Catholic
   missionaries had prepared the way, Rear-admiral Dupetit-Thouars took

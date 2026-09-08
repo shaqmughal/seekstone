@@ -16,13 +16,13 @@ Jewish superstition, reading what actually stood in the text, they would
 inevitably pronounce the name Jehovah. It is an unprofitable inquiry who
 first made this blunder; probably many fell into it independently. The
 statement still commonly repeated that it originated with Petrus
-Galatinus (1518) is erroneous; Jehova occurs in manuscripts at least as
+Galatinus (1518) is erroneous; Jehova occurs in [[Manuscript|manuscripts]] at least as
 early as the 14th century.
 
 The form Jehovah was used in the 16th century by many authors, both
 Catholic and Protestant, and in the 17th was zealously defended by
-Fuller, Gataker, Leusden and others, against the criticisms of such
-scholars as Drusius, Cappellus and the elder Buxtorf. It appeared in the
+[[Fuller]], [[Gataker]], Leusden and others, against the criticisms of such
+scholars as Drusius, Cappellus and the elder [[Buxtorf]]. It appeared in the
 English Bible in Tyndale's translation of the Pentateuch (1530), and is
 found in all English Protestant versions of the 16th century except that
 of Coverdale (1535). In the Authorized Version of 1611 it occurs in
@@ -43,8 +43,8 @@ Testament employ the appellative Elohim, God, prevailingly or
 exclusively; a collection of Psalms (Ps. xlii.-lxxxiii.) was revised by
 an editor who changed the Jhvh of the authors into Elohim (see e.g. xlv.
 7; xlviii. 10; l. 7; li. 14); observe also the frequency of "the Most
-High," "the God of Heaven," "King of Heaven," in Daniel, and of "Heaven"
-in First Maccabees. The oldest Greek versions (Septuagint), from the
+High," "the God of Heaven," "King of Heaven," in [[Daniel]], and of "Heaven"
+in First [[Maccabees]]. The oldest Greek versions (Septuagint), from the
 third century B.C., consistently use [Greek: Kyrios], "Lord," where the
 Hebrew has Jhvh, corresponding to the substitution of Adonay for Jhvh in
 reading the original; in books written in Greek in this period (e.g.
@@ -52,7 +52,7 @@ Wisdom, 2 and 3 Maccabees), as in the New Testament, [Greek: Kyrios]
 takes the place of the name of God. Josephus, who as a priest knew the
 pronunciation of the name, declares that religion forbids him to divulge
 it; Philo calls it ineffable, and says that it is lawful for those only
-whose ears and tongues are purified by wisdom to hear and utter it in a
+whose [[Ear|ears]] and tongues are purified by wisdom to hear and utter it in a
 holy place (that is, for priests in the Temple); and in another passage,
 commenting on Lev. xxiv. 15 seq.: "If anyone, I do not say should
 blaspheme against the Lord of men and gods, but should even dare to
@@ -62,7 +62,7 @@ Various motives may have concurred to bring about the suppression of the
 name. An instinctive feeling that a proper name for God implicitly
 recognizes the existence of other gods may have had some influence;
 reverence and the fear lest the holy name should be profaned among the
-heathen were potent reasons; but probably the most cogent motive was the
+[[Heathen|heathen]] were potent reasons; but probably the most cogent motive was the
 desire to prevent the abuse of the name in magic. If so, the secrecy had
 the opposite effect; the name of the god of the Jews was one of the
 great names in magic, heathen as well as Jewish, and miraculous efficacy
@@ -74,14 +74,14 @@ synagogues a substitute--probably Adonay--was employed);[3] on the Day
 of Atonement the High Priest uttered the name ten times in his prayers
 and benediction. In the last generations before the fall of Jerusalem,
 however, it was pronounced in a low tone so that the sounds were lost in
-the chant of the priests.[4]
+the [[Chant|chant]] of the priests.[4]
 
 After the destruction of the Temple (A.D. 70) the liturgical use of the
 name ceased, but the tradition was perpetuated in the schools of the
 rabbis.[5] It was certainly known in Babylonia in the latter part of the
 4th century,[6] and not improbably much later. Nor was the knowledge
 confined to these pious circles; the name continued to be employed by
-healers, exorcists and magicians, and has been preserved in many places
+healers, [[Exorcist|exorcists]] and magicians, and has been preserved in many places
 in magical papyri. The vehemence with which the utterance of the name is
 denounced in the Mishna--"He who pronounces the Name with its own
 letters has no part in the world to come!"[7]--suggests that this misuse
@@ -93,10 +93,10 @@ scandal of the rabbis.[8]
 
 The early Christian scholars, who inquired what was the true name of the
 God of the Old Testament, had therefore no great difficulty in getting
-the information they sought. Clement of Alexandria (d. c. 212) says that
-it was pronounced [Greek: Iaoue].[9] Epiphanius (d. 404), who was born
+the information they sought. [[Clement]] of Alexandria (d. c. 212) says that
+it was pronounced [Greek: Iaoue].[9] [[Epiphanius]] (d. 404), who was born
 in Palestine and spent a considerable part of his life there, gives
-[Greek: Iabe] (one cod. [Greek: Iaue]).[10] Theodoret (d. c. 457),[11]
+[Greek: Iabe] (one [[Cod|cod]]. [Greek: Iaue]).[10] Theodoret (d. c. 457),[11]
 born in Antioch, writes that the Samaritans pronounced the name [Greek:
 Iabe] (in another passage, [Greek: Iabai]), the Jews [Greek: Aia].[12]
 The latter is probably not Jhvh but _Ehyeh_ (Exod. iii. 14), which the
@@ -105,7 +105,7 @@ imagine that the Samaritans pronounced the name Jhvh differently from
 the Jews. This direct testimony is supplemented by that of the magical
 texts, in which [Greek: Iabe zebyth] (Jahveh Sebaoth), as well as
 [Greek: Iaba], occurs frequently.[13] In an Ethiopic list of magical
-names of Jesus, purporting to have been taught by him to his disciples,
+names of Jesus, purporting to have been taught by him to his [[Disciple|disciples]],
 _Yawe_ is found.[14] Finally, there is evidence from more than one
 source that the modern Samaritan priests pronounce the name _Yahweh_ or
 _Yahwa_.[15]
@@ -115,11 +115,11 @@ consentient testimony to the pronunciation Yahweh or Jahveh, coming as
 it does through several independent channels. It is confirmed by
 grammatical considerations. The name Jhvh enters into the composition of
 many proper names of persons in the Old Testament, either as the initial
-element, in the form Jeho- or Jo- (as in Jehoram, Joram), or as the
+element, in the form Jeho- or Jo- (as in [[Jehoram]], Joram), or as the
 final element, in the form _-jahu_ or _-jah_ (as in Adonijahu,
 Adonijah). These various forms are perfectly regular if the divine name
 was Yahweh, and, taken altogether, they cannot be explained on any other
-hypothesis. Recent scholars, accordingly, with but few exceptions, are
+[[Hypothesis|hypothesis]]. Recent scholars, accordingly, with but few exceptions, are
 agreed that the ancient pronunciation of the name was Yahweh (the first
 h sounded at the end of the syllable).
 
@@ -129,7 +129,7 @@ generally accepted.
 
 Jahveh or Yahweh is apparently an example of a common type of Hebrew
 proper names which have the form of the 3rd pers. sing, of the verb.
-e.g. Jabneh (name of a city), Jabin, Jamlek, Jiptah (Jephthah), &c. Most
+e.g. Jabneh (name of a city), Jabin, Jamlek, Jiptah ([[Jephthah]]), &c. Most
 of these really are verbs, the suppressed or implicit subject being
 _'el_, "_numen_, god," or the name of a god; cf. Jabneh and Jabne-el,
 Jiptah and Jiptah-el.
@@ -161,7 +161,7 @@ is that the verb _hayah_, "to be," has no causative stem in Hebrew; to
 express the ideas which these scholars find in the name Yahweh the
 language employs altogether different verbs.
 
-This assumption that Yahweh is derived from the verb "to be," as seems
+This [[Assumption|assumption]] that Yahweh is derived from the verb "to be," as seems
 to be implied in Exod. iii. 14 seq., is not, however, free from
 difficulty. "To be" in the Hebrew of the Old Testament is not _hawah_,
 as the derivation would require, but _hayah_; and we are thus driven to
@@ -175,7 +175,7 @@ nowhere in the Old Testament, outside of Exod. iii., is there the
 slightest indication that the Israelites connected the name of their God
 with the idea of "being" in any sense, it may fairly be questioned
 whether, if the author of Exod. iii. 14 seq., intended to give an
-etymological interpretation of the name Yahweh,[19] his etymology is any
+etymological interpretation of the name Yahweh,[19] his [[Etymology|etymology]] is any
 better than many other paronomastic explanations of proper names in the
 Old Testament, or than, say, the connexion of the name [Greek: Apollôn]
 with [Greek: apolouôn], [Greek: apolyôn] in Plato's _Cratylus_, or the
@@ -216,7 +216,7 @@ conceived it, had not worshipped the god of their fathers under that
 name. The revelation of the name to Moses was made at a mountain sacred
 to Yahweh (the mountain of God) far to the south of Palestine, in a
 region where the forefathers of the Israelites had never roamed, and in
-the territory of other tribes; and long after the settlement in Canaan
+the territory of other tribes; and long after the settlement in [[Canaan]]
 this region continued to be regarded as the abode of Yahweh (Judg. v. 4;
 Deut. xxxiii. 2 sqq.; 1 Kings xix. 8 sqq. &c.). Moses is closely
 connected with the tribes in the vicinity of the holy mountain;
@@ -233,7 +233,7 @@ pasture lands the mountain of God stood were worshippers of Yahweh
 before the time of Moses; and the surmise that the name Yahweh belongs
 to their speech, rather than to that of Israel, has considerable
 probability. One of these tribes was Midian, in whose land the mountain
-of God lay. The Kenites also, with whom another tradition connects
+of God lay. The [[Kenites]] also, with whom another tradition connects
 Moses, seem to have been worshippers of Yahweh. It is probable that
 Yahweh was at one time worshipped by various tribes south of Palestine,
 and that several places in that wide territory (Horeb, Sinai, Kadesh,
@@ -272,11 +272,11 @@ of these is the king of Hamath who in the inscriptions of Sargon
 (722-705 B.C.) is called Yaubi'di and Ilubi'di (compare
 Jehoiakim-Eliakim). Azriyau of Jaudi, also, in inscriptions of
 Tiglath-Pileser (745-728 B.C.), who was formerly supposed to be Azariah
-(Uzziah) of Judah, is probably a king of the country in northern Syria
+(Uzziah) of [[Judah]], is probably a king of the country in northern Syria
 known to us from the Zenjirli inscriptions as Ja'di.
 
-Friedrich Delitzsch brought into notice three tablets, of the age of the
-first dynasty of Babylon, in which he read the names of _Ya-a'-ve-ilu_,
+[[Friedrich]] [[Delitzsch]] brought into notice three tablets, of the age of the
+first dynasty of [[Babylon]], in which he read the names of _Ya-a'-ve-ilu_,
 _Ya-ve-ilu_, and _Ya-u-um-ilu_ ("Yahweh is God"), and which he regarded
 as conclusive proof that Yahweh was known in Babylonia before 2000 B.C.;
 he was a god of the Semitic invaders in the second wave of migration,
@@ -298,7 +298,7 @@ against Delitzsch's reading of his tablets.
 
 It would not be at all surprising if, in the great movements of
 populations and shifting of ascendancy which lie beyond our historical
-horizon, the worship of Yahweh should have been established in regions
+[[Horizon|horizon]], the worship of Yahweh should have been established in regions
 remote from those which it occupied in historical times; but nothing
 which we now know warrants the opinion that his worship was ever general
 among the Western Semites.
@@ -308,26 +308,26 @@ Babylonia. Thus Delitzsch formerly derived the name from an Akkadian
 god, I or Ia; or from the Semitic nominative ending, Yau;[27] but this
 deity has since disappeared from the pantheon of Assyriologists. The
 combination of Yah with Ea, one of the great Babylonian gods, seems to
-have a peculiar fascination for amateurs, by whom it is periodically
+have a peculiar [[Fascination|fascination]] for amateurs, by whom it is periodically
 "discovered." Scholars are now agreed that, so far as Yahu or Yah occurs
 in Babylonian texts, it is as the name of a foreign god.
 
 Assuming that Yahweh was primitively a nature god, scholars in the 19th
 century discussed the question over what sphere of nature he originally
 presided. According to some he was the god of consuming fire; others saw
-in him the bright sky, or the heaven; still others recognized in him a
+in him the [[Bright|bright]] sky, or the heaven; still others recognized in him a
 storm god, a theory with which the derivation of the name from Heb.
 _hawah_ or Arab. _hawa_ well accords. The association of Yahweh with
 storm and fire is frequent in the Old Testament; the thunder is the
-voice of Yahweh, the lightning his arrows, the rainbow his bow. The
+voice of Yahweh, the lightning his arrows, the rainbow his [[Bow|bow]]. The
 revelation at Sinai is amid the awe-inspiring phenomena of tempest.
-Yahweh leads Israel through the desert in a pillar of cloud and fire; he
+Yahweh leads Israel through the [[Desert|desert]] in a pillar of cloud and fire; he
 kindles Elijah's altar by lightning, and translates the prophet in a
 chariot of fire. See also Judg. v. 4 seq.; Deut. xxxiii. 1; Ps. xviii.
 7-15; Hab. iii. 3-6. The cherub upon which he rides when he flies on the
 wings of the wind (Ps. xviii. 10) is not improbably an ancient
 mythological personification of the storm cloud, the genius of tempest
-(cf. Ps. civ. 3). In Ezekiel the throne of Yahweh is borne up on
+(cf. Ps. civ. 3). In [[Ezekiel]] the throne of Yahweh is borne up on
 Cherubim, the noise of whose wings is like thunder. Though we may
 recognize in this poetical imagery the survival of ancient and, if we
 please, mythical notions, we should err if we inferred that Yahweh was
@@ -336,7 +336,7 @@ meteorological phenomena, and that this conception of him persisted
 among the Israelites till very late times. Rather, as the god--or the
 chief god--of a region and a people, the most sublime and impressive
 phenomena, the control of the mightiest forces of nature are attributed
-to him. As the God of Israel Yahweh becomes its leader and champion in
+to him. As the God of Israel Yahweh becomes its leader and [[Champion|champion]] in
 war; he is a warrior, mighty in battle; but he is not a god of war in
 the specific sense.
 
@@ -425,7 +425,7 @@ FOOTNOTES:
     existing by oneself.
 
   [19] The critical difficulties of these verses need not be discussed
-    here. See W. R. Arnold, "The Divine Name in Exodus iii. 14," _Journal
+    here. See W. R. [[Arnold]], "The Divine Name in [[Exodus]] iii. 14," _Journal
     of Biblical Literature_, XXIV. (1905), 107-165.
 
   [20] Cf. also _hawwah_, "desire," Mic. vii. 3; Prov. x. 3.
@@ -434,11 +434,11 @@ FOOTNOTES:
 
   [22] The divergent Judaean tradition, according to which the
     forefathers had worshipped Yahweh from time immemorial, may indicate
-    that Judah and the kindred clans had in fact been worshippers of
+    that Judah and the kindred [[Clan|clans]] had in fact been worshippers of
     Yahweh before the time of Moses.
 
   [23] The form _Yahu_, or _Yaho_, occurs not only in composition, but
-    by itself; see _Aramaic Papyri discovered at Assuan_, B 4, 6, 11; E
+    by itself; see _Aramaic Papyri discovered at [[Assuan]]_, B 4, 6, 11; E
     14; J 6. This is doubtless the original of [Greek: Iaô], frequently
     found in Greek authors and in magical texts as the name of the God of
     the Jews.
@@ -446,7 +446,7 @@ FOOTNOTES:
   [24] See a collection and critical estimate of this evidence by
     Zimmern, _Die Keilinschriften und das Alte Testament_, 465 sqq.
 
-  [25] _Babel und Bibel_, 1902. The enormous, and for the most part
+  [25] _[[Babel]] und Bibel_, 1902. The enormous, and for the most part
     ephemeral, literature provoked by Delitzsch's lecture cannot be cited
     here.
 

@@ -17,18 +17,18 @@ qualified to control the active principles, i.e. the fighting population
 and the artisans or workers. Aristocracy is thus the government by those
 who are superior both morally and intellectually, and, therefore, govern
 directly in the interests of the governed, as a good doctor works for
-the good of his patient. Aristotle classified good governments under
-three heads--monarchy, aristocracy and commonwealth [Greek: politeia],
+the good of his patient. [[Aristotle]] classified good governments under
+three heads--monarchy, aristocracy and [[Commonwealth|commonwealth]] [Greek: politeia],
 to which he opposed the three perverted forms--tyranny or absolutism,
 oligarchy and democracy or mob-rule. The distinction between aristocracy
 and oligarchy, which are both necessarily the rule of the few, is that
 whereas the few [Greek: aristoi] will govern unselfishly, the oligarchs,
 being the few wealthy ("plutocracy" in modern terminology), will allow
 their personal interests to predominate. While Plato's aristocracy might
-be the rule of the wise and benevolent despot, Aristotle's is
+be the rule of the wise and benevolent [[Despot|despot]], Aristotle's is
 necessarily the rule of the few.
 
-Historically aristocracy develops from primitive monarchy by the gradual
+Historically aristocracy develops from primitive monarchy by the [[Gradual|gradual]]
 progressive limitation of the regal authority. This process is effected
 primarily by the nobles who have hitherto formed the council of the king
 (an excellent example will be found in Athenian politics, see ARCHON),
@@ -39,8 +39,8 @@ periodically by their peers, i.e. by the old royal council (cf. the
 Areopagus at Athens, the Senate at Rome), now the sovereign power. In
 practice this council depends primarily on a birth qualification, and
 thus has always been more or less inferior to the Aristotelian ideal; it
-is, by definition, an "oligarchy" of birth, and is recruited from the
-noble families, generally by the addition of emeritus magistrates. From
+is, by [[Definition|definition]], an "oligarchy" of birth, and is recruited from the
+noble families, generally by the addition of [[Emeritus|emeritus]] [[Magistrate|magistrates]]. From
 the earliest times, therefore, the word "aristocracy" became practically
 synonymous with "oligarchy," and as such it is now generally used in
 opposition to democracy (which similarly took the place of Aristotle's
@@ -48,7 +48,7 @@ opposition to democracy (which similarly took the place of Aristotle's
 whole citizen body.
 
 The aristocracy of which we know most in ancient Greece was that of
-Athens prior to the reforms of Cleisthenes, but all the Greek
+Athens prior to the reforms of [[Cleisthenes]], but all the Greek
 city-states passed through a period of aristocratic or oligarchic
 government. Rome, between the regal and the imperial periods, was always
 more or less under the aristocratic government of the senate, in spite
@@ -60,7 +60,7 @@ slave-population, which in many cases outnumbered the free citizens,
 cannot always be discovered. But in some cases we know that the slaves
 were the original inhabitants who had been overcome by an influx of
 racially different invaders (cf. Sparta with its Helots); in others they
-were captives taken in war. Hence even the most democratic states of
+were [[Captive|captives]] taken in war. Hence even the most democratic states of
 antiquity were so far aristocratic that the larger proportion of the
 inhabitants had no voice in the government. In the second place this
 relation gave rise to a philosophic doctrine, held even by Aristotle,

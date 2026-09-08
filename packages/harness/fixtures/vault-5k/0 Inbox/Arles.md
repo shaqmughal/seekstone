@@ -13,7 +13,7 @@ Pop. (1906) 16,191. A canal unites Arles with the harbour of Bouc on the
 Mediterranean. Arles stands on the left bank of the Rhone, just below
 the point at which the river divides to form its delta. A tubular bridge
 unites it with the suburb of Trinquetaille on the opposite bank. The
-town is hemmed in on the east by the railway line from Lyons to
+town is hemmed in on the east by the railway line from [[Lyons]] to
 Marseilles, on the south by the Canal de Craponne. Its streets are
 narrow and irregular, and, away from the promenades which border it on
 the south, there is little animation. In the centre of the town stand
@@ -27,7 +27,7 @@ interesting sculpture. The choir opens into a beautiful cloister, the
 massive vaulting of which is supported on heavy piers adorned with
 statuary, between which intervene slender columns arranged in pairs and
 surmounted by delicately carved capitals. Two of the galleries are
-Romanesque, while two are Gothic. Arles has two other churches of the
+Romanesque, while two are [[Gothic]]. Arles has two other churches of the
 Romanesque period, and others of later date. The hotel de ville, a
 building of the 17th century, contains the library. Its clock tower,
 surmounted by a statue of Mars, dates from the previous century. The
@@ -50,7 +50,7 @@ standing. There are also a theatre, in which, besides the famous Venus
 of Arles, discovered in 1651, many other remains have been found; an
 ancient obelisk of a single block, 47 ft. high, standing since 1676 in
 the Place de la Republique; the ruins of the palace of Constantine, the
-forum, the thermae and the remains of the Roman ramparts and of
+[[Forum|forum]], the thermae and the remains of the Roman ramparts and of
 aqueducts. There is, besides, a Roman cemetery known as the Aliscamps
 (_Elysii Campi_), consisting of a short avenue once bordered by tombs,
 of which a few still remain.
@@ -60,7 +60,7 @@ invasion of Julius Caesar, who made it a settlement for his veterans. It
 was pillaged in A.D. 270, but restored and embellished by Constantine,
 who made it his principal residence, and founded what is now the suburb
 of Trinquetaille. Under Honorius, it became the seat of the prefecture
-of the Gauls and one of the foremost cities in the western empire. Its
+of the [[Gaul|Gauls]] and one of the foremost cities in the western empire. Its
 bishopric founded by St Trophimus in the 1st century, was in the 5th
 century the primatial see of Gaul; it was suppressed in 1790. After the
 fall of the Roman empire the city passed into the power of the
@@ -93,14 +93,14 @@ wives are advised not to remarry during the lifetime of the guilty
 party. Reiteration of baptism in the name of the Trinity is forbidden.
 For the consecration of a bishop at least three bishops are required. It
 is noteworthy that British representatives assented to Canon I.,
-providing that Easter be everywhere celebrated on the same day: the
+providing that [[Easter]] be everywhere celebrated on the same day: the
 later divergence between Rome and the Celtic church is due to
 improvements in the _supputatio Romana_ adopted at Rome in 343 and
 subsequently.
 
   For the canons see Mansi ii. 471 ff.; Bruns ii. 107 ff.; Lauchert 26
   ff. See also W. Smith and S. Cheetham, _Dictionary of Christian
-  Antiquities_ (Boston, 1875), i. 141 ff. (contains also notices of
+  Antiquities_ ([[Boston]], 1875), i. 141 ff. (contains also notices of
   later synods at Arles); W. Bright, _Chapters of Early English Church
   History_ (2nd edition, Oxford, 1888), 9 f.; Herzog-Hauck,
   _Realencyklopadie_ (3rd edition), ii. 59, x. 238 ff.; W. Moller,

@@ -22,7 +22,7 @@ post he was responsible for several improvements in the service; and
 when the Civil War opened he accompanied Scott, then assistant secretary
 of war, to the front. The first sources of the enormous wealth he
 subsequently attained were his introduction of sleeping-cars for
-railways, and his purchase (1864) of Storey Farm on Oil Creek, where a
+railways, and his purchase (1864) of Storey Farm on Oil [[Creek]], where a
 large profit was secured from the oil-wells. But this was only a
 preliminary to the success attending his development of the iron and
 steel industries at Pittsburg. Foreseeing the extent to which the demand
@@ -51,7 +51,7 @@ provision of public libraries in the United States and United Kingdom
 (and similarly in other English-speaking countries) was especially
 prominent, and "Carnegie libraries" gradually sprang up on all sides,
 his method being to build and equip, but only on condition that the
-local authority provided site and maintenance, and thus to secure local
+local authority provided site and [[Maintenance|maintenance]], and thus to secure local
 interest and responsibility. By the end of 1908 he had distributed over
 £10,000,000 for founding libraries alone. He gave £2,000,000 in 1901 to
 start the Carnegie Institute at Pittsburg, and the same amount (1902) to
@@ -69,8 +69,8 @@ and are noted in this work under the headings of the various localities.
 But mention must also be made of his founding of Carnegie Hero Fund
 commissions, in America (1904) and in the United Kingdom (1908), for the
 recognition of deeds of heroism; his contribution of £500,000 in 1903
-for the erection of a Temple of Peace at The Hague, and of £150,000 for
-a Pan-American Palace in Washington as a home for the International
+for the erection of a Temple of Peace at The [[Hague]], and of £150,000 for
+a Pan-American Palace in Washington as a home for the [[International]]
 Bureau of American republics. In all his ideas he was dominated by an
 intense belief in the future and influence of the English-speaking
 people, in their democratic government and alliance for the purpose of

@@ -45,7 +45,7 @@ ornament, while yet soft and plastic, is laid on the moulding, and
 fitting into all the curves, &c., is fixed with glue. The ornamental
 surface so prepared quickly sets and becomes very hard and brittle. When
 very large bold ornaments are wanted for frames of unusual size they are
-moulded in _papier maché._ Two methods of laying on gold--oil-gilding
+moulded in _papier [[Mach|mach]]é._ Two methods of laying on gold--oil-gilding
 and water-gilding--are practised, the former being used for frames
 broken up with enrichments. For oil-gilding the moulding is prepared
 with two coats of fine thin size to fill the pores of the wood, and

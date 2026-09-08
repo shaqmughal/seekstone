@@ -28,13 +28,13 @@ vicarage in 1866. The grammar school was founded in 1549, and endowed
 with the estates of the local Corpus Christi fraternity, then dissolved;
 the hall in which the gild assembled remains, but the school is
 established in modern buildings on a new site. There are oil-mills,
-rope, sacking and twine factories, and cement, lime, and brick works.
+rope, sacking and twine factories, and cement, lime, and [[Brick|brick]] works.
 There is a considerable carrying trade on the Medway. A museum, with
 public library, was opened in 1858, in an interesting building of the
 early part of the 16th century. This is the headquarters of the Kent
 Archaeological Society, founded by the Rev. L. B. Larking in 1858. In
 1890 an art gallery was added. The West Kent and General hospital, the
-county ophthalmic hospital, county gaol and barracks may be mentioned
+county ophthalmic hospital, county gaol and [[Barracks|barracks]] may be mentioned
 among other institutions. From Saxon times down to 1830 condemned
 malefactors were executed, and all the great county meetings were held,
 on Penenden Heath, a common situated about a mile north-east of the
@@ -48,7 +48,7 @@ presumably of Saxon origin. At the time of the Domesday Survey it
 belonged to the archbishop of Canterbury, and from the reign of John the
 archbishops had a residence there. Its position in the centre of Kent
 gave it an early importance; the shire-moot was held on Penenden Heath
-in the 11th century, and Maidstone was an assize town in the reign of
+in the 11th century, and Maidstone was an [[Assize|assize]] town in the reign of
 Edward I. In 1537 Cranmer exchanged the manor of Maidstone with the
 king, and it was granted by Edward VI. to Sir Thomas Wyatt. Edward also
 incorporated the town by the title of the mayor, jurats and commonalty;
@@ -72,7 +72,7 @@ Maidstone has been associated with various incidents of general history.
 Wat Tyler broke into the prison, liberated John Ball the rebel preacher,
 and committed various depredations. Several of the leading inhabitants
 joined Jack Cade's rising. The rising of the Kentish Royalists in 1648
-collapsed at Maidstone, where on the 1st of June Fairfax, after five
+collapsed at Maidstone, where on the 1st of June [[Fairfax]], after five
 hours' obstinate fighting, captured the town at midnight.
 
   See _Victoria County History, Kent_; I. M. Russell, _History of

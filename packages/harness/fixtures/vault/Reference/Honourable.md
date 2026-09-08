@@ -15,15 +15,15 @@ in the _Paston Letters_ (15th century), but used loosely and
 interchangeable with other styles; thus John, Viscount Beaumont, is
 addressed alternately as "my worshipful and reverent Lord" (ii. 88, ed.
 1904) and as "my right honorabull Lord" (ii. 118), while John Paston, a
-plain esquire, is "my right honurabyll maister." More than two centuries
+plain [[Esquire|esquire]], is "my right honurabyll maister." More than two centuries
 later Selden, in his _Titles of Honor_ (1672), does not include
-"honourable" among the courtesy titles given to the children of peers.
+"honourable" among the [[Courtesy|courtesy]] titles given to the children of peers.
 The style was, in fact, used extremely loosely till well on into the
 18th century. Thus we find in the registers of Westminster Abbey records
 of the burial (in 1710) of "The Hon. George Churchill, Esq.," who was
 only a son of Sir Winston Churchill, and of "The Hon. Sir William
 Godolphin," who had only been created a baronet; in 1717 was buried "The
-Hon. Colonel Henry Cornwall," who was only an esquire and the son of
+Hon. Colonel Henry [[Cornwall]]," who was only an esquire and the son of
 one; in 1743 a rear-admiral was buried as "The Hon. Sir John Jennings,
 Kt."; in 1746 "The Hon. Major-General Lowther," whose father was only a
 Dublin merchant; and finally, in 1747, "The Hon. Lieutenant-General
@@ -38,7 +38,7 @@ the evidence did not prove the right of baronets to the style, and that
 its use "has been no more warranted by authority than when the same
 style has been applied to Field Officers in the Army and others." They
 added that "the style of the Honourable is given to the _Judges_ and to
-the _Barons of the Exchequer_ with others because by the Decree of 10
+the _Barons of the Exchequer_ with others because by the [[Decree]] of 10
 James I., for settling the place and precedence of the Baronets, the
 Judges and Barons of the Exchequer were declared to have place and
 precedence before the younger sons of Viscounts and Barons." This seems
@@ -67,13 +67,13 @@ As to the actual use and social significance of the style, the practice
 in the United Kingdom differs considerably from that in the colonies or
 in the United States. In the United Kingdom marquesses are "most
 honourable"; earls, viscounts and barons "right honourable," a style
-also borne by all privy councillors, including the lord mayor of London
+also borne by all privy councillors, including the lord [[Mayor|mayor]] of London
 and lord provost of Edinburgh during office. The title of "honourable"
 is in the United Kingdom, except by special licence of the Crown (e.g.
 in the case of retired colonial or Indian officials), mainly confined to
 the sons and daughters of peers, and is the common style of the younger
 sons of earls and of the children of viscounts, barons and legal life
-peers. The eldest sons of dukes, marquesses and earls bear "by courtesy"
+peers. The eldest sons of [[Dukes|dukes]], marquesses and earls bear "by courtesy"
 their father's second title, the younger sons of dukes and marquesses
 having the courtesy title Lord prefixed to their Christian name; while
 the daughters of dukes, marquesses and earls are styled Lady. The title
@@ -85,7 +85,7 @@ body and to individual members during debate ("the honourable member for
 X."). Certain other corporate bodies have, by tradition or grant, the
 right to bear the style; e.g. the Honourable Irish Society, the Inns of
 Court (Honourable Society of the Inner Temple, &c.) and the Honourable
-Artillery Company; the East India Company also had the prefix
+Artillery Company; the [[East India Company]] also had the prefix
 "honourable." The style may not be assumed by corporate bodies at will,
 as was proved, in the case of the Society of Baronets, whose original
 style of "Honourable" Society was dropped by command.

@@ -1,6 +1,6 @@
 # Durbar
 
-DURBAR, a term in India for a court or levee, from the Persian _darbar_.
+DURBAR, a term in India for a court or [[Levee|levee]], from the Persian _darbar_.
 A durbar may be either a council for administering affairs of state, or
 a purely ceremonial gathering. In the former sense the native rulers of
 India in the past, like the amir of Afghanistan to-day, received
@@ -16,7 +16,7 @@ of 1903.
 DÜREN, a town of Germany, in the Prussian Rhine province, on the right
 bank of the Roer, 19 m. E. from Aix-la-Chapelle on the main line of
 railway to Cologne. Pop. (1905) 29,270. It has two Protestant and six
-Roman Catholic churches, among the latter the Gothic St Annakirche, said
+Roman Catholic churches, among the latter the [[Gothic]] St Annakirche, said
 to contain a portion of the head of the saint, to the shrine of which
 frequent pilgrimages are made. There are several high grade schools,
 monuments to the emperor William I., Bismarck and Moltke, and, in the

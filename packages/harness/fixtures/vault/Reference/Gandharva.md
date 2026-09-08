@@ -11,7 +11,7 @@ GANDHARVA, in Hindu mythology, the term used to denote (1) in the
 Rig-Veda usually a minor deity; (2) in later writings a class of divine
 beings. As a unity Gandharva has no special attributes but many duties,
 and is in close relation with the great gods. Thus he is director of the
-sun's horses; he is guardian of soma, the sacred liquor, and therefore
+sun's horses; he is [[Guardian|guardian]] of soma, the sacred liquor, and therefore
 is regarded as the heavenly physician, soma being a panacea. He is
 servant of Agni the god of light and of Varuna the divine judge. He is
 omnipresent: in the heavens, in the air and in the waters. He is the
@@ -21,7 +21,7 @@ the spirit of the clouds and waters, Apsaras, and by her became father
 of the first mortals, Yama and Yami. He is the tutelary deity of women
 and presides over marriage ceremonies. In their collective capacity the
 Gandharva share the duties allotted to the single deity. They live in
-the house of Indra and with their wives, the Apsaras, beguile the time
+the house of [[Indra]] and with their wives, the Apsaras, beguile the time
 by singing, acting and dancing. Sometimes they are represented as
 numbering twelve, sometimes twenty-seven, or they are innumerable. In
 Hindu law a Gandharva marriage is one contracted by mutual consent and

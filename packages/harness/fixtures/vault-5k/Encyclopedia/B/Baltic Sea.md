@@ -15,7 +15,7 @@ coast-line, 5000 m.; the central axis runs approximately from south-west to
 north-east. The Baltic is connected with North Sea by the winding channel
 between the south of Scandinavia and the Cimbrian peninsula. This channel
 is usually included in the Baltic. The part of it west of a line joining
-the Skaw with Christiania fjord receives the name of Skagerrak; the part
+the Skaw with [[Christiania]] fjord receives the name of Skagerrak; the part
 east of this line is called the Kattegat. At its southern end the Kattegat
 is blocked by the Danish islands, and it communicates with the Baltic
 proper by narrow channels called the Sound, the Great Belt and the Little
@@ -35,7 +35,7 @@ Swedish coast a deep channel runs northward from outside the island of
 sweeps eastward and northward from near Karlskrona, and on which the island
 of Gotland stands, but it communicates at its northern end with the Gotland
 deep, and near the junction opposite Landsort is the deepest hole in the
-Baltic (420 metres = 230 fathoms).
+Baltic (420 metres = 230 [[Fathom|fathoms]]).
 
 An unbroken ridge, extending from Stockholm to Hangö in Finland, separates
 the Baltic basin proper from the depression between Sweden and the Åland
@@ -45,7 +45,7 @@ which in turn is separated from the most northerly division, the Gulf of
 Bothnia, by a ridge across the narrow Quarken or Kvarken Strait. The
 Gotland deep may be said to extend directly into the Gulf of Finland, an
 arm of the Baltic, running eastwards for about 250 m., and separating
-Finland from Esthonia. Between Esthonia and Courland is the Gulf of Riga, a
+Finland from Esthonia. Between Esthonia and [[Courland]] is the Gulf of Riga, a
 shallow inlet of roughly circular form, about 100 m. in diameter, and
 nowhere more than 27 fathoms deep.
 
@@ -66,20 +66,20 @@ brown colour with small pebbles, is usually found.
 At the time of the last great subsidence, in glacial times, an arm of the
 sea extended across Sweden, submerging a great part of the littoral up to
 the Gulf of Bothnia, and including the present lakes Vener, Hjelmar and
-Mälar. During this period the waters of the northern Baltic were
+Mä[[Lar|lar]]. During this period the waters of the northern Baltic were
 sufficiently salt for oysters to flourish. The subsequent upheaval
 restricted direct communication with the open sea to the Danish channels,
 and the Baltic waters became fresher: the oyster disappeared, but a number
 of cold salt-water fishes and crustaceans, and even seals, became
 acclimatized. It has been suggested that the presence of the remains of
-these animals indicates a communication to the north with the Arctic Ocean;
+these animals indicates a communication to the north with the [[Arctic]] Ocean;
 but in view of the severe climatic conditions still prevailing at the time,
 this seems an unnecessary assumption. In the next stage of its history the
 Baltic is transformed by further elevation into a vast freshwater lake, the
 _Ancylus_ lake of G. de Geer (named from the remains of the mollusc
 _Ancylus fluviatilis_), which is supposed to have covered an area of about
 220,000 sq. m., including the whole of the present Baltic area and a large
-part of Finland, with Lake Ladoga. Then followed a subsidence, which not
+part of Finland, with Lake [[Ladoga]]. Then followed a subsidence, which not
 only re-established communication through the Danish channels, but allowed
 the Baltic to become sufficiently salt for such forms as _Cardium edule_
 and _Littorina littorea_. At this time the Gulf of Bothnia must have
@@ -92,7 +92,7 @@ Dr R. Sieger has traced a series of isobasic lines, or lines of equal rate
 of elevation, for portions of Sweden and Finland; these indicate that the
 movement is now almost _nil_ along the axial lines of the Baltic and the
 Gulf of Finland, but increases in amplitude northwards to the Gulf of
-Bothnia and in the direction of the main ridge of the _massif_ of southern
+Bothnia and in the direction of the main ridge of the _[[Massif|massif]]_ of southern
 Sweden. At Stockholm the rate of elevation is approximately 0.47 metre (=
 1.54 ft.) in a century.
 
@@ -110,7 +110,7 @@ movements. Beyond the Oder the coast-line is unbroken as far as the Gulf of
 Danzig. It is then cut into by the estuaries of the Vistula, the Pregel and
 the Memel. Here the westerly winds have full play, and the coast is rimmed
 by a continuous line of dunes, which cut off the two great lagoons of the
-_Frisches Haff_ and _Kurisches Haff_ by sandspits or _Nehrungen_.
+_Frisches Haff_ and _[[Kurisches Haff]]_ by sandspits or _Nehrungen_.
 
 The drainage area of the Baltic is relatively large. According to the
 measurements of Sir J. Murray it extends to 461,450 sq. sea m. ( = 611,700
@@ -124,7 +124,7 @@ drainage-system of Sweden and western Finland, are a remarkable feature.
 Levellings from Swinemünde show that the mean level of the surface of the
 Baltic at that point is 0.093 metres (= .305 ft.) below the surface of the
 North Sea at Amsterdam, and 0.066 metres ( = .216 ft.) below its level at
-Ostend. A line of levels from Swinemünde through Eger to the Adriatic
+Ostend. A line of levels from Swinemünde through [[Eger]] to the Adriatic
 showed the mean level of the surface of the Baltic to be 0.499 metres (1.6
 ft.) above that of the Adriatic Sea. The mean level of the surface of the
 Baltic rises about 0.5 metres (1.6 ft.) from the coast of Holstein to
@@ -135,7 +135,7 @@ irregular, often dangerous to navigation. Destructive waves, probably
 caused by distant earthquakes, called _Seebaren_ (cf. English "bores") have
 been recorded.
 
-The range of the tides is about one foot at Copenhagen; within the Baltic
+The range of the tides is about one foot at [[Copenhagen]]; within the Baltic
 proper ordinary tides are scarcely perceptible. There is, however, a
 distinctly marked annual rise and fall due to meteorological influences
 having a mean range of about 11.4 cm. (0.37 ft.), at Travemünde, and 13.9
@@ -203,7 +203,7 @@ always composed of water derived from the same part or the same depth of
 the North Atlantic; this water is, as a rule, deficient in oxygen. The
 "North Sea" water, of 34 to 35 _pro mille_ salinity, does not appear at the
 surface in the Skagerrak, except as a strip along part of the coast of
-Jutland, but it is always found as an undercurrent overlying the oceanic
+[[Jutland]], but it is always found as an undercurrent overlying the oceanic
 water. It enters into all the deep coast channels, and into the Christiania
 fjord, but it is not always found in the deep channels of the Kattegat. The
 principal time of inflow of North Sea water is during spring and summer.
@@ -235,23 +235,23 @@ days in the year; but navigation is rendered possible throughout the winter
 by the use of ice-breakers.
 
 See references to different parts of the subject in the standard books of
-A. Penck, A. de Lapparent, E. Suess and others. Also Credner, _Die
+A. Penck, A. de Lapparent, E. Suess and others. Also [[Credner]], _Die
 Entstehung der Ostsee_ (Leipzig, 1895); G. de Geer, _Om Skandinaviens
 nivåforändringar under quartärperioden_ (Stockholm, 1888); R. Sieger,
 _Seeenschwankungen und Strandverschiebungen in Skandinavien_ (Berlin,
 1893); O. Pettersson, "Review of Swedish Hydrographic Research," _Scottish
 Geographical Magazine_ (1894); N. Ekholm, _Om klimatets ändringar i
 geologisk och historisk tid. Ymer_ (Stockholm, 1899); _Publications of the
-International Council for the Study of the Sea_ (Copenhagen, since 1902).
+[[International]] Council for the Study of the Sea_ (Copenhagen, since 1902).
 
 (H. N. D.)
 
-[v.03 p.0287] BALTIMORE, GEORGE CALVERT, 1ST BARON (_c._ 1580-1632),
+[v.03 p.0287] BALTIMORE, GEORGE [[Calvert|CALVERT]], 1ST BARON (_c._ 1580-1632),
 English statesman, son of Leonard Calvert, and Alice, daughter of John
-Crosland of Crosland, was born at Kipling in Yorkshire and educated at
+Crosland of Crosland, was born at [[Kipling]] in Yorkshire and educated at
 Trinity College, Oxford. After travelling on the continent, he entered the
-public service as secretary to Robert Cecil, afterwards earl of Salisbury.
-In 1606 he was appointed clerk of the crown in Connaught and Clare, in 1608
+public service as secretary to Robert [[Cecil]], afterwards earl of Salisbury.
+In 1606 he was appointed clerk of the crown in Connaught and [[Clare]], in 1608
 a clerk of the council, and was returned to parliament for Bossiney in
 1609. He assisted James I. in his discourse against Vorstius, the Arminian
 theological professor of Leiden, and in 1613 took charge of the Spanish and
@@ -281,7 +281,7 @@ Hertfordshire, by whom he had six sons and five daughters. He wrote _Carmen
 funebre in D. Hen. Untonum_ (1596); _The Answer to Tom Tell-Troth ..._
 (1642) is also attributed to him, and Wood mentions Baltimore as having
 composed "something concerning Maryland." His letters are to be found in
-various publications, including Strafford's _Letters_, _Clarendon State
+various publications, including Strafford's _Letters_, _[[Clarendon]] State
 Papers_ and the _Calendars of State Papers_.
 
 BIBLIOGRAPHY.--_George and Cecilius Calvert_ by William Hand Browne (1890);

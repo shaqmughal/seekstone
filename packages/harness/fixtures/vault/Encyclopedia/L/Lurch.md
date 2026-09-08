@@ -13,9 +13,9 @@ which are obscure. The chief uses which survive are--(1) in the phrase
 of great difficulty; (2) a stagger, sudden leaning over, originally a
 nautical expression of a sudden "list" made by a ship; (3) the name of a
 dog, the "lurcher" used by poachers, properly a cross between a sheepdog
-or collie and a greyhound. In (1) "lurch" is the name of a game, of
+or collie and a greyhound. In (1) "lurch" is the name of a [[Game|game]], of
 which nothing is known (it is supposed to have resembled backgammon),
-and also of a state of the score in various games, in which the loser
+and also of a state of the score in various [[Games|games]], in which the loser
 either scores nothing or is beaten by very heavy points. In this sense
 the term is practically obsolete. It was taken from Fr. _lourche_,
 connected with many German forms, now only dialectical such as

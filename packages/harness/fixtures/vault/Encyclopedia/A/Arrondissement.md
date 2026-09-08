@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Arrondisse
 ARRONDISSEMENT (from _arrondir_, to make round), an administrative
 subdivision of a department in France. Dating nominally from 1800, the
 arrondissement was really a re-creation of the "district" of 1790. It
-comprises within itself the canton and the commune. It differs from the
+comprises within itself the canton and the [[Commune|commune]]. It differs from the
 department and from the commune in being merely an administrative
 division and not a complete legal personality with power to acquire and
 possess. The purposes for which it exists are, again, unlike those of
@@ -34,7 +34,7 @@ France is also subdivided, for purposes of defence, into five _maritime_
 divisions, termed arrondissements. Instituted originally under the
 Consulate, they were suppressed in 1815, but re-established again in
 1826. They are under the direction of maritime prefects, who, by a
-decree of 1875, must be vice-admirals in the navy.
+[[Decree|decree]] of 1875, must be vice-admirals in the navy.
 
 
 
@@ -45,7 +45,7 @@ the name of arrowroot. Properly the name should be restricted to the
 starch yielded by two or three species of _Maranta_ (nat. ord.
 Marantaceae), the chief of which is _M. arundinacea_; and when genuine
 or West Indian arrowroot is spoken of, it is understood that this is the
-variety meant. _Maranta arundinacea_ is probably a native of Guiana and
+variety meant. _Maranta arundinacea_ is probably a native of [[Guiana]] and
 western Brazil, but it has long been cultivated in the West Indian
 Islands, and has now spread to most tropical countries. The plant is a
 herbaceous perennial with a creeping root-stock which gives off fleshy
@@ -72,7 +72,7 @@ as the cuticle contains a resinous matter which imparts colour and a
 disagreeable flavour to the starch. German-silver palettes are used for
 skinning the deposited fecula, and shovels of the same metal for packing
 the dried fecula. The drying is effected in pans, covered with white
-gauze to exclude dust and insects."
+gauze to exclude [[Dust|dust]] and [[Insect|insects]]."
 
 [Illustration: FIG. 1. FIG. 2.
 
@@ -80,7 +80,7 @@ Arrowroot Plant (Maranta arundinacea).--Fig. 1, stem, leaves and
 flowers; fig. 2, tubers.]
 
 Arrowroot is distinguished by the granules agglomerating into small
-balls, by slightly crepitating when rubbed between the fingers, and by
+[[Ball|balls]], by slightly crepitating when rubbed between the [[Finger|fingers]], and by
 yielding with boiling water a fine, transparent, inodorous and
 pleasant-tasting jelly. In microscopic structure the granules present an
 ovoid form, marked with concentric lines very similar to potato-starch,
@@ -88,7 +88,7 @@ but readily distinguished by having a "hilum" marking at the thick
 extremity of the granule, while in potato-starch the same appearance
 occurs at the thin end (compare figs. 3 and 4 below). In addition to the
 West Indian supplies, arrowroot is found in the commerce of Brazil, the
-East Indies, Australia, Cape Colony and Natal.
+[[East Indies]], [[Australia]], Cape Colony and Natal.
 
 [Illustration: FIG. 3. FIG. 4. FIG. 5. FIG. 6. Starch Granules
 magnified.
@@ -100,12 +100,12 @@ magnified.
 
 The name "arrowroot" is derived from the use by the Mexican Indians of
 the juice of the fresh root as an application to wounds produced by
-poisoned arrows. Sir Hans Sloane refers to it in his _Catalogue of
+poisoned arrows. Sir Hans Sloane refers to it in his _[[Catalogue]] of
 Jamaica Plants_ (1696), and it is said to have been introduced into
-England by William Houston about 1732. It is grown as a stove-plant in
+England by William [[Houston]] about 1732. It is grown as a stove-plant in
 botanic gardens. The slender, much-branched stem is 5 or 6 ft. high, and
 bears numerous leaves with long, narrow sheaths and large spreading
-ovate blades, and a few short-stalked white flowers.
+ovate [[Blades|blades]], and a few short-stalked white flowers.
 
 _Tous-les-mois_, or Tulema arrowroot, also from the West Indies, is
 obtained from several species of _Canna_, a genus allied to _Maranta_,
@@ -114,14 +114,14 @@ readily distinguishable by their very large size (fig. 5). East Indian
 arrowroot is obtained from the root-stocks of several species of the
 genus _Curcuma_ (nat. ord. Zingiberaceae), chiefly _C. angustifolia_, a
 native of central India. Brazilian arrowroot is the starch of the
-cassava plant, a species of Manihot (fig. 6), which when agglutinated on
+[[Cassava|cassava]] plant, a species of Manihot (fig. 6), which when agglutinated on
 hot plates forms the tapioca of commerce. The cassava is cultivated in
 the East Indian Archipelago as well as in South America. _Tocca_, or
 _Otaheite_ arrowroot, is the produce of _Tacca pinnatifida_, the pia
 plant of the South Sea Islands. Portland arrowroot was formerly prepared
 on the Isle of Portland from the tubers of the common cuckoo-pint, _Arum
 maculatum_. Various other species of arum yield valuable food-starches
-in hot countries. Under the name of British arrowroot the farina of
+in hot countries. Under the name of British arrowroot the [[Farina|farina]] of
 potatoes is sometimes sold, and the French excel in the preparation of
 imitations of the more costly starches from this source. The chief use,
 however, of potato-farina as an edible starch is for adulterating other

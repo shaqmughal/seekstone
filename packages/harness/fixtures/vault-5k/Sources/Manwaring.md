@@ -11,7 +11,7 @@ MANWARING, ROBERT, English 18th-century furniture designer and cabinet
 maker. The dates of his birth and death are unknown. He was a
 contemporary and imitator of Chippendale, and not the least considerable
 of his rivals. He prided himself upon work which he described as
-"genteel," and his speciality was chairs. He manifests the same
+"genteel," and his speciality was chairs. He [[Manifest|manifests]] the same
 surprising variations of quality that are noticed in the work of nearly
 all the English cabinet-makers of the second half of the 18th century,
 and while his best had an undeniable elegance his worst was exceedingly
@@ -20,7 +20,7 @@ nearly identical with Chippendale's that it is difficult to suppose that
 the one did not copy from the other, and most of the designs of the
 greater man enjoyed priority of date. During a portion of his career
 Manwaring was a devotee of the Chinese taste; he likewise practised in
-the Gothic manner. He appears to have introduced the small bracket
+the [[Gothic]] manner. He appears to have introduced the small bracket
 between the front rail of the seat and the top of the chair leg, or at
 all events to have made such constant use of it that it has come to be
 regarded as characteristic of his work. Manwaring described certain of

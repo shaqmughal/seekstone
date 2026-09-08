@@ -9,8 +9,8 @@ ridge (styled Mount Inkerman after the event) between the Tchernaya and
 the Careenage Ravine, which latter marked the right of the siege-works
 directed against Sevastopol itself. Part of this ridge, called Home
 Ridge and culminating in a knoll, was occupied by the British, while
-farther to the south, facing the battleground of Balaklava, a corps
-under General Bosquet was posted to cover the rear of the besiegers
+farther to the south, facing the battleground of Balaklava, a [[Corps|corps]]
+under General [[Bosquet]] was posted to cover the rear of the besiegers
 against attacks from the direction of Traktir Bridge. The Russians
 arranged for a combined attack on the ridge above-mentioned by part of
 Menshikov's army (16,000) and a corps (19,000) that was to issue from
@@ -21,7 +21,7 @@ attack on the ridge was to be the signal for a general attack all along
 the line. It was apparently intended by Menshikov that the column from
 the field army should attack the position from the north, and that the
 Sevastopol column should advance along the west side of the Careenage
-Ravine. But he only appointed a commander to take charge of both columns
+Ravine. But he only appointed a [[Commander|commander]] to take charge of both columns
 at the last moment, and the want of a clear understanding as to what was
 to be done militated against success from the first. General Soimonov,
 with the Sevastopol column, after assembling his troops before dawn on
@@ -38,7 +38,7 @@ on the slopes west of the Careenage Ravine; and the Guards' brigade,
 French or British, were within 2 m. except another part of Sir George
 Brown's Light Division. A mist overhung the field and the hillsides were
 slippery with mud. Soimonov, with his whole force deployed in a normal
-attack formation (three lines of battalion columns covered by a few
+attack formation (three lines of [[Battalion|battalion]] columns covered by a few
 hundred skirmishers) pushed forward along the ridge (6 A.M.) without
 waiting for Pavlov or for Dannenberg, the officer appointed to command
 the whole force. Shell Hill, guarded only by a picquet, was seized at
@@ -95,9 +95,9 @@ soon ejected, and small British detachments reoccupied and held it,
 while the various Russian attacks flowed up and past it and ebbed back
 into the Quarry Ravine. Possession of the Sandbag Battery was far more
 fiercely contested. The right wing was defended by some 700 men of the
-2nd Division, who were reinforced by 1300 of the Guards. The line of
+2nd Division, who were reinforced by 1300 of the [[Guards]]. The line of
 defence adjacent to the battery looked downhill for about 300 yds.,
-giving a clear field of fire for the new Enfield rifle the English
+giving a clear field of fire for the new [[Enfield]] rifle the English
 carried; but a sharp break in the slope beyond that range gave the
 assailants plenty of "dead ground" on which to form up. For a time,
 therefore, the battle was a series of attacks, delivered with great

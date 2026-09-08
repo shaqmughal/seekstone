@@ -1,7 +1,7 @@
 # Hagenbeck
 
 HAGENBECK, CARL (1844-   ), wild-animal collector and dealer, was born
-at Hamburg in 1844. In 1848 his father purchased some seals and a Polar
+at [[Hamburg]] in 1844. In 1848 his father purchased some seals and a Polar
 bear brought to Hamburg by a whaler, and subsequently acquired many
 other wild animals. At the age of twenty-one Carl Hagenbeck was given
 the whole collection, and before long had greatly extended the business,

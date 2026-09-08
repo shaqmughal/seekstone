@@ -7,10 +7,10 @@ type: reference
 
 # Gloucester City
 
-GLOUCESTER CITY, a city of Camden county, New Jersey, U.S.A., on the
-Delaware river, opposite Philadelphia. Pop. (1890) 6564; (1900) 6840, of
+GLOUCESTER CITY, a city of Camden county, New [[Jersey]], U.S.A., on the
+[[Delaware]] river, opposite Philadelphia. Pop. (1890) 6564; (1900) 6840, of
 whom 1094 were foreign-born; (1905) 8055; (1910) 9462. The city is
-served by the West Jersey & Seashore and the Atlantic City railways, and
+served by the West Jersey & Seashore and the [[Atlantic City]] railways, and
 by ferry to Philadelphia, of which it is a residential suburb. Among its
 manufactures are incandescent gas-burners, rugs, cotton yarns, boats and
 drills. The municipality owns and operates the water works. It was near

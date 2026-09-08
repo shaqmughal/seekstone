@@ -1,10 +1,10 @@
 # Lenbach
 
-LENBACH, FRANZ VON (1836-1904), German painter, was born at
+LENBACH, [[Franz|FRANZ]] VON (1836-1904), German painter, was born at
 Schrobenhausen, in Bavaria, on the 13th of December 1836. His father was
 a mason, and the boy was intended to follow his father's trade or be a
 builder. With this view he was sent to school at Landsberg, and then to
-the polytechnic at Augsburg. But after seeing Hofner, the animal
+the polytechnic at [[Augsburg]]. But after seeing Hofner, the animal
 painter, executing some studies, he made various attempts at painting,
 which his father's orders interrupted. However, when he had seen the
 galleries of Augsburg and Munich, he finally obtained his father's

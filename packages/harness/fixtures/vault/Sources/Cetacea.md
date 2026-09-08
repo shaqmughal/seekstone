@@ -1,7 +1,7 @@
 # Cetacea
 
 CETACEA (from the Gr. [Greek: ketos], a whale), the name of the
-mammalian order represented by whales, dolphins, porpoises, &c. From
+mammalian order represented by whales, [[Dolphin|dolphins]], porpoises, &c. From
 their fish-like form, which is manifestly merely an adaptation to their
 purely aquatic life, these creatures are often regarded as fishes,
 although they are true mammals, with warm blood, and suckle their young.
@@ -13,7 +13,7 @@ is provided with a pair of lateral, pointed expansions of skin supported
 by fibrous tissue, called "flukes," forming a horizontal triangular
 propelling organ, notched behind in the middle line. The head is
 generally large, in some cases attaining more than one-third the entire
-length; and the mouth is wide, and bounded by stiff, immobile lips. The
+length; and the mouth is wide, and bounded by stiff, immobile [[Lip|lips]]. The
 fore-limbs are reduced to flattened paddles, encased in a continuous
 skin, showing no external sign of division, and without trace of nails.
 There are no signs of hind-limbs visible externally. The surface of the
@@ -24,11 +24,11 @@ Immediately beneath the skin is a thick layer of fat, held together by a
 mesh of tissue, constituting the "blubber," which retains the heat of
 the body. In nearly all species a compressed dorsal fin is present. The
 eye is small, and not provided with a true lacrymal apparatus. The
-external ear is a minute aperture in the skin situated at a short
+external [[Ear|ear]] is a minute [[Aperture|aperture]] in the skin situated at a short
 distance behind the eye. The nostrils open separately or by a single
 crescentic aperture, near the vertex of the head.
 
-  The bones generally are spongy in texture, the cavities being filled
+  The [[Bone|bones]] generally are spongy in texture, the cavities being filled
   with oil. In the vertebral column, the cervical region is short and
   immobile, and the vertebrae, always seven in number, are in many
   species more or less fused together into a solid mass. The odontoid
@@ -46,7 +46,7 @@ crescentic aperture, near the vertex of the head.
   and thus require a certain amount of mobility in the head and neck, we
   find all the cervical vertebrae much thicker and entirely separate
   from one another. Among the dolphin group the narwhal and the white
-  whale, or beluga, are distinguished from all other cetaceans by the
+  whale, or [[Beluga|beluga]], are distinguished from all other cetaceans by the
   great comparative length of their cervical vertebrae, all of which are
   completely free. In the case of the narwhal such an abnormal structure
   is easily accounted for, seeing that to use effectively the long tusk
@@ -54,17 +54,17 @@ crescentic aperture, near the vertex of the head.
   neck is absolutely essential. The beluga, too, which is believed to
   feed on large and active fishes, would likewise seem to require
   mobility in the same region in order to effect their capture. On the
-  other hand, the porpoise preys on herrings, pilchards and mackerel,
+  other hand, the porpoise preys on [[Herrings|herrings]], pilchards and [[Mackerel|mackerel]],
   which in their densely packed shoals must apparently fall an easy prey
   with but little exertion on the part of their captor, and we
   accordingly find all the neck-vertebrae very short, and at least six
   out of the seven coalesced into a solid immovable mass. None of the
   vertebrae are united to form a sacrum. The lumbar and caudal vertebrae
-  are numerous and large, and, as their arches are not connected by
+  are numerous and large, and, as their [[Arches|arches]] are not connected by
   articular processes (zygapophyses), they are capable of free motion in
   all directions. The caps, or epiphyses, at the end of the vertebral
   bodies are flattened disks, not uniting until after the animal has
-  attained its full dimensions. There are largely developed
+  attained its full [[Dimension|dimensions]]. There are largely developed
   chevron-bones on the under side of the tail, the presence of which
   indicates the distinction between caudal and lumbar vertebrae.
 
@@ -74,7 +74,7 @@ crescentic aperture, near the vertex of the head.
   vertex, completely excluding the parietals from the upper region; and
   the frontals are expanded laterally to form the roof of the orbits.
   The nasal aperture opens upwards, and has in front of it a more or
-  less horizontally prolonged beak, formed of the maxillae, premaxillae,
+  less horizontally prolonged [[Beak|beak]], formed of the maxillae, premaxillae,
   vomer, and mesethmoid cartilage, extending forwards to form the upper
   jaw or roof of the mouth.
 
@@ -84,7 +84,7 @@ crescentic aperture, near the vertex of the head.
   fibrous tissue interposed, allowing of scarcely any motion. The radius
   and ulna are distinct, and about equally developed, and much
   flattened, as are all the bones of the flippers. There are four, or
-  more commonly five, digits, and the number of the phalanges of the
+  more commonly five, [[Digit|digits]], and the number of the phalanges of the
   second and third always exceeds the normal number in mammals,
   sometimes considerably; they present the exceptional character of
   having epiphyses at both ends. The pelvis is represented by a pair of
@@ -132,7 +132,7 @@ crescentic aperture, near the vertex of the head.
   transversely placed horny plates, forming the "whalebone." Salivary
   glands are rudimentary or absent. The stomach is complex, and the
   intestine simple, and only in some species provided with a small
-  caecum. The liver is little fissured, and there is no gall-bladder.
+  caecum. The [[Liver|liver]] is little fissured, and there is no gall-bladder.
   The blood-vascular system is complicated by net-like expansions of
   both arteries and veins, or _retia mirabilia_, The larynx is of
   peculiar shape, the arytenoid cartilages and the epiglottis being
@@ -166,7 +166,7 @@ water taken in at the mouth. But the "spouting," or "blowing," of whales
 is nothing more than the ordinary act of expiration, which, taking place
 at longer intervals than land-animals, is performed with a greater
 emphasis. The moment the animal rises to the surface it forcibly expels
-from its lungs the air taken in at the last inspiration, which is
+from its [[Lung|lungs]] the air taken in at the last inspiration, which is
 charged with vapour in consequence of the respiratory changes. This
 rapidly condensing in the cold atmosphere in which the phenomenon is
 often observed, forms a column of steam or spray, which has been taken
@@ -207,13 +207,13 @@ below the surface of the water they must depend chiefly upon the sense
 of hearing. Probably this sense is so highly developed as to enable the
 animals, in the midst of the vibrations made by the screw-like movements
 of the tail, or flukes, to distinguish the sound (or the vibrations)
-made by the impact of water against rocks, even in a dead calm, and, in
+made by the impact of water against rocks, even in a dead [[Calm|calm]], and, in
 the case of piscivorous species, to recognize by the pulse in the water
 the presence of a shoal of fish. Failing this explanation, it is
 difficult to imagine how whales can find their way about in the
 semi-darkness, and avoid collisions with rocks and rock-bound coasts.
 
-  In the Christiania _Nyt Magazin for Naturvidenskaberne_, vol.
+  In the [[Christiania]] _Nyt Magazin for Naturvidenskaberne_, vol.
   xxxviii., Dr G. Guldberg has published some observations on the
   body-temperature of the Cetacea, in which he shows how extremely
   imperfect is our knowledge of this subject. As he remarks, it is a
@@ -265,15 +265,15 @@ per ton, while it is also asserted that L3000 per ton has been paid for
 two and a quarter tons at Aberdeen, although there seems to be some
 degree of doubt attaching to the statement. Soon after the middle of the
 last century, the price of this commodity was as low as L150 per ton,
-but, according to Mr Frank Buckland, it suddenly leapt up to L620 with
-the introduction of "crinoline" into ladies' costume, and it has
+but, according to Mr [[Frank]] Buckland, it suddenly leapt up to L620 with
+the introduction of "[[Crinoline|crinoline]]" into ladies' [[Costume|costume]], and it has
 apparently been on the rise ever since. Ambergris, which is very largely
 used in perfumery, is solely a product of the sperm-whale, and appears
 to be a kind of biliary calculus. It generally contains a number of the
 horny beaks of the cuttle-fishes and squids upon which these whales
 chiefly feed. Its market-price is subject to considerable variation, but
 from L3 to L4 per oz. is the usual average for samples of good quality.
-In 1898 a merchant in Mincing Lane was the owner of a lump of ambergris
+In 1898 a merchant in Mincing [[Lane]] was the owner of a lump of ambergris
 weighing 270 lb., which was sold in Paris for about 85 s. per oz., or
 L18,360.
 
@@ -309,14 +309,14 @@ L18,360.
   middle line. The plates are placed transversely to the long axis of
   the palate, with short intervals between them. Each plate or blade is
   somewhat triangular in form, with the base attached to the palate and
-  the apex hanging downwards. The outer edge of the blade is hard and
-  smooth, but the inner edge and apex fray out into long bristly fibres,
+  the apex [[Hanging|hanging]] downwards. The outer edge of the blade is hard and
+  smooth, but the inner edge and apex fray out into long bristly [[Fibres|fibres]],
   so that the roof of the whale's mouth looks as if covered with hair,
-  as described by Aristotle. At the inner edge of each principal blade
-  are two or three much smaller or subsidiary blades. The principal
+  as described by [[Aristotle]]. At the inner edge of each principal blade
+  are two or three much smaller or subsidiary [[Blades|blades]]. The principal
   blades are longest near the middle of the series, and gradually
   diminish towards the front and back of the mouth. The horny plates
-  grow from a fibrous and vascular matrix, which covers the palatal
+  grow from a fibrous and vascular [[Matrix|matrix]], which covers the palatal
   surface of the maxillae, and sends out plate-like processes, one of
   which penetrates the base of each blade. Moreover, the free edges of
   these processes are covered with long vascular thread-like papillae,
@@ -334,11 +334,11 @@ L18,360.
   blades are supported and bound together for a certain distance from
   their base, by a mass of less hardened epithelium, secreted by the
   surface of the palatal membrane or matrix of the whalebone in the
-  intervals of the plate-like processes. This is the "gum" of the
+  intervals of the plate-like processes. This is the "[[Gum|gum]]" of the
   whalers. Whalebone varies much in colour in different species; in some
-  it is almost jet black, in others slate colour, horn colour, yellow,
+  it is almost jet black, in others slate colour, [[Horn|horn]] colour, yellow,
   or even creamy-white. In some descriptions the blades are variegated
-  with longitudinal stripes of different hues. It differs also greatly
+  with longitudinal stripes of different [[Hue|hues]]. It differs also greatly
   in other respects, being short, thick, coarse, and stiff in some
   cases, and greatly elongated and highly elastic in those species in
   which it has attained its fullest development. Its function is to
@@ -354,13 +354,13 @@ L18,360.
   _Balaenopteridae_, whalebone-whales are best included in a single
   family group under the former name. The typical members of this family
   are the so-called right-whales, forming the genus _Balaena_, in which
-  there are no folds on the throat and chest, and no back-fin; while the
+  there are no [[Fold|folds]] on the throat and chest, and no back-fin; while the
   cervical vertebrae are fused into a single mass. The flippers are
   short and broad, with five digits; the head is very large and the
   whalebone very long and narrow, highly elastic and black; while the
   scapula is high, with a distinct coracoid and coronoid process. This
   genus contains the well-known Greenland right-whale (_B. mysticetus_)
-  of the Arctic seas, the whalebone and oil of which are so much valued
+  of the [[Arctic]] seas, the whalebone and oil of which are so much valued
   in commerce, and also other whales, distinguished by having the head
   somewhat smaller in proportion to the body, with shorter whalebone and
   a larger number of vertebrae. These inhabit the temperate seas of both
@@ -373,12 +373,12 @@ L18,360.
   of a single species, the black whale (_B. australis_). On the head
   these whales carry a peculiar structure which is known to whalers as
   the "bonnet." This is a large horny excrescence, worn into hollows
-  like a much-denuded piece of limestone rock, growing probably in the
+  like a much-denuded piece of [[Limestone|limestone]] rock, growing probably in the
   neighbourhood of the blow-hole. More than one theory has been
   suggested to account for its presence. One suggestion is that it
   indicates the descent of whales from rhinoceros-like mammals; another
   that this species of whale is in the habit of rubbing against rocks in
-  order to free itself from barnacles, and thus produces a kind of
+  order to free itself from [[Barnacle|barnacles]], and thus produces a kind of
   corn--although why on the nose alone is not stated. Dr W.G. Ridewood,
   however, considers that the structure is due to the fact that the
   horny layers which are produced all over the skin are not shed on this
@@ -436,7 +436,7 @@ L18,360.
 
   In the report on the zoology of the "Discovery" expedition, published
   in 1907 by the British Museum, E.A. Wilson describes a whale
-  frequenting the fringe of the Antarctic ice which indicates a new
+  frequenting the fringe of the Antarctic [[Ice|ice]] which indicates a new
   generic type. Mainly black in colour, these whales measure about 20 or
   30 ft. in length, and have a tall dorsal fin like that of a killer.
 
@@ -453,7 +453,7 @@ L18,360.
   plate of the frontal bone. Lacrymal bone either inseparable from the
   jugal, or, if distinct, large, and forming part of the roof of the
   orbit. Tympanic bone not welded with the periotic, which is usually
-  only attached to the rest of the skull by ligament. Two halves of the
+  only attached to the rest of the skull by [[Ligament|ligament]]. Two halves of the
   lower jaw nearly straight, expanded in height posteriorly, with a wide
   funnel-shaped aperture to the dental canal, and coming in contact in
   front by a flat surface of variable length, but constituting a
@@ -500,7 +500,7 @@ L18,360.
   bones thick and massive. Muzzle greatly elongated, broad at the base,
   and gradually tapering to the apex. Lower jaw exceedingly long and
   narrow, the symphysis being more than half the length. Vertebrae: C 7,
-  D 11, L 8, Ca 24; total 50. Atlas, or first vertebra, free; all the
+  D 11, L 8, Ca 24; total 50. [[Atlas]], or first vertebra, free; all the
   other cervical vertebrae united by their bodies and spines into a
   single mass. Eleventh pair of ribs rudimentary. Head about one-third
   the length of the body; very massive, high and truncated, and rather
@@ -543,7 +543,7 @@ L18,360.
   are rudimentary and concealed in the gum, except one, or rarely two,
   pairs which may be largely developed, especially in the male. There is
   a distinct lacrymal bone. Externally the mouth is produced into a
-  slender rostrum or beak, from above which the rounded eminence formed
+  slender rostrum or beak, from above which the rounded [[Eminence|eminence]] formed
   by a cushion of fat resting on the cranium in front of the blow-hole
   rises somewhat abruptly. The blow-hole is single, crescentic and
   median, as in the _Delphinidae_. Flippers small, ovate, with five
@@ -635,7 +635,7 @@ L18,360.
   be learned with regard to their characters and distribution. This
   group was abundant in the Pliocene age, as attested by the frequency
   with which the imperishable long, cylindrical rostrum of the skull, of
-  more than ivory denseness, is found among the rolled and waterworn
+  more than [[Ivory|ivory]] denseness, is found among the rolled and waterworn
   animal remains which compose the "bone-bed" at the base of the Red
   Crag of Suffolk.
 
@@ -655,7 +655,7 @@ L18,360.
   rest free and well developed. Apparently this whale has the power of
   thrusting its teeth up and down, exposing them to view when attacked.
 
-  [Illustration: FIG. 6.--The Susu, or Ganges Dolphin (_Platanista
+  [Illustration: FIG. 6.--The Susu, or [[Ganges]] Dolphin (_Platanista
   gangetica_).]
 
   In a family by themselves--the _Platinistidae_--are placed three
@@ -705,7 +705,7 @@ L18,360.
   preceding ones with the _Delphinidae_ (see DOLPHIN).
 
   The last family of existing cetaceans is the above-mentioned
-  _Delphinidae_, which includes the true dolphins, porpoises, grampuses
+  _Delphinidae_, which includes the true dolphins, porpoises, [[Grampus|grampuses]]
   and their relatives. As a rule there are numerous teeth in both jaws;
   and the pterygoid bones of the skull are short, thin and involuted to
   form with a process of the palate bone the outer wall of the
@@ -716,9 +716,9 @@ L18,360.
   without any sudden break, and becoming posteriorly continuous serially
   with the transverse processes of the lumbar vertebrae. Anterior ribs
   attached to the transverse process by the tubercle, and to the body of
-  the vertebra by the head; the latter attachment lost in the posterior
+  the vertebra by the head; the latter [[Attachment|attachment]] lost in the posterior
   ribs. Sternal ribs ossified. The blow-hole is transverse, crescentic,
-  with the horns of the crescent pointing forwards.
+  with the horns of the [[Crescent|crescent]] pointing forwards.
 
   First on the long list is the narwhal, _Monodon monoceros_, in which,
   apart from some irregular rudimentary teeth, the dentition is reduced
@@ -749,7 +749,7 @@ L18,360.
   truncated, separated by intervals considerably wider than the diameter
   of the tooth, and implanted obliquely, the crowns inclining forwards
   especially in the upper jaw. Skull rather narrow and elongated,
-  depressed. Premaxillae convex in front of the nostrils. Rostrum about
+  depressed. Premaxillae [[Convex|convex]] in front of the nostrils. Rostrum about
   equal in length to the cranial portion of the skull, triangular, broad
   at the base, and gradually contracting towards the apex, where it is
   somewhat curved downwards. Vertebrae: C 7, D 11, L 9, Ca 23; total 50.
@@ -782,7 +782,7 @@ L18,360.
 
   The porpoise, which is so common in British waters and the Atlantic,
   seldom enters the Mediterranean, and apparently never resides there.
-  There is, however, a porpoise in the Black Sea, which, according to Dr
+  There is, however, a porpoise in the [[Black Sea]], which, according to Dr
   O. Abel, is entitled to rank as a distinct species, with the name of
   _Phocaena relicta_. This Black Sea porpoise is readily distinguished
   from the Atlantic species by the contour of the profile of the head,
@@ -803,7 +803,7 @@ L18,360.
   larger than those of the ordinary porpoise. (See PORPOISE.)
 
   [Illustration: FIG. 9.--Beluga or White-Whale (_Delphinapterus
-  leucas_). From a specimen taken in the river St Lawrence and exhibited
+  leucas_). From a specimen taken in the river St [[Lawrence]] and exhibited
   in London, 1877.]
 
   Next comes the Indo-Malay genus _Orcella_, in which the 12/12 to
@@ -812,10 +812,10 @@ L18,360.
   high. Rostrum nearly equal in length to the cranial portion of the
   skull, tapering. Flippers of moderate size, not elongated, but
   somewhat pointed, with all the bones of the digits broader than long,
-  except the first phalanges of the index and third fingers. Head
+  except the first phalanges of the [[Index|index]] and third [[Finger|fingers]]. Head
   globular in front. Dorsal fin rather small, placed behind the middle
   of the body. Two species, both of small size--_O. brevirostris_, from
-  the Bay of Bengal, and _O. fluminalis_, from the Irrawaddy river, from
+  the Bay of [[Bengal]], and _O. fluminalis_, from the Irrawaddy river, from
   300 to 900 m. from the sea.
 
   In the grampus, or killer, _Orca gladiator_ (or _O. orca_) the teeth
@@ -838,7 +838,7 @@ L18,360.
   The lesser killer or black killer, _Pseudorca crassidens_, has its
   8-12/8-12 teeth confined to the anterior half of the rostrum and
   corresponding part of the lower jaw; they are small, conical, curved
-  and sharp-pointed when unworn, but sometimes deciduous in old age.
+  and sharp-pointed when unworn, but sometimes [[Deciduous|deciduous]] in old age.
   Skull broad and depressed; with the rostrum and cranial portions about
   equal in length. Upper surface of rostrum broad and flat. Premaxillae
   concave in front of the nostrils, as wide at the middle of the rostrum
@@ -876,7 +876,7 @@ L18,360.
   variability of colour. It has been found, though rarely, in the North
   Atlantic and Mediterranean.
 
-  The common dolphin (_Delphinus delphis_) is the typical representative
+  The common dolphin (_Delphinus [[Delphi|delphis]]_) is the typical representative
   of a large group of relatively small species, some of which are wholly
   marine, while others are more or less completely fluviatile. They are
   divided into a number of genera, such as _Prodelphinus_, _Steno_,
@@ -921,7 +921,7 @@ L18,360.
   than their modern representatives, while others indicate apparently a
   transition towards the still more primitive zeuglodonts, which, as
   will be shown later, are themselves derived from the creodont
-  Carnivora. In the Pliocene deposits of Belgium and England are
+  Carnivora. In the Pliocene deposits of [[Belgium]] and England are
   preserved the teeth and other remains of a number of cetaceans, such
   as _Physodon_, _Encetus_, _Dinoziphius_, _Hoplocetus_, _Balaenodon_
   and _Scaldicetus_, more or less nearly related to the sperm-whale, but
@@ -929,8 +929,8 @@ L18,360.
   of this group from the Tertiary deposits of Patagonia, at first
   referred to _Physodon_, but subsequently to _Scaldicetus_, has a full
   series of enamelled teeth in the upper jaw; and it is probable that
-  the same was the case in other forms. This entails either a
-  modification of the definition of the _Physeteridae_ as given above,
+  the same was the case in other forms. This [[Entail|entails]] either a
+  modification of the [[Definition|definition]] of the _Physeteridae_ as given above,
   or the creation of a separate family for these primitive sperm-whales.
   In other cases, however, as in the Miocene _Prophyseter_ and
   _Placoziphius_, the anterior portion or the whole of the upper jaw had
@@ -963,12 +963,12 @@ L18,360.
   that the formula is better represented as i. 3/3, c. 1/1, p. (8 or
   9)/9, m. 3/2; the teeth reckoned as molars corresponding to those of
   the creodont Carnivora. The single-rooted cheek-teeth are regarded as
-  due, not to the division of double-rooted ones, but to the fusion of
+  due, not to the division of double-rooted ones, but to the [[Fusion|fusion]] of
   the two roots of teeth of the latter type. In _Squalodon_ the nasal
   bones were of the modern nodular type, but in the Miocene Patagonian
   _Prosqualodon_ they partially covered the nasal chamber.
 
-  At present there is a gap between the most primitive squalodonts and
+  At present there is a [[Gap|gap]] between the most primitive squalodonts and
   the Eocene zeuglodonts (_Zeuglodontidae_), which are regarded by
   Messrs Max Weber, O. Abel and C.W. Andrews as the direct forerunners
   of the modern-toothed whales, forming the suborder _Archaeoceti_. It
@@ -989,7 +989,7 @@ L18,360.
   become single-rooted, as in the squalodonts. The probable transitional
   form between the latter and the zeuglodonts is the small
   _Microzeuglodon caucasicus_ described by the present writer, from the
-  Caucasus. As regards the origin of the zeuglodonts themselves, remains
+  [[Caucasus]]. As regards the origin of the zeuglodonts themselves, remains
   discovered in the Eocene formations of Egypt indicate a practically
   complete transition, so far at least as dental characters are
   concerned, from these whale-like creatures to the creodont Carnivora.
@@ -1003,10 +1003,10 @@ L18,360.
   the somewhat later _Prozeuglodon_ the skull is likewise essentially of
   the zeuglodont type, although the nostrils have shifted a little more
   backwards; as regards the cheek-teeth, which have acquired serrated
-  crowns, the premolars at any rate retain the inner buttress supported
+  crowns, the premolars at any rate retain the inner [[Buttress|buttress]] supported
   by a distinct third root, so that they are precisely intermediate
   between _Protocetus_ and _Zeuglodon_. Yet another connecting form is
-  _Eocetus_, a very large animal from nearly the same horizon as
+  _Eocetus_, a very large animal from nearly the same [[Horizon|horizon]] as
   _Prozeuglodon_; its skull approaching that of _Zeuglodon_ as regards
   the backward position of the nostrils, although the cheek-teeth are of
   the creodont type, having inner, or third, roots. It is noteworthy
@@ -1020,23 +1020,23 @@ L18,360.
   zeuglodonts were provided with a bony armour does not appear to be
   supported by recent discoveries.
 
-  AUTHORITIES.--The above article is based on that by Sir W.H. Flower in
+  AUTHORITIES.--The above article is based on that by Sir W.H. [[Flower]] in
   the 9th edition of this work. See also W.H. Flower, "On the Characters
   and Divisions of the Family Delphinidae," _Proc. Zool. Soc._ (London,
   1883); F.W. True, "Review of the Family Delphinidae," _Proc. U.S.
   Museum_, No. 36 (1889); R. Lydekker, "Cetacean Skulls from Patagonia,"
-  _Palaeontol. Argentina_, vol. ii: _An. Mus. La Plata_ (1893); W.
-  Dames, "Uber Zeuglodonten aus Agypten," _Palaontol. Abhandlungen_,
+  _Palaeontol. [[Argentina]]_, vol. ii: _An. Mus. [[La Plata]]_ (1893); W.
+  [[Dame|Dames]], "Uber Zeuglodonten aus Agypten," _Palaontol. Abhandlungen_,
   vol. i. (1894); F.E. Beddard, _A Book of Whales_ (London, 1900); O.
   Abel, "Untersuchungen uber die fossilen Platanistiden des Wiener
   Beckens," _Denks. k. Akad. Wiss. Wien._, vol. lxviii. (1899); "Les
-  Dauphins longirostres du Bolerien," _Mem. musee d'hist. nat. belgique_
+  [[Dauphin|Dauphins]] longirostres du Bolerien," _Mem. musee d'hist. nat. belgique_
   (1901 and 1902); "Die phylogenetische Entwickelung des
   Cetaceengebisses und die systematische Stellung der Physeteriden,"
-  _Verhandl. deutsch. zool. Gesellschaft_ (1905); E. Fraas, "Neue
+  _Verhandl. deutsch. zool. Gesellschaft_ (1905); E. [[Fraas]], "Neue
   Zeuglodonten aus dem unteren Mittelocean vom Mokattam bei Cairo,"
   _Geol. und palaontol. Abhandl._ ser. 2, vol. vi. (1904); C.W.
-  Andrews, "Descriptive Catalogue of the Tertiary Vertebrata of the
+  Andrews, "Descriptive [[Catalogue]] of the Tertiary Vertebrata of the
   Fayum" (British Museum, 1906).     (R. L.*)
 
 ## References

@@ -16,7 +16,7 @@ raised on piles 2 or 3 ft. above the ground. The neighbourhood is
 unhealthy and unsuited for agriculture, so that almost all food-stuffs
 must be imported, and the cost of living is high. Greytown has suffered
 severely from the accumulation of sand in its once fine harbour. Between
-1832 and 1848 Point Arenas, the seaward end of the peninsula, was
+1832 and 1848 Point [[Arena|Arenas]], the seaward end of the peninsula, was
 enlarged by a sandbank more than 1 m. long; between 1850 and 1875 the
 depth of water over the bar decreased from about 25 ft. to 5 ft., and
 the entrance channel, which had been nearly 1/2 m. wide, was almost
@@ -35,7 +35,7 @@ royal charter, and new defences were erected in 1821. In virtue of the
 protectorate claimed by Great Britain over the Mosquito Coast (q.v.),
 the Mosquito Indians, aided by a British force, seized the town in 1848
 and occupied it until 1860, when Great Britain ceded its protectorate to
-Nicaragua by the treaty of Managua. This treaty secured religious
+Nicaragua by the treaty of [[Managua]]. This treaty secured religious
 liberty and trial by jury for all civil and criminal charges in
 Greytown; its seventh article declared the port free, but was never
 enforced.

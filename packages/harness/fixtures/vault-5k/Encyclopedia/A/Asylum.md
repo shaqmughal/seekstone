@@ -29,7 +29,7 @@ the classes of persons who claimed the rights of asylum were slaves who
 had been maltreated by their masters, soldiers defeated and pursued by
 the enemy, and criminals who feared a trial or who had escaped before
 sentence was passed. (See treatises _De Asylis Graecis_, by Forster,
-1847; Jaenisch, 1868; Barth, 1888.)
+1847; Jaenisch, 1868; [[Barth]], 1888.)
 
 With the establishment of Christianity, the custom of asylum or
 sanctuary (q.v.) became attached to the church or churchyard. In modern

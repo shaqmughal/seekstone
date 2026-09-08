@@ -33,7 +33,7 @@ Lobositz, he led the right wing of the Prussian infantry. In 1757 he was
 present, and distinguished himself, at Prague, and he served also in the
 campaign of Rossbach. Shortly after this he was appointed to command the
 allied forces which were being organized for the war in western Germany.
-He found this army dejected by a reverse and a capitulation, yet within a
+He found this army dejected by a reverse and a [[Capitulation|capitulation]], yet within a
 week of his taking up the command he assumed the offensive, and thus
 began the career of victory which made his European reputation as a
 soldier. His conduct of the five campaigns which followed (see SEVEN
@@ -68,13 +68,13 @@ those who had suffered by the Seven Years' War, devoting to this purpose
 most of the small income he received from his various offices and the
 rewards given to him by the allied princes. The estrangement of Frederick
 and Ferdinand in 1766 led to the duke's retirement from Prussian service,
-but there was no open breach between the old friends, and Ferdinand
+but there was no open [[Breach|breach]] between the old friends, and Ferdinand
 visited the king in 1772, 1777, 1779 and 1782. After 1766 he passed the
 remainder of his life at his castle of Veschelde, where he occupied
 himself in building and other improvements, and became a patron of
 learning and art, and a great benefactor of the poor. He died on the 3rd
 of July 1792. The merits, civil and military, of the prince were
-recognized by memorials not only in Prussia and Hanover, but also in
+recognized by memorials not only in Prussia and [[Hanover]], but also in
 Denmark, the states of western Germany and England. The Prussian
 memorials include an equestrian statue at Berlin (1863).
 

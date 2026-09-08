@@ -3,7 +3,7 @@
 JEAN DE MEUN, or DE MEUNG (c. 1250-c. 1305), whose original name was
 Jean Clopinel or Chopinel, was born at Meun-sur-Loire. Tradition asserts
 that he studied at the university of Paris. At any rate he was, like his
-contemporary, Rutebeuf, a defender of Guillaume de Saint-Amour and a
+contemporary, Rutebeuf, a defender of [[Guillaume]] de Saint-Amour and a
 bitter critic of the mendicant orders. Most of his life seems to have
 been spent in Paris, where he possessed, in the Rue Saint-Jacques, a
 house with a tower, court and garden, which was described in 1305 as the
@@ -11,10 +11,10 @@ house of the late Jean de Meung, and was then bestowed by a certain Adam
 d'Andely on the Dominicans. Jean de Meun says that in his youth he
 composed songs that were sung in every public place and school in
 France. In the enumeration of his own works he places first his
-continuation of the _Roman de la rose_ of Guillaume de Lorris (q.v.).
+continuation of the _Roman de la rose_ of [[Guillaume De Lorris|Guillaume de Lorris]] (q.v.).
 The date of this second part is generally fixed between 1268 and 1285
-by a reference in the poem to the death of Manfred and Conradin,
-executed (1268) by order of Charles of Anjou (d. 1285) who is described
+by a reference in the poem to the death of [[Manfred]] and Conradin,
+executed (1268) by order of Charles of [[Anjou]] (d. 1285) who is described
 as the present king of Sicily. M. F. Guillon (_Jean Clopinel_, 1903),
 however, considering the poem primarily as a political satire, places it
 in the last five years of the 13th century. Jean de Meun doubtless
@@ -55,7 +55,7 @@ d'amour_; but it also found energetic defenders.
   are lost--_De spirituelle amitié_ from the _De spirituali amicitia_ of
   Aelred of Rievaulx (d. 1166), and the _Livre des merveilles
   d'Hirlande_ from the _Topographia Hibernica_, or _De Mirabilibus
-  Hiberniae_ of Giraldus Cambrensis (Giraud de Barry). His last poems
+  Hiberniae_ of [[Giraldus Cambrensis]] ([[Giraud]] de [[Barry]]). His last poems
   are doubtless his _Testament_ and _Codicille_. The _Testament_ is
   written in quatrains in monorime, and contains advice to the different
   classes of the community.

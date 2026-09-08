@@ -1,6 +1,6 @@
 # Court De Gebelin
 
-COURT DE GEBELIN, ANTOINE (1728-1784), French scholar, son of Antoine
+COURT DE GEBELIN, [[Antoine|ANTOINE]] (1728-1784), French scholar, son of Antoine
 Court (q.v.), was born at Nimes in 1728. He received a good education,
 and became, like his father, a pastor of the Reformed Church. This
 office, however, he soon relinquished, to devote himself entirely to
@@ -20,11 +20,11 @@ cause of religious tolerance. In 1760 he published a work entitled _Les
 Toulousaines_, advocating the rights of the Protestants; and he
 afterwards established at Paris an agency for collecting information as
 to their sufferings, and for exciting general interest in their cause.
-He co-operated with Franklin and others in the periodical work entitled
+He co-operated with [[Franklin]] and others in the periodical work entitled
 _Affaires de l'Angleterre et de l'Amerique_ (1776, sqq.), which was
 devoted to the support of American independence. He was also a supporter
 of the principles of the economists, and Quesnay called him his
-well-beloved disciple. In the last year of his life he became acquainted
+well-beloved [[Disciple|disciple]]. In the last year of his life he became acquainted
 with Mesmer, and published a _Lettre sur le magnetisme animal_. He was
 imposed upon by speculators in whom he placed confidence, and was
 reduced to destitution by the failure of a scheme in which they engaged

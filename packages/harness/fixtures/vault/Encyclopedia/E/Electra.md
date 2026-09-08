@@ -1,20 +1,20 @@
 # Electra
 
-ELECTRA ([Greek: Elektra]), "the bright one," in Greek mythology. (1)
-One of the seven Pleiades, daughter of Atlas and Pleïone. She is closely
+ELECTRA ([Greek: Elektra]), "the [[Bright|bright]] one," in Greek mythology. (1)
+One of the seven Pleiades, daughter of [[Atlas]] and Pleïone. She is closely
 connected with the old constellation worship and the religion of
-Samothrace, the chief seat of the Cabeiri (q.v.), where she was
-generally supposed to dwell. By Zeus she was the mother of Dardanus,
+Samothrace, the chief seat of the [[Cabeiri]] (q.v.), where she was
+generally supposed to dwell. By Zeus she was the mother of [[Dardanus]],
 Iasion (or Eëtion), and Harmonia; but in the Italian tradition, which
 represented Italy as the original home of the Trojans, Dardanus was her
 son by a king of Italy named Corythus. After her amour with Zeus,
 Electra fled to the Palladium as a suppliant, but Athena, enraged that
 it had been touched by one who was no longer a maiden, flung Electra and
-the image from heaven to earth, where it was found by Ilus, and taken by
+the [[Image|image]] from heaven to earth, where it was found by Ilus, and taken by
 him to Ilium; according to another tradition, Electra herself took it to
 Ilium, and gave it to her son Dardanus (Schol. Eurip. _Phoen._ 1136). In
 her grief at the destruction of the city she plucked out her hair and
-was changed into a comet; in another version Electra and her six sisters
+was changed into a [[Comet|comet]]; in another version Electra and her six sisters
 had been placed among the stars as the Pleiades, and the star which she
 represented lost its brilliancy after the fall of Troy. Electra's
 connexion with Samothrace (where she was also called Electryone and
@@ -23,11 +23,11 @@ reputed daughter Harmonia by Cadmus, and by the fact that, according to
 Athenicon (the author of a work on Samothrace quoted by the scholiast on
 Apollonius Rhodius i. 917), the Cabeiri were Dardanus and Iasion. The
 gate Electra at Thebes and the fabulous island Electris were said to
-have been called after her (Apollodorus iii. 10. 12; Servius on _Aen._
+have been called after her ([[Apollodorus]] iii. 10. 12; Servius on _Aen._
 iii. 167, vii. 207, x. 272, _Georg._ i. 138).
 
 (2) Daughter of Agamemnon and Clytaemnestra, sister of Orestes and
-Iphigeneia. She does not appear in Homer, although according to Xanthus
+[[Iphigeneia]]. She does not appear in [[Homer]], although according to Xanthus
 (regarded by some as a fictitious personage), to whom Stesichorus was
 indebted for much in his _Oresteia_, she was identical with the Homeric
 Laodice, and was called Electra because she remained so long unmarried
@@ -40,22 +40,22 @@ who had him brought up with his own son Pylades. Electra, cruelly
 ill-treated by Clytaemnestra and her paramour, never loses hope that her
 brother will return to avenge his father. When grown up, Orestes, in
 response to frequent messages from his sister, secretly repairs with
-Pylades to Argos, where he pretends to be a messenger from Strophius
+Pylades to [[Argos]], where he pretends to be a messenger from Strophius
 bringing the news of the death of Orestes. Being admitted to the palace,
 he slays both Aegisthus and Clytaemnestra. According to another story
 (Hyginus, _Fab._ 122), Electra, having received a false report that
 Orestes and Pylades had been sacrificed to Artemis in Tauris, went to
-consult the oracle at Delphi. In the meantime Aletes, the son of
+consult the oracle at [[Delphi]]. In the meantime Aletes, the son of
 Aegisthus, seized the throne of Mycenae. Her arrival at Delphi coincided
 with that of Orestes and Iphigeneia. The same messenger, who had already
 communicated the false report of the death of Orestes, informed her that
 he had been slain by Iphigeneia. Electra in her rage seized a burning
-brand from the altar, intending to blind her sister; but at the critical
+[[Brand|brand]] from the altar, intending to blind her sister; but at the critical
 moment Orestes appeared, recognition took place, and the brother and
 sister returned to Mycenae. Aletes was slain by Orestes, and Electra
 became the wife of Pylades. The story of Electra is the subject of the
 _Choëphori_ of Aeschylus, the _Electra_ of Sophocles and the _Electra_
-of Euripides. It is in the Sophoclean play that Electra is most
+of [[Euripides]]. It is in the Sophoclean play that Electra is most
 prominent.
 
   There are many variations in the treatment of the legend, for which,
@@ -66,7 +66,7 @@ prominent.
 
 
 
-ELECTRICAL (or ELECTROSTATIC) MACHINE, a machine operating by manual or
+ELECTRICAL (or ELECTROSTATIC) [[Machine|MACHINE]], a machine operating by [[Manual|manual]] or
 other power for transforming mechanical work into electric energy in the
 form of electrostatic charges of opposite sign delivered to separate
 conductors. Electrostatic machines are of two kinds: (1) Frictional, and
@@ -75,10 +75,10 @@ conductors. Electrostatic machines are of two kinds: (1) Frictional, and
 [Illustration: FIG. 1.--Ramsden's electrical machine.]
 
 _Frictional Machines._--A primitive form of frictional electrical
-machine was constructed about 1663 by Otto von Guericke (1602-1686). It
+machine was constructed about 1663 by Otto von [[Guericke]] (1602-1686). It
 consisted of a globe of sulphur fixed on an axis and rotated by a winch,
-and it was electrically excited by the friction of warm hands held
-against it. Sir Isaac Newton appears to have been the first to use a
+and it was electrically excited by the [[Friction|friction]] of warm hands held
+against it. Sir [[Isaac]] Newton appears to have been the first to use a
 glass globe instead of sulphur (_Optics_, 8th Query). F. Hawksbee in
 1709 also used a revolving glass globe. A metal chain resting on the
 globe served to collect the charge. Later G.M. Bose (1710-1761), of
@@ -90,12 +90,12 @@ glass cylinder in place of a sphere. Jesse Ramsden (1735-1800) in 1768
 constructed his well-known form of plate electrical machine (fig. 1). A
 glass plate fixed to a wooden or metal shaft is rotated by a winch. It
 passes between two rubbers made of leather, and is partly covered with
-two silk aprons which extend over quadrants of its surface. Just below
+two silk [[Apron|aprons]] which extend over quadrants of its surface. Just below
 the places where the aprons terminate, the glass is embraced by two
 insulated metal forks having the sharp points projecting towards the
 glass, but not quite touching it. The glass is excited positively by
 friction with the rubbers, and the charge is drawn off by the action of
-the points which, when acted upon inductively, discharge negative
+the points which, when acted upon inductively, [[Discharge|discharge]] negative
 electricity against it. The insulated conductor to which the points are
 connected therefore becomes positively electrified. The cushions must be
 connected to earth to remove the negative electricity which accumulates
@@ -105,7 +105,7 @@ consisting of one part of zinc, one of tin and two of mercury. The
 cushions were greased and the amalgam in a state of powder spread over
 them. Edward Nairne's electrical machine (1787) consisted of a glass
 cylinder with two insulated conductors, called prime conductors, on
-glass legs placed near it. One of these carried the leather exacting
+glass [[Leg|legs]] placed near it. One of these carried the leather exacting
 cushions and the other the collecting metal points, a silk apron
 extending over the cylinder from the cushion almost to the points. The
 rubber was smeared with amalgam. The function of the apron is to prevent
@@ -119,15 +119,15 @@ the prime conductor carrying the cushion.
 
 _Influence Machines._--Frictional machines are, however, now quite
 superseded by the second class of instrument mentioned above, namely,
-influence machines. These operate by electrostatic induction and convert
+influence machines. These operate by electrostatic [[Induction|induction]] and convert
 mechanical work into electrostatic energy by the aid of a small initial
 charge which is continually being replenished or reinforced. The general
 principle of all the machines described below will be best understood by
-considering a simple ideal case. Imagine two Leyden jars with large
-brass knobs, A and B, to stand on the ground (fig. 2). Let one jar be
+considering a simple ideal case. Imagine two [[Leyden]] jars with large
+[[Brass|brass]] knobs, A and B, to stand on the ground (fig. 2). Let one jar be
 initially charged with positive electricity on its inner coating and the
 other with negative, and let both have their outsides connected to
-earth. Imagine two insulated balls A' and B' so held that A' is near A
+earth. Imagine two insulated [[Ball|balls]] A' and B' so held that A' is near A
 and B' is near B. Then the positive charge on A induces two charges on
 A', viz.: a negative on the side nearest and a positive on the side most
 removed. Likewise the negative charge on B induces a positive charge on
@@ -150,14 +150,14 @@ principle of accumulation resembling that of compound interest, they can
 be increased as above shown to any degree. If this series of operations
 be made to depend upon the continuous rotation of a winch or handle, the
 arrangement constitutes an electrostatic influence machine. The
-principle therefore somewhat resembles that of the self-exciting dynamo.
+principle therefore somewhat resembles that of the self-exciting [[Dynamo|dynamo]].
 
 
   Bennet's Doubler.
 
 The first suggestion for a machine of the above kind seems to have grown
 out of the invention of Volta's electrophorus. Abraham Bennet, the
-inventor of the gold leaf electroscope, described a doubler or machine
+inventor of the gold [[Leaf|leaf]] electroscope, described a doubler or machine
 for multiplying electric charges (_Phil. Trans._, 1787).
 
   The principle of this apparatus may be explained thus. Let A and C be
@@ -191,7 +191,7 @@ for multiplying electric charges (_Phil. Trans._, 1787).
 
   Nicholson's doubler.
 
-Erasmus Darwin, B. Wilson, G.C. Bohnenberger and J.C.E. Peclet devised
+Erasmus [[Darwin]], B. Wilson, G.C. Bohnenberger and J.C.E. Peclet devised
 various modifications of Bennet's instrument (see S.P. Thompson, "The
 Influence Machine from 1788 to 1888," _Journ. Soc. Tel. Eng._, 1888, 17,
 p. 569). Bennet's doubler appears to have given a suggestion to William
@@ -199,7 +199,7 @@ Nicholson (_Phil. Trans._, 1788, p. 403) of "an instrument which by
 turning a winch produced the two states of electricity without friction
 or communication with the earth." This "revolving doubler," according to
 the description of Professor S.P. Thompson (_loc. cit._), consists of
-two fixed plates of brass A and C (fig. 3), each two inches in diameter
+two fixed plates of brass A and C (fig. 3), each two [[Inch|inches]] in diameter
 and separately supported on insulating arms in the same plane, so that a
 third revolving plate B may pass very near them without touching. A
 brass ball D two inches in diameter is fixed on the end of the axis that
@@ -247,7 +247,7 @@ other. Nicholson thus described the operation of his machine:--
   as nearly to compensate ninety-nine parts of the opposite electricity
   in the revolving plate B, while the communication produced an opposite
   mutation in the electricity of the ball. A second rotation will, of
-  course, produce a proportional augmentation of these increased
+  course, produce a proportional [[Augmentation|augmentation]] of these increased
   quantities; and a continuance of turning will soon bring the
   intensities to their maximum, which is limited by an explosion between
   the plates" (_Phil. Trans._, 1788, p. 405).
@@ -262,13 +262,13 @@ which worked on the same principle. Bennet and Nicholson were followed
 by T. Cavallo, John Read, Bohnenberger, C.B. Désormes and J.N.P.
 Hachette and others in the invention of various forms of rotating
 doubler. A simple and typical form of doubler, devised in 1831 by G.
-Belli (fig. 4), consisted of two curved metal plates between which
+[[Belli]] (fig. 4), consisted of two curved metal plates between which
 revolved a pair of balls carried on an insulating stem. Following the
 nomenclature usual in connexion with dynamos we may speak of the
 conductors which carry the initial charges as the field plates, and of
 the moving conductors on which are induced the charges which are
-subsequently added to those on the field plates, as the carriers. The
-wire which connects two armature plates for a moment is the neutralizing
+subsequently added to those on the field plates, as the [[Carrier|carriers]]. The
+wire which connects two [[Armature|armature]] plates for a moment is the neutralizing
 conductor. The two curved metal plates constitute the field plates and
 must have original charges imparted to them of opposite sign. The
 rotating balls are the carriers, and are connected together for a moment
@@ -302,7 +302,7 @@ charges on the field plates were continually replenished and reinforced.
 Varley also constructed a multiple form of influence machine having six
 rotating disks, each having a number of carriers and rotating between
 field plates. With this apparatus he obtained sparks 6 in. long, the
-initial source of electrification being a single Daniell cell.
+initial source of electrification being a single [[Daniell]] cell.
 
 
   Toepler machine.
@@ -316,7 +316,7 @@ negatively electrified. The carriers which were touched under the
 influence of the positive field plate passed on and gave up a portion of
 their negative charge to increase that of the negative field plate; in
 the same way the carriers which were touched under the influence of the
-negative field plate sent a part of their charge to augment that of the
+negative field plate sent a part of their charge to [[Augment|augment]] that of the
 positive field plate. In this apparatus one of the charging rods
 communicated with one of the field plates, but the other with the
 neutralizing brush opposite to the other field plate. Hence one of the
@@ -338,7 +338,7 @@ was fixed another vertical disk of glass in which were cut two windows
 B, B. On the side of the fixed disk next the rotating disk were pasted
 two sectors of paper A, A, with short blunt points attached to them
 which projected out into the windows on the side away from the rotating
-disk. On the other side of the rotating disk were placed two metal combs
+disk. On the other side of the rotating disk were placed two metal [[Comb|combs]]
 C, C, which consisted of sharp points set in metal rods and were each
 connected to one of a pair of discharge balls E, D, the distance between
 which could be varied. To start the machine the balls were brought in
@@ -441,15 +441,15 @@ themselves and deliver a torrent of sparks between the discharge balls
 whenever the winch is turned. He also devised an alternating current
 electrical machine in which the discharge balls were alternately
 positive and negative. Large Wimshurst multiple plate influence machines
-are often used instead of induction coils for exciting Röntgen ray tubes
-in medical work. They give very steady illumination on fluorescent
+are often used instead of [[Induction Coil|induction coils]] for exciting Röntgen ray tubes
+in medical work. They give very steady [[Illumination|illumination]] on fluorescent
 screens.
 
 [Illustration: FIG. 8.--Action of the Wimshurst Machine.]
 
 In 1900 it was found by F. Tudsbury that if an influence machine is
 enclosed in a metallic chamber containing compressed air, or better,
-carbon dioxide, the insulating properties of compressed gases enable a
+[[Carbon|carbon]] dioxide, the insulating properties of compressed gases enable a
 greatly improved effect to be obtained owing to the diminution of the
 leakage across the plates and from the supports. Hence sparks can be
 obtained of more than double the length at ordinary atmospheric
@@ -466,9 +466,9 @@ atmosphere.
   n, n, Connecting springs or neutralizing brushes.]
 
 The action of Lord Kelvin's replenisher (fig. 9) used by him in
-connexion with his electrometers for maintaining their charge, closely
+connexion with his [[Electrometer|electrometers]] for maintaining their charge, closely
 resembles that of Belli's doubler and will be understood from fig. 9.
-Lord Kelvin also devised an influence machine, commonly called a "mouse
+Lord [[Kelvin]] also devised an influence machine, commonly called a "mouse
 mill," for electrifying the ink in connexion with his siphon recorder.
 It was an electrostatic and electromagnetic machine combined, driven by
 an electric current and producing in turn electrostatic charges of
@@ -488,12 +488,12 @@ of influence machines.
 
   BIBLIOGRAPHY.--In addition to S.P. Thompson's valuable paper on
   influence machines (to which this article is much indebted) and other
-  references given, see J. Clerk Maxwell, _Treatise on Electricity and
-  Magnetism_ (2nd ed., Oxford, 1881), vol. i. p. 294; J.D. Everett,
+  references given, see J. Clerk [[Maxwell]], _Treatise on Electricity and
+  Magnetism_ (2nd ed., Oxford, 1881), vol. i. p. 294; J.D. [[Everett]],
   _Electricity_ (expansion of part iii. of Deschanel's _Natural
   Philosophy_) (London, 1901), ch. iv. p. 20; A. Winkelmann, _Handbuch
   der Physik_ (Breslau, 1905), vol. iv. pp. 50-58 (contains a large
-  number of references to original papers); J. Gray, _Electrical
+  number of references to original papers); J. [[Gray]], _Electrical
   Influence Machines, their Development and Modern Forms_ (London,
   1903).     (J. A. F.)
 

@@ -4,7 +4,7 @@ HEYWOOD, JOHN (b. 1497), English dramatist and epigrammatist, is
 generally said to have been a native of North Mimms, near St Albans,
 Hertfordshire, though Bale says he was born in London. A letter from a
 John Heywood, who may fairly be identified with him, is dated from
-Malines in 1575, when he called himself an old man of seventy-eight,
+[[Malines]] in 1575, when he called himself an old man of seventy-eight,
 which would fix his birth in 1497. He was a chorister of the Chapel
 Royal, and is said to have been educated at Broadgates Hall (Pembroke
 College), Oxford. From 1521 onwards his name appears in the king's
@@ -13,9 +13,9 @@ virginals, and in 1538 he received forty shillings for "playing an
 interlude with his children" before the Princess Mary. He is said to
 have owed his introduction to her to Sir Thomas More, at whose seat at
 Gobions near St Albans he wrote his Epigrams, according to Henry
-Peacham. More took a keen interest in the drama, and is represented by
+Peacham. More took a keen interest in the [[Drama|drama]], and is represented by
 tradition as stepping on to the stage and taking an impromptu part in
-the dialogue. William Rastell, the printer of four of Heywood's plays,
+the [[Dialogue|dialogue]]. William Rastell, the printer of four of Heywood's plays,
 was the son of More's brother-in-law, John Rastell, who organized
 dramatic representations, and possibly wrote plays himself. Mr A. W.
 Pollard sees in Heywood's firm adherence to Catholicism and his free
@@ -25,7 +25,7 @@ skill in music and his inexhaustible wit made him a favourite both with
 Henry VIII. and Mary. Under Edward VI. he was accused of denying the
 king's supremacy over the church, and had to make a public recantation
 in 1554; but with the accession of Mary his prospects brightened. He
-made a Latin speech to her in St Paul's Churchyard at her coronation,
+made a Latin speech to her in St Paul's Churchyard at her [[Coronation|coronation]],
 and wrote a poem to celebrate her marriage. Shortly before her death she
 granted him the lease of a manor and lands in Yorkshire. When Elizabeth
 succeeded to the throne he fled to Malines, and is said to have returned
@@ -39,7 +39,7 @@ were very popular in their day. They represent ludicrous incidents of a
 homely kind in a style of the broadest farce, and approximate to the
 French dramatic renderings of the subjects of the _fabliaux_. The fun in
 them still survives in spite of the long arguments between the
-characters and what one of their editors calls his "humour of filth."
+characters and what one of their editors calls his "[[Humour|humour]] of filth."
 Heywood's name was actually attached to four interludes. _The Playe
 called the foure PP; a newe and a very mery interlude of a palmer, a
 pardoner, a potycary, a pedler_ (not dated) is a contest in lying,
@@ -68,7 +68,7 @@ the Preest_ (printed 1533) is the best constructed of all his pieces.
 Tyb and Syr Jhan eat the "Pye" which is the central "property" of the
 piece, while Johan Johan is made to chafe wax at the fire to stop a hole
 in a pail. This incident occurs in a French _Farce nouvelle tres bonne
-et fort joyeuse de Pernet qui va au vin_. Heywood has sometimes been
+et fort [[Joyeuse|joyeuse]] de Pernet qui va au vin_. Heywood has sometimes been
 credited with the authorship of the dialogue of _Gentylnes and Nobylyte_
 printed by Rastell without date, and Mr Pollard adduces some ground for
 attributing to him the anonymous _New Enterlude called Thersytes_
@@ -86,7 +86,7 @@ Ward speaks of its "general lucidity and relative variety of treatment."
 Heywood says that he laid it aside for twenty years before he finished
 it, and, whatever may be the final interpretation put upon it, it
 contains a very energetic statement of the social evils of the time, and
-especially of the deficiencies of English law.
+especially of the deficiencies of [[English Law|English law]].
 
   The proverbs and epigrams were reprinted by the Spenser Society in
   1867, the _Dialogue on Wit and Folly_ by the Percy Society from an MS.
@@ -103,8 +103,8 @@ especially of the deficiencies of English law.
   Early English Drama Society (1905).
 
 His son, JASPER HEYWOOD (1535-1598), who translated into English three
-plays of Seneca, the _Troas_ (1559), the _Thyestes_ (1560) and _Hercules
-Furens_ (1561), was a fellow of Merton College, Oxford, but was
+plays of Seneca, the _Troas_ (1559), the _Thyestes_ (1560) and _[[Hercules]]
+Furens_ (1561), was a [[Fellow|fellow]] of Merton College, Oxford, but was
 compelled to resign from that society in 1558. In the same year he was
 elected a fellow of All Souls College, but, refusing to conform to the
 changes in religion at the beginning of the reign of Elizabeth, he gave

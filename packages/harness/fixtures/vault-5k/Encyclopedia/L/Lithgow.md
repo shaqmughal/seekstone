@@ -6,7 +6,7 @@ topic: renaissance-theory
 
 # Lithgow
 
-LITHGOW, a town of Cook county, New South Wales, Australia, 96 m. W.N.W.
+LITHGOW, a town of [[Cook]] county, New South Wales, Australia, 96 m. W.N.W.
 of Sydney by rail. Pop. (1901) 5268. The town is situated at an altitude
 of 3000 ft., in a valley of the Blue Mountains. It has pottery and
 terra-cotta works, breweries, a tweed factory, iron-works, saw-mills,
@@ -23,7 +23,7 @@ petalite, triphyline, spodumene and lepidolite or lithia mica. It occurs
 in small quantities in sea, river and spring water, and is also widely
 but very sparingly distributed throughout the vegetable kingdom. It may
 be obtained (in the form of its chloride) by fusing lepidolite with a
-mixture of barium carbonate and sulphate, and potassium sulphate (L.
+mixture of [[Barium|barium]] carbonate and sulphate, and potassium sulphate (L.
 Troost, _Comptes rendus_, 1856, 43, p. 921). The fused mass separates
 into two layers, the upper of which contains a mixture of potassium and
 lithium sulphates; this is lixiviated with water and converted into the
@@ -32,12 +32,12 @@ the lithium chloride extracted by a mixture of dry alcohol and ether.
 The metal may be obtained by heating dry lithium hydroxide with
 magnesium (H. N. Warren, _Chem. News_, 1896, 74, p. 6). L. Kahlenberg
 (_Jour. phys. Chem_., 3, p. 601) obtained it by electrolysing the
-chloride in pyridine solution, a carbon anode and an iron or platinum
+chloride in pyridine solution, a [[Carbon|carbon]] anode and an iron or platinum
 cathode being used. O. Ruff and O. Johannsen (_Zeit. elektrochem._,
 1906, 55, p. 537) electrolyse a mixture of bromide and chloride which
 melts at 520°. It is a soft, silvery-white metal, which readily
 tarnishes on exposure. Its specific gravity is 0.59, and it melts at
-180° C. It burns on ignition in air, and when strongly heated in an
+180° C. It [[Burns|burns]] on ignition in air, and when strongly heated in an
 atmosphere of nitrogen it forms lithium nitride, Li3N. It decomposes
 water at ordinary temperature, liberating hydrogen and forming lithium
 hydroxide.
@@ -45,7 +45,7 @@ hydroxide.
   _Lithium hydride_, LiH, obtained by heating the metal in a current of
   hydrogen at a red heat, or by heating the metal with ethylene to 700°
   C. (M. Guntz, _Comptes rendus_, 1896, 122, p. 244; 123, p. 1273), is a
-  white solid which inflames when heated in chlorine. With alcohol it
+  white solid which inflames when heated in [[Chlorine|chlorine]]. With alcohol it
   forms lithium ethylate, LiOC2H5, with liberation of hydrogen. _Lithium
   oxide_, Li2O, is obtained by burning the metal in oxygen, or by
   ignition of the nitrate. It is a white powder which readily dissolves
@@ -77,12 +77,12 @@ hydroxide.
   It may be distinguished from sodium and potassium by the sparing
   solubility of its carbonate and phosphate. The atomic weight of
   lithium was determined by J. S. Stas from the analysis of the
-  chloride, and also by conversion of the chloride into the nitrate, the
+  chloride, and also by [[Conversion|conversion]] of the chloride into the nitrate, the
   value obtained being 7.03 (O = 16).
 
   The preparations of lithium used in medicine are: _Lithii Carbonis_,
   dose 2 to 5 grs.; _Lithii Citras_, dose 5 to 10 grs.; and _Lithii
-  Citras effervescens_, a mixture of citric acid, lithium citrate,
+  Citras effervescens_, a mixture of [[Citric Acid|citric acid]], lithium citrate,
   tartaric acid and sodium bicarbonate, dose 60 to 120 grs. Lithium
   salts render the urine alkaline and are in virtue of their action
   diuretic. They are much prescribed for acute or chronic gout, and as a

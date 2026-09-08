@@ -9,7 +9,7 @@ tags: [composers, exploration-studies]
 
 # Collatia
 
-COLLATIA, an ancient town of Latium, 10 m. E. by N. of Rome by the Via
+COLLATIA, an ancient town of [[Latium]], 10 m. E. by N. of Rome by the Via
 Collatina. It appears in the legendary history of Rome as captured by
 Tarquinius Priscus. Livy tells us it was taken from the Sabines, while
 Virgil speaks of it as a Latin colony. In the time of Cicero it had lost

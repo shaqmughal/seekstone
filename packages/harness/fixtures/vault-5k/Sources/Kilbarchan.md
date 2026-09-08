@@ -1,9 +1,9 @@
 # Kilbarchan
 
-KILBARCHAN, a burgh of barony of Renfrewshire, Scotland, 1 m. from
-Milliken Park station on the Glasgow & South-Western railway, 13 m. W.
+KILBARCHAN, a burgh of [[Barony|barony]] of Renfrewshire, Scotland, 1 m. from
+Milliken Park station on the [[Glasgow]] & South-Western railway, 13 m. W.
 by S. of Glasgow. Pop. (1901), 2886. The public buildings include a
-hall, library and masonic lodge (dating from 1784). There is also a
+hall, library and masonic [[Lodge|lodge]] (dating from 1784). There is also a
 park. In a niche in the town steeple (erected in 1755) is the statue of
 the famous piper, who died about the beginning of the 17th century and
 is commemorated in the elegy on "The Life and Death of Habbie Simson,
@@ -18,7 +18,7 @@ Weir (pop. 2242), the industries of which comprise tanning, currying,
 calico-printing, thread-making and wood-turning. It has a station on the
 Glasgow & South-Western railway. Immediately to the south-west of Bridge
 of Weir are the ruins of Ranfurly Castle, the ancient seat of the
-Knoxes. Sir John de Knocks (fl. 1422) is supposed to have been the
+[[Knox|Knoxes]]. Sir John de Knocks (fl. 1422) is supposed to have been the
 great-grandfather of John Knox; and Andrew Knox (1550-1633), one of the
 most distinguished members of the family, was successively bishop of the
 Isles, abbot of Icolmkill (Iona), and bishop of Raphoe. About 4 m. N.W.

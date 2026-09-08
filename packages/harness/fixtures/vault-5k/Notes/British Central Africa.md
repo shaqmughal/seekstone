@@ -9,7 +9,7 @@ Originally the term "British Central Africa" was applied by Sir H.H.
 Johnston to all the territories under British [v.04 p.0595] influence north
 of the Zambezi which were formerly intended to be under one administration;
 but the course of events having prevented the connexion of Barotseland (see
-BAROTSE) and the other Rhodesian territories with the more direct British
+[[Barotse|BAROTSE]]) and the other Rhodesian territories with the more direct British
 administration north of the Zambezi, the name of British Central Africa was
 confined officially (in 1893) to the British protectorate on the Shire and
 about Lake Nyasa. In 1907 the official title of the protectorate was
@@ -29,7 +29,7 @@ designation.
 _Physical Features._--Within these limits we have a territory of about
 250,000 sq. m., which includes two-thirds of Lake Nyasa, the south end of
 Lake Tanganyika, more than half Lake Mweru, and the whole of Lake
-Bangweulu, nearly the whole courses of the rivers Shire and Luangwa (or
+[[Bangweulu]], nearly the whole courses of the rivers Shire and Luangwa (or
 Loangwa), the whole of the river Chambezi (the most remote of the
 headwaters of the river Congo), the right or east bank of the Luapula (or
 upper Congo) from its exit from Lake Bangweulu to its issue from the north
@@ -38,7 +38,7 @@ or Kafukwe.[1] Other lesser sheets of water included within the limits of
 this territory are the Great Mweru Swamp, between Tanganyika and Mweru,
 Moir's Lake (a small mountain tarn--possibly a crater lake--lying between
 the Luangwa and the Luapula), Lake Malombe (on the upper Shire), and the
-salt lake Chilwa (wrongly styled Shirwa, being the Bantu word _Kilwa_),
+salt lake Chilwa (wrongly styled Shirwa, being the Bantu word _[[Kilwa]]_),
 which lies on the borders of the Portuguese province of Mocambique. The
 southern border of this territory is the north bank of the Zambezi from the
 confluence of the Kafukwe to that of the Luangwa at Zumbo. Eastwards of
@@ -87,7 +87,7 @@ also the Lukinga (Mushinga) or Ugwara Mountains of North Western Rhodesia,
 which attain perhaps to altitudes of 6000 ft.
 
 The whole of this part of Africa is practically without any stretch of
-desert country, being on the whole favoured with an abundant rainfall. The
+[[Desert|desert]] country, being on the whole favoured with an abundant rainfall. The
 nearest approach to a desert is the rather dry land to the east and
 north-east of Lake Mweru. Here, and in parts of the lower Shire district,
 the annual rainfall probably does not exceed an average of 35 in.
@@ -100,8 +100,8 @@ number of European settlers.
 
 _Geology._--The whole formation is Archean and Primary (with a few modern
 plutonic outbursts), and chiefly consists of granite, felspar, quartz,
-gneiss, schists, amphibolite and other Archean rocks, with Primary
-sandstones and limestones in the basin of Lake Nyasa (a great rift
+[[Gneiss|gneiss]], schists, amphibolite and other Archean rocks, with Primary
+sandstones and [[Limestone|limestones]] in the basin of Lake Nyasa (a great rift
 depression), the river Shire, and the regions within the northern watershed
 of the Zambezi river. Sandstones of Karroo age occur in the basin of the
 Luangwa (N.E. Rhodesia). There are evidences of recent volcanic activity on
@@ -113,7 +113,7 @@ springs.
 
 _Metals and Minerals._--Gold has been found in the Shire Highlands, in the
 hills along the Nyasa-Zambezi waterparting, and in the mountainous region
-west of Lake Nyasa; silver (galena, silver-lead) in the hills of the
+west of Lake Nyasa; silver ([[Galena|galena]], silver-lead) in the hills of the
 Nyasa-Zambezi waterparting; lead in the same district; graphite in the
 western basin of Lake Nyasa; copper (pyrites and pure ore) in the west
 Nyasa region and in the hills of North Western and North Eastern Rhodesia;
@@ -134,7 +134,7 @@ Angoniland and Shire Highlands plateaus, and to a few nooks in valleys near
 the south end of Tanganyika. Patches of forest of tropical luxuriance may
 still be seen on the slopes of Mounts Mlanje and Chiradzulu. On the upper
 plateaus of Mount Mlanje there are forests of a remarkable conifer
-(_Widdringtonia whytei_), a relation of the cypress, which in appearance
+(_Widdringtonia whytei_), a relation of the [[Cypress|cypress]], which in appearance
 resembles much more the cedar, and is therefore wrongly styled the "Mlanje
 cedar." This tree is remarkable as being the most northern form of a group
 of yew-like conifers confined otherwise to South Africa (Cape Colony).
@@ -179,9 +179,9 @@ _Fauna._--The fauna is on the whole very rich. It has affinities in a few
 respects with the West African forest region, but differs slightly from the
 countries to the north and south by the absence of such animals as prefer
 drier climates, as for instance the oryx antelopes, gazelles and the
-ostrich. There is a complete blank in the distribution of this last between
+ostrich. There is a complete [[Blank|blank]] in the distribution of this last between
 the districts to the south of the Zambezi and those of East Africa between
-Victoria Nyanza and the Indian Ocean. The giraffe is found in the Luanga
+Victoria Nyanza and the Indian Ocean. The [[Giraffe|giraffe]] is found in the Luanga
 valley; it is also met with in the extreme north-east of the country. The
 ordinary African rhinoceros is still occasionally, but very rarely, seen in
 the Shire Highlands, The African elephant is fairly common throughout the
@@ -194,13 +194,13 @@ sable and the roan (_Hippotragus_), five species of _Cobus_ or waterbuck
 (the puku, the Senga puku, the lechwe, Crawshay's waterbuck and the common
 waterbuck); the pallah, tsessebe (_Damaliscus_), hartebeest, brindled gnu
 (perhaps two species), several duykers (including the large _Cephalophus
-sylvicultrix_), klipspringer, oribi, steinbok and reedbuck. Among
-tragelaphs are two or more bushbucks, the inyala, the water tragelaph
-(_Limnotragus selousi_), the kudu and Livingstone's eland. The only buffalo
-is the common Cape species. The hyaena is the spotted kind. The hunting dog
+sylvicultrix_), [[Klipspringer|klipspringer]], oribi, steinbok and reedbuck. Among
+tragelaphs are two or more [[Bushbuck|bushbucks]], the inyala, the water tragelaph
+(_Limnotragus selousi_), the [[Kudu|kudu]] and Livingstone's [[Eland|eland]]. The only buffalo
+is the common Cape species. The hyaena is the spotted kind. The [[Hunting Dog|hunting dog]]
 is present. There are some seven species of monkeys, including two baboons
-and one colobus. The hippopotamus is found in the lakes and rivers, and all
-these sheets of water are infested with crocodiles, apparently belonging to
+and one colobus. The [[Hippopotamus|hippopotamus]] is found in the lakes and rivers, and all
+these sheets of water are infested with [[Crocodile|crocodiles]], apparently belonging to
 but one species, the common Nile crocodile.
 
 _Inhabitants._--The human race is represented by only one indigenous native
@@ -214,7 +214,7 @@ this designation will cover all the natives of British Central Africa. The
 Bantu races, however, exhibit in some parts signs of Hottentot or Bushman
 intermixture, and there are legends in some mountain districts, especially
 Mount Mlanje, of the former existence of unmixed Bushman tribes, while
-Bushman stone implements are found at the south end of Tanganyika. At the
+Bushman stone [[Implement|implements]] are found at the south end of Tanganyika. At the
 present day the population is, as a rule, of a black or chocolate-coloured
 Negro type, and belongs, linguistically, entirely and exclusively to the
 Bantu family. The languages spoken offer several very interesting forms of
@@ -236,12 +236,12 @@ north-eastward return migration of Zulus. From Matabeleland, Zulu tribes
 crossed the Zambezi at various periods (commencing from about 1820), and
 gradually extended their ravages and dominion over the plateaus to the
 west, north and north-east of Lake Nyasa. The Zulu language is still spoken
-by the dominating caste in West Nyasaland (see further ZULULAND:
+by the dominating [[Caste|caste]] in West Nyasaland (see further ZULULAND:
 _Ethnology_; RHODESIA: _Ethnology_; and YAOS). As regards foreign settlers
 in this part of Africa, the Arabs may be mentioned first, though they are
 now met with only in very small numbers. The Arabs undoubtedly first
 _heard_ of this rich country--rich not alone in natural products such as
-ivory, but also in slaves of good quality--from their settlements near the
+[[Ivory|ivory]], but also in slaves of good quality--from their settlements near the
 delta of the river Zambezi, and these settlements may date back to an early
 period, and might be coeval with the suggested pre-Islamite Arab
 settlements in the gold-bearing regions of South East Africa. But the Arabs
@@ -277,7 +277,7 @@ principal exports are (besides minerals) coffee, cotton, tobacco, rubber
 and ivory. A number of Englishmen and Scotsmen (perhaps 200) are settled,
 mainly in the Shire Highlands, as coffee planters.
 
-From the Chinde mouth of the Zambezi to Port Herald on the lower Shire
+From the [[Chinde]] mouth of the Zambezi to Port Herald on the lower Shire
 communication is maintained by light-draught steamers, though in the dry
 season (April-November) steamers cannot always ascend as far as Port
 Herald, and barges have to be used to complete the voyage. A railway runs
@@ -286,9 +286,9 @@ Highlands. The "Cape to Cairo" railway, which crossed the Zambezi in 1905
 and the Kafukwe in 1906, reached the Broken Hill mine in 1907, and in 1909
 was continued to the frontier of Belgian Congo. There are regular services
 by steamer between the ports on Lakes Nyasa and Tanganyika. The African
-trans-continental telegraph line (founded by Cecil Rhodes) runs through the
+trans-continental telegraph line (founded by [[Cecil]] Rhodes) runs through the
 protectorate, and a branch line has been established from Lake Nyasa to
-Fort Jameson, the present headquarters of the Chartered Company in North
+Fort [[Jameson]], the present headquarters of the Chartered Company in North
 Eastern Rhodesia.
 
 _Towns._--The principal European settlement or town is Blantyre (_q.v._),
@@ -324,7 +324,7 @@ centuries, the first European explorer of any education who penetrated into
 this country was the celebrated Portuguese official, Dr F.J.M. de Lacerda e
 Almeida, who journeyed from Tete on the Zambezi to the vicinity of Lake
 Mweru. But the real history of the country begins with the advent of David
-Livingstone, who in 1859 penetrated up the Shire river and discovered Lake
+[[Livingstone]], who in 1859 penetrated up the Shire river and discovered Lake
 Nyasa. Livingstone's subsequent journeys, to the south end of Tanganyika,
 to Lake Mweru and to Lake Bangweulu (where he died in 1873), opened up this
 important part of South Central Africa and centred in it British interests
@@ -388,10 +388,10 @@ British South Africa Company an armed steamer on Lake Tanganyika.
 
 Unfortunately, though so rich and fertile, the land is not as a rule very
 healthy for Europeans, though there are signs of improvement in this
-respect. The principal scourges are black-water fever and dysentery,
+respect. The principal scourges are black-water [[Fever|fever]] and dysentery,
 besides ordinary malarial fever, malarial ulcers, pneumonia and bronchitis.
 The climate is agreeable, and except in the low-lying districts is never
-unbearably hot; while on the high mountain plateaus frost frequently occurs
+unbearably hot; while on the high mountain plateaus [[Frost|frost]] frequently occurs
 during the dry season.
 
 See _Narrative of an Expedition to the Zambezi_, &c., by David and Charles
@@ -401,10 +401,10 @@ Nyasaland_ (1891); Henry Drummond, _Tropical Africa_ (4th ed., 1891); Rev.
 D.C. Scott, _An Encyclopaedic Dictionary of the Mang'anja Language, as
 spoken in British Central Africa_ (1891); Sir H.H. Johnston, _British
 Central Africa_ (2nd ed., 1898); Miss A. Werner, _The Natives of British
-Central Africa_ (1906); John Buchanan, _The Shire Highlands_ (1885); Lionel
+Central Africa_ (1906); John [[Buchanan]], _The Shire Highlands_ (1885); Lionel
 Decle, _Three Years in Savage Africa_ (1898); H.L. Duff, _Nyasaland under
 the Foreign Office_ (1903); J.E.S. Moore, _The Tanganyika Problem_ (1904);
-articles on North Eastern and North Western Rhodesia (chiefly by Frank
+articles on North Eastern and North Western Rhodesia (chiefly by [[Frank]]
 Melland) in the _Journal of the African Society_ (1902-1906); annual
 _Reports_ on British Central Africa published by the Colonial Office;
 various linguistic works by Miss A. Werner, the Rev. Govan Robertson, Dr R.

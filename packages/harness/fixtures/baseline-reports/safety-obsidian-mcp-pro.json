@@ -1,16 +1,16 @@
 {
-  "snapshotDate": "2026-08-03T03:22:05.318Z",
+  "snapshotDate": "2026-09-07T04:09:20.267Z",
   "backend": {
     "name": "obsidian-mcp-pro",
     "description": "obsidian-mcp-pro (rps321321, filesystem-direct, no Obsidian required)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-8oYPyj",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Q2iqiz",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
     "identity": {
-      "pass": 0,
-      "fail": 25,
+      "pass": 25,
+      "fail": 0,
       "skipped": 0
     },
     "body-append": {
@@ -47,6 +47,11 @@
       "pass": 0,
       "fail": 0,
       "skipped": 25
+    },
+    "undo-roundtrip": {
+      "pass": 0,
+      "fail": 0,
+      "skipped": 25
     }
   },
   "notes": [
@@ -61,8 +66,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at '0 Inbox/Antelope.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -105,6 +109,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -119,8 +129,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/A/Arch.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -163,6 +172,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -177,8 +192,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Barker'S Mill.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -221,6 +235,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -234,8 +254,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/B/Bonstetten.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -278,6 +297,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -291,8 +316,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cape Town.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -335,6 +359,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -349,8 +379,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Chrysoberyl.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -393,6 +422,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -406,8 +441,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/C/Cross.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -450,6 +484,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -466,8 +506,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/D/Docket.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -510,6 +549,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -524,8 +569,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/E/Espinay.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -568,6 +612,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -582,8 +632,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/F/Fraternities.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -626,6 +675,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -640,8 +695,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/G/Gotter.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -684,6 +738,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -697,8 +757,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/H/Hesperides.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -741,6 +800,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -754,8 +819,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/I/Irbit.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -798,6 +862,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -812,8 +882,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/K/Kingston.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -856,6 +925,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -870,8 +945,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/L/Lewes.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -914,6 +988,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -929,8 +1009,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Encyclopedia/M/Marquetry.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -973,6 +1052,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -986,8 +1071,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'MOCs/science-studies MOC.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1030,6 +1114,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1044,8 +1134,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Curacao.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1088,6 +1177,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1104,8 +1199,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Notes/Isfahan.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1148,6 +1242,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1162,8 +1262,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Berdyansk.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1206,6 +1305,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1220,8 +1325,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Descriptive Poetry.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1264,6 +1368,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1278,8 +1388,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Henry V..md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1322,6 +1431,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1336,8 +1451,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Reference/Market Harborough.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1380,6 +1494,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1394,8 +1514,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Chieti.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1438,6 +1557,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1453,8 +1578,7 @@
       "ops": [
         {
           "op": "identity",
-          "status": "fail",
-          "reason": "write call errored: obsidian-mcp-pro create_note: Error: Note already exists at 'Sources/Gervex.md'. Use append or update tools instead.",
+          "status": "pass",
           "change": "identity round-trip"
         },
         {
@@ -1496,6 +1620,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]

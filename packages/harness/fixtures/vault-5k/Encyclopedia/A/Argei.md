@@ -4,7 +4,7 @@ ARGEI, the name given by the ancient Romans to a number of rush puppets
 (24 or 27 according to the reading of Varro, _de Ling_. _lat_. vii. 44,
 or 30 according to Dionysius i. 38) resembling men tied hand and foot,
 which were taken down to the ancient bridge over the Tiber (_pans
-sublicius_) on the 14th of May by the pontifices and magistrates, with
+sublicius_) on the 14th of May by the pontifices and [[Magistrate|magistrates]], with
 the flaminica Dialis in mourning guise, and there thrown into the Tiber
 by the Vestal virgins. There were also in various parts of the four
 Servian regions of the city a number of _sacella Argeorum_ (chapels),
@@ -29,7 +29,7 @@ any Roman historical record.
 
   See Wissowa's arguments in the article "Argei" in his edition of
   Pauly's _Realencydopadie_. For the other view see W. Mannhardt,
-  _Antike Wald und Feldkulte_, 178 foll.; W.W. Fowler, _Roman
+  _Antike Wald und Feldkulte_, 178 foll.; W.W. [[Fowler]], _Roman
   Festivals_, pp. 111 foll.     (W. W. F.*)
 
 ## References

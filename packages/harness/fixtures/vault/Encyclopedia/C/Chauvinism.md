@@ -10,7 +10,7 @@ CHAUVINISM, a term for unreasonable and exaggerated patriotism, the
 French equivalent of "Jingoism." The word originally signified idolatry
 of Napoleon, being taken from a much-wounded veteran, Nicholas Chauvin,
 who, by his adoration of the emperor, became the type of blind
-enthusiasm for national military glory.
+[[Enthusiasm|enthusiasm]] for national military glory.
 
 ## See also
 

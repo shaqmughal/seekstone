@@ -8,7 +8,7 @@ tags: [politics, history]
 # Hopken
 
 HOPKEN, ANDERS JOHAN, COUNT VON (1712-1789), Swedish statesman, was the
-son of Daniel Niklas Hopken, one of Arvid Horn's most determined
+son of [[Daniel]] Niklas Hopken, one of Arvid Horn's most determined
 opponents and a founder of the Hat party. When in 1738 the Hats came
 into power the younger Hopken obtained a seat in the secret committee of
 the diet, and during the Finnish war of 1741-42 was one of the two

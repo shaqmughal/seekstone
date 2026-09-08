@@ -12,7 +12,7 @@ of the lake of Como, and owing to the great beauty of the scenery and of
 the vegetation, and its sheltered situation, is a favourite spring and
 autumn resort. The most famous of its villas is the Villa Carlotta, now the
 property of the duke of Saxe-Meiningen, which contains marble reliefs by
-Thorwaldsen, representing the triumph of Alexander, and statues by Canova.
+Thorwaldsen, representing the triumph of Alexander, and statues by [[Canova]].
 
 ## References
 

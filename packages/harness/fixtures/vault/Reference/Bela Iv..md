@@ -6,7 +6,7 @@ topic: engineering
 
 # Bela Iv.
 
-BELA IV. (1206-1270), king of Hungary, was the son of Andrew II., whom
+[[Bela|BELA]] IV. (1206-1270), king of Hungary, was the son of Andrew II., whom
 he succeeded in 1235. During his father's lifetime he had greatly
 distinguished himself by his administration of Transylvania, then a
 wilderness, which, with incredible patience and energy, he colonized and
@@ -17,25 +17,25 @@ utmost confusion, "the great lords," to cite the old chronicler Rogerius
 brought to naught." The whole land was full of violence, the very
 bishops storming rich monasteries at the head of armed retainers. Bela
 resolutely put down all disorder. He increased the dignity of the crown
-by introducing a stricter court etiquette, and its wealth by recovering
+by introducing a stricter court [[Etiquette|etiquette]], and its wealth by recovering
 those of the royal domains which the magnates had appropriated during
 the troubles of the last reign. The pope, naturally on the side of
 order, staunchly supported this regenerator of the realm, and in his own
-brother Coloman, who administered the district of the Drave, Bela also
+brother [[Coloman]], who administered the district of the Drave, Bela also
 found a loyal and intelligent co-operator. He also largely employed Jews
 and Ishmaelites,[1] the financial specialists of the day, whom he
 rewarded with lands and titles. The salient event of Bela's reign was
 the terrible Tatar invasion which reduced three-quarters of Hungary to
 ashes. The terror of their name had long preceded them, and Bela, in
 1235 or 1236, sent the Dominican monk Julian, by way of Constantinople,
-to Russia, to collect information about them from the "ancient Magyars"
+to Russia, to collect information about them from the "ancient [[Magyars]]"
 settled there, possibly the Volgan Bulgarians. He returned to Hungary
 with the tidings that the Tatars contemplated the immediate conquest of
 Europe. Bela did his utmost to place his kingdom in a state of defence,
 and appealed betimes to the pope, the duke of Austria and the emperor
 for assistance; but in February and March 1241 the Tatars burst through
 the Carpathian passes; in April Bela himself, after a gallant stand, was
-routed on the banks of the Sajo and fled to the islands of Dalmatia; and
+routed on the banks of the Sajo and fled to the islands of [[Dalmatia]]; and
 for the next twelve months the kingdom of Hungary was merely a
 geographical expression. The last twenty-eight years of Bela's reign
 were mainly devoted to the reconstruction of his realm, which he
@@ -51,17 +51,17 @@ crossing the Leitha on the 15th of June 1246, routed Frederick, who was
 seriously wounded and trampled to death by his own horsemen. With him
 was extinguished the male line of the house of Babenberg. In the south
 Bela was less successful. In 1243 he was obliged to cede to Venice,
-Zara, a perpetual apple of discord between the two states; but he kept
+Zara, a perpetual [[Apple|apple]] of discord between the two states; but he kept
 his hold upon Spalato and his other Dalmatian possessions, and his wise
 policy of religious tolerance in Bosnia enabled Hungary to rule that
 province peaceably for many years. The new Servian kingdom of the
 Nemanides, on the other hand, gave him much trouble and was the occasion
-of many bloody wars. In 1261 the Tatars under Nogai Khan invaded Hungary
+of many bloody wars. In 1261 the Tatars under Nogai [[Khan]] invaded Hungary
 for the second time, but were defeated by Bela and lost 50,000 men. Bela
 reached the apogee of his political greatness in 1264 when, shortly
 after his crushing defeat of the Servian king, Stephen Urosh, he
 entertained at his court, at Kalocsa, the ambassadors of the newly
-restored Greek emperor, of the kings of France, Bulgaria and Bohemia and
+restored Greek emperor, of the kings of France, [[Bulgaria]] and Bohemia and
 three Tatar _mirzas_. For a time Bela was equally fortunate in the
 north-west, where the ambitious and enterprising Poemyslidae had erected
 a new Bohemian empire which absorbed the territories of the old
@@ -78,11 +78,11 @@ to his country had been inestimable. He married, while still
 crown-prince, Maria, daughter of the Nicaean emperor, Theodore Lascaris,
 whom his own father brought home with him from his crusade. She bore
 him, besides his two sons Stephen and Bela, seven daughters, of whom St
-Margaret was the most famous.
+[[Margaret]] was the most famous.
 
   No special monograph for the whole reign exists. For the Tatar
   invasion see the contemporary Rogerius, _Epistolae super destructione
-  Regni Hungarias per Tartaros facta_ (Budapest, 1885). A vivid but
+  Regni Hungarias per Tartaros facta_ ([[Budapest]], 1885). A vivid but
   somewhat chauvinistic history of Bela's reign will be found in
   Acsady's _History of the Hungarian Realm_ (Hung.), i. 2 (Budapest,
   1903).     (R. N. B.)

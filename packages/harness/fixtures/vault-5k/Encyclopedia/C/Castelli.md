@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Castelli"
 
 # Castelli
 
-CASTELLI, IGNAZ FRANZ (1781-1862), Austrian dramatist, was born at
+CASTELLI, IGNAZ [[Franz|FRANZ]] (1781-1862), Austrian dramatist, was born at
 Vienna on the 6th of March 1781. He studied law at the university, and
 then entered the government service. During the Napoleonic invasions his
 patriotism inspired him to write stirring war songs, one of which,

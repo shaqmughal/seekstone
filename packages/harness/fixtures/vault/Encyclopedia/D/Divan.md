@@ -7,16 +7,16 @@ topic: literature
 # Divan
 
 DIVAN (Arabic _d[=i]w[=a]n_), a Persian word, derived probably from
-Aramaic, meaning a "counting-house, office, bureau, tribunal"; thence,
+Aramaic, meaning a "counting-house, office, [[Bureau|bureau]], tribunal"; thence,
 on one side, the "account-books and registers" of such an office, and,
 on another, the "room where the office or tribunal sits"; thence, again,
 from "account-book, register," a "book containing the poems of an
 author," arranged in a definite order (alphabetical according to the
 rhyme-words), perhaps because of the saying, "Poetry is the register
-(_d[=i]w[=a]n_) of the Arabs," and from "bureau, tribunal," "a long
+(_d[=i]w[=a]n_) of the [[Arabs]]," and from "bureau, tribunal," "a long
 seat, formed of a mattress laid against the side of the room, upon the
-floor or upon a raised structure or frame, with cushions to lean
-against" (Lane, _Lexicon_, 930 f.). All these meanings existed and
+floor or upon a raised structure or [[Frame|frame]], with cushions to lean
+against" ([[Lane]], _Lexicon_, 930 f.). All these meanings existed and
 exist, especially "bureau, tribunal," "book of poems" and "seat"[1]; but
 the order of derivation may have been slightly different. The word first
 appears under the caliphate of Omar (A.D. 634-644). Great wealth, gained
@@ -38,7 +38,7 @@ FOOTNOTE:
     speaking, from 1820 to 1850, wherever the romantic movement in
     literature penetrated. All the boudoirs of that generation were
     garnished with divans; they even spread to coffee-houses, which were
-    sometimes known as "divans" or "Turkish divans"; and a "cigar divan"
+    sometimes known as "divans" or "Turkish divans"; and a "[[Cigar|cigar]] divan"
     remains a familiar expression.
 
 ## See also

@@ -25,7 +25,7 @@ parasite, but his claim to this honour is by no means certain. Much
 later (1787) Cavolini described and figured an indubitable Gregarine
 (probably the form now known as _Aggregata conformis_) from a Crustacean
 (_Pachygrapsus_), which, however, he regarded as a tapeworm. Leon
-Dufour, who in his researches on insect anatomy came across several
+Dufour, who in his researches on [[Insect|insect]] anatomy came across several
 species of these parasites, also considered them as allied to the worms
 and proposed the generic name of _Gregarina_. The unicellular nature of
 Gregarines was first realized by A. von Kolliker, who from 1845-1848
@@ -113,7 +113,7 @@ The effects on the host are confined to the parasitized cells. These
 generally undergo at first marked hypertrophy and alteration in
 character; this condition is succeeded by one of atrophy, when the
 substance of the cell becomes in one way or another practically absorbed
-by the growing parasite (cf. also COCCIDIA). Since, however, the
+by the growing parasite (cf. also [[Coccidia|COCCIDIA]]). Since, however, the
 Gregarines never overrun their hosts in the way that many other Sporozoa
 do (because of their lack, in general, of the power of endogenous
 multiplication), the number of cells of any tissue attacked, even in the
@@ -281,7 +281,7 @@ inconvenience from the presence of the parasites.
   spherules of various kinds and of all sizes, representing an
   accumulation of food-material which is being stored up prior to
   reproduction. The largest and most abundant grains are of a substance
-  termed para-glycogen, a carbohydrate; in addition, flattened
+  termed para-glycogen, a [[Carbohydrate|carbohydrate]]; in addition, flattened
   lenticular platelets, of an albuminoid character, and
   highly-refringent granules often occur.
 
@@ -417,7 +417,7 @@ inconvenience from the presence of the parasites.
   of, and the resulting (segmentation-) nucleus, which is
   highly-specialized, represents the sexual part. In other cases, again,
   the entire sporont-nucleus proceeds to division, and the distinction
-  between somatic and germinal portions does not become manifest until
+  between somatic and germinal portions does not become [[Manifest|manifest]] until
   after nuclear multiplication has continued for some little time, when
   certain of the daughter-nuclei become altered in character, and
   ultimately degenerate, the remainder giving rise to the
@@ -443,7 +443,7 @@ inconvenience from the presence of the parasites.
 
   By the time nuclear multiplication is well advanced or completed, the
   bodies of the two parent-Gregarines (associates) have usually become
-  very irregular in shape, and produced into numerous lobes and
+  very irregular in shape, and produced into numerous [[Lobe|lobes]] and
   processes. While in some forms (e.g. _Monocystis_, _Urospora_,
   _Stylorhynchus_) the two individuals remain fairly separate and
   independent of each other, in others (_Lankesteria_) they become
@@ -494,7 +494,7 @@ inconvenience from the presence of the parasites.
   and _Diplodina_ complete isogamy is found, there being no apparent
   difference whatever between the conjugating elements. Nevertheless,
   these forms are also to be regarded as instances of binary sexuality
-  and not merely of exogamy; for it is practically certain that this
+  and not merely of [[Exogamy|exogamy]]; for it is practically certain that this
   condition of isogamy is derived from one of typical anisogamy, through
   a stage such as is seen in _Gonospora_, &c. And, similarly, just as in
   all instances where the formation of differentiated gametes has been
@@ -543,7 +543,7 @@ inconvenience from the presence of the parasites.
   The two conjugating elements unite completely, cytoplasm with
   cytoplasm and nucleus with nucleus, to form the definitive sporoblast
   or zygote. The protoplasm assumes a definite outline, generally that
-  of an ovoid or barrel, and secretes a delicate membrane, the
+  of an ovoid or [[Barrel|barrel]], and secretes a delicate membrane, the
   ectospore. This subsequently becomes thickened, and often produced
   into rims, spines or processes, giving rise to the characteristic
   appearance of the Gregarine spore. Internal to the ectocyst, another,
@@ -588,7 +588,7 @@ inconvenience from the presence of the parasites.
   residual protoplasm, for the passage of the spores to the exterior.
 
 
-    Classification.
+    [[Classification]].
 
   The Gregarines are extremely numerous, and include several families,
   characterized, for the most part, by the form of the spores (fig. 16).
@@ -721,7 +721,7 @@ inconvenience from the presence of the parasites.
   l'evolution d'une Gregarine et la reaction de la cellule-hote," _C.R.
   Soc. Biol._ 52, p. 554, 9 figs. (1900); 12. L. Leger, "Recherches sur
   les Gregarines," _Tabl. zool._ 3, p. i., 22 pls. (1892); 13. L. Leger,
-  "Contribution a la connaissance des Sporozoaires, &c.," _Bull. Sci.
+  "Contribution a la connaissance des Sporozoaires, &c.," _[[Bull]]. Sci.
   France_, 30, p. 240, 3 pls. (1897); 14. L. Leger, "Sur un nouveau
   Sporozoaire (_Schizocystis_), &c.," _C.R. Ac. Sci._ 131, p. 722
   (1900); 15. L. Leger, "La Reproduction sexuee chez les Ophryocystis,"

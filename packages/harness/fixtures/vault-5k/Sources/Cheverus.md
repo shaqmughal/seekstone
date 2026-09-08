@@ -1,6 +1,6 @@
 # Cheverus
 
-CHEVERUS, JEAN LOUIS ANNE MAGDELEINE LEFEBVRE DE (1768-1836), French
+CHEVERUS, JEAN LOUIS ANNE MAGDELEINE [[Lefebvre|LEFEBVRE]] DE (1768-1836), French
 ecclesiastic, was born on the 28th of January 1768, in Mayenne, France,
 where his father was general civil judge and lieutenant of police. He
 studied at the college of Mayenne, received the tonsure when twelve,
@@ -8,17 +8,17 @@ became prior of Torbechet while still little more than a child, thence
 derived sufficient income for his education, entered the College of Louis
 le Grand in 1781, and after completing his theological studies at the
 Seminary of St Magloire, was ordained deacon in October 1790, and priest
-by special dispensation on the 18th of December. He was immediately made
+by special [[Dispensation|dispensation]] on the 18th of December. He was immediately made
 canon of the cathedral of Le Mans and began to act as vicar to his uncle
 in Mayenne, who died in 1792. Owing to the progress of the Revolution he
 emigrated in 1792 to England, and thence in 1796 to America, settling in
-Boston, Mass. His interest had been aroused by François Antoine Matignon,
+[[Boston]], Mass. His interest had been aroused by François Antoine Matignon,
 a former professor at Orleans, now in charge under Bishop John Carroll of
 all the Catholic churches and missions in New England. Cheverus, although
-at first appointed to an Indian mission in Maine, remained in Boston for
+at first appointed to an Indian mission in [[Maine]], remained in Boston for
 nearly a year, and returned thither after several months in the Penobscot
 and Passamaquoddy missions and visits to scattered Catholic families
-along the way. During the epidemic of yellow fever in 1798 he won great
+along the way. During the epidemic of yellow [[Fever|fever]] in 1798 he won great
 praise and respect for his courage and charity; and his preaching was
 listened to by many Protestants--indeed the subscriptions for the Church
 of the Holy Cross which he founded in 1803 were largely from

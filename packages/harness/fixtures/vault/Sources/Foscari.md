@@ -48,9 +48,9 @@ Donato, a distinguished official who had been a member of the Ten at the
 time of the trial, was assassinated and Jacopo Foscari was suspected of
 complicity in the deed. After a long inquiry he was brought to trial for
 the second time, and although all the evidence clearly pointed to his
-guilt the judges could not obtain a confession from the accused, and so
+[[Guilt|guilt]] the judges could not obtain a confession from the accused, and so
 merely banished him to Candia for the rest of his life, with a pension
-of two hundred ducats a year. In 1456 the council received information
+of two hundred [[Ducat|ducats]] a year. In 1456 the council received information
 from the rector (governor) of Candia to the effect that Jacopo Foscari
 had been in treasonable correspondence with the duke of Milan and the
 sultan of Turkey. He was summoned to Venice, tried and condemned to a

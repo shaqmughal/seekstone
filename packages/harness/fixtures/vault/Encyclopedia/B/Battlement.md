@@ -1,11 +1,11 @@
 # Battlement
 
 BATTLEMENT (probably from a lost Fr. form _bastillement_, cf. mod. Fr.
-_bastille_, from Med. Lat. _bastilia_, towers, which is derived from
+_[[Bastille|bastille]]_, from Med. Lat. _bastilia_, towers, which is derived from
 Ital. _bastire_, to build, cf. Fr. _batir_; the English word was,
 however, early connected with "battle"), a term given to a parapet of a
 wall, in which portions have been cut out at intervals to allow the
-discharge of arrows or other missiles; these cut-out portions are known
+[[Discharge|discharge]] of arrows or other missiles; these cut-out portions are known
 as "crenels"; the solid widths between the "crenels" are called
 "merlons." The earliest example in the palace at Medinet-Abu at Thebes
 in Egypt is of the inverted form, and is said to have been derived from
@@ -13,7 +13,7 @@ Syrian fortresses. Through Assyria they formed the termination of all
 the walls surrounding the towns, as shown on bas reliefs from Nimrud and
 elsewhere. Traces of them have been found at Mycenae, and they are
 suggested on Greek vases. In the battlements of Pompeii, additional
-protection was given by small internal buttresses or spur walls against
+protection was given by small internal [[Buttress|buttresses]] or spur walls against
 which the defender might place himself so as to be protected completely
 on one side. In the battlements of the middle ages the crenel was about
 one-third of the width of the merlon, and the latter was in addition

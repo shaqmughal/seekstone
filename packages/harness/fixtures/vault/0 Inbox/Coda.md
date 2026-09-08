@@ -9,11 +9,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Coda"
 
 CODA (Ital. for "tail"; from the Lat. _cauda_), in music, a term for a
 passage which brings a movement or a separate piece to a conclusion.
-This developed from the simple chords of a cadence into an elaborate and
+This developed from the simple chords of a [[Cadence|cadence]] into an elaborate and
 independent form. In a series of variations on a theme or in a
 composition with a fixed order of subjects, the "coda" is a passage
 sufficiently contrasted with the conclusions of the separate variations
-or subjects, added to form a complete conclusion to the whole. Beethoven
+or subjects, added to form a complete conclusion to the whole. [[Beethoven]]
 raised the "coda" to a feature of the highest importance.
 
 ## See also

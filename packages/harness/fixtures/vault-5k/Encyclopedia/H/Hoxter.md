@@ -13,7 +13,7 @@ state railways Borssum-Soest and Scherfede-Holzminden, 32 m. N. of
 Cassel. Pop. (1905) 7699. It has a medieval town hall, and interesting
 houses with high gables and wood-carved facades of the 15th and 16th
 centuries. The most interesting of the churches is the Protestant church
-of St Kilian, with a pulpit dating from 1595 and a font dating from
+of St [[Kilian]], with a pulpit dating from 1595 and a font dating from
 1631. There are a gymnasium, a school of architecture and a monument to
 Hoffmann von Fallersleben in the town. The Weser is crossed here by a
 stone bridge about 500 ft. in length, erected in 1833. On the Brunsberg

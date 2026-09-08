@@ -42,7 +42,7 @@ Austrian imperial family, and it was here that, on the 14th of August
 dividing the administration of the conquered provinces of Schleswig and
 Holstein between Austria and Prussia postponed for a while the outbreak
 of war between the two powers. It was also here (August-September 1879)
-that Prince Bismarck negotiated with Count Julius Andrássy the
+that Prince Bismarck negotiated with Count [[Julius]] Andrássy the
 Austro-German treaty, which resulted in the formation of the Triple
 Alliance.
 

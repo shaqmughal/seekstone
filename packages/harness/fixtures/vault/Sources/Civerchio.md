@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Civerchio"
 # Civerchio
 
 CIVERCHIO, VINCENZO, an early 16th-century Italian painter, born at
-Crema. There are altar-pieces by him at Brescia, and at Crema the
+[[Crema]]. There are altar-pieces by him at [[Brescia]], and at Crema the
 altar-piece at the duomo (1509). His "Birth of Christ" is in the Brera,
 Milan; and at Lovere are other of his works dating from 1539 and 1540.
 

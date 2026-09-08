@@ -24,7 +24,7 @@ As time went on the art of masonry advanced till in England, in point of
 execution, it at length rivalled that of any country.
 
   _Tools._--The mason's tools may be grouped under five heads--hammers
-  and mallets, saws, chisels, setting-out and setting tools, and
+  and [[Mallet|mallets]], saws, chisels, setting-out and setting tools, and
   hoisting appliances.
 
 
@@ -51,7 +51,7 @@ execution, it at length rivalled that of any country.
   A hand saw similar to that used by the carpenter is used for cutting
   small soft stones. Larger blocks are cut with the two-handed saw
   worked by two men. For the largest blocks the frame saw is used, and
-  is slung by a rope and pulleys fitted with balance weights to relieve
+  is slung by a rope and pulleys fitted with [[Balance|balance]] weights to relieve
   the operator of its weight. The blade is of plain steel, the cutting
   action being supplied by sand with water as a lubricant constantly
   applied.
@@ -81,7 +81,7 @@ execution, it at length rivalled that of any country.
 
   The implements for setting out the work are similar to those used, by
   the bricklayer and other tradesmen, comprising the rule, square, set
-  square, the bevel capable of being set to any required angle,
+  square, the [[Bevel|bevel]] capable of being set to any required angle,
   compasses, spirit level, plumb-rule and bob and mortar trowels. Gauges
   and moulds are required in sinking moulds to the proper section.
 
@@ -178,7 +178,7 @@ execution, it at length rivalled that of any country.
   walling than in brickwork. In ashlar-work the work is bonded
   uniformly, the joints being kept perpendicularly one over the other;
   but in rubble-work, instead of making the joints recur one over the
-  other in alternate courses they should be carefully made to lock, so
+  other in alternate courses they should be carefully made to [[Lock|lock]], so
   as to give the strength of two or three courses or layers between a
   joint in one course and the joint that next occurs vertically above it
   in another course. In the through or transverse bonding of a wall a
@@ -391,7 +391,7 @@ execution, it at length rivalled that of any country.
   also stone quoins (fig. 7).
 
   _Diaper,_ a square pattern formed on the face of the stonework by
-  means of stones of different colours and varieties or by patterns
+  means of stones of different [[Colours|colours]] and varieties or by patterns
   carved on the surface (fig. 7).
 
   _Finial,_ a finishing ornament applied usually to a gable end (fig.
@@ -435,7 +435,7 @@ execution, it at length rivalled that of any country.
   their use in old work. In modern work long and short work, sometimes
   termed "block and start," is little used (fig. 7).
 
-  _Parapet,_ a fence wall at the top of a wall at the eaves of the roof.
+  _Parapet,_ a fence wall at the top of a wall at the [[Eaves|eaves]] of the roof.
   The gutter lies behind, and waterways are formed through the parapet
   wall for the escape of the rain-water.
 

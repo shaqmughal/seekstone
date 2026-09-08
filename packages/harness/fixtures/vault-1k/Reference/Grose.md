@@ -41,7 +41,7 @@ Grose was a sort of antiquarian Falstaff--at least he possessed in a
 striking degree the knight's physical peculiarities; but he was a man of
 true honour and charity, a valuable friend, "overlooking little faults
 and seeking out greater virtues," and an inimitable boon companion. His
-humour, his varied knowledge and his good nature were all eminently
+[[Humour|humour]], his varied knowledge and his good nature were all eminently
 calculated to make him a favourite in society. As Burns says of him--
 
     "But wad ye see him in his glee,
@@ -57,7 +57,7 @@ calculated to make him a favourite in society. As Burns says of him--
   Health, Beauty, Riches and Honour_ (1783), a collection of
   advertisements of the period, with characteristic satiric preface; _A
   Classical Dictionary of the Vulgar Tongue_ (1785); _A Treatise on
-  Ancient Armour and Weapons_ (1785-1789); Darrell's _History of Dover_
+  Ancient Armour and Weapons_ (1785-1789); Darrell's _History of [[Dover]]_
   (1786); _Military Antiquities_ (2 vols., 1786-1788); _A Provincial
   Glossary_ (1787); _Rules for Drawing Caricatures_ (1788); _The
   Antiquities of Scotland_ (2 vols., 1789-1791); _Antiquities of

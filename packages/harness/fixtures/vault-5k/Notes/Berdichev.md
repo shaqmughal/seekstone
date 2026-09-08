@@ -9,7 +9,7 @@ disestablished in 1864. An extensive trade is carried on in peltry, silk
 goods, iron and wooden wares, salt fish, grain, cattle and horses. Four
 fairs are held yearly, the most important being on the 12th of June and
 the 15th of August. The numerous minor industries include the
-manufacture of tobacco, soap, candles, oil, bricks and leather. Pop.
+manufacture of tobacco, soap, [[Candle|candles]], oil, [[Brick|bricks]] and leather. Pop.
 (1867) 52,563; (1897) 53,728, Jews forming about 80%. In the treaty of
 demarcation between the Lithuanians and the Poles in 1546 Berdichev was
 assigned to the former. In 1768 Pulaski, leader of the confederacy of

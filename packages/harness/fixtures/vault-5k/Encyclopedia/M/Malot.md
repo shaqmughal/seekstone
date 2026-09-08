@@ -5,7 +5,7 @@ son of a notary, was born at La Bouille (Seine Inférieure) on the 20th
 of May 1830. He studied law at Rouen and Paris, but literature early
 absorbed his attention. He collaborated in the _Biographie générale_ of
 Didot, became literary critic of _L'Opinion Nationale_, and dramatic
-critic of the _Lloyd français_. He is the author of a long series of
+critic of the _[[Lloyd]] français_. He is the author of a long series of
 popular novels dealing with contemporary life, including: a trilogy of
 domestic novels entitled _Victimes d'amour_ (1859, 1865, 1866); _Un Beau
 frère_ (1869); _Madame Obernin_ (1870); _Le Docteur Claude_ (1879);

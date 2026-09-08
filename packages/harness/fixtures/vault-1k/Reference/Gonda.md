@@ -2,7 +2,7 @@
 
 GONDA, a town and district of British India, in the Fyzabad division of
 the United Provinces. The town is 28 m. N.W. of Fyzabad, and is an
-important junction on the Bengal & North-Western railway. The site on
+important junction on the [[Bengal]] & North-Western railway. The site on
 which it stands was originally a jungle, in the centre of which was a
 cattle-fold (_Gontha_ or _Gothah_), where the cattle were enclosed at
 night as a protection against wild beasts, and from this the town

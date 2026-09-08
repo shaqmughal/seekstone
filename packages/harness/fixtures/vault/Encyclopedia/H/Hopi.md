@@ -15,12 +15,12 @@ Coronado in 1540. With the town-building Indians of New Mexico they were
 then subdued. They shared in the successful revolt of 1542, but again
 suffered defeat in 1586. In 1680, however, they made a successful revolt
 against the Spaniards. They weave very fine blankets, make baskets and
-are expert potters and wood-carvers. Their houses are built of stone set
+are [[Expert|expert]] potters and wood-carvers. Their houses are built of stone set
 in mortar. Their ceremonies are of an elaborate nature, and in the
 famous "snake-dance" the performers carry live rattlesnakes in their
 mouths. They number some 1600. (See also PUEBLO INDIANS.)
 
-  For Hopi festivals, see _21st Ann. Report Bureau of Amer. Ethnology_
+  For Hopi festivals, see _21st Ann. Report [[Bureau]] of Amer. Ethnology_
   (1899-1900).
 
 ## See also

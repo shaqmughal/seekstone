@@ -15,7 +15,7 @@ Ovid styles it _gelidus_ (frosty) and _fumosus_ (smoky). In the reign of
 Commodus it was temporarily styled _Amazonius_, in honour of the
 emperor's mistress, whom he had had painted as an Amazon. The Saxons
 called it _winter-monath_, winter month, and _heligh-monath_, holy
-month, from the fact that Christmas fell within it. Thus the modern
+month, from the fact that [[Christmas]] fell within it. Thus the modern
 Germans call it _Christmonat_. The 22nd of December is the date of the
 winter solstice, when the sun reaches the tropic of Capricorn.
 

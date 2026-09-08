@@ -34,7 +34,7 @@ During Philip VI.'s reign fortune favoured the English. The French fleet
 was destroyed at Sluys on the 24th of June 1340. After the siege of
 Tournai a truce was arranged on the 25th of September 1340; but the next
 year the armies of England and France were again at war in Brittany on
-account of the rival pretensions of Charles of Blois and John of
+account of the rival pretensions of Charles of [[Blois]] and John of
 Montfort to the succession of that duchy. In 1346, while the French were
 trying to invade Guienne, Edward III. landed in Normandy, ravaged that
 province, part of the Ile de France and Picardy, defeated the French
@@ -46,18 +46,18 @@ on the 28th of September 1347.
 The principal feats of arms which mark the first years of John the
 Good's reign were the taking of St Jean d'Angely by the French in 1351,
 the defeat of the English near St Omer in 1352, and the English victory
-near Guines in the same year. In 1355 Edward III. invaded Artois while
+near [[Guines]] in the same year. In 1355 Edward III. invaded Artois while
 the Black Prince was pillaging Languedoc. In 1356 the battle of Poitiers
 (September 19), in which John was taken prisoner, was the signal for
-conflicts in Paris between Stephen Marcel and the dauphin, and for the
-outbreak of the Jacquerie. The treaty of Bretigny, concluded on the 8th
+conflicts in Paris between Stephen [[Marcel]] and the dauphin, and for the
+outbreak of the [[Jacquerie]]. The treaty of Bretigny, concluded on the 8th
 of May 1360, procured France several years' repose.
 
 Under Charles V. hostilities at first obtained only between French,
 Anglo-Navarrais (Du Guesclin's victory at Cocherel, May 16, 1364) and
 Bretons. In 1369, on the pretext that Edward III. had failed to observe
 the terms of the treaty of Bretigny, the king of France declared war
-against him. Du Guesclin, having been appointed Constable, defeated the
+against him. [[Du Guesclin]], having been appointed Constable, defeated the
 English at Pontvallain in 1370, at Chize in 1373, and drove them from
 their possessions between the Loire and the Gironde, while the duke of
 Anjou retook part of Guienne. Edward III. thereupon concluded the truce
@@ -80,31 +80,31 @@ victory of Agincourt (October 25, 1415), and then seized Caen and part
 of Normandy, while France was exhausting herself in the feuds of
 Armagnacs and Burgundians. By the treaty of Troyes (May 21, 1415) he
 obtained the hand of Catherine, Charles VI.'s daughter, with the titles
-of regent and heir to the kingdom of France. Having taken Meaux on the
+of regent and heir to the kingdom of France. Having taken [[Meaux]] on the
 2nd of May 1429, and made his entry into Paris on the 30th of May, he
 died on the 31st of August in the Bois de Vincennes, leaving the throne
-to his son, Henry VI., with the duke of Bedford as regent in France.
+to his son, Henry VI., with the duke of [[Bedford]] as regent in France.
 Charles VI. died shortly afterwards, on the 21st of October.
 
 His son, who styled himself Charles VII., suffered a series of defeats
 in the beginning of his reign: Cravant on the Yonne (1423), Verneuil
 (1424), St James de Beuvron (1426) and Rouvray (1429). Orleans, the last
-bulwark of royalty, had been besieged since the 12th of October 1428,
+[[Bulwark|bulwark]] of royalty, had been besieged since the 12th of October 1428,
 and was on the point of surrender when Joan of Arc appeared. She saved
 Orleans (May 8, 1429), defeated the English at Patay on the 16th of
 June, had Charles VII. crowned at Reims on the 17th of July, was taken
 at Compiegne on the 24th of May 1430, and was burned at Rouen on the
 30th of May 1431 (see JOAN OF ARC). From this time on the English lost
-ground steadily, and the treaty of Arras (March 20, 1435), by which good
+ground steadily, and the treaty of [[Arras]] (March 20, 1435), by which good
 relations were established between Charles VII. and Philip the Good,
 duke of Burgundy, dealt them a final blow. Normandy rose against them,
 while the constable De Richemont[1] drove them from Paris (1436) and
 retook Nemours, Montereau (1437) and Meaux (1439). The quickly repressed
 revolt of the Praguerie made no break in Charles VII.'s successes. In
-1442 he relieved successively Saint Sever, Dax, Marmande, La Reole, and
+1442 he relieved successively Saint Sever, [[Dax]], Marmande, La Reole, and
 in 1444 Henry VI. had to conclude the truce of Tours. In 1448 the
 English were driven from Mans; and in 1449, while Richemont was
-capturing Cotentin and Fougeres, Dunois conquered Lower Normandy and
+capturing Cotentin and [[Fougeres]], [[Dunois]] conquered Lower Normandy and
 Charles VII. entered Rouen. The defeat of Sir Thomas Kyriel, one of
 Bedford's veteran captains, at Formigny in 1450, and the taking of
 Cherbourg, completed the conquest of the province. During this time
@@ -116,9 +116,9 @@ War was terminated by the expulsion of the English, who were by this
 time so fully occupied with the Wars of the Roses as to be unable to
 take the offensive against France anew.
 
-  AUTHORITIES.--The chronicles of Jean le Bel, Adam Murimuth, Robert of
+  AUTHORITIES.--The chronicles of Jean le [[Bel]], Adam Murimuth, Robert of
   Avesbury, Froissart and "Le Religieux de Saint Denis." See Simeon
-  Luce, _Hist. de Bertrand du Guesclin_ (3rd ed., Paris, 1896); G. du
+  Luce, _Hist. de [[Bertrand]] du Guesclin_ (3rd ed., Paris, 1896); G. du
   Fresne de Beaucourt, _Hist. de Charles VII_ (6 vols., Paris,
   1881-1891); F. J. Snell, articles in the _United Service Magazine_
   (1906-1907).     (J. V.*)

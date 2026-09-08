@@ -6,10 +6,10 @@ the dominion of the Sindhia family. The state consists of two
 well-defined parts which may roughly be called the northern and the
 southern. The former is a compact mass of territory, bounded N. and N.W.
 by the Chambal river, which separates it from the British districts of
-Agra and Etawah, and the native states of Dholpur, Karauli and Jaipur of
+Agra and [[Etawah]], and the native states of [[Dholpur]], [[Karauli]] and Jaipur of
 Rajputana; E. by the British districts of Jalaun, Jhansi, Lalitpur and
-Saugor; S. by the states of Bhopal, Tonk, Khilchipur and Rajgarh; and W.
-by those of Jhalawar, Tonk and Kotah of Rajputana. The southern, or
+Saugor; S. by the states of [[Bhopal]], Tonk, [[Khilchipur]] and Rajgarh; and W.
+by those of [[Jhalawar]], Tonk and Kotah of Rajputana. The southern, or
 Malwa, portion is made up of detached or semi-detached districts,
 between which are interposed parts of other states, which again are
 mixed up with each other in bewildering intricacy. The two portions
@@ -26,7 +26,7 @@ temperature rising frequently to 112 deg. F., but in the winter months
 (from November to February inclusive) it is usually temperate and for
 short periods extremely cold. The average rainfall is 30 in., but the
 period 1891-1901 was a decade of low rainfall, and distress was caused
-by famine. South of this tract there is a gradual ascent to the Central
+by famine. South of this tract there is a [[Gradual|gradual]] ascent to the Central
 India plateau, and at Sipri the general level is 1500 ft. above the sea.
 On this plateau lies the remainder of the state, with the exception of
 the small district of Amjhera in the extreme south. The elevation of
@@ -47,7 +47,7 @@ north-western and northern and eastern boundary. The Sind, with its
 tributaries the Kuwari, Asar and Sankh, flows through the northern
 division. The chief products are wheat, millets, pulses of various
 kinds, maize, rice, linseed and other oil-seeds; poppy, yielding the
-Malwa opium; sugar-cane, cotton, tobacco, indigo, garlic, turmeric and
+Malwa opium; sugar-cane, cotton, tobacco, indigo, [[Garlic|garlic]], turmeric and
 ginger. About 60% of the population are employed in agricultural and
 only 15% in industrial occupations, the great majority of the latter
 being home workers. There is a leather-factory at Morar; cotton-presses
@@ -56,11 +56,11 @@ Shajapur and Sonkach; and a cotton-mill at Ujjain. The cotton industry
 alone shows possibilities of considerable development, there being
 55,000 persons engaged in it at the time of the census of 1901.
 
-The population is composed of many elements, among which Brahmans and
-Rajputs are specially numerous. The prevailing religion is Hinduism, 84%
+The population is composed of many elements, among which [[Brahman|Brahmans]] and
+Rajputs are specially numerous. The prevailing religion is [[Hinduism]], 84%
 of the people being Hindus and only 6% Mahommedans. The revenue of the
 state is about one million sterling; and large reserves have been
-accumulated, from which two millions were lent to the government of
+accumulated, from which two millions were [[Lent|lent]] to the government of
 India in 1887, and later on another million for the construction of the
 Gwalior-Agra and Indore-Neemuch railways. The railways undertaken by the
 state are: (1) from Bina on the Indian Midland to Goona; (2) an
@@ -71,16 +71,16 @@ occasion the viceroy opened the Victoria College, founded to commemorate
 the Diamond Jubilee; and the Memorial Hospital, built in memory of the
 maharaja's father. British currency has been introduced instead of
 Chandori rupees, which were much depreciated. The state maintains three
-regiments of Imperial Service cavalry, two battalions of infantry and a
-transport corps.
+regiments of Imperial Service [[Cavalry|cavalry]], two [[Battalion|battalions]] of infantry and a
+transport [[Corps|corps]].
 
 _History._--The Sindhia family, the rulers of the Gwalior state, belong
 to the Mahratta nation and originally came from the neighbourhood of
 Poona. Their first appearance in Central India was early in the 18th
 century in the person of Ranoji (d. 1745), a scion of an impoverished
 branch of the family, who began his career as the peshwa's
-slipper-carrier and rose by his military abilities to be commander of
-his bodyguard. In 1726, together with Malhar Rao Holkar, the founder of
+slipper-carrier and rose by his military abilities to be [[Commander|commander]] of
+his bodyguard. In 1726, together with Malhar Rao [[Holkar]], the founder of
 the house of Indore, he was authorized by the peshwa to collect tribute
 (_chauth_) in the Malwa districts. He established his headquarters at
 Ujjain, which thus became the first capital of Sindhia's dominions.
@@ -95,28 +95,28 @@ in Central India (1769). During the struggle which followed the death of
 Madhu Rao Peshwa in 1772 Mahadji seized every occasion for extending his
 power and possessions. In 1775, however, when Raghuba Peshwa threw
 himself on the protection of the British, the reverses which Mahadji
-encountered at their hands--Gwalior being taken by Major Popham in
+encountered at their hands--Gwalior being taken by [[Major]] Popham in
 1780--opened his eyes to their power. By the treaty of Salbai (1782) it
 was agreed that Mahadji should withdraw to Ujjain, and the British
-retire north of the Jumna. Mahadji, who undertook to open negotiations
+retire north of the [[Jumna]]. Mahadji, who undertook to open negotiations
 with the other belligerents, was recognized as an independent ruler, and
 a British resident was established at his court. Mahadji, aided by the
 British policy of neutrality, now set to work to establish his supremacy
 over Hindustan proper. Realizing the superiority of European methods of
 warfare, he availed himself of the services of a Savoyard soldier of
-fortune, Benoit de Boigne, whose genius for military organization and
+fortune, Benoit de [[Boigne]], whose genius for military organization and
 command in the field was mainly instrumental in establishing the
 Mahratta power. Mahadji's disciplined troops made him invincible. In
-1785 he re-established Shah Alam on the imperial throne at Delhi, and as
+1785 he re-established Shah Alam on the imperial throne at [[Delhi]], and as
 his reward obtained for the peshwa the title of _vakil-ul-mutlak_ or
-vicegerent of the empire, contenting himself with that of his deputy. In
+vicegerent of the empire, contenting himself with that of his [[Deputy|deputy]]. In
 1788 he took advantage of the cruelties practised by Ghulam Kadir on
 Shah Alam, to occupy Delhi, where he established himself as the
 protector of the aged emperor. Though nominally a deputy of the peshwa
 he was now ruler of a vast territory, including the greater part of
 Central India and Hindustan proper, while his lieutenants exacted
 tribute from the chiefs of Rajputana. There can be no doubt that he
-looked with apprehension on the growing power of the British; but he
+looked with [[Apprehension|apprehension]] on the growing power of the British; but he
 wisely avoided any serious collision with them.
 
 Mahadji died in 1794, and was succeeded by his adopted son, Daulat Rao
@@ -130,11 +130,11 @@ interposition of the British government was resented by the confederacy,
 and it brought on the Mahratta War of 1803. In the campaign that
 followed a combined Mahratta army, in which Daulat Rao's troops
 furnished the largest contingent, was defeated by General Arthur
-Wellesley at Assaye and Argaum in Central India; and Lord Lake routed
+Wellesley at Assaye and [[Argaum]] in Central India; and Lord Lake routed
 Daulat Rao's European-trained battalions in Northern India at Agra,
-Aligarh and Laswari. Daulat Rao was then compelled to sign the treaty of
+Aligarh and [[Laswari]]. Daulat Rao was then compelled to sign the treaty of
 Sarji Anjangaon (December 30, 1803), which stripped him of his
-territories between the Jumna and Ganges, the district of Broach in
+territories between the Jumna and [[Ganges]], the district of Broach in
 Gujarat and other lands in the south. By the same treaty he was deprived
 of the forts of Gwalior and Gohad; but these were restored by Lord
 Cornwallis in 1805, when the Chambal river was made the northern
@@ -143,7 +143,7 @@ Rao further agreed to maintain a subsidiary force, to be paid out of the
 revenues of the territories ceded under the treaty of Sarji Anjangaon.
 When, however, in 1816 he was called upon to assist in the suppression
 of the Pindaris, though by the treaty of Gwalior (1817) he promised his
-co-operation, his conduct was so equivocal that in 1818 he was forced to
+[[Co-Operation|co-operation]], his conduct was so equivocal that in 1818 he was forced to
 sign a fresh treaty by which he ceded Ajmere and other lands.
 
 Daulat Rao died without issue in 1827, and his widow, Baiza Bai (d.
@@ -151,13 +151,13 @@ Daulat Rao died without issue in 1827, and his widow, Baiza Bai (d.
 of the family, who succeeded as Jankoji Rao Sindhia. His rule was weak;
 the state was distracted by interminable palace intrigues and military
 mutinies, and affairs went from bad to worse when, in 1843, Jankoji Rao,
-who left no heir, was succeeded by another boy, adopted by his widow,
+who left no [[Heir|heir]], was succeeded by another boy, adopted by his widow,
 Tara Bai, under the name of Jayaji Rao Sindhia. The growth of turbulence
 and misrule now induced Lord Ellenborough to interpose, and a British
 force under Sir Hugh Gough advanced upon Gwalior (December 1843). The
 Mahratta troops were defeated simultaneously at Maharajpur and Punniar
 (December 29), with the result that the Gwalior government signed a
-treaty ceding territory with revenue sufficient for the maintenance of a
+treaty ceding territory with revenue sufficient for the [[Maintenance|maintenance]] of a
 contingent force to be stationed at the capital, and limiting the future
 strength of the Gwalior army, while a council of regency was appointed
 during the minority to act under the resident's advice. In 1857 the
@@ -181,8 +181,8 @@ attaching to his position. He was created an honorary aide-de-camp to
 the king-emperor and an honorary colonel in the British army. He went to
 China as orderly officer to General Gaselee in 1901, and provided the
 expedition with a hospital ship at his own expense, while his Imperial
-Service Transport Corps proved a useful auxiliary to the British army in
-the Chitral and Tirah expeditions.
+Service Transport Corps proved a useful [[Auxiliary|auxiliary]] to the British army in
+the [[Chitral]] and Tirah expeditions.
 
 The CITY OF GWALIOR is 76 m. by rail S. of Agra, and had a population in
 1901 of 119,433. This total includes the new town of Lashkar or "the
@@ -218,7 +218,7 @@ square, with a stone roof, forming one of the most beautiful
 palace-halls in the world. It was, besides, singularly interesting from
 the expedients to which the Hindu architect was forced to resort to
 imitate the vaults of the Moslems. Of the buildings, however, which so
-excited the admiration of the emperor Baber, probably little now
+excited the admiration of the emperor [[Baber]], probably little now
 remains. The fort of Gwalior, within which the above buildings are
 situated, stands on an isolated rock. The face is perpendicular and
 where the rock is naturally less precipitous it has been scarped. Its
@@ -234,15 +234,15 @@ Ghaus, erected during the early part of Akbar's reign. The fort of
 Gwalior was traditionally built by one Surya Sen, the raja of the
 neighbouring country. In 1196 Gwalior was captured by Mahommed Ghori; it
 then passed into the hands of several chiefs until in 1559 Akbar gained
-possession of it, and made it a state prison for captives of rank. On
+possession of it, and made it a state prison for [[Captive|captives]] of rank. On
 the dismemberment of the Delhi empire, Gwalior was seized by the Jat
 rana of Gohad. Subsequently it was garrisoned by Sindhia, from whom it
-was wrested in 1780 by the forces of the East India Company, and to whom
+was wrested in 1780 by the forces of the [[East India Company]], and to whom
 it was finally restored by the British in 1886. The modern town contains
 the palace of the chief, a college, a high school, a girls' school, a
 service school to train officials, a law school, hospitals for men and
 for women, a museum, paper-mills, and a printing-press issuing a state
-gazette.
+[[Gazette|gazette]].
 
 GWALIOR RESIDENCY, an administrative unit in the Central India agency,
 comprises Gwalior state and eleven smaller states and estates. Its total

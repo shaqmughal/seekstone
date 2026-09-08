@@ -19,7 +19,7 @@ cult became centralized in Phrygia, had found its way into Greece, where
 it never flourished greatly, as early as the latter 6th century B.C.,
 and was introduced at Rome in 204 B.C. Under the Empire it attained to
 great importance, and was one of the last pagan cults to die. Cybele was
-usually worshipped in connexion with Attis (q.v.), as Aphrodite with
+usually worshipped in connexion with [[Attis]] (q.v.), as [[Aphrodite]] with
 Adonis, the two being a duality interpreted by the philosophers as
 symbolic of Mother Earth and her vegetation.     (G. Sn.)
 

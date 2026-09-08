@@ -7,7 +7,7 @@ built on the slope of a hill overlooking the wide Ebro valley, which
 supplies its markets with an abundance of grain, wine, oil and flax. Its
 cathedral, which probably dates from the foundation of the see of Calahorra
 in the 5th century, was restored in 1485, and subsequently so much altered
-that little of the original Gothic structure survives. The Casa Santa,
+that little of the original [[Gothic]] structure survives. The Casa Santa,
 annually visited by many thousands of pilgrims on the 31st of August, is
 said to contain the bodies of the martyrs Emeterius and Celedonius, who
 were beheaded in the 3rd or 4th century, on the site now occupied by the
@@ -19,7 +19,7 @@ The chief remains of the Roman Calagurris are the vestiges of an aqueduct
 and an amphitheatre. Calagurris became famous in 76 B.C., when it was
 successfully defended against Pompey by the adherents of Sertorius. Four
 years later it was captured by Pompey's legate, Afranius, after starvation
-had reduced the garrison to cannibalism. Under Augustus (31 B.C.-A.D. 14)
+had reduced the [[Garrison|garrison]] to [[Cannibalism|cannibalism]]. Under Augustus (31 B.C.-A.D. 14)
 Calagurris received the privileges of Roman citizenship, and at a later
 date it was given the additional name of _Nassica_ to distinguish it from
 the neighbouring town of _Calagurris Fibularensis_, the exact site of which

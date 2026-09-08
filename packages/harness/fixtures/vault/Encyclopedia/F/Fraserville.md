@@ -2,7 +2,7 @@
 
 FRASERVILLE (formerly Riviere du Loup en Bas), a town and watering-place
 in Temiscouata county, Quebec, Canada, 107 m. (by water) north-east of
-Quebec, on the south shore of the St Lawrence river, and at the mouth of
+Quebec, on the south shore of the St [[Lawrence]] river, and at the mouth of
 the Riviere du Loup, at the junction of the Intercolonial and
 Temiscouata railways. It contains a convent, boys' college, hospital,
 several mills, and is a favourite summer resort on account of the

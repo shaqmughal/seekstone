@@ -12,7 +12,7 @@ Italy, and in particular the wars of the Guelphs and Ghibellines,
 brought it about that the condottieri and their leaders played a more
 conspicuous and important part in history than the "Free Companies"
 elsewhere. Amongst these circumstances the absence of a numerous feudal
-cavalry, the relative luxury of city life, and the incapacity of city
+[[Cavalry|cavalry]], the relative luxury of city life, and the incapacity of city
 militia for wars of aggression were the most prominent. From this it
 resulted that war was not merely the trade of the condottiere, but also
 his monopoly, and he was thus able to obtain whatever terms he asked,
@@ -21,7 +21,7 @@ recruited from wandering mercenary bands and individuals of all nations,
 and from the ranks of the many armies of middle Europe which from time
 to time overran Italy.
 
-Montreal d'Albarno, a gentleman of Provence, was the first to give them
+Montreal d'Albarno, a [[Gentleman|gentleman]] of Provence, was the first to give them
 a definite form. A severe discipline and an elaborate organization were
 introduced within the company itself, while in their relations to the
 people the most barbaric licence was permitted. Montreal himself was put
@@ -29,7 +29,7 @@ to death at Rome by Rienzi, and Conrad Lando succeeded to the command.
 The Grand Company, as it was called, soon numbered about 7000 cavalry
 and 1500 select infantry, and was for some years the terror of Italy.
 They seem to have been Germans chiefly. On the conclusion (1360) of the
-peace of Bretigny between England and France, Sir John Hawkwood (q.v.)
+peace of [[Bretigny]] between England and France, Sir John Hawkwood (q.v.)
 led an army of English mercenaries, called the White Company, into
 Italy, which took a prominent part in the confused wars of the next
 thirty years. Towards the end of the century the Italians began to
@@ -45,7 +45,7 @@ Naples, who had been a peasant of the Romagna, and by his rival
 Brancaccio di Montone in the service of Florence. The army and the
 renown of Sforza were inherited by his son Francesco Sforza, who
 eventually became duke of Milan (1450). Less fortunate was another great
-condottiere, Carmagnola, who first served one of the Visconti, and then
+condottiere, [[Carmagnola]], who first served one of the Visconti, and then
 conducted the wars of Venice against his former masters, but at last
 awoke the suspicion of the Venetian oligarchy, and was put to death
 before the palace of St Mark (1432). Towards the end of the 15th
@@ -53,7 +53,7 @@ century, when the large cities had gradually swallowed up the small
 states, and Italy itself was drawn into the general current of European
 politics, and became the battlefield of powerful armies--French, Spanish
 and German--the condottieri, who in the end proved quite unequal to the
-gendarmerie of France and the improved troops of the Italian states,
+[[Gendarmerie|gendarmerie]] of France and the improved troops of the Italian states,
 disappeared.
 
 The soldiers of the condottieri were almost entirely heavy armoured

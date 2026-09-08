@@ -1,19 +1,19 @@
 # Barnave
 
-BARNAVE, ANTOINE PIERRE JOSEPH MARIE (1761-1793), one of the greatest
-orators of the first French Revolution, was born at Grenoble in Dauphiné,
+BARNAVE, [[Antoine|ANTOINE]] PIERRE JOSEPH MARIE (1761-1793), one of the greatest
+orators of the first [[French Revolution]], was born at [[Grenoble]] in [[Dauphin]]é,
 on the 22nd of October 1761. He was of a Protestant family. His father was
 an advocate at the parlement of Grenoble, and his mother was a woman of
 high birth, superior ability and noble character. He was educated by his
 mother because, being a Protestant, he could not attend school, and he grew
 up at once thoughtful and passionate, studious and social, handsome in
-person and graceful in manners. He was brought up to the law, and at the
+person and graceful in [[Manners|manners]]. He was brought up to the law, and at the
 age of twenty-two made himself favourably known by a discourse pronounced
 before the local parlement on the division of political powers. Dauphiné
 was one of the first of the provinces to feel the excitement of the coming
 revolution; and Barnave was foremost to give voice to the general feeling,
 in a pamphlet entitled _Esprit des édits enregistrés militairement le 20
-mai 1788_. He was immediately elected deputy, with his father, to the
+mai 1788_. He was immediately elected [[Deputy|deputy]], with his father, to the
 states of Dauphiné, and took a prominent part in their debates. A few
 months later he was transferred to a wider field of action. The
 states-general were convoked at Versailles for the 5th of May 1789, and
@@ -24,7 +24,7 @@ Lameth (_q.v._) the group known during the Constituent Assembly as "the
 triumvirate." He took part in the conference on the claims of the three
 orders, drew up the first address to the king, and supported the proposal
 of Sieyès that the Assembly should declare itself National. Until 1791 he
-was one of the principal members of the club known later as the Jacobins,
+was one of the principal members of the club known later as the [[Jacobins]],
 of which he drew up the manifesto and first rules (see JACOBINS). Though a
 passionate lover of liberty, he hoped to secure the freedom of France and
 her monarchy at the same time. But he was almost unawares borne away by the
@@ -32,21 +32,21 @@ mighty currents of the time, and he took part in the attacks on the
 monarchy, on the clergy, on church property, and on the provincial
 parlements. With the one exception of Mirabeau, Barnave was the most
 powerful orator of the Assembly. On several occasions he stood in
-opposition to Mirabeau. After the fall of the Bastille he wished to save
+opposition to Mirabeau. After the fall of the [[Bastille]] he wished to save
 the throne. He advocated the suspensory veto, and the establishment of
-trial by jury in civil causes, but voted with the Left against the system
+trial by [[Jury|jury]] in civil causes, but voted with the Left against the system
 of two chambers. His conflict with Mirabeau on the question of assigning to
 the king the right to make peace or war (from the 16th to the 23rd of May
 1791) was one of the most striking scenes in the Assembly. In August 1790,
-after a vehement debate, he fought a duel with J. A. M. de Cazalès, in
+after a vehement debate, he fought a [[Duel|duel]] with J. A. M. de Cazalès, in
 which the latter was slightly wounded. About the close of October 1790
 Barnave was called to the presidency of the Assembly. On the death of
 Mirabeau a few months later, Barnave paid a high tribute to his worth and
-public services, designating him the Shakespeare of oratory. On the arrest
+public services, designating him the Shakespeare of oratory. On the [[Arrest|arrest]]
 of the king and the royal family at Varennes, while attempting to escape
 from France, Barnave was [v.03 p.0412] one of the three appointed to
 conduct them back to Paris. On the journey he was deeply affected by the
-mournful fate of Marie-Antoinette, and resolved to do what he could to
+mournful [[Fate|fate]] of Marie-Antoinette, and resolved to do what he could to
 alleviate their sufferings. In one of his most powerful speeches he
 maintained the inviolability of the king's person. His public career came
 to an end with the close of the Constituent Assembly, and he returned to

@@ -9,19 +9,19 @@ id: 42-7427
 
 # Citium
 
-CITIUM (Gr. [Greek: Kition]), the principal Phoenician city in Cyprus,
-situated at the north end of modern Larnaca, on the bay of the same name
+CITIUM (Gr. [Greek: Kition]), the principal Phoenician city in [[Cyprus]],
+situated at the north end of modern [[Larnaca]], on the bay of the same name
 on the S.E. coast of the island. Converging currents from E. and W. meet
 and pass seawards off Cape Kiti a few miles south, and greatly
 facilitated ancient trade. To S. and W. the site is protected by
-lagoons, the salt from which was one of the sources of its prosperity.
+[[Lagoon|lagoons]], the salt from which was one of the sources of its prosperity.
 The earliest remains near the site go back to the Mycenaean age (c.
 1400-1100 B.C.) and seem to mark an Aegean colony.[1] but in historic
 times Citium is the chief centre of Phoenician influence in Cyprus. That
 this was still a recent settlement in the 7th century is suggested by an
-allusion in a list of the allies of Assur-bani-pal of Assyria in 668
+allusion in a list of the allies of [[Assur-Bani-Pal|Assur-bani-pal]] of Assyria in 668
 B.C. to a King Damasu of Kartihadasti (Phoenician for "New-town"), where
-Citium would be expected. A Phoenician dedication to "Baal of Lebanon"
+Citium would be expected. A Phoenician [[Dedication|dedication]] to "Baal of [[Lebanon]]"
 found here, and dated also to the 7th century, suggests that Citium may
 have belonged to Tyre. The biblical name Kittim, derived from Citium, is
 in fact used quite generally for Cyprus as a whole;[2] later also for
@@ -41,10 +41,10 @@ an irreparable loss to science. Traces remain of the circuit wall, and
 of a sanctuary with copious terra-cotta offerings; the large necropolis
 yields constant loot to illicit excavation.
 
-  BIBLIOGRAPHY.--W.H. Engel, _Kypros_ (Berlin, 1841), (classical
+  BIBLIOGRAPHY.--W.H. [[Engel]], _Kypros_ (Berlin, 1841), (classical
   allusions); J.L. Myres, _Journ. Hellenic Studies_, xvii. 147 ff.
-  (excavations); _Cyprus Museum Catalogue_ (Oxford, 1899), p. 5-6;
-  153-155; Index (Antiquities); G.F. Hill, _Brit. Mus. Cat. Coins of
+  (excavations); _Cyprus Museum [[Catalogue]]_ (Oxford, 1899), p. 5-6;
+  153-155; [[Index]] (Antiquities); G.F. Hill, _Brit. Mus. Cat. [[Coin|Coins]] of
   Cyprus_ (London, 1904), (Coins). (J.L.M.)
 
 

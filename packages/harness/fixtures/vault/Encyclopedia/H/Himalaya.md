@@ -18,9 +18,9 @@ converted by the Greeks into _Emodos_ and _Imaos_.
 
 Modern geographers restrict the term Himalaya to that portion of the
 mountain region between India and Tibet enclosed within the arms of the
-Indus and the Brahmaputra. From the bend of the Indus southwards towards
+Indus and the Brahmaputra. From the [[Bend|bend]] of the Indus southwards towards
 the plains of the Punjab to the bend of the Brahmaputra southwards
-towards the plains of Assam, through a length of 1500 m., is Himachal or
+towards the plains of [[Assam]], through a length of 1500 m., is Himachal or
 Himalaya. Beyond the Indus, to the north-west, the region of mountain
 ranges which stretches to a junction with the Hindu Kush south of the
 Pamirs, is usually known as Trans-Himalaya. Thus the Himalaya represents
@@ -53,7 +53,7 @@ Godwin-Austen indicates six of these geological axes as follows:
   Indus), and passes in a south-east direction to the southern side of
   the Deosai plains. Thence, bending slightly south, it extends in the
   line of snowy peaks which are seen from Simla to the famous peaks of
-  Gangotri and Nanda Devi. This is the best known range of the Himalaya.
+  [[Gangotri]] and Nanda Devi. This is the best known range of the Himalaya.
 
   5. The outer Himalaya or Pir Panjal-Dhaoladhar ridge.
 
@@ -78,17 +78,17 @@ investigations has been to prove that the Muztagh range, as it trends
 south-eastwards and finally forms a continuous mountain barrier together
 with the Karakoram, is the true water-divide west of the Tibetan
 plateau. Shutting off the sources of the Indus affluents from those of
-the Central Asian system of hydrography, this great water-parting is
+the Central Asian system of [[Hydrography|hydrography]], this great water-parting is
 distinguished by a group of peaks of which the altitude is hardly less
 than that of the Eastern Himalaya. Mount Godwin-Austen (28,250 ft.
-high), only 750 ft. lower than Everest, affords an excellent example in
-Asiatic geography of a dominating, peak-crowned water-parting or divide.
-From Kailas on the far west to the extreme north-eastern sources of the
+high), only 750 ft. lower than [[Everest]], affords an excellent example in
+Asiatic [[Geography|geography]] of a dominating, peak-crowned water-parting or divide.
+From [[Kailas]] on the far west to the extreme north-eastern sources of the
 Brahmaputra, the great northern water-parting of the Indo-Tibetan
 highlands has only been occasionally touched. Littledale, du Rhins and
 Bonvalot may have stood on it as they looked southwards towards Lhasa,
 but for some 500 or 600 m. east of Kailas it appears to be lost in the
-mazes of the minor ranges and ridges of the Tibetan plateau. Nor can it
+[[Maze|mazes]] of the minor ranges and ridges of the Tibetan plateau. Nor can it
 be said to be as yet well defined to the east of Lhasa.
 
 
@@ -101,9 +101,9 @@ longer from the elevated plateau, but from the rugged slopes of a wild
 region of mountains which assumes a systematic conformation where its
 successive ridges are arranged in concentric curves around the great
 bend of the Brahmaputra, wherein are hidden the sources of all the great
-rivers of Burma and China. Neither immediately beyond this great bend,
+rivers of [[Burma]] and China. Neither immediately beyond this great bend,
 nor within it in the Himalayan regions lying north of Assam and east of
-Bhutan, have scientific investigations yet been systematically carried
+[[Bhutan]], have scientific investigations yet been systematically carried
 out; but it is known that the largest of the Himalayan affluents of the
 Brahmaputra west of the bend derive their sources from the Tibetan
 plateau, and break down through the containing bands of hills, carrying
@@ -133,7 +133,7 @@ which is more or less marked throughout the whole of the north-west
 Indian borderland. North of Bhutan, between the Himalayan crest and
 Lhasa, this formation is approximately maintained; farther east,
 although the same natural forces first resulted in the same effect of
-successive folds of the earth's crust, forming extensive curves of ridge
+successive [[Fold|folds]] of the earth's crust, forming extensive curves of ridge
 and furrow, the abundant rainfall and the totally distinct climatic
 conditions which govern the processes of denudation subsequently led to
 the erosion of deeper valleys enclosed between forest-covered ranges
@@ -145,12 +145,12 @@ which rise steeply from the river banks.
 Although suggestions have been made of the existence of higher peaks
 north of the Himalaya than that which dominates the Everest group, no
 evidence has been adduced to support such a contention. On the other
-hand the observations of Major Ryder and other surveyors who explored
+hand the observations of [[Major]] Ryder and other surveyors who explored
 from Lhasa to the sources of the Brahmaputra and Indus, at the
 conclusion of the Tibetan mission in 1904, conclusively prove that Mount
 Everest, which appears from the Tibetan plateau as a single dominating
 peak, has no rival amongst Himalayan altitudes, whilst the very
-remarkable investigations made by permission of the Nepal durbar from
+remarkable investigations made by permission of the Nepal [[Durbar|durbar]] from
 peaks near Kathmandu in 1903, by Captain Wood, R.E., not only place the
 Everest group apart from other peaks with which they have been confused
 by scientists, isolating them in the topographical system of Nepal, but
@@ -161,9 +161,9 @@ well defined. So much controversy has been aroused on the subject of
 Himalayan altitudes that the present position of scientific analysis in
 relation to them may be shortly stated. The heights of peaks determined
 by exact processes of trigonometrical observation are bound to be more
-or less in error for three reasons: (1) the extraordinary geoidal
+or less in [[Error|error]] for three reasons: (1) the extraordinary geoidal
 deformation of the level surface at the observing stations in submontane
-regions; (2) ignorance of the laws of refraction when rays traverse
+regions; (2) [[Ignorance|ignorance]] of the laws of refraction when rays traverse
 rarefied air in snow-covered regions; (3) ignorance of the variations in
 the actual height of peaks due to the increase, or decrease, of snow.
 The value of the heights attached to the three highest mountains in the
@@ -176,7 +176,7 @@ following extent:
   |                   | Value of Height.|     Value.    |
   +-------------------+-----------------+---------------+
   | Mount Everest     |      29,002     |     29,141    |
-  | K2 (Godwin Austen)|      28,250     |     28,191    |
+  | K2 (Godwin [[Austen]])|      28,250     |     28,191    |
   | Kinchinjunga      |      28,146     |     28,225    |
   +-------------------+-----------------+---------------+
 
@@ -198,7 +198,7 @@ K2 third on the list.     (T. H. H.*)
   its northern part, must have been beneath the sea--the Central
   Mediterranean Sea of Neumayr or Tethys of Suess. In the peninsula,
   however, no marine fossils have yet been found of earlier date than
-  Jurassic and Cretaceous, and these are confined to the neighbourhood
+  [[Jurassic]] and Cretaceous, and these are confined to the neighbourhood
   of the coasts; the principal fossiliferous deposits are the
   plant-bearing beds of the Gondwana series, and there can be no doubt
   that, at least since the Carboniferous period, nearly the whole of the
@@ -249,13 +249,13 @@ K2 third on the list.     (T. H. H.*)
   shales, which belong to the Permian period. It is, however, possible
   that this erosion was merely local, for in other places there seems to
   be a complete passage from the Carboniferous to the Permian. From the
-  Permian to the Lias the sequence in the central Himalaya shows no sign
+  Permian to the [[Lias]] the sequence in the central Himalaya shows no sign
   of a break, nor has any unconformity been proved between the Liassic
   beds and the overlying Spiti shales, which contain fossils of Middle
   and Upper Jurassic age. The Spiti shales are succeeded conformably by
-  Cretaceous beds (Gieumal sandstone below and Chikkim limestone above),
+  Cretaceous beds (Gieumal sandstone below and Chikkim [[Limestone|limestone]] above),
   and these are followed without a break by Nummulitic beds of Eocene
-  age, much disturbed and altered by intrusions of gabbro and syenite.
+  age, much disturbed and altered by intrusions of [[Gabbro|gabbro]] and syenite.
   Thus, in the Spiti area at least, there appears to have been
   continuous deposition of marine beds from the Permian _Productus_
   shales to the Eocene Nummulitic formation. The next succeeding deposit
@@ -280,9 +280,9 @@ K2 third on the list.     (T. H. H.*)
   Himalaya proper consist mainly of pre-Tertiary rocks without fossils.
   Throughout the whole length of the chain, wherever the junction of the
   Siwaliks with the pre-Tertiary rocks has been seen, it is a great
-  reversed fault. West of the Blas river a similar reversed fault forms
+  reversed [[Fault|fault]]. West of the Blas river a similar reversed fault forms
   the boundary between the lower Tertiaries and the pre-Tertiary rocks
-  of the Himalaya, while between the Sutlej and the Jumna rivers, where
+  of the Himalaya, while between the Sutlej and the [[Jumna]] rivers, where
   the lower Tertiaries help to form the lower Himalaya, the fault lies
   between them and the Siwaliks. The hade of the fault is constantly
   inwards, towards the centre of the chain, and the older rocks which
@@ -332,7 +332,7 @@ K2 third on the list.     (T. H. H.*)
   thrust-plane may move, yet the pressure which pushes it forwards
   necessarily proceeds from behind. The back, accordingly, moves faster
   than the front, and the whole is packed together; as when an ice-floe
-  drives against the shore, the ice breaks and the outer fragments ride
+  drives against the shore, the [[Ice|ice]] breaks and the outer fragments ride
   over those within. The great thrust-plane which is thus imagined to
   exist at the base of the Himalaya, corresponds with the "major
   thrusts" of the N.W. Highlands of Scotland, and the reversed faults
@@ -347,7 +347,7 @@ K2 third on the list.     (T. H. H.*)
   beds of hard limestone or sandstone alternating with soft shales,
   which leads to the scooping out by erosion of long narrow valleys
   where the shales occur, and the passage of the streams through deep
-  rifts or gorges across the hard limestone anticlinals, which stand in
+  rifts or [[Gorges|gorges]] across the hard limestone anticlinals, which stand in
   irregular series of parallel ridges with the eroded valleys between.
   The great mass of the Himalaya exhibits the same structure, due to the
   same conditions acting for longer periods and on a much larger scale;
@@ -358,7 +358,7 @@ K2 third on the list.     (T. H. H.*)
   part the erosive action of the river has been able to keep pace with
   the rise of the river bed, and we have deep, steep-sided valleys
   arranged between the same parallel system of folds as we see on the
-  western frontier, connected by short transverse gaps where the rivers
+  western frontier, connected by short transverse [[Gap|gaps]] where the rivers
   cross the folds, frequently to resume a course parallel to that
   originally held. An instance of this occurs where the Indus suddenly
   breaks through the well-defined Ladakh range in the North-west
@@ -368,7 +368,7 @@ K2 third on the list.     (T. H. H.*)
   general strike of the ridges is that it is antecedent--i.e. that the
   lines of drainage were formed ere the folds or anticlinals were
   raised; and that the drainage has merely maintained the course
-  originally held, by the power of erosion during the gradual process of
+  originally held, by the power of erosion during the [[Gradual|gradual]] process of
   upheaval.
 
   In the outer valleys of the Himalaya the sides are generally steep, so
@@ -389,7 +389,7 @@ K2 third on the list.     (T. H. H.*)
 
   Other rivers besides the Indus and the Brahmaputra begin by draining a
   considerable area north of the snowy range--the Sutlej, the Kosi, the
-  Gandak and the Subansiri, for example. All these rivers break through
+  [[Gandak]] and the Subansiri, for example. All these rivers break through
   the main snowy range ere they twist their way through the southern
   hills to the plains of India. Here the "antecedent" theory will not
   suffice, for there is no sufficient catchment area north of the snows
@@ -405,7 +405,7 @@ K2 third on the list.     (T. H. H.*)
   summit of the pass, from which point it falls with a comparatively
   gentle gradient to the general level of the plateau. The Zoji La, the
   Kashmir water-divide between the Jhelum and the Indus, is a prominent
-  case in point, and all the passes from the Kumaon and Garhwal hills
+  case in point, and all the passes from the Kumaon and [[Garhwal]] hills
   into Tibet exhibit this formation in a marked degree. Taking the
   average elevation of the central axial line of snowy peaks as 19,000
   ft., the average height of the passes is not more than 10,000 owing to
@@ -418,7 +418,7 @@ K2 third on the list.     (T. H. H.*)
   conformation contained in the Himalayan system, the vast altitude of
   the mountains alone is sufficient to cause modifications of climate in
   ascending over their slopes such as are not surpassed by those
-  observed in moving from the equator to the poles. One half of the
+  observed in moving from the [[Equator|equator]] to the poles. One half of the
   total mass of the atmosphere and three-fourths of the water suspended
   in it in the form of vapour lie below the average altitude of the
   Himalaya; and of the residue, one-half of the air and virtually almost
@@ -441,7 +441,7 @@ K2 third on the list.     (T. H. H.*)
   height of summer. It should be noted that the thermometrical
   conditions of Tibet vary considerably from those of the Himalaya. At
   12,000 ft. in Tibet the mean of the hottest month is about 60 deg. F.
-  and of the coldest about 10 deg. F. whilst, at 15,000 ft. the frost is
+  and of the coldest about 10 deg. F. whilst, at 15,000 ft. the [[Frost|frost]] is
   only permanent from the end of October to the end of April. The
   distribution of vegetation and topographical conformation largely
   influence the question of local temperature. For instance it may be
@@ -484,9 +484,9 @@ K2 third on the list.     (T. H. H.*)
   the Tibetan table-land.
 
   The yearly rainfall, which amounts to between 60 and 70 in. in the
-  delta of the Ganges, is reduced to about 40 in. when that river issues
+  [[Delta|delta]] of the [[Ganges]], is reduced to about 40 in. when that river issues
   from the mountains, and diminishes to 30 in. at the debouchment of the
-  Indus into the plains. At Darjeeling (7000 ft. altitude) on the outer
+  Indus into the plains. At [[Darjeeling]] (7000 ft. altitude) on the outer
   ranges of the eastern Himalaya it amounts to about 120 in. At Naini
   Tal north of the United Provinces it is about 90 in.; at Simla about
   80 in., diminishing still further as one approaches the north-western
@@ -540,7 +540,7 @@ K2 third on the list.     (T. H. H.*)
   according closely with those obtained under analogous conditions in
   the Alps, viz. rates from 9(1/2) to 14(1/4) in. in twenty-four hours.
   The motion of one glacier from the middle of May to the middle of
-  October averaged 8 in. in the twenty-four hours. The dimensions of
+  October averaged 8 in. in the twenty-four hours. The [[Dimension|dimensions]] of
   the glaciers on the outer Himalaya, where, as before remarked, the
   valleys descend rapidly to lower levels, are fairly comparable with
   those of Alpine glaciers, though frequently much exceeding them in
@@ -552,7 +552,7 @@ K2 third on the list.     (T. H. H.*)
   extremities of the two glaciers at its opposite ends. Another single
   glacier has been surveyed 36 m. long.
 
-  The northern tributaries of the Gilgit river, which joins the Indus
+  The northern tributaries of the [[Gilgit]] river, which joins the Indus
   near its south-westerly bend towards the Punjab, take their rise from
   a glacier system which is probably unequalled in the world for its
   extent and magnificent proportions. Chief amongst them are the
@@ -586,14 +586,14 @@ K2 third on the list.     (T. H. H.*)
   that of the contiguous peninsula and islands, though the tropical and
   insular character gradually becomes less marked going from east to
   west, where, with a greater elevation and distance from the sea and
-  higher latitude, the rainfall and humidity diminish and the winter
+  higher [[Latitude|latitude]], the rainfall and humidity diminish and the winter
   cold increases. The vegetation of the western part of the plain and of
   the hottest zone of the western mountains thus becomes closely allied
   to, or almost identical with, that of the drier parts of the Indian
   peninsula, more especially of its hilly portions; and, while a general
   tropical character is preserved, forms are observed which indicate the
   addition of an Afghan as well as of an African element, of which last
-  the gay lily _Gloriosa superba_ is an example, pointing to some
+  the gay lily _[[Gloriosa]] superba_ is an example, pointing to some
   previous connexion with Africa.
 
   The European flora, which is diffused from the Mediterranean along the
@@ -611,7 +611,7 @@ K2 third on the list.     (T. H. H.*)
   greater uniformity of character in the vegetation is maintained along
   the whole chain. At the greater elevations the species identical with
   those of Europe become more frequent, and in the alpine regions many
-  plants are found identical with species of the Arctic zone. On the
+  plants are found identical with species of the [[Arctic]] zone. On the
   Tibetan plateau, with the increased dryness, a Siberian type is
   established, with many true Siberian species and more genera; and some
   of the Siberian forms are further disseminated, even to the plains of
@@ -634,13 +634,13 @@ K2 third on the list.     (T. H. H.*)
   remarkable, climbing over the largest trees; and this is the western
   limit of _Cycas_ and _Myristica_ (nutmeg). Plantains ascend to 7000
   ft. _Pandanus_ and tree-ferns abound. Other ferns, _Scitamineae_,
-  orchids and climbing _Aroideae_ are very numerous, the last named
+  orchids and climbing _[[Aroideae]]_ are very numerous, the last named
   profusely adorning the forests with their splendid dark-green foliage.
   Various oaks descend within a few hundred feet of the sea-level,
   increasing in numbers at greater altitudes, and becoming very frequent
   at 4000 ft., at which elevation also appear _Aucuba_, _Magnolia_,
-  cherries, _Pyrus_, maple, alder and birch, with many _Araliaceae_,
-  _Hollbollea_, _Skimmia_, _Daphne_, _Myrsine_, _Symplocos_ and _Rubus_.
+  cherries, _Pyrus_, [[Maple|maple]], alder and [[Birch|birch]], with many _Araliaceae_,
+  _Hollbollea_, _Skimmia_, _[[Daphne]]_, _Myrsine_, _Symplocos_ and _Rubus_.
   Rhododendrons begin at about 6000 ft. and become abundant at 8000 ft.,
   from 10,000 to 14,000 ft. forming in many places the mass of the
   shrubby vegetation which extends some 2000 ft. above the forest.
@@ -656,7 +656,7 @@ K2 third on the list.     (T. H. H.*)
   hill-sides, a luxuriant herbaceous vegetation appears, and the number
   of shrubby _Leguminosae_, such as _Desmodium_ and _Indigofera_,
   increases, as well as _Ranunculaceae_, _Rosaceae_, _Umbelliferae_,
-  _Labiatae_, _Gramineae_, _Cyperaceae_ and other European genera.
+  _[[Labiatae]]_, _Gramineae_, _[[Cyperaceae]]_ and other European genera.
 
   Passing to the westward, and viewing the flora of Kumaon, which
   province holds a central position on the chain, on the 80th meridian,
@@ -670,14 +670,14 @@ K2 third on the list.     (T. H. H.*)
 
   The outer ranges of mountains are mainly covered with forests of
   _Pinus longifolia_, rhododendron, oak and _Pieris_. At Naini Tal
-  cypress is abundant. The shrubby vegetation comprises _Rosa_, _Rubus_,
+  [[Cypress|cypress]] is abundant. The shrubby vegetation comprises _Rosa_, _Rubus_,
   _Indigofera_, _Desmodium_, _Berberis_, _Boehmeria_, _Viburnum_,
   _Clematis_, with an _Arundinaria_. Of herbaceous plants species of
   _Ranunculus_, _Potentilla_, _Geranium_, _Thalictrum_, _Primula_,
   _Gentiana_ and many other European forms are common. In the less
   exposed localities, on northern slopes and sheltered valleys, the
   European forms become more numerous, and we find species of alder,
-  birch, ash, elm, maple, holly, hornbeam, _Pyrus_, &c. At greater
+  birch, ash, [[Elm|elm]], maple, [[Holly|holly]], hornbeam, _Pyrus_, &c. At greater
   elevations in the interior, besides the above are met _Corylus_, the
   common walnut, found wild throughout the range, horse chestnut, yew,
   also _Picea Webbiana_, _Pinus excelsa_, _Abies Smithiana_, _Cedrus
@@ -689,12 +689,12 @@ K2 third on the list.     (T. H. H.*)
 
   The herbaceous vegetation does not differ greatly, generically, from
   that of the east, and many species of _Primulaceae_, _Ranunculaceae_,
-  _Cruciferae_, _Labiatae_ and _Scrophulariaceae_ occur; balsams abound,
+  _Cruciferae_, _Labiatae_ and _Scrophulariaceae_ occur; [[Balsam|balsams]] abound,
   also beautiful forms of _Campanulaceae_, _Gentiana_, _Meconopsis_,
   _Saxifraga_ and many others.
 
   Cultivation hardly extends above 7000 ft., except in the valleys
-  behind the great snowy peaks, where a few fields of buckwheat and
+  behind the great snowy peaks, where a few [[Fields|fields]] of [[Buckwheat|buckwheat]] and
   Tibetan barley are sown up to 11,000 or 12,000 ft. At the lower
   elevations rice, maize and millets are common, wheat and barley at a
   somewhat higher level, and buckwheat and amaranth usually on the
@@ -743,11 +743,11 @@ K2 third on the list.     (T. H. H.*)
   indigenous tea of Assam, which is not specifically different, and is
   perhaps the original parent of the Chinese variety, is now almost
   everywhere preferred. The produce of the Chinese variety in the hot
-  and wet climate of the eastern Himalaya, Assam and eastern Bengal is
+  and wet climate of the eastern Himalaya, Assam and eastern [[Bengal]] is
   neither so abundant nor so highly flavoured as that of the indigenous
   plant.
 
-  The cultivation of the cinchona, several species of which have been
+  The cultivation of the [[Cinchona|cinchona]], several species of which have been
   introduced from South America and naturalized in the Sikkim Himalaya,
   promises to yield at a comparatively small cost an ample supply of the
   febrifuge extracted from its bark. At present the manufacture is
@@ -758,7 +758,7 @@ K2 third on the list.     (T. H. H.*)
   much the same conditions that have controlled the vegetation. The
   connexion with Europe on the north-west, with China on the north-east,
   with Africa on the south-west, and with the Malayan region on the
-  south-east is manifest; and the greater or less prevalence of the
+  south-east is [[Manifest|manifest]]; and the greater or less prevalence of the
   European and Eastern forms varies according to more western or eastern
   position on the chain. So far as is known these remarks will apply to
   the extinct as well as to the existing fauna. The Palaeozoic forms
@@ -775,17 +775,17 @@ K2 third on the list.     (T. H. H.*)
   that of the northern half of the old continent, which region has by
   zoologists been termed Palaearctic. Among the characteristic animals
   may be named the yak, from which is reared a cross breed with the
-  ordinary horned cattle of India, many wild sheep, and two antelopes,
-  as well as the musk-deer; several hares and some burrowing animals,
+  ordinary horned cattle of India, many wild sheep, and two [[Antelope|antelopes]],
+  as well as the musk-deer; several [[Hare|hares]] and some burrowing animals,
   including pikas (_Lagomys_) and two or three species of marmot;
-  certain arctic forms of carnivora--fox, wolf, lynx, ounce, marten and
+  certain arctic forms of carnivora--fox, wolf, [[Lynx|lynx]], ounce, marten and
   ermine; also wild asses. Among birds are found bustard and species of
   sand-grouse and partridge; water-fowl in great variety, which breed on
   the lakes in summer and migrate to the plains of India in winter; the
-  raven, hawks, eagles and owls, a magpie, and two kinds of chough; and
+  raven, [[Hawks|hawks]], [[Eagle|eagles]] and owls, a [[Magpie|magpie]], and two kinds of chough; and
   many smaller birds of the passerine order, amongst which are several
-  finches. Reptiles, as might be anticipated, are far from numerous, but
-  a few lizards are found, belonging for the most part to types, such as
+  [[Finch|finches]]. Reptiles, as might be anticipated, are far from numerous, but
+  a few [[Lizard|lizards]] are found, belonging for the most part to types, such as
   _Phrynocephalus_, characteristic of the Central-Asiatic area. The
   fishes from the headwaters of the Indus also belong, for the most
   part, to Central-Asiatic types, with a small admixture of purely
@@ -797,8 +797,8 @@ K2 third on the list.     (T. H. H.*)
   particularly in respect to birds, to which the forest-clad mountains
   offer almost every range of temperature.
 
-  Only two or three forms of monkey enter the mountains, the langur, a
-  species of _Semnopithecus_, ranging up to 12,000 ft. No lemurs occur,
+  Only two or three forms of monkey enter the mountains, the [[Langur|langur]], a
+  species of _Semnopithecus_, ranging up to 12,000 ft. No [[Lemur|lemurs]] occur,
   although a species is found in Assam, and another in southern India.
   Bats are numerous, but the species are for the most part not peculiar
   to the area; several European forms are found at the higher
@@ -810,23 +810,23 @@ K2 third on the list.     (T. H. H.*)
   are common, and so are a marten, several weasels and otters, and cats
   of various kinds and sizes, from the little spotted _Felis
   bengalensis_, smaller than a domestic cat, to animals like the clouded
-  leopard rivalling a leopard in size. Leopards are common, and the
+  [[Leopard|leopard]] rivalling a leopard in size. Leopards are common, and the
   tiger wanders to a considerable elevation, but can hardly be
   considered a permanent inhabitant, except in the lower valleys.
-  Civets, the mungoose (_Herpestes_), and toddy cats (_Paradoxurus_) are
-  only found at the lower elevations. Wild dogs (_Cyon_) are common, but
-  neither foxes nor wolves occur in the forest area. Besides these
+  [[Civet|Civets]], the mungoose (_Herpestes_), and toddy cats (_Paradoxurus_) are
+  only found at the lower elevations. Wild [[Dogs|dogs]] (_Cyon_) are common, but
+  neither [[Foxe|foxes]] nor wolves occur in the forest area. Besides these
   carnivora some very peculiar forms are found, the most remarkable of
   which is Aelurus, sometimes called the cat-bear, a type akin to the
   American racoon. Two other genera, _Helictis_, an aberrant badger, and
-  linsang, an aberrant civet, are representatives of Malayan types.
+  [[Linsang|linsang]], an aberrant civet, are representatives of Malayan types.
   Amongst the rodents squirrels abound, and the so-called flying
   squirrels are represented by several species. Rats and mice swarm,
   both kinds and individuals being numerous, but few present much
   peculiarity, a bamboo rat (_Rhizomys_) from the base of the eastern
   Himalaya being perhaps most worthy of notice. Two or three species of
   vole (_Arvicola_) have been detected, and porcupines are common. The
-  elephant is found in the outer forests as far as the Jumna, and the
+  [[Elephant|elephant]] is found in the outer forests as far as the Jumna, and the
   rhinoceros as far as the Sarda; the spread of both of these animals as
   far as the Indus and into the plains of India, far beyond their
   present limits, is authenticated by historical records; they have
@@ -836,13 +836,13 @@ K2 third on the list.     (T. H. H.*)
   the base of the mountains in Nepal and Sikim. Deer of several kinds
   are met with, but do not ascend very high on the hillsides, and belong
   exclusively to Indian forms. The musk deer keeps to the greater
-  elevations. The chevrotains of India and the Malay countries are
+  elevations. The [[Chevrotain|chevrotains]] of India and the Malay countries are
   unrepresented. The gaur or wild ox is found at the base of the hills.
   Three very characteristic ruminants, having some affinities with
   goats, inhabit the Himalaya; these are the "serow" (_Nemorhaedus_),
-  "goral" (_Cemas_) and "tahr" (_Hemitragus_), the last-named ranging to
+  "[[Goral|goral]]" (_Cemas_) and "tahr" (_Hemitragus_), the last-named ranging to
   rather high elevations. Lastly, the pangolin (_Manis_) is represented
-  by two species in the eastern Himalaya. A dolphin (_Platanista_)
+  by two species in the eastern Himalaya. A [[Dolphin|dolphin]] (_Platanista_)
   living in the Ganges ascends that river and its affluents to their
   issue from the mountains.
 
@@ -854,21 +854,21 @@ K2 third on the list.     (T. H. H.*)
   _Glaucidium_, is conspicuous, breaking the stillness of the night by
   its monotonous though musical cry of two notes. Several kinds of
   swifts and nightjars are found, and gorgeously-coloured trogons,
-  bee-eaters, rollers, and beautiful kingfishers and barbets are common.
+  bee-eaters, rollers, and beautiful [[Kingfisher|kingfishers]] and barbets are common.
   Several large hornbills inhabit the highest trees in the forest. The
   parrots are restricted to parrakeets, of which there are several
   species, and a single small lory. The number of woodpeckers is very
   great and the variety of plumage remarkable, and the voice of the
-  cuckoo, of which there are numerous species, resounds in the spring as
+  [[Cuckoo|cuckoo]], of which there are numerous species, resounds in the spring as
   in Europe. The number of passerine birds is immense. Amongst them the
   sun-birds resemble in appearance and almost rival in beauty the
-  humming-birds of the New Continent. Creepers, nuthatches, shrikes, and
-  their allied forms, flycatchers and swallows, thrushes, dippers and
+  [[Humming-Bird|humming-birds]] of the New Continent. Creepers, nuthatches, shrikes, and
+  their allied forms, [[Flycatcher|flycatchers]] and swallows, thrushes, dippers and
   babblers (about fifty species), bulbuls and orioles, peculiar types of
-  redstart, various sylviads, wrens, tits, crows, jays and magpies,
-  weaver-birds, avadavats, sparrows, crossbills and many finches,
+  redstart, various sylviads, wrens, tits, crows, [[Jay|jays]] and magpies,
+  weaver-birds, avadavats, sparrows, [[Crossbill|crossbills]] and many finches,
   including the exquisitely coloured rose-finches, may also be
-  mentioned. The pigeons are represented by several wood-pigeons, doves
+  mentioned. The pigeons are represented by several wood-pigeons, [[Dove|doves]]
   and green pigeons. The gallinaceous birds include the peacock, which
   everywhere adorns the forest bordering on the plains, jungle fowl and
   several pheasants; partridges, of which the chikor may be named as
@@ -911,27 +911,27 @@ K2 third on the list.     (T. H. H.*)
   gorgeous species of _Papilio_, _Nymphalidae_, _Morphidae_ and
   _Danaidae_, and the more favoured localities are described as being
   only second to South America in the display of this form of beauty and
-  variety in insect life. Moths, also, of strange forms and of great
+  variety in [[Insect|insect]] life. Moths, also, of strange forms and of great
   size are common. The cicada's song resounds among the woods in the
   autumn; flights of locusts frequently appear after the summer, and
   they are carried by the prevailing winds even among the glaciers and
-  eternal snows. Ants, bees and wasps of many species, and flies and
-  gnats abound, particularly during the summer rainy season, and at all
+  eternal snows. Ants, [[Bee|bees]] and wasps of many species, and flies and
+  [[Gnat|gnats]] abound, particularly during the summer rainy season, and at all
   elevations.
 
   _Mountain Scenery._--Much has been written about the impressiveness
   of Himalayan scenery. It is but lately, however, that any adequate
-  conception of the magnitude and majesty of the most stupendous of the
+  conception of the magnitude and [[Majesty|majesty]] of the most stupendous of the
   mountain groups which mass themselves about the upper tributaries and
   reaches of the Indus has been presented to us in the works of Sir F.
-  Younghusband, Sir W. M. Conway, H. C. B. Tanner and D. Freshfield. It
+  Younghusband, Sir W. M. [[Conway]], H. C. B. Tanner and D. Freshfield. It
   is not in comparison with the picturesque beauty of European Alpine
-  scenery that the Himalaya appeals to the imagination, for amongst the
+  scenery that the Himalaya appeals to the [[Imagination|imagination]], for amongst the
   hills of the outer Himalaya--the hills which are known to the majority
   of European residents and visitors--there is often a striking absence
   of those varied incidents and sharp contrasts which are essential to
   picturesqueness in mountain landscape. Too often the brown, barren,
-  sun-scorched ridges are obscured in the yellow dust haze which drifts
+  sun-scorched ridges are obscured in the yellow [[Dust|dust]] haze which [[Drift|drifts]]
   upwards from the plains; too often the whole perspective of hill and
   vale is blotted out in the grey mists that sweep in soft, resistless
   columns against these southern slopes, to be condensed and
@@ -960,11 +960,11 @@ K2 third on the list.     (T. H. H.*)
     |                     | Sandakphu, 12,000 ft.|    "   |    9,000 |
     | Nanga Parbat        | Gor, 16,000 ft.      | 26,656 |   23,000 |
     | Tirach Mir          | Between Gilgit and   |        |          |
-    |                     |   Chitral, 8000 ft.  | 25,400 |17-18,000 |
+    |                     |   [[Chitral]], 8000 ft.  | 25,400 |17-18,000 |
     | Rakapushi           | Chaprot (Gilgit),    |        |          |
     |                     |   13,000 ft.         | 25,560 |   18,000 |
     | Kinchinjunga        | Darjeeling, 7000 ft. | 28,146 |   16,000 |
-    | Mont Blanc          | Above Chamonix, 7000 |        |          |
+    | Mont [[Blanc]]          | Above [[Chamonix]], 7000 |        |          |
     |                     |   ft.                | 15,781 |   11,500 |
     +---------------------+----------------------+--------+----------+
 
@@ -974,14 +974,14 @@ K2 third on the list.     (T. H. H.*)
   Blanc from Chamonix.     (T. H. H.*)
 
   AUTHORITIES.--Drew, _Jammu and Kashmir_ (London, 1875); G. W. Leitner,
-  _Dardistan_ (1887); J. Biddulph, _Tribes of the Hindu Kush_ (Calcutta,
+  _Dardistan_ (1887); J. Biddulph, _Tribes of the Hindu Kush_ ([[Calcutta]],
   1880); H. H. Godwin-Austen, "Mountain Systems of the Himalaya," vols.
   v. and vi. _Proc. R. G. S._ (1883-1884); C. Ujfalvy, _Aus dem
   westlichen Himalaya_ (Leipzig, 1884); H. C. B. Tanner, "Our Present
   Knowledge of the Himalaya," vol. xiii. _Proc. R. G. S._ (1891); R. D.
   Oldham, "The Evolution of Indian Geography," vol. iii. _Jour. R. G.
-  S._; W. Lawrence, _Kashmir_ (Oxford, 1895); Sir W. M. Conway,
-  _Climbing and Exploring in the Karakoram_ (London, 1898); F. Bullock
+  S._; W. [[Lawrence]], _Kashmir_ (Oxford, 1895); Sir W. M. Conway,
+  _Climbing and Exploring in the Karakoram_ (London, 1898); F. [[Bullock]]
   Workman, _In the Ice World of Himalaya_ (1900); F. B. and W. H.
   Workman, _Ice-bound Heights of the Mustagh_ (1908); D. W. Freshfield,
   _Round Kangchenjunga_ (1903).
@@ -990,7 +990,7 @@ K2 third on the list.     (T. H. H.*)
   Geol. Surv. India_, vol. xxii. (1883); C. S. Middlemiss, "Physical
   Geology of the Sub-Himalaya of Gahrwal and Kumaon," ibid., vol. xxiv.
   pt. 2 (1890); C. L. Griesbach, _Geology of the Central Himalayas_,
-  vol. xxiii. (1891); R. D. Oldham, _Manual of the Geology of India_,
+  vol. xxiii. (1891); R. D. Oldham, _[[Manual]] of the Geology of India_,
   chap. xviii. (2nd ed., 1893). Descriptions of the fossils, with some
   notes on stratigraphical questions, will be found in several of the
   volumes of the _Palaeontologia Indica_, published by the Geological

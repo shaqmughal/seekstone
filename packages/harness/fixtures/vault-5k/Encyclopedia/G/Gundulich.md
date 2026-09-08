@@ -14,16 +14,16 @@ the republic, gave him an excellent education. He studied the
 "humanities" with the Jesuit, Father Muzzi, and philosophy with Father
 Ricasoli. After that he studied Roman law and jurisprudence in general.
 He was member of the Lower Council and once served as the chief
-magistrate of the republic. He died on the 8th of December 1638. A born
+[[Magistrate|magistrate]] of the republic. He died on the 8th of December 1638. A born
 poet, he admired much the Italian poets of his time, from whom he made
 many translations into Servian. It is believed that he so translated
 Tasso's _Gerusalemme liberata_. He is known to have written eighteen
-works, of which eleven were dramas, but of these only three have been
+works, of which eleven were [[Drama|dramas]], but of these only three have been
 fully preserved, others having perished during the great earthquake and
 fire in 1667. Most of those dramas were translations from the Italian,
 and were played, seemingly with great success, by the amateurs furnished
 by the noble families of Ragusa. But his greatest and justly celebrated
-work is an epic, entitled _Osman_, in twenty cantos. It is the first
+work is an epic, entitled _Osman_, in twenty [[Canto|cantos]]. It is the first
 political epic on the Eastern Question, glorifying the victory of the
 Poles over Turks and Tatars in the campaign of 1621, and encouraging a
 league of the Christian nations, under the guidance of Vladislaus, the

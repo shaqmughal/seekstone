@@ -8,9 +8,9 @@ English, particularly the manger in which Jesus was laid. It is thus
 used of a "cradle," from which in form it should be distinguished as
 being a small bed with high closed-in sides. The word has many
 transferred meanings, as a rough, small hut or dwelling, from which
-comes the slang use of "crib" as a berth or situation, or, as a
+comes the slang use of "crib" as a [[Berth|berth]] or situation, or, as a
 burglar's term for a house to be broken into; also, technically, in
-engineering for a timber framework for masonry constructed with a
+[[Engineering|engineering]] for a timber framework for [[Masonry|masonry]] constructed with a
 caisson in laying foundations below water, or in mining for a timber
 lining to a shaft. "Crib-biting" is a vicious habit in horses, probably
 due in the first instance to indigestion; the horse seizes the manger or
@@ -22,11 +22,11 @@ a small wicker basket; this meaning occurs in the expression
 "time-cribbing," used of an illicit increase of the hours of labour in a
 factory or workshop, especially by the running of machinery each day
 slightly beyond the time of ceasing work. "Crib" and "cribbing" in this
-sense are also applied to any unacknowledged appropriation or plagiarism
+sense are also applied to any unacknowledged [[Appropriation|appropriation]] or plagiarism
 from an author, and particularly to the secret copying by a schoolboy of
 another's work or from a book, and also to the secret use of a
-translation and to such translation itself. "Crib," in the game of
-cribbage, of which it is a shortened form, is the term for the cards
+translation and to such translation itself. "Crib," in the [[Game|game]] of
+cribbage, of which it is a shortened form, is the term for the [[Cards|cards]]
 thrown away by each player and scored by the dealer.
 
 ## References

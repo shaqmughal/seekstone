@@ -14,8 +14,8 @@ setting out, the seer charged his sons to slay their mother as soon as
 they heard of his death. The attack on Thebes was repulsed, and during
 the flight the earth opened and swallowed up Amphiaraus together with
 his chariot. His son Alcmaeon, as he had been bidden, slew his mother,
-and was driven from place to place by the Erinyes, seeking purification
-and a new home (Apollodorus iii. 6. 7).
+and was driven from place to place by the [[Erinyes]], seeking purification
+and a new home ([[Apollodorus]] iii. 6. 7).
 
 ## See also
 

@@ -1,6 +1,6 @@
 # Auricle
 
-AURICLE (from Lat. diminutive of _auris_, ear), the external ear in
+AURICLE (from Lat. diminutive of _auris_, [[Ear|ear]]), the external ear in
 animals, or an analogous part in plants, &c. From a supposed resemblance
 to the ear of a dog, the term was applied to the upper cavities of the
 heart. The adjective "auricular" is more specially used in the phrase

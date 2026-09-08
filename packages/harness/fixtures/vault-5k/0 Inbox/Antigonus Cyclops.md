@@ -14,13 +14,13 @@ in 333, and in the division of the provinces after Alexander's death
 (323) Pamphylia and Lycia were added to his command. He incurred the
 enmity of Perdiccas, the regent, by refusing to assist Eumenes (q.v.) to
 obtain possession of the provinces allotted to him. In danger of his
-life he escaped with his son Demetrius into Greece, where he obtained
+life he escaped with his son [[Demetrius]] into Greece, where he obtained
 the favour of Antipater, regent of Macedonia (321); and when, soon
 after, on the death of Perdiccas, a new division took place, he was
 entrusted with the command of the war against Eumenes, who had joined
 Perdiccas against the coalition of Antipater, Antigonus, and the other
 generals. Eumenes was completely defeated, and obliged to retire to Nora
-in Cappadocia, and a new army that was marching to his relief was routed
+in [[Cappadocia]], and a new army that was marching to his relief was routed
 by Antigonus. Polyperchon succeeding Antipater (d. 319) in the regency,
 to the exclusion of Cassander, his son, Antigonus resolved to set
 himself up as lord of all Asia, and in conjunction with Cassander and
@@ -42,7 +42,7 @@ Poliorcetes, the son of Antigonus, wrested part of Greece from
 Cassander. At first Ptolemy had made a successful descent upon Asia
 Minor and on several of the islands of the Archipelago; but he was at
 length totally defeated by Demetrius in a naval engagement off Salamis,
-in Cyprus (306). On this victory Antigonus assumed the title of king,
+in [[Cyprus]] (306). On this victory Antigonus assumed the title of king,
 and bestowed the same upon his son, a declaration that he claimed to be
 the heir of Alexander. Antigonus now prepared a large army, and a
 formidable fleet, the command of which he gave to Demetrius, and

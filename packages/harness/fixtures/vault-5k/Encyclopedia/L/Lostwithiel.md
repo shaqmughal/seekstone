@@ -1,9 +1,9 @@
 # Lostwithiel
 
-LOSTWITHIEL, a market town and municipal borough in the Bodmin
-parliamentary division of Cornwall, England, 30½ m. W. of Plymouth by
+LOSTWITHIEL, a market town and municipal borough in the [[Bodmin]]
+parliamentary division of [[Cornwall]], England, 30½ m. W. of Plymouth by
 the Great Western railway. Pop. (1901) 1379. It is pleasantly situated
-on the banks of the river Fowey. The church of St Bartholomew is
+on the banks of the river [[Fowey]]. The church of St Bartholomew is
 remarkable for a fine Early English tower surmounted by a Decorated
 spire; there are also beautiful Decorated windows and details in the
 body of the church, and a richly carved octagonal font. A bridge of the
@@ -26,7 +26,7 @@ his reign granted to the burgesses a gild merchant sac and soc, toll,
 team and infangenethef, freedom from pontage, lastage, &c., throughout
 Cornwall, and exemption from the jurisdiction of the hundred and county
 courts, also a yearly fair and a weekly market. Richard transferred the
-assizes from Launceston to Lostwithiel. His son Edmund, earl of
+[[Assize|assizes]] from [[Launceston]] to Lostwithiel. His son Edmund, earl of
 Cornwall, built a great hall at Lostwithiel and decreed that the coinage
 of tin should be at Lostwithiel only. In 1325 Richard's charter was
 confirmed and the market ordered to be held on Thursdays. In 1386 the

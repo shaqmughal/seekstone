@@ -107,7 +107,7 @@ satirical verse he published during the reign of Charles II., and in his
 private letters. With all his admiration for Cromwell he had retained
 his sympathies with the royal house, and had loyally accepted the
 Restoration. In 1667 the Dutch fleet sailed up the Thames, and Marvell
-expressed his wrath at the gross mismanagement of public affairs in
+expressed his wrath at the [[Gros|gross]] mismanagement of public affairs in
 "Last Instructions to a Painter," a satire which was published as a
 broadside and of course remained anonymous. Edmund Waller had published
 in 1665 a gratulatory poem on the duke of York's victory in that year
@@ -225,7 +225,7 @@ in the 17th and 18th Centuries_, 1813).
   vols., 1892) in the "Muses' Library," where a full bibliography of his
   works and of the commentaries on them is provided; also _The Poems and
   some Satires of Andrew Marvell_ (ed. Edward Wright, 1904), and _Andrew
-  Marvell_ (1905), by Augustine Birrell in the "English Men of Letters"
+  Marvell_ (1905), by Augustine [[Birrell]] in the "English Men of Letters"
   series.
 
 

@@ -14,7 +14,7 @@ who inhabited Lower Lusatia in the 9th and 10th centuries.
 
 In the earliest times Lower Lusatia reached from the Black Elster to the
 Spree; its inhabitants, the Lusitzi, were conquered by the German king,
-Henry the Fowler, and by the margrave Gero in the 10th century. Their
+Henry the [[Fowler]], and by the margrave [[Gero]] in the 10th century. Their
 land was formed into a separate march, which for about three centuries
 was sometimes attached to, and sometimes independent of, the margraviate
 of Meissen, its rulers being occasionally called margraves of Lusatia.
@@ -22,7 +22,7 @@ In 1303 it was purchased by the margrave of Brandenburg, and after other
 changes it fell in 1368 into the hands of the king of Bohemia, the
 emperor Charles IV., who already possessed Upper Lusatia. During the
 Hussite wars its people remained loyal to the Roman Catholic Church. In
-1469 they recognized Matthias Corvinus, king of Hungary, as their
+1469 they recognized Matthias [[Corvinus]], king of Hungary, as their
 sovereign, but in 1490 they came again under the rule of the Bohemian
 king.
 
@@ -40,11 +40,11 @@ restored to Bohemia, which also recovered Görlitz in 1329. During the
 14th century the nobles and the townsmen began to take part in the
 government, and about this time Upper Lusatia was known as the district
 of the six towns (_Sechsstädtelandes_), these being Bautzen, Görlitz,
-Zittau, Löbau, Lauban and Kamenz. From 1377 to 1396 Görlitz was a
+Zittau, Löbau, Lauban and [[Kamenz]]. From 1377 to 1396 Görlitz was a
 separate duchy ruled by John, a son of the emperor Charles IV., and, like
 Lower Lusatia, Upper Lusatia owned the authority of Matthias Corvinus
 from 1469 to 1490, both districts passing a little later with the
-kingdoms of Hungary and Bohemia to the German king, Ferdinand I. The "six
+kingdoms of Hungary and Bohemia to the German king, [[Ferdinand]] I. The "six
 towns" were severely punished for their share in the war of the league of
 Schmalkalden, and about this time the reformed teaching made very rapid
 progress in Lusatia, the majority of the inhabitants becoming
@@ -80,9 +80,9 @@ cloth making and coal mining.
   Lusaticarum antiqui et recentiores_, edited by C. G. Hoffmann (4
   vols., Leipzig and Bautzen, 1719); and _Scriptores rerum Lusaticarum_
   (4 vols., Görlitz, 1839-1870). See also W. Lippert, _Wettiner und
-  Wittelsbacher sowie die Niederlausitz im 14 Jahrhundert_ (Dresden,
+  Wittelsbacher sowie die Niederlausitz im 14 Jahrhundert_ ([[Dresden]],
   1894); T. Scheltz, _Gesamtgeschichte der Ober- und Niederlausitz_,
-  Band i. (Halle, 1847), Band ii. (Görlitz, 1882); J. G. Worbs,
+  Band i. ([[Halle]], 1847), Band ii. (Görlitz, 1882); J. G. Worbs,
   _Urkundenbuch zur Geschichte des Markgraftums Niederlausitz_ (Lübben
   1897); and J. A. E. Köhler, _Die Geschichte der Oberlausitz_ (Görlitz,
   1867).

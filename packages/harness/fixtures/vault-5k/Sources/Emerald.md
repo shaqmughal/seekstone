@@ -1,18 +1,18 @@
 # Emerald
 
-EMERALD, a bright green variety of beryl, much valued as a gem-stone.
+EMERALD, a bright green variety of [[Beryl|beryl]], much valued as a gem-stone.
 The word comes indirectly from the Gr. [Greek: _smaragdos_] (Arabic
 _zumurrud_), but this seems to have been a name vaguely given to a
 number of stones having little in common except a green colour. Pliny's
 "smaragdus" undoubtedly included several distinct species. Much
 confusion has arisen with respect to the "emerald" of the Scriptures.
 The Hebrew word _nophek_, rendered emerald in the Authorized Version,
-probably meant the carbuncle: it is indeed translated [Greek: _anthrax_]
+probably meant the [[Carbuncle|carbuncle]]: it is indeed translated [Greek: _[[Anthrax|anthrax]]_]
 in the Septuagint, and a marginal reading in the Revised Version gives
 carbuncle. On the other hand, the word _bareqath_, rendered [Greek:
 _smaragdos_] in the LXX., appears in the A.V. as carbuncle, with the
 alternative reading of emerald in the R.V. It may have referred to the
-true emerald, but Flinders Petrie suggests that it meant rock-crystal.
+true emerald, but [[Flinders]] Petrie suggests that it meant rock-crystal.
 
 The properties of emerald are mostly the same as those described under
 BERYL. The crystals often show simply the hexagonal prism and basal
@@ -24,13 +24,13 @@ varying slightly in stones from different localities, but being for the
 Muzo emerald about 2.67. The refractive and dispersive powers are not
 high, so that the cut stones display little brilliancy or "fire." The
 emerald is dichroic, giving in the dichroscope a bluish-green and a
-yellowish-green image. The magnificent colour which gives extraordinary
+yellowish-green [[Image|image]]. The magnificent colour which gives extraordinary
 value to this gem, is probably due to chromium. F. Wöhler found 0.186%
 of Cr2O3 in the emerald of Muzo,--a proportion which, though small, is
 sufficient to impart an emerald-green colour to glass. The stone loses
 colour when strongly heated, and M. Lewy suggested that the colour was
 due to an organic pigment. Greville Williams showed that emeralds lost
-about 9% of their weight on fusion, the specific gravity being reduced
+about 9% of their weight on [[Fusion|fusion]], the specific gravity being reduced
 to about 2.4.
 
 The ancients appear to have obtained the emerald from Upper Egypt, where
@@ -39,8 +39,8 @@ Greek miners were at work in the time of Alexander the Great, and in
 later times the mines yielded their gems to Cleopatra. Remains of
 extensive workings were discovered in the northern Etbai by the French
 traveller, F. Cailliaud, in 1817, and the mines were re-opened for a
-short time under Mehemet Ali. "Cleopatra's Mines" are situated in Jebel
-Sikait and Jebel Zabara near the Red Sea coast east of Assuan. They were
+short time under Mehemet Ali. "Cleopatra's Mines" are situated in [[Jebel]]
+Sikait and Jebel Zabara near the Red Sea coast east of [[Assuan]]. They were
 visited in 1891 by E.A. Floyer, and the Sikait workings were explored in
 1900 by D.A. MacAlister and others. The Egyptian emeralds occur in
 mica-schist and talc-schist.
@@ -50,9 +50,9 @@ were taken from the Peruvians, but the exact locality which yielded the
 stones was never discovered. The only South American emeralds now known
 occur near Bogotà, the capital of Colombia. The most famous mine is at
 Muzo, but workings are known also at Coscuez and Somondoco. The emerald
-occurs in nests of calcite in a black bituminous limestone containing
+occurs in nests of [[Calcite|calcite]] in a black bituminous [[Limestone|limestone]] containing
 ammonites of Lower Cretaceous age. The mineral is associated with
-quartz, dolomite, pyrites, and the rare mineral called "parisite"--a
+quartz, [[Dolomite|dolomite]], pyrites, and the rare mineral called "parisite"--a
 fluo-carbonate of the cerium metals, occurring in brownish-yellow
 hexagonal crystals, and named after J.J. Paris, who worked the emeralds.
 It has been suggested that the Colombian emerald is not in its original
@@ -69,7 +69,7 @@ piercing slaty rocks, near Emmaville, in New South Wales. The crystals
 occurred in association with topaz, fluorspar and cassiterite; but they
 were mostly of rather pale colour. In the United States, emerald has
 occasionally been found, and fine crystals have been obtained from the
-workings for hiddenite at Stonypoint, Alexander county, N.C.
+workings for [[Hiddenite|hiddenite]] at Stonypoint, Alexander county, N.C.
 
 Many virtues were formerly ascribed to the emerald. When worn, it was
 held to be a preservative against epilepsy, it cured dysentery, it
@@ -78,9 +78,9 @@ the chastity of the wearer. Administered internally it was reputed to
 have great medicinal value. In consequence of its refreshing green
 colour it was naturally said to be good for the eyesight.
 
-The stone known as "Oriental emerald" is a green corundum. Lithia
+The stone known as "Oriental emerald" is a green [[Corundum|corundum]]. Lithia
 emerald is the mineral called hiddenite; Uralian emerald is a name given
-to demantoid; Brazilian emerald is merely green tourmaline; evening
+to [[Demantoid|demantoid]]; Brazilian emerald is merely green tourmaline; evening
 emerald is the peridot; pyro-emerald is fluorspar which phosphoresces
 with a green glow when heated; and "mother of emerald" is generally a
 green quartz or perhaps in some cases a green felspar.

@@ -23,7 +23,7 @@ wealth from mining; he contributed liberally to the erection of four
 bridges in St Petersburg, and to the propagation of scientific culture
 in Moscow. Paul's son, Anatoli Demidov (1812-1870), was a well-known
 traveller and patron of art; he married Princess Mathilde, daughter of
-Jerome Bonaparte.
+Jerome [[Bonaparte]].
 
 ## References
 

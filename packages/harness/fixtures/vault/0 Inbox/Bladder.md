@@ -43,11 +43,11 @@ bladder by way of the vulva and the urethra.
 Any condition leading to disturbance of the function of the bladder,
 such as enlargement of the prostate, stricture of the urethra, stone, or
 injury, may cause cystitis by preparing the way for bacillary invasion.
-The bacilli of tuberculosis and of typhoid fever may set up cystitis by
+The bacilli of tuberculosis and of typhoid [[Fever|fever]] may set up cystitis by
 coming down into the bladder from the kidneys with the urine, or they
 reach it by the blood-stream, or invade it by the urethra. Another way
 of cystitis being set up is by the introduction of the germs of
-suppuration by a catheter or bougie sweeping them in from the urethra;
+suppuration by a catheter or [[Bougie|bougie]] sweeping them in from the urethra;
 or the instrument itself may be unsterilized and dirty and so may
 introduce them. It used formerly to be thought that wet or cold was
 enough to cause inflammation of the bladder, but the probability is that
@@ -68,7 +68,7 @@ room, and should sit several times a day in a very hot hip-bath. When
 he has got back to bed, a fomentation under oil-silk, or some other
 waterproof material, should be placed over the lower part of the
 abdomen. The diet should be milk (diluted with hot or cold water),
-barley-water, and bread and butter; no alcoholic drink should be
+barley-water, and bread and [[Butter|butter]]; no alcoholic drink should be
 allowed. If the urine is acid, bicarbonate of soda may be given, or
 citrate of soda; if alkaline, urotropine--a derivative of formic
 aldehyde--may prove a useful urinary disinfectant. If the straining and
@@ -76,7 +76,7 @@ distress are great, a suppository of 1/4 or 1/2 a grain of morphia may
 be introduced into the rectum every two or three hours. The bowels must
 be kept freely open. If the urine is foul, the bladder should be
 frequently washed out by a soft catheter and two or three feet of
-india-rubber tubing with a funnel at the other end, weak and abundant
+india-rubber tubing with a [[Funnel|funnel]] at the other end, weak and abundant
 hot lotions of Sanitas or Condy's fluid being used.
 
 _Chronic cystitis_ is the condition left when the acute symptoms have
@@ -90,8 +90,8 @@ In _tuberculous cystitis_ there is added to the symptoms the discovery
 of the bacilli of tuberculosis in the urine, and cystoscopic examination
 may reveal the presence of tubercles of the mucous membrane or even of
 ulceration. The patient is probably losing weight, and he may present
-foci of tuberculosis at the back of the testicle, the lung or kidney, or
-in a joint or bone, or in a lymphatic gland. _Treatment_ is rebellious
+foci of tuberculosis at the back of the testicle, the [[Lung|lung]] or kidney, or
+in a joint or [[Bone|bone]], or in a lymphatic gland. _Treatment_ is rebellious
 and unpromising. Washings and lotions give but temporary relief, and if
 the bladder is opened for rest, and for a more direct treatment, the
 germs of suppuration may enter, and, working in conjunction with the
@@ -103,14 +103,14 @@ heat. As a result of this injection the blood sets to work to form an
 to render them attractive to the white corpuscles of the patient's blood
 (phagocytes), which then seize upon and destroy them. Sir A.E. Wright
 has devised a delicate method of examination of the blood (the
-calculation of the opsonic index) which tells when the tuberculin
+calculation of the opsonic [[Index|index]]) which tells when the tuberculin
 injections should be resorted to and when withheld (see BLOOD).
 
 
   Stone.
 
 _Calculi and Gravel._--Uric acid is deposited from the urine either as
-small crystals resembling cayenne pepper, or else, in combination with
+small crystals resembling [[Cayenne Pepper|cayenne pepper]], or else, in combination with
 soda and ammonia, as an amorphous "brick-dust" deposit, which, on
 cooling, leaves a red stain on the bottom of the vessel, soluble in hot
 water. These substances are derived from the disintegration of
@@ -121,13 +121,13 @@ especially if these exercises have been accompanied with so much
 perspiration that the excess of water from the blood has escaped by the
 skin rather than by the kidneys. The abundance of this deposit is in
 accordance with the amount of heat developed and work done in the body,
-and corresponds with the dust and ashes raked out of the fire-box of the
+and corresponds with the [[Dust|dust]] and ashes raked out of the fire-box of the
 locomotive after a long run. But supposing that the uric acid debris
 continues to be excessive, the risk of the formation of renal or vesical
 calculi becomes considerable, and it may be advisable to place the
 patient on a restricted nitrogenized diet, to induce him to drink large
 quantities of water, and to keep his bowels so loose with watery
-laxatives, such as Epsom salts or sulphate of soda, that the waste
+laxatives, such as [[Epsom Salts|Epsom salts]] or sulphate of soda, that the waste
 products of his body are made to escape by the bowels rather than by the
 kidneys. In addition to the salts just mentioned, an occasional dose of
 blue pill will prove helpful. A course of treatment at Contrexeville or
@@ -155,7 +155,7 @@ becomes alkaline and the calculus is encrusted with lime salts.
 When urine contains a larger amount of chemical constituents than it can
 conveniently hold in solution, a certain quantity crystallizes out, and
 may be deposited in the kidney or in the bladder. If the crystals run
-together in the kidney the resulting concretion may either remain in
+together in the kidney the resulting [[Concretion|concretion]] may either remain in
 that organ or may find its way into the bladder, where it may remain to
 form the nucleus of a larger vesical calculus, or, especially in the
 case of females, it may, while still small, escape from the bladder
@@ -187,18 +187,18 @@ the presence of a stone in the bladder, and he confirms his suspicions
 by introducing a slender steel rod, a "sound," by which he strikes and
 feels the stone. Further confirmation may be obtained by the help of the
 X-rays, or, in the adult, by using a cystoscope. In a child the stone
-may often be felt by a finger in the rectum, the front of the bladder
+may often be felt by a [[Finger|finger]] in the rectum, the front of the bladder
 being pressed by a hand on the lower part of the abdomen. The
 _cystoscope_ is a straight, hollow metal tube about the size of a long
 cedar pencil, which the surgeon introduces into the adult bladder, which
 has already been filled with warm boracic lotion. Down the tube run two
-fine wires which control a minute electric lamp at the bladder end of
+fine wires which control a minute electric [[Lamp|lamp]] at the bladder end of
 the instrument. At that end also is a small glass window which prevents
 the fluid escaping by the tube, and also a prism; at the other end of
 the tube is an eye-piece. By the use of this slender speculum the
 practised surgeon can recognize the presence of tubercle or tuberculous
 ulceration of the bladder, stone, or other foreign material, and
-innocent or malignant growths. He can also watch the urine entering the
+[[Innocent|innocent]] or malignant growths. He can also watch the urine entering the
 bladder by the openings of the ureters, and determine from which kidney
 blood or pus is coming.
 
@@ -207,7 +207,7 @@ conditions. Speaking generally, the surgeon prefers to introduce a
 lithotrite and crush the stone into small fragments, and then to flush
 out the fragments by using a full-sized, hollow metal catheter and an
 india-rubber wash-bottle. Even in children this operation may generally
-be adopted with success, the stone being crushed to atoms and the
+be adopted with success, the stone being crushed to [[Atom|atoms]] and the
 fragments being washed out to the last small chip. But if the stone is
 a very hard one (as are some of the oxalate of lime calculi), or if it
 is very large, or if the bladder or the prostate gland is in a state of
@@ -221,7 +221,7 @@ beginning of the 19th century it was performed only by a few men, who,
 bolder than their contemporaries, had specially worked at that operation
 and had attained celebrity as skilful lithotomists. Patients went long
 distances to be operated on by them, and certain of the older surgeons,
-as William Cheselden, performed a large number of operations with most
+as William [[Cheselden]], performed a large number of operations with most
 excellent results. The operation was by an incision from the perineum,
 and is ordinarily spoken of as _lateral_ lithotomy. It was splendidly
 designed, and gave good results, especially in children. But it is now a
@@ -238,7 +238,7 @@ that the bladder may be reached below the peritoneum, which, higher up,
 gives it an external, serous coat. As the bladder is approached, a good
 many veins are seen to be in the way, some of which have to be wounded.
 The bladder-wall is recognized by its coarse network of pale muscular
-fibres, through which, on each side of the middle line, a strong suture
+[[Fibres|fibres]], through which, on each side of the middle line, a strong suture
 is passed, so that when the bladder is opened and the lotion comes
 rushing out, the opening which has been made into the bladder may not
 sink into the depths of the pelvis. A finger introduced into the bladder
@@ -256,7 +256,7 @@ out at one "sitting," without an interval being allowed between them, as
 was formerly the practice, and the term "litholapaxy" designates this
 method. The patient having been anaesthetized, 10 oz. of hot boracic
 lotion are injected, and the crushing instrument, the lithotrite, is
-then passed into the bladder. The lithotrite has two blades, a "male"
+then passed into the bladder. The lithotrite has two [[Blades|blades]], a "male"
 and a "female," the latter fenestrated, the former solid with its
 surface notched. When the stone is fixed between the blades the screw is
 used, and great pressure is applied evenly, gradually and continuously
@@ -272,7 +272,7 @@ hour or longer may be required to crush it sufficiently fine. When the
 surgeon fails to catch any more large pieces, the presumption is that
 the stone has been thoroughly broken up. The lithotrite is then
 withdrawn and the detritus is washed out by an "aspirator," which
-consists of a stiff elastic ball which is connected with a trap, into
+consists of a stiff elastic [[Ball|ball]] which is connected with a trap, into
 which fragments of stone fall so as not to pass out on the instrument
 being used at later periods in the operation. A large catheter, with the
 eye very near the end of the short curve, is passed into the bladder;
@@ -293,7 +293,7 @@ Fatal terminations, however, do now and again occur from suppression of
 urine, the result of the old-standing kidney disease which so often
 complicates these cases.
 
-To Brigade-Surgeon Lieutenant-Colonel Dennis Francis Keegan, of the
+To Brigade-Surgeon Lieutenant-Colonel [[Dennis]] Francis Keegan, of the
 Indian Medical Service, is due the fact that the operation of crushing
 and promptly removing all fragments of a vesical calculus is as well
 suited for boys as for men. In entire opposition to long-standing
@@ -345,17 +345,17 @@ administration of drugs.
   _Villous disease_ of the bladder is innocent; that is to say, it does
   not spread to the neighbouring structures or implicate the lymphatic
   glands. The villi are slender, branched, filamentous processes which,
-  springing from the floor of the bladder, float in the urine like
+  springing from the floor of the bladder, [[Float|float]] in the urine like
   seaweed. They are freely supplied with blood-vessels, so that when a
   piece of a villus is broken off there is likely to be blood in the
-  urine. Indeed, painless haemorrhage is one of the characteristic
+  urine. Indeed, painless [[Haemorrhage|haemorrhage]] is one of the characteristic
   features of the disease, and when fragments of the "seaweed" are found
   in the urine the diagnosis is clear. If the bladder is opened from the
   front, as already described, the villi may be nipped off by special
   forceps and the disease permanently cured.
 
   _Malignant disease_ of the bladder is almost always the warty form of
-  cancer known as epithelioma. It springs as a sessile growth from the
+  [[Cancer|cancer]] known as epithelioma. It springs as a sessile growth from the
   mucous membrane of the floor near the opening of one of the ureters,
   and, worrying the sensory nerves, causes irritability of the bladder
   and incontinence of urine. In due course septic germs reach the
@@ -393,7 +393,7 @@ administration of drugs.
   incontinence of urine; sometimes there is at first retention, which
   later is followed by incontinence. Paralysis is also met with in
   certain nervous diseases, as in locomotor ataxia, and in various
-  cerebral lesions, as in apoplexy.
+  cerebral [[Lesion|lesions]], as in apoplexy.
 
   _Atony_ of the bladder is a paresis or partial paralysis. It is due to
   a want of tone in the muscular fibres, and is frequently the result of
@@ -461,7 +461,7 @@ administration of drugs.
   off. But when there is an obstruction which cannot be overcome,
   aspiration has to be resorted to, the needle of the aspirator being
   pushed through the abdominal wall into the bladder. The point of
-  puncture in the abdominal wall is in the middle line a few inches
+  puncture in the abdominal wall is in the middle line a few [[Inch|inches]]
   above the symphysis pubis. The bladder may be emptied in this way very
   many times in the same person with only good result.
 
@@ -485,10 +485,10 @@ early stage of an acute attack a dozen leeches upon the perineum may do
 good. The bowels must be kept freely open, and from time to time, as the
 pain demands, a morphia suppository may be introduced into the bowel.
 
-  _Chronic prostatitis_ is a legacy from a recent or long-past attack of
+  _Chronic prostatitis_ is a [[Legacy|legacy]] from a recent or long-past attack of
   gonorrhoea. The enlargement gives rise to a feeling of weight and
   fulness in the perineum, irritability of the bladder, and a gleety
-  urethral discharge. Manual examination reveals the presence of a
+  urethral [[Discharge|discharge]]. [[Manual]] examination reveals the presence of a
   large, hard mass in front of the bladder, and in the mass there can
   often be felt softish or tender areas which seem to threaten abscess.
   On urine being passed into a glass, a cloudiness is seen, and material
@@ -499,7 +499,7 @@ pain demands, a morphia suppository may be introduced into the bowel.
   administration of quinine and iron, and the application of blisters to
   the perineum, may be tried as circumstances direct. The patient should
   lead a quiet life, free from sexual excitement. Horse-exercise,
-  cycle-riding, rough games and alcohol should be avoided.
+  cycle-riding, rough [[Games|games]] and alcohol should be avoided.
 
 _Enlargement of the prostate_ exists in a considerable proportion of men
 of about sixty years of age and onward. It consists of an uncontrolled
@@ -508,7 +508,7 @@ interfering with, or absolutely stopping, the outflow of the urine.
 Gently pushing the bladder upwards and backwards, it increases the
 length of the urethra, so that in order to draw off retained urine the
 catheter must be longer than ordinary, but inasmuch as there is no
-actual narrowing of the passage it may be of full calibre. The beak
+actual narrowing of the passage it may be of full calibre. The [[Beak|beak]]
 should be well turned up so that it may ride in front of, and surmount,
 the median enlargement. Because of the thick, ring-like mass of new
 tissue around the outlet of the bladder, there is difficulty in
@@ -531,7 +531,7 @@ to empty his bladder completely.
   amount of increase appears quite unimportant. The explanation is that
   the enlargement is chiefly confined to a small piece of the gland
   which protrudes like a tongue into the water-way. Robert McGill of
-  Leeds was the first surgeon to remove by a supra-pubic operation this
+  [[Leeds]] was the first surgeon to remove by a supra-pubic operation this
   tongue-like process of new prostatic growth. Attempts had sometimes
   been made to get rid of it by instrumentation through the urethra, but
   they had not met with much success.
@@ -589,13 +589,13 @@ more radical measure is needed. The best operation is that upon the
 lines laid down by Robert McGill, who opened the bladder through the
 anterior abdominal wall and removed that part of the prostate gland
 which was blocking the water-way. McGill's operation was improved upon
-by Eugene Fuller of New York, who, in 1895, published a full account of
+by Eugene [[Fuller]] of New York, who, in 1895, published a full account of
 his procedure.[1] Having opened the bladder from the front (as in
 supra-pubic lithotomy), he introduced his left index finger into the
 rectum and thrust the prostate gland towards the right index finger,
 which was then in the bladder. With the nail of that finger, or with the
 end of a pair of scissors, he made a rent in the mucous membrane of the
-bladder and the capsule of the gland, and then shelled out the mass of
+bladder and the [[Capsule|capsule]] of the gland, and then shelled out the mass of
 new tissue which had caused the prostatic enlargement. This operation is
 called "prostatectomy," which means the removal of the prostate gland.
 The prostate gland, however, is not removed, but only a muscular and

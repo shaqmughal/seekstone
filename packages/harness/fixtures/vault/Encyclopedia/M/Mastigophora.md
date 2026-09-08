@@ -11,8 +11,8 @@ flagella (Gr. [Greek: mastix], whip), usually few in number, and
 multiplying by fission, usually longitudinal, in the active condition.
 They were separated off from the rest of the old "Infusoria" by K.
 Düsing, and subdivided by O. Bütschli and E. R. Lankester into (1)
-Flagellata (q.v.), including Haemoflagellata (q.v.), (2) Dinoflagellata
-(q.v.) and Rhyncho = Cystoflagellata E. Haeckel (q.v.) =
+[[Flagellata]] (q.v.), including Haemoflagellata (q.v.), (2) [[Dinoflagellata]]
+(q.v.) and Rhyncho = [[Cystoflagellata]] E. Haeckel (q.v.) =
 Rhynchoflagellata E. R. Lankester. The Mastigophora are frequently
 termed Flagellata or Flagellates.
 

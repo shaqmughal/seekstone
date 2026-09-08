@@ -1,7 +1,7 @@
 # Curator
 
 CURATOR (Lat. for "one who takes care," _curare_, to take care of), in
-Roman law the "caretaker" or guardian of a spendthrift (_prodigus_) or
+Roman law the "caretaker" or [[Guardian|guardian]] of a spendthrift (_prodigus_) or
 of a person of unsound mind (_furiosus_), and, more particularly, one
 who takes charge of the estate of an _adolescens_, i.e. of a person _sui
 juris_, above the age of a _pupillus_, fourteen or twelve years,
@@ -14,7 +14,7 @@ minority, i.e. below twenty-one, and above fourteen, if a male, and
 twelve, if a female. Under the Roman empire the title of curator was
 given to several officials who were in charge of departments of public
 administration, such as the _curatores annonae_, of the public supplies
-of corn and oil, or the _curatores regionum_, who were responsible for
+of [[Corn|corn]] and oil, or the _curatores regionum_, who were responsible for
 order in the fourteen _regiones_ or districts into which the city of
 Rome was divided, and who protected the citizen from exaction in the
 collection of taxes; the _curatores aquarum_ had the charge of the

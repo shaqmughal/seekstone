@@ -3,14 +3,14 @@
 DELLA GHERARDESCA, UGOLINO (c. 1220-1289), count of Donoratico, was the
 head of the powerful family of Gherardesca, the chief Ghibelline house
 of Pisa. His alliance with the Visconti, the leaders of the Guelph
-faction, through the marriage of his sister with Giovanni Visconti,
+[[Faction|faction]], through the marriage of his sister with Giovanni Visconti,
 judge of Gallura, aroused the suspicions of his party, and the
 Ghibellines being then predominant in Pisa, the disorders in the city
-caused by Ugolino and Visconti in 1271-1274 led to the arrest of the
+caused by Ugolino and Visconti in 1271-1274 led to the [[Arrest|arrest]] of the
 former and the banishment of the latter. Visconti died soon afterwards,
 and Ugolino, no longer regarded as dangerous, was liberated and
 banished. But he immediately began to intrigue with the Guelph towns
-opposed to Pisa, and with the help of Charles I. of Anjou (q.v.)
+opposed to Pisa, and with the help of Charles I. of [[Anjou]] (q.v.)
 attacked his native city and forced it to make peace on humiliating
 terms, pardoning him and all the other Guelph exiles. He lived quietly
 in Pisa for some years, although working all the time to extend his
@@ -20,7 +20,7 @@ by his flight--usually attributed to treachery--that the fortunes of the
 day were decided and the Pisans totally defeated at La Meloria (October
 1284). But the political ability which he afterwards displayed led to
 his being appointed _podesta_ for a year and _capitano del popolo_ for
-ten years. Florence and Lucca took advantage of the Pisan defeat to
+ten years. Florence and [[Lucca]] took advantage of the Pisan defeat to
 attack the republic, but Ugolino succeeded in pacifying them by ceding
 certain castles. He was however less anxious to make peace with Genoa,
 for the return of the Pisan prisoners, including most of the leading
@@ -47,17 +47,17 @@ nine months, and then starved to death.
 
 The historic details of the episode are still involved in some
 obscurity, and although mentioned by Villani and other writers, it owes
-its fame entirely to Dante, who placed Ugolino and Ruggieri in the
-second ring (_Antenora_) of the lowest circle of the _Inferno_ (canto
+its fame entirely to [[Dante]], who placed Ugolino and Ruggieri in the
+second ring (_Antenora_) of the lowest circle of the _Inferno_ ([[Canto|canto]]
 xxxii. 124-140 and xxxiii. 1-90). This terrible but magnificent passage,
 which includes "thirty lines unequalled by any other thirty lines in the
-whole dominion of poetry" (Landor), has been paraphrased by Chaucer in
+whole dominion of poetry" ([[Landor]]), has been paraphrased by [[Chaucer]] in
 the "Monk's Tale" and more recently by Shelley. But the reason why Dante
 placed Ugolino among the traitors is not by any means clear, as the
 flight from La Meloria was not regarded as treachery by any writer
 earlier than the 16th century, although G. del Noce, in _Il Conte U.
-della Gherardesca_ (Citta di Castello, 1894), states that that was the
-only motive; Bartoli, in vol. vi. of his _Storia della Letteratura
+della Gherardesca_ (Citta di [[Castello]], 1894), states that that was the
+only motive; [[Bartoli]], in vol. vi. of his _Storia della Letteratura
 italiana_, suggests Ugolino's alliance with the Ghibellines as the
 motive. The cession of the castles was not treachery but an act of
 necessity, owing to the desperate conditions of Pisa.

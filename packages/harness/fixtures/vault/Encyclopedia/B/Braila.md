@@ -12,7 +12,7 @@ of ground which separates this bank from the water's edge. Along the
 crest of the bank a public park is laid out, commanding a view of the
 desolate Dobrudja hills, across the river.
 
-On the landward side, Braila has the shape of a crescent, the curve of
+On the landward side, Braila has the shape of a [[Crescent|crescent]], the curve of
 its outer streets following the line of the old fortifications,
 dismantled in 1829. Few houses, among the older quarters, exceed two
 storeys in height, but the main streets are paved, and there is a
@@ -29,9 +29,9 @@ commerce. It is the chief port of entry for Walachia, and the
 headquarters of the grain trade; for, besides its advantageous position
 on the river, it is connected with the central Walachian railways by a
 line to Buzeu, and with the Russian and Moldavian systems by a line to
-Galatz. Quays, where ships drawing 15 ft. of water can discharge, line
-the river front; and there are large docks, grain elevators and
-warehouses, besides paper mills, roperies, and soap and candle works.
+[[Galatz]]. Quays, where ships drawing 15 ft. of water can [[Discharge|discharge]], line
+the river front; and there are large [[Dock|docks]], grain [[Elevators|elevators]] and
+warehouses, besides paper mills, roperies, and soap and [[Candle|candle]] works.
 Over 20 steamers, maintained by the state, ply between Braila and
 Rotterdam. Among the vessels of all nations, the British are first in
 numbers and tonnage, the Greek second. Grain and timber form the chief
@@ -41,7 +41,7 @@ largely imported.
 Many events connected with the history of Walachia took place in the
 neighbourhood of Braila. In 1475 Stephen the Great, having dethroned the
 voivode Radu, burned the town. In 1573 another Moldavian prince took the
-city by storm, and massacred the Turkish garrison. In 1659 it was again
+city by storm, and massacred the Turkish [[Garrison|garrison]]. In 1659 it was again
 burned by the Walachian prince Mircea, and for the time the Turks were
 expelled, but afterwards returned. In the latter part of the 18th
 century Braila was several times captured by the Russians, and in 1770
@@ -50,13 +50,13 @@ right of garrisoning Braila. In 1828 it was gallantly defended by
 Soliman Pasha, who, after holding out from the middle of May until the
 end of June, was allowed to march out with the honours of war. At the
 peace of Adrianople (1829) the place was definitely assigned to
-Walachia; but before giving it up, the grand-duke Michael of Russia
+Walachia; but before giving it up, the [[Grand-Duke|grand-duke]] Michael of Russia
 razed the citadel, and in this ruinous condition it was handed over to
 the Walachians. Braila was the spot chosen by the Russian general
 Gorchakov for crossing the Danube with his division in 1854. On the
 banks of the Danube, a little above the city, are some remains of the
 piles of a bridge said by a very doubtful tradition to have been built
-by Darius (c. 500 B.C.).
+by [[Darius]] (c. 500 B.C.).
 
 ## See also
 

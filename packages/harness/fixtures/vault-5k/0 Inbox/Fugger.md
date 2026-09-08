@@ -9,11 +9,11 @@ type: reference
 
 FUGGER, the name of a famous German family of merchants and bankers. The
 founder of the family was Johann Fugger, a weaver at Graben, near
-Augsburg, whose son, Johann, settled in Augsburg probably in 1367. The
+[[Augsburg]], whose son, Johann, settled in Augsburg probably in 1367. The
 younger Johann added the business of a merchant to that of a weaver, and
-through his marriage with Clara Widolph became a citizen of Augsburg.
+through his marriage with [[Clara]] Widolph became a citizen of Augsburg.
 After a successful career he died in 1408, leaving two sons, Andreas and
-Jakob, who greatly extended the business which they inherited from their
+[[Jakob]], who greatly extended the business which they inherited from their
 father. Andreas, called the "rich Fugger," had several sons, among them
 being Lukas, who was very prominent in the municipal politics of
 Augsburg and who was very wealthy until he was ruined by the repudiation
@@ -32,7 +32,7 @@ fortune to his house. Under the lead of Jakob, who had been trained for
 business in Venice, the Fuggers were interested in silver mines in Tirol
 and copper mines in Hungary, while their trade in spices, wool and silk
 extended to almost all parts of Europe. Their wealth enabled them to
-make large loans to the German king, Maximilian I., who pledged to them
+make large loans to the German king, [[Maximilian]] I., who pledged to them
 the county of Kirchberg, the lordship of Weissenhorn and other lands,
 and bestowed various privileges upon them. Jakob built the castle of
 Fuggerau in Tirol, and erected the Fuggerei at Augsburg, a collection of
@@ -86,7 +86,7 @@ respectively. Another of Raimund's sons was Ulrich (1526-1584), who,
 after serving Pope Paul III. at Rome, became a Protestant. Hated on this
 account by the other members of his family, he took refuge in the
 Rhenish Palatinate; greatly interested in the Greek classics, he
-occupied himself in collecting valuable manuscripts, which he bequeathed
+occupied himself in collecting valuable [[Manuscript|manuscripts]], which he bequeathed
 to the university of Heidelberg. Raimund's other son was Georg (d.
 1579), who inherited the countships of Kirchberg and Weissenhorn, and
 founded a branch of the family which still exists, its present head
@@ -98,7 +98,7 @@ a book on horse-breeding, _Wie und wo man ein Gestut von guten edeln
 Kriegsrossen aufrichten soll_ (1578), and of a German translation of the
 _Historia ecclesiastica_ of Nicephorus Callistus. He founded the
 Nordendorf branch of the family, which became extinct on the death of
-his grandson, Nicolaus, in 1676. Another grandson of Marcus was Franz
+his grandson, Nicolaus, in 1676. Another grandson of Marcus was [[Franz]]
 Fugger (1612-1664), who served under Wallenstein during the Thirty
 Years' War, and was afterwards governor of Ingolstadt. He was killed at
 the battle of St Gotthard on the 1st of August 1664.
@@ -107,7 +107,7 @@ Johann Fugger had three sons, Christoph (d. 1615) and Marcus (d. 1614),
 who founded the families of Fugger-Glott and Fugger-Kirchheim
 respectively, and Jakob, bishop of Constance from 1604 until his death
 in 1626. Christoph's son, Otto Heinrich (1592-1644), was a soldier of
-some distinction and a knight of the order of the Golden Fleece. He was
+some distinction and a [[Knight|knight]] of the order of the Golden Fleece. He was
 one of the most active of the Bavarian generals during the Thirty Years'
 War, and acted as governor of Augsburg, where his rule aroused much
 discontent. The family of Kirchheim died out in 1672. That of Glott was
@@ -127,19 +127,19 @@ existing branches of the Fuggers are all hereditary members of the
 Bavarian Upper House.
 
 Augsburg has many interesting mementoes of the Fuggers, including the
-family burial-chapel in the church of St Anna; the Fugger chapel in the
+family burial-chapel in the church of St [[Anna]]; the Fugger chapel in the
 church of St Ulrich and St Afra; the Fuggerhaus, still in the possession
 of one branch of the family; and a statue of Johann Jakob Fugger.
 
   In 1593 a collection of portraits of the Fuggers, engraved by
-  Dominique Custos of Antwerp, was issued at Augsburg. Editions with 127
+  Dominique Custos of [[Antwerp]], was issued at Augsburg. Editions with 127
   portraits appeared in 1618 and 1620, the former accompanied by a
   genealogy in Latin, the latter by one in German. Another edition of
   this _Pinacotheca Fuggerorum_, published at Vienna in 1754, includes
   139 portraits. See _Chronik der Familie Fugger vom Jahre 1599_, edited
   by C. Meyer (Munich, 1902); A. Geiger, _Jakob Fugger, 1459-1525_
   (Regensburg, 1895); A. Schulte, _Die Fugger in Rom, 1495-1523_
-  (Leipzig, 1904); R. Ehrenberg, _Das Zeitalter der Fugger_ (Jena,
+  (Leipzig, 1904); R. [[Ehrenberg]], _Das Zeitalter der Fugger_ (Jena,
   1896); K. Habler, _Die Geschichte der Fuggerschen Handlung in Spanien_
   (Weimar, 1897); A. Stauber, _Das Haus Fugger_ (Augsburg, 1900); and M.
   Jansen, _Die Anfange der Fugger_ (Leipzig, 1907).

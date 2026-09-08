@@ -10,7 +10,7 @@ tags: [navigation, chemistry]
 # Hely-Hutchinson
 
 HELY-HUTCHINSON, JOHN (1724-1794), Irish lawyer, statesman, and provost
-of Trinity College, Dublin, son of Francis Hely, a gentleman of County
+of Trinity College, Dublin, son of Francis Hely, a [[Gentleman|gentleman]] of County
 Cork, was educated at Trinity College, Dublin, and was called to the
 Irish bar in 1748. He took the additional name of Hutchinson on his
 marriage in 1751 with Christiana Nixon, heiress of her uncle, Richard
@@ -40,7 +40,7 @@ Lord Townshend to turn to other methods for procuring support. Early In
 message from the king setting forth the necessity for the measure was
 laid before the House of Commons in Dublin. An address favourable to the
 government policy was, however, rejected; and Hely-Hutchinson, together
-with the speaker and the attorney-general, did their utmost both in
+with the speaker and the [[Attorney-General|attorney-general]], did their utmost both in
 public and private to obstruct the bill. Parliament was dissolved in May
 1768, and the lord lieutenant set about the task of purchasing or
 otherwise securing a majority in the new parliament. Peerages, pensions
@@ -65,7 +65,7 @@ government was justly criticized with much asperity. His conduct in
 using his position as provost to secure the parliamentary representation
 of the university for his eldest son brought him into conflict with
 Duigenan, who attacked him in _Lacrymae academicae_, and involved him in
-a duel with a Mr Doyle; while a similar attempt on behalf of his second
+a [[Duel|duel]] with a Mr [[Doyle]]; while a similar attempt on behalf of his second
 son in 1790 led to his being accused before a select committee of the
 House of Commons of impropriety as returning officer. But although
 without scholarship Hely-Hutchinson was an efficient provost, during
@@ -115,7 +115,7 @@ In 1777 Hely-Hutchinson became secretary of state. When Grattan in 1782
 moved an address to the king containing a declaration of Irish
 legislative independence, Hely-Hutchinson supported the
 attorney-general's motion postponing the question; but on the 16th of
-April, after the Easter recess, he read a message from the lord
+April, after the [[Easter]] recess, he read a message from the lord
 lieutenant, the duke of Portland, giving the king's permission for the
 House to take the matter into consideration, and he expressed his
 personal sympathy with the popular cause which Grattan on the same day
@@ -151,7 +151,7 @@ FOOTNOTES:
     was that of Viscount Suirdale, and such is the courtesy title by
     which the heir apparent of the earls of Donoughmore is usually
     styled. This, however, appears to be an error. In all the three
-    creations (barony 1783, viscountcy 1797, earldom 1800) the title is
+    creations ([[Barony|barony]] 1783, viscountcy 1797, earldom 1800) the title is
     "Donoughmore of Knocklofty." In 1821 the 1st earl was further created
     Viscount Hutchinson of Knocklofty in the peerage of the United
     Kingdom. The courtesy title of the earl's eldest son should,

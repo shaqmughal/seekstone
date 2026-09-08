@@ -12,16 +12,16 @@ or, in fishing, of the cork or quill used to support a baited line or
 fishing-net. It is also applied to the hollow or inflated organ by means
 of which certain animals, such as the "Portuguese man-of-war," swim, to
 a hollow metal ball or piece of whinstone, &c., used to regulate the
-level of water in a tank or boiler, and to a piece of ivory in the
+level of water in a tank or boiler, and to a piece of [[Ivory|ivory]] in the
 cistern of a barometer. "Float" is also the name of one of the boards of
 a paddle-wheel or water-wheel. In a theatrical sense, it is used to
 denote the footlights. The word is also applied to something broad,
-level and shallow, as a wooden frame attached to a cart or wagon for the
+level and shallow, as a wooden frame attached to a [[Cart|cart]] or wagon for the
 purpose of increasing the carrying capacity; and to a special kind of
 low, broad cart for carrying heavy weights, and to a platform on wheels
 used for shows in a procession. The term is applied also to various
 tools, especially to many kinds of trowels used in plastering. It is
-also used of a dock where vessels may float, as at Bristol, and of the
+also used of a [[Dock|dock]] where vessels may float, as at [[Bristol]], and of the
 trenches used in "floating" land. In geology and mining, loose rock or
 ore brought down by water is known as "float," and in tin-mining it is
 applied to a large trough used for the smelted tin. In weaving the word
@@ -47,7 +47,7 @@ congregation of worshippers in its relation to its spiritual head.
 the same word in various forms), a tuft of wool, cotton or similar
 substance. The name "flock" is given to a material formed of wool or
 cotton refuse, or of shreds of old woollen or cotton rags, torn by a
-machine known as a "devil." This material is used for stuffing
+[[Machine|machine]] known as a "devil." This material is used for stuffing
 mattresses or pillows, and also in upholstery. The name is also applied
 to a special kind of wall-paper, which has an appearance almost like
 cloth, or, in the more expensive kinds, of velvet. It is made by dusting

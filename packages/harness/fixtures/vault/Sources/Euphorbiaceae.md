@@ -3,13 +3,13 @@
 EUPHORBIACEAE, in botany, a large natural order of flowering plants,
 containing more than 220 genera with about 4000 species, chiefly
 tropical, but spreading over the whole earth with the exception of the
-arctic and cold alpine zones. They are represented in Britain by the
-spurges (_Euphorbia_, q.v.) (fig. 1) and dog's mercury (_Mercurialis_)
+[[Arctic|arctic]] and cold alpine zones. They are represented in Britain by the
+spurges (_[[Euphorbia]]_, q.v.) (fig. 1) and dog's mercury (_Mercurialis_)
 (fig. 2), which are herbaceous plants, but the greater number are woody
 plants and often trees. The large genus _Euphorbia_ shows great variety
-in habit; many species, like the English spurges, are annual herbs,
-others form bushes, while in the desert regions of tropical Africa and
-the Canary Islands species occur resembling cacti, having thick fleshy
+in habit; many species, like the English spurges, are annual [[Herb|herbs]],
+others form bushes, while in the [[Desert|desert]] regions of tropical Africa and
+the [[Canary Islands]] species occur resembling cacti, having thick fleshy
 stems and leaves reduced to spines. Another large genus, _Phyllanthus_,
 contains small annual herbs as well as trees, while in some species the
 leaves are reduced to scales, and the branches are flattened, forming
@@ -27,7 +27,7 @@ themselves arranged in spikes or stand in the axils of the upper leaves.
 These partial inflorescences are generally unisexual, the male often
 containing numerous flowers while the female flowers are solitary. The
 partial inflorescence (_cyathium_) of _Euphorbia_ (fig. 1) resembles
-superficially a hermaphrodite flower. It contains a central terminal
+superficially a hermaphrodite [[Flower|flower]]. It contains a central terminal
 flower, consisting of a naked pistil; below this are borne four or five
 bracts which unite to form a cup-shaped involucre resembling a calyx;
 each of these bracts subtends a small cyme of male flowers each
@@ -70,7 +70,7 @@ forming petal-like structures.
 
 The form of the flower shows great variety. The most complete type
 occurs in _Wielandia_, a shrub from the Seychelles Islands, in which the
-flowers have their parts in fives, a calyx and corolla being succeeded
+flowers have their parts in [[Fives|fives]], a calyx and corolla being succeeded
 in the male flower by 5 stamens, in the female by 5 carpels. Generally,
 however, only 3 carpels are present, as in _Euphorbia_; _Mercurialis_
 (fig. 2) has minute apetalous flowers with 3 sepals, followed in the
@@ -78,26 +78,26 @@ male by 8 to 20 stamens, in the female by a bicarpellary pistil. In the
 large tropical genus _Croton_ a pentamerous calyx and corolla are
 generally present, the stamens are often very numerous, and the female
 flower has three carpels. In _Manihot_, a large tropical American genus
-to which belongs the manioc or cassava (_M. utilissima_), the calyx is
+to which belongs the manioc or [[Cassava|cassava]] (_M. utilissima_), the calyx is
 often large and petaloid. In a great many genera the corolla is absent.
 The most reduced type of flower is that described in EUPHORBIA, where
 the male consists of one stamen separated from its pedicel by a joint,
 and the female of a naked tricarpellary pistil. The stamens are
 sometimes more or less united (monadelphous), and in castor-oil
 (_Ricinus_) (fig. 3) are much branched. The ovary generally contains
-three chambers, and bears three simple or more often bipartite styles;
+three chambers, and bears three simple or more often [[Bipartite|bipartite]] styles;
 each chamber contains one or two pendulous ovules, which generally bear
 a cap-like outgrowth or _caruncle_, which persists in the seed (well
-shown in castor oil, fig. 3).
+shown in [[Castor Oil|castor oil]], fig. 3).
 
 As the stamens and pistil are borne by different flowers,
 cross-fertilization is necessary. In _Mercurialis_ and others with
 inconspicuous flowers pollination is effected by the wind, but in many
-cases insects are attracted to the flower by the highly-coloured bracts,
+cases [[Insect|insects]] are attracted to the flower by the highly-coloured bracts,
 as in many _Euphorbias_ and _Dalechampia_, or by the coloured calyx as
 in _Manihot_; the presence of honey is also frequently an attraction, as
 in the honey-glands on the bracts of the cyathium of _Euphorbia_. The
-fruit is generally a capsule which splits into three divisions
+fruit is generally a [[Capsule|capsule]] which splits into three divisions
 (_cocci_), separating from the central column, and splitting lengthwise
 into two valves. In the mancinil (_Hippomane mancinella_) of Central
 America the fruit is a drupe like a plum, and in some genera berries
@@ -135,7 +135,7 @@ used as medicines. Species of _Codiaeum_ (q.v.), _Croton_, _Euphorbia_,
 _Phyllanthus_, _Jatropha_ and others are used as ornamental plants in
 gardens.
 
-The box (_Buxus_) and a few allied genera which were formerly included
+The [[Box|box]] (_Buxus_) and a few allied genera which were formerly included
 in Euphorbiaceae are now generally regarded as forming a distinct
 order--Buxaceae, differing from Euphorbiaceae in the position of the
 ovule in the ovary-chamber and in the manner of splitting of the fruit.

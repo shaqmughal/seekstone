@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-04T12:53:33.511Z",
+  "snapshotDate": "2026-09-07T04:08:04.365Z",
   "machine": {
     "platform": "darwin",
     "arch": "arm64",
-    "node": "v26.0.0",
-    "cpus": 10
+    "node": "v25.9.0",
+    "cpus": 16
   },
   "backend": {
     "name": "obsidian-mcp-rs",
@@ -27,37 +27,37 @@
         {
           "op": "read",
           "target": "Sources/Combustion.md",
-          "payloadBytes": 3966,
-          "payloadTokens": 924
+          "payloadBytes": 4010,
+          "payloadTokens": 940
         },
         {
           "op": "read",
           "target": "Encyclopedia/B/Black.md",
-          "payloadBytes": 5783,
-          "payloadTokens": 1369
+          "payloadBytes": 5909,
+          "payloadTokens": 1425
         },
         {
           "op": "read",
           "target": "Encyclopedia/K/Kirwan.md",
-          "payloadBytes": 3195,
-          "payloadTokens": 806
+          "payloadBytes": 3285,
+          "payloadTokens": 841
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 15717,
-      "totalPayloadTokens": 3861,
+      "totalPayloadBytes": 15977,
+      "totalPayloadTokens": 3968,
       "payloadStable": true,
       "latency": {
-        "coldMs": 313.474083,
+        "coldMs": 339.558542,
         "warm": {
           "n": 4,
-          "min": 40.986083,
-          "median": 41.075541,
-          "p90": 44.154916,
-          "p95": 44.154916,
-          "p99": 44.154916,
-          "max": 44.154916,
-          "mean": 42.43141625
+          "min": 27.169,
+          "median": 27.251,
+          "p90": 28.251292,
+          "p95": 28.251292,
+          "p99": 28.251292,
+          "max": 28.251292,
+          "mean": 27.718812749999998
         },
         "runs": 5
       }
@@ -70,43 +70,43 @@
         {
           "op": "search",
           "target": "Roman Empire",
-          "payloadBytes": 7542,
-          "payloadTokens": 2135
+          "payloadBytes": 7634,
+          "payloadTokens": 2178
         },
         {
           "op": "read",
           "target": "Reference/Empire.md",
-          "payloadBytes": 80534,
-          "payloadTokens": 19413
+          "payloadBytes": 81399,
+          "payloadTokens": 19774
         },
         {
           "op": "read",
           "target": "Encyclopedia/C/Comnenus.md",
-          "payloadBytes": 1909,
-          "payloadTokens": 523
+          "payloadBytes": 1925,
+          "payloadTokens": 534
         },
         {
           "op": "read",
           "target": "Encyclopedia/G/Gallienus.md",
-          "payloadBytes": 1779,
-          "payloadTokens": 479
+          "payloadBytes": 1811,
+          "payloadTokens": 492
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 91764,
-      "totalPayloadTokens": 22550,
+      "totalPayloadBytes": 92769,
+      "totalPayloadTokens": 22978,
       "payloadStable": true,
       "latency": {
-        "coldMs": 88.481583,
+        "coldMs": 48.848084,
         "warm": {
           "n": 4,
-          "min": 76.225125,
-          "median": 79.485416,
-          "p90": 83.639042,
-          "p95": 83.639042,
-          "p99": 83.639042,
-          "max": 83.639042,
-          "mean": 80.30639575000001
+          "min": 45.765708,
+          "median": 46.95675,
+          "p90": 48.604125,
+          "p95": 48.604125,
+          "p99": 48.604125,
+          "max": 48.604125,
+          "mean": 47.268395749999996
         },
         "runs": 5
       }
@@ -119,43 +119,43 @@
         {
           "op": "search",
           "target": "church architecture nave",
-          "payloadBytes": 7589,
-          "payloadTokens": 2079
+          "payloadBytes": 7686,
+          "payloadTokens": 2125
         },
         {
           "op": "read",
           "target": "Encyclopedia/D/Dunkeld.md",
-          "payloadBytes": 5268,
-          "payloadTokens": 1386
+          "payloadBytes": 5391,
+          "payloadTokens": 1448
         },
         {
           "op": "read",
           "target": "0 Inbox/Basilica.md",
-          "payloadBytes": 42571,
-          "payloadTokens": 10981
+          "payloadBytes": 43046,
+          "payloadTokens": 11197
         },
         {
           "op": "read",
           "target": "Encyclopedia/A/Arcade.md",
-          "payloadBytes": 2763,
-          "payloadTokens": 726
+          "payloadBytes": 2850,
+          "payloadTokens": 767
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 58191,
-      "totalPayloadTokens": 15172,
+      "totalPayloadBytes": 58973,
+      "totalPayloadTokens": 15537,
       "payloadStable": true,
       "latency": {
-        "coldMs": 70.017625,
+        "coldMs": 42.063792,
         "warm": {
           "n": 4,
-          "min": 71.754334,
-          "median": 72.313375,
-          "p90": 155.809459,
-          "p95": 155.809459,
-          "p99": 155.809459,
-          "max": 155.809459,
-          "mean": 93.10444824999999
+          "min": 40.773,
+          "median": 42.00425,
+          "p90": 45.459084,
+          "p95": 45.459084,
+          "p99": 45.459084,
+          "max": 45.459084,
+          "mean": 42.85486475
         },
         "runs": 5
       }
@@ -168,7 +168,7 @@
         {
           "op": "search",
           "target": "ancient-rome MOC",
-          "payloadBytes": 4574,
+          "payloadBytes": 4577,
           "payloadTokens": 1510
         },
         {
@@ -185,20 +185,20 @@
         }
       ],
       "calls": 3,
-      "totalPayloadBytes": 5760,
+      "totalPayloadBytes": 5763,
       "totalPayloadTokens": 1942,
       "payloadStable": true,
       "latency": {
-        "coldMs": 67.477209,
+        "coldMs": 39.556417,
         "warm": {
           "n": 4,
-          "min": 66.417667,
-          "median": 68.876583,
-          "p90": 71.863833,
-          "p95": 71.863833,
-          "p99": 71.863833,
-          "max": 71.863833,
-          "mean": 69.24134375
+          "min": 37.484042,
+          "median": 39.14,
+          "p90": 40.692792,
+          "p95": 40.692792,
+          "p99": 40.692792,
+          "max": 40.692792,
+          "mean": 39.18123975
         },
         "runs": 5
       }

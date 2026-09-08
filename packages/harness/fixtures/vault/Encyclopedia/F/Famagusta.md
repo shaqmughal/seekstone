@@ -7,7 +7,7 @@ topic: literature
 # Famagusta
 
 FAMAGUSTA (Gr. _Ammochostos_), a town and harbour on the east cost of
-Cyprus, 2-1/2 m. S. of the ruins of Salamis. The population in 1901 was
+[[Cyprus]], 2-1/2 m. S. of the ruins of Salamis. The population in 1901 was
 818, nearly all being Moslems who live within the walls of the fortress;
 the Christian population has migrated to a suburb called Varosia (pop.
 2948). The foundation of Salamis (q.v.) was ascribed to Teucer: it was
@@ -15,9 +15,9 @@ probably the most important town in early Cyprus. The revolt of the Jews
 under Trajan, and earthquakes in the time of Constantius and Constantine
 the Great helped in turn to destroy it. It was restored by Fl.
 Constantius II. (A.D. 337-361) as Constantia. Another town a little to
-the south, built by Ptolemy Philadelphus in 274 B.C., and called Arsinoe
+the south, built by Ptolemy Philadelphus in 274 B.C., and called [[Arsinoe]]
 in honour of his sister, received the refugees driven from Constantia by
-the Arabs under Mu'awiyah, became the seat of the orthodox
+the [[Arabs]] under Mu'awiyah, became the seat of the orthodox
 archbishopric, and was eventually known as Famagusta. It received a
 large accession of population at the fall of Acre in 1291; was annexed
 by the Genoese in 1376; reunited to the throne of Cyprus in 1464; and

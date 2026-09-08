@@ -8,9 +8,9 @@ tags: [science, rivers]
 
 # Draughts
 
-DRAUGHTS (from A.S. _dragan_, to draw), a game played with pieces (or
+DRAUGHTS (from A.S. _dragan_, to draw), a [[Game|game]] played with pieces (or
 "men") called draughtsmen on a board marked in squares of two alternate
-colours. The game is called Checkers in America, and is known to the
+[[Colours|colours]]. The game is called Checkers in America, and is known to the
 French as _Les Dames_ and to the Germans as _Damenspiel_. Though the
 game is not mentioned in the _Complete Gamester_, nor the _Académie de
 jeux_, and is styled a "modern invention" by Strutt, yet a somewhat
@@ -49,7 +49,7 @@ men are mentioned more than once.
 
 The history of the modern forms of the game starts with _El Ingenio o
 juego de marro, de punto o damas_, published by Torquemada at Valencia
-in 1547. Another Spaniard, Juan Garcia Canalejas, is said to have
+in 1547. Another Spaniard, Juan [[Garcia]] Canalejas, is said to have
 published in 1610 the first edition of his work, a better-known edition
 of which appeared in 1650. The third Spanish classic, that of Joseph
 Carlos Garcez, was printed in Madrid in 1684. It is noteworthy that in
@@ -57,7 +57,7 @@ an illustration in Garcez's book the pieces depicted resemble somewhat
 some of those used by the Egyptians, and are not unlike the pawns used
 in chess.
 
-In 1668 Pierre Mallet had published the first French work on the game,
+In 1668 Pierre [[Mallet]] had published the first French work on the game,
 and elementary though his knowledge of the game seems to have been, even
 in comparison with that of Canalejas or Garcez, the historical notes,
 rules and instructions which he gave, served as a basis for many later
@@ -90,7 +90,7 @@ work is historical and descriptive, but contains nothing concerning the
 game as played in Great Britain. The authentic history of draughts in
 England commences with William Payne's _Introduction to the Game of
 Draughts_, the dedication of which was written by Samuel Johnson.
-Payne's games and problems were incorporated in a much more important
+Payne's [[Games|games]] and problems were incorporated in a much more important
 work, namely Sturges's _Guide to the Game of Draughts_, which appeared
 in 1800 and has gone through a score of editions. About this time the
 game was much practised in both England and Scotland, but the first
@@ -108,7 +108,7 @@ than thirty years later that the other openings received more adequate
 recognition. This was done in Robertson's _Guide to the Game of
 Draughts_, and perhaps better in Lees' _Guide_ (1892).
 
-Andrew Anderson was the first recognized British champion player of the
+Andrew Anderson was the first recognized British [[Champion|champion]] player of the
 game. He and Wyllie, better known as "the herd laddie," contested five
 matches for the honour, Anderson winning four to Wyllie's one. After his
 victory in 1847 Anderson retired from match play and the title fell to
@@ -122,10 +122,10 @@ by Ferrie, the Scottish champion, in 1894. Two years later Ferrie was
 beaten in his turn by Richard Jordan of Edinburgh, who had just gained
 the Scottish championship; and the new holder defeated Stewart, who
 challenged him in 1897, and successfully defended his title against C.
-F. Barker, the American champion, to meet whom he visited Boston in 1900
+F. Barker, the American champion, to meet whom he visited [[Boston]] in 1900
 and played a drawn match.
 
-In 1884 the first international match between England and Scotland took
+In 1884 the first [[International|international]] match between England and Scotland took
 place, and resulted in so decisive a victory for the northerners that
 the contest was not renewed for ten years. The matches played in 1894
 and 1899 also went strongly in favour of the Scots, but in 1903 the
@@ -135,7 +135,7 @@ In 1905 a British team visited America and defeated a side representing
 the United States.
 
 The tournament for the Scottish championship has been held annually in
-Glasgow since 1893. The number and skill of the Scottish players have
+[[Glasgow]] since 1893. The number and skill of the Scottish players have
 given this tournament its pre-eminence; but if the levelling up of the
 standards of play in Scotland and England continues, the competition
 which is held biennially by the English Draughts Association is likely
@@ -356,7 +356,7 @@ must do so.
   e. 2-7, 27-24, 22-26, 23-18, 26-31, 18-15, 11-18, 20-2, 9-13, 2-9,
   5-14, 24-19, 13-22, 30-26. White wins.
 
-            Game No. 3.--"Dundee" Opening.
+            Game No. 3.--"[[Dundee]]" Opening.
 
       12-16    11-15  c 8-12   4-8    9-14   1-26
       24-20    20-11   17-13  18-15  26-22  31-22
@@ -485,7 +485,7 @@ must do so.
   _Other Varieties._--The forms of draughts practised on the European
   continent differ in some respects from the English variety, chiefly in
   respect of the power assigned to a man after "crowning." The game of
-  _Polish Draughts_ is played in France, Holland, Belgium and Poland,
+  _Polish Draughts_ is played in France, Holland, [[Belgium]] and Poland,
   where it has entirely superseded _Le Jeu de dames à la française_. It
   is played on a board of 100 squares with 20 men a side. The men move
   and capture as in English draughts, except that in capturing they move
@@ -514,7 +514,7 @@ must do so.
   or queens, or he may be huffed. Numerical power is the criterion, e.g.
   three men must be taken in preference to two queens. If the numbers
   are equal and one force comprises more queens than the other, the
-  player may take whichever lot he chooses. This form of draughts,
+  player may take whichever [[Lot|lot]] he chooses. This form of draughts,
   played on a board of 144 squares with 30 men a side, is extensively
   practised by British soldiers in India.
 

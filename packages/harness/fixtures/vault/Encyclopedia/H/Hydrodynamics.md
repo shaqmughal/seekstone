@@ -7,7 +7,7 @@ topic: engineering
 # Hydrodynamics
 
 HYDRODYNAMICS (Gr. [Greek: hydôr], water, [Greek: dynamis], strength),
-the branch of hydromechanics which discusses the motion of fluids (see
+the branch of [[Hydromechanics|hydromechanics]] which discusses the motion of fluids (see
 HYDROMECHANICS).
 
 
@@ -16,12 +16,12 @@ HYDROMECHANICS).
 HYDROGEN [symbol H, atomic weight 1.008 (o = 16)], one of the chemical
 elements. Its name is derived from Gr. [Greek: hydôr], water, and
 [Greek: gennaein], to produce, in allusion to the fact that water is
-produced when the gas burns in air. Hydrogen appears to have been
+produced when the gas [[Burns|burns]] in air. Hydrogen appears to have been
 recognized by Paracelsus in the 16th century; the combustibility of the
 gas was noticed by Turquet de Mayenne in the 17th century, whilst in
 1700 N. Lémery showed that a mixture of hydrogen and air detonated on
 the application of a light. The first definite experiments concerning
-the nature of hydrogen were made in 1766 by H. Cavendish, who showed
+the nature of hydrogen were made in 1766 by H. [[Cavendish]], who showed
 that it was formed when various metals were acted upon by dilute
 sulphuric or hydrochloric acids. Cavendish called it "inflammable air,"
 and for some time it was confused with other inflammable gases, all of
@@ -30,11 +30,11 @@ which were supposed to contain the same inflammable principle,
 In 1781 Cavendish showed that water was the only substance produced when
 hydrogen was burned in air or oxygen, it having been thought previously
 to this date that other substances were formed during the reaction, A.
-L. Lavoisier making many experiments with the object of finding an acid
-among the products of combustion.
+L. [[Lavoisier]] making many experiments with the object of finding an acid
+among the products of [[Combustion|combustion]].
 
 Hydrogen is found in the free state in some volcanic gases, in
-fumaroles, in the carnallite of the Stassfurt potash mines (H. Precht,
+[[Fumarole|fumaroles]], in the carnallite of the Stassfurt potash mines (H. Precht,
 _Ber._, 1886, 19, p. 2326), in some meteorites, in certain stars and
 nebulae, and also in the envelopes of the sun. In combination it is
 found as a constituent of water, of the gases from certain mineral
@@ -47,23 +47,23 @@ magnesium begins to react above 70° C., and zinc at a dull red heat. The
 decomposition of steam by red hot iron has been studied by H.
 Sainte-Claire Deville (_Comptes rendus_, 1870, 70, p. 1105) and by H.
 Debray (ibid., 1879, 88, p. 1341), who found that at about 1500° C. a
-condition of equilibrium is reached. H. Moissan (_Bull. soc. chim._,
+condition of equilibrium is reached. H. Moissan (_[[Bull]]. soc. chim._,
 1902, 27, p. 1141) has shown that potassium hydride decomposes cold
 water, with evolution of hydrogen, KH + H2O = KOH + H2. Calcium hydride
 or hydrolite, prepared by passing hydrogen over heated calcium,
 decomposes water similarly, 1 gram giving 1 litre of gas; it has been
 proposed as a commercial source (Prats Aymerich, _Abst. J.C.S._, 1907,
 ii. p. 543), as has also aluminium turnings moistened with potassium
-cyanide and mercuric chloride, which decomposes water regularly at 70°,
+[[Cyanide|cyanide]] and mercuric chloride, which decomposes water regularly at 70°,
 1 gram giving 1.3 litres of gas (Mauricheau-Beaupré, _Comptes rendus_,
 1908, 147, p. 310). Strontium hydride behaves similarly. In preparing
 the gas by the action of metals on acids, dilute sulphuric or
 hydrochloric acid is taken, and the metals commonly used are zinc or
-iron. So obtained, it contains many impurities, such as carbon dioxide,
+iron. So obtained, it contains many impurities, such as [[Carbon|carbon]] dioxide,
 nitrogen, oxides of nitrogen, phosphoretted hydrogen, arseniuretted
 hydrogen, &c., the removal of which is a matter of great difficulty (see
 E. W. Morley, _Amer. Chem. Journ._, 1890, 12, p. 460). When prepared by
-the action of metals on bases, zinc or aluminium and caustic soda or
+the action of metals on bases, zinc or aluminium and [[Caustic|caustic]] soda or
 caustic potash are used. Hydrogen may also be obtained by the action of
 zinc on ammonium salts (the nitrate excepted) (Lorin, _Comptes rendus_,
 1865, 60, p. 745) and by heating the alkali formates or oxalates with
@@ -75,7 +75,7 @@ dilute solution of caustic soda (C. Winssinger, _Chem. Zeit._, 1898,
 22, p. 609; "Die Elektrizitäts-Aktiengesellschaft," _Zeit. f.
 Elektrochem._, 1901, 7, p. 857). In the latter method a 15% solution of
 caustic soda is used, and the electrodes are made of iron; the cell is
-packed in a wooden box, surrounded with sand, so that the temperature is
+packed in a wooden [[Box|box]], surrounded with sand, so that the temperature is
 kept at about 70° C.; the solution is replenished, when necessary, with
 distilled water. The purity of the gas obtained is about 97%.
 
@@ -83,14 +83,14 @@ Pure hydrogen is a tasteless, colourless and odourless gas of specific
 gravity 0.06947 (air = 1) (Lord Rayleigh, _Proc. Roy. Soc._, 1893, p.
 319). It may be liquefied, the liquid boiling at -252.68° C. to -252.84°
 C., and it has also been solidified, the solid melting at -264° C. (J.
-Dewar, _Comptes rendus_, 1899, 129, p. 451; _Chem. News_, 1901, 84, p.
+[[Dewar]], _Comptes rendus_, 1899, 129, p. 451; _Chem. News_, 1901, 84, p.
 49; see also LIQUID GASES). The specific heat of gaseous hydrogen (at
 constant pressure) is 3.4041 (water = 1), and the ratio of the specific
 heat at constant pressure to the specific heat at constant volume is
 1.3852 (W. C. Röntgen, _Pogg. Ann._, 1873, 148, p. 580). On the spectrum
 see SPECTROSCOPY. Hydrogen is only very slightly soluble in water. It
 diffuses very rapidly through a porous membrane, and through some metals
-at a red heat (T. Graham, _Proc. Roy. Soc._, 1867, 15, p. 223; H.
+at a red heat (T. [[Graham]], _Proc. Roy. Soc._, 1867, 15, p. 223; H.
 Sainte-Claire Deville and L. Troost, _Comptes rendus_, 1863, 56, p.
 977). Palladium and some other metals are capable of absorbing large
 volumes of hydrogen (especially when the metal is used as a cathode in a
@@ -103,9 +103,9 @@ occlusion of hydrogen by palladium is a process of continuous
 absorption. Hydrogen burns with a pale blue non-luminous flame, but will
 not support the combustion of ordinary combustibles. It forms a highly
 explosive mixture with air or oxygen, especially when in the proportion
-of two volumes of hydrogen to one volume of oxygen. H. B. Baker (_Proc.
+of two volumes of hydrogen to one volume of oxygen. H. B. [[Baker]] (_Proc.
 Chem. Soc._, 1902, 18, p. 40) has shown that perfectly dry hydrogen will
-not unite with perfectly dry oxygen. Hydrogen combines with fluorine,
+not unite with perfectly dry oxygen. Hydrogen combines with [[Fluorine|fluorine]],
 even at very low temperatures, with great violence; it also combines
 with carbon, at the temperature of the electric arc. The alkali metals
 when warmed in a current of hydrogen, at about 360° C., form hydrides of
@@ -114,13 +114,13 @@ composition RH (R = Na, K, Rb, Cs), (H. Moissan, _Bull. soc. chim._,
 SrH2 at a dull red heat (A. Guntz, _Comptes rendus_, 1901, 133, p.
 1209). Hydrogen is a very powerful reducing agent; the gas occluded by
 palladium being very active in this respect, readily reducing ferric
-salts to ferrous salts, nitrates to nitrites and ammonia, chlorates to
+salts to ferrous salts, nitrates to nitrites and ammonia, [[Chlorates|chlorates]] to
 chlorides, &c.
 
   For determinations of the volume ratio with which hydrogen and oxygen
   combine, see J. B. Dumas, _Ann. chim. phys._, 1843 (3), 8, p. 189; O.
   Erdmann and R. F. Marchand, ibid., p. 212; E. H. Keiser, _Ber._, 1887,
-  20, p. 2323; J. P. Cooke and T. W. Richards, _Amer. Chem. Journ._,
+  20, p. 2323; J. P. [[Cooke]] and T. W. Richards, _Amer. Chem. Journ._,
   1888, 10, p. 191; Lord Rayleigh, _Chem. News_, 1889, 59, p. 147; E. W.
   Morley, _Zeit. phys. Chem._, 1890, 20, p. 417; and S. A. Leduc,
   _Comptes rendus_, 1899, 128, p. 1158.
@@ -132,9 +132,9 @@ a third oxide, ozonic acid, has been indicated.
 _Hydrogen peroxide_, H2O2, was discovered by L. J. Thénard in 1818
 (_Ann. chim. phys._, 8, p. 306). It occurs in small quantities in the
 atmosphere. It may be prepared by passing a current of carbon dioxide
-through ice-cold water, to which small quantities of barium peroxide are
+through ice-cold water, to which small quantities of [[Barium|barium]] peroxide are
 added from time to time (F. Duprey, _Comptes rendus_, 1862, 55, p. 736;
-A. J. Balard, ibid., p. 758), BaO2 + CO2 + H2O = H2O2 + BaCO3. E. Merck
+A. J. [[Balard]], ibid., p. 758), BaO2 + CO2 + H2O = H2O2 + BaCO3. E. Merck
 (_Abst. J.C.S._, 1907, ii., p. 859) showed that barium percarbonate,
 BaCO4, is formed when the gas is in excess; this substance readily
 yields the peroxide with an acid. Or barium peroxide may be decomposed
@@ -157,11 +157,11 @@ sulphuric acid in vacuo. H. P. Talbot and H. R. Moody (_Jour. Anal.
 Chem._, 1892, 6, p. 650) prepared a more concentrated solution from the
 commercial product, by the addition of a 10% solution of alcohol and
 baryta water. The solution is filtered, and the barium precipitated by
-sulphuric acid. The alcohol is removed by distillation _in vacuo_, and
+sulphuric acid. The alcohol is removed by [[Distillation|distillation]] _in vacuo_, and
 by further concentration _in vacuo_ a solution may be obtained which
 evolves 580 volumes of oxygen. R. Wolffenstein (_Ber._, 1894, 27, p.
 2307) prepared practically anhydrous hydrogen peroxide (containing 99.1%
-H2O2) by first removing all traces of dust, heavy metals and alkali from
+H2O2) by first removing all traces of [[Dust|dust]], heavy metals and alkali from
 the commercial 3% solution. The solution is then concentrated in an open
 basis on the water-bath until it contains 48% H2O2. The liquid so
 obtained is extracted with ether and the ethereal solution distilled
@@ -171,7 +171,7 @@ has described solid hydrogen peroxide, obtained by freezing concentrated
 solutions.
 
 Hydrogen peroxide is also found as a product in many chemical actions,
-being formed when carbon monoxide and cyanogen burn in air (H. B.
+being formed when carbon monoxide and cyanogen [[Burn|burn]] in air (H. B.
 Dixon); by passing air through solutions of strong bases in the presence
 of such metals as do not react with the bases to liberate hydrogen; by
 shaking zinc amalgam with alcoholic sulphuric acid and air (M. Traube,
@@ -209,9 +209,9 @@ acid-amides (B. Radziszewski, _Ber._, 1884, 17, p. 355). In many cases
 it is found that hydrogen peroxide will only act as an oxidant when in
 the presence of a catalyst; for example, formic, glycollic, lactic,
 tartaric, malic, benzoic and other organic acids are readily oxidized in
-the presence of ferrous sulphate (H. J. H. Fenton, _Jour. Chem. Soc._,
+the presence of ferrous sulphate (H. J. H. [[Fenton]], _Jour. Chem. Soc._,
 1900, 77, p. 69), and sugars are readily oxidized in the presence of
-ferric chloride (O. Fischer and M. Busch, _Ber._, 1891, 24, p. 1871). It
+ferric chloride (O. Fischer and M. [[Busch]], _Ber._, 1891, 24, p. 1871). It
 is sought to explain these oxidation processes by assuming that the
 hydrogen peroxide unites with the compound undergoing oxidation to form
 an addition compound, which subsequently decomposes (J. H. Kastle and A.
@@ -235,16 +235,16 @@ hydrobromic and hydriodic acids (S. Tanatar, _Ber._, 1899, 32, p. 1013).
   _Ber._, 1895, 28, p. 2847; 1900, 33, p. 1709; S. Tanatar, _Ber._,
   1903, 36, p. 1893.
 
-  Hydrogen peroxide finds application as a bleaching agent, as an
-  antiseptic, for the removal of the last traces of chlorine and sulphur
+  Hydrogen peroxide finds application as a [[Bleaching|bleaching]] agent, as an
+  antiseptic, for the removal of the last traces of [[Chlorine|chlorine]] and sulphur
   dioxide employed in bleaching, and for various quantitative
-  separations in analytical chemistry (P. Jannasch, _Ber._, 1893, 26, p.
+  separations in analytical [[Chemistry|chemistry]] (P. Jannasch, _Ber._, 1893, 26, p.
   2908). It may be estimated by titration with potassium permanganate in
   acid solution; with potassium ferricyanide in alkaline solution,
   2K3Fe(CN)6 + 2KOH + H2O2 = 2K4Fe(CN)6 + 2H2O + O2; or by oxidizing
   arsenious acid in alkaline solution with the peroxide and back
   titration of the excess of arsenious acid with standard iodine (B.
-  Grützner, _Arch. der Pharm._, 1899, 237, p. 705). It may be recognized
+  Grützner, _[[Arch]]. der Pharm._, 1899, 237, p. 705). It may be recognized
   by the violet coloration it gives when added to a very dilute solution
   of potassium bichromate in the presence of hydrochloric acid; by the
   orange-red colour it gives with a solution of titanium dioxide in

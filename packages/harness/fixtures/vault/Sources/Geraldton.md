@@ -1,7 +1,7 @@
 # Geraldton
 
-GERALDTON, a town in the district of Victoria, West Australia, on
-Champion Bay, 306 m. by rail N.W. of Perth. Pop. (1901) 2593. It is the
+GERALDTON, a town in the district of Victoria, West [[Australia]], on
+[[Champion]] Bay, 306 m. by rail N.W. of Perth. Pop. (1901) 2593. It is the
 seat of a Roman Catholic bishop, an important seaport carrying on a
 considerable trade with the surrounding gold-fields and agricultural
 districts, the centre of a considerable railway system and an

@@ -14,13 +14,13 @@ Immediately after his appointment to Aquitaine, he was sent to France to
 do homage to his uncle Charles IV., and remained abroad until he
 accompanied his mother and Mortimer in their expedition to England. To
 raise funds for this he was betrothed to Philippa, daughter of the count
-of Hainaut. On the 26th of October 1326, after the fall of Bristol, he
+of Hainaut. On the 26th of October 1326, after the fall of [[Bristol]], he
 was proclaimed warden of the kingdom during his father's absence. On the
 13th of January 1327 parliament recognized him as king, and he was
 crowned on the 29th of the same month.
 
 For the next four years Isabella and Mortimer governed in his name,
-though nominally his guardian was Henry, earl of Lancaster. In the
+though nominally his [[Guardian|guardian]] was Henry, earl of Lancaster. In the
 summer he took part in an abortive campaign against the Scots, and was
 married to Philippa at York on the 24th of January 1328. On the 15th of
 June 1330 his eldest child, Edward, the Black Prince, was born. Soon
@@ -59,7 +59,7 @@ crown. War broke out in 1337, and in 1338 Edward visited Coblenz, where
 he made an alliance with the emperor Louis the Bavarian. In 1339 and
 1340 Edward endeavoured to invade France from the north with the help of
 his German and Flemish allies, but the only result of his campaigns was
-to reduce him to bankruptcy.
+to reduce him to [[Bankruptcy|bankruptcy]].
 
 In 1340, however, he took personal part in the great naval battle off
 Sluys, in which he absolutely destroyed the French navy. In the same
@@ -191,7 +191,7 @@ ecclesiastics, headed by William of Wykeham, bishop of Winchester, who
 had been excluded from power in 1371. John further irritated the clergy
 by making an alliance with John Wycliffe. The opposition to John was led
 by the Black Prince and Edmund Mortimer, earl of March, the husband of
-Edward's grand-daughter, Philippa of Clarence. At last popular
+Edward's grand-daughter, Philippa of [[Clarence]]. At last popular
 indignation against the courtiers came to a head in the famous Good
 Parliament of 1376. Alice Perrers was removed from court, and Duke
 John's subordinate instruments were impeached. But in the midst of the
@@ -211,7 +211,7 @@ glory, he was not a bad ruler of England. He was liberal, kindly,
 good-tempered and easy of access, and his yielding to his subjects'
 wishes in order to obtain supplies for carrying on the French war
 contributed to the consolidation of the constitution. His weak points
-were his wanton breaches of good faith, his extravagance, his frivolity
+were his wanton [[Breach|breaches]] of good faith, his extravagance, his frivolity
 and his self-indulgence. Like that of Edward I. his ambition transcended
 his resources, and before he died even his subjects were aware of his
 failure.
@@ -236,7 +236,7 @@ into the family of Coucy, and Mary, who married into that of Montfort.
   Stubbs's _Constitutional History of England_, vol. ii. chapters xvi.
   and xvii.; in T.F. Tout's _Political History of England_, 1216-1377,
   pp. 301-441; in R. Pauli's _Geschichte von England_, iv. pp. 307-504;
-  and in Edward's life by W. Hunt in the _Dictionary of National
+  and in Edward's life by W. [[Hunt]] in the _Dictionary of National
   Biography_. For the Hundred Years' War, see E. Deprez's _Les
   Preliminaires de la guerre de cent ans, 1328-1342_, and H. Denifle's
   _La Desolation des eglises, monasteres et hopitaux en France pendant

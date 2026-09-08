@@ -9,18 +9,18 @@ tags: [botany, cartography]
 
 HAMIRPUR, a town and district of British India, in the Allahabad
 division of the United Provinces. The town stands on a tongue of land
-near the confluence of the Betwa and Jumna, 110 m. N.W. of Allahabad.
+near the confluence of the Betwa and [[Jumna]], 110 m. N.W. of Allahabad.
 Pop. (1901), 6721. It was founded, according to tradition, in the 11th
 century by Hamir Deo, a Karchuli Rajput expelled from Alwar by the
 Mahommedans.
 
 The district has an area of 2289 sq. m., and encloses the native states
-of Sarila, Jigni and Bihat, besides portions of Charkhari and Garrauli.
+of Sarila, Jigni and Bihat, besides portions of [[Charkhari]] and Garrauli.
 Hamirpur forms part of the great plain of Bundelkhand, which stretches
 from the banks of the Jumna to the central Vindhyan plateau. The
 district is in shape an irregular parallelogram, with a general slope
 northward from the low hills on the southern boundary. The scenery is
-rendered picturesque by the artificial lakes of Mahoba. These
+rendered picturesque by the artificial lakes of [[Mahoba]]. These
 magnificent reservoirs were constructed by the Chandel rajas before the
 Mahommedan conquest, for purposes of irrigation and as sheets of
 ornamental water. Many of them enclose craggy islets or peninsulas,
@@ -34,7 +34,7 @@ soil of Bundelkhand, known as _mar_, retains the moisture under a dried
 and rifted surface, and renders the district fertile. The staple produce
 is grain of various sorts, the most important being gram. Cotton is also
 a valuable crop. Agriculture suffers much from the spread of the _kans_
-grass, a noxious weed which overruns the fields and is found to be
+grass, a noxious weed which overruns the [[Fields|fields]] and is found to be
 almost ineradicable wherever it has once obtained a footing. Droughts
 and famine are unhappily common. The climate is dry and hot, owing to
 the absence of shade and the bareness of soil, except in the
@@ -54,11 +54,11 @@ constructing the noble artificial lakes already described. At the end of
 the 12th century Mahoba fell into the hands of the Mussulmans. In 1680
 the district was conquered by Chhatar Sal, the hero of the Bundelas, who
 assigned at his death one-third of his dominions to his ally the peshwa
-of the Mahrattas. Until Bundelkhand became British territory in 1803
+of the [[Mahrattas]]. Until Bundelkhand became British territory in 1803
 there was constant warfare between the Bundela princes and the Mahratta
 chieftains. On the outbreak of the Mutiny in 1857, Hamirpur was the
 scene of a fierce rebellion, and all the principal towns were plundered
-by the surrounding chiefs. After a short period of desultory guerrilla
+by the surrounding chiefs. After a short period of desultory [[Guerrilla|guerrilla]]
 warfare the rebels were effectually quelled and the work of
 reorganization began. The district has since been subject to cycles of
 varying agricultural prosperity.
@@ -72,23 +72,23 @@ and call for separate treatment.
 
 I. _Hamitic Races._--The term Hamitic as applied to race is not only
 extremely vague but has been much abused by anthropological writers. Of
-the few who have attempted a precise definition the most prominent is
-Sergi,[1] and his classification may be taken as representing one point
+the few who have attempted a precise [[Definition|definition]] the most prominent is
+Sergi,[1] and his [[Classification|classification]] may be taken as representing one point
 of view with regard to this difficult question.
 
   Sergi considers the Hamites, using the term in the racial sense, as a
   branch of his "Mediterranean Race"; and divides them as follows:--
 
   1. _Eastern Branch_--
-        (a) Ancient and Modern Egyptian (excluding the Arabs).
-        (b) Nubians, Beja.
+        (a) Ancient and Modern Egyptian (excluding the [[Arabs]]).
+        (b) Nubians, [[Beja]].
         (c) Abyssinians.
         (d) Galla, Danakil, Somali.
-        (e) Masai.
+        (e) [[Masai]].
         (f) Wahuma or Watusi.
 
   2. _Northern Branch_--
-        (a) Berbers of the Mediterranean, Atlantic and Sahara.
+        (a) [[Berber|Berbers]] of the Mediterranean, Atlantic and Sahara.
         (b) Tibbu.
         (c) Fula.
         (d) Guanches (extinct).
@@ -149,18 +149,18 @@ of view with regard to this difficult question.
   definite race or a blend, no discussion can, in view of the paucity of
   evidence, as yet lead to a satisfactory conclusion, but it might be
   suggested very tentatively that further researches may possibly
-  connect them with the Dravidian peoples of India. It is sufficient for
+  connect them with the [[Dravidian]] peoples of India. It is sufficient for
   present purposes that the term Hamite, using it as coextensive with
   Sergi's Eastern Hamite, has a definite connotation. By the term is
   meant a brown people with frizzy hair, of lean and sinewy physique,
-  with slender but muscular arms and legs, a thin straight or even
-  aquiline nose with delicate nostrils, thin lips and no trace of
+  with slender but muscular arms and [[Leg|legs]], a thin straight or even
+  aquiline nose with delicate nostrils, thin [[Lip|lips]] and no trace of
   prognathism. (T. A. J.)
 
 II. _Hamitic Languages._--The whole north of Africa was once inhabited
 by tribes of the Caucasian race, speaking languages which are now
-generally called, after Genesis x., Hamitic, a term introduced
-principally by Friedrich Muller. The linguistic coherence of that race
+generally called, after [[Genesis]] x., Hamitic, a term introduced
+principally by [[Friedrich]] Muller. The linguistic coherence of that race
 has been broken up especially by the intrusion of Arabs, whose language
 has exercised a powerful influence on all those nations. This splitting
 up, and the immense distances over which those tribes were spread, have
@@ -182,20 +182,20 @@ this now to everybody by comparative tables of the grammatical elements.
 
   The classification of Hamitic languages is as follows:[2]--
 
-  1. _The Libyan Dialects_ (mostly misnamed "Berber languages," after an
+  1. _The Libyan [[Dialect|Dialects]]_ (mostly misnamed "Berber languages," after an
   unfortunate, vague Arabic designation, _barabra_, "people of foreign
   language"). The representatives of this large group extend from the
   Senegal river (where they are called Zenaga; imperfect _Grammaire_ by
-  L. Faidherbe, 1877) and from Timbuktu (dialect of the Auelimmiden,
-  sketched by Heinrich Barth, _Travels_, vol. v., 1857) to the oases of
-  Aujila (Bengazi) and of Siwa on the western border of Egypt.
+  L. [[Faidherbe]], 1877) and from Timbuktu (dialect of the Auelimmiden,
+  sketched by Heinrich [[Barth]], _Travels_, vol. v., 1857) to the oases of
+  Aujila ([[Bengazi]]) and of Siwa on the western border of Egypt.
   Consequently, these "dialects" differ more strongly from each other
   than, e.g. the Semitic languages do between themselves. The purest
   representative seems to be the language of the Algerian mountaineers
-  (Kabyles), especially that of the Zuawa (Zouaves) tribe, described by
-  A. Hanoteau, _Essai de grammaire kabyle_ (1858); Ben Sedira, _Cours de
+  ([[Kabyles]]), especially that of the Zuawa (Zouaves) tribe, described by
+  A. Hanoteau, _Essai de grammaire kabyle_ (1858); [[Ben]] Sedira, _Cours de
   langue kab._ (1887); _Dictionnaire_ by Olivier (1878). The learned
-  little _Manuel de langue kabyle_, by R. Basset (1887) is an
+  little _[[Manuel]] de langue kabyle_, by R. Basset (1887) is an
   introduction to the study of the many dialects with full bibliography,
   cf. also Basset's _Notes de lexicographie berbere_ (1883 foll.). (The
   dictionaries by Brosselard and Venture de Paradis are imperfect.) The
@@ -203,8 +203,8 @@ this now to everybody by comparative tables of the grammatical elements.
   _Handbuch des Schilhischen_, 1899), but it is an inferior dialect.
   That of Ghat in Tripoli underlies the _Grammar_ of F. W. Newman (1845)
   and the _Grammaire Tamashek_ of Hanoteau (1860); cf. also the
-  _Dictionnaire_ of Cid Kaoui (1900). Neither medieval reports on the
-  language spoken by the Guanches of the Canary Islands (fullest in A.
+  _Dictionnaire_ of [[Cid]] Kaoui (1900). Neither medieval reports on the
+  language spoken by the Guanches of the [[Canary Islands]] (fullest in A.
   Berthelot, _Antiquites canariennes_, 1879; akin to Shilha; by no means
   primitive Libyan untouched by Arabic), nor the modern dialect of Siwa
   (still little known; tentative grammar by Basset, 1890), have
@@ -219,7 +219,7 @@ this now to everybody by comparative tables of the grammatical elements.
 
   2. _The Cushitic or Ethiopian Family._--The nearest relative of Libyan
   is not Ancient Egyptian but the language of the nomadic Bisharin or
-  Beja of the Nubian Desert (cf. H. Almkvist, _Die Bischari Sprache_,
+  Beja of the Nubian [[Desert]] (cf. H. Almkvist, _Die Bischari Sprache_,
   1881 [the northern dialect], and L. Reinisch, _Die Bedauye Sprache_,
   1893, _Worterbuch_, 1895). The speech of the peoples occupying the
   lowland east of Abyssinia, the Saho (Reinisch, grammar in _Zeitschrift
@@ -230,16 +230,16 @@ this now to everybody by comparative tables of the grammatical elements.
   the connecting link with the southern Hamitic group, i.e. Somali
   (Reinisch, _Somali Sprache_, 1900-1903, 3 vols.; Larajasse und de
   Sampont, _Practical Grammar of the Somali Language_, 1897; imperfect
-  sketches by Hunter, 1880, and Schleicher, 1890), and Galla (L.
-  Tutscheck, _Grammar_, 1845, _Lexicon_, 1844; Massaja, _Lectiones_,
+  sketches by [[Hunter]], 1880, and Schleicher, 1890), and Galla (L.
+  Tutscheck, _Grammar_, 1845, _Lexicon_, 1844; Massaja, _[[Lection|Lectiones]]_,
   1877; G. F. F. Praetorius, _Zur Grammatik der Gallasprache_, 1893,
   &c.). All these Cushitic languages, extending from Egypt to the
-  equator, are separated by Reinisch as _Lower Cushitic_ from the _High
+  [[Equator|equator]], are separated by Reinisch as _Lower Cushitic_ from the _High
   Cushitic_ group, i.e. the many dialects spoken by tribes dwelling in
   the Abyssinian highlands or south of Abyssinia. Of the original
   inhabitants of Abyssinia, called collectively Agau (or Agau) by the
-  Abyssinians, or Falashas (this name principally for Jewish tribes),
-  Reinisch considers the Bilin or Bogos tribe as preserving the most
+  Abyssinians, or [[Falashas]] (this name principally for Jewish tribes),
+  Reinisch considers the [[Bilin]] or [[Bogos]] tribe as preserving the most
   archaic dialect (_Die Bilin Sprache_, Texts, 1883; _Grammatik_, 1882;
   _Worterbuch_, 1887); the same scholar gave sketches of the Khamir
   (1884) and Quara (1885) dialects. On other dialects, struggling
@@ -283,7 +283,7 @@ this now to everybody by comparative tables of the grammatical elements.
   negro languages is impossible (though a few of these, e.g. Nuba, have
   borrowed some words from neighbouring Hamitic peoples). The
   development of a grammatical gender, this principal characteristic of
-  Semito-Hamitic, in Bari and Masai, may be rather accidental than
+  Semito-Hamitic, in [[Bari]] and Masai, may be rather accidental than
   borrowed; certainly, the same phenomenon in Hottentot does not justify
   the attempt often made to classify this with Hamitic.
 
@@ -294,7 +294,7 @@ this now to everybody by comparative tables of the grammatical elements.
   few resemblances with Libyan (M. de Rochemonteix in _Memoires du
   congres internat. des orientalistes_, Paris, 1873; elementary) are
   less due to original relationship than to the general better
-  preservation of the northern idioms (see above). Frequent attempts to
+  preservation of the northern [[Idiom|idioms]] (see above). Frequent attempts to
   detach Egyptian from Hamitic and to attribute it to a Semitic
   immigration later than that of the other Hamites cannot be proved.
   Egyptian is, in many respects, more remote from Semitic than the

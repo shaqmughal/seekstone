@@ -3,7 +3,7 @@
 AZO COMPOUNDS, organic substances of the type R·N:N·R' (where R = an aryl
 radical and R' = a substituted alkyl, or aryl radical). They may be
 prepared by the reduction of nitro compounds in alkaline solution (using
-zinc dust and alkali, or a solution of an alkaline stannite as a reducing
+zinc [[Dust|dust]] and alkali, or a solution of an alkaline stannite as a reducing
 agent); by oxidation of hydrazo compounds; or by the coupling of a
 diazotized amine and any compound of a phenolic or aminic type, provided
 that there is a free para position in the amine or phenol. They may also be
@@ -21,7 +21,7 @@ hydrazo compounds or amines.
 
 _Azo-benzene_, C_6H_5N:NC_6H_5, discovered by E. Mitscherlich in 1834, may
 be prepared by reducing nitrobenzene in alcoholic solution with zinc dust
-and caustic soda; by the condensation of nitrosobenzene with aniline in hot
+and [[Caustic|caustic]] soda; by the condensation of nitrosobenzene with aniline in hot
 glacial acetic acid solution; or by the oxidation of aniline with sodium
 hypobromite. It crystallizes from alcohol in orange red plates which melt
 at 68° C. and boil at 293° C. It does not react with acids or alkalis, but
@@ -55,9 +55,9 @@ of formation of the amino-azo compound depends only on the nature of the
 reagents and not on the concentration, and that in coupling the
 hydrochloride of a tertiary amine with diazobenzene sulphonic acid the
 reaction takes place between the acid and the base set free by the
-hydrolytic dissociation of its salt, for the formation of the amino-azo
+hydrolytic [[Dissociation|dissociation]] of its salt, for the formation of the amino-azo
 compound, when carried out in the presence of different acids, takes place
-most rapidly with the weakest acid (H. Goldschmidt and F. Buss, _Ber_.,
+most rapidly with the weakest acid (H. Goldschmidt and F. [[Buss]], _Ber_.,
 1897, 30, p. 2075).
 
 _Methyl orange_ (helianthin, gold orange, Mandarin orange),
@@ -65,7 +65,7 @@ _Methyl orange_ (helianthin, gold orange, Mandarin orange),
 para-dimethylaminobenzene-azo-benzene sulphonic acid. It is an orange
 crystalline powder which is soluble in water, forming a yellow solution.
 The free acid is intensely red in colour. Methyl orange is used largely as
-an indicator. The constitution of methyl orange follows from the fact that
+an [[Indicator|indicator]]. The constitution of methyl orange follows from the fact that
 on reduction by stannous chloride in hydrochloric acid solution it yields
 sulphanilic acid and para-aminodimethyl aniline.
 
@@ -95,15 +95,15 @@ quinone hydrazones or act as such. A. Hantzsch (_Ber._, 1899, 32, pp. 590,
 3089) considers that the oxyazo compounds are to be classed as
 pseudo-acids, possessing in the free condition the configuration of quinone
 hydrazones, their salts, however, being of the normal phenolic type. J. T.
-Hewitt (_Jour. Chem. Soc._, 1900, 77, pp. 99 et seq.) nitrated
-para-oxyazobenzene with dilute nitric acid and found that it gave a benzene
+[[Hewitt]] (_Jour. Chem. Soc._, 1900, 77, pp. 99 et seq.) nitrated
+para-oxyazobenzene with dilute nitric acid and found that it gave a [[Benzene|benzene]]
 azo-ortho-nitrophenol, whereas quinones are not attacked by dilute nitric
 acid. Hewitt has also attacked the problem by brominating the
 oxyazobenzenes, and has shown that when the hydrobromic acid produced in
 the reaction is allowed to remain in the system, a brombenzene-azo-phenol
 is formed, whilst if it be removed (by the addition of sodium acetate)
 bromination takes place in the phenolic nucleus; consequently the presence
-of the mineral acid gives the azo compound a pseudo-quinonoid character,
+of the mineral acid gives the [[Azo|azo]] compound a pseudo-quinonoid character,
 which it does not possess if the mineral acid be removed from the sphere of
 the reaction.
 
@@ -112,7 +112,7 @@ prepared by coupling diazotized aniline with phenol in alkaline solution.
 It is an orange-red crystalline compound which melts at 154° C.
 Ortho-oxyazobenzene, C_6H_5N:N(1)C_6H_4·OH(2), was obtained in small
 quantity by E. Bamberger (_Ber._, 1900, 33, p. 3189) simultaneously with
-the para compound, from which it may be separated by distillation in a
+the para compound, from which it may be separated by [[Distillation|distillation]] in a
 current of steam, the ortho compound passing over with the steam. It
 crystallizes in orange-red needles which melt at 82.5-83° C. On reduction
 with zinc dust in dilute sal-ammoniac solution, it yields ortho-aminophenol
@@ -132,11 +132,11 @@ nitrosamines on primary amines. They are crystalline solids, usually of a
 yellow colour, which do not unite with acids; they are readily converted
 into amino-azo compounds (see above) and are decomposed by the concentrated
 halogen acids, yielding haloid benzenes, nitrogen and an amine. Acid
-anhydrides replace the imino-hydrogen atom by acidyl radicals, and boiling
+anhydrides replace the imino-hydrogen [[Atom|atom]] by acidyl radicals, and boiling
 with water converts them into phenols. They combine with phenyl isocyanate
 to form urea derivatives (H. Goldschmidt, _Ber._, 1888, 21, p. 2578), and
 on reduction with zinc dust (preferably in alcoholic acetic acid solution)
-they yield usually a hydrazine and an amine. Diazoamino benzene,
+they yield usually a [[Hydrazine|hydrazine]] and an amine. Diazoamino benzene,
 C_6H_5·N:N·NHC_6H_5, was first obtained by P. Griess (_Ann._, 1862, 121, p.
 258). It crystallizes in yellow laminae, which melt at 96° C. and explode
 at slightly higher temperatures. It is readily soluble in alcohol, ether
@@ -144,7 +144,7 @@ and benzene.
 
 _Diazoimino benzene_, C_6H_5N_3, is also known. It may be prepared by the
 action of ammonia on diazobenzene perbromide; by the action of
-hydroxylamine on a diazonium sulphate (K. Heumann and L. Oeconomides,
+[[Hydroxylamine|hydroxylamine]] on a diazonium sulphate (K. Heumann and L. Oeconomides,
 _Ber._, 1887, 20, p. 372); and by the action of phenylhydrazine on a
 diazonium sulphate. It is a yellow oil which boils at 59° C. (12 mm.), and
 possesses a stupefying odour. It explodes when heated. Hydrochloric acid
@@ -189,7 +189,7 @@ decomposition. On standing with 60% sulphuric acid for some time, it is
 converted into the isomeric acetaldehyde-phenylhydrazone,
 C_6H_5NH·N:CH·CH_3 (_Ber._, 1896, 29, p. 794).
 
-The diazo cyanides, C_6H_5N_2·CN, and carboxylic acids, C_6H_5·N_2·COOH,
+The diazo [[Cyanide|cyanides]], C_6H_5N_2·CN, and carboxylic acids, C_6H_5·N_2·COOH,
 may also be considered as mixed azo derivatives. Diazobenzenecyanide,
 C_6H_5N_2·CN, is an unstable oil, formed when potassium cyanide is added to
 a solution of a diazonium salt. Phenyl-azo-carboxylic acid,
@@ -199,7 +199,7 @@ solution (J. Thiele, _Ber._, 1895, 28, p. 2600). It crystallizes in
 orange-red needles and is decomposed by water. The corresponding amide,
 phenyl-azo-carbonamide, C_6H_5N_2·CONH_2, also results from the oxidation
 of phenylsemicarbazide (Thiele, _loc. cit._), and forms reddish-yellow
-needles which melt at 114° C. When heated with benzaldehyde to 120° C. it
+needles which melt at 114° C. When heated with [[Benzaldehyde|benzaldehyde]] to 120° C. it
 yields diphenyloxytriazole, (C_6H_5)_2CN_3C(OH).
 
 ## See also

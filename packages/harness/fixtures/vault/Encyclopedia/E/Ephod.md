@@ -11,18 +11,18 @@ tags: [fisheries-studies, geography]
 EPHOD, a Hebrew word (_ephod_) of uncertain meaning, retained by the
 translators of the Old Testament. In the post-exilic priestly writings
 (5th century B.C. and later) the ephod forms part of the gorgeous
-ceremonial dress of the high-priest (see Ex. xxix. 5 sq. and especially
+ceremonial [[Dress|dress]] of the high-priest (see Ex. xxix. 5 sq. and especially
 Ecclus. xlv. 7-13). It was a very richly decorated object of coloured
-threads interwoven with gold, worn outside the luxurious mantle or robe;
+threads interwoven with gold, worn outside the luxurious [[Mantle|mantle]] or robe;
 it was kept in place by a girdle, and by shoulder-pieces (?), to which
 were attached brooches of onyx (fastened to the robe) and golden rings
 from which hung the "breastplate" (or rather pouch) containing the
-sacred lots, Urim and Thummim. The somewhat involved description in Ex.
+sacred [[Lot|lots]], Urim and Thummim. The somewhat involved description in Ex.
 xxviii. 6 sqq., xxxix. 2 sqq. (see V. Ryssel's ed. of Dillmann's
 commentary on Ex.-Lev.) leaves it uncertain whether it covered the back,
 encircling the body like a kind of waistcoat, or only the front; at all
 events it was not a garment in the ordinary sense, and its association
-with the sacred lots indicates that the ephod was used for divination
+with the sacred lots indicates that the ephod was used for [[Divination|divination]]
 (cf. Num. xxvii. 21), and had become the distinguishing feature of the
 leading priestly line (cf. 1 Sam. ii. 28).[1] But from other passages it
 seems that the ephod had been a familiar object whose use was by no
@@ -40,7 +40,7 @@ it were, by confining it exclusively to the Aaronites.
 
   An intricate historical problem is involved at the outset in the
   famous ephod, which the priest Abiathar brought in his hand when he
-  fled to David after the massacre of the priests of Nob. It is
+  fled to David after the [[Massacre|massacre]] of the priests of Nob. It is
   evidently regarded as the one which had been in Nob (1 Sam. xxi. 9),
   and the presence of the priests at Nob is no less clearly regarded as
   the sequel of the fall of Shiloh. The ostensible intention is to
@@ -48,7 +48,7 @@ it were, by confining it exclusively to the Aaronites.
   10), and henceforth he regularly inquires of Yahweh in his movements
   (1 Sam. xxiii. 9-12, xxx. 7 sq.; cf. xxiii. 2, 4; 2 Sam. ii. 1, v.
   19-23). It is possible that the writer (or writers) desired to trace
-  the earlier history of the ephod through the line of Eli and Abiathar
+  the earlier history of the ephod through the line of [[Eli]] and Abiathar
   to the time when the Zadokite priests gained the supremacy (see
   LEVITES); but elsewhere Abiathar is said to have borne the ark (1
   Kings ii. 26; cf. 2 Sam. vii. 6), and this fluctuation is noteworthy
@@ -57,7 +57,7 @@ it were, by confining it exclusively to the Aaronites.
 
   On one view, the ark in Kirjath-jearim was in non-Israelite hands (1
   Sam. vii. 1 sq.); on the other, Saul's position as king necessitates
-  the presumption that his sway extended over Judah and Israel,
+  the presumption that his sway extended over [[Judah]] and Israel,
   including those cities which otherwise appear to have been in the
   hands of aliens (1 Sam. xiv. 47 sq.; cf. xvii. 54, &c.). There are
   some fundamental divergencies in the representations of the traditions
@@ -80,9 +80,9 @@ On the other hand, the idea of contempt at the exposure of the person,
 to whatever extent, may not have been so prominent, especially if the
 custom were not unfamiliar, and it is possible that the sequel refers
 more particularly to grosser practices attending outbursts of religious
-enthusiasm.[3]
+[[Enthusiasm|enthusiasm]].[3]
 
-The favourite view that the ephod was also an image rests partly upon 1
+The favourite view that the ephod was also an [[Image|image]] rests partly upon 1
 Sam. xxi. 9, where Goliath's sword is wrapped in a cloth in the
 sanctuary of Nob _behind the ephod_. But it is equally natural to
 suppose that it hung on a nail in the wall, and apart from the omission
@@ -102,17 +102,17 @@ former were of a similar character. Finally, according to Judg. viii.
 in Ophrah. It is regarded as a departure from the worship of Yahweh,
 although the writer of ver. 33 (cf. also ver. 23) hardly shared this
 feeling; it was probably something once harmlessly associated with the
-cult of Yahweh (cf. CALF, GOLDEN), and the term "ephod" may be due to a
+cult of Yahweh (cf. [[Calf|CALF]], GOLDEN), and the term "ephod" may be due to a
 later hand under the influence of the prophetical teaching referred to
 above. The present passage is the only one which appears to prove that
 the ephod was an image, and several writers, including Lotz (_Realencyk.
-f. prot. Theol._ vol. v., s.v.), T.C. Foote (pp. 13-18) and A.
+f. prot. Theol._ vol. v., s.v.), T.C. [[Foote]] (pp. 13-18) and A.
 Maecklenburg (_Zeit. f. wissens. Theol._, 1906, pp. 433 sqq.) find this
 interpretation unnecessary.
 
 Archaeological evidence for objects of divination (see, e.g., the
 interesting details in Ohnefalsch-Richter, _Kypros, the Bible and
-Homer_, i. 447 sq.), and parallels from the Oriental area, can be
+[[Homer]]_, i. 447 sq.), and parallels from the Oriental area, can be
 readily cited in support of any of the explanations of the ephod which
 have been offered, but naturally cannot prove the form which it actually
 took in Palestine. Since images were clothed, it could be supposed that
@@ -129,14 +129,14 @@ not differ radically from the ephod of the post-exilic age.
 
   See further, in addition to the monographs already cited, the articles
   in Hastings's _Dict. Bible_ (by S.R. Driver), _Ency. Bib._ (by G.F.
-  Moore), and _Jew. Encyc._ (L. Ginsburg), and E. Sellin, in _Oriental.
+  Moore), and _Jew. Encyc._ (L. [[Ginsburg]]), and E. Sellin, in _Oriental.
   Studien: Theodor Noldeke_ (ed. Bezold, 1906), pp. 699 sqq.
        (S. A. C.)
 
 
 FOOTNOTES:
 
-  [1] Cf. the phrase "ephod of prophecy" (_Testament of Levi_, viii.
+  [1] Cf. the phrase "ephod of prophecy" (_Testament of [[Levi]]_, viii.
     2). The priestly apparatus of the post-exilic age retains several
     traces of old mythological symbolism and earlier cult, the meaning of
     which had not altogether been forgotten. With the dress one may
@@ -147,9 +147,9 @@ FOOTNOTES:
   [2] The ordinary interpretation "_linen_ ephod" (1 Sam. ii. 18, xxii.
     18; 2 Sam. vi. 14) is questioned by T.C. Foote in his useful
     monograph, _Journ. Bibl. Lit._ xxi., 1902, pp. 3, 47. This writer
-    also aptly compares the infant Samuel with the child who drew the
+    also aptly compares the [[Infant|infant]] Samuel with the child who drew the
     lots at the temple of Fortuna at Praeneste (Cicero, _De divin._ ii.
-    41, 86), and with the modern practice of employing innocent
+    41, 86), and with the modern practice of employing [[Innocent|innocent]]
     instruments of chance in lotteries (_op. cit._ pp. 22, 27).
 
   [3] It is not stated that the linen ephod was David's sole covering,

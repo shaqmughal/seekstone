@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lore"
 # Lore
 
 LORE, properly instruction, teaching, knowledge. The O. Eng. _lár_, as
-the Dutch _leer_ and Ger. _Lehre_, represents the Old Teutonic root,
+the Dutch _[[Leer|leer]]_ and Ger. _Lehre_, represents the Old Teutonic root,
 meaning to impart or receive knowledge, seen in "to learn," "learning."
 In the _Gentleman's Magazine_ for June 1830 it was suggested that "lore"
 should be used as a termination instead of the Greek derivative -_ology_

@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Meaux"
 MEAUX, a town of northern France, capital of an arrondissement in the
 department of Seine-et-Marne, and chief town of the agricultural region
 of Brie, 28 m. E.N.E. of Paris by rail. Pop. (1906), 11,089. The town
-proper stands on an eminence on the right bank of the Marne; on the left
+proper stands on an eminence on the right bank of the [[Marne]]; on the left
 bank lies the old suburb of Le Marché, with which it is united by a
 bridge of the 16th century. Two rows of picturesque mills of the same
 period are built across the river. The cathedral of St Stephen dates
@@ -29,10 +29,10 @@ archaeological interest. A statue of General Raoult (1870) stands in one
 of the squares.
 
 Meaux is the centre of a considerable trade in cereals, wool, Brie
-cheeses, and other farm-produce, while its mills provide much of the
+[[Cheese|cheeses]], and other farm-produce, while its mills provide much of the
 flour with which Paris is supplied. Other industries are saw-milling,
 metal-founding, distilling, the preparation of vermicelli and preserved
-vegetables, and the manufacture of mustard, hosiery, plaster and
+vegetables, and the manufacture of mustard, [[Hosiery|hosiery]], plaster and
 machinery. There are nursery-gardens in the vicinity. The Canal de
 l'Ourcq, which surrounds the town, and the Marne furnish the means of
 transport. Meaux is the seat of a bishopric dating from the 4th century,
@@ -46,19 +46,19 @@ Champagne, the latter of whom established important markets on the left
 bank of the Marne. Its communal charter, received from them, is dated
 1179. A treaty signed at Meaux in 1229 after the Albigensian War sealed
 the submission of Raymond VII., count of Toulouse. The town suffered
-much during the Jacquerie, the peasants receiving a severe check there
+much during the [[Jacquerie]], the peasants receiving a severe check there
 in 1358; during the Hundred Years' War; and also during the Religious
 Wars, in which it was an important Protestant centre. It was the first
 town which opened its gates to Henry IV. in 1594. On the high-road for
 invaders marching on Paris from the east of France, Meaux saw its
-environs ravaged by the army of Lorraine in 1652, and was laid under
+environs ravaged by the army of [[Lorraine]] in 1652, and was laid under
 heavy requisitions in 1814, 1815 and 1870. In September 1567 Meaux was
 the scene of an attempt made by the Protestants to seize the French king
-Charles IX., and his mother Catherine de' Medici. The plot, which is
+Charles IX., and his mother [[Catherine De' Medici|Catherine de' Medici]]. The plot, which is
 sometimes called the "enterprise of Meaux," failed, the king and queen
 with their courtiers escaping to Paris. This conduct, however, on the
-part of the Huguenots had doubtless some share in influencing Charles to
-assent to the massacre of St Bartholomew.
+part of the [[Huguenots]] had doubtless some share in influencing Charles to
+assent to the [[Massacre|massacre]] of St Bartholomew.
 
 ## See also
 

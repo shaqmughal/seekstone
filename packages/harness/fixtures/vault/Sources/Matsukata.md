@@ -8,16 +8,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Matsukata"
 # Matsukata
 
 MATSUKATA, MARQUIS (1835-   ), Japanese statesman, was born at Kagoshima
-in 1835, being a son of a _samurai_ of the Satsuma clan. On the
+in 1835, being a son of a _samurai_ of the Satsuma [[Clan|clan]]. On the
 completion of the feudal revolution of 1868 he was appointed governor of
 the province of Tosa, and having served six years in this office, was
 transferred to Tokyo as assistant minister of finance. As representative
-of Japan at the Paris Exhibition of 1878, he took the opportunity
+of [[Japan]] at the Paris Exhibition of 1878, he took the opportunity
 afforded by his mission to study the financial systems of the great
 European powers. On his return home, he held for a short time in 1880
 the portfolio of home affairs, and was in 1881 appointed minister of
 finance. The condition of the currency of Japan was at that time
-deplorable, and national bankruptcy threatened. The coinage had not only
+deplorable, and national [[Bankruptcy|bankruptcy]] threatened. The coinage had not only
 been seriously debased during the closing years of the Tokugawa régime,
 but large quantities of paper currency had been issued and circulated,
 both by many of the feudal lords, and by the central government itself,
@@ -41,10 +41,10 @@ the national expenditure enormously increased, rising within a few years
 from 80 to 250 million yen. The task of providing for this expenditure
 fell entirely on Matsukata, who had to face strong opposition on the
 part of the diet. But he distributed the increased taxation so equally,
-and chose its subjects so wisely, that the ordinary administrative
-expenditure and the interest on the national debt were fully provided
+and [[Chose|chose]] its subjects so wisely, that the ordinary administrative
+expenditure and the interest on the national [[Debt|debt]] were fully provided
 for, while the extraordinary expenditure for military purposes was met
-from the Chinese indemnity. As far back as 1878 Matsukata perceived the
+from the Chinese [[Indemnity|indemnity]]. As far back as 1878 Matsukata perceived the
 advantages of a gold standard, but it was not until 1897 that his scheme
 could be realized. In this year the bill authorizing it was under his
 auspices submitted to the diet and passed; and with this financial

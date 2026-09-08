@@ -41,7 +41,7 @@ pod, having very pungent properties. _C. tetragonum_, or bonnet pepper,
 is a species much esteemed in Jamaica; it bears very fleshy fruits.
 Other well-known kinds of capsicum are the cherry pepper (_C.
 cerasiforme_), with small berries; bell pepper (_C. grossum_), which has
-thick and pulpy fruit, well adapted for pickling; and berry or bird
+thick and pulpy fruit, well adapted for pickling; and [[Berry|berry]] or bird
 pepper (_C. baccatum_). The last mentioned has been grown in England
 since 1731; its fruit is globular, and about the size of a cherry. The
 West Indian stomachic _man-dram_ is prepared by mashing a few pods of
@@ -51,7 +51,7 @@ dried ripe or unripe fruit of capsicums, especially _C. annuum_ and _C.
 frutescens_, are used to make chilly-vinegar, as well as for pickles.
 Cayenne pepper is manufactured from the ripe fruits, which are dried,
 ground, mixed with wheat flour, and made into cakes with yeast; the
-cakes are baked till hard like biscuit, and then ground and sifted. The
+cakes are baked till hard like [[Biscuit|biscuit]], and then ground and sifted. The
 pepper is sometimes prepared by simply drying the pods and pounding them
 fine in a mortar. Cayenne pepper is occasionally adulterated with red
 lead, vermilion, ochre, salt, ground-rice and turmeric. The taste of the
@@ -71,7 +71,7 @@ an ointment. Externally the drug has the usual action of a volatile oil,
 being a very powerful counter-irritant. It does not, however, cause
 pustulation. Its internal action is also that of its class, but its
 marked contact properties make it specially useful in gastriatony and
-flatulence, and sometimes in hysteria.
+flatulence, and sometimes in [[Hysteria|hysteria]].
 
 ## See also
 

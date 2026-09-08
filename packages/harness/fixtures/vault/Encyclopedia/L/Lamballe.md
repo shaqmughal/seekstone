@@ -1,15 +1,15 @@
 # Lamballe
 
 LAMBALLE, MARIE THÉRÈSE LOUISE OF SAVOY-CARIGNANO, PRINCESSE DE
-(1749-1792), fourth daughter of Louis Victor of Carignano (d. 1774)
+(1749-1792), fourth daughter of Louis Victor of [[Carignano]] (d. 1774)
 (great-grandfather of King Charles Albert of Sardinia), and of Christine
 Henriette of Hesse-Rheinfels-Rothenburg, was born at Turin on the 8th of
 September 1749. In 1767 she was married to Louis Alexandre Stanislaus de
-Bourbon, prince of Lamballe, son of the duke of Penthièvre, a grandson
+[[Bourbon]], prince of Lamballe, son of the duke of Penthièvre, a grandson
 of Louis XIV.'s natural son the count of Toulouse. Her husband dying the
 following year, she retired with her father-in-law to Rambouillet, where
-she lived until the marriage of the dauphin, when she returned to court.
-Marie Antoinette, charmed by her gentle and naïve manners, singled her
+she lived until the marriage of the [[Dauphin|dauphin]], when she returned to court.
+Marie Antoinette, charmed by her gentle and naïve [[Manners|manners]], singled her
 out for a companion and confidante. The impetuous character of the
 dauphiness found in Madame de Lamballe that submissive temperament which
 yields to force of environment, and the two became fast friends. After
@@ -31,9 +31,9 @@ was on the 3rd of September delivered over to the fury of the populace,
 after which her head was placed on a pike and carried before the windows
 of the queen.
 
-  See George Bertin, _Madame de Lamballe_ (Paris, 1888); Austin Dobson,
+  See George Bertin, _Madame de Lamballe_ (Paris, 1888); Austin [[Dobson]],
   _Four Frenchwomen_ (1890); B. C. Hardy, _Princesse de Lamballe_
-  (1908); Comte de Lescure, _La Princesse de Lamballe ... d'après des
+  (1908); Comte de [[Lescure]], _La Princesse de Lamballe ... d'après des
   documents inédits_ (1864); some letters of the princess published by
   Ch. Schmidt in _La Révolution française_ (vol. xxxix., 1900); L.
   Lambeau, _Essais sur la mort de madame la princesse de Lamballe_

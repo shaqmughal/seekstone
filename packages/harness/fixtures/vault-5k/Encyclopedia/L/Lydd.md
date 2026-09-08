@@ -28,7 +28,7 @@ Christ Church, Canterbury, and the archbishop of Canterbury evidently
 held the lordship of the town from an early date. At some time before
 the reign of Edward I. Lydd was made a member of the Cinque Port of
 Romney, and in 1290 was granted the same liberties and free customs as
-the Cinque Ports on condition of aiding the service of its head-port to
+the [[Cinque Ports]] on condition of aiding the service of its head-port to
 the crown with one ship. This charter was confirmed by Edward III. in
 1365. The corporation also possesses documents of 1154, 1399 and 1413,
 granting to the archbishop's men of Lydd the privileges enjoyed by the

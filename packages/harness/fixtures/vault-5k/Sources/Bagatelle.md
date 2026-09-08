@@ -1,10 +1,10 @@
 # Bagatelle
 
 BAGATELLE (French, from Ital. _bagatella_, _bagata_, a trifle), primarily a
-thing of trifling importance. The name, though French, is given to a game
+thing of trifling importance. The name, though French, is given to a [[Game|game]]
 which is probably of English origin, though its connexion with the
 _shovel-board_ of Cotton's _Complete Gamester_ is very doubtful. Strutt
-does not mention it. The game is very likely a modification of billiards,
+does not mention it. The game is very likely a modification of [[Billiards|billiards]],
 and is played on an oblong board or table varying in size from 6 ft. by 1½
 ft. to 10 ft. by 3 ft. The bed of the table is generally made of slate,
 although, in the smaller sizes, wood covered with green cloth is often

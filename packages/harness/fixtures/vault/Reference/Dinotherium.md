@@ -2,10 +2,10 @@
 
 DINOTHERIUM, an extinct mammal, fossil remains of which occur in the
 Miocene beds of France, Germany, Greece and Northern India. These
-consist chiefly of teeth and the bones of the head. An entire skull,
+consist chiefly of teeth and the [[Bone|bones]] of the head. An entire skull,
 obtained from the Lower Pliocene beds of Eppelsheim, Hesse-Darmstadt, in
 1836, measured 4½ ft. in length and 3 ft. in breadth, and indicates an
-animal exceeding the elephant in size. The upper jaw is apparently
+animal exceeding the [[Elephant|elephant]] in size. The upper jaw is apparently
 destitute of incisor and canine teeth, but possesses five molars on each
 side, with a corresponding number in the jaw beneath. The most
 remarkable feature, however, consists in the front part of the lower jaw

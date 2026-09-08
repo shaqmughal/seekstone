@@ -8,9 +8,9 @@ id: 42-1638
 # Flag
 
 FLAG (or "FLAGGE," a common Teutonic word in this sense, but apparently
-first recorded in English), a piece of bunting or similar material,
-admitting of various shapes and colours, and waved in the wind from a
-staff or cord for use in display as a standard, ensign or signal. The
+first recorded in English), a piece of [[Bunting|bunting]] or similar material,
+admitting of various shapes and [[Colours|colours]], and waved in the wind from a
+staff or cord for use in display as a standard, [[Ensign|ensign]] or signal. The
 word may simply be derived onomatopoeically, or transferred from the
 botanical "flag"; or an original meaning of "a piece of cloth" may be
 connected with the 12th-century English "flage," meaning a baby's
@@ -25,7 +25,7 @@ necessary to mark out the lines and stations of encampment, and to keep
 in order the different bands when marching or in battle. In addition, it
 cannot be doubted that flags or their equivalents have often served, by
 reminding men of past resolves, past deeds and past heroes, to arouse to
-enthusiasm those sentiments of _esprit de corps_, of family pride and
+[[Enthusiasm|enthusiasm]] those sentiments of _esprit de [[Corps|corps]]_, of family pride and
 honour, of personal devotion, patriotism or religion, upon which, as
 well as upon good leadership, discipline and numerical force, success in
 warfare depends.
@@ -36,15 +36,15 @@ ensigns are frequently to be found. From their carvings and paintings,
 supplemented by ancient writers, it appears that several companies of
 the Egyptian army had their own particular standards. These were formed
 of such objects as, there is reason to believe, were associated in the
-minds of the men with feelings of awe and devotion. Sacred animals,
-boats, emblems or figures, a tablet bearing a king's name, fan and
+minds of the men with feelings of [[Awe|awe]] and devotion. Sacred animals,
+boats, [[Emblem|emblems]] or figures, a tablet bearing a king's name, [[Fan|fan]] and
 feather-shaped symbols, were raised on the end of a staff as standards,
 and the office of bearing them was looked upon as one of peculiar
 privilege and honour (Fig. 1). Somewhat similar seem to have been the
 customs of the Assyrians and Jews. Among the sculptures unearthed by
 Layard and others at Nineveh, only two different designs have been
-noticed for standards: one is of a figure drawing a bow and standing on
-a running bull, the other of two bulls running in opposite directions
+noticed for standards: one is of a figure drawing a [[Bow|bow]] and standing on
+a running [[Bull|bull]], the other of two bulls running in opposite directions
 (Fig. 2). These may resemble the emblems of war and peace which were
 attached to the yoke of Darius's chariot. They are borne upon and
 attached to chariots; and this method of bearing such objects was the
@@ -64,24 +64,24 @@ In both Egyptian and Assyrian examples, the staff bearing the emblem is
 frequently ornamented immediately below with flag-like streamers.
 Rabbinical writers have assigned the different devices of the different
 Jewish tribes, but the authenticity of their testimony is extremely
-doubtful. Banners, standards and ensigns are frequently mentioned in the
+doubtful. [[Banners]], standards and ensigns are frequently mentioned in the
 Bible. "Every man of the children of Israel shall pitch by his standard,
 with the ensign of their father's house" (Num. ii. 2). "Who is she that
 looketh forth as the morning, fair as the moon, clear as the sun,
-terrible as an army with banners?" (Cant. vi. 10. See also Num. ii. 10,
+terrible as an army with banners?" ([[Cant]]. vi. 10. See also Num. ii. 10,
 x. 14; Ps. xx. 5, lx. 4; Cant. ii. 4; Is. v. 26, x. 18, lix. 19; Jer.
 iv. 21).
 
 [Illustration: FIG. 1.--Egyptian Standards.]
 
-The Persians bore an eagle fixed to the end of a lance, and the sun, as
+The Persians bore an [[Eagle|eagle]] fixed to the end of a [[Lance|lance]], and the sun, as
 their divinity, was also represented upon their standards, which appear
 to have been formed of some kind of textile, and were guarded with the
-greatest jealousy by the bravest men of the army. The Carian soldier who
-slew Cyrus, the brother of Artaxerxes, was allowed the honour of
-carrying a golden cock at the head of the army, it being the custom of
-the Carians to wear that bird as a crest on their helmets. The North
-American Indians carried poles fledged with feathers from the wings of
+greatest [[Jealousy|jealousy]] by the bravest men of the army. The Carian soldier who
+slew [[Cyrus]], the brother of Artaxerxes, was allowed the honour of
+carrying a golden [[Cock|cock]] at the head of the army, it being the custom of
+the Carians to wear that bird as a crest on their [[Helmet|helmets]]. The North
+American Indians carried poles fledged with [[Feather|feathers]] from the wings of
 eagles, and similar customs seem to have prevailed among other
 semi-savage peoples.
 
@@ -91,7 +91,7 @@ The Greeks bore a piece of armour upon a spear in early times;
 afterwards the several cities bore sacred emblems or letters chosen for
 their particular associations--the Athenians the olive and the owl, the
 Corinthians a pegasus, the Thebans a sphinx, in memory of Oedipus, the
-Messenians their initial M, and the Lacedaemonians A. A purple dress was
+Messenians their initial M, and the Lacedaemonians A. A purple [[Dress|dress]] was
 placed on the end of a spear as the signal to advance. The Dacians
 carried a standard representing a contorted serpent, while the dragon
 was the military sign of many peoples--of the Chinese, Dacians and
@@ -103,17 +103,17 @@ ensign of barbarian auxiliaries (see fig. 3).
 The question of the _signa militaria_ of the Romans is a wide and very
 important one, having direct bearing on the history of heraldry, and on
 the origin of national, family and personal devices. With them the
-custom was reduced to system. "Each century, or at least each maniple,"
+custom was reduced to system. "Each century, or at least each [[Maniple|maniple]],"
 says Meyrick, "had its proper standard and standard-bearer." In the
-early days of the republic a handful of hay was borne on a pole, whence
+early days of the republic a handful of [[Hay|hay]] was borne on a pole, whence
 probably came the name _manipulus_ (Lat. _manus_, a hand). The forms of
 standards in later times were very various; sometimes a cross piece of
 wood was placed at the end of a spear and surmounted by the figure of a
-hand in silver, below round or oval discs, with figures of Mars or
+hand in silver, below round or oval discs, with figures of [[Mars]] or
 Minerva, or in later times portraits of emperors or eminent generals
 (Fig. 3). Figures of animals, as the wolf, horse, bear and others, were
 borne, and it was not till a later period that the eagle became the
-special standard of the legion. According to Pliny, it was Gaius Marius
+special standard of the [[Legion|legion]]. According to Pliny, it was Gaius [[Marius]]
 who, in his second consulship, ordained that the Roman legions should
 only have the eagle for their standard; "for before that time the eagle
 marched foremost with four others--wolves, minotaurs, horses and
@@ -123,16 +123,16 @@ behind in the camp. But Marius rejected them altogether, and since this
 it is observed that scarcely is there a camp of a legion wintered at any
 time without having a pair of eagles."
 
-The _vexillum_, which was the cavalry flag, is described by Livy as a
+The _vexillum_, which was the [[Cavalry|cavalry]] flag, is described by Livy as a
 square piece of cloth fastened to a piece of wood fixed crosswise to the
 end of a spear, somewhat resembling the medieval _gonfalon_. Examples of
-these vexilla are to be seen on various Roman coins and medals, on the
-sculptured columns of Trajan and Antoninus, and on the arch of Titus.
+these vexilla are to be seen on various Roman [[Coin|coins]] and medals, on the
+sculptured columns of Trajan and Antoninus, and on the [[Arch|arch]] of Titus.
 The _labarum_, which was the imperial standard of later emperors,
 resembled in shape and fixing the vexillum. It was of purple silk richly
 embroidered with gold, and sometimes was not suspended as the vexillum
 from a horizontal crossbar, but displayed as our modern flags, that is
-to say, by the attachment of one of its sides to a staff. After
+to say, by the [[Attachment|attachment]] of one of its sides to a staff. After
 Constantine, the labarum bore the monogram of Christ (fig. 5, A). It is
 supposed that the small scarf, which in medieval days was often
 attached to the pastoral staff or crook of a bishop, was derived from
@@ -153,14 +153,14 @@ heraldry had attained to definite nomenclature and laws does anything
 appear which is in the modern sense a flag.
 
 Early flags were almost purely of a religious character. In Bede's
-description of the interview between the heathen king Æthelberht and the
+description of the interview between the [[Heathen|heathen]] king Æthelberht and the
 Roman missionary Augustine, the followers of the latter are said to have
 borne banners on which silver crosses were displayed. The national
 banner of England for centuries--the red cross of St George--was a
 religious one; in fact the aid of religion seems ever to have been
 sought to give sanctity to national flags, and the origin of many can be
 traced to a sacred banner, as is notably the case with the oriflamme of
-France and the Dannebrog of Denmark. Of the latter the legend runs that
+France and the Dannebrog of [[Denmark]]. Of the latter the legend runs that
 King Waldemar of Denmark, leading his troops to battle against the enemy
 in 1219, saw at a critical moment a cross in the sky. This was at once
 taken as an answer to his prayers, and an assurance of celestial aid. It
@@ -169,12 +169,12 @@ i.e. the strength of Denmark. Apart from all legend, this flag
 undoubtedly dates from the 13th century, and the Danish flag is
 therefore the oldest now in existence.
 
-The ancient kings of France bore the blue hood of St Martin upon their
+The ancient kings of France bore the blue hood of St [[Martin]] upon their
 standards. The Chape de St Martin was originally in the keeping of the
 monks of the abbey of Marmoutier, and the right to take this blue flag
-into battle with them was claimed by the counts of Anjou. Clovis bore
+into battle with them was claimed by the counts of [[Anjou]]. Clovis bore
 this banner against Alaric in 507, for victory was promised him by a
-verse of the Psalms which the choir were chanting when his envoy entered
+verse of the Psalms which the [[Choir|choir]] were chanting when his envoy entered
 the church of St Martin at Tours. Charlemagne fought under it at the
 battle of Narbonne, and it frequently led the French to victory. At what
 precise period the oriflamme, which was originally simply the banner of
@@ -185,11 +185,11 @@ seat of government to Paris, where the great local saint, St Denis, was
 held in high honour, and the banner hung over the tomb of the saint in
 the abbey church. The king of France himself was one of the vassals of
 the abbey of St Denis for the fief of the Vexin, and it was in his
-quality of count of Vexin that Louis VI., le Gros, bore this banner from
+quality of count of Vexin that Louis VI., le [[Gros]], bore this banner from
 the abbey to battle, in 1124. He is credited with having been the first
 French king to have taken the banner to war, and it appeared for the
 last time on the field of fight at Agincourt in 1415. The accounts also
-of its appearance vary considerably. Guillaume Guiart, in his
+of its appearance vary considerably. [[Guillaume]] [[Guiart]], in his
 _Chronicle_ says:--
 
   "Oriflambe est une bannière
@@ -209,9 +209,9 @@ severally were.
 
 [Illustration: FIG. 4--Pennons and Standards from the Bayeux Tapestry.]
 
-The Bayeux tapestry, commemorating the Norman conquest of England,
+The [[Bayeux Tapestry|Bayeux tapestry]], commemorating the Norman conquest of England,
 contains abundant representations of the flags of the period borne upon
-the lances of the knights of William's army. They appear small in size,
+the lances of the [[Knight|knights]] of William's army. They appear small in size,
 and pointed, frequently indented into three points and bearing pales,
 crosses and roundels. One, a Saxon pennon, is triangular, and roundly
 indented into four points; one banner is of segmental shape and rayed,
@@ -240,7 +240,7 @@ standards of barbarians.
 
 At the battle of the Standard in 1138 the English standard was formed of
 the mast of a ship, having a silver pyx at the top and bearing three
-sacred banners, dedicated severally to St Peter, St John of Beverley and
+sacred banners, dedicated severally to St Peter, St John of [[Beverley]] and
 St Wilfrid of Ripon, the whole being fastened to a wheeled vehicle.
 Representations of three-pointed, cross-bearing pennons are found on
 seals of as early date as the Norman era, and the warriors in the first
@@ -248,12 +248,12 @@ crusade bore three-pointed pennons. It is possible that the three points
 with the three roundels and cross, which so often appear on these
 banners, have some reference to the faith of the bearers in the Trinity
 and in the Crucifixion, for in contemporary representations of Christ's
-resurrection and descent into hell he bears a three-pointed banner with
+resurrection and descent into [[Hell|hell]] he bears a three-pointed banner with
 cross above. The triple indentation so common on the flags of this
-period has been supposed to be the origin of one of the honourable
+period has been supposed to be the origin of one of the [[Honourable|honourable]]
 ordinaries--the pile. The "pile," it may be explained, is in the form
-of a wedge, and unless otherwise specified in the blazon, occupies the
-central portion of the escutcheon, issuing from the middle chief. It
+of a wedge, and unless otherwise specified in the [[Blazon|blazon]], occupies the
+central portion of the [[Escutcheon|escutcheon]], issuing from the middle chief. It
 may, however, issue from any other extremity of the shield, and there
 may be more than one. More secular characters were, however, not
 uncommon. In 1244 Henry III. gave order for a "dragon to be made in
@@ -269,7 +269,7 @@ siege of that fortress. Of the king himself the writer says:--
 
 and he goes on to describe the kingly characteristics these may be
 supposed to symbolize. A MS. in the British Museum (one of Sir
-Christopher Barker's heraldic collection, Harl. 4632) gives drawings of
+[[Christopher]] Barker's heraldic collection, Harl. 4632) gives drawings of
 the standards of English kings from Edward III. to Henry VIII., which
 are roughly but artistically coloured.
 
@@ -293,19 +293,19 @@ pennon bearing his arms."
 Medieval Pennon; C. Medieval Banner; D., Standard of Henry V.]
 
 A pennoncell (or penselle) was a diminutive pennon carried by the
-esquires. Flags of this character were largely used on any special
+[[Esquire|esquires]]. Flags of this character were largely used on any special
 occasion of ceremony, and more particularly at state funerals. For
-instance, we find "XII. doz. penselles" amongst the items that figured
+instance, we find "XII. doz. penselles" amongst the [[Item|items]] that figured
 at the funeral of the duke of Norfolk in 1554, and in the description of
 the lord mayor's procession in the following year we read of "ij goodly
-pennes (state barges) deckt with flages and stremers, and a m (1000)
+pennes (state [[Barge|barges]]) deckt with flages and stremers, and a m (1000)
 penselles." Amongst the items that ran the total cost of the funeral of
-Oliver Cromwell up to an enormous sum of money, we find mention of
+Oliver [[Cromwell]] up to an enormous sum of money, we find mention of
 thirty dozen of pennoncells a foot long and costing twenty shillings a
 dozen, and twenty dozen of the same kind of flags at twelve shillings a
 dozen.
 
-The banner was, in the earlier days of chivalry, a square flag, though
+The banner was, in the earlier days of [[Chivalry|chivalry]], a square flag, though
 at a later date it is often found greater in length than in depth,
 precisely as is the case in the ordinary national flags of to-day. In
 some very early examples it is found considerably longer in the depth on
@@ -324,18 +324,18 @@ been departed from.
 The rank of knights bannerets was higher than that of ordinary knights,
 and they could be created on the field of battle only. To create a
 knight banneret, the king or commander-in-chief in person tore off the
-fly of the pennon on the lance of the knight, thus turning it roughly
+[[Fly|fly]] of the pennon on the lance of the knight, thus turning it roughly
 into the square flag or banner, and so making the knight a banneret. The
 date in which this dignity originated is uncertain, but it was probably
-about the period of Edward I. John Chandos is said to have been made a
+about the period of Edward I. John [[Chandos]] is said to have been made a
 banneret by the Black Prince and the king of Castile at Najara on the
-3rd of April 1367; John of Copeland was made a banneret in the reign of
+3rd of April 1367; John of [[Copeland]] was made a banneret in the reign of
 Edward III., he having taken prisoner David Bruce, the Scottish king, at
 the battle of Durham. In more modern times Captain John Smith, of Lord
-Bernard Stuart's troop of the King's Guards, who saved the royal banner
+[[Bernard]] Stuart's troop of the King's [[Guards]], who saved the royal banner
 from the parliamentary troops at Edgehill, was made a knight banneret by
 Charles I. From this time the custom of creating knights banneret ceased
-until it was revived by George II. after Dettingen in 1743, when the
+until it was revived by George II. after [[Dettingen]] in 1743, when the
 dignity was again conferred. It is true, however, that, when in 1763 Sir
 William Erskine presented to George III. sixteen stands of colours
 captured by his regiment [now the 15th (king's) Hussars] at Emsdorf, he
@@ -348,7 +348,7 @@ that he who bore it was the leader of a military force, large or small
 according to his degree or estate. It was, in fact, the battle flag of
 the leader who controlled the particular force that followed it into the
 fight. Every baron who in time of war had furnished the proper number of
-men to his liege was entitled to charge with his arms the banner which
+men to his [[Liege|liege]] was entitled to charge with his arms the banner which
 they followed. There could indeed be at present found no better
 representative of the medieval "banner" than what we now term the "royal
 standard"; it is essentially the personal battle flag of the king of the
@@ -360,7 +360,7 @@ flag differing from the ordinary banner in that it was not attached to
 the pole but hung from it crosswise, and was not always square in shape
 but serrated, so that the lower edge formed streamers. The gonfalon was
 in action borne close to the person of the commander-in-chief and
-denoted his position. In certain of the Italian cities chief magistrates
+denoted his position. In certain of the Italian cities chief [[Magistrate|magistrates]]
 had the privilege of bearing a gonfalon, and for this reason were known
 as "gonfaloniere."
 
@@ -374,7 +374,7 @@ varied in size according to the rank of the owner. The Tudor MS.
 mentioned above says of the royal standard of that time--"the Standard
 to be sett before the king's pavilion or tente, and not to be borne in
 battayle; to be in length eleven yards." A MS. of the time of Henry VII.
-gives the following dimensions for standards: "The King's had a length
+gives the following [[Dimension|dimensions]] for standards: "The King's had a length
 of eight yards; that of a duke, seven; a marquis, six and a half; an
 earl, six; a viscount, five and a half; a baron, five; a knight
 banneret, four and a half; and a knight four yards." The standard was,
@@ -386,7 +386,7 @@ following when the hosts were assembled in camp preparatory for battle.
 It was essentially a flag denoting position, whereas the banner was the
 rallying point of its followers in the actual field. Its uses are now
 fulfilled, as far as royalties are concerned, by the "banner" which has
-now become the "royal standard," and which floats over the palace where
+now become the "royal standard," and which [[Float|floats]] over the palace where
 the king is in residence, is hoisted at the saluting point when he
 reviews his troops, and is broken from the mainmast of any ship in his
 navy the moment that his foot treads its deck. The essential condition
@@ -396,18 +396,18 @@ the staff; the remainder of the flag was then divided fesse-wise by two
 or more stripes of colours exactly as the heraldic "ordinary" termed
 "fesse" crosses the shield horizontally. The colours used as stripes, as
 also those used in the fringe or bordering of the standard, were those
-which prevailed in the arms of the bearer or were those of his livery.
+which prevailed in the arms of the bearer or were those of his [[Livery|livery]].
 The standard here depicted (fig. 5, D) is that of Henry V.; the colours
-white and blue, a white antelope standing between two red roses, and in
+white and blue, a white [[Antelope|antelope]] standing between two red roses, and in
 the interspaces more red roses. To quote again from the Harleian MS.
 above mentioned: "Every standard and guidon to have in the chief the
 cross of St George, the beast or crest with his devyce and word, and to
 be slitt at the end." The motto indeed usually figured on most
 standards, though occasionally it was missing. An excellent type of the
 old standard is that of the earls of Percy, which bore the blue lion,
-the crescent, and the fetterlock--all badges of the family--whilst, as
+the [[Crescent|crescent]], and the fetterlock--all badges of the family--whilst, as
 tokens of matrimonial alliances with the families of Poynings, Bryan and
-Fitzpayne, a silver key, a bugle-horn and a falchion were respectively
+Fitzpayne, a silver [[Key|key]], a bugle-horn and a falchion were respectively
 displayed. There was also the historic Percy motto, _Espérance en Dieu_.
 No one, whatsoever his rank, could possess more than one banner, since
 it displayed his heraldic arms, which were unchangeable. A single
@@ -418,7 +418,7 @@ VII., mostly green and white--the colours of the Tudor livery--had in
 one "a red firye dragon," in another "a donne kowe," in a third "a
 silver greyhound and two red roses." The standard was always borne by an
 eminent person, and that of Henry V. at Agincourt is supposed to have
-been carried upon a car that preceded the king. At Nelson's funeral his
+been carried upon a [[Car|car]] that preceded the king. At Nelson's funeral his
 banner and standard were borne in the procession, and around his coffin
 were the banderolls--square, bannerlike flags bearing the various arms
 of his family lineage. Nelson's standard bore his motto, _Palmam qui
@@ -441,7 +441,7 @@ pennant or pendant, was a long, tapering flag, which it was directed
 "shall stand in the top of a ship or in the forecastle, and therein be
 put no armes, but the man's cognisance or devyce, and may be of length
 twenty, thirty, forty or sixty yards, and is slitt as well as a guidon
-or standard." Amongst the fittings of the ship that took Beauchamp, earl
+or standard." Amongst the fittings of the ship that took [[Beauchamp]], earl
 of Warwick, to France in the reign of Henry VII. was a "grete stremour
 for the shippe xl yardes in length viij yardes in brede." In the hoist
 was "a grete bere holding a raggid staffe," and the rest of the fly
@@ -452,9 +452,9 @@ was hoisted on the Tower on the 1st of January 1801, thus heraldically
 described:--"Quarterly; first and fourth, gules, three lions passant
 gardant, in pale, or, for England; second, or, a lion rampant, gules,
 within a double tressure flory counter flory of the last, for Scotland;
-third, azure, a harp or, stringed argent, for Ireland." The present
+third, [[Azure|azure]], a harp or, stringed argent, for Ireland." The present
 standard connects in direct descent from the arms of the Conqueror.
-These were two leopards passant on a red field, and remained the same
+These were two [[Leopard|leopards]] passant on a red field, and remained the same
 until the reign of Henry II., when lions were substituted for leopards,
 and a third added. The next change that took place was in the reign of
 Edward III. when the royal arms were for the first time quartered;
@@ -469,15 +469,15 @@ Irish harp were added to the flag on the accession of James I., and the
 flag then had the French and English arms quartered in the first and
 fourth quarters, the lion of Scotland, red on a yellow ground, in the
 second quarter, and the harp of Ireland, gold on a blue ground, in the
-third quarter. With the exception of the period of the Commonwealth, to
+third quarter. With the exception of the period of the [[Commonwealth]], to
 which reference will be made later, the flag remained thus until the
 accession of William III., who imposed upon the Stuart standard a
-central shield carrying the arms of Nassau. Queen Anne made further
+central shield carrying the arms of Nassau. Queen [[Anne]] made further
 alterations; the first and fourth quarters were subdivided, the three
 lions of England being in one half, the lion of Scotland in the other.
 The _fleurs-de-lis_ were in the second quarter; the Irish harp in the
 third. Under George I. and George II. the first, second and third
-quarters remained the same, the arms of Hanover being placed in the
+quarters remained the same, the arms of [[Hanover]] being placed in the
 fourth quarter, and this continued to be the royal standard until 1801,
 when the standard was rearranged as first described with the addition of
 the Hanoverian arms displayed on a shield in the centre. On the
@@ -492,14 +492,14 @@ order of the Garter.
 
 Up to the time of the Stuarts it had been the custom of the lord high
 admiral or person in command of the fleet to fly the royal standard as
-deputy of the sovereign. When royalty ceased to be, a new flag was
+[[Deputy|deputy]] of the sovereign. When royalty ceased to be, a new flag was
 devised by the council of state for the Commonwealth, which comprised
 the "arms of England and Ireland in two several escutcheons in a red
 flag within a compartment." In other words, it was a red flag containing
 two shields, the one bearing the cross of St George, red on a white
 ground, the other the harp, gold on a blue ground, and round the shields
 was a wreath of palm and shamrock leaves. One of these flags is still in
-existence at Chatham dockyard, where it is kept in a wooden chest which
+existence at [[Chatham]] dockyard, where it is kept in a wooden chest which
 was taken out of a Spanish galleon at Vigo by Admiral Sir George Rooke
 in 1704. When Cromwell became protector of the commonwealth of England,
 Scotland and Ireland, he devised for himself a personal standard. This
@@ -511,12 +511,12 @@ the royal standard, and though it is constantly seen flying for purposes
 of decoration its use is irregular. There has, however, always been one
 exception, namely, that the lord high admiral when in executive command
 of a fleet has always been entitled to fly the royal standard. For
-example, Lord Howard flew it from the mainmast of the "Ark Royal" when
+example, Lord [[Howard]] flew it from the mainmast of the "Ark Royal" when
 he defeated the Spanish Armada; the duke of Buckingham flew it as lord
 high admiral in the reign of Charles I., and the duke of York fought
 under it when he commanded during the Dutch Wars.
 
-The national flag of the British empire is the Union Jack, in which are
+The national flag of the British empire is the Union [[Jack]], in which are
 combined in union the crosses of St George, St Andrew and St Patrick. St
 George had long been a patron saint of England, and his banner, argent,
 a cross gules, its national ensign. St Andrew in the same way was the
@@ -579,7 +579,7 @@ flags used for signalling, are described elsewhere, and it will here be
 only necessary to deal with the navy and admiralty flags.
 
 The origin of the three ensigns--the red, white, and blue--had its
-genesis in the navy. In the days of huge fleets, such as prevailed in
+[[Genesis|genesis]] in the navy. In the days of huge fleets, such as prevailed in
 the Tudor and Stuart navies, there were, besides the admiral in supreme
 command, a vice-admiral as second in command, and a rear-admiral as
 third in command, each controlling his own particular group or squadron.
@@ -609,7 +609,7 @@ flag, of course, became as we know it to-day. All these three ensigns
 belonged to the royal navy, and continued to do so until 1864, but as
 far back as 1707 ships of the mercantile marine were instructed to fly
 the red ensign. As ironclads replaced the wooden vessels and fleets
-became smaller the inconvenience of three naval ensigns was manifest,
+became smaller the inconvenience of three naval ensigns was [[Manifest|manifest]],
 and in 1864 the grades of flag officer were reduced again to admiral,
 vice-admiral, and rear-admiral, and the navy abandoned the use of the
 red and blue ensigns, retaining only the white ensign as its distinctive
@@ -638,7 +638,7 @@ The penalty incurred is £500 fine for each offence, as laid down in the
 73rd section of the Merchant Shipping Act 1894. In 1883 Lord Annesley's
 yacht, belonging to the Royal Yacht Squadron, was detained at the
 Dardanelles in consequence of her flying the white ensign of the royal
-navy which brought her under the category of a man-of-war, and no
+navy which brought her under the [[Category|category]] of a man-of-war, and no
 foreign man-of-war is allowed to pass the Dardanelles without first
 obtaining an imperial _irade_. Since then owners belonging to the
 squadron have been warned that they must either sail their ships through
@@ -667,9 +667,9 @@ British government offices the seal or badge of the office is displayed
 in the fly. For example, hired transports fly it with the yellow anchor
 in the fly; the marine department of the Board of Trade has in the fly
 the device of a ship under sail; the telegraph branch of the post-office
-shows in the fly a device representing Father Time with his hour-glass
+shows in the fly a device representing Father Time with his [[Hour-Glass|hour-glass]]
 shattered by lightning; the ordnance department displays upon the fly a
-shield with a cannon and cannon balls upon it. Certain yacht clubs are
+shield with a [[Cannon|cannon]] and cannon [[Ball|balls]] upon it. Certain yacht clubs are
 also authorized by special admiralty warrant to fly the blue ensign.
 Some of these display it plain; others show in the fly the distinctive
 badge of the club. Consuls-general, consuls and consular agents also
@@ -690,7 +690,7 @@ have a warrant of authorization from the admiralty, they can use the
 ensign with the badge of the colony in the fly.
 
 In regard to ensigns it is important to remember that they are purely
-maritime flags, and though the rule is more honoured in the breach than
+maritime flags, and though the rule is more honoured in the [[Breach|breach]] than
 in the observance, the only flag that a private individual or a
 corporation has a right to display on shore is the national flag, the
 Union Jack, in its plain condition and without any emblazonment.
@@ -706,13 +706,13 @@ the royal standard flying in another ship. When a board of commissioners
 was appointed to execute the office of lord high admiral this was the
 flag adopted, and in 1691 we find the admiralty, minuting the navy
 board, then a subordinate department, "requiring and directing it to
-cause a fitting red silk flag, with the anchor and cable therein, to be
+cause a fitting red silk flag, with the anchor and [[Cable|cable]] therein, to be
 provided against Tuesday morning next, for the barge belonging to this
 board." In 1725, presumably as being more pretty and artistic, the cable
 in the device was twisted round the stock of the anchor. It was thus
 made into a "foul anchor," the thing of all others that a sailor most
 hates, and this despite the fact that the first lord at the time, the
-earl of Berkeley, was himself a sailor. The anchor retained its
+earl of [[Berkeley]], was himself a sailor. The anchor retained its
 unseamanlike appearance, and was not "cleared" till 1815, and even to
 this day the buttons of the naval uniform bear a "foul anchor." The
 "anchor" flag is solely the emblem of an administrative board; it does
@@ -722,7 +722,7 @@ has been made use of as an executive flag. In 1719 the earl of Berkeley,
 who at the time was not only first lord of the admiralty, but
 vice-admiral of England, obtained the special permission of George I. to
 hoist it at the main instead of the union flag. Again in 1869, when Mr
-Childers, then first lord, accompanied by some members of his board,
+[[Childers]], then first lord, accompanied by some members of his board,
 went on board the "Agincourt" he hoisted the admiralty flag and took
 command of the combined Mediterranean and Channel squadrons, thus
 superseding the flags of the two distinguished officers who at the time
@@ -766,7 +766,7 @@ the blue ensign illustrated is that of New Zealand, the device of the
 colony being the southern cross in the fly. Precisely the same flag,
 with a large six-pointed star, emblematic of the six states immediately
 under the union, forms the flag of the federated commonwealth of
-Australia. The red ensign shown is that of the Dominion of Canada, the
+[[Australia]]. The red ensign shown is that of the Dominion of Canada, the
 device in the fly being the armorial bearings of the Dominion. As the
 lord-lieutenant of Ireland, as the representative of royalty, flies the
 Union Jack with a harp in the centre, or the viceroy of India flies the
@@ -774,7 +774,7 @@ same flag with, in the centre, the badge of the order of the Star of
 India, so too colonial governors or high commissioners fly the union
 flag with the arms of the colony they preside over on a white shield in
 the centre and surrounded by a laurel wreath. In the case of Canada the
-wreath, however, is not of laurel but of maple, which is the special
+wreath, however, is not of laurel but of [[Maple|maple]], which is the special
 emblem of the Dominion.
 
 _French._--To come to flags of other countries, nowhere have historical
@@ -787,7 +787,7 @@ famous tricolour. The tricolour was introduced at the time of the
 Revolution, but the origin of this flag and its colours is a disputed
 question. Some maintain that the intention was to combine in the flag
 the blue of the Chape de St Martin, the red of the oriflamme, and the
-white flag of the Bourbons. By others the colours are said to be those
+white flag of the [[Bourbon|Bourbons]]. By others the colours are said to be those
 of the city of Paris. Yet again, other authorities assert that the flag
 is copied from the shield of the Orleans family as it appeared after
 Philippe Égalité had knocked off the _fleurs-de-lis_. The tricolour is
@@ -796,10 +796,10 @@ the red forming the fly, the white the middle, and the blue the hoist of
 the flag. During the first and second empires the tricolour became the
 imperial standard, but in the centre of the white stripe was placed the
 eagle, whilst all three stripes were richly powdered over with the
-golden bees of the Napoleons. The tricolour is now the sole flag of
+golden [[Bee|bees]] of the Napoleons. The tricolour is now the sole flag of
 France.
 
-_American._--Before the Declaration of Independence the flags of those
+_American._--Before the [[Declaration]] of Independence the flags of those
 colonies which now form the United States of America were very various.
 In the early days of New England the Puritans objected to the red cross
 of St George, not from any disloyalty to the mother country, but from a
@@ -818,7 +818,7 @@ recommended that the union be retained in the upper corner next to the
 staff, the remainder of the field of the flag to be of thirteen
 horizontally disposed stripes, alternately red and white. This flag,
 curiously enough, was precisely the same as the flag of the old
-Honourable East India Company. On the 14th of June 1777 congress
+Honourable [[East India Company]]. On the 14th of June 1777 congress
 resolved "that the flag of the United States be thirteen stripes,
 alternate red and white; that the Union be thirteen stars, white in a
 blue field, representing a new constellation." This was the origin of
@@ -832,11 +832,11 @@ as the eagle, were suggested by the crest and arms of the Washington
 family. The latter supposition is absurd, for the Washington crest was a
 raven. The Washington arms were a white shield having two horizontal red
 bars, and above these a row of three red stars. This might, by a stretch
-of imagination, be supposed to have inspired the original idea of the
+of [[Imagination|imagination]], be supposed to have inspired the original idea of the
 flag which was that each state in the Union should be represented in the
 national flag by a star and stripe. Naturally other states coming into
 the Union expected the same privilege. After Vermont in 1790 and
-Kentucky in 1792 had entered the Union, the stars and stripes were
+[[Kentucky]] in 1792 had entered the Union, the stars and stripes were
 changed in number from thirteen to fifteen. Later on other states
 joined, and soon the flag came to consist of twenty stars and stripes.
 It was, however, found objectionable to be constantly altering the
@@ -846,7 +846,7 @@ blue union canton in the top corner of the flag next the staff. Thus the
 stars always show the exact number of states that are in the Union,
 whilst the stripes denote the original number of the states that formed
 the union.[1] The presidential flag of the president of the United
-States is an eagle on a blue field, bearing on its breast a shield
+States is an eagle on a blue field, bearing on its [[Breast|breast]] a shield
 displaying stripes, and above the national motto _E pluribus unum_, and
 a design of the stars of the original thirteen states of the union.
 
@@ -859,7 +859,7 @@ being shown in the case of the two latter ensigns. The two Japanese
 flags shown are the man-of-war ensign--a rising sun, generally known as
 the sun-burst--and the flag of the mercantile marine, in which the red
 ball is used without the rays and placed in the centre of the white
-field. The imperial standard of Japan is a golden chrysanthemum on a red
+field. The imperial standard of [[Japan]] is a golden chrysanthemum on a red
 field. It is essential that the chrysanthemum should invariably have
 sixteen petals. Heraldry in Japan is of a simpler character than that of
 Europe, and is practically limited to the employment of "Mon," which
@@ -868,7 +868,7 @@ families of Japan possess at least one, and in many cases even three,
 "Mon." The imperial family use two, the one _Kiku no go Mon_ (the august
 chrysanthemum crest) and _Kiri no go Mon_ (the august Kiri crest). The
 first represents the sixteen-petalled chrysanthemum, and, although the
-use of the chrysanthemum flower as a badge is not necessarily confined
+use of the chrysanthemum [[Flower|flower]] as a badge is not necessarily confined
 to the imperial family, they alone have the right to use the
 sixteen-petalled form. If used by any other family, or society or
 corporation, it must be with a number of petals less or more than
@@ -877,7 +877,7 @@ flower spikes of the Kiri (_Paulownia imperialis_). This, however, is
 not displayed as an official emblem, that being reserved for the
 chrysanthemum. The Kiri is used for more private purposes. For example,
 the chrysanthemum figures in the imperial standard, and the Kiri "Mon"
-adorns the harness of the emperor's horses. It is very probable that the
+adorns the [[Harness|harness]] of the emperor's horses. It is very probable that the
 chrysanthemum crest did not originally represent the chrysanthemum
 flower at all but the sun with sixteen rays, and it will be noticed that
 in the "sun-burst" flag the sun's rays are sixteen in number. The use of
@@ -887,7 +887,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   depicted. The "iron cross" in the navy flag is that of the Teutonic
   Order, and dates from the close of the 12th century. For five
   centuries black and white have been the Hohenzollern colours, and the
-  first verse of the German war song, _Ich bin ein Preusse_, runs:--
+  first verse of the German war song, _Ich [[Bin|bin]] ein Preusse_, runs:--
 
     "I am a Prussian! Know ye not my banner?
        Before me floats my flag of black and white!
@@ -917,7 +917,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   with which the flag is charged contain respectively the arms of
   Austria and of Hungary. The former shield only is borne on the
   man-of-war ensign, and displays the heraldic device of the ancient
-  dukes of Austria, which dates back to the year 1191. The Austrian
+  [[Dukes|dukes]] of Austria, which dates back to the year 1191. The Austrian
   imperial standard has, on a yellow ground, the black double-headed
   eagle, on the breast and wings of which are imposed shields bearing
   the arms of the provinces of the empire. The flag is bordered all
@@ -951,7 +951,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   correct the yellow should be half the width of the flag, and each of
   the red stripes a quarter of the width of the flag. The central yellow
   stripe is charged in the hoist with an escutcheon containing the arms
-  of Castile and Leon, and surmounted by the royal crown. In the
+  of Castile and [[Leon]], and surmounted by the royal crown. In the
   mercantile flag the yellow centre is without the escutcheon, and is
   one-third of the entire depth of the flag, the remaining thirds being
   divided into equal stripes of red and yellow, the yellow above in the
@@ -959,9 +959,9 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   that of Spain is the most elaborate, for it contains quarterings of
   the Spanish royal escutcheon, many of the bearings being as much an
   anachronism as if the royal arms of England were to-day to be
-  quartered with the _fleur-de-lis_. In all, the quarterings displayed
-  are those of Leon, Castile, Aragon, Sicily, Austria, Burgundy,
-  Flanders, Antwerp, Brabant, Portugal and France. The flag is usually
+  quartered with the _[[Fleur-De-Lis|fleur-de-lis]]_. In all, the quarterings displayed
+  are those of Leon, Castile, [[Aragon]], Sicily, Austria, Burgundy,
+  [[Flanders]], [[Antwerp]], [[Brabant]], Portugal and France. The flag is usually
   depicted as composed entirely of the quarterings. We believe, however,
   that it is more correctly a purple flag in the centre of which the
   quarterings are displayed on an oval shield surmounted by a crown and
@@ -978,7 +978,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   saint of Russia, from whence the emblem. The imperial standard is of a
   character akin to that of Austria; the ground is yellow, and the
   centre bears the imperial double-headed eagle, a badge that dates back
-  to 1472, when Ivan the Great married a niece of Constantine
+  to 1472, when [[Ivan]] the Great married a niece of Constantine
   Palaeologus and assumed the arms of the Greek empire. On the breast of
   the eagle is an escutcheon charged with the emblem of St George and
   the Dragon on a red ground, and this is surrounded by the collar of
@@ -1049,7 +1049,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   was the emblem of the nation as far back as 1339, and probably
   considerably earlier. In addition to the national flag of the Swiss
   confederation, each canton has its own cantonal colours. In each case
-  the flag has its stripes disposed horizontally. Basel, for instance,
+  the flag has its stripes disposed horizontally. [[Basel]], for instance,
   is half black, half white; Berne, half black, half red; Glarus, red,
   black and white, &c., &c.
 
@@ -1069,11 +1069,11 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   same, but the imperial standard of the sultan is scarlet, and bears in
   its centre the device of the reigning sovereign. This device is known
   as the "Tughra," and consists of the name of the sultan, the title of
-  khan, and the epithet _al-Muzaffar Daima_, which means "the ever
+  [[Khan|khan]], and the epithet _al-Muzaffar Daima_, which means "the ever
   victorious." The origin of the "Tughra" is that the sultan Murad I.,
   who was not of scholarly parts, signed a treaty by wetting his open
   hand with ink, and pressing it on the paper, the first, second and
-  third fingers making smears close together, the thumb and fourth
+  third [[Finger|fingers]] making smears close together, the thumb and fourth
   finger leaving marks apart. Within the marks thus made the scribes
   wrote in the name of Murad, his title, and the epithet above quoted.
   The "Tughra" dates from the latter part of the 14th century. The
@@ -1092,7 +1092,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   the flag and in the fly, and red in the hoist and on the lower edge.
   On the white ground are the lion and sun.
 
-  The flag of Siam is a white elephant on a red ground. That of Korea,
+  The flag of Siam is a white [[Elephant|elephant]] on a red ground. That of [[Korea]],
   a white flag with, in the centre, a ball, half red, half blue, the
   colours being curiously intermixed, the whole being precisely as if
   two large commas of equal size, one red and the other blue, were
@@ -1141,7 +1141,7 @@ the number sixteen is probably traceable to Chinese geomantic ideas.
   colour, nor metal on metal, yellow in blazonry being the equivalent of
   gold and white of silver. Hence, properly devised tricolours are such
   as, for example, those of France, where the red and blue are divided
-  by white, or Belgium, where the black and red are divided by yellow.
+  by white, or [[Belgium]], where the black and red are divided by yellow.
   On the other hand, the yellow, blue, red of Venezuela is heraldically
   an abomination.
 
@@ -1161,7 +1161,7 @@ or in the proportion of two to one, and it is this latter dimension that
 is used in the navy and generally.
 
 Signalling flags are dealt with elsewhere (see SIGNAL), and here it will
-only be necessary to make brief allusion to some international customs
+only be necessary to make brief allusion to some [[International|international]] customs
 with regard to the use of flags to indicate certain purposes. For long a
 blood-red flag has always been used as a symbol of mutiny or of
 revolution. The black flag was in days gone by the symbol of the pirate;
@@ -1169,7 +1169,7 @@ to-day, in the only case in which it survives, it is flown after an
 execution to indicate that the requirements of the law have been duly
 carried out. All over the world a yellow flag is the signal of
 infectious illness. A ship hoists it to denote that there are some on
-board suffering from yellow fever, cholera or some such infectious
+board suffering from yellow [[Fever|fever]], cholera or some such infectious
 malady, and it remains hoisted until she has received quarantine. This
 flag is also hoisted on quarantine stations. The white flag is
 universally used as a flag of truce.
@@ -1178,7 +1178,7 @@ At the sea striking of the flag denotes surrender. When the flag of one
 country is placed over that of another the victory of the former is
 denoted, hence in time of peace it would be an insult to hoist the flag
 of one friendly nation above that of another. If such were done by
-mistake, say in "dressing ship" for instance, an apology would have to
+mistake, say in "dressing ship" for instance, an [[Apology|apology]] would have to
 be made. This custom of hoisting the flag of the vanquished beneath that
 of the victor is of comparatively modern date, as up to about a century
 ago the sign of victory was to trail the enemy's flag over the taffrail
@@ -1200,7 +1200,7 @@ mentioned as a method of showing distress.
 
 We have already alluded to the Union Jack as used for denoting
 nationality, and as a flag of command, but it also serves many other
-purposes. For instance, if a court-martial is being held on board any
+purposes. For instance, if a [[Court-Martial|court-martial]] is being held on board any
 ship the Union Jack is displayed while the court is sitting, its
 hoisting being accompanied by the firing of a gun. In a fleet in company
 the ship that has the guard for the day flies it. With a white border it
@@ -1220,14 +1220,14 @@ funeral.
   _Our Flags: Their Origin, Use and Traditions_, by Rear-Admiral S.
   Eardley-Wilmot (1901), an excellent treatise, historical and
   narrative, on all the flags of the British empire; _A History of the
-  Flag of the United States_ (Boston, 1872), by G.H. Preble; _Flags of
+  Flag of the United States_ ([[Boston]], 1872), by G.H. Preble; _Flags of
   the World: Their History, Blazonry and Associations_, by Edward Hulme,
   F.L.S., F.S.A. (1897), a most complete monograph on the subject,
   illustrated with a very complete series of plates; _Admiralty Book of
   Flags of all Nations_, printed for H.M. Stationery office, 1889, kept
   up to date by the publication periodically of Errata, officially
   issued under an admiralty covering letter; _Flags of Maritime
-  Nations_, prepared by the Bureau of Equipment department of the navy,
+  Nations_, prepared by the [[Bureau]] of Equipment department of the navy,
   printed by authority (Washington, 1899). The last two works have no
   letterpress beyond titles, but contain, to scale, delineations of all
   the flags at present used officially by all nations. Between the two

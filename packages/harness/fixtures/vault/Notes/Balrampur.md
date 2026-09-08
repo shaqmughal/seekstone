@@ -1,6 +1,6 @@
 # Balrampur
 
-BALRAMPUR, a town of British India near the river Rapti, 28 m. from Gonda,
+BALRAMPUR, a town of British India near the river Rapti, 28 m. from [[Gonda]],
 in the Gonda district of the United Provinces. Pop. (1901) 16,723. It gives
 its name to one of the largest _talukdari_ estates in the province. The
 raja, Sir Drigbijai Singh K.C.S.I., was conspicuously loyal during the

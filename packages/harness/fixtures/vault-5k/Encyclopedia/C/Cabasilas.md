@@ -5,12 +5,12 @@ was on intimate terms with the emperor John VI. Cantacuzene, whom he
 accompanied in his retirement to a monastery. In 1355 he succeeded his
 uncle Nilus Cabasilas, like himself a determined opponent of the union of
 the Greek and Latin churches, as archbishop of Thessalonica. In the
-Hesychast controversy he took the side of the monks of Athos, but refused
+Hesychast controversy he took the side of the monks of [[Athos]], but refused
 to agree to the theory of the uncreated light. His chief work is his
 [Greek: Peri tes en Christoi zoes] (_ed. pr._ of the Greek text, with
 copious introduction, by W. Gass, 1849; new ed. by M. Heinze, 1899), in
 which he lays down the principle that union with Christ is effected by the
-three great mysteries of baptism, confirmation and the eucharist. He also
+three great mysteries of baptism, confirmation and the [[Eucharist|eucharist]]. He also
 wrote homilies on various subjects, and a speech against usurers, printed
 with other works in Migne, _Patrologia Graeca_, c. i. A large number of his
 works is still extant in MS.

@@ -1,6 +1,6 @@
 # Biot
 
-BIOT, JEAN BAPTISTE (1774-1862), French physicist, was born at Paris on
+BIOT, JEAN [[Baptiste|BAPTISTE]] (1774-1862), French physicist, was born at Paris on
 the 21st of April 1774. After serving for a short time in the artillery,
 he was appointed in 1797 professor of mathematics at Beauvais, and in
 1800 he became professor of physics at the Collège de France, through
@@ -13,7 +13,7 @@ associated with F.J.D. Arago, with whom he had already carried out
 investigations on the refractive properties of different gases, in the
 measurement of an arc of the meridian in Spain, and in subsequent years
 he was engaged in various other geodetic determinations. In 1814 he was
-made chevalier and in 1849 commander, of the Legion of Honour. He failed
+made [[Chevalier|chevalier]] and in 1849 [[Commander|commander]], of the [[Legion]] of Honour. He failed
 in his ambition of becoming perpetual secretary of the Academy of
 Sciences, but was somewhat consoled by his election as a member of the
 French Academy in 1856. He died in Paris on the 3rd of February 1862.
@@ -39,13 +39,13 @@ astronomie chinoise_ (1840); _Études sur l'astronomie indienne et sur
 l'astronomie chinoise_ (1862); _Essai sur l'histoire générale des
 sciences pendant la Révolution_ (1803); _Discours sur Montaigne_ (1812);
 _Lettres sur l'approvisionnement de Paris et sur le commerce des grains_
-(1835); _Mélanges scientifiques et littéraires_ (1858).
+(1835); _Mé[[Lange|langes]] scientifiques et littéraires_ (1858).
 
 His son, EDOUARD CONSTANT BIOT (1803-1850), after amassing a competence
-from railway engineering, turned to the study of Chinese subjects, and
+from railway [[Engineering|engineering]], turned to the study of Chinese subjects, and
 published _Causes de l'abolition de l'esclavage ancien en occident_
 (1840); _Dictionnaire des noms anciens et modernes des villes et des
-arrondissements compris dans l'empire chinois_ (1842); _Essai sur
+[[Arrondissement|arrondissements]] compris dans l'empire chinois_ (1842); _Essai sur
 l'histoire de l'instruction publique en Chine et de la corporation des
 lettres_ (1847); _Mémoire sur les colonies militaires et agricoles des
 chinois_ (1850).

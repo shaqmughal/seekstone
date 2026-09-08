@@ -18,14 +18,14 @@ command of a division at Melegnano, and took a conspicuous part in the
 battle of Solferino. For his services in the campaign he received the
 grand cross of the Legion of Honour, of which he was already (1855) a
 commander. He commanded with great distinction the first division under
-General (afterwards marshal) Forey in the Mexican expedition in 1862,
+General (afterwards marshal) [[Forey]] in the Mexican expedition in 1862,
 succeeded him in supreme command in 1863, and became marshal and senator
 of France in the following year. He at first pursued the war with great
 vigour and success, entering Mexico in 1863 and driving President Juarez
 to the frontier. The marshal's African experience as a soldier and as an
 administrator stood him in good stead in dealing with the guerrilleros
 of the Juarez party, but he was less successful in his relations with
-Maximilian, with whose court the French headquarters was in constant
+[[Maximilian]], with whose court the French headquarters was in constant
 strife. Here, as later in his own country, Bazaine's policy seems to
 have been directed, at least in part, to his own establishment in the
 role of a mayor of the palace. His own army thought that he aspired to
@@ -37,7 +37,7 @@ the Mexican frontier, the French forces were withdrawn (see MEXICO,
 _History_). Bazaine skilfully conducted the retreat and embarkation at
 Vera Cruz (1867). On his return to Paris he was but coldly received by
 his sovereign; public opinion was, however, in his favour, and he was
-held to have been made a scapegoat for the faults of others.
+held to have been made a scapegoat for the [[Fault|faults]] of others.
 
 At the outbreak of the Franco-German War (q.v.) Marshal Bazaine was
 placed in command of the III. corps of the Army of the Rhine. He took no
@@ -77,9 +77,9 @@ close to his stronghold, however, Bazaine hoped that he could inflict
 damaging repulses and heavy slaughter on the ardent Germans, and in the
 main the result justified the expectation. The scheme was creditable,
 and even heroic, but the execution throughout all ranks, from the
-marshal to the battalion commanders, fell far short of the idea. The
+marshal to the [[Battalion|battalion]] commanders, fell far short of the idea. The
 minutely cautious methods of movement, which Algerian experience had
-evolved suitable enough for small African desert columns, which were
+evolved suitable enough for small African [[Desert|desert]] columns, which were
 liable to surprise rushes and ambushes, reduced the mobility of a large
 army, which had favourable marching conditions, to 5 m. a day as against
 the enemy's rate of 15. When, before he had finally decided to stay in
@@ -125,7 +125,7 @@ corps commanders.
 
 Bazaine, therefore, in the main justified his reputation for ability. He
 was now to justify his reputation for intriguing and underhand
-diplomacy. If in Mexico he aspired to the role of mayor of the palace,
+[[Diplomacy|diplomacy]]. If in Mexico he aspired to the role of mayor of the palace,
 it was far more so in Metz, where, as commander of the only organized
 army of France, he conceived himself to be the ruler of the country's
 destiny. Accordingly he engaged in a series of diplomatic intrigues,
@@ -161,7 +161,7 @@ du Rhin_ (Paris, 1872).
   conduct see _Bazaine et l'armee du Rhin_ (1873); J. Valfrey, _Le
   Marechal et l'armee du Rhin_ (1873); Count A. de la Guerroniere,
   _L'Homme de Metz_ (1871); Rossel, _Les Derniers Jours de Metz_ (1871).
-  See also the article BOURBAKI for the curious Regnier episode
+  See also the article [[Bourbaki|BOURBAKI]] for the curious Regnier episode
   connected with the surrender of Metz.
 
 ## See also

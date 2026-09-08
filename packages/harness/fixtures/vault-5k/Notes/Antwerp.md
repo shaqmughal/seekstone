@@ -44,7 +44,7 @@ distinct or glorious in art for its school of painting, which included
 Rubens, Van Dyck, Jordaens, the two Teniers and many others.
 
 _Commerce._--Since 1863, when Antwerp was opened to the trade of the
-outer world by the purchase of the Dutch right to levy toll, its
+outer world by the purchase of the Dutch right to [[Levy|levy]] toll, its
 position has completely changed, and no place in Europe has made greater
 progress in this period than the ancient city on the Scheldt. The
 following figures for the years 1904 and 1905 show that its trade is
@@ -64,18 +64,18 @@ comparison of the following figures. In 1888, 4272 ships entered the
 port and 4302 sailed from it. In 1905, 6095 entered the port and 6065
 sailed from it--an increase of nearly 50%. In 1888 the total tonnage was
 7,800,000; in 1905 it had risen to 19,662,000. These figures explain how
-and why Antwerp has outgrown its dock accommodation. The eight principal
+and why Antwerp has outgrown its [[Dock|dock]] accommodation. The eight principal
 basins or docks already existing in 1908 were (1) the Little or
 Bonaparte dock; (2) the Great dock, also constructed in Napoleon's time;
 (3) the Kattendijk, built in 1860 and enlarged in 1881; (4) the Wood
 dock; (5) the Campine dock, used especially for minerals; (6) the Asia
 dock, which is in direct communication with the Meuse by a canal as well
-as with the Scheldt; (7) the Lefebvre dock; and (8) the America dock,
+as with the Scheldt; (7) the [[Lefebvre]] dock; and (8) the America dock,
 which was only opened in 1905. Two new docks, called "intercalary"
 because they would fit into whatever scheme might be adopted for the
 rectification of the course of the Scheldt, were still to be
 constructed, leading out of the Lefebvre dock and covering 70 acres.
-With the completion of the new maritime lock, ships drawing 30 ft. of
+With the completion of the new maritime [[Lock|lock]], ships drawing 30 ft. of
 water would be able to enter these new docks and also the Lefebvre and
 America docks. In connexion with the projected _grande coupure_ (that
 is, a cutting through the neck of the loop in the river Scheldt
@@ -89,7 +89,7 @@ construction of new docks. The quays flanking the Scheldt are 3-1/2 m.
 in length. They are constructed of granite, and no expense has been
 spared in equipping them with hydraulic cranes, warehouses, &c.
 
-_Fortifications._--Besides being the chief commercial port of Belgium,
+_Fortifications._--Besides being the chief commercial port of [[Belgium]],
 Antwerp is the greatest fortress of that country. Nothing, however,
 remains of the former enceinte or even of the famous old citadel
 defended by General Chasse in 1832, except the _Steen_, which has been
@@ -170,7 +170,7 @@ the custom of cutting off the right hand of a man who died without heir,
 and sending it as proof of _main-morte_ to the feudal lord. Moreover,
 the two hands and a castle, which form the arms of Antwerp, will not be
 dismissed as providing no proof by any one acquainted with the
-scrupulous care that heralds displayed in the golden age of chivalry
+scrupulous care that heralds displayed in the golden age of [[Chivalry|chivalry]]
 before assigning or recognizing the armorial bearings of any claimant.
 
 In the 4th century Antwerp is mentioned as one of the places in the
@@ -187,9 +187,9 @@ mentioned in 1510. In 1560, a year which marked the highest point of its
 prosperity, six nations, viz. the Spaniards, the Danes and the Hansa
 together, the Italians, the English, the Portuguese and the Germans,
 were named at Antwerp, and over 1000 foreign merchants were resident in
-the city. Guicciardini, the Venetian envoy, describes the activity of
+the city. [[Guicciardini]], the Venetian envoy, describes the activity of
 the port, into which 500 ships sometimes passed in a day, and as
-evidence of the extent of its land trade he mentioned that 2000 carts
+evidence of the extent of its land trade he mentioned that 2000 [[Cart|carts]]
 entered the city each week. Venice had fallen from its first place in
 European commerce, but still it was active and prosperous. Its envoy, in
 explaining the importance of Antwerp, states that there was as much

@@ -1,8 +1,8 @@
 # Dubois
 
 DUBOIS, GUILLAUME (1656-1723), French cardinal and statesman, was born
-at Brive, in Limousin, on the 6th of September 1656. He was, according
-to his enemies, the son of an apothecary, his father being in fact a
+at [[Brive]], in [[Limousin]], on the 6th of September 1656. He was, according
+to his enemies, the son of an [[Apothecary|apothecary]], his father being in fact a
 doctor of medicine of respectable family, who kept a small drug store as
 part of the necessary outfit of a country practitioner. He was educated
 at the school of the Brothers of the Christian Doctrine at Brive, where
@@ -18,14 +18,14 @@ Astute, ambitious and unrestrained by conscience, Dubois ingratiated
 himself with his pupil, and, while he gave him formal school lessons, at
 the same time pandered to his evil passions and encouraged him in their
 indulgence. He gained the favour of Louis XIV. by bringing about the
-marriage of his pupil with Mademoiselle de Blois, a natural but
+marriage of his pupil with Mademoiselle de [[Blois]], a natural but
 legitimated daughter of the king; and for this service he was rewarded
 with the gift of the abbey of St Just in Picardy. He was present with
 his pupil at the battle of Steinkirk, and "faced fire," says Marshal
 Luxembourg, "like a grenadier." Sent to join the French embassy in
 London, he made himself so active that he was recalled by the request of
 the ambassador, who feared his intrigues. This, however, tended to raise
-his credit with the king. When the duke of Orleans became regent (1715)
+his [[Credit|credit]] with the king. When the duke of Orleans became regent (1715)
 Dubois, who had for some years acted as his secretary, was made
 councillor of state, and the chief power passed gradually into his
 hands.
@@ -48,7 +48,7 @@ Massillon consented to take part in the ceremonies. His next aim was the
 cardinalate, and, after long and most profitable negotiations on the
 part of Pope Clement XI., the red hat was given to him by Innocent XIII.
 (1721), whose election was largely due to the bribes of Dubois. It is
-estimated that this cardinalate cost France about eight million francs.
+estimated that this cardinalate cost France about eight million [[Franc|francs]].
 In the following year he was named first minister of France (August). He
 was soon after received at the French Academy; and, to the disgrace of
 the French clergy, he was named president of their assembly.

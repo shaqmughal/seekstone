@@ -1,26 +1,26 @@
 # Lockport
 
 LOCKPORT, a city and the county-seat of Niagara county, New York,
-U.S.A., on the Erie Canal, 26 m. by rail N. by E. of Buffalo and 56 m.
+U.S.A., on the Erie Canal, 26 m. by rail N. by E. of [[Buffalo]] and 56 m.
 W. of Rochester. Pop. (1900) 16,581, of whom 2036 were foreign-born and
 160 were negroes; (1910 census) 17,970. It is served by the New York
-Central & Hudson River and the Erie railways, by the International
+Central & [[Hudson]] River and the Erie railways, by the [[International]]
 railway (electric interurban), and by the Erie Canal. The city owes its
-name to the five double locks of the canal, which here falls 66 ft.
+name to the five double [[Lock|locks]] of the canal, which here falls 66 ft.
 (over a continuation of the Niagara escarpment locally known as
 "Mountain Ridge") from the level of Lake Erie to that of the Genesee
 river. In 1909 a scheme was on foot to replace these five locks by a
 huge lift lock and to construct a large harbour immediately W. of the
-city. The surplus water from Tonawanda Creek, long claimed both by the
+city. The surplus water from Tonawanda [[Creek]], long claimed both by the
 Canal and by the Lockport manufacturers, after supplying the canal
 furnishes water-power, and electric power is derived from Niagara. The
 factory products, mostly paper and wood-pulp, flour and cereal foods,
 and foundry and machine-shop products, were valued in 1905 at
-$5,807,980. Lockport lies in a rich farming and fruit (especially apple
-and pear) country, containing extensive sandstone and Niagara limestone
+$5,807,980. Lockport lies in a rich farming and fruit (especially [[Apple|apple]]
+and pear) country, containing extensive sandstone and Niagara [[Limestone|limestone]]
 quarries, and is a shipping point for the fruits and grains and the
 limestone and sandstone of the surrounding country. Many buildings in
-the business part of the city are heated by the Holly distributing
+the business part of the city are heated by the [[Holly]] distributing
 system, which pipes steam from a central station or plant, and
 originated in Lockport. The city owns and operates the water-works, long
 operated under the Holly system, which, as well as the Holly

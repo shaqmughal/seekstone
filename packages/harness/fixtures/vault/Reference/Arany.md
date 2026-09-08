@@ -27,7 +27,7 @@ also, and the same year married Juliana Ercsey, the penniless orphan
 daughter of an advocate. The next few happy years were devoted to his
 profession and a good deal of miscellaneous reading, especially of
 Shakespeare (he learnt English in order to compare the original with his
-well-thumbed German version) and Homer. Meanwhile the reactionaries of
+well-thumbed German version) and [[Homer]]. Meanwhile the reactionaries of
 Vienna were goading the Magyar Liberals into revolt, and Arany found a
 safety-valve for his growing indignation by composing a satirical poem
 in hexameters, entitled "The Lost Constitution." The Kisfaludy Society,
@@ -40,13 +40,13 @@ first part of the present trilogy), and immediately found himself
 famous. All eyes were instantly turned towards the poor country notary,
 and Petofi was the first to greet him as a brother. In February of the
 following year Arany was elected a member of the Kisfaludy Society. In
-the memorable year 1848 the people of Szalonta elected him their deputy
+the memorable year 1848 the people of Szalonta elected him their [[Deputy|deputy]]
 to the Hungarian parliament. But neither now nor subsequently (1861,
-1869) would he accept a parliamentary mandate. He wrote many articles,
-however, in the gazette _Nepbaratja_, an organ of the Magyar government,
+1869) would he accept a parliamentary [[Mandate|mandate]]. He wrote many articles,
+however, in the [[Gazette|gazette]] _Nepbaratja_, an organ of the Magyar government,
 and served in the field as a national guard for eight or ten weeks. In
 1849 he was in the civil service of the revolutionary government, and
-after the final catastrophe returned to his native place, living as best
+after the final [[Catastrophe|catastrophe]] returned to his native place, living as best
 he could on his small savings till 1850, when Lajos Tisza, the father of
 Kalman Tisza, the future prime minister, invited him to his castle at
 Geszt to teach his son Domokos the art of poetry. In the following year
@@ -58,13 +58,13 @@ heavily upon his sensitive soul, and he suffered severely both in mind
 and body. On the other hand reflection on past events made clear to him
 not only the sufferings but the defects and follies of the national
 heroes, and from henceforth, for the first time, we notice a bitterly
-humorous vein in his writings. Thus _Bolond Istok_, the first canto of
+humorous vein in his writings. Thus _Bolond Istok_, the first [[Canto|canto]] of
 which he completed in 1850, is full of sub-acrid merriment. During his
 nine years' residence at Nagy-Koros, Arany first seriously turned his
 attention to the Magyar ballad, and not only composed some of the most
 beautiful ballads in the language, but wrote two priceless dissertations
 on the technique of the ballad in general: "Something concerning
-assonance" (1854), and "On Hungarian National Versification" (1856).
+[[Assonance|assonance]]" (1854), and "On Hungarian National Versification" (1856).
 
 When the Hungarian Academy opened its doors again after a ten years'
 cessation, Arany was elected a member (15th of December 1858). On the
@@ -74,7 +74,7 @@ _Szepirodalmi Figyelo_, a monthly review better known by its later name,
 _Koszeru_, which did much for Magyar criticism and literature. He also
 edited the principal publications of the society, including its notable
 translation of _Shakespeare's Dramatic Works_, to which he contributed
-the _Midsummer Night's Dream_ (1864), _Hamlet_ and _King John_ (1867).
+the _Midsummer Night's [[Dream]]_ (1864), _[[Hamlet]]_ and _King John_ (1867).
 The same year he won the Nadasdy prize of the Academy with his poem
 "Death of Buda." From 1865 to 1879 he was the secretary of the Hungarian
 Academy.
@@ -84,7 +84,7 @@ comparatively unproductive, but he issued an edition of his collected
 poems in 1867, and in 1880 won the Karacsonyi prize with his translation
 of the _Comedies of Aristophanes_ (1880). In 1879 he completed his epic
 trilogy by publishing _The Love of Toldi_ and _Toldi's Evening_, which
-were received with universal enthusiasm. He died suddenly on the 24th of
+were received with universal [[Enthusiasm|enthusiasm]]. He died suddenly on the 24th of
 October 1882. The first edition of his collected works, in 8 volumes,
 was published in 1884-1885.
 
@@ -107,12 +107,12 @@ absolutely sure. To say nothing of his other great qualities, he is
 certainly the most artistic of all the Magyar poets.
 
   See _Posthumous Writings and Correspondence of Arany_, edited by
-  Laszlo Arany (Hung.), (Budapest, 1887-1889); article "Arany," in _A
+  Laszlo Arany (Hung.), ([[Budapest]], 1887-1889); article "Arany," in _A
   Pallas Nagy Lexikona_, Kot 2 (Budapest, 1893); Mor Gaal, _Life of
-  Janos Arany_ (Hung.), (Budapest, 1898); L. Gyongyosi, _Janos Arany's
+  Janos Arany_ (Hung.), (Budapest, 1898); L. [[Gyongyosi]], _Janos Arany's
   Life and Works_ (Hung.), (Budapest, 1901). Translations from Arany:
-  _The Legend of the Wondrous Hunt_ (canto 6 of _Buda's Death_), by D.
-  Butler (London, 1881); _Toldi, poeme en 12 chants_ (Paris, 1895);
+  _The Legend of the Wondrous [[Hunt]]_ (canto 6 of _Buda's Death_), by D.
+  [[Butler]] (London, 1881); _Toldi, poeme en 12 [[Chant|chants]]_ (Paris, 1895);
   _Dichtungen_ (Leipzig, 1880); _Konig Buda's Tod_ (Leipzig, 1879);
   _Balladen_ (Vienna, 1886).     (R. N. B.)
 

@@ -35,7 +35,7 @@ with Zuris and Tajiks.
 
 The people and princes of Ghor first become known to us in connexion
 with the Ghaznevid dynasty, and the early medieval histories of Ghor and
-Ghazni are so intertwined that little need be added on that subject to
+[[Ghazni]] are so intertwined that little need be added on that subject to
 what will be found under GHAZNI (q.v.). What we read of Ghor shows it as
 a country of lofty mountains and fruitful valleys, and of numerous
 strongholds held by a variety of hill-chieftains ruling warlike clans
@@ -96,7 +96,7 @@ Ghiyasuddin Ghori, whilst his other grandfather was that prince's
 favourite minister. In 1245 Shamsuddin held the lordship of Ghor in some
 kind of alliance with, or subordination to, the Mongols, who had not yet
 definitively established themselves in Persia; and in 1248 he received
-from the Great Khan Mangu an investiture of all the provinces from Merv
+from the Great [[Khan]] Mangu an investiture of all the provinces from Merv
 to the Indus, including by name Sijistan (or Seistan), Kabul, Tirah
 (adjoining the Khyber pass), and Afghanistan (a very early occurrence of
 this name), which he ruled from Herat. He stood well with Hulagu, and
@@ -139,7 +139,7 @@ country now known as Ghor was mapped during the progress of the
 Russo-Afghan boundary delimitation.
 
   See the "Tabakat-i-Nasiri," in the _Bibl. Indica_, transl. by Raverty;
-  _Journal asiatique_, ser. v. tom. xvii.; "Ibn Haukal," in _J. As. Soc.
+  _Journal asiatique_, ser. v. tom. xvii.; "[[Ibn Haukal]]," in _J. As. Soc.
   Beng._ vol. xxii.; Ferrier's _Caravan Journeys_; Hammer's _Ilkhans_,
   &c.
 

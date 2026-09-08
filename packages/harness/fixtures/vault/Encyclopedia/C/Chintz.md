@@ -9,7 +9,7 @@ topic: history
 CHINTZ, a word derived from the Hindu _ch[=i]nt_, spotted or variegated.
 This name was given to a kind of stained or painted calico produced in
 India. It is now applied to a highly glazed printed calico, commonly
-made in several colours on a light ground and used for bed hangings,
+made in several [[Colours|colours]] on a light ground and used for bed [[Hanging|hangings]],
 covering furniture, &c.
 
 ## See also

@@ -11,7 +11,7 @@ tags: [chemistry, literature]
 
 GIEBEL, CHRISTOPH GOTTFRIED ANDREAS (1820-1881), German zoologist and
 palaeontologist, was born on the 13th of September 1820 at Quedlinburg
-in Saxony, and educated at the university of Halle, where he graduated
+in Saxony, and educated at the university of [[Halle]], where he graduated
 Ph.D. in 1845. In 1858 he became professor of zoology and director of
 the museum in the university of Halle. He died at Halle on the 14th of
 November 1881. His chief publications were _Palaozoologie_ (1846);

@@ -1,7 +1,7 @@
 # Kin
 
 KIN (O.E. _cyn_, a word represented in nearly all Teutonic languages,
-cf. Du. _kunne_, Dan. and Swed. _kön_, Goth _kuni_, tribe; the Teutonic
+cf. Du. _kunne_, [[Dan]]. and Swed. _kön_, Goth _kuni_, tribe; the Teutonic
 base is _kunya_; the equivalent Aryan root _gan_-to beget, produce, is
 seen in Gr. [Greek: genos], Lat. _genus_, cf. "kind"), a collective word
 for persons related by blood, as descended from a common ancestor. In

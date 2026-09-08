@@ -1,7 +1,7 @@
 # Fatalism
 
 FATALISM (Lat. _fatum_, that which is spoken, decreed), strictly the
-doctrine that all things happen according to a prearranged fate,
+doctrine that all things happen according to a prearranged [[Fate|fate]],
 necessity or inexorable decree. It has frequently been confused with
 determinism (q.v.), which, however, differs from it categorically in
 assigning a certain function to the will. The essence of the fatalistic
@@ -22,7 +22,7 @@ is subject to an absolute rational law.
 
 The doctrine of fate appears also in what are known as the higher
 religions, e.g. Christianity and Mahommedanism. In the former the ideas
-of personality and infinite power have vanished, all power being
+of personality and [[Infinite|infinite]] power have vanished, all power being
 conceived as inherent in God. It is recognized that the moral individual
 must have some kind of initiative, and yet since God is omnipotent and
 omniscient man must be conceived as in some sense foreordained to a

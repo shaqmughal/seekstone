@@ -1,7 +1,7 @@
 # Bloet
 
 BLOET, ROBERT (d. 1123), English bishop, was chancellor to William I.
-and Rufus. From the latter he received the see of Lincoln (1093) in
+and Rufus. From the latter he received the see of [[Lincoln]] (1093) in
 succession to Remigius. His private character was indifferent; but he
 administered his see with skill and prudence, built largely, and kept a
 magnificent household, which served as a training-school even for the
@@ -11,7 +11,7 @@ however, he fell out of favour, and, although he had been very rich, was
 impoverished by the fines which the king extorted from him. Perhaps his
 wealth was his chief offence in the king's eyes; for he was in
 attendance on Henry when seized with his last illness. He was the patron
-of the chronicler Henry of Huntingdon, whom he advanced to an
+of the chronicler [[Henry Of Huntingdon|Henry of Huntingdon]], whom he advanced to an
 archdeaconry.
 
   Henry of Huntingdon and W. Malmesbury (_De Gestis Pontificum_) are

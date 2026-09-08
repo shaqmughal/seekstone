@@ -10,7 +10,7 @@ first-fruits of his researches appeared in his work entitled _Origines
 Biblicae, or Researches in Primeval History_, published in 1834. An
 attempt to reconstruct the early history of the human race from
 geological data, it raised a storm of opposition on the part of
-defenders of the traditional readings of the book of Genesis; but in
+defenders of the traditional readings of the book of [[Genesis]]; but in
 recognition of the value of the work the university of Tubingen
 conferred upon him the degree of Ph.D. For about two years (1837-1838)
 Beke held the post of acting British consul in Saxony. From that time
@@ -18,7 +18,7 @@ till his death his attention was largely given to geographical studies,
 chiefly of the Nile valley. Aided by private friends, he visited
 Abyssinia in connexion with the mission to Shoa sent by the Indian
 government under the leadership of Major (afterwards Sir) William
-Cornwallis Harris, and explored Gojam and more southern regions up to
+Cornwallis [[Harris]], and explored Gojam and more southern regions up to
 that time unknown to Europeans. Among other achievements, Beke was the
 first to determine, with any approach to scientific accuracy, the course
 of the Abai (Blue Nile). The valuable results of this journey, which
@@ -52,7 +52,7 @@ general acceptance. Beke died at Bromley, in Kent, on the 31st of July
 Beke's writings are very numerous. Among the more important, besides
 those already named, are: _An Essay on the Nile and its Tributaries_
 (1847), _The Sources of the Nile_ (1860), and _The British Captives in
-Abyssinia_ (1865). He was a fellow of the Royal Geographical Society,
+Abyssinia_ (1865). He was a [[Fellow|fellow]] of the Royal Geographical Society,
 and for his contributions to the knowledge of Abyssinia received its
 gold medal, and also that of the Geographical Society of France. As a
 result of a controversy over the statements of another Abyssinian

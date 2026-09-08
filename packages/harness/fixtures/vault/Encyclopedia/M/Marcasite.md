@@ -4,7 +4,7 @@ MARCASITE, a mineral with the same chemical composition as pyrites,
 being iron disulphide FeS2, but crystallizing in the orthorhombic
 instead of in the cubic system. The name is of Arabic origin and was
 long applied to crystallized pyrites (q.v.); it was restricted to the
-present species by W. Haidinger in 1845. The mineral was known to G.
+present species by W. [[Haidinger]] in 1845. The mineral was known to G.
 Agricola in 1546 under the names _Wasserkies_ or _Weisserkies_ and
 _Leberkies_, and it has been variously known as white pyrites, hepatic
 pyrites, lamellar pyrites, radiated pyrites (German _Strahlkies_) and
@@ -22,7 +22,7 @@ twinning on the plain g, in which the crystals intercross at angles of
 nearly 60°, is less common. This frequent twinning gives rise to
 characteristic forms, with many re-entrant angles, to which the names
 "spear pyrites" and "cockscomb pyrites" are applied. The commonest state
-of aggregation is that of radially arranged fibres, the external surface
+of aggregation is that of radially arranged [[Fibres|fibres]], the external surface
 of the mass being globular, nodular or stalactitic in form.
 
 Apart from crystalline form, the external characters of marcasite are
@@ -34,7 +34,7 @@ tin-white, but this rapidly tarnishes on exposure to air. The lustre is
 metallic and brilliant. The streak is greyish or brownish-black. The
 hardness (6-6½) is the same as that of pyrites, and the specific gravity
 (4.8-4.9) as a rule rather less. Arsenical varieties of marcasite,
-containing up to 5% of arsenic, are known as lonchidite and kyrosite.
+containing up to 5% of [[Arsenic|arsenic]], are known as lonchidite and kyrosite.
 
   Marcasite readily oxidizes on exposure to moist air, with the
   production of sulphuric acid and a white fibrous efflorescence of
@@ -50,16 +50,16 @@ containing up to 5% of arsenic, are known as lonchidite and kyrosite.
   Marcasite occurs under the same conditions as pyrites, but is much
   less common. Whilst pyrites is found abundantly in the older
   crystalline rocks and slates, marcasite is more abundant in clays, and
-  has often been formed as a concretion around organic remains. It is
+  has often been formed as a [[Concretion|concretion]] around organic remains. It is
   abundant, for example, in the plastic clay of the Brown Coal formation
   at Littmitz, near Carlsbad, in Bohemia, at which place it has been
   extensively mined for the manufacture of sulphur and ferrous sulphate.
   In the Chalk of the south-east of England nodules of marcasite with a
-  fibrous radiated structure are abundant, and in the Chalk Marl between
-  Dover and Folkestone fine twinned groups of "spear pyrites" are
+  fibrous radiated structure are abundant, and in the Chalk [[Marl]] between
+  [[Dover]] and [[Folkestone]] fine twinned groups of "spear pyrites" are
   common. The mineral is also met with in metalliferous veins, though
   much less frequently than pyrites; for example the "cockscomb pyrites"
-  of the lead mines of Derbyshire and Cumberland.     (L. J. S.)
+  of the lead mines of Derbyshire and [[Cumberland]].     (L. J. S.)
 
 ## See also
 

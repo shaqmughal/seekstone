@@ -1,11 +1,11 @@
 # Fogelberg
 
 FOGELBERG, BENEDICT (or BENGT) ERLAND (1786-1854), Swedish sculptor, was
-born at Gothenburg on the 8th of August 1786. His father, a
+born at [[Gothenburg]] on the 8th of August 1786. His father, a
 copper-founder, encouraging an early-exhibited taste for design, sent
 him in 1801 to Stockholm, where he studied at the school of art. There
 he came much under the influence of the sculptor Sergell, who
-communicated to him his own enthusiasm for antique art and natural
+communicated to him his own [[Enthusiasm|enthusiasm]] for antique art and natural
 grace. Fogelberg worked hard at Stockholm for many years, although his
 instinct for severe beauty rebelled against the somewhat rococo quality
 of the art then prevalent in the city. In 1818 the grant of a government
@@ -27,7 +27,7 @@ mentioned. In his representations of Scandinavian mythology Fogelberg
 showed, perhaps for the first time, that he had powers above those of
 intelligent assimilation and imitation. His "Odin" (1831), "Thor"
 (1842), and "Balder" (1842), though influenced by Greek art, display
-considerable power of independent imagination. His portraits and
+considerable power of independent [[Imagination|imagination]]. His portraits and
 historical figures, as those of Gustavus Adolphus (1849), of Charles
 XII. (1851), of Charles XIII. (1852), and of Birger Jarl, the founder of
 Stockholm (1853), are faithful and dignified works.

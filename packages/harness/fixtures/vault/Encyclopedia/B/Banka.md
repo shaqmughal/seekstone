@@ -1,17 +1,17 @@
 # Banka
 
-BANKA (Banca, Bangka), an island of the Dutch East Indies, off the east
+BANKA (Banca, Bangka), an island of the Dutch [[East Indies]], off the east
 coast of Sumatra, from which it is separated by Banka Strait, which is
 about 9 m. wide at its narrowest point. On the east, the broader,
 island-studded Gaspar Strait separates Banka from Billiton. Banka is 138 m.
 in length; its extreme breadth is 62 m., and its area, including a few
 small adjacent islands, 4460 sq. m. The soil is generally dry and stony,
 and the greater part of the surface is covered with forests, in which the
-logwood tree especially abounds. The hills, of which Maras in the north is
+logwood tree especially abounds. The hills, of which [[Mara|Maras]] in the north is
 the highest (2760 ft.), are covered with vegetation to their summits.
-Geologically, Banka resembles the Malay Peninsula, its formations being
+Geologically, Banka resembles the [[Malay Peninsula]], its formations being
 mainly granite, Silurian and Devonian slate, frequently covered with
-sandstone, laterite (red ironstone clay) of small fertility, and alluvium.
+sandstone, [[Laterite|laterite]] (red ironstone clay) of small fertility, and alluvium.
 The granite extends from W.N.W. to S.S.E., forming the short, irregular
 hill-chains. As these lie generally near the east coast, it follows that
 the rivers of the west coast are the longer. There are no volcanoes. The
@@ -31,7 +31,7 @@ great importance to the tin-streaming industry. The total population of the
 island (1905) is 115,189, including 40,000 Chinese and 70,000 natives.
 These last are mainly composed of immigrant Malayan peoples. The aborigines
 are represented by a few rude hill-tribes, who resemble in physique the
-Battas of Sumatra. Rice, pepper, gambier, coffee and palms are cultivated,
+Battas of Sumatra. Rice, pepper, [[Gambier|gambier]], coffee and palms are cultivated,
 and fishing and the collection of forest produce are further industries,
 but none of these is of importance. The chief town is Muntok at the north
 end of Banka Strait.

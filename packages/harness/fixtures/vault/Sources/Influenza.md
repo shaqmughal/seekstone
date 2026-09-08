@@ -6,7 +6,7 @@ catarrh of the respiratory passages and alimentary canal, and occurring
 mostly as an epidemic. The Italians in the 17th century ascribed it to
 the influence of the stars, and hence the name "influenza." The French
 name _grippe_ came into use in 1743, and those of _petite poste_ and
-_petit courier_ in 1762, while _général_ became another synonym in 1780.
+_petit [[Courier|courier]]_ in 1762, while _général_ became another synonym in 1780.
 Apparently the scourge was common; in 1403 and 1557 the sittings of the
 Paris law courts had to be suspended through it, and in 1427 sermons had
 to be abandoned through the coughing and sneezing; in 1510 masses could
@@ -51,11 +51,11 @@ cholera. This fact, which had been forgotten by some since 1847 and
 never learnt by others, was brought home forcibly to all by the
 visitation of 1889.
 
-According to the exhaustive report drawn up by Dr H. Franklin Parsons
-for the Local Government Board, the earliest appearances were observed
+According to the exhaustive report drawn up by Dr H. [[Franklin]] Parsons
+for the [[Local Government Board]], the earliest appearances were observed
 in May 1889, and three localities are mentioned as affected at the same
-time, all widely separated from each other--namely, Bokhara in Central
-Asia, Athabasca in the north-west Territories of Canada and Greenland.
+time, all widely separated from each other--namely, [[Bokhara]] in Central
+Asia, [[Athabasca]] in the north-west Territories of Canada and Greenland.
 About the middle of October it was reported at Tomsk in Siberia, and by
 the end of the month at St Petersburg. During November Russia became
 generally affected, and cases were noticed in Paris, Berlin, Vienna,
@@ -76,23 +76,23 @@ Switzerland, Austria-Hungary, Italy, Spain and Portugal; but in Russia,
 Scandinavia and France it was already declining. The period of greatest
 activity in Europe was the latter half of December and the earlier half
 of January, with the change of the year for a central point. Other parts
-of the world affected in January 1890 were Cape Town, Canada, the United
-States generally, Algiers, Tunis, Cairo, Corsica, Sardinia, Sicily,
+of the world affected in January 1890 were [[Cape Town]], Canada, the United
+States generally, Algiers, Tunis, Cairo, [[Corsica]], Sardinia, Sicily,
 Honolulu, Mexico, the West Indies and Montevideo. In February the
 provincial towns of England were most severely affected, the death-rate
 rising to 27.4, but in London it fell from 28.1 to 21.2, and for Europe
 generally the back of the epidemic was broken. At the same time,
-however, it appeared in Ceylon, Penang, Japan, Hong Kong and India; also
+however, it appeared in Ceylon, Penang, [[Japan]], Hong Kong and India; also
 in West Africa, attacking Sierra Leone, and Gambia in the middle of the
 month; and finally in the west, where Newfoundland and Buenos Aires were
 invaded. In March influenza became widely epidemic in India,
-particularly in Bengal and Bombay, and made its appearance in Australia
+particularly in [[Bengal]] and Bombay, and made its appearance in [[Australia]]
 and New Zealand. In April and May it was epidemic all over Australasia,
-in Central America, Brazil, Peru, Arabia and Burma. During the summer
-and autumn it reached a number of isolated islands, such as Iceland, St
-Helena, Mauritius and Réunion. Towards the close of the year it was
+in [[Central America]], Brazil, Peru, Arabia and [[Burma]]. During the summer
+and autumn it reached a number of isolated islands, such as [[Iceland]], St
+Helena, [[Mauritius]] and Réunion. Towards the close of the year it was
 reported from Yunnan in the interior of China, from the Shiré Highlands
-in Central Africa, Shoa in Abyssinia, and Gilgit in Kashmir. In the
+in Central Africa, Shoa in Abyssinia, and [[Gilgit]] in Kashmir. In the
 course of fifteen months, beginning with its undoubted appearance in
 Siberia in October 1889, it had traversed the entire globe.
 
@@ -101,10 +101,10 @@ have suffered severely for more than a month or six weeks. Thus in
 Europe and North America generally the visitation had come to an end in
 the first quarter of 1890. The earliest signs of an epidemic revival on
 a large scale occurred in March 1891, in the United States and the north
-of England. It was reported from Chicago and other large towns in the
+of England. It was reported from [[Chicago]] and other large towns in the
 central states, whence it spread eastwards, reaching New York about the
 end of March. In England it began in the Yorkshire towns, particularly
-in Hull, and also independently in South Wales. In London influenza
+in [[Hull]], and also independently in South Wales. In London influenza
 became epidemic for the second time about the end of April, and soon
 afterwards was widely distributed in England and Wales. The large towns
 in the north, together with London and Wales, suffered much more heavily
@@ -118,7 +118,7 @@ In 1890 the attack, contrary to general experience, had been undecided,
 lingering and mild; in 1891 it was very sudden and extremely severe, the
 death-rate rising to 73.4 during the month of April, and subsiding with
 equal rapidity. During the third quarter of the year, while Europe was
-free, the antipodes had their second attack, which was more severe than
+free, the [[Antipodes|antipodes]] had their second attack, which was more severe than
 the first. As in England, it reversed the previous order of things,
 beginning in the provinces and spreading thence to the capital towns.
 The last quarter of the year was signalized by another recrudescence in
@@ -254,7 +254,7 @@ Hospital in the two months' winter epidemic of 1890 was 1279; in the far
 more fatal three months' spring epidemic of 1891 it was only 726. One
 explanation of this discrepancy between the incidence of sickness and
 mortality is that in the second attack, which was more protracted and
-more insidious, the stress of the disease fell more upon the lungs.
+more insidious, the stress of the disease fell more upon the [[Lung|lungs]].
 Another is that its comparative mildness, combined with the time of
 year, in itself proved dangerous, because it tempted people to disregard
 the illness, whereas in the first epidemic they were too ill to resist.
@@ -263,12 +263,12 @@ small towns a higher one than large ones in both years. This is
 explained by the age distribution in such localities; influenza being
 particularly fatal to aged people, though no age is exempt. Certain
 counties were much more severely affected than others. The eastern
-counties, namely, Essex, Suffolk and Norfolk, together with Hampshire
+counties, namely, [[Essex]], Suffolk and Norfolk, together with [[Hampshire]]
 and one or two others, escaped lightly in both years; the western
 counties, namely, North and South Wales, with the adjoining counties of
 Monmouth, Hereford and Shropshire, suffered heavily in both years.
 
-It will be convenient to discuss _seriatim_ the various points of
+It will be convenient to [[Discus|discuss]] _seriatim_ the various points of
 interest on which light has been thrown by the experience described
 above.
 
@@ -279,16 +279,16 @@ A writer, who saw the epidemic break out in Bokhara, is quoted by him to
 the following effect:--"The summer of 1888 was exceptionally hot and
 dry, and was followed by a bitterly cold winter and a rainy spring. The
 dried-up earth was full of cracks and holes from drought and subsequent
-frost, so that the spring rains formed ponds in these holes, inundated
+[[Frost|frost]], so that the spring rains formed ponds in these holes, inundated
 the new railway cuttings, and turned the country into a perfect marsh.
 When the hot weather set in the water gave off poisonous exhalations,
 rendering malaria general." On account of the severe winter, the people
 were enfeebled from lack of nourishment, and when influenza broke out
 suddenly they died in large numbers. Europeans were very severely
 affected. Russians, hurrying home, carried the disease westwards, and
-caravans passing eastwards took it into Siberia. There is a striking
+[[Caravan|caravans]] passing eastwards took it into Siberia. There is a striking
 similarity in the conditions described to those observed in connexion
-with outbreaks of other diseases, particularly typhoid fever and
+with outbreaks of other diseases, particularly typhoid [[Fever|fever]] and
 diphtheria, which have occurred on the supervention of heavy rain after
 a dry period, causing cracks and fissures in the earth. Assuming the
 existence of a living poison in the ground, we can easily understand
@@ -305,7 +305,7 @@ centre for influenza or not there is no evidence, but the disease seems
 to be more often prevalent in the Russian Empire than elsewhere.
 Extensive outbreaks occurred there in 1886 and 1887, and it is certain
 that the 1889 wave was active in Siberia at an earlier date than in
-Europe, and that it moved eastwards. The hypothesis that it originated
+Europe, and that it moved eastwards. The [[Hypothesis|hypothesis]] that it originated
 in China is unsupported by evidence. But whatever may be the truth with
 regard to origin, the dissemination of influenza by human agency must be
 held to be proved. This is the most important addition to our knowledge
@@ -324,7 +324,7 @@ perhaps entirely, by human intercourse."
   never commenced suddenly with a large number of cases in a place
   previously free from disease, but that epidemic manifestations were
   generally preceded for some days or weeks by scattered cases; that
-  conveyance of infection by individuals and its introduction into fresh
+  [[Conveyance|conveyance]] of infection by individuals and its introduction into fresh
   places had been observed in many instances; that persons brought much
   into contact with others were generally the first to suffer; that
   persons brought together in large numbers in enclosed spaces suffered
@@ -336,7 +336,7 @@ These conclusions, based upon the 1889-1890 epidemic, have been
 confirmed by subsequent experience, especially in regard to the complete
 independence of season and weather shown by influenza. It has appeared
 and disappeared at all seasons and in all weathers and only popular
-ignorance continues to ascribe its behaviour to atmospheric conditions.
+[[Ignorance|ignorance]] continues to ascribe its behaviour to atmospheric conditions.
 In Europe, however, it has prevailed more often in winter than in
 summer, which may be due to the greater susceptibility of persons in
 winter, or, more probably, to the fact that they congregate more in
@@ -387,11 +387,11 @@ have been attacked in the 1889-1890 epidemic in different localities:--
   | St Petersburg       |   50    | Portugal            |   90    |
   | Berlin              |   33    | Vienna              |  30-40  |
   | Nuremberg           |   67    | Belgrade            |   33    |
-  | Grand-Duchy of Hesse|  25-30  | Antwerp             |   33    |
-  | Grand-Duchy, other  |         | Gaeta               |  50-77  |
+  | Grand-Duchy of [[Hesse]]|  25-30  | [[Antwerp]]             |   33    |
+  | Grand-Duchy, other  |         | [[Gaeta]]               |  50-77  |
   |   Districts         |  50-75  | Massachusetts       |   39    |
   | Heligoland          |   50    | Peking              |   50    |
-  | Budapest            |   50    | St Louis (Mauritius)|   67    |
+  | [[Budapest]]            |   50    | St Louis (Mauritius)|   67    |
   +---------------------+---------+---------------------+---------+
 
 In and about London he reckoned roughly from a number of returns that
@@ -411,10 +411,10 @@ The symptoms were thus described by Dr Bruce Low from observations made
 in St Thomas's Hospital, London, in January 1890:--
 
   The invasion is sudden; the patients can generally tell the time when
-  they developed the disease; e.g. acute pains in the back and loins
+  they developed the disease; e.g. acute pains in the back and [[Loin|loins]]
   came on quite suddenly while they were at work or walking in the
-  street, or in the case of a medical student, while playing cards,
-  rendering him unable to continue the game. A workman wheeling a barrow
+  street, or in the case of a medical student, while playing [[Cards|cards]],
+  rendering him unable to continue the [[Game|game]]. A workman wheeling a barrow
   had to put it down and leave it; and an omnibus driver was unable to
   pull up his horses. This sudden onset is often accompanied by vertigo
   and nausea, and sometimes actual vomiting of bilious matter. There are
@@ -423,11 +423,11 @@ in St Thomas's Hospital, London, in January 1890:--
   slightest movement of the eyes; shivering; general feeling of misery
   and weakness, and great depression of spirits, many patients, both men
   and women, giving way to weeping; nervous restlessness; inability to
-  sleep, and occasionally delirium. In some cases catarrhal symptoms
+  sleep, and occasionally [[Delirium|delirium]]. In some cases catarrhal symptoms
   develop, such as running at the eyes, which are sometimes injected on
   the second day; sneezing and sore throat; and epistaxis, swelling of
   the parotid and submaxillary glands, tonsilitis, and spitting of
-  bright blood from the pharynx may occur. There is a hard, dry cough of
+  [[Bright|bright]] blood from the pharynx may occur. There is a hard, dry cough of
   a paroxysmal kind, worst at night. There is often tenderness of the
   spleen, which is almost always found enlarged, and this persists after
   the acute symptoms have passed. The temperature is high at the onset
@@ -440,9 +440,9 @@ the same epidemic:--
   The chief symptoms of influenza are, coldness along the back, with
   shivering, which may continue off and on for two or three days; severe
   pain in the head and eyes, often with tenderness in the eyes and pain
-  in moving them; pains in the ears; pains in the small of the back;
+  in moving them; pains in the [[Ear|ears]]; pains in the small of the back;
   pains in the limbs, for the most part in the fleshy portions, but also
-  in the bones and joints, and even in the fingers and toes; and febrile
+  in the [[Bone|bones]] and [[Joints|joints]], and even in the [[Finger|fingers]] and toes; and febrile
   temperature, which may in the early period rise to 104° or 105° F. At
   the same time the patient feels excessively ill and prostrate, is apt
   to suffer from nausea or sickness and diarrhoea, and is for the most
@@ -453,7 +453,7 @@ the same epidemic:--
   have it so mildly that, although feeling very ill, he is able to go
   about his ordinary work. In some cases the patients have additionally
   some dryness or soreness of the throat, or some stiffness and
-  discharge from the nose, which may be accompanied by slight bleeding.
+  [[Discharge|discharge]] from the nose, which may be accompanied by slight bleeding.
   And in some cases, for the most part in the course of a few days, and
   at a time when the patient seems to be convalescent, he begins to
   suffer from wheezing in the chest, cough, and perhaps a little
@@ -481,8 +481,8 @@ the suicides increased 25%, a large proportion of the excess being
 attributed to nervous prostration caused by the disease. Dr Rawes,
 medical superintendent of St Luke's hospital, says that of insanities
 traceable to influenza melancholia is twice as frequent as all other
-forms of insanity put together. Other common after-effects are
-neuralgia, dyspepsia, insomnia, weakness or loss of the special senses,
+forms of [[Insanity|insanity]] put together. Other common after-effects are
+neuralgia, [[Dyspepsia|dyspepsia]], [[Insomnia|insomnia]], weakness or loss of the special senses,
 particularly taste and smell, abdominal pains, sore throat, rheumatism
 and muscular weakness. The feature most dangerous to life is the special
 liability of patients to inflammation of the lungs. This affection must
@@ -509,7 +509,7 @@ following precautions wherever they can be carried out:--
   important in the case of first attacks in a locality or a household.
 
   2. The sputa of the sick should, especially in the acute stage of the
-  disease, be received into vessels containing disinfectants. Infected
+  disease, be received into vessels containing [[Disinfectants|disinfectants]]. Infected
   articles and rooms should be cleansed and disinfected.
 
   3. When influenza threatens, unnecessary assemblages of persons should
@@ -545,14 +545,14 @@ or mistress suffered while the servants were all down with influenza."
 The liability to contract influenza, and the danger of an attack if
 contracted, are increased by depressing conditions, such as exposure to
 cold and to fatigue, whether mental or physical. Attention should,
-therefore, be paid to all measures tending to the maintenance of health.
+therefore, be paid to all measures tending to the [[Maintenance|maintenance]] of health.
 Persons who are attacked by influenza should at once seek rest, warmth
 and medical treatment, and they should bear in mind that the risk of
 relapse, with serious complications, constitutes a chief danger of the
 disease.
 
   In addition to the ordinary text-books, see the series of articles by
-  experts on different aspects in _The Practitioner_ (London) for
+  [[Expert|experts]] on different aspects in _The Practitioner_ (London) for
   January 1907.
 
 
@@ -562,10 +562,10 @@ IN FORMÂ PAUPERIS (Latin, "in the character of pauper"), the legal
 phrase for a method of bringing or defending a case in court on the part
 of persons without means. By an English statute of 1495 (11 Hen. VII. c.
 12), any poor person having cause of action was entitled to have a writ
-according to the nature of the case, without paying the fees thereon.
+according to the nature of the case, without paying the [[Fee|fees]] thereon.
 The statute of 1495 was repealed by the Statute Law Revision and Civil
 Procedure Act 1883, but its provisions, as well as the chancery
-practice were incorporated into one code and embodied in the rules of
+practice were incorporated into one [[Code|code]] and embodied in the rules of
 the Supreme Court (O. xvi. rr. 22-31). Now any person may be admitted to
 sue as a pauper, on proof that he is not worth £25, his wearing apparel
 and the subject matter of the cause or matter excepted. He must lay his
@@ -580,7 +580,7 @@ defend as a pauper, counsel and solicitor may be assigned to him, and
 such counsel and solicitor are not at liberty to refuse assistance
 unless there is some good reason for refusing. If any person admitted to
 sue or defend as a pauper agrees to pay fees to any person for the
-conduct of his business he will be dispaupered. Costs ordered to be paid
+conduct of his business he will be dispaupered. [[Costs]] ordered to be paid
 to a pauper are taxed as in other cases. Appeals to the House of Lords
 _in formâ pauperis_ were regulated by the Appeal (Formâ Pauperis) Act
 1893, which gave the House of Lords power to refuse a petition for leave

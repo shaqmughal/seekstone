@@ -6,7 +6,7 @@ topic: music
 
 # Kiustendil
 
-KIUSTENDIL, the chief town of a department in Bulgaria, situated in a
+KIUSTENDIL, the chief town of a department in [[Bulgaria]], situated in a
 mountainous country, on a small affluent of the Struma, 43 m. S.W. of
 Sofia by rail. Pop. (1906), 12,353. The streets are narrow and uneven,
 and the majority of the houses are of clay or wood. The town is chiefly

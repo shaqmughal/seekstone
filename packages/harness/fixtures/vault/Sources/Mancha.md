@@ -14,7 +14,7 @@ of Toledo and the western spurs of the hills of Cuenca, being bounded on
 the S. by the Sierra Morena and on the N. by the Alcarria region. It
 thus comprises portions of the modern provinces of Toledo, Albacete and
 Cuenca, and the greater part of Ciudad Real. Down to the 16th century
-the eastern portion was known as La Mancha de Montearagon or de Aragon,
+the eastern portion was known as La Mancha de Montearagon or de [[Aragon]],
 and the western simply as La Mancha; afterwards the north-eastern and
 south-western sections respectively were distinguished by the epithets
 _Alta_ and _Baja_ (upper and lower). La Mancha is famous as the scene of

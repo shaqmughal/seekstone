@@ -22,7 +22,7 @@ that mind cannot bridge over the chasm so far as to _know_ matter _in
 itself_, though it is compelled by its own laws of cause and effect to
 postulate matter as the origin, if not the motive cause, of its
 sensations. It follows that, for the thinking mind, matter is a
-necessary hypothesis. Hence the theory is a kind of monism, inasmuch as
+necessary [[Hypothesis|hypothesis]]. Hence the theory is a kind of monism, inasmuch as
 it confessedly does not assert the existence of matter save as an
 intellectual postulate for the thinking mind. Matter, in other words,
 must be assumed to exist, though mind cannot know it _in itself_. From
@@ -41,7 +41,7 @@ impressions of the senses. It contains within itself this modifying
 critical faculty which reacts upon and arranges the sense-given
 presentations.
 
-_In Ethics and Theology._--In the domain of morals, dualism postulates
+_In [[Ethics]] and Theology._--In the domain of morals, dualism postulates
 the separate existence of Good and Evil, as principles of existence. In
 theology the appearance of dualism is sporadic and has not the
 fundamental, determining importance which it has in metaphysics. It is a
@@ -58,7 +58,7 @@ Akarana, i.e. limitless time, wherein both will be finally absorbed. The
 postulate of an Evil Being arises from the difficulty, at all times
 acutely felt by a certain type of mind, of reconciling the existence of
 evil with the divine attributes of perfect goodness, full knowledge and
-infinite power. John Stuart Mill (_Essay on Religion_) preferred to
+[[Infinite|infinite]] power. John Stuart Mill (_Essay on Religion_) preferred to
 disbelieve in the omnipotence of God rather than forgo the belief in His
 goodness. It follows from such a view that Satan is not the creation of
 God, but rather a power coeval in origin, over whose activity God has no
@@ -85,7 +85,7 @@ Ideas alone really exist, he yet found it necessary to postulate a
 second principle of not-being, the groundwork of sensuous existence and
 of imperfection and evil. Herein he identified metaphysics and ethics,
 combining the good with the truly existent and evil with the
-non-existent. Aristotle rebels against this conception and substitutes
+non-existent. [[Aristotle]] rebels against this conception and substitutes
 the idea of [Greek: prôtê hylê] and development. Nevertheless he does
 not escape from the dualism of Form and Matter, [Greek: nous] and
 [Greek: hylê]. The scholastic philosophers naturally held dualistic
@@ -103,7 +103,7 @@ the absolute dualism of the _res cogitans_ and the _res extensa_.
 Spinoza realized the flaw in the division and preferred to postulate
 behind mind and matter a single substance (_unica substantia_) while
 Leibnitz explained the universe as a harmony of spiritual or
-semispiritual principles. Kant practically abandons the problem. He
+semispiritual principles. [[Kant]] practically abandons the problem. He
 never really establishes a relation between pure reason and
 things-in-themselves (_Dinge an sich_), but rather seeks refuge in a
 dualism within consciousness, the transcendental and the empirical.
@@ -114,7 +114,7 @@ elements within consciousness. To the first problem there is one obvious
 and conclusive answer, namely that matter in itself is inherently
 unthinkable and comes within the vision of the mind only as an
 intellectual presentation. It follows that philosophy is in a sense both
-dualist and monist; it is a cosmic dualism inasmuch as it admits the
+dualist and monist; it is a [[Cosmic|cosmic]] dualism inasmuch as it admits the
 possible existence of matter as a hypothesis, though it denies the
 possibility of any true knowledge of it, and is hence in regard of the
 only possible knowledge an idealistic monism. It is a self-destructive

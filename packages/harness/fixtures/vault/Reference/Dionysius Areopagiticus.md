@@ -9,9 +9,9 @@ tags: [shipbuilding-studies, metallurgy-studies]
 
 DIONYSIUS AREOPAGITICUS (or "the Areopagite"), named in Acts xvii. 34 as
 one of those Athenians who believed when they had heard Paul preach on
-Mars Hill. Beyond this mention our only knowledge of him is the
-statement of Dionysius, bishop of Corinth (fl. A.D. 171), recorded by
-Eusebius (_Church Hist._ iii. 4; iv. 23), that this same Dionysius the
+[[Mars]] Hill. Beyond this mention our only knowledge of him is the
+statement of [[Dionysius]], bishop of [[Corinth]] (fl. A.D. 171), recorded by
+[[Eusebius]] (_Church Hist._ iii. 4; iv. 23), that this same Dionysius the
 Areopagite was the first "bishop" of Athens. Some hundreds of years
 after the Areopagite's death, his name was attached by the
 Pseudo-Areopagite to certain theological writings composed by the
@@ -20,10 +20,10 @@ thought, and their fame led to the extension of the personal legend of
 the real Dionysius. Hilduin, abbot of St Denys (814-840), identified him
 with St Denys, martyr and patron-saint of France. In Hilduin's
 _Areopagitica_, the Life and Passion of the most holy Dionysius (Migne,
-_ Patrol. Lat._ tome 106), the Areopagite is sent to France by Clement
+_ Patrol. Lat._ tome 106), the Areopagite is sent to France by [[Clement]]
 of Rome, and suffers martyrdom upon the hill where the monastery called
 St Denys was to rise in his honour. There is no earlier trace of this
-identification, and Gregory of Tours (d. 594) says (_Hist. Francorum_,
+[[Identification|identification]], and Gregory of Tours (d. 594) says (_Hist. Francorum_,
 i. 18) that St Denys came to France in the reign of Decius (A.D. 250),
 which falls about midway between the presumptive death of the real
 Areopagite and the probable date of the writings to which he owed his
@@ -33,7 +33,7 @@ Traces of the influence of these writings appear in the works of Eastern
 theologians in the early part of the 6th century. They also were cited
 at the council held in Constantinople in 533, which is the first certain
 dated reference to them. In the West, Gregory the Great (d. 604) refers
-to them in his thirty-fourth sermon on the gospels (Migne, _Pat. Lat._
+to them in his thirty-fourth sermon on the [[Gospel|gospels]] (Migne, _Pat. Lat._
 tome 76, col. 1254). They did not, however, become generally known in
 the Western church till after the year 827, when the Byzantine emperor
 Michael the Stammerer sent a copy to Louis the Pious. It was given over
@@ -71,9 +71,9 @@ time,--lofty, apparently complete, comparable to the _Enneads_ of
 Plotinus which formed part of its materials. But its materials abounded
 everywhere, and offered themselves temptingly to the hand strong enough
 to build with them. There was what had entered into Neo-platonism, both
-in its dialectic form as established by Plotinus, and in its
-magic-mystic modes devised by Iamblichus (d. c. 333). There was Jewish
-angel lore and Eastern mood and fancy; and there was Christianity so
+in its [[Dialectic|dialectic]] form as established by Plotinus, and in its
+magic-mystic modes devised by [[Iamblichus]] (d. c. 333). There was Jewish
+angel [[Lore|lore]] and Eastern mood and [[Fancy|fancy]]; and there was Christianity so
 variously understood and heterogeneously constituted among Syro-Judaic
 Hellenic communities. Such Christianity held materials for formula and
 creed; also principles of liturgic and sacramental doctrine and priestly
@@ -96,19 +96,19 @@ orders of existence,--in part directly, and in part indirectly as power
 and guidance through the higher orders to the lower. Life, creation,
 every good gift, is from God directly; but his flaming ministers also
 intervene to guide and aid the life of man; and the life which through
-love floods forth from God has its counterflow whereby it draws its own
+love [[Flood|floods]] forth from God has its counterflow whereby it draws its own
 creations to itself. God is at once absolutely transcendent and
 universally immanent. To live is to be united with God; evil is the
 nonexistent, that is, severance from God. Whatever is, is part of the
 forth-flowing divine life which ever purifies, enlightens and perfects,
 and so draws all back to the Source.
 
-The transcendent Source, as well as the universal immanence, is the
+The transcendent Source, as well as the universal [[Immanence|immanence]], is the
 Triune God. Between that and men are ranged the three triads of the
 Celestial Hierarchy: Seraphim, Cherubim and Thrones; Dominations,
 Virtues, Powers; Principalities, Archangels, Angels. Collectively their
 general office is to raise mankind to God through purification,
-illumination and perfection; and to all may be applied the term angel.
+[[Illumination|illumination]] and perfection; and to all may be applied the term angel.
 The highest triad, which is nearest God, contemplates the divine
 effulgence, and reflects it onward to the second; the third, and more
 specifically angelic triad, immediately ministers to men. The sources of
@@ -122,7 +122,7 @@ Celestial Hierarchy_. That work is followed by _The Ecclesiastical
 Hierarchy_, its counterpart on earth. What the primal triune Godhead is
 to the former, Jesus is to the latter. The Ecclesiastical Hierarchy
 likewise is composed of Triads. The first includes the symbolic
-sacraments: Baptism, Communion, Consecration of the Holy Chrism. Baptism
+sacraments: Baptism, Communion, Consecration of the Holy [[Chrism]]. Baptism
 signifies purification; Communion signifies enlightening; the Holy
 Chrism signifies perfecting. The second triad is made up of the three
 orders of Bishops, Presbyters and Deacons, or rather, as the Areopagite
@@ -144,7 +144,7 @@ The works of Pseudo-Dionysius began to influence theological thought in
 the West from the time of their translation into Latin by Erigena. Their
 use may be followed through the writings of scholastic philosophers,
 e.g. Peter Lombard, Albertus Magnus, Thomas Aquinas and many others. In
-poetry we find their influence in Dante, Spenser, Milton. The fifteenth
+poetry we find their influence in [[Dante]], Spenser, Milton. The fifteenth
 chapter of _The Celestial Hierarchy_ constituted the canon of symbolical
 angelic lore for the literature and art of the middle ages. Therein the
 author explains in what respect theology ascribes to angels the
@@ -155,13 +155,13 @@ likeness to God. Dionysius explains the significance of the parts of the
 human body when given to celestial beings: feet are ascribed to angels
 to denote their unceasing movement on the divine business, and their
 feet are winged to denote their celerity. He likewise explains the
-symbolism of wands and axes, of brass and precious stones, when joined
+symbolism of wands and axes, of [[Brass|brass]] and precious stones, when joined
 to celestial beings; and what wheels and a chariot denote when furnished
 to them,--and much more besides.
 
   BIBLIOGRAPHY.--There is an enormous literature on Pseudo-Dionysius.
   The reader may be first referred to the articles in Smith's
-  _Dictionary of Christian Biography_ and Hauck's _Realencyklopadie fur
+  _Dictionary of Christian Biography_ and Hauck's _Realencyklopadie [[Fur|fur]]
   protestantische Theologie_ (Leipzig, 1898). The bibliography in the
   latter is very full. Some other references, especially upon the later
   influence of these works, are given in H. O. Taylor's _Classical

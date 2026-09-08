@@ -3,7 +3,7 @@
 BUCHU, or BUKA LEAVES, the produce of several shrubby plants belonging to
 the genus Barosma (nat. order Rutaceae), natives of the Cape of Good Hope.
 The principal species, _B. crenulata_, has leaves of a smooth leathery
-texture, oblong-ovate in shape, from an inch to an inch and a half in
+texture, oblong-ovate in shape, from an [[Inch|inch]] to an inch and a half in
 length, with serrulate or crenulate margins, on which as well as on the
 under side are conspicuous oil-glands. The other species which yield buchu
 are _B. serratifolia_, having linear-lanceolate sharply serrulate leaves,

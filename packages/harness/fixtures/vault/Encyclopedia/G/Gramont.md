@@ -7,36 +7,36 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gramont"
 
 # Gramont
 
-GRAMONT, ANTOINE AGENOR ALFRED, DUC DE, DUC DE GUICHE, PRINCE DE BIDACHE
+GRAMONT, [[Antoine|ANTOINE]] AGENOR ALFRED, DUC DE, DUC DE GUICHE, PRINCE DE BIDACHE
 (1819-1880), French diplomatist and statesman, was born at Paris on the
 14th of August 1819, of one of the most illustrious families of the old
-_noblesse_, a cadet branch of the viscounts of Aure, which took its name
+_noblesse_, a [[Cadet|cadet]] branch of the viscounts of Aure, which took its name
 from the seigniory of Gramont in Navarre. His grandfather, Antoine Louis
 Marie, duc de Gramont (1755-1836), had emigrated during the Revolution,
 and his father, Antoine Heraclius Genevieve Agenor (1789-1855), duc de
-Gramont and de Guiche, fought under the British flag in the Peninsular
+Gramont and de Guiche, fought under the British [[Flag|flag]] in the Peninsular
 War, became a lieutenant-general in the French army in 1823, and in 1830
 accompanied Charles X. to Scotland. The younger generation, however,
-were Bonapartist in sympathy; Gramont's cousin Antoine Louis Raymond,
+were Bonapartist in sympathy; Gramont's [[Cousin|cousin]] Antoine Louis Raymond,
 comte de Gramont (1787-1825), though also the son of an _emigre_, served
 with distinction in Napoleon's armies, while Antoine Agenor, duc de
 Gramont, owed his career to his early friendship for Louis Napoleon.
 
 Educated at the Ecole Polytechnique, Gramont early gave up the army for
-diplomacy. It was not, however, till after the _coup d'etat_ of the 2nd
+[[Diplomacy|diplomacy]]. It was not, however, till after the _coup d'etat_ of the 2nd
 of December 1851, which made Louis Napoleon supreme in France, that he
 became conspicuous as a diplomat. He was successively minister
-plenipotentiary at Cassel and Stuttgart (1852), at Turin (1853),
+plenipotentiary at [[Cassel]] and Stuttgart (1852), at Turin (1853),
 ambassador at Rome (1857) and at Vienna (1861). On the 15th of May 1870
-he was appointed minister of foreign affairs in the Ollivier cabinet,
+he was appointed minister of foreign affairs in the Ollivier [[Cabinet|cabinet]],
 and was thus largely, though not entirely, responsible for the bungling
 of the negotiations between France and Prussia arising out of the
-candidature of Prince Leopold of Hohenzollern for the throne of Spain,
+candidature of Prince [[Leopold]] of Hohenzollern for the throne of Spain,
 which led to the disastrous war of 1870-71. The exact share of Gramont
 in this responsibility has been the subject of much controversy. The
 last word may be said to have been uttered by M. Emile Ollivier himself
 in his _L'Empire liberal_ (tome xii., 1909, _passim_). The famous
-declaration read by Gramont in the Chamber on the 6th of July, the
+[[Declaration|declaration]] read by Gramont in the Chamber on the 6th of July, the
 "threat with the hand on the sword-hilt," as Bismarck called it, was the
 joint work of the whole cabinet; the original draft presented by Gramont
 was judged to be too "elliptical" in its conclusion and not sufficiently
@@ -59,11 +59,11 @@ renunciation of the candidature made, on behalf of his son, by the
 prince of Hohenzollern-Sigmaringen. It was Gramont who pointed out to
 the emperor, on the evening of the 12th, the dubious circumstances of
 the act of renunciation, and on the same night, without informing M.
-Ollivier, despatched to Benedetti at Ems the fatal telegram demanding
+Ollivier, despatched to [[Benedetti]] at [[Ems]] the fatal telegram demanding
 the king of Prussia's guarantee that the candidature would not be
 revived. The supreme responsibility for this act must rest with the
 emperor, "who imposed it by an exercise of personal power on the only
-one of his ministers who could have lent himself to such a forgetfulness
+one of his ministers who could have [[Lent|lent]] himself to such a forgetfulness
 of the safeguards of a parliamentary regime." As for Gramont, he had "no
 conception of the exigencies of this regime; he remained an ambassador
 accustomed to obey the orders of his sovereign; in all good faith he had
@@ -71,7 +71,7 @@ no idea that this was not correct, and that, himself a parliamentary
 minister, he had associated himself with an act destructive of the
 authority of parliament."[1] "On his part," adds M. Ollivier, "it was
 the result only of obedience, not of warlike premeditation" (_op. cit._
-p. 262). The apology may be taken for what it is worth. To France and to
+p. 262). The [[Apology|apology]] may be taken for what it is worth. To France and to
 the world Gramont was responsible for the policy which put his country
 definitely into the wrong in the eyes of Europe, and enabled Bismarck to
 administer to her the "slap in the face" (_soufflet_)--as Gramont called
@@ -90,13 +90,13 @@ notably _La France et la Prusse avant la guerre_ (Paris, 1872).
   Secret de l'empereur, correspondance ... echangee entre M. Thouvenel,
   le duc de Gramont, et le general comte de Flahaut 1860-1863_ (2nd ed.,
   2 vols., 1889). A small pamphlet containing his _Souvenirs 1848-1850_
-  was published in 1901 by his brother Antoine Leon Philibert Auguste de
+  was published in 1901 by his brother Antoine [[Leon]] Philibert Auguste de
   Gramont, duc de Lesparre.
 
 
 FOOTNOTE:
 
-  [1] Compare with this Bismarck's remarks to Hohenlohe (Hohenlohe,
+  [1] Compare with this Bismarck's remarks to [[Hohenlohe]] (Hohenlohe,
     _Denkwurdigkeiten_, ii. 71): "When Gramont was made minister,
     Bismarck said to Benedetti that this indicated that the emperor was
     meditating something evil, otherwise he would not have made so stupid

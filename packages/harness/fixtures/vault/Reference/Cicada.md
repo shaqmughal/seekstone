@@ -1,20 +1,20 @@
 # Cicada
 
-CICADA (_Cicadidae_), insects of the homopterous division of the
-Hemiptera, generally of large size, with the femora of the anterior legs
+CICADA (_Cicadidae_), [[Insect|insects]] of the homopterous division of the
+[[Hemiptera]], generally of large size, with the femora of the anterior [[Leg|legs]]
 toothed below, two pairs of large clear wings, and prominent compound
 eyes. Cicadas are chiefly remarkable for the shrill song of the males,
-which in some cases may be heard in concert at a distance of a quarter
+which in some cases may be heard in [[Concert|concert]] at a distance of a quarter
 of a mile or more. The vocal organs, of which there is a pair in the
 thorax, protected by an opercular plate, are quite unlike the sounding
 organs of other insects. Each consists in essence of a tightly stretched
-membrane or drum which is thrown into a state of rapid vibration by a
+membrane or [[Drum|drum]] which is thrown into a state of rapid vibration by a
 powerful muscle attached to its inner surface and passing thence
 downwards to the floor of the thoracic cavity. Although no auditory
 organs have been found in the females, the song of the males is believed
 to serve as a sexual call. Cicadas are also noteworthy for their
-longevity, which so far as is known surpasses that of all other insects.
-By means of a saw-like ovipositor the female lays her eggs in the
+[[Longevity|longevity]], which so far as is known surpasses that of all other insects.
+By means of a saw-like ovipositor the female lays her [[Egg|eggs]] in the
 branches of trees. Upon hatching, the young, which differ from the adult
 in possessing long antennae and a pair of powerful fossorial anterior
 legs, fall to the ground, burrow below the surface, and spend a

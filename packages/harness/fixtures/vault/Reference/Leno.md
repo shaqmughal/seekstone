@@ -5,11 +5,11 @@ comedian, who was born at Somers Town, London, in February 1861. His
 parents were actors, known as Mr and Mrs Johnny Wilde. Dan Leno was
 trained to be an acrobat, but soon became a dancer, travelling with his
 brother as "the brothers Leno," and winning the world's championship in
-clog-dancing at Leeds in 1880. Shortly afterwards he appeared in London
+clog-dancing at [[Leeds]] in 1880. Shortly afterwards he appeared in London
 at the Oxford, and in 1886-1887 at the Surrey Theatre. In 1888-1889 he
-was engaged by Sir Augustus Harris to play the Baroness in the _Babes in
-the Wood_, and from that time he was a principal figure in the Drury
-Lane pantomimes. He was the wittiest and most popular comedian of his
+was engaged by Sir Augustus [[Harris]] to play the Baroness in the _Babes in
+the Wood_, and from that time he was a principal figure in the [[Drury]]
+[[Lane]] pantomimes. He was the wittiest and most popular comedian of his
 day, and delighted London music-hall audiences by his shop-walker,
 stores-proprietor, waiter, doctor, beef-eater, bathing attendant, "Mrs
 Kelly," and other impersonations. In 1900 he engaged to give his entire

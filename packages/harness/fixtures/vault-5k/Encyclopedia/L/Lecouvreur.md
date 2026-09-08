@@ -7,7 +7,7 @@ topic: exploration
 # Lecouvreur
 
 LECOUVREUR, ADRIENNE (1692-1730), French actress, was born on the 5th of
-April 1692, at Damery, Marne, the daughter of a hatter, Robert Couvreur.
+April 1692, at Damery, [[Marne]], the daughter of a hatter, Robert Couvreur.
 She had an unhappy childhood in Paris. She showed a natural talent for
 declamation and was instructed by La Grand, _sociétaire_ of the Comédie
 Française, and with his help she obtained a provincial engagement. It
@@ -23,13 +23,13 @@ elocution of her predecessors for a naturalness of delivery and a
 touching simplicity of pathos that delighted and moved her public. In
 Baron, who returned to the stage at the age of sixty-seven, she had an
 able and powerful coadjutor in changing the stage traditions of
-generations. The jealousy she aroused was partly due to her social
+generations. The [[Jealousy|jealousy]] she aroused was partly due to her social
 successes, which were many, in spite of the notorious freedom of her
 manner of life. She was on visiting and dining terms with half the
 court, and her _salon_ was frequented by Voltaire and all the other
-notables and men of letters. She was the mistress of Maurice de Saxe
+notables and men of letters. She was the mistress of [[Maurice]] de Saxe
 from 1721, and sold her plate and jewels to supply him with funds for
-his ill-starred adventures as duke of Courland. By him she had a
+his ill-starred adventures as duke of [[Courland]]. By him she had a
 daughter, her third, who was grandmother of the father of George Sand.
 Adrienne Lecouvreur died on the 20th of March 1730. She was denied the
 last rites of the Church, and her remains were refused burial in

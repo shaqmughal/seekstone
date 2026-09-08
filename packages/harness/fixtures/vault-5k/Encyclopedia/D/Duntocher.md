@@ -7,8 +7,8 @@ topic: literature
 # Duntocher
 
 DUNTOCHER (Gaelic, "The Fort of ill hap"), a town on Dalmuir Burn,
-Dumbartonshire, Scotland, 9 m. from Glasgow. Pop. (1901) 2122. The
-district contains coal, limestone and ironstone, but there is not much
+Dumbartonshire, Scotland, 9 m. from [[Glasgow]]. Pop. (1901) 2122. The
+district contains coal, [[Limestone|limestone]] and ironstone, but there is not much
 mining. Many of the inhabitants are employed at the Singer factory in
 Kilbowie and at the Clyde Trust yards in Dalmuir. There are considerable
 Roman remains in the neighbourhood. Antoninus' Wall passed immediately

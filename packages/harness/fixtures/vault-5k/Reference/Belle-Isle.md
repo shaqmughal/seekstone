@@ -13,11 +13,11 @@ When the duke of Bourbon became prime minister, Belle-Isle was
 imprisoned in the Bastille, and then relegated to his estates, but with
 the advent of Cardinal Fleury to power he regained some measure of
 favour and was made a lieutenant-general. In the War of the Polish
-Succession he commanded a corps under the orders of Marshal Berwick,
+Succession he commanded a corps under the orders of Marshal [[Berwick]],
 captured Trier and Trarbach and took part in the siege of Philippsburg
 (1734). When peace was made in 1736 the king, in recognition both of his
 military services and of the part he had taken in the negotiations for
-the cession of Lorraine, gave him the government of the three important
+the cession of [[Lorraine]], gave him the government of the three important
 fortresses of Metz, Toul and Verdun--an office which he kept till his
 death. His military and political reputation was now at its height, and
 he was one of the principal advisers of the government in military and
@@ -25,7 +25,7 @@ diplomatic affairs. In 1741 he was sent to Germany as French
 plenipotentiary to carry out, in the interests of France, a grand scheme
 of political reorganization in the moribund empire, and especially to
 obtain the election of Charles, elector of Bavaria, as emperor. His
-diplomacy was thus the mainspring of the War of the Austrian Succession
+[[Diplomacy|diplomacy]] was thus the mainspring of the War of the Austrian Succession
 (q.v.), and his military command in south Germany was full of incidents
 and vicissitudes. He had been named marshal of France in 1741, and
 received a large army, with which it is said that he promised to make
@@ -42,7 +42,7 @@ Prague so well that the Austrians were glad to allow him to rejoin his
 chief. The campaign, however, had discredited Belle-Isle; he was
 ridiculed at Paris by the wits and the populace, even Fleury is said to
 have turned against him, and, to complete his misfortunes, he was taken
-prisoner by the English in going from Cassel to Berlin through Hanover.
+prisoner by the English in going from Cassel to Berlin through [[Hanover]].
 He remained a year in England, in spite of the demands of Louis XV. and
 of the emperor Charles VII. During the campaign of 1746 he was in
 command of the "Army of Piedmont" on the Alpine frontier, and although
@@ -50,7 +50,7 @@ he began his work with a demoralized and inferior army, he managed not
 only to repel the invasion of the Spanish and Italian forces but also to
 carry the war back into the plain of Lombardy. At the peace, having thus
 retrieved his military reputation, he was created duke and peer of
-France (1748). In 1757 his credit at court was considerable, and the
+France (1748). In 1757 his [[Credit|credit]] at court was considerable, and the
 king named him secretary for war. During his three years' ministry he
 undertook many reforms, such as the development of the military school
 for officers, and the suppression of the proprietary colonelcies of
@@ -78,7 +78,7 @@ l'Assiette) on the 19th of July 1746.
   (Montmedy, 1762); R.P. de Neuville, _Memoires du marechal duc de
   Belleisle_ (Paris, 1761); D.C. (Chevrier), _La Vie politigue et
   militaire du marechal duc de Belleisle_ (London, 1760), and _Testament
-  politique du marechal duc de Belleisle_ (Hague, 1762); _Le Codicille
+  politique du marechal duc de Belleisle_ ([[Hague]], 1762); _Le Codicille
   et l'esprit ou commentaire des maximes du marechal duc de Belleisle_
   (Amsterdam, 1761); F.M. Chayert, _Notice sur le marechal de Belleisle_
   (Metz, 1856); L. Leclerc, _Eloge du marechal de Belleisle_ (Metz,

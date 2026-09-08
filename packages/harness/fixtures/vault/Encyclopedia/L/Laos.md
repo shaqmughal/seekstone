@@ -1,12 +1,12 @@
 # Laos
 
 LAOS, or LAOTIONS, an important division of the widespread Thai or Shan
-race found throughout Indo-China from 28° N. and the sources of the
-Irrawaddy as far as Cambodia and 7° N. in the Malay Peninsula. This Thai
+race found throughout [[Indo-China]] from 28° N. and the sources of the
+Irrawaddy as far as Cambodia and 7° N. in the [[Malay Peninsula]]. This Thai
 family includes the Shans proper, and the Siamese. The name Lao, which
 appears to mean simply "man," is the collective Siamese term for all the
 Thai peoples subject to Siam, while Shan, said to be of Chinese origin,
-is the collective Burmese term for those subject to Burma. Lao is
+is the collective Burmese term for those subject to [[Burma]]. Lao is
 therefore rather a political than an ethnical title, and the people
 cordially dislike the name, insisting on their right to be called Thai.
 Owing to the different circumstances which have attended their
@@ -18,15 +18,15 @@ possession into the hills, mostly adopted Buddhism, and formed small
 settled communities or states in which laws were easy, taxes light and a
 very fair degree of comfort was attained. There are two main divisions,
 the Lao Pong Dam ("Black Paunch Laos"), so-called from their habit of
-tattooing the body from the waist to the knees, and the Lao Pong Kao
+tattooing the body from the waist to the [[Knee|knees]], and the Lao Pong Kao
 ("White Paunch Laos") who do not tattoo. Lao tattooing is of a most
 elaborate kind. The Lao Pong Dam now form the western branch of the Lao
-family, inhabiting the Siamese Lao states of Chieng Mai Lapaun, 'Tern
+family, inhabiting the Siamese Lao states of [[Chieng Mai]] Lapaun, 'Tern
 Pre and Nan, and reaching as far south as 17° N. Various influences have
-contributed to making the Lao the pleasant, easy-going, idle fellow that
+contributed to making the Lao the pleasant, easy-going, idle [[Fellow|fellow]] that
 he is. The result is that practically all the trade of these states is
 in the hands of Bangkok Chinese firms, of a certain number of European
-houses and others, while most of the manual labour connected with the
+houses and others, while most of the [[Manual|manual]] labour connected with the
 teak industry is done by Ka Mus, who migrate in large numbers from the
 left bank of the Mekong. The Lao Pong Kao, or eastern branch, appear to
 have migrated southwards by the more easterly route of the Nam-u and the
@@ -36,7 +36,7 @@ race has retained what appears to be the early form of the present
 Siamese writing, from which it differs little. They formed important
 settlements at various points on the Mekong, notably Luang Prabang,
 Wieng Chan (Vien-Tiane) Ubon and Bassac; and, heading inland as far as
-Korat on the one side and the Annamite watershed in the east, they drove
+[[Korat]] on the one side and the Annamite watershed in the east, they drove
 out the less civilized Kha peoples, and even the Cambodians, as the Lao
 Pong Dam did on the west. Vien-Tiane during the 18th century was the
 most powerful of the Lao principalities, and was feared and respected
@@ -56,7 +56,7 @@ by a gold dish, betel-box, spittoon and teapot, which were sent from
 Bangkok and returned at their death or deposition. Of all the khiao the
 most powerful was the prince of Ubon (15° N., 105° E.), whose
 jurisdiction extended nearly from Bassac on the Mekong northwards to the
-great southern bend of that river. Nearly all the Laos country is now
+great southern [[Bend|bend]] of that river. Nearly all the Laos country is now
 divided between France and Siam, and only a few tribes retain a nominal
 independence.
 
@@ -73,7 +73,7 @@ polygamy is rare. The Laos are very superstitious, believe in
 wer-wolves, and that all diseases are caused by evil spirits. Their
 chief food is rice and fish. Men, women and children all smoke tobacco.
 The civilized Laos were long addicted to slave-hunting, not only with
-the sanction but even with the co-operation of their rulers, the Lao
+the sanction but even with the [[Co-Operation|co-operation]] of their rulers, the Lao
 mandarins heading regular expeditions against the wilder tribes.
 
   Closely allied with the Lao are a number of tribes found throughout
@@ -83,23 +83,23 @@ mandarins heading regular expeditions against the wilder tribes.
   south-west from the highland districts of southern China, which has
   produced so many recruits for the peopling of the Indo-Chinese
   peninsula. Of this group of people, among whom may be named the Yao,
-  Yao Yin, Lanten, Meo, Musur (or Muhso) and Kaw, perhaps the best known
+  Yao Yin, Lanten, Meo, Musur (or Muhso) and [[Kaw]], perhaps the best known
   and most like the Lao are the Lu--both names meaning originally
   "man"--who have in many cases adopted a form of Buddhism (flavoured
   strongly by their natural respect for local spirits as well as
   tattooing) and other relatively civilized customs, and have forsaken
   their wandering life among the hills for a more settled village
   existence. Hardy, simple and industrious, fond of music, kind-hearted,
-  and with a strangely artistic taste in dress, these people possess in
+  and with a strangely artistic taste in [[Dress|dress]], these people possess in
   a wonderful degree the secret of cheerful contentment.
 
-  AUTHORITIES.--M. J. F. Garnier, _Voyage d'exploration en Indo-Chine_;
+  AUTHORITIES.--M. J. F. [[Garnier]], _Voyage d'exploration en Indo-Chine_;
   A. H. Mouhot, _Travels in the Central Parts of Indo-China, Cambodia
-  and Laos_ (1864); Holt S. Hallett, _A Thousand Miles on an Elephant in
+  and Laos_ (1864); Holt S. Hallett, _A Thousand Miles on an [[Elephant]] in
   the Shan States_ (1890); A. R. Colquhoun, _Amongst the Shâns_ (1885);
-  Lord Lamington, _Proc. R.G.S._ vol. xiii. No. 12; Archer, _Report on a
+  Lord Lamington, _Proc. R.G.S._ vol. xiii. No. 12; [[Archer]], _Report on a
   Journey in the Mekong Valley_; Prince Henri d'Orléans, _Around Tonkin
-  and Siam_ (1894); M'Carthy, _Report on a Survey in Siam_ (1894);
+  and Siam_ (1894); [[M'Carthy]], _Report on a Survey in Siam_ (1894);
   Bulletins, Paris Geographical Society: H. Warington Smyth, _Notes of a
   Journey on the Upper Mekong_ (1895); _Five Years in Siam_ (1898);
   Harmand, _Le Laos et les populations sauvages de l'Indo-Chine_ (1880).
@@ -113,7 +113,7 @@ celebrated treatise called _Tâo Teh King_, and the reputed founder of
 the religion called _Tâoism_. The Chinese characters composing the
 designation may mean either "the Old Son," which commonly assumes with
 foreigners the form of "the Old Boy," or "the Old Philosopher." The
-latter significance is attached to them by Dr Chalmers in his
+latter significance is attached to them by Dr [[Chalmers]] in his
 translation of the treatise published in 1868 under the title of _The
 Speculations on Metaphysics, Polity and Morality of "the Old
 Philosopher," Lâo-tsze_. The former is derived from a fabulous account
@@ -135,8 +135,8 @@ Venerable Philosopher."
 
   All that Ch'ien tells us about Lâo-tsze goes into small compass. His
   surname was Lî, and his name Urh. He was a native of the state of
-  Ch'û, and was born in a hamlet not far from the present prefectural
-  city of Kwei-te in Ho-nan province. He was one of the recorders or
+  Ch'û, and was born in a [[Hamlet|hamlet]] not far from the present prefectural
+  city of Kwei-te in [[Ho-Nan|Ho-nan]] province. He was one of the recorders or
   historiographers at the court of Chow, his special department being
   the charge of the whole or a portion of the royal library. He must
   thus have been able to make himself acquainted with the history of his
@@ -157,7 +157,7 @@ Venerable Philosopher."
   have had more than one interview. Dr Chalmers, however, has pointed
   out that both Chwang-tsze and Lieh-tsze (a still earlier Tâoist
   writer) produce Confucius in their writings, as the lords of the
-  Philistines did the captive Samson on their festive occasions, "to
+  Philistines did the [[Captive|captive]] Samson on their festive occasions, "to
   make sport for them." Their testimony is valueless as to any matter of
   fact. There may have been several meetings between the two in 517
   B.C., but we have no evidence that they were together in the same
@@ -178,7 +178,7 @@ Venerable Philosopher."
   on the practices of the school of _Tâo_. Subjoined to the notice of
   him is the remark that Lâo-tsze was more than one hundred and sixty
   years old, or, as some say, more than two hundred, because by the
-  cultivation of the _Tâo_ he nourished his longevity. The other was "a
+  cultivation of the _Tâo_ he nourished his [[Longevity|longevity]]. The other was "a
   grand historiographer" of Chow, called Tan, one hundred and
   twenty-nine (? one hundred and nineteen) years after the death of
   Confucius. The introduction of these disjointed notices detracts from
@@ -198,7 +198,7 @@ Venerable Philosopher."
 Accepting the _Tâo Teh King_ as the veritable work of Lâo-tsze, we may
 now examine its contents. Consisting of not more than between five and
 six thousand characters, it is but a short treatise--not half the size
-of the Gospel of St Mark. The nature of the subject, however, the want
+of the [[Gospel]] of St Mark. The nature of the subject, however, the want
 of any progress of thought or of logical connexion between its different
 parts, and the condensed style, with the mystic tendencies and poetical
 temperament of the author, make its meaning extraordinarily obscure.
@@ -228,7 +228,7 @@ rightly translated by "virtue." Julien translated _Tâo_ by "la voie."
 Chalmers leaves it untranslated. "No English word," he says (p. xi.),
 "is its exact equivalent. Three terms suggest themselves--the way,
 reason and the word; but they are all liable to objection. Were we
-guided by etymology, 'the way' would come nearest the original, and in
+guided by [[Etymology|etymology]], 'the way' would come nearest the original, and in
 one or two passages the idea of a way seems to be in the term; but this
 is too materialistic to serve the purpose of a translation. 'Reason,'
 again, seems to be more like a quality or attribute of some conscious
@@ -265,13 +265,13 @@ selfish purpose, resting in nothing but its own accomplishment. This is
 found in the phenomena of the material world. "All things spring up
 without a word spoken, and grow without a claim for their production.
 They go through their processes without any display of pride in them;
-and the results are realized without any assumption of ownership. It is
+and the results are realized without any [[Assumption|assumption]] of ownership. It is
 owing to the absence of such assumption that the results and their
 processes do not disappear" (chap. ii.). It only needs the same quality
 in the arrangements and measures of government to make society beautiful
 and happy. "A government conducted by sages would free the hearts of the
-people from inordinate desires, fill their bellies, keep their ambitions
-feeble and strengthen their bones. They would constantly keep the people
+people from inordinate desires, fill their [[Belli|bellies]], keep their ambitions
+feeble and strengthen their [[Bone|bones]]. They would constantly keep the people
 without knowledge and free from desires; and, where there were those who
 had knowledge, they would have them so that they would not dare to put
 it in practice" (chap. iii.). A corresponding course observed by
@@ -295,7 +295,7 @@ as small and the small as great, to recompense injury with kindness."
 This last and noblest characteristic of the _Tâo_, the requiting "good
 for evil," is not touched on again in the treatise; but we know that it
 excited general attention at the time, and was the subject of
-conversation between Confucius and his disciples (_Confucian Analects_,
+conversation between Confucius and his [[Disciple|disciples]] (_Confucian Analects_,
 xiv. 36).
 
 What is said in the _Tâo_ on government is not, all of it, so
@@ -310,7 +310,7 @@ people arises from their having too much knowledge, and therefore he who
 tries to govern a state by wisdom is a scourge to it, while he who does
 not try to govern thereby is a blessing." The last chapter but one is
 the following:--"In a small state with a few inhabitants, I would so
-order it that the people, though supplied with all kinds of implements,
+order it that the people, though supplied with all kinds of [[Implement|implements]],
 would not (care to) use them; I would give them cause to look on death
 as a most grievous thing, while yet they would not go away to a distance
 to escape from it. Though they had boats and carriages, they should have
@@ -320,7 +320,7 @@ the use of knotted cords (instead of written characters). They should
 think their coarse food sweet, their plain clothing beautiful, their
 poor houses places of rest and their common simple ways sources of
 enjoyment. There should be a neighbouring state within sight, and the
-sound of the fowls and dogs should be heard from it to us without
+sound of the fowls and [[Dogs|dogs]] should be heard from it to us without
 interruption, but I would make the people to old age, even to death,
 have no intercourse with it."
 
@@ -356,7 +356,7 @@ use of it, we may say, must be free from all self-sufficiency. How deep
 and mysterious it is, as if it were the author of all things! We should
 make our sharpness blunt, and unravel the complications of things; we
 should attemper our brightness, and assimilate ourselves to the
-obscurity caused by dust. How still and clear is _Tâo_, a phantasm with
+obscurity caused by [[Dust|dust]]. How still and clear is _Tâo_, a phantasm with
 the semblance of permanence! I do not know whose son it is. It might
 appear to have been before God (_Ti_)."
 
@@ -409,13 +409,13 @@ injure; it is the _Tâo_--the way--of the sage to do and not strive."
   them, views about society and government very like his own. Ch'ien
   relates how an envoy came in 624 B.C.--twenty years before the date
   assigned to the birth of Lâo-tsze--to the court of Duke Mû of Ch'in,
-  sent by the king of some rude hordes on the west. The duke told him of
-  the histories, poems, codes of rites, music and laws which they had
+  sent by the king of some rude [[Horde|hordes]] on the west. The duke told him of
+  the histories, poems, [[Code|codes]] of rites, music and laws which they had
   in the middle states, while yet rebellion and disorder were of
   frequent occurrence, and asked how good order was secured among the
   wild people, who had none of those appliances. The envoy smiled, and
   replied that the troubles of China were occasioned by those very
-  things of which the duke vaunted, and that there had been a gradual
+  things of which the duke vaunted, and that there had been a [[Gradual|gradual]]
   degeneration in the condition of its states, as their professed
   civilization had increased, ever since the days of the ancient sage,
   Hwang Tî, whereas in the land he came from, where there was nothing
@@ -437,18 +437,18 @@ injure; it is the _Tâo_--the way--of the sage to do and not strive."
   "The three Pure or Holy Ones." There is hardly a word in his treatise
   that savours either of superstition or religion. In the works of
   Lieh-tsze and Chwang-tsze, his earliest followers of note, we find
-  abundance of grotesque superstitions; but their beliefs (if indeed we
+  abundance of [[Grotesque|grotesque]] superstitions; but their beliefs (if indeed we
   can say that they had beliefs) had not become embodied in any
   religious institutions. When we come to the Ch'in dynasty (221-206
   B.C.), we meet with a Tâoism in the shape of a search for the fairy
-  islands of the eastern sea, where the herb of immortality might be
+  islands of the eastern sea, where the [[Herb|herb]] of [[Immortality|immortality]] might be
   gathered. In the 1st century A.D. a magician, called Chang Tâo-ling,
   comes before us as the chief professor and controller of this Tâoism,
   preparing in retirement "the pill" which renewed his youth, supreme
   over all spirits, and destroying millions of demons by a stroke of his
-  pencil. He left his books, talismans and charms, with his sword and
+  pencil. He left his books, talismans and [[Charm|charms]], with his sword and
   seal, to his descendants, and one of them, professing to be animated
-  by his soul, dwells on the Lung-hû mountain in Kiang-si, the
+  by his soul, dwells on the Lung-hû mountain in [[Kiang-Si|Kiang-si]], the
   acknowledged head or pope of Tâoism. But even then the system was not
   yet a religion, with temples or monasteries, liturgies and forms of
   public worship. It borrowed all these from Buddhism, which first

@@ -6,7 +6,7 @@ sixth largest city in the country. It is situated 43° 46' N., 11° 14'
 E., on both banks of the river Arno, which at this point flows through a
 broad fertile valley enclosed between spurs of the Apennines. The city
 is 165 ft. above sea-level, and occupies an area of 3 sq. m. (area of
-the commune, 16½ sq. m.). The geological formation of the soil belongs
+the [[Commune|commune]], 16½ sq. m.). The geological formation of the soil belongs
 to the Quaternary and Pliocene period in its upper strata, and to the
 Eocene and Cretaceous in the lower. _Pietra forte_ of the Cretaceous
 period is quarried north and south of the city, and has been used for
@@ -15,7 +15,7 @@ _macigno_, a stone of a firm texture also used for building purposes, is
 quarried at Monte Ceceri below Fiesole. The soil is very fertile; wheat,
 Indian corn, olives, vines, fruit trees of many kinds cover both the
 plain and the surrounding hills; the chief non-fruit-bearing trees are
-the stone pine, the cypress, the ilex and the poplar, while many other
+the stone pine, the [[Cypress|cypress]], the ilex and the poplar, while many other
 varieties are represented. The gardens and fields produce an abundance
 of flowers, which justify the city's title of _la città dei fiori_.
 
@@ -28,12 +28,12 @@ beginning of July, and from the end of September to the middle of
 November. The average temperature throughout the year is about 57°
 Fahr.; the maximum heat is about 96.8°, and the minimum 36.5°, sometimes
 sinking to 21°. The longest day is 15 hours and 33 minutes, the shortest
-8 hours and 50 minutes. The average rainfall is about 37½ inches.
+8 hours and 50 minutes. The average rainfall is about 37½ [[Inch|inches]].
 Epidemic diseases are rare and children's diseases mild; cholera has
 visited Florence several times, but the city has been free from it for
 many years. Diphtheria first appeared in 1868 and continued as a severe
 epidemic until 1872, since when it has only occurred at rare intervals
-and in isolated cases. Typhoid, pneumonia, tuberculosis, measles and
+and in isolated cases. Typhoid, pneumonia, tuberculosis, [[Measles|measles]] and
 scarlatina, and influenza are the commonest illnesses. The drainage
 system is still somewhat imperfect, but the water brought from the hills
 or from the Arno in pipes is fairly good, and the general sanitary
@@ -51,7 +51,7 @@ unveiled in 1888. Close by the Duomo is the no less famous Campanile
 built by Giotto, begun in 1332, and adorned with exquisite bas-reliefs.
 Opposite is the Baptistery built by Arnolfo di Cambio in the 13th
 century on the site of an earlier church, and adorned with beautiful
-bronze doors by Ghiberti in the 15th century. The Badia, Santo Spirito,
+bronze doors by [[Ghiberti]] in the 15th century. The Badia, Santo Spirito,
 Santa Maria Novella, are a few among the many famous and beautiful
 churches of Florence. The existence of these works of art attracts
 students from all countries, and a German art school subsidized by the
@@ -66,7 +66,7 @@ prefecture, the palaces of the Strozzi, Antinori (one of the most
 perfect specimens of Florentine _quattrocento_ architecture), Corsini,
 Davanzati, Pitti (the royal palace), &c. The palace of the Arte della
 Lana or gild of wool merchants, tastefully and intelligently restored,
-is the headquarters of the Dante Society. The centre of Florence, which
+is the headquarters of the [[Dante]] Society. The centre of Florence, which
 was becoming a danger from a hygienic point of view, was pulled down in
 1880-1890, but, unfortunately, sufficient care was not taken to avoid
 destroying certain buildings of historic and artistic value which might
@@ -81,7 +81,7 @@ from destruction, and a spirit of intelligent conservatism seems now to
 prevail in this connexion. The city is growing in all directions, and a
 number of new quarters have sprung up where the houses are more sanitary
 than in the older parts, but unfortunately few of them evince much
-aesthetic feeling. The _viali_ or boulevards form pleasant residential
+aesthetic feeling. The _viali_ or [[Boulevard|boulevards]] form pleasant residential
 streets with gardens, and the system of building separate houses for
 each family (villini) instead of large blocks of flats is becoming more
 and more general.
@@ -90,7 +90,7 @@ and more general.
   Libraries.
 
 Florence possesses four important libraries besides a number of smaller
-collections. The _Biblioteca Nazionale_, originally founded by Antonio
+collections. The _Biblioteca Nazionale_, originally founded by [[Antonio]]
 Magliabecchi in 1747, enjoys the right, shared by the _Vittorio
 Emanuele_ library of Rome, of receiving a copy of every work printed in
 Italy, since 1870 (since 1848 it had enjoyed a similar privilege with
@@ -127,7 +127,7 @@ and _registri_ and 126,000 charters, covering the period from 726 to
 1856.
 
 
-  Galleries of Fine Arts and Museums.
+  Galleries of [[Fine Arts]] and Museums.
 
 Few cities are as rich as Florence in collections of works of artistic
 and historic interest, although the great majority of them belong to a
@@ -138,20 +138,20 @@ masterpieces by Raphael, Andrea del Sarto, Perugino, Ghirlandaio,
 Botticelli, the Lippi, and many other Florentine, Umbrian, Venetian,
 Dutch and Flemish artists, as well as numerous admirable examples of
 antique, medieval and Renaissance sculpture. The Pitti collection is in
-the royal palace (formerly the residence of the grand dukes), and a fine
+the royal palace (formerly the residence of the grand [[Dukes|dukes]]), and a fine
 new stairway and vestibule have been constructed by royal munificence.
 In the Uffizi the pictures are arranged in strict chronological order.
 In the Accademia, which is rich in early Tuscan masters, the Botticelli
 and Perugino rooms deserve special mention. Other pictures are scattered
 about in the churches, monasteries and private palaces. Of the
 monasteries, that of St Mark should be mentioned, as containing many
-works of Fra Angelico, besides relics of Savonarola, while of the
+works of Fra [[Angelico]], besides relics of Savonarola, while of the
 private collections the only one of importance is that of Prince
 Corsini. There is a splendid museum of medieval and Renaissance
 antiquities in the Bargello, the ancient palace of the Podestà, itself
 one of the finest buildings in the city; among its many treasures are
 works of Donatello, Ghiberti, Verrochio and other sculptors, and large
-collections of ivory, enamel and bronze ware. The Opera del Duomo
+collections of [[Ivory|ivory]], enamel and bronze ware. The Opera del Duomo
 contains models and pieces of sculpture connected with the cathedral;
 the Etruscan and Egyptian museum, the gallery of tapestries, the
 Michelangelo museum, the museum of natural history and other collections
@@ -202,7 +202,7 @@ archiepiscopal see.
   Although in 1472 some of the faculties and several of the professors
   were transferred to Pisa, it still retained importance, and in the
   17th and 18th centuries it originated a number of learned academies.
-  In 1859 after the annexation of Tuscany to the Italian kingdom it was
+  In 1859 after the [[Annexation|annexation]] of Tuscany to the Italian kingdom it was
   revived and reorganized; since then it has become to some extent a
   national centre of learning and culture, attracting students from
   other parts of Italy, partly on account of the fact that it is in
@@ -231,7 +231,7 @@ archiepiscopal see.
 
   Several of the Florence hospitals are of great antiquity, the most
   important being that of Santa Maria Nuova, which, founded by Folco
-  Portinari, the father of Dante's Beatrice, has been thoroughly
+  Portinari, the father of Dante's [[Beatrice]], has been thoroughly
   renovated according to modern scientific principles. There are
   numerous other hospitals both general and special, a foundling
   hospital dating from the 13th century (Santa Maria degli Innocenti),
@@ -265,13 +265,13 @@ HISTORY
 Florentia was founded considerably later than Faesulae (Fiesole), which
 lies on the hill above it; indeed, as its name indicates, it was built
 only in Roman times and probably in connexion with the construction by
-C. Flaminius in 187 B.C. of a road from Bononia to Arretium (which later
+C. [[Flaminius]] in 187 B.C. of a road from [[Bononia]] to Arretium (which later
 on formed part of the Via Cassia) at the point where this road crossed
 the river Arnus. We hear very little of it in ancient times; it appears
-to have suffered at the end of the war between Marius and Sulla, and in
+to have suffered at the end of the war between [[Marius]] and Sulla, and in
 A.D. 15 (by which period it seems to have been already a colony) it
 successfully opposed the project of diverting part of the waters of the
-Clanis into the Arno (see CHIANA). Tacitus mentions it, and Florus
+Clanis into the Arno (see CHIANA). Tacitus mentions it, and [[Florus]]
 describes it as one of the _municipia splendidissima_. A bishop of
 Florence is mentioned in A.D. 313. A group of Italic cremation tombs _a
 pozzo_ of the Villanova period were found under the pavement of the
@@ -286,7 +286,7 @@ while the ancient amphitheatre has been found near S. Croce outside the
 Roman town, which formed a rectangle of about 400 by 600 yds., with four
 gates, the _Decumanus_ being represented by the Via Strozzi and Via del
 Corso, and the _Cardo_ by the Via Calcinara, while the Mercato Vecchio
-occupied the site of the Forum.
+occupied the site of the [[Forum]].
 
   See L.A. Milani, "Reliquie di Firenze antica," in _Monumenti dei
   Lincei_, vi. (1896), 5 seq. (T. As.)
@@ -317,17 +317,17 @@ the movement in Florence was San Giovanni Gualberto, of the monastery of
 San Salvi. The simoniacal election of Pietro Mezzabarba as bishop of
 Florence (1068) caused serious disturbances and a long controversy with
 Rome, which ended in the triumph, after a trial by fire, of the monk
-Petrus Igneus, champion of the popular reform movement; this event
+Petrus Igneus, [[Champion|champion]] of the popular reform movement; this event
 indicates the beginnings of a popular conscience among the Florentines.
 Under the Carolingian emperors Tuscany was a March or margraviate, and
 the marquises became so powerful as to be even a danger to the Empire.
 Under the emperor Otto I. one Ugo (d, 1001) was marquis, and the emperor
-Conrad II. (elected in 1024) appointed Boniface of Canossa marquis of
+Conrad II. (elected in 1024) appointed Boniface of [[Canossa]] marquis of
 Tuscany, a territory then extending from the Po to the borders of the
 Roman state. Boniface died in 1052, and in the following year the
 margraviate passed to his daughter, the famous countess Matilda, who
 ruled for forty years and played a prominent part in the history of
-Italy in that period. In the Wars of the Investitures Matilda was ever
+Italy in that period. In the Wars of the [[Investiture|Investitures]] Matilda was ever
 on the papal (afterwards called Guelph) side against the emperor and the
 faction afterwards known as Ghibelline, and she herself often led armies
 to battle. It is at this time that the people of Florence first began to
@@ -361,7 +361,7 @@ to wage war against the Alberti family, whose castles they destroyed.
 The emperor Lothair when in Italy forced Florence to submit to his
 authority, but at his death in 1137 things returned to their former
 state and the Florentines fought successfully against the powerful
-counts Guidi. Frederick Barbarossa, however, elected emperor in 1152,
+counts [[Guidi]]. Frederick Barbarossa, however, elected emperor in 1152,
 made his authority felt in Tuscany, and appointed one Welf of Bavaria as
 margrave. Florence and other cities were forced to supply troops to the
 emperor for his Lombard campaigns, and he began to establish a
@@ -401,7 +401,7 @@ causes of these broils were deeper and wider, being derived from the
 general division between Guelphs and Ghibellines all over Italy. But the
 work of crushing the nobles of the _contado_ and of asserting the city's
 position among rival communes continued. In 1222 Florence waged war
-successfully on Pisa, Lucca and Pistoia, and during the next few years
+successfully on Pisa, [[Lucca]] and Pistoia, and during the next few years
 against the Sienese with varying results; although the emperor supported
 the latter as Ghibellines, on his departure for Germany in 1235 they
 were forced to accept peace on onerous terms. During the interregnum
@@ -412,7 +412,7 @@ Ghibelline nobles favoured by the _podestà_ Pace di Pesamigola, indicate
 a successful Guelphic reaction; but Frederick II., having defeated his
 enemies both in Lombardy and in the Two Sicilies, appointed his natural
 son, Frederick of Antioch, imperial vicar in Tuscany, who, when civil
-war broke out, entered the city with 1600 German knights. The
+war broke out, entered the city with 1600 German [[Knight|knights]]. The
 Ghibellines now triumphed completely, and in 1249 the Guelph leaders
 were driven into exile--the first of many instances in Florentine
 history of exile _en masse_ of a defeated party. The attempt to seize
@@ -448,7 +448,7 @@ cunningly induced to believe that Siena would surrender at the first
 summons; but it was met by a Sienese army reinforced by Florentine
 exiles, including Farinata degli Uberti and other Ghibellines, and by
 the cavalry of Manfred (q.v.) of Sicily, led by Count Giordano and the
-count of Arras, with the result that the Florentines were totally routed
+count of [[Arras]], with the result that the Florentines were totally routed
 at Montaperti on the 4th of September 1260. Count Giordano entered
 Florence, appointed Count Guido Novello _podestà_, and began a series of
 persecutions against the Guelphs. The Ghibellines even proposed to raze
@@ -472,9 +472,9 @@ was foreign and Guelph. Nevertheless much of the old order was restored;
 the _podestà_ who represented King Charles was assisted by 12 _buoni
 uomini_, and by the council of the 100 _buoni uomini del popolo_,
 "without the deliberation of whom," says Villani, "no great matter nor
-expenditure could be undertaken." Other bodies and magistrates were
+expenditure could be undertaken." Other bodies and [[Magistrate|magistrates]] were
 maintained, and the _capitano del popolo_, now called _capitano della
-massa di parte Guelfa_, tended to become a very important person. The
+[[Massa|massa]] di parte Guelfa_, tended to become a very important person. The
 property of the Ghibellines was confiscated, and a commission of six
 _capitani di parte Guelfa_ appointed to administer it and in general to
 expend it for the persecution of the Ghibellines. The whole constitution
@@ -622,7 +622,7 @@ Ghibellines of northern Italy. Between 1320 and 1323 he harried the
 Florentines and defeated them several times, captured Pistoia,
 devastated their territory up to the walls of the city in spite of
 assistance from Naples under Raymundo de Cardona and the duke of
-Calabria (King Robert's son); never before had Florence been so
+[[Calabria]] (King Robert's son); never before had Florence been so
 humiliated, but while Castruccio was preparing to attack Florence he
 died in 1328. Two months later the duke of Calabria, who had been
 appointed protector of the city in 1325, died, and further
@@ -630,7 +630,7 @@ constitutional reforms were made. The former councils were replaced by
 the _consiglio del popolo_, consisting of 300 _popolani_ and presided
 over by the _capitano_, and the _consiglio del comune_ of 250 members,
 half of them nobles and half _popolani_, presided over by the _podestà_.
-The _priori_ and other officers were drawn by lot from among the Guelphs
+The _priori_ and other officers were drawn by [[Lot|lot]] from among the Guelphs
 over thirty years old who were declared fit for public office by a
 special board of 98 citizens (1329). The system worked well at first,
 but abuses soon crept in, and many persons were unjustly excluded from
@@ -658,7 +658,7 @@ misfortunes fell on the city: Edward III. of England repudiated the
 heavy debts contracted for his wars in France with the Florentine
 banking houses of Bardi and Peruzzi (1339), which eventually led to
 their failure and to that of many smaller firms, and shook Florentine
-credit all over the world; Philip VI. of France extorted large sums from
+[[Credit|credit]] all over the world; Philip VI. of France extorted large sums from
 the Florentine merchants and bankers in his dominions by accusing them
 of usury; in 1340 plague and famine wrought terrible havoc in Florence,
 and riots again broke out between the _grandi_ and the _popolo_, partly
@@ -672,7 +672,7 @@ ground was secure he succeeded in getting himself acclaimed by the
 populace lord of Florence for life, and on the 8th of September was
 carried in triumph to the Palazzo della Signoria. The _podestà_ and the
 _capitano_ assenting to this treachery, he dismissed the
-_gonfaloniere_, reduced the _priori_ to a position of impotence,
+_gonfaloniere_, reduced the _priori_ to a position of [[Impotence|impotence]],
 disarmed the citizens, and soon afterwards accepted the lordship of
 Arezzo, Volterra, Colle, San Gimignano and Pistoia. He increased his
 bodyguard to 800 men, all Frenchmen, who behaved with the greatest
@@ -770,7 +770,7 @@ stringent, punishing with death or heavy fines all who being Ghibellines
 held office, and provided that if trustworthy witnesses were forthcoming
 condemnations might be passed for this offence without hearing the
 accused; even a non-proved charge or an _ammonizione_ (warning not to
-accept office) might entail disfranchisement. Thus the _parte_,
+accept office) might [[Entail|entail]] disfranchisement. Thus the _parte_,
 represented by its 6 (afterwards 9) captains, came to exercise a
 veritable reign of terror, and no one knew when an accusation might fall
 on him. The leader of the _parte_ was Piero degli Albizzi, whose chief
@@ -827,14 +827,14 @@ church, an alliance with Florence's old enemy Bernabò Visconti was made,
 war declared, and a _balìa_ of 8, the _Otto della guerra_ (afterwards
 called the "Eight Saints" on account of their good management) was
 created to carry on the campaign. Treaties with Pisa, Siena, Arezzo and
-Cortona were concluded, and soon no less than 80 towns, including
+[[Cortona]] were concluded, and soon no less than 80 towns, including
 Bologna, had thrown off the papal yoke. Pope Gregory XI. placed Florence
 under an interdict, ordered the expulsion of all Florentines from
 foreign countries, and engaged a ferocious company of Bretons to invade
 the republic's territory. The Eight levied heavy toll on church property
 and ordered the priests to disregard the interdict. They turned the
 tables on the pope by engaging Hawkwood, and although the Bretons by
-order of Cardinal Robert of Geneva (afterwards the anti-pope Clement
+order of Cardinal Robert of [[Geneva]] (afterwards the anti-pope Clement
 VII.) committed frightful atrocities in Romagna, their captains were
 bribed by the republic not to molest its territory. By 1378 peace was
 made, partly through the mediation of St Catherine of Siena, and the
@@ -954,7 +954,7 @@ anti-pope Benedict XIII. as well as to various foreign governments in
 favour of a settlement, and suggested a council within her own
 territory. Gregory refused, but after consulting a committee of
 theologians who declared him to be a heretic, the council promoted by
-Cardinal Cossa and other independent prelates met at Pisa. This nearly
+Cardinal [[Cossa]] and other independent prelates met at Pisa. This nearly
 led to war with King Ladislas of Naples, because he had seized Rome,
 which he could only hold so long as the church was divided. The council
 deposed both popes and elected Pietro Filargi as Alexander V. (26th of
@@ -1036,7 +1036,7 @@ with no response from his own party, and he failed to prevent the
 election of a pro-Medici signory in 1434. He and other leaders of the
 party were summoned to the palace to answer a charge of plotting against
 the state, to which he replied by collecting 800 armed followers. A
-revolution was only averted through the intervention of Pope Eugenius
+revolution was only averted through the intervention of Pope [[Eugenius]]
 IV., who was then in Florence. A _parlamento_ was summoned, and the
 _balìa_ appointed decreed the return of Cosimo and the exile of Rinaldo
 degli Albizzi, Rodolfo Peruzzi, Niccolò Barbadori, and others, in spite
@@ -1057,7 +1057,7 @@ train, was signally defeated at Anghiari by the Florentines under
 Francesco Sforza (1440); peace was made the following year. The system
 of the _catasto_, which led to abuses, was abolished, and a progressive
 income-tax (_decima scalata_) was introduced with the object of
-lightening the burdens of the poor, who were as a rule Medicean, at the
+lightening the [[Burden|burdens]] of the poor, who were as a rule Medicean, at the
 expense of the rich; but as it was frequently increased the whole
 community came to be oppressed by it in the end. Cosimo increased his
 own authority and that of the republic by aiding Francesco Sforza to
@@ -1100,13 +1100,13 @@ accomplice, at all events had knowledge of the Pazzi conspiracy against
 the Medici (1478). The result of the plot was that, although Giuliano
 was murdered, Lorenzo strengthened his position, and put to death or
 exiled numbers of his enemies. He was excommunicated by Sixtus, who,
-together with King Ferdinand of Naples, waged war against him; no great
+together with King [[Ferdinand]] of Naples, waged war against him; no great
 successes were registered on either side at first, but eventually the
 Florentines were defeated at Poggio Imperiale (near Poggibonsi) and the
 city itself was in danger. Lorenzo's position was critical, but by his
 boldness in going to Naples he succeeded in concluding a peace with the
 king, which led to a reconciliation with the pope (1479-1480). He was
-received with enthusiasm on returning to Florence and became absolute
+received with [[Enthusiasm|enthusiasm]] on returning to Florence and became absolute
 master of the situation. In April 1480 a _balìa_ was formed, and its
 most important act was the creation at Lorenzo's instance of the Council
 of Seventy; it was constituted for five years, but it became permanent,
@@ -1129,14 +1129,14 @@ war, in which Florence also took part on the side hostile to Venice, and
 when peace was made in 1484 the republic gained some advantages. The
 following year a revolt of the Neapolitan barons against King Ferdinand
 broke out, actively supported by Pope Innocent VIII.; Lorenzo remained
-neutral at first, but true to his policy of maintaining the balance of
+neutral at first, but true to his policy of maintaining the [[Balance|balance]] of
 power and not wishing to see Ferdinand completely crushed, he ended by
 giving him assistance in spite of the king's unpopularity in Florence.
 Peace was made when the pope agreed to come to terms in 1486, and in
 1487 Lorenzo regained Sarzana, which Genoa had taken from Florence nine
 years previously. The general disorders and ceaseless intrigues all over
 Italy required Lorenzo's constant attention, and he succeeded in making
-Florence "the needle of the balance of power in Italy." At this time the
+Florence "the needle of the [[Balance Of Power|balance of power]] in Italy." At this time the
 Dominican Fra Girolamo Savonarola (q.v.) was in Florence and aroused the
 whole city by his denunciations of ecclesiastical corruption and also of
 that of the Florentines. He opposed Lorenzo's government as the source
@@ -1182,13 +1182,13 @@ like his attitude of conqueror. Charles was impressed with the wealth
 and refinement of the citizens, and above all with the solid
 fortress-like appearance of their palaces. The signory appointed Piero
 Capponi, a man of great ability and patriotism, and experienced in
-diplomacy, the _gonfaloniere_ Francesco Valori, the Dominican Giorgio
+[[Diplomacy|diplomacy]], the _gonfaloniere_ Francesco Valori, the Dominican Giorgio
 Vespucci, and the jurisconsult and diplomatist Domenico Bonsi, syndics
 to conduct the negotiations with the French king. Charles's demands by
 no means pleased the citizens, and the arrogance and violence of his
 soldiers led to riots in which they were assailed with stones in the
 narrow streets. When the king began to hint at the recall of Piero de'
-Medici, whose envoys had gained his ear, the signory ordered the
+Medici, whose envoys had gained his [[Ear|ear]], the signory ordered the
 citizens to be ready to fly to arms. The proposal was dropped, but
 Charles demanded an immense sum of money before he would leave the city;
 long discussions followed, and when at last he presented an insolent
@@ -1333,7 +1333,7 @@ made a life appointment. The election fell on Piero Soderini
 (1448-1522), an honest public-spirited man of no particular party, but
 lacking in strength of character. One useful measure which he took was
 the institution of a national militia at the suggestion of Niccolò
-Machiavelli (1505). In the meanwhile the Pisan war dragged on without
+[[Machiavelli]] (1505). In the meanwhile the Pisan war dragged on without
 much headway being made. In 1503 both Piero de' Medici and Alexander VI.
 had died, eliminating two dangers to the republic. Spain, who was at war
 with France over the partition of Naples, helped the Pisans as the
@@ -1454,7 +1454,7 @@ him; but it was too late, and he now behaved as though he were governor
 of Florence; when the troops attempted to enforce the dismissal he
 turned his guns on them. On the 9th of August the signory saw that all
 hope was lost and entered into negotiations with Don Ferrante Gonzaga,
-the new imperial commander. On the 12th the capitulation was signed:
+the new imperial commander. On the 12th the [[Capitulation|capitulation]] was signed:
 Florence was to pay an indemnity of 80,000 florins, the Medici were to
 be recalled, the emperor was to establish the new government, "it being
 understood that liberty is to be preserved." Baccio Valori, a Medicean
@@ -1474,7 +1474,7 @@ Florence lost her liberty, and came to be the capital of the duchy
   The Grand-Duchy of Tuscany.
 
 The Medici dynasty ruled in Tuscany until the death of Gian Gastone in
-1737, when the grand-duchy was assigned to Francis, duke of Lorraine.
+1737, when the grand-duchy was assigned to Francis, duke of [[Lorraine]].
 But it was governed by a regency until 1753, when it was conferred by
 the empress Maria Theresa on his son Peter Leopold. During the
 Napoleonic wars the grand-duke Ferdinand III. of Habsburg-Lorraine was
@@ -1505,11 +1505,11 @@ capital was transferred to the Eternal City (1871).
   must be also consulted, especially for the development of political
   theories. Among the English histories of Florence, Napier's
   _Florentine History_ (6 vols., London, 1846-1847) and A. Trollope's
-  _History of the Commonwealth of Florence_ (4 vols., London, 1865) are
+  _History of the [[Commonwealth]] of Florence_ (4 vols., London, 1865) are
   not without value although out of date. Francis Hyett's _Florence_
   (London, 1903) is more recent and compendious; the author is somewhat
   Medicean in his views, and frequently inaccurate. For the later
-  history, A. von Reumont's _Geschichte von Toscana_ (Gotha, 1876-1877)
+  history, A. von Reumont's _Geschichte von Toscana_ ([[Gotha]], 1876-1877)
   is one of the best works. There is a large number of small treatises
   and compendia of Florentine history of the guide-book description. See
   also the bibliographies in MEDICI, MACHIAVELLI, SAVONAROLA, TUSCANY,

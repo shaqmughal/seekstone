@@ -10,7 +10,7 @@ tags: [agriculture, economics]
 
 ASCHAFFENBURG, a town of Germany, in the kingdom of Bavaria, on the
 right bank of the Main, at its confluence with the Aschaff, near the
-foot of the Spessart, 26 m. by rail S.E. of Frankfort-On-Main. Pop.
+foot of the Spessart, 26 m. by rail S.E. of [[Frankfort-On-Main]]. Pop.
 (1900) 18,091; (1905) 25,275. Its chief buildings are the Johannisburg,
 built (1605-1614) by Archbishop Schweikard of Cronberg, which contains a
 library with a number of _incunabula_, a collection of engravings and
@@ -21,7 +21,7 @@ a sarcophagus, with the relics of St Margaret (1540); the Capuchin
 hospital; a theatre, which was formerly the house of the Teutonic order;
 and several mansions of the German nobility. The town, which has been
 remarkable for its educational establishments since the 10th century,
-has a gymnasium, lyceum, seminarium and other schools. There is an
+has a gymnasium, [[Lyceum|lyceum]], seminarium and other schools. There is an
 archaeological museum in the old abbey buildings. The graves of Klemens
 Brentano and his brother Christian (d. 1851) are in the churchyard; and
 Wilhelm Heinse is buried in the town. Coloured and white paper,
@@ -51,7 +51,7 @@ The principality of Aschaffenburg, deriving its name from the city,
 comprehended an area of 654 English sq. m. It formed part of the
 electorate of Mainz, and in 1803 was made over to the archchancellor,
 Archbishop Charles of Dalberg. In 1806 it was annexed to the grand-duchy
-of Frankfort; and in 1814 was transferred to Bavaria, in virtue of a
+of [[Frankfort]]; and in 1814 was transferred to Bavaria, in virtue of a
 treaty concluded on the 19th of June between that power and Austria.
 With lower Franconia, it now forms a district of the kingdom of Bavaria.
 

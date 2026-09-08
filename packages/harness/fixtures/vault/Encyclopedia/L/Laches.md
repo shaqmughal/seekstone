@@ -10,14 +10,14 @@ type: article
 LACHES (from Anglo-French _lachesse_, negligence, from _lasche_, modern
 _lâche_, unloosed, slack), a term for slackness or negligence, used
 particularly in law to signify negligence on the part of a person in
-doing that which he is by law bound to do, or unreasonable lapse of time
+doing that which he is by law bound to do, or unreasonable [[Lapse|lapse]] of time
 in asserting a right, seeking relief, or claiming a privilege. Laches is
 frequently a bar to a remedy which might have been had if prosecuted in
 proper time. Statutes of limitation specify the time within which
 various classes of actions may be brought. Apart from statutes of
-limitation courts of equity will often refuse relief to those who have
+limitation courts of [[Equity|equity]] will often refuse relief to those who have
 allowed unreasonable time to elapse in seeking it, on the principle
-_vigilantibus ac non dormientibus jura subveniunt_.
+_vigilantibus ac non dormientibus [[Jura|jura]] subveniunt_.
 
 ## References
 

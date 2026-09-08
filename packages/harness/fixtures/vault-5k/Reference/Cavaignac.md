@@ -5,7 +5,7 @@ Cavaignac, was born at Paris on the 15th of October 1802. After going
 through the usual course of study for the military profession, he
 entered the army as an engineer officer in 1824, and served in the Morea
 in 1828, becoming captain in the following year. When the revolution of
-1830 broke out he was stationed at Arras, and was the first officer of
+1830 broke out he was stationed at [[Arras]], and was the first officer of
 his regiment to declare for the new order of things. In 1831 he was
 removed from active duty in consequence of his declared republicanism,
 but in 1832 he was recalled to the service and sent to Algeria. This
@@ -38,7 +38,7 @@ advantage that ferocity and despair could suggest to them. Cavaignac
 failed perhaps to appreciate the political exigencies of the moment; as
 a soldier he would not strike his blow until his plans were matured and
 his forces sufficiently prepared. When the troops at last advanced in
-three strong columns, every inch of ground was disputed, and the
+three strong columns, every [[Inch|inch]] of ground was disputed, and the
 government troops were frequently repulsed, till, fresh regiments
 arriving, he forced his way to the Place de la Bastille and crushed the
 insurrection in its headquarters. The contest, which raged from the 23rd
@@ -80,12 +80,12 @@ Emile Loubet (1892) as minister of marine and of the colonies. He had
 exchanged his moderate republicanism for radical views before he became
 war minister in the cabinet of Leon Bourgeois (1895-1896). He was again
 minister of war in the Brisson sabinet in July 1898, when he read in the
-chamber a document which definitely incriminated Captain Alfred Dreyfus.
+chamber a document which definitely incriminated Captain Alfred [[Dreyfus]].
 On the 30th of August, however, he stated that this had been discovered
-to be a forgery by Colonel Henry, but he refused to concur with his
+to be a [[Forgery|forgery]] by Colonel Henry, but he refused to concur with his
 colleagues in a revision of the Dreyfus prosecution, which was the
 logical outcome of his own exposure of the forgery. Resigning his
-portfolio, he continued to declare his conviction of Dreyfus's guilt,
+portfolio, he continued to declare his conviction of Dreyfus's [[Guilt|guilt]],
 and joined the Nationalist group in the chamber, of which he became one
 of the leaders. He also was an energetic supporter of the Ligue de la
 Patrie Francaise. In 1899 Cavaignac was an unsuccessful candidate for

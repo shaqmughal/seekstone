@@ -23,16 +23,16 @@ captivity was a severe blow to the Hohenstaufen cause in Italy, and was
 soon followed by the death of the emperor. He seems to have been well
 treated by the people of Bologna, where he remained a captive until his
 death on the 14th of March 1272. He was apparently granted a magnificent
-funeral, and was buried in the church of St Dominic at Bologna. During
+funeral, and was buried in the church of St [[Dominic]] at Bologna. During
 his imprisonment Enzio is said to have been loved by Lucia da Viadagola,
 a well-born lady of Bologna, who shared his captivity and attempted to
 procure his release. Some doubt has, however, been cast upon this story,
 and the same remark applies to another which tells how two friends had
 almost succeeded in freeing him from prison concealed in a wine-cask,
-when he was recognized by a lock of his golden hair. His marriage with
+when he was recognized by a [[Lock|lock]] of his golden hair. His marriage with
 Adelasia had been declared void by the pope in 1243, and he left one
 legitimate, and probably two illegitimate daughters. Enzio forms the
-subject of a drama by E.B.S. Raupach and of an opera by A.F.B. Dulk.
+subject of a [[Drama|drama]] by E.B.S. Raupach and of an opera by A.F.B. Dulk.
 
   See F.W. Grossman, _Konig Enzio_ (Gottingen, 1883); and H. Blasius,
   _Konig Enzio_ (Breslau, 1884).

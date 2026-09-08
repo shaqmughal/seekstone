@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Caustic"
 
 # Caustic
 
-CAUSTIC (Gr. [Greek: kaustikos], burning), that which burns. In surgery,
+CAUSTIC (Gr. [Greek: kaustikos], burning), that which [[Burns|burns]]. In surgery,
 the term is given to substances used to destroy living tissues and so
-inhibit the action of organic poisons, as in bites, malignant disease
+inhibit the action of organic poisons, as in [[Bit|bites]], malignant disease
 and gangrenous processes. Such substances are silver nitrate (lunar
 caustic), the caustic alkalis (potassium and sodium hydrates), zinc
 chloride, an acid solution of mercuric nitrate, and pure carbolic acid.
@@ -21,11 +21,11 @@ principal curvature.
 In optics, the term _caustic_ is given to the envelope of luminous rays
 after reflection or refraction; in the first case the envelope is termed
 a catacaustic, in the second a diacaustic. Catacaustics are to be
-observed as bright curves when light is allowed to fall upon a polished
+observed as [[Bright|bright]] curves when light is allowed to fall upon a polished
 riband of steel, such as a watch-spring, placed on a table, and by
 varying the form of the spring and moving the source of light, a variety
 of patterns may be obtained. The investigation of caustics, being based
-on the assumption of the rectilinear propagation of light, and the
+on the [[Assumption|assumption]] of the rectilinear propagation of light, and the
 validity of the experimental laws of reflection and refraction, is
 essentially of a geometrical nature, and as such it attracted the
 attention of the mathematicians of the 17th and succeeding centuries,
@@ -44,7 +44,7 @@ Louis Carre.
   CQP are equal; to determine the caustic, it is necessary to determine
   the envelope of this line. This may be readily accomplished
   geometrically or analytically, and it will be found that the envelope
-  is a cardioid (q.v.), i.e. an epicycloid in which the radii of the
+  is a [[Cardioid|cardioid]] (q.v.), i.e. an [[Epicycloid|epicycloid]] in which the radii of the
   fixed and rolling circles are equal. When the rays are parallel, the
   reflecting surface remaining circular, the question can be similarly
   treated, and it is found that the caustic is an epicycloid in which
@@ -63,9 +63,9 @@ Louis Carre.
 
   [Illustration: FIG. 3. c = (1/3)a]
 
-  The Cartesian equation to the caustic produced by reflection at a
+  The Cartesian [[Equation|equation]] to the caustic produced by reflection at a
   circle of rays diverging from any point was obtained by Joseph Louis
-  Lagrange; it may be expressed in the form
+  [[Lagrange]]; it may be expressed in the form
 
     {(4c^2 - a^2)(x^2 + y^2) - 2a^2 cx - a^2 c^2 }^3 =
            = 27a^4 c^2 y^2 (x^2 + y^2 - c^2)^2,
@@ -92,7 +92,7 @@ Louis Carre.
   deducing the primary caustic. It may be shown by geometrical
   considerations that the secondary caustic is a curve similar to the
   first positive pedal of the reflecting curve, of twice the linear
-  dimensions, with respect to the luminous point. For a circle, when the
+  [[Dimension|dimensions]], with respect to the luminous point. For a circle, when the
   rays emanate from any point, the secondary caustic is a limacon, and
   hence the primary caustic is the evolute of this curve.
 
@@ -105,11 +105,11 @@ Louis Carre.
   when luminous rays issuing from a point are refracted at a straight
   line. It may be shown geometrically that the secondary caustic, if the
   second medium be less refractive than the first, is an ellipse having
-  the luminous point for a focus, and its centre at the foot of the
+  the luminous point for a [[Focus|focus]], and its centre at the foot of the
   perpendicular from the luminous point to the refracting line. The
   evolute of this ellipse is the caustic required. If the second medium
   be more highly refractive than the first, the secondary caustic is a
-  hyperbola having the same focus and centre as before, and the caustic
+  [[Hyperbola|hyperbola]] having the same focus and centre as before, and the caustic
   is the evolute of this curve. When the refracting curve is a circle
   and the rays emanate from any point, the locus of the secondary
   caustic is a Cartesian oval, and the evolute of this curve is the

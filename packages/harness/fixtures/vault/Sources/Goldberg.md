@@ -15,8 +15,8 @@ completed in 1876, for the board and education of orphans, and the
 classical school or gymnasium (founded in 1524 by Duke Frederick II. of
 Liegnitz), which in the 17th century enjoyed great prosperity, and
 numbered Wallenstein among its pupils. The chief manufactures are
-woollen cloth, flannel, gloves, stockings, leather and beer, and there
-is a considerable trade in corn and fruit. Goldberg owes its origin and
+woollen cloth, [[Flannel|flannel]], [[Glove|gloves]], stockings, leather and [[Beer|beer]], and there
+is a considerable trade in [[Corn|corn]] and fruit. Goldberg owes its origin and
 name to a gold mine in the neighbourhood, which, however, has been
 wholly abandoned since the time of the Hussite wars. The town obtained
 civic rights in 1211. It suffered heavily from the Tatars in 1241, from

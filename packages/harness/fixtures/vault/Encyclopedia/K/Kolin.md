@@ -11,8 +11,8 @@ id: 42-3127
 
 KOLIN, or NEU-KOLIN (also _Kollin_; Czech, _Nový Kolín_), a town of
 Bohemia, Austria, 40 m. E. of Prague by rail. Pop. (1900), 15,025,
-mostly Czech. It is situated on the Elbe, and amongst its noteworthy
-buildings may be specially mentioned the beautiful early Gothic church
+mostly Czech. It is situated on the [[Elbe]], and amongst its noteworthy
+buildings may be specially mentioned the beautiful early [[Gothic]] church
 of St Bartholomew, erected during the latter half of the 14th century.
 The industries of the town include sugar-refining, steam mills, brewing,
 and the manufacture of starch, syrup, spirits, potash and tin ware. The

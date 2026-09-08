@@ -12,7 +12,7 @@ European medicine in 1757 by John Fothergill. When described by him it
 was believed to have been brought from the river Gambia in West Africa,
 and when first imported it was sold in England as _Gummi rubrum
 astringens gambiense_. It was obtained from _Pterocarpus erinaceus_. The
-drug now recognized as the legitimate kind is East Indian, Malabar or
+drug now recognized as the legitimate kind is East Indian, [[Malabar]] or
 Amboyna kino, which is the evaporated juice obtained from incisions in
 the trunk of _Pterocarpus Marsupium_ (Leguminosae), though Botany Bay
 or eucalyptus kino is used in Australia. When exuding from the tree it

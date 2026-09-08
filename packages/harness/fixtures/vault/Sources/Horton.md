@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Horton"
 
 # Horton
 
-HORTON, SAMUEL DANA (1844-1895), American writer on bimetallism, was
+HORTON, SAMUEL [[Dana|DANA]] (1844-1895), American writer on bimetallism, was
 born in Pomeroy, Ohio, on the 16th of January 1844. He graduated at
 Harvard in 1864, and at the Harvard Law School in 1868, studied Roman
 law in Berlin in 1869, and in 1871 was admitted to the Ohio bar. He
@@ -21,7 +21,7 @@ American delegation to the Monetary Conference which met in Paris in
 1878, and edited the report of the delegation. To the conference of 1881
 he was a delegate, and thereafter he spent much of his time in Europe,
 whither he was sent by President Harrison in 1889 as special
-commissioner to promote the international restoration of silver. He died
+commissioner to promote the [[International|international]] restoration of silver. He died
 in Washington, D.C., on the 23rd of February 1895. Horton's principal
 works were _The Silver Pound_ (1887) and _Silver in Europe_ (1890), a
 volume of essays.

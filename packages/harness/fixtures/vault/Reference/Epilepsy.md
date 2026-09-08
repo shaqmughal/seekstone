@@ -18,11 +18,11 @@ to them.
 
 Epilepsy was well known in ancient times, and was regarded as a special
 infliction of the gods, hence the names _morbus sacer_, _morbus divus_.
-It was also termed _morbus Herculeus_, from Hercules having been
+It was also termed _morbus Herculeus_, from [[Hercules]] having been
 supposed to have been epileptic, and _morbus comitialis_, from the
-circumstance that when any member of the forum was seized with an
+circumstance that when any member of the [[Forum|forum]] was seized with an
 epileptic fit the assembly was broken up. _Morbus caducus_, _morbus
-lunaticus astralis_, _morbus demoniacus_, _morbus major_, were all terms
+lunaticus astralis_, _morbus demoniacus_, _morbus [[Major|major]]_, were all terms
 employed to designate epilepsy.
 
 There are three well-marked varieties of the epileptic seizure; to these
@@ -68,11 +68,11 @@ moment arrested, the countenance first pale then livid, the pupils
 dilated and the pulse rapid. This, the first stage of the fit, generally
 lasts for about half a minute, and is followed by the state of clonic
 (i.e. tumultuous) spasm of the muscles, in which the whole body is
-thrown into violent agitation, occasionally so great that bones may be
+thrown into violent agitation, occasionally so great that [[Bone|bones]] may be
 fractured or dislocated. The eyes roll wildly, the teeth are gnashed
 together, and the tongue and cheeks are often severely bitten. The
 breathing is noisy and laborious, and foam (often tinged with blood)
-issues from the mouth, while the contents of the bowels and bladder are
+issues from the mouth, while the contents of the bowels and [[Bladder|bladder]] are
 ejected. The aspect of the patient in this condition is shocking to
 witness, and the sight has been known to induce a similar attack in an
 onlooker. This stage lasts for a period varying from a few seconds to
@@ -107,7 +107,7 @@ The second manifestation of epilepsy, to which the names _epilepsia
 mitior_ or _le petit mal_ are given, differs from that above described
 in the absence of the convulsive spasms. It is also termed by some
 authors _epileptic vertigo_ (giddiness), and consists essentially in the
-sudden arrest of volition and consciousness, which is of but short
+sudden [[Arrest|arrest]] of volition and consciousness, which is of but short
 duration, and may be accompanied with staggering or some alteration in
 position or motion, or may simply exhibit itself in a look of absence or
 confusion, and should the patient happen to be engaged in conversation,
@@ -127,7 +127,7 @@ of the _grand mal_, but sometimes the reverse is the case.
 The third manifestation--_Jacksonian epilepsy_ or _partial epilepsy_--is
 distinguished by the fact that consciousness is retained or lost late.
 The patient is conscious throughout, and is able to watch the march of
-the spasm. The attacks are usually the result of lesions in the motor
+the spasm. The attacks are usually the result of [[Lesion|lesions]] in the motor
 area of the brain, such being caused, in many instances, by depression
 of the vault of the skull, due to trauma.
 
@@ -135,7 +135,7 @@ Epilepsy appears to exert no necessarily injurious effect upon the
 general health, and even where it exists in an aggravated form is quite
 consistent with a high degree of bodily vigour. It is very different,
 however, with regard to its influence upon the mind; and the question of
-the relation of epilepsy to insanity is one of great and increasing
+the relation of epilepsy to [[Insanity|insanity]] is one of great and increasing
 importance. Allusion has already been made to the occasional occurrence
 of maniacal excitement as one of the results of the epileptic seizure.
 Such attacks, to which the name of _furor epilepticus_ is applied, are
@@ -167,7 +167,7 @@ condition of mental integrity can be recognized. But in general there
 exists some peculiarity, exhibiting itself either in the form of
 defective memory, or diminishing intelligence, or what is perhaps as
 frequent, in irregularities of temper, the patient being irritable or
-perverse and eccentric. In not a few cases there is a steady mental
+perverse and [[Eccentric|eccentric]]. In not a few cases there is a steady mental
 decline, which ends in dementia or idiocy. It is stated by some high
 authorities that epileptic women suffer in regard to their mental
 condition more than men. It also appears to be the case that the later
@@ -186,7 +186,7 @@ may be either direct or indirect, that is to say, that what is epilepsy
 in one generation may be some other form of neurosis in the next, and
 conversely, nervous diseases being remarkable for their tendency to
 transformation in their descent in families. Where epilepsy is
-hereditary, it generally manifests itself at an unusually early period
+hereditary, it generally [[Manifest|manifests]] itself at an unusually early period
 of life. A singular fact, which also bears to some extent upon the
 pathology of this disease, was brought to light by Dr Brown Sequard in
 his experiments, namely, that the young of animals which had been
@@ -222,7 +222,7 @@ experienced medical practitioner will rarely be deceived; and when it is
 stated that although many of the phenomena of an attack, particularly
 the convulsive movements, can be readily simulated, yet that the
 condition of the pupils, which are dilated during the fit, cannot be
-feigned, and that the impostor seldom bites his tongue or injures
+feigned, and that the impostor seldom [[Bit|bites]] his tongue or injures
 himself, deception is not likely to succeed even with non-medical
 persons of intelligence.
 
@@ -231,7 +231,7 @@ During the fit little can be done beyond preventing as far as possible
 the patient from injuring himself while unconsciousness continues. Tight
 clothing should be loosened, and a cork or pad inserted between the
 teeth. When the fit is of long continuance, the dashing of cold water on
-the face and chest, or the inhalation of chloroform, or of nitrite of
+the face and chest, or the inhalation of [[Chloroform|chloroform]], or of nitrite of
 amyl, may be useful; in general, however, the fit terminates
 independently of any such measures. When the fit is over the patient
 should be allowed to sleep, and have the head and shoulders well raised.
@@ -261,7 +261,7 @@ required vary enormously. Children take far larger doses in proportion
 than adults. They are best given in a very diluted form, and after
 meals, to diminish the chances of gastric disturbance. Belladonna seems
 also to have some influence on the disease, and forms a useful addition;
-arsenic should also be prescribed at times, both as a tonic, and for the
+[[Arsenic|arsenic]] should also be prescribed at times, both as a tonic, and for the
 sake of the improvement it effects in those patients who develop a
 tendency to _acne_, which is one of the troublesome results of bromism.
 The administration of the bromides should be maintained until three
@@ -270,7 +270,7 @@ palpitations and loss of the palate reflex are indications to stop, or
 to decrease the quantity of the drug. In very severe cases opium may be
 required.
 
-Surgical treatment for epilepsy is yet in its infancy, and it is too
+Surgical treatment for epilepsy is yet in its [[Infancy|infancy]], and it is too
 early to judge of its results. This does not apply, however, to cases of
 _Jacksonian epilepsy_, where a very large number have been operated on
 with marked benefit. Here the lesion of the brain is, in a very large
@@ -283,10 +283,10 @@ followed by the complete disappearance of the seizures.
 
 
 EPILOGUE. The appendix or supplement to a literary work, and in
-particular to a drama in verse, is called an _epilogue_, from [Greek:
+particular to a [[Drama|drama]] in verse, is called an _epilogue_, from [Greek:
 epilogos], the name given by the Greeks to the peroration of a speech.
-As we read in Shakespeare's _Midsummer Night's Dream_, the epilogue was
-generally treated as the apology for a play; it was a final appeal made
+As we read in Shakespeare's _Midsummer Night's [[Dream]]_, the epilogue was
+generally treated as the [[Apology|apology]] for a play; it was a final appeal made
 to encourage the good-nature of the audiences, and to deprecate attack.
 The epilogue should form no part of the work to which it is attached,
 but should be independent of it; it should be treated as a sort of
@@ -301,7 +301,7 @@ and said "Vos valete, et plaudite, cives"--"Good-bye, citizens, and we
 hope you are pleased." Sometimes this formula was reduced to the one
 word, "Plaudite!" The epilogue as a literary species is almost entirely
 confined to England, and it does not occur in the earliest English
-plays. It is rare in Shakespeare, but Ben Jonson made it a particular
+plays. It is rare in Shakespeare, but [[Ben]] [[Jonson]] made it a particular
 feature of his drama, and may almost be said to have invented the
 tradition of its regular use. He employed the epilogue for two purposes,
 either to assert the merit of the play or to deprecate censure of its
@@ -319,8 +319,8 @@ had been. In the second case, when the author was less confident, his
 epilogue took a humbler form, as in the comedy of _Volpone_ (1605),
 where the actor said:--
 
-  "The seasoning of a play is the applause.
-   Now, as the Fox be punished by the laws,
+  "The seasoning of a play is the [[Applause|applause]].
+   Now, as the [[Fox]] be punished by the laws,
    He yet doth hope, there is no suffering due
    For any fact which he hath done 'gainst _you_.
    If there be, censure him; here he doubtful stands:
@@ -331,24 +331,24 @@ it came more and more into vogue, and the form was almost invariably
 that which Ben Jonson had brought into fashion, namely, the short
 complete piece in heroic couplets. The hey-day of the epilogue, however,
 was the Restoration, and from 1660 to the decline of the drama in the
-reign of Queen Anne scarcely a play, serious or comic, was produced on
+reign of Queen [[Anne]] scarcely a play, serious or comic, was produced on
 the London stage without a prologue and an epilogue. These were almost
 always in verse, even if the play itself was in the roughest prose, and
 they were intended to impart a certain literary finish to the piece.
 These Restoration epilogues were often very elaborate essays or satires,
 and were by no means confined to the subject of the preceding play. They
 dealt with fashions, or politics, or criticism. The prologues and
-epilogues of Dryden are often brilliantly finished exercises in literary
+epilogues of [[Dryden]] are often brilliantly finished exercises in literary
 polemic. It became the custom for playwrights to ask their friends to
 write these poems for them, and the publishers would even come to a
-prominent poet and ask him to supply one for a fee. It gives us an idea
+prominent poet and ask him to supply one for a [[Fee|fee]]. It gives us an idea
 of the seriousness with which the epilogue was treated that Dryden
 originally published his valuable "Defence of the Epilogue; or An Essay
 on the Dramatic Poetry of the Last Age" (1672) as a defence of the
 epilogue which he had written for _The Conquest of Granada_. In France
 the custom of reciting dramatic epilogues has never prevailed. French
 criticism gives the name to such adieux to the public, at the close of a
-non-dramatic work, as are reserved by La Fontaine for certain critical
+non-dramatic work, as are reserved by [[La Fontaine]] for certain critical
 points in the "Fables."     (E. G.)
 
 ## See also

@@ -10,11 +10,11 @@ tags: [exploration, history]
 MATER MATUTA (connected with Lat. _mane_, _matutinus_, "morning"), an
 old Italian goddess of dawn. The idea of light being closely connected
 with childbirth, whereby the infant is brought into the light of the
-world, she came to be regarded as a double of Juno, and was identified
-by the Greeks with Eilithyia. Matuta had a temple in Rome in the Forum
+world, she came to be regarded as a double of [[Juno]], and was identified
+by the Greeks with Eilithyia. Matuta had a temple in Rome in the [[Forum]]
 Boarium, where the festival of Matralia was celebrated on the 11th of
 June. Only married women were admitted, and none who had been married
-more than once were allowed to crown her image with garlands. Under
+more than once were allowed to crown her [[Image|image]] with garlands. Under
 hellenizing influences, she became a goddess of sea and harbours, the
 Ino-Leucothea of the Greeks. In this connexion it is noticeable that, as
 Ino tended her nephew Dionysus, so at the Matralia the participants

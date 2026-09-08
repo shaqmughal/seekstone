@@ -1,8 +1,8 @@
 # Hamburg
 
 HAMBURG, a seaport of Germany, capital of the free state of Hamburg, on
-the right bank of the northern arm of the Elbe, 75 m. from its mouth at
-Cuxhaven and 178 m. N.W. from Berlin by rail. It is the largest and most
+the right bank of the northern arm of the [[Elbe]], 75 m. from its mouth at
+[[Cuxhaven]] and 178 m. N.W. from Berlin by rail. It is the largest and most
 important seaport on the continent of Europe and (after London and New
 York) the third largest in the world. Were it not for political and
 municipal boundaries Hamburg might be considered as forming with Altona
@@ -44,9 +44,9 @@ fired from the harbour to warn the inhabitants of the "fleets"; and if
 the progress of the tide up the river gives indication of danger,
 another three shots follow. The "fleets" with their quaint medieval
 warehouses, which come sheer down to the water, and are navigated by
-barges, have gained for Hamburg the name of "Northern Venice." They are,
+[[Barge|barges]], have gained for Hamburg the name of "Northern Venice." They are,
 however, though antique and interesting, somewhat dismal and unsavoury.
-In fine contrast to them is the bright appearance of the Binnen Alster,
+In fine contrast to them is the [[Bright|bright]] appearance of the Binnen Alster,
 which is enclosed on three sides by handsome rows of buildings, the
 Alsterdamm in the east, the Alter Jungfernstieg in the south, and the
 Neuer Jungfernstieg in the west, while it is separated from the Aussen
@@ -63,7 +63,7 @@ colonies of villas.
 
 The streets enclosing the Binnen Alster are fashionable promenades, and
 leading directly from this quarter are the main business thoroughfares,
-the Neuer-Wall, the Grosse Bleichen and the Hermannstrasse. The largest
+the Neuer-Wall, the [[Grosse]] Bleichen and the Hermannstrasse. The largest
 of the public squares in Hamburg is the Hopfenmarkt, which contains the
 church of St Nicholas (Nikolaikirche) and is the principal market for
 vegetables and fruit. Others of importance are the Gansemarkt, the
@@ -72,13 +72,13 @@ existing in Hamburg (the old cathedral had to be taken down in 1805),
 the St Petrikirche, Nikolaikirche, St Katharinenkirche, St Jakobikirche
 and St Michaeliskirche are those that give their names to the five old
 city parishes. The Nikolaikirche is especially remarkable for its spire,
-which is 473 ft. high and ranks, after those of Ulm and Cologne, as the
+which is 473 ft. high and ranks, after those of Ulm and [[Cologne]], as the
 third highest ecclesiastical edifice in the world. The old church was
 destroyed in the great fire of 1842, and the new building, designed by
-Sir George Gilbert Scott in 13th century Gothic, was erected 1845-1874.
+Sir George Gilbert Scott in 13th century [[Gothic]], was erected 1845-1874.
 The exterior and interior are elaborately adorned with sculptures.
-Sandstone from Osterwald near Hildesheim was used for the outside, and
-for the inner work a softer variety from Postelwitz near Dresden. The
+Sandstone from Osterwald near [[Hildesheim]] was used for the outside, and
+for the inner work a softer variety from Postelwitz near [[Dresden]]. The
 Michaeliskirche, which is built on the highest point in the city and has
 a tower 428 ft. high, was erected (1750-1762) by Ernst G. Sonnin on the
 site of the older building of the 17th century destroyed by lightning;
@@ -104,20 +104,20 @@ interest, but first among them is the new Rathaus, a huge German
 Renaissance building, constructed of sandstone in 1886-1897, richly
 adorned with sculptures and with a spire 330 ft. in height. It is the
 place of meeting of the municipal council and of the senate and contains
-the city archives. Immediately adjoining it and connected with it by two
-wings is the exchange. It was erected in 1836-1841 on the site of the
+the city [[Archive|archives]]. Immediately adjoining it and connected with it by two
+wings is the [[Exchange|exchange]]. It was erected in 1836-1841 on the site of the
 convent of St Mary Magdalen and escaped the conflagration of 1842. It
 was restored and enlarged in 1904, and shelters the commercial library
 of nearly 100,000 vols. During the business hours (1-3 P.M.) the
-exchange is crowded by some 5000 merchants and brokers. In the same
+exchange is crowded by some 5000 merchants and [[Broker|brokers]]. In the same
 neighbourhood is the Johanneum, erected in 1834 and in which are
 preserved the town library of about 600,000 printed books and 5000 MSS.
 and the collection of Hamburg antiquities. In the courtyard is a statue
-(1885) of the reformer Johann Bugenhagen. In the Fischmarkt, immediately
-south of the Johanneum, a handsome fountain was erected in 1890.
+(1885) of the reformer Johann [[Bugenhagen]]. In the Fischmarkt, immediately
+south of the Johanneum, a handsome [[Fountain|fountain]] was erected in 1890.
 Directly west of the town hall is the new Stadthaus, the chief police
 station of the town, in front of which is a bronze statue of the
-burgomaster Karl Friedrich Petersen (1809-1892), erected in 1897. A
+burgomaster Karl [[Friedrich]] Petersen (1809-1892), erected in 1897. A
 little farther away are the headquarters of the Patriotic Society
 (_Patriotische Gesellschaft_), founded in 1765, with fine rooms for the
 meetings of artistic and learned societies. Several new public buildings
@@ -127,15 +127,15 @@ and some good streets were built along the site, while the Kersten
 Miles-Brucke, adorned with statues of four Hamburg heroes, was thrown
 across the Helgolander Allee. Farther north, along the line of the
 former town wall, are the criminal law courts (1879-1882, enlarged 1893)
-and the civil law courts (finished in 1901). Close to the latter stand
-the new supreme court, the old age and accident state insurance offices,
-the chief custom house, and the concert hall, founded by Karl Laeisz, a
+and the [[Civil Law|civil law]] courts (finished in 1901). Close to the latter stand
+the new supreme court, the old age and accident state [[Insurance|insurance]] offices,
+the chief custom house, and the [[Concert|concert]] hall, founded by Karl Laeisz, a
 former Hamburg wharfinger. Farther on are the chemical and the physical
 laboratories and the Hygienic Institute. Facing the botanical gardens a
 new central post-office, in the Renaissance style, was built in 1887. At
 the west end of the Lombards-Brucke there is a monument by Schilling,
 commemorating the war of 1870-71. A few streets south of that is a
-monument to Lessing (1881); while occupying a commanding site on the
+monument to [[Lessing]] (1881); while occupying a commanding site on the
 promenades towards Altona is the gigantic statue of Bismarck which was
 unveiled in June 1906. The Kunst-Halle (the picture gallery), containing
 some good works by modern masters, faces the east end of
@@ -161,7 +161,7 @@ spanned just above the Frei Hafen by a triple-arched railway bridge,
 270 yds. higher up is a magnificent iron bridge (1888) for vehicles and
 foot passengers. The southern arm of the Elbe, on the south side of the
 island of Wilhelmsburg, is crossed by another railway bridge of four
-arches and 2050 ft. in length.
+[[Arches|arches]] and 2050 ft. in length.
 
 _Railways._--The through railway traffic of Hamburg is practically
 confined to that proceeding northwards--to Kiel and Jutland--and for the
@@ -170,8 +170,8 @@ the chief gathering point. The Hamburg stations, connected with the
 other by the Verbindungs-Bahn (or metropolitan railway) crossing the
 Lombards-Brucke, are those of the Venloer (or Hanoverian, as it is often
 called) Bahnhof on the south-east, in close proximity to the harbour,
-into which converge the lines from Cologne and Bremen, Hanover and
-Frankfort-on-Main, and from Berlin, via Nelzen; the Klostertor-Bahnhof
+into which converge the lines from Cologne and Bremen, [[Hanover]] and
+[[Frankfort-On-Main|Frankfort-on-Main]], and from Berlin, via Nelzen; the Klostertor-Bahnhof
 (on the metropolitan line) which temporarily superseded the old Berlin
 station, and the Lubeck station a little to the north-east, during the
 erection of the new central station, which occupies a site between the
@@ -181,8 +181,8 @@ several feet so as to bridge over the streets, and on which lie the
 important stations Dammtor and Sternschanze. An excellent service of
 electric trams interconnect the towns of Hamburg, Altona and the
 adjacent suburbs, and steamboats provide communication on the Elbe with
-the riparian towns and villages; and so with Blankenese and Harburg,
-with Stade, Gluckstadt and Cuxhaven.
+the riparian towns and villages; and so with Blankenese and [[Harburg]],
+with Stade, [[Gluckstadt]] and Cuxhaven.
 
 _Trade and Shipping._--Probably there is no place which during the last
 thirty years of the 19th century grew faster commercially than Hamburg.
@@ -192,8 +192,8 @@ of Europe of the products of all other parts of the world, but is also
 the chief outlet for German, Austrian, and even to some extent Russian
 (Polish) raw products and manufactures. Its principal imports are coffee
 (of which it is the greatest continental market), tea, sugar, spices,
-rice, wine (especially from Bordeaux), lard (from Chicago), cereals,
-sago, dried fruits, herrings, wax (from Morocco and Mozambique),
+rice, wine (especially from [[Bordeaux]]), [[Lard|lard]] (from [[Chicago]]), cereals,
+sago, dried fruits, [[Herrings|herrings]], wax (from Morocco and Mozambique),
 tobacco, hemp, cotton (which of late years shows a large increase),
 wool, skins, leather, oils, dyewoods, indigo, nitrates, phosphates and
 coal. Of the total importations of all kinds of coal to Hamburg, that of
@@ -216,22 +216,22 @@ German customs union, and the barriers which prevented goods
 manufactured at Hamburg from entering into other parts of Germany were
 removed. Among the chief industries are those for the production of
 articles of food and drink. The import trade of various cereals by sea
-to Hamburg is very large, and a considerable portion of this corn is
+to Hamburg is very large, and a considerable portion of this [[Corn|corn]] is
 converted into flour at Hamburg itself. There are also, in this
-connexion, numerous bakeries for biscuit, rice-peeling mills and spice
-mills. Besides the foregoing there are cocoa, chocolate, confectionery
+connexion, numerous bakeries for [[Biscuit|biscuit]], rice-peeling mills and spice
+mills. Besides the foregoing there are [[Cocoa|cocoa]], chocolate, confectionery
 and baking-powder factories, coffee-roasting and ham-curing and smoking
-establishments, lard refineries, margarine manufactories and
+establishments, lard refineries, [[Margarine|margarine]] manufactories and
 fish-curing, preserving and packing factories. There are numerous
-breweries, producing annually about 24,000,000 gallons of beer, spirit
+breweries, producing annually about 24,000,000 gallons of [[Beer|beer]], spirit
 distilleries and factories of artificial waters. Yarns, textile goods
-and weaving industries generally have not attained any great dimensions,
+and weaving industries generally have not attained any great [[Dimension|dimensions]],
 but there are large jute-spinning mills and factories for cotton-wool
 and cotton driving-belts. Among other important articles of domestic
-industry are tobacco and cigars (manufactured mainly in bond, within the
+industry are tobacco and [[Cigar|cigars]] (manufactured mainly in bond, within the
 free harbour precincts), hydraulic machinery, electro-technical
 machinery, chemical products (including artificial manures), oils,
-soaps, india-rubber, ivory and celluloid articles and the manufacture of
+soaps, india-rubber, [[Ivory|ivory]] and celluloid articles and the manufacture of
 leather.
 
 Shipbuilding has made very important progress, and there are at present
@@ -251,7 +251,7 @@ productions of this character of any German city.
   1888 which gave such a vigorous impulse to her more recent commercial
   development. At the same time a portion of the port was set apart as a
   free harbour, altogether an area of 750 acres of water and 1750 acres
-  of dry land. In anticipation of this event a gigantic system of docks,
+  of dry land. In anticipation of this event a gigantic system of [[Dock|docks]],
   basins and quays was constructed, at a total cost of some L7,000,000
   (of which the imperial treasury contributed L2,000,000), between the
   confluence of the Alster and the railway bridge (1868-1873), an entire
@@ -267,13 +267,13 @@ productions of this character of any German city.
   for South America embark, and from which the mail boats for East
   Africa, the boats of the Woermann (West Africa) line, and the
   Norwegian tourist boats depart. To the east of these two is the small
-  Magdeburg basin, penetrating north, and the Baaken basin, penetrating
+  [[Magdeburg]] basin, penetrating north, and the Baaken basin, penetrating
   east, i.e. parallel to the river. The latter affords accommodation to
   the transatlantic steamers, including the emigrant ships of the
   Hamburg-America line, though their "ocean mail boats" generally load
   and unload at Cuxhaven. On the south bank of the stream there follow
   in succession, going from east to west, the Moldau dock for river
-  craft, the sailing vessel dock (Segelschiff Hafen, 3937 ft. long, 459
+  [[Craft|craft]], the sailing vessel dock (Segelschiff Hafen, 3937 ft. long, 459
   to 886 ft. wide, 26-1/4 ft. deep), the Hansa dock, India dock, petroleum
   dock, several swimming and dry docks; and in the west of the free
   port area three other large docks, one of 77 acres for river craft,
@@ -314,15 +314,15 @@ productions of this character of any German city.
   more popular kind. Its Stadt-Theater, rebuilt in 1874, has room for
   1750 spectators and is particularly devoted to operatic performances;
   the Thalia-Theater dates from 1841, and holds 1700 to 1800 people, and
-  the Schauspielhaus (for drama) from 1900 people, and there are some
+  the Schauspielhaus (for [[Drama|drama]]) from 1900 people, and there are some
   seven or eight minor establishments. Theatrical performances were
   introduced into the city in the 17th century, and 1678 is the date of
   the first opera, which was played in a house in the Gansemarkt. Under
   Schroder and Lessing the Hamburg stage rose into importance. Though
   contributing few names of the highest rank to German literature, the
   city has been intimately associated with the literary movement. The
-  historian Lappenberg and Friedrich von Hagedorn were born in Hamburg;
-  and not only Lessing, but Heine and Klopstock lived there for some
+  historian Lappenberg and Friedrich von [[Hagedorn]] were born in Hamburg;
+  and not only Lessing, but [[Heine]] and [[Klopstock]] lived there for some
   time.
 
 _History._--Hamburg probably had its origin in a fortress erected in 808
@@ -331,9 +331,9 @@ defence against the Slavs, and called Hammaburg because of the
 surrounding forest (_Hamme_). In 811 Charlemagne founded a church here,
 perhaps on the site of a Saxon place of sacrifice, and this became a
 great centre for the evangelization of the north of Europe, missionaries
-from Hamburg introducing Christianity into Jutland and the Danish
+from Hamburg introducing Christianity into [[Jutland]] and the Danish
 islands and even into Sweden and Norway. In 834 Hamburg became an
-archbishopric, St Ansgar, a monk of Corbie and known as the apostle of
+archbishopric, St Ansgar, a monk of [[Corbie]] and known as the [[Apostle|apostle]] of
 the North, being the first metropolitan. In 845 church, monastery and
 town were burnt down by the Norsemen, and two years later the see of
 Hamburg was united with that of Bremen and its seat transferred to the
@@ -345,10 +345,10 @@ cathedral and a palace on the Elbe. In 1110 Hamburg, with Holstein,
 passed into the hands of Adolph I., count of Schauenburg, and it is with
 the building of the Neustadt (the present parish of St Nicholas) by his
 grandson, Adolph III. of Holstein, that the history of the commercial
-city actually begins. In return for a contribution to the costs of a
+city actually begins. In return for a contribution to the [[Costs|costs]] of a
 crusade, he obtained from the emperor Frederick I. in 1189 a charter
 granting Hamburg considerable franchises, including exemption from
-tolls, a separate court and jurisdiction, and the rights of fishery on
+tolls, a separate court and jurisdiction, and the rights of [[Fishery|fishery]] on
 the Elbe from the city to the sea. The city council (_Rath_), first
 mentioned in 1190, had jurisdiction over both the episcopal and the new
 town. Craft gilds were already in existence, but these had no share in
@@ -363,7 +363,7 @@ flourishing trading centre of Bardowieck by Henry the Lion; from this
 time it began to be much frequented by Flemish merchants. In 1201 the
 city submitted to Valdemar of Schleswig, after his victory over the
 count of Holstein, but in 1225, owing to the capture of King Valdemar
-II. of Denmark by Henry of Schwerin, it once more exchanged the Danish
+II. of [[Denmark]] by Henry of Schwerin, it once more exchanged the Danish
 over-lordship for that of the counts of Schauenburg, who established
 themselves here and in 1231 built a strong castle to hold it in check.
 The defensive alliance of the city with Lubeck in 1241, extended for
@@ -377,11 +377,11 @@ _Rath_ led, early in the 15th century, to a rising of the craft gilds
 against the patrician merchants, and in 1410 they forced the latter to
 recognize the authority of a committee of 48 burghers, which concluded
 with the senate the so-called First Recess; there were, however, fresh
-outbursts in 1458 and 1483, which were settled by further compromises.
-In 1461 Hamburg did homage to Christian I. of Denmark, as heir of the
+outbursts in 1458 and 1483, which were settled by further [[Compromise|compromises]].
+In 1461 Hamburg did [[Homage|homage]] to Christian I. of Denmark, as [[Heir|heir]] of the
 Schauenburg counts; but the suzerainty of Denmark was merely nominal and
 soon repudiated altogether; in 1510 Hamburg was made a free imperial
-city by the emperor Maximilian I.
+city by the emperor [[Maximilian]] I.
 
 In 1529 the Reformation was definitively established in Hamburg by the
 Great Recess of the 19th of February, which at the same time vested the
@@ -389,20 +389,20 @@ government of the city in the _Rath_, together with the three colleges
 of the _Oberalten_, the Forty-eight (increased to 60 in 1685) and the
 Hundred and Forty-four (increased to 180). The ordinary burgesses
 consisted of the freeholders and the master-workmen of the gilds. In
-1536 Hamburg joined the league of Schmalkalden, for which error it had
+1536 Hamburg joined the league of Schmalkalden, for which [[Error|error]] it had
 to pay a heavy fine in 1547 when the league had been defeated. During
 the same period the Lutheran zeal of the citizens led to the expulsion
 of the Mennonites and other Protestant sects, who founded Altona. The
 loss this brought to the city was, however, compensated for by the
 immigration of Protestant refugees from the Low Countries and Jews from
 Spain and Portugal. In 1549, too, the English merchant adventurers
-removed their staple from Antwerp to Hamburg.
+removed their staple from [[Antwerp]] to Hamburg.
 
 The 17th century saw notable developments. Hamburg had established, so
 early as the 16th century, a regular postal service with certain cities
 in the interior of Germany, e.g. Leipzig and Breslau; in 1615 it was
 included in the postal system of Turn and Taxis. In 1603 Hamburg
-received a code of laws regulating exchange, and in 1619 the bank was
+received a [[Code|code]] of laws regulating exchange, and in 1619 the bank was
 established. In 1615 the Neustadt was included within the city walls.
 During the Thirty Years' War the city received no direct harm; but the
 ruin of Germany reacted upon its prosperity, and the misery of the lower
@@ -410,7 +410,7 @@ orders led to an agitation against the _Rath_. In 1685, at the
 invitation of the popular leaders, the Danes appeared before Hamburg
 demanding the traditional homage; they were repulsed, but the internal
 troubles continued, culminating in 1708 in the victory of the democratic
-factions. The imperial government, however, intervened, and in 1712 the
+[[Faction|factions]]. The imperial government, however, intervened, and in 1712 the
 "Great Recess" established durable good relations between the _Rath_ and
 the commonalty. Frederick IV. of Denmark, who had seized the opportunity
 to threaten the city (1712), was bought off with a ransom of 246,000
@@ -423,17 +423,17 @@ United States, by the treaty of Paris, became an independent power. From
 this time dates its first direct maritime communication with America.
 Its commerce was further extended and developed by the French
 occupation of Holland in 1795, when the Dutch trade was largely directed
-to its port. The French Revolution and the insecurity of the political
+to its port. The [[French Revolution]] and the insecurity of the political
 situation, however, exercised a depressing and retarding effect. The
 wars which ensued, the closing of continental ports against English
-trade, the occupation of the city after the disastrous battle of Jena,
+trade, the occupation of the city after the disastrous battle of [[Jena]],
 and pestilence within its walls brought about a severe commercial crisis
 and caused a serious decline in its prosperity. Moreover, the great
 contributions levied by Napoleon on the city, the plundering of its bank
 by Davoust, and the burning of its prosperous suburbs inflicted wounds
 from which the city but slowly recovered. Under the long peace which
 followed the close of the Napoleonic wars, its trade gradually revived,
-fostered by the declaration of independence of South and Central
+fostered by the [[Declaration|declaration]] of independence of South and Central
 America, with both of which it energetically opened close commercial
 relations, and by the introduction of steam navigation. The first
 steamboat was seen on the Elbe on the 17th of June 1816; in 1826 a
@@ -462,7 +462,7 @@ one of the healthiest commercial cities of Europe.
   (1889-1896); and W. von Melle, _Das hamburgische Staatsrecht_ (1891).
   There are many valuable official publications which may be consulted,
   among these being: _Statistik des hamburgischen Staates_ (1867-1904);
-  _Hamburgs Handel und Schiffahrt_ (1847-1903); the yearly
+  _Hamburgs [[Handel]] und Schiffahrt_ (1847-1903); the yearly
   _Hamburgischer Staatskalender_; and _Jahrbuch der Hamburger
   wissenschaftlichen Anstalten_. See also _Hamburg und seine Bauten_
   (1890); H. Benrath, _Lokalfuhrer durch Hamburg und Umgebungen_ (1904);
@@ -470,7 +470,7 @@ one of the healthiest commercial cities of Europe.
   at Hamburg, to whom the author is indebted for great assistance in
   compiling this article.
 
-  For the history of Hamburg see the _Zeitschrift des Vereins fur
+  For the history of Hamburg see the _Zeitschrift des Vereins [[Fur|fur]]
   hamburgische Geschichte_ (1841, fol.); G. Dehio, _Geschichte des
   Erzbistums Hamburg-Bremen_ (Berlin, 1877); the _Hamburgisches
   Urkundenbuch_ (1842), the _Hamburgische Chroniken_ (1852-1861), and

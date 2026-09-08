@@ -18,7 +18,7 @@ of the students of divinity who were maintained at the expense of the
 church, and who for the period of four years were at liberty to
 prosecute their studies in any Protestant seminary. During this period
 he acted as tutor to the two sons of Calignon, chancellor of Navarre.
-They spent one year at Paris, and two at Geneva, whence they removed to
+They spent one year at Paris, and two at [[Geneva]], whence they removed to
 Heidelberg. In this university, on the 4th of April 1608, he gave a
 public proof of his ability by maintaining a series of theses, _De
 triplici Dei cum Homine Foedere_, which were printed among his works.

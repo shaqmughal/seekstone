@@ -26,9 +26,9 @@ oxidation of methyl heptenone and of geraniol. It crystallizes in
 plates, which melt at 32.5-33° C. and boil at 148-149° (15 mm.) (A.
 Michael, _Jour. prak. Chem._, 1891 [2], 44, p. 114). It is readily
 soluble in alcohol, ether and water. The acid, when distilled slowly, is
-decomposed and yields [alpha]- and [beta]-angelica lactones. When heated
+decomposed and yields [alpha]- and [beta]-[[Angelica|angelica]] [[Lactones|lactones]]. When heated
 with hydriodic acid and phosphorus, it yields n-valeric acid; and with
-iodine and caustic soda solution it gives iodoform, even in the cold.
+iodine and caustic soda solution it gives [[Iodoform|iodoform]], even in the cold.
 With hydroxylamine it yields an oxime, which by the action of
 concentrated sulphuric acid rearranges itself to N-methylsuccinimide
 [CH2·CO]2N·CH3.

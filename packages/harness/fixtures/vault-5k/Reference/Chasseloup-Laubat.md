@@ -33,16 +33,16 @@ Napoleon, then engaged in the Polish campaign, called him to the _Grande
 Armee_, with which he served in the campaign of 1806-07, directing the
 sieges of Colberg, Danzig and Stralsund. During the Napoleonic
 domination in Germany, Chasseloup reconstructed many fortresses, in
-particular Magdeburg. In the campaign of 1809 he again served in Italy.
+particular [[Magdeburg]]. In the campaign of 1809 he again served in Italy.
 In 1810 Napoleon made him a councillor of state. His last campaign was
 that of 1812 in Russia. He retired from active service soon afterwards,
 though in 1814 he was occasionally engaged in the inspection and
 construction of fortifications. Louis XVIII. made him a peer of France
-and a knight of St Louis. He refused to join Napoleon in the Hundred
+and a [[Knight|knight]] of St Louis. He refused to join Napoleon in the Hundred
 Days, but after the second Restoration he voted in the chamber of peers
 against the condemnation of Marshal Ney. In politics he belonged to the
 constitutional party. The king created him a marquis. Chasseloup's later
-years were employed chiefly in putting in order his manuscripts, a task
+years were employed chiefly in putting in order his [[Manuscript|manuscripts]], a task
 which he had to abandon owing to the failure of his sight. His only
 published work was _Correspondence d'un general francais, &c. sur divers
 sujets_ (Paris, 1801, republished Milan, 1805 and 1811, under the title
@@ -55,12 +55,12 @@ the old bastioned system. He followed in many respects the engineer
 Bousmard, whose work was published in 1797 and who fell, as a Prussian
 officer, in the defence of Danzig in 1807 against Chasseloup's own
 attack. His front was applied to Alessandria, as has been stated, and
-contains many elaborations of the bastion trace, with, in particular,
+contains many elaborations of the [[Bastion|bastion]] trace, with, in particular,
 masked flanks in the tenaille, which served as extra flanks of the
 bastions. The bastion itself was carefully and minutely retrenched. The
 ordinary ravelin he replaced by a heavy casemated caponier after the
 example of Montalembert, and, like Bousmard's, his own ravelin was a
-large and powerful work pushed out beyond the glacis.
+large and powerful work pushed out beyond the [[Glacis|glacis]].
 
 ## See also
 

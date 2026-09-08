@@ -1,6 +1,6 @@
 # Antigua
 
-ANTIGUA, an island in the British West Indies, forming, with Barbuda and
+ANTIGUA, an island in the British West Indies, forming, with [[Barbuda]] and
 Redonda, one of the five presidencies in the colony of the Leeward
 Islands. It lies 50 m. E. of St Kitts, in 17 deg. 6' N. and 61 deg. 45'
 W., and is 54 m. in circumference, with an area of 108 sq. m. The
@@ -17,9 +17,9 @@ harbours, that of St John being safe and commodious, but inferior to
 English Harbour, which, although little frequented, is capable of
 receiving vessels of the largest size. The soil, especially in the
 interior, is very fertile. Sugar and pineapples are the chief products
-for export, but sweet potatoes, yams, maize and guinea corn are grown
+for export, but sweet potatoes, yams, maize and guinea [[Corn|corn]] are grown
 for local consumption. Antigua is the residence of the governor of the
-Leeward Islands, and the meeting place of the general legislative
+[[Leeward Islands]], and the meeting place of the general legislative
 council, but there is also a local legislative council of 16 members,
 half official and half unofficial. Until 1898, when the Crown Colony
 system was adopted, the legislative council was partly elected, partly
@@ -30,9 +30,9 @@ of a bishop of the Church of England, the members of which predominate
 here, but Moravians and Wesleyans are numerous. There is a small
 volunteer defence force. The island has direct steam communication with
 Great Britain, the United States and Canada, and is also served by the
-submarine cable. The three chief towns are St John, Falmouth and Parham.
+submarine [[Cable|cable]]. The three chief towns are St John, [[Falmouth]] and Parham.
 St John (pop. about 10,000), the capital, situated on the north-west, is
-an exceedingly picturesque town, built on an eminence overlooking one of
+an exceedingly picturesque town, built on an [[Eminence|eminence]] overlooking one of
 the most beautiful harbours in the West Indies. Although both Falmouth
 and Parham have good harbours, most of the produce of the island finds
 its way to St John for shipment. The trade is chiefly with the United

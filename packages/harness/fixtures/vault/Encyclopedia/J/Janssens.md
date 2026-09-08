@@ -1,12 +1,12 @@
 # Janssens
 
-JANSSENS (or JANSENS), VICTOR HONORIUS (1664-1739), Flemish painter, was
+JANSSENS (or JANSENS), VICTOR [[Honorius|HONORIUS]] (1664-1739), Flemish painter, was
 born at Brussels. After seven years in the studio of an obscure painter
 named Volders, he spent four years in the household of the duke of
 Holstein. The next eleven years Janssens passed in Rome, where he took
 eager advantage of all the aids to artistic study, and formed an
 intimacy with Tempesta, in whose landscapes he frequently inserted
-figures. Rising into popularity, he painted a large number of cabinet
+figures. Rising into popularity, he painted a large number of [[Cabinet|cabinet]]
 historical scenes; but, on his return to Brussels, the claims of his
 increasing family restricted him almost entirely to the larger and more
 lucrative size of picture, of which very many of the churches and

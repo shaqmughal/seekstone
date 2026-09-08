@@ -7,7 +7,7 @@ type: source
 
 # Knolles
 
-KNOLLES (or KNOLLYS), SIR ROBERT (c. 1325-1407), English soldier,
+KNOLLES (or [[Knollys|KNOLLYS]]), SIR ROBERT (c. 1325-1407), English soldier,
 belonged to a Cheshire family. In early life he served in Brittany, and
 he was one of the English survivors who were taken prisoners by the
 French after the famous "combat of the thirty" in March 1351. He was,
@@ -21,11 +21,11 @@ devastation along the valley of the Loire, fighting at this time for his
 own hand and for booty, and winning a terrible reputation by his
 ravages. After the conclusion of the treaty of Brétigny in 1360 Knolles
 returned to Brittany and took part in the struggle for the possession of
-the duchy between John of Montfort (Duke John IV.) and Charles of Blois,
-gaining great fame by his conduct in the fight at Auray (September
-1364), where Du Guesclin was captured and Charles of Blois was slain.
+the duchy between John of Montfort (Duke John IV.) and Charles of [[Blois]],
+gaining great fame by his conduct in the fight at [[Auray]] (September
+1364), where [[Du Guesclin]] was captured and Charles of Blois was slain.
 In 1367 he marched with the Black Prince into Spain and fought at the
-battle of Nájera; in 1369 he was with the prince in Aquitaine. In 1370
+battle of Nájera; in 1369 he was with the prince in [[Aquitaine]]. In 1370
 he was placed by Edward III. at the head of an expedition which invaded
 France and marched on Paris, but after exacting large sums of money as
 ransom a mutiny broke up the army, and its leader was forced to take

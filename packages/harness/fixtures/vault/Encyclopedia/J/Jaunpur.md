@@ -6,13 +6,13 @@ topic: science
 
 # Jaunpur
 
-JAUNPUR, a city and district of British India, in the Benares division
+JAUNPUR, a city and district of British India, in the [[Benares]] division
 of the United Provinces. The city is on the left bank of the river
 Gumti, 34 m. N.W. from Benares by rail. Pop. (1901), 42,771. Jaunpur is
 a very ancient city, the former capital of a Mahommedan kingdom which
-once extended from Budaun and Etawah to Behar. It abounds in splendid
+once extended from [[Budaun]] and [[Etawah]] to [[Behar]]. It abounds in splendid
 architectural monuments, most of which belong to the period when the
-rulers of Jaunpur were independent of Delhi. The fort of Feroz Shah is
+rulers of Jaunpur were independent of [[Delhi]]. The fort of Feroz Shah is
 in great part completely ruined, but there remain a fine gateway of the
 16th century, a mosque dating from 1376, and the _hammams_ or baths of
 Ibrahim Shah. Among other buildings may be mentioned the Atala Masjid
@@ -22,7 +22,7 @@ the Dariba mosque constructed by two of Ibrahim's governors; the Lal
 Darwaza erected by the queen of Mahmud; the Jama Masjid (1438-1478) or
 great mosque of Husain, with court and cloisters, standing on a raised
 terrace, and in part restored in modern times; and finally the splendid
-bridge over the Gumti, erected by Munim Khan, Mogul governor in
+bridge over the Gumti, erected by Munim [[Khan]], Mogul governor in
 1569-1573. During the Mutiny of 1857 Jaunpur formed a centre of
 disaffection. The city has now lost its importance, the only industries
 surviving being the manufacture of perfumes and papier-mâché articles.
@@ -30,27 +30,27 @@ surviving being the manufacture of perfumes and papier-mâché articles.
 The DISTRICT OF JAUNPUR has an area of 1551 sq. m. It forms part of the
 wide Gangetic plain, and its surface is accordingly composed of a thick
 alluvial deposit. The whole country is closely tilled, and no waste
-lands break the continuous prospect of cultivated fields. It is divided
+lands break the continuous prospect of cultivated [[Fields|fields]]. It is divided
 into two unequal parts by the sinuous channel of the Gumti, a tributary
-of the Ganges, which flows past the city of Jaunpur. Its total course
+of the [[Ganges]], which flows past the city of Jaunpur. Its total course
 within the district is about 90 m., and it is nowhere fordable. It is
 crossed by two bridges, one at Jaunpur and the other 2 m. lower down.
 The Gumti is liable to sudden inundations during the rainy season, owing
 to the high banks it has piled up at its entrance into the Ganges, which
 act as dams to prevent the prompt outflow of its flooded waters. These
 inundations extend to its tributary the Sai. Much damage was thus
-effected in 1774; but the greatest recorded flood took place in
+effected in 1774; but the greatest recorded [[Flood|flood]] took place in
 September 1871, when 4000 houses in the city were swept away, besides
 9000 more in villages along its banks. The other rivers are the Sai,
 Barna, Pili and Basohi. Lakes are numerous in the north and south; the
 largest has a length of 8 m. Pop. (1901), 1,202,920, showing a decrease
 of 5% in the decade. Sugar-refining is the principal industry. The
 district is served by the line of the Oudh & Rohilkhand railway from
-Benares to Fyzabad, and by branches of this and of the Bengal &
+Benares to [[Fyzabad]], and by branches of this and of the [[Bengal]] &
 North-Western systems.
 
 In prehistoric times Jaunpur seems to have formed a portion of the
-Ajodhya principality, and when it first makes an appearance in authentic
+Ajodhya principality, and when it first makes an appearance in [[Authentic|authentic]]
 history it was subject to the rulers of Benares. With the rest of their
 dominions it fell under the yoke of the Mussulman invaders in 1194. From
 that time the district appears to have been ruled by a prince of the

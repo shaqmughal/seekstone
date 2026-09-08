@@ -29,7 +29,7 @@ of depressing melancholy. From these hard tasks and his fiery temperament,
 craving in vain for sympathy in a frigid air, grew the strong temptations
 on which Burns was largely wrecked,--the thirst for stimulants and the
 revolt against restraint which soon made headway and passed all bars. In
-the earlier portions of his career a buoyant humour bore him up; and amid
+the earlier portions of his career a buoyant [[Humour|humour]] bore him up; and amid
 thick-coming shapes of ill he bated no jot of heart or hope. He was cheered
 by vague stirrings of ambition, which he pathetically compares to the
 "blind groping of Homer's Cyclops round the walls of his cave." Sent to
@@ -37,7 +37,7 @@ school at Kirkoswald, he became, for his scant leisure, a great
 reader--eating at meal-times with a spoon in one hand and a book in the
 other,--and carrying a few small volumes in his pocket to study in spare
 moments in the fields. "The collection of songs" he tells us, "was my _vade
-mecum_. I pored over them driving my cart or walking to labour, song by
+mecum_. I pored over them driving my [[Cart|cart]] or walking to labour, song by
 song, verse by verse, carefully noting the true, tender, sublime or
 fustian." He lingered over the ballads in his cold room by night; by day,
 whilst whistling at the plough, he invented new forms and was inspired by
@@ -52,7 +52,7 @@ his father's fields that he was inspired with the perpetually quoted wish--
 An equally striking illustration of the same feeling is to be found in his
 summer Sunday's ramble to the Leglen wood,--the fabled haunt of
 Wallace,--which the poet confesses to have visited "with as much devout
-enthusiasm as ever pilgrim did the shrine of Loretto." In another reference
+[[Enthusiasm|enthusiasm]] as ever pilgrim did the shrine of Loretto." In another reference
 to the same period he refers to the intense susceptibility to the homeliest
 aspects of Nature which throughout characterized his genius. "Scarcely any
 object gave me more--I do not know if I should call it pleasure--but
@@ -81,10 +81,10 @@ the usual despairs, and resorted to the not unusual sources of consolation.
 He had found that he was "no enemy to social life," and his mates had
 discovered that he was the best of boon companions in the lyric feasts,
 where his eloquence shed a lustre over wild ways of life, and where he was
-beginning to be distinguished as a champion of the New Lights and a
+beginning to be distinguished as a [[Champion|champion]] of the New Lights and a
 satirist of the Calvinism whose waters he found like those of Marah.
 
-In Robert's 25th year his father died, full of sorrows and apprehensions
+In Robert's 25th year his father died, full of sorrows and [[Apprehension|apprehensions]]
 for the gifted son who wrote for his tomb in Alloway kirkyard, the fine
 epitaph ending with the characteristic line--
 
@@ -122,7 +122,7 @@ poems, the results of his scanty leisure at Lochlea and Mossgiel; among
 others "The Twa Dogs,"--a graphic idealization of Aesop,--"The Author's
 Prayer," the "Address to the Deil," "The Vision" and "The Dream,"
 "Halloween," "The Cottar's Saturday Night," the lines "To a Mouse" and "To
-a Daisy," "Scotch Drink," "Man was made to Mourn," the "Epistle to Davie,"
+a [[Daisy]]," "Scotch Drink," "Man was made to Mourn," the "[[Epistle]] to Davie,"
 and some of his most popular songs. This epitome of a genius so marvellous
 and so varied took his audience by storm. "The country murmured of him from
 sea to sea." "With his poems," says Robert Heron, "old and young, grave and
@@ -170,11 +170,11 @@ critics of the North were satisfied to endorse him as a rustic prodigy, and
 brought upon themselves a share of his satire. Some of the friendships
 contracted during this period--as for Lord Glencairn and Mrs Dunlop--are
 among the most pleasing and permanent in literature; for genuine kindness
-was never wasted on one who, whatever his faults, has never been accused of
+was never wasted on one who, whatever his [[Fault|faults]], has never been accused of
 ingratitude. But in the bard's city life there was an unnatural element. He
 stooped to beg for neither smiles nor favour, but the gnarled country oak
 is cut up into cabinets in artificial prose and verse. In the letters to Mr
-Graham, the prologue to Mr Wood, and the epistles to Clarinda, he is
+[[Graham]], the prologue to Mr Wood, and the epistles to Clarinda, he is
 dancing minuets with hob-nailed shoes. When, in 1787, the second edition of
 the _Poems_ came out, the proceeds of their sale realized for the author
 L400. On the strength of this sum he gave himself two long rambles, full of
@@ -192,7 +192,7 @@ L70. In the course of the following year he was asked to contribute to
 George Thomson's _Select Collection of Original Scottish Airs with
 Symphonies and Accompaniments for the Pianoforte and Violin: the poetry by
 Robert Burns_. To this work he contributed about one hundred songs, the
-best of which are now ringing in the ear of every Scotsman from New Zealand
+best of which are now ringing in the [[Ear|ear]] of every Scotsman from New Zealand
 to San Francisco. For these, original and adapted, he received a shawl for
 his wife, a picture by David Allan representing the "Cottar's Saturday
 Night," and L5! The poet wrote an indignant letter and never afterwards
@@ -224,7 +224,7 @@ hope. I look on the vernal day and say with poor Fergusson--
   Life to the comfortless and wretched given."
 
 On the 4th of July he was seen to be dying. On the 12th he wrote to his
-cousin for the loan of L10 to save him from passing his last days in jail.
+[[Cousin|cousin]] for the loan of L10 to save him from passing his last days in jail.
 On the 21st he was no more. On the 25th, when his last son came into the
 world, he was buried with local honours, the volunteers of the company to
 which he belonged firing three volleys over his grave.
@@ -245,13 +245,13 @@ being an epitome of melodies, moods and memories that had belonged for
 centuries to the national life, the best [v.04 p.0858] inspirations of
 which have passed into them. But in gathering from his ancestors Burns has
 exalted their work by asserting a new dignity for their simplest themes. He
-is the heir of Barbour, distilling the spirit of the old poet's epic into a
-battle chant, and of Dunbar, reproducing the various humours of a
+is the heir of [[Barbour]], distilling the spirit of the old poet's epic into a
+battle [[Chant|chant]], and of Dunbar, reproducing the various humours of a
 half-sceptical, half-religious philosophy of life. He is the pupil of
 Ramsay, but he leaves his master, to make a social protest and to lead a
 literary revolt. _The Gentle Shepherd_, still largely a court pastoral, in
-which "a man's a man" if born a gentleman, may be contrasted with "The
-Jolly Beggars"--the one is like a minuet of the ladies of Versailles on the
+which "a man's a man" if born a [[Gentleman|gentleman]], may be contrasted with "The
+[[Jolly]] Beggars"--the one is like a minuet of the ladies of Versailles on the
 sward of the Swiss village near the Trianon, the other like the march of
 the maenads with Theroigne de Mericourt. Ramsay adds to the rough tunes and
 words of the ballads the refinement of the wits who in the "Easy" and
@@ -285,7 +285,7 @@ of _The Seasons_, but in his power of tuning its manifestation to the moods
 of the mind he is more properly ranked as a forerunner of Wordsworth. He
 never follows the fashions of his century, except in his failures--in his
 efforts at set panegyric or fine letter-writing. His highest work knows
-nothing of "Damon" or "Musidora." He leaves the atmosphere of drawing-rooms
+nothing of "Damon" or "Musidora." He leaves the atmosphere of [[Drawing-Room|drawing-rooms]]
 for the ingle or the ale-house or the mountain breeze.
 
 The affectations of his style are insignificant and rare. His prevailing
@@ -294,14 +294,14 @@ social life was his besetting sin; Nature was his healing power. Burns
 compares himself to an Aeolian harp, strung to every wind of heaven. His
 genius flows over all living and lifeless things with a sympathy that finds
 nothing mean or insignificant. An uprooted daisy becomes in his pages an
-enduring emblem of the fate of artless maid and simple bard. He disturbs a
+enduring [[Emblem|emblem]] of the [[Fate|fate]] of artless maid and simple bard. He disturbs a
 mouse's nest and finds in the "tim'rous beastie" a fellow-mortal doomed
 like himself to "thole the winter's sleety dribble," and draws his
 oft-repeated moral. He walks abroad and, in a verse that glints with the
 light of its own rising sun before the fierce sarcasm of "The Holy Fair,"
 describes the melodies of a "simmer Sunday morn." He loiters by Afton Water
 and "murmurs by the running brook a music sweeter than its own." He stands
-by a roofless tower, where "the howlet mourns in her dewy bower," and "sets
+by a roofless tower, where "the howlet mourns in her dewy [[Bower|bower]]," and "sets
 the wild echoes flying," and adds to a perfect picture of the scene his
 famous vision of "Libertie." In a single stanza he concentrates the
 sentiment of many Night Thoughts--
@@ -315,7 +315,7 @@ his stream--
  "Whiles ow'r a linn the burnie plays
   As through the glen it wimpled," &c.,
 
-or to "The Birks of Aberfeldy" or the "spate" in the dialogue of "The Brigs
+or to "The Birks of Aberfeldy" or the "spate" in the [[Dialogue|dialogue]] of "The Brigs
 of Ayr." The poet is as much at home in the presence of this flood as by
 his "trottin' burn's meander." Familiar with all the seasons he represents
 the phases of a northern winter with a frequency characteristic of his
@@ -331,11 +331,11 @@ countrymen. As a painter he is rivalled by Dunbar and James I., more rarely
 by Thomson and Ramsay. The "lilt" of Tannahill's finest verse is even more
 charming. But these writers rest in their art; their main care is for their
 own genius. The same is true in a minor degree of some of his great English
-successors. Keats has a palette of richer colours, but he seldom
-condescends to "human nature's daily food." Shelley floats in a thin air to
+successors. Keats has a palette of richer [[Colours|colours]], but he seldom
+condescends to "human nature's daily food." Shelley [[Float|floats]] in a thin air to
 stars and mountain tops, and vanishes from our gaze like his skylark.
-Byron, in the midst of his revolutionary fervour, never forgets that he
-himself belongs to the "caste of Vere de Vere." Wordsworth's placid
+[[Byron]], in the midst of his revolutionary fervour, never forgets that he
+himself belongs to the "[[Caste|caste]] of Vere [[De Vere|de Vere]]." Wordsworth's placid
 affection and magnanimity stretch beyond mankind, and, as in
 "Hart-leap-well" and the "Cuckoo," extend to bird and beast; he moralizes
 grandly on the vicissitudes of common life, but he does not enter into,
@@ -354,7 +354,7 @@ with those who rejoice and mourns with those who mourn. He is never
 shallow, ever plain, and the expression of his feeling is so terse that it
 is always memorable. Of the people he speaks more directly for the people
 than any of our more considerable poets. Chaucer has a perfect hold of the
-homeliest phases of life, but he wants the lyric element, and the charm of
+homeliest phases of life, but he wants the lyric element, and the [[Charm|charm]] of
 his language has largely faded from untutored ears. Shakespeare, indeed,
 has at once a loftier vision and a wider grasp; for he sings of "Thebes and
 Pelops line," of Agincourt and Philippi, as of Falstaff, and Snug the
@@ -378,7 +378,7 @@ smell sweet like the actions of the just for generations to come.
 Lovers of rustic festivity may hold that the poet's greatest performance is
 his narrative of "Halloween," which for easy vigour, fulness of rollicking
 life, blended truth and fancy, is unsurpassed in its kind. Campbell,
-Wilson, Hazlitt, Montgomery, Burns himself, and the majority of his
+Wilson, [[Hazlitt]], Montgomery, Burns himself, and the majority of his
 critics, have [v.04 p.0859] recorded their preference for "Tam o' Shanter,"
 where the weird superstitious element that has played so great a part in
 the imaginative work of this part of our island is brought more prominently
@@ -435,7 +435,7 @@ repeated with glib complacency every terrible belief of the system in which
 they had been trained. The most scathing of his _Satires_, under which head
 fall many of his minor and frequent passages in his major pieces, are
 directed against the false pride of birth, and what he conceived to be the
-false pretences of religion. The apologue of "Death and Dr Hornbook," "The
+[[False Pretences|false pretences]] of religion. The apologue of "Death and Dr Hornbook," "The
 Ordination," the song "No churchman am I for to rail and to write," the
 "Address to the Unco Guid," "Holy Willie," and above all "The Holy Fair,"
 with its savage caricature of an ignorant ranter of the time called Moodie,
@@ -445,7 +445,7 @@ it has to be remarked that from the days of Dunbar there has been a degree
 of antagonism between Scottish verse and the more rigid forms of Scottish
 theology.
 
-It must be admitted that in protesting against hypocrisy he has
+It must be admitted that in protesting against [[Hypocrisy|hypocrisy]] he has
 occasionally been led beyond the limits prescribed by good taste. He is at
 times abusive of those who differ from him. This, with other offences
 against decorum, which here and there disfigure his pages, can only be
@@ -470,17 +470,17 @@ a Young Friend," the shrewdest advice is blended with exhortations
 appealing to the highest motive, that which transcends the calculation of
 consequences, and bids us walk in the straight path from the feeling of
 personal honour, and "for the glorious privilege of being independent."
-Burns, like Dante, "loved well because he hated, hated wickedness that
+Burns, like [[Dante]], "loved well because he hated, hated wickedness that
 hinders loving," and this feeling, as in the lines--"Dweller in yon dungeon
 dark," sometimes breaks bounds; but his calmer moods are better represented
 by the well-known passages in the "Epistle to Davie," in which he preaches
-acquiescence in our lot, and a cheerful acceptance of our duties in the
+acquiescence in our [[Lot|lot]], and a cheerful acceptance of our duties in the
 sphere where we are placed. This _philosophie douce_, never better sung by
 Horace, is the prevailing refrain of our author's _Songs_. On these there
 are few words to add to the acclaim of a century. They have passed into the
 air we breathe; they are so real that they seem things rather than words,
 or, nearer still, living beings. They have taken all hearts, because they
-are the breath of his own; not polished cadences, but utterances as direct
+are the breath of his own; not polished [[Cadence|cadences]], but utterances as direct
 as laughter or tears. Since Sappho loved and sang, there has been no such
 national lyrist as Burns. Fine ballads, mostly anonymous, existed in
 Scotland previous to his time; and shortly before a few authors had
@@ -508,7 +508,7 @@ burns, the roar of the wind through pines, the rustle of barley rigs, the
 thunder on the hill--all Scotland is in his verse. Let who will make her
 laws, Burns has made the songs, which her emigrants recall "by the long
 wash of Australasian seas," in which maidens are wooed, by which mothers
-lull their infants, which return "through open casements unto dying
+[[Lull|lull]] their infants, which return "through open casements unto dying
 ears"--they are the links, the watchwords, the masonic symbols of the Scots
 race.
 
@@ -528,8 +528,8 @@ Advertiser_; the London papers, _Stuart's Star and Evening Advertiser_
 (subsequently known as _The Morning Star_), _The Morning Chronicle_; and in
 the _Edinburgh Magazine_ and _The Scots Magazine_. Many poems, most of
 which had first appeared elsewhere, were printed in a series of penny
-chap-books, _Poetry Original and Select_ (Brash and Reid, Glasgow), and
-some appeared separately as broadsides. A series of tracts issued by
+chap-books, _Poetry Original and Select_ (Brash and Reid, [[Glasgow]]), and
+some appeared separately as [[Broadside|broadsides]]. A series of tracts issued by
 Stewart and Meikle (Glasgow, 1796-1799) includes some Burns's numbers, _The
 Jolly Beggars, Holy Willie's Prayer_ and other poems making their first
 appearance in this way. The seven numbers of this publication were reissued
@@ -542,18 +542,18 @@ and in George Thomson's _Select Collection of Original Scottish Airs_ (6
 vols., 1793-1841). Only five of the songs done for Thomson appeared during
 the poet's lifetime, and Thomson's text cannot be regarded with confidence.
 The Hastie MSS. in the British Museum (Addit. MS. 22,307) include 162
-songs, many of them in Burns's handwriting; and the Dalhousie MS., at
+songs, many of them in Burns's handwriting; and the [[Dalhousie]] MS., at
 Brechin Castle, contains Burns's correspondence with Thomson. For a full
-account of the songs see James C. Dick, _The Songs of Robert Burns now
+account of the songs see James C. [[Dick]], _The Songs of Robert Burns now
 first printed with the Melodies for which they were written_ (2 vols.,
 1903).
 
-The items in Mr W. Craibe Angus's _Printed Works of Robert Burns_ (1899)
+The [[Item|items]] in Mr W. Craibe Angus's _Printed Works of Robert Burns_ (1899)
 number nine hundred and thirty. Only the more important collected editions
-can be here noticed. Dr Currie was the anonymous editor of the _Works of
+can be here noticed. Dr [[Currie]] was the anonymous editor of the _Works of
 Robert Burns; with an Account of his Life, and a Criticism on his Writings
 ..._ (Liverpool, 1800). This was undertaken for the benefit of Burns's
-family at the desire of his friends, Alexander Cunningham and John Syme. A
+family at the desire of his friends, Alexander [[Cunningham]] and John Syme. A
 second and amended edition appeared in 1801, and was followed by others,
 but Currie's text is neither accurate nor complete. Additional matter
 appeared in _Reliques of Robert Burns_ ... by R.H. Cromek (London, 1808).
@@ -590,9 +590,9 @@ methods of adaptation are minutely discussed; vol. iv. contains an essay on
 
 The chief original authority for Burns's life is his own letters. The
 principal "lives" are to be found in the editions just mentioned. His
-biography has also been written by J. Gibson Lockhart (_Life of Burns_,
+biography has also been written by J. [[Gibson]] Lockhart (_Life of Burns_,
 Edinburgh, 1828); for the "English Men of Letters" series in 1879 by Prof.
-J. Campbell Shairp; and by Sir Leslie Stephen in the _Dictionary of
+J. Campbell Shairp; and by Sir [[Leslie]] Stephen in the _Dictionary of
 National Biography_ (vol. viii., 1886). Among the more important essays on
 Burns are those by Thomas Carlyle (_Edinburgh Review_, December 1828); by
 John Nichol, the writer of the above article (W. Scott Douglas's edition of
@@ -606,7 +606,7 @@ Burns_ (1896).
 
 BURNS AND SCALDS. A burn is the effect of dry heat applied to some part of
 the human body, a scald being the result of moist heat. Clinically there is
-no distinction between the two, and their classification and treatment are
+no distinction between the two, and their [[Classification|classification]] and treatment are
 identical. In Dupuytren's classification, now most generally accepted,
 burns are divided into six classes according to the severest part of the
 lesion. Burns of the first degree are characterized by severe pain, redness
@@ -628,10 +628,10 @@ preceding class, since the nerve endings have been totally destroyed. The
 results, however, are far more serious, and the healing process takes place
 only very slowly on account of the destruction of the skin glands. As a
 result, deep puckered scars are formed, which show great tendency to
-contract, and where these are situated on face, neck or joints the
+contract, and where these are situated on face, neck or [[Joints|joints]] the
 resulting deformity and loss of function may be extremely serious. In burns
 of the fifth degree the underlying muscles are more or less destroyed, and
-in those of the sixth the bones are also charred. Examples of the last two
+in those of the sixth the [[Bone|bones]] are also charred. Examples of the last two
 classes are mainly provided by epileptics who fall into a fire during a
 fit.
 
@@ -641,7 +641,7 @@ lies in a condition of profound shock, and consequently feels little or no
 pain. If death results from shock, coma first supervenes, which deepens
 steadily until the end comes. The second period begins when the effects of
 shock pass, and continues until the slough separates, this usually taking
-from seven to fourteen days. Considerable fever is present, and the
+from seven to fourteen days. Considerable [[Fever|fever]] is present, and the
 tendency to every kind of complication is very great. Bronchitis,
 pneumonia, pleurisy, meningitis, intestinal catarrh, and even ulceration of
 the duodenum, have all been recorded. Hence both nursing and medical
@@ -659,7 +659,7 @@ Also it must be remembered that children very easily succumb to shock.
 
 In treating a patient the condition of shock must be attended to first,
 since from it arises the primary danger. The sufferer must be wrapped
-immediately in hot blankets, and brandy given by the mouth or in an enema,
+immediately in hot blankets, and [[Brandy|brandy]] given by the mouth or in an enema,
 while ether can be injected hypodermically. If the pulse is very bad a
 saline infusion must be administered. The clothes can then be removed and
 the burnt surfaces thoroughly cleansed with a very mild antiseptic, a weak

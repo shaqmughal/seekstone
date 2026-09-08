@@ -3,10 +3,10 @@
 BRIVE, or BRIVES-LA-GAILLARDE, a town of south-central France, capital of
 an arrondissement in the department of Correze, 62 m. S.S.E. of Limoges on
 the main line of the Orleans railway from Paris to Montauban. Pop. (1906)
-town 14,954; commune 20,636. It lies on the left bank of the Correze in an
+town 14,954; [[Commune|commune]] 20,636. It lies on the left bank of the Correze in an
 ample and fertile plain, which is the meeting-place of important roads and
 railways. The _enceinte_ which formerly surrounded the town has been
-replaced by shady boulevards, and a few wide thoroughfares have been made,
+replaced by shady [[Boulevard|boulevards]], and a few wide thoroughfares have been made,
 but many narrow winding streets and ancient houses still remain. Outside
 the boulevards lie the modern quarters, also the fine promenade planted
 with plane trees which stretches to the Correze and contains the chief
@@ -15,7 +15,7 @@ Marie Anne Brune, who was a native of Brive. A fine bridge leads over the
 river to suburbs on its right bank. The public buildings are of little
 interest apart from the church of St Martin, which stands in the heart of
 the old town. It is a building of the 12th century in the Romanesque style
-of Limousin, with three narrow naves of almost equal height. The
+of [[Limousin]], with three narrow naves of almost equal height. The
 ecclesiastical seminary occupies a graceful mansion of the 16th century,
 with a facade, a staircase and fireplaces of fine Renaissance workmanship.
 Brive is the seat of a sub-prefect [v.04 p.0619] and has a tribunal of

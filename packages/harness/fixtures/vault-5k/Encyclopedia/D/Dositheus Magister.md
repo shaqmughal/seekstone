@@ -29,7 +29,7 @@ manumissionibus_).
   separately (1871); _Hermeneumata_ by G. Götz (1892) (in G. Löwe's
   _Corpus glossariorum Latinorum_, iii.) and E. Böcking (1832), which
   contains the appendix (including the legal fragment); see also C.
-  Lachmann, _Versuch über Dositheus_ (1837); H. Hagen, _De Dosithei
+  Lachmann, _Versuch über Dositheus_ (1837); H. [[Hagen]], _De Dosithei
   magistri quae feruntur glossis_ (1877).
 
 ## See also

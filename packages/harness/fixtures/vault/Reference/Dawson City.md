@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Dawson_Cit
 
 # Dawson City
 
-DAWSON CITY, or DAWSON, the capital of the Yukon territory, Canada, on
+DAWSON CITY, or [[Dawson|DAWSON]], the capital of the Yukon territory, Canada, on
 the right bank of the Yukon river, and in the middle of the Klondyke
 gold region, of which it is the distributing centre. It is situated in
 beautiful mountainous country, 1400 ft. above the sea, and 1500 m. from

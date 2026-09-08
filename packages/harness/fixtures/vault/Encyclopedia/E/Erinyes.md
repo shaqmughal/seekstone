@@ -12,7 +12,7 @@ evil-doers. According to Hesiod (_Theog._ 185) they were the daughters
 of Earth, and sprang from the blood of the mutilated Uranus; in
 Aeschylus (_Eum._ 321) they are the daughters of Night, in Sophocles
 (_O.C._ 40) of Darkness and Earth. Sometimes one Erinys is mentioned,
-sometimes several; Euripides first spoke of them as three in number, to
+sometimes several; [[Euripides]] first spoke of them as three in number, to
 whom later Alexandrian writers gave the names Alecto (unceasing in
 anger), Tisiphone (avenger of murder), Megaera (jealous). Their home is
 the world below, whence they ascend to earth to pursue the wicked. They
@@ -30,10 +30,10 @@ by the light of torches. A festival was held in their honour every year,
 superintended by a special priesthood, at which the offerings consisted
 of milk and honey mixed with water, but no wine. In Aeschylus, the
 Erinyes are represented as awful, Gorgon-like women, wearing long black
-robes, with snaky locks, bloodshot eyes and claw-like nails. Later, they
+robes, with snaky [[Lock|locks]], bloodshot eyes and claw-like nails. Later, they
 are winged maidens of serious aspect, in the garb of huntresses, with
 snakes or torches in their hair, carrying scourges, torches or sickles.
-The identification of Erinyes with Sanskrit Saranyu, the swift-speeding
+The [[Identification|identification]] of Erinyes with Sanskrit Saranyu, the swift-speeding
 storm cloud, is rejected by modern etymologists; according to M. Breal,
 the Erinyes are the personification of the formula of imprecation
 ([Greek: ara]), while E. Rohde sees in them the spirits of the dead, the
@@ -45,7 +45,7 @@ angry souls of murdered men.
   Hellenic Studies_, xix. p. 205, according to whom the Erinyes were
   primarily local ancestral ghosts, potent for good or evil after death,
   earth genii, originally conceived as embodied in the form of snakes,
-  whose primitive haunt and sanctuary was the omphalos at Delphi; E.
+  whose primitive haunt and sanctuary was the omphalos at [[Delphi]]; E.
   Rohde, _Psyche_ (1903); A. Rapp in Roscher's _Lexikon der Mythologie_,
   and J.A. Hild in Daremberg and Saglio's _Dictionnaire des antiquites_,
   s.v. FURIAE.

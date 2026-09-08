@@ -2,7 +2,7 @@
 
 MARAT, JEAN PAUL (1743-1793), French revolutionary leader, eldest child
 of Jean Paul Marat, a native of Cagliari in Sardinia, and Louise Cabrol
-of Geneva, was born at Boudry, in the principality of Neuchâtel, on the
+of [[Geneva]], was born at Boudry, in the principality of Neuchâtel, on the
 24th of May 1743. His father was a designer, who had abandoned his
 country and his religion, and married a Swiss Protestant. On his
 mother's death in 1759 Marat set out on his travels, and spent two years
@@ -21,7 +21,7 @@ solution. In 1774 he published _The Chains of Slavery_, which was
 intended to influence constituencies to return popular members, and
 reject the king's friends. Its author declared later that it procured
 him an honorary membership of the patriotic societies of Carlisle,
-Berwick and Newcastle. He remained devoted to his profession, and in
+[[Berwick]] and Newcastle. He remained devoted to his profession, and in
 1775 published in London a little _Essay on Gleets_, and in Amsterdam a
 French translation of the first two volumes of his _Essay on Man_. In
 this year he visited Edinburgh, and on the recommendation of certain
@@ -31,9 +31,9 @@ Singular Disease of the Eyes_, with a dedication to the Royal Society.
 In the same year there appeared the third volume of the French edition
 of the _Essay on Man_, which reached Ferney, and exasperated Voltaire,
 by its onslaught on Helvetius, into a sharp attack which only made the
-young author more conspicuous. His fame as a clever doctor was now
+young author more conspicuous. His fame as a [[Clever|clever]] doctor was now
 great, and on the 24th of June 1777, the comte d'Artois, afterwards
-Charles X. of France, made him by brevet physician to his guards with
+Charles X. of France, made him by brevet physician to his [[Guards|guards]] with
 2000 livres a year and allowances.
 
 Marat was soon in great request as a court doctor among the aristocracy;
@@ -43,7 +43,7 @@ scientific work, especially the study of heat, light and electricity, on
 which he presented memoirs to the Académie des Sciences, but the
 academicians were horrified at his temerity in differing from Newton,
 and, though acknowledging his industry, would not receive him among
-them. His experiments greatly interested Benjamin Franklin, who used to
+them. His experiments greatly interested Benjamin [[Franklin]], who used to
 visit him and Goethe always regarded his rejection by the academy as a
 glaring instance of scientific despotism. In 1780 he had published at
 Neuchâtel a _Plan de législation criminelle_, founded on the principles
@@ -55,7 +55,7 @@ découvertes sur la lumière_.
 His scientific life was now over, his political life was to begin; in
 the notoriety of that political life his great scientific and
 philosophical knowledge was to be forgotten, the high position he had
-given up denied, and he himself scoffed at as an ignorant charlatan, who
+given up denied, and he himself scoffed at as an ignorant [[Charlatan|charlatan]], who
 had sold quack medicines about the streets of Paris, and been glad to
 earn a few sous in the stables of the comte d'Artois. In 1788 the
 notables had met, and advised the assembling of the states-general. The
@@ -111,8 +111,8 @@ themselves alone. Again denounced, Marat had to remain in hiding until
 the 10th of August. The early days of the war being unsuccessful, the
 proclamation of the duke of Brunswick excited all hearts; who could go
 to save France on the frontiers and leave Paris in the hands of his
-enemies? Marat, like Danton, foresaw the massacres of September. After
-the events of the 10th of August he took his seat at the commune, and
+enemies? Marat, like Danton, foresaw the [[Massacre|massacres]] of September. After
+the events of the 10th of August he took his seat at the [[Commune|commune]], and
 demanded a tribunal to try the Royalists in prison. No tribunal was
 formed, and the massacres in the prisons were the inevitable result. In
 the elections to the Convention, Marat was elected seventh out of the
@@ -131,7 +131,7 @@ His unpopularity in the Assembly was extreme, yet he insisted on
 speaking on the question of the king's trial, declared it unfair to
 accuse Louis for anything anterior to his acceptance of _the_
 constitution, and though implacable towards the king, as the one man who
-must die for the people's good, he would not allow Malesherbes, the
+must die for the people's good, he would not allow [[Malesherbes]], the
 king's counsel, to be attacked in his paper, and speaks of him as a
 "sage et respectable vieillard." The king dead, the months from January
 to May 1793 were spent in an unrelenting struggle between Marat and the
@@ -155,7 +155,7 @@ that she brought news from Caen, where the escaped Girondins were trying
 to rouse Normandy. He ordered her to be admitted, asked her the names of
 the deputies then at Caen, and, after writing their names, said, "They
 shall be soon guillotined," when the young girl, whose name was
-Charlotte Corday (q.v.), stabbed him to the heart.
+[[Charlotte]] Corday (q.v.), stabbed him to the heart.
 
 His death caused a great commotion at Paris. The Convention attended his
 funeral, and placed his bust in the hall where it held its sessions.
@@ -178,11 +178,11 @@ endured and the terrible disease from which he suffered.
   Sans ... &c._, (1785); _Éloge de Montesquieu_ (1785), published 1883
   by M. de Bresetz; _Les Charlatans modernes, ou lettres sur le
   charlatanisme académique_ (1791); _Les Aventures du comte Potowski_
-  (published in 1847 by Paul Lacroix, the "bibliophile Jacob"); _Lettres
+  (published in 1847 by Paul Lacroix, the "bibliophile [[Jacob]]"); _Lettres
   polonaises_ (unpublished). Marat's works were published by A.
   Vermorel, _Oeuvres de J. P. Marat, l'ami du peuple, recueillies et
   annotées_ (1869). Two of his tracts, (1) _On Gleets_, (2) _A Disease
-  of the Eyes_, were reprinted, ed. J. B. Bailey, in 1891.
+  of the Eyes_, were reprinted, ed. J. B. [[Bailey]], in 1891.
 
   See A. Vermorel, _Jean Paul Marat_ (1880); François Chévremont,
   _Marat: esprit politique, accomp. de sa vie_ (2 vols., 1880); Auguste

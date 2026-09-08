@@ -20,7 +20,7 @@ them enjoyed the same vogue as _Fanny_. Besides his novels Feydeau wrote
 several plays, and he is also the author of _Histoire générale des
 usages funèbres et des sépultures des peuples anciens_ (3 vols.,
 1857-1861); _Le Secret du bonheur_ (sketches of Algerian life) (2 vols.,
-1864); and _L'Allemagne en 1871_ (1872), a clever caricature of German
+1864); and _L'Allemagne en 1871_ (1872), a [[Clever|clever]] caricature of German
 life and manners. He died in Paris on the 27th of October 1873.
 
   See Sainte-Beuve, _Causeries du lundi_, vol. xiv., and Barbey

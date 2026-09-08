@@ -30,26 +30,26 @@ and only kept for the sake of its perfume, which is obtained in largest
 quantity from the male, especially when in good condition and subjected
 to irritation, being scraped from the pouch with a small spoon usually
 twice a week. The zibeth (_Viverra zibetha_) is a widely distributed
-species extending from Arabia to Malabar, and throughout several of the
+species extending from Arabia to [[Malabar]], and throughout several of the
 larger islands of the Indian Archipelago. It is smaller than the true
 civet, and wants the dorsal crest. In the wild state it does great
 damage among poultry, and frequently makes off with the young of swine
 and sheep. When hunted it makes a determined resistance, and emits a
-scent so strong as even to sicken the dogs, who nevertheless are
+scent so strong as even to sicken the [[Dogs|dogs]], who nevertheless are
 exceedingly fond of the sport, and cannot be got to pursue any other
-game while the stench of the zibeth is in their nostrils. In
+[[Game|game]] while the stench of the zibeth is in their nostrils. In
 confinement, it becomes comparatively tame, and yields civet in
 considerable quantity. In preparing this for the market it is usually
 spread out on the leaves of the pepper plant in order to free it from
 the hairs that have become detached from the pouch. On the Malabar coast
 this species is replaced by _V. civettina_. The small Indian civet or
-rasse (_Viverricula malaccensis_) ranges from Madagascar through India
-to China, the Malay Peninsula, and the islands of the Archipelago. It is
+rasse (_Viverricula malaccensis_) ranges from [[Madagascar]] through India
+to China, the [[Malay Peninsula]], and the islands of the Archipelago. It is
 almost 3 ft. long including the tail, and prettily marked with dark
 longitudinal stripes, and spots which have a distinctly linear
 arrangement. The perfume, which is extracted in the same way as in the
 two preceding species, is highly valued and much used by the Javanese.
-Although this animal is said to be an expert climber it usually inhabits
+Although this animal is said to be an [[Expert|expert]] climber it usually inhabits
 holes in the ground. It is frequently kept in captivity in the East, and
 becomes tame. Fossil remains of extinct civets are found in the Miocene
 strata of Europe.

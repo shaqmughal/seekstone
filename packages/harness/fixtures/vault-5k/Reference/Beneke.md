@@ -1,11 +1,11 @@
 # Beneke
 
-BENEKE, FRIEDRICH EDUARD (1798-1854), German psychologist, was born at
+BENEKE, [[Friedrich|FRIEDRICH]] EDUARD (1798-1854), German psychologist, was born at
 Berlin on the 17th of February 1798, studied at the universities of
-Halle and Berlin, and served as a volunteer in the war of 1815. After
-studying theology under Schleiermacher and De Wette, he turned to pure
+[[Halle]] and Berlin, and served as a volunteer in the war of 1815. After
+studying theology under Schleiermacher and [[De Wette]], he turned to pure
 philosophy, studying particularly English writers and the German
-modifiers of Kantianism, such as Jacobi, Fries and Schopenhauer. In 1820
+modifiers of Kantianism, such as [[Jacobi]], Fries and Schopenhauer. In 1820
 he published his _Erkenntnisslehre_, his _Erfahrungsseelenlehre als
 Grundlage alles Wissens_, and his inaugural dissertation _De Veris
 Philosophiae Initiis_. His marked opposition to the philosophy of Hegel,
@@ -35,7 +35,7 @@ processes by which the development takes place. In his _Neue
 Psychologie_, (essays iii., viii. and ix.), he defined his position with
 regard to his predecessors and contemporaries, and both there and in the
 introduction to his _Lehrbuch_ signalized as the two great stages in the
-progress of psychology the negation of innate ideas by Locke, and of
+progress of psychology the negation of innate ideas by [[Locke]], and of
 faculties, in the ordinary acceptation of the term, by Herbart. The
 next step was his own; he insisted that psychology must be treated as
 one of the natural sciences. As is the case with them, its content is
@@ -67,7 +67,7 @@ method, _Neue Psych._, essay i.)
   definiteness or form through the action upon them of _stimuli_ or
   excitants from the outer world. This action of external impressions
   which are appropriated by the internal powers is the first fundamental
-  process in the genesis of the completed mind. If the union of
+  process in the [[Genesis|genesis]] of the completed mind. If the union of
   impression and faculty be sufficiently strong, consciousness (not
   _self_-consciousness) arises, and definite sensations and perceptions
   begin to be formed. These primitive sensations, however, are not to be
@@ -101,7 +101,7 @@ method, _Neue Psych._, essay i.)
   repetition and attraction of like to like the originally indefinite
   activities of the primary faculties. Thus the sensations of the
   special senses are gradually formed from the primary sensuous feelings
-  (_sinnliche Empfindungen_); concepts are formed from intuitions of
+  (_sinnliche Empfindungen_); concepts are formed from [[Intuition|intuitions]] of
   individuals by the attraction of the common elements, and the
   consequent flow towards them of movable forms. Judgment is the
   springing into consciousness of a concept alongside of an intuition,
@@ -119,7 +119,7 @@ method, _Neue Psych._, essay i.)
   This is the groundwork of Beneke's philosophy. It should be carefully
   compared with the association psychology of modern British thinkers,
   most of whose results and processes will be found there worked into a
-  comprehensive system (see ASSOCIATION OF IDEAS). In logic, metaphysics
+  comprehensive system (see [[Association Of Ideas|ASSOCIATION OF IDEAS]]). In logic, metaphysics
   and ethics Beneke's speculations are naturally dependent on his
   psychology.
 
@@ -140,7 +140,7 @@ method, _Neue Psych._, essay i.)
   yield the notion of absolute duty. His results have found acceptance
   mainly with practical teachers. Undoubtedly his minute analysis of
   temperament and careful exposition of the means whereby the young,
-  unformed mind may be trained are of infinite value; but the truth of
+  unformed mind may be trained are of [[Infinite|infinite]] value; but the truth of
   many of his doctrines on these points lends no support to the
   fundamental hypotheses, from which, indeed, they might be almost
   entirely severed.
@@ -172,7 +172,7 @@ method, _Neue Psych._, essay i.)
   Unterrichtslehre Benekes_ (Leipzig, 1885); on his ethical theory,
   C.H.Th. Kuhn, _Die Sittenlehre F.E. Benekes_ (1892); Joh. Friedrich,
   _F.E. Beneke_ (Wiesbaden, 1898, with biography and list of works);
-  Otto Gramzow, _F.E. Benekes Leben und Philos._ (Bern, 1899, with full
+  Otto Gramzow, _F.E. Benekes Leben und Philos._ ([[Bern]], 1899, with full
   bibliography); on his theory of knowledge, H. Renner, _Benekes
   Erkenninistheorie_ (Halle, 1902); on his metaphysics, _Die Metaphysik
   Benekes_, by A. Wandschneider (Berlin, 1903); Brandt, _Beneke, the Man

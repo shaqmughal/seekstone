@@ -260,7 +260,7 @@ Bolivian boundary line in the Cordillera Silillica.
   which thickly fringe this part of the coast, the largest are Azopardo
   (lying within Baker Inlet), Prince Henry, Campaña, Little Wellington,
   Great Wellington and Mornington (of the Wellington archipelago), Madre
-  de Dios, Duke of York, Chatham, Hanover, Cambridge, Contreras, Rennell
+  de Dios, Duke of York, Chatham, [[Hanover]], Cambridge, Contreras, Rennell
   and the Queen Adelaide group of small barren rocks and islands lying
   immediately north of the Pacific entrance to the Straits of Magellan.
   The large number of English names on this coast is due to the fact
@@ -278,8 +278,8 @@ Bolivian boundary line in the Cordillera Silillica.
   when these inland waters were first explored in 1829 by Captain
   FitzRoy, but it was not discovered and surveyed until three-quarters
   of a century had elapsed. Belonging to the Fuegian group south of the
-  Straits of Magellan are Desolation, Santa Ines, Clarence, Dawson,
-  Londonderry, Hoste, Navarin and Wollaston islands, with innumerable
+  Straits of Magellan are Desolation, Santa Ines, [[Clarence]], Dawson,
+  Londonderry, [[Hoste]], Navarin and Wollaston islands, with innumerable
   smaller islands and rocks fringing their shores and filling the
   channels between them. Admirable descriptions of this inhospitable
   region, the farthest south of the inhabited parts of the globe, may be
@@ -290,7 +290,7 @@ Bolivian boundary line in the Cordillera Silillica.
   The western and larger part of Tierra del Fuego (q.v.) belongs to
   Chile. About 63 m. S.W. of Cape Horn, in lat. 56° 25' S., is the Diego
   Ramirez group of small, rocky islands, the most southern possession of
-  the republic. Its westernmost possessions are Sala-y-Gomez and Easter
+  the republic. Its westernmost possessions are Sala-y-Gomez and [[Easter]]
   islands, the former in about 27° S., 105° W., and the latter, the
   easternmost inhabited Polynesian island, in 27° 6' S., 109° 17' W.
   Much nearer the Chilean coast (396 m.), lying between the 33rd and
@@ -361,7 +361,7 @@ Bolivian boundary line in the Cordillera Silillica.
 
     Rivers.
 
-  Except in the extreme south the hydrography of Chile is of the
+  Except in the extreme south the [[Hydrography|hydrography]] of Chile is of the
   simplest description, all the larger rivers having their sources in
   the Andes and flowing westward to the Pacific. Their courses are
   necessarily short, and only a few have navigable channels, the
@@ -575,7 +575,7 @@ Bolivian boundary line in the Cordillera Silillica.
   igneous rocks of Tertiary age, and upon the folded Mesozoic foundation
   rise the volcanic cones of Tertiary and later date. The Trias is known
   only at La Ternera near Copiapó, where coal-seams with Rhaetic plants
-  have been found; but the rest of the Mesozoic series, from the Lias to
+  have been found; but the rest of the Mesozoic series, from the [[Lias]] to
   the Upper Cretaceous, appears to be represented without a break of
   more than local importance. The deposits are marine, consisting mainly
   of sandstone and limestone, together with tuffs and conglomerates of
@@ -649,7 +649,7 @@ Bolivian boundary line in the Cordillera Silillica.
   temperatures, the mean for January being 56.5° and the mean for July
   45.9°. The almost continual cloudiness is undoubtedly a principal
   cause, not only of the low summer temperatures, but also of the
-  comparatively high winter temperatures. Frosts are infrequent, and
+  comparatively high winter temperatures. [[Frost|Frosts]] are infrequent, and
   snow does not lie long. The climate is considered to be healthful
   notwithstanding the excessive humidity. The 600 m. of coast from the
   Chonos Archipelago south to the Fuegian islands have a climate closely
@@ -829,7 +829,7 @@ Bolivian boundary line in the Cordillera Silillica.
   gait; the _P. albicollis_, which inhabits barren hillsides and is
   called _tapacollo_ from the manner of carrying its tail turned far
   forward over its back; the _P. rubecula_, of Chiloé, a small timid
-  denizen of the gloomy forest, called the _cheucau_ or _chuca_, whose
+  [[Denizen|denizen]] of the gloomy forest, called the _cheucau_ or _chuca_, whose
   two or three notes are believed by the superstitious natives to be
   auguries of impending success or disaster; and an allied species
   (_Hylactes Tarnii_, King) called the _guid-guid_ or barking bird,
@@ -1058,7 +1058,7 @@ his excellent geographical work in the southern Andes.
   |Valparaiso        |  1,953 |  220,756  |Valparaiso   | 122,447 | 142,282 |
   |Santiago          |  5,665 |  415,636  |Santiago     | 256,403 | 332,059 |
   |O'Higgins         |  2,342 |   85,277  |Rancagua     |   6,665 |   7,133 |
-  |Colchagua         |  3,856 |  157,566  |San Fernando |   7,447 |   8,164 |
+  |[[Colchagua]]         |  3,856 |  157,566  |San Fernando |   7,447 |   8,164 |
   |Curicó            |  2,978 |  103,242  |Curicó       |  12,669 |  14,340 |
   |Talca             |  3,840 |  128,961  |Talca        |  33,232 |  42,766 |
   |Lináres           |  3,942 |  101,858  |Lináres      |   7,331 |   7,256 |
@@ -1383,7 +1383,7 @@ his excellent geographical work in the southern Andes.
   are numerous and generally prosperous. There are likewise a large
   number of factories for canning and preserving fruits and vegetables.
   Foundries and machine shops have been established, especially for the
-  manufacture of railway material. The sugar beet has been added to the
+  manufacture of railway material. The sugar [[Beet|beet]] has been added to the
   productions of Chile, and with it the manufacture on a small scale of
   beet sugar. There is one large refinery at Viña del Mar, however,
   which imports raw cane sugar from Peru for refining. The manufacture
@@ -1532,7 +1532,7 @@ September, the anniversary of the declaration of national independence.
 In addition to the prerogatives commonly invested in his office, the
 president is authorized to supervise the judiciary, to nominate
 candidates for the higher ecclesiastical offices, to intervene in the
-enforcement of ecclesiastical decrees, papal bulls, &c., to exercise
+enforcement of ecclesiastical decrees, papal [[Bull|bulls]], &c., to exercise
 supervisory police powers, and to appoint the intendants of provinces
 and the governors of departments, who in turn appoint the sub-delegates
 and inspectors of subordinate political divisions. The president, who is
@@ -1613,7 +1613,7 @@ within the limits of the law mentioned.
   regiments of coast artillery, and 5 companies of
   engineers--aggregating 915 officers and 4757 men. To this nucleus were
   added 6160 recruits, the contingent for that year of young men
-  twenty-one years of age compelled to serve with the colours. Under the
+  twenty-one years of age compelled to serve with the [[Colours|colours]]. Under the
   law of the 5th of September 1900, military service is obligatory for
   all citizens between eighteen and forty-five years, all young men of
   twenty-one years being required to serve a certain period with the
@@ -1657,7 +1657,7 @@ within the limits of the law mentioned.
   and the gain upon illiteracy (75%) appears to be very slow. The
   government also gives primary instruction to recruits when serving
   with the colours, which, with the increasing employment of the people
-  in the towns, helps to stimulate a desire for education among the
+  in the towns, [[Helps|helps]] to stimulate a desire for education among the
   lower classes. Education in Chile is very largely under the control of
   the national government, the minister of justice and public
   instruction being charged with the direction of all public schools
@@ -1720,7 +1720,7 @@ within the limits of the law mentioned.
   had 6215 patients under treatment at its close; 628,536 patients
   received gratuitous medical assistance at the public dispensaries
   during the year; there were 24 foundling hospitals with 5570 children;
-  and there were 3092 persons in the various _hospicios_ or asylums, and
+  and there were 3092 persons in the various _hospicios_ or [[Asylum|asylums]], and
   1478 in the imbecile asylums.
 
   _Religion._--The Roman Catholic religion is declared by the
@@ -1843,7 +1843,7 @@ within the limits of the law mentioned.
   sanitary works and railway construction. At the same time the internal
   debt was 107,000,000 pesos (£8,025,000), which increases the funded
   indebtedness to £29,725,000. Like Brazil, Chile has been careful to
-  preserve her foreign credit, and though an average indebtedness of
+  preserve her foreign [[Credit|credit]], and though an average indebtedness of
   about £10 per capita may seem large for a nation with so much absolute
   poverty among its people, the government is finding no difficulty in
   negotiating new loans, the mineral resources of the country and the
@@ -1889,7 +1889,7 @@ within the limits of the law mentioned.
   presentation of the currency issued. The redemption of this issue was
   guaranteed by a conversion fund of 100,000,000 pesos, and by an
   authorization to issue a loan of 50,000,000 pesos to redeem the
-  balance, if necessary. The conversion fund under the act of 1895 stood
+  [[Balance|balance]], if necessary. The conversion fund under the act of 1895 stood
   at 77,282,257 pesos (£5,796,170) on the 31st of May 1907. There are 23
   joint-stock banks of issue, with an aggregate registered capital of
   40,689,665 pesos (£3,051,724). Their circulating notes are secured by
@@ -2063,7 +2063,7 @@ The national independence of Chile dates from the second decade of the
 19th century. The revolt of England's North American colonies, and the
 events of the French Revolution naturally suggested the idea of a
 struggle for independence to the Spanish colonists, and the deposition
-of Ferdinand VII. by Napoleon, and the ensuing disorganization of Spain,
+of [[Ferdinand]] VII. by Napoleon, and the ensuing disorganization of Spain,
 supplied the desired opportunity. In 1809 risings took place in
 Venezuela, in Ecuador, in Upper Peru and in the Argentine; the
 revolutionary fever spread to Chile, and on the 18th of September 1810
@@ -2718,7 +2718,7 @@ connexion with the proposal for compulsory arbitration between all
 American governments. The Chilean government made it quite clear that
 they would withdraw from the congress if this proposal was meant to be
 retroactive; and their unyielding attitude testified to the
-apprehensions felt by Chile concerning United States interference. In
+[[Apprehension|apprehensions]] felt by Chile concerning United States interference. In
 October the Chilean government announced that the contemplated
 conversion scheme, for which gold had been accumulated, would be
 postponed for two years (till October 1903), the gold being held as a

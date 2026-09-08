@@ -9,12 +9,12 @@ attendant, and thus survives in the name for several officials in the
 royal household, such as the grooms-in-waiting, and the grooms of the
 great chamber. The groom-porter, whose office was abolished by George
 III., saw to the preparation of the sovereign's apartment, and, during
-the 16th and 17th centuries, provided cards and dice for playing, and
+the 16th and 17th centuries, provided [[Cards|cards]] and dice for playing, and
 was the authority to whom were submitted all questions of gaming within
 the court. The origin of the word is obscure. The O. Fr. _gromet_, shop
 boy, is taken by French etymologists to be derived from the English.
 From the application of this word to a wine-taster in a wine merchant's
-shop, is derived _gourmet_, an epicure. According to the _New English
+shop, is derived _[[Gourmet|gourmet]]_, an epicure. According to the _New English
 Dictionary_, though there are no instances of groom in other Teutonic
 languages, the word may be ultimately connected with the root of "to
 grow." In "bridegroom," a newly married man, "grom" in the 16th century

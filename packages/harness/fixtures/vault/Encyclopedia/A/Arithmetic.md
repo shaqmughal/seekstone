@@ -10,7 +10,7 @@ with concrete objects. This distinction, however, might be misleading.
 In stating that the sum of 11d. and 9d. is 1s. 8d. we do not mean that
 nine pennies when added to eleven pennies produce a shilling and eight
 pennies. The sum of money corresponding to 11d. may in fact be made up
-of coins in several different ways, so that the symbol "11d." cannot be
+of [[Coin|coins]] in several different ways, so that the symbol "11d." cannot be
 taken as denoting any definite concrete objects. The arithmetical fact
 is that 11 and 9 may be regrouped as 12 and 8, and the statement "11d. +
 9d. = 1s. 8d." is only an arithmetical statement in so far as each of
@@ -72,7 +72,7 @@ addition and subtraction might in the first instance be limited to such
 quantities, multiplication and division necessarily introduce the idea
 of pure number. (ii) If on the other hand we regard ourselves as dealing
 with pure number throughout, then, as multiplication is continued
-addition, we ought to include in our classification involution as
+addition, we ought to include in our [[Classification|classification]] [[Involution|involution]] as
 continued multiplication. Or we might say that, since multiplication is
 a form of addition, and division a form of subtraction, there are really
 only two fundamental processes, viz. addition and subtraction. (iii) The
@@ -104,7 +104,7 @@ On the whole, the ordinal use is perhaps the more common. Thus "100" on
 a page of a book does not mean that the page is 100 times the page
 numbered 1, but merely that it is the page after 99. Even in commercial
 transactions, in dealing with sums of money, the statement of an amount
-often has reference to the last item added rather than to a total; and
+often has reference to the last [[Item|item]] added rather than to a total; and
 geometrical measurements are practically ordinal (S 26).
 
 For ordinal purposes we use, as symbols, not only figures, such as 1, 2,
@@ -123,7 +123,7 @@ basis.
 
 One difference between the treatment of ordinal and of cardinal numbers
 may be noted. Where a number is expressed in terms of various
-denominations, a cardinal number usually begins with the largest
+[[Denomination|denominations]], a cardinal number usually begins with the largest
 denomination, and an ordinal number with the smallest. Thus we speak of
 one thousand eight hundred and seventy-six, and represent it by
 MDCCCLXXVI or 1876; but we should speak of the third day of August 1876,
@@ -148,7 +148,7 @@ not the 265th, from the end.
 8. _Meaning of Names of Numbers._--What do we mean by any particular
 number, e.g. by _seven_, or by _two hundred and fifty-three_? We can
 define _two_ as _one and one_, and _three_ as _one and one and one_; but
-we obviously cannot continue this method for ever. For the definition of
+we obviously cannot continue this method for ever. For the [[Definition|definition]] of
 large numbers we may employ either of two methods, which will be called
 the _grouping_ method and the _counting_ method.
 
@@ -207,10 +207,10 @@ according to this law, the symbol attached to the last object will be
 253. If we say that this act of attaching a symbol has been performed
 253 times, then 253 is an _abstract_ (or _pure_) _number._
 
-Underlying this definition is a certain assumption, viz. that if we take
+Underlying this definition is a certain [[Assumption|assumption]], viz. that if we take
 the objects in a different order, the last symbol attached will still be
 253. This, in an elementary treatment of the subject, must be regarded
-as axiomatic; but it is really a simple case of mathematical induction.
+as axiomatic; but it is really a simple case of mathematical [[Induction|induction]].
 (See ALGEBRA.) If we take two objects A and B, it is obvious that
 whether we take them as A, B, or as B, A, we shall in each case get the
 sequence 1, 2. Suppose this were true for, say, eight objects, marked 1
@@ -256,7 +256,7 @@ however large the number to be represented may be; (2) the use of the
 _zero_ to indicate the absence of number; and (3) the principle of local
 value, by which a symbol in effect represents different numbers,
 according to its position. The symbols denoting a number are called its
-_digits_.
+_[[Digit|digits]]_.
 
 A brief account of the development of the system will be found under
 NUMERAL. Here we are concerned with the principle, the explanation of
@@ -429,7 +429,7 @@ quaternary scale (base 4) be 3113, being equal to 3.4.4.4 + 1.4.4 + 1.4
 
 The use of the denary scale in notation is due to its use in numeration
 (S 18); this again being due (as exemplified by the use of the word
-_digit_) to the primitive use of the fingers for counting. If mankind
+_digit_) to the primitive use of the [[Finger|fingers]] for counting. If mankind
 had had six fingers on each hand and six toes on each foot, we should be
 using a _duodenary scale_ (base twelve), which would have been far more
 convenient.
@@ -444,9 +444,9 @@ quantities into groups, and these again into larger groups; but the
 number of groups making one of the next largest groups varies as we
 proceed along the scale. The successive groups or units thus formed are
 called _denominations._ Thus twelve pennies make a shilling, and twenty
-shillings a pound, while the penny is itself divided into four farthings
+shillings a pound, while the penny is itself divided into four [[Farthing|farthings]]
 (or two halfpennies). There are, therefore, four denominations, the
-bases for conversion of one denomination into the next being
+bases for [[Conversion|conversion]] of one denomination into the next being
 successively four (or two), twelve and twenty. Within each denomination,
 however, the denary notation is employed exclusively, e.g. "twelve
 shillings" is denoted by 12s.
@@ -505,7 +505,7 @@ to suggest etymologically a denary basis (see, however, NUMERAL).
 
 Two exceptions, however, may be noted.
 
-(i) The use of _dozen, gross_ (= dozen dozen), and _great gross_ (=
+(i) The use of _dozen, [[Gross|gross]]_ (= dozen dozen), and _great gross_ (=
 dozen gross) indicates an attempt at a duodenary basis. But the system
 has never spread; and the word "dozen" itself is based on the denary
 scale.
@@ -516,7 +516,7 @@ and the denary basis. As the latter is due to finger-reckoning, so the
 use of the fingers and the toes produced a vigesimal scale. Examples of
 this are given in S 20; it is worthy of notice that the vigesimal (or,
 rather, quinary-quaternary) system was used by the Mayas of Yucatan, and
-also, in a more perfect form, by the Nahuatl (Aztecs) of Mexico.
+also, in a more perfect form, by the Nahuatl ([[Aztecs]]) of Mexico.
 
 The number ten having been taken as the basis of numeration, there are
 various methods that might consistently be adopted for naming large
@@ -534,11 +534,11 @@ ninety_ (= nine ten) _and three._
 point to which numeration of ones is likely to go. Partial applications
 of this method are found in many languages.
 
-(iv) A compromise between the last two methods would be to have names
+(iv) A [[Compromise|compromise]] between the last two methods would be to have names
 for the series of numbers, beginning with ten, each of which is the
 "square" of the preceding one. This would in effect be analysing numbers
 into components of the form a. 10^b where a is less than 10, and the
-index b is expressed in the binary scale, e.g. 7,000,000 would be
+[[Index|index]] b is expressed in the binary scale, e.g. 7,000,000 would be
 7 . 10^4 . 10^2, and 700,000 would be 7 . 10^4 . 10^1.
 
 The British method is a mixture of the last two, but with an index-scale
@@ -774,7 +774,7 @@ this is the direction which increase is naturally regarded as taking.
 Thus we speak of counting _up_ to a certain number; and similarly
 mathematicians speak of _high_ and _ascending_ powers, while engineers
 speak of high pressure, high speed, high power, &c. This tendency is
-probably aided by the use of bricks or cubes in elementary
+probably aided by the use of [[Brick|bricks]] or cubes in elementary
 number-teaching.
 
 24. _Primitive Ideas of Number._--The names of numbers give an idea of
@@ -823,7 +823,7 @@ up might take place in both directions.
 (v) In a few cases the names of certain small numbers are the names of
 objects which present these numbers in some conspicuous way. Thus the
 word used by the Abipones to denote 5 was the name of a certain hide of
-five colours. It has been suggested that names of this kind may have
+five [[Colours|colours]]. It has been suggested that names of this kind may have
 been the origin of the numeral words of different races; but it is
 improbable that direct visual perception would lead to a name for a
 number unless a name based on a process of counting had previously been
@@ -855,7 +855,7 @@ sequences of sounds. This tendency is common in adults as well as in
 children; the strokes of a clock may, for instance, be grouped into
 fours, and thus eleven is represented as two fours and three.
 Finger-counting is of course natural to children, and leads to grouping
-into fives, and ultimately to an understanding of the denary system of
+into [[Fives|fives]], and ultimately to an understanding of the denary system of
 notation.
 
   1    2    3
@@ -927,7 +927,7 @@ _identity_ in the latter. Thus the statement that 4 times 3 is equal to
 not of identity but of equality; i.e. 4 X 3 and 3 X 4 mean different
 things, but the operations which they denote produce the same result.
 But in algebra a X b = b X a is called an identity, in the sense that it
-is true whatever a and b may be; while n X X = A is called an equation,
+is true whatever a and b may be; while n X X = A is called an [[Equation|equation]],
 as being true, when n and A are given, for one value only of X.
 Similarly the numbers represented by 6/12 and 1/2 are not identical, but
 are equal.
@@ -946,7 +946,7 @@ case of numbers the X may be replaced by a dot; thus 4.3 means 4 times
 the symbol [X] will be used, so that b [X] a will mean the same as a X
 b.
 
-29. _Axioms._--There are certain statements that are sometimes regarded
+29. _[[Axiom|Axioms]]._--There are certain statements that are sometimes regarded
 as axiomatic; e.g. that if equals are added to equals the results are
 equal, or that if A is greater than B then A + X is greater than B + X.
 Such statements, however, are capable of logical proof, and are
@@ -1028,7 +1028,7 @@ similar principles with regard to multiplication and division, to
 numerical quantities expressed in any of the diverse British
 denominations, presents no theoretical difficulty if the successive
 denominations are regarded as constituting a varying scale of notation
-(S 17). Thus the expression 2 ft. 3 in. implies that in counting inches
+(S 17). Thus the expression 2 ft. 3 in. implies that in counting [[Inch|inches]]
 we use 0 to eleven instead of 0 to 9 as our first repeating series, so
 that we put down 1 for the next denomination when we get to twelve
 instead of when we get to ten. Similarly 3 yds. 2 ft. means
@@ -1079,7 +1079,7 @@ the number of times it is taken.
 35. _Diagram of Multiplication._--The process of multiplication is
 performed in order to obtain such results as the following:--
 
-    If 1 boy receives 7 apples,
+    If 1 boy receives 7 [[Apple|apples]],
   then 3 boys receive 21 apples;
 
 or
@@ -1804,7 +1804,7 @@ any fractional number.
 numbers in the same way that we obtain negative integral numbers; thus
 -(5/7) or -(5/7)A means that 5/7 or (5/7)A is taken negatively.
 
-68. _Genesis of Fractional Numbers._--A fractional number may be
+68. _[[Genesis]] of Fractional Numbers._--A fractional number may be
 regarded as the result of a measuring division (S 39) which cannot be
 performed exactly. Thus we cannot divide 3 in. by 11 in. exactly, i.e.
 we cannot express 3 in. as an integral multiple of 11 in.; but, by
@@ -1996,7 +1996,7 @@ reverse order.
 Hindu treatises on arithmetic show the use of fractions, containing a
 power of 10 as denominator, as early as the beginning of the 6th century
 A.D. There was, however, no development in the direction of decimals in
-the modern sense, and the Arabs, by whom the Hindu notation of integers
+the modern sense, and the [[Arabs]], by whom the Hindu notation of integers
 was brought to Europe, mainly used the sexagesimal division in the ' "
 "' notation. Even where the decimal notation would seem to arise
 naturally, as in the case of approximate extraction of a square root,
@@ -2006,7 +2006,7 @@ notation was published by Simon Stevinus of Bruges. It is worthy of
 notice that the invention of this notation appears to have been due to
 practical needs, being required for the purpose of computation of
 compound interest. The present decimal notation, which is a development
-of that of Stevinus, was first used in 1617 by H. Briggs, the computer
+of that of Stevinus, was first used in 1617 by H. [[Brigg|Briggs]], the computer
 of logarithms.
 
 80. _Fractions of Concrete Quantities._--The British systems of coinage,
@@ -2062,13 +2062,13 @@ decimals; and this is also the case for surds and logarithms, as well as
 for the numbers expressing certain ratios which arise out of geometrical
 relations. Even where numbers are supposed to be exact, calculations
 based on them can often only be approximate. We might, for instance,
-calculate the exact cost of 3 lb. 5 oz. of meat at 9-1/2 d. a lb., but
+calculate the exact cost of 3 lb. 5 oz. of [[Meat|meat]] at 9-1/2 d. a lb., but
 there are no coins in which we could pay this exact amount.
 
 When the result of any arithmetical operation or operations is
 represented approximately but not exactly by a number, the excess
 (positive or negative) of this number over the number which would
-express the result exactly is called the _error_.
+express the result exactly is called the _[[Error|error]]_.
 
 82. _Degree of Accuracy._--There are three principal ways of expressing
 the degree of accuracy of any number, i.e. the extent to which it is
@@ -2217,7 +2217,7 @@ shifting of the decimal point. In the same way, by dividing by powers of
 
 88. _Logarithms._--If N is the antilogarithm of p to the base a, i.e. if
 N = a^p, then p is called the logarithm of N to the base a, and is
-written log_a N. As the table of antilogarithms is formed by successive
+written [[Log|log]]_a N. As the table of antilogarithms is formed by successive
 multiplications, so the logarithm of any given number is in theory
 found by successive divisions. Thus, to find the logarithm of a number
 to base 2, the number being greater than 1, we first divide repeatedly
@@ -2406,7 +2406,7 @@ shown at D.
   |     .     |      .      |
   +-----------+-------------+
 
-93. _Interpolation._--In most cases the quantity in the second column
+93. _[[Interpolation]]._--In most cases the quantity in the second column
 may be regarded as increasing or decreasing continuously as the number
 in the first column increases, and it has intermediate values
 corresponding to intermediate (i.e. fractional or decimal) numbers not
@@ -2486,7 +2486,7 @@ The name is a bad one, since it does not correspond with any ordinary
 meaning of the verb. It would be better described as _exchanging_, by
 analogy with the "changing" of subtraction. When, e.g., we find that the
 sum of 17s. and 18s. is 35s., we take out 20 of the 35 shillings, and
-exchange them for L1.
+[[Exchange|exchange]] them for L1.
 
 To add from the left, we have to look ahead to see whether the next
 addition will require an exchange. Thus, in adding L3, 17s. 0d. to L2,
@@ -2671,7 +2671,7 @@ thus 8/15 = 4/5 . 2/3 = (1 - 1/5)(1 - 1/3), and 33/40 = 3/4 . 11/10 = (1
 _practice_, but the nomenclature of the method is confusing. There are
 two kinds of practice, _simple practice_ and _compound practice_, but
 the latter is the simpler of the two. To find the cost of 2 lb. 8 oz. of
-butter at 1s. 2d. a lb., we multiply 1s. 2d. by 2(8/16) = 2-1/2. This
+[[Butter|butter]] at 1s. 2d. a lb., we multiply 1s. 2d. by 2(8/16) = 2-1/2. This
 straightforward process is called "compound" practice. "Simple" practice
 involves an application of the commutative law. To find the cost of n
 articles at La, bs, cd. each, we express La, bs, cd. in the form L(a +
@@ -2753,7 +2753,7 @@ greater difficulty.
 The advantage of the Austrian arrangement of the quotient lies in the
 indication it gives of the true value of each partial quotient. A
 modification of the method, corresponding with D of S 101, is shown in
-G; the fact that the partial product 08546 is followed by two blank
+G; the fact that the partial product 08546 is followed by two [[Blank|blank]]
 spaces shows that the figure 2 represents a partial quotient 200. An
 alternative arrangement, corresponding to E of S 101, and suited for
 more advanced work, is shown in H.
@@ -2891,7 +2891,7 @@ any rate to a first approximation, by means of a table of logarithms.
 Thus, to find the square root of 2, we have log [root]2 = log (2^1/2) =
 1/2 log 2. We take out log 2 from the table, halve it, and then find
 from the table the number of which this is the logarithm. (See
-LOGARITHM.) The _slide-rule_ (see CALCULATING MACHINES) is a simple
+LOGARITHM.) The _slide-rule_ (see CALCULATING [[Machine|MACHINES]]) is a simple
 apparatus for the mechanical application of the methods of logarithms.
 
 When a first approximation has been obtained in this way, further
@@ -2901,7 +2901,7 @@ whence 2 = (1.414)^2 + (2.818)[theta] + [theta]^2. Since [theta]^2 is
 less than 1/4 of (.001)^2, we can obtain three more figures
 approximately by dividing 2 - (1.414)^2 by 2.818.
 
-114. _Binomial Theorem._--More generally, if we have obtained a as an
+114. _[[Binomial]] Theorem._--More generally, if we have obtained a as an
 approximate value for the pth root of N, the binomial theorem gives as
 an approximate formula [root p]N = a + [theta], where N = a^p +
 pa^(p - 1)[theta].
@@ -3122,13 +3122,13 @@ Text-books on arithmetic usually contain explanations of the chief
 commercial transactions in which arithmetical calculations arise; it
 will be sufficient in the present article to deal with interest and
 discount, and to give some notes on percentages and rates in the L.
-_Insurance_ and _Annuities_ are matters of general importance, which are
+_[[Insurance]]_ and _Annuities_ are matters of general importance, which are
 dealt with elsewhere under their own headings.
 
 122. _Percentages and Rates in the L._--In dealing with percentages and
 rates it is important to notice whether the sum which is expressed as a
 percentage of a rate on another sum is a part of or an addition to that
-sum, or whether they are independent of one another. Income tax, for
+sum, or whether they are independent of one another. [[Income Tax|Income tax]], for
 instance, is calculated on income, and is in the nature of a deduction
 from the income; but local rates are calculated in proportion to certain
 other payments, actual or potential, and could without absurdity exceed
@@ -3144,7 +3144,7 @@ certain rate per cent. on the principal. In legal documents the rate is
 sometimes expressed as a certain sum of money "per centum per annum";
 here "centum" must be taken to mean "L100."
 
-_Simple interest_ arises where unpaid interest accumulates as a debt not
+_Simple interest_ arises where unpaid interest accumulates as a [[Debt|debt]] not
 itself bearing interest; but, if this debt bears interest, the total,
 i.e. interest and interest on interest, is called _compound interest._
 If 100r is the rate per cent. per annum, the simple interest on LA for n
@@ -3168,7 +3168,7 @@ calculated in this way is less than the theoretical present value.
 
 125. Applications to _Physics_ are numerous, but are usually only of
 special interest. A case of general interest is the measurement of
-_temperature._ The graduation of a thermometer is determined by the
+_temperature._ The [[Graduation|graduation]] of a thermometer is determined by the
 freezing-point and the boiling-point of water, the interval between
 these being divided into a certain number of degrees, representing equal
 increases of temperature. On the Fahrenheit scale the points are
@@ -3186,20 +3186,20 @@ quantity to the average, so that the calculation may often be simplified
 by taking some particular measurement as a new zero from which to
 measure.
 
-  AUTHORITIES.--For the history of the subject, see W.W.R. Ball,
+  AUTHORITIES.--For the history of the subject, see W.W.R. [[Ball]],
   _Short History of Mathematics_ (1901), and F. Cajori, _History of
   Elementary Mathematics_ (1896); or more detailed information in M.
   Cantor, _Vorlesungen uber Geschichte der Mathematik_ (1894-1901). L.
-  C. Conant, _The Number-Concept_ (1896), gives a very full account of
+  C. [[Conant]], _The Number-Concept_ (1896), gives a very full account of
   systems of numeration. For the latter, and for systems of notation,
   reference may also be made to Peacock's article "Arithmetic" in the
   _Encyclopaedia Metropolitana_, which contains a detailed account of
-  the Greek system. F. Galton, _Inquiries into Human Faculty_ (1883),
+  the Greek system. F. [[Galton]], _Inquiries into Human Faculty_ (1883),
   contains the first account of number-forms; for further examples and
   references see D.E. Phillips, "Genesis of Number-Forms," _American
   Journal of Psychology_, vol. viii. (1897). There are very few works
   dealing adequately but simply with the principles of arithmetic.
-  Homersham Cox, _Principles of Arithmetic_ (1885), is brief and lucid,
+  Homersham [[Cox]], _Principles of Arithmetic_ (1885), is brief and lucid,
   but is out of print. _The Psychology of Number_, by J.A. McLellan and
   J. Dewey (1895), contains valuable suggestions (some of which have
   been utilized in the present article), but it deals only with number
@@ -3223,8 +3223,8 @@ measure.
   United States of America the _Report of the Committee of Ten_ on
   secondary school studies (1893) and the _Report of the Committee of
   Fifteen_ on elementary education (1893-1894), both issued by the
-  United States Bureau of Education, have attracted a good deal of
-  attention. Sir O. Lodge, _Easy Mathematics, chiefly Arithmetic_
+  United States [[Bureau]] of Education, have attracted a good deal of
+  attention. Sir O. [[Lodge]], _Easy Mathematics, chiefly Arithmetic_
   (1905), treats the subject broadly in its practical aspects. The
   student who is interested in elementary teaching should consult the
   annual bibliographies in the _Pedagogical Seminary_; an article by D.

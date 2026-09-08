@@ -9,21 +9,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Graces"
 # Graces
 
 GRACES, THE, (Gr. [Greek: Charites], Lat. _Gratiae_), in Greek
-mythology, the personification of grace and charm, both in nature and in
+mythology, the personification of [[Grace|grace]] and [[Charm|charm]], both in nature and in
 moral action. The transition from a single goddess, Charis, to a number
-or group of Charites, is marked in Homer. In the _Iliad_ one Charis is
-the wife of Hephaestus, another the promised wife of Sleep, while the
+or group of Charites, is marked in [[Homer]]. In the _Iliad_ one Charis is
+the wife of [[Hephaestus]], another the promised wife of Sleep, while the
 plural Charites often occurs. The Charites are usually described as
-three in number--Aglaia (brightness), Euphrosyne (joyfulness), Thalia
-(bloom)--daughters of Zeus and Hera (or Eurynome, daughter of Oceanus),
+three in number--Aglaia (brightness), [[Euphrosyne]] (joyfulness), Thalia
+(bloom)--daughters of Zeus and [[Hera]] (or Eurynome, daughter of Oceanus),
 or of Helios and Aegle; in Sparta, however, only two were known, Cleta
 (noise) and Phaenna (light), as at Athens Auxo (increase) and Hegemone
 (queen). They are the friends of the Muses, with whom they live on Mount
-Olympus, and the companions of Aphrodite, of Peitho, the goddess of
-persuasion, and of Hermes, the god of eloquence, to each of whom charm
+Olympus, and the companions of [[Aphrodite]], of Peitho, the goddess of
+persuasion, and of [[Hermes]], the god of eloquence, to each of whom charm
 is an indispensable adjunct. The need of their assistance to the artist
 is indicated by the union of Hephaestus and Charis. The most ancient
-seat of their cult was Orchomenus in Boeotia, where their oldest images,
+seat of their cult was Orchomenus in [[Boeotia]], where their oldest [[Image|images]],
 in the form of stones fallen from heaven, were set up in their temple.
 Their worship was said to have been instituted by Eteocles, whose three
 daughters fell into a well while dancing in their honour. At Orchomenus
@@ -44,8 +44,8 @@ instruments. In Rome the Graces were never the objects of special
 religious reverence, but were described and represented by poets and
 artists in accordance with Greek models.
 
-  See F. H. Krause, _Musen, Gratien, Horen, und Nymphen_ (1871), and the
-  articles by Stoll and Furtwangler in Roscher's _Lexikon der
+  See F. H. [[Krause]], _Musen, Gratien, Horen, und Nymphen_ (1871), and the
+  articles by Stoll and [[Furtwangler]] in Roscher's _Lexikon der
   Mythologie_, and by S. Gsell in Daremberg and Saglio's _Dictionnaire
   des antiquites_, with the bibliography.
 

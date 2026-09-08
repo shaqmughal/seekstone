@@ -1,14 +1,14 @@
 # Greenwich
 
 GREENWICH, a south-eastern metropolitan borough of London, England,
-bounded N. by the river Thames, E. by Woolwich, S. by Lewisham and W. by
+bounded N. by the river Thames, E. by Woolwich, S. by [[Lewisham]] and W. by
 Deptford. Pop. (1901) 95,770. Area, 3851.7 acres. It has a
-river-frontage of 4-1/2 m., the Thames making two deep bends, enclosing
+river-frontage of 4-1/2 m., the Thames making two deep [[Bend|bends]], enclosing
 the Isle of Dogs on the north and a similar peninsula on the Greenwich
 side. Greenwich is connected with Poplar on the north shore by the
 Greenwich tunnel (1902), for foot-passengers, to the Isle of Dogs
 (Cubitt Town), and by the Blackwall Tunnel (1897) for street traffic,
-crossing to a point between the East and West India Docks (see POPLAR).
+crossing to a point between the East and West India [[Dock|Docks]] (see POPLAR).
 The main thoroughfares from W. to E. are Woolwich and Shooter's Hill
 Roads, the second representing the old high road through Kent, the Roman
 Watling Street. Greenwich is first noticed in the reign of Ethelred,
@@ -22,7 +22,7 @@ with the wharves adjacent and opposite to it, make a striking picture,
 standing on the low river-bank with a background formed by the wooded
 elevation of Greenwich Park. They occupy the site of an ancient royal
 palace called Greenwich House, which was a favourite royal residence as
-early as 1300, but was granted by Henry V. to Thomas Beaufort, duke of
+early as 1300, but was granted by Henry V. to Thomas [[Beaufort]], duke of
 Exeter, from whom it passed to Humphrey, duke of Gloucester, who largely
 improved the property and named it _Placentia_. It did not revert to the
 crown till his death in 1447. It was the birthplace of Henry VIII.,
@@ -39,7 +39,7 @@ Charles II., by whom it was pulled down, and the west wing of the
 present hospital was erected as part of an extensive design which was
 not further carried out. In its unfinished state it was assigned by the
 patent of William and Mary to certain of the great officers of state, as
-commissioners for its conversion into a hospital for seamen; and it was
+commissioners for its [[Conversion|conversion]] into a hospital for seamen; and it was
 opened as such in 1705. The building consists of four blocks. Behind a
 terrace 860 ft. in length, stretching along the river side, are the
 buildings erected in the time of Charles II. from Inigo Jones's designs,
@@ -47,15 +47,15 @@ and in that of Queen Anne from designs by Sir Christopher Wren; and
 behind these buildings are on the west those of King William and on the
 east those of Queen Mary, both from Wren's designs. In the King William
 range is the painted hall. Here in 1806 the remains of Nelson lay in
-state before their burial in St Paul's Cathedral. Its walls and ceiling
+state before their burial in St Paul's Cathedral. Its walls and [[Ceiling|ceiling]]
 were painted by Sir James Thornhill with various emblematic devices, and
 it is hung with portraits of the most distinguished admirals and
 paintings of the chief naval battles of England. In the Queen Anne range
 is the Royal Naval Museum, containing models, relics of Nelson and of
-Franklin, and other objects. In the centre of the principal quadrangle
+[[Franklin]], and other objects. In the centre of the principal quadrangle
 of the hospital there is a statue of George II. by Rysbrack, sculptured
 out of a single block of marble taken from the French by Admiral Sir
-George Rooke. In the upper quadrangle is a bust of Nelson by Chantrey,
+George Rooke. In the upper quadrangle is a bust of Nelson by [[Chantrey]],
 and there are various other memorials and relics. The oldest part of the
 building was in some measure rebuilt in 1811, and the present chapel was
 erected to replace one destroyed by fire in 1779. The endowments of the
@@ -88,9 +88,9 @@ common of Blackheath, mainly within the borough of Lewisham, and in the
 east the borough includes the greater part of Woolwich Common.
 
 At Greenwich an annual banquet of cabinet ministers, known as the
-whitebait dinner, formerly took place. This ceremony arose out of a
+whitebait [[Dinner|dinner]], formerly took place. This ceremony arose out of a
 dinner held annually at Dagenham, on the Essex shore of the Thames, by
-the commissioners for engineering works carried out there in
+the commissioners for [[Engineering|engineering]] works carried out there in
 1705-1720--a remarkable achievement for this period--to save the
 lowlands from flooding. To one of these dinners Pitt was invited, and
 was subsequently accompanied by some of his colleagues. Early in the

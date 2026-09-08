@@ -16,7 +16,7 @@ to which is marked on the west by a bold cliff, the Bluff, whose summit
 is 195 ft. above the sea, and on the east by a low sandy spit called the
 Point. The city extends from the Point along the side of the bay and
 also for some distance along the coast of the Indian Ocean, and
-stretches inland to a range of low hills called the Berea.
+stretches inland to a range of low hills called the [[Berea]].
 
 The chief streets, Smith, West and Pine, are in the lower town, parallel
 to one another and to the bay. They contain the principal public
@@ -31,8 +31,8 @@ are the post and telegraph offices, a fine edifice (built 1881-1885)
 with a clock tower 164 ft. high. The post office formerly served as town
 hall. In Pine Street is the Central railway station and the spacious
 Market House. Among the churches St Cyprian's (Anglican), in Smith
-Street, has a handsome chancel. The Roman Catholic cathedral is a fine
-building in the Gothic style. The town possesses several parks, one, the
+Street, has a handsome [[Chancel|chancel]]. The Roman Catholic cathedral is a fine
+building in the [[Gothic]] style. The town possesses several parks, one, the
 Victoria Park, facing the Indian Ocean. This part of the town is laid
 out with pleasure grounds and esplanades. The botanic gardens, in the
 upper town, contain a very fine collection of flowering shrubs and
@@ -40,7 +40,7 @@ semi-tropical trees. Above the gardens is the observatory. There is a
 fine statue of Queen Victoria by Hamo Thornycroft, R.A., in the public
 gardens, and a memorial to Vasco da Gama at the Point. There is an
 extensive system of electric trams. Another favourite means of
-conveyance is by rickshaw, the runners being Zulus. The town is governed
+[[Conveyance|conveyance]] is by rickshaw, the runners being Zulus. The town is governed
 by a municipality which owns the water and electric lighting supplies
 and the tramway system. The sanitary services are excellent. The main
 water-supply is the Umlaas river, which enters the ocean 10 m. S. of the
@@ -56,7 +56,7 @@ over 2000 ft. into the sea, and parallel to it, starting from the Point,
 is a pier. The harbour is landlocked, and covers 7½ sq. m. Much of this
 area is shoal water, but the accommodation available was largely
 increased by the removal during 1904-1908 of 24,000,000 tons of sand.
-The port has over 3 m. of wharfage. It possesses a floating dock capable
+The port has over 3 m. of wharfage. It possesses a floating [[Dock|dock]] capable
 of lifting a vessel of 8500 tons, a floating workshop, a patent slip for
 small craft, hydraulic cranes, &c. The minimum depth alongside the quays
 at low water is 23 ft., increased at places to over 30 ft. The principal
@@ -78,7 +78,7 @@ R.N., and about ten companions went thither from Cape Town in the brig
 name. In 1835 a township was laid out and the colonists gave it the name
 of D'Urban, in honour of Sir Benjamin D'Urban, then governor of Cape
 Colony. At this time a mission church was built on the heights
-overlooking the bay by Captain Allen Gardner, R.N., who named the hill
+overlooking the bay by Captain Allen [[Gardner]], R.N., who named the hill
 Berea in gratitude for support received from the settlers, whom he found
 "more noble than those of" Zululand--Dingaan having refused to allow the
 captain to start a mission among his people. From December 1838 to
@@ -87,7 +87,7 @@ On its recall the little settlement was taken possession of by Dutch
 emigrants from the Cape, who had defeated the Zulu king Dingaan, and who
 the year before at the upper end of the bay had formed an encampment,
 _Kangela_ (look-out), the present Congella. The Dutch claimed
-independence, and on the block-house at Durban hoisted the flag of the
+independence, and on the block-house at Durban hoisted the [[Flag|flag]] of the
 "Republic of Natalia." In 1842, however, a British military force
 reoccupied Durban, and on the 15th of July of that year a treaty was
 signed in which the Dutch recognized British sovereignty (see further

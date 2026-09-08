@@ -51,7 +51,7 @@ destruction. It pleased him to affect a vein of melancholy, and this
 affectation has been reproduced by his followers. Hence he gives the
 impression of insincerity, of trifling with grave subjects and of using
 mysticism as a mask for frivolity. The genuine Campoamor is a poet of
-the sunniest humour who, under the pretence of teaching morality by
+the sunniest [[Humour|humour]] who, under the pretence of teaching morality by
 satire, is really seeking to utter the gay scepticism of a genial,
 epicurean nature. His influence has not been altogether for good. His
 formula is too easily mastered, and to his example is due a plague of

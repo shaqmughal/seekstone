@@ -1,6 +1,6 @@
 # Avalanche
 
-AVALANCHE (adopted from a French dialectic form, _avalance_, descent), a
+AVALANCHE (adopted from a French [[Dialectic|dialectic]] form, _avalance_, descent), a
 mass of snow and ice mingled with earth and stones, which rushes down a
 mountain side, carrying everything before it, and producing a strong wind
 which uproots trees on each side of its course. Where the supply of snow

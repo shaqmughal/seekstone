@@ -1,48 +1,48 @@
 # Lincolnshire
 
-LINCOLNSHIRE, an eastern county of England, bounded N. by the Humber, E.
+LINCOLNSHIRE, an eastern county of England, bounded N. by the [[Humber]], E.
 by the German Ocean and the Wash, S.E. for 3 m. by Norfolk, S. by
-Cambridgeshire and Northamptonshire, S.W. by Rutland, W. by
-Leicestershire and Nottinghamshire and N.W. by Yorkshire. The area is
+[[Cambridgeshire]] and Northamptonshire, S.W. by Rutland, W. by
+[[Leicestershire]] and Nottinghamshire and N.W. by Yorkshire. The area is
 2646 sq. m., the county being second to Yorkshire of the English
 counties in size.
 
 The coast-line, about 110 m. in length, including the Humber shore, is
 generally low and marshy, and artificial banks for guarding against the
 inroads of the sea are to be found, in places, all along the coast. From
-Grimsby to Skegness traces of a submarine forest are visible; but while
+[[Grimsby]] to Skegness traces of a submarine forest are visible; but while
 the sea is encroaching upon some parts of the coast it is receding from
 others, as shown by Holbeach, which is now 6 m. from the sea. Several
 thousand acres have been reclaimed from this part of the Wash, and round
 the mouth of the Nene on the south-east. The deep bay between the coasts
 of Lincolnshire and Norfolk, called the Wash, is full of dangerous
 sandbanks and silt; the navigable portion off the Lincolnshire coast is
-known as the Boston Deeps. The rapidity of the tides in this inlet, and
+known as the [[Boston]] Deeps. The rapidity of the tides in this inlet, and
 the lowness of its shores, which are generally indistinct on account of
 mist from a moderate offing, render this the most difficult portion of
 the navigation of the east coast of England. On some parts of the coast
-there are fine stretches of sand, and Cleethorpes, Skegness, Mablethorpe
+there are fine stretches of sand, and [[Cleethorpes]], Skegness, Mablethorpe
 and Sutton-on-Sea are favourite resorts for visitors.
 
 The surface of Lincolnshire is generally a large plain, small portions
 of which are slightly below the level of the sea. The south-east parts
-are perfectly flat; and about one-third of the county consists of fens
+are perfectly flat; and about one-third of the county consists of [[Fens|fens]]
 and marshes, intersected in all directions by artificial drains, called
-locally dykes, delphs, drains, becks, leams and eaux. This flat surface
+locally dykes, delphs, drains, [[Beck|becks]], leams and eaux. This flat surface
 is broken by two ranges of calcareous hills running north and south
-through the county, and known as the Lincoln Edge or Heights, or the
+through the county, and known as the [[Lincoln]] Edge or Heights, or the
 Cliff, and the Wolds. The former range, on the west, runs nearly due
-north from Grantham to Lincoln, and thence to the Humber, traversing the
+north from [[Grantham]] to Lincoln, and thence to the Humber, traversing the
 Heaths of Lincolnshire, which were formerly open moors, rabbit warrens
 and sheep walks, but are now enclosed and brought into high cultivation.
 The Wolds form a ridge of bold hills extending from Spilsby to
 Barton-on-Humber for about 40 m., with an average breadth of about 8 m.
 The Humber separates Lincolnshire from Yorkshire. Its ports on the
-Lincolnshire side are the small ferry-ports of Barton and New Holland,
+Lincolnshire side are the small ferry-ports of [[Barton]] and New Holland,
 and the important harbour of Grimsby. The Trent forms part of the
-boundary with Nottinghamshire, divides the Isle of Axholme (q.v.) from
+boundary with Nottinghamshire, divides the Isle of [[Axholme]] (q.v.) from
 the district of Lindsey, and falls into the Humber about 30 m. below
-Gainsborough. The Witham rises on the S.W. border of the county, flows
+[[Gainsborough]]. The Witham rises on the S.W. border of the county, flows
 north past Grantham to Lincoln, and thence E. and S.E. to Boston, after
 a course of about 80 m. The Welland rises in north-west
 Northamptonshire, enters the county at Stamford, and, after receiving
@@ -72,24 +72,24 @@ permit the deposit of the sand and mud held in solution by the waters.
   parallel belts, nearly in the line of the length of the county, from
   north to south, and succeed one another in ascending order from west
   to east. The lowest is the Triassic Keuper found in the Isle of
-  Axholme and the valley of the Trent in the form of marls, sandstone
-  and gypsum. Fish scales and teeth, with bones and footprints of the
+  Axholme and the valley of the Trent in the form of [[Marl|marls]], sandstone
+  and [[Gypsum|gypsum]]. Fish scales and teeth, with [[Bone|bones]] and footprints of the
   _Labyrinthodon_, are met with in the sandstone. The red clay is
   frequently dug for brick-making. The beds dip gently towards the east.
-  At the junction between the Trias and Lias are series of beds termed
+  At the junction between the Trias and [[Lias]] are series of beds termed
   Rhaetics, which seem to mark a transition from one to the other. These
   belts are in part exposed in pits near Newark, and extend north by
   Gainsborough to where the Trent flows into the Humber, passing thence
-  into Yorkshire. The characteristic shells are found at Lea, 2 m. south
+  into Yorkshire. The characteristic shells are found at [[Lea]], 2 m. south
   of Gainsborough, with a thin bone-bed full of fish teeth and scales.
   The Lower Lias comes next in order, with a valuable bed of ironstone
   now largely worked. This bed is about 27 ft. in thickness, and crops
   out at Scunthorpe and Frodingham, where the workings are open and
   shallow. The Middle Lias, which enters the county near Woolsthorpe, is
   about 20 or 30 ft. thick, and is very variable both in thickness and
-  mineralogical character; the iron ores of Denton and Caythorpe belong
-  to this horizon. The Upper Lias enters the county at Stainby, passing
-  by Grantham and Lincoln where it is worked for bricks. The Lias thus
+  mineralogical character; the iron ores of [[Denton]] and Caythorpe belong
+  to this [[Horizon|horizon]]. The Upper Lias enters the county at Stainby, passing
+  by Grantham and Lincoln where it is worked for [[Brick|bricks]]. The Lias thus
   occupies a vale about 8 or 10 m. in width in the south, narrowing
   until on the Humber it is about a mile in width. To this succeed the
   Oolite formations. The Inferior Oolite, somewhat narrower than the
@@ -97,21 +97,21 @@ permit the deposit of the sand and mud held in solution by the waters.
   the vicinity of the Humber; it forms the Cliff of Lincolnshire with a
   strong escarpment facing westward. At Lincoln the ridge is notched by
   the river Witham. The principal member of the Inferior Oolite is the
-  Lincolnshire limestone, which is an important water-bearing bed and is
+  Lincolnshire [[Limestone|limestone]], which is an important water-bearing bed and is
   quarried at Lincoln, Ponton, Ancaster, and Kirton Lindsey for building
   stone. Eastward of the Inferior Oolite lie the narrow outcrops of the
   Great Oolite and Cornbrash. The Middle Oolite, Oxford clay and
-  Corallian is very narrow in the south near Wilsthorpe, widening
+  [[Corallian]] is very narrow in the south near Wilsthorpe, widening
   gradually about Sleaford. It then proceeds north from Lincoln with
   decreasing width to the vicinity of the Humber. The Upper Oolite,
   Kimeridge clay, starts from the vicinity of Stamford, and after
   attaining its greatest width near Horncastle, runs north-north-west to
   the Humber. The Kimeridge clay is succeeded by the Spilsby sandstone,
   Tealby limestone, Claxby ironstone, and carstone which represent the
-  highest Jurassic and lowest Cretaceous rocks. In the Cretaceous system
-  of the Wolds, the Lower Greensand runs nearly parallel with the Upper
+  highest [[Jurassic]] and lowest Cretaceous rocks. In the Cretaceous system
+  of the Wolds, the Lower [[Greensand]] runs nearly parallel with the Upper
   Oolite past South Willingham to the Humber. The Upper Greensand and
-  Gault, represented in Lincolnshire by the Red Chalk, run north-west
+  [[Gault]], represented in Lincolnshire by the Red Chalk, run north-west
   from Irby, widening out as far as Kelstern on the east, and cross the
   Humber. The Chalk formation, about equal in breadth to the three
   preceding, extends from Burgh across the Humber. The rest of the
@@ -119,7 +119,7 @@ permit the deposit of the sand and mud held in solution by the waters.
   Oolite belt and the sea, all its north-east portions between the chalk
   belt and the sea, and a narrow tract up the course of the Ancholme
   river, consists of alluvial deposits or of reclaimed marsh. In the
-  northern part boulder clay and glacial sands cover considerable tracts
+  northern part [[Boulder Clay|boulder clay]] and glacial sands cover considerable tracts
   of the older rocks. Bunter, Permian, and Coal Measure strata have been
   revealed by boring to underlie the Keuper near Haxey.
 
@@ -137,7 +137,7 @@ permit the deposit of the sand and mud held in solution by the waters.
   reputation for cold and damp often given to the county as a whole. The
   soils vary considerably, according to the geological formations; ten
   or twelve different kinds may be found in going across the country
-  from east to west. A good sandy loam is common in the Heath division;
+  from east to west. A good sandy [[Loam|loam]] is common in the Heath division;
   a sandy loam with chalk, or a flinty loam on chalk marl, abounds on
   portions of the Wolds; an argillaceous sand, merging into rich loam,
   lies on other portions of the Wolds; a black loam and a rich vegetable
@@ -153,7 +153,7 @@ permit the deposit of the sand and mud held in solution by the waters.
   grain-producing, counties in England. Nearly nine-tenths of the total
   area is under cultivation. The wide grazing lands have long been
   famous, and the arable lands are specially adapted for the growth of
-  wheat and beans. The largest individual grain-crop, however, is
+  wheat and [[Bean|beans]]. The largest individual grain-crop, however, is
   barley. Both cattle and sheep are bred in great numbers. The cattle
   raised are the Shorthorns and improved Lincolnshire breeds. The dairy,
   except in the vicinity of large towns, receives little attention. The
@@ -171,13 +171,13 @@ permit the deposit of the sand and mud held in solution by the waters.
 
   _Industries and Communications._--Manufactures are few and, relatively
   to the agricultural industry, small. The mineral industries, however,
-  are of value, and there are considerable agricultural machine and
-  implement factories at Lincoln, Boston, Gainsborough, Grantham and
-  Louth. At Little Bytham a very hard brick, called adamantine clinker,
+  are of value, and there are considerable agricultural [[Machine|machine]] and
+  [[Implement|implement]] factories at Lincoln, Boston, Gainsborough, Grantham and
+  [[Louth]]. At Little Bytham a very hard brick, called adamantine clinker,
   is made of the siliceous clay that the Romans used for similar works.
   Bone-crushing, tanning, the manufacture of oil-cake for cattle, and
   rope-making are carried on in various places. Grimsby is an important
-  port both for continental traffic and especially for fisheries; Boston
+  port both for continental traffic and especially for [[Fisheries|fisheries]]; Boston
   is second to it in the county; and Gainsborough has a considerable
   traffic on the Trent. Sutton Bridge is a lesser port on the Wash.
 
@@ -186,12 +186,12 @@ permit the deposit of the sand and mud held in solution by the waters.
   are from Peterborough to Spalding, Boston, Louth and Grimsby; and from
   Grantham to Sleaford and Boston, and to Lincoln, and Boston to
   Lincoln. This company works jointly with the Great Eastern the line
-  from March to Spalding, Lincoln, Gainsborough and Doncaster, and with
+  from March to Spalding, Lincoln, Gainsborough and [[Doncaster]], and with
   the Midland that from Saxby to Bourn, Spalding, Holbeach, Sutton
   Bridge and King's Lynn. The Midland company has a branch from Newark
   to Lincoln, and the Lancashire, Derbyshire, and East Coast line
   terminates at Lincoln. The Great Central railway connects the west,
-  Sheffield and Doncaster with Grimsby, and with Hull by ferry from New
+  Sheffield and Doncaster with Grimsby, and with [[Hull]] by ferry from New
   Holland. Canals connect Louth with the Humber, Sleaford with the
   Witham, and Grantham with the Trent near Nottingham; but the greater
   rivers and many of the drainage cuts are navigable, being artificially
@@ -213,7 +213,7 @@ permit the deposit of the sand and mud held in solution by the waters.
   1. PARTS OF LINDSEY.--Municipal boroughs--Grimsby, a county borough
   (pop. 63,138), Lincoln, a city and county borough and the county town
   (48,784), Louth (9518). Urban districts--Alford (2478),
-  Barton-upon-Humber (5671), Brigg (3137), Broughton (1300), Brumby and
+  [[Barton-Upon-Humber|Barton-upon-Humber]] (5671), [[Brigg]] (3137), Broughton (1300), Brumby and
   Frodingham (2273), Cleethorpes with Thrunscoe (12,578), Crowle (2769),
   Gainsborough (17,660), Horncastle (4038), Mablethorpe (934), Market
   Rasen (2188), Roxby-cum-Risby (389), Scunthorpe (6750), Skegness
@@ -262,7 +262,7 @@ and the organization of the districts dependent upon them probably
 resulted about this time in the grouping of Lindsey, Kesteven and
 Holland to form the shire of Lincoln. The extent and permanence of the
 Danish influence in Lincolnshire is still observable in the names of its
-towns and villages and in the local dialect, and, though about 918 the
+towns and villages and in the local [[Dialect|dialect]], and, though about 918 the
 confederate boroughs were recaptured by Edward the Elder, in 993 a
 Viking fleet again entered the Humber and ravaged Lindsey, and in 1013
 the district of the five boroughs acknowledged the supremacy of Sweyn.
@@ -284,9 +284,9 @@ forest and of fen. Lindsey in Norman times was divided into three
 ridings--North, West and South--comprising respectively five, five and
 seven wapentakes; while, apart from their division into wapentakes, the
 Domesday Survey exhibits a unique planning out of the ridings into
-approximately equal numbers of 12-carucate hundreds, the term hundred
+approximately equal numbers of 12-[[Carucate|carucate]] hundreds, the term hundred
 possessing here no administrative or local significance, but serving
-merely as a unit of area for purposes of assessment. The Norman division
+merely as a unit of area for purposes of [[Assessment|assessment]]. The Norman division
 of Holland into the three wapentakes of Elloe, Kirton and Skirbeck has
 remained unchanged to the present day. In Kesteven the wapentakes of
 Aswardhurn, Aveland, Beltisloe, Haxwell, Langoe, Loveden, Ness,
@@ -298,7 +298,7 @@ Epworth in Westriding has been absorbed in that of Manley. Wall
 wapentake in Westriding was a liberty of the bishop of Lincoln, and as
 late as 1515 the dean and chapter of Lincoln claimed delivery and return
 of writs in the manor and hundred of Navenby. In the 13th century
-Baldwin Wake claimed return of writs and a market in Aveland. William de
+[[Baldwin]] Wake claimed return of writs and a market in Aveland. William de
 Vesci claimed liberties and exemptions in Caythorpe, of which he was
 summoned to render account at the sheriff's tourn at Halton. The abbot
 of Peterborough, the abbot of Tupholme, the abbot of Bardney, the prior
@@ -312,7 +312,7 @@ absence the reeve and four men of the vill. The ridings were each
 presided over by a riding-reeve, and wapentake courts were held in the
 reign of Henry I. twelve times a year, and in the reign of Henry III.
 every three weeks, while twice a year all the freemen of the wapentake
-were summoned to the view of frankpledge or tourn held by the sheriff.
+were summoned to the view of [[Frankpledge|frankpledge]] or tourn held by the sheriff.
 The boundaries between Kesteven and Holland were a matter of dispute as
 early as 1389 and were not finally settled until 1816.
 
@@ -321,7 +321,7 @@ Lichfield, but, on the subdivision of the latter by Theodore in 680, the
 fen-district was included in the diocese of Lichfield, while the see for
 the northern parts of the county was placed at "Sidnacester," generally
 identified with Stow. Subsequently both dioceses were merged in the vast
-West-Saxon bishopric of Dorchester, the see of which was afterwards
+West-Saxon bishopric of [[Dorchester]], the see of which was afterwards
 transferred to Winchester, and by Bishop Remigius in 1072 to Lincoln.
 The archdeaconry of Lincoln was among those instituted by Remigius, and
 the division into rural deaneries also dates from this period. Stow
@@ -345,7 +345,7 @@ there were upwards of a hundred religious houses in the county.
 
 In the struggles of the reign of Stephen, castles at Newark and Sleaford
 were raised by Alexander, bishop of Lincoln, against the king, while
-Ranulf "Gernons," earl of Chester, in 1140 garrisoned Lincoln for the
+Ranulf "Gernons," earl of [[Chester]], in 1140 garrisoned Lincoln for the
 empress. The seizure of Lincoln by Stephen in 1141 was accompanied with
 fearful butchery and devastation, and by an accord at Stamford William
 of Roumare received Kirton in Lindsey, and his tenure of Gainsborough
@@ -368,26 +368,26 @@ the defeat of the rebels in the skirmish known as "Losecoat Field" near
 Stamford. In the Civil War of the 17th century, Lindsey for the most
 part declared for the king, and the Royalist cause was warmly supported
 by the earl of Lindsey, Viscount Newark, Sir Peregrine Bertie and the
-families of Dymoke, Heneage and Thorold. Lord Willoughby of Parham was a
+families of [[Dymoke]], Heneage and Thorold. Lord Willoughby of Parham was a
 prominent Parliamentary leader, and the Isle of Axholme and the Puritan
-yeomanry of Holland declared for the parliament. In 1643 Cromwell won a
-small victory near Grantham, and the Royalist garrisons at Lynn and
+yeomanry of Holland declared for the parliament. In 1643 [[Cromwell]] won a
+small victory near Grantham, and the Royalist [[Garrison|garrisons]] at Lynn and
 Lincoln surrendered to Manchester. In 1644, however, Newark,
 Gainsborough, Lincoln, Sleaford and Crowland were all in Royalist hands,
 and Newark only surrendered in 1646. Among other historic families
-connected with Lincolnshire were the Wakes of Bourne and the
+connected with Lincolnshire were the Wakes of [[Bourne]] and the
 d'Eyncourts, who flourished at Blankney from the Conquest to the reign
 of Henry VI.; Belvoir Castle was founded by the Toenis, from whom it
 passed by the Daubeneys, then to the Barons Ros and later to the
-Manners, earls of Rutland. In the Lindsey Survey of 1115-1118 the name
+[[Manners]], earls of Rutland. In the Lindsey Survey of 1115-1118 the name
 of Roger Marmion, ancestor of the Marmion family, who had inherited the
-fief of Robert Despenser, appears for the first time.
+fief of Robert [[Despenser]], appears for the first time.
 
 At the time of the Domesday Survey there were between 400 and 500 mills
 in Lincolnshire; 2111 fisheries producing large quantities of eels; 361
 salt-works; and iron forges at Stow, St Mary and at Bytham. Lincoln and
 Stamford were flourishing centres of industry, and markets existed at
-Kirton-in-Lindsey, Louth, Old Bolingbroke, Spalding, Barton and Partney.
+Kirton-in-Lindsey, Louth, Old [[Bolingbroke]], Spalding, Barton and Partney.
 The early manufactures of the county are all connected with the woollen
 trade, Lincoln being noted for its scarlet cloth in the 13th century,
 while an important export trade in the raw material sprang up at Boston.
@@ -397,7 +397,7 @@ and fishing towns, especially Boston (which had a famous fish-market),
 Grimsby, Barton, Saltfleet, Wainfleet and Wrangle. The Lincolnshire
 towns suffered from the general decay of trade in the eastern counties
 which marked the 15th century, but agriculture was steadily improving,
-and with the gradual drainage of the fen-districts culminating in the
+and with the [[Gradual|gradual]] drainage of the fen-districts culminating in the
 vast operations of the 17th century, over 330,000 acres in the county
 were brought under cultivation, including more than two-thirds of
 Holland. The fen-drainage resulted in the extinction of many local
@@ -405,11 +405,11 @@ industries, such as the trade in goose-feathers and the export of wild
 fowl to the London markets, a 17th-century writer terming this county
 "the aviary of England, 3000 mallards with other birds having been
 caught sometimes in August at one draught." Other historic industries of
-Lincolnshire are the breeding of horses and dogs and rabbit-snaring; the
+Lincolnshire are the breeding of horses and [[Dogs|dogs]] and rabbit-snaring; the
 Witham was noted for its pike; and ironstone was worked in the south,
 now chiefly in the north and west.
 
-As early as 1295 two knights were returned to parliament for the shire
+As early as 1295 two [[Knight|knights]] were returned to parliament for the shire
 of Lincoln, and two burgesses each for Lincoln, Grimsby and Stamford. In
 the 14th century Lincoln and Stamford were several times the
 meeting-places of parliament or important councils, the most notable
@@ -429,7 +429,7 @@ member each and Stamford was disfranchised.
   houses; and among the Fens rose some of the finest abbeys held by the
   Benedictines. The Gilbertines were a purely English order which took
   its rise in Lincolnshire, the canons following the Austin rule, the
-  nuns and lay brothers that of the Cistercians. They generally lived in
+  nuns and lay brothers that of the [[Cistercians]]. They generally lived in
   separate houses, but formed a community having a common church in
   which the sexes were divided by a longitudinal wall. These houses were
   at Alvingham, Catley, Holland Brigg, Lincoln, before the gate of which
@@ -463,7 +463,7 @@ member each and Stamford was disfranchised.
   In the Parts of Kesteven the churches are built of excellent stone
   which abounds at Ancaster and near Sleaford. The church of St Andrew,
   Heckington, is the best example of Decorated architecture in the
-  county; it is famed for its Easter sepulchre and fine sedilia. The
+  county; it is famed for its [[Easter]] sepulchre and fine sedilia. The
   noble church of St Wulfram, Grantham, with one of the finest spires in
   England, is also principally Decorated; this style in fact is
   particularly well displayed in Kesteven, as in the churches of
@@ -491,7 +491,7 @@ member each and Stamford was disfranchised.
   considerable number are traceable. Those of Lincoln and Tattershall (a
   fine Perpendicular building in brick) are the most noteworthy, and
   there are also fragments at Boston and Sleaford, Country seats worthy
-  of note (chiefly modern) are Aswarby Hall, Belton House, Brocklesby,
+  of note (chiefly modern) are Aswarby Hall, Belton House, [[Brocklesby]],
   Casewick, Denton Manor, Easton Hall, Grimsthorpe (of the 16th and 18th
   centuries, with earlier remains), Haverholm Priory, Nocton Hall,
   Panton Hall, Riby Grove, Somerby Hall, Syston Park and Uffington. The

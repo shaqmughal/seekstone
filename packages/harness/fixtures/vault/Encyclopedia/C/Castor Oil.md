@@ -10,21 +10,21 @@ tags: [science, folklore-studies]
 
 CASTOR OIL, the fixed oil obtained from the seeds of the castor oil
 plant or Palma Christi, _Ricinus communis_, belonging to the natural
-order Euphorbiaceae. The botanical name is from Lat. _ricinus_, a tick,
+order [[Euphorbiaceae]]. The botanical name is from Lat. _ricinus_, a tick,
 from the form and markings of the seed. The plant is a native of
 tropical Africa, but it has been introduced, and is now cultivated in
 most tropical and in the warmer temperate countries. In size it varies
 from a shrubby plant to a tree of from 30 to 40 ft. in height according
 to the climate in which it grows, being arborescent in tropical
-latitudes. On account of its very large beautiful palmate-peltate
+[[Latitude|latitudes]]. On account of its very large beautiful palmate-peltate
 leaves, which sometimes measure as much as 2 ft. in diameter, it is
 cultivated as an ornamental plant. In the south of England, with the
 habit of an annual, it ripens its seeds in favourable seasons; and it
-has been known to come to maturity as far north as Christiania in
+has been known to come to maturity as far north as [[Christiania]] in
 Norway. Plants are readily grown from seed, which should be sown singly
 in small pots and placed in heat early in March. The young plants are
 kept under glass till early in June when they are hardened and put out.
-The fruit consists of a three-celled capsule, covered externally with
+The fruit consists of a three-celled [[Capsule|capsule]], covered externally with
 soft yielding prickles, and each cell develops a single seed. The seeds
 of the different cultivated varieties, of which there are a great
 number, differ much in size and in external markings; but average seeds
@@ -40,7 +40,7 @@ The oil is obtained from the seeds by two principal methods--expression
 and decoction--the latter process being largely used in India, where the
 oil, on account of its cheapness and abundance is extensively employed
 for illuminating as well as for other domestic and medicinal purposes.
-The oil exported from Calcutta to Europe is prepared by shelling and
+The oil exported from [[Calcutta]] to Europe is prepared by shelling and
 crushing the seeds between rollers. The crushed mass is then placed in
 hempen cloths and pressed in a screw or hydraulic press. The oil which
 exudes is mixed with water and heated till the water boils, and the
@@ -57,7 +57,7 @@ an equal proportion of water, and boiled to purify it from mucilaginous
 and albuminous matter. After boiling about an hour, it is allowed to
 cool, the water is drawn off, and the oil is transferred to zinc tanks
 or clarifiers capable of holding from 60 to 100 gallons. In these it
-stands about eight hours, bleaching in the sun, after which it is ready
+stands about eight hours, [[Bleaching|bleaching]] in the sun, after which it is ready
 for storing. By this method 100 lb. of good seeds yield about 5 gallons
 of pure oil.
 
@@ -86,15 +86,15 @@ aggravates, whilst relieving the symptoms.
 
 
 
-CASTRÉN, MATTHIAS ALEXANDER (1813-1853), Finnish ethnologist and
-philologist, was born at Tervola, in the parish of Kemi in Finland, on
+CASTRÉN, [[Matthias|MATTHIAS]] ALEXANDER (1813-1853), Finnish ethnologist and
+philologist, was born at Tervola, in the parish of Kemi in [[Finland]], on
 the 20th of November (December 2, 1813). His father, Christian Castrén,
 parish minister at Rovaniemi, died in 1825; and Matthias passed under
 the protection of his uncle, Mathias Castrén, the kindly and learned
 incumbent of Kemi. At the age of twelve he was sent to school at
 Uleåborg, and there he helped to maintain himself by teaching the
 younger children. On his removal to the Alexander University at
-Helsingfors in 1830, he first devoted himself to Greek and Hebrew with
+[[Helsingfors]] in 1830, he first devoted himself to Greek and Hebrew with
 the intention of entering the church; but his interest was soon excited
 by the language of his native country, and he even began before his
 course was completed to lay the foundations of a work on Finnish
@@ -130,7 +130,7 @@ principal work, a Samoyedic grammar, when he died on the 7th of May
   mythologi_; (4) _Ethnologiska forelasningar ofver Altaiska folken_;
   and (5) _Smarre afhandlingar och akademiska dissertationer_. A German
   translation was published by Anton Schiefner, who was also entrusted
-  by the St Petersburg Academy with the editing of his manuscripts which
+  by the St Petersburg Academy with the editing of his [[Manuscript|manuscripts]] which
   had been left to the Helsingfors University and which were
   subsequently published.
 

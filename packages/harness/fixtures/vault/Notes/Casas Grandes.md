@@ -9,9 +9,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Casas_Gran
 # Casas Grandes
 
 CASAS GRANDES ("Great Houses"), a small village of Mexico, in the state
-of Chihuahua, situated on the Casas Grandes or San Miguel river, about
+of [[Chihuahua]], situated on the Casas Grandes or San Miguel river, about
 35 m. S. of Llanos and 150 m. N.W. of the city of Chihuahua. The railway
-from Ciudad Juarez to Terrazas passes through the town. It is celebrated
+from Ciudad [[Juarez]] to Terrazas passes through the town. It is celebrated
 for the ruins of early aboriginal buildings still extant, about half a
 mile from its present site. They are built of "sun-dried blocks of mud
 and gravel, about 22 in. thick, and of irregular length, generally about
@@ -37,7 +37,7 @@ ornamentation in blue, red, brown or black, and are of much better
 manufacture than the modern pottery of the country. Similar ruins to
 those of Casas Grandes exist near the Gila, the Salinas, and the
 Colorado and it is probable that they are all the erections of one
-people. Bancroft is disposed to assign them to the Moquis.
+people. [[Bancroft]] is disposed to assign them to the Moquis.
 
   See vol. iv. of H.H. Bancroft's _The Native Races of the Pacific
   States of North America_, of which the principal authorities are the

@@ -21,7 +21,7 @@ He was also appointed steward to the countess Szápáry, a widow with
 large estates, and as her representative had a seat in the county
 assembly. This position he lost owing to a quarrel with his patroness,
 and he was accused of appropriating money to pay a gambling debt. His
-fault cannot have been very serious, for he was shortly afterwards (he
+[[Fault|fault]] cannot have been very serious, for he was shortly afterwards (he
 had in the meantime settled in Pesth) appointed by Count Hunyady to be
 his deputy at the National Diet in Pressburg (1825-1827, and again in
 1832). It was a time when, under able leaders, a great national party
@@ -72,11 +72,11 @@ rival paper, the _Vilag_, only increased his importance and added to the
 political excitement. The warning of the great reformer Szechenyi that
 by his appeal to the passions of the people he was leading the nation to
 revolution was neglected. Kossuth, indeed, was not content with
-advocating those reforms--the abolition of entail, the abolition of
-feudal burdens, taxation of the nobles--which were demanded by all the
+advocating those reforms--the abolition of [[Entail|entail]], the abolition of
+feudal [[Burden|burdens]], taxation of the nobles--which were demanded by all the
 Liberals. By insisting on the superiority of the Magyars to the Slavonic
 inhabitants of Hungary, by his violent attacks on Austria (he already
-discussed the possibility of a breach with Austria), he raised the
+discussed the possibility of a [[Breach|breach]] with Austria), he raised the
 national pride to a dangerous pitch. At last, in 1844, the government
 succeeded in breaking his connexion with the paper. The proprietor, in
 obedience to orders from Vienna (this seems the most probable account),
@@ -97,7 +97,7 @@ Liberals. Deak was absent. Batthyany, Szechenyi, Szemere, Eotvos, his
 rivals, saw how his intense personal ambition and egoism led him always
 to assume the chief place, and to use his parliamentary position to
 establish himself as leader of the nation; but before his eloquence and
-energy all apprehensions were useless. His eloquence was of that nature,
+energy all [[Apprehension|apprehensions]] were useless. His eloquence was of that nature,
 in its impassioned appeals to the strongest emotions, that it required
 for its full effect the highest themes and the most dramatic situations.
 In a time of rest, though he could never have been obscure, he would
@@ -131,7 +131,7 @@ name was in the minds of the people associated with the new government.
 Much more was this the case when, in the summer, the dangers from the
 Croats, Serbs and the reaction at Vienna increased. In a great speech of
 11th July he asked that the nation should arm in self-defence, and
-demanded 200,000 men; amid a scene of wild enthusiasm this was granted
+demanded 200,000 men; amid a scene of wild [[Enthusiasm|enthusiasm]] this was granted
 by acclamation. When Jellachich was marching on Pesth he went from town
 to town rousing the people to the defence of the country, and the
 popular force of the _Honved_ was his creation. When Batthyany resigned
@@ -159,7 +159,7 @@ soldier; but no one was able, as he was, to infuse courage into others.
 During all the terrible winter which followed, his energy and spirit
 never failed him. It was he who overcame the reluctance of the army to
 march to the relief of Vienna; after the defeat of Schwechat, at which
-he was present, he sent Bem to carry on the war in Transylvania. At the
+he was present, he sent [[Bem]] to carry on the war in Transylvania. At the
 end of the year, when the Austrians were approaching Pesth, he asked for
 the mediation of Mr Stiles, the American envoy. Windischgrätz, however,
 refused all terms, and the Diet and government fled to Debrecszin,
@@ -180,7 +180,7 @@ ultimate success were frustrated by the intervention of Russia; all
 appeals to the western powers were vain, and on the 11th of August
 Kossuth abdicated in favour of Görgei, on the ground that in the last
 extremity the general alone could save the nation. How Görgei used his
-authority to surrender is well known; the capitulation was indeed
+authority to surrender is well known; the [[Capitulation|capitulation]] was indeed
 inevitable, but a greater man than Kossuth would not have avoided the
 last duty of conducting the negotiations so as to get the best terms.
 
@@ -199,8 +199,8 @@ where he received an enthusiastic welcome from the people, but the
 prince-president refused to allow him to cross France. On the 23rd of
 October he landed at Southampton and spent three weeks in England, where
 he was the object of extraordinary enthusiasm, equalled only by that
-with which Garibaldi was received ten years later. Addresses were
-presented to him at Southampton, Birmingham and other towns; he was
+with which [[Garibaldi]] was received ten years later. Addresses were
+presented to him at Southampton, [[Birmingham]] and other towns; he was
 officially entertained by the lord mayor of London; at each place he
 pleaded the cause of his unhappy country. Speaking in English, he
 displayed an eloquence and command of the language scarcely excelled by
@@ -218,7 +218,7 @@ Count Casimir Batthyany attacked him in _The Times_, and Szemere, who
 had been prime minister under him, published a bitter criticism of his
 acts and character, accusing him of arrogance, cowardice and duplicity.
 He soon returned to England, where he lived for eight years in close
-connexion with Mazzini, by whom, with some misgiving, he was persuaded
+connexion with [[Mazzini]], by whom, with some misgiving, he was persuaded
 to join the Revolutionary Committee. Quarrels of a kind only too common
 among exiles followed; the Hungarians were especially offended by his
 claim still to be called governor. He watched with anxiety every
@@ -226,7 +226,7 @@ opportunity of once more freeing his country from Austria. An attempt to
 organize a Hungarian legion during the Crimean War was stopped; but in
 1859 he entered into negotiations with Napoleon, left England for Italy,
 and began the organization of a Hungarian legion, which was to make a
-descent on the coast of Dalmatia. The Peace of Villafranca made this
+descent on the coast of [[Dalmatia]]. The Peace of Villafranca made this
 impossible. From that time he resided in Italy; he refused to follow the
 other Hungarian patriots, who, under the lead of Deak, accepted the
 composition of 1867; for him there could be no reconciliation with the
@@ -254,7 +254,7 @@ patriot and greatest orator.
   1848-1849_ (in Hungarian) (Budapest, 1894). See also E. O. S.,
   _Hungary and its Revolutions, with a Memoir of Louis Kossuth_ (Bohn,
   1854); Horvath, _25 Jahre aus der Geschichte Ungarns, 1823-1848_
-  (Leipzig, 1867); Maurice, _Revolutions of 1848-1849_; W. H. Stiles,
+  (Leipzig, 1867); [[Maurice]], _Revolutions of 1848-1849_; W. H. Stiles,
   _Austria in 1848-1849_ (New York, 1852); Szemere, _Politische
   Charakterskizzen: III. Kossuth_ (Hamburg, 1853); Louis Kossuth,
   _Memoirs of my Exile_ (London, 1880); Pulszky, _Meine Zeit, mein

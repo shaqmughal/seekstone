@@ -32,8 +32,8 @@ a relief work for unemployed operatives during the cotton famine of the
 earlier part of the decade. On the moors to the north-west, and
 including Rivington Pike (1192 ft.), is another public park, and there
 are various smaller pleasure grounds. A large number of cotton mills
-furnish the chief source of industry; printing, dyeing and bleaching of
-cotton and calico, spinning and weaving machine making, iron and steel
+furnish the chief source of industry; printing, dyeing and [[Bleaching|bleaching]] of
+cotton and calico, spinning and weaving [[Machine|machine]] making, iron and steel
 works, and collieries in the neighbourhood, are also important. The
 speciality, however, is fine spinning, a process assisted by the damp
 climate. The parliamentary borough, created in 1832 and returning two
@@ -48,9 +48,9 @@ important of the later forms are Bodeltown, Botheltun-le-Moors,
 Bowelton, Boltune, Bolton-super-Moras, Bolton-in-ye-Moors,
 Bolton-le-Moors. The manor was granted by William I. to Roger de
 Poictou, and passed through the families of Ferrers and Pilkington to
-the Harringtons of Hornby Castle, who lost it with their other estates
+the Harringtons of [[Hornby]] Castle, who lost it with their other estates
 for their adherence to Richard III. In 1485 Henry VII. granted it to the
-first earl of Derby. The manor is now held by different lords, but the
+first earl of [[Derby]]. The manor is now held by different lords, but the
 earls of Derby still have a fourth part. The manor of Little Bolton
 seems to have been, at least from Henry III.'s reign, distinct from that
 of Great Bolton, and was held till the 17th century by the Botheltons or
@@ -64,7 +64,7 @@ the industry received an impulse from the settlement of a party of
 Flemish clothiers, and extended so greatly that when it was found
 necessary in 1566 to appoint by act of parliament deputies to assist the
 aulnegers, Bolton is named as one of the places where these deputies
-were to be employed. Leland in his _Itinerary_ (1558) recorded the fact
+were to be employed. [[Leland]] in his _Itinerary_ (1558) recorded the fact
 that Bolton made cottons, which were in reality woollen goods. Real
 cotton goods were not made in Lancashire till 1641, when Bolton is named
 as the chief seat of the manufacture of fustians, vermilions and

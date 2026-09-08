@@ -1,7 +1,7 @@
 # Aragonite
 
 ARAGONITE, one of the mineral forms of calcium carbonate (CaCO3), the
-other form being the more common mineral calcite. It crystallizes in the
+other form being the more common mineral [[Calcite|calcite]]. It crystallizes in the
 orthorhombic system, and the crystals are either prismatic or acicular
 in habit. Simple crystals are, however, rare; twinning on the prism
 planes (_M_ in the figures) being a characteristic feature of the
@@ -23,7 +23,7 @@ resinous in character.
 [Illustration: FIG. 2.]
 
 The mineral was first found, as reddish twinned crystals with the form
-of six-sided prisms, at Molina in Aragon, Spain, where it occurs with
+of six-sided prisms, at Molina in [[Aragon]], Spain, where it occurs with
 gypsum and small crystals of ferruginous quartz in a red clay. It is
 from this locality that the mineral takes its name, which was originally
 spelt arragonite. Fine groups of crystals of the same habit are found in
@@ -31,7 +31,7 @@ the sulphur deposits of Girgenti in Sicily; also at Herrengrund near
 Neusohl in Hungary. At many other localities the mineral takes the form
 of radiating groups of acicular crystals, such as those from the
 haematite mines of west Cumberland: beautiful feathery forms have been
-found in a limestone cave in the Transvaal. Fibrous forms are also
+found in a [[Limestone|limestone]] cave in the Transvaal. Fibrous forms are also
 common. A peculiar coralloidal variety known as _flosferri_ ("flower of
 iron") consists of radially arranged fibres: magnificent snow-white
 specimens of this variety have long been known from the iron mines of
@@ -40,7 +40,7 @@ invertebrate animals consist of aragonite (calcite is also common);
 pearls may be specially cited as an example.
 
 Aragonite is a member of the isomorphous group of minerals comprising
-witherite (BaCO3), strontianite (SrCO3), cerussite (PbCO3) and bromlite
+witherite (BaCO3), strontianite (SrCO3), [[Cerussite|cerussite]] (PbCO3) and bromlite
 ((Ba, Ca)CO3); and crystals of aragonite sometimes contain small amounts
 of strontium or lead. A variety known as tarnowitzite, from Tarnowitz in
 Silesia, contains about 5% of lead carbonate.
@@ -51,9 +51,9 @@ granular aggregate of calcite individuals: altered crystals of this kind
 (paramorphs) are not infrequently met with in nature, whilst in fossil
 shells the original nacreous layer of aragonite has invariably been
 altered to calcite. From a solution of calcium carbonate in water
-containing carbon dioxide crystals of calcite are deposited at the
+containing [[Carbon|carbon]] dioxide crystals of calcite are deposited at the
 ordinary temperature, but from a warm solution aragonite crystallizes
-out. The thermal springs of Carlsbad deposit spherical concretions of
+out. The thermal springs of Carlsbad deposit spherical [[Concretion|concretions]] of
 aragonite, forming masses known as pisolite or _Sprudelstein_.
      (L. J. S.)
 

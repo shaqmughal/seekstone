@@ -1,6 +1,6 @@
 # Bowling Green
 
-BOWLING GREEN, a city and the county-seat of Warren county, Kentucky,
+BOWLING GREEN, a city and the county-seat of Warren county, [[Kentucky]],
 U.S.A., on the Barren river, 113 m. S. by W. of Louisville. Pop. (1890)
 7803; (1900) 8226, of whom 2593 were negroes; (1910) 9173. The city is
 served by the Louisville & Nashville railway (which maintains car shops
@@ -12,7 +12,7 @@ stone. The city is the seat of Potter College (for girls; non-sectarian,
 opened 1889); of Ogden College (non-sectarian, 1877), a secondary
 school, endowed by the bequest of Major Robert W. Ogden (1796-1873); of
 the West Kentucky State Normal School, opened (as the Southern Normal
-School and Business College) at Glasgow in 1875 and removed to Bowling
+School and Business College) at [[Glasgow]] in 1875 and removed to Bowling
 Green in 1884; and of the Bowling Green Business University, formerly a
 part of the Southern Normal School and Business College. Bowling Green
 has two parks, a large horse and mule market, and a trade in other

@@ -7,7 +7,7 @@ in 1746, but it is not clear whether the engravings with this title
 formed part of a book, or were issued only in separate plates; a few of
 the latter are all that are known to exist. Between 1752 and 1769
 several collections of designs were produced by Copeland in conjunction
-with Matthias Lock; in one of them Copeland is described as of
+with [[Matthias]] [[Lock]]; in one of them Copeland is described as of
 Cheapside. Some of the original drawings are in the National Art library
 at the Victoria and Albert Museum. Copeland was probably the originator
 of a peculiar type of chairback, popular for a few years in the middle

@@ -2,7 +2,7 @@
 
 INSOMNIA, or deprivation of sleep (Lat. _somnus_), a common and
 troublesome feature of most illnesses, both acute and chronic. It may be
-due to pain, fever or cerebral excitement, as in _delirium tremens_, or
+due to pain, [[Fever|fever]] or cerebral excitement, as in _[[Delirium|delirium]] tremens_, or
 to organic changes in the brain. The treatment, when failure to sleep
 occurs in connexion with a definite illness, is part of the treatment of
 that illness. But there is a form of sleeplessness not occurring during
@@ -10,11 +10,11 @@ illness to which the term "insomnia" is commonly and conveniently
 applied. It must not be confounded with occasional wakefulness caused by
 some minor discomfort, such as indigestion, nor with the "bad nights" of
 the valetudinarian. Real insomnia consists in the prolonged inability to
-obtain sleep sufficient in quantity and quality for the maintenance of
+obtain sleep sufficient in quantity and quality for the [[Maintenance|maintenance]] of
 health. It is a condition of modern urban life, and may be regarded as a
 malady in itself. It is a potent factor in causing those nervous
 breakdowns ascribed to "overwork." It may occur as a sequel to some
-exhausting illness, notably influenza, which affects the nervous system
+exhausting illness, notably [[Influenza|influenza]], which affects the nervous system
 long after convalescence. But it very often occurs without any such
 cause. Professional and business men are the most frequent sufferers.
 Insomnia is comparatively rare among the poor, who do little or no brain
@@ -37,7 +37,7 @@ if the mischief has gone far it will take very long to repair, and may
 never be repaired at all. In no matter of health is the importance of
 "taking it early" more pronounced. Delay is the worst economy. A few
 days' holiday at the commencement of trouble may save months or years of
-enforced idleness. Sea-air sometimes acts like a charm. But if it is
+enforced idleness. Sea-air sometimes acts like a [[Charm|charm]]. But if it is
 impossible to give up work and leave worry behind, even for a short
 time, sleep should be carefully wooed by every possible means. In the
 first place, plenty of time should be devoted to it, and no chance

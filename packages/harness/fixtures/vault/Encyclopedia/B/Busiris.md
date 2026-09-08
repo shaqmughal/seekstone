@@ -9,13 +9,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Busiris"
 
 BUSIRIS, in a Greek legend preserved in a fragment of Pherecydes, an
 Egyptian king, son of Poseidon and Lyssianassa. After Egypt has been
-afflicted for nine years with famine, Phrasius, a seer of Cyprus, arrived
+afflicted for nine years with famine, Phrasius, a seer of [[Cyprus]], arrived
 in Egypt and announced that the cessation of the famine would not take
 place until a foreigner was yearly sacrificed to Zeus or Jupiter. Busiris
 commenced by sacrificing the prophet, and continued the custom by offering
 a foreigner on the altar of the god. It is here that Busiris enters into
 the circle of the myths and _parerga_ of Heracles, who had arrived in Egypt
-from Libya, and was seized and bound ready to be killed and offered at the
+from [[Libya]], and was seized and bound ready to be killed and offered at the
 altar of Zeus in Memphis. Heracles burst the bonds which bound him, and,
 seizing his club, slew Busiris with his son Amphidamas and his herald
 Chalbes. [v.04 p.0874] This exploit is often represented on vase paintings
@@ -28,9 +28,9 @@ Egyptians rejected him altogether. Various esoterical explanations were
 given of the myth, and the name not found as a king was recognized as that
 of the tomb of Osiris. Busiris is here probably an earlier and less
 accurate Graecism than Osiris for the name of the Egyptian god Usiri, like
-Bubastis, Buto, for the goddesses Ubasti and Uto. Busiris, Bubastis, Buto,
+[[Bubastis]], Buto, for the goddesses Ubasti and Uto. Busiris, Bubastis, Buto,
 more strictly represent Pusiri, Pubasti, Puto, cities sacred to these
-divinities. All three were situated in the Delta, and would be amongst the
+divinities. All three were situated in the [[Delta]], and would be amongst the
 first known to the Greeks. All shrines of Osiris were called _P-usiri_, but
 the principal city of the name was in the centre of the Delta, capital of
 the 9th (Busirite) nome of Lower Egypt; another one near Memphis (now
@@ -48,7 +48,7 @@ treatment at the hands of the Egyptians, in spite of the generally mild
 character of the latter.
 
 See H. v. Gartringen, in Pauly-Wissowa, _Realencyclopadie_, for the
-evidence from the side of classical archaeology.
+evidence from the side of classical [[Archaeology|archaeology]].
 
 (F. LL. G.)
 

@@ -4,7 +4,7 @@ FREDERICK III. (1831-1888), king of Prussia and German emperor, was born
 at Potsdam on the 18th of October 1831, being the eldest son of Prince
 William of Prussia, afterwards first German emperor, and the princess
 Augusta. He was carefully educated, and in 1849-1850 studied at the
-university of Bonn. The next years were spent in military duties and in
+university of [[Bonn]]. The next years were spent in military duties and in
 travels, in which he was accompanied by Moltke. In 1851 he visited
 England on the occasion of the Great Exhibition, and in 1855 became
 engaged to Victoria, princess royal of Great Britain, to whom he was
@@ -22,14 +22,14 @@ published. He ceased to attend meetings of the council of state, and was
 much away from Berlin. The opposition of the crown prince to the
 ministers was increased during the following year, for he was a warm
 friend of the prince of Augustenburg, whose claims to Schleswig-Holstein
-Bismarck refused to support. During the war with Denmark he had his
+Bismarck refused to support. During the war with [[Denmark]] he had his
 first military experience, being attached to the staff of Marshal von
 Wrangel; he performed valuable service in arranging the difficulties
 caused by the disputes between the field marshal and the other officers,
 and was eventually given a control over him. After the war he continued
 to support the prince of Augustenburg and was strongly opposed to the
 war with Austria. During the campaign of 1866 he received the command of
-an army consisting of four army corps; he was assisted by General von
+an army consisting of four army [[Corps|corps]]; he was assisted by General von
 Blumenthal, as chief of the staff, but took a very active part in
 directing the difficult operations by which his army fought its way
 through the mountains from Silesia to Bohemia, fighting four engagements
@@ -56,7 +56,7 @@ him. He and the crown princess took a great interest in art and
 industry, especially in the royal museums; and the excavations conducted
 at Olympia and Pergamon with such great results were chiefly due to him.
 The crown princess was a keen advocate of the higher education of women,
-and it was owing to her exertions that the Victoria Lyceum at Berlin
+and it was owing to her exertions that the Victoria [[Lyceum]] at Berlin
 (which was named after her) was founded. In 1878, when the emperor was
 incapacitated by the shot of an assassin, the prince acted for some
 months as regent. His palace was the centre of all that was best in the
@@ -66,7 +66,7 @@ Liberal parties founded in 1884 was popularly known as the "crown
 prince's party," but he scrupulously refrained from any act that might
 embarrass his father's government. For many reasons the accession of the
 prince was looked forward to with great hope by a large part of the
-nation. Unfortunately he was attacked by cancer in the throat; he spent
+nation. Unfortunately he was attacked by [[Cancer|cancer]] in the throat; he spent
 the winter of 1887-1888 at San Remo; in January 1888 the operation of
 tracheotomy had to be performed. On the death of his father, which took
 place on the 9th of March, he at once journeyed to Berlin; but his days
@@ -75,20 +75,20 @@ circumstances his accession could not have the political importance
 which would otherwise have attached to it, though it was disfigured by a
 vicious outburst of party passion in which the names of the emperor and
 the empress were constantly misused. While the Liberals hoped the
-emperor would use his power for some signal declaration of policy, the
+emperor would use his power for some signal [[Declaration|declaration]] of policy, the
 adherents of Bismarck did not scruple to make bitter attacks on the
 empress. The emperor's most important act was a severe reprimand
 addressed to Herr von Puttkamer, the reactionary minister of the
 interior, which caused his resignation; in the distribution of honours
-he chose many who belonged to classes and parties hitherto excluded from
+he [[Chose|chose]] many who belonged to classes and parties hitherto excluded from
 court favour. A serious difference of opinion with the chancellor
 regarding the proposal for a marriage between Prince Alexander of
-Battenberg and the princess Victoria of Prussia was arranged by the
+[[Battenberg]] and the princess Victoria of Prussia was arranged by the
 intervention of Queen Victoria, who visited Berlin to see her dying
 son-in-law. He expired at Potsdam on the 15th of June 1888, after a
 reign of ninety-nine days.
 
-After the emperor's death Professor Geffcken, a personal friend,
+After the emperor's death Professor [[Geffcken]], a personal friend,
 published in the _Deutsche Rundschau_ extracts from the diary of the
 crown prince containing passages which illustrated his differences with
 Bismarck during the war of 1870. The object was to injure Bismarck's
@@ -97,12 +97,12 @@ letter addressed to the new emperor, denied the authenticity of the
 extracts on the ground that they were unworthy of the crown prince.
 Geffcken was then arrested and imprisoned. He had undoubtedly shown that
 he was an injudicious friend, for the diary proved that the prince, in
-his enthusiasm for German unity, had allowed himself to consider
+his [[Enthusiasm|enthusiasm]] for German unity, had allowed himself to consider
 projects which would have seriously compromised the relations of Prussia
 and Bavaria. The treatment of the crown prince's illness also gave rise
 to an acrimonious controversy. It arose from the fact that as early as
 May 1887 the German physicians recognized the presence of cancer in the
-throat, but Sir Morell Mackenzie, the English specialist who was also
+throat, but Sir Morell [[Mackenzie]], the English specialist who was also
 consulted, disputed the correctness of this diagnosis, and advised that
 the operation for removal of the larynx, which they had recommended,
 should not be undertaken. His advice was followed, and the differences
@@ -115,11 +115,11 @@ Friedrichskron, Cronberg, near Homburg v. d. H., where she spent her
 last years. Of the emperor's children two, Prince Sigismund (1864-1866)
 and Prince Waldemar (1869-1879), died in childhood. He left two sons,
 William, his successor as emperor, and Henry, who adopted a naval
-career. Of his daughters, the princess Charlotte was married to Bernard,
+career. Of his daughters, the princess [[Charlotte]] was married to [[Bernard]],
 hereditary prince of Meiningen; the princess Victoria to Prince Adolf of
 Schaumburg-Lippe; the princess Sophie to the duke of Sparta, crown
-prince of Greece; and the princess Margaretha to Prince Friedrich Karl
-of Hesse.
+prince of Greece; and the princess Margaretha to Prince [[Friedrich]] Karl
+of [[Hesse]].
 
   AUTHORITIES.--M. von Poschinger, _Kaiser Friedrich_ (3 vols., Berlin,
   1898-1900). Adapted into English by Sidney Whitman, _Life of the

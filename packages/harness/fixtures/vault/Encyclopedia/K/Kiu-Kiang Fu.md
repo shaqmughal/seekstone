@@ -8,7 +8,7 @@ tags: [history]
 # Kiu-Kiang Fu
 
 KIU-KIANG FU, a prefecture and prefectural city in the province of
-Kiang-si, China. The city, which is situated on the south bank of the
+[[Kiang-Si|Kiang-si]], China. The city, which is situated on the south bank of the
 Yangtsze-kiang, 15 m. above the point where the Kan Kiang flows into
 that river from the Po-yang lake, stands in 29° 42´ N. and 116° 8´ E.
 The north face of the city is separated from the river by only the width
@@ -28,10 +28,10 @@ street to represent the once flourishing town. The position of Kiu-Kiang
 on the Yangtsze-kiang and its proximity to the channels of internal
 communication through the Po-yang lake, more especially to those leading
 to the green-tea-producing districts of the provinces of Kiang-si and
-Ngan-hui, induced Lord Elgin to choose it as one of the treaty ports to
+Ngan-hui, induced Lord [[Elgin]] to choose it as one of the treaty ports to
 be opened under the terms of his treaty (1861). Unfortunately, however,
 it stands above instead of below the outlet of the Po-yang lake, and
-this has proved to be a decided drawback to its success as a commercial
+this has proved to be a decided [[Drawback|drawback]] to its success as a commercial
 port. The immediate effect of opening the town to foreign trade was to
 raise the population in one year from 10,000 to 40,000. The population
 in 1908, exclusive of foreigners, was officially estimated at 36,000.

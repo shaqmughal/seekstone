@@ -16,7 +16,7 @@ to be ascertained by reference to a plan or by measurement. In law, the
 exact boundary of land is always a matter of evidence; where no evidence
 is available, the court acts on presumption. For example, the boundary
 of land on opposite sides of a road, whether public or private, is
-presumed to be the middle line of the road. Where two fields are
+presumed to be the middle line of the road. Where two [[Fields|fields]] are
 separated by a hedge and ditch the boundary line will run between the
 hedge and the ditch. Boundaries of parishes, at common law, depended
 upon ancient and immemorial custom, and in many parishes great care was

@@ -16,7 +16,7 @@ sailors, by kidnapping, drugging, decoying or other illegal means.
 Crimps were formerly regularly employed in the days of impressment
 (q.v.). Now the term is used, first of any one who engages to supply
 merchant seamen without a licence from the Board of Trade, and is not
-either the owner, master or mate of the ship, or is not bona fide the
+either the owner, master or mate of the ship, or is not [[Bona|bona]] fide the
 servant, and in the constant employment of the owner, or is not a
 superintendent (Merchant Shipping Act 1894, S 111); and, with a wide
 application, of the extortionate lodging or boarding-house keepers, who
@@ -40,7 +40,7 @@ was long prevalent, especially on the Pacific coast, and its prevention
 was very difficult, but state regulations as to the licensing of
 boarding-houses, and the limitation of the amount of so-called
 "blood-money" paid by masters of vessels to the suppliers of crews to
-ships denuded by desertions, have reduced the abuse materially.
+ships denuded by [[Desertion|desertions]], have reduced the abuse materially.
 
 The term "to shanghai" is used of a more serious offence. Literally
 meaning "to ship to Shanghai," in China, it is applied to the drugging

@@ -27,7 +27,7 @@ and courage to act, up to the voluntary determination which issues in
 action, is a single homogeneous whole (_Psychologie_, pp. 308-309). The
 mere fact, however, that the series is continuous is no ground for not
 distinguishing its parts; if it were so, it would be impossible to
-distinguish by separate names the various colours in the solar spectrum,
+distinguish by separate names the various [[Colours|colours]] in the solar spectrum,
 or indeed perception from conception. A more material objection,
 moreover, is that, in point of fact, the feeling of pleasure or pain
 roused by a given stimulus is specifically different from, and indeed
@@ -45,7 +45,7 @@ activity is present, i.e. to the psychic phenomena of pleasure or pain
 considered in and by themselves. The study of such phenomena is
 specifically described as Hedonics (Gr. [Greek: hêdonê], pleasure) or
 Algedonics (Gr. [Greek: algêdôn], pain); the latter term was coined by
-H. R. Marshall (in _Pain, Pleasure and Aesthetics_, 1894), but has not
+H. R. [[Marshall]] (in _Pain, Pleasure and Aesthetics_, 1894), but has not
 been generally used.
 
 The problem of conation is closely related to that of Attention (q.v.),

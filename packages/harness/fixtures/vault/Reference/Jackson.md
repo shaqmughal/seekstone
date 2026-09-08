@@ -2,17 +2,17 @@
 
 JACKSON, ANDREW (1767-1845), seventh president of the United States, was
 born on the 15th of March 1767, at the Waxhaw or Warsaw settlement, in
-Union county, North Carolina, or in Lancaster county, South Carolina,
-whither his parents had immigrated from Carrickfergus, Ireland, in 1765.
+Union county, North Carolina, or in [[Lancaster]] county, South Carolina,
+whither his parents had immigrated from [[Carrickfergus]], Ireland, in 1765.
 He played a slight part in the War of Independence, and was taken
 prisoner in 1781, his treatment resulting in a lifelong dislike of Great
 Britain. He studied law at Salisbury, North Carolina, was admitted to
-the bar there in 1787, and began to practise at McLeansville, Guilford
+the bar there in 1787, and began to practise at McLeansville, [[Guilford]]
 county, North Carolina, where for a time he was a constable and
 deputy-sheriff. In 1788, having been appointed prosecuting attorney of
 the western district of North Carolina (now the state of Tennessee), he
 removed to Nashville, the seat of justice of the district. In 1791 he
-married Mrs Rachel Robards (_née_ Donelson), having heard that her
+married Mrs Rachel Robards (_née_ [[Donelson]]), having heard that her
 husband had obtained a divorce through the legislature of Virginia. The
 legislative act, however, had only authorized the courts to determine
 whether or not there were sufficient grounds for a divorce and to grant
@@ -30,23 +30,23 @@ House. In 1797 he was elected a United States senator; but he resigned
 in the following year. He was judge of the supreme court of Tennessee
 from 1798 to 1804. In 1804-1805 he contracted a friendship with Aaron
 Burr; and at the latter's trial in 1807 Jackson was one of his
-conspicuous champions. Up to the time of his nomination for the
+conspicuous [[Champion|champions]]. Up to the time of his nomination for the
 presidency, the biographer of Jackson finds nothing to record but
 military exploits in which he displayed perseverance, energy and skill
 of a very high order, and a succession of personal acts in which he
 showed himself ignorant, violent, perverse, quarrelsome and
 astonishingly indiscreet. His combative disposition led him into
-numerous personal difficulties. In 1795 he fought a duel with Colonel
+numerous personal difficulties. In 1795 he fought a [[Duel|duel]] with Colonel
 Waitstill Avery (1745-1821), an opposing counsel, over some angry words
 uttered in a court room; but both, it appears, intentionally fired wild.
 In 1806 in another duel, after a long and bitter quarrel, he killed
-Charles Dickinson, and Jackson himself received a wound from which he
-never fully recovered. In 1813 he exchanged shots with Thomas Hart
-Benton and his brother Jesse in a Nashville tavern, and received a
+Charles [[Dickinson]], and Jackson himself received a wound from which he
+never fully recovered. In 1813 he exchanged shots with Thomas [[Hart]]
+[[Benton]] and his brother Jesse in a Nashville tavern, and received a
 second wound. Jackson and Thomas Hart Benton were later reconciled.
 
 In 1813-1814, as major-general of militia, he commanded in the campaign
-against the Creek Indians in Georgia and Alabama, defeated them (at
+against the [[Creek]] Indians in [[Georgia]] and Alabama, defeated them (at
 Talladega, on the 9th of November 1813, and at Tohopeka, on the 29th of
 March 1814), and thus first attracted public notice by his talents. In
 May 1814 he was commissioned as major-general in the regular army to
@@ -55,15 +55,15 @@ then owned by Spain, but used by the British as a base of operations;
 and on the 8th of January 1815 he inflicted a severe defeat on the enemy
 before New Orleans, the contestants being unaware that a treaty of peace
 had already been signed. During his stay in New Orleans he proclaimed
-martial law, and carried out his measures with unrelenting sternness,
-banishing from the town a judge who attempted resistance. When civil law
+[[Martial|martial]] law, and carried out his measures with unrelenting sternness,
+banishing from the town a judge who attempted resistance. When [[Civil Law|civil law]]
 was restored, Jackson was fined $1000 for contempt of court; in 1844
 Congress ordered the fine with interest ($2700) to be repaid. In 1818
 Jackson received the command against the Seminoles. His conduct in
 following them up into the Spanish territory of Florida, in seizing
 Pensacola, and in arresting and executing two British subjects,
-Alexander Arbuthnot and Robert Ambrister, gave rise to much hostile
-comment in the cabinet and in Congress; but the negotiations for the
+Alexander [[Arbuthnot]] and Robert Ambrister, gave rise to much hostile
+comment in the [[Cabinet|cabinet]] and in Congress; but the negotiations for the
 purchase of Florida put an end to the diplomatic difficulty. In 1821
 Jackson was military governor of the territory of Florida, and there
 again he came into collision with the civil authority. From this, as
@@ -82,7 +82,7 @@ candidates--Adams, Jackson and Crawford--who had received the greatest
 numbers of electoral votes. At the election by the house (February 9,
 1825) Adams was chosen, receiving the votes of 13 states, while Jackson
 received the votes of 7 and Crawford the votes of 4. Jackson, however,
-was recognized by the abler politicians as the coming man. Martin Van
+was recognized by the abler politicians as the coming man. [[Martin]] Van
 Buren and others, going into opposition under his banner, waged from the
 first a relentless and factious war on the administration. Van Buren was
 the most adroit politician of his time; and Jackson was in the hands of
@@ -99,7 +99,7 @@ There was great significance in the election of Jackson in 1828. A new
 generation was growing up under new economic and social conditions. They
 felt great confidence in themselves and great independence. They
 despised tradition and Old World ways and notions; and they accepted the
-Jeffersonian dogmas, not only as maxims, but as social forces--the
+Jeffersonian dogmas, not only as [[Maxims|maxims]], but as social forces--the
 causes of the material prosperity of the country. By this generation,
 therefore, Jackson was recognized as a man after their own heart. They
 liked him because he was vigorous, brusque, uncouth, relentless,
@@ -109,15 +109,15 @@ college against 83 given for Adams. Though the work of redistribution of
 offices began almost at his inauguration, it is yet an incorrect account
 of the matter to say that Jackson corrupted the civil service. His
 administration is rather the date at which a system of democracy,
-organized by the use of patronage, was introduced into the federal arena
+organized by the use of patronage, was introduced into the federal [[Arena|arena]]
 by Van Buren. It was at this time that the Democratic or Republican
 party divided, largely along personal lines, into Jacksonian Democrats
 and National Republicans, the latter led by such men as Henry Clay and
-J. Q. Adams. The administration itself had two factions in it from the
+J. Q. Adams. The administration itself had two [[Faction|factions]] in it from the
 first, the faction of Van Buren, the secretary of state in 1829-1831,
 and that of Calhoun, vice-president in 1829-1832. The refusal of the
 wives of the cabinet and of Mrs Calhoun to accord social recognition to
-Mrs J. H. Eaton brought about a rupture, and in April 1831 the whole
+Mrs J. H. [[Eaton]] brought about a rupture, and in April 1831 the whole
 cabinet was reorganized. Van Buren, a widower, sided with the president
 in this affair and grew in his favour. Jackson in the meantime had
 learned that Calhoun as secretary of war had wished to censure him for
@@ -129,7 +129,7 @@ those existing under his predecessors. Having a military point of view,
 he was inclined to look upon the cabinet members as inferior officers,
 and when in need of advice he usually consulted a group of personal
 friends, who came to be called the "Kitchen Cabinet." The principal
-members of this clique were William B. Lewis (1784-1866), Amos Kendall
+members of this clique were William B. [[Lewis]] (1784-1866), Amos Kendall
 and Duff Green, the last named being editor of the _United States
 Telegraph_, the organ of the administration.
 
@@ -155,7 +155,7 @@ on the 16th of January 1837.
 
 In 1832, when the state of South Carolina attempted to "nullify" the
 tariff laws, Jackson at once took steps to enforce the authority of the
-federal government, ordering two war vessels to Charleston and placing
+[[Federal Government|federal government]], ordering two war vessels to [[Charleston]] and placing
 troops within convenient distance. He also issued a proclamation warning
 the people of South Carolina against the consequences of their conduct.
 In the troubles between Georgia and the Cherokee Indians, however, he
@@ -175,16 +175,16 @@ consist largely of specie, he caused the payment of these claims to be
 received and imported in specie as far as possible; and in 1836 he
 ordered land-agents to receive for land nothing but specie. About the
 same time a law passed Congress for distributing among the states some
-$35,000,000 balance belonging to the United States, the public debt
+$35,000,000 [[Balance|balance]] belonging to the United States, the public [[Debt|debt]]
 having all been paid. The eighty banks of deposit in which it was lying
 had regarded this sum almost as a permanent loan, and had inflated
-credit on the basis of it. The necessary calling in of their loans in
+[[Credit|credit]] on the basis of it. The necessary calling in of their loans in
 order to meet the drafts in favour of the states, combining with the
-breach of the overstrained credit between America and Europe and the
-decline in the price of cotton, brought about a crash which prostrated
+[[Breach|breach]] of the overstrained credit between America and Europe and the
+decline in the price of cotton, brought about a [[Crash|crash]] which prostrated
 the whole financial, industrial and commercial system of the country for
 six or seven years. The crash came just as Jackson was leaving office;
-the whole burden fell on his successor, Van Buren.
+the whole [[Burden|burden]] fell on his successor, Van Buren.
 
 In the 18th century the influences at work in the American colonies
 developed democratic notions. In fact, the circumstances were those
@@ -202,9 +202,9 @@ with some violence, but little skill, the first Bank of the United
 States, and they prevented its re-charter. The most permanent interest
 of the history of the United States is the picture it offers of a
 primitive democratic society transformed by prosperity and the
-acquisition of capital into a great republican commonwealth. The
+acquisition of capital into a great republican [[Commonwealth|commonwealth]]. The
 denunciations of the "money power" and the reiteration of democratic
-dogmas deserve earnest attention. They show the development of classes
+dogmas deserve [[Earnest|earnest]] attention. They show the development of classes
 or parties in the old undifferentiated mass. Jackson came upon the
 political stage just when a wealthy class first existed. It was an
 industrial and commercial class greatly interested in the tariff, and
@@ -227,7 +227,7 @@ of democracy and of the common people. The opposite party, led by Clay,
 Adams, Biddle, &c., had schemes for banks and tariffs, enterprises which
 were open to severe criticism. The political struggle was very intense
 and there were two good sides to it. Men like Thomas H. Benton, Edward
-Livingston, Amos Kendall, and the southern statesmen, found material for
+[[Livingston]], Amos Kendall, and the southern statesmen, found material for
 strong attacks on the Whigs. The great mass of voters felt the issue as
 Jackson's managers stated it. That meant that the masses recognized
 Jackson as their champion. Therefore, Jackson's personality and name
@@ -264,14 +264,14 @@ Hermitage," near Nashville, Tennessee, on the 8th of June 1845.
   exploits, written for political purposes. Amos Kendall's _Life_ (New
   York, 1843) is incomplete, extending only to 1814. James Parton's
   elaborate work (3 vols., New York, 1860) is still useful. Parton
-  prepared a shorter biography for the "Great Commanders Series" (New
+  prepared a shorter biography for the "Great [[Commander|Commanders]] Series" (New
   York, 1893), which emphasizes Jackson's military career. W. G.
-  Sumner's _Andrew Jackson_ in the "American Statesmen Series" (Boston,
+  Sumner's _Andrew Jackson_ in the "American Statesmen Series" ([[Boston]],
   1882; revised, 1899) combines the leading facts of Jackson's life with
   a history of his times. W. G. Brown wrote an appreciative sketch
   (Boston, 1900) for the "Riverside Biographical Series." Of more recent
   works the most elaborate are the _History of Andrew Jackson_, by A. C.
-  Buell (New York, 1904), marred by numerous errors, and the _Life and
+  [[Buell]] (New York, 1904), marred by numerous [[Error|errors]], and the _Life and
   Times of Andrew Jackson_, by A. S. Colyar (Nashville, 1904). Charles
   H. Peck's _The Jacksonian Epoch_ (New York, 1899) is an account of
   national politics from 1815 to 1840, in which the antagonism of

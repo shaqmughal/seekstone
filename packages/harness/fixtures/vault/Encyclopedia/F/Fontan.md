@@ -14,13 +14,13 @@ Halévy and Drouineau, was the most successful. In 1828 the _Album_ was
 revived, and in it Fontan published a virulent but witty attack on
 Charles X., entitled _Le Mouton enragé_ (20th June 1829). To escape the
 inevitable prosecution Fontan fled over the frontier, but, finding no
-safe asylum, he returned to Paris to give himself up to the authorities,
+safe [[Asylum|asylum]], he returned to Paris to give himself up to the authorities,
 and was sentenced to five years' imprisonment and a heavy fine. He was
 liberated by the revolution of 1830, and his _Jeanne la folle_,
 performed in the same year, gained a success due perhaps more to
 sympathy with the author's political principles than to the merits of
 the piece itself, a somewhat crude and violent picture of Breton
-history. A drama representing the trial of Marshal Ney, which he wrote
+history. A [[Drama|drama]] representing the trial of Marshal Ney, which he wrote
 in collaboration with Charles Dupenty, _Le Procès d'un maréchal de
 France_ (printed 1831), was suppressed on the night of its production.
 Fontan died in Paris on the 10th of October 1839.

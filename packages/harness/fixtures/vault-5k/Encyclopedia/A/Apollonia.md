@@ -13,7 +13,7 @@ literature and philosophy. Here Augustus was being educated when the
 death of Caesar called him to Rome. It seems to have sunk with the rise
 of Aulon, and few remains of its ruins are to be found. The monastery of
 Pollina stands on a hill which probably is part of the site of the old
-city. (2) A Thracian city on the Black Sea (afterwards Sozopolis, and
+city. (2) A Thracian city on the [[Black Sea]] (afterwards Sozopolis, and
 now Sizeboli), colonized by the Milesians, and famous for its colossal
 statue of Apollo by Calamis, which Lucullus removed to Rome.
 

@@ -8,7 +8,7 @@ tags: [history]
 # Kiu-Kiang Fu
 
 KIU-KIANG FU, a prefecture and prefectural city in the province of
-Kiang-si, China. The city, which is situated on the south bank of the
+[[Kiang-Si|Kiang-si]], China. The city, which is situated on the south bank of the
 Yangtsze-kiang, 15 m. above the point where the Kan Kiang flows into
 that river from the Po-yang lake, stands in 29° 42´ N. and 116° 8´ E.
 The north face of the city is separated from the river by only the width

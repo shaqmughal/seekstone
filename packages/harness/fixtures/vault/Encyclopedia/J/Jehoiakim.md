@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Jehoiakim"
 # Jehoiakim
 
 JEHOIAKIM (Heb. "Yah[weh] raiseth up"), in the Bible, son of Josiah
-(q.v.) and king of Judah (2 Kings xxiii. 34-xxiv. 6). On the defeat of
+(q.v.) and king of [[Judah]] (2 Kings xxiii. 34-xxiv. 6). On the defeat of
 Josiah at Megiddo his younger brother Jehoahaz (or Shallum) was chosen
 by the Judaeans, but the Egyptian conquerer Necho summoned him to his
 headquarters at Riblah (south of Hamath on the Orontes) and removed him
@@ -25,10 +25,10 @@ hands of Nebuchadrezzar. It was at the close of Jehoiakim's reign,
 apparently just before his death, that the enemy appeared at the gates
 of Jerusalem, and although he himself "slept with his fathers" his young
 son was destined to see the first captivity of the land of Judah (597
-B.C.). (See JEHOIACHIN.)
+B.C.). (See [[Jehoiachin|JEHOIACHIN]].)
 
   Which "three years" (2 Kings xxiv. 1) are intended is disputed; it is
-  uncertain whether Judah suffered in 605 B.C. (Berossus in Jos. _c.
+  uncertain whether Judah suffered in 605 B.C. ([[Berossus]] in Jos. _c.
   Ap._ i. 19) or was left unharmed (Jos. _Ant._ x. 6. 1); perhaps
   Nebuchadrezzar made his first inroad against Judah in 602 B.C. because
   of its intrigue with Egypt (H. Winckler, _Keilinschrift. u. d. alte
@@ -37,11 +37,11 @@ B.C.). (See JEHOIACHIN.)
   Jehoiakim's captivity, apparently confusing him with Jehoiachin. The
   Septuagint, however, still preserves there the record of his peaceful
   death, in agreement with the earlier source in 2 Kings, but against
-  the prophecy of Jeremiah (xxii. 18 seq., xxxvi. 30), which is accepted
+  the prophecy of [[Jeremiah]] (xxii. 18 seq., xxxvi. 30), which is accepted
   by Jos. _Ant._ x. 6. 3. The different traditions can scarcely be
   reconciled. Nothing certain is known of the marauding bands sent
-  against Jehoiakim; for Syrians (_Aram_) one would expect Edomites
-  (_Edom_), but see Jer. xxxv. 11; some recensions of the Septuagint
+  against Jehoiakim; for Syrians (_[[Aram]]_) one would expect Edomites
+  (_[[Edom]]_), but see Jer. xxxv. 11; some recensions of the Septuagint
   even include the "Samaritans"! (For further references to this reign
   see especially JEREMIAH; see also JEWS: _History_, § 17.)
        (S. A. C.)

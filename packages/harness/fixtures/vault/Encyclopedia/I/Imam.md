@@ -39,21 +39,21 @@ prayers. This was originally performed by the Imam in the first sense,
 who not only led in prayers but delivered a sermon (_khutba_); but with
 the growth of the Moslem empire and the retirement of the caliph from
 public life, it was necessarily given over to a deputy--part of a
-gradual process of putting the Imamate or caliphate into commission.
-These deputy Imams are, in Turkey, ministers of the state, each in
+[[Gradual|gradual]] process of putting the Imamate or caliphate into commission.
+These [[Deputy|deputy]] Imams are, in Turkey, ministers of the state, each in
 charge of his own parish; they issue passports, &c., and perform the
 rites of circumcision, marriage and burial. In Persia among Shi'ites
 their position is more purely spiritual, and they are independent of the
 state. A few of their leaders are called _Mujtahids_, i.e. capable of
 giving an independent opinion on questions of religion and canon law. A
 third use of the term Imam is as an honorary title. It is thus applied
-to leading theologians, e.g. to Abu Hanifa, ash-Shafi'i, Malik ibn Anas,
+to leading theologians, e.g. to Abu Hanifa, ash-Shafi'i, [[Malik Ibn Anas|Malik ibn Anas]],
 Ahmad ibn Hanbal (these are called "the four Imams"), Ghazali.
 
   See McG. de Slane's transl. of Ibn Khaldun's _Prolégomènes_, i. 384
   seq., 402 seq., 426 seq., 445; iii. 35, 58 seq.; Ostrorog's transl. of
   Mawardi's _Ahkam_ i. 89 seq.; Haarbrücker's transl. of Shahrastani by
-  index; Juynboll's _De Mohammedanische Wet_, 316 seq.; Sell's _Faith of
+  [[Index|index]]; Juynboll's _De Mohammedanische Wet_, 316 seq.; Sell's _Faith of
   Islam_, 95 seq.; Macdonald's _Development of Muslim Theology_, 56 seq.
        (D. B. Ma.)
 

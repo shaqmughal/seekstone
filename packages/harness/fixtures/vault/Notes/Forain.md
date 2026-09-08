@@ -9,10 +9,10 @@ topic: medieval
 FORAIN, J. L. (1852-   ), French painter and illustrator, was born in
 1852. He became one of the leading modern Parisian caricaturists, who in
 his merciless exposure of the weaknesses of the _bourgeoisie_ continued
-the work which was begun by Daumier under the second Empire. The
+the work which was begun by [[Daumier]] under the second Empire. The
 scathing bitterness of his satire is as clearly derived from Daumier as
-his pictorial style can be traced to Manet and Degas; but even in his
-painting he never suppresses the caustic spirit that drives him to
+his pictorial style can be traced to Manet and [[Degas]]; but even in his
+painting he never suppresses the [[Caustic|caustic]] spirit that drives him to
 caricature. He has, indeed, been rightly called "a Degas pushed on to
 caricature." In his pen-and-ink work he combines extraordinary economy
 of means with the utmost power of expression and suggestion. Forain's

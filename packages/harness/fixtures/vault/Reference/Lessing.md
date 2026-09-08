@@ -7,7 +7,7 @@ topic: warfare
 # Lessing
 
 LESSING, GOTTHOLD EPHRAIM (1729-1781), German critic and dramatist, was
-born at Kamenz in Upper Lusatia (Oberlausitz), Saxony, on the 22nd of
+born at [[Kamenz]] in Upper [[Lusatia]] (Oberlausitz), Saxony, on the 22nd of
 January 1729. His father, Johann Gottfried Lessing, was a clergyman,
 and, a few years after his son's birth, became _pastor primarius_ or
 chief pastor of Kamenz. After attending the Latin school of his native
@@ -16,8 +16,8 @@ Meissen, where he made such rapid progress, especially in classics and
 mathematics, that, towards the end of his school career, he was
 described by the rector as "a steed that needed double fodder." In 1746
 he entered the university of Leipzig as a theological student. The
-philological lectures of Johann Friedrich Christ (1700-1756) and Johann
-August Ernesti (1707-1781) proved, however, more attractive than those
+philological lectures of Johann [[Friedrich]] Christ (1700-1756) and Johann
+August [[Ernesti]] (1707-1781) proved, however, more attractive than those
 on theology, and he attended the philosophical disputations presided
 over by his friend A. G. Kästner, professor of mathematics and also an
 epigrammatist of repute. Among Lessing's chief friends in Leipzig were
@@ -32,10 +32,10 @@ not approve of these new interests and acquaintances, and summoned him
 home. He was only allowed to return to Leipzig on the condition that he
 would devote himself to the study of medicine. Some medical lectures he
 did attend, but as long as Frau Neuber's company kept together the
-theatre had an irresistible fascination for him.
+theatre had an irresistible [[Fascination|fascination]] for him.
 
 In 1748, however, the company broke up, and Lessing, who had allowed
-himself to become surety for some of the actors' debts, was obliged to
+himself to become surety for some of the actors' [[Debt|debts]], was obliged to
 leave Leipzig too, in order to escape their creditors. He went to
 Wittenberg, and afterwards, towards the end of the year, to Berlin,
 where his friend Mylius had established himself as a journalist. In
@@ -44,7 +44,7 @@ literary work. He translated three volumes of Charles Rollin's _Histoire
 ancienne_, wrote several plays--_Der Misogyn_, _Der Freigeist_, _Die
 Juden_--and in association with Mylius, began the _Beiträge zur Historie
 und Aufnahine des Theaters_ (1750), a periodical--which soon came to an
-end--for the discussion of matters connected with the drama. Early in
+end--for the discussion of matters connected with the [[Drama|drama]]. Early in
 1751 he became literary critic to the _Vossische Zeitung_, and in this
 position laid the foundation for his reputation as a reviewer of
 learning, judgment and wit. At the end of 1751 he was in Wittenberg
@@ -55,9 +55,9 @@ life. Besides translating for the booksellers, he issued several numbers
 of the _Theatralische Bibliothek_, a periodical similar to that which he
 had begun with Mylius; he also continued his work as critic to the
 _Vossische Zeitung_. In 1754 he gave a particularly brilliant proof of
-his critical powers in his _Vademecum für Herrn S. G. Lange_; as a
+his critical powers in his _Vademecum für Herrn S. G. [[Lange]]_; as a
 retort to that writer's overbearing criticism, Lessing exposed with
-scathing satire Lange's errors in his popular translation of Horace.
+scathing satire Lange's [[Error|errors]] in his popular translation of Horace.
 
 By 1753 Lessing felt that his position was sufficiently assured to allow
 of him issuing an edition of his collected writings (_Schriften_, 6
@@ -66,7 +66,7 @@ had already appeared during his first residence in Berlin in a volume of
 _Kleinigkeiten_, published anonymously. Much more important were the
 papers entitled _Rettungen_, in which he undertook to vindicate the
 character of various writers--Horace and writers of the Reformation
-period, such as Cochlaeus and Cardanus--who had been misunderstood or
+period, such as [[Cochlaeus]] and Cardanus--who had been misunderstood or
 falsely judged by preceding generations. The _Schriften_ also contained
 Lessing's early plays, and one new one, _Miss Sara Sampson_ (1755).
 Hitherto Lessing had, as a dramatist, followed the methods of
@@ -76,7 +76,7 @@ the German drama. This play, based more or less on Lille's _Merchant of
 London_, and influenced in its character-drawing by the novels of
 Richardson, is the first _bürgerliches Trauerspiel_, or "tragedy of
 common life" in German. It was performed for the first time at
-Frankfort-on-Oder in the summer of 1755, and received with great favour.
+[[Frankfort-On-Oder|Frankfort-on-Oder]] in the summer of 1755, and received with great favour.
 Among Lessing's chief friends during his second residence in Berlin were
 the philosopher Moses Mendelssohn (1729-1786), in association with whom
 he wrote in 1755 an admirable treatise, _Pope ein Metaphysiker!_ tracing
@@ -127,7 +127,7 @@ L. Gleim. In 1759 he published _Philotas_, a prose tragedy in one act,
 and also a complete collection of his fables, preceded by an essay on
 the nature of the fable. The latter is one of his best essays on
 criticism, defining with perfect lucidity what is meant by "action" in
-works of the imagination, and distinguishing the action of the fable
+works of the [[Imagination|imagination]], and distinguishing the action of the fable
 from that of the epic and the drama.
 
 In 1760, feeling the need of some change of scene and work, Lessing went
@@ -148,7 +148,7 @@ fresh spring mornings he sketched in a garden the plan of _Minna von
 Barnhelm_.
 
 After resigning his Breslau appointment in 1765, he hoped for a time to
-obtain a congenial appointment in Dresden, but nothing came of this and
+obtain a congenial appointment in [[Dresden]], but nothing came of this and
 he was again compelled, much against his will, to return to Berlin. His
 friends there exerted themselves to obtain for him the office of keeper
 of the royal library, but Frederick had not forgotten Lessing's quarrel
@@ -165,7 +165,7 @@ fruitful principle that each art is subject to definite conditions, and
 that it can accomplish great results only by limiting itself to its
 special function. The most valuable parts of the work are those which
 relate to poetry, of which he had a much more intimate knowledge than of
-sculpture and painting. His exposition of the methods of Homer and
+sculpture and painting. His exposition of the methods of [[Homer]] and
 Sophocles is especially suggestive, and he may be said to have marked an
 epoch in the appreciation of these writers, and of Greek literature
 generally. The power of _Minna von Barnhelm_, Lessing's greatest drama,
@@ -178,13 +178,13 @@ and the plot, which reflects precisely the struggles and aspirations of
 the period that immediately followed the Seven Years' War, is simply and
 naturally unfolded.
 
-In 1767 Lessing settled in Hamburg, where he had been invited to take
+In 1767 Lessing settled in [[Hamburg]], where he had been invited to take
 part in the establishment of a national theatre. The scheme promised
 well, and, as he associated himself with Johann Joachim Christoph Bode
 (1730-1793), a literary man whom he respected, in starting a printing
 establishment, he hoped that he might at last look forward to a peaceful
 and prosperous career. The theatre, however, was soon closed, and the
-printing establishment failed, leaving behind it a heavy burden of debt.
+printing establishment failed, leaving behind it a heavy [[Burden|burden]] of debt.
 In despair, Lessing determined towards the end of his residence in
 Hamburg to quit Germany, believing that in Italy he might find congenial
 labour that would suffice for his wants. The _Hamburgische Dramaturgie_
@@ -194,8 +194,8 @@ original interpretation of Aristotle's theory of tragedy, he delivered
 German dramatists from the yoke of the classic tragedy of France, and
 directed them to the Greek dramatists and to Shakespeare. Another result
 of Lessing's labours in Hamburg was the _Antiquarische Briefe_ (1768), a
-series of masterly letters in answer to Christian Adolf Klotz
-(1738-1771), a professor of the university of Halle, who, after
+series of masterly letters in answer to Christian Adolf [[Klotz]]
+(1738-1771), a professor of the university of [[Halle]], who, after
 flattering Lessing, had attacked him, and sought to establish a kind of
 intellectual despotism by means of critical journals which he directly
 or indirectly controlled. In connexion with this controversy Lessing
@@ -210,14 +210,14 @@ remaining years. For a time he was not unhappy, but the debts which he
 had contracted in Hamburg weighed heavily on him, and he missed the
 society of his friends; his health, too, which had hitherto been
 excellent, gradually gave way. In 1775 he travelled for nine months in
-Italy with Prince Leopold of Brunswick, and in the following year he
+Italy with Prince [[Leopold]] of Brunswick, and in the following year he
 married Eva König, the widow of a Hamburg merchant, with whom he had
 been on terms of intimate friendship. But their happiness lasted only
 for a brief period; in 1778 she died in childbed.
 
 Soon after settling in Wolfenbüttel, Lessing found in the library the
-manuscript of a treatise by Berengarius of Tours on transubstantiation
-in reply to Lanfranc. This was the occasion of Lessing's powerful essay
+[[Manuscript|manuscript]] of a treatise by Berengarius of Tours on transubstantiation
+in reply to [[Lanfranc]]. This was the occasion of Lessing's powerful essay
 on Berengarius, in which he vindicated the latter's character as a
 serious and consistent thinker. In 1771 he published his _Zerstreute
 Anmerkungen über das Epigramm, und einige der vornehmsten
@@ -225,13 +225,13 @@ Epigrammatisten_--a work which Herder described as "itself an epigram."
 Lessing's theory of the origin of the epigram is somewhat fanciful, but
 no other critic has offered so many pregnant hints as to the laws of
 epigrammatic verse, or defended with so much force and ingenuity the
-character of Martial. In 1772 he published _Emilia Galotti_, a tragedy
+character of [[Martial]]. In 1772 he published _[[Emilia]] Galotti_, a tragedy
 which he had begun many years before in Leipzig. The subject was
 suggested by the Roman legend of Virginia, but the scene is laid in an
 Italian court, and the whole play is conceived in the spirit of the
 "tragedy of common life." Its defect is that its tragic conclusion does
 not seem absolutely inevitable, but the characters--especially those of
-the Gräfin Orsina and Marinelli, the prince of Guastalla's chamberlain
+the Gräfin Orsina and Marinelli, the prince of Guastalla's [[Chamberlain|chamberlain]]
 who weaves the intrigue from which Emilia escapes by death, are
 powerfully drawn. Having completed _Emilia Galotti_, which the younger
 generation of playwrights at once accepted as a model, Lessing occupied
@@ -254,13 +254,13 @@ known as the _Wolfenbütteler Fragmente_. They created profound
 excitement among orthodox theologians, and evoked many replies, in which
 Lessing was bitterly condemned for having published writings of so
 dangerous a tendency. His most formidable assailant was Johann Melchior
-Goeze (1717-1786), the chief pastor of Hamburg, a sincere and earnest
+Goeze (1717-1786), the chief pastor of Hamburg, a sincere and [[Earnest|earnest]]
 theologian, but utterly unscrupulous in his choice of weapons against an
 opponent. To him, therefore, Lessing addressed in 1778 his most
 elaborate answers--_Eine Parabel_, _Axiomata_, eleven letters with the
 title _Anti-Goeze_, and two pamphlets in reply to an inquiry by Goeze as
 to what Lessing meant by Christianity. These papers are not only full of
-thought and learning; they are written with a grace, vivacity and energy
+thought and learning; they are written with a [[Grace|grace]], vivacity and energy
 that make them hardly less interesting to-day than they were to
 Lessing's contemporaries. He does not undertake to defend the
 conclusions of Reimarus; his immediate object is to claim the right of
@@ -281,13 +281,13 @@ Elise Reimarus, to try "whether they would let him preach undisturbed
 from his old pulpit, the stage." In _Nathan der Weise_, written in the
 winter of 1778-1779, he gave poetic form to the ideas which he had
 already developed in prose. Its governing conception is that noble
-character may be associated with the most diverse creeds, and that there
+character may be associated with the most diverse [[Creeds|creeds]], and that there
 can, therefore, be no good reason why the holders of one sect of
 religious principles should not tolerate those who maintain wholly
-different doctrines. The play, which is written in blank verse, is too
+different doctrines. The play, which is written in [[Blank|blank]] verse, is too
 obviously a continuation of Lessing's theological controversy to rank
 high as poetry, but the representatives of the three religions--the
-Mahommedan Saladin, the Jew Nathan and the Christian Knight Templar--are
+Mahommedan Saladin, the Jew Nathan and the Christian [[Knight]] Templar--are
 finely conceived, and show that Lessing's dramatic instinct had, in
 spite of other interests, not deserted him. In 1780 appeared _Die
 Erziehung des Menschengeschlechts_, the first half of which he had
@@ -301,8 +301,8 @@ law of progress, and that occasional retrogression may be necessary for
 the advance of the world towards its ultimate goal. These ideas formed a
 striking contrast to the principles both of orthodox and of sceptical
 writers in Lessing's day, and gave a wholly new direction to religious
-philosophy. Another work of Lessing's last years, _Ernst und Falk_ (a
-series of five dialogues, of which the first three were published in
+philosophy. Another work of Lessing's last years, _Ernst und [[Falk]]_ (a
+series of five [[Dialogue|dialogues]], of which the first three were published in
 1777, the last two in 1780), also set forth many new points of view. Its
 nominal subject is freemasonry, but its real aim is to plead for a
 humane and charitable spirit in opposition to a narrow patriotism, an
@@ -326,11 +326,11 @@ world, and it was Lessing, as they themselves acknowledged, who prepared
 the way for their achievements. Without attaching himself to any
 particular system of philosophical doctrine, he fought error
 incessantly, and in regard to art, poetry and the drama and religion,
-suggested ideas which kindled the enthusiasm of aspiring minds, and
+suggested ideas which kindled the [[Enthusiasm|enthusiasm]] of aspiring minds, and
 stimulated their highest energies.
 
   BIBLIOGRAPHY.--The first edition of Lessing's collected works, edited
-  by his brother Karl Gotthelf Lessing (1740-1812), J. J. Eschenburg and
+  by his brother Karl Gotthelf Lessing (1740-1812), J. J. [[Eschenburg]] and
   F. Nicolai, appeared in 26 vols. between 1791 and 1794, as a
   continuation of the _Vermischte Schriften_, edited by Lessing himself
   in 4 vols. (1771-1785); the _Sämtliche Schriften_, edited by Karl
@@ -339,7 +339,7 @@ stimulated their highest energies.
   Muncker (21 vols., 1886 ff.), the last mentioned being the standard
   edition of Lessing's works. Other editions are _Lessings Werke_,
   published by Hempel, under the editorship of various scholars (23
-  vols., 1868-1877); an illustrated edition published by Grote in 8
+  vols., 1868-1877); an illustrated edition published by [[Grote]] in 8
   vols. (1875, new ed., 1882); _Lessings Werke_, edited by R. Boxberger
   and H. Blümner, in Kürschner's _Deutsche Nationalliteratur_, vols.
   58-71 (1883-1890). There are also many popular editions. Lessing's

@@ -9,7 +9,7 @@ topic: genealogy
 KIPLING, RUDYARD (1865-   ), British author, was born in Bombay on the
 30th of December 1865. His father, John Lockwood Kipling (1837-1911), an
 artist of considerable ability, was from 1875 to 1893 curator of the
-Lahore museum in India. His mother was Miss Alice Macdonald of
+Lahore museum in India. His mother was Miss Alice [[Macdonald]] of
 Birmingham, two of whose sisters were married respectively to Sir E.
 Burne-Jones and Sir Edward Poynter. He was educated at the United
 Services College, Westward Ho, North Devon, of which a somewhat lurid
@@ -28,7 +28,7 @@ continuation of the _Plain Tales_. This series of tales, all written
 before the author was twenty-four, revealed a new master of fiction. A
 few, but those the best, he afterwards said that his father gave him.
 The rest were the harvest of his own powers of observation vitalized by
-imagination. In method they owed something to Bret Harte; in matter and
+[[Imagination|imagination]]. In method they owed something to Bret Harte; in matter and
 spirit they were absolutely original. They were unequal, as his books
 continued to be throughout; the sketches of Anglo-Indian social life
 being generally inferior to the rest. The style was to some extent
@@ -112,7 +112,7 @@ position in English literature was recognized in 1907 by the award to
 him of the Nobel prize.
 
   See Rudyard Kipling's chapter in _My First Book_ (Chatto, 1894); "A
-  Bibliography of Rudyard Kipling," by John Lane, in _Rudyard Kipling: a
+  Bibliography of Rudyard Kipling," by John [[Lane]], in _Rudyard Kipling: a
   Criticism_, by Richard de Gallienne; "Mr Kipling's Short Stories" in
   _Questions at Issue_, by Edmund Gosse (1893); "Mr Kipling's Stories"
   in _Essays in Little_, by Andrew Lang; "Mr Kipling's Stories," by J.

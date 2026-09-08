@@ -21,24 +21,24 @@ the Romans and especially Sulla, he sent to the Capitol a group of
 Victories guarding a device in gold showing Bocchus handing over
 Jugurtha to Sulla.
 
-  See JUGURTHA; also Sallust, _Jugurtha_, 80-120; Plutarch, _Marius_,
+  See JUGURTHA; also Sallust, _Jugurtha_, 80-120; Plutarch, _[[Marius]]_,
   8-32, _Sulla_, 3; A.H.J. Greenidge, _History of Rome_ (London, 1904).
 
 His son, BOCCHUS, was king of Mauretania, jointly with a younger
 brother Bogud. As enemies of the senatorial party, their title was
-recognized by Caesar (49 B.C.). During the African war they invaded
-Numidia and conquered Cirta, the capital of the kingdom of Juba, who was
+recognized by [[Caesar]] (49 B.C.). During the African war they invaded
+Numidia and conquered [[Cirta]], the capital of the kingdom of [[Juba]], who was
 thus obliged to abandon the idea of joining Metellus Scipio against
 Caesar. At the end of the war, Caesar bestowed upon Bocchus part of the
 territory of Massinissa, Juba's ally, which was recovered after Caesar's
-murder by Massinissa's son Arabion. Dio Cassius says that Bocchus sent
+murder by Massinissa's son Arabion. [[Dio Cassius]] says that Bocchus sent
 his sons to support Sextus Pompeius in Spain, while Bogud fought on the
 side of Caesar, and there is no doubt that after Caesar's death Bocchus
 supported Octavian, and Bogud Antony. During Bogud's absence in Spain,
 his brother seized the whole of Numidia, and was confirmed sole ruler by
 Octavian. After his death in 33, Numidia was made a Roman province.
 
-  _Bell. Afric._ 25; Dio Cassius xli. 42, xliii. 36, xlviii. 45; Appian,
+  _Bell. Afric._ 25; Dio Cassius xli. 42, xliii. 36, xlviii. 45; [[Appian]],
   _Bell. Civ._ ii. 96, iv. 54.
 
 ## See also

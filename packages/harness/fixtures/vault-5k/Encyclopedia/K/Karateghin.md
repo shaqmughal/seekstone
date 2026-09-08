@@ -6,10 +6,10 @@ topic: economics
 
 # Karateghin
 
-KARATEGHIN, a country of Central Asia, subject to Bokhara, and
+KARATEGHIN, a country of Central Asia, subject to [[Bokhara]], and
 consisting of a highland district bounded on the N. by Samarkand and
 Ferghana (Khokand), on the E. by Ferghana, on the S. by Darvaz, and on
-the W. by Hissar and other Bokharian provinces. The plateau is traversed
+the W. by [[Hissar]] and other Bokharian provinces. The plateau is traversed
 by the Surkhab or Vakhsh, a right-hand tributary of the Amu-darya
 (Oxus). On the N. border run the Hissar and Zarafshan mountains, and on
 the S. border the Peter I. (Periokhtan) range (24,900 ft.). The area is
@@ -18,7 +18,7 @@ rest Kara-kirghiz. With the neighbouring lands Karateghin has no
 communication except during summer, that is, from May to September. The
 winter climate is extremely severe; snow begins to fall in October and
 it is May before it disappears. During the warmer months, however, the
-mountain sides are richly clothed with the foliage of maple, mountain
+mountain sides are richly clothed with the foliage of [[Maple|maple]], mountain
 ash, apple, pear and walnut trees; the orchards furnish, not only apples
 and pears, but peaches, cherries, mulberries and apricots; and the
 farmers grow sufficient corn to export. Both cattle and horses are of a

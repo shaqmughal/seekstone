@@ -34,7 +34,7 @@ completely Roman politically. Certain towns with their territories
 with Rome. These towns were faithful to Rome throughout the Hannibalic
 war. But Capua and the towns dependent on it revolted (Livy
 xxiii.-xxvi.); after its capture in 211 Capua was utterly destroyed, and
-the jealousy and dread with which Rome had long regarded it were both
+the [[Jealousy|jealousy]] and dread with which Rome had long regarded it were both
 finally appeased (cf. Cicero. _Leg. Agrar._ ii. 88). We have between
 thirty and forty Oscan inscriptions (besides some coins) dating,
 probably, from both the 4th and the 3rd centuries (Conway, _Italic
@@ -55,11 +55,11 @@ Apennines of Samnium, on the south by the spur of these mountains which
 ends in the peninsula of Sorrento, and on the south and west by the sea,
 and this is what Campania meant to Pliny and Ptolemy. But the
 geographers of the time of Augustus (in whose division of Italy
-Campania, with Latium, formed the first region) carried the north
+Campania, with [[Latium]], formed the first region) carried the north
 boundary of Campania as far south as Sinuessa, and even the river
 Volturnus, while farther inland the modern village of San Pietro in Fine
 preserves the memory of the north-east boundary which ran between
-Venafrum and Casinum. On the east the valley of the Volturnus and the
+Venafrum and [[Casinum]]. On the east the valley of the Volturnus and the
 foot-hills of the Apennines as far as Abellinum formed the boundary;
 this town is sometimes reckoned as belonging to Campania, sometimes to
 Samnium. The south boundary remained unchanged. From the time of
@@ -71,7 +71,7 @@ Campagna di Roma, being no doubt popularly connected with Ital. _campo_,
 Lat. _campus_. This district (to take its earlier extent), consisting
 mainly of a very fertile plain with hills on the north, east and south,
 and the sea on the south and west, is traversed by two great rivers, the
-Liris and Volturnus, divided by the Mons Massicus, which comes right
+[[Liri|Liris]] and Volturnus, divided by the Mons Massicus, which comes right
 down to the sea at Sinuessa. The plain at the mouth of the former is
 comparatively small, while that traversed by the Volturnus is the main
 plain of Campania. Both of these rivers rise in the central Apennines,
@@ -94,7 +94,7 @@ at Regium. From Capua itself a road ran north to Vicus Dianae, Caiatia
 and Telesia, while to the south the so-called Via Campana (there is up
 ancient warrant for the name) led to Puteoli, with a branch to Cumae,
 Baiae and Misenum; there was also connexion between Cumae, Puteoli and
-Neapolis (see below), and another road to Atella and Neapolis. Neapolis
+Neapolis (see below), and another road to [[Atella]] and Neapolis. Neapolis
 could also be reached by a branch from the Via Popillia at Suessula,
 which passed through Acerrae. From Suessula, too, there was a short cut
 to the Via Appia before it actually entered the mountains. Dornitian
@@ -103,7 +103,7 @@ construction of the Via Domitiana, which diverged from the Via Appia at
 Sinuessa, and followed the low sandy coast; it crossed the river
 Volturnus at Volturnum, near its mouth, by a bridge, which must have
 been a considerable undertaking, and then ran, still along the shore,
-past Liternum to Cumae and thence to Puteoli. Here it fell into the
+past [[Liternum]] to Cumae and thence to Puteoli. Here it fell into the
 existing roads to Neapolis, the older Via Antiniana over the hills, at
 the back, and the newer, dating from the time of Agrippa, through the
 tunnel of Pausilypon and along the coast. The mileage in both cases was
@@ -166,11 +166,11 @@ official language during the whole of the imperial period.
 
 II. Campania in the modern sense includes a considerably larger area
 than the ancient name, inasmuch as to the _compartimento_ of Campania
-belong the five provinces of Caserta, Benevento, Naples, Avellino and
+belong the five provinces of Caserta, [[Benevento]], Naples, Avellino and
 Salerno.
 
-It is bounded on the north by the provinces of Rome, Aquila (Abruzzi)
-and Campobasso (Molise), on the north-east by that of Foggia (Apulia),
+It is bounded on the north by the provinces of Rome, [[Aquila]] (Abruzzi)
+and [[Campobasso]] (Molise), on the north-east by that of Foggia (Apulia),
 on the east by that of Potenza (Basilicata) and on the south and west by
 the Tyrrhenian Sea. The area is 6289 sq. m. It thus includes the whole
 of the ancient Campania, a considerable portion of Samnium (with a part
@@ -187,7 +187,7 @@ main tributary is the Tanagro, which is in turn largely fed by another
 Calore. The headwaters of the Sele have been tapped for the great
 aqueduct for the Apulian provinces.
 
-The coast-line begins a little east of Terracina at the lake of Fondi
+The coast-line begins a little east of Terracina at the lake of [[Fondi]]
 with a low-lying, marshy district (the ancient _Ager Caecubus_),
 renowned for its wine (see FONDI). The mountains (of the ancient
 Aurunci) then come down to the sea, and on the east side of the extreme
@@ -202,7 +202,7 @@ which forms the north-west extremity of the Bay of Naples. Here the
 scenery completely changes: the Bay of Naples, indeed, is one of the
 most beautiful in the world. The island of Procida lies 2-1/2 m.
 south-west of the Capo Miseno, and 3 m. south-west of Procida is that of
-Ischia. In consequence of the volcanic character of the district there
+[[Ischia]]. In consequence of the volcanic character of the district there
 are several important mineral springs which are used medicinally,
 especially at Pozzuoli, Castellammare di Stabia, and on the island of
 Ischia.
@@ -218,7 +218,7 @@ for smaller vessels, especially in connexion with macaroni, which is
 manufactured extensively by all the towns along the bay. Castellammare
 di Stabia, on the west coast of the gulf, has a large naval shipbuilding
 yard and an important harbour. Beyond Castellammare the promontory of
-Sorrento, ending in the Punta della Campanella (from which Capri is 3 m.
+Sorrento, ending in the Punta della Campanella (from which [[Capri]] is 3 m.
 south-west) forms the south-west extremity of the gulf. The highest
 point of this mountain ridge, which is connected with the main Apennine
 chain, is the Monte S. Angelo (4735 ft.). It extends as far east as
@@ -231,7 +231,7 @@ province of Salerno, and with it Campania, borders, on the province of
 Potenza.
 
 The population of Campania was 3,080,503 in 1901; that of the province
-of Caserta was 705,412, with a total of 187 communes, the chief towns
+of Caserta was 705,412, with a total of 187 [[Commune|communes]], the chief towns
 being Caserta (32,709), Sta Maria Capua Vetere (21,825), Maddaloni
 (20,682), Sessa Aurunca (21,844); that of the province of Benevento was
 256,504, with 73 communes, the only important town being Benevento
@@ -248,7 +248,7 @@ railway centre: a main line runs from Rome through Roccasecca (whence
 there is a branch via Sora to Avezzano, on the railway from Rome to
 Castellammare Adriatico), Caianello (junction for Isernia, on the line
 between Sulmona and Campobasso or Benevento), Sparanise (branch to
-Formia and Gaeta) and Caserta to Naples. From Caserta, indeed, there are
+[[Formia]] and Gaeta) and Caserta to Naples. From Caserta, indeed, there are
 two independent lines to Naples, while a main line runs to Benevento and
 Foggia across the Apennines. From Benevento railways run north to
 Vinchiaturo (for Isernia or Campobasso) and south to Avellino. From
@@ -265,7 +265,7 @@ Gragnano), Nocera (branch for Codola), Salerno (branch for Mercato San
 Severino), and Battipaglia. Here it divides, one line going
 east-south-east to Sicignano (branch to Lagonegro), Potenza and
 Metaponto (for Taranto and Brindisi or the line along the east coast of
-Calabria to Reggio), the other going south-south-east along the west
+[[Calabria]] to Reggio), the other going south-south-east along the west
 coast of Calabria to Reggio.
 
 Industrial activity is mainly concentrated in Naples, Pozzuoli and the

@@ -5,8 +5,8 @@ GOLTZIUS, HENDRIK (1558-1617), Dutch painter and engraver, was born in
 glass for some years under his father, he was taught the use of the
 burin by Dirk Volkertsz Coornhert, a Dutch engraver of mediocre
 attainment, whom he soon surpassed, but who retained his services for
-his own advantage. He was also employed by Philip Galle to engrave a set
-of prints of the history of Lucretia. At the age of twenty-one he
+his own advantage. He was also employed by Philip [[Galle]] to engrave a set
+of prints of the history of [[Lucretia]]. At the age of twenty-one he
 married a widow somewhat advanced in years, whose money enabled him to
 establish at Haarlem an independent business; but his unpleasant
 relations with her so affected his health that he found it advisable in
@@ -16,7 +16,7 @@ surpass that master in the grotesqueness and extravagance of his
 designs. He returned to Haarlem considerably improved in health, and
 laboured there at his art till his death, on the 1st of January 1617.
 Goltzius ought not to be judged chiefly by the works he valued most, his
-eccentric imitations of Michelangelo. His portraits, though mostly
+[[Eccentric|eccentric]] imitations of Michelangelo. His portraits, though mostly
 miniatures, are master-pieces of their kind, both on account of their
 exquisite finish, and as fine studies of individual character. Of his
 larger heads, the life-size portrait of himself is probably the most

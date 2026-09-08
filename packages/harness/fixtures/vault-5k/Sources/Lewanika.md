@@ -1,6 +1,6 @@
 # Lewanika
 
-LEWANIKA (c. 1860-   ), paramount chief of the Barotse and subject tribes
+LEWANIKA (c. 1860-   ), paramount chief of the [[Barotse]] and subject tribes
 occupying the greater part of the upper Zambezi basin, was the
 twenty-second of a long line of rulers, whose founder invaded the
 Barotse valley about the beginning of the 17th century, and according to
@@ -20,7 +20,7 @@ nephew. Within a year abuse of power brought about this chief's downfall
 in 1885. The early years of his reign were also stained by many acts of
 blood, until in 1884 the torture and murder of his own brother led to
 open rebellion, and it was only through extreme presence of mind that
-the chief escaped with his life into exile. His cousin, Akufuna or
+the chief escaped with his life into exile. His [[Cousin|cousin]], Akufuna or
 Tatela, was then proclaimed chief. It was during his brief reign that
 François Coillard, the eminent missionary, arrived at Lialui, the
 capital. The following year Lewanika, having collected his partisans,
@@ -38,7 +38,7 @@ E. was thrown open to settlers, that to the west being reserved to the
 Barotse chief. In 1905 the king of Italy's award in the Barotse boundary
 dispute with Portugal deprived Lewanika of half of his dominions, much
 of which had been ruled by his ancestors for many generations. In 1902
-Lewanika attended the coronation of Edward VII. as a guest of the
+Lewanika attended the [[Coronation|coronation]] of Edward VII. as a guest of the
 nation. His recognized heir was his eldest son Letia.
 
   See BAROTSE, and the works there cited, especially _On the Threshold

@@ -6,7 +6,7 @@ the Roman goddess of the dawn, corresponding to the Greek goddess Eos.
 According to Hesiod (_Theog_. 271) she was the daughter of the Titan
 Hyperion and Thea (or Euryphassa), and sister of Helios and Selene. By
 the Titan Astraeus, she was the mother of the winds Zephyrus, Notus and
-Boreas, of Hesperus and the stars. Homer represents her as rising every
+[[Boreas]], of [[Hesperus]] and the stars. Homer represents her as rising every
 morning from the couch of Tithonus (by whom she was the mother of
 Emathion and Memnon), and drawn out of the east in a chariot by the
 horses Lampus and Phaethon to carry light to gods and men (_Odyssey_,
@@ -21,7 +21,7 @@ see Paul Regnaud, _Le Rig-Veda_ in _Annales du musee Guimet_, vol. i. c.
 6 (Paris, 1892). She is also represented as the lover of the hunter
 Orion (_Odyssey_, v. 121), the representative of the constellation that
 disappears at the flush of dawn, and the youthful hunter Cephalus, by
-whom she was the mother of Phaethon (Apollodorus iii. 14. 3). In works
+whom she was the mother of Phaethon ([[Apollodorus]] iii. 14. 3). In works
 of art, Eos is represented as a young woman, fully clothed, walking fast
 with a youth in her arms; or rising from the sea in a chariot drawn by
 winged horses; sometimes, as the goddess who dispenses the dews of the

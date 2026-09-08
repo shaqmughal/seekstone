@@ -15,7 +15,7 @@ contains the royal crown of the former Georgian kingdom of Imeretia,
 besides ancient MSS., ecclesiological furniture, and fresco portraits of
 the kings of Imeretia. Here also, in a separate chapel, is the tomb of
 David the Renovator (1089-1125) and part of the iron gate of the town of
-Ganja (now Elisavetpol), which that monarch brought away as a trophy of
+Ganja (now [[Elisavetpol]]), which that monarch brought away as a trophy of
 his capture of the place.
 
 ## See also

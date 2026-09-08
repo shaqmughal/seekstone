@@ -17,13 +17,13 @@ to the same see, a dispute of course arose, which was settled by
 Theodore in favour of Wilfrid after three years had passed. Chad
 thereupon retired to Lastingham, whence with the permission of Oswio he
 was summoned by Wulfhere of Mercia to succeed his bishop Jaruman, who
-died 667. Chad built a monastery at Barrow in Lincolnshire and fixed his
+died 667. Chad built a monastery at Barrow in [[Lincolnshire]] and fixed his
 see at Lichfield. He died after he had held his bishopric in Mercia two
-and a half years, and was succeeded by Wynfrith. Bede gives a beautiful
+and a half years, and was succeeded by Wynfrith. [[Bede]] gives a beautiful
 character of Chad.
 
   See Bede's _Hist. Eccl._ edited by C. Plummer, iii. 23, 24, 28; iv. 2,
-  3 (Oxford, 1896); Eddius, _Vita Wilfridi_, xiv., xv. edited by J.
+  3 (Oxford, 1896); [[Eddius]], _Vita Wilfridi_, xiv., xv. edited by J.
   Raine, Rolls Series (London, 1879).
 
 ## References

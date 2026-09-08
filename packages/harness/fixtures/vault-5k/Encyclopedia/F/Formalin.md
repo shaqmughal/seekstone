@@ -13,8 +13,8 @@ being employed as a deodorant, fungicide and preservative. It is not
 possible to obtain the aldehyde in a pure condition, since it readily
 polymerizes. It is a strong reducing agent; it combines with ammonia to
 form _hexamethylene tetramine_, (CH2)6N4, and easily "condenses" in the
-presence of many bases to produce compounds which apparently belong to
-the sugars (q.v.). It renders glue or gelatin insoluble in water, and is
+presence of many bases to produce [[Compound|compounds]] which apparently belong to
+the sugars (q.v.). It renders glue or [[Gelatin|gelatin]] insoluble in water, and is
 used in the coal-tar colour industry in the manufacture of
 para-rosaniline, pyronines and rosamines. Several polymers have been
 described. _Para-formaldehyde_, or trioxymethylene, obtained by
@@ -31,9 +31,9 @@ solutions of formaldehyde may be ascertained by the addition of excess
 of standard ammonia to the aldehyde solution (hexamethylene tetramine
 being formed), the excess of ammonia being then estimated by titration
 with standard acid. On the formation of formaldehyde by the oxidation of
-methane at high temperatures, see W.A. Bone (_Journ. Chem. Soc._, 1902,
+methane at high temperatures, see W.A. [[Bone]] (_Journ. Chem. Soc._, 1902,
 81, p. 535; 1903, 83, p. 1074). Formaldehyde also appears to be a
-reduction product of carbon dioxide (see _Annual Reports of the Chemical
+reduction product of [[Carbon|carbon]] dioxide (see _Annual Reports of the Chemical
 Society_).
 
 ## References

@@ -19,12 +19,12 @@ recognized by them, just as younger formations had fossils peculiar to
 themselves; as he zealously worked on he followed the fossiliferous
 rocks further afield and continually lower in the series. This
 fossil-bearing set of strata he first styled the "fossiliferous
-greywacke series," changing it in 1835 to "Silurian system."
+[[Greywacke|greywacke]] series," changing it in 1835 to "Silurian system."
 
 In the same year Sedgwick introduced the name "Cambrian series" for the
 older and lower members. Murchison published his Silurian system in
 1839, wherein he recognized the Cambrian to include the barren slates
-and grits of Harlech, Llanberis and the Long Mynd. So far, the two
+and grits of [[Harlech]], [[Llanberis]] and the Long Mynd. So far, the two
 workers had been in agreement; but in his presidential address to the
 Geological Society of London in 1842 Murchison stated his opinion that
 the Cambrian contained no fossils that differed from those of the Lower
@@ -42,16 +42,16 @@ similar rocks which were classed as Silurian, and the use of "Cambrian"
 was almost discarded, because, following Murchison, it was taken to
 apply only to a group of rocks without a characteristic fauna and
 therefore impossible to recognize. Most of the Cambrian rocks were
-coloured as Silurian on the British official geological maps.
+coloured as Silurian on the British official geological [[Map|maps]].
 
 Nevertheless, from 1851 to 1855, Sedgwick, in his writings on the
 British palaeozoic deposits, insisted on the independence of the
 Cambrian system, and though Murchison had pushed his Silurian system
 downward in the series of rocks, Sedgwick adhered to the original
 grouping of his Cambrian system, and even proposed to limit the Silurian
-to the Ludlow and Wenlock beds with the May Hill Sandstone at the base.
+to the [[Ludlow]] and Wenlock beds with the May Hill Sandstone at the base.
 This attitude he maintained until the year of his death (1873), when
-there appeared his introduction to Salter's _Catalogue of Cambrian and
+there appeared his introduction to Salter's _[[Catalogue]] of Cambrian and
 Silurian Fossils._
 
 It is not to be supposed that one of these great geologists was
@@ -65,20 +65,20 @@ belonging to the Cambrian system, and the threefold subdivision of the
 system according to palaeontological evidence, may be regarded as firmly
 established.
 
-It should be noted that A. de Lapparent classifies the Cambrian as the
+It should be noted that A. de [[Lapparent]] classifies the Cambrian as the
 lowest stage in the Silurian, the middle and upper stages being
 Ordovician and Gothlandian. E. Renevier proposed to use _Silurique_ to
 cover the same period with the Cambrian as the lowest series, but these
 differences of treatment are merely nominal. Jules Marcou and others
 have used _Taconic_ (Taconian) as the equivalent of Cambrian, and C.
-Lapworth proposed to apply the same term to the lowest subdivision
+[[Lapworth]] proposed to apply the same term to the lowest subdivision
 only; he had also used "Annelidian" in the same sense. These names are
 of historical interest alone.
 
 _Cambrian Rocks._--The lithological characters of the Cambrian rocks
 possess a remarkable uniformity in all quarters of the globe. Muds,
 sands, grits and conglomerates are the predominant types. In Scotland,
-North America and Canada important deposits of limestone occur and
+North America and Canada important deposits of [[Limestone|limestone]] occur and
 subordinate limestones are found in the Cambrian of central Europe.
 
 In some regions, notably in the Baltic province and in parts of the
@@ -99,13 +99,13 @@ are not wanting.
 Igneous rocks are not extensively developed; in Wales they form an
 important feature and occur in considerable thickness; they are
 represented by lavas of olivine-diabase and by contemporaneous tuffs
-which are traversed by later granite and quartz felsite. In the Cambrian
+which are traversed by later granite and quartz [[Felsite|felsite]]. In the Cambrian
 of Brittany there are acid lavas and tuffs. Quartz porphyry, diabase and
-diorite appear in the Ardennes. In Bohemia, North America and Canada
+[[Diorite|diorite]] appear in the [[Ardennes]]. In Bohemia, North America and Canada
 igneous rocks have been observed.
 
 In China, on the Yang-tse river, a thick deposit has been found full of
-boulders of diverse kinds of rock, striated in the manner that is
+[[Boulder|boulders]] of diverse kinds of rock, striated in the manner that is
 typical of glacial action. A similar deposit occurs in the Gaisa beds
 near the Varanger Fjord in Norway. These formations lie at the base of
 the lowest Cambrian strata and may possibly be included in the
@@ -135,7 +135,7 @@ _Archaeoscyphia_, Hexactinellid sponges by _Protospongia_; Graptolites
 (_Dictyograptus (Dictyonema_)) come on in the higher parts of the
 system. Medusa-like casts have been found in the lower Cambrian of
 Scandinavia (_Medusina_) and in the mid-Cambrian of Alabama
-(_Brooksella_). Corals, _Archaeocyathus, Spirocyathus_, &c., lived in
+(_Brooksella_). [[Coral|Corals]], _Archaeocyathus, Spirocyathus_, &c., lived in
 the Cambrian seas along with starfishes (_Palaeasterina_), Cystideans,
 _Protocystites, Trochocystites_ and possibly Crinoids, _Dendrocrinus_.
 Annelids left their traces in burrows and casts on the sea-floor
@@ -148,7 +148,7 @@ had already attained their maximum size; some species of _Paradoxides_
 were nearly 2 ft. long, but in company with these monsters were tiny
 forms like _Agnostus_ and _Microdiscus_. Many of the Cambrian trilobites
 appear to have been blind, and they had not at this period developed
-that flexibility in the carapace that some forms acquired later.
+that flexibility in the [[Carapace|carapace]] that some forms acquired later.
 
 Brachiopods were fairly abundant, particularly the non-articulated forms
 (_Obolus, Lingulella, Acrotreta, Discinopsis,_ &c.); amongst the
@@ -183,7 +183,7 @@ _Euloma-Niobe_ fauna elsewhere. Three regions deserve special attention:
 differentiated from the old "Transition Series"; (2) North America, on
 account of the wide-spread occurrence of the rocks and the abundance and
 perfection of the fossils; and (3) Bohemia, made classic by the great
-labours of J. Barrande.
+labours of J. [[Barrande]].
 
   _Great Britain and Ireland._--The table on p. 88 contains the names
   that have been applied to the subdivisions of the Cambrian strata in
@@ -191,7 +191,7 @@ labours of J. Barrande.
   indicates approximately their relative position in the system.
 
   In _Scotland_ the upper and middle series are represented by a thick
-  mass of limestone and dolomite, the Durness limestone (1500 ft.). In
+  mass of limestone and [[Dolomite|dolomite]], the Durness limestone (1500 ft.). In
   the lower series are, in descending order, the "Serpulite grits" or
   "Salterella beds," the "Fucoid beds" and the "Eriboll quartzite,"
   which is divided into an upper "Pipe rock" and lower "Basal
@@ -210,10 +210,10 @@ labours of J. Barrande.
   with _Olenus_ fauna (with Saratogan or St Croix as synonyms for
   Potsdam). The lower division appears on the Newfoundland and Labrador
   coasts, and is traceable thence, in a great belt south-west of those
-  points, through Maine and the Hudson-Champlain valley into Alabama, a
+  points, through [[Maine]] and the Hudson-Champlain valley into Alabama, a
   distance of some 2000 m.; and the rocks are brought up again on the
   western uplift, in Nevada, Idaho, Utah, western Montana and British
-  Columbia. The middle division covers approximately the same region as
+  [[Columbia]]. The middle division covers approximately the same region as
   the lower one, and in addition it is found in the states of Texas,
   Oklahoma, and Arizona, in western Montana, and possibly in western
   Wisconsin. The lower division, in addition to covering the areas
@@ -230,12 +230,12 @@ labours of J. Barrande.
     +----------------+--------------------+---------------+----------------------------------------------------------------+
     |                |                    |               |                 Midland and West of England.                   |
     |                |     North Wales.   |  South Wales. +--------------------+---------------------+---------------------+
-    |                |                    |               |     Shropshire.    |   Malvern Hills.    |       Nuneaton.     |
+    |                |                    |               |     Shropshire.    |   [[Malvern]] Hills.    |       Nuneaton.     |
     +----------------+--------------------+---------------+--------------------+---------------------+---------------------+
     | Upper Cambrian,| Tremadoc slates    | Tremadoc beds | Shineton shales    | Bronsil shales,     | Upper Stockingford  |
-    | _Olenus_ fauna |  (_Euloma-Niobe_   |               |  and shales with   |  gray (_Niobe_      |  shale              |
+    | _Olenus_ fauna |  (_Euloma-Niobe_   |               |  and shales with   |  [[Gray|gray]] (_Niobe_      |  shale              |
     |                |  fauna)            |               |  _Dictyonema_      |  fauna)             |  (Merivaleshales)   |
-    |                | Lingula flags      | Lingula flags |                    | Malvern black       |                     |
+    |                | Lingula [[Flag|flags]]      | Lingula flags |                    | Malvern black       |                     |
     |                |                    |               |                    |  shales             |                     |
     |                |                    |               |                    |  (White-leaved-oak  |                     |
     |                |                    |               |                    |  shales)            |                     |
@@ -279,7 +279,7 @@ labours of J. Barrande.
 
   _Baltic Province._--The Cambrian rocks in this region are nearly all
   soft sediments, some 600 ft. thick; they reach from the Gulf of
-  Finland towards Lake Ladoga. At the base is the so-called "blue clay"
+  [[Finland]] towards Lake [[Ladoga]]. At the base is the so-called "blue clay"
   (really greenish) with ferruginous sandstones and with a fucoidal
   sandstone at its summit. This division is the equivalent of the Lower
   Cambrian. Above the fucoidal sandstone an important break appears in
@@ -289,7 +289,7 @@ labours of J. Barrande.
   71°) and on the island of Vaigatch.
 
   _Central Europe._--Besides the Bohemian region previously mentioned,
-  Cambrian rocks are present in Belgium and the north of France, in
+  Cambrian rocks are present in [[Belgium]] and the north of France, in
   Spain and the Thüringer Wald. In the Ardennes the system is
   represented by grits and sandstones, shales, slates and quartz
   schists, and includes also whet slates and some igneous rocks. A.
@@ -303,9 +303,9 @@ labours of J. Barrande.
   pre-Cambrian strata in Brittany, Normandy and northern Poitou. In the
   Rennes basin limestones--often dolomitic--are associated with
   quartzites and conglomerates; silicious limestones also occur in the
-  Sarthe region. Farther south, around the old lands of Languedoc,
+  Sarthe region. Farther south, around the old lands of [[Languedoc]],
   equivalents of the two upper divisions of the Cambrian have been
-  recorded; and the uppermost members of the system appear in Herault.
+  recorded; and the uppermost members of the system appear in [[Herault]].
   Patches of Cambrian rocks are found in the Pyrenees.
 
   In _Spain_ slates and quartzites, the slates of Rivadeo, more than
@@ -327,10 +327,10 @@ labours of J. Barrande.
   the thick "Sinisian" formation of F. von Richthofen.
 
   In _South America_ upper Cambrian rocks have been recorded from north
-  Argentina.
+  [[Argentina]].
 
   The Lower Cambrian has been found at various places in _South
-  Australia_; and in _Tasmania_ a thick series of strata appears to be
+  [[Australia]]_; and in _Tasmania_ a thick series of strata appears to be
   in part at least of Upper Cambrian age.
 
 _General Physical Conditions in the Cambrian Period._--The Cambrian
@@ -361,7 +361,7 @@ series is the most extensive. Consequently, Cambrian strata are usually
 unconformable on older rocks.
 
 During the general advance of the sea, local warpings of the crust may
-have given rise to shallow lagoon or inland-lake conditions. The common
+have given rise to shallow [[Lagoon|lagoon]] or inland-lake conditions. The common
 occurrence of red strata has been cited in support of this view.
 
 Compared with some other periods, the Cambrian was free from extensive
@@ -371,7 +371,7 @@ was feebly reflected in central and southern Europe.
 
 No definite conclusions can be drawn from the fossils as to the climatic
 peculiarities of the earth in Cambrian times. The red rocks may in some
-cases suggest desert conditions; and there is good reason to suppose
+cases suggest [[Desert|desert]] conditions; and there is good reason to suppose
 that in what are now Norway and China a glacial cold prevailed early in
 the period.
 
@@ -402,23 +402,23 @@ eastern Canada; therefore it is likely that a north Atlantic basin
 existed. Prof. Kayser suggests that there was also a Pacific basin more
 extensive than at present; this is borne out by the similarity between
 the Cambrian faunas of China, Siberia and Argentina. The same author
-postulates an Arctic continent, bordering upon northern Europe,
+postulates an [[Arctic]] continent, bordering upon northern Europe,
 Greenland and North America; an African-Brazilian continent across the
 present south Atlantic, and a marine communication between Australia and
 India, where the faunas have much in common.
 
   REFERENCES.--The literature devoted to the Cambrian period is very
   voluminous, important contributions having been made by A. Sedgwick,
-  Sir R.I. Murchison, H. Hicks, C. Lapworth, T. Groom, J.W. Salter, J.E.
-  Marr, C.D. Walcott, G.F. Matthew, E. Emmons, E. Billings, J. Barrande,
+  Sir R.I. Murchison, H. Hicks, C. Lapworth, T. [[Groom]], J.W. Salter, J.E.
+  Marr, C.D. Walcott, G.F. [[Matthew]], E. Emmons, E. Billings, J. Barrande,
   F. Schmidt, W.C. Brögger, S.A. Tullberg, S.L. Torngrist, G. Linnarsson
   and many others. A good general account of the period will be found in
   Sir A. Geikie's _Text-Book of Geology_, vol. ii. 4th ed. 1903 (with
   references), and from an American point of view, in T.C. Chamberlin
   and R.D. Salisbury's _Geology_, vol. ii., 1906 (references to American
-  sources). See also J.E. Marr, _The Classification of the Cambrian and
+  sources). See also J.E. Marr, _The [[Classification]] of the Cambrian and
   Silurian Rocks_, 1883 (with bibliography up to the year of
-  publication); A. Geikie _Q.J. Geol. Sac.,_ 1891, xlvii., Ann. address,
+  publication); A. [[Geikie]] _Q.J. Geol. Sac.,_ 1891, xlvii., Ann. address,
   p. 90; F. Frech, "Die geographische Verbreitung und Entwickelung des
   Cambrium," _Compte Rendu. Congrès Géol. Internal. 1897,
   St-Pétersbourg_ (1899); _Geological Literature added to the Geological

@@ -8,7 +8,7 @@ topic: history
 
 BAHADUR SHAH II., the last of the Mogul emperors of Hindustan, 1837-1857.
 He was a titular emperor only, since from the time of the defeat of Shah
-Alam at Buxar in 1764 all real power had resided with the East India
+Alam at [[Buxar]] in 1764 all real power had resided with the East India
 Company; but all proclamations were still worded under "The King's Realm
 and the Company's rule." His sole importance is due to the use made of his
 name during the Mutiny of 1857. Always feeble in character, he was at that

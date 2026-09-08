@@ -15,15 +15,15 @@ continuing his studies in Paris. In 1836 he was appointed professor of
 oriental languages at Leipzig University, and retained this post till
 his death. His most important works were editions of Abulfeda's
 _Historia ante-Islamica_ (1831-1834), and of Beidhawi's _Commentary on
-the Koran_ (1846-1848). He compiled a catalogue of the oriental MSS, in
-the royal library at Dresden (1831); published an edition and German
+the Koran_ (1846-1848). He compiled a [[Catalogue|catalogue]] of the oriental MSS, in
+the royal library at [[Dresden]] (1831); published an edition and German
 translation of Ali's _Hundred Sayings_ (1837); the continuation of
 Babicht's edition of _The Thousand and One Nights_ (vols. ix.-xii.,
 1842-1843); and an edition of Mahommed Ibrihim's _Persian Grammar_
 (1847). He also wrote an account of the Arabic, Turkish and Persian MSS.
 at the town library in Leipzig. He died there on the 10th of February
 1888. Fleischer was one of the eight foreign members of the French
-Academy of Inscriptions and a knight of the German _Ordre pour le
+Academy of Inscriptions and a [[Knight|knight]] of the German _Ordre pour le
 mérite_.
 
 ## See also

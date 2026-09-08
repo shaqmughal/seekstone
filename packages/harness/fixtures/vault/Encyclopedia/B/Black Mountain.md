@@ -6,7 +6,7 @@ topic: medicine
 
 # Black Mountain
 
-BLACK MOUNTAIN, a mountain range and district on the Hazara border of
+BLACK MOUNTAIN, a mountain range and district on the [[Hazara]] border of
 the North-West Frontier Province of India. It is inhabited by Yusafzai
 Pathans. The Black Mountain itself has a total length of 25 to 30 m.,
 and an average height of 8000 ft. above the sea. It rises from the Indus
@@ -17,7 +17,7 @@ by two large spurs to the Indus again. The tribes which inhabit the
 western face of the Black Mountain are the Hassanzais (2300 fighting
 men), the Akazais (1165 fighting men) and the Chagarzais (4890 fighting
 men), all sub-sections of the Yusafzai Pathans. It was in this district
-that the Hindostani Fanatics had their stronghold, and they were
+that the [[Hindostani]] Fanatics had their stronghold, and they were
 responsible for much of the unrest on this part of the border.
 
 The Black Mountain is chiefly notable for four British expeditions:--

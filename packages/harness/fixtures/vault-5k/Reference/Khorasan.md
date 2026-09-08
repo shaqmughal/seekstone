@@ -8,14 +8,14 @@ designation of a definite province and in a looser sense. Under the new
 Persian empire the expression has gradually become restricted to the
 north-eastern portion of Persia which forms one of the five great
 provinces of that country. The province is conterminous E. with
-Afghanistan, N. with Russian Transcaspian territory, W. with Astarabad
+Afghanistan, N. with Russian Transcaspian territory, W. with [[Astarabad]]
 and Shahrud-Bostam, and S. with Kerman and Yezd. It lies mainly within
 29° 45´-38° 15´ N. and 56°-61° E., extending about 320 m. east and west
 and 570 m. north and south, with a total area of about 150,000 sq. m.
 The surface is mountainous. The ranges generally run in parallel ridges,
 inclosing extensive valleys, with a normal direction from N.W. to S.E.
 The whole of the north is occupied by an extensive highland system
-composed of a part of the Elburz and its continuation extending to the
+composed of a part of the [[Elburz]] and its continuation extending to the
 Paropamisus. This system, sometimes spoken of collectively as the Kuren
 Dagh, or Kopet Dagh from its chief sections, forms in the east three
 ranges, the Hazar Masjed, Binalud Kuh and Jagatai, enclosing the
@@ -23,7 +23,7 @@ Meshed-Kuchan valley and the Jovain plain. The former is watered by the
 Kashaf-rud (Tortoise River), or river of Meshed, flowing east to the
 Hari-rud, their junction forming the Tejen, which sweeps round the
 Daman-i-Kuh, or northern skirt of the outer range, towards the Caspian
-but loses itself in the desert long before reaching it. The Jovain plain
+but loses itself in the [[Desert|desert]] long before reaching it. The Jovain plain
 is watered by the Kali-i-mura, an unimportant river which flows south to
 the Great Kavir or central depression. In the west the northern
 highlands develop two branches: (1) the Kuren Dagh, stretching through
@@ -63,14 +63,14 @@ incrustation of salt. Dr Sven Hedin explored the central depressions in
 The surface of Khorasan thus consists mainly of highlands, saline,
 swampy deserts and upland valleys, some fertile and well-watered. Of the
 last, occurring mainly in the north, the chief are the longitudinal
-valley stretching from near the Herat frontier through Meshed, Kuchan
+valley stretching from near the [[Herat]] frontier through Meshed, Kuchan
 and Shirvan to Bujnurd, the Derrehgez district, which lies on the
 northern skirt of the outer range projecting into the Akhal Tekkeh
 domain, now Russian territory, and the districts of Nishapur and
 Sabzevar which lie south of the Binalud and Jagatai ranges. These
 fertile tracts produce rice and other cereals, cotton, tobacco, opium
 and fruits in profusion. Other products are manna, suffron, asafoetida
-and other gums. The chief manufactures are swords, stoneware, carpets
+and other [[Gum|gums]]. The chief manufactures are swords, stoneware, carpets
 and rugs, woollens, cottons, silks and sheepskin pelisses (_pustin_,
 Afghan _poshtin_).
 
@@ -78,7 +78,7 @@ Afghan _poshtin_).
   Sabzevar; 3, Jovain; 4, Asfarain; 5, Bujnurd; 6, Kuchan; 7, Derrehgez;
   8, Kelat; 9, Chinaran; 10, Meshed; 11, Jam; 12, Bakharz; 13, Radkan;
   14, Serrakhs; 15, Sar-i-jam; 16, Bam and Safiabad; 17, Turbet i
-  Haidari; 18, Turshiz; 19, Khaf; 20, Tun and Tabbas; 21, Kain; 22,
+  Haidari; 18, Turshiz; 19, Khaf; 20, Tun and Tabbas; 21, [[Kain]]; 22,
   Seistan.
 
   The population consists of Iranians (Tajiks, Kurds, Baluchis),
@@ -90,7 +90,7 @@ Afghan _poshtin_).
   unsettled life of the _sahara-nishin_ (dwellers in the desert), are
   settled and peaceful _shahr-nishin_ (dwellers in towns). In religion
   all except some Tatars and Mongols and the Baluchis have conformed to
-  the national Shiah faith. The revenues (cash and kind) of the province
+  the national Shiah faith. The revenues ([[Cash|cash]] and kind) of the province
   amount to about £180,000 a year, but very little of this amount
   reaches the Teheran treasury. The value of the exports and imports
   from and into the whole province is a little under a million sterling

@@ -11,7 +11,7 @@ lakes. These deposits are not in a true sense abyssal, but are of
 terrigenous origin, the mud and sand being derived from the wear of the
 continents, transported by marine currents. The greater part of the mass
 consists in all cases of minerals such as quartz, felspar (often
-labradorite), mica, chlorite, with more or less calcite which is
+[[Labradorite|labradorite]]), mica, chlorite, with more or less calcite which is
 probably always derived from shells or other organic sources. Many
 accessory minerals such as tourmaline and zircon have been identified
 also, while augite, hornblende and other volcanic minerals occur in

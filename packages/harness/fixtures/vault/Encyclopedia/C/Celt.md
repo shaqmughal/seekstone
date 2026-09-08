@@ -27,7 +27,7 @@ hair; they are thick-set and of medium height. This race is often termed
 "Celtic" or "Alpine" from the fact of its occurrence all along the great
 mountain chain from south-west France, in Savoy, in Switzerland, the Po
 valley and Tirol, as well as in Auvergne, Brittany, Normandy, Burgundy,
-the Ardennes and the Vosges. It thus stands midway not only
+the [[Ardennes]] and the Vosges. It thus stands midway not only
 geographically but also in physical features between the "Teutonic" type
 of Scandinavian and the so-called "Mediterranean race" with its long
 head, long face, its rather broad nose, dark brown or black hair, dark
@@ -39,7 +39,7 @@ north of them, and that the broadness of their skulls is simply due to
 their having been long domiciled in mountainous regions. Thus the
 "Celtic" ox (_Bos longifrons_), from remote ages the common type in the
 Alpine regions, is characterized by the height of its forehead above the
-orbits, by its highly-developed occipital region, and its small horns.
+orbits, by its highly-developed occipital region, and its small [[Horn|horns]].
 Not only do animals change their physical characteristics in new
 environment, but modern peoples when settled in new surroundings for
 even one or two centuries, e.g. the American of New England and the Boer
@@ -69,11 +69,11 @@ the Germani themselves first appear in the Celtic host destroyed by
 Marcellus at Clastidium in 225 B.C. All the true Celtae or Galatae in
 France had come across the Rhine; the Belgic tribes in northern France
 were Cimbri, who also had crossed the Rhine: in Caesar's day the Germans
-were still constantly crossing that river, and so-called Gauls who lived
+were still constantly crossing that river, and so-called [[Gaul|Gauls]] who lived
 near the Germans, e.g. the Treveri, closely resembled the latter in
-their habits, while in later times were to come Goths and Franks from
+their habits, while in later times were to come Goths and [[Franks]] from
 beyond the great river. It is then not strange that the Gallic name for
-a henchman (_ambactus_) is the same as the Gothic (_ambahts_).
+a [[Henchman|henchman]] (_ambactus_) is the same as the [[Gothic]] (_ambahts_).
 
 The earliest invaders, under the name of Celtae, had occupied all
 central Gaul, doubtless mixing with the aboriginal Ligurians and
@@ -85,10 +85,10 @@ the Danube valley some of the Celts had dwelt from the Stone Age; there
 they had developed the working of copper, discovered bronze (an alloy of
 copper and tin), and the art of smelting iron (see HALLSTATT). The
 Umbrians, who were part of the Alpine Celts, had been pressing down into
-Italy from the Bronze Age, though checked completely by the rise of the
+Italy from the [[Bronze Age]], though checked completely by the rise of the
 Etruscan power in the 10th century B.C. The invention of iron weapons
 made the Celts henceforth irresistible. One of the earliest movements
-after this discovery was probably that of the Achaeans of Homer, who
+after this discovery was probably that of the Achaeans of [[Homer]], who
 about 1450 B.C. invaded Greece (see ACHAEANS), bringing with them the
 use of iron and brooches, the practice of cremating the dead, and the
 style of ornament known as Geometric. Later the Cimmerians (see SCYTHIA
@@ -96,7 +96,7 @@ and CIMMERII) passed down from the Cimbric Chersonese, doubtless
 following the amber routes, and then turned east along the Danube, some
 of their tribes, e.g. the Treres, settling in Thrace, and crossing into
 Asia; others settled in southern Russia, leaving their name in the
-Crimea; then when hard pressed by the Scythians most of them passed
+[[Crimea]]; then when hard pressed by the Scythians most of them passed
 round the east end of the Euxine into Asia Minor, probably being the
 people known as Gimirri on Assyrian monuments, and ravaged that region,
 the relics of the race finally settling at Sinope.
@@ -104,7 +104,7 @@ the relics of the race finally settling at Sinope.
 At the beginning of the 6th century B.C. the Celts of France had grown
 very powerful under the Biturigian king Ambigatus. They appear to have
 spread southwards into Spain, occupying most of that country as far
-south as Gades (Cadiz), some tribes, e.g. Turdentani and Turduli,
+south as Gades ([[Cadiz]]), some tribes, e.g. Turdentani and Turduli,
 forming permanent settlements and being still powerful there in Roman
 times; and in northern central Spain, from the mixture of Celts with the
 native Iberians, the population henceforward was called Celtiberian.
@@ -128,11 +128,11 @@ or expelled, e.g. the Boii from the plains of the Po. At the same time
 as the invasion of Italy they had made fresh descents into the Danube
 valley and the upper Balkan, and perhaps may have pushed into southern
 Russia, but at this time they never made their way into Greece, though
-the Athenian ladies copied the style of hair and dress of the Cimbrian
+the Athenian ladies copied the style of hair and [[Dress|dress]] of the Cimbrian
 women. About 280 B.C. the Celts gathered a great host at the head of the
 Adriatic, and accompanied by the Illyrian tribe of Autariatae, they
 overthrew the Macedonians, overran Thessaly, and invaded Phocis in order
-to sack Delphi, but they were finally repulsed, chiefly by the efforts
+to sack [[Delphi]], but they were finally repulsed, chiefly by the efforts
 of the Aetolians (279 B.C.). The remnant of those who returned from
 Greece joined that part of their army which had remained in Thrace, and
 marched for the Hellespont. Here some of their number settled near
@@ -157,7 +157,7 @@ with the Cimmerians of earlier date, who in Homeric times dwelt on the
 ocean next to the Laestrygones, in a region of wintry gloom, but where
 the sun set not in summer. Nor was it only towards the south and the
 Hellespont that the Celtic tide ever set. They passed eastward to the
-Danube mouth and into southern Russia, as far as the Sea of Azov,
+Danube mouth and into southern Russia, as far as the Sea of [[Azov]],
 mingling with the Scythians, as is proved by the name Celto-scyths.
 Mithradates VI. of Pontus seems to have negotiated with them to gain
 their aid against Rome, and Bituitus, a Gallic mercenary, was with him
@@ -165,9 +165,9 @@ at his death.
 
 The Celts had continually moved westwards also. The Belgae, who were
 Cimbric in origin, had spread across the Rhine and given their name to
-all northern France and Belgium (_Gallia Belgica_). Many of these tribes
+all northern France and [[Belgium]] (_Gallia Belgica_). Many of these tribes
 sent colonies over into south-eastern Britain, where they had been
-masters for some two centuries when Caesar invaded the island (see
+masters for some two centuries when [[Caesar]] invaded the island (see
 BRITAIN). But there is evidence that from the Bronze Age there had been
 settlers in northern Britain who were broad-skulled and cremated their
 dead, a practice which had arisen in south Germany in the early Bronze
@@ -210,12 +210,12 @@ _plenus_; Gaulish _are-_, "beside," Ir. ar. Welsh, Breton ar, with Gr.
 [Greek: peri], [Greek: para]; and the change of I. E. e to i, cf. Ir.
 _fir_, "true," Welsh _gwir_, Breton _gwir_, Lat. _verus_. We may further
 mention that the I. E. labialized velar gv is represented by b, e.g. Ir.
-bo, "cow," Welsh _buwch_, Gr. [Greek: bous], Sanskr. _gaus_; Ir. _ben_,
+bo, "cow," Welsh _buwch_, Gr. [Greek: bous], Sanskr. _gaus_; Ir. _[[Ben|ben]]_,
 "woman," Gr. [Greek: gyne], whilst the medial aspirates bh, dh, gh
 result in simple voiced stops. I. E. sonant r and l become ri, li. Other
-distinctive features of the modern dialects are not found in Gaulish,
+distinctive features of the modern [[Dialect|dialects]] are not found in Gaulish,
 partly owing to the character of the monuments. Such are the
--ss-preterite and the fusion of simple prepositions with pronominal
+-ss-preterite and the [[Fusion|fusion]] of simple prepositions with pronominal
 elements, e.g. Ir. _fri-umm_, "against me," Welsh _wrth-yf_, Breton
 _ouz-inn_. The initial mutations which are so characteristic of the
 living languages did not arise until after the Romans had left Britain.
@@ -236,7 +236,7 @@ gives up the labial element and becomes k, e.g. Gaulish _petor-_,
 Ir. _cia_, "who," Welsh _pwy_, Lat. _quis_; Gaulish _epo-_, "horse,"
 Welsh _eb-ol_, Breton _eb-eul_, Ir. _ech_, Lat. _equus_. Several
 attempts have been made to prove the existence of Celtic dialects with
-qv on the continent. Forms containing p occur in the Coligny calendar,
+qv on the continent. Forms containing p occur in the [[Coligny]] calendar,
 discovered in 1897, by the side of others with qv, a state of affairs
 not yet satisfactorily accounted for. The Rom tablets, discovered in
 1898, have not been interpreted as yet, but p forms are found on them
@@ -248,29 +248,29 @@ Picts.
   der germanischen Philologie_ was available in 1909. The reader may
   refer to Windisch's article "Keltische Sprachen" in Ersch und Gruber's
   _Allgemeine Encyklopadie der Wissenschaften und Kunste_, and V.
-  Tourneur, _Esquisse d'une histoire des etudes celtiques_ (Liege, 1905;
+  Tourneur, _Esquisse d'une histoire des etudes celtiques_ ([[Liege]], 1905;
   vol. ii. with full bibliography). Also H. Zimmer, "Die kelt.
   Litteraturen" in _Die Kultur d. Gegenwart_, T. i. Abh. xi. I, Berlin
   and Leipzig, 1909. The materials for the study of the older forms of
   the languages are to be found in Zeuss's _Grammatica Celtica_ as
-  revised by Ebel. A comparative grammar of the Celtic dialects has been
+  revised by [[Ebel]]. A comparative grammar of the Celtic dialects has been
   prepared by H. Pedersen (Gottingen, 1908). See also Whitley Stokes and
   A. Bezzenberger, _Wortschatz der keltischen Spracheinheit_ (Gottingen,
   1894).
 
-I. GAULISH.--Celtic place-names are found as far east as the Dniester
+I. GAULISH.--Celtic place-names are found as far east as the [[Dniester]]
 and Dobrudja, and as far north as Westphalia. The language of the
 Galatians in Asia Minor must have stood in a very close relation to
 Gaulish. Indeed few traces of dialectical differences are to be observed
 in continental Celtic. Unfortunately no literary monuments written in
 the ancient speech of Gaul have come down to us, though Caesar makes
-mention of religious poems orally transmitted by the Druids, and we also
+mention of religious poems orally transmitted by the [[Druids]], and we also
 hear of _bardi_ and _vates_. But a large number of personal and
 place-names have been preserved. The classical writers have, moreover,
 recorded a certain number of Gaulish words which can generally be
 identified without difficulty by comparing them with words still living
 in the modern dialects, e.g. _pempedula_, "cinquefoil," cf. Welsh
-_pump_, "five," and _deilen_, "leaf"; _ambactus_, Welsh _amaeth_;
+_pump_, "five," and _deilen_, "[[Leaf|leaf]]"; _ambactus_, Welsh _amaeth_;
 _petorritum_, "four-wheeled chariot," cf. Welsh _pedwar_, "four," and
 Ir. _roth_, "wheel," or _rith_, "course." We have further between thirty
 and forty inscriptions (three in north Italy) which we may without
@@ -302,7 +302,7 @@ French is largely discounted when we find the same changes occurring in
 other dialects where there is little or no question of Celtic influence.
 
   The proper names occurring in classical writers, on inscriptions and
-  coins, have been collected by A. Holder in his monumental
+  [[Coin|coins]], have been collected by A. Holder in his monumental
   _Altceltischer Sprachschatz_ (Leipzig, 1896-1908). The inscriptions
   have been most recently treated by J. Rhys in the _Proceedings of the
   British Academy_, vol. ii. See also a paper in this volume entitled
@@ -315,8 +315,8 @@ other dialects where there is little or no question of Celtic influence.
   in the section "Die vorromanischen Volkssprachen" in Grober's
   _Grundriss der romanischen Philologie^2_, vol. i. pp. 373 ff. Cf.
   further the introduction to J. Loth's _Chrestomathie bretonne_ (Paris,
-  1890); G. Dottin, _Manuel pour servir a I'etude des antiquites
-  celtiques_ (Paris, 1906); R. Thurneysen, _Keltoromanisches_ (Halle,
+  1890); G. Dottin, _[[Manuel]] pour servir a I'etude des antiquites
+  celtiques_ (Paris, 1906); R. Thurneysen, _Keltoromanisches_ ([[Halle]],
   1884).
 
 II. GOIDELIC AND BRYTHONIC.--When the monuments of the Celtic dialects
@@ -332,8 +332,8 @@ number in substantives. In phonology there are also very striking
 differences, apart from the treatment of the labialized velar qv already
 mentioned. The sonant n appears in Brythonic as an, whereas in Goidelic
 the nasal disappears before k, t with compensatory lengthening of the
-vowel, e.g. I. E. _*kmtom_, Ir. _cet_, "hundred," W. _cant_, Bret.
-_kant_; Prim. Celt. _*jovnko-_, O. Ir. _oac_, Mod. Ir. og, "young," W.
+vowel, e.g. I. E. _*kmtom_, Ir. _cet_, "hundred," W. _[[Cant|cant]]_, Bret.
+_[[Kant|kant]]_; Prim. Celt. _*jovnko-_, O. Ir. _oac_, Mod. Ir. og, "young," W.
 _ieuanc_, Bret, _iaouank_. t, k standing after a vowel and preceding l,
 n (and also r if k precede) disappear in Goidelic with compensatory
 lengthening of the vowel, e.g. Prim. Celt. _*statla-_, Ir. _sal_,
@@ -343,7 +343,7 @@ standing after a vowel and preceding l, r, n with compensatory
 lengthening of the vowel, but in Welsh they produce a vowel forming a
 diphthong with the preceding vowel, e.g. Prim. Celt. _*neblo-_, Ir.
 _nel_, "cloud," W. _niwl_; Prim. Celt. _*ogno-_, cf. Lat. _agnus_, Ir.
-_uan_, "lamb," from _*on_, W. _oen_; Prim. Celt. _*vegno-_, cf. Ger.
+_uan_, "[[Lamb|lamb]]," from _*on_, W. _oen_; Prim. Celt. _*vegno-_, cf. Ger.
 _Wagen_, Ir. _fen_, "wagon," O. W. _guein_, Mod. W. _gwain_. The
 Goidelic dialects have preserved the vowels of accented syllables on the
 whole better than Brythonic. Thus Brythonic has changed Prim. Celt, a (=
@@ -359,7 +359,7 @@ Brythonic o gave =u (written u) and e became in W. ui (wy), and in Bret.
 oe (_oue_), e.g. Gaulish _Teuto-_, _Toutius_, Ir. _tuath_, "people," W.,
 Bret. _tud_; Brythonic _Leto-cetum_, Ir. _tuath_, "grey," W. _llwyd_,
 Bret, _loued_. Similarly in loan-words, Ir. _ceir_, _fial_, W. _cwyr_,
-O. Corn. _guil_, from Lat. _cera_, _velum_. Further I. E. ai, oi are
+O. [[Corn]]. _guil_, from Lat. _cera_, _velum_. Further I. E. ai, oi are
 preserved in Irish as ai (ae), oi (oe), Mod. Ir. ao, but in Welsh I. E.
 ai gave either ai or oe, whilst oi changed to _u_ (written u), Ir.
 _toeb_, "side," W., Bret. tu; I. E. _*oinos_, Ir. _oen_, "one," W.,
@@ -393,9 +393,9 @@ _septem_, O. Ir. _secht_, W. _seith_, Bret. _seiz_.
 We unfortunately know very little about the position of the stress in
 ancient Gaulish. According to Meyer-Lubke in place-names the penult was
 accented if the vowel was long, otherwise the stress lay on the
-preceding syllable, e.g. _Augustodunum_, O. Fr. _Ostedun_, now _Autun;
+preceding syllable, e.g. _Augustodunum_, O. Fr. _Ostedun_, now _[[Autun]];
 Catalaunos_ (Chalons), _Tricasses_ (Fr. Troyes), _Bituriges_ (Fr.
-Bourges). In Goidelic the stress, which is strongly expiratory, is
+[[Bourges]]). In Goidelic the stress, which is strongly expiratory, is
 always placed on the first syllable except in certain cases in verbs
 compounded with prepositional prefixes. In Old Welsh and Old Breton, on
 the other hand, the final syllable, i.e. the primitive penult, received
@@ -448,7 +448,7 @@ the verb itself.
     +--------+---------+-------+-------+-------+-------+---------+---------+
 
   2. When the word causing mutation originally ended in a nasal, we get
-  the nasal mutation called by Irish grammarians eclipse. The sounds
+  the nasal mutation called by Irish grammarians [[Eclipse|eclipse]]. The sounds
   affected are k (c), t, p; g, d, b; Prim. Celt. v (Ir. f, W. gw). In
   mod. Irish and mod. Welsh the results are tabulated below. Irish f
   becomes w written bh, whilst W. gw gives _ngw_. Examples:--Irish
@@ -502,7 +502,7 @@ been discovered in this alphabet, the majority of them hailing from the
 south-west of Ireland (Kerry and Cork). In Scotland 22 are known, whilst
 in England and Wales about 30 have turned up. Most of the latter are in
 South Wales, but odd ones have been found in North Wales, Devon and
-Cornwall, and one has occurred as far east as Hampshire. The Isle of Man
+[[Cornwall]], and one has occurred as far east as [[Hampshire]]. The Isle of Man
 also possesses two. The letters in the oldest inscriptions are formed by
 strokes or notches scored on either side of the edge of an upright
 stone. Thus we obtain the following alphabet:--
@@ -527,9 +527,9 @@ inscriptions q is still kept apart from k (c), and that the final
 syllables have not disappeared (cf. _maqqi_, O. Ir. _maicc_), but it
 appears certain that in Ogamic writing stereotyped forms were used long
 after they had disappeared in ordinary speech. Several stones contain
-bilingual inscriptions, but the key to the Ogam alphabet is supplied by
+bilingual inscriptions, but the [[Key|key]] to the Ogam alphabet is supplied by
 a treatise on Ogamic writing contained in the Book of Ballymote, a
-manuscript of the late 14th century. It should be mentioned that the
+[[Manuscript|manuscript]] of the late 14th century. It should be mentioned that the
 Welsh stones are early whilst the Scottish ones are almost without
 exception late, and several of the latter have so far defied
 interpretation. In addition to the Irish Ogams there are a number of
@@ -537,14 +537,14 @@ Christian inscriptions in Latin character, but, with one exception, they
 are not older than the 8th century.
 
   See R.R. Brash, _The Ogam Inscribed Monuments of the Gaedhil_ (London,
-  1879); R.A. Stewart Macalister, _Studies in Irish Epigraphy_ (London),
+  1879); R.A. Stewart Macalister, _Studies in Irish [[Epigraphy]]_ (London),
   vol. i. (1897), vol. ii. 1902, vol. iii. 1907. The Welsh inscriptions
   are contained in J. Rhys, _Lectures on Welsh Philology_[2] (London,
   1879). The Scottish stones have also been treated by Rhys in the
   _Proceedings of the Scottish Society of Antiquaries_ (Edinburgh,
-  1892). See also G.M. Atkinson for the tract in the Book of Ballymote,
-  _Kilkenny Journal of Archaeology_ (1874). The Irish Christian
-  inscriptions were published by Margaret Stokes as the annual volumes
+  1892). See also G.M. [[Atkinson]] for the tract in the Book of Ballymote,
+  _[[Kilkenny]] Journal of [[Archaeology]]_ (1874). The Irish Christian
+  inscriptions were published by [[Margaret]] Stokes as the annual volumes
   of the Roy. Hist, and Archaeol. Association of Ireland (1870-1877),
   and have been republished by R.A. Stewart Macalister.
 
@@ -685,11 +685,11 @@ language.
   _trinitatem_ with o for a. In others again Lat. p is represented in
   Ir. by c, which may be due to the substitution of q as being the
   nearest Irish sound to the foreign p. Thus we find Ir. _corcur_,
-  "purple," _casc_, "Easter"; _cenciges_, "Whitsuntide"; _cruimther_,
+  "purple," _casc_, "[[Easter]]"; _cenciges_, "Whitsuntide"; _cruimther_,
   "presbyter." In addition to these several loans were received from
   Norse. In the Mid. Irish period many French words came in, and during
   the middle and modern periods the number of English words introduced
-  is legion. Pedersen has tried to show in his _Vergl. Gramm._ that a
+  is [[Legion|legion]]. Pedersen has tried to show in his _Vergl. Gramm._ that a
   considerable number of words were borrowed from Brythonic (Welsh) at
   an early date.
 
@@ -699,13 +699,13 @@ language.
   English, Latin and Early French in _Revue celtique_, xii. 460 and
   xiii. 505. See also Whitley Stokes, _Bezzenberger's Beitrage_, xviii.
   56 ff. For Celtic names in Norse see W. Stokes, _Revue celtique_, iii.
-  186 ff., and W.A. Craigie, _Zeitschr. f. celt. Phil._ i. 439 ff.]
+  186 ff., and W.A. [[Craigie]], _Zeitschr. f. celt. Phil._ i. 439 ff.]
 
   With regard to the dialects of Irish, there is a well-known rhyme
   which states the peculiarities of the speech of the four provinces,
   and dialectical differences must have existed at an early period,
   though they do not make their appearance in the literary language
-  until the 18th century. At the present day the Irish of Leinster has
+  until the 18th century. At the present day the Irish of [[Leinster]] has
   vanished entirely, and we have unfortunately no records of it. But in
   the other three provinces the vernacular still lives, and we find the
   Irish of Munster, Connaught and Ulster marked off from one another by
@@ -717,10 +717,10 @@ language.
   monosyllables ending in ll, nn, m, and under certain other conditions
   a short vowel becomes a diphthong in the south, in Connaught it is
   merely lengthened, but in Ulster the original length is retained, e.g.
-  Ulster _ball_, "member, limb," Connaught _ball_, Munster _baull_.
+  Ulster _[[Ball|ball]]_, "member, limb," Connaught _ball_, Munster _baull_.
   Final dh, gh in Munster are sounded as g. In certain cases the north
   prefers the vocalic mutation where the west and south have the nasal,
-  thus notably in the dative singular after preposition and article,
+  thus notably in the [[Dative|dative]] singular after preposition and article,
   e.g. Munster-Connaught _do'n bhfear_, "to the man," Ulster _do'n
   fhear_. In the south synthetic verb-forms are employed to a much
   larger extent than in the north.
@@ -737,8 +737,8 @@ language.
   (founded 1893), which have met with considerable success, the language
   is rapidly dying of internal decay. The speakers of Irish are chiefly
   confined to the following counties, where over 20% of the population
-  speak Gaelic:--Waterford, Cork, Kerry, Clare, Galway, Mayo, Sligo,
-  Donegal. The following figures will illustrate the decay of the
+  speak Gaelic:--Waterford, Cork, Kerry, [[Clare]], Galway, Mayo, Sligo,
+  [[Donegal]]. The following figures will illustrate the decay of the
   language since the famine:--
 
     Year.     Monoglots.   Bilinguists.
@@ -778,7 +778,7 @@ language.
   year since, whilst each province and many of the counties have their
   annual local Gaelic _feis_ (festival). The literary output of the
   movement has been prodigious, consisting in the main of a number of
-  short stories and dramas (mostly propagandist), but nothing of any
+  short stories and [[Drama|dramas]] (mostly propagandist), but nothing of any
   particular merit has as yet been forthcoming. The best-known writers
   are Dr Douglas Hyde (collector of folk-stories--_Beside the Fire_,
   1890, _An Sgeulaidhe Gaedhealach_, 1895 (reprinted from vol. x. of the
@@ -803,20 +803,20 @@ language.
   Irish Paradigms_ (Dublin, 1905), _Stories from the Tain_ (Dublin,
   1908). See also various papers on the Irish verb in the _Transactions
   of the London Philological Society_ by Strachan (1895-1902); H.
-  Pedersen, _Aspirationen i Irsk_ (Copenhagen, 1898); C. Sarauw, _Irske
-  Studier_ (Copenhagen, 1901); G.J. Ascoli, _Archivio glottologico
+  Pedersen, _Aspirationen i Irsk_ ([[Copenhagen]], 1898); C. Sarauw, _Irske
+  Studier_ (Copenhagen, 1901); G.J. [[Ascoli]], _Archivio glottologico
   italiano_, vols. v. and vi. For the study of Middle Irish--E.
   Windisch, _Irische Texte mit Worterbuch_ (Leipzig, 1880). (Other
   volumes in conjunction with W. Stokes.)
 
   Editions of texts by W. Stokes, Kuno Meyer and others in the _Revue
-  celtique, Zeitschrift fur celtische Philologie, Eriu_. K. Meyer has
+  celtique, Zeitschrift [[Fur|fur]] celtische Philologie, Eriu_. K. Meyer has
   issued an exhaustive Mid. Irish glossary (A-D) as a supplement to the
   _Archiv fur celtische Lexikographie_. The remainder is being published
   under the auspices of the Royal Irish Academy. The first grammar of
   Modern Irish was published by Francis Molloy in 1677 at Rome under the
   title of _Grammatica Latino-Hibernica_. Molloy was followed by
-  Jeremiah Curtin in 1728 with a book called _Elements of the Irish
+  [[Jeremiah]] Curtin in 1728 with a book called _Elements of the Irish
   Language_. Numerous other grammars were published towards the end of
   the 18th and at the beginning of the 19th century, but few of them
   have any value. The more important of them are enumerated in the
@@ -838,8 +838,8 @@ language.
   phonetics of a Munster dialect have been investigated by R. Henebry,
   _A Contribution to the Phonology of Desi Irish_ (Greifswald, 1901).
   The dialect of the Aran Islands off the coast of Galway has been
-  described by F.N. Finck, _Die Araner Mundart_, i. _Lautlehre und
-  Grammatik_, ii. _Worterbuch_ (Marburg, 1899). G. Dottin has given an
+  described by F.N. [[Finck]], _Die Araner Mundart_, i. _Lautlehre und
+  Grammatik_, ii. _Worterbuch_ ([[Marburg]], 1899). G. Dottin has given an
   account of a dialect of North Connaught (Mayo) in the _Revue
   celtique_, xiv. pp. 97-137. A study of the speech of the north was
   published by E.C. Quiggin under the title of _A Dialect of Donegal,
@@ -859,15 +859,15 @@ language.
   latter's death in 1864. The first trustworthy dictionary of the modern
   language was published under the auspices of the Irish Texts Society
   by P.J. Dinneen (London, 1904). English-Irish dictionaries have been
-  compiled by D. Foley (Dublin, 1855); E.E. Fournier (Dublin, 1903); T.
-  O'Neill Lane (Dublin, 1904).
+  compiled by D. [[Foley]] (Dublin, 1855); E.E. [[Fournier]] (Dublin, 1903); T.
+  O'Neill [[Lane]] (Dublin, 1904).
 
 (b) _Scottish Gaelic._--Scottish Gaelic is the form of Goidelic speech
 which was introduced into Scotland by the Dalriadic Scots who came over
 from Ireland in the early centuries of our era. We possess practically
 no early monuments of the language. We have one or two inscriptions in
 Latin characters, such as that at St Vigeans and the Ogams mentioned
-above, which have not yet been solved. In the _Book of Deir_ there is a
+above, which have not yet been solved. In the _Book of [[Deir]]_ there is a
 colophon of a few lines probably written by an Irish scribe in the 9th
 century, and as the language of these lines differs in no wise from the
 Irish of the period, we do not know if they accurately represent the
@@ -877,12 +877,12 @@ centuries. The word-forms in these entries are identical with those
 current at the time in Ireland, but the historical orthography seems to
 show more signs of decay than is the case in Irish. The medieval
 Scottish MSS. in the Advocates' Library at Edinburgh are only just being
-published, but they seem either to hail from Ireland or to be written in
+published, but they seem either to [[Hail|hail]] from Ireland or to be written in
 pure Irish. The end of the 15th century brought a change. The Lordship
 of the Isles, the great bond between Ireland and Scotland, was broken
 up. The Gaels of Scotland, thrown on their own resources, advanced their
 own dialect to the position of a literary language and tried to discard
-the Irish orthography. The _Book of the Dean of Lismore_, compiled about
+the Irish orthography. The _Book of the Dean of [[Lismore]]_, compiled about
 1500, is written in a kind of phonetic orthography which has not as yet
 been sufficiently investigated. The language of those poems which are
 not directly ascribed to Irish poets, and which may therefore be
@@ -936,16 +936,16 @@ we reach the 18th century.
   preceding sound. The present (future) and past subjunctive
   (conditional, representing both the imperfect indic. and secondary
   future of Irish) supply the place of the Irish consuetudinal forms. In
-  idiom also Scottish has diverged very considerably from Irish, e.g. in
+  [[Idiom|idiom]] also Scottish has diverged very considerably from Irish, e.g. in
   the use of _tha_ (Ir. ta) for is.
 
   It seems now to be agreed that the various dialects of Scottish Gaelic
   fall into two main divisions--northern and southern. Mackinnon states
   that the boundary between the two passes roughly up the Firth of Lorne
-  to Loch Leven, then across country from Ballachulish to the Grampians.
+  to [[Loch]] Leven, then across country from Ballachulish to the [[Grampians]].
   The country covered by the northern dialect was of old the country of
-  the Northern Picts, whilst the portion of Argyllshire south of the
-  boundary line, together with Bute and Arran, made up the kingdom of
+  the Northern Picts, whilst the portion of [[Argyllshire]] south of the
+  boundary line, together with Bute and [[Arran]], made up the kingdom of
   Dalriada. The Gaelic district south of the Grampians belonged to the
   Southern Picts. The southern dialect is commonly regarded as the
   literary language. It approaches more nearly to Irish and preserves
@@ -971,25 +971,25 @@ we reach the 18th century.
   As to the southern limits of Gaelic speech in Scotland, the boundary
   between Gaelic and English in medieval times was the so-called
   Highland line, and at the War of Independence it is probable that it
-  extended to Stirling, Perth and the Ochil and Sidlaw Hills, the Inglis
+  extended to Stirling, Perth and the Ochil and Sidlaw Hills, the [[Inglis]]
   being limited to a very narrow strip along the coast. Dr J.A.H. Murray
   traced the linguistic frontier in 1869-1870 with the following
   results. The line started about 3 m. west of the town of Nairn on the
   Moray Firth and ran in a south-east direction to the Dee, 4 m. above
   Ballater. On the other side of the Dee it began 4 m. above Balmoral
   and followed the boundary of Perth and Forfar as far as Glen Shee,
-  where it went off to the south-west as far as Dunkeld. After passing
+  where it went off to the south-west as far as [[Dunkeld]]. After passing
   Birnam Hill it turned due west until the upper part of Glen Almond was
   reached, where it bent to the southward, passing through Comrie and
-  along the braes of Doune to the Teith, 3 or 4 m. below Callander.
+  along the braes of Doune to the Teith, 3 or 4 m. below [[Callander]].
   Thence it ran along the north shore of Lake Monteith to Gartmore, and
-  from there to Rowardennan on the east side of Loch Lomond. On the west
+  from there to Rowardennan on the east side of Loch [[Lomond]]. On the west
   side it passed through Glen Douglas down Loch Long and the Firth of
-  Clyde, leaving Bute and Arran to the west. At the present day this
+  [[Clyde]], leaving Bute and Arran to the west. At the present day this
   boundary has probably receded to the extent of several miles, and even
-  in 1870 there were districts such as Bute and the region round Dunoon
+  in 1870 there were districts such as Bute and the region round [[Dunoon]]
   where Gaelic was only spoken by the oldest natives and the immigrant
-  population. The language is not found in the north-east of Caithness,
+  population. The language is not found in the north-east of [[Caithness]],
   the boundary running, according to Murray, roughly from a little
   north-east of Lybster to the mouth of the Forss. Celtic was driven out
   of Shetland and Orkney by Scandinavian some time during the middle
@@ -1011,7 +1011,7 @@ we reach the 18th century.
     1901       28,106              202,700
 
   In the last-mentioned year it appears that nearly one-half of the
-  speakers of Gaelic are reported from the counties of Inverness and
+  speakers of Gaelic are reported from the counties of [[Inverness]] and
   Ross (23,893 monolinguists and 82,573 bilinguists). From about 1300 we
   find Scottish emigrants filtering into the glens of Antrim, where the
   Gaelic that is spoken is still unmistakably Scottish. There have long
@@ -1039,9 +1039,9 @@ we reach the 18th century.
   was compiled by W. Shaw (_An Analysis of the Galic Language_, 1778).
   The most useful one was that published by Alexander Stewart, _Elements
   of Gaelic Grammar_ (Edinburgh, 1801). A revised edition of this work
-  with many additions and corrections was published by H.C. Gillies,
+  with many additions and corrections was published by H.C. [[Gillie|Gillies]],
   London, 1902. This book is rather spoilt by the author's attitude, and
-  requires to be supplemented and corrected. G. Henderson and C.W.
+  requires to be supplemented and corrected. G. [[Henderson]] and C.W.
   Robertson have published important papers on the modern dialects in
   the _Zeitschrift fur celtische Philologie_, the _Celtic Review_ and
   the _Transactions of the Gaelic Society of Inverness_. The most useful
@@ -1051,9 +1051,9 @@ we reach the 18th century.
   Highland Society of Scotland (Edinburgh, 1828); R.A. Armstrong,
   _Gaelic Dictionary_ in two parts (London, 1825); N. McAlpine,
   _Pronouncing Gaelic Dictionary_ (Edinburgh, 1847) (this book gives the
-  pronunciation of Islay); Macleod and Dewar, _Gaelic and English
+  pronunciation of [[Islay]]); Macleod and [[Dewar]], _Gaelic and English
   Dictionary_ (latest edition, Edinburgh, 1901); _Faclair Gaidhlig_,
-  published by E. Macdonald, Herne Bay, appearing in parts since 1902.
+  published by E. [[Macdonald]], [[Herne Bay]], appearing in parts since 1902.
 
 (c) _Manx._--Our sources of information with regard to the language of
 the Isle of Man are even more scanty in the early period than they are
@@ -1129,12 +1129,12 @@ language:--
   (33% of the proper names are Scandinavian). The chief source of
   information about the spoken language is J. Rhys, _The Outlines of the
   Phonology of Manx Gaelic_ (London, 1895) (the book has unfortunately
-  no index and no texts). The only serious attempt to represent spoken
+  no [[Index|index]] and no texts). The only serious attempt to represent spoken
   Manx graphically is the transcription of a song by J. Strachan in the
   _Zeitschr. fur celtische Philologie_, vol. i. p. 54. The native
   grammarian is J. Kelly, who in 1803 published _A Practical Grammar of
   the Ancient Gaelic or Language of the Isle of Man, usually called
-  Manks_. This book was republished by W. Gill for the Manx Society in
+  Manks_. This book was republished by W. [[Gill]] for the Manx Society in
   1859, and a facsimile reprint of this latter was made for Quaritch,
   London, 1870. A useful little book entitled, _First Lessons in Manx_
   was published by Edwin Goodwin (Dublin, 1901). There are two
@@ -1166,15 +1166,15 @@ later. In the latter part of the 6th century the W. Saxons pushed their
 conquests as far as the estuary of the Severn, and from that time the
 Brythons of S.W. Britain were cut off from their kinsmen in Wales. Early
 in the 7th century the Brythons of Strathclyde were similarly isolated
-by the battle of Chester (613). The kingdom of Strathclyde maintained a
+by the battle of [[Chester]] (613). The kingdom of Strathclyde maintained a
 separate existence until the 10th century, and it is generally stated
 that Brythonic speech did not die out there until the 12th century. The
 question as to how far Brythonic names and words have survived in these
 districts has never been properly investigated. Certain it is that
-Brythonic numerals survived amongst shepherds in Cumberland, Westmorland
+Brythonic numerals survived amongst shepherds in [[Cumberland]], Westmorland
 and N.W. Yorkshire down to the second half of the 19th century, just as
-herrings are still counted in Manx by Manx fishermen otherwise quite
-innocent of the language. Accordingly, from the 7th century onwards
+[[Herrings|herrings]] are still counted in Manx by Manx fishermen otherwise quite
+[[Innocent|innocent]] of the language. Accordingly, from the 7th century onwards
 Brythonic became gradually limited in Great Britain to three
 districts--Strathclyde, Wales, and Cornwall and Devon. During the 7th
 century the Brythons of Wales and Strathclyde often fought side by side
@@ -1220,7 +1220,7 @@ to about 800. The middle period extends from 1100 to 1500.
   as it preserves a number of very archaic features. Other important
   sources of information for this period are the O. Welsh Laws contained
   in a MS. of the 12th century. To a somewhat later date belong the
-  Mabinogion (14th century MS.), and the prose versions of French
+  [[Mabinogion]] (14th century MS.), and the prose versions of French
   romances published by R. Williams (15th century). In Middle Welsh the
   consonant mutations are in general denoted in writing, though not
   consistently, and from this period dates the introduction of w and y
@@ -1283,15 +1283,15 @@ to about 800. The middle period extends from 1100 to 1500.
   received from Wales and he prided himself on his Welsh ancestry. A
   consequence of this was that throughout the 16th century Wales
   received exceptionally favourable treatment at the hands of the
-  English sovereign and parliament. In 1562 a decree was issued ordering
+  English sovereign and parliament. In 1562 a [[Decree|decree]] was issued ordering
   a translation of the Bible to be made into Welsh. All this could
   naturally not be without effect on the attitude of the leaders of the
   people towards England. The change is already apparent in the poems of
-  Lewis Glyn Cothi and others. And the striking difference in the manner
+  [[Lewis]] Glyn Cothi and others. And the striking difference in the manner
   in which the Reformation was regarded in Ireland and Wales is worthy
   of remark. During the Stuart wars the Welsh nobles fought invariably
   on the Royalist side, and there is plenty of other evidence that the
-  aristocracy of Wales was becoming thoroughly anglicized both in
+  [[Aristocracy|aristocracy]] of Wales was becoming thoroughly anglicized both in
   sentiment and language. At the same time the practice of the Tudors
   was reversed in many particulars. Thus it became the custom to appoint
   Englishmen ignorant of the national language to the Welsh bishoprics.
@@ -1369,15 +1369,15 @@ to about 800. The middle period extends from 1100 to 1500.
   _Preussische Jahrbucher_, vol. xcii. (1898). In elementary schools in
   Wales the use of Welsh has been permitted since 1893.
 
-  With regard to the extent over which Welsh is spoken a detailed map is
+  With regard to the extent over which Welsh is spoken a detailed [[Map|map]] is
   given in J.E. Southall's _Welsh Language Census of 1891_ (Newport,
   1895). A line drawn from the southern end of the estuary of the Dee
   about 2 m. W. of Connah's Quay to Aberthaw in Glamorgan would
   practically include all those districts where Welsh is spoken by 60%
   of the population, and considerable deductions would have to be made
   for parts of Flint, Montgomery, most of Radnor and the N. part of
-  Brecon. Little is spoken in the southern half of the Gower peninsula
-  or in S. Pembrokeshire. Over much of Anglesey 97-1/2% of the population
+  Brecon. Little is spoken in the southern half of the [[Gower]] peninsula
+  or in S. Pembrokeshire. Over much of [[Anglesey]] 97-1/2% of the population
   spoke Welsh and in parts of Cardiganshire 98.3%. Of a total population
   in 1901 of 2,012,876, 929,824 were returned as speakers of Welsh, of
   whom 280,905 were monoglots. That Welsh is a very living language may
@@ -1387,19 +1387,19 @@ to about 800. The middle period extends from 1100 to 1500.
   religious and literary monthlies and 25 weekly papers. In 1909 the
   number was probably greater. The danger for Welsh lies rather in the
   direction of internal decay. The speech of the people is saturated
-  with English words and idiom, and modern writers like Daniel Owen
+  with English words and idiom, and modern writers like [[Daniel]] Owen
   submit to the same influence instead of returning to the classical
   models of the 17th century.
 
-  Much remains to be done as regards the classification of the modern
+  Much remains to be done as regards the [[Classification|classification]] of the modern
   Welsh dialects. It is usual to divide them into four groups--(1) Powys
   (N.E.); (2) Gwynedd (N.W.); (3) Dyfed (S.W.); (4) Gwent (S.E.). One of
   the chief points on which N. and S. diverge is the pronunciation of
   the vowels i, u, y, which in the S. all tend to become i. The
   difference between N. and S. was noticeable as early as the time of
-  Giraldus Cambrensis. See M. Nettlau, _Beitrage zur cymrischen
+  [[Giraldus Cambrensis]]. See M. Nettlau, _Beitrage zur cymrischen
   Grammatik_ (Leipzig, 1887), also _Rev. celt._ ix. pp. 64 ff., 113 ff.;
-  T. Darlington, "Some Dialectal Boundaries in Mid-Wales," _Trans, of
+  T. [[Darlington]], "Some Dialectal Boundaries in Mid-Wales," _Trans, of
   the Hon. Soc. of Cymmrodorion_, 1900-1901. The only scientific
   description of a living dialect is "Spoken N. Welsh," by H. Sweet,
   _Trans, of the London Phil. Soc._, 1882-1884.
@@ -1423,7 +1423,7 @@ to about 800. The middle period extends from 1100 to 1500.
   grammar was published as long ago as 1567 in Milan by Griffiths
   Roberts, reprinted in facsimile as supplement to the _Revue celtique_
   (Paris, 1883). An account of the language was prefixed to Owen Pughe's
-  Dictionary (1803). During the 19th century many manuals of indifferent
+  Dictionary (1803). During the 19th century many [[Manuals|manuals]] of indifferent
   value saw the light of day. The most authoritative works are:--T.
   Rowland, _A Grammar of the Welsh Language_ (Wrexham, 1853^1, 1876^4),
   (still the most complete work), the same author also published a
@@ -1452,7 +1452,7 @@ to about 800. The middle period extends from 1100 to 1500.
 
 (b) _Breton_.--Breton (_Brezonek_) is the name given to the language
 spoken by those Britons who fled from the south-west of England to
-Armorica (see BRITTANY) in the 5th and 6th centuries of our era to avoid
+[[Armorica]] (see BRITTANY) in the 5th and 6th centuries of our era to avoid
 being harassed by the Saxons. The first migration probably took place
 about 450. The Dumnonii and Cornovii founded small states in Brittany,
 or Britannia Minor, as it was termed, and were followed in the second
@@ -1482,7 +1482,7 @@ _Histoire de la Bretagne^2_, vol. i., 1905).
   _-euc_ and later -ec, but in Welsh _-auc_ and later -oc, -og.
   Postvocalic -tr, -tl become -dr, -dl as in Welsh, but in Middle Breton
   they pass into -zr, -zl, which in the modern language appear as _-er,
-  -el; e.g._ Mid. Br. _lazr_, Mod. Br. _laer_, "robber," W. _lleidr_,
+  -el; e.g._ Mid. Br. _lazr_, Mod. Br. _[[Laer|laer]]_, "robber," W. _lleidr_,
   Lat. _latro_. Further, -lt becomes -ot, -ut, e.g. Br. _aot_, _aout_,
   "cliff," W. _allt_; Br. _autrou_, "lord," Ir. _altram_, W. _alltraw_,
   _athraw_, Corn. _altrou_; and, more important still, th, [+a] (W. dd)
@@ -1490,7 +1490,7 @@ _Histoire de la Bretagne^2_, vol. i., 1905).
   _cleddyf_. The orthography only followed the pronunciation very
   slowly, and it is not until 1659 that we find any attempt made to
   reform the spelling. In this year a Jesuit priest, Julien Maunoir (Br.
-  Maner), published a manual in which a new spelling is employed, and it
+  Maner), published a [[Manual|manual]] in which a new spelling is employed, and it
   is usual to date Modern Breton from the appearance of this book,
   although in reality it marks no new epoch in the history of the
   language. It is only now that the initial mutations are consistently
@@ -1520,13 +1520,13 @@ _Histoire de la Bretagne^2_, vol. i., 1905).
   in the other nil, e.g. Br. _erc'h_, "snow," W. _eiry_, _eira_; Br.
   _lec'h_, "place," W. _lle_. In Welsh mb, nd immediately preceding the
   stress appear in the modern language as mm, nn but in Breton we find
-  mp, nl, e.g. Br. _kantol_, "candle," W. _cannwyll_, Lat. _candela_;
+  mp, nl, e.g. Br. _kantol_, "[[Candle|candle]]," W. _cannwyll_, Lat. _candela_;
   Br. _kemper_, "confluence" (in place names), W. _cymmer_, Ir.
   _combor_.
 
   With regard to the extent of country over which Breton is spoken we
   shall do well to note the seats of the old Breton bishoprics. These
-  were Quimper, St Pol de Leon, Treguier, St Brieuc, St Malo, Dol and
+  were Quimper, St Pol de [[Leon]], Treguier, St Brieuc, St Malo, [[Dol]] and
   Vannes. Under Count Nominoe the Bretons succeeded in throwing off the
   Frankish yoke (841-845) and founded an independent state. At this time
   of greatest political expansion the language boundary was formed by a
@@ -1660,7 +1660,7 @@ _Histoire de la Bretagne^2_, vol. i., 1905).
   by de la Villemarque and representing the Leon dialect; A. Troude,
   _Nouveau Dictionnaire pratique francais et breton du dialecte de Leon
   avec les acceptations diverses dans les dialectes de Vannes, de
-  Treguier, et de Cornouailles_ (Brest, 1869), and _Nouveau Dictionnaire
+  Treguier, et de Cornouailles_ ([[Brest]], 1869), and _Nouveau Dictionnaire
   pratique breton-francais_ (Brest, 1876); E. Ernault, "Supplement aux
   dictionnaires bretons-francais," _Revue celtique_, iv. 145-170. The
   Breton words in Gallo, the French patois of Upper Brittany, were
@@ -1671,9 +1671,9 @@ stood in a much closer relation to Breton than to Welsh,[1] though in
 some respects it sides with the latter against the former.
 
   It agrees with Breton on the following points:--It has given up the
-  nasal mutation of initials but provects the mediae. Prim. Celt. a is
+  nasal mutation of [[Initials|initials]] but provects the mediae. Prim. Celt. a is
   not diphthongized, but becomes e, e.g. Corn, _ler_, "floor," Br.
-  _leur_, W. _llawr_, Ir. _lar_. _Ng_ is lost as in Breton, e.g. _toy_,
+  _leur_, W. _llawr_, Ir. _[[Lar|lar]]_. _Ng_ is lost as in Breton, e.g. _toy_,
   "to swear," Br. _toui_, W. _tyngu_, Ir. _tongu_; nd becomes nt before
   the stress and not nn as in Welsh, e.g. Corn. Br. _hanter_, "half," W.
   _hanner_. Cornish like Breton does not prefix a vowel to words
@@ -1704,7 +1704,7 @@ some respects it sides with the latter against the former.
   John Ray that few of the children could speak it. Lhuyd gives a list
   of the parishes in which Cornish was spoken, but goes on to state that
   every one speaks English. In 1735 there were only a few people along
-  the coast between Penzance and Land's End who understood Cornish, and
+  the coast between Penzance and [[Land'S End|Land's End]] who understood Cornish, and
   Dolly Pentreath of Mousehole, who died in 1777, is commonly stated to
   have been the last person who spoke it, though Jenner seems to show
   that there were others who lived until well into the 19th century who
@@ -1712,7 +1712,7 @@ some respects it sides with the latter against the former.
   speech of West Cornwall is full of Celtic words, and nine-tenths of
   the places and people from the Tamar to Land's End bear Cornish names.
   Celtic words still in use are to be found in Jago's _Dialect of
-  Cornwall_ (Truro, 1882); thus the name for the dog-fish is _morgy_,
+  Cornwall_ (Truro, 1882); thus the name for the [[Dog-Fish|dog-fish]] is _morgy_,
   "sea-dog."
 
   AUTHORITIES FOR CORNISH.--A mass of details about Cornish is collected
@@ -1745,7 +1745,7 @@ Columba's time we find the whole of Scotland east of Drumalban and north
 of the Forth divided into two kingdoms--north and south Pictland--and it
 is reasonable to identify the Picts, at any rate in part, with the
 Caledonians of the classical authors. Galloway and Co. Down were also
-inhabited by Picts. Bede in enumerating the languages of Britain
+inhabited by Picts. [[Bede]] in enumerating the languages of Britain
 mentions those of the Britons, Picts, Scots and the English. The names
 by which the Picts are known in history have aroused considerable
 discussion. It seems natural to connect Lat. _Picti_ with the _Pictones_
@@ -1799,7 +1799,7 @@ supplanted by Gaelic.
   nan Gleann_ (Inverness, 1898); W.F. Skene, _Celtic Scotland_
   (Edinburgh, 1876); A. Macbain in appendix to reprint of Skene's
   _Highlanders of Scotland_ (Stirling, 1902); A. Macbain, "Ptolemy's
-  Geography of Scotland," in _Transactions of the Gaelic Society of
+  [[Geography]] of Scotland," in _Transactions of the Gaelic Society of
   Inverness_, xviii. 267-288; W. Stokes, _Bezzenbergers Beitrage_,
   xviii. 267 ff.; H. d'Arbois de Jubainville, _Les Druides et les dieux
   celtiques a forme d'animaux_ (Paris, 1906). The various theories have
@@ -1815,7 +1815,7 @@ this scholar seems to have remained unnoticed. A century later Adelung
 in Germany divided the dialects into true Celtic (= Goidelic) and Celtic
 influenced by Teutonic (= Brythonic). But it took scholars a long time
 to recognize that these languages belonged to the Indo-European family.
-Thus they were excluded by Bopp in his comparative grammar, though he
+Thus they were excluded by [[Bopp]] in his comparative grammar, though he
 did not fail to notice certain resemblances between Celtic and Sanskrit.
 James Pritchard was the first to demonstrate the true relationship of
 the group in his _Eastern Origin of the Celtic Nations_ (London, 1831),
@@ -1826,18 +1826,18 @@ charmed circle, showing in an able paper entitled _Uber die keltischen
 Sprachen_ that the initial mutations were due to the influence of
 terminations now lost. But it was reserved to a Bavarian historian, J.C.
 Zeuss (1806-1856), to demonstrate conclusively the Indo-European origin
-of the Celtic dialects. Zeuss, who may worthily rank with Grimm and Diez
+of the Celtic dialects. Zeuss, who may worthily rank with Grimm and [[Diez]]
 among the greatest German philologists, rediscovered the Old Irish
 glosses on the continent, and on them he reared the magnificent
 structure which goes by his name. The _Grammatica Celtica_ was first
 published in 1853. The material contained in this monumental work was
 greatly extended by a series of important publications by Whitley Stokes
-and Hermann Ebel, so much so that the latter was commissioned to prepare
+and [[Hermann]] Ebel, so much so that the latter was commissioned to prepare
 a second edition, which appeared in 1871. Stokes has rendered the
 greatest service to the cause of Celtic studies by the publication of
 countless texts in Irish, Cornish and Breton. In 1870 the _Revue
 celtique_ (vol. xxviii. in 1908) was founded by Henri Gaidoz, whose
-mantle later fell upon H. d'Arbois de Jubainville. In 1879 E. Windisch
+[[Mantle|mantle]] later fell upon H. d'Arbois de Jubainville. In 1879 E. Windisch
 facilitated the study of Irish by publishing a grammar of Old Irish, and
 a year later a volume of important Middle Irish texts with an exhaustive
 glossary, the first of its kind. Since then Windisch and Stokes have
@@ -1849,7 +1849,7 @@ of the laws of the Irish accent made simultaneously by Zimmer and
 Thurneysen. This discovery led to a thorough investigation of the
 difficult verb system of Old Irish--a task which has largely occupied
 the attention of Strachan in England, Thurneysen and Zimmer in Germany,
-and Pedersen and Sarauw in Denmark. In a sense the publication of the
+and Pedersen and Sarauw in [[Denmark]]. In a sense the publication of the
 _Thesaurus Palaeohibernicus_ (Cambridge, 1901-1903) may be regarded as
 marking the close of this epoch. The older stages of Irish have hitherto
 so monopolized the energies of scholars that other departments of Celtic
@@ -1906,7 +1906,7 @@ south of Ireland who received his knowledge of the Roman letters from
 traders from the mouth of the Loire. It may, however, be regarded as
 certain that the Ogam script was never employed in early times for
 literary purposes. We are told that the Gaulish druids disdained to
-commit their lore to writing, although they were familiar with the use
+commit their [[Lore|lore]] to writing, although they were familiar with the use
 of Greek letters, and their Irish confreres probably resembled them in
 this respect. Tradition connects the codification of the Brehon Laws
 with the name of Patrick, and there is reason for believing, as we shall
@@ -1933,17 +1933,17 @@ European literature and fall outside the scope of this article. For the
 _Confession of St Patrick_ and his "Letter to the Subjects of Coroticus"
 see PATRICK. The only Irish document ascribed to the saint is the
 strange so-called "Hymn," the _faeth fiada_, more properly _foid fiada_,
-"the cry of the deer." This is a rhythmical incantation which is said to
+"the cry of the deer." This is a rhythmical [[Incantation|incantation]] which is said to
 have rendered the saint and his companions invisible to King Loigaire
 and his druids. The Trinity and powers of nature are invoked to help him
 to resist spells of women and smiths and wizards. The hymn, which
 contains a number of strange grammatical forms, is undoubtedly referred
-to in the Book of Armagh, and may very well go back to the 5th century.
+to in the Book of [[Armagh]], and may very well go back to the 5th century.
 The Latin hymns contained in two MSS. dating from the end of the 11th or
 beginning of the 12th century, a Trinity College, Dublin, MS., and a MS.
 belonging to the Franciscan monastery in Dublin, are of interest to us
 as exhibiting the influence of the native metrical system. Quantity and
-elision are ignored, and rhymes, assonances, alliterations and harmonies
+elision are ignored, and rhymes, [[Assonance|assonances]], alliterations and harmonies
 abound in true Irish fashion. The line consists of two units which
 commonly contain either seven or eight syllables apiece. The earliest
 and best-known of these religious poems are the Hymn of Secundinus
@@ -1960,15 +1960,15 @@ written. The beat is iambic, but the natural accent of the words is
 rigidly observed. The long line consists of two units of five syllables
 each. The rhymes are dissyllabic and perfect. Alliteration is always
 observed in the latter half of each line and assonances are found
-knitting up the half-lines. The short prayer ascribed to Ninine or to
+[[Knitting|knitting]] up the half-lines. The short prayer ascribed to Ninine or to
 Fiacc is a highly alliterative piece without rhyme, the date of which
 cannot be fixed. The well-known hymn on St Patrick traditionally
 ascribed to Fiacc, bishop of Sletty, and the piece beginning "_Sen De_,"
-traditionally ascribed to Colman, are assigned on linguistic grounds to
+traditionally ascribed to [[Colman]], are assigned on linguistic grounds to
 the beginning of the 9th century. The lines going by the name of
 "Sanctan's Hymn" probably belong to the same century, whilst the
-metrical catalogue of marvels performed by St Brigit contains such a
-medley of older and later forms, probably due to interpolation, that it
+metrical [[Catalogue|catalogue]] of marvels performed by St Brigit contains such a
+medley of older and later forms, probably due to [[Interpolation|interpolation]], that it
 is impossible to determine its age. The few lines entitled "Mael-Isu's
 Hymn" are the most recent of all and probably belong to the 11th century
 (Mael-Isu d. 1086). The Patrician documents by Muirchu Maccu Machtheni,
@@ -1995,12 +1995,12 @@ a 10th or 11th century MS. Of especial interest are the spells and poems
 found in the Stowe Missal and two continental MSS. The Stowe MS. (now
 deposited in the Royal Irish Academy) contains three rather badly
 preserved spells for a sore eye, a thorn and disease of the urine. A St
-Gall codex has preserved four Irish incantations of the 8th and 9th
+[[Gall]] codex has preserved four Irish incantations of the 8th and 9th
 centuries. These are respectively against a thorn, urinary disease,
-headache and various ailments. Another charm, which is partly obscure,
+headache and various ailments. Another [[Charm|charm]], which is partly obscure,
 occurs in the 9th-century codex preserved at the monastery of St Paul in
 Carinthia. The same MS. also contains (1) a humorous poem treating of
-the doings of a bookish writer and his favourite cat Pangur Ban; (2) a
+the doings of a bookish writer and his favourite cat Pangur [[Ban]]; (2) a
 riddling poem ascribed to Suibne Geilt, a king who is said to have lost
 his reason at the battle of Moira (A.D. 637); (3) verses extracted from
 a poem ascribed to St Moling (d. 697), who may very well have been the
@@ -2018,7 +2018,7 @@ Palaeohibernicus_, in which all the various glosses have been collected.
 For our purpose it will be sufficient to mention the three most
 important codices containing Old Irish glosses. These are as
 follows:--(1) The Codex Paulinus at Wurzburg, which contains the
-thirteen epistles of St Paul, and the Epistle to the Hebrews, with a
+thirteen [[Epistle|epistles]] of St Paul, and the Epistle to the Hebrews, with a
 great mass of explanatory glosses, partly in Latin, partly in Irish,
 partly mixed. The chief source of the commentary is the commentary of
 Pelagius, who is often cited by name. The date of this highly important
@@ -2050,7 +2050,7 @@ English translation, the first time for the Royal Irish Academy (Dublin,
 1880), and again for the Bradshaw Society (London, 1905).
 
 It may perhaps be as well to enumerate here the later Irish
-martyrologies. (1) The _Martyrology of Tallaght_ (Tamlacht), founded on
+martyrologies. (1) The _[[Martyrology]] of Tallaght_ (Tamlacht), founded on
 an 8th-century calendar, but containing additions down to 900 (ed. D.H.
 Kelly, Dublin, 1857). (2) The metrical _Martyrology of O'Gorman_, c.
 1166-1174, edited by Stokes for the Bradshaw Society (London, 1895). (3)
@@ -2063,7 +2063,7 @@ _Saltair na Rann_ or Psalter in Quatrains, contained in an Oxford MS.
 of Psalms in the psalter, but 12 poems have been added, and in all it
 contains 2098 quatrains, chiefly in _deibide_ metre of seven syllables.
 The poems are mainly based on biblical (Old Testament) history, but they
-preserve a large measure of medieval sacred lore and cosmogony. The
+preserve a large measure of medieval sacred lore and [[Cosmogony|cosmogony]]. The
 psalter received additions as late as 998, and the Oxford MS. belongs to
 the 12th century. We should perhaps also mention here the famous _Amra_
 or Eulogy of St Columba, commonly attributed to Dallan Forgaill, a
@@ -2106,7 +2106,7 @@ form or another, but mainly in a series of huge miscellaneous codices
 ranging in date from the 12th to the 16th century. The oldest is _Lebor
 na h-uidre_, or Book of the Dun Cow, preserved in the Royal Irish
 Academy and published in facsimile (Dublin, 1870). This MS. was compiled
-in part in the monastery of Clonmacnoise by Moelmuire MacCelechair, who
+in part in the monastery of [[Clonmacnoise]] by Moelmuire MacCelechair, who
 was slain in 1106. The Book of the Dun Cow (where necessary we shall
 abbreviate as LU.) derives its name from a legend that Ciaran of
 Clonmacnoise (d. 544) took down the story of the _Tain Bo Cualnge_ on a
@@ -2115,7 +2115,7 @@ have been wrongly applied to the 12th-century MS. in the 15th century.
 LU. is almost entirely devoted to romance, the stories which it contains
 belonging mainly to the Ulster cycle. The next MS. in point of age is
 the Book of Leinster (abbreviated LL.) now in Trinity College, Dublin.
-It was transcribed by Finn, son of Gorman, bishop of Kildare (d. 1160).
+It was transcribed by Finn, son of Gorman, bishop of [[Kildare]] (d. 1160).
 LL. also contains a large number of romances in addition to other
 important matter, mainly historical and genealogical, bearing more
 particularly on the affairs of Leinster. The Yellow Book of Lecan
@@ -2137,7 +2137,7 @@ ecclesiastical and religious. LB. seems to have been compiled in large
 measure before 1544. All these five codices have been published in
 facsimile by the Royal Irish Academy with a description of their
 contents. Two important Mid. Ir. MSS. in the Bodleian (Rawlinson B 512
-and Laud 610), containing a good deal of romantic material, are also
+and [[Laud]] 610), containing a good deal of romantic material, are also
 published in facsimile by Henry Frowde.
 
 
@@ -2146,13 +2146,13 @@ published in facsimile by Henry Frowde.
 Other MSS. which require special mention are (1) The Great Book of
 Lecan, compiled in the year 1417 by Gilla Isa Mor MacFirbis, in the
 Royal Irish Academy; (2) The Book of Lismore, the property of the duke
-of Devonshire at Lismore Castle. This codex was compiled in the latter
+of [[Devonshire]] at Lismore Castle. This codex was compiled in the latter
 half of the 15th century from the lost book of Monasterboice and other
 MSS. Its contents are described in the introduction to Stokes's _Lives
 of Saints from the Book of Lismore_ (Oxford, 1890). (3) The Book of
-Fermoy in the Royal Irish Academy. The contents are described in the
+[[Fermoy]] in the Royal Irish Academy. The contents are described in the
 introduction to O'Beirne Crowe's edition of the _Tain Bo Fraich_
-(Dublin, 1870). (4) The Book of Hy Maine recently acquired by the Royal
+(Dublin, 1870). (4) The Book of Hy [[Maine]] recently acquired by the Royal
 Irish Academy. The scribe who wrote it died in 1372. O'Curry, O'Longan
 and O'Beirne Crowe drew up a MS. catalogue of the Irish MSS. in the
 Royal Irish Academy, and O'Donovan performed the same service for the
@@ -2215,7 +2215,7 @@ literary man in Ireland. The _fili_ (from the stem _vel-_, "to see,"
 Welsh, Breton, _gwelet_, "to see") appears to have been originally a
 diviner and magician, and corresponds to the _vates_, [Greek: ouateis],
 of the ancient Gauls mentioned by classical writers. In Ireland he is
-represented as sole possessor of three methods of divination: the _imbas
+represented as sole possessor of three methods of [[Divination|divination]]: the _imbas
 forosnai_, _teinm loida_ and _dichetal di chennaib cnaime_. The first
 two of these were forbidden by Patrick, but they seem to have survived
 as late as the 10th century. Part of the tremendous influence exercised
@@ -2238,7 +2238,7 @@ social status of the literary man was very carefully defined. The
 degrees vary slightly in different documents, but the following list of
 ten from the _Senchus Mor_ is very instructive: (1) The highest degree
 is the _ollam_ (ollave), who knows 350 stories; (2) the _anruth_, 175
-stories; (3) the _clii_, 80 stories; (4) the _cana_, 60 stories; (5) the
+stories; (3) the _clii_, 80 stories; (4) the _[[Cana|cana]]_, 60 stories; (5) the
 _doss_, 50 stories; (6) the _macfuirmid_, 40 stories; (7) the
 _fochlocon_, 30 stories; (8) the _drisac_, 20 stories; (9) the _taman_,
 10 stories; (10) the _oblaire_, 7 stories. In LL. we are told that the
@@ -2344,7 +2344,7 @@ The Ulster cycle may be regarded as Ireland's most important
 contribution to the world's literature. The chief and at the same time
 the lengthiest romance in which the heroes of this group figure is the
 great epic, the _Tain Bo Cualnge_ or the Cattle-raid of Cooley (Co.
-Louth). Here we find ourselves in a world of barbaric splendour, and we
+[[Louth]]). Here we find ourselves in a world of barbaric splendour, and we
 are constantly reminded of the Iliad, though the Irish epic from a
 purely literary point of view cannot bear comparison with the work of
 Homer. The main actors in the drama are Conchobar, king of Ulster, the
@@ -2359,12 +2359,12 @@ conduct themselves in the same manner as the Gauls described by the
 Greek traveller Posidonius, and Prof. W. Ridgeway has shown recently
 that several articles of dress and armour correspond exactly to the La
 Tene types of the continent. To mention a few primitive traits among
-many--the Irish champions of the _Tain_ still fight in chariots,
+many--the Irish [[Champion|champions]] of the _Tain_ still fight in chariots,
 war-dogs are employed, whilst the heads of the slain are carried off in
 triumph and slung round the necks of the horses. It may also be
 mentioned that Emain Macha, Conchobar's residence, is reported by the
 annalists to have been destroyed in A.D. 323, and that portions of
-Meath, which is stated to have been made into a separate province in the
+[[Meath]], which is stated to have been made into a separate province in the
 2nd century A.D., are in the _Tain_ regarded as forming part of Ulster.
 Noteworthy is the exalted position occupied by the druid in the Ulster
 sagas, showing how little the romances were influenced by Christianity.
@@ -2377,13 +2377,13 @@ were an event of daily occurrence, and Sir Walter Scott has made us
 familiar with similar expeditions on the part of the Scottish
 Highlanders in the 18th century. Hence it is not a matter for surprise
 that the theme of the greatest Irish epic is a cattle-raid. At the time
-there were two wonderful bulls in Ireland, the Bond or Brown Bull of
+there were two wonderful [[Bull|bulls]] in Ireland, the Bond or Brown Bull of
 Cualnge, and the Findbennach or White-horn, belonging to Medb. These two
 animals are of no ordinary nature. Other stories represent them as
 having existed under many different forms before they were reborn as
 bulls. First they appear as swineherds belonging to the supernatural
 people of the _sid_ of fairy mounds; then they are metamorphosed
-successively as ravens, warriors, sea-monsters and insects. It was Queen
+successively as ravens, warriors, sea-monsters and [[Insect|insects]]. It was Queen
 Medb's ambition to gain possession of the Brown Bull of Cualnge, and for
 this purpose she collected the united hosts of Ireland to raid the
 province of Ulster and carry him off. Medb chooses the season when she
@@ -2392,8 +2392,8 @@ upon them by a fairy woman. Cuchulinn alone is exempt from this
 debility.
 
 The story is divided into a number of sections, and has been summarized
-by Miss Hull as follows:--(1) the prologue, relating, in the form of a
-night dialogue between Ailill and Medb, the dispute between them which
+by Miss [[Hull]] as follows:--(1) the prologue, relating, in the form of a
+night [[Dialogue|dialogue]] between Ailill and Medb, the dispute between them which
 brought about the raid; (2) the collecting of Medb's hosts and the
 preliminary movements of the army, during which period she first became
 aware of the presence and powers of Cuchulinn. Her inquiry of Fergus as
@@ -2408,8 +2408,8 @@ Cuchulinn with his old companion, Fer Diad. This section contains the
 account of Cuchulinn's "distortion" or frenzy, which always occurred
 before any great output of the hero's energy, and of the rout of the
 hosts of Medb which followed it. (5) The general awakening of the
-warriors of Ulster from their lethargy, and their gathering by septs
-upon the Hill of Slane, clan by clan being described as it comes up in
+warriors of Ulster from their [[Lethargy|lethargy]], and their gathering by septs
+upon the Hill of Slane, [[Clan|clan]] by clan being described as it comes up in
 order. (6) The final Battle of Gairech and Ilgairech, followed (7) by
 the rout of Medb's army and (8) the tragic death of the bulls.
 
@@ -2417,7 +2417,7 @@ The text of the _Tain_ has come down to us as a whole or in part in
 nearly a score of MSS., most of which, however, are modern. The most
 important MSS. containing the story are LU., LL. and YBL. Of these LU.
 and YBL. are substantially the same, whilst LL. contains a longer and
-fuller text later in both style and language. LL. attempts to give a
+[[Fuller|fuller]] text later in both style and language. LL. attempts to give a
 complete and consistent narrative in more polished form. In ancient
 times there were doubtless other versions now lost, but from the middle
 of the 12th century the scribes seem to have taken few liberties with
@@ -2436,7 +2436,7 @@ mist and dictated the whole story to him in three days and three nights.
 At this point it will be well to say a few words about the form of the
 _Tain_. The old Irish epic is invariably in prose with poems of varying
 length interspersed. The narrative and descriptive portions are in prose
-and are frequently followed by a brief epitome in verse. Dialogues,
+and are frequently followed by a brief [[Epitome|epitome]] in verse. Dialogues,
 eulogies and laments also appear in metrical form. The oldest poems,
 termed rhetoric, which are best represented in LU., seem to be
 declamatory passages in rhythmical prose, not unlike the poetical
@@ -2458,7 +2458,7 @@ the 11th century certain portions of the theme possessing great human
 interest were vastly extended, new poems were added, and in this manner
 such episodes come to form sagas complete in themselves. The most
 notable instance of this is the "Fight with Fer Diad," which is not
-contained in LU. The genesis of the _Tain_ may thus be briefly
+contained in LU. The [[Genesis|genesis]] of the _Tain_ may thus be briefly
 summarized as follows. The story was first committed to writing in the
 7th or 8th century, after which it was worked up by the _filid_.
 Extended versions existing in the 10th or 11th century form the basis of
@@ -2470,7 +2470,7 @@ influence are to be observed. A number of Latin and Norse loan-words
 occur in them, and there can be little doubt that the monkish scribes
 consciously thrust the supernatural element into the background.
 However, although figures of Vikings are unmistakable in a few cases,
-and in one story Cuchulinn is made to fight with Hercules, such foreign
+and in one story Cuchulinn is made to fight with [[Hercules]], such foreign
 elements can easily be detected in the older tales. They only affect
 minor details, and do not influence the body of the romances.
 
@@ -2482,10 +2482,10 @@ is limited by its form. We must now say a few words about the character
 and style of these romances. As already stated, the atmosphere is
 frankly pagan and barbaric, with none of that courtly element which we
 find in the Arthurian epics. The two features which strike one most
-forcibly in the medieval Irish romances are dramatic force and humour.
+forcibly in the medieval Irish romances are dramatic force and [[Humour|humour]].
 The unexpected and weird is always happening, the effect of which is
 considerably heightened by the grim nature of the actors. In particular
-the dialogues are remarkably brilliant and clever, and it is a matter
+the dialogues are remarkably brilliant and [[Clever|clever]], and it is a matter
 for surprise that this gifted race never developed a drama of its own.
 This is doubtless partly due to the political conditions of the island.
 And, moreover, we are constantly struck by the lack of sustained effort
@@ -2495,7 +2495,7 @@ never been utilized. As one might expect from the vernacular literature
 of Ireland, these romances are pervaded by a keen sense of humour. We
 feel that the story-teller is continually expecting a laugh and he
 exaggerates in true Irish fashion, so that the stories are full of
-extravagantly grotesque passages. In the later LL. version we notice a
+extravagantly [[Grotesque|grotesque]] passages. In the later LL. version we notice a
 tendency to linger over pathetic situations, but this is unknown in the
 earlier stage. Perhaps the most serious defect of all Irish literary
 products is the lack of any sense of proportion, which naturally goes
@@ -2518,7 +2518,7 @@ introductory stories to the _Tain_. Such are the "Revealing of the Tain"
 of the curse), "The Cattle-Driving of Regamon, Dartaid and Flidais,"
 "_Tain bo Regamna_," "The Cattle-Driving of Fraech," "The Dispute of the
 Swineherds," telling the previous history of the Bulls, "The Capture of
-the Fairy Mound," "The Dream of Mac oc," the "Adventures of Nera," the
+the Fairy Mound," "The [[Dream]] of Mac oc," the "Adventures of Nera," the
 "Wooing of Ferb." Other stories form a kind of continuation of the
 _Tain_. Thus the "Battle of Rosnaree" ("_Cath Ruis na Rig_") relates how
 Conchobar, as a result of the loss of the Bull, sends an army against
@@ -2535,13 +2535,13 @@ of Cuchulinn," "The Glories of Conchobar's Reign," with an account of
 how he acquired the Throne from Fergus, "The Wooing of Emer and the
 Hero's Education in Scotland under Scathach," "The Siege of Howth,"
 "Bricriu's Feast and the Exile of the Sons of Doel Dermait," "The Battle
-of the Boyne" (_Eriu_, vol. ii.), "The Deaths of Ailill, Medb and Conall
+of the [[Boyne]]" (_Eriu_, vol. ii.), "The Deaths of Ailill, Medb and Conall
 Cernach," "Destruction of Bruden Da Choca," "The Tragical Death of
 Conlaech at the hands of Cuchulinn his father," "The Deaths of Goll and
 Garbh," "The Sickbed of Cuchulinn," in which the hero is lured away for
 a time into the invisible land by a fairy, Fand, wife of Manandan, "The
-Intoxication of the Ultonians," telling of a wild raid by night across
-the entire extent of the island from Dun-da-Benn near Coleraine to the
+[[Intoxication]] of the Ultonians," telling of a wild raid by night across
+the entire extent of the island from Dun-da-Benn near [[Coleraine]] to the
 fort of Curoi MacDaire at Temair-Luachra in Kerry, "The Death of
 Conchobar," "The Phantom Chariot of Cuchulinn," in which the hero is
 brought up from the grave to witness before St Patrick and King Loigaire
@@ -2550,7 +2550,7 @@ to the truth of the Christian doctrine.
 Four other stories in connexion with the Ulster cycle remain to be
 mentioned. The first is "_Scel mucci Maic Datho_" ("The Story of
 MacDatho's Pig"). Various writers of antiquity inform us that at the
-feasts of the Gauls the champion received the best portion of meat,
+feasts of the Gauls the champion received the best portion of [[Meat|meat]],
 which frequently led to brawls. In this savage but picturesque Irish
 story we find the Ulstermen vaunting their achievements against the
 Connaughtmen, until at last the contest lies between Conall Cernach and
@@ -2571,7 +2571,7 @@ adventures in which the powers of the three champions are tested,
 Cuchulinn always proving his superiority. In order to decide the
 dispute, visits are paid to Medb at Rath Cruachan and to Curoi in Kerry,
 and the story ends with the "beheading incident," which occurs in the
-romance of "Sir Gawayne and the Green Knight." _Fled Bricrend_ presents
+romance of "Sir Gawayne and the Green [[Knight]]." _Fled Bricrend_ presents
 a number of textual difficulties. The text of the oldest MS. (LU.) shows
 signs of contamination, and several versions of the story seem to have
 been current.
@@ -2611,16 +2611,16 @@ certain bearing on the Cuchulinn cycle, is the "Courtship of Etain,"
 who, though of supernatural (_sid_) birth, is wedded to Eochaid Airem, a
 mortal king. In her previous existence she was the wife of the
 supernatural personage Midir of Bri-leith, who wins back Etain from her
-mortal husband in a game of chess and carries her off to his fairy
+mortal husband in a [[Game|game]] of chess and carries her off to his fairy
 mound.
 
 For sake of completeness we may add the titles of two other well-known
 stories here. The one is the "Story of Baile the Sweet-spoken," which
 tells of the deaths of two lovers for grief at the false tidings of each
-other's death. The other is the "Fate of the Children of Lir," the third
+other's death. The other is the "[[Fate]] of the Children of Lir," the third
 of the "Three Sorrows of Story-telling," which is only known in a modern
 dress. It relates how the four daughters of Lir (father of the sea-god
-Manandan and the original of Shakespeare's Lear) were changed into swans
+Manandan and the original of Shakespeare's [[Lear]]) were changed into swans
 by a cruel stepmother, and how, after 900 years of wandering on the
 ocean, they at length regain their human form through the
 instrumentality of St Mochaomhog.
@@ -2641,7 +2641,7 @@ have given Swift the idea of his _Gulliver's Travels to Lilliput_.
 supposed to have taken place before the Christian era.
 
 The most important Old Irish saga after the _Tain_ is beyond doubt the
-_Destruction of Da Derga's Hostel_, contained in LU. It deals with
+_Destruction of Da Derga's [[Hostel]]_, contained in LU. It deals with
 events in the reign of the High-King Conaire Mor, who is said by the
 annalists to have been slain in 43 B.C. after a reign of seventy years.
 Conaire, who was a descendant of the Etain mentioned above, was a just
@@ -2669,7 +2669,7 @@ Noigiallach" (4th century), "Death of Crimthann" (reigned 366-378),
 who became the wife of Diarmait, son of Aed Slane" (reigned 657-664),
 "Battle of Mag Rath" (637), "Battle of Carn Conaill" (c. 648), "Death of
 Maelfothartaig MacRonain" (7th century), who was a kind of Irish
-Hippolytus, "Battle of Allen" (722).
+[[Hippolytus]], "Battle of Allen" (722).
 
 It will be well to deal here with another class of story in its various
 stages of development. We have seen that in the older romances there is
@@ -2678,7 +2678,7 @@ are represented as either inhabiting the _sid_ mounds or as dwelling in
 islands out in the ocean, which are pictured as abodes of bliss and
 variously called _Mag Mell_ (Plain of Delight), _Tir na n-Oc_ (Land of
 Youth) and _Tir Tairngiri_ (Land of Promise). The visits of mortals to
-the Irish Elysium form the subject of three romances which we must now
+the Irish [[Elysium]] form the subject of three romances which we must now
 examine. The whole question has been exhaustively dealt with by Kuno
 Meyer and Alfred Nutt in the _Voyage of Bran_ (London, 1895-1897).
 Condla Caem, son of Conn Cetchathach, was one day seated by his father
@@ -2686,7 +2686,7 @@ on the hill of Usnech, when he saw a lady in strange attire approaching
 invisible to all but himself. She describes herself, as coming from the
 "land of the living," a place of eternal delight, and invites the prince
 to return with her. Conn invokes the assistance of his druid to drive
-away the strange visitor, who in parting throws an apple to Condla. The
+away the strange visitor, who in parting throws an [[Apple|apple]] to Condla. The
 young man partakes of no food save his apple, which does not diminish,
 and he is consumed with longing. At the end of a month the fairy-maiden
 again makes her appearance. Condla can hold out no longer. He jumps into
@@ -2698,7 +2698,7 @@ with this difference that Bran, with twenty-seven companions, puts to
 sea to discover _tir na mban_ (the land of maidens). After spending some
 time there, one of his comrades is seized with home-sickness. They
 return, and the home-sick man, on being set ashore, immediately turns to
-dust. A later story preserved in BB., YBL. and the Book of Fermoy, tells
+[[Dust|dust]]. A later story preserved in BB., YBL. and the Book of Fermoy, tells
 of the visit of Cormac, grandson of Conn Cetchathach, to Tir Tairngiri.
 These themes are also worked into tales belonging to the Ossianic cycle,
 and Finn and Ossian in later times become the typical warriors who
@@ -2749,7 +2749,7 @@ ballad form. Of these ballads about a dozen, apart from poems in the
 _Dindsenchus_ are preserved in LU., LL. and YBL., and none of these
 poems are probably much older than the 11th century. In the commentary
 to the _Amra_ of Columbkille a beautiful poem on winter is attributed to
-Finn. At the same time we do find a few prose tales, e.g. "_Fotha catha_
+Finn. At the same time we do find a few prose tales, e.g. "_Fotha [[Catha|catha]]_
 _Cnucha_" in LU., describing the death of Cumall, Finn's father, and in
 LL. and Rawlinson B 502, part of which Zimmer assigns to the 7th
 century, we have the first story in which Finn actually occurs. But it
@@ -2763,14 +2763,14 @@ century the stories of the Fiann and their destruction at the battle of
 Gabra must have been fully developed, and from this time onward they
 appear gradually to have supplanted the Cuchulinn cycle in popular
 favour. Several reasons have been assigned for this. In the first place
-until the time of Brian Boroime the high-kings of Ireland had almost
+until the time of [[Brian]] Boroime the high-kings of Ireland had almost
 without exception been drawn from Ulster, and consequently the northern
 traditions were pre-eminent. This exclusiveness on the part of the north
 was largely broken down by the Viking invasions, and during the 11th
 century the leading poets were attached to the court of Brian and his
 descendants. In this manner an opportunity was afforded to the
 Leinster-Munster Fenian cycle to develop into a national saga. John
-MacNeill has pointed out Finn's connexion with a Firbolg tribe, and
+[[Macneill|MacNeill]] has pointed out Finn's connexion with a Firbolg tribe, and
 maintains that the Fenian cycle was the property of the subject race.
 Zimmer has attempted to prove with great plausibility that Finn and his
 warriors were transformed on the model of the Ulster heroes. Thus one
@@ -2835,13 +2835,13 @@ sixty-nine Ossianic ballads, amounting in all to some ten thousand
 lines. Other Ossianic poems of dates varying from the 15th to the 18th
 century have been published in the _Transactions of the Ossianic
 Society_ (Dublin, 1854-1861), including amongst others "The Battle of
-Gabhra," "Lamentation of Oisin (Ossian) after the Fenians," "Dialogue
+Gabhra," "Lamentation of Oisin (Ossian) after the [[Fenians]]," "Dialogue
 between Oisin and Patrick," "The Battle of Cnoc an Air," and "The Chase
 of Sliabh Guilleann." These ballads still survive amongst the peasants
 at the present day. We further possess a number of prose romances, which
 in their present form date from the 16th to the 18th century; e.g. _The
 Pursuit of Diarmaid and Grainne_, _Finn and Grainne_, _Death of Finn_,
-_The Clown in the Drab Coat_, _Pursuit of the Gilla Decair_, _The
+_The [[Clown]] in the Drab Coat_, _Pursuit of the Gilla Decair_, _The
 Enchanted Fort of the Quicken-tree_, _The Enchanted Cave of Ceis
 Corann_, _The Feast in the House of Conan_.
 
@@ -2857,12 +2857,12 @@ Corann_, _The Feast in the House of Conan_.
 
 We have already pointed out that as early as the Old Irish period
 nameless Irish poets were singing the praises of nature in a strain
-which sounds to our ears peculiarly modern. At the present time it is
+which sounds to our [[Ear|ears]] peculiarly modern. At the present time it is
 difficult to say how much of what is really poetic in Irish literature
 has come down to us. Our MSS. preserve whole reams of the learned
 productions of the _filid_ which were so much prized in medieval
 Ireland, but it is, generally speaking, quite an accident if any of the
-delightful little lyrics entered in the margins or on blank spaces in
+delightful little lyrics entered in the margins or on [[Blank|blank]] spaces in
 the MSS. have remained. The prose romances sometimes contain beautiful
 snatches of verse, such as the descriptions of Mag Mell in _Serglige
 Conculaind_, _Tochmarc Etaine_, and the _Voyage of Bran_ or the _Lament
@@ -2930,10 +2930,10 @@ school at Monasterboice. He is the author of no fewer than 2000 lines in
 LL., and many other poems of his are contained in other MSS. His
 best-known work is a _Book of Synchronisms_ of the kings of Ireland and
 those of the ancient world. We have also poems from his pen on the
-monarchs descended from Niall Noigiallach and on the chronology of the
+monarchs descended from Niall Noigiallach and on the [[Chronology|chronology]] of the
 high-kings and provincial kings from the time of Loigaire. Flann's
 successor, Gilla Coemgin (d. 1072), gives us a chronological poem
-dealing with the annals of the world down to A.D. 1014. He also is the
+dealing with the [[Annals|annals]] of the world down to A.D. 1014. He also is the
 author of the Irish version of Nennius which contains substantial
 additions dealing with early Ireland. Minor writers of the same nature
 whose works have come down to us are Colman O'Sesnain (d. 1050), Neide
@@ -2963,7 +2963,7 @@ Virgin. Most of them appear in late MSS., but some few are preserved in
 the Book of the Hy Maine. Donnchad Mor is said to be the greatest
 religious poet that Ireland has produced. Many other members of the
 O'Daly family belonging to the 14th and 15th centuries have left poems
-behind them, but we cannot mention them here. Angus O'Daly, who lived in
+behind them, but we cannot mention them here. [[Angus]] O'Daly, who lived in
 the second half of the 16th century, was employed by the English to
 satirize the chief Gaelic families in Ireland. Two members of the
 O'Higinn family deserve mention, Tadg mor O'Higinn (d. 1315). and Tadg
@@ -3055,16 +3055,16 @@ Clonmacnoise. Tigernach, whose work is partly in Latin, partly in Irish,
 states that all Irish history previous to 305 B.C. is uncertain. No
 perfect copy is known of this work, but several fragments are in
 existence. The _Annals of Innisfallen_ (a monastery on an island in the
-Lower Lake of Killarney), which are also in Latin and Irish, were
+Lower Lake of [[Killarney]]), which are also in Latin and Irish, were
 perhaps compiled about 1215, though they may have begun two centuries
-earlier. The invaluable _Annals of Ulster_ were compiled on Belle Isle
+earlier. The invaluable _Annals of Ulster_ were compiled on [[Belle Isle]]
 on Upper Lough Erne by Cathal Maguire (d. 1498), and afterwards
 continued by two different writers down to 1604. This work, which deals
 with Irish affairs from A.D. 431, exists in several copies. The _Annals
 of Loch Ce_ (near Boyle in Roscommon) were copied in 1588 and deal with
 Irish events from 1014 to 1636. The _Annals of Connaught_ run from 1224
 to 1562. The _Chronicon Scotorum_, one copy of which was transcribed
-about 1650 by the famous antiquary Duald MacFirbis, deals with Irish
+about 1650 by the famous [[Antiquary|antiquary]] Duald MacFirbis, deals with Irish
 affairs down to 1135. The _Annals of Boyle_ extend down to 1253. The
 _Annals of Clonmacnoise_, which come down to 1408, only exist in an
 English translation made by Connell MacGeoghegan in 1627. The most
@@ -3130,12 +3130,12 @@ instructive.
 But the most interesting Irish religious text is the _Vision of Adamnan_
 (preserved in LU.), which Stokes assigns to the 11th century. The soul
 of Adamnan is represented as leaving his body for a space to visit
-heaven and hell under the conduct of an angel. The whole treatment of
+heaven and [[Hell|hell]] under the conduct of an angel. The whole treatment of
 the theme challenges comparison with Dante's great poem, but the Irish
 composition contains many ideas peculiar to the land of its origin.
 Later specimens of this kind of literature tend to develop into
 grotesque buffoonery. We may mention the _Vision of Fursae_, the _Vision
-of Tundale_ (Tnugdal), published by V. Friedel and K. Meyer (Paris,
+of Tundale_ (Tnugdal), published by V. [[Friedel]] and K. Meyer (Paris,
 1907), Laisren's _Vision of Hell_ and the _Vision of Merlino_. A further
 vision attributed to Adamnan contains a stern denunciation of the Irish
 of the 11th century. Another form of religious composition, which was
@@ -3155,7 +3155,7 @@ one on "Mortals' Sins." All the homilies contained in LB. have been
 published by R. Atkinson in his _Legends and Homilies from Leabhar
 Breac_ (Dublin, 1887), and E. Hogan, _The Irish Nennius_ (Dublin, 1895).
 The popular "Debate of the Body and the Soul" appears in Ireland in the
-form of a homily. A collection of maxims and a short moral treatise have
+form of a homily. A collection of [[Maxims|maxims]] and a short moral treatise have
 been published by K. Meyer.
 
   For the religious literature in general the reader may refer to
@@ -3196,7 +3196,7 @@ publication.
 
   Classical stories.
 
-With that enthusiasm for the classics which is characteristic of the
+With that [[Enthusiasm|enthusiasm]] for the classics which is characteristic of the
 Irish, it is not strange that we should find medieval versions of some
 of the better-known authors of antiquity. It is interesting to note that
 only those works are translated that could be utilized by the
@@ -3218,12 +3218,12 @@ further at least one MS. containing a version of Statius's _Thebaid_ and
 of Heliodorus's _Aethiopica_. Somewhat later, the medieval literature of
 western Europe comes to be represented in translations. Thus we have
 Irish versions, amongst others of the _Gesta Romanorum_, the _Historia
-Brittonum_, the Wars of Charlemagne, the History of the Lombards, Sir
+Brittonum_, the Wars of Charlemagne, the History of the [[Lombards]], Sir
 John Maundeville's Travels (trans. by Fingin O'Mahony in 1475), the Book
 of Ser Marco Polo (abridged), Guy Earl of Warwick, Bevis of Southampton,
 the Quest of the Holy Grail, Octavian, the chronicle of Turpin, Barlaam
 and Josaphat, and the story of Fierabras. The Arthurian cycle is
-developed in independent fashion in the Adventures of the Eagle Boy and
+developed in independent fashion in the Adventures of the [[Eagle]] Boy and
 the Adventures of the Crop-eared Dog. For translation literature see M.
 Nettlau, _Revue celtique_, x. pp. 184, 460-461.
 
@@ -3306,7 +3306,7 @@ Ireland. These are law and medicine. The so-called Brehon Laws (q.v.)
 are represented as having been codified and committed to writing in the
 time of St Patrick. There is doubtless some grain of truth in this
 statement, as a fillip may have been given to this codification by the
-publication of the Theodosian Code, which was speedily followed by the
+publication of the Theodosian [[Code]], which was speedily followed by the
 codes of the various Teutonic tribes. The Brehon Laws were no doubt
 originally transmitted from teacher to pupil in the form of verse, and
 traces of this are to be found in the texts which have been preserved.
@@ -3315,7 +3315,7 @@ texts isolated phrases or portions of phrases are given with a
 commentary, and this commentary is further explained by some later
 commentators. Kuno Meyer has pointed out that in the commentary to one
 text, _Crith Gablach_, there are linguistic forms which must go back to
-the 8th century, and Arbois de Jubainville, who apart from Sir Henry
+the 8th century, and [[Arbois De Jubainville|Arbois de Jubainville]], who apart from Sir Henry
 Maine is the only scholar who has dealt with the subject, has attempted
 to prove from internal evidence that part of the oldest tract, the one
 on _Athgabail_ or Seizure, cannot, in its present form, be later than
@@ -3326,7 +3326,7 @@ transcribed by O'Donovan and O'Curry, and have been published with a
 faulty text and translation in five volumes by the government
 commissioners originally appointed in 1852. A number of other law tracts
 must have existed in early times, and several which have been preserved
-are still unedited. Kuno Meyer has published the _Cain Adamnain_ or
+are still unedited. Kuno Meyer has published the _[[Cain]] Adamnain_ or
 Adamnan's Law from an Oxford MS. Adamnan succeeded in getting a law
 passed which forbade women to go into battle. An interesting but
 little-investigated text in prose and verse called _Leabhar na gCeart_
@@ -3352,14 +3352,14 @@ MSS. ranging from the 13th to the 18th centuries. The Irish MSS. are
 translations from the Latin with the invariable commentary, and they
 further contain additions derived from experience. YBL. contains four of
 these tracts, and amongst others we may mention the Book of the
-O'Hickeys, a translation of the _Lilium Medicinae_ of Bernard Gordon
+O'Hickeys, a translation of the _Lilium Medicinae_ of [[Bernard]] Gordon
 (written 1303), the Book of the O'Lees (written in 1443), the Book of
 the O'Shiels, transcribed in 1657, and the Book of MacAnlega,
 transcribed in 1512. Of these texts only two have been published as yet
 from MSS. in Edinburgh. O'Curry drew up a MS. catalogue of the medical
 MSS. in the Royal Irish Academy, and many more are described in
 O'Grady's catalogue of Irish MSS. in the British Museum. Some few MSS.
-deal with the subject of astronomy, but up to the present no description
+deal with the subject of [[Astronomy|astronomy]], but up to the present no description
 of the texts has been published.
 
 
@@ -3369,7 +3369,7 @@ With the steady advance of the English power after 1600 it was only
 natural that the school of bardic poets should decline. But at the
 beginning of the 17th century for the last time they gave a great
 display of their resources. Tadhg MacDaire, the ollam of the earl of
-Thomond, composed a poem in elaborate verse exalting the line of Eber
+Thomond, composed a poem in elaborate verse exalting the line of [[Eber]]
 (represented by the reigning families of Munster) at the expense of the
 line of Eremon (represented by the reigning families of the other
 provinces). In a body of verse attributed to Torna Eces (c. 400), but
@@ -3384,7 +3384,7 @@ collected into a volume of about 7000 lines in _debide_ metre, known as
 the _Contention of the Poets_. Amongst the prominent poets of the period
 may be mentioned Tadhg Dall O'Higinn (d. shortly before 1617) and
 Eochaidh O'Hussey, who between them have left behind nearly 7000 lines
-in the classical metres, Bonaventura O'Hussey and Ferfesa O'Cainti. The
+in the classical metres, [[Bonaventura]] O'Hussey and Ferfesa O'Cainti. The
 intricate classical measures gradually broke down. Dr Douglas Hyde gives
 it as his opinion that the exceedingly numerous metres known in Middle
 Irish had become restricted to a couple of dozen, and these nearly all
@@ -3442,7 +3442,7 @@ names of John O'Neaghtan (d. c. 1720; edition of his poems by A.
 O'Farrelly, Dublin, 1908), Egan O'Rahilly, who flourished between 1700
 and 1726; Tadhg O'Naghten, Andrew MacCurtin (d. 1479), Hugh MacCurtin,
 author of a grammar and part editor of O'Begley's _Dictionary_; John
-Clarach MacDonnell (1691-1754), John O'Tuomy (d. 1775); Andrew Magrath,
+Clarach [[Macdonnell|MacDonnell]] (1691-1754), John O'Tuomy (d. 1775); Andrew Magrath,
 Tadhg Gaolach O'Sullivan (d. c. 1795), author of a well-known volume of
 religious poems, a valuable source of information for the Munster
 dialect; and Owen Roe O'Sullivan (d. 1784), the cleverest of the
@@ -3457,9 +3457,9 @@ Raftery (1784-1835), whose compositions have been rescued by Hyde
 was educated as a harper and won great fame. His poems, which were
 composed to suit his music, are mostly addressed to patrons or fair
 ladies. His celebrated "Ode to Whisky" is one of the finest bacchanalian
-songs in any language. Michael Comyn (b. c. 1688) is well known as the
+songs in any language. Michael [[Comyn]] (b. c. 1688) is well known as the
 author of a version based upon older matter of "Ossian in the Land of
-Youth." This appears to be the only bit of deliberate creation in the
+Youth." This appears to be the only [[Bit|bit]] of deliberate creation in the
 later Ossianic literature. Comyn also wrote a prose story called "The
 Adventures of Torlogh, son of Starn, and the Adventures of his Three
 Sons." Brian MacGiolla Meidhre or Merriman (d. 1808) is the author of
@@ -3475,9 +3475,9 @@ Donough MacConmara (Macnamara) (d. c. 1814) is best known as the author
 of a famous lyric "The Fair Hills of Holy Ireland," but he also wrote a
 mock epic describing his voyage to America and how the ship was chased
 by a French cruiser. He is carried off in a dream by the queen of the
-Munster fairies to Elysium, where, instead of Charon, he finds Conan,
+Munster fairies to Elysium, where, instead of [[Charon]], he finds Conan,
 the Thersites among the Fenians, acting as ferryman (_Eachtra Ghiolla an
-Amarain, or The Adventures of a Luckless Fellow_, edited by T. Flannery,
+Amarain, or The Adventures of a Luckless [[Fellow]]_, edited by T. Flannery,
 Dublin, 1901).
 
 During the first half of the 19th century nothing new was produced of a
@@ -3491,7 +3491,7 @@ It remains for us to glance briefly at the later religious literature
 and the collections of folk-tales. The translation of the New Testament
 made by William O'Donnell and published in 1603 was first undertaken in
 the reign of Queen Elizabeth, who sent over to Dublin the first fount of
-Irish type. Bishop Bedell, one of the very few Protestant clergymen who
+Irish type. Bishop [[Bedell]], one of the very few Protestant clergymen who
 undertook to learn Irish, translated the remainder of the Scriptures
 with the help of a couple of natives, but the whole Bible was not
 translated and published until 1686. This version naturally never became
@@ -3507,8 +3507,8 @@ _Sgathan an chrabhaidh_ (The Mirror of the Pious), published in 1626 by
 Florence Conry; _Sgathan sacramente na h-Aithrighe_ (Mirror of the
 Sacrament of Penance), by Hugh MacCathmhaoil, published at Louvain,
 1618; _The Book of Christian Doctrine_, by Theobald Stapleton (Brussels,
-1639); _Parrthas an Anma, or The Paradise of the Soul_, by Anthony
-Gernon (Louvain, 1645); a book on _Miracles_, by Richard MacGilla Cody
+1639); _Parrthas an Anma, or The Paradise of the Soul_, by [[Anthony]]
+Gernon (Louvain, 1645); a book on _Miracles_, by Richard MacGilla [[Cody]]
 (1667); _Lochran na gcreidmheach, or Lucerna Fidelium_, by Francis
 O'Mulloy (Louvain, 1676); O'Donlevy's _Catechism_ (1742). O'Gallagher,
 bishop of Raphoe, published a collection of sermons which went through
@@ -3516,7 +3516,7 @@ twenty editions and are still known at the present day. He is one of the
 earliest writers in whom the characteristics of the speech of the north
 are noticeable. The only Catholic version of any considerable portion of
 the Scriptures up till quite recently was the translation of the
-Pentateuch by Archbishop MacHale, who also turned six books of the
+Pentateuch by Archbishop [[Machale|MacHale]], who also turned six books of the
 _Iliad_ into Irish. It is only within recent years that attention has
 been paid to the collection of folk-songs and tales in Irish, although
 as long ago as 1825 Crofton Croker published three volumes of folk-lore
@@ -3526,7 +3526,7 @@ We may mention among others Patrick O'Leary's _Sgeuluidheacht Chuige
 Mumhan_ (Dublin, 1895); Hyde's _Beside the Fire_ (London, 1890) and _An
 Sgeuluidhe Gaedhealach_, reprinted from vol. x. of the _Annales de
 Bretagne_ (London, 1901); Daniel O'Fogharta's _Siamsa an Gheimhridh_
-(Dublin, 1892); J. Lloyd's _Sgealaidhe Oirghiall_ (Dublin, 1905); and
+(Dublin, 1892); J. [[Lloyd'S|Lloyd's]] _Sgealaidhe Oirghiall_ (Dublin, 1905); and
 Larminie's _West Irish Folk-Tales_ (London, 1893). The most important
 collections of folk-songs are _Love-Songs of Connaught_ (Dublin, 1893)
 and _Religious Songs of Connaught_ (Dublin, 1906), both published by
@@ -3548,17 +3548,17 @@ O'Donoghue, _Sean-fhocail na Mumhan_ (Dublin, 1902).
   Palaeohibernicus_ (2 vols., Cambridge, 1901-1903); J.H. Bernard and R.
   Atkinson, _Liber Hymnorum_ (London, 1895); E. O'Curry, _Lectures on
   the MS. Materials of Ancient Irish History_ (Dublin, 1873) and
-  _Lectures on the Manners and Customs of the Ancient Irish_ (3 vols.,
+  _Lectures on the [[Manners]] and Customs of the Ancient Irish_ (3 vols.,
   Dublin, 1873); P.W. Joyce, _A Social History of Ancient Ireland_ (2
   vols., London, 1903); E. O'Reilly, _Irish Writers_ (Dublin, 1820);
   S.H. O'Grady, _Catalogue of Irish MSS. in the British Museum_ (London,
   1901); H. d'Arbois de Jubainville, _Introduction a l'etude de la
   litterature celtique_ (Paris, 1883), _Essai d'un catalogue de la
   litterature epique de l'Irlande_ (Paris, 1883), _L'Epopee celtique en
-  Irlande_ (Paris, 1892), _La Civilisation des Celtes et celle de
+  Irlande_ (Paris, 1892), _La Civilisation des [[Celtes]] et celle de
   l'epopee homerique_ (Paris, 1899); E. Windisch, _Tain Bo Cualnge_, ed.
   with an introd. and German trans. (Leipzig, 1905); L. Winifred
-  Faraday, _The Cattle-Raid of Cualnge_ (London, 1904); the Irish text
+  [[Faraday]], _The Cattle-Raid of Cualnge_ (London, 1904); the Irish text
   according to LU. and YBL. has been published as a supplement to
   _Eriu_; Eleanor Hull, _The Cuchulinn-saga_ (London, 1899); W.
   Ridgeway, "The Date of the First Shaping of the Cuchulinn Cycle,"
@@ -3588,7 +3588,7 @@ O'Donoghue, _Sean-fhocail na Mumhan_ (Dublin, 1902).
   1908); _Book of the Dean of Lismore_, ed. by T. Maclauchlan
   (Edinburgh, 1862), and in vol. i. of A. Cameron's _Reliquiae Celticae_
   (Edinburgh, 1892); _Transactions of the Ossianic Society_ (6 vols.,
-  Dublin, 1854-1861); Miss Brooke, _Reliques of Ancient Irish Poetry_
+  Dublin, 1854-1861); Miss [[Brooke]], _Reliques of Ancient Irish Poetry_
   (Dublin, 1789).
 
   Keating's _History_ was translated by John O'Mahony (New York, 1866).
@@ -3631,8 +3631,8 @@ the 18th century.
 
 The earliest document containing Gaelic matter which Scotland can claim
 is the _Book of Deer_, now preserved in the Cambridge University
-Library. This MS. contains portions of the Gospels in Latin written in
-an Irish hand with illuminations of the well-known Irish type. At the
+Library. This MS. contains portions of the [[Gospel|Gospels]] in Latin written in
+an Irish hand with [[Illumination|illuminations]] of the well-known Irish type. At the
 end there occurs a colophon in Irish which is certainly as old as the
 9th century. Inserted in the margins and blank spaces are later notes
 and memoranda partly in Latin, partly in Gaelic. The Gaelic entries were
@@ -3655,18 +3655,18 @@ orthography is phonetic, both of which facts render the deciphering of
 this valuable MS. a task of supreme difficulty. The contents of this
 quarto volume of 311 pages are almost entirely verse compositions
 collected and written down by Sir James Macgregor, dean of Lismore in
-Argyllshire, and his brother Duncan, between the years 1512 and 1526. A
+Argyllshire, and his brother [[Duncan]], between the years 1512 and 1526. A
 disproportionate amount of space is allotted to the compositions of
 well-known Irish bards such as Donnchadh Mor O'Daly (d. 1244),
 Muiredhach Albanach (c. 1224), Tadhg Og O'Higgin (d. 1448), Diarmaid
 O'Hiffernan, Torna O'Mulconry (d. 1468). But native bards are also
 represented. We can mention Allan Mac Rorie, Gillie Calum Mac an Ollav,
 John of Knoydart, who celebrates the murder of the young lord of the
-isles by his Irish harper in 1490, Finlay MacNab, and Duncan Macgregor,
+isles by his Irish harper in 1490, [[Finlay]] MacNab, and Duncan Macgregor,
 the transcriber of the greater part of the volume. The poems of the
 last-mentioned writer are in praise of the Macgregors. A few other poems
 are by Scottish authors such as Campbell, Knight of Glenorchy (d. 1513),
-the earl of Argyll and Countess Isabella. A number consist of satires on
+the earl of Argyll and Countess [[Isabella]]. A number consist of satires on
 women. These Scottish writers are still under the influence of Irish
 metric, and regularly employ the four-lined stanza. They do not appear
 to adhere to the stricter Irish measures, but delight rather in the
@@ -3690,7 +3690,7 @@ O'Cluain, who are otherwise unknown. The Dean's Book was first
 transcribed by Ewen MacLachlan in 1813. Thomas MacLauchlan published the
 text of the Ossianic ballads with modern Gaelic and English renderings
 in 1862. In the same volume W.F. Skene gave a useful description of the
-MS. and its contents. Alexander Cameron revised the text of the portion
+MS. and its contents. Alexander [[Cameron]] revised the text of the portion
 printed by MacLauchlan, and his amended text is printed in his
 _Reliquiae Celticae_, vol. i. (See also L.C. Stern, _Zeitschr. f. celt.
 Phil._ i. 294-326.)
@@ -3699,7 +3699,7 @@ Phil._ i. 294-326.)
   "Book of Fernaig."
 
 Between the Book of the Dean and the Forty-five we find another great
-gap, which is only bridged over by a collection which presents many
+[[Gap|gap]], which is only bridged over by a collection which presents many
 points of resemblance to Macgregor's compilation. The _Book of Fernaig_,
 which is also written in a kind of phonetic script, was compiled by
 Duncan Macrae of Inverinate between 1688 and 1693. The MS. contains
@@ -3744,13 +3744,13 @@ with.
 Mackenzie's _Beauties of Gaelic Poetry_ contains poems written by a
 number of writers who flourished towards the end of the 17th century and
 at the beginning of the 18th. These are Mary Macleod, John Macdonald
-(Iain Lom), Archibald Macdonald, Dorothy Brown, Cicely Macdonald, Iain
-Dubh Iain 'Ic. Ailein (b. c. 1665), the Aosdan Matheson (one of his
+(Iain Lom), Archibald Macdonald, Dorothy Brown, [[Cicely]] Macdonald, Iain
+Dubh Iain 'Ic. Ailein (b. c. 1665), the Aosdan [[Matheson]] (one of his
 poems was rendered in English by Sir Walter Scott under the title of
-"Farewell to Mackenzie, High Chief of Kintail"), Hector Maclean (also
+"Farewell to [[Mackenzie]], High Chief of Kintail"), Hector Maclean (also
 known through a translation by Scott called "War-song of Lachlan, High
 Chief of Maclean"), Lachlan Mackinnon, Roderick Morrison (an Clarsair
-Dall), and John Mackay of Gairloch, but we can here only notice the
+Dall), and John [[Mackay]] of [[Gairloch]], but we can here only notice the
 first two. The famous Mary Macleod, better known as Mairi Nighean
 Alastair Ruaidh (c. 1588-1693), was family bard to Sir Norman Macleod
 of Bernera, and later to John "Breac" Macleod of Macleod, in honour of
@@ -3762,7 +3762,7 @@ vowel rhymes of the accented syllables. As might perhaps be expected it
 was only the Macvurichs (the professional bards of the Clanranald) who
 went on practising the classical _debide_ metre. This they still
 continued to do during the first quarter of the 18th century. Mary
-Macleod's best-known pieces comprise a dirge on the drowning of Iain
+Macleod's best-known pieces comprise a [[Dirge|dirge]] on the drowning of Iain
 Garbh (Mac'Ille Chalum) in the Minch, a song "An Talla 'm bu ghnath le
 MacLeoid," and an ode to Sir Norman Macleod of Bernera, produced during
 her exile in Mull, which begins "'S mi'm shuidhe air an tulaich." For
@@ -3779,21 +3779,21 @@ John Macdonald, better known as Iain Lom (d. c. 1710), was a vigorous
 political poet whose verses exercised an extraordinary influence during
 his lifetime. He is said to have received a yearly pension from Charles
 II. for his services to the Stuart cause. His best-known poems are _Mort
-na Ceapach_, on the murder of the heir of Keppoch, who was eventually
+na Ceapach_, on the murder of the [[Heir|heir]] of Keppoch, who was eventually
 avenged through the poet's efforts, and a piece on the battle of
 Inverlochay (1645). However great the inspiration of Mary Macleod and
 Iain Lorn, they were after all but political or family bards. In
 succession to them there arose a small band of men with loftier
 thoughts, a wider outlook and greater art. The literature of the
 Scottish Highlands culminates in the names of Alexander Macdonald,
-Duncan Ban MacIntyre and Dugald Buchanan.
+Duncan Ban MacIntyre and Dugald [[Buchanan]].
 
 
   Alexander Macdonald.
 
 Alexander Macdonald, commonly called Alasdair MacMaighstir Alasdair (b.
 c. 1700), was the son of an Episcopalian clergyman in Moidart. He was
-sent to Glasgow University to fit himself for a professional career. But
+sent to [[Glasgow]] University to fit himself for a professional career. But
 an imprudent marriage caused him to abandon his studies, and about 1729
 he received an appointment as a Presbyterian teacher in his native
 district. He was moved from place to place, and from 1739 to 1745 he
@@ -3829,7 +3829,7 @@ lavishly strewn, enables him to express with marvellous effect the
 various aspects of nature in her gentler and sterner moods alike. His
 masterpiece, the _Birlinn of Clanranald_, which is at the same time,
 apart from Ossianic ballads, the longest poem in the language, describes
-a voyage from South Uist to Carrickfergus. Here Macdonald excels in
+a voyage from South Uist to [[Carrickfergus]]. Here Macdonald excels in
 describing the movement of the ship and the fury of the storm. In _Allt
 an t-Siucair_ (The Sugar Brook) we are given an exquisite picture of a
 beautiful scene in the country on a summer morning. Other similar poems
@@ -3842,13 +3842,13 @@ the Rebellion. Among these we may mention _Oran nam Fineachan Gaelach_
 (The Song of the Clans), _Brosnachadh nam Fineachan gaidhealach_ (A Call
 to the Highland Clans), and various songs to the prince. But
 incomparably the finest of all is _Oran Luaighe no Fucaidh_ (Waulking
-Song). Here the prince is addressed as a young girl with flowing locks
+Song). Here the prince is addressed as a young girl with flowing [[Lock|locks]]
 of yellow hair on her shoulders, and called Morag. She had gone away
 over the seas, and the poet invokes her to return with a party of
 maidens (i.e. soldiers) to dress the red cloth, in other words, to beat
 the English red-coats. The song contains forty-seven stanzas in all,
 with the characteristic refrain of the waulking-songs. _Am Breacan
-Uallach_ is a spirited poem in praise of the kilt and plaid, which had
+Uallach_ is a spirited poem in praise of the [[Kilt|kilt]] and plaid, which had
 been forbidden by the English government. Macdonald is also the author
 of a number of poems in MS. which have been called the quintessence of
 indecency. His works have gone through eight editions, the last of which
@@ -3856,11 +3856,11 @@ is dated 1892.
 
 In connexion with Macdonald's Jacobite songs it will be well to mention
 here the name of a kindred spirit, John Roy Stuart (Iain Ruadh
-Stiubhart). Stuart was a gallant soldier who was serving in Flanders
+Stiubhart). Stuart was a gallant soldier who was serving in [[Flanders]]
 with the French against the English when the rebellion broke out. He
 hurried home and distinguished himself on the field of battle. After
 Culloden he gave vent to his dejection in two pathetic songs, one on the
-battle itself, while the other deals with the sad lot of the Gael.
+battle itself, while the other deals with the sad [[Lot|lot]] of the Gael.
 
 
   Duncan Ban.
@@ -3869,21 +3869,21 @@ The only poet of nature who can claim to rival Macdonald is a man of a
 totally different stamp. Duncan Ban Maclntyre (Donnachadh Ban,
 1724-1812) was born of poor parents in Glenorchy, and never learned to
 read and write or to speak English. He was present on the English side
-at the battle of Falkirk, on which he wrote a famous ode, and shortly
-afterwards he was appointed gamekeeper to the earl of Breadalbane in
-Coire Cheathaich and Ben Dorain, where he lived for many years until he
+at the battle of [[Falkirk]], on which he wrote a famous ode, and shortly
+afterwards he was appointed gamekeeper to the earl of [[Breadalbane]] in
+[[Coire]] Cheathaich and Ben Dorain, where he lived for many years until he
 accepted a similar appointment from the duke of Argyll in
 Buachaill-Eite. Stewart of Luss is credited with having taken down the
 6000 lines of verse of his own composition which MacIntyre had carried
 about with him for many years, and his works were published in 1768. In
 his later years he was first a volunteer and afterwards a member of the
 city guard in Edinburgh. In addition to his poems descriptive of nature
-MacIntyre composed a number of Jacobite martial songs, songs of love and
+MacIntyre composed a number of Jacobite [[Martial|martial]] songs, songs of love and
 sentiment, and comic and satiric pieces. The poem _Mairi bhan og_
-addressed to his wife is, on account of its grace and delicate
+addressed to his wife is, on account of its [[Grace|grace]] and delicate
 sentiment, generally held to be the finest love-song in the language.
-But it is above all as the poet of ben and corrie that MacIntyre is
-remembered. He has been called the Burns of the Highlands, but the
+But it is above all as the poet of ben and [[Corrie|corrie]] that MacIntyre is
+remembered. He has been called the [[Burns]] of the Highlands, but the
 bitterness and intellectual power of the Ayrshire poet are absent in
 MacIntyre. Duncan Ban describes fondly and tenderly the glories of his
 native mountains as only one can who spends his life in daily communion
@@ -3894,7 +3894,7 @@ called _urlar_ in stately trochees, the other swift called _siubhal_ in
 a kind of galloping anapaests; the whole ending with the _crunluath_ or
 final quick motion. It is said to follow very accurately the lilt of a
 pipe-tune. The poem, which might be called the "Song of the Deer," has
-been well done into English by J. S. Blackie. _Coire Cheathaich_ (The
+been well done into English by J. S. [[Blackie]]. _Coire Cheathaich_ (The
 Misty Corrie), a much shorter poem than Ben Dorain, gives a loving
 description of all the prominent features in the landscape--the flowers,
 the bushes, the stones, the hillocks with the birds and game, and the
@@ -3932,7 +3932,7 @@ their point, and opinions have been greatly divided as to his merits as
 a poet. His collected poems were first published in 1829, a second
 edition appeared in 1871, and in 1899 two new editions were issued
 simultaneously, the one by Hew Morrison, the other by Adam Gunn and
-Malcolm Macfarlane. Another satirical poet who enjoyed a tremendous
+[[Malcolm]] Macfarlane. Another satirical poet who enjoyed a tremendous
 reputation in his own day was John MacCodrum, a native of North Uist and
 a contemporary of the men just mentioned. It is related of MacCodrum
 that the tailors of the Long Island refused to make any clothes for him
@@ -3968,12 +3968,12 @@ religious influences, and the stern Puritan doctrines of retribution and
 eternal damnation preached around him so worked on his mind that from
 his ninth to his twenty-sixth year he was a prey to that mental anguish
 so eloquently described by Bunyan. The awful visions which presented
-themselves to his vivid imagination find expression in his poems, the
-most notable of which are "The Majesty of God," "The Dream," "The
+themselves to his vivid [[Imagination|imagination]] find expression in his poems, the
+most notable of which are "The [[Majesty]] of God," "The Dream," "The
 Sufferings of Christ," "The Day of Judgment," "The Hero," "The Skull,"
 "Winter" and "Prayer." In the "Day of Judgment," a poem of about 120
 stanzas, we are given in sublime verses a vivid delineation of the crack
-of doom as the archangel sounds the last trumpet. The poet then goes on
+of [[Doom|doom]] as the archangel sounds the last trumpet. The poet then goes on
 to depict the awful scenes consequent upon the wreck of the elements,
 and pictures the gathering together of the whole human race before the
 Throne. But Buchanan's masterpiece is admittedly "The Skull." Traces of
@@ -4002,7 +4002,7 @@ whilst yet a student at college. Whilst acting as tutor at Moffat he was
 asked by John Home as to the existence of ancient Gaelic literature in
 the Highlands. After some pressing Macpherson undertook to translate
 some of the more striking poems, and submitted to Home a rendering of
-"The Death of Oscar." Blair, Ferguson and Robertson, the foremost men in
+"The Death of Oscar." [[Blair]], Ferguson and Robertson, the foremost men in
 the Edinburgh literary circles of the day, were enthusiastic about the
 unearthing of such unsuspected treasures, and at their instance
 Macpherson published anonymously in 1760 his _Fragments of Ancient
@@ -4024,7 +4024,7 @@ and contained a number of notes in addition to _Cath-Loda_ and other
 pieces, along with the seventh book of _Temora_ in Gaelic as a specimen
 of the original. Ten years later a new edition of the whole was issued.
 The authenticity of Macpherson's translations was soon impugned by Dr
-Johnson, Hume and Malcolm Laing, and the author was urged by his friends
+Johnson, Hume and Malcolm [[Laing]], and the author was urged by his friends
 to publish the originals. Macpherson prevaricated, even though the
 Highlanders of India sent him a cheque for L1000 to enable him to
 vindicate the antiquity of their native literature. Macpherson at
@@ -4056,7 +4056,7 @@ unnaturally strained language. (6) The names Morven and Selma are
 entirely of his own invention (see also MACPHERSON, JAMES). As a result
 of the stir caused by Macpherson's work a number of men set about
 collecting the genuine popular literature of the Highlands. A few years
-before the appearance of _Fingal_, Jeremy Stone, a schoolmaster at
+before the appearance of _Fingal_, [[Jeremy]] Stone, a schoolmaster at
 Dunkeld, had collected ten Ossianic ballads and published one of them in
 an English versified translation. For this collection see a paper by D.
 Mackinnon in the _Transactions of the Gaelic Society of Inverness_, vol.
@@ -4065,7 +4065,7 @@ Macpherson's example. The chief of these imitators were (1) John Clark,
 who in 1778 published, along with several others, an English poem
 _Mordubh_, later translated into Gaelic by Gillies; (2) R. Macdonald,
 son of Alexander Macdonald, who is the author of _The Wish of the Aged
-Bard_; (3) John Smith of Campbeltown (d. 1807), author of fourteen
+Bard_; (3) John Smith of [[Campbeltown]] (d. 1807), author of fourteen
 Ossianic poems styled _Seandana_, published in English in 1780 and in
 Gaelic in 1787; (4) D. MacCallum of Arisaig, who in 1821 published
 _Collath_ and a complete _Mordubh_ "by an ancient bard Fonar."
@@ -4100,11 +4100,11 @@ hymn-writers spent their lives in Nova Scotia--James Macgregor
 (1759-1830) and John Maclean, a native of Tiree. The compositions of the
 latter have been published under the title _Clarsach na Coille_
 (Glasgow, 1881). But John Morrison (1790-1852), the poet-blacksmith of
-Rodel, Harris, is the most worthy of the name of successor to Buchanan.
+Rodel, [[Harris]], is the most worthy of the name of successor to Buchanan.
 His works have been carefully edited in two volumes by George Henderson
 (2nd edition, 1896). His poems are remarkably musical and imaginative.
 Two of the most characteristic are _An Iondruinn_ and _Tha duin' og agus
-seann duin' agam_. William Livingston or MacDhunleibhe (1808-1870) was a
+seann duin' agam_. William [[Livingston]] or MacDhunleibhe (1808-1870) was a
 native of Islay. He received scarcely any education, and was apprenticed
 as a tailor, but he early made his way to the mainland. He was ever a
 fierce Anglophobe, and did his best to make up for the deficiencies of
@@ -4116,15 +4116,15 @@ sorrow. In _Fios thun a' Bhaird_ he sings pathetically of the passing of
 the older order in Islay, and another powerful poem entitled _Duan
 Geall_ deals with the campaign of the Highlanders under Sir Colin
 Campbell in the Crimea. Livingston's contemporary, Evan Maccoll
-(1808-1898), the son of a small farmer on Lochfyneside, in his early
+(1808-1898), the son of a small [[Farmer|farmer]] on Lochfyneside, in his early
 years devoured eagerly all the English literature and Gaelic lore that
 came in his way. In 1836 he issued a volume of songs called the
 _Mountain Minstrel_, containing his productions in Gaelic and English.
 Two years later two volumes appeared, one entirely in Gaelic, styled
 _Clarsach nam Beann_, the other in English under the old title. A third
 edition of the Gaelic collection was published in 1886. Maccoll acted
-for many years as clerk in the custom-house at Liverpool, and afterwards
-he filled a similar post at Kingston, Canada. He has been called the
+for many years as clerk in the [[Custom-House|custom-house]] at [[Liverpool]], and afterwards
+he filled a similar post at [[Kingston]], Canada. He has been called the
 Moore of Highland song. His spirit is altogether modern, and his poems
 are much nearer the Lowland type than those of the older bards. Among
 his best-known pieces are _Bas Mairi_ and _Duanag Ghaoil_. We can do no
@@ -4139,7 +4139,7 @@ or more songs which have become popular. It is natural to compare the
 state of affairs at the beginning of the 20th century with that
 obtaining in 1800. In the dawn of the 19th century every district in the
 Highlands had its native poet, whilst a century later not a single
-Gaelic bard of known reputation existed anywhere within its borders. It
+Gaelic bard of known reputation existed anywhere within its [[Borders|borders]]. It
 is only too evident that the new writers prefer English to Gaelic as a
 medium of literature, partly because they know it better, but also
 because in it they appeal to a far wider public.
@@ -4153,15 +4153,15 @@ The first printed work is the translation of Knox's _Liturgy_ by Bishop
 Carsewell, published in 1567 (reprinted in 1873). Calvin's Catechism is
 said to have been issued in 1631. The Psalms and Shorter Catechism
 appeared in 1659, while two other psalters saw the light before the end
-of the century, one by Kirke (1684), the other issued by the Synod of
+of the century, one by [[Kirke]] (1684), the other issued by the Synod of
 Argyll (1694). The language of all these publications may, however, be
 termed Irish. Apart from reprints of the catechism and psalter, the only
 other Gaelic matter which appeared in print before 1750 were Kirke's
 Irish version of the Bible in Roman type with a vocabulary (1690), and
 the _Vocabulary_ by Alexander Macdonald (1741). But from the middle of
 the 18th century translations of the works of English religious writers
-streamed from the various presses. Alleine, Baxter, Boston, Bunyan,
-Doddridge and Jonathan Edwards were all prime favourites, and their
+streamed from the various presses. Alleine, Baxter, [[Boston]], Bunyan,
+[[Doddridge]] and [[Jonathan]] Edwards were all prime favourites, and their
 works have gone through many editions. Apart from a well-meant but
 wholly inadequate version of Schiller's _Tell_, the only non-religious
 work which can be termed literature existing in a Gaelic translation is
@@ -4202,7 +4202,7 @@ vols., Edinburgh, 1862). Alexander Carmichael published a version of the
 _Tain Bo Calnge_, called _Toirioc na Taine_, which he collected in South
 Uist (_Transactions of the Gaelic Society of Inverness_, ii. 25-42),
 also the story of Deirdre and the sons of Uisneach in prose taken down
-in Barra (ib. xiii. 241-257). Five volumes of popular stories, collected
+in [[Barra]] (ib. xiii. 241-257). Five volumes of popular stories, collected
 by J.G. Campbell, D. MacInnes, J. Macdougall and Lord Archibald
 Campbell, have been published (1889-1895) by Nutt under the title _Waifs
 and Strays of Celtic Tradition_. These collections contain a good deal
@@ -4251,13 +4251,13 @@ are much slighter than those of any other Celtic dialect. With one small
 exception nothing pertaining to the saga literature of Ireland has been
 preserved. The little we possess naturally falls under two
 heads--original compositions and translations. With regard to the first
-category we must give the place of honour to an Ossianic poem contained
+[[Category|category]] we must give the place of honour to an Ossianic poem contained
 in a MS. in the British Museum (written in 1789), which relates how
 Orree, Finn's enemy, was tormented by the women of Finn's household when
-the latter was away hunting, how he in revenge set fire to the house,
+the latter was away [[Hunting|hunting]], how he in revenge set fire to the house,
 and how Finn had him torn in pieces by wild horses. Most of the existing
-literature of native origin, however, consists of ballads and carols,
-locally called carvels. These used to be sung on Christmas eve in the
+literature of native origin, however, consists of ballads and [[Carol|carols]],
+locally called carvels. These used to be sung on [[Christmas]] eve in the
 churches, the members of the congregation each bringing a candle. Any
 one who pleased could get up and sing one. These carvels deal largely
 with the end of the world, the judgment-day and the horrors of hell.
@@ -4270,13 +4270,13 @@ three years. Apart from the carvels there are other ballads in
 existence, the most important of which were printed in vol. xvi. of the
 _Publications of the Manx Society_. The earliest is an 18th-century song
 of Manannan Mac y Lheir, traditionally supposed to have been written in
-the 16th century, and which tells of the conversion of the island by St
+the 16th century, and which tells of the [[Conversion|conversion]] of the island by St
 Patrick. Then comes _Baase Ittiam Dhone_ (The Death of Brown William),
 dealing with the death of William Christian, who was shot as a traitor
 in 1662. The best-known Manx song is _Mylecharaine_ (=Irish
 _Maolchiaran_). It is directed against a man of this name who was the
-first to give a dowry to his daughter, the custom having previously been
-for the bridegroom to pay money to the father of the bride. Others are
+first to give a [[Dowry|dowry]] to his daughter, the custom having previously been
+for the bridegroom to pay money to the father of the [[Bride|bride]]. Others are
 _Ny Kirree fo Sniaghtey_ (The Sheep under the Snow), a song about the
 loss of the Douglas herring fleet in 1787 (reprinted at Douglas, 1872),
 and _O Vannin Veg Veen_ (Dear little Mona). A further ballad was taken
@@ -4297,7 +4297,7 @@ is reprinted in vol. xx. of the _Publications of the Manx Society_. The
 later translation of the Church of England Prayer-Book was printed in
 1765 and again in 1777 and 1840. But by far the most important of all is
 the translation of the Bible. The energetic Bishop Wilson managed to get
-parts of the Scriptures translated and the Gospel of St Matthew was
+parts of the Scriptures translated and the Gospel of St [[Matthew]] was
 printed in 1748. Wilson's successor, Bishop Hildesley, completed the
 work, and in 1775 the whole Bible appeared. The last reprint of the
 Bible appeared in 1819, that of the New Testament in 1810 (?). As a
@@ -4315,7 +4315,7 @@ translated into the vernacular (Douglas, 1901).
 
 IV. WELSH LITERATURE.--The oldest documents consist of glosses of the
 9th and 10th centuries found in four MSS.--Oxoniensis prior and
-posterior, the Cambridge Juvencus and Martianus Capella. These glosses
+posterior, the Cambridge Juvencus and Martianus [[Capella]]. These glosses
 were published by J. Loth in his _Vocabulaire vieux-breton_ (1884), but
 their value is entirely philological. In addition, we possess two short
 verses, written in Irish characters, preserved in the Juvencus
@@ -4364,7 +4364,7 @@ collection. It is a small quarto manuscript containing thirty-eight
 leaves, written in Gothic letters, about the early part of the 14th
 century. The fourth manuscript, and in some respects the most important,
 is the _Red Book of Hergest_, so called from Hergest Court, one of the
-seats of the Vaughans. It is a folio volume of 360 leaves written by
+seats of the Vaughans. It is a [[Folio|folio]] volume of 360 leaves written by
 different hands between the beginning of the 14th and the middle of the
 15th century. This manuscript, which is the most extensive compilation
 of the medieval prose and verse of Wales, is now in the possession of
@@ -4530,7 +4530,7 @@ a true national epic, the sad defeats and the brave but desperate
 rallies of the early Welsh. Like the music of the Welsh, its dominant
 note is that of sadness, expressing the exultation of battle and the
 very joy of life in minor notes. To a great extent Welsh poets are to
-this day true and faithful disciples of this early master.
+this day true and faithful [[Disciple|disciples]] of this early master.
 
 
   Taliessin.
@@ -4564,7 +4564,7 @@ no direct reference to the subject of the poem itself, is used as a
 refrain or catch-word, exactly like the refrains employed by Mr
 Swinburne and others in their ballads. These lines generally refer to
 some natural object or objects, as, for instance, "the snow of the
-mountain" or "bright are the tops of the broom."
+mountain" or "[[Bright|bright]] are the tops of the broom."
 
 The first period, then, of Welsh literature lies between 700 and 950. It
 is in most respects the epic period, the period in which poets wrote of
@@ -4588,7 +4588,7 @@ Chester in 613. The effects of this defeat were not immediate, as the
 Welsh had still enough of their characteristic hopefulness to expect
 ultimate victory; we therefore have reasons for believing that the
 Gododin series of poems were still used--or perhaps used then for the
-first time--to spur on "the hawks of war" to greater efforts. Gradually,
+first time--to spur on "the [[Hawks|hawks]] of war" to greater efforts. Gradually,
 however, the Angles, hemming them in on all sides from the Clyde to the
 Severn, began to press nearer and nearer; the Welsh at last seem to have
 lost heart, and no one any longer "had the desire of song." Content with
@@ -4606,8 +4606,8 @@ some hand in giving the _Gododin_ its final form and in setting in its
 convenient framework the names of the forefathers of their aristocratic
 abbots.
 
-In the year 1044 Gruffydd ab Llewelyn conquered Hywel ab Edwin and
-became king of Wales. By means of his diplomacy and his arms he
+In the year 1044 Gruffydd ab [[Llewelyn]] conquered Hywel ab Edwin and
+became king of Wales. By means of his [[Diplomacy|diplomacy]] and his arms he
 succeeded in stemming the tide of Saxon invasion that was threatening to
 overflow even the little remnant of land that was left to the Welsh, and
 his strong rule gave the Welsh muse another opportunity. Gruffydd,
@@ -4651,7 +4651,7 @@ Welsh legends resulted in the _History of Britain_ of Geoffrey of
 Monmouth, which is an expansion of the books attributed to Gildas and
 Nennius. It was written in Latin sometime before 1147, and is dedicated
 to Robert, earl of Gloucester, the grandson of Rhys ab Tewdwr. In the
-introductory epistle, Geoffrey states that Walter, archdeacon of Oxford,
+introductory epistle, Geoffrey states that Walter, [[Archdeacon|archdeacon]] of Oxford,
 had given him a very ancient book in the British tongue, giving an
 account of the kings of Britain from Brutus to Cadwaladr, and that he
 had translated it into Latin at the archdeacon's request. The book,
@@ -4676,7 +4676,7 @@ _Llevelys_; (2) The Dream of _Macsen Wledic_.
 (iii.) British Arthurian tales, viz. (1) _Kilhwch_ and _Olwen_; (2) The
 Dream of _Rhonabwy_.
 
-(iv.) Later tales of chivalry, viz. (1) The Lady of the Fountain; (2)
+(iv.) Later tales of [[Chivalry|chivalry]], viz. (1) The Lady of the [[Fountain]]; (2)
 _Peredur_, son of _Evrawc_; (3) _Geraint_, son of _Erbin_.
 
 
@@ -4691,7 +4691,7 @@ sometimes mixed with later myths. The _Caer Sidi_, where neither disease
 nor old age affects any one, is the _Sid_ of Irish mythology, the
 residence of the gods of the _Aes Side_. It is called in one of the old
 poems the prison of _Gweir_, who no doubt represents _Gaiar_, son of
-Manandan MacLir, the Atropos who cut the thread of life of Irish
+Manandan MacLir, the [[Atropos]] who cut the thread of life of Irish
 mythology. _Llyr_ is the Irish sea-god Lir, and was called _Llyr
 Llediaith_, or the half-tongued, implying that he spoke a language only
 partially intelligible to the people of the country. _Bran_, the son of
@@ -4711,18 +4711,18 @@ get rid of the three plagues which devastated Britain:--first, a strange
 race, the Coranians, whose knowledge was so great that they heard
 everything no matter how low soever it might be spoken; second, a shriek
 which came into every house on May eve, caused by the fighting of two
-dragons; and third, a great giant who carried off all the provisions of
+dragons; and third, a great [[Giant|giant]] who carried off all the provisions of
 the king's palace every day. The second tale relates how Maxen, emperor
 of Rome, has a dream while hunting, in which he imagines that he visits
 Britain, and in _Caer Seint_ or Carnarvon sees a beautiful damsel,
-Helen, whom he ultimately finds and marries. Both tales are British in
+Helen, whom he ultimately finds and [[Marri|marries]]. Both tales are British in
 origin and are founded on traditions referring to Roman times.
 
 The most important of these tales are undoubtedly those contained in the
 first class, and the story of _Kilhwch_ and _Olwen_. The form in which
 they are found in the _Red Book of Hergest_ is, as we have already said,
 comparatively speaking, modern. But it is apparent to any one reading
-these tales that the writers or compilers, as Matthew Arnold has
+these tales that the writers or compilers, as Matthew [[Arnold]] has
 suggested, are "pillaging an antiquity, the secret of which they do not
 fully possess." The foundations of the tales are the old Celtic
 traditions of the gods and the older heroes, and they clearly show
@@ -4833,7 +4833,7 @@ Gwalchmai_, Gwalchmai's Delight, there is an appreciation of the charms
 of nature, medieval parallels to which are only to be found in Ireland.
 His _Arwyrain i Owain_ is an ode of considerable beauty and full of
 vigour in praise of Owain Gwynedd, king of North Wales, on account of
-his victory of Tal y Moelvre, part of which has been translated by Gray
+his victory of Tal y Moelvre, part of which has been translated by [[Gray]]
 under the name of "The Triumphs of Owen." Kynddelw, who lived in the
 second half of the 12th century, was a contemporary of Gwalchmai, and
 wrote on a great number of subjects including religious ones; indeed
@@ -4857,7 +4857,7 @@ second was also a prince; he was the eldest of the many sons of Owain
 Gwynedd, and ruled for two years after his father until he fell in a
 battle between himself and his step-brother Dafydd. He was a young man
 of conspicuous merit, and one of the most charming poets of Wales, his
-poems being especially free from the conceits, trivial commonplaces, and
+poems being especially free from the conceits, trivial [[Commonplace|commonplaces]], and
 complicated metres of the professional bards, while full of a gay
 humour, a love of nature and a delicate appreciation of women. The Welsh
 poets went on circuit like their Irish brethren, staying in each place
@@ -4880,7 +4880,7 @@ implies, able to speak the English language, and wrote chiefly religious
 poetry. Einiawn ab Gwgawn is the author of an extant address to Llywelyn
 ab Iorwerth of considerable merit. Phylip Brydydd, or Philip the poet,
 was household bard to Rhys Gryg (Rhys the hoarse), lord of South Wales.
-One of his pieces, an apology to Rhys Gryg, is a striking example of the
+One of his pieces, an [[Apology|apology]] to Rhys Gryg, is a striking example of the
 fulsome epithets a household bard was expected to bestow upon his
 patron, and of the privileged domesticity in which the bards lived,
 which, as in Ireland, must have been fatal to genius. Prydydd Bychan,
@@ -4903,14 +4903,14 @@ versification.
 
 The most illustrious name among the poets of this century is Gruffydd ab
 yr Ynad Coch, "Gruffydd, son of the Red Justice," who wrote many
-religious poems of great merit. His greatest work, however, is the elegy
+religious poems of great merit. His greatest work, however, is the [[Elegy|elegy]]
 to Llywelyn ab Gruffydd, the last prince of Wales. It is easily first
 among all the elegies written in the Welsh language. We do not find in
 it that artficial grief which is too evident in the _Marwnadau_ of the
 Welsh poets; it re-echoes an intense personal grief, and throughout the
 whole piece the poet feels that he stands at the end of all things,--the
 end of his own ideals, the extinction of all Cymric hopes. So poignant
-is his grief, and in so universal a manner does the catastrophe of
+is his grief, and in so universal a manner does the [[Catastrophe|catastrophe]] of
 Llywelyn's death present itself to him, that he imagines that all the
 natural features of the Welsh fatherland know that the last great
 Welshman is dead; the winds howl over the mountains, the rain-clouds
@@ -4936,7 +4936,7 @@ the Norman conquest of England. We find, too, that the poetry which
 poured forth from the Welsh bards of the south is of an altogether
 different type, it is modern in all its essentials, in diction, in
 language, and, comparatively speaking, in sentiment. Indeed, there is an
-infinitely greater difference between Dafydd ab Gwilym and Gruffydd ab
+infinitely greater difference between [[Dafydd Ab Gwilym|Dafydd ab Gwilym]] and Gruffydd ab
 yr Ynad Coch than there is between him and any poet writing in the
 alliterative metres in the 19th century. So that we must suppose that at
 the time when the poets of North Wales still sang of war and
@@ -4952,7 +4952,7 @@ long line of predecessors whose works were lost during the period
 intervening between the loss of Welsh independence and the rise of
 Dafydd ab Gwilym. These men wrote, as we have already said, in South
 Wales, a country which was then under the rule of the Norman lords, who,
-with the lapse of years and the rise of new systems, were fast becoming
+with the [[Lapse|lapse]] of years and the rise of new systems, were fast becoming
 Welsh. It is no wonder, then, that the poets who wrote under their
 patronage should show unmistakable traces of Norman influence. Most of
 the barons still spoke French, and it was only natural that they should
@@ -4964,7 +4964,7 @@ the French lays; we must remember that the Welsh poets lived under
 conditions similar to those under which the troubadours and the
 trouveres lived, and it was natural that the same environments should
 produce the same kind of work. The Provencal _alba_ and the French
-_aube_, the _serenade_ and other forms, became well known in South Wales
+_[[Aube|aube]]_, the _serenade_ and other forms, became well known in South Wales
 and were of course read by the Welsh poets. We find continual references
 in the poets to "books of love" under the name of _llyfr Ofydd_, or the
 "book of Ovid," and a reference in one of Dafydd ab Gwilym's poems shows
@@ -4983,7 +4983,7 @@ for so many centuries, was slowly relaxing its grasp, and the men who a
 few years before would have sung religious hymns to the Virgin, now laid
 their tributes at the feet of divine womanhood as they saw it in the
 Welsh maidens and matrons living among them. The pale queen of heaven no
-longer held hearts captive; they had transferred their allegiance to the
+longer held hearts [[Captive|captive]]; they had transferred their allegiance to the
 "brow that was as the snow of yesternight," and "the cheeks that were
 like the passion-flower." The Iolo MSS. assert that some time between
 January 1327 and November 1330 there were held, under the patronage of
@@ -5021,12 +5021,12 @@ and elusive symbolism and a subjectiveness which come as a revelation to
 those who are acquainted with the medieval poetry of other nations. Many
 of the poems attributed to him are undoubtedly the work of later hands,
 but even after making all possible deductions, there is still an
-infinite variety among what remains, ranging as his poems do from a
+[[Infinite|infinite]] variety among what remains, ranging as his poems do from a
 sturdy denunciation of monkish fraudulence to the most delicate and
 pathetic recollections of departed joys. He has, besides, considerable
 importance as a teacher, as when, for instance, he invites the nun "to
 leave her watercress and paternosters of Romish monks," and to come with
-him "to the cathedral of the birch to listen to the cuckoo's sermons,"
+him "to the cathedral of the [[Birch|birch]] to listen to the cuckoo's sermons,"
 for, "were it not an equally worthy deed to save his (Dafydd's) soul in
 the birch-grove as to do so by following the ritual of Rome and St James
 of Compostella"? Even in his old age, when he is beginning to repent of
@@ -5040,7 +5040,7 @@ certain of hardly a single fact about his life. He flourished between
 was reprinted by Ffoulkes of Liverpool in 1870. See L.C. Stern,
 _Zeitschr. f. celt. Phil._ vol. vii.
 
-Sion Cent was chaplain to the Scudamores of Kentchurch in Herefordshire,
+Sion Cent was [[Chaplain|chaplain]] to the Scudamores of Kentchurch in Herefordshire,
 and though, therefore, in orders, was a most bitter opponent of the
 pretentious and the evil life of the monks of his time. All his writings
 show signs of the influence of the moralists of the middle ages, and
@@ -5081,7 +5081,7 @@ be misled by the late orthography of his poems.
 Dafydd Nanmor is chiefly famous for two exquisite cywyddau, _Cywydd
 Marwnad Merch_, or Elegy of a Maiden, and _Cywydd i wallt Llio_, or
 Cywydd to Llio's Hair. In both these poems he shows elegance rather than
-depth, and a fancy as bold as that of his great master Dafydd. In the
+depth, and a [[Fancy|fancy]] as bold as that of his great master Dafydd. In the
 first of these cywyddau his grief is so great that he wishes that he
 were but the shroud around his dead sweetheart, and, in the second, Llio
 Rhydderch's golden hair over her white brow is compared to the
@@ -5184,7 +5184,7 @@ understood, there is none.
 The commanding figure in this period is, of course, Dafydd ab Edmwnd,
 who was a disciple of Meredydd ap Rhys. He bears somewhat the same
 relation to his contemporaries as Dafydd ab Gwilym does to his, and to
-strain an analogy, we might say that as Dryden was to Milton, so Dafydd
+strain an analogy, we might say that as [[Dryden]] was to Milton, so Dafydd
 ab Edmwnd was to Dafydd ab Gwilym. He was regarded by his contemporaries
 as the greatest poet that North Wales had ever produced, and some would
 set him up as a rival even to Dafydd ab Gwilym himself. He would
@@ -5308,7 +5308,7 @@ Prys's literary work in the section on the rise of popular poetry.
 
 Here the age of the _cywydd_ and the _awdl_, as the chief forms of
 verse, ends. They appear again in the succeeding centuries, but as
-aliens among a nation that no longer paid them homage. The distinctly
+aliens among a nation that no longer paid them [[Homage|homage]]. The distinctly
 Welsh fashion in song was dying out.
 
 6. _Prose, 1550-1750._--One of the most striking features of Welsh
@@ -5419,7 +5419,7 @@ then intensely Welsh in sentiment. But in the midst of these churchmen,
 a flame-bearer of dissent appeared--Morgan Llwyd o Wynedd, who published
 in 1653 "a mystery to be understood of some, and scorned of
 others"--_Llyfr y Tri Aderyn_ (The Book of the Three Birds). It is in
-the form of a discussion between the eagle (Cromwell), the dove
+the form of a discussion between the eagle ([[Cromwell]]), the [[Dove|dove]]
 (Dissent) and the raven (the Established Church). This book is certainly
 the most important original composition published during the 17th
 century, and to this day remains one of the widely-read classics of the
@@ -5431,10 +5431,10 @@ press consisted mainly of devotional books, written or translated for or
 at the instigation of the Society for Promoting Christian Knowledge. The
 Established Church, with the help of this society, made a gallant
 attempt to lighten the darkness of Wales by publishing books of this
-description, and it is mainly due to its exertions that the lamp of
+description, and it is mainly due to its exertions that the [[Lamp|lamp]] of
 Welsh prose was kept burning during these years. Among the clergy who
 produced books of this description were Edward Samuel (1674-1748), who
-published among other works _Holl Ddyledswydd Dyn_, a translation of
+published among other works _[[Holl]] Ddyledswydd Dyn_, a translation of
 _The Whole Duty of Man_ (1718); Moses Williams (1684-1742), a most
 diligent searcher into Welsh MSS. and translator; Griffith Jones of
 Llanddowror (1683-1761), the father of Welsh popular education; Iago ab
@@ -5481,7 +5481,7 @@ The first landmark in this new development was the publication in 1621
 of Edmwnd Prys's metrical version of the Psalms (followed by later
 editions in 1628, 1630, 1638 and 1648), and of the first poem of the
 _Welshmen's Candle_ (_Cannwyll y Cymry_) of Rhys Pritchard, vicar of
-Llandovery (1569-1644). This was published in 1646. These works were not
+[[Llandovery]] (1569-1644). This was published in 1646. These works were not
 written in the old metres peculiar to Wales, but in the free metres,
 like those of English poetry. The former work is of the utmost
 importance, as these Psalms were about the first metrical hymns in use.
@@ -5520,7 +5520,7 @@ Goronwy Owen wrote all his poetry in the _cynghanedd_, and his work gave
 the old metres a new life. He raised them from the neglect into which
 they had fallen, and caused them to be, till this day, the vehicle of
 half the poetical thought of Wales. But he was in no way a
-representative of his age; he, like Milton, sang among a crowd of
+representative of his age; he, like Milton, sang among a [[Crowd|crowd]] of
 inferior poets themes quite detached from the life of his time, so that
 he also, like his English brother, lacks "human interest." After Dafydd
 ab Gwilym, he is the greatest poet who sang in the old metres, and the
@@ -5574,7 +5574,7 @@ literature. Samuel Roberts (1800-1885), generally known as S.R., wrote
 numerous tracts and books on politics and economics, and as a political
 thinker he was in many respects far in advance of his English
 contemporaries. It was in this period, too, that Wales had her national
-novelist, Daniel Owen (1836-1895). He was a novelist of the Dickens
+novelist, Daniel Owen (1836-1895). He was a novelist of the [[Dickens]]
 school, and delighted like his great master "in writing mythology rather
 than fiction." He has created a new literary atmosphere, in which the
 characters of Puritanical and plebeian Wales move freely and without
@@ -5600,7 +5600,7 @@ lyric, and the influence of English and continental ideas. Just as the
 _cywydd_ was among the older writers the favourite form of poetry, so
 the lyric becomes now paramount, almost to the exclusion of other forms.
 The first great name, after those already mentioned in the development
-of this form of poetry, is that of Anne Griffiths (1776-1805). Her
+of this form of poetry, is that of [[Anne]] Griffiths (1776-1805). Her
 poetry is exclusively composed of hymns, but to the English mind, the
 word "hymn" is entirely inadequate to give any idea of the passion, the
 mysticism and the rich symbolistic grace of her poems. She gave to the
@@ -5614,7 +5614,7 @@ the master poet of the _awdl_ in the 19th century. Gwilym Cawrdaf
 (1795-1848), also a writer of _awdlau_, has the gift of simple and
 direct expression, well exemplified in _Hiraeth Cymro am ei wlad_.
 Daniel Ddu (1792-1846) was a scholar who wrote some touching lyrics and
-hymns. Gwilym Hiraethog (1802-1883) attempted an epic, _Emmanuel_, with
+hymns. Gwilym Hiraethog (1802-1883) attempted an epic, _[[Emmanuel]]_, with
 indifferent success. His shorter works and some of his _awdlau_ are of a
 much higher order. Caledfryn (1801-1869) was a direct successor of Dewi
 Wyn and the earlier writers of _awdlau_, but his _Drylliad y Rothsay
@@ -5632,12 +5632,12 @@ scholastic training of the earlier group, and so their work is often
 uneven, and cannot therefore be fairly compared with that of the earlier
 poets. Ceiriog, of course, is the greater name of the three, and is to
 Wales what Robert Burns was to Scotland, sharing with him his poetical
-faults and merits. He is called the national poet of Wales, because he
+[[Fault|faults]] and merits. He is called the national poet of Wales, because he
 was the first to sing of the land and the nation he knew, and he cast
 the glamour of his genius over the life of the _gwerin_, the peasants of
 Wales.
 
-Somewhat higher flights were essayed by Gwilym Marles (1834-1879) and
+Somewhat higher flights were essayed by Gwilym [[Marl|Marles]] (1834-1879) and
 Islwyn (1832-1878). Their poetry is Wordsworthian and mystical, and well
 exemplifies the love of metaphysics and speculation which is growing in
 Wales. Islwyn's _Y storm_, though uneven, is full of powerful passages,
@@ -5658,7 +5658,7 @@ poetry was only entering on its golden period.
   E. Anwyl, _Prolegomena to Welsh Poetry_ (London, 1905), also on the
   Mabinogi in _Zeitschr. f. celt. Phil._ i. 277 ff.; I.B. John, _The
   Mabinogion_ (London, 1901); T. Shankland, _Diwygwyr Cymru_, reprinted
-  from _Seren Gomer_ (1899); W.J. Gruffydd, _Foreign Influences on Welsh
+  from _Seren [[Gomer]]_ (1899); W.J. Gruffydd, _Foreign Influences on Welsh
   Literature in the XIV. and XV. Centuries_, Guild of Welsh Graduates
   (1908); Gwilym Lleyn, _Llyfryddiaeth y Cymry_ (Llanidloes, 1867);
   Robert Williams, _Enwogion Cymru_ (Llandovery, 1852); Owen Jones,
@@ -5667,14 +5667,14 @@ poetry was only entering on its golden period.
   1889-1896); C. Ashton, _Bywyd ac amserau yr Esgob Morgan_ (Treherbert,
   1891); J. Foulkes, _J. Ceiriog Hughes, ei fywyd a'i waith_ (Liverpool,
   1887); J.M. Jones, _Llenyddiaeth fy ngwlad_ (Holywell, 1893); H. Elvet
-  Lewis, _Sweet Singers of Wales_ (London, 1889); H.W. Lloyd, _Welsh
+  Lewis, _Sweet Singers of Wales_ (London, 1889); H.W. [[Lloyd]], _Welsh
   Books Printed Abroad in the XVI. and XVII. Centuries_ (London, 1881).
 
   _Anthologies, Selected Prose and Verse, &c._--W.F. Skene, _The Four
   Ancient Books of Wales_ (2 vols., Edinburgh, 1868); W. Owen (Pughe),
   Iolo Morganwg and Owen Jones (Myfyr), _Myvyrian Archaiology of Wales_
   (3 vols., London, 1801;[2] Denbigh, 1870, in 1 vol.); Dr John Davies
-  (o Fallwyd), _Flores Poetarum Britannicorum_ (Shrewsbury, 1710;
+  (o Fallwyd), _[[Flores]] Poetarum Britannicorum_ (Shrewsbury, 1710;
   Swansea, 1814; reprinted London, 1864); Iolo Morganwg, _Iolo
   Manuscripts_ (Llandovery, 1848); E. Evans, _Some Specimens of the
   Poetry of the Antient Welsh Bards translated into English, &c._
@@ -5682,11 +5682,11 @@ poetry was only entering on its golden period.
   1759;[5] Merthyr, 1827), _Diddanwch Teuluaidd_ (London, 1763); David
   Jones, _Blodeugerdd Cymry_ (Shrewsbury[2], 1779); Owen Jones, _Ceinion
   Llenyddiaeth Gymreig_ (2 vols., London, 1876); W. Lewis Jones,
-  _Caniadau Cymru_ (Bangor[2], 1908); W. Jenkyn Thomas, _Penillion
+  _Caniadau Cymru_ ([[Bangor]][2], 1908); W. Jenkyn Thomas, _Penillion
   Telyn_ (Carnarvon, 1894); Myrddin Fardd, _Cynfeirdd Lleyn_ (1905);
   _Cyfres Lien Cymru_, vols. i.-vi. (Cardiff, 1900-1906); W.J. Gruffydd,
   _Y Flodeugerdd Newydd_ (Cardiff, 1908); O.M. Edwards, _Beirdd y
-  Berwyn_ (Conway, 1903).
+  Berwyn_ ([[Conway]], 1903).
 
   _Versification, &c_,--Dafydd Morganwg, _Yr Ysgol Farddol_ (Cardiff[3],
   1887); Iolo Morganwg, _Cyfrinach Beirdd Ynys Prydain_ (Merthyr,
@@ -5711,10 +5711,10 @@ poetry was only entering on its golden period.
   trans. by W. Morgan_ (facsimile, 1896); Owen Jones (Myfyr) and W. Owen
   (Pughe), _Barddoniaeth Dafydd ab Gwilym_ (London, 1789); Walter Davies
   and J. Jones, _Poetical Works of Lewis Glyn Cothi_ (1837); Prince
-  Louis Bonaparte, _Athrawaeth Gristnogavl by Morys Clynoc_ (facsimile
+  Louis [[Bonaparte]], _Athrawaeth Gristnogavl by Morys Clynoc_ (facsimile
   London, 1880); Walter Davies, _Caniadau Huw Morus_ (2 vols., 1823);
   _Psalmau Dafydd gan W. Middleton_ (Llanfair, 1827); J. Morris Jones,
-  _Gweledugaethai y Bardd cwsg gan Elis Wynne_ (Bangor, 1898); R. Jones,
+  _Gweledugaethai y Bardd cwsg gan [[Eli|Elis]] Wynne_ (Bangor, 1898); R. Jones,
   _The Poetical Works of Goronwy Owen_ (2 vols. London, 1876); W.J.
   Gruffydd, _Cywyddau Goronwy Owen_ (Newport, 1906); T.E. Ellis,
   _Gweithiau Morgan Llwyd_ (Bangor, 1899); J.H. Davies, _Yn y Llyvyr
@@ -5738,8 +5738,8 @@ Middle, and Modern Breton. No connected monuments of the first period
 language of this period we must have recourse to the manuscripts
 containing glosses and the names occurring in ancient documents. The
 chief collections of glosses are (1) the Oxford glosses on Eutychius;
-(2) the Luxemburg glosses; (3) the Bern glosses on Virgil; (4) the
-glosses on Amalarius (Corpus Christi, Cambridge); (5) five _Collationes
+(2) the Luxemburg glosses; (3) the [[Bern]] glosses on Virgil; (4) the
+glosses on Amalarius (Corpus Christi, Cambridge); (5) five _[[Collation|Collationes]]
 Canonum_, the chief manuscripts being at Paris and Orleans. All these
 glosses have been published in one volume by J. Loth (_Vocabulaire
 Vieux-Breton_, Paris, 1884). From a linguistic point of view the Breton
@@ -5798,10 +5798,10 @@ Even when the life of a Breton saint, e.g. St Gwennole, is dramatized,
 the treatment is the traditional one accorded to all saints of whatever
 origin. Amongst the most favourite subjects in addition to those already
 mentioned we may note the following: _Vie des quatre fils Aymon_, _Ste
-Tryphine et le roi Arthur_, _Huon de Bordeaux_, _Vie de Louis Eunius_,
+Tryphine et le roi Arthur_, _Huon de [[Bordeaux]]_, _Vie de Louis Eunius_,
 _Robert le Diable_. These mysteries commonly contain from 5000 to 9000
 lines of either 12 or 8 syllables apiece. For the sake of completeness
-we may add the names of three farces, described by Le Braz: _Ar Farvel
+we may add the names of three [[Farce|farces]], described by Le Braz: _Ar Farvel
 goapaer_ (_Le bouffon moqueur_), _Ian Melarge_ (_Mardi-gras_), _La Vie
 de Mardi-gras, de triste Mine, sa femme, et de ses enfants_. The actors,
 who were always peasants, came to be regarded with an unfavourable eye
@@ -5821,11 +5821,11 @@ poet, wrote a collection of lyrics entitled _Telen Arvor_, or the
 _Armorican Harp_ (Lorient, 1844, reprinted Paris, 1903). Luzel's
 original compositions were published under the title of _Bepred Breizad,
 Toujours Breton_ (Morlaix, 1865), and Prosper Proux is known as the
-author of _Canaouenno gret gant eur C'hernewod_ (1838) and _Ar Bombard
-Kerne_, or _The Hautboy of Cornouailles_ (Guingamp, 1866). Dottin also
+author of _Canaouenno gret gant eur C'hernewod_ (1838) and _Ar [[Bombard]]
+Kerne_, or _The Hautboy of Cornouailles_ ([[Guingamp]], 1866). Dottin also
 mentions _Telenn Remengol_, by J. Lescour (Brest, 1867); _Telenn
 Gwengam_, by the same writer (Brest, 1869), a volume of _Chansoniou_ by
-Y.M. Thomas (Lannion, 1870), and another by C. Rannou. This was a very
+Y.M. Thomas ([[Lannion]], 1870), and another by C. Rannou. This was a very
 creditable beginning, but the themes of these writers are apt to be
 somewhat conventional and the constant recurrence of the same situation
 or the same idea grows monotonous. An anthology of poems connected with
@@ -5850,7 +5850,7 @@ and, coming as he did at a time when folk-poetry was the fashion, he
 determined to collect the popular literature of his own country.
 However, he was not content to publish the poems as he found them
 circulating in Brittany. With the aid of several collaborators he
-transformed his material, eliminating anything that was crude and gross.
+transformed his material, eliminating anything that was crude and [[Gross|gross]].
 The poems included in his collection may be divided into three classes:
 (1) Poems rearranged by himself or others. These consist mainly of
 love-songs and ballads. (2) Modern poems transferred to medieval times.
@@ -5874,7 +5874,7 @@ satires, carols and marriage-lays, as well as others dealing with
 professional occupations, and seem in many cases to show traces of
 French influence. The first scholar who published the genuine ballad
 literature of Brittany was F.M. Luzel, who issued two volumes under the
-title of _Gwerziou Breiz-Izel, chants populaires de la Basse-Bretagne_
+title of _Gwerziou Breiz-Izel, [[Chant|chants]] populaires de la Basse-Bretagne_
 (Lorient and Paris, 1868, 1874). This collection contains several of the
 originals of poems in the _Barzas Breiz_. Luzel is also the author of a
 collection of Breton tales in French translation, _Contes bretons
@@ -5906,7 +5906,7 @@ this has led to the revival of the old mysteries, though in a somewhat
 modified form. The foremost living writer is Fanch Jaffrennou, who
 writes under the name of "_Taldir_" (Brow of Steel) and is the author of
 two very striking volumes of lyrics--_An Hirvoudou_ or _Sighs_ (St
-Brieuc, 1899) and _An Delen Dir_ or _The Harp of Steel_ (St Brieuc,
+Brieuc, 1899) and _An Delen [[Dir]]_ or _The Harp of Steel_ (St Brieuc,
 1900). The latter is the most interesting outcome of the modern
 movement. Among other poets we may mention N. Quellien (_Annaik_, Paris,
 1880; _Breiz, Poesies bretonnes_, Paris, 1898), Erwan Berthou (_Dre an
@@ -5962,13 +5962,13 @@ originality and more limited in scope than that of Brittany, and it is
 remarkable that the medieval drama should occupy the most prominent
 place in both. The earliest Cornish we know consists of proper names and
 a vocabulary. About 200 Cornish names occur among the manumissions of
-serfs in the Bodmin Gospels (10th century). They were printed by Whitley
+serfs in the [[Bodmin]] Gospels (10th century). They were printed by Whitley
 Stokes in the _Revue celtique_, i. 232. Next comes the Cottonian
 Vocabulary, which seems to follow a similar Anglo-Saxon collection and
 is contained in a 12th-century MS. at the British Museum. It consists of
 seven pages and the words are classified under various headings, such as
 heaven and earth, different parts of the human body, birds, beasts,
-fishes, trees, herbs, ecclesiastical and liturgical terms. At the end we
+fishes, trees, [[Herb|herbs]], ecclesiastical and liturgical terms. At the end we
 find a number of adjectives. This vocabulary was printed by Zeuss[2], p.
 1065, and again in alphabetical order by Norris in the _Ordinalia_. The
 language of this document is termed Old Cornish, although the forms it
@@ -5978,7 +5978,7 @@ The first piece of connected Cornish which we know consists of a poem,
 or portion of a play(?), of forty-one lines discovered by Jenner in the
 British Museum. This fragment was probably written about 1400 and deals
 with the subject of marriage (edited by W. Stokes in the _Revue
-celtique_, iv. 258). A little later is the _Poem of Mount Calvary_ or
+celtique_, iv. 258). A little later is the _Poem of Mount [[Calvary]]_ or
 _the Passion_, of which five MSS. are in existence. The poem has been
 twice printed, first by Davies Gilbert with English translation by John
 Keigwin (1826), and again by W. Stokes for the London Philological
@@ -6014,11 +6014,11 @@ Breton _Meriadek_), the son of a duke of Brittany, and interwoven with
 this theme is the legend of St Silvester and the emperor Constantine,
 quite regardless of the circumstance that St Silvester lived in the 4th
 and St Meriasek in the 7th century. The MS. of this play was written by
-"Dominus Hadton" in the year 1504, and is preserved in the Peniarth
+"[[Dominus]] Hadton" in the year 1504, and is preserved in the Peniarth
 library. The language is more recent than that of the _Ordinalia_, and
 there is a certain admixture of English. The _Life of St Meriasek_ falls
 into two parts, and at the end of each the spectators are invited to
-carouse. St Meriasek was in earlier times the patron saint of Camborne,
+carouse. St Meriasek was in earlier times the patron saint of [[Camborne]],
 where his fountain is still to be seen and pilgrims to it were known by
 the name of _Merra-sickers._ In this play, consequently, we might expect
 to find something really Cornish. But le Braz has shown that the author
@@ -6029,13 +6029,13 @@ Breton hagiographer, Albert le Grand. The last play we have to mention
 is _Gwreans an Bys_ (The Creation of the World), of which five complete
 copies are known. Two of these are in the Bodleian and one in the
 British Museum, which also possesses a further fragment. The oldest text
-was revised by William Jordan of Helston in 1611, but there are
+was revised by William Jordan of [[Helston]] in 1611, but there are
 indications that parts of it at any rate are older than the Reformation.
 This play bears a great resemblance to the first part of the _Origo
 Mundi_, and may have been imitated from it. It was printed first by
 Davies Gilbert in 1827 with a translation by John Keigwin, and again by
 W. Stokes in the _Transactions of the London Philological Society_ for
-1864. The language shows considerable signs of decay, and Lucifer and
+1864. The language shows considerable signs of decay, and [[Lucifer]] and
 his angels are often made to speak English. The only other original
 compositions of any length written in Cornish are _Nebbaz Gerriau dro
 tho Carnoack_ (A Few Words about Cornish), by John Boson (printed in the

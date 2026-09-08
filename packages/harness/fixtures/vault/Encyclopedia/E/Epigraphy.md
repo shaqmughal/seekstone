@@ -9,11 +9,11 @@ id: 42-1853
 
 EPIGRAPHY (Gr. [Greek: epi], on, and [Greek: graphein], to write), a
 term used to denote (1) the study of inscriptions collectively, and (2)
-the science connected with the classification and explanation of
+the science connected with the [[Classification|classification]] and explanation of
 inscriptions. It is sometimes employed, too, in a more contracted sense,
 to denote the palaeography, in inscriptions. Generally, it is that part
-of archaeology which has to do with inscriptions engraved on stone,
-metal or other permanent material (not, however, coins, which come under
+of [[Archaeology|archaeology]] which has to do with inscriptions engraved on stone,
+metal or other permanent material (not, however, [[Coin|coins]], which come under
 the heading NUMISMATICS).
 
   See INSCRIPTIONS; PALAEOGRAPHY.

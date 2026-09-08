@@ -23,7 +23,7 @@ destroyed. They are now to the number of 17,000 or more scattered about
 on various reservations in New York state, Oklahoma, Wisconsin and
 Canada. The _Iroquoian stock_, the larger group of kindred tribes, of
 which the five nations were the most powerful, had their early home in
-the St Lawrence region. Besides the five nations, the Neutral nation,
+the St [[Lawrence]] region. Besides the five nations, the Neutral nation,
 Huron, Erie, Conestoga, Nottoway, Meherrin, Tuscarora and Cherokee were
 the most important tribes of the stock. The hostility of the Algonquian
 tribes seems to have been the cause of the southward migration of the

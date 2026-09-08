@@ -11,21 +11,21 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Becquerel"
 BECQUEREL, the name of a French family, several members of which have
 been distinguished in chemical and physical research.
 
-ANTOINE CESAR BECQUEREL (1788-1878), was born at Chatillon sur Loing on
+[[Antoine|ANTOINE]] CESAR BECQUEREL (1788-1878), was born at Chatillon sur Loing on
 the 8th of March 1788. After passing through the Ecole Polytechnique he
 became _ingenieur-officier_ in 1808, and saw active service with the
 imperial troops in Spain from 1810 to 1812, and again in France in 1814.
 He then resigned from the army and devoted the rest of his life to
 scientific investigation. His earliest work was mineralogical in
 character, but he soon turned his attention to the study of electricity
-and especially of electrochemistry. In 1837 he received the Copley medal
+and especially of electrochemistry. In 1837 he received the [[Copley]] medal
 from the Royal Society "for his various memoirs on electricity, and
 particularly for those on the production of metallic sulphurets and
 sulphur by the long-continued action of electricity of very low
 tension," which it was hoped would lead to increased knowledge of the
 "recomposition of crystallized bodies, and the processes which may have
 been employed by nature in the production of such bodies in the mineral
-kingdom." In biological chemistry he worked at the problems of animal
+kingdom." In biological [[Chemistry|chemistry]] he worked at the problems of animal
 heat and at the phenomena accompanying the growth of plants, and he also
 devoted much time to meteorological questions and observations. He was a
 prolific writer, his books including _Traite d'electricite et du
@@ -33,7 +33,7 @@ magnetisme_ (1834-1840), _Traite de physique dans ses rapports avec la
 chimie_ (1842), _Elements de l'electro-chimie_ (1843), _Traite complet
 du magnetisme_ (1845), _Elements de physique terrestre et de
 meteorologie_ (1847), and _Des climats et de l'influence qu'exercent les
-sols boises et deboises_ (1853). He died on the 18th of January 1878 in
+sols [[Boise|boises]] et deboises_ (1853). He died on the 18th of January 1878 in
 Paris, where from 1837 he had been professor of physics at the Musee
 d'Histoire Naturelle.
 

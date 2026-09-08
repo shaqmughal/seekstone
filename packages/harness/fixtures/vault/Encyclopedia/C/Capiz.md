@@ -9,9 +9,9 @@ provincial high school. Alcohol of a superior quality is manufactured in
 large quantities from the fermented juice of the nipa palm, which grows
 plentifully in the neighbouring swamps. Fishing and the weaving of
 fabrics of cotton, hemp and pineapple fibre are important industries.
-Rice and sugar are raised in abundance. Tobacco, Indian corn and cacao
-are produced to a limited extent; and rice, alcohol, sugar and copra are
-exported. Coasting vessels ascend the river to the town. The language is
+Rice and sugar are raised in abundance. Tobacco, Indian [[Corn|corn]] and cacao
+are produced to a limited extent; and rice, alcohol, sugar and [[Copra|copra]] are
+exported. [[Coasting]] vessels ascend the river to the town. The language is
 Visayan.
 
 ## References

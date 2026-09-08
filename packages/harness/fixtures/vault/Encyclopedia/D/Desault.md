@@ -15,7 +15,7 @@ his native village, he was settled as an apprentice in the military
 hospital of Belfort, where he acquired some knowledge of anatomy and
 military surgery. Going to Paris when about twenty years of age, he
 opened a school of anatomy in the winter of 1766, the success of which
-excited the jealousy of the established teachers and professors, who
+excited the [[Jealousy|jealousy]] of the established teachers and professors, who
 endeavoured to make him give up his lectures. In 1776 he was admitted a
 member of the corporation of surgeons; and in 1782 he was appointed
 surgeon-major to the hospital _De la Charité_. Within a few years he was
@@ -36,10 +36,10 @@ theatre, and committed to prison in the Luxembourg. In three days,
 however, he was liberated, and permitted to resume his functions. He
 died in Paris on the 1st of June 1795, the story that his death was
 caused by poison being disproved by the autopsy carried out by his
-pupil, M. F. X. Bichat. A pension was settled on his widow by the
+pupil, M. F. X. [[Bichat]]. A pension was settled on his widow by the
 republic. Together with François Chopart (1743-1795) he published a
 _Traité des maladies chirurgicales_ (1779), and Bichat published a
-digest of his surgical doctrines in _OEuvres chirurgicales de Desault_
+[[Digest|digest]] of his surgical doctrines in _OEuvres chirurgicales de Desault_
 (1798-1799).
 
 ## References

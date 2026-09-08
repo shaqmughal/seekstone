@@ -15,7 +15,7 @@ played a conspicuous part in Israelitish military history (see Josh. x.
 10; 1 Sam. xiii. 18; 1 Kings ix. 17; 1 Macc. iii. 13-24, vii. 39 ff.,
 ix. 50). Josephus (_Bell. Jud._ ii. 19) tells of the rout of a Roman
 army under Cestius Gallus in A.D. 66. The Talmud states that many rabbis
-were born in the place. It is now represented by Beit 'Ur-el-foka and
+were born in the place. It is now represented by [[Beit]] 'Ur-el-foka and
 Beit 'Ur-et-tahta.
 
 ## See also

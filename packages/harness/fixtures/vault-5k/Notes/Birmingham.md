@@ -30,7 +30,7 @@ nearly 20 sq. m., the greatest length from north to south 7 m., and the
 greatest breadth about 4 m. Yet Birmingham is a fraction only of an
 industrial district, of which it forms the south-eastern extremity,
 which itself resembles one vast city, and embraces such famous
-manufacturing towns as Dudley, Wolverhampton, Walsall, Wednesbury and
+manufacturing towns as [[Dudley]], Wolverhampton, Walsall, Wednesbury and
 many others. This is the district commonly known as the "Black Country,"
 which forms part of the South Staffordshire industrial district.
 Birmingham, however, does not lie actually within the "Black Country"
@@ -50,9 +50,9 @@ part which forms the art gallery was the work of the gas committee, to
 whom the council granted the site on condition that they would build
 such a gallery over their own office, the council having no powers at
 the time to raise the required funds. The art gallery contains a fine
-collection of modern paintings, including masterpieces of David Cox,
-Millais, Hunt, Henry Moore, Albert Moore, Briton-Riviere and
-Burne-Jones. In the industrial hall are rich stores of Oriental metal
+collection of modern paintings, including masterpieces of David [[Cox]],
+Millais, [[Hunt]], Henry Moore, Albert Moore, Briton-Riviere and
+[[Burne-Jones]]. In the industrial hall are rich stores of Oriental metal
 work, Limoges enamel, English and foreign glass and Japanese ceramics.
 In the side galleries are various textiles, and Persian, Rhodian, Grès
 de Flandres and other pottery. There is a remarkable collection of
@@ -64,7 +64,7 @@ Many valuable works of art are the gift of individuals. In 1906 plans
 were obtained for additional municipal offices and another art gallery
 on a site on the opposite side of Edmund Street from the council house.
 The town hall, completed in 1850, is severely classic, modelled upon a
-Greek temple. The lower stage consists of a plinth or basement, 23 ft.
+Greek temple. The lower stage consists of a plinth or [[Basement|basement]], 23 ft.
 high, upon which is reared a facade of peripteral character, with eight
 Corinthian columns (36 ft. high) at the two principal fronts, and
 thirteen columns on each side. These columns (imitated from those of the
@@ -73,11 +73,11 @@ finished at each end with a lofty pediment and entablature. The exterior
 of the hall is built of Anglesea marble. The interior consists chiefly
 of a regularly-built room, designed specially for meetings and
 concerts, with an orchestra containing a fine organ. The hall seats
-upwards of 2000 persons, but when cleared of benches, as is the case at
+upwards of 2000 persons, but when cleared of [[Bench|benches]], as is the case at
 great political meetings, over 5000 may find standing room. The Midland
 Institute, adjacent to the town hall on the west, has a fine lecture
 theatre. To the south lie the post office, the inland revenue office and
-Queen's College. To the north is the Gothic building of Mason College,
+Queen's College. To the north is the [[Gothic]] building of Mason College,
 an institution merged in the university. The Central free library,
 adjoining the Midland Institute, was rebuilt in 1879, after a fire which
 destroyed the fine Shakespeare library, the Cervantes collection, and a
@@ -98,16 +98,16 @@ height, and 212 ft. in width in a single span. The building of the Royal
 Society of Artists fronts New Street itself with a fine classic portico;
 here are also the exchange (Gothic) and the grammar school of King
 Edward VI., a Perpendicular building dating from 1840, designed by Sir
-Charles Barry. Corporation Street was the outcome of a great
+Charles [[Barry]]. Corporation Street was the outcome of a great
 "Improvement scheme" initiated in 1875, with the object of clearing away
 a mass of insanitary property from the centre of the town and of
 constructing a main thoroughfare from the centre to the north-eastern
-outlet, starting from New Street, near the railway station to Bull
+outlet, starting from New Street, near the railway station to [[Bull]]
 Street, and thence continuing to the Aston Road. The scheme received
 parliamentary sanction in 1876, and was finished in 1882 at a cost of
 £1,520,657. This led to an almost total extinction of the residential
 quarter in the centre of the town. The finest building in this handsome
-street is the Victoria assize courts. The foundation stone was laid by
+street is the Victoria [[Assize|assize]] courts. The foundation stone was laid by
 Queen Victoria in 1887, after Birmingham had been created an assize
 district; the building was completed in 1891. There is a handsome
 entrance, and within is a great hall, 80 ft. by 40, with a series of
@@ -123,10 +123,10 @@ Thomas; James Watt, a singularly beautiful work, in Ratcliff Place, by
 Alexander Munro; Sir Robert Peel, in New Street, by Peter Hollins;
 Albert, prince consort, in the council house, by J.H. Foley; and Queen
 Victoria, by Thomas Woolner; Sir Rowland Hill, in the hall of the post
-office, by Matthew Noble; and Dr Priestley, in New Street, by F.J.
-Williamson. There is also a fountain behind the town hall, commemorative
+office, by [[Matthew]] Noble; and Dr Priestley, in New Street, by F.J.
+Williamson. There is also a [[Fountain|fountain]] behind the town hall, commemorative
 of the mayoralty of Mr Joseph Chamberlain, and flanked by statues of Sir
-Josiah Mason, and George Dawson, who took active part in the municipal
+Josiah Mason, and George [[Dawson]], who took active part in the municipal
 reform movement previous to Mr Chamberlain's years of office. Sir
 Francis Chantrey's famous statue of James Watt is in a special chapel at
 Handsworth church.
@@ -196,15 +196,15 @@ Ashted, in 1791, and others. St Alban's is a good example of J.L.
 Pearson's work, and Edgbaston church is a picturesque Perpendicular
 structure.
 
-Under the Commonwealth Birmingham was a stronghold of Puritanism.
-Clarendon speaks of it and the neighbourhood as "the most eminently
+Under the [[Commonwealth]] Birmingham was a stronghold of Puritanism.
+[[Clarendon]] speaks of it and the neighbourhood as "the most eminently
 corrupted of any in England." Baxter, on the other hand, commending the
-garrison of Coventry, says it contained "the most religious men of the
+garrison of [[Coventry]], says it contained "the most religious men of the
 parts round about, especially from Birmingham." The traditional
 reputation for Nonconformity is maintained by the town, all varieties of
 dissenters being numerous and influential. The Unitarians, the oldest
 body established here, have among their chapels a handsome structure in
-Bristol Road, the Old Meeting, which in 1885 replaced the building in
+[[Bristol]] Road, the Old Meeting, which in 1885 replaced the building in
 which the congregation was formed on the Presbyterian model by a number
 of ministers ejected under the Act of Uniformity. Another chapel, the
 New Meeting, in Moor Street, is memorable as having been the place of Dr
@@ -214,8 +214,8 @@ church of the Messiah, in Broad Street, where they preserve a monument
 of Priestley, with a medallion portrait in profile, and an inscription
 written by Priestley's friend, Dr Parr. The first meeting-house of the
 Society of Friends dates from about 1690. Among Independent chapels,
-that of Carr's Lane had John Angell James and Robert William Dale as
-ministers. The Baptists first erected a chapel in Cannon Street in 1738.
+that of Carr's [[Lane]] had John [[Angell]] James and Robert William Dale as
+ministers. The [[Baptists]] first erected a chapel in Cannon Street in 1738.
 The Wesleyan Methodists were established in Birmingham by John Wesley
 himself in 1745, when he was roughly handled while preaching on Gosta
 Green. In 1903 a very fine central hall, with lofty tower, was opened by
@@ -238,7 +238,7 @@ to the bailiffs. In 1832, when the town was enfranchised, they were made
 the returning officers. About the beginning of the 19th century,
 however, a more regular system was instituted, by an act creating a body
 of street commissioners, who acted for the parish of Birmingham, the
-hamlets outside its boundaries having similar boards of their own. The
+[[Hamlet|hamlets]] outside its boundaries having similar boards of their own. The
 annoyance and difficulty caused by these bodies, thirteen in number, led
 to a demand for the incorporation of Birmingham as a borough; and a
 charter was accordingly granted by the crown in 1838, vesting the
@@ -251,7 +251,7 @@ all powers to this body. Another local act was obtained in 1862, and in
 1883 these various acts were combined into the Birmingham Corporation
 Consolidation Act. In 1889 Birmingham was created a city, and a grant
 made of an official coat of arms carrying supporters. The title of lord
-mayor was conferred on the chief magistrate in 1897. The city council
+mayor was conferred on the chief [[Magistrate|magistrate]] in 1897. The city council
 consists of eighteen aldermen and fifty-four councillors, selected from
 eighteen wards; it is divided into seventeen committees, most of which
 consist of eight members. The corporation is the largest employer of
@@ -259,7 +259,7 @@ labour in the borough, and is also a large landowner.
 
 The gas, electric and water supplies are in its hands. The gas supply
 was taken over in 1875, and the electric in 1900 for £420,000. The local
-sources of water-supply are the rivers Bourne and Blythe, the Plant
+sources of water-supply are the rivers [[Bourne]] and Blythe, the Plant
 Brook and the Perry Stream, and eight deep wells. These works can
 provide 20 million gallons daily in dry weather. A large area outside
 the city boundaries is supplied, and in 1891, the demand having risen to
@@ -270,7 +270,7 @@ Claerwen, tributaries of the Wye, lying west of Rhyader in Wales, and to
 construct the necessary works, the capital authorized being £6,000,000.
 About £5,900,000 had been spent when, on the 21st of July 1904, King
 Edward VII. formally opened the supply. Two reservoirs on the river
-Elan, formed by masonry dams from 98 to 128 ft. above the river-bed,
+Elan, formed by [[Masonry|masonry]] dams from 98 to 128 ft. above the river-bed,
 were then completed, the construction of the three planned on the
 Claerwen being deferred until necessity should arise. Nearly a mile
 below the confluence of the rivers the great Caban Coch dam, 122 ft.
@@ -288,10 +288,10 @@ for compensation water to the river. The part of the works opened in
 corporation is obliged by the act to supply towns within 15 m. of the
 line of the aqueduct. A village for the accommodation of workmen was
 established near the Caban Coch dam; and the corporation adopted a
-modified form of the Gothenburg system in respect of the supply of
+modified form of the [[Gothenburg]] system in respect of the supply of
 intoxicating liquors, permitting no publican to open a licensed house.
 
-The administration of the poor-law is vested in a board of guardians of
+The administration of the poor-law is vested in a board of [[Guardian|guardians]] of
 sixty members for the parish of Birmingham. The parish of Edgbaston
 (wholly within the borough) is in the poor-law union of King's Norton,
 and that part of the parish of Aston included in the borough is in the
@@ -311,7 +311,7 @@ consisting of members from the city council and from districts outside
 the municipal area.
 
 Birmingham was enfranchised in 1832, when two representatives were
-assigned to it, and Thomas Attwood and Joshua Scholefield, leaders of
+assigned to it, and Thomas Attwood and [[Joshua]] Scholefield, leaders of
 the Political Union, were elected. In 1867 three members were assigned,
 and in 1885 the number was increased to seven, and a corresponding
 number of parliamentary divisions created, namely Bordesley, Central,
@@ -367,7 +367,7 @@ popular control is given through the appointment by the city council of
 five out of the eleven trustees. In 1898 a public meeting carried a
 resolution in favour of creating a university. It was estimated that a
 quarter of a million was needed to endow and equip a university on the
-scale proposed. Including £50,000 offered by Mr Andrew Carnegie, an
+scale proposed. Including £50,000 offered by Mr Andrew [[Carnegie]], an
 equal amount from an anonymous donor, and the rest from local
 subscribers, in the autumn of 1899, £325,000 had been subscribed, and
 the privy council was at once petitioned for a charter, which was
@@ -378,7 +378,7 @@ power to grant degrees, and for its government by a court of governors
 was merged in the university. The faculty of commerce constitutes a
 distinctive feature in the scheme of the university, the object being to
 bring its teaching into close touch with the industrial life of the
-city, the district and the kingdom. In 1905 Sir Edward Elgar (who
+city, the district and the kingdom. In 1905 Sir Edward [[Elgar]] (who
 resigned in 1908) became the first occupant of a chair of music, founded
 owing to the liberality of Mr Richard Peyton. From the same year great
 strides were made in the development of the scientific departments of
@@ -401,11 +401,11 @@ the kingdom. The Municipal Technical School was established in 1893 in
 the building of the Midland Institute, and in 1895 was housed in a fine
 building of its own, in Suffolk Street, whither the whole of the
 scientific teaching of the institute was transferred. It contains
-metallurgical and engineering workshops and laboratories, lecture
-theatres for the teaching of chemistry and physics, a women's
-department, and rooms for the teaching of machine drawing and building
+metallurgical and [[Engineering|engineering]] workshops and laboratories, lecture
+theatres for the teaching of [[Chemistry|chemistry]] and physics, a women's
+department, and rooms for the teaching of [[Machine|machine]] drawing and building
 construction. Among other educational foundations may be mentioned a
-number of industrial schools, reformatories and private schools of a
+number of [[Industrial School|industrial schools]], reformatories and private schools of a
 good class.
 
 The principal libraries are the Birmingham library, founded in 1798 by
@@ -425,7 +425,7 @@ in 1864 by Dr Heslop, has two establishments--for out-patients (a
 handsome Gothic building) in Steelhouse Lane, and an in-patient
 department in Broad Street. There is also a women's hospital (free) for
 the special diseases of women; a lying-in charity; special hospitals for
-diseases of the eye, the ear, bodily deformities, and the teeth; and a
+diseases of the eye, the [[Ear|ear]], bodily deformities, and the teeth; and a
 homoeopathic hospital. The parish of Birmingham maintains a large
 infirmary at the workhouse (Birmingham Heath), and a dispensary for
 out-patients in Paradise Street. The majority of the hospitals and
@@ -440,7 +440,7 @@ festival is held triennially in aid of the general hospital. There is a
 sanatorium at Blackwell, near the Lickey Hill, 10 m. south of
 Birmingham, common to all the hospitals. Amongst the non-medical
 charities the principal are the blind institution and the deaf and dumb
-asylum, both at Edgbaston; and Sir Josiah Mason's orphanage at
+[[Asylum|asylum]], both at Edgbaston; and Sir Josiah Mason's orphanage at
 Erdington. There are also in the town numerous almhouses for aged
 persons, the chief of which are Lench's Trust, the James Charities, and
 the Licensed Victuallers' asylum. Besides the general benefit societies,
@@ -455,7 +455,7 @@ Saxon or even British antiquity in this respect, but without foundation.
 The first direct mention of Birmingham trades is to be found in Leland's
 _Itinerary_ (1538). He writes:--"I came through a pretty street as ever
 I entered into Bermingham towne. This street, as I remember, is called
-Dirtey [Deritend]. In it dwell smiths and cutlers. There be many smithes
+Dirtey [Deritend]. In it dwell smiths and [[Cutler|cutlers]]. There be many smithes
 in the towne that use to make knives and all manner of cutlery tooles,
 and many lorimers that make bittes, and a great many naylors, so that a
 great part of the towne is maintained by smithes, who have their iron
@@ -470,13 +470,13 @@ the development. It is remarkable that two important trades, now located
 elsewhere, were first established here. Steel was made in Birmingham
 until 1797, but then ceased to be so for about seventy years, when an
 experiment in steel-making was made by a single firm. Cotton-spinning
-was begun in Birmingham by John Wyatt, Lewis Paul and Thomas Warren as
+was begun in Birmingham by John Wyatt, [[Lewis]] Paul and Thomas Warren as
 early as 1730; but the speculation was abandoned before the end of the
 century. The great staple of Birmingham is metal-working in all its
 various forms. The chief variety is the brass-working trade.
 Iron-working, though largely carried on, is a much less important trade,
 works of this kind being chiefly established in the Staffordshire
-district. Jewelry, gold, silver and gilt come next to brass. The
+district. [[Jewelry]], gold, silver and gilt come next to brass. The
 remarkable development of this branch of industry is demonstrated by the
 increase in the amount of gold and silver marked, as recorded by the
 Assay office--the figures of 48,123 oz. of gold and 84,323 oz. of silver
@@ -485,7 +485,7 @@ oz. of silver by the end of the century. Then follow "small arms" of all
 kinds. Until 1906 a Royal Small Arms factory was maintained by the
 government at Sparkbrook, but it was then transferred to the Birmingham
 Small Arms Company, which had already extensive works in the district.
-Buttons, hooks and eyes, pins and other articles used for dress,
+Buttons, hooks and eyes, pins and other articles used for [[Dress|dress]],
 constitute a large class of manufactures. Glass, especially table glass,
 is a renowned staple of the town. Screws, nails, &c., are made in
 enormous quantities; indeed, Birmingham has a monopoly of the English
@@ -494,7 +494,7 @@ this connexion being that of Sir Josiah Mason. Electro-plating, first
 established in 1841 by the firm of Elkington, is one of the leading
 trades. Among other branches of manufacture are wire-drawing, bell
 founding, metal rolling, railway-carriage building (a large and
-important industry), the manufacture of cutting implements and tools of
+important industry), the manufacture of cutting [[Implement|implements]] and tools of
 all kinds, die-sinking, papier-maché making and a variety of others. In
 1897 there was a sudden development of cycle manufacturing, followed in
 1899 by an almost equally sudden collapse, but this industry is
@@ -513,11 +513,11 @@ with Birmingham. Here John Baskerville, the printer, carried on his
 work. An institution called the Lunar Society, which met each month
 about the time of full moon, brought together a brilliant company--Watt,
 Boulton, Joseph Priestley, Josiah Wedgwood, Erasmus Darwin, Samuel Parr,
-Dr William Withering, Richard Lovell Edgeworth, Sir Joseph Banks, Sir
+Dr William Withering, Richard Lovell [[Edgeworth]], Sir Joseph Banks, Sir
 William Herschel, Dr Solander, John Roebuck, James Keir and many others.
 William Murdock, the inventor of gas, was a Soho man, and first used his
 invention to light the Soho factory at the peace of Amiens in 1802. The
-series of inventors is continued by the names of Gillott, Elkington,
+series of inventors is continued by the names of [[Gillott]], Elkington,
 Chance, Mason and others. Thomas Rickman, the reviver and historian of
 Gothic architecture, practised as an architect in Birmingham. William
 Hutton, the antiquary and historian, carried on his bookselling business
@@ -566,14 +566,14 @@ remains have been found other than a very few coins. The origin of the
 name is untraceable; the spelling itself has passed through about 100
 different forms. Dugdale, the historian of Warwickshire, adopts
 Bromwycham, and regards it as of Saxon derivation. Hutton, the historian
-of Birmingham, has the fanciful etymology of _Brom_ (broom), _wych_ (a
+of Birmingham, has the fanciful [[Etymology|etymology]] of _Brom_ (broom), _wych_ (a
 descent), and _ham_ (a home), making together the home on the hill by
 the heath.
 
 In _Domesday Book_ Birmingham is rated at four miles of land with half a
 mile of woods, the whole valued at £203. Two hundred years later the
 family of de Bermingham, the owners of the place, come into sight, one
-of them, William, being killed at the battle of Evesham, in 1265,
+of them, William, being killed at the battle of [[Evesham]], in 1265,
 fighting with Simon de Montfort and the barons against Henry III. The
 son of this William afterwards took part in the French war, and was made
 prisoner; his father's estates, forfeited by treason, were restored to
@@ -582,7 +582,7 @@ offices, but seemingly abstained from politics. They held the place
 until 1527, when Edward de Bermingham was deprived of his property by
 means of John Dudley, duke of Northumberland, who trumped up a pretended
 charge of riot and robbery against him and procured Birmingham for
-himself. On the attainder of Dudley the manor passed to the crown, and
+himself. On the [[Attainder|attainder]] of Dudley the manor passed to the crown, and
 was granted to Thomas Marrow, of Berkswell, from whom by marriage and
 descent it went to Christopher Musgrave, and finally, as regards the
 only valuable part--the market tolls--by purchase to the town itself. In
@@ -594,7 +594,7 @@ seized part of his baggage, including much plate, money and wine, which
 they sent to the Parliamentary garrison at Warwick. Before the battle of
 Edgehill Charles rested for two nights at Aston Hall, near the town, as
 the guest of Sir Thomas Holte. The Birmingham people resented this by
-helping the Parliamentarians to cannonade the Hall and to levy a fine
+helping the Parliamentarians to cannonade the Hall and to [[Levy|levy]] a fine
 upon Sir Thomas Holte. They also supplied the Parliamentary army with
 15,000 sword blades, refusing to make a single blade for the Royalists.
 These manifestations of hostility were avenged in April 1643 by Prince
@@ -625,14 +625,14 @@ laboured. The leader in these movements was the famous Dr Priestley, who
 kept up an active controversy with the local clergy and others, and thus
 drew upon himself and his co-religionists the hatred of the more violent
 members of the Church and Tory party. The smouldering fire broke out on
-the occasion of the French Revolution. On the 14th of July a dinner of
+the occasion of the [[French Revolution]]. On the 14th of July a [[Dinner|dinner]] of
 Birmingham Liberals was held at the Royal hotel to celebrate the
 destruction of the Bastille. This was the signal of a popular outbreak.
 A Church and King mob, encouraged and organized by leaders of better
 station, who were too cowardly to show themselves, began an attack upon
 the Unitarians. Priestley was not present at the dinner, but his house
 at Fair Hill, Sparkbrook, was one of the first to be sacked and
-burnt--his library and laboratory, with all his manuscripts, the records
+burnt--his library and laboratory, with all his [[Manuscript|manuscripts]], the records
 of lifelong scientific and philosophical inquiries, perishing in the
 flames. The house and library of Hutton the historian were also
 destroyed. The Unitarian chapel was burnt, and several houses belonging

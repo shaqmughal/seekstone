@@ -1,9 +1,9 @@
 # Canal
 
-CANAL (from Lat. _canalis_, "channel" and "kennel" being doublets of the
+CANAL (from Lat. _[[Canalis|canalis]]_, "channel" and "[[Kennel|kennel]]" being [[Doublet|doublets]] of the
 word), an artificial water course used for the drainage of low lands,
 for irrigation (q.v.), or more especially for the purpose of navigation
-by boats, barges or ships. Probably the first canals were made for
+by boats, [[Barge|barges]] or ships. Probably the first canals were made for
 irrigation, but in very early times they came also to be used for
 navigation, as in Assyria and Egypt. The Romans constructed various
 works of the kind, and Charlemagne projected a system of waterways
@@ -16,7 +16,7 @@ from the defect that no method being known of conveniently transferring
 boats from one level to another they were only practicable between
 points that lay on nearly the same level; and inland navigation could
 not become generally useful and applicable until this defect had been
-remedied by the employment of locks. Great doubts exist as to the
+remedied by the employment of [[Lock|locks]]. Great doubts exist as to the
 person, and even the nation, that first introduced locks. Some writers
 attribute their invention to the Dutch, holding that nearly a century
 earlier than in Italy locks were used in Holland where canals are very
@@ -24,13 +24,13 @@ numerous, owing to the favourable physical conditions. On the other
 hand, the contrivance has been claimed for engineers of the Italian
 school, and it is said that two brothers Domenico of Viterbo constructed
 a lock-chamber enclosed by a pair of gates in 1481, and that in 1487
-Leonardo da Vinci completed six locks uniting the canals of Milan. Be
+[[Leonardo Da Vinci|Leonardo da Vinci]] completed six locks uniting the canals of Milan. Be
 that as it may, however, the introduction of locks in the 14th or 15th
 century gave a new character to inland navigation and laid the basis of
 its successful extension.
 
-The Languedoc Canal (Canal du Midi) may be regarded as the pioneer of
-the canals of modern Europe. Joining the Bay of Biscay and the
+The [[Languedoc]] Canal (Canal du Midi) may be regarded as the pioneer of
+the canals of modern Europe. Joining the Bay of [[Biscay]] and the
 Mediterranean it is 148 m. long and rises 620 ft. above sea-level with
 119 locks, its depth being about 6-1/2 ft. It was designed by Baron Paul
 Riquet de Bonrepos (1604-1680) and was finished in 1681. With it and the
@@ -39,9 +39,9 @@ construction which has provided her with over 3000 m. of canals, in
 addition to over 4600 m. of navigable rivers. In Russia Peter the Great
 undertook the construction of a system of canals about the beginning of
 the 18th century, and in Sweden a canal with locks, connecting
-Eskilstuna with Lake Malar, was finished in 1606. In England the oldest
-artificial canal is the Foss Dyke, a relic of the Roman occupation. It
-extends from Lincoln to the river Trent near Torksey (11 m.), and formed
+[[Eskilstuna]] with Lake Malar, was finished in 1606. In England the oldest
+artificial canal is the [[Foss]] Dyke, a relic of the Roman occupation. It
+extends from [[Lincoln]] to the river Trent near Torksey (11 m.), and formed
 a continuation of the Caer Dyke, also of Roman origin but now filled up,
 which ran from Lincoln to Peterborough (40 m.). Camden in his
 _Britannia_ says that the Foss Dyke was deepened and to some extent
@@ -50,7 +50,7 @@ in Great Britain until the middle of the 18th century, though before
 that date some progress had been made in rendering some of the larger
 rivers navigable. In 1759 the duke of Bridgewater obtained powers to
 construct a canal between Manchester and his collieries at Worsley, and
-this work, of which James Brindley was the engineer, and which was
+this work, of which James [[Brindley]] was the engineer, and which was
 opened for traffic in 1761, was followed by a period of great activity
 in canal construction, which, however, came to an end with the
 introduction of railways. According to evidence given before the royal
@@ -69,8 +69,8 @@ The canals that were made in the early days of canal-construction were
 mostly of the class known as _barge_ or _boat canals_, and owing to
 their limited depth and breadth were only available for vessels of small
 size. But with the growth of commerce the advantage was seen of cutting
-canals of such dimensions as to enable them to accommodate sea-going
-ships. Such _ship-canals_, which from an engineering point of view
+canals of such [[Dimension|dimensions]] as to enable them to accommodate sea-going
+ships. Such _ship-canals_, which from an [[Engineering|engineering]] point of view
 chiefly differ from barge-canals in the magnitude of the works they
 involve, have mostly been constructed either to shorten the voyage
 between two seas by cutting through an intervening isthmus, or to
@@ -78,7 +78,7 @@ convert important inland places into seaports. An early example of the
 first class is afforded by the Caledonian Canal (q.v.), while among
 later ones may be mentioned the Suez Canal (q.v.), the Kaiser Wilhelm,
 Nord-Ostsee or Kiel Canal, connecting Brunsbuttel at the mouth of the
-Elbe with Kiel (q.v.) on the Baltic, and the various canals that have
+[[Elbe]] with Kiel (q.v.) on the Baltic, and the various canals that have
 been proposed across the isthmus that joins North and South America (see
 PANAMA CANAL). Examples of the second class are the Manchester Ship
 Canal and the canal that runs from Zeebrugge on the North Sea to Bruges
@@ -94,10 +94,10 @@ closed by a lock or some equivalent device to enable vessels to be
 transferred from one to another. To avoid unduly heavy earthwork, the
 reaches must closely follow the bases of hills and the windings of
 valleys, but from time to time it will become necessary to cross a
-sudden depression by the aid of an embankment or aqueduct, while a piece
+sudden depression by the aid of an [[Embankment|embankment]] or aqueduct, while a piece
 of rising ground or a hill may involve a cutting or a tunnel. Brindley
-took the Bridgewater canal over the Irwell at Barton by means of an
-aqueduct of three stone arches, the centre one having a span of 63 ft.,
+took the Bridgewater canal over the Irwell at [[Barton]] by means of an
+aqueduct of three stone [[Arches|arches]], the centre one having a span of 63 ft.,
 and T. Telford arranged that the Ellesmere canal should cross the Dee
 valley at Pont-y-Cysyllte partly by embankment and partly by aqueduct.
 The embankment was continued till it was 75 ft. above the ground, when
@@ -164,7 +164,7 @@ a sufficient catchment area to supply the loss of water from the canal
 by evaporation from the surface, percolation through the bed, and
 lockage. If the supply be inadequate, the draught of the boats plying on
 the canal may have to be reduced in a dry season, and the consequent
-decrease in the size of their cargoes will both lessen the carrying
+decrease in the size of their [[Cargo|cargoes]] will both lessen the carrying
 capacity of the canal and increase the working expenses in relation to
 the tonnage handled. Again, since the consumption of water in lockage
 increases both with the size of the locks and the frequency with which
@@ -185,8 +185,8 @@ where it is retained when the gates are closed.
   Waste-weirs and stop-gates.
 
 An essential adjunct to a canal is a sufficient number of waste-weirs to
-discharge surplus water accumulating during floods, which, if not
-provided with an exit, may overflow the tow-path, and cause a breach in
+[[Discharge|discharge]] surplus water accumulating during [[Flood|floods]], which, if not
+provided with an exit, may overflow the tow-path, and cause a [[Breach|breach]] in
 the banks, stoppage of the traffic, and damage to adjoining lands. The
 number and positions of these waste-weirs must depend on the nature of
 the country through which the canal passes. Wherever the canal crosses a
@@ -219,7 +219,7 @@ between the stop-gates can be run off into the stream.
 
   Locks.
 
-Locks are chambers, constructed of wood, brickwork, masonry or concrete,
+Locks are chambers, constructed of wood, [[Brickwork|brickwork]], [[Masonry|masonry]] or concrete,
 and provided with gates at each end, by the aid of which vessels are
 transferred from one reach of the canal to another. To enable a boat to
 ascend, the upper gates and the sluices which command the flow of water
@@ -240,10 +240,10 @@ vertical timber at the end of the gate is known as the "heel-post," and
 at its foot is a casting that admits an iron pivot which is fixed in the
 lock bottom, and on which the gate turns. Iron straps round the head of
 the heel-post are let into the lock-coping to support the gate. The
-gates are opened and closed by balance beams projecting over the lock
+gates are opened and closed by [[Balance|balance]] beams projecting over the lock
 side, by gearing or in cases where they are very large and heavy by the
 direct action of a hydraulic ram. In order to economize water canal
-locks are made only a few inches wider than the vessels they have to
+locks are made only a few [[Inch|inches]] wider than the vessels they have to
 accommodate. The English canal boat is about 70 or 75 ft. long and 7 or
 8 ft. in beam; canal barges are the same length but 14 or 15 ft. in
 width, so that locks which will hold one of them will admit two of the
@@ -254,7 +254,7 @@ long locks have sometimes intermediate gates by which the effective
 length is reduced when a single vessel is passing. The lift of canal
 locks, that is, the difference between the level of adjoining reaches,
 is in general about 8 or 10 ft., but sometimes is as little as 1-1/2 ft.
-On the Canal du Centre (Belgium) there are locks with a lift of 17 ft.,
+On the Canal du Centre ([[Belgium]]) there are locks with a lift of 17 ft.,
 and on the St Denis canal near La Villette basins in Paris there is one
 with a lift of 32-1/2 ft. In cases where a considerable difference of
 level has to be surmounted the locks are placed close together in a
@@ -286,7 +286,7 @@ which the boats travel. In some cases the boats are conveyed on a
 wheeled trolley or cradle running on rails; this plan was adopted on the
 Morris canal, built in 1825-1831, in the case of 23 inclines having
 gradients of about 1 in 10, the rise of each varying from 44 to 100 ft.
-Between the Ourcq canal and the Marne, near Meaux, the difference of
+Between the Ourcq canal and the [[Marne]], near [[Meaux]], the difference of
 level is about 40 ft., and barges weighing about 70 tons are taken from
 the one to the other on a wheeled cradle weighing 35 tons by a wire rope
 over an incline nearly 500 yards long. But heavy barges are apt to be
@@ -297,20 +297,20 @@ utilized about 1840 on the Chard canal (England), and 10 years later it
 was adapted at Blackhill on the Monkland canal (Scotland) to replace a
 double flight of locks, in consequence of the traffic having been
 interrupted by insufficiency of water. There the height to be overcome
-was 96 ft. Two pairs of rails, of 7 ft. gauge, were laid down on a
+was 96 ft. Two pairs of rails, of 7 ft. [[Gauge|gauge]], were laid down on a
 gradient of 1 in 10, and on these ran two carriages having wrought iron,
 water-tight caissons with lifting gates at each end, in which the barges
 floated partially but not wholly supported by water. The carriages, with
 the barge and water, weighed about 80 tons each, and were arranged to
 counterbalance each other, one going up as the other was going down. The
 power required was provided by two high pressure steam engines of 25
-h.p., driving two large drums round which was coiled, in opposite
+h.p., driving two large [[Drum|drums]] round which was coiled, in opposite
 directions, the 2-inch wire rope that hauled the caissons. An incline
 constructed on the Union canal at Foxton (England) to replace 10 locks
 giving a total rise of 75 ft., accommodates barges of 70 tons, or two
 canal boats of 33 tons. It is in some respects like the Monkland canal
 incline, but the movable caissons work on four pairs of rails on an
-incline of 1 in 14, broadside on, and the boats are entirely waterborne.
+incline of 1 in 14, [[Broadside|broadside]] on, and the boats are entirely waterborne.
 Steam power is employed, with an hydraulic accumulator which enables
 hydraulic power to be used in keeping the caisson in position at the top
 of the incline while the boats are being moved in or out, a water-tight
@@ -326,7 +326,7 @@ Vertical lifts can only be used instead of locks with advantage at
 places where the difference in level occurs in a short length of canal,
 since otherwise long embankments or aqueducts would be necessary to
 obtain sites for their construction. An early example was built in 1809
-at Tardebigge on the Worcester and Birmingham canal. It consisted of a
+at Tardebigge on the Worcester and [[Birmingham]] canal. It consisted of a
 timber caisson, weighing 64 tons when full of water, counterpoised by
 heavy weights carried on timber platforms. The lift of 12 ft. was
 effected in about three minutes by two men working winches. Seven lifts,
@@ -382,8 +382,8 @@ speed at which a boat can be hauled with a smaller expenditure of energy
 than at a higher or a lower speed, this maximum being the speed of free
 propagation of the primary wave raised by the motion of the boat (see
 WAVE). About 1830 when, in the absence of railways, canals could still
-aspire to act as carriers of passengers, advantage was taken of this
-fact on the Glasgow and Ardrossan canal, and subsequently on some
+aspire to act as [[Carrier|carriers]] of passengers, advantage was taken of this
+fact on the [[Glasgow]] and Ardrossan canal, and subsequently on some
 others, to run fast passenger boats, made lightly of wrought iron and
 measuring 60 ft. in length by about 6 ft. in breadth. Provided with two
 horses they started at a low speed behind the wave, and then on a given
@@ -396,7 +396,7 @@ directions.
 
   Mechanical power.
 
-Steam towage was first employed on the Forth and Clyde canal in 1802,
+Steam towage was first employed on the Forth and [[Clyde]] canal in 1802,
 when a tug-boat fitted with steam engines by W. Symington drew two
 barges for a distance of 19-1/2 m. in 6 hours in the teeth of a strong
 headwind. As a result of this successful experiment it was proposed to
@@ -416,21 +416,21 @@ an hour. On the Aire and Calder navigation, where the locks have a
 minimum length of 215 ft., a large coal traffic is carried in trains of
 boat-compartments on a system designed by W.H. Bartholomew. The boats
 are nearly square in shape, except the leading one which has an ordinary
-bow; they are coupled together by knuckle-joints fitted into hollow
+[[Bow|bow]]; they are coupled together by knuckle-joints fitted into hollow
 stern-posts, so that they can move both laterally and vertically, and a
 wire rope in tension on each side enables the train to be steered. No
 boat crews are required, the crew of the steamer regulating the train.
 If the number of boats does not exceed 11 they can be pushed, but beyond
 that number they are towed. Each compartment carries 35 tons, and the
 total weight in a train varies from 700 to 900 tons. On the arrival of a
-train at Goole the boats are detached and are taken over submerged
+train at [[Goole]] the boats are detached and are taken over submerged
 cradles under hydraulic hoists which lift the boat with the cradle
 sufficiently high to enable it to be turned over and discharge the whole
 cargo at once into a shoot and thence into sea-going steamers. Another
 method of utilizing steam-power, which was also first tried on the Forth
 and Clyde canal by Symington in 1789, is to provide each vessel with a
 separate steam engine, and many barges are now running fitted in this
-way. Experiments have also been made with internal combustion engines in
+way. Experiments have also been made with internal [[Combustion|combustion]] engines in
 place of steam engines. In some cases, chiefly on rivers having a strong
 current, recourse has been had to a submerged chain passed round a drum
 on a tug: this drum is rotated by steam power and thus the tug is hauled
@@ -446,7 +446,7 @@ pulley. Small locomotives running on rails along the towpath were tried
 on the Shropshire Union canal, where they were abandoned on account of
 practical difficulties in working, and also on certain canals in France
 and Germany, where, however, the financial results were not
-satisfactory. On portions of the Teltow canal, joining the Havel and the
+satisfactory. On portions of the Teltow canal, joining the [[Havel]] and the
 Spree, electrical tractors run on rails along both banks, taking their
 power from an overhead wire; they attain a speed of 2-1/2 m. an hour
 when hauling two 600-ton barges. The electrical supply is also utilized
@@ -479,7 +479,7 @@ travelling wire rope supported by pulleys on the towpath.
   Engineering_; John Phillips, _History of Inland Navigation_; J.
   Priestley, _History of Navigable Rivers, Canals, &c. in Great Britain_
   (1831); T. Telford, _Life_ (1838); John Smeaton, _Reports_ (1837);
-  _Reports of the International Congresses on Interior Navigation_;
+  _Reports of the [[International]] Congresses on Interior Navigation_;
   _Report and Evidence of the Royal Commission on Canals_ (_Great
   Britain_), 1906-9.     (E. L. W.)
 

@@ -6,7 +6,7 @@ topic: mathematics
 
 # Cooke
 
-COOKE, JAY (1821-1905), American financier, was born at Sandusky, Ohio,
+COOKE, [[Jay|JAY]] (1821-1905), American financier, was born at Sandusky, Ohio,
 on the 10th of August 1821, the son of Eleutheros Cooke (1787-1864), a
 pioneer Ohio lawyer, and Whig member of Congress from that state in
 1831-1833. Being destined for a commercial career, Jay Cooke received a
@@ -22,7 +22,7 @@ reorganizing some of the abandoned Pennsylvania railways and canals and
 placing them again in operation. On the 1st of January 1861 he opened in
 Philadelphia the private banking house of Jay Cooke & Company, and soon
 achieved signal success in floating at par a war loan of $3,000,000 for
-the state of Pennsylvania, whose credit had become notoriously bad. In
+the state of Pennsylvania, whose [[Credit|credit]] had become notoriously bad. In
 the early months of the Civil War Cooke co-operated with the secretary
 of the treasury, Salmon P. Chase, in securing loans from the leading
 bankers in the Northern cities, and his own firm was so successful in
@@ -40,7 +40,7 @@ at Philadelphia almost as soon as such institutions were authorized by
 Congress. In the early months of 1865, when the needs of the government
 were pressing, and the sale of the new "seven-thirty" notes by the
 national banks had been very disappointing, Cooke's services were again
-secured. He sent agents into the remotest villages and hamlets, and even
+secured. He sent agents into the remotest villages and [[Hamlet|hamlets]], and even
 into the isolated mining camps of the West, and caused the rural
 newspapers to praise the loan. As a result, between February and July
 1865 he had disposed of three series of the notes, reaching a total of
@@ -59,7 +59,7 @@ investment in a silver mine in Utah had again become wealthy. He died at
 Ogontz, Pennsylvania, on the 18th of February 1905. Cooke was noted for
 his piety, and gave regularly a tenth of his income for religious and
 charitable purposes. His handsome estate at Ogontz, which he had been
-compelled to give up during his bankruptcy, he later repurchased and
+compelled to give up during his [[Bankruptcy|bankruptcy]], he later repurchased and
 converted into a school for girls.
 
   See E. P. Oberholtzer, _Jay Cooke, Financier of the Civil War_

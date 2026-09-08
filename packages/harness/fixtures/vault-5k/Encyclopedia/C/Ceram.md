@@ -27,7 +27,7 @@ a few miles during the rainy season. The rainfall is very heavy,
 amounting to 121 in. (mean annual) on the south coast. On the north
 coast the bays of Savai and Waru are accessible for small vessels. The
 geological structure, consisting chiefly of eruptive rocks and
-crystalline limestone, is similar to that of northern Amboyna. In the
+crystalline [[Limestone|limestone]], is similar to that of northern Amboyna. In the
 eastern section the prevailing rock is crystalline chalk, similar to
 that of Buru. Several hot springs occur, and earthquakes are not
 infrequent. About 4000 persons perished in the earthquake of 1899. A
@@ -45,7 +45,7 @@ tobacco is exported to Europe; but by far the most important production
 is the sago palm, which grows abundantly in the swampy districts,
 especially of Eastern Ceram, and furnishes a vast supply of food, not
 only to Ceram itself, but to other islands to the east. The Dutch have
-established cocoa and coffee plantations at various points. The
+established [[Cocoa|cocoa]] and coffee plantations at various points. The
 coast-villages are inhabited by a mixed Malay population, Buginese,
 Macassars, Balinese and other races of the archipelago. The interior is
 occupied by the aborigines, a people of Papuan stock. They are savages

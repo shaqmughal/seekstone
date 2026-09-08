@@ -10,7 +10,7 @@ was 8496, all (save 75) Romanists and all (save 111) German-speaking.
 The town is entirely dependent on the great Benedictine abbey that rises
 slightly above it to the east. Close to its present site Meinrad, a
 hermit, was murdered in 861 by two robbers, whose crime was made known
-by Meinrad's two pet ravens. Early in the 10th century Benno, a hermit,
+by Meinrad's two pet ravens. Early in the 10th century [[Benno]], a hermit,
 rebuilt the holy man's cell, but the abbey proper was not founded till
 about 934, the church having been consecrated (it is said by Christ
 Himself) in 948. In 1274 the dignity of a prince of the Holy Roman
@@ -18,9 +18,9 @@ Empire was confirmed by the emperor to the reigning abbot. Originally
 under the protection of the counts of Rapperswil (to which town on the
 lake of Zürich the old pilgrims' way still leads over the Etzel Pass,
 3146 ft., with its chapel and inn), this position passed by marriage
-with their heiress in 1295 to the Laufenburg or cadet line of the
+with their heiress in 1295 to the Laufenburg or [[Cadet|cadet]] line of the
 Habsburgs, but from 1386 was permanently occupied by Schwyz. A black
-wooden image of the Virgin and the fame of St Meinrad caused the throngs
+wooden [[Image|image]] of the Virgin and the fame of St Meinrad caused the throngs
 of pilgrims to resort to Einsiedeln in the middle ages, and even now it
 is much frequented, particularly about the 14th of September. The
 existing buildings date from the 18th century only, while the treasury

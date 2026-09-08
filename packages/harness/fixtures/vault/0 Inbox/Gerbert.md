@@ -1,9 +1,9 @@
 # Gerbert
 
-GERBERT, MARTIN (1720-1793), German theologian, historian and writer on
+GERBERT, [[Martin|MARTIN]] (1720-1793), German theologian, historian and writer on
 music, belonged to the noble family of Gerbert von Hornau, and was born
 at Horb on the Neckar, Wurttemberg, on the 12th (or 11th or 13th) of
-August 1720. He was educated at Freiburg in the Breisgau, at Klingenau
+August 1720. He was educated at [[Freiburg]] in the [[Breisgau]], at Klingenau
 in Switzerland and at the Benedictine abbey of St Blasien in the Black
 Forest, where in 1737 he took the vows. In 1744 he was ordained priest,
 and immediately afterwards appointed professor, first of philosophy and
@@ -14,7 +14,7 @@ scholastic system by an appeal to the Fathers, notably Augustine; from
 view to examining the collections of documents in the various monastic
 libraries. In 1764 he was elected prince-abbot of St Blasien, and proved
 himself a model ruler both as abbot and prince. His examination of
-archives during his travels had awakened in him a taste for historical
+[[Archive|archives]] during his travels had awakened in him a taste for historical
 research, and under his rule St Blasien became a notable centre of the
 methodical study of history; it was here that Marquard Herrgott wrote
 his _Monumenta domus Austriacae_, of which the first two volumes were
@@ -28,7 +28,7 @@ veteris liturgiae Alemannicae_; and in 1784, in three volumes,
 _Scriptores ecclesiastici de musica sacra_, a collection of the
 principal writers on church music from the 3rd century till the
 invention of printing. The materials for this work he had gathered
-during his travels, and although it contains many textual errors, its
+during his travels, and although it contains many textual [[Error|errors]], its
 publication has been of great importance for the history of music, by
 preserving writings which might either have perished or remained
 unknown. His interest in music led to his acquaintance with the composer
@@ -36,16 +36,16 @@ Gluck, who became his intimate friend.
 
 As a prince of the Empire Gerbert was devoted to the interests of the
 house of Austria; as a Benedictine abbot he was opposed to Joseph II.'s
-church policy. In the Febronian controversy (see FEBRONIANISM) he had
+church policy. In the Febronian controversy (see [[Febronianism|FEBRONIANISM]]) he had
 early taken a mediating attitude, and it was largely due to his
-influence that Bishop Hontheim had been induced to retract his extreme
+influence that Bishop [[Hontheim]] had been induced to retract his extreme
 views.
 
 In 1768 the abbey of St Blasien, with the library and church, was burnt
 to the ground, and the splendid new church which rose on the ruins of
 the old (1783) remained until its destruction by fire in 1874, at once a
-monument of Gerbert's taste in architecture and of his Habsburg
-sympathies. It was at his request that it was made the mausoleum of all
+monument of Gerbert's taste in architecture and of his [[Habsburg]]
+sympathies. It was at his request that it was made the [[Mausoleum|mausoleum]] of all
 the Austrian princes buried outside Austria, whose remains were solemnly
 transferred to its vaults. In connexion with its consecration he
 published his _Historia Nigrae Silvae, ordinis S. Benedicti coloniae_ (3

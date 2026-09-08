@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Eden_Hall"
 
 # Eden Hall
 
-EDEN HALL, LUCK OF, an old painted drinking goblet preserved at Eden
-Hall, Cumberland, the seat of the Musgrave family. It is of enamelled or
+EDEN HALL, LUCK OF, an old painted drinking [[Goblet|goblet]] preserved at [[Eden]]
+Hall, [[Cumberland]], the seat of the Musgrave family. It is of enamelled or
 painted glass and is believed to date from the 10th century. It is of
 fair size and has the letters I.H.S. on the top. Round the vase is the
 famous verse given below. A legend involving the fortunes of the
@@ -26,7 +26,7 @@ condition:--
    Farewell the luck of Eden Hall."
 
 There are variants of this legend, but substantially they agree.
-Possessed of the lucky cup the knight of Musgrave is said to have at
+Possessed of the lucky cup the [[Knight|knight]] of Musgrave is said to have at
 once prospered in a love-suit which had till then gone against him.
 There is a curious poem on the cup called "The Drinking Match at Eden
 Hall," by Philip, duke of Wharton, a parody on the ballad of Chevy

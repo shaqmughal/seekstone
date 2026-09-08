@@ -26,7 +26,7 @@ for its lusciousness.
 Cider used to be made in the south of Ireland, but the industry had
 almost become extinct until revived by the Department of Agriculture,
 which in 1904 erected a cider-making plant at Drogheda, Co. Louth, gave
-assistance to private firms at Dungarvan, Co. Waterford, and Fermoy, Co.
+assistance to private firms at Dungarvan, Co. Waterford, and [[Fermoy]], Co.
 Cork, and provided a travelling mill and press to work in the South
 Riding of Co. Tipperary. The results have been highly satisfactory, a
 large quantity of good cider having been produced.
@@ -47,7 +47,7 @@ Audièvre, Medaille d'Or, the last five being French sorts introduced
 from Normandy about 1880, and now established in the orchards of
 Herefordshire.
 
-_Pears_.--Taynton Squash, Barland, Oldfield, Moorcroft or Malvern Hill,
+_Pears_.--Taynton Squash, Barland, Oldfield, Moorcroft or [[Malvern]] Hill,
 Red-pear, Thurston's Red, Longland, Pine pear.
 
 No equally authoritative selection has been made for the Somerset and
@@ -57,7 +57,7 @@ Fair Maid of Devon, Woodbine, Duck's Bill, Slack-my-Girdle, Bottle
 Stopper, Golden Ball, Sugar-loaf, Red Cluster, Royal Somerset and
 Cadbury (believed to be identical with the Royal Wilding of
 Herefordshire). As a rule the best cider apples are of small size.
-"Petites pommes, gros cidre," say the French.
+"Petites pommes, [[Gros|gros]] cidre," say the French.
 
 Cider and perry not being taxable liquors in England, it is impossible
 to estimate with even an approach to accuracy the amount of the annual
@@ -151,7 +151,7 @@ occurrence of Asiatic cholera has ever been reported.
 
 The importance which the cider industry has of late attained in England
 has been marked by the establishment of the National Fruit and Cider
-Institute at Long Ashton near Bristol. This institute, founded in 1903
+Institute at Long Ashton near [[Bristol]]. This institute, founded in 1903
 at the instance of the Board of Agriculture, is supported by grants from
 the board, the Bath and West of England Society, the councils of the
 cider-producing counties of Hereford, Gloucester, Worcester, Monmouth,

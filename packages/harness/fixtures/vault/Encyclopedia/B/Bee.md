@@ -12,15 +12,15 @@ portions of the second maxillae (probably the latter).
 [Illustration: FIG. 1.--Honeybee (_Apis mellifica_). a, male (drone); b,
 queen, c, worker.
 
-(After Benton, _Bull._ 1 (n.s.) _Div. Ent._, U.S. Dept. Agr.).]
+(After [[Benton]], _[[Bull]]._ 1 (n.s.) _Div. Ent._, U.S. Dept. Agr.).]
 
 Bees are specialized in correspondence with the flowers from which they
 draw the bulk of their food supply, the flexible tongue being used for
-sucking nectar, the plumed hairs and the modified legs (fig. 7) for
+sucking nectar, the plumed hairs and the modified [[Leg|legs]] (fig. 7) for
 gathering pollen. These floral products which form the food of bees and
 of their larvae, are in most cases collected and stored by the
-industrious insects; but some genera of bees act as inquilines or
-"cuckoo-parasites," laying their eggs in the nests of other bees, so
+industrious [[Insect|insects]]; but some genera of bees act as inquilines or
+"cuckoo-parasites," laying their [[Egg|eggs]] in the nests of other bees, so
 that their larvae may feed at the expense of the rightful owners of the
 nest. In a few cases, the parasitic bee-grub devours not only the
 food-supply, but also the larva of its host.
@@ -36,7 +36,7 @@ food-supply, but also the larva of its host.
   l,   Ligula or "tongue."
   b,   Bouton or spoon of the ligula.
 
-(From Frank R. Cheshire's _Bees and Bee-keeping_.) ]
+(From [[Frank]] R. Cheshire's _Bees and Bee-keeping_.) ]
 
 _Solitary and Social Bees._--Many genera of bees are represented, like
 most other insects, by ordinary males and females, each female
@@ -55,9 +55,9 @@ various stages in the elaboration of the bee-society. Among the
 humble-bees (_Bombus_) the workers help the queen, who takes her share
 in the duties of the nest; the distinction between queen and workers is
 therefore less absolute than in the hive-bees (_Apis_), whose queen,
-relieved of all nursing and building cares by the workers, devotes her
+relieved of all nursing and building [[Car|cares]] by the workers, devotes her
 whole energies to egg-laying. The division of labour among the two
-castes of female becomes therefore most complete in the most highly
+[[Caste|castes]] of female becomes therefore most complete in the most highly
 organized society.
 
 _Structure._--Details of the structure of bees are given in the article
@@ -117,7 +117,7 @@ _Nests of Solitary Bees._--Bees of different genera vary considerably in
 the site and arrangement of their nests. Many--like the common
 "solitary" bees _Halictus_ and _Andrena_--burrow in the ground; the
 holes of species of _Andrena_ are commonly seen in springtime opening on
-sandy banks, grassy lawns or gravel paths. Our knowledge of such bees is
+sandy banks, grassy [[Lawn|lawns]] or gravel paths. Our knowledge of such bees is
 due to the observations of F. Smith, H. Friese, C. Verhoeff and others.
 The nest may be simple, or, more frequently, a complex excavation, cells
 opening off from the entrance or from a main passage. Sometimes the
@@ -125,7 +125,7 @@ passage is the conjoint work of many bees whose cells are grouped along
 it at convenient distances apart. Other bees, the species of _Osmia_ for
 example, choose the hollow stem of a bramble or other shrub, the female
 forming a linear series of cells in each of which an egg is laid and a
-supply of food stored up. J.H. Fabre has found that in the nests of some
+supply of food stored up. J.H. [[Fabre]] has found that in the nests of some
 species of _Osmia_ the young bee developed in the first-formed cell, if
 (as often happens) she emerges from her cocoon before the inmates of the
 later cells, will try to work her way round these or to bite a lateral
@@ -245,7 +245,7 @@ varying in size and in the development of their ovaries. If any mishap
 befall the queen, the workers can sometimes keep the community from
 dying out. In autumn males are produced, as well as young queens. The
 community is broken up on the approach of winter, the males and workers
-perish, and the young queens after hibernation start fresh nests in the
+perish, and the young queens after [[Hibernation|hibernation]] start fresh nests in the
 succeeding year.
 
 [Illustration: FIG. 6.--Ovaries of Queen and Workers (_Apis_).
@@ -293,7 +293,7 @@ sting reduced and useless for piercing. As though to compensate for the
 loss of this means of defence, the mandibles are very powerful, and some
 of the bees construct tubular entrances to the nest with a series of
 constrictions easy to hold against an enemy. The habits of the Brazilian
-species of these bees have been described in detail by H. von Jhering,
+species of these bees have been described in detail by H. von [[Jhering]],
 who points out that their wax glands are dorsal in position, not ventral
 as in _Bombus_ and _Apis_.
 
@@ -326,7 +326,7 @@ for reproduction and for labour.
 
 The workers of _Apis_ may be capable (fig. 6, C) of laying
 eggs--necessarily unfertilized--which always give rise to males
-("drones"), and, since the researches of J. Dzierzon (1811-1906) in
+("[[Drone|drones]]"), and, since the researches of J. Dzierzon (1811-1906) in
 1848, it has been believed that the queen bee lays fertilized eggs in
 cells appropriate for the rearing of queens or workers, and unfertilized
 eggs in "drone-cells," virgin reproduction or parthenogenesis being
@@ -391,7 +391,7 @@ favoured races."
   scientific _La vie des abeilles_ (Paris, 1901). Among writers on the
   solitary and parasitic species may be specially mentioned F. Smith,
   _Hymenoptera in the British Museum_ (London, 1853-1859); H. Friese,
-  _Zool. Jahrb. Syst._, iv. (1891) J. Perez, _Actes Soc. Bordeaux_,
+  _Zool. Jahrb. Syst._, iv. (1891) J. Perez, _Actes Soc. [[Bordeaux]]_,
   xlviii. (1895); and C. Verhoeff, _Zool. Jahrb. Syst._, vi. (1892). For
   the social species we have valuable papers by E. Hoffer, _Mitt.
   Naturwissen. Ver. Steiermark_, xxxi. (1881); H. von Jhering, _Zool.
@@ -405,7 +405,7 @@ favoured races."
   and contain extensive bibliographies of _Apis_. D. Sharp's summary in
   the _Cambridge Natural History_, vol. vi., should be consulted for
   further information on bees generally. British bees are described in
-  the catalogues of Smith, mentioned above, and by E. Saunders, _The
+  the [[Catalogue|catalogues]] of Smith, mentioned above, and by E. Saunders, _The
   Hymenoptera of the British Islands_ (London, 1896).     (G. H. C.)
 
 
@@ -414,7 +414,7 @@ BEE-KEEPING
 Bee-keeping, or the cultivation of the honey-bee as a source of income
 to those who practise it, is known to have existed from the most ancient
 times. Poets, philosophers, historians and naturalists (among whom may
-be mentioned Virgil, Aristotle, Cicero and Pliny) have eulogized the bee
+be mentioned Virgil, [[Aristotle]], Cicero and Pliny) have eulogized the bee
 as unique among insects, endowed by nature with wondrous gifts
 beneficial to mankind in a greater degree than any other creature of
 the insect world. We are told that some of these ancient scientists
@@ -469,7 +469,7 @@ in the United States may be judged from the fact of a single bee-farmer
 located in California having harvested from 150,000 lb. of honey in one
 year from 2000 stocks of bees, and, as an instance of the enormous
 weight of honey obtainable from good hives in that favoured region, the
-same farmer secured 60,000 lb. of comb-honey in one season from his best
+same [[Farmer|farmer]] secured 60,000 lb. of comb-honey in one season from his best
 300 colonies. This is probably the maximum, and the hives were
 necessarily located in separate apiaries some few miles apart in order
 to avoid the evils of overstocking, but all in the midst of thousands of
@@ -481,13 +481,13 @@ food has also largely increased of late years; a recent computation
 shows that from 100 to 125 million lb. of honey, representing a money
 value of from eight to ten million dollars, is consumed annually in the
 United States alone. Many of the larger bee-farmers of the United States
-of America and Canada harvest from 50,000 to 60,000 lb. of honey in a
+of America and Canada [[Harvest|harvest]] from 50,000 to 60,000 lb. of honey in a
 single season, and some of them sell the whole crop direct to consumers.
 
 
   State aid for bee-keeping.
 
-It is a notable fact that in the United States, Canada, Australia, New
+It is a notable fact that in the United States, Canada, [[Australia]], New
 Zealand, and indeed all English-speaking countries outside the United
 Kingdom, honey is far more extensively used than it is there as an
 article of daily food. The natural result of this is that the trade in
@@ -517,12 +517,12 @@ centres where pupils are taught bee-keeping in all its branches.
 In Europe similar progress is observable; technical schools, with
 well-equipped apiaries attached, are supported by the state, and in them
 the science and practice of modern bee-keeping is taught free by
-scientists and practical experts. Institutions of this kind have been
+scientists and practical [[Expert|experts]]. Institutions of this kind have been
 established in Germany, Russia, Switzerland and elsewhere, all tending
 in the same direction, viz. the cultivation of the honey-bee as an
 appreciable source of income to the farmer, the peasant cultivator, and
 dwellers in districts where bee-forage is abundant and, if unvisited by
-the bee, lies wasting its sweetness on the desert air. It may be safely
+the bee, lies wasting its sweetness on the [[Desert|desert]] air. It may be safely
 said that the value of the bee to the fruit-grower and the
 market-gardener has been proved beyond dispute; and the technical
 instruction now afforded by county councils in the rural districts of
@@ -530,8 +530,8 @@ England has an appreciable effect. In proof thereof, we may quote the
 case of an extensive grower in the midland counties--sending fruit to
 the London market in tons--whose crop of gooseberries increased nearly
 fourfold after establishing a number of stocks of bees in close
-proximity to the gooseberry bushes. The fruit orchards and raspberry
-fields of Kent are also known to be greatly benefited by the numerous
+proximity to the [[Gooseberry|gooseberry]] bushes. The fruit orchards and raspberry
+[[Fields|fields]] of Kent are also known to be greatly benefited by the numerous
 colonies of bees owned by more than 3000 bee-keepers in the county. The
 important part played by the bee in the economy of nature as a
 fertilizer is shown in fig. 9.
@@ -539,7 +539,7 @@ fertilizer is shown in fig. 9.
 [Illustration: FIG. 9.--A, Raspberry (_Rubus idaeus_, order _Rosaceae_),
 being fertilized. B, Cross section.
 
-  A, Flower.
+  A, [[Flower]].
     p, p, Petals.
     a, a, Anthers.
     s, Stigma.
@@ -565,7 +565,7 @@ bee-forage for large apiaries--are such as to preclude the possibility
 of establishing apiaries on a scale comparable with those located in
 less confined lands. On the other hand, even in England the value of
 bee-keeping is worthy of recognition as a minor industry connected with
-such items of agriculture as fruit-growing, market-gardening or
+such [[Item|items]] of agriculture as fruit-growing, market-gardening or
 poultry-raising. The fact that British honey is second to none for
 quality, and that the British market is eagerly sought by the
 bee-keepers of other nationalities, has of late impressed itself on the
@@ -585,11 +585,11 @@ meetings and took an active part in its work, until advancing years
 prevented her attendance, but her interest in the welfare of the
 association was maintained to the last. Branch societies of bee-keepers
 were established throughout the English counties, mainly by the efforts
-of the parent body in London, with the object of securing co-operation
+of the parent body in London, with the object of securing [[Co-Operation|co-operation]]
 in promoting the sale of honey, and showing the most modern methods of
 producing it in its most attractive form at exhibitions held for the
 purpose. Nearly the whole of these county societies affiliated with the
-central association, paying an affiliation fee yearly, and receiving in
+central association, paying an affiliation [[Fee|fee]] yearly, and receiving in
 return the silver medal, bronze medal and certificate of the
 association, to be offered as prizes for competition at the annual
 county shows. Other advantages are given in connexion with the
@@ -597,7 +597,7 @@ qualifying of experts, &c., while nearly all the county associations in
 the United Kingdom employ qualified men who visit members in spring and
 autumn for the purpose of examining hives and giving advice on bee
 management to those needing it. Another advantage of membership is the
-use of a "county label" for affixing to each section of honey in comb,
+use of a "county label" for affixing to each section of honey in [[Comb|comb]],
 or jar of extracted honey, offered for sale by members. These labels are
 numbered consecutively, and thus afford a guarantee of the genuineness
 and quality of the honey, the label enabling purchasers to trace the
@@ -644,7 +644,7 @@ extensive factories have been established; one firm--employing over 500
 hands, and using electric-power machinery of the most modern type--being
 devoted entirely to the manufacture of bee-goods and apiarian
 requisites. From this establishment alone the yearly output is about
-25,000 bee-hives, and upwards of 100 millions of the small wooden boxes
+25,000 bee-hives, and upwards of 100 millions of the small wooden [[Box|boxes]]
 used for holding comb-honey. The most generally approved form of this
 box is known as the "1-lb. section," made from a strip of wood 1/2 in.
 thick, 2 in. wide, and of such length that when folded by joining the
@@ -707,10 +707,10 @@ metamorphosis from the egg to the perfect insect. The horizontal section
 (B) with equal clearness demonstrates the bee's ingenuity in economizing
 space, showing how the outer combs are used exclusively for stores, and,
 as such, may be built of varying thickness as more or less storage room
-is required. The straw skep has, however, the irredeemable fault of
-fixed combs, and the gradual development of the movable-frame hive of
+is required. The straw skep has, however, the irredeemable [[Fault|fault]] of
+fixed combs, and the [[Gradual|gradual]] development of the movable-frame hive of
 today may be said to have first appeared in 1789 with the leaf-hive of
-Huber, so called from its opening like the leaves of a book. Prior to
+[[Huber]], so called from its opening like the leaves of a book. Prior to
 that date wooden box-hives of various shapes had been adopted by
 advanced bee-masters anxious to increase their output of honey, and by
 enthusiastic naturalists desirous of studying and investigating the
@@ -719,7 +719,7 @@ among the latter was the distinguished Swiss naturalist and bee-keeper,
 Francois Huber, who was led to construct the leaf-hive bearing his name
 after experimenting with a single comb observatory hive recommended by
 Reaumur. Huber found that although he could induce swarms to occupy the
-glass-sided single frame advised by Reaumur, if the frame was fitted
+glass-sided single [[Frame|frame]] advised by Reaumur, if the frame was fitted
 with ready-built pieces of comb patched together before hiving the
 swarm, the experiment was successful, while if left to themselves the
 bees built small combs across the space between the sheets of glass, and
@@ -763,11 +763,11 @@ bottom-bar, thus completing the movable frame.
     e, e, Entrances.
     s, s, Side leaves.
     h,    Hinges.
-  B, Side view of frame or leaf.
+  B, Side view of frame or [[Leaf|leaf]].
     tb,   Top-bar
     c,    Comb.
     p, p, Pegs.
-  C, Part of bin, cross section, lettering as before.
+  C, Part of [[Bin|bin]], cross section, lettering as before.
 
 (From Cheshire's _Bees and Bee-keeping, Scientific and Practical_.)]
 
@@ -785,7 +785,7 @@ known, giving to the world of bee-keepers a movable frame which in its
 most important details will never be excelled. We refer to the respective
 distances left between the side-bars and hive walls on each side, and
 between the lower edge of the bottom-bars and the floor-board.
-Langstroth, in his measurements, hit upon the happy mean which keeps bees
+Langstroth, in his measurements, [[Hit|hit]] upon the happy mean which keeps bees
 from propolizing or fastening the frames to the hive body, as they
 assuredly would do if sufficient space had not been allowed for free
 passage round the side-bars; it is equally certain that if too much space
@@ -897,7 +897,7 @@ the most important of which are the improvements in methods of
 extracting honey from combs, and in the manufacture of comb-foundation.
 Regarding the first of these, it cannot be said that the honey
 extractor, even in its latest form, differs very much from the original
-machine (fig. 18) invented by Major Hruschka, an officer in the Italian
+[[Machine|machine]] (fig. 18) invented by [[Major]] Hruschka, an officer in the Italian
 army, who in later life became an enthusiastic apiculturist. Hruschka's
 extractor, first brought to public notice in 1865, may be said to have
 revolutionized the bee-industry as a business. It enabled the honey
@@ -908,7 +908,7 @@ squeezing process. At the same time the combs were preserved for
 refilling by the bees, in lieu of melting them down for wax. The
 principle of the honey extractor (throwing the liquid honey out of the
 cells by centrifugal force) was discovered quite by accident. Major
-Hruschka's little son chanced to have in his hand a bit of unsealed
+Hruschka's little son chanced to have in his hand a [[Bit|bit]] of unsealed
 comb-honey in a basket to which was attached a piece of string, and, as
 the boy playfully whirled the basket round in the air, his father
 noticed a few drops of honey, thrown out of the comb by the centrifugal
@@ -950,7 +950,7 @@ Bee Culture_, published by the A. I. Root Co, Medina, Ohio, U.S.A.)]
     p, Pivot.
     c, Stiffening cone.
     cb, Coned bottom.
-    gt, Gutter.
+    gt, [[Gutter]].
     st, Syrup tap.
   C, Perpendicular section of side of cage enlarged.
     oc, Outer casing
@@ -968,7 +968,7 @@ side, and when the outer faces of the combs are emptied the cages are
 reversed without removal from the machine for emptying the opposite
 sides of combs. The further development of the honey extractor has of
 late been limited to an increase in the size of machine used, in order
-to save time and manual labour, and thus meet the requirements of the
+to save time and [[Manual|manual]] labour, and thus meet the requirements of the
 largest honey producers, who extract honey by the car load. Some of the
 largest machines--propelled by motor power--are capable of taking eight
 or more frames at one time. It may also be claimed for the honey
@@ -1010,7 +1010,7 @@ accepted by the bees, and afterwards plates cast from metal were
 employed, with so good a result as to give to the bees as perfect a
 midrib as that of natural comb with the deep cell walls cut away. Fig.
 22 shows a portion of one of these metal plates with worker-cells of
-natural size, i.e. five cells to the inch. Thus Mehring is justly
+natural size, i.e. five cells to the [[Inch|inch]]. Thus Mehring is justly
 claimed as the originator of comb-foundation, though the value of his
 invention was less eagerly taken advantage of even in Germany than its
 merits deserved. Probably it was ahead of the times, for not until
@@ -1020,7 +1020,7 @@ impressed with Mehring's invention and warmly advocated it in his paper.
 Mr Wagner first conceived the idea of adding slightly raised side walls
 to the hexagonal outlines of the cells, by means of which the bees are
 supplied with the material for building out one-half or more of the
-complete cell walls or sides. The manifest advantage of this was at once
+complete cell walls or sides. The [[Manifest|manifest]] advantage of this was at once
 realized by practical American apiarists as saving labour to the bees
 and money to the bee-keeper. One of the first to recognize its value was
 Mr A I. Root, of Medina, Ohio, who suggested the substitution of
@@ -1054,7 +1054,7 @@ succeeded in devising and perfecting special rollers and dies, by the
 use of which foundation was produced with a midrib so thin as to compare
 favourably with natural comb built by the bees. "Dipping," however,
 proved not only a stumbling-block to speed but to the production of
-continuous sheets of wax; and in the end Mr Weed, acting in concert with
+continuous sheets of wax; and in the end Mr Weed, acting in [[Concert|concert]] with
 Mr A.I. Root (who placed the resources of his enormous factory at his
 disposal), devised and perfected machinery--driven by motor power--for
 manufacturing foundation by what is known as the "Weed" process. By this
@@ -1090,7 +1090,7 @@ necessary to do more than mention the salient points to be considered by
 those desirous of acquiring more complete knowledge of the subject.
 Authoritative text-books specially written for the guidance of
 bee-keepers are numerous and cheap, and on no account should any one
-engage in an attempt to manage bees on modern lines without a careful
+engage in an attempt to [[Manage|manage]] bees on modern lines without a careful
 perusal of one or more of these. Bearing this in mind the reader will
 understand that so much of the natural history of the honey-bee as is
 necessary for elucidating the practical part of our subject may be
@@ -1174,13 +1174,13 @@ to the community is ended.
 
   The worker-bee.
 
-  Longevity in bees.
+  [[Longevity]] in bees.
 
 Finally we have the aptly named worker-bee, on whom devolves the entire
 labour of the colony. The worker-bee is incapable of egg-production and
 can therefore take no part in the perpetuation of its species, so that
 individually its value to the community is infinitesimal. Yet it forms
-an item in a commonwealth, the members of which are in all respects
+an item in a [[Commonwealth|commonwealth]], the members of which are in all respects
 equally well endowed. They are in turn skilled scientists, architects,
 builders, artisans, labourers and even scavengers; but collectively they
 are the rulers on whom the colony depends for the wonderful condition of
@@ -1200,7 +1200,7 @@ hence the value to the apiarist of bees hatched in the autumn.
 The mission of the worker-bee is _work_; not so much for itself as for
 the younger members of the community to which it belongs. We cannot
 claim for it the virtue of strict honesty with regard to the stranger,
-but for its own "kith and kin" it is a model of socialism in an ideal
+but for its own "kith and [[Kin|kin]]" it is a model of socialism in an ideal
 form, possessing nothing of its own yet toiling unceasingly for the good
 of all. The increasing warmth of each recurring spring finds the bee
 awake, and full of eagerness to be up and doing; its sole mission being
@@ -1210,12 +1210,12 @@ effect upon the mother bee of the colony. If healthy and young she
 begins egg-laying at once, and brood-rearing proceeds at an
 ever-increasing rate as each week passes, until the hive is brimming
 over with bees in time for the first honey flow. Then comes the almost
-human foresight with which the bee prevents the inevitable chaos created
+human foresight with which the bee prevents the inevitable [[Chaos|chaos]] created
 by an overcrowded home. There is no cell-room either for storing the
 abundant supply of food constantly being brought in, or for the
 thousands of eggs which a prolific queen will produce daily as a
 consequence of general prosperity; therefore unless help comes from
-without an exodus is prepared for, and what is known as "swarming" takes
+without an [[Exodus|exodus]] is prepared for, and what is known as "swarming" takes
 place.
 
 
@@ -1229,7 +1229,7 @@ swarming. The little creatures are seen rushing in frantic haste from
 the hive like a living stream, filling the air with ever-increasing
 thousands of bees on the wing. The incoming workers returning
 pollen-laden from the fields, carried away by the prevailing excitement,
-do not stop to unload their burdens in the old home, but join the
+do not stop to unload their [[Burden|burdens]] in the old home, but join the
 enthusiastic emigrants, tumbling over each other pell-mell in the
 outrush; among them the queen of the colony will in due course have
 taken her place, bound like her children for a new home. It soon becomes
@@ -1268,7 +1268,7 @@ first drone of the year, which betokens an early swarm. As the drones
 increase in number queen-cells are formed, unless steps be taken to turn
 aside the swarming impulse by affording additional room beforehand in
 the hive. The above brief outline of the guiding principles of natural
-swarming is merely intended as introductory to the fuller information
+swarming is merely intended as introductory to the [[Fuller|fuller]] information
 given in a good text-book.
 
 
@@ -1281,7 +1281,7 @@ growing around without any planting on the part of the bee-keeper
 himself. It is impossible to deal here with the varying conditions under
 which apiculture is carried on in all parts of the world, but, as a
 rule, the same principle applies everywhere. The bee industry prospers
-greatly in America, where amid the vast stretches of mountain and canyon
+greatly in America, where amid the vast stretches of mountain and [[Canyon|canyon]]
 in California the bee-forage extends for miles without a break, and the
 climatic conditions are so generally favourable as to reduce to a
 minimum the chances of the honey crop failing through adverse weather.
@@ -1306,14 +1306,14 @@ year, and chances of success proportionately smaller for northern
 bee-men, but the disadvantage to the latter is more than compensated for
 by the heather season, which extends well into September. With regard to
 the British bee-keeper located in the south, the early fruit crop is
-what concerns him most, and where pollen (the fertilizing dust of
+what concerns him most, and where pollen (the fertilizing [[Dust|dust]] of
 flowers) is plentiful his bees will make steady progress. If pollen is
 scarce, a substitute in the form of either pea-meal or wheaten flour
 must be supplied to the bees, as brood-rearing cannot make headway
 without the nitrogenous element indispensable in the food on which the
 young are reared. But the main honey-crop of both north and south is
 gathered from the various trifoliums, among which the white Dutch or
-common clover (_Trifolium repens_) is acknowledged to be the most
+common [[Clover|clover]] (_Trifolium repens_) is acknowledged to be the most
 important honey-producing plant wherever it grows. In the United States,
 Canada, Australia, New Zealand and in many other parts of the world
 honey of the finest quality is obtained from this "queen of bee-plants,"
@@ -1334,7 +1334,7 @@ Experience has also proved that, when alarmed, bees instinctively begin
 to fill their honey-sacs with food from the nearest store-cells as a
 safeguard against contingencies, and when so provided they are more
 amenable to interference. The bee-keeper, therefore, by the judicious
-application of a little smoke from smouldering fuel, blown into the hive
+application of a little smoke from smouldering [[Fuel|fuel]], blown into the hive
 by means of an appliance known as a bee-smoker, alarms the bees and is
 thus able to manipulate the frames of comb with ease and almost no
 disturbance. The smoker (fig. 26) devised by T.F. Bingham of Farwell,
@@ -1399,7 +1399,7 @@ sold before granulation sets in. At the same time it is but fair to say
 that bee-culture in the United Kingdom, if limited to honey-production
 alone, is not sufficiently safe for entire reliance to be placed on it
 for obtaining a livelihood. The uncertain climate renders it necessary
-to include either other branches of the craft less dependent on warmth
+to include either other branches of the [[Craft|craft]] less dependent on warmth
 and sunshine, or to combine it with fruit-growing, poultry-rearing, &c.
 Under such conditions the bees will usually occupy a good position in
 the balance-sheet.
@@ -1430,7 +1430,7 @@ and appliances cleaned and prepared for use during the busy season.
   Swarm prevention.
 
 The main honey-gathering time (lasting about six or seven weeks) is so
-brief that in no pursuit is it more important to "make hay while the sun
+brief that in no pursuit is it more important to "make [[Hay|hay]] while the sun
 shines," and if the bee-keeper needs a reminder of this truism he surely
 has it in the example set by his bees. As the season advances and the
 flowers yield nectar more freely, visible signs of comb-building will be
@@ -1450,7 +1450,7 @@ hot summer's day in a good honey season. Moreover, it will be too late
 to think of giving ventilation at noontide, when the temperature has
 risen to 80 deg. F. in the shade; the necessary precautions for swarm
 prevention must therefore be taken in advance, for when what is known as
-the "swarming fever" once starts it is most difficult to overcome.
+the "swarming [[Fever|fever]]" once starts it is most difficult to overcome.
 
 The well-read and intelligent bee-keeper, content to work on orthodox
 lines, will be able to manage an apiary--large or small--by guiding and
@@ -1478,7 +1478,7 @@ in 1769, and was the first to give it the name of "foul brood." Still
 later, in 1874, Dr Cohn, after the most exhaustive experiments and
 bacteriological research, realized that the disease was caused by a
 bacillus, and--nine years later--the name _Bacillus alvei_ was given to
-it by Cheyne and Cheshire, whose views were in agreement with those of
+it by [[Cheyne]] and Cheshire, whose views were in agreement with those of
 Dr Cohn.
 
 The illustration (fig. 27) shows a portion of comb affected with foul
@@ -1486,7 +1486,7 @@ brood in its worst form. The sealed cells are dark-coloured and sunken,
 pierced with irregular holes, and the larvae in all stages from the
 crescent-shaped healthy condition to that in which the dead larvae are
 seen lying at the bottom of the cells, flaccid and shapeless. The
-remains then change to buff colour, afterwards turning brown, when
+remains then change to [[Buff|buff]] colour, afterwards turning brown, when
 decomposition sets in, and as the bacilli present in the dead larvae
 increase and the nutrient matter is consumed, the mass in some cases
 becomes sticky and ropy in character, making its removal impossible by
@@ -1555,7 +1555,7 @@ guarded against by feeding the bees in the early autumn with good food
 made from cane sugar, and housing them in well-ventilated hives kept
 warm and dry by suitable coverings. When bees are wintered on thin,
 watery food not sealed over, and are unable for months to take cleansing
-flights, they become weak and involuntarily discharge their excrement
+flights, they become weak and involuntarily [[Discharge|discharge]] their excrement
 over the combs and hive, a state of things never seen in a healthy
 colony under normal conditions. The stocks of bee-keepers who attend to
 the instructions given in text-books are rarely visited by this disease.
@@ -1567,13 +1567,13 @@ paralysis, constipation, &c.
 In the Isle of Wight a serious epidemic broke out in 1906 which caused
 great destruction to bee-life in the following year. The malady was of
 an obscure character, but its cause has been under investigation by the
-British Board of Agriculture and Fisheries, and by European
+British Board of Agriculture and [[Fisheries]], and by European
 bacteriologists in 1908.
 
   AUTHORITIES.--Though in modern times a great deal has appeared in the
   daily newspapers on the subject, it is a notable fact that not a tithe
   of the wonderful things published in such articles about bees and
-  bee-keeping is worthy of credence or possesses any real value. Indeed,
+  bee-keeping is worthy of [[Credence|credence]] or possesses any real value. Indeed,
   a pressman possessing any technical knowledge of the subject--beyond
   that obtainable from books--would be a _rara avis_. The account given
   above is the result of forty years' practical experience with bees in
@@ -1588,7 +1588,7 @@ bacteriologists in 1908.
   its Natural History, Anatomy and Physiology; Langstroth on the Honey
   Bee_, revised by C. Dadant & Son; A.I. Root, _A B C and X Y Z of
   Bee-culture_; F.R. Cheshire, _Bees and Bee-keeping_; Dr Dzierzon,
-  _Rational Bee-keeping_; E. Bertrand, _Conduite du rucher_; A.J. Cook,
+  _Rational Bee-keeping_; E. [[Bertrand]], _Conduite du rucher_; A.J. [[Cook]],
   _Manual of the Apiary_; Dr C.C. Miller, _Forty Years among the Bees_;
   F.W.L. Sladen, _Queen-rearing in England_; S. Simmins, _A Modern Bee
   Farm_.     (W. B. Ca.)

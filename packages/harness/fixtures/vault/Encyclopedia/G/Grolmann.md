@@ -9,30 +9,30 @@ type: source
 
 GROLMANN, KARL WILHELM GEORG VON (1777-1843), Prussian soldier, was born
 in Berlin on the 30th of July 1777. He entered an infantry regiment when
-scarcely thirteen, became an ensign in 1795, second lieutenant 1797,
+scarcely thirteen, became an [[Ensign|ensign]] in 1795, second lieutenant 1797,
 first lieutenant 1804 and staff-captain in 1805. As a subaltern he had
 become one of Scharnhorst's intimates, and he was distinguished for his
 energetic and fearless character before the war of 1806, in which he
-served throughout, from Jena to the peace of Tilsit, as a staff officer,
-and won the rank of major for distinguished service in action. After the
+served throughout, from [[Jena]] to the peace of Tilsit, as a staff officer,
+and won the rank of [[Major|major]] for distinguished service in action. After the
 peace, and the downfall of Prussia, he was one of the most active of
 Scharnhorst's assistants in the work of reorganization (1809), joined the
 _Tugendbund_ and endeavoured to take part in Schill's abortive
 expedition, after which he entered the Austrian service as a major on the
-general staff. Thereafter he journeyed to Cadiz to assist the Spaniards
-against Napoleon, and he led a corps of volunteers in the defence of that
+general staff. Thereafter he journeyed to [[Cadiz]] to assist the Spaniards
+against Napoleon, and he led a [[Corps|corps]] of volunteers in the defence of that
 port against Marshal Victor in 1810. He was present at the battle of
 Albuera, at Saguntum, and at Valencia, becoming a prisoner of war at the
 surrender of the last-named place. Soon, however, he escaped to
 Switzerland, whence early in 1813 he returned to Prussia as a major on
 the general staff. He served successively under Colonel von Dolffs and
 General von Kleist, and as commissioner at the headquarters of the
-Russian general Barclay de Tolly. He took part with Kleist in the victory
-of Kulm, and recovered from a severe wound received at that action in
+Russian general [[Barclay]] de Tolly. He took part with Kleist in the victory
+of [[Kulm]], and recovered from a severe wound received at that action in
 time to be present at the battle of Leipzig. He played a conspicuous part
 in the campaign of 1814 in France, after which he was made a
 major-general. In this rank he was appointed quartermaster-general to
-Field Marshal Prince Blucher, and, after his chief and Gneisenau,
+Field Marshal Prince Blucher, and, after his chief and [[Gneisenau]],
 Grolmann had the greatest share in directing the Prussian operations of
 1815. In the decision, on the 18th of June 1815, to press forward to
 Wellington's assistance (see WATERLOO CAMPAIGN), Grolmann actively

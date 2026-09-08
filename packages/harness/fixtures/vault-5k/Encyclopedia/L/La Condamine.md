@@ -4,13 +4,13 @@ LA CONDAMINE, CHARLES MARIE DE (1701-1774), French geographer and
 mathematician, was born at Paris on the 28th of January 1701. He was
 trained for the military profession, but turned his attention to science
 and geographical exploration. After taking part in a scientific
-expedition in the Levant (1731), he became a member with Louis Godin and
+expedition in the [[Levant]] (1731), he became a member with Louis Godin and
 Pierre Bouguer of the expedition sent to Peru in 1735 to determine the
-length of a degree of the meridian in the neighbourhood of the equator.
+length of a degree of the meridian in the neighbourhood of the [[Equator|equator]].
 His associations with his principals were unhappy; the expedition was
 beset by many difficulties, and finally La Condamine separated from the
 rest and made his way from Quito down the Amazon, ultimately reaching
-Cayenne. His was the first scientific exploration of the Amazon. He
+[[Cayenne]]. His was the first scientific exploration of the Amazon. He
 returned to Paris in 1744 and published the results of his measurements
 and travels with a map of the Amazon in _Mém. de l'académie des
 sciences_, 1745 (English translation 1745-1747). On a visit to Rome La

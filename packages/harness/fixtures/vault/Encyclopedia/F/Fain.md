@@ -2,10 +2,10 @@
 
 FAIN, AGATHON JEAN FRANÇOIS (1778-1837), French historian, was born in
 Paris on the 11th of January 1778. Having gained admittance to the
-offices of the Directory, he became head of a department. Under the
+offices of the [[Directory]], he became head of a department. Under the
 Consulate he entered the office of the secretary of state, in the
-department of the archives. In 1806 he was appointed secretary and
-archivist to the _cabinet particulier_ of the emperor, whom he attended
+department of the [[Archive|archives]]. In 1806 he was appointed secretary and
+archivist to the _[[Cabinet|cabinet]] particulier_ of the emperor, whom he attended
 on his campaigns and journeys. He was created a baron of the empire in
 1809, and, on the fall of Napoleon, was first secretary of the cabinet
 and confidential secretary. Compelled by the second Restoration to
@@ -27,7 +27,7 @@ years of the empire, and give a detailed picture of the emperor at work
 on his correspondence among his confidential secretaries. Immediately
 after the overthrow of Charles X., King Louis Philippe appointed Fain
 first secretary of his cabinet (August 1830). Fain was a member of the
-council of state and deputy from Montargis from 1834 until his death,
+council of state and [[Deputy|deputy]] from Montargis from 1834 until his death,
 which occurred in Paris on the 16th of September 1837.
 
 ## See also

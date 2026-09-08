@@ -15,7 +15,7 @@ mammals, as the whale and seal. The word is applied to a small island close
 to a larger one, like a calf close to its mother's side, as in the "Calf of
 Man," and to a mass of ice detached from an iceberg. (2) (Of unknown
 origin, possibly connected with the Celtic _calpa_, a leg), the fleshy
-hinder part of the leg, between the knee and the ankle.
+hinder part of the leg, between the [[Knee|knee]] and the [[Ankle|ankle]].
 
 ## References
 

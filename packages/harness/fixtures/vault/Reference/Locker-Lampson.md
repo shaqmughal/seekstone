@@ -1,21 +1,21 @@
 # Locker-Lampson
 
 LOCKER-LAMPSON, FREDERICK (1821-1895), English man of letters, was born,
-on the 29th of May 1821, at Greenwich Hospital. His father, who was
-Civil Commissioner of the Hospital, was Edward Hawke Locker, youngest
+on the 29th of May 1821, at [[Greenwich]] Hospital. His father, who was
+Civil Commissioner of the Hospital, was Edward [[Hawke]] Locker, youngest
 son of that Captain William Locker who gave Nelson the memorable advice
 "to lay a Frenchman close, and beat him." His mother, Eleanor Mary
-Elizabeth Boucher, was a daughter of the Rev. Jonathan Boucher, vicar of
+Elizabeth [[Boucher]], was a daughter of the Rev. [[Jonathan]] Boucher, vicar of
 Epsom and friend of George Washington. After a desultory education,
 Frederick Locker began life in a colonial broker's office. Soon
 deserting this uncongenial calling, he obtained a clerkship in Somerset
 House, whence he was transferred to Lord Haddington's private office at
 the Admiralty. Here he became deputy-reader and _précis_ writer. In 1850
-he married Lady Charlotte Bruce, daughter of the Lord Elgin who brought
-the famous marbles to England, and sister of Lady Augusta Stanley. After
+he married Lady [[Charlotte]] Bruce, daughter of the Lord [[Elgin]] who brought
+the famous [[Marbles|marbles]] to England, and sister of Lady Augusta Stanley. After
 his marriage he left the Civil Service, in consequence of ill-health. In
 1857 he published _London Lyrics_, a slender volume of 90 pages, which,
-with subsequent extensions, constitutes his poetical legacy. _Lyra
+with subsequent extensions, constitutes his poetical [[Legacy|legacy]]. _[[Lyra]]
 Elegantiarum_ (1867), an anthology of light and familiar verse, and
 _Patchwork_ (1879), a book of extracts, were his only other
 publications. In 1872 Lady Charlotte Locker died. Two years later Locker
@@ -28,16 +28,16 @@ _raconteur_, and from accumulating many treasures as a connoisseur. His
 books are catalogued in the volume called the _Rowfant Library_ (1886),
 to which an appendix (1900) was added, after his death, under the
 superintendence of his eldest son. As a poet, Locker belongs to the
-choir who deal with the gay rather than the grave in verse--with the
+[[Choir|choir]] who deal with the gay rather than the grave in verse--with the
 polished and witty rather than the lofty or emotional. His good taste
 kept him as far from the broadly comic on the one side as his kind heart
 saved him from the purely cynical on the other. To something of Prior,
-of Praed and of Hood he added qualities of his own which lent his work
+of Praed and of Hood he added qualities of his own which [[Lent|lent]] his work
 distinction--a distinction in no wise diminished by his unwearied
 endeavour after directness and simplicity.
 
   A posthumous volume of Memoirs, entitled _My Confidences_ (1896), and
-  edited by his son-in-law, Mr Augustine Birrell, gives an interesting
+  edited by his son-in-law, Mr Augustine [[Birrell]], gives an interesting
   idea of his personality and a too modest estimate of his gifts as a
   poet.     (A. D.)
 

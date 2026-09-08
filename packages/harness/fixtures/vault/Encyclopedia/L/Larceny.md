@@ -2,11 +2,11 @@
 
 LARCENY (an adaptation of Fr. _larcin_, O. Fr. _larrecin_, from Lat.
 _latrocinium_, theft, _latio_, robber), the unlawful taking and carrying
-away of things personal, with intent to deprive the rightful owner of
+away of things personal, with [[Intent|intent]] to deprive the rightful owner of
 the same. The term _theft_, sometimes used as a synonym of larceny, is
 in reality a broader term, applying to all cases of depriving another of
 his property whether by removing or withholding it, and includes
-larceny, robbery, cheating, embezzlement, breach of trust, &c.
+larceny, robbery, [[Cheating|cheating]], [[Embezzlement|embezzlement]], [[Breach|breach]] of trust, &c.
 
 Larceny is, in modern legal systems, universally treated as a crime, but
 the conception of it as a crime is not one belonging to the earliest
@@ -16,16 +16,16 @@ _actio furti_ for a penalty, the _vindicatio_ or _condictio_ for the
 stolen property itself or its value. In later times, a criminal remedy
 to meet the graver crimes gradually grew up by the side of the civil,
 and in the time of Justinian the criminal remedy, where it existed, took
-precedence of the civil (_Cod._ iii. 8. 4). But to the last criminal
+precedence of the civil (_[[Cod]]._ iii. 8. 4). But to the last criminal
 proceedings could only be taken in serious cases, e.g. against stealers
 of cattle (_abigei_) or the clothes of bathers (_balnearii_). The
 punishment was death, banishment, or labour in the mines or on public
-works. In the main the Roman law coincides with the English law. The
-definition as given in the _Institutes_ (iv. 1. 1) is "furtum est
+works. In the main the Roman law coincides with the [[English Law|English law]]. The
+[[Definition|definition]] as given in the _Institutes_ (iv. 1. 1) is "furtum est
 contrectatio rei fraudulosa, vel ipsius rei, vel etiam ejus usus
-possessionisve," to which the _Digest_ (xlvii. 2. 1, 3) adds "lucri
-faciendi gratia." The earliest English definition, that of Bracton
-(150b), runs thus: "furtum est secundum leges contrectatio rei alienae
+possessionisve," to which the _[[Digest]]_ (xlvii. 2. 1, 3) adds "lucri
+faciendi gratia." The earliest English definition, that of [[Bracton]]
+(150b), runs thus: "furtum est secundum [[Leg|leges]] contrectatio rei alienae
 fraudulenta cum animo furandi invito illo domino cujus res illa fuerit."
 Bracton omits the "lucri faciendi gratia" of the Roman definition,
 because in English law the motive is immaterial,[1] and the "usus ejus
@@ -34,7 +34,7 @@ the owner of his property permanently. The "animo furandi" and "invito
 domino" of Bracton's definition are expansions for the sake of greater
 clearness. They seem to have been implied in Roman law. _Furtum_ is on
 the whole a more comprehensive term than larceny. This difference no
-doubt arises from the tendency to extend the bounds of a delict and to
+doubt arises from the tendency to extend the [[Bounds|bounds]] of a delict and to
 limit the bounds of a crime. Thus it was _furtum_ (but it would not be
 theft at English common law) to use a deposit of pledge contrary to the
 wishes of the owner, to retain goods found, or to steal a human being,
@@ -53,9 +53,9 @@ of _furtum_ at Rome is historically interesting, for even in its latest
 period is found a relic of one of the most primitive theories of law
 adopted by courts of justice: "They took as their guide the measure of
 vengeance likely to be exacted by an aggrieved person under the
-circumstances of the case" (Maine, _Ancient Law_, ch. x.). This explains
+circumstances of the case" ([[Maine]], _Ancient Law_, ch. x.). This explains
 the reason of the division of _furtum_ into _manifestum_ and _nec
-manifestum_. The manifest thief was one taken red-handed--"taken with
+manifestum_. The [[Manifest|manifest]] thief was one taken red-handed--"taken with
 the manner," in the language of old English law. The Twelve Tables
 denounced the punishment of death against the manifest thief, for that
 would be the penalty demanded by the indignant owner in whose place the
@@ -75,7 +75,7 @@ owner in person, naked except for a cincture, and carrying a platter in
 his hand, safeguards apparently against any possibility of his making a
 false charge by depositing some of his own property on his neighbour's
 premises. This mode of search became obsolete before the time of
-Justinian. Robbery (_bona vi rapta_) was violence added to _furtum_. By
+Justinian. Robbery (_[[Bona|bona]] vi rapta_) was violence added to _furtum_. By
 the _actio vi bonorum raptorum_ quadruple the value could be recovered
 if the action were brought within a year, only the value if brought
 after the expiration of a year. The quadruple value included the stolen
@@ -109,7 +109,7 @@ jurisdiction.
   statutes, the main object of legislation being to bring within the law
   of larceny offences which were not larcenies at common law, either
   because they were thefts of things of which there could be no larceny
-  at common law, e.g. beasts _ferae naturae_, title deeds or choses in
+  at common law, e.g. beasts _ferae naturae_, title deeds or [[Chose|choses]] in
   action, or because the common law regarded them merely as delicts for
   which the remedy was by civil action, e.g. fraudulent breaches of
   trust. The earliest act in the statutes of the realm dealing with
@@ -125,25 +125,25 @@ jurisdiction.
   pence, in the house of the owner, not from the person, or by night,
   and was a capital crime. It was petit larceny where the value was
   twelve pence or under, the punishment being imprisonment or whipping.
-  The gradual depreciation in the value of money afforded good ground
+  The [[Gradual|gradual]] depreciation in the value of money afforded good ground
   for Sir Henry Spelman's sarcasm that, while everything else became
   dearer, the life of man became continually cheaper. The distinction
   between grand and petit larceny first appears in statute law in the
   Statute of Westminster the First, c. 15, but it was not created for
   the first time by that statute. It is found in some of the
-  pre-Conquest codes, as that of Æthelstan, and it is recognized in the
+  pre-Conquest [[Code|codes]], as that of Æthelstan, and it is recognized in the
   _Leges Henrici Primi_. A distinction between simple and compound
   larceny is still found in the books. The latter is larceny accompanied
   by circumstances of aggravation, as that it is in a dwelling-house or
   from the person. The law of larceny is now contained chiefly in the
   Larceny Act 1861 (which extends to England and Ireland), a
-  comprehensive enactment including larceny, embezzlement, fraud by
+  comprehensive enactment including larceny, embezzlement, [[Fraud|fraud]] by
   bailees, agents, bankers, factors, and trustees, sacrilege, burglary,
   housebreaking, robbery, obtaining money by threats or by false
   pretences, and receiving stolen goods, and prescribing procedure, both
   civil and criminal. There are, however, other acts in force dealing
   with special cases of larceny, such as an act of Henry VIII. as to
-  stealing the goods of the king, and the Game, Post-Office and Merchant
+  stealing the goods of the king, and the [[Game]], Post-Office and Merchant
   Shipping Acts. There are separate acts providing for larceny by a
   partner of partnership property, and by a husband or wife of the
   property of the other (Married Women's Property Act 1882). Proceedings
@@ -161,10 +161,10 @@ jurisdiction.
   thing taken must be one capable of larceny either at common law or by
   statute. One or two cases falling under the law of larceny are of
   special interest. It was held more than once that a servant taking
-  corn to feed his master's horses, but without any intention of
+  [[Corn|corn]] to feed his master's horses, but without any intention of
   applying it for his own benefit, was guilty of larceny. To remedy this
   hardship, the Misappropriation of Servants Act 1863 was passed to
-  declare such an act not to be felony. The case of appropriation of
+  declare such an act not to be felony. The case of [[Appropriation|appropriation]] of
   goods which have been found has led to some difficulty. It now seems
   to be the law that in order to constitute a larceny of lost goods
   there must be a felonious intent at the time of finding, that is, an
@@ -177,11 +177,11 @@ jurisdiction.
   crown cases reserved, and in each case there was a striking difference
   of opinion. In _R._ v. _Middleton_, 1873, L.R. 2 C.C.R., 38, the
   prisoner, a depositor in a post-office savings bank, received by the
-  mistake of the clerk a larger sum that he was entitled to. The jury
+  mistake of the clerk a larger sum that he was entitled to. The [[Jury|jury]]
   found that he had the _animus furandi_ at the time of taking the
   money, and that he knew it to be the money of the postmaster-general.
   The majority of the court held it to be larceny. In a case in 1885
-  (_R._ v. _Ashwell_, L.R. 16 Q.B.D. 190), where the prosecutor gave the
+  (_R._ v. _[[Ashwell]]_, L.R. 16 Q.B.D. 190), where the prosecutor gave the
   prisoner a sovereign believing it to be a shilling, and the prisoner
   took it under that belief, but afterwards discovered its value and
   retained it, the court was equally divided as to whether the prisoner
@@ -195,12 +195,12 @@ jurisdiction.
   property of the same person within six months may now be charged in
   one indictment. On an indictment for larceny the prisoner may be found
   guilty of embezzlement, and _vice versa_; and if the prisoner be
-  indicted for obtaining goods by false pretences, and the offence turn
+  indicted for obtaining goods by [[False Pretences|false pretences]], and the offence turn
   out to be larceny, he is not entitled to be acquitted of the
   misdemeanour. A count for receiving may be joined with the count for
   stealing. In many cases it is unnecessary to allege or prove ownership
   of the property the subject of the indictment. The act also contains
-  numerous provisions as to venue and the apprehension of offenders. In
+  numerous provisions as to venue and the [[Apprehension|apprehension]] of offenders. In
   another direction the powers of courts of Summary Jurisdiction (q.v.)
   have been extended, in the case of charges of larceny, embezzlement
   and receiving stolen goods, against children and young persons and
@@ -215,7 +215,7 @@ jurisdiction.
 
 _Scotland._--A vast number of acts of the Scottish parliament dealt with
 larceny. The general policy of the acts was to make larceny what was not
-larceny at common law, e.g. stealing fruit, dogs, hawks or deer, and to
+larceny at common law, e.g. stealing fruit, [[Dogs|dogs]], [[Hawks|hawks]] or deer, and to
 extend the remedies, e.g. by giving the justiciar authority throughout
 the kingdom, by making the master in the case of theft by the servant
 liable to give the latter up to justice, or by allowing the use of
@@ -230,15 +230,15 @@ and navy, and with larceny and receiving on the high seas or in any
 place under the exclusive jurisdiction of the United States, e.g.
 Alaska.
 
-  _Alaska._--Stealing any goods, chattels, government note, bank note,
+  _Alaska._--Stealing any goods, [[Chattel|chattels]], government note, bank note,
   or other thing in action, books of account, &c., is larceny:
   punishment, imprisonment for not less than one nor more than ten years
   if the property stolen is in value over $35. Larceny in any
   dwelling-house, warehouse, steamship, church, &c., is punishable by
   imprisonment for not less than one nor more than seven years. Larceny
-  of a horse, mule, ass, bull, steer, cow or reindeer is punishable by
+  of a horse, mule, ass, [[Bull|bull]], steer, cow or reindeer is punishable by
   imprisonment for not less than one nor more than fifteen years.
-  Wilfully altering or defacing marks or brands on such animals is
+  Wilfully altering or defacing marks or [[Brand|brands]] on such animals is
   larceny (Pen. Code Alaska, § 45, 1899).
 
   _Arizona._--Appropriating property found without due inquiry for the
@@ -260,7 +260,7 @@ Alaska.
   method of proof required to establish these offences has not been
   changed. Grand larceny in the _first degree_ is (a) stealing property
   of any value in the night time; (b) of $25 in value or more at night
-  from a dwelling house, vessel or railway car; (c) of the value of more
+  from a dwelling house, vessel or railway [[Car|car]]; (c) of the value of more
   than $500 in any manner; in the _second degree_ (a) stealing in any
   manner property of the value of over $25 and under $500; (b) taking
   from the person property of any value; (c) stealing any record of a
@@ -280,7 +280,7 @@ Alaska.
 
   _Kansas._--The owner of goods who takes them from a railroad company
   with intent to defeat its lien for transportation charges is guilty of
-  larceny. (_Atchison Co._ v. _Hinsdell_ [1907] 90 Pac. Rep. 800).
+  larceny. (_[[Atchison]] Co._ v. _Hinsdell_ [1907] 90 Pac. Rep. 800).
 
   _Massachusetts._--Larceny includes embezzlement and obtaining money by
   false pretences. (Rev. L. 1902, ch. 218, § 40.) The failing to restore

@@ -18,17 +18,17 @@ in a vessel named the "Experiment," which cruised under his command from
 obtained by experimental determinations of pressure at different points
 along the bore, by Colonel Bomford's tests--that is by boring holes in
 the walls of the gun, through which the pressure acts upon other bodies,
-such as pistol balls, pistons, &c." (Cf. article by J. M. Brooke in
+such as pistol [[Ball|balls]], pistons, &c." (Cf. article by J. M. [[Brooke]] in
 Hamersley's _Naval Encyclopaedia_.) When the Civil War broke out, he was
 on ordnance duty in the Washington navy yard, and he was one of the
 three officers who did not resign from confederate sympathies. His rank
-at the time was commander, and the command could only by held by a
-captain. President Lincoln insisted on retaining Commander Dahlgren, and
+at the time was [[Commander|commander]], and the command could only by held by a
+captain. President [[Lincoln]] insisted on retaining Commander Dahlgren, and
 he was qualified to keep the post by special act of Congress. He became
 post-captain in 1862 and rear-admiral in 1863. He commanded the
 Washington navy yard when he died on the 12th of July 1870.
 
-  A memoir of Admiral Dahlgren by his widow was published at Boston in
+  A memoir of Admiral Dahlgren by his widow was published at [[Boston]] in
   1882.     (D. H.)
 
 ## See also

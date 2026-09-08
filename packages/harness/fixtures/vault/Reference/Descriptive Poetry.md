@@ -25,7 +25,7 @@ sense, not correct to call poetry in which description is only the
 occasional ornament of a poem, and not its central subject, descriptive
 poetry. The landscape or still life must fill the canvas, or, if human
 interest is introduced, that must be treated as an accessory. Thus, in
-the _Hero and Leander_ of Marlowe and in the _Alastor_ of Shelley,
+the _[[Hero And Leander|Hero and Leander]]_ of [[Marlowe]] and in the _Alastor_ of Shelley,
 description of a very brilliant kind is largely introduced, yet these
 are not examples of what is technically called "descriptive poetry,"
 because it is not the strait between Sestos and Abydos, and it is not
@@ -37,7 +37,7 @@ which landscape takes the central place, and Drayton's _Polyolbion_,
 where everything is sacrificed to a topographical progress through
 Britain, are strictly descriptive.
 
-It will be obvious from this definition that the danger ahead of all
+It will be obvious from this [[Definition|definition]] that the danger ahead of all
 purely descriptive poetry is that it will lack intensity, that it will
 be frigid, if not dead. Description for description's sake, especially
 in studied verse, is rarely a vitalized form of literature. It is
@@ -53,9 +53,9 @@ His advice to the poets of his time was:--
 and:--
 
   "De figure sans nombre égayez votre ouvrage;
-   Que toute y fasse aux yeux une riante image,"
+   Que toute y fasse aux yeux une riante [[Image|image]],"
 
-and in verses of brilliant humour he mocked the writer who, too full of
+and in verses of brilliant [[Humour|humour]] he mocked the writer who, too full of
 his subject, and describing for description's sake, will never quit his
 theme until he has exhausted it:--
 
@@ -68,11 +68,11 @@ criticizes is legitimate at all.
 
 In England had appeared the famous translation (1592-1611), by Josuah
 Sylvester, of the _Divine Weeks and Works_ of Du Bartas, containing such
-lines as those which the juvenile Dryden admired so much:--
+lines as those which the juvenile [[Dryden]] admired so much:--
 
   "But when winter's keener breath began
    To crystallize the Baltic ocëan,
-   To glaze the lakes, and bridle up the floods,
+   To glaze the lakes, and bridle up the [[Flood|floods]],
    And perriwig with wool the bald-pate woods."
 
 There was also the curious physiological epic of Phineas Fletcher, _The
@@ -80,7 +80,7 @@ Purple Island_ (1633). But on the whole it was not until French
 influences had made themselves felt on English poetry, that
 description, as Boileau conceived it, was cultivated as a distinct art.
 The _Cooper's Hill_ (1642) of Sir John Denham may be contrasted with the
-less ambitious _Penshurst_ of Ben Jonson, and the one represents the new
+less ambitious _Penshurst_ of [[Ben]] [[Jonson]], and the one represents the new
 no less completely than the other does the old generation. If, however,
 we examine _Cooper's Hill_ carefully, we perceive that its aim is after
 all rather philosophical than topographical. The Thames is described
@@ -94,12 +94,12 @@ capacity, began to take such definite themes as a small country estate
 1708), a landscape (Pope's _Windsor Forest_, 1713), a military
 manoeuvre (Addison's _Campaign_, 1704), the industry of an
 apple-orchard (Philip's _Cyder_, 1708) or a piece of topography
-(Tickell's _Kensington Gardens_, 1722), as the sole subject of a lengthy
-poem, generally written in heroic or blank verse. These _tours de force_
+(Tickell's _[[Kensington]] Gardens_, 1722), as the sole subject of a lengthy
+poem, generally written in heroic or [[Blank|blank]] verse. These _tours de force_
 were supported by minute efforts in miniature-painting, by touch applied
 to touch, and were often monuments of industry, but they were apt to
 lack personal interest, and to suffer from a general and deplorable
-frigidity. They were infected with the faults which accompany an
+frigidity. They were infected with the [[Fault|faults]] which accompany an
 artificial style; they were monotonous, rhetorical and symmetrical,
 while the uniformity of treatment which was inevitable to their plan
 rendered them hopelessly tedious, if they were prolonged to any great
@@ -112,14 +112,14 @@ importance. The classic of descriptive poetry, in fact, the specimen
 which the literature of the world presents which must be considered as
 the most important and the most successful, is _The Seasons_ (1726-1730)
 of James Thomson (q.v.). In Thomson, for the first time, a poet of
-considerable eminence appeared, to whom external nature was all
+considerable [[Eminence|eminence]] appeared, to whom external nature was all
 sufficient, and who succeeded in conducting a long poem to its close by
 a single appeal to landscape, and to the emotions which it directly
 evokes. Coleridge, somewhat severely, described _The Seasons_ as the
 work of a good rather than of a great poet, and it is an indisputable
 fact that, at its very best, descriptive poetry fails to awaken the
-highest powers of the imagination. A great part of Thomson's poem is
-nothing more nor less than a skilfully varied catalogue of natural
+highest powers of the [[Imagination|imagination]]. A great part of Thomson's poem is
+nothing more nor less than a skilfully varied [[Catalogue|catalogue]] of natural
 phenomena. The famous description of twilight in "the fading
 many-coloured woods" of autumn may be taken as an example of the highest
 art to which purely descriptive poetry has ever attained. It is obvious,
@@ -135,7 +135,7 @@ better example of the more pedestrian class of descriptive poetry could
 be found than the last-mentioned poem, with its minute and Dutch-like
 painting:--
 
-  "How often have I paused on every charm:
+  "How often have I paused on every [[Charm|charm]]:
    The sheltered cot, the cultivated farm;
    The never-failing brook, the busy mill,
    The decent church that topped the neighbouring hill:
@@ -148,10 +148,10 @@ contended for the suffrages of the public, and J. F. de Saint-Lambert
 (1716-1803) imitated Thomson in _Les Saisons_ (1769), a poem which
 enjoyed popularity for half a century, and of which Voltaire said that
 it was the only one of its generation which would reach posterity.
-Nevertheless, as Madame du Deffand told Walpole, Saint-Lambert is
+Nevertheless, as Madame du [[Deffand]] told Walpole, Saint-Lambert is
 "_froid, fade et faux,_" and the same may be said of J. A. Roucher
 (1745-1794), who wrote _Les Mois_ in 1779, a descriptive poem famous in
-its day. The Abbé Jacques Delille (1738-1813), perhaps the most
+its day. The Abbé Jacques [[Delille]] (1738-1813), perhaps the most
 ambitious descriptive poet who has ever lived, was treated as a Virgil
 by his contemporaries; he published _Les Géorgiques_ in 1769, _Les
 Jardins_ in 1782, and _L'Homme des champs_ in 1803, but he went furthest
@@ -173,7 +173,7 @@ be said of much of the early blank verse of S. T. Coleridge. Since their
 day, however, purely descriptive poetry has gone more and more
 completely out of fashion, and its place has been taken by the richer
 and directer effects of such prose as that of Ruskin in English, or of
-Fromentin and Pierre Loti in French. It is almost impossible in
+[[Fromentin]] and Pierre [[Loti]] in French. It is almost impossible in
 descriptive verse to obtain those vivid and impassioned appeals to the
 imagination which are of the very essence of genuine poetry, and it is
 unlikely that descriptive poetry, as such, will again take a prominent

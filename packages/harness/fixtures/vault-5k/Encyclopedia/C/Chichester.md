@@ -11,7 +11,7 @@ century, after the see had been removed to Chichester from Selsey in
 1187 caused building to continue steadily until the close of the 13th
 century. Bishop Ralph Luffa (1091-1123) was the first great builder, and
 was followed by Seffrid II. (1180-1204). Norman work appears in the nave
-(arcade and triforium), choir (arcade) and elsewhere; but there is much
+([[Arcade|arcade]] and triforium), choir (arcade) and elsewhere; but there is much
 very beautiful Early English work, the choir above the arcade and the
 eastern part being especially fine. The nave is remarkable in having
 double aisles on each side, the outer pair being of the 13th century.
@@ -39,7 +39,7 @@ but the existing buildings are in a style transitional from Early
 English to Decorated. Its use as an almshouse is maintained. Other
 ancient buildings are the churches of St Olave, in the construction of
 which Roman materials were used; and of St Andrew, where is the tomb of
-the poet William Collins, whose memorial with others by the sculptor
+the poet William [[Collins]], whose memorial with others by the sculptor
 Flaxman is in the cathedral; the Guildhall, formerly a Grey Friars'
 chapel, of the 13th century; the Canon Gate leading into the cathedral
 close; and the Vicars College. The city retains a great part of its
@@ -73,7 +73,7 @@ reserved to the king. Edward III. directed that the Sussex county court
 should be held at Chichester, and this was confirmed in the following
 year. Confirmations of the previous charters were also granted by Edward
 III., Richard II., Henry VI., Edward IV., and Henry VII, who gave the
-mayor and citizens cognizance of all kinds of pleas of assize touching
+mayor and citizens cognizance of all kinds of pleas of [[Assize|assize]] touching
 lands and hereditaments of freehold tenure. A court leet, court of
 record and bailiffs' court of liberties still exist. The charters were
 also confirmed by Henry VIII., Edward VI., Philip and Mary, and
@@ -87,7 +87,7 @@ corn, while Camden speaks of that on Saturday as the greatest for fish
 in the county. The markets and a fair on the 20th of October are still
 held.
 
-  See _Victoria County History, Sussex_; Alexander Hay, _History of
+  See _Victoria County History, Sussex_; Alexander [[Hay]], _History of
   Chichester_ (Chichester, 1804).
 
 ## See also

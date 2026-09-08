@@ -6,7 +6,7 @@ topic: history
 
 # Elevators
 
-ELEVATORS, LIFTS or HOISTS, machines for raising or lowering loads,
+ELEVATORS, LIFTS or HOISTS, [[Machine|machines]] for raising or lowering loads,
 whether of people or material, from one level to another. They are
 operated by steam, hydraulic or electric power, or, when small and
 light, by hand. Their construction varies with the magnitude of the work
@@ -99,9 +99,9 @@ and the best construction of each for its peculiar work. Whatever the
 class, the following are the essentials of design, construction and
 operation: the elevator must be safe, comfortable, speedy and
 convenient, must not be too expensive in either first cost or
-maintenance, and must be absolutely trustworthy. It must not be liable
+[[Maintenance|maintenance]], and must be absolutely trustworthy. It must not be liable
 to fracture of any element of the hoisting gear that will permit either
-the fall of the cage or its projection by an overweighted balance
+the fall of the cage or its projection by an overweighted [[Balance|balance]]
 upwards against the top of its shaft. It must be possible to stop it,
 whether in regular working or in emergency, or when accident occurs,
 with sufficient promptness, yet without endangering life or property, or
@@ -133,7 +133,7 @@ there are four to six for each car and counter-weight, has a tenacity of
 set of rope is assumed to be not over 9500 lb., the remainder of the
 load being taken by the counterbalance. Oil "dash-pots" or buffers, into
 which enter plungers attached to the bottom of the cage, prevent too
-sudden a stop in case of accident, and safety-clutches with friction
+sudden a stop in case of accident, and safety-clutches with [[Friction|friction]]
 adjustments of ample power and fully tested before use give ample
 insurance against a fall even if all the cables should yield at once--an
 almost inconceivable contingency. The efficiency, i.e. the ratio of work
@@ -165,7 +165,7 @@ distance below the third floor, and then carried straight to the bottom.
 An inlet valve admits air freely as the cage rises, and an adjusted
 safety-valve provides against excess pressure. A "car," falling freely
 from the twentieth storey, was checked by this arrangement without
-injury to a basket of eggs placed on its floor. Other safety devices
+injury to a basket of [[Egg|eggs]] placed on its floor. Other safety devices
 consist of catches under the floor of the cage, so arranged that they
 are held out of engagement by the pull on the cables. But if the strain
 is suddenly relieved, as by breakage of a cable or accident to the

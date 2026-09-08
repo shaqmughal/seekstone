@@ -1,7 +1,7 @@
 # Mecca
 
-MECCA (Arab. _Makkah_),[1] the chief town of the Hejaz in Arabia, and
-the great holy city of Islam. It is situated two camel marches (the
+MECCA (Arab. _Makkah_),[1] the chief town of the [[Hejaz]] in Arabia, and
+the great holy city of Islam. It is situated two camel [[Marches|marches]] (the
 resting-place being Bahra or Hadda), or about 45 m. almost due E., from
 Jidda on the Red Sea. Thus on a rough estimate Mecca lies in 21° 25´ N.,
 39° 50´ E. It is said in the Koran (_Sur._ xiv. 40) that Mecca lies in a
@@ -9,11 +9,11 @@ sterile valley, and the old geographers observe that the whole Haram or
 sacred territory round the city is almost without cultivation or date
 palms, while fruit trees, springs, wells, gardens and green valleys are
 found immediately beyond. Mecca in fact lies in the heart of a mass of
-rough hills, intersected by a labyrinth of narrow valleys and passes,
+rough hills, intersected by a [[Labyrinth|labyrinth]] of narrow valleys and passes,
 and projecting into the Tehama or low country on the Red Sea, in front
 of the great mountain wall that divides the coast-lands from the central
 plateau, though in turn they are themselves separated from the sea by a
-second curtain of hills forming the western wall of the great Wadi Marr.
+second [[Curtain|curtain]] of hills forming the western wall of the great Wadi Marr.
 The inner mountain wall is pierced by only two great passes, and the
 valleys descending from these embrace on both sides the Mecca hills.
 
@@ -21,7 +21,7 @@ Holding this position commanding two great routes between the lowlands
 and inner Arabia, and situated in a narrow and barren valley incapable
 of supporting an urban population, Mecca must have been from the first a
 commercial centre.[2] In the palmy days of South Arabia it was probably
-a station on the great incense route, and thus Ptolemy may have learned
+a station on the great [[Incense|incense]] route, and thus Ptolemy may have learned
 the name, which he writes Makoraba. At all events, long before Mahomet
 we find Mecca established in the twofold quality of a commercial centre
 and a privileged holy place, surrounded by an inviolable territory (the
@@ -35,23 +35,23 @@ the month of pilgrimage, with those immediately preceding and following.
 The first of the series of fairs in which the Meccans had an interest
 was at Okaz on the easier road between Mecca and Taif, where there was
 also a sanctuary, and from it the visitors moved on to points still
-nearer Mecca (Majanna, and finally Dhul-Majaz, on the flank of Jebel
+nearer Mecca (Majanna, and finally Dhul-Majaz, on the flank of [[Jebel]]
 Kabkab behind Arafa) where further fairs were held,[3] culminating in
 the special religious ceremonies of the great feast at 'Arafa, Quzah
 (Mozdalifa), and Mecca itself. The system of intercalation in the lunar
-calendar of the heathen Arabs was designed to secure that the feast
+calendar of the [[Heathen|heathen]] [[Arabs]] was designed to secure that the feast
 should always fall at the time when the hides, fruits and other
 merchandise were ready for market,[4] and the Meccans, who knew how to
-attract the Bedouins by hospitality, bought up these wares in exchange
-for imported goods, and so became the leaders of the international trade
-of Arabia. Their caravans traversed the length and breadth of the
-peninsula. Syria, and especially Gaza, was their chief goal. The Syrian
+attract the [[Bedouins]] by hospitality, bought up these wares in [[Exchange|exchange]]
+for imported goods, and so became the leaders of the [[International|international]] trade
+of Arabia. Their [[Caravan|caravans]] traversed the length and breadth of the
+peninsula. Syria, and especially [[Gaza]], was their chief goal. The Syrian
 caravan intercepted, on its return, at Badr (see MAHOMET) represented
 capital to the value of £20,000, an enormous sum for those days.[5]
 
 The victory of Mahommedanism made a vast change in the position of
-Mecca. The merchant aristocracy became satraps or pensioners of a great
-empire; but the seat of dominion was removed beyond the desert, and
+Mecca. The merchant [[Aristocracy|aristocracy]] became satraps or pensioners of a great
+empire; but the seat of dominion was removed beyond the [[Desert|desert]], and
 though Mecca and the Hejaz strove for a time to maintain political as
 well as religious predominance, the struggle was vain, and terminated on
 the death of Ibn Zubair, the Meccan pretendant to the caliphate, when
@@ -73,11 +73,11 @@ up, and the traffic of the pilgrim season, sanctioned by the Prophet in
 _Sur._ ii. 194, was concentrated at Mina and Mecca, where most of the
 pilgrims still have something to buy or sell, so that Mina, after the
 sacrifice of the feast day, presents the aspect of a huge international
-fancy fair.[6] In the middle ages this trade was much more important
+[[Fancy|fancy]] fair.[6] In the middle ages this trade was much more important
 than it is now. Ibn Jubair (ed. Wright, p. 118 seq.) in the 12th century
 describes the mart of Mecca in the eight days following the feast as
 full of gems, unguents, precious drugs, and all rare merchandise from
-India, Irak, Khorasan, and every part of the Moslem world.
+India, [[Irak]], [[Khorasan]], and every part of the Moslem world.
 
 The hills east and west of Mecca, which are partly built over and rise
 several hundred feet above the valley, so enclose the city that the
@@ -113,15 +113,15 @@ The length of the sinuous main axis of the city from the farthest
 suburbs on the Medina road to the suburbs in the extreme north, now
 frequented by Bedouins, is, according to Burckhardt, 3500 paces.[8]
 About the middle of this line the longitudinal thoroughfares are pushed
-aside by the vast courtyard and colonnades composing the great mosque,
-which, with its spacious arcades surrounding the Ka'ba and other holy
+aside by the vast courtyard and [[Colonnade|colonnades]] composing the great mosque,
+which, with its spacious [[Arcade|arcades]] surrounding the Ka'ba and other holy
 places, and its seven minarets, forms the only prominent architectural
 feature of the city. The mosque is enclosed by houses with windows
 opening on the arcades and commanding a view of the Ka'ba. Immediately
 beyond these, on the side facing Jebel Abu Kobais, a broad street runs
 south-east and north-west across the valley. This is the Mas'a (sacred
-course) between the eminences of Safa and Merwa, and has been from very
-early times one of the most lively bazaars and the centre of Meccan
+course) between the [[Eminence|eminences]] of Safa and Merwa, and has been from very
+early times one of the most lively [[Bazaar|bazaars]] and the centre of Meccan
 life. The other chief bazaars are also near the mosque in smaller
 streets. The general aspect of the town is picturesque; the streets are
 fairly spacious, though ill-kept and filthy; the houses are all of
@@ -130,8 +130,8 @@ terraced roofs and large projecting windows as in Jidda--a style of
 building which has not varied materially since the 10th century
 (Mukaddasi, p. 71), and gains in effect from the way in which the
 dwellings run up the sides and spurs of the mountains. Of public
-institutions there are baths, ribats, or hospices, for poor pilgrims
-from India, Java, &c., a hospital and a public kitchen for the poor.
+institutions there are baths, ribats, or [[Hospice|hospices]], for poor pilgrims
+from India, [[Java]], &c., a hospital and a public kitchen for the poor.
 
 The mosque is at the same time the university hall, where between two
 pilgrim seasons lectures are delivered on Mahommedan law, doctrine and
@@ -144,7 +144,7 @@ followers, are not notable.[9] Both these and the court of the great
 mosque lie beneath the general level of the city, the site having been
 gradually raised by accumulated rubbish. The town in fact has little air
 of antiquity; genuine Arab buildings do not last long, especially in a
-valley periodically ravaged by tremendous floods when the tropical rains
+valley periodically ravaged by tremendous [[Flood|floods]] when the tropical rains
 burst on the surrounding hills. The history of Mecca is full of the
 record of these inundations, unsuccessfully combated by the great dam
 drawn across the valley by the caliph Omar (_Kutbeddin_, p. 76), and
@@ -160,7 +160,7 @@ severely felt. Fortunately good water is tolerably plentiful; for,
 though the wells are mostly undrinkable, and even the famous Zamzam
 water only available for medicinal or religious purposes, the
 underground conduit from beyond Arafa, completed by Sultan Selim II. in
-1571, supplies to the public fountains a sweet and light water,
+1571, supplies to the public [[Fountain|fountains]] a sweet and light water,
 containing, according to 'Abd el-Razzaq, a large amount of chlorides.
 The water is said to be free to townsmen, but is sold to the pilgrims at
 a rather high rate.[11]
@@ -168,12 +168,12 @@ a rather high rate.[11]
 Medieval writers celebrate the copious supplies, especially of fine
 fruits, brought to the city from Taif and other fertile parts of Arabia.
 These fruits are still famous; rice and other foreign products are
-brought by sea to Jidda; mutton, milk and butter are plentifully
+brought by sea to Jidda; mutton, milk and [[Butter|butter]] are plentifully
 supplied from the desert.[12] The industries all centre in the
 pilgrimage; the chief object of every Meccan--from the notables and
 sheikhs, who use their influence to gain custom for the Jidda
-speculators in the pilgrim traffic, down to the cicerones, pilgrim
-brokers, lodging-house keepers, and mendicants at the holy places--being
+speculators in the pilgrim traffic, down to the [[Cicerone|cicerones]], pilgrim
+[[Broker|brokers]], lodging-house keepers, and mendicants at the holy places--being
 to pillage the visitor in every possible way. The fanaticism of the
 Meccan is an affair of the purse; the mongrel population (for the town
 is by no means purely Arab) has exchanged the virtues of the Bedouin for
@@ -191,13 +191,13 @@ Since the fall of Ibn Zubair the political position of Mecca has always
 been dependent on the movements of the greater Mahommedan world. In the
 splendid times of the caliphs immense sums were lavished upon the
 pilgrimage and the holy city; and conversely the decay of the central
-authority of Islam brought with it a long period of faction, wars and
+authority of Islam brought with it a long period of [[Faction|faction]], wars and
 misery, in which the most notable episode was the sack of Mecca by the
-Carmathians at the pilgrimage season of A.D. 930. The victors carried
+[[Carmathians]] at the pilgrimage season of A.D. 930. The victors carried
 off the "black stone," which was not restored for twenty-two years, and
 then only for a great ransom, when it was plain that even the loss of
 its palladium could not destroy the sacred character of the city. Under
-the Fatimites Egyptian influence began to be strong in Mecca; it was
+the [[Fatimites]] Egyptian influence began to be strong in Mecca; it was
 opposed by the sultans of Yemen, while native princes claiming descent
 from the Prophet--the Hashimite amirs of Mecca, and after them the amirs
 of the house of Qatada (since 1202)--attained to great authority and
@@ -214,12 +214,12 @@ troops of Mehemet 'Ali. By him the dignity of sherif was deprived of
 much of its weight, and in 1827 a change of dynasty was effected by the
 appointment of Ibn 'Aun. Afterwards Turkish authority again decayed.
 Mecca is, however, officially the capital of a Turkish province, and has
-a governor-general and a Turkish garrison, while Mahommedan law is
+a governor-general and a Turkish [[Garrison|garrison]], while Mahommedan law is
 administered by a judge sent from Constantinople. But the real sovereign
 of Mecca and the Hejaz is the sherif, who, as head of a princely family
 claiming descent from the Prophet, holds a sort of feudal position. The
 dignity of sherif (or grand sherif, as Europeans usually say for the
-sake of distinction, since all the kin of the princely houses reckoning
+sake of distinction, since all the [[Kin|kin]] of the princely houses reckoning
 descent from the Prophet are also named sherifs), although by no means a
 religious pontificate, is highly respected owing to its traditional
 descent in the line of Hasan, son of the fourth caliph 'Ali. From a
@@ -261,7 +261,7 @@ Mahomet purged it of idols and adopted it as the chief sanctuary of
 Islam, but the old form has been preserved, except in secondary
 details;[15] so that the "Ancient House," as it is titled, is still
 essentially a heathen temple, adapted to the worship of Islam by the
-clumsy fiction that it was built by Abraham and Ishmael by divine
+clumsy fiction that it was built by Abraham and [[Ishmael]] by divine
 revelation as a temple of pure monotheism, and that it was only
 temporarily perverted to idol worship from the time when 'Amr ibn Lohai
 introduced the statue of Hobal from Syria[16] till the victory of Islam.
@@ -298,14 +298,14 @@ held to be acceptable places of prayer. Thus the space of ten spans
 between the black stone and the door, which is on the east side, between
 the black and Irak corners, and a man's height from the ground, is
 called the _Multazam_, and here prayer should be offered after the tawaf
-with outstretched arms and breast pressed against the house. On the
+with outstretched arms and [[Breast|breast]] pressed against the house. On the
 other side of the door, against the same wall, is a shallow trough,
 which is said to mark the original site of the stone on which Abraham
 stood to build the Ka'ba. Here the growth of the legend can be traced,
 for the place is now called the "kneading-place" (Ma'jan), where the
 cement for the Ka'ba was prepared. This name and story do not appear in
 the older accounts. Once more, on the north side of the Ka'ba, there
-projects a low semicircular wall of marble, with an opening at each end
+projects a low semicircular wall of [[Marble|marble]], with an opening at each end
 between it and the walls of the house. The space within is paved with
 mosaic, and is called the Hijr. It is included in the tawaf, and two
 slabs of _verde antico_ within it are called the graves of Ishmael and
@@ -318,23 +318,23 @@ The feeling of religious conservatism which has preserved the structural
 rudeness of the Ka'ba did not prohibit costly surface decoration. In
 Mahomet's time the outer walls were covered by a veil (or _kiswa_) of
 striped Yemen cloth. The caliphs substituted a covering of figured
-brocade, and the Egyptian government still sends with each pilgrim
+[[Brocade|brocade]], and the Egyptian government still sends with each pilgrim
 caravan from Cairo a new kiswa of black brocade, adorned with a broad
 band embroidered with golden inscriptions from the Koran, as well as a
 richer curtain for the door.[18] The door of two leaves, with its posts
-and lintel, is of silver gilt.
+and [[Lintel|lintel]], is of silver gilt.
 
 The interior of the Ka'ba is now opened but a few times every year for
 the general public, which ascends by the portable staircase brought
 forward for the purpose. Foreigners can obtain admission at any time for
-a special fee. The modern descriptions, from observations made under
+a special [[Fee|fee]]. The modern descriptions, from observations made under
 difficulties, are not very complete. Little change, however, seems to
 have been made since the time of Ibn Jubair, who describes the floor and
-walls as overlaid with richly variegated marbles, and the upper half of
+walls as overlaid with richly variegated [[Marbles|marbles]], and the upper half of
 the walls as plated with silver thickly gilt, while the roof was veiled
 with coloured silk. Modern writers describe the place as windowless, but
 Ibn Jubair mentions five windows of rich stained glass from Irak.
-Between the three pillars of teak hung thirteen silver lamps. A chest in
+Between the three pillars of teak hung thirteen silver [[Lamp|lamps]]. A chest in
 the corner to the left of one entering contained Korans, and at the Irak
 corner a space was cut off enclosing the stair that leads to the roof.
 The door to this stair (called the door of mercy--Bab el-Rahma) was
@@ -376,8 +376,8 @@ after the fatigues of religious exercise; and the manufacture of bottles
 or jars for carrying the water to distant countries is quite a trade.
 Ibn Jubair mentions a curious superstition of the Meccans, who believed
 that the water rose in the shaft at the full moon of the month Shaban.
-On this occasion a great crowd, especially of young people, thronged
-round the well with shouts of religious enthusiasm, while the servants
+On this occasion a great [[Crowd|crowd]], especially of young people, thronged
+round the well with shouts of religious [[Enthusiasm|enthusiasm]], while the servants
 of the well dashed buckets of water over their heads. The Maqam of
 Abraham is also connected with a relic of heathenism, the ancient holy
 stone which once stood on the Ma'jan, and is said to bear the prints of
@@ -386,7 +386,7 @@ miraculous incidents, seems to have arisen from a misconception, the
 Maqam Ibrahim in the Koran meaning the sanctuary itself; but the stone,
 which is a block about 3 spans in height and 2 in breadth, and in shape
 "like a potter's furnace" (Ibn Jubair), is certainly very ancient. No
-one is now allowed to see it, though the box in which it lies can be
+one is now allowed to see it, though the [[Box|box]] in which it lies can be
 seen or touched through a grating in the little chapel that surrounds
 it. In the middle ages it was sometimes shown, and Ibn Jubair describes
 the pious enthusiasm with which he drank Zamzam water poured on the
@@ -398,7 +398,7 @@ extended through the Nejd and into the Hejaz.[20]
 
   _Safa and Merwa._--In religious importance these two points or
   "hills," connected by the Mas'a, stand second only to the Ka'ba. Safa
-  is an elevated platform surmounted by a triple arch, and approached by
+  is an elevated platform surmounted by a triple [[Arch|arch]], and approached by
   a flight of steps.[21] It lies south-east of the Ka'ba, facing the
   black corner, and 76 paces from the "Gate of Safa," which is
   architecturally the chief gate of the mosque. Merwa is a similar
@@ -426,8 +426,8 @@ extended through the Nejd and into the Hejaz.[20]
   sanctuaries than Mecca--the technical word for it (_ihlal_) is
   applied, for example, to the pilgrimage to Manat (_Bakri_, p. 519). He
   who was under such a vow was bound by ceremonial observances of
-  abstinence from certain acts (e.g. hunting) and sensual pleasures, and
-  in particular was forbidden to shear or comb his hair till the
+  abstinence from certain acts (e.g. [[Hunting|hunting]]) and sensual pleasures, and
+  in particular was forbidden to shear or [[Comb|comb]] his hair till the
   fulfilment of the vow. This old Semitic usage has its close parallel
   in the vow of the Nazarite. It was not peculiarly connected with
   Mecca; at Taif, for example, it was customary on return to the city
@@ -448,7 +448,7 @@ extended through the Nejd and into the Hejaz.[20]
   The omra begins at some point outside the Haram (or holy territory),
   generally at Tanim, both for convenience sake and because Ayesha began
   the omra there in the year 10 of the Hegira. The pilgrim enters the
-  Haram in the antique and scanty pilgrimage dress (ihram), consisting
+  Haram in the antique and scanty pilgrimage [[Dress|dress]] (ihram), consisting
   of two cloths wound round his person in a way prescribed by ritual.
   His devotion is expressed in shouts of "Labbeyka" (a word of obscure
   origin and meaning); he enters the great mosque, performs the tawaf
@@ -462,15 +462,15 @@ extended through the Nejd and into the Hejaz.[20]
   there. The triviality of these rites is ill concealed by the legends
   of the sa'y of Hagar and of the tawaf being first performed by Adam in
   imitation of the circuit of the angels about the throne of God; the
-  meaning of their ceremonies seems to have been almost a blank to the
+  meaning of their ceremonies seems to have been almost a [[Blank|blank]] to the
   Arabs before Islam, whose religion had become a mere formal tradition.
   We do not even know to what deity the worship expressed in the tawaf
   was properly addressed. There is a tradition that the Ka'ba was a
   temple of Saturn (Shahrastani, p. 431); perhaps the most distinctive
-  feature of the shrine may be sought in the sacred doves which still
+  feature of the shrine may be sought in the sacred [[Dove|doves]] which still
   enjoy the protection of the sanctuary. These recall the sacred doves
   of Ascalon (Philo vi. 200 of Richter's ed.), and suggests
-  Venus-worship as at least one element (cf. Herod i. 131, iii. 8; Ephr.
+  Venus-worship as at least one element (cf. [[Herod]] i. 131, iii. 8; Ephr.
   Syr., _Op. Syr._ ii. 457).
 
   To the ordinary pilgrim the omra has become so much an episode of the
@@ -487,7 +487,7 @@ extended through the Nejd and into the Hejaz.[20]
   moon celebration was nocturnal; the road to Tanim, the Mas'a, and the
   mosque were brilliantly illuminated; and the appearing of the moon was
   greeted with noisy music. A genuine old Arab market was held, for the
-  wild Bedouins of the Yemen mountains came in thousands to barter their
+  wild Bedouins of the Yemen mountains came in thousands to [[Barter|barter]] their
   cattle and fruits for clothing, and deemed that to absent themselves
   would bring drought and cattle plague in their homes. Though ignorant
   of the legal ritual and prayers, they performed the tawaf with
@@ -504,7 +504,7 @@ extended through the Nejd and into the Hejaz.[20]
   these once in his life, or to have them fulfilled by a substitute on
   his behalf and at his expense. By them the pilgrim becomes as pure
   from sin as when he was born, and gains for the rest of his life the
-  honourable title of hajj. Neglect of many other parts of the pilgrim
+  [[Honourable|honourable]] title of hajj. Neglect of many other parts of the pilgrim
   ceremonial may be compensated by offerings, but to miss the "stand"
   (_woquf_) at Arafa is to miss the pilgrimage. Arafa or Arafat is a
   space, artificially limited, round a small isolated hill called the
@@ -529,7 +529,7 @@ extended through the Nejd and into the Hejaz.[20]
   on the 8th of Dhu'l Hijja, called the day of _tarwiya_ (an obscure and
   pre-Islamic name), and, strictly speaking, should spend the night at
   Mina. It is now, however, customary to go right on and encamp at once
-  at Arafa. The night should be spent in devotion, but the coffee booths
+  at Arafa. The night should be spent in devotion, but the coffee [[Booth|booths]]
   do a lively trade, and songs are as common as prayers. Next forenoon
   the pilgrim is free to move about, and towards midday he may if he
   please hear a sermon. In the afternoon the essential ceremony begins;
@@ -542,7 +542,7 @@ extended through the Nejd and into the Hejaz.[20]
   torchlight round the mosque of Mozdalifa, but before the sun is fairly
   up all must be in motion in the second _ifada_ towards Mina. The day
   thus begun is the "day of sacrifice," and has four ceremonies--(1) to
-  pelt with seven stones a cairn (_jamrat al 'aqaba_) at the eastern end
+  pelt with seven stones a [[Cairn|cairn]] (_jamrat al 'aqaba_) at the eastern end
   of W. Mina, (2) to slay a victim at Mina and hold a sacrificial meal,
   part of the flesh being also dried and so preserved, or given to the
   poor,[24] (3) to be shaved and so terminate the _ihram_, (4) to make
@@ -552,7 +552,7 @@ extended through the Nejd and into the Hejaz.[20]
   These are the days of Mina, a fair and joyous feast, with no special
   ceremony except that each day the pilgrim is expected to throw seven
   stones at the _jamrat al 'aqaba_, and also at each of two similar
-  cairns in the valley. The stones are thrown in the name of Allah, and
+  [[Cairns|cairns]] in the valley. The stones are thrown in the name of Allah, and
   are generally thought to be directed at the devil. This is, however, a
   custom older than Islam, and a tradition in Azraqi, p. 412, represents
   it as an act of worship to idols at Mina. As the stones are thrown on
@@ -571,12 +571,12 @@ extended through the Nejd and into the Hejaz.[20]
   rites, which Islam was careful to suppress. But we find mention of
   practices condemned by the orthodox, or forming no part of the Moslem
   ritual, which may be regarded as traces of an older ceremonial. Such
-  are nocturnal illuminations at Mina (Ibn Batuta i. 396), Arafa and
+  are nocturnal [[Illumination|illuminations]] at Mina (Ibn Batuta i. 396), Arafa and
   Mozdalifa (Ibn Jubair, 179), and tawafs performed by the ignorant at
   holy spots at Arafa not recognized by law (Snouck-Hurgronje p. 149
   sqq.). We know that the rites at Mozdalifa were originally connected
   with a holy hill bearing the name of the god Quzah (the Edomite Koze)
-  whose bow is the rainbow, and there is reason to think that the
+  whose [[Bow|bow]] is the rainbow, and there is reason to think that the
   _ifadas_ from Arafa and Quzah, which were not made as now after sunset
   and before sunrise, but when the sun rested on the tops of the
   mountains, were ceremonies of farewell and salutation to the sun-god.
@@ -584,10 +584,10 @@ extended through the Nejd and into the Hejaz.[20]
   The statistics of the pilgrimage cannot be given with certainty and
   vary much from year to year. The quarantine office keeps a record of
   arrivals by sea at Jidda (66,000 for 1904); but to these must be added
-  those travelling by land from Cairo, Damascus and Irak, the pilgrims
+  those travelling by land from Cairo, [[Damascus]] and Irak, the pilgrims
   who reach Medina from Yanbu and go on to Mecca, and those from all
   parts of the peninsula. Burckhardt in 1814 estimated the crowd at
-  Arafa at 70,000, Burton in 1853 at 50,000, 'Abd el-Razzak in 1858 at
+  Arafa at 70,000, [[Burton]] in 1853 at 50,000, 'Abd el-Razzak in 1858 at
   60,000. This great assemblage is always a dangerous centre of
   infection, and the days of Mina especially, spent under circumstances
   originally adapted only for a Bedouin fair, with no provisions for
@@ -624,7 +624,7 @@ extended through the Nejd and into the Hejaz.[20]
   very slight. 'Abd el-Razzaq's report to the government of India on the
   pilgrimage of 1858 is specially directed to sanitary questions; C.
   Snouck-Hurgronje, _Mekka_ (2 vols., and a collection of photographs,
-  The Hague, 1888-1889), gives a description of the Meccan sanctuary and
+  The [[Hague]], 1888-1889), gives a description of the Meccan sanctuary and
   of the public and private life of the Meccans as observed by the
   author during a sojourn in the holy city in 1884-1885 and a political
   history of Mecca from native sources from the Hegira till 1884. For
@@ -649,7 +649,7 @@ FOOTNOTES:
     324); Asma'i in Yaqut, iii. 705, iv. 416, 421; Azraqi, p. 129 seq.;
     Bakri, p. 661. Jebel Kabkab is a great mountain occupying the angle
     between W. Naman and the plain of Arafa. The peak is due north of
-    Sheddad, the hamlet which Burckhardt (i. 115) calls Shedad. According
+    Sheddad, the [[Hamlet|hamlet]] which Burckhardt (i. 115) calls Shedad. According
     to Azraqi, p. 80, the last shrine visited was that of the three trees
     of Uzza in W. Nakhla.
 
@@ -688,7 +688,7 @@ FOOTNOTES:
   [12] In Ibn Jubair's time large supplies were brought from the Yemen
     mountains.
 
-  [13] The corruption of manners in Mecca is no new thing. See the
+  [13] The corruption of [[Manners|manners]] in Mecca is no new thing. See the
     letter of the caliph Mahdi on the subject; Wüstenfeld, _Chron. Mek._,
     iv. 168.
 
@@ -698,7 +698,7 @@ FOOTNOTES:
 
   [15] The Ka'ba of Mahomet's time was the successor of an older
     building, said to have been destroyed by fire. It was constructed in
-    the still usual rude style of Arabic masonry, with string courses of
+    the still usual rude style of Arabic [[Masonry|masonry]], with string courses of
     timber between the stones (like Solomon's Temple). The roof rested on
     six pillars; the door was raised above the ground and approached by a
     stair (probably on account of the floods which often swept the
@@ -716,7 +716,7 @@ FOOTNOTES:
 
   [16] Hobal was set up within the Temple over the pit that contained
     the sacred treasures. His chief function was connected with the
-    sacred lot to which the Meccans were accustomed to betake themselves
+    sacred [[Lot|lot]] to which the Meccans were accustomed to betake themselves
     in all matters of difficulty.
 
   [17] See Ibn Hisham i. 54, Azraki p. 80 ('Uzza in Batn Marr); Yakut
@@ -728,7 +728,7 @@ FOOTNOTES:
 
   [18] The old _kiswa_ is removed on the 25th day of the month before
     the pilgrimage, and fragments of it are bought by the pilgrims as
-    charms. Till the 10th day of the pilgrimage month the Ka'ba is bare.
+    [[Charm|charms]]. Till the 10th day of the pilgrimage month the Ka'ba is bare.
 
   [19] Before Islam the Ka'ba was opened every Monday and Thursday; in
     the time of Ibn Jubair it was opened with considerable ceremony every
@@ -738,8 +738,8 @@ FOOTNOTES:
     opportunities of entrance were reduced to Friday and the birthday of
     the Prophet.
 
-  [20] See De Vogué, _Syrie centrale: inscr. sem._; Lady Anne Blunt
-    _Pilgrimage of Nejd_, ii., and W. R. Smith, in the _Athenaeum_, March
+  [20] See De Vogué, _Syrie centrale: inscr. sem._; Lady [[Anne]] Blunt
+    _Pilgrimage of Nejd_, ii., and W. R. Smith, in the _[[Athenaeum]]_, March
     20, 1880.
 
   [21] Ibn Jubair speaks of fourteen steps, Ali Bey of four, Burckhardt
@@ -776,7 +776,7 @@ has clung to it, although the subject has long attained a far wider
 scope. In recent times it has been proposed to adopt the term _dynamics_
 (from Gr. [Greek: dynamis] force,) as including the whole science of the
 action of force on bodies, whether at rest or in motion. The subject is
-usually expounded under the two divisions of _statics_ and _kinetics_,
+usually expounded under the two divisions of _statics_ and _[[Kinetics|kinetics]]_,
 the former dealing with the conditions of rest or equilibrium and the
 latter with the phenomena of motion as affected by force. To this latter
 division the old name of _dynamics_ (in a restricted sense) is still
@@ -797,7 +797,7 @@ The whole subject rests ultimately on the Newtonian laws of motion and
 on some natural extensions of them. As these laws are discussed under a
 separate heading (MOTION, LAWS OF), it is here only necessary to
 indicate the standpoint from which the present article is written. It is
-a purely empirical one. Guided by experience, we are able to frame
+a purely empirical one. Guided by experience, we are able to [[Frame|frame]]
 rules which enable us to say with more or less accuracy what will be the
 consequences, or what were the antecedents, of a given state of things.
 These rules are sometimes dignified by the name of "laws of nature," but
@@ -814,7 +814,7 @@ from one occasion to another arc ignored, or postponed for later
 examination. It follows that for the purposes of such description as is
 possible some process of abstraction is inevitable if our statements are
 to be simple and definite. Thus in studying the flight of a stone
-through the air we replace the body in imagination by a mathematical
+through the air we replace the body in [[Imagination|imagination]] by a mathematical
 point endowed with a mass-coefficient. The size and shape, the
 complicated spinning motion which it is seen to execute, the internal
 strains and vibrations which doubtless take place, are all sacrificed in
@@ -884,11 +884,11 @@ this head will find a place later.
 
   12. Rectilinear motion.
   13. General motion of a particle.
-  14. Central forces. Hodograph.
+  14. Central forces. [[Hodograph]].
   15. Kinetics of a system of discrete particles.
   16. Kinetics of a rigid body. Fundamental principles.
   17. Two-dimensional problems.
-  18. Equations of motion in three dimensions.
+  18. [[Equation|Equations]] of motion in three [[Dimension|dimensions]].
   19. Free motion of a solid.
   20. Motion of a solid of revolution.
   21. Moving axes of reference.
@@ -901,7 +901,7 @@ PART I.--STATICS
 § 1. _Statics of a Particle._--By a _particle_ is meant a body whose
 position can for the purpose in hand be sufficiently specified by a
 mathematical point. It need not be "infinitely small," or even small
-compared with ordinary standards; thus in astronomy such vast bodies as
+compared with ordinary standards; thus in [[Astronomy|astronomy]] such vast bodies as
 the sun, the earth, and the other planets can for many purposes be
 treated merely as points endowed with mass.
 
@@ -932,7 +932,7 @@ forces acting on a particle may be compounded by the "parallelogram
 rule." Thus, if the two forces P,Q be represented by the lines OA, OB,
 they can be replaced by a single force R represented by the diagonal OC
 of the parallelogram determined by OA, OB. This is of course a physical
-assumption whose propriety is justified solely by experience. We shall
+[[Assumption|assumption]] whose propriety is justified solely by experience. We shall
 see later that it is implied in Newton's statement of his Second Law of
 motion. In modern language, forces are compounded by "vector-addition";
 thus, if we draw in succession vectors [->HK], [->KL] to represent P, Q,
@@ -967,7 +967,7 @@ triangles are necessarily similar.
 
   As a simple example of the geometrical method of treating statical
   problems we may consider the equilibrium of a particle on a "rough"
-  inclined plane. The usual empirical law of sliding friction is that
+  inclined plane. The usual empirical law of sliding [[Friction|friction]] is that
   the mutual action between two plane surfaces in contact, or between a
   particle and a curve or surface, cannot make with the normal an angle
   exceeding a certain limit [lambda] called the _angle of friction_. If
@@ -1000,7 +1000,7 @@ Just as two or more forces can be combined into a single resultant, so a
 single force may be _resolved_ into _components_ acting in assigned
 directions. Thus a force can be uniquely resolved into two components
 acting in two assigned directions in the same plane with it by an
-inversion of the parallelogram construction of fig. 1. If, as is usually
+[[Inversion|inversion]] of the parallelogram construction of fig. 1. If, as is usually
 most convenient, the two assigned directions are at right angles, the
 two components of a force P will be P cos [theta], P sin [theta], where
 [theta] is the inclination of P to the direction of the former
@@ -1096,7 +1096,7 @@ tension of the string), so that the problem is still determinate.
   funicular will lie on a parabola whose axis is vertical. To prove this
   statement, let A, B, C, D ... be successive vertices, and let H, K ...
   be the middle points of AC, BD ...; then BH, CK ... will be vertical
-  by the hypothesis, and since the geometric sum of [->BA], [->BC] is
+  by the [[Hypothesis|hypothesis]], and since the geometric sum of [->BA], [->BC] is
   represented by 2[->BH], the tension in BA: tension in BC: weight at B
 
   as BA: BC: 2BH.
@@ -1323,7 +1323,7 @@ Thus three forces acting perpendicular to the sides of a triangle at the
 middle points will be in equilibrium provided they are proportional to
 the respective sides, and act all inwards or all outwards. This result
 is easily extended to the case of a polygon of any number of sides; it
-has an important application in hydrostatics.
+has an important application in [[Hydrostatics|hydrostatics]].
 
   Again, suppose we have a bar AB resting with its ends on two smooth
   inclined planes which face each other. Let G be the centre of gravity
@@ -1550,7 +1550,7 @@ represents the corresponding force. The relations will be understood
 from the annexed diagram, where corresponding lines in the force-diagram
 (to the right) and the funicular (to the left) are numbered similarly.
 The sides of the force-polygon may in the first instance be arranged in
-any order; the force-diagram can then be completed in a doubly infinite
+any order; the force-diagram can then be completed in a doubly [[Infinite|infinite]]
 number of ways, owing to the arbitrary position of O; and for each
 force-diagram a simply infinite number of funiculars can be drawn. The
 two diagrams being supposed constructed, it is seen that each of the
@@ -1578,7 +1578,7 @@ force R, reversed, to be included in the system of given forces.
 
 It is evident that a system of jointed bars having the shape of the
 funicular polygon would be in equilibrium under the action of the given
-forces, supposed applied to the joints; moreover any bar in which the
+forces, supposed applied to the [[Joints|joints]]; moreover any bar in which the
 stress is of the nature of a tension (as distinguished from a thrust)
 might be replaced by a string. This is the origin of the names
 "link-polygon" and "funicular" (cf. § 2).
@@ -1629,7 +1629,7 @@ might be replaced by a string. This is the origin of the names
   same as those of the second with respect to the first. A still simpler
   instance of reciprocal figures is supplied by the case of concurrent
   forces in equilibrium (fig. 29). The theory of these reciprocal
-  figures was first studied by J. Clerk Maxwell, who showed amongst
+  figures was first studied by J. Clerk [[Maxwell]], who showed amongst
   other things that a reciprocal can always be drawn to any figure which
   is the orthogonal projection of a plane-faced polyhedron. If in fact
   we take the pole of each face of such a polyhedron with respect to a
@@ -1849,13 +1849,13 @@ earth by means of six links.
   angular co-ordinates which express the orientation of the body with
   respect to O. Thus in fig. 36, if OA, OB, OC be three mutually
   perpendicular lines in the solid, we may denote by [theta] the angle
-  which OC makes with a fixed direction OZ, by [psi] the azimuth of the
+  which OC makes with a fixed direction OZ, by [psi] the [[Azimuth|azimuth]] of the
   plane ZOC measured from some fixed plane through OZ, and by [phi] the
   inclination of the plane COA to the plane ZOC. In fig. 36 these
   various lines and planes are represented by their intersections with a
   unit sphere having O as centre. This very useful, although
   unsymmetrical, system of angular co-ordinates was introduced by L.
-  Euler. It is exemplified in "Cardan's suspension," as used in
+  [[Euler]]. It is exemplified in "Cardan's suspension," as used in
   connexion with a compass-bowl or a gyroscope. Thus in the gyroscope
   the "flywheel" (represented by the globe in fig. 37) can turn about a
   diameter OC of a ring which is itself free to turn about a diametral
@@ -1947,7 +1947,7 @@ course, the translation, or the rotation, may vanish.
   the translation is measured by the projection of AB or BC or CD on the
   axis; and the angle of rotation is given by the inclination of the
   aforesaid bisectors. This construction was given by M. W. Crofton.
-  Again, H. Wiener and W. Burnside have employed the _half-turn_ (i.e. a
+  Again, H. Wiener and W. [[Burnside]] have employed the _half-turn_ (i.e. a
   rotation through two right angles) as the fundamental operation. This
   has the advantage that it is completely specified by the axis of the
   rotation, the sense being immaterial. Successive half-turns about
@@ -2174,7 +2174,7 @@ acting in a certain line, together with a couple G in a plane
 perpendicular to the line. This theorem was first given by L. Poinsot,
 and the line of action of R was called by him the _central axis_ of the
 system. The combination of a force and a couple in a perpendicular plane
-is termed by Sir R. S. Ball a _wrench_. Its type, as distinguished from
+is termed by Sir R. S. [[Ball]] a _wrench_. Its type, as distinguished from
 its absolute magnitude, may be specified by a screw whose axis is the
 line of action of R, and whose pitch is the ratio G/R.
 
@@ -2240,7 +2240,7 @@ these planes. By § 4, each couple can be replaced by two forces ± P
 (fig. 43) perpendicular to the plane of the paper, and so that one force
 of each couple is in the line of intersection (B); the arms (AB, BC)
 will then be proportional to the respective moments. The two forces at B
-will cancel, and we are left with a couple of moment P · AC in the plane
+will [[Cancel|cancel]], and we are left with a couple of moment P · AC in the plane
 AC. If we draw three vectors to represent these three couples, they will
 be perpendicular and proportional to the respective sides of the
 triangle ABC; hence the third vector is the geometric sum of the other
@@ -2391,7 +2391,7 @@ compound into a wrench the locus of whose axis is a cylindroid.
   six forces acting in six given lines, e.g. in the six edges of a given
   tetrahedron. An exception to the general statement occurs when the six
   lines are such that they are possible lines of action of a system of
-  six forces in equilibrium; they are then said to be _in involution_.
+  six forces in equilibrium; they are then said to be _in [[Involution|involution]]_.
   The theory of forces in involution has been studied by A. Cayley, J.
   J. Sylvester and others. We have seen that a rigid structure may in
   general be rigidly connected with the earth by six links, and it now
@@ -2607,7 +2607,7 @@ curve, or on a smooth surface, if it be displaced along the curve, or on
 the surface, the virtual work of the normal component of the pressure
 may be ignored, since it is of the second order. Again, if two bodies
 are connected by a string or rod, and if the hypothetical displacements
-be adjusted so that the distance between the points of attachment is
+be adjusted so that the distance between the points of [[Attachment|attachment]] is
 unaltered, the corresponding stress may be ignored. This is evident from
 fig. 45; if AB, A´B´ represent the two positions of a string, and T be
 the tension, the virtual work of the two forces ±T at A, B is T(A[alpha]
@@ -2664,7 +2664,7 @@ maximum.
   is at the point J. The displacement of G is at right angles to JG;
   this shows that for equilibrium JG must be vertical. Again, the locus
   of G is an arc of an ellipse whose centre is in the intersection of
-  the planes; since this arc is convex upwards the equilibrium is
+  the planes; since this arc is [[Convex|convex]] upwards the equilibrium is
   unstable. A general criterion for the case of a rigid body movable in
   two dimensions, with one degree of freedom, can be obtained as
   follows. We have seen (§ 3) that the sequence of possible positions is
@@ -2903,7 +2903,7 @@ The pressure is then given by the formula
   R = T ------ - w cos [psi].  (5)
           ds
 
-In the case of a chain hanging freely under gravity it is usually
+In the case of a chain [[Hanging|hanging]] freely under gravity it is usually
 convenient to formulate the conditions of equilibrium of a finite
 portion PQ. The forces on this reduce to three, viz. the weight of PQ
 and the tensions at P, Q. Hence these three forces will be concurrent,
@@ -2928,7 +2928,7 @@ becomes
 This is the "intrinsic" equation of the curve. If the axes of x and y be
 taken horizontal and vertical (upwards), we derive
 
-  x = a log (sec [psi] + tan [psi]), y = a sec [psi].  (8)
+  x = a [[Log|log]] (sec [psi] + tan [psi]), y = a sec [psi].  (8)
 
 Eliminating [psi] we obtain the Cartesian equation
 
@@ -3020,7 +3020,7 @@ course have been inferred from the theory of the parabolic funicular in
 § 2.
 
   Finally, we may refer to the _catenary of uniform strength_, where the
-  cross-section of the wire (or cable) is supposed to vary as the
+  cross-section of the wire (or [[Cable|cable]]) is supposed to vary as the
   tension. Hence w, the weight per foot, varies as T, and we may write
   T = w[lambda], where [lambda] is a constant length. Resolving along
   the normal the forces on an element [delta]s, we find T[delta][psi] =
@@ -3230,7 +3230,7 @@ and
   I_x = I_y = I_z = (1/5)Ma², I_yz = I_zx = l_xy = (3/5)Ma²; i.e. the
   square of the radius of gyration with respect to a diameter is
   (2/5)a². The method of homogeneous strain can be applied to deduce the
-  corresponding results for an ellipsoid of semi-axes a, b, c. If the
+  corresponding results for an [[Ellipsoid|ellipsoid]] of semi-axes a, b, c. If the
   co-ordinate axes coincide with the principal axes, we find I_x =
   (1/5)Ma², I_y = (1/5)Mb², I_z = (1/5)Mc², whence I_yz = (1/5)M (b² +
   c²), &c.
@@ -3255,7 +3255,7 @@ with similar relations, and
 The formula (16) expresses that the squared radius of gyration about any
 axis (Ox) exceeds the squared radius of gyration about a parallel axis
 through G by the square of the distance between the two axes. The
-formula (17) is due to J. L. Lagrange; it may be written
+formula (17) is due to J. L. [[Lagrange]]; it may be written
 
   [Sigma](m·OP²)   [Sigma](m·GP²)
   -------------- = -------------- + OG²,  (18)
@@ -3473,7 +3473,7 @@ if p denotes the perpendicular drawn from O in the direction ([lambda],
   [alpha]²   [beta]²   [gamma]²
 
 This is called the _ellipsoid of gyration_ at O; it was introduced into
-the theory by J. MacCullagh. The ellipsoids (41) and (43) are reciprocal
+the theory by J. [[Maccullagh|MacCullagh]]. The ellipsoids (41) and (43) are reciprocal
 polars with respect to a sphere having O as centre.
 
 If A = B = C, the momental ellipsoid becomes a sphere; all axes through
@@ -3505,7 +3505,7 @@ each. The mass-system is then said to possess kinetic symmetry about O.
 
   [Illustration: FIG. 60.]
 
-  The graphical methods of determining the moment of inertia of a plane
+  The [[Graphical Methods|graphical methods]] of determining the moment of inertia of a plane
   system of particles with respect to any line in its plane may be
   briefly noticed. It appears from § 5 (fig. 31) that the linear moment
   of each particle about the line may be found by means of a funicular
@@ -3554,7 +3554,7 @@ distance being reckoned positive or negative according as it lies to one
 side or the other of O. At time t + [delta]t let the point be at Q, and
 let OQ = x + [delta]x. The _mean velocity_ of the point in the interval
 [delta]t is [delta]x/[delta]t. The limiting value of this when [delta]t
-is infinitely small, viz. dx/dt, is adopted as the definition of the
+is infinitely small, viz. dx/dt, is adopted as the [[Definition|definition]] of the
 _velocity_ at the instant t. Again, let u be the velocity at time t, u +
 [delta]u that at time t + [delta]t. The mean rate of increase of
 velocity, or the _mean acceleration_, in the interval [delta]t is then
@@ -3664,13 +3664,13 @@ velocities is a straight line. We may take it as an experimental result,
 although the best evidence is indirect, that a particle falling freely
 under gravity experiences a constant acceleration which at the same
 place is the same for all bodies. This acceleration is denoted by g; its
-value at Greenwich is about 981 centimetre-second units, or 32.2 feet
-per second. It increases somewhat with the latitude, the extreme
-variation from the equator to the pole being about ½%. We infer that on
+value at [[Greenwich]] is about 981 centimetre-second units, or 32.2 feet
+per second. It increases somewhat with the [[Latitude|latitude]], the extreme
+variation from the [[Equator|equator]] to the pole being about ½%. We infer that on
 our reckoning the force of gravity on a mass m is to be measured by mg,
 the momentum produced per second when this force acts alone. Since this
 is proportional to the mass, the relative masses to be attributed to
-various bodies can be determined practically by means of the balance. We
+various bodies can be determined practically by means of the [[Balance|balance]]. We
 learn also that on account of the variation of g with the locality a
 gravitational system of force-measurement is inapplicable when more than
 a moderate degree of accuracy is desired.
@@ -3843,7 +3843,7 @@ arbitrary initial conditions.
 
   In the case of a particle falling directly towards the earth from rest
   at a very great distance we have C = 0 and, by Newton's Law of
-  Gravitation, [mu]/a² = g, where a is the earth's radius. The deviation
+  [[Gravitation]], [mu]/a² = g, where a is the earth's radius. The deviation
   of the earth's figure from sphericity, and the variation of g with
   latitude, are here ignored. We find that the velocity with which the
   particle would arrive at the earth's surface (x = a) is [root](2ga).
@@ -3879,7 +3879,7 @@ arbitrary initial conditions.
   periodic time. Thus the moon would reach the earth in about five days.
   It may be noticed that if the scales of x and t be properly adjusted,
   the curve of positions in the present problem is the portion of a
-  cycloid extending from a vertex to a cusp.
+  [[Cycloid|cycloid]] extending from a vertex to a [[Cusp|cusp]].
 
 In any case of rectilinear motion, if we integrate both sides of the
 equation
@@ -4065,7 +4065,7 @@ i.e.
 
 The complete determination of the result of a collision under given
 circumstances is not a matter of abstract dynamics alone, but requires
-some auxiliary assumption. If we assume that there is no loss of
+some [[Auxiliary|auxiliary]] assumption. If we assume that there is no loss of
 apparent kinetic energy we have also
 
   m1u1² + m2u2´² = m1u1² + m2u2².  (39)
@@ -4161,7 +4161,7 @@ check on the accuracy of an equation.
 
   where x, x´ are any two corresponding distances; e.g. they may be the
   initial distances, both particles being supposed to start from rest.
-  The consideration of dimensions was introduced by J. B. Fourier (1822)
+  The consideration of dimensions was introduced by J. B. [[Fourier]] (1822)
   in connexion with the conduction of heat.
 
 [Illustration: FIG. 64.]
@@ -4384,7 +4384,7 @@ and the latter then determines R.
     +--------------+----------++--------------+----------+
 
   The value of [tau] can also be obtained as an infinite series, by
-  expanding the integrand in (18) by the binomial theorem, and
+  expanding the integrand in (18) by the [[Binomial|binomial]] theorem, and
   integrating term by term. Thus
 
                     / l     /     1²                 1²·3²                     \
@@ -4406,7 +4406,7 @@ and the latter then determines R.
   [Illustration: FIG. 67.]
 
   The variation of period with amplitude was at one time a hindrance to
-  the accurate performance of pendulum clocks, since the errors produced
+  the accurate performance of pendulum clocks, since the [[Error|errors]] produced
   are cumulative. It was therefore sought to replace the circular
   pendulum by some other contrivance free from this defect. The equation
   of motion of a particle in any smooth path is
@@ -4431,7 +4431,7 @@ and the latter then determines R.
   means of two metal cheeks, having the form of the evolute near the
   cusp, on which the string wraps itself alternately as the pendulum
   swings. The device has long been abandoned, the difficulty being met
-  in other ways, but the problem, originally investigated by C. Huygens,
+  in other ways, but the problem, originally investigated by C. [[Huygens]],
   is important in the history of mathematics.
 
 The component accelerations of a point describing a tortuous curve, in
@@ -4654,15 +4654,15 @@ we have P = [mu]/r², and
   --  = C + -----.  (6)
   p²        [tau]
 
-Now in a conic whose focus is at O we have
+Now in a conic whose [[Focus|focus]] is at O we have
 
    l     2    1
   --- = -- ± ---,  (7)
    p²    r    a
 
-where l is half the latus-rectum, a is half the major axis, and the
+where l is half the latus-rectum, a is half the [[Major|major]] axis, and the
 upper or lower sign is to be taken according as the conic is an ellipse
-or hyperbola. In the intermediate case of the parabola we have a = [oo]
+or [[Hyperbola|hyperbola]]. In the intermediate case of the parabola we have a = [oo]
 and the last term disappears. The equations (6) and (7) are identified
 by putting
 
@@ -4832,11 +4832,11 @@ differential equation of central orbits, viz.
   case of A = 0, when it is a circle. It will be seen that unless the
   conditions be exactly adjusted for a circular orbit the particle will
   either recede to infinity or approach the pole asymptotically. This
-  problem was investigated by R. Cotes (1682-1716), and the various
+  problem was investigated by R. [[Cotes]] (1682-1716), and the various
   curves obtained arc known as _Coles's spirals_.
 
 A point on a central orbit where the radial velocity (dr/dt) vanishes is
-called an _apse_, and the corresponding radius is called an _apse-line_.
+called an _[[Apse|apse]]_, and the corresponding radius is called an _apse-line_.
 If the force is always the same at the same distance any apse-line will
 divide the orbit symmetrically, as is seen by imagining the velocity at
 the apse to be reversed. It follows that the angle between successive
@@ -5238,7 +5238,7 @@ cases sufficient for the complete determination of the motion, the
 dynamical equations (1 or 2) being equal in number to the degrees of
 freedom (six) of a rigid solid, whereas in cases where the freedom is
 greater we have to invoke the aid of other supplementary physical
-hypotheses (cf. ELASTICITY; HYDROMECHANICS).
+hypotheses (cf. ELASTICITY; [[Hydromechanics|HYDROMECHANICS]]).
 
 The increase of the kinetic energy of a rigid body in any interval of
 time is equal to the work done by the extraneous forces acting on the
@@ -5275,7 +5275,7 @@ translation. If N = 0, [omega] is constant.
 
   As a first example, suppose we have a flywheel free to rotate about a
   horizontal axis, and that a weight m hangs by a vertical string from
-  the circumferences of an axle of radius b (fig. 72). Neglecting
+  the circumferences of an [[Axle|axle]] of radius b (fig. 72). Neglecting
   frictional resistance we have, if R be the tension of the string,
 
     I[.omega] = Rb, m[.u] = mg - R,
@@ -5508,7 +5508,7 @@ inertia of the system, referred to the co-ordinate q.
   (= x) as our variable, the kinetic energy is 1/2(M + I/y²)[.x]². We
   may also say, therefore, that the effect of the flywheel is to
   increase the apparent mass of the piston by the amount I/y²; this
-  becomes infinite at the "dead-points" where the crank is in line with
+  becomes infinite at the "dead-points" where the [[Crank|crank]] is in line with
   the connecting-rod.
 
 If the system be "conservative," we have
@@ -5610,7 +5610,7 @@ rolls on the latter (§ 7).
 
   The special case where both cones are right circular and [omega] is
   constant is important in astronomy and also in mechanism (theory of
-  bevel wheels). The "precession of the equinoxes" is due to the fact
+  [[Bevel|bevel]] wheels). The "precession of the equinoxes" is due to the fact
   that the earth performs a motion of this kind about its centre, and
   the whole class of such motions has therefore been termed
   _precessional_. In fig. 78, which shows the various cases, OZ is the
@@ -6161,7 +6161,7 @@ part.
   horizontal plane. The centre O of the disk is supposed to describe a
   horizontal circle of radius c with the constant angular velocity
   [.psi], whilst its plane preserves a constant inclination [theta] to
-  the horizontal. The components of the reaction of the horizontal lane
+  the horizontal. The components of the reaction of the horizontal [[Lane|lane]]
   will be Mc[.psi]² at right angles to the tangent line at the point of
   contact and Mg vertically upwards, and the moment of these about the
   horizontal diameter of the disk, which corresponds to OB´ in fig. 83,
@@ -6238,7 +6238,7 @@ by [lambda], [mu], [nu]. Now consider a system of fixed axes Ox´, Oy´,
 Oz´ chosen so as to coincide at the instant t with the moving system Ox,
 Oy, Oz. At the instant t + [delta]t, Ox, Oy, Oz will no longer coincide
 with Ox´, Oy´, Oz´; in particular they will make with Ox´ angles whose
-cosines are, to the first order, 1, -r[delta]t, q[delta]t, respectively.
+[[Cosin|cosines]] are, to the first order, 1, -r[delta]t, q[delta]t, respectively.
 Hence the altered angular momentum about Ox´ will be [lambda] +
 [delta][lambda] + ([mu] + [delta][mu]) (-r[delta]t) + ([nu] +
 [delta][nu]) q[delta]t. If L, M, N be the moments of the extraneous
@@ -6319,7 +6319,7 @@ to 2T, and the latter to [Gamma]², where T is the kinetic energy and
   involves in general the use of elliptic functions. The problem has
   been the subject of numerous memoirs; we will here notice only the
   form of solution given by Rueb (1834), and at a later period by G.
-  Kirchhoff (1875), If we write
+  [[Kirchhoff]] (1875), If we write
            _
           / [phi]   d[phi]
     u  =  |      ------------, [Delta][phi] = [root](1 - k² sin² [phi]),
@@ -6773,7 +6773,7 @@ than in the equilibrium configuration considered, this quantity must
 still further decrease (since T cannot be negative), and it is evident
 that either the system will finally come to rest in some other
 equilibrium configuration, or V will in the long run diminish
-indefinitely. This argument is due to Lord Kelvin and P. G. Tait (1879).
+indefinitely. This argument is due to Lord [[Kelvin]] and P. G. Tait (1879).
 
 In discussing the small oscillations of a system about a configuration
 of stable equilibrium it is convenient so to choose the generalized
@@ -7064,14 +7064,14 @@ and therefore
   [Delta]([sigma]²)·q_r = a_(1r)Q1 + a_(2r)Q2 + ... + a_(nr)Q_n,  (29)
 
 where a_(1r), a_(2r), ... a_(nr) are the minors of the rth row of the
-determinant (7). Every particle of the system executes in general a
+[[Determinant|determinant]] (7). Every particle of the system executes in general a
 simple vibration of the imposed period 2[pi]/[sigma], and all the
 particles pass simultaneously through their equilibrium positions. The
 amplitude becomes very great when [sigma]² approximates to a root of
 (6), i.e. when the imposed period nearly coincides with one of the free
 periods. Since a_(rs) = a_(sr), the coefficient of Q_s in the expression
 for q_r is identical with that of Q_r in the expression for q_s. Various
-important "reciprocal theorems" formulated by H. Helmholtz and Lord
+important "reciprocal theorems" formulated by H. [[Helmholtz]] and Lord
 Rayleigh are founded on this relation. Free vibrations must of course be
 superposed on the forced vibrations given by (29) in order to obtain the
 complete solution of the dynamical equations.
@@ -7164,7 +7164,7 @@ frictional forces of the kind here considered.
   equations, according to the number of dependent variables. These
   variables represent the whole assemblage of generalized co-ordinates
   q_r; they are continuous functions of the independent variables x, y,
-  z whose range of variation corresponds to that of the index r, and of
+  z whose range of variation corresponds to that of the [[Index|index]] r, and of
   t. For example, in a one-dimensional system such as a string or a bar,
   we have one dependent variable, and two independent variables x and t.
   To determine the free oscillations we assume a time factor
@@ -7228,8 +7228,8 @@ frictional forces of the kind here considered.
 
   AUTHORITIES.--For indications as to the earlier history of the subject
   see W. W. R. Ball, _Short Account of the History of Mathematics_; M.
-  Cantor, _Geschichte der Mathematik_ (Leipzig, 1880 ... ); J. Cox,
-  _Mechanics_ (Cambridge, 1904); E. Mach, _Die Mechanik in ihrer
+  Cantor, _Geschichte der Mathematik_ (Leipzig, 1880 ... ); J. [[Cox]],
+  _Mechanics_ (Cambridge, 1904); E. [[Mach]], _Die Mechanik in ihrer
   Entwickelung_ (4th ed., Leipzig, 1901; Eng. trans.). Of the classical
   treatises which have had a notable influence on the development of the
   subject, and which may still be consulted with advantage, we may note
@@ -7237,9 +7237,9 @@ frictional forces of the kind here considered.
   Mathematica_ (1st ed., London, 1687); J. L. Lagrange, _Mécanique
   analytique_ (2nd ed., Paris, 1811-1815); P. S. Laplace, _Mécanique
   céleste_ (Paris, 1799-1825); A. F. Möbius, _Lehrbuch der Statik_
-  (Leipzig, 1837), and _Mechanik des Himmels_; L. Poinsot, _Éléments de
+  (Leipzig, 1837), and _Mechanik des [[Himmel|Himmels]]_; L. Poinsot, _Éléments de
   statique_ (Paris, 1804), and _Théorie nouvelle de la rotation des
-  corps_ (Paris, 1834).
+  [[Corps|corps]]_ (Paris, 1834).
 
   Of the more recent general treatises we may mention Sir W. Thomson
   (Lord Kelvin) and P. G. Tait, _Natural Philosophy_ (2nd ed.,
@@ -7248,7 +7248,7 @@ frictional forces of the kind here considered.
   Dynamics_ (6th ed., Cambridge 1905); G. Minchin, _Statics_ (4th ed.,
   Oxford, 1888); A. E. H. Love, _Theoretical Mechanics_ (2nd ed.,
   Cambridge, 1909); A. G. Webster, _Dynamics of Particles_, &c. (1904);
-  E. T. Whittaker, _Analytical Dynamics_ (Cambridge, 1904); L. Arnal,
+  E. T. Whittaker, _Analytical Dynamics_ (Cambridge, 1904); L. [[Arnal]],
   _Traitê de mécanique_ (1888-1898); P. Appell, _Mécanique rationelle_
   (Paris, vols. i. and ii., 2nd ed., 1902 and 1904; vol. iii., 1st ed.,
   1896); G. Kirchhoff, _Vorlesungen über Mechanik_ (Leipzig, 1896); H.
@@ -7279,7 +7279,7 @@ II.--APPLIED MECHANICS[1]
 classes, according as the assemblages of material objects to which they
 relate are intended to remain fixed or to move relatively to each
 other--the former class being comprehended under the term "Theory of
-Structures" and the latter under the term "Theory of Machines."
+Structures" and the latter under the term "Theory of [[Machine|Machines]]."
 
 
 PART I.--OUTLINE OF THE THEORY OF STRUCTURES
@@ -7345,7 +7345,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   stiffness sufficient to prevent its being disfigured to an extent
   inconsistent with the purposes of the structure, by the greatest
   forces which are to be applied to it. The condition that each piece of
-  the structure is to be maintained in equilibrium by having its gross
+  the structure is to be maintained in equilibrium by having its [[Gross|gross]]
   load, consisting of its own weight and of the external pressure
   applied to it, balanced by the _resistances_ or pressures exerted
   between it and the contiguous pieces, furnishes the means of
@@ -7364,7 +7364,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   resistances are alike capable of balancing the same system of loads
   applied to a given structure, the _smallest_ of those alternative
   systems, as was demonstrated by the Rev. Henry Moseley in his
-  _Mechanics of Engineering and Architecture_, is that which will
+  _Mechanics of [[Engineering]] and Architecture_, is that which will
   actually be exerted--because the resistances to displacement are the
   effect of a strained state of the pieces, which strained state is the
   effect of the load, and when the load is applied the strained state
@@ -7481,7 +7481,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   [Illustration: FIG. 88.]
 
   § 11.* The principles of the two preceding sections may be illustrated
-  by the consideration of a particular case of a buttress of blocks
+  by the consideration of a particular case of a [[Buttress|buttress]] of blocks
   forming a continuous series of pieces (fig. 88), where aa, bb, cc, dd
   represent plane joints. Let the centre of pressure C at the first
   joint aa be known, and also the pressure P acting at C in direction
@@ -7713,7 +7713,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   enabling the engineer easily to deduce the conditions of equilibrium
   and stability of structures of complex and unsymmetrical figures from
   those of structures of simple and symmetrical figures. By its aid, for
-  example, the whole of the properties of elliptical arches, whether
+  example, the whole of the properties of elliptical [[Arches|arches]], whether
   square or skew, whether level or sloping in their span, are at once
   deduced by projection from those of symmetrical circular arches, and
   the properties of ellipsoidal and elliptic-conoidal domes from those
@@ -7926,7 +7926,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   the press-plunger moves outwards with a velocity which is less than
   the inward velocity of the pump-plunger, in the same ratio that the
   area of the pump-plunger is less than the area of the press-plunger.
-  (See HYDRAULICS.)
+  (See [[Hydraulics|HYDRAULICS]].)
 
   In the pneumatic power-transmitter the motion of one piston is
   transmitted to another at a distance by means of a mass of air
@@ -8056,7 +8056,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
 
   PT denoting the perpendicular distance of P from T. The path of P is a
   curve of the kind called _epitrochoids_. If P is in the circumference
-  of bbb, that path becomes an _epicycloid_.
+  of bbb, that path becomes an _[[Epicycloid|epicycloid]]_.
 
   The velocity of any point in the axis of figure B is
 
@@ -8334,7 +8334,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
 
   which equation expresses the comparative motion of the two pieces.
 
-  § 38. _Classification of Elementary Combinations in Mechanism._--The
+  § 38. _[[Classification]] of Elementary Combinations in Mechanism._--The
   first systematic classification of elementary combinations in
   mechanism was that founded by Monge, and fully developed by Lanz and
   Bétancourt, which has been generally received, and has been adopted in
@@ -8541,7 +8541,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
 
   When the velocity ratio is variable, the line of contact will shift
   its position in the plane C1OC2, and the wheels will be cones, with
-  eccentric or irregular bases. In every case which occurs in practice,
+  [[Eccentric|eccentric]] or irregular bases. In every case which occurs in practice,
   however, the velocity ratio is constant; the line of contact is
   constant in position, and the rolling surfaces of the wheels are
   regular circular cones (when they are called _bevel wheels_); or one
@@ -8628,7 +8628,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   § 44. _Sliding Contact (direct): Teeth of Wheels, their Number and
   Pitch._--The ordinary method of connecting a pair of wheels, or a
   wheel and a rack, and the only method which ensures the exact
-  maintenance of a given numerical velocity ratio, is by means of a
+  [[Maintenance|maintenance]] of a given numerical velocity ratio, is by means of a
   series of alternate ridges and hollows parallel or nearly parallel to
   the successive lines of contact of the ideal smooth wheels whose
   velocity ratio would be the same with that of the toothed wheels. The
@@ -8655,7 +8655,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   the _flank_.
 
   Teeth, when not otherwise specified, are understood to be made in one
-  piece with the wheel, the material being generally cast-iron, brass or
+  piece with the wheel, the material being generally cast-iron, [[Brass|brass]] or
   bronze. Separate teeth, fixed into mortises in the rim of the wheel,
   are called _cogs_. A _pinion_ is a small toothed wheel; a _trundle_ is
   a pinion with cylindrical _staves_ for teeth.
@@ -9074,7 +9074,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   spaces between the teeth of the other wheel is about one-tenth of the
   pitch.
 
-  § 53. _Stepped and Helical Teeth._--R. J. Hooke invented the making of
+  § 53. _Stepped and Helical Teeth._--R. J. [[Hooke]] invented the making of
   the fronts of teeth in a series of steps with a view to increase the
   smoothness of action. A wheel thus formed resembles in shape a series
   of equal and similar toothed disks placed side by side, with the teeth
@@ -9135,7 +9135,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   bevel-wheel whose pitch surface is a cone touching the hyperboloidal
   surface at the given circle.
 
-  § 56. _Cams._--A _cam_ is a single tooth, either rotating continuously
+  § 56. _[[Cam|Cams]]._--A _cam_ is a single tooth, either rotating continuously
   or oscillating, and driving a sliding or turning piece either
   constantly or at intervals. All the principles which have been stated
   in § 45 as being applicable to teeth are applicable to cams; but in
@@ -9277,9 +9277,9 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   permanency of their exact continuity.
 
   § 59. _Wrapping Connectors--Belts, Cords and Chains._--Flat belts of
-  leather or of gutta percha, round cords of catgut, hemp or other
+  leather or of [[Gutta Percha|gutta percha]], round cords of [[Catgut|catgut]], hemp or other
   material, and metal chains are used as wrapping connectors to transmit
-  rotatory motion between pairs of pulleys and drums.
+  rotatory motion between pairs of pulleys and [[Drum|drums]].
 
   _Belts_ (the most frequently used of all wrapping connectors) require
   nearly cylindrical pulleys. A belt tends to move towards that part of
@@ -9731,7 +9731,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   [Illustration: FIG. 112.]
 
   § 73. _Differential Windlass._--The axis C (fig. 112) carries a larger
-  barrel AE and a smaller barrel DB, rotating as one piece with the
+  [[Barrel|barrel]] AE and a smaller barrel DB, rotating as one piece with the
   angular velocity [alpha]1 in the direction AE. The pulley or _sheave_
   FG has a weight W hung to its centre. A cord has one end made fast to
   and wrapped round the barrel AE; it passes from A under the sheave FG,
@@ -9852,7 +9852,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   inverse of the curve described by A. There are other arrangements of
   bars giving straight-line motions, and these arrangements together
   with the general properties of mechanisms of this kind are discussed
-  in _How to Draw a Straight Line_ by A. B. Kempe (London, 1877).
+  in _How to Draw a Straight Line_ by A. B. [[Kempe]] (London, 1877).
 
   [Illustration: FIG. 116.]
 
@@ -9866,7 +9866,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   be guided in any curve whatever, the point c will trace a similar
   curve to a scale enlarged in the ratio ab : ac. This property of the
   parallelogram is utilized in the construction of the pantograph, an
-  instrument used for obtaining a copy of a map or drawing on a
+  instrument used for obtaining a copy of a [[Map|map]] or drawing on a
   different scale. Professor J. J. Sylvester discovered that this
   property of the parallelogram is not confined to points lying in one
   line with the fixed point. Thus if b (fig. 117) be any point on the
@@ -9970,7 +9970,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   The Reuleaux system, therefore, consists essentially of the analysis
   of every mechanism into a kinematic chain, and since each link of the
   chain may be the fixed frame of a mechanism quite diverse mechanisms
-  are found to be merely inversions of the same kinematic chain. Franz
+  are found to be merely inversions of the same kinematic chain. [[Franz]]
   Reuleaux's _Kinematics of Machinery_, translated by Sir A. B. W.
   Kennedy (London, 1876), is the book in which the system is set forth
   in all its completeness. In _Mechanics of Machinery_, by Sir A. B. W.
@@ -9978,7 +9978,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   English textbook, and now it has found its way into most modern
   textbooks relating to the subject of mechanism.
 
-  § 81.* _Centrodes, Instantaneous Centres, Velocity Image, Velocity
+  § 81.* _Centrodes, Instantaneous Centres, Velocity [[Image]], Velocity
   Diagram._--Problems concerning the relative motion of the several
   parts of a kinematic chain may be considered in two ways, in addition
   to the way hitherto used in this article and based on the principle of
@@ -10272,7 +10272,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   in overcoming a varying resistance.
 
   The work done by a machine can be actually measured by means of a
-  dynamometer (q.v.).
+  [[Dynamometer|dynamometer]] (q.v.).
 
   § 89. _Principle of the Equality of Energy and Work._--From the first
   law of motion it follows that in a machine whose pieces move with
@@ -10540,13 +10540,13 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
     f = tan [phi]                      \  (58)
     R = fN = N tan [phi] = T sin [phi] /
 
-  Experiments on friction have been made by Coulomb, Samuel Vince, John
+  Experiments on friction have been made by [[Coulomb]], Samuel Vince, John
   Rennie, James Wood, D. Rankine and others. The most complete and
   elaborate experiments are those of Morin, published in his _Notions
   fondamentales de mécanique_, and republished in Britain in the works
   of Moseley and Gordon.
 
-  The experiments of Beauchamp Tower ("Report of Friction Experiments,"
+  The experiments of [[Beauchamp]] Tower ("Report of Friction Experiments,"
   _Proc. Inst. Mech. Eng._, 1883) showed that when oil is supplied to a
   journal by means of an oil bath the coefficient of friction varies
   nearly inversely as the load on the bearing, thus making the product
@@ -10860,7 +10860,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
 
   § 104. _Stiffness of Ropes._--Ropes offer a resistance to being bent,
   and, when bent, to being straightened again, which arises from the
-  mutual friction of their fibres. It increases with the sectional area
+  mutual friction of their [[Fibres|fibres]]. It increases with the sectional area
   of the rope, and is inversely proportional to the radius of the curve
   into which it is bent.
 
@@ -10868,14 +10868,14 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   found by multiplying the length of the rope in feet by its stiffness
   in pounds, that stiffness being the excess of the tension at the
   leading side of the rope above that at the following side, which is
-  necessary to bend it into a curve fitting the pulley, and then to
+  necessary to [[Bend|bend]] it into a curve fitting the pulley, and then to
   straighten it again.
 
   The following empirical formulae for the stiffness of hempen ropes
   have been deduced by Morin from the experiments of Coulomb:--
 
   Let F be the stiffness in pounds avoirdupois; d the diameter of the
-  rope in inches, n = 48d² for white ropes and 35d² for tarred ropes; r
+  rope in [[Inch|inches]], n = 48d² for white ropes and 35d² for tarred ropes; r
   the _effective_ radius of the pulley in inches; T the tension in
   pounds. Then
 
@@ -10891,12 +10891,12 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   communicating motion where sudden changes either of force or velocity
   take place, because, being limited in amount, it may be so adjusted as
   to limit the forces which strain the pieces of the mechanism within
-  the bounds of safety. Amongst contrivances for effecting this object
+  the [[Bounds|bounds]] of safety. Amongst contrivances for effecting this object
   are _friction-cones_. A rotating shaft carries upon a cylindrical
   portion of its figure a wheel or pulley turning loosely on it, and
   consequently capable of remaining at rest when the shaft is in motion.
   This pulley has fixed to one side, and concentric with it, a short
-  frustum of a hollow cone. At a small distance from the pulley the
+  [[Frustum|frustum]] of a hollow cone. At a small distance from the pulley the
   shaft carries a short frustum of a solid cone accurately turned to fit
   the hollow cone. This frustum is made always to turn along with the
   shaft by being fitted on a square portion of it, or by means of a rib
@@ -10908,7 +10908,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   by the sides of the cones with the axis should not be less than the
   angle of repose. In the _friction-clutch_, a pulley loose on a shaft
   has a hoop or gland made to embrace it more or less tightly by means
-  of a screw; this hoop has short projecting arms or ears. A fork or
+  of a screw; this hoop has short projecting arms or [[Ear|ears]]. A fork or
   _clutch_ rotates along with the shaft, and is capable of being moved
   longitudinally by a handle. When the clutch is moved towards the hoop,
   its arms catch those of the hoop, and cause the hoop to rotate and to
@@ -10922,7 +10922,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   proportion of the work lost to the heat produced, and the experimental
   proof that that proportion is the same under all circumstances and
   with all materials, solid, liquid and gaseous, are comparatively
-  recent achievements of J. P. Joule. The quantity of work which
+  recent achievements of J. P. [[Joule]]. The quantity of work which
   produces a British unit of heat (or so much heat as elevates the
   temperature of one pound of pure water, at or near ordinary
   atmospheric temperatures, by 1° F.) is 772 foot-pounds. This constant,
@@ -11044,7 +11044,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   driving-wheels of locomotive engines.
 
   [Illustration: (From _Balancing of Engines_, by permission of Edward
-  Arnold.)
+  [[Arnold]].)
 
   FIG. 130.]
 
@@ -11500,7 +11500,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
     R²WA²/2g = Se/2   /
 
   The latter of these equations may be thus expressed in words: _The
-  actual energy due to the rotation of the fly, with its mean angular
+  actual energy due to the rotation of the [[Fly|fly]], with its mean angular
   velocity, is equal to one-half of the periodical excess of energy
   multiplied by the steadiness._
 
@@ -11742,7 +11742,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   through the three points B, K and O; produce the line joining O and G
   to cut the circle in Y; and take a point Z on the line OY so that YG ×
   GZ = R². Then Z is a point in the line of action of the force F. This
-  useful theorem is due to G. T. Bennett, of Emmanuel College,
+  useful theorem is due to G. T. [[Bennett]], of [[Emmanuel]] College,
   Cambridge. A proof of it and three corollaries are given in appendix 4
   of the second edition of Dalby's _Balancing of Engines_ (London,
   1906). It is to be noticed that only the directions of the
@@ -11770,7 +11770,7 @@ PART I.--OUTLINE OF THE THEORY OF STRUCTURES
   usually taken at the centre of the crosshead pin, can be found by the
   principles of § 82, but several special geometrical constructions have
   been devised for this purpose, notably the construction of Klein,[4]
-  discovered also independently by Kirsch.[5] But probably the most
+  discovered also independently by [[Kirsch]].[5] But probably the most
   convenient is the construction due to G. T. Bennett[6] which is as
   follows: Let OK be the crank and KB the connecting rod. On the
   connecting rod take a point L such that KL × KB = KO². Then, the crank
@@ -11829,7 +11829,7 @@ FOOTNOTES:
     _Encyclopaedia Britannica_. Considerable additions, however, have
     been introduced in order to indicate subsequent developments of the
     subject; the new sections are numbered continuously with the old, but
-    are distinguished by an asterisk. Also, two short chapters which
+    are distinguished by an [[Asterisk|asterisk]]. Also, two short chapters which
     concluded the original article have been omitted--ch. iii., "On
     Purposes and Effects of Machines," which was really a classification
     of machines, because the classification of Franz Reuleaux is now
@@ -11871,7 +11871,7 @@ FOOTNOTES:
 
   [4] J. F. Klein, "New Constructions of the Force of Inertia of
     Connecting Rods and Couplers and Constructions of the Pressures on
-    their Pins," _Journ. Franklin Inst._, vol. 132 (Sept. and Oct.,
+    their Pins," _Journ. [[Franklin]] Inst._, vol. 132 (Sept. and Oct.,
     1891).
 
   [5] Prof. Kirsch, "Über die graphische Bestimmung der

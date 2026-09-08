@@ -13,7 +13,7 @@ fresh-water form is the common _Hydra_ of ponds and ditches, which gives
 origin to the name of the class. The Hydrozoa comprise the hydroids, so
 abundant on all shores, most of which resemble vegetable organisms to
 the unassisted eye; the hydrocorallines, which, as their name implies,
-have a massive stony skeleton and resemble corals; the jelly-fishes so
+have a massive stony skeleton and resemble [[Coral|corals]]; the jelly-fishes so
 called; and the Siphonophora, of which the species best known by repute
 is the so-called "Portuguese man-of-war" (_Physalia_), dreaded by
 sailors on account of its terrible stinging powers.
@@ -43,7 +43,7 @@ or _nematocysts_ (_Cnidae_), each produced in a cell forming an integral
 part of the animal's tissues. The Hydrozoa are thus shown to belong to
 the group of Coelenterata Cnidaria, and it remains to consider more
 fully their distinctive features, and in particular those which mark
-them off from the other main division of the Cnidaria, the Anthozoa
+them off from the other main division of the Cnidaria, the [[Anthozoa]]
 (q.v.), comprising the corals and sea-anemones.
 
 The great diversity, to which reference has already been made, in the
@@ -72,7 +72,7 @@ see HYDROMEDUSAE, we can best deal with the peculiarities of the polyp
 and medusa from a developmental point of view.
 
   In the development of the Hydrozoa, and indeed of the Cnidaria
-  generally, the egg usually gives rise to an oval larva which swims
+  generally, the [[Egg|egg]] usually gives rise to an oval larva which swims
   about by means of a coating of cilia on the surface of the body. This
   very characteristic larva is termed a _planula_, but though very
   uniform externally, the planulae of different species, or of the same
@@ -139,7 +139,7 @@ and medusa from a developmental point of view.
   mature individual, but always undergoes further modifications, whereby
   it develops into either a polyp or a medusa.
 
-  [Illustration: From Gegenbaur's _Elements of Comparative Anatomy_.
+  [Illustration: From Gegenbaur's _Elements of [[Comparative Anatomy]]_.
 
   FIG. 2.--Diagram of a Diblastula.
 
@@ -209,7 +209,7 @@ and medusa from a developmental point of view.
   scarcely at all in the direction of the principal axis, but greatly
   along a plane at right angles to it. Thus the body becomes
   umbrella-shaped, the concave side representing the peristome, and the
-  convex side the column, of the polyp. Hence the tentacles are found at
+  [[Convex|convex]] side the column, of the polyp. Hence the tentacles are found at
   the edge of the umbrella, and the hypostome forms usually a projecting
   tube, with the mouth at the extremity, forming the _manubrium_ or
   handle of the umbrella. The medusa has a pronounced radial symmetry,
@@ -272,16 +272,16 @@ and medusa from a developmental point of view.
   skeleton is not found.
 
   The class is divisible into two main divisions or sub-classes,
-  Hydromedusae and Scyphomedusae, of which definitions and detailed
+  Hydromedusae and Scyphomedusae, of which [[Definition|definitions]] and detailed
   systematic accounts will be found under these headings.
 
   GENERAL WORKS ON HYDROZOA.--C. Chun, "Coelenterata (Hohlthiere),"
   _Bronn's Klassen und Ordnungen des Thier-Reichs_ ii. 2 (1889 et seq.);
   Y. Delage, and E. Hérouard, _Traité de zoologie concrète_, ii. part 2,
-  _Les Coelentérés_ (1901); G. H. Fowler, "The Hydromedusae and
+  _Les Coelentérés_ (1901); G. H. [[Fowler]], "The Hydromedusae and
   Scyphomedusae" in E. R. Lankester's _Treatise on Zoology_, ii.
   chapters iv. and v. (1900); S. J. Hickson, "Coelenterata and
-  Ctenophora," _Cambridge Natural History_, i. chapters x.-xv. (1906).
+  [[Ctenophora]]," _Cambridge Natural History_, i. chapters x.-xv. (1906).
        (E. A. M.)
 
 

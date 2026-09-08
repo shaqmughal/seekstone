@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Brag"
 
 # Brag
 
-BRAG, a very old game of cards, probably evolved from the ancient
+BRAG, a very old [[Game|game]] of cards, probably evolved from the ancient
 Spanish _primero_, played by five or six, or more players. It is the
 ancestor of poker. A full pack is used, the cards ranking as at whist,
 with certain exceptions. There are no trumps. Each player receives three

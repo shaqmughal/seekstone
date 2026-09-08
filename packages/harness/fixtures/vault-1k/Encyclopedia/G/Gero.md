@@ -6,7 +6,7 @@ German king Otto, afterwards the emperor Otto the Great, with the
 defence of the eastern frontier of Saxony against the Wends and other
 Slavonic tribes; a duty which he discharged with such ability and
 success that in a few years he extended the Saxon frontier almost to the
-Oder, and gained the chief credit for the suppression of a rising of the
+Oder, and gained the chief [[Credit|credit]] for the suppression of a rising of the
 conquered peoples in a great victory on the 16th of October 955. In 963
 he defeated the Lusatians, compelled the king of the Poles to recognize
 the supremacy of the German king, and extended the area of his mark so

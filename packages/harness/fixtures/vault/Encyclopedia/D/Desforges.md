@@ -6,8 +6,8 @@ topic: philosophers
 
 # Desforges
 
-DESFORGES, PIERRE JEAN BAPTISTE CHOUDARD (1746-1806), French dramatist
-and man of letters, natural son of Dr Antoine Petit, was born in Paris
+DESFORGES, PIERRE JEAN [[Baptiste|BAPTISTE]] CHOUDARD (1746-1806), French dramatist
+and man of letters, natural son of Dr [[Antoine]] Petit, was born in Paris
 on the 15th of September 1746. He was educated at the Collège Mazarin
 and the Collège de Beauvais, and at his father's desire began the study
 of medicine. Dr Petit's death left him dependent on his own resources,

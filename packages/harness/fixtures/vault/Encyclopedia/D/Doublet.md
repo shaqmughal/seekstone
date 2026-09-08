@@ -10,12 +10,12 @@ defence or warmth. "Doublet" is also used of a pair or couple--a thing
 that is the facsimile of another; as in philology, one of two words
 differing in form, but represented by an identical root, as "alarm" or
 "alarum"; in optics, of a pair of lenses, combined, for example, to
-correct aberration. In the work of the lapidary a doublet is a
+correct aberration. In the work of the [[Lapidary|lapidary]] a doublet is a
 counterfeit gem, made by cementing two pieces of plain glass or crystal
 on each side of a layer of glass (coloured to represent the stone
 counterfeited); a thin portion of a genuine stone may be cemented upon
 an inferior one, as a layer of diamond upon a topaz, or ruby on a
-garnet.
+[[Garnet|garnet]].
 
 ## See also
 

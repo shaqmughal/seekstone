@@ -11,7 +11,7 @@ LUTHER LEAGUE, a religious association for young people in the United
 States of America. It began with a local society founded by delegates of
 six Lutheran church societies in New York City in 1888. The first
 national convention was held at Pittsburg, Pennsylvania, on the 30th and
-31st of October 1895. The basis of the league is the Augsburg
+31st of October 1895. The basis of the league is the [[Augsburg]]
 Confession. Its membership is open to "any society of whatever name
 connected with a Lutheran congregation or a Lutheran institution of
 learning." According to the constitution its objects are "to encourage

@@ -51,7 +51,7 @@ of Baraderes. The coast line is estimated at 1250 m.
 
   Haiti is essentially a mountainous island. Steep escarpments, leading
   to the rugged uplands of the interior, reach almost everywhere down to
-  the shores, leaving only here and there a few strips of beach. There
+  the shores, leaving only here and there a few strips of [[Beach|beach]]. There
   are three fairly distinct mountain ranges, the northern, central and
   southern, with parallel axes from E. to W.; while extensive and
   fertile plains lie between them. The northern range usually called the
@@ -100,7 +100,7 @@ of Baraderes. The coast line is estimated at 1250 m.
   it Etang Sale. After heavy rains it occasionally forms a continuous
   sheet of water with another lake called Azuey, or Etang Saumatre,
   which is 16 m. long by 4 m. broad; on these occasions the united lake
-  has a total length of 60 m. and is larger than the Lake of Geneva.
+  has a total length of 60 m. and is larger than the Lake of [[Geneva]].
   Farther S. is the Icoten de Limon, 5 m. long by 2 m. broad, a
   fresh-water lake with no visible outlet. Smaller lakes are Rincon and
   Miragoane. There are no active volcanoes, but earthquakes are not
@@ -113,8 +113,8 @@ of Baraderes. The coast line is estimated at 1250 m.
   fossils have yet been found belong to the Cretaceous System, and the
   geological sequence is very similar to that of Jamaica. Excluding the
   schists of doubtful age, the series begins with sandstones and
-  conglomerates, containing pebbles of syenite, granite, diorite, &c.;
-  and these are overlaid by marls, clays and limestones containing
+  conglomerates, containing pebbles of syenite, granite, [[Diorite|diorite]], &c.;
+  and these are overlaid by [[Marl|marls]], clays and [[Limestone|limestones]] containing
   _Hippurites_. Then follows a series of sandstones, clays and
   limestones with occasional seams of lignite, evidently of
   shallow-water origin. These are referred by R. T. Hill to the Eocene,
@@ -132,22 +132,22 @@ of Baraderes. The coast line is estimated at 1250 m.
   _Fauna and Flora._--The fauna is not extensive. The agouti is the
   largest wild mammal. Birds are few, excepting water-fowl and pigeons.
   Snakes abound, though few are venomous. Lizards are numerous, and
-  insects swarm in the low parts, with tarantulas, scorpions and
+  [[Insect|insects]] swarm in the low parts, with tarantulas, scorpions and
   centipedes. Caymans are found in the lakes and rivers, and the waters
   teem with fish and other sea food. Wild cattle, hogs and dogs,
   descendants of those brought from Europe, roam at large on the plains
   and in the forests. The wild hogs furnish much sport to the natives,
-  who hunt them with dogs trained for the purpose.
+  who [[Hunt|hunt]] them with dogs trained for the purpose.
 
   In richness and variety of vegetable products Haiti is not excelled by
   any other country in the world. All tropical plants and trees grow in
   perfection, and nearly all the vegetables and fruits of temperate
   climates may be successfully cultivated in the highlands. Among
-  indigenous products are cotton, rice, maize, tobacco, cocoa, ginger,
+  indigenous products are cotton, rice, maize, tobacco, [[Cocoa|cocoa]], ginger,
   native indigo (_indigo marron_ or _sauvage_), arrowroot, manioc or
   cassava, pimento, banana, plantain, pine-apple, artichoke, yam and
   sweet potato. Among the important plants and fruits are sugarcane,
-  coffee, indigo (called _indigo franc_, to distinguish it from the
+  coffee, indigo (called _indigo [[Franc|franc]]_, to distinguish it from the
   native), melons, cabbage, lucerne, guinea grass and the bread-fruit,
   mango, caimite, orange, almond, apple, grape, mulberry and fig. Most
   of the imported fruits have degenerated from want of care, but the
@@ -157,9 +157,9 @@ of Baraderes. The coast line is estimated at 1250 m.
   in cabinet and dye woods; among the former are mahogany, manchineel,
   satinwood, rosewood, cinnamon wood (_Canella alba_), yellow acoma
   (_Sideroxylon mastichodendron_) and gri-gri; and among the latter are
-  Brazil wood, logwood, fustic and sassafras. On the mountains are
+  Brazil wood, logwood, [[Fustic|fustic]] and sassafras. On the mountains are
   extensive forests of pine and a species of oak; and in various parts
-  occur the locust, ironwood, cypress or Bermuda cedar, palmetto and
+  occur the locust, ironwood, [[Cypress|cypress]] or Bermuda cedar, palmetto and
   many kinds of palms.
 
   _Climate._--Owing to the great diversity of its relief Haiti presents
@@ -200,13 +200,13 @@ and inefficient. Since 1869 the Roman Catholic has been the state
 religion, but all classes of society seem to be permeated with a thinly
 disguised adherence to the horrid rites of _Voodoo_ (q.v.), although
 this has been strenuously denied. The country is divided into 5
-_departements_, 23 _arrondissements_ and 67 _communes_. Each
+_departements_, 23 _arrondissements_ and 67 _[[Commune|communes]]_. Each
 _departement_ and _arrondissement_ is governed by a general in the army.
 The army numbers about 7000 men, and the navy consists of a few small
 vessels. Elementary education is free, and there are some 400 primary
 schools; secondary education is mainly in the hands of the church. The
 Sisters of Charity and the Christian Brothers have schools at
-Port-au-Prince, where there is also a lyceum, a medical and a law
+Port-au-Prince, where there is also a [[Lyceum|lyceum]], a medical and a law
 school. The children of the wealthier classes are usually sent to France
 for their education. The unit of money is the _gourde_, the nominal
 value of which is the same as the American dollar, but it is subject to
@@ -215,8 +215,8 @@ paid both on imports and exports. There being a lack of capital and
 enterprise, the excessive customs dues produce a very depressed
 condition of trade. Imports are consequently confined to bare
 necessaries, the cheapest sorts of dry and fancy goods, matches, flour,
-salt beef and pork, codfish, lard, butter and similar provisions. The
-exports are coffee, cocoa, logwood, cotton, gum, honey, tobacco and
+salt beef and pork, codfish, lard, [[Butter|butter]] and similar provisions. The
+exports are coffee, cocoa, logwood, cotton, [[Gum|gum]], honey, tobacco and
 sugar. The island is one of the most fertile in the world, and if it had
 an enlightened and stable government, an energetic people, and a little
 capital, its agricultural possibilities would seem to be endless.
@@ -241,13 +241,13 @@ origin, known as Creole. French is the official language, and by a few
 of the educated natives it is written and spoken in its purity. On the
 whole it must be owned that, after a century of independence and
 self-government, the Haitian people have made no progress, if they have
-not actually shown signs of retrogression. The chief towns ate
+not actually shown signs of retrogression. The chief towns [[Ate|ate]]
 Port-au-Prince (pop. 75,000), Cap Haitien (29,000), Les Cayes (25,000),
 Gonaive (18,000), and Port de Paix (10,000). Jeremie was the birthplace
 of the elder Dumas. The ruins of the wonderful palace of Sans-Souci and
 of the fortress of La Ferriere, built by King Henri Christophe
 (1807-1825), can be seen near Millot, a town 9 m. inland from Cap
-Haitien. Plaisance (25,000), Gros Morne (22,000) and La Croix des
+Haitien. Plaisance (25,000), [[Gros]] Morne (22,000) and La Croix des
 Bouquets (20,000) are the largest towns in the interior. The entire
 population of the republic is about 1,500,000.
 
@@ -267,11 +267,11 @@ Porto Plata and Bonao. Mines had been opened up, and advances made in
 agriculture. Sugar was introduced in 1506, and in a few years became the
 staple product. About 1630, a mixed company of French and English,
 driven by the Spaniards from St Kitts, settled on the island of Tortuga,
-where they became formidable under the name of Buccaneers. They soon
+where they became formidable under the name of [[Buccaneers]]. They soon
 obtained a footing on the mainland of Haiti, and by the treaty of
 Ryswick, 1697, the part they occupied was ceded to France. This new
 colony, named Saint Dominique, subsequently attained a high degree of
-prosperity, and was in a flourishing state when the French Revolution
+prosperity, and was in a flourishing state when the [[French Revolution]]
 broke out in 1789. The population was then composed of whites, free
 coloured people (mostly mulattoes) and negro slaves. The mulattoes
 demanded civil rights, up to that time enjoyed only by the whites; and
@@ -279,7 +279,7 @@ in 1791 the National Convention conferred on them all the privileges of
 French citizens. The whites at once adopted the most violent measures,
 and petitioned the home government to reverse the decree, which was
 accordingly revoked. In August 1791, the plantation slaves broke out
-into insurrection, and the mulattoes threw in their lot with them. A
+into insurrection, and the mulattoes threw in their [[Lot|lot]] with them. A
 period of turmoil followed, lasting for several years, during which both
 parties were responsible for acts of the most revolting cruelty.
 Commissioners were sent out from France with full powers to settle the
@@ -308,7 +308,7 @@ only too glad to evacuate the island in November 1803.
 
 The opening of the following year saw the declaration of independence,
 and the restoration of the aboriginal name of Haiti. Dessalines, made
-governor for life, inaugurated his rule with a bloodthirsty massacre of
+governor for life, inaugurated his rule with a bloodthirsty [[Massacre|massacre]] of
 all the whites. In October 1804, he proclaimed himself emperor and was
 crowned with great pomp; but in 1806 his subjects, growing tired of his
 tyranny, assassinated him. His position was now contended for by several
@@ -320,7 +320,7 @@ Domingo. Civil war now raged between the adherents of Christophe and
 Petion, but in 1810 hostilities were suspended. Christophe declared
 himself king of Haiti under the title of Henry I.; but his cruelty
 caused an insurrection, and in 1820 he committed suicide. Petion was
-succeeded in 1818 by General Jean Pierre Boyer (1776-1850), who, after
+succeeded in 1818 by General Jean Pierre [[Boyer]] (1776-1850), who, after
 Christophe's death, made himself master of all the French part of the
 island. In 1821 the eastern end of the island proclaimed its
 independence of Spain, and Boyer, taking advantage of dissensions there,
@@ -335,7 +335,7 @@ president succeeded president, in rapid succession. Order, however, was
 established in 1849, when Soulouque, who had previously obtained the
 presidency, proclaimed himself emperor, under the title of Faustin I.
 After a reign of nine years he was deposed and exiled, the republic
-being restored under the mulatto president Fabre Geffrard. His firm and
+being restored under the mulatto president [[Fabre]] Geffrard. His firm and
 enlightened rule rendered him so unpopular that in 1867 he was forced to
 flee to Jamaica. He was succeeded by Sylvestre Salnave, who, after a
 presidency of two years, was shot. Nissage-Saget (1870), Dominique
@@ -391,8 +391,8 @@ was on foot to depose Simon, and further trouble was threatened.
   49-259, with map; L. G. Tippenhauer, _Die Insel Haiti_ (Leipzig,
   1893); see also several articles by L. G. Tippenhauer in _Peterm.
   Mitt._ 1899 and 1901. A comparison with the Jamaican succession will
-  be found in R. T. Hill, "The Geology and Physical Geography of
-  Jamaica," _Bull. Mus. Comp. Zool._, Harvard, vol. xxxiv. (1899).
+  be found in R. T. Hill, "The Geology and Physical [[Geography]] of
+  Jamaica," _[[Bull]]. Mus. Comp. Zool._, Harvard, vol. xxxiv. (1899).
 
 ## See also
 

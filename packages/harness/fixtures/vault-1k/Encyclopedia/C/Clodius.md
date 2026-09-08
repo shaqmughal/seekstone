@@ -2,7 +2,7 @@
 
 CLODIUS,[1] PUBLIUS (c. 93-52 B.C.), surnamed PULCHER, Roman politician.
 He took part in the third Mithradatic war under his brother-in-law
-Lucius Licinius Lucullus, but considering himself treated with
+[[Lucius]] Licinius Lucullus, but considering himself treated with
 insufficient respect, he stirred up a revolt; another brother-in-law, Q.
 Marcius Rex, governor of Cilicia, gave him the command of his fleet, but
 he was captured by pirates. On his release he repaired to Syria, where
@@ -12,7 +12,7 @@ him to procure acquittal. There seems no reason to believe that Clodius
 was implicated in the Catilinarian conspiracy; indeed, according to
 Plutarch (_Cicero_, 29), he rendered Cicero every assistance and acted
 as one of his body-guard. The affair of the mysteries of the Bona Dea,
-however, caused a breach between Clodius and Cicero in December 62.
+however, caused a [[Breach|breach]] between Clodius and Cicero in December 62.
 Clodius, dressed as a woman (men were not admitted to the mysteries),
 entered the house of Caesar, where the mysteries were being celebrated,
 in order to carry on an intrigue with Caesar's wife. He was detected and
@@ -63,7 +63,7 @@ woman of abandoned character.
 
   AUTHORITIES.--Cicero, _Letters_ (ed. Tyrrell and Purser), _Pro Caelio,
   pro Sestio, pro Milone, pro Domo sua, de Haruspicum Responsis, in
-  Pisonem_; Plutarch, _Lucullus, Pompey, Cicero, Caesar_; Dio Cassius
+  Pisonem_; Plutarch, _Lucullus, Pompey, Cicero, Caesar_; Dio [[Cassius]]
   xxxvi. 16, 19, xxxvii. 45, 46, 51, xxxviii. 12-14, xxxix. 6, 11, xl.
   48. See also I. Gentile, _Clodio e Cicerone_ (Milan, 1876); E. S.
   Beesley, "Cicero and Clodius," in _Fortnightly Review_, v.; G.

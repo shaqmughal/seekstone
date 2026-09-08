@@ -22,7 +22,7 @@ later date, and probably at the time of the poet's birth, his father
 lived in Thames Street, and had to wife a certain Agnes, niece of Hamo
 de Compton, whom we may regard as Geoffrey Chaucer's mother. In 1357
 Geoffrey is found, apparently as a lad, in the service of Elizabeth,
-countess of Ulster, wife of Lionel, duke of Clarence, entries in two
+countess of Ulster, wife of Lionel, duke of [[Clarence]], entries in two
 leaves of her household accounts, accidentally preserved, showing that
 she paid in April, May and December various small sums for his clothing
 and expenses. In 1359, as we learn from his deposition in the Scrope
@@ -43,12 +43,12 @@ Payne Roet, the other being Katherine, who after the death of her first
 husband, Sir Hugh de Swynford, in 1372, became governess to John of
 Gaunt's children, and subsequently his mistress and (in 1396) his wife.
 It is possible that Philippa was sister to Sir Hugh and sister-in-law to
-Katherine. In either case the marriage helps to account for the favour
+Katherine. In either case the marriage [[Helps|helps]] to account for the favour
 subsequently shown to Chaucer by John of Gaunt.
 
 In the grant of his pension Chaucer is called "dilectus vallectus
 noster," our beloved yeoman; before the end of 1368 he had risen to be
-one of the king's esquires. In September of the following year John of
+one of the king's [[Esquire|esquires]]. In September of the following year John of
 Gaunt's wife, the duchess Blanche, died at the age of twenty-nine, and
 Chaucer wrote in her honour _The Book of the Duchesse_, a poem of 1334
 lines in octosyllabic couplets, the first of his undoubtedly genuine
@@ -76,7 +76,7 @@ life from the city of London of the dwelling-house above the gate of
 Aldgate, and here he lived for the next twelve years. His own and his
 wife's income now amounted to over £60, the equivalent of upwards of
 £1000 in modern money. In the next two years large windfalls came to him
-in the form of two wardships of Kentish heirs, one of whom paid him
+in the form of two wardships of Kentish [[Heir|heirs]], one of whom paid him
 £104, and a grant of £71: 4: 6; the value of some confiscated wool. In
 December 1376 he was sent abroad on the king's service in the retinue of
 Sir John Burley; in February 1377 he was sent to Paris and Montreuil in
@@ -88,7 +88,7 @@ On the accession of Richard II. Chaucer was confirmed in his offices and
 pensions. In January 1378 he seems to have been in France in connexion
 with a proposed marriage between Richard and the daughter of the French
 king; and on the 28th of May of the same year he was sent with Sir
-Edward de Berkeley to the lord of Milan and Sir John Hawkwood to treat
+Edward de [[Berkeley]] to the lord of Milan and Sir John Hawkwood to treat
 for help in the king's wars, returning on the 19th of September. This
 was his last diplomatic journey, and the close of a period of his life
 generally considered to have been so unprolific of poetry that little
@@ -104,16 +104,16 @@ missions in Edward III.'s reign, and was allowed an annual gratuity of
 10 marks in addition to his pay of £10 as comptroller of the customs of
 wool. In April 1382 a new comptrollership, that of the petty customs in
 the Port of London, was given him, and shortly after he was allowed to
-exercise it by deputy, a similar licence being given him in February
+exercise it by [[Deputy|deputy]], a similar licence being given him in February
 1385, at the instance of the earl of Oxford, as regards the
 comptrollership of wool. In October 1385 Chaucer was made a justice of
 the peace for Kent. In February 1386 we catch a glimpse of his wife
-Philippa being admitted to the fraternity of Lincoln cathedral in the
-company of Henry, earl of Derby (afterwards Henry IV.), Sir Thomas de
+Philippa being admitted to the fraternity of [[Lincoln]] cathedral in the
+company of Henry, earl of [[Derby]] (afterwards Henry IV.), Sir Thomas de
 Swynford and other distinguished persons. In August 1386 he was elected
-one of the two knights of the shire for Kent, and with this dignity,
+one of the two [[Knight|knights]] of the shire for Kent, and with this dignity,
 though it was one not much appreciated in those days, his good fortune
-reached its climax. In December of the same year he was superseded in
+reached its [[Climax|climax]]. In December of the same year he was superseded in
 both his comptrollerships, almost certainly as a result of the absence
 of his patron, John of Gaunt, in Spain, and the supremacy of the duke of
 Gloucester. In the following year the cessation of Philippa's pension
@@ -130,7 +130,7 @@ of the works at various royal palaces at a salary of two shillings a
 day, or over £31 a year, worth upwards of £500 present value. To this
 post was subsequently added the charge of some repairs at St George's
 Chapel, Windsor. He was also made a commissioner to maintain the banks
-of the Thames between Woolwich and Greenwich, and was given by the earl
+of the Thames between Woolwich and [[Greenwich]], and was given by the earl
 of March (grandson of Lionel, duke of Clarence, his old patron) a
 sub-forestership at North Petherton, Devon, obviously a sinecure. While
 on the king's business, in September 1390, Chaucer was twice robbed by
@@ -140,14 +140,14 @@ suffered another spell of misfortune, of which the first alleviation
 came in January 1393 when the king made him a present of £10. In
 February 1394 he was granted a new pension of £20. It is possible, also,
 that about this time, or a little later, he was in the service of the
-earl of Derby. In 1397 he received from King Richard a grant of a butt
+earl of Derby. In 1397 he received from King Richard a grant of a [[Butt|butt]]
 of wine yearly. For this he appears to have asked in terms that suggest
 poverty, and in May 1398 he obtained letters of protection against his
-creditors, a step perhaps rendered necessary by an action for debt taken
+creditors, a step perhaps rendered necessary by an action for [[Debt|debt]] taken
 against him earlier in the year. On the accession of Henry IV. a new
 pension of 40 marks was conferred on Chaucer (13th of October 1399) and
 Richard II.'s grants were formally confirmed. Henry himself, however,
-was probably straitened for ready money, and no instalment of the new
+was probably straitened for ready money, and no [[Instalment|instalment]] of the new
 pension was paid during the few months of his reign that the poet lived.
 Nevertheless, on the strength of his expectations, on the 24th of
 December 1399 he leased a tenement in the garden of St Mary's Chapel,
@@ -155,12 +155,12 @@ Westminster, and it was probably here that he died, on the 25th of the
 following October. He was buried in Westminster Abbey, and his tomb
 became the nucleus of what is now known as Poets' Corner.
 
-The portrait of Chaucer, which the affection of his disciple, Thomas
+The portrait of Chaucer, which the affection of his [[Disciple|disciple]], Thomas
 Hoccleve, caused to be painted in a copy of the latter's _Regement of
 Princes_ (now Harleian MS. 4866 in the British Museum), shows him an old
 man with white hair; he has a fresh complexion, grey eyes, a straight
-nose, a grey moustache and a small double-pointed beard. His dress and
-hood are black, and he carries in his hands a string of beads. We may
+nose, a grey moustache and a small double-pointed beard. His [[Dress|dress]] and
+hood are black, and he carries in his hands a string of [[Bead|beads]]. We may
 imagine that it was thus that during the last months of his life he used
 to walk about the precincts of the Abbey.
 
@@ -188,12 +188,12 @@ rough approximation to the truth in this formula, since his earliest
 poems are translated from the French or based on French models, and the
 two great works of his middle period are borrowed from the Italian,
 while his latest stories have no such obvious and direct originals and
-in their humour and freedom anticipate the typically English temper of
+in their [[Humour|humour]] and freedom anticipate the typically English temper of
 Henry Fielding. But Chaucer's indebtedness to French poetry was no
 passing phase. For various reasons--a not very remote French origin of
 his own family may be one of them--he was in no way interested in older
 English literature or in the work of his English contemporaries, save
-possibly that of "the moral Gower." On the other hand he knew the _Roman
+possibly that of "the moral [[Gower]]." On the other hand he knew the _Roman
 de la rose_ as modern English poets know Shakespeare, and the full
 extent of his debt to his French contemporaries, not merely in 1369, but
 in 1385 and in 1393 (the dates are approximate), is only gradually being
@@ -209,19 +209,19 @@ intimate are but few, they sufficed. His study of them was but an
 episode in his literary life, but it was an episode of unique
 importance. Before it began he had already been making his own artistic
 experiments, and it is noteworthy that while he learnt so much from
-Boccaccio he improved on his originals as he translated them. Doubtless
+[[Boccaccio]] he improved on his originals as he translated them. Doubtless
 his busy life in the service of the crown had taught him
 self-confidence, and he uses his Italian models in his own way and with
 the most triumphant and assured success. When he had no more Italian
 poems to adapt he had learnt his lesson. The art of weaving a plot out
-of his own imagination was never his, but he could take what might be
+of his own [[Imagination|imagination]] was never his, but he could take what might be
 little more than an anecdote and lend it body and life and colour with a
 skill which has never been surpassed.
 
 The most direct example of Chaucer's French studies is his translation
-of _Le Roman de la rose_, a poem written in some 4000 lines by Guillaume
+of _Le Roman de la rose_, a poem written in some 4000 lines by [[Guillaume]]
 Lorris about 1237 and extended to over 22,000 by Jean Clopinel, better
-known as Jean de Meun, forty years later. We know from Chaucer himself
+known as [[Jean De Meun|Jean de Meun]], forty years later. We know from Chaucer himself
 that he translated this poem, and the extant English fragment of 7698
 lines was generally assigned to him from 1532, when it was first
 printed, till its authorship was challenged in the early years of the
@@ -243,14 +243,14 @@ hardly be treated as closed.
 While our knowledge of Chaucer's _Romaunt of the Rose_ is in this
 unsatisfactory state, another translation of his from the French, the
 _Book of the Lyon_ (alluded to in the "Retraction" found, in some
-manuscripts, at the end of the _Canterbury Tales_), which must certainly
+[[Manuscript|manuscripts]], at the end of the _Canterbury Tales_), which must certainly
 have been taken from Guillaume Machault's _Le Dit du lion_, has
 perished altogether. The strength of French influence on Chaucer's early
 work may, however, be amply illustrated from the first of his poems with
 which we are on sure ground, the _Book of the Duchesse_, or, as it is
 alternatively called, the _Deth of Blaunche_. Here not only are
 individual passages closely imitated from Machault and Froissart, but
-the dream, the May morning, and the whole machinery of the poem are
+the [[Dream|dream]], the May morning, and the whole machinery of the poem are
 taken over from contemporary French conventions. But even at this stage
 Chaucer could prove his right to borrow by the skill with which he makes
 his materials serve his own purpose, and some of the lines in the _Deth
@@ -273,7 +273,7 @@ from the French.
 While Chaucer thus sought to reproduce both the matter and the style of
 French poetry in England, he found other materials in popular Latin
 books. Among his lost works are renderings of "Origenes upon the
-Maudeleyne," and of Pope Innocent III. on "The Wreced Engendring of
+Maudeleyne," and of Pope [[Innocent]] III. on "The Wreced Engendring of
 Mankinde" (_De miseria conditionis humanae_). He must have begun his
 attempts at straightforward narrative with the _Lyf of Seynt Cecyle_
 (the weakest of all his works, the second Nun's Tale in the Canterbury
@@ -285,7 +285,7 @@ his originals. In his story of Constance (afterwards ascribed to the Man
 of Law), taken from the Anglo-Norman chronicle of Nicholas Trivet,
 written about 1334, we find him struggling to put some substance into
 another weak tale, but still without the courage to remedy its radical
-faults, though here, as with Grisilde, he does as much for his heroine
+[[Fault|faults]], though here, as with Grisilde, he does as much for his heroine
 as the conventional exaltation of one virtue at a time permitted. It is
 possible that other tales which now stand in the Canterbury series were
 written originally at this period. What is certain is that at some time
@@ -322,7 +322,7 @@ to take his plot unaltered from the _Filostrato_, and to follow
 Boccaccio step by step through the poem. But he did not follow him as a
 mere translator. He had done his duty manfully for the saints "of other
 holinesse" in Cecyle, Grisilde and Constance, whom he was forbidden by
-the rules of the game to clothe with complete flesh and blood. In this
+the rules of the [[Game|game]] to clothe with complete flesh and blood. In this
 great love-story there were no such restrictions, and the characters
 which Boccaccio's treatment left thin and conventional became in
 Chaucer's hands convincingly human. No other English poem is so instinct
@@ -350,14 +350,14 @@ of romance. The whole story is pulled together and made more rapid and
 effective. A comparison of almost any scene as told by the two poets
 suffices to show Chaucer's immense superiority. At some subsequent
 period the "Squire's Tale" of Cambuscan, the fair Canacee and the Horse
-of Brass, was gallantly begun in something of the same key, but Chaucer
+of [[Brass]], was gallantly begun in something of the same [[Key|key]], but Chaucer
 took for it more materials than he could use, and for lack of the help
 of a leader like Boccaccio he was obliged to leave the story, in
 Milton's phrase, "half-told," though the fragment written certainly
 takes us very much less than half-way.
 
 Meanwhile, in connexion (as is reasonably believed) with the betrothal
-or marriage of Anne of Bohemia to Richard II. (i.e. about 1381-1382),
+or marriage of [[Anne]] of Bohemia to Richard II. (i.e. about 1381-1382),
 Chaucer had brought to a successful completion the _Parlement of
 Foules_, a charming sketch of 699 lines, in which the other birds, on
 Saint Valentine's day, counsel the "Formel Egle" on her choice of a
@@ -367,7 +367,7 @@ the materials which he borrowed were mainly Latin (with some help from
 passages of the _Teseide_ not fully needed for _Palamon and Arcyte_) his
 method of handling them would have been quite approved by his friends
 among the French poets. A more ambitious venture, the _Hous of Fame_, in
-which Chaucer imagines himself borne aloft by an eagle to Fame's temple,
+which Chaucer imagines himself borne aloft by an [[Eagle|eagle]] to Fame's temple,
 describes what he sees and hears there, and then breaks off in apparent
 inability to get home, shows a curious mixture of the poetic ideals of
 the _Roman de la rose_ and reminiscences of the _Divina Commedia_.
@@ -375,23 +375,23 @@ the _Roman de la rose_ and reminiscences of the _Divina Commedia_.
 As the _Hous of Fame_ is most often remembered and quoted for the
 personal touches and humour of Chaucer's conversation with the eagle, so
 the most-quoted passages in the Prologue to the _Legende of Good Women_
-are those in which Chaucer professes his affection for the daisy, and
+are those in which Chaucer professes his affection for the [[Daisy|daisy]], and
 the attack on his loyalty by Cupid and its defence by Alceste. Recent
 discoveries have shown, however, that (besides obligations to Machault)
 some of the touches about the daisy and the controversy between the
-partisans of the Flower and of the Leaf are snatches from poems by his
-friends Froissart and Deschamps, which Chaucer takes up and returns to
+partisans of the [[Flower]] and of the [[Leaf]] are snatches from poems by his
+friends Froissart and [[Deschamps]], which Chaucer takes up and returns to
 them with pretty compliments, and that he was indebted to Froissart for
 some of the framework of his poem.[2] Both of the two versions of the
 Prologue to the _Legende_ are charming, and some of the tales, notably
-that of Cleopatra, rank with Chaucer's best work. When, however, he had
+that of [[Cleopatra]], rank with Chaucer's best work. When, however, he had
 written eight and part of the ninth he tired of his scheme, which was
 planned to celebrate nineteen of Cupid's faithful "saints," with
 Alcestis as their queen. With his usual hopefulness he had overlooked
 the risk of monotony, which obviously weighed heavily on him ere he
 broke off, and the loss of the other ten stories is less to be regretted
 than that of the celebration of Alceste, and a possible epilogue which
-might have exceeded in charm the Prologue itself.
+might have exceeded in [[Charm|charm]] the Prologue itself.
 
 
   Canterbury Tales.
@@ -402,17 +402,17 @@ which were probably taken up in immediate succession to it. His
 guardianship of two Kentish wards, his justiceship of the peace, his
 representing the county in the parliament of 1386, his commissionership
 of the river-bank between Greenwich and Woolwich, all make it easy to
-understand his dramatic use of the merry crowds he saw on the Canterbury
+understand his dramatic use of the merry [[Crowd|crowds]] he saw on the Canterbury
 road, without supposing him to have had recourse to Boccaccio's
 _Decamerone_, a book which there is no proof of his having seen. The
 pilgrims whom he imagines to have assembled at the Tabard Inn in
-Southwark, where Harry Bailey was host, are said to have numbered "wel
+Southwark, where Harry [[Bailey]] was host, are said to have numbered "wel
 nyne and twenty in a company," and the Prologue gives full-length
 sketches of a Knight, a Squire (his son), and their Yeoman; of a
-Prioress, Monk, Friar, Oxford Clerk, and Parson, with two disreputable
+Prioress, Monk, [[Friar]], Oxford Clerk, and Parson, with two disreputable
 hangers-on of the church, a Summoner and Pardoner; of a Serjeant-at-Law
-and a Doctor of Physic, and of a Franklin, or country gentleman,
-Merchant, Shipman, Miller, Cook, Manciple, Reeve, Ploughman (the
+and a Doctor of Physic, and of a [[Franklin]], or country [[Gentleman|gentleman]],
+Merchant, Shipman, Miller, [[Cook]], [[Manciple]], Reeve, Ploughman (the
 Parson's brother) and the ever-famous Wife of Bath. Five London
 burgesses are described in a group, and a Nun and Priest[3] are
 mentioned as in attendance on the Prioress. Each of these, with Chaucer
@@ -449,7 +449,7 @@ outpourings of the Pardoner and Wife of Bath, form, with the immortal
 Prologue, the most important and distinctive additions to the older
 work. In these, and in the Pardoner's story of Death and the Three
 Revellers, and the Nun's Priest's masterly handling of the fable of the
-Cock and Fox, both of them free from the grossness which marks the
+[[Cock]] and [[Fox]], both of them free from the grossness which marks the
 others, Chaucer takes stories which could have been told in a short page
 of prose and elaborates them with all the skill in narration which he
 had sedulously cultivated. The conjugal reminiscences of the Wife of
@@ -461,7 +461,7 @@ certainly be claimed for him.
 
 In or soon after 1391 Chaucer wrote in prose for an eleven-year-old
 reader, whom he addresses as "Litel Lowis my son," a treatise on the use
-of the Astrolabe, its short prologue being the prettiest specimen of his
+of the [[Astrolabe]], its short prologue being the prettiest specimen of his
 prose. The wearisome tale of "Melibee and his wyf Prudence," which was
 perhaps as much admired in English as it had been in Latin and French,
 may have been translated at any time. The sermon on Penitence, used as
@@ -476,12 +476,12 @@ extant shorter poems, however, whether early or late, offer no excuse
 for claiming high rank for him as a lyrist. He had very little sheer
 singing power, and though there are fine lines in his short poems,
 witness the famous "Flee fro the prees and dwell with soothfastnesse,"
-they lack the sustained concentration of great work. From the drama,
+they lack the sustained concentration of great work. From the [[Drama|drama]],
 again, Chaucer was cut off, and it is idle to argue from the innumerable
 dramatic touches in his poems and his gift of characterization as to
 what he might have done had he lived two centuries later. His own age
 delighted in stories, and he gave it the stories it demanded invested
-with a humanity, a grace and strength which place him among the world's
+with a humanity, a [[Grace|grace]] and strength which place him among the world's
 greatest narrative poets, and which bring the England of his own day,
 with all the colour and warmth of life, wonderfully near to all his
 readers.
@@ -496,7 +496,7 @@ bore any such part in fixing it as was afterwards played by the
 translators of the Bible. When he was growing up educated society in
 England was still bilingual, and the changes in vocabulary and
 pronunciation which took place during his life were the natural results
-of a society, which had been bilingual with a bias towards French,
+of a society, which had been bilingual with a [[Bias|bias]] towards French,
 giving an exclusive preference to English. The practical identity of
 Chaucer's language with that of Gower shows that both merely used the
 best English of their day with the care and slightly conservative
@@ -516,7 +516,7 @@ exercise a potent influence on Scottish poetry, but in England this
 final -_e_, to which most of the earlier grammatical forms by Chaucer's
 time had been reduced, itself fell rapidly into disuse during the 15th
 century, and a serious barrier was thus raised to the appreciation of
-the artistic value of his verse. His disciples, Hoccleve and Lydgate,
+the artistic value of his verse. His disciples, Hoccleve and [[Lydgate]],
 who at first had caught some echoes of his rhythms, gradually yielded to
 the change in pronunciation, so that there was no living tradition to
 hand down his secret, while successive copyists reduced his text to a
@@ -538,23 +538,23 @@ text has set his fame on a surer basis.
   Tales_ were subsequently printed in 1492 (Pynson), 1498 (de Worde) and
   1526 (Pynson); _Troilus_ in 1517 (de Worde) and 1526 (Pynson); the
   _Hous of Fame_ in 1526 (Pynson); the _Parlement of Foules_ in 1526
-  (Pynson) and 1530 (de Worde), and the _Mars_, "_Venus_" and _Envoy to
+  (Pynson) and 1530 (de Worde), and the _[[Mars]]_, "_Venus_" and _Envoy to
   Bukton_ by Julyan Notary about 1500. Pynson's three issues in 1526
   almost amounted to a collected edition, but the first to which the
   title _The Workes of Geffray Chaucer_ was given was that edited by
   William Thynne in 1532 for Thomas Godfray. Of this there was a new
-  edition in 1542 for John Reynes and William Bonham, and an undated
+  edition in 1542 for John Reynes and William [[Bonham]], and an undated
   reprint a few years later for Bonham, Kele, Petit and Toye, each of
   whom put his name on part of the edition. In 1561 a reprint, with
   numerous additions, edited by John Stowe, was printed by J. Kyngston
   for J. Wight, and this was re-edited, with fresh additions by Thomas
-  Speght, in 1598 for G. Bishop and again in 1602 for Adam Islip. In
+  Speght, in 1598 for G. Bishop and again in 1602 for Adam [[Islip]]. In
   1687 there was an anonymous reprint, and in 1721 John Urry produced
-  the last and worst of the folios. By this time the paraphrasers were
-  already at work, Dryden rewriting the tales of the Knight, the Nun's
+  the last and worst of the [[Folio|folios]]. By this time the paraphrasers were
+  already at work, [[Dryden]] rewriting the tales of the Knight, the Nun's
   Priest and the Wife of Bath, and Pope the Merchant's. In 1737
   (reprinted in 1740) the Prologue and Knight's Tale were edited
-  (anonymously) by Thomas Morell "from the most authentic manuscripts,"
+  (anonymously) by Thomas Morell "from the most [[Authentic|authentic]] manuscripts,"
   and here, though by dint of much violence and with many mistakes,
   Chaucer's lines were for the first time in print given in a form in
   which they could be scanned. This promise of better things (Morell
@@ -567,9 +567,9 @@ text has set his fame on a surer basis.
   the Percy Society in 1848-1851, based on the erratic but valuable
   British Museum manuscript Harley 7334, containing readings which must
   be either Chaucer's second thoughts or the emendations of a
-  brilliantly clever scribe. In 1866 Richard Morris re-edited this text
+  brilliantly [[Clever|clever]] scribe. In 1866 Richard Morris re-edited this text
   in a more scholarly manner for the Aldine edition of the British
-  Poets, and in the following year produced for the Clarendon Press
+  Poets, and in the following year produced for the [[Clarendon]] Press
   Series a school edition of the Prologue and Tales of the Knight and
   Nun's Priest, edited with the fulness and care previously bestowed
   only on Greek and Latin classics.
@@ -585,7 +585,7 @@ text has set his fame on a surer basis.
   wealth of annotation, for the Clarendon Press in 1894, the text of
   which was used for the splendid folio printed two years later by
   William Morris at the Kelmscott Press, with illustrations by Sir
-  Edward Burne-Jones. A supplementary volume of the Oxford edition,
+  Edward [[Burne-Jones]]. A supplementary volume of the Oxford edition,
   entitled _Chaucerian and other Pieces_, issued by Professor Skeat in
   1897, contains the prose and verse which his early publishers and
   editors, from Pynson and Thynne onwards, included among his Works by
@@ -599,8 +599,8 @@ text has set his fame on a surer basis.
   inferences from works now known not to be Chaucer's, notably the
   _Testament of Love_ written by Thomas Usk. All information about
   Chaucer's life available in 1900 will be found summarized by Mr R.E.G.
-  Kirk in _Life-Records of Chaucer_, part iv., published by the Chaucer
-  Society in that year. See also _Chaucer; a Bibliographical Manual_, by
+  [[Kirk]] in _Life-Records of Chaucer_, part iv., published by the Chaucer
+  Society in that year. See also _Chaucer; a Bibliographical [[Manual]]_, by
   Eleanor P. Hammond (1909).      (A. W. Po.)
 
 
@@ -614,7 +614,7 @@ FOOTNOTES:
     previously been reckoned as the second or "B" form of the Prologue
     over the "A," were demonstrated in papers by Prof. Kittredge on
     "Chaucer and some of his Friends" in _Modern Philology_, vol. i.
-    (Chicago, 1903), and by Mr J. L. Lowes on "The Prologue to the
+    ([[Chicago]], 1903), and by Mr J. L. Lowes on "The Prologue to the
     Legend of Good Women" in _Publications of the Modern Language
     Association of America_, vol. xix., December 1904.
 

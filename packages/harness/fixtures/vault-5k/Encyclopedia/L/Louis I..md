@@ -34,15 +34,15 @@ field.
 The crown prince was also averse from a Napoleonic marriage, and
 preferred to marry (October 12, 1810) the Princess Therese of
 Saxe-Hildburghausen (1792-1854). Three daughters and four sons were born
-of this marriage, one of whom succeeded him as Maximilian II., while
+of this marriage, one of whom succeeded him as [[Maximilian]] II., while
 another, Luitpold, became prince regent of Bavaria on the death of Louis
 II.
 
 During the time that he was crown prince Louis resided chiefly at
-Innsbruck or Salzburg as governor of the circle of the Inn and Salzach.
+[[Innsbruck]] or Salzburg as governor of the circle of the Inn and Salzach.
 In 1815 he attended the Congress of Vienna, where he was especially
 occupied in endeavouring to obtain the restoration of Alsace and
-Lorraine to Germany; and later in the year he was with the allies in
+[[Lorraine]] to Germany; and later in the year he was with the allies in
 Paris, using his influence to secure the return of the art treasures
 carried off by the French.
 
@@ -58,7 +58,7 @@ moderate constitutional policy, in which he found himself in general
 agreement with the parliament. Although he displayed a loyal attachment
 to the Catholic Church, especially owing to his artistic sympathies, he
 none the less opposed all its more exaggerated pretensions, especially
-as represented by the Jesuits, whom he condemned as un-German. In the
+as represented by the [[Jesuits]], whom he condemned as un-German. In the
 year of his accession he abolished an old edict concerning the
 censorship. He also furthered in many ways the internal administration
 of the state, and especially that of the finances. His personal tastes,
@@ -88,7 +88,7 @@ Frederick William IV., he allowed the reactionary system of surveillance
 which commended itself to the German Confederation after 1830 to be
 introduced into Bavaria (see BAVARIA: _History_). He continued, on the
 other hand, to do much for the economic development of the country. As a
-follower of the ideas of Friedrich List, he furthered the foundation of
+follower of the ideas of [[Friedrich]] List, he furthered the foundation of
 the Zollverein in the year 1833 and the making of canals. Railways he
 looked upon as a "necessary evil."
 
@@ -98,7 +98,7 @@ connexion with Louis's favourite project of winning back the part then
 belonging to Baden of the old Palatinate, the land of his birth, which
 was always very dear to him.
 
-Of European importance was his enthusiasm for the liberation of Greece
+Of European importance was his [[Enthusiasm|enthusiasm]] for the liberation of Greece
 from the rule of Turkey. Not only did he erect the _Propyläen_ at Munich
 in her honour, but he also helped her in the most generous way both with
 money and diplomatic resources. And after his second son Otto had become
@@ -127,7 +127,7 @@ amounted to about a fifth of his income). The year 1846, however,
 brought a change which had sad consequences. This was due to the king's
 relations with the Spanish dancer Lola Montez, who appeared in Munich in
 October 1846, and soon succeeded by her beauty and wit in fascinating
-the king, who was always susceptible to feminine charms. The political
+the king, who was always susceptible to feminine [[Charm|charms]]. The political
 importance of this lay in the fact that the royal mistress began to use
 her great influence against the clerical policy of the Abel ministry. So
 when the king was preparing the way for ennobling her, in order to
@@ -178,7 +178,7 @@ The chief part of Louis's records is contained in seven sealed chests in
 the archives of his family, and by the provisions of his will these were
 not to be opened till the year 1918. These records contain an
 extraordinarily large and valuable mass of historical material,
-including, as one item, 246 volumes of the king's diary.
+including, as one [[Item|item]], 246 volumes of the king's diary.
 
   BIBLIOGRAPHY.--Of the numerous pamphlets, especially of the years
   1846-1848, we need only mention here: P. Erdmann, _Lola Montez und die

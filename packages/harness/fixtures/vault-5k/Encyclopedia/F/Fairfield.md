@@ -10,7 +10,7 @@ type: reference
 FAIRFIELD, a township in Fairfield county, Connecticut, U.S.A., near
 Long Island Sound, adjoining Bridgeport on the E. and Westport on the W.
 Pop. (1890) 3868; (1900) 4489 (1041 being foreign-born); (1910) 6134. It
-is served by the New York, New Haven & Hartford railway. The principal
+is served by the New York, New Haven & [[Hartford]] railway. The principal
 villages of the township are Fairfield, Southport, Greenfield Hill and
 Stratfield. The beautiful scenery and fine sea air attract to the
 township a considerable number of summer visitors. The township has the
@@ -33,11 +33,11 @@ considerable importance, but subsequently it was greatly outstripped by
 Bridgeport, to which, in 1870, a portion of it was annexed. On the 8th
 of July 1779 Fairfield was burned by the British and Hessians under
 Governor William Tryon. Among the prominent men who have lived in
-Fairfield are Roger Sherman, the first President Dwight of Yale (who
+Fairfield are Roger Sherman, the first President [[Dwight]] of Yale (who
 described Fairfield in his _Travels_ and in his poem _Greenfield Hill_),
 Chancellor James Kent, and Joseph Earle Sheffield.
 
-  See Frank S. Child, _An Old New England Town, Sketches of Life,
+  See [[Frank]] S. Child, _An Old New England Town, Sketches of Life,
   Scenery and Character_ (New York, 1895); and Mrs E.H. Schenck,
   _History of Fairfield_ (2 vols., New York, 1889-1905).
 

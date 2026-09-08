@@ -1,11 +1,11 @@
 # Dahlmann
 
-DAHLMANN, FRIEDRICH CHRISTOPH (1785-1860), German historian and
+DAHLMANN, [[Friedrich|FRIEDRICH]] CHRISTOPH (1785-1860), German historian and
 politician, was born on the 13th of May 1785; he came of an old
 Hanseatic family of Wismar, which then belonged to Sweden. His father,
 who was the burgomaster of the town, intended him to study theology, but
 his bent was towards classical philology, and this he studied from 1802
-to 1806 at the universities of Copenhagen and Halle, and again at
+to 1806 at the universities of [[Copenhagen]] and [[Halle]], and again at
 Copenhagen. After finishing his studies, he translated some of the Greek
 tragic poets, and the _Clouds_ of Aristophanes. But he was also
 interested in modern literature and philosophy; and the troubles of the
@@ -14,7 +14,7 @@ many of his contemporaries, a strong feeling of German patriotism,
 though throughout his life he was always proud of his connexion with
 Scandinavia, and Gustavus Adolphus was his particular hero. In 1809, on
 the news of the outbreak of war in Austria, Dahlmann, together with the
-poet Heinrich von Kleist, whom he had met in Dresden, went to Bohemia,
+poet Heinrich von Kleist, whom he had met in [[Dresden]], went to Bohemia,
 and was afterwards with the Imperial army, up till the battle of Aspern,
 with the somewhat vague object of trying to convert the Austrian war
 into a German one. This hope was shattered by the defeat of Wagram. He
@@ -24,7 +24,7 @@ qualified at Copenhagen in 1811, with an essay on the origins of the
 ancient theatre, as a lecturer on ancient literature and history, on
 which he delivered lectures in Latin. His influential friends soon
 brought him further advancement. As early as 1812 he was summoned to
-Kiel, as successor to the historian Dietrich Hermann Hegewisch
+Kiel, as successor to the historian [[Dietrich]] [[Hermann]] Hegewisch
 (1746-1812). This appointment was in two respects a decisive moment in
 his career; on the one hand it made him give his whole attention to a
 subject for which he was admirably suited, but to which he had so far
@@ -35,7 +35,7 @@ In 1815 he obtained, in addition to his professorate, the position of
 secretary to the perpetual deputation of the estates of
 Schleswig-Holstein. In this capacity he began, by means of memoirs or of
 articles in the _Kieler Blatter_, which he founded himself, to appear as
-an able and zealous champion of the half-forgotten rights of the Elbe
+an able and zealous [[Champion|champion]] of the half-forgotten rights of the [[Elbe]]
 duchies, as against Denmark, and of their close connexion with Germany.
 It was he upon whom the Danes afterwards threw the blame of having
 invented the Schleswig-Holstein question; certainly his activities form
@@ -62,23 +62,23 @@ feeling received a mighty impulse from his courageous action, while
 public subscriptions prevented him from material cares.
 
 After he had lived for several years in Leipzig and Jena, King Frederick
-William IV. appointed him in October 1842 to a professorship at Bonn.
+William IV. appointed him in October 1842 to a professorship at [[Bonn]].
 The years that followed were those of his highest celebrity. His
 _Politik_ (1835) had already made him a great name as a writer; he now
 published his _Danische Geschichte_ (1840-1843), a historical work of
 the first rank; and this was soon followed by histories of the English
-and French revolutions, which, though of less scientific value,
+and [[French Revolution|French revolutions]], which, though of less scientific value,
 exercised a decisive influence upon public opinion by their open
 advocacy of the system of constitutional monarchy. As a teacher too he
 was much beloved. Though no orator, and in spite of a personality not
 particularly amiable or winning, he produced a profound impression upon
 young men by the pregnancy of his expression, a consistent logical
-method of thought based on Kant and by the manliness of his character.
+method of thought based on [[Kant]] and by the manliness of his character.
 When the revolution of 1848 broke out, the "father of German
 nationality," as the provisional government at Milan called him, found
 himself the centre of universal interest. Both Mecklenburg and Prussia
 offered him in vain the post of envoy to the diet of the confederation.
-Naturally, too, he was elected to the national assembly at Frankfort,
+Naturally, too, he was elected to the national assembly at [[Frankfort]],
 and took a leading part in the constitutional committees appointed first
 by the diet, then by the parliament. His object was to make Germany as
 far as possible a united constitutional monarchy, with the exclusion of
@@ -98,7 +98,7 @@ who on the 17th of September reversed the previous vote and passed a
 resolution accepting the truce, after Dahlmann had failed to form a
 ministry on the basis of the resolution of the 5th, owing to his
 objection to the Radicals. Dahlmann afterwards described this as the
-decisive turning-point in the fate of the parliament. He did not,
+decisive turning-point in the [[Fate|fate]] of the parliament. He did not,
 however, at once give up all hope. Though he took but little active part
 in parliamentary debates, he was very active on commissions and in party
 conferences, and it was largely owing to him that a German constitution
@@ -112,14 +112,14 @@ attitude of the Radicals made it clear to him that this course would
 lead to a revolution, that he decided, after a long struggle, to retire
 from the national parliament (21st May). He was still, however, one of
 the chief promoters of the well-known conference of the imperial party
-at Gotha, the proceedings of which were not, however, satisfactory to
+at [[Gotha]], the proceedings of which were not, however, satisfactory to
 him; and he took part in the sessions of the first Prussian chamber
 (1849-1850) and of the parliament of Erfurt (1850). But finally,
 convinced that for the moment all efforts towards the unity of Germany
 were unavailing, he retired from political life, though often pressed to
 stand for election, and again took up his work of teaching at Bonn. His
 last years were, however, saddened by illness, bereavement and continual
-friction with his colleagues. His death took place on the 5th of
+[[Friction|friction]] with his colleagues. His death took place on the 5th of
 December 1860, following on an apoplectic fit. He was a man whose
 personality had contributed to the progress of the world, and whose
 teaching was to continue to exercise a far-reaching influence on the

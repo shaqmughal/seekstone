@@ -7,26 +7,26 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Kingston-O
 
 # Kingston-On-Thames
 
-KINGSTON-ON-THAMES, a market town and municipal borough in the Kingston
-parliamentary division of Surrey, England, 11 m. S.W. of Charing Cross,
+KINGSTON-ON-THAMES, a market town and municipal borough in the [[Kingston]]
+parliamentary division of Surrey, England, 11 m. S.W. of [[Charing Cross]],
 London; on the London and South-Western railway. Pop. (1901), 34,375.
 It has a frontage with public walks and gardens upon the right bank of
 the Thames, and is in close proximity to Richmond and Bushey Parks, its
 pleasant situation rendering it a favourite residential district. The
 ancient wooden bridge over the river, which was in existence as early as
 1223, was superseded by a structure of stone in 1827. The parish church
-of All Saints, chiefly Perpendicular in style, contains several brasses
-of the 15th century, and monuments by Chantrey and others; the grammar
+of All Saints, chiefly Perpendicular in style, contains several [[Brasses|brasses]]
+of the 15th century, and monuments by [[Chantrey]] and others; the grammar
 school, rebuilt in 1878, was originally founded as a chantry by Edward
 Lovekyn in 1305, and converted into a school by Queen Elizabeth. Near
 the parish church stood the chapel of St Mary, where it is alleged the
 Saxon kings were crowned. The ancient stone said to have been used as a
-throne at these coronations was removed to the market-place in 1850. At
-Norbiton, within the borough, is the Royal Cambridge Asylum for
+throne at these [[Coronation|coronations]] was removed to the market-place in 1850. At
+Norbiton, within the borough, is the Royal Cambridge [[Asylum]] for
 soldiers' widows (1854). At Kingston Hill is an industrial and training
 school for girls, opened in 1892. There are large market gardens in the
 neighbourhood, and the town possesses oil-mills, flour-mills, breweries
-and brick and tile works. The borough is under a mayor, 8 aldermen and
+and [[Brick|brick]] and tile works. The borough is under a [[Mayor|mayor]], 8 aldermen and
 24 councillors. Area, 1133 acres.
 
 The position of Kingston (_Cyningestun_, _Chingestune_) on the Thames
@@ -36,7 +36,7 @@ before. In 836 or 838 it was the meeting-place of the council under
 Ecgbert, and in the 10th century some if not all of the West Saxon kings
 were crowned at Kingston. In the time of Edward the Confessor it was a
 royal manor, and in 1086 included a church, five mills and three
-fisheries. Domesday also mentions bedels in Kingston. The original
+[[Fisheries|fisheries]]. Domesday also mentions bedels in Kingston. The original
 charters were granted by John in 1200 and 1209, by which the free men of
 Kingston were empowered to hold the town in fee-farm for ever, with all
 the liberties that it had while in the king's hands. Henry III.

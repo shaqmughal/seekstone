@@ -6,7 +6,7 @@ The word is by origin the same as "refectory." The older forms, such as
 _freitur_, _fraytor_ and the like, show the word to be an adaptation of
 the O. Fr. _fraitour_, a shortened form of _refraitour_, from the Med.
 Lat. _rejectorium_. The word has been confused with _frater_, a brother
-or friar, and hence sometimes confined in meaning to the dining-hall of
+or [[Friar|friar]], and hence sometimes confined in meaning to the dining-hall of
 a friary, while "refectory" is used of a monastery.
 
 ## References

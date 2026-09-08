@@ -15,9 +15,9 @@ philosophy. In the second preface to the _Fragmens philosophiques_, in
 which he candidly states the varied philosophical influences of his
 life, Cousin speaks of the grateful emotion excited by the memory of the
 day in 1811, when he heard Laromiguiere for the first time. "That day
-decided my whole life. Laromiguiere taught the philosophy of Locke and
+decided my whole life. Laromiguiere taught the philosophy of [[Locke]] and
 Condillac, happily modified on some points, with a clearness and grace
-which in appearance at least removed difficulties, and with a charm of
+which in appearance at least removed difficulties, and with a [[Charm|charm]] of
 spiritual _bonhomie_ which penetrated and subdued." Cousin was set
 forthwith to lecture on philosophy, and he speedily obtained the
 position of master of conferences (_maitre de conferences_) in the
@@ -29,7 +29,7 @@ into the way which has since become so easy, but which was then painful
 and unfrequented, that of the Scottish philosophy." In 1815-1816 Cousin
 attained the position of _suppleant_ (assistant) to Royer-Collard in the
 history of modern philosophy chair of the faculty of letters. There was
-still another thinker who influenced him at this early period,--Maine de
+still another thinker who influenced him at this early period,--[[Maine]] de
 Biran, whom Cousin regarded as the unequalled psychological observer of
 his time in France.
 
@@ -46,7 +46,7 @@ our personality is truly revealed. It was through this "triple
 discipline," as he calls it, that Cousin's philosophical thought was
 first developed, and that in 1815 he entered on the public teaching of
 philosophy in the Normal School and in the faculty of letters.[1] He
-then took up the study of German, worked at Kant and Jacobi, and sought
+then took up the study of German, worked at [[Kant]] and [[Jacobi]], and sought
 to master the _Philosophy of Nature_ of Schelling, by which he was at
 first greatly attracted. The influence of Schelling may be observed very
 markedly in the earlier form of his philosophy. He sympathized with the
@@ -72,7 +72,7 @@ farther than his party, and even to have approached the extreme Left.
 Then came a reaction against liberalism, and in 1821-1822 Cousin was
 deprived of his offices alike in the faculty of letters and in the
 Normal School. The Normal School itself was swept away, and Cousin
-shared at the hands of a narrow and illiberal government the fate of
+shared at the hands of a narrow and illiberal government the [[Fate|fate]] of
 Guizot, who was ejected from the chair of history. This enforced
 abandonment of public teaching was not wholly an evil. He set out for
 Germany with a view to further philosophical study. While at Berlin in
@@ -100,7 +100,7 @@ besides the _Fragmens_, the edition of the works of Proclus (6 vols.,
 commenced his _Translation of Plato_ (13 vols.), which occupied his
 leisure time from 1825 to 1840.
 
-We see in the _Fragmens_ very distinctly the fusion of the different
+We see in the _Fragmens_ very distinctly the [[Fusion|fusion]] of the different
 philosophical influences by which his opinions were finally matured. For
 Cousin was as eclectic in thought and habit of mind as he was in
 philosophical principle and system. It is with the publication of the
@@ -116,7 +116,7 @@ ministry, recalled Cousin and Guizot to their professorial positions in
 the university. The three years which followed were the period of
 Cousin's greatest triumph as a lecturer. His return to the chair was the
 symbol of the triumph of constitutional ideas and was greeted with
-enthusiasm. The hall of the Sorbonne was crowded as the hall of no
+[[Enthusiasm|enthusiasm]]. The hall of the Sorbonne was crowded as the hall of no
 philosophical teacher in Paris had been since the days of Abelard. The
 lecturer had a singular power of identifying himself for the time with
 the system which he expounded and the historical character he portrayed.
@@ -134,7 +134,7 @@ There was withal a moral elevation in his spiritual philosophy which
 came home to the hearts of his hearers, and seemed to afford a ground
 for higher development in national literature and art, and even in
 politics, than the traditional philosophy of France had appeared capable
-of yielding. His lectures produced more ardent disciples, imbued at
+of yielding. His lectures produced more ardent [[Disciple|disciples]], imbued at
 least with his spirit, than those of any other professor of philosophy
 in France during the 18th century. Tested by the power and effect of his
 teaching influence, Cousin occupies a foremost place in the rank of
@@ -161,7 +161,7 @@ political position:--
 
   "I had the advantage of holding united against me for many years both
   the sensational and the theological school. In 1830 both schools
-  descended into the arena of politics. The sensational school quite
+  descended into the [[Arena|arena]] of politics. The sensational school quite
   naturally produced the demagogic party, and the theological school
   became quite as naturally absolutism, safe to borrow from time to time
   the mask of the demagogue in order the better to reach its ends, as in
@@ -196,7 +196,7 @@ wrong, he looked to Prussia as affording the best example of an
 organized system of national education; and he was persuaded that "to
 carry back the education of Prussia into France afforded a nobler (if a
 bloodless) triumph than the trophies of Austerlitz and Jena." In the
-summer of 1831, commissioned by the government, he visited Frankfort and
+summer of 1831, commissioned by the government, he visited [[Frankfort]] and
 Saxony, and spent some time in Berlin. The result was a series of
 reports to the minister, afterwards published as _Rapport sur l'etat de
 l'instruction publique dans quelques pays de l'Allemagne et
@@ -241,7 +241,7 @@ premiers livres_; in 1836, _Cours de philosophie professe a la faculte
 des lettres pendant l'annee 1818_, and _Ouvrages inedits d'Abelard_.
 This _Cours de philosophie_ appeared later in 1854 as _Du vrai, du beau,
 et du bien_. From 1825 to 1840 appeared _Cours de l'histoire de la
-philosophie_, in 1829 _Manuel de l'histoire de la philosophie de
+philosophie_, in 1829 _[[Manuel]] de l'histoire de la philosophie de
 Tennemann_, translated from the German. In 1840-1841 we have _Cours
 d'histoire de la philosophie morale au XVIII^e siecle_ (5 vols.). In
 1841 appeared his edition of the _OEuvres philosophiques de
@@ -260,14 +260,14 @@ owe his studies of men and women of note in France in the 17th century.
 As the results of his work in this line, we have, besides the _Des
 Pensees de Pascal_, 1842, _Etudes sur les femmes et la societe du XVII^e
 siecle_, 1853. He has sketched Jacqueline Pascal (1844), Madame de
-Longueville (1853), the marquise de Sable (1854), the duchesse de
+[[Longueville]] (1853), the marquise de Sable (1854), the duchesse de
 Chevreuse (1856), Madame de Hautefort (1856).
 
 When the reign of Louis Philippe came to a close through the opposition
 of his ministry, with Guizot at its head, to the demand for electoral
 reform and through the policy of the Spanish marriages, Cousin, who was
 opposed to the government on these points, lent his sympathy to
-Cavaignac and the Provisional government. He published a pamphlet
+[[Cavaignac]] and the Provisional government. He published a pamphlet
 entitled _Justice et charite_, the purport of which showed the
 moderation of his political views. It was markedly anti-socialistic. But
 from this period he passed almost entirely from public life, and ceased
@@ -316,7 +316,7 @@ in history.
 First, as to method. On no point has Cousin more strongly insisted than
 the importance of method in philosophy. That which he adopts, and the
 necessity of which he so strongly proclaims, is the ordinary one of
-observation, analysis and induction. This observational method Cousin
+observation, analysis and [[Induction|induction]]. This observational method Cousin
 regards as that of the 18th century,--the method which Descartes began
 and abandoned, and which Locke and Condillac applied, though
 imperfectly, and which Reid and Kant used with more success, yet not
@@ -338,7 +338,7 @@ found in consciousness, viz. those of reason. By his method of
 observation and induction as thus explained, his philosophy will be
 found to be marked off very clearly, on the one hand from the deductive
 construction of notions of an absolute system, as represented either by
-Schelling or Hegel, which Cousin regards as based simply on hypothesis
+Schelling or Hegel, which Cousin regards as based simply on [[Hypothesis|hypothesis]]
 and abstraction, illegitimately obtained; and on the other, from that of
 Kant, and in a sense, of Sir W. Hamilton, both of which in the view of
 Cousin are limited to psychology, and merely relative or phenomenal
@@ -411,7 +411,7 @@ recognition of universal and necessary principles in knowledge is the
 essential point in psychology; it ought to be put first and emphasized
 to the last that these exist, and that they are wholly impersonal or
 absolute. The number of these principles, their enumeration and
-classification, is an important point, but it is secondary to that of
+[[Classification|classification]], is an important point, but it is secondary to that of
 the recognition of their true nature. This was the point which Kant
 missed in his analysis, and this is the fundamental truth which Cousin
 thinks he has restored to the integrity of philosophy by the method of
@@ -425,8 +425,8 @@ human intelligence, restricted to the sphere of the phenomenal,
 incapable of revealing to us substantial reality--necessary, yet
 subjective. But this test of necessity is a wholly secondary one; these
 laws are not thus guaranteed to us; they are each and all given to us,
-given to our consciousness, in an act of spontaneous apperception or
-apprehension, immediately, instantaneously, in a sphere above the
+given to our consciousness, in an act of spontaneous [[Apperception|apperception]] or
+[[Apprehension|apprehension]], immediately, instantaneously, in a sphere above the
 reflective consciousness, yet within the reach of knowledge. And "all
 subjectivity with all reflection expires in the spontaneity of
 apperception. The reason becomes subjective by relation to the voluntary
@@ -467,7 +467,7 @@ variety of my sensations. The relation of these forces or causes to each
 other is the order of the universe.
 
 
-  The infinite or absolute.
+  The [[Infinite|infinite]] or absolute.
 
 But these two forces, the me and the not-me, are reciprocally
 limitative. As reason has apprehended these two simultaneous phenomena,
@@ -573,7 +573,7 @@ regulative need.
 
 With Schelling again Cousin agrees in regarding this supreme ground of
 all as positively apprehended, and as a source of development, but he
-utterly repudiates Schelling's method. The intellectual intuition either
+utterly repudiates Schelling's method. The intellectual [[Intuition|intuition]] either
 falls under the eye of consciousness, or it does not. If not, how do you
 know it and its object which are identical? If it does, it comes within
 the sphere of psychology; and the objections to it as thus a relative,
@@ -623,7 +623,7 @@ correspond to a positive--i.e. an object or notion with qualities
 contradictory of the organized; but the mere sublation of the organized
 does not posit it, or suppose that it is known beforehand, or that
 anything exists corresponding to it. This is one among many flaws in the
-Hegelian dialectic, and it paralyzes the whole of the _Logic_. Secondly,
+Hegelian [[Dialectic|dialectic]], and it paralyzes the whole of the _Logic_. Secondly,
 the conditions of intelligence, which Cousin allows, necessarily exclude
 the possibility of knowledge of the absolute--they are held to be
 incompatible with its unity. Here Schelling and Hamilton argue that
@@ -811,9 +811,9 @@ systems."
 
   BIBLIOGRAPHY.--J. Barthelemy St Hilaire, _V. Cousin, sa vie et sa
   correspondence_ (3 vols., Paris, 1895); H. Hoffding, _Hist. of Mod.
-  Phil._ ii. 311 (Eng. trans., 1900); C. E. Fuchs, _Die Philosophie
+  Phil._ ii. 311 (Eng. trans., 1900); C. E. [[Fuchs]], _Die Philosophie
   Victor Cousins_ (Berlin, 1847); J. Alaux, _La Philos. de M. Cousin_
-  (Paris, 1864); P. Janet, _Victor Cousin et son oeuvre_ (Paris,
+  (Paris, 1864); P. [[Janet]], _Victor Cousin et son oeuvre_ (Paris,
   1885); Jules Simon, _V. Cousin_ (1887); Adolphe Franck, _Moralistes et
   philosophes_ (1872); J. P. Damiron, _Souvenirs de vingt ans
   d'enseignement_ (Paris, 1859); H. Taine in _Les Philosophes_ (Paris,

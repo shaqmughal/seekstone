@@ -19,7 +19,7 @@ to train him in warfare and statecraft. He took part in several Scots
 campaigns, but all his father's efforts could not prevent his acquiring
 the habits of extravagance and frivolity which he retained all through
 his life. The old king attributed his son's defects to the bad influence
-of his friend, the Gascon knight Piers Gaveston, and drove the favourite
+of his friend, the Gascon [[Knight|knight]] Piers Gaveston, and drove the favourite
 into exile. When Edward I. died, on the 7th of July 1307, the first act
 of the prince, now Edward II., was to recall Gaveston. His next was to
 abandon the Scots campaign on which his father had set his heart.
@@ -34,11 +34,11 @@ little confidence in himself that he was always in the hands of some
 favourite who possessed a stronger will than his own. In the early years
 of his reign Gaveston held this role, acting as regent when Edward went
 to France--where, on the 25th of January 1308, he married Isabella, the
-daughter of Philip the Fair--and receiving the earldom of Cornwall with
+daughter of Philip the Fair--and receiving the earldom of [[Cornwall]] with
 the hand of the king's niece, Margaret of Gloucester. The barons soon
 grew indignant at Edward's devotion to his "brother Piers," and twice
 insisted on his banishment. On each occasion Edward soon recalled his
-friend, whereupon the barons, headed by the king's cousin Thomas, earl
+friend, whereupon the barons, headed by the king's [[Cousin|cousin]] Thomas, earl
 of Lancaster, went to war against king and favourite, and in 1312
 treacherously put Gaveston to death. Edward was not strong enough even
 to avenge his loss. He was forced to stand aside and suffer the realm to
@@ -75,7 +75,7 @@ Lancaster so much that it supported the king to put an end to
 Lancaster's rule. After 1318 the effect of its influence was to restore
 Edward to some portion of his authority. However, the king hated
 Pembroke almost as much as Lancaster. He now found a competent adviser
-in Hugh le Despenser, a baron of great experience. What was more
+in Hugh le [[Despenser]], a baron of great experience. What was more
 important to him, he had in Despenser's son, Hugh le Despenser the
 younger, a personal friend and favourite, who was able in some measure
 to replace Gaveston. The fierce hatred which the barons manifested to
@@ -102,7 +102,7 @@ themselves, and soon stirred up universal indignation. In particular,
 they excited the ill-will of the queen, Isabella of France. Craftily
 dissembling her indignation, Isabella kept silence until 1325, when she
 went to France in company with her eldest son, Edward of Windsor, who
-was sent to do homage for Aquitaine to her brother, the new French king.
+was sent to do [[Homage|homage]] for [[Aquitaine]] to her brother, the new French king.
 When her business was over, Isabella declined to return to her husband
 as long as the Despensers remained his favourites. She formed a criminal
 connexion with Roger Mortimer of Wigmore, one of the baronial exiles,
@@ -114,7 +114,7 @@ younger Despenser's estates in Glamorgan. His wife followed him, put to
 death both the Despensers, and, after a futile effort to escape by sea,
 Edward was captured on the 16th of November. He was imprisoned at
 Kenilworth Castle, and a parliament met at Westminster in January 1327,
-which chose his son to be king as Edward III. It was thought prudent to
+which [[Chose|chose]] his son to be king as Edward III. It was thought prudent to
 compel the captive king to resign the crown, and on the 20th of January
 Edward was forced to renounce his office before a committee of the
 estates. The government of Isabella and Mortimer was so weakly
@@ -133,11 +133,11 @@ Edward's wife, Isabella (c. 1292-1358), bore him two sons, Edward III.
 and John of Eltham, earl of Cornwall (1316-1336), and two daughters,
 Isabella and Joanna (1321-1362), wife of David II., king of Scotland.
 After the execution of her paramour, Roger Mortimer, in 1330, Isabella
-retired from public life; she died at Hertford on the 23rd of August
+retired from public life; she died at [[Hertford]] on the 23rd of August
 1358.
 
   See R. Pauli, _Geschichte von England_, iv. pp. 199-306; T.F. Tout,
-  _Political History of England_, 1216-1307, pp. 236-304, and article in
+  _[[Political History]] of England_, 1216-1307, pp. 236-304, and article in
   _Dictionary of National Biography_; W. Stubbs, _Constitutional
   History_, vol. ii. pp. 319-386, and _Introductions to Chronicles of
   the Reigns of Edward I. and Edward II._ in Rolls series.

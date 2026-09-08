@@ -2,8 +2,8 @@
 
 BISCAY (_Vizcaya_), a maritime province of northern Spain; bounded on
 the N. by the Bay of Biscay, E. by Guipúzcoa, S. by Álava and W. by
-Burgos and Santander. Pop. (1900) 311,361; area, 836 sq. m. A small
-strip of isolated territory within the borders of Biscay, on the west,
+[[Burgos]] and Santander. Pop. (1900) 311,361; area, 836 sq. m. A small
+strip of isolated territory within the [[Borders|borders]] of Biscay, on the west,
 is officially included in the province of Santander. Biscay is one of
 the Basque Provinces, and its name is occasionally employed as
 geographically equivalent to Basque, in that case including the three
@@ -15,7 +15,7 @@ towards the south by the great Cantabrian chain; but at the same time it
 is diversified with numerous narrow valleys and small plains. Some of
 the mountains are almost entirely composed of naked calcareous rock, but
 most of them were formerly covered to their summits with forests of
-oaks, chestnuts or pine trees, now destroyed to provide fuel. Holly and
+oaks, chestnuts or pine trees, now destroyed to provide [[Fuel|fuel]]. [[Holly]] and
 arbutus are common, and furze and heath abound in the poorer parts. The
 only river of any size is the Nervion, Ansa or Ibaizabal, on which
 Bilbao is situated; the others, which are numerous, are merely large
@@ -25,21 +25,21 @@ frequently in winter except on the highest summits. The rainfall is on
 an average greater than in any province except those of the extreme
 north-west. The soil, though not very fertile, except in some of the
 valleys and sheltered hillsides, produces wheat, maize, barley, rye,
-flax, grapes, peaches, apples and other fruits. The mountainous slopes
+flax, grapes, peaches, [[Apple|apples]] and other fruits. The mountainous slopes
 of Biscay are studded with the traditional Basque _caserio_, or
 farm-house, in which the peasantry live on the _métayer_ system,
 dividing the profits of the soil with absentee landlords. The farms are
-generally small, and are for the most part tilled by manual labour. The
-fisheries are actively prosecuted along the coast by a hardy race of
-fishers, who were the first of their craft in Europe to pursue the
-whale, formerly abundant in the Bay of Biscay. Cod, bream, tunny and
+generally small, and are for the most part tilled by [[Manual|manual]] labour. The
+[[Fisheries|fisheries]] are actively prosecuted along the coast by a hardy race of
+fishers, who were the first of their [[Craft|craft]] in Europe to pursue the
+whale, formerly abundant in the Bay of Biscay. [[Cod]], bream, tunny and
 anchovy are the principal fish taken. The fishing fleet consists of
 several hundred boats, manned by nearly 5000 men and boys. Biscay is
 very rich in minerals. Iron of the finest quality is found in almost
 every part, and forms a main article of export. At the beginning of the
 20th century an average of about 5,000,000 tons was produced every year,
 and many large foundries were at work. Lead and zinc are mined in much
-smaller quantities, alum and sulphur are also present, and marble, lime
+smaller quantities, alum and sulphur are also present, and [[Marble|marble]], lime
 and sandstone are abundant. Another very important industry is the
 manufacture of dynamite and other explosives at Baracaldo, closely
 connected with the mining interests. There are also potteries, paper,
@@ -63,7 +63,7 @@ Provinces, San Pedro de Tavira; Guernica (3250), a picturesque village
 on the river Mondaca, was until 1876 the meeting-place of the provincial
 parliament. The deputies assembled under an old oak-tree, celebrated by
 the Basque poet, José Maria Iparraguirre, in a song which is regarded by
-the Spanish Basques almost as a national anthem. For the history of the
+the Spanish [[Basques]] almost as a national anthem. For the history of the
 Basques, see BASQUE PROVINCES; for their origin, language and customs,
 see BASQUES. The inhabitants of Biscay are intelligent, enterprising and
 well-educated; and, owing to the uniformly high birth-rate, low

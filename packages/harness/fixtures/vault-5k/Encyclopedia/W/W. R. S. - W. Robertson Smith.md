@@ -14,11 +14,11 @@ York. Author of _Die Doppeleke des Landgrafen Philipp von Hessen_.
        *       *       *       *       *
 
 
-  PRINCIPAL UNSIGNED ARTICLES
+  [[Principal Unsigned Articles|PRINCIPAL UNSIGNED ARTICLES]]
 
-  Azo Compounds.
-  Azoimide.
-  Azores.
+  [[Azo]] [[Compound|Compounds]].
+  [[Azoimide]].
+  [[Azores]].
   Baader, F. X.
   Baber.
   Baby-Farming.
@@ -27,16 +27,16 @@ York. Author of _Die Doppeleke des Landgrafen Philipp von Hessen_.
   Baden: _Grand Duchy_.
   Badger.
   Badminton.
-  Bagatelle.
-  Bahamas.
+  [[Bagatelle]].
+  [[Bahamas]].
   Balaklava.
   Bale, John.
-  Baliol.
+  [[Baliol]].
   Ballet.
-  Ballot.
+  [[Ballot]].
   Balneotherapeutics.
   Bamboo.
-  Ban.
+  [[Ban]].
   Banana.
   Bank-notes.
   Barbados.
@@ -45,14 +45,14 @@ York. Author of _Die Doppeleke des Landgrafen Philipp von Hessen_.
   Barcelona.
   Barclay, Alexander.
   Barère de Vieuzac.
-  Barium.
+  [[Barium]].
   Barlaam and Josaphat.
   Barley.
   Barnes, William.
   Barometer.
   Barrister.
-  Barrow, Isaac.
-  Bastiat, F.
+  Barrow, [[Isaac]].
+  [[Bastiat]], F.
   Bastille.
   Baths.
   Battery.
@@ -60,50 +60,50 @@ York. Author of _Die Doppeleke des Landgrafen Philipp von Hessen_.
   Bautzen.
   Baxter, Richard.
   Bayard, P. T.
-  Bazaine.
-  Bean.
+  [[Bazaine]].
+  [[Bean]].
   Bear.
   Bear-Baiting and Bull-Baiting.
   Beaton.
-  Beaufort: _Family_.
+  [[Beaufort]]: _Family_.
   Beaufort, Henry.
-  Beaumarchais.
+  [[Beaumarchais]].
   Beaumont: _Family_.
   Becher.
   Beddoes, Thomas Lovell.
-  Bedford, Earls and Dukes of.
+  [[Bedford]], Earls and [[Dukes]] of.
   Bedfordshire.
   Bedouins.
   Beecher, Lyman.
-  Behar.
+  [[Behar]].
   Beheading.
   Béjart.
-  Belfast: _Ireland_.
+  [[Belfast]]: _Ireland_.
   Belfort: _Town_.
   Bell, Sir Charles.
   Belladonna.
-  Bellarmine.
+  [[Bellarmine]].
   Bellary.
-  Belle-Isle, C. L. A. F., Duc de.
+  [[Belle-Isle]], C. L. A. F., Duc de.
   Benares.
   Benedek.
   Benediction.
   Benefice.
   Benevolence.
-  Bengal.
+  [[Bengal]].
   Bengel.
   Benin.
   Benjamin (Judah Philip).
-  Benson (Archbishop of Canterbury).
+  [[Benson]] (Archbishop of Canterbury).
   Bentley, Richard.
   Benton.
   Benzaldehyde.
   Benzene.
   Benzoic Acid.
-  Berar.
+  [[Berar]].
   Berbers.
   Berengarius.
-  Beresford, Lord Charles.
+  [[Beresford]], Lord Charles.
   Beresford, Viscount.
   Bergen.
   Beri-Beri.
@@ -114,15 +114,15 @@ York. Author of _Die Doppeleke des Landgrafen Philipp von Hessen_.
   Bernhardt, Sarah.
   Bernouilli.
   Berthelot.
-  Berwick (Duke of).
-  Berwickshire.
+  [[Berwick]] (Duke of).
+  [[Berwickshire]].
   Berwick-upon-Tweed.
-  Beryllium.
+  [[Beryllium]].
   Besançon.
-  Bessemer, Sir Henry.
+  [[Bessemer]], Sir Henry.
   Bet and Betting.
   Betrothal.
-  Beyle.
+  [[Beyle]].
   Bézique.
   Bhagalpur.
   Bible Christians.
@@ -133,13 +133,13 @@ York. Author of _Die Doppeleke des Landgrafen Philipp von Hessen_.
   Bikanir.
   Bilaspur.
   Bilbao.
-  Billiards.
-  Binomial.
-  Birch.
+  [[Billiards]].
+  [[Binomial]].
+  [[Birch]].
   Birkenhead.
-  Birmingham.
+  [[Birmingham]].
   Birney, James G.
-  Biron, Armand de Gontaut.
+  Biron, Armand de [[Gontaut]].
   Birth.
   Biscay (Vizcaya).
 

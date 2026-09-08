@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-04T12:49:20.144Z",
+  "snapshotDate": "2026-09-07T04:08:02.016Z",
   "machine": {
     "platform": "darwin",
     "arch": "arm64",
-    "node": "v26.0.0",
-    "cpus": 10
+    "node": "v25.9.0",
+    "cpus": 16
   },
   "backend": {
     "name": "fs",
@@ -21,43 +21,43 @@
         {
           "op": "search",
           "target": "phlogiston",
-          "payloadBytes": 2789,
-          "payloadTokens": 741
+          "payloadBytes": 2790,
+          "payloadTokens": 750
         },
         {
           "op": "read",
           "target": "Sources/Combustion.md",
-          "payloadBytes": 3966,
-          "payloadTokens": 924
+          "payloadBytes": 4010,
+          "payloadTokens": 940
         },
         {
           "op": "read",
           "target": "Encyclopedia/C/Chemistry.md",
-          "payloadBytes": 416889,
-          "payloadTokens": 104141
+          "payloadBytes": 418664,
+          "payloadTokens": 104949
         },
         {
           "op": "read",
           "target": "Encyclopedia/K/Kirwan.md",
-          "payloadBytes": 3195,
-          "payloadTokens": 806
+          "payloadBytes": 3285,
+          "payloadTokens": 841
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 426839,
-      "totalPayloadTokens": 106612,
+      "totalPayloadBytes": 428749,
+      "totalPayloadTokens": 107480,
       "payloadStable": true,
       "latency": {
-        "coldMs": 79.490167,
+        "coldMs": 63.897458,
         "warm": {
           "n": 4,
-          "min": 67.351209,
-          "median": 68.418375,
-          "p90": 72.5655,
-          "p95": 72.5655,
-          "p99": 72.5655,
-          "max": 72.5655,
-          "mean": 69.96122925
+          "min": 53.894333,
+          "median": 54.258417,
+          "p90": 55.23125,
+          "p95": 55.23125,
+          "p99": 55.23125,
+          "max": 55.23125,
+          "mean": 54.6502605
         },
         "runs": 5
       }
@@ -70,43 +70,43 @@
         {
           "op": "search",
           "target": "Roman Empire",
-          "payloadBytes": 2809,
-          "payloadTokens": 751
+          "payloadBytes": 2812,
+          "payloadTokens": 755
         },
         {
           "op": "read",
           "target": "Reference/Empire.md",
-          "payloadBytes": 80108,
-          "payloadTokens": 19276
+          "payloadBytes": 80973,
+          "payloadTokens": 19637
         },
         {
           "op": "read",
           "target": "Sources/Macedonian Empire.md",
-          "payloadBytes": 71065,
-          "payloadTokens": 18931
+          "payloadBytes": 71812,
+          "payloadTokens": 19273
         },
         {
           "op": "read",
           "target": "Encyclopedia/H/Heroic Romances.md",
-          "payloadBytes": 9930,
-          "payloadTokens": 2576
+          "payloadBytes": 10083,
+          "payloadTokens": 2640
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 163912,
-      "totalPayloadTokens": 41534,
+      "totalPayloadBytes": 165680,
+      "totalPayloadTokens": 42305,
       "payloadStable": true,
       "latency": {
-        "coldMs": 36.9595,
+        "coldMs": 25.675916,
         "warm": {
           "n": 4,
-          "min": 32.526542,
-          "median": 32.591208,
-          "p90": 33.937375,
-          "p95": 33.937375,
-          "p99": 33.937375,
-          "max": 33.937375,
-          "mean": 33.0665835
+          "min": 22.7885,
+          "median": 22.861584,
+          "p90": 24.833958,
+          "p95": 24.833958,
+          "p99": 24.833958,
+          "max": 24.833958,
+          "mean": 23.46498975
         },
         "runs": 5
       }
@@ -119,43 +119,43 @@
         {
           "op": "search",
           "target": "church architecture nave",
-          "payloadBytes": 2831,
-          "payloadTokens": 775
+          "payloadBytes": 2834,
+          "payloadTokens": 766
         },
         {
           "op": "read",
           "target": "Reference/Church.md",
-          "payloadBytes": 31257,
-          "payloadTokens": 7356
+          "payloadBytes": 31663,
+          "payloadTokens": 7539
         },
         {
           "op": "read",
           "target": "0 Inbox/Basilica.md",
-          "payloadBytes": 42401,
-          "payloadTokens": 10927
+          "payloadBytes": 42876,
+          "payloadTokens": 11143
         },
         {
           "op": "read",
           "target": "Sources/Catholic Apostolic Church.md",
-          "payloadBytes": 13874,
-          "payloadTokens": 3471
+          "payloadBytes": 14191,
+          "payloadTokens": 3600
         }
       ],
       "calls": 4,
-      "totalPayloadBytes": 90363,
-      "totalPayloadTokens": 22529,
+      "totalPayloadBytes": 91564,
+      "totalPayloadTokens": 23048,
       "payloadStable": true,
       "latency": {
-        "coldMs": 29.424667,
+        "coldMs": 19.40925,
         "warm": {
           "n": 4,
-          "min": 27.457292,
-          "median": 27.885792,
-          "p90": 29.070166,
-          "p95": 29.070166,
-          "p99": 29.070166,
-          "max": 29.070166,
-          "mean": 28.34321875
+          "min": 17.469625,
+          "median": 18.079458,
+          "p90": 18.907292,
+          "p95": 18.907292,
+          "p99": 18.907292,
+          "max": 18.907292,
+          "mean": 18.20579175
         },
         "runs": 5
       }
@@ -168,8 +168,8 @@
         {
           "op": "search",
           "target": "ancient-rome MOC",
-          "payloadBytes": 2860,
-          "payloadTokens": 923
+          "payloadBytes": 2856,
+          "payloadTokens": 918
         },
         {
           "op": "read",
@@ -185,20 +185,20 @@
         }
       ],
       "calls": 3,
-      "totalPayloadBytes": 4046,
-      "totalPayloadTokens": 1355,
+      "totalPayloadBytes": 4042,
+      "totalPayloadTokens": 1350,
       "payloadStable": true,
       "latency": {
-        "coldMs": 11.703959,
+        "coldMs": 8.232542,
         "warm": {
           "n": 4,
-          "min": 11.104291,
-          "median": 11.35875,
-          "p90": 12.403958,
-          "p95": 12.403958,
-          "p99": 12.403958,
-          "max": 12.403958,
-          "mean": 11.644656000000001
+          "min": 6.7,
+          "median": 6.7165,
+          "p90": 7.350375,
+          "p95": 7.350375,
+          "p99": 7.350375,
+          "max": 7.350375,
+          "mean": 6.907770999999999
         },
         "runs": 5
       }

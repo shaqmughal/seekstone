@@ -9,12 +9,12 @@ id: 42-3045
 # Lac
 
 LAC, a resinous incrustation formed on the twigs and young branches of
-various trees by an insect, _Coccus lacca_, which infests them. The term
-lac (_laksha_, Sanskrit; _lakh_, Hindi) is the same as the numeral
+various trees by an [[Insect|insect]], _Coccus lacca_, which infests them. The term
+lac (_laksha_, Sanskrit; _lakh_, [[Hindi]]) is the same as the numeral
 lakh--a hundred thousand--and is indicative of the countless hosts of
 insects which make their appearance with every successive generation.
-Lac is a product of the East Indies, coming especially from Bengal,
-Pegu, Siam and Assam, and is produced by a number of trees of the
+Lac is a product of the East Indies, coming especially from [[Bengal]],
+Pegu, Siam and [[Assam]], and is produced by a number of trees of the
 species _Ficus_, particularly _F. religiosa_. The insect which yields it
 is closely allied to the cochineal insect, _Coccus cacti_; kermes, _C.
 ilicis_ and Polish grains, _C. polonicus_, all of which, like the lac
@@ -44,7 +44,7 @@ markets. Shellac varies in colour from a dark amber to an almost pure
 black; the palest, known as "orange-lac," is the most valuable; the
 darker varieties--"liver-coloured," "ruby," "garnet," &c.--diminish in
 value as the colour deepens. Shellac may be bleached by dissolving it in
-a boiling lye of caustic potash and passing chlorine through the
+a boiling [[Lye|lye]] of caustic potash and passing [[Chlorine|chlorine]] through the
 solution till all the resin is precipitated, the product being known as
 white shellac. Bleached lac takes light delicate shades of colour, and
 dyed a golden yellow it is much used in the East Indies for working into

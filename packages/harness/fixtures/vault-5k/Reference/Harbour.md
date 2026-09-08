@@ -6,12 +6,12 @@ topic: science
 
 # Harbour
 
-HARBOUR (from M. E. _hereberge_, _here_, an army; cf. Ger. _Heer_ and
+HARBOUR (from M. E. _hereberge_, _here_, an army; cf. Ger. _[[Heer]]_ and
 -_beorg_, protection or shelter. Other early forms in English were
 _herberwe_ and _harborow_, as seen in various place names, such as
 Market Harborough. The French _auberge_, an inn, derived through
 _heberger_, is thus the same word), a place of refuge or shelter. It is
-thus used for an asylum for criminals, and particularly for a place of
+thus used for an [[Asylum|asylum]] for criminals, and particularly for a place of
 shelter for ships.
 
 Sheltered sites along exposed sea-coasts are essential for purposes of
@@ -19,7 +19,7 @@ trade, and very valuable as refuges for vessels from storms. In a few
 places, natural shelter is found in combination with ample depth, as in
 the Bay of Rio de Janeiro, New York Harbour (protected by Long Island),
 Portsmouth Harbour and Southampton Water (sheltered by the Isle of
-Wight), and the land-locked creeks of Milford Haven and Kiel Harbour. At
+Wight), and the land-locked [[Creek|creeks]] of Milford Haven and Kiel Harbour. At
 various places there are large enclosed areas which have openings into
 the sea; but these lagoons for the most part are very shallow except in
 the main channels and at their outlets. Access to them is generally
@@ -40,7 +40,7 @@ harbours have to be provided for the formation of ports within their
 shelter on important trade routes, or for the protection of the
 approaches from the sea of ports near the sea-coast, or maritime
 waterways running inland, in some cases at points on the coast devoid of
-all natural shelter. A greater latitude in the selection of suitable
+all natural shelter. A greater [[Latitude|latitude]] in the selection of suitable
 sites is, indeed, possible for refuge and naval harbours than for
 commercial harbours; but these three classes of harbours are very
 similar in their general outline and the works protecting them, only
@@ -72,7 +72,7 @@ breakwaters, including refuge, naval and commercial harbours.
   the issuing current through these outlet channels becoming gradually
   too enfeebled, on entering the open sea, to overcome the heaping-up
   action of the waves along the shore, which tends to form a continuous
-  beach across these openings. Rivers, accordingly, whose discharge is
+  [[Beach|beach]] across these openings. Rivers, accordingly, whose discharge is
   very valuable in maintaining a lagoon if their waters are free from
   sediment, must, if possible, be diverted from a lagoon if they bring
   down large amounts of silt; whilst the narrow belt of land in front of
@@ -87,7 +87,7 @@ breakwaters, including refuge, naval and commercial harbours.
 
   _Jetty Harbours._--Several small ports were formed on the sea-coast
   long ago at points where flat marshy ground lying below the level of
-  high-water, and shut off from the sandy beach by dikes or sand dunes,
+  high-water, and shut off from the sandy beach by [[Dike|dikes]] or sand dunes,
   was connected with the sea by a small creek or river. Such ports
   presented in their original condition a slight resemblance to lagoons
   on a very small scale. Several examples are to be found on the sandy
@@ -101,10 +101,10 @@ breakwaters, including refuge, naval and commercial harbours.
   prolonged by erecting parallel jetties across the beach, raised solid
   to a little above low water of neap tides, with open timber-work above
   to indicate the channel and guide the vessels. Even this low
-  obstruction, however, to the littoral drift of sand caused an advance
+  obstruction, however, to the littoral [[Drift|drift]] of sand caused an advance
   of the low water line as the jetties were carried out, so that further
   extensions of the jetties had eventually to be abandoned, as occurred
-  at Dunkirk (see DOCK). Moreover, reclamation of the low-lying areas
+  at Dunkirk (see [[Dock|DOCK]]). Moreover, reclamation of the low-lying areas
   was gradually effected, thus reducing the tidal scour; and sluicing
   basins were excavated in part of the low ground, into which the tide
   flowed through the entrance channel, and the water being shut in at
@@ -122,7 +122,7 @@ breakwaters, including refuge, naval and commercial harbours.
   were formed on the site of the sluicing basin; whilst at Calais
   sluicing was abandoned in favour of dredging. Ostend is the only jetty
   harbour in which a large sluicing basin has been recently constructed,
-  but it can only provide for the maintenance of deep-water quays in its
+  but it can only provide for the [[Maintenance|maintenance]] of deep-water quays in its
   vicinity; and dredging is relied upon to an increasing extent, both
   for the maintenance and further deepening of the outer portion of the
   approach channel, and for maintaining the direct channel dredged to
@@ -131,7 +131,7 @@ breakwaters, including refuge, naval and commercial harbours.
 
   Similar methods of improving the entrance channel to ports possessing
   an extensive backwater have been adopted on a large scale in the
-  United States. For instance at Charleston, converging jetties, about
+  United States. For instance at [[Charleston]], converging jetties, about
   2-3/4 m. long, have been extended across the bar to concentrate the
   scour due to a small tidal range expanding over the enclosed
   backwater, 15 sq. m. in extent, and to protect the channel from
@@ -170,7 +170,7 @@ breakwaters, including refuge, naval and commercial harbours.
   placed somewhat farther out is made to overlap an inner one, a more
   sheltered entrance is obtained. This arrangement has been adopted at
   the existing Genoa harbour within the bay (fig. 3), and for the
-  harbour at the mouth of the Nervion (see RIVER ENGINEERING). The
+  harbour at the mouth of the Nervion (see RIVER [[Engineering|ENGINEERING]]). The
   adoption of a bay with deep water for a harbour does not merely reduce
   the shelter to be provided artificially, but it also secures a site
   not exposed to silting up, and where the sheltering works do not
@@ -180,7 +180,7 @@ breakwaters, including refuge, naval and commercial harbours.
   one shore for 3250 ft. across the outlet of the bay, leaving a single
   entrance between its extremity and the opposite shore and enclosing an
   area of about 250 acres at low tide, half of which has a depth of over
-  5 fathoms.
+  5 [[Fathom|fathoms]].
 
   [Illustration: FIG. 4.--Peterhead Harbour of Refuge.]
 
@@ -191,7 +191,7 @@ breakwaters, including refuge, naval and commercial harbours.
   the site, and there is more or less shelter from a projecting headland
   or a curve of the coast in the opposite direction, a single breakwater
   extending out at right angles to the shore, with a slight curve or
-  bend inwards near its outer end, suffices to afford the necessary
+  [[Bend|bend]] inwards near its outer end, suffices to afford the necessary
   shelter. As examples of this form of harbour construction may be
   mentioned Newhaven breakwater, protecting the approach to the port
   from the west, and somewhat sheltered from the moderate easterly
@@ -200,7 +200,7 @@ breakwaters, including refuge, naval and commercial harbours.
   side by the wide sweep of the coast-line known as Table Bay.
   Generally, however, some partial embayment, or abrupt projection from
   the coast, is utilized as providing shelter from one quarter, which is
-  completed by breakwaters enclosing the site, of which Dover and
+  completed by breakwaters enclosing the site, of which [[Dover]] and
   Colombo (fig. 5) harbours furnish typical and somewhat similar
   examples.
 
@@ -245,7 +245,7 @@ breakwaters, including refuge, naval and commercial harbours.
   years; and though the progress seawards of the lines of soundings
   close to and in front of the harbour continues, the advance is checked
   by the sand and silt coming from the west passing through some
-  apertures purposely left in the western breakwater, and falling into
+  [[Aperture|apertures]] purposely left in the western breakwater, and falling into
   the approach channel, from which it is readily dredged and taken away.
   Madras harbour, begun in 1875, consists of two breakwaters, 3000 ft.
   apart, carried straight out to sea at right angles to the shore for

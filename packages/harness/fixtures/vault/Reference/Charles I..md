@@ -1,7 +1,7 @@
 # Charles I.
 
 CHARLES I. (1600-1649), king of Great Britain and Ireland, second son of
-James I. and Anne of Denmark, was born at Dunfermline on the 19th of
+James I. and [[Anne]] of [[Denmark]], was born at [[Dunfermline]] on the 19th of
 November 1600. At his baptism he was created duke of Albany, and on the
 16th of January 1605 duke of York. In 1612, by the death of his elder
 brother Henry, he became heir-apparent, and was created prince of Wales
@@ -21,7 +21,7 @@ of February, arriving at Paris on the 21st and at Madrid on the 7th of
 March, where they assumed the unromantic names of Mr Smith, and Mr
 Brown. They found the Spanish court by no means enthusiastic for the
 marriage[1] and the princess herself averse. The prince's immediate
-conversion was expected, and a complete religious tolerance for the
+[[Conversion|conversion]] was expected, and a complete religious tolerance for the
 Roman Catholics in England demanded. James engaged to allow the infanta
 the right of public worship and to use his influence to modify the law,
 but Charles himself went much further. He promised the alteration of the
@@ -33,7 +33,7 @@ and Charles was informed that his wife could only follow him to England
 when these promises were executed. Moreover, they had no intention
 whatever of aiding the Protestant Frederick. Meanwhile Buckingham,
 incensed at the failure of the expedition, had quarrelled with the
-grandees, and Charles left Madrid, landing at Portsmouth on the 5th of
+[[Grandee|grandees]], and Charles left Madrid, landing at Portsmouth on the 5th of
 October, to the joy of the people, to whom the proposed alliance was
 odious. He now with Buckingham urged James to make war on Spain, and in
 December 1624 signed a marriage treaty with Henrietta Maria, daughter of
@@ -55,11 +55,11 @@ on the 18th his first parliament assembled. On the day of his marriage
 Charles had given directions that the prosecutions of the Roman
 Catholics should cease, but he now declared his intention of enforcing
 the laws against them, and demanded subsidies for carrying on the war
-against Spain. The Commons, however, responded coldly. Charles had lent
-ships to Louis XIII. to be used against the Protestants at La Rochelle,
+against Spain. The Commons, however, responded coldly. Charles had [[Lent|lent]]
+ships to Louis XIII. to be used against the Protestants at [[La Rochelle]],
 and the Commons were not aware of the subterfuges and fictitious delays
 intended to prevent their employment. The Protestant feelings of the
-Commons were also aroused by the king's support of the royal chaplain,
+Commons were also aroused by the king's support of the royal [[Chaplain|chaplain]],
 Richard Montagu, who had repudiated Calvinistic doctrine. They only
 voted small sums, and sent up a petition on the state of religion and
 reflecting upon Buckingham, whom they deemed responsible for the failure
@@ -68,27 +68,27 @@ they could trust. Parliament was accordingly dissolved by Charles on the
 12th of August. He hoped that greater success abroad would persuade the
 Commons to be more generous. On the 8th of September 1625 he made the
 treaty of Southampton with the Dutch against Spain, and sent an
-expedition to Cadiz under Sir Edward Cecil, which, however, was a
+expedition to [[Cadiz]] under Sir Edward [[Cecil]], which, however, was a
 failure. In order to make himself independent of parliament he attempted
-to raise money on the crown jewels in Holland, and to diminish the
+to raise money on the crown [[Jewel|jewels]] in Holland, and to diminish the
 opposition in the Commons he excluded the chief leaders by appointing
 them sheriffs. When the second parliament met, however, on the 6th of
-February 1626, the opposition, led by Sir John Eliot, was more
+February 1626, the opposition, led by Sir John [[Eliot]], was more
 determined than before, and their attack was concentrated upon
 Buckingham. On the 29th of March, Charles, calling the Commons into his
 presence, accused them of leading him into the war and of taking
-advantage of his difficulties to "make their own game." "I pray you not
+advantage of his difficulties to "make their own [[Game|game]]." "I pray you not
 to be deceived," he said, "it is not a parliamentary way, nor 'tis not a
 way to deal with a king. Remember that parliaments are altogether in my
 power for their calling, sitting, and dissolution; therefore as I find
 the fruits of them good or evil, they are to continue or not to be."
 Charles, however, was worsted in several collisions with the two houses,
 with a consequent loss of influence. He was obliged by the peers to set
-at liberty Thomas Howard, earl of Arundel, whom he had put into the
-Tower, and to send a summons to the earl of Bristol, whom he had
+at liberty Thomas [[Howard]], earl of Arundel, whom he had put into the
+Tower, and to send a summons to the earl of [[Bristol]], whom he had
 attempted to exclude from parliament, while the Commons compelled him,
 with a threat of doing no business, to liberate Eliot and Digges, the
-managers of Buckingham's impeachment, whom he had imprisoned. Finally in
+managers of Buckingham's [[Impeachment|impeachment]], whom he had imprisoned. Finally in
 June the Commons answered Charles's demand for money by a remonstrance
 asking for Buckingham's dismissal, which they decided must precede the
 grant of supply. They claimed responsible ministers, while Charles
@@ -112,7 +112,7 @@ Buckingham's unpopularity prevented support being given to the
 expedition, and the duke returned to Plymouth on the 11th of November
 completely defeated. Meanwhile Charles had endeavoured to get the money
 refused to him by parliament by means of a forced loan, dismissing Chief
-Justice Crewe for declining to support its legality, and imprisoning
+Justice [[Crewe]] for declining to support its legality, and imprisoning
 several of the leaders of the opposition for refusing to subscribe to
 it. These summary measures, however, only brought a small sum into the
 treasury. On the 2nd of January 1628 Charles ordered the release of all
@@ -120,10 +120,10 @@ the persons imprisoned, and on the 17th of March summoned his third
 parliament.
 
 Instead of relieving the king's necessities the Commons immediately
-proceeded to discuss the constitutional position and to formulate the
+proceeded to [[Discus|discuss]] the constitutional position and to formulate the
 Petition of Right, forbidding taxation without consent of parliament,
-arbitrary and illegal imprisonment, compulsory billeting in private
-houses, and martial law. Charles, on the 1st of May, first demanded that
+arbitrary and illegal imprisonment, compulsory [[Billeting|billeting]] in private
+houses, and [[Martial|martial]] law. Charles, on the 1st of May, first demanded that
 they should "rest on his royal word and promise." He obtained an opinion
 from the judges that the acceptance of the petition would not absolutely
 preclude in certain cases imprisonments without showing cause, and after
@@ -143,16 +143,16 @@ forbidden the clergy to continue the controversy concerning Calvinistic
 and Arminian doctrines, the latter of which the parliament desired to
 suppress. While they were discussing these matters, on the 2nd of March
 1629, the king ordered them to adjourn, but amidst a scene of great
-excitement the speaker, Sir John Finch, was held down in his chair and
+excitement the speaker, Sir John [[Finch]], was held down in his chair and
 the doors were locked, whilst resolutions against innovations in
 religion and declaring those who levied or paid tonnage and poundage
 enemies to their country were passed. Parliament was immediately
 dissolved, and Charles imprisoned nine members, leaders of the
-opposition, Eliot, Holles, Strode, Selden, Valentine, Coryton, Heyman,
-Hobart and Long, his vengeance being especially shown in the case of
+opposition, Eliot, [[Holles]], Strode, Selden, Valentine, Coryton, Heyman,
+[[Hobart]] and Long, his vengeance being especially shown in the case of
 Eliot, the most formidable of his opponents, who died in the Tower of
 consumption after long years of close and unhealthy confinement, and
-whose corpse even Charles refused to give up to his family.
+whose [[Corpse|corpse]] even Charles refused to give up to his family.
 
 For eleven years Charles ruled without parliaments and with some
 success. There seemed no reason to think that "that noise," to use
@@ -162,7 +162,7 @@ the payment of tonnage and poundage, and while avoiding the taxes,
 loans, and benevolences forbidden by the petition of right, by
 monopolies, fines for knighthood, and for pretended encroachments on the
 royal domains and forests, which enabled the king to meet expenditure at
-home. In Ireland, Charles, in order to get money, had granted the Graces
+home. In Ireland, Charles, in order to get money, had granted the [[Graces]]
 in 1628, conceding security of titles of more than sixty years'
 standing, and a more moderate oath of allegiance for the Roman
 Catholics, together with the renunciation of the shilling fine for
@@ -191,7 +191,7 @@ In 1634 Charles levied ship-money from the seaport towns for the
 increase of the navy, and in 1635 the tax was extended to the inland
 counties, which aroused considerable opposition. In February 1637
 Charles obtained an opinion in favour of his claims from the judges, and
-in 1638 the great Hampden case was decided in his favour. The apparent
+in 1638 the great [[Hampden]] case was decided in his favour. The apparent
 success, however, of Charles was imperilled by the general and growing
 resentment aroused by his exactions and whole policy, and this again was
 small compared with the fears excited by the king's attitude towards
@@ -210,7 +210,7 @@ sentences passed upon the Puritans.
 
 The same imprudent neglect of the national sentiment was pursued in
 Scotland. Charles had already made powerful enemies there by a
-declaration announcing the arbitrary revocation of former church estates
+[[Declaration|declaration]] announcing the arbitrary revocation of former church estates
 to the crown. On the 18th of June 1633 he was crowned at Edinburgh with
 full Anglican ceremonial, which lost him the hearts of numbers of his
 Scottish subjects and aroused hostility to his government in parliament.
@@ -227,26 +227,26 @@ followed its first use in St Giles' cathedral on the 23rd of July, and
 Charles's order to enforce it on the 10th of September was met by fresh
 disturbances and by the establishment of the "Tables," national
 committees which now became the real though informal government of
-Scotland. In 1638 the national covenant was drawn up, binding those that
+Scotland. In 1638 the national [[Covenant|covenant]] was drawn up, binding those that
 signed it to defend their religion to the death, and was taken by large
-numbers with enthusiasm all over the country. Charles now drew back,
+numbers with [[Enthusiasm|enthusiasm]] all over the country. Charles now drew back,
 promised to enforce the canons and prayer-book only in a "fair and legal
 way," and sent the marquis of Hamilton as a mediator. The latter,
 however, a weak and incapable man, desirous of popularity with all
 parties, and unfaithful to the king's interests, yielded everything,
 without obtaining the return of Charles's subjects to their allegiance.
-The assembly met at Glasgow on the 21st of November, and in spite of
+The assembly met at [[Glasgow]] on the 21st of November, and in spite of
 Hamilton's opposition immediately proceeded to judge the bishops. On the
 28th Hamilton dissolved it, but it continued to sit, deposed the bishops
 and re-established Presbyterianism. The rebellion had now begun, and an
 appeal to arms alone could decide the quarrel between Charles and his
-subjects. On the 28th of May 1639 he arrived at Berwick with a small and
+subjects. On the 28th of May 1639 he arrived at [[Berwick]] with a small and
 ill-trained force, thus beginning what is known as the first Bishops'
 War; but being confronted by the Scottish army at Duns Law, he was
 compelled to sign the treaty of Berwick on the 18th of June, which
 provided for the disbandment of both armies and the restitution to the
 king of the royal castles, referring all questions to a general assembly
-and a parliament. When the assembly met it abolished episcopacy, but
+and a parliament. When the assembly met it abolished [[Episcopacy|episcopacy]], but
 Charles, who on the 3rd of August had returned to Whitehall, refused his
 consent to this and to other measures proposed by the Scottish
 parliament. His extreme financial necessities, and the prospect of
@@ -267,7 +267,7 @@ so-called second Bishops' War, defeated the king's army at Newburn on
 the 28th, and subsequently occupied Newcastle and Durham. Charles at
 this juncture, on the 24th of September, summoned a great council of the
 peers; and on the 21st of October a cessation of arms was agreed to by
-the treaty of Ripon, the Scots receiving L850 a day for the maintenance
+the treaty of Ripon, the Scots receiving L850 a day for the [[Maintenance|maintenance]]
 of the army, and further negotiations being transferred to London. On
 the 3rd of November the king summoned the Long Parliament.
 
@@ -300,7 +300,7 @@ immediately. Charles took no steps to hinder the progress of the
 proceedings against him, but entered into schemes for saving him by
 bringing up an army to London, and this step exasperated Strafford's
 enemies and added new zeal to the prosecution. On the 23rd of April,
-after the passing of the attainder by the Commons, he repeated to
+after the passing of the [[Attainder|attainder]] by the Commons, he repeated to
 Strafford his former assurances of protection. On the 1st of May he
 appealed to the Lords to spare his life and be satisfied with rendering
 him incapable of holding office. On the 2nd he made an attempt to seize
@@ -345,7 +345,7 @@ in which, after reciting the chief points of the king's misgovernment,
 the parliament demanded the appointment of acceptable ministers and the
 constitution of an assembly of divines to settle the religious question.
 On the 2nd of January 1642 Charles gave office to the opposition members
-Colepeper and Falkland, and at the same time Hyde left the opposition
+[[Colepeper]] and Falkland, and at the same time Hyde left the opposition
 party to serve the king. Charles promised to take no serious step
 without their advice. Nevertheless, entirely without their knowledge,
 through the influence of the queen whose impeachment was intended,
@@ -361,7 +361,7 @@ and were known to the offending members, who, by order of the House, had
 taken refuge in the city before the king's arrival with the soldiers.
 Charles, on entering the House, found "the birds flown," and returned
 baffled, having thrown away the last chance of a peaceful settlement
-(see LENTHALL, WILLIAM). The next day Charles was equally unsuccessful
+(see [[Lenthall|LENTHALL]], WILLIAM). The next day Charles was equally unsuccessful
 in obtaining their surrender in the city. "The king had the worst day in
 London yesterday," wrote a spectator of the scene, "that ever he had,
 the people crying 'privilege of parliament' by thousands and prayed God
@@ -371,23 +371,23 @@ manifestations of hostility, Charles left Whitehall to prepare for war,
 destined never to return till he was brought back by his victorious
 enemies to die.
 
-Several months followed spent in manoeuvres to obtain the control of the
+Several months followed spent in [[Manoeuvres|manoeuvres]] to obtain the control of the
 forces and in a paper war of controversy. On the 23rd of April Charles
-was refused entry into Hull, and on the 2nd of June the parliament sent
+was refused entry into [[Hull]], and on the 2nd of June the parliament sent
 to him the "Nineteen Propositions," claiming the whole sovereignty and
 government for the parliament, including the choice of the ministers,
 the judges, and the control of the army, and the execution of the laws
 against the Roman Catholics. The military events of the war are
-described in the article GREAT REBELLION. On the 22nd of August the king
+described in the article [[Great Rebellion|GREAT REBELLION]]. On the 22nd of August the king
 set up his standard at Nottingham, and on the 23rd of October he fought
 the indecisive battle of Edgehill, occupying Oxford and advancing as far
-as Brentford. It seemed possible that the war might immediately be ended
+as [[Brentford]]. It seemed possible that the war might immediately be ended
 by Charles penetrating to the heart of the enemy's position and
 occupying London, but he drew back on the 13th of November before the
 parliamentary force at Turnham Green, and avoided a decisive contest.
 
 Next year (1643) another campaign, for surrounding instead of
-penetrating into London, was projected. Newcastle and Hopton were to
+penetrating into London, was projected. Newcastle and [[Hopton]] were to
 advance from the north and west, seize the north and south banks of the
 river below the city, destroy its commerce, and combine with Charles at
 Oxford. The royalist force, however, in spite of victories at Adwalton
@@ -396,7 +396,7 @@ combining with Charles, Newcastle in the north being kept back by the
 Eastern Association and the presence of the enemy at Hull, and Hopton in
 the west being detained by their successful holding out at Plymouth.
 Being too weak to attempt anything alone against London, Charles marched
-to besiege Gloucester, Essex following him and relieving the place.
+to besiege Gloucester, [[Essex]] following him and relieving the place.
 Subsequently the rival forces fought the indecisive first battle of
 Newbury, and Charles failed in preventing the return of Essex to London.
 Meanwhile on the 1st of February the parliament had submitted proposals
@@ -416,11 +416,11 @@ the parliament, the parliament taking the Solemn League and Covenant on
 the 25th of September 1643, and the Scottish army crossing the border on
 the 19th of January 1644. No attempt was this year made against London,
 and Rupert was sent to Newcastle's succour in the north, where the great
-disaster of Marston Moor on the 2nd of July ruined Charles's last
+disaster of [[Marston]] Moor on the 2nd of July ruined Charles's last
 chances in that quarter. Meanwhile Charles himself had defeated Waller
 at Cropredy Bridge on the 29th of June, and he subsequently followed
 Essex to the west, compelling the surrender of Essex's infantry at
-Lostwithiel on the 2nd of September. With an ill-timed leniency he
+[[Lostwithiel]] on the 2nd of September. With an ill-timed leniency he
 allowed the men to go free after giving up their stores and arms, and on
 his return towards Oxford he was confronted again by Essex's army at
 Newbury, combined now with that of Waller and of Manchester. Charles
@@ -437,10 +437,10 @@ advice, and considered it a point of honour "neither to abandon God's
 cause, injure my successors, nor forsake my friends." His chief hope was
 to join Montrose in Scotland, but his march north was prevented by the
 parliamentary forces, and on the 24th of September he witnessed from the
-walls of Chester the rout of his followers at Rowton Heath. He now
+walls of [[Chester]] the rout of his followers at Rowton Heath. He now
 entered into a series of intrigues, mutually destructive, which,
 becoming known to the different parties, exasperated all and diminished
-still further the king's credit. One proposal was the levy of a foreign
+still further the king's [[Credit|credit]]. One proposal was the [[Levy|levy]] of a foreign
 force to reduce the kingdom; another, the supply through the marquis of
 Ormonde of 10,000 Irish. Correspondence relating to these schemes,
 fatally compromising as they were if Charles hoped ever to rule England
@@ -479,13 +479,13 @@ the 3rd of June 1647, by Cornet Joyce under instructions of the army,
 which soon afterwards occupied London and overpowered the parliament,
 placing Charles at Hampton Court.
 
-If Charles could have remained firm to either one or the other faction,
+If Charles could have remained firm to either one or the other [[Faction|faction]],
 and have made concessions either to Presbyterianism or on the subject of
 the militia, he might even now have prevailed. But he had learned
 nothing by experience, and continued at this juncture his characteristic
 policy of intrigue and double-dealing, "playing his game," to use his
 own words, negotiating with both parties at once, not with the object or
-wish to arrive at a settlement with either, but to augment their
+wish to arrive at a settlement with either, but to [[Augment|augment]] their
 disputes, gain time and profit ultimately by their divisions. The "Heads
 of the Proposals," submitted to Charles by the army on the 28th of July
 1647, were terms conceived on a basis far broader and more statesmanlike
@@ -493,16 +493,16 @@ than the Newcastle Propositions, and such as Charles might well have
 accepted. The proposals on religion anticipated the Toleration Act of
 1689. There was no mention of episcopacy, and its existence was thereby
 indirectly admitted, but complete religious freedom for all Protestant
-denominations was provided, and the power of the church to inflict civil
+[[Denomination|denominations]] was provided, and the power of the church to inflict civil
 penalties abolished, while it was also suggested that dangers from Roman
-Catholics and Jesuits might be avoided by means other than enforcing
+Catholics and [[Jesuits]] might be avoided by means other than enforcing
 attendance at church. The parliament was to dissolve itself and be
 succeeded by biennial assemblies elected on a reformed franchise, not to
 be dissolved without their own consent before 120 days, and not to sit
 more than 240 days in the two years. A council of state was to conduct
 the foreign policy of the state and conclude peace and war subject to
 the approval of parliament, and to control the militia for ten years,
-the commanders being appointed by parliament, as also the officers of
+the [[Commander|commanders]] being appointed by parliament, as also the officers of
 state for ten years. No peer created since May the 21st, 1642, was to
 sit in parliament without consent of both Houses, and the judicial
 decisions of the House of Lords were to be ratified by the Commons. Only
@@ -511,14 +511,14 @@ office for five years and not to sit in the Commons till the end of the
 second biennial parliament. Proposals for a series of reforms were also
 added. Charles, however, was at the same time negotiating with
 Lauderdale for an invasion of England by the Scots, and imagined he
-could win over Cromwell and Fairfax by "proffers of advantage to
+could win over [[Cromwell]] and [[Fairfax]] by "proffers of advantage to
 themselves." The precious opportunity was therefore allowed to slip by.
 On the 9th of September he rejected the proposals of the parliament for
 the establishment of Presbyterianism. His hopes of gaining advantages by
 playing upon the differences of his opponents proved a complete failure.
 Fresh terms were drawn up by the army and parliament together on the
 10th of November, but before these could be presented, Charles, on the
-11th, had escaped to Carisbrooke Castle in the Isle of Wight. Thence on
+11th, had escaped to [[Carisbrooke]] Castle in the Isle of Wight. Thence on
 the 16th he sent a message offering Presbyterianism for three years and
 the militia for his lifetime to the parliament, but insisting on the
 maintenance of episcopacy. On the 28th of December he refused his assent
@@ -574,7 +574,7 @@ treaty. On the 16th of November the council of officers demanded the
 trial of the king, "the capital and grand author of our troubles," and
 on the 27th of November the parliamentary commissioners returned from
 Newport without having secured Charles's consent. Charles was removed to
-Hurst Castle on the 1st of December, where he remained till the 19th,
+[[Hurst]] Castle on the 1st of December, where he remained till the 19th,
 thence being taken to Windsor, where he arrived on the 23rd. On the 6th
 "Pride's Purge" had removed from the Commons all those who might show
 any favour to the king. On the 25th a last attempt by the council of
@@ -617,7 +617,7 @@ Expect what justice other people will have."
 In these last hours Charles, who was probably weary of life, showed a
 remarkable dignity and self-possession, and a firm resignation supported
 by religious faith and by the absolute conviction of his own innocence,
-which, says Burnet, "amazed all people and that so much the more because
+which, says [[Burnet]], "amazed all people and that so much the more because
 it was not natural to him. It was imputed to a very extraordinary
 measure of supernatural assistance....; it was owing to something within
 himself that he went through so many indignities with so much true
@@ -665,19 +665,19 @@ the re-establishment of settled government than his life could have
 been. The result was an extraordinary revulsion of feeling in favour of
 Charles and the monarchy, in which the incidents of his misgovernment
 were completely forgotten. He soon became in the popular veneration a
-martyr and a saint. His fate was compared with the Crucifixion, and his
+martyr and a saint. His [[Fate|fate]] was compared with the Crucifixion, and his
 trials and sufferings to those of the Saviour. Handkerchiefs dipped in
 his blood wrought "miracles," and the _Eikon Basilike_, published on the
 day of his funeral, presented to the public a touching if not a genuine
 portrait of the unfortunate sovereign. At the Restoration the
-anniversary of his death was ordered to be kept as a day of fasting and
+anniversary of his death was ordered to be kept as a day of [[Fasting|fasting]] and
 humiliation, and the service appointed for use on the occasion was only
 removed from the prayer-book in 1859. The same conception of Charles as
 a martyr for religion appeals still to many, and has been stimulated by
 modern writers. "Had Charles been willing to abandon the church and give
 up episcopacy," says Bishop Creighton, "he might have saved his throne
 and his life. But on this point Charles stood firm, for this he died and
-by dying saved it for the future."[6] Gladstone, Keble, Newman write in
+by dying saved it for the future."[6] Gladstone, [[Keble]], Newman write in
 the same strain. "It was for the Church," says Gladstone, "that Charles
 shed his blood upon the scaffold."[7] "I rest," says Newman, "on the
 scenes of past years, from the Upper Room in Acts to the Court of
@@ -704,7 +704,7 @@ most arbitrary rule, and the downfall of the church seen to make room
 only for a sectarian despotism as intolerable as the Laudian. The
 natural inference might be that both conceptions of government had much
 to support them, that they were bound sooner or later to come into
-collision, and that the actual individuals in the drama, including the
+collision, and that the actual individuals in the [[Drama|drama]], including the
 king himself, were rather the victims of the greatness of events than
 real actors in the scene, still less the controllers of their own and
 the national destiny. A closer insight, however, shows that biographical
@@ -715,7 +715,7 @@ principles vital to the national interests, would not alone have
 sufficed to destroy Charles. Monarchy was too much venerated, was too
 deeply rooted in the national life, to be hastily and easily extirpated;
 the perils of removing the foundation of all government, law and order
-were too obvious not to be shunned at almost all costs. Still less can
+were too obvious not to be shunned at almost all [[Costs|costs]]. Still less can
 the crowning tragedy of the king's death find its real explanation or
 justification in these disputes and antagonisms. The real cause was the
 complete discredit into which Charles had brought himself and the
@@ -726,11 +726,11 @@ by subjects with a king endowed with the enormous powers then attached
 to the kingship, and with whom agreements, promises, negotiations were
 merely subterfuges and prevarications. We have seen the series of
 unhappy falsehoods and deceptions which constituted Charles's
-statecraft, beginning with the fraud concerning the concessions to the
+statecraft, beginning with the [[Fraud|fraud]] concerning the concessions to the
 Roman Catholics at his marriage, the evasions with which he met the
 Petition of Right, the abandonment of Strafford, the simultaneous
 negotiation with, and betrayal of, all parties. Strafford's reported
-words on hearing of his desertion by Charles, "Put not your trust in
+words on hearing of his [[Desertion|desertion]] by Charles, "Put not your trust in
 princes," re-echo through the whole of Charles's reign. It was the
 degradation and dishonour of the kingship, and the personal loss of
 credit which Charles suffered through these transactions--which never
@@ -741,25 +741,25 @@ execution. The constitutional and religious grievances were the outward
 and visible sign of the corroding suspicions which slowly consumed the
 national loyalty. In themselves there was nothing incapable of
 settlement either through the spirit of union which existed between
-Elizabeth and her subjects, or by the principle of compromise which
+Elizabeth and her subjects, or by the principle of [[Compromise|compromise]] which
 formed the basis of the constitutional settlement in 1688. The bond of
 union between his people and himself Charles had, however, early broken,
 and compromise is only possible between parties both of whom can
 acknowledge to some extent the force of the other's position, which can
 trust one another, and which are sincere in their endeavour to reach
 agreement. Thus on Charles himself chiefly falls the responsibility for
-the catastrophe.
+the [[Catastrophe|catastrophe]].
 
 His character and motives fill a large place in English history, but
 they have never been fully understood and possibly were largely due to
 physical causes. His weakness as a child was so extreme that his life
 was despaired of. He outgrew physical defects, and as a young man
-excelled in horsemanship and in the sports of the times, but always
+excelled in [[Horsemanship|horsemanship]] and in the sports of the times, but always
 retained an impediment of speech. At the time of his accession his
 reserve and reticence were especially noticed. Buckingham was the only
 person who ever enjoyed his friendship, and after his death Charles
 placed entire confidence in no man. This isolation was the cause of an
-ignorance of men and of the world, and of an incapacity to appreciate
+[[Ignorance|ignorance]] of men and of the world, and of an incapacity to appreciate
 the ideas, principles and motives of others, while it prepared at the
 same time a fertile soil for receiving those exalted conceptions of
 kingship, of divine right and prerogative, which came into vogue at this
@@ -773,7 +773,7 @@ differed widely from his son's unblushing deceit, which found always
 some reservation or excuse, but which while more scrupulous was also
 more dangerous and insidious because employed continually as a principle
 of conduct. Yet Charles, in spite of his failings, had many fine
-qualities. Clarendon, who was fully conscious of them, who does not
+qualities. [[Clarendon]], who was fully conscious of them, who does not
 venture to call him a good king, and allows that "his kingly virtues had
 some mixture and alloy that hindered them from shining in full lustre,"
 declares that "he was if ever any, the most worthy of the title of an
@@ -788,9 +788,9 @@ successful son. His private life was without a blemish. Immediately on
 his accession he had suppressed the disorder which had existed in the
 household of James I., and let it be known that whoever had business
 with him "must never approach him by backstairs or private doors."[8] He
-maintained a strict sobriety in food and dress. He had a fine artistic
+maintained a strict sobriety in food and [[Dress|dress]]. He had a fine artistic
 sense, and Milton reprehends him for having made Shakespeare "the
-closest companion of his solitudes." "Monsieur le Prince de Galles,"
+closest companion of his solitudes." "Monsieur le Prince de [[Galle|Galles]],"
 wrote Rubens in 1625, "est le prince le plus amateur de la peinture qui
 soit au monde." He succeeded in bringing together during twenty years an
 unrivalled collection, of which a great part was dispersed at his death.
@@ -800,9 +800,9 @@ motives. Those who came into contact with him, even the most bitter of
 his opponents, were impressed with his goodness. The great tragedy of
 his life, to be read in his well-known, dignified, but weak and unhappy
 features, and to be followed in his inexplicable and mysterious choice
-of baneful instruments, such as Rupert, Laud, Hamilton, Glamorgan,
+of baneful instruments, such as Rupert, [[Laud]], Hamilton, Glamorgan,
 Henrietta Maria--all in their several ways working out his
-destruction--seems to have been inspired by a fateful insanity or
+destruction--seems to have been inspired by a fateful [[Insanity|insanity]] or
 infirmity of mind or will, recalling the great Greek dramas in which the
 poets depicted frenzied mortals rushing into their own destruction,
 impelled by the unseen and superior powers.
@@ -812,9 +812,9 @@ who remained with him to the last, hastily and without any funeral
 service, which was forbidden by the authorities, in the tomb of Henry
 VIII., in St George's Chapel, Windsor, where his coffin was identified
 and opened in 1813. An "account of what appeared" was published by Sir
-Henry Halford, and a bone abstracted on the occasion was replaced in the
+Henry Halford, and a [[Bone|bone]] abstracted on the occasion was replaced in the
 vault by the prince of Wales (afterwards Edward VII.) in 1888. Charles
-I. left, besides three children who died in infancy, Charles (afterwards
+I. left, besides three children who died in [[Infancy|infancy]], Charles (afterwards
 Charles II.); James (afterwards James II.); Henry, duke of Gloucester
 (1639-1660); Mary (1631-1660), who married William of Orange; Elizabeth
 (1635-1650); and Henrietta, duchess of Orleans (1644-1670).
@@ -826,18 +826,18 @@ Charles II.); James (afterwards James II.); Henry, duke of Gloucester
   (1905); _Life of Charles I, 1600-1625_, by E.B. Chancellor (1886);
   _The Visits of Charles I. to Newcastle_, by C.S. Terry (1898);
   _Charles I._, by Sir J. Skelton, valuable for its illustrations
-  (1898); _The Manner of the Coronation of King Charles I._, ed. by C.
+  (1898); _The Manner of the [[Coronation]] of King Charles I._, ed. by C.
   Wordsworth (Henry Bradshaw Soc., 1892); _The Picture Gallery of
   Charles I._, by C. Phillips (1896). See also _Calendars of State
   Papers_, _Irish_ and _Domestic Series_; _Hist. MSS. Comm. Series_,
   esp. _MSS. of J. Eliot Hodgkin, F.J. Savile Foljambe, Lord Montagu of
   Beaulieu, Duke of Rutland at Belvoir Castle, Marquis of Ormonde, Earl
-  Cowper (Coke MSS.), Earl of Lonsdale_ (note-books of parliaments of
-  1626 and 1628), _Duke of Buccleuch at Montagu House, Duke of
+  [[Cowper]] (Coke MSS.), Earl of Lonsdale_ (note-books of parliaments of
+  1626 and 1628), _Duke of [[Buccleuch]] at Montagu House, Duke of
   Portland_, 11th Rep. app. pt. vi., _Duke of Hamilton_, pt. i.,
   _Salvetti Correspondence_, 10th Rep. pt. vi., _Lord Braye_; _Add.
-  MSS._ Brit. Mus., 33,596 fols. 21-32 (keys to ciphers), 34,171,
-  35,297; _Notes and Queries_, ser. vi., vii., viii., ix. indexes; _Eng.
+  MSS._ Brit. Mus., 33,596 fols. 21-32 ([[Key|keys]] to [[Cipher|ciphers]]), 34,171,
+  35,297; _Notes and Queries_, ser. vi., vii., viii., ix. [[Index|indexes]]; _Eng.
   Hist. Rev._ ii. 687 ("Charles and Glamorgan" by S.R. Gardiner), vii.
   176; _Cornhill Mag._ vol. 75, January 1897, "Execution of Charles," by
   C.H. Firth.     (P. C. Y.)
@@ -853,7 +853,7 @@ FOOTNOTES:
 
   [4] _Letters and Diaries of P. Henry_ (1882), 12.
 
-  [5] _Tenure of Kings and Magistrates_.
+  [5] _Tenure of Kings and [[Magistrate|Magistrates]]_.
 
   [6] _Lectures on Archbishop Laud_ (1895), p. 25.
 

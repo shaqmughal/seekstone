@@ -7,23 +7,23 @@ topic: science
 # Automaton
 
 AUTOMATON (from [Greek: autos], self, and [Greek: maô], to seize), a
-self-moving machine, or one in which the principle of motion is contained
+self-moving [[Machine|machine]], or one in which the principle of motion is contained
 within the mechanism itself. According to this description, clocks, watches
 and all machines of a similar kind, are automata, but the word is generally
 applied to contrivances which simulate for a time the motions of animal
 life. If the human figure and actions be represented, the automaton has
 sometimes been called specially an _androides_. We have very early notices
 of the construction of automata, _e.g._ the tripods of Vulcan, and the
-moving figures of Daedalus. In 400 B.C., Archytas of Tarentum is said to
+moving figures of [[Daedalus]]. In 400 B.C., Archytas of Tarentum is said to
 have made a wooden pigeon that could fly, and during the middle ages
 numerous instances of the construction of automata are recorded.
 Regiomontanus is said to have made of iron a fly, which would flutter round
 the room and return to his hand, and also an eagle, which flew before the
-emperor Maximilian when he was entering Nuremberg. Roger Bacon is said to
+emperor [[Maximilian]] when he was entering Nuremberg. Roger Bacon is said to
 have forged a brazen head which spoke, and Albertus Magnus to have had an
 androides, which acted as doorkeeper, and was broken to pieces by Aquinas.
 Of these, as of some later instances, _e.g._ the figure constructed by
-Descartes and the automata exhibited by Dr Camus, not much is accurately
+Descartes and the automata exhibited by Dr [[Camus]], not much is accurately
 known. But in the 18th century, Jacques de Vaucanson, the celebrated
 mechanician, exhibited three admirable figures,--the flute-player, the
 tambourine-player, and the duck, which was capable of eating, drinking, and

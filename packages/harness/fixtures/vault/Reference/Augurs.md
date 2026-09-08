@@ -21,33 +21,33 @@ Tarquinius Priscus, but in 300 B.C. it was only four, two places,
 according to Livy (x. 6), being vacant. The Ogulnian law in the same
 year increased the number to nine, five plebeian being added to the four
 patrician members. In the time of Sulla the number was fifteen, which
-was increased to sixteen by Julius Caesar. This number continued in
+was increased to sixteen by [[Julius]] [[Caesar]]. This number continued in
 imperial times; the college itself was certainly in existence as late as
 the 4th century. The office of augur, which was bestowed only upon
 persons of distinguished merit and was much sought after by reason of
 its political importance, was held for life. Vacancies were originally
-filled by co-optation, but by the Domitian law (104) the selection was
-made, by seventeen out of the thirty-five tribes chosen by lot, from
+filled by [[Co-Optation|co-optation]], but by the [[Domitian]] law (104) the selection was
+made, by seventeen out of the thirty-five tribes chosen by [[Lot|lot]], from
 candidates previously nominated by the college. The insignia of office
-were the _lituus_, a staff free from knots and bent at the top, and the
-_trabea_, a kind of toga with bright scarlet stripes and a purple
+were the _[[Lituus|lituus]]_, a staff free from [[Knot|knots]] and bent at the top, and the
+_trabea_, a kind of toga with [[Bright|bright]] scarlet stripes and a purple
 border. The science of augury was contained in various written works,
 which were consulted as occasion arose: such were the _libri augurum_, a
-manual of augural ritual, and the _commentarii augurum_, a collection of
-decrees or answers given by the college to the senate in certain
+[[Manual|manual]] of augural ritual, and the _[[Commentarii|commentarii]] augurum_, a collection of
+[[Decree|decrees]] or answers given by the college to the senate in certain
 definite cases.
 
 The natural region to look to for signs of the will of Jupiter was the
 sky, where lightning and the flight of birds seemed directed by him as
 counsel to men. The latter, however, was the more difficult of
 interpretation, and upon it, therefore, mainly hinged the system of
-divination with which the augurs were occupied. It was the duty of the
+[[Divination|divination]] with which the augurs were occupied. It was the duty of the
 augur, before the auspices properly so called (those from the sky and
 from birds) were taken, to mark out with his staff the templum or
 consecrated space within which his observations were intended to be
 made. The method of procedure was as follows. At midnight, when the sky
 was clear and there was an absence of wind, the augur, in the presence
-of a magistrate, took up his position on a hill which afforded a wide
+of a [[Magistrate|magistrate]], took up his position on a hill which afforded a wide
 view. After prayer and sacrifice, he marked out the templum both in the
 sky and on the ground and dedicated it. Within its limits he then
 pitched a tent, in which he sat down with covered head, asked the gods
@@ -76,7 +76,7 @@ office and prayed the gods for good omens, it was a matter of custom to
 report to him that lightning from the left had been seen. (2) Signs from
 birds (_signa ex avibus_), with reference to the direction of their
 flight, and also to their singing, or uttering other sounds. To the
-first class, called _alites_, belonged the eagle and the vulture; to the
+first class, called _alites_, belonged the [[Eagle|eagle]] and the vulture; to the
 second, called _oscines_, the owl, the crow and the raven. The mere
 appearance of certain birds indicated good or ill luck, while others had
 a reference only to definite persons or events. In matters of ordinary
@@ -102,13 +102,13 @@ matter for the augurs, unless occurring in the course of some public
 transaction, in which case they formed a divine veto against it.
 Otherwise, reference was made for an interpretation to the pontifices in
 olden times, afterwards frequently to the Sibylline books, or the
-Etruscan haruspices, when the incident was not already provided for by a
+Etruscan [[Haruspices|haruspices]], when the incident was not already provided for by a
 rule, as, for example, that it was unlucky for a person leaving his
-house to meet a raven, that the sudden death of a person from epilepsy
+house to meet a raven, that the sudden death of a person from [[Epilepsy|epilepsy]]
 at a public meeting was a sign to break up the assembly.
 
 Among the other means of discovering the will of the gods were the
-casting of lots, oracles of Apollo (in the hands of the college _sacris
+casting of lots, oracles of [[Apollo]] (in the hands of the college _sacris
 faciundis_), but chiefly the examination of the entrails of animals
 slain for sacrifice (see OMEN). Anything abnormal found there was
 brought under the notice of the augurs, but usually the Etruscan
@@ -121,7 +121,7 @@ between these, however, must have been small. The subjects for which
 _auspicia publica_ were always taken were the election of magistrates,
 their entering on office, the holding of a public assembly to pass
 decrees, the setting out of an army for war. They could only be taken in
-Rome itself; and in case of a commander having to renew his _auspicia_,
+Rome itself; and in case of a [[Commander|commander]] having to renew his _auspicia_,
 he must either return to Rome or select a spot in the foreign country to
 represent the hearth of that city. The time for observing auspices was,
 as a rule, between midnight and dawn of the day fixed for any proposed
@@ -134,7 +134,7 @@ was performed was not fixed, but selected with a view to the matter in
 hand. A spot being selected, the official charged to make the
 observation pitched his tent there some days before. A matter postponed
 through adverse signs from the gods could on the following or some
-future day be again brought forward for the auspices. If an error
+future day be again brought forward for the auspices. If an [[Error|error]]
 (_vitium_) occurred in the auspices, the augurs could, of their own
 accord or at the request of the senate, inform themselves of the
 circumstances, and decree upon it. A consul could refuse to accept their
@@ -152,7 +152,7 @@ public assembly for the day.
   also articles "Augures," "Auspicium," by Wissowa in Pauly's
   _Realencyclopadie_ (II. pt. ii., 1896), and by L.C. Purser (and
   others) in Smith's _Dictionary of Greek and Roman Antiquities_ (3rd
-  ed., 1890). (See also DIVINATION, OMEN, ASTROLOGY, &c.)
+  ed., 1890). (See also DIVINATION, OMEN, [[Astrology|ASTROLOGY]], &c.)
 
 
 FOOTNOTE:

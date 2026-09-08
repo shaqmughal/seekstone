@@ -16,11 +16,11 @@ have died about 1745. The works by which Clari distinguished himself
 pre-eminently are his vocal duets and trios, with a _basso continuo_,
 published between 1740 and 1747. These compositions, which combine
 graceful melody with contrapuntal learning, were much admired by
-Cherubini. They appear to have been admired by Handel also, since he did
-not hesitate to make appropriations from them. Clari composed one opera,
+Cherubini. They appear to have been admired by [[Handel]] also, since he did
+not hesitate to make [[Appropriation|appropriations]] from them. Clari composed one opera,
 _Il Savio delirante_, produced at Bologna in 1695, and a large quantity
 of church music, several specimens of which were printed in Novello's
-_Fitzwilliam Music_.
+_[[Fitzwilliam]] Music_.
 
 ## References
 

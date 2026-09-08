@@ -8,7 +8,7 @@ id: 42-8415
 
 # Beothy
 
-BEOTHY, ODON (1796-1854), Hungarian deputy and orator, was born at
+BEOTHY, ODON (1796-1854), Hungarian [[Deputy|deputy]] and orator, was born at
 Grosswardein, his father being a retired officer and deputy
 lord-lieutenant of the county of Bihar. At the age of sixteen he served
 in the war against Napoleon, and was present at the great battle of
@@ -27,21 +27,21 @@ Tisza, and powerfully promoted the popular cause by his eloquence and
 agitation. After 1843 the conservatives succeeded in excluding him both
 from parliament and from his official position in the county; but during
 the famous "March Days" (1848) he regained all his authority, becoming
-at the same time a commander of militia, a deputy and lord-lieutenant.
+at the same time a [[Commander|commander]] of militia, a deputy and lord-lieutenant.
 At the first session of the Upper House (5th of July 1848), he moved
 that it should be radically reformed, and during the war of Independence
 he energetically served the Hungarian government as a civil commissioner
 and lord justice. Towards the end of the war he reappeared as a deputy
 at the Szeged diet, and on the flight of the government took refuge
-first with Richard Cobden in London and subsequently in Jersey, where he
-made the acquaintance of Victor Hugo. Thence he went to Hamburg, to meet
+first with Richard [[Cobden]] in London and subsequently in [[Jersey]], where he
+made the acquaintance of Victor [[Hugo]]. Thence he went to [[Hamburg]], to meet
 his wife, and died there on the 7th of December 1854. Beothy was a man
 of extraordinary ability and character, and an excellent debater. He
 also exercised as much influence socially over his contemporaries as
 politically, owing to his unfailing tact and pleasant wit.
 
   See Antal Csengery, _Hungarian Orators and Statesmen_ (Hung.,
-  Budapest, 1851).     (R. N. B.)
+  [[Budapest]], 1851).     (R. N. B.)
 
 
 
@@ -59,7 +59,7 @@ Gotland.
 _The Story._--The following is a brief outline of the story, which
 naturally divides itself into five parts.
 
-1. Beowulf, with fourteen companions, sails to Denmark, to offer his
+1. Beowulf, with fourteen companions, sails to [[Denmark]], to offer his
 help to Hrothgar, king of the Danes, whose hall (called "Heorot") has
 for twelve years been rendered uninhabitable by the ravages of a
 devouring monster (apparently in gigantic human shape) called Grendel, a
@@ -80,7 +80,7 @@ The hall is invaded by Grendel's mother, who kills and carries off one
 of the Danish nobles. Beowulf proceeds to the mere, and, armed with
 sword and corslet, plunges into the water. In a vaulted chamber under
 the waves, he fights with Grendel's mother, and kills her. In the vault
-he finds the corpse of Grendel; he cuts off the head, and brings it back
+he finds the [[Corpse|corpse]] of Grendel; he cuts off the head, and brings it back
 in triumph.
 
 3. Richly rewarded by Hrothgar, Beowulf returns to his native land. He
@@ -119,11 +119,11 @@ gentlest and most generous of kings.
 _The Hero._--Those portions of the poem that are summarized above--that
 is to say, those which relate the career of the hero in progressive
 order--contain a lucid and well-constructed story, told with a vividness
-of imagination and a degree of narrative skill that may with little
+of [[Imagination|imagination]] and a degree of narrative skill that may with little
 exaggeration be called Homeric. And yet it is probable that there are
 few readers of Beowulf who have not felt--and there are many who after
 repeated perusal continue to feel--that the general impression produced
-by it is that of a bewildering chaos. This effect is due to the
+by it is that of a bewildering [[Chaos|chaos]]. This effect is due to the
 multitude and the character of the episodes. In the first place, a very
 great part of what the poem tells about Beowulf himself is not presented
 in regular sequence, but by way of retrospective mention or narration.
@@ -145,7 +145,7 @@ retreat he once more displayed his powers as a swimmer, carrying to his
 ship the armour of thirty slain enemies. When he reached his native
 land, the widowed queen offered him the kingdom, her son Heardred being
 too young to rule. Beowulf, out of loyalty, refused to be made king, and
-acted as the guardian of Heardred during his minority, and as his
+acted as the [[Guardian|guardian]] of Heardred during his minority, and as his
 counsellor after he came to man's estate. By giving shelter to the
 fugitive Eadgils, a rebel against his uncle the king of the "Sweon" (the
 Swedes, dwelling to the north of the Gautar), Heardred brought on
@@ -164,13 +164,13 @@ himself, but seem to have been inserted with a deliberate intention of
 making the poem into a sort of cyclopaedia of Germanic tradition. They
 include many particulars of what purports to be the history of the royal
 houses, not only of the Gautar and the Danes, but also of the Swedes,
-the continental Angles, the Ostrogoths, the Frisians and the
+the continental Angles, the Ostrogoths, the [[Frisians]] and the
 Heathobeards, besides references to matters of unlocalized heroic story
 such as the exploits of Sigismund. The Saxons are not named, and the
-Franks appear only as a dreaded hostile power. Of Britain there is no
+[[Franks]] appear only as a dreaded hostile power. Of Britain there is no
 mention; and though there are some distinctly Christian passages, they
 are so incongruous in tone with the rest of the poem that they must be
-regarded as interpolations. In general the extraneous episodes have no
+regarded as [[Interpolation|interpolations]]. In general the extraneous episodes have no
 great appropriateness to their context, and have the appearance of being
 abridged versions of stories that had been related at length in poetry.
 Their confusing effect, for modern readers, is increased by a curiously
@@ -193,10 +193,10 @@ has therefore for nearly a century been justly regarded as indispensable
 to the investigation of Germanic antiquities.
 
 The starting-point of all _Beowulf_ criticism is the fact (discovered by
-N.F.S. Grundtvig in 1815) that one of the episodes of the poem belongs
-to authentic history. Gregory of Tours, who died in 594, relates that in
+N.F.S. [[Grundtvig]] in 1815) that one of the episodes of the poem belongs
+to [[Authentic|authentic]] history. Gregory of Tours, who died in 594, relates that in
 the reign of Theodoric of Metz (511-534) the Danes invaded the kingdom,
-and carried off many captives and much plunder to their ships. Their
+and carried off many [[Captive|captives]] and much plunder to their ships. Their
 king, whose name appears in the best MSS. as Chlochilaicus (other copies
 read Chrochilaicus, Hrodolaicus, &c.), remained on shore intending to
 follow afterwards, but was attacked by the Franks under Theodobert, son
@@ -216,7 +216,7 @@ whereas the Hygelac of Beowulf belonged to the "Geatas" or Gautar. But a
 work called _Liber Monstrorum_,[1] preserved in two MSS. of the 10th
 century, cites as an example of extraordinary stature a certain
 "Huiglaucus, king of the Getae," who was killed by the Franks, and whose
-bones were preserved on an island at the mouth of the Rhine, and
+[[Bone|bones]] were preserved on an island at the mouth of the Rhine, and
 exhibited as a marvel. It is therefore evident that the personality of
 Hygelac, and the expedition in which, according to _Beowulf_, he died,
 belong not to the region of legend or poetic invention, but to that of
@@ -243,7 +243,7 @@ the Swedes, in its purest accessible form.
 
 Of the hero of the poem no mention has been found elsewhere. But the
 name (the Icelandic form of which is Bjolfr) is genuinely Scandinavian.
-It was borne by one of the early settlers in Iceland, and a monk named
+It was borne by one of the early settlers in [[Iceland]], and a monk named
 Biuulf is commemorated in the _Liber Vitae_ of the church of Durham. As
 the historical character of Hygelac has been proved, it is not
 unreasonable to accept the authority of the poem for the statement that
@@ -271,7 +271,7 @@ given in the _Old English Chronicle_. The story of Scyld is related,
 with some details not found in _Beowulf_, by William of Malmesbury, and,
 less fully, by the 10th-century English historian Ethelwerd, though it
 is told not of Scyld himself, but of his father Sceaf. According to
-William's version, Sceaf was found, as an infant, alone in a boat
+William's version, Sceaf was found, as an [[Infant|infant]], alone in a boat
 without oars, which had drifted to the island of "Scandza." The child
 was asleep with his head on a _sheaf_, and from this circumstance he
 obtained his name. When he grew up he reigned over the Angles at
@@ -289,7 +289,7 @@ prove that they belong to divine mythology and not to heroic legend. But
 there are independent reasons for believing that they were originally
 gods or demi-gods. It is a reasonable conjecture that the tales of
 victories over Grendel and the fiery dragon belong properly to the myth
-of Beaw. If Beowulf, the champion of the Gautar, had already become a
+of Beaw. If Beowulf, the [[Champion|champion]] of the Gautar, had already become a
 theme of epic song, the resemblance of name might easily suggest the
 idea of enriching his story by adding to it the achievements of Beaw. At
 the same time, the tradition that the hero of these adventures was a son
@@ -353,14 +353,14 @@ these names must have entered English tradition not later than the
 beginning of the 7th century. It does not indeed follow that the extant
 poem is of so early a date; but its syntax is remarkably archaic in
 comparision with that of the Old English poetry of the 8th century. The
-hypothesis that _Beowulf_ is in whole or in part a translation from a
+[[Hypothesis|hypothesis]] that _Beowulf_ is in whole or in part a translation from a
 Scandinavian original, although still maintained by some scholars,
 introduces more difficulties than it solves, and must be dismissed as
 untenable. The limits of this article do not permit us to state and
 criticize the many elaborate theories that have been proposed respecting
 the origin of the poem. All that can be done is to set forth the view
 that appears to us to be most free from objection. It may be premised
-that although the existing MS. is written in the West-Saxon dialect, the
+that although the existing MS. is written in the West-Saxon [[Dialect|dialect]], the
 phenomena of the language indicate transcription from an Anglian (i.e. a
 Northumbrian or Mercian) original; and this conclusion is supported by
 the fact that while the poem contains one important episode relating to
@@ -386,13 +386,13 @@ houses who shared with them the same divine ancestry, and who might be
 connected with them by ties of marriage or warlike alliance. Probably
 the singer was always himself an original poet; he might often be
 content to reproduce the songs that he had learned, but he was doubtless
-free to improve or expand them as he chose, provided that his inventions
+free to improve or expand them as he [[Chose|chose]], provided that his inventions
 did not conflict with what was supposed to be historic truth. For all we
 know, the intercourse of the Angles with Scandinavia, which enabled
 their poets to obtain new knowledge of the legends of Danes, Gautar and
-Swedes, may not have ceased until their conversion to Christianity in
+Swedes, may not have ceased until their [[Conversion|conversion]] to Christianity in
 the 7th century. And even after this event, whatever may have been the
-attitude of churchmen towards the old heathen poetry, the kings and
+attitude of churchmen towards the old [[Heathen|heathen]] poetry, the kings and
 warriors would be slow to lose their interest in the heroic tales that
 had delighted their ancestors. It is probable that down to the end of
 the 7th century, if not still later, the court poets of Northumbria and
@@ -403,7 +403,7 @@ Although the heathen Angles had their own runic alphabet, it is unlikely
 that any poetry was written down until a generation had grown up trained
 in the use of the Latin letters learned from Christian missionaries. We
 cannot determine the date at which some book-learned man, interested in
-poetry, took down from the lips of a minstrel one of the stories that he
+poetry, took down from the [[Lip|lips]] of a minstrel one of the stories that he
 had been accustomed to sing. It may have been before 700; much later it
 can hardly have been, for the old heathen poetry, though its existence
 might be threatened by the influence of the church, was still in
@@ -445,28 +445,28 @@ in order to bring them into connexion with the prefixed matter.
 
   BIBLIOGRAPHY.--The volume containing the _Beowulf_ MS. (then, as now,
   belonging to the Cottonian collection, and numbered "Vitellius A.
-  xv.") was first described by Humphrey Wanley in 1705, in his catalogue
+  xv.") was first described by Humphrey Wanley in 1705, in his [[Catalogue|catalogue]]
   of MSS., published as vol. iii. of G. Hickes's _Thesaurus Veterum
   Linguarum Septentrionalium_. In 1786 G.J. Thorkelin, an Icelander,
   made or procured two transcripts of the poem, which are still
-  preserved in the Royal Library at Copenhagen, and are valuable for the
+  preserved in the Royal Library at [[Copenhagen]], and are valuable for the
   criticism of the text, the MS. having subsequently become in places
   less legible. Thorkelin's edition (1815) is of merely historic
   interest. The first edition showing competent knowledge of the
-  language was produced in 1833 by J.M. Kemble. Since then editions have
+  language was produced in 1833 by J.M. [[Kemble]]. Since then editions have
   been very numerous. The text of the poem was edited by C.W.M. Grein in
   his _Bibliothek der angelsachsischen Poesie_ (1857), and again
   separately in 1867. Autotypes of the MS. with transliteration by
-  Julius Zupitza, were issued by the Early English Text Society in 1882.
+  [[Julius]] Zupitza, were issued by the Early English Text Society in 1882.
   The new edition of Grein's _Bibliothek_, by R.P. Wulker, vol. i.
   (1883), contains a revised text with critical notes. The most
-  serviceable separate editions are those of M. Heyne (7th ed., revised
+  serviceable separate editions are those of M. [[Heyne]] (7th ed., revised
   by A. Socin, 1903), A.J. Wyatt (with English notes and glossary,
   1898), and F. Holthausen (vol. i., 1905).
 
   Eleven English translations of the poem have been published (see C.B.
   Tinker, _The Translations of Beowulf_, 1903). Among these may be
-  mentioned those of J.M. Garnett (6th ed., 1900), a literal rendering
+  mentioned those of J.M. [[Garnett]] (6th ed., 1900), a literal rendering
   in a metre imitating that of the original; J. Earle (1892) in prose;
   W. Morris (1895) in imitative metre, and almost unintelligibly
   archaistic in diction; and C.B. Tinker (1902) in prose.
@@ -480,7 +480,7 @@ in order to bring them into connexion with the prefixed matter.
   angelsachsische Epos_ (1889). Much valuable matter may be found in B.
   ten Brink, _Beowulf, Untersuchungen_ (1888). The work of G. Sarrazin,
   _Beowulf-studien_ (1888), which advocates the strange theory that
-  _Beowulf_ is a translation by Cynewulf of a poem by the Danish singer
+  _Beowulf_ is a translation by [[Cynewulf]] of a poem by the Danish singer
   Starkadr, contains, amid much that is fanciful, not a little that
   deserves careful consideration. The many articles by E. Sievers and S.
   Bugge, in _Beitradge zur Geschichte der deutschen Sprache und

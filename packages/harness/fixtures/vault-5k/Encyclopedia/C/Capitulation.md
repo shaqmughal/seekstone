@@ -20,7 +20,7 @@ officer, on whose authority the enemy are not in the actual position of
 the war entitled to place reliance. When an agreement is made by an
 officer who has not the proper authority or who has exceeded the limits
 of his authority, it is termed a _sponsion_, and, to be binding, must be
-confirmed by express or tacit ratification. Article 35 of the Hague
+confirmed by express or tacit ratification. Article 35 of the [[Hague]]
 Convention (1899) on the laws and the customs of war lays down that
 "capitulations agreed on between the contracting parties must be in
 accordance with the rules of military honour. When once settled they

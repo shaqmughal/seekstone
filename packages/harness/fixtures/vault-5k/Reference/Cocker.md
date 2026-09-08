@@ -21,8 +21,8 @@ which appeared in 1748, and which has passed through about 112 editions
 in all, was not published during the lifetime of its reputed author, the
 first impression bearing date of 1678. Augustus de Morgan in his
 _Arithmetical Books_ (1847) adduces proofs, which may be held to be
-conclusive, that the work was a forgery of the editor and publisher,
-John Hawkins; and there appears to be no doubt that the _Decimal
+conclusive, that the work was a [[Forgery|forgery]] of the editor and publisher,
+John [[Hawkins]]; and there appears to be no doubt that the _Decimal
 Arithmetic_ (1684), and the _English Dictionary_ (second edition, 1715),
 issued by Hawkins under Cocker's name, are forgeries also. De Morgan
 condemns the _Arithmetick_ as a diffuse compilation from older and

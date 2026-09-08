@@ -6,10 +6,10 @@ February 1767. In 1789 he was an advocate at the parlement of Normandy.
 During the republic and the empire he filled successively judicial
 offices at Louviers, Rouen and Evreux. He had adopted the principles of
 the Revolution, and in 1798 he commenced his political life as a member
-of the Council of Five Hundred. In 1813 he became a member of the Corps
-Legislatif. During the Hundred Days he was vice-president of the chamber
+of the Council of Five Hundred. In 1813 he became a member of the [[Corps]]
+Legislatif. During the [[Hundred Days]] he was vice-president of the chamber
 of deputies, and when the allied armies entered Paris he drew up the
-declaration in which the chamber asserted the necessity of maintaining
+[[Declaration|declaration]] in which the chamber asserted the necessity of maintaining
 the principles of government that had been established at the
 Revolution. He was chosen one of the commissioners to negotiate with the
 allied sovereigns. From 1817 till 1849 he was uninterruptedly a member
@@ -24,7 +24,7 @@ having failed to secure his re-election to the chamber, he retired into
 private life. He died in 1855. The consistent firmness with which he
 adhered to the cause of constitutional liberalism during the many
 changes of his times gained him the highest respect of his countrymen,
-by whom he was styled the Aristides of the French tribune.
+by whom he was styled the [[Aristides]] of the French tribune.
 
 ## See also
 

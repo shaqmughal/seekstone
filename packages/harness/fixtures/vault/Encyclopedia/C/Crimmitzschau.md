@@ -12,7 +12,7 @@ Saxony, on the Pleisse and the main Leipzig-Hof railway, 7 m. N.W. from
 Zwickau. Pop. (1900) 22,845. The most important industries of the town
 are the manufacture of buckskin, the spinning of carded yarn and
 vicuna-wool, and the processes of dyeing, finishing and wool-spinning
-connected with these. Among other manufactures are brushes, boilers and
+connected with these. Among other manufactures are brushes, [[Boiler|boilers]] and
 the like, machinery, metal ware generally, the cases and other parts of
 watches. The town has a modern school (Realschule), a commercial school,
 and technical schools for weaving and finishing.

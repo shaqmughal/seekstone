@@ -2,7 +2,7 @@
 
 MAXIMUS OF SMYRNA, a Greek philosopher of the Neo-platonist school, who
 lived towards the end of the 4th century A.D. He was perhaps the most
-important of the followers of Iamblichus. He is said to have been of a
+important of the followers of [[Iamblichus]]. He is said to have been of a
 rich and noble family, and exercised great influence over the emperor
 Julian, who was commended to him by Aedesius. He pandered to the
 emperor's love of magic and theurgy, and by judicious administration of

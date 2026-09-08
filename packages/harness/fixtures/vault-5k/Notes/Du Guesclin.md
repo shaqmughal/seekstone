@@ -1,8 +1,8 @@
 # Du Guesclin
 
-DU GUESCLIN, BERTRAND (c. 1320-1380), constable of France, the most
+DU GUESCLIN, [[Bertrand|BERTRAND]] (c. 1320-1380), constable of France, the most
 famous French warrior of his age, was born of an ancient but
-undistinguished family at the castle of La Motte-Broons (Dinan). The
+undistinguished family at the castle of La Motte-Broons ([[Dinan]]). The
 date of his birth is doubtful, the authorities varying between 1311 and
 1324. The name is spelt in various ways in contemporary records, e.g.
 Claquin, Klesquin, Guescquin, Glayaquin, &c. The familiar form is found
@@ -11,7 +11,7 @@ his boyhood Bertrand was a dull learner, spending his time in open-air
 sports and exercises, and could never read or write. He was remarkable
 for ugliness, and was an object of aversion to his parents. He first
 made himself a name as a soldier at the tournament held at Rennes in
-1338 to celebrate the marriage of Charles of Blois with Jeanne de
+1338 to celebrate the marriage of Charles of [[Blois]] with Jeanne de
 Penthièvre, at which he unseated the most famous competitors. In the war
 which followed between Charles of Blois and John de Montfort, for the
 possession of the duchy of Brittany, he served his apprenticeship as a
@@ -21,26 +21,26 @@ fought on the side of Charles and of France. He distinguished himself by
 a brilliant action at the siege of Vannes in 1342; and after that he
 disappears from history for some years.
 
-In 1354, having shortly before been made a knight, he was sent into
+In 1354, having shortly before been made a [[Knight|knight]], he was sent into
 England with the lords of Brittany to treat for the ransom of Charles of
 Blois, who had been defeated and captured by the English in 1347. When
 Rennes and Dinan were attacked by the duke of Lancaster in 1356, Du
 Guesclin fought continuously against the English, and at this time he
-engaged in a celebrated duel with Sir Thomas Canterbury. He finally
+engaged in a celebrated [[Duel|duel]] with Sir Thomas Canterbury. He finally
 forced his way with provisions and reinforcements into Rennes, which he
 successfully defended till June 1357, when the siege was raised in
 pursuance of the truce of Bordeaux. For this service he was rewarded
 with the lordship of Pontorson. Shortly afterwards he passed into the
 service of France, and greatly distinguished himself at the siege of
 Melun (1359), being, however, taken prisoner a little later by Sir
-Robert Knollys. In 1360, 1361 and 1362 he was continually in the field,
+Robert [[Knollys]]. In 1360, 1361 and 1362 he was continually in the field,
 being again made prisoner in 1360. In 1364 he married, but was soon
 again in the field, this time against the king of Navarre. In May 1364
 he won an important victory over the Navarrese at Cocherel, and took the
-famous Captal de Buch prisoner. He had previously been made lord of La
+famous Captal de [[Buch]] prisoner. He had previously been made lord of La
 Roche-Tesson (1361) and chamberlain (1364); he was now made count of
-Longueville and lieutenant of Normandy. Shortly afterwards, in aiding
-Charles of Blois, Du Guesclin was taken prisoner by Sir John Chandos at
+[[Longueville]] and lieutenant of Normandy. Shortly afterwards, in aiding
+Charles of Blois, Du Guesclin was taken prisoner by Sir John [[Chandos]] at
 the battle of Auray, in which Charles was killed. The close of the
 general war, however, had released great numbers of mercenaries (the
 great companies) from control, and, as they began to play the part of
@@ -77,7 +77,7 @@ order of the king, in the church of St Denis. Du Guesclin lost his first
 wife in 1371, and married a second in 1373, but he left no legitimate
 children.
 
-  See biography by D.F. Jamison (Charleston, 1863), which was
+  See biography by D.F. Jamison ([[Charleston]], 1863), which was
   translated into French (1866) by order of Marshal Count Randon,
   minister of war; also S. Luce, _Histoire de B. du Guesclin_ (Paris,
   1876).

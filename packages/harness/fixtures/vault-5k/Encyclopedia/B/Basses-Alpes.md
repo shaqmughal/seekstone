@@ -2,7 +2,7 @@
 
 BASSES-ALPES, a department of south-eastern France, formed in 1790 out of
 the northern portion of Provence. It is bounded N. by the department of the
-Hautes Alpes, E. by Italy and the department of the Alpes Maritimes, S. by
+[[Hautes Alpes]], E. by Italy and the department of the Alpes Maritimes, S. by
 that of the Var, and W. by those of Vaucluse and the Drôme. Its area is
 about 2698 sq. m., while its greatest length is 89½ m. and its greatest
 breadth 56 m. Pop. (1906) 113,126. The river Durance passes through the
@@ -13,12 +13,12 @@ which is within the department, while the lower course forms its southern
 limit. It is a poor and hilly district, the highest summits (the loftiest
 is the Aiguille de Chambeyron, 11,155 ft.) rising round the head waters of
 the Ubaye. The department is divided into five arrondissements (Digne,
-Barcelonnette, Castellane, Forcalquier, and Sisteron), 30 cantons and 250
-communes. It forms the bishopric of Digne, formerly in the ecclesiastical
+[[Barcelonnette]], Castellane, Forcalquier, and Sisteron), 30 cantons and 250
+[[Commune|communes]]. It forms the bishopric of Digne, formerly in the ecclesiastical
 province of Embrun, but since 1802 in that of Aix-en-Provence. Its chief
 towns are Digne, Barcelonnette, Castellane, Forcalquier, and Sisteron. It
 is poorly supplied with railways (total length 109½ m.), the main line from
-Grenoble to Avignon running through it from Sisteron to Manosque, and
+Grenoble to [[Avignon]] running through it from Sisteron to Manosque, and
 sending off two short branch lines to Digne (14 m.) and to Forcalquier (9
 m.). It is a poor department from the material point of view, being very
 mountainous and containing many mountain pastures. But these pastures have
@@ -38,10 +38,10 @@ des Basses-Alpes_ (Digne, 1861).
 BASSES-PYRÉNÉES, a department of south-western France, at the angle of the
 Bay of Biscay, formed in 1790, two-thirds of it from Béarn and the rest
 from three districts of Gascony--Basse-Navarre, Soule and Labourd. The
-latter constitute the Basque region of France (see BASQUES) and cover the
-west of the department. Basses-Pyrénées is bounded N. by Landes and Gers,
-E. by Hautes-Pyrénées (which has two enclaves forming five communes within
-this department), S. by Spain, and W. by the Atlantic Ocean. Pop. (1906)
+latter constitute the Basque region of France (see [[Basques|BASQUES]]) and cover the
+west of the department. Basses-Pyrénées is bounded N. by [[Landes]] and [[Gers]],
+E. by Hautes-Pyrénées (which has two [[Enclave|enclaves]] forming five communes within
+this department), S. by Spain, and W. by the [[Atlantic Ocean]]. Pop. (1906)
 426,817. Area, 2977 sq. m. The whole of the south of the department is
 occupied by the western and lower summits of the Pyrenees. The remainder
 consists of a region of heaths and plateaus to the northeast of the Gave de
@@ -126,7 +126,7 @@ interest:--Lescar, which has a church of the 12th and 16th century, once a
 cathedral; Montaner, with a stronghold built in 1380 by Gaston Phoebus,
 count of Foix and viscount, of Béarn; and Sauveterre, a town finely
 situated on the Gave d'Oloron, with an old bridge, remains of a feudal
-castle, and a church in the Romanesque and Gothic styles.
+castle, and a church in the Romanesque and [[Gothic]] styles.
 
 ## See also
 

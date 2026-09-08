@@ -30,7 +30,7 @@ satirical _Speculum stultorum_, in which the ambitious and discontented
 monk figured as the ass Brunellus, who wanted a longer tail. Brunellus,
 who has been educated at Paris, decides to found an order of fools,
 which shall combine the good points of all the existing monastic orders.
-_Cock Lovell's Bote_ (printed by Wynkyn de Worde, c. 1510) is another
+_[[Cock]] Lovell's Bote_ (printed by Wynkyn de Worde, c. 1510) is another
 imitation of the _Narrenschiff_. Cock Lovell is a fraudulent currier who
 gathers round him a rascally collection of tradesmen. They sail off in a
 riotous fashion up hill and down dale throughout England. Brant's other

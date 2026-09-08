@@ -9,8 +9,8 @@ topic: science
 KALERGIS, DIMITRI (DEMETRIOS) (1803-1867), Greek statesman, was a Cretan
 by birth, studied medicine at Paris and on the outbreak of the War of
 Greek Independence went to the Morea and joined the insurgents. He
-fought under Karaiskakis, was taken prisoner by the Turks before Athens
-and mulcted of an ear; later he acted as aide de camp to the French
+fought under [[Karaiskakis]], was taken prisoner by the Turks before Athens
+and mulcted of an [[Ear|ear]]; later he acted as aide de camp to the French
 philhellene Colonel Fabvier and to Count Capo d'Istria, president of
 Greece. In 1832 he was promoted lieutenant-colonel. In 1843, as
 commander of a cavalry division, he was the prime mover in the

@@ -10,7 +10,7 @@ type: reference
 LAISANT, CHARLES ANNE (1841-   ), French politician, was born at Nantes
 on the 1st of November 1841, and was educated at the École Polytechnique
 as a military engineer. He defended the fort of Issy at the siege of
-Paris, and served in Corsica and in Algeria in 1873. In 1876 he resigned
+Paris, and served in [[Corsica]] and in Algeria in 1873. In 1876 he resigned
 his commission to enter the Chamber as deputy for Nantes in the
 republican interest, and in 1879 he became director of the _Petit
 Parisien_. For alleged libel on General Courtot de Cissey in this paper

@@ -2,7 +2,7 @@
 
 MAYER, JOHANN TOBIAS (1723-1762), German astronomer, was born at
 Marbach, in Würtemberg, on the 17th of February 1723, and brought up at
-Esslingen in poor circumstances. A self-taught mathematician, he had
+[[Esslingen]] in poor circumstances. A self-taught mathematician, he had
 already published two original geometrical works when, in 1746, he
 entered J. B. Homann's cartographic establishment at Nuremberg. Here he
 introduced many improvements in map-making, and gained a scientific
@@ -17,7 +17,7 @@ century. But his fame rests chiefly on his lunar tables, communicated in
 1752, with new solar tables, to the Royal Society of Göttingen, and
 published in their _Transactions_ (vol. ii.). In 1755 he submitted to
 the English government an amended body of MS. tables, which James
-Bradley compared with the Greenwich observations, and found to be
+Bradley compared with the [[Greenwich]] observations, and found to be
 sufficiently accurate to determine the moon's place to 75´´, and
 consequently the longitude at sea to about half a degree. An improved
 set was afterwards published in London (1770), as also the theory
@@ -30,32 +30,32 @@ with a description of the repeating circle (invented by Mayer in 1752),
 the other on a formula for atmospheric refraction, which applies a
 remarkably accurate correction for temperature.
 
-Mayer left behind him a considerable quantity of manuscript, part of
-which was collected by G. C. Lichtenberg and published in one volume
+Mayer left behind him a considerable quantity of [[Manuscript|manuscript]], part of
+which was collected by G. C. [[Lichtenberg]] and published in one volume
 (_Opera inedita_, Göttingen, 1775). It contains an easy and accurate
-method for calculating eclipses; an essay on colour, in which three
-primary colours are recognized; a catalogue of 998 zodiacal stars; and a
+method for calculating [[Eclipse|eclipses]]; an essay on colour, in which three
+primary [[Colours|colours]] are recognized; a [[Catalogue|catalogue]] of 998 zodiacal stars; and a
 memoir, the earliest of any real value, on the proper motion of eighty
 stars, originally communicated to the Göttingen Royal Society in 1760.
 The manuscript residue includes papers on atmospheric refraction (dated
-1755), on the motion of Mars as affected by the perturbations of Jupiter
+1755), on the motion of [[Mars]] as affected by the perturbations of Jupiter
 and the Earth (1756), and on terrestrial magnetism (1760 and 1762). In
 these last Mayer sought to explain the magnetic action of the earth by a
-modification of Euler's hypothesis, and made the first really definite
+modification of Euler's [[Hypothesis|hypothesis]], and made the first really definite
 attempt to establish a mathematical theory of magnetic action (C.
 Hansteen, _Magnetismus der Erde_, i. 283). E. Klinkerfuss published in
 1881 photo-lithographic reproductions of Mayer's local charts and
-general map of the moon; and his star-catalogue was re-edited by F.
+general [[Map|map]] of the moon; and his star-catalogue was re-edited by F.
 Baily in 1830 (_Memoirs Roy. Astr. Soc._ iv. 391) and by G. F. J. A.
 Auvers in 1894.
 
   AUTHORITIES.--A. G. Kästner, _Elogium Tobiae Mayeri_ (Göttingen,
-  1762); _Connaissance des temps, 1767_, p. 187 (J. Lalande);
+  1762); _Connaissance des temps, 1767_, p. 187 (J. [[Lalande]]);
   _Monatliche Correspondenz_ viii. 257, ix. 45, 415, 487, xi. 462;
   _Allg. Geographische Ephemeriden_ iii. 116, 1799 (portrait); _Berliner
   Astr. Jahrbuch_, Suppl. Bd. iii. 209, 1797 (A. G. Kästner); J. B. J.
   Delambre, _Hist. de l'Astr. au XVIII^e siècle_, p. 429; R. Grant,
-  _Hist. of Phys. Astr._ pp. 46, 488, 555; A. Berry, _Short Hist. of
+  _Hist. of Phys. Astr._ pp. 46, 488, 555; A. [[Berry]], _Short Hist. of
   Astr._ p. 282; J. S. Pütter, _Geschichte von der Universität zu
   Göttingen_, i. 68; J. Gehler, _Physik. Wörterbuch neu bearbeitet_, vi.
   746, 1039; Allg. _Deutsche Biographie_ (S. Günther).     (A. M. C.)

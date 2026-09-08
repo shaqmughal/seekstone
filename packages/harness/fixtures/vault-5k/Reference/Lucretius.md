@@ -16,7 +16,7 @@ in his life of Virgil, a work also based on the lost work of Suetonius,
 that Lucretius died on the same day on which Virgil assumed the _toga
 virilis_, that is, in the seventeenth year of Virgil's life, and on the
 very day on which he was born, and adds that the consuls were the same,
-that is Cn. Pompeius Magnus and M. Licinius Crassus, consuls in 70 and
+that is Cn. Pompeius Magnus and M. Licinius [[Crassus]], consuls in 70 and
 again in 55. The statements cannot be perfectly reconciled; but we may
 say with certainty that Lucretius was born between 98 and 95 B.C., and
 died in 55 or 54. A single mention of his poem, the _De rerum natura_
@@ -27,7 +27,7 @@ that of the poet's death. The statements of Jerome have been questioned
 or disbelieved on the ground of their intrinsic improbability. They have
 been regarded as a fiction invented later by the enemies of
 Epicureanism, with the view of discrediting the most powerful work ever
-produced by any disciple of that sect. It is more in conformity with
+produced by any [[Disciple|disciple]] of that sect. It is more in conformity with
 ancient credulity than with modern science to attribute a permanent
 tendency to derangement to the accidental administration of any drug,
 however potent. A work characterized by such strength, consistency and
@@ -114,7 +114,7 @@ Although our conception of the poet's life is necessarily vague and
 meagre, yet his personal force is so remarkable and so vividly impressed
 on his poem, that we seem able to form a consistent idea of his
 qualities and characteristics. We know, for example, that the choice of
-a contemplative life was not the result of indifference to the fate of
+a contemplative life was not the result of indifference to the [[Fate|fate]] of
 the world, or of any natural coldness or even calmness of temperament.
 In the opening lines of the second and third books we can mark the
 recoil of a humane and sensitive spirit from the horrors of the reign of
@@ -123,7 +123,7 @@ confusion which prevailed at Rome during his later years. We may also
 infer that he had not been through his whole career so much estranged
 from the social life of his day as he seems to have been in his later
 years. Passages in his poem attest his familiarity with the pomp and
-luxury of city life, with the attractions of the public games and with
+luxury of city life, with the attractions of the public [[Games|games]] and with
 the pageantry of great military spectacles. But much the greater mass of
 the illustrations of his philosophy indicate that, while engaged on his
 poem he must have passed much of his time in the open air, exercising at
@@ -132,17 +132,17 @@ of a poet. He seems to have found a pleasure, more congenial to the
 modern than to the ancient temperament, in ascending mountains or
 wandering among their solitudes (vi. 469, iv. 575). References to
 companionship in these wanderings, and the well-known description of the
-charm of a rustic meal (ii. 29) speak of kindly sociality rather than of
-any austere separation from his fellows.
+[[Charm|charm]] of a rustic meal (ii. 29) speak of kindly sociality rather than of
+any austere separation from his [[Fellows|fellows]].
 
 Other expressions in his poem (e.g. iii. 10, &c.) imply that he was also
 a student of books. Foremost among these were the writings of Epicurus;
 but he had also an intimate knowledge of the philosophical poem of
-Empedocles, and at least an acquaintance with the works of Democritus,
+[[Empedocles]], and at least an acquaintance with the works of Democritus,
 Anaxagoras, Heraclitus, Plato and the Stoical writers. Of other Greek
 prose writers he knew Thucydides and Hippocrates; while of the poets he
 expresses in more than one passage the highest admiration of Homer, whom
-he imitated in several places. Next to Homer Euripides is most
+he imitated in several places. Next to Homer [[Euripides]] is most
 frequently reproduced by him. But his poetical sympathy was not limited
 to the poets of Greece. For his own countryman Ennius he expresses an
 affectionate admiration; and he imitates his language, his rhythm and
@@ -153,8 +153,8 @@ writers, both Greek and Roman, in whose masculine temperament and
 understanding he recognized an affinity with his own.
 
 His devotion to Epicurus seems at first sight more difficult to explain
-than his enthusiasm for Empedocles or Ennius. Probably he found in his
-calmness of temperament, even in his want of imagination, a sense of
+than his [[Enthusiasm|enthusiasm]] for Empedocles or Ennius. Probably he found in his
+calmness of temperament, even in his want of [[Imagination|imagination]], a sense of
 rest and of exemption from the disturbing influences of life; while in
 his physical philosophy he found both an answer to the questions which
 perplexed him and an inexhaustible stimulus to his intellectual
@@ -238,13 +238,13 @@ the world is not governed by capricious agency, but has come into
 existence, continues in existence, and will ultimately pass away in
 accordance with the primary conditions of the elemental atoms which,
 along with empty space, are the only eternal and immutable substances.
-These atoms are themselves infinite in number but limited in their
+These atoms are themselves [[Infinite|infinite]] in number but limited in their
 varieties, and by their ceaseless movement and combinations during
 infinite time and through infinite space the whole process of creation
 is maintained. In the third book he applies the principles of the atomic
 philosophy to explain the nature of the mind and vital principle, with
 the view of showing that the soul perishes with the body. In the fourth
-book he discusses the Epicurean doctrine of the images, which are cast
+book he discusses the Epicurean doctrine of the [[Image|images]], which are cast
 from all bodies, and which act either on the senses or immediately on
 the mind, in dreams or waking visions, as affording the explanation of
 the belief in the continued existence of the spirits of the departed.
@@ -324,7 +324,7 @@ receiving and assimilating. The effect of unworthy conceptions of the
 divine nature is that they render a man incapable of visiting the
 temples of the gods in a calm spirit, or of receiving the emanations
 that "announce the divine peace" in peaceful tranquillity. The supposed
-"atheism" of Lucretius proceeds from a more deeply reverential spirit
+"[[Atheism|atheism]]" of Lucretius proceeds from a more deeply reverential spirit
 than that of the majority of professed believers in all times.
 
 His moral attitude is also far removed from that of ordinary ancient
@@ -349,7 +349,7 @@ which the hexameter of Lucretius has over that of Ennius and Lucilius.
 And no reader of Lucretius can doubt that he attached the greatest
 importance to artistic execution, and that he took a great pleasure, not
 only in "the long roll of his hexameter," but also in producing the
-effects of alliteration, assonance, &c., which are so marked a
+effects of alliteration, [[Assonance|assonance]], &c., which are so marked a
 peculiarity in the style of Plautus and the earlier Roman poets. He
 allows his taste for these tricks of style to degenerate into mannerism.
 And this is the only drawback to the impression of absolute spontaneity
@@ -367,7 +367,7 @@ the proper limits of his art is that his best poetry is clogged with a
 great mass of alien matter, which no treatment in the world could have
 made poetically endurable.     (W. Y. S.)
 
-  AUTHORITIES.--The two most ancient manuscripts of Lucretius, O and Q,
+  AUTHORITIES.--The two most ancient [[Manuscript|manuscripts]] of Lucretius, O and Q,
   are both at Leiden, one being a folio (_oblongus_) and the other a
   quarto (_quadratus_). Upon these alone the modern texts are founded.
   The scientific editing of the text began with C. C. Lachmann (1852)
@@ -395,8 +395,8 @@ made poetically endurable.     (W. Y. S.)
 
   The following translations into English verse are known: T. Creech
   (1683), J. M. Good (1805), T. Busby (1813), C. F. Johnson (New York,
-  1872), T. C. Baring (1884). There is also a translation by Cyril
-  Bailey (Oxford, 1910).
+  1872), T. C. [[Baring]] (1884). There is also a translation by Cyril
+  [[Bailey]] (Oxford, 1910).
 
 
 FOOTNOTE:

@@ -9,8 +9,8 @@ Cuyler, Morgan & Jesup. He became widely known as a financier, retiring
 from active business in 1884. He was best known, however, as a
 munificent patron of scientific research, a large contributor to the
 needs of education, and a public-spirited citizen of wide interests, who
-did much for the betterment of social conditions in New York. He
-contributed largely to the funds for the Arctic expeditions of Commander
+did much for the [[Betterment|betterment]] of social conditions in New York. He
+contributed largely to the funds for the [[Arctic]] expeditions of Commander
 Robert E. Peary, becoming president of the Peary Arctic Club in 1899. To
 the American museum of natural history, in New York City, he gave large
 sums in his lifetime and bequeathed $1,000,000. He was president of the
@@ -42,12 +42,12 @@ to us.
   following:--
 
   1. First, because earliest in point of time, the references to the
-  Lord Jesus Christ in the earliest Epistles of St Paul.
+  Lord Jesus Christ in the earliest [[Epistle|Epistles]] of St Paul.
 
   2. The Gospel according to St Mark.
 
   3. A document, no longer extant, which was partially incorporated into
-  the Gospels of St Matthew and St Luke.
+  the Gospels of St [[Matthew]] and St [[Luke]].
 
   4. Further information added by St Matthew's Gospel.
 
@@ -67,7 +67,7 @@ to us.
   Gospels, and as showing how incapable a later age was of adding
   anything to the Gospel history which was not palpably absurd.
 
-1. _Letters of St Paul._--In the order of chronology we must give the
+1. _Letters of St Paul._--In the order of [[Chronology|chronology]] we must give the
 first place to the earliest letters of St Paul. The first piece of
 Christian literature which has an independent existence and to which we
 can fix a date is St Paul's first Epistle to the Thessalonians.
@@ -94,7 +94,7 @@ Christ"? An educated Greek, who knew something (as many at that time
 did) of the Greek translation of the ancient Hebrew Scriptures, if he
 had picked up this letter before he had ever heard the name of Jesus
 Christ, would have been deeply interested in these opening words. He
-would have known that "Jesus" was the Greek form of Joshua; that
+would have known that "Jesus" was the Greek form of [[Joshua]]; that
 "Christ" was the Greek rendering of Messiah, or Anointed, the title of
 the great King for whom the Jews were looking; he might further have
 remembered that "the Lord" is the expression which the Greek Old
@@ -106,7 +106,7 @@ on the ground of that relation a society has been built up, apparently
 by Jews, in a Greek city far distant from Palestine. He would learn
 something as he read on; for the letter makes a passing reference to the
 foundation of the society, and to the expansion of its influence in
-other parts of Greece; to the conversion of its members from heathenism,
+other parts of Greece; to the [[Conversion|conversion]] of its members from heathenism,
 and to the consequent sufferings at the hands of their heathen
 neighbours. The writers speak of themselves as "apostles," or
 messengers, of Christ; they refer to similar societies "in Christ
@@ -134,7 +134,7 @@ letters would want to know more than he had told them of the earthly
 life of the Lord Jesus. They would wish to be able to picture Him to
 their minds; and especially to understand what could have led to His
 being put to death by the Romans at the requisition of the Jews. St Paul
-had not been one of his personal disciples in Galilee or Jerusalem; he
+had not been one of his personal [[Disciple|disciples]] in Galilee or Jerusalem; he
 had no memories to relate of His miracles and teaching. Some written
 account of these was an obvious need. And we may be sure that any such
 narrative concerning One who was so deeply reverenced would be most
@@ -172,7 +172,7 @@ Then, we read, "Jesus came." St Mark introduces Him quite abruptly, just
 as he had introduced John; for he is writing for those who already know
 the outlines of the story. "Jesus came from Nazareth of Galilee." He was
 baptized by John, and as He came out of the water He had a vision of the
-opened heavens and the Holy Spirit, like a dove, descending upon Him;
+opened heavens and the Holy Spirit, like a [[Dove|dove]], descending upon Him;
 and He heard a Voice saying, "Thou art My Son, the Beloved: in Thee I am
 well pleased." He then passed away into the wilderness, where He was
 tempted by Satan and fed by angels. Then He begins His work; and from
@@ -199,7 +199,7 @@ morning He was gone. He had sought a quiet spot for prayer. Peter, one
 of those fishermen whom He had called, whose wife's mother had been
 healed the day before, found Him and tried to bring Him back. "All men
 are seeking Thee," he pleaded. "Let us go elsewhere" was the quiet reply
-of one who could not be moved by popular enthusiasm. Once again, we
+of one who could not be moved by popular [[Enthusiasm|enthusiasm]]. Once again, we
 observe, He fulfils John's sign: He is strong. This is our first sight
 of Jesus Christ. The next shows us that this great strength is united to
 a most tender sympathy. To touch a leper was forbidden, and the offence
@@ -210,7 +210,7 @@ immediately. But he disobeyed the command to be silent about the matter,
 and the result was that Jesus could not openly enter into the town, but
 remained outside in the country. It is the first shadow that falls
 across His path; His power finds a check in human wilfulness. Presently
-He is in Capernaum again. He heals a paralysed man, but not until He has
+He is in [[Capernaum]] again. He heals a paralysed man, but not until He has
 come into touch, as we say, with him also, by reaching his deepest need
 and declaring the forgiveness of his sins. This declaration disturbs the
 rabbis, who regard it as a blasphemous usurpation of Divine authority.
@@ -226,22 +226,22 @@ religious tradition. This freedom from the trammels of convention
 appears yet again when he claims as a new disciple a publican, a man
 whose calling as a tax-gatherer for the Roman government made him odious
 to every patriotic Jew. Publicans were classed with open sinners; and
-when Jesus went to this man's house and met a company of his fellows the
+when Jesus went to this man's house and met a company of his [[Fellows|fellows]] the
 rabbis were scandalized: "Why eateth your Master with publicans and
 sinners?" The gentle answer of Jesus showed His sympathy even with those
 who opposed Him: "The doctor," He said, "must go to the sick." And
 again, when they challenged His disciples for not observing the regular
 fasts, He gently reminded them that they themselves relaxed the
-discipline of fasting for a bridegroom's friends. And He added, in
+discipline of [[Fasting|fasting]] for a bridegroom's friends. And He added, in
 picturesque and pregnant sayings, that an old garment could not bear a
 new patch, and that old wine-skins could not take new wine. Such
 language was at once gentle and strong; without condemning the old, it
 claimed liberty for the new. To what lengths would this liberty go? The
 sacred badge of the Jews' religion, which marked them off from other men
 all the world over, was their observance of the Sabbath. It was a
-national emblem, the test of religion and patriotism. The rabbis had
+national [[Emblem|emblem]], the test of religion and patriotism. The rabbis had
 fenced the Sabbath round with minute commands, lest any Jews should even
-seem to work on the Sabbath day. Thus, plucking and rubbing the ears of
+seem to work on the Sabbath day. Thus, plucking and rubbing the [[Ear|ears]] of
 corn was counted a form of reaping and threshing. The hungry disciples
 had so transgressed as they walked through the fields of ripe corn.
 Jesus defended them by the example of David, who had eaten the
@@ -264,7 +264,7 @@ angry. They were wilfully blind, and they would rather not see good done
 than see it done in a way that contradicted their teachings and
 undermined their influence. After a sharp remonstrance, He healed the
 man by a mere word. And they went out to make a compact with the
-followers of the worldly Herod to kill Him, and so to stave off a
+followers of the worldly [[Herod]] to kill Him, and so to stave off a
 religious revolution which might easily have been followed by political
 trouble.
 
@@ -278,7 +278,7 @@ universal domination under the leadership of a divinely anointed King, a
 new figure has appeared. His appearance has been announced by a
 reforming prophet, who has summoned the nation to return to its God, and
 promised that a stronger than himself is to follow. In fulfilment of
-this promise, who is it that has come? Not a rough prophet in the desert
+this promise, who is it that has come? Not a rough prophet in the [[Desert|desert]]
 like John, not a leader striking for political freedom, not a pretender
 aiming at the petty throne of the Herods, not even a great rabbi,
 building on the patriotic foundation of the Pharisees who had secured
@@ -320,12 +320,12 @@ clear that conciliatory argument could have no effect upon the Jewish
 religious leaders. The controversy about the Sabbath had brought their
 dissatisfaction to a climax. Henceforth Jesus was to them a
 revolutionary, who must, by any means, be suppressed. After this
-decisive breach a new period opens. Jesus leaves Capernaum, never again,
+decisive [[Breach|breach]] a new period opens. Jesus leaves Capernaum, never again,
 it would seem, to appear in its synagogue. Henceforward He was to be
 found, with His disciples, on the shore of the lake, where vast
 multitudes gathered round Him, drawn not only from Galilee and Judaea,
 but also from the farther districts north and east of these. He would
-take refuge from the crowds in a boat, which carried Him from shore to
+take refuge from the [[Crowd|crowds]] in a boat, which carried Him from shore to
 shore; and His healing activity was now at its height. Yet in the midst
 of this popular enthusiasm He knew that the time had come to prepare for
 a very different future, and accordingly a fresh departure was made when
@@ -379,7 +379,7 @@ Teacher slept. A sudden storm terrified the disciples, and they roused
 Him in alarm. He stilled the storm with a word and rebuked their want of
 faith. "Who then is this," they whispered with awe, "that even the wind
 and the sea obey Him?" On the opposite hills a solitary spectator had
-watched the rise and the lull of the tempest, a fierce demoniac who
+watched the rise and the [[Lull|lull]] of the tempest, a fierce demoniac who
 dwelt among the tombs on the mountain-side. He believed himself to be
 possessed by a regiment of demons. When Jesus bade them go forth, he
 begged that they might be allowed to enter into a herd of swine which
@@ -548,7 +548,7 @@ David's city in lowly but significant pomp as David's promised heir.
 Two incidents illustrate the spirit of judgment with which He approached
 the splendid but apostate city. On His arrival He had carefully observed
 the condition of the Temple, and had retired to sleep outside the city.
-On the following morning, finding no fruit on a fig-tree in full leaf,
+On the following morning, finding no fruit on a fig-tree in full [[Leaf|leaf]],
 He said, "Let no man eat fruit of thee henceforth for ever." It was a
 parable of impending doom. Then, when He entered the Temple, He swept
 away with a fiery zeal the merchants and merchandise which had turned
@@ -577,7 +577,7 @@ over all the sacrificial worship of the Temple, and was told in reply
 that he was not far from the kingdom of God. Jesus Himself now put a
 question as to the teaching of the scribes which identified the Messiah
 with "the Son of David"; and then He denounced those scribes whose pride
-and extortion and hypocrisy were preparing for them a terrible doom.
+and extortion and [[Hypocrisy|hypocrisy]] were preparing for them a terrible doom.
 Before He left the Temple, never to return, one incident gave Him pure
 satisfaction. His own teaching that all must be given for God was
 illustrated by the devotion of a poor widow who cast into the treasury
@@ -605,7 +605,7 @@ sent into Jerusalem to prepare the Passover meal. During the meal Jesus
 declared that He should be betrayed by one of their number. Later in the
 evening He gave them bread and wine, proclaiming that these were His
 body and His blood--the tokens of His giving Himself to them, and of a
-new covenant with God through His death. As they withdrew to the Mount
+new [[Covenant|covenant]] with God through His death. As they withdrew to the Mount
 of Olives He foretold their general flight, but promised that when He
 was risen He would go before them into Galilee. Peter protested
 faithfulness unto death, but was told that he would deny his Master
@@ -624,7 +624,7 @@ matter was brought to an issue when He was plainly asked if He were "the
 Christ, the Son of the Blessed One." He answered that He was, and He
 predicted that they should see the fulfilment of Daniel's vision of the
 Son of Man sitting on the right hand of power. Thereupon He was
-condemned to death for manifest blasphemy, and a scene of cruel mockery
+condemned to death for [[Manifest|manifest]] blasphemy, and a scene of cruel mockery
 followed. Meanwhile Peter in the court below had been sitting with the
 servants, and in his anxiety to escape recognition had thrice declared
 that he did not know Jesus. Thus the night passed, and in the morning
@@ -643,7 +643,7 @@ crucifixion of Jesus. Pilate fulfilled his pledge by giving them the man
 of their choice, and Jesus, whom he had vainly hoped to release on a
 satisfactory pretext, he now condemned to the shameful punishments of
 scourging and crucifixion; for the cross, as Jesus had foreseen, was the
-inevitable fate of a Jewish pretender to sovereignty. The Roman soldiers
+inevitable [[Fate|fate]] of a Jewish pretender to sovereignty. The Roman soldiers
 mocked "the King of the Jews" with a purple robe and a crown of thorns.
 As they led Him out they forced the cross, which the sufferer commonly
 carried, upon the shoulders of one Simon of Cyrene, whose son's
@@ -681,7 +681,7 @@ tomb, "and they said nothing to any man, for they feared...."
 So with a broken sentence the narrative ends. The document is imperfect,
 owing probably to the accidental loss of its last leaf. In very early
 times attempts were made to furnish it with a fitting close; but neither
-of the supplements which we find in manuscripts can be regarded as
+of the supplements which we find in [[Manuscript|manuscripts]] can be regarded as
 coming from the original writer. If we ask what must, on grounds of
 literary probability, have been added before the record was closed, we
 may content ourselves here with saying that some incident must certainly
@@ -760,7 +760,7 @@ begin with, it contained a fuller account of the teaching of John the
 Baptist. St Mark tells us only his message of hope; but here we read the
 severer language with which he called men to repentance. We hear his
 warning of "the coming wrath": his mighty Successor will baptize with
-fire; the fruitless tree will be cast into the fire; the chaff will be
+fire; the fruitless tree will be cast into the fire; the [[Chaff|chaff]] will be
 separated from the wheat and burned with unquenchable fire; the claim to
 be children of Abraham will not avail, for God can raise up other
 children to Abraham, if it be from the stones of the desert. Next, we
@@ -781,7 +781,7 @@ startling reversal of the common estimates of happiness and misery. In
 the light of the coming kingdom it proclaims the blessedness of the
 poor, the hungry, the sad and the maligned; and the woefulness of the
 rich, the full, the merry and the popular. It goes on to reverse the
-ordinary maxims of conduct. Enemies are to be loved, helped, blessed,
+ordinary [[Maxims|maxims]] of conduct. Enemies are to be loved, helped, blessed,
 prayed for. No blow is to be returned; every demand, just or unjust, is
 to be granted: in short, "as ye desire that men should do to you, do in
 like manner to them." Then the motive and the model of this conduct are
@@ -854,7 +854,7 @@ was due to Beelzebub. He accordingly asked them by whom the Jews
 themselves cast out demons; and He claimed that His power was a sign
 that the kingdom of God was come. But He warned them that demons cast
 out once might return in greater force. When they asked for a sign from
-heaven, He would give them no more than the sign of Jonah, explaining
+heaven, He would give them no more than the sign of [[Jonah]], explaining
 that the repentant Ninevites should condemn the present generation: so,
 too, should the queen of Sheba; for that which they were now rejecting
 was more than Jonah and more than Solomon. Yet further warnings were
@@ -863,7 +863,7 @@ that He did not wash His hands before the meal. The cleansing of
 externals and the tithing of garden-produce, He declares, have usurped
 the place of judgment and the love of God. Woe is pronounced upon the
 Pharisees: they are successors to the murderers of the prophets. Then
-citing from Genesis and 2 Chronicles, the first and last books in the
+citing from [[Genesis]] and 2 Chronicles, the first and last books in the
 order of the Jewish Bible, He declared that all righteous blood from
 that of Abel to that of Zachariah should be required of that generation.
 After this the disciples are encouraged not to fear their murderous
@@ -875,12 +875,12 @@ their life and beauty. God will give food and raiment to those who are
 seeking His kingdom. Earthly goods should be given away in exchange for
 the imperishable treasures. Suddenly will the Son of Man come: happy the
 servant whom His Master finds at his appointed task. In brief parables
-the kingdom of God is likened to a mustard-seed and to leaven. When
+the kingdom of God is likened to a mustard-seed and to [[Leaven|leaven]]. When
 Jesus is asked if the saved shall be few, He replies that the door is a
 narrow one. Then, changing His illustration, He says that many shall
 seek entrance in vain; for the master of the house will refuse to
 recognize them. But while they are excluded, a multitude from all
-quarters of the earth shall sit down with Abraham, Isaac and Jacob, and
+quarters of the earth shall sit down with Abraham, [[Isaac]] and [[Jacob]], and
 the prophets in the kingdom of God.
 
 His eyes are now fixed on Jerusalem, where, like the prophets, He must
@@ -897,7 +897,7 @@ mother cannot be a disciple, nor he who does not bear his cross.
 Savourless salt is fit for nothing. The lost sheep is brought home with
 a special joy. "Ye cannot serve God and Mammon." Scandals must arise,
 but woe to him through whom they arise. The Son of Man will come with
-the suddenness of lightning; the days of Noah and the days of Lot will
+the suddenness of lightning; the days of Noah and the days of [[Lot]] will
 find a parallel in their blind gaiety and their inevitable disaster. He
 who seeks to gain his life will lose it. "One shall be taken, and the
 other left." "Where the carcase is, the vultures will gather." Then,
@@ -1018,7 +1018,7 @@ examined in turn the two earliest pictures which have been preserved to
 us of the life of Jesus Christ. The first portrays Him chiefly by a
 record of His actions, and illustrates His strength, His sympathy, and
 His freedom from conventional restraints. It shows the disturbing forces
-of these characteristics, which aroused the envy and apprehension of the
+of these characteristics, which aroused the envy and [[Apprehension|apprehension]] of the
 leaders of religion. The first bright days of welcome and popularity are
 soon clouded: the storm begins to lower. More and more the Master
 devotes Himself to the little circle of His disciples, who are taught
@@ -1133,7 +1133,7 @@ a settled Church.
 Apart from the important parables of the tares, the pearl and the net,
 the writer adds little to his sources until we come to the remarkable
 passage in ch. xvi., in which Peter the Rock is declared to be the
-foundation of the future Church, and is entrusted with the keys of the
+foundation of the future Church, and is entrusted with the [[Key|keys]] of the
 kingdom of heaven. The function of "binding and loosing," here assigned
 to him, is in identical terms assigned to the disciples generally in a
 passage in ch. xviii. in which for the second time we meet with the word
@@ -1218,7 +1218,7 @@ reply to the Baptist's messengers which is incorporated subsequently
 from the second document. The scene ends with the rejection of Christ by
 His own townsfolk, as in the parallel story of St Mark which St Luke
 does not give. It is probable that St Luke found this narrative in the
-second document, and chose it after his manner in preference to the less
+second document, and [[Chose|chose]] it after his manner in preference to the less
 instructive story in St Mark. He similarly omits the Marcan account of
 the call of the fishermen, substituting the story of the miraculous
 draught. After that he follows St Mark alone, until he introduces after
@@ -1462,7 +1462,7 @@ attempt is made to arrest Jesus. A climax of indignation is reached when
 a blind man is healed at the pool of Siloam on the sabbath day. At the
 feast of the dedication a fresh effort at arrest was made, and Jesus
 then withdrew beyond the Jordan. Here He learned of the sickness of
-Lazarus, and presently He returned and came to Bethany to raise him from
+[[Lazarus]], and presently He returned and came to [[Bethany]] to raise him from
 the dead. The excitement produced by this miracle led to yet another
 attack, destined this time to be successful, on the life of Jesus. The
 Passover was at hand, and the last supper of our Lord with His disciples

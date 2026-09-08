@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Habsburg"
 # Habsburg
 
 HABSBURG, or HAPSBURG, the name of the famous family from which have
-sprung the dukes and archdukes of Austria from 1282, kings of Hungary
+sprung the [[Dukes|dukes]] and archdukes of Austria from 1282, kings of Hungary
 and Bohemia from 1526, and emperors of Austria from 1804. They were also
 Roman emperors and German kings from 1438 to 1806, and kings of Spain
 from 1516 to 1700, while the minor dignities held by them at different
@@ -20,12 +20,12 @@ castle), was taken from the castle of Habsburg, which was situated on
 the river Aar not far from its junction with the Rhine. The castle was
 built about 1020 by Werner, bishop of Strassburg, and his brother,
 Radbot, the founder of the abbey of Muri. These men were grandsons of a
-certain Guntram, who, according to some authorities, is identical with a
+certain [[Guntram]], who, according to some authorities, is identical with a
 Count Guntram who flourished during the reign of the emperor Otto the
 Great, and whose ancestry can be traced back to the time of the
 Merovingian kings. This conjecture, however, is extremely problematical.
 Among Radbot's sons was one Werner, and Werner and his son Otto were
-called counts of Habsburg, Otto being probably made landgrave of upper
+called counts of Habsburg, Otto being probably made [[Landgrave|landgrave]] of upper
 Alsace late in the 11th or early in the 12th century. At all events
 Otto's son Werner (d. 1167), and the latter's son Albert (d. 1199), held
 this dignity, and both landgraves increased the area of the Habsburg
@@ -77,23 +77,23 @@ the Habsburgs was not a Luxemburg but a Wittelsbach. Without making any
 definite partition, Albert's five remaining sons spent their time in
 governing their lands until 1314, when one of them, Frederick called the
 Fair, forsook this comparatively uneventful occupation and was chosen by
-a minority of the electors German king in succession to Henry VII. At
+a minority of the [[Electors|electors]] German king in succession to Henry VII. At
 the same time the Wittelsbach duke of Bavaria, Louis, known to history
 as the emperor Louis the Bavarian, was also chosen. War was inevitable,
-and the battle of Muhldorf, fought in September 1322, sealed the fate of
-Frederick. Louis was victorious: his rival went into an honourable
-captivity, and the rising Habsburg sun underwent a temporary eclipse.
+and the battle of Muhldorf, fought in September 1322, sealed the [[Fate|fate]] of
+Frederick. Louis was victorious: his rival went into an [[Honourable|honourable]]
+captivity, and the rising Habsburg sun underwent a temporary [[Eclipse|eclipse]].
 
 For more than a century after Frederick's death in 1330 the Habsburgs
 were exiles from the German throne. But they were not inactive. In 1335
 his two surviving brothers, Albert and Otto, inherited Carinthia and
-part of Carniola by right of their mother, Elizabeth; in 1363 Albert's
-son Rudolph received Tirol; and during the same century part of Istria,
+part of [[Carniola]] by right of their mother, Elizabeth; in 1363 Albert's
+son Rudolph received Tirol; and during the same century part of [[Istria]],
 Trieste and other districts were acquired. All King Albert's six sons
 had died without leaving male issue save Otto, whose family became
 extinct in 1344, and Albert, the ancestor of all the later Habsburgs. Of
-Albert's four sons two also left no male heirs, but the remaining two,
-Albert III. and Leopold III., were responsible for a division of the
+Albert's four sons two also left no male [[Heir|heirs]], but the remaining two,
+Albert III. and [[Leopold]] III., were responsible for a division of the
 family which is of some importance. By virtue of a partition made upon
 their brother Rudolph's death in 1365 Albert and his descendants ruled
 over Austria, while Leopold and his sons took Styria, Carinthia and
@@ -125,7 +125,7 @@ Ernest, left male issue. Frederick and his only son, Sigismund, confined
 their attention mainly to Tirol and Alsace, leaving the larger destinies
 of the family in the hands of Ernest of Carinthia and Styria (d. 1424)
 and his sons, Frederick and Albert and after the death of King Ladislaus
-in 1457 these two princes and their cousin Sigismund were the only
+in 1457 these two princes and their [[Cousin|cousin]] Sigismund were the only
 representatives of the Habsburgs. In February 1440 Frederick of Styria
 was chosen German king in succession to his kinsman Albert. He was a
 weak and incompetent ruler, but a stronger and abler man might have
@@ -133,7 +133,7 @@ shrunk from the task of administering his heterogeneous and unruly
 realm. Although very important in the history of the house of Habsburg,
 Frederick's long reign was a period of misfortune, and the motto which
 he assumed, A.E.I.O.U. (_Austriae est imperare orbi universo_), seemed
-at the time a particularly foolish boast. He acted as guardian both to
+at the time a particularly foolish boast. He acted as [[Guardian|guardian]] both to
 Ladislaus of Hungary, Bohemia and Austria, and to Sigismund of Tirol,
 and in all these countries his difficulties were increased by the
 hostility of his brother Albert. Having disgusted the Tirolese he gave
@@ -160,13 +160,13 @@ Frederick III. and Sigismund of Tirol. Taking advantage of some
 dissensions among the Swiss, the king saw an opportunity to recover his
 lost lands, and in 1443 war broke out. But his allies, the men of
 Zurich, were defeated, and when in August 1444 some French mercenaries,
-who had advanced to his aid, suffered the same fate at St Jakob, he was
+who had advanced to his aid, suffered the same fate at St [[Jakob]], he was
 compelled to give up the struggle. A few years later Sigismund became
 involved in a war with the same formidable foemen; he too was worsted,
 and the "Perpetual Peace" of 1474 ended the rule of the Habsburgs in
 Switzerland. This humiliation was the second great step in the process
 of removing the Habsburgs from western to eastern Europe. In 1453, just
-after his coronation as emperor at Rome, Frederick legalized the use of
+after his [[Coronation|coronation]] as emperor at Rome, Frederick legalized the use of
 the title archduke, which had been claimed spasmodically by the
 Habsburgs since 1361. This title is now peculiar to the house of
 Habsburg.
@@ -174,7 +174,7 @@ Habsburg.
 The reverses suffered by the Habsburgs during the reign of Frederick
 III. were many and serious, but an improvement was at hand. The emperor
 died in August 1493, and was followed on the imperial throne by his son
-Maximilian I., perhaps the most versatile and interesting member of the
+[[Maximilian]] I., perhaps the most versatile and interesting member of the
 family. Before his father's death Maximilian had been chosen German
 king, or king of the Romans, and had begun to repair the fortunes of his
 house. He had married Mary, daughter and heiress of Charles the Bold,
@@ -183,7 +183,7 @@ Austrian archduchies, which Frederick had, perforce, allowed them to
 occupy; and he had received Tirol on the abdication of Sigismund in
 1490. True it is that upon Mary's death in 1482 part of her inheritance,
 the rich and prosperous Netherlands, held that her husband's authority
-was at an end, while another part, the two Burgundies and Artois, had
+was at an end, while another part, the two Burgundies and [[Artois]], had
 been seized by the king of France; nevertheless, after a protracted
 struggle the German king secured almost the whole of Charles the Bold's
 lands for his son, the archduke Philip, the duchy of Burgundy alone
@@ -192,15 +192,15 @@ Senlis in 1493. Maximilian completed his work by adding a piece of
 Bavaria, Gorz and then Gradiska to the Habsburg lands.
 
 After Sigismund's death in 1496 Maximilian and Philip were the only
-living male members of the family. Philip married Joanna, daughter of
-Ferdinand and Isabella of Spain, and died in 1506 leaving two sons,
+living male members of the family. Philip married [[Joanna]], daughter of
+[[Ferdinand]] and [[Isabella]] of Spain, and died in 1506 leaving two sons,
 Charles and Ferdinand. Charles succeeded his father in the Netherlands;
 he followed one grandfather, Ferdinand, as king of Spain in 1516, and
 when the other, Maximilian, died in 1519 he became the emperor Charles
 V., and succeeded to all the hereditary lands of the Habsburgs. But
 provision had to be made for Ferdinand, and in 1521 this prince was
 given the Austrian archduchies, Austria, Styria, Carinthia and Carniola;
-in the same year he married Anne, daughter of Wladislaus, king of
+in the same year he married [[Anne]], daughter of Wladislaus, king of
 Hungary and Bohemia, and when his childless brother-in-law, King Louis,
 was killed at the battle of Mohacs in August 1526 he claimed the two
 kingdoms, both by right of his wife and by treaty. After a little
@@ -218,8 +218,8 @@ the wealth and commerce of the Netherlands and of Spain, and by the
 riches of the Spanish colonies in America. In Italy he ruled over
 Sardinia, Naples and Sicily, which had passed to him with Spain, and the
 duchy of Milan, which he had annexed in 1535; to the Netherlands he had
-added Friesland, the bishopric of Utrecht, Groningen and Gelderland, and
-he still possessed Franche-Comte and the fragments of the Habsburg lands
+added [[Friesland]], the bishopric of Utrecht, [[Groningen]] and [[Gelderland]], and
+he still possessed [[Franche-Comte]] and the fragments of the Habsburg lands
 in Alsace and the neighbourhood. Add to this Ferdinand's inheritance,
 the Austrian archduchies and Tirol, Bohemia with her dependent
 provinces, and a strip of Hungary, and the two brothers had under their
@@ -244,7 +244,7 @@ childless in November 1700, and his lands were the prize of the War of
 the Spanish Succession. The Austrian Habsburgs fought long and valiantly
 for the kingdom of their kinsman, but Louis XIV. was too strong for
 them, and by the peace of Rastatt Spain passed from the Habsburgs to the
-Bourbons. However, the Austrian branch of the family received in 1714
+[[Bourbon|Bourbons]]. However, the Austrian branch of the family received in 1714
 the Italian possessions of Charles II., except Sicily, which was given
 to the duke of Savoy, and also the southern Netherlands, which are thus
 often referred to as the Austrian Netherlands; and retained the duchy of
@@ -257,13 +257,13 @@ Hungary, and succeeded his father as emperor; he married Maria, a
 daughter of Charles V., and though he had a large family his male line
 became extinct in 1619. The younger sons were Ferdinand, ruler of Tirol,
 and Charles, archduke of Styria. The emperor Maximilian II. left five
-sons, two of whom, Rudolph and Matthias, succeeded in turn to the
+sons, two of whom, Rudolph and [[Matthias]], succeeded in turn to the
 imperial throne, but, as all the brothers were without male issue, the
 family was early in the 17th century threatened with a serious crisis.
 Rudolph died in 1612, the reigning emperor Matthias was old and ill, and
 the question of the succession to the Empire, to the kingdoms of
 Hungary and Bohemia, and to the hereditary lands of the Habsburgs became
-acute. Turning to the collateral branches of the family, the sons of the
+acute. Turning to the [[Collateral|collateral]] branches of the family, the sons of the
 archduke Ferdinand were debarred from the succession owing to their
 father's morganatic marriage with Philippine Welser, and the only hope
 of the house was in the sons of Charles of Styria. To prevent the
@@ -313,9 +313,9 @@ threw Italian affairs into the shade. Charles VI., who had succeeded his
 brother, Joseph I., as emperor in 1711, was without sons, and his prime
 object in life was to secure the succession of his elder daughter, Maria
 Theresa, to the whole of his lands and dignities. But in 1713, four
-years before the birth of Maria Theresa, he had first issued the famous
+years before the birth of [[Maria Theresa]], he had first issued the famous
 _Pragmatic Sanction_, which declared that the Habsburg monarchy was
-indivisible and that in default of male heirs a female could succeed to
+indivisible and that in [[Default|default]] of male heirs a female could succeed to
 it. Then after the death of his only son and the birth of Maria Theresa
 the emperor bent all his energies to securing the acceptance of the
 Pragmatic Sanction. Promulgated anew in 1724, it was formally accepted
@@ -323,7 +323,7 @@ by the estates of the different Habsburg lands; in 1731 it was
 guaranteed by the imperial diet. By subordinating every other interest
 to this, Charles at length procured the assent of the various powers of
 Europe to the proposed arrangement; he married the young princess to
-Francis Stephen, duke of Lorraine, afterwards grand-duke of Tuscany, and
+Francis Stephen, duke of [[Lorraine]], afterwards [[Grand-Duke|grand-duke]] of Tuscany, and
 when he died on the 20th of October 1740 he appeared to have realized
 his great ambition. With the emperor's death the house of Habsburg,
 strictly speaking, became extinct, its place being taken by the house of
@@ -339,7 +339,7 @@ GENEALOGICAL TABLE OF THE HOUSE OF HABSBURG-LORRAINE.
                                            |
            +-------------------+-----------+----------------+---------------------------------------------------------------------------------------------------+
            |                   |                            |                                                                                                   |
-  Joseph II., emperor   Leopold II., emperor   Maximilian, elector of Cologne                                                                                   |
+  Joseph II., emperor   Leopold II., emperor   Maximilian, elector of [[Cologne]]                                                                                   |
       (1741-1790).          (1747-1792).               (1756-1801).                                                                                             |
                                                                                                                                                                 |
            +--------------------+--------------------+--------------+-------------+-------------+------------+--------------+-------------+--------------+      |
@@ -401,7 +401,7 @@ GENEALOGICAL TABLE OF THE HOUSE OF HABSBURG-LORRAINE.
                                    (b. 1872).         (b. 1874).        (b. 1878).         |                      |
                                                           |                                |         +----------+-+--------+-----------+
                                                   +-------+----+                           |         |          |          |           |
-                                                  |            |                           |  Francis Charles  Hubert    Theodore    Clement
+                                                  |            |                           |  Francis Charles  [[Hubert]]    Theodore    [[Clement]]
                                                Godfrey      George                         |     Salvator     Salvator   Salvator    Salvator
                                               (b. 1902).   (b. 1905).                      |    (b. 1893).    (b. 1894). (b. 1899). (b. 1904).
                                                                                            |
@@ -411,7 +411,7 @@ GENEALOGICAL TABLE OF THE HOUSE OF HABSBURG-LORRAINE.
                                                                          (b. 1895).    (b. 1897).  (b. 1901).    (b. 1905).
 
 Immediately after the death of Charles the Pragmatic Sanction was
-forgotten. A crowd of claimants called for various parts of the Habsburg
+forgotten. A [[Crowd|crowd]] of claimants called for various parts of the Habsburg
 lands; Frederick the Great, talking less but acting more, invaded and
 conquered Silesia, and it seemed likely that the dissolution of the
 Habsburg monarchy would at no long interval follow the extinction of the
@@ -420,7 +420,7 @@ the emperor Charles VII., and not Francis Stephen, was chosen emperor in
 January 1742, and by the treaty of Breslau, made later in the same year,
 nearly all Silesia was formally surrendered to Prussia. But the worst
 was now over, and when in 1748 the peace of Aix-la-Chapelle, which
-practically confirmed the treaty of Breslau, had cleared away the dust
+practically confirmed the treaty of Breslau, had cleared away the [[Dust|dust]]
 of war, Maria Theresa and her consort were found to occupy a strong
 position in Europe. In the first place, in September 1745, Francis had
 been chosen emperor; then the imperial pair ruled Hungary and Bohemia,
@@ -452,8 +452,8 @@ residuum, the banate of Temesvar, was permanently incorporated with
 Hungary. The struggle over the succession to Bavaria, which was
 concluded in 1779 by the treaty of Teschen, was responsible for adding
 Innviertel, or the quarter of the Inn, to Austria; the first partition
-of Poland brought eastern Galicia and Lodomeria, and in 1777 the sultan
-ceded Bukovina. Joseph II. was followed by his brother, Leopold II., who
+of Poland brought eastern [[Galicia]] and Lodomeria, and in 1777 the sultan
+ceded [[Bukovina]]. Joseph II. was followed by his brother, Leopold II., who
 restored the Austrian authority in the Netherlands, and the latter by
 his son Francis II., who resigned the crown of the Holy Roman Empire in
 August 1806, having two years before taken the title of emperor of
@@ -464,19 +464,19 @@ suffered from the fury of revolutionary France, but the cessions of
 territory made by her at the treaties of Campo Formio (1797), of
 Luneville (1801) and of Pressburg (1805) were of no enduring importance.
 This, however, cannot be said for the treaties of Paris and of Vienna,
-which in 1814 and 1815 arranged the map of Europe upon the conclusion of
+which in 1814 and 1815 arranged the [[Map|map]] of Europe upon the conclusion of
 the Napoleonic wars. These were highly favourable to the Habsburgs. In
 eastern and central Europe Austria regained her former position, the
 lands ceded to Bavaria and also eastern Galicia, which had been in the
 hands of Russia since 1809, being restored; she gave up the Austrian
-Netherlands, soon to be known as Belgium, to the new kingdom of the
+Netherlands, soon to be known as [[Belgium]], to the new kingdom of the
 Netherlands, and acquiesced in the arrangement which had taken from her
-the Breisgau and the remnant of the Habsburg lands upon the Rhine. In
+the [[Breisgau]] and the remnant of the Habsburg lands upon the Rhine. In
 return for these losses Austria became the dominant power In Italy. A
 mass of northern Italy, including her former possessions in Milan and
 the neighbourhood, and also the lands recently forming the republic of
 Venice, was made into the kingdom of Lombardy-Venetia, and this owned
-the emperor of Austria as king. Across the Adriatic Dalmatia was added
+the emperor of Austria as king. Across the Adriatic [[Dalmatia]] was added
 to the Habsburg monarchy, the population of which, it has been
 estimated, was increased at this time by over four millions.
 
@@ -488,8 +488,8 @@ of revolution, in the midst of which the emperor Ferdinand, who had
 succeeded his father Francis in 1835, abdicated, and his place was taken
 by his young nephew Francis Joseph. The position of the Habsburg
 monarchy now seemed desperate. But it was strong in its immemorial
-tradition, which was enough to make the efforts of the Frankfort
-parliament to establish German unity under Prussian hegemony abortive;
+tradition, which was enough to make the efforts of the [[Frankfort]]
+parliament to establish German unity under Prussian [[Hegemony|hegemony]] abortive;
 it was strong also in the general loyalty to the throne of the imperial
 army; and its counsels were directed by statesmen who knew well how to
 exploit in the interests of the central power the national rivalries
@@ -500,9 +500,9 @@ Olmutz restored its influence in Germany.
 
 Though the _status quo_ was thus outwardly re-established, the
 revolutions of 1848 had really unchained forces which made its
-maintenance impossible. In Germany Prussia was steadily preparing for
+[[Maintenance|maintenance]] impossible. In Germany Prussia was steadily preparing for
 the inevitable struggle with Austria for the mastery; in France Napoleon
-III. was preparing to pose as the champion of the oppressed
+III. was preparing to pose as the [[Champion|champion]] of the oppressed
 nationalities which had once more settled down sullenly under the
 Habsburg yoke. The alliance of the French emperor and the king of
 Sardinia, and the Italian war of 1859 ended in the loss of Lombardy to
@@ -538,7 +538,7 @@ and Herzegovina under Austrian rule. Old ambitions were now revived at
 the expense of the Ottoman empire, the goal of which was the port of
 Salonica; and not the least menacing aspect of the question of the near
 East has been that the rivalry of Italy and the Habsburg monarchy has
-been transferred to the Balkan peninsula. Yet, in spite of internal
+been transferred to the [[Balkan Peninsula|Balkan peninsula]]. Yet, in spite of internal
 dissensions arising out of questions fundamentally insoluble, and in
 spite of the constant threat of external complications that may lead to
 war, the Habsburg monarchy as the result of the changes in the 19th and
@@ -553,7 +553,7 @@ in the maintenance of European peace, and is recognized as necessary and
 beneficial even by the ambitious and restless nationalities that chafe
 under its rule.
 
-A few words must be said about the cadet branches of the Habsburg
+A few words must be said about the [[Cadet|cadet]] branches of the Habsburg
 family. When, in 1765, Francis I. died and Joseph II. became emperor,
 the grand-duchy of Tuscany passed by special arrangement not to Joseph,
 but to his younger brother Leopold. Then in 1791, after Leopold had
@@ -565,7 +565,7 @@ under that of his son Leopold (1797-1870), until the rising of 1859,
 when the Austrians were driven out and the grand-duchy was added to the
 kingdom of Sardinia. A similar fate attended the duchy of Modena, which
 had passed to the Habsburgs through the marriage of its heiress Mary
-Beatrice of Este (d. 1829) with the archduke Ferdinand (1754-1806),
+[[Beatrice]] of Este (d. 1829) with the archduke Ferdinand (1754-1806),
 brother of the emperor Leopold II. From 1814 to 1846 this duchy was
 governed by Ferdinand's son, Duke Francis IV., and from 1846 to 1859 by
 his grandson, Francis V. This family became extinct on the death of
@@ -613,7 +613,7 @@ Maximilian, emperor of Mexico from 1863 to 1867.
 
 With the exception of Charles V. the Habsburgs have produced no
 statesmen of great ability, while several members of the family have
-displayed marked traces of insanity. Nevertheless they secured, and for
+displayed marked traces of [[Insanity|insanity]]. Nevertheless they secured, and for
 over 350 years they kept, the first place among the potentates of
 Europe; a dignity in origin and theory elective becoming in practice
 hereditary in their house. This position they owe to some extent to the
@@ -621,25 +621,25 @@ tenacity with which they have clung to the various lands and dignities
 which have passed into their possession, but they owe it much more to a
 series of fortunate marriages and opportune deaths. The union of
 Maximilian and Mary of Burgundy, of Philip the Handsome and Joanna of
-Spain, of Ferdinand and Anna of Hungary and Bohemia; the death of
+Spain, of Ferdinand and [[Anna]] of Hungary and Bohemia; the death of
 Ottakar of Bohemia, of John, the only son of Ferdinand and Isabella of
 Spain, of Louis of Hungary and Bohemia--these are the corner-stones upon
 which the Habsburg monarchy has been built.
 
   For the origin and early history of the Habsburgs see G. de Roo,
   _Annales rerum ab Austriacis Habsburgicae gentis principibus a
-  Rudolpho I. usque ad Carolum V. gestarum_ (Innsbruck, 1592, fol.); M.
+  Rudolpho I. usque ad Carolum V. gestarum_ ([[Innsbruck]], 1592, fol.); M.
   Herrgott, _Genealogia diplomatica augustae gentis Habsburgicae_
-  (Vienna, 1737-1738); E. M. Furst von Lichnowsky, _Geschichte des
+  (Vienna, 1737-1738); E. M. [[Furst]] von Lichnowsky, _Geschichte des
   Hauses Habsburg_ (Vienna, 1836-1844); A. Schulte, _Geschichte der
   Habsburger in den ersten drei Jahrhunderten_ (Innsbruck, 1887); T. von
   Liebenau, _Die Anfange des Hauses Habsburg_ (Vienna, 1883); W. Merz,
-  _Die Habsburg_ (Aarau, 1896); W. Gisi, _Der Ursprung der Hauser
+  _Die Habsburg_ (Aarau, 1896); W. Gisi, _Der Ursprung der [[Hauser]]
   Zahringen und Habsburg_ (1888); and F. Weihrich, _Stammtafel zur
   Geschichte des Hauses Habsburg_ (Vienna, 1893). For the history of the
   Habsburg monarchy see Langl, _Die Habsburg und die denkwurdigen
   Statten ihrer Umgebung_ (Vienna, 1895); and E. A. Freeman, _Historical
-  Geography of Europe_ (1881). Two English books on the subject are J.
+  [[Geography]] of Europe_ (1881). Two English books on the subject are J.
   Gilbart-Smith, _The Cradle of the Hapsburgs_ (1907); and A. R. and E.
   Colquhoun, _The Whirlpool of Europe, Austria-Hungary and the
   Hapsburgs_ (1906).     (A. W. H.*)

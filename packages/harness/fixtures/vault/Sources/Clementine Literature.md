@@ -1,13 +1,13 @@
 # Clementine Literature
 
 CLEMENTINE LITERATURE, the name generally given to the writings which at
-one time or another were fathered upon Pope Clement I. (q.v.), commonly
-called Clemens Romanus, who was early regarded as a disciple of St
+one time or another were fathered upon Pope [[Clement]] I. (q.v.), commonly
+called Clemens Romanus, who was early regarded as a [[Disciple|disciple]] of St
 Peter. Thus they are for the most part a species of the larger
 pseudo-Petrine genus. Chief among them are: (1) The so-called Second
-Epistle; (2) two Epistles on Virginity; (3) the _Homilies_ and
+[[Epistle]]; (2) two Epistles on Virginity; (3) the _Homilies_ and
 _Recognitions_; (4) the _Apostolical Constitutions_ (q.v.); and (5) five
-epistles forming part of the Forged Decretals (see DECRETALS). The
+epistles forming part of the Forged [[Decretals]] (see DECRETALS). The
 present article deals mainly with the third group, to which the title
 "Clementine literature" is usually confined, owing to the stress laid
 upon it in the famous Tübingen reconstruction of primitive Christianity,
@@ -22,20 +22,20 @@ due to this idea as operative on Syrian soil; (5) is a secondary
 formation based on (3) as known to the West.
 
 (1) _The "Second Epistle of Clement."_--This is really the earliest
-extant Christian homily (see APOSTOLIC FATHERS). Its theme is the duty
+extant Christian homily (see [[Apostolic Fathers|APOSTOLIC FATHERS]]). Its theme is the duty
 of Christian repentance, with a view to obedience to Christ's precepts
-as the true confession and homage which He requires. Its special charge
+as the true confession and [[Homage|homage]] which He requires. Its special charge
 is "Preserve the flesh pure and the seal (i.e. baptism) unstained"
 (viii. 6). But the peculiar way in which it enforces its morals in terms
 of the Platonic contrast between the spiritual and sensuous worlds, as
 archetype and temporal manifestation, suggests a special local type of
 theology which must be taken into account in fixing its _provenance_.
-This theology, the fact that the preacher seems to quote the _Gospel
+This theology, the fact that the preacher seems to quote the _[[Gospel]]
 according to the Egyptians_ (in ch. xii. and possibly elsewhere) as if
 familiar to his hearers, and indeed its literary affinities generally,
 all point to Alexandria as the original home of the homily, at a date
 about 120-140 (see _Zeit. f. N. T. Wissenschaft_, vii. 123 ff). Neither
-Corinth (as Lightfoot) nor Rome (as Harnack, who assigns it to Bishop
+[[Corinth]] (as Lightfoot) nor Rome (as Harnack, who assigns it to Bishop
 Soter, c. 166-174) satisfies all the internal conditions, while the
 Eastern nature of the external evidence and the homily's quasi-canonical
 status in the Codex-Alexandrinus strongly favour an Alexandrine origin.
@@ -45,13 +45,13 @@ sexes. These are known in their entirety only in Syriac, and were first
 published by Wetstein (1752), who held them genuine. This view is now
 generally discredited, even by Roman Catholics like Funk, their best
 recent editor (_Patres Apost._, vol. ii.). External evidence begins with
-Epiphanius (_Haer._ xxx. 15) and Jerome (_Ad Jovin._ i. 12); and the
-silence of Eusebius tells heavily against their existence before the 4th
+[[Epiphanius]] (_Haer._ xxx. 15) and Jerome (_Ad Jovin._ i. 12); and the
+silence of [[Eusebius]] tells heavily against their existence before the 4th
 century, at any rate as writings of Clement. The Monophysite Timothy of
-Alexandria (A.D. 457) cites one of them as Clement's, while Antiochus of
+Alexandria (A.D. 457) cites one of them as Clement's, while [[Antiochus]] of
 St Saba (c. A.D. 620) makes copious but unacknowledged extracts from
 both in the original Greek. There is no trace of their use in the West.
-Thus their Syrian origin is manifest, the more so that in the Syriac MS.
+Thus their Syrian origin is [[Manifest|manifest]], the more so that in the Syriac MS.
 they are appended to the New Testament, like the better-known epistles
 of Clement in the Codex Alexandrinus. Indeed, judging from another
 Syriac MS. of earlier date, which includes the latter writings in its
@@ -70,7 +70,7 @@ A.D. 375). Special occasion for such a hortatory letter may be discerned
 in its polemic against intimate relations between ascetics of opposite
 sex, implied to exist among its readers, in contrast to usage in the
 writer's own locality. Now we know that spiritual unions, prompted
-originally by highstrung Christian idealism as to a religious fellowship
+originally by highstrung Christian [[Idealism|idealism]] as to a religious fellowship
 transcending the law of nature in relation to sex, did exist between
 persons living under vows of celibacy during the 3rd century in
 particular, and not least in Syria (cf. the case of Paul of Samosata, c.
@@ -92,7 +92,7 @@ momentous and gigantic of medieval forgeries, the Isidorian Decretals,"
 "where it stands at the head of the pontifical letters, extended to more
 than twice its original length." This extension perhaps occurred during
 the 5th century. At any rate the letter in this form, along with a
-"second epistle to James" (on the Eucharist, church furniture, &c.),
+"second epistle to James" (on the [[Eucharist]], church furniture, &c.),
 dating from the early 6th century, had separate currency long before the
 9th century, when they were incorporated in the _Decretals_ by the
 forger who raised the Clementine epistles to five (see Lightfoot,
@@ -104,7 +104,7 @@ doctrine, are both evidently the outcome of a peculiar speculative type
 of Judaistic Christianity, for which the most characteristic name of
 Christ was 'the true Prophet.' The framework of both is a narrative
 purporting to be written by Clement (of Rome) to St James, the Lord's
-brother, describing at the beginning his own conversion and the
+brother, describing at the beginning his own [[Conversion|conversion]] and the
 circumstances of his first acquaintance with St Peter, and then a long
 succession of incidents accompanying St Peter's discourses and
 disputations, leading up to a romantic recognition of Clement's father,
@@ -114,7 +114,7 @@ rare exceptions fundamental problems for every age; and, whatever may be
 thought of the positions maintained, the discussions are hardly ever
 feeble or trivial. Regarded simply as mirroring the past, few, if any,
 remains of Christian antiquity present us with so vivid a picture of the
-working of men's minds under the influence of the new leaven which had
+working of men's minds under the influence of the new [[Leaven|leaven]] which had
 entered into the world" (Hort, _Clem. Recog._, p. xiv.).
 
 The indispensable preliminary to a really historic view of these
@@ -135,8 +135,8 @@ _Criticism._--(i.) _External Evidence as to the Clementine Romance._ The
 evidence of ancient writers really begins, not with Origen,[1] but with
 Eusebius of Caesarea, who in his _Eccl. Hist._ iii. 38, writes as
 follows: "Certain men have quite lately brought forward as written by
-him (Clement) other verbose and lengthy writings, containing dialogues
-of Peter, forsooth, and Apion, whereof not the slightest mention is to
+him (Clement) other verbose and lengthy writings, containing [[Dialogue|dialogues]]
+of Peter, forsooth, and [[Apion]], whereof not the slightest mention is to
 be found among the ancients, for they do not even preserve in purity the
 stamp of the Apostolic orthodoxy." Apion, the Alexandrine grammarian
 and foe of Judaism, whose criticism was answered by Josephus, appears
@@ -145,11 +145,11 @@ in the former (iv. 6-vii. 5). Thus Eusebius implies (1) a spurious
 Clementine work containing matter found also in our _Homilies_ at any
 rate; and (2) its quite recent origin. Next we note that an extract in
 the _Philocalia_ is introduced as follows: "Yea, and Clement the Roman,
-a disciple of Peter the Apostle, after using words in harmony with these
-on the present problem, in conversation with his father at Laodicea in
+a disciple of Peter the [[Apostle]], after using words in harmony with these
+on the present problem, in conversation with his father at [[Laodicea]] in
 the _Circuits_, speaks a very necessary word for the end of arguments
 touching this matter, viz. those things which seem to have proceeded
-from _genesis_ (= astrological destiny), in the fourteenth book." The
+from _[[Genesis|genesis]]_ (= astrological destiny), in the fourteenth book." The
 extract answers to _Recognitions_, x. 10-13, but it is absent from our
 _Homilies_. Here we observe that (1) the extract agrees this time with
 _Recognitions_, not with _Homilies_; (2) its framework is that of the
@@ -173,7 +173,7 @@ depreciate the prophets between Moses and Christ, "the true Prophet."
 "In the _Circuits_, then, they adapted the whole to their own views,
 representing Peter falsely in many ways, as that he was daily baptized
 for the sake of purification, as these also do; and they say that he
-likewise abstained from animal food and meat, as they themselves also
+likewise abstained from animal food and [[Meat|meat]], as they themselves also
 do." Now all the points here noted in the _Circuits_ can be traced in
 our _Homilies_ and _Recognitions_, though toned down in different
 degrees.
@@ -220,7 +220,7 @@ rewriting the true and inspired form." Here too we have the first sure
 trace of an expurgated recension, made with the idea of recovering the
 genuine form assumed, as earlier by Epiphanius, to lie behind an
 unorthodox recension of Clement's narrative. As, moreover, the extant
-_Epitome_ is based on our _Homilies_, it is natural to suppose it was
+_[[Epitome]]_ is based on our _Homilies_, it is natural to suppose it was
 also the basis of earlier orthodox recensions, one or more of which may
 be used in certain Florilegia of the 7th century and later. Nowhere do
 we find the title _Homilies_ given to any form of the Clementine
@@ -247,10 +247,10 @@ in the interests of true Christianity, conceived as the final form of
 divine revelation--a revelation given through true prophecy embodied in
 a succession of persons, the chief of whom were Moses and the prophet
 whom Moses foretold, Jesus the Christ. The prime exponent of the
-spurious religion is Simon Magus. A second protagonist of error, this
-time of Gentile philosophic criticism directed against fundamental
+spurious religion is Simon Magus. A second protagonist of [[Error|error]], this
+time of [[Gentile]] philosophic criticism directed against fundamental
 Judaism, is Apion, the notorious anti-Jewish Alexandrine grammarian of
-Peter's day; while the rôle of upholder of astrological fatalism
+Peter's day; while the rôle of upholder of astrological [[Fatalism|fatalism]]
 (_Genesis_) is played by Faustus, father of Clement, with whom Peter and
 Clement debate at Laodicea. Finally, all this is already embedded in a
 setting determined by the romance of Clement and his lost relatives,
@@ -269,10 +269,10 @@ among pre-Christian Jews as Essene. The Essenes, while clinging to what
 they held to be original Mosaism, yet conceived and practised their
 ancestral faith in ways which showed distinct traces of syncretism, or
 the operation of influences foreign to Judaism proper. They thus
-occupied an ambiguous position on the borders of Judaism. Similarly
+occupied an ambiguous position on the [[Borders|borders]] of Judaism. Similarly
 Christian Essenism was syncretist in spirit, as we see from its
 best-known representatives, the Elchasaites, of whom we first hear about
-220, when a certain Alcibiades of Apamea in Syria (some 60 m. south of
+220, when a certain Alcibiades of [[Apamea]] in Syria (some 60 m. south of
 Antioch) brought to Rome the _Book of Helxai_--the manifesto of their
 distinctive message (Hippol., _Philos._ ix. 13)--and again some twenty
 years later, when Origen refers to one of their leaders as having lately
@@ -305,15 +305,15 @@ silence of the Syrian _Didascalia_, itself perhaps dating from about
 reference in its later form, the _Apostolical Constitutions_ (c.
 350-400), which is plainly coloured (vi. 9) by the Clementine story. On
 the other hand, the _Didascalia_ seems to have been evoked partly by
-Judaizing propaganda in north Syria. If, then, it helps to date the
+Judaizing propaganda in north Syria. If, then, it [[Helps|helps]] to date the
 _Periodoi_ as after 250, it may also suggest as place of origin one of
 the large cities lying south of Antioch, say Laodicea (itself on the
 coast about 30 m. from Apamea), where the Clementine story reaches its
-climax. The intimacy of local knowledge touching this region implied in
+[[Climax|climax]]. The intimacy of local knowledge touching this region implied in
 the narrative common to _Homilies_ and _Recognitions_ is notable, and
 tells against an origin for the _Periodoi_ outside Syria (e.g. in Rome,
 as Waitz and Harnack hold, but Lightfoot disproves, _Clem._ i. 55 f.,
-64,100, cf. Hort, p. 131). Further, though the curtain even in it fell
+64,100, cf. Hort, p. 131). Further, though the [[Curtain|curtain]] even in it fell
 on Peter at Antioch itself (our one complete MS. of the _Homilies_ is
 proved by the _Epitome_, based on the _Homilies_, to be here abridged),
 the interest of the story culminates at Laodicea.
@@ -334,15 +334,15 @@ originally belonged. The fact, however, that these were not more
 completely suppressed in the later work, proves that it, too, arose in
 circles of kindred, though largely modified, Judaeo-Christian sentiment
 (cf. _Homilies_, vii., e.g. ch. 8). The differences of standpoint may be
-due not only to lapse of time, and the emergence of new problems on the
-horizon of Syrian Christianity generally, but also to change in locality
+due not only to [[Lapse|lapse]] of time, and the emergence of new problems on the
+[[Horizon|horizon]] of Syrian Christianity generally, but also to change in locality
 and in the degree of Greek culture represented by the two works. A
 probable date for the "Preachings" used in the _Periodoi_ is c. 200.[3]
 
 If the home of the _Periodoi_ was the region of the Syrian Laodicea, we
 can readily explain most of its characteristics. Photius refers to the
 "excellences of its language and its learning"; while Waitz describes
-the aim and spirit of its contents as those of an apology for
+the aim and spirit of its contents as those of an [[Apology|apology]] for
 Christianity against heresy and paganism, in the widest sense of the
 word, written in order to win over both Jews (cf. _Recognitions_, i.
 53-70) and pagans, but mainly the latter. In particular it had in view
@@ -358,7 +358,7 @@ peculiarities would least give offence in a work of the aim and
 character just described.
 
 As regards the sources to the narrative part of the _Periodoi_, it is
-possible that the "recognition" _motif_ was a literary commonplace. The
+possible that the "recognition" _motif_ was a literary [[Commonplace|commonplace]]. The
 account of Peter's journeyings was no doubt based largely on local
 Syrian tradition, perhaps as already embodied in written _Acts of Peter_
 (so Waitz and Harnack), but differing from the Western type, e.g. in
@@ -377,7 +377,7 @@ designedly have formed part of the _Periodoi_, yet as adopted from its
 more bitterly anti-Pauline basis, the "Preachings of Peter" (cf.
 _Homilies_, ii. 17 f. with _Ep. Pet. ad Jac. 2_), which probably shared
 most of the features of Ebionite Essenism as described by Epiphanius
-xxx. 15 f. (including the qualified dualism of the two kingdoms--the
+xxx. 15 f. (including the qualified [[Dualism|dualism]] of the two kingdoms--the
 present one of the devil, and the future one of the angelic
 Christ--which appears also in the _Periodoi_, cf. _Ep. Clem. ad Jac. 1
 fin._).
@@ -419,7 +419,7 @@ headings, following on _Recognitions_, i.-iii., as seen in a Syriac MS.
 of A.D. 411. As this MS. contains transcriptional errors, and as its
 archetype had perhaps a Greek basis, the _Recognitions_ may be dated c.
 350-375[5] (its Christology suggested to Rufinus an Arianism like that
-of Eunomius of Cyzicus, c. 362), and the _Homilies_ prior even to 350.
+of [[Eunomius]] of Cyzicus, c. 362), and the _Homilies_ prior even to 350.
 But the different circles represented by the two make relative dating
 precarious.
 
@@ -439,7 +439,7 @@ trammels of formal orthodoxy. Again it is a notable specimen of early
 Christian pseudepigraphy, and one which had manifold and far-reaching
 results. Finally the romance to which it owed much of its popular
 appeal, became, through the medium of Rufinus's Latin, the parent of the
-late medieval legend of Faust, and so the ancestor of a famous type in
+late medieval legend of [[Faust]], and so the ancestor of a famous type in
 modern literature.
 
   LITERATURE.--For a full list of this down to 1904 see Hans Waitz, "Die
@@ -454,11 +454,11 @@ modern literature.
 FOOTNOTES:
 
   [1] Dr Armitage Robinson, in his edition of the _Philocalia_
-    (extracts made c. 358 by Basil and Gregory from Origen's writings),
+    (extracts made c. 358 by [[Basil]] and Gregory from Origen's writings),
     proved that the passage cited below is simply introduced as a
     parallel to an extract of Origen's; while Dom Chapman, in the
     _Journal of Theol. Studies_, iii. 436 ff., made it probable that the
-    passages in Origen's _Comm. on Matthew_ akin to those in the _Opus
+    passages in Origen's _Comm. on [[Matthew]]_ akin to those in the _Opus
     Imperf. in Matth._ are insertions in the former, which is extant only
     in a Latin version. Subsequently he suggested (_Zeitsch. f. N.T.
     Wissenschaft_, ix. 33 f.) that the passage in the _Philocalia_ is due
@@ -466,9 +466,9 @@ FOOTNOTES:
     citation not referred to Origen.
 
   [2] While Hort and Waitz say c. 200, Harnack says c. 260. The reign
-    of Gallienus (260-268) would suit the tone of its references to the
+    of [[Gallienus]] (260-268) would suit the tone of its references to the
     Roman emperor (Waitz, p. 74), and also any polemic against the
-    Neoplatonic philosophy of revelation by visions and dreams which it
+    Neoplatonic philosophy of revelation by visions and [[Dream|dreams]] which it
     may contain.
 
   [3] Even Waitz agrees to this, though he argues back to a yet earlier

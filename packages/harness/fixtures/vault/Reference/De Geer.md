@@ -2,7 +2,7 @@
 
 DE GEER, LOUIS GERHARD, BARON (1818-1896), Swedish statesman and writer,
 was born on the 18th of July 1818 at Finspang castle. He adopted the
-legal profession, and in 1855 became president of the Gota Hofret, or
+legal profession, and in 1855 became president of the [[Gota]] Hofret, or
 lord justice of one of the Swedish supreme courts. From the 7th of April
 1858 to the 3rd of June 1870 he was minister of justice. As a member of
 the Upper House he took part in all the Swedish _Riksdags_ from 1851
@@ -22,12 +22,12 @@ armaments' question again induced him to resign. From 1881 to 1888 he
 was chancellor of the universities of Upsala and Lund. Besides several
 novels and aesthetic essays, De Geer has written a few political memoirs
 of supreme merit both as to style and matter, the most notable of which
-are: _Minnesteckning ofver A. J. v. Hopken_ (Stockholm, 1881);
+are: _Minnesteckning ofver A. J. v. [[Hopken]]_ (Stockholm, 1881);
 _Minnesteckning ofver Hans Jarta_ (Stockholm, 1874); _Minnesteckning
 ofver B. B. von Platen_ (Stockholm, 1886); and his own _Minnen_
 (Stockholm, 1892), an autobiography, invaluable as a historical
 document, in which the political experience and the matured judgments of
-a lifetime are recorded with singular clearness, sobriety and charm.
+a lifetime are recorded with singular clearness, sobriety and [[Charm|charm]].
 
   See _Sveriges historia_ (Stockholm, 1881, &c.), vi,; Carl Gustaf
   Malmstrom, _Historiska Studier_ (Stockholm, 1897).     (R. N. B.)

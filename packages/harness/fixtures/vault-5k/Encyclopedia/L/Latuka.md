@@ -10,7 +10,7 @@ type: article
 LATUKA, a tribe of negroid stock inhabiting the mountainous country E.
 of Gondokoro on the upper Nile. They have received a tinge of Hamitic
 blood from the Galla people, and have high foreheads, large eyes,
-straight noses and thick but not pouting lips. They are believed by Sir
+straight noses and thick but not pouting [[Lip|lips]]. They are believed by Sir
 H. H. Johnston to be the original and purest type of the great Masai
 people, and are assimilated to the Nilotic negro races in customs. Like
 their neighbours the Bari and Shilluk tribes, they despise clothing,

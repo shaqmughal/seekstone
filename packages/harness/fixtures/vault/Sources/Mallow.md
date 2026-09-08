@@ -22,10 +22,10 @@ calyx, and the numerous single-seeded carpels disposed in a circle
 around a central axis, from which they become detached when ripe. The
 flowers are mostly white or pinkish, never yellow, the leaves
 radiate-veined, and more or less lobed or cut. Three species are natives
-of Britain. The musk mallow (_Malva moschata_) is a perennial herb with
+of Britain. The musk mallow (_Malva moschata_) is a perennial [[Herb|herb]] with
 five-partite, deeply-cut leaves, and large rose-coloured flowers
 clustered together at the ends of the branched stems, and is found
-growing along hedges and borders of fields, blossoming in July and
+growing along hedges and [[Borders|borders]] of [[Fields|fields]], blossoming in July and
 August. It owes its name to a slight musky odour diffused by the plant
 in warm dry weather when it is kept in a confined situation. The
 round-leaved dwarf mallow (_Malva rotundifolia_) is a creeping
@@ -43,7 +43,7 @@ colour of this plant.
 
   [Illustration: Mallow (_Malva sylvestris_), 1/3 nat. size.
 
-    1. Flower in section.
+    1. [[Flower]] in section.
     2. Stamens showing the union of the filaments into a common tube
          (monadelphous).
     3. Fruit with persistent calyx. 1, 2 and 5 enlarged.
@@ -56,21 +56,21 @@ colour of this plant.
   neighbourhood of saline springs. It is an erect perennial herb, with
   somewhat woody stems, velvety, ovate, acute, unequally serrate leaves,
   and delicate pink showy flowers blooming from July to September. The
-  flowers are said to yield a good deal of honey to bees. The marsh
+  flowers are said to yield a good deal of honey to [[Bee|bees]]. The marsh
   mallow is remarkable for containing asparagin, C4H8N2O3, H2O, which,
   if the root be long kept in a damp place, disappears, butyric acid
   being developed. The root also contains about 25% of starch and the
-  same quantity of mucilage, which differs from that of gum arabic in
+  same quantity of mucilage, which differs from that of [[Gum|gum]] arabic in
   containing one molecule less of water and in being precipitated by
-  neutral acetate of lead. It is used in _pâte de guimauve_ lozenges.
-  _Althaea rosea_ is the hollyhock (q.v.).
+  neutral acetate of lead. It is used in _pâte de guimauve_ [[Lozenge|lozenges]].
+  _Althaea rosea_ is the [[Hollyhock|hollyhock]] (q.v.).
 
   The mallow of Scripture, Job xxx. 4, has been sometimes identified
   with Jew's mallow (_Corchorus olitorius_), a member of the closely
   allied order Tiliaceae, but more plausibly (the word [Hebrew: maluah]
   implying a saline plant) with _Atriplex Halimus_, or sea orache. In
   Syria the _Halimus_ was still known by the name _Malluh_ in the time
-  of Ibn Beitar. See Bochart, _Hieroz._ iii. 16.
+  of Ibn Beitar. See [[Bochart]], _Hieroz._ iii. 16.
 
 ## See also
 

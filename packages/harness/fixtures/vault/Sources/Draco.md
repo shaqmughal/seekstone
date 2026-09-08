@@ -11,15 +11,15 @@ DRACO (7th century B.C.), Athenian statesman, was Archon Eponymus (but
 see J. E. Sandys, _Constitution of Athens_, p. 12, note) in 621 B.C. His
 name has become proverbial as an inexorable lawgiver. Up to his time the
 laws of Athens were unwritten, and were administered arbitrarily by the
-Eupatridae. As at Rome by the twelve Tables, so at Athens it was found
+[[Eupatridae]]. As at Rome by the twelve Tables, so at Athens it was found
 necessary to allay the discontent of the people by publishing these
 unwritten laws in a codified form, and Draco, himself a Eupatrid,
 carried this out. According to Plutarch (_Life of Solon_): "For nearly
 all crimes there was the same penalty of death. The man who was
-convicted of idleness, or who stole a cabbage or an apple, was liable to
+convicted of idleness, or who stole a cabbage or an [[Apple|apple]], was liable to
 death no less than the robber of temples or the murderer." For the
 institution of the 51 Ephetae and their relation to the Areopagus in
-criminal jurisdiction see GREEK LAW, The orator Demades (d. c. 318 B.C.)
+criminal jurisdiction see GREEK LAW, The orator [[Demades]] (d. c. 318 B.C.)
 said that Draco's laws were written in blood. Whether this implies
 peculiar severity, or merely reflects the attitude of a more refined age
 to the barbarous enactments of a primitive people, among whom the
@@ -27,7 +27,7 @@ penalty of death was almost universal for all crimes, cannot be decided.
 According to Suidas, however, in his _Lexicon_, the people were so
 overjoyed at the change he made, that they accidentally suffocated him
 in the theatre at Aegina with the rain of caps and cloaks which they
-flung at him in their enthusiasm.
+flung at him in their [[Enthusiasm|enthusiasm]].
 
 The appearance in 1891 of Aristotle's lost treatise on the constitution
 of Athens gave rise to a most important controversy on the subject of
@@ -40,14 +40,14 @@ provide themselves with a suit of armour--or, as Gilbert
 class, from which mainly the hoplites may be supposed to have come; (2)
 the institution of a property qualification for office (archon 10 minae,
 strategus 100 minae); (3) a council of 401 members (see BOUL[=E]); (4)
-magistrates and councillors to be chosen by lot; further, the four
+[[Magistrate|magistrates]] and councillors to be chosen by [[Lot|lot]]; further, the four
 Solonian classes are said to be already in existence.
 
 For some time, especially in Germany, this constitution was almost
 universally accepted; now, the majority of scholars reject it. The
 reasons against it, which are almost overwhelming, may be shortly
 summarized. (1) It is ignored by every other ancient authority, except
-an admittedly spurious passage in Plato[1]; whereas Aristotle says of
+an admittedly spurious passage in Plato[1]; whereas [[Aristotle]] says of
 his laws "they are laws, but he _added the laws to an existing
 constitution_" (Pol. ii. 9. 9). (2) It is inconsistent with other
 passages in the _Constitution of Athens_. According to c. vii., Solon
@@ -70,12 +70,12 @@ comparison between the ideals of the oligarchs under Theramenes (end of
 qualified persons had been exhausted, fine of one drachma for
 non-attendance in Boul[=e]). It is reasonable, therefore, to conclude
 that the constitution of Draco was invented by the school of Theramenes,
-who wished to surround their revolutionary views with the halo of
+who wished to surround their revolutionary views with the [[Halo|halo]] of
 antiquity; hence the allusion to "the constitution of our father"
 ([Greek: hê patrios politeia]).
 
-This hypothesis is further corroborated by a criticism of the text. Not
-only is chapter iv. considered to be an interpolation in the text as
+This [[Hypothesis|hypothesis]] is further corroborated by a criticism of the text. Not
+only is chapter iv. considered to be an [[Interpolation|interpolation]] in the text as
 originally written, but later chapters have been edited to accord with
 it. Thus chapter iv. breaks the connexion of thought between chapters
 iii. and v. Moreover, an interpolator has inserted phrases to remove
@@ -91,16 +91,16 @@ subsequent figures are not accommodated to the change. Solon is also
 here spoken of as the founder of democracy, whereas the Draconian
 constitution of chap. iv. contains several democratic innovations. Two
 further points may be added, namely, that whereas Aristotle's treatise
-credits Draco with establishing a money fine, Pollux definitely quotes a
+[[Credit|credits]] Draco with establishing a money fine, Pollux definitely quotes a
 law of Draco in which fines are assessed at so many oxen; secondly, if
 chapter iv. did exist in the original text, it is more than curious that
 though the treatise was widely read in antiquity there is no other
 reference to Draco's constitution except the two quoted above. In any
 case, whatever were Draco's laws, we learn from Plutarch's life of Solon
-that Solon abolished all of them, except those dealing with homicide.
+that Solon abolished all of them, except those dealing with [[Homicide|homicide]].
 
   AUTHORITIES.--Beside the works of J. E. Sandys and G. Gilbert quoted
-  above, see those quoted in article CONSTITUTION OF ATHENS; Grote,
+  above, see those quoted in article CONSTITUTION OF ATHENS; [[Grote]],
   _Hist. of Greece_ (ed. 1907), pp. 9-11, with references; and histories
   of Greece published after 1894.     (J. M. M.)
 

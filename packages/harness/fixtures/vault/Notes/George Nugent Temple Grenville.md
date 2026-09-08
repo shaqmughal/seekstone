@@ -1,10 +1,10 @@
 # George Nugent Temple Grenville
 
 GEORGE NUGENT TEMPLE GRENVILLE, 1st marquess of Buckingham (1753-1813), was
-the second son of George Grenville, and was born on the 17th of June 1753.
-Educated at Eton and Christ Church, Oxford, he was appointed a teller of
+the second son of George [[Grenville]], and was born on the 17th of June 1753.
+Educated at [[Eton]] and Christ Church, Oxford, he was appointed a teller of
 the exchequer in 1764, and ten years later was returned to parliament as
-one of the members for Buckinghamshire. In the House of Commons he was a
+one of the members for [[Buckinghamshire]]. In the House of Commons he was a
 sharp critic of the American policy of Lord North. In September 1779 he
 succeeded his uncle as 2nd Earl Temple; in 1782 was appointed
 lord-lieutenant of Buckinghamshire; and in July of the same year became a
@@ -26,14 +26,14 @@ was hardly as successful as the first. He was denounced by Grattan for
 extravagance; was censured by the Irish Houses of parliament for refusing
 to transmit to England in address calling upon the prince of Wales to
 assume the regency; and he could only maintain his position by resorting to
-bribery on a large scale. Having become very unpopular he resigned his
+[[Bribery|bribery]] on a large scale. Having become very unpopular he resigned his
 office in September 1789, and subsequently took very little part in
 politics, although he spoke in favour of the union with Ireland. He died at
 his residence, Stowe House, [v.04 p.0667] Buckingham, on the 11th of
 February 1813, and was buried at Wotton. In 1775 he had married Mary
 Elizabeth (d. 1812), daughter of Robert, Earl Nugent.
 
-His elder son, RICHARD GRENVILLE, 1st duke of Buckingham and Chandos
+His elder son, [[Richard Grenville|RICHARD GRENVILLE]], 1st duke of Buckingham and [[Chandos]]
 (1776-1839), was one of the members of parliament for Buckinghamshire from
 1797 to 1813, and, as Earl Temple, took an active part in politics. In
 February 1813 he succeeded his father as marquess of Buckingham; and having
@@ -49,16 +49,16 @@ Oxford, he was known as Earl Temple and subsequently as marquess of
 Chandos. He was member of parliament for Buckinghamshire from 1818 to 1839,
 and was responsible for the "Chandos clause" in the Reform Bill of 1832. He
 was lord privy seal from September 1841 to January 1842, and partly owing
-to his opposition to the repeal of the corn laws was known as the "Farmers'
+to his opposition to the repeal of the [[Corn|corn]] laws was known as the "Farmers'
 Friend." He found the estates heavily encumbered when he succeeded to the
 dukedom in 1839, and his own generous and luxurious tastes brought matters
-to a climax. In 1847 his residences were seized by his creditors, and the
+to a [[Climax|climax]]. In 1847 his residences were seized by his creditors, and the
 duke left England. His personal property and many of his landed estates
 were sold, and returning to England he devoted himself to literature. He
 died in London, on the 29th of July 1861. His wife, whom he married in
-1819, was Mary (d. 1862), daughter of John, 1st marquess of Breadalbane,
+1819, was Mary (d. 1862), daughter of John, 1st marquess of [[Breadalbane]],
 and she obtained a divorce from him in 1850. Buckingham's chief
-publications are, _Memoirs of the Court and Cabinets of George III._
+publications are, _Memoirs of the Court and [[Cabinet|Cabinets]] of George III._
 (London, 1853-1855); _Memoirs of the Court of England_, 1811-1820 (London,
 1856); _Memoirs of the Court of George IV._ (London, 1859); and _Memoirs of
 the Court and Cabinets of William IV. and Victoria_ (London, 1861).

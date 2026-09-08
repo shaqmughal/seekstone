@@ -13,16 +13,16 @@ river Argesh, where it flows through a valley of the lower Carpathians;
 and on the railway from Pitesci to the Rothenthurm Pass. Pop. (1900)
 4210. The city is one of the oldest in Rumania. According to tradition
 it was founded early in the 14th century by Prince Radu Negru,
-succeeding Campulung as capital of Walachia. Hence its name _Curtea_,
+succeeding [[Campulung]] as capital of Walachia. Hence its name _Curtea_,
 "the court." It contains a few antique churches, and was created a
 bishopric at the close of the 18th century.
 
 The cathedral of Curtea de Argesh, by far the most famous building in
 Rumania, stands in the grounds of a monastery, 1(1/2) m. N. of the city.
-It resembles a very large and elaborate mausoleum, built in Byzantine
-style, with Moorish arabesques. In shape it is oblong, with a many-sided
+It resembles a very large and elaborate [[Mausoleum|mausoleum]], built in Byzantine
+style, with Moorish [[Arabesque|arabesques]]. In shape it is oblong, with a many-sided
 annexe at the back. In the centre rises a dome, fronted by two smaller
-cupolas; while a secondary dome, broader and loftier than the central
+[[Cupola|cupolas]]; while a secondary dome, broader and loftier than the central
 one, springs from the annexe. Each summit is crowned by an inverted
 pear-shaped stone, bearing a triple cross, emblematic of the Trinity.
 The windows are mere slits; those of the tambours, or cylinders, on
@@ -35,10 +35,10 @@ on the windows, balconies, tambours and cornices, adding lightness to
 the fabric. The whole is raised on a platform 7 ft. high, and encircled
 by a stone balustrade. Facing the main entrance is a small open shrine,
 consisting of a cornice and dome upheld by four pillars. The cathedral
-is faced with pale grey limestone, easily chiselled, but hardening on
-exposure. The interior is of brick, plastered and decorated with
+is faced with pale grey [[Limestone|limestone]], easily chiselled, but hardening on
+exposure. The interior is of [[Brick|brick]], plastered and decorated with
 frescoes. Close by stands a large royal palace, Moorish in style. The
-archives of the cathedral were plundered by Magyars and Moslems, but
+[[Archive|archives]] of the cathedral were plundered by [[Magyars]] and Moslems, but
 several inscriptions, Greek, Slav and Ruman, are left. One tablet
 records that the founder was Prince Neagoe Bassarab (1512-1521); another
 that Prince John Radu completed the work in 1526. A third describes the

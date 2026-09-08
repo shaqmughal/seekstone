@@ -33,11 +33,11 @@ He died in Medina, A.D. 795.
 
   For a description of his principal book, the _Muwatta'_, see
   Goldziher's _Muhammedanische Studien_, ii. 213 sqq. He wrote also a
-  Koran commentary, now apparently lost, and a hortatory epistle to
+  Koran commentary, now apparently lost, and a hortatory [[Epistle|epistle]] to
   Harun al-Rashid. See further, de Slane's trans. of Ibn Khallikan, ii.
   545 sqq.; von Kremer, _Culturgeschichte_, i. 477 sqq.; Brockelmann,
-  _Gesch. der arab. Litt._, i. 175 sqq.; Macdonald, _Muslim Theology,
-  &c._, 99 sqq. and index; _Fihrist_, 198 seq.; Nawawi, 530 sqq.
+  _Gesch. der arab. Litt._, i. 175 sqq.; [[Macdonald]], _Muslim Theology,
+  &c._, 99 sqq. and [[Index|index]]; _Fihrist_, 198 seq.; Nawawi, 530 sqq.
        (D. B. Ma.)
 
 ## References

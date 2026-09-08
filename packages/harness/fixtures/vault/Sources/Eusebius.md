@@ -1,12 +1,12 @@
 # Eusebius
 
-EUSEBIUS, bishop of Rome for four months under the emperor Maxentius, in
+EUSEBIUS, bishop of Rome for four months under the emperor [[Maxentius]], in
 309 or 310. The Christians in Rome, divided on the question of the
 reconciliation of apostates, on which Eusebius held the milder view,
 brought forward a competitor, Heraclius. Both competitors were expelled
 by the emperor, Eusebius dying in exile in Sicily. He was buried in the
-cemetery of St Calixtus at Rome; and the extant epitaph, in eight
-hexameter lines, set up here by his successor Damasus, contains all the
+cemetery of St [[Calixtus]] at Rome; and the extant epitaph, in eight
+hexameter lines, set up here by his successor [[Damasus]], contains all the
 information there is about his life.
 
 
@@ -19,17 +19,17 @@ and 265, and died as bishop of Caesarea in the year 339 or 340. We know
 little of his youth beyond the fact that he became associated at an
 early day with Pamphilus, presbyter of the Church of Caesarea, and
 founder of a theological school there (see _Hist. Eccl._ vii. 32).
-Pamphilus gathered about him a circle of earnest students who devoted
+Pamphilus gathered about him a circle of [[Earnest|earnest]] students who devoted
 themselves especially to the study of the Bible and the transcription of
 Biblical codices, and also to the defence and spread of the writings of
 Origen, whom they regarded as their master. Pamphilus had a magnificent
-library, which Eusebius made diligent use of, and a catalogue of which
+library, which Eusebius made diligent use of, and a [[Catalogue|catalogue]] of which
 he published in his lost _Life_ of Pamphilus (_Hist. Eccl._ vi. 32). In
-the course of the Diocletian persecution, which broke out in 303,
+the course of the [[Diocletian]] persecution, which broke out in 303,
 Pamphilus was imprisoned for two years, and finally suffered martyrdom.
 During the time of his imprisonment (307-309) Eusebius distinguished
 himself by assiduous devotion to his friend, and assisted him in the
-preparation of an apology for Origen's teaching (_Hist. Eccl._ vi. 33),
+preparation of an [[Apology|apology]] for Origen's teaching (_Hist. Eccl._ vi. 33),
 the first book of which survives in the Latin of Rufinus (printed in
 Routh's _Reliquiae sacrae_, iv. 339 sq., and in Lommatzsch's edition of
 Origen's Works, xxiv. p. 293 sq.). After the death of Pamphilus Eusebius
@@ -68,7 +68,7 @@ himself and other ante-Nicene fathers, expressions occur looking in the
 direction of Arianism, and others looking in the opposite direction. The
 second stage began with the outbreak of the controversy in 318, and
 continued until the Nicene Council. During this period he took the side
-of Arius in the dispute with Alexander of Alexandria, and accepted what
+of [[Arius]] in the dispute with Alexander of Alexandria, and accepted what
 he understood to be the position of Arius and his supporters, who, as he
 supposed, taught both the divinity and subordination of the Son. It was
 natural that he should take this side, for in his traditional fear of
@@ -94,12 +94,12 @@ sympathy with the extreme views of the Athanasian party, for they seemed
 to him to savour of Sabellianism, which always remained his chief dread
 (cf. his two works against Marcellus of Ancyra). His personal friends,
 moreover, were principally among the Arians, and he was more closely
-identified with them than with the supporters of Athanasius. But he was
+identified with them than with the supporters of [[Athanasius]]. But he was
 always a man of peace, and while commonly counted one of the opponents
 of Athanasius, he did not take a place of leadership among them as his
 position and standing would have justified him in doing, and Athanasius
 never spoke of him with bitterness as he did of other prominent men in
-the party. (For a fuller description of the development of Eusebius'
+the party. (For a [[Fuller|fuller]] description of the development of Eusebius'
 Christology and of his attitude throughout the Arian controversy, see
 McGiffert, _op. cit._ p. 11 sq.)
 
@@ -109,7 +109,7 @@ in his works for brilliancy and originality we shall be disappointed. He
 was not a creative genius like Origen or Augustine. His claim to
 greatness rests upon his vast erudition and his sound judgment. Nearly
 all his works possess genuine and solid merits which raise them above
-the commonplace, and many of them still remain valuable. His exegesis is
+the [[Commonplace|commonplace]], and many of them still remain valuable. His exegesis is
 superior to that of most of his contemporaries, and his apologetic is
 marked by fairness of statement, breadth of treatment, and an
 instinctive appreciation of the difference between important and
@@ -138,20 +138,20 @@ Christianity as a proof of its divine origin and efficacy. His plan is
 stated at the very beginning of the work:--
 
   "It is my purpose to write an account of the successions of the holy
-  Apostles as well as of the times which have elapsed from the day of
+  [[Apostle|Apostles]] as well as of the times which have elapsed from the day of
   our Saviour to our own; to relate how many and important events are
   said to have occurred in the history of the church; and to mention
   those who have governed and presided over the church in the most
   prominent parishes, and those who in each generation have proclaimed
   the divine word either orally or in writing. It is my purpose also to
   give the names and number and times of those who through love of
-  innovation have run into the greatest errors, and proclaiming
+  innovation have run into the greatest [[Error|errors]], and proclaiming
   themselves discoverers of knowledge, falsely so called, have like
   fierce wolves unmercifully devastated the flock of Christ. It is my
   intention, moreover, to recount the misfortunes which immediately came
   on the whole Jewish nation in consequence of their plots against our
   Saviour, and to record the ways and times in which the divine word has
-  been attacked by the Gentiles, and to describe the character of those
+  been attacked by the [[Gentile|Gentiles]], and to describe the character of those
   who at various periods have contended for it in the face of blood and
   tortures, as well as the confessions which have been made in our own
   day, and the gracious and kindly succour which our Saviour has
@@ -173,18 +173,18 @@ the work is not merely a thesaurus, it is a history in a true sense, and
 it has an intrinsic value of its own, independent of its quotations from
 other works. Eusebius possessed extensive sources of knowledge no longer
 accessible to us. The number of books referred to as read is enormous.
-He also had access to the archives of state, and gathered from them
+He also had access to the [[Archive|archives]] of state, and gathered from them
 information beyond the reach of most. But the value of his work is due,
 not simply to the sources employed, but also to the use made of them.
 Upon this matter there has been, it is true, some diversity of opinion
 among modern scholars, but it is now generally admitted, and can be
 abundantly shown, that he was not only diligent in gathering material,
 but also far more thorough-going than most writers of antiquity in
-discriminating between trustworthy and untrustworthy reports, frank in
-acknowledging his ignorance, scrupulous in indicating his authorities in
+discriminating between trustworthy and untrustworthy reports, [[Frank|frank]] in
+acknowledging his [[Ignorance|ignorance]], scrupulous in indicating his authorities in
 doubtful cases, less credulous than most of his contemporaries, and
-unfailingly honest. His principal faults are his carelessness and
-inaccuracy in matters of chronology, his lack of artistic skill in the
+unfailingly honest. His principal [[Fault|faults]] are his carelessness and
+inaccuracy in matters of [[Chronology|chronology]], his lack of artistic skill in the
 presentation of his material, his desultory method of treatment, and his
 failure to look below the surface and grasp the real significance and
 vital connexion of events. He commonly regards an occurrence as
@@ -196,7 +196,7 @@ its true worth.
 
   In addition to the _Church History_ we have from Eusebius' pen a
   _Chronicle_ in two books (c. 303; later continued down to 325), the
-  first containing an epitome of universal history, the second
+  first containing an [[Epitome|epitome]] of universal history, the second
   chronological tables exhibiting in parallel columns the royal
   succession in different nations, and accompanied by notes marking the
   dates of historical events. A revised edition of the second book with
@@ -212,7 +212,7 @@ its true worth.
   martyrdoms occurring in Palestine during the years 303 to 310, of most
   of which Eusebius himself was an eye-witness. The work exists in a
   longer and a shorter recension, the former in a Syriac version
-  (published with English translation by Cureton, 1861), the latter in
+  (published with English translation by [[Cureton]], 1861), the latter in
   the original Greek attached to the _Church History_ in most MSS.
   (printed with the History in the various editions). _The Life of
   Constantine_, in four books, published after the death of the emperor,
@@ -231,14 +231,14 @@ its true worth.
   Scriptures themselves that the Christians are right in going beyond
   the Jews and adopting new principles and practices. The former is thus
   a preparation for the latter, and the two together constitute a
-  defence of Christianity against all the world, heathen as well as
+  defence of Christianity against all the world, [[Heathen|heathen]] as well as
   Jews. In grandeur of conception, comprehensiveness of treatment, and
   breadth of learning, this apology surpasses all other similar works of
   antiquity. The _Praeparatio_ is also valuable because of its large
   number of quotations from classical literature, many of them
   otherwise unknown to us. The _Theophania_, though we have many
   fragments of the original Greek, is extant as a whole only in a Syriac
-  version first published by Lee in 1842. Its subject is the
+  version first published by [[Lee]] in 1842. Its subject is the
   manifestation of God in the incarnation of the Word, and it aims to
   give with an apologetic purpose a brief exposition of the divine
   authority and influence of Christianity. Of Eusebius' dogmatic and
@@ -255,14 +255,14 @@ its true worth.
   contains prophetical passages from the Old Testament relating to the
   person and work of Christ, accompanied by explanatory notes. Of
   Biblical and exegetical works we have a considerable part of Eusebius'
-  Commentaries on the Psalms and on Isaiah, which are monuments of
+  Commentaries on the Psalms and on [[Isaiah]], which are monuments of
   learning, industry and critical acumen, though marred by the use of
   the allegorical method characteristic of the school of Origen; also a
   work on the names of places mentioned in Scripture, or the
   _Onomasticon_, the only one extant of a number of writings on Old
   Testament topography; and an epitome and some fragments of a work in
-  two parts on Gospel Questions and Solutions, the first part dealing
-  with the genealogies of Christ given in Matthew and Luke, the second
+  two parts on [[Gospel]] Questions and Solutions, the first part dealing
+  with the genealogies of Christ given in [[Matthew]] and [[Luke]], the second
   with the apparent discrepancies between the various gospel accounts of
   the resurrection. Other important works which have perished wholly or
   in large part, and some orations and minor writings still extant, it
@@ -282,11 +282,11 @@ its true worth.
   1554); by Valesius with copious notes, together with the _Life of
   Constantine_, the _Oration in Praise of Constantine_, and the
   Histories of Socrates, Sozomen, Theodoret, &c. (best edition that of
-  Reading (Cambridge, 1720), in three volumes, folio); by Heinichen
+  Reading (Cambridge, 1720), in three volumes, [[Folio|folio]]); by Heinichen
   (1827, second edition 1868-1870 in three volumes, a very useful
   edition, containing also the _Life of Constantine_ and the _Oration in
-  Praise of Constantine_, with elaborate notes); by Burton (1838; a
-  handy reprint in a single volume by Bright, 1881), and by many others.
+  Praise of Constantine_, with elaborate notes); by [[Burton]] (1838; a
+  handy reprint in a single volume by [[Bright]], 1881), and by many others.
   The most recent and best edition is that of Schwartz in the Berlin
   Academy's _Greek Fathers_, of which the first half has appeared,
   accompanied by the Latin version of Rufinus edited by Mommsen. The
@@ -301,7 +301,7 @@ its true worth.
   Heinichen and others in their editions of the _Church History_, also
   in the first volume of the Berlin Academy's edition (ed. by Heikel),
   and an English translation by Richardson in the volume containing
-  McGiffert's translation of the _Church History_. Gaisford published
+  McGiffert's translation of the _Church History_. [[Gaisford]] published
   the _Prophetical Extracts_ (Oxford, 1842), the _Praeparatio
   evangelica_ (1843), the _Demonstratio evangelica_ (1852), and the
   works against Hierocles and Marcellus (1852); and the works against
@@ -344,11 +344,11 @@ teachers were Eusebius of Caesarea and Patrophilus of Scythopolis. The
 reputation he acquired for learning and eloquence led to his being
 offered the see of Alexandria in succession to the deposed Athanasius at
 the beginning of 339, but he declined, and the council (of Antioch)
-chose Gregory of Cappadocia, "a fitter agent for the rough work to be
-done." Eusebius accepted the small bishopric of Emesa (the modern Horns)
+[[Chose|chose]] Gregory of [[Cappadocia]], "a fitter agent for the rough work to be
+done." Eusebius accepted the small bishopric of Emesa (the modern [[Horn|Horns]])
 in Phoenicia, but his powers as mathematician and astronomer led his
 flock to accuse him of practising sorcery, and he had to flee to
-Laodicea. A reconciliation was effected by the patriarch of Antioch, but
+[[Laodicea]]. A reconciliation was effected by the patriarch of Antioch, but
 tradition says that Eusebius finally resigned his charge and lived a
 studious life in Antioch. His fame as an astrologer commended him to the
 notice of the emperor Constantius II., with whom he became a great
@@ -366,10 +366,10 @@ writings only a few fragments are now in existence.
 
 EUSEBIUS [OF MYNDUS], Greek philosopher, a distinguished Neoplatonist
 and pupil of Aedesius who lived in the time of Julian, and who is
-described by Eunapius as one of the "Golden Chain" of Neoplatonism. He
+described by [[Eunapius]] as one of the "Golden Chain" of Neoplatonism. He
 ventured to criticize the magical and theurgic side of the doctrine, and
-exasperated the emperor, who preferred the mysticism of Maximus and
-Chrysanthius. He devoted himself principally to logic. Stobaeus in the
+exasperated the emperor, who preferred the mysticism of [[Maximus]] and
+[[Chrysanthius]]. He devoted himself principally to logic. Stobaeus in the
 _Sermones_ collected a number of ethical dicta of one Eusebius, who may
 perhaps be identical with the Neoplatonist.
 
@@ -418,7 +418,7 @@ to administer baptism to him in his last illness. There seems no doubt
 that Eusebius of Nicomedia was more of a politician than a theologian.
 He was certainly a partisan in the great controversy of his time, and is
 even credited (although on insufficient evidence) with having used
-unworthy means to procure the deposition of Eustathius, the "orthodox"
+unworthy means to procure the deposition of [[Eustathius]], the "orthodox"
 bishop of Antioch (Theodoret i. 21). His restless ambition and love of
 power are not to be denied. To the last he defended Arius, and at the
 time of the latter's sudden death, 336, it was chiefly through his

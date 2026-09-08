@@ -6,7 +6,7 @@ Great Western railway. Pop. (1901) 1542. It is picturesquely situated
 towards the north of the Cotteswold hill-district. The many interesting
 ancient houses afford evidence of the former greater importance of the
 town. The church of St James is mainly Perpendicular, and contains a
-number of brasses of the 15th and 16th centuries and several notable
+number of [[Brasses|brasses]] of the 15th and 16th centuries and several notable
 monumental tombs. A ruined manor house of the 16th century and some
 almshouses complete, with the church, a picturesque group of buildings;
 and Campden House, also of the 16th century, deserves notice.
@@ -16,11 +16,11 @@ was the meeting-place of a conference of Saxon kings, the earliest
 record of Campden (_Campedene_) is in Domesday Book, when Earl Hugh is
 said to hold it, and to have there fifty villeins. The number shows that
 a large village was attached to the manor, which in 1173 passed to Hugh
-de Gondeville, and about 1204 to Ralph, earl of Chester. The borough
+de Gondeville, and about 1204 to Ralph, earl of [[Chester]]. The borough
 must have grown up during the 12th century, for both these lords granted
 the burgesses charters which are known from a confirmation of 1247,
 granting that they and all who should come to the market of Campedene
-should be quit of toll, and that if any free burgess of Campedene should
+should be quit of toll, and that if any free [[Burges|burgess]] of Campedene should
 come into the lord's amerciament he should be quit for 12d. unless he
 should shed blood or do felony. Probably Earl Ralph also granted the
 town a portman-mote, for the account of a skirmish in 1273 between the

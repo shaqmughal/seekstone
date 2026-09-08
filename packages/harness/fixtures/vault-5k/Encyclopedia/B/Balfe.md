@@ -10,14 +10,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Balfe"
 BALFE, MICHAEL WILLIAM (1808-1870), Irish musical composer, was born on the
 15th of May 1808, at Dublin. His musical gifts became apparent at an early
 age. The only instruction he received was from his father, who was a
-dancing master, and from a musician, C. E. Horn (1786-1849). Between 1814
+dancing master, and from a musician, C. E. [[Horn]] (1786-1849). Between 1814
 and 1815 he played the violin for his father's dancing-classes, and at the
 age of seven composed a polacca. In 1817 he appeared as a violinist in
 public, and in this year composed a ballad, first called "Young Fanny" and
 afterwards, when sung in _Paul Pry_ by Madame Vestris, "The Lovers'
 Mistake." On the death of his father in 1823 he was engaged in the
-orchestra of Drury Lane, and being in possession of a small but pleasant
-baritone voice, he chose the career of an operatic singer. An unsuccessful
+orchestra of Drury [[Lane]], and being in possession of a small but pleasant
+baritone voice, he [[Chose|chose]] the career of an operatic singer. An unsuccessful
 début was made at Norwich in _Der Freischütz_. In 1825 he was taken to Rome
 by Count Mazzara, being introduced to Cherubini on the way. In Italy he
 wrote his first dramatic work, a ballet, _La Pérouse_. At the close of 1827
@@ -25,7 +25,7 @@ he appeared as Figaro in Rossini's _Barbière_, at the Italian opera in
 Paris. Balfe soon returned to Italy, where, during the next nine years, he
 remained, singing at various theatres and composing a number of operas.
 During this time he married Mdlle Luisa Roser, a Hungarian singer whom he
-had met at Bergamo. Fétis says that the public indignation roused by an
+had met at [[Bergamo]]. Fétis says that the public indignation roused by an
 attempt at "improving" Meyerbeer's opera _Il Crociato_ by interpolated
 music of his own compelled Balfe to throw up his engagement at the theatre
 La Fenice in Venice. By this time he had produced his first complete opera,
@@ -53,7 +53,7 @@ in 1845 for the Académie Royale. The fact that Balfe was an Irishman, who
 produced operas in English, French and Italian with conspicuous success, is
 in itself interesting. When to this we add the record of his operatic
 impersonations on the stage, the European success of his _Bohemian Girl_,
-his picturesque retirement into Hertfordshire in 1864 as a gentleman
+his picturesque retirement into Hertfordshire in 1864 as a [[Gentleman|gentleman]]
 farmer, and above all the undeniable gift for creating such pure melodies
 as his songs "When other Hearts" and "I dreamt that I dwelt in marble
 halls," it is idle to refuse him a prominent place in the history of music.

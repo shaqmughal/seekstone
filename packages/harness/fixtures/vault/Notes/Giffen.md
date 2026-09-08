@@ -11,7 +11,7 @@ id: 42-8062
 
 GIFFEN, SIR ROBERT (1837-1910), British statistician and economist, was
 born at Strathaven, Lanarkshire. He entered a solicitor's office in
-Glasgow, and while in that city attended courses at the university. He
+[[Glasgow]], and while in that city attended courses at the university. He
 drifted into journalism, and after working for the _Stirling Journal_ he
 went to London in 1862 and joined the staff of the _Globe_. He also
 assisted Mr John (afterwards Lord) Morley, when the latter edited the
@@ -31,7 +31,7 @@ financial subjects. His principal publications were _Essays on Finance_
 Growth of Capital_ (1890), _The Case against Bimetallism_ (1892), and
 _Economic Inquiries and Studies_ (1904). He was president of the
 Statistical Society (1882-1884); and after being made a C.B. in 1891 was
-created K.C.B. in 1895. In 1892 he was elected a Fellow of the Royal
+created K.C.B. in 1895. In 1892 he was elected a [[Fellow]] of the Royal
 Society. Sir Robert Giffen continued in later years to take a leading
 part in all public controversies connected with finance and taxation,
 and his high authority and practical experience were universally

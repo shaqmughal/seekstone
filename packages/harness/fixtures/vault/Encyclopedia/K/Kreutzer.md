@@ -13,8 +13,8 @@ des Herrn" ("The Lord's Day") may be named as the most excellent.
 Kreutzer was a prolific composer, and wrote a number of operas for the
 theatre at Vienna, which have disappeared from the stage and are not
 likely to be revived. He was from 1812 to 1816 Kapellmeister to the king
-of Württemberg, and in 1840 became conductor of the opera at Cologne.
-His daughter, Cecilia Kreutzer, was a singer of some renown.
+of Württemberg, and in 1840 became conductor of the opera at [[Cologne]].
+His daughter, [[Cecilia]] Kreutzer, was a singer of some renown.
 
 ## References
 

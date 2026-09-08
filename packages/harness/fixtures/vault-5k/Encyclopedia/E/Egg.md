@@ -15,7 +15,7 @@ outer envelope are determined by the nature of the environment to which
 the egg is exposed. Where the food material is infinitesimal in quantity
 the egg is either not extruded--the embryo being nourished by the
 maternal tissues,--or it passes out of the parental body and gives rise
-at once to a free-living organism or "larva" (see LARVAL FORMS), as in
+at once to a free-living organism or "larva" (see [[Larval Forms|LARVAL FORMS]]), as in
 the case of many lowly freshwater and marine animals. In such cases no
 "egg" in the usual sense of the term is produced.
 
@@ -42,8 +42,8 @@ made porous so as to admit air to the developing chick.
 The outermost, or third, layer of this shell often takes the form of a
 glaze, as of porcelain, as for example in the burnished egg of the
 ostrich: or it may assume the character of a thick, chalky layer as in
-some cuckoos (_Guira_, _Crotophaga ani_), cormorants, grebes and
-flamingoes: while in some birds as in the auks, gulls and tinamous, this
+some cuckoos (_Guira_, _Crotophaga [[Ani|ani]]_), [[Cormorant|cormorants]], grebes and
+[[Flamingo|flamingoes]]: while in some birds as in the auks, [[Gull|gulls]] and tinamous, this
 outer layer is wanting; yet the tinamous have the most highly glazed
 eggs of all birds, the second layer of the shell developing a surface
 even more perfectly burnished than that formed by the outermost, third
@@ -77,7 +77,7 @@ other pigments, imparts an abnormally browner tint. The origin of these
 pigments is yet uncertain, but it is probable that they are derived from
 the haemoglobin or red colouring matter of the blood. This being so,
 then the pigments of the egg-shell differ entirely in their nature from
-those which colour the yolk or the feathers.
+those which colour the yolk or the [[Feather|feathers]].
 
 While many eggs are either colourless or of one uniform tint, the
 majority have the surface broken up by spots or lines, or a combination
@@ -119,7 +119,7 @@ eastward spots are invariably present, and the blotches attain their
 maximum development.
 
 But in variability the eggs of the guillemot (_Lomvia troile_) exceed
-all others: both in the hue of the ground colour and in the form of the
+all others: both in the [[Hue|hue]] of the ground colour and in the form of the
 superimposed markings, these eggs exhibit a wonderful range for which no
 adequate explanation has yet been given.
 
@@ -198,7 +198,7 @@ Partly owing to the uniformity of shape, size and texture of the shell,
 the eggs of birds are by no means easy to distinguish, except in so far
 as their family resemblances are concerned: that is to say, except in
 particular cases, they cannot be specifically distinguished, and hence
-they are of but little or no value for the purposes of classification.
+they are of but little or no value for the purposes of [[Classification|classification]].
 
 Save only among the megapodes, all birds brood their eggs, the period of
 incubation varying from 13 days, as in small passerine birds, to 8
@@ -231,7 +231,7 @@ _Eggs of Reptiles._--The eggs of reptiles are invariably provided with a
 large amount of food yolk and enclosed with a firm test or shell, which
 though generally parchment-like in texture may be calcareous as in
 birds, as, for example, in many of the tortoises and turtles and in the
-crocodiles.
+[[Crocodile|crocodiles]].
 
 Among reptiles the egg is always white or yellowish, while the number
 laid often far exceeds that in the case of birds. The tuatara of New
@@ -246,7 +246,7 @@ the tortoises, to 200 in some of the turtles: while in the crocodiles
 between 20 and 30 are produced, hard-shelled and white.
 
 The eggs of the lizards are always white or yellowish, and generally
-soft-shelled; but the geckos and the green lizard lay hard-shelled eggs.
+soft-shelled; but the [[Gecko|geckos]] and the green lizard lay hard-shelled eggs.
 Many of the soft-shelled eggs are remarkable for the fact that they
 increase in size after extrusion, owing to the stretching of the
 membranous shell by the growing embryo. In the matter of number lizards
@@ -316,7 +316,7 @@ the cartilaginous and bony fishes viviparity occurs. Most of the sharks
 and rays are viviparous, but in the oviparous species the eggs present
 some interesting and peculiar forms. Large in size, the outer coat or
 "shell" is in all cases horn-like and flexible, but differs greatly in
-shape. Thus in the egg of the larger spotted dog-fish it is oblong in
+shape. Thus in the egg of the larger spotted [[Dog-Fish|dog-fish]] it is oblong in
 shape, flattened from side to side, and has the angles produced into
 long, slender tendrils. As the egg is laid the lower tendrils project
 from the vent, and the mother rubs herself against some fixed body. The
@@ -333,7 +333,7 @@ pear-shaped, and provided with a spiral flange extending along the whole
 length of the capsule. In the _Chimaera_ the egg is long, more or less
 spindle-shaped, and produced on each side into a broad flange having a
 fringed edge, so that the whole bears a close resemblance to a long
-leaf, broad and notched at one end, pointed at the other. This likeness
+[[Leaf|leaf]], broad and notched at one end, pointed at the other. This likeness
 to the seaweed among which it rests is doubtless a protective device,
 akin to that of protectively coloured birds' eggs.
 
@@ -350,12 +350,12 @@ spawn adhering to water-plants. In the gobies the egg is spindle-shaped,
 and attached by one end by means of a network of fibres, resembling
 rootlets; while in the smelt the egg is loosely suspended by a membrane
 formed by the peeling off of a part of the outer sheath of the capsule.
-The eggs of the garfish (_Belone vulgaris_) and of the flying-fish of
+The eggs of the garfish (_Belone vulgaris_) and of the [[Flying-Fish|flying-fish]] of
 the genus _Exocoetus_, attach themselves to foreign objects, or to one
 another, by means of threads or cords developed at opposite poles of the
 egg.
 
-Among a number of fishes the eggs float at the surface of the sea, often
+Among a number of fishes the eggs [[Float|float]] at the surface of the sea, often
 in enormous masses, when they are carried about at the mercy of tides
 and currents. An idea of the size which such masses attain may be
 gathered from the fact that the spawn of the angler-fish, _Lophius
@@ -374,7 +374,7 @@ sturgeon lays about 7,000,000; the herring 50,000; the turbot
 14,311,000; the sole 134,000; the perch 280,000. Briefly, the number is
 greatest where the risks of destruction are greatest.
 
-The eggs of the degenerate fishes known as the lampreys and hag-fishes
+The eggs of the degenerate fishes known as the lampreys and [[Hag-Fish|hag-fishes]]
 are remarkable for the fact that in the latter they are large in size,
 cylindrical in shape, and provided at each end with hooklets whereby
 they adhere one to another; while in the lampreys they are extremely
@@ -386,7 +386,7 @@ of very remarkable forms are commonly produced.
 
 In variety, in this connexion, the Mollusca must perhaps be given the
 first place. This diversity, indeed, is strikingly illustrated by the
-eggs of the Cephalopoda. In the squids (_Loligo_), for example, the eggs
+eggs of the [[Cephalopoda]]. In the squids (_Loligo_), for example, the eggs
 are enclosed in long cylindrical cases, of which there are several
 hundreds, attached by one end to a common centre; the whole series
 looking strangely like a rough mop-head. Each case, in such a cluster,
@@ -405,7 +405,7 @@ delicate pink grains of rice set on stalks; in _Busycon_ they are
 disk-shaped, and attached to a band nearly 3 ft. long. The eggs of the
 shell-bearing slugs (_Testacella_) are large, and have the outer coat so
 elastic that if dropped on a stone floor they will rebound several
-inches; while some of the snails (_Bulimus_) lay eggs having a white
+[[Inch|inches]]; while some of the snails (_Bulimus_) lay eggs having a white
 calcareous and slightly iridescent shell, in size and shape closely
 resembling the egg of the pigeon. Some are even larger than the egg of
 the wood-pigeon. The beautiful violet-snail (_Ianthina_)--a marine
@@ -414,7 +414,7 @@ less remarkable are the eggs of the whelk; since, like those of the
 squids, they are not laid separately but enveloped in capsules, and
 these to the number of many hundreds form the large, ball-like masses so
 commonly met with on the seashore. When the eggs in these capsules
-hatch, the crowd of embryos proceed to establish an internecine warfare,
+hatch, the [[Crowd|crowd]] of embryos proceed to establish an internecine warfare,
 devouring one another till only the strongest survives!
 
 With the Mollusca, as with other groups of animals, where the eggs are
@@ -435,7 +435,7 @@ deep-sea and freshwater species the eggs are large, when the young, on
 emerging, differ but little from the adults in appearance.
 
 
-_Insects, &c._--The eggs of insects though minute, are also remarkable
+_[[Insect|Insects]], &c._--The eggs of insects though minute, are also remarkable
 for the great variety of form which they present, while they are
 frequently objects of great beauty owing to the sculptured markings of
 the shell. They are generally laid in clusters, either on the ground, on
@@ -458,7 +458,7 @@ kinds of eggs known as "summer" and "winter" eggs. The summer eggs are
 carried by the female in a "brood-pouch" on the back. The "winter" eggs,
 produced at the approach of winter, differ markedly in appearance from
 the summer eggs, being larger, darker in colour, thicker shelled, and
-enclosed in a capsule formed from the shell or carapace, of the parent's
+enclosed in a capsule formed from the shell or [[Carapace|carapace]], of the parent's
 body. "Winter eggs," however, may be produced in the height of summer.
 While the "summer eggs" are unfertilized, the winter eggs are fertilized
 by the male, and possess the remarkable power of lying dormant for
@@ -475,7 +475,7 @@ year round by unfertilized "summer" eggs.
   authors should be consulted:--_Mammals_: F. E. Beddard, "Remarks on
   the Ovary of Echidna," _Proc. Roy. Phys. Soc. Edin._ vol. viii.
   (1885); W. H. Caldwell, "The Embryology of Monotremata and
-  Marsupialia," _Phil. Trans. Roy. Soc._ vol. 178 (1887); E. B. Poulton,
+  [[Marsupialia]]," _Phil. Trans. Roy. Soc._ vol. 178 (1887); E. B. Poulton,
   "The Structures connected with the Ovarian Ovum of the Marsupialia and
   Monotremata," _Quart. Journ. Micros. Sci._ vol. xxiv. (1884). _Birds,
   Systematic_:--H. Seebohm, _Coloured Figures of the Eggs of British
@@ -487,7 +487,7 @@ year round by unfertilized "summer" eggs.
   Boulenger, "The Tailless Batrachians of Europe," _Ray Soc._ (1896).
   _Fishes_:--Bridge and Boulenger, "Fishes, Ascidians, &c.," _Camb. Nat.
   Hist._ (1904); B. Dean, _Fishes Living and Fossil_ (1895); J. T.
-  Cunningham, _Marketable Marine Fishes_ (1896). _Invertebrate_:--G. H.
+  [[Cunningham]], _Marketable Marine Fishes_ (1896). _Invertebrate_:--G. H.
   Carpenter, _Insects. Their Structure and Life_ (1899); L. C. Miall, _A
   History of Aquatic Insects_ (1895); T. R. R. Stebbing, _Crustacea_,
   Internat. Sci. series (1893); M. C. Cooke, "Mollusca," _Camb. Nat.

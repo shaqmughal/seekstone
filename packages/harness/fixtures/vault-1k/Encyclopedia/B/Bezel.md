@@ -9,7 +9,7 @@ id: 42-301
 
 BEZEL (from an O. Fr. word, cf. Mod. Fr. _biseau_, _basile_, possibly
 connected with Lat. _bis_, twice), a sloping edge, as of a cutting tool,
-also known as basil. In jewelry, the term is used for the oblique sides
+also known as basil. In [[Jewelry|jewelry]], the term is used for the oblique sides
 or faces of a gem; the rim which secures the crystal of a watch in
 position or a jewel in its setting, and particularly the enlarged part
 of a ring on which the device is engraved (see RING).
@@ -38,7 +38,7 @@ Adjoining the south transept there are Gothic cloisters of the 14th
 century. The Orb is crossed by four bridges, the railway bridge, an
 ancient bridge of the 13th or 14th century, a modern bridge and the fine
 aqueduct by which the Canal du Midi is carried over the river. About
-half a mile to the south-west of the town are the locks of Fonserannes,
+half a mile to the south-west of the town are the [[Lock|locks]] of Fonserannes,
 in which in 330 yds. the water of the canal descends 80 ft. to reach the
 level of the Orb. There are remains of a Roman arena which have been
 built into the houses of the rue St Jacques. Beziers is seat of a

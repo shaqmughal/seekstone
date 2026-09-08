@@ -12,7 +12,7 @@ GUESDE, JULES BASILE (1845-   ), French socialist, was born in Paris on
 the 11th of November 1845. He had begun his career as a clerk in the
 French Home Office, but at the outbreak of the Franco-German War he was
 editing _Les Droits de l'homme_ at Montpellier, and had to take refuge
-at Geneva in 1871 from a prosecution instituted on account of articles
+at [[Geneva]] in 1871 from a prosecution instituted on account of articles
 which had appeared in his paper in defence of the Commune. In 1876 he
 returned to France to become one of the chief French apostles of Marxian
 collectivism, and was imprisoned for six months in 1878 for taking part

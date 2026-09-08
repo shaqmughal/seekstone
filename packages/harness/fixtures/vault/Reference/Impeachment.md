@@ -13,7 +13,7 @@ _empescher,_ to hinder, Late Lat. _impedicare,_ to entangle, _pedica,_
 fetter, _pes_, foot), the English form of judicial parliamentary
 procedure against criminals, in which the House of Commons are the
 prosecutors and the House of Lords the judges. It differs from bills of
-attainder (q.v.) in being strictly judicial. When the House of Commons
+[[Attainder|attainder]] (q.v.) in being strictly judicial. When the House of Commons
 has accepted a motion for impeachment, the mover is ordered to proceed
 to the bar of the House of Lords, and there impeach the accused "in the
 name of the House of Commons, and of all the Commons of the United
@@ -22,7 +22,7 @@ accused may deliver a written answer. The prosecution must confine
 itself to the charges contained in the articles, though further articles
 may be adhibited from time to time. The Commons appoint managers to
 conduct the prosecution, but the whole House in committee attends the
-trial. The defendant may appear by counsel. The president of the House
+trial. The [[Defendant|defendant]] may appear by counsel. The president of the House
 of Lords is the lord high steward, in the case of peers impeached for
 high treason; in other cases the lord chancellor. The hearing takes
 place as in an ordinary trial, the defence being allowed to call
@@ -31,7 +31,7 @@ the end of the case the president "puts to each peer, beginning with the
 junior baron, the questions upon the first article, whether the accused
 be guilty of the crimes charged therein. Each peer in succession rises
 in his place when the question is put, and standing uncovered, and
-laying his right hand upon his breast, answers, 'Guilty' or 'Not
+laying his right hand upon his [[Breast|breast]], answers, 'Guilty' or 'Not
 guilty,' as the case may be, 'upon my honour.' Each article is proceeded
 with separately in the same manner, the lord high steward giving his own
 opinion the last" (May's _Parliamentary Practice,_ c. xxiii.). Should
@@ -50,7 +50,7 @@ as they have by law, and by right ought to have." An impeachment, unlike
 other parliamentary proceedings, is not interrupted by prorogation, nor
 even by dissolution. Proceedings in the House of Commons preliminary to
 an impeachment are subject to the ordinary rules, and in the Warren
-Hastings case an act was passed to prevent the preliminary proceedings
+[[Hastings]] case an act was passed to prevent the preliminary proceedings
 from discontinuance by prorogation and dissolution. A royal pardon
 cannot be pleaded in bar of an impeachment, though it is within the
 royal prerogative to pardon after the lords have pronounced judgment.
@@ -58,11 +58,11 @@ The point was raised in the case of the earl of Danby in 1679, and the
 rule was finally settled by the Act of Settlement. Persons found guilty
 on impeachment may be reprieved or pardoned like other convicts.
 Impeachment will lie against all kinds of crimes and misdemeanours, and
-against offenders of all ranks. In the case of Simon de Beresford, tried
+against offenders of all ranks. In the case of Simon de [[Beresford]], tried
 before the House of Lords in 1330, the House declared "that the judgment
 be not drawn into example or consequence in time to come, whereby the
 said peers may be charged hereafter to judge others than their peers,"
-from which Blackstone and others have inferred that "a commoner cannot
+from which [[Blackstone]] and others have inferred that "a commoner cannot
 be impeached before the Lords for any capital offence, but only for high
 misdemeanours." In the case of Edward Fitzharris in 1681, the House of
 Commons in answer to a resolution of the Lords suspending the
@@ -77,7 +77,7 @@ impeachments were those of Warren Hastings (1788-1795) and Lord Melville
 impeach Lord Palmerston in 1848. The earliest recorded instances of
 impeachment are those of Lord Latimer in 1376 and of Pole, earl of
 Suffolk, in 1386. From the time of Edward IV. to Elizabeth it fell into
-disuse, "partly," says Hallam, "from the loss of that control which the
+disuse, "partly," says [[Hallam]], "from the loss of that control which the
 Commons had obtained under Richard II. and the Lancastrian kings, and
 partly from the preference the Tudor princes had given to bills of
 attainder or pains and penalties when they wished to turn the arm of
@@ -99,7 +99,7 @@ presides, but when the president of the United States is on trial the
 presiding officer must be the chief justice of the United States Supreme
 Court. A two-thirds vote is necessary for conviction. The president,
 vice-president or any civil officer of the United States may be
-impeached for "treason, bribery or other high crimes and misdemeanours,"
+impeached for "treason, [[Bribery|bribery]] or other high crimes and misdemeanours,"
 and if convicted, is removed from office and may be disqualified for
 holding any office under the government in future. The officer after
 removal is also "liable and subject to indictment, trial, judgment and
@@ -110,9 +110,9 @@ does not extend to officers convicted, on impeachment, of offences
 against the United States. Since the organization of the Federal
 government there have been only eight impeachment trials before the
 United States Senate, and of these only two--the trials of Judge John
-Pickering, a Federal District judge for the District of New Hampshire,
+Pickering, a Federal District judge for the District of New [[Hampshire]],
 in 1803, on a charge of making decisions contrary to law and of
-drunkenness and profanity on the bench, and of Judge W. H. Humphreys,
+[[Drunkenness|drunkenness]] and profanity on the [[Bench|bench]], and of Judge W. H. Humphreys,
 Judge of the Federal District Court of Tennessee, in 1863, on a charge
 of making a secession speech and of accepting a judicial position under
 the Confederate Government--resulted in convictions. The two most famous

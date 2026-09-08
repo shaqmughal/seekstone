@@ -19,7 +19,7 @@ origin in the fact that captains appointed to a ship of twenty guns and
 upwards were included in, or "posted" on, the permanent list of captains
 from among whom the admirals were chosen. The captain of the fleet is an
 officer who acts as chief of the staff to an admiral commanding a large
-force. The position is equivalent to flag rank, but is held by a
+force. The position is equivalent to [[Flag|flag]] rank, but is held by a
 captain. Staff captain is the highest grade of the officers entrusted
 with the nayigation of a ship or fleet.
 

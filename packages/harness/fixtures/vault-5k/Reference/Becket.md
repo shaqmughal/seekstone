@@ -31,11 +31,11 @@ advancement and misfortunes. Although the bent of his mind was legal, he
 never made himself an expert jurist; but he had the art of turning his
 knowledge, such as it was, to excellent account. In 1151 he was sent to
 Rome by the archbishop with instructions to dissuade the Curia from
-sanctioning the coronation of Stephen's eldest son Eustace. It is said
+sanctioning the [[Coronation|coronation]] of Stephen's eldest son Eustace. It is said
 that Thomas distinguished himself by the ability with which he executed
 his commission; in any case it gave him a claim on the gratitude of the
 Angevin party which was not forgotten. In 1154 he was promoted to be
-archdeacon of Canterbury, after first taking deacon's orders. In the
+[[Archdeacon|archdeacon]] of Canterbury, after first taking deacon's orders. In the
 following year Henry II., at the primate's recommendation, bestowed on
 him the important office of chancellor. In this capacity Thomas
 controlled the issue of royal writs and the distribution of
@@ -53,7 +53,7 @@ Henry's foreign wars; and the chancellor incurred the reproach "of
 plunging his sword into the bowels of his mother." Like Wolsey he
 identified himself with the military aspirations of his sovereign. It
 was Thomas who organized the Toulouse campaign of 1159; even in the
-field he made himself conspicuous by commanding a company of knights,
+field he made himself conspicuous by commanding a company of [[Knight|knights]],
 directing the work of devastation, and superintending the conduct of the
 war after the king had withdrawn his presence from the camp. When there
 was war with France upon the Norman border, the chancellor acted as
@@ -78,10 +78,10 @@ by his appointment. He did not allow himself to be made the king's tool;
 nor on the other hand did he attempt to protect the Church by humouring
 the king in ordinary matters. He devoted himself to ascetic practices,
 confined himself to the society of churchmen, and resigned the
-chancellorship in spite of a papal dispensation (procured by the king)
+chancellorship in spite of a papal [[Dispensation|dispensation]] (procured by the king)
 which authorized him to hold that office concurrently with the primacy.
 By nature a violent partisan, the archbishop now showed himself the
-uncompromising champion of his order and his see. Hence he was on the
+uncompromising [[Champion|champion]] of his order and his see. Hence he was on the
 worst of terms with the king before a year had elapsed. They came into
 open conflict at the council of Woodstock (July 1163), when Becket
 successfully opposed the king's proposal that a land-tax, known as the
@@ -93,7 +93,7 @@ Canterbury, and had protected against the royal courts a clerk named
 Philip de Brois who was charged with an assault upon a royal officer.
 These disputes involved questions of principle which had long occupied
 Henry's attention, and Becket's defiant attitude was answered by the
-famous Constitutions of Clarendon (q.v.), in which the king defined,
+famous Constitutions of [[Clarendon]] (q.v.), in which the king defined,
 professedly according to ancient use and custom, the relations of Church
 and State. Becket and the bishops were required to give these
 constitutions their approval. Henry's demands were more defensible in
@@ -170,7 +170,7 @@ knows."
   the contemporary biographies are collected by J.C. Robertson in
   _Materials for the History of Thomas Becket_ (7 vols., Rolls Series,
   1875-1885). See also the _Vie de Saint Thomas_, by Garnier de Pont
-  Sainte Maxence (ed. Hippeau, Paris, 1859). For the chronology of the
+  Sainte Maxence (ed. Hippeau, Paris, 1859). For the [[Chronology|chronology]] of the
   controversy see Eyton's _Itinerary of Henry II._
 
   _Modern:_--Morris, _Life and Martyrdom of St Thomas Becket_ (London,

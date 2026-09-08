@@ -21,7 +21,7 @@ annual visit to Wales was curtailed if not altogether discontinued. It
 is difficult to fix the date of Asser's arrival in England, but it was
 probably about 885. He assisted the king in his studies, received from
 him the monasteries of Congresbury and Banwell, and sometime later
-"Exeter and its diocese in Saxonland and Cornwall." He became bishop of
+"Exeter and its diocese in Saxonland and [[Cornwall]]." He became bishop of
 Sherborne before 900, and his death is recorded in the Anglo-Saxon
 Chronicle under the date 910, although it is possible that it occurred a
 year or two earlier. The scanty details of Asser's life are taken from
@@ -32,10 +32,10 @@ visited the continent of Europe.
 Asser's work, _Annales rerum gestarum Alfredi magni_, was written about
 893, and consists of a chronicle of English history from 849 to 887, and
 an account of Alfred's life, largely drawn from personal knowledge, down
-to 887. The only manuscript of which there is any record dates from
+to 887. The only [[Manuscript|manuscript]] of which there is any record dates from
 about 1000, and was destroyed by fire in 1731. From this manuscript an
-edition was printed in 1574 under the direction of Matthew Parker,
-archbishop of Canterbury; but this contained many interpolations and
+edition was printed in 1574 under the direction of [[Matthew]] Parker,
+archbishop of Canterbury; but this contained many [[Interpolation|interpolations]] and
 alterations which were copied by subsequent editors. The text has since
 been the subject of careful study, and the edition edited by W.H.
 Stevenson (Oxford, 1904) distinguishes between the original work of

@@ -21,7 +21,7 @@ equivalent to "river." The exploration of the Kagera has been largely
 the work of German travellers.
 
   See NILE; also Speke's _Discovery of the Source of the Nile_
-  (Edinburgh, 1863); R. Kandt's _Caput Nili_ (Berlin, 1904); and map by
+  (Edinburgh, 1863); R. Kandt's _Caput Nili_ (Berlin, 1904); and [[Map|map]] by
   P. Sprigade and M. Moisel in _Grosser deutscher Kolonialatlas_, No. 16
   (Berlin, 1906).
 

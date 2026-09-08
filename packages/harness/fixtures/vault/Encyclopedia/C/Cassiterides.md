@@ -8,7 +8,7 @@ id: 42-4854
 # Cassiterides
 
 CASSITERIDES (from the Gr. [Greek: kassiteros], tin, i.e.
-"Tin-islands"), in ancient geography the name of islands regarded as
+"Tin-islands"), in ancient [[Geography|geography]] the name of islands regarded as
 being situated somewhere near the west coasts of Europe. Herodotus (430
 B.C.) had dimly heard of them. Later writers, Posidonius, Diodorus,
 Strabo and others, call them smallish islands off (Strabo says, some way
@@ -21,11 +21,11 @@ of Gades and others who dealt in the metal, the Greeks knew only that
 tin came to them by sea from the far west, and the idea of tin-producing
 islands easily arose. Later, when the west was better explored, it was
 found that tin actually came from two regions, north-west Spain and
-Cornwall. Neither of these could be called "small islands" or described
+[[Cornwall]]. Neither of these could be called "small islands" or described
 as off the north-west coast of Spain, and so the Cassiterides were not
 identified with either by the Greek and Roman geographers. Instead, they
 became a third, ill-understood source of tin, conceived of as distinct
-from Spain or Britain. Modern writers have perpetuated the error that
+from Spain or Britain. Modern writers have perpetuated the [[Error|error]] that
 the Cassiterides were definite spots, and have made many attempts to
 identify them. Small islands off the coast of north-west Spain, the
 headlands of that same coast, the Scillies, Cornwall, the British Isles

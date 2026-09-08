@@ -27,9 +27,9 @@ temperament, was incapable of making concessions, and was dominated by
 Madame Roland, who imparted to him her hatred of Danton and the
 Montagnards.
 
-See _Memoires de Petion, Barbaroux, Buzot_, published by C.A. Daubon
+See _Memoires de Petion, [[Barbaroux]], Buzot_, published by C.A. Daubon
 (Paris, 1866). For the history of the federalist movement in Normandy, see
-L. Boivin Champeaux, _Notices pour servir a, l'histoire de la Revolution
+L. [[Boivin]] Champeaux, _Notices pour servir a, l'histoire de la Revolution
 dans le departement de l'Eure_ (Evreux and Paris, 1884).
 
 ## See also

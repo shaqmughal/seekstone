@@ -43,7 +43,7 @@ to him. In 1778 he published at Amsterdam his _Legislation orientate_,
 in which he endeavoured to prove that the nature of oriental despotism
 had been greatly misrepresented. His _Recherches historiques et
 geographiques sur l'Inde_ appeared in 1786, and formed part of
-Thieffenthaler's _Geography of India_. The Revolution seems to have
+Thieffenthaler's _[[Geography]] of India_. The Revolution seems to have
 greatly affected him. During that period he abandoned society, and lived
 in voluntary poverty on a few pence a day. In 1798 he published _L'Inde
 en rapport avec l'Europe_ (Hamburg, 2 vols.), which contained much

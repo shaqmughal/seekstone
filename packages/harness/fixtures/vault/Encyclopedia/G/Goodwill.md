@@ -15,7 +15,7 @@ are invariably associated with it, viz. the right of the purchaser to
 represent himself as the owner of the business, and the right to
 restrain competition. For the purposes of the Stamp Act, the goodwill of
 a business is property, and the proper duty must be paid on the
-conveyance of such. (See also PARTNERSHIP; PATENTS.)
+[[Conveyance|conveyance]] of such. (See also PARTNERSHIP; PATENTS.)
 
 ## See also
 

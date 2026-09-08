@@ -16,7 +16,7 @@ time he served on the personal staff of the emperor Napoleon III. He
 displayed great gallantry as a captain at the siege and storm of
 Puebla, in Mexico, in 1863, when he was severely wounded. When he
 returned to France to recover from his wounds he was entrusted with the
-task of presenting the captured standards and colours to the emperor,
+task of presenting the captured standards and [[Colours|colours]] to the emperor,
 and was promoted _chef d'escadrons_. He went again to Algeria in 1864,
 took part in expeditions against the Arabs, returned to Mexico as
 lieutenant-colonel, and, after winning further distinction, became in
@@ -25,16 +25,16 @@ lieutenant-colonel, and, after winning further distinction, became in
 promoted to be general of brigade on the 30th of August. At the battle
 of Sedan he led the brigade of Chasseurs d'Afrique in the heroic charge
 of General Margueritte's cavalry division, which extorted the admiration
-of the old king of Prussia. Made prisoner of war at the capitulation, he
+of the old king of Prussia. Made prisoner of war at the [[Capitulation|capitulation]], he
 returned to France during the siege of Paris by the French army of
 Versailles, and commanded a brigade against the Communists. In the
-suppression of the Commune he did his duty rigorously and inflexibly,
+suppression of the [[Commune]] he did his duty rigorously and inflexibly,
 and on that ground earned a reputation for severity, which, throughout
 his later career, and in all his efforts to improve the French army,
 made him the object of unceasing attacks in the press and the chamber of
 deputies. In 1872 he took command of the Batna subdivision of Algeria,
 and commanded an expedition against El Golea, surmounting great
-difficulties in a rapid march across the desert, and inflicting severe
+difficulties in a rapid march across the [[Desert|desert]], and inflicting severe
 chastisement on the revolted tribes. On the general reorganization of
 the army he commanded the 31st infantry brigade. Promoted general of
 division in 1875, he successively commanded the 15th infantry division

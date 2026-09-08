@@ -10,9 +10,9 @@ type: note
 BAEL FRUIT (_Aegle marmelos_). _Aegle_ is a genus of the botanical natural
 order Rutaceae, containing two species in tropical Asia and one in west
 tropical Africa. The plants are trees bearing strong spines, with
-alternate, compound leaves each with three leaflets and panicles of
+alternate, [[Compound|compound]] leaves each with three leaflets and panicles of
 sweet-scented white flowers. _Aegle marmelos_, the bael- or bel-fruit tree
-(also known as Bengal quince), is found wild or cultivated throughout
+(also known as [[Bengal]] quince), is found wild or cultivated throughout
 India. The tree is valued for its fruit, which is oblong to pyriform in
 shape, 2-5 in. in diameter, and has a grey or yellow rind and a sweet,
 thick orange-coloured pulp. The unripe fruit is cut up in slices, sun-dried

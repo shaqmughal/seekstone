@@ -77,7 +77,7 @@ Carloman as his successor, died in August 875, but Charles the Bald
 reached Italy before his rival, and by persuading Carloman, when he did
 cross the Alps, to return, secured the imperial crown. Louis was
 preparing for war when he died on the 28th of September 876 at
-Frankfort, and was buried at Lorsch, leaving three sons and three
+[[Frankfort]], and was buried at Lorsch, leaving three sons and three
 daughters. Louis was in war and peace alike, the most competent of the
 descendants of Charlemagne. He obtained for his kingdom a certain degree
 of security in face of the attacks of Normans, Hungarians, Moravians and
@@ -87,7 +87,7 @@ heathen neighbours.
 
   See _Annales Fuldenses_; _Annales Bertiniani_; Nithard, _Historiarum
   Libri_, all in the _Monumenta Germaniae historica_. _Scriptores_,
-  Bände i. and ii. (Hanover and Berlin, 1826 seq.); E. Dümmler,
+  Bände i. and ii. ([[Hanover]] and Berlin, 1826 seq.); E. Dümmler,
   _Geschichte des ostfränkischen Reiches_ (Leipzig, 1887-1888); Th.
   Sickel, _Die Urkunden Ludwigs des Deutschen_ (Vienna, 1861-1862); E.
   Mühlbacher, _Die Regesten des Kaiserreichs unter den Karolingern_

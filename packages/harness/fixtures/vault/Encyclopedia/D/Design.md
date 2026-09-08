@@ -13,7 +13,7 @@ faculty of design has best flourished when an almost spontaneous
 development was taking place in the arts, and while certain classes of
 arts, more or less noble, were generally demanded and the demand
 copiously satisfied, as in the production of Greek vases, Byzantine
-mosaics, Gothic cathedrals, and Renaissance paintings. Thus where a
+mosaics, [[Gothic]] cathedrals, and Renaissance paintings. Thus where a
 "school of design" arises there is much general likeness in the products
 but also a general progress. The common experience--"tradition"--is a
 part of each artist's stock in trade; and all are carried along in a
@@ -35,7 +35,7 @@ demand from a sympathetic public. A process of continuous development is
 thus brought into being which sustains the individual effort. It is
 necessary for the designer to know familiarly the processes, the
 materials and the skilful use of the tools involved in the productions
-of a given art, and properly only one who practises a craft can design
+of a given art, and properly only one who practises a [[Craft|craft]] can design
 for it. It is necessary to enter into the traditions of the art, that
 is, to know past achievements. It is necessary, further, to be in
 relation with nature, the great reservoir of ideas, for it is from it
@@ -47,7 +47,7 @@ natural growth from vital roots, in which true originality consists. To
 take design in architecture as an example, we have rested too much on
 definite precedent (a different thing from living tradition) and, on the
 other hand, hoped too much from newness. Exploration of the
-possibilities in arches, vaults, domes and the like, as a chemist or a
+possibilities in [[Arches|arches]], vaults, domes and the like, as a chemist or a
 mathematician explores, is little accepted as a method in architecture
 at this time, although in antiquity it was by such means that the great
 master-works were produced: the Pantheon, Santa Sophia, Durham and

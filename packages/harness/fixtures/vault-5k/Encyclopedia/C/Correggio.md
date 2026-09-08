@@ -6,7 +6,7 @@ topic: religion
 
 # Correggio
 
-CORREGGIO, or COREGGIO, the name ordinarily given to Antonio Allegri
+CORREGGIO, or COREGGIO, the name ordinarily given to [[Antonio]] Allegri
 (1494-1534), the celebrated Italian painter, one of the most vivid and
 impulsive inventors in expression and pose and the most consummate
 executants. The external circumstances of his life have been very
@@ -30,7 +30,7 @@ whom he is believed to have represented in the portrait currently named
 he learned the first elements of design from his uncle, Lorenzo Allegri,
 a painter of moderate ability at Correggio, and from Antonio Bartolotti,
 named Tognino, and that he afterwards went to the school of Francesco
-Ferrari Bianchi (named Frarè), and perhaps to that of the successors of
+[[Ferrari]] Bianchi (named Frarè), and perhaps to that of the successors of
 Andrea Mantegna in Mantua. He is said to have learned modelling along
 with the celebrated Begarelli at Parma; and it has even been suggested
 that, in the "Pietà" executed by Begarelli for the church of Santa
@@ -39,11 +39,11 @@ the group appears to have been completed three years after the painter's
 death, there is very little plausibility in this story. Another
 statement connecting Begarelli with Correggio is probably true, namely,
 that the sculptor executed models in relief for the figures which the
-painter had to design on the cupolas of the churches in Parma. This was
-necessarily an expensive item, and it has been cited as showing that
+painter had to design on the [[Cupola|cupolas]] of the churches in Parma. This was
+necessarily an expensive [[Item|item]], and it has been cited as showing that
 Correggio must have been at least tolerably well off,--an inference
 further supported by the fact that he used the most precious and costly
-colours, and generally painted on fine canvases or sometimes on sheets
+[[Colours|colours]], and generally painted on fine canvases or sometimes on sheets
 of copper.
 
 The few certain early works of Correggio show a rapid progression
@@ -53,10 +53,10 @@ was perhaps totally unknown beyond his own district of country, he found
 a sufficiency of employers, and this from a very youthful age. One of
 his early pictures, painted in 1514 when he was nineteen or twenty years
 old, is a large altar-piece commissioned for the Franciscan convent at
-Carpi, representing the Virgin enthroned, with Saints; it indicates a
+[[Carpi]], representing the Virgin enthroned, with Saints; it indicates a
 predilection for the style of Leonardo da Vinci, and has certainly even
 greater freedom than similarly early works of Raphael. This picture is
-now in the Dresden gallery. Another painting of Correggio's youth is the
+now in the [[Dresden]] gallery. Another painting of Correggio's youth is the
 "Arrest of Christ." A third is an Ancona (or triple altar-piece--the
 "Repose in Egypt, with Sts Bartholomew and John") in the church of the
 Conventuali at Correggio, showing the transition from the painter's
@@ -81,7 +81,7 @@ painting of a large cupola; and that he not only went at once to the
 extreme of what can be adventured in foreshortening, but even
 forestalled in this attempt the mightiest geniuses of an elder
 generation--the "Last Judgment" of Michelangelo, for instance, not
-having been begun earlier than 1533 (although the ceiling of the Sixtine
+having been begun earlier than 1533 (although the [[Ceiling|ceiling]] of the Sixtine
 chapel, in which foreshortening plays a comparatively small part, dates
 from 1508 to 1512). The cupola of the cathedral has neither skylight nor
 windows, but only light reflected from below; the frescoes, some
@@ -109,12 +109,12 @@ rumours of wars, alarms, tumults and pestilence.
 Other leading works by Correggio are the following:--The frescoes in the
 Camera di San Paolo (the abbess's saloon) in the monastery of S.
 Lodovico at Parma, painted towards 1519 in fresco,--"Diana returning
-from the Chase," with auxiliary groups of lovely and vivacious boys of
+from the Chase," with [[Auxiliary|auxiliary]] groups of lovely and vivacious boys of
 more than life size, in sixteen oval compartments. In the National
 Gallery, London, the "Ecce Homo," painted probably towards 1520
 (authenticity not unquestioned); and "Cupid, Mercury and Venus," the
 latter more especially a fine example. The oil-painting of the Nativity
-named "Night" ("La Notte"), for which 40 ducats and 208 livres of old
+named "Night" ("La Notte"), for which 40 [[Ducat|ducats]] and 208 livres of old
 Reggio coin were paid, the nocturnal scene partially lit up by the
 splendour proceeding from the divine Infant. This work was undertaken at
 Reggio in 1522 for Alberto Pratoneris, and is now in the Dresden
@@ -170,7 +170,7 @@ to the mortal illness. In this curious tale there is no symptom of
 authenticity, unless its very singularity, and the unlikelihood of its
 being invented without any foundation at all, may be allowed to count
 for something. He is said to have died with Christian piety; and his
-eulogists (speaking apparently from intuition rather than record) affirm
+eulogists (speaking apparently from [[Intuition|intuition]] rather than record) affirm
 that he was a good citizen, an affectionate son and father, fond and
 observant of children, a sincere and obliging friend, pacific,
 beneficent, grateful, unassuming, without meanness, free from envy and
@@ -209,7 +209,7 @@ fulness of significance is demanded, he means provokingly little. He
 expressed his own miraculous facility by saying that he always had his
 thoughts at the end of his pencil; in truth, they were often thoughts
 rather of the pencil and its controlling hand than of the teeming brain.
-He has the faults of his excellences--sweetness lapsing into mawkishness
+He has the [[Fault|faults]] of his excellences--sweetness lapsing into mawkishness
 and affectation, empty in elevated themes and lasciviously voluptuous in
 those of a sensuous type, rapid and forceful action lapsing into
 posturing and self-display, fineness and sinuosity of contour lapsing

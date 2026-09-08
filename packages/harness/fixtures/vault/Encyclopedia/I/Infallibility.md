@@ -8,7 +8,7 @@ e.g., speak of a drug as an infallible specific, or of a man's judgment
 as infallible. In these cases, however, the "infallibility" connotes
 certainty only in so far as anything human can be certain. In the
 language of the Christian Church the word "infallibility" is used in a
-more absolute sense, as the freedom from ail possibility of error
+more absolute sense, as the freedom from ail possibility of [[Error|error]]
 guaranteed by the direct action of the Spirit of God. This belief in the
 infallibility of revelation is involved in the very belief in revelation
 itself, and is common to all sections of Christians, who differ mainly
@@ -17,7 +17,7 @@ instruments by which this revelation is interpreted to the world. Some
 see the guarantee, or at least the indication, of infallibility in the
 consensus of the Church (_quod semper, ubique, et ab omnibus_) expressed
 from time to time in general councils; others see it in the special
-grace conferred upon St Peter and his successors, the bishops of Rome,
+[[Grace|grace]] conferred upon St Peter and his successors, the bishops of Rome,
 as heads of the Church; others again see it in the inspired Scriptures,
 God's Word. This last was the belief of the Protestant Reformers, for
 whom the Bible was in matters of doctrine the ultimate court of appeal.
@@ -26,7 +26,7 @@ a fallible judgment, but this would be assisted by the direct action of
 the Spirit of God in proportion to their faith. As for infallibility,
 this was a direct grace of God, given only to the few. "What ever was
 perfect under the sun," ask the translators of the Authorized Version
-(1611) in their preface, "where apostles and apostolick men, that is,
+(1611) in their preface, "where [[Apostle|apostles]] and apostolick men, that is,
 men endued with an extraordinary measure of God's Spirit, and privileged
 with the privilege of infallibility, had not their hand?" In modern
 Protestantism, on the other hand, the idea of an infallible authority
@@ -65,7 +65,7 @@ faith, i.e. all the religious truths which she represents and imposes as
 obligatory. This is infallibility put into practice by definite acts.
 
 The infallibility of the pope was not defined until 1870 at the Vatican
-Council; this definition does not constitute, strictly speaking, a
+Council; this [[Definition|definition]] does not constitute, strictly speaking, a
 dogmatic innovation, as if the pope had not hitherto enjoyed this
 privilege, or as if the Church, as a whole, had admitted the contrary;
 it is the newly formulated definition of a dogma which, like all those
@@ -113,7 +113,7 @@ evolution should be well understood and considered as legitimate.
 (c) As a matter of fact the infallibility of the pope, when giving
 decisions in his character as head of the Church, was generally admitted
 before the Vatican Council. The only reservation which the most advanced
-Gallicans dared to formulate, in the terms of the celebrated declaration
+Gallicans dared to formulate, in the terms of the celebrated [[Declaration|declaration]]
 of the clergy of France (1682), had as its object the irreformable
 character of the pontifical definitions, which, it was claimed, could
 only have been acquired by them through the assent of the Church. This
@@ -129,7 +129,7 @@ the definition we have quoted.
 (d) Infallibility is the guarantee against error, not in all matters,
 but only in the matter of dogma and morality; everything else is beyond
 its power, not only truths of another order, but even discipline and the
-ecclesiastical laws, government and administration, &c.
+[[Ecclesiastical Law|ecclesiastical laws]], government and administration, &c.
 
 (e) Again, not all dogmatic teachings of the pope are under the
 guarantee of infallibility; neither his opinions as private instructor,
@@ -142,15 +142,15 @@ distinguished when he is exercising his infallibility? As to this point
 there are two schools, or rather two tendencies, among Catholics: some
 extend the privilege of infallibility to all official exercise of the
 supreme _magisterium_, and declare infallible, e.g. the papal
-encyclicals.[1] Others, while recognizing the supreme authority of the
+[[Encyclical|encyclicals]].[1] Others, while recognizing the supreme authority of the
 papal _magisterium_ in matters of doctrine, confine the infallibility to
 those cases alone in which the pope chooses to make use of it, and
 declares positively that he is imposing on all the faithful the
 obligation of belief in a certain definite proposition, under pain of
 heresy and exclusion from the Church; they do not insist on any special
-form, but only require that the pope should clearly manifest his will to
+form, but only require that the pope should clearly [[Manifest|manifest]] his will to
 the Church. This second point of view, as clearly expounded by Mgr
-Joseph Fessler (1813-1872), bishop of St Pölten, who was secretary to
+Joseph [[Fessler]] (1813-1872), bishop of St Pölten, who was secretary to
 the Vatican Council, in his work _Die wahre und die falsche
 Unfehlbarkeit der Päpste_ (French trans. _La vraie et la fausse
 infaillibilité_, Paris, 1873), and by Cardinal Newman in his "Letter to
@@ -176,19 +176,19 @@ placet_"; but about 50 had preferred not to be present. The
 controversies occasioned by this question had started from the very
 beginning of the Council, and were carried on with great bitterness on
 both sides. The minority, among whom were prominent Cardinals Rauscher
-and Schwarzenberg, Hefele, bishop of Rotterdam (the historian of the
-councils) Cardinal Mathieu, Mgr Dupanloup, Mgr Maret, &c., &c., did not
+and Schwarzenberg, [[Hefele]], bishop of Rotterdam (the historian of the
+councils) Cardinal Mathieu, Mgr Dupanloup, Mgr [[Maret]], &c., &c., did not
 pretend to deny the papal infallibility; they pleaded the
 inopportuneness of the definition and brought forward difficulties
 mainly of an historical order, in particular the famous condemnation of
-Pope Honorius by the 6th ecumenical council of Constantinople in 680.
+Pope [[Honorius]] by the 6th ecumenical council of Constantinople in 680.
 The majority, in which Cardinal Manning played a very active part, took
 their stand on theological reasons of the strongest kind; they invoked
 the promises of Our Lord to St Peter: "Thou art Peter, and upon this
-rock will I build my Church, and the gates of hell shall not prevail
+rock will I build my Church, and the gates of [[Hell|hell]] shall not prevail
 against her"; and again, "I have prayed for thee, Peter, that thy faith
 fail not; and do thou in thy turn confirm thy brethren"; they showed the
-popes, in the course of the ages, acting as the guardians and judges of
+popes, in the course of the ages, acting as the [[Guardian|guardians]] and judges of
 the faith, arousing or welcoming dogmatic controversies and
 authoritatively settling them, exercising the supreme direction in the
 councils and sanctioning their decisions; they explained that the few
@@ -202,7 +202,7 @@ inopportuneness the doctrine itself was being attacked.
 The definition once proclaimed, controversies rapidly ceased; the
 bishops who were among the minority one after the other formulated their
 loyal adhesion to the Catholic dogma. The last to do so in Germany was
-Hefele, who published the decrees of the 10th of April 1871, thus
+Hefele, who published the [[Decree|decrees]] of the 10th of April 1871, thus
 breaking a long friendship with Döllinger; in Austria, where the
 government had thought good to revive for the occasion the royal
 _placet_, Mgr Haynald and Mgr Strossmayer delayed the publication, the
@@ -215,20 +215,20 @@ their adhesion. The most distinguished among the latter was Döllinger,
 who resisted all the advances of Mgr Scherr, archbishop of Munich, was
 excommunicated on the 17th of April 1871, and died unreconciled, though
 without joining any separate group. After him must be mentioned
-Friedrich of Munich, several professors of Bonn, and Reinkens of
+[[Friedrich]] of Munich, several professors of [[Bonn]], and Reinkens of
 Breslau, who was the first bishop of the "Old Catholics." These
 professors formed the "Committee of Bonn," which organized the new
 Church. It was recognized and protected first in Bavaria, thanks to the
 minister Freiherr Johann von Lutz, then in Saxony, Baden, Württemberg,
 Prussia, where it was the pretext for, if not the cause of, the
-Kulturkampf, and finally in Switzerland, especially at Geneva.
+Kulturkampf, and finally in Switzerland, especially at [[Geneva]].
 
   For the theological aspects of the dogma of infallibility, see, among
-  many others, L. Billot, S.J., _De Ecclesia Christi_ (3 vols., Rome,
+  many others, L. Billot, S.J., _De [[Ecclesia]] Christi_ (3 vols., Rome,
   1898-1900); or G. Wilmers, S.J., _De Christi Ecclesia_ (Regensburg,
   1897). The most accessible popular work is that of Mgr Fessler already
   mentioned. For the history of the definition see VATICAN COUNCIL; also
-  PAPACY, GALLICANISM, FEBRONIANISM, OLD CATHOLICS, &c.     (A. Bo.*)
+  PAPACY, GALLICANISM, [[Febronianism|FEBRONIANISM]], OLD CATHOLICS, &c.     (A. Bo.*)
 
 
 FOOTNOTE:

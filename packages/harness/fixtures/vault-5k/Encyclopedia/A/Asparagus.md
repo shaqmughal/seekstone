@@ -25,7 +25,7 @@ genus, sometimes regarded as a distinct genus _Myrsiphyllum_, the
 cladodes are flattened. The plants often climb or scramble, in which
 they are helped by the development of the scale-leaves into persistent
 spines. The flowers are small, whitish and pendulous; the fruit is a
-berry.
+[[Berry|berry]].
 
 Several of the climbing species are grown in greenhouses for their
 delicate, often feathery branches, which are also valuable for cutting;

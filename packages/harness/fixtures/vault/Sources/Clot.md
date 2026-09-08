@@ -1,13 +1,13 @@
 # Clot
 
-CLOT, ANTOINE BARTHÉLEMY (1793-1868), French physician, known as CLOT
-BEY, was born at Grenoble on the 7th of November 1793, and graduated in
+CLOT, [[Antoine|ANTOINE]] [[Barth|BARTH]]ÉLEMY (1793-1868), French physician, known as CLOT
+BEY, was born at [[Grenoble]] on the 7th of November 1793, and graduated in
 medicine and surgery at Montpellier. After practising for a time at
-Marseilles he was made chief surgeon to Mehemet Ali, viceroy of Egypt.
+[[Marseilles]] he was made chief surgeon to Mehemet Ali, viceroy of Egypt.
 At Abuzabel, near Cairo, he founded a hospital and schools for all
 branches of medical instruction, as well as for the study of the French
 language; and, notwithstanding the most serious religious difficulties,
-instituted the study of anatomy by means of dissection. In 1832 Mehemet
+instituted the study of anatomy by means of [[Dissection|dissection]]. In 1832 Mehemet
 Ali gave him the dignity of bey without requiring him to abjure his
 religion; and in 1836 he received the rank of general, and was appointed
 head of the medical administration of the country. In 1849 he returned

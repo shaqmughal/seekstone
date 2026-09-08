@@ -10,9 +10,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Rule_I.--J
 
 RULE I.--JETTISON OF DECK CARGO
 
-No jettison of deck cargo shall be made good as G.A.
+No jettison of deck [[Cargo|cargo]] shall be made good as G.A.
 
-Every structure not built in with the frame of the vessel shall be
+Every structure not built in with the [[Frame|frame]] of the vessel shall be
 considered to be a part of the deck of the vessel.
 
 ## See also

@@ -6,8 +6,8 @@ topic: history
 
 # Flores
 
-FLORES, an island of the Dutch East Indies, a member of the chain
-extending east of Java. Its length is 224 m., its greatest breadth 37
+FLORES, an island of the Dutch [[East Indies]], a member of the chain
+extending east of [[Java]]. Its length is 224 m., its greatest breadth 37
 m., and its area 5850 sq. m. The existence of slate, chalk, and
 sandstone, eruptive rock, volcanoes and heights stretching west and
 east, indicates a similar structure to that of the other islands of the
@@ -17,7 +17,7 @@ lesser but constantly active Gunong Api, forming a peninsula; and at the
 south-east, Lobetobi (7120 ft.). The thickly wooded interior is little
 explored. The coasts have deep bays and extensive rounded gulfs, where
 are situated the principal villages (_kampongs_). On the north coast are
-Bari, Reo, Maumer and Geliting; on the east, Larantuka; and on the
+[[Bari]], Reo, Maumer and Geliting; on the east, Larantuka; and on the
 south, Sikka and Endeh. The rivers, known only at their mouths, seem to
 be unnavigable. The mean temperature is 77° to 80° F., and the yearly
 rainfall 43 to 47 in. For administrative purposes the island is divided

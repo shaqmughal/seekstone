@@ -16,7 +16,7 @@ chattels, unaccompanied by an actual transfer of possession to the
 purchaser or mortgagor.
 
 The first English legislation on the subject was the Bills of Sale Act
-1854, which, after reciting that "frauds were frequently committed upon
+1854, which, after reciting that "[[Fraud|frauds]] were frequently committed upon
 creditors by secret bills of sale of personal chattels, whereby persons
 are enabled to keep up the appearance of being in good circumstances and
 possessed of property, and the grantees or holders of such bills of sale
@@ -47,7 +47,7 @@ act which applies to absolute bills. Bills of sale given by way of
 security for the payment of money on or after the 1st of November 1882
 are governed by the act of 1882, which, however, does not apply to
 absolute bills. Section 4 of the act of 1878 defines a bill of sale as
-(1) including bills of sale, assignments, transfers, declarations of
+(1) including bills of sale, [[Assignment|assignments]], transfers, declarations of
 trust without transfer, inventories of goods with receipt thereto
 attached, or receipts for purchase moneys of goods and other assurances
 of personal chattels; the term assurance has been best explained as a
@@ -56,16 +56,16 @@ either as the actual transfer of the property, or an agreement to
 transfer," _Marsden_ v. _Meadows_, 1881, 7 Q.B.D. 80; (2) powers of
 attorney, authorities or licences to take possession of personal
 chattels as security for any debt; these words would not include a power
-of distress for rent in an ordinary lease or bona fide hiring or hire
+of distress for rent in an ordinary lease or [[Bona|bona]] fide hiring or hire
 purchase agreements; (3) any agreement, whether intended or not to be
 followed by the execution of any other instrument, by which a right in
 equity to any personal chattels, or to any charge or security thereon,
 shall be conferred; (4) any mode of disposition of trade machinery and
 attornments and other instruments giving powers of distress to secure a
 debt or advance. On the other hand, certain assurances and instruments
-are expressly exempt by statute from the definition: marriage
+are expressly exempt by statute from the [[Definition|definition]]: marriage
 settlements, assignments of ships, assignments for the benefit of
-creditors, bills of lading and dock warrants, and by the act of 1882,
+creditors, bills of lading and [[Dock|dock]] warrants, and by the act of 1882,
 debentures and debenture stock of a company. The expression "personal
 chattels" is defined as goods, furniture and other articles capable of
 complete transfer by delivery, and (when separately assigned or charged)
@@ -83,7 +83,7 @@ fixtures and growing crops.
   must be presented to, and the copies filed by, the registrar within
   seven clear days. In the case of absolute bills the effect of
   non-compliance does not affect the validity of the bill as between the
-  parties to it, but makes it void as against the trustee in bankruptcy
+  parties to it, but makes it void as against the trustee in [[Bankruptcy|bankruptcy]]
   and execution creditors of the grantor.
 
   _Bills by Way of Security._--All bills of sale given by way of
@@ -106,7 +106,7 @@ fixtures and growing crops.
   with the interest then due, by equal ___ payments of £ ___ on the ___
   day of ___ And the said A. B. doth also agree with the said C. D. that
   he will (_here insert terms as to insurance, payment of rent, &c.,
-  which the parties may agree to for the maintenance or defeasance of
+  which the parties may agree to for the [[Maintenance|maintenance]] or [[Defeasance|defeasance]] of
   the security_). Provided always that the chattels hereby assigned
   shall not be liable to seizure or to be taken possession of by the
   said C. D. for any cause other than those specified in § 7 of the
@@ -136,7 +136,7 @@ fixtures and growing crops.
   is void. By § 7 of the act personal chattels shall only be liable to
   be seized or taken possession of in the following cases:--(1) If the
   grantor make default in payment of the debt or in the performance of
-  any covenant or agreement contained in the bill and necessary for
+  any [[Covenant|covenant]] or agreement contained in the bill and necessary for
   maintaining the security; (2) if the grantor becomes a bankrupt or
   suffers the goods to be distrained for rent, rates or taxes; (3) if
   the grantor fraudulently removes the goods from the premises; (4) if
@@ -165,7 +165,7 @@ fixtures and growing crops.
 
   The various trade protection papers always publish the registration of
   a bill of sale, and the usual effect is, therefore, to destroy the
-  credit of any person giving one.     (T. A. I.)
+  [[Credit|credit]] of any person giving one.     (T. A. I.)
 
 ## References
 

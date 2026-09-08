@@ -20,7 +20,7 @@ forming thin flat-topped sills. At each side the laccolites thin out
 rapidly so that their upper surface slopes steeply to the margins. The
 strata above them which have been uplifted and bent are often cracked by
 extension, and as the igneous materials well into the fissures a large
-number of dikes is produced. At the base of the laccolite, on the other
+number of [[Dike|dikes]] is produced. At the base of the laccolite, on the other
 hand, the strata are flat and dikes are rare, though there may be a
 conduit up which the magma has flowed into the laccolite. The rocks
 around are often much affected by contact alteration, and great masses
@@ -31,7 +31,7 @@ Gilbert obtained evidence that these laccolites were filled at depths of
 7000 to 10,000 ft. and did not reach the surface, giving rise to
 volcanoes. From the effects on the drainage of the country it seemed
 probable that above the laccolites the strata swelled up in flattish
-eminences. Often they occur side by side in groups belonging to a single
+[[Eminence|eminences]]. Often they occur side by side in groups belonging to a single
 period, though all the members of each group are not strictly of the
 same age. One laccolite may be formed on the side of an earlier one, and
 compound laccolites also occur. When exposed by erosion they give rise
@@ -47,25 +47,25 @@ development.
   has also been adopted by geologists in Britain and elsewhere to
   describe a variety of intrusive masses not strictly identical in
   character with those of the Henry Mountains. Some of these rest on a
-  curved floor, like the gabbro masses of the Cuillin Hills in Skye;
+  curved floor, like the [[Gabbro|gabbro]] masses of the Cuillin Hills in Skye;
   others are injected along a flattish plane of unconformability where
   one system of rocks rests on the upturned and eroded edges of an older
-  series. An example of the latter class is furnished by the felsite
+  series. An example of the latter class is furnished by the [[Felsite|felsite]]
   mass of the Black Hill in the Pentlands, near Edinburgh, which has
   followed the line between the Silurian and the Old Red Sandstone,
   forcing the rocks upwards without spreading out laterally to any great
   extent.
 
   The term laccolite has also been applied to many granite intrusions,
-  such as those of Cornwall. We know from the evidence of mining shafts
+  such as those of [[Cornwall]]. We know from the evidence of mining shafts
   which have been sunk in the country near the edge of these granites
   that they slope downwards underground with an angle of twenty to
   thirty degrees. They have been proved also to have been injected along
-  certain wall-marked horizons; so that although the rocks of the
+  certain wall-marked [[Horizon|horizons]]; so that although the rocks of the
   country have been folded in a very complicated manner the granite can
   often be shown to adhere closely to certain members of the
   stratigraphical sequence for a considerable distance. Hence it is
-  clear that their upper surfaces are convex and gently arched, and it
+  clear that their upper surfaces are [[Convex|convex]] and gently arched, and it
   is conjectured that the strata must extend below them, though at a
   great depth, forming a floor. The definite proof of this has not been
   attained for no borings have penetrated the granites and reached

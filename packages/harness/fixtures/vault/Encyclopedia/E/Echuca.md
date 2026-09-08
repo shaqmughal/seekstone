@@ -1,6 +1,6 @@
 # Echuca
 
-ECHUCA, a borough of the county of Rodney, Victoria, Australia, 156 m.
+ECHUCA, a borough of the county of Rodney, Victoria, [[Australia]], 156 m.
 by rail N. of Melbourne. Pop. (1901) 4075. It is situated on the river
 Murray, across which it is connected by bridge with Moama, on the New
 South Wales side, whence a railway runs to Deniliquin. The town is the

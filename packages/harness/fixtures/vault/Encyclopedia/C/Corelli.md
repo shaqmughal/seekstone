@@ -1,14 +1,14 @@
 # Corelli
 
 CORELLI, MARIE (1864-   ), English novelist, was the daughter of an
-Italian father and a Scottish mother, but in infancy was adopted by
-Charles Mackay (q.v.), the song-writer and journalist, whose son Eric,
-at his death, became her guardian. She was sent to be educated in a
+Italian father and a Scottish mother, but in [[Infancy|infancy]] was adopted by
+Charles [[Mackay]] (q.v.), the song-writer and journalist, whose son Eric,
+at his death, became her [[Guardian|guardian]]. She was sent to be educated in a
 French convent with the object of training her for the musical
 profession, and while still a girl composed various pieces of music. But
 her journalistic connexion proved a stronger stimulus to expression, and
 editors who were friends of her adopted father printed some of her early
-poetry. Then she produced what was at least a clever, if not a
+poetry. Then she produced what was at least a [[Clever|clever]], if not a
 remarkably well written, romantic story, on the theme of a
 self-revelation connecting the Christian Deity with a world force in the
 form of electricity, which was published in 1886 under the title of _A
@@ -21,7 +21,7 @@ with enough _au fond_ of what the majority demanded in ethical and
 religious correctness to suit a widespread contemporary taste; these
 were _Vendetta_ (1886), _Thelma_ (1887), _Ardath_ (1889), _The Soul of
 Lilith_ (1892), _Barabbas_ (1893), _The Sorrows of Satan_ (1895),--the
-very titles were catching,--_The Mighty Atom_ (1896),--which appealed to
+very titles were catching,--_The Mighty [[Atom]]_ (1896),--which appealed to
 all who knew enough of modern science to wish to think it wicked,--and
 others, down to _The Master Christian_ (1900), again satisfying the
 socio-ethico-religious demand, and _Temporal Power_ (1902), with its
@@ -32,7 +32,7 @@ themes which conventional readers nevertheless enjoyed, and round plots
 which were dramatic and vigorous. Her popular success was great and
 advertised itself. It was helped by a well-spread belief that Queen
 Victoria preferred her novels to any other. Reviewers wrote
-sarcastically, and justly, of her obvious literary lapses and failings;
+sarcastically, and justly, of her obvious literary [[Lapse|lapses]] and failings;
 she retorted by pitying the poor reviewers and letting it be understood
 that no books of hers were sent to the Press for criticism. When she
 went to live at Stratford-on-Avon, her personality, and her importance

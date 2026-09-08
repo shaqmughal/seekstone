@@ -11,8 +11,8 @@ id: 42-2895
 BISMARCK ARCHIPELAGO, the collective name of a large number of islands
 lying N. and N.E. of New Guinea, between 1 deg. and 7 deg. S., and 146
 deg. and 153 deg. E., belonging to Germany. The largest island is New
-Pomerania, and the archipelago also includes New Mecklenburg, New
-Hanover, with small attendant islands, the Admiralty Islands and a chain
+Pomerania, and the archipelago also includes New [[Mecklenburg]], New
+[[Hanover]], with small attendant islands, the Admiralty Islands and a chain
 of islands off the coast of New Guinea, the whole system lying in the
 form of a great amphitheatre of oval shape. The archipelago was named in
 honour of the first chancellor of the German empire, after a German

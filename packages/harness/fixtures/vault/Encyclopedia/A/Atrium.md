@@ -13,8 +13,8 @@ building is supposed to have originated), the principal entrance hall or
 court of a Roman dwelling, giving access and light to the rooms round
 it. The centre of the roof over the atrium was open to the sky and
 called the _compluvium_; the rain-water from the roof collected in the
-gutters was discharged into a marble tank underneath, which was known as
-the _impluvium_. In the early periods of Roman civilization the atrium
+[[Gutter|gutters]] was discharged into a [[Marble|marble]] tank underneath, which was known as
+the _[[Impluvium|impluvium]]_. In the early periods of Roman civilization the atrium
 was the common public apartment, and was used for the reception of
 visitors and clients, and for ordinary domestic purposes, as cooking and
 dining. In it were placed the ancestral pictures, the marriage-couch,
@@ -34,9 +34,9 @@ at Rome.
 The word _atrium_ in Rome had a second signification, being given to an
 open court with porticos round, sometimes placed in front of a temple. A
 similar arrangement was adopted by the early Christians with relation to
-the Basilica, in front of which there was an open court surrounded by
-colonnades or arcades. The church of San Clemente at Rome, that of Sant'
-Ambrogio at Milan and the cathedral of Parenzo in Istria still retain
+the [[Basilica]], in front of which there was an open court surrounded by
+[[Colonnade|colonnades]] or [[Arcade|arcades]]. The church of San Clemente at Rome, that of Sant'
+Ambrogio at Milan and the cathedral of Parenzo in [[Istria]] still retain
 their atria.
 
 ## See also

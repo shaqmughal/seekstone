@@ -10,16 +10,16 @@ id: 42-6634
 
 COTTINGTON, FRANCIS COTTINGTON, BARON (1578-1652), English lord
 treasurer and ambassador, was the fourth son of Philip Cottington of
-Godmonston in Somersetshire. According to Hoare, his mother was Jane,
-daughter of Thomas Biflete, but according to Clarendon "a Stafford
+Godmonston in Somersetshire. According to [[Hoare]], his mother was Jane,
+daughter of Thomas Biflete, but according to [[Clarendon]] "a Stafford
 nearly allied to Sir Edward Stafford," through whom he was recommended
 to Sir Charles Cornwallis, ambassador to Spain, becoming a member of his
 suite and acting as English agent on the latter's recall, from 1609 to
 1611. In 1612 he was appointed English consul at Seville. Returning to
 England, he was made a clerk of the council in September 1613. His
-Spanish experience rendered him useful to the king, and his bias in
+Spanish experience rendered him useful to the king, and his [[Bias|bias]] in
 favour of Spain was always marked. He seems to have promoted the Spanish
-policy from the first, and pressed on Gondomar, the Spanish ambassador,
+policy from the first, and pressed on [[Gondomar]], the Spanish ambassador,
 the proposal for the Spanish in opposition to the French marriage for
 Prince Charles. He was a Roman Catholic at least at heart, becoming a
 member of that communion in 1623, returning to Protestantism, and again
@@ -46,11 +46,11 @@ July 1631 he was created Baron Cottington of Hanworth in Middlesex.
 In March 1635 he was appointed master of the court of wards, and his
 exactions in this office were a principal cause of the unpopularity of
 the government. He was also appointed a commissioner for the treasury,
-together with Laud. Between Cottington and the latter there sprang up a
+together with [[Laud]]. Between Cottington and the latter there sprang up a
 fierce rivalry. In these personal encounters Cottington had nearly
 always the advantage, for he practised great reserve and possessed great
 powers of self-command, an extraordinary talent for dissembling and a
-fund of humour. Laud completely lacked these qualities, and though
+fund of [[Humour|humour]]. Laud completely lacked these qualities, and though
 really possessing much greater influence with Charles, he was often
 embarrassed and sometimes exposed to ridicule by his opponent. The aim
 of Cottington's ambition was the place of lord treasurer, but Laud
@@ -60,7 +60,7 @@ duties only."[1] He continued, however, to take a large share in public
 business and served on the committees for foreign, Irish and Scottish
 affairs. In the last, appointed in July 1638, he supported the war, and
 in May 1640, after the dismissal of the Short Parliament, he declared it
-his opinion that at such a crisis the king might levy money without the
+his opinion that at such a crisis the king might [[Levy|levy]] money without the
 Parliament. His attempts to get funds from the city were unsuccessful,
 and he had recourse instead to a speculation in pepper. He had been
 appointed constable of the Tower, and he now prepared the fortress for a
@@ -73,8 +73,8 @@ the court of wards in May 1641 and the chancellorship of the exchequer
 in January 1642. He rejoined the king in 1643, took part in the
 proceedings of the Oxford parliament, and was made lord treasurer on the
 3rd of October 1643. He signed the surrender of Oxford in July 1646, and
-being excepted from the indemnity retired abroad. He joined Prince
-Charles at the Hague in 1648, and became one of his counsellors. In
+being excepted from the [[Indemnity|indemnity]] retired abroad. He joined Prince
+Charles at the [[Hague]] in 1648, and became one of his counsellors. In
 1649, together with Hyde, Cottington went on a mission to Spain to
 obtain help for the royal cause, having an interview with Mazarin at
 Paris on the way. They met, however, with an extremely ill reception,
@@ -82,14 +82,14 @@ and Cottington found he had completely lost his popularity at the
 Spanish court, one cause being his shortcomings and waverings in the
 matter of religion. He now announced his intention of remaining in Spain
 and of keeping faithful to Roman Catholicism, and took up his residence
-at Valladolid, where he was maintained by the Jesuits. He died there on
+at Valladolid, where he was maintained by the [[Jesuits]]. He died there on
 the 19th of June 1652, his body being subsequently buried in Westminster
 Abbey. He had amassed a large fortune and built two magnificent houses
 at Hanworth and Founthill. Cottington was evidently a man of
 considerable ability, but the foreign policy pursued by him was opposed
 to the national interests and futile in itself. According to Clarendon's
 verdict "he left behind him a greater esteem of his parts than love of
-his person." He married in 1623 Anne, daughter of Sir William Meredith
+his person." He married in 1623 [[Anne]], daughter of Sir William Meredith
 and widow of Sir Robert Brett. All his children predeceased him, and his
 title became extinct at his death.
 
@@ -98,7 +98,7 @@ title became extinct at his death.
   passim_, and esp. xiii. 30 (his character), and xii., xiii. (account
   of the Spanish mission in 1649); Clarendon's _State Papers and Life_;
   Strafford's _Letters_; Gardiner's _Hist. of England and of the
-  Commonwealth_; Hoare's _Wiltshire_; Laud's _Works_, vols, iii.-vii.;
+  [[Commonwealth]]_; Hoare's _Wiltshire_; Laud's _Works_, vols, iii.-vii.;
   Winwood's _Memorials: A Refutation of a False and Impious Aspersion
   cast on the late Lord Cottington_; Dart, _Westmonasterium_, i. 181
   (epitaph and monument).     (P. C. Y.)

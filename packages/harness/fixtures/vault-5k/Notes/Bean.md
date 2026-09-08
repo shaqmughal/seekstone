@@ -19,8 +19,8 @@ chiefly, almost exclusively, used in the green state; the whole pod
 being eaten as a table vegetable or prepared as a pickle. It is
 wholesome and nutritious; and in Holland and Germany the pods are
 preserved in salt by almost every family for winter and spring use. The
-green pods are cut across obliquely, most generally by a machine
-invented for the purpose, and salted in barrels. When wanted for use
+green pods are cut across obliquely, most generally by a [[Machine|machine]]
+invented for the purpose, and salted in [[Barrel|barrels]]. When wanted for use
 they are steeped in fresh water to remove the salt, and broiled or
 stewed they form an agreeable addition to the diet at a time when no
 other vegetable may be had.
@@ -31,25 +31,25 @@ from the great majority of the species of the vetch genus (_Vicia_) as
 of generic importance--is an annual which has been cultivated fiom
 prehistoric times for its nutritious seeds.
 
-The lake-dwellers of Switzerland, and northern Italy in the bronze age
+The lake-dwellers of Switzerland, and northern Italy in the [[Bronze Age|bronze age]]
 cultivated a small-fruited variety, and it was grown in ancient Egypt,
 though, according to Herodotus, regarded by the priests as unclean. The
 ancient Greeks called it [Greek: kuamos], the Latins _faba_, but there
 is no suggestion that the plant is a native of Europe. Alphonse de
-Candolle (_Origin of Cultivated Plants_, p. 320) concludes that the bean
-was introduced into Europe probably by the western Aryans at the time of
+[[Candolle]] (_Origin of Cultivated Plants_, p. 320) concludes that the bean
+was introduced into Europe probably by the western [[Aryan|Aryans]] at the time of
 their earliest migrations. He suggests that its wild habitat was twofold
 some thousands of years ago, one of the centres being to the south of
 the Caspian, the other in the north of Africa, and that its area has
 long been in process of diminution and extinction. The nature of the
-plant favours this hypothesis, for its seed has no means of dispersing
+plant favours this [[Hypothesis|hypothesis]], for its seed has no means of dispersing
 itself, and rodents or other animals can easily make prey of it; the
 struggle for existence which was going against this plant as against
 maize would have gradually isolated it and caused it to disappear, if
 man had not saved it by cultivation. It was introduced into China a
 little before the Christian era, later into Japan and more recently into
 India, though it has been suggested that in parts of the higher
-Himalayas its cultivation has survived from very ancient times. It is a
+[[Himalaya|Himalayas]] its cultivation has survived from very ancient times. It is a
 plant which will flourish in all ordinary good garden soil. The seeds
 are sown about 4 in. apart, in drills 2-1/2 ft. asunder for the smaller
 and 3 ft. for the larger sorts. The soil should, preferably, be a rather
@@ -61,7 +61,7 @@ them to a warm border. Successional crops are obtained by sowing
 suitable varieties from January to the end of June. All the culture
 necessary is that the earth be drawn up about the stems. The plants are
 usually topped when the pods have set, as this not only removes the
-black aphides which often settle there, but is also found to promote the
+black [[Aphides|aphides]] which often settle there, but is also found to promote the
 filling of the pods.
 
 The following are some of the best sorts:--for early use, Early Mazagan,
@@ -93,9 +93,9 @@ so long as the plant is small enough to suffer no injury therefrom. The
 routine of cultivation for winter beans hardly differs from that
 described except as regards the time of sowing.
 
-Beans are cut when the leaf is fallen and the haulm is almost black
+Beans are cut when the [[Leaf|leaf]] is fallen and the haulm is almost black
 either with the fagging hook or the reaping machine, though the
-stoutness of the stalks causes a severe strain on the latter implement.
+stoutness of the stalks causes a severe strain on the latter [[Implement|implement]].
 They are tied and stocked, and are so left for a considerable time
 before stacking. There is less fear of injury to the crop through damp
 than in the case of other cereals. Their value for feeding purposes
@@ -131,7 +131,7 @@ in early in May; and a later sowing may be made early in July. The
 earlier plantings may be sown in small pots, and put in frames or
 houses, until they can be safely planted out-of-doors. A light covering
 of straw or some other simple shelter suffices to protect from late
-frosts. The seeds should be covered 1-1/2 or 2 in. deep, the distance
+[[Frost|frosts]]. The seeds should be covered 1-1/2 or 2 in. deep, the distance
 between the rows being about 2 ft., or for the dwarfest sorts 18 in.,
 and that between plants from 4 to 6 in. The pods may be used as a green
 vegetable, in which case they should be gathered whilst they are so
@@ -170,14 +170,14 @@ The ordinary scarlet runner is most commonly grown, but there is a
 white-flowered variety which has also white seeds; this is very prolific
 and of excellent quality. Another variety called Painted Lady, with the
 flowers red and white, is very ornamental, but not so productive.
-Carter's Champion is a large-podded productive variety.
+Carter's [[Champion]] is a large-podded productive variety.
 
-Another species _P. lunatus_, the Lima bean, a tall biennial with a
+Another species _P. lunatus_, the [[Lima]] bean, a tall biennial with a
 scimitar-shaped pod (whence the specific name) 2 to 3 in. long
 containing a few large seeds, is widely cultivated in the warmer parts
 of the world.
 
-The young pods of another leguminous climbing herb, _Dolichos Lablab_,
+The young pods of another leguminous climbing [[Herb|herb]], _Dolichos Lablab_,
 as well as the seeds, are widely used in the tropics, as we use the
 kidney bean. The plant is probably a native of tropical Africa, but is
 now generally cultivated in the tropics. The word _Dolichos_ is of Greek
@@ -198,10 +198,10 @@ Other references to beans will be found under special headings, such as
 CALABAR BEAN, LOCUST-TREE. There are also several non-leguminous seeds
 to which the popular name bean is attached. Among these may be mentioned
 the sacred Egyptian or Pythagorean bean (_Nelumbium speciosum_), and the
-Ignatius bean (probably _Strychnos multiflora_), a source of strychnine.
+[[Ignatius]] bean (probably _Strychnos multiflora_), a source of strychnine.
 
 The ancient Greeks and Romans made use of beans in gathering the votes
-of the people, and for the election of magistrates. A white bean
+of the people, and for the election of [[Magistrate|magistrates]]. A white bean
 signified absolution, and a black one condemnation. Beans had a
 mysterious use in the _lemuralia_ and _parentalia_, where the master of
 the family, after washing his hands three times, threw black beans over

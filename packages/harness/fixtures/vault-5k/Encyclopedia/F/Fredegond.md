@@ -7,7 +7,7 @@ topic: biology
 # Fredegond
 
 FREDEGOND (_Fredigundis_) (d. 597), Frankish queen. Originally a
-serving-woman, she inspired the Frankish king, Chilperic I., with a
+serving-woman, she inspired the Frankish king, [[Chilperic]] I., with a
 violent passion. At her instigation he repudiated his first wife
 Audovera, and strangled his second, Galswintha, Queen Brunhilda's
 sister. A few days after this murder Chilperic married Fredegond (567).
@@ -21,7 +21,7 @@ first son Thierry, however, to whom Bishop Ragnemod of Paris stood
 godfather, died soon after birth, and Fredegond tortured a number of
 women whom she accused of having bewitched the child. Her second son
 also died in infancy. Finally, she gave birth to a child who afterwards
-became king as Clotaire II. Shortly after the birth of this third son,
+became king as [[Clotaire]] II. Shortly after the birth of this third son,
 Chilperic himself perished in mysterious circumstances (584). Fredegond
 has been accused of complicity in his murder, but with little show of
 probability, since in her husband she lost her principal supporter.
@@ -29,7 +29,7 @@ probability, since in her husband she lost her principal supporter.
 Henceforth Fredegond did all in her power to gain the kingdom for her
 child. Taking refuge at the church of Notre Dame at Paris, she appealed
 to King Guntram of Burgundy, who took Clotaire under his protection and
-defended him against his other nephew, Childebert II., king of
+defended him against his other nephew, [[Childebert]] II., king of
 Austrasia. From that time until her death Fredegond governed the western
 kingdom. She endeavoured to prevent the alliance between King Guntram
 and Childebert, which was cemented by the pact of Andelot; and made

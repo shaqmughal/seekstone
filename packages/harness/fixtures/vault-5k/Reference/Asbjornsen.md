@@ -3,7 +3,7 @@
 ASBJORNSEN, PETER CHRISTEN (1812-1885), and MOE, JORGEN ENGEBRETSEN
 (1813-1882), collectors of Norwegian folklore, so closely united in
 their life's work that it is unusual to name them apart. Asbjornsen was
-born in Christiania on the 15th of January 1812; he belonged to an
+born in [[Christiania]] on the 15th of January 1812; he belonged to an
 ancient family of the Gudbrandsdal, which is believed to have died with
 him. He became a student at the university in 1833, but as early as
 1832, in his twentieth year, he had begun to collect and write down all
@@ -40,7 +40,7 @@ with a pension; he died in Christiania on the 6th of January 1885. From
 parts of Norway, collecting traditions in the mountains. In 1845 he was
 appointed professor of theology in the Military School of Norway. He
 had, however, long intended to take holy orders, and in 1853 he did so,
-becoming for ten years a resident chaplain in Sigdal, and then (1863)
+becoming for ten years a resident [[Chaplain|chaplain]] in Sigdal, and then (1863)
 parish priest of Bragernes. He was moved in 1870 to the parish of Vestre
 Aker, near Christiania, and in 1875 he was appointed bishop of
 Christiansand. In January 1882 he resigned his diocese on account of
@@ -49,11 +49,11 @@ special claim on critical attention in regard to his lyrical poems, of
 which a small collection appeared in 1850. He wrote little original
 verse, but in his slender volume are to be found many pieces of
 exquisite delicacy and freshness. Moe also published a delightful
-collection of prose stories for children, _In the Well and the Churn (_I
-Bronde og i Kjaernet), 1851; and _A Little Christmas Present (En liden
+collection of prose stories for children, _In the Well and the [[Churn]] (_I
+Bronde og i Kjaernet), 1851; and _A Little [[Christmas]] Present (En liden
 Juleegave)_, 1860. Asbjornsen and Moe had the advantage of an admirable
 style in narrative prose. It was usually said that the vigour came from
-Asbjornsen and the charm from Moe, but the fact seems to be that from
+Asbjornsen and the [[Charm|charm]] from Moe, but the fact seems to be that from
 the long habit of writing in unison they had come to adopt almost
 precisely identical modes of literary expression.     (E. G.)
 

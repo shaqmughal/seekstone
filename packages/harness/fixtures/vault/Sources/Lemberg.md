@@ -1,7 +1,7 @@
 # Lemberg
 
 LEMBERG (Pol. _Lwów_, Lat. _Leopolis_), the capital of the crownland of
-Galicia, Austria, 468 m. N.W. of Vienna by rail. Pop. (1900) 159,618, of
+[[Galicia]], Austria, 468 m. N.W. of Vienna by rail. Pop. (1900) 159,618, of
 whom over 80% were Poles, 10% Germans, and 8% Ruthenians; nearly 30% of
 the population were Jews. According to population Lemberg is the fourth
 city in the Austrian empire, coming after Vienna, Prague and Trieste.
@@ -12,8 +12,8 @@ formerly fortified, but the fortifications were transformed into
 pleasure grounds in 1811. Lemberg is the residence of Roman Catholic,
 Greek Catholic and Armenian archbishops, and contains three cathedrals.
 The Roman Catholic cathedral was finished by Casimir IV. in 1480 in
-Gothic style; near it is a chapel (1609) remarkable for its architecture
-and sculpture. The Greek cathedral, built in 1740-1779 in the Basilica
+[[Gothic]] style; near it is a chapel (1609) remarkable for its architecture
+and sculpture. The Greek cathedral, built in 1740-1779 in the [[Basilica]]
 style, is situated on a height which dominates the town. The Armenian
 cathedral was built in 1437 in the Armenian-Byzantine style. The
 Dominican church, built in 1749 after the model of St Peter's at Rome,
@@ -34,15 +34,15 @@ polytechnic, gymnasia--for Poles, Ruthenians and Germans
 respectively--seminaries for priests, training colleges for teachers,
 and other special and technical schools. In Lemberg is the National
 Institute founded by Count Ossolinski, which contains a library of books
-and manuscripts relating chiefly to the history and literature of
+and [[Manuscript|manuscripts]] relating chiefly to the history and literature of
 Poland, valuable antiquarian and scientific collections, and a printing
 establishment; also the Dzieduszycki museum with collections of natural
 history and ethnography relating chiefly to Galicia. Industrially and
 commercially Lemberg is the most important city in Galicia, its
 industries including the manufacture of machinery and iron wares,
-matches, stearin candles and naphtha, arrack and liqueurs, chocolate,
+matches, stearin [[Candle|candles]] and naphtha, arrack and liqueurs, chocolate,
 chicory, leather and plaster of Paris, as well as brewing, corn-milling
-and brick and tile making. It has important commerce in linen, flax,
+and [[Brick|brick]] and tile making. It has important commerce in linen, flax,
 hemp, wool and seeds, and a considerable transit trade. Of the
 well-wooded hills which surround Lemberg, the most important is the
 Franz-Josef-Berg to the N.E., with an altitude of 1310 ft. Several
@@ -50,7 +50,7 @@ beautiful parks have been laid out on this hill.
 
 Leopolis was founded about 1259 by the Ruthenian prince Leo Danilowicz,
 who moved here his residence from Halicz in 1270. From Casimir the
-Great, who captured it in 1340, it received the Magdeburg rights, and
+Great, who captured it in 1340, it received the [[Magdeburg]] rights, and
 for almost two hundred years the public records were kept in German. In
 1412 it became the see of a Roman Catholic archbishopric, and from 1432
 until 1772 it was the capital of the Polish province of Reussen (_Terra

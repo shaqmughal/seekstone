@@ -180,7 +180,7 @@ immediately following the death of Herod.
   religious champions of the nation and the friends of the Hasidim. Here
   they are leagued with the Sadducees, and are the declared foes of the
   Pharisaic party. This section was written therefore after 134 B.C.,
-  when the breach between John Hyrcanus and the Pharisees took place and
+  when the [[Breach|breach]] between John Hyrcanus and the Pharisees took place and
   before the savage massacres of the latter by Jannaeus (95 B.C.); for
   it is not likely that in a book dealing with the sufferings of the
   Pharisees such a reference would be omitted. These chapters indicate a
@@ -202,7 +202,7 @@ immediately following the death of Herod.
   sixteen verses, such an omission need cause little embarrassment, and
   still less if the author is the determined foe of the Maccabees, whom
   he would probably have stigmatized as apostates, if he had mentioned
-  them at all, just as he similarly brands all the Sadducean priesthood
+  them at all, just as he similarly [[Brand|brands]] all the Sadducean priesthood
   that preceded them to the time of the captivity. This Ten-Weeks
   Apocalypse, therefore, we take to be the work of the writer of the
   rest of xci.-civ.
@@ -275,7 +275,7 @@ MSS. discovered in Russia and Servia. Since about A.D. 500 it has been
 lost sight of. It is cited without acknowledgment in the _Book of Adam
 and Eve_, the _Apocalypses of Moses and Paul_, the _Sibylline Oracles_,
 the _Ascension of Isaiah_, the _Epistle of Barnabas_, and referred to by
-Origen and Irenaeus (see Charles, _The Book of the Secrets of Enoch_,
+Origen and [[Irenaeus]] (see Charles, _The Book of the Secrets of Enoch_,
 1895, pp. xvii-xxiv). For Charles's _editio princeps_ of this work, in
 1895, Professor Morfill translated two of the best MSS., as well as
 Sokolov's text, which is founded on these and other MSS. In 1896
@@ -321,7 +321,7 @@ iii. 24 sqq. and other Greek writings. (2) Again our author uses the
 chronology of the Septuagint and in 1, 4 follows the Septuagint text of
 Deuteronomy xxxii. 35 against the Hebrew. On the other hand, some
 sections may wholly or in part go back to Hebrew originals. There is a
-Hebrew Book of Enoch attributed to R. Ishmael ben Elisha who lived at
+Hebrew Book of Enoch attributed to R. Ishmael ben [[Elisha]] who lived at
 the close of the 1st century and the beginning of the 2nd century B.C.
 This book is very closely related to the Book of the Secrets of Enoch,
 or rather, to a large extent dependent upon it. Did Ishmael ben Elisha
@@ -341,7 +341,7 @@ The book in its present form was written in Egypt. This may be inferred
 and writings of a Hellenistic character that circulated mainly in Egypt.
 (2) The Phoenixes are Chalkydries (ch. xii.)--monstrous serpents with
 the heads of crocodiles--are natural products of the Egyptian
-imagination. (3) The syncretistic character of the creation account
+[[Imagination|imagination]]. (3) The syncretistic character of the creation account
 (xxv.-xxvi.) betrays Egyptian elements.
 
 _Relation to Jewish and Christian Literature._--The existence of a

@@ -71,7 +71,7 @@ Christ _Sol verus_, Ambrose _Sol novus noster_ (Sermo vii. 13), and such
 rhetoric was widespread. The Syrians and Armenians, who clung to the 6th
 of January, accused the Romans of sun-worship and idolatry, contending
 with great probability that the feast of the 25th of December had been
-invented by disciples of Cerinthus and its lections by Artemon to
+invented by [[Disciple|disciples]] of Cerinthus and its lections by Artemon to
 commemorate the _natural_ birth of Jesus. Chrysostom also testifies the
 25th of December to have been from the beginning known in the West, from
 Thrace even as far as Gades. Ambrose, _On Virgins_, in. ch. 1, writing
@@ -109,7 +109,7 @@ is the fact (noticed by Usener) that in 387 the new feast was reckoned
 according to the Julian calendar by writers of the province of Asia, who
 in referring to other feasts use the reckoning of their local calendars.
 As early as 400 in Rome an imperial rescript includes Christmas among
-the three feasts (the others are Easter and Epiphany) on which theatres
+the three feasts (the others are [[Easter]] and Epiphany) on which theatres
 must be closed. Epiphany and Christmas were not made judicial _non dies_
 until 534.
 
@@ -169,7 +169,7 @@ until late in the 4th century the Christians kept it as a day of fasting
 and gloom. The setting up in Latin churches of a Christmas _crèche_ is
 said to have been originated by St Francis.
 
-  AUTHORITIES.--K.A.H. Kellner, _Heortologie_ (Freiburg im Br., 1906),
+  AUTHORITIES.--K.A.H. Kellner, _Heortologie_ ([[Freiburg]] im Br., 1906),
   with Bibliography; Hospinianus, _De festis Christianorum_ (Genevae,
   1574); Edw. Martène, _De Antiquis Ecclesiae Ritibus_, iii. 31
   (Bassani, 1788); J.C.W. Augusti, _Christl. Archäologie_, vols. i. and

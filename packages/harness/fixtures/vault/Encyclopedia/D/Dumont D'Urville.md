@@ -14,7 +14,7 @@ in Condé, devolved the care of his education on his mother and his
 maternal uncle, the Abbé de Croizilles. Failing to pass the entrance
 examination for the École Polytechnique, he went to sea in 1807 as a
 novice on board the "Aquilon." During the next twelve years he gradually
-rose in the service, and added a knowledge of botany, entomology,
+rose in the service, and added a knowledge of botany, [[Entomology|entomology]],
 English, German, Spanish, Italian and even Hebrew and Greek to the
 professional branches of his studies. In 1820, while engaged in a
 hydrographic survey of the Mediterranean, he was fortunate enough to
@@ -27,29 +27,29 @@ in 1825 his services were rewarded by promotion to the rank of
 _capitaine de frégate_, and he was entrusted with the control of a
 similar enterprise, with the especial purpose of discovering traces of
 the lost explorer La Pérouse, in which he was successful. The
-"Astrolabe," as he renamed the "Coquille," left Toulon on the 25th of
-April 1826, and returned to Marseilles on the 25th of March 1829, having
+"[[Astrolabe]]," as he renamed the "Coquille," left Toulon on the 25th of
+April 1826, and returned to [[Marseilles]] on the 25th of March 1829, having
 traversed the South Atlantic, coasted the Australian continent from King
-George's Sound to Port Jackson, charted various parts of New Zealand,
-and visited the Fiji Islands, the Loyalty Islands, New Caledonia, New
+George's Sound to Port [[Jackson]], charted various parts of New Zealand,
+and visited the [[Fiji]] Islands, the [[Loyalty Islands]], New [[Caledonia]], New
 Guinea, Amboyna, Van Diemen's Land, the Caroline Islands, Celebes and
-Mauritius. Promotion to the rank of _capitaine de vaisseau_ was bestowed
-on the commander in August 1829; and in August of the following year he
+[[Mauritius]]. Promotion to the rank of _capitaine de vaisseau_ was bestowed
+on the [[Commander|commander]] in August 1829; and in August of the following year he
 was charged with the delicate task of conveying the exiled king Charles
 X. to England. His proposal to undertake a voyage of discovery to the
 south polar regions was discouraged by Arago and others, who criticized
 the work of the previous expedition in no measured terms; but at last,
 in 1837, all difficulties were surmounted, and on the 7th of September
 he set sail from Toulon with the "Astrolabe" and its convoy "La Zélée."
-On the 15th of January 1838 they sighted the Antarctic ice, and soon
+On the 15th of January 1838 they sighted the Antarctic [[Ice|ice]], and soon
 after their progress southward was blocked by a continuous bank, which
 they vainly coasted for 300 m. to the east. Returning westward they
 visited the South Orkney Islands and part of the New Shetlands, and
-discovered Joinville Island and Louis Philippe Land, but were compelled
-by scurvy to seek succour at Talcahuano in Chile. Thence they proceeded
+discovered [[Joinville]] Island and Louis Philippe Land, but were compelled
+by scurvy to seek succour at Talcahuano in [[Chile]]. Thence they proceeded
 across the Pacific and through the Asiatic archipelago, visiting among
-others the Fiji and the Pelew Islands, coasting New Guinea, and
-circumnavigating Borneo. In 1840, leaving their sick at Hobart Town,
+others the Fiji and the Pelew Islands, [[Coasting|coasting]] New Guinea, and
+circumnavigating Borneo. In 1840, leaving their sick at [[Hobart]] Town,
 Tasmania, they returned to the Antarctic region, and on the 21st of the
 month were rewarded by the discovery of Adélie Land, which D'Urville
 named after his wife, in 140° E. The 6th of November found them at

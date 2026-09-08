@@ -9,7 +9,7 @@ id: 42-5814
 
 KARLI, a village of British India, in the Poona district of the Bombay
 presidency, famous for its rock caves. Pop. (1901), 903. The great cave
-of Karli is said by Fergusson to be without exception the largest and
+of Karli is said by [[Fergusson]] to be without exception the largest and
 finest _chaitya_ cave in India; it was excavated at a time when the
 style was in its greatest purity, and is splendidly preserved. The great
 _chaitya_ hall is 126 ft. long, 45 ft. 7 in. wide, and about 46 ft.

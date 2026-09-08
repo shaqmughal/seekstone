@@ -11,7 +11,7 @@ DAILLE (DALLAEUS), JEAN (1594-1670), French Protestant divine, was born
 at Chatellerault and educated at Poitiers and Saumur. From 1612 to 1621
 he was tutor to two of the grandsons of Philippe de Mornay, seigneur du
 Plessis Marly. Ordained to the ministry in 1623, he was for some time
-private chaplain to Du Plessis Mornay, whose memoirs he subsequently
+private [[Chaplain|chaplain]] to Du Plessis Mornay, whose memoirs he subsequently
 wrote. In 1625 Daille was appointed minister of the church of Saumur,
 and in 1626 was chosen by the Paris consistory to be minister of the
 church of Charenton. Of his works, which are principally controversial,
@@ -24,7 +24,7 @@ and that even when it is correct their reasoning is often illogical. In
 his _Sermons_ on the Philippians and Colossians, Daille vindicated his
 claim to rank as a great preacher as well as an able controversialist.
 He was president of the last national synod held in France, which met at
-Loudun in 1659 (H. M. Baird, _The Huguenots and the Revocation of the
+[[Loudun]] in 1659 (H. M. Baird, _The [[Huguenots]] and the Revocation of the
 Edict of Nantes_, 1895, i. pp. 412 ff.), when, as in the _Apologie des
 Synodes d'Alencon et de Charenton_ (1655), he defended the universalism
 of Moses Amyraut. He wrote also _Apologie pour les Eglises Reformees_
@@ -37,20 +37,20 @@ Nantes.
 
 DAIRY and DAIRY-FARMING (from the Mid. Eng. _deieris_, from _dey_, a
 maid-servant, particularly one about a farm; cf. Norw. _deia_, as in
-_bu-deia_, a maid in charge of live-stock, and in other compounds; thus
+_bu-deia_, a maid in charge of live-stock, and in other [[Compound|compounds]]; thus
 "dairy" means that part of the farm buildings where the "dey" works).
-Milk, either in its natural state, or in the form of butter and cheese,
+Milk, either in its natural state, or in the form of [[Butter|butter]] and [[Cheese|cheese]],
 is an article of diet so useful, wholesome and palatable, that dairy
 management, which includes all that concerns its production and
 treatment, constitutes a most important branch of husbandry. The
 physical conditions of the different countries of the world have
 determined in each case the most suitable animal for dairy purposes. The
 Laplander obtains his supplies of milk from his rein-deer, the roving
-Tatar from his mares, and the Bedouin of the desert from his camels. In
+Tatar from his mares, and the Bedouin of the [[Desert|desert]] from his camels. In
 the temperate regions of the earth many pastoral tribes subsist mainly
 upon the milk of the sheep. In some rocky regions the goat is invaluable
 as a milk-yielder; and the buffalo is equally so amid the swamps and
-jungles of tropical climates. The milking of ewes was once a common
+jungles of tropical climates. The milking of [[Ewe|ewes]] was once a common
 practice in Great Britain; but it has fallen into disuse because of its
 hurtful effects upon the flock. A few milch asses and goats are here and
 there kept for the benefit of infants or invalids; but with these
@@ -72,7 +72,7 @@ to the increased production of milk and cream, butter and cheese. On the
 auspices of a committee of agriculturists, and it has been followed by a
 similar show in every subsequent year. The official report of the
 pioneer show stated that "there was a much larger attendance and a
-greater amount of enthusiasm in the movement than even the most sanguine
+greater amount of [[Enthusiasm|enthusiasm]] in the movement than even the most sanguine
 of its promoters anticipated." On the day named Professor J. Prince
 Sheldon read at the show a paper on the dairying industry, and proposed
 the formation of a society to be called the British Dairy Farmers'
@@ -82,8 +82,8 @@ development of the dairying industry of the United Kingdom. In its
 earlier publications the Association was wont to reproduce from
 _Household Words_ the following tribute to the cow:--
 
-  "If civilized people were ever to lapse into the worship of animals,
-  the Cow would certainly be their chief goddess. What a fountain of
+  "If civilized people were ever to [[Lapse|lapse]] into the worship of animals,
+  the Cow would certainly be their chief goddess. What a [[Fountain|fountain]] of
   blessings is the Cow! She is the mother of beef, the source of butter,
   the original cause of cheese, to say nothing of shoe-horns, hair-combs
   and upper leather. A gentle, amiable, ever-yielding creature, who has
@@ -102,7 +102,7 @@ remember what these products were like at the first two or three dairy
 shows. Simultaneously there has been a no less marked advance in the
 mechanical aids to dairying, including, in particular, the centrifugal
 cream-separator, the crude germ of which was first brought before the
-public at the international dairy show held at Hamburg in the spring of
+public at the [[International|international]] dairy show held at Hamburg in the spring of
 1877. The association in good time set the example, now beneficially
 followed in many parts of Great Britain, of providing means for
 technical instruction in the making of cheese and butter, by the
@@ -119,10 +119,10 @@ butter-making contests are held and public demonstrations are given.
 
 What are regarded as the dairy breeds of cattle is illustrated by the
 prize schedule of the annual London dairy show, in which sections are
-provided for cows and heifers of the Shorthorn, Jersey, Guernsey, Red
+provided for cows and heifers of the Shorthorn, Jersey, [[Guernsey]], Red
 Polled, Ayrshire, Kerry and Dexter breeds (see CATTLE). A miscellaneous
 class is also provided, the entries in which are mostly cross-breds.
-There are likewise classes for Shorthorn bulls, Jersey bulls, and bulls
+There are likewise classes for Shorthorn [[Bull|bulls]], Jersey bulls, and bulls
 of any other pure breed, but it is stipulated that all bulls must be of
 proved descent from dams that have won prizes in the milking trials or
 butter tests of the British Dairy Farmers' Association or other
@@ -202,7 +202,7 @@ milk.
 
 The milking trials are based upon a chemical test, as it is necessary to
 determine the percentage of fat and of solids other than fat in each
-sample of milk. The butter test, on the other hand, is a churn test, as
+sample of milk. The butter test, on the other hand, is a [[Churn|churn]] test, as
 the cream has to be separated from the milk and churned. The following
 is the scale of points used at the London dairy show in making awards in
 butter tests:--
@@ -372,7 +372,7 @@ gallons. Of cows which dropped a first calf in the autumn of 1899, one
 of them--Lemon--milked continuously for 462 days, yielding a total of
 7166 lb. of milk, being still in milk when the herd year closed on the
 27th of December. Similar cases were those of Nora, which gave 9066 lb.
-of milk in 455 days; Doris, 8138 lb. in 462 days; Brisk, 9248 lb. in 469
+of milk in 455 days; [[Doris]], 8138 lb. in 462 days; Brisk, 9248 lb. in 469
 days; Della, 8806 lb. in 434 days, drying 28 days before the year ended;
 and Lottie, 6327 lb. in 394 days, also drying 28 days before the year
 ended; these were all cows with their first calf. Eight cows in the herd
@@ -407,8 +407,8 @@ The practice of taking the milk register, as followed in a well-known
 dairy, may be briefly described. The cows are always milked in the
 stalls, and during summer they are brought in twice a day for this
 purpose. After each cow is milked, the pail containing the whole of her
-milk is hung on a spring balance suspended in a convenient position, and
-from the gross weight indicated there is deducted the already known
+milk is hung on a spring [[Balance|balance]] suspended in a convenient position, and
+from the [[Gross|gross]] weight indicated there is deducted the already known
 weight of the pail.[2] The difference, which represents the weight of
 milk, is recorded in a book suitably ruled. This book when open presents
 a view of one week's records. In the left-hand column are the names of
@@ -491,7 +491,7 @@ alterations:--
   remove it to a distance as often as practicable.
 
   8. Whitewash the cow-house once or twice a year; use gypsum in the
-  manure gutters daily.
+  manure [[Gutter|gutters]] daily.
 
   9. Use no dry, dusty feed just previous to milking; if fodder is
   dusty, sprinkle it before it is fed.
@@ -530,7 +530,7 @@ alterations:--
 
   19. Salt should always be accessible to the cows.
 
-  20. Do not allow any strong-flavoured food, like garlic, cabbages and
+  20. Do not allow any strong-flavoured food, like [[Garlic|garlic]], cabbages and
   turnips, to be eaten, except immediately after milking.
 
   21. Clean the entire skin of the cow daily. If hair in the region of
@@ -582,7 +582,7 @@ alterations:--
   dry room, where the air is pure and sweet. Do not allow cans to remain
   in the cow-house while they are being filled with milk.
 
-  34. Strain the milk through a metal gauze and a flannel cloth or layer
+  34. Strain the milk through a metal gauze and a [[Flannel|flannel]] cloth or layer
   of cotton as soon as it is drawn.
 
   35. Cool the milk as soon as strained--to 45 deg. F. if the milk is for
@@ -591,7 +591,7 @@ alterations:--
   36. Never close a can containing warm milk.
 
   37. If the cover is left off the can, a piece of cloth or mosquito
-  netting should be used to keep out insects.
+  netting should be used to keep out [[Insect|insects]].
 
   38. If milk is stored, it should be kept in tanks of fresh cold water
   (renewed as often as the temperature increases to any material
@@ -623,7 +623,7 @@ alterations:--
   THE UTENSILS
 
   46. Milk utensils for farm use should be made of metal and have all
-  joints smoothly soldered. Never allow them to become rusty or rough
+  [[Joints|joints]] smoothly soldered. Never allow them to become rusty or rough
   inside.
 
   47. Do not haul waste products back to the farm in the cans used for
@@ -645,7 +645,7 @@ alterations:--
 FOOD AND MILK PRODUCTION
 
 In their comprehensive paper relating to the feeding of animals
-published in 1895, Lawes and Gilbert discussed amongst other questions
+published in 1895, [[Lawes]] and Gilbert discussed amongst other questions
 that of milk production, and directed attention to the great difference
 in the demands made on the food--on the one hand for the production of
 meat (that is, of animal increase), and on the other for the production
@@ -736,7 +736,7 @@ milk and that in the fattening increase.
 
 It is evident, then, that the drain upon the food is very much greater
 for the production of milk than for that of meat. This is especially the
-case in the important item of nitrogenous substance; and if, as is
+case in the important [[Item|item]] of nitrogenous substance; and if, as is
 frequently assumed, the butter-fat of the milk is at any rate largely
 derived from the nitrogenous substance of the food, so far as it is so
 at least about two parts of such substance would be required to produce
@@ -765,7 +765,7 @@ To this point further reference will be made presently.
   | 2.7 lb. Bran        |   2.33  |   0.33   |    1.09    |   1.42   |
   | 2.8 lb. Hay-chaff   |   2.34  |   0.15   |    1.18    |   1.33   |
   | 5.6 lb. Oat-straw-  |         |          |            |          |
-  |   chaff             |   4.64  |   0.08   |    2.21    |   2.29   |
+  |   [[Chaff|chaff]]             |   4.64  |   0.08   |    2.21    |   2.29   |
   |62.8 lb. Mangel      |   7.85  |   1.01   |    5.73    |   6.74   |
   |                     +---------+----------+------------+----------+
   |    Total            |  19.92  |   2.64*  |   11.71*   |  14.35   |
@@ -804,7 +804,7 @@ The first column shows that the amount of total dry substance of food
 actually consumed by the herd, per 1000 lb. live-weight per day, was
 scarcely 20 lb. whilst Wolff's[3] estimated requirement, as stated at
 the foot of the table, is 24 lb. But his ration would doubtless consist
-to a greater extent of hay and straw-chaff, containing a larger
+to a greater extent of [[Hay|hay]] and straw-chaff, containing a larger
 proportion of indigestible and effete woody fibre. The figures show,
 indeed that the Rothamsted ration supplied, though nearly the same, even
 a somewhat less amount of total digestible constituents than Wolff's.
@@ -829,13 +829,13 @@ wholly, from the albuminoids of the food.
 It has been shown that although it is possible that some of the fat of a
 fattening animal may be produced from the albuminoids of the food,
 certainly the greater part of it, if not the whole, is derived from the
-carbohydrates. But the physiological conditions of the production of
+[[Carbohydrate|carbohydrates]]. But the physiological conditions of the production of
 milk are so different from those for the production of fattening
 increase, that it is not admissible to judge of the sources of the fat
 of the one from what may be established in regard to the other. It has
 been assumed, however, by those who maintain that the fat of the
 fattening animal is formed from albuminoids, that the fat of milk must
-be formed in the same way. Disallowing the legitimacy of such a
+be formed in the same way. Disallowing the [[Legitimacy|legitimacy]] of such a
 deduction, there do, nevertheless, seem to be reasons for supposing that
 the fat of milk may, at any rate in large proportion, be derived from
 albuminoids.
@@ -1177,7 +1177,7 @@ or roots may be estimated according to the scale given.
   |    | cake    |109.76 |12.50 | 97.26 |118.11 |1 19  4 | 56.00 | 4.69 | 51.31 | 8  7 |33.60 | 4.09| 29.51 | 3  8| 2 11  7 |
   |    |         +-------+------+-------+-------+--------+-------+------+-------+------+------+-----+-------+-----+---------+
   |  8 |Peas     | 80.64 |17.86 | 62.78 | 76.24 |1  5  5 | 19.04 | 6.68 | 12.36 | 2  1 |21.50 | 5.73| 15.77 | 2  0| 1  9  6 |
-  |  9 |Beans    | 89.60 |17.86 | 71.74 | 87.12 |1  9  0 | 24.64 | 6.68 | 17.96 | 3  0 |29.12 | 5.73| 23.39 | 2 11| 1 14 11 |
+  |  9 |[[Bean|Beans]]    | 89.60 |17.86 | 71.74 | 87.12 |1  9  0 | 24.64 | 6.68 | 17.96 | 3  0 |29.12 | 5.73| 23.39 | 2 11| 1 14 11 |
   | 10 |Lentils  | 94.08 |17.86 | 76.22 | 92.56 |1 10 10 | 16.80 | 6.68 | 10.12 | 1  8 |15.68 | 5.73|  9.95 | 1  3| 1 13  9 |
   | 11 |Tares    |       |      |       |       |        |       |      |       |      |      |     |       |     |         |
   |    | (seed)  | 94.08 |17.86 | 76.22 | 92.56 |1 10 10 | 17.92 | 6.68 | 11.24 | 1 10 |17.92 | 5.73| 12.19 | 1  6| 1 14  2 |
@@ -1345,7 +1345,7 @@ described in the _Journal_ of the British Dairy Farmers' Association in
   operate with the milk from 25 to not over 60 cows.
 
   "The system of cheese-making commonly practised in the county of Ayr
-  at that time was what is commonly known as the Joseph Harding or
+  at that time was what is commonly known as the Joseph [[Harding]] or
   English Cheddar system, which differs from the Canadian system in many
   details, and in one particular is essentially different, namely, the
   manner in which the necessary acidity in the milk is produced. In the
@@ -1412,7 +1412,7 @@ described in the _Journal_ of the British Dairy Farmers' Association in
   thing depends on the good judgment of the operator. If he finds that
   his milk works best at a temperature of 68 deg. F. in the morning, his
   study the night before should tend toward such a result, and he will
-  soon learn by experience how best to manage the milk in his own
+  soon learn by experience how best to [[Manage|manage]] the milk in his own
   individual dairy. I have found in some dairies that the milk worked
   quite fast enough at a temperature of 64 deg. in the morning, where in
   others the milk set in the same way would be very much out of
@@ -1494,7 +1494,7 @@ described in the _Journal_ of the British Dairy Farmers' Association in
   curing-room should be kept as near 60 deg. as possible at all seasons
   of the year, and I think it a good plan to ventilate while heating."
 
-With regard to the hot-iron test for acidity, Mr F. J. Lloyd, in
+With regard to the hot-iron test for acidity, Mr F. J. [[Lloyd]], in
 describing his investigations on behalf of the Bath and West of England
 Society, states that cheese-makers have long known that in both the
 manufacture and the ripening of cheese the acidity produced--known to
@@ -1503,7 +1503,7 @@ obtained, and that amongst other drawbacks to the test referred to is
 the uncertainty of the temperature of the iron itself. He gives an
 account,[8] however, of a chemical method involving the use of a
 standard solution of an alkali (soda), and of a substance termed an
-"indicator" (phenolphthalein), which changes colour according to whether
+"[[Indicator|indicator]]" (phenolphthalein), which changes colour according to whether
 a solution is acid or alkaline. The apparatus used with these reagents
 is called the acidimeter. The two stages in the manufacture of a Cheddar
 cheese most difficult to determine empirically are--(1) when to stop
@@ -1556,7 +1556,7 @@ county of Lancaster.
   |   When Made.  | Milk. | Green |Saleable|      Shrinkage.     | Price. |
   |               |       |Cheese.| Cheese.|                     |        |
   +---------------+-------+-------+--------+---------------------+--------+
-  |               | galls.|   lb. |   lb.  |                     |per cwt.|
+  |               | [[Gall|galls]].|   lb. |   lb.  |                     |per cwt.|
   | April 1899    |  3077 |  3100 |  2924  | 6 per cent.         |  60s.  |
   | May           |  4462 |  4502 |  4257  | 6(1/2)lb. per cwt.  |  63s.  |
   | June          |  4316 |  4434 |  4141  | 7 lb. 6 oz. per cwt.|  70s.  |
@@ -1621,7 +1621,7 @@ The following is a description of the making of Cheshire cheese:--
   turned twice in the day. It is then left to dry for two or three days,
   during which period it is turned once--being well salted at each
   turning--and cleaned every day. When taken from the brine it is put on
-  the salting benches, with a wooden girth round it of nearly the
+  the salting [[Bench|benches]], with a wooden girth round it of nearly the
   thickness of the cheese, where it stands a few days, during which time
   it is again salted and turned every day. It is next washed and dried;
   and after remaining on the drying benches about seven days, it is once
@@ -1659,7 +1659,7 @@ The following is a description of the making of Cheshire cheese:--
 
 It is hardly possible to enunciate any general rules for the making of
 Stilton cheese, which differs from Cheddar and Cheshire in that it is
-not subjected to pressure. Mr J. Marshall Dugdale, in 1899, made a visit
+not subjected to pressure. Mr J. [[Marshall]] Dugdale, in 1899, made a visit
 of inspection to the chief Leicestershire dairies where this cheese is
 produced, but in his report[9] he stated that every Stilton cheese-maker
 worked on his own lines, and that at no two dairies did he find the
@@ -1705,7 +1705,7 @@ organisms--the bacteria present in the cheese. The other, which had its
 origin in the United States, asserts that there are digestive
 enzymes--that is, unorganized or soluble ferments--inherent in the milk
 itself that render the casein soluble. The supporters of the bacterial
-theory are ranged in two classes. The one, led by Duclaux, regards the
+theory are ranged in two classes. The one, led by [[Duclaux]], regards the
 breaking down of the casein as due to the action of liquefying bacteria
 (Tyrothrix forms). On the other hand, von Freudenreich has ascribed
 these changes to the lactic-acid type of bacteria, which develop so
@@ -1715,7 +1715,7 @@ With regard to the American theory, and in view of the important
 practical results obtained by Babcock and Russell at the Wisconsin
 experiment station, the following account[10] of their work is of
 interest, especially as the subject is of high practical importance. In
-1897 they announced the discovery of an inherent enzyme in milk, which
+1897 they announced the discovery of an inherent [[Enzyme|enzyme]] in milk, which
 they named _galactase_, and which has the power of digesting the casein
 of milk, and producing chemical decomposition products similar to those
 that normally occur in ripened cheese. The theory has been advanced by
@@ -1807,7 +1807,7 @@ lb. Leicester cheese is somewhat loose in texture, and mellow and moist
 when nicely ripened. Its flavour is "clean," sweet and mild, and its
 aroma pleasant. To those who prefer a mild flavour in cheese, a perfect
 Leicester is perhaps the most attractive of all the so-called "hard"
-cheese; the average weight of such a cheese is about 35 lb. Derby cheese
+cheese; the average weight of such a cheese is about 35 lb. [[Derby]] cheese
 in its best forms is much like Leicester, being "clean" in flavour and
 mellow. It is sometimes rather flaky in texture, and is slow-ripening
 and long-keeping if made on the old lines; the average weight is 25 lb.
@@ -1847,7 +1847,7 @@ and in the Jura Mountains district in the east of France; whilst Cantal
 cheese, which is of lower quality, is a product of the midland districts
 and is made barrel-shape. Roquefort cheese is made from the milk of
 ewes, which are kept chiefly as dairy animals in the department of
-Aveyron, and the cheese is cured in the natural mountain caves at the
+[[Aveyron]], and the cheese is cured in the natural mountain caves at the
 village of Roquefort. It is a small, rather soft, white cheese,
 abundantly veined with a greenish-blue mould and weighs between 4 and 5
 lb. The Port Salut is quite a modern cheese, which originated in the
@@ -1864,9 +1864,9 @@ Of the varieties of cheese made in Switzerland, the best known is the
 Emmenthaler, which is about the size of a cart-wheel, and has a weight
 varying from 150 to 300 lb. It is full of small holes of almost uniform
 size and very regularly distributed. In colour and flavour it is the
-same as Gruyere. The Edam and Gouda are the common cheeses of Holland.
+same as Gruyere. The [[Edam]] and [[Gouda]] are the common cheeses of Holland.
 The Edam is spherical in shape, weighs from 3 to 4 lb., and is usually
-dyed crimson on the outside. The Gouda is a flat cheese with convex
+dyed crimson on the outside. The Gouda is a flat cheese with [[Convex|convex]]
 edges and is of any weight up to 20 lb. Of the two, the Edam has the
 finer flavour. Limburger is the leading German cheese, whilst other
 varieties are the Backstein and Munster; all are strong-smelling.
@@ -1986,7 +1986,7 @@ uneven distribution of the salt.
 EQUIPMENT OF THE DAIRY
 
 The improved form of milking-pail shown in fig. 1 has rests or brackets,
-which the milker when seated on his stool places on his knees; he thus
+which the milker when seated on his stool places on his [[Knee|knees]]; he thus
 bears the weight on his thighs, and is entirely relieved of the strain
 involved in gripping the can between the knees. The milk sieve or
 strainer (fig. 2) is used to remove cow-hairs and any other mechanical
@@ -2004,7 +2004,7 @@ Curd-knives (fig. 5) are used for cutting the coagulated mass into cubes
 in order to liberate the whey. They are made of fine steel, with sharp
 edges; there are also wire curd-breakers. The object of the curd-mill
 (fig. 6) is to grind consolidated curd into small pieces, preparatory to
-salting and vatting; two spiked rollers work up to spiked breasts.
+salting and vatting; two spiked rollers work up to spiked [[Breast|breasts]].
 Hoops, into which the curd is placed in order to acquire the shape of
 the cheese, are of wood or steel, the former being made of well-seasoned
 oak with iron bands (fig. 7), the latter of tinned steel. The cheese is
@@ -2049,12 +2049,12 @@ surface of the milk, whence it is transferred to the cream-crock (fig.
 13), in which vessel the cream remains from one to three days, till it
 is required for churning. Many different kinds of churns are in use, and
 vary much in size, shape and fittings; the one illustrated in fig. 14 is
-a very good type of diaphragm churn. The butter-scoop (fig. 15) is of
+a very good type of [[Diaphragm|diaphragm]] churn. The butter-scoop (fig. 15) is of
 wood and is sometimes perforated; it is used for taking the butter out
 of the churn. The butter-worker (fig. 16) is employed for consolidating
 newly-churned butter, pressing out superfluous water and mixing in salt.
 More extended use, however, is now being made of the "Delaiteuse" butter
-dryer, a centrifugal machine that rapidly extracts the moisture from the
+dryer, a centrifugal [[Machine|machine]] that rapidly extracts the moisture from the
 butter, and renders the butter-worker unnecessary, whilst the butter
 produced has a better grain. Scotch hands (fig. 17), made of boxwood,
 are used for the lifting, moulding and pressing of butter.
@@ -2119,7 +2119,7 @@ to many palates, whilst its "body" is so modified as to lessen its
 suitability for creaming purposes. Three factors really enter into
 effective pasteurization of milk, namely (1) the temperature to which
 the milk is raised, (2) the length of time it is kept at that
-temperature, (3) the maintenance of a condition of mechanical agitation
+temperature, (3) the [[Maintenance|maintenance]] of a condition of mechanical agitation
 to prevent the formation of "scalded layer." Within limits, what a
 higher temperature will accomplish if maintained for a very short time
 may be effected by a lower temperature continued over a longer period.
@@ -2239,7 +2239,7 @@ conjunction one with the other--that is to say, a factory is useful for
 converting surplus milk into cheese or butter when the milk trade is
 overstocked, whilst the trade affords a convenient avenue for the sale
 of milk whenever this may happen to be preferable to the making of
-cheese or butter. Extensive dealers in milk arrange for its conversion
+cheese or butter. Extensive dealers in milk arrange for its [[Conversion|conversion]]
 into cheese or butter, as the case may be, at such times as the milk
 market needs relief, and in this way a cheesery serves as a sort of
 economic safety-valve to the milk trade. The same cannot always be said
@@ -2263,7 +2263,7 @@ the reputation their products have acquired.
 There are no official statistics concerning dairy factories in Great
 Britain, and such figures relating to Ireland were issued for the first
 time in 1901. The number of dairy factories in Ireland in 1900 was
-returned at 506, comprising 333 in Munster, 92 in Ulster, 52 in Leinster
+returned at 506, comprising 333 in Munster, 92 in Ulster, 52 in [[Leinster]]
 and 29 in Connaught. Of the total number of factories, 495 received milk
 only, 9 milk and cream and 2 cream only. As to ownership, 219 were
 joint-stock concerns, 190 were maintained by co-operative farmers and 97
@@ -2346,7 +2346,7 @@ extraneous matter or proportion of water, in any sample of milk
 of Food and Drugs Acts 1875 to 1899, raise a presumption, until the
 contrary is proved, that the milk or cream is not genuine." Much
 evidence of the highest interest to dairy-farmers was taken, and
-subsequently published as a Blue-Book (Cd. 484). The report of the
+subsequently published as a [[Blue-Book]] (Cd. 484). The report of the
 committee (Cd. 491) included the following "recommendations," which were
 signed by all the members excepting one:--
 
@@ -2381,7 +2381,7 @@ signed by all the members excepting one:--
     the milk-fat may exceed 3.25%.
 
   III. That the artificial thickening of cream by any addition of
-  gelatin or other substance shall raise a presumption that the cream is
+  [[Gelatin|gelatin]] or other substance shall raise a presumption that the cream is
   not genuine.
 
   IV. That any skimmed or separated milk in which the total milk-solids
@@ -2636,7 +2636,7 @@ London & Tilbury railways carry approximately 1,000,000 gallons between
 them. A large quantity of milk is also carried in by local lines from
 farms in the vicinity of London and delivered at the local stations, and
 a quantity is also brought by the Great Central railway. In addition to
-this, milk is taken into London by carts from farms in the neighbourhood
+this, milk is taken into London by [[Cart|carts]] from farms in the neighbourhood
 of the metropolis. A computation of the total milk-supply of the
 metropolis reveals a quantity approximating to 60,000,000 gallons per
 annum, or rather more than a million gallons per week, which, taking 500
@@ -2674,7 +2674,7 @@ chemical composition to human milk.
 Estimating the average yield of milk of each country cow at 500 gallons
 per annum, and assuming an average of 28 cows to each farm, as many as
 4300 farmers are engaged in supplying London with milk; allotting ten
-cows to each milker, it needs 12 battalions of 1000 men each for this
+cows to each milker, it needs 12 [[Battalion|battalions]] of 1000 men each for this
 work alone. Some 3500 horses are required to convey the milk from the
 farms to the country railway stations. The chief sources of supply are
 in the counties of Derby, Stafford, Leicester, Northampton, Notts,
@@ -2874,7 +2874,7 @@ cheese.
   was 6000 tons annually; by 1900 it had fallen to 1850 tons. France,
   which in 1892 sent to the United Kingdom 29,000 tons, regularly
   declined, and in 1900 sent only 16,800. Among the countries sending
-  the smaller quantities, Argentina, Belgium and Norway are all
+  the smaller quantities, Argentina, [[Belgium]] and Norway are all
   gradually increasing their supplies; but their totals are
   comparatively insignificant, as they together contributed in 1900 only
   6400 tons out of a total foreign supply of 134,000 tons. The United
@@ -3143,7 +3143,7 @@ cheese.
     Value           L302,748  L343,070  L353,819  L390,559
 
   Milk and cream (fresh or preserved other than condensed) received no
-  separate classification in the imports until 1894, in which year the
+  separate [[Classification|classification]] in the imports until 1894, in which year the
   quantity imported was 161,633 gallons, followed by 126,995 gallons in
   1895, and 22,776 gallons in 1896. The quantities have since been
   returned by weight--10,006 cwt. in 1897, 10,691 cwt. in 1898, 7859
@@ -3237,7 +3237,7 @@ higher level than seemed possible a few decades earlier. The milch cow
 herself, upon which the whole business rests, has become almost as much
 a machine as a natural product, and a very different creature from the
 average animal of bygone days. The few homely and inconvenient
-implements for use in the laborious duties of the dairy have been
+[[Implement|implements]] for use in the laborious duties of the dairy have been
 replaced by perfected appliances, skilfully devised to accomplish their
 object and to lighten labour. Long rows of shining metal pans no longer
 adorn rural dooryards. The factory system of co-operative or
@@ -3246,7 +3246,7 @@ that in entire states the cheese vat or press is as rare as the
 handloom, and in many counties it is as difficult to find a farm churn
 as a spinning-wheel. An illustration of the nature of the changes is
 afforded in the butter-making district of northern Vermont, at St
-Albans, the business centre of Franklin county. In 1880 the first
+Albans, the business centre of [[Franklin]] county. In 1880 the first
 creamery was built in this county; ten years later there were 15. Now a
 creamery company at St Albans has upwards of 50 skimming or separating
 stations distributed through Franklin and adjoining counties. To these
@@ -3268,7 +3268,7 @@ still have to be milked by hand. Although many attempts have been made,
 and patent after patent has been issued, no mechanical contrivance has
 yet proved a practical success as a substitute for the human hand in
 milking. Consequently, twice (or thrice) daily every day in the year,
-the dairy cows must be milked by manual labour. This is one of the main
+the dairy cows must be milked by [[Manual|manual]] labour. This is one of the main
 items of labour in dairying, and is a delicate and important duty.
 Assuming 10 cows per hour to a milker, which implies quick work, it
 requires the continuous service of an army of 300,000 men, working 10 or
@@ -3327,7 +3327,7 @@ collecting it at country stores at grease prices or a little more, and
 then rendering or renovating it by patent processes. This renovated
 butter has been fraudulently sold to a considerable extent as the true
 creamery article, of which it is a fair imitation while fresh, and
-several states have made laws for the identification of the product and
+several states have made laws for the [[Identification|identification]] of the product and
 to prevent buyers from being imposed upon. No butter is imported, and
 the quantity exported is insignificant, although there is beginning to
 be a foreign demand for American butter. The home consumption is
@@ -3337,7 +3337,7 @@ world. The people of the United States also consume millions of pounds
 every year of butter substitutes and imitations, such as oleomargarine
 and butterine. Most of this is believed to be butter by those who use
 it, and the state dairy commissioners are busily employed in carrying
-out the laws intended to protect purchasers from these butter frauds.
+out the laws intended to protect purchasers from these butter [[Fraud|frauds]].
 
 The by-products of dairying have, within recent years, been put to
 economical uses, in an increasing degree. For every pound of butter made
@@ -3352,9 +3352,9 @@ impracticable. In many places new branches have been instituted for the
 making of sugar-of-milk and other commercial products from whey, and for
 the utilization of skim-milk in various ways. The albumin of the latter
 is extracted for use with food products and in the arts. The casein is
-desiccated and prepared as a substitute for eggs in baking, as the basis
+desiccated and prepared as a substitute for [[Egg|eggs]] in [[Baking|baking]], as the basis
 of an enamel paint, and as a substitute for glue in paper-sizing. It has
-also been proposed to solidify it to make buttons, combs, brush-backs,
+also been proposed to solidify it to make buttons, [[Comb|combs]], brush-backs,
 electrical insulators and similar articles.
 
   No census of cows in the United States was taken until the year 1840,
@@ -3456,7 +3456,7 @@ FOOTNOTES:
 
   [12] "Thermal Death-Point of Tubercle Bacilli, and Relation of same
     to Commercial Pasteurization of Milk," by H. L. Russell and E. G.
-    Hastings.
+    [[Hastings]].
 
   [13] _16th Rept. Wis. Agric. Expt. Station_, 1899, p. 129.
 

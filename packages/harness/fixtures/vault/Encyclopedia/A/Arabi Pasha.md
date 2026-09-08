@@ -9,7 +9,7 @@ topic: botany
 ARABI PASHA (c. 1839-   ), more correctly AHMAD 'ARABI, to which in
 later years he added the epithet _al-Misri_, "the Egyptian," Egyptian
 soldier and revolutionary leader, was born in Lower Egypt in 1839 or
-1840 of a fellah family. Having entered the army as a conscript he was
+1840 of a [[Fellah|fellah]] family. Having entered the army as a conscript he was
 made an officer by Said Pasha in 1862, and was employed in the transport
 department in the Abyssinian campaign of 1875 under Ismail Pasha. A
 charge of peculation, unproved, was made against him in connexion with
@@ -19,14 +19,14 @@ rid of Turkish officers from the Egyptian army. Arabi also attended
 lectures at the mosque El Azhar and acquired a reputation as an orator.
 In 1878 he was employed by Ismail in fomenting a disturbance against the
 ministry of Nubar, Rivers Wilson and de Blignieres, and received in
-payment a wife from Ismail's harem and the command of a regiment. This
+payment a wife from Ismail's [[Harem|harem]] and the command of a regiment. This
 increased his influence with the secret society, which, under the feeble
 government of Tewfik Pasha and the Dual Control, began to agitate
 against Europeans. In all that followed Arabi was put forward as the
 leader of the discontented Egyptians; he was in reality little more than
 the mouthpiece and puppet of abler men such as Ali Rubi and Mahmud Sami.
 On the 1st of February 1881 Arabi and two other Egyptian colonels,
-summoned before a court-martial for acts of disobedience, were rescued
+summoned before a [[Court-Martial|court-martial]] for acts of disobedience, were rescued
 by their soldiers, and the khedive was forced to dismiss his then
 minister of war in favour of Mahmud Sami. A military demonstration on
 the 8th of September 1881, led by Arabi, forced the khedive to increase
@@ -46,7 +46,7 @@ only be restored through the intervention of Arabi, who now adopted a
 more distinctly anti-European attitude. His arming of the forts at
 Alexandria was held to constitute a menace to the British fleet. On the
 refusal of France to co-operate, the British fleet bombarded the forts
-(11th July), and a British force, under Sir Garnet Wolseley, defeated
+(11th July), and a British force, under Sir [[Garnet]] Wolseley, defeated
 Arabi on the 13th of September at Tel-el-Kebir. Arabi fled to Cairo
 where he surrendered, and was tried (3rd of December) for rebellion. In
 accordance with an understanding made with the British representative,

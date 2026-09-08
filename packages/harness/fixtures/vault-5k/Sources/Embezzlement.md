@@ -9,13 +9,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Embezzleme
 # Embezzlement
 
 EMBEZZLEMENT (A.-Fr. _embesilement_, from _beseler_ or _besillier_, to
-destroy), in English law, a peculiar form of theft, which is
+destroy), in [[English Law|English law]], a peculiar form of theft, which is
 distinguished from the ordinary crime in two points:--(1) It is
 committed by a person who is in the position of clerk or servant to the
 owner of the property stolen; and (2) the property when stolen is in the
-possession of such clerk or servant. The definition of embezzlement as a
+possession of such clerk or servant. The [[Definition|definition]] of embezzlement as a
 special form of theft arose out of the difficulties caused by the legal
-doctrine that to constitute larceny the property must be taken out of
+doctrine that to constitute [[Larceny|larceny]] the property must be taken out of
 the possession of the owner. Servants and others were thus able to steal
 with impunity goods entrusted to them by their masters. A statute of
 Henry VIII. (1529) was passed to meet this case; and it enacted that it

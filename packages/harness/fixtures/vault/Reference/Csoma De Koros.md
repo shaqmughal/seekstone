@@ -4,20 +4,20 @@ CSOMA DE KOROS, ALEXANDER (c. 1790-1842), or, as the name is written in
 Hungarian, KOROSI CSOMA SANDOR, Hungarian traveller and philologist,
 born about 1790 at Koros in Transylvania, belonged to a noble family
 which had sunk into poverty. He was educated at Nagy-Enyed and at
-Gottingen; and, in order to carry out the dream of his youth and
+Gottingen; and, in order to carry out the [[Dream|dream]] of his youth and
 discover the origin of his countrymen, he divided his attention between
 medicine and the Oriental languages. In 1820, having received from a
-friend the promise of an annuity of 100 florins (about L10) to support
+friend the promise of an annuity of 100 [[Florin|florins]] (about L10) to support
 him during his travels, he set out for the East. He visited Egypt, and
 made his way to Tibet, where he spent four years in a Buddhist monastery
 studying the language and the Buddhist literature. To his intense
 disappointment he soon discovered that he could not thus obtain any
-assistance in his great object; but, having visited Bengal, his
+assistance in his great object; but, having visited [[Bengal]], his
 knowledge of Tibetan obtained him employment in the library of the
 Asiatic Society there, which possessed more than 1000 volumes in that
 language; and he was afterwards supported by the government while he
 published a Tibetan-English dictionary and grammar (both of which
-appeared at Calcutta in 1834). He also contributed several articles on
+appeared at [[Calcutta]] in 1834). He also contributed several articles on
 the Tibetan language and literature to the _Journal of the Asiatic
 Society of Bengal_, and he published an analysis of the _Kah-Gyur_, the
 most important of the Buddhist sacred books. Meanwhile his fame had

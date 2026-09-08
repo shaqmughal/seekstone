@@ -14,8 +14,8 @@ been committed. When a person who has committed an offence in one
 country escapes to another, what is the duty of the latter with regard
 to him? Should the country of refuge try him in its own courts according
 to its own laws, or deliver him up to the country whose laws he has
-broken? To the general question international law gives no certain
-answer. Some jurists, Grotius among them, incline to hold that a state
+broken? To the general question [[International|international]] law gives no certain
+answer. Some jurists, [[Grotius]] among them, incline to hold that a state
 is bound to give up fugitive criminals, but the majority appear to deny
 the obligation as a matter of right, and prefer to put it on the ground
 of comity. And the universal practice of nations is to surrender
@@ -24,7 +24,7 @@ which demands them.
 
 There are two practical difficulties about extradition which have
 probably prevented the growth of any uniform rule on the subject. One is
-the variation in the definitions of crime adopted by different
+the variation in the [[Definition|definitions]] of crime adopted by different
 countries. The second is the possibility of the process of extradition
 being employed to get hold of a person who is wanted by his country, not
 really for a criminal, but for a political offence. In modern states,
@@ -44,7 +44,7 @@ possession and certain foreign countries, such as Turkey and China, in
 which the crown exercises foreign jurisdiction.
 
 _Conditions of Surrender._--In spite of some earlier authorities it has
-long been settled that in English law there is no power to surrender
+long been settled that in [[English Law|English law]] there is no power to surrender
 fugitive criminals to a foreign country without express statutory
 authority. Such authority is now given by the Extradition Acts
 1870-1873, but only in the case of the offences therein specified, and
@@ -67,7 +67,7 @@ contracting party shall surrender its own subjects, and in such cases a
 British subject cannot be surrendered by his own country. The treaties
 with Spain, Switzerland and Luxemburg provide for the surrender by Great
 Britain of her own subjects, but there is no reciprocity. Other
-treaties, such as those with Austria, Belgium, Russia and the
+treaties, such as those with Austria, [[Belgium]], Russia and the
 Netherlands, give each party the option of surrendering or refusing to
 surrender its own subjects in each particular case. Under such treaties
 British subjects are surrendered unless the secretary of state
@@ -91,11 +91,11 @@ offence is one of some nicety. It was discussed in _In re Castioni_
 Justice Stephen in his _History of the Criminal Law_, that to give an
 offence a political character it must be "incidental to and form part of
 political disturbances." Extradition was accordingly refused for
-homicide committed in the course of an armed rising against the
+[[Homicide|homicide]] committed in the course of an armed rising against the
 constituted authorities. In the more recent case of _In re Meunier_
 (1894, 2 Q.B. 415), an Anarchist was charged with causing two explosions
 in Paris--one at the Café Véry resulting in the death of two persons,
-and the other at certain barracks. It was not contended that the outrage
+and the other at certain [[Barracks|barracks]]. It was not contended that the outrage
 at the cafe was a political crime, but it was argued that the explosion
 at the barracks came within the description. The court, however, held
 that to constitute a political offence there must be two or more parties
@@ -120,16 +120,16 @@ _Extradition Offences._--The following is a list of crimes in respect of
 which extradition may be provided for under the Extradition Acts
 1870-1873, and the Slave Trade Act 1873. _Extradition Act_ 1870:--(1)
 Murder; (2) Attempt to murder; (3) Conspiracy to murder; (4)
-Manslaughter; (5) Counterfeiting and altering money, uttering
-counterfeit or altered money; (6) Forgery, counterfeiting, and altering
+[[Manslaughter]]; (5) [[Counterfeiting]] and altering money, uttering
+counterfeit or altered money; (6) [[Forgery]], counterfeiting, and altering
 and uttering what is forged or counterfeited or altered; (7)
-Embezzlement and larceny; (8) Obtaining money or goods by false
-pretences; (9) Crimes by bankrupts against bankruptcy law; (10) Fraud by
+[[Embezzlement]] and [[Larceny|larceny]]; (8) Obtaining money or goods by false
+pretences; (9) Crimes by bankrupts against [[Bankruptcy|bankruptcy]] law; (10) [[Fraud]] by
 a bailee, banker, agent, factor, trustee or director, or member or
 public officer of any company made criminal by any law for the time
 being in force; (11) Rape; (12) Abduction; (13) Child-stealing; (14)
-Burglary and housebreaking; (15) Arson; (16) Robbery with violence; (17)
-Threats by letter or otherwise with intent to extort; (18) Crimes
+Burglary and housebreaking; (15) [[Arson]]; (16) Robbery with violence; (17)
+Threats by letter or otherwise with [[Intent|intent]] to extort; (18) Crimes
 committed at sea: (a) Piracy by the law of nations; (b) Sinking or
 destroying a vessel at sea, or attempting or conspiring to do so; (c)
 Assault on a ship on the high seas, with intent to destroy life or to do
@@ -140,7 +140,7 @@ false imprisonment; (21) Perjury and subornation of perjury. This act
 also extends to indictable offences under 24 & 25 Vict. cc. 96, 97, 98,
 99, 100, and amending and substituted acts. Among such offences included
 in various extradition treaties are the following:--(22) Obtaining
-valuable securities by false pretences; (23) Receiving any money,
+valuable securities by [[False Pretences|false pretences]]; (23) Receiving any money,
 valuable security or other property, knowing the same to have been
 stolen or unlawfully obtained; (24) Falsification of accounts (see _In
 re Arton_, 1896, 1 Q.B. 509); (25) Malicious injury to property, if such
@@ -150,7 +150,7 @@ counterfeiting of coin of the realm; (27) Abandoning children; exposing
 or unlawfully detaining them; (28) Any malicious act done with intent to
 endanger the safety of any person in a railway train; (29) Wounding or
 inflicting grievous bodily harm; (30) Assault occasioning actual bodily
-harm; (31) Assaulting a magistrate or peace or public officer; (32)
+harm; (31) Assaulting a [[Magistrate|magistrate]] or peace or public officer; (32)
 Indecent assault; (33) Unlawful carnal knowledge, or any attempt to have
 unlawful carnal knowledge, of a girl under age; (34) Bigamy; (35)
 Administering drugs or using instruments with intent to procure the
@@ -200,7 +200,7 @@ foreign state, two procedures are provided in ss. 7 and 8 of the act of
 1870:--(1) On a diplomatic requisition supported by the warrant of
 arrest and documentary evidence, the home secretary, if he thinks the
 crime is not of a political character, will order the chief magistrate
-at Bow Street to proceed; and such magistrate will then issue a warrant
+at [[Bow]] Street to proceed; and such magistrate will then issue a warrant
 of arrest on such evidence as would be required if the offence had been
 committed in the United Kingdom. (2) More summarily, any magistrate or
 justice of the peace may issue a provisional warrant of arrest on
@@ -208,7 +208,7 @@ evidence which would support such a warrant if the crime had been
 committed within his jurisdiction. In practice a sworn information is
 required, but this may be based on a telegram from the foreign
 authorities. The magistrate or justice must then report the issue of the
-warrant to the home secretary, who may cancel it and discharge the
+warrant to the home secretary, who may [[Cancel|cancel]] it and discharge the
 prisoner. When arrested on the provisional warrant, the prisoner will be
 brought up before a magistrate and remanded to Bow Street, and will then
 be further remanded until the magistrate at Bow Street is notified that
@@ -242,7 +242,7 @@ Orders).
 
 _Fugitive Offenders Act._--There are no extradition treaties with
 certain countries in which the crown exercises foreign jurisdiction,
-such as Cyprus, Turkey, Egypt, China, Japan, Corea, Zanzibar, Morocco,
+such as [[Cyprus]], Turkey, Egypt, China, Japan, Corea, Zanzibar, Morocco,
 Siam, Persia, Somali, &c. In these countries the Fugitive Offenders Act
 1881 (44 & 45 Vict. c. 69) has been applied, pursuant to s. 36 of that
 statute, and the measures for obtaining surrender of a fugitive criminal
@@ -289,7 +289,7 @@ States, and not for the individual states themselves. Upon a demand upon
 the United States for extradition, there is a preliminary examination
 before a commissioner or judge before there can be a surrender to the
 foreign government (Revised Statutes, Title LXVI.; 22 Statutes at Large,
-215). It is enough to show probable guilt (_Ornelas_ v. _Ruiz_, 161
+215). It is enough to show probable [[Guilt|guilt]] (_Ornelas_ v. _Ruiz_, 161
 United States Reports, 502). An extradition treaty covers crimes
 previously committed. If a Power, with which the United States have such
 a treaty, surrenders a fugitive charged with a crime not included in the
@@ -307,7 +307,7 @@ otherwise (_Lascelles_ v. _Georgia_, 148 U.S. Reports, 537).
      (S. E. B.).
 
   See Sir E. Clarke, _Treatise upon the Law of Extradition_ (4th ed.,
-  1904); Biron and Chalmers, _Law and Practice of Extradition_ (1903).
+  1904); Biron and [[Chalmers]], _Law and Practice of Extradition_ (1903).
 
 ## References
 

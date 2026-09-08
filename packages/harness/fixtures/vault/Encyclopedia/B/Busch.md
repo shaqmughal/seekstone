@@ -1,7 +1,7 @@
 # Busch
 
 BUSCH, WILHELM (1832-1908), German caricaturist, was born at Wiedensahl in
-Hanover. After studying at the academies of Duesseldorf, Antwerp and Munich,
+[[Hanover]]. After studying at the academies of Duesseldorf, [[Antwerp]] and Munich,
 he joined in 1859 the staff of _Fliegende Blaetter_, the leading German
 comic paper, and was, together with Oberlaender, the founder of modern
 German caricature. His humorous drawings and caricatures are remarkable for
@@ -13,15 +13,15 @@ Huckebein_ and _Die Erlebnisse Knopps des Junggesellen_, play, in the
 German nursery, the same part that Edward Lear's nonsense verses do in
 England. The types created by him have become household words in his
 country. He invented the series of comic sketches illustrating a story in
-scenes without words, which have inspired Caran d'Ache and other leading
+scenes without words, which have inspired [[Caran D'Ache|Caran d'Ache]] and other leading
 caricaturists.
 
-BUeSCHING, ANTON FRIEDRICH (1724-1793), German theologian and geographer,
+BUeSCHING, ANTON [[Friedrich|FRIEDRICH]] (1724-1793), German theologian and geographer,
 was born at Stadthagen in Schaumburg-Lippe, on the 27th of September 1724.
 In 1748 he was appointed tutor in the family of the count de Lynars, who
 was then going as ambassador to St Petersburg. On this journey he resolved
 to devote his life to the improvement of geographical science. Leaving the
-count's family, he went to reside at Copenhagen, and devoted himself
+count's family, he went to reside at [[Copenhagen]], and devoted himself
 entirely to this new pursuit. In 1752 he published his _Description of the
 Counties of Schleswig and Holstein_. In 1754 he removed to Goettingen, where
 in 1757 he was appointed professor of philosophy; but in 1761 he accepted
@@ -36,7 +36,7 @@ He died of dropsy on the 28th of May 1793, having by writing and example
 given a new impulse to education throughout Prussia. While at Goettingen he
 married the poetess, Christiana Dilthey.
 
-Buesching's works (on geography, history, education and religion) amount to
+Buesching's works (on [[Geography|geography]], history, education and religion) amount to
 more than a hundred. The first class comprehends those upon which his fame
 chiefly rests; for although he did not possess the genius of D'Anville, he
 may be regarded as the creator of modern Statistical Geography. His _magnum

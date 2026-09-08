@@ -8,11 +8,11 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Balmaceda"
 
 # Balmaceda
 
-BALMACEDA, JOSÉ MANUEL (1838-1891), president of the republic of Chile, was
+BALMACEDA, JOSÉ [[Manuel|MANUEL]] (1838-1891), president of the republic of [[Chile]], was
 born in Santiago in 1838. His parents were wealthy, and in his early days
 he was chiefly concerned in industrial and agricultural enterprise. In 1865
 he was one of the representatives of the Chilean government at the general
-South American congress at Lima, and after his return obtained great
+South American congress at [[Lima]], and after his return obtained great
 distinction as an orator in the national assembly. After discharging some
 diplomatic missions abroad, he became successively minister of foreign
 affairs and of the interior under the presidency of Señor Santa Maria, and

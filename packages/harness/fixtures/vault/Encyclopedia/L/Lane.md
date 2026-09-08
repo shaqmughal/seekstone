@@ -15,14 +15,14 @@ Cambridge and the church, but this purpose was abandoned, and for some
 time he studied the art of engraving. Failure of health compelled him to
 throw aside the burin, and in 1825 he started for Egypt, where he spent
 three years, twice ascended the Nile, proceeding as far as the second
-cataract, and composed a complete description of Egypt, with a portfolio
+[[Cataract|cataract]], and composed a complete description of Egypt, with a portfolio
 of one hundred and one drawings. This work was never published, but the
 account of the modern Egyptians, which formed a part of it, was accepted
 for separate publication by the Society for the Diffusion of Useful
 Knowledge. To perfect this work Lane again visited Egypt in 1833-1835,
-residing mainly in Cairo, but retiring to Luxor during the plague of
+residing mainly in Cairo, but retiring to [[Luxor]] during the plague of
 1835. Lane took up his residence in the Mahommedan quarter, and under
-the name of Mansur Effendi lived the life of an Egyptian scholar. He was
+the name of [[Mansur]] Effendi lived the life of an Egyptian scholar. He was
 fortunate in the time when he took up his work, for Cairo had not then
 become a modern city, and he was thus able to describe aspects of
 Arabian life that no longer exist there. Perfected by the additional
@@ -31,7 +31,7 @@ appeared in 1836, and at once took the place which it has never lost as
 the best description of Eastern life and an Eastern country ever
 written. It was followed from 1838 to 1840 by a translation of the
 _Arabian Nights_, with notes and illustrations, designed to make the
-book a sort of encyclopaedia of Eastern manners. The translation itself
+book a sort of encyclopaedia of Eastern [[Manners|manners]]. The translation itself
 is an admirable proof of scholarship, but is characterized by a somewhat
 stilted mannerism, which is not equally appropriate to all parts of the
 motley-coloured original. The character of some of the tales and the
@@ -59,8 +59,8 @@ Lane was also able to use while in Cairo.
 Returning to England in 1849, Lane devoted the remaining twenty-seven
 years of his life to digesting and translating his Arabic material in
 the form of a great thesaurus of the lexicographical knowledge of the
-Arabs. In spite of weak health he continued this arduous task with
-unflagging diligence till a few days before his death at Worthing on the
+[[Arabs]]. In spite of weak health he continued this arduous task with
+unflagging [[Diligence|diligence]] till a few days before his death at Worthing on the
 10th of August 1876. Five parts appeared during his lifetime
 (1863-1874), and three posthumous parts were afterwards edited from his
 papers by S. Lane-Poole. Even in its imperfect state the _Lexicon_ is an

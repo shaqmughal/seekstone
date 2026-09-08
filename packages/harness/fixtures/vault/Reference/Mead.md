@@ -1,10 +1,10 @@
 # Mead
 
-MEAD, RICHARD (1673-1754), English physician, eleventh child of Matthew
+MEAD, RICHARD (1673-1754), English physician, eleventh child of [[Matthew]]
 Mead (1630-1699), Independent divine, was born on the 11th of August
 1673 at Stepney, London. He studied at Utrecht for three years under J.
-G. Graevius; having decided to follow the medical profession, he then
-went to Leiden and attended the lectures of Paul Hermann and Archibald
+G. [[Graevius]]; having decided to follow the medical profession, he then
+went to Leiden and attended the lectures of Paul [[Hermann]] and Archibald
 Pitcairne. In 1695 he graduated in philosophy and physic at Padua, and
 in 1696 he returned to London, entering at once on a successful
 practice. His _Mechanical Account of Poisons_ appeared in 1702, and in
@@ -13,7 +13,7 @@ contributed in that year a paper on the parasitic nature of scabies. In
 the same year he was elected physician to St Thomas's Hospital, and
 appointed to read anatomical lectures at the Surgeons' Hall. On the
 death of John Radcliffe in 1714 Mead became the recognized head of his
-profession; he attended Queen Anne on her deathbed, and in 1727 was
+profession; he attended Queen [[Anne]] on her deathbed, and in 1727 was
 appointed physician to George II., having previously served him in that
 capacity when he was prince of Wales. He died in London on the 16th of
 February 1754.
@@ -31,7 +31,7 @@ February 1754.
 
 
 MEAD. (1) A word now only used more or less poetically for the commoner
-form "meadow," properly land laid down for grass and cut for hay, but
+form "meadow," properly land laid down for grass and cut for [[Hay|hay]], but
 often extended in meaning to include pasture-land. "Meadow" represents
 the oblique case, _maédwe_, of O. Eng. _maéd_, which comes from the root
 seen in "mow"; the word, therefore, means "mowed land." Cognate words

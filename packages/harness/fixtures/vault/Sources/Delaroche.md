@@ -10,13 +10,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Delaroche"
 
 DELAROCHE, HIPPOLYTE, commonly known as PAUL (1797-1856), French
 painter, was born in Paris on the 17th of July 1797. His father was an
-expert who had made a fortune, to some extent, by negotiating and
+[[Expert|expert]] who had made a fortune, to some extent, by negotiating and
 cataloguing, buying and selling. He was proud of his son's talent, and
-able to forward his artistic education. The master selected was Gros,
+able to forward his artistic education. The master selected was [[Gros]],
 then painting life-size histories, and surrounded by many pupils. In no
 haste to make an appearance in the Salon, his first exhibited picture
 was a large one, "Josabeth saving Joas" (1822). This picture led to his
-acquaintance with Gericault and Delacroix, with whom he remained on the
+acquaintance with Gericault and [[Delacroix]], with whom he remained on the
 most friendly terms, the three forming the central group of a numerous
 body of historical painters, such as perhaps never before lived in one
 locality and at one time.
@@ -30,15 +30,15 @@ His subjects, definitely expressed and popular in their manner of
 treatment, illustrating certain views of history dear to partisans, yet
 romantic in their general interest, were painted with a firm, solid,
 smooth surface, which gave an appearance of the highest finish. This
-solidity, found also on the canvas of Vernet, Scheffer, Leopold Robert
-and Ingres, was the manner of the day. It repudiates the technical charm
+solidity, found also on the canvas of Vernet, Scheffer, [[Leopold]] Robert
+and Ingres, was the manner of the day. It repudiates the technical [[Charm|charm]]
 of texture and variety of handling which the English school inherited as
 a tradition from the time of Reynolds; but it is more easily understood
 by the world at large, since a picture so executed depends for its
 interest rather on the history, scene in nature or object depicted, than
 on the executive skill, which may or may not be critically appreciated.
 We may add that his point of view of the historical characters which he
-treated is not always just. "Cromwell lifting the Coffin-lid and looking
+treated is not always just. "[[Cromwell]] lifting the Coffin-lid and looking
 at the Body of Charles" is an incident only to be excused by an
 improbable tradition; but "The King in the Guard-Room," with villainous
 roundhead soldiers blowing tobacco smoke in his patient face, is a libel
@@ -49,17 +49,17 @@ can be more incorrect than this last as a reading of English history,
 yet we forget the inaccuracy in admiration of the treatment which
 represents Lady Jane, with bandaged sight, feeling for the block, her
 maids covering their faces, and none with their eyes visible among the
-many figures. On the other hand, "Strafford led to Execution," when Laud
+many figures. On the other hand, "Strafford led to Execution," when [[Laud]]
 stretches his lawn-covered arms out of the small high window of his cell
-to give him a blessing as he passes along the corridor, is perfect; and
-the splendid scene of Richelieu in his gorgeous barge, preceding the
-boat containing Cinq-Mars and De Thou carried to execution by their
-guards, is perhaps the most dramatic semi-historical work ever done.
+to give him a blessing as he passes along the [[Corridor|corridor]], is perfect; and
+the splendid scene of Richelieu in his gorgeous [[Barge|barge]], preceding the
+boat containing [[Cinq-Mars]] and De Thou carried to execution by their
+[[Guards|guards]], is perhaps the most dramatic semi-historical work ever done.
 "The Princes in the Tower" must also be mentioned as a very complete
 creation; and the "Young female Martyr floating dead on the Tiber" is so
 pathetic that criticism feels hard-hearted and ashamed before it. As a
-realization of a page of authentic history, again, no picture can
-surpass the "Assassination of the duc de Guise at Blois." The expression
+realization of a page of [[Authentic|authentic]] history, again, no picture can
+surpass the "Assassination of the duc de Guise at [[Blois]]." The expression
 of the murdered man stretched out by the side of the bed, the
 conspirators all massed together towards the door and far from the body,
 show exact study as well as insight into human nature. This work was
@@ -70,8 +70,8 @@ from the shock of whose death, in 1845, it is said he never quite
 recovered. By far his finest productions after her death are of the most
 serious character, a sequence of small elaborate pictures of incidents
 in the Passion. Two of these, the Virgin and the other Maries, with the
-apostles Peter and John, within a nearly dark apartment, hearing the
-crowd as it passes haling Christ to Calvary, and St John conducting the
+[[Apostle|apostles]] Peter and John, within a nearly dark apartment, hearing the
+[[Crowd|crowd]] as it passes haling Christ to [[Calvary]], and St John conducting the
 Virgin home again after all is over, are beyond all praise as exhibiting
 the divine story from a simply human point of view. They are pure and
 elevated, and also dramatic and painful. Delaroche was not troubled by
@@ -81,15 +81,15 @@ always intelligible to the million, so that he escaped all the waste of
 energy that painters who try to be poets on canvas suffer. Thus it is
 that essentially the same treatment was applied by him to the characters
 of distant historical times, the founders of the Christian religion, and
-the real people of his own day, such as "Napoleon at Fontainebleau," or
+the real people of his own day, such as "Napoleon at [[Fontainebleau]]," or
 "Napoleon at St Helena," or "Marie Antoinette leaving the Convention"
 after her sentence.
 
 In 1837 Delaroche received the commission for the great picture, 27
-metres long, in the hemicycle of the lecture theatre of the Ecole des
+metres long, in the [[Hemicycle|hemicycle]] of the lecture theatre of the Ecole des
 Beaux Arts. This represents the great artists of the modern ages
 assembled in groups on either hand of a central elevation of white
-marble steps, on the topmost of which are three thrones filled by the
+[[Marble|marble]] steps, on the topmost of which are three thrones filled by the
 architects and sculptors of the Parthenon. To supply the female element
 in this vast composition he introduced the genii or muses, who symbolize
 or reign over the arts, leaning against the balustrade of the steps,

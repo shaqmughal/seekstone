@@ -1,6 +1,6 @@
 # Boys' Brigade
 
-BOYS' BRIGADE, an organization founded in Glasgow by Mr (afterwards Sir)
+BOYS' BRIGADE, an organization founded in [[Glasgow]] by Mr (afterwards Sir)
 W.A. Smith in 1883 to develop Christian manliness by the use of a
 semi-military discipline and order, gymnastics, summer camps and
 religious services and classes. There are about 2200 companies connected

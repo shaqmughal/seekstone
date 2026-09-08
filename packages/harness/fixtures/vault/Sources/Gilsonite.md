@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gilsonite"
 
 # Gilsonite
 
-GILSONITE (so named after S. H. Gilson of Salt Lake City), or UINTAHITE,
-or UINTAITE, a description of asphalt occurring in masses several inches
+GILSONITE (so named after S. H. Gilson of Salt [[Lake City]]), or UINTAHITE,
+or UINTAITE, a description of [[Asphalt|asphalt]] occurring in masses several [[Inch|inches]]
 in diameter in the Uinta (or Uintah) valley, near Fort Duchesne, Utah.
 It is of black colour; its fracture is conchoidal, and it has a lustrous
 surface. When warmed it becomes plastic, and on further beating fuses

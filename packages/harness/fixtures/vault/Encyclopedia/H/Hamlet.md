@@ -10,9 +10,9 @@ that the story of Hamlet, Amleth or Amlothi,[1] was contained in the lost
 Skjoldunga saga, but we have no means of determining whether Saxo
 derived his information in this case from oral or written sources. The
 close parallels between the tale of Hamlet and the English romances of
-Havelok, Horn and Bevis of Hampton make it not unlikely that Hamlet is
+Havelok, [[Horn]] and [[Bevis Of Hampton|Bevis of Hampton]] make it not unlikely that Hamlet is
 of British rather than of Scandinavian origin. His name does in fact
-occur in the Irish _Annals of the Four Masters_ (ed. O'Donovan, 1851) in
+occur in the Irish _[[Annals]] of the Four Masters_ (ed. O'Donovan, 1851) in
 a stanza attributed to the Irish Queen Gormflaith, who laments the death
 of her husband, Niall Glundubh, at the hands of Amhlaithe in 919 at the
 battle of Ath-Cliath. The slayer of Niall Glundubh is by other
@@ -28,15 +28,15 @@ that was extraneous to Scandinavian tradition. Later in the 10th century
 there is evidence of the existence of an Icelandic saga of Amlothi or
 Amleth in a passage from the poet Snaebjorn in the second part of the
 prose _Edda_.[2] According to Saxo,[3] Hamlet's history is briefly as
-follows. In the days of Rorik, king of Denmark, Gervendill was governor
-of Jutland, and was succeeded by his sons Horvendill and Feng.
+follows. In the days of Rorik, king of [[Denmark]], Gervendill was governor
+of [[Jutland]], and was succeeded by his sons Horvendill and Feng.
 Horvendill, on his return from a Viking expedition in which he had slain
 Koll, king of Norway, married Gerutha, Rorik's daughter, who bore him a
-son Amleth. But Feng, out of jealousy, murdered Horvendill, and
+son Amleth. But Feng, out of [[Jealousy|jealousy]], murdered Horvendill, and
 persuaded Gerutha to become his wife, on the plea that he had committed
 the crime for no other reason than to avenge her of a husband by whom
-she had been hated. Amleth, afraid of sharing his father's fate,
-pretended to be imbecile, but the suspicion of Feng put him to various
+she had been hated. Amleth, afraid of sharing his father's [[Fate|fate]],
+pretended to be [[Imbecile|imbecile]], but the suspicion of Feng put him to various
 tests which are related in detail. Among other things they sought to
 entangle him with a young girl, his foster-sister, but his cunning saved
 him. When, however, Amleth slew the eavesdropper hidden, like Polonius,
@@ -52,7 +52,7 @@ Of the wealth he had accumulated he took with him only certain hollow
 sticks filled with gold. He arrived in time for a funeral feast, held to
 celebrate his supposed death. During the feast he plied the courtiers
 with wine, and executed his vengeance during their drunken sleep by
-fastening down over them the woollen hangings of the hall with pegs he
+fastening down over them the woollen [[Hanging|hangings]] of the hall with pegs he
 had sharpened during his feigned madness, and then setting fire to the
 palace. Feng he slew with his own sword. After a long harangue to the
 people he was proclaimed king. Returning to England for his wife he
@@ -81,15 +81,15 @@ being brought up, with dogs' names, in a hollow oak, and subsequently by
 feigned madness; and in the case of the other brothers there are traces
 of a similar motive, since the boys are called by dogs' names. The
 methods of Hamlet's madness, as related by Saxo, seem to point to
-cynanthropy. In the _Ambales Saga_, which perhaps is collateral to,
+cynanthropy. In the _Ambales Saga_, which perhaps is [[Collateral|collateral]] to,
 rather than derived from, Saxo's version, there are, besides romantic
 additions, some traits which point to an earlier version of the tale.
 
 Saxo Grammaticus was certainly familiar with the Latin historians, and
 it is most probable that, recognizing the similarity between the
-northern Hamlet legend and the classical tale of Lucius Junius Brutus as
-told by Livy, by Valerius Maximus, and by Dionysius of Halicarnassus
-(with which he was probably acquainted through a Latin epitome), he
+northern Hamlet legend and the classical tale of [[Lucius]] Junius Brutus as
+told by Livy, by Valerius [[Maximus]], and by [[Dionysius]] of [[Halicarnassus]]
+(with which he was probably acquainted through a Latin [[Epitome|epitome]]), he
 deliberately added circumstances from the classical story. The incident
 of the gold-filled sticks could hardly appear fortuitously in both, and
 a comparison of the harangues of Amleth (Saxo, Book iv.) and of Brutus
@@ -108,7 +108,7 @@ Zenker (_Boeve Amlethus_, pp. 207-268, Berlin and Leipzig, 1904), who
 even concluded that the northern saga rested on an earlier version of
 Firdausi's story, in which indeed nearly all the individual elements of
 the various northern versions are to be found. Further resemblances
-exist in the _Ambales Saga_ with the tales of Bellerophon, of Heracles,
+exist in the _Ambales Saga_ with the tales of [[Bellerophon]], of Heracles,
 and of Servius Tullius. That Oriental tales through Byzantine and
 Arabian channels did find their way to the west is well known, and there
 is nothing very surprising in their being attached to a local hero.
@@ -117,9 +117,9 @@ The tale of Hamlet's adventures in Britain forms an episode so distinct
 that it was at one time referred to a separate hero. The traitorous
 letter, the purport of which is changed by Hermuthruda, occurs in the
 popular _Dit de l'empereur Constant_,[8] and in Arabian and Indian
-tales. Hermuthruda's cruelty to her wooers is common in northern and
+tales. Hermuthruda's [[Cruelty|cruelty]] to her wooers is common in northern and
 German mythology, and close parallels are afforded by Thrytho, the
-terrible bride of Offa I., who figures in _Beowulf_, and by Brunhilda in
+terrible [[Bride|bride]] of Offa I., who figures in _Beowulf_, and by Brunhilda in
 the _Nibelungenlied_.
 
 The story of Hamlet was known to the Elizabethans in Francois de
@@ -138,14 +138,14 @@ into his enemies' plans. For a discussion of Shakespeare's play and its
 immediate sources see SHAKESPEARE.
 
   See an appendix to Elton's trans. of Saxo Grammaticus; I. Gollancz,
-  _Hamlet in Iceland_ (London, 1898); H. L. Ward, _Catalogue of
+  _Hamlet in [[Iceland]]_ (London, 1898); H. L. Ward, _[[Catalogue]] of
   Romances_, under "Havelok," vol. i. pp. 423 seq.; _English Historical
   Review_, x. (1895); F. Detter, "Die Hamletsage," _Zeitschr. f. deut.
   Alter._ vol. 36 (Berlin, 1892); O. L. Jiriczek, "Die Amlethsage auf
   Island," in _Germanistische Abhandlungen_, vol. xii. (Breslau), and
-  "Hamlet in Iran," in _Zeitschr. des Vereins fur Volkskunde_, x.
+  "Hamlet in [[Iran]]," in _Zeitschr. des Vereins [[Fur|fur]] Volkskunde_, x.
   (Berlin, 1900); A. Olrik, _Kilderne til Sakses Oldhistorie_
-  (Copenhagen, 2 vols., 1892-1894).
+  ([[Copenhagen]], 2 vols., 1892-1894).
 
 
 FOOTNOTES:
@@ -159,8 +159,8 @@ FOOTNOTES:
     past ground Hamlet's meal. The good Chieftain furrows the hull's lair
     with his ship's beaked prow." This passage may be compared with some
     examples of Hamlet's cryptic sayings quoted by Saxo: "Again, as he
-    passed along the beach, his companions found the rudder of a ship
-    which had been wrecked, and said they had discovered a huge knife.
+    passed along the [[Beach|beach]], his companions found the rudder of a ship
+    which had been wrecked, and said they had discovered a huge [[Knife|knife]].
     'This,' said he, 'was the right thing to carve such a huge ham....'
     Also, as they passed the sand-hills, and bade him look at the meal,
     meaning the sand, he replied that it had been ground small by the
@@ -177,7 +177,7 @@ FOOTNOTES:
     the subject by I. Gollancz (_Hamlet in Iceland_, London, 1898).
 
   [6] Professor I. Gollancz points out (p. lxix.) that Brjam is a
-    variation of the Irish Brian, that the relations between Ireland and
+    variation of the Irish [[Brian]], that the relations between Ireland and
     the Norsemen were very close, and that, curiously enough, Brian
     Boroimhe was the hero of that very battle of Clontarf (1014) where
     the device (which occurs in Havelok and Hamlet) of bluffing the enemy

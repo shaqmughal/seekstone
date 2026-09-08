@@ -11,13 +11,13 @@ GREGORAS, NICEPHORUS (c. 1295-1360), Byzantine historian, man of
 learning and religious controversialist, was born at Heraclea in Pontus.
 At an early age he settled at Constantinople, where his reputation for
 learning brought him under the notice of Andronicus II., by whom he was
-appointed Chartophylax (keeper of the archives). In 1326 Gregoras
+appointed Chartophylax (keeper of the [[Archive|archives]]). In 1326 Gregoras
 proposed (in a still extant treatise) certain reforms in the calendar,
 which the emperor refused to carry out for fear of disturbances; nearly
 two hundred years later they were introduced by Gregory XIII. on almost
 the same lines. When Andronicus was dethroned (1328) by his grandson
 Andronicus III., Gregoras shared his downfall and retired into private
-life. Attacked by Barlaam, the famous monk of Calabria, he was with
+life. Attacked by Barlaam, the famous monk of [[Calabria]], he was with
 difficulty persuaded to come forward and meet him in a war of words, in
 which Barlaam was worsted. This greatly enhanced his reputation and
 brought him a large number of pupils. Gregoras remained loyal to the
@@ -42,14 +42,14 @@ the dispute with Palamas; biographies of his uncle and early instructor
 John, metropolitan of Heraclea, and of the martyr Codratus of Antioch;
 funeral orations for Theodore Metochita, and the two emperors
 Andronicus; commentaries on the wanderings of Odysseus and on Synesius's
-treatise on dreams; tracts on orthography and on words of doubtful
-meaning; a philosophical dialogue called _Florentius or Concerning
-Wisdom_; astronomical treatises on the date of Easter and the
-preparation of the astrolabe; and an extensive correspondence.
+treatise on [[Dream|dreams]]; tracts on orthography and on words of doubtful
+meaning; a philosophical [[Dialogue|dialogue]] called _Florentius or Concerning
+Wisdom_; astronomical treatises on the date of [[Easter]] and the
+preparation of the [[Astrolabe|astrolabe]]; and an extensive correspondence.
 
-  _Editions_: in Bonn _Corpus scriptorum hist. Byz._, by L. Schopen and
-  I. Bekker, with life and list of works by J. Boivin (1829-1855); J. P.
-  Migne, _Patrologia graeca_, cxlviii., cxlix.; see also C. Krumbacher,
+  _Editions_: in [[Bonn]] _Corpus scriptorum hist. Byz._, by L. Schopen and
+  I. Bekker, with life and list of works by J. [[Boivin]] (1829-1855); J. P.
+  Migne, _Patrologia graeca_, cxlviii., cxlix.; see also C. [[Krumbacher]],
   _Geschichte der byzantinischen Litteratur_ (1897).
 
 ## References

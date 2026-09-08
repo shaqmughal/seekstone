@@ -15,7 +15,7 @@ appliances that once sufficed for domestic needs. For the actual
 cleansing of the articles, instead of being rubbed by the hand or
 trodden by the foot of the washerwoman, or stirred and beaten with a
 "dolly" in the wash-tub, they are very commonly treated in rotary
-washing machines driven by power. These machines consist of an outer
+washing [[Machine|machines]] driven by power. These machines consist of an outer
 casing containing an inner horizontal cylindrical cage, in which the
 clothes are placed. By the rotation of this cage, which is reversed by
 automatic gearing every few turns, they are rubbed and tumbled on each
@@ -35,7 +35,7 @@ placed in a perforated cage or basket, supported on vertical bearings,
 which is rotated at a high speed (1000 to 1500 times a minute) and in a
 short time as much as 85% of the moisture may thus be removed. The
 drying is often completed in an apartment through which dry air is
-forced by fans. In the process of finishing linen the old-fashioned
+forced by [[Fan|fans]]. In the process of finishing linen the old-fashioned
 laundress made use of the mangle, about the only piece of mechanism at
 her disposal. In the box-mangle the articles were pressed on a flat
 surface by rollers which were weighted with a box full of stones, moved

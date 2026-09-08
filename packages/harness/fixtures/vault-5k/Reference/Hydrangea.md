@@ -35,7 +35,7 @@ tolerably favourable situation, but except in the most sheltered
 localities they seldom blossom to any degree of perfection in the open
 air, the head of blossom depending on the uninjured development of a
 well-ripened terminal bud, and this growth being frequently affected by
-late spring frosts. They are much more useful for pot-culture indoors,
+late spring [[Frost|frosts]]. They are much more useful for pot-culture indoors,
 and should be reared from cuttings of shoots having the terminal bud
 plump and prominent, put in during summer, these developing a single
 head of flowers the succeeding summer. Somewhat larger plants may be had

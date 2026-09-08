@@ -27,10 +27,10 @@ although the government of the emperor Valentinian was averse from
 involving itself in ecclesiastical affairs. From the outset the prefect
 of Rome recognized the claims of Damasus, and exerted himself to support
 him. Ursinus and the leading men of his faction were expelled from Rome,
-and afterwards from central Italy, or even interned in Gaul. They,
+and afterwards from central Italy, or even interned in [[Gaul]]. They,
 however, persisted obstinately in their opposition to Damasus, combating
 him at first by riots, and then by calumnious law-suits, such as that
-instituted by one Isaac, a converted and relapsed Jew.
+instituted by one [[Isaac]], a converted and relapsed Jew.
 
 To the official support, which never failed him, Damasus endeavoured to
 join the popular sympathy. From before his election he had been in high
@@ -38,7 +38,7 @@ favour with the Roman aristocracy, and especially with the great ladies.
 At that period the urban masses, but recently converted to Christianity,
 sought in the worship of the martyrs a sort of substitute for
 polytheism. Damasus showed great zeal in discovering the tombs of
-martyrs, adorning them with precious marbles and monumental
+martyrs, adorning them with precious [[Marbles|marbles]] and monumental
 inscriptions. The inscriptions he composed himself, in mediocre verse,
 full of Virgilian reminiscences. Several have come down to us on the
 original marbles, entire or in fragments; others are known from old
@@ -48,7 +48,7 @@ father's house appears to have stood.
 
 The West was recovering gradually from the troubles caused by the Arian
 crisis. Damasus took part, more or less effectually, in the efforts to
-eliminate from Italy and Illyria the last champions of the council of
+eliminate from Italy and Illyria the last [[Champion|champions]] of the council of
 Rimini. In spite of his declaration at the council convened by him in
 372, he did not succeed in evicting Auxentius from Milan. But Auxentius
 died soon afterwards, and his successor, Ambrose, undertook to bring
@@ -58,7 +58,7 @@ of the East, however, under the direction of St Basil, were involved in
 a struggle with the emperor Valens, whose policy was favourable to the
 council of Rimini. Damasus, to whom they appealed for help, was unable
 to be of much service to them, the more so because that episcopal group,
-viewed askance by St Athanasius and his successor Peter, was incessantly
+viewed askance by St [[Athanasius]] and his successor Peter, was incessantly
 combated at the papal court by the inveterate hatred of Alexandria. The
 Eastern bishops triumphed in the end under Theodosius, at the council of
 Constantinople (381), in which the pope and the Western church took no
@@ -75,7 +75,7 @@ memory is still celebrated.
 
 DAMASUS II., pope from the 17th of July to the 9th of August 1048, was
 the ephemeral successor of Clement II. His original name was Poppo, and
-he was bishop of Brixen when the emperor Henry III. raised him to the
+he was bishop of [[Brixen]] when the emperor Henry III. raised him to the
 papacy.     (L. D.*)
 
 
@@ -83,7 +83,7 @@ papacy.     (L. D.*)
 
 DAMAUN or DAMAN, a town of Portuguese India, capital of the settlement
 of Damaun, situated on the east side of the entrance of the Gulf of
-Cambay within the Bombay Presidency. The area of the settlement is 82
+[[Cambay]] within the Bombay Presidency. The area of the settlement is 82
 sq. m. Pop. (1900) 41,671. The settlement is divided into two parts,
 Damaun proper, and the larger _pargana_ of Nagar Havili, the two being
 separated by a narrow strip of British territory. The soil is fertile,
@@ -101,7 +101,7 @@ subsequently rebuilt, and in 1558 was again taken by the Portuguese, who
 made a permanent settlement and converted the mosque into a Christian
 church. From that time it has remained in their hands. The territory of
 Damaun proper was conquered by the Portuguese in 1559; that of Nagar
-Havili was ceded to them by the Mahrattas in 1780 in indemnification for
+Havili was ceded to them by the [[Mahrattas]] in 1780 in indemnification for
 piracy.
 
 ## See also

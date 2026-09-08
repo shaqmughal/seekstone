@@ -12,7 +12,7 @@ blasphemies against God, as denying His being, or providence, all
 contumelious reproaches of Jesus Christ, all profane scoffing at the
 Holy Scriptures, or exposing any part thereof to contempt or ridicule,
 are punishable by the temporal courts with fine, imprisonment and also
-infamous corporal punishment. An act of Edward VI. (1547; repealed 1553
+infamous [[Corporal Punishment|corporal punishment]]. An act of Edward VI. (1547; repealed 1553
 and revived 1558) enacts that persons reviling the sacrament of the
 Lord's Supper, by contemptuous words or otherwise, shall suffer
 imprisonment. Persons denying the Trinity were deprived of the benefit
@@ -25,7 +25,7 @@ there are more gods than one, or should deny the Christian religion to
 be true, or the Holy Scriptures to be of divine authority, he should,
 upon the first offence, be rendered incapable of holding any office or
 place of trust, and for the second incapable of bringing any action, of
-being guardian or executor, or of taking a legacy or deed of gift, and
+being [[Guardian|guardian]] or executor, or of taking a [[Legacy|legacy]] or deed of gift, and
 should suffer three years' imprisonment without bail. It has been held
 that a person offending under the statute is also indictable at common
 law (_Rex_ v. _Carlisle_, 1819, where Mr Justice Best remarks, "In the
@@ -46,28 +46,28 @@ blasphemous libel (Shelley's _Queen Mab_), the prosecution having been
 instituted by Henry Hetherington, who had previously been condemned to
 four months' imprisonment for a similar offence, and wished to test the
 law under which he was punished. In the case of _Cowan_ v. _Milbourn_
-(1867) the defendant had broken his contract to let a lecture-room to
+(1867) the [[Defendant|defendant]] had broken his contract to let a lecture-room to
 the plaintiff, on discovering that the intended lectures were to
 maintain that "the character of Christ is defective, and his teaching
 misleading, and that the Bible is no more inspired than any other book,"
 and the court of exchequer held that the publication of such doctrine
 was blasphemy, and the contract therefore illegal. On that occasion the
-court reaffirmed the dictum of Chief Justice Hale, that Christianity is
+court reaffirmed the dictum of Chief Justice [[Hale]], that Christianity is
 part of the laws of England. The commissioners on criminal law (sixth
 report) remark that "although the law forbids _all_ denial of the being
 and providence of God or the Christian religion, it is only when
 irreligion assumes the form of an insult to God and man that the
 interference of the criminal law has taken place." In England the last
 prominent prosecution for blasphemy was the case of _R._ v. _Ramsey &
-Foote_, 1883, 48 L.T. 739, when the editor, publisher and printer of the
+[[Foote]]_, 1883, 48 L.T. 739, when the editor, publisher and printer of the
 _Freethinker_ were sentenced to imprisonment; but police court
-proceedings were taken as late as 1908 against an obscure Hyde Park
+proceedings were taken as late as 1908 against an obscure [[Hyde Park]]
 orator who had become a public nuisance.
 
 Profane cursing and swearing is made punishable by the Profane Oaths Act
 1745, which directs the offender to be brought before a justice of the
 peace, and fined five shillings, two shillings or one shilling,
-according as he is a gentleman, below the rank of gentleman, or a common
+according as he is a [[Gentleman|gentleman]], below the rank of gentleman, or a common
 labourer, soldier, &c.
 
 By the law of Scotland, as it originally stood, the punishment of

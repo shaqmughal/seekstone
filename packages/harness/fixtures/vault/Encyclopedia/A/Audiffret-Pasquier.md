@@ -16,7 +16,7 @@ legislature, but was elected in February 1871 to the National Assembly,
 and became president of the right centre in 1873. After the fall of
 Thiers, he directed the negotiations between the different royalist
 parties to establish a king in France, but as he refused to give up the
-tricolour for the flag of the old _regime_, the project failed. Yet he
+tricolour for the [[Flag|flag]] of the old _regime_, the project failed. Yet he
 retained the confidence of the chamber, and was its president in 1875
 when the constitutional laws were being drawn up. Nominated senator
 under the new constitution, he likewise was president of the senate from
@@ -39,7 +39,7 @@ appointed, at other times by the auditors of the land revenue, or by the
 auditor of the exchequer, an office established as early as 1314. But in
 1559 an endeavour was made to systematize the auditing of the public
 accounts, by the appointment of two auditors of the imprests. These
-officers were paid by fee and did their work by deputy, but as the
+officers were paid by [[Fee|fee]] and did their work by [[Deputy|deputy]], but as the
 results were thoroughly unsatisfactory the offices were abolished in
 1785. An audit board, consisting of five commissioners, was appointed in
 their place, but in order to concentrate under one authority the
@@ -49,7 +49,7 @@ Act of 1866 was passed. This statute, which sets forth at length the
 duties of the audit office, empowered the sovereign to appoint a
 "comptroller and auditor-general," with the requisite staff to examine
 and verify the accounts prepared by the different departments of the
-public service. In examining accounts of the appropriation of the
+public service. In examining accounts of the [[Appropriation|appropriation]] of the
 several supply grants, the comptroller and auditor-general "ascertains
 first whether the payments which the account department has charged to
 the grant are supported by vouchers or proofs of payments; and second,
@@ -70,13 +70,13 @@ treasury department, (2) for the war, (3) for the interior, (4) for the
 navy, (5) for the state, &c., (6) for the post office, as well as a
 register and assistant register, who keep all general receipt and
 expenditure ledgers; there are official auditors in most of the states
-and in many cities. In practically all European countries there is a
+and in many cities. In practically all [[European Countries|European countries]] there is a
 department of the administration, charged with the auditing of the
 public accounts, as the _cour des comptes_ in France, the _Rechnungshof
 des deutschen Reiches_ in Germany, &c. All local boards, large cities,
 corporations, and other bodies have official auditors for the purpose of
 examining and checking their accounts and looking after their
-expenditure. So far as regards the work which auditors discharge in
+expenditure. So far as regards the work which auditors [[Discharge|discharge]] in
 connexion with the accounts of joint-stock companies, building
 societies, friendly societies, industrial and provident societies,
 savings banks, &c., the word auditor is now almost synonymous with
@@ -84,7 +84,7 @@ savings banks, &c., the word auditor is now almost synonymous with
 ACCOUNTANTS.
 
 In Scotland there is an "auditor" who is an official of the court of
-session, appointed to tax costs in litigation, and who corresponds to
+session, appointed to tax [[Costs|costs]] in litigation, and who corresponds to
 the English taxing-master. In France there are legal officers, called
 auditors, attached to the _Conseil d'Etat_, whose duties consist in
 drawing up briefs and preparing documents. On the continent of Europe,
@@ -93,15 +93,15 @@ LAW).
 
 Auditor is also the designation of certain officials of the Roman curia.
 The _auditores Rotae_ are the judges of the court of the Rota (so
-called, according to Hinschius, probably from the form of the panelling
+called, according to [[Hinschius]], probably from the form of the panelling
 in the room where they originally met). These were originally
 ecclesiastics appointed to _hear_ particular questions in dispute and
 report to the pope, who retained the decision in his own hands. In the
 _Speculum juris_ of Durandus (published in 1272 and re-edited in 1287
 and 1291) the _auditores palatii domini papae_ are cited as permanent
 officials appointed to instruct the pope on questions as they arose. The
-court of the Rota appears for the first time under this name in the bull
-_Romani Pontificis_ of Martin V. in 1422, and the auditores by this time
+court of the Rota appears for the first time under this name in the [[Bull|bull]]
+_Romani Pontificis_ of [[Martin]] V. in 1422, and the auditores by this time
 had developed into a permanent tribunal to which the definitive decision
 of certain disputes, hitherto relegated to a commission of cardinals or
 to the pope himself, was assigned. From this time the powers of the
@@ -111,7 +111,7 @@ gradually to withdraw from the Rota its most important functions. It
 still, however, ranks as the supreme court of justice in the papal
 curia, and, as members of it, the auditores enjoy special privileges.
 They are prelates, and, besides the rights enjoyed by these, have others
-conceded by successive popes, e.g. that of holding benefices in
+conceded by successive popes, e.g. that of holding [[Benefice|benefices]] in
 plurality, of non-residence, &c. When the pope says mass pontifically
 the subdeacon is always an auditor. The auditores must be in priest's or
 deacon's orders, and have always been selected--nominally at
@@ -123,9 +123,9 @@ privilege of certain, cities. No bishop, unless _in partibus_ (see
 BISHOP), may be an auditor. On the other hand, from the auditores, as
 the intellectual _elite_ of the curia, the episcopate, the nunciature
 and the cardinalate are largely recruited. The _auditor camerae_
-(_uditore generale della reverenda camera apostolica_) is an official
+(_uditore generale della reverenda [[Camera|camera]] apostolica_) is an official
 formerly charged with important executive functions. In 1485, by a bull
-of Innocent VIII., he was given extensive jurisdiction over all civil
+of [[Innocent]] VIII., he was given extensive jurisdiction over all civil
 and criminal causes arising in the curia, or appealed to it from the
 papal territories. In addition he received the function of watching over
 the execution of all sentences passed by the curia. This was extended

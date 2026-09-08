@@ -21,7 +21,7 @@ Shropshire, near Carlisle, in Skye, Raasay (Pabba, Scalpa and Broadfoot
 beds), and elsewhere in the north of Scotland, and in the north-east of
 Ireland. East of the belt of outcrop indicated, the Lias is known to
 occur beneath the younger rocks for some distance farther east, but it
-is absent from beneath London, Reading, Ware, Harwich, Dover, and in the
+is absent from beneath London, Reading, Ware, Harwich, [[Dover]], and in the
 southern portion of the area in which these towns lie; the Liassic rocks
 are probably thinned out against a concealed ridge of more ancient
 rocks. The table on following page will serve to illustrate the general
@@ -61,7 +61,7 @@ south and in the Caucasus, in Anatolia, Persia and the Himalayas. It
 appears on the eastern side of Japan, in Borneo, Timor, New Caledonia and
 New Zealand (Bastion beds); in Algeria, Tunisia and elsewhere in North
 Africa, and on the west coast of Madagascar. In South America it is found
-in the Bolivian Andes, in Chile and Argentina; it appears also on the
+in the Bolivian Andes, in [[Chile]] and Argentina; it appears also on the
 Pacific coast of North America.
 
   +-----+------------------------------+-------------------+--------------------------+-------------------------------+
@@ -116,7 +116,7 @@ Pacific coast of North America.
   Some of the Liassic limestones are used as building stones, the more
   important ones being the Lower Lias Sutton stone of Glamorganshire and
   Middle Lias Hornton stone, the best of the Lias building stones, from
-  Edge Hill. The limestones are often used for paving. The limestones of
+  [[Edge Hill]]. The limestones are often used for paving. The limestones of
   the Lower Lias are much used for the production of hydraulic cement
   and "Blue Lias" lime at Rugby, Barrow-on-Soar, Barnstone, Lyme Regis,
   Abertham and many other places. Roman cement has been made from the
@@ -127,7 +127,7 @@ Pacific coast of North America.
   Both Lower and Upper Lias clays have been used in making bricks and
   tiles.
 
-  Fossils are abundant in the Lias; Lyme Regis, Shepton Mallet, Rugby,
+  Fossils are abundant in the Lias; Lyme Regis, Shepton [[Mallet]], Rugby,
   Robin Hood's Bay, Ilminster, Whitby and Golden Cap near Charmouth are
   well-known localities. The saurian reptiles, _Ichthyosaurus_ and
   _Plesiosaurus_, are found in excellent preservation along with the

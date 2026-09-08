@@ -3,9 +3,9 @@
 DENIKER, JOSEPH (1852-    ) French naturalist and anthropologist, was
 born of French parents at Astrakhan, Russia, on the 6th of March 1852.
 After receiving his education at the university and technical institute
-of St Petersburg, he adopted engineering as a profession, and in this
+of St Petersburg, he adopted [[Engineering|engineering]] as a profession, and in this
 capacity travelled extensively in the petroleum districts of the
-Caucasus, in Central Europe, Italy and Dalmatia. Settling at Paris in
+[[Caucasus]], in Central Europe, Italy and [[Dalmatia]]. Settling at Paris in
 1876, he studied at the Sorbonne, where he took his degree in natural
 science. In 1888 he was appointed chief librarian of the Natural History
 Museum, Paris. Among his many valuable ethnological works mention may be

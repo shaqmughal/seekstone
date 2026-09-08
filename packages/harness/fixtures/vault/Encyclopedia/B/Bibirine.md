@@ -9,8 +9,8 @@ tags: [philosophy-studies, history]
 # Bibirine
 
 BIBIRINE, or BEBEERINE, C19H21NO3, an alkaloid obtained from the bark
-and fruit of the greenheart (q.v.) tree, _Nectandra rodiaei_, called
-_bibiru_ or _sipiri_ in Guiana, where the tree grows. The substance was
+and fruit of the [[Greenheart|greenheart]] (q.v.) tree, _Nectandra rodiaei_, called
+_bibiru_ or _sipiri_ in [[Guiana]], where the tree grows. The substance was
 discovered about the year 1835 by Hugh Rodie, a surgeon in Demerara, who
 used it as a febrifuge in substitution for quinine.
 

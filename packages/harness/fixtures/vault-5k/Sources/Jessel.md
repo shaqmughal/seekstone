@@ -17,21 +17,21 @@ proceeding to Oxford or Cambridge, went to University College, London.
 He entered as a student at Lincoln's Inn in 1842, and a year later took
 his B.A. degree at the university of London, becoming M.A. and gold
 medallist in mathematics and natural philosophy in 1844. In 1846 he
-became a fellow of University College, and in 1847 he was called to the
+became a [[Fellow|fellow]] of University College, and in 1847 he was called to the
 bar at Lincoln's Inn. His earnings during his first three years at the
 bar were 52, 346, and 795 guineas, from which it will be seen that his
 rise to a tolerably large practice was rapid. His work, however, was
-mainly conveyancing, and for long his income remained almost stationary.
+mainly [[Conveyancing|conveyancing]], and for long his income remained almost stationary.
 By degrees, however, he got more work, and was called within the bar in
 1865, becoming a bencher of his Inn in the same year and practising in
-the Rolls Court. Jessel entered parliament as Liberal member for Dover
+the Rolls Court. Jessel entered parliament as Liberal member for [[Dover]]
 in 1868, and although neither his intellect nor his oratory was of a
 class likely to commend itself to his fellow-members, he attracted
-Gladstone's attention by two learned speeches on the Bankruptcy Bill
+Gladstone's attention by two learned speeches on the [[Bankruptcy]] Bill
 which was before the house in 1869, with the result that in 1871 he was
 appointed solicitor-general. His reputation at this time stood high in
 the chancery courts; on the common law side he was unknown, and on the
-first occasion upon which he came into the court of Queen's bench to
+first occasion upon which he came into the court of Queen's [[Bench|bench]] to
 move on behalf of the Crown, there was very nearly a collision between
 him and the bench. His forceful and direct method of bringing his
 arguments home to the bench was not modified in his subsequent practice
@@ -46,7 +46,7 @@ the Judicature Act of that year made the master of the rolls the
 ordinary president of the first court of appeal, relieving him of his
 duties as a judge of first instance. In the court of appeal Jessel
 presided almost to the day of his death. For some time before 1883 he
-suffered from diabetes with chronic disorder of the heart and liver, but
+suffered from [[Diabetes|diabetes]] with chronic disorder of the heart and liver, but
 struggled against it; on the 16th of March 1883 he sat in court for the
 last time, and on the 21st of March he died at his residence in London,
 the immediate cause of death being cardiac syncope.
@@ -76,14 +76,14 @@ nevertheless delivered without notes--this, too, on the 9th of March
 Never during the 19th century was the business of any court performed so
 rapidly, punctually, and satisfactorily as it was when Jessel presided.
 He was master of the rolls at a momentous period of legal history. The
-Judicature Acts, completing the fusion of law and equity, were passed
+Judicature Acts, completing the [[Fusion|fusion]] of law and equity, were passed
 while he was judge of first instance, and were still new to the courts
 when he died. His knowledge and power of assimilating knowledge of all
 subjects, his mastery of every branch of law with which he had to
 concern himself, as well as of equity, together with his willingness to
 give effect to the new system, caused it to be said when he died that
 the success of the Judicature Acts would have been impossible without
-him. His faults as a judge lay in his disposition to be intolerant of
+him. His [[Fault|faults]] as a judge lay in his disposition to be intolerant of
 those who, not able to follow the rapidity of his judgment, endeavoured
 to persist in argument after he had made up his mind; but though he was
 peremptory with the most eminent counsel, young men had no cause to
@@ -115,7 +115,7 @@ him together with three daughters and two sons, the elder of whom,
 Charles James (b. 1860), was made a baronet shortly after the death of
 his distinguished father and in recognition of his services.
 
-  See _The Times_, March 23, 1883; E. Manson, _Builders of our Law_
+  See _The Times_, March 23, 1883; E. [[Manson]], _Builders of our Law_
   (1904).
 
 ## See also

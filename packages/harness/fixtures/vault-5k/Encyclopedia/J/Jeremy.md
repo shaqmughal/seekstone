@@ -1,8 +1,8 @@
 # Jeremy
 
-JEREMY, EPISTLE OF, an apocryphal book of the Old Testament. This letter
+JEREMY, [[Epistle|EPISTLE]] OF, an apocryphal book of the Old Testament. This letter
 purports to have been written by Jeremiah to the exiles who were already
-in Babylon or on the way thither. The author was a Hellenistic Jew, and
+in [[Babylon]] or on the way thither. The author was a Hellenistic Jew, and
 not improbably a Jew of Alexandria. His work, which shows little
 literary skill, was written with a serious practical purpose. He veiled
 his fierce attack on the idol gods of Egypt by holding up to derision
@@ -20,14 +20,14 @@ were nothing save the work of men's hands, without the powers of speech,
 hearing or self-preservation. They could not bless their worshippers
 even in the smallest concerns of life; they were indifferent to moral
 qualities, and were of less value than the commonest household objects,
-and finally, "with rare irony, the author compared an idol to a
-scarecrow (v. 70), impotent to protect, but deluding to the imagination"
-(MARSHALL).
+and finally, "with rare [[Irony|irony]], the author compared an idol to a
+scarecrow (v. 70), impotent to protect, but deluding to the [[Imagination|imagination]]"
+([[Marshall|MARSHALL]]).
 
   The date of the epistle is uncertain. It is believed by some scholars
   to be referred to in 2 Macc. ii. 2, which says that Jeremiah charged
   the exiles "not to forget the statutes of the Lord, neither to be led
-  astray in their minds when they saw images of gold and silver and the
+  astray in their minds when they saw [[Image|images]] of gold and silver and the
   adornment thereof." But the reference is disputed by Fritzsche,
   Gifford, Shürer and others. The epistle was included in the Greek
   canon. There was no question of its canonicity till the time of
@@ -65,7 +65,7 @@ century, especially in England, which had been the chief consumer. In
 this sum. The wine trade, however, still brings a considerable profit,
 and few towns of southern Spain display greater commercial activity than
 Jeréz. In the earlier part of the 18th century the neighbourhood
-suffered severely from yellow fever; but it was rendered comparatively
+suffered severely from yellow [[Fever|fever]]; but it was rendered comparatively
 healthy when in 1869 an aqueduct was opened to supply pure water.
 Strikes and revolutionary disturbances have frequently retarded business
 in more recent years.
@@ -73,7 +73,7 @@ in more recent years.
 Jeréz has been variously identified with the Roman Municipium Seriense;
 with Asido, perhaps the original of the Moorish Sherish; and with Hasta
 Regia, a name which may survive in the designation of La Mesa de Asta, a
-neighbouring hill. Jeréz was taken from the Moors by Ferdinand III. of
+neighbouring hill. Jeréz was taken from the Moors by [[Ferdinand]] III. of
 Castile (1217-1252); but it was twice recaptured before Alphonso X.
 finally occupied it in 1264. Towards the close of the 14th century it
 received the title _de la Frontera_, i.e. "of the frontier," common to
@@ -82,7 +82,7 @@ several towns on the Moorish border.
 
 
 
-JERÉZ DE LOS CABALLEROS, a town of south-western Spain, in the province
+JERÉZ DE LOS [[Caballero|CABALLEROS]], a town of south-western Spain, in the province
 of Badajoz, picturesquely situated on two heights overlooking the river
 Ardila, a tributary of the Guadiana, 12 m. E. of the Portuguese
 frontier. Pop. (1900), 10,271. The old town is surrounded by a Moorish
@@ -93,7 +93,7 @@ staple trade is in agricultural produce, especially in ham and bacon
 from the large herds of swine which are reared in the surrounding oak
 forests. The town is said to have been founded by Alphonso IX. of Leon
 in 1229; in 1232 it was extended by his son St Ferdinand, who gave it to
-the knights templar. Hence the name _Jeréz de los Caballeros_, "Jeréz of
+the [[Knight|knights]] templar. Hence the name _Jeréz de los Caballeros_, "Jeréz of
 the knights."
 
 ## References

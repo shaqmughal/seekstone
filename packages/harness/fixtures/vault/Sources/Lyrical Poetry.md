@@ -13,7 +13,7 @@ supposed to be, susceptible of being sung to the accompaniment of a
 musical instrument. In the earliest times it may be said that all poetry
 was of its essence lyrical. The primeval oracles were chanted in verse,
 and the Orphic and Bacchic Mysteries, which were celebrated at Eleusis
-and elsewhere, combined, it is certain, metre with music. Homer and
+and elsewhere, combined, it is certain, metre with music. [[Homer]] and
 Hesiod are each of them represented with a lyre, yet if any poetry can
 be described as non-lyrical, it is surely the archaic hexameter of the
 _Iliad_ and the _Erga_. These poems were styled epic, in direct
@@ -32,14 +32,14 @@ would constrain us to regard Wordsworth's _Excursion_ as a lyric, and
 Tennyson's _Revenge_ (where the subject is treated exactly as one of the
 Homeridae would have treated an Ionian myth) as an epic. This is
 impossible, and recalls us to the importance of taking the form into
-consideration. But, with this warning, the definition of Hegel is
+consideration. But, with this warning, the [[Definition|definition]] of Hegel is
 valuable. It is, as he insists, the personal thought, or passion, or
 inspiration, which gives its character to lyrical poetry.
 
 The lyric has the function of revealing, in terms of pure art, the
 secrets of the inner life, its hopes, its fantastic joys, its sorrows,
-its delirium. It is easier to exclude the dramatic species from lyric
-than to banish the epic. There are large sections of drama which it is
+its [[Delirium|delirium]]. It is easier to exclude the dramatic species from lyric
+than to banish the epic. There are large sections of [[Drama|drama]] which it is
 inconceivable should be set to music, or sung, or even given in
 recitative. The tragedies of Racine, for example, are composed of the
 purest poetry, but they are essentially non-lyrical, although lyrical
@@ -55,29 +55,29 @@ singing for two-thirds of the play," accompanied by tumultuous music.
 This primitive feature has gradually been worn away; the chorus grew
 less and less prominent, and disappeared; the very verse-ornament of
 drama tends to vanish, and we have plays essentially so poetical as
-those of Ibsen and Maeterlinck written from end to end in bare prose.
+those of [[Ibsen]] and Maeterlinck written from end to end in bare prose.
 
 To return again to Greece, there was an early distinction, soon
-accentuated, between the poetry chanted by a choir of singers, and the
+accentuated, between the poetry chanted by a [[Choir|choir]] of singers, and the
 song which expressed the sentiments of a single poet. The latter, the
 [Greek: melos] or song proper, had reached a height of technical
 perfection in "the Isles of Greece, where burning Sappho loved and
 sung," as early as the 7th century B.C. That poetess, and her
 contemporary Alcaeus, divide the laurels of the pure Greek song of
 Dorian inspiration. By their side, and later, flourished the great poets
-who set words to music for choirs, Alcman, Arion, Stesichorus, Simonides
-and Ibycus, who lead us at the close of the 5th century to Bacchylides
+who set words to music for choirs, Alcman, [[Arion]], Stesichorus, Simonides
+and [[Ibycus]], who lead us at the close of the 5th century to Bacchylides
 and Pindar, in whom the magnificent tradition of the dithyrambic odes
 reached its highest splendour of development. The practice of Pindar and
 Sappho, we may say, has directed the course of lyrical poetry ever
 since, and will, unquestionably, continue to do so. They discovered how,
 with the maximum of art, to pour forth strains of personal magic and
-music, whether in a public or a private way. The ecstasy, the uplifted
+music, whether in a public or a private way. The [[Ecstasy|ecstasy]], the uplifted
 magnificence, of lyrical poetry could go no higher than it did in the
 unmatched harmonies of these old Greek poets, but it could fill a much
 wider field and be expressed with vastly greater variety. It did so in
 their own age. The gnomic verses of Theognis were certainly sung; so
-were the satires of Archilochus and the romantic reveries of Mimnermus.
+were the satires of [[Archilochus]] and the romantic reveries of Mimnermus.
 
 At the Renaissance, when the traditions of ancient life were taken up
 eagerly, and hastily comprehended, it was thought proper to divide
@@ -86,16 +86,16 @@ enters into a discussion of the laws of prosody, William Webbe, lays it
 down, in 1586, that in verse "the most usual kinds are four, the heroic,
 elegiac, iambic and lyric." Similar confusion of terms was common among
 the critics of the 15th and 16th centuries, and led to considerable
-error. It is plain that a border ballad is heroic, and may yet be
+[[Error|error]]. It is plain that a border ballad is heroic, and may yet be
 lyrical; here the word "heroic" stands for "epic." It is plain that
 whether a poem is lyrical or not had nothing to do with the question
 whether it is composed in an iambic measure. Finally, it is undoubted
 that the early Greek "elegies" were sung to an accompaniment on the
-flute, whether they were warlike, like those of Tyrtaeus, or
-philosophical and amatory like those of Theognis. But (see ELEGY) the
+[[Flute|flute]], whether they were warlike, like those of Tyrtaeus, or
+philosophical and amatory like those of Theognis. But (see [[Elegy|ELEGY]]) the
 present significance of "elegy," and this has been the case ever since
 late classical times, is funereal; in modern parlance an elegy is a
-dirge. Whether the great Alexandrian dirges, like those of Bion and of
+[[Dirge|dirge]]. Whether the great Alexandrian dirges, like those of Bion and of
 Moschus, on which our elegiacal tradition is founded, were actually sung
 to an accompaniment or not may be doubted; they seem too long, too
 elaborate, and too ornate for that. But, at any rate, they were composed
@@ -115,9 +115,9 @@ piece of verse, when it is inspired by subjective passion, fits more
 closely with Hegel's definition of what lyrical poetry should be, yet
 the rhythmical complication of the sonnet, and its rigorous uniformity,
 seem particularly ill-fitted to interpretation on a lyre. When F. M.
-degli Azzi put the book of Genesis (1700) into sonnets, and Isaac de
-Benserade the _Metamorphoses_ of Ovid (1676) into rondeaux, these
-eccentric and laborious versifiers produced what was epical rather than
+degli Azzi put the book of [[Genesis]] (1700) into sonnets, and [[Isaac]] de
+[[Benserade]] the _Metamorphoses_ of Ovid (1676) into rondeaux, these
+[[Eccentric|eccentric]] and laborious versifiers produced what was epical rather than
 lyrical poetry, if poetry it was at all. But the sonnet as Shakespeare,
 Wordsworth and even Petrarch used it was a cry from the heart, a
 subjective confession, and although there is perhaps no evidence that a
@@ -134,13 +134,13 @@ these, when the individual inspiration is strong, there is much that
 trembles on the verge of the lyrical. But outside what is pure epic and
 pure drama, all, or almost all, is lyrical. We say almost all, because
 the difficulty arises of knowing where to place descriptive and
-didactic poetry. The _Seasons_ of Thomson, for instance, a poem of high
+[[Didactic Poetry|didactic poetry]]. The _Seasons_ of Thomson, for instance, a poem of high
 merit and lasting importance in the history of literature--where is that
 to be placed? What is to be said of the _Essay on Man_? In primitive
 times, the former would have been classed under epic, the second would
 have been composed in the supple iambic trimeter which so closely
 resembled daily speech, and would not have been sharply distinguished
-from prose. Perhaps this classification would still serve, were it not
+from prose. Perhaps this [[Classification|classification]] would still serve, were it not
 for the element of versification, which makes a sharp line of
 demarcation between poetic art and prose. This complexity of form,
 rhythmical and stanzaic, takes much of the place which was taken in
@@ -150,7 +150,7 @@ which the words have to adapt themselves. There is perhaps no writer who
 has ever lived in whose work this phenomenon may be more fruitfully
 studied than it may be in the songs and lyrics of Shelley. The temper of
 such pieces as "Arethusa" and "The Cloud" is indicated by a form hardly
-more ambitious than a guitar; Hellas is full of passages which suggest
+more ambitious than a [[Guitar|guitar]]; Hellas is full of passages which suggest
 the harp; in his songs Shelley touches the lute or viol de gamba, while
 in the great odes to the "West Wind" and to "Liberty" we listen to a
 verse-form which reminds us by its volume of the organ itself. On the

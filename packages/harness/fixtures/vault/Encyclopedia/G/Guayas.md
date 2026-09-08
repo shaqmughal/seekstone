@@ -5,7 +5,7 @@ and Pichincha, E. by Los Rios, Canar and Azuay, S. by El Oro and the
 Gulf of Guayaquil, and W. by the same gulf, the Pacific Ocean and the
 province of Manabi. Pop. (1893, estimate) 98,100; area, 11,504 sq. m. It
 is very irregular in form and comprises the low alluvial districts
-surrounding the Gulf of Guayaquil between the Western Cordilleras and
+surrounding the Gulf of Guayaquil between the Western [[Cordillera|Cordilleras]] and
 the coast. It includes (since 1885) the Galapagos Islands, lying 600 m.
 off the coast. The province of Guayas is heavily forested and traversed
 by numerous rivers, for the most part tributaries of the Guayas river,
@@ -14,13 +14,13 @@ of about 14,000 sq. m. and an aggregate of 200 m. of navigable channels
 in the rainy season. Its principal tributaries are the Daule and
 Babahoyo or Chimbo (also called Bodegas), and of the latter the Vinces
 and Yaguachi. The climate is hot, humid and unhealthy, bilious and
-malarial fevers being prevalent. The rainfall is abundant and the soil
+malarial [[Fever|fevers]] being prevalent. The rainfall is abundant and the soil
 is deep and fertile. Agriculture and the collection of forest products
 are the chief industries. The staple products are cacao, coffee,
 sugar-cane, cotton, tobacco and rice. The cultivation of cacao is the
 principal industry, the exports forming about one-third the world's
 supply. Stock-raising is also carried on to a limited extent. Among
-forest products are rubber, cinchona bark, toquilla fibre and ivory
+forest products are rubber, [[Cinchona|cinchona]] bark, toquilla fibre and [[Ivory|ivory]]
 nuts. The manufacture of so-called Panama hats from the fibre of the
 toquilla palm (commonly called _jipijapa_, after a town in Manabi famous
 for this industry) is a long-established domestic industry among the
@@ -38,7 +38,7 @@ towns in Guayas other than Guayaquil. Duran, on the Guayas river
 opposite Guayaquil, is the starting point of the Quito railway and
 contains the shops and offices of that line. The port of Santa Elena on
 a bay of the same name, about 65 m. W. of Guayaquil, is a landing-point
-of the West Coast cable, and a port of call for some of the regular
+of the West Coast [[Cable|cable]], and a port of call for some of the regular
 steamship lines. Its exports are chiefly Panama hats and salt.
 
 ## See also

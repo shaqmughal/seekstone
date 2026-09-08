@@ -1,7 +1,7 @@
 # Hiroshige
 
 HIROSHIGE (1797-1858), Japanese artist, was one of the principal members
-of that branch of the _Ukiyo-ye_ or Popular School of Painting in Japan,
+of that branch of the _Ukiyo-ye_ or Popular School of Painting in [[Japan]],
 a school which chiefly made colour-prints. His family name was Ando
 Tokitaro; that under which he is known having been, in accordance with
 Japanese practice, adopted by him in recognition of the fact that he was

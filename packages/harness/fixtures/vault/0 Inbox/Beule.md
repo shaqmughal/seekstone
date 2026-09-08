@@ -15,9 +15,9 @@ propylaea of the Acropolis, and his work, _L'Acropole d'Athenes_ (2nd
 ed., 1863), was published by order of the minister of public
 instruction. On his return to France, promotion and distinctions
 followed rapidly upon his first successes. He was made doctor of
-letters, chevalier of the Legion of Honour, professor of archaeology at
+letters, [[Chevalier|chevalier]] of the [[Legion]] of Honour, professor of [[Archaeology|archaeology]] at
 the Bibliotheque Imperiale, member of the Academie des Inscriptions et
-Belles-Lettres and perpetual secretary of the Academie des Beaux-Arts.
+[[Belles-Lettres]] and perpetual secretary of the Academie des Beaux-Arts.
 He took great interest in political affairs, with which the last few
 years of his life were entirely occupied. Elected a member of the
 National Assembly in 1871, he zealously supported the Orleanist party.

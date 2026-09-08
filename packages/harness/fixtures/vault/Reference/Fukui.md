@@ -1,6 +1,6 @@
 # Fukui
 
-FUKUI, a town of Japan in the province of Echizen, Nippon, near the west
+FUKUI, a town of [[Japan]] in the province of Echizen, Nippon, near the west
 coast, 20 m. N. by E. of Wakasa Bay. It lies in a volcanic district much
 exposed to earthquakes, and suffered severely during the disturbances of
 1891-1892, when a chasm over 40 m. long was opened across the Neo valley

@@ -8,14 +8,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Falk"
 
 # Falk
 
-FALK, JOHANN DANIEL (1768-1826), German author and philanthropist, was
+FALK, JOHANN [[Daniel|DANIEL]] (1768-1826), German author and philanthropist, was
 born at Danzig on the 28th of October 1768, After attending the
-gymnasium of his native town, he entered the university of Halle with
+gymnasium of his native town, he entered the university of [[Halle]] with
 the view of studying theology, but preferring a non-professional life,
 gave up his theological studies and went to live at Weimar. There he
 published a volume of satires which procured him the notice and
 friendship of Wieland, and admission into literary circles. After the
-battle of Jena, Falk, on the recommendation of Wieland, was appointed to
+battle of [[Jena]], Falk, on the recommendation of Wieland, was appointed to
 a civil post under the French official authorities and rendered his
 townsmen such good service that the duke of Weimar created him a
 counsellor of legation. In 1813 he established a society for friends in
@@ -27,7 +27,7 @@ took the form chiefly of satirical poetry, and gave promise of greater
 future excellence than was ever completely fulfilled; his later pieces,
 directed more against individuals than the general vices and defects of
 society, gradually degenerated in quality. In 1806 Falk founded a
-critical journal under the title of _Elysium und Tartarus_. He also
+critical journal under the title of _[[Elysium]] und Tartarus_. He also
 contributed largely to contemporary journals. He enjoyed the
 acquaintance and intimate friendship of Goethe, and his account of their
 intercourse was posthumously published under the title _Goethe aus

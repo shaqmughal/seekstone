@@ -11,7 +11,7 @@ BURMA, a province of British India, including the former kingdom of
 independent Burma, as well as British Burma, acquired by the British Indian
 government in the two wars of 1826 and 1852. It is divided into Upper and
 Lower Burma, the former being the territory annexed on 1st January 1886.
-The province lies to the east of the Bay of Bengal, and covers a range of
+The province lies to the east of the Bay of [[Bengal]], and covers a range of
 country extending from the Pakchan river in 9 deg. 55' north latitude to the
 Naga and Chingpaw, or Kachin hills, lying roughly between the 27th and 28th
 degrees of north latitude; and from the Bay of Bengal on the west to the
@@ -22,7 +22,7 @@ part, which is in about latitude 21 deg. north, is 575 m. from east to west. On
 the N. it is bounded by the dependent state of Manipur, by the Mishmi
 hills, and by portions of Chinese territory; on the E. by the Chinese Shan
 States, portions of the province of Yunnan, the French province of
-Indo-China, and the Siamese Shan, or Lao States and Siam; on the S. by the
+[[Indo-China]], and the Siamese Shan, or Lao States and Siam; on the S. by the
 Siamese Malay States and the Bay of Bengal; and on the W. by the Bay of
 Bengal and Chittagong. The coast-line from Taknaf, the mouth of the Naaf,
 in the Akyab district on the north, to the estuary of the Pakchan at
@@ -67,7 +67,7 @@ Irrawaddy basin. On the west, between the Pegu and the Arakan Yomas,
 stretches the Irrawaddy delta, a vast expanse of level plain 12,000 sq.m.
 in area falling in a gradual unbroken slope from its apex not far south of
 Prome down to the sea. This delta, which includes the districts of Bassein,
-Myaungmya, Thongwa, Henzada, Hanthawaddy, Tharrawaddy, Pegu and Rangoon
+Myaungmya, Thongwa, Henzada, [[Hanthawaddy]], Tharrawaddy, Pegu and Rangoon
 town, consists almost entirely of a rich alluvial deposit, and the whole
 area, which between Cape Negrais and Elephant Point is 137 m. wide, is
 fertile in the highest degree. To the east lies a tract of country which,
@@ -220,7 +220,7 @@ the December mean minimum is 36.8 deg. and the mean maximum 79 deg.. The climate
 the Chin and Kachin hills and also of the Shan States is temperate. In the
 shade and off the ground the thermometer rarely rises above 80 deg. F. or falls
 below 25 deg. F. In the hot season and in the sun as much as 150 deg. F. is
-registered, and on the grass in the cold weather ten degrees of frost are
+registered, and on the grass in the cold weather ten degrees of [[Frost|frost]] are
 not uncommon. Snow is seldom seen either in the Chin or Shan hills, but
 there are snow-clad ranges in the extreme north of the Kachin country. In
 the narrow valleys of the Shan hills, and especially in the Salween valley,
@@ -293,7 +293,7 @@ Burmese in their own country. As compared with the Hindu, the Burmese wear
 silk instead of cotton, and eat rice instead of the cheaper grains; they
 are of an altogether freer and less servile, but also of a less practical
 character. The Burmese women have a keener business instinct than the men,
-and serve in some degree to redress the balance. The Burmese children are
+and serve in some degree to redress the [[Balance|balance]]. The Burmese children are
 adored by their parents, and are said to be the happiest and merriest
 children in the world.
 
@@ -515,7 +515,7 @@ consist of illiterates.
 The fact that in Upper Burma the proportion of literates is nearly as high
 as, and the proportion of those under instruction even higher than, that of
 the corresponding classes in Lower Burma, is a clear proof that in primary
-education, at least, the credit for the superiority of the Burman over the
+education, at least, the [[Credit|credit]] for the superiority of the Burman over the
 native of India is due to indigenous schools. In almost every village in
 the province there is a monastery, where the most regular occupation of one
 or more of the resident _pongyis_, or Buddhist monks, is the instruction
@@ -544,7 +544,7 @@ school for the sons of Shan chiefs at Taung-gyi in the southern Shan
 States. A _Patamabyan_ examination for marks in the P[=a]li language was
 first instituted in 1896 and is held annually.
 
-_Finance._--The gross revenue of Lower Burma from all sources in 1871-1872
+_Finance._--The [[Gros|gross]] revenue of Lower Burma from all sources in 1871-1872
 was Rs.1,36,34,520, of which Rs.1,21,70,530 was from imperial taxation,
 Rs.3,73,200 from provincial services, and Rs.10,90,790 from local funds.
 The land revenue of the province was Rs.34,45,230. In Burma the cultivators
@@ -566,7 +566,7 @@ basis of calculation was 100 rupees from every ten houses, with a 10%
 deduction for those exempted by custom. When the total amount payable by
 the village was thus determined, the village itself settled the amount to
 be paid by each individual householder. This was done by _thamadis_,
-assessors, usually appointed by the villagers themselves. Other important
+[[Assessor|assessors]], usually appointed by the villagers themselves. Other important
 sources of revenue are the rents from state lands, forests, and
 miscellaneous items such as fishery, revenue and irrigation taxes. In
 1886-1887, the year after the annexation, the amount collected in Upper
@@ -625,7 +625,7 @@ enormous quantities, but the quality is not so good.
 
 The most important ruby-bearing area is the Mogok stone tract, in the hills
 about 60 m. east of the Irrawaddy and 90 m. north-north-west of Mandalay.
-The right to mine for rubies by European methods and to levy royalties from
+The right to mine for rubies by European methods and to [[Levy|levy]] royalties from
 persons working by native methods was leased to the Burma Ruby Mines
 Company, Limited, in 1889, and the lease was renewed in 1896 for 14 years
 at a rent of Rs.3,15,000 a year plus a share of the profits. The rent was
@@ -642,7 +642,7 @@ machinery and treated by chemical processes. Work was begun in 1895, and
 the yield of gold in that year was 274 oz., which increased to 893 oz. in
 1896-1897. This, however, proved to be merely a pocket, and the mine is now
 shut down. Dredging for gold, however, seems likely to prove very
-profitable and gold dust is found in practically every river in the hills.
+profitable and gold [[Dust|dust]] is found in practically every river in the hills.
 
 The principal seats of the petroleum industry are Yenangyaung in the Magwe,
 and Yenangyat in the Pakokku districts. The wells have been worked for a
@@ -782,7 +782,7 @@ silk-weavers are to be found at Amarapura. There large numbers of people
 follow this occupation as their sole means of livelihood, whereas silk and
 cotton weaving throughout the province generally is carried on by girls and
 women while unoccupied by other domestic duties. The Burmese are fond of
-bright colours, and pink and yellow harmonize well with their dark olive
+bright [[Colours|colours]], and pink and yellow harmonize well with their dark olive
 complexion, but even here the influence of western civilization is being
 felt, and in the towns the tendency now is towards maroon, brown, olive and
 dark green for the women's skirts. The total number of persons engaged in
@@ -796,11 +796,11 @@ sexes. The chief arts of Burma are wood-carving and silver work. The floral
 wood-carving is remarkable for its freedom and spontaneity. The carving is
 done in teak wood when it is meant for fixtures, but teak has a coarse
 grain, and otherwise _yamane_ clogwood, said to be a species of gmelina, is
-preferred. The tools employed are chisel, gouge and mallet. The design is
+preferred. The tools employed are chisel, gouge and [[Mallet|mallet]]. The design is
 traced on the wood with charcoal, gouged out in the rough, and finished
 with sharp fine tools, using the mallet for every stroke. The great bulk of
 the silver work is in the form of bowls of different sizes, in shape
-something like the lower half of a barrel, only more convex, of betel
+something like the lower half of a [[Barrel|barrel]], only more convex, of betel
 boxes, cups and small boxes for lime. Both in the wood-carving and silver
 work the Burmese character displays itself, giving boldness, breadth and
 freedom of design, but a general want of careful finish. Unfortunately the
@@ -885,13 +885,13 @@ considered applicable to all the dominions of the crown in India. As
 regards the acts of the governor-general in council passed for India
 generally--they, too, were from the first applicable to Lower Burma; and
 they have all been declared applicable to Upper Burma also by the Burma
-Laws Act of 1898. That portion of the English law which has been introduced
+Laws Act of 1898. That portion of the [[English Law|English law]] which has been introduced
 into India without legislation, and all the rules of law resting upon the
 authority of the courts, are made applicable to Burma by the same act. But
 consistently with the practice which has always prevailed in India, there
 is a large field of law in Burma which the British government has not
 attempted to disturb. It is expressly directed by the act of 1898 above
-referred to, that in regard to succession, inheritance, marriage, caste or
+referred to, that in regard to succession, inheritance, marriage, [[Caste|caste]] or
 any religious usage or institution, the law to be administered in Burma is
 (_a_) the Buddhist law in cases where the parties are Buddhists, (_b_) the
 Mahommedan law in cases where the parties are Mahommedans, (_c_) the Hindu
@@ -923,7 +923,7 @@ communication with Gangetic India began. From the 11th to the 13th century
 the old Burman empire was at the height of its power, and to this period
 belong the splendid remains of architecture at Pagan. The city and the
 dynasty were destroyed by a Chinese (or rather Mongol) invasion (1284 A.D.)
-in the reign of Kublai Khan. After that the empire fell to a low ebb, and
+in the reign of Kublai [[Khan]]. After that the empire fell to a low ebb, and
 Central Burma was often subject to Shan dynasties. In the early part of the
 16th century the Burmese princes of Toungoo, in the north-east of Pegu,
 began to rise to power, and established a dynasty which at one time held

@@ -12,7 +12,7 @@ sq. m., is about 35,000 sq. m. less than that of the Iberian Peninsula, but
 more than twice that of the Italian. Its northern boundary stretches from
 the Kilia mouth of the Danube to the Adriatic Sea near Fiume, and is
 generally regarded as marked by the courses of the rivers Danube, Save and
-Kulpa. On the E. it is bounded by the Black Sea, the Sea of Marmora, and
+Kulpa. On the E. it is bounded by the [[Black Sea]], the Sea of Marmora, and
 the Aegean; on the S. by the Mediterranean; on the W. by the Ionian Sea and
 the Adriatic. With the exception of the Black Sea coast and the Albanian
 littoral, its shores are considerably indented and flanked by groups of
@@ -35,7 +35,7 @@ of Montenegro and Albania, continued by the Pindus range and the heights of
 Acarnania and Aetolia. The principal summits are Olympus (9794 ft.),
 overlooking the Gulf of Salonica; Musallá (9631) and Popova Shapka (8855),
 both in the Rhodope system; Liubotrn in the Shar Dagh (8989); Elin, in the
-Perin Planina (8794); Belmeken in southern Bulgaria (chain of Dospat,
+Perin Planina (8794); Belmeken in southern [[Bulgaria]] (chain of Dospat,
 8562); Smolika in the Pindus range (8445); Dormitor in northern Montenegro
 (8294); Kaimakchalan in central Macedonia (8255); and Kiona in Aetolia
 (8235). Owing to the distribution of the mountain-chains, the principal
@@ -70,7 +70,7 @@ entirely of Cretaceous beds, but nevertheless they must be considered to
 belong to the central area, for the folds which affect them are nearly at
 right angles to those of the western chains. In general, however, the
 central area is one of faulting rather than of folding, and the sedimentary
-beds sometimes lie in troughs formed by faults. Extensive volcanic
+beds sometimes lie in troughs formed by [[Fault|faults]]. Extensive volcanic
 outbursts occurred in this region during the Tertiary period. In the
 _western folded belt_ the strike of the folds is N.W.-S.E., or
 N.N.W.-S.S.E. There are many local irregularities, but the general
@@ -81,7 +81,7 @@ considerable part in the formation of the chain. The Sarmatian beds are
 also involved in the folds, indicating that the folding was not completed
 till Pliocene times. In the south, the older beds disappear and the whole
 chain is formed chiefly of Cretaceous beds, though Eocene and probably
-Jurassic rocks are [v.03 p.0259] present. The Eocene beds are folded, but
+[[Jurassic]] rocks are [v.03 p.0259] present. The Eocene beds are folded, but
 the marginal Pliocene beds are not, and the final folding seems to have
 taken place during the Miocene period. (For the Balkans, see BULGARIA.)
 
@@ -98,7 +98,7 @@ also the articles on the separate countries.
   Servia  .   .   .   .   .   .          18,782         2,493,770 132.2
   Bulgaria (with Eastern Rumelia)        37,240         4,028,239  88.
   The Dobrudja (Rumania)  .   .           5,896           258,242  43.9
-  Dalmatia (Austria)  .   .   .           4,923           591,597 120.1
+  [[Dalmatia]] (Austria)  .   .   .           4,923           591,597 120.1
   Montenegro   .  .   .   .   .           3,255           311,564  94
   Bosnia and Herzegovina (Austria-
   Hungary)     .  .   .   .   .          19,696         1,568,092  70.9
@@ -153,7 +153,7 @@ Montenegro, like the other mountainous regions, adhered to the Greek
 Church; it received a number of Orthodox Servian refugees at the beginning
 of the 15th century, when the Turks occupied Servia. The numbers of the
 Serbo-Croats may be estimated at about 5,600,000. The Bulgars, who descend
-from a fusion of the Slavonic element with a later Ugro-Finnish
+from a [[Fusion|fusion]] of the Slavonic element with a later Ugro-Finnish
 immigration, inhabit the kingdom of Bulgaria (including Eastern Rumelia),
 parts of the Dobrudja and the greater part of Macedonia, except Old Servia
 and the Aegean littoral. Apart from their colonies in Bessarabia and
@@ -166,10 +166,10 @@ colonies of recent date in Servia and Bulgaria. The nomad Vlachs or
 Tzintzars of these countries call themselves Arumani or "Romans"; they are
 a remnant of the native Latinized population which received an increase
 from the immigration of Daco-Roman refugees, who fled southwards during the
-3rd century, after the abandonment of Dacia by Aurelian. (See VLACHS.) The
+3rd century, after the abandonment of [[Dacia]] by Aurelian. (See VLACHS.) The
 entire Ruman population of the Balkan countries may be set down
 approximately at 600,000. The Albanians, who call themselves _Shküpetar_ or
-_Arber_, are the representatives of the primitive Illyrian population; they
+_[[Arber]]_, are the representatives of the primitive Illyrian population; they
 inhabit the Adriatic littoral from the southern frontier of Montenegro to
 the northern boundary of Greece, in which country they are found in
 considerable numbers. They have shown a tendency to advance in a
@@ -192,13 +192,13 @@ adjacent islands probably number 4,500,000. The remainder of the population
 is for the most part composed of Armenians, Jews and gipsies. The
 Armenians, like the Greeks, congregate in the principal centres of trade,
 especially at Constantinople; their numbers were greatly reduced by the
-massacres of 1896. The Jews are most numerous at Salonica where they form
+[[Massacre|massacres]] of 1896. The Jews are most numerous at Salonica where they form
 half the population. The gipsies are scattered widely throughout the
 Peninsula; they are found not only in wandering troops, as elsewhere in
 Europe, but in settlements or cantonments in the neighbourhood of towns and
 villages.
 
-_Religions._--Owing to the numerous conversions to Islam which followed the
+_Religions._--Owing to the numerous [[Conversion|conversions]] to Islam which followed the
 Turkish conquest, the Mahommedan population of the Peninsula is largely in
 excess of the purely Turkish element. More than half the Albanian nation
 and 35% of the inhabitants of Bosnia and Herzegovina adopted the creed of
@@ -312,7 +312,7 @@ Stephen Nemanya (1169-1195), the founder of the Nemanyich dynasty. A new
 Bulgarian power, known as the "second" or "Bulgaro-Vlach empire," was
 founded at Trnovo in 1186 under the brothers Ivan and Peter Asên, who led a
 revolt of Vlachs and Bulgars against the Greeks. In 1204 Constantinople was
-captured by the Latins of the Fourth Crusade, and Baldwin of Flanders was
+captured by the Latins of the Fourth Crusade, and [[Baldwin]] of Flanders was
 crowned emperor; the Venetians acquired several maritime towns and islands,
 and Frankish feudal dynasties were established in Salonica, Athens, Achaea
 and elsewhere. Greek rule, however, survived in the despotate of Epirus
@@ -336,7 +336,7 @@ Bosnians, under their king Stephen Tvrtko (1353-1391), became the principal
 power in the west of the Peninsula. The disorganization and internecine
 feuds of the various states prepared the way for the Ottoman invasion. In
 1356 the Turks seized Gallipoli; in 1361 the sultan Murad I. established
-his capital at Adrianople; in 1389 the fate of the Slavonic states was
+his capital at Adrianople; in 1389 the [[Fate|fate]] of the Slavonic states was
 decided by the rout of the Servians and their allies at Kossovo. The last
 remnant of Bulgarian national existence disappeared with the fall of Trnovo
 in 1393, and Great Walachia was conquered in the same year. Under Mahommed
@@ -373,7 +373,7 @@ Aegean and from the Black Sea to the river Drin in Albania; it received a
 considerable coast-line on the Aegean and abutted on the Gulf of Salonica
 under the walls of that town. At the same time the frontiers of Servia and
 Montenegro were enlarged so as to become almost contiguous, and Montenegro
-received the ports of Antivari and Dulcigno on the Adriatic. From a
+received the ports of [[Antivari]] and Dulcigno on the Adriatic. From a
 strategical point of view the Bulgaria of the San Stefano treaty threatened
 Salonica, Adrianople and Constantinople itself; and the great powers,
 anticipating that the new state would become a Russian dependency, refused
@@ -409,7 +409,7 @@ kingdom.
 [Sidenote: A Balkan confederation.]
 
 The growth and development of the Balkan nations have, to a great extent,
-been retarded by the international jealousies arising from the Eastern
+been retarded by the [[International|international]] jealousies arising from the Eastern
 Question. The possibility of the young states entering into a combination
 which would enable them to offer a united resistance to foreign
 interference while simultaneously effecting a compromise in regard to their
@@ -453,10 +453,10 @@ Berlin, see E. Rüffer, _Die Balkanhalbinsel und ihre Volker_ (Bautzen,
 (London, 1866); and A. Boué, _La Turquie d'Europe_ (Paris, 1840). W.
 Miller, _The Balkans_ (London, 1896), sketches the history of Bulgaria,
 Montenegro, Rumania and Servia. See also Sir E. Hertslet, _The Map of
-Europe by Treaty_, esp. vol. iv. (London, 1875-1891); J. D. Bourchier, "A
+Europe by Treaty_, esp. vol. iv. (London, 1875-1891); J. D. [[Bourchier]], "A
 Balkan Confederation," in the _Fortnightly Review_ (London, September
 1891); the Austrian and Russian staff maps, and the ethnographical maps of
-Kiepert and Peucker.
+[[Kiepert]] and Peucker.
 
 (J. D. B.)
 
@@ -466,7 +466,7 @@ the Kirghiz steppes, between the governments of Semipalatinsk and
 Semiryechensk, in 45° to 47° N. and 73° 30' to 79° E., about 600 m. to the
 east of Lake Aral. It is fourth in size of the lakes in Eurasia, having an
 area of 7115 sq. m., and lies at an altitude of 900 ft. It has the shape of
-a broad crescent, about 430 m. long from W.S.W. to E.N.E., having its
+a broad [[Crescent|crescent]], about 430 m. long from W.S.W. to E.N.E., having its
 concave side turned southwards; its width varies from 36 to 53 m. Its
 north-western shore is bordered by a dreary plateau, known as the Famine
 Steppe (_Bek-pak-dala_). The south-east shore, on the contrary, is low, and
@@ -487,7 +487,7 @@ therefore, probable that Lake Balkash stood formerly in communication
 through lakes Ebi-nor and Ayar (Telli-nor) with the lake that formerly
 filled the Lukchun depression (in 89½° E. long, and 42½° N. lat.), but
 researches show that a connexion with Lake Aral--at least in recent
-times--was improbable. The lake has been investigated by L. S. Berg (see
+times--was improbable. The lake has been investigated by L. S. [[Berg]] (see
 _Petermanns Mitteilungen_, 1903).
 
 ## See also

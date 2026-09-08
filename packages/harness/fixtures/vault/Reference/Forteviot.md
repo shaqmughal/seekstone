@@ -12,7 +12,7 @@ FORTEVIOT, a village and parish of Perthshire, Scotland, on the Water of
 May, a right-hand affluent of the Earn, 6-3/4 m. S.W. of Perth. Pop. of
 parish (1901) 562. It is a place of remote antiquity, having been a
 capital of the Picts, when the district was known as Fortrenn, and
-afterwards of the Scots. The army led by Edward Baliol camped here
+afterwards of the Scots. The army led by Edward [[Baliol]] camped here
 before the battle of Dupplin (1332), in which the regent, Donald, earl
 of Mar, was slain along with 13,000 out of 30,000 men. The parish of
 Findo-Gask adjoining it on the N.W. contains remains of a Roman road,

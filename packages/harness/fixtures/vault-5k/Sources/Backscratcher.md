@@ -7,9 +7,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Backscratc
 
 # Backscratcher
 
-BACKSCRATCHER, a long slender rod of wood, whalebone, tortoiseshell, horn
-or cane, with a carved human hand, usually of ivory, mounted at the
-extremity. Its name suggests the primary use of the implement, but little
+BACKSCRATCHER, a long slender rod of wood, whalebone, tortoiseshell, [[Horn|horn]]
+or cane, with a carved human hand, usually of [[Ivory|ivory]], mounted at the
+extremity. Its name suggests the primary use of the [[Implement|implement]], but little
 is known of its history, and it was unquestionably also employed as a kind
 of rake to keep in order the huge "heads" of powdered hair worn by ladies
 during a considerable portion of the 18th and the early part of the 19th

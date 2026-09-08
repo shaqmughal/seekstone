@@ -1,7 +1,7 @@
 # Japheth
 
 JAPHETH ([Hebrew: Yefeth]), in the Bible, the youngest son of Noah[1]
-according to the Priestly Code (c. 450 B.C.); but in the earlier
+according to the Priestly [[Code]] (c. 450 B.C.); but in the earlier
 tradition[2] the second son, also the "father" of one of the three
 groups into which the nations of the world are divided.[3] In Gen. ix.
 27, Noah pronounces the following blessing on Japheth--
@@ -29,10 +29,10 @@ remote peoples who were not thought of as standing in ethnic or
 political connexion with Israel or Egypt. Thus of his descendants,
 Gomer, Magog,[4] Tubal, Meshech, Ashkenaz, Riphath and Togarmah are
 peoples who are located with more or less certainty in N.E. Asia Minor,
-Armenia and the lands to the N.E. of the Black Sea; Javan is the
+[[Armenia]] and the lands to the N.E. of the [[Black Sea]]; Javan is the
 Ionians, used loosely for the seafaring peoples of the West, including
-Tarshish (Tartessus in Spain), Kittim (Cyprus), Rodanim[5] (Rhodes).
-There is no certain identification of Tiras and Elishah.
+Tarshish (Tartessus in Spain), Kittim ([[Cyprus]]), Rodanim[5] (Rhodes).
+There is no certain [[Identification|identification]] of Tiras and Elishah.
 
   The similarity of the name Japheth to the Titan Iapetos of Greek
   mythology is probably a mere accident. A place Japheth is mentioned in

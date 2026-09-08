@@ -65,7 +65,7 @@ faith, i.e. all the religious truths which she represents and imposes as
 obligatory. This is infallibility put into practice by definite acts.
 
 The infallibility of the pope was not defined until 1870 at the Vatican
-Council; this definition does not constitute, strictly speaking, a
+Council; this [[Definition|definition]] does not constitute, strictly speaking, a
 dogmatic innovation, as if the pope had not hitherto enjoyed this
 privilege, or as if the Church, as a whole, had admitted the contrary;
 it is the newly formulated definition of a dogma which, like all those
@@ -129,7 +129,7 @@ the definition we have quoted.
 (d) Infallibility is the guarantee against error, not in all matters,
 but only in the matter of dogma and morality; everything else is beyond
 its power, not only truths of another order, but even discipline and the
-ecclesiastical laws, government and administration, &c.
+[[Ecclesiastical Law|ecclesiastical laws]], government and administration, &c.
 
 (e) Again, not all dogmatic teachings of the pope are under the
 guarantee of infallibility; neither his opinions as private instructor,
@@ -148,7 +148,7 @@ those cases alone in which the pope chooses to make use of it, and
 declares positively that he is imposing on all the faithful the
 obligation of belief in a certain definite proposition, under pain of
 heresy and exclusion from the Church; they do not insist on any special
-form, but only require that the pope should clearly manifest his will to
+form, but only require that the pope should clearly [[Manifest|manifest]] his will to
 the Church. This second point of view, as clearly expounded by Mgr
 Joseph Fessler (1813-1872), bishop of St Pölten, who was secretary to
 the Vatican Council, in his work _Die wahre und die falsche
@@ -185,10 +185,10 @@ Pope Honorius by the 6th ecumenical council of Constantinople in 680.
 The majority, in which Cardinal Manning played a very active part, took
 their stand on theological reasons of the strongest kind; they invoked
 the promises of Our Lord to St Peter: "Thou art Peter, and upon this
-rock will I build my Church, and the gates of hell shall not prevail
+rock will I build my Church, and the gates of [[Hell|hell]] shall not prevail
 against her"; and again, "I have prayed for thee, Peter, that thy faith
 fail not; and do thou in thy turn confirm thy brethren"; they showed the
-popes, in the course of the ages, acting as the guardians and judges of
+popes, in the course of the ages, acting as the [[Guardian|guardians]] and judges of
 the faith, arousing or welcoming dogmatic controversies and
 authoritatively settling them, exercising the supreme direction in the
 councils and sanctioning their decisions; they explained that the few
@@ -215,13 +215,13 @@ their adhesion. The most distinguished among the latter was Döllinger,
 who resisted all the advances of Mgr Scherr, archbishop of Munich, was
 excommunicated on the 17th of April 1871, and died unreconciled, though
 without joining any separate group. After him must be mentioned
-Friedrich of Munich, several professors of Bonn, and Reinkens of
+[[Friedrich]] of Munich, several professors of [[Bonn]], and Reinkens of
 Breslau, who was the first bishop of the "Old Catholics." These
 professors formed the "Committee of Bonn," which organized the new
 Church. It was recognized and protected first in Bavaria, thanks to the
 minister Freiherr Johann von Lutz, then in Saxony, Baden, Württemberg,
 Prussia, where it was the pretext for, if not the cause of, the
-Kulturkampf, and finally in Switzerland, especially at Geneva.
+Kulturkampf, and finally in Switzerland, especially at [[Geneva]].
 
   For the theological aspects of the dogma of infallibility, see, among
   many others, L. Billot, S.J., _De Ecclesia Christi_ (3 vols., Rome,

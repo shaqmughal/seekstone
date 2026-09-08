@@ -13,14 +13,14 @@ of the First Civil War showed himself a steady partisan of the
 parliament. To the end of the First Civil War, Batten continued to
 patrol the English seas, and his action in 1647 in bringing into
 Portsmouth a number of Swedish ships of war and merchantmen, which had
-refused the customary salute to the flag, was approved by parliament.
+refused the customary salute to the [[Flag|flag]], was approved by parliament.
 When the Second Civil War began he was distrusted by the Independents
 and removed from his command, though he confessed his continued
 willingness to serve the state. When part of the fleet revolted against
 the parliament, and joined the prince of Wales in Holland, May 1648,
 Batten went with them. He was knighted by the prince, but being
 suspected by the Royalists, was put ashore mutinously in Holland and
-returned to England. He lived in retirement during the Commonwealth
+returned to England. He lived in retirement during the [[Commonwealth]]
 period. At the Restoration Sir William Batten became once more surveyor
 of the navy. In this office he was in constant intercourse with Pepys,
 whose diary frequently mentions him; but the insinuations of Pepys

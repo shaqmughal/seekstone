@@ -8,9 +8,9 @@ id: 42-312
 # Cush
 
 CUSH, the eldest son of Ham, in the Bible, from whom seems to have been
-derived the name of the "Land of Cush," commonly rendered "Ethiopia" by
+derived the name of the "Land of Cush," commonly rendered "[[Ethiopia]]" by
 the Septuagint and by the Vulgate. The locality of the land of Cush has
-long been a much-vexed question. Bochart maintained that it was
+long been a much-vexed question. [[Bochart]] maintained that it was
 exclusively in Arabia; Schulthess and Gesenius held that it should be
 sought for nowhere but in Africa (see ETHIOPIA). Others again, like
 Michaelis and Rosenmuller, have supposed that the name Cush was applied
@@ -19,7 +19,7 @@ condition of the ancient knowledge of countries and peoples, as also the
 probability of early migrations of "Cushite" tribes (carrying with them
 their name), will account for the main facts. The existence of an
 African Cush cannot reasonably be questioned, though the term is
-employed in the Old Testament with some latitude. The African Cush
+employed in the Old Testament with some [[Latitude|latitude]]. The African Cush
 covers Upper Egypt, and extends southwards from the first cataract
 (Syene, Ezek. xxix. 10). That the term was also applied to parts of
 Arabia is evident from Gen. x. 7, where Cush is the "father" of certain
@@ -43,7 +43,7 @@ interpretation is bound up with that of Mizraim (q.v.), and depends in
 general upon the question whether Ethiopia at a given time enjoyed the
 prominence given to it.
 
-  On Num. xii. I see JETHRO; and consult H. Winckler, _Keil. u. das alte
+  On Num. xii. I see [[Jethro|JETHRO]]; and consult H. Winckler, _Keil. u. das alte
   Test._, 3rd ed., p. 144 sq., and _Im Kampfe um den alten Orient_, ii.
   pp. 36 seq., and the literature cited under MIZRAIM.     (S. A. C.)
 

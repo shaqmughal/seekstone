@@ -19,7 +19,7 @@ when it speaks of "fast or abstinence days," as if fasting and
 abstinence were synonymous.[2] More vaguely still, the word is
 occasionally used as an equivalent for moral self-restraint generally.
 This secondary and metaphorical sense ([Greek: nesteuein kakotetos])
-occurs in one of the fragments of Empedocles. For the physiology of
+occurs in one of the fragments of [[Empedocles]]. For the physiology of
 fasting, see DIETETICS; NUTRITION; also CORPULENCE.
 
 Starvation itself (see also HUNGER and THIRST) is of the nature of a
@@ -36,7 +36,7 @@ she had eaten no food for two years. Some reckless enthusiasts for truth
 set four trustworthy hospital nurses to watch her; the Celtic obstinacy
 of the parents was roused, and in defence of their imposture they
 allowed death to take place in eight days. Their trial and conviction
-for manslaughter may be found in the daily periodicals of the date; but,
+for [[Manslaughter|manslaughter]] may be found in the daily periodicals of the date; but,
 strange to say, the experimental physiologists and nurses escaped
 scot-free. There is no doubt that in this instance the unnatural
 quietude, the grave-like silence, and the dim religious light in which
@@ -59,9 +59,9 @@ prevented evaporation, and retarded vital processes dependent upon
 oxidation. The accumulation of carbonic acid in the breathed air would
 also have a similar arrestive power over destructive assimilation. These
 prisoners do not seem to have felt any of the severer pangs of hunger,
-for they were not tempted to eat their candles. With the instinctive
+for they were not tempted to eat their [[Candle|candles]]. With the instinctive
 feeling that darkness adds a horror to death, they preferred to use them
-for light. At the wreck of the "Medusa" frigate in 1816, fifteen people
+for light. At the wreck of the "Medusa" [[Frigate|frigate]] in 1816, fifteen people
 survived on a raft for thirteen days without food.
 
 It is a paradoxical fact, that the supply of the stomach even from the
@@ -71,7 +71,7 @@ days of three men and two boys, with only ten days' provisions,
 exclusive of old boots and jelly-fish. They had a fight in their
 delirium, and one was severely wounded. As the blood gushed out he
 lapped it up; and instead of suffering the fatal weakness which might
-have been expected from the haemorrhage, he seems to have done well.
+have been expected from the [[Haemorrhage|haemorrhage]], he seems to have done well.
 Experiments were performed by a French physiologist, M. Anselmier
 (_Archives gen. de medecine_, 1860, vol. i. p. 169), with the object of
 trying to preserve the lives of dogs by what he calls "artificial
@@ -101,7 +101,7 @@ obscure.[4] In his _Principles of Sociology_ Herbert Spencer collected,
 from the accounts we have of various savage tribes in widely separated
 parts of the globe, a considerable body of evidence, from which he
 suggested that it may have arisen out of the custom of providing
-refreshments for the dead, either by actually feeding the corpse, or by
+refreshments for the dead, either by actually feeding the [[Corpse|corpse]], or by
 leaving eatables and drinkables for its use. It is suggested that the
 fasting which was at first the natural and inevitable result of such
 sacrifice on behalf of the dead may eventually have come to be regarded
@@ -123,7 +123,7 @@ numerous and obvious cases in which fasting, originally the natural
 reflex result of grief, fear or other strong emotion, has come to be the
 usual conventional symbol of these, we shall find that the practice is
 generally resorted to, either as a means of somehow exalting the higher
-faculties at the expense of the lower, or as an act of homage to some
+faculties at the expense of the lower, or as an act of [[Homage|homage]] to some
 object of worship. The axiom of the Amazulu, that "the continually
 stuffed body cannot see secret things," meets even now with pretty
 general acceptance; and if the notion that it is precisely the food
@@ -138,7 +138,7 @@ more developed kind, which appoint definite public fasts, and make them
 binding at fixed seasons upon all the faithful. Brahmanism, for example,
 does not appear to enforce any stated fast upon the laity.[8] Among the
 ancient Egyptians fasting seems to have been associated with many
-religious festivals, notably with that of Isis (Herod. ii. 40), but it
+religious festivals, notably with that of [[Isis]] ([[Herod]]. ii. 40), but it
 does not appear that, so far as the common people were concerned, the
 observance of these festivals (which were purely local) was compulsory.
 The [Greek: nesteia] on the third day of the Thesmophoria at Athens was
@@ -176,7 +176,7 @@ out water before the Lord); Jer. xxxvi. 6, 9; and 2 Sam. xii. 16.[11]
 Sometimes the observance of such fasts extended over a considerable
 period of time, during which, of course, the stricter _jejunium_ was
 conjoined with _abstinentia_ (Dan. x. 2). Sometimes they lasted only for
-a day. In Jonah iii. 6, 7, we have an illustrative example of the rigour
+a day. In [[Jonah]] iii. 6, 7, we have an illustrative example of the rigour
 with which a strict fast might be observed; and such passages as Joel
 ii. and Isa. lviii. 5 enable us to picture with some vividness the
 outward accompaniments of a Jewish fast day before the exile.
@@ -199,12 +199,12 @@ of a new fast on the 13th of the 12th month.
 
 In the post-exile period private fasting was much practised by the
 pious, and encouraged by the religious sentiment of the time (see Judith
-viii. 6; Tob. xii. 8, and context; Sirach xxxiv. 26, Luke ii. 37 and
+viii. 6; Tob. xii. 8, and context; Sirach xxxiv. 26, [[Luke]] ii. 37 and
 xviii. 12). The last reference contains an allusion to the weekly fasts
 which were observed on the 2nd and 5th days of each week, in
 commemoration, it was said, of the ascent and descent of Moses at Sinai.
 The real origin of these fasts and the date of their introduction are
-alike uncertain; it is manifest, however, that the observance of them
+alike uncertain; it is [[Manifest|manifest]], however, that the observance of them
 was voluntary, and never made a matter of universal obligation. It is
 probable that the Sadducees, if not also the Essenes, wholly neglected
 them. The second book (_Seder Moed_) of the Mishna contains two
@@ -225,7 +225,7 @@ new-moon or other fixed festival. Another institution treated with
 considerable fulness in the treatise _Taanith_ is that of the [Hebrew:
 anshei maamad] (_viri stationis_), who are represented as having been
 laymen severally representing the twenty-four classes or families into
-which the whole commonwealth of the laity was divided. They used to
+which the whole [[Commonwealth|commonwealth]] of the laity was divided. They used to
 attend the temple in rotation, and be present at the sacrifices; and as
 this duty fell to each in his turn, the men of the class or family which
 he represented were expected in their several cities and places of abode
@@ -240,7 +240,7 @@ considerably older than the treatises in the Mishna) gives a catalogue
 only of the days on which fasting was forbidden. The Hebrew part
 (commented on by Maimonides), in which numerous fasts are recommended,
 is of considerably later date. See Reland, _Antiq. Hebr._ p. iv. c. 10;
-Derenbourg, _Hist. de Palestine_, p. 439.
+[[Derenbourg]], _Hist. de Palestine_, p. 439.
 
 _Practice of the Early Christian Church._--Jesus Himself did not
 inculcate asceticism in His teaching, and the absence of that
@@ -251,7 +251,7 @@ one, possibly means nothing more than that He endured the privations
 ordinarily involved in a stay in the wilderness. While we have no reason
 to doubt that He observed the one great national fast prescribed in the
 written law of Moses, we have express notice that neither He nor His
-disciples were in the habit of observing the other fasts which custom
+[[Disciple|disciples]] were in the habit of observing the other fasts which custom
 and tradition had established. See Mark ii. 18, where the correct
 reading appears to be--"The disciples of John, and the Pharisees, were
 fasting" (some customary fast). He never formally forbade fasting, but
@@ -278,7 +278,7 @@ viii. 8; Rom. xiv. 14-22; 1 Tim. iv. 3-5). The fastings to which the
 apostle Paul alludes in 2 Cor. vi. 5, xi. 27, were rather of the nature
 of inevitable hardships cheerfully endured in the discharge of his
 sacred calling. The words which appear to encourage fasting in 1 Cor.
-vii. 5 are absent from all the oldest manuscripts and are now omitted by
+vii. 5 are absent from all the oldest [[Manuscript|manuscripts]] and are now omitted by
 all critics;[14] and on the whole the precept and practice of the New
 Testament, while recognizing the propriety of occasional and
 extraordinary fasts, seem to be decidedly hostile to the imposition of
@@ -295,10 +295,10 @@ unknown; but it is certain that it did not at first occupy nearly so
 prominent a place in Christian ritual as that to which it afterwards
 attained. There are early traces of the customary observance of the
 Wednesday and Friday fasts--the _dies stationum_ (Clem. Alex. _Strom._
-vii. 877), and also of a "quadragesimal" fast before Easter. But the
+vii. 877), and also of a "quadragesimal" fast before [[Easter]]. But the
 very passage which proves the early origin of "quadragesima,"
 conclusively shows how uncertain it was in its character, and how unlike
-the Catholic "Lent." Irenaeus, quoted by Eusebius (v. 24), informs us
+the Catholic "Lent." [[Irenaeus]], quoted by Eusebius (v. 24), informs us
 with reference to the customary yearly celebration of the mystery of the
 resurrection of our Lord, that disputes prevailed not only with respect
 to the day, but also with respect to the manner of fasting in connexion
@@ -320,10 +320,10 @@ and the church fasted with them. To the same feeling the quadragesimal
 fast which (as already stated) preceded the joyful feast of the
 resurrection, is to be, in part at least, attributed. As early as the
 time of Tertullian it was also usual for communicants to prepare
-themselves by fasting for receiving the eucharist. But that Christian
+themselves by fasting for receiving the [[Eucharist|eucharist]]. But that Christian
 fasts had not yet attained to the exaggerated importance which they
 afterwards assumed is strikingly shown in the well-known _Shepherd of
-Hermas_ (lib. iii. sim. v.), where it is declared that "with merely
+[[Hermas]]_ (lib. iii. sim. v.), where it is declared that "with merely
 outward fasting nothing is done for true virtue"; the believer is
 exhorted chiefly to abstain from evil and seek to cleanse himself from
 feelings of covetousness, and impurity, and revenge: "on the day that
@@ -365,14 +365,14 @@ decided in favour of the observance of the Saturday fast.[16] The
 council of Ancyra in 314, on the other hand, found it necessary to
 legislate in a somewhat different direction,--by its 14th canon
 enjoining its priests and clerks at least to taste meat at the love
-feasts.[17] The synod of Laodicea framed several rules with regard to
+feasts.[17] The synod of [[Laodicea]] framed several rules with regard to
 the observance of "Lent," such as that "during Lent the bread shall not
 be offered except on Saturday and Sunday" (can. 49), that "the fast
 shall not be relaxed on the Thursday of the last week of Lent, thus
 dishonouring the whole season; but the fast shall be kept throughout the
 whole period" (can. 50), that "during the fast no feasts of the martyrs
 shall be celebrated" (can. 51), and that "no wedding or birthday feasts
-shall be celebrated during Lent" (can. 52). The synod of Hippo (393
+shall be celebrated during Lent" (can. 52). The synod of [[Hippo]] (393
 A.D.) enacted that the sacrament of the altar should always be taken
 fasting, except on the Thursday before Easter. Protests in favour of
 freedom were occasionally raised, not always in a very wise manner, or
@@ -397,7 +397,7 @@ representations of his bitter opponent Epiphanius (_Haer._ 75, "Adv.
 Aerium"), seem on this head at least, though unpopular, to have been
 characterized by great wisdom and sobriety. He did not condemn fasting
 altogether, but thought that it ought to be resorted to in the spirit of
-gospel freedom according as each occasion should arise. He found fault
+gospel freedom according as each occasion should arise. He found [[Fault|fault]]
 with the church for having substituted for Christian liberty a yoke of
 Jewish bondage.[19]
 
@@ -409,8 +409,8 @@ Alexandria the quadragesimal fast lasted six weeks. Others (the
 Constantinopolitans) began their fasts seven weeks before Easter, but
 fasted only on alternate weeks, five days at a time. Corresponding
 differences as to the manner of abstinence occurred. Some abstained from
-all living creatures; others ate fish; others fish and fowl. Some
-abstained from eggs and fruit; some confined themselves to bread; some
+all living creatures; others [[Ate|ate]] fish; others fish and fowl. Some
+abstained from [[Egg|eggs]] and fruit; some confined themselves to bread; some
 would not take even that. Some fasted till three in the afternoon, and
 then took whatever they pleased. "Other nations," adds the historian,
 "observe other customs in their fasts, and that for various reasons. And
@@ -435,8 +435,8 @@ Saxony, which attaches the penalty of death to wanton disregard of the
 holy season.[20] Baronius mentions that in the 11th century those who
 ate flesh during Lent were liable to have their teeth knocked out. But
 it ought to be remembered that this severity of the law early began to
-be tempered by the power to grant dispensations. The so-called Butter
-Towers (_Tours de beurre_) of Rouen, 1485-1507, Bourges and other
+be tempered by the power to grant [[Dispensation|dispensations]]. The so-called [[Butter]]
+Towers (_Tours de beurre_) of Rouen, 1485-1507, [[Bourges]] and other
 cities, are said to have been built with money raised by sale of
 dispensations to eat _lacticinia_ on fast days.
 
@@ -450,7 +450,7 @@ laws of that church ([Greek: ennea parangelmata tes ekklesias]) two are
 concerned with fasting. Besides fasts of an occasional and extraordinary
 nature, the following are recognized as of stated and universal
 obligation:--(1) The Wednesday and Friday fasts throughout the year
-(with the exception of the period between Christmas and Epiphany, the
+(with the exception of the period between [[Christmas]] and Epiphany, the
 Easter week, the week after Whitsunday, the third week after Epiphany);
 (2) The great yearly fasts, viz. that of Lent, lasting 48 days, from the
 Monday of Sexagesima to Easter eve; that of Advent, 39 days, from
@@ -485,26 +485,26 @@ subject of fasting. The faithful were simply enjoined to submit
 themselves to church authority on the subject; and the clergy were
 exhorted to urge their flocks to the observance of frequent jejunia, as
 conducive to the mortification of the flesh, and as assuredly securing
-the divine favour. R.F.R. Bellarmine (_De jejunio_) distinguishes
+the divine favour. R.F.R. [[Bellarmine]] (_De jejunio_) distinguishes
 _jejunium spirituale_ (_abstinentia a vitiis_), _jejunium morale_
 (_parsimonia et temperantia cibi et potus_), _jejunium naturale_
 (_abstinentia ab omni prorsus cibo et potu, quacunque ratione sumpto_),
 and _jejunium ecclesiasticum_. The last he defines simply as an
 abstinence from food in conformity with the rule of the church. It may
 be either voluntary or compulsory; and compulsory either because of a
-vow or because of a command. But the definition given by Alexander
+vow or because of a command. But the [[Definition|definition]] given by Alexander
 Halensis, which is much fuller, still retains its authority:--"Jejunium
 est abstinentia a cibo et potu secundum formam ecclesiae, intuitu
 satisfaciendi pro peccato et acquirendi vitam aeternam." It was to this
 last clause that the Reformers most seriously objected. They did not
 deny that fasting might be a good thing, nor did they maintain that the
 church or the authority might not ordain fasts, though they deprecated
-the imposition of needless burdens on the conscience. What they
+the imposition of needless [[Burden|burdens]] on the conscience. What they
 protested against was the theory of the opus operatum et meritorium as
 applied to fasting. As matter of fact, the Reformed churches in no case
 gave up the custom of observing fast days, though by some churches the
 number of such days was greatly reduced. In many parts of Germany the
-seasons of Lent and Advent are still marked by the use of emblems of
+seasons of Lent and Advent are still marked by the use of [[Emblem|emblems]] of
 mourning in the churches, by the frequency of certain phrases (Kyrie
 eleison, Agnus Dei) and the absence of others (Hallelujah, Gloria in
 excelsis) in the liturgical services, by abstinence from some of the
@@ -515,7 +515,7 @@ to contend with some who, while approving of fastings undertaken "of
 men's own free and voluntary accord as their particular devotion doth
 move them thereunto," yet "yearly or weekly fasts such as ours in the
 Church of England they allow no further than as the temporal state of
-the land doth require the same for the maintenance of seafaring men and
+the land doth require the same for the [[Maintenance|maintenance]] of seafaring men and
 preservation of cattle; because the decay of the one and the waste of
 the other could not well be prevented but by a politic order appointing
 some such usual change of diet as ours is."
@@ -536,7 +536,7 @@ Ember days, the Rogation days, and all the Fridays in the year, except
 Christmas day. The evens or vigils before Christmas, the Purification of
 the Blessed Virgin Mary, the Annunciation of the Blessed Virgin Mary,
 Easter day, Ascension day, Pentecost, St Matthias, the Nativity of St
-John Baptist, St Peter, St James, St Bartholomew, St Matthew, St Simon
+John Baptist, St Peter, St James, St Bartholomew, St [[Matthew]], St Simon
 and St Jude, St Andrew, St Thomas, and All Saints are also recognized as
 "fast days." By the 64th canon it is enacted that "every parson, vicar
 or curate, shall in his several charge declare to the people every
@@ -578,7 +578,7 @@ however, habitual temperance will generally be found to be much more
 beneficial than occasional fasting. It is extremely questionable, in
 particular, whether fasting be so efficient as it is sometimes supposed
 to be in protecting against temptation to fleshly sin. The practice has
-a well-ascertained tendency to excite the imagination; and in so far as
+a well-ascertained tendency to excite the [[Imagination|imagination]]; and in so far as
 it disturbs that healthy and well-balanced interaction of body and mind
 which is the best or at least the normal condition for the practice of
 virtue, it is to be deprecated rather than encouraged (_Theologische
@@ -610,7 +610,7 @@ the plain of Karbala." It is the practice of many Moslems to fast on
 this day, and some do so on the preceding day also. Mahomet himself
 called fasting the "gate of religion," and forbade it only on the two
 great festivals, namely, on that which immediately follows Ramadan and
-on that which succeeds the pilgrimage. (See Lane, _Modern Egyptians_,
+on that which succeeds the pilgrimage. (See [[Lane]], _Modern Egyptians_,
 chaps, iii., xxiv.)
 
 
@@ -634,7 +634,7 @@ FOOTNOTES:
     frequently given as another, but hardly correctly. In the Liber
     _Sad-der_, indeed (Porta xxv.), we read, "Cavendum est tibi a
     jejunio; nam a mane ad vesperam nihil comedere non est bonum in
-    religione nostra"; but according to the Pere de Chinon (Lyons, 1671)
+    religione nostra"; but according to the Pere de [[Chinon]] ([[Lyons]], 1671)
     the Parsee religion enjoins, upon the priesthood at least, no fewer
     than five yearly fasts. See Hyde, _Veterum Persarum religio_, pp.
     449, 548 (ed. 1700).
@@ -644,7 +644,7 @@ FOOTNOTES:
     Tertullian, who says: "Acceperat Adam a Deo legem non gustandi de
     arbore agnitionis boni et mali, moriturus si gustasset; verum et ipse
     tunc in psychicum reversus ... facilius ventri quam Deo cessit,
-    pabulo potius quam praecepto annuit, salutem gula vendidit,
+    pabulo potius quam praecepto annuit, salutem [[Gula|gula]] vendidit,
     manducavit denique et periit, salvus alioquin si uni arbusculae
     jejunare maluisset" (_De jejuniis_, c. 3).
 
@@ -668,14 +668,14 @@ FOOTNOTES:
 
   [10] See Judith viii. 6. "And yet it may be a question whether they
     (the Jews) did not always fast upon Sabbath," says Hooker (_E.P._ v.
-    72, 7), who gives a curious array of evidence pointing in this
+    72, 7), who gives a curious [[Array|array]] of evidence pointing in this
     direction. He even makes use of Neh. viii. 9-12, which might be
     thought to tell the other way. Justinian's phrase, "Sabbata Judaeorum
     a Mose in omne aevum jejunio dicata" (l. xxxvi. c. 2; comp.
     Suetonius, _Augustus_, 76) may be accounted for by the fact that the
     day of atonement is called Sabbat Sabbaton ("a perfect Sabbath").
 
-  [11] There is, as Graf (_Gesch. Bucher des A.T._ p. 41) has pointed
+  [11] There is, as Graf (_Gesch. [[Bucher]] des A.T._ p. 41) has pointed
     out, no direct evidence that the fast on the 10th of the 7th month
     was ever observed before the exile. But the inference which he draws
     from this silence of the historical books is manifestly a precarious

@@ -4,7 +4,7 @@ INCOME TAX, in the United Kingdom a general tax on income derived from
 every source. Although a graduated tax on income from certain fixed
 sources was levied in 1435 and again in 1450, it may be said that the
 income tax in its present form dates in England from its introduction by
-W. Pitt in 1798 "granting to His Majesty an aid and contribution for the
+W. Pitt in 1798 "granting to His [[Majesty]] an aid and contribution for the
 prosecution of the war." This act of 1798 merely increased the duties of
 certain assessed taxes, which were regulated by the amount of income of
 the person assessed, provided his income amounted to £60 or upwards.
@@ -23,12 +23,12 @@ development of income tax and the ease with which it is collected. The
 act of 1803 (43 Geo. III. c. 122) distributed the various descriptions
 of income under different schedules, known as A, B, C, D and E. A rate
 of 5% was imposed on all incomes of £150 a year and over, with
-graduation on incomes between £60 and £150. This income tax of 5%
+[[Graduation|graduation]] on incomes between £60 and £150. This income tax of 5%
 collected at the source yielded almost as much as the previous tax of
 10% collected direct from each taxpayer. The tax was continued from year
 to year with the principle unchanged but with variations in the rate
 until the close of the war in 1815, when it was repealed. It was, during
-its first imposition, regarded as essentially a war tax, and in later
+its first [[Imposition|imposition]], regarded as essentially a war tax, and in later
 days, when it was reimposed, it was always considered as an emergency
 tax, to be levied only to relieve considerable financial strain, but it
 has now taken its place as a permanent source of national income, and is
@@ -47,7 +47,7 @@ found in the Finance Acts of 1894, 1897, 1898, 1907 and 1909-1910.
   between £160 and £400; of £150 on those between £400 and £500; of £120
   on those between £500 and £600, and of £70 on those between £600 and
   £700. An abatement was also allowed on account of any premiums paid
-  for life insurance, provided they did not exceed one-sixth of the
+  for life [[Insurance|insurance]], provided they did not exceed one-sixth of the
   total income. The limit of total exemption was fixed in 1894, when it
   was raised from £150; and the scale of abatements was revised in 1898
   by admitting incomes between £500 and £700; the Finance Act 1907
@@ -57,7 +57,7 @@ found in the Finance Acts of 1894, 1897, 1898, 1907 and 1909-1910.
   mentioned above, under five different schedules, known as A, B, C, D
   and E. Under schedule A was charged the income derived from landed
   property, including houses, the annual value or rent being the basis
-  of the assessment. The owner is the person taxed, whether he is or is
+  of the [[Assessment|assessment]]. The owner is the person taxed, whether he is or is
   not in occupation. In England the tax under this schedule is obtained
   from the occupier, who, if he is not the owner, recovers from the
   latter by deducting the tax from the rent. In Scotland this tax is
@@ -72,8 +72,8 @@ found in the Finance Acts of 1894, 1897, 1898, 1907 and 1909-1910.
   which they belong. Under schedule B were charged the profits arising
   from the occupation of land, the amount of such profits being assumed
   to be one-third of the annual value of the land as fixed for the
-  purposes of schedule A. This applies principally to farmers who might,
-  if they chose, be assessed on schedule D on their actual profits.
+  purposes of schedule A. This applies principally to [[Farmer|farmers]] who might,
+  if they [[Chose|chose]], be assessed on schedule D on their actual profits.
   Schedule C included income derived from interest, &c., payable out of
   the public funds of the United Kingdom or any other country. Schedule
   D, the most important branch of the income tax and the most difficult
@@ -88,7 +88,7 @@ found in the Finance Acts of 1894, 1897, 1898, 1907 and 1909-1910.
   Commissioners of Taxes. They are appointed by the Land Tax
   Commissioners out of their own body, and, as regards assessment, are
   not in any way controlled by the executive government. They appoint a
-  clerk, who is their principal officer and legal adviser, assessors for
+  clerk, who is their principal officer and legal adviser, [[Assessor|assessors]] for
   each parish and collectors. There is an appeal from their decisions to
   the High Court of Justice on points of law, but not on questions of
   fact. Assessments under schedules A and B are usually made every five
@@ -137,10 +137,10 @@ their _Report_ (365 of 1906) was:--
   exceeded by raising the amount of income on which an abatement would
   be allowed to £1000 or even more.
 
-  2. Graduation by a super-tax is practicable. If it be desired to levy
+  2. Graduation by a super-tax is practicable. If it be desired to [[Levy|levy]]
   a much higher rate of tax upon large incomes (say of £5000 and
   upwards) than has hitherto been charged, a super-tax based on personal
-  declaration would be a practicable method.
+  [[Declaration|declaration]] would be a practicable method.
 
   3. Abandonment of the system of "collection at the source" and
   adoption of the principle of direct personal assessment of the whole
@@ -153,7 +153,7 @@ their _Report_ (365 of 1906) was:--
 
   5. A compulsory personal declaration from each individual of total net
   income in respect of which tax is payable is expedient, and would do
-  much to prevent the evasion and avoidance of income tax which at
+  much to prevent the evasion and [[Avoidance|avoidance]] of income tax which at
   present prevail.
 
 Acting upon the report of this committee the Finance Bill of 1909 was
@@ -185,9 +185,9 @@ in other countries:--[2]
   _Austria._--The income tax dates from 1849, but the existing tax,
   which is arranged on a progressive system, came into force on the 1st
   of January 1898. The tax is levied on net income, deductions from the
-  gross income being allowed for upkeep of business, houses and lands,
+  [[Gross|gross]] income being allowed for upkeep of business, houses and lands,
   for premiums paid for insurance against injuries, for interest on
-  business and private debts, and for payment of taxes other than income
+  business and private [[Debt|debts]], and for payment of taxes other than income
   tax. Incomes under £50 a year are exempt, the rate of taxation at the
   first stage (£52) being 0.6 of the income; at the twelfth stage (£100)
   the rate is 1%, at the twenty-seventh stage (£300) it rises to 2%, at
@@ -198,14 +198,14 @@ in other countries:--[2]
   incomes over £8750 are taxed £20, 6s. 8d. at each successive stage of
   £417, 10s. Certain persons are exempt from the tax, viz.:--(a) the
   emperor; (b) members of the imperial family, as far as regards such
-  sums as they receive as allowances; (c) the diplomatic corps, the
+  sums as they receive as allowances; (c) the diplomatic [[Corps|corps]], the
   consular corps who are not Austrian citizens, and the official staffs
   and foreign servants of the embassies, legations and consulates; (d)
   such people as are exempted by treaty or by the law of nations; (e)
-  people in possession of pensions from the Order of Maria Theresa, and
+  people in possession of pensions from the Order of [[Maria Theresa]], and
   those who receive pensions on account of wounds or the pension
   attached to the medal for bravery, are exempted as far as the pensions
-  are concerned; (f) officers, chaplains and men of the army and navy
+  are concerned; (f) officers, [[Chaplain|chaplains]] and men of the army and navy
   have no tax levied on their pay; (g) all other military persons, and
   such people as are included in the scheme of mobilization are exempted
   from any tax on their pay. Special allowances are made for incomes
@@ -215,7 +215,7 @@ in other countries:--[2]
   viz.--(a) special charges for educating children who may be blind,
   deaf, dumb or crippled; (b) expense in maintaining poor relations; (c)
   perpetual illness; (d) debts; (e) special misfortunes caused by fire
-  or floods; (f) being called out for military service. The tax is
+  or [[Flood|floods]]; (f) being called out for military service. The tax is
   assessed usually on a direct return from the individual taxpayer,
   except in the cases of fixed salaries and wages, on which the tax is
   collected from the employer, who either deducts it from the salary of
@@ -224,10 +224,10 @@ in other countries:--[2]
   collector's office in two instalments--one on the 1st of June and the
   other on the 1st of December.
 
-  _Belgium._--No income tax proper exists in Belgium, but there is a
+  _[[Belgium]]._--No income tax proper exists in Belgium, but there is a
   state tax of 2% on the dividends of joint stock companies.
 
-  _Denmark._--Income tax is levied under a law of the 15th of May 1903.
+  _[[Denmark]]._--Income tax is levied under a law of the 15th of May 1903.
   Incomes under 2000 kroner pay a tax of 1.3%; under 3000 kroner, 1.4%;
   under 4000 kroner, 1.5%; under 6000 kroner, 1.6%; under 8000 kroner,
   1.7%; under 10,000 kroner, 1.8%; under 15,000 kroner, 1.9%; under
@@ -236,7 +236,7 @@ in other countries:--[2]
   Exempt from the duty are--the king, members of the royal family and
   the civil list; the legations, staffs and consular officers of foreign
   powers (not being Danish subjects); foreigners temporarily resident in
-  the country; mortgage societies, credit institutions, savings and loan
+  the country; mortgage societies, [[Credit|credit]] institutions, savings and loan
   banks. The increase in capital resulting from an increase in value of
   properties is not deemed income--on the other hand no deduction in
   income is made if such properties decrease in value--nor are daily
@@ -245,9 +245,9 @@ in other countries:--[2]
   reside outside his own parish. Certain deductions can be made in
   calculating income--such as working expenses, office expenses,
   pensions and other burthens, amounts paid for direct taxation, dues to
-  commune and church, tithe, tenant and farming charges, heirs'
+  [[Commune|commune]] and church, tithe, tenant and farming charges, heirs'
   allowances and similar burthens; interest on mortgages and other
-  debts, and what has been spent for necessary maintenance or insurance
+  debts, and what has been spent for necessary [[Maintenance|maintenance]] or insurance
   of the property of the taxpayer. There are also certain exemptions
   with respect to companies not having an establishment in the country.
 
@@ -296,7 +296,7 @@ in other countries:--[2]
   profits (all of which are reckoned as increases of capital); (c)
   expenses incurred for the purpose of acquiring, assuring and
   maintaining income; (d) interest on debts; (e) the regular annual
-  depreciation arising from wear of buildings, machines, tools, &c., in
+  depreciation arising from wear of buildings, [[Machine|machines]], tools, &c., in
   so far as they are not included under working expenses; (f) the
   contributions which taxpayers are compelled by law or agreement to pay
   to invalid, accident, old age insurance, widow, orphan and pension
@@ -328,7 +328,7 @@ in other countries:--[2]
   reduce the income by more than one class. In the case of persons with
   incomes not exceeding £290 abatement (not exceeding three classes) is
   allowed--(a) when the support of children or indigent relations
-  involves a burden of such a nature as to affect the general standard
+  involves a [[Burden|burden]] of such a nature as to affect the general standard
   of living; (b) on account of long-continued illness, involving heavy
   expense; and, on restoration to health, temporary decrease of
   wage-earning power; (c) in the case of accidents which have had the
@@ -394,7 +394,7 @@ in other countries:--[2]
   pay the full tax of 20%. In class A² are placed incomes derived from
   capital alone and all perpetual revenues. The assessments on these are
   reduced to 30/40ths of the actual income and taxed at a rate of 15%.
-  In class B are incomes derived from the co-operation of labour and
+  In class B are incomes derived from the [[Co-Operation|co-operation]] of labour and
   capital, i.e. those produced by industries and commerce. The
   assessments of these are reduced to 20/40ths and taxed at 10%. In
   class C are placed incomes derived from labour alone (private
@@ -472,7 +472,7 @@ in other countries:--[2]
   (4) a uniform rate of tax, with progression in the amount of income
   liable to taxation.
 
-  _United States._--One of the means adopted by the Federal Government
+  _United States._--One of the means adopted by the [[Federal Government]]
   for meeting its expenses during the Civil War was the levying of an
   income tax. By the Act of Congress of the 5th of August 1861 a tax of
   3% was imposed on all incomes, with an exemption of $800, and was made
@@ -509,7 +509,7 @@ in other countries:--[2]
   necessary two-thirds majority a resolution to submit the proposal to
   the 46 states, the wording of the amendment being "That Congress shall
   have power to lay and collect taxes on incomes from whatever source
-  derived, without apportionment among the several States, and without
+  derived, without [[Apportionment|apportionment]] among the several States, and without
   regard to any census enumeration."
 
   _Cape Colony._--Cape Colony was the only South African colony which,
@@ -525,7 +525,7 @@ in other countries:--[2]
 
   _New South Wales._--Income tax in New South Wales first came into
   operation on the 1st of January 1896. It is complementary with a land
-  tax, assessed on the unimproved value of freehold lands (with certain
+  tax, assessed on the unimproved value of [[Freehold|freehold]] lands (with certain
   exemptions and deductions). Incomes of £200 per annum and under are
   exempt, and all other incomes (except those of companies) are entitled
   to a reduction of £200 in their assessments. The rate of tax is 6d. in
@@ -562,7 +562,7 @@ in other countries:--[2]
   pay 8d. in every pound; 1s. in every pound is charged on the incomes
   of all companies and of all absentees.
 
-  _South Australia._--The income tax dates from 1884 and is levied on
+  _South [[Australia]]._--The income tax dates from 1884 and is levied on
   all incomes arising, accruing in or derived from South Australia,
   except municipal corporations, district councils, societies, &c., not
   carrying on business for the purpose ot gain, and all friendly

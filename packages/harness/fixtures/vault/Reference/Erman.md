@@ -22,10 +22,10 @@ on the 12th of May 1806, and after studying natural science at Berlin
 and Konigsberg, spent from 1828 to 1830 in a journey round the world, an
 account of which he published in _Reise um die Erde durch Nordasien und
 die beiden Ozeane_ (1833-1848). The magnetic observations he made during
-his travels were utilized by C.F. Gauss in his theory of terrestrial
+his travels were utilized by C.F. [[Gauss]] in his theory of terrestrial
 magnetism. He was appointed professor of physics at Berlin in 1839, and
 died there on the 12th of July 1877. From 1841 to 1865 he edited the
-_Archiv fur wissenschaftliche Kunde von Russland_, and in 1874 he
+_Archiv [[Fur|fur]] wissenschaftliche Kunde von Russland_, and in 1874 he
 published, with H.J.R. Petersen, _Die Grundlagen der Gauss'schen Theorie
 und die Erscheinungen des Erdmagnetismus im Jahre 1829_.
 

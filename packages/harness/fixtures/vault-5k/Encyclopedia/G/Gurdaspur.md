@@ -13,7 +13,7 @@ and the river Beas, on the S.W. by Amritsar district, and on the W. by
 Sialkot, and occupies the submontane portion of the Bari Doab, or tract
 between the Beas and the Ravi. An intrusive spur of the British
 dominions runs northward into the lower Himalayan ranges, to include the
-mountain sanatorium of Dalhousie, 7687 ft. above sea-level. This
+mountain sanatorium of [[Dalhousie]], 7687 ft. above sea-level. This
 station, which has a large fluctuating population during the warmer
 months, crowns the most westerly shoulder of a magnificent snowy range,
 the Dhaoladhar, between which and the plain two minor ranges intervene.

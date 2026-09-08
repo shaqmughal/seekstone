@@ -28,7 +28,7 @@ fleur-de-lys, the rosette, and other motives of detached ornament were
 much used before attempts were made to elaborate a homogeneous design,
 but by the middle of the 17th century firebacks of a very elaborate type
 were being produced. Thus we have representations of the Crucifixion,
-the death of Jacob, Hercules slaying the hydra, and the plague of
+the death of [[Jacob]], [[Hercules]] slaying the hydra, and the plague of
 serpents. Coats of arms were very frequent, the royal achievement being
 used extensively--many existing firebacks bear the arms of the Stuarts.
 About the time of Elizabeth the coats of private families began to be
@@ -36,7 +36,7 @@ used, the earliest instances remaining bearing those of the Sackvilles,
 who were lords of a large portion of the forest of Anderida, which
 furnished the charcoal for the smelting operations in our ancient
 iron-fields. To the armorial shields the date was often added, together
-with the initials of the owner. The method of casting firebacks was to
+with the [[Initials|initials]] of the owner. The method of casting firebacks was to
 cut the design upon a thick slab of oak which was impressed face
 downwards upon a bed of sand, the molten metal being ladled into the
 impression. Firebacks were also common in the Netherlands and in parts

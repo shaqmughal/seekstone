@@ -11,20 +11,20 @@ MAS'UDI (ABU-L HASAN 'ALI IBN HUSAIN IBN 'ALI UL-MAS'UDI) (d. c. 956),
 Arabian historian, was born at Bagdad towards the close of the 9th
 century. Much of his life was spent in travel. After he had been in
 Persia and Kerman, he visited Istakhr in 915, and went in the following
-year to Multan and Mansura, thence to Cambay, Saimur and Ceylon, to
-Madagascar and back to Oman. He seems about this time to have been as
-far as China. After a visit to the shores of the Caspian Sea he visited
+year to Multan and [[Mansura]], thence to [[Cambay]], Saimur and Ceylon, to
+[[Madagascar]] and back to Oman. He seems about this time to have been as
+far as China. After a visit to the shores of the [[Caspian Sea]] he visited
 Tiberias in Palestine, examined the Christian church there, and
 described its relics. In 943 he was in Antioch, studying the ruins, and
-two years later in Damascus. The last ten years of his life he spent in
+two years later in [[Damascus]]. The last ten years of his life he spent in
 Syria and Egypt. His great object in life had been to study with his own
 eyes the peculiarities of every land and to collect whatever was of
-interest for archaeology, history and manners. Himself a Mo'tazilite
+interest for [[Archaeology|archaeology]], history and [[Manners|manners]]. Himself a Mo'tazilite
 (see MAHOMMEDAN RELIGION: _Sects_), he was singularly free from bigotry,
 and took his information, when necessary, from Persians, Jews, Indians,
 and even the chronicle of a Christian bishop.
 
-  His most extensive work was the _Kitab akhbar uz-Zaman_ or _Annals_,
+  His most extensive work was the _Kitab akhbar uz-Zaman_ or _[[Annals]]_,
   in 30 volumes with a supplement, _the Kitab ul-Ausat_, a chronological
   sketch of general history. Of these the first part only of the former
   is extant in MS. in Vienna, while the latter seems to be in the

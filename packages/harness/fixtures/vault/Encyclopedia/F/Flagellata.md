@@ -13,9 +13,9 @@ FLAGELLATA, the name given to the Protozoa whose dominant phase is a
 actively vibratile, cytoplasmic processes. Nutrition is variable:--(1)
 "Holozoic"; food taken in by ingestion, by amoeboid action either
 unspecialized or at one or more well-defined oral spots, or through an
-aperture (mouth); (2) "Saprophytic"; food taken in in solution through
+[[Aperture|aperture]] (mouth); (2) "Saprophytic"; food taken in in solution through
 the general surface of the body; (3) "Holophytic"; food-material formed
-in the coloured plasm by fixation of carbon from the medium, with
+in the coloured plasm by fixation of [[Carbon|carbon]] from the medium, with
 liberation of oxygen, in presence of light, as in green plants. Fission
 in the "active" state occurs and is usually longitudinal. Multiple
 fission rarely occurs save in a sporocyst, and produces microzoospores,
@@ -23,7 +23,7 @@ which in some cases may conjugate with others as isogametes or with
 larger forms (megagametes). "Hypnocysts" to tide over unfavourable
 conditions are not infrequent, but have no necessary relation to
 reproduction. Many have a firm pellicle which may form a hard shell:
-again a distinct cell-wall of chitin or cellulose may be formed:
+again a distinct cell-wall of chitin or [[Cellulose|cellulose]] may be formed:
 finally, an open cup, "theca," of firm or gelatinous material may be
 present, with or without a stalk: such a cup and stalk are often found
 in colonial species, and are subject to much the same conditions as in
@@ -137,8 +137,8 @@ relation with the motile apparatus; the former is termed the
   the blood of _Rana esculenta_.
       a = nucleus; × 500.
 
-  23-26. Reproduction of _Bodo caudatus_, Duj. (_Bodonidae_), after
-  Dallinger and Drysdale:--23, fusion of several individuals
+  23-26. Reproduction of _[[Bodo]] caudatus_, Duj. (_Bodonidae_), after
+  Dallinger and Drysdale:--23, [[Fusion|fusion]] of several individuals
   (plasmodium);
 
   24, encysted fusion-product dividing into four; 25, later into eight;
@@ -212,7 +212,7 @@ The Flagellata are for the most part very minute; the Protomastigopoda
 rarely exceeding 20 µ in length. The Euglenaceae contain the largest
 species, up to 130 µ in length, exclusive of the flagellum.
 
-Our classification is modified from those of Senn (in Engler and Prantl,
+Our [[Classification|classification]] is modified from those of Senn (in Engler and Prantl,
 _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
 
 
@@ -264,7 +264,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
       form floating colonies.
 
       (b) Forms enclosed in a vase-like shell: _Salpingoeca_ (J.-Cl.);
-      (Fig. 2, 1, 6, 7) recalling the habit of _Monosiga_ and _Cod
+      (Fig. 2, 1, 6, 7) recalling the habit of _Monosiga_ and _[[Cod]]
       siga_; _Polyoeca_ forming a branched free swimming colony.
 
       (c) Forms surrounded by a gelatinous sheath: _Proterospongia_
@@ -390,7 +390,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
 
     Family 10.--TRICHONYMPHIDAE. Flagella numerous, sometimes
     accompanied by one or more undulating membranes; cytoplasm highly
-    differentiated; contractile vacuole absent; all parasitic in insects
+    differentiated; contractile vacuole absent; all parasitic in [[Insect|insects]]
     (all except _Lophomonas_ in Termites--the so-called White Ants.)
 
     _Lophomonas_(St.) (Fig. 2, 9); parasitic in the cockroach;
@@ -402,7 +402,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
     numerous, uniform.
 
     Only genus, _Opalina_ (Purkinje and Valentin) (Fig. 3, 2-6), in
-    bladder and cloaca of the frog (usually regarded as an aberrant
+    [[Bladder|bladder]] and [[Cloaca|cloaca]] of the frog (usually regarded as an aberrant
     ciliate, but E.R. Lankester expressed doubts as to its position in
     the 9th edition of this encyclopaedia).
 
@@ -420,7 +420,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
     (Ehrb.) (Fig. 1, 8, 15); _Stylochrysalis_ (St.); _Uroglena_ (Ehrb.);
     _Syncrypta_ (Ehrb.), and _Synura_ (Ehrb.) (Fig. 1, 5) form floating
     spherical colonies; _Zooxanthella_ (Brandt), symbiotic as "yellow
-    cells" in Radiolaria _Foraminifera_, _Millepora_, and many
+    cells" in Radiolaria _[[Foraminifera]]_, _Millepora_, and many
     Actinozoa.
 
     Family 2.--COCCOLITHOPHORIDAE. Body invested in a spherical test
@@ -464,7 +464,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
     with flexible cuticle and metabolic movements (this is probably
     Priestley's "green matter" through which he obtained oxygen gas)--a
     very common genus; _Colacium_ (Ehbg.), in its resting state epizoic
-    on Copepoda, which it colours green; _Eutreptia_ (Perty),
+    on Copepoda, which it [[Colours|colours]] green; _Eutreptia_ (Perty),
     biflagellate; _Ascoglena_ (St.); _Trachelomonas_ (Ehrb.), with a
     hard brown cuticle; _Phacus_ (Nitszche), with a firm rigid pellicle,
     often symmetrically flattened; _Cryptoglena_ (Ehbg.). (2)
@@ -507,7 +507,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
   _Chlorogonium_ (Ehr.) (Fig. 1, 6, 7); _Polytoma_ (Ehr.) (Fig. 2, 8);
   _Chlamydomonas_ (Ehr.) (Fig. 1, 1, 2, 3); _Haematococcus_ (Agardh) (=
   _Chlamydococcus_, A. Braun, Stein); _Protococcus_ (Conn, Huxley and
-  Martin); _Chlamydomonas_ (Cienkowski), causes red snow and "bloody
+  [[Martin]]); _Chlamydomonas_ (Cienkowski), causes red snow and "bloody
   rain"; _Carteria_ (Diesing), quadri-flagellate; _Spondytomorum_
   (Ehrb.), forming floating colonies; _Coccomonas_ (St.); _Phacotus_
   (Perty); _Zoochlorella_ (Brandt), is the name given to undetermined
@@ -527,7 +527,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
     colonies takes place, without or with a differentiation of the
     colonies and of the copulating cells as male and female. The result
     of the copulation is a resting zygospore (also called zygote or
-    oospermo or fertilized egg), which after a time develops itself into
+    oospermo or fertilized [[Egg|egg]]), which after a time develops itself into
     one or more new colonies.
 
   Genera.--_Gonium_ (O.F. Müller) (Fig. 1, 14); _Stephanosphaera_
@@ -553,10 +553,10 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
   colony as a multicellular individual, we may consider these cells as
   testis-cells and their microgametes as spermatozoa.
 
-  CYSTOFLAGELLATA(RHYNCHOFLAGELLATA of E.R. Lankester) and
-  DINOFLAGELLATA are scarcely more than subdivisions of Flagellata; but,
+  [[Cystoflagellata|CYSTOFLAGELLATA]](RHYNCHOFLAGELLATA of E.R. Lankester) and
+  [[Dinoflagellata|DINOFLAGELLATA]] are scarcely more than subdivisions of Flagellata; but,
   following O. Bütschli, we describe them separately; the three groups
-  being united into his MASTIGOPHORA.
+  being united into his [[Mastigophora|MASTIGOPHORA]].
 
   _Further Remarks on the Flagellates._--Besides the work of special
   Protozoologists, such as F. Cienkowski, O. Bütschli, F. v. Stein, F.
@@ -580,7 +580,7 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
   growth constant (_Conferva_ type), or to a plate of tissue when the
   directions alternate in a plane. The same holds good for the
   Chrysomonadaceae and Cryptomonadaceae, so that these little groups are
-  included in all text-books of botany. Again among Fungi, the zoospores
+  included in all text-books of botany. Again among [[Fungi]], the zoospores
   of the Zoosporous Phycomycetes (Chytrydiaceae, Peronosporaceae,
   Saprolegniaceae) have the characters of the _Bodonidae_. Thus in two
   directions the Flagellates lead up to undoubted Plants. Probably also
@@ -598,23 +598,23 @@ _Pflanzenfamilien_) and Hartog (in _Cambridge Natural History_).
   which all functions are put to sleep, is here only a rest from active
   locomotion, nutrition being only limited by the supply of nutritive
   matter from without, and--in the case of holophytic species--by the
-  illumination: this latter condition naturally limits the possible
+  [[Illumination|illumination]]: this latter condition naturally limits the possible
   growth in thickness in holophytes with undifferentiated tissues. The
   same considerations apply indeed to the larger parasitic organisms
-  among Sporozoa, such as Gregarines and Myxosporidia and
-  Dolichosporidia, which are giants among Protozoa.
+  among Sporozoa, such as [[Gregarines]] and Myxosporidia and
+  Dolichosporidia, which are [[Giant|giants]] among Protozoa.
 
-  LITERATURE.--W.S. Kent, _Manual of the Infusoria_, vol. i. Protozoa
+  LITERATURE.--W.S. Kent, _[[Manual]] of the Infusoria_, vol. i. Protozoa
   (1880-1882); O. Bütschli, _Die Flagellaten_ (in Bronn's _Thierreich_,
   vol. i. Protozoa, 1885); these two works contain full bibliographies
   of the antecedent authors. See also J. Goroschankin (on
-  Chlamydomonads) in _Bull. Soc. Nat._ (Moscow, iv. v., 1890-1891); G.
+  Chlamydomonads) in _[[Bull]]. Soc. Nat._ (Moscow, iv. v., 1890-1891); G.
   Klebs, "Flagellatenstudien" in _Zeitsch. Wiss. Zool._ lv. (1892);
   Doflein, _Protozoen als Krankheitserreger_ (1900); Senn,
   "Flagellaten," in Engler and Prantl's _Pflanzenfamilien_, 1 Teil, Abt.
-  1a (1900); R. Francé, _Der Organismus der Craspedomonaden_ (1897);
+  1a (1900); R. [[Franc]]é, _Der Organismus der Craspedomonaden_ (1897);
   Grassi and Sandias, "Trichonymphidae," in _Quart. J. Micr. Sci._
-  xxxix.-xl. (1897); Bezzenberger, "Opa inidae" in _Arch. Protist_, iii.
+  xxxix.-xl. (1897); Bezzenberger, "Opa inidae" in _[[Arch]]. Protist_, iii.
   (1903); Marcus Hartog, "Protozoa," in _Cambridge Nat. Hist._ vol. i.
   (1906).     (M. Ha.)
 

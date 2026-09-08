@@ -7,10 +7,10 @@ topic: history
 # Madoz
 
 MADOZ, PASCUAL (1806-1870), Spanish statistician, was born at Pampeluna
-on the 7th of May 1806. In early life he was settled in Barcelona, as a
+on the 7th of May 1806. In early life he was settled in [[Barcelona]], as a
 writer and journalist. He joined the Progresista party formed during the
 first Carlist war, 1833-40. He saw some service against the Carlists;
-was elected deputy to the Cortes of 1836; took part for Espartero, and
+was elected [[Deputy|deputy]] to the Cortes of 1836; took part for Espartero, and
 then against him; was imprisoned in 1843; went into exile and returned;
 was governor of Barcelona in 1854, and minister of finance in 1855; had
 a large share in secularizing the Church lands; and after the revolution

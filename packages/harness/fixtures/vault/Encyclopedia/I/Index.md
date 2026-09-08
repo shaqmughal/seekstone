@@ -1,10 +1,10 @@
 # Index
 
 INDEX, a word that may be understood either specially as a table of
-references to a book or, more generally, as an indicator of the position
+references to a book or, more generally, as an [[Indicator|indicator]] of the position
 of required information on any given subject. According to classical
 usage, the Latin word _index_ denoted a discoverer, discloser or
-informer; a catalogue or list; an inscription; the title of a book; and
+informer; a [[Catalogue|catalogue]] or list; an inscription; the title of a book; and
 the fore or index-finger. Cicero also used the word to express the table
 of contents to a book, and explained his meaning by the Greek form
 _syllabus_. Shakespeare uses the word with the general meaning of a
@@ -13,7 +13,7 @@ i. 3):--
 
   "And in such indexes, although small pricks
    To their subsequent volumes, there is seen
-   The baby figure of the giant mass."
+   The baby figure of the [[Giant|giant]] mass."
 
 Table was the usual English word, and index was not thoroughly
 naturalized until the beginning of the 17th century, and even then it
@@ -25,19 +25,19 @@ we obtain an advantage not enjoyed in other languages; for the French
 _table_ is used for both kinds, as is _indice_ in Italian and Spanish.
 There is a group of words each of which has its distinct meaning but
 finds its respective place under the general heading of index work;
-these are calendar, catalogue, digest, inventory, register, summary,
+these are calendar, catalogue, [[Digest|digest]], inventory, register, summary,
 syllabus and table.[1] The value of indexes was recognized in the
 earliest times, and many old books have full and admirably constructed
 ones. A good index has sometimes kept a dull book alive by reason of the
 value or amusing character of its contents. Carlyle referred to Prynne's
 _Histrio-Mastix_ as "a book still extant, but never more to be read by
 mortal"; but the index must have given amusement to many from the
-curious character of its entries, and Attorney-General Noy particularly
+curious character of its entries, and [[Attorney-General]] Noy particularly
 alluded to it in his speech at Prynne's trial. Indexes have sometimes
 been used as vehicles of satire, and the witty Dr William King was the
 first to use them as a weapon of attack. His earliest essay in this
 field was the index added to the second edition of the Hon. Charles
-Boyle's attack upon Bentley's _Dissertation on the Epistles of Phalaris_
+Boyle's attack upon Bentley's _Dissertation on the [[Epistle|Epistles]] of Phalaris_
 (1698).
 
 To serve its purpose well, an index to a book must be compiled with
@@ -73,7 +73,7 @@ to those books which are really collections of books (such as the
 _Encyclopaedia Britannica_), to a great newspaper like the London
 _Times_, and to the cataloguing of great libraries themselves. The work
 in these more elaborate cases has been enormously facilitated by the
-modern devices by means of which separate cards are used, arranged in
+modern devices by means of which separate [[Cards|cards]] are used, arranged in
 drawers and cases, American enterprise in this direction having led the
 way. And the value of the work done in this respect by the Congressional
 Library at Washington, the British Museum and the London Library
@@ -92,7 +92,7 @@ FOOTNOTE:
     the word "Pye-Book" (which most probably comes from the Latin
     _pica_), remarks that the earliest use he had noted of pye in this
     sense is dated 1547--"a Pye of all the names of such Balives as been
-    to accompte pro anno regni regis Edwardi Sexti primo."
+    to accompte pro [[Anno|anno]] regni regis Edwardi Sexti primo."
 
 ## See also
 

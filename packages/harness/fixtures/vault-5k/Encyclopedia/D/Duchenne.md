@@ -39,7 +39,7 @@ September 1875.
 DU CHESNE [Latinized DUCHENIUS, QUERNEUS, or QUERCETANUS], ANDRÉ
 (1584-1640), French geographer and historian, generally styled the
 father of French history, was born at Ile-Bouchard, in the province of
-Touraine, in May 1584. He was educated at Loudun and afterwards at
+Touraine, in May 1584. He was educated at [[Loudun]] and afterwards at
 Paris. From his earliest years he devoted himself to historical and
 geographical research, and his first work, _Egregiarum seu selectarum
 lectionum et antiquitatum liber_, published in his eighteenth year,
@@ -49,7 +49,7 @@ influence he was appointed historiographer and geographer to the king.
 He died in 1640, in consequence of having been run over by a carriage
 when on his way from Paris to his country house at Verrière. Du Chesne's
 works were very numerous and varied, and in addition to what he
-published, he left behind him more than 100 folio volumes of manuscript
+published, he left behind him more than 100 folio volumes of [[Manuscript|manuscript]]
 extracts now preserved in the Bibliothèque Nationale (L. Delisle, _Le
 Cabinet des manuscrits de la bibliothèque impériale_, t. L, 333-334).
 Several of his larger works were continued by his only son François du

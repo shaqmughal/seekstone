@@ -10,7 +10,7 @@ timber framework in Elizabethan style, and the two parts of the town are
 united by a bridge of 24 arches, originally erected in the 14th century,
 when the revenue of certain lands was set apart for its upkeep. The
 church of St Mary, with the exception of the tower, is a modern
-reconstruction. A stone chancel screen and a Norman font are also
+reconstruction. A stone [[Chancel|chancel]] screen and a Norman font are also
 preserved. Industries include the manufacture of earthenware, leather
 goods, sails, ropes and linen, and ironfounding. The small harbour has
 about 17 ft. of water at high tide, but is dry at low tide. Anthracite
@@ -20,7 +20,7 @@ a mayor, 4 aldermen and 12 councillors. Area, 3398 acres.
   Bideford (Bedeford, Bydyford, Budeford, Bytheford) is not mentioned in
   pre-Conquest records, but according to Domesday it rendered geld for
   three hides to the king. From the time of the Conquest down to the
-  18th century, Bideford remained in the possession of the Grenville
+  18th century, Bideford remained in the possession of the [[Grenville]]
   family, and it first appears as a borough in an undated charter
   (probably of the reign of Edward I.) from Richard de Grenville,
   confirming a charter from his grandfather, Richard de Grenville,

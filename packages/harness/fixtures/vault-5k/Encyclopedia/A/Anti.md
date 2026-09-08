@@ -11,9 +11,9 @@ inhabiting the forests of the upper Ucayali basin, east of Cuzco, on the
 eastern side of the Andes, south Peru. The Antis, who gave their name to
 the eastern province of Antisuyu, have always been notorious for
 ferocity and cannibalism. They are of fine physique and generally
-good-looking. Their dress is a robe with holes for the head and arms.
+good-looking. Their [[Dress|dress]] is a robe with holes for the head and arms.
 Their long hair hangs down over the shoulders, and round their necks a
-toucan beak or a bunch of feathers is worn as an ornament.
+toucan beak or a bunch of [[Feather|feathers]] is worn as an ornament.
 
 ## See also
 

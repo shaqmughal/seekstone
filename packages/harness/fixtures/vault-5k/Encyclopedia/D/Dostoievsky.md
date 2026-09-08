@@ -11,25 +11,25 @@ id: 42-1963
 DOSTOIEVSKY, FEODOR MIKHAILOVICH (1821-1881), Russian author, born at
 Moscow, on the 30th of October 1821, was the second son of a retired
 military surgeon of a decayed noble family. He was educated at Moscow
-and at the military engineering academy at St Petersburg, which he left
+and at the military [[Engineering|engineering]] academy at St Petersburg, which he left
 in 1843 with the grade of sub-lieutenant. Next year his father died, and
 he resigned his commission in order to devote himself to
 literature--thus commencing a long struggle with ill-health and penury.
 In addition to the old Russian masters Gogol and Pushkin, Balzac and
 George Sand supplied him with literary ideals. He knew little of
-Dickens, but his first story is thoroughly Dickensian in character. The
+[[Dickens]], but his first story is thoroughly Dickensian in character. The
 hero is a Russian "Tom Pinch," who entertains a pathetic, humble
 adoration for a fair young girl, a solitary waif like himself.
 Characteristically the Russian story ends in "tender gloom." The girl
-marries a middle-aged man of property; the hero dies of a broken heart,
+[[Marri|marries]] a middle-aged man of property; the hero dies of a broken heart,
 and his funeral is described in lamentable detail. The germ of all
 Dostoievsky's imaginative work may be discovered here. The story was
-submitted in manuscript to the Russian critic, Bielinski, and excited
+submitted in [[Manuscript|manuscript]] to the Russian critic, Bielinski, and excited
 his astonishment by its power over the emotions. It appeared in the
 course of 1846 in the _Recueil de Saint-Pétersbourg_, under the title of
 "Poor People." An English version, _Poor Folk_, with an introduction by
 Mr George Moore, appeared in 1894. The successful author became a
-regular contributor of short tales to the _Annals of the Country_, a
+regular contributor of short tales to the _[[Annals]] of the Country_, a
 monthly periodical conducted by Kraevsky; but he was wretchedly paid,
 and his work, though revealing extraordinary power and intensity,
 commonly lacks both finish and proportion. Poverty and physical
@@ -37,7 +37,7 @@ suffering robbed him of the joy of life and filled him with bitter
 thoughts and morbid imaginings. During 1847 he became an enthusiastic
 member of the revolutionary reunions of the political agitator,
 Petrachevski. Many of the students and younger members did little more
-than discuss the theories of Fourier and other economists at these
+than discuss the theories of [[Fourier]] and other economists at these
 gatherings. Exaggerated reports were eventually carried to the police,
 and on the 23rd of April 1849 Dostoievsky and his brother, with thirty
 other suspected personages, were arrested. After a short examination by
@@ -48,7 +48,7 @@ condemned to death and conveyed in vans to a large scaffold in the
 Simonovsky Place. As the soldiers were preparing to carry out the
 sentence, the prisoners were informed that their penalty was commuted to
 exile in Siberia. The novelist's sentence was, four years in Siberia and
-enforced military service in the ranks for life. On Christmas eve 1849
+enforced military service in the ranks for life. On [[Christmas]] eve 1849
 he commenced the long journey to Omsk, and remained in Siberia, "like a
 man buried alive, nailed down in his coffin," for four terrible years.
 His Siberian experiences are graphically narrated in a volume to which
@@ -63,7 +63,7 @@ she died at St Petersburg in 1867 after a somewhat stormy married life.
 
 After herding for years with the worst criminals, Dostoievsky obtained
 an exceptional insight into the dark and seamy side of Russian life. He
-formed new conceptions of human life, of the balance of good and evil in
+formed new conceptions of human life, of the [[Balance|balance]] of good and evil in
 man, and of the Russian character. Psychological studies have seldom, if
 ever, found a more intense form of expression than that embodied by
 Dostoievsky in his novel called _Crime and Punishment_. The hero
@@ -121,7 +121,7 @@ visions and morbidly preoccupied by exceptional and perverted types. M.
 de Vogüé, in his admirable _Ecrivains russes_, has worked out with some
 success a parallel between the later years of Dostoievsky and those of
 Jean Jacques Rousseau. Siberia effectually convinced the novelist of the
-impotence of Nihilism in such a country as Russia; but though he was
+[[Impotence|impotence]] of Nihilism in such a country as Russia; but though he was
 assailed by ardent Liberals for the reactionary trend of his later
 writings, Dostoievsky became, towards the end of his life, an extremely
 popular figure, and his funeral, on the 12th of February 1881, was the

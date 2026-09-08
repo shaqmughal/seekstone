@@ -4,7 +4,7 @@ ARTS AND CRAFTS, a comprehensive title for the arts of decorative design
 and handicraft--all those which, in association with the mother-craft of
 building (or architecture), go to the making of the house beautiful.
 Accounts of these will be found under separate headings. "Arts and
-crafts" are also associated with the movement generally understood as
+[[Craft|crafts]]" are also associated with the movement generally understood as
 the English revival of decorative art, which began about 1875. The title
 itself only came into general use when the Arts and Crafts Exhibition
 Society was founded, and held its first exhibition at the New Gallery,
@@ -13,14 +13,14 @@ exhibitions have been common all over Great Britain. The idea of forming
 a society for the purpose of showing contemporary work in design and
 handicraft really arose out of a movement of revolt or protest against
 the exclusive view of art encouraged by the Royal Academy exhibitions,
-in which oil paintings in gilt frames claimed almost exclusive
+in which oil paintings in gilt [[Frame|frames]] claimed almost exclusive
 attention--sculpture, architecture and the arts of decorative design
 being relegated to quite subordinate positions. In 1886, out of a
 feeling of discontent among artists as to the inadequacy of the Royal
 Academy exhibitions, considered as representing the art of Great
 Britain, a demand arose for a national exhibition to include all the
 arts of design. One of the points of this demand was for the annual
-election of the hanging committee by the whole body of artists. After
+election of the [[Hanging|hanging]] committee by the whole body of artists. After
 many meetings the group representing the arts and crafts (who belonged
 to a larger body of artists and craftsmen called the Art-workers' Guild,
 founded in 1884),[1] perceiving that the painters, especially the
@@ -39,7 +39,7 @@ decorative handicrafts. Amateur societies and classes were in existence,
 like the Home Arts and Industries Association, which had established
 village classes in wood-carving, metal work, spinning and weaving,
 needlework, pottery and basket-work, and the public interest in
-handicraft was steadily growing. The machine production of an industrial
+handicraft was steadily growing. The [[Machine|machine]] production of an industrial
 century had laid its iron hands upon what had formerly been the
 exclusive province of the handicraftsman, who only lingered on in a few
 obscure trades and in forgotten corners of England for the most part.
@@ -55,12 +55,12 @@ tradesman or salesman, or a plunge into costly and doubtful experiments
 in original design. From the 'forties onward there had been much
 research and study of medieval art in England; there had been many able
 designers, architects and antiquaries, such as the Pugins and Henry Shaw
-(1800-1873) and later William Burges (1827-1881), William Butterfield
+(1800-1873) and later William [[Burges]] (1827-1881), William Butterfield
 (1814-1900) and G.E. Street and others. The school of pre-Raphaelite
 painters, by their careful and thorough methods, and their sympathy with
 medieval design, were among the first to turn attention to beauty of
 design, colour and significance in the accessories of daily life, and
-artists like D.G. Rossetti, Ford Madox Brown, and W. Holman Hunt
+artists like D.G. Rossetti, Ford Madox Brown, and W. [[Holman]] [[Hunt]]
 themselves designed and painted furniture. The most successful and most
 practical effort indeed towards the revival of sounder ideas of
 construction and workmanship may be said to have arisen out of the work
@@ -72,24 +72,24 @@ handicraft, of changing the taste of his countrymen from the corrupt and
 vulgar ostentation of the Second Empire, and its cheap imitations, which
 prevailed in the 'fifties and 'sixties, and of winning them back, for a
 time at least, to the massive simplicity of plain oak furniture, or the
-delicate beauty of inlays of choice woods, or the charm of painted work,
-the richness and frank colour of formal floral and heraldic pattern in
-silk textiles and wall-hangings and carpets, the gaiety and freshness of
-printed cotton, or the romantic splendour of arras tapestry. Both
+delicate beauty of inlays of choice woods, or the [[Charm|charm]] of painted work,
+the richness and [[Frank|frank]] colour of formal floral and heraldic pattern in
+silk textiles and wall-hangings and [[Carpet|carpets]], the gaiety and freshness of
+printed cotton, or the romantic splendour of [[Arras|arras]] tapestry. Both
 William Morris and his artistic comrade and lifelong friend, Edward
-Burne-Jones, were no doubt much influenced at the outset by the
+[[Burne-Jones]], were no doubt much influenced at the outset by the
 imaginative insight, the passionate artistic feeling, and the love of
-medieval romance and colour of Dante Gabriel Rossetti, who remains so
+medieval romance and colour of [[Dante]] Gabriel Rossetti, who remains so
 remarkable a figure in the great artistic and poetic revival of the
 latter half of the 19th century. To William Morris himself, in his
-artistic career, it was no small advantage to gain the ear of the
+artistic career, it was no small advantage to gain the [[Ear|ear]] of the
 English public first by his poetry. His verse-craft helped his
 handicraft, but both lived side by side. The secret of Morris's great
 influence in the revival was no doubt to be attributed to his way of
 personally mastering the working details and handling of each craft he
 took up in turn, as well as to his power of inspiring his helpers and
 followers. He was painter, designer, scribe, illuminator, wood-engraver,
-dyer, weaver and finally printer and papermaker, and having mastered
+[[Dyer|dyer]], weaver and finally printer and papermaker, and having mastered
 these crafts he could effectively direct and criticize the work of
 others. His own work and that of Burne-Jones were well known to the
 public, and in high favour long before the Arts and Crafts Exhibition
@@ -100,7 +100,7 @@ fresh development both of the social and the artistic ideas which were
 represented by Ruskin, Rossetti and Morris, though the society includes
 men of different schools. Other sources of influence might be named,
 such as the work of Norman Shaw and Philip Webb in architecture and
-decoration, of Lewis Day in surface pattern, and William de Morgan in
+decoration, of [[Lewis]] Day in surface pattern, and William de Morgan in
 pottery. The demand for the acknowledgment of the personality of each
 responsible craftsman in a co-operative work was new, and it had direct
 bearing upon the social and economic conditions of artistic production.
@@ -114,22 +114,22 @@ simplicity of design in furniture and surface decoration may be
 remarked; and a certain reserve in the use of colour and ornament, and a
 love of abstract forms in decoration generally, which are characteristic
 of later taste. Not less remarkable has been the new development in the
-design and workmanship of jewelry, gold- and silversmiths' work, and
+design and workmanship of [[Jewelry|jewelry]], gold- and silversmiths' work, and
 enamels, with which the names of Alexander Fisher, Henry Wilson, Nelson
-Dawson and C.R. Ashbee are associated. Among the arts and crafts of
+[[Dawson]] and C.R. Ashbee are associated. Among the arts and crafts of
 design which have blossomed into new life in recent years-and there is
 hardly one which has not been touched by the new spirit--book-binding
 must be named as having attained a fresh and tasteful development
 through the work of Mr Cobden-Sanderson and his pupils. The art and
 craft of the needle also must not be forgotten, and its progress is a
 good criterion of taste in design, choice of colour and treatment. The
-work of Mrs Morris, of Miss Burden (sometime instructress at the Royal
+work of Mrs Morris, of Miss [[Burden]] (sometime instructress at the Royal
 School of Art Needlework, which has carried on its work from 1875), of
-Miss May Morris, of Miss Una Taylor, of Miss Buckle, of Mrs Walter
+Miss May Morris, of Miss Una Taylor, of Miss [[Buckle]], of Mrs Walter
 Crane, of Mrs Newbery, besides many other skilled needlewomen, has been
 frequently exhibited. Good work is often seen in the national
 competition works of the students of the English art schools, shown at
-South Kensington in July. The increase of late years in these
+South [[Kensington]] in July. The increase of late years in these
 exhibitions of designs worked out in the actual material for which they
 were intended is very remarkable, and is an evidence of the spread of
 the arts and crafts movement (fostered no doubt by the increase of
@@ -163,12 +163,12 @@ furtherance of a cult and the specializing of work have also given rise
 to many new associations in Great Britain, besides the Royal Academy
 (see ACADEMY, ROYAL). At the outset, therefore, it will be well to
 mention the leading art societies thus described. The (now Royal)
-Society of Painters in Water Colours, founded in 1804, and the (now
+Society of Painters in Water [[Colours]], founded in 1804, and the (now
 Royal) Society of British Artists (1823), are typical of those societies
 which exist merely for purposes of holding exhibitions and conferring
 diplomas of membership. The British Institution (for the encouragement
 of British artists) was started in 1806 on a plan formed by Sir Thomas
-Bernard; and in the gallery, erected by Alderman Boydell to exhibit the
+[[Bernard]]; and in the gallery, erected by Alderman Boydell to exhibit the
 paintings executed for his edition of Shakespeare, were from time to
 time exhibited pictures by the old masters, deceased British artists and
 others, till 1867, when the lease of the premises expired. A fund of
@@ -177,7 +177,7 @@ L16,200, then in the hands of trustees, had accumulated to L24,610 in
 providing of facilities to enable its members to perfect themselves in
 their art. To this end there is a good library of works on art, and
 abundant opportunities are afforded for general study from the life. In
-the furtherance of a cult the Japan Society, devoted to the
+the furtherance of a cult the [[Japan]] Society, devoted to the
 encouragement of the study of the arts and industries of Japan, is a
 typical example; and the Society of Mezzotint Engravers is
 representative of those bodies formed in the interests of particular
@@ -219,15 +219,15 @@ merits of these branches of artistic enterprise.
 EXHIBITING SOCIETIES.--(a) Old Established. These in London are: The
 Royal Academy, the Royal Water Colour Society, the Royal Institute of
 Painters in Water Colours, the Society of Oil Painters, and the Royal
-Society of British Artists. In the provinces, the Birmingham Royal
+Society of British Artists. In the provinces, the [[Birmingham]] Royal
 Society of Artists has been in existence since 1825, and has a life
-academy with professors attached. (b) Modern.--In this category are many
+academy with professors attached. (b) Modern.--In this [[Category|category]] are many
 which reflect the new spirit which came into artistic life in the last
 quarter of the 19th century. The New English Art Club, founded in 1885
 as a protest against academic art, achieves its purpose by exhibition
-only. The International Society of Painters and Engravers, again,
+only. The [[International]] Society of Painters and Engravers, again,
 represents the wider ideas of the 20th century. The Royal Society of
-Painter-Etchers and Engravers, consisting of fellows and associates, not
+Painter-Etchers and Engravers, consisting of [[Fellows|fellows]] and associates, not
 exceeding 150 in all, conserves the interests of a numerous body of
 workers, and, in addition to holding exhibitions, confers diplomas (R.E.
 and A.R.E.) on the exhibitors of meritorious etchings or engravings. The
@@ -238,13 +238,13 @@ conveyed in its title. Two associations advance the art of the
 miniature-painter, and the Pastel Society, formed in 1898, holds
 displays of members' work at the Royal Institute Galleries. In Scotland
 there is the Royal Scottish Academy. The Royal Scottish Society of
-Painters in Water Colours (Glasgow) grants the title R.S.W. to its
+Painters in Water Colours ([[Glasgow]]) grants the title R.S.W. to its
 members, and the Society of Scottish Artists (Edinburgh), founded in
 1891, has a membership of nearly 500 young artists. Other exhibiting
 societies which call for mention are: The Yorkshire Union of Artists
-(Leeds), which consolidates many local societies; the Nottingham Society
+([[Leeds]]), which consolidates many local societies; the Nottingham Society
 of Artists, which also encourages drawing from the living model; and the
-Liverpool Sketching Club, founded in 1870, which holds an annual
+[[Liverpool]] Sketching Club, founded in 1870, which holds an annual
 exhibition.
 
 SOCIETIES OF INSTRUCTION AND POPULAR ENCOURAGEMENT.--It is under this
@@ -290,7 +290,7 @@ Burne-Jones took an active part in the society's labours. The Art for
 Schools Association, founded in 1883, has also done steady work in
 endeavouring to provide schools with works of art. These are chiefly
 reproductions of standard works of art or of historical and natural
-subjects. The wave of enthusiasm aroused by Mr Ruskin's teachings caused
+subjects. The wave of [[Enthusiasm|enthusiasm]] aroused by Mr Ruskin's teachings caused
 Societies of the Rose to be founded in London, Manchester, Sheffield,
 Birmingham, Aberdeen and Glasgow; but some of these eventually ceased
 active work, to be revived again, however, by the Ruskin Union, formed
@@ -305,7 +305,7 @@ Voluntary teachers organize classes for working people, at which a
 practical knowledge of art handiwork is taught. Training classes for
 voluntary teachers are held at the studios at the Albert Hall, as well
 as an annual exhibition. An interesting type of society has been
-established in Bolton, Lancashire. Under the title of an Arts Guild the
+established in [[Bolton]], Lancashire. Under the title of an Arts Guild the
 members, numbering over 200, devote themselves to the advancement of
 taste in municipal improvements.
 
@@ -354,10 +354,10 @@ art societies elsewhere than in Great Britain:--
   (Society of Austrian Painters) and the _Wiener Kunstlergenossenschaft_
   (Association of Viennese Artists).
 
-  BELGIUM.--Brussels, _Societe des beaux-arts_, the _Libre Esthetique_,
+  [[Belgium|BELGIUM]].--Brussels, _Societe des beaux-arts_, the _Libre Esthetique_,
   _Societe des aquarellistes et pastellistes_, _Societe royale beige des
   aquarellistes_, and numerous private societies (_cercles_) in
-  Brussels, Antwerp, Liege, Ghent and other cities.
+  Brussels, [[Antwerp]], [[Liege]], [[Ghent]] and other cities.
 
   FRANCE.--Paris, the _Societe des artistes francais_ (The Salon),
   _Societe nationale des beaux-arts_ (The New Salon), _Societe des
@@ -376,7 +376,7 @@ art societies elsewhere than in Great Britain:--
   ITALY.--Four exhibiting societies: Rome, _Societa in Arte Libertas_,
   _Scuola degli Aquarellisti_; Milan, _Famiglia Artistica_, _Societa
   degli Artiste_; Florence, _Circolo Artistico_; Naples, _Instituti di
-  Belli Arti._
+  [[Belli]] Arti._
 
   PORTUGAL.--_Sociedade promotora das Bellas-Artes_ and _Gremio
   Artistico_.
@@ -407,7 +407,7 @@ method, consisted chiefly of a course of drawing from casts of antique
 statues in outline, and in light and shade without backgrounds, of
 anatomical drawings, perspective, and drawing and painting from the
 living model. Such a training seems to be more or less a response to
-Lessing's definition of painting as "the imitation of solid bodies upon
+Lessing's [[Definition|definition]] of painting as "the imitation of solid bodies upon
 a plane surface." It seems to have been influenced more by the
 sculptor's art than any other. Indeed, the academic teaching from the
 time of the Italian Renaissance was no doubt principally derived from
@@ -436,7 +436,7 @@ individualistic painting and sculpture over the arts of design during
 the last century or two is a case in point.
 
 With the awakening of interest in industrial art--sharply separated by
-pedantic classification from fine art--which began in England about the
+pedantic [[Classification|classification]] from fine art--which began in England about the
 middle of the 19th century, schools of design were established which
 included more varied studies. Even as early as 1836 a government grant
 was made towards the opening of public galleries and the establishment
@@ -449,7 +449,7 @@ of art instruction adopted in the government art schools, and the year
 1851, the year of the Great Exhibition, was also marked by the first
 public exhibition of students' works, and the first institution of
 prizes and scholarships. In 1852 "the Department of Practical Art" was
-constituted, and a museum of objects collected at Marlborough House
+constituted, and a museum of objects collected at [[Marlborough]] House
 which afterwards formed the nucleus of the future museum at South
 Kensington. In 1853 "the Department of Science and Art" was established,
 and in 1857, under the auspices of Henry Cole, the offices of the
@@ -499,7 +499,7 @@ Art Department (now the Board of Education), considered as training
 grounds for practical designers and craftsmen, led to the establishment
 of new technical schools in the principal towns of Great Britain. The
 circumstance of certain large sums, diverted from their original purpose
-of compensation to brewers, being available for educational purposes and
+of compensation to [[Brewer|brewers]], being available for educational purposes and
 at the disposal of the county councils and municipal bodies, provided
 the means for the building and equipment of these new technical schools,
 which in many cases are under the same roof as the art school in the
@@ -547,9 +547,9 @@ There are also the Royal School of Art Needlework and the School of Art
 Wood-carving, all aided by the London County Council. The City and
 Guilds of London Institute has two departments for what is termed
 "applied" art, one at the South London School of Technical Art, and the
-other at the Art Department in the Technical College, Finsbury. The
+other at the Art Department in the Technical College, [[Finsbury]]. The
 Slade School of Drawing, Painting and Sculpture, University College,
-Gower Street, confines itself to drawing and painting from the antique
+[[Gower]] Street, confines itself to drawing and painting from the antique
 and life, and exercise in pictorial composition. There are also lectures
 on anatomy and perspective. The Slade professorships at Oxford and
 Cambridge universities are concerned with the teaching and literature of
@@ -557,7 +557,7 @@ art, but they do not concern themselves with the practice. There are
 also, in addition to the schools of art named and those in connexion
 with the Board of Education and the London County Council in the various
 districts of London, many and various private clubs and schools, such as
-the Langham and "Heatherley's," chiefly concerned in encouraging drawing
+the [[Langham]] and "Heatherley's," chiefly concerned in encouraging drawing
 and painting from the life, and for the study of art from the pictorial
 point of view, or for the preparation of candidates for the Royal
 Academy or other schools. The polytechnics and technical institutes also

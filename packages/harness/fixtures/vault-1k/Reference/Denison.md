@@ -14,7 +14,7 @@ High Tory party not only in politics but in the Church, regarding all
 "progressive" movements in education or theology as abomination, and
 vehemently repudiating the "higher criticism" from the days of _Essays
 and Reviews_ (1860) to those of _Lux Mundi_ (1890). In 1853 he resigned
-his position as examining chaplain to the bishop of Bath and Wells owing
+his position as examining [[Chaplain|chaplain]] to the bishop of Bath and Wells owing
 to his pronounced eucharistic views. A suit on the complaint of a
 neighbouring clergyman ensued and after various complications Denison
 was condemned by the archbishops' court at Bath (1856); but on appeal

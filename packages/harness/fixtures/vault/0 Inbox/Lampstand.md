@@ -1,7 +1,7 @@
 # Lampstand
 
 LAMPSTAND, a pillar, tripod or figure extending to the floor for
-supporting or holding a lamp. The lampstand (_lampadère_) is probably of
+supporting or holding a [[Lamp|lamp]]. The lampstand (_lampadère_) is probably of
 French origin; it appears to have been in use in France before the end
 of the 17th century.
 

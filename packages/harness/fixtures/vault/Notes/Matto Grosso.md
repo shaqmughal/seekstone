@@ -16,7 +16,7 @@ population only 92,827 in 1890 and 118,025 in 1900. No satisfactory
 estimate of its Indian population can be made. The greater part of the
 state belongs to the western extension of the Brazilian plateau, across
 which, between the 14th and 16th parallels, runs the watershed which
-separates the drainage basins of the Amazon and La Plata. This elevated
+separates the drainage basins of the Amazon and [[La Plata]]. This elevated
 region is known as the plateau of Matto Grosso, and its elevations so
 far as known rarely exceed 3000 ft. The northern slope of this great
 plateau is drained by the Araguaya-Tocantins, Xingú, Tapajos and
@@ -29,18 +29,18 @@ sluggish rivers are unable to drain. The lowland elevations in this part
 of the state range from 300 to 400 ft. above sea-level, the climate is
 hot, humid and unhealthy, and the conditions for permanent settlement
 are apparently unfavourable. On the highlands, however, which contain
-extensive open _campos_, the climate, though dry and hot, is considered
+extensive open _[[Campos|campos]]_, the climate, though dry and hot, is considered
 healthy. The basins of the Paraná and Paraguay are separated by low
 mountain ranges extending north from the _sierras_ of Paraguay. In the
 north, however, the ranges which separate the river valleys are
 apparently the remains of the table-land through which deep valleys have
 been eroded. The resources of Matto Grosso are practically undeveloped,
-owing to the isolated situation of the state, the costs of
+owing to the isolated situation of the state, the [[Costs|costs]] of
 transportation and the small population.
 
 The first industry was that of mining, gold having been discovered in
 the river valleys on the southern slopes of the plateau, and diamonds on
-the head-waters of the Paraguay, about Diamantino and in two or three
+the head-waters of the Paraguay, about [[Diamantino]] and in two or three
 other districts. Gold is found chiefly in placers, and in colonial times
 the output was large, but the deposits were long ago exhausted and the
 industry is now comparatively unimportant. As to other minerals little
@@ -48,7 +48,7 @@ is definitely known. Agriculture exists only for the supply of local
 needs, though tobacco of a superior quality is grown. Cattle-raising,
 however, has received some attention and is the principal industry of
 the landowners. The forest products of the state include fine woods,
-rubber, ipecacuanha, sarsaparilla, jaborandi, vanilla and copaiba. There
+rubber, ipecacuanha, sarsaparilla, jaborandi, vanilla and [[Copaiba|copaiba]]. There
 is little export, however, the only means of communication being down
 the Paraguay and Paraná rivers by means of subsidized steamers. The
 capital of the state is Cuyabá, and the chief commercial town is Corumbá

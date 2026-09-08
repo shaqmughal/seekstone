@@ -3,7 +3,7 @@
 MALAKAND PASS, a mountain pass in the North-West Province of India,
 connecting the British district of Peshawar with the Swat Valley. It is
 now a military post and the headquarters of a political agency. It came
-into prominence for the first time in 1895 during the Chitral campaign,
+into prominence for the first time in 1895 during the [[Chitral]] campaign,
 when 7000 Pathans held it against Sir Robert Low's advance, but were
 easily routed. After the campaign was over a fortified camp was formed
 on the Malakand to guard the road to Chitral. During the frontier

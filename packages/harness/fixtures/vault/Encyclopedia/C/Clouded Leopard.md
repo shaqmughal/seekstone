@@ -8,7 +8,7 @@ tags: [logic-studies, geography]
 # Clouded Leopard
 
 CLOUDED LEOPARD (_Felis nebulosa_ or _macroscelis_), a large arboreal
-cat from the forests of south-east Asia, Sumatra, Java, Borneo and
+cat from the forests of south-east Asia, Sumatra, [[Java]], Borneo and
 Formosa. This cat, often called the clouded tiger, is beautifully
 marked, and has an elongated head and body, long tail and rather short
 limbs. The canine teeth are proportionately longer than in any other

@@ -1,7 +1,7 @@
 # Furies
 
 FURIES (Lat. _Furiae_, also called DIRAE), in Roman mythology an
-adaptation of the Greek Erinyes (q.v.), with whom they are generally
+adaptation of the Greek [[Erinyes]] (q.v.), with whom they are generally
 identical. A special aspect of them in Virgil is that of agents employed
 by the higher gods to stir up mischief, strife and hatred upon earth.
 Mention may here be made of an old Italian deity Furina (or Furrina),

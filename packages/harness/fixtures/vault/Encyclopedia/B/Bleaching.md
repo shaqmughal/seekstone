@@ -5,7 +5,7 @@ operation incessantly in activity in nature by the influence of light,
 air and moisture. The art of bleaching, of which we have here to treat,
 consists in inducing the rapid operation of whitening agencies, and as
 an industry it is mostly directed to cotton, linen, silk, wool and other
-textile fibres, but it is also applied to the whitening of paper-pulp,
+textile [[Fibres|fibres]], but it is also applied to the whitening of paper-pulp,
 bees'-wax and some oils and other substances. The term bleaching is
 derived from the A.-S. _blaecan_, to bleach, or to fade, from which also
 comes the cognate German word _bleichen_, to whiten or render pale.
@@ -15,7 +15,7 @@ Bleachers, down to the end of the 18th century, were known in England as
 The operation of bleaching must from its very nature be of the same
 antiquity as the work of washing textures of linen, cotton or other
 vegetable fibres. Clothing repeatedly washed, and exposed in the open
-air to dry, gradually assumes a whiter and whiter hue, and our ancestors
+air to dry, gradually assumes a whiter and whiter [[Hue|hue]], and our ancestors
 cannot have failed to notice and take advantage of this fact. Scarcely
 anything is known with certainty of the art of bleaching as practised by
 the nations of antiquity. Egypt in early ages was the great centre of
@@ -43,21 +43,21 @@ away in the month of March, and not returned till the end of October,
 being thus out of the hands of the merchant more than half a year.
 
 The Dutch mode of bleaching, which was mostly conducted in the
-neighbourhood of Haarlem, was to steep the linen first in a waste lye,
+neighbourhood of Haarlem, was to steep the linen first in a waste [[Lye|lye]],
 and then for about a week in a potash lye poured over it boiling hot.
 The cloth being taken out of this lye and washed, was next put into
 wooden vessels containing buttermilk, in which it lay under a pressure
 for five or six days. After this it was spread upon the grass, and kept
 wet for several months, exposed to the sunshine of summer.
 
-In 1728 James Adair from Belfast proposed to the Scottish Board of
+In 1728 James Adair from [[Belfast]] proposed to the Scottish Board of
 Manufactures to establish a bleachfield in Galloway; this proposal the
 board approved of, and in the same year resolved to devote L2000 as
 premiums for the establishment of bleachfields throughout the country.
 In 1732 a method of bleaching with kelp, introduced by R. Holden, also
 from Ireland, was submitted to the board; and with their assistance
 Holden established a bleachfield for prosecuting his process at
-Pitkerro, near Dundee.
+Pitkerro, near [[Dundee]].
 
 The bleaching process, as at that time performed, was very tedious,
 occupying a complete summer. It consisted in steeping the cloth in
@@ -78,7 +78,7 @@ made in consequence of the new mode of preparing sulphuric acid,
 contrived some time before by Dr John Roebuck, which reduced the price
 of that acid to less than one-third of what it had formerly been. When
 this change was first adopted by the bleachers, there was the same
-outcry against its corrosive effects as arose when chlorine was
+outcry against its corrosive effects as arose when [[Chlorine|chlorine]] was
 substituted for crofting. A great advantage was found to result from the
 use of sulphuric acid, which was that a souring with sulphuric acid
 required at the longest only twenty-four hours, and often not more than
@@ -92,7 +92,7 @@ No further modification of consequence was introduced in the art till
 the year 1787, when a most important change was initiated by the use of
 chlorine (q.v.), an element which had been discovered by C.W. Scheele in
 Sweden about thirteen years before. The discovery that this gas
-possesses the property of destroying vegetable colours, led Berthollet
+possesses the property of destroying vegetable [[Colours|colours]], led [[Berthollet]]
 to suspect that it might be introduced with advantage into the art of
 bleaching, and that it would enable practical bleachers greatly to
 shorten their processes. In a paper on chlorine or oxygenated muriatic
@@ -107,9 +107,9 @@ practical examination of the subject, and was accordingly the person who
 first introduced the new method of bleaching into Great Britain. We find
 from Watt's own testimony that chlorine was practically employed in the
 bleachfield of his father-in-law, Mr Macgregor, in the neighbourhood of
-Glasgow, in March 1787. Shortly thereafter the method was introduced at
+[[Glasgow]], in March 1787. Shortly thereafter the method was introduced at
 Aberdeen by Messrs Gordon, Barron & Co., on information received from De
-Saussure through Professor Patrick Copland of Aberdeen. Thomas Henry of
+Saussure through Professor Patrick [[Copland]] of Aberdeen. Thomas Henry of
 Manchester was the first to bleach with chlorine in the Lancashire
 district, and to his independent investigations several of the early
 improvements in the application of the material were due.
@@ -167,8 +167,8 @@ satisfactory result.
   of bleaching powder or sodium hypochlorite. It is then again washed,
   soured with weak sulphuric or hydrochloric acid, and ultimately washed
   free from acid. Careful treatment is necessary in order to avoid any
-  undue matting of the fibres, while any drastic treatment, such as
-  heating with caustic soda and soap, as used for other cotton
+  undue [[Matting|matting]] of the fibres, while any drastic treatment, such as
+  heating with [[Caustic|caustic]] soda and soap, as used for other cotton
   materials, cannot be employed, since the natural wax would thereby be
   removed, and this would detract from the spinning qualities of the
   fibre. In case the cotton is not intended to be spun, but is to serve
@@ -187,11 +187,11 @@ satisfactory result.
   but the machinery necessarily differs. Most yarn is bleached in the
   hank, and it will suffice to give an account of this process only. The
   sequence of operations is the same as in the bleaching of cotton
-  waste, and these can be conducted for small lots in an ordinary
+  waste, and these can be conducted for small [[Lot|lots]] in an ordinary
   rectangular wooden vat as used in dyeing, in which the yarn is
   suspended in the liquor from poles which rest with their ends on the
   two longer sides of the vat. For bleaching yarn in bulk, however, this
-  mode of procedure would involve so much manual labour that the process
+  mode of procedure would involve so much [[Manual|manual]] labour that the process
   would become too expensive. It is, therefore, mainly with the object
   of economy that machinery has been introduced, by means of which large
   quantities can be dealt with at a time.
@@ -219,8 +219,8 @@ satisfactory result.
   beneath which a pipe connects the cistern with a well situated below
   the floor line. The well contains a solution of bleaching-powder,
   usually of 2 deg. Tw. strength, and this is drawn up by means of a
-  centrifugal brass pump and showered over the top of the goods through
-  a perforated wooden tray, passing then by gravitation through the
+  centrifugal [[Brass|brass]] pump and showered over the top of the goods through
+  a perforated wooden tray, passing then by [[Gravitation|gravitation]] through the
   goods back into the well. The circulation is maintained for one and a
   half to two hours, when the yarn will be found to be white. The
   bleaching-powder solution is now allowed to drain off, and water is
@@ -230,7 +230,7 @@ satisfactory result.
   acid of 2 deg. Tw. for about half an hour. This is also allowed to
   drain, and the yarn is thoroughly washed to remove all acid, when it
   is taken out and wrung or hydroextracted. At this stage the yarn may
-  be dyed in light or bright shades without further treatment, but if it
+  be dyed in light or [[Bright|bright]] shades without further treatment, but if it
   is to be sold as white yarn, it is blued. The blueing may either be
   effected by dyeing or tinting with a colouring matter like Victoria
   blue 4R or acid violet, or by treatment in wash stocks with a
@@ -239,7 +239,7 @@ satisfactory result.
   and dried.
 
   The bleaching of cotton yarn is a very straightforward process, and it
-  is very seldom that either complications or faults arise, providing
+  is very seldom that either complications or [[Fault|faults]] arise, providing
   that reasonable care and supervision are exercised.
 
   The _raison d'etre_ of the various operations is comparatively simple.
@@ -250,7 +250,7 @@ satisfactory result.
   by emulsification. In the operation of bleaching proper, the calcium
   hypochlorite of the chloride of lime through coming into contact with
   the carbonic acid of the atmosphere suffers decomposition according to
-  the equation, Ca(OCl)2 + CO2 + H2O -> CaCO3 + 2HOCl, and the
+  the [[Equation|equation]], Ca(OCl)2 + CO2 + H2O -> CaCO3 + 2HOCl, and the
   hypochlorous acid thus liberated destroys the colouring matter still
   remaining from the first operation, by oxidation. At the same time the
   motes which were swelled up by the alkali are broken up into small
@@ -267,7 +267,7 @@ satisfactory result.
   the cotton a considerable amount of foreign matter in the form of size
   which has been incorporated with the warp before weaving, with the
   object of strengthening it. This size consists essentially of starch
-  (farina), with additions of tallow, zinc chloride, and occasionally
+  ([[Farina|farina]]), with additions of tallow, zinc chloride, and occasionally
   other substances such as paraffin wax, magnesium chloride, soap, &c.,
   all of which must be removed if a perfect bleach is to result.
   Besides, mineral oil stains from the machinery of the weaving-shed are
@@ -287,20 +287,20 @@ satisfactory result.
   [Illustration: FIG. 1.--Section of a Dash-wheel.]
 
   For small lots (1-20 pieces) the bleaching can be conducted on very
-  simple machinery. Thus many small piece dyers conduct the whole of
-  their bleaching on the jigger, a simple form of dyeing machine on
+  simple machinery. Thus many small piece [[Dyer|dyers]] conduct the whole of
+  their bleaching on the jigger, a simple form of dyeing [[Machine|machine]] on
   which most cotton piece goods are dyed (see DYEING). For muslins,
-  laces and other very light fabrics, which will not stand rough
+  [[Lace|laces]] and other very light fabrics, which will not stand rough
   handling, the operations are conducted mainly by hand, washing being
   effected in the dash-wheel (fig. 1), which consists of a cylindrical
-  box, revolving on its axis. It has four divisions, as shown by the
+  [[Box|box]], revolving on its axis. It has four divisions, as shown by the
   dotted lines, and an opening into each division. A number of pieces
   are put into each, abundance of water is admitted behind, and the
   knocking of the pieces as they alternately dash from one side of the
   division to the other during the revolution of the wheel effects the
   washing. The process lasts from four to six minutes.
 
-  For velveteens, corduroys, heavy drills, pocketings and other fabrics
+  For velveteens, [[Corduroy|corduroys]], heavy drills, pocketings and other fabrics
   in which creasing has to be avoided as much as possible, the so-called
   "open bleach" is resorted to, which differs from the ordinary process
   chiefly in that the goods are treated throughout at full width.
@@ -317,7 +317,7 @@ satisfactory result.
   nature (chain stitch) that the thread can be ripped out at one pull at
   the end of the operations.
 
-  _Singeing._--In the condition in which the pieces leave the loom and
+  _Singeing._--In the condition in which the pieces leave the [[Loom|loom]] and
   come into the hands of the bleacher, the surface of the fabric is seen
   to be covered with a _nap_ of projecting fibres which gives it a downy
   appearance. For some classes of goods this is not a disadvantage, but
@@ -358,7 +358,7 @@ satisfactory result.
   drawing the flame right through the piece.[2] The construction of an
   ordinary gas singeing apparatus is seen in section in fig. 3. Coal gas
   mixed with air is sent under pressure through pipe a into the burners
-  b, b, where the mixture burns with an intense heat. The cloth travels
+  b, b, where the mixture [[Burns|burns]] with an intense heat. The cloth travels
   in the direction of the arrows, and in passing over the small nap
   rollers c comes into contact with the flame four times in succession
   before leaving the machine.
@@ -398,9 +398,9 @@ satisfactory result.
   of least resistance, and the result is an uneven treatment. Of the
   numerous forms of kier in use, the injector kier is the one most
   generally adopted. This consists of an egg-ended cylindrical vessel
-  constructed of stout boiler plate and shown in sectional elevation in
+  constructed of stout [[Boiler|boiler]] plate and shown in sectional elevation in
   fig. 4. The kier is from 10 to 12 ft. in height and from 6 to 7 ft. in
-  diameter, and stands on three iron legs riveted to the sides, but not
+  diameter, and stands on three iron [[Leg|legs]] riveted to the sides, but not
   shown in the figure. The bottom exit pipe E is covered with a
   shield-shaped false bottom of boiler plate, or (and this is more
   usual) the whole bottom of the kier is covered with large rounded
@@ -549,9 +549,9 @@ satisfactory result.
   used too strong. Its detection may be effected by dyeing a sample of
   the bleached cotton in a cold, very dilute solution of methylene blue
   for about ten minutes, when any portions of the fabric in which the
-  cellulose has been converted into oxycellulose will assume a darker
+  [[Cellulose|cellulose]] has been converted into oxycellulose will assume a darker
   colour than the rest. The depth of the colour is at the same time an
-  indication of the extent to which such conversion has taken place.
+  indication of the extent to which such [[Conversion|conversion]] has taken place.
   Most bleached cotton contains some oxycellulose, but as long as the
   formation has not proceeded far enough to cause tendering, its
   presence is of no importance in white goods. If, on the other hand,
@@ -704,7 +704,7 @@ cream these treatments are repeated.
 
 _Bleaching of Straw._
 
-In the Luton district, straw is bleached principally in the form of
+In the [[Luton]] district, straw is bleached principally in the form of
 plait, in which form it is imported. The bleaching is effected by
 steeping the straw for periods varying from twelve hours to several days
 in fairly strong alkaline peroxide of hydrogen. The number of baths
@@ -727,7 +727,7 @@ sheep's back before shearing. The impurities which it contains consist
 in the main of the natural grease (in reality a kind of wax) exuded from
 the skin of the sheep and technically known as the "yolk," the dried-up
 perspiration from the body of the sheep; technically called "suint," and
-dust, dirt, burrs, &c., which mechanically adhere to the sticky surfaces
+[[Dust|dust]], dirt, burrs, &c., which mechanically adhere to the sticky surfaces
 of the fibres. In this condition wool is quite unfit for any
 manufacturing purposes and must be cleansed before any mechanical
 operations can be commenced. Formerly the washing was effected in stale
@@ -769,8 +769,8 @@ the wool-grease rise as a magma to the surface. The purified product is
 known in the trade as "Yorkshire grease."
 
 Attempts have been made from time to time to extract the natural grease
-from wool by means of organic solvents, such as carbon bisulphide,
-carbon tetrachloride, petroleum spirit, &c., but have not met with much
+from wool by means of organic solvents, such as [[Carbon Bisulphide|carbon bisulphide]],
+[[Carbon|carbon]] tetrachloride, petroleum spirit, &c., but have not met with much
 success.
 
 Worsted yarn spun on the English system, as well as woollen yarn and
@@ -787,7 +787,7 @@ the assistance of alkalis.
   very weak soap containing a small amount of blue colouring matter,
   wrung or hydro-extracted and then suspended in a chamber or stove.
   Sulphur contained in a vessel on the floor of the chamber is now
-  lighted, and the door having been closed, is allowed to burn itself
+  lighted, and the door having been closed, is allowed to [[Burn|burn]] itself
   out. The goods are left thus exposed to the sulphur dioxide overnight,
   when they are taken out and washed in water. For piece goods a
   somewhat different arrangement is employed, the pieces passing through
@@ -837,9 +837,9 @@ after bleaching. Silk may also be bleached with peroxide of hydrogen,
 but this method is only used for certain qualities of spun silk and for
 tussore.
 
-  _Ornamental feathers_ are best bleached by steeping in peroxide of
+  _Ornamental [[Feather|feathers]]_ are best bleached by steeping in peroxide of
   hydrogen, rendered slightly alkaline by the addition of ammonia. The
-  same treatment is applied to the bleaching of _ivory_. If peroxide of
+  same treatment is applied to the bleaching of _[[Ivory|ivory]]_. If peroxide of
   hydrogen could be prepared at a moderate cost, it would doubtless find
   a much more extensive application in bleaching, since it combines
   efficiency with safety, and gives good results with both vegetable and
@@ -849,7 +849,7 @@ tussore.
 FOOTNOTES:
 
   [1] Besides being used for cotton goods, plate singeing is also
-    employed for certain classes of worsted goods (alpacas, bunting,
+    employed for certain classes of worsted goods (alpacas, [[Bunting|bunting]],
     &c.), and for most union goods (cotton warp and worsted weft).
 
   [2] A machine working on this principle has been constructed by F.

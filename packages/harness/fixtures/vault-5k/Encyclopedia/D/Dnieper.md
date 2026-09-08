@@ -21,11 +21,11 @@ of Carboniferous formation; in the second it passes west to Orsha, south
 through the fertile plain of Chernigov and Kiev, and then south-east
 across the rocky steppe of the Ukraine to Ekaterinoslav. About 45 m. S.
 of this town it has to force its way across the same granitic offshoot
-of the Carpathian mountains which interrupts the course of the Dniester
+of the Carpathian mountains which interrupts the course of the [[Dniester]]
 and the Bug, and for a distance of about 25 m. rapid succeeds rapid. The
 fall of the river in that distance is 155 ft. The Dnieper, having got
 clear of the rocks, continues south-west through the grassy plains of
-Kherson and Taurida, and enters the Black Sea, or rather a _liman_ or
+Kherson and Taurida, and enters the [[Black Sea]], or rather a _liman_ or
 bay of the Black Sea, by a considerable estuary in 46° 30' N. and 32°
 20' E. On this ramifying _liman_, into which the Bug also pours its
 waters, stand Nikolaiev and the fortified town of Ochakov. Navigation
@@ -51,10 +51,10 @@ cleared through the Staro-kaindatski porog; and in the period 1843 to
 to diminish greatly the dangers of the natural channel, but also to
 furnish a series of artificial canals by which vessels can make their
 way when the river is low. Of the tributaries of the Dnieper the
-following are navigable,--the Berezina and the Pripet from the right,
+following are navigable,--the [[Berezina]] and the Pripet from the right,
 and the Sozh and the Desna from the left. By means of the Dnieper-Bug
 (King's) canal, and the Berezina and Oginski canals, this river has a
-sort of water connexion with the Baltic Sea. In the estuary the
+sort of water connexion with the [[Baltic Sea]]. In the estuary the
 fisheries give employment to large numbers of people. At Kiev the river
 is free from ice on an average of 234 days in the year, at Ekaterinoslav
 270 and at Kherson 277.     (P. A. K.; J. T. BE.)

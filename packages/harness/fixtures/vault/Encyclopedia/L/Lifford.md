@@ -7,7 +7,7 @@ type: source
 
 # Lifford
 
-LIFFORD, the county town of Co. Donegal, Ireland, on the left bank of
+LIFFORD, the county town of Co. [[Donegal]], Ireland, on the left bank of
 the Foyle. Pop. (1901) 446. The county gaol, court house and infirmary
 are here, but the town is practically a suburb of Strabane, across the
 river, in Co. Londonderry. Lifford, formerly called Ballyduff, was a

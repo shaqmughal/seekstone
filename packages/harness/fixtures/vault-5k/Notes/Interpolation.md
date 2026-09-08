@@ -142,7 +142,7 @@ or more independent quantities x, y,...
   in which the first difference in u is constant, or nearly so. For
   example:--
 
-    _Example_ 1.--(u = log_10 x).   _Example_ 2.--(u = log_10 x).
+    _Example_ 1.--(u = [[Log|log]]_10 x).   _Example_ 2.--(u = log_10 x).
 
     +-------+--------+---------+     +------+--------+---------+
     |   x.  |    u.  |1st Diff.|     |  x.  |   u.   |1st Diff.|
@@ -291,7 +291,7 @@ or more independent quantities x, y,...
       .          .                                                                       |
       .          .                                                                      /
 
-  If a calculating machine is used, the formula (2) is most conveniently
+  If a calculating [[Machine|machine]] is used, the formula (2) is most conveniently
   written
 
     u_([theta]) = u0 + P1[theta]      \
@@ -363,7 +363,7 @@ or more independent quantities x, y,...
   consecutive ordinates, and consider that this is the graph of u, to
   the degree of accuracy given by the data. Similarly in using
   differences of a higher order we replace the graph by a curve whose
-  equation is of the form u = A + Bx + Cx^2 + Dx^3 + ... The various
+  [[Equation|equation]] is of the form u = A + Bx + Cx^2 + Dx^3 + ... The various
   forms that interpolation-formulae take are due to the various
   principles on which ordinates are selected for determining the values
   of A, B, C ...
@@ -435,7 +435,7 @@ or more independent quantities x, y,...
   be used. One is to calculate the sets of quantities which in the new
   table will be the successive differences, corresponding to u0, u1, ...
   and to find the intermediate terms by successive additions. A better
-  method is to use a formula due to J. D. Everett. If we write [phi] = 1
+  method is to use a formula due to J. D. [[Everett]]. If we write [phi] = 1
   - [theta], Everett's formula is, in its most symmetrical form,
 
                               ([theta] + 1)[theta]([theta] - 1)
@@ -776,7 +776,7 @@ or more independent quantities x, y,...
   curve which bears a general similarity to the unknown curve of
   frequency, and whose area and abscissa are so related that either can
   be readily calculated when the other is known. This may be called the
-  _auxiliary curve_. Denoting by [xi] the abscissa of this curve which
+  _[[Auxiliary|auxiliary]] curve_. Denoting by [xi] the abscissa of this curve which
   corresponds to area u, we find the value of [xi] corresponding to each
   of the given values of u. Then, tabulating [xi] in terms of x, we have
   a table in which, if the auxiliary curve has been well chosen,

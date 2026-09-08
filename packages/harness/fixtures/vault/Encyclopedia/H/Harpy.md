@@ -22,10 +22,10 @@ armed show that it must be able to cope with vigorous prey. Its
 appearance is sufficiently striking--the head and lower parts, except a
 pectoral band, white, the former adorned with an erectile crest, the
 upper parts dark grey banded with black, the wings dusky, and the tail
-barred; but the huge bill and powerful scutellated legs most of all
+barred; but the huge bill and powerful scutellated [[Leg|legs]] most of all
 impress the beholder. The precise affinities of the harpy cannot be said
-to have been determined. By some authors it is referred to the eagles,
-by others to the buzzards, and by others again to the hawks; but
+to have been determined. By some authors it is referred to the [[Eagle|eagles]],
+by others to the buzzards, and by others again to the [[Hawks|hawks]]; but
 possibly the first of these alliances is the most likely to be true.
      (A. N.)
 

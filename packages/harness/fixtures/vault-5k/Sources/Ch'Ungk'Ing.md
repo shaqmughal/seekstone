@@ -12,7 +12,7 @@ The import trade brought up by large junks from Ich'ang, and consisting
 of cotton cloth, yarn, metals and foreign manufactures, centres here,
 and is distributed by a class of smaller vessels up the various rivers
 of the provinces. Native produce, such as yellow silk, white wax, hides,
-rhubarb, musk and opium, is here collected and repacked for conveyance
+rhubarb, musk and opium, is here collected and repacked for [[Conveyance|conveyance]]
 to Hankow, Shanghai or other parts of the empire. The city was opened to
 foreign trade by convention with the British government in 1891, with
 the proviso, however, that foreign steamers should not be at liberty to

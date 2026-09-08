@@ -19,7 +19,7 @@ distinction in the controversy against the Protestant reformers and also
 wrote a _History of Rome from Augustus to Constantine_. Many of his
 theological writings were collected in one volume (Paris, 1622), and at
 the time of his death in 1623 he was engaged on a translation of the New
-Testament which is still in manuscript.
+Testament which is still in [[Manuscript|manuscript]].
 
 ## References
 

@@ -12,19 +12,19 @@ commonly known also by his earlier title of EARL OF DANBY, son of Sir
 Edward Osborne, Bart., of Kiveton, Yorkshire, was born in 1631. He was
 great-grandson of Sir Edward Osborne (d. 1591), lord mayor of London,
 who, according to the accepted account, while apprentice to Sir William
-Hewett, cloth worker and lord mayor in 1559, made the fortunes of the
+[[Hewett]], cloth worker and lord mayor in 1559, made the fortunes of the
 family by leaping from London Bridge into the river and rescuing Anne
 (d. 1585), the daughter of his employer, whom he afterwards married.[1]
 Thomas Osborne, the future lord treasurer, succeeded to the baronetcy
 and estates in Yorkshire on his father's death in 1647, and after
-unsuccessfully courting his cousin Dorothy Osborne, married Lady Bridget
+unsuccessfully courting his [[Cousin|cousin]] Dorothy Osborne, married Lady Bridget
 Bertie, daughter of the earl of Lindsey. He was introduced to public
 life and to court by his neighbour in Yorkshire, George, 2nd duke of
 Buckingham, was elected M.P. for York in 1665, and gained the "first
 step in his future rise" by joining Buckingham in his attack on
-Clarendon in 1667. In 1668 he was appointed joint treasurer of the navy
-with Sir Thomas Lyttelton, and subsequently sole treasurer. He succeeded
-Sir William Coventry as commissioner for the state treasury in 1669, and
+[[Clarendon]] in 1667. In 1668 he was appointed joint treasurer of the navy
+with Sir Thomas [[Lyttelton]], and subsequently sole treasurer. He succeeded
+Sir William [[Coventry]] as commissioner for the state treasury in 1669, and
 in 1673 was appointed a commissioner for the admiralty. He was created
 Viscount Osborne in the Scottish peerage on the 2nd of February 1673,
 and a privy councillor on the 3rd of May. On the 19th of June, on the
@@ -36,8 +36,8 @@ Osborne. He was appointed the same year lord-lieutenant of the West
 Riding of Yorkshire, and in 1677 received the Garter.
 
 Danby was a statesman of very different calibre from the leaders of the
-Cabal ministry, Buckingham and Arlington. His principal aim was no doubt
-the maintenance and increase of his own influence and party, but his
+Cabal ministry, Buckingham and [[Arlington]]. His principal aim was no doubt
+the [[Maintenance|maintenance]] and increase of his own influence and party, but his
 ambition corresponded with definite political views. A member of the old
 cavalier party, a confidential friend and correspondent of the despotic
 Lauderdale, he desired to strengthen the executive and the royal
@@ -70,7 +70,7 @@ royal children were entrusted to the bishops; but this measure, like the
 other, was thrown out.
 
 In foreign affairs Danby showed a stronger grasp of essentials. He
-desired to increase English trade, credit and power abroad. He was a
+desired to increase English trade, [[Credit|credit]] and power abroad. He was a
 determined enemy both to Roman influence and to French ascendancy. He
 terminated the war with Holland in 1674, and from that time maintained a
 friendly correspondence with William; while in 1677, after two years of
@@ -80,7 +80,7 @@ marriage between William and Mary that was the germ of the Revolution
 and the Act of Settlement. This national policy, however, could only be
 pursued, and the minister could only maintain himself in power, by
 acquiescence in the king's personal relations with the king of France
-settled by the disgraceful Treaty of Dover in 1670, which included
+settled by the disgraceful Treaty of [[Dover]] in 1670, which included
 Charles's acceptance of a pension, and bound him to a policy exactly
 opposite to Danby's, one furthering French and Roman ascendancy. Though
 not a number of the Cabal ministry, and in spite of his own denial,
@@ -118,10 +118,10 @@ all," and as "a beggar having £1100 or £1200 a year, but owes above
 £10,000." His office brought him in £20,000 a year,[6] and he was known
 to be making large profits by the sale of offices; he maintained his
 power by corruption and by jealously excluding from office men of high
-standing and ability. Burnet described him as "the most hated minister
+standing and ability. [[Burnet]] described him as "the most hated minister
 that had ever been about the king." Worse men had been less detested,
 but Danby had none of the amiable virtues which often counteract the
-odium incurred by serious faults. Evelyn, who knew him intimately from
+odium incurred by serious [[Fault|faults]]. Evelyn, who knew him intimately from
 his youth, describes him as "a man of excellent natural parts but
 nothing of generous or grateful." Shaftesbury, doubtless no friendly
 witness, speaks of him as an inveterate liar, "proud, ambitious,
@@ -131,7 +131,7 @@ corruption, his mean submission to a tyrant wife, his greed, his pale
 face and lean person, which had succeeded to the handsome features and
 comeliness of earlier days,[8] were the subject of ridicule, from the
 witty sneers of Halifax to the coarse jests of the anonymous writers of
-innumerable lampoons. By his championship of the national policy he had
+innumerable [[Lampoon|lampoons]]. By his championship of the national policy he had
 raised up formidable foes abroad without securing a single friend or
 supporter at home,[9] and his fidelity to the national interests was
 now, through a very mean and ignoble act of personal spite, to be the
@@ -157,7 +157,7 @@ charged with having encroached to himself royal powers by treating
 matters of peace and war without the knowledge of the council, with
 having promoted the raising of a standing army on pretence of a war with
 France, with having obstructed the assembling of parliament, with
-corruption and embezzlement in the treasury. Danby, while communicating
+corruption and [[Embezzlement|embezzlement]] in the treasury. Danby, while communicating
 the "Popish Plot" to the parliament, had from the first expressed his
 disbelief in the so-called revelations of Titus Oates, and his
 backwardness in the matter now furnished an additional charge of having
@@ -176,7 +176,7 @@ proceedings against him were revived, a committee of privileges deciding
 on the 19th of March 1679 that the dissolution of parliament was no
 abatement of an impeachment. A motion was passed for his committal by
 the Lords, who, as in Clarendon's case, voted his banishment. This was,
-however, rejected by the Commons, who now passed an act of attainder.
+however, rejected by the Commons, who now passed an act of [[Attainder|attainder]].
 Danby had removed to the country, but returned on the 21st of April to
 avoid the threatened passing by the Lords of the attainder, and was sent
 to the Tower. In his written defence he now pleaded the king's pardon,
@@ -190,13 +190,13 @@ Further proceedings, however, were stopped by the dissolution of
 parliament again in July; but for nearly five years Danby remained a
 prisoner in the Tower. A number of pamphlets asserting the complicity of
 the fallen minister in the Popish Plot, and even accusing him of the
-murder of Sir Edmund Berry Godfrey, were published in 1679 and 1680;
+murder of Sir Edmund [[Berry]] Godfrey, were published in 1679 and 1680;
 they were answered by Danby's secretary, Edward Christian, in
 _Reflections_; and in May 1681 Danby was actually indicted by the Grand
 Jury of Middlesex for Godfrey's murder on the accusation of Edward
 FitzHarris. His petition to the king for a trial by his peers on this
 indictment was refused, and an attempt to prosecute the publishers of
-the false evidence in the king's bench was unsuccessful. For some time
+the false evidence in the king's [[Bench|bench]] was unsuccessful. For some time
 all appeals to the king, to parliament, and to the courts of justice
 were unavailing; but on the 12th of February 1684 his application to
 Chief Justice Jeffreys was at last successful, and he was set at liberty
@@ -249,7 +249,7 @@ the new treason bill as weakening the hands of the executive. Meanwhile
 fresh attacks had been made upon him. He was accused unjustly of
 Jacobitism. In April 1695 he was impeached once more by the Commons for
 having received a bribe of 5000 guineas to procure the new charter for
-the East India Company. In his defence, whilst denying that he had
+the [[East India Company]]. In his defence, whilst denying that he had
 received the money and appealing to his past services, he did not
 attempt to conceal the fact that according to his experience bribery was
 an acknowledged and universal custom in public business, and that he
@@ -262,7 +262,7 @@ He returned in October, but was not included among the lords justices
 appointed regents during William's absence in this year. In November he
 was created D.C.L. by the university of Oxford; in December he became a
 commissioner of trade, and in December 1696 governor of the Royal
-Fishery Company. He opposed the prosecution of Sir John Fenwick, but
+Fishery Company. He opposed the prosecution of Sir John [[Fenwick]], but
 supported the action taken by members of both Houses in defence of
 William's rights in the same year. On the 23rd of April 1698 he
 entertained the tsar, Peter the Great, at Wimbledon. He had for some
@@ -270,7 +270,7 @@ time lost the real direction of affairs, and in May 1699 he was
 compelled to retire from office and from the lord-lieutenancy of
 Yorkshire.
 
-In Queen Anne's reign, in his old age, he is described as "a gentleman
+In Queen Anne's reign, in his old age, he is described as "a [[Gentleman|gentleman]]
 of admirable natural parts, great knowledge and experience in the
 affairs of his own country, but of no reputation with any party. He hath
 not been regarded, although he took his place at the council board."[13]
@@ -300,15 +300,15 @@ death on the 26th of July 1712.
   Statesmen," vol. v. (1850); in Lodge's _Portraits_, vii.; and _Lives
   and Characters of ... Illustrious Persons_, by J. le Neve (1714).
   Further material for his biography exists in _Add. MSS._, 26040-95 (56
-  vols., containing his papers); in the _Duke of Leeds MSS. at Hornby
+  vols., containing his papers); in the _Duke of Leeds MSS. at [[Hornby]]
   Castle_, calendered in _Hist. MSS. Comm._ 11th Rep. pt. vii. pp. 1-43;
   _MSS. of Earl of Lindsay and J. Eliot Hodgkin_; and _Calendars of
-  State Papers Dom_. See also _Add. MSS. 1894-1899_, Index and Calendar;
+  State Papers Dom_. See also _Add. MSS. 1894-1899_, [[Index]] and Calendar;
   _Hist. MSS. Comm._ 11th Rep. pt. ii., _House of Lords MSS.; Gen. Cat.
   British Museum_ for various pamphlets.     (P. C. Y.)
 
 
-_Later Dukes of Leeds._
+_Later [[Dukes]] of Leeds._
 
 The duke's only surviving son, Peregrine (1659-1729), who became 2nd
 duke of Leeds on his father's death, had been a member of the House of
@@ -330,7 +330,7 @@ this, however, two years later. Early in 1783 the marquess of
 Carmarthen, as he was called, was selected as ambassador to France, but
 he did not take up this appointment, becoming instead secretary for
 foreign affairs under William Pitt in December of the same year. As
-secretary he was little more than a cipher, and he left office in April
+secretary he was little more than a [[Cipher|cipher]], and he left office in April
 1791. Subsequently he took some slight part in politics, and he died in
 London on the 31st of January 1799. His _Political Memoranda_ were
 edited by Oscar Browning for the Camden Society in 1884, and there are
@@ -340,7 +340,7 @@ Holdernesse, who became Baroness Conyers in her own right in 1778. Their
 elder son, George William Frederick (1775-1838), succeeded his father as
 duke of Leeds and his mother as Baron Conyers. These titles were,
 however, separated when his son, Francis Godolphin Darcy, the 7th Duke
-(1798-1859), died without sons in May 1859. The barony passed to his
+(1798-1859), died without sons in May 1859. The [[Barony|barony]] passed to his
 nephew, Sackville George Lane-Fox (1827-1888), falling into abeyance on
 his death in August 1888, and the dukedom passed to his cousin, George
 Godolphin Osborne (1802-1872), a son of Francis Godolphin Osborne
@@ -379,10 +379,10 @@ FOOTNOTES:
 
   [10] Add. MSS. 28094, f. 47.
 
-  [11] Boyer's _Annals_ (1722), 433.
+  [11] Boyer's _[[Annals]]_ (1722), 433.
 
   [12] The title was taken, not from Leeds in Yorkshire, but from Leeds
-    in Kent, 4½ m. from Maidstone, which in the 17th century was a more
+    in Kent, 4½ m. from [[Maidstone]], which in the 17th century was a more
     important place than its Yorkshire namesake.
 
   [13] _Memoirs of Sir John Macky_ (Roxburghe Club, 1895), 46.

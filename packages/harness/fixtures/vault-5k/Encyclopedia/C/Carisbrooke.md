@@ -28,7 +28,7 @@ I., after which the government was entrusted to wardens as
 representatives of the crown. The keep was added to the castle in the
 reign of Henry I., and in the reign of Elizabeth, when the Spanish
 Armada was expected, it was surrounded by an elaborate pentagonal
-fortification. The castle was garrisoned by Baldwin de Redvers for the
+fortification. The castle was garrisoned by [[Baldwin]] de Redvers for the
 empress Maud in 1136, but was captured by Stephen. In the reign of
 Richard II. it was unsuccessfully attacked by the French; Charles I. was
 imprisoned here for fourteen months before his execution. Afterwards his

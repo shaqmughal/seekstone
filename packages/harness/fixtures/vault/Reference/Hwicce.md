@@ -9,7 +9,7 @@ id: 42-5791
 
 # Hwicce
 
-HWICCE, one of the kingdoms of Anglo-Saxon Britain. Its exact dimensions
+HWICCE, one of the kingdoms of Anglo-Saxon Britain. Its exact [[Dimension|dimensions]]
 are unknown; they probably coincided with those of the old diocese of
 Worcester, the early bishops of which bore the title "Episcopus
 Hwicciorum." It would therefore include Worcestershire, Gloucestershire
@@ -18,7 +18,7 @@ neighbourhood of Bath. The name Hwicce survives in Wychwood in
 Oxfordshire and Whichford in Warwickshire. These districts, or at all
 events the southern portion of them, were according to the _Anglo-Saxon
 Chronicle_, _s.a._ 577, originally conquered by the West Saxons under
-Ceawlin. In later times, however, the kingdom of the Hwicce appears to
+[[Ceawlin]]. In later times, however, the kingdom of the Hwicce appears to
 have been always subject to Mercian supremacy, and possibly it was
 separated from Wessex in the time of Edwin. The first kings of whom we
 read were two brothers, Eanhere and Eanfrith, probably contemporaries of
@@ -37,8 +37,8 @@ of English Mercia it submitted to King Alfred about 877-883 under Earl
 list of kings has been preserved, and we do not know whether the dynasty
 was connected with that of Wessex or Mercia.
 
-  See Bede, _Historia eccles._ (edited by C. Plummer) iv. 13 (Oxford,
-  1896); W. de G. Birch, _Cartularium Saxonicum_, 43, 51, 76, 85, 116,
+  See [[Bede]], _Historia eccles._ (edited by C. Plummer) iv. 13 (Oxford,
+  1896); W. de G. [[Birch]], _Cartularium Saxonicum_, 43, 51, 76, 85, 116,
   117, 122, 163, 187, 232, 233, 238 (Oxford, 1885-1889).
        (F. G. M. B.)
 

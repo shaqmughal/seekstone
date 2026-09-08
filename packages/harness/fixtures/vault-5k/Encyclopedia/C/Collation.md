@@ -14,8 +14,8 @@ comparison, and thus, particularly, the critical examination of the
 texts of documents or MSS. and the result of such comparison. The word
 is also a term in printing and bookbinding for the register of the
 "signatures," the number of quires and leaves in each quire of a book or
-MS. In Roman and Scots law "collation" answers to the English law term
-"hotch-pot" (q.v.). From another meaning of the Latin word, a
+MS. In Roman and Scots law "collation" answers to the [[English Law|English law]] term
+"[[Hotch-Pot|hotch-pot]]" (q.v.). From another meaning of the Latin word, a
 consultation or conference, and so a treatise or homily, comes the title
 of a work of Johannes Cassianus (q.v.), the _Conferences of the Fathers_
 (_Collationes Patrum_). Readings from this and similar works were
@@ -57,12 +57,12 @@ the greater part of his _Théâtre de société_. In 1763 Collé produced at
 the Théâtre Français _Dupuis et Desronais_, a successful sentimental
 comedy, which was followed in 1771 by _La Veuve_, which was a complete
 failure. In 1774 appeared _La Partie de chasse de Henri Quatre_ (partly
-taken from Dodsley's _King and the Miller of Mansfield_), Collé's last
+taken from Dodsley's _King and the Miller of [[Mansfield]]_), Collé's last
 and best play. From 1748 to 1772, besides these and a multitude of
 songs, Collé was writing his _Journal_, a curious collection of literary
 and personal strictures on his boon companions as well as on their
 enemies, on Piron as on Voltaire, on La Harpe as on Corneille. Collé
-died on the 3rd of November 1783. His lyrics are frank and jovial,
+died on the 3rd of November 1783. His lyrics are [[Frank|frank]] and jovial,
 though often licentious. The subjects are love and wine; occasionally,
 however, as in the famous lyric (1756) on the capture of Port Mahon, for
 which the author received a pension of 600 livres, the note of

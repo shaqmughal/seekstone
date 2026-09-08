@@ -6,19 +6,19 @@ topic: metaphysics
 
 # Handsel
 
-HANDSEL, the O. Eng. term for earnest money; especially in Scotland the
+HANDSEL, the O. Eng. term for [[Earnest|earnest]] money; especially in Scotland the
 first money taken at a market or fair. The termination _sel_ is the
 modern "sell." "Hand" indicates, not a bargain by shaking hands, but the
 actual putting of the money into the hand. Handsels were also presents
-or earnests of goodwill in the North; thus Handsel Monday, the first
+or earnests of [[Goodwill|goodwill]] in the North; thus Handsel Monday, the first
 Monday in the year, an occasion for universal tipping, is the equivalent
-of the English Boxing day.
+of the English [[Boxing]] day.
 
 
 
 
 HANDSWORTH. (1) An urban district in the Handsworth parliamentary
-division of Staffordshire, England, suburban to Birmingham on the
+division of Staffordshire, England, suburban to [[Birmingham]] on the
 north-west. Pop. (1891), 32,756; (1901) 52,921. (See BIRMINGHAM.) (2) An
 urban district in the Hallamshire parliamentary division of Yorkshire, 4
 m. S.E. of Sheffield. Pop. (1901), 13,404. In this neighbourhood are
@@ -36,19 +36,19 @@ It was necessary, however, that the document to be used for purposes of
 comparison either should have been executed with the formalities of a
 public document, or should have its genuineness proved by three
 attesting witnesses. The determination was apparently, in the latter
-case, left to experts, who were sworn to give an impartial opinion (Code
+case, left to [[Expert|experts]], who were sworn to give an impartial opinion ([[Code]]
 4, 21. 20). Proof by comparison of handwritings, with a reference if
 necessary to three experts as to the handwriting which is to be used for
 the purposes of comparison, is provided for in the French Code of Civil
 Procedure (arts. 193 et seq.); and in Quebec (Code Proc. Civ. arts. 392
-et seq.) and St Lucia (Code Civ. Proc. arts. 286 et seq.), the French
+et seq.) and St [[Lucia]] (Code Civ. Proc. arts. 286 et seq.), the French
 system has been adopted with modifications. Comparison by witnesses of
 disputed writings with any writing proved to the satisfaction of the
 judge to be genuine is accepted in England and Ireland in all legal
 proceedings whether criminal or civil, including proceedings before
-arbitrators (Denman Act, 28 & 29 Vict. c. 18, 55. 1, 8); and such
+arbitrators ([[Denman]] Act, 28 & 29 Vict. c. 18, 55. 1, 8); and such
 writings and the evidence of witnesses respecting the same may be
-submitted to the court and jury as evidence of the genuineness or
+submitted to the court and [[Jury|jury]] as evidence of the genuineness or
 otherwise of the writing in dispute. It is admitted in Scotland (where
 the term _comparatio literarum_ is in use) and in most of the American
 states, subject to the same conditions. In England, prior to the Common
@@ -75,9 +75,9 @@ been written by Mr Parnell, the court and jury are much assisted to
 appreciate the grounds on which the conclusions of the expert are
 founded. Evidence of this kind, being based on opinion and theory, needs
 to be very carefully weighed, and the dangers of implicit reliance on it
-have been illustrated in many cases (e.g. the Beck case in 1904; and see
+have been illustrated in many cases (e.g. the [[Beck]] case in 1904; and see
 _Seaman_ v. _Netherclift_, 1876, 1 C.P.D. 540). Evidence by comparison
-of handwriting comes in principally either in default, or in
+of handwriting comes in principally either in [[Default|default]], or in
 corroboration, of the other modes of proof.
 
 Where attestation is necessary to the validity of a document, e.g. wills
@@ -90,8 +90,8 @@ official documents need not in general be proved (see e.g. Evidence Act,
 
   See Taylor, _Law of Evidence_ (10th ed., London, 1906); Erskine
   _Principles of the Law of Scotland_ (20th ed., Edinburgh, 1903);
-  Bouvier, _Law Dicty._ (Boston and London, 1897); Harris,
-  _Identification_ (Albany, 1892); Hagan, _Disputed Handwriting_ (New
+  Bouvier, _Law Dicty._ ([[Boston]] and London, 1897); [[Harris]],
+  _[[Identification]]_ (Albany, 1892); Hagan, _Disputed Handwriting_ (New
   York, 1894); also the article IDENTIFICATION.     (A. W. R.)
 
 ## See also

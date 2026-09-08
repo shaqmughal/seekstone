@@ -22,12 +22,12 @@ foreigners or the release of state-debtors, were decided by secret-voting.
 The petalism, or voting by words on olive-leaves, practised at Syracuse,
 may also be mentioned. At Rome the ballot was introduced to the comitia by
 the _Leges Tabellariae_, of which the _Lex Gabiana_ (139 B.C.) relates to
-the election of magistrates, the _Lex Cassia_ (137 B.C.) to _judicia
+the election of [[Magistrate|magistrates]], the _Lex Cassia_ (137 B.C.) to _judicia
 populi_, and the _Lex Papiria_ (131 B.C.) to the enactment and repeal of
 laws. The wooden _tabellae_, placed in the _cista_ or wicker box, were
 marked U. R. (_uti rogas_) and A. (_antiquo_) in the case of a proposed
 law; L. (_libero_) and D. (_damno_) in the case of a public trial; in the
-case of an election, _puncta_ were made opposite the names or initials of
+case of an election, _puncta_ were made opposite the names or [[Initials|initials]] of
 the candidates. _Tabellae_ were also used by the Roman judices, who
 expressed their verdict or judgment by the letters A. (_absolvo_), C.
 (_condemno_), and N. L. (_non liquet_). In modern times voting by ballot is
@@ -37,7 +37,7 @@ vote.
 
 _Great Britain_.--In Great Britain the ballot was suggested for use in
 parliament by a political tract of the time of Charles II. It was actually
-used by the Scots parliament of 1662 in proceeding on the Billeting Act, a
+used by the Scots parliament of 1662 in proceeding on the [[Billeting]] Act, a
 measure proposed by Middleton to secure the ostracism of Lauderdale and
 other political opponents who were by secret-vote declared incapable of
 public office. The plan followed was this: each member of parliament wrote,
@@ -57,14 +57,14 @@ rendered it essential that such voting should be open. It was in the
 agitations for parliamentary reform at the beginning of the 19th century
 that the demand for the ballot in parliamentary elections was first
 seriously made. The Benthamites advocated the system in 1817. At the
-so-called Peterloo Massacre (1819) several banners were inscribed with the
+so-called Peterloo [[Massacre]] (1819) several [[Banners|banners]] were inscribed with the
 ballot. O'Connell introduced a bill on the subject in 1830; and the
 original draft of Lord John Russell's Reform Bill, probably on the
 suggestion of Lords Durham and Duncannon, provided for its introduction.
 Later on the historian Grote became its chief supporter in the House of
 Commons; and from 1833 to 1839, in spite of the ridicule cast by Sydney
 Smith on the "mouse-trap," and on Grote's "dagger-box, in which you stab
-the card of your favourite candidate with a dagger,"[1] the minority for
+the card of your favourite candidate with a [[Dagger|dagger]],"[1] the minority for
 the ballot increased from 106 to 217. In 1838 the ballot was the fourth
 point of the People's Charter. In the same year the abolition of the land
 qualification introduced rich commercial candidates to the constituencies.
@@ -94,7 +94,7 @@ against double-voting or voting with a non-official card, and also against
 the voter carrying away his card). In 1869, at Manchester and Stafford in
 England, test-ballots were taken on the Australian system as practised in
 Victoria--the voting-card containing the names of all the candidates,
-printed in different colours (for the benefit of illiterate voters), and
+printed in different [[Colours|colours]] (for the benefit of illiterate voters), and
 the voter being directed to score out the names of those he did not
 support, and then to place the card (covered by an official envelope) in
 the box. It was found at Manchester that the voting was considerably more
@@ -110,18 +110,18 @@ returning-officer stamped each card before giving it to the voter, the die
 of the stamp having been finished only on the morning of the election. By
 this means the possibility was excluded of what was known as "the Tasmanian
 Dodge," by which a corrupt voter gave to the returning-officer, or placed
-in the box, a blank non-official ticket, and carried out from the booth his
+in the box, a [[Blank|blank]] non-official ticket, and carried out from the [[Booth|booth]] his
 official card, which a corrupt agent then marked for his candidate, and
 gave so marked to corrupt voter No. 2 (before he entered the booth) on
 condition that he also would bring out his official card, and so on _ad
 libitum_; the agent thus obtaining a security for his bribe, unless the
-corrupt voter chose to disfranchise himself by making further marks on the
+corrupt voter [[Chose|chose]] to disfranchise himself by making further marks on the
 card. At the close of 1870 the ballot was employed in the election of
 members for the London School Board under the Education Act of that year.
 
 In 1872 W. E. Forster's Ballot Act introduced the ballot in all
 parliamentary and municipal elections, except parliamentary elections for
-universities; and the code of procedure prescribed by the act was adopted
+universities; and the [[Code|code]] of procedure prescribed by the act was adopted
 by the Scottish Education Board in the first School Board election (1873)
 under the Education (Scotland) Act 1872. The Ballot Act not only abolished
 public nominations of candidates, but dealt with the offence of personation
@@ -194,9 +194,9 @@ offences and attempts to commit them are punishable in the case of officers
 and clerks with imprisonment for two years, with or without hard labour. In
 other cases the term of imprisonment is six months.
 
-The ballot was long criticized as leading to universal hypocrisy and
+The ballot was long criticized as leading to universal [[Hypocrisy|hypocrisy]] and
 deception; and Sydney Smith spoke of "voters, in dominos, going to the poll
-in sedan-chairs with closely-drawn curtains." The observed effect of a
+in sedan-chairs with closely-drawn [[Curtain|curtains]]." The observed effect of a
 secret ballot has been, however, gradually to exterminate undue influence.
 The alarm of "the confessional" seems to be unfounded, as a Catholic
 penitent is not bound to [v.03 p.0280] confess his vote, and if he did so,
@@ -209,13 +209,13 @@ elections to the Corps Législatif was carefully regulated at the beginning
 of the Second Empire by the Organic Decree of the 2nd of February 1852.
 Under this law the voting was superintended by a bureau consisting of the
 deputy returning-officer (called president of the section), four unpaid
-assessors selected from the constituency and a secretary. Each voter
+[[Assessor|assessors]] selected from the constituency and a secretary. Each voter
 presents a polling-card, with his designation, date of birth and signature
 (to secure identity), which he had previously got at the Mairie. This the
 president mutilates, and the vote is then recorded by a "bulletin," which
 is not official, but is generally printed with a candidate's name, and
 given to the voter by an agent outside, the only conditions being that the
-bulletin shall be "sur papier blanc, sans signes extérieurs, et préparé en
+bulletin shall be "sur papier [[Blanc|blanc]], sans signes extérieurs, et préparé en
 dehors de l'assemblée." The total number of votes given (there being only
 one member in each electoral district) is checked by reference to "la
 feuille _d'appel_ et inscription des votants," the law still supposing that
@@ -254,7 +254,7 @@ which the ball-ballot is used. The voting takes place in the churches, each
 candidate has a box on which his name is inscribed, one half (white) being
 also marked "yes," the other half (black) "no." The voter, his citizenship
 or right to vote in the eparchy being verified, receives one ball or leaden
-bullet for each candidate from a wooden bowl, which a clerk carries from
+[[Bullet|bullet]] for each candidate from a wooden bowl, which a clerk carries from
 box to box. The voter stretches his arm down a funnel, and drops the ball
 into the "yes" or "no" division. The vote is secret, but there is
 apparently no check on "yes" votes being given for all the candidates, and
@@ -287,7 +287,7 @@ Pennsylvania, Delaware, North Carolina and South Carolina; they were
 introduced in New Jersey in 1776, and in New York in 1778, so that, at the
 time the constitution of the United States was adopted, viva voce voting
 prevailed at public elections only in Maryland, Virginia and Georgia. Of
-the new states which later entered the Union, only Illinois, Kentucky,
+the new states which later entered the Union, only Illinois, [[Kentucky]],
 Missouri and Arkansas did not have a ballot system when they became states.
 During the first half of the 19th century, Maryland, Georgia, Arkansas
 (1846) and Illinois (1848) adopted the ballot. In Missouri ballot-voting
@@ -323,7 +323,7 @@ money had been raised on an unprecedented scale for the purchase of votes,
 and this situation created a feeling of deep alarm which gave a powerful
 impetus to the movement for ballot reform. In 1889 new ballot laws were
 enacted in nine states: two states bordering on Massachusetts, Connecticut
-and Rhode Island; four states in the middle-west, Indiana, Michigan,
+and Rhode Island; four states in the middle-west, [[Indiana]], Michigan,
 Wisconsin and Minnesota; two southern states, Tennessee and Missouri; and
 Montana, in the far west. The Connecticut law, however, marked but little
 improvement over former conditions, since it provided only for official
@@ -347,7 +347,7 @@ seventeen additional states and two territories adopted the Australian
 ballot system. All of these provided for a blanket ballot; but while the
 Massachusetts arrangement was adopted in Arkansas, Nebraska, New Hampshire,
 North and South Dakota, Kentucky, Texas and Oregon, the system of party
-groups was followed in Colorado, Delaware, Illinois, Maine, Ohio,
+groups was followed in Colorado, Delaware, Illinois, [[Maine]], Ohio,
 Pennsylvania and West Virginia. California had the Massachusetts
 arrangement of names, but added on the ballot a list of party names, by
 marking one of which a voter would cast his vote for all of the candidates
@@ -355,13 +355,13 @@ of that party. Pennsylvania placed all the candidates not in a party-group
 in alphabetical order.
 
 Iowa adopted the Australian ballot system in 1892; Alabama and Kansas in
-1893; Virginia in 1894; Florida in 1895; and Louisiana and Utah in 1896. In
+1893; Virginia in 1894; Florida in 1895; and [[Louisiana]] and Utah in 1896. In
 1895, too, New York adopted the blanket ballot in place of separate party
 ballots, but arranged the names of candidates in party columns. The only
 state to abandon the blanket ballot after once adopting it was Missouri
 which in 1897 returned to the system of separate ballots, with no provision
 for booths where the ballot might be marked in secret. (See the article,
-"Present Status of the Ballot Laws," by Arthur Ludington in _Amer. Pol.
+"Present Status of the Ballot Laws," by Arthur [[Ludington]] in _Amer. Pol.
 Science Rev._ for May 1909.)
 
 Owing to the large number of officials chosen at one time in American
@@ -381,7 +381,7 @@ wishes to vote. Where, as in Massachusetts, the names of candidates are
 arranged by offices instead of in party-lists, every voter must mark the
 name of each individual candidate for whom he wishes to vote. Connecticut,
 New Jersey, Missouri, North and South Carolina, Georgia and New Mexico use
-the system of separate party ballots. (See also VOTING, VOTING MACHINES,
+the system of separate party ballots. (See also VOTING, VOTING [[Machine|MACHINES]],
 ELECTION, REPRESENTATION.)
 
 [1] For a description of Grote's card-frame, in which the card was

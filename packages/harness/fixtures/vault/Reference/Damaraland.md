@@ -12,7 +12,7 @@ and have adopted the Hottentot tongue, while the Cattle Damara are of
 distinct Bantu-Negro descent and speak a Bantu language. The term Damara
 ("Two Dama Women") is of Hottentot origin, and is not used by the
 people, who call themselves Ova-herero, "the Merry People" (see
-HOTTENTOTS and HERERO).
+HOTTENTOTS and [[Herero|HERERO]]).
 
 ## References
 

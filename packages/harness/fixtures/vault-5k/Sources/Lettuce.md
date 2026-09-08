@@ -25,7 +25,7 @@ encouraged, and in mild winters a considerable extent of the planting
 out is done, but in private gardens the preferable time would be
 February. The ground should be light and rich, and well manured below,
 and the plants put out at 1 ft. apart each way with the dibble. Frequent
-stirring of the ground with the hoe greatly encourages the growth of the
+stirring of the ground with the [[Hoe|hoe]] greatly encourages the growth of the
 plants. A second sowing should be made about the 5th of November, and a
 third in frames about the end of January or beginning of February. In
 March a sowing may be made in some warm situation out of doors;
@@ -36,7 +36,7 @@ being the most reliable in a severe winter. These plants may be put out
 early in October on the sides of ridges facing the south or at the front
 of a south wall, beyond the reach of drops from the copings, being
 planted 6 or 8 in. apart. Young lettuce plants should be thinned out in
-the seed-beds before they crowd or draw each other, and transplanted as
+the seed-beds before they [[Crowd|crowd]] or draw each other, and transplanted as
 soon as possible after two or three leaves are formed. Some cultivators
 prefer that the summer crops should not be transplanted, but sown where
 they are to stand, the plants being merely thinned out; but
@@ -53,7 +53,7 @@ balls attached to the roots, and should be placed in a mild hotbed of
 well-prepared dung (about 55°) covered about 1 ft. deep with a compost
 of sandy peat, leaf-mould and a little well-decomposed manure. The Cos
 and Brown Dutch varieties should be planted about 9 in. apart. Give
-plenty of air when the weather permits, and protect from frost. For
+plenty of air when the weather permits, and protect from [[Frost|frost]]. For
 winter work Stanstead Park Cabbage Lettuce is greatly favoured now by
 London market-gardeners, as it stands the winter well. Lee's Immense is
 another good variety, while All the Year Round may be sown for almost

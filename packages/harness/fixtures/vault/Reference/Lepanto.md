@@ -7,7 +7,7 @@ topic: folklore
 # Lepanto
 
 LEPANTO,[1] BATTLE OF, fought on the 7th of October 1571. The conquest
-of Cyprus by the Turks, and their aggressions on the Christian powers,
+of [[Cyprus]] by the Turks, and their aggressions on the Christian powers,
 frightened the states of the Mediterranean into forming a holy league
 for their common defence. The main promoter of the league was Pope Pius
 V., but the bulk of the forces was supplied by the republic of Venice
@@ -19,17 +19,17 @@ natural brother, Don John of Austria. It included, however, only
 twenty-four Spanish ships. The great majority of the two hundred galleys
 and eight galeasses, of which the fleet was composed, came from Venice,
 under the command of the proveditore Barbarigo; from Genoa, which was in
-close alliance with Spain, under Gianandrea Doria; and from the Pope
-whose squadron was commanded by Marc Antonio Colonna. The Sicilian and
+close alliance with Spain, under Gianandrea [[Doria]]; and from the Pope
+whose squadron was commanded by Marc [[Antonio]] Colonna. The Sicilian and
 Neapolitan contingents were commanded by the marquess of Santa Cruz, and
-Cardona, Spanish officers. Eight thousand Spanish soldiers were
+[[Cardona]], Spanish officers. Eight thousand Spanish soldiers were
 embarked. The allied fleet was collected slowly at Messina, from whence
-it advanced by the passage between Ithaca and Cephalonia to Cape
+it advanced by the passage between [[Ithaca]] and [[Cephalonia]] to Cape
 Marathia near Dragonera. The Turkish fleet which had come up from Cyprus
 and Crete anchored in the Gulf of Patras. It consisted in all of 273
 galleys which were of lighter build than the Christians', and less well
-supplied with cannon or small arms. The Turks still relied mainly on the
-bow and arrow. Ali, the capitan pasha, was commander-in-chief, and he
+supplied with [[Cannon|cannon]] or small arms. The Turks still relied mainly on the
+[[Bow|bow]] and arrow. Ali, the capitan pasha, was commander-in-chief, and he
 had with him Chulouk Bey of Alexandria, commonly called Scirocco, and
 Uluch Ali, dey of Algiers. On the 7th of October the Christian fleet
 advanced to the neighbourhood of Cape Scropha. It was formed in the
@@ -56,11 +56,11 @@ the capitan pasha met prow to prow--the Christians reserving the fire of
 their bow guns (called _di cursia_) till the moment of impact, and then
 boarding. Ali Pasha was slain and his galley taken. Everywhere on the
 centre the Christians gained the upper hand, but their victory was
-almost turned into a defeat by the mistaken manoeuvres of Doria. In fear
+almost turned into a defeat by the mistaken [[Manoeuvres|manoeuvres]] of Doria. In fear
 lest he should be outflanked by Uluch Ali, he stood out to sea, leaving
-a gap between himself and the centre. The dey of Algiers, who saw the
+a [[Gap|gap]] between himself and the centre. The dey of Algiers, who saw the
 opening, reversed the order of his squadron, and fell on the right of
-the centre. The galleys of the Order of Malta, which were stationed at
+the centre. The galleys of the Order of [[Malta]], which were stationed at
 this point, suffered severely, and their flagship was taken with great
 slaughter. A disaster was averted by the marquess of Santa Cruz, who
 brought up the reserve. Uluch Ali then retreated with sail and oar,
@@ -77,13 +77,13 @@ of the Mediterranean did really combine to avert the ruin of
 Christendom. Hardly a noble house of Spain or Italy was not represented
 in the fleet, and the princes headed the boarders. Volunteers came from
 all parts of Europe, and it is said that among them was Sir Richard
-Grenville, afterwards famous for his fight in the "Revenge" off Flores
-in the Azores. Cervantes was undoubtedly present, and had his left hand
-shattered by a Turkish bullet.
+[[Grenville]], afterwards famous for his fight in the "Revenge" off [[Flores]]
+in the [[Azores]]. Cervantes was undoubtedly present, and had his left hand
+shattered by a Turkish [[Bullet|bullet]].
 
   For full accounts of the battle, with copious references to
   authorities and to ancient controversies, mostly arising out of the
-  conduct of Doria, see Sir W. Stirling Maxwell, _Don John of Austria_
+  conduct of Doria, see Sir W. Stirling [[Maxwell]], _Don John of Austria_
   (1883); and Jurien de la Gravière, _La Guerre de Chypre et la bataille
   de Lepanto_ (1888).     (D. H.)
 

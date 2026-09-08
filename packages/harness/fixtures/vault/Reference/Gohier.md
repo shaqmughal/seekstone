@@ -4,13 +4,13 @@ GOHIER, LOUIS JEROME (1746-1830), French politician, was born at
 Semblancay (Indre-et-Loire) on the 27th of February 1746, the son of a
 notary. He was called to the bar at Rennes, and practised there until he
 was sent to represent the town in the states-general. In the Legislative
-Assembly he represented Ille-et-Vilaine. He took a prominent part in the
+Assembly he represented [[Ille-Et-Vilaine|Ille-et-Vilaine]]. He took a prominent part in the
 deliberations; he protested against the exaction of a new oath from
 priests (Nov. 22, 1791), and demanded the sequestration of the
 emigrants' property (Feb. 7, 1792). He was minister of justice from
 March 1793 to April 1794, and in June 1799 he succeeded Treilhard in the
-Directory, where he represented the republican interest. His wife was
-intimate with Josephine Bonaparte, and when Bonaparte suddenly returned
+[[Directory]], where he represented the republican interest. His wife was
+intimate with Josephine [[Bonaparte]], and when Bonaparte suddenly returned
 from Egypt in October 1799 he repeatedly protested his friendship for
 Gohier, who was then president of the Directory, and tried in vain to
 gain him over. After the _coup d'etat_ of the 18th Brumaire (Nov. 9,

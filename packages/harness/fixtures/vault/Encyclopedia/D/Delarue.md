@@ -20,7 +20,7 @@ returned to France. The rest of his life was spent in his native town,
 where he was chosen principal of his university. While in England he had
 been elected a member of the Royal Society of Antiquaries; and in his
 own country he was made a corresponding member of the Institute, and was
-enrolled in the Legion of Honour. Besides numerous articles in the
+enrolled in the [[Legion]] of Honour. Besides numerous articles in the
 _Memoirs of the Royal Society of London_, the _Memoires de l'Institut_,
 the _Memoires de la Societe d'Agriculture de Caen_, and in other
 periodical collections, he published separately _Essais historiques sur

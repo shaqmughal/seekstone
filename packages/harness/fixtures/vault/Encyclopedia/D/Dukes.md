@@ -8,7 +8,7 @@ id: 42-2148
 
 # Dukes
 
-DUKES, LEOPOLD (1810-1891), Hungarian critic of Jewish literature. He
+DUKES, [[Leopold|LEOPOLD]] (1810-1891), Hungarian critic of Jewish literature. He
 spent about twenty years in England, and from his researches in the
 Bodleian library and the British Museum (which contain two of the most
 valuable Hebrew libraries in the world) Dukes was able to complete the

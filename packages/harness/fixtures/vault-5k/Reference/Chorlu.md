@@ -14,14 +14,14 @@ tributary of the Ergene, 20 m. N.E. of Rodosto. Pop. (1905) about
 Armenians and Jews. Chorlu has a station on the Constantinople-Adrianople
 branch of the Oriental railways. It manufactures woollen cloth (_shayak_)
 and native carpets, and exports cereals, oil-cloth, carpets, cattle,
-poultry, fresh meat, game, fruits, wine, alcohol, hides and bones.
+poultry, fresh meat, [[Game|game]], fruits, wine, alcohol, hides and [[Bone|bones]].
 
 
 
 
 CHOROGRAPHY. (1) (From the Gr. [Greek: chôra], a tract of country, and
 [Greek: graphein], to write), a description or delineation on a map of a
-district or tract of country; it is to be distinguished from "geography"
+district or tract of country; it is to be distinguished from "[[Geography|geography]]"
 and "topography," which treat of the earth as a whole and of particular
 places respectively. The word is common in old geographical treatises,
 but is now superseded by the wider use of "topography." (2) (From the
@@ -36,9 +36,9 @@ altitude 2300 ft., situated on the edge of a wide plain, almost
 equidistant from Amasia and Yuzgat. Pop. about 12,500, including a few
 Christians. Its importance is largely due to its situation on the great
 trade-route from Kaisaríeh (Caesarea) by Yuzgat and Marzivan to Samsun
-on the Black Sea. It corresponds to the ancient _Euchaita_, which lay 15
+on the [[Black Sea]]. It corresponds to the ancient _Euchaita_, which lay 15
 m. E. Euchaiti was attacked by the Huns A.D. 508, and became a bishopric
-at an early period and a centre of religious enthusiasm, as containing
+at an early period and a centre of religious [[Enthusiasm|enthusiasm]], as containing
 the tomb of the revered St Theodore, who slew a dragon in the vicinity
 and became one of the great warrior saints of the Greek Church.
 Something of the old enthusiasm seems to have passed to the inhabitants

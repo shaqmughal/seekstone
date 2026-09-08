@@ -8,7 +8,7 @@ type: source
 # Cherkasy
 
 CHERKASY (Polish, _Czerkasy_), a town of Russia, in the government of
-Kiev, 96 m. S.E. of Kiev, on the right bank of the Dnieper. Pop. (1883)
+Kiev, 96 m. S.E. of Kiev, on the right bank of the [[Dnieper]]. Pop. (1883)
 15,740; (1897) 26,619. The inhabitants (Little Russians) are mostly
 employed in agriculture and gardening; but sugar and tobacco are
 manufactured and spirits distilled. Cherkasy was an important town of

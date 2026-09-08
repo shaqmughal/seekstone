@@ -15,9 +15,9 @@ In the west is the Schneifels or Schnee-Eifel; and the southern part,
 where the most picturesque scenery and chief geological interest is
 found, is called the Vorder Eifel.
 
-The Eifel is an ancient massif of folded Devonian rocks upon the margins
+The Eifel is an ancient [[Massif|massif]] of folded Devonian rocks upon the margins
 of which, near Hillesheim and towards Bitburg and Trier, rest
-unconformably the nearly undisturbed sandstones, marls and limestones of
+unconformably the nearly undisturbed sandstones, [[Marl|marls]] and [[Limestone|limestones]] of
 the Trias. On the southern border, at Wittlich, the terrestrial deposits
 of the Permian Rothliegende are also met with. The slates and sandstones
 of the Lower Devonian form by far the greater part of the region; but
@@ -28,7 +28,7 @@ Upper Devonian. Upon the ancient floor of folded Devonian strata stand
 numerous small volcanic cones, many of which, though long extinct, are
 still very perfect in form. The precise age of the eruptions is
 uncertain. The only sign of any remaining volcanic activity is the
-emission in many places of carbon dioxide and of heated waters. There is
+emission in many places of [[Carbon|carbon]] dioxide and of heated waters. There is
 no historic or legendary record of any eruption, but nevertheless the
 eruptions must have continued to a very recent geological period. The
 lavas of Papenkaule are clearly posterior to the excavation of the
@@ -43,7 +43,7 @@ beyond the Rhine.
 
 The numerous so-called crater-lakes or _maare_ of the Eifel present
 several features of interest. They do not, as a rule, lie in true
-craters at the summit of volcanic cones, but rather in hollows which
+[[Crater|craters]] at the summit of volcanic cones, but rather in hollows which
 have been formed by explosions. The most remarkable group is that of
 Daun, where the three depressions of Gemünd, Weinfeld and Schalkenmehren
 have been hollowed out in the Lower Devonian strata. The first of these
@@ -58,13 +58,13 @@ powder (_pulver_).
 
 
 EIFFEL TOWER. Erected for the exposition of 1889, the Eiffel Tower, in
-the Champ de Mars, Paris, is by far the highest artificial structure in
+the Champ de [[Mars]], Paris, is by far the highest artificial structure in
 the world, and its height of 300 metres (984 ft.) surpasses that of the
 obelisk at Washington by 429 ft., and that of St Paul's cathedral by 580
 ft. Its framework is composed essentially of four uprights, which rise
 from the corners of a square measuring 100 metres on the side; thus the
 area it covers at its base is nearly 2½ acres. These uprights are
-supported on huge piers of masonry and concrete, the foundations for
+supported on huge piers of [[Masonry|masonry]] and concrete, the foundations for
 which were carried down, by the aid of iron caissons and compressed air,
 to a depth of about 15 metres on the side next the Seine, and about 9
 metres on the other side. At first they curve upwards at an angle of
@@ -74,7 +74,7 @@ shaft rather more than half-way up. The first platform, at a height of
 staircases or lifts. The next, accessible by lifts only, is 115 metres
 up, and has an area of 32 sq. yds; while the third, at 276, supports a
 pavilion capable of holding 800 persons. Nearly 25 metres higher up
-still is the lantern, with a gallery 5 metres in diameter. The work of
+still is the [[Lantern|lantern]], with a gallery 5 metres in diameter. The work of
 building this structure, which is mainly composed of iron lattice-work,
 was begun on the 28th of January 1887, and the full height was reached
 on the 13th of March 1889. Besides being one of the sights of Paris, to

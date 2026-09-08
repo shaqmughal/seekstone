@@ -7,10 +7,10 @@ type: source
 
 # Dio Cassius
 
-DIO CASSIUS (more correctly CASSIUS DIO), COCCEIANUS (c. A.D. 150-235),
+DIO CASSIUS (more correctly [[Cassius|CASSIUS]] DIO), COCCEIANUS (c. A.D. 150-235),
 Roman historian, was born at Nicaea in Bithynia. His father was Cassius
-Apronianus, governor of Dalmatia and Cilicia under Marcus Aurelius, and
-on his mother's side he was the grandson of Dio Chrysostom, who had
+Apronianus, governor of [[Dalmatia]] and Cilicia under Marcus Aurelius, and
+on his mother's side he was the grandson of [[Dio Chrysostom]], who had
 assumed the surname of Cocceianus in honour of his patron the emperor
 Cocceius Nerva. After his father's death, Dio Cassius left Cilicia for
 Rome (180) and became a member of the senate. During the reign of
@@ -26,16 +26,16 @@ was raised a second time to the consulship by Alexander Severus, in 229;
 but on the plea of ill health soon afterwards retired to Nicaea, where
 he died. Before writing his history of Rome ([Greek: Rhômaika] or
 [Greek: Rhômaikê Historia]), Dio Cassius had dedicated to the emperor
-Severus an account of various dreams and prodigies which had presaged
+Severus an account of various [[Dream|dreams]] and prodigies which had presaged
 his elevation to the throne (perhaps the [Greek: Enodia] attributed to
 Dio by Suidas), and had also written a biography of his
-fellow-countryman Arrian. The history of Rome, which consisted of
+fellow-countryman [[Arrian]]. The history of Rome, which consisted of
 eighty books,--and, after the example of Livy, was divided into
 decades,--began with the landing of Aeneas in Italy, and was continued
 as far as the reign of Alexander Severus (222-235). Of this great work
 we possess books 36-60, containing the history of events from 68
 B.C.-A.D. 47; books 36 and 55-60 are imperfect. We also have part of 35
-and 36-80 in the epitome of John Xiphilinus, an 11th-century Byzantine
+and 36-80 in the [[Epitome|epitome]] of John Xiphilinus, an 11th-century Byzantine
 monk. For the earlier period the loss of Dio's work is partly supplied
 by the history of Zonaras, who followed him closely. Numerous fragments
 are also contained in the excerpts of Constantine Porphyrogenitus. Dio's

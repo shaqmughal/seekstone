@@ -9,7 +9,7 @@ tags: [history, biography]
 
 DALMATIA (Ger. _Dalmatien_; Ital. _Dalmazia_; Serbo-Croatian,
 _Dalmacija_), a kingdom and crownland of the Austro-Hungarian empire, in
-the north-west of the Balkan Peninsula, and on the Adriatic Sea.
+the north-west of the [[Balkan Peninsula]], and on the Adriatic Sea.
 Dalmatia is bounded, on the landward side, by Croatia and Bosnia, in the
 N. and N.E.; and by Herzegovina and Montenegro, in the S.E. and S. Its
 area amounts to 4923 sq. m.; its greatest length, from north-west to
@@ -29,12 +29,12 @@ Gulf of Quarnerolo, forms two island groups, the northern or Liburnian,
 and the southern; with open water intervening, off Point Planca. In calm
 weather the channels between the islands and the mainland resemble a
 chain of landlocked lakes, brilliantly clear to a depth of several
-fathoms. As a rule, the surrounding hills are rugged, bleached almost
+[[Fathom|fathoms]]. As a rule, the surrounding hills are rugged, bleached almost
 white or pale russet, and destitute of verdure; but their monotony is
 relieved by the half-ruined castles and monasteries clinging to the
 rocks, or by the beauty of such cities as Ragusa, or Arbe, with its
-fantastic row of steeples overlooking the beach. The principal islands,
-Arbe, Brazza, Curzola, Lacroma, Lesina, Lissa and Meleda, are described
+fantastic row of steeples overlooking the [[Beach|beach]]. The principal islands,
+Arbe, [[Brazza]], [[Curzola]], Lacroma, [[Lesina]], Lissa and Meleda, are described
 under separate headings. The promontory of Sabbioncello, or Punta di
 Stagno, which juts out for 41 m. into the sea, between Curzola and
 Lesina, is almost another island; for its breadth, which nowhere exceeds
@@ -53,10 +53,10 @@ frontier between Dalmatia and Bosnia; Dinara (6007 ft.), which gives its
 name to the whole chain, and Troglav (6276 ft.), being the highest
 Dalmatian summits. North-west of Sinj rise the Svilaja and Mosec
 Planinas; the ridges of Mosor and Biokovo, with Sveto Juraj (5781 ft.),
-follow the windings of the coast from Spalato to Macarsca; Orjen marks
+follow the windings of the coast from Spalato to [[Macarsca]]; Orjen marks
 the meeting-place of the Herzegovinian, Montenegrin and Dalmatian
 frontiers, and the Sutorman range appears in the extreme south. The
-barren dry limestone of the Dalmatian highlands has been aptly compared
+barren dry [[Limestone|limestone]] of the Dalmatian highlands has been aptly compared
 with a petrified sponge; for it is honeycombed with underground caverns
 and water-courses, into which the rainfall is at once filtered. Thus
 arises a complete system of subterranean rivers, with waterfalls, lakes
@@ -134,7 +134,7 @@ young trees.
 _Agriculture._--Little more than one-tenth of the whole surface is under
 the plough; the rest, where it is not altogether sterile, being chiefly
 mountain pasture, vineyards and garden land. Asses are the favourite
-beasts of burden; goats are strikingly numerous; and sheep are kept for
+beasts of [[Burden|burden]]; goats are strikingly numerous; and sheep are kept for
 the sake of their mutton, which is almost the only animal food freely
 consumed by the peasantry. Cattle-breeding, bee-keeping, and the
 cultivation of fruit and vegetables, especially potatoes and beetroot,
@@ -227,7 +227,7 @@ official title of the Croatian king, i.e. the emperor. The political
 system is based on a law of the 26th of February 1861. The provincial
 diet is composed of 43 members, comprising the Roman Catholic
 archbishop, the Orthodox bishop of Zara and representatives of the chief
-taxpayers, the towns and the communes. Benkovac, on the main road from
+taxpayers, the towns and the [[Commune|communes]]. Benkovac, on the main road from
 Zara to Spalato, Cattaro, Curzola, Imotski, 21 m. N. by E. of Macarsca,
 Knin, Lesina, Macarsca, Ragusa, Sebenico, Sinj, Spalato and Zara, give
 names to the twelve administrative districts, of which they are the
@@ -260,7 +260,7 @@ of the Roman Catholics in Dalmatia.
 
 _Education._--Education progressed slowly between 1860 and 1900,
 attendance at school being often a hardship in the poor and widely
-scattered hamlets of the interior. In 1890 more than 80% of the
+scattered [[Hamlet|hamlets]] of the interior. In 1890 more than 80% of the
 population could neither read nor write, although schools are maintained
 by every commune. In 1893 the country possessed 5 intermediate and 337
 elementary schools, 6 theological seminaries, 6 gymnasia, and about 40
@@ -294,7 +294,7 @@ At Arbe there is a beautiful Romanesque campanile which also belongs to
 the 12th century; but the finest example in this style is the cathedral
 of Trau. The 14th century Dominican and Franciscan convents in Ragusa
 are also noteworthy. Romanesque lingered on in Dalmatia until it was
-displaced by Venetian Gothic in the early years of the 15th century. The
+displaced by Venetian [[Gothic]] in the early years of the 15th century. The
 influence of Venice was then at its height. Even in the hostile republic
 of Ragusa the Romanesque of the custom-house and Rectors' palace is
 combined with Venetian Gothic, while the graceful balconies and ogee
@@ -348,7 +348,7 @@ civilization in the literature of Ragusa. To such a division of
 population may be attributed the two dominant characteristics of local
 history--the total absence of national as distinguished from civic life,
 and the remarkable development of art, science and literature. Bosnia,
-Servia and Bulgaria had each its period of national greatness, but
+Servia and [[Bulgaria]] had each its period of national greatness, but
 remained intellectually backward; Dalmatia failed ever to attain
 political or racial unity, but the Dalmatian city-states, isolated and
 compelled to look to Italy for support, shared perforce in the march of
@@ -374,7 +374,7 @@ consolidating their own power in the purely Slavonic towns, such as Nona
 or Belgrad (Zaravecchia). The Church was involved in the general
 confusion; for the synod of Spalato, in 1059, had forbidden the use of
 any but Greek or Latin liturgies, and so had accentuated the differences
-between Latin and Slav. A raid of Norman corsairs in 1073 was hardly
+between Latin and Slav. A raid of Norman [[Corsair|corsairs]] in 1073 was hardly
 defeated with the help of a Venetian fleet.
 
 _Rivalry of Venice and Hungary in Dalmatia_, 1102-1420.--Unable amid
@@ -399,7 +399,7 @@ money or in kind. Arbe, for example, annually paid ten pounds of silk or
 five pounds of gold to Venice. The citizens clung to their municipal
 privileges, which were reaffirmed after the conquest of Dalmatia in
 1102-1105 by Coloman of Hungary. Subject to the royal assent they might
-elect their own chief magistrate, bishop and judges. Their Roman law
+elect their own chief [[Magistrate|magistrate]], bishop and judges. Their Roman law
 remained valid. They were even permitted to conclude separate alliances.
 No alien, not even a Hungarian, could reside in a city where he was
 unwelcome; and the man who disliked Hungarian dominion could emigrate
@@ -510,7 +510,7 @@ the Bocche di Cattaro and induced the Montenegrins to render aid.
 Poglizza was deprived of its independence by Napoleon in 1807, Ragusa
 in 1808. In 1809 the French troops were withdrawn, but in the same year
 Dalmatia was restored to France and united to the Illyrian kingdom by
-the treaty of Vienna. A British naval force under Captain Hoste, after a
+the treaty of Vienna. A British naval force under Captain [[Hoste]], after a
 successful engagement with a small French squadron off Lissa, occupied
 the islands of Curzola, Lesina and Lagosta from 1812 to 1815, and
 established a considerable overland trade through Dalmatia, Austria and
@@ -544,7 +544,7 @@ CROATIA-SLAVONIA.
   mentioned above, and those by Farlatus, Makushev, Miklosich, Theiner,
   Shafarik, Orbini and du Cange, which are quoted under BOSNIA AND
   HERZEGOVINA, the chief authority for Dalmatian history is G. Lucio
-  (Lucius of Trau), _De regno Dalmatiae et Croatiae, a gentis origine ad
+  ([[Lucius]] of Trau), _De regno Dalmatiae et Croatiae, a gentis origine ad
   annum 1480_ (Amsterdam, 1666). To this edition are appended the works
   of the Presbyter Diocleas, Thomas of Spalato and other native
   chroniclers from the 12th century onwards. An Italian translation,
@@ -578,7 +578,7 @@ FOOTNOTES:
     identified, by modern archaeologists, with Almissa, on the coast,
     Dalen, in the Herzegovina, Duvno, near Sinj, and Gardun, in the same
     locality. It was evidently a stronghold of considerable size and
-    importance, and Appian (_De bellis Illyricis_) alludes to its almost
+    importance, and Appian (_De [[Belli|bellis]] Illyricis_) alludes to its almost
     impregnable fortifications.
 
   [4] Long extracts from these reports or diaries are published by

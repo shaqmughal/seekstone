@@ -7,7 +7,7 @@ the collection under a common name of a number of objects which are
 alike in one or more respects. The process consists in observing the
 objects and abstracting from their various qualities that characteristic
 which they have in common. This characteristic constitutes the
-definition of the "class" to which they are regarded as belonging. It
+[[Definition|definition]] of the "class" to which they are regarded as belonging. It
 is this process by which we arrive first at "species" and then at
 "genus," i.e. at all scientific generalization. Individual things,
 regarded as such, constitute a mere aggregate, unconnected with one
@@ -40,7 +40,7 @@ Bacon's classification is based on the subjective criterion of the
 various faculties which are specially concerned. He thus distinguished
 History (natural, civil, literary, ecclesiastical) as the province of
 memory, Philosophy (including Theology) as that of reason, and Poetry,
-Fables and the like, as that of imagination. This classification was
+Fables and the like, as that of [[Imagination|imagination]]. This classification was
 made the basis of the _Encyclopédie_. Comte adopted an entirely
 different system based on an objective criterion. Having first
 enunciated the theory that all science passes through three stages,
@@ -48,7 +48,7 @@ theological, metaphysical and positive, he neglects the two first, and
 divides the last according to the "things to be classified," in view of
 their real affinity and natural connexions, into six, in order of
 decreasing generality and increasing complexity--mathematics, astronomy,
-physics, chemistry, physiology and biology (including psychology), and
+physics, [[Chemistry|chemistry]], physiology and [[Biology|biology]] (including psychology), and
 sociology. This he conceives to be not only the logical, but also the
 historical, order of development, from the abstract and purely deductive
 to the concrete and inductive. Sociology is thus the highest, most
@@ -68,7 +68,7 @@ Beside the above three systems several others deserve brief mention. In
 Greece at the dawn of systematic thought the physical sciences were few
 in number; none the less philosophers were not agreed as to their true
 relation. The Platonic school adopted a triple classification, physics,
-ethics and dialectics; Aristotle's system was more complicated, nor do
+ethics and [[Dialectic|dialectics]]; Aristotle's system was more complicated, nor do
 we know precisely how he subdivided his three main classes, theoretical,
 practical and poetical (i.e. technical, having to do with [Greek:
 poiêsis], creative). The second class covered ethics and politics, the
@@ -86,7 +86,7 @@ Politique bodies"). The former by successive subdivisions is reduced to
 eighteen special sciences; the latter is subdivided into the rights and
 duties of sovereign powers, and those of the subject.
 
-Jeremy Bentham and A.M. Ampère both drew up elaborate systems based on
+[[Jeremy]] [[Bentham]] and A.M. Ampère both drew up elaborate systems based on
 the principle of dichotomy, and beginning from the distinction of mind
 and body. Bentham invented an artificial terminology which is rather
 curious than valuable. The science of the body was Somatology, that of

@@ -9,8 +9,8 @@ they apply the whole or the greater portion of the soles to the ground
 when walking; and there are generally five toes, each terminating in a
 claw, and the first never being opposable to the others in either the
 fore or hind limb. A full series of differentiated teeth, including
-temporary or deciduous milk-molars, is developed, and the cheek-teeth
-have distinct roots and are crowned with sharp cusps, which in some
+temporary or [[Deciduous|deciduous]] milk-molars, is developed, and the cheek-teeth
+have distinct roots and are crowned with sharp [[Cusp|cusps]], which in some
 instances are three in number and arranged in a triangle. Very
 frequently the number of the teeth is the typical forty-four, arranged
 as _i._ 3/3, _c._ 1/1, _p._ 4/4, _m._ 3/3, but occasionally there is a
@@ -18,7 +18,7 @@ fourth pair of molars, while the incisors may be reduced to two pairs
 above and one below, and the canine is frequently like an incisor or a
 premolar. The skull is of a primitive type, often with vacuities on the
 palate, as in marsupials, with a small brain-chamber, and the tympanic
-bone generally ring-like instead of forming a bladder-shaped bulla;
+[[Bone|bone]] generally ring-like instead of forming a bladder-shaped bulla;
 except in the African _Potamogale_, clavicles, or collar-bones, are
 always present; the humerus generally has a perforation on the inner
 side of its lower extremity; and a centrale bone is usually present in
@@ -33,14 +33,14 @@ The great majority of the Insectivora are nocturnal in their habits, and
 their whole structure indicates an extremely low grade of organisation,
 fully as low as that of marsupials. It is noteworthy that the dentition
 in several of the groups approximates to that of the extinct mammals of
-the Jurassic epoch (see MARSUPIALIA), and exhibits more or less
+the [[Jurassic]] epoch (see [[Marsupialia|MARSUPIALIA]]), and exhibits more or less
 distinctly the primitive tritubercular type. Although the past history
 of the group is very imperfectly known, it seems probable that the
 Insectivora are nearly related to the original primitive mammalian
 stock. Indeed, it has been stated that were it not for the apparently
 advanced type of placenta, they might easily be regarded as the little
 modified descendants of the ancestors of most other mammals. Probably
-they are in some way related to the creodont carnivores (see CREODONTA),
+they are in some way related to the creodont carnivores (see [[Creodonta|CREODONTA]]),
 but if, as has been suggested, the latter are akin to the primitive
 ungulates, the connexion would seem to be less close than has been
 sometimes supposed.
@@ -48,7 +48,7 @@ sometimes supposed.
 Representatives of this order are found throughout the temperate and
 tropical parts of both hemispheres, with the exception of South America
 (where only a few shrews have effected an entrance from the north) and
-Australia, and exhibit much variety both in organization and in habit.
+[[Australia]], and exhibit much variety both in organization and in habit.
 The greater number are cursorial, but some (_Talpa_, _Chrysochloris_,
 _Oryzorictes_) are burrowing, others (_Limnogale_, _Potamogale_,
 _Nectogale_, _Myogale_) aquatic, and some (_Tupaiidae_) arboreal. To the
@@ -64,7 +64,7 @@ In most cases the brain-cavity is of small relative capacity, and in no
 instance is the brain-case elevated to any considerable extent above the
 face-line. The facial part of the skull is generally much produced, and
 the premaxillary and nasal bones well developed; but the cheek, or
-zygomatic arch, is usually slender or deficient, the latter being the
+zygomatic [[Arch|arch]], is usually slender or deficient, the latter being the
 case in most of the species, and post-orbital processes of the frontals
 are found only in the _Tupaiidae_ and _Macroscelididae_. The number of
 dorsal vertebrae varies from 13 in _Tupaia_ to 19 in _Centetes_, of
@@ -79,7 +79,7 @@ fore-limbs in burrowing; but in the golden moles the fore-arm and
 fore-foot alone become specially modified. In _Macroscelides_ the bones
 of the fore-arm are united at their lower ends, but in all other
 Insectivora the radius and ulna are distinct. The fore-foot has
-generally five digits; but in _Rhynchocyon_ and in one species of
+generally five [[Digit|digits]]; but in _Rhynchocyon_ and in one species of
 _Oryzorictes_ the first toe is absent, and in the moles it is extremely
 modified. The femur has, in most species, a prominent ridge below the
 greater trochanter presenting the characters of a third trochanter. In
@@ -102,8 +102,8 @@ the pyloric and oesophageal openings close together; the intestinal
 canal has much the same calibre throughout, and varies from three (in
 the shrews) to twelve times (in the hedgehogs) the length of the head
 and body. In the arboreal _Tupaia_ and the allied _Macroscelididae_,
-which probably feed on vegetable substances as well as insects most of
-the species possess a caecum. The liver is deeply divided into lobes,
+which probably feed on vegetable substances as well as [[Insect|insects]] most of
+the species possess a caecum. The [[Liver|liver]] is deeply divided into [[Lobe|lobes]],
 the right and left lateral being cut off by deep fissures; both the
 caudate and Spigelian lobes are generally well developed, and the
 gall-bladder, usually large and globular, is placed on the middle of the
@@ -122,7 +122,7 @@ Scent-glands exist in many species. In most shrews they occur on the
 sides of the body at a short distance behind the axilla, and their
 exudation is probably protective, as few carnivorous animals will eat
 their dead bodies. In both species of _Gymnura_ and in _Potamogale_
-large pouches are situated on each side of the rectum, and discharge
+large pouches are situated on each side of the rectum, and [[Discharge|discharge]]
 their secretions by ducts, opening in the first-named genus in front of
 and in the latter within the margin of the vent. In the tenrec similarly
 situated glands discharge by pores opening at the bottom of deep pits.
@@ -157,7 +157,7 @@ carnosus.
   these animals the tail has a fringe of long hairs on opposite sides
   throughout its length. In the pen-tailed, tree-shrew (_Ptilocercus
   lowii_), fig. 1, the only representative of its genus, and a native of
-  Sumatra, Borneo and the Malay Peninsula, the fringes of long hair are
+  Sumatra, Borneo and the [[Malay Peninsula]], the fringes of long hair are
   confined to the terminal third of the tail. There are also differences
   in the skulls of the two genera. A third genus, _Urogale_, represented
   by _U. cylindrura_ of the mountains of Mindanao, in the Philippines,
@@ -170,7 +170,7 @@ carnosus.
   [Illustration: FIG. 1. Pen-tailed Tree-Shrew (_Ptilocercus lowii_).]
 
    In Africa the tupaias are apparently represented by the
-  jumping-shrews, or elephant-shrews (so called from their elongated
+  [[Jumping-Shrew|jumping-shrews]], or elephant-shrews (so called from their elongated
   muzzles), constituting the family _Macroscelididae_. From the
   _Tupaiidae_ the members of this family are readily distinguished by
   the fact that the socket of the eye, in place of having a complete
@@ -179,7 +179,7 @@ carnosus.
   marked elongation of the tarsus or lower portion of the hind-limb;
   another feature being the union of the lower ends of the tibia and
   fibula. As indicated by one of their names, the members of the group
-  leap after the fashion of gerbils, or jerboas, and hence walk much
+  leap after the fashion of [[Gerbil|gerbils]], or jerboas, and hence walk much
   more on their toes than the majority of the order. In the typical
   genus _Macroscelides_, which ranges all over Africa and has numerous
   specific representatives, the dental formula is _i._ 3/3, _c._ 1/1,
@@ -220,7 +220,7 @@ carnosus.
   is limited to the temperate regions of Europe, Asia and North America.
 
   Throughout the family the eyes are minute, and in some species are
-  covered with skin; the ears are short and hidden in the fur; and the
+  covered with skin; the [[Ear|ears]] are short and hidden in the [[Fur|fur]]; and the
   fore-limbs are generally more or less modified for digging.
 
   [Illustration: FIG. 2.--Peter's Jumping-Shrew (_Petrodromus
@@ -244,11 +244,11 @@ carnosus.
 
   Except in _T. europaea_, the eyes are covered by a membrane. In _T.
   micrura_ the short tail is concealed by the fur. _T. europaea_ extends
-  from England to Japan.
+  from England to [[Japan]].
 
   _T. caeca_ and _T. romana_ are found south of the Alps, the remaining
   species are all Asiatic, two only--_T. micrura_ and _T.
-  leucura_--occurring south of the Himalaya.
+  leucura_--occurring south of the [[Himalaya]].
 
   The genus may be split up into subgenera corresponding with the above
   table; these subdivisions being sometimes accorded full generic rank.
@@ -281,7 +281,7 @@ carnosus.
   while the pubic bones are widely separated behind. The shortness of
   the fore-limb is due to the humerus, which, like the clavicle, is so
   reduced in length as to present the appearance of a flattened X-shaped
-  bone, with prominent ridges and deep depressions for the attachments
+  bone, with prominent ridges and deep depressions for the [[Attachment|attachments]]
   of powerful muscles. Its upper extremity presents two rounded
   prominences; the smaller, the true head of the bone, articulates as
   usual with the scapula; the larger, which is the external tuberosity
@@ -315,8 +315,8 @@ carnosus.
     ol,  Olecranon.
     p,   Pubic bone widely separated from that of the opposite side.
     pa,  Patella.
-    p.m, Ridge for insertion of pectoralis major muscle.
-    pt,  Pectineal eminence.
+    p.m, Ridge for insertion of pectoralis [[Major|major]] muscle.
+    pt,  Pectineal [[Eminence|eminence]].
     r,   Radius.
     rb,  First rib.
     s,   Plantar sesamoid ossicle corresponding to the radial sesamoid
@@ -341,11 +341,11 @@ carnosus.
   the occiput are large, and the ligamentum nuchae between them is
   ossified. The latter condition appears to be due to the prolongation
   forwards of the sternum, preventing flexion of the head downwards; and
-  accordingly, the normal office of the ligament being lost, it
+  accordingly, the normal office of the [[Ligament|ligament]] being lost, it
   ossifies, and affords a fixed point for the origins of the
   superficial cervical muscles.
 
-  The skull is long, with slender zygomatic arches; the nasal bones are
+  The skull is long, with slender zygomatic [[Arches|arches]]; the nasal bones are
   strong and early become united, and in front of them the nostrils are
   continued forwards in tubes formed of thick cartilage, the septum
   between which becomes partially or wholly ossified beneath. There are
@@ -405,7 +405,7 @@ carnosus.
   habits and have the feet webbed and the full series of 44 teeth. The
   former is by far the largest member of the whole family, its total
   length being about 16 in. Its long proboscis-like snout projects far
-  beyond the margin of the upper lip; the toes are webbed as far as the
+  beyond the margin of the upper [[Lip|lip]]; the toes are webbed as far as the
   bases of the claws; and the long scaly tail is laterally flattened,
   forming a powerful instrument of propulsion when swimming. This
   species inhabits the banks of streams and lakes in south-east Russia,
@@ -463,7 +463,7 @@ carnosus.
   over Europe and Asia north of the Himalaya Mountains to North America.
   There are twenty upper teeth with the formula given above, the ears
   are well developed, the tail is long and evenly haired, and the
-  aperture of the generative organs in at least one of the sexes is
+  [[Aperture|aperture]] of the generative organs in at least one of the sexes is
   distinct from the vent. The common shrew-mouse (_Sorex araneus_) has a
   distribution co-extensive with that of the genus in the Old World, and
   the North American _S. richardsoni_ can scarcely be regarded as more
@@ -471,7 +471,7 @@ carnosus.
   and _S. palustris_ of the United States, have fringes of long hairs on
   the feet, and are aquatic in habit. The latter has been made the type
   of the genus _Neosorex_, but such a distinction, according to Dr J. E.
-  Dobson, is unnecessary. The same authority likewise rejects the
+  [[Dobson]], is unnecessary. The same authority likewise rejects the
   separation of the North American _S. bendirei_ as _Atophyrax_,
   remarking that this species is an inhabitant of marshy land, and
   appears to present many characters intermediate between _S. palustris_
@@ -479,7 +479,7 @@ carnosus.
   the absence of well-defined fringes to the digits, but agreeing with
   it closely in dentition, in the large size of the infra-orbital
   foramen, and in the remarkable shortness of the angular process of the
-  lower jaw. In India and Burma the place of _Sorex_ is taken by
+  lower jaw. In India and [[Burma]] the place of _Sorex_ is taken by
   _Soriculus_, in which the upper teeth are generally 18, although
   rarely 20, and the generative organs have an opening in common with
   the vent after the fashion of the monotreme mammals. The latter
@@ -498,7 +498,7 @@ carnosus.
   generative organs and the vent, although close together, are yet
   distinct. In the musk-shrews (_Crocidura_), on the other hand, which
   are common to Europe, Asia and Africa, the reproductive organs and the
-  alimentary canal discharge into a common cloaca, the long tail is
+  alimentary canal discharge into a common [[Cloaca|cloaca]], the long tail is
   sparsely covered with long and short hairs, there are anal glands
   secreting a strong musky fluid, and the number of upper teeth is 16 or
   18. _Diplomesodon pulchellus_ of the Kirghiz steppes, has, on the
@@ -537,10 +537,10 @@ carnosus.
   (_Erinaceus_) have the dental formula i. 2/2, c. 1/1, p. 3/2, m. 3/3,
   and are represented by over a score of species, distributed throughout
   Europe, Africa and the greater part of Asia, but unknown in
-  Madagascar, Ceylon, Burma, Siam, the Malay countries, and, of course,
+  [[Madagascar]], Ceylon, Burma, Siam, the Malay countries, and, of course,
   Australia. All the species resemble one another in the armour of
   spines covering the upper surface and sides of the body; and all
-  possess the power of rolling themselves up into the form of a ball
+  possess the power of rolling themselves up into the form of a [[Ball|ball]]
   protected on all sides by these spines, the skin of the back being
   brought downwards and inwards over the head and tail so as to include
   the limbs by the action of special muscles.
@@ -569,7 +569,7 @@ carnosus.
   fur and the well-developed tail. They also lack vacuities in the
   palate, and have a long and narrow pelvis. The typical representative
   of the family is the greater rat-shrew, or greater gymnura (_Gymnura
-  rafflesi_) a creature which may be compared to a giant shrew, and
+  rafflesi_) a creature which may be compared to a [[Giant|giant]] shrew, and
   whose colour is partly black and partly white, although a uniformly
   pale-coloured race. (_G. r. alba_) inhabits Borneo. In common with the
   next genus, it has the full series of 44 teeth; and its range extends
@@ -578,7 +578,7 @@ carnosus.
   from the mainland. In this species the length of the tail is about
   three-fourths that of the head and body; but in the lesser rat-shrew
   (_Hylomys suillus_), ranging from Burma and the Malay Peninsula to
-  Java and Sumatra, the former dimension is only about one-sixth of the
+  [[Java]] and Sumatra, the former [[Dimension|dimension]] is only about one-sixth of the
   latter. In the Philippines the group is represented by _Podogymnura
   truei_, distinguished from the other genera by the great elongation of
   the hind-foot, the tail being likewise long. There are only three
@@ -609,13 +609,13 @@ carnosus.
   inhabits the banks of streams in west equatorial Africa, and its whole
   structure indicates an aquatic life. It is nearly 2 ft. in length, the
   tail measuring about half. The long cylindrical body is continued
-  uninterruptedly into the thick laterally compressed tail, the legs are
+  uninterruptedly into the thick laterally compressed tail, the [[Leg|legs]] are
   very short, and the toes are not webbed, progression through the water
   depending wholly on the action of the powerful tail, while the limbs
   are folded inwards and backwards. The muzzle is broad and flat, and
   the nostrils are protected by valves. The fur is dark brown above,
   the extremities of the hairs on the back being of a metallic violet
-  hue by reflected light, beneath whitish.
+  [[Hue|hue]] by reflected light, beneath whitish.
 
 
     Tenrec.
@@ -625,7 +625,7 @@ carnosus.
   tenrec and a number of allied animals from Madagascar, is specially
   characterized by the ring-like tympanic, and the absence of a
   zygomatic arch and of any constriction of the skull behind the orbits,
-  and the presence of teats on the breast as well as the abdomen. In the
+  and the presence of teats on the [[Breast|breast]] as well as the abdomen. In the
   more typical members of the family the tibia and fibula are separate,
   and, as in hedgehogs, spines are mingled with the fur. The true or
   great tenrec (_Centetes ecaudatus_), alone representing the typical
@@ -670,7 +670,7 @@ carnosus.
   typified by the rice-tenrecs _Oryzorictes_, of which there are several
   species. These creatures, which excavate burrows in the rice-fields of
   Madagascar, are somewhat mole-like in appearance, but have tails of
-  considerable length. In the typical _O. hova_ the fore-feet are
+  considerable length. In the typical _O. [[Hova|hova]]_ the fore-feet are
   five-toed, but in _O. tetradactylus_ the number of front digits is
   reduced to four. The long-tailed tenrecs (_Microgale_) are represented
   by fully half-a-dozen species with tails of great length; that
@@ -759,7 +759,7 @@ carnosus.
   land-connexion between Africa and South America. There is no reason,
   he says, to suppose that the track of migration could have been by way
   of Europe and North America, for no trace of the group has been found
-  anywhere north of the equator. This supposed connexion between Africa
+  anywhere north of the [[Equator|equator]]. This supposed connexion between Africa
   and South America in Tertiary times has often been suggested, and is
   supported by many independent lines of evidence; and the presumed
   affinity between the two mammals here referred to adds to the weight
@@ -835,7 +835,7 @@ contain the genera _Sarracenia_, _Darlingtonia_, _Heliamphora_, while
 the true pitcher plants or Nepenthaceae consist of the single large
 genus _Nepenthes_. These three orders are closely allied and form the
 series Sarraceniales of the free-petalled section (Choripetalae) of
-Dicotyledons. The curious pitcher-plant, _Cephalotus follicularis_,
+[[Dicotyledons]]. The curious pitcher-plant, _Cephalotus follicularis_,
 comprises a separate natural order Cephalotaceae, closely allied to the
 Saxifragaceae. Finally the genera _Pinguicula_, _Utricularia_,
 _Genlisea_ and _Polypompholix_ belong to the gamopetalous order
@@ -845,7 +845,7 @@ Lentibulariaceae.
   distribution, its congeners are restricted to well-defined and usually
   comparatively small areas. Thus _Drosophyllum_ occurs only in Portugal
   and Morocco, _Byblis_ in tropical Australia, and, although
-  _Aldrovanda_ is found in Queensland, in Bengal and in Europe, a wide
+  _Aldrovanda_ is found in Queensland, in [[Bengal]] and in Europe, a wide
   distribution explained by its aquatic habit, _Dionaea_ is restricted
   to a few localities in North and South Carolina. _Cephalotus_ occurs
   only near Albany in Western Australia, _Heliamphora_ on the Roraima
@@ -854,7 +854,7 @@ Lentibulariaceae.
   _Sarracenia_, however, there are seven known species scattered over
   the eastern states of North America. The forty species of _Nepenthes_
   are mostly natives of the hotter parts of the Indian Archipelago, but
-  a few range into Ceylon, Bengal, Cochin China, and some even occur in
+  a few range into Ceylon, Bengal, [[Cochin]] China, and some even occur in
   tropical Australia on the one hand, and in the Seychelles and
   Madagascar on the other. _Pinguicula_ is abundant in the north
   temperate zone, and ranges down the Andes as far as Patagonia; the 250
@@ -862,7 +862,7 @@ Lentibulariaceae.
   save polar regions; their unimportant congeners, _Genlisea_ and
   _Polypompholix_, occur in tropical America and south-western Australia
   respectively. It is remarkable that all the insectivorous plants agree
-  in inhabiting damp heaths, bogs, marshes and similar situations where
+  in inhabiting damp heaths, [[Bog|bogs]], marshes and similar situations where
   water is abundant, but where they are not brought into contact with
   the plenteous supply of inorganic nitrogenous food as are the roots of
   terrestrial plants.

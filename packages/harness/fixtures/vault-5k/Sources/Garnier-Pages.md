@@ -58,7 +58,7 @@ equip or fit out. The meaning of "warn" is seen in the law term
 "garnishee," a person who owes money to or holds money belonging to
 another and is "warned" by order of the court not to pay it to his
 immediate creditor but to a third person who has obtained final judgment
-against that creditor. (See ATTACHMENT; EXECUTION; BANKRUPTCY.)
+against that creditor. (See ATTACHMENT; EXECUTION; [[Bankruptcy|BANKRUPTCY]].)
 
 ## References
 

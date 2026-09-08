@@ -13,15 +13,15 @@ explanations of the [Greek: dokêsis] or appearance have, however, been
 suggested, and, in the absence of any statement by those who first used
 the word of the grounds on which they did so, it is impossible to
 determine between them with certainty. The name Docetae is first used by
-Theodoret (_Ep._ 82) as a general description, and by Clement of
+Theodoret (_Ep._ 82) as a general description, and by [[Clement]] of
 Alexandria as the designation of a distinct sect,[1] of which he says
-that Julius Cassianus was the founder. Docetism, however, undoubtedly
+that [[Julius]] [[Cassianus]] was the founder. Docetism, however, undoubtedly
 existed before the time of Cassianus. The origin of the heresy is to be
 sought in the Greek, Alexandrine and Oriental philosophizing about the
 imperfection or rather the essential impurity of matter. Traces of a
 Jewish Docetism are to be found in Philo; and in the Christian form it
 is generally supposed to be combated in the writings of John,[2] and
-more formally in the epistles of Ignatius.[3] It differed much in its
+more formally in the [[Epistle|epistles]] of [[Ignatius]].[3] It differed much in its
 complexion according to the points of view adopted by the different
 authors. Among the Gnostics and Manichaeans it existed in its most
 developed type, and in a milder form it is to be found even in the
@@ -37,7 +37,7 @@ abhorrence of the world) that Jesus was born or subjected to human
 development, is in striking contrast to the value which he sets on
 Christ's death on the cross. The other, or milder school of Docetae,
 attributed to Christ an ethereal and heavenly instead of a truly human
-body. Amongst these were Valentinus, Bardesanes, Basilides, Tatian and
+body. Amongst these were Valentinus, Bardesanes, [[Basilides]], Tatian and
 their followers. They varied considerably in their estimation of the
 share which this body had in the real actions and sufferings of Christ.
 Clement and Origen, at the head of the Alexandrian school, took a
@@ -46,20 +46,20 @@ controversies with the Monarchians. Hilary especially illustrates the
 prevalence of naive Docetic views as regards the details of the
 Incarnation. Docetic tendencies have also been developed in later
 periods of ecclesiastical history, as for example by the Priscillianists
-and the Bogomils, and also since the Reformation by Jacob Boehme, Menno
+and the [[Bogomils]], and also since the Reformation by [[Jacob]] [[Boehme]], Menno
 Simons and a small fraction of the Anabaptists. Docetism springs from
-the same roots as Gnosticism, and the Gnostics generally held Docetic
+the same roots as [[Gnosticism]], and the Gnostics generally held Docetic
 views (see GNOSTICISM).
 
 
 FOOTNOTES:
 
   [1] Not a distinct sect, but a continuous type of Christology.
-    Hippolytus, however (_Philosophumena_, viii. 8-11), speaks of a
+    [[Hippolytus]], however (_Philosophumena_, viii. 8-11), speaks of a
     definite party who called themselves Docetae.
 
   [2] 1 _Ep._ iv. 2, ii. 22, v. 6, 20; 2 _Ep._ 7, cf. Jerome (_Dial.
-    adv. Lucifer_. § 23 "Apostolis adhuc in saeculo superstitibus, adhuc
+    adv. [[Lucifer]]_. § 23 "Apostolis adhuc in saeculo superstitibus, adhuc
     apud Judaeam Christi sanguine recenti, phantasma Domini corpus
     asserebatur").
 

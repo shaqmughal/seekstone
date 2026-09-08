@@ -11,13 +11,13 @@ people were allowed to carry arms (this licence is denied by Aristotle
 in _Ath. Pol._). Seeing one of their accomplices speaking to Hippias,
 and imagining that they were being betrayed, they prematurely attacked
 and slew Hipparchus alone. Harmodius was cut down on the spot by the
-guards, and Aristogeiton was soon captured and tortured to death. When
+[[Guards|guards]], and Aristogeiton was soon captured and tortured to death. When
 Hippias was expelled (510), Harmodius and Aristogeiton became the most
 popular of Athenian heroes; their descendants were exempted from public
-burdens, and had the right of public entertainment in the Prytaneum, and
+[[Burden|burdens]], and had the right of public entertainment in the Prytaneum, and
 their names were celebrated in popular songs and scolia (after-dinner
 songs) as the deliverers of Athens. One of these songs, attributed to a
-certain Callistratus, is preserved in Athenaeus (p. 695). Their statues
+certain Callistratus, is preserved in [[Athenaeus]] (p. 695). Their statues
 by Antenor in the agora were carried off by Xerxes and replaced by new
 ones by Critius and Nesiotes. Alexander the Great afterwards sent back
 the originals to Athens. It is not agreed which of these was the

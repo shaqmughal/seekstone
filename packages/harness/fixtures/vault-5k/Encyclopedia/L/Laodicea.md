@@ -15,7 +15,7 @@ and the lower Tigris valley. In the latter countries Greek civilization
 was short-lived, and the last three cities disappeared; the other five
 continued great throughout the Greek and Roman period, and the second,
 third and fourth retain to the present day the ancient name under the
-pronunciation Ladik, Ladikiyeh or Latakia (q.v.).
+pronunciation Ladik, Ladikiyeh or [[Latakia]] (q.v.).
 
 LAODICEA AD LYCUM (mod. _Denizli_, q.v.) was founded probably by
 Antiochus II. Theos (261-46 B.C.), and named after his wife Laodice. Its
@@ -29,7 +29,7 @@ importance till the Seleucid foundation (Strabo, p. 578). A favourable
 site was found on some low hills of alluvial formation, about 2 m. S. of
 the river Lycus (Churuk Su) and 9 m. E. of the confluence of the Lycus
 and Maeander. The great trade route from the Euphrates and the interior
-passed to it through Apamea. There it forked, one branch going down the
+passed to it through [[Apamea]]. There it forked, one branch going down the
 Maeander valley to Magnesia and thence north to Ephesus, a distance of
 about 90 m., and the other branch crossing the mountains by an easy pass
 to Philadelphia and the Hermus valley, Sardis, Thyatira and at last
@@ -52,7 +52,7 @@ and for the beautiful soft wool grown by the sheep of the country
   Karou, with a great medical school; while Laodicea itself produced
   some famous Sceptic philosophers, and gave origin to the royal family
   of Polemon and Zenon, whose curious history has been illustrated in
-  recent times (W. H. Waddington, _Mélanges de Numism._ ser. ii.; Th.
+  recent times (W. H. Waddington, _Mé[[Lange|langes]] de Numism._ ser. ii.; Th.
   Mommsen, _Ephem. Epigraph._ i. and ii.; M. G. Rayet, _Milet et le
   Golfe Latmique_, chap. v.). The city fell finally into decay in the
   frontier wars with the Turkish invaders. Its ruins are of wide extent,

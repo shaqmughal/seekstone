@@ -7,26 +7,26 @@ cylindrical or "rolling" seals of Babylonia and Assyria, suggested by a
 joint of the bamboo or the central whorl of a conch-like shell, and the
 peculiar scarabaeoid seals of Egypt. Recent researches make it appear
 that both these types were in use as far back as 4500 B.C., though with
-some variations. The jewels of Queen Zer, and other jewels consisting of
+some variations. The [[Jewel|jewels]] of Queen Zer, and other jewels consisting of
 cut turquoise, lapis lazuli and amethyst, found by the French mission,
 date from 4777 B.C. to 4515 B.C. Until about 2500 B.C., the cylinder
-seals bore almost wholly animal designs; then cuneiform inscriptions
+seals bore almost wholly animal designs; then [[Cuneiform|cuneiform]] inscriptions
 were added. In the 6th century B.C., the scarabaeoid type was introduced
 from Egypt, while the rolling seals began to give place to a new form,
 that of a tall cone. These, in a century or two, were gradually
 shortened; the hole by which they were suspended was enlarged until it
-could admit the finger, and in time they passed into the familiar form
+could admit the [[Finger|finger]], and in time they passed into the familiar form
 of seal-rings. This later type, which prevailed for a long period,
 usually bore Persian or Sassanian inscriptions. The scarabaeoid seals
 were worn as rings in Egypt apparently from the earliest times.
 
 The most ancient of the cylinder seals were cut at first from shell,
-then largely from opaque stones such as diorite and serpentine. After
+then largely from opaque stones such as [[Diorite|diorite]] and serpentine. After
 2500 B.C., varieties of chalcedony and milky quartz were employed,
 translucent and richly coloured; sometimes even rock crystal, and also
-frequently a beautiful compact haematite. Amazone stone, amethyst and
-fossil coral were used, but no specimen is believed to be known of ruby,
-sapphire, emerald, diamond, tourmaline or spinel.
+frequently a beautiful compact [[Haematite|haematite]]. Amazone stone, amethyst and
+fossil [[Coral|coral]] were used, but no specimen is believed to be known of ruby,
+sapphire, [[Emerald|emerald]], diamond, tourmaline or spinel.
 
 The date of about 500 B.C. marks the beginning of a period of great
 artistic taste and skill in gem carving, which extended throughout the
@@ -51,7 +51,7 @@ used by hand, and the bow-drill, were afterwards variously combined in
 executing such work. Another modification was the substitution for the
 point, in either process, of a hollow tube or drill, probably in most
 cases the joint of a hollow reed, whereby very accurate circles could be
-made, as also crescent figures and the like. This process, used with
+made, as also [[Crescent|crescent]] figures and the like. This process, used with
 fine hard sand, has also been widely employed among many peoples. It may
 perhaps have been suggested by the boring of other shells by carnivorous
 molluscs of the _Murex_ type, examples of which may be picked up on any
@@ -81,7 +81,7 @@ were the product of a single manufacturer, carved in the crudest manner,
 both in design and execution. Yet remarkable results are sometimes
 produced in these by a few touches of the drill, which under the glass
 appear very crude but nevertheless yield strong effects. The same thing
-may be seen now in many of the Japanese sketches and lacquer designs,
+may be seen now in many of the Japanese sketches and [[Lacquer|lacquer]] designs,
 where a whole landscape is depicted, or rather suggested, by a few
 simple but powerful strokes. It is now thought that some of these seals
 may be of earlier origin than has been supposed, and also that they may
@@ -96,7 +96,7 @@ With the Renaissance, the art of gem carving revived, and the engravers
 from that time and onward have produced results that equal the best
 Greek and Roman work; copies of ancient gem carvings made by some of the
 18th-century masters are only distinguishable from true antiques by
-experts of great proficiency. It is in fact extremely difficult to judge
+[[Expert|experts]] of great proficiency. It is in fact extremely difficult to judge
 positively as to the age of engraved gems. The materials of which they
 are made are hard and resistant to any change through time, and there
 are many ingenious devices for producing the appearances usually
@@ -109,10 +109,10 @@ hopeless one for any but a person of great experience in the study of
 such objects; and even he may not be able in all cases to decide.
 
 Until the 14th century, almost all the gems were cut _en cabochon_--that
-is, smoothly rounded, as carbuncles and opals are still--or else in the
-form of beads drilled from both sides for suspension or attachment, the
+is, smoothly rounded, as [[Carbuncle|carbuncles]] and opals are still--or else in the
+form of [[Bead|beads]] drilled from both sides for suspension or [[Attachment|attachment]], the
 two perforations often meeting but imperfectly. These latter may be of
-Asiatic origin, brought into Europe by commerce during the Crusades.
+Asiatic origin, brought into Europe by commerce during the [[Crusades]].
 Some of the finest gems in the Austrian, Russian and German crowns are
 stones of this perforated or bead type. An approach, or transition, to
 the modern facetting is seen in a style of cutting often used for
@@ -167,27 +167,27 @@ flat below and has 12 to 24, or sometimes 32, triangular facets above,
 in three rows, meeting in a point. Stones thus cut are also known as
 "roses couronnées"; others with fewer facets, twelve or even six, are
 called "roses d'Anvers," and are a specialty, as their name implies, at
-Antwerp. These, however, are only cut from very thin or shallow stones.
+[[Antwerp]]. These, however, are only cut from very thin or shallow stones.
 None of the rose-cut diamonds is equal in beauty to the brilliants.
 There are several other forms, among which are the "briolette,"
 "marquise," oval and pear-shaped stones, &c., but they are of minor
-importance. The pear-shaped brilliant is a facetted ball or drop, being
+importance. The pear-shaped brilliant is a facetted [[Ball|ball]] or drop, being
 a brilliant in style of cutting, although the form of the gem is
 elongated or drop-shaped. The "marquise" or "navette" form is an
 elliptical brilliant of varying width in proportion to its length. The
 "rondelle" form consists of flat, circular gems with smooth sides
 pierced, like shallow beads, with facetted edges, and is sometimes used
 between pearls, or gem beads, and in the coloured gems, such as rubies,
-sapphires, emeralds, &c. The mitred gems fitted to a gauge are much used
+sapphires, emeralds, &c. The mitred gems fitted to a [[Gauge|gauge]] are much used
 and are closely set together, forming a continuous line of colour.
 
 Modern gem cutting and engraving are done by means of the lathe, which
 can be made to revolve with extreme rapidity, carrying a point or small
 disk of soft iron, with diamond-dust and oil. The disks vary in diameter
-from that of a pin-head to a quarter of an inch. Better than the lathe,
+from that of a pin-head to a quarter of an [[Inch|inch]]. Better than the lathe,
 also, is the S. S. White dental engine, which the present writer was the
 first to suggest for this use. The flexibility and sensitiveness of this
-machine enables it to respond to the touch of the artist and to impart a
+[[Machine|machine]] enables it to respond to the touch of the artist and to impart a
 personal quality to his work not possible with the mechanical action of
 the lathe, and more like the hand-work with the sapphire point. The
 diamond-dust and oil, thus applied, will carve any stone softer than the
@@ -197,7 +197,7 @@ We may now review some of the special forms of cutting and working gems
 and ornamental stones that have been developed in Europe since the
 period of the Renaissance.
 
-  Garnets (q.v.) have been used and worked from remote antiquity; but in
+  [[Garnet|Garnets]] (q.v.) have been used and worked from remote antiquity; but in
   modern times the cutting of them has been carried on chiefly in
   Bohemia, in the region around Merowitz and Dlaskowitch. The stones
   occur in a trap rock, and are weathered out by its decomposition and
@@ -230,29 +230,29 @@ period of the Renaissance.
   are included in some American museums. Among them are rock-crystal
   dishes several inches across, beautifully engraved in intaglio and
   mounted in silver with gems. Other varieties of quartz minerals, such
-  as agate, jasper, &c., and other ornamental stones of similar
+  as agate, [[Jasper|jasper]], &c., and other ornamental stones of similar
   hardness, are likewise wrought into all manner of art objects.
-  Caskets, vases, ewers, coupés and animal and other fanciful forms, are
+  [[Casket|Caskets]], vases, ewers, coupés and animal and other fanciful forms, are
   familiar in these opaque and semi-transparent stones, either carved
   out of single masses or made of separate pieces united with gold,
-  silver or enamel in the most artistic manner. Cellini, and other
+  silver or enamel in the most artistic manner. [[Cellini]], and other
   masters in the 16th and 17th centuries, vied with each other in such
   work.
 
   The greatest development of agate (q.v.), however, has been seen in
-  Germany, at Waldkirch in Breisgau, and especially at Idar and
+  Germany, at Waldkirch in [[Breisgau]], and especially at Idar and
   Oberstein on the Nahe, in Oldenburg. The industry began in the 14th
-  century, at the neighbouring town of Freiburg, but was transferred to
+  century, at the neighbouring town of [[Freiburg]], but was transferred to
   Waldkirch, where it is still carried on, employing about 120 men and
   women, the number of workmen having increased nearly threefold since
   the middle of the 19th century. The Idar and Oberstein industry was
   founded somewhat later, but is much more extensive. Mills run by
-  water-power line the Nahe river for over 30 m., from above Kreuznach
+  water-power line the Nahe river for over 30 m., from above [[Kreuznach]]
   to below Idar, and gave employment in 1908 to some 5000 people--1625
   lapidaries, 160 drillers, 100 engravers, 2900 cutters, &c., besides
   300 jewellers and 300 dealers. The industry began here in consequence
   of the abundance of agates in the amygdaloid rocks of the vicinity;
-  and it is probable that many of the Cinque Cento gems, and perhaps
+  and it is probable that many of the Cinque [[Cento]] gems, and perhaps
   even some of the Roman ones, were obtained in this region. By the
   middle of the 18th century the best material was about exhausted, but
   the industry had become so firmly established that it has been kept up
@@ -268,8 +268,8 @@ period of the Renaissance.
   The grinding is done on large, horizontal wheels like grindstones,
   some 6 ft. in diameter and one-fourth as thick, run by water-wheels.
   The faces of some of these grindstones are made with grooves of
-  different sizes so that round objects or convex surfaces can be ground
-  very easily and rapidly. An agate ball or marble, for instance, is
+  different sizes so that round objects or [[Convex|convex]] surfaces can be ground
+  very easily and rapidly. An agate ball or [[Marble|marble]], for instance, is
   made from a piece broken to about the right size and held in one of
   these semicircular grooves until one-half of it is shaped, and then
   turned over and the other half ground in the same way. The polishing
@@ -299,7 +299,7 @@ period of the Renaissance.
   the applications are ingenious and the results unsurpassed anywhere.
   The work done is of several classes, ranging from the largest and most
   massive to the smallest and most delicate. There is (1) the cutting of
-  facetted gems, as topaz, aquamarine, amethyst, &c., from the mines of
+  facetted gems, as topaz, [[Aquamarine|aquamarine]], amethyst, &c., from the mines of
   the Ural, and of other gem-stones also; this is largely done by means
   of the cadrans, a small machine held in the hand, by which the angle
   of the facets can be adjusted readily when once the stone has been
@@ -318,7 +318,7 @@ period of the Renaissance.
   as glass, shell, &c.
 
   Enormous masses of material are brought to these works; the supply of
-  rhodonite, jade, jaspers of various colours, &c., sometimes amounting
+  rhodonite, [[Jade|jade]], jaspers of various [[Colours|colours]], &c., sometimes amounting
   to hundreds of tons. One mass of Kalkansky jasper weighed nearly 9
   tons, and a mass of rhodonite above 50 tons; the latter required a
   week of sledging, with ninety horses, to bring it from the quarry,
@@ -347,7 +347,7 @@ period of the Renaissance.
   and of St Isaac's Cathedral, of polished granite and other hard and
   elegant stones, are among the triumphs of modern architectural work;
   and the Alexander column at St Petersburg is a single polished shaft,
-  13 ft. in diameter and 82 ft. in height, of the red Finland granite.
+  13 ft. in diameter and 82 ft. in height, of the red [[Finland]] granite.
 
   The finest lapidary work of modern France is done at Moulin la
   Vacherie Saint Simon, Seine-et-Marne, where some seventy-five of the
@@ -358,10 +358,10 @@ period of the Renaissance.
   Egypt and elsewhere, and recut into smaller objects for modern
   artistic tastes. Here, too, are made spheres of transparent
   quartz--"crystal balls"--up to 6 in. in diameter, the material for
-  which is obtained in Madagascar.
+  which is obtained in [[Madagascar]].
 
   A few words may be said, by way of comparison and contrast, about the
-  lapidary art of Japan and China, especially in relation to the crystal
+  lapidary art of [[Japan]] and China, especially in relation to the crystal
   balls, now reproduced in France and elsewhere. The tools are the
   simplest, and there is no machinery; but the lack of it is made up by
   time and patience, and by hereditary pride, as a Japanese artisan can
@@ -394,7 +394,7 @@ period of the Renaissance.
   The amber traffic dates back to prehistoric times; but the cutting
   industry in northern Europe cannot be definitely traced further back
   than the 14th century, when gilds of amber-workers were known at
-  Bruges and Lübeck. Fine carving was also done at Königsberg as early
+  Bruges and Lü[[Beck|beck]]. Fine carving was also done at Königsberg as early
   as 1399. The latter city and Danzig have become the chief seats of the
   amber industry, and the business has increased immensely within a
   recent period. Articles are made there, not only for all the civilized
@@ -402,7 +402,7 @@ period of the Renaissance.
   nations, in great variety of shapes, styles and colours.
 
 DIAMOND CUTTING.--On account of its extreme hardness, the treatment of
-the diamond in preparation for use in jewelry constitutes a separate and
+the diamond in preparation for use in [[Jewelry|jewelry]] constitutes a separate and
 special branch of the lapidary's art. Any valuable gem must first be
 trimmed, cleaved or sawed into suitable shape and size, then cut into
 the desired form, and finally polished upon the faces which have been
@@ -420,8 +420,8 @@ or defects. These ends are generally met by cleaving the crystal, i.e.
 causing it to split along certain natural planes of structural weakness,
 which are parallel with the faces of the octahedron. This process
 requires the utmost judgment, care and skill on the part of the
-operator, as any error would cause great loss of valuable material;
-hence expert cleavers command very high wages. The stone is first
+operator, as any [[Error|error]] would cause great loss of valuable material;
+hence expert [[Cleavers|cleavers]] command very high wages. The stone is first
 examined closely, to determine the directions of the cleavage planes,
 which are recognizable only by an expert. The cleaver then cuts a narrow
 notch at the place selected, with another diamond having a sharp point;
@@ -441,7 +441,7 @@ most elaborate study extending over two months was given to the work
 beforehand, and many models were made of the very irregular stone and
 divided in different ways to determine those most advantageous. This
 process was in 1908 applied to the most remarkable piece of work of the
-kind ever undertaken--the cutting of the gigantic Cullinan diamond of
+kind ever undertaken--the cutting of the gigantic [[Cullinan]] diamond of
 3025¾ English carats. The stone was taken to Amsterdam to be treated by
 the old-fashioned hand method, with innumerable precautions of every
 kind at every step, and the cutting was successfully accomplished after
@@ -457,7 +457,7 @@ employed in Antwerp. The stone is placed in a small metal receptacle
 which is filled with melted aluminium; thus embedded securely, with only
 the part to be cut exposed, it is pressed firmly against the edge of a
 metallic disk or thin wheel, 4 or 5 in. in diameter, made of copper,
-iron or phosphor bronze, which is charged with diamond dust and oil, and
+iron or phosphor bronze, which is charged with diamond [[Dust|dust]] and oil, and
 made to revolve with great velocity. This machine was announced as an
 American invention, but the form now principally employed at Antwerp was
 invented by a Belgian diamond cutter in the United States, and is
@@ -487,7 +487,7 @@ support, and are rubbed one against the other until the irregularities
 are ground away and the general shape desired is attained. The old
 method was to do this by hand--an extremely tedious and laborious
 process. The machine method, invented about 1885 and first used by Field
-and Morse of Boston, is now used at Antwerp exclusively. In this, one
+and Morse of [[Boston]], is now used at Antwerp exclusively. In this, one
 diamond is fixed at the centre of a rotating apparatus, and the other,
 on an arm or handle, is placed so as to press steadily against the other
 stone at the proper angle. The rotating diamond thus becomes rounded and
@@ -509,7 +509,7 @@ handle, the whole being called a "dop." Only the portion to be ground
 off is left exposed; and two such mounted diamonds are then rubbed
 against each other until a face is produced. This is the work of the
 cutter; it is very laborious, and requires great care and skill. The
-hands must be protected with leather gloves. The powder produced is
+hands must be protected with leather [[Glove|gloves]]. The powder produced is
 carefully saved, as in the former processes, for use in the final
 polishing. When one face has been produced, the alloy is softened by
 heating, and the stone re-set for grinding another surface; and as this
@@ -555,9 +555,9 @@ mines, and their consequent widespread use.
   fashion by merely rounding off the angles. Among church jewels in
   Europe are a few diamonds of unknown age and source, cut four-sided,
   with a table above and a pyramid below. Several cut diamonds are
-  recorded among the treasures of Louis of Anjou in the third quarter of
+  recorded among the treasures of Louis of [[Anjou]] in the third quarter of
   the 14th century. But the first definite accounts of diamond polishing
-  are early in the century following, when one Hermann became noted for
+  are early in the century following, when one [[Hermann]] became noted for
   such work in Paris. The modern method of "brilliant" cutting, however,
   is generally ascribed to Louis de Berquem, of Bruges, who in 1475 cut
   several celebrated diamonds sent to him by Charles the Bold, duke of
@@ -577,9 +577,9 @@ mines, and their consequent widespread use.
   into Europe. Early in the 18th century, also, the diamond-mines were
   discovered in Brazil, which was then likewise a Portuguese possession;
   thus the whole diamond product of the world came to Portugal, and
-  there was naturally developed in Lisbon an active industry of cutting
+  there was naturally developed in [[Lisbon]] an active industry of cutting
   and polishing diamonds. But in time the Jews were forced away, and
-  went to Holland and Belgium, where diamond cutting has been
+  went to Holland and [[Belgium]], where diamond cutting has been
   concentrated since the middle of the 18th century.
 
   It is of interest to trace the recent endeavours to establish diamond
@@ -662,7 +662,7 @@ FOOTNOTE:
   [1] _The Universal Magazine of Knowledge and Pleasure_ for 1749
     states that diamond dust, "well ground and diluted with water and
     vinegar, is used in the sawing of diamonds, which is done with an
-    iron or brass wire, as fine as a hair."--Ed.
+    iron or [[Brass|brass]] wire, as fine as a hair."--Ed.
 
 ## See also
 

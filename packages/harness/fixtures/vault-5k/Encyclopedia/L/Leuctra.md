@@ -6,11 +6,11 @@ topic: religion
 
 # Leuctra
 
-LEUCTRA, a village of Boeotia in the territory of Thespiae, chiefly
+LEUCTRA, a village of [[Boeotia]] in the territory of Thespiae, chiefly
 noticeable for the battle fought in its neighbourhood in 371 B.C.
 between the Thebans and the Spartans and their allies. A Peloponnesian
 army, about 10,000 strong, which had invaded Boeotia from Phocis, was
-here confronted by a Boeotian levy of perhaps 6000 soldiers under
+here confronted by a Boeotian [[Levy|levy]] of perhaps 6000 soldiers under
 Epaminondas (q.v.). In spite of inferior numbers and the doubtful
 loyalty of his Boeotian allies, Epaminondas offered battle on the plain
 before the town. Massing his cavalry and the 50-deep column of Theban
@@ -34,7 +34,7 @@ deprived them for ever of their supremacy in Greece.
 
   AUTHORITIES.--Xenophon, _Hellenica_, vi. 4. 3-15; Diodorus xi. 53-56;
   Plutarch, _Pelopidas_, chs. 20-23; Pausanias ix. 13. 2-10; G. B.
-  Grundy, _The Topography of the Battle of Plataea_ (London, 1894), pp.
+  [[Grundy]], _The Topography of the Battle of Plataea_ (London, 1894), pp.
   73-76; H. Delbrück, _Geschichte der Kriegskunst_ (Berlin, 1900), i.
   130 ff.     (M. O. B. C.)
 

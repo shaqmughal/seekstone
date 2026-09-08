@@ -10,13 +10,13 @@ begehardi_, &c., O. Fr. _begard-i_, Flem. _beggaert_), have long ceased
 to exist. The origin of the names Beguine and Beghard has been the
 subject of much controversy. In the 15th century a legend arose that
 both name and organization were traceable to St Begga, daughter of
-Pippin of Landen, who consequently in 1630 was chosen by the Beguines as
+Pippin of [[Landen]], who consequently in 1630 was chosen by the Beguines as
 the patron saint of their association. In 1630 a professor of Louvain,
 Erycius Puteanus (van Putte), published a treatise, _De Begginarum apud
 Belgas instituto et nomine suffragium_, in which he produced three
 documents purporting to date from the 11th and 12th centuries, which
 seemed conclusively to prove that the Beguines existed long before
-Lambert le Begue. For two centuries these were accepted as genuine and
+[[Lambert]] le Begue. For two centuries these were accepted as genuine and
 are admitted as such even in the monumental work of Mosheim. In 1843,
 however, they were conclusively proved by the German scholar Hallmann,
 from internal evidence, to be forgeries of the 14th and 15th centuries.
@@ -33,7 +33,7 @@ simply means "the stammerer," _quia balbus erat_ (_Gesta pontificum
 Leodiensium, c_. A.D. 1251). Doubtless this coincidence gave a ready
 handle to the scoffing wits of the time, and among the numerous popular
 names given to the Beghards--_bons garcons, boni pueri, boni valeti_ and
-the like--we find also that of Lollards (from Flemish _lollen_, "to
+the like--we find also that of [[Lollards]] (from Flemish _lollen_, "to
 stammer").
 
 About the year 1170 Lambert le Begue, a priest of Liege, who had devoted
@@ -61,7 +61,7 @@ government of a mistress (_magistra_). Women of all classes were
 admitted; and, though there was no rule of poverty, many wealthy women
 devoted their riches to the common cause. The Beguines did not beg; and,
 when the endowments of the community were not sufficient, the poorer
-members had to support themselves by manual work, sick-nursing and the
+members had to support themselves by [[Manual|manual]] work, sick-nursing and the
 like.
 
 The Beguine communities were fruitful soil for the missionary enterprise
@@ -89,16 +89,16 @@ being mere nests of beggars and women of ill fame. At the Reformation
 the communities were suppressed in Protestant countries, but in some
 Catholic countries they still survive. The beguinages found here and
 there in Germany are now simply almshouses for poor spinsters, those in
-Holland (e.g. at Amsterdam and Breda) and Belgium preserve more
+Holland (e.g. at Amsterdam and Breda) and [[Belgium]] preserve more
 faithfully the characteristics of earlier days. The beguinage of St
-Elizabeth at Ghent has some thousand sisters, and occupies quite a
+Elizabeth at [[Ghent]] has some thousand sisters, and occupies quite a
 distinct quarter of the city, being surrounded by a wall and moat. The
 Beguines wear the old Flemish head-dress and a dark costume, and are
 conspicuous for their kindness among the poor and their sick nursing.
 
 It is uncertain whether the parallel communities of men originated also
 with Lambert le Begue. The first records are of communities at Louvain
-in 1220 and at Antwerp in 1228. The history of the male communities is
+in 1220 and at [[Antwerp]] in 1228. The history of the male communities is
 to a certain extent parallel with the female, but they were never so
 numerous and their degeneration was far more rapid. The earliest Flemish
 Beghard communities were associations mainly of artisans who earned
@@ -117,7 +117,7 @@ these wandering mendicants with the mystic heresies of the Fraticelli,
 the Apostolici and the pantheistic Brethren of the Free Spirit. The
 situation was embittered by the hatred of the secular clergy for the
 friars, with whom the Beguines were associated. Restrictions were placed
-upon them by the synod of Fritzlar (1269), by that of Mainz (1281) and
+upon them by the synod of [[Fritzlar]] (1269), by that of Mainz (1281) and
 Eichstatt (1281). and by the synod of Beziers (1299) they were
 absolutely forbidden. They were again condemned by a synod held at
 Cologne in 1306; and at the synod of Trier in 1310 a decree was passed
@@ -137,7 +137,7 @@ the Beguine communities, and the Church being thus brought into conflict
 with the secular authorities. In these circumstances the persecution
 died down; it was, however, again resumed between 1366 and 1378 by Popes
 Urban V. and Gregory XI., and the Beguines were not formally reinstated
-until the pontificate of Eugenius IV. (1431-1447). The male communities
+until the pontificate of [[Eugenius]] IV. (1431-1447). The male communities
 did not survive the 14th century, even in the Netherlands, where they
 had maintained their original character least impaired.
 
@@ -146,7 +146,7 @@ had maintained their original character least impaired.
   belgischen Beghinen_ (Berlin, 1843); J.C.L. Giesclcr, _Eccles. Hist._
   (vol. iii., Eng. trans., Edinburgh, 1853), with useful excerpts from
   documents; Du Cange, _Glossarium_; Herzog-Haurk, _Realencyklopadie_
-  (3rd ed., 1897) s. "Beginen," by Herman Haupt, where numerous further
+  (3rd ed., 1897) s. "Beginen," by Herman [[Haupt]], where numerous further
   authorities are cited.     (W. A. P.)
 
 
@@ -154,7 +154,7 @@ FOOTNOTE:
 
   [1] In the year 1287 the council of Liege decreed that "all Beguinae
     desiring to enjoy the Beguine privileges shall enter a Beguinage, and
-    we order that all who remain outside the Beguinage shall wear a dress
+    we order that all who remain outside the Beguinage shall wear a [[Dress|dress]]
     to distinguish them from the Beguinae."
 
 ## See also

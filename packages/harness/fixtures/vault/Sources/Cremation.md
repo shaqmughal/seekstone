@@ -1,6 +1,6 @@
 # Cremation
 
-CREMATION (Lat. _cremare_, to burn), the burning of human corpses. This
+CREMATION (Lat. _cremare_, to [[Burn|burn]]), the burning of human [[Corpse|corpses]]. This
 method of disposal of the dead may be said to have been the general
 practice of the ancient world, with the important exceptions of Egypt,
 where bodies were embalmed, Judaea, where they were buried in
@@ -13,7 +13,7 @@ the republic to the end of the 4th Christian century, burning on the
 pyre or rogus was the general rule.[1] Whether in any of these cases
 cremation was adopted or rejected for sanitary or for superstitious
 reasons, it is difficult to say. Embalming would probably not succeed in
-climates less warm and dry than the Egyptian. The scarcity of fuel might
+climates less warm and dry than the Egyptian. The scarcity of [[Fuel|fuel]] might
 also be a consideration. The Chinese are influenced by the doctrine of
 Feng-Shui, or incomprehensible wind water; they must have a properly
 placed grave in their own land, and with this view their corpses are
@@ -23,12 +23,12 @@ the Spanish and Portuguese Jews at Mile End cemetery were among the
 first to welcome the lately revived process. Probably also, some nations
 had religious objections to the pollution of the sacred principle of
 fire, and therefore practised exposure, suspension, throwing into the
-sea, cave-burial, desiccation or envelopment.[2] Some at least of these
+sea, cave-burial, [[Desiccation|desiccation]] or envelopment.[2] Some at least of these
 methods must obviously have been suggested simply by the readiest means
 at hand. Cremation is still practised over a great part of Asia and
 America, but not always in the same form. Thus, the ashes may be stored
 in urns, or buried in the earth, or thrown to the wind, or (as among the
-Digger Indians) smeared with gum on the heads of the mourners. In one
+Digger Indians) smeared with [[Gum|gum]] on the heads of the mourners. In one
 case the three processes of embalming, burning and burying are gone
 through; and in another, if a member of the tribe die at a great
 distance from home, some of his money and clothes are nevertheless
@@ -38,7 +38,7 @@ being collected.[3] The Siamese have a singular institution, according
 to which, before burning, the embalmed body lies in a temple for a
 period determined by the rank of the dead man,--the king for six months,
 and so downwards. If the poor relatives cannot afford fuel and the other
-necessary preparations, they bury the body, but exhume it for burning
+necessary preparations, they [[Bury|bury]] the body, but exhume it for burning
 when an opportunity occurs.
 
 There can be little doubt that the practice of cremation in modern
@@ -67,14 +67,14 @@ dense clay, the best soil for preventing the levitation of gas, is the
 worst for the process of decomposition. The danger is strikingly
 illustrated in the careful planting of trees and shrubs to absorb the
 carbonic acid. Vault-burial in metallic coffins, even when sawdust
-charcoal is used, is still more dangerous than ordinary burial. It must
+[[Charcoal|charcoal]] is used, is still more dangerous than ordinary burial. It must
 also be remembered that the cemetery system can only be temporary. The
-soil is gradually filled with bones; houses crowd round; the law itself
+soil is gradually filled with [[Bone|bones]]; houses [[Crowd|crowd]] round; the law itself
 permits the reopening of graves at the expiry of fourteen years. We
 shall not, indeed, as Browne says, "be knaved out of our graves to have
 our skulls made drinking bowls and our bones turned into pipes!" But on
 this ground of sentiment cremation would certainly prevent any
-interruption of that "sweet sleep and calm rest" which the old prayer
+interruption of that "sweet sleep and [[Calm|calm]] rest" which the old prayer
 that the earth might lie lightly has associated with the grave. And in
 the meantime we should escape the horror of putrefaction and of the
 "small cold worm that fretteth the enshrouded form."
@@ -84,12 +84,12 @@ ordinary practice of committing the corpse to the grave. But in the
 middle of the 19th century many distinguished physicians and chemists,
 especially in Italy, began prominently to advocate cremation. In 1874, a
 congress called to consider the matter at Milan resolved to petition the
-Chamber of Deputies for a clause in the new sanitary code, permitting
-cremation under the supervision of the syndics of the commune. In
-Switzerland Dr Vegmann Ercolani was the champion of the cause (see his
+Chamber of Deputies for a clause in the new sanitary [[Code|code]], permitting
+cremation under the supervision of the syndics of the [[Commune|commune]]. In
+Switzerland Dr Vegmann Ercolani was the [[Champion|champion]] of the cause (see his
 _Cremation the most Rational Method of Disposing of the Dead_, 4th ed.,
 Zurich, 1874). So long ago as 1797 cremation was seriously discussed by
-the French Assembly under the Directory, and the events of the
+the French Assembly under the [[Directory]], and the events of the
 Franco-Prussian War again brought the subject under the notice of the
 medical press and the sanitary authorities. The military experiments at
 Sedan, Chalons and Metz, of burying large numbers of bodies with
@@ -115,11 +115,11 @@ Santa's book, _La Cremation des morts en France et a l'etranger_, and by
 Professor Brunetti, who exhibited an apparatus at the Vienna Exhibition
 of 1873, and who stated his results in _La Cremazione dei cadaveri_
 (Padua, 1873). Polli obtained complete incineration or calcination of
-dogs by the use of coal-gas mixed with atmospheric air, applied to a
+[[Dogs|dogs]] by the use of coal-gas mixed with atmospheric air, applied to a
 cylindrical retort of refracting clay, so as to consume the gaseous
-products of combustion. The process was complete in two hours, and the
+products of [[Combustion|combustion]]. The process was complete in two hours, and the
 ashes weighed about 5% of the weight before cremation. Brunetti used an
-oblong furnace of refracting brick with side-doors to regulate the
+oblong furnace of refracting [[Brick|brick]] with side-doors to regulate the
 draught, and above a cast-iron dome with movable shutters. The body was
 placed on a metallic plate suspended on iron wire. The gas generated
 escaped by the shutters, and in two hours carbonization was complete.
@@ -127,22 +127,22 @@ The heat was then raised and concentrated, and at the end of four hours
 the operation was over; 180 lb. of wood costing 2s. 4d. sterling was
 burned. In a reverberating furnace used by Sir Henry Thompson a body,
 weighing 144 lb., was reduced in fifty minutes to about 4 lb. of lime
-dust. The noxious gases, which were undoubtedly produced during the
+[[Dust|dust]]. The noxious gases, which were undoubtedly produced during the
 first five minutes of combustion, passed through a flue into a second
 furnace and were entirely consumed. In the ordinary Siemens regenerative
 furnace (which was adapted by Reclam in Germany for cremation, and also
 by Sir Henry Thompson) only the hot-blast was used, the body supplying
-hydrogen and carbon; or a stream of heated hydrocarbon mixed with heated
+hydrogen and [[Carbon|carbon]]; or a stream of heated [[Hydrocarbon|hydrocarbon]] mixed with heated
 air was sent from a gasometer supplied with coal, charcoal, peat or
 wood,--the brick or iron-cased chamber being thus heated to a high
 degree before cremation begins.
 
 Steps were at once taken to form an English society to promote the
-practice of cremation. A declaration of its objects was drawn up and
+practice of cremation. A [[Declaration|declaration]] of its objects was drawn up and
 signed on the 13th January 1874 by the following persons--Shirley
-Brooks, William Eassie, Ernest Hart, the Rev. H. R. Haweis, G. H.
-Hawkins, John Cordy Jeaffreson, F. Lehmann, C. F. Lord, W. Shaen, A.
-Strahan, (Sir) Henry Thompson, Major Vaughan, Rev. C. Voysey and (Sir)
+Brooks, William Eassie, Ernest [[Hart]], the Rev. H. R. Haweis, G. H.
+[[Hawkins]], John Cordy Jeaffreson, F. Lehmann, C. F. Lord, W. Shaen, A.
+Strahan, (Sir) Henry Thompson, [[Major]] Vaughan, Rev. C. Voysey and (Sir)
 T. Spencer Wells; and they frequently met to consider the necessary
 steps in order to attain their object. The laws and regulations having
 been thoroughly discussed, the membership of the society was constituted
@@ -161,15 +161,15 @@ H. Thompson was elected president and chairman. Mr Eassie (who in 1875
 published a valuable work on _Cremation of the Dead_) was at the same
 time appointed honorary secretary.[5] In 1875 the following were
 added:--Mrs Rose Mary Crawshay, Mr Higford Burr, Rev. J. Long, Mr W.
-Robinson and the Rev. Brooke Lambert. Subsequently followed Lord
-Bramwell, Sir Chas. Cameron, Dr Farquharson, Sir Douglas Galton, Lord
-Playfair, Mr Martin Ridley Smith, Mr James A. Budgett, Mr Edmund Yates,
+Robinson and the Rev. [[Brooke]] [[Lambert]]. Subsequently followed Lord
+[[Bramwell]], Sir Chas. [[Cameron]], Dr Farquharson, Sir Douglas [[Galton]], Lord
+Playfair, Mr [[Martin]] Ridley Smith, Mr James A. Budgett, Mr Edmund Yates,
 Mr J. S. Fletcher, Mr J. C. Swinburne-Hanham, the duke of Westminster
-(on Lord Bramwell's death), and Sir Arthur Arnold. These may be
+(on Lord Bramwell's death), and Sir Arthur [[Arnold]]. These may be
 considered the pioneers of the movement for reform.
 
 On account of difficulties and prejudices[6] the council was unable to
-purchase a freehold until 1878, when an acre was obtained at Woking, not
+purchase a [[Freehold|freehold]] until 1878, when an acre was obtained at Woking, not
 far distant from the cemetery. At this time the furnace employed by
 Professor Gorini of Lodi, Italy, appeared to be the best for working
 with on a small scale; and he was invited to visit England to
@@ -198,7 +198,7 @@ succeeded Mr Eassie in 1888 as honorary secretary to the society. The
 government took no notice. But in 1883 a cremation was performed in
 Wales by a man on the body of his child, and legal proceedings were
 taken against him. Mr Justice Stephen, in February 1884, delivered his
-well-known judgment at the Assizes there, declaring cremation to be a
+well-known judgment at the [[Assize|Assizes]] there, declaring cremation to be a
 legal procedure, provided no nuisance were caused thereby to others. The
 council of the society at once declared themselves absolved from their
 promise to the Home Office, and publicly offered to perform cremation,
@@ -207,7 +207,7 @@ every case. They stated that they were fully aware that the chief
 practical objection to cremation was that it removed traces of poison or
 violence which might have caused death. Declining to trust the very
 imperfect statement generally made respecting the cause of death in the
-ordinary death certificate (unless a coroner's inquest had been held),
+ordinary death certificate (unless a coroner's [[Inquest|inquest]] had been held),
 they adopted a system of very stringent inquiry, the result of which in
 each case was to be submitted to the president, to be investigated and
 approved by him before cremation could take place, with the right to
@@ -218,11 +218,11 @@ It was on 26th March 1885 that the first cremation at Woking took place,
 the subject being a lady.[7] In 1888 it became necessary, nearly 100
 bodies having been by this date cremated, to build a large hall for
 religious service, as well as waiting-rooms, in connexion with the
-crematorium there. The dukes of Bedford and Westminster headed the
+crematorium there. The [[Dukes|dukes]] of [[Bedford]] and Westminster headed the
 appeal for funds, each with L105. The former (the 9th duke of Bedford)
 especially took great interest in the progress of the society, and
 offered to furnish further donations to any extent necessary. During the
-next two years he generously defrayed costs to the amount of L3500, and
+next two years he generously defrayed [[Costs|costs]] to the amount of L3500, and
 built a smaller crematorium adjacent for himself and family. The latter
 building was first used on the 18th of January 1891, a few days after
 the duke's own death. The number of cremations slowly increased year by
@@ -237,17 +237,17 @@ The council next turned their attention to the need for a national system
 of death certification, to be enforced by law as an essential and
 much-needed reform in connexion with cremation. On the 6th of January 1893
 the duke of Westminster introduced a deputation to the secretary of state
-for the home department, Mr Asquith, and the president of the Cremation
+for the home department, Mr [[Asquith]], and the president of the Cremation
 Society opened the case, showing that no less than 7% of the burials in
 England took place without any certificate, while in some districts it was
 far greater. In consequence of this the home secretary appointed a select
 committee of the House of Commons, which was presided over by Sir Walter
-Foster, of the Local Government Board, to "inquire into the sufficiency of
+Foster, of the [[Local Government Board]], to "inquire into the sufficiency of
 the existing law as to the disposal of the dead ... and especially for
 detecting the causes of death due to poison, violence, and criminal
 neglect." After a prolonged inquiry and careful consideration of the
 evidence, a full report and conclusions drawn therefrom were unanimously
-agreed to, and published as a blue-book in the autumn of 1893.[8]
+agreed to, and published as a [[Blue-Book|blue-book]] in the autumn of 1893.[8]
 
   The following conclusions are quoted from this volume:--Page iii. "So
   far as affording a record of the true cause of death and the detection
@@ -290,7 +290,7 @@ agreed to, and published as a blue-book in the autumn of 1893.[8]
 The Cremation Society felt that this report much strengthened the case
 for legislation amending the law of death certification. In August 1894
 the president of the society laid the results of the select committee
-before the British Medical Association at Bristol, and a unanimous vote
+before the British Medical Association at [[Bristol]], and a unanimous vote
 was obtained in favour of the suggestions made by it. In November a
 second deputation waited on Mr Asquith, in which the president of the
 society begged him to carry out the system recommended. The home
@@ -346,7 +346,7 @@ Undoubtedly in populous communities and in crowded districts the burial
 of dead bodies is liable to be a source of danger to the living. As
 early as 1840 a commission had been appointed, including some of the
 earliest authorities on sanitary science,--namely, Drs Southwood Smith,
-Chadwick, Milroy, Sutherland, Waller Lewis and others,--to conduct a
+[[Chadwick]], Milroy, Sutherland, Waller [[Lewis]] and others,--to conduct a
 searching inquiry into the state of the burial-grounds of London and
 large provincial towns. By the report[10] the existence of such a danger
 was strikingly demonstrated, and intramural interments were in
@@ -380,10 +380,10 @@ abroad (see _Statistics_ below).
 
 The subject of employing cremation for the bodies of those who die of
 contagious disease is a most important one. Sir H. Thompson advocated
-this course in a paper read before the International Congress of Hygiene
+this course in a paper read before the [[International]] Congress of [[Hygiene]]
 held in London in 1891; and a resolution strongly approving the practice
-was carried unanimously at a large meeting of experts and medical
-officers of health. Such diseases are small-pox, scarlet fever,
+was carried unanimously at a large meeting of [[Expert|experts]] and medical
+officers of health. Such diseases are small-pox, scarlet [[Fever|fever]],
 diphtheria, consumption, malignant cholera, enteric, relapsing and
 puerperal fevers, the annual number of deaths from which in the United
 Kingdom is upwards of 80,000. Complete disinfection takes place by means
@@ -415,37 +415,37 @@ cremation and its progress at home and abroad:--
   published their first cases in 1872. Brunetti exhibited his at Vienna
   in 1873. All were performed in the open air. The next in Europe was a
   single case at Breslau in 1874. Soon after, an English lady was
-  cremated in a closed apparatus (Siemens) at Dresden. The next
+  cremated in a closed apparatus (Siemens) at [[Dresden]]. The next
   cremation in a closed receptacle took place at Milan in 1876. In the
   same year a Cremation Society was formed, a handsome building was
   erected, and two Gorini furnaces were at work in 1880. In 1899 the
   total number of cremations was 1355. In Italy 28 crematoria exist,
-  viz. at Alessandria, Asti, Bologna, Bra, Brescia, Como, Cremona,
-  Florence, Genoa, Leghorn, Lodi, Mantua, Milan, Modena, Novara, Padua,
+  viz. at Alessandria, [[Asti]], Bologna, Bra, [[Brescia]], [[Como]], Cremona,
+  Florence, Genoa, [[Leghorn]], Lodi, Mantua, Milan, Modena, Novara, Padua,
   Perugia, Pisa, Pistoia, Rome, San Remo, Siena, Spezia, Turin, Udine,
   Verona and Venice. The total number of cremations in Italy in 1906 was
   440.
 
-  In Germany the first crematorium was erected at Gotha; it was opened
+  In Germany the first crematorium was erected at [[Gotha]]; it was opened
   in 1878, and the total cremations down to September 1st, 1907,
-  numbered 4584. At Ohlsdorf, Hamburg, the crematorium was opened in
+  numbered 4584. At Ohlsdorf, [[Hamburg]], the crematorium was opened in
   November 1892, and the total cremations down to September 1st, 1907,
   numbered 2521. At Heidelberg the crematorium was opened in 1891, and
   the total cremations down to September 1st, 1907, numbered 1741.
   Throughout the German empire there are, in addition to the above,
-  crematoria at Bremen, Eisenach, Jena, Karlsruhe, Mannheim, Mainz,
-  Offenbach, Heilbronn, Ulm, Chemnitz and Stuttgart, besides over eighty
+  crematoria at Bremen, [[Eisenach]], [[Jena]], Karlsruhe, [[Mannheim]], [[Mainz]],
+  Offenbach, [[Heilbronn]], Ulm, Chemnitz and Stuttgart, besides over eighty
   societies for promoting cremation. The total number of cremations
   which took place in Germany in 1906 was 2057, making a total of 13,614
   down to September 1st, 1907.
 
-  Other societies exist in Denmark, Holland, Belgium, Sweden, Norway and
-  Switzerland. At the crematorium at Copenhagen 77 bodies were cremated
+  Other societies exist in [[Denmark]], Holland, [[Belgium]], Sweden, Norway and
+  Switzerland. At the crematorium at [[Copenhagen]] 77 bodies were cremated
   in 1906, the total being 500. The Stockholm crematorium was opened in
-  October 1887, and the cremations in 1906 numbered 56. The Gothenburg
+  October 1887, and the cremations in 1906 numbered 56. The [[Gothenburg]]
   crematorium (also in Sweden) was opened in January 1890, and the
   cremations there in 1906 were 14. Switzerland has four crematoria,
-  viz. at Basel, Geneva, Zurich and St Gallen--524 cremations took place
+  viz. at [[Basel]], [[Geneva]], Zurich and St Gallen--524 cremations took place
   in that country in 1906.
 
   In Paris a cremation society was founded in 1880, and in 1886-1887 a
@@ -463,17 +463,17 @@ cremation and its progress at home and abroad:--
   been greater. A magnificent edifice has been constructed by the
   municipality of Paris for the conservation of the ashes of persons who
   have been cremated. Crematoria have been established also at Rouen,
-  Rheims and Marseilles, and the construction of crematoria in other of
+  Rheims and [[Marseilles]], and the construction of crematoria in other of
   the great provincial centres of France was in contemplation.
 
   In Buenos Aires, since 1844, the bodies of all persons dying of
   contagious disease are cremated, and there is also a separate
   establishment for the use of the public.
 
-  At Tokio in Japan no fewer than 22 crematoria exist, and about an
+  At Tokio in [[Japan]] no fewer than 22 crematoria exist, and about an
   equal number of cremations and burials in earth take place.
 
-  At Calcutta a crematorium was opened in 1906.
+  At [[Calcutta]] a crematorium was opened in 1906.
 
   At Montreal, Canada, there is a crematorium which began operations in
   1902, and completed 44 cremations up to the 31st of December 1905.
@@ -481,7 +481,7 @@ cremation and its progress at home and abroad:--
   _United States._--There were 33 crematoria in the United States on
   September 1st, 1907. At Fresh Pond, New York, erected in 1885, the
   total number of cremations to December 31st, 1906, being 8514. At
-  Buffalo, N.Y., the first cremation taking place in 1885, and the total
+  [[Buffalo]], N.Y., the first cremation taking place in 1885, and the total
   number down to December 31st, 1905, being 787. At Troy (Earl
   Crematorium), N. Y., the first cremation taking place in 1890, and the
   total number down to December 31st, 1905, 249. At Swinburne Island,
@@ -490,24 +490,24 @@ cremation and its progress at home and abroad:--
   31st, 1906, 62. At St Louis, Missouri, cremations beginning in 1888,
   total to September 1st, 1907, 2151. At Philadelphia, Penn., cremations
   beginning in 1888, total to September 1st, 1907, 1685. At San
-  Francisco, Cal., "Odd Fellows," opened in 1895, total to December
-  31st, 1906, 6151. Also at San Francisco, Cal., "Cypress Lawn," opened
+  Francisco, Cal., "Odd [[Fellows]]," opened in 1895, total to December
+  31st, 1906, 6151. Also at San Francisco, Cal., "[[Cypress]] [[Lawn]]," opened
   in 1893, total to December 31st, 1905, 1492. At Los Angeles, Cal., No.
   1, Rosedale, opened in 1887, total to December 31st, 1905, 866; No. 2,
   Evergreen, opened in 1902, total to December 31st, 1905, 413; No. 3,
-  Gower Street, opened in 1907 with 54 down to September 1st. At Boston,
+  [[Gower]] Street, opened in 1907 with 54 down to September 1st. At [[Boston]],
   Mass., opened in 1893, total to September 1st, 1907, 2493. At
   Cincinnati, Ohio, opened in 1887, total to September 1st, 1907, 1245.
-  At Chicago, opened in 1893, total to September 1st, 1907, 2188. At
+  At [[Chicago]], opened in 1893, total to September 1st, 1907, 2188. At
   Detroit, Michigan, opened in 1887, total to December 31st, 1905, 689.
   At Pittsburg, Penn., opened in 1886, total to September 1st, 1907,
   377. At Baltimore, opened in 1889, total to December 31st, 1905, 263.
-  At Lancaster, Penn., opened in 1884, total to December 31st, 1906,
-  106. At Davenport, Iowa, opened in 1891, total to September 1st, 1907,
+  At [[Lancaster]], Penn., opened in 1884, total to December 31st, 1906,
+  106. At [[Davenport]], Iowa, opened in 1891, total to September 1st, 1907,
   331. At Milwaukee, opened in 1896, total to October 1905, 442. At
   Washington, opened in 1897, total to December 31st, 1905, 275. The Le
   Moyne (Washington, Pa.) crematory, the first in the United States, was
-  erected by Dr F. Julius le Moyne in 1876, for private use. The first
+  erected by Dr F. [[Julius]] le Moyne in 1876, for private use. The first
   cremation was that of the baron de Palin, of New York, December 6th,
   1876. Dr F. Julius le Moyne died October 1879, and his remains were
   cremated in his own crematory. Total number of cremations (to 1907)
@@ -515,8 +515,8 @@ cremation and its progress at home and abroad:--
   491. At St. Paul, Minn., opened in 1897, total to December 31st, 1905,
   145. At Fort Wayne, Ind., opened in 1897, total to September 1st,
   1907, 41. At Cambridge, Mass., opened in 1900, total to September 1st,
-  1907, 1090. At Cleveland, Ohio, opened in 1901, total to December
-  31st, 1905, 283. At Denver, Col., opened in 1904, total to December
+  1907, 1090. At [[Cleveland]], Ohio, opened in 1901, total to December
+  31st, 1905, 283. At [[Denver]], Col., opened in 1904, total to December
   31st, 1905, 109. At Indianapolis, opened in 1904, total to December
   31st, 1905, 32. At Oakland, Cal., opened in 1902, total to September
   1st, 1907, 2196. At Portland, Ore., opened in 1901, total to December
@@ -530,27 +530,27 @@ cremation and its progress at home and abroad:--
   increasing each year until in 1901 301 bodies were cremated. Up to
   September 1st, 1907, the total number of cremations at Woking was
   2939. Then followed the crematorium at Manchester, opened in 1892 with
-  90 in 1906 and a total of 1085; at Glasgow, opened in 1895 with 45 in
-  1906 and a total of 252; at Liverpool, opened in 1896, with 46 in 1906
-  and a total of 374; at Hull, opened in 1901 (the first municipal
-  crematorium), with 17 in 1906 and a total of 116; at Darlington, also
+  90 in 1906 and a total of 1085; at [[Glasgow]], opened in 1895 with 45 in
+  1906 and a total of 252; at [[Liverpool]], opened in 1896, with 46 in 1906
+  and a total of 374; at [[Hull]], opened in 1901 (the first municipal
+  crematorium), with 17 in 1906 and a total of 116; at [[Darlington]], also
   opened in 1901, with 13 in 1906 and a total of 33. The Leicester
   Corporation crematorium was opened in 1902, with 12 in 1906 and a
   total of 50. Next in order came the Golder's Green crematorium,
   Hampstead, London, which was opened in December 1902. In 1906 298
   cremations took place there, making a total of 1091. After this
-  followed the Birmingham crematorium, opened in 1903, with 21 in 1906
+  followed the [[Birmingham]] crematorium, opened in 1903, with 21 in 1906
   and a total of 84; the City of London crematorium at Little Ilford,
-  opened in 1905, with 23 for 1906 and a total of 46; the Leeds
+  opened in 1905, with 23 for 1906 and a total of 46; the [[Leeds]]
   crematorium, opened in 1905, with 15 in 1906 and a total of 42; the
-  Bradford Corporation crematorium, opened in 1905, with 13 in 1906, and
+  [[Bradford]] Corporation crematorium, opened in 1905, with 13 in 1906, and
   a total of 20; and the Sheffield Corporation crematorium, opened in
   1905, with 6 in 1906 and a total of 26. Thus there were 739
   cremations in the United Kingdom in 1906, making a total at the above
   crematoria down to September 1st, 1907, of 6158. The Golder's Green
   crematorium, situated on the northern boundary of Hampstead Heath,
   stands in its own grounds of 12 acres, and is but 35 minutes' drive
-  from Oxford Circus. London thus has two crematoria within driving
+  from Oxford [[Circus]]. London thus has two crematoria within driving
   distance of its centre, and the Woking crematorium within easy reach
   of the south-west suburbs.     (J. C. S.-H.)
 
@@ -564,7 +564,7 @@ FOOTNOTES:
     air, i.e. on trees.
 
   [3] In the case of a great man there was often a burnt offering of
-    animals and even of slaves (see Caesar, _De bell. Gall._ iv.).
+    animals and even of slaves (see [[Caesar]], _De bell. [[Gall]]._ iv.).
 
   [4] A temple of the Holy Ghost (see Tertullian, _De anima_, c. 51,
     cited in Muller, _Lex. des Kirchenrechts_, s.v. "Begrabniss").
@@ -578,7 +578,7 @@ FOOTNOTES:
 
   [7] _The Times_, 27th March 1885.
 
-  [8] _Reports on Death Certification_ (1893), Eyre & Spottiswoode,
+  [8] _Reports on Death Certification_ (1893), [[Eyre]] & Spottiswoode,
     London (373,472).
 
   [9] _Statutory Rules and Orders_, 1903, No. 286, Eyre & Spottiswoode.

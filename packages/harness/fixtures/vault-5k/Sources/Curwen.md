@@ -15,12 +15,12 @@ till 1864, when he gave it up in order to devote himself to his new
 method of musical nomenclature, designed to avoid the use of the stave
 with its lines and spaces. He adapted it from that of Miss Sarah Ann
 Glover (1785-1867) of Norwich, whose Sol-Fa system was based on the
-ancient gamut; but she omitted the constant recital of the alphabetical
-names of each note and the arbitrary syllable indicating key
+ancient [[Gamut|gamut]]; but she omitted the constant recital of the alphabetical
+names of each note and the arbitrary syllable indicating [[Key|key]]
 relationship, and also the recital of two or more such syllables when
 the same note was common to as many keys (e.g. "C, Fa, Ut," meaning that
 C is the subdominant of G and the tonic of C). The notes were
-represented by the initials of the seven syllables, still in use in
+represented by the [[Initials|initials]] of the seven syllables, still in use in
 Italy and France as their names but in the "Tonic Sol-Fa" the seven
 letters refer to key relationship and not to pitch. Curwen was led to
 feel the importance of a simple way of teaching how to sing by note by

@@ -8,8 +8,8 @@ short time with Sir Peter Lely, he went to Westminster school; and in
 employed and patronized by the Hon. Robert Boyle, who turned his skill
 to account in the construction of his air-pump. On the 12th of November
 1662 he was appointed curator of experiments to the Royal Society, of
-which he was elected a fellow in 1663, and filled the office during the
-remainder of his life. In 1664 Sir John Cutler instituted for his
+which he was elected a [[Fellow|fellow]] in 1663, and filled the office during the
+remainder of his life. In 1664 Sir John [[Cutler]] instituted for his
 benefit a mechanical lectureship of L50 a year, and in the following
 year he was nominated professor of geometry in Gresham College, where he
 subsequently resided. After the Great Fire of 1666 he constructed a
@@ -30,7 +30,7 @@ his life. The death, in 1687, of his niece, Mrs Grace Hooke, who had
 lived with him for many years, caused him deep affliction; a law-suit
 with Sir John Cutler about his salary (decided, however, in his favour
 in 1696) occasioned him prolonged anxiety; and the repeated anticipation
-of his discoveries inspired him with a morbid jealousy. Marks of public
+of his discoveries inspired him with a morbid [[Jealousy|jealousy]]. Marks of public
 respect were not indeed wanting to him. A degree of M.D. was conferred
 on him at Doctors' Commons in 1691, and the Royal Society made him, in
 1696, a grant to enable him to complete his philosophical inventions.
@@ -39,7 +39,7 @@ March 1703 in London, and was buried in St Helen's Church, Bishopsgate
 Street.
 
 In personal appearance Hooke made but a sorry show. His figure was
-crooked, his limbs shrunken; his hair hung in dishevelled locks over his
+crooked, his limbs shrunken; his hair hung in dishevelled [[Lock|locks]] over his
 haggard countenance. His temper was irritable, his habits penurious and
 solitary. He was, however, blameless in morals and reverent in religion.
 His scientific achievements would probably have been more striking if
@@ -58,7 +58,7 @@ investigated the nature of sound and the function of the air in
 respiration and combustion, and originated the idea of using the
 pendulum as a measure of gravity. He is credited with the invention of
 the anchor escapement for clocks, and also with the application of
-spiral springs to the balances of watches, together with the explanation
+spiral springs to the [[Balance|balances]] of watches, together with the explanation
 of their action by the principle _Ut tensio sic vis_ (1676).
 
   His principal writings are _Micrographia_ (1664); _Lectiones

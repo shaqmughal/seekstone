@@ -2,7 +2,7 @@
 
 HUNTSMAN, BENJAMIN (1704-1776), English inventor and steel-manufacturer,
 was born in Lincolnshire in 1704. His parents were Germans. He started
-business as a clock, lock and tool maker at Doncaster, and attained a
+business as a clock, [[Lock|lock]] and tool maker at Doncaster, and attained a
 considerable local reputation for scientific knowledge and skilled
 workmanship. He also practised surgery in an experimental fashion, and
 was frequently consulted as an oculist. Finding that the bad quality of

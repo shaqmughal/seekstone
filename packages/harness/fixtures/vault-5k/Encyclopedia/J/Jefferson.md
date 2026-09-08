@@ -12,7 +12,7 @@ America, and the most conspicuous apostle of democracy in America, was
 born on the 13th of April 1743, at Shadwell, Albemarle county, Virginia.
 His father, Peter Jefferson (1707-1757), of early Virginian yeoman
 stock, was a civil engineer and a man of remarkable energy, who became a
-justice of the peace, a county surveyor and a burgess, served the Crown
+justice of the peace, a county surveyor and a [[Burges|burgess]], served the Crown
 in inter-colonial boundary surveys, and married into one of the most
 prominent colonial families, the Randolphs. Albemarle county was then in
 the frontier wilderness of the Blue Ridge, and was very different,
@@ -41,7 +41,7 @@ horseman. Thorough-bred horses always remained to him a necessary
 luxury. When it is added that Fauquier was a passionate gambler, and
 that the gentry who gathered every winter at Williamsburg, the seat of
 government of the province, were ruinously addicted to the same
-weakness, and that Jefferson had a taste for racing, it does credit to
+weakness, and that Jefferson had a taste for racing, it does [[Credit|credit]] to
 his early strength of character that of his social opportunities he took
 only the better. He never used tobacco, never played cards, never
 gambled, and was never party to a personal quarrel.
@@ -62,7 +62,7 @@ any rate, soon after entering public life he abandoned practice (1774).
 
 The death of his father had left him an estate of 1900 acres, the income
 from which (about £400) gave him the position of an independent country
-gentleman; and while engaged in the law he had added to his farms after
+[[Gentleman|gentleman]]; and while engaged in the law he had added to his farms after
 the ambitious Virginia fashion, until, when he married in his thirtieth
 year, there were 5000 acres all paid for; and almost as much more[1]
 came to him in 1773 on the death of his father-in-law. On the 1st of
@@ -112,20 +112,20 @@ America_, which was widely circulated. In England, after receiving such
 modifications--attributed to Burke--as adapted it to the purposes of the
 opposition, this pamphlet ran through many editions, and procured for
 its author, as he said, "the honour of having his name inserted in a
-long list of proscriptions enrolled in a bill of attainder commenced in
+long list of proscriptions enrolled in a bill of [[Attainder|attainder]] commenced in
 one of the two houses of parliament, but suppressed in embryo by the
 hasty course of events." It placed Jefferson among the foremost leaders
 of revolution, and procured for him the honour of drafting, later, the
 Declaration of Independence, whose historical portions were, in large
 part, only a revised transcript of the _Summary View_. In June 1775 he
 took his seat in the Continental Congress, taking with him fresh
-credentials of radicalism in the shape of Virginia's answer, which he
+[[Credentials|credentials]] of radicalism in the shape of Virginia's answer, which he
 had drafted, to Lord North's conciliatory propositions. Jefferson soon
 drafted the reply of Congress to the same propositions. Reappointed to
 the next Congress, he signalized his service by the authorship of the
 Declaration of Independence (q.v.). Again reappointed, he surrendered
 his seat, and after refusing a proffered election to serve as a
-commissioner with Benjamin Franklin and Silas Deane in France, he
+commissioner with Benjamin [[Franklin]] and Silas Deane in France, he
 entered again, in October 1776, the Virginia legislature, where he
 considered his services most needed.
 
@@ -134,7 +134,7 @@ revision of Virginia's laws. Of the measures proposed to this end he
 says: "I considered four, passed or reported, as forming a system by
 which every trace would be eradicated of ancient or future aristocracy,
 and a foundation laid for a government truly republican"--the repeal of
-the laws of entail; the abolition of primogeniture and the unequal
+the laws of [[Entail|entail]]; the abolition of primogeniture and the unequal
 division of inheritances (Jefferson was himself an eldest son); the
 guarantee of freedom of conscience and relief of the people from
 supporting, by taxation, an established church; and a system of general
@@ -147,10 +147,10 @@ District, grammar and classical schools, a free state library and a
 state college, were all included in his plan. He was the first American
 statesman to make education by the state a fundamental article of
 democratic faith. His bill for elementary education he regarded as the
-most important part of the code, but Virginia had no strong middle
-class, and the planters would not assume the burden of educating the
+most important part of the [[Code|code]], but Virginia had no strong middle
+class, and the planters would not assume the [[Burden|burden]] of educating the
 poor. At this time Jefferson championed the natural right of
-expatriation, and gradual emancipation of the slaves. His earliest
+[[Expatriation|expatriation]], and gradual emancipation of the slaves. His earliest
 legislative effort, in the five-day session of 1769, had been marked by
 an effort to secure to masters freedom to manumit their slaves without
 removing them from the state. It was unsuccessful, and the more radical
@@ -164,7 +164,7 @@ of Romilly and his co-workers in England--aided in securing a
 humanitarian revision of the penal code,[4] which, though lost by one
 vote in 1785, was sustained by public sentiment, and was adopted in
 1796. Jefferson is of course not entitled to the sole credit for all
-these services: Wythe, George Mason and James Madison, in particular,
+these services: Wythe, George Mason and James [[Madison]], in particular,
 were his devoted lieutenants, and--after his departure for France--the
 principals in the struggle; moreover, an approving public opinion must
 receive large credit. But Jefferson was throughout the chief inspirer
@@ -200,7 +200,7 @@ western territories,[5] that embodied in the ordinance of 1784. He was
 already particularly associated with the great territory north-west of
 the Ohio; for Virginia had tendered to Congress in 1781, while Jefferson
 was governor, a cession of her claims to it, and now in 1784 formally
-transferred the territory by act of Jefferson and his fellow delegates
+transferred the territory by act of Jefferson and his [[Fellow|fellow]] delegates
 in congress: a consummation for which he had laboured from the
 beginning. His anti-slavery opinions grew in strength with years (though
 he was somewhat inconsistent in his attitude on the Missouri question in
@@ -209,7 +209,7 @@ cause of the negroes,[6] for he foresaw the certainty that the race must
 some day, in some way, be freed, and the dire political dangers involved
 in the institution of slavery; and could any feasible plan of
 emancipation have been suggested he would have regarded its cost as a
-mere bagatelle.
+mere [[Bagatelle|bagatelle]].
 
 From 1784 to 1789 Jefferson was in France, first under an appointment to
 assist Benjamin Franklin and John Adams in negotiating treaties of
@@ -234,7 +234,7 @@ revolutionary politics when he went to Paris. The _Notes on Virginia_
 were widely read in Paris, and undoubtedly had some influence in
 forwarding the dissolution of the doctrines of divine rights and passive
 obedience among the cultivated classes of France. Jefferson was deeply
-interested in all the events leading up to the French Revolution, and
+interested in all the events leading up to the [[French Revolution]], and
 all his ideas were coloured by his experience of the five seething years
 passed in Paris. On the 3rd of June 1789 he proposed to the leaders of
 the third estate a compromise between the king and the nation. In July
@@ -246,7 +246,7 @@ and in no way gave offence to the government to which he was accredited.
 
 When Jefferson left France it was with the intention of soon returning;
 but President Washington tendered him the secretaryship of state in the
-new federal government, and Jefferson reluctantly accepted. His only
+new [[Federal Government|federal government]], and Jefferson reluctantly accepted. His only
 essential objection to the constitution--the absence of a bill of
 rights--was soon met, at least partially, by amendments. Alexander
 Hamilton (q.v.) was secretary of the treasury. These two men, antipodal
@@ -288,11 +288,11 @@ republics, but rather as revealing the danger of standing armies; he did
 not look on the war of the coalitions against France as one of mere
 powers, but as one between forms of government; and though the immediate
 fruits of the Revolution belied his hopes, as they did those of ardent
-humanitarians the world over, he saw the broad trend of history, which
+[[Humanitarians|humanitarians]] the world over, he saw the broad trend of history, which
 vindicated his faith that a successful reformation of government in
 France would insure "a general reformation through Europe, and the
 resurrection to a new life of their people." Each of these statements
-could be reversed as regards Hamilton. It is the key to an understanding
+could be reversed as regards Hamilton. It is the [[Key|key]] to an understanding
 of the times to remember that the War of Independence had disjointed
 society; and democracy--which Jefferson had proclaimed in the
 Declaration of Independence, and enthroned in Virginia--after
@@ -320,7 +320,7 @@ strength (and the Declaration had proclaimed that they derived their
 just rights) from the will of the governed. Each built his system
 accordingly: the one on the basis of order, the other on
 individualism--which led Jefferson to liberty alike in religion and in
-politics. The two men and the fate of the parties they led are
+politics. The two men and the [[Fate|fate]] of the parties they led are
 understandable only by regarding one as the leader of reaction, the
 other as in line with the American tendencies. The educated classes
 characteristically furnished Federalism with a remarkable body of
@@ -365,14 +365,14 @@ the law as it then existed the former became president and the latter
 vice-president. Jefferson re-entered public life with reluctance, though
 doubtless with keen enough interest and resolution. He had rightly
 measured the strength of his followers, and was waiting for the
-government to "drift into unison" with the republican sense of its
+government to "[[Drift|drift]] into unison" with the republican sense of its
 constituents, predicting that President Adams would be "overborne"
 thereby. This prediction was speedily fulfilled. At first the reign of
 terror and the X. Y. Z. disclosures strengthened the Federalists, until
 these, mistaking the popular resentment against France for a reaction
 against democracy--an equivalence in their own minds--passed the alien
 and sedition laws. In answer to those odious measures Jefferson and
-Madison prepared and procured the passage of the Kentucky and Virginia
+Madison prepared and procured the passage of the [[Kentucky]] and Virginia
 resolutions. These resolutions later acquired extraordinary and
 pernicious prominence in the historical elaboration of the
 states'-rights doctrine. It is, however, unquestionably true, that as a
@@ -416,11 +416,11 @@ policy of the Federalists would leave them "all head and no body." In
 Jefferson's administrations were distinguished by the simplicity that
 marked his conduct in private life. He eschewed the pomp and ceremonies,
 natural inheritances from English origins, that had been an innocent
-setting to the character of his two noble predecessors. His dress was of
+setting to the character of his two noble predecessors. His [[Dress|dress]] was of
 "plain cloth" on the day of his inauguration. Instead of driving to the
 Capitol in a coach and six, he walked without a guard or servant from
 his lodgings--or, as a rival tradition has it, he rode, and hitched his
-horse to a neighbouring fence--attended by a crowd of citizens. Instead
+horse to a neighbouring fence--attended by a [[Crowd|crowd]] of citizens. Instead
 of opening Congress with a speech to which a formal reply was expected,
 he sent in a written message by a private hand. He discontinued the
 practice of sending ministers abroad in public vessels. Between himself
@@ -439,7 +439,7 @@ negligent undress and slippers down at the heel. All this was in part
 premeditated system[17]--a part of Jefferson's purpose to republicanize
 the government and public opinion, which was the distinguishing feature
 of his administration; but it was also simply the nature of the man. In
-the company he chose by preference, honesty and knowledge were his only
+the company he [[Chose|chose]] by preference, honesty and knowledge were his only
 tests. He knew absolutely no social distinctions in his willingness to
 perform services for the deserving. He held up to his daughter as an
 especial model the family of a poor but gifted mechanic as one wherein
@@ -451,8 +451,8 @@ lowest being on earth."
 Jefferson's first administration was marked by a reduction of the army,
 navy, diplomatic establishment and, to the uttermost, of governmental
 expenses; some reduction of the civil service, accompanied by a large
-shifting of offices to Republicans; and, above all, by the Louisiana
-Purchase (q.v.), following which Meriwether Lewis and William Clark,
+shifting of offices to Republicans; and, above all, by the [[Louisiana]]
+Purchase (q.v.), following which Meriwether [[Lewis]] and William Clark,
 sent by Jefferson, conducted their famous exploring expedition across
 the continent to the Pacific (see LEWIS, MERIWETHER). Early in his term
 he carried out a policy he had urged upon the government when minister
@@ -483,7 +483,7 @@ seaports; reduction of the public debt; and a simultaneous reduction of
 taxes. But his second term derives most of its historical interest from
 the unsuccessful efforts to convict Aaron Burr of treasonable acts in
 the south-west, and from the efforts made to maintain, without war, the
-rights of neutrals on the high seas. In his diplomacy with Napoleon and
+rights of neutrals on the high seas. In his [[Diplomacy|diplomacy]] with Napoleon and
 Great Britain Jefferson betrayed a painful incorrigibility of optimism.
 A national policy of "growling before fighting"--later practised
 successfully enough by the United States--was not then possible; and one
@@ -491,11 +491,11 @@ writer has very justly said that what chiefly affects one in the whole
 matter is the pathos of it--"a philosopher and a friend of peace
 struggling with a despot of superhuman genius, and a Tory cabinet of
 superhuman insolence and stolidity" (Trent). It is possible to regard
-the embargo policy dispassionately as an interesting illustration of
+the [[Embargo|embargo]] policy dispassionately as an interesting illustration of
 Jefferson's love of peace. The idea--a very old one with Jefferson--was
 not entirely original; in essence it received other attempted
 applications in the Napoleonic period--and especially in the continental
-blockade. Jefferson's statesmanship had the limitations of an agrarian
+[[Blockade|blockade]]. Jefferson's statesmanship had the limitations of an agrarian
 outlook. The extreme to which he carried his advocacy of diplomatic
 isolation, his opposition to the creation of an adequate navy,[19] his
 estimate of cities as "sores upon the body politic," his prejudice
@@ -555,7 +555,7 @@ possibility lack energy to preserve itself." Time soon tested, too, his
 principle that that government must prove the strongest on earth "where
 every man ... would meet invasions of the public order as his own
 personal concern." He summed up as follows the difference between
-himself and the Hamiltonian group: "One feared most the ignorance of the
+himself and the Hamiltonian group: "One feared most the [[Ignorance|ignorance]] of the
 people; the other the selfishness of rulers independent of them."
 Jefferson, in short, had unlimited faith in the honesty of the people; a
 large faith in their common sense; believed that all is to be won by
@@ -585,7 +585,7 @@ library of over 10,000 volumes was purchased at a low price by Congress
 in 1815, and a national contribution ($16,500) just before his death
 enabled him to die in peace. Though not personally extravagant, his
 salary, and the small income from his large estates, never sufficed to
-meet his generous maintenance of his representative position; and after
+meet his generous [[Maintenance|maintenance]] of his representative position; and after
 his retirement from public life the numerous visitors to Monticello
 consumed the remnants of his property. He died on the 4th of July 1826,
 the fiftieth anniversary of the Declaration of Independence, on the same
@@ -598,10 +598,10 @@ university of Virginia."
   sinewy. He had angular features, a very ruddy complexion, sandy hair,
   and hazel-flecked, grey eyes. Age lessened the unattractiveness of his
   exterior. In later years he was negligent in dress and loose in
-  bearing. There was grace, nevertheless, in his manners; and his frank
-  and earnest address, his quick sympathy (yet he seemed cold to
+  bearing. There was grace, nevertheless, in his manners; and his [[Frank|frank]]
+  and [[Earnest|earnest]] address, his quick sympathy (yet he seemed cold to
   strangers), his vivacious, desultory, informing talk, gave him an
-  engaging charm. Beneath a quiet surface he was fairly aglow with
+  engaging [[Charm|charm]]. Beneath a quiet surface he was fairly aglow with
   intense convictions and a very emotional temperament. Yet he seems to
   have acted habitually, in great and little things, on system. His
   mind, no less trenchant and subtle than Hamilton's, was the most
@@ -632,7 +632,7 @@ university of Virginia."
   _The Jefferson Cyclopaedia_ (New York, 1900); the _Memoir,
   Correspondence_, &c., by T. J. Randolph (4 vols., Charlottesville,
   Va., 1829); biographies by James Schouler ("Makers of America Series,"
-  New York, 1893); John T. Morse ("American Statesmen Series," Boston,
+  New York, 1893); John T. Morse ("American Statesmen Series," [[Boston]],
   1883); George Tucker (2 vols., Philadelphia, 1837); James Parton
   (Boston, 1874); and especially that by Henry S. Randall (3 vols., New
   York, 1853), a monumental work, although marred by some special
@@ -643,7 +643,7 @@ university of Virginia."
   Washington, 1888); Sarah N. Randolph, _Domestic Life of Thomas
   Jefferson_ (New York, 1871); and an illuminating appreciation by W. P.
   Trent, in his _Southern Statesmen of the Old Régime_ (New York, 1897);
-  that by John Fiske, Essays, _Historical and Literary_, vol. i. (New
+  that by John [[Fiske]], Essays, _Historical and Literary_, vol. i. (New
   York, 1902), has slighter merits.     (F. S. P.)
 
 
@@ -740,7 +740,7 @@ FOOTNOTES:
     anti-administration paper. It was alleged that Jefferson appointed
     him for the purpose, and encouraged him. Undoubtedly there was
     nothing in the charge. The Federalist outcry could only have been
-    silenced by removal of Freneau, or by disclaimers or admonitions,
+    silenced by removal of Freneau, or by [[Disclaimer|disclaimers]] or admonitions,
     which Jefferson did not think it incumbent upon himself--or, since he
     thought Freneau was doing good, desirable for him--to make.
 
@@ -773,7 +773,7 @@ FOOTNOTES:
     manned by a sort of naval militia. A large number of these boats were
     constructed and they afforded some protection to coasting vessels
     against privateers, but in bad weather, or when employed against a
-    frigate, they were worse than useless, and Jefferson's "gunboat
+    [[Frigate|frigate]], they were worse than useless, and Jefferson's "gunboat
     system" was admittedly a failure.
 
   [20] See e.g. his letters in 1787 on the Shays' rebellion, and his

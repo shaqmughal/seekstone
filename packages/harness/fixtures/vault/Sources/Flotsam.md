@@ -1,10 +1,10 @@
 # Flotsam
 
-FLOTSAM, JETSAM and LIGAN, in English law, goods lost at sea, as
+FLOTSAM, JETSAM and LIGAN, in [[English Law|English law]], goods lost at sea, as
 distinguished from goods which come to land, which are technically
 designated _wreck_. Jetsam (the same word as _jettison_, from Lat.
 _jactare_, to throw) is when goods are cast into the sea, and there sink
-and remain under water; flotsam (_floatson_, from _float_, Lat.
+and remain under water; flotsam (_floatson_, from _[[Float|float]]_, Lat.
 _flottare_) is where they continue floating on the surface of the waves;
 ligan (or _lagan_, from _lay_ or _lie_) is where they are sunk in the
 sea, but tied to a cork or buoy in order to be found again. Flotsam,

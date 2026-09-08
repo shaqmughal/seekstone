@@ -57,7 +57,7 @@ children (1 Cor. iv. 14 f., Gal. iv. 19, 1 Pet. v. 13, 1 John ii. 12);
 they did not assume, so far as we know, the official style of "fathers
 in God." Nor is this title found in the age which succeeded to that of
 the apostles. When Polycarp, bishop of Smyrna, was martyred (A.D. 155),
-the crowd shouted, "This is the father of the Christians"[2]; but the
+the [[Crowd|crowd]] shouted, "This is the father of the Christians"[2]; but the
 words were probably prompted by the Jews, who took a prominent part in
 the martyrdom, and who naturally viewed Polycarp in the light of a great
 Christian rabbi, and gave him the title which their own teachers bore.
@@ -67,7 +67,7 @@ his Roman correspondents.[3] The bishops who sat in the great councils
 of the 4th century were known as "the 318 fathers" of Nicaea, and "the
 150 fathers" of Constantinople. Meanwhile the custom was growing up of
 appealing to eminent Church writers of a past generation under this
-name. Thus Athanasius writes (_ad Afros_ vi.): "We have the testimony of
+name. Thus [[Athanasius]] writes (_ad Afros_ vi.): "We have the testimony of
 fathers (the two Dionysii, bishops of Alexandria and Rome, who wrote in
 the previous century) for the use of the word [Greek: homoousios]." Such
 quotations were multiplied, as theologians learnt to depend increasingly
@@ -83,9 +83,9 @@ of life, and whose writings remained as a court of appeal for their
 successors. A list of fathers drawn up on this principle will begin with
 the Christian writers of the 1st century whose writings are not included
 in the New Testament: where it ought to end is a more difficult point to
-determine. Perhaps the balance of opinion is in favour of regarding
+determine. Perhaps the [[Balance|balance]] of opinion is in favour of regarding
 Gregory the Great (d. 604) as the last of the Latin fathers, and John of
-Damascus (d. c. 760) as the last of the fathers of the Greek Church. A
+[[Damascus]] (d. c. 760) as the last of the fathers of the Greek Church. A
 more liberal estimate might include John Scotus Erigena or even Anselm
 or Bernard of Clairvaux in the West and Photius in the East. The abbe
 Migne carried his Latin patrology down to the time of Innocent III. (d.
@@ -95,7 +95,7 @@ his readers, it undoubtedly stretches the meaning of _patrologia_ far
 beyond its natural limits. For ordinary purposes it is best to make the
 patristic period conterminous with the life of the ancient Catholic
 Church. In the West the Church enters the medieval stage of its history
-with the death of Gregory, while in the East even John of Damascus is
+with the death of Gregory, while in the East even [[John Of Damascus|John of Damascus]] is
 rather a compiler of patristic teaching than a true "father."
 
 A further question arises. Are all the Christian writers of a given
@@ -132,14 +132,14 @@ records of the early struggles of Christianity; from it we have received
 specimens of the early apologetic and the early polemic of the Church,
 the first essays of Christian philosophy, Christian correspondence,
 Christian biblical interpretation: we owe to it the works of Justin,
-Irenaeus, the Alexandrian Clement, Origen, Tertullian, Cyprian. In these
+[[Irenaeus]], the Alexandrian Clement, Origen, Tertullian, Cyprian. In these
 products of the 2nd and 3rd centuries there is much which in its own way
 was not surpassed by any of the later patristic writings. Yet the
 post-Nicene literature, considered as literature, reaches a far higher
 level. Both in East and West, the 4th and 5th centuries form the golden
 age of dogmatic theology, of homiletic preaching, of exposition, of
 letter-writing, of Church history, of religious poetry. Two causes may
-be assigned for this fact. The conversion of the empire gave the members
+be assigned for this fact. The [[Conversion|conversion]] of the empire gave the members
 of the Church leisure and opportunities for the cultivation of literary
 taste, and gradually drew the educated classes within the pale of the
 Christian society. Moreover, the great Christological controversies of
@@ -150,13 +150,13 @@ which the earlier centuries had not felt the need.
 The ante-Nicene period of patristic literature opens with the "apostolic
 fathers,"[5] i.e. the Church writers who flourished toward the end of
 the apostolic age and during the half century that followed it,
-including Clement of Rome, Ignatius of Antioch, Polycarp of Smyrna and
+including Clement of Rome, [[Ignatius]] of Antioch, Polycarp of Smyrna and
 the author known as "Barnabas." Their writings, like those of the
 apostles, are epistolary; but editions of the apostolic fathers now
-usually admit also the early Church order known as the _Didache_, the
-allegory entitled the _Shepherd_, and a short anonymous apology
+usually admit also the early Church order known as the _[[Didache]]_, the
+allegory entitled the _Shepherd_, and a short anonymous [[Apology|apology]]
 addressed to one Diognetus. A second group, known as the "Greek
-Apologists," embraces Aristides, Justin, Tatian, Athenagoras and
+Apologists," embraces [[Aristides]], Justin, Tatian, Athenagoras and
 Theophilus; and a third consists of the early polemical writers,
 Irenaeus and Hippolytus. Next come the great Alexandrians, Clement,
 Origen, Dionysius; the Carthaginians, Tertullian and Cyprian; the
@@ -173,13 +173,13 @@ Only the more representative names can be mentioned here. From
 Alexandria we get Athanasius, Didymus and Cyril; from Cyrene, Synesius;
 from Antioch, Theodore of Mopsuestia, John Chrysostom and Theodoret;
 from Palestine, Eusebius of Caesarea and Cyril of Jerusalem; from
-Cappadocia, Basil, Gregory of Nyssa and Gregory of Nazianzus. The Latin
+[[Cappadocia]], Basil, Gregory of Nyssa and Gregory of Nazianzus. The Latin
 West was scarcely less productive; it is enough to mention Hilary of
-Poitiers, Ambrose of Milan, Augustine of Hippo, Leo of Rome, Jerome,
+Poitiers, Ambrose of Milan, Augustine of [[Hippo]], Leo of Rome, Jerome,
 Rufinus, and a father lately restored to his place in patristic
-literature, Niceta of Remesiana.[6] Gaul alone has a goodly list of
+literature, Niceta of Remesiana.[6] [[Gaul]] alone has a goodly list of
 Christian authors to show: John Cassian, Vincent of Lerins, Hilary of
-Arles, Prosper of Aquitaine, Salvian of Marseilles, Sidonius Apollinaris
+[[Arles]], Prosper of [[Aquitaine]], Salvian of Marseilles, Sidonius Apollinaris
 of Auvergne, Caesarius of Arles, Gregory of Tours. The period ends in
 the West with two great Italian names, Cassiodorus and Pope Gregory I.,
 after Leo the greatest of papal theologians.
@@ -208,7 +208,7 @@ accepted in the Anglican communion: _curandum est ut id teneamus quod
 ubique, quod semper, quod ab omnibus creditum est_. The fathers of the
 first six or seven centuries, so far as they agree, may be fairly taken
 to represent the main stream of Christian tradition and belief during
-the period when the apostolic teaching took shape in the great creeds
+the period when the apostolic teaching took shape in the great [[Creeds|creeds]]
 and dogmatic decisions of Christendom. The English reformers realized
 this fact; and notwithstanding their insistence on the unique authority
 of the canon of Scripture, their appeal to the fathers as
@@ -230,7 +230,7 @@ sides may draw effective weapons, offensive or defensive; nor on the
 other hand are they cast aside as the rubbish of an ignorant and
 superstitious age. All patristic students now recognize the great
 inequality of these authors, and admit that they are not free from the
-faults of their times; it is not denied that much of their exegesis is
+[[Fault|faults]] of their times; it is not denied that much of their exegesis is
 untenable, or that their logic is often feeble and their rhetoric
 offensive to modern taste. But against these disadvantages may be set
 the unique services which the fathers still render to Christian
@@ -248,7 +248,7 @@ which leaves little to be desired.[11]
   _De viris illustribus_ gives a brief account of one hundred and
   thirty-five Church writers, beginning with St Peter and ending with
   himself. Jerome's work was continued successively by Gennadius of
-  Marseilles, Isidore of Seville, and Ildefonsus of Toledo; the
+  Marseilles, [[Isidore Of Seville|Isidore of Seville]], and Ildefonsus of Toledo; the
   last-named writer brings the list down to the middle of the 7th
   century. Since the revival of learning books on the fathers have been
   numerous; among the more recent and most accessible of these we may

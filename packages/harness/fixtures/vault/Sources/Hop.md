@@ -14,10 +14,10 @@ some botanists included in the larger group called Urticaceae by
 Endlicher. It is of common occurrence in hedges and thickets in the
 southern counties of England, but is believed not to be native in
 Scotland. On the European continent it is distributed from Greece to
-Scandinavia, and extends through the Caucasus and Central Asia to the
+Scandinavia, and extends through the [[Caucasus]] and Central Asia to the
 Altai Mountains. It is common, but doubtfully indigenous, in the
 northern and western states of North America, and has been introduced
-into Brazil, Australia and the Himalayas.
+into Brazil, [[Australia]] and the [[Himalaya|Himalayas]].
 
 It is a perennial plant, producing annually several long twining
 roughish striated stems, which twist from left to right, are often 15 to
@@ -73,22 +73,22 @@ October, according to the weather.
 
 [Illustration: FIG. 2.--Fruit of Hop.]
 
-The cultivation of hops for use in the manufacture of beer dates from an
+The cultivation of hops for use in the manufacture of [[Beer|beer]] dates from an
 early period. In the 8th and 9th centuries hop gardens, called
 "humularia" or "humuleta," existed in France and Germany. Until the 16th
 century, however, hops appear to have been grown in a very fitful
 manner, and to a limited extent, generally only for private consumption;
 but after the beginning of the 17th century the cultivation increased
-rapidly. The plant was introduced into England from Flanders in 1525;
+rapidly. The plant was introduced into England from [[Flanders]] in 1525;
 and in America its cultivation was encouraged by legislative enactments
 in 1657. Formerly several plants were used as well as hops to season
 ale, hence the name "alehoof" for _Nepeta Glechoma_, and "alecost" for
-_Balsamita vulgaris_. The sweet gale, _Myrica Gale_, and the sage,
+_Balsamita vulgaris_. The sweet [[Gale|gale]], _Myrica Gale_, and the sage,
 _Salvia officinalis_, were also similarly employed. Various hop
 substitutes, in the form of powder, have been offered in commerce of
 late years, most of which appear to have quassia as a chief ingredient.
-The young tender tops of the hop are in Belgium cut off in spring and
-eaten like asparagus, and are forced from December to February.
+The young tender tops of the hop are in [[Belgium]] cut off in spring and
+eaten like [[Asparagus|asparagus]], and are forced from December to February.
 
   _Medical Use._--The principal constituents of the strobiles are
   _lupulin_, one of the few liquid alkaloids; _lupulinic acid_, a bitter
@@ -101,7 +101,7 @@ eaten like asparagus, and are forced from December to February.
   the strobiles,--an infusion (dose, 1-2 oz.) and a tincture (dose,
   1/2-1 drachm). The glands obtained from the strobiles are known in
   pharmacy as lupulin, a name which tends to confusion with that of the
-  alkaloid. They occur in commerce as a bright yellow-brown powder, seen
+  alkaloid. They occur in commerce as a [[Bright|bright]] yellow-brown powder, seen
   under a lens to consist of minute glandular particles. The dose of
   this so-called lupulin is 2-5 grains. From it there is prepared the
   Tinctura Lupulinae of the United States pharmacopoeia, which is given
@@ -249,7 +249,7 @@ New York was the chief hop-growing state of the Union, but toward the
 end of it a great extension of hop-growing took place on the Pacific
 coast (in the states of Oregon, California and Washington), where the
 richness of the soil and mildness of the climate are favourable to the
-bines.
+[[Bin|bines]].
 
 The average annual produce of hops in the United States from 1900 to
 1906 was 423,471 cwt.; of this quantity 80% was raised in the three
@@ -276,22 +276,22 @@ of hops and low prices. At the beginning of the 19th century there were
 290 parishes in Kent in which hops were cultivated. A century later, out
 of the 413 parishes in the county, as many as 331 included hop
 plantations. The hops grown in Kent are classified in the markets as
-"East Kents," "Bastard East Kents," "Mid Kents" and "Wealds," according
+"East Kents," "[[Bastard]] East Kents," "Mid Kents" and "Wealds," according
 to the district of the county in which they are produced. The relative
 values of these four divisions follow in the same order, East Kents
 making the highest and Wealds the lowest rates. These divisions agree in
 the main with those defined by geological formations. Thus, "East Kents"
 are grown upon the Chalk, and especially on the outcrop of the soils of
 the London Tertiaries upon the Chalk. "Bastard East Kents" are produced
-on alluvial soil and soils formed by admixtures of loam, clay-loams,
-chalk, marl and clay from the Gault, Greensand and Chalk formations.
+on alluvial soil and soils formed by admixtures of [[Loam|loam]], clay-loams,
+chalk, [[Marl|marl]] and clay from the [[Gault]], [[Greensand]] and Chalk formations.
 "Mid Kents" are derived principally from the Greensand soils and
 outcrops of the London Tertiaries in the upper part of the district.
-"Wealds" come from soils on the Weald Clay, Hastings Sand and Tunbridge
+"Wealds" come from soils on the Weald Clay, [[Hastings]] Sand and Tunbridge
 Wells Sand. As each "pocket" of hops must be marked with the owner's
 name and the parish in which they were grown, buyers of hops can,
 without much trouble, ascertain from which of the four divisions hops
-come, especially if they have the map of the hop-growing parishes of
+come, especially if they have the [[Map|map]] of the hop-growing parishes of
 England, which gives the name of each parish. There has been a
 considerable rearrangement of the hop plantations in Kent within recent
 years. Common varieties as Colegate's, Jones's, Grapes and Prolifics
@@ -300,23 +300,23 @@ planted in their places. The variety known as Fuggle's, a heavy-cropping
 though slightly coarse hop, has been much planted in the Weald of Kent,
 and in parts of Mid Kent where the soil is suitable. In very old hop
 gardens, where there has been no change of plant for fifty or even one
-hundred years in some instances, except from the gradual process of
+hundred years in some instances, except from the [[Gradual|gradual]] process of
 filling up the places of plants that have died, there has been
 replanting with better varieties and varieties ripening in more
 convenient succession; and, generally speaking, the plantations have
 been levelled up in this respect to suit the demand for bright hops of
-fine quality. A recent classification[3] of the varieties of English
+fine quality. A recent [[Classification|classification]][3] of the varieties of English
 hops arranges them in three groups: (1) early varieties (e.g. Prolific,
 Bramling, Amos's Early Bird); (2) mid-season or main-crop varieties
-(e.g. Farnham Whitebine, Fuggle's, Old Jones's, Golding); (3) late
+(e.g. [[Farnham]] Whitebine, Fuggle's, Old Jones's, Golding); (3) late
 varieties (e.g. Grapes, Colgate's).
 
 The cost of cultivating and preparing the produce of an acre of hop land
 tends to increase, on account of the advancing rates of wages, the
 intense cultivation more and more essential, and the necessity of
-freeing the plants from the persistent attacks of insects and fungi. In
+freeing the plants from the persistent attacks of [[Insect|insects]] and [[Fungi|fungi]]. In
 1893 Mr Whitehead estimated the average annual cost of an acre of hop
-land to be L35, 10s., the following being the items:--
+land to be L35, 10s., the following being the [[Item|items]]:--
 
   Manure (winter and summer)                        L6 10 0
   Digging                                            0 19 0
@@ -358,16 +358,16 @@ the ground.
 
   _Manuring._--Manure is applied in the winter, and dug or ploughed in.
   London manure from stables is used to an enormous extent. It comes by
-  barge or rail, and is brought from the wharves and stations by
-  traction engines; it costs from 7s. 6d. to 9s. per load. Rags, fur
+  [[Barge|barge]] or rail, and is brought from the wharves and stations by
+  traction engines; it [[Costs|costs]] from 7s. 6d. to 9s. per load. Rags, [[Fur|fur]]
   waste, sprats, wool waste and shoddy are also put on in the winter. In
-  the summer, rape dust, guano, nitrate of soda and various patent hop
-  manures are chopped in with the Canterbury hoe. Fish guano or
+  the summer, rape [[Dust|dust]], guano, nitrate of soda and various patent hop
+  manures are chopped in with the Canterbury [[Hoe|hoe]]. Fish guano or
   desiccated fish is largely used; it is very stimulating and more
   lasting than some of the other forcing manures.
 
   The recent investigations into the subject of hop-manuring made by Dr
-  Bernard Dyer and Mr F. W. E. Shrivell, at Golden Green, near
+  [[Bernard]] [[Dyer]] and Mr F. W. E. Shrivell, at Golden Green, near
   Tonbridge, Kent, are of interest. In the 1901 report[4] it was stated
   that the object in view was to ascertain how far nitrate of soda, in
   the presence of an abundant supply of phosphates and potash, is
@@ -377,7 +377,7 @@ the ground.
   growth of bine at the expense of quality and even quantity of hops.
   During recent years, however, owing very largely to the results of
   these experiments, and of corresponding experiments based upon these,
-  which have been carried out abroad, hop farmers have much more freely
+  which have been carried out abroad, hop [[Farmer|farmers]] have much more freely
   availed themselves of the aid of this useful manure; and there is
   little doubt that the distrust of nitrate of soda as a hop manure
   which has existed in the past has been largely due to the fact that
@@ -429,14 +429,14 @@ the ground.
 
   The general results seem to show that the purchase of town dung for
   hops is not economical, unless under specially favourable terms as to
-  cost of conveyance, and that it should certainly not be relied upon as
+  cost of [[Conveyance|conveyance]], and that it should certainly not be relied upon as
   a sufficient manure. Home-made dung is in quite a different position,
   as not only is it richer, but it costs nothing for railway carriage.
   As a source of nitrogenous manure, purchased dung is on the whole too
   expensive. There is a large variety of other nitrogenous manures in
   the market besides nitrate of soda, such, for instance as Peruvian and
-  Damaraland guano, sulphate of ammonia, fish guano, dried blood, rape
-  dust, furriers' refuse, horn shavings, hoof parings, wool dust,
+  [[Damaraland]] guano, sulphate of ammonia, fish guano, dried blood, rape
+  dust, furriers' refuse, [[Horn|horn]] shavings, hoof parings, wool dust,
   shoddy, &c. All of these may in turn be used for helping to maintain a
   stock of nitrogen in the soil; and the degree to which manures of this
   kind have been recently applied in any hop garden will influence the
@@ -479,7 +479,7 @@ the ground.
   condition of the soil and the degree and distribution of rainfall
   during both the previous autumn and the winter, as well as in the
   spring itself, produce such varying conditions that it is almost
-  impossible to frame general rules.
+  impossible to [[Frame|frame]] general rules.
 
   The commonly accepted notion that nitrate of soda is a manure which
   should be reserved for use during the later period of the growth of
@@ -551,7 +551,7 @@ of the posts, so that there are three wires. Hooks are clipped on these
 wires at regular intervals, and coco-nut-fibre strings are threaded on
 them and fastened from wire to wire, and from post to post, to receive
 the hop bines. The string is threaded on the hooks continuously, and is
-put on those of the top wire with a machine called a stringer. There are
+put on those of the top wire with a [[Machine|machine]] called a stringer. There are
 several methods of training hops with posts or stout poles, wire and
 string, whose first cost varies from L20 to L40 per acre. The system is
 cheaper in the long run than that of taking down the poles every year,
@@ -561,7 +561,7 @@ and Sussex, stout posts are placed at the ends of each row of plants,
 and, at intervals where requisite, wires are fastened from top to top
 only of these posts, whilst coco-nut-fibre strings are fixed by pegs to
 the ground, close to each hop-stock, whence they radiate upwards for
-attachment to the wires stretching between the tops of the posts. This
+[[Attachment|attachment]] to the wires stretching between the tops of the posts. This
 method is more simple and less expensive than the system first
 described, its cost being from L24 to L28 per acre. In this case the
 plants require to be well "lewed," or sheltered, as the strings being so
@@ -594,14 +594,14 @@ women, for whose service in this and fruit-picking there is considerable
 demand, and a woman has no trouble in earning from 1s. 6d. to 1s. 10d.
 per day from April till September at pleasant and not very arduous
 labour. The hop-picking follows, and at this women sometimes get 4s. and
-even 5s. per day. This is the real Kent harvest, which formerly lasted a
+even 5s. per day. This is the real Kent [[Harvest|harvest]], which formerly lasted a
 month or five weeks. Now it rarely extends beyond eighteen days, as it
-is important to secure the hops before the weather and the aphides,
+is important to secure the hops before the weather and the [[Aphides|aphides]],
 which almost invariably swarm within the bracts of the cones, discolour
-them and spoil their sale, as brewers insist upon having bright,
+them and spoil their sale, as [[Brewer|brewers]] insist upon having bright,
 "coloury" hops. Picking is better done than was formerly the case. The
 hops are picked more singly, and with comparatively few leaves, and the
-pickers are of a somewhat better type than the rough hordes who formerly
+pickers are of a somewhat better type than the rough [[Horde|hordes]] who formerly
 went into Kent for "hopping." Kent planters engage their pickers
 beforehand, and write to them, arranging the numbers required and the
 date of picking. Many families go into Kent for pea- and fruit-picking
@@ -622,7 +622,7 @@ ripe. The plant, therefore, would retain a substantial store of these
 constituents for the following year's growth if the bine were left.
 Chemical analyses have shown that about 30 lb. of nitrogen per acre may
 be saved by allowing the bines to remain uncut, this representing
-practically one-third of the total amount of nitrogen in the hops, leaf
+practically one-third of the total amount of nitrogen in the hops, [[Leaf|leaf]]
 and bine together. There are also from 25 lb. to 30 lb. of potash in the
 growth, of which nine-tenths would return to the roots, with about half
 the phosphoric acid and a very small proportion of the lime. It has been
@@ -642,7 +642,7 @@ holding ten bushels--to the oasts to be dried. The oasts are circular or
 square kilns, or groups of kilns, wherein the green hops are laid upon
 floors covered with horsehair, under which are enclosed or open stoves
 or furnaces. The heat from these is evenly distributed among the hops
-above by draughts below and round them. This is the usual simple
+above by [[Draughts|draughts]] below and round them. This is the usual simple
 arrangement, but patent processes are adopted here and there, though
 they are by no means general. The hops are from nine to ten hours
 drying, after which they are taken off the kiln and allowed to cool
@@ -653,7 +653,7 @@ been bestowed by some of the leading growers upon the drying of hops, so
 as to preserve their qualities and volatile essences, and to meet the
 altered requirements of brewers, who must have bright, well-managed hops
 for the production of light clear beers for quick draught. The use, for
-example, of exhaust fans, recently introduced, greatly facilitates
+example, of exhaust [[Fan|fans]], recently introduced, greatly facilitates
 drying by drawing a large volume of air through the hops; and as the
 temperature may at the same time be kept low, the risk of getting
 overfired samples is considerably reduced, though not entirely obviated.
@@ -706,7 +706,7 @@ to the kiln.
   poles, and is repeated three or four weeks later; and even again if
   indications of mildew are present. It may be added that sulphur is
   also successfully employed in the form of an alkaline sulphide, such
-  as solution of "liver of sulphur," a variety of potassium sulphide.
+  as solution of "[[Liver|liver]] of sulphur," a variety of potassium sulphide.
        (W. Fr.)
 
 

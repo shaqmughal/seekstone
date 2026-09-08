@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Barcelona"
 
 # Barcelona
 
-BARCELONA, formerly the capital of Catalonia, and since 1833 the capital of
+BARCELONA, formerly the capital of [[Catalonia]], and since 1833 the capital of
 the province of Barcelona in eastern Spain, in 41° 23' N. and 2° 11' E., on
 the Mediterranean Sea, and at the head of railways from Madrid, Saragossa,
 and Perpignan in France. Pop. (1900) 533,000. Barcelona is a flourishing
@@ -34,17 +34,17 @@ elaborate plan for the laying out of new districts received the royal
 sanction. Barcelona thus comprises an old town, still consisting for the
 most part of irregular and narrow streets, and a new town built with all
 the symmetry and precision of a premeditated scheme. The buildings of the
-old town are chiefly of brick, from four to five storeys in height, with
+old town are chiefly of [[Brick|brick]], from four to five storeys in height, with
 flat roofs, and other oriental peculiarities; while in the new town hewn
 stone is very largely employed, and the architecture is often of a modern
-English style. To the east, on the tongue of land that helps to form the
+English style. To the east, on the tongue of land that [[Helps|helps]] to form the
 port, lies the suburb of Barceloneta. It owes its origin to the marquis de
 la Mina, who, about 1754, did much for the city, and is regularly laid out,
 the houses being built of brick after a uniform pattern. The main street or
 axis of the old town is the Rambla, which has a fine promenade planted with
 plane-trees running down the middle, and contains the principal hotels and
 theatres of the city. The most important suburbs are Grácia, Las Corts de
-Sarriá, Horta, San Andrés de Palomar, San Gervasio de Cassolas, San Martin
+Sarriá, Horta, San Andrés de Palomar, San Gervasio de Cassolas, San [[Martin]]
 de Provensals and Sans. Exclusive of these, the city contains about 334,000
 inhabitants, an increase of nearly 150,000 since 1857. Large numbers of
 immigrant artisans joined the population during the latter half of the 19th
@@ -54,36 +54,36 @@ ecclesiastical buildings, though by no means so many as it once possessed.
 No fewer than eighteen convents were still standing in 1873. The cathedral,
 erected between 1298 and 1448 on Monte Taber, an oval hill which forms the
 highest point of the Rambla, is one of the finest examples of Spanish
-Gothic; although it is not designed on a great scale and some parts have
+[[Gothic]]; although it is not designed on a great scale and some parts have
 been freely modernized. It contains the early 14th-century tomb of Santa
 Eulalia, the patron saint of the city, besides many other monuments of
 artistic or historical interest. Its stained glass windows are among the
-finest in Spain, and it possesses archives of great value. Santa Maria del
+finest in Spain, and it possesses [[Archive|archives]] of great value. Santa Maria del
 Mar, Santa Ana, Santos Justo y Pastor, San Pedro de las Puellas, and San
 Pablo del Campo are all churches worthy of mention.
 
 The educational institutions of Barcelona have from an early period been
 numerous and important. The university (_Universidad Literaria_), which was
 originally founded in 1430 by the magistracy of the city, and received a
-bull of confirmation from Pope Nicholas V. in 1450, possessed at that time
+[[Bull|bull]] of confirmation from Pope Nicholas V. in 1450, possessed at that time
 four faculties and thirty-one chairs all endowed by the corporation. It was
 suppressed in 1714, but restored in 1841, and now occupies an extensive
 building in the new town. There are, besides, an academy of natural
 sciences, a college of medicine and surgery--confirmed by a bull of
-Benedict XIII. in 1400--an academy of fine arts, a normal school, a
-theological seminary, an upper industrial school, an institution for the
+Benedict XIII. in 1400--an academy of [[Fine Arts|fine arts]], a normal school, a
+theological seminary, an upper [[Industrial School|industrial school]], an institution for the
 education of deaf-mutes, a school of navigation and many minor
 establishments. Gratuitous instruction of a very high order is afforded by
 the Board of Trade to upwards of 2000 pupils. The principal charitable
 foundations are the Casa de Caridad or house of charity, the hospital
 general, dating from 1401, and the foundling hospital. The principal civic
 and commercial buildings are the [v.03 p.0392] Casa Consistorial, a fine
-Gothic hall (1369-1378), the Lonja or exchange (1383), and the Aduana or
-custom-house (1792). At the seaward end of the Rambla is a large ancient
+Gothic hall (1369-1378), the Lonja or [[Exchange|exchange]] (1383), and the Aduana or
+[[Custom-House|custom-house]] (1792). At the seaward end of the Rambla is a large ancient
 structure, the Atarazanas or Arsenals, which was finished about 1243, and
 partly demolished in the 19th century to give a better view to the
 promenade. Remains of the former royal state of Barcelona are found in the
-Palacio Real of the kings of Aragon and the Palacio de la Reina. At the
+Palacio Real of the kings of [[Aragon]] and the Palacio de la Reina. At the
 highest part of the city, in the Calle del Paradis, are some magnificent
 columns, and other Roman remains, which, however, are hidden by the
 surrounding buildings. Means of public recreation are abundantly supplied.
@@ -91,9 +91,9 @@ There are many theatres, the two most important being the Teatro Principal,
 and the Teatro del Liceo, a very fine building, originally erected in 1845
 on the site of a convent of Trinitarian monks. The number of restaurants
 and similar places of evening resort is very great, and there are several
-public courts where the Basque game of pelota can be witnessed.
+public courts where the Basque [[Game|game]] of pelota can be witnessed.
 
-The so-called port of Barcelona was at first only an open beach, on the
+The so-called port of Barcelona was at first only an open [[Beach|beach]], on the
 east, slightly sheltered by the neighbouring hills, but at an early period
 the advantage of some artificial protection was felt. In 1438 Don Alphonso
 V. granted the magistracy a licence to build a mole; and in 1474 the Moll
@@ -106,7 +106,7 @@ and the construction of another from the foot of Montjuich, have embraced a
 portion of the sea outside of the bank, and a convenient shelter is thus
 afforded for the heaviest battleships. From 1873 the work of extension and
 improvement was carried on systematically, with the addition of new quays,
-greater storage room, and better means for handling cargo. After thirty
+greater storage room, and better means for handling [[Cargo|cargo]]. After thirty
 years of steady development, further plans were approved in 1903. At this
 time the port included an inner harbour, with a depth of 18 to 30 ft. at
 low tide, and an outer harbour with a depth of 20 to 35 ft. In the
@@ -136,35 +136,35 @@ Catalan provinces. Comestibles, raw materials, and combustibles form the
 greater part of the imports, but this great manufactory also imports a
 considerable quantity of foreign manufactured goods. The principal exports
 are wines, cereals, olive-oil, cotton goods, soap, cigarette-paper,
-furniture and barrels, boots, shoes and leather goods, and machinery.
+furniture and [[Barrel|barrels]], boots, shoes and leather goods, and machinery.
 
 Barcino, the ancient name of the city, is usually connected with that of
-the Carthaginian Hamilcar Barca, its traditional founder in the 3rd century
+the Carthaginian [[Hamilcar Barca]], its traditional founder in the 3rd century
 B.C. After the Roman conquest, it received from Augustus (27 B.C.-A.D. 14)
 the name of Julia Faventia (afterwards Augusta and Pia), with the status of
 a Roman colony; and thenceforward it rapidly grew to be the leading mart of
 the western Mediterranean, rivalling Tarraco (Tarragona) and Massilia
-(Marseilles) as early as the 2nd century A.D. As its remains testify, the
+([[Marseilles]]) as early as the 2nd century A.D. As its remains testify, the
 Roman city occupied Monte Taber. The bishopric of Barcelona was founded in
-343. In 415 and 531, the Visigoths chose Barcelona as their temporary
+343. In 415 and 531, the Visigoths [[Chose|chose]] Barcelona as their temporary
 capital; in 540 and 599 church councils were held there. Barcinona or
 Bardjaluna, as it was then called, was captured by the Moors in 713, and in
 801 it passed, with the rest of Catalonia, under the dominion of the
-Franks. From 874 the counts of Barcelona ruled as independent monarchs. But
+[[Franks]]. From 874 the counts of Barcelona ruled as independent monarchs. But
 the accession of larger resources due to the union between Catalonia and
 Aragon in 1149, brought the city to the zenith of its fame and wealth. Its
 merchant ships vied with those of Genoa, Venice and Ragusa, trading as far
 west as the North Sea and the Baltic, and as far east as Alexandria. In
 1258 James I. of Aragon empowered Barcelona to issue its famous _Consulado
-del Mar_, a code of maritime law recognized as authoritative by many
+del Mar_, a [[Code|code]] of maritime law recognized as authoritative by many
 European states. Consuls represented Barcelona at the principal commercial
 centres on or near the Mediterranean; and the city was among the first
-communities to adopt the practice of marine insurance. But the union of
+communities to adopt the practice of marine [[Insurance|insurance]]. But the union of
 Castile and Aragon in 1479 favoured other cities of Spain at the expense of
 Barcelona, whose commercial supremacy was transferred to the ports of
 western Spain by the discovery of America in 1492. The citizens attributed
 their misfortunes to the "Castilian" government, and a strong party among
-them favoured annexation by France. In 1640 Barcelona was the centre of the
+them favoured [[Annexation|annexation]] by France. In 1640 Barcelona was the centre of the
 Catalonian rebellion against Philip IV., and threw itself under French
 protection. In 1652 it returned to its allegiance, but was captured by the
 duke of Vendôme in 1697. At the peace of Ryswick, in the same year, it was
@@ -172,9 +172,9 @@ restored to the Spanish monarchy. During the War of the Succession
 (1701-1714) Barcelona adhered to the house of Austria. The seizure of
 Montjuich in 1705, and the subsequent capture of the city by the earl of
 Peterborough, formed one of his most brilliant achievements. In 1714 it was
-taken after an obstinate resistance by the duke of Berwick in the interests
+taken after an obstinate resistance by the duke of [[Berwick]] in the interests
 of Philip V., and at the close of the war was reluctantly reconciled to the
-Bourbon dynasty. In 1809 the French invaders of Spain obtained possession
+[[Bourbon]] dynasty. In 1809 the French invaders of Spain obtained possession
 of the fortress and kept the city in subjection until 1814. Since then it
 has shared in most of the revolutionary movements that have swept over
 Spain, and has frequently been distinguished by the violence of its civic
@@ -188,8 +188,8 @@ partly of powerful labour and socialist organizations, partly of less
 reputable bodies, revolutionary and even anarchist. Strikes are very
 common, seventy-three having occurred in such a year of comparative quiet
 as 1903; but the causes of disturbance are almost as often political as
-economic, and the annals of the city include a long list of revolutionary
-riots and bomb outrages. A strange contrast is presented by the
+economic, and the [[Annals|annals]] of the city include a long list of revolutionary
+riots and [[Bomb|bomb]] outrages. A strange contrast is presented by the
 co-existence of these turbulent elements with the more old-fashioned
 Spanish society of Barcelona. Church festivals, civic and ecclesiastical
 processions are almost as animated and picturesque as in Seville itself;
@@ -198,13 +198,13 @@ modern features of industrial life, giving to Barcelona a character
 altogether unique among Spanish cities.
 
 The literature relating to Barcelona is extensive. For a general
-description of the city, see A. A. P. Arimon, _Barcelona antigua y
-moderna_, two illustrated folio volumes (Madrid, 1850); and J. Artigas y
+description of the city, see A. A. P. Arimon, _Barcelona [[Antigua|antigua]] y
+moderna_, two illustrated [[Folio|folio]] volumes (Madrid, 1850); and J. Artigas y
 Feiner, _Guia itineraria de Barcelona_ (Barcelona, 1888). For the
 antiquities, see S. Sampere, _Topografia antigua de Barcelona_ (1890). The
 economic history of the city is dealt with by A. Capmany in his _Memorias
 historicas sobra la marina, comercio, y artes de la antigua ciudad de
-Barcelona_ (Madrid, 1779-1792); and, for its political history, the same
+Barcelona_ (Madrid, 1779-1792); and, for its [[Political History|political history]], the same
 work should be consulted, together with _Historias e conquestas dels comtes
 de Barcelona_, by T. Tomich (Barcelona, 1888), and the _Colecció de
 documents inédits del Arxin [v.03 p.0393] municipal de la ciutat de

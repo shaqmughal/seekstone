@@ -2,7 +2,7 @@
 
 CLOACA, the Latin term given to the sewers laid to drain the low marshy
 grounds between the hills of Rome. The most important, which drained the
-forum, is known as the Cloaca Maxima and dates from the 6th century B.C.
+[[Forum|forum]], is known as the Cloaca Maxima and dates from the 6th century B.C.
 This was 10 ft. 6 in. wide, 14 ft. high, and was vaulted with three
 consecutive rings of voussoirs in stone, the floor being paved with
 polygonal blocks of lava.
@@ -20,7 +20,7 @@ sunset, into 12 hours, and also the night. Whence it followed that it
 was only at two periods in the year that the length of the hours during
 the day and night were uniform (see CALENDAR). In consequence, those who
 adopted the Greek system were obliged to furnish their water-clocks (see
-CLEPSYDRA) with a compensating device so that the equal hours measured
+[[Clepsydra|CLEPSYDRA]]) with a compensating device so that the equal hours measured
 by those clocks should be rendered unequal, according to the exigencies
 of the season. The hours were divided into minutes and seconds, a system
 derived from the sexagesimal notation which prevailed before the decimal
@@ -61,14 +61,14 @@ decimals.
 A clock consists of a train of wheels, actuated by a spring or weight,
 and provided with a governing device which so regulates the speed as to
 render it uniform. It also has a mechanism by which it strikes the hours
-on a bell or gong (cp. Fr. _cloche_, Ger. _Glocke_, a bell; Dutch
+on a bell or [[Gong|gong]] (cp. Fr. _cloche_, Ger. _Glocke_, a bell; Dutch
 _klok_, bell, clock), whereas, strictly, a _timepiece_ does not strike,
 but simply shows the time.
 
 The earliest clocks seem to have come into use in Europe during the 13th
 century. For although there is evidence that they may have been invented
 some centuries sooner, yet until that date they were probably only
-curiosities. The first form they took was that of the balance clock, the
+curiosities. The first form they took was that of the [[Balance|balance]] clock, the
 invention of which is ascribed, but on very insufficient grounds, to
 Pope Silvester II. in A.D. 996. A clock was put up in a former clock
 tower at Westminster with some great bells in 1288, out of a fine
@@ -78,7 +78,7 @@ sold, or rather, it is said, gambled away, by Henry VIII. In 1292 a
 clock in Canterbury cathedral is mentioned as costing £30, and another
 at St Albans, by R. Wallingford, the abbot in 1326, is said to have been
 such as there was not in all Europe, showing various astronomical
-phenomena. A description of one in Dover Castle with the date 1348 on it
+phenomena. A description of one in [[Dover]] Castle with the date 1348 on it
 was published by Admiral W.H. Smyth (1788-1865) in 1851, and the clock
 itself was exhibited going, in the Scientific Exhibition of 1876. A very
 similar one, made by Henry de Vick for the French king Charles V. in
@@ -86,7 +86,7 @@ similar one, made by Henry de Vick for the French king Charles V. in
 had a vibrating balance instead of a pendulum. The works of one of these
 old clocks still exist in a going condition at the Victoria and Albert
 Museum. It came from Wells cathedral, having previously been at
-Glastonbury abbey.
+[[Glastonbury]] abbey.
 
 [Illustration: FIG. 1.--Verge Escapement.]
 
@@ -99,7 +99,7 @@ turned round the teeth pushed the pallets alternately until one or the
 other slid past a tooth, and thus let the crown wheel rotate. When one
 pallet had slipped over a tooth, the other pallet caught a corresponding
 tooth on the opposite side of the wheel. The verge was terminated by a
-balance rod placed at right angles to it with a ball at each end. It is
+balance rod placed at right angles to it with a [[Ball|ball]] at each end. It is
 evident that when the force of any tooth on the crown wheel began to act
 on a pallet, it communicated motion to the balance and thus caused it to
 rotate. This motion would of course be accelerated, not uniformly, but
@@ -116,7 +116,7 @@ advanced in its turn, and the swing was repeated. The arrangement was
 thus very like a huge watch balance wheel in which the driving weight
 acted in a very irregular manner, not only as a driving force, but also
 as a regulating spring. The going of such clocks was influenced greatly
-by friction and by the oil on the parts, and never could be
+by [[Friction|friction]] and by the oil on the parts, and never could be
 satisfactory, for the time varied with every variation in the swing of
 the balls, and this again with every variation of the effective driving
 force.
@@ -153,12 +153,12 @@ wheels;
 
 The general construction of the going part of all clocks, except large
 or turret clocks, is substantially the same, and fig. 3 is a section of
-any ordinary house clock. B is the barrel with the cord coiled round it,
+any ordinary house clock. B is the [[Barrel|barrel]] with the cord coiled round it,
 generally 16 times for the 8 days; the barrel is fixed to its arbor K,
 which is prolonged into the winding square coming up to the face or dial
 of the clock; the dial is here shown as fixed either by small screws x,
 or by a socket and pin z, to the prolonged pillars p, p, which (4 or 5
-in number) connect the plates or frame of the clock together, though the
+in number) connect the plates or [[Frame|frame]] of the clock together, though the
 dial is commonly set on to the front plate by another set of pillars of
 its own. The great wheel G rides on the arbor, and is connected with the
 barrel by the ratchet R, the action of which is shown more fully in fig.
@@ -177,7 +177,7 @@ of which the scape-wheel turns in a minute, so that the seconds hand may
 be set on its arbor prolonged to the dial. A represents the pallets of
 the escapement, which will be described presently, and their arbor a
 goes through a large hole in the back plate near F, and its back pivot
-turns in a cock OFQ screwed on to the back plate. From the pallet arbor
+turns in a [[Cock|cock]] OFQ screwed on to the back plate. From the pallet arbor
 at F descends the _crutch_ Ff, ending in the _fork_ f, which embraces
 the pendulum P, so that as the pendulum vibrates, the crutch and the
 pallets necessarily vibrate with it. The pendulum is hung by a thin
@@ -187,7 +187,7 @@ close to the end of that arbor as possible.
 
 We may now go to the front (or left hand) of the clock, and describe
 the dial or "motion-work." The minute hand fits on to a squared end of a
-brass socket, which is fixed to the wheel M, and fits close, but not
+[[Brass|brass]] socket, which is fixed to the wheel M, and fits close, but not
 tight, on the prolonged arbor of the centre wheel. Behind this wheel is
 a bent spring which is (or ought to be) set on the same arbor with a
 square hole (not a round one as it sometimes is) in the middle, so that
@@ -195,7 +195,7 @@ it must turn with the arbor; the wheel is pressed up against this
 spring, and kept there, by a cap and a small pin through the end of the
 arbor. The consequence is, that there is friction enough between the
 spring and the wheel to carry the hand round, but not enough to resist a
-moderate push with the finger for the purpose of altering the time
+moderate push with the [[Finger|finger]] for the purpose of altering the time
 indicated. This wheel M, which is sometimes called the minute-wheel, but
 is better called the _hour-wheel_ as it turns in an hour, drives another
 wheel N, of the same number of teeth, which has a pinion attached to it;
@@ -205,7 +205,7 @@ former socket, or rather (in order to relieve the centre arbor of that
 extra weight) on an intermediate socket fixed to the _bridge_ L, which
 is screwed to the front plate over the hour-wheel M. The weight W, which
 drives the train and gives the impulse to the pendulum through the
-escapement, is generally hung by a catgut line passing through a pulley
+escapement, is generally hung by a [[Catgut|catgut]] line passing through a pulley
 attached to the weight, the other end of the cord being tied to some
 convenient place in the clock frame or _seat-board_, to which it is
 fixed by screws through the lower pillars.
@@ -218,7 +218,7 @@ consider it a ball of some heavy matter. Let it be free to move
 horizontally, but attached to a fixed point A by means of a spring. As
 it can only move horizontally and not fall, the earth's gravity will be
 unable to impart any motion to it. Now it is a law first discovered by
-Robert Hooke (1635-1703) that if any elastic spring be pulled by a
+Robert [[Hooke]] (1635-1703) that if any elastic spring be pulled by a
 force, then, within its elastic limits, the amount by which it will be
 extended is proportional to the force. Hence then, if a body is pulled
 out against a spring, the restitutional force is proportional to the
@@ -240,7 +240,7 @@ vibrations diminishes.
 
 A pendulum is isochronous for similar reasons. If the bob be drawn aside
 from D to C (fig. 5), then the restitutional force tending to bring it
-back to rest is approximately the force which gravitation would exert
+back to rest is approximately the force which [[Gravitation|gravitation]] would exert
 along the tangent CA, i.e.
 
                 BC       displacement BC
@@ -252,11 +252,11 @@ follows that when a pendulum is drawn aside through a small arc the
 force tending to bring it back to rest is proportional to the
 displacement (approximately). Thus the pendulum bob under the influence
 of gravity, if the arc of swing is small, acts as though instead of
-being acted on by gravity it was acted on by a spring tending to drag it
+being acted on by gravity it was acted on by a spring tending to [[Drag|drag]] it
 towards D, and therefore is isochronous. The qualification "If the arc
 of swing is small" is introduced because, as was discovered by
-Christiaan Huygens, the arc of vibration of a truly isochronous pendulum
-should not be a circle with centre O, but a cycloid DM, generated by
+Christiaan [[Huygens]], the arc of vibration of a truly isochronous pendulum
+should not be a circle with centre O, but a [[Cycloid|cycloid]] DM, generated by
 the rolling of a circle with diameter DQ = ½OD, upon a straight line QM.
 However, for a short distance near the bottom, the circle so nearly
 coincides with the cycloid that a pendulum swinging in the usual
@@ -303,7 +303,7 @@ circular path is, for small arcs, isochronous for practical purposes.
   may be neglected. The first term, [pi] sqrt(l/g), is the time of swing
   in a cycloid. The second part represents the addition necessary if the
   swing is circular and not cycloidal, and therefore expresses the
-  "circular error." Now h = BC²/l = 2[pi]²[theta]²l / 360², where
+  "circular [[Error|error]]." Now h = BC²/l = 2[pi]²[theta]²l / 360², where
   [theta] is half the angle of swing expressed in degrees; hence h/(8l)
   = [theta]²/52520, and the formula becomes
 
@@ -395,7 +395,7 @@ circular path is, for small arcs, isochronous for practical purposes.
   86,400 seconds in 24 hours, we must have a difference of length
   amounting to 2/86,400 = 1/43,200 of the length of the rod. This is
   39.138/43,200 = .000906 in. Hence if under the pendulum bob be put a
-  nut working a screw of 32 threads to the inch and having its head
+  nut working a screw of 32 threads to the [[Inch|inch]] and having its head
   divided into 30 parts, a turn of this nut through one division will
   alter the length of the pendulum by .0009 in. and change the rate of
   the clock by about a second a day. To accelerate the clock the nut has
@@ -468,7 +468,7 @@ circular path is, for small arcs, isochronous for practical purposes.
   quantities respectively.
 
   The first method of compensating a pendulum was invented in 1722 by
-  George Graham, who proposed to use a bob of mercury, taking advantage
+  George [[Graham]], who proposed to use a bob of mercury, taking advantage
   of the high coefficient of expansion of that metal. As now employed,
   the mercurial pendulum consists of a rod of steel terminating in a
   stirrup of the same metal on which rests a glass vessel full of
@@ -513,14 +513,14 @@ circular path is, for small arcs, isochronous for practical purposes.
   contained in the jar. By this means the mercury, jar and rod rapidly
   acquire the same temperature. This pendulum is less likely to break
   than the form just described. The depth of mercury required in an iron
-  jar is stated by Lord Grimthorpe to be 8½ to 9 in. The reason why it
+  jar is stated by Lord [[Grimthorpe]] to be 8½ to 9 in. The reason why it
   is greater than it is when a glass jar is employed is that iron has a
   larger coefficient of expansion than glass, and that it is also
   heavier. In all cases, however, of mercury pendulums experiment seems
   to be the only ultimate test of the quantity of mercury required, for
   the results are so complicated by the behaviour of the oil and the
   barometric errors that at its best the regulation of a clock can only
-  be ultimately a matter of scientifically guided compromise. A small
+  be ultimately a matter of scientifically guided [[Compromise|compromise]]. A small
   amount of compensation of a purely experimental character is also
   allowed to compensate the changes which temperature effects on the
   suspension spring. This is sometimes made as much as 1/6 of the length
@@ -570,11 +570,11 @@ circular path is, for small arcs, isochronous for practical purposes.
   at the bottom of the rod.
 
 
-    Invar.
+    [[Invar]].
 
   The old methods of pendulum compensation for heat may now be
   considered as superseded by the invention of "invar," a combination of
-  nickel and steel, due to Charles E. Guillaume, of the International
+  nickel and steel, due to Charles E. [[Guillaume]], of the [[International]]
   Office of Weights and Measures at Sèvres near Paris. This alloy has a
   linear coefficient of expansion on the average of .000001 per degree
   centigrade, that is to say, only about 1/11 that of ordinary steel.
@@ -717,7 +717,7 @@ circular path is, for small arcs, isochronous for practical purposes.
   these effects would require a shortening of the pendulum of 1/3000 in.
   This estimate is not far from the truth, for observations taken at
   various European observatories on various clocks, and collected by
-  Jakob Hilfiker, give a mean of .15 second of retardation per day per
+  [[Jakob]] Hilfiker, give a mean of .15 second of retardation per day per
   centimetre of barometric pressure, or .37 second per day for each inch
   rise of the barometer.
 
@@ -742,7 +742,7 @@ circular path is, for small arcs, isochronous for practical purposes.
   or almost completely, exhausted of air, and kept so exhausted, of
   course the pendulum would experience the minimum of resistance and
   would have to be lengthened a little. But in practice it is impossible
-  to secure the maintenance of a good vacuum without sealing up the case
+  to secure the [[Maintenance|maintenance]] of a good vacuum without sealing up the case
   in such a way as to render repairs very difficult, and this plan is
   therefore rarely resorted to. What is usually done is to put the clock
   in a metal case covered with a thick sheet of plate glass bedded in
@@ -779,7 +779,7 @@ circular path is, for small arcs, isochronous for practical purposes.
   to hang vertically. The best modern pendulums are now made with two
   parallel springs put a little less than an inch apart. The edges of
   the chops where the springs enter are slightly rounded so as to avoid
-  too sharp bending of the springs. Suspension of pendulums on knife
+  too sharp bending of the springs. Suspension of pendulums on [[Knife|knife]]
   edges was tried by B. L. Vulliamy and others, but did not prove a
   success.
 
@@ -795,7 +795,7 @@ pendulum, while at the same time the motion of the wheels is arrested
 until the vibration of the pendulum has been completed. It thus serves
 as a mechanism for both counting and impelling. Since the vibrations of
 a pendulum through small arcs are performed in times independent of the
-length of the arc, it follows that if a pendulum hanging at rest receive
+length of the arc, it follows that if a pendulum [[Hanging|hanging]] at rest receive
 an impulse it will swing out and in again, and the time of its excursion
 outwards and of its return will remain the same whatever (within limits)
 be the arc of the swing, and whatever be the impulse given to it. If the
@@ -848,7 +848,7 @@ describe the principal forms of escapement in ordinary use.
   its point. As the pendulum moves on in the same direction, the tooth
   slides farther up the pallet, thus producing a recoil, as in the
   crown-wheel escapement. The acting faces of the pallets should be
-  convex. For when they are flat, and of course still more when they are
+  [[Convex|convex]]. For when they are flat, and of course still more when they are
   concave, the points of the teeth always wear a hole in the pallets at
   the extremity of their usual swing, and the motion is obviously easier
   and therefore better when the pallets are made convex; in fact, they
@@ -899,7 +899,7 @@ describe the principal forms of escapement in ordinary use.
   any recoil, until the pendulum returns and lets the tooth slide down
   the impulse face, giving the impulse to the pendulum as it goes. In
   order to diminish the friction and the necessity for using oil as far
-  as possible, the best clocks are made with jewels (sapphires are the
+  as possible, the best clocks are made with [[Jewel|jewels]] (sapphires are the
   best for the purpose) let into the pallets.
 
   The pallets are generally made to embrace about one-third of the
@@ -1072,7 +1072,7 @@ describe the principal forms of escapement in ordinary use.
   in a swing of 4°, that is to say, .1 in. increase of arc in a total
   arc of 2½ in., produces an error of about a second a day. Now cold
   weather, by making the oil thick and thus clogging the wheels, will
-  easily produce such a change of arc; dust will also make a change even
+  easily produce such a change of arc; [[Dust|dust]] will also make a change even
   though the clock weight, acted on by gravity, still exerts a uniform
   pull. Besides, if the clock has work to do of a varying amount--as
   when the hands of a turret clock are acted on by a heavy wind pressure
@@ -1138,7 +1138,7 @@ describe the principal forms of escapement in ordinary use.
 
   [Illustration: FIG. 15.--Gravity Train Remontoire.]
 
-  A clock at the Royal Exchange, London, was made in 1844 on the same
+  A clock at the Royal [[Exchange]], London, was made in 1844 on the same
   principle, except that, instead of the endless chain, an internal
   wheel was used, with the spikes set on it externally, which is one of
   the modes by which an occasional secondary motion may be given to a
@@ -1153,7 +1153,7 @@ describe the principal forms of escapement in ordinary use.
   arbors of the hour-wheel and scape-wheel, or on another short arbor
   between them. The hour-wheel also drives another wheel G, which again
   drives the pinion f on the arbor which carries the two arms fA, fB;
-  and on the same arbor is set a fly with a ratchet, like a common
+  and on the same arbor is set a [[Fly|fly]] with a ratchet, like a common
   striking fly, and the numbers of the teeth are so arranged that the
   fly will turn once for each turn of the scape-wheel. The ends of the
   remontoire arms fA, fB are capable of alternately passing the notches
@@ -1225,7 +1225,7 @@ describe the principal forms of escapement in ordinary use.
   makes only a quarter of a turn. Lord Grimthorpe made the following
   provision for diminishing the friction of the letting-off work. The
   fly pinion f has only half the number of teeth of the scape-wheel
-  pinion, being a lantern pinion of 7 or 8, while the other is a leaved
+  pinion, being a [[Lantern|lantern]] pinion of 7 or 8, while the other is a leaved
   pinion of 14 or 16, and therefore the same wheel D will properly drive
   both, as will be seen hereafter. The scape-wheel arbor ends in a
   cylinder about 5/8 in. in diameter, with two notches at right angles
@@ -1260,7 +1260,7 @@ describe the principal forms of escapement in ordinary use.
   going part of inferior clocks for the sake of cheapness; but they had
   never been used in any clock making pretensions to accuracy. But in
   consequence of the success of a clock shown in the 1851 Exhibition, it
-  was determined by Sir G. Airy and Lord Grimthorpe (then E. Denison),
+  was determined by Sir G. Airy and Lord Grimthorpe (then E. [[Denison]]),
   who were jointly consulted by the Board of Works about the great
   Westminster clock in 1852, to alter the original requisition for
   gun-metal wheels there to cast iron. But cast iron wheels must drive
@@ -1279,7 +1279,7 @@ describe the principal forms of escapement in ordinary use.
   gently on the crutch or the pendulum rod. In this case the two arms of
   the anchor are usually divided and mounted on separate shafts so as to
   act independently. This idea was first started by Thomas Mudge
-  (1717-1794) and Alexander Cumming (1733-1814). Mudge's escapement is
+  (1717-1794) and Alexander [[Cumming]] (1733-1814). Mudge's escapement is
   shown in fig. 17. The tooth A of the scape-wheel is resting against
   the stop or detent a at the end of the pallet CA, from the axis or
   arbor of which descends the half-fork CP to touch the pendulum. From
@@ -1349,7 +1349,7 @@ describe the principal forms of escapement in ordinary use.
   not more than 1/30 of the distance between the centres EC, of the
   scape-wheel and pallets; or rather C is the top of the pendulum spring
   to which the pallets Cs, Cs' converge, though the resultant of their
-  action is a little below C. It is not worth while to crank them as
+  action is a little below C. It is not worth while to [[Crank|crank]] them as
   Bloxam did, in order to make them coincide exactly with the top of the
   pendulum, as the friction of the beat pins on the pendulum is
   insignificant, and even then would not be quite destroyed. The pallets
@@ -1391,7 +1391,7 @@ describe the principal forms of escapement in ordinary use.
   Of course the fly for those escapements in large clocks, with weights
   heavy enough to drive the hands in all weather, must be much larger
   than in small ones. For average church clocks with 1¼ sec. pendulum
-  the legs of the scape-wheels are generally made 4 in. long and the fly
+  the [[Leg|legs]] of the scape-wheels are generally made 4 in. long and the fly
   from 6 to 7 in. long in each vane by 1¼ or 1½ wide. For 1½ sec.
   pendulums the scape-wheels are generally made 4½ radius. At
   Westminster they are 6 in.
@@ -1402,7 +1402,7 @@ describe the principal forms of escapement in ordinary use.
   to leave the wheel free at the moment of starting; just as the
   striking of a common house clock will sometimes fail to start unless
   the wheel with the pins has a little run before a pin begins to lift
-  the hammer. The best way to manage the banking is to make the
+  the hammer. The best way to [[Manage|manage]] the banking is to make the
   beat-pins long enough to reach a little way behind the pendulum, and
   let the banking be a thin plate of any metal screwed adjustably to the
   back of the case. This plate cannot well be shown in the drawings
@@ -1470,7 +1470,7 @@ may remain unaltered?
 
   Epicycloidal teeth.
 
-If a curved surface, known as a "cam," press upon a plane one, both
+If a curved surface, known as a "[[Cam|cam]]," press upon a plane one, both
 being hinged or centred upon pivots A and B respectively (fig. 22), then
 the line of action and reaction at D, the point where they touch, will
 be perpendicular to their surfaces at the point of contact--that is
@@ -1489,7 +1489,7 @@ C.
 [Illustration: FIG. 24.]
 
 If a circle PMB roll upon another circle SPT (fig. 23) any point M on it
-will generate an epicycloid MN. The radius of curvature of the curve at
+will generate an [[Epicycloid|epicycloid]] MN. The radius of curvature of the curve at
 M will always be MP, for the part at M is being produced by rotation
 round the point P. It follows that a line from B to M will always be
 tangential to the epicycloid. If the epicycloid be a cam moving as a
@@ -1508,12 +1508,12 @@ surface of the driving wheel there will be 96 teeth. Each of these teeth
 will be shaped as the curve of an epicycloid formed by the rolling on
 the big circle of a circle whose diameter is the radius of the pitch
 circle of the pinion. Points of the teeth so formed are cut off, so as
-to allow of the pinion having a solid core to support it, and gaps are
+to allow of the pinion having a solid core to support it, and [[Gap|gaps]] are
 made into the pitch circle to admit the rounded ends of the leaves of
 the pinon wheel. Thus a cog-wheel is shaped out.
 
 Clock wheels are made of hard hammered brass cut out by a wheel cutting
-machine. This machine consists of a vertical spindle on the top of which
+[[Machine|machine]]. This machine consists of a vertical spindle on the top of which
 the wheel to be cut is fixed on a firmly resisting plate of metal of
 slightly smaller diameter, so as to allow the wheel to overlap. A cutter
 with the edges most delicately ground to the exact shape of the gap
@@ -1548,7 +1548,7 @@ It is possible to make toothed wheels that drive with perfect uniformity
 by using for the curve of the teeth involutes of circles. These
 involutes are traced out by a point on a string that is gradually
 unwound from a circle. They are in fact epicycloids traced by a rolling
-circle of infinite radius, i.e. a straight line. Involute teeth have the
+circle of [[Infinite|infinite]] radius, i.e. a straight line. Involute teeth have the
 advantage that they roll on one another instead of sliding. When badly
 made they put considerable strain on the axes or shafts that carry them.
 Hence they have not been regarded with great favour by clockmakers.
@@ -1565,7 +1565,7 @@ the diametral pitch by [pi]. Wheel-cutters are made for all sizes of
 pitches. If it were needed to make a pair of wheels the ratio of whose
 motion was say 6:1 and we determined to use a diametral pitch of 30 to
 the inch, that is teeth about 1/10 in. wide at the base, and if the
-smaller circle were to have 20 teeth, we should need a blank of a
+smaller circle were to have 20 teeth, we should need a [[Blank|blank]] of a
 diameter of 20/30 + 2/30 = 22/30 in. for the smaller wheel, and one of
 120/30 + 2/30 = 122/30 in. for the larger wheel which would have 120
 teeth to the inch and be 4.06 in diameter to the tips of the teeth. The
@@ -1595,7 +1595,7 @@ part; then (whenever the clock is not striking) the weight may be pulled
 up by pulling down that part of the string which hangs from the other
 side of the striking part; and yet the weight will be acting on the
 going part all the time. It would be just the same if the striking part
-and its pulley were wound up with a key, instead of the string being
+and its pulley were wound up with a [[Key|key]], instead of the string being
 pulled, and also the same, if there were no striking part at all, but
 the second pulley were put on a blank arbor, except that in that case
 the weight would take twice as long to run down, supposing that the
@@ -1632,7 +1632,7 @@ the train going until the bolt has run itself out of gear. Clocks are
 not always driven by weights. When accuracy is not necessary, but
 portability is desirable, springs are used. The old form of spring
 became weaker as it was unwound and necessitated the use of a device
-called a fusee or spiral drum. This apparatus will be found described in
+called a fusee or spiral [[Drum|drum]]. This apparatus will be found described in
 the article WATCH.
 
 _Striking Mechanism._--There are two kinds of striking work used in
@@ -1725,7 +1725,7 @@ the other. If there are more quarter-bells than two, the hammers are
 generally raised by a chime-barrel, which is merely a cylinder set on
 the arbor of the striking-wheel (in that case generally the third in the
 train), with short pins stuck into it in the proper places to raise the
-hammers in the order required for the tune of the chimes. The quarters
+hammers in the order required for the tune of the [[Chime|chimes]]. The quarters
 are usually made to let off the hour, and this connexion may be made in
 two ways. If the chimes are different in tune for each quarter, and not
 merely the same tune repeated two, three and four times, the repetition
@@ -1733,7 +1733,7 @@ movement must not be used for them, as it would throw the tunes into
 confusion, but the old locking-plate movement, as in turret clocks; and
 therefore, if we conceive the hour lifting-piece connected with the
 quarter locking-plate, as it is with the wheel N, in fig. 26, it is
-evident that the pin will discharge the hour striking part as the fourth
+evident that the pin will [[Discharge|discharge]] the hour striking part as the fourth
 quarter finishes.
 
 But where the repetition movement is required for the quarters, the
@@ -1817,7 +1817,7 @@ source of electricity to drive the hands of the large dial.
 
 _Electrical Clocks._--One of the first attempts to apply electricity to
 clocks was made by Alexander Bain in 1840-1850. About the same time Sir
-C. Wheatstone, R. L. Jones, C. Shepherd, Paul Garnier and Louis Bréguet
+C. Wheatstone, R. L. Jones, C. Shepherd, Paul [[Garnier]] and Louis Bréguet
 invented various forms of electrical time-keepers. It is not proposed
 here to go into the history of these abortive attempts. Those who desire
 to follow them may consult Bain, _An Account of Some Applications of the
@@ -1857,7 +1857,7 @@ water. Another form of electrical contact that acts well is a knife edge
 brought into contact with a series of fine elastic strips of metal laid
 parallel to one another like the fingers of a hand. The best metal for
 contacts, if they are to bear hard usage, is either silver or gold or a
-mixture of 40% iridium with 60% of platinum. A pressure of some 15
+mixture of 40% [[Iridium|iridium]] with 60% of platinum. A pressure of some 15
 grammes, at least, is needful to secure a good contact.
 
 [FIG. 28.]
@@ -1869,7 +1869,7 @@ electric light mains or the accumulators used for lighting a private
 house, so much the better. Of course the pressure of 50 or 100 volts
 used for lighting would be far too great for clock-driving, where only
 the pressure of a few volts is required. But it is easy by the insertion
-of suitable resistances, as for instance one or more incandescent lamps,
+of suitable resistances, as for instance one or more incandescent [[Lamp|lamps]],
 to weaken down the pressure of the lighting system and make it available
 for electric clocks, bells or other similar purposes.
 
@@ -1924,7 +1924,7 @@ Hipp's system (_La Pendule électrique de précision_, Neuchatel, 1884 and
 four bridges, one just below the suspension spring, the next about 12
 in. lower, the next about half way down, and the last supporting a glass
 vessel of mercury which forms the bob. On the third of them is placed an
-iron armature, which works between the poles of an electromagnet fixed
+iron [[Armature|armature]], which works between the poles of an electromagnet fixed
 to the case, and by which the pendulum is actuated. The circuit is
 closed and broken by a flipper, which is swayed to and fro by a block
 fixed to the pendulum at the second bridge. As long as the flipper is
@@ -1989,16 +1989,16 @@ just as is done in the case of the arrangement shown in fig. 16 so as to
 constitute a spring remontoire, or better still they can be made to
 raise a weight as in the case of the gravity train remontoire (fig. 15)
 but without the complications of wheel-work shown in that contrivance.
-Of this type one of the best known is that of H. Chesters Pond. A
+Of this type one of the best known is that of H. [[Chester|Chesters]] Pond. A
 mainspring fixed on the arbor of the hour wheel is wound up every hour
 by means of another toothed wheel riding loose on the same arbor and
-driven by a small dynamo, to which the other end of the mainspring is
+driven by a small [[Dynamo|dynamo]], to which the other end of the mainspring is
 attached. As soon as the hour wheel has made one revolution (driven
 round by the spring), a contact switch is closed whereupon the dynamo
 winds up the spring again exactly as the train and fly wind up the
 spring in fig. 15. These clocks require a good deal of power, and not
 being always trustworthy seem to have gone out of use. A contrivance of
-this kind now in use is that patented by F. Hope Jones and G.B. Bowell,
+this kind now in use is that patented by F. Hope Jones and G.B. [[Bowell]],
 and is represented in fig. 32. A pendulum is driven by the scape-wheel
 A, and pallets B B in the usual way. The scape-wheel is driven by
 another wheel C which, in turn, is driven by the weighted lever D
@@ -2085,7 +2085,7 @@ An ingenious method of driving a clock by water has been proposed. As
 the pendulum oscillates to one side, an arm on it rises and at last
 lightly touches a drop of water hanging from a very fine nozzle; this
 drop is taken off and carried away by the arm, to be subsequently
-removed by adhesion to an escape funnel placed below the arm. Hence at
+removed by adhesion to an escape [[Funnel|funnel]] placed below the arm. Hence at
 each double vibration of the pendulum part of the work done by a drop of
 water falling through a short distance is communicated to the pendulum,
 which is thus kept in motion as long as the water lasts. At this rate a
@@ -2106,12 +2106,12 @@ any need for it no doubt a small windmill rotating at the top of a tower
 would easily keep a turret clock fully wound, by a simple arrangement
 which would gear the going barrel of the clock to the wind vane motion,
 whenever the weight had fallen too low, and release it when the winding
-up was completed. Even a smoke jack would do the same office for a
+up was completed. Even a smoke [[Jack|jack]] would do the same office for a
 kitchen clock.
 
 The methods of driving astronomical telescopes by means of clockwork
 will be found in the article TELESCOPE. Measurements of small intervals
-of time are performed by means of chronographs which in principle depend
+of time are performed by means of [[Chronograph|chronographs]] which in principle depend
 on the use of isochronous vibrating tuning-forks in place of pendulums.
 In practice it is needful in most cases that an observer should
 intervene in time measurements, although perhaps by means of a revolving
@@ -2181,12 +2181,12 @@ a going barrel; on being put upon an incline, it rolls down, and the
 fall supplies the motive power.
 
 Clocks are frequently provided with chimes moved exactly like musical
-boxes, except that the pins in the barrel, instead of flipping musical
-combs, raise hammers which fall upon bells. The driving barrel is let
-off at suitable intervals. The cuckoo clock is a pretty piece of
+[[Box|boxes]], except that the pins in the barrel, instead of flipping musical
+[[Comb|combs]], raise hammers which fall upon bells. The driving barrel is let
+off at suitable intervals. The [[Cuckoo|cuckoo]] clock is a pretty piece of
 mechanism. By the push of a wire given to the body of the bird, it is
-bent forward, the wings and tail are raised and the beak opened. At the
-same time two weighted bellows measuring about 1 X 2 in. are raised and
+bent forward, the wings and tail are raised and the [[Beak|beak]] opened. At the
+same time two weighted [[Bellows|bellows]] measuring about 1 X 2 in. are raised and
 successively let drop. These are attached to small wooden organ pipes,
 one tuned a fifth above the other, which produce the notes. Phonographs
 are also attached to clocks, by which the hours are called instead of
@@ -2207,12 +2207,12 @@ of this kind are employed rather to drive telescopes, phonographs and
 other machines requiring uniform and steady movement.
 
 Comical and performing clocks were very popular in the 15th and 16th
-centuries. One at Basel in Switzerland was arranged so as gradually to
+centuries. One at [[Basel]] in Switzerland was arranged so as gradually to
 protrude a long tongue as the pendulum vibrated. It is still to be seen
 there in the museum. The famous clock at Strassburg, originally
 constructed in 1574, remade in 1842, displays a whole series of scenes,
-including processions of the apostles and other persons, and a cock that
-crows. A fine clock at Venice has two rather stiff bronze giants that
+including processions of the [[Apostle|apostles]] and other persons, and a cock that
+crows. A fine clock at Venice has two rather stiff bronze [[Giant|giants]] that
 strike the hours.
 
 Clocks with complicated movements representing the positions of the
@@ -2222,7 +2222,7 @@ which sounded the hours when a string was pulled, were once popular. The
 string simply raised the lifting piece and let the clock strike as the
 hands would do when they came to the hour. This was of use in the old
 days when the only mode of striking a light at night was with a flint
-and steel, but lucifer matches and the electric light have rendered
+and steel, but [[Lucifer|lucifer]] matches and the electric light have rendered
 these clocks obsolete.
 
 [Illustration: FIG. 34.--Curve of Variation of daily rate.]
@@ -2300,7 +2300,7 @@ is often as decorative as the more expensive clock. The favourite walnut
 case of the late 17th and early 18th century gave place in the course of
 a generation to mahogany, which retained its primacy until the
 introduction of cheaper clocks brought about the supersession of the
-long-cased variety. Many of these cases were made in lacquer when that
+long-cased variety. Many of these cases were made in [[Lacquer|lacquer]] when that
 material was in vogue; satinwood and other costly foreign timbers were
 also used for bandings and inlay. The most elegant of the "grandfather"
 cases are, however, the narrow-waisted forms of the William and Mary
@@ -2320,7 +2320,7 @@ regards the case, the pendulum being comparatively short, while
 sometimes the case acted merely as a pedestal for a bracket-clock fixed
 on the top. These pieces were usually mounted very elaborately in gilt
 bronze, cast and chased, and French bracket and chamber clocks were
-usually of gilded metal or marble, or a combination of the two; this
+usually of gilded metal or [[Marble|marble]], or a combination of the two; this
 essentially late 18th-century type still persists. English bracket
 clocks contemporary with them were most frequently of simple square or
 arched form in mahogany. The "grandfather" case was also made in the Low

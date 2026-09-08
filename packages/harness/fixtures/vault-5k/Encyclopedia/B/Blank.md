@@ -1,6 +1,6 @@
 # Blank
 
-BLANK (from the Fr. _blanc_, white), a word used in various senses based
+BLANK (from the Fr. _[[Blanc|blanc]]_, white), a word used in various senses based
 on that of "left white," i.e. requiring something to be filled in; thus
 a "blank cheque" is one which requires the amount to be inserted, an
 insurance policy in blank, where the name of the beneficiary is lacking,

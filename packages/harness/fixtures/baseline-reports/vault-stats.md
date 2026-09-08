@@ -1,7 +1,7 @@
 # Vault Stats
 
 - **Vault:** `packages/harness/fixtures/vault`
-- **Snapshot:** 2026-06-26T00:41:04.731Z
+- **Snapshot:** 2026-09-05T14:51:52.766Z
 - **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
 
 ## Counts
@@ -35,78 +35,78 @@
 
 ## Size
 
-- Total bytes: **66.36 MB**
-- Notes: 66.35 MB
+- Total bytes: **67.17 MB**
+- Notes: 67.16 MB
 - Attachments: 12.6 KB
 
 ### Note size distribution
 
 | Min | Median | p90 | p99 | Max | Mean |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 51 B | 2.0 KB | 11.8 KB | 90.1 KB | 832.2 KB | 6.8 KB |
+| 51 B | 2.0 KB | 12.0 KB | 91.0 KB | 837.2 KB | 6.9 KB |
 
 ### Largest notes
 
-- `Notes/Japan.md` — 832.2 KB
-- `Encyclopedia/I/Italy.md` — 781.6 KB
-- `0 Inbox/Mecca.md` — 602.1 KB
-- `Reference/Hydraulics.md` — 572.8 KB
-- `Sources/Cotton.md` — 443.7 KB
-- `Reference/India.md` — 428.9 KB
-- `Sources/Europe.md` — 427.8 KB
-- `Encyclopedia/I/Ireland.md` — 415.4 KB
-- `Encyclopedia/C/Chemistry.md` — 407.1 KB
-- `Encyclopedia/E/English Law.md` — 389.1 KB
-- `Sources/Horticulture.md` — 384.7 KB
-- `Encyclopedia/C/Celt.md` — 379.3 KB
-- `Encyclopedia/E/Edric.md` — 336.3 KB
-- `Reference/Australia.md` — 335.8 KB
-- `Reference/Ethics.md` — 327.7 KB
-- `Encyclopedia/M/Magnesite.md` — 307.4 KB
-- `Notes/History.md` — 305.2 KB
-- `Notes/French Revolutionary Wars.md` — 287.9 KB
-- `Encyclopedia/E/Electric Eel.md` — 255.5 KB
-- `Encyclopedia/C/Crusades.md` — 246.4 KB
-- `Sources/Germanium.md` — 245.5 KB
-- `Sources/Map.md` — 237.8 KB
-- `Sources/Evidence.md` — 234.2 KB
-- `Encyclopedia/I/Insurance.md` — 232.0 KB
-- `Sources/Hindostani.md` — 225.3 KB
+- `Notes/Japan.md` — 837.2 KB
+- `Encyclopedia/I/Italy.md` — 786.3 KB
+- `0 Inbox/Mecca.md` — 603.7 KB
+- `Reference/Hydraulics.md` — 574.0 KB
+- `Sources/Cotton.md` — 446.0 KB
+- `Reference/India.md` — 432.9 KB
+- `Sources/Europe.md` — 430.9 KB
+- `Encyclopedia/I/Ireland.md` — 419.1 KB
+- `Encyclopedia/C/Chemistry.md` — 408.9 KB
+- `Encyclopedia/E/English Law.md` — 393.0 KB
+- `Sources/Horticulture.md` — 386.8 KB
+- `Encyclopedia/C/Celt.md` — 381.6 KB
+- `Reference/Australia.md` — 338.8 KB
+- `Encyclopedia/E/Edric.md` — 338.2 KB
+- `Reference/Ethics.md` — 329.3 KB
+- `Encyclopedia/M/Magnesite.md` — 308.5 KB
+- `Notes/History.md` — 307.1 KB
+- `Notes/French Revolutionary Wars.md` — 289.4 KB
+- `Encyclopedia/E/Electric Eel.md` — 257.2 KB
+- `Encyclopedia/C/Crusades.md` — 248.2 KB
+- `Sources/Germanium.md` — 247.8 KB
+- `Sources/Map.md` — 239.5 KB
+- `Sources/Evidence.md` — 235.7 KB
+- `Encyclopedia/I/Insurance.md` — 233.1 KB
+- `Sources/Hindostani.md` — 226.5 KB
 
 ## Links
 
-- Total wikilinks: **26,627**
+- Total wikilinks: **130,799**
 - Unresolved wikilinks: 9,814
 - External URLs: 15,278
-- Outbound per note — median 1, p90 6, max 520
+- Outbound per note — median 7, p90 27, max 582
 
 ### Most-linked notes
 
-- `Kalinjar` — 1,775 incoming
-- `Heuglin` — 834 incoming
-- `Chateaubriant` — 548 incoming
+- `Kalinjar` — 1,778 incoming
+- `Heuglin` — 837 incoming
+- `Chateaubriant` — 549 incoming
 - `Helgaud` — 414 incoming
-- `Brantford` — 340 incoming
-- `Deschamps` — 285 incoming
-- `Dendera` — 266 incoming
-- `Masonry` — 216 incoming
-- `Litopterna` — 213 incoming
-- `Marne` — 178 incoming
-- `Haxo` — 170 incoming
-- `Gansbacher` — 163 incoming
-- `Baring-Gould` — 137 incoming
-- `Ballston Spa` — 126 incoming
-- `Beaufort` — 125 incoming
-- `Brogue` — 103 incoming
-- `Coeffeteau` — 101 incoming
-- `Frost` — 100 incoming
-- `Landwehr` — 98 incoming
-- `Kalamazoo` — 97 incoming
-- `Courcelle-Seneuil` — 90 incoming
-- `Kino` — 86 incoming
-- `Bengal` — 80 incoming
-- `Liri` — 79 incoming
-- `Lisbon` — 76 incoming
+- `Brantford` — 341 incoming
+- `Deschamps` — 293 incoming
+- `Brick` — 281 incoming
+- `Masonry` — 280 incoming
+- `Dendera` — 270 incoming
+- `Limestone` — 266 incoming
+- `Colours` — 263 incoming
+- `Error` — 260 incoming
+- `Manuscript` — 256 incoming
+- `Heir` — 255 incoming
+- `Martin` — 254 incoming
+- `Corn` — 252 incoming
+- `Enthusiasm` — 249 incoming
+- `Exchange` — 249 incoming
+- `Knight` — 249 incoming
+- `Marble` — 249 incoming
+- `Commune` — 248 incoming
+- `Australia` — 245 incoming
+- `Corps` — 244 incoming
+- `Coin` — 239 incoming
+- `Anne` — 238 incoming
 
 ## Frontmatter
 
@@ -142,8 +142,8 @@
 | `#philosophy` | 423 |
 | `#literature` | 355 |
 | `#religion` | 311 |
-| `#politics` | 258 |
 | `#art` | 258 |
+| `#politics` | 258 |
 | `#mathematics` | 231 |
 | `#biology` | 186 |
 | `#chemistry` | 182 |
@@ -153,8 +153,8 @@
 | `#antiquity` | 127 |
 | `#architecture` | 123 |
 | `#medicine` | 122 |
-| `#warfare` | 119 |
 | `#mythology` | 119 |
+| `#warfare` | 119 |
 | `#music` | 117 |
 | `#language` | 110 |
 | `#engineering` | 104 |

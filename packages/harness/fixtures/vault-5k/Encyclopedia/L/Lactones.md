@@ -6,7 +6,7 @@ topic: physics
 
 # Lactones
 
-LACTONES, the cyclic esters of hydroxy acids, resulting from the
+LACTONES, the cyclic [[Esters|esters]] of hydroxy acids, resulting from the
 internal elimination of water between the hydroxyl and carboxyl groups,
 this reaction taking place when the hydroxy acid is liberated from its
 salts by a mineral acid. The [alpha] and [beta]-hydroxy acids do not
@@ -18,7 +18,7 @@ CH2OH·CH2·CH2·CO2H, yields [gamma]-butyrolactone,
   |              |
   CH2·CH2·CH2·CO·O.
 
-These compounds may also be prepared by the distillation of the
+These [[Compound|compounds]] may also be prepared by the distillation of the
 [gamma]-halogen fatty acids, or by the action of alkaline carbonates on
 these acids, or from [beta][gamma]- or [gamma][delta]-unsaturated acids
 by digestion with hydrobromic acid or dilute sulphuric acid. The

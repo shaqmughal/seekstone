@@ -4,7 +4,7 @@ CRUIKSHANK, GEORGE (1792-1878), English artist, caricaturist and
 illustrator, was born in London on the 27th of September 1792. By
 natural disposition and collateral circumstances he may be accepted as
 the type of the born humoristic artist predestined for this special form
-of art. His grandfather had taken up the arts, and his father, Isaac
+of art. His grandfather had taken up the arts, and his father, [[Isaac]]
 Cruikshank, followed the painter's profession. Amidst these surroundings
 the children were born and brought up, their first playthings the
 materials of the arts their father practised. George followed the family
@@ -30,7 +30,7 @@ for a generation he delineated Tories, Whigs and Radicals with fine
 impartiality. Satirical capital came to him from every public
 event,--wars abroad, the enemies of England (for he was always fervidly
 patriotic), the camp, the court, the senate, the Church; low life, high
-life; the humours of the people, the follies of the great. In this
+life; the [[Humour|humours]] of the people, the follies of the great. In this
 wonderful gallery the student may grasp the popular side of most
 questions which for the time being engaged public attention. George
 Cruikshank's technical and manipulative skill as an etcher was such that
@@ -39,7 +39,7 @@ rank; in this respect his works have been compared favourably with the
 masterpieces of etching. He died at 263 Hampstead Road on the 1st of
 February 1878. His remains rest in St Paul's cathedral.
 
-A vast number of Cruikshank's spirited cartoons were published as
+A vast number of Cruikshank's spirited [[Cartoon|cartoons]] were published as
 separate caricatures, all coloured by hand; others formed series, or
 were contributed to satirical magazines, the _Satirist_, _Town Talk_,
 _The Scourge_ (1811-1816) and the like ephemeral publications. In
@@ -69,8 +69,8 @@ _History of the Irish Rebellion in 1798_ (1845). Of his own
 speculations, mention must be made of _George Cruikshank's Omnibus_
 (1841) and _George Cruikshank's Table Book_ (1845), as well as his
 _Comic Almanack_ (1835-1853). _The Life of Sir John Falstaff_ contained
-20 full-page etchings (1857-1858). These are a few leading items amongst
-the thousands of illustrations emanating from that fertile imagination.
+20 full-page etchings (1857-1858). These are a few leading [[Item|items]] amongst
+the thousands of illustrations emanating from that fertile [[Imagination|imagination]].
 As an enthusiastic teetotal advocate, G. Cruikshank produced a long
 series of pictures and illustrations, pictorial pamphlets and tracts;
 the best known of these are _The Bottle_, 8 plates (1847), with its

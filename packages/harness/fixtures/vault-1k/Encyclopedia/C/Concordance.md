@@ -27,12 +27,12 @@ importance, one by Conrad of Halberstadt (fl. c. 1290) and the other by
 John of Segovia in the next century. This book was published in a
 greatly improved and amplified form in the middle of the 19th century by
 David Nutt, of London, edited by T. P. Dutripon. The first Hebrew
-concordance was compiled in 1437-1445 by Rabbi Isaac Nathan b. Kalonymus
+concordance was compiled in 1437-1445 by Rabbi [[Isaac]] Nathan b. Kalonymus
 of Arles. It was printed at Venice in 1523 by Daniel Bomberg, in Basel
 in 1556, 1569 and 1581. It was published under the title _Meir Natib_,
 "The Light of the Way." In 1556 it was translated into Latin by Johann
 Reuchlin, but many errors appeared in both the Hebrew and the Latin
-edition. These were corrected by Marius de Calasio, a Franciscan friar,
+edition. These were corrected by [[Marius]] de Calasio, a Franciscan friar,
 who published a four volume folio _Concordantiae Sacr. Bibl. Hebr. et
 Latin._ at Rome, 1621, much enlarged, with proper names included.
 Another concordance based on Nathan's was Johann Buxtorf the elder's
@@ -66,7 +66,7 @@ of the same, without quotations, appeared in 1900. There are also
 concordances of Biblical proper names by G. Brecher (Frankfort-on-Main,
 1876) and Schusslovicz (Wilna, 1878).
 
-A _Concordance to the Septuagint_ was published at Frankfort in 1602 by
+A _Concordance to the Septuagint_ was published at [[Frankfort]] in 1602 by
 Conrad Kircher of Augsburg; in this the Hebrew words are placed in
 alphabetical order and the Greek words by which they are translated are
 placed under them. A Septuagint concordance, giving the Greek words in
@@ -103,7 +103,7 @@ University Press. In the middle of the 19th century Charles Hermann
 Bruder brought out a beautiful edition (Tauchnitz) with many
 improvements. The _apparatus criticus_ was a triumph of New Testament
 scholarship. It collates the readings of Erasmus, R. Stephens' third
-edition, the Elzevirs, Mill, Bengel, Webster, Knapp, Tittman, Scholz,
+edition, the [[Elzevir|Elzevirs]], Mill, Bengel, Webster, Knapp, Tittman, Scholz,
 Lachmann. It also gives a selection from the most ancient patristic
 MSS. and from various interpreters. No various reading of critical value
 is omitted. An edition of Bruder with readings of Samuel Prideaux
@@ -156,7 +156,7 @@ editions were published during Cruden's life, and many since his death.
 Cruden's work is accurate and full, and later concordances only
 supersede his by combining an English with a Greek and Hebrew
 concordance. This is done by the _Critical Greek and English
-Concordance_ prepared by C. F. Hudson, H. A. Hastings and Ezra Abbot,
+Concordance_ prepared by C. F. Hudson, H. A. [[Hastings]] and Ezra Abbot,
 LL.D., published in Boston, Mass., and by the _Critical Lexicon and
 Concordance to the English and Greek New Testament_, by E. L. Bullinger,
 1892. The _Interpreting Concordance to the New Testament_, edited by

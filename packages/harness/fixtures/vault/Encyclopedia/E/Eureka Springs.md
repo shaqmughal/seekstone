@@ -15,14 +15,14 @@ extreme north-western part of Arkansas, U.S.A., in the Ozark uplift,
 negro descent); (1910) 3228. There is a transient population of
 thousands of visitors during the year. The city is built picturesquely
 on the sides of a gulch, down which runs the Missouri & North Arkansas
-railway. A creek running through the city empties into the White river,
+railway. A [[Creek|creek]] running through the city empties into the White river,
 only a few miles distant. The surrounding country varies in character
 from mountains to rolling prairie. The encircling hills are laden with a
 covering of pine. The normal mean temperature for the year is about 59°
 F. (42° F. in winter, 61° F. in spring, 75° F. in summer, and 58° F. in
 autumn); the average rainfall, about 33 in. The atmosphere is dry and
 clear. Apart from its share in the agricultural interests of the
-surrounding region,--devoted mainly to Indian corn, small grains and
+surrounding region,--devoted mainly to Indian [[Corn|corn]], small grains and
 fruits,--the entire economy of Eureka Springs centres in its medicinal
 springs, more than forty of which, lying within the corporate limits,
 are held in trust by the city for the free use of the public. The

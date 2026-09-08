@@ -7,10 +7,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Coast"
 
 # Coast
 
-COAST (from Lat. _costa_, a rib, side), the part of the land which meets
+COAST (from Lat. _[[Costa|costa]]_, a rib, side), the part of the land which meets
 the sea in a line of more or less regular form. The word is sometimes
 applied to the bank of a river or lake, and sometimes to a region (cf.
-Gold Coast, Coromandel Coast) which may include the hinterland. If the
+[[Gold Coast]], Coromandel Coast) which may include the hinterland. If the
 coast-line runs parallel to a mountain range, such as the Andes, it has
 usually a more regular form than when, as in the _rias_ coast of west
 Brittany, it crosses the crustal folds. Again, a recently elevated coast
@@ -49,7 +49,7 @@ service.
 No system of coast defence is of any value which does not take full
 account of the general distribution of sea-power and the resultant
 strength of the possible hostile forces. By resultant strength is meant
-the balance of one side over the other, for it is now generally regarded
+the [[Balance|balance]] of one side over the other, for it is now generally regarded
 as an axiom that two opposing fleets must make their main effort in
 seeking one another, and that the force available for attack on coast
 defences will be either composed of such ships as can be spared from the
@@ -73,7 +73,7 @@ An approximation may, however, be made by taking the bombardment of
 Alexandria (1881) as being the parting of the ways between the old and
 the modern school. At that time the British navy, and in fact all other
 navies, had not really emerged from the stage of the wooden battleships.
-Guns were still muzzle-loaders, arranged mainly in broadsides, and
+Guns were still muzzle-loaders, arranged mainly in [[Broadside|broadsides]], and
 protected by heavy armour; sails were still used as means of propulsion;
 torpedoes, net defence, signalling, and search-lights quite undeveloped.
 
@@ -82,7 +82,7 @@ guns were muzzle-loaders, arranged in long batteries like a broadside,
 often in two tiers. The improvement of rifled ordnance had called for
 increased protection, and this was found first by solid constructions of
 granite, and latterly by massive iron fronts. Examples of these remain
-in Garrison Fort, Sheerness, and in Hurst Castle at the west end of the
+in Garrison Fort, Sheerness, and in [[Hurst]] Castle at the west end of the
 Solent. The range of guns being then relatively short, it was necessary
 to place forts at fairly close intervals, and where the channels to be
 defended could not be spanned from the shore, massive structures with
@@ -127,7 +127,7 @@ the objective.
 
 Another change resulted from an improvement in the method of mounting.
 Even in the older days discussion had arisen freely on the relative
-merits of barbette and casemate mounting. In the former the gun fires
+merits of [[Barbette|barbette]] and casemate mounting. In the former the gun fires
 over a parapet, giving a larger field of view to the gun-layer, and a
 larger field of fire for the gun, with, however, more exposure for the
 detachment. The latter gives a restricted view and greater safety to the
@@ -268,7 +268,7 @@ control guns placed low, or where guns are so placed as to be liable to
 obscuration by fog or mist the position-finder can be placed below the
 fog-line. In either case direct laying is provided for as an
 alternative. In some defences batteries equipped with old pattern 9-in.
-muzzle-loading guns, mounted as howitzers for long-range firing, have
+muzzle-loading guns, mounted as [[Howitzer|howitzers]] for long-range firing, have
 been placed in folds in the ground so as to be quite invisible from the
 sea and therefore invulnerable. Such batteries are fought entirely by
 the position-finder.
@@ -348,7 +348,7 @@ mountings--of which the most important has been the substitution of
 barbette mounting and shield for the recoil mounting described
 above--this system held the field up to 1905, when, partly as a result
 of the experience of the Russo-Japanese War, and partly owing to the
-alteration of the naval balance of power due to the destruction of the
+alteration of the naval [[Balance Of Power|balance of power]] due to the destruction of the
 Russian fleet, both the scale and system of defence were very
 considerably modified.
 
@@ -366,7 +366,7 @@ clear weather such an attack would have little chance of success, also
 that in no circumstances would torpedo boats be able to damage fixed
 defences. Their best chance was attack by night, and the only form of
 attack was that referred to above as "running past," that is, an attempt
-to evade the defences and to attack ships or docks inside. The light
+to evade the defences and to attack ships or [[Dock|docks]] inside. The light
 draught of torpedo boats and their comparative invisibility favoured
 this form of attack.
 
@@ -388,7 +388,7 @@ recrossing have a very confusing effect, with the consequent risk that a
 proportion of the attacking vessels may slip through unnoticed.
 
 An alternative method of using electric lights is to arrange the
-projector so that the light comes out in a fan (generally of 30°
+projector so that the light comes out in a [[Fan|fan]] (generally of 30°
 divergence). Two or three such lights are usually placed side by side,
 forming an illuminated fan of considerable divergence. These fans are
 now used for the main defence, with in front of them one or more
@@ -405,7 +405,7 @@ lights.
 
 A small quick-firing gun using smokeless powder was seen to be a
 necessity. At first the 6-pounder was adopted as the stock size
-supplemented by machine guns for close range, but soon afterwards it
+supplemented by [[Machine|machine]] guns for close range, but soon afterwards it
 became necessary to reconsider the scale of anti-torpedo boat defences,
 owing first to the increased size of first-class torpedo boats, and
 secondly to the introduction of a new type of vessel, the torpedo boat

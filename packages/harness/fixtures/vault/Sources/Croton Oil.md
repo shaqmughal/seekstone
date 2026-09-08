@@ -9,17 +9,17 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Croton_Oil
 # Croton Oil
 
 CROTON OIL (_Crotonis Oleum_), an oil prepared from the seeds of _Croton
-Tiglium_, a tree belonging to the natural order Euphorbiaceae, and
+Tiglium_, a tree belonging to the natural order [[Euphorbiaceae]], and
 native or cultivated in India and the Malay Islands. The tree is from 15
 to 20 ft. in height, and has few and spreading branches, alternate,
 oval-oblong leaves, acuminate at the point, and covered when young with
 stellate hairs, and terminal racemes of small, downy, greenish-yellow,
 monoecious flowers. The male blossoms have five petals and fifteen
 stamens; the females have no petals but a large oblong ovary bearing
-three bifid styles. The fruit or capsule is obtusely three-cornered, and
+three bifid styles. The fruit or [[Capsule|capsule]] is obtusely three-cornered, and
 about the size of a hazel-nut; it contains three cells each enclosing a
 seed. The seeds resemble those of the castor-oil plant; they are about
-half an inch long, and two-fifths of an inch broad, and have a
+half an [[Inch|inch]] long, and two-fifths of an inch broad, and have a
 cinnamon-brown, brittle integument; between the two halves of the kernel
 lie the large cotyledons and radicle. The ocular distinction between the
 two kinds of seeds may be of great practical importance. The most
@@ -29,7 +29,7 @@ obtained by pressing them, when bruised to a pulp, between hot plates.
 Croton oil is a transparent and viscid liquid of a brownish or
 pale-yellow tinge, and acrid, peculiar and persistent taste, a
 disagreeable odour and acid reaction. It is soluble in volatile oils,
-carbon disulphide, and ether, and to some extent in alcohol. It contains
+[[Carbon|carbon]] disulphide, and ether, and to some extent in alcohol. It contains
 acetic, butyric and valeric acids, with glycerides of acids of the same
 series, and a volatile body, C5H8O2, tiglic acid, metameric with angelic
 acid, and identical with methylcrotonic acid, CH3.CH:C(CH3)(CO2H). The
@@ -55,7 +55,7 @@ purgative that it is a hydragogue even in minimal dose, the fluid
 secretions of the bowel being most markedly increased. The drug appears
 to act only upon the small intestine. In somewhat larger doses it
 produces severe gastro-enteritis. The flow of bile is somewhat
-increased. Such effects may all be produced, even up to the discharge of
+increased. Such effects may all be produced, even up to the [[Discharge|discharge]] of
 blood, by the absorption of croton oil from the skin.
 
 The minuteness of the dose, the certainty of the action, and the large

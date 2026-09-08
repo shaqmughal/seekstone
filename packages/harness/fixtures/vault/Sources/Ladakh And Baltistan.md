@@ -38,8 +38,8 @@ direction being north-west and south-east. A central range divides the
 Indus valley, here 4 to 8 m. wide, from that of its north branch the
 Shyok, which with its fertile tributary valley of Nubra is again bounded
 on the north by the Karakoram. This central ridge is mostly syenitic
-gneiss, and north-east from it are found, successively, Silurian slates,
-Carboniferous shales and Triassic limestones, the gneiss recurring at
+[[Gneiss|gneiss]], and north-east from it are found, successively, Silurian slates,
+Carboniferous shales and Triassic [[Limestone|limestones]], the gneiss recurring at
 the Turkestan frontier. The Indus lies along the line which separates
 the crystalline rocks from the Eocene sandstones and shales of the lower
 range of hills on the left bank, the lofty mountains behind them
@@ -48,7 +48,7 @@ consisting of parallel bands of rocks from Silurian to Cretaceous.
 Several lakes in the east districts at about 14,000 ft. have been of
 much greater extent, and connected with the river systems of the
 country, but they are now mostly without outlet, saline, and in process
-of desiccation.
+of [[Desiccation|desiccation]].
 
 Leh is the capital of Ladakh, and the road to Leh from Srinagar lies up
 the lovely Sind valley to the sources of the river at the Zoji La Pass
@@ -58,14 +58,14 @@ from the valley of Kashmir, and then continues to Nanga Parbat (26,620
 ft.) and beyond that mountain stretches to the north of Swat and Bajour.
 To the south-east it is an unbroken chain till it merges into the line
 of snowy peaks seen from Simla and the plains of India--the range which
-reaches past Chini to the famous peaks of Gangotri, Nandadevi and Nampa.
-It is the most central and conspicuous range in the Himalaya. The Zoji
-La, which curves from the head of the Sind valley on to the bleak
+reaches past Chini to the famous peaks of [[Gangotri]], Nandadevi and Nampa.
+It is the most central and conspicuous range in the [[Himalaya]]. The Zoji
+La, which curves from the head of the Sind valley on to the [[Bleak|bleak]]
 uplands of Dras (where lies the road to the trough of the Indus and
 Leh), is, in spite of its altitude, a pass on which little snow lies;
 but for local accumulations, it would be open all the year round. It
 affords a typical instance of that cutting-back process by which a
-river-head may erode a channel through a watershed into the plateau
+river-head may [[Erode|erode]] a channel through a watershed into the plateau
 behind, there being no steep fall towards the Indus on the northern side
 of the range. From the Zoji La the road continues by easy gradients,
 following the line of the Dras drainage, to the Indus, when it turns up
@@ -100,7 +100,7 @@ direction of the valleys. At Leh, which stands at the entrance of the
 valley leading to the Kardang Pass, the most common directions are
 between south and west in the daytime and summer, and from north-east in
 the night, especially in the later months of the year. In January and
-February the air is generally calm, and April and May are the most windy
+February the air is generally [[Calm|calm]], and April and May are the most windy
 months of the year.
 
   Vegetation is confined to valleys and sheltered spots, where a stunted
@@ -108,30 +108,30 @@ months of the year.
   furze, and the roots of _burtsi_, a salsolaceous plant, supply the
   traveller with much-needed firewood. The trees are the pencil cedar
   (_Juniperus excelsa_), the poplar and willow (both extensively
-  planted, the latter sometimes wild), apple, mulberry, apricot and
+  planted, the latter sometimes wild), [[Apple|apple]], mulberry, apricot and
   walnut. Irrigation is skilfully managed, the principal products being
-  wheat, a beardless variety of barley called _grim_, millet, buckwheat,
-  pease, beans and turnips. Lucerne and prangos (an umbelliferous plant)
+  wheat, a beardless variety of barley called _grim_, millet, [[Buckwheat|buckwheat]],
+  pease, [[Bean|beans]] and turnips. Lucerne and prangos (an umbelliferous plant)
   are used as fodder.
 
   Among domestic animals are the famous shawl goat, two kinds of sheep,
-  of which the larger (_huniya_) is used for carrying burdens, and is a
+  of which the larger (_huniya_) is used for carrying [[Burden|burdens]], and is a
   principal source of wealth, the yak and the dso, a valuable hybrid
   between the yak and common cow. Among wild animals are the kiang or
-  wild ass, ibex, several kinds of wild sheep, antelope (_Pantholops_),
-  marmot, hare and other Tibetan fauna.
+  wild ass, [[Ibex|ibex]], several kinds of wild sheep, [[Antelope|antelope]] (_Pantholops_),
+  marmot, [[Hare|hare]] and other Tibetan fauna.
 
   The present value of the trade between British India and Tibet passing
   through Ladakh is inconsiderable. Ladakh, however, is improving in its
   trade prospects apart from Tibet. It is curious that both Ladakh and
-  Tibet import a considerable amount of treasure, for on the borders of
+  Tibet import a considerable amount of treasure, for on the [[Borders|borders]] of
   western Tibet and within a radius of 100 or 200 m. of Leh there
   centres a gold-mining industry which apparently only requires
   scientific development to render it enormously productive. Here the
   surface soil has been for many centuries washed for gold by bands of
   Tibetan miners, who never work deeper than 20 to 50 ft., and whose
   methods of washing are of the crudest description. They work in
-  winter, chiefly because of the binding power of frost on the friable
+  winter, chiefly because of the binding power of [[Frost|frost]] on the friable
   soil, suffering great hardships and obtaining but a poor return for
   their labour. But the remoteness of Ladakh and its extreme altitude
   still continue to bar the way to substantial progress, though its
@@ -139,17 +139,17 @@ months of the year.
 
   The adjoining territory of Baltistan forms the west extremity of
   Tibet, whose natural limits here are the Indus from its abrupt
-  southward bend in 74° 45´ E., and the mountains to the north and west,
+  southward [[Bend|bend]] in 74° 45´ E., and the mountains to the north and west,
   separating a comparatively peaceful Tibetan population from the
-  fiercer Aryan tribes beyond. Mahommedan writers about the 16th century
+  fiercer [[Aryan]] tribes beyond. Mahommedan writers about the 16th century
   speak of Baltistan as "Little Tibet," and of Ladakh as "Great Tibet,"
-  thus ignoring the really Great Tibet altogether. The Balti call Gilgit
+  thus ignoring the really Great Tibet altogether. The Balti call [[Gilgit]]
   "a Tibet," and Dr Leitner says that the Chilasi call themselves Bot or
   Tibetans; but, although these districts may have been overrun by the
   Tibetans, or have received rulers of that race, the ethnological
   frontier coincides with the geographical one given. Baltistan is a
   mass of lofty mountains, the prevailing formation being gneiss. In the
-  north is the Baltoro glacier, the largest out of the arctic regions,
+  north is the Baltoro glacier, the largest out of the [[Arctic|arctic]] regions,
   35 m. long, contained between two ridges whose highest peaks to the
   south are 25,000 and to the north 28,265 ft. The Indus, as in Lower
   Ladakh, runs in a narrow gorge, widening for nearly 20 m. after
@@ -158,14 +158,14 @@ months of the year.
   house roofs are flat, occupied only in part by a second story, the
   remaining space being devoted to drying apricots, the chief staple of
   the main valley, which supports little cultivation. But the rapid
-  slope westwards is seen generally in the vegetation. Birch, plane,
+  slope westwards is seen generally in the vegetation. [[Birch]], plane,
   spruce and _Pinus excelsa_ appear; the fruits are finer, including
   pomegranate, pear, peach, vine and melon, and where irrigation is
-  available, as in the North Shigar, and at the deltas of the tributary
+  available, as in the North Shigar, and at the [[Delta|deltas]] of the tributary
   valleys, the crops are more luxuriant and varied.
 
 _History._--The earliest notice of Ladakh is by the Chinese pilgrim
-Fa-hien, A.D. 400, who, travelling in search of a purer faith, found
+[[Fa-Hien|Fa-hien]], A.D. 400, who, travelling in search of a purer faith, found
 Buddhism flourishing there, the only novelty to him being the
 prayer-cylinder, the efficacy of which he declares is incredible. Ladakh
 formed part of the Tibetan empire until its disruption in the 10th
@@ -179,7 +179,7 @@ all perished from the effects of the climate.
 Early in the 17th century Ladakh was invaded by its Mahommedan
 neighbours of Baltistan, who plundered and destroyed the temples and
 monasteries; and again, in 1685-1688, by the Sokpa, who were expelled
-only by the aid of the lieutenant of Aurangzeb in Kashmir, Ladakh
+only by the aid of the lieutenant of [[Aurangzeb]] in Kashmir, Ladakh
 thereafter becoming tributary. The gyalpo or king then made a nominal
 profession of Islam, and allowed a mosque to be founded at Leh, and the
 Kashmiris have ever since addressed his successors by a Mahommedan
@@ -201,10 +201,10 @@ though disguised as a present, is paid to her, for Ladakh, by the
 maharaja of Kashmir.
 
   The principal works to be consulted are F. Drew, _The Jummoo and
-  Kashmir Territories_; Cunningham, _Ladak_; Major J. Biddulph, _The
+  Kashmir Territories_; [[Cunningham]], _Ladak_; [[Major]] J. Biddulph, _The
   Tribes of the Hindoo Koosh_; Ramsay, _Western Tibet_; Godwin-Austen,
   "The Mountain Systems of the Himalaya," vol. vi., _Proc. R.G.S._
-  (1884); W. Lawrence, _The Valley of Kashmir_ (1895); H. F. Blandford,
+  (1884); W. [[Lawrence]], _The Valley of Kashmir_ (1895); H. F. Blandford,
   _The Climate and Weather of India_ (1889).     (T. H. H.*)
 
 

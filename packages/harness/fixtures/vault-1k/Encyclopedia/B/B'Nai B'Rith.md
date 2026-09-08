@@ -19,7 +19,7 @@ an executive committee and court of appeals (elected as before). The
 first lodge in Germany was instituted at Berlin in 1883. A large number
 of charitable and other public institutions have been established in the
 United States and elsewhere by the order, of which may be mentioned the
-large orphan asylum in Cleveland, the home for the aged and infirm at
+large orphan [[Asylum|asylum]] in Cleveland, the home for the aged and infirm at
 Yonkers, N.Y., the National Jewish hospital for consumptives at Denver,
 and the Maimonides library in New York City. The B'nai B'rith society
 has also co-operated largely with other Jewish philanthropic

@@ -26,11 +26,11 @@ in 1825 his services were rewarded by promotion to the rank of
 _capitaine de frégate_, and he was entrusted with the control of a
 similar enterprise, with the especial purpose of discovering traces of
 the lost explorer La Pérouse, in which he was successful. The
-"Astrolabe," as he renamed the "Coquille," left Toulon on the 25th of
+"[[Astrolabe]]," as he renamed the "Coquille," left Toulon on the 25th of
 April 1826, and returned to Marseilles on the 25th of March 1829, having
 traversed the South Atlantic, coasted the Australian continent from King
 George's Sound to Port Jackson, charted various parts of New Zealand,
-and visited the Fiji Islands, the Loyalty Islands, New Caledonia, New
+and visited the [[Fiji]] Islands, the [[Loyalty Islands]], New [[Caledonia]], New
 Guinea, Amboyna, Van Diemen's Land, the Caroline Islands, Celebes and
 Mauritius. Promotion to the rank of _capitaine de vaisseau_ was bestowed
 on the commander in August 1829; and in August of the following year he
@@ -45,7 +45,7 @@ after their progress southward was blocked by a continuous bank, which
 they vainly coasted for 300 m. to the east. Returning westward they
 visited the South Orkney Islands and part of the New Shetlands, and
 discovered Joinville Island and Louis Philippe Land, but were compelled
-by scurvy to seek succour at Talcahuano in Chile. Thence they proceeded
+by scurvy to seek succour at Talcahuano in [[Chile]]. Thence they proceeded
 across the Pacific and through the Asiatic archipelago, visiting among
 others the Fiji and the Pelew Islands, coasting New Guinea, and
 circumnavigating Borneo. In 1840, leaving their sick at Hobart Town,

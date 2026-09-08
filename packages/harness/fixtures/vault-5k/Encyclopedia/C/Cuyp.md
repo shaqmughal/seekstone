@@ -1,19 +1,19 @@
 # Cuyp
 
 CUYP, the name of a Dutch family which produced two generations of
-painters. The Cuyps were long settled at Dordrecht, in the neighbourhood
+painters. The Cuyps were long settled at [[Dordrecht]], in the neighbourhood
 of which they had a country house, where Albert Cuyp (the most famous)
 was born and bred.
 
-The eldest member of the family who acquired fame was JACOB GERRITSZ
+The eldest member of the family who acquired fame was [[Jacob|JACOB]] GERRITSZ
 CUYP, born it is said at Dordrecht in 1575, and taught by Abraham
 Bloemaert of Utrecht. He is known to have been alive in 1649, and the
 date of his death is obscure. J. G. Cuyp's pictures are little known.
 But he produced portraits in various forms, as busts and half-lengths
 thrown upon plain backgrounds, or groups in rooms, landscapes and
-gardens. Solid and clever as an imitator of nature in its ordinary garb,
+gardens. Solid and [[Clever|clever]] as an imitator of nature in its ordinary garb,
 he is always spirited, sometimes rough, but generally plain, and quite
-as unconscious of the sparkle conspicuous in Frans Hals as incapable of
+as unconscious of the sparkle conspicuous in Frans [[Hals]] as incapable of
 the concentrated light-effects peculiar to Rembrandt. In portrait busts,
 of which there are signed examples dated 1624, 1644, 1646 and 1649, in
 the museums of Berlin, Rotterdam, Marseilles, Vienna and Metz, his
@@ -32,7 +32,7 @@ in 1658 Cornelia Bosman, a rich widow, by whom he had an only daughter.
 By right of his possessions at Dordwyck, Cuyp was a vassal of the county
 of Holland, and privileged to sit in the high court of the province. As
 a citizen he was sufficiently well known to be placed on the list of
-those from whom William III., stadtholder of the Netherlands, chose the
+those from whom William III., stadtholder of the Netherlands, [[Chose|chose]] the
 regency of Dordrecht in 1672. His death, and his burial on the 7th of
 November 1691 in the church of the Augustines of Dordrecht, are
 historically proved. But otherwise the known facts concerning his life
@@ -50,7 +50,7 @@ the name "A. Cuyp" in full. A man of Cuyp's acknowledged talent may have
 been versatile enough to paint in many different styles. But whether he
 was as versatile as some critics have thought is a question not quite
 easy to answer. It is to be observed that pieces assigned to Cuyp
-representing game, shell-fish and fruit, and inscribed A. C. in Roman
+representing [[Game|game]], shell-fish and fruit, and inscribed A. C. in Roman
 capitals (Rotterdam, Amsterdam and Berlin museums), though cleverly
 executed, are not in touch or treatment like other pictures of less
 dubious authenticity, signed either with C. or A. C. or "A. Cuyp" in
@@ -64,7 +64,7 @@ touch more flat, and colour more deep than we find in the delicate and
 subtle compositions of the painter's later time. Generally speaking, the
 finished examples of Cuyp's middle and final period all bear his full
 signature. They are all remarkable for harmonies attained by certain
-combinations of shade in gradations with colours in contraposition.
+combinations of shade in gradations with [[Colours|colours]] in contraposition.
 
 Albert Cuyp, a true child of the Netherlands, does not seem to have
 wandered much beyond Rotterdam on the one hand or Nijmwegen on the
@@ -99,16 +99,16 @@ cattle and horses (Rotterdam, Amsterdam, Petersburg and Brussels
 museums). Occasionally he painted portraits in the bust form familiar to
 his father, one of which is dated 1649, and exhibited in the National
 Gallery, London. More frequently he produced likenesses of ladies and
-gentlemen on horseback, in which the life and dress of the period and
+gentlemen on horseback, in which the life and [[Dress|dress]] of the period and
 the forms of horses are most vividly represented (Buckingham Palace,
-Bridgewater Gallery, Louvre and Dresden Museum). Later on we find him
+Bridgewater Gallery, Louvre and [[Dresden]] Museum). Later on we find him
 fondest of expansive scenery with meadows and cattle and flocks, or
 rivers and barges in the foreground and distances showing the towers and
 steeples of Dordrecht. Cuyp was more partial to summer than to winter,
 to noon than to night, to calm than to storm. But some of his best
 groups are occasionally relieved on dark and gusty cloud (Louvre and
 Robarts's collection). A few capital pieces show us people sledging and
-skating or netting ice-holes (Yarborough, Neeld and Bedford
+skating or netting ice-holes (Yarborough, Neeld and [[Bedford]]
 collections). A lovely "Night on the Banks of a River," in the Grosvenor
 collection, reminds us that Cuyp's friend and contemporary was the
 painter of moonlights, Aart van der Neer, to whom he was equal in the
@@ -117,8 +117,8 @@ figures. Sometimes Cuyp composed fancy subjects. His "Orpheus charming
 the Beasts," in the Bute collection, is judiciously arranged with the
 familiar domestic animals in the foreground, and the wild ones, to which
 he is a comparative stranger, thrown back into the distance. One of his
-rare gospel subjects is "Philip baptizing the Eunuch" (Marchmont House,
-Berwickshire), described as a fine work by Waagen. The best and most
+rare gospel subjects is "Philip baptizing the Eunuch" ([[Marchmont]] House,
+[[Berwickshire]]), described as a fine work by Waagen. The best and most
 attractive of Cuyp's pieces are his Meuse and Rhine landscapes, with
 meadows, cattle, flocks and horsemen, and occasionally with boats and
 barges. In these he brought together and displayed--during his middle
@@ -128,7 +128,7 @@ and true chords of colours are all combined. Masterpieces of
 acknowledged beauty are the "Riders with the Boy and Herdsman" in the
 National Gallery; the Meuse, with Dordrecht in the distance, in three or
 four varieties, in the Bridgewater, Grosvenor, Holford and Brownlow
-collections; the "Huntsman" (Ashburton); "Herdsmen with Cattle,"
+collections; the "[[Huntsman]]" ([[Ashburton]]); "Herdsmen with Cattle,"
 belonging to the marquess of Bute; and the "Piper with Cows," in the
 Louvre. The prices paid for Cuyp's pictures in his own time were
 comparatively low. In 1750, 30 florins was considered to be the highest

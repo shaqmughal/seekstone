@@ -11,10 +11,10 @@ and played a minor part in the political movements of his time. He died
 at Madrid on the 5th of February 1867. His most interesting work,
 _Escenas andaluzas_ (1847), is in a curiously affected style, the
 vocabulary being partly archaic and partly provincial; but, despite its
-eccentric mannerisms, it is a vivid record of picturesque scenes and
+[[Eccentric|eccentric]] mannerisms, it is a vivid record of picturesque scenes and
 local customs. Estebanez Calderon is also the author of an unfinished
 history, _De la conquista y perdida de Portugal_ (1883), issued
-posthumously under the editorship of his nephew, Antonio Canovas del
+posthumously under the editorship of his nephew, [[Antonio]] [[Canova|Canovas]] del
 Castillo.
 
 ## See also

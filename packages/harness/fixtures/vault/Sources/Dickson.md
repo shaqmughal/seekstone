@@ -9,7 +9,7 @@ id: 42-7225
 # Dickson
 
 DICKSON, SIR JAMES ROBERT (1832-1901), Australian statesman, was born in
-Plymouth on the 30th of November 1832. He was brought up in Glasgow,
+Plymouth on the 30th of November 1832. He was brought up in [[Glasgow]],
 receiving his education at the high school, and became a clerk in the
 City of Glasgow Bank. In 1854 he emigrated to Victoria, but after some
 years spent in that colony and in New South Wales, he settled in 1862 in
@@ -24,9 +24,9 @@ Queensland sugar plantations at the general election of 1892, and was
 elected to the House of Assembly in that year and again at the elections
 of 1893 and 1896. He became secretary for railways in 1897, minister for
 home affairs in 1898, represented Queensland in the federal council of
-Australia in 1896 and at the postal conference at Hobart in 1898, and in
+[[Australia]] in 1896 and at the postal conference at [[Hobart]] in 1898, and in
 1898 became premier. His energies were now devoted to the formation of
-an Australian commonwealth. He secured the reference of the question to
+an Australian [[Commonwealth|commonwealth]]. He secured the reference of the question to
 a plebiscite, the result of which justified his anticipations. He
 resigned the premiership in November 1899, but in the ministry of Robert
 Philp, formed in the next month, he was reappointed to the offices of

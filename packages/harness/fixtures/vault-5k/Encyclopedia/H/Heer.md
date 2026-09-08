@@ -16,12 +16,12 @@ aroused in entomology, on which subject he acquired special knowledge,
 and later he took up the study of plants and became one of the pioneers
 in palaeo-botany, distinguished for his researches on the Miocene flora.
 In 1851 he became professor of botany in the university of Zurich, and
-he directed his attention to the Tertiary plants and insects of
+he directed his attention to the Tertiary plants and [[Insect|insects]] of
 Switzerland. For some time he was director of the botanic garden at
 Zurich. In 1863 (with W. Pengelly, _Phil. Trans._, 1862) he investigated
 the plant-remains from the lignite-deposits of Bovey Tracey in
 Devonshire, regarding them as of Miocene age; but they are now classed
-as Eocene. Heer also reported on the Miocene flora of Arctic regions, on
+as Eocene. Heer also reported on the Miocene flora of [[Arctic]] regions, on
 the plants of the Pleistocene lignites of Durnten on lake Zurich, and on
 the cereals of some of the lake-dwellings (_Die Pflanzen der
 Pfahlbauten_, 1866). During a great part of his career he was hampered

@@ -31,7 +31,7 @@ kings. In 1901 the population was 601,533, showing a decrease of 15% in
 the decade. The principal crops are rice, millet, pulse, wheat,
 oil-seeds and cotton. The district contains the coalfield of Warora,
 which was worked by government till 1906, when it was closed. Other
-fields are known, and iron ores also occur. The district suffered
+[[Fields|fields]] are known, and iron ores also occur. The district suffered
 severely from famine in 1900, when in April the number of persons
 relieved rose to 90,000.
 

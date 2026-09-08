@@ -11,12 +11,12 @@ Aberdeenshire, and saw much service as a young man in Germany. In 1641
 he returned home and became Lieut.-Colonel in a Scottish regiment. At
 the end of the same year he was involved in the plot known as the
 "Incident." At the outbreak of the Civil War Hurry joined the army of
-the earl of Essex, and was distinguished at Edgehill and Brentford.
+the earl of [[Essex]], and was distinguished at Edgehill and [[Brentford]].
 Early in 1643 he deserted to the Royalists, bringing with him
 information on which Rupert acted at once. Thus was brought about the
 action of Chalgrove Field, where Hurry again showed conspicuous valour;
 he was knighted on the same evening. In 1644 he was with Rupert at
-Marston Moor, where with Lucas he led the victorious left wing of horse.
+[[Marston]] Moor, where with [[Lucas]] he led the victorious left wing of horse.
 But a little later, thinking the King's cause lost, he again deserted,
 and eventually was sent with Baillie against Montrose in the Highlands.
 His detached operations were conducted with great skill, but his

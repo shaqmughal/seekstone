@@ -8,7 +8,7 @@ type: note
 # Marble
 
 MARBLE (from Lat. _marmar_, Gr. [Greek: marmaros], shining stone), a
-term applied to any limestone or dolomite which is sufficiently close in
+term applied to any [[Limestone|limestone]] or [[Dolomite|dolomite]] which is sufficiently close in
 texture to admit of being polished. Many other ornamental stones--such
 as serpentine, alabaster and even granite--are sometimes loosely
 designated marble, but by accurate writers the term is invariably
@@ -25,30 +25,30 @@ or when protected from rain renders it a valuable building stone (q.v.);
 on the other hand, when exposed to the weather or the acid atmosphere of
 large cities, its surface readily crumbles.
 
-_Statuary and Economic Marbles._--Among statuary marbles the first place
+_Statuary and Economic [[Marbles]]._--Among statuary marbles the first place
 may be assigned to the famous Pentelic marble, the material in which
 Pheidias, Praxiteles, and other Greek sculptors executed their principal
-works. The characteristics of this stone are well seen in the Elgin
+works. The characteristics of this stone are well seen in the [[Elgin]]
 marbles, which were removed from the Parthenon at Athens, and are now at
 the British Museum. The marble was derived from the quarries of Mount
 Pentelicus in Attica. Several large buildings have recently been
 constructed with this marble in London. The neighbouring mountain of
-Hymettus likewise yielded marbles, but these were neither so pure in
+[[Hymettus]] likewise yielded marbles, but these were neither so pure in
 colour nor so fine in texture as those of Pentelicus. Parian marble,
 another stone much used by Greek sculptors and architects, was quarried
 in the isle of Paros, chiefly at Mount Marpessa. It is called by ancient
-writers _lychnites_ (from the Gr. [Greek: lychnos], a lamp) in allusion
+writers _lychnites_ (from the Gr. [Greek: lychnos], a [[Lamp|lamp]]) in allusion
 to the fact that the quarries were worked by the light of lamps. The
 Venus de' Medici is a notable example of work in this material. Carrara
 marble is better known than any of the Greek marbles, inasmuch as it
 constitutes the stone invariably employed by the best sculptors of the
 present day. This marble occurs abundantly in the Apuan Alps, an
 offshoot of the Apennines, and is largely worked in the neighbourhood of
-Carrara, Massa and Serravezza. Stone from this district was employed in
+Carrara, [[Massa]] and Serravezza. Stone from this district was employed in
 Rome for architectural purposes in the time of Augustus, but the finer
 varieties, adapted to the needs of the sculptor, were not discovered
 until some time later. It is in Carrara marble that the finest works of
-Michelangelo and of Canova are executed. The purest varieties of this
+Michelangelo and of [[Canova]] are executed. The purest varieties of this
 stone are of snow-white colour and of fine saccharoidal texture. Silica
 is disseminated through some of the marble, becoming a source of
 annoyance to the workman; while occasionally it separates as beautifully
@@ -69,24 +69,24 @@ The Devonian rocks of south Devon are rich in handsome marbles,
 presenting great diversity of tint and pattern. Plymouth, Torquay,
 Ipplepen, Babbacombe and Chudleigh may be named as the principal
 localities. Many of these limestones owe their beauty to the fossil
-corals which they contain, and are hence known as "madrepore marbles."
+[[Coral|corals]] which they contain, and are hence known as "madrepore marbles."
 
-Of far greater importance than the marbles of the Devonian system are
+Of far greater importance than the marbles of the [[Devonian System|Devonian system]] are
 those of Carboniferous age. It is from the Carboniferous or Mountain
 Limestone that British marbles are mainly derived. Marbles of this age
-are worked in Derbyshire and Yorkshire, in the neighbourhood of Bristol,
+are worked in Derbyshire and Yorkshire, in the neighbourhood of [[Bristol]],
 in North Wales, in the Isle of Man, and in various parts of Ireland. One
 of the most beautiful of these stones is the "encrinital marble," a
 material which owes its peculiarities to the presence of numerous
 encrinites, or stone-lilies. These fossils, when cut in various
-directions, give a characteristic pattern to the stone. The joints of
+directions, give a characteristic pattern to the stone. The [[Joints|joints]] of
 the stems and arms are known from their shape as "wheel-stones," and the
 rock itself has been called "entrochal marble." The most beautiful
 varieties are those in which the calcareous fossils appear as white
-markings on a ground of grey limestone. In Belgium a black marble with
+markings on a ground of grey limestone. In [[Belgium]] a black marble with
 small sections of crinoid stems is known as _petit granit_, while in
 Derbyshire a similar rock, crowded with fragments of minute encrinites,
-is termed "bird's-eye marble."
+is termed "[[Bird'S-Eye|bird's-eye]] marble."
 
 Perhaps the most generally useful marbles yielded by the Carboniferous
 system are the black varieties, which are largely employed for
@@ -95,8 +95,8 @@ black limestone is due to the presence of bituminous matter. Such
 limestone commonly emits a fetid odour when struck; and the colour,
 being of organic origin, is discharged on calcination. Black marbles,
 more or less dense in colour, are quarried in various parts of Ireland,
-especially at Kilkenny and near Galway, but the finest kind is obtained
-from near Ashford in Derbyshire. From Ashford is also derived a very
+especially at [[Kilkenny]] and near Galway, but the finest kind is obtained
+from near [[Ashford]] in Derbyshire. From Ashford is also derived a very
 beautiful stone known as "rosewood marble." This is a dense brown
 laminated limestone, displaying when polished a handsome pattern
 somewhat resembling the grain of rosewood; it occurs in very limited
@@ -108,7 +108,7 @@ With the rosewood marble may be compared the well-known "landscape
 marble" or Cotham stone, an argillaceous limestone with peculiar
 dendritic markings, due probably to the infiltration of water containing
 oxide of manganese. This limestone occurs in irregular masses near the
-base of the White Lias, or uppermost division of the Rhaetic series. It
+base of the White [[Lias]], or uppermost division of the Rhaetic series. It
 is found principally in the neighbourhood of Bristol. The arborescent
 forms depicted in bluish-grey upon this landscape marble form a marked
 contrast to the angular markings of warm brown colour which are seen on
@@ -132,7 +132,7 @@ fresh-water snail, _Paludina carinifera_, embedded in a blue, grey or
 greenish limestone, and is found in the Upper Purbeck beds of Swanage in
 Dorsetshire. Excellent examples of its use may be seen in Westminster
 Abbey and in the Temple Church, as well as in the cathedrals of
-Salisbury, Winchester, Worcester and Lincoln. Sussex marble is a very
+Salisbury, Winchester, Worcester and [[Lincoln]]. Sussex marble is a very
 similar stone, occurring in thin beds in the Weald clay, and consisting
 largely of the shells of _Paludina_, principally _P. sussexiensis_ and
 _P. fluviorum_. The altar stones and the episcopal chair in Canterbury
@@ -143,14 +143,14 @@ sufficiently beautiful to be used for ornamental purposes, and are
 generally classed as marbles. Such serpentinous limestones are included
 by petrologists under the term "ophicalcite." The famous _verde antico_
 is a rock of this character. Mona marble is an ophicalcite from the
-metamorphic series of the Isle of Anglesey, while the "Irish green" of
+metamorphic series of the Isle of [[Anglesey]], while the "Irish green" of
 architects is a similar rock from Connemara in western Galway. It is
 notable that some of the "white marble" of Connemara has been found by
 W. King and T. H. Rowney to consist almost wholly of malacolite, a
 silicate of calcium and magnesium.
 
 A beautiful marble has been worked to a limited extent in the island of
-Tiree, one of the Hebrides, but the quarry appears to be now exhausted.
+Tiree, one of the [[Hebrides]], but the quarry appears to be now exhausted.
 This Tiree marble is a limestone having a delicate carnelian colour
 diffused through it in irregular patches, and containing rounded
 crystals of sahlite, a green augitic mineral resembling malacolite in
@@ -159,7 +159,7 @@ composition.
 Many marbles which are prized for the variegated patterns they display
 owe these patterns to their formation in concentric zones--such marbles
 being in fact stalagmitic deposits of carbonate of lime, sometimes
-consisting of aragonite. One of the most beautiful stalagmitic rocks is
+consisting of [[Aragonite|aragonite]]. One of the most beautiful stalagmitic rocks is
 the so-called onyx marble of Algeria. This stone was largely used in the
 buildings of Carthage and Rome, but the quarries which yielded it were
 not known to modern sculptors until 1849, when it was rediscovered near
@@ -168,25 +168,25 @@ delicately clouded with yellow and brown, and is greatly prized by
 French workmen. Large deposits of a very fine onyx-like marble, similar
 to the Algerian stone, have been worked at Técali, about 35 miles from
 the city of Mexico. Among other stalagmitic marbles, mention may be made
-of the well-known Gibraltar stone, which is often worked into models of
-cannon and other ornamental objects. This stalagmite is much deeper in
+of the well-known [[Gibraltar]] stone, which is often worked into models of
+[[Cannon|cannon]] and other ornamental objects. This stalagmite is much deeper in
 colour and less translucent than the onyx marbles of Algeria and Mexico.
 A richly tinted stalagmitic stone worked in California is known as
 Californian marble. It is worth noting that the "alabaster" of the
 ancients was stalagmitic carbonate of lime, and that this stone is
 therefore called by mineralogists "Oriental alabaster" in order to
 distinguish it from our modern "alabaster," which is a sulphate, and not
-a carbonate, of lime. Gypsum capable of taking a polish is found at
+a carbonate, of lime. [[Gypsum]] capable of taking a polish is found at
 Fauld in Staffordshire and in Italy and Spain.
 
-The brown and yellow colours which stalagmitic marbles usually present
+The brown and yellow [[Colours|colours]] which stalagmitic marbles usually present
 are due to the presence of oxide of iron. This colouring matter gives
 special characters to certain stones, such as the _giallo antico_, or
 antique yellow marble of the Italian antiquaries. Siena marble is a
 reddish mottled stone obtained from the neighbourhood of Siena in
 Tuscany; and a somewhat similar stone is found in King's County,
 Ireland. True red marble is by no means common, but it does occur, of
-bright and uniform colour, though in very small quantity, in the
+[[Bright|bright]] and uniform colour, though in very small quantity, in the
 Carboniferous limestone of Derbyshire and north-east Staffordshire. The
 red marble called _rosso antico_ is often confounded with the _porfiro
 rosso antico_, which is really a mica-hornblende porphyrite owing its
@@ -212,16 +212,16 @@ States have been extensively worked. The crystalline limestones of
 western New England furnish an abundance of white and grey marble, while
 a beautiful material fit for statuary work has been quarried near
 Rutland in Vermont. A grey bird's-eye marble is obtained from central
-New York, and the greyish clouded limestones of Thomaston in Maine have
+New York, and the greyish clouded limestones of Thomaston in [[Maine]] have
 been extensively quarried. Of the variegated and coloured marbles,
 perhaps the most beautiful are those from the northern part of Vermont,
 in the neighbourhood of Lake Champlain. A fine brecciated marble is
 found on the Maryland side of the Potomac, below Point of Rocks. Among
 the principal localities for black marble may be mentioned Shoreham in
 Vermont and Glen Falls in New York. In 1908 the American States
-producing marble were, in order of value, Vermont, Georgia, Tennessee,
+producing marble were, in order of value, Vermont, [[Georgia]], Tennessee,
 New York, Massachusetts, Alabama, Pennsylvania, Maryland, California,
-Colorado, Alaska, N. Carolina, Kentucky, New Mexico, Utah, Missouri and
+Colorado, Alaska, N. Carolina, [[Kentucky]], New Mexico, Utah, Missouri and
 Idaho. In Canada the crystalline limestones of the pre-Cambrian series
 yield beautiful marbles.
 
@@ -236,7 +236,7 @@ Ulwar.     (F. W. R.*)
   bedding or schistosity which would tend to make them fissile, but are
   entirely massive and free from grain. The microstructure of pure
   marble is comparatively simple. In thin sections they are seen to be
-  built up of somewhat rounded grains of calcite, fitting closely
+  built up of somewhat rounded grains of [[Calcite|calcite]], fitting closely
   together in a mosaic; very rarely do any grains show traces of
   crystalline form. They are colourless and transparent, and are usually
   traversed by a lattice-work of sharply defined cleavage cracks, which
@@ -252,23 +252,23 @@ Ulwar.     (F. W. R.*)
   many of these rocks they form a considerable proportion of the whole
   mass. The commonest are quartz in small rounded grains, scales of
   colourless or pale yellow mica (muscovite and phlogopite), dark
-  shining flakes of graphite and small crystals of pyrites or iron
+  shining flakes of [[Graphite|graphite]] and small crystals of pyrites or iron
   oxides. Even fine Carrara marble leaves a residue of this sort when
   dissolved in acid. Many marbles contain other minerals which are
   usually silicates of lime or magnesia. The list of these accessories
   is a very large one. Augite is very frequent and may be white
-  (malacolite) or pale green (coccolite, sahlite, diopside); hornblende
+  (malacolite) or pale green (coccolite, sahlite, diopside); [[Hornblende|hornblende]]
   occurs as white bladed tremolite or pale green actinolite; feldspars
   may be present also, such as orthoclase, or more frequently some
-  plagioclase such as albite, labradorite and anorthite; scapolite (or
-  wernerite); various kinds of garnet; vesuvianite, spinel, forsterite,
-  periclase, brucite, talc, zoisite and epidote, chondrodite, biotite,
-  datolite, sphene and apatite may be mentioned as typical accessory
-  minerals. The presence of metalliferous minerals such as galena, grey
-  or red silver ores, zinc blende, antimonite, chalcopyrite,
-  molybdenite, cassiterite, usually indicates impregnation by
+  plagioclase such as albite, [[Labradorite|labradorite]] and anorthite; scapolite (or
+  wernerite); various kinds of [[Garnet|garnet]]; vesuvianite, spinel, forsterite,
+  periclase, brucite, talc, zoisite and [[Epidote|epidote]], chondrodite, biotite,
+  datolite, sphene and [[Apatite|apatite]] may be mentioned as typical accessory
+  minerals. The presence of metalliferous minerals such as [[Galena|galena]], grey
+  or red silver ores, zinc [[Blende|blende]], antimonite, chalcopyrite,
+  molybdenite, [[Cassiterite|cassiterite]], usually indicates impregnation by
   ore-bearing solutions, especially if these substances occur in
-  workable quantities. The rubies of Burma are found in crystalline
+  workable quantities. The rubies of [[Burma]] are found in crystalline
   limestones and are constantly accompanied by precious spinel (or
   balas-ruby).
 
@@ -293,7 +293,7 @@ Ulwar.     (F. W. R.*)
   crystalline marbles have originated in this manner. Often bands of
   calc-silicate rock alternate with bands of marble, and they may be
   folded or bent; in other cases, nodules and patches of silicates occur
-  in a matrix of pure marble. Earth movements may shatter the rocks,
+  in a [[Matrix|matrix]] of pure marble. Earth movements may shatter the rocks,
   producing fissures afterwards filled with veins of calcite; in this
   way the beautiful brecciated or veined marbles are produced. Sometimes
   the broken fragments are rolled and rounded by the flow of the marble
@@ -313,7 +313,7 @@ Ulwar.     (F. W. R.*)
   approach great crystalline intrusions of granite is a phenomenon seen
   in many parts of the world; occasionally the recrystallization of the
   rock has not completely obliterated the organic structures (e.g. at
-  Carrara and at Bergen in Norway). The agencies which have induced the
+  Carrara and at [[Bergen]] in Norway). The agencies which have induced the
   metamorphism are heat and pressure, the heat arising from the granite
   and the pressure from overlying masses of rock, for these changes took
   place before the granite cooled and while it was still deeply buried
@@ -331,7 +331,7 @@ Ulwar.     (F. W. R.*)
   sediments or even igneous rocks, but the tendency of modern geology is
   to assume that they were ordinary limestones, many of which may have
   been fossiliferous. In regions where the sedimentary rocks have been
-  converted into schists, gneisses and granulites, the limestones are
+  converted into schists, [[Gneiss|gneisses]] and [[Granulite|granulites]], the limestones are
   represented by calc schists, cipollins and marbles. Often no granite
   or other intrusive rock is present which may be regarded as the cause
   of the metamorphism. The marbles are often banded or schistose, and
@@ -344,11 +344,11 @@ Ulwar.     (F. W. R.*)
   but the rise of temperature and increase of pressure due to the
   folding of great rock masses have probably been the operating causes.
   This type of metamorphism has been distinguished by the name
-  _marmarosis_ (Sir A. Geikie, _Text Book of Geology_, 1882).
+  _marmarosis_ (Sir A. [[Geikie]], _Text Book of Geology_, 1882).
 
   For descriptions of ancient marbles see F. Corsi, _Delle pietre
   antiche_ (Rome, 1845); M. W. Porter, _What Rome was built with_
-  (Oxford, 1907), and for marbles in general consult E. Hull, _Building
+  (Oxford, 1907), and for marbles in general consult E. [[Hull]], _Building
   and Ornamental Stones_ (1872); G. P. Merrill, _Stones for Building and
   Decoration_ (3rd ed., 1905, New York).     (J. S. F.)
 

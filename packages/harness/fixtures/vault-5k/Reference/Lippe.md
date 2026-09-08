@@ -2,7 +2,7 @@
 
 LIPPE, a principality of Germany and constituent state of the German
 empire, bounded N.W., W. and S. by the Prussian province of Westphalia
-and N.E. and E. by the Prussian provinces of Hanover and Hesse-Nassau
+and N.E. and E. by the Prussian provinces of [[Hanover]] and Hesse-Nassau
 and the principality of Waldeck-Pyrmont. It also possesses three small
 enclaves--Kappel and Lipperode in Westphalia and Grevenhagen near
 Höxter. The area is 469 sq. m., and the population (1905) 145,610,
@@ -19,7 +19,7 @@ The valleys contain a considerable amount of good arable land, the
 tillage of which employs the greater part of the inhabitants. Small
 farms, the larger proportion of which are under 2½ acres, are numerous,
 and their yield shows a high degree of prosperity among the peasant
-farmers. The principal crops are potatoes, beetroot (for sugar), hay,
+farmers. The principal crops are potatoes, beetroot (for sugar), [[Hay|hay]],
 rye, oats, wheat and barley. Cattle, sheep and swine are also reared,
 and the "Senner" breed of horses, in the stud farm at Lopshorn, is
 celebrated. The industries are small and consist mainly in the
@@ -36,7 +36,7 @@ Altenbeken; and another from Bielefeld to Hameln traverses it from W. to
 E. More than 95% of the population in 1905 were Protestants. Education
 is provided for by two gymnasia and numerous other efficient schools.
 The principality contains seven small towns, the chief of which are
-Detmold, the seat of government, Lemgo, Horn and Blomberg. The present
+Detmold, the seat of government, Lemgo, [[Horn]] and Blomberg. The present
 constitution was granted in 1836, but it was altered in 1867 and again
 in 1876. It provides for a representative chamber of twenty-one members,
 whose functions are mainly consultative. For electoral purposes the
@@ -46,11 +46,11 @@ Detmold, whence an appeal lies to the court of appeal at Celle in the
 Prussian province of Hanover. The estimated revenue in 1909 was £113,000
 and the expenditure £116,000. The public debt in 1908 was £64,000. Lippe
 has one vote in the German Reichstag, and also one vote in the
-Bundesrat, or federal council. Its military forces form a battalion of
+Bundesrat, or federal council. Its military forces form a [[Battalion|battalion]] of
 the 6th Westphalian infantry.
 
 _History._--The present principality of Lippe was inhabited in early
-times by the Cherusii, whose leader Arminius (Hermann) annihilated in
+times by the Cherusii, whose leader [[Arminius]] ([[Hermann]]) annihilated in
 A.D. 9 the legions of Varus in the Teutoburger Wald. It was afterwards
 occupied by the Saxons and was subdued by Charlemagne. The founder of
 the present reigning family, one of the most ancient in Germany, was
@@ -74,7 +74,7 @@ countship of Schaumburg, including Bückeburg, and adopted the title of
 count of Schaumburg-Lippe. The ruler of this territory became a
 sovereign prince in 1807. Simon VII. had a younger son, Jobst Hermann
 (d. 1678), who founded the line of counts of Lippe-Biesterfeld, and a
-cadet branch of this family were the counts of Lippe-Weissenfeld. In
+[[Cadet|cadet]] branch of this family were the counts of Lippe-Weissenfeld. In
 1762 these two counties--Biesterfeld and Weissenfeld--passed by
 arrangement into the possession of the senior and ruling branch of the
 family. Under the prudent government of the princess Pauline (from 1802
@@ -84,7 +84,7 @@ in 1813 the German Confederation. Pauline's son, Paul Alexander Leopold,
 who reigned from 1820 to 1851, also ruled in a wise and liberal spirit,
 and in 1836 granted the charter of rights upon which the constitution is
 based. In 1842 Lippe entered the German Customs Union (_Zollverein_),
-and in 1866 threw in its lot with Prussia and joined the North German
+and in 1866 threw in its [[Lot|lot]] with Prussia and joined the North German
 Confederation.
 
 
@@ -163,7 +163,7 @@ prince of Lippe.
   Edelherrn im Mittelalter_ (Detmold, 1876); A. Falkmann and O. Preuss,
   _Lippische Regenten_ (Detmold, 1860-1868); H. Triepel, _Der Streit um
   die Thronfolge im Fürstentum Lippe_ (Leipzig, 1903); and P. Laband,
-  _Die Thronfolge im Fürstentum Lippe_ (Freiburg, 1891); and
+  _Die Thronfolge im Fürstentum Lippe_ ([[Freiburg]], 1891); and
   _Schiedsspruch in dem Rechtstreit über die Thronfolge im Fürstentum
   Lippe vom 25 Okt. 1905_ (Leipzig, 1906).
 

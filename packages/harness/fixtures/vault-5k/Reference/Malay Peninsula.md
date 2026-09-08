@@ -24,7 +24,7 @@ Strait of Malacca.
   larger of which lies to the east and the smaller to the west of the
   chain. Smaller ranges run parallel to the main mountain chain in many
   places, and there are numerous isolated spurs which have no connexion
-  with either. The country is covered with limestone in many parts, and
+  with either. The country is covered with [[Limestone|limestone]] in many parts, and
   large isolated bluffs of this formation stand up in the plains both on
   the eastern and the western slopes. The descent from the summits of
   the range into the plain is somewhat less abrupt on the western than
@@ -40,7 +40,7 @@ Strait of Malacca.
   side, between Pahang and Kelantan, and is estimated at about 8000 ft.
   The west coast throughout its whole length is covered to a depth of
   some miles with mangrove swamps, with only a few isolated stretches of
-  sandy beach, the dim foliage of the mangroves and the hideous mud
+  sandy [[Beach|beach]], the dim foliage of the mangroves and the hideous mud
   flats presenting a depressing spectacle. On the east coast the force
   of the north-east monsoon, which beats upon the shores of the China
   Sea annually from November to February, has kept the land for the most
@@ -61,7 +61,7 @@ Strait of Malacca.
   from one river-system to another. The bulk of the jungle, therefore,
   which lies between stream and stream, has never been trodden by the
   foot of man. The principal rivers on the west coast are the Perak, the
-  Bernam and the Muar. The first-named is far finer than its fellows,
+  Bernam and the Muar. The first-named is far finer than its [[Fellows|fellows]],
   and is navigable for steamers for about 40 m. from its mouth, and for
   native craft for over 250 m. It is exceedingly shallow, however, and
   is not of much importance as a waterway. The Bernam runs through flat
@@ -88,8 +88,8 @@ Strait of Malacca.
   all of limestone formation. So far as is known, the Malay Peninsula
   consists of an axial zone of crystalline rocks, flanked on each side
   by an incomplete band of sedimentary deposits. Granite is the most
-  widely spread of the crystalline rocks; but dikes of various kinds
-  occur, and gneiss, schist and marble are also met with. These rocks
+  widely spread of the crystalline rocks; but [[Dike|dikes]] of various kinds
+  occur, and [[Gneiss|gneiss]], schist and marble are also met with. These rocks
   form the greater part of the central range, and they are
   often--especially the granite--decomposed and rotten to a considerable
   depth. The sedimentary deposits include slate, limestone and
@@ -97,7 +97,7 @@ Strait of Malacca.
   yielded _Proetus_, _Chonetes_ and other fossils, and is believed to be
   of Carboniferous age. In the sandstone Myophoria and other Triassic
   fossils have been found, and it appears to belong to the Rhaetic or
-  Upper Trias.[1] The minerals produced are tin, gold, iron, galena and
+  Upper Trias.[1] The minerals produced are tin, gold, iron, [[Galena|galena]] and
   others, in insignificant quantities.
 
   The tin occurs in the form of cassiterite, and is found chiefly in or
@@ -117,7 +117,7 @@ Strait of Malacca.
   _Climate, &c._--It was formerly the custom to speak of the Malay
   Peninsula as an unhealthy climate, and even to compare it with the
   west coast of Africa. It is now generally admitted, however, that,
-  though hot, it compares favourably with that of Burma. The chief
+  though hot, it compares favourably with that of [[Burma]]. The chief
   complaint which Europeans make concerning it is the extreme humidity,
   which causes the heat to be more oppressive than is the case where the
   air is dry. On the other hand, the thermometer, even at Singapore on
@@ -133,7 +133,7 @@ Strait of Malacca.
   by a heavy downpour of short duration, are more common than persistent
   rain. The rainfall on the west coast varies from 75 to 120 in. per
   annum, and that of the east coast, where the north-east monsoon breaks
-  with all its fury, is usually about 155 in. per annum. Malarial fevers
+  with all its fury, is usually about 155 in. per annum. Malarial [[Fever|fevers]]
   make their appearance in places where the forest has been recently
   felled, or where the surface earth has been disturbed. It is noticed
   that labourers employed in deep mines worked by shafts suffer less
@@ -162,7 +162,7 @@ Strait of Malacca.
   hereditary diseases are rare among them. There is little leprosy in
   the peninsula, but there is a leper hospital near Penang on Pula
   Deraja and another on an island on the west coast for the reception of
-  lepers from the Federated Malay States.
+  lepers from the Federated [[Malay States]].
 
   _Flora and Fauna._--The soil of the peninsula is remarkably fertile
   both in the plains and on the mountain slopes. In the vast forests the
@@ -181,7 +181,7 @@ Strait of Malacca.
   _duri-an_, mangosteen, custard-apple, pomegranate, _rambut-an_,
   _pulas-an_, _langsat_, _rambai_, jack-fruit, coco-nut, areca-nut,
   sugar-palm, and banana. Coffee, tobacco, sugar-cane, rice, pepper,
-  gambier, cotton and sago are cultivated with success. Great
+  [[Gambier|gambier]], cotton and sago are cultivated with success. Great
   developments have been made of recent years in the cultivation of
   rubber in British Malaya. The principal jungle products are gutta and
   rubber of several varieties, and many kinds of rattan. The mangrove
@@ -194,10 +194,10 @@ Strait of Malacca.
   honey bear (_bruang_), the tapir, the sambhur (_rusa_); the speckled
   deer (_kijang_), three varieties of mouse-deer (_napoh_, _plandok_ and
   _kanchil_); the gibbon (_ungka_ or _wawa'_), the _siamang_, another
-  species of anthropoid ape, the _brok_ or coco-nut monkey, so called
+  species of anthropoid [[Ape|ape]], the _brok_ or coco-nut monkey, so called
   because it is trained by the Malays to gather the nuts from the
   coco-nut trees, the _lotong_, _kra_, and at least twenty other kinds
-  of monkey; the _binturong_ (_arctictis binturong_), the lemur; the
+  of monkey; the _binturong_ (_arctictis binturong_), the [[Lemur|lemur]]; the
   Asiatic tiger, the black panther, the leopard, the large wild cat
   (_harimau akar_), several varieties of jungle cat; the wild boar, the
   wild dog; the flying squirrel, the flying fox; the python, the cobra,
@@ -210,10 +210,10 @@ Strait of Malacca.
   teal, cotton-teal, snipe, wood-pigeon, green-pigeon of several
   varieties, swifts, swallows, pied-robins, hornbills, parakeets,
   fly-catchers, nightjars, and many other kinds of bird are met with
-  frequently. A few specimens of solitary goose have been procured, but
-  the bird is rarely met with. The forests literally swarm with insects
+  frequently. A few specimens of solitary [[Goose|goose]] have been procured, but
+  the bird is rarely met with. The forests literally swarm with [[Insect|insects]]
   of all kinds, from _cicadae_ to beautiful butterflies, and from stick-
-  and leaf-insects to endless varieties of ants. The scorpion and the
+  and [[Leaf-Insect|leaf-insects]] to endless varieties of ants. The scorpion and the
   centipede are both common. The study of the insect life of the
   peninsula opens a splendid field for scientific research, and the
   profusion and variety of insects found in these forests probably
@@ -268,11 +268,11 @@ which most of the races of Asia find their representatives.
   of it are found scattered about the islands from the Andaman group
   southwards. The state of civilization to which they have attained is
   very low. They neither plant nor have they any manufactures except
-  their rude bamboo and rattan vessels, the fish and game traps which
-  they set with much skill, and the bows, blow-pipes and bamboo spears
+  their rude bamboo and rattan vessels, the fish and [[Game|game]] traps which
+  they set with much skill, and the [[Bow|bows]], blow-pipes and bamboo spears
   with which they are armed. They are skilful hunters, however, catch
   fish by ingeniously constructed traps, and live almost entirely on
-  jungle-roots and the produce of their hunting and fishing. The most
+  jungle-roots and the produce of their [[Hunting|hunting]] and fishing. The most
   civilized of these people is found in Upper Perak, and the members of
   this clan have acquired some knowledge of the art of planting, &c.
   They cannot, however, be taken as typical of their race, and other
@@ -313,7 +313,7 @@ which most of the races of Asia find their representatives.
   affinity to the people of the Mon-Khmer races than to the Malayan
   stock. Though they now use metal tools imported by the Malays, it is
   noticeable that the names which they give to those weapons which most
-  closely resemble in character the stone implements found in such
+  closely resemble in character the stone [[Implement|implements]] found in such
   numbers all over the peninsula are native names wholly unconnected
   with their Malay equivalents. On account of this, it has been
   suggested that in a forgotten past the Sakai were themselves the
@@ -330,7 +330,7 @@ which most of the races of Asia find their representatives.
   occupying this position, thus indicating that they have been driven
   northward by the Malays, and that the latter people has not been
   expelled by the Mon-Khmer races from the countries now represented by
-  Burma, Siam and French Indo-China. The Sakai population is dying out,
+  Burma, Siam and French [[Indo-China]]. The Sakai population is dying out,
   and must eventually disappear. (With regard to the Malay, see MALAYS.)
 
   _Archaeology._--The only ancient remains found in the peninsula are
@@ -338,7 +338,7 @@ which most of the races of Asia find their representatives.
   remarkable ancient mines, which are situated in the Jelai valley in
   Pahang. The stone implements are generally of one or two types: a long
   rectangular adze or wedge rudely pointed at one end, and used in
-  conjunction with a mallet or flat stone, and a roughly triangular
+  conjunction with a [[Mallet|mallet]] or flat stone, and a roughly triangular
   axe-head, which has evidently been fixed in the cleft of a split
   stick. A few stones, which might perhaps be arrowheads, have been
   found, but they are very rare. The mines, which have been constructed
@@ -364,14 +364,14 @@ which most of the races of Asia find their representatives.
   remains are found in Java and elsewhere, whose influence was at one
   time widespread throughout Malayan lands, and of whose religious
   teaching remnants still linger in the superstitions of the Malays and
-  are preserved in some purity in Lombok and Bali. In the absence,
+  are preserved in some purity in Lombok and [[Bali]]. In the absence,
   however, of any relics of a kind which might lead to the
-  identification of the ancient miners, their nationality and origin are
+  [[Identification|identification]] of the ancient miners, their nationality and origin are
   matters which must continue to be mere questions of speculation and
   conjecture.
 
 _History._--The first hint to reach Europe concerning the existence of
-habitable lands to the eastward of the Ganges is to be found in the
+habitable lands to the eastward of the [[Ganges]] is to be found in the
 writings of Pomponius Mela (A.D. 43) which speak of Chryse, or the
 Golden Isle, as lying off Cape Tamus--supposed to be the most easterly
 point in Asia--and over against the estuary of the Ganges. Thereafter
@@ -379,7 +379,7 @@ there occur vague references to Chryse in the _Periplus of the Erythrean
 Sea_, &c., but the earliest trace of anything resembling first-hand
 knowledge concerning the peninsula of Indo-China and Malaya is revealed
 in the writings of Ptolemy, whose views were mainly derived from those
-of his predecessor Marinus of Tyre, who in his turn drew his deductions
+of his predecessor [[Marinus Of Tyre|Marinus of Tyre]], who in his turn drew his deductions
 from information supplied to him by the mariner Alexander who, there is
 every reason to think, had himself voyaged to the Malay Peninsula and
 beyond. In the light of present knowledge concerning the trade-routes of
@@ -398,11 +398,11 @@ century, Josephus says that Solomon gave to the pilots furnished to him
 by Hiram of Tyre commands "that they should go along with his stewards
 to the land that of old was called Ophir, but now the Aurea Chersonesus,
 which belongs to India, to fetch gold." After the time of Ptolemy no
-advance in knowledge concerning the geography of south-eastern Asia was
+advance in knowledge concerning the [[Geography|geography]] of south-eastern Asia was
 made until Cosmas Indicopleustes, a monk and an Alexandrian Greek, wrote
 from personal knowledge between A.D. 530 and 550. His primary object was
 to prove that the world was built after the same shape and fashion as
-the Ark made by the Children of Israel in the desert; but he was able to
+the Ark made by the Children of Israel in the [[Desert|desert]]; but he was able to
 show that the Malay Peninsula had to be rounded and thereafter a course
 steered in a northerly direction if China was to be reached. Meanwhile
 inter-Asiatic intercourse by means of sea-routes had been steadily on
@@ -411,7 +411,7 @@ to sail directly to and fro across the Indian Ocean (attributed to the
 Greek pilot Hippalus) had been made. After the decline of the power of
 Rome, the dominant force in Asiatic commerce and navigation was Persia,
 and from that time onward, until the arrival of the Portuguese upon the
-scene early in the 16th century the spice trade, whose chief emporia
+scene early in the 16th century the spice trade, whose chief [[Emporia|emporia]]
 were in or near the Malay Peninsula, was in Persian or Arab hands.
 There is considerable reason to think, however, that the more frequent
 ports of call in the Straits of Malacca were situated in Sumatra, rather
@@ -434,14 +434,14 @@ prepared for them by their forebears, broke down the Hindu monopoly and
 ousted the earlier exploiters so effectually that by the beginning of
 the 16th century the spice trade was almost exclusively in their hands.
 These traders were also missionaries of their religion, as indeed is
-every Mahommedan, and to them is due the conversion of the Malays from
+every Mahommedan, and to them is due the [[Conversion|conversion]] of the Malays from
 rude pantheism, somewhat tinctured by Hindu mythology, to the Mahommedan
 creed. The desire to obtain the monopoly of the spice trade has been a
 potent force in the fashioning of Asiatic history. The Moluccas were,
 from the first, the objective of the Portuguese invaders, and no sooner
 had the white men found their way round the Cape of Good Hope and
 established themselves successively upon the coast of East Africa, in
-the neighbourhood of the Gulf of Aden and the Malabar coast, than
+the neighbourhood of the Gulf of Aden and the [[Malabar]] coast, than
 Malacca, then the chief trading centre of the Malayan Archipelago,
 became the object of their desire. The first Portuguese expedition sent
 out to capture Malacca was under the command of Diogo Lopez de Siqueira
@@ -474,7 +474,7 @@ the Moluccas. Very soon the spice trade had become a Portuguese
 monopoly, and Malacca was the great headquarters of the trade. It should
 moreover be noted that Magellan's famous expedition had for its object
 not the barren feat of circumnavigation but the breaking down of this
-monopoly, without violating the terms of the papal bull which gave to
+monopoly, without violating the terms of the papal [[Bull|bull]] which gave to
 Spain the conquest of the West, to Portugal the possession of the East.
 In 1528 a French expedition sailed from Dieppe, penetrated as far as
 Achin in Sumatra, but returned without reaching the Malay Peninsula. It
@@ -516,8 +516,8 @@ of Kelantan, Trengganu, Kedah and Perlis to Britain.
 Singapore is the political, commercial and administrative headquarters
 of the colony of the Straits Settlements, and the governor for the time
 being is _ex officio_ high commissioner of the Federated Malay States,
-British North Borneo, Sarawak, the Cocos-Keeling and Christmas Islands,
-and governor of Labuan.
+British North Borneo, Sarawak, the Cocos-Keeling and [[Christmas]] Islands,
+and governor of [[Labuan]].
 
   See Sir F. Swettenham, _British Malaya_ (1906); H. Clifford, _Further
   India_ (1904); _Journal of the Malay Archipelago_, Logan (Singapore);

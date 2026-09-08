@@ -11,7 +11,7 @@ Union. In 1860 he was commissioned by the United States Congress to
 decorate a stairway in the Capitol at Washington, for which he painted a
 large composition, "Westward the Star of Empire takes its Way." His
 best-known work, popular through engraving, is "Washington crossing the
-Delaware," a large canvas containing a score of life-sized figures; it
+[[Delaware]]," a large canvas containing a score of life-sized figures; it
 is now owned by the Metropolitan Museum of Art, New York. He became a
 member of the National Academy of Design in 1860, and died at
 Washington, D.C., on the 18th of July 1868.

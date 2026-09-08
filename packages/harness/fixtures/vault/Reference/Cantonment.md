@@ -16,7 +16,7 @@ therefore taken the place, in modern warfare, of the old long
 rectilinear lines of tents that marked the resting-place and generally,
 too, the order of battle of an 18th-century army. The greater part of an
 army operating in Europe at the present day is accommodated in
-widespread cantonments, an army corps occupying the villages and farms
+widespread cantonments, an army [[Corps|corps]] occupying the villages and farms
 found within an area of 4 m. by 5 or 6. This allowance of space has been
 ascertained by experience to be sufficient, not only for comfort, but
 also for subsistence for one day, provided that the density of the
@@ -39,13 +39,13 @@ afford the time either for dispersing into quarters or for rallying on
 an alarm, and in western Europe at any rate they are required to
 bivouac. In India, the term "cantonment" means more generally a military
 station or standing camp. The troops live, not in private houses, but in
-barracks, huts, forts or occasionally camps. The large cantonments are
+[[Barracks|barracks]], huts, forts or occasionally camps. The large cantonments are
 situated in the neighbourhood of the North-Western frontier, of the
 large cities and of the capitals of important native states. Under Lord
 Kitchener's redistribution of the Indian army in 1903, the chief
-cantonments are Rawalpindi, Quetta, Peshawar, Kohat, Bannu, Nowshera,
+cantonments are Rawalpindi, Quetta, Peshawar, [[Kohat]], [[Bannu]], Nowshera,
 Sialkot, Mian Mir, Umballa, Muttra, Ferozepore, Meerut, Lucknow, Mhow,
-Jubbulpore, Bolarum, Poona, Secunderabad and Bangalore.
+[[Jubbulpore]], Bolarum, Poona, Secunderabad and Bangalore.
 
 ## See also
 

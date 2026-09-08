@@ -4,9 +4,9 @@ HERKIMER, a village and the county-seat of Herkimer county, New York,
 U.S.A., in the township of the same name, on the Mohawk river, about 15
 m. S.E. of Utica. Pop. (1900) 5555 (724 being foreign-born); (1905,
 state census) 6596; (1910) 7520. It is served by the New York Central &
-Hudson River railway, a branch of which (the Mohawk & Malone railway)
+[[Hudson]] River railway, a branch of which (the Mohawk & [[Malone]] railway)
 extends through the Adirondacks to Malone, N.Y.; by inter-urban electric
-railway to Little Falls, Syracuse, Richfield Springs, Cooperstown and
+railway to [[Little Falls]], Syracuse, Richfield Springs, [[Cooperstown]] and
 Oneonta, and by the Erie canal. The village has a public library, and is
 the seat of the Folts Mission Institute (opened 1893), a training school
 for young women, controlled by the Women's Foreign Missionary Society of
@@ -20,7 +20,7 @@ settled about 1725 by Palatine Germans, who bought from the Mohawk
 Indians a large tract of land including the present site of the village
 and established thereon several settlements which became known
 collectively as the "German Flats." In 1756 a stone house, built in 1740
-by General Herkimer's father, John Jost Herkimer (d. 1775)--apparently
+by General Herkimer's father, John [[Jost]] Herkimer (d. 1775)--apparently
 one of the original group of settlers--a stone church, and other
 buildings, standing within what is now Herkimer village, were enclosed
 in a stockade and ditch fortifications by Sir William Johnson, and this
@@ -39,7 +39,7 @@ by Indians and "Tories" in September 1778 and in June 1782. The township
 of Herkimer was organized in 1788, and in 1807 the village was
 incorporated.
 
-  See Nathaniel I. Benton, _History of Herkimer County_ (Albany, 1856);
+  See Nathaniel I. [[Benton]], _History of Herkimer County_ (Albany, 1856);
   and Phoebe S. Cowen, _The Herkimers and Schuylers_, (1903).
 
 ## See also

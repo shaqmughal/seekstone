@@ -13,7 +13,7 @@ the Milde, 20 m. W. from Stendal, on the main line of railway
 Berlin-Hanover. Pop. (1905) 8193. It has a Roman Catholic and three
 Evangelical churches, a hospital, founded in 1285, and a high-grade
 school. There are considerable manufactures, notably agricultural
-machinery and buttons, and its beer has a great repute. Gardelegen was
+machinery and buttons, and its [[Beer|beer]] has a great repute. Gardelegen was
 founded in the 10th century, and was for a long time the seat of a line
 of counts. It suffered considerably in the Thirty Years' War, and in
 1775 was burned by the French. On the neighbouring heath Margrave Louis

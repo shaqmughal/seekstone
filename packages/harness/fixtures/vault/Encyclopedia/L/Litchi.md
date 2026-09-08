@@ -19,14 +19,14 @@ substance. The pulp is of the nature of an aril, that is, an additional
 seed-coat.
 
   _Nephelium Longana_, the longan tree, also a native of southern China,
-  is cultivated in that country, in the Malay Peninsula, India and
+  is cultivated in that country, in the [[Malay Peninsula]], India and
   Ceylon for its fruit, which is smaller than that of the litchi, being
-  half an inch to an inch in diameter with a nearly smooth
+  half an [[Inch|inch]] to an inch in diameter with a nearly smooth
   yellowish-brown brittle skin, and containing a pulpy aril resembling
   that of the litchi in flavour. Another species, _N. lappaceum_, a tall
   tree native of the Malay Peninsula, where it is known under the names
   Rambutan or Rambosteen, is also cultivated for its pleasantly acid
-  pulpy aril. The fruit is oval, bright red in colour, about 2 in. long
+  pulpy aril. The fruit is oval, [[Bright|bright]] red in colour, about 2 in. long
   and covered with long fleshy hairs.
 
   _Nephelium_ belongs to the natural order Sapindaceae, and contains

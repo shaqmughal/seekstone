@@ -21,11 +21,11 @@ and in the familiar Agen _patois_--the popular speech of the working
 classes--in which he was to achieve all his literary triumphs. Jasmin
 was the most famous forerunner in Provençal literature (q.v.) of Mistral
 and the _Félibrige_. His influence in rehabilitating, for literary
-purposes, his native dialect, was particularly exercised in the public
+purposes, his native [[Dialect|dialect]], was particularly exercised in the public
 recitals of his poems to which he devoted himself. His poetic gift, and
 his flexible voice and action, fitted him admirably for this double rôle
 of troubadour and jongleur. In 1835 he recited his "Blind Girl of
-Castel-Cuillé" at Bordeaux, in 1836 at Toulouse; and he met with an
+Castel-Cuillé" at [[Bordeaux]], in 1836 at Toulouse; and he met with an
 enthusiastic reception in both those important cities. Most of his
 public recitations were given for benevolent purposes, the proceeds
 being contributed by him to the restoration of the church of Vergt and
@@ -49,7 +49,7 @@ Française, and a pension was awarded him. The medal struck on the
 occasion bore the inscription: _Au poëte moral et populaire_. His title
 of "Maistre ès Jeux" is a distinction only conferred by the academy of
 Toulouse on illustrious writers. Pius IX. sent him the insignia of a
-knight of St Gregory the Great, and he was made chevalier of the Legion
+[[Knight|knight]] of St Gregory the Great, and he was made [[Chevalier|chevalier]] of the [[Legion]]
 of Honour. He spent the latter years of his life on a small estate which
 he had bought near Agen and named "Papillotos," and which he describes
 in _Ma Bigno_ ("My Vine"). Though invited to represent his native city,

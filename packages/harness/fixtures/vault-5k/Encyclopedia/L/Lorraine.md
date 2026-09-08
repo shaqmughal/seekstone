@@ -19,10 +19,10 @@ _Lorraine in Medieval Times._--The original kingdom of Lorraine was the
 northern part of the territories allotted by the treaty of Verdun
 (August 843) to the emperor Lothair I., and in 855 formed the
 inheritance of his second son, King Lothair. This kingdom of Lorraine
-was situated between the realms of the East and the West Franks, and
+was situated between the realms of the East and the West [[Frank|Franks]], and
 originally extended along the North Sea between the mouths of the Rhine
-and the Ems, including the whole or part of Frisia and the cities on the
-right bank of the Rhine. From Bonn the frontier followed the Rhine as
+and the [[Ems]], including the whole or part of Frisia and the cities on the
+right bank of the Rhine. From [[Bonn]] the frontier followed the Rhine as
 far as its confluence with the Aar, which then became the boundary,
 receding from the left bank in the neighbourhood of Bingen so as to
 leave the cities of Worms and Spires to Germany, and embracing the duchy
@@ -32,7 +32,7 @@ for some distance, and finally the valleys of the Meuse and the Scheldt.
 Thus the kingdom roughly comprised the region watered by the Moselle
 and the Meuse, together with the dioceses of Cologne, Trier, Metz,
 Toul, Verdun, Liége and Cambrai, Basel, Strassburg and Besançon, and
-corresponded to what is now Holland and Belgium, parts of Rhenish
+corresponded to what is now Holland and [[Belgium]], parts of Rhenish
 Prussia, of Switzerland, and of the old province of Franche-Comté, and
 to the district known later as Upper Lorraine, or simply Lorraine.
 Though apparently of an absolutely artificial character, this kingdom
@@ -123,10 +123,10 @@ died without issue, and Henry, who is sometimes regarded as the ancestor
 of the landgraves of Thuringia. The duchy of Lower Lorraine, sometimes
 called _Lothier_ (_Lotharium_), was then given to Godfrey (d. 1023), son
 of Count Godfrey of Verdun, and for some time the history of Lorraine is
-the history of the attempts made by the dukes of Lothier to seize Upper
+the history of the attempts made by the [[Dukes|dukes]] of Lothier to seize Upper
 Lorraine. Gothelon (d. 1043), son of Duke Godfrey, obtained Lorraine at
 the death of Frederick II., duke of Upper Lorraine, in 1027, and
-victoriously repulsed the incursions of Odo (Eudes) of Blois, count of
+victoriously repulsed the incursions of Odo (Eudes) of [[Blois]], count of
 Champagne, who was defeated and killed in a battle near Bar (1037). At
 Gothelon's death in 1043, his son Godfrey the Bearded received from the
 emperor only Lower Lorraine, his brother Gothelon II. obtaining Upper
@@ -137,7 +137,7 @@ been granted by the emperor Henry III. The attempt, however, also
 failed; and Godfrey was for some time deprived of his own duchy of Lower
 Lorraine in favour of Frederick of Luxemburg. Godfrey took part in the
 struggles of Pope Leo IX. against the Normans in Italy, and in 1053
-married Beatrice, daughter of Duke Frederick of Upper Lorraine and widow
+married [[Beatrice]], daughter of Duke Frederick of Upper Lorraine and widow
 of Boniface, margrave of Tuscany. On the death of Frederick of Luxemburg
 in 1065 the emperor Henry IV. restored the duchy of Lower Lorraine to
 Godfrey, who retained it till his death in 1069, when he was succeeded
@@ -145,23 +145,23 @@ by his son Godfrey the Hunchback (d. 1076), after whose death Henry IV.
 gave the duchy to Godfrey of Bouillon, the hero of the first crusade,
 son of Eustace, count of Boulogne, and Ida, sister of Godfrey the
 Hunchback. On the death of Godfrey of Bouillon in 1100 Lower Lorraine
-was given to Henry, count of Limburg. The new duke supported the emperor
+was given to Henry, count of [[Limburg]]. The new duke supported the emperor
 Henry IV. in his struggles with his sons, and in consequence was deposed
 by the emperor Henry V., who gave the duchy in 1106 to Godfrey, count of
 Louvain, a descendant of the Lotharingian dukes of the beginning of the
-10th century. This Godfrey was the first hereditary duke of Brabant, as
+10th century. This Godfrey was the first hereditary duke of [[Brabant]], as
 the dukes of Lower Lorraine came to be called.
 
 _Upper Lorraine._--The duchy of Upper Lorraine, or Lorraine _Mosellana_,
 to which the name of Lorraine was restricted from the 11th century,
 consisted of a tract of undulating country watered by the upper course
 of the Meuse and Moselle, and bounded N. by the Ardennes, S. by the
-table-land of Langres, E. by the Vosges and W. by Champagne. Its
+table-land of [[Langres]], E. by the Vosges and W. by Champagne. Its
 principal fiefs were the countship of Bar which Otto the Great gave in
 951 to Count Frederick of Ardenne, and which passed in 1093 to the lords
 of Montbéliard; the countship of Chiny, formed at the end of the 10th
 century, of which, since the 13th, Montmédy was the capital; the
-lordship of Commercy, whose rulers bore the special title of
+lordship of [[Commercy]], whose rulers bore the special title of
 _damoiseau_, and which passed in the 13th century to the house of
 Saarebrücken; and, finally the three important ecclesiastical lordships
 of the bishops of Metz, Toul and Verdun. Theodoric, or Thierri (d.
@@ -173,14 +173,14 @@ Lorraine was given by the emperor Henry III. to Albert of Alsace, and
 passed in 1048 to Albert's brother Gerard, who died by poison in 1069,
 and who was the ancestor of the hereditary house of Lorraine. Until the
 15th century the representatives of the hereditary house were Theodoric
-II., called the Valiant (1069-1115), Simon (1115-1139), Matthew
+II., called the Valiant (1069-1115), Simon (1115-1139), [[Matthew]]
 (1139-1176), Simon II. (1176-1205), Ferri I. (1205-1206), Ferri II.
 (1206-1213), Theobald (Thibaut) I. (1213-1220), Matthew II. (1220-1251),
 Ferri III. (1251-1304), Theobald II. (1304-1312), Ferri IV., called the
 Struggler (1312-1328), Rudolph, or Raoul (1328-1346), John (1346-1391)
 and Charles II. or I., called the Bold (1391-1431). The 12th century and
 the first part of the 13th were occupied with wars against the counts of
-Bar and Champagne. Theobald I. intervened in Champagne to support Erard
+Bar and Champagne. Theobald I. intervened in Champagne to support [[Erard]]
 of Brienne against the young count Theobald IV. The regent of Champagne,
 Blanche of Navarre, succeeded in forming against the duke of Lorraine a
 coalition consisting of the count of Bar and the emperor Frederick II.,
@@ -197,7 +197,7 @@ from the charter of Beaumont in Argonne, which was at first extended to
 the Barrois and was granted by Ferri, in spite of the hostility of his
 barons, to La Neuveville in 1257, to Frouard in 1263 and to Lunéville in
 1265. In the church lands the bishops of Toul and Metz granted liberties
-from the end of the 12th century to the communes in their lordship, but
+from the end of the 12th century to the [[Commune|communes]] in their lordship, but
 not the Beaumont charter, which, however, obtained in the diocese of
 Verdun in the 14th and 15th centuries.
 
@@ -211,14 +211,14 @@ killed (2nd of July 1431). The negotiations between René's wife and
 Anthony had no result, in spite of the intervention of the council of
 Basel and the emperor Sigismund, and it was not until 1436 that René
 obtained his liberty by paying a ransom of 200,000 crowns, and was
-enabled to dispute with Alfonso of Aragon the kingdom of Naples, which
+enabled to dispute with Alfonso of [[Aragon]] the kingdom of Naples, which
 he had inherited in the previous year. In 1444 Charles VII. of France
 and the dauphin Louis went to Lorraine, accompanied by envoys from Henry
 VI. of England, and procured a treaty (confirmed at Chalons in 1445), by
 which Yolande, René's eldest daughter, married Anthony's son, Ferri of
 Vaudemont, and René's second daughter Margaret became the wife of Henry
 VI. of England. After his return to Lorraine in 1442, René was seldom in
-the duchy. Like his successor John, duke of Calabria, who died in 1470,
+the duchy. Like his successor John, duke of [[Calabria]], who died in 1470,
 he was continually occupied with expeditions in Italy or in Spain.
 John's son and successor, Nicholas (d. 1473), who supported the duke of
 Burgundy, Charles the Bold, against the king of France, died without
@@ -253,7 +253,7 @@ forced to retreat with heavy loss before the energetic resistance of
 Duke Francis of Guise. On leaving Lorraine, Henry II. took Charles to
 France, brought him up at the court and married him to his daughter
 Claude. After the accession of Francis II., the young duke returned to
-Lorraine, and, while his cousins the Guises endeavoured to make good the
+Lorraine, and, while his [[Cousin|cousins]] the Guises endeavoured to make good the
 claims of the house of Lorraine to the crown of France by virtue of its
 descent from the Carolingians through Charles, the son of Louis
 d'Outremer, he devoted himself mainly to improving the administration of
@@ -266,7 +266,7 @@ promulgating edicts against vagabonds. His duchy suffered considerably
 from the passage of German bands on their way to help the Protestants in
 France, and also from disturbances caused by the progress of Calvinism,
 especially in the neighbourhood of the three bishoprics. To combat
-Calvinism Charles had recourse to the Jesuits, whom he established at
+Calvinism Charles had recourse to the [[Jesuits]], whom he established at
 Pont-à Mousson, and to whom he gave over the university he had founded
 in that town in 1572. To this foundation he soon added chairs of
 medicine and law, the first professor of civil law being the _maître des
@@ -281,7 +281,7 @@ beginning of the reign of Louis XIII. Charles embroiled himself with
 France by harbouring French malcontents. Louis entered Lorraine, and by
 the treaty of Vic (31st of December 1631) bound over Charles to desist
 from supporting the enemies of France, and compelled him to cede the
-fortress of Marsal. Charles's breach of this treaty led to a renewal of
+fortress of Marsal. Charles's [[Breach|breach]] of this treaty led to a renewal of
 hostilities, and the French troops occupied St Mihiel, Bar-le-duc,
 Pont-à-Mousson and Nancy, which the duke was forced to cede for four
 years (1633). In 1632, by the treaty of Liverdun, he had already had to
@@ -301,7 +301,7 @@ did not recover his liberty until the peace of the Pyrenees in 1659. On
 the 28th of February 1661 the duchies of Lorraine and Bar were restored
 to him by the treaty of Vincennes, on condition that he should demolish
 the fortifications of Nancy and cede Clermont, Saarburg and Pfalzburg.
-In 1662 Hugues de Lionne negotiated with him the treaty of Montmartre,
+In 1662 Hugues de [[Lionne]] negotiated with him the treaty of Montmartre,
 by which Charles sold the succession to the duchy to Louis XIV. for a
 life-rent; but the Lorrainers, perhaps with the secret assent of their
 prince, refused to ratify the treaty. Charles, too, was accused of
@@ -314,7 +314,7 @@ forcing him to capitulate at Trier. On the 18th of September 1675 died
 this adventurous prince, who, as Voltaire said, passed his life in
 losing his estates. His brother Francis, in favour of whom he had
 abdicated, was a cardinal at the age of nineteen and subsequently bishop
-of Toul, although he had never taken orders. He obtained a dispensation
+of Toul, although he had never taken orders. He obtained a [[Dispensation|dispensation]]
 to marry his cousin, Claude of Lorraine, and died in 1670. He had one
 son, Charles, who in 1675 took the title of duke of Lorraine and was
 recognized by all the powers except France. After an unsuccessful
@@ -336,7 +336,7 @@ trebling itself between the years 1699 and 1735. Leopold welcomed French
 immigrants, and devoted himself to the development of commerce and
 industry, particularly to the manufacture of stuffs and lace, glass and
 paper. He was responsible, too, for the compilation of a body of law
-which was known as the "Code Léopold." Some time after his death, which
+which was known as the "[[Code]] Léopold." Some time after his death, which
 occurred on the 27th of March 1729, his heir Francis III. was betrothed
 to Maria Theresa of Austria, the daughter and heiress of the emperor
 Charles VI. France, however, could not admit the possibility of a union
@@ -358,7 +358,7 @@ At his death in February 1766 the two duchies of Lorraine and Bar became
 definitively incorporated in the kingdom of France. The treaties of 1735
 and 1736, however, guaranteed their legislation, the privileges enjoyed
 by the three orders, and their common law and customs tariffs, which
-they retained until the French Revolution. Lorraine and Barrois formed a
+they retained until the [[French Revolution]]. Lorraine and Barrois formed a
 large government corresponding, together with the little government of
 the three bishoprics, to the _intendance_ of Lorraine and the
 _généralité_ of Metz. For legal purposes, Metz had been the seat of a

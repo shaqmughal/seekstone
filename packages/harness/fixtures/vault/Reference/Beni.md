@@ -1,7 +1,7 @@
 # Beni
 
 BENI, a river of Bolivia, a tributary of the Madeira, rising in the
-elevated Cordilleras near the city of La Paz and at first known as the
+elevated [[Cordillera|Cordilleras]] near the city of La Paz and at first known as the
 Rio de La Paz, and flowing east, and north-east, to a junction with the
 Mamore at 10 deg. 20' S. lat. to form the Madeira. Fully one-half of its
 length is through the mountainous districts of central Bolivia, where it

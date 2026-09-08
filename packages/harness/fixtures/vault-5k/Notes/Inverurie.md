@@ -18,7 +18,7 @@ railway. Inverurie belongs to the Elgin district group of parliamentary
 burghs. At Harlaw, about 3 m. to the N.W., was fought in 1411 the great
 battle between Donald, lord of the Isles, and the royal forces under the
 earl of Mar. Not far from the scene of this conflict stands Balquhain
-Castle, a seat of the Leslies, now a mere shell, which was occupied by
+Castle, a seat of the [[Leslie|Leslies]], now a mere shell, which was occupied by
 Queen Mary in September 1562 before the fight at Corrichie between her
 forces, led by the earl of Moray, and those of the earl of Huntly. The
 granite block from which she is said to have viewed the combat is still

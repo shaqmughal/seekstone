@@ -11,18 +11,18 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Charles_Ii
 CHARLES II. (1630-1685), king of Great Britain and Ireland, second son
 of Charles I. and Queen Henrietta Maria, was born on the 29th of May
 1630 at St James's Palace, and was brought up under the care
-successively of the countess of Dorset, William Cavendish, duke of
-Newcastle, and the marquess of Hertford. He accompanied the king during
+successively of the countess of Dorset, [[William Cavendish]], duke of
+Newcastle, and the marquess of [[Hertford]]. He accompanied the king during
 the campaigns of the Civil War, and sat in the parliament at Oxford, but
 on the 4th of March 1645 he was sent by Charles I. to the west,
 accompanied by Hyde and others who formed his council. Owing, however,
-to the mutual jealousies and misconduct of Goring and Grenville, and the
+to the mutual jealousies and misconduct of [[Goring]] and [[Grenville]], and the
 prince's own disregard and contempt of the council, his presence was in
 no way advantageous, and could not prevent the final overthrow of the
 king's forces in 1646. He retired (17th of February) to Pendennis Castle
-at Falmouth, and on the approach of Fairfax (2nd of March) to Scilly,
+at [[Falmouth]], and on the approach of [[Fairfax]] (2nd of March) to Scilly,
 where he remained with Hyde till the 16th of April. Thence he fled to
-Jersey, and finally refusing all the overtures from the parliament, and
+[[Jersey]], and finally refusing all the overtures from the parliament, and
 in opposition to the counsels of Hyde, who desired the prince to remain
 on English territory, he repaired to the queen at Paris, where he
 remained for two years. He is described at this time by Mme de
@@ -30,17 +30,17 @@ Motteville as "well-made, with a swarthy complexion agreeing well with
 his fine black eyes, a large ugly mouth, a graceful and dignified
 carriage and a fine figure"; and according to the description circulated
 later for his capture after the battle of Worcester, he was over six
-feet tall. He received instruction in mathematics from Hobbes, and was
+feet tall. He received instruction in mathematics from [[Hobbes]], and was
 early initiated into all the vices of the age by Buckingham and Percy.
 In July 1648 the prince joined the royalist fleet and blockaded the
 Thames with a fleet of eleven ships, returning to Holland, where he
 received the news of the final royalist defeats and afterwards of the
 execution of his father. On the 14th of January 1649 he had forwarded to
-the council a signed _carte blanche_, granting any conditions provided
+the council a signed _[[Carte|carte]] blanche_, granting any conditions provided
 his father's life were spared. He immediately assumed the title of king,
 and was proclaimed in Scotland (5th of February) and in some parts of
 Ireland. On the 17th of September, after a visit to his mother at St
-Germain, Charles went to Jersey and issued a declaration proclaiming his
+Germain, Charles went to Jersey and issued a [[Declaration|declaration]] proclaiming his
 rights; but, owing to the arrival of the fleet at Portsmouth, he was
 obliged, on the 13th of February 1650, to return again to Breda. The
 projected invasion of Ireland was delayed through want of funds till it
@@ -51,16 +51,16 @@ proved so fatal to his father, he simultaneously supported and
 encouraged the expedition of Montrose and the royalists, and negotiated
 with the covenanters. On the 1st of May he signed the first draft of a
 treaty at Breda with the latter, in which he accepted the Solemn League
-and Covenant, conceded the control of public and church affairs to the
-parliament and the kirk, and undertook to establish Presbyterianism in
+and [[Covenant]], conceded the control of public and church affairs to the
+parliament and the [[Kirk|kirk]], and undertook to establish Presbyterianism in
 the three kingdoms. He also signed privately a paper repudiating Ormonde
 and the loyal Irish, and recalling the commissions granted to them. In
-acting thus he did not scruple to desert his own royalist followers, and
+acting thus he did not scruple to [[Desert|desert]] his own royalist followers, and
 to repudiate and abandon the great and noble Montrose, whose heroic
 efforts he was apparently merely using in order to extort better terms
 from the covenanters, and who, having been captured on the 4th of May,
 was executed on the 21st in spite of some attempts by Charles to procure
-for him an indemnity.
+for him an [[Indemnity|indemnity]].
 
 Thus perjured and disgraced the young king embarked for Scotland on the
 2nd of June; on the 11th when off Heligoland he signed the treaty, and
@@ -81,33 +81,33 @@ Presbyterianism. At the same time he declared himself secretly to King,
 dean of Tuam, "a true child of the Church of England," "a true
 Cavalier," and avowed that "what concerns Ireland is in no ways
 binding"; while to the Roman Catholics in England he promised
-concessions and expressed his goodwill towards their church to Pope
-Innocent X. His attempt, called "The Start," on the 4th of October 1650,
-to escape from the faction at Perth and to join Huntly and the royalists
+concessions and expressed his [[Goodwill|goodwill]] towards their church to Pope
+[[Innocent]] X. His attempt, called "The Start," on the 4th of October 1650,
+to escape from the [[Faction|faction]] at Perth and to join Huntly and the royalists
 in the north failed, and he was overtaken and compelled to return. On
 the 1st of January 1651 he was crowned at Scone, when he was forced to
 repeat his oaths to both the covenants.
 
-Meanwhile Cromwell had advanced and had defeated the Presbyterians at
+Meanwhile [[Cromwell]] had advanced and had defeated the Presbyterians at
 Dunbar on the 3rd of September 1650, subsequently occupying Edinburgh.
 This defeat was not wholly unwelcome to Charles in the circumstances; in
 the following summer, during Cromwell's advance to the north, he shook
 off the Presbyterian influence, and on the 31st of July 1651 marched
 south into England with an army of about 10,000 commanded by David
-Leslie. He was proclaimed king at Carlisle, joined by the earl of Derby
-in Lancashire, evaded the troops of Lambert and Harrison in Cheshire,
+[[Leslie]]. He was proclaimed king at Carlisle, joined by the earl of [[Derby]]
+in Lancashire, evaded the troops of [[Lambert]] and Harrison in Cheshire,
 marched through Shropshire, meeting with a rebuff at Shrewsbury, and
 entered Worcester with a small, tired and dispirited force of only
 16,000 men (22nd of August). Here the decisive battle, which ruined his
 hopes, and in which Charles distinguished himself by conspicuous courage
 and fortitude, was fought on the 3rd of September. After leading an
-unsuccessful cavalry charge against the enemy he fled, about 6 P.M.,
+unsuccessful [[Cavalry|cavalry]] charge against the enemy he fled, about 6 P.M.,
 accompanied by Buckingham, Derby, Wilmot, Lauderdale and others, towards
-Kidderminster, taking refuge at Whiteladies, about 25 m. from Worcester,
+[[Kidderminster]], taking refuge at Whiteladies, about 25 m. from Worcester,
 where he separated himself from all his followers except Wilmot,
 concealing himself in the famous oak during the 6th of September, moving
 subsequently to Boscobel, to Moseley and Bentley Hall, and thence,
-disguised as Miss Lane's attendant, to Abbots Leigh near Bristol, to
+disguised as Miss Lane's attendant, to Abbots Leigh near [[Bristol]], to
 Trent in Somersetshire, and finally to the George Inn at Brighton,
 having been recognized during the forty-one days of his wanderings by
 about fifty persons, none of whom, in spite of the reward of L1000
@@ -123,7 +123,7 @@ from Holland by the treaty made with England in April 1654, and he
 anticipated his expulsion from France, owing to the new relations of
 friendship established with Cromwell, by quitting the country in July.
 He visited his sister, the princess of Orange, at Spa, and went to
-Aix-la-Chapelle, thence finally proceeding in November to Cologne, where
+Aix-la-Chapelle, thence finally proceeding in November to [[Cologne]], where
 he was hospitably received. The conclusion of Cromwell's treaty with
 France in October 1655, and the war between England and Spain, gave hope
 of aid from the latter power. In April 1656 Charles went to Bruges, and
@@ -133,8 +133,8 @@ received an allowance in place of his French pension and undertook to
 assemble all his subjects in France in aid of the Spanish against the
 French. This plan, however, came to nothing; projected risings in
 England were betrayed, and by the capture of Dunkirk in June 1658, after
-the battle of the Dunes, by the French and Cromwell's Ironsides, the
-Spanish cause in Flanders was ruined.
+the battle of the [[Dunes]], by the French and Cromwell's Ironsides, the
+Spanish cause in [[Flanders]] was ruined.
 
 As long as Cromwell lived there appeared little hope of the restoration
 of the monarchy, and Charles and Hyde had been aware of the plots for
@@ -160,12 +160,12 @@ settlement of estates and promised a liberty to tender consciences in
 matters of religion not contrary to the peace of the kingdom.
 
 On the 8th of May Charles II. was proclaimed king in Westminster Hall
-and elsewhere in London. On the 24th he sailed from the Hague, landing
-on the 26th at Dover, where he was met by Monk, whom he saluted as
-father, and by the mayor, from whom he accepted a "very rich bible,"
+and elsewhere in London. On the 24th he sailed from the [[Hague]], landing
+on the 26th at [[Dover]], where he was met by Monk, whom he saluted as
+father, and by the [[Mayor|mayor]], from whom he accepted a "very rich bible,"
 "the thing that he loved above all things in the world." He reached
 London on the 29th, his thirtieth birthday, arriving with the
-procession, amidst general rejoicings and "through a lane of happy
+procession, amidst general rejoicings and "through a [[Lane|lane]] of happy
 faces," at seven in the evening at Whitehall, where the houses of
 parliament awaited his coming, to offer in the name of the nation their
 congratulations and allegiance.
@@ -176,7 +176,7 @@ to cause greater subsequent disappointment and disillusion. Indolent,
 sensual and dissipated by nature, Charles's vices had greatly increased
 during his exile abroad, and were now, with the great turn of fortune
 which gave him full opportunity to indulge them, to surpass all the
-bounds of decency and control. A long residence till the age of thirty
+[[Bounds|bounds]] of decency and control. A long residence till the age of thirty
 abroad, together with his French blood, had made him politically more of
 a foreigner than an Englishman, and he returned to England ignorant of
 the English constitution, a Roman Catholic and a secret adversary of the
@@ -184,7 +184,7 @@ national religion, and untouched by the sentiment of England's greatness
 or of patriotism. Pure selfishness was the basis of his policy both in
 domestic and foreign affairs. Abroad the great national interests were
 eagerly sacrificed for the sake of a pension, and at home his personal
-ease and pleasure alone decided every measure, and the fate of every
+ease and pleasure alone decided every measure, and the [[Fate|fate]] of every
 minister and subject. During his exile he had surrounded himself with
 young men of the same spirit as himself, such as Buckingham and Bennet,
 who, without having any claim to statesmanship, inattentive to business,
@@ -193,7 +193,7 @@ Charles's chief advisers. With them, as with their master, public office
 was only desirable as a means of procuring enjoyment, for which an
 absolute monarchy provided the most favourable conditions. Such persons
 were now, accordingly, destined to supplant the older and responsible
-ministers of the type of Clarendon and Ormonde, men of high character
+ministers of the type of [[Clarendon]] and Ormonde, men of high character
 and patriotism, who followed definite lines of policy, while at the same
 time the younger men of ability and standing were shut out from office.
 
@@ -201,7 +201,7 @@ The first period of Charles II.'s reign (1660-1667) was that of the
 administration of Lord Clarendon, the principal author of the
 Restoration settlement. The king was granted the large revenue of
 L1,300,000. The naval and military forces were disbanded, but Charles
-managed to retain under the name of guards three regiments, which
+managed to retain under the name of [[Guards|guards]] three regiments, which
 remained the nucleus of a standing army. The settlement of estates on a
 legal basis provided ill for a large number of the king's adherents who
 had impoverished themselves in his cause. The king's honour was directly
@@ -213,7 +213,7 @@ more severe than was to be expected in the times and circumstances; but
 that of Sir Henry Vane, who was not a regicide and whose life Charles
 had promised the parliament to spare in case of his condemnation, was
 brought about by Charles's personal insistence in revenge for the
-victim's high bearing during his trial, and was an act of gross cruelty
+victim's high bearing during his trial, and was an act of [[Gross|gross]] [[Cruelty|cruelty]]
 and perfidy. Charles was in favour of religious toleration, and a
 declaration issued by him in October 1660 aroused great hopes; but he
 made little effort to conciliate the Presbyterians or to effect a
@@ -235,22 +235,22 @@ parliaments for more than three years. In Ireland the church was
 re-established, and a new settlement of land introduced by the Act of
 Settlement 1661 and the Act of Explanation 1665. The island was excluded
 from the benefit of the Navigation Laws, and in 1666 the importation of
-cattle and horses into England was forbidden. In Scotland episcopacy was
+cattle and horses into England was forbidden. In Scotland [[Episcopacy|episcopacy]] was
 set up, the covenant to which Charles had taken so many solemn oaths
 burnt by the common hangman, and Argyll brought to the scaffold, while
 the kingdom was given over to the savage and corrupt administration of
 Lauderdale. On the 21st of May 1662, in pursuance of the pro-French and
-anti-Spanish policy, Charles married Catherine of Braganza, daughter of
+anti-Spanish policy, Charles married [[Catherine Of Braganza|Catherine of Braganza]], daughter of
 John IV. of Portugal, by which alliance England obtained Tangier and
 Bombay. She brought him no children, and her attractions for Charles
-were inferior to those of his mistress, Lady Castlemaine, whom she was
+were inferior to those of his mistress, Lady [[Castlemaine]], whom she was
 compelled to receive as a lady of her bedchamber. In February 1665 the
 ill-omened war with Holland was declared, during the progress of which
 it became apparent how greatly the condition of the national services
-and the state of administration had deteriorated since the Commonwealth,
+and the state of administration had deteriorated since the [[Commonwealth]],
 and to what extent England was isolated and abandoned abroad, Michael de
 Ruyter, on the 13th of June 1667, carrying out his celebrated attack on
-Chatham and burning several warships. The disgrace was unprecedented.
+[[Chatham]] and burning several warships. The disgrace was unprecedented.
 Charles did not show himself and it was reported that he had abdicated,
 but to allay the popular panic it was given out "that he was very
 cheerful that night at supper with his mistresses." The treaty of Breda
@@ -261,8 +261,8 @@ adherent of his father and himself during twenty-five years of
 misfortune, and drove him into poverty and exile in his old age,
 recalling ominously Charles I.'s betrayal of Strafford.
 
-To Clarendon now succeeded the ministry of Buckingham and Arlington, who
-with Lauderdale, Ashley (afterwards Lord Shaftesbury) and Clifford,
+To Clarendon now succeeded the ministry of Buckingham and [[Arlington]], who
+with Lauderdale, [[Ashley]] (afterwards Lord Shaftesbury) and Clifford,
 constituted the so-called Cabal ministry in 1672. With these advisers
 Charles entered into those schemes so antagonistic to the national
 interests which have disgraced his reign. His plan was to render himself
@@ -277,22 +277,22 @@ free hand in the Netherlands and Louis undertaking to support Charles's
 designs "in or out of the kingdom." In January 1668 Sir W. Temple had
 made with Sweden and Holland the Triple Alliance against the
 encroachments and aggrandizement of France, but this national policy was
-soon upset by the king's own secret plans. In 1668 the conversion of his
+soon upset by the king's own secret plans. In 1668 the [[Conversion|conversion]] of his
 brother James to Romanism became known to Charles. Already in 1662 the
 king had sent Sir Richard Bellings to Rome to arrange the terms of
 England's conversion, and now in 1668 he was in correspondence with
-Oliva, the general of the Jesuits in Rome, through James de la Cloche,
+Oliva, the general of the [[Jesuits]] in Rome, through James de [[La Cloche|la Cloche]],
 the eldest of his natural sons, of whom he had become the father when
 scarcely sixteen during his residence at Jersey. On the 25th of January
 1669, at a secret meeting between the two royal brothers, with
-Arlington, Clifford and Arundell of Wardour, it was determined to
+Arlington, Clifford and [[Arundell Of Wardour|Arundell of Wardour]], it was determined to
 announce to Louis XIV. the projected conversion of Charles and the
 realm, and subsequent negotiations terminated in the two secret treaties
 of Dover. The first, signed only, among the ministers, by Arlington and
 Clifford, the rest not being initiated, on the 20th of May 1670,
 provided for the return of England to Rome and the joint attack of
 France and England upon Holland, England's ally, together with Charles's
-support of the Bourbon claims to the throne of Spain, while Charles
+support of the [[Bourbon]] claims to the throne of Spain, while Charles
 received a pension of L200,000 a year. In the second, signed by
 Arlington, Buckingham, Lauderdale and Ashley on the 31st of December
 1670, nothing was said about the conversion, and the pension provided
@@ -310,9 +310,9 @@ in progress, Charles opened parliament and obtained a vote of L800,000
 on the plea of supporting the Triple Alliance. Parliament was prorogued
 in April 1671, not assembling again till February 1673, and on the 2nd
 of January 1672 was announced the "stop of the exchequer," or national
-bankruptcy, one of the most blameworthy and unscrupulous acts of the
+[[Bankruptcy|bankruptcy]], one of the most blameworthy and unscrupulous acts of the
 reign, by which the payments from the exchequer ceased, and large
-numbers of persons who had lent to the government were thus ruined. On
+numbers of persons who had [[Lent|lent]] to the government were thus ruined. On
 the reassembling of parliament on the 4th of February 1673 a strong
 opposition was shown to the Cabal ministry which had been constituted at
 the end of 1672. The Dutch War, declared on the 17th of March 1672,
@@ -325,7 +325,7 @@ by the Test Act, which obliged James and Clifford to resign their
 offices. In February 1674 the war with Holland was closed by the treaty
 of London or of Westminster, though Charles still gave Louis a free hand
 in his aggressive policy towards the Netherlands, and the Cabal was
-driven from office. Danby (afterwards duke of Leeds) now became chief
+driven from office. Danby (afterwards duke of [[Leeds]]) now became chief
 minister; but, though in reality a strong supporter of the national
 policy, he could not hope to keep his place without acquiescence in the
 king's schemes. In November 1675 Charles again prorogued parliament, and
@@ -343,7 +343,7 @@ Charles of L300,000 and the dismissal of his parliament, concluded on
 the 17th of May 1678, was not executed. Louis made peace with Holland
 at Nijmwegen on the 10th of August, and punished Danby by disclosing
 his secret negotiations, thus causing the minister's fall and
-impeachment. To save Danby Charles now prorogued the parliament on the
+[[Impeachment|impeachment]]. To save Danby Charles now prorogued the parliament on the
 30th of December, dissolving it on the 24th of January 1679.
 
 Meanwhile the "Popish Plot," the creation of a band of impostors
@@ -365,11 +365,11 @@ James from the succession, Charles was aided by moderate men such as
 Halifax, who desired only a restriction of James's powers, and still
 more by the violence of the extreme exclusionists themselves, who headed
 by Shaftesbury brought about their own downfall and that of their cause
-by their support of the legitimacy and claims of Charles's natural son,
+by their support of the [[Legitimacy|legitimacy]] and claims of Charles's natural son,
 the duke of Monmouth. In 1679 Charles denied, in council, his supposed
 marriage with Lucy Walter, Monmouth's mother, his declarations being
-published in 1680 to refute the legend of the black box which was
-supposed to contain the contract of marriage, and told Burnet he would
+published in 1680 to refute the legend of the black [[Box|box]] which was
+supposed to contain the contract of marriage, and told [[Burnet]] he would
 rather see him hanged than legitimize him. He deprived him of his
 general's commission in consequence of his quasi-royal progresses about
 the country, and in December on Monmouth's return to England he was
@@ -385,7 +385,7 @@ October he prorogued another parliament of the same mind till January
 and finally till October 1680, having resolved "to wait till this
 violence should wear off." He even made overtures to Shaftesbury in
 November 1679, but the latter insisted on the departure of both the
-queen and James. All attempts at compromise failed, and on the
+queen and James. All attempts at [[Compromise|compromise]] failed, and on the
 assembling of the parliament in October 1680 the Exclusion Bill passed
 the Commons, being, however, thrown out in the Lords through the
 influence of Halifax. Charles dissolved the parliament in January 1681,
@@ -400,10 +400,10 @@ more (28th of March) dissolved by Charles, while a royal proclamation
 ordered to be read in all the churches proclaimed the ill-deeds of the
 parliament and the king's affection for the Protestant religion.
 
-Charles's tenacity and clever tact were now rewarded. A great popular
+Charles's tenacity and [[Clever|clever]] tact were now rewarded. A great popular
 reaction ensued in favour of the monarchy, and a large number of loyal
 addresses were sent in, most of them condemning the Exclusion Bill.
-Shaftesbury was imprisoned, and though the Middlesex jury threw out his
+Shaftesbury was imprisoned, and though the Middlesex [[Jury|jury]] threw out his
 indictment and he was liberated, he never recovered his power, and in
 October 1682 left England for ever. The Exclusion Bill and the
 limitation of James's powers were no more heard of, and full liberty
@@ -425,16 +425,16 @@ handing over Luxemburg to France, an offer which was rejected owing to
 Spanish suspicions of collusion. In the event, Charles's duplicity
 enabled Louis to seize Strassburg in 1681 and Luxemburg in 1684. The
 government at home was carried on principally by Rochester, Sunderland
-and Godolphin, while Guilford was lord chancellor and Jeffreys lord
+and Godolphin, while [[Guilford]] was lord chancellor and [[Jeffrey|Jeffreys]] lord
 chief justice. The laws against the Nonconformists were strictly
 enforced. In order to obtain servile parliaments and also obsequious
-juries, who with the co-operation of judges of the stamp of Jeffreys
+juries, who with the [[Co-Operation|co-operation]] of judges of the stamp of Jeffreys
 could be depended upon to carry out the wishes of the court, the borough
 charters were confiscated, the charter of the city of London being
 forfeited on the 12th of June 1683.
 
 The popularity of Charles, now greatly increased, was raised to national
-enthusiasm by the discovery of the Rye House plot in 1683, said to be a
+[[Enthusiasm|enthusiasm]] by the discovery of the Rye House plot in 1683, said to be a
 scheme to assassinate Charles and James at an isolated house on the high
 road near Hoddesdon in Hertfordshire as they returned from Newmarket to
 London, among those implicated being Algernon Sidney, Lord Russell and
@@ -506,7 +506,7 @@ general to be much valued, and he was fickle and deceitful. Neither
 gratitude nor revenge moved him, and good or ill services left little
 impression on his mind. Halifax, however, concludes by desiring to
 moderate the roughness of his picture by emphasizing the excellence of
-his intellect and memory and his mechanical talent, by deprecating a too
+his [[Intellect|intellect]] and memory and his mechanical talent, by deprecating a too
 censorious judgment and by dwelling upon the disadvantages of his
 bringing up, the difficulties and temptations of his position, and on
 the fact that his vices were those common to human frailty. His capacity
@@ -517,8 +517,8 @@ away a person better pleased at receiving nothing than those in the good
 king his father's time that had requests granted them,"[1] and his
 good-humoured tact and familiarity compensated for and concealed his
 ingratitude and perfidy and preserved his popularity. He had good taste
-in art and literature, was fond of chemistry and science, and the Royal
-Society was founded in his reign. According to Evelyn he was "debonnaire
+in art and literature, was fond of [[Chemistry|chemistry]] and science, and the Royal
+Society was founded in his reign. According to [[Evelyn]] he was "debonnaire
 and easy of access, naturally kind-hearted and possessed an excellent
 temper," virtues which covered a multitude of sins.
 
@@ -545,14 +545,14 @@ prayers and good liking of his people ... hath lost all so soon...."
 
 Charles II. had no children by his queen. By his numerous mistresses he
 had a large illegitimate progeny. By Barbara Villiers, Mrs Palmer,
-afterwards countess of Castlemaine and duchess of Cleveland, mistress
+afterwards countess of Castlemaine and duchess of [[Cleveland]], mistress
 _en titre_ till she was superseded by the duchess of Portsmouth, he had
-Charles Fitzroy, duke of Southampton and Cleveland, Henry Fitzroy, duke
-of Grafton, George Fitzroy, duke of Northumberland, Anne, countess of
-Sussex, Charlotte, countess of Lichfield, and Barbara, a nun; by Louise
-de Keroualle, duchess of Portsmouth, Charles Lennox, duke of Richmond;
-by Lucy Walter, James, duke of Monmouth and Buccleuch, and a daughter;
-by Nell Gwyn, Charles Beauclerk, duke of St Albans, and James Beauclerk;
+Charles [[Fitzroy]], duke of Southampton and Cleveland, Henry Fitzroy, duke
+of [[Grafton]], George Fitzroy, duke of Northumberland, [[Anne]], countess of
+Sussex, [[Charlotte]], countess of Lichfield, and Barbara, a nun; by Louise
+de Keroualle, duchess of Portsmouth, Charles [[Lennox]], duke of Richmond;
+by Lucy Walter, James, duke of Monmouth and [[Buccleuch]], and a daughter;
+by Nell [[Gwyn]], Charles Beauclerk, duke of St Albans, and James Beauclerk;
 by Catherine Peg, Charles Fitz Charles, earl of Plymouth; by Lady
 Shannon, Charlotte, countess of Yarmouth; by Mary Davis, Mary Tudor,
 countess of Derwentwater.
@@ -560,7 +560,7 @@ countess of Derwentwater.
   BIBLIOGRAPHY.--See the article in the _Dict, of Nat. Biog._ by A.W.
   Ward (1887), with authorities there given; _Charles II._, by O. Airy
   (1904); _Life of Sir G. Savile_, by H.C. Foxcroft, and esp. Halifax's
-  _Character of Charles II._ printed in the appendix (1898); _The Essex
+  _Character of Charles II._ printed in the appendix (1898); _The [[Essex]]
   Papers_ (Camden Soc., 1890); _Despatches of W. Perwich_ (Royal Hist.
   Soc. Pubtns., 1903); _History of England, of the Civil War_ and _of
   the Commonwealth_, by S.R. Gardiner; _Hist. of Scotland_, by A. Lang,
@@ -568,7 +568,7 @@ countess of Derwentwater.
   passed at Meetings of the Privy Council between Charles II. and the
   Earl of Clarendon_ (Roxburghe Club, 1896); _A French Ambassador at the
   Court of Charles II._, by J.J. Jusserand (1902); _The Story of Nell
-  Gwyn and the Sayings of Charles II._, by P. Cunningham, ed. by H.B.
+  Gwyn and the Sayings of Charles II._, by P. [[Cunningham]], ed. by H.B.
   Wheatley (1892); for his adventures and period of exile see _Memoiren
   der Herzogin Sophie_, ed. by A. Kocher (1879); "Briefe der Elisabeth
   Stuart," by A. Wendland (_Litterarischer Verein in Stuttgart_, No.
@@ -577,7 +577,7 @@ countess of Derwentwater.
   Pubtns. vols. 17 (_Charles II. in Scotland_, by S.R. Gardiner, 1894)
   and 18 (_Scotland and the Commonwealth, 1651-1653_, ed. by C.H. Firth,
   1895); _Charles II. in the Channel Islands_, by S.E. Hoskins (1854) i
-  _Boscobel_, by T. Blount, &c., ed. by C.G. Thomas (1894); _The Flight
+  _Boscobel_, by T. [[Blount]], &c., ed. by C.G. Thomas (1894); _The Flight
   of the King_ (1897) and _After Worcester Fight_ (1904), by A. Fea;
   _Edinburgh Review_, (January 1894); _Eng. Hist. Rev._ xix. (1904) 363;
   _Revue historique_, xxviii. and xxix.; _Art Journal_ (1889), p. 178
@@ -595,7 +595,7 @@ FOOTNOTE:
 
 
 CHARLES I. and II., kings of France. By the French, Charles the Great,
-Roman emperor and king of the Franks, is reckoned the first of the
+Roman emperor and king of the [[Franks]], is reckoned the first of the
 series of French kings named Charles (see CHARLEMAGNE). Similarly the
 emperor Charles II. the Bald (q.v.) is reckoned as Charles II. of
 France. In some enumerations the emperor Charles III. the Fat (q.v.) is

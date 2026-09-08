@@ -1,20 +1,20 @@
 # Heylyn
 
 HEYLYN (or HEYLIN), PETER (1600-1662), English historian and
-controversialist, was born at Burford in Oxfordshire. Having made great
-progress in his studies, he entered Hart Hall, Oxford, in 1613,
+controversialist, was born at [[Burford]] in Oxfordshire. Having made great
+progress in his studies, he entered [[Hart]] Hall, Oxford, in 1613,
 afterwards joining Magdalen College; and in 1618 he began to lecture on
-cosmography, being made fellow of Magdalen in the same year. His
+cosmography, being made [[Fellow|fellow]] of Magdalen in the same year. His
 lectures, under the title of [Greek: Mikrokosmos], were published in
 1621, and many editions of this useful book, each somewhat enlarged,
 subsequently appeared. Having been ordained in 1624 Heylyn attracted the
-notice of William Laud, then bishop of Bath and Wells; and in 1628 he
-married Laetitia, daughter of Thomas Highgate, or Heygate, of Hayes,
+notice of William [[Laud]], then bishop of Bath and Wells; and in 1628 he
+married Laetitia, daughter of Thomas [[Highgate]], or Heygate, of [[Hay|Hayes]],
 Middlesex; but he appears to have kept his marriage secret and did not
-resign his fellowship. After serving as chaplain to Danby in the Channel
+resign his fellowship. After serving as [[Chaplain|chaplain]] to Danby in the Channel
 Islands, he became chaplain to Charles I. in 1630, and was appointed by
-the king to the rectory of Hemingford, Huntingdonshire. John Williams,
-bishop of Lincoln, however, refused to institute Heylyn to this living,
+the king to the rectory of Hemingford, [[Huntingdonshire]]. John Williams,
+bishop of [[Lincoln]], however, refused to institute Heylyn to this living,
 owing to his friendship with Laud; and in return Charles appointed him a
 prebendary of Westminster, where he made himself very objectionable to
 Williams, who held the deanery _in commendam_. In 1633 he became rector
@@ -38,18 +38,18 @@ and his library dispersed. Subsequently he led for some years a
 wandering life of poverty, afterwards settling at Winchester and then at
 Minster Lovel in Oxfordshire; and he refers to his hardships in his
 pamphlet "Extraneus Vapulans," the cleverest of his controversial
-writings, which was written in answer to Hamon l'Estrange. In 1653 he
+writings, which was written in answer to [[Hamon]] [[L'Estrange|l'Estrange]]. In 1653 he
 settled at Lacy's Court, Abingdon, where he resided undisturbed by the
-government of the Commonwealth, and where he wrote several books and
-pamphlets, both against those of his own communion, like Thomas Fuller,
+government of the [[Commonwealth]], and where he wrote several books and
+pamphlets, both against those of his own communion, like Thomas [[Fuller]],
 whose opinions were less unyielding than his own, and against the
 Presbyterians and others, like Richard Baxter.
 
 His works, all of which are marred by political or theological rancour,
 number over fifty. Among the most important are: a legendary and learned
-_History of St. George of Cappadocia_, written in 1631; _Cyprianus
+_History of St. George of [[Cappadocia]]_, written in 1631; _Cyprianus
 Anglicus, or the history of the Life and Death of William Laud_, a
-defence of Laud and a valuable authority for his life; _Ecclesia
+defence of Laud and a valuable authority for his life; _[[Ecclesia]]
 restaurata, or the History of the Reformation of the Church of England_
 (1661; ed. J. C. Robertson, Cambridge, 1849); _Ecclesia vindicata, or
 the Church of England justified_; _Aerius redivivus, or History of the
@@ -75,8 +75,8 @@ Westminster Abbey on the 29th of May 1661. He died on the 8th of May
 1662 and was buried in Westminster Abbey, where he had been sub-dean for
 some years.
 
-  Lives of Heylyn were written by his son-in-law Dr John Barnard or
-  Bernard, and by George Vernon (1682). Bernard's work was reprinted
+  Lives of Heylyn were written by his son-in-law Dr John [[Barnard]] or
+  [[Bernard]], and by George Vernon (1682). Bernard's work was reprinted
   with Robertson's edition of Heylyn's _History of the Reformation_ in
   1849.
 

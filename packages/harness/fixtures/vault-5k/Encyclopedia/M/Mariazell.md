@@ -5,7 +5,7 @@ MARIAZELL, a village of Austria, in Styria, 89 m. N. of Graz. Pop.
 amid the north Styrian Alps. Its entire claim to notice lies in the fact
 that it is the most frequented sanctuary in Austria, being visited
 annually by about 200,000 pilgrims. The object of veneration is a
-miracle-working image of the Virgin, carved in lime-tree wood, and about
+miracle-working [[Image|image]] of the Virgin, carved in lime-tree wood, and about
 18 in. high. This was presented to the place in 1157, and is now
 enshrined in a chapel lavishly adorned with objects of silver and other
 costly materials. The large church of which the chapel forms part was
@@ -21,7 +21,7 @@ of Mariazell is the pretty Alpine lake of Erlafsee.
 
 
 MARIE AMÉLIE THÉRÈSE (1782-1866), queen of Louis Philippe, king of the
-French, was the daughter of Ferdinand IV., king of Naples, and the
+French, was the daughter of [[Ferdinand]] IV., king of Naples, and the
 archduchess Maria Carolina, daughter of the empress Maria Theresa, and
 belonged to the house of Bourbon. She was born at Caserta, on the 26th
 of April 1782, and received a careful education which developed the
@@ -34,7 +34,7 @@ during the second residence of her father's court at Palermo that she
 met the exiled Louis Philippe, then duke of Orleans, whom she married in
 November 1809. Returning to France in 1814, the duke and duchess of
 Orleans had barely established themselves in the Palais Royal in Paris
-when the Hundred Days drove them into exile. Marie Amélie took refuge
+when the [[Hundred Days]] drove them into exile. Marie Amélie took refuge
 with her four children in England, where she spent two years at Orleans
 House, Twickenham. Again in France in 1817, her life at Neuilly until
 1828 was the happiest period of her existence. Neither then nor at any
@@ -46,7 +46,7 @@ attention was absorbed by the care and education of her numerous family,
 even after the revolution of 1830 had made her queen of the French, a
 position accepted by her with forebodings of disaster justified by her
 early experience of revolutions. During her second exile, from 1848 to
-the end of her life, she lived at Claremont, where her charity and piety
+the end of her life, she lived at [[Claremont]], where her charity and piety
 endeared her to the many English friends of the Orleans family. Marie
 Amélie died at Claremont, on the 24th of March 1866.
 

@@ -10,14 +10,14 @@ type: source
 HARDOUIN, JEAN (1646-1729), French classical scholar, was born at
 Quimper in Brittany. Having acquired a taste for literature in his
 father's book-shop, he sought and obtained about his sixteenth year
-admission into the order of the Jesuits. In Paris, where he went to
+admission into the order of the [[Jesuits]]. In Paris, where he went to
 study theology, he ultimately became librarian of the College Louis le
 Grand in 1683, and he died there on the 3rd of September 1729. His first
 published work was an edition of Themistius (1684), which included no
-fewer than thirteen new orations. On the advice of Jean Garnier
+fewer than thirteen new orations. On the advice of Jean [[Garnier]]
 (1612-1681) he undertook to edit the _Natural History_ of Pliny for the
 Delphin series, a task which he completed in five years. His attention
-having been turned to numismatics as auxiliary to his great editorial
+having been turned to numismatics as [[Auxiliary|auxiliary]] to his great editorial
 labours, he published several learned works in that department, marred,
 however, as almost everything he did was marred, by a determination to
 be at all hazards different from other interpreters. It is sufficient to
@@ -36,12 +36,12 @@ originator of a variety of paradoxical theories that Hardouin is now
 best remembered. The most remarkable, contained in his _Chronologiae ex
 nummis antiquis restitutae_ (1696) and _Prolegomena ad censuram veterum
 scriptorum_, was to the effect that, with the exception of the works of
-Homer, Herodotus and Cicero, the _Natural History_ of Pliny, the
-_Georgics_ of _Virgil_, and the _Satires and Epistles of Horace_, all
+[[Homer]], Herodotus and Cicero, the _Natural History_ of Pliny, the
+_Georgics_ of _Virgil_, and the _Satires and [[Epistle|Epistles]] of Horace_, all
 the ancient classics of Greece and Rome were spurious, having been
 manufactured by monks of the 13th century, under the direction of a
 certain Severus Archontius. He denied the genuineness of most ancient
-works of art, coins and inscriptions, and declared that the New
+works of art, [[Coin|coins]] and inscriptions, and declared that the New
 Testament was originally written in Latin.
 
   See A. Debacker, _Bibliotheque des ecrivains de la Compagnie de Jesus_

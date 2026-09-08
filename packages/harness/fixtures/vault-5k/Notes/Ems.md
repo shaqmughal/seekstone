@@ -13,7 +13,7 @@ complaints and affections of the liver and respiratory organs. On the
 right bank of the river lies the Kursaal with pretty gardens. A stone
 let into the promenade close by marks the spot where, on the 13th of
 July 1870, King William of Prussia had the famous interview with the
-French ambassador Count Benedetti (q.v.) which resulted in the war of
+French ambassador Count [[Benedetti]] (q.v.) which resulted in the war of
 1870-1871. A funicular railway runs up to the Malberg (1000 ft.), where
 is a sanatorium and whence extensive views are obtained over the Rhine
 valley. Ems is largely frequented in the summer months by visitors from
@@ -26,7 +26,7 @@ Punctation of Ems, against the interference of the papacy in the affairs
 of the Catholic Church in Germany (see FEBRONIANISM).
 
   See Vogler, Ems, _seine Heilquellen, Kureinrichtungen_, &c. (Ems,
-  1888); and Hess, _Zur Geschichte der Stadt Ems_ (Ems, 1895).
+  1888); and [[Hess]], _Zur Geschichte der Stadt Ems_ (Ems, 1895).
 
 ## See also
 

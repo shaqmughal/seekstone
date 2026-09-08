@@ -22,7 +22,7 @@ edition of Propertius, one of his best works, which was only half printed
 at the time of his death. It was completed by L. van Santen and published
 in 1780.
 
-BURMESE WARS. Three wars were fought between Burma and the British during
+BURMESE WARS. Three wars were fought between [[Burma]] and the British during
 the 19th century (see BURMA: _History_), which resulted in the gradual
 extinction of Burmese independence.
 
@@ -137,7 +137,7 @@ _Second Burmese War, 1852._--On the 15th of March 1852 Lord Dalhousie sent
 an ultimatum to King Pagan, announcing that hostile operations would be
 commenced if all his demands were not agreed to by the ist of April.
 Meanwhile a force consisting of 8100 troops had been despatched to Rangoon
-under the command of General H.T. Godwin, C.B., while Commodore Lambert
+under the command of General H.T. Godwin, C.B., while Commodore [[Lambert]]
 commanded the naval contingent. No reply being given to this letter, the
 first blow of the Second Burmese War was struck by the British on the 5th
 of April 1852, when Martaban was taken. Rangoon town was occupied on the

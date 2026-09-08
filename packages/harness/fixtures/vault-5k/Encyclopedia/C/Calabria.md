@@ -9,7 +9,7 @@ was called Leuca--Gr. [Greek: Leuka], white, from its colour--and is still
 named S. Maria di Leuca) and corresponding in the main with the modern
 province of Lecce, Brundisium and Tarentum being its most north-westerly
 cities, though the boundary of the latter extends somewhat farther [v.04
-p.0964] west. It is a low terrace of limestone, the highest parts of which
+p.0964] west. It is a low terrace of [[Limestone|limestone]], the highest parts of which
 seldom reach 1500 ft.; the cliffs, though not high, are steep, and it has
 no rivers of any importance, but despite lack of water it was (and is)
 remarkably fertile. Strabo mentions its pastures and trees, and its olives,
@@ -18,7 +18,7 @@ are frequently spoken of by the ancients. The wool of Tarentum and
 Brundisium was also famous, and at the former place were considerable
 dye-works. These two towns acquired importance in very early times owing to
 the excellence of their harbours. Traces of a prehistoric population of the
-stone and early bronze age are to be found all over Calabria. Especially
+stone and early [[Bronze Age|bronze age]] are to be found all over Calabria. Especially
 noticeable are the menhirs (_pietre fitte_) and the round tower-like
 _specchie_ or _truddhi_, which are found near Lecce, Gallipolli and Muro
 Leccese (and only here in Italy); they correspond to similar monuments, the
@@ -33,7 +33,7 @@ tells us that in earlier days Calabria had been extremely populous and had
 had thirteen cities, but that in his time all except Tarentum and
 Brundisium, which retained their commercial importance, had dwindled down
 to villages. The Via Appia, prolonged to Brundisium perhaps as early as 190
-B.C., passed through Tarentum; the shorter route by Canusium, Barium and
+B.C., passed through Tarentum; the shorter route by Canusium, [[Barium]] and
 Gnathia was only made into a main artery of communication by Trajan (see
 APPIA, VIA). The only other roads were the two coast roads, the one from
 Brundisium by Lupiae, the other from Tarentum by Manduria, Neretum, Aletium
@@ -53,7 +53,7 @@ bounded on the N. by the province of Potenza (Basilicata) and on the other
 three sides by the sea. Area 5819 sq. m. The north boundary is rather
 farther north than that of the ancient district of the Bruttii (_q.v._).
 Calabria acquired its present name in the time of the Byzantine supremacy,
-after the ancient Calabria had fallen into the hands of the Lombards and
+after the ancient Calabria had fallen into the hands of the [[Lombards]] and
 been lost to the Eastern empire about A.D. 668. The name is first found in
 the modern sense in Paulus Diaconus's _Historia Langobardorum_ (end of the
 8th century). It is mainly mountainous; at the northern extremity of the
@@ -105,7 +105,7 @@ different villages. There is, and has been, considerable emigration to
 America, but many of the emigrants return, forming a slightly higher class,
 and producing a rise in the rate of payment to cultivators, which has
 increased the difficulties of the small proprietors. The smallness and
-large number of the communes, and the consequently large number of the
+large number of the [[Commune|communes]], and the consequently large number of the
 professional classes and officials, are other difficulties, which,
 noticeable throughout Italy, are especially felt in Calabria. The
 population of Calabria was 1,439,329 in 1901. The chief towns of the

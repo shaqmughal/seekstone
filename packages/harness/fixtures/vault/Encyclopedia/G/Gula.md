@@ -19,7 +19,7 @@ goddess are Nin-Karrak, Ga-tum-dug and Nin-din-dug, the latter
 signifying "the lady who restores to life." The designation well
 emphasizes the chief trait of Bau-Gula which is that of healer. She is
 often spoken of as "the great physician," and accordingly plays a
-specially prominent role in incantations and incantation rituals
+specially prominent role in [[Incantation|incantations]] and incantation rituals
 intended to relieve those suffering from disease. She is, however, also
 invoked to curse those who trample upon the rights of rulers or those
 who do wrong with poisonous potions. As in the case of Ninib, the cult
@@ -32,8 +32,8 @@ being represented by a statue, when other gods and goddesses are merely
 pictured by their shrines, by sacred animals or by weapons. In
 neo-Babylonian days her cult continues to occupy a prominent position,
 and Nebuchadrezzar II. speaks of no less than three chapels or shrines
-within the sacred precincts of E-Zida in the city of Borsippa, besides a
-temple in her honour at Babylon.     (M. Ja.)
+within the sacred precincts of E-Zida in the city of [[Borsippa]], besides a
+temple in her honour at [[Babylon]].     (M. Ja.)
 
 ## See also
 

@@ -1,12 +1,12 @@
 # Crystal-Gazing
 
-CRYSTAL-GAZING, or SCRYING, the term commonly applied to the induction
+CRYSTAL-GAZING, or SCRYING, the term commonly applied to the [[Induction|induction]]
 of visual hallucinations by concentrating the gaze on any clear deep,
-such as a crystal or a ball of polished rock crystal. Some persons do
+such as a crystal or a [[Ball|ball]] of polished rock crystal. Some persons do
 not even find a clear deep necessary, and are content to gaze at the
 palm of the hand, for example, when hallucinatory pictures, as they
 declare, emerge. Among objects used are a pool of ink in the hand
-(Egypt), the liver of an animal (tribes of the North-West Indian
+(Egypt), the [[Liver|liver]] of an animal (tribes of the North-West Indian
 frontier), a hole filled with water (Polynesia), quartz crystals (the
 Apaches and the Euahlayi tribe of New South Wales), a smooth slab of
 polished black stone (the Huille-che of South America), water in a
@@ -18,7 +18,7 @@ a glass ball or a glass water-bottle cannot "scry" in ink.
 
 The practice of inducing pictorial hallucinations by such methods as
 these has been traced among the natives of North and South America,
-Asia, Australia, Africa, among the Maoris, who sometimes use a drop of
+Asia, [[Australia]], Africa, among the [[Maori|Maoris]], who sometimes use a drop of
 blood, and in Polynesia, and is thus practically of world-wide
 diffusion. This fact was not observed (that is, the collections of
 examples were not made) till recently, when experiments in private
@@ -27,21 +27,21 @@ always popular among peasants, and known historically to have survived
 through classical and medieval times, and, as in the famous case of Dr
 Dee, after the Reformation.
 
-The early church condemned _specularii_ (mirror-gazers), and Aubrey and
+The early church condemned _specularii_ (mirror-gazers), and [[Aubrey]] and
 the _Memoirs_ of Saint-Simon contain "scrying" anecdotes of the 17th and
 18th centuries, while Sir Walter Scott's story, _My Aunt Margaret's
 Mirror_, is based on a tradition of about 1750 in a noble Scottish
 family. The practice, in all times and countries, was used for purposes
-of divination. The gazer detected unknown criminals, or described remote
+of [[Divination|divination]]. The gazer detected unknown criminals, or described remote
 events, or even professed to foretell things future. Sometimes the
 supposed magician or medicine man himself did the scrying; occasionally
 he enabled his client to see for himself; often a child was selected as
 the scryer. The process was usually explained as the result of the
 action of a spirit, angel or devil, and many unessential formulae,
-invocations, "calls," written charms with cabbalistic signs, and
+invocations, "calls," written [[Charm|charms]] with cabbalistic signs, and
 fumigations, were employed. These things may have had some effect by way
 of suggestion; the scryer may have been brought by them into an
-appropriate frame of mind; but, as a whole, they are tedious and
+appropriate [[Frame|frame]] of mind; but, as a whole, they are tedious and
 superfluous.
 
 A person can either induce the pictorial hallucinations (he may discover
@@ -80,7 +80,7 @@ relies on"; they may have the hallucinatory experiences, but they would
 say that they had in any case.
 
 The nearest analogy to crystal visions, as described, is the common
-experience of "hypnagogic illusions" (cf. Alfred Maury. _Les Reves et le
+experience of "hypnagogic illusions" (cf. Alfred [[Maury]]. _Les Reves et le
 sommeil_). With closed eyes, between sleeping and waking, many people
 see faces, landscapes and other things flash upon their view, pictures
 often brilliant, but of very brief duration and rapid mutation.
@@ -109,7 +109,7 @@ On the whole there seems little doubt that successful crystal-gazing is
 the exertion of a not uncommon though far from universal faculty, like
 those of "chromatic audition"--the vivid association of certain sounds
 with certain colours--and the mental seeing of figures arranged in
-coloured diagrams (Galton, _Inquiry into Human Faculty_, pp. 114-154).
+coloured diagrams ([[Galton]], _Inquiry into Human Faculty_, pp. 114-154).
 The experience of hypnagogic illusions also seems far more rare than
 ordinary dreaming in sleep. Unfortunately, while these phenomena have
 been carefully studied by officially scientific characters, in England
@@ -120,7 +120,7 @@ therefore based mainly on considerable personal study of "scrying" among
 normal British subjects of both sexes, to whom the topic was previously
 unknown.
 
-The superstitious associations of crystal-gazing, as of hypnotism,
+The superstitious associations of crystal-gazing, as of [[Hypnotism|hypnotism]],
 appear to bar the way to official scientific investigation, and the
 fluctuating proficiency of the seers, who cannot command success, or
 determine the causes and conditions of success and failure, tends in the
@@ -129,9 +129,9 @@ astray silly women, encourages the natural scientific contempt for the
 study of the faculty.
 
 The seeing of the pictures, as far as we have spoken of it, appears to
-be a thing unusual, but in no way abnormal, any more than dreams or
+be a thing unusual, but in no way abnormal, any more than [[Dream|dreams]] or
 hypnagogic illusions are abnormal. Crystal pictures, however, are
-commonly dismissed as mere results of "imagination," a theory which, of
+commonly dismissed as mere results of "[[Imagination|imagination]]," a theory which, of
 course, is of no real assistance to psychology. Persons of recognized
 "imaginativeness," such as novelists and artists, do not seem more or
 less capable of the hallucinatory experiences than their sober
@@ -141,7 +141,7 @@ experiences. It is unfortunate, as it awakens prejudice, but in the
 present writer's opinion it is true, that crystal-gazing sometimes is
 rewarded with results which may be styled "supra-normal." In addition to
 the presentation of revived memories, and of "objectivation of ideas or
-images consciously or unconsciously in the mind of the percipient,"
+[[Image|images]] consciously or unconsciously in the mind of the percipient,"
 there occur "visions, possibly telepathic or clairvoyant, implying
 acquirement of knowledge by supra-normal means."[1]
 
@@ -195,14 +195,14 @@ says Hegel, "oversteps the conditions of time and space; it beholds
 things remote, things long past, and things to come."[2]
 
 What we need, if any progress is to be made in knowledge of the subject,
-is not a metaphysical hypothesis, but a large, carefully tested, and
+is not a metaphysical [[Hypothesis|hypothesis]], but a large, carefully tested, and
 well-recorded collection of examples, made by _savants_ of recognized
 standing. At present we are where we were in electrical science, when
 Newton produced curious sparks while rubbing glass with paper. By way of
 facts, we have only a large body of unattested anecdotes of supra-normal
 successes in crystal-gazing, in many lands and ages; and the scanty
 records of modern amateur investigators, like the present writer. Even
-from these, if the honesty of all concerned be granted (and even clever
+from these, if the honesty of all concerned be granted (and even [[Clever|clever]]
 dishonesty could not have produced many of the results), it would appear
 that we are investigating a strange and important human faculty. The
 writer is acquainted with no experiments in which it was attempted to
@@ -211,13 +211,13 @@ when chance coincidence might explain the successes), and only with two
 or three cases in which there was an attempt to help historical science
 and discern the past by aid of psychical methods. The results were
 interesting and difficult to explain, but the experiments were few.
-Ordinary scryers of fancy pictures are common enough, but scryers
+Ordinary scryers of [[Fancy|fancy]] pictures are common enough, but scryers
 capable of apparently supra-normal successes are apparently rare.
 Perhaps something depends on the inquirer as well as the scryer.
 
 The method of scrying, as generally practised, is simple. It is usual to
 place a glass ball on a dark ground, to sit with the back to the light,
-to focus the gaze on the ball (disregarding reflections, if these cannot
+to [[Focus|focus]] the gaze on the ball (disregarding reflections, if these cannot
 be excluded), and to await results. Perhaps from five to ten minutes is
 a long enough time for the experiment. The scryer may let his
 consciousness play freely, but should not be disturbed by lookers-on. As
@@ -234,7 +234,7 @@ of visual reproduction.... They had a mental deficiency of which they
 were unconscious, and, naturally enough, supposed that those who
 affirmed _they_ were possessed of it were romancing."
 
-  AUTHORITIES.--A useful essay is that of "Miss X" (Miss Goodrich Freer)
+  AUTHORITIES.--A useful essay is that of "Miss X" (Miss [[Goodrich]] Freer)
   in the _Proceedings of the Society for Psychical Research_, v. The
   history of crystal-gazing is here traced, and many examples of the
   author's own experiments are recorded. A. Lang's _The Making of
@@ -249,7 +249,7 @@ affirmed _they_ were possessed of it were romancing."
   descry the inquirer's thoughts, and there ought never to be physical
   contact, as in holding hands, between the inquirer and the scryer
   during the experiment. There is a chapter on crystal-gazing in _Les
-  Nevroses et les idees fixes_ of Dr Janet (1898). His statements are
+  Nevroses et les idees fixes_ of Dr [[Janet]] (1898). His statements are
   sometimes demonstrably inaccurate (see _Making of Religion_, Appendix
   C). A curious passage on the subject, by Ibn Khaldun, an Arabian
   medieval _savant_, is quoted by Mr Thomas from the printed Extracts of
@@ -277,7 +277,7 @@ consist largely of a perfectly amorphous or glassy base, through which
 are scattered great numbers of very minute crystals (microliths), and
 other bodies, termed crystallites, which seem to be stages in the
 formation of crystals. Crystallites may also be produced by allowing a
-solution of sulphur in carbon disulphide mixed with Canada balsam to
+solution of sulphur in [[Carbon|carbon]] disulphide mixed with Canada [[Balsam|balsam]] to
 evaporate slowly, and their development may be watched on a microscopic
 slide. Small globules appear (globulites), spherical and non-crystalline
 (so far as can be ascertained). They may coalesce or may arrange
@@ -299,13 +299,13 @@ properties, and evidently belong to definite minerals or salts. When
 sufficiently large they are often recognizable, but usually they are so
 small, so opaque, or so densely crowded together that this is
 impossible. In igneous rocks they are usually felspar, augite,
-enstatite, and iron oxides, and are found in abundance only where there
+[[Enstatite|enstatite]], and iron oxides, and are found in abundance only where there
 is much uncrystallized glassy base; in contact-altered sediments, slags,
-&c., microlithic forms of garnet, spinel, sillimanite, cordierite,
+&c., microlithic forms of [[Garnet|garnet]], spinel, sillimanite, cordierite,
 various lime silicates, and many other substances have been observed.
-Their form varies greatly, e.g. thin fibres (sillimanite, augite), short
+Their form varies greatly, e.g. thin [[Fibres|fibres]] (sillimanite, augite), short
 prisms or rods (felspar, enstatite, cordierite), or equidimensional
-grains (augite, spinel, magnetite). Occasionally they are perfectly
+grains (augite, spinel, [[Magnetite|magnetite]]). Occasionally they are perfectly
 shaped though minute crystals; more frequently they appear rounded
 (magnetite, &c.), or have brush-like terminations (augite, felspar,
 &c.). The larger microliths may contain enclosures of glass, and it is
@@ -315,10 +315,10 @@ influence of crystalline forces, may rank themselves side by side to
 make up skeleton crystals and networks, or feathery and arborescent
 forms, which obey more or less closely the laws of crystallization of
 the substance to which they belong. They bear a very close resemblance
-to the arborescent frost flowers seen on window panes in winter, and to
+to the arborescent [[Frost|frost]] flowers seen on window panes in winter, and to
 the stellate snow crystals. In magnetite the growths follow three axes
 at right angles to one another; in augite this is nearly, though not
-exactly, the case; in hornblende an angle of 57 deg. may frequently be
+exactly, the case; in [[Hornblende|hornblende]] an angle of 57 deg. may frequently be
 observed, corresponding to the prism angle of the fully-developed
 crystal. The interstices of the network may be partly filled up by a
 later growth. In other cases the crystalline arrangement of the

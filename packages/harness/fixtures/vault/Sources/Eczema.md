@@ -11,25 +11,25 @@ ECZEMA (Gr. [Greek: ekzema], a cutaneous eruption), one of the most
 common and important of all skin diseases, consisting of a catarrhal
 inflammation of the skin originating without visible external
 irritation, and characterized in some stage of its evolution by a serous
-exudation. This definition excludes all those forms of inflammation of
+exudation. This [[Definition|definition]] excludes all those forms of inflammation of
 the skin (dermatitis), which though they may be identical in course and
 manifestation are yet caused by chemical or mechanical irritants. For an
 attack of eczema two conditions are necessary: a predisposition or
 special irritability of the skin, and a directly exciting cause. The
 first of these conditions is usually inherited or depends on some
-underlying constitutional state. Thus any organic lesion which may
+underlying constitutional state. Thus any organic [[Lesion|lesion]] which may
 produce oedema and malnutrition of the cutis and epidermis as in kidney
-diseases, any condition of imperfect metabolism as in dyspepsia or
+diseases, any condition of imperfect metabolism as in [[Dyspepsia|dyspepsia]] or
 malnutrition, or seborrhoea, may be the predisposing cause. Another
 influence that has received increasing attention from skin specialists
 is that of any nervous shock or prolonged mental strain. A "chill" is
 followed in most people by an ordinary cold, but in some by an attack of
 eczema. Again, it may be caused by reflex nervous irritation from the
 uterus, stomach, &c. In some women it always accompanies menstruation,
-and in others pregnancy. It is of common occurrence in infancy, being
+and in others pregnancy. It is of common occurrence in [[Infancy|infancy]], being
 attributed by some specialists to dentition, but by others to
 seborrhoea. Also there is an undoubted relationship between eczema and
-certain forms of functional neurosis, of which perhaps asthma is the
+certain forms of functional neurosis, of which perhaps [[Asthma|asthma]] is the
 most striking illustration, some physicians considering the latter
 trouble to be eczema of the bronchial tubes. Sufferers from rheumatism
 and gout are also specially prone to eczema, though the exact
@@ -51,7 +51,7 @@ skin becomes covered with an erythematous blush, on which numerous tiny
 vesicles form. Swelling, heat, redness and tension are all present. The
 vesicles grow larger, run together, and either burst or are broken by
 the patient's scratching, a clear fluid exuding which stiffens linen.
-The discharge does not dry up at once, but continues to exude--hence the
+The [[Discharge|discharge]] does not dry up at once, but continues to exude--hence the
 name of "weeping eczema" when this is a prominent symptom. In mild cases
 the symptoms begin to subside in a few days, the exudation growing less
 and scales and scabs forming, under which new skin is formed. But where
@@ -65,10 +65,10 @@ itching is so bad as to make sleep impossible. The irritation and local
 heat may be out of all proportion to visible changes in the skin, and in
 neurotic patients the nervous excitement may be extreme. The attack may
 centre itself on any part of the body, but there are certain places
-where it more usually begins, such as the bends of the elbows, the backs
-of the knees and the groins; the groove behind the ears, the scalp, the
-palms or the soles, and the breasts of women. According to its position
-the form of the eczema is somewhat modified. On the front of the legs
+where it more usually begins, such as the [[Bend|bends]] of the [[Elbow|elbows]], the backs
+of the [[Knee|knees]] and the groins; the groove behind the [[Ear|ears]], the scalp, the
+palms or the soles, and the [[Breast|breasts]] of women. According to its position
+the form of the eczema is somewhat modified. On the front of the [[Leg|legs]]
 and arms, from the uniform redness it exhibits in these positions, it is
 known as eczema rubrum. On the scalp it is generally of the seborrhoeic
 type, and in children, especially when pediculi are present, it will
@@ -81,9 +81,9 @@ external remedies. Internally, when the inflammation is acute, nothing
 is so good as antimony, since this relieves the arterial tension and
 thus reduces the local inflammation. But this must never be given when
 the patient is suffering from depression. In other cases, especially for
-babies and children, small doses of calomel are very beneficial;
+babies and children, small doses of [[Calomel|calomel]] are very beneficial;
 strychnine, phosphorus and ergot are all useful at times. When nervous
-excitement is marked it must be treated with sedatives. Arsenic and iron
+excitement is marked it must be treated with sedatives. [[Arsenic]] and iron
 are both contra-indicated in this disease, since they increase blood
 formation and hence stimulate the eczematous process. Internal treatment
 is always best when combined with local treatment, but as a preliminary

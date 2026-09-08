@@ -1,11 +1,11 @@
 # Colbert
 
-COLBERT, JEAN BAPTISTE (1619-1683), French statesman, was born at Reims,
+COLBERT, JEAN [[Baptiste|BAPTISTE]] (1619-1683), French statesman, was born at Reims,
 where his father and grandfather were merchants. He claimed to be the
 descendant of a noble Scottish family, but the evidence for this is
 lacking. His youth is said to have been spent in a Jesuit college, in
 the office of a Parisian banker, and in that of a Parisian notary,
-Chapelain, the father of the poet. But the first fact on which we can
+[[Chapelain]], the father of the poet. But the first fact on which we can
 rely with confidence is that, when not yet twenty, he obtained a post in
 the war-office, by means of the influence that he possessed through the
 marriage of one of his uncles to the sister of Michel Le Tellier, the
@@ -19,7 +19,7 @@ find him receiving the confiscated goods of his uncle Pussort, in 1648
 obtaining 40,000 crowns with his wife Marie Charron, in 1649 appointed
 councillor of state.
 
-It was the period of the wars of the Fronde; and in 1651 the triumph of
+It was the period of the wars of the [[Fronde]]; and in 1651 the triumph of
 the Condé family drove Cardinal Mazarin from Paris. Colbert, now aged
 thirty-two, was engaged to keep him acquainted with what should happen
 in the capital during his absence. At first Colbert's position was far
@@ -30,7 +30,7 @@ of the immense value of his services, Colbert gained all that he
 desired. His demands were not small; for, with an ambition mingled, as
 his letters show, with strong family affection, he aimed at placing all
 his relatives in positions of affluence and dignity; and many a rich
-benefice and important public office was appropriated by him to that
+[[Benefice|benefice]] and important public office was appropriated by him to that
 purpose. For these favours, conferred upon him by his patron with no
 stinted hand, his thanks were expressed in a most remarkable manner; he
 published a letter defending the cardinal from the charge of ingratitude
@@ -40,7 +40,7 @@ besides, the higher object of his ambition; the confidence of Mazarin,
 so far as it was granted to any one, became his, and he was entrusted
 with matters of the gravest importance. In 1659 he was giving directions
 as to the suppression of the revolt of the gentry which threatened in
-Normandy, Anjou and Poitou, with characteristic decision arresting those
+Normandy, [[Anjou]] and Poitou, with characteristic decision arresting those
 whom he suspected, and arranging every detail of their trial, the
 immediate and arbitrary destruction of their castles and woods, and the
 execution of their chief, Bonnesson. In the same year we have evidence
@@ -63,7 +63,7 @@ soon acquired power in every department except that of war.
 
 A great financial and fiscal reform at once claimed all his energies.
 Not only the nobility, but many others who had no legal claim to
-exemption, paid no taxes; the weight of the burden fell on the wretched
+exemption, paid no taxes; the weight of the [[Burden|burden]] fell on the wretched
 country-folk. Colbert sternly and fearlessly set about his task.
 Supported by the young king, Louis XIV., he aimed the first blow at the
 greatest of the extortioners--the bold and powerful superintendent,
@@ -72,7 +72,7 @@ Fouquet; whose fall, in addition, secured his own advancement.
 The office of superintendent and many others dependent upon it being
 abolished the supreme control of the finances was vested in a royal
 council. The sovereign was its president; but Colbert, though for four
-years he only possessed the title of intendant, was its ruling spirit,
+years he only possessed the title of [[Intendant|intendant]], was its ruling spirit,
 great personal authority being conferred upon him by the king. The
 career on which Colbert now entered must not be judged without constant
 remembrance of the utter rottenness of the previous financial
@@ -99,7 +99,7 @@ he could devise. New industries were established, inventors protected,
 workmen invited from foreign countries, French workmen absolutely
 prohibited to emigrate. To maintain the character of French goods in
 foreign markets, as well as to afford a guarantee to the home consumer,
-the quality and measure of each article were fixed by law, breach of the
+the quality and measure of each article were fixed by law, [[Breach|breach]] of the
 regulations being punished by public exposure of the delinquent and
 destruction of the goods, and, on the third offence, by the pillory. But
 whatever advantage resulted from this rule was more than compensated by
@@ -108,19 +108,19 @@ have suited many purposes of consumption was prohibited, and the odious
 supervision which became necessary involved great waste of time and a
 stereotyped regularity which resisted all improvements. And other parts
 of Colbert's schemes deserve still less equivocal condemnation. By his
-firm maintenance of the corporation system, each industry remained in
+firm [[Maintenance|maintenance]] of the corporation system, each industry remained in
 the hands of certain privileged bourgeois; in this way, too, improvement
 was greatly discouraged; while to the lower classes opportunities of
-advancement were closed. With regard to international commerce Colbert
+advancement were closed. With regard to [[International|international]] commerce Colbert
 was equally unfortunate in not being in advance of his age; the tariffs
 he published were protective to an extreme. The interests of internal
 commerce were, however, wisely consulted. Unable to abolish the duties
 on the passage of goods from province to province, he did what he could
 to induce the provinces to equalize them. The roads and canals were
-improved. The great canal of Languedoc was planned and constructed by
+improved. The great canal of [[Languedoc]] was planned and constructed by
 Pierre Paul Riquet (1604-1680) under his patronage. To encourage trade
-with the Levant, Senegal, Guinea and other places, privileges were
-granted to companies; but, like the more important East India Company,
+with the [[Levant]], Senegal, Guinea and other places, privileges were
+granted to companies; but, like the more important [[East India Company]],
 all were unsuccessful. The chief cause of this failure, as well as of
 the failure of the colonies, on which he bestowed so much watchful care,
 was the narrowness and rigidity of the government regulations.
@@ -131,8 +131,8 @@ the king thought only of military exploits. For its use, Colbert
 reconstructed the works and arsenal of Toulon, founded the port and
 arsenal of Rochefort, and the naval schools of Rochefort, Dieppe and
 Saint-Malo, and fortified, with some assistance from Vauban (who,
-however, belonged to the party of his rival Louvois), among other ports
-those of Calais, Dunkirk, Brest and Havre. To supply it with recruits
+however, belonged to the party of his rival [[Louvois]]), among other ports
+those of Calais, Dunkirk, [[Brest]] and [[Havre]]. To supply it with recruits
 he invented his famous system of classes, by which each seaman,
 according to the class in which he was placed, gave six months' service
 every three or four or five years. For three months after his term of
@@ -142,11 +142,11 @@ department, however, that was supplied with men on a very different
 principle. Letters exist written by Colbert to the judges requiring them
 to sentence to the oar as many criminals as possible, including all
 those who had been condemned to death; and the convict once chained to
-the bench, the expiration of his sentence was seldom allowed to bring
+the [[Bench|bench]], the expiration of his sentence was seldom allowed to bring
 him release. Mendicants also, against whom no crime had been proved,
 contraband dealers, those who had been engaged in insurrections, and
-others immeasurably superior to the criminal class, nay, innocent
-men--Turkish, Russian and negro slaves, and poor Iroquois Indians, whom
+others immeasurably superior to the criminal class, nay, [[Innocent|innocent]]
+men--Turkish, Russian and negro slaves, and poor [[Iroquois]] Indians, whom
 the Canadians were ordered to entrap--were pressed into that terrible
 service. By these means the benches of the galleys were filled, and
 Colbert took no thought of the long unrelieved agony borne by those who
@@ -168,19 +168,19 @@ seventeen fêtes, and he had a project for lessening the number of those
 devoted to clerical and monastic life, by fixing the age for taking the
 vows some years later than was then customary. With heresy he was at
 first unwilling to interfere, for he was aware of the commercial value
-of the Huguenots; but when the king resolved to make all France Roman
+of the [[Huguenots]]; but when the king resolved to make all France Roman
 Catholic, he followed him and urged his subordinates to do all that they
-could to promote conversions.
+could to promote [[Conversion|conversions]].
 
 In art and literature Colbert took much interest. He possessed a
 remarkably fine private library, which he delighted to fill with
-valuable manuscripts from every part of Europe where France had placed a
+valuable [[Manuscript|manuscripts]] from every part of Europe where France had placed a
 consul. He has the honour of having founded the Academy of Sciences (now
 called the Institut de France), the Observatory, which he employed
-Claude Perrault to build and brought G. D. Cassini (1625-1712) from
+[[Claude]] Perrault to build and brought G. D. Cassini (1625-1712) from
 Italy to superintend, the Academies of Inscriptions and Medals, of
 Architecture and of Music, the French Academy at Rome, and Academies at
-Arles, Soissons, Nîmes and many other towns, and he reorganized the
+[[Arles]], Soissons, Nîmes and many other towns, and he reorganized the
 Academy of Painting and Sculpture which Richelieu had established. He
 was a member of the French Academy; and one very characteristic rule,
 recorded to have been proposed by him with the intention of expediting
@@ -190,7 +190,7 @@ hour of commencement and remained till the hour for leaving. In 1673 he
 presided over the first exhibition of the works of living painters; and
 he enriched the Louvre with hundreds of pictures and statues. He gave
 many pensions to men of letters, among whom we find Molière, Corneille,
-Racine, Boileau, P. D. Huet (1630-1721) and Antoine Varillas
+Racine, Boileau, P. D. Huet (1630-1721) and [[Antoine]] Varillas
 (1626-1696), and even foreigners, as Huyghens, Vossius the geographer,
 Carlo Dati the Dellacruscan, and Heinsius the great Dutch scholar. There
 is evidence to show that by this munificence he hoped to draw out
@@ -205,10 +205,10 @@ of justice (the codification of ordinances, the diminishing of the
 number of judges, the reduction of the expense and length of trials for
 the establishment of a superior system of police) and even for the
 improvement of the breed of horses and the increase of cattle. As
-superintendent of public buildings he enriched Paris with boulevards,
-quays and triumphal arches; he relaid the foundation-stone of the
+superintendent of public buildings he enriched Paris with [[Boulevard|boulevards]],
+quays and triumphal [[Arches|arches]]; he relaid the foundation-stone of the
 Louvre, and brought Bernin from Rome to be its architect; and he erected
-its splendid colonnade upon the plan of Claude Perrault, by whom Bernin
+its splendid [[Colonnade|colonnade]] upon the plan of Claude Perrault, by whom Bernin
 had been replaced. He was not permitted, however, to complete the work,
 being compelled to yield to the king's preference for residences outside
 Paris, and to devote himself to Marly and Versailles.
@@ -229,7 +229,7 @@ conquest. He was deaf also to all the appeals against the other forms of
 his boundless extravagance which Colbert, with all his deference towards
 his sovereign, bravely ventured to make.[1] Thus it came about that,
 only a few years after he had commenced to free the country from the
-weight of the loans and taxes which crushed her to the dust, Colbert was
+weight of the loans and taxes which crushed her to the [[Dust|dust]], Colbert was
 forced to heap upon her a new load of loans and taxes more heavy than
 the last. Henceforth his life was a hopeless struggle, and the financial
 and fiscal reform which, with the great exception of the establishment
@@ -239,13 +239,13 @@ him, came to nought.
 Depressed by his failure, deeply wounded by the king's favour for
 Louvois, and worn out by overwork, Colbert's strength gave way at a
 comparatively early age. In 1680 he was the constant victim of severe
-fevers, from which he recovered for a time through the use of quinine
+[[Fever|fevers]], from which he recovered for a time through the use of quinine
 prescribed by an English physician. But in 1683, at the age of
 sixty-four, he was seized with a fatal illness, and on the 6th of
 September he expired. It was said that he died of a broken heart, and a
 conversation with the king is reported in which Louis disparagingly
 compared the buildings of Versailles, which Colbert was superintending,
-with the works constructed by Louvois in Flanders. He took to bed, it is
+with the works constructed by Louvois in [[Flanders]]. He took to bed, it is
 true, immediately afterwards, refusing to receive all messages from the
 king; but his constitution was utterly broken before, and a post-mortem
 examination proved that he had been suffering from stone. His body was
@@ -260,12 +260,12 @@ parlements and the states-general received no support from him. The
 technicalities of justice he never allowed to interfere with his plans;
 but he did not hesitate to shield his friends. He trafficked in public
 offices for the profit of Mazarin and in his own behalf. He caused the
-suffering of thousands in the galleys; he had no ear, it is said, for
+suffering of thousands in the galleys; he had no [[Ear|ear]], it is said, for
 the cry of the suppliant. There was indeed a more human side to his
 character, as is shown in his letters, full of wise advice and
-affectionate care, to his children, his brothers, his cousins even. Yet
-to all outside he was "the man of marble." Madame de Sévigné called him
-"the North." To diplomacy he never pretended; persuasion and deceit were
+affectionate care, to his children, his brothers, his [[Cousin|cousins]] even. Yet
+to all outside he was "the man of [[Marble|marble]]." Madame de Sévigné called him
+"the North." To [[Diplomacy|diplomacy]] he never pretended; persuasion and deceit were
 not the weapons he employed; all his work was carried out by the iron
 hand of authority. He was a great statesman in that he conceived a
 magnificent yet practicable scheme for making France first among
@@ -273,7 +273,7 @@ nations, and in that he possessed a matchless faculty for work, neither
 shrinking from the vastest undertakings nor scorning the most trivial
 details.
 
-  Numerous _vies_ and _éloges_ of Colbert have been published; but the
+  Numerous _vies_ and _é[[Log|loges]]_ of Colbert have been published; but the
   most thorough student of his life and administration was Pierre
   Clément, member of the Institute, who in 1846 published his _Vie de
   Colbert_, and in 1861 the first of the 9 vols. of the _Lettres,

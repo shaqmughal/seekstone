@@ -1,7 +1,7 @@
 # Hagerstown
 
 HAGERSTOWN, a city and the county-seat of Washington county, Maryland,
-U.S.A., near Antietam Creek, about 86 m. by rail W.N.W. from Baltimore.
+U.S.A., near [[Antietam]] [[Creek]], about 86 m. by rail W.N.W. from Baltimore.
 Pop. (1890), 10,118; (1900), 13,591, of whom 1277 were negroes; (1910,
 census), 16,507. Hagerstown is served by the Baltimore & Ohio, the
 Western Maryland, the Norfolk & Western, and the Cumberland Valley
@@ -13,7 +13,7 @@ surrounding agricultural district, has good water power, and as a
 manufacturing centre ranked third in the state in 1905, its factory
 products being valued in that year at $3,026,901, an increase of 66.3%
 over their value in 1900. Among the manufactures are flour, shirts,
-hosiery, gloves, bicycles, automobiles, agricultural implements, print
+[[Hosiery|hosiery]], [[Glove|gloves]], bicycles, automobiles, agricultural [[Implement|implements]], print
 paper, fertilizers, sash, doors and blinds, furniture, carriages, spokes
 and wheels. The municipality owns and operates its electric lighting
 plant. Hagerstown was laid out as a town in 1762 by Captain Jonathan

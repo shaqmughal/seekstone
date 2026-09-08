@@ -8,7 +8,7 @@ topic: biology
 
 FIVES, a ball-game played by two or four players in a court enclosed on
 three or four sides, the ball being struck with the hand, usually
-protected by a glove, whence the game is known in America as "handball."
+protected by a [[Glove|glove]], whence the [[Game|game]] is known in America as "handball."
 The origin of the game is probably the French _jeu de paume_, tennis
 played with the hand, the hand in that case being eventually superseded
 by the racquet. Fives and racquets are probably both descended from the
@@ -20,9 +20,9 @@ Fives is played in Great Britain principally at the schools and
 universities, although its encouragement is included in the functions of
 the Tennis Racquets and Fives Association, founded in 1908. In America
 it is much affected for training purposes by professional athletes and
-boxers. There are two forms of fives--the Eton game and the Rugby
+boxers. There are two forms of fives--the [[Eton]] game and the Rugby
 game--which require separate notice, though the main features of the two
-games are the serving of the ball to the taker of the service, the
+[[Games|games]] are the serving of the ball to the taker of the service, the
 necessity of hitting the ball before the second bounce, and of hitting
 it above a line and within the limits of the court.
 
@@ -81,9 +81,9 @@ _Handball_, of ancient popularity in Ireland and much played in the
 United States, is practically identical with fives, though there are
 minor differences. The usual American court is about 60 ft. long, 24½
 ft. wide and 35 ft. high at the front, tapering to 33 ft. at the back
-wall. The front wall is of brick faced with marble, the sides of cement
+wall. The front wall is of [[Brick|brick]] faced with marble, the sides of cement
 and the floor of white pine laid on beams 10 in. apart. These are the
-dimensions of the Brooklyn court of the former American champion, Phil
+dimensions of the Brooklyn court of the former American [[Champion|champion]], Phil
 Casey (d. 1904), which has been extensively copied. Twenty-one aces
 constitute a game and gloves are not usually worn. The American ball is
 a trifle larger and softer than the Irish, which is called a "red ace"

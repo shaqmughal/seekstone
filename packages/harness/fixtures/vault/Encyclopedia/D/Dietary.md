@@ -46,7 +46,7 @@ of imprisonment.
   non-hard labour diets. Class A diet is as follows:--_Breakfast_,
   Bread, 8 oz. daily (6 oz. for women and juveniles) with 1 pint of
   gruel. Juveniles (males and females under sixteen years of age) get,
-  in addition, ½ pint of milk. _Dinner_, 8 oz. of bread daily, with 1
+  in addition, ½ pint of milk. _[[Dinner]]_, 8 oz. of bread daily, with 1
   pint of porridge on three days of the week, 8 oz. of potatoes
   (representing the vegetable element) on two other days, and 8 oz. of
   suet pudding (representing the fatty element) on the other two days.
@@ -75,13 +75,13 @@ of imprisonment.
     | Dinner.    | Sunday:--        +--------+--------+-----------+
     |            |    Bread         |  6 oz. |       6 oz.        |
     |            |    Potatoes      |  8  "  |       8  "         |
-    |            |    Cooked meat,  |        |                    |
+    |            |    Cooked [[Meat|meat]],  |        |                    |
     |            |      preserved   |  4  "  |       3  "         |
     |            |      by heat     |        |                    |
     |            | Monday:--        |        |                    |
     |            |    Bread         |  6 oz. |       6 oz.        |
     |            |    Potatoes      |  8  "  |       8  "         |
-    |            |    Beans         | 10  "  |       8  "         |
+    |            |    [[Bean|Beans]]         | 10  "  |       8  "         |
     |            |    Fat bacon     |  2  "  |       1  "         |
     |            |                  |        |                    |
     |            | Tuesday:--       |        |                    |
@@ -97,8 +97,8 @@ of imprisonment.
     |            | Thursday:--      |        |                    |
     |            |    Bread         |  6 oz. |       6 oz.        |
     |            |    Potatoes      |  8  "  |       8  "         |
-    |            |    Cooked beef,  |        |                    |
-    |            |      without bone|  4  "  |       3  "         |
+    |            |    Cooked [[Beef|beef]],  |        |                    |
+    |            |      without [[Bone|bone]]|  4  "  |       3  "         |
     |            |                  |        |                    |
     |            | Friday:--        |        |                    |
     |            |    Bread         |  6 oz. |       6 oz.        |
@@ -114,7 +114,7 @@ of imprisonment.
     |            |    Bread         |  8 oz. |   6 oz. |   6 oz.  |
     |            |    Porridge      |  1 pt. |         |          |
     |            |    Gruel         |        |   1 pt. |          |
-    |            |    Cocoa         |        |         |   1 pt.  |
+    |            |    [[Cocoa]]         |        |         |   1 pt.  |
     +------------+------------------+--------+---------+----------+
 
 
@@ -134,13 +134,13 @@ of imprisonment.
     |  Pork.        oz.| ..  |  ..  |   4½ |  ..  |  ..  |  ..  |  ..  |
     |  Beans.       oz.| ..  |  ..  |  12  |  ..  |  ..  |  ..  |  ..  |
     |  Fish.        oz.| ..  |  ..  |  ..  |  10  |  ..  |  ..  |  ..  |
-    |  Cheese.      oz.| ..  |  ..  |  ..  |  ..  |  ..  |   3  |  ..  |
+    |  [[Cheese]].      oz.| ..  |  ..  |  ..  |  ..  |  ..  |   3  |  ..  |
     |  Broth.       pt.| ..  |  ..  |  ..  |  ..  |  ..  |   1  |  ..  |
     |  Irish Stew.  pt.| ..  |  ..  |  ..  |  ..  |  ..  |  ..  |   1  |
     +------------------+-----+------+------+------+------+------+------+
     | Supper.          |     |      |      |      |      |      |      |
     |  Bread.       oz.|  8  |   6  |   6  |   6  |   8  |   6  |   6  |
-    |  Butter.      oz.|   ½ |  ..  |  ..  |  ..  |  ..  |  ..  |  ..  |
+    |  [[Butter]].      oz.|   ½ |  ..  |  ..  |  ..  |  ..  |  ..  |  ..  |
     |  Tea.         pt.|  1  |  ..  |  ..  |  ..  |  ..  |  ..  |  ..  |
     |  Gruel.       pt.| ..  |   1½ |   1½ |   1½ |  ..  |   1½ |   1½ |
     |  Broth.       pt.| ..  |  ..  |  ..  |  ..  |   1  |  ..  |  ..  |
@@ -152,7 +152,7 @@ of imprisonment.
   The dietary of convict prisons, in which prisoners are all under long
   sentence, is divided into a diet for convicts employed at hard labour
   and a diet for convicts employed at sedentary, indoor and light
-  labour. It will be found set forth in the Blue-book mentioned above.
+  labour. It will be found set forth in the [[Blue-Book|Blue-book]] mentioned above.
   The sparest of all prison diets is called "punishment diet," and is
   administered for offences against the internal discipline of the
   prison. It is limited to a period of three days. It consists of 1 lb.
@@ -187,7 +187,7 @@ of imprisonment.
   three years of age, and certain other special cases, are dieted in
   accordance with certain dietary tables as framed and settled by the
   board. The order contained a great number of different rations, it
-  being left to the discretion of the guardians as to the final
+  being left to the discretion of the [[Guardian|guardians]] as to the final
   settlement of the tables. For adult inmates the dietary tables are for
   each sex respectively, two in number, one termed "plain diet" and the
   other "infirm diet." All male inmates certified as healthy able-bodied
@@ -234,21 +234,21 @@ of imprisonment.
     ½ oz. tea (or 1 oz. coffee for every ¼ oz. tea).
     ½ oz. ordinary or soluble chocolate (or 1 oz. coffee).
     ¾ oz. condensed milk.
-    1 oz. jam or marmalade.
+    1 oz. jam or [[Marmalade|marmalade]].
     4 oz. preserved meat on _one_ day of the week in harbour, or on
        _two_ days at sea.
 
   Mustard, pepper, vinegar, and salt as required.
 
   Substitute for soft bread when the latter is not available--
-      ½ lb. biscuit (new type) or 1 lb. flour.
+      ½ lb. [[Biscuit|biscuit]] (new type) or 1 lb. flour.
 
   Substitutes for fresh meat when the latter is not available:--
 
               /(1) Salt pork day:--
              |     ½ lb. salt pork.
              |     ¼ lb. split peas.
-             |     Celery seed, ½ oz. to every 8 lb. of split peas put
+             |     [[Celery]] seed, ½ oz. to every 8 lb. of split peas put
              |       into the coppers.
       On     |     ½ lb. potatoes (or 1 oz. compressed vegetables).
    alternate<
@@ -282,9 +282,9 @@ of imprisonment.
     | 1½   "  | Flour.                ||  9   oz.  | Fruits, dried. |
     | 2    "  | Meats, preserved.     ||   ¾  pt.  | Pickles.       |
     | 10½  "  | Bread, fresh (8 lb.   ||   1   "   | Vinegar.       |
-    |         |   flour in lieu).     ||  8   oz.  | Corn Meal.     |
+    |         |   flour in lieu).     ||  8   oz.  | [[Corn]] Meal.     |
     | 1    "  | Fish, dried.          || 12    "   | Onions.        |
-    | 7    "  | Potatoes or yams.     ||  7    "   | Lard.          |
+    | 7    "  | Potatoes or yams.     ||  7    "   | [[Lard]].          |
     | 1    "  | Tomatoes, preserved.  ||  7    "   | Butter.        |
     |2/3   "  | Peas.                 ||   ¼   "   | Mustard.       |
     |2/3   "  | Calavances.           ||   ¼   "   | Pepper.        |
@@ -304,7 +304,7 @@ of imprisonment.
   are set forth in the contract tickets of the steerage passengers.
 
   In the British army the soldier is fed partly by a system of
-  co-operation. He gets a free ration from government of 1 lb. of bread
+  [[Co-Operation|co-operation]]. He gets a free ration from government of 1 lb. of bread
   and ¾ lb. of meat; in addition there is a messing allowance of 3½d.
   per man per day. He is able to supplement his food by purchases from
   the canteen. Much depends on the individual management in each
@@ -347,7 +347,7 @@ of imprisonment.
     | Salt                      |      0    2       |      0    2       |
     | Pepper (white or          |                   |                   |
     |  black), ground           |      0    0½      |      0    0½      |
-    | Vinegar                   |      1 gill       |      1 gill       |
+    | Vinegar                   |      1 [[Gill|gill]]       |      1 gill       |
     | Preserved meat            |        ..         |      1    0       |
     | Suet                      |                   |      0    6       |
     | Raisins                   |                   |      0    8       |
@@ -359,7 +359,7 @@ of imprisonment.
   contributions from his friends. In the French infantry of the line
   each man during peace gets weekly 15 lb. of bread, 3-3/10 lb. of meat,
   2½ lb. of haricot beans or other vegetables, with salt and pepper, and
-  1¾ oz. of brandy.
+  1¾ oz. of [[Brandy|brandy]].
 
   An Austrian under the same circumstances receives 13.9 lb. of bread, ½
   lb. of flour and 3.3 lb. of meat.
@@ -368,7 +368,7 @@ of imprisonment.
 
     Black bread              7 lb.
     Meat                     7 lb.
-    Kvass (beer)             7.7 quarts.
+    Kvass ([[Beer|beer]])             7.7 quarts.
     Sour cabbage             24½ gills = 122½ oz.
     Barley                   24½ gills = 122½ oz.
     Salts                    10½ oz.

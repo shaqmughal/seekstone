@@ -12,7 +12,7 @@ of ground which separates this bank from the water's edge. Along the
 crest of the bank a public park is laid out, commanding a view of the
 desolate Dobrudja hills, across the river.
 
-On the landward side, Braila has the shape of a crescent, the curve of
+On the landward side, Braila has the shape of a [[Crescent|crescent]], the curve of
 its outer streets following the line of the old fortifications,
 dismantled in 1829. Few houses, among the older quarters, exceed two
 storeys in height, but the main streets are paved, and there is a
@@ -29,9 +29,9 @@ commerce. It is the chief port of entry for Walachia, and the
 headquarters of the grain trade; for, besides its advantageous position
 on the river, it is connected with the central Walachian railways by a
 line to Buzeu, and with the Russian and Moldavian systems by a line to
-Galatz. Quays, where ships drawing 15 ft. of water can discharge, line
-the river front; and there are large docks, grain elevators and
-warehouses, besides paper mills, roperies, and soap and candle works.
+[[Galatz]]. Quays, where ships drawing 15 ft. of water can discharge, line
+the river front; and there are large [[Dock|docks]], grain [[Elevators|elevators]] and
+warehouses, besides paper mills, roperies, and soap and [[Candle|candle]] works.
 Over 20 steamers, maintained by the state, ply between Braila and
 Rotterdam. Among the vessels of all nations, the British are first in
 numbers and tonnage, the Greek second. Grain and timber form the chief

@@ -54,7 +54,7 @@ _Geology._--Along the western margin of the county from Reay on the north
 coast to the Scaraben Hills there is a narrow belt of country which is
 occupied by metamorphic rocks of the types found in the east of Sutherland.
 They consist chiefly of granulitic quartzose schists and felspathic
-gneisses, permeated in places by strings and veins of pegmatite. On the
+[[Gneiss|gneisses]], permeated in places by strings and veins of pegmatite. On the
 Scaraben Hills there is a prominent development of quartz-schists the age
 of which is still uncertain. These rocks are traversed by a mass of granite
 sometimes foliated, trending north and south, which is traceable from Reay
@@ -65,17 +65,17 @@ of special interest described by Professor Judd occurs on Achvarasdale
 Moor, near Loch Scye, and hence named Scyelite. It forms a small isolated
 boss, its relations to the surrounding rocks not being apparent. Under the
 microscope, the rock consists of biotite, hornblende, serpentinous
-pseudo-morphs after olivine and possibly after enstatite and magnetite, and
+pseudo-morphs after olivine and possibly after [[Enstatite|enstatite]] and [[Magnetite|magnetite]], and
 may be described as a mica-hornblende-picrite. The remainder of the county
 is occupied by strata of Old Red Sandstone age, the greater portion being
 grouped with the Middle or Orcadian division of that system, and a small
 area on the promontory of Dunnet Head being provisionally placed in the
 upper division. By means of the fossil fishes, Dr Traquair has arranged the
 Caithness flagstone series in three groups, the Achanarras beds at the
-base, the Thurso flagstones in the middle, and the John o' Groats beds at
+base, the Thurso flagstones in the middle, and the John o' [[Groat|Groats]] beds at
 the top. In the extreme south of the county certain minor subdivisions
 appear which probably underlie the lowest fossiliferous beds containing the
-Achanarras fauna. These comprise (1) the coarse basement conglomerate, (2)
+Achanarras fauna. These comprise (1) the coarse [[Basement|basement]] conglomerate, (2)
 dull chocolate-red sandstones, shales and clays around Braemore in the
 Berriedale Water, (3) the brecciated conglomerate largely composed of
 granite detritus seen at Badbea, (4) red sandstones, shales and
@@ -88,9 +88,9 @@ Achanarras Hill about three miles south of Halkirk. The members of the
 overlying Thurso group have a wide distribution as they extend along the
 shore on either side of Thurso and spread across the county by Castletown
 and Halkirk to Sinclairs Bay and Wick. They are thrown into folds which are
-traversed by faults some of which run in a north and south direction. They
+traversed by [[Fault|faults]] some of which run in a north and south direction. They
 consist of dark grey and cream-coloured flagstones, sometimes thick-bedded
-with grey and blue shales and thin limestones and occasional intercalations
+with grey and blue shales and thin [[Limestone|limestones]] and occasional intercalations
 of sandstone. In the north-west of the county the members of the Thurso
 group appear to overlap the Achanarras beds and to rest directly on the
 platform of crystalline schists. In the extreme north-east there is a
@@ -98,7 +98,7 @@ passage upwards into the John o' Groats group [v.04 p.0960] with its
 characteristic fishes, the strata consisting of sandstones, flagstones with
 thin impure limestones. The rocks of Dunnet Head, which are provisionally
 classed with the upper Old Red Sandstone, are composed of red and yellow
-sandstones, marls and mudstones. Hitherto no fossils have been obtained
+sandstones, [[Marl|marls]] and mudstones. Hitherto no fossils have been obtained
 from these beds save some obscure plant-like markings, but they are
 evidently a continuation southwards of the sandstones of Hoy, which there
 rest unconformably on the flagstone series of Orkney. This patch of Upper
@@ -113,16 +113,16 @@ materials filling these vents consist of agglomerate charged with blocks of
 diabase, sandstone, flagstone and limestone.
 
 An interesting feature connected with the geology of Caithness is the
-deposit of shelly boulder clay which is distributed over the low ground,
+deposit of shelly [[Boulder Clay|boulder clay]] which is distributed over the low ground,
 being deepest in the valleys and in the cliffs surrounding the bays on the
 east coast. Apart from the shell fragments, many of which are striated, the
 deposit contains blocks foreign to the county, as for instance chalk and
-chalk-flints, fragments of Jurassic rocks with fossils and pieces of jet.
-The transport of local boulders shows that the ice must have moved from the
+chalk-flints, fragments of [[Jurassic]] rocks with fossils and pieces of jet.
+The transport of local [[Boulder|boulders]] shows that the ice must have moved from the
 south-east towards the north-west, which coincides with the direction
 indicated by the striae. The Jurassic blocks may have been derived from the
 strip of rocks of that age on the east coast of Sutherland. The shell
-fragments, many of which are striated, include arctic, boreal and southern
+fragments, many of which are striated, include [[Arctic|arctic]], boreal and southern
 forms, only a small number being characteristic of the littoral zone.
 
 _Climate and Agriculture._--The climate is variable, and though the winter
@@ -138,7 +138,7 @@ reclaim and improve the land on a system of short leases, advocated large
 holdings on long terms, so that farmers might enjoy a substantial return on
 their capital and labour. Thanks to this policy and the farmers' skill and
 enterprise, the county has acquired a remarkable reputation for its
-produce; notably oats and barley, turnips, potatoes and beans.
+produce; notably oats and barley, turnips, potatoes and [[Bean|beans]].
 Sheep--chiefly Leicester and Cheviots--of which the wool is in especial
 request in consequence of its fine quality, cattle, horses and pigs are
 raised for southern markets.
@@ -153,7 +153,7 @@ coast and at the mouths of rivers are let at high prices. The Thurso is one
 of the best salmon streams in the north. The flagstone quarries, mostly
 situated in the Thurso, Olrig and Halkirk districts, are another important
 source of revenue. Of manufactures there is little beyond tweeds, ropes,
-agricultural implements and whisky, and the principal imports consist of
+agricultural [[Implement|implements]] and whisky, and the principal imports consist of
 coal, wood, manure, flour and lime.
 
 The only railway in the county is the Highland railway, which, from a point
@@ -161,7 +161,7 @@ some four miles to the south-west of Aultnabreac station, crosses the shire
 in a rough semicircle, via Halkirk, to Wick, with a branch from Georgemas
 Junction to Thurso. There is also, however, frequent communication by
 steamer between Wick and Thurso and the Orkneys and Shetlands, Aberdeen,
-Leith and other ports. The deficiency of railway accommodation is partly
+[[Leith]] and other ports. The deficiency of railway accommodation is partly
 made good by coach services between different places.
 
 _Population and Government._--The population of Caithness in 1891 was
@@ -169,7 +169,7 @@ _Population and Government._--The population of Caithness in 1891 was
 and 2876 Gaelic and English. The chief towns are Wick (pop. in 1901, 7911)
 and Thurso (3723). The county returns one member to parliament. Wick is the
 only royal burgh and one of the northern group of parliamentary burghs
-which includes Cromarty, Dingwall, Dornoch, Kirkwall and Tain. Caithness
+which includes Cromarty, Dingwall, [[Dornoch]], [[Kirkwall]] and Tain. Caithness
 unites with Orkney and Shetland to form a sheriffdom, and there is a
 resident sheriff-substitute at Wick, who sits also at Thurso and Lybster.
 The county is under school-board jurisdiction, and there are academies at
@@ -180,8 +180,8 @@ _History._--The early history of Caithness may, to some extent, be traced
 in the character of its remains and its local nomenclature. Picts' houses,
 still fairly numerous, Norwegian names and Danish mounds attest that these
 peoples displaced each other in turn, and the number and strength of the
-fortified keeps show that its annals include the usual feuds, assaults and
-reprisals. Circles of standing stones, as at Stemster Loch and Bower, and
+fortified keeps show that its [[Annals|annals]] include the usual feuds, assaults and
+reprisals. Circles of standing stones, as at Stemster Loch and [[Bower]], and
 the ruins of Roman Catholic chapels and places of pilgrimage in almost
 every district, illustrate the changes which have come over its
 ecclesiastical condition. The most important remains are those of Bucholie
@@ -191,15 +191,15 @@ and Dunbeath, the last of which is romantically situated on a detached
 stack of sandstone rock. About six miles from Thurso stand the ruins of
 Braal Castle, the residence of the ancient bishops of Caithness. On the
 coast of the Pentland Firth, 11/2 miles west of Dunscansbay Head, is the site
-of John o' Groat's house.
+of [[John O' Groat'S House|John o' Groat's house]].
 
-See S. Laing, _Prehistoric Remains of Caithness_ (London and Edinburgh,
+See S. [[Laing]], _Prehistoric Remains of Caithness_ (London and Edinburgh,
 1866); James T. Calder, _History of Caithness_ (2nd edition, Wick); John
 Home, _In and About Wick_ (Wick); Thomas Sinclair, _Caithness Events_
 (Wick, 1899); _History of the Clan Gunn_ (Wick, 1890); J. Henderson,
 _Caithness Family History_ (Edinburgh, 1884); Harvie-Brown, _Fauna of
 Caithness_ (Edinburgh, 1887); Principal Miller, _Our Scandinavian
-Forefathers_ (Thurso, 1872); Smiles, _Robert Dick, Botanist and Geologist_
+Forefathers_ (Thurso, 1872); Smiles, _Robert [[Dick]], Botanist and Geologist_
 (London, 1878); H. Morrison, _Guide to Sutherland and Caithness_ (Wick,
 1883); A. Auld, _Ministers and Men in the Far North_ (Edinburgh, 1891).
 
@@ -210,7 +210,7 @@ in the cemetery of Calixtus and in it the ring with which he used to seal
 his letters (see Arringhi, _Roma subterr._, l. iv. _c._ xlviii. p. 426). He
 died in 296.
 
-CAIUS [_Anglice_ KEES, KEYS, etc.], JOHN (1510-1573), English physician,
+CAIUS [_Anglice_ KEES, [[Key|KEYS]], etc.], JOHN (1510-1573), English physician,
 and second founder of the present Gonville and Caius College, Cambridge,
 was born at Norwich on the 6th of October 1510. He was admitted a student
 at what was then Gonville Hall, Cambridge, where he seems to have mainly
@@ -218,7 +218,7 @@ studied divinity. After graduating in 1533, he visited Italy, where he
 studied under the celebrated Montanus and Vesalius at Padua; and in 1541 he
 took his degree in physic at Padua. In 1543 he visited several parts of
 Italy, Germany and France; and returned to England. He was a physician in
-London in 1547, and was admitted fellow of the College of Physicians, of
+London in 1547, and was admitted [[Fellow|fellow]] of the College of Physicians, of
 which he was for many years president. In 1557, being then physician to
 Queen Mary, he enlarged the foundation of his old college, changed the name
 from "Gonville Hall" to "Gonville and Caius College," and endowed it with
@@ -232,7 +232,7 @@ College. He died at his London House, in St Bartholomew's, on the 29th
 [v.04 p.0961] of July, 1573, but his body was brought to Cambridge, and
 buried in the chapel under the well-known monument which he had designed.
 Dr Caius was a learned, active and benevolent man. In 1557 he erected a
-monument in St Paul's to the memory of Linacre. In 1564 he obtained a grant
+monument in St Paul's to the memory of [[Linacre]]. In 1564 he obtained a grant
 for Gonville and Caius College to take the bodies of two malefactors
 annually for dissection; he was thus an important pioneer in advancing the
 science of anatomy. He probably devised, and certainly presented, the

@@ -18,7 +18,7 @@ could not be used in the ordinary manner; and it seems probable that in
 attacking prey the lower jaw was dropped to a vertical position, and the
 huge upper tusks used as stabbing instruments. The group is believed to
 be derived from a creodont allied to the Eocene _Palaeonictis_ (see
-CREODONTA).
+[[Creodonta|CREODONTA]]).
 
 _Nimravus_, of the American Oligocene, with two premolars and two molars
 in the lower jaw, and comparatively short upper canines, seems to be the
@@ -28,11 +28,11 @@ lost, and the upper canine is longer. It is noteworthy, however, that
 this genus retains the third trochanter to the femur, which is lost in
 _Nimravus_. _Machaerodus_, in the wider sense, includes the larger and
 more typical forms. In the Pliocene of France and Italy it is
-represented by _M. megantereon_, a species not larger than a leopard,
+represented by _M. megantereon_, a species not larger than a [[Leopard|leopard]],
 and allied forms occur in the Pliocene of Greece, Hungary, Samos,
 Persia, India and China, as well as in the Middle Miocene of France and
 Germany. Far larger is the Pleistocene _M. cultridens_ of the caverns of
-Europe, with serrated upper tusks several inches in length. From Europe
+Europe, with serrated upper tusks several [[Inch|inches]] in length. From Europe
 and Asia the sabre-toothed tigers may be traced into North and thence
 into South America, the home of _M. (Smilodon) neogaeus_, the largest of
 the whole tribe, whose remains occur in the Brazilian caves and the silt

@@ -33,7 +33,7 @@ said that bodily pleasures as being more simple and more intense are to
 be preferred. Momentary pleasure ([Greek: monochronos hedone]),
 preferably of a carnal kind, is the only good for man. Yet Aristippus
 was compelled to admit that some actions which give immediate pleasure
-entail more than their equivalent of pain. This fact was to him the
+[[Entail|entail]] more than their equivalent of pain. This fact was to him the
 basis of the conventional distinction of right and wrong, and in this
 sense he held that regard should be paid to law and custom. It is of the
 utmost importance that this development of Cyrenaic hedonism should be
@@ -46,7 +46,7 @@ and their firm conviction that all such distinctions are based solely on
 law and convention, the equally unwavering principle that the wise man
 who would pursue pleasure logically must abstain from that which is
 usually denominated "wrong" or "unjust." This idea, which occupies a
-prominent position in systems like those of Bentham, Volney, and even
+prominent position in systems like those of [[Bentham]], Volney, and even
 Paley, was evidently of prime importance at all events to the later
 Cyrenaics.
 
@@ -61,7 +61,7 @@ Cynics, but to the more cultured hedonism of Epicurus and modern
 thinkers. Theodorus, held even more strongly that passing pleasure may
 be a delusion, and that permanent tranquillity is a truer end of
 conduct. Hegesias denied the possibility of real pleasure and advocated
-suicide as ensuring at least the absence of pain. Anniceris, in whose
+suicide as ensuring at least the absence of pain. [[Anniceris]], in whose
 thought the school reached its highest perfection, declared that true
 pleasure consists sometimes in self-sacrifice and that sympathy in
 enjoyment is a real source of happiness. Other members of the school
@@ -77,7 +77,7 @@ verses in Ecclesiastes which might have been uttered by Aristippus.
 ("Then I commended mirth, because a man hath no better thing than to eat
 and to drink and to be merry; for that shall abide with him of his
 labour the days of his life which God giveth him under the sun"). So in
-Byron and Heine, and, in a sense, in Walter Pater (_Marius the
+[[Byron]] and Heine, and, in a sense, in Walter Pater (_[[Marius]] the
 Epicurean_), there is the same tendency to seek relief from the
 intellectual _cul-de-sac_ in frankly aesthetic satisfaction. Thus
 Cyrenaicism did not entirely vanish with its absorption in Epicureanism.
@@ -89,7 +89,7 @@ Cyrenaicism did not entirely vanish with its absorption in Epicureanism.
   Cyrenaica_ (1841); H. von Stein, _De philosophia Cyrenaica_ (1855); T.
   Gomperz, _Greek Thinkers_ (Eng. trans., vol. ii. bk. iv., _ad fin._,
   1905); Beare, _Greek Theories of Elementary Cognition_; G. van Lyng,
-  _Om den Kyrenaiske skole_ (Christiania, 1868); and general ethical
+  _Om den Kyrenaiske skole_ ([[Christiania]], 1868); and general ethical
   text-books.
 
 
@@ -101,7 +101,7 @@ story of its foundation, as told by Herodotus, runs thus. Battus (whose
 true Greek name seems to have been Aristoteles), a native of Thera
 (Santorin), itself a Laconian colony, was bidden by the Delphic oracle,
 if he wished to put an end to domestic dissensions, to lead a portion
-of the citizens to Libya and build a city in a "place between waters."
+of the citizens to [[Libya]] and build a city in a "place between waters."
 (For other stories see BATTUS.) By this he understood an island, and
 therefore established his followers on the barren islet of Platea in the
 gulf of Bomba. The colony being unsuccessful made further application to
@@ -115,7 +115,7 @@ in the middle of the 7th century B.C.
 The result was Cyrene, so called (it was said) from a local nymph, who
 has been shown by Studniczka to have been a Nature goddess, like the
 Greek Artemis. The point first occupied was probably the hill above the
-"Apollo" fountain on the west; and there was erected the fortress-palace
+"Apollo" [[Fountain|fountain]] on the west; and there was erected the fortress-palace
 of the Battiadae, who continued to rule the colony for eight
 generations. The neighbouring Libyans were conciliated and given a
 position similar to that of Laconian _perioeci_, and intermarriage
@@ -130,7 +130,7 @@ latter is, of course, Greek. This fact suggests that some compromise
 with the natives had been come to, resulting, perhaps, in an alternation
 of the supreme office. Under Battus II. (570 B.C.?) a fresh band of
 settlers was invited from Greece, and the colony tended to become
-henceforth more maritime and democratic. Its port, Apollonia (Marsa
+henceforth more maritime and democratic. Its port, [[Apollonia]] (Marsa
 Susa), now rose to importance: and a second (winter) port was created at
 Naustathmos (Marsa Hilal) about 15 m. E. behind a sheltering cape. Fine
 roads were cut through the rock connecting these harbours with the
@@ -140,9 +140,9 @@ but the force sent by Apries was defeated near the spring Theste, and
 presently Amasis of Egypt made peace and took a Battiad princess to
 wife. Under Arcesilaus II. (c. 560-550) domestic dissensions and Libyan
 revolt led to the founding of a rival inland city, Barca, and a severe
-defeat and massacre. These misfortunes, coupled with the fact that
+defeat and [[Massacre|massacre]]. These misfortunes, coupled with the fact that
 Battus III. was thought to have disgraced the house by his lameness,
-prompted the Cyrenaeans to send to Delphi for more advice, and as a
+prompted the Cyrenaeans to send to [[Delphi]] for more advice, and as a
 result Demonax of Mantinea arrived as arbitrator and framed a
 constitution limiting the monarchy and dividing the citizens tribally
 according to the date of their settlement and their place of origin.
@@ -156,7 +156,7 @@ under Ptolemaic domination ten years later. From this epoch dates a
 decline which was due to economic causes (see CYRENAICA) and to the
 Ptolemaic policy of favouring easily controlled harbour-towns rather
 than an inland place like Cyrene, whose ancient factions still continued
-to give trouble under the earlier Ptolemies. Apollonia and Berenice
+to give trouble under the earlier Ptolemies. Apollonia and [[Berenice]]
 gradually superseded Cyrene and Barca respectively, being more in touch
 with Greece and less exposed to the hostile nomad Libyans, who increased
 in boldness and power: but Cyrene continued to be a great city after it
@@ -168,7 +168,7 @@ epoch of Arab conquest (A.D. 641) its Greek life gradually deserted it
 for Apollonia. At its acme Cyrene is said to have had over 100,000
 inhabitants. It was noted among the ancients for its intellectual life.
 Its medical school was famous, and it numbered among its celebrities
-Callimachus the poet, Carneades, the founder of the New Academy at
+[[Callimachus]] the poet, Carneades, the founder of the New Academy at
 Athens, Aristippus, a pupil of Socrates and the founder of the so-called
 Cyrenaics (q.v.), Eratosthenes the polyhistor, and Synesius, one of the
 most elegant of the ancient Christian writers.
@@ -178,12 +178,12 @@ Maire, who was French consul at Tripoli from 1703 to 1708, and twice
 visited Cyrene. Paul Lucas was there in 1710, and again in 1723, and Dr
 Thomas Shaw in 1738; an Italian, Dr A. Cervelli, who was there in 1812,
 furnished some information to the Societe de Geographie of Paris; and P.
-Della Cella published an account of his visit, made in 1817. In
+Della [[Cella]] published an account of his visit, made in 1817. In
 1821-1822 important explorations were made by Lieutenant F. W. Beechey,
 R.N.; and he was almost immediately followed by a French artist, M. J.
 R. Pacho, whose pencil preserved a number of interesting monuments that
 have since disappeared. L. Delaporte, French consul at Tangier, and
-Vattier de Bourville come next in order of time. H. Barth, the famous
+Vattier de Bourville come next in order of time. H. [[Barth]], the famous
 African traveller, published an account of his investigations in his
 _Wanderungen durch die Kustenlander des Mittelmeers_, 1849, and James
 Hamilton, who was there in 1851, described the place in his _Wanderings
@@ -206,13 +206,13 @@ and Arabs live in the ancient rock-tombs. An Italian senator, Chev. G.
 de Martino, with two Italian residents at Derna, passed through the
 place in 1907, and found it in Bedouin hands.
 
-The site lies on the crest of the highland of Jebel Akhdar (about 1800
+The site lies on the crest of the highland of [[Jebel]] Akhdar (about 1800
 ft.) and 10 m. from the sea. The ground slopes very gradually south, and
 being entirely denuded of trees, makes good corn land. The northward
 slope falls more steeply in a succession of shelves, covered here and
 there with forest. Ravines surround the site on three sides, and there
 are at least four springs in its area, of which one, having great
-volume, has been at all times the attraction and focus of the place.
+volume, has been at all times the attraction and [[Focus|focus]] of the place.
 This is the so-called "Fount of Apollo," which issues from a tunnel
 artificially enlarged, and once faced with a portico. The acropolis was
 immediately above this on the W., and the main entrance of the city,
@@ -250,7 +250,7 @@ perished or become black with the smoke of troglodytes' fires; but one
 tomb below the road at about the middle of the cemetery still retains
 its decoration comparatively fresh, and seems to be that specially
 described by Smith and Porcher. The scenes are agonistic, i.e. represent
-funeral games, in which both white and black persons take part, the
+funeral [[Games|games]], in which both white and black persons take part, the
 latter doubtless Libyan _perioeci_: but all wear Greek garments. Several
 tombs are inscribed and on some external paintings are still faintly
 visible. The commonest type of grave is a simple pit covered by a gabled

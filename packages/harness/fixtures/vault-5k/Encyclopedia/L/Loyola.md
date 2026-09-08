@@ -7,15 +7,15 @@ type: source
 
 # Loyola
 
-LOYOLA, ST IGNATIUS OF (1491-1556), founder of the Society of Jesus.
+LOYOLA, ST [[Ignatius|IGNATIUS]] OF (1491-1556), founder of the Society of Jesus.
 Inigo Lopez de Recalde, son of Beltran, lord of the noble houses of
 Loyola and Oñaz, was born, according to the generally accepted opinion,
 on the 24th of December 1491 at the castle of Loyola, which is situated
 on the river Urola, about 1 m. from the town of Azpeitia, in the
 province of Guipuzcoa. He was the youngest of a family of thirteen. As
 soon as he had learnt the elements of reading and writing, he was sent
-as a page to the court of Ferdinand and Isabella; afterwards, until his
-twenty-sixth year, he took service with Antonio Maurique, duke of
+as a page to the court of [[Ferdinand]] and Isabella; afterwards, until his
+twenty-sixth year, he took service with [[Antonio]] Maurique, duke of
 Nagera, and followed the career of arms. He was free in his relations
 with women, gambled and fought; but he also gave indications of that
 courage, constancy and prudence which marked his after life. In a
@@ -34,8 +34,8 @@ the other. The victorious French treated him kindly for nearly two
 weeks, and then sent him in a litter to Loyola. The doctors declared
 that the leg needed to be broken and set again; and the operation was
 borne without a sign of pain beyond a clenching of his fist. His vanity
-made him order the surgeons to cut out a bone which protruded below the
-knee and spoilt the symmetry of his leg. He was lame for the rest of his
+made him order the surgeons to cut out a [[Bone|bone]] which protruded below the
+[[Knee|knee]] and spoilt the symmetry of his leg. He was lame for the rest of his
 days. Serious illness followed the operations, and, his life being
 despaired of, he received the last sacraments on the 28th of June. That
 night, however, he began to mend, and in a few days he was out of
@@ -47,7 +47,7 @@ books, and a mental struggle began. Sometimes he would pass hours
 thinking of a certain illustrious lady, devising means of seeing her and
 of doing deeds that would win her favour; at other times the thoughts
 suggested by the books got the upper hand. He began to recognize that
-his career of arms was over: so he would become the knight of Christ. He
+his career of arms was over: so he would become the [[Knight|knight]] of Christ. He
 determined to make the pilgrimage to Jerusalem and to practise all the
 austerities that he read of in _The Flowers of the Saints_. Expiating
 his sins was not so much his aim as to accomplish great deeds for God.
@@ -62,10 +62,10 @@ he asserts that for the future he never yielded to any such desires.
 This was the first of many visions. Ignatius proposed after returning
 from Jerusalem to join the Carthusian order at Seville as a lay brother.
 About the same time Martin Luther was in the full course of his protest
-against the papal supremacy and had already burnt the pope's bull at
+against the papal supremacy and had already burnt the pope's [[Bull|bull]] at
 Worms. The two opponents were girding themselves for the struggle; and
 what the Church of Rome was losing by the defection of the Augustinian
-was being counterbalanced by the conversion of the founder of the
+was being counterbalanced by the [[Conversion|conversion]] of the founder of the
 Society of Jesus.
 
 As soon as Ignatius had regained strength, he started ostensibly to
@@ -80,20 +80,20 @@ still doubting as to his best course, left the matter to his mule, which
 at the dividing of the ways took the path to the abbey, leaving the open
 road which the Moor had taken. Before reaching Montserrato, Ignatius
 purchased some sackcloth for a garment and hempen shoes, which, with a
-staff and gourd, formed the usual pilgrim's dress. Approaching the abbey
-he resolved to do as his favourite hero Amadis de Gaul did--keep a vigil
+staff and [[Gourd|gourd]], formed the usual pilgrim's [[Dress|dress]]. Approaching the abbey
+he resolved to do as his favourite hero Amadis de [[Gaul]] did--keep a vigil
 all night before the Lady altar and then lay aside his worldly armour to
 put on that of Christ. He arrived at the abbey just about the feast of
 St Benedict (the 21st of March 1522), and there made a confession of his
 life to a priest belonging to the monastery. He found in use for the
 pilgrims a translation of the _Spiritual Exercises_ of the former abbot,
-Garcia di Cisneros (d. 1510); and this book evidently gave Ignatius the
+[[Garcia]] di Cisneros (d. 1510); and this book evidently gave Ignatius the
 first idea of his more famous work under the same title. Leaving his
 mule to the abbey, and giving away his worldly clothes to a beggar, he
 kept his watch in the church during the night of the 24th-25th of March,
-and placed on the Lady altar his sword and dagger. Early the next
-morning he received the Holy Eucharist and left before any one could
-recognize him, going to the neighbouring town of Manresa, where he first
+and placed on the Lady altar his sword and [[Dagger|dagger]]. Early the next
+morning he received the Holy [[Eucharist]] and left before any one could
+recognize him, going to the neighbouring town of [[Manresa]], where he first
 lived in the hospice. Here began a series of heavy spiritual trials
 which assailed him for many months. Seven hours a day he spent on his
 knees in prayer and three times a day he scourged his emaciated body.
@@ -115,17 +115,17 @@ to have seen in vision the scheme of the future Society. Neither does he
 refer in any way to the famous cave in which, according to the Ignatian
 myth, the _Spiritual Exercises_ were written. Fortunately we have the
 first-hand evidence of his autobiography, which is a surer guide than
-the lines written by untrustworthy disciples. Ignatius remained at
+the lines written by untrustworthy [[Disciple|disciples]]. Ignatius remained at
 Manresa for about a year, and in the spring of 1523 set out for
 Barcelona on his way to Rome, where he arrived on Palm Sunday. After two
 weeks he left, having received the blessing of Pope Adrian VI., and
 proceeded by Padua to Venice, where he begged his bread and slept in the
 Piazza di San Marco until a rich Spaniard gave him shelter and obtained
-an order from the doge for a passage in a pilgrim ship bound for Cyprus,
+an order from the doge for a passage in a pilgrim ship bound for [[Cyprus]],
 whence he could get to Jaffa. In due course Ignatius arrived at
 Jerusalem, where he intended to remain, in order continuously to visit
 the holy places and help souls. For this end he had obtained letters of
-recommendation to the guardian, to whom, however, he only spoke of his
+recommendation to the [[Guardian|guardian]], to whom, however, he only spoke of his
 desire of satisfying his devotion, not hinting his other motive. The
 Franciscans gave him no encouragement to remain; and the provincial
 threatened him with excommunication if he persisted. Not only had the
@@ -145,13 +145,13 @@ companions his _Spiritual Exercises_ in the form they had then taken and
 certain instructions in Christian doctrine. On account of these
 discourses Ignatius came into conflict with the Inquisition. He and his
 companions were denounced as belonging to the sects of _Sagati_ and
-_Illuminati_. Their mode of life and dress was peculiar and hinted at
+_[[Illuminati]]_. Their mode of life and dress was peculiar and hinted at
 innovation. But, always ready to obey authority, Ignatius was able to
 disarm any charges that, now and at other times, were brought against
 him. The Inquisition merely advised him and his companions to dress in a
 less extraordinary manner and to go shod. Four months later he was
 suddenly cast into prison; and, after seventeen days, he learnt that he
-was falsely accused of sending two noble ladies on a pilgrimage to Jaen.
+was falsely accused of sending two noble ladies on a pilgrimage to [[Jaen]].
 During their absence, from the 21st of April 1527 to the 1st of June, he
 remained in prison, and was then set free with a prohibition against
 instructing others until he had spent four years in study.
@@ -160,7 +160,7 @@ Seeing his way thus barred at Alcalá, he went with his companions to
 Salamanca. Here the Dominicans, doubting the orthodoxy of the
 new-comers, had them put into prison, where they were chained foot to
 foot and fastened to a stake set up in the middle of the cell. Some days
-afterwards Ignatius was examined and found without fault. His patience
+afterwards Ignatius was examined and found without [[Fault|fault]]. His patience
 won him many friends; and when he and his companions remained in prison
 while the other prisoners managed to escape, their conduct excited much
 admiration. After twenty-two days they were called up to receive
@@ -179,7 +179,7 @@ February 1528. The university of Paris had reached its zenith at the
 time of the council of Constance (1418), and was now losing its
 intellectual leadership under the attacks of the Renaissance and the
 Reformation. In 1521 the university had condemned Luther's _Babylonish
-Captivity_, and in 1527 Erasmus's _Colloquies_ met with the same fate.
+Captivity_, and in 1527 Erasmus's _Colloquies_ met with the same [[Fate|fate]].
 Soon after his arrival, Ignatius may have seen in the Place de Grève the
 burning of Louis de Berquin for heresy.[1] At this period there were
 between twelve and fifteen thousand students attending the university,
@@ -203,7 +203,7 @@ end of 1529 he came into contact with the men who were eventually to
 become the first fathers of the Society of Jesus. He won over the
 Savoyard Pierre Lefèvre (Faber), whose room he shared, and the Navarrese
 Francis Xavier, who taught philosophy in the college of St Barbara.
-Afterwards he became acquainted with the young Castilian, Diego Laynez,
+Afterwards he became acquainted with the young Castilian, Diego [[Laynez]],
 who had heard of him at Acalá and found him out in Paris. With Laynez
 came two other young men, the Toledan Alfonso Salmeron and the
 Portuguese Simon Rodriguez. Nicholas Bobadilla, a poor Spaniard who had
@@ -305,7 +305,7 @@ demurred; but on the pope's return sentence was formally given in his
 favour.
 
 The life of Ignatius is now mainly identified with the formation and
-growth of his Society (see JESUITS), but his zeal found other outlets in
+growth of his Society (see [[Jesuits|JESUITS]]), but his zeal found other outlets in
 Rome. He founded institutions for rescuing fallen women, started
 orphanages and organized catechetical instructions. He obtained, after
 difficulty, the official recognition of his Society from Paul III. on
@@ -370,7 +370,7 @@ the _Spiritual Exercises_ he moulded their character.
   considers necessary to achieve the end for which each week is
   destined. But the whole period is generally concluded in the space of
   a month. The first week is the foundation, and has to do with the
-  consideration of the end of man, sin, death, judgment and hell. Having
+  consideration of the end of man, sin, death, judgment and [[Hell|hell]]. Having
   purified the soul from sin and obtained a detestation thereof, the
   second week treats of the kingdom of Christ, and is meant to lead the
   soul to make an election of the service of God. The third and fourth
@@ -413,7 +413,7 @@ dreamed of putting his Society before the church nor of identifying the
 two institutions.
 
 In the beginning of 1556 Ignatius grew very weak and resigned the active
-government to three fathers, Polanco, Madrid and Natal. Fever laid hold
+government to three fathers, Polanco, Madrid and Natal. [[Fever]] laid hold
 of him, and he died somewhat suddenly on the 31st of July 1556, without
 receiving or asking for the last sacraments. He was beatified in 1609 by
 Paul V. and canonized in 1628 by Gregory XV. His body lies under the
@@ -442,7 +442,7 @@ to be a galling yoke. His doctrine on the subject is found in the
 well-known letter to the Portuguese Jesuits in 1553, and if this be read
 carefully together with the _Constitutions_ his meaning is clear. If he
 says that a subject is to allow himself to be moved and directed, under
-God, by a superior just as though he were a corpse or as a staff in the
+God, by a superior just as though he were a [[Corpse|corpse]] or as a staff in the
 hands of an old man, he is also careful to say that the obedience is
 only due in all things "wherein it cannot be defined (as it is said)
 that any kind of sin appears." The way in which his teaching on
@@ -453,7 +453,7 @@ his life which, taken by themselves, show a hardness in treating
 individuals who would not obey; but as a rule, he tempered his authority
 to the capacity of those with whom he had to deal. When he had to choose
 between the welfare of the Society and the feelings of an individual it
-was clear to which side the balance would fall.
+was clear to which side the [[Balance|balance]] would fall.
 
 There was in his character a peculiar mixture of conservatism and a keen
 sense of the requirements of the day. In intellectual matters he was not
@@ -480,7 +480,7 @@ the moral heroes of humanity.
   saint. This has been translated into English under the title of _The
   testament of Ignatius Loyola, being sundry acts of our Father
   Ignatius, under God, the first founder of the Society of Jesus, taken
-  down from the Saint's own lips by Luis Gonzales_ (London, 1900); and
+  down from the Saint's own [[Lip|lips]] by Luis Gonzales_ (London, 1900); and
   the above account of Ignatius is taken in most places directly from
   this, which is not only the best of all sources but also a valuable
   corrective of the later and more imaginative works. Next to the _Acta
@@ -492,7 +492,7 @@ the moral heroes of humanity.
   based on an early Latin work (Naples, 1572). Bartole, the official
   biographer, wrote his _Della vita e dell' instituto di S. Ignatio_
   (Rome, 1650, 1659); Genelli wrote _Das Leben des heiligen Ignatius von
-  Loyola_ (Innsbruck, 1848); Nicolas Orlandinus gives a life in the
+  Loyola_ ([[Innsbruck]], 1848); Nicolas Orlandinus gives a life in the
   first volume of the _Historiae Societatis Jesu_ (Rome, 1615). It would
   be impossible to give a list even of the other lives, most of which
   are without value as histories, being written mainly for edification.
@@ -505,7 +505,7 @@ the moral heroes of humanity.
   The literature connected with the _Spiritual Exercises_ is also large.
   It will be sufficient here to mention: _A Book of Spiritual Exercises,
   written by Garcias de Cisneros_ (London, 1876); the official Latin
-  text in the third volume of the Avignon edition of the _Constitutions_
+  text in the third volume of the [[Avignon]] edition of the _Constitutions_
   (1830); Roothaan's _Exercitia spiritualia S. P. Ignatii de Loyola, cum
   versione litterali ex autographo Hispanico, notis illustrata_ (Namur,
   1841); Diertino, _Historia exercitiorum S. P. Ignatii de Loyola_

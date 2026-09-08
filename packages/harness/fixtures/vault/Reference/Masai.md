@@ -5,7 +5,7 @@ speaking a Nilotic language. The Hamitic element, which is not great,
 has probably been derived from the Galla. The Masai were probably
 isolated in the high mountains or plateaus which lie between the Nile
 and the Karamojo country. There they originally had their home, and
-there to-day the Latuka, who show affinities with them, still live.
+there to-day the [[Latuka]], who show affinities with them, still live.
 Famine or inter-tribal wars drove the Masai in the direction of Mount
 Elgon and Lake Rudolf. After a long settlement there they split into two
 groups, the Masai proper and the Wa-Kuafi or agricultural Masai, and
@@ -16,7 +16,7 @@ cattle to their stronger kinsmen, split up again into the Burkeneji, the
 Gwas Ngishu, and the Nyarusi (Enjamusi) and settled as agriculturists.
 Meantime the Masai became masters of the greater part of inner East
 Africa from Ugogo and the Unyamwezi countries on the south and west to
-Mount Kenya and Galla-land on the north, and eastward to the
+Mount [[Kenya]] and Galla-land on the north, and eastward to the
 hundred-mile strip of more or less settled Bantu country on the coast of
 the Indian Ocean.
 
@@ -28,7 +28,7 @@ type, with well formed bridge and finely cut nostrils. Almost all the
 men and women knock out the two lower incisor teeth. For this custom
 they give the curious explanation that lockjaw was once very common in
 Masai-land, and that it was found to be easy to feed the sufferer
-through the gap thus made. All the hair on the body of both sexes is
+through the [[Gap|gap]] thus made. All the hair on the body of both sexes is
 pulled out with iron tweezers; a Masai with a moustache or beard is
 unknown. The hair of the head is shaved in women and married men; but
 the hair of a youth at puberty is allowed to grow till it is long enough
@@ -40,15 +40,15 @@ fat, mixed in equal proportion.
 
   No tattooing or scarring is performed on the men, but Sir Harry
   Johnston noticed women with parallel lines burnt into the skin round
-  the eyes. In both sexes the lobes of the ears are distended into great
-  loops, through holes in which large disks of wood are thrust. Bead
+  the eyes. In both sexes the [[Lobe|lobes]] of the [[Ear|ears]] are distended into great
+  loops, through holes in which large disks of wood are thrust. [[Bead]]
   necklaces, bead and wood armlets are worn by men, and before marriage
-  the Masai girl has thick iron wire wound round her legs so tightly as
-  to check the calf development. The women wear dressed hides or calico;
+  the Masai girl has thick iron wire wound round her [[Leg|legs]] so tightly as
+  to check the [[Calf|calf]] development. The women wear dressed hides or calico;
   the old men wear a skin or cloth cape. The warriors wind red calico
-  round their waists, a circle of ostrich feathers round their face (or
-  a cap of lion or colobus skin) and fringes of long white fur round the
-  knee. Masai houses are of two kinds. The agricultural tribes build
+  round their waists, a circle of ostrich [[Feather|feathers]] round their face (or
+  a cap of lion or colobus skin) and fringes of long white [[Fur|fur]] round the
+  [[Knee|knee]]. Masai houses are of two kinds. The agricultural tribes build
   round huts with walls of reeds or sticks, and conical, grass-thatched
   roofs. The true Masai nomads, however, have houses unlike those of any
   other neighbouring negro tribe. Long, low (not more than 6 ft. high),
@@ -57,22 +57,22 @@ fat, mixed in equal proportion.
   dwelling, with low, oblong door. Mud and cow-dung are plastered on to
   the brushwood used in the roofing. Beds are made of brushwood neatly
   stacked and covered with hides. The fireplace is a circle of stones.
-  The only furniture, besides cooking-pots, consists of long gourds used
+  The only furniture, besides cooking-pots, consists of long [[Gourd|gourds]] used
   as milkcans, half-gourds as cups, and small three-legged stools cut
   out of a single block of wood and used by the elder men to sit on.
-  The Masai are not hunters of big game except lions, but they eat the
-  eland and kudu. The domestic animals are cattle, sheep, goats, donkeys
-  and dogs. Only women and the married men smoke. The dead are
+  The Masai are not [[Hunter|hunters]] of big [[Game|game]] except lions, but they eat the
+  [[Eland|eland]] and [[Kudu|kudu]]. The domestic animals are cattle, sheep, goats, donkeys
+  and [[Dogs|dogs]]. Only women and the married men smoke. The dead are
   ordinarily not buried, but the bodies are carried a short distance
   from the village and left on the ground to be devoured by hyenas,
   jackals and vultures. Important chiefs are buried, however, and a year
   later the eldest son or successor recovers the skull, which is
-  treasured as a charm. The medicine men of Masai are often the chiefs,
+  treasured as a [[Charm|charm]]. The medicine men of Masai are often the chiefs,
   and the supreme chief is almost always a medicine man.
 
   The Masai believe in a nature-god as a supreme being--Ngai
   ("sky")--and his aid is invoked in cases of drought by a ceremonial
-  chant of the children, standing in a circle after sunset, each with a
+  [[Chant|chant]] of the children, standing in a circle after sunset, each with a
   bunch of grass in its hand. They have creation-myths involving four
   gods, the black, white, grey and red deities. They believe there is no
   future for women or common people, but that such distinction is
@@ -85,7 +85,7 @@ fat, mixed in equal proportion.
   raid their sweethearts throw grass after them or lay it in the forks
   of trees. But the oddest of their superstitious customs is the
   importance attached to spitting. To spit upon a person or thing is
-  regarded as a sign of reverence and goodwill, as among other Nilotic
+  regarded as a sign of reverence and [[Goodwill|goodwill]], as among other Nilotic
   tribes. Newly born children are spat on by every one who sees them.
   Johnston states that every Masai before extending his hand to him spat
   on it first. They spit when they meet and when they part, and bargains
@@ -93,9 +93,9 @@ fat, mixed in equal proportion.
   wizard of the first water, the Masai flocked to me ... and the more
   copiously I spat on them the greater was their delight." The Masai has
   no love for work, and practises no industries. The women attend to his
-  personal needs; and trades such as smelting and forging are left to
+  personal needs; and trades such as smelting and [[Forging|forging]] are left to
   enslaved tribes such as the Dorobo (Wandorobo). These manufacture
-  spears with long blades and butts and the peculiar swords or _simés_
+  spears with long [[Blades|blades]] and [[Butt|butts]] and the peculiar swords or _simés_
   like long slender leaves, very narrow towards the hilt and broad at
   the point. Most of the Masai live in the British East Africa
   Protectorate.

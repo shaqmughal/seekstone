@@ -2,13 +2,13 @@
 
 LANGRES, a town of eastern France, capital of an arrondissement in the
 department of Haute-Marne, 22 m. S.S.E. of Chaumont on the eastern
-railway to Belfort. Pop. (1906) town, 6663; commune, 9803. Langres
+railway to Belfort. Pop. (1906) town, 6663; [[Commune|commune]], 9803. Langres
 stands at a height of some 1550 ft. on a jutting promontory of the
 tableland known as the plateau de Langres, and overlooks eastward and
-westward respectively the valleys of the Marne and its tributary the
+westward respectively the valleys of the [[Marne]] and its tributary the
 Bonnelle. From the cathedral tower and the ramparts which surround the
 town there is an extensive view over the valley of the Marne, the Vosges
-and the Côte d'Or, and in clear weather Mt Blanc (160 m. distant) is
+and the Côte d'Or, and in clear weather Mt [[Blanc]] (160 m. distant) is
 visible. The cathedral of St Mammès, for the most part in the
 Transitional style of the 12th century, has a west front in the
 Graeco-Roman style of the 18th century and a fine Renaissance chapel.

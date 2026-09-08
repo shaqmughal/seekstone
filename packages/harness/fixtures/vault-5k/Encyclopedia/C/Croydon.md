@@ -12,7 +12,7 @@ is mentioned in Domesday Book. The derivation indicated is from the O.
 Fr. _croie dune_, chalk hill. The supposition that here was the Roman
 station of _Noviomagus_ is rejected. The site is remarkable for the
 number of springs which issue from the soil. One of these, called the
-"Bourne," bursts forth a short way above the town at irregular intervals
+"[[Bourne]]," bursts forth a short way above the town at irregular intervals
 of one to ten years or more; and after running a torrent for two or
 three months, as quickly vanishes. Until its course was diverted it
 caused destructive floods. This phenomenon seems to arise from rains
@@ -35,7 +35,7 @@ again restored by Sir Gilbert Scott in 1857-1859. It was destroyed by
 fire, with the exception of the tower, on the 5th of January 1867, and
 was at once rebuilt by Scott on the old lines. In 1596 Archbishop
 Whitgift founded the hospital or almshouse which bears his name, and
-remains in its picturesque brick buildings surrounding two quadrangles.
+remains in its picturesque [[Brick|brick]] buildings surrounding two quadrangles.
 His grammar school was housed in new buildings in 1871, and is a
 flourishing day school. The principal public building of Croydon is that
 erected by the corporation for municipal business; it included

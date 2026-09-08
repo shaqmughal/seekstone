@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Casamari"
 # Casamari
 
 CASAMARI, a Cistercian abbey in the province of Rome, 6 m. E.S.E. of
-Veroli. It marks the site of Cereatae, the birthplace of Marius,
+Veroli. It marks the site of Cereatae, the birthplace of [[Marius]],
 afterwards known, as inscriptions attest, as Cereatae Marianae, having
 been separated perhaps by the triumvirs, from the territory of Arpinum.
 We find it under the early empire as an independent community. The abbey

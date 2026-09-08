@@ -1,6 +1,6 @@
 # Duke
 
-DUKE (corresponding to Fr. _duc_, Ital. _duca_, Ger. _Herzog_), the
+DUKE (corresponding to Fr. _duc_, Ital. _duca_, Ger. _[[Herzog]]_), the
 title of one of the highest orders of the European nobility, and of some
 minor sovereign princes. The word "duke," which is derived from the Lat.
 _dux_, a leader, or general, through the Fr. _duc_ (O. Fr. _dusc_,
@@ -11,7 +11,7 @@ _ziehen_, _zog_; Goth, _tiuhan_; Lat. _ducere_) and the old Ger.
 _herizog_. In this general sense the word survived in English literature
 until the 17th century, but is now obsolete.
 
-The origin of modern dukes is twofold. The _dux_ first appears in the
+The origin of modern [[Dukes|dukes]] is twofold. The _dux_ first appears in the
 Roman empire under the emperor Hadrian, and by the time of the Gordians
 has already a recognized place in the official hierarchy. He was the
 general appointed to the command of a particular expedition and his
@@ -25,15 +25,15 @@ civil as well as military functions, and even exercised considerable
 authority in ecclesiastical administration. Under the Byzantine emperors
 they were the representatives in all causes of the central power. The
 Roman title of duke was less dignified than that of count (_comes_,
-companion) which implied an honourable personal relation to the emperor
+companion) which implied an [[Honourable|honourable]] personal relation to the emperor
 (see COUNT). Both titles were borrowed by the Merovingian kings for the
-administrative machinery of the Frank empire, and under them the
+administrative machinery of the [[Frank]] empire, and under them the
 functions of the duke remained substantially unaltered. He was a great
 civil and military official, charged to watch, in the interests of the
 crown, over groups of several _comitatus_, or countships, especially in
 the border provinces. The sphere of the dukes was never rigidly fixed,
 and their commission was sometimes permanent, sometimes temporary. Under
-the Carolingians the functions of the dukes remained substantially the
+the [[Carolingians]] the functions of the dukes remained substantially the
 same; but with the decay of the royal power in the 10th century, both
 dukes and counts gained in local authority; the number of dukes became
 for the time fixed, and finally title and office were made hereditary,
@@ -52,9 +52,9 @@ nobilitate, duces ex virtute sumunt_; i.e. they elected their dukes for
 their warlike prowess only, and as purely military chiefs, whereas their
 kings were chosen from a royal family of divine descent. Sometimes the
 dukes so chosen succeeded in making their power permanent without taking
-the style of king. To this national category belong, besides the great
+the style of king. To this national [[Category|category]] belong, besides the great
 German dukedoms, the dukes of Normandy, and the Lombard dukes of Spoleto
-and Benevento, who traced their origin, not to an administrative office,
+and [[Benevento]], who traced their origin, not to an administrative office,
 but to the leadership of Teutonic war bands. With the development of the
 feudal system the distinction between the official and the national
 dukedoms was more and more obliterated. By the 13th and 14th centuries
@@ -85,7 +85,7 @@ Italian nobles are dukes, notably the heads of the great Roman ducal
 families, but not all Italian dukes are great nobles.
 
 In France the title duke at one time implied vast territorial power, as
-with the dukes of Burgundy, Normandy, Aquitaine and Brittany, who
+with the dukes of Burgundy, Normandy, [[Aquitaine]] and Brittany, who
 asserted a practical independence against the crown, though it was not
 till the 12th century that the title duke was definitely regarded as
 superior to others. At first (in the 10th and 11th centuries) it had no
@@ -97,23 +97,23 @@ no more than high rank and probably territorial wealth.
 
 There were, under the _ancien régime_, three classes of dukes in France:
 (1) dukes who were peers (see PEERAGE) and had a seat in the parlement
-of Paris; (2) hereditary dukes who were not peers; (3) "brevet" dukes,
-created for life only. The French duke ranks in Spain with the "grandee"
+of Paris; (2) hereditary dukes who were not peers; (3) "[[Brevet|brevet]]" dukes,
+created for life only. The French duke ranks in Spain with the "[[Grandee|grandee]]"
 (q.v.), and vice versa. In republican France the already existing titles
 are officially recognized, but they are now no more than the badges of
 distinguished ancestry. Besides the descendants of the feudal
-aristocracy there are in France certain ducal families dating from
+[[Aristocracy|aristocracy]] there are in France certain ducal families dating from
 Napoleon I.'s creation of 1806 (e.g. ducs d'Albufera, de Montebello, de
-Feltre), from Louis Philippe (duc d'Isly, and duc d'Audiffret-Pasquier),
-and from Napoleon III. (Malakoff, Magenta, Morny).
+[[Feltre]]), from Louis Philippe (duc d'Isly, and duc d'Audiffret-Pasquier),
+and from Napoleon III. (Malakoff, [[Magenta]], Morny).
 
 In England the title of duke was unknown till the 14th century, though
 in Saxon times the title ealdorman, afterwards exchanged for "earl," was
 sometimes rendered in Latin as _dux_,[1] and the English kings till
 John's time styled themselves dukes of Normandy, and dukes of Aquitaine
-even later. In 1337 King Edward III. erected the county of Cornwall into
+even later. In 1337 King Edward III. erected the county of [[Cornwall]] into
 a duchy for his son Edward the Black Prince, who was thus the first
-English duke. The second was Henry, earl of Lancaster, Derby, Lincoln
+English duke. The second was Henry, earl of [[Lancaster]], [[Derby]], [[Lincoln]]
 and Leicester, who was created duke of Lancaster in 1351. In Scotland
 the title of duke was first bestowed in 1398 by Robert III. on his
 eldest son David, who was made duke of Rothesay, and on his brother, who
@@ -124,16 +124,16 @@ the two archbishops of Canterbury and York, the lord Chancellor, &c.,
 but beyond this precedence they have no special privileges which are not
 shared by peers of lower rank (see PEERAGE). Though their full style as
 proclaimed by the herald is "most high, potent and noble prince," and
-they are included in the _Almanach de Gotha_, they are not recognized as
+they are included in the _Almanach de [[Gotha]]_, they are not recognized as
 the equals in blood of the crowned or mediatized dukes of the continent,
 and the daughter of an English duke marrying a foreign royal prince can
-only take his title by courtesy, or where, under the "house-laws" of
+only take his title by [[Courtesy|courtesy]], or where, under the "house-laws" of
 certain families, a family council sanctions the match. The eldest son
 of an English duke takes as a rule by courtesy the second title of his
 father, and ranks, with or without the title, as a marquess. The other
 sons and daughters bear the titles "Lord" and "Lady" before their
 Christian names, also by courtesy. A duke in the British peerage, if not
-royal, is addressed as "Your Grace" and is styled "the Most Noble." (See
+royal, is addressed as "Your [[Grace]]" and is styled "the Most Noble." (See
 ARCHDUKE, GRAND DUKE, and, for the ducal coronet, CROWN AND CORONET.)
      (W. A. P.)
 

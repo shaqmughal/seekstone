@@ -2,9 +2,9 @@
 
 BRADDOCK, EDWARD (1695?-1755), British general, was born in Perthshire,
 Scotland, about 1695. He was the son of Major-General Edward Braddock
-(d. 1725), and joined the Coldstream Guards in 1710. In 1747 as a
+(d. 1725), and joined the Coldstream [[Guards]] in 1710. In 1747 as a
 lieutenant-colonel he served under the prince of Orange in Holland
-during the siege of Bergen-op-Zoom. In 1753 he was given the colonelcy
+during the siege of [[Bergen-Op-Zoom|Bergen-op-Zoom]]. In 1753 he was given the colonelcy
 of the 14th foot, and in 1754 he became a major-general. Being appointed
 shortly afterwards to command against the French in America, he landed
 in Virginia in February 1755. After some months of preparation, in which

@@ -8,8 +8,8 @@ tags: [history, biography-studies]
 # Lycaeus
 
 LYCAEUS (Mons Lycaeus, [Greek: Lychaion oros]: mod. _Diaphorti_), a
-mountain in Arcadia, sacred to Zeus Lycaeus, who was said to have been
-born and brought up on it, and the home of Pelasgus and his son Lycaon,
+mountain in [[Arcadia]], sacred to Zeus Lycaeus, who was said to have been
+born and brought up on it, and the home of Pelasgus and his son [[Lycaon]],
 who is said to have founded the ritual of Zeus practised on its summit.
 This seems to have involved a human sacrifice, and a feast in which the
 man who received the portion of a human victim was changed to a wolf, as

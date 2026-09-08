@@ -15,8 +15,8 @@ Danube; electric tramways were opened in the main streets, which were
 lighted by gas or electricity, and pure water was supplied. The higher,
 or north-western part of the city, which is the more open and
 comfortable, contains many of the chief buildings. These include the
-prefecture, consulate, prison, barracks, civil and military hospitals
-and the offices of the international commission for the control of the
+prefecture, consulate, prison, [[Barracks|barracks]], civil and military hospitals
+and the offices of the [[International|international]] commission for the control of the
 Danube (q.v.). The bishop of the lower Danube resides at Galatz. There
 are many Orthodox Greek, Roman Catholic and other churches; the most
 interesting being the cathedral, and St Mary's church, in which is the
@@ -31,11 +31,11 @@ volume of traffic, except in mid-winter; and by the railways which
 intersect all the richest portions of the country. Textiles, machinery,
 and coal make up the bulk of imports. Besides a large trade in petroleum
 and salt, Galatz ranks first among Rumanian cities in its export of
-timber, and second to Braila in its export of grain. It possesses many
+timber, and second to [[Braila]] in its export of grain. It possesses many
 saw-mills, paste-mills, flour-mills, roperies, chemical works and
 petroleum refineries; manufacturing also metal ware, wire, nails, soap
-and candles. Vessels of 2500 tons can discharge at the quays, but
-cargoes consigned to Galatz are often transhipped into lighters at
+and [[Candle|candles]]. Vessels of 2500 tons can discharge at the quays, but
+[[Cargo|cargoes]] consigned to Galatz are often transhipped into lighters at
 Sulina. The shipping trade is largely in foreign hands, the principal
 owners being British.
 

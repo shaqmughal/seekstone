@@ -1,10 +1,10 @@
 # Flannelette
 
-FLANNELETTE, a cotton cloth made to imitate flannel. The word seems to
+FLANNELETTE, a cotton cloth made to imitate [[Flannel|flannel]]. The word seems to
 have been first used in the early 'eighties, and there is a reference in
 the _Daily News_ of 1887 to "a poverty-stricken article called
 flannelette." Now it is used very extensively for underclothing, night
-gear, dresses, dressing-gowns, shirts, &c. It is usually made with a
+gear, [[Dress|dresses]], dressing-gowns, shirts, &c. It is usually made with a
 much coarser weft than warp, and its flannel-like appearance is obtained
 by the raising or scratching up of this weft, and by various finishing
 processes. Some kinds are raised equally on both sides, and the nap may

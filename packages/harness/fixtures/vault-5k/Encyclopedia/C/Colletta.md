@@ -11,13 +11,13 @@ COLLETTA, PIETRO (1775-1831), Neapolitan general and historian, entered
 the Neapolitan artillery in 1796 and took part in the campaign against
 the French in 1798. On the entry of the French into Naples and the
 establishment of the Parthenopean republic (1799) he adhered to the new
-government, and when the Bourbon king Ferdinand IV. (q.v.) reconquered
+government, and when the Bourbon king [[Ferdinand]] IV. (q.v.) reconquered
 the city Colletta was thrown into prison and only escaped the death
 penalty by means of judiciously administered bribes. Turned out of the
 army he became a civil engineer, but when the Bourbons were expelled a
 second time in 1806 and Joseph Bonaparte seized the throne of Naples, he
 was reinstated in his rank and served in the expedition against the
-brigands and rebels of Calabria. In 1812 he was promoted general, and
+brigands and rebels of [[Calabria]]. In 1812 he was promoted general, and
 made director of roads and bridges. He served under Joachim Murat and
 fought the Austrians on the Panaro in 1815. On the restoration of
 Ferdinand Colletta was permitted to retain his rank in the army, and

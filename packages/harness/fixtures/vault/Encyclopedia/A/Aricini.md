@@ -7,8 +7,8 @@ tags: [history, judaica-theory]
 
 # Aricini
 
-ARICINI, the ancient inhabitants of Aricia (q.v.), the form of the name
-ranking them with the Sidicini, Marrucini (q.v.), &c., as one of the
+ARICINI, the ancient inhabitants of [[Aricia]] (q.v.), the form of the name
+ranking them with the Sidicini, [[Marrucini]] (q.v.), &c., as one of the
 communities belonging probably to the earlier or Volscian stratum of
 population on the west side of Italy, who were absorbed by the Sabine or
 Latin immigrants. Special interest attaches to this trace of their
@@ -27,7 +27,7 @@ conjecture that this extraordinary relic of barbarism was characteristic
 of the earlier stratum of the population who presumably called
 themselves _Arici_.
 
-  On the anthropological aspect of the cult, see also A.B. Cook,
+  On the anthropological aspect of the cult, see also A.B. [[Cook]],
   _Class. Rev_. xvi., 1902, p. 365, where the whole evidence is very
   fully collected; and Frazer's _Studies in the Early History of
   Kingship_ (1907), where he accepts Cook's criticism of his own earlier

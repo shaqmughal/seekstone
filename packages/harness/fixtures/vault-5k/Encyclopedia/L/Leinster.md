@@ -2,8 +2,8 @@
 
 LEINSTER, a province of Ireland, occupying the middle and south-eastern
 portion of the island, and extending to the left bank of the Shannon. It
-includes counties Longford, Westmeath, Meath, Louth, King's County,
-Kildare, Dublin, Queen's County, Carlow, Wicklow, Kilkenny and Wexford
+includes counties Longford, Westmeath, [[Meath]], Louth, King's County,
+Kildare, Dublin, Queen's County, Carlow, Wicklow, [[Kilkenny]] and Wexford
 (q.v. for topography, &c.). Leinster (_Laighen_) was one of the early
 Milesian provinces of Ireland. Meath, the modern county of which is
 included in Leinster, was the name of a separate province created in the

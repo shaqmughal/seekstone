@@ -2,33 +2,33 @@
 
 LINCOLN, ABRAHAM (1809-1865), sixteenth president of the United States
 of America, was born on "Rock Spring" farm, 3 m. from Hodgenville, in
-Hardin (now Larue) county, Kentucky, on the 12th of February 1809.[1]
+Hardin (now Larue) county, [[Kentucky]], on the 12th of February 1809.[1]
 His grandfather,[2] Abraham Lincoln, settled in Kentucky about 1780 and
 was killed by Indians in 1784. His father, Thomas (1778-1851), was born
 in Rockingham (then Augusta) county, Virginia; he was hospitable,
 shiftless, restless and unsuccessful, working now as a carpenter and now
-as a farmer, and could not read or write before his marriage, in
+as a [[Farmer|farmer]], and could not read or write before his marriage, in
 Washington county, Kentucky, on the 12th of June 1806, to Nancy Hanks
 (1783-1818), who was, like him, a native of Virginia, but had much more
 strength of character and native ability, and seemed to have been, in
-intellect and character, distinctly above the social class in which she
+[[Intellect|intellect]] and character, distinctly above the social class in which she
 was born. The Lincolns had removed from Elizabethtown, Hardin county,
 their first home, to the Rock Spring farm, only a short time before
 Abraham's birth; about 1813 they removed to a farm of 238 acres on Knob
-Creek, about 6 m. from Hodgenville; and in 1816 they crossed the Ohio
+[[Creek]], about 6 m. from Hodgenville; and in 1816 they crossed the Ohio
 river and settled on a quarter-section, 1½ m. E. of the present village
-of Gentryville, in Spencer county, Indiana. There Abraham's mother died
+of Gentryville, in Spencer county, [[Indiana]]. There Abraham's mother died
 on the 5th of October 1818. In December 1819 his father married, at his
 old home, Elizabethtown, Mrs Sarah (Bush) Johnston (d. 1869), whom he
 had courted years before, whose thrift greatly improved conditions in
 the home, and who exerted a great influence over her stepson. Spencer
 county was still a wilderness, and the boy grew up in pioneer
 surroundings, living in a rude log-cabin, enduring many hardships and
-knowing only the primitive manners, conversation and ambitions of
+knowing only the primitive [[Manners|manners]], conversation and ambitions of
 sparsely settled backwoods communities. Schools were rare, and teachers
 qualified only to impart the merest rudiments. "Of course when I came of
 age I did not know much," wrote he years afterward, "still somehow I
-could read, write and cipher to the rule of three, but that was all. I
+could read, write and [[Cipher|cipher]] to the rule of three, but that was all. I
 have not been to school since. The little advance I now have upon this
 store of education I have picked up from time to time under the pressure
 of necessity." His entire schooling, in five different schools, amounted
@@ -37,7 +37,7 @@ excellent penman. His own mother taught him to read, and his stepmother
 urged him to study. He read and re-read in early boyhood the Bible,
 Aesop, _Robinson Crusoe_, _Pilgrim's Progress_, Weems's _Life of
 Washington_ and a history of the United States; and later read every
-book he could borrow from the neighbours, Burns and Shakespeare becoming
+book he could borrow from the neighbours, [[Burns]] and Shakespeare becoming
 favourites. He wrote rude, coarse satires, crude verse, and compositions
 on the American government, temperance, &c. At the age of seventeen he
 had attained his full height, and began to be known as a wrestler,
@@ -45,10 +45,10 @@ runner and lifter of great weights. When nineteen he made a journey as a
 hired hand on a flatboat to New Orleans.
 
 In March 1830 his father emigrated to Macon county, Illinois (near the
-present Decatur), and soon afterward removed to Coles county. Being now
-twenty-one years of age, Abraham hired himself to Denton Offutt, a
+present [[Decatur]]), and soon afterward removed to Coles county. Being now
+twenty-one years of age, Abraham hired himself to [[Denton]] Offutt, a
 migratory trader and storekeeper then of Sangamon county, and he helped
-Offutt to build a flatboat and float it down the Sangamon, Illinois and
+Offutt to build a flatboat and [[Float|float]] it down the Sangamon, Illinois and
 Mississippi rivers to New Orleans. In 1831 Offutt made him clerk of his
 country store at New Salem, a small and unsuccessful settlement in
 Menard county; this gave him moments of leisure to devote to
@@ -63,10 +63,10 @@ Representatives; and on the 9th of March 1832 issued an address "To the
 people of Sangamon county" which betokens talent and education far
 beyond mere ability to "read, write and cipher," though in its
 preparation he seems to have had the help of a friend. Before the
-election the Black Hawk Indian War broke out; Lincoln volunteered in one
+election the Black [[Hawk]] Indian War broke out; Lincoln volunteered in one
 of the Sangamon county companies on the 21st of April and was elected
 captain by the members of the company. It is said that the oath of
-allegiance was administered to Lincoln at this time by Lieut. Jefferson
+allegiance was administered to Lincoln at this time by Lieut. [[Jefferson]]
 Davis. The company, a part of the 4th Illinois, was mustered out after
 the five weeks' service for which it volunteered, and Lincoln
 re-enlisted as a private on the 29th of May, and was finally mustered
@@ -77,13 +77,13 @@ his entire company was intoxicated. He was in no battle, and always
 spoke lightly of his military record. He was defeated in his campaign
 for the legislature in 1832, partly because of his unpopular adherence
 to Clay and the American system, but in his own election precinct, he
-received nearly all the votes cast. With a friend, William Berry, he
+received nearly all the votes cast. With a friend, William [[Berry]], he
 then bought a small country store, which soon failed chiefly because of
 the drunken habits of Berry and because Lincoln preferred to read and to
 tell stories--he early gained local celebrity as a story-teller--rather
-than sell; about this time he got hold of a set of Blackstone. In the
+than sell; about this time he got hold of a set of [[Blackstone]]. In the
 spring of 1833 the store's stock was sold to satisfy its creditors, and
-Lincoln assumed the firm's debts, which he did not fully pay off for
+Lincoln assumed the firm's [[Debt|debts]], which he did not fully pay off for
 fifteen years. In May 1833, local friendship, disregarding politics,
 procured his appointment as postmaster of New Salem, but this paid him
 very little, and in the same year the county surveyor of Sangamon county
@@ -97,15 +97,15 @@ only 14 fewer votes than the first) a member of the Illinois House of
 Representatives, to which he was re-elected in 1836, 1838 and 1840,
 serving until 1842. In his announcement of his candidacy in 1836 he
 promised to vote for Hugh L. White of Tennessee (a vigorous opponent of
-Andrew Jackson in Tennessee politics) for president, and said: "I go for
+Andrew [[Jackson]] in Tennessee politics) for president, and said: "I go for
 all sharing the privileges of the government who assist in bearing its
-burdens. Consequently, I go for admitting all whites to the right of
+[[Burden|burdens]]. Consequently, I go for admitting all whites to the right of
 suffrage, who pay taxes or bear arms (by no means excluding females)"--a
 sentiment frequently quoted to prove Lincoln a believer in woman's
 suffrage. In this election he led the poll in Sangamon county. In the
 legislature, like the other representatives of that county, who were
 called the "Long Nine," because of their stature, he worked for internal
-improvements, for which lavish appropriations were made, and for the
+improvements, for which lavish [[Appropriation|appropriations]] were made, and for the
 division of Sangamon county and the choice of Springfield as the state
 capital, instead of Vandalia. He and his party colleagues followed
 Stephen A. Douglas in adopting the convention system, to which Lincoln
@@ -122,9 +122,9 @@ than abate its evils," "that the Congress of the United States has no
 power under the Constitution to interfere with the institution of
 slavery in the different states," "that the Congress of the United
 States has the power, under the Constitution, to abolish slavery in the
-District of Columbia, but that the power ought not to be exercised
+District of [[Columbia]], but that the power ought not to be exercised
 unless at the request of the people of the District." Lincoln was very
-popular among his fellow legislators, and in 1838 and in 1840 he
+popular among his [[Fellow|fellow]] legislators, and in 1838 and in 1840 he
 received the complimentary vote of his minority colleagues for the
 speakership of the state House of Representatives. In 1842 he declined a
 renomination to the state legislature and attempted unsuccessfully to
@@ -132,7 +132,7 @@ secure a nomination to Congress. In the same year he became interested
 in the Washingtonian temperance movement.
 
 In 1846 he was elected a member of the National House of Representatives
-by a majority of 1511 over his Democratic opponent, Peter Cartwright,
+by a majority of 1511 over his Democratic opponent, Peter [[Cartwright]],
 the Methodist preacher. Lincoln was the only Whig member of Congress
 elected in Illinois in 1846. In the House of Representatives on the 22nd
 of December 1847 he introduced the "Spot Resolutions," which quoted
@@ -158,14 +158,14 @@ organized Territory of Oregon and for a time worked, without success,
 for an appointment as Commissioner of the General Land Office. During
 the presidential campaign he made speeches in Illinois, and in
 Massachusetts he spoke before the Whig State Convention at Worcester on
-the 12th of September, and in the next ten days at Lowell, Dedham,
-Roxbury, Chelsea, Cambridge and Boston. He had become an eloquent and
+the 12th of September, and in the next ten days at [[Lowell]], Dedham,
+Roxbury, Chelsea, Cambridge and [[Boston]]. He had become an eloquent and
 influential public speaker, and in 1840 and 1844 was a candidate on the
 Whig ticket for presidential elector.
 
 In 1834 his political friend and colleague John Todd Stuart (1807-1885),
 a lawyer in full practice, had urged him to fit himself for the bar, and
-had lent him text-books; and Lincoln, working diligently, was admitted
+had [[Lent|lent]] him text-books; and Lincoln, working diligently, was admitted
 to the bar in September 1836. In April 1837 he quitted New Salem, and
 removed to Springfield, which was the county-seat and was soon to become
 the capital of the state, to begin practice in a partnership with
@@ -183,11 +183,11 @@ associate justice of the Supreme Court of the United States, said that
 he was "great both at _nisi prius_ and before an appellate tribunal." He
 was an excellent cross-examiner, whose candid friendliness of manner
 often succeeded in eliciting important testimony from unwilling
-witnesses. Among Lincoln's most famous cases were: one (_Bailey_ v.
-_Cromwell_, 4 Ill. 71; frequently cited) before the Illinois Supreme
+witnesses. Among Lincoln's most famous cases were: one (_[[Bailey]]_ v.
+_[[Cromwell]]_, 4 Ill. 71; frequently cited) before the Illinois Supreme
 Court in July 1841 in which he argued against the validity of a note in
 payment for a negro girl, adducing the Ordinance of 1787 and other
-authorities; a case (tried in Chicago in September 1857) for the Rock
+authorities; a case (tried in [[Chicago]] in September 1857) for the Rock
 Island railway, sued for damages by the owners of a steamboat sunk after
 collision with a railway bridge, a trial in which Lincoln brought to the
 service of his client a surveyor's knowledge of mathematics and a
@@ -198,8 +198,8 @@ commerce in the contest against St Louis and river transportation; the
 defence (at Beardstown in May 1858) on the charge of murder of William
 ("Duff") Armstrong, son of one of Lincoln's New Salem friends, whom
 Lincoln freed by controverting with the help of an almanac the testimony
-of a crucial witness that between 10 and 11 o'clock at night he had seen
-by moonlight the defendant strike the murderous blow--this dramatic
+of a [[Crucial|crucial]] witness that between 10 and 11 o'clock at night he had seen
+by moonlight the [[Defendant|defendant]] strike the murderous blow--this dramatic
 incident is described in Edward Eggleston's novel, _The Graysons_; and
 the defence on the charge of murder (committed in August 1859) of
 "Peachy" Harrison, a grandson of Peter Cartwright, whose testimony was
@@ -208,9 +208,9 @@ used with great effect.
 From law, however, Lincoln was soon drawn irresistibly back into
 politics. The slavery question, in one form or another, had become the
 great overshadowing issue in national, and even in state politics; the
-abolition movement, begun in earnest by W. L. Garrison in 1831, had
+abolition movement, begun in [[Earnest|earnest]] by W. L. [[Garrison]] in 1831, had
 stirred the conscience of the North, and had had its influence even upon
-many who strongly deprecated its extreme radicalism; the Compromise of
+many who strongly deprecated its extreme radicalism; the [[Compromise]] of
 1850 had failed to silence sectional controversy, and the Fugitive Slave
 Law, which was one of the compromise measures, had throughout the North
 been bitterly assailed and to a considerable extent had been nullified
@@ -231,7 +231,7 @@ excluded from territory over which the national government had
 jurisdiction. In this, as in other things, he was eminently
 clear-sighted and practical. Already he had shown his capacity as a
 forcible and able debater; aroused to new activity upon the passage of
-the Kansas-Nebraska Bill, which he regarded as a gross breach of
+the Kansas-Nebraska Bill, which he regarded as a [[Gross|gross]] [[Breach|breach]] of
 political faith, he now entered upon public discussion with an
 earnestness and force that by common consent gave him leadership in
 Illinois of the opposition, which in 1854 elected a majority of the
@@ -241,7 +241,7 @@ elected to the state House of Representatives, from which he immediately
 resigned to become a candidate for United States senator from Illinois,
 to succeed James Shields, a Democrat; but five opposition members, of
 Democratic antecedents, refused to vote for Lincoln (on the second
-ballot he received 47 votes--50 being necessary to elect) and he turned
+[[Ballot|ballot]] he received 47 votes--50 being necessary to elect) and he turned
 the votes which he controlled over to Lyman Trumbull, who was opposed to
 the Kansas-Nebraska Act, and thus secured the defeat of Joel Aldrich
 Matteson (1808-1883), who favoured this act and who on the eighth ballot
@@ -249,12 +249,12 @@ had received 47 votes to 35 for Trumbull and 15 for Lincoln. The various
 anti-Nebraska elements came together, in Illinois as elsewhere, to form
 a new party at a time when the old parties were disintegrating; and in
 1856 the Republican party was formally organized in the state. Lincoln
-before the state convention at Bloomington of "all opponents of
+before the state convention at [[Bloomington]] of "all opponents of
 anti-Nebraska legislation" (the first Republican state convention in
 Illinois) made on the 29th of May a notable address known as the "Lost
 Speech." The National Convention of the Republican Party in 1856 cast
 110 votes for Lincoln as its vice-presidential candidate on the ticket
-with Fremont, and he was on the Republican electoral ticket of this
+with [[Fremont]], and he was on the Republican electoral ticket of this
 year, and made effective campaign speeches in the interest of the new
 party. The campaign in the state resulted substantially in a drawn
 battle, the Democrats gaining a majority in the state for president,
@@ -272,17 +272,17 @@ nominated him, gave expression to the following bold prophecy:--
   not expect the Union to be dissolved--I do not expect the house to
   fall--but I do expect it will cease to be divided. It will become all
   one thing or all the other. Either the opponents of slavery will
-  arrest the further spread of it, and place it where the public mind
+  [[Arrest|arrest]] the further spread of it, and place it where the public mind
   shall rest in the belief that it is in course of ultimate extinction;
   or its advocates will push it forward, till it shall become alike
   lawful in all the states, old as well as new--North as well as South."
 
 In this speech, delivered in the state House of Representatives, Lincoln
-charged Pierce, Buchanan, Taney and Douglas with conspiracy to secure
+charged Pierce, [[Buchanan]], Taney and Douglas with conspiracy to secure
 the Dred Scott decision. Yielding to the wish of his party friends, on
 the 24th of July, Lincoln challenged Douglas to a joint public
 discussion.[3] The antagonists met in debate at seven designated places
-in the state. The first meeting was at Ottawa, La Salle County, about 90
+in the state. The first meeting was at Ottawa, [[La Salle]] County, about 90
 m. south-west of Chicago, on the 21st of August. At Freeport, on the
 Wisconsin boundary, on the 27th of August, Lincoln answered questions
 put to him by Douglas, and by his questions forced Douglas to "betray
@@ -295,24 +295,24 @@ though it undoubtedly helped Douglas in the immediate fight for the
 senatorship, necessarily alienated his Southern supporters and assured
 his defeat, as Lincoln foresaw it must, in the presidential campaign of
 1860. The other debates were: at Jonesboro, in the southern part of the
-state, on the 15th of September; at Charleston, 150 m. N.E. of
+state, on the 15th of September; at [[Charleston]], 150 m. N.E. of
 Jonesboro, on the 18th of September; and, in the western part of the
-state, at Galesburg (Oct. 7), Quincy (Oct. 13) and Alton (Oct. 15). In
-these debates Douglas, the champion of his party, was over-matched in
+state, at [[Galesburg]] (Oct. 7), Quincy (Oct. 13) and Alton (Oct. 15). In
+these debates Douglas, the [[Champion|champion]] of his party, was over-matched in
 clearness and force of reasoning, and lacked the great moral earnestness
 of his opponent; but he dexterously extricated himself time and again
 from difficult argumentative positions, and retained sufficient support
 to win the immediate prize. At the November election the Republican vote
 was 126,084, the Douglas Democratic vote was 121,940 and the Lecompton
 (or Buchanan) Democratic vote was 5091; but the Democrats, through a
-favourable apportionment of representative districts, secured a majority
+favourable [[Apportionment|apportionment]] of representative districts, secured a majority
 of the legislature (Senate: 14 Democrats, 11 Republicans; House: 40
 Democrats, 35 Republicans), which re-elected Douglas. Lincoln's speeches
 in this campaign won him a national fame. In 1859 he made two speeches
 in Ohio--one at Columbus on the 16th of September criticising Douglas's
 paper in the September _Harper's Magazine_, and one at Cincinnati on the
 17th of September, which was addressed to Kentuckians,--and he spent a
-few days in Kansas, speaking in Elwood, Troy, Doniphan, Atchison and
+few days in Kansas, speaking in [[Elwood]], Troy, Doniphan, [[Atchison]] and
 Leavenworth, in the first week of December. On the 27th of February 1860
 in Cooper Union, New York City, he made a speech (much the same as that
 delivered in Elwood, Kansas, on the 1st of December) which made him
@@ -325,11 +325,11 @@ contention that "the fathers" made the country (and intended that it
 should remain) part slave. Lincoln pointed out that the majority of the
 members of the Constitutional Convention of 1787 opposed slavery and
 that they did not think that Congress had no power to control slavery in
-the Territories. He spoke at Concord, Manchester, Exeter and Dover in
-New Hampshire, at Hartford (5th March), New Haven (6th March),
+the Territories. He spoke at Concord, Manchester, Exeter and [[Dover]] in
+New [[Hampshire]], at [[Hartford]] (5th March), New Haven (6th March),
 Woonsocket (8th March) and Norwich (9th March). The Illinois State
 Convention of the Republican party, held at Decatur on the 9th and 10th
-of May 1860, amid great enthusiasm declared Abraham Lincoln its first
+of May 1860, amid great [[Enthusiasm|enthusiasm]] declared Abraham Lincoln its first
 choice for the presidential nomination, and instructed the delegation to
 the National Convention to cast the vote of the state as a unit for him.
 
@@ -347,20 +347,20 @@ Lincoln's name was presented by Illinois and seconded by Indiana. At
 first Seward had the strongest support. On the first ballot Lincoln
 received only 102 votes to 173½ for Seward. On the second ballot Lincoln
 received 181 votes to Seward's 184½. On the third ballot the 50½ votes
-formerly given to Simon Cameron[4] were given to Lincoln, who received
+formerly given to Simon [[Cameron]][4] were given to Lincoln, who received
 231½ votes to 180 for Seward, and without taking another ballot enough
 votes were changed to make Lincoln's total 354 (233 being necessary for
 a choice) and the nomination was then made unanimous. Hannibal Hamlin,
-of Maine, was nominated for the vice-presidency. The convention was
+of [[Maine]], was nominated for the vice-presidency. The convention was
 singularly tumultuous and noisy; large claques were hired by both
 Lincoln's and Seward's managers. During the campaign Lincoln remained in
 Springfield, making few speeches and writing practically no letters for
 publication. The campaign was unusually animated--only the Whig campaign
 for William Henry Harrison in 1840 is comparable to it: there were great
 torchlight processions of "wide-awake" clubs, which did "rail-fence," or
-zigzag, marches, and carried rails in honour of their candidate, the
+zigzag, [[Marches|marches]], and carried rails in honour of their candidate, the
 "rail-splitter." Lincoln was elected by a popular vote of 1,866,452 to
-1,375,157 for Douglas, 847,953 for Breckinridge and 590,631 for Bell--as
+1,375,157 for Douglas, 847,953 for [[Breckinridge]] and 590,631 for Bell--as
 the combined vote of his opponents was so much greater than his own he
 was often called "the minority president"; the electoral vote was:
 Lincoln, 180; John C. Breckinridge, 72; John Bell, 39; Stephen A.
@@ -375,8 +375,8 @@ interpreted by them, would no longer be respected by the North, and
 that, if Lincoln were elected, it would be the duty of these
 slave-holding states to secede from the Union. There was much opposition
 in these states to such a course, but the secessionists triumphed, and
-by the time President Lincoln was inaugurated, South Carolina, Georgia,
-Alabama, Florida, Mississippi, Louisiana and Texas had formally
+by the time President Lincoln was inaugurated, South Carolina, [[Georgia]],
+Alabama, Florida, Mississippi, [[Louisiana]] and Texas had formally
 withdrawn from the Union. A provisional government under the designation
 "The Confederate States of America," with Jefferson Davis as president,
 was organized by the seceding states, which seized by force nearly all
@@ -394,7 +394,7 @@ through starvation, Lincoln sent the besiegers official notice on the
 8th of April that a fleet was on its way to carry provisions to the
 fort, but that he would not attempt to reinforce it unless this effort
 were resisted. The Confederates, however, immediately ordered its
-reduction, and after a thirty-four hours' bombardment the garrison
+reduction, and after a thirty-four hours' [[Bombardment|bombardment]] the garrison
 capitulated on the 13th of April 1861. (For the military history of the
 war, see AMERICAN CIVIL WAR.)
 
@@ -402,7 +402,7 @@ With civil war thus provoked, Lincoln, on the 15th of April, by
 proclamation called 75,000 three months' militia under arms, and on the
 4th of May ordered the further enlistment of 64,748 soldiers and 18,000
 seamen for three years' service. He instituted by proclamation of the
-19th of April a blockade of the Southern ports, took effective steps to
+19th of April a [[Blockade|blockade]] of the Southern ports, took effective steps to
 extemporize a navy, convened Congress in special session (on the 4th of
 July), and asked for legislation and authority to make the war "short,
 sharp and decisive." The country responded with enthusiasm to his
@@ -412,14 +412,14 @@ The slavery question presented vexatious difficulties in conducting the
 war. Congress in August 1861 passed an act (approved August 6th)
 confiscating rights of slave-owners to slaves employed in hostile
 service against the Union. On the 30th of August General Fremont by
-military order declared martial law and confiscation against active
+military order declared [[Martial|martial]] law and confiscation against active
 enemies, with freedom to their slaves, in the State of Missouri.
 Believing that under existing conditions such a step was both
 detrimental in present policy and unauthorized in law, President Lincoln
 directed him (2nd September) to modify the order to make it conform to
 the Confiscation Act of Congress, and on the 11th of September annulled
 the parts of the order which conflicted with this act. Strong political
-factions were instantly formed for and against military emancipation,
+[[Faction|factions]] were instantly formed for and against military emancipation,
 and the government was hotly beset by antagonistic counsel. The
 Unionists of the border slave states were greatly alarmed, but Lincoln
 by his moderate conservatism held them to the military support of the
@@ -427,19 +427,19 @@ government.[5] Meanwhile he sagaciously prepared the way for the supreme
 act of statesmanship which the gathering national crisis already dimly
 foreshadowed. On the 6th of March 1862, he sent a special message to
 Congress recommending the passage of a resolution offering pecuniary aid
-from the general government to induce states to adopt gradual
+from the general government to induce states to adopt [[Gradual|gradual]]
 abolishment of slavery. Promptly passed by Congress, the resolution
 produced no immediate result except in its influence on public opinion.
 A practical step, however, soon followed. In April Congress passed and
 the president approved (6th April) an act emancipating the slaves in the
 District of Columbia, with compensation to owners--a measure which
 Lincoln had proposed when in Congress. Meanwhile slaves of loyal masters
-were constantly escaping to military camps. Some commanders excluded
+were constantly escaping to military camps. Some [[Commander|commanders]] excluded
 them altogether; others surrendered them on demand; while still others
 sheltered and protected them against their owners. Lincoln tolerated
-this latitude as falling properly within the military discretion
+this [[Latitude|latitude]] as falling properly within the military discretion
 pertaining to local army operations. A new case, however, soon demanded
-his official interference. On the 9th of May 1862 General David Hunter,
+his official interference. On the 9th of May 1862 General David [[Hunter]],
 commanding in the limited areas gained along the southern coast, issued
 a short order declaring his department under martial law, and
 adding--"Slavery and martial law in a free country are altogether
@@ -450,7 +450,7 @@ by sea, reached the newspapers, Lincoln (May 19) published a
 proclamation declaring it void; adding further, "Whether it be competent
 for me as commander-in-chief of the army and navy to declare the slaves
 of any state or states free, and whether at any time or in any case it
-shall have become a necessity indispensable to the maintenance of the
+shall have become a necessity indispensable to the [[Maintenance|maintenance]] of the
 government to exercise such supposed power, are questions which under my
 responsibility I reserve to myself, and which I cannot feel justified in
 leaving to the decision of commanders in the field. These are totally
@@ -468,7 +468,7 @@ representatives of the border slave states to the executive mansion, and
 once more urged upon them his proposal of compensated emancipation. "If
 the war continues long," he said, "as it must if the object be not
 sooner attained, the institution in your states will be extinguished by
-mere friction and abrasion--by the mere incidents of the war. It will be
+mere [[Friction|friction]] and abrasion--by the mere incidents of the war. It will be
 gone, and you will have nothing valuable in lieu of it." Although
 Lincoln's appeal brought the border states to no practical decision--the
 representatives of these states almost without exception opposed the
@@ -478,7 +478,7 @@ slavery its _coup de grâce_; on the 17th he approved a new Confiscation
 Act, much broader than that of the 6th of August 1861 (which freed only
 those slaves in military service against the Union) and giving to the
 president power to employ persons of African descent for the suppression
-of the rebellion; and on the 22nd he submitted to his cabinet the draft
+of the rebellion; and on the 22nd he submitted to his [[Cabinet|cabinet]] the draft
 of an emancipation proclamation substantially as afterward issued.
 Serious military reverses constrained him for the present to withhold
 it, while on the other hand they served to increase the pressure upon
@@ -494,21 +494,21 @@ reformers with one hand, and leading up halting conservatives with the
 other, he on the 13th of September replied among other things to an
 address from a delegation: "I do not want to issue a document that the
 whole world will see must necessarily be inoperative like the pope's
-bull against the comet.... I view this matter as a practical war
+[[Bull|bull]] against the [[Comet|comet]].... I view this matter as a practical war
 measure, to be decided on according to the advantages or disadvantages
 it may offer to the suppression of the rebellion.... I have not decided
 against a proclamation of liberty to the slaves, but hold the matter
 under advisement."
 
 The year 1862 had opened with important Union victories. Admiral A. H.
-Foote captured Fort Henry on the 6th of February, and Gen. U. S. Grant
-captured Fort Donelson on the 16th of February, and won the battle of
-Shiloh on the 6th and 7th of April. Gen. A. E. Burnside took possession
+[[Foote]] captured Fort Henry on the 6th of February, and Gen. U. S. Grant
+captured Fort [[Donelson]] on the 16th of February, and won the battle of
+Shiloh on the 6th and 7th of April. Gen. A. E. [[Burnside]] took possession
 of Roanoke island on the North Carolina coast (7th February). The famous
 contest between the new ironclads "Monitor" and "Merrimac" (9th April),
 though indecisive, effectually stopped the career of the Confederate
 vessel, which was later destroyed by the Confederates themselves. (See
-HAMPTON ROADS.) Farragut, with a wooden fleet, ran past the twin forts
+[[Hampton Roads|HAMPTON ROADS]].) Farragut, with a wooden fleet, ran past the twin forts
 St Philip and Jackson, compelled the surrender of New Orleans (26th
 April), and gained control of the lower Mississippi. The succeeding
 three months brought disaster and discouragement to the Union army.
@@ -516,7 +516,7 @@ M'Clellan's campaign against Richmond was made abortive by his timorous
 generalship, and compelled the withdrawal of his army. Pope's army,
 advancing against the same city by another line, was beaten back upon
 Washington in defeat. The tide of war, however, once more turned in the
-defeat of Lee's invading army at South Mountain and Antietam in Maryland
+defeat of Lee's invading army at South Mountain and [[Antietam]] in Maryland
 on the 14th and on the 16th and 17th of September, compelling him to
 retreat.
 
@@ -541,7 +541,7 @@ slaves within said designated states and parts of states are and
 henceforward shall be free," and pledging the executive and military
 power of the government to maintain such freedom. The legal validity of
 these proclamations was never pronounced upon by the national courts;
-but their decrees gradually enforced by the march of armies were soon
+but their [[Decree|decrees]] gradually enforced by the march of armies were soon
 recognized by public opinion to be practically irreversible.[6] Such
 dissatisfaction as they caused in the border slave states died out in
 the stress of war. The systematic enlistment of negroes and their
@@ -578,9 +578,9 @@ Later friendly relations between the United States and Great Britain,
 where, among the upper classes, there was a strong sentiment in favour
 of the Confederacy, were seriously threatened by the fitting out of
 Confederate privateers in British ports, and the Administration owed
-much to the skilful diplomacy of the American minister in London,
+much to the skilful [[Diplomacy|diplomacy]] of the American minister in London,
 Charles Francis Adams. A still broader foreign question grew out of
-Mexican affairs, when events culminating in the setting up of Maximilian
+Mexican affairs, when events culminating in the setting up of [[Maximilian]]
 of Austria as emperor under protection of French troops demanded the
 constant watchfulness of the United States. Lincoln's course was one of
 prudent moderation. France voluntarily declared that she sought in
@@ -598,18 +598,18 @@ that it would only be entering into diplomatic discussion with the
 rebels whether the authority of the government should be renounced, and
 the country delivered over to disunion and anarchy.
 
-The Civil War gradually grew to dimensions beyond all expectation. By
+The Civil War gradually grew to [[Dimension|dimensions]] beyond all expectation. By
 January 1863 the Union armies numbered near a million men, and were kept
 up to this strength till the end of the struggle. The Federal war debt
 eventually reached the sum of $2,700,000,000. The fortunes of battle
 were somewhat fluctuating during the first half of 1863, but the
 beginning of July brought the Union forces decisive victories. The
-reduction of Vicksburg (4th of July) and Port Hudson (9th of July), with
+reduction of Vicksburg (4th of July) and Port [[Hudson]] (9th of July), with
 other operations, restored complete control of the Mississippi, severing
-the Southern Confederacy. In the east Lee had the second time marched
+the Southern Confederacy. In the east [[Lee]] had the second time marched
 his army into Pennsylvania to suffer a disastrous defeat at Gettysburg,
 on the 1st, 2nd and 3rd of July, though he was able to withdraw his
-shattered forces south of the Potomac. At the dedication of this
+shattered forces south of the Potomac. At the [[Dedication|dedication]] of this
 battlefield as a soldiers' cemetery in November, President Lincoln made
 the following oration, which has taken permanent place as a classic in
 American literature:--
@@ -647,11 +647,11 @@ but refused every importunity to postpone it. It was made a special
 subject of criticism by the Democratic party of the North, which was now
 organizing itself on the basis of a discontinuance of the war, to
 endeavour to win the presidential election of the following year.
-Clement L. Vallandigham of Ohio, having made a violent public speech at
+[[Clement]] L. Vallandigham of Ohio, having made a violent public speech at
 Mt. Vernon, Ohio, on the 1st of May against the war and military
 proceedings, was arrested on the 5th of May by General Burnside, tried
 by military commission, and sentenced on the 16th to imprisonment; a
-writ of _habeas corpus_ had been refused, and the sentence was changed
+writ of _[[Habeas Corpus|habeas corpus]]_ had been refused, and the sentence was changed
 by the president to transportation beyond the military lines. By way of
 political defiance the Democrats of Ohio nominated Vallandigham for
 governor on the 11th of June. Prominent Democrats and a committee of the
@@ -660,7 +660,7 @@ letters in reply discussing the constitutional question, and declaring
 that in his judgment the president as commander-in-chief in time of
 rebellion or invasion holds the power and responsibility of suspending
 the privilege of the writ of _habeas corpus_, but offering to release
-Vallandigham if the committee would sign a declaration that rebellion
+Vallandigham if the committee would sign a [[Declaration|declaration]] that rebellion
 exists, that an army and navy are constitutional means to suppress it,
 and that each of them would use his personal power and influence to
 prosecute the war. This liberal offer and their refusal to accept it
@@ -668,7 +668,7 @@ counteracted all the political capital they hoped to make out of the
 case; and public opinion was still more powerfully influenced in behalf
 of the president's action, by the pathos of the query which he
 propounded in one of his letters: "Must I shoot the simple-minded
-soldier boy who deserts, while I must not touch a hair of a wily
+soldier boy who [[Desert|deserts]], while I must not touch a hair of a wily
 agitator who induces him to desert?" When the election took place in
 Ohio, Vallandigham was defeated by a majority of more than a hundred
 thousand.
@@ -692,7 +692,7 @@ public, the following standing offer:--
   which comes by and with an authority that can control the armies now
   at war against the United States, will be received and considered by
   the Executive Government of the United States, and will be met by
-  liberal terms on substantial and collateral points, and the bearer or
+  liberal terms on substantial and [[Collateral|collateral]] points, and the bearer or
   bearers thereof shall have safe conduct both ways.
 
     "July 18, 1864."
@@ -701,7 +701,7 @@ public, the following standing offer:--
 
 A noteworthy conference on this question took place near the close of
 the Civil War, when the strength of the Confederacy was almost
-exhausted. F. P. Blair, senior, a personal friend of Jefferson Davis,
+exhausted. F. P. [[Blair]], senior, a personal friend of Jefferson Davis,
 acting solely on his own responsibility, was permitted to go from
 Washington to Richmond, where, on the 12th of January 1865, after a
 private and unofficial interview, Davis in writing declared his
@@ -720,7 +720,7 @@ and postponement of its issues for future adjustment, while for the
 present the belligerents should unite in a campaign to expel the French
 from Mexico, and to enforce the Monroe doctrine. President Lincoln,
 however, although he offered to use his influence to secure compensation
-by the Federal government to slave-owners for their slaves, if there
+by the [[Federal Government|Federal government]] to slave-owners for their slaves, if there
 should be "voluntary abolition of slavery by the states," a liberal and
 generous administration of the Confiscation Act, and the immediate
 representation of the southern states in Congress, refused to consider
@@ -758,7 +758,7 @@ June unanimously renominated Lincoln, and had nominated Andrew Johnson
 of Tennessee for the vice-presidency. At the election held on the 8th of
 November 1864, Lincoln received 2,216,076 of the popular votes, and
 M'Clellan (who had openly disapproved of the resolution declaring the
-war a failure) but 1,808,725; while of the presidential electors 212
+war a failure) but 1,808,725; while of the presidential [[Electors|electors]] 212
 voted for Lincoln and 21 for M'Clellan. Lincoln's second term of office
 began on the 4th of March 1865.
 
@@ -779,12 +779,12 @@ public address on the evening of the 11th of April, devoted mainly to
 the question of reconstructing loyal governments in the conquered
 states. On the evening of the 14th of April he attended Ford's theatre
 in Washington. While seated with his family and friends absorbed in the
-play, John Wilkes Booth, an actor, who with others had prepared a plot
+play, John Wilkes [[Booth]], an actor, who with others had prepared a plot
 to assassinate the several heads of government, went into the little
-corridor leading to the upper stage-box, and secured it against ingress
-by a wooden bar. Then stealthily entering the box, he discharged a
-pistol at the head of the president from behind, the ball penetrating
-the brain. Brandishing a huge knife, with which he wounded Colonel
+[[Corridor|corridor]] leading to the upper stage-box, and secured it against ingress
+by a wooden bar. Then stealthily entering the [[Box|box]], he discharged a
+pistol at the head of the president from behind, the [[Ball|ball]] penetrating
+the brain. Brandishing a huge [[Knife|knife]], with which he wounded Colonel
 Rathbone who attempted to hold him, the assassin rushed through the
 stage-box to the front and leaped down upon the stage, escaping behind
 the scenes and from the rear of the building, but was pursued, and
@@ -794,10 +794,10 @@ breathed his last at 7 A.M. on the 15th of April 1865.
 
   President Lincoln was of unusual stature, 6 ft. 4 in., and of spare
   but muscular build; he had been in youth remarkably strong and skilful
-  in the athletic games of the frontier, where, however, his popularity
+  in the athletic [[Games|games]] of the frontier, where, however, his popularity
   and recognized impartiality oftener made him an umpire than a
   champion. He had regular and prepossessing features, dark complexion,
-  broad high forehead, prominent cheek bones, grey deep-set eyes, and
+  broad high forehead, prominent cheek [[Bone|bones]], grey deep-set eyes, and
   bushy black hair, turning to grey at the time of his death. Abstemious
   in his habits, he possessed great physical endurance. He was almost as
   tender-hearted as a woman. "I have not willingly planted a thorn in
@@ -811,10 +811,10 @@ breathed his last at 7 A.M. on the 15th of April 1865.
   awkwardness, oddity or eccentricity. His mental qualities were--a
   quick analytic perception, strong logical powers, a tenacious memory,
   a liberal estimate and tolerance of the opinions of others, ready
-  intuition of human nature; and perhaps his most valuable faculty was
+  [[Intuition|intuition]] of human nature; and perhaps his most valuable faculty was
   rare ability to divest himself of all feeling or passion in weighing
   motives of persons or problems of state. His speech and diction were
-  plain, terse, forcible. Relating anecdotes with appreciative humour
+  plain, terse, forcible. Relating anecdotes with appreciative [[Humour|humour]]
   and fascinating dramatic skill, he used them freely and effectively in
   conversation and argument. He loved manliness, truth and justice. He
   despised all trickery and selfish greed. In arguments at the bar he
@@ -843,7 +843,7 @@ breathed his last at 7 A.M. on the 15th of April 1865.
   forgiveness were the very basis of his character; his world-wide
   humanity is aptly embodied in a phrase of his second inaugural: "With
   malice toward none, with charity for all." His nature was deeply
-  religious, but he belonged to no denomination.
+  religious, but he belonged to no [[Denomination|denomination]].
 
 Lincoln married in Springfield on the 4th of November 1842, Mary Todd
 (1818-1882), also a native of Kentucky, who bore him four sons, of whom
@@ -856,7 +856,7 @@ was prominently connected with many large corporations, becoming in 1897
 president of the Pullman Co.
 
 Of the many statues of President Lincoln in American cities, the best
-known is that, in Chicago, by St Gaudens. Among the others are two by
+known is that, in Chicago, by St [[Gauden|Gaudens]]. Among the others are two by
 Thomas Ball, one in statuary hall in the Capitol at Washington, and one
 in Boston; two--one in Rochester, N.Y., and one in Springfield, Ill.--by
 Leonard W. Volk, who made a life-mask and a bust of Lincoln in 1860; and
@@ -866,7 +866,7 @@ the Capitol at Washington.
 
   See _The Complete Works of Abraham Lincoln_ (12 vols., New York,
   1906-1907; enlarged from the 2-volume edition of 1894 by John G.
-  Nicolay and John Hay). There are various editions of the
+  Nicolay and John [[Hay]]). There are various editions of the
   Lincoln-Douglas debates of 1858; perhaps the best is that edited by E.
   E. Sparks (1908). There are numerous biographies, and biographical
   studies, including: John G. Nicolay and John Hay, _Abraham Lincoln: A
@@ -875,10 +875,10 @@ the Capitol at Washington.
   Short Life of Abraham Lincoln_ (New York, 1904), condensed from the
   preceding; John T. Morse, Jr., _Abraham Lincoln_ (2 vols., Boston,
   1896), in the "American Statesmen" series, an excellent brief
-  biography, dealing chiefly with Lincoln's political career; Ida M.
+  biography, dealing chiefly with Lincoln's political career; [[Ida]] M.
   Tarbell, _The Early Life of Lincoln_ (New York, 1896) and _Life of
   Abraham Lincoln_ (2 vols., New York, 1900), containing new material to
-  which too great prominence and credence is sometimes given; Carl
+  which too great prominence and [[Credence|credence]] is sometimes given; Carl
   Schurz, _Abraham Lincoln: An Essay_ (Boston, 1891), a remarkably able
   estimate; Ward H. Lamon, _The Life of Abraham Lincoln from his Birth
   to his Inauguration as President_ (Boston, 1872), supplemented by
@@ -891,7 +891,7 @@ the Capitol at Washington.
   Lincoln, the True Story of a Great Life_ (3 vols., Chicago, 1889;
   revised, 2 vols., New York, 1892), an intimate and ill-proportioned
   biography by Lincoln's law partner who exaggerates the importance of
-  the petty incidents of his youth and young manhood; Isaac N. Arnold,
+  the petty incidents of his youth and young manhood; [[Isaac]] N. [[Arnold]],
   _History of Abraham Lincoln and the Overthrow of Slavery_ (Chicago,
   1867), revised and enlarged as _Life of Abraham Lincoln_ (Chicago,
   1885), valuable for personal reminiscences; Gideon Welles, _Lincoln
@@ -902,13 +902,13 @@ the Capitol at Washington.
   Carpenter, _Six Months in the White House_ (New York, 1866), an
   excellent account of Lincoln's daily life while president; Robert T.
   Hill, _Lincoln the Lawyer_ (New York, 1906); A. Rothschild, _Lincoln,
-  the Master of Men_ (Boston, 1906); J. Eaton and E. O. Mason, _Grant,
+  the Master of Men_ (Boston, 1906); J. [[Eaton]] and E. O. Mason, _Grant,
   Lincoln, and the Freedmen_ (New York, 1907); R. W. Gilder, _Lincoln,
   the Leader, and Lincoln's Genius for Expression_ (New York, 1909); M.
   L. Learned, _Abraham Lincoln: An American Migration_ (Philadelphia,
   1909), a careful study of the Lincoln family in America; W. P.
   Pickett, _The Negro Problem: Abraham Lincoln's Solution_ (New York,
-  1909); James H. Lea and J. R. Hutchinson, _The Ancestry of Abraham
+  1909); James H. [[Lea]] and J. R. [[Hutchinson]], _The Ancestry of Abraham
   Lincoln_ (Boston, 1909), a careful genealogical monograph; and C. H.
   McCarthy, _Lincoln's Plan of Reconstruction_ (New York, 1901). For an
   excellent account of Lincoln as president see J. F. Rhodes, _History
@@ -919,8 +919,8 @@ the Capitol at Washington.
 FOOTNOTES:
 
   [1] Lincoln's birthday is a legal holiday in California, Colorado,
-    Connecticut, Delaware, Florida, Illinois, Indiana, Iowa, Kansas,
-    Michigan, Minnesota, Montana, Nevada, New Jersey, New York, North
+    Connecticut, [[Delaware]], Florida, Illinois, Indiana, Iowa, Kansas,
+    Michigan, Minnesota, Montana, Nevada, New [[Jersey]], New York, North
     Dakota, Pennsylvania, South Dakota, Utah, Washington, West Virginia
     and Wyoming.
 
@@ -929,7 +929,7 @@ FOOTNOTES:
     emigrated to Massachusetts in 1637 as apprentice to a weaver and
     settled with two older brothers in Hingham, Mass. His son and
     grandson were iron founders; the grandson Mordecai (1686-1736) moved
-    to Chester county, Pennsylvania. Mordecai's son John (1711-c. 1773),
+    to [[Chester]] county, Pennsylvania. Mordecai's son John (1711-c. 1773),
     a weaver, settled in what is now Rockingham county, Va., and was the
     president's great-grandfather.
 

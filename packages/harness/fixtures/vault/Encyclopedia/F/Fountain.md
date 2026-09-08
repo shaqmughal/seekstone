@@ -20,31 +20,31 @@ to the simpler arrangements for letting water gush into an ornamental
 basin or to the more elaborate ones by which water is mechanically
 forced into high jets; and a "fountain" may be either the ornamental
 receptacle or the jet of water itself. In modern times the examples of
-ornamental or useful fountains are legion, and it will suffice here to
+ornamental or useful fountains are [[Legion|legion]], and it will suffice here to
 mention some of the more important facts of historical interest.
 
 Among the Greeks fountains were very common in the cities. Springs being
-very plentiful in Greece, little engineering skill was required to
+very plentiful in Greece, little [[Engineering|engineering]] skill was required to
 convey the water from place to place. Receptacles of sufficient size
 were made for it at the springs; and to maintain its purity, structures
 were raised enclosing and covering the receptacle. In Greece they were
 dedicated to gods and goddesses, nymphs and heroes, and were frequently
-placed in or near temples. That of Pirene at Corinth (mentioned also by
+placed in or near temples. That of Pirene at [[Corinth]] (mentioned also by
 Herodotus) was formed of white stone, and contained a number of cells
 from which the pleasant water flowed into an open basin. Legend connects
 it with the nymph Pirene, who shed such copious tears, when bewailing
 her son who had been slain by Diana, that she was changed into a
 fountain. The city of Corinth possessed many fountains. In one near the
-statues of Diana and Bellerophon the water flowed through the hoofs of
+statues of Diana and [[Bellerophon]] the water flowed through the hoofs of
 the horse Pegasus. The fountain of Glauce, enclosed in the Odeum, was
 dedicated to Glauce, because she was said to have thrown herself into it
 believing that its waters could counteract the poisons of Medea. Another
 Corinthian fountain had a bronze statue of Poseidon standing on a
-dolphin from which the water flowed. The fountain constructed by
+[[Dolphin|dolphin]] from which the water flowed. The fountain constructed by
 Theagenes at Megara was remarkable for its size and decorations, and for
 the number of its columns. One at Lerna was surrounded with pillars, and
 the structure contained a number of seats affording a cool summer
-retreat. Near Pharae was a grove dedicated to Apollo, and in it a
+retreat. Near Pharae was a grove dedicated to [[Apollo]], and in it a
 fountain of water. Pausanias gives a definite architectural detail when
 he says that a fountain at Patrae was reached from without by descending
 steps. Mystical, medicinal, surgical and other qualities, as well as
@@ -56,11 +56,11 @@ many lands. The fountain Enneacrunus at Athens was called Callirrhoe
 before the time the water was drawn from it by the nine pipes from which
 it took its later name. Two temples were above it, according to
 Pausanias, one dedicated to Demeter and Persephone, and the other to
-Triptolemus. The fountain in the temple of Erechtheus at Athens was
+Triptolemus. The fountain in the temple of [[Erechtheus]] at Athens was
 supplied by a spring of salt water, and a similar spring supplied that
 in the temple of Poseidon Hippios at Mantinea.
 
-The water-supply of Rome and the works auxiliary to it were on a scale
+The water-supply of Rome and the works [[Auxiliary|auxiliary]] to it were on a scale
 to be expected from a people of such great practical power. The remains
 of the aqueducts which stretched from the city across the Campagna are
 amongst the most striking monuments of Italy. Vitruvius (book viii.)
@@ -78,21 +78,21 @@ private houses. Considerable revenue was drawn from the possessors of
 private water-pipes. The Roman fountains were generally decorated with
 figures and heads. Fountains were often also the ornament of Roman
 villas and country houses; in those so situated the water generally
-ally fell from above into a large marble basin, with at times a second
+ally fell from above into a large [[Marble|marble]] basin, with at times a second
 fall into a still lower receptacle. Two adjacent houses in Pompeii had
 very remarkable fountains. One, says Gell, "is covered with a sort of
-mosaic consisting of vitrified tesserae of different colours, but in
+mosaic consisting of vitrified tesserae of different [[Colours|colours]], but in
 which blue predominates. These are sometimes arranged in not inelegant
-patterns, and the grand divisions as well as the borders are entirely
+patterns, and the grand divisions as well as the [[Borders|borders]] are entirely
 formed and ornamented with real sea-shells, neither calcined by the heat
-of the eruption nor changed by the lapse of so many centuries"
+of the eruption nor changed by the [[Lapse|lapse]] of so many centuries"
 (_Pompeiana_, i. 196). Another of large size was similarly decorated
 with marine shells, and is supposed to have borne two sculptured
 figures, one of which, a bronze, is in the museum at Naples. This
 fountain projects 5 ft. 7 in. from the wall against which it is placed,
 and is 7 ft. wide in front, while the height of the structure up to the
-eaves of the pediment is 7 ft. 7 in. On a central column in the piscina
-was a statue of Cupid, with a dove, from the mouth of which water
+[[Eaves|eaves]] of the pediment is 7 ft. 7 in. On a central column in the piscina
+was a statue of Cupid, with a [[Dove|dove]], from the mouth of which water
 issued. Cicero had, at his villa at Formiae, a fountain which was
 decorated with marine shells.
 
@@ -102,11 +102,11 @@ little ornament except a human or animal head, from the mouth of which
 it was arranged that the water should issue. Not only did simple running
 fountains exist, but the remains of _jets d'eau_ have been found; and a
 drawing exists representing a vase with a double jet of water, standing
-on a pedestal placed in what is supposed to have been the impluvium of a
+on a pedestal placed in what is supposed to have been the [[Impluvium|impluvium]] of a
 house. There was also a _jet d'eau_ at the eastern end of the peristyle
 of the Fullonica at Pompeii.
 
-As among the Greeks, so with the early Celts, traces of superstitious
+As among the Greeks, so with the early [[Celt|Celts]], traces of superstitious
 beliefs and usages with relation to fountains can be traced in
 monumental and legendary remains. Near the village of Primaleon in
 Brittany was a very remarkable monument,--one possibly unique, as giving
@@ -117,7 +117,7 @@ square basin formed of large flat stones, which receives a fountain of
 water. At Lochrist is another vestige of the Celtic cult of fountains.
 Beneath the church, and at the foot of the hill upon which it is built,
 is a sacred fountain, near which is erected an ancient chapel, which
-with its ivy-covered walls has a most romantic appearance. A Gothic
+with its ivy-covered walls has a most romantic appearance. A [[Gothic]]
 vault protects this fountain. Miraculous virtues are still attributed to
 its water, and on certain days the country people still come with
 offerings to draw it (see La Poix de Freminville, _Antiquites de la
@@ -125,7 +125,7 @@ Bretagne_, i. p. 101). In the enchanted forest of Brochelande, so famous
 from its connexion with Merlin, was the fountain of Baranton, which was
 said to possess strange characteristics. Whoever drew water from it, and
 sprinkled the steps therewith, produced a tremendous storm of thunder
-and hail, accompanied with thick darkness.
+and [[Hail|hail]], accompanied with thick darkness.
 
 Christianity transferred to its own uses the ancient religious feeling
 concerning fountains. Statues of the Virgin or of saints were erected
@@ -135,9 +135,9 @@ these structures during the middle ages. A very common form in rural
 districts was that in which the fountain was reached by descending steps
 (_fontaine grotte_). A large basin received the water, sometimes from a
 spout, but often from the spring itself. This basin was covered by a
-sort of porch or vault, with at times moulded arches and sculptured
-figures and escutcheons. On the bank of the Clain at Poitiers is a
-fountain of this kind, the Fontaine Joubert, which though restored in
+sort of porch or vault, with at times moulded [[Arches|arches]] and sculptured
+figures and [[Escutcheon|escutcheons]]. On the bank of the Clain at Poitiers is a
+fountain of this kind, the Fontaine [[Joubert]], which though restored in
 1597 was originally a structure of the 14th century. This kind of
 fountain is frequently decorated with figures of the Virgin or of
 saints, or with the family arms of its founder; often, too, the water is
@@ -151,9 +151,9 @@ structure at the centre, from the lower part of which it was arranged
 that spouts should issue, playing into an open basin, and supplying
 vessels brought for the purpose in the cleanest and quickest manner. The
 columns take very various forms, from that of a simple regular
-geometrical solid, with only grotesque masks at the spouts, to that of
+geometrical solid, with only [[Grotesque|grotesque]] masks at the spouts, to that of
 an elaborate and ornate Gothic structure, with figures of virgins,
-saints and warriors, with mouldings, arches, crockets and finials. At
+saints and warriors, with mouldings, arches, [[Crocket|crockets]] and finials. At
 Provins there is a fountain said to be of the 12th century, which is in
 form an hexagonal vase with a large column in the centre, the capital of
 which is pierced by three mouths, which are furnished with heads of
@@ -165,25 +165,25 @@ structure may date no earlier than the 15th or 16th century, have been
 found on the place of, and perhaps may almost be considered as
 restorations of, pre-existing fountains. Except in Italy few fountains
 are of earlier date than the 14th century. Two of that date are at the
-abbey of Fontaine Daniel, near Mayenne, and another, of granite, is at
-Limoges. Some of these middle-age fountains are simple, open reservoirs
-enclosed in structures which, however plain, still carry the charm that
+abbey of Fontaine [[Daniel]], near Mayenne, and another, of granite, is at
+[[Limoges]]. Some of these middle-age fountains are simple, open reservoirs
+enclosed in structures which, however plain, still carry the [[Charm|charm]] that
 belongs to the stone-work of those times. There is one of this kind at
-Cully, Calvados, walled on three sides, and fed from the spring by two
+Cully, [[Calvados]], walled on three sides, and fed from the spring by two
 circular openings. Its only ornamentation is a small empty niche with
-mouldings. At Lincoln is a fountain of the time of Henry VIII., in front
+mouldings. At [[Lincoln]] is a fountain of the time of Henry VIII., in front
 of the church of St Mary Wickford. At Durham is one of octangular plan,
 which bears a statue of Neptune.
 
 The decay of architectural taste in the later centuries is shown by the
 fountain of Limoges. It is in form a rock representing Mount Parnassus,
 upon which are carved in relief Apollo, the horse Pegasus, Philosophy
-and the Nine Muses. At the top Apollo, in the 16th-century costume,
+and the Nine Muses. At the top Apollo, in the 16th-century [[Costume|costume]],
 plays a harp. Rocks, grass and sheep fill up the scene.
 
 Purely ornamental fountains and _jets d'eau_ are found in or near many
 large cities, royal palaces and private seats. The celebrated Fontana di
-Trevi, at Rome, was erected early in the 18th century under Pope Clement
+Trevi, at Rome, was erected early in the 18th century under Pope [[Clement]]
 XII., and has all the characteristics of decadence. La Fontana Paolina
 and those in the piazza of St Peter's are perhaps next in celebrity to
 that of Trevi, and are certainly in better taste. At Paris the Fontaine
@@ -191,20 +191,20 @@ des Innocens (the earliest) and those of the Place Royal, of the Champs
 Elysees and of the Place de la Concorde are the most noticeable. The
 fountain of the lions and other fountains in the Alhambra palace are,
 with their surroundings, a very magnificent sight. The largest _jets
-d'eau_ are those at Versailles, at the Sydenham Crystal Palace and at
+d'eau_ are those at Versailles, at the Sydenham [[Crystal Palace]] and at
 San Ildefonso.
 
 About the earliest drawing of any drinking fountain in England occurs in
 Moxon's _Tutor to Astronomie and Geographie_ (1659); it is "surmounted
 by a diall, which was made by Mr John Leak, and set upon a composite
 column at Leadenhall corner, in the majoralty of Sir John Dethick,
-Knight." The water springs from the top and base of the column, which
+[[Knight]]." The water springs from the top and base of the column, which
 stands upon a square pedestal and bears four female figures, one at
 least of which represents the costume of the period.
 
 In the East the public drinking fountains are a very important
 institution. In Cairo alone there are three hundred. These "sebeels" are
-not only to be seen in the cities, but are plentiful in the fields and
+not only to be seen in the cities, but are plentiful in the [[Fields|fields]] and
 villages.
 
 The Metropolitan Drinking Fountain Association (1859) has done much to

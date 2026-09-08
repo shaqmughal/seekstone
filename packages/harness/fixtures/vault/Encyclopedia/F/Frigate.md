@@ -1,13 +1,13 @@
 # Frigate
 
-FRIGATE (Fr. _fregate_, Span. and Port. _fragata_; the etymology of the
+FRIGATE (Fr. _fregate_, Span. and Port. _fragata_; the [[Etymology|etymology]] of the
 word is obscure; it has been derived from the Late Lat. _fabricata_,
 and the use of the Fr. _batiment_, for a vessel as well as a building is
 compared; another suggestion derives the word from the Gr. [Greek:
 aphraktos], unfenced or unguarded), originally a small swift, undecked
 vessel, propelled by oars or sails, in use on the Mediterranean. The
 word is thus used of the large open boats, without guns, used for war
-purposes by the Portuguese in the East Indies during the 16th and 17th
+purposes by the Portuguese in the [[East Indies]] during the 16th and 17th
 centuries. The French first applied the term to a particular type of
 ships of war during the second quarter of the 18th century. The Seven
 Years' War (1756-1763) marked the definite adoption of the "frigate" as

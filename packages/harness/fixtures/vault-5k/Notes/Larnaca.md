@@ -8,7 +8,7 @@ type: reference
 # Larnaca
 
 LARNACA, LARNICA or LARNECA (anc. _Citium_, Turk. _Tuzla_), a town of
-the island of Cyprus, at the head of a bay on the south coast, 23 m.
+the island of [[Cyprus]], at the head of a bay on the south coast, 23 m.
 S.S.E. from Nicosia. Pop. (1901) 7964. It is the principal port of the
 island, exporting barley, wheat, cotton, raisins, oranges, lemons and
 gypsum. There is an iron pier 450 ft. long, but vessels anchor in the

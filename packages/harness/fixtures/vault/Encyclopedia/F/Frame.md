@@ -15,8 +15,8 @@ extinct or dormant, but fine work was produced in such profusion that
 great numbers of examples are still extant. Frames for pictures or
 mirrors are usually square, oblong, round or oval, and, although they
 have usually been made of wood or composition overlaid upon wood, the
-richest and most costly materials have often been used. Ebony, ivory and
-tortoiseshell; crystal, amber and mother-of-pearl; lacquer, gold and
+richest and most costly materials have often been used. Ebony, [[Ivory|ivory]] and
+tortoiseshell; crystal, amber and mother-of-pearl; [[Lacquer|lacquer]], gold and
 silver, and almost every other metal have been employed for this
 purpose. The domestic frame has in fact varied from the simplest and
 cheapest form of a plain wooden moulding to the most richly carved
@@ -40,8 +40,8 @@ frames as in so many other respects France largely followed the fashions
 of Italy, which throughout the 16th and 17th centuries produced the most
 elaborate and grandiose, the richest and most palatial, of the mirror
 frames that have come down to us. English art in this respect was less
-exotic and more restrained, and many of the mirrors of the 18th century
-received frames the grace and simplicity of which have ensured their
+[[Exotic|exotic]] and more restrained, and many of the mirrors of the 18th century
+received frames the [[Grace|grace]] and simplicity of which have ensured their
 constant reproduction even to our own day.
 
 ## See also

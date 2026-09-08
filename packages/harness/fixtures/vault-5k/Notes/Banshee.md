@@ -6,7 +6,7 @@ topic: warfare
 
 # Banshee
 
-BANSHEE (Irish _bean sidhe_; Gaelic _ban sith_, "woman of the fairies"), a
+BANSHEE (Irish _[[Bean|bean]] sidhe_; Gaelic _[[Ban|ban]] sith_, "woman of the fairies"), a
 supernatural being in Irish and general Celtic folklore, whose mournful
 screaming, or "keening," at night is held to foretell the death of some
 member of the household visited. In Ireland legends of the banshee belong
@@ -15,7 +15,7 @@ the spirit are chronicled. A like ghostly informer figures in Brittany
 folklore. The Irish banshee is held to be the distinction only of families
 of pure Milesian descent. The Welsh have the banshee under the name _gwrach
 y Rhibyn_ (witch of Rhibyn). Sir Walter Scott mentions a belief in the
-banshee as existing in the highlands of Scotland (_Demonology and
+banshee as existing in the highlands of Scotland (_[[Demonology]] and
 Witchcraft_, p. 351). A Welsh death-portent often confused with the gwrach
 y Rhibyn and banshee is the _cyhyraeth_, the groaning spirit.
 

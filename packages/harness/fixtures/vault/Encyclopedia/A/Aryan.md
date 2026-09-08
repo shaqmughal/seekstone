@@ -14,9 +14,9 @@ careful to avoid any ethnological signification. The Aryas are those who
 speak Aryan without regard to the question whether Aryan is their
 _hereditary_ language or not. As he says still more definitely elsewhere
 in the same work (p. 120), "I have declared again and again that if I
-say Aryas, I mean neither blood nor bones, nor hair nor skull; I mean
+say Aryas, I mean neither blood nor [[Bone|bones]], nor hair nor skull; I mean
 simply those who speak an Aryan language. The same applies to Hindus,
-Greeks, Romans Germans, Celts and Slaves. When I speak of them I commit
+Greeks, Romans Germans, [[Celt|Celts]] and Slaves. When I speak of them I commit
 myself to no anatomical characteristics. The blue-eyed and fair-haired
 Scandinavians may have been conquerors or conquered, they may have
 adopted the language of their darker lords or their subjects, or vice
@@ -26,7 +26,7 @@ that sense only, do I say that even the blackest Hindus represent an
 earlier stage of Aryan speech and thought than the fairest
 Scandinavians.... To me an ethnologist who speaks of Aryan race, Aryan
 blood, Aryan eyes and hair, is as great a sinner as a linguist who
-speaks of a dolichocephalic dictionary or a brachycephalic grammar."
+speaks of a [[Dolichocephalic|dolichocephalic]] dictionary or a brachycephalic grammar."
 
 From the popularity of Max Muller's works on comparative philology this
 is the use of the word which is most familiar to the general public. The
@@ -51,7 +51,7 @@ sought to establish, is impossible (Whitley Stokes in Max Muller's
 _Lectures_, 1891, i. pp. 299 f.), though the word may have the same
 origin as the _Ario_- of names like _Ariovistus_, which is found in both
 Celtic and Germanic words (Uhlenbeck, _Kurzgefasstes etymologisches
-Worterbuch der altindischen Sprache_, s.v.). The name of Armenia (Old
+Worterbuch der altindischen Sprache_, s.v.). The name of [[Armenia]] (Old
 Persian _Armina_-), which has often been connected, is of uncertain
 origin. Within Sanskrit itself probably two words have to be
 distinguished: (1) _arya_, the origin of Aryan, from which the usual term
@@ -66,11 +66,11 @@ derived from the same source as the Greek [Greek: eri-s], "strife." The
 word _arya_- is not found as a national name in the _Rig Veda_, but
 appears in the _Vajasaneyi-sainhita_, where it is explained by Mahidhara
 as _Vaisya_-, a cultivator or a man of the third among the original four
-classes of the population. So in the _Atharva Veda_ (iv. 20. 4; xix. 62.
+classes of the population. So in the _[[Atharva Veda]]_ (iv. 20. 4; xix. 62.
 1) it is contrasted with the Sudra or fourth class (Spiegel, _Arische
 Periode_, p. 102). In the _Avesta, airya_- is found both as adjective and
 substantive in the sense of Aryan, but no light is thrown upon the
-history of the word. Darius describes himself in an inscription as of
+history of the word. [[Darius]] describes himself in an inscription as of
 Aryan stock, _Daraya[h]va[h]us ariya[h]civ[r]a[h]_. In the _Avesta_ the
 derivative _airyana_- is also found in the sense of Aryan. In both India
 and Persia a word is found (Skt. _aryaman_-; Zend _airyahman_-) which is
@@ -91,9 +91,9 @@ Eastern section of the Indo-Europeans were proud to call themselves. It
 is now used uniformly by scholars to indicate the Eastern branch as a
 whole, a compound, _Indo-Aryan_, being employed for that part of the
 Eastern branch which settled in India to distinguish them from the
-Iranians (_Iran_ is of the same origin), who remained in Bactria and
+Iranians (_[[Iran]]_ is of the same origin), who remained in Bactria and
 Persia, while _Aryo-Indian_ is sometimes employed to distinguish the
-Indian people of this stock from the Dravidian and other stocks which
+Indian people of this stock from the [[Dravidian]] and other stocks which
 also inhabit parts of the Indian peninsula. Of the stages in the
 occupation of the Iranian table-land by the Aryan people nothing is
 known, the people themselves having apparently no tradition of a time
@@ -106,7 +106,7 @@ literature, which may be assigned roughly to about 1000 B.C., they were
 still settled in the valley of the Indus, and at this time the
 separation probably had not long taken place, the Eastern portion of the
 stock having pushed their way along the Kabul valley into the open
-country of the Indus. According to Professor E.W. Hopkins (_India Old
+country of the Indus. According to Professor E.W. [[Hopkins]] (_India Old
 and New_, 1901, p. 31) the _Rig Veda_ was composed in the district about
 Umballa. He argues that the people must have been then to the west of
 the great rivers, otherwise the dawn could not be addressed as one who
@@ -115,7 +115,7 @@ waters, making good paths." The vocabulary is still largely the same;
 whole sentences can be transliterated from one language to the other
 merely by making regular phonetic changes and without the variation of a
 single word (for examples see Bartholomae, _Handbuch der altiranischen
-Dialekte_, 1883, p. v.; Williams Jackson, _Avesta Grammar_, 1892, pp.
+Dialekte_, 1883, p. v.; Williams [[Jackson]], _Avesta Grammar_, 1892, pp.
 xxxi. f.; _Grundriss der iranischen Philologie_, 1895, i. p. 1). It is
 noteworthy that it is those who remain behind whose language has
 undergone most change.
@@ -150,23 +150,23 @@ For the subdivisions of the two groups see the articles on PERSIA:
 _Language_, and INDO-ARYAN LANGUAGES. Dr Grierson has shown in his
 monograph on "The Pisaca Languages of North-Western India" (Royal
 Asiatic Society, 1906) that there is good reason for regarding various
-dialects of the north-western frontier (Kafiristan, Chitral, Gilgit,
+[[Dialect|dialects]] of the north-western frontier ([[Kafiristan]], [[Chitral]], [[Gilgit]],
 Dardistan) as a separate group descended from Aryan but independent of
 either Sanskrit or Iranian.
 
 The history of the separation of the Aryan from the other Indo-European
 languages is not yet clear (see INDO-EUROPEAN LANGUAGES). Various
 attempts have been made, with little success, to identify fragments of
-unknown languages in cuneiform inscriptions with members of this group.
+unknown languages in [[Cuneiform|cuneiform]] inscriptions with members of this group.
 The investigation has entered a new and more favourable stage as the
 result of the discoveries made by German excavators at Boghaz Keui (said
-to be identical with Herodotus' Pteria in Cappadocia), where treaties
+to be identical with Herodotus' Pteria in [[Cappadocia]]), where treaties
 between the king of the Hittites and the king of Mitanni, in the
 beginning of the 14th century B.C., seem almost certainly to contain the
-names of the gods Mitra, Varuna and Indra, which belong to the early
+names of the gods Mitra, Varuna and [[Indra]], which belong to the early
 Aryan mythology (H. Winckler, _Mitteilungen der deutschen
 Orientgesellschaft_, No. 35; E. Meyer, _Sitzungsberichte der Berliner
-Akademie_, 1908, pp. 14 ff.; _Zeitschrift fur vergleichende
+Akademie_, 1908, pp. 14 ff.; _Zeitschrift [[Fur|fur]] vergleichende
 Sprachforschung_, 42, 1908, pp. 24 ff.). Still further light is to be
 expected when the vast collections of the German expedition to Turfan
 (Turkestan) have been sifted. Up to 1909 only a preliminary account had

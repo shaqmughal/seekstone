@@ -8,7 +8,7 @@ id: 42-829
 
 # Cremieux
 
-CREMIEUX, ISAAC MOISE [known as ADOLPHE] (1796-1880), French statesman,
+CREMIEUX, [[Isaac|ISAAC]] MOISE [known as ADOLPHE] (1796-1880), French statesman,
 was born at Nimes, of a rich Jewish family. He began life as an advocate
 in his native town. After the revolution of 1830 he came to Paris,
 formed connexions with numerous political personages, even with King

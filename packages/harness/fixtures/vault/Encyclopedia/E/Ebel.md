@@ -1,6 +1,6 @@
 # Ebel
 
-EBEL, HERMANN WILHELM (1820-1875), German philologist, was born at
+EBEL, [[Hermann|HERMANN]] WILHELM (1820-1875), German philologist, was born at
 Berlin on the 10th of May 1820. He displayed in his early years a
 remarkable capacity for the study of languages, and at the same time a
 passionate fondness for music and poetry. At the age of sixteen he
@@ -8,9 +8,9 @@ became a student at the university of Berlin, applying himself
 especially to philology, and attending the lectures of Boeckh. Music
 continued to be the favourite occupation of his leisure hours, and he
 pursued the study of it under the direction of Marx. In the spring of
-1838 he passed to the university of Halle, and there began to apply
+1838 he passed to the university of [[Halle]], and there began to apply
 himself to comparative philology under Pott. Returning in the following
-year to his native city, he continued this study as a disciple of Bopp.
+year to his native city, he continued this study as a [[Disciple|disciple]] of [[Bopp]].
 He took his degree in 1842, and, after spending his year of probation at
 the French Gymnasium of Berlin, he resumed with great earnestness his
 language studies. About 1847 he began to study Old Persian. In 1852 he

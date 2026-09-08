@@ -9,7 +9,7 @@ York) and by freight and passenger steamboat lines on the Delaware.
 Bordentown is attractively situated on a broad, level plain, 65 ft.
 above the river, with wide, beautifully shaded streets. The city is the
 seat of the Bordentown Military Institute (with the Woodward memorial
-library), of the state manual training and industrial school for
+library), of the state manual training and [[Industrial School|industrial school]] for
 coloured youth, of the St Joseph's convent and mother-house of the
 Sisters of Mercy, and of St Joseph's academy for girls. There are
 ship-yards, iron foundries and forges, machine shops, shirt factories, a
@@ -32,7 +32,7 @@ for many years; and the estate known as "Ironsides" was long the home of
 Rear-Admiral Charles Stewart. The Camden & Amboy railway, begun in 1831
 and completed from Bordentown to South Amboy (34 m.) in 1832, was one of
 the first railways in the United States; in September 1831 the famous
-engine "Johnny Bull," built in England and imported for this railway,
+engine "Johnny [[Bull]]," built in England and imported for this railway,
 had its first trial at Bordentown, and a monument now marks the site
 where the first rails were laid.
 

@@ -19,7 +19,7 @@ remain without. Parties in civil suits who appear in person are allowed to
 stand on the floor within the bar instead of, as formerly, appearing at the
 bar itself. In criminal trials the accused still stands forward at the bar.
 There is also a "bar" in parliament. In the House of Commons it remains
-literally a bar--a long brass rod hidden in a tube from which it is pulled
+literally a bar--a long [[Brass|brass]] rod hidden in a tube from which it is pulled
 out when required to mark the technical boundary of the House. Before it
 appear those who are charged with having violated the privileges of the
 House; below it also sit those members who have been returned at
@@ -38,13 +38,13 @@ watchful eye on the minutiae of the profession. Consequently, in 1883, a
 bar committee was formed for the purpose of dealing with all matters
 relating to the profession, such as the criticizing of proposed legal
 reforms, and the expression of opinions on matters of professional
-etiquette, conduct and practice. In 1894 the committee was dissolved, and
+[[Etiquette|etiquette]], conduct and practice. In 1894 the committee was dissolved, and
 succeeded by the general council of the bar, elected on a somewhat wider
 basis. It is composed of a due proportion of king's counsel and outer
 barristers elected by voting-papers sent to all barristers having an
 address in the _Law List_ within the United Kingdom. Its expenses are paid
 by contributions from the four Inns of Court. Its powers are not
-disciplinary, but it would draw the attention of the benchers to any gross
+disciplinary, but it would draw the attention of the benchers to any [[Gross|gross]]
 violation of the professional etiquette of the bar.
 
 Each state in America has its own bar, consisting of all attorneys-at-law
@@ -71,14 +71,14 @@ associations publish annually a volume of transactions. The rights, duties
 and liabilities of counsellor-at-law are stated under ATTORNEY. As members
 of the bar of the state in which they practise they are subject to its laws
 regulating such practice, _e.g._ in some states they are forbidden to
-advertise for divorce cases (New York Penal Code [1902] § 148a) (1905,
+advertise for divorce cases (New York Penal [[Code]] [1902] § 148a) (1905,
 _People_ v. _Taylor_ [Colorado], 75 Pac. Rep. 914). It is common throughout
-the United States for lawyers to make contracts for "contingent fees,"
+the United States for lawyers to make contracts for "contingent [[Fee|fees]],"
 _i.e._ for a percentage of the amount recovered. Such contracts are not
 champertous and are upheld by the courts, but will be set aside if an
 unconscionable bargain be made with the client (_Deering_ v. _Scheyer_
 [N.Y.], 58 App. D. 322). So also by the U.S. Supreme Court (_Wright_ v.
-_Tebbets_, 91 U.S. 252; _Taylor_ v. _Benis_, 110 U.S. 42). The reason for
+_Tebbets_, 91 U.S. 252; _Taylor_ v. _[[Beni|Benis]]_, 110 U.S. 42). The reason for
 upholding such contracts is that otherwise poor persons would often fail of
 securing or protecting their property or rights. In fact such contracts are
 seldom set aside, though no doubt the practice is capable of abuse.

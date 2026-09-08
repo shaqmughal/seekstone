@@ -18,11 +18,11 @@ has broad and well-shaded streets. Lumbering and the shad and herring
 fisheries are the most important industrial interests, and the town is a
 shipping point for fish, truck and other farm products, cotton and
 peanuts. There is a Fish Cultural Station here, established by the
-Federal government. The court-house was built about 1750.
+[[Federal Government|Federal government]]. The court-house was built about 1750.
 
 Edenton was settled about 1658, and was for some time known as the
-"Towne on Queen Anne's Creek" or the "Port of Roanoke"; in 1722 the
-present name was adopted in honour of Governor Charles Eden (1673-1722),
+"Towne on Queen Anne's [[Creek]]" or the "Port of Roanoke"; in 1722 the
+present name was adopted in honour of Governor Charles [[Eden]] (1673-1722),
 whose grave is in St Paul's churchyard here. Throughout the 18th century
 Edenton was a place of considerable social and political importance; the
 legislative assembly of North Carolina met here occasionally, and here
@@ -46,9 +46,9 @@ conform "to that Pernicious Custom of Drinking Tea" and would not
 should be repealed. Near Edenton the Confederate ram "Albemarle," on
 emerging from the Roanoke river, was met by the Union "double-enders,"
 "Sassacus," "Mattabesett," and "Miami," on the 5th of May 1864; the
-battle, which resulted in favour of the Confederates, was a duel between
+battle, which resulted in favour of the Confederates, was a [[Duel|duel]] between
 the Confederate ironclad and the Union wooden side-wheeler, the
-"Sassacus," which rammed the "Albemarle" and had her bows, fitted with a
+"Sassacus," which rammed the "Albemarle" and had her [[Bow|bows]], fitted with a
 three-ton bronze beak, twisted off and carried away.
 
 ## See also

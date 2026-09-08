@@ -61,7 +61,7 @@ Charles, who was at the moment engaged in his first Saxon campaign,
 expostulated with Desiderius; but when such mild measures proved useless
 he led his forces across the Alps in 773. Gerberga and her children were
 delivered up and disappear from history; the siege of Pavia was
-undertaken; and at Easter 774 the king left the seat of war and visited
+undertaken; and at [[Easter]] 774 the king left the seat of war and visited
 Rome, where he was received with great respect.
 
 During his stay in the city Charles renewed the donation which his
@@ -69,7 +69,7 @@ father Pippin had made to the papacy in 754 or 756. This transaction has
 given rise to much discussion as to its trustworthiness and the extent
 of its operation. Our only authority, a passage in the _Liber
 Pontificalis_, describes the gift as including the whole of Italy and
-Corsica, except the lands north of the Po, Calabria and the city of
+[[Corsica]], except the lands north of the Po, Calabria and the city of
 Naples. The vast extent of this donation, which, moreover, included
 territories not owning Charles's authority, and the fact that the king
 did not execute, or apparently attempt to execute, its provisions, has
@@ -88,7 +88,7 @@ ambiguous terms; and this view is supported by the history of the
 subsequent controversy between king and pope.
 
 Returning to the scene of hostilities, Charles witnessed the
-capitulation of Pavia in June 774, and the capture of Desiderius, who
+[[Capitulation|capitulation]] of Pavia in June 774, and the capture of Desiderius, who
 was sent into a monastery. He now took the title "king of the Lombards,"
 to which he added the dignity of "Patrician of the Romans," which had
 been granted to his father. Adalgis, the son of Desiderius, who was
@@ -134,7 +134,7 @@ affairs, and Adalgis the Lombard was still residing at his court; so
 Charles sought to avert danger from this quarter by consenting in 781 to
 a marriage between Constantine and his own daughter Rothrude. In 786 the
 entreaties of the pope and the hostile attitude of Arichis II., duke of
-Benevento, a son-in-law of Desiderius, called the king again into Italy.
+[[Benevento]], a son-in-law of Desiderius, called the king again into Italy.
 Arichis submitted without a struggle, though the basis of Frankish
 authority in his duchy was far from secure; but in conjunction with
 Adalgis he sought aid from Constantinople. His plans were ended by his
@@ -178,11 +178,11 @@ till his death in 811. Fastrada died in August 794, when Charles took
 for his fourth wife an Alamannian lady named Liutgarde.
 
 The continuous interest taken by the king in ecclesiastical affairs was
-shown at the synod of Frankfort, over which he presided in 794. It was
+shown at the synod of [[Frankfort]], over which he presided in 794. It was
 on his initiative that this synod condemned the heresy of _adoptianism_
 and the worship of images, which had been restored in 787 by the second
 council of Nicaea; and at the same time that council was declared to
-have been superfluous. This policy caused a further breach with Pope
+have been superfluous. This policy caused a further [[Breach|breach]] with Pope
 Adrian; but when Adrian died in December 795, his successor, Leo III.,
 in notifying his elevation to the king, sent him the keys of St Peter's
 grave and the banner of the city, and asked Charles to send an envoy to
@@ -202,7 +202,7 @@ undisputed; and after Leo had cleared himself by an oath of certain
 charges made against him, Charles restored the pope and banished his
 leading opponents.
 
-The great event of this visit took place on the succeeding Christmas
+The great event of this visit took place on the succeeding [[Christmas]]
 Day, when Charles on rising from prayer in St Peter's was crowned by Leo
 and proclaimed emperor and _augustus_ amid the acclamations of the
 crowd. This act can hardly have been unpremeditated, and some doubt has
@@ -213,7 +213,7 @@ little doubt that the question of assuming, or obtaining, this title had
 previously been discussed. His policy had been steadily leading up to
 this position, which was rather the emblem of the power he already held
 than an extension of the area of his authority. It is probable therefore
-that Charles either considered the coronation premature, as he was
+that Charles either considered the [[Coronation|coronation]] premature, as he was
 hoping to obtain the assent of the eastern empire to this step, or that,
 from fear of evils which he foresaw from the claim of the pope to crown
 the emperor, he wished to crown himself. All the evidence tends to show
@@ -288,7 +288,7 @@ remaining son Louis as his successor; and at his father's command Louis
 took the crown from the altar and placed it upon his own head. This
 ceremony took place at Aix on the 11th of September 813. In 808 the
 Frankish authority over the Obotrites was interfered with by Gudrod
-(Godfrey), king of the Danes, who ravaged the Frisian coasts and spoke
+(Godfrey), king of the [[Dan|Danes]], who ravaged the Frisian coasts and spoke
 boastfully of leading his troops to Aix. To ward off these attacks
 Charles took a warm interest in the building of a fleet, which he
 reviewed in 811; but by this time Gudrod had been killed, and his
@@ -347,7 +347,7 @@ lectures on grammar, and his favourite work was St Augustine's _De
 civitate Dei_. He caused Frankish sagas to be collected, began a grammar
 of his native tongue, and spent some of his last hours in correcting a
 text of the Vulgate. He delighted in the society of scholars--Alcuin,
-Angilbert, Paul the Lombard, Peter of Pisa and others, and in this
+[[Angilbert]], Paul the Lombard, Peter of Pisa and others, and in this
 company the trappings of rank were laid aside and the emperor was known
 simply as David. Under his patronage Alcuin organized the school of the
 palace, where the royal children were taught in the company of others,
@@ -362,7 +362,7 @@ half a century before. The main work of the Carolingian renaissance was
 to restore Latin to its position as a literary language, and to
 reintroduce a correct system of spelling and an improved handwriting.
 The manuscripts of the time are accurate and artistic, copies of
-valuable books were made and by careful collation the texts were
+valuable books were made and by careful [[Collation|collation]] the texts were
 purified.
 
 Charles was not a great warrior. His victories were won rather by the
@@ -424,7 +424,7 @@ acquire territorial power for themselves.
   Charlemagne are Einhard's _Vita Karoli Magni_, the _Annales
   Laurissenses majores_, the _Annales Fuldenses_, and other annals,
   which are published in the _Monumenta Germaniae historica_.
-  _Scriptores_, Band i. and ii., edited by G.H. Pertz (Hanover and
+  _Scriptores_, Band i. and ii., edited by G.H. Pertz ([[Hanover]] and
   Berlin, 1826-1892). For the capitularies see _Capitularia regum
   Francorum_, edited by A. Boretius in the _Monumenta. Leges_. Many of
   the songs of the period appear in the _Poetae Latini aevi Carolini_,
@@ -493,10 +493,10 @@ father Pippin, and his son Louis. The history of Charles Martel
 especially was absorbed in the Charlemagne legend. But if Charles's name
 was associated with the heroism of his predecessors he was credited with
 equal readiness with the weaknesses of his successors. In the earlier
-_chansons de geste_ he is invariably a majestic figure and represents
+_[[Chansons De Geste|chansons de geste]]_ he is invariably a majestic figure and represents
 within limitations the grandeur of the historic Charles. But in the
 histories of the wars with his vassals he is often little more than a
-tyrannical dotard, who is made to submit to gross insult. This picture
+tyrannical dotard, who is made to submit to [[Gros|gross]] insult. This picture
 of affairs is drawn from later times, and the sympathies of the poet are
 generally with the rebels against the monarchy. Historical tradition was
 already dim when the hypothetical and much discussed _cantilenae_, which
@@ -629,7 +629,7 @@ of Rome. _Otinel_ (13th century) is also pure fiction. _L'Entree en
 Espagne_, preserved in a 14th-century Italian compilation, relates the
 beginning of the Spanish War, the siege of Pampeluna, and the legendary
 combat of Roland with Ferragus. Charlemagne's march on Saragossa, and
-the capture of Huesca, Barcelona and Girone, gave rise to _La Prise de
+the capture of [[Huesca]], Barcelona and Girone, gave rise to _La Prise de
 Pampelune_ (14th century, based on a lost _chanson_); and _Gui de
 Bourgogne_ (12th century) tells how the children of the barons, after
 appointing Guy as king of France, set out to find and rescue their
@@ -678,7 +678,7 @@ emperor's passion for a dead woman, caused by a charm given to Charles
 by a serpent to whom he had rendered justice. The charm was finally
 dropped into a well at Aix, which thenceforward became Charles's
 favourite residence. The story of Roland's birth from the union of
-Charles with his sister Gilles, also found in German and Scandinavian
+Charles with his sister [[Gill|Gilles]], also found in German and Scandinavian
 versions, has abundant parallels in mythology, and was probably
 transferred from mythology to Charlemagne.
 
@@ -731,7 +731,7 @@ early version of _Fierabras_; a fragmentary _Roland and Vernagu_
   BIBLIOGRAPHY.--The most important works on the Charlemagne cycle of
   romance are:--G. Paris, _Hist. poetique de Charlemagne_ (Paris, 1865;
   reprint, with additional notes by Paris and P. Meyer, 1905); L.
-  Gautier, _Les Epopees francaises_ (Paris, 4 vols. new ed., 1878, 1892,
+  [[Gautier]], _Les Epopees francaises_ (Paris, 4 vols. new ed., 1878, 1892,
   1880, 1882) and the supplementary _Bibliographie des chansons de
   geste_ (1897). The third volume of the _Epopees francaises_ contains
   an analysis and full particulars of the _chansons de geste_
@@ -751,7 +751,7 @@ early version of _Fierabras_; a fragmentary _Roland and Vernagu_
   Text Soc. by Sidney J. Herrtage, Emil Hausknecht, Octavia Richardson
   and Sidney Lee (1879-1881), the romance of _Duke Huon of Bordeaux_
   containing a general account of the cycle by Sidney Lee; the
-  _Karlamagnussaga_, by C.R. Unger (Christiania, 1860), see also G.
+  _Karlamagnussaga_, by C.R. Unger ([[Christiania]], 1860), see also G.
   Paris in _Bibl. de l'Ecole des Charles_ (1864-1865). For individual
   _chansons_ see _Anseis de Carthage_, ed. J. Alton (Tubingen, 1892);
   _Aiquin_, ed. F. Jouon des Longrais (Nantes, 1880); _Aspremont_, ed.
@@ -761,7 +761,7 @@ early version of _Fierabras_; a fragmentary _Roland and Vernagu_
   pie_, ed. A. Mussafia, in _Romania_ (vols. iii. and iv., 1874-1875);
   _Berte aus grans pies_, ed. A. Scheler (Brussels, 1874);
   _Charlemagne_, by Girard d'Amiens, detailed analysis in Paris, _Hist.
-  Poet._ (Appendix iv.); _Couronnement Looys_, ed. E. Langlois (Le Puy,
+  Poet._ (Appendix iv.); _Couronnement Looys_, ed. E. Langlois ([[Le Puy]],
   1888); _Desier_ (Desiderius or Didier), lost songs of the wars of
   Lombardy, some fragments of which are preserved in _Ogier le Danois;
   Destruction de Rome_, ed. G. Grober in _Romania_(1873); A. Thomas,

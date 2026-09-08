@@ -12,14 +12,14 @@ at the present day, for impure, highly composite, gritty rocks belonging
 to the Palaeozoic systems. They correspond to the sandstones, grits and
 fine conglomerates of the later periods. Greywackes are mostly grey,
 brown, yellow or black, dull-coloured, sandy rocks which may occur in
-thick or thin beds along with slates, limestones, &c., and are abundant
-in Wales, the south of Scotland and the Lake district of England. They
+thick or thin beds along with slates, [[Limestone|limestones]], &c., and are abundant
+in Wales, the south of Scotland and the [[Lake District|Lake district]] of England. They
 contain a very great variety of minerals, of which the principal are
-quartz, orthoclase and plagioclase, calcite, iron oxides and graphitic
+quartz, orthoclase and plagioclase, [[Calcite|calcite]], iron oxides and graphitic
 carbonaceous matters, together with (in the coarser kinds) fragments of
-such rocks as felsite, chert, slate, gneiss, various schists, quartzite.
+such rocks as [[Felsite|felsite]], chert, slate, [[Gneiss|gneiss]], various schists, quartzite.
 Among other minerals found in them are biotite and chlorite, tourmaline,
-epidote, apatite, garnet, hornblende and augite, sphene, pyrites. The
+[[Epidote|epidote]], apatite, garnet, hornblende and augite, sphene, pyrites. The
 cementing material may be siliceous or argillaceous, and is sometimes
 calcareous. As a rule greywackes are not fossiliferous, but organic
 remains may be common in the finer beds associated with them. Their
@@ -29,7 +29,7 @@ changes, such as the introduction of interstitial silica. In some
 districts the greywackes are cleaved, but they show phenomena of this
 kind much less perfectly than the slates. Although the group is so
 diverse that it is difficult to characterize mineralogically, it has a
-well-established place in petrographical classifications, because these
+well-established place in petrographical [[Classification|classifications]], because these
 peculiar composite arenaceous deposits are very frequent among Silurian
 and Cambrian rocks, and rarely occur in Secondary or Tertiary systems.
 Their essential features are their gritty character and their complex

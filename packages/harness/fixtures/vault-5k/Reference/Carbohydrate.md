@@ -1,8 +1,8 @@
 # Carbohydrate
 
-CARBOHYDRATE, in chemistry, the generic name for compounds empirically
+CARBOHYDRATE, in [[Chemistry|chemistry]], the generic name for [[Compound|compounds]] empirically
 represented by the formula C_{x}(H2O)_{y}. They are essentially
-vegetable products, and include the sugars, starches, gums and
+vegetable products, and include the sugars, starches, [[Gum|gums]] and
 celluloses (q.v.).
 
 
@@ -15,7 +15,7 @@ the fraction of coal-tar which distils between 150 and 200 deg. C., in
 which it was discovered in 1834 by F. Runge. In order to obtain the
 phenol from this distillate, it is treated with caustic soda, which
 dissolves the phenol and its homologues together with a certain quantity
-of naphthalene and other hydrocarbons. The solution is diluted with
+of naphthalene and other [[Hydrocarbon|hydrocarbons]]. The solution is diluted with
 water, and the hydrocarbons are thereby precipitated and separated. The
 solution is then acidified, and the phenols are liberated and form an
 oily layer on the surface of the acid. This layer is separated, and the
@@ -23,10 +23,10 @@ phenol recovered by a process of fractional distillation. It may be
 synthetically prepared by fusing potassium benzene sulphonate with
 caustic alkalis (A. Kekule, A. Wurtz); by the action of nitrous acid on
 aniline; by passing oxygen into boiling benzene containing aluminium
-chloride (C. Friedel and J.M. Crafts, _Ann. Chim. Phys._, 1888 (6) 14,
+chloride (C. [[Friedel]] and J.M. Crafts, _Ann. Chim. Phys._, 1888 (6) 14,
 p. 435); by heating phenol carboxylic acids with baryta; and, in small
 quantities by the oxidation of benzene with hydrogen peroxide or nascent
-ozone (A.R. Leeds, _Ber._, 1881, 14, p. 976).
+ozone (A.R. [[Leeds]], _Ber._, 1881, 14, p. 976).
 
 It crystallizes in rhombic needles, which melt at 42.5-43 deg. C., and
 boil at 182-183 deg. C.; its specific gravity is 1.0906 (0 deg. C.). It
@@ -34,7 +34,7 @@ has a characteristic smell, and a biting taste; it is poisonous, and
 acts as a powerful antiseptic. It dissolves in water, 15 parts of water
 dissolving about one part of phenol at 16-17 deg. C., but it is miscible
 in all proportions at about 70 deg. C.; it is volatile in steam, and is
-readily soluble in alcohol, ether, benzene, carbon bisulphide,
+readily soluble in alcohol, ether, benzene, [[Carbon Bisulphide|carbon bisulphide]],
 chloroform and glacial acetic acid. It is also readily soluble in
 solutions of the caustic alkalis, slightly soluble in aqueous ammonia
 solution, and almost insoluble in sodium carbonate solution. When
@@ -50,7 +50,7 @@ bromine water a white precipitate of tribrom-phenol.
   permanganate gives paradiphenol, oxalic acid, and some salicylic acid
   (R. Henriques, _Ber._, 1888, 21, p. 1620). In alkaline solution,
   potassium permanganate oxidizes it to inactive tartaric acid and
-  carbon dioxide (O. Doebner, _Ber._, 1891, 24, p. 1755). When distilled
+  [[Carbon|carbon]] dioxide (O. Doebner, _Ber._, 1891, 24, p. 1755). When distilled
   over lead oxide, it forms diphenylene oxide, (C6H4)2O; and when
   heated with oxalic acid and concentrated sulphuric acid, it forms
   aurin, C19H14O3. It condenses with aceto-acetic ester, in the presence
@@ -83,7 +83,7 @@ bromine water a white precipitate of tribrom-phenol.
   produced and to the production of a secondary reaction, resulting in
   the formation of a certain amount of an aromatic hydrocarbon.
 
-  The acid esters of phenol are best obtained by the action of acid
+  The acid [[Esters|esters]] of phenol are best obtained by the action of acid
   chlorides or anhydrides on phenol or its sodium or potassium salt, or
   by digesting phenol with an acid in the presence of phosphorus
   oxychloride (F. Rasinski, _Jour. f. prak. Chem._, 1882 [2], 26, p.
@@ -95,7 +95,7 @@ bromine water a white precipitate of tribrom-phenol.
   boil at 314 deg. C.
 
   Phenol is characterized by the readiness with which it forms
-  substitution products; chlorine and bromine, for example, react
+  substitution products; [[Chlorine|chlorine]] and bromine, for example, react
   readily with phenol, forming ortho- and para- chlor- and -bromphenol,
   and, by further action, trichlor- and tribrom-phenol. Iodphenol is
   obtained by the action of iodine and iodic acid on phenol dissolved in
@@ -127,7 +127,7 @@ bromine water a white precipitate of tribrom-phenol.
   reducing meta-nitrophenol, or by heating resorcin with ammonium
   chloride and ammonia to 200 deg. C. Dimethyl-meta-aminophenol is
   prepared by heating meta-aminophenol with methyl alcohol and
-  hydrochloric acid in an autoclave; by sulphonation of dimethylaniline,
+  hydrochloric acid in an [[Autoclave|autoclave]]; by sulphonation of dimethylaniline,
   the sulphonic acid formed being finally fused with potash; or by
   nitrating dimethylaniline, in the presence of sulphuric, acid at 0
   deg. C. In the latter case a mixture of nitro-compounds is obtained
@@ -141,7 +141,7 @@ bromine water a white precipitate of tribrom-phenol.
 
   Phenol dissolves readily in concentrated sulphuric acid, a mixture of
   phenol-ortho- and -para-sulphonic acids being formed. These acids may
-  be separated by conversion into their potassium salts, which are then
+  be separated by [[Conversion|conversion]] into their potassium salts, which are then
   fractionally crystallized, the potassium salt of the para-acid
   separating first. The ortho-acid, in the form of its aqueous solution,
   is sometimes used as an antiseptic, under the name of aseptol. A
@@ -194,7 +194,7 @@ degree. The urine becomes dark green in colour owing to the formation of
 various oxidation products such as pyrocatechin. Fifteen grains
 constitute an exceedingly dangerous dose for an adult male of average
 weight. Other symptoms of undue absorption are vertigo, deafness, sounds
-in the ears, stupefaction, a subnormal temperature, nausea, vomiting and
+in the [[Ear|ears]], stupefaction, a subnormal temperature, nausea, vomiting and
 a weak pulse (Sir Thomas Fraser).
 
 The antidote in cases of carbolic acid poisoning is any soluble
@@ -212,7 +212,7 @@ subcutaneous tissues. Magnesium sulphate may be given by the mouth, but
 is poisonous if injected intravenously. If the acid has been swallowed,
 wash out the stomach and give chalk, the carbolate of calcium being
 insoluble. Alkalis which form soluble carbolates are useless. Give ether
-and brandy subcutaneously and apply hot water-bottles and blankets if
+and [[Brandy|brandy]] subcutaneously and apply hot water-bottles and blankets if
 there are signs of collapse.
 
 ## See also

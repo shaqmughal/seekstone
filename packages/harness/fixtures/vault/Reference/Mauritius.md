@@ -8,12 +8,12 @@ topic: composers-studies
 
 MAURITIUS, an island and British colony in the Indian Ocean (known
 whilst a French possession as the _Île de France_). It lies between 57°
-18´ and 57° 49´ E., and 19° 58´ and 20° 32´ S., 550 m. E. of Madagascar,
+18´ and 57° 49´ E., and 19° 58´ and 20° 32´ S., 550 m. E. of [[Madagascar]],
 2300 m. from the Cape of Good Hope, and 9500 m. from England via Suez.
 The island is irregularly elliptical--somewhat triangular--in shape, and
 is 36 m. long from N.N.E. to S.S.W., and about 23 m. broad. It is 130 m.
-in circumference, and its total area is about 710 sq. m. (For map see
-MADAGASCAR.) The island is surrounded by coral reefs, so that the ports
+in circumference, and its total area is about 710 sq. m. (For [[Map|map]] see
+MADAGASCAR.) The island is surrounded by [[Coral|coral]] reefs, so that the ports
 are difficult of access.
 
 From its mountainous character Mauritius is a most picturesque island,
@@ -38,15 +38,15 @@ extensive fertile plains, some 1200 ft. in height, forming the districts
 of Moka, Vacois, and Plaines Wilhelms; and from nearly the centre of the
 island an abrupt peak, the Piton du Milieu de l'Île rises to a height of
 1932 ft. Other prominent summits are the Trois Mamelles, the Montagne du
-Corps de Garde, the Signal Mountain, near Port Louis, and the Morne
-Brabant, at the south-west corner of the island.
+[[Corps]] de Garde, the Signal Mountain, near Port Louis, and the Morne
+[[Brabant]], at the south-west corner of the island.
 
 The rivers are small, and none is navigable beyond a few hundred yards
 from the sea. In the dry season little more than brooks, they become
 raging torrents in the wet season. The principal stream is the Grande
 Rivière, with a course of about 10 m. There is a remarkable and very
 deep lake, called Grand Bassin, in the south of the island, it is
-probably the extinct crater of an ancient volcano; similar lakes are the
+probably the extinct [[Crater|crater]] of an ancient volcano; similar lakes are the
 Mare aux Vacois and the Mare aux Joncs, and there are other deep hollows
 which have a like origin.
 
@@ -59,7 +59,7 @@ which have a like origin.
   character of the rocks the ascents are rugged and precipitous. The
   island has few minerals, although iron, lead and copper in very small
   quantities have in former times been obtained. The greater part of the
-  surface is composed of a volcanic breccia, with here and there
+  surface is composed of a volcanic [[Breccia|breccia]], with here and there
   lava-streams exposed in ravines, and sometimes on the surface. The
   commonest lavas are dolerites. In at least two places sedimentary
   rocks are found at considerable elevations. In the Black River
@@ -68,7 +68,7 @@ which have a like origin.
   schist occurs about 1700 ft. above the sea, forming the hill of La
   Selle. This schist is much contorted, but seems to have a general dip
   to the south or south-east. Evidence of recent elevation of the island
-  is furnished by masses of coral reef and beach coral rock standing at
+  is furnished by masses of coral reef and [[Beach|beach]] coral rock standing at
   heights of 40 ft. above sea-level in the south, 12 ft. in the north
   and 7 ft. on the islands situated on the bank extending to the
   north-east.[1]
@@ -81,9 +81,9 @@ which have a like origin.
   Louis is 78.6°. There are two seasons, the cool and comparatively dry
   season, from April to November, and the hotter season, during the rest
   of the year. The climate is now less healthy than it was, severe
-  epidemics of malarial fever having frequently occurred, so that
+  epidemics of malarial [[Fever|fever]] having frequently occurred, so that
   malaria now appears to be endemic among the non-European population.
-  The rainfall varies greatly in different parts of the island. Cluny in
+  The rainfall varies greatly in different parts of the island. [[Cluny]] in
   the Grand Port (south-eastern) district has a mean annual rainfall of
   145 in.; Albion on the west coast is the driest station, with a mean
   annual rainfall of 31 in. The mean monthly rainfall for the whole
@@ -91,9 +91,9 @@ which have a like origin.
   October. The Royal Alfred Observatory is situated at Pamplemousses, on
   the north-west or dry side of the island. From January to the middle
   of April, Mauritius, in common with the neighbouring islands and the
-  surrounding ocean from 8° to 30° of southern latitude is subject to
+  surrounding ocean from 8° to 30° of southern [[Latitude|latitude]] is subject to
   severe cyclones, accompanied by torrents of rain, which often cause
-  great destruction to houses and plantations. These hurricanes
+  great destruction to houses and plantations. These [[Hurricane|hurricanes]]
   generally last about eight hours, but they appear to be less frequent
   and violent than in former times, owing, it is thought, to the
   destruction of the ancient forests and the consequent drier condition
@@ -105,23 +105,23 @@ which have a like origin.
   (_Pteropus vulgaris_), which is plentiful in the woods; but several
   mammals have been introduced, and are now numerous in the uncultivated
   region. Among these are two monkeys of the genera _Macacus_ and
-  _Cercopithecus_, a stag (_Cervus hippelaphus_), a small hare, a
-  shrew-mouse, and the ubiquitous rat. A lemur and one of the curious
-  hedgehog-like _Insectivora_ of Madagascar (_Centetes ecaudatus_) have
+  _Cercopithecus_, a stag (_Cervus hippelaphus_), a small [[Hare|hare]], a
+  shrew-mouse, and the ubiquitous rat. A [[Lemur|lemur]] and one of the curious
+  hedgehog-like _[[Insectivora]]_ of Madagascar (_Centetes ecaudatus_) have
   probably both been brought from the larger island. The avifauna
   resembles that of Madagascar; there are species of a peculiar genus of
-  caterpillar shrikes (_Campephagidae_), as well as of the genera
+  [[Caterpillar|caterpillar]] shrikes (_Campephagidae_), as well as of the genera
   _Pratincola_, _Hypsipetes_, _Phedina_, _Tchitrea_, _Zosterops_,
-  _Foudia_, _Collocalia_ and _Coracopsis_, and peculiar forms of doves
+  _Foudia_, _Collocalia_ and _Coracopsis_, and peculiar forms of [[Dove|doves]]
   and parakeets. The living reptiles are small and few in number. The
   surrounding seas contain great numbers of fish; the coral reefs abound
   with a great variety of molluscs; and there are numerous land-shells.
   The extinct fauna of Mauritius has considerable interest. In common
   with the other Mascarene islands, it was the home of the dodo (_Didus
   ineptus_); there were also _Aphanapteryx_, a species of rail, and a
-  short-winged heron (_Ardea megacephala_), which probably seldom flew.
+  short-winged heron (_[[Ardea]] megacephala_), which probably seldom flew.
   The defenceless condition of these birds led to their extinction after
-  the island was colonized. Considerable quantities of the bones of the
+  the island was colonized. Considerable quantities of the [[Bone|bones]] of the
   dodo and other extinct birds--a rail (_Aphanapteryx_), and a
   short-winged heron--have been discovered in the beds of some of the
   ancient lakes (see DODO). Several species of large fossil tortoises
@@ -134,8 +134,8 @@ which have a like origin.
   now easy to distinguish between what is native and what has come from
   abroad. The principal timber tree is the ebony (_Diospyros ebeneum_),
   which grows to a considerable size. Besides this there are bois de
-  cannelle, olive-tree, benzoin (_Croton Benzoe_), colophane
-  (_Colophonia_), and iron-wood, all of which arc useful in carpentry;
+  cannelle, olive-tree, [[Benzoin|benzoin]] (_Croton Benzoe_), colophane
+  (_Colophonia_), and [[Iron-Wood|iron-wood]], all of which arc useful in carpentry;
   the coco-nut palm, an importation, but a tree which has been so
   extensively planted during the last hundred years that it is extremely
   plentiful; the palmiste (_Palma dactylifera latifolia_), the latanier
@@ -147,7 +147,7 @@ which have a like origin.
   bamboo is very plentiful in the river valleys and in marshy
   situations. A large variety of fruit is produced, including the
   tamarind, mango, banana, pine-apple, guava, shaddock, fig,
-  avocado-pear, litchi, custard-apple and the mabolo (_Diospyros
+  avocado-pear, [[Litchi|litchi]], custard-apple and the mabolo (_Diospyros
   discolor_), a fruit of exquisite flavour, but very disagreeable odour.
   Many of the roots and vegetables of Europe have been introduced, as
   well as some of those peculiar to the tropics, including maize,
@@ -169,7 +169,7 @@ spoken than English. The Creole class is, however, diminishing, though
 slowly, and the most numerous section of the population is of Indian
 blood.
 
-  The introduction of Indian coolies to work the sugar plantations dates
+  The introduction of Indian [[Coolie|coolies]] to work the sugar plantations dates
   from the period of the emancipation of the slaves in 1834-1839. At
   that time the negroes who showed great unwillingness to work on their
   late masters' estates, numbered about 66,000. Immigration from India
@@ -179,7 +179,7 @@ blood.
   in 1861 it was 310,050. This great increase was almost entirely due to
   Indian immigration, the Indian population, 77,996 in 1851, being
   192,634 in 1861. From that year the increase in the Indian population
-  has been more gradual but steady, while the non-Indian population has
+  has been more [[Gradual|gradual]] but steady, while the non-Indian population has
   decreased. From 102,827 in 1851 it rose to 117,416 in 1861 to sink to
   99,784 in 1871. The figures for the three following census years
   were:--
@@ -219,16 +219,16 @@ blood.
   Louis, is on the north-western side of the island, in 20° 10´ S., 57°
   30´ E. at the head of an excellent harbour, a deep inlet about a mile
   long, available for ships of the deepest draught. This is protected by
-  Fort William and Fort George, as well as by the citadel (Fort
+  Fort William and [[Fort George]], as well as by the citadel (Fort
   Adelaide), and it has three graving-docks connected with the inner
-  harbour, the depths alongside quays and berths being from 12 to 28 ft.
+  harbour, the depths alongside quays and [[Berth|berths]] being from 12 to 28 ft.
   The trade of the island passes almost entirely through the port.
   Government House is a three-storeyed structure with broad verandas,
   of no particular style of architecture, while the Protestant cathedral
   was formerly a powder magazine, to which a tower and spire have been
   added. The Roman Catholic cathedral is more pretentious in style, but
   is tawdry in its interior. There are, besides the town-hall, Royal
-  College, public offices and theatre, large barracks and military
+  College, public offices and theatre, large [[Barracks|barracks]] and military
   stores. Port Louis, which is governed by an elective municipal
   council, is surrounded by lofty hills and its unhealthy situation is
   aggravated by the difficulty of effective drainage owing to the small
@@ -250,9 +250,9 @@ blood.
   _Industries.--The Sugar Plantations:_ The soil of the island is of
   considerable fertility; it is a ferruginous red clay, but so largely
   mingled with stones of all sizes that no plough can be used, and the
-  hoe has to be employed to prepare the ground for cultivation. The
+  [[Hoe|hoe]] has to be employed to prepare the ground for cultivation. The
   greater portion of the plains is now a vast sugar plantation. The
-  bright green of the sugar fields is a striking feature in a view of
+  [[Bright|bright]] green of the sugar [[Fields|fields]] is a striking feature in a view of
   Mauritius from the sea, and gives a peculiar beauty and freshness to
   the prospect. The soil is suitable for the cultivation of almost all
   kinds of tropical produce, and it is to be regretted that the
@@ -284,11 +284,11 @@ blood.
   coco-nut oil are exported. The imports are mainly rice, wheat, cotton
   goods, wine, coal, hardware and haberdashery, and guano. The rice
   comes principally from India and Madagascar; cattle are imported from
-  Madagascar, sheep from South Africa and Australia, and frozen meat
+  Madagascar, sheep from South Africa and [[Australia]], and frozen [[Meat|meat]]
   from Australia. The average annual value of the exports for the ten
   years 1896-1905 was £2,153,159; the average annual value of the
   imports for the same period £1,453,089. These figures when compared
-  with those in years before the beet and bounty-fed sugar had entered
+  with those in years before the [[Beet|beet]] and bounty-fed sugar had entered
   into severe competition with cane sugar, show how greatly the island
   had thereby suffered. In 1864 the exports were valued at £2,249,000;
   in 1868 at £2,339,000; in 1877 at £4,201,000 and in 1880 at
@@ -305,13 +305,13 @@ blood.
   and measures has been in force since 1878.
 
   _Communications._--There is a regular fortnightly steamship service
-  between Marseilles and Port Louis by the Messageries Maritimes, a
-  four-weekly service with Southampton via Cape Town by the Union
+  between [[Marseilles]] and Port Louis by the Messageries Maritimes, a
+  four-weekly service with Southampton via [[Cape Town]] by the Union
   Castle, and a four-weekly service with Colombo direct by the British
   India Co.'s boats. There is also frequent communication with
   Madagascar, Réunion and Natal. The average annual tonnage of ships
   entering Port Louis is about 750,000 of which five-sevenths is
-  British. Cable communication with Europe, via the Seychelles, Zanzibar
+  British. [[Cable]] communication with Europe, via the Seychelles, Zanzibar
   and Aden, was established in 1893, and the Mauritius section of the
   Cape-Australian cable, via Rodriguez, was completed in 1902.
 
@@ -332,16 +332,16 @@ officio_, 9 being nominated by the governor and 10 elected on a moderate
 franchise. Two of the elected members represent St Louis, the 8 rural
 districts into which the island is divided electing each one member. At
 least one-third of the nominated members must be persons not holding any
-public office. The number of registered electors in 1908 was 6186. The
+public office. The number of registered [[Electors|electors]] in 1908 was 6186. The
 legislative session usually lasts from April to December. Members may
 speak either in French or English. The average annual revenue of the
 colony for the ten years 1896-1905, was £608,245, the average annual
 expenditure during the same period £663,606. Up to 1854 there was a
 surplus in hand, but since that time expenditure has on many occasions
-exceeded income, and the public debt in 1908 was £1,305,000, mainly
+exceeded income, and the public [[Debt|debt]] in 1908 was £1,305,000, mainly
 incurred however on reproductive works.
 
-The island has largely retained the old French laws, the _codes civil_,
+The island has largely retained the old French laws, the _[[Code|codes]] civil_,
 _de procédure_, _du commerce_, and _d'instruction criminelle_ being
 still in force, except so far as altered by colonial ordinances. A
 supreme court of civil and criminal justice was established in 1831
@@ -371,7 +371,7 @@ under a chief judge and three puisne judges.
   _Defence._--Mauritius occupies an important strategic position on the
   route between South Africa and India and in relation to Madagascar and
   East Africa, while in Port Louis it possesses one of the finest
-  harbours in the Indian Ocean. A permanent garrison of some 3000 men is
+  harbours in the Indian Ocean. A permanent [[Garrison|garrison]] of some 3000 men is
   maintained in the island at a cost of about £180,000 per annum. To the
   cost of the troops Mauritius contributes 5½% of its annual
   revenue--about £30,000.
@@ -383,13 +383,13 @@ there seem to be no traces of a previous occupation by any people. The
 island was retained for most of the 16th century by its discoverers, but
 they made no settlements in it. In 1598 the Dutch took possession, and
 named the island "Mauritius," in honour of their stadtholder, Count
-Maurice of Nassau. It had been previously called by the Portuguese "Ilha
+[[Maurice]] of Nassau. It had been previously called by the Portuguese "Ilha
 do Cerné," from the belief that it was the island so named by Pliny. But
 though the Dutch built a fort at Grand Port and introduced a number of
 slaves and convicts, they made no permanent settlement in Mauritius,
 finally abandoning the island in 1710. From 1715 to 1767 (when the
 French government assumed direct control) the island was held by agents
-of the French East India Company, by whom its name was again changed to
+of the French [[East India Company]], by whom its name was again changed to
 "Île de France." The Company was fortunate in having several able men as
 governors of its colony, especially the celebrated Mahé de Labourdonnais
 (q.v.), who made sugar planting the main industry of the
@@ -400,7 +400,7 @@ planting of cotton and indigo, and is remembered as the most enlightened
 and best of all the French governors. He also put down the maroons or
 runaway slaves who had long been the pest of the island. The colony
 continued to rise in value during the time it was held by the French
-crown, and to one of the intendants,[4] Pierre Poivre, was due the
+crown, and to one of the [[Intendant|intendants]],[4] Pierre Poivre, was due the
 introduction of the clove, nutmeg and other spices. Another governor was
 D'Entrecasteaux, whose name is kept in remembrance by a group of islands
 east of New Guinea.
@@ -411,14 +411,14 @@ English Indiamen and other merchant vessels; and at length the British
 government determined upon an expedition for its capture. This was
 effected in 1810; and upon the restoration of peace in 1814 the
 possession of the island was confirmed to Britain by the Treaty of
-Paris. By the eighth article of capitulation it was agreed that the
+Paris. By the eighth article of [[Capitulation|capitulation]] it was agreed that the
 inhabitants should retain their own laws, customs, and religion; and
 thus the island is still largely French in language, habits, and
 predilections; but its name has again been changed to that given by the
 Dutch. One of the most distinguished of the British governors was Sir
 Robert Farquhar (1810-1823), who did much to abolish the Malagasy slave
 trade and to establish friendly relations with the rising power of the
-Hova sovereign of Madagascar. Later governors of note were Sir Henry
+[[Hova]] sovereign of Madagascar. Later governors of note were Sir Henry
 Barkly (1863-1871), and Sir J. Pope Hennessy (1883-1886 and 1888).
 
 The history of the colony since its acquisition by Great Britain has
@@ -457,7 +457,7 @@ colony as an important sugar-producing country.
   colony are a number of small islands scattered over a large extent of
   the Indian Ocean. Of these the chief is Rodriguez (q.v.), 375 m. east
   of Mauritius. Considerably north-east of Rodriguez lie the Oil Islands
-  or Chagos archipelago, of which the chief is Diego Garcia (see
+  or [[Chagos]] archipelago, of which the chief is Diego [[Garcia]] (see
   CHAGOS). The Cargados, Carayos or St Brandon islets, deeps and shoals,
   lie at the south end of the Nazareth Bank about 250 m. N.N.E. of
   Mauritius. Until 1903 the Seychelles, Amirantes, Aldabra and other
@@ -473,10 +473,10 @@ colony as an important sugar-producing country.
   dependencies of Mauritius was estimated in 1905 at 5400.
 
   AUTHORITIES.--F. Leguat, _Voyages et aventures en deux isles désertes
-  des Indes orientales_ (Eng. trans., _A New Voyage to the East Indies_;
+  des Indes orientales_ (Eng. trans., _A New Voyage to the [[East Indies]]_;
   London, 1708); Prudham, "England's Colonial Empire," vol. i., _The
-  Mauritius and its Dependencies_ (1846); C. P. Lucas, _A Historical
-  Geography of the British Colonies_, vol. i. (Oxford, 1888); Ch. Grant,
+  Mauritius and its Dependencies_ (1846); C. P. [[Lucas]], _A Historical
+  [[Geography]] of the British Colonies_, vol. i. (Oxford, 1888); Ch. Grant,
   _History of Mauritius, or the Isle of France and Neighbouring Islands_
   (1801); J. Milbert, _Voyage pittoresque à l'Île-de-France, &c._, 4
   vols. (1812); Aug. Billiard, _Voyage aux colonies orientales_ (1822);
@@ -488,7 +488,7 @@ colony as an important sugar-producing country.
   N. Pike, _Sub-Tropical Rambles in the Land of the Aphanapteryx_
   (1873); A. R. Wallace. "The Mascarene Islands," in ch. xi. vol. i. of
   _The Geographical Distribution of Animals_ (1876); K. Möbius, F.
-  Richter and E. von Martens, _Beiträge zur Meeresfauna der Insel
+  Richter and E. von [[Martens]], _Beiträge zur Meeresfauna der Insel
   Mauritius und der Seychellen_ (Berlin, 1880); G. Clark, _A Brief
   Notice of the Fauna of Mauritius_ (1881); A. d'Épinay, _Renseignements
   pour servir à l'histoire de l'Île de France jusqu'à 1810_ (Mauritius,
@@ -497,7 +497,7 @@ colony as an important sugar-producing country.
   of Mauritius" in vol. li., _Q. J. Geol. Soc._ (1895); the Annual
   Reports on Mauritius issued by the Colonial Office, London; _The
   Mauritius Almanack_ published yearly at Port Louis. A map of the
-  island in six sheets on the scale of one inch to a mile was issued by
+  island in six sheets on the scale of one [[Inch|inch]] to a mile was issued by
   the War Office in 1905.     (J. Si.*)
 
 

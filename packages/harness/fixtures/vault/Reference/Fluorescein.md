@@ -8,7 +8,7 @@ tags: [thermodynamics, history]
 
 # Fluorescein
 
-FLUORESCEIN, or RESORCIN-PHTHALEIN, C20H12O5, in chemistry, a compound
+FLUORESCEIN, or RESORCIN-PHTHALEIN, C20H12O5, in [[Chemistry|chemistry]], a compound
 discovered in 1876 by A. v. Baeyer by the condensation of phthalic
 anhydride with resorcin at 195-200° C. (_Ann._, 1876, 183, p. 1). The two
 reacting substances are either heated alone or with zinc chloride for
@@ -19,7 +19,7 @@ water and then dried. By repeating this process two or three times, the
 fluorescein may be obtained in a very pure condition. It forms a yellow
 amorphous powder, insoluble in water but soluble in alcohol, and
 crystallizing from the alcoholic solution in small dark red nodules. It
-is readily soluble in solutions of the caustic alkalis, the solution
+is readily soluble in solutions of the [[Caustic|caustic]] alkalis, the solution
 being of a dark red colour and showing (especially when largely diluted
 with water) a brilliant green fluorescence. It was so named on account of
 this last character. By brominating fluorescein in glacial acetic acid
@@ -33,16 +33,16 @@ compound is known as _erythrosin_. Fluorescein is readily nitrated,
 yielding a di- or tetra-nitro compound according to conditions. The
 entrance of the negative nitro group into the molecule weakens the
 central pyrone ring in the fluorescein nucleus and the di-and tetra-nitro
-compounds readily yield hydrates (see J.T. Hewitt and B.W. Perkins,
+compounds readily yield hydrates (see J.T. [[Hewitt]] and B.W. Perkins,
 _Jour. Chem. Soc._, 1900, p. 1326). By the action of ammonia or amines
 the di-nitro fluoresceins are converted into yellow dyestuffs (F.
 Reverdin, _Ber_., 1897, 30, p. 332). Other dyestuffs obtained from
 fluorescein are safrosine or eosin scarlet (dibromdinitrofluorescein) and
-rose Bengal (tetraiodotetrachlorfluorescein).
+rose [[Bengal]] (tetraiodotetrachlorfluorescein).
 
-  On fusion with caustic alkali, fluorescein yields resorcin, C6H4(OH)2,
+  On [[Fusion|fusion]] with caustic alkali, fluorescein yields resorcin, C6H4(OH)2,
   and monoresorcin phthalein (dioxybenzoylbenzoic acid), (HO)2C6H3·CO·C
-  H4·COOH. With zinc dust and caustic soda it yields fluorescin. By
+  H4·COOH. With zinc [[Dust|dust]] and caustic soda it yields fluorescin. By
   warming fluorescein with excess of phosphorus pentachloride it yields
   fluorescein chloride, C20H10O3Cl2 (A. Baeyer), which crystallizes from
   alcohol in small prisms, melting at 252° C. When heated with aniline
@@ -65,8 +65,8 @@ rose Bengal (tetraiodotetrachlorfluorescein).
   acid solution (Fischer and Hepp). Considerable discussion has taken
   place as to the position held by the hydroxyl groups in the
   fluorescein molecule, C. Graebe (_Ber_., 1895, 28, p. 28) asserting
-  that they were in the ortho position to the linking carbon atom of the
-  phthalic anhydride residue. G. Heller (_Ber_., 1895, 28, p. 312),
+  that they were in the ortho position to the linking [[Carbon|carbon]] [[Atom|atom]] of the
+  phthalic anhydride residue. G. [[Heller]] (_Ber_., 1895, 28, p. 312),
   however, showed that monoresorcin-phthalein when brominated in glacial
   acetic acid gives a dibrom derivative which, with fuming sulphuric
   acid, yields dibromxanthopurpurin (1.3-dioxy-2.4-dibromanthraquinone),
@@ -79,22 +79,22 @@ rose Bengal (tetraiodotetrachlorfluorescein).
 
 
 FLUORESCENCE. In a paper read before the Royal Society of Edinburgh in
-1833, Sir David Brewster described a remarkable phenomenon he had
+1833, Sir David [[Brewster]] described a remarkable phenomenon he had
 discovered to which he gave the name of "internal dispersion." On
 admitting a beam of sunlight, condensed by a lens, into a solution of
 chlorophyll, the green colouring matter of leaves (see fig. 1), he was
 surprised to find that the path of the rays within the fluid was marked
-by a bright light of a blood-red colour, strangely contrasting with the
+by a [[Bright|bright]] light of a blood-red colour, strangely contrasting with the
 beautiful green of the fluid when seen in moderate thickness. Brewster
 afterwards observed the same phenomenon in various vegetable solutions
 and essential oils, and in some solids, amongst which was fluor-spar. He
 believed this effect to be due to coloured particles held in suspension.
-A few years later, Sir John Herschel independently discovered that if a
+A few years later, Sir John [[Herschel]] independently discovered that if a
 solution of quinine sulphate, which, viewed by transmitted light,
 appears colourless and transparent like water, were illuminated by a
 beam of ordinary daylight, a peculiar blue colour was seen in a thin
 stratum of the fluid adjacent to the surface by which the light entered.
-The blue light was unpolarized and passed freely through many inches of
+The blue light was unpolarized and passed freely through many [[Inch|inches]] of
 the fluid. The incident beam, after having passed through the stratum
 from which the blue light came, was not sensibly enfeebled or coloured,
 but yet it had lost the power of producing the characteristic blue
@@ -196,7 +196,7 @@ a white paper moistened with a fluorescent solution, and viewed through
 a second prism with its refracting edge perpendicular to that of the
 first prism. In addition to the sloping spectrum seen under ordinary
 circumstances, another spectrum due to the fluorescent light alone, made
-its appearance, as seen in figs. 3 and 4. In this spectrum the colours
+its appearance, as seen in figs. 3 and 4. In this spectrum the [[Colours|colours]]
 do not run from left to right, but in horizontal lines. Thus the dark
 lines of the solar spectrum lie across the colours. The spectra in figs.
 3 and 4 were obtained by V. Pierre with an improved arrangement of
@@ -213,7 +213,7 @@ found that most organic substances show signs of fluorescence. Green
 fluor-spar from Alston Moor exhibits a violet, uranium glass a
 yellowish-green fluorescence. Tincture of turmeric gives rise to a
 greenish light, and the extract of seeds of _Datura stramonium_ a pale
-green light. Ordinary paraffin oil fluoresces blue. Barium
+green light. Ordinary paraffin oil fluoresces blue. [[Barium]]
 platinocyanide, which is much used in the fluorescent screens employed
 in work with the Röntgen rays, shows a brilliant green fluorescence with
 ordinary light. Crystals of magnesium platinocyanide possess the
@@ -285,7 +285,7 @@ visible. The existence of the dark lines in the ultra-violet portion of
 the solar spectrum can also be demonstrated in a simple manner. In
 addition to the foregoing applications, Stokes made use of this property
 for studying the character of the ultra-violet spectrum of different
-sources of illumination and flames. He suggested also that the property
+sources of [[Illumination|illumination]] and flames. He suggested also that the property
 would in some cases furnish a simple test for the presence of a small
 quantity of a sensitive substance in an organic mixture. Fluorescent
 screens are largely used in work with Röntgen rays. There appears to be

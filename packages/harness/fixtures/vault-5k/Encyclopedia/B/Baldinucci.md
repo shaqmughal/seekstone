@@ -60,7 +60,7 @@ parts, at first cautiously, later more vigorously, and in stronger
 solution:--[Rx.] Acidi lactici [dr.] i-[oz.] i; Ol. ricini [dr.] ii; Spt.
 vini ad [oz.] iv.
 
-The loss of hair following acute fevers must be treated by keeping the hair
+The loss of hair following acute [[Fever|fevers]] must be treated by keeping the hair
 short, applying stimulating lotions to the scalp, and attending to the
 general hygiene of the patient.
 

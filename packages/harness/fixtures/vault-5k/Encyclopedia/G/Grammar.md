@@ -63,7 +63,7 @@ polysynthetic idioms of America defy all attempts to discover in them
 "the parts of speech" and the various grammatical ideas which occupy so
 large a place in our school-grammars. The endeavour to find the
 distinctions of Latin grammar in that of English has only resulted in
-grotesque errors, and a total misapprehension of the usage of the
+[[Grotesque|grotesque]] errors, and a total misapprehension of the usage of the
 English language.
 
 
@@ -71,15 +71,15 @@ English language.
 
 It is to the Latin grammarians--or, more correctly, to the Greek
 grammarians, upon whose labours those of the Latin writers were
-based--that we owe the classification of the subjects with which grammar
+based--that we owe the [[Classification|classification]] of the subjects with which grammar
 is commonly supposed to deal. The grammar of Dionysius Thrax, which he
 wrote for Roman schoolboys in the time of Pompey, has formed the
 starting-point for the innumerable school-grammars which have since seen
 the light, and suggested that division of the matter treated of which
 they have followed. He defines grammar as a practical acquaintance with
 the language of literary men, and as divided into six parts--accentuation
-and phonology, explanation of figurative expressions, definition,
-etymology, general rules of flexion and critical canons. Of these,
+and phonology, explanation of figurative expressions, [[Definition|definition]],
+[[Etymology|etymology]], general rules of flexion and critical canons. Of these,
 phonology and accentuation, or prosody, can properly be included in
 grammar only in so far as the construction of a sentence and the
 grammatical meaning of a word are determined by accent or letter-change;
@@ -120,7 +120,7 @@ distorted by a false theory in regard to them, while they will certainly
 not be presented in a complete form if the grammarian is ignorant of the
 true theory they presuppose. The Semitic verb, for example, remains
 unintelligible so long as the explanation of its forms is sought in the
-conjugation of the Aryan verb, since it has no tenses in the Aryan sense
+conjugation of the [[Aryan]] verb, since it has no tenses in the Aryan sense
 of the word, but denotes relation and not time.
 
 A good practical grammar of a language, therefore, should be based on a
@@ -367,7 +367,7 @@ _through_, the Sans. _tar-ami_, "I pass over," and to have primarily
 signified "one that goes through" a thing. Thus, too, the Eng. _head_ or
 _hood_, in words like _godhead_ and _brotherhood_, is the A.-S. _had_,
 "character" or "rank"; _dom_, in kingdom, the A.-S. _dom_, "judgment";
-and _lock_ or _ledge_, in _wedlock_ and _knowledge_, the A.-S. _lac_,
+and _[[Lock|lock]]_ or _ledge_, in _wedlock_ and _knowledge_, the A.-S. _[[Lac|lac]]_,
 "sport" or "gift." In all these cases the "empty words," after first
 losing every trace of their original significance, have followed the
 general analogy of the language and assumed the form and functions of
@@ -616,12 +616,12 @@ large class of adjectives and genitives (like the Greek [Greek: hippoio]
 for [Greek: hipposio]); in this case future time will have been regarded
 as an attribute of the subject, no distinction being drawn, for
 instance, between "rising sun" and "the sun will rise." It is possible,
-however, that the auxiliary verb _as_, "to be," enters into the
+however, that the [[Auxiliary|auxiliary]] verb _as_, "to be," enters into the
 composition of the future; if so, the future will be the product of the
 second stage in the development of the Indo-European verb when new forms
 were created by means of composition. The sigmatic or first aorist is in
 favour of this view, as it certainly belongs to the age of Indo-European
-unity, and may be a compound of the verbal stem with the auxiliary _as_.
+unity, and may be a [[Compound|compound]] of the verbal stem with the auxiliary _as_.
 
 After the separation of the Indo-European languages, composition was
 largely employed in the formation of new tenses. Thus in Latin we have
@@ -769,7 +769,7 @@ particles, determined a fifth part of speech, [Greek: pandektes] or
 "adverb," confined the term "case" to the flexions of the nouns,
 distinguishing the four principal cases by names, and divided the verb
 into its tenses, moods and classes. Meanwhile the Alexandrian critics
-were studying the language of Homer and the Attic writers, and comparing
+were studying the language of Homer and the [[Attic]] writers, and comparing
 it with the language of their own day, the result being a minute
 examination of the facts and rules of grammar. Two schools of
 grammarians sprang up--the Analogists, headed by Aristarchus, who held
@@ -841,16 +841,16 @@ and then breaking up this expression into its several elements.
   Pezzi, _Aryan Philology according to the most recent Researches_,
   translated by E. S. Roberts (London, 1879); Sayce, _Introduction to
   the Science of Language_ (London, 1879); Lersch, _Die
-  Sprachphilosophie der Alten_ (Bonn, 1838-1841); Steinthal, _Geschichte
+  Sprachphilosophie der Alten_ ([[Bonn]], 1838-1841); Steinthal, _Geschichte
   der Sprachwissenschaft bei den Griechen und Romern mit besonderer
   Rucksicht auf die Logik_ (Berlin, 1863, 2nd ed. 1890); Delbruck,
   _Ablativ localis instrumentalis im Altindischen, Lateinischen,
-  Griechischen, und Deutschen_ (Berlin, 1864); Jolly, _Ein Kapitel
+  Griechischen, und Deutschen_ (Berlin, 1864); [[Jolly]], _Ein Kapitel
   vergleichender Syntax_ (Munich, 1873); Hubschmann, _Zur Casuslehre_
   (Munich, 1875); Holzweissig, _Wahrheit und Irrthum der localistischen
   Casustheorie_ (Leipzig, 1877); Draeger, _Historische Syntax der
   lateinischen Sprache_ (Leipzig, 1874-1876); Sweet, _Words, Logic, and
-  Grammar_ (London, 1876); P. Giles, _Manual of Comp. Philology_ (1901);
+  Grammar_ (London, 1876); P. [[Giles]], _[[Manual]] of Comp. Philology_ (1901);
   C. Abel, _Agypt.-indo-eur. Sprachverwandschaft_ (1903); Brugmann and
   Delbruck, _Grundriss d. vergl. Gram. d. indogerm. Spr._ (1886-1900);
   Fritz Mauthner, _Beitrage zu einer Kritik der Sprache_ vol. iii.

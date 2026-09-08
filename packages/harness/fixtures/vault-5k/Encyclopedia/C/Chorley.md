@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chorley"
 CHORLEY, a market town and municipal borough in the Chorley
 parliamentary division of Lancashire, England, on the river Yarrow, 202
 m. N.W. by W. from London and 22 m. N.W. from Manchester, on the
-Lancashire & Yorkshire and London & North-Western railways and the Leeds
+Lancashire & Yorkshire and London & North-Western railways and the [[Leeds]]
 & Liverpool Canal. Pop. (1891) 23,087; (1901) 26,852. The church of St
 Lawrence is of Perpendicular and earlier date, largely restored; it
 contains fine woodwork and some interesting monuments. Cotton spinning
@@ -20,7 +20,7 @@ there are also iron and brass foundries and boiler factories.
 Railway-wagon building is an important industry. The district contains a
 number of coal-mines and stone-quarries. Close to the town is the
 beautiful Elizabethan mansion of Astley Hall, which is said to have
-sheltered Oliver Cromwell after the battle of Preston (1648). The
+sheltered Oliver [[Cromwell]] after the battle of Preston (1648). The
 corporation consists of a mayor, 6 aldermen and 24 councillors. Area,
 3614 acres.
 

@@ -18,7 +18,7 @@ less permanent character.
 
 LITHUANIANS and LETTS, two kindred peoples of Indo-European origin,
 which inhabit several western provinces of Russia and the north-eastern
-parts of Poland and Prussia, on the shores of the Baltic Sea, and in the
+parts of Poland and Prussia, on the shores of the [[Baltic Sea]], and in the
 basins of the Niemen and of the Duna. Large colonies of Lithuanian and
 Lettic emigrants have been established in the United States. The two
 races number about 3,500,000, of whom 1,300,000 are Letts. Little is
@@ -135,7 +135,7 @@ centuries before, but it constituted a compact state, including Polotsk,
 Moghilev, Minsk, Grodno, Kovno, Vilna, Brest, and reaching as far
 south-east as Chernigov. From the union with Poland, the history of
 Lithuania becomes a part of Poland's history, Lithuanians and
-White-Russians partaking of the fate of the Polish kingdom (see POLAND:
+White-Russians partaking of the [[Fate|fate]] of the Polish kingdom (see POLAND:
 _History_). After its three partitions, they fell under the dominion of
 the Russian empire. In 1792 Russia took the provinces of Moghilev and
 Polotsk, and in 1793 those of Vilna, Troki, Novgorod-Syeversk, Brest and
@@ -164,7 +164,7 @@ lands as far as the government of Voronezh.
   features fine; the very fair hair, blue eyes and delicate skin
   distinguish them from Poles and Russians. Their dress is usually plain
   in comparison with that of Poles, and the predominance in it of
-  greyish colours has been frequently noticed. Their chief occupation is
+  greyish [[Colours|colours]] has been frequently noticed. Their chief occupation is
   agriculture. The trades in towns are generally carried on by men of
   other races--mostly by Germans, Jews or Poles. The only exception is
   afforded to some extent by the Letts. The Samogitians are good

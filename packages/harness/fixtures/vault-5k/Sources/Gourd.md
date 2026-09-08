@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gourd"
 
 # Gourd
 
-GOURD, a name given to various plants of the order _Cucurbitaceae_,
+GOURD, a name given to various plants of the order _[[Cucurbitaceae]]_,
 especially those belonging to the genus _Cucurbita_, monoecious trailing
-herbs of annual duration, with long succulent stems furnished with
+[[Herb|herbs]] of annual duration, with long succulent stems furnished with
 tendrils, and large, rough, palmately-lobed leaves; the flowers are
 generally large and of a bright yellow or orange colour, the barren ones
 with the stamens united; the fertile are followed by the large succulent
@@ -62,7 +62,7 @@ their fruit and foliage than for their esculent qualities. Among these
 is _C. Pepo_ var. _aurantia_, the orange gourd, bearing a spheroidal
 fruit, like a large orange in form and colour; in Britain it is
 generally too bitter to be palatable, though applied to culinary
-purposes in Turkey and the Levant. _C. Pepo_ var. _pyriformis_ and var.
+purposes in Turkey and the [[Levant]]. _C. Pepo_ var. _pyriformis_ and var.
 _verrucosa_, the warted gourds, are likewise occasionally eaten,
 especially in the immature state; and _C. moschata_ (musk melon) is very
 extensively cultivated throughout India by the natives, the yellow flesh
@@ -73,7 +73,7 @@ being cooked and eaten.
 Group of Gourds.
 
   1-5. Various forms of bottle gourd, _Lagenaria vulgaris_.
-    6. Giant gourd, _Cucurbita maxima_.]
+    6. [[Giant]] gourd, _Cucurbita maxima_.]
 
 The bottle-gourds are placed in a separate genus, _Lagenaria_, chiefly
 differing from _Cucurbita_ in the anthers being free instead of
@@ -93,7 +93,7 @@ cathartic, but while immature it is eaten by the Arabs and Turks. When
 about the size of a small cucumber, it is stuffed with rice and minced
 meat, flavoured with pepper, onions, &c., and then boiled, forming a
 favourite dish with Eastern epicures. The elongated snake-gourds of
-India and China (_Trichosanthes_) are used in curries and stews.
+India and China (_Trichosanthes_) are used in [[Currie|curries]] and stews.
 
 All the true gourds have a tendency to secrete the cathartic principle
 _colocynthin_, and in many varieties of _Cucurbita_ and the allied

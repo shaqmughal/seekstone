@@ -12,8 +12,8 @@ Hebrew scripture in response to a popular religious need, may be termed
 a rabbinical commentary on the Old Testament, containing traditional
 stories and legends, sometimes amusing, sometimes trivial, and often
 beautiful. The haggada abounds in parables. The haggadic passages of the
-Talmud were collected in the _Eye of Jacob_, a very popular compilation
-completed by Jakob ibn Habib in the 16th century.
+Talmud were collected in the _Eye of [[Jacob]]_, a very popular compilation
+completed by [[Jakob]] ibn Habib in the 16th century.
 
 ## References
 

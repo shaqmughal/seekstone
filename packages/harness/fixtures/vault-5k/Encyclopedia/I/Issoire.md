@@ -6,13 +6,13 @@ Allier, 22 m. S.S.E. of Clermont-Ferrand on the Paris-Lyon-Mediterranee
 railway to Nimes. Pop. (1906) 5274. Issoire is situated in the fertile
 plain of Limagne. The streets in the older part of the town are narrow
 and crooked, but in the newer part there are several fine tree-shaded
-promenades, while a handsome boulevard encircles the town. The church of
+promenades, while a handsome [[Boulevard|boulevard]] encircles the town. The church of
 St Paul or St Austremoine built on the site of an older chapel raised
 over the tomb of St Austremoine (Stremonius) affords an excellent
 specimen of the Romanesque architecture of Auvergne. Issoire is the seat
 of a sub-prefect; its public institutions include tribunals of first
 instance and commerce and a communal college. Brewing, wool-carding and
-the manufacture of passementerie, candles, straw hats and woollen goods
+the manufacture of passementerie, [[Candle|candles]], straw hats and woollen goods
 are carried on. There is trade in lentils and other agricultural
 products, in fruit and in wine.
 

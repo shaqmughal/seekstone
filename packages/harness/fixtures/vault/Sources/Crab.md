@@ -18,7 +18,7 @@ lobsters and shrimps which form the order _Macrura_, by the fact that
 the abdomen or tail is of small size and is carried folded up under the
 body. In most of them the body is transversely oval or triangular in
 outline and more or less flattened, and is covered by a hard shell, the
-carapace. There are five pairs of legs. The first pair end in nippers or
+[[Carapace|carapace]]. There are five pairs of [[Leg|legs]]. The first pair end in nippers or
 chelae and are usually much more massive than the others which are used
 in walking or swimming. The eyes are set on movable stalks and can be
 withdrawn into sockets in the front part of the carapace. There are six
@@ -26,7 +26,7 @@ pairs of jaws and foot-jaws (maxillipeds) enclosed within a "buccal
 cavern," the opening of which is covered by the broad and flattened
 third pair of foot-jaws. The abdomen is usually narrow and triangular in
 the males, but in the females it is broad and rounded and bears
-appendages to which the eggs are attached after spawning (fig. 1).
+appendages to which the [[Egg|eggs]] are attached after spawning (fig. 1).
 
 [Illustration: FIG. 1.--Side view of Crab (Morse), the abdomen extended
 and carrying a mass of eggs beneath it; e, eggs.]
@@ -58,9 +58,9 @@ tide-marks are more or less amphibious, and the river-crab of southern
 Europe or Lenten crab (_Potamon edule_, better known as _Thelphusa
 fluviatilis_) is an example of the freshwater crabs which are abundant
 in most of the warmer regions of the world. As a rule, crabs breathe by
-gills, which are lodged in a pair of cavities at the sides of the
+[[Gill|gills]], which are lodged in a pair of cavities at the sides of the
 carapace, but in the true land-crabs the cavities become enlarged and
-modified so as to act as lungs for breathing air.
+modified so as to act as [[Lung|lungs]] for breathing air.
 
 Walking or crawling is the usual mode of locomotion, and the peculiar
 sidelong gait familiar to most people in the common shore-crab, is
@@ -76,11 +76,11 @@ Though no crab, perhaps, is truly parasitic, some live in relations of
 "commensalism" with other animals. The best known examples of this are
 the little "mussel-crabs" (_Pinnotheridae_) which live within the shells
 of mussels and other bivalve mollusca and probably share the food of
-their hosts. Some crabs live among corals, and one species at least
+their hosts. Some crabs live among [[Coral|corals]], and one species at least
 gives rise to hollow swellings on the branches of a coral like the
-"galls" which are formed on plants by certain insects. Another crab
+"[[Gall|galls]]" which are formed on plants by certain [[Insect|insects]]. Another crab
 (_Melia tesselata_) carries in each of its claws a living sea-anemone
-which it uses as an animated weapon of defence and an implement for the
+which it uses as an animated weapon of defence and an [[Implement|implement]] for the
 capture of prey. Many of the sluggish spider-crabs (_Maiidae_) have
 their shells covered by a forest of growing sea-weeds, zoophytes and
 sponges, which are "planted" there by the crab itself, and which afford
@@ -88,7 +88,7 @@ it a very effective disguise.
 
 Many of the larger crabs are sought for as food by man. The most
 important and valuable are the edible crab of British and European
-coasts (_Cancer pagurus_) and the blue crab of the Atlantic coast of the
+coasts (_[[Cancer]] pagurus_) and the blue crab of the Atlantic coast of the
 United States (_Callinectes sapidus_).
 
 Among the _Anomura_, the best known are the hermit-crabs, which live in
@@ -101,7 +101,7 @@ Small specimens are found between tide-marks inhabiting the shells of
 periwinkles and other small molluscs, but the full-grown specimens live
 in deeper water and are usually found in the shell of the whelk
 (_Buccinum_). As the crab grows it changes its dwelling from time to
-time, often having to fight with its fellows for the possession of an
+time, often having to fight with its [[Fellows|fellows]] for the possession of an
 empty shell. Sometimes an annelid worm lives inside the shell along with
 the hermit and often the outside is covered with zoophytes. In some
 species, as in the British _Eupagurus prideauxi_, a sea-anemone is

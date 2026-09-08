@@ -16,7 +16,7 @@ published, in 1697, a work entitled _A Serious Proposal to the Ladies,
 wherein a Method is offered for the Improvement of their Minds_. With
 the same end in view she elaborated a scheme for a ladies' college,
 which was favourably entertained by Queen Anne, and would have been
-carried out had not Bishop Burnet interfered. The most important of her
+carried out had not Bishop [[Burnet]] interfered. The most important of her
 other works was _The Christian Religion, as professed by a Daughter of
 the Church of England_, published in 1705.
 

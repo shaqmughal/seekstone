@@ -26,7 +26,7 @@ through the protoplasm; body naked, or provided with a permanent
 investment (shell or test), membranous, gelatinous, arenaceous (of
 compacted or cemented granules), calcareous, or very rarely (in deep sea
 forms) siliceous, sometimes freely perforated, but _never latticed_;
-opening by one or more permanent apertures ("pylomes") or crevices
+opening by one or more permanent [[Aperture|apertures]] ("pylomes") or crevices
 between compacted sand-granules, often very complex; reproduction by
 fission (only in simplest naked forms), or by brood formation; in the
 latter case one mode of brood formation (A) eventuates in amoebiform
@@ -51,7 +51,7 @@ consequently rare.
 
 [Illustration: FIG. 2.--_Allogromiidea._
 
-  1, _Diplophrys archeri_, Barker.
+  1, _Diplophrys archeri_, [[Barker]].
     a, Nucleus.
     b, Contractile vacuoles.
     c, The yellow oil-like body. Moor pools, Ireland.
@@ -74,7 +74,7 @@ consequently rare.
   6-10, Varying appearance of the nucleus as it is carried along in the
     streaming protoplasm within the tube.
 
-  11, _Amphitrema wrightianum_, Archer, showing membranous shell
+  11, _Amphitrema wrightianum_, [[Archer]], showing membranous shell
     encrusted with foreign particles. Moor pools, Ireland.
 
   12, _Diaphorophodon mobile_, Archer.
@@ -87,7 +87,7 @@ the only complication being the doubling of the pylome in _Diplophrys_
 _Diaphorophodon_ (fig. 2, 12). The marine shells are, as we have seen,
 of cemented particles, or calcareous, glassy, and regularly perforated,
 or again calcareous, but porcellanous and rarely perforate. These
-characters have been used as a guide to classification; but some sandy
+characters have been used as a guide to [[Classification|classification]]; but some sandy
 forms have so large a proportion of calcareous cement that they might
 well be called encrusted calcareous genera, and are also not very
 constant in respect of the character of perforation. The porcellanous
@@ -282,7 +282,7 @@ fan-shaped and finally cyclic stage. _Globigerina_, whose chambers are
 nearly spherical, is sometimes seen to be enclosed in a spherical test,
 perforate, but without a pylome, and known as _Orbulina_; the chambered
 Globigerina-shell is attached at first inside the wall of the
-_Orbulina_, but ultimately disappears. The ultimate fate of the
+_Orbulina_, but ultimately disappears. The ultimate [[Fate|fate]] of the
 _Orbulina_ shell is unknown; but it obviously marks a turning-point in
 the life-cycle.
 
@@ -296,7 +296,7 @@ the life-cycle.
   into granular strands traversing a clear jelly, rich in large vacuoles
   (alveoli), and uniting outside the jelly to form the basal layer of
   the pseudopods; these again are radiolarian in character. Hence E.R.
-  Lankester justly enough compares the shell here to the central capsule
+  Lankester justly enough compares the shell here to the central [[Capsule|capsule]]
   of the Radiolarian, though the comparison must not be pushed too far.
   The cytoplasm contains granules of various kinds, and the internal
   protoplasm is sometimes pigmented. The Chrysomonad Flagellate,
@@ -347,7 +347,7 @@ the life-cycle.
   researches of Schaudinn and J.J. Lister.
 
   In several species (notably _Patellina_) plastogamy, the union of the
-  cytoplasmic bodies without nuclear fusion, has been noted, as a
+  cytoplasmic bodies without nuclear [[Fusion|fusion]], has been noted, as a
   prelude to the resolution of the conjoined protoplasm into uninucleate
   amoebulae.
 
@@ -369,7 +369,7 @@ the life-cycle.
   larger ones have their walls thickened internally and traversed by
   complex passages; this structure is called _labyrinthic_ (fig. 19, g,
   h). The shell of _Endothyra_, a form only known to us by its abundance
-  in Carboniferous and Triassic strata, is largely composed of calcite
+  in Carboniferous and Triassic strata, is largely composed of [[Calcite|calcite]]
   and is sometimes perforated.
 
   [Illustration: FIG. 15.--_Cycloclypeus_.]
@@ -407,7 +407,7 @@ the life-cycle.
   arenaceous; reproduction by fission alone known. Fresh-water or marine
   genera _Allogromia_ (Rhumbl.), _Myxotheca_ (Schaud.), _Lieberkuhnia_
   (Cl. & L.) (fig. 1A), _Shepheardella_ (Siddall) (fig. 2, 3-10),
-  _Diplophrys_ (Barker), _Amphitrema_ (Arch.) (fig. 2, 11),
+  _Diplophrys_ (Barker), _Amphitrema_ ([[Arch]].) (fig. 2, 11),
   Diaphorophodon (Arch.) (fig. 2, 12), are possibly Filosa. This group
   differs from the preceding in its simple test, but, like it, includes
   many fresh-water species, which possess contractile vacuoles.
@@ -501,16 +501,16 @@ the life-cycle.
   11, 12, 13, 14).
 
   "_Eozoon canadense_," described as a species of this order by J.W.
-  Dawson and Carpenter, has been pronounced by a series of enquirers,
+  [[Dawson]] and Carpenter, has been pronounced by a series of enquirers,
   most of whom started with a belief in its organic structure, to be
-  merely a complex mineral concretion in ophicalcite, a rock composed of
+  merely a complex mineral [[Concretion|concretion]] in ophicalcite, a rock composed of
   an admixture of silicates (mostly serpentine and pyroxene) and
   calcite.
 
 _Distribution in Vertical Space._--Owing to their lack of organs for
 active locomotion the Foraminifera are all crawling or attached, with
 the exception of a few genera (very rich in species, however) which
-float near the surface of the ocean, constituting part of the pelagic
+[[Float|float]] near the surface of the ocean, constituting part of the pelagic
 plankton (q.v.). Thus the majority are littoral or deep-sea, sometimes
 attached to other bodies or even burrowing in the tests of other
 Foraminifera; most of the fresh-water forms are sapropelic, inhabiting
@@ -542,9 +542,9 @@ the protoplasm outside has the same character as that of the Radiolaria
 (q.v.), being differentiated into jelly containing enormous vacuoles and
 traversed by reticulate strands of granular protoplasm. These coalesce
 into a peripheral zone from which protrude the pseudopods, here rather
-radiate than reticulate. Most genera and most species are cosmopolitan;
+radiate than reticulate. Most genera and most species are [[Cosmopolitan|cosmopolitan]];
 but local differences are often marked. Foraminifera abound in the shore
-sands and the crevices of coral reefs. The membranous shelled forms
+sands and the crevices of [[Coral|coral]] reefs. The membranous shelled forms
 decay without leaving traces. The sandy or calcareous shells of dead
 Foraminifera constitute a large proportion of littoral sand, both below
 and above tide marks; and, as shown in the boring on Funafuti, enter
@@ -555,20 +555,20 @@ accumulate on the spot; (2) shells of dead plankton forms sink down in a
 continuous shower, to form a layer at the bottom of the ocean, during
 which process the spines are dissolved by the sea-water. Thus is formed
 an ooze known as "Globigerina-ooze," being formed largely of that genus
-and its ally _Hastigerina_; below 3000 fathoms even the tests themselves
-are dissolved. Casts of their bodies in glauconite (a green ferrous
+and its ally _Hastigerina_; below 3000 [[Fathom|fathoms]] even the tests themselves
+are dissolved. Casts of their bodies in [[Glauconite|glauconite]] (a green ferrous
 silicate, whose composition has not yet been accurately determined) are,
 however, frequently left. Glauconitic casts of perforate shells, notably
 _Globigerina_, have been found in Lower Cambrian (e.g. Hollybush
-Sandstone), and the shells themselves in Siberian limestones of that
+Sandstone), and the shells themselves in Siberian [[Limestone|limestones]] of that
 age. It is only when we pass into the Silurian Wenlock limestone that
-sandy shells make their appearance. Above this horizon Foraminifera are
+sandy shells make their appearance. Above this [[Horizon|horizon]] Foraminifera are
 more abundant as constituents, partial or principal of calcareous rocks,
 the genus _Endothyra_ being indeed almost confined to Carboniferous
 beds. The genus _Fusulina_ (fig. 20) and _Saccammina_ (fig. 19) give
 their names (from their respective abundance) to two limestones of the
 Carboniferous series. Porcellanous shells become abundant only from the
-Lias upwards. The glauconitic grains of the Greensand formations are
+[[Lias]] upwards. The glauconitic grains of the [[Greensand]] formations are
 chiefly foraminiferal casts. Chalk is well known to consist largely of
 foraminiferal shells, mostly vitreous, like the north Atlantic
 globigerina ooze. In the Maestricht chalk more littoral conditions
@@ -594,10 +594,10 @@ calcareous materials of the land above sea-level." (E.R. Lankester,
 
 [Illustration: FIG. 22.--Imperforata.
 
-  1, _Spiroloculina planulata_, Lamarck, showing five "coils";
+  1, _Spiroloculina planulata_, [[Lamarck]], showing five "coils";
   porcellanous.
 
-  2, Young ditto, with shell dissolved and protoplasm stained so as to
+  2, Young [[Ditto|ditto]], with shell dissolved and protoplasm stained so as to
   show the seven nuclei n.
 
   3, _Spirolina_ (_Peneroplis_); a sculptured imperfectly coiled shell;
@@ -617,7 +617,7 @@ calcareous materials of the land above sea-level." (E.R. Lankester,
   Miliolide.
 
   10, Protoplasmic core removed after treatment with weak chromic acid
-  from the shell of _Haliphysema tumanovitzii_, Bow. n, Vesicular
+  from the shell of _Haliphysema tumanovitzii_, [[Bow]]. n, Vesicular
   nuclei, stained with haematoxylin. (After Lankester.)
 
   11, _Haliphysema tumanovitzii_; X 25 diam.; living specimen, showing
@@ -682,7 +682,7 @@ calcareous materials of the land above sea-level." (E.R. Lankester,
   substance.]
 
 _Historical._--The Foraminifera were discovered as we have seen by A.
-d'Orbigny. C.E. Ehrenberg added a large number of species, but it was to
+d'Orbigny. C.E. [[Ehrenberg]] added a large number of species, but it was to
 F. Dujardin in 1835 that we owe the recognition of their true zoological
 position and the characters of the living animal. W.B. Carpenter and
 W.C. Williamson in England contributed largely to the study of the
@@ -703,7 +703,7 @@ Lister and F. Schaudinn, independently, but with concurrent results.
   will be found. For a final resume of the long controversy on Eozoon,
   see George P. Merrill in _Report of the U.S. National Museum_ (1906),
   p. 635. Other classifications of the Foraminifera will be found by
-  G.H. Theodor Eimer and C. Fickert in _Zeitschr. fur wissenschaftliche
+  G.H. Theodor Eimer and C. Fickert in _Zeitschr. [[Fur|fur]] wissenschaftliche
   Zoologie_, lxv. (1899), p. 599, and L. Rhumbler in _Archiv fur
   Protistenkunde_, iii. (1903-1904); the account of the reproduction is
   based on the researches of J.J. Lister, summarized in the above-cited

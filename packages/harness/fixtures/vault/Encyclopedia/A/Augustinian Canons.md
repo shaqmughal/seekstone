@@ -2,7 +2,7 @@
 
 AUGUSTINIAN CANONS, a religious order in the Roman Catholic Church,
 called also Austin Canons, Canons Regular, and in England Black Canons,
-because their cassock and mantle were black, though they wore a white
+because their [[Cassock|cassock]] and [[Mantle|mantle]] were black, though they wore a white
 surplice: elsewhere the colour of the habit varied considerably.
 
 The canons regular (see CANON) grew out of the earlier institute of
@@ -25,25 +25,25 @@ of life differed little from that of monks.
 
 Their houses, at first without bonds between them, soon tended to draw
 together and coalesce into congregations with corporate organization and
-codes of constitutions supplementary to the Rule. The popes encouraged
+[[Code|codes]] of constitutions supplementary to the Rule. The popes encouraged
 these centralizing tendencies; and in 1339 Benedict XII. organized the
 Augustinian canons on the same general lines as those laid down for the
 Benedictines, by a system of provincial chapters and visitations.
 
 Some thirty congregations of canons regular of St Augustine are
 numbered. The most important were: (1) the Lateran canons, formed soon
-after the synod of 1059, by the clergy of the Lateran Basilica; (2)
+after the synod of 1059, by the clergy of the Lateran [[Basilica]]; (2)
 Congregation of St Victor in Paris, c. 1100, remarkable for the
 theological and mystical school of Hugh, Richard and Adam of St Victor;
-(3) Gilbertines (see GILBERT OF SEMPRINGHAM, ST); (4) Windesheim
+(3) Gilbertines (see [[Gilbert Of Sempringham|GILBERT OF SEMPRINGHAM]], ST); (4) Windesheim
 Congregation, c. 1400, in the Netherlands and over north and central
-Germany (see GROOT, GERHARD), to which belonged Thomas a Kempis; (5)
+Germany (see [[Groot|GROOT]], GERHARD), to which belonged Thomas a Kempis; (5)
 Congregation of Ste Genevieve in Paris, a reform c. 1630. During the
 later middle ages the houses of these various congregations of canons
 regular spread all over Europe and became extraordinarily numerous. They
 underwent the natural and inevitable vicissitudes of all orders, having
 their periods of depression and degeneracy, and again of revival and
-reform. The book of Johann Busch, himself a canon of Windesheim, _De
+reform. The book of Johann [[Busch]], himself a canon of Windesheim, _De
 Reformatione monasteriorum_, shows that in the 15th century grave
 relaxation had crept into many monasteries of Augustinian canons in
 north Germany, and the efforts at reform were only partially successful.
@@ -58,7 +58,7 @@ cathedral of Augustinian canons. In Ireland the order was even more
 numerous, Christ Church, Dublin, being one of their houses. Three houses
 of the Lateran canons were established in England towards the close of
 the 19th century. Most of the congregations of Augustinian canons had
-convents of nuns, called canonesses; many such exist to this day.
+convents of nuns, called [[Canoness|canonesses]]; many such exist to this day.
 
   See the works of Amort and Du Molinet, mentioned under CANON. Vol. ii.
   of Helyot's _Hist. des ordres religieux_ (1792) is devoted to canons

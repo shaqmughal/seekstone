@@ -1,7 +1,7 @@
 # Marlowe
 
-MARLOWE, CHRISTOPHER (1564-1593), English dramatist, the father of
-English tragedy, and instaurator of dramatic blank verse, the eldest son
+MARLOWE, [[Christopher|CHRISTOPHER]] (1564-1593), English dramatist, the father of
+English tragedy, and instaurator of dramatic [[Blank|blank]] verse, the eldest son
 of a shoemaker at Canterbury, was born in that city on the 6th of
 February 1564. He was christened at St George's Church, Canterbury, on
 the 26th of February, 1563/4, some two months before Shakespeare's
@@ -14,14 +14,14 @@ had been ejected by Queen Mary as a married minister. The dramatist
 received the rudiments of his education at the King's School,
 Canterbury, which he entered at Michaelmas 1578, and where he had as his
 fellow-pupils Richard Boyle, afterwards known as the great earl of Cork,
-and Will Lyly, the brother of the dramatist. Stephen Gosson entered the
-same school a little before, and William Harvey, the famous physician, a
+and Will [[Lyly]], the brother of the dramatist. Stephen Gosson entered the
+same school a little before, and William [[Harvey]], the famous physician, a
 little after Marlowe. He went to Cambridge as one of Archbishop Parker's
 scholars from the King's School, and matriculated at Benet (Corpus
 Christi) College, on the 17th of March 1571, taking his B.A. degree in
 1584, and that of M.A. three or four years later.
 
-Francis Kett, the mystic, burnt in 1589 for heresy, was a fellow and
+Francis Kett, the mystic, burnt in 1589 for heresy, was a [[Fellow|fellow]] and
 tutor of his college, and may have had some share in developing
 Marlowe's opinions in religious matters. Marlowe's classical
 acquirements were of a kind which was then extremely common, being based
@@ -36,13 +36,13 @@ Edward Alleyn, and almost at once began writing for the stage. Of
 Marlowe's career in London, apart from his four great theatrical
 successes, we know hardly anything; but he evidently knew Thomas Kyd,
 who shared his unorthodox opinions. Nash criticized his verse, Greene
-affected to shudder at his atheism; Gabriel Harvey maligned his memory.
+affected to shudder at his [[Atheism|atheism]]; Gabriel Harvey maligned his memory.
 On the other hand Marlowe was intimate with the Walsinghams of Scadbury,
 Chiselhurst, kinsmen of Sir Francis Walsingham: he was also the personal
 friend of Sir Walter Raleigh, and perhaps of the poetical earl of
 Oxford, with both of whom, and with such men as Walter Warner and Robert
 Hughes the mathematicians, Thomas Harriott the notable astronomer, and
-Matthew Royden, the dramatist is said to have met in free converse.
+[[Matthew]] Royden, the dramatist is said to have met in free converse.
 Either this free converse or the licentious character of some of the
 young dramatist's tirades seems to have sown a suspicion among the
 strait-laced that his morals left everything to be desired. It is
@@ -55,9 +55,9 @@ putting a man outside the pale of civilized humanity. As the result of
 some depositions made by Thomas Kyd under the influence of torture, the
 Privy Council were upon the eve of investigating some serious charges
 against Marlowe when his career was abruptly and somewhat scandalously
-terminated. The order had already been issued for his arrest, when he
-was slain in a quarrel by a man variously named (Archer and Ingram) at
-Deptford, at the end of May 1593, and he was buried on the 1st of June
+terminated. The order had already been issued for his [[Arrest|arrest]], when he
+was slain in a quarrel by a man variously named ([[Archer]] and Ingram) at
+[[Deptford]], at the end of May 1593, and he was buried on the 1st of June
 in the churchyard of St Nicholas at Deptford. The following September
 Gabriel Harvey referred to him as "dead of the plague." The disgraceful
 particulars attached to the tragedy of Marlowe in the popular mind would
@@ -68,13 +68,13 @@ the vengeance of God. Upon the embellishments of this story, such as
 that of Francis Meres the critic, in 1598, that Marlowe came to be
 "stabbed to death by a bawdy servingman, a rival of his in his lewde
 love," or that of William Vaughan in the _Golden Grove_ of 1600, in
-which the unfortunate poet's dagger is thrust into his own eye in
-prevention of his felonious assault upon an innocent man, his guest, it
+which the unfortunate poet's [[Dagger|dagger]] is thrust into his own eye in
+prevention of his felonious assault upon an [[Innocent|innocent]] man, his guest, it
 is impossible now to pronounce. We really do not know the circumstances
 of Marlowe's death. The probability is he was killed in a brawl, and his
 atheism must be interpreted not according to the _ex parte_ accusation
 of one Richard Baines, a professional informer (among the Privy Council
-records), but as a species of rationalistic antinomianism, dialectic in
+records), but as a species of rationalistic antinomianism, [[Dialectic|dialectic]] in
 character, and closely related to the deflection from conventional
 orthodoxy for which Kett was burnt at Norwich in 1589. A few months
 before the end of his life there is reason to believe that he
@@ -88,7 +88,7 @@ and the four great plays to which reference has been made were
 _Tamburlaine the Great_, an heroic epic in dramatic form divided into
 two parts of five acts each (1587, printed in 1590); _Dr Faustus_ (1588,
 entered at Stationers' Hall 1601); _The Famous Tragedy of the Rich Jew
-of Malta_ (dating perhaps from 1589, acted in 1592, printed in 1633);
+of [[Malta]]_ (dating perhaps from 1589, acted in 1592, printed in 1633);
 and _Edward the Second_ (printed 1594). The very first words of
 _Tamburlaine_ sound the trumpet note of attack in the older order of
 things dramatic:--
@@ -101,23 +101,23 @@ things dramatic:--
    And scourging kingdoms with his conquering sword."
 
 It leapt with a bound to a place beside Kyd's _Spanish Tragedy_, and few
-plays have been more imitated by rivals (Greene's _Alphonsus of Aragon_,
+plays have been more imitated by rivals (Greene's _Alphonsus of [[Aragon]]_,
 Peek's _Battle of Alcazar, Selimus, Scanderbeg_) or more keenly
-satirized by the jealousy and prejudice of out-distanced competitors.
+satirized by the [[Jealousy|jealousy]] and prejudice of out-distanced competitors.
      (T. Se.)
 
 The majestic and exquisite excellence of various lines and passages in
 Marlowe's first play must be admitted to relieve, if it cannot be
 allowed to redeem, the stormy monotony of Titanic truculence which
 blusters like a simoom through the noisy course of its ten fierce acts.
-With many and heavy faults, there is something of genuine greatness in
+With many and heavy [[Fault|faults]], there is something of genuine greatness in
 _Tamburlaine the Great_; and for two grave reasons it must always be
 remembered with distinction and mentioned with honour. It is the first
 poem ever written in English blank verse, as distinguished from mere
 rhymeless decasyllabics; and it contains one of the noblest passages,
 perhaps indeed the noblest, in the literature of the world, ever written
 by one of the greatest masters of poetry in loving praise of the
-glorious delights and sublime submission to the everlasting limits of
+glorious delights and sublime submission to the [[Everlasting|everlasting]] limits of
 his art. In its highest and most distinctive qualities, in unfaltering
 and infallible command of the right note of music and the proper tone of
 colour for the finest touches of poetic execution, no poet of the most
@@ -131,7 +131,7 @@ The just and generous judgment passed by Goethe on the _Faustus_ of his
 English predecessor in tragic treatment of the same subject is somewhat
 more than sufficient to counterbalance the slighting or the sneering
 references to that magnificent poem which might have been expected from
-the ignorance of Byron or the incompetence of Hallam. And the particular
+the [[Ignorance|ignorance]] of [[Byron]] or the incompetence of [[Hallam]]. And the particular
 note of merit observed, the special point of the praise conferred, by
 the great German poet should be no less sufficient to dispose of the
 vulgar misconception yet lingering among sciolists and pretenders to
@@ -140,8 +140,8 @@ finer or a stronger instinct for perfection of excellence in execution
 as a mere noble savage of letters, a rough self-taught sketcher or
 scribbler of crude and rude genius, whose unhewn blocks of verse had in
 them some veins of rare enough metal to be quarried and polished by
-Shakespeare. What most impressed the author of _Faust_ in the work of
-Marlowe was a quality the want of which in the author of _Manfred_ is
+Shakespeare. What most impressed the author of _[[Faust]]_ in the work of
+Marlowe was a quality the want of which in the author of _[[Manfred]]_ is
 proof enough to consign his best work to the second or third class at
 most. "How greatly it is all planned!" the first requisite of all great
 work, and one of which the highest genius possible to a greatly gifted
@@ -149,7 +149,7 @@ barbarian could by no possibility understand the nature or conceive the
 existence. That Goethe "had thought of translating it" is perhaps hardly
 less precious a tribute to its greatness than the fact that it has been
 actually and admirably translated by the matchless translator of
-Shakespeare--the son of Victor Hugo; whose labour of love may thus be
+Shakespeare--the son of Victor [[Hugo]]; whose labour of love may thus be
 said to have made another point in common, and forged as it were another
 link of union, between Shakespeare and the young master of Shakespeare's
 youth. Of all great poems in dramatic form it is perhaps the most
@@ -161,9 +161,9 @@ perpetual bluster and slaughter; but the unity of tone and purpose in
 _Doctor Faustus_ is not unrelieved by change of manner and variety of
 incident. The comic scenes, written evidently with as little of labour
 as of relish, are for the most part scarcely more than transcripts,
-thrown into the form of dialogue, from a popular prose _History of Dr
+thrown into the form of [[Dialogue|dialogue]], from a popular prose _History of Dr
 Faustus_, and therefore should be set down as little to the discredit as
-to the credit of the poet. Few masterpieces of any age in any language
+to the [[Credit|credit]] of the poet. Few masterpieces of any age in any language
 can stand beside this tragic poem--it has hardly the structure of a
 play--for the qualities of terror and splendour, for intensity of
 purpose and sublimity of note. In the vision of Helen, for example, the
@@ -171,14 +171,14 @@ intense perception of loveliness gives actual sublimity to the sweetness
 and radiance of mere beauty in the passionate and spontaneous selection
 of words the most choice and perfect; and in like manner the sublimity
 of simplicity in Marlowe's conception and expression of the agonies
-endured by Faustus under the immediate imminence of his doom gives the
+endured by Faustus under the immediate imminence of his [[Doom|doom]] gives the
 highest note of beauty, the quality of absolute fitness and propriety,
 to the sheer straightforwardness of speech in which his agonizing horror
 finds vent ever more and more terrible from the first to the last
 equally beautiful and fearful verse of that tremendous monologue which
 has no parallel in all the range of tragedy.
 
-It is now a commonplace of criticism to observe and regret the decline
+It is now a [[Commonplace|commonplace]] of criticism to observe and regret the decline
 of power and interest after the opening acts of _The Jew of Malta_. This
 decline is undeniable, though even the latter part of the play (the text
 of which is very corrupt) is not wanting in rough energy; but the first
@@ -195,12 +195,12 @@ some vigour and vivacity of touch.
 In _Edward the Second_ the interest rises and the execution improves as
 visibly and as greatly with the course of the advancing story as they
 decline in _The Jew of Malta_. The scene of the king's deposition at
-Kenilworth is almost as much finer in tragic effect and poetic quality
+[[Kenilworth]] is almost as much finer in tragic effect and poetic quality
 as it is shorter and less elaborate than the corresponding scene in
 Shakespeare's _King Richard II_. The terror of the death-scene
 undoubtedly rises into horror; but this horror is with skilful
 simplicity of treatment preserved from passing into disgust. In pure
-poetry, in sublime and splendid imagination, this tragedy is excelled by
+poetry, in sublime and splendid [[Imagination|imagination]], this tragedy is excelled by
 _Doctor Faustus_; in dramatic power and positive impression of natural
 effect it is certainly the masterpiece of Marlowe. It was almost
 inevitable, in the hands of any poet but Shakespeare, that none of the
@@ -209,13 +209,13 @@ any finer sympathy or more serious interest than attends on the mere
 evolution of successive events or the mere display of emotions (except
 always in the great scene of the deposition) rather animal than
 spiritual in their expression of rage or tenderness or suffering. The
-exact balance of mutual effect, the final note of scenic harmony,
+exact [[Balance|balance]] of mutual effect, the final note of scenic harmony,
 between ideal conception and realistic execution is not yet struck with
 perfect accuracy of touch and security of hand; but on this point also
 Marlowe has here come nearer by many degrees to Shakespeare than any of
 his other predecessors have ever come near to Marlowe.
 
-Of _The Massacre at Paris_ (acted in 1593, printed 1600?) it is
+Of _The [[Massacre]] at Paris_ (acted in 1593, printed 1600?) it is
 impossible to judge fairly from the garbled fragment of its genuine text
 which is all that has come down to us. To Mr Collier, among numberless
 other obligations, we owe the discovery of a noble passage excised in
@@ -228,7 +228,7 @@ interest. That antipapal ardour is indeed the only note of unity in a
 rough and ragged chronicle which shambles and stumbles onward from the
 death of Queen Jeanne of Navarre to the murder of the last Valois. It is
 possible to conjecture, what it would be fruitless to affirm, that it
-gave a hint in the next century to Nathaniel Lee for his far superior
+gave a hint in the next century to Nathaniel [[Lee]] for his far superior
 and really admirable tragedy on the same subject, issued ninety-seven
 years after the death of Marlowe.
 
@@ -241,13 +241,13 @@ dramatic adaptation. The one really noble passage in a generally feeble
 and incomposite piece of work is, however, uninspired by the
 unattainable model to which the dramatists have been only too obsequious
 in their subservience. It is as nearly certain as anything can be which
-depends chiefly upon cumulative and collateral evidence that the better
+depends chiefly upon cumulative and [[Collateral|collateral]] evidence that the better
 part of what is best in the serious scenes of _King Henry VI._ is mainly
 the work of Marlowe. That he is at any rate the principal author of the
 second and third plays passing under that name among the works of
 Shakespeare, but first and imperfectly printed as _The Contention
-between the two Famous Houses of York and Lancaster_, can hardly be now
-a matter of debate among competent judges. The crucial difficulty of
+between the two Famous Houses of York and [[Lancaster]]_, can hardly be now
+a matter of debate among competent judges. The [[Crucial|crucial]] difficulty of
 criticism in this matter is to determine, if indeed we should not rather
 say to conjecture, the authorship of the humorous scenes in prose,
 showing as they generally do a power of comparatively high and pure
@@ -262,8 +262,8 @@ writings, only better done than they usually do it, rather than such
 work as Shakespeare's a little worse done than usual. And even in the
 final text of the tragic or metrical scenes the highest note struck is
 always, with one magnificent and unquestionable exception, rather in the
-key of Marlowe at his best than of Shakespeare while yet in great
-measure his disciple.
+[[Key|key]] of Marlowe at his best than of Shakespeare while yet in great
+measure his [[Disciple|disciple]].
 
 _A Taming of a Shrew_, the play on which Shakespeare's comedy was
 founded, has been attributed, without good reason, to Marlowe. The
@@ -277,7 +277,7 @@ Dominion_, printed in 1657, was incorrectly ascribed to him, and a play
 no longer extant, _The True History of George Scanderbage_, was assumed
 by Fleay on the authority of an obscure passage of Gabriel Harvey to be
 his work. _The Maiden's Holiday_, assigned to Day and Marlowe, was
-destroyed by Warburton's cook. Day was considerably Marlowe's junior,
+destroyed by Warburton's [[Cook|cook]]. Day was considerably Marlowe's junior,
 and collaboration between the two is not probable.
 
 Had every copy of Marlowe's boyish version or perversion of Ovid's
@@ -303,11 +303,11 @@ One of the most faultless lyrics and one of the loveliest fragments in
 the whole range of descriptive and fanciful poetry would have secured a
 place for Marlowe among the memorable men of his epoch, even if his
 plays had perished with himself. His _Passionate Shepherd_ remains ever
-since unrivalled in its way--a way of pure fancy and radiant melody
-without break or lapse. The untitled fragment, on the other hand, has
+since unrivalled in its way--a way of pure [[Fancy|fancy]] and radiant melody
+without break or [[Lapse|lapse]]. The untitled fragment, on the other hand, has
 been very closely rivalled, perhaps very happily imitated, but only by
 the greatest lyric poet of England--by Shelley alone. Marlowe's poem of
-_Hero and Leander_ (entered at Stationers' Hall in September 1593;
+_[[Hero And Leander|Hero and Leander]]_ (entered at Stationers' Hall in September 1593;
 completed and brought out by George Chapman, who divided Marlowe's work
 into two sestiads and added four of his own, 1598), closing with the
 sunrise which closes the night of the lovers' union, stands alone in its
@@ -322,7 +322,7 @@ The place and the value of Christopher Marlowe as a leader among English
 poets it would be almost impossible for historical criticism to
 over-estimate. To none of them all, perhaps, have so many of the
 greatest among them been so deeply and so directly indebted. Nor was
-ever any great writer's influence upon his fellows more utterly and
+ever any great writer's influence upon his [[Fellows|fellows]] more utterly and
 unmixedly an influence for good. He first, and he alone, guided
 Shakespeare into the right way of work; his music, in which there is no
 echo of any man's before him, found its own echo in the more prolonged
@@ -334,23 +334,23 @@ the paths were made straight, for Shakespeare.     (A. C. S.)
 
   Marlowe's fame, so finely appreciated by Shakespeare and Drayton, was
   in obscuration from the fall of the theatres until the generation of
-  Lamb and Hazlitt. A collected edition was brought out by Pickering in
+  [[Lamb]] and [[Hazlitt]]. A collected edition was brought out by Pickering in
   1826. This was greatly improved upon by A. Dyce (1858, 1865, 1876). A
-  one-volume edition was prepared by Colonel Francis Cunningham in 1871.
+  one-volume edition was prepared by Colonel Francis [[Cunningham]] in 1871.
   The standard edition of Mr A. H. Bullen in 3 vols. appeared in
   1884-1885 and is now under revision. The "Best Plays" were edited for
-  the Mermaid series by Havelock Ellis with an Introduction by J. A.
+  the Mermaid series by [[Havelock]] Ellis with an Introduction by J. A.
   Symonds (1887-1889). The best modern text is that edited by C. F.
-  Tucker Brooke (Oxf. Univ. Press, 1910). A sketch in outline of
-  Marlowe's Life was essayed by J. G. Lewis (Canterbury, 1891). A not
+  Tucker [[Brooke]] (Oxf. Univ. Press, 1910). A sketch in outline of
+  Marlowe's Life was essayed by J. G. [[Lewis]] (Canterbury, 1891). A not
   very conclusive monograph on _Christopher Marlowe and his Associates_
   by J. H. Ingram, followed in 1904. For further information the reader
   should consult the histories of the stage by Collier, Ward, Fleay,
   Schelling, and the studies of Shakespeare's Predecessors by Symonds,
-  Mezières, Boas, Manley, Churton Collins, Feuillerat and J. M.
+  Mezières, Boas, Manley, Churton [[Collins]], Feuillerat and J. M.
   Robertson. See also Verity's _Essay on Marlowe's Influence_ (1886);
   _Mod. Lang. Rev._ iv. 167 (M. at Cambridge); Swinburne, _Study of
-  Shakespeare_ (1880); Elze, _Notes_, and Hazlitt _Dramatic Lit. of the
+  Shakespeare_ (1880); [[Elze]], _Notes_, and Hazlitt _Dramatic Lit. of the
   Age of Elizabeth_; _Fortnightly Review_, xiii., lxxi., and Sept.-Oct.,
   1905; Jusserand, _Hist. of English Lit._; the _Cambridge Hist. of
   English Lit._; Seccombe and Allen, _Age of Shakespeare_ (vol. ii. 3rd
@@ -360,7 +360,7 @@ the paths were made straight, for Shakespeare.     (A. C. S.)
   anglicized by Fortescue in his _Foreste_ (1571) and Petrus Perondinus
   _Vita Magni Tamerlanis_ (1551); for _Faustus_: a contemporary English
   version of the Faust-buch or _Historia von D. Johann Fausten_
-  (Frankfort, 1587), and for _Edward II._, the _Chronicles_ of Fabyan
+  ([[Frankfort]], 1587), and for _Edward II._, the _Chronicles_ of [[Fabyan]]
   (1516), Holinshed (1577) and Stow (1580).     (T. Se.)
 
 ## See also

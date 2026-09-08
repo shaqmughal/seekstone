@@ -31,9 +31,9 @@ Stuarts--composed of members of the principal Welsh families around
 Wrexham, including the Williams-Wynns of Wynnstay, lasted from 1710
 until some time between 1850 and 1860. Jacobite traditions also lingered
 among the great families of the Scottish Highlands; the last person to
-suffer death as a Jacobite was Archibald Cameron, a son of Cameron of
+suffer death as a Jacobite was Archibald [[Cameron]], a son of Cameron of
 Lochiel, who was executed in 1753. Dr Johnson's Jacobite sympathies are
-well known, and on the death of Victor Emmanuel I., the ex-king of
+well known, and on the death of Victor [[Emmanuel]] I., the ex-king of
 Sardinia, in 1824, Lord Liverpool wrote to Canning saying "there are
 those who think that the ex-king was the lawful king of Great Britain."
 Until the accession of King Edward VII. finger-bowls were not placed
@@ -47,7 +47,7 @@ the 19th century.
   _Jacobite Songs and Ballads of Scotland, 1688-1746, with Appendix of
   Modern Jacobite Songs_ (1861); G. S. Macquoid's _Jacobite Songs and
   Ballads_ (1888); and _English Jacobite Ballads_, edited by A. B.
-  Grosart from the Towneley manuscripts (1877).
+  Grosart from the Towneley [[Manuscript|manuscripts]] (1877).
 
 Upon the death of Henry Stuart, Cardinal York, the last of James II.'s
 descendants, in 1807, the rightful occupant of the British throne
@@ -57,10 +57,10 @@ Orleans. Henrietta's daughter, Anne Marie (1669-1728), became the wife
 of Victor Amadeus II., duke of Savoy, afterwards king of Sardinia; her
 son was King Charles Emmanuel III., and her grandson Victor Amadeus III.
 The latter's son, King Victor Emmanuel I., left no sons, and his eldest
-daughter, Marie Beatrice, married Francis IV., duke of Modena, whose
-son Ferdinand (d. 1849) left an only daughter, Marie Thérèse (b. 1849).
+daughter, Marie [[Beatrice]], married Francis IV., duke of Modena, whose
+son [[Ferdinand]] (d. 1849) left an only daughter, Marie Thérèse (b. 1849).
 This lady, the wife of Prince Louis of Bavaria, was in 1910 the senior
-member of the Stuart family, and according to the legitimists the
+member of the Stuart family, and according to the [[Legitimists|legitimists]] the
 rightful sovereign of Great Britain and Ireland.
 
   _Table showing the succession to the crown of Great Britain and

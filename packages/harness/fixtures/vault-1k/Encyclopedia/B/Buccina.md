@@ -63,7 +63,7 @@ ever the characteristic curve like a "C" which it possessed in common with
 the cornu, an instrument having a conical bore of wider calibre. Although
 we regard the buccina as essentially Roman, an instrument of the same type,
 but probably straight and of kindred name, was widely known and used in the
-East, in Persia, Arabia and among the Semitic races. After a lapse of years
+East, in Persia, Arabia and among the Semitic races. After a [[Lapse|lapse]] of years
 during which records are almost wanting, the buccina reappeared all over
 Europe as the busine, buisine, pusin, busaun, pusun, posaun, busna (Slav),
 &c.; whether it was a Roman survival or a re-introduction through the Moors

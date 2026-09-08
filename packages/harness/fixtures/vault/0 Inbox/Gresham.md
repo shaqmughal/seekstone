@@ -1,9 +1,9 @@
 # Gresham
 
 GRESHAM, SIR THOMAS (1519-1579), London merchant, the founder of the
-Royal Exchange and of Gresham College, London, was descended from an old
+Royal [[Exchange]] and of Gresham College, London, was descended from an old
 Norfolk family; he was the only son of Sir Richard Gresham, a leading
-London merchant, who for some time held the office of lord mayor, and
+London merchant, who for some time held the office of lord [[Mayor|mayor]], and
 for his services as agent of Henry VIII. in negotiating loans with
 foreign merchants received the honour of knighthood. Though his father
 intended him to follow his own profession, he nevertheless sent him for
@@ -18,14 +18,14 @@ account or on that of his father or uncle, he both carried on business
 as a merchant and acted in various matters as an agent for Henry VIII.
 In 1544 he married the widow of William Read, a London merchant, but he
 still continued to reside principally in the Low Countries, having his
-headquarters at Antwerp. When in 1551 the mismanagement of Sir William
+headquarters at [[Antwerp]]. When in 1551 the mismanagement of Sir William
 Dansell, "king's merchant" in the Low Countries, had brought the English
 government into great financial embarrassment, Gresham was called in to
 give his advice, and chosen to carry out his own proposals. Their
 leading feature was the adoption of various methods--highly ingenious,
 but quite arbitrary and unfair--for raising the value of the pound
 sterling on the "bourse" of Antwerp, and it was so successful that in a
-few years nearly all King Edward's debts were discharged. The advice of
+few years nearly all King Edward's [[Debt|debts]] were discharged. The advice of
 Gresham was likewise sought by the government in all their money
 difficulties, and he was also frequently employed in various diplomatic
 missions. He had no stated salary, but in reward of his services
@@ -47,7 +47,7 @@ but, though he spent the remainder of his life in London, he continued
 his business as merchant and financial agent of the government in much
 the same way as formerly. Elizabeth also found him useful in a great
 variety of other ways, among which was that of acting as jailer, to Lady
-Mary Grey, who, as a punishment for marrying Thomas Keys the sergeant
+Mary Grey, who, as a punishment for marrying Thomas [[Key|Keys]] the sergeant
 porter, remained a prisoner in his house from June 1569 to the end of
 1572. In 1565 Gresham made a proposal to the court of aldermen of London
 to build at his own expense a bourse or exchange, on condition that they
@@ -57,17 +57,17 @@ general good of the merchants, for by a yearly rental of L700 obtained
 for the shops in the upper part of the building he received a sufficient
 return for his trouble and expense. Gresham died suddenly, apparently of
 apoplexy, on the 21st of November 1579. His only son predeceased him,
-and his illegitimate daughter Anne he married to Sir Nathaniel Bacon,
+and his illegitimate daughter [[Anne]] he married to Sir Nathaniel Bacon,
 brother of the great Lord Bacon. With the exception of a number of small
 sums bequeathed to the support of various charities, the bulk of his
 property, consisting of estates in various parts of England of the
 annual value of more than L2300, was bequeathed to his widow and her
-heirs with the stipulation that after her decease his residence in
+[[Heir|heirs]] with the stipulation that after her decease his residence in
 Bishopsgate Street, as well as the rents arising from the Royal
 Exchange, should be vested in the hands of the corporation of London and
 the Mercers' Company, for the purpose of instituting a college in which
 seven professors should read lectures--one each day of the week--on
-astronomy, geometry, physic, law, divinity, rhetoric and music. The
+[[Astronomy|astronomy]], geometry, physic, law, divinity, rhetoric and music. The
 lectures were begun in 1597, and were delivered in the original building
 until 1768, when, on the ground that the trustees were losers by the
 gift, it was made over to the crown for a yearly rent of L500, and
@@ -78,7 +78,7 @@ was erected at a cost of L7000.
   A notice of Gresham is contained in Fuller's _Worthies_ and Ward's
   _Gresham Professors_; but the fullest account of him, as well as of
   the history of the Exchange and Gresham College is that by J. M.
-  Burgon in his _Life and Times of Sir Thomas Gresham_ (2 vols., 1839).
+  [[Burgon]] in his _Life and Times of Sir Thomas Gresham_ (2 vols., 1839).
   See also a _Brief Memoir of Sir Thomas Gresham_ (1833); and _The Life
   of Sir Thomas Gresham, Founder of the Royal Exchange_ (1845).
 

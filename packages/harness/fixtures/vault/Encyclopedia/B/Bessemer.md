@@ -25,7 +25,7 @@ experiments. These he carried on for two years before he evolved the
 essential idea of his process, which is the decarbonization of cast iron
 by forcing a blast of air through the mass of metal when in the molten
 condition. The first public announcement of the process was made at the
-Cheltenham meeting of the British Association in 1856, and immediately
+[[Cheltenham]] meeting of the British Association in 1856, and immediately
 attracted considerable notice. Many metallurgists were sceptical on
 theoretical grounds about his results, and only became convinced when
 they saw that his process was really able to convert melted cast iron
@@ -55,27 +55,27 @@ invalidity was freely urged against them on various grounds. But
 Bessemer was fortunate enough to maintain them intact without
 litigation, though he found it advisable to buy up the rights of one
 patentee, while in another case he was freed from anxiety by the patent
-being allowed to lapse in 1859 through non-payment of fees. At the
+being allowed to [[Lapse|lapse]] in 1859 through non-payment of [[Fee|fees]]. At the
 outset he had found great difficulty in making steel by his process--in
 his first licences to the trade iron alone was mentioned. Experiments he
 made with South Wales iron were failures because the product was devoid
 of malleability; Mr Goransson, a Swedish ironmaster, using the purer
-charcoal pig iron of that country, was the first to make good steel by
+[[Charcoal|charcoal]] pig iron of that country, was the first to make good steel by
 the process, and even he was successful only after many attempts. His
-results prompted Bessemer to try the purer iron obtained from Cumberland
-haematite, but even with this he did not meet with much success, until
+results prompted Bessemer to try the purer iron obtained from [[Cumberland]]
+[[Haematite|haematite]], but even with this he did not meet with much success, until
 Robert Mushet showed that the addition of a certain quantity of
 spiegeleisen had the effect of removing the difficulties. Whether or not
 Mushet's patents could have been sustained, the value of his procedure
 was shown by its general adoption in conjunction with the Bessemer
-method of conversion. At the same time it is only fair to say that
+method of [[Conversion|conversion]]. At the same time it is only fair to say that
 whatever may have been the conveniences of Mushet's plan, it was not
 absolutely essential; this Bessemer proved in 1865, by exhibiting a
 series of samples of steel made by his own process alone. The pecuniary
 rewards of Bessemer's great invention came to him with comparative
 quickness; but it was not till 1879 that the Royal Society admitted him
-as a fellow and the government honoured him with a knighthood. Bessemer
-died at Denmark Hill, London, on the 15th of March 1898.
+as a [[Fellow|fellow]] and the government honoured him with a knighthood. Bessemer
+died at [[Denmark]] Hill, London, on the 15th of March 1898.
 
 Among Bessemer's numerous other inventions, not one of which attained a
 tithe of the success or importance of the steel process, were movable
@@ -87,7 +87,7 @@ always be maintained steady and level, no matter how rough the sea. For
 this purpose hydraulic mechanism of Bessemer's design was arranged under
 the control of an attendant, whose duty it was to keep watch on a
 spirit-level, and counteract by proper manipulation of the apparatus any
-deviation from the horizontal that might manifest itself on the floor of
+deviation from the horizontal that might [[Manifest|manifest]] itself on the floor of
 the saloon owing to the rolling of the vessel. A boat, called the
 "Bessemer," was built on this plan in 1875 and put on the cross-Channel
 service to Calais, but the mechanism of the swinging saloon was not

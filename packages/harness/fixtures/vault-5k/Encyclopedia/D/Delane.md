@@ -20,7 +20,7 @@ the paper, though later he read for the bar, being called in 1847. In
 thirty-six years. He from the first obtained the best introductions into
 society and the chief political circles, and had a position there such
 as no journalist had previously enjoyed, using his opportunities with a
-sure intuition for the way in which events would move. His staff
+sure [[Intuition|intuition]] for the way in which events would move. His staff
 included some of the most brilliant men of the day, who worked together
 with a common ideal. The result to the paper, which in those days had
 hardly any real competitor in English journalism, was an excellence of

@@ -6,7 +6,7 @@ topic: history
 
 # Jus Primae Noctis
 
-JUS PRIMAE NOCTIS, or DROIT DU SEIGNEUR, a custom alleged to have
+JUS PRIMAE NOCTIS, or [[Droit|DROIT]] DU SEIGNEUR, a custom alleged to have
 existed in medieval Europe, giving the overlord a right to the virginity
 of his vassals' daughters on their wedding night. For the existence of
 the custom in a legalized form there is no trustworthy evidence. That

@@ -11,7 +11,7 @@ career and entered St Mary's Hall, Oxford, where he exercised a
 remarkable influence over his fellow-undergraduates. He was, however, a
 desultory student, and in 1870 was advised to go to the little village
 of Martinhoe, in Devon, for quiet reading, but distinguished himself
-more by his daring climbs after sea-gulls' eggs and his engineering
+more by his daring climbs after sea-gulls' [[Egg|eggs]] and his [[Engineering|engineering]]
 skill in cutting a pathway along precipitous cliffs to some caves. In
 1872 the death of his mother made a deep impression upon him. He began
 to read hard, took his B.A. degree, and in 1873 was ordained deacon and
@@ -20,7 +20,7 @@ Whilst curate in charge at Hurstpierpoint, his thoughts were turned by
 the murder of two missionaries on the shores of Victoria Nyanza to
 mission work. He offered himself to the Church Missionary Society and
 sailed on the 17th of May 1882, at the head of a party of six, for
-Zanzibar, and thence set out for Uganda; but, prostrated by fever and
+Zanzibar, and thence set out for Uganda; but, prostrated by [[Fever|fever]] and
 dysentery, he was obliged to return to England in 1883. On his recovery
 he was consecrated bishop of Eastern Equatorial Africa (June 1884), and
 in January 1885 started again for the scene of his mission, and visited
@@ -35,7 +35,7 @@ sides, his last words to the soldiers appointed to kill him being, "Go,
 tell Mwanga I have purchased the road to Uganda with my blood."
 
   His _Last Journals_ were edited in 1888. See also _Life_ by E. C.
-  Dawson (1887); and W. G. Berry, _Bishop Hannington_ (1908).
+  [[Dawson]] (1887); and W. G. [[Berry]], _Bishop Hannington_ (1908).
 
 ## See also
 

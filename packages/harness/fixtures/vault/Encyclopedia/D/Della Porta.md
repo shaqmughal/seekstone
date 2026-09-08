@@ -20,7 +20,7 @@ at Rome. He died at Naples on the 4th of February 1615.
 The following is a list of his principal writings:--_De miraculis rerum
 naturalium_, in four books (1558); _De furtivis litterarum notis_, in
 five books (1563, and frequently afterwards, entitling him to high rank
-among the early writers on cryptography); _Phytognomonica_ (1583, a
+among the early writers on [[Cryptography|cryptography]]); _Phytognomonica_ (1583, a
 bulky treatise on the physiology of plants as then understood); _Magia
 naturalis_ (1589, and often reprinted); _De humana physiognomonia_, in
 six books (1591); _Villa_, in twelve books (1592, an interesting
@@ -37,9 +37,9 @@ Carbonaria_ (1628); _La Cintia_ (1628). Among all the above-mentioned
 works the chief interest attaches to the _Magia naturalis_, in which a
 strange medley of subjects is discussed, including the reproduction of
 animals, the transmutation of metals, pyrotechny, domestic economy,
-statics, hunting, the preparation of perfumes. In book xvii. he
+statics, [[Hunting|hunting]], the preparation of perfumes. In book xvii. he
 describes a number of optical experiments, including a description of
-the camera obscura (q.v.).
+the [[Camera Obscura|camera obscura]] (q.v.).
 
 ## See also
 

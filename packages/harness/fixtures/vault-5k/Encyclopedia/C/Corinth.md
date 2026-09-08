@@ -21,12 +21,12 @@ I. _History._--In mythology, Corinth (originally named Ephyre) appears
 as the home of Medea, Sisyphus and Bellerophon, and already has over-sea
 connexions which illustrate its primitive commercial activity. Similarly
 the early presence of Phoenician traders is attested by the survival of
-Sidonian cults (Aphrodite Urania, Athena Phoenicice, Melicertes, i.e.
+Sidonian cults ([[Aphrodite]] Urania, Athena Phoenicice, Melicertes, i.e.
 Melkarth). In the Homeric poems Corinth is a mere dependency of Mycenae;
 nor does it figure prominently in the tradition of the Dorian
 migrations. Though ultimately conquered by the invaders it probably
 retained much of its former "Ionian" population, whose god Poseidon
-continued to be worshipped at the national Isthmian games throughout
+continued to be worshipped at the national Isthmian [[Games|games]] throughout
 historic times; of the eight communal tribes perhaps only three were
 Dorian. Under the new dynasty of Aletes, which reigned according to
 tradition from 1074 to 747, Corinthian history continues obscure. The
@@ -47,15 +47,15 @@ western gulf; by the settlement of numerous colonies in N.W. Greece she
 controlled the Italian and Adriatic trade-routes and secured a large
 share of the commerce with the western Greeks. In Levantine waters
 connexions grew up with the great marts of Chalcis and Miletus, with the
-rulers of Lydia, Phrygia, Cyprus and Egypt. As an industrial centre
+rulers of Lydia, Phrygia, [[Cyprus]] and Egypt. As an industrial centre
 Corinth achieved pre-eminence in pottery, metal-work and decorative
 handicraft, and was the reputed "inventor" of painting and tiling; her
 bronze and her pottery, moulded from the soft white clay of Oneium, were
 widely exported over the Mediterranean. The chief example of her early
 art was the celebrated "chest of Cypselus" at Olympia, of carved cedar
-and ivory inlaid with gold. The city was enriched with notable temples
+and [[Ivory|ivory]] inlaid with gold. The city was enriched with notable temples
 and public works (see § ARCHAEOLOGY), and became the home of several
-Cyclic poets and of Arion, the perfecter of the dithyramb.
+Cyclic poets and of [[Arion]], the perfecter of the dithyramb.
 
 The tyranny was succeeded by an oligarchy based upon a graduated money
 qualification, which ruled with a consistency equalling that of the
@@ -63,7 +63,7 @@ Venetian Council, but pursued a policy too purely commercial to the
 neglect of military efficiency. Late in the 6th century Corinth joined
 the Peloponnesian league under Sparta, in which her financial resources
 and strategic position secured her an unusual degree of independence.
-Thus the city successfully befriended the Athenians against Cleomenes I.
+Thus the city successfully befriended the Athenians against [[Cleomenes]] I.
 (q.v.), and supported them against Aegina, their common commercial rival
 in eastern waters. In the great Persian war of 480 Corinth served as the
 Greek headquarters: her army took part at Thermopylae and Plataea and
@@ -76,19 +76,19 @@ the Athenians extended their rivalry even into the Corinthian Gulf.
 Though Syracuse remained friendly, and the colonies in the N.W.
 maintained a close commercial alliance with the mother-city, the
 disaffection of Corcyra hampered the Italian trade. The alliance of this
-latter power with Athens accentuated the rising jealousy of the
+latter power with Athens accentuated the rising [[Jealousy|jealousy]] of the
 Corinthians, who, after deprecating a federal war in 440, virtually
 forced Sparta's hand against Athens in 432. In the subsequent war
 Corinth displayed great activity in the face of heavy losses, and the
 support she gave to Syracuse had no little influence on the ultimate
 issue of the war (see PELOPONNESIAN WAR). In 395 the domineering
 attitude of Sparta impelled the Corinthians to conclude an alliance with
-Argos which they had previously contemplated on occasions of friction
+Argos which they had previously contemplated on occasions of [[Friction|friction]]
 with the former city, as well as with Thebes and with Athens, whose
 commercial rivalry they no longer dreaded. In the ensuing "Corinthian
 War" the city suffered severely, and the war-party only maintained
-itself by the help of an Argive garrison and a formal annexation to
-Argos. Since 387 the Spartan party was again supreme, and after Leuctra
+itself by the help of an Argive garrison and a formal [[Annexation|annexation]] to
+Argos. Since 387 the Spartan party was again supreme, and after [[Leuctra]]
 Corinth took the field against the Theban invaders of Peloponnesus
 (371-366). In 344 party struggles between oligarchs and democrats led to
 a usurpation by the tyrant Timophanes, whose speedy assassination was
@@ -101,7 +101,7 @@ Macedonian pretenders after Alexander's death; ultimately it fell to
 Antigonus Gonatas, who controlled it through a tyrant. In 243 Corinth
 was freed by Aratus and incorporated into the Achaean league. After a
 short Spartan occupation in 224 it was again surrendered to Macedonia.
-T. Quinctius Flamininus, after proclaiming the liberty of Greece at the
+T. Quinctius [[Flamininus]], after proclaiming the liberty of Greece at the
 Isthmus, restored Corinth to the league (196). With the revival of its
 political and commercial importance the city became the centre of
 resistance against Rome. In return for the foolish provocation of war in
@@ -114,7 +114,7 @@ dispossessed Greeks. Under its new name _Laus Julii_ and an Italian
 constitution it rapidly recovered its commercial prosperity. Augustus
 made it the capital of Achaea; Hadrian enriched it with public works.
 Its prosperity, as also its profligacy, is attested by the New
-Testament, by Strabo and Pausanias. After the Gothic raids of 267 and
+Testament, by Strabo and Pausanias. After the [[Gothic]] raids of 267 and
 395 Corinth was secured by new fortifications at the Isthmus. Though
 restricted to the citadel, the medieval town became the administrative
 and ecclesiastical capital of Peloponnesus, and enjoyed a thriving trade
@@ -125,7 +125,7 @@ contended for by various Italian pretenders. Since the Turkish conquest
 the Maltese in 1611 and a Venetian occupation from 1687 to 1715.
 
   AUTHORITIES.--Strabo, pp. 378-382; Pausanias ii. 1-4; Curtius,
-  _Peloponnesos_ (Gotha, 1851), ii., 514-556; E. Wilisch, _Die
+  _Peloponnesos_ ([[Gotha]], 1851), ii., 514-556; E. Wilisch, _Die
   Altkorinthische Thonindustrie_ (Leipzig, 1892) and _Geschichte
   Korinth's_ (1887, 1896, 1901); G. Gilbert, _Griechische
   Staatsaltertümer_ (Leipzig, 1885), li. pp. 87-91.     (M. O. B. C.)
@@ -166,7 +166,7 @@ nourished by the surplus water of Pirene. As the visitor looks from the
 square up the indentation he sees on a height to the right a venerable
 temple ruin, and, directly in front, Acro-Corinth, rising over 1500 ft.
 above the village. Even from the village, the view over the gulf,
-including Parnassus with its giant neighbours on the N., Cyllene and its
+including Parnassus with its [[Giant|giant]] neighbours on the N., [[Cyllene]] and its
 neighbours on the W., and Geraneia on the N.E., is very fine. But from
 Acro-Corinth the view is still finer, and is perhaps unsurpassed in
 Greece.
@@ -189,7 +189,7 @@ ruined Roman theatre built upon the ruins of a Greek theatre. This
 theatre was, according to Pausanias, on the street leading from the
 agora towards Sicyon, and so to the west of the agora. Another trench
 dug across the deep indentation to the E. of the temple revealed a broad
-limestone pavement leading from the very northern edge of the city up
+[[Limestone|limestone]] pavement leading from the very northern edge of the city up
 through the indentation, in the direction of Acro-Corinth. It required
 little sagacity to identify it with the street mentioned by Pausanias as
 leading from the agora towards Lechaeum. It was practically certain that
@@ -223,7 +223,7 @@ Pirene was easy.
 
 To the E. of the paved road and close up against the agora itself, only
 at a much lower level, was found, buried under 35 ft. of earth, the
-famous fountain Pirene, tallying exactly with the description of
+famous [[Fountain|fountain]] Pirene, tallying exactly with the description of
 Pausanias, as "a series of chambers that are like caves, and bearing a
 façade of white marble." This Pirene originally had a two-storey façade
 of Roman fashion made of limestone, but, before the time of Pausanias,
@@ -268,13 +268,13 @@ helped Bellerophon to bridle Pegasus; and hence she received the epithet
 of "the Bridler," Chalinitis. The importance of the fountain is attested
 by the fact that the Greek poets and the Delphic oracle instead of
 saying Corinth said, "the city of Pirene." That it was a place of common
-resort is shown by Euripides (_Medea_, 68 f.), where it is said that the
+resort is shown by [[Euripides]] (_Medea_, 68 f.), where it is said that the
 elders were to be found "near the august waters of Pirene, playing
-draughts ([Greek: pessoi])." The quadrangle, with its walls 20 ft. high,
-and its three apses probably covered with half domes, provided
+[[Draughts|draughts]] ([Greek: pessoi])." The quadrangle, with its walls 20 ft. high,
+and its three [[Apse|apses]] probably covered with half domes, provided
 considerable shade. There is reason for supposing that the marble
 coating of the façade, and perhaps the erection of the quadrangle, also
-covered with marble, were the work of Herodes Atticus, and therefore
+covered with marble, were the work of [[Herod|Herodes]] Atticus, and therefore
 just completed when Pausanias saw them. A base on which stood a statue
 of Herodes' wife, Regilla, was found close to the façade, inscribed with
 fulsome praise, stating that the statue was "set up by order of the
@@ -315,7 +315,7 @@ propylaea, 25 ft. below the surface. Under remains of the Roman city
 appeared a triglyphon of porous stone with an extent from N. to S. of
 about 30 ft. At the N. end it turned westward at an obtuse angle and
 extended about 10 ft. in that direction. The system is about 4 ft. high.
-While the colours on the metopes and triglyphs had faded somewhat, the
+While the [[Colours|colours]] on the metopes and triglyphs had faded somewhat, the
 border above them, topped with a cornice projecting 6 in., retained a
 most brilliant maeander pattern of red, blue and yellow, while below
 these were two bands of godroons of blue and red. On the top of this
@@ -381,7 +381,7 @@ also were everywhere strongly represented. The best find of pottery,
 however, was an Old Corinthian celeb[=e] ([Greek: kelebê], drinking
 vessel), about a foot high, in forty-six fragments, found in a well, 30
 ft. below the surface. On one side are a boar and a leopard confronting
-each other, and on the other side two cocks in the same heraldic
+each other, and on the other side two [[Cock|cocks]] in the same heraldic
 arrangement. On the projecting plates supported by the handles are
 palmettes.
 
@@ -409,11 +409,11 @@ water from Hadrian's aqueduct from Lake Stymphalus. On the street going
 eastward from the agora nothing is mentioned between it and the city
 wall. This level eastern part was probably given up to fine houses, all
 traces of which have perished. Outside the gate, apparently, was the
-famous Craneion, shaded by cypress trees, and near it the tombs of Lais
+famous Craneion, shaded by [[Cypress|cypress]] trees, and near it the tombs of Lais
 and Diogenes, a precinct of Bellerophon and of Athena Melaenis. The
 number of temples and shrines enumerated by Pausanias along the road
-leading up to Acro-Corinth is bewildering. Here were represented Isis
-and Serapis, Helios, the Mother of the Gods, the Fates, Demeter and
+leading up to Acro-Corinth is bewildering. Here were represented [[Isis]]
+and Serapis, Helios, the Mother of the Gods, the [[Fate|Fates]], Demeter and
 Persephone; but no trace of these temples remains. At the highest point
 of the road, according to Pausanias, there stood the famous temple of
 Aphrodite, but the remains excavated at this point seem to be those of
@@ -421,7 +421,7 @@ a late tower, and the few foundations below it do not resemble those of
 a temple. We are equally unfortunate in regard to Strabo's splendid
 marble Sisyphaeum just below the summit. The fountain Pirene, "behind
 the temple," still exists, but so much earth has accumulated about it
-that one now approaches it by going down a ladder. The water is so
+that one now approaches it by going down a [[Ladder|ladder]]. The water is so
 crystal clear that one inadvertently steps into it. The identity of name
 with that of Pirene in the city is justified by the fact that the upper
 spring is the source of the Pirene below.

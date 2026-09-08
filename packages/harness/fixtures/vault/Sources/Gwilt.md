@@ -7,7 +7,7 @@ Paul's school, and after a short course of instruction in his father's
 office was in 1801 admitted a student of the Royal Academy, where in the
 same year he gained the silver medal for his drawing of the tower and
 steeple of St Dunstan-in-the-East. In 1811 he published a _Treatise on
-the Equilibrium of Arches_, and in 1815 he was elected F.S.A. After a
+the Equilibrium of [[Arches]]_, and in 1815 he was elected F.S.A. After a
 visit to Italy in 1816, he published in 1818 _Notitia architectonica
 italiana, or Concise Notices of the Buildings and Architects of Italy_.
 In 1825 he published an edition of Sir William Chambers's _Treatise on

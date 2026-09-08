@@ -33,7 +33,7 @@ thrown into prison in Majorca. The revolution of 1808, and the advance
 of the French into Spain, set him once more at liberty. Joseph
 Bonaparte, on mounting the Spanish throne, made Jovellanos the most
 brilliant offers; but the latter, sternly refusing them all, joined the
-patriotic party, became a member of the central junta, and contributed
+patriotic party, became a member of the central [[Junta|junta]], and contributed
 to reorganize the cortes. This accomplished, the junta at once fell
 under suspicion, and Jovellanos was involved in its fall. To expose the
 conduct of the cortes, and to defend the junta and himself were the last
@@ -55,7 +55,7 @@ Asturias, and there he died on the 27th of November 1811.
   (1831-1832) in 7 vols., and another at Barcelona (1839).
 
   See _Noticias historicas de Don G. M. de Jovellanos_ (1812), and
-  _Memorias para la vida del Señor ... Jovellanos_, by J. A. C. Bermudez
+  _Memorias para la vida del Señor ... Jovellanos_, by J. A. C. [[Bermudez]]
   (1814).
 
 ## See also

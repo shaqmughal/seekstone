@@ -9,7 +9,7 @@ over a long period, and repayable by annuities, including instalments of
 capital. On its inception it had a capital of 25,000,000 francs and took
 the title of Banque Fonciere de Paris. The parent institution in Paris
 was followed by similar institutions in Nevers and Marseilles. These two
-were afterwards amalgamated with the first under the title of Credit
+were afterwards amalgamated with the first under the title of [[Credit]]
 Foncier de France. The capital was increased to 60,000,000 francs, the
 government giving a subvention of 10,000,000 francs, and exercising
 control over the bank by directly appointing the governor and two

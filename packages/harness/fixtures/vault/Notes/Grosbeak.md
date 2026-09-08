@@ -19,21 +19,21 @@ found to include many forms not now placed in the same family.
 
 The Pine-grosbeak (_Pinicola enucleator_) inhabits the conifer-zone of
 both the Old and the New Worlds, seeking, in Europe and probably
-elsewhere, a lower latitude as winter approaches--often journeying in
+elsewhere, a lower [[Latitude|latitude]] as winter approaches--often journeying in
 large flocks; stragglers have occasionally reached the British Islands
 (Yarrell, _Br. Birds_, ed. 4, ii. 177-179). In structure and some of its
-habits much resembling a bullfinch, but much exceeding that bird in
-size, it has the plumage of a crossbill and appears to undergo the same
+habits much resembling a [[Bullfinch|bullfinch]], but much exceeding that bird in
+size, it has the plumage of a [[Crossbill|crossbill]] and appears to undergo the same
 changes as do the members of the restricted genus _Loxia_--the young
 being of a dull greenish-grey streaked with brownish-black, the adult
-hens tinged with golden-green, and the cocks glowing with crimson-red on
+hens tinged with golden-green, and the [[Cock|cocks]] glowing with crimson-red on
 nearly all the body-feathers, this last colour being replaced after
-moulting in confinement by bright yellow. Nests of this species were
+moulting in confinement by [[Bright|bright]] yellow. Nests of this species were
 found in 1821 by Johana Wilhelm Zetterstedt near Juckasjarwi in Swedish
 Lapland, but little was known concerning its nidification until 1855,
 when John Wolley, after two years' ineffectual search, succeeded in
 obtaining near the Finnish village Muonioniska, on the Swedish frontier,
-well-authenticated specimens with the eggs, both of which are like
+well-authenticated specimens with the [[Egg|eggs]], both of which are like
 exaggerated bullfinches'. The food of this species seems to consist of
 the seeds and buds of many sorts of trees, though the staple may very
 possibly be those of some kind of pine.
@@ -45,8 +45,8 @@ others; but possibly _Carpodacus_ is sufficient to contain all. Most of
 them are natives of the Old World, and chiefly of its eastern division,
 but several inhabit the western portion of North America, and one, _C.
 githagineus_ (of which there seem to be at least two local races), is an
-especial native of the deserts, or their borders, of Arabia and North
-Africa, extending even to some of the Canary Islands--a singular
+especial native of the [[Desert|deserts]], or their [[Borders|borders]], of Arabia and North
+Africa, extending even to some of the [[Canary]] Islands--a singular
 modification in the _habitat_ of a form which one would be apt to
 associate exclusively with forest trees, and especially conifers.
 
@@ -80,7 +80,7 @@ WEAVER-BIRD.     (A. N.)
 FOOTNOTE:
 
   [1] Many of them are described and illustrated in the _Monographie
-    des loxiens_ of Prince C. L. Bonaparte and Professor Schlegel (1850),
+    des loxiens_ of Prince C. L. [[Bonaparte]] and Professor Schlegel (1850),
     though it excludes many birds which an English writer would call
     "grosbeaks."
 

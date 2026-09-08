@@ -19,16 +19,16 @@ but it may be recapitulated here for historical purposes.
   _Earlier Theory._--In the long and erudite Note D**, appended by Sir
   W. Hamilton to his edition of Reid's Works, many anticipations of
   modern statements on association are cited from the works of ancient
-  or medieval thinkers; and for Aristotle, in particular, the glory is
+  or medieval thinkers; and for [[Aristotle]], in particular, the glory is
   claimed of having at once originated the doctrine and practically
   brought it to perfection.[1] As translated by Hamilton, but without
-  his interpolations, the classical passage from the _De Memoria et
+  his [[Interpolation|interpolations]], the classical passage from the _De Memoria et
   Reminiscentia_ runs as follows:--
 
   "When, therefore, we accomplish an act of reminiscence, we pass
   through a certain series of precursive movements, until we arrive at a
   movement on which the one we are in quest of is habitually consequent.
-  Hence, too, it is that we hunt through the mental train, excogitating
+  Hence, too, it is that we [[Hunt|hunt]] through the mental train, excogitating
   from the present or some other, and from similar or contrary or
   coadjacent. Through this process reminiscence takes place. For the
   movements are, in these cases, sometimes at the same time, sometimes
@@ -37,7 +37,7 @@ but it may be recapitulated here for historical purposes.
 
   The passage is obscure, but it does at all events indicate the various
   principles commonly termed contiguity, similarity and contrast.
-  Similar principles are stated by Zeno the Stoic, by Epicurus (see
+  Similar principles are stated by Zeno the Stoic, by [[Epicurus]] (see
   Diog. Laert. vii. S 52, x. S 32), and by St Augustine (_Confessions_,
   x. e. 19). Aristotle's doctrine received a more or less intelligent
   expansion and illustration from the ancient commentators and the
@@ -50,9 +50,9 @@ but it may be recapitulated here for historical purposes.
 
   In Hobbes's psychology much importance is assigned to what he called,
   variously, the succession, sequence, series, consequence, coherence,
-  train of imaginations or thoughts in mental discourse. But not before
+  train of [[Imagination|imaginations]] or thoughts in mental discourse. But not before
   Hume is there express question as to what are the distinct principles
-  of association. John Locke had, meanwhile, introduced the phrase
+  of association. John [[Locke]] had, meanwhile, introduced the phrase
   "Association of Ideas" as the title of a supplementary chapter
   incorporated with the fourth edition of his _Essay_, meaning it,
   however, only as the name of a principle accounting for the mental
@@ -108,15 +108,15 @@ but it may be recapitulated here for historical purposes.
   Intrinsic or Objective Relativity--as the highest to which human
   consciousness is subject; but it is in a sense quite different that
   the psychologists of the so-called Associationist School intend their
-  appropriation of the principle or principles commonly signalized. As
+  [[Appropriation|appropriation]] of the principle or principles commonly signalized. As
   far as can be judged from imperfect records, they were anticipated to
   some extent by the experientialists of ancient times, both Stoic and
   Epicurean (cf. Diogenes Laertius, as above). In the modern period,
-  Hobbes is the first thinker of permanent note to whom this doctrine
+  [[Hobbes]] is the first thinker of permanent note to whom this doctrine
   may be traced. Though, in point of fact, he took anything but an
   exhaustive view of the phenomena of mental succession, yet, after
   dealing with trains of imagination, or what he called mental
-  discourse, he sought in the higher departments of intellect to explain
+  discourse, he sought in the higher departments of [[Intellect|intellect]] to explain
   reasoning as a discourse in words, dependent upon an arbitrary system
   of marks, each associated with, or standing for, a variety of
   imaginations; and, save for a general assertion that reasoning is a
@@ -128,7 +128,7 @@ but it may be recapitulated here for historical purposes.
   analysis in detail, he is undoubtedly to be classed with the
   associationists of the next century. They, however, were wont to trace
   their psychological theory no further back than to Locke's _Essay_.
-  Bishop Berkeley was driven to posit expressly a principle of
+  Bishop [[Berkeley]] was driven to posit expressly a principle of
   suggestion or association in these terms:--"That one idea may suggest
   another to the mind, it will suffice that they have been observed to
   go together, without any demonstration of the necessity of their
@@ -154,7 +154,7 @@ but it may be recapitulated here for historical purposes.
   _Inquiry_, of Hume), opened the path for all the investigations of
   like nature that have been so characteristic of English psychology. A
   physician by profession, he sought to combine with an elaborate theory
-  of mental association a minutely detailed hypothesis as to the
+  of mental association a minutely detailed [[Hypothesis|hypothesis]] as to the
   corresponding action of the nervous system, based upon the suggestion
   of a vibratory motion within the nerves thrown out by Newton in the
   last paragraph of the _Principia_. So far, however, from promoting the
@@ -172,11 +172,11 @@ but it may be recapitulated here for historical purposes.
   vibrations, was careful to keep separate from its fortunes the cause
   of his other doctrine of mental association. Of this the point lay in
   no mere restatement, with new precision, of a principle of coherence
-  among "ideas," but in its being taken as a clue by which to follow
+  among "ideas," but in its being taken as a [[Clue|clue]] by which to follow
   the progressive development of the mind's powers. Holding that mental
   states could be scientifically understood only as they were analysed,
   Hartley sought for a principle of synthesis to explain the complexity
-  exhibited not only in trains of representative images, but alike in
+  exhibited not only in trains of representative [[Image|images]], but alike in
   the most involved combinations of reasonings and (as Berkeley had
   seen) in the apparently simple phenomena of objective perception, as
   well as in the varied play of the emotions, or, again, in the manifold
@@ -192,7 +192,7 @@ but it may be recapitulated here for historical purposes.
   sensations, Hartley's first care was to determine the conditions under
   which states other than these simplest ones have their rise in the
   mind, becoming the matter of ever higher and higher combinations. The
-  principle itself supplied the key to the difficulty, when coupled with
+  principle itself supplied the [[Key|key]] to the difficulty, when coupled with
   the notion, already implied in Berkeley's investigations, of a
   coalescence of simple ideas of sensation into one complex idea, which
   may cease to bear any obvious relation to its constituents. So far
@@ -209,7 +209,7 @@ but it may be recapitulated here for historical purposes.
   The new doctrine received warm support from some, as Law and
   Priestley, who both, like Hume and Hartley himself, took the principle
   of association as having the like import for the science of mind that
-  gravitation had acquired for the science of matter. The principle
+  [[Gravitation|gravitation]] had acquired for the science of matter. The principle
   began also, if not always with direct reference to Hartley, yet,
   doubtless, owing to his impressive advocacy of it, to be applied
   systematically in special directions, as by Abraham Tucker (1768) to
@@ -253,7 +253,7 @@ but it may be recapitulated here for historical purposes.
   Of these it will suffice to mention Condillac, who professed to
   explain all knowledge from the single principle of association
   (_liaison_) of ideas, operating through a previous association with
-  signs, verbal or other. In Germany, before the time of Kant, mental
+  signs, verbal or other. In Germany, before the time of [[Kant]], mental
   association was generally treated in the traditional manner, as by
   Wolff. Kant's inquiry into the foundations of knowledge, agreeing in
   its general purport with Locke's, however it differed in its critical
@@ -261,7 +261,7 @@ but it may be recapitulated here for historical purposes.
   been grafted on Locke's philosophy; and to account for the fact of
   synthesis in cognition, in express opposition to associationism, as
   represented by Hume, was, in truth, his prime object, starting, as he
-  did, from the assumption that there was that in knowledge which no
+  did, from the [[Assumption|assumption]] that there was that in knowledge which no
   mere association of experiences could explain. To the extent,
   therefore, that his influence prevailed, all inquiries made by the
   English associationists were discounted in Germany. Notwithstanding,
@@ -459,13 +459,13 @@ but it may be recapitulated here for historical purposes.
   James, above quoted, and general works on psychology: articles in
   _Mind_ (passim); A. Bain, _Senses and Intellect_ (4th ed., 1894), and
   in _Mind_, xii. (1887) pp. 237-249; John Watson, _An Outline of
-  Philosophy_ (1898); H. Hoffding, _Hist. of Mod. Philos._ (Eng. trans.,
+  Philosophy_ (1898); H. [[Hoffding]], _Hist. of Mod. Philos._ (Eng. trans.,
   Lond., 1900), _Psychologie in Umrissen auf Grundlage der Erfahrung_
   (2nd ed., Leipzig, 1893); Jas. Sully, _The Human Mind_ (1892), and
   _Outlines of Psych._ (Lond., 1892); E.B. Titchener, _Outline of
   Psych._ (New York, 1896), and in his trans. of O. Kulpe's _Outlines of
   Psych._ (New York, 1895,); Jas. Ward in _Mind_, viii. (1883), xii.
-  (1887), new series ii. (1893), iii. (1894); G.T. Ladd, _Psychology,
+  (1887), new series ii. (1893), iii. (1894); G.T. [[Ladd]], _Psychology,
   Descriptive and Explanatory_ (Lond., 1894); C.L.C. Morgan, _Introd. to
   Comparative Psych._ (Lond., 1894); W. Wundt, _Princip. of Physiol.
   Psych._ (Eng. trans., 1904), _Human and Animal Psych._ (Eng. trans.,

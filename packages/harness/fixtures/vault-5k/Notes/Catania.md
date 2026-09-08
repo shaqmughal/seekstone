@@ -12,7 +12,7 @@ m. by rail S. of Messina, and 151 m. by rail S.E. of Palermo (102 m.
 direct). Pop. (1881) 100,417; (1905) 157,722. The principal buildings
 are handsome, and the main streets, meeting in the Piazzo del Duomo, are
 fine. The cathedral of S. Agatha, containing the relics of the saint,
-retains its three original Norman apses (1091), but is otherwise a large
+retains its three original Norman [[Apse|apses]] (1091), but is otherwise a large
 baroque edifice. The monument of Don Ferrando d'Acunea, a Spanish
 viceroy of Sicily, is a fine early Renaissance work (1494). In the west
 portion of the town is the huge Benedictine abbey of S. Nicola (now
@@ -35,10 +35,10 @@ church of S. Maria Rotonda, originally a Roman domed structure, perhaps
 part of a bath. To the north, in the Piazza Stesicoro, is the
 amphitheatre, a considerable portion of which has been uncovered,
 including the two corridors which ran round the whole building and gave
-access to the seats, while a part of the arcades of the exterior has
+access to the seats, while a part of the [[Arcade|arcades]] of the exterior has
 been excavated and left open; the pillars are made of blocks of lava,
-and the arches of brick. The external diameters of the amphitheatre are
-410 and 348 ft., while the corresponding diameters of the arena are 233
+and the arches of [[Brick|brick]]. The external diameters of the amphitheatre are
+410 and 348 ft., while the corresponding diameters of the [[Arena|arena]] are 233
 and 167 ft. It is thus the third largest Roman amphitheatre known, being
 surpassed only by that at Verona and the Colosseum. Remains of many
 other Roman buildings also exist beneath the modern town, among the best
@@ -59,7 +59,7 @@ imports L1,326,055, the latter including notably coal, almost entirely
 from the United Kingdom, and wheat, from Russian ports. The harbour is a
 good one, and has been considerably enlarged since 1872; L128,000 was
 voted in 1905 towards the completion of the harbour works by the Italian
-government. Sulphide of carbon is produced here; and there are large
+government. Sulphide of [[Carbon|carbon]] is produced here; and there are large
 dyeworks, and a factory for making bed-stuffing from seaweed.
 
 The ancient Catina was founded in 729 B.C. by colonists from Naxos,
@@ -71,7 +71,7 @@ Catina, is famous as its lawgiver, but his date and his birthplace are
 alike uncertain; the fragments preserved of his laws show that they
 belong to a somewhat primitive period. The poet Stesichorus of Himera
 died here. Very little is heard of Catina in history until 476 B.C.,
-when Hiero I. removed its inhabitants to Leontini, repeopled it with
+when [[Hiero]] I. removed its inhabitants to Leontini, repeopled it with
 5000 Syracusans and 5000 Peloponnesians, and changed its name to Aetna.
 In 461 B.C., however, with the help of Ducetius and the Syracusans, the
 former inhabitants recovered possession of their city and revived the
@@ -94,7 +94,7 @@ of inscriptions found there. In A.D. 251 a lava stream threatened the
 town and entered the amphitheatre, which in the time of Theodoric had
 fallen into ruins, as is clear from the fact that he permitted the use
 of its fallen stones to build the city wall. It was recovered by
-Belisarius in 535, sacked by the Saracens in 902 and taken by the
+[[Belisarius]] in 535, sacked by the Saracens in 902 and taken by the
 Normans. The latter founded the cathedral; but the town was almost
 entirely destroyed by earthquake in 1170, and devastated by Henry VI. in
 1197. It became the usual residence of the Aragonese viceroys of the

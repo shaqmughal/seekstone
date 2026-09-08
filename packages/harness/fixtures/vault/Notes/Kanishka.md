@@ -9,8 +9,8 @@ topic: history
 KANISHKA, king of Kabul, Kashmir, and north-western India in the 2nd
 century A.D., was a Tatar of the Kushan tribe, one of the five into
 which the Yue-chi Tatars were divided. His dominions extended as far
-down into India as Madura, and probably as far to the north-west as
-Bokhara. Private inscriptions found in the Punjab and Sind, in the
+down into India as [[Madura]], and probably as far to the north-west as
+[[Bokhara]]. Private inscriptions found in the Punjab and Sind, in the
 Yusufzai district and at Madura, and referred by European scholars to
 his reign, are dated in the years five to twenty-eight of an unknown
 era. It is the references by Chinese historians to the Yue-chi tribes
@@ -25,7 +25,7 @@ under the presidency of Vasumitra. At this council three treatises,
 commentaries on the Canon, one on each of the three baskets into which
 it is divided, were composed. King Kanishka had these treatises, when
 completed and revised by Asvaghosha, written out on copper plates, and
-enclosed the latter in stone boxes, which he placed in a memorial mound.
+enclosed the latter in stone [[Box|boxes]], which he placed in a memorial mound.
 For some centuries afterwards these works survived in India; but they
 exist now only in Chinese translations or adaptations. We are not told
 in what language they were written. It was probably Sanskrit (not Pali,
@@ -37,14 +37,14 @@ complete revulsion in the intellectual life of India. The reign of
 Kanishka was certainly the turning-point in this remarkable change. It
 has been suggested with great plausibility, that the wide extent of his
 domains facilitated the incursion into India of Western modes of
-thought; and thus led in the first place to the corruption and gradual
-decline of Buddhism, and secondly to the gradual rise of Hinduism. Only
+thought; and thus led in the first place to the corruption and [[Gradual|gradual]]
+decline of Buddhism, and secondly to the gradual rise of [[Hinduism]]. Only
 the publication of the books written at the time will enable us to say
 whether this hypothesis--for at present it is nothing more--is really a
 sufficient explanation of the very important results of his reign. In
-any case it was a migration of nomad hordes in Central Asia that led, in
+any case it was a migration of nomad [[Horde|hordes]] in Central Asia that led, in
 Europe, to the downfall of the Roman civilization; and then, through the
-conversion of the invaders, to medieval conditions of life and thought.
+[[Conversion|conversion]] of the invaders, to medieval conditions of life and thought.
 It was the very same migration of nomad hordes that led, in India, to
 the downfall of the Buddhist civilization; and subsequently, after the
 conversion of the Saka and Tatar invaders, to medieval Hinduism. As
@@ -53,7 +53,7 @@ were felt there somewhat sooner.
 
   AUTHORITIES.--Vincent A. Smith, _The Early History of India_ (Oxford,
   1908); "The Kushan Period of Indian History," in _J.R.A.S._ (1903); M.
-  Boyer, "L'Epoque de Kaniska," in _Journal Asiatique_ (1900); T.
+  [[Boyer]], "L'Epoque de Kaniska," in _Journal Asiatique_ (1900); T.
   Watters, _On Yuan Chwang_ (London, 1904, 1905); J. Takakusu, "The
   Sarvastivadin Abhidharma Books," in _Jour. of the Pali Text Soc._
   (1905), esp. pp. 118-130; Rhys Davids, _Buddhist India_ (London,

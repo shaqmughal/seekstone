@@ -2,11 +2,11 @@
 
 BEETHOVEN, LUDWIG VAN (1770-1827), German musical composer, was baptized
 (probably, as was usual, the day after birth) on the 17th of December
-1770 at Bonn. His family is traceable to a village near Louvain, in
-Belgium, in the 17th century. In 1650 a lineal ancestor of the composer
-settled in Antwerp. Beethoven's grandfather, Louis, quarrelled with his
+1770 at [[Bonn]]. His family is traceable to a village near Louvain, in
+[[Belgium]], in the 17th century. In 1650 a lineal ancestor of the composer
+settled in [[Antwerp]]. Beethoven's grandfather, Louis, quarrelled with his
 family, came to Bonn in 1732, and became one of the court musicians of
-the archbishop-elector of Cologne. He was a genial man of estimable
+the archbishop-elector of [[Cologne]]. He was a genial man of estimable
 character, and though Ludwig van Beethoven was only four years old when
 his grandfather died, he never forgot him, but cherished his portrait to
 the end of his life. Beethoven's father, a tenor singer at the
@@ -14,33 +14,33 @@ archbishop-elector's court, was of a rough and violent temper, not
 improved by his passion for drink, nor by the dire poverty under which
 the family laboured. He married Magdelina Leim or Laym, the widow of a
 _valet-de-chambre_ of the elector of Trier and daughter of the chief
-cook at Ehrenbreitstein. Beethoven's father wished to profit as early as
+[[Cook|cook]] at Ehrenbreitstein. Beethoven's father wished to profit as early as
 possible by his son's talent, and accordingly began to give him a
 severe musical training, especially on the violin, when he was only five
 years old, at about which time they left the house in which he was born
 (515 Bonngasse, now preserved as a Beethoven museum, with a magnificent
-collection of manuscripts and relics). By the time Beethoven was nine
+collection of [[Manuscript|manuscripts]] and relics). By the time Beethoven was nine
 his father had no more to teach him, and he entered upon a perhaps
 healthier course of clavier lessons under a singer named Pfeiffer. A
 little general education was also edged in by a certain Zambona. Van den
 Eeden, the court organist, and an old friend of his grandfather, taught
 him the organ and the pianoforte, and so rapid was Beethoven's progress
 that when C.G. Neefe succeeded to Van den Eeden's post in 1781, he was
-soon able to allow the boy to act as his deputy. With his permission
+soon able to allow the boy to act as his [[Deputy|deputy]]. With his permission
 Beethoven published in 1783 his earliest extant composition, a set of
 variations on a march by Dressler. The title-page states that they were
 written in 1780 _"par un jeune amateur Louis van Beethoven age de dix
 ans_." Beethoven's father was very clumsy in his unnecessary attempts to
-make an infant prodigy of his son; for the ante-dating of this
+make an [[Infant|infant]] prodigy of his son; for the ante-dating of this
 composition, implying the correct date of birth, contradicts the
 post-dating of the date of birth by which he tried to make out that the
 three sonatas Beethoven wrote in the same year were by a boy of eleven.
 (Beethoven for a long time believed that he was born in 1772, and the
 certificate of his baptism hardly convinced him, because he knew that he
-had an elder brother named Ludwig who died in infancy.) In the same
+had an elder brother named Ludwig who died in [[Infancy|infancy]].) In the same
 year, 1783, Beethoven was given the post of cembalist in the Bonn
 theatre, and in 1784 his position of assistant to Neefe became official.
-In a _catalogue raisonne_ of the new archbishop Max Franz's court
+In a _[[Catalogue|catalogue]] raisonne_ of the new archbishop Max Franz's court
 musicians we find "No. 14, Ludwig Beethoven" described "as of good
 capacity, still young, of good, quiet behaviour and poor," while his
 father (No. 8) "has a completely worn-out voice, has long been in
@@ -65,14 +65,14 @@ introductions he and Count Waldstein gave to Beethoven, the prefix "van"
 in Beethoven's name (which looked well though it was not really a title
 of nobility), and above all the unequalled impressiveness of his playing
 and extemporization, quickly secured his footing with the exceptionally
-intelligent and musical aristocracy of Vienna, who to the end of his
+intelligent and musical [[Aristocracy|aristocracy]] of Vienna, who to the end of his
 life treated him with genuine affection and respect, bearing with all
-the roughness of his manners and temper, not as with the eccentricities
+the roughness of his [[Manners|manners]] and temper, not as with the eccentricities
 of a fashionable genius, but as with signs of the sufferings of a
 passionate and noble nature.
 
 Beethoven's life, though outwardly uneventful, was one of the most
-pathetic of tragedies. His character has had the same fascination for
+pathetic of tragedies. His character has had the same [[Fascination|fascination]] for
 his biographers as it had for his friends, and there is probably hardly
 any great man in history of whom more is known and of whom so much of
 what is known is interesting. Yet it is all too much a matter of detail
@@ -82,7 +82,7 @@ George Grove's long and graphic article, "Beethoven," in the _Dictionary
 of Music and Musicians_, and to the monumental biography of Thayer, who
 devoted his whole life to collecting materials. These two biographical
 works, read in the spirit in which their authors conceived them, will
-reveal, beneath a mass of distressing, grotesque and sometimes sordid
+reveal, beneath a mass of distressing, [[Grotesque|grotesque]] and sometimes sordid
 detail, a nobility of character and unswerving devotion to the highest
 moral ideas throughout every distress and temptation to which a
 passionate and totally unpractical temper and the growing shadow of a
@@ -90,8 +90,8 @@ terrible misfortune could expose a man.
 
 The man is surpassed only by his works, for in them he had that mastery
 which was denied to him in what he himself calls his attempt to "grapple
-with fate." Such of his difficulties as lay in his own character already
-showed themselves in his studies with Haydn. Haydn, who seems to have
+with [[Fate|fate]]." Such of his difficulties as lay in his own character already
+showed themselves in his studies with [[Haydn]]. Haydn, who seems to have
 heard of him on his first visit to Vienna in 1787, passed through Bonn
 in July 1792, and was so much struck by Beethoven that it was very
 likely at his instigation that the archbishop sent Beethoven to Vienna
@@ -127,7 +127,7 @@ contrasted the meteoric career of Mozart, who after a miraculous boyhood
 had produced at the age of twenty-five some of the greatest music Haydn
 had ever seen, with the slow and painful development of his uncouth
 pupil, who at the same age had hardly a dozen presentable works to his
-credit. It is not clear that Haydn ever came to understand Beethoven,
+[[Credit|credit]]. It is not clear that Haydn ever came to understand Beethoven,
 and many years passed before Beethoven realized the greatness of the
 master whose teaching had so disappointed him.
 
@@ -164,7 +164,7 @@ earlier works, but also in the known cause of his increasing inability
 to appear in public, something that awakened the best popular
 sensibilities; and when his two greatest and most difficult works, the
 9th symphony and parts of the _Missa Solemnis_, were produced at a
-memorable concert in 1824, the storm of applause was overwhelming, and
+memorable [[Concert|concert]] in 1824, the storm of [[Applause|applause]] was overwhelming, and
 the composer, who was on the platform in order to give the time to the
 conductor, had to be turned round by one of the singers in order to
 _see_ it.
@@ -192,7 +192,7 @@ which he has had so early to isolate himself, but the thought of which
 now fills him with dread as it makes him realize his loss, not only in
 music but in all finer interchange of ideas, and terrifies him lest the
 cause of his distress should appear. He declares that, when those near
-him had heard a flute or a singing shepherd while he heard nothing, he
+him had heard a [[Flute|flute]] or a singing shepherd while he heard nothing, he
 was only prevented from taking his life by the thought of his art, but
 it seemed impossible for him to leave the world until he had brought out
 all that he felt to be in his power. He requests that after his death
@@ -218,7 +218,7 @@ Beethoven's normal means of expression. Accordingly, if in the
 discussion of Beethoven's works, with which we close this article, we
 dwell rather more on the pianoforte sonatas than on his greater works,
 it is not only because they are more easily referred to by the general
-reader, but because they are actually a key to his intellectual
+reader, but because they are actually a [[Key|key]] to his intellectual
 development, such as is afforded neither by his life nor by the great
 works which are themselves the crowning mystery and wonder of musical
 art.
@@ -265,8 +265,8 @@ best. His nature was passionately affectionate, and he had suffered all
 his life from the want of a natural outlet for it. He had often been
 deeply in love and made no secret of it; but Robert Browning had not a
 more intense dislike of "the artistic temperament" in morals, and though
-Beethoven's attachments were almost all hopelessly above him in rank,
-there is not one that was not honourable and respected by society as
+Beethoven's [[Attachment|attachments]] were almost all hopelessly above him in rank,
+there is not one that was not [[Honourable|honourable]] and respected by society as
 showing the truthfulness and self-control of a great man. Beethoven's
 orthodoxy in such matters has provoked the smiles of Philistines,
 especially when it showed itself in his objections to Mozart's _Don
@@ -277,14 +277,14 @@ Beethoven's life, with all its mistakes, its grotesqueness and its
 pathos, is as far beyond the shafts of Philistine wit as his art.
 
 At the beginning of 1827 Beethoven had projects for a 10th symphony,
-music to Goethe's _Faust_, and (under the stimulus of his newly acquired
+music to Goethe's _[[Faust]]_, and (under the stimulus of his newly acquired
 collection of Handel's works) any amount of choral music, compared to
 which all his previous compositions would have seemed but a prelude. But
 he was in bad health; his brother Johann, with whom he had been staying,
 had not allowed him a fire in his bedroom, and had sent him back to
 Vienna in an open chaise in vile weather; and the chill which resulted
 ended in a fatal illness. Within a week of his death Beethoven was
-still full of his projects. Three days before the end he added a codicil
+still full of his projects. Three days before the end he added a [[Codicil|codicil]]
 to his will, and saw Schubert, whose music had aroused his keen
 interest, but was not able to speak to him, though he afterwards spoke
 of the Philharmonic Society and the English, almost his last words being
@@ -294,7 +294,7 @@ thunderstorm, he died.
 _Beethoven's Music._--The division of Beethoven's work into three styles
 has become proverbial, and is based on obvious facts. The styles,
 however, are not rigidly separated, either in themselves or in
-chronology. Nor can the popular description of Beethoven's first manner
+[[Chronology|chronology]]. Nor can the popular description of Beethoven's first manner
 as "Mozartesque" be accepted as doing justice to a style which differs
 more radically from Mozart's than Mozart's differs from Haydn's. The
 style of Beethoven's third period is no longer regarded as "showing an
@@ -325,7 +325,7 @@ referred to this as a "bad habit," for it must often take longer to jot
 down a crude idea than to reject it; and by the time the habit was
 formed Beethoven's powers of self-criticism were unparalleled, and he
 must often have felt hampered by the habit of writing down what he knew
-to be too crude to be even an aid to memory. Such first intuitions, if
+to be too crude to be even an aid to memory. Such first [[Intuition|intuitions]], if
 not written down, would no doubt be forgotten; but the poetic mood, the
 _Stimmung_, they attempt to indicate, would remain until a better
 expression was forthcoming. Beethoven had acquired the habit of
@@ -383,9 +383,9 @@ series of apparently free modulations by means of a systematic
 progression in the bass. In the childish quartet the principle is only
 dimly felt, but it is nevertheless there as a subconscious source of
 inspiration; and it afterwards gives inevitable dramatic truth to such
-passages as the climax of the development in the sonata, _op._ 57
-(commonly called _Appassionata_), and throughout the chaos of the
-mysterious introduction to the C major string-quartet, _op._ 59, No. 3,
+passages as the [[Climax|climax]] of the development in the sonata, _op._ 57
+(commonly called _Appassionata_), and throughout the [[Chaos|chaos]] of the
+mysterious introduction to the C [[Major|major]] string-quartet, _op._ 59, No. 3,
 prepares us for the world of loveliness that arises from it.
 
 Although with Beethoven the desire to express new thoughts was thus
@@ -399,7 +399,7 @@ successfully courted disaster. But he appreciated the experience, though
 he may have found it expensive, and traces of crudeness in such early
 works as he did not disown are as rare as plagiarisms. The first three
 pianoforte sonatas, _op._ 2. show the different elements in Beethoven's
-early style as clearly as possible. Sir Hubert Parry has aptly compared
+early style as clearly as possible. Sir [[Hubert]] Parry has aptly compared
 the opening of the sonata, _op._ 2, No. 1, with that of the finale of
 Mozart's G minor symphony, to show how much closer Beethoven's texture
 is. The slow movement well illustrates the rare cases in which Beethoven
@@ -438,7 +438,7 @@ abrupt epigrammatic style. From the outset breadth was also his aim, and
 while he occasionally attempted to attain a greater breadth than his
 resources would properly allow (as in the first movement of the sonata,
 _op._ 2, No. 3, and that of the violoncello sonata, _op._ 5, No. 1, in
-both of which cases a kind of extempore outburst in the coda conceals
+both of which cases a kind of extempore outburst in the [[Coda|coda]] conceals
 the collapse of his peroration), there are many early works in which he
 shows neither abruptness of style nor any tendency to confine himself
 within the limits of previous art. The C minor trio, _op._ 1, No. 3, is
@@ -457,9 +457,9 @@ works are the beautiful and popular septet, the quintet for pianoforte
 and wind instruments (modelled superficially, yet closely and with a
 kind of modest ambition, on Mozart's wonderful work for the same
 combination) and, on a somewhat higher level, the trio for pianoforte,
-clarinet and violoncello, _op._ 11.
+[[Clarinet|clarinet]] and violoncello, _op._ 11.
 
-It is futile to discuss the point at which Beethoven's second manner may
+It is futile to [[Discus|discuss]] the point at which Beethoven's second manner may
 be said to begin, but he has himself given us excellent evidence as to
 when and how his first manner (as far as that is a single thing) became
 impossible to him. Through quite a large number of works, beginning
@@ -473,13 +473,13 @@ lovelier than either. Sometimes, as in the C major quintet, the new
 elements are too perfectly assimilated for the contrast to appear. The
 range of key and depth of thought is beyond that of Beethoven's first
 manner, but the smoothness is that of Mozart. In the three pianoforte
-sonatas, _op._ 31, the struggle of the transition is as manifest as its
+sonatas, _op._ 31, the struggle of the transition is as [[Manifest|manifest]] as its
 accomplishment is triumphant. The first movement of the first sonata (in
 G major) deals with widely separated keys on new principles. These are
 embodied in a style which for abruptness and jocular paradox is hardly
 surpassed by Beethoven's most nervous early works. The exceptionally
 ornate and dilatory slow movement reads almost like a protest; while the
-finale begins as if to show that humour should be beautiful, and ends by
+finale begins as if to show that [[Humour|humour]] should be beautiful, and ends by
 making fun of the beauty. The second sonata (in D minor) is the greatest
 work Beethoven had as yet written. Its first movement, already cited
 above in connexion with the dramatic sequences in _op._ 2, No. 2, is,
@@ -489,7 +489,7 @@ sketch known of this movement is a sketch in which nothing but its
 sequential plan is indicated. In the third sonata Beethoven enjoys on a
 higher plane an experience he had often indulged in before, the
 attainment of smoothness and breadth by means of a delicately humorous
-calm which gives scope to the finer subtleties of his new thoughts.
+[[Calm|calm]] which gives scope to the finer subtleties of his new thoughts.
 
 Beethoven himself wrote to his publisher that these three sonatas
 represented a new phase in his style; but when we realize his artistic
@@ -529,7 +529,7 @@ flat in its principal theme, and that to G flat near the end, are its
 chief harmonic effects and stand out in beautiful relief within its
 limits. After the first movement of the Waldstein sonata they would be
 flat and colourless. The sketch-books show that Beethoven, when he first
-planned the sonata, was by no means inattentive to the balance of
+planned the sonata, was by no means inattentive to the [[Balance|balance]] of
 harmonic colour in the whole scheme, but that at first he did not
 realize how far that scheme was going to carry him. He originally
 thought of the slow movement as in E major, a remote key to which,
@@ -554,13 +554,13 @@ become so well known that there is no need for stating them abruptly,
 paradoxically or emphatically, but also no need for working them out to
 remote conclusions. Hence these works have become for most people the
 best-known and best-loved type of classical music. In their perfect
-fusion of untranslatable dramatic emotion with every beauty of musical
+[[Fusion|fusion]] of untranslatable dramatic emotion with every beauty of musical
 design and tone they have never been equalled, nor is it probable that
 any other art can show a wider range of thought embodied in a more
 perfect form. In music itself there is nothing else of so wide a range
 without grave artistic defects from which Beethoven is entirely free.
 Wagnerian opera aims at an ideal as truly artistic, and in so far of
-wider range than Beethoven's that it passes beyond the bounds of pure
+wider range than Beethoven's that it passes beyond the [[Bounds|bounds]] of pure
 music altogether. Within those bounds Beethoven remained, and even the
 apparent exceptions (such as _Fidelio_ and his two great examples of
 "programme music," the _Pastoral Symphony_ and the sonata, _Les Adieux_)
@@ -579,7 +579,7 @@ Beethoven's third style arose imperceptibly from his second. His
 deafness had very little to do with it, for all his epoch-making
 discoveries in orchestral effect date from the time when he was already
 far too much inconvenienced to test them in a way which would satisfy
-any one who depended more upon his ear than upon his imagination. It is
+any one who depended more upon his [[Ear|ear]] than upon his [[Imagination|imagination]]. It is
 indeed highly probable that there are no important features in
 Beethoven's latest style that may not be paralleled by the tendencies of
 all great artists who have handled their material until it contains
@@ -602,7 +602,7 @@ broad statement and counter-statement with the _allegro_, is directly
 impressive, as is also the entry of the second subject with its dark
 harmony and tone, but the work needs long familiarity before its vast
 mass of thought reveals itself to us in its true lucidity. Such works
-are "dark with excessive bright." When we enter into them they are
+are "dark with excessive [[Bright|bright]]." When we enter into them they are
 transparent as far as our vision extends, and their darkness is that of
 a depth that shines as we penetrate it. In all probability only a veil
 of familiarity prevents our finding the same kind of difficulty in
@@ -716,7 +716,7 @@ or too profoundly artistic to analyse. Perhaps the truest account of it
 would be that which ignored its presence in the works of ill-balanced
 artists, or even in the works of those who profited merely by an
 increase of technical and harmonic resource which, though effected by
-Beethoven, would, after the French Revolution and the Napoleonic wars,
+Beethoven, would, after the [[French Revolution]] and the Napoleonic wars,
 almost certainly have to some extent arisen from sheer necessity of
 finding expression for the new experience of humanity, if Beethoven had
 never existed. Setting aside, then, all instances of mere domination,
@@ -738,7 +738,7 @@ purely musical sense, but also of his whole sense of dramatic contrast
 and fitness. When he had shaken off the influence of Meyerbeer, which
 has so often been confused with that of Beethoven, there remained to
 him, pre-eminently in his music and more imperfectly realized in his
-drama, a power of combining contrasted emotions such as is the privilege
+[[Drama|drama]], a power of combining contrasted emotions such as is the privilege
 of only the very greatest dramatic artists. Bach and Beethoven are the
 sources of the polyphonic means of expression by which he attains this.
 Beethoven alone is the extraneous source of his knowledge that it was
@@ -767,7 +767,7 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
 
   1785. 3 pfte. quartets, of which the third contains important
     material for the sonatas, _op._ 2, Nos. 1 and 3. (Thayer's attribution
-    of the masterly bagatelles, _op._ 33, published 1803, to this period
+    of the masterly [[Bagatelle|bagatelles]], _op._ 33, published 1803, to this period
     can only be rationalized by some similar rough first idea.)
 
   1790. 24 variations on an air by Righini (published 1801). A very
@@ -801,7 +801,7 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
   1802. Pianoforte score of the _Prometheus_ ballet, _op._ 24 (ousted
     by the F ma. violin sonata, and reissued as _op._ 43). Sonata in
     B-flat, _op._ 22. Sonata in A-flat, _op._ 26 (with the funeral march).
-    2 sonatas ("quasi fantasia"), _op._ 27, E-flat, C-sharp mi. Sonata in
+    2 sonatas ("quasi [[Fantasia|fantasia]]"), _op._ 27, E-flat, C-sharp mi. Sonata in
     D, _op._ 28 (_Pastorale_ not Beethoven's title). String quintet in C,
     _op._ 29.
 
@@ -812,13 +812,13 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
   1804. 2nd symphony (D), _op._ 36 (1802). 3rd pfte. concerto (C mi.),
     _op._ 37 (1800).
 
-  1805. The "Kreutzer" sonata, _op._ 47, for pfte. and violin (A) (finale
+  1805. The "[[Kreutzer]]" sonata, _op._ 47, for pfte. and violin (A) (finale
     at first intended for _op._ 30, No. 1). "Waldstein" sonata for pfte.,
     _op._ 53 (C). First version of opera _Leonore_ in three acts (with
     overture "No. 2").
 
   1806. Sonata in F, _op._ 54. _Eroica Symphony_, No. 3, _op._ 55
-    (E-flat), written in 1804 in honour of Napoleon Bonaparte. It was
+    (E-flat), written in 1804 in honour of Napoleon [[Bonaparte]]. It was
     just finished when news arrived that Napoleon had made himself
     emperor, and Beethoven was with difficulty restrained from destroying
     the score. It is still the longest extant perfect design in
@@ -827,7 +827,7 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
     full-sized example of Beethoven's special type. _Leonore_ reproduced
     in two acts with overture No. 3. 32 variations in C mi. (no
     opus-number, but a very important work on the lines of a modernized
-    _chaconne_).
+    _[[Chaconne|chaconne]]_).
 
   1807. Triple concerto (pfte., V. and Vc.), _op._ 56, chiefly
     interesting as a study for the true concerto-form which had given
@@ -839,7 +839,7 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
   1808. 4th pfte. concerto, _op._ 58 (G). 3 string quartets, _op._ 59,
     F, E mi., C (dedicated to Count Rasoumovsky, in compliment to whom
     Russian tunes appear in the finale of No. 1 and the _scherzo_ of No.
-    2). Overture to _Coriolanus_, _op._ 62.
+    2). Overture to _[[Coriolanus]]_, _op._ 62.
 
   1809. 4th symphony, _op._ 60 (B-flat). Violin concerto (D), _op._ 61
     (also arranged by the composer for pianoforte). 5th symphony, _op._
@@ -894,7 +894,7 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
     1, No. 3 (a wonderful study in translation, comparable only to Bach's
     arrangements and very unlike Beethoven's former essays of the kind).
     Sonata, _op._ 106 (B-flat), the largest and most symphonic pianoforte
-    work extant, surpassed in length only by Bach's _Goldberg_ variations
+    work extant, surpassed in length only by Bach's _[[Goldberg]]_ variations
     and Beethoven's 33 variations on Diabelli's waltz.
 
   1821. 25 Scotch songs accompanied by pfte., V. and Vc., _op._ 108
@@ -914,9 +914,9 @@ ANNOTATED LIST OF BEETHOVEN'S WORKS
     the whole to be published for the benefit of the widows and orphans
     left by the war. Beethoven answered with the greatest set ever
     written, and it was published in a separate volume. Among the other
-    fifty composers were Schubert and an infant prodigy of eleven, Franz
+    fifty composers were Schubert and an infant prodigy of eleven, [[Franz]]
     Liszt! The mass in D (_Missa Solemnis_), _op._ 123, begun in 1818 for
-    the installation of the archduke Rudolph as archbishop of Olmutz, was
+    the [[Installation|installation]] of the archduke Rudolph as archbishop of Olmutz, was
     not finished until 1826, two years after the installation. The 9th
     symphony, _op._ 125 D mi. (see note on 7th and 8th symphonies);
     sketches begun 1817; project of setting Schiller's _Freude_ already

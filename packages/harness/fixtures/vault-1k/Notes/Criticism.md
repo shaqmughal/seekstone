@@ -43,7 +43,7 @@ the rankling poison of blame, has set upon the word _critic_ a seal
 which is even more unamiable than that of _criticism_. It takes its most
 savage form in Benjamin Disraeli's celebrated and deplorable _dictum_,
 "the critics are the men who have failed in literature and art." It is
-plain that such names as those of Aristotle, Dante, Dryden, Joshua
+plain that such names as those of Aristotle, [[Dante]], Dryden, Joshua
 Reynolds, Sainte-Beuve and Matthew Arnold are not to be thus swept by a
 reckless fulmination. There have been many critics who brought from
 failure in imaginative composition a cavilling, jealous and ignoble
@@ -84,7 +84,7 @@ fluctuations of taste are founded. It is now generally admitted that in
 past ages critics have too often succumbed to the temptation to regulate
 taste rigidly, and to lay down rules that shall match every case with a
 formula. Over-legislation has been the bane of official criticism, and
-originality, especially in works of creative imagination, has been
+originality, especially in works of creative [[Imagination|imagination]], has been
 condemned because it did not conform to existing rules. Such instances
 of want of contemporary appreciation as the reception given to William
 Blake or Keats, or even Milton, are quoted to prove the futility of
@@ -145,7 +145,7 @@ ancient criticism. A work by Aristotle on the problems raised by a study
 of Homer is lost, and there may have been others of a similar nature; in
 the two famous treatises which remain we have nothing less important
 than the foundation on which all subsequent European criticism has been
-raised. It does not appear that any of the numerous disciples of
+raised. It does not appear that any of the numerous [[Disciple|disciples]] of
 Aristotle understood his attitude to literature, nor do the later
 philosophical schools offer much of interest. The Neoplatonists,
 however, were occupied with analysis of the Beautiful, on which both
@@ -160,7 +160,7 @@ century of our era, Dio Chrysostom, Aristides of Smyrna, and Maximus of
 Tyre were the main representatives of criticism, and they were succeeded
 by Philostratus and Libanius. The most modern of post-Christian Greek
 critics, however, is unquestionably Dionysius of Halicarnassus, who
-leads up to Lucian and Cassius Longinus. The last-mentioned name calls
+leads up to Lucian and [[Cassius]] Longinus. The last-mentioned name calls
 for special notice; in "the lovely and magnificent personality of
 Longinus" we find the most intelligent judge of literature who wrote
 between Aristotle and the moderns. His book _On the Sublime_ ([Greek:
@@ -216,7 +216,7 @@ In England, the earliest literary critic of importance was Thomas
 Wilson, whose _Art of Rhetoric_ was printed in 1553, and the earliest
 student of poetry, George Gascoigne, whose _Instruction_ appeared in
 1575. Gascoigne is the first writer who deals intelligently with the
-subject of English prosody. He was followed by Thomas Drant, Harvey,
+subject of English prosody. He was followed by Thomas Drant, [[Harvey]],
 Gosson, Lodge and Sidney, whose controversial pamphlets belong to the
 period between 1575 and 1580. Among Elizabethan "arts" or "defences" of
 English poetry are to be mentioned those of William Webbe (1586), George
@@ -239,7 +239,7 @@ criticism is most plainly seen. The influence of these three critics
 was, however, very great throughout Europe, and we trace it in the
 writings of Dryden, Addison and Rymer. In the course of the 18th
 century, when the neoclassic creed was universally accepted, Pope,
-Blair, Kames, Harris, Goldsmith and Samuel Johnson were its most
+Blair, [[Kame|Kames]], Harris, Goldsmith and Samuel Johnson were its most
 distinguished exponents in England, while Voltaire, Buffon (to whom we
 owe the phrase "the style is the man"), Marmontel, La Harpe and Suard
 were the types of academic opinion in France.
@@ -258,7 +258,7 @@ Landor, and pre-eminently by S. T. Coleridge, who was one of the most
 penetrative, original and imaginative critics who have ever lived. In
 France, the importance of Sainte-Beuve is not to be ignored or even
 qualified; after manifold changes of taste, he remains as much a master
-as he was a precursor. He was followed by Theophile Gautier, Saint-Marc,
+as he was a precursor. He was followed by Theophile [[Gautier]], Saint-Marc,
 Girardin, Paul de Saint Victor, and a crowd of others, down to Taine and
 the latest school of individualistic critics, comparable with Matthew
 Arnold, Pater, and their followers in England.

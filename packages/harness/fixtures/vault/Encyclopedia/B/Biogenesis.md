@@ -18,9 +18,9 @@ abiogenesis has been brought about. No biological generalization rests
 on a wider series of observations, or has been subjected to a more
 critical scrutiny than that every living organism has come into
 existence from a living portion or portions of a pre-existing organism.
-In the articles REPRODUCTION and HEREDITY the details of the relations
+In the articles REPRODUCTION and [[Heredity|HEREDITY]] the details of the relations
 between parent and offspring are discussed. There remains for treatment
-here a curious collateral issue of the theory. It is within common
+here a curious [[Collateral|collateral]] issue of the theory. It is within common
 observation that parent and offspring are alike: that the new organism
 resembles that from which it has come into existence: in fine,
 biogenesis is homogenesis. Every organism takes origin from a parent
@@ -32,7 +32,7 @@ chain may resemble its grand-parent and its grand-child, and differ
 markedly from its parent and child. Next, any organism may pass through
 a series of free-living larval stages, so that the new organism at first
 resembles its parent only very remotely, corresponding to an early stage
-in the life-history of that parent. (See EMBRYOLOGY, LARVAL FORMS and
+in the life-history of that parent. (See EMBRYOLOGY, [[Larval Forms|LARVAL FORMS]] and
 REPRODUCTION.) Finally, the conception of homogenesis does not exclude
 the differences between parent and offspring that continually occur,
 forming the material for the slow alteration of stocks in the course of
@@ -50,10 +50,10 @@ family, or to a plant, or vice versâ. The most extreme cases of this
 belief is the well-known fable of the "barnacle-geese," an illustrated
 account of which was printed in an early volume of the Royal Society of
 London. Buds of a particular tree growing near the sea were described as
-producing barnacles, and these, falling into the water, were supposed to
+producing [[Barnacle|barnacles]], and these, falling into the water, were supposed to
 develop into geese. The whole story was an imaginary embroidery of the
 facts that barnacles attach themselves to submerged timber and that a
-species of goose is known as the bernicle goose. In modern times the
+species of [[Goose|goose]] is known as the bernicle goose. In modern times the
 exponents of heterogenesis have limited themselves to cases of
 microscopic animals and plants, and in most cases, the observations that
 they have brought forward have been explained by minuter observation as

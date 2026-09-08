@@ -18,7 +18,7 @@ G.A. according to these rules.
 The above rules differ in some important respects from English common law,
 and from former English practice. They follow ideas upon the subject of
 G.A. which have prevailed in practice in foreign countries (though often in
-apparent opposition to the language of the codes), in preference to the
+apparent opposition to the language of the [[Code|codes]]), in preference to the
 more strict principle of the common law applied by English courts. That
 principle requires that, in order to have the character of G.A. a sacrifice
 or expenditure must be made for the common _safety_ of the several
@@ -28,13 +28,13 @@ to enable the common adventure to be completed. G.A., on the English view,
 only arises where the _safety_ of the several interests is at stake. "The
 idea of a common commercial adventure, as distinguished from the common
 safety from the sea," is not recognized. It is not sufficient "that an
-expenditure should have been made to benefit both cargo owner and
+expenditure should have been made to benefit both [[Cargo|cargo]] owner and
 shipowner."[1]
 
 [Sidenote: Port of refuge expenses.]
 
 Thus expenses incurred after ship and cargo are in safety, say at a port of
-refuge, are not generally, by English law, to be treated as G.A.; although
+refuge, are not generally, by [[English Law|English law]], to be treated as G.A.; although
 the putting into port may have been for safety, and therefore a G.A. act.
 If the putting into port has been necessitated by a G.A. sacrifice, as by
 cutting away the ship's masts, the case is different; the port expenses,
@@ -71,7 +71,7 @@ on board, after the repairs have been done (Rule X. (c)), together with any
 damage or loss incidental to those operations (Rule XII.).
 
 Further, by Rule XI. the wages of the master, officers and crew, and the
-cost of their maintenance, during the detention of a ship under the
+cost of their [[Maintenance|maintenance]], during the detention of a ship under the
 circumstances, or for the purpose of the repairs mentioned in Rule X., are
 to be allowed in G.A. It is questionable whether English law allows the
 wages and maintenance of the crew at a port of refuge in any case. Where
@@ -113,7 +113,7 @@ suffered by ship and cargo ought not to be made good by G.A. contributions;
 for the sacrifice had not been made "by some one specially charged with the
 control and safety of that adventure," but was the compulsory act of a
 public authority. On the other hand, in the English case of _Papayanni_ v.
-_Grampian S.S. Co._ (I. Com. Ca. 448), Mathew, J., held that the scuttling
+_Grampian S.S. Co._ (I. Com. Ca. 448), [[Mathew]], J., held that the scuttling
 of a ship at a port of refuge in Algeria, by orders of the captain of the
 port, was a G.A. act. It had been done in the interest of ship and cargo,
 and there was no evidence of any other motive.
@@ -127,7 +127,7 @@ Rules VI. and VII. deal with the damage sustained by the ship, or her
 appliances, in efforts to force her off the ground when she has stranded.
 Such efforts involve an abnormal use which is likely to cause damage to
 sails and spars, or to engines and boilers; and they are treated as acts of
-sacrifice. The case of "The Bona," 1895 (P. 125) shows that the rules are
+sacrifice. The case of "The [[Bona]]," 1895 (P. 125) shows that the rules are
 in accord with English law upon the point. The court of appeal held that
 both the damage sustained by the engines while worked to get the ship off,
 and the coal and stores consumed, were subjects for G.A. contribution at
@@ -150,7 +150,7 @@ appear, in estimating _how much_ of the damage is to be made good.
 Where cattle were taken into a port of refuge in Brazil, owing to
 accidental damage to the ship, with the result that they could not legally
 be landed at their destination (Deptford), and had to be taken to another
-port (Antwerp), at which they were of much less value, this loss of value
+port ([[Antwerp]]), at which they were of much less value, this loss of value
 was allowed in G.A. (_Anglo-Argentine &c. Agency_ v. _Temperley Shipping
 Co._, 1899, 2 Q.B. 403).
 
@@ -166,7 +166,7 @@ of these two views should be adopted in any case seems to depend upon the
 motives with which the earlier operations (usually the discharge of the
 cargo) were presumably undertaken. It may, however, happen that this test
 cannot be applied once for all. Take the case of a stranded ship carrying a
-bulky cargo of hemp and grain, but carrying also some bullion. Suppose this
+bulky cargo of hemp and grain, but carrying also some [[Bullion|bullion]]. Suppose this
 last to be rescued and taken to a place of safety at small expense in
 comparison with its value. It may well be that that operation must be
 regarded as done in the interest simply of the bullion itself, but that the
@@ -181,7 +181,7 @@ The York-Antwerp Rules have not only had the valuable result of introducing
 uniformity where there had been great variety, and corresponding certainty
 as to the principles which will be acted upon in adjusting any G.A. loss,
 but also they have introduced greater clearness and definiteness on points
-where there had been a want of definition. Thus Rule XIII. has laid down a
+where there had been a want of [[Definition|definition]]. Thus Rule XIII. has laid down a
 careful and definite scale to regulate the deductions from the cost of
 repairs, in respect of "new for old," in place of the former somewhat
 uncertain customary rules which varied according to the place of
@@ -213,7 +213,7 @@ safety of those interests at the ultimate destination. If those other
 interests or some of them arrive, or are realized, as by being landed at an
 intermediate port, the rule (as in the case of G.A. sacrifices) is that the
 contributions are to be in proportion to the arrived or realized values.
-But if all are lost the burden of the expenditure ought not to remain upon
+But if all are lost the [[Burden|burden]] of the expenditure ought not to remain upon
 the interest which at first bore it; and the proper rule seems to be that
 contributions must be made by all the interests which were at stake when it
 was made, in proportion to their _then_ values.
@@ -303,7 +303,7 @@ This agrees with the view taken in the United States.
 
 As to _Particular Average_, see under INSURANCE: _Marine_.
 
-AUTHORITIES.--Lowndes on _General Average_ (4th ed., London, 1888);
+AUTHORITIES.--[[Lowndes]] on _General Average_ (4th ed., London, 1888);
 Abbott's _Merchant Ships and Seamen_ (14th ed., London, 1901); Arnould's
 _Marine Insurance_ (7th ed., London, 1901); Carver's _Carriage by Sea_ (4th
 ed., London, 1905).

@@ -7,8 +7,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Grafe"
 
 # Grafe
 
-GRAFE, KARL FERDINAND VON (1787-1840), German surgeon, was born at
-Warsaw on the 8th of March 1787. He studied medicine at Halle and
+GRAFE, KARL [[Ferdinand|FERDINAND]] VON (1787-1840), German surgeon, was born at
+Warsaw on the 8th of March 1787. He studied medicine at [[Halle]] and
 Leipzig, and after obtaining licence from the Leipzig university, he was
 in 1807 appointed private physician to Duke Alexius of Anhalt-Bernburg.
 In 1811 he became professor of surgery and director of the surgical
@@ -16,15 +16,15 @@ clinic at Berlin, and during the war with Napoleon he was
 superintendent of the military hospitals. When peace was concluded in
 1815, he resumed his professorial duties. He was also appointed
 physician to the general staff of the army, and he became a director of
-the Friedrich Wilhelm Institute and of the Medico-Chirurgical Academy.
-He died suddenly on the 4th of July 1840 at Hanover, whither he had been
+the [[Friedrich]] Wilhelm Institute and of the Medico-Chirurgical Academy.
+He died suddenly on the 4th of July 1840 at [[Hanover]], whither he had been
 called to operate on the eyes of the crown prince. Grafe did much to
 advance the practice of surgery in Germany, especially in the treatment
 of wounds. He improved the rhinoplastic process, and its revival was
 chiefly due to him. His lectures at the university of Berlin attracted
 students from all parts of Europe.
 
-  The following are his principal works: _Normen fur die Ablosung
+  The following are his principal works: _Normen [[Fur|fur]] die Ablosung
   grosser Gliedmassen_ (Berlin, 1812); _Rhinoplastik_ (1818); _Neue
   Beitrage zur Kunst Theile des Angesichts organisch zu ersetzen_
   (1821); _Die epidemisch-kontagiose Augenblennorrhoe Agyptens in den

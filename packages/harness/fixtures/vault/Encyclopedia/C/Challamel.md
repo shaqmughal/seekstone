@@ -1,6 +1,6 @@
 # Challamel
 
-CHALLAMEL, JEAN BAPTISTE MARIUS AUGUSTIN (1818-1894), French historian,
+CHALLAMEL, JEAN [[Baptiste|BAPTISTE]] [[Marius|MARIUS]] AUGUSTIN (1818-1894), French historian,
 was born in Paris on the 18th of March 1818. His writings consist
 chiefly of popular works, which enjoyed great success. The value of some
 of his books is enhanced by numerous illustrations, e.g. _Histoire-musee

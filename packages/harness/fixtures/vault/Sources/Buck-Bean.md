@@ -9,7 +9,7 @@ tags: [religion, science]
 
 # Buck-Bean
 
-BUCK-BEAN, or BOG-BEAN (_Menyanthes trifoliata_, a member of the Gentian
+BUCK-BEAN, or BOG-BEAN (_Menyanthes trifoliata_, a member of the [[Gentian]]
 family), a bog-plant with a creeping stem, alternately arranged large
 leaves each with three leaflets, and spikes of white or pink flowers. The
 stout stem is bitter and has tonic and febrifuge properties. The plant is
@@ -17,7 +17,7 @@ widely distributed through the north temperate zone.
 
 BUeCKEBURG, a town of Germany, capital of the principality of
 Schaumburg-Lippe, pleasantly situated at the foot of the Harrelberg on the
-river Aue, 6 m. from Minden, on the main railway from Cologne to Berlin.
+river [[Aue]], 6 m. from Minden, on the main railway from [[Cologne]] to Berlin.
 Pop. 6000. It has a palace standing in extensive grounds, a gymnasium, a
 normal seminary, a library, a synagogue, and three churches, one of which
 has the appropriate inscription, _Religionis non structurae exemplum_. The

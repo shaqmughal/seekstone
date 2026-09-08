@@ -20,13 +20,13 @@ peopled the Eastern Roman empire, while the bulk of the population, the
 true Egyptians, were Monophysite. Amongst the latter political
 aspirations, apart from religion, may be said not to have existed. It
 has generally been held that the Copts invited and aided the Moslems to
-seize the country in order that at all costs they might be freed from
+seize the country in order that at all [[Costs|costs]] they might be freed from
 the yoke of the state religion imposed by the Eastern Roman Empire; but
-Dr A. J. Butler has shown this view to be untenable, while admitting
-that the religious feuds of the Christians made the task of the Arabs
+Dr A. J. [[Butler]] has shown this view to be untenable, while admitting
+that the religious feuds of the Christians made the task of the [[Arabs]]
 easy. The mysterious Mukaukis, who treacherously handed over Alexandria,
 impregnable as it was for Arab warriors, and then capitulated, was none
-other than Cyrus, the Melkite patriarch and governor of Egypt; the
+other than [[Cyrus]], the Melkite patriarch and governor of Egypt; the
 native Monophysite party, however, smarting under the persecution of the
 Emperor Heraclius, seemed to have most to gain by a change of masters.
 The prophet Mahomet himself had prescribed indulgence to the Copts
@@ -34,7 +34,7 @@ before his death, and 'Amr was mercifully disposed to them. Although
 they offered resistance in some places, after the Roman forces had been
 destroyed or had abandoned Egypt they generally acquiesced in the
 inevitable; and when in 646 a Roman fleet and army recaptured Alexandria
-and harried the Delta, the Copts helped the Moslems to cast out the
+and harried the [[Delta]], the Copts helped the Moslems to cast out the
 Christian invaders. Some of the Copts embraced Islam at once, but as yet
 they formed practically a solid Christian nation under the protection of
 the conquering Arabs, and the religious and political distinction
@@ -47,7 +47,7 @@ among the natives (as opposed to the mixed "Greek" population of Egypt
 and Alexandria which produced so many leading figures and originated
 leading doctrines in the early church) can be traced back as far as the
 Decian persecution (A.D. 249-251) in the purely Egyptian names of
-several martyrs. St Anthony (c. A.D. 270) was a Copt; so also was
+several martyrs. St [[Anthony]] (c. A.D. 270) was a Copt; so also was
 Pachomius, the founder of Egyptian monasticism at the beginning of the
 4th century. The scriptures were translated into Coptic not later than
 the 4th century. A religion founded on morality and with a clear
@@ -55,13 +55,13 @@ doctrine of life after death was especially congenial to the Egyptians;
 thus the lower orders in the country embraced Christianity fervently,
 while the Alexandrian pagans were lost in philosophical speculation and
 Neoplatonism was spread amongst the rich "Greek" landowners; these last,
-partly out of religious enthusiasm, partly from greed, annoyed and
+partly out of religious [[Enthusiasm|enthusiasm]], partly from greed, annoyed and
 oppressed their Christian peasantry. Egypt was then terribly
 impoverished; the upper country was constantly overrun by raiders from
-Nubia and the desert; and the authority of the imperial government was
+Nubia and the [[Desert|desert]]; and the authority of the imperial government was
 too weak to interfere actively on behalf of the Christians. The
 monasteries, however, were refuges that could bid defiance to the most
-powerful of the pagan aristocracy as well as to barbarian hordes, and
+powerful of the pagan [[Aristocracy|aristocracy]] as well as to barbarian [[Horde|hordes]], and
 became centres of united action that, at the summons of Shenoute, the
 organizer of the national church, swept away the idols of the oppressors
 in riot and bloodshed. In the course of the 5th century the Christians
@@ -71,8 +71,8 @@ mercifully as a feeble remnant.
 The Copts had little interest in theology; they were content to take
 their doctrine as prepared for them by the subtler minds of their Greek
 leaders at Alexandria, choosing the simplest form when disputes arose.
-In 325 their elected patriarch, Athanasius, and his following of Greeks
-and Copts, triumphed at the council of Nicaea against Arius; but in 451
+In 325 their elected patriarch, [[Athanasius]], and his following of Greeks
+and Copts, triumphed at the council of Nicaea against [[Arius]]; but in 451
 the banishment of Dioscorus, patriarch of Alexandria, by the council of
 Chalcedon created a great schism, the Egyptian church holding to his
 Monophysite tenets (see COPTIC CHURCH, below), while the Catholic and
@@ -116,7 +116,7 @@ the Moslems. As examples of the severity of the persecutions, it may be
 noted that, in the 8th century, the monks not only were compelled to pay
 a capitation tax, but were branded with name and number, civilians were
 oppressed with heavy taxation, churches demolished, pictures and crosses
-destroyed (722-723). Degrading dresses were imposed upon the Christians
+destroyed (722-723). Degrading [[Dress|dresses]] were imposed upon the Christians
 (849-850); later, under Hakim (997), they were compelled to wear heavy
 crosses and black turbans as an ignominious distinction. Salaheddin
 (Saladin) in 1171 reenforced these statutes and defiled the churches. In
@@ -127,21 +127,21 @@ life, raged at Cairo between the Copts and Mahommedans, and large
 numbers of the former embraced Islam. Their oppression practically
 ceased under Mehemet Ali (1811).
 
-There have been very few cases of conversion from Mahommedanism to
+There have been very few cases of [[Conversion|conversion]] from Mahommedanism to
 Christianity; and, as intermarriage of Christians with Mahommedans
 implied conversion to Islam, the Copts have undoubtedly preserved the
 race of the Egyptians as it existed at the time of the Arab conquest in
-remarkable purity. The Coptic agricultural population (fellah[=i]n) in
+remarkable purity. The Coptic agricultural population ([[Fellah|fellah]][=i]n) in
 the villages of Upper Egypt and elsewhere are not markedly different
 from the Mahommedan fellah[=i]n, who, of course, are of the same stock,
 but mixed with Arab blood. The Copts in the towns, who have always been
 engaged in sedentary occupations, as scribes and handicraftsmen, have a
-more delicate frame and complexion, and may have mingled with Syrian and
+more delicate [[Frame|frame]] and complexion, and may have mingled with Syrian and
 Armenian Christians.
 
 According to the 1907 census, there were 667,036 orthodox Copts in
 Egypt, or less than 1/14th of the total population, this being the
-same proportion as in 1830, when, according to Lane, they numbered about
+same proportion as in 1830, when, according to [[Lane]], they numbered about
 150,000. The number of churches and monasteries at the same time had
 risen from 146 to 450, not including Protestant chapels nor Coptic
 Catholic churches. At the 1907 census the total number of Christians in
@@ -150,7 +150,7 @@ Protestants and 14,576 Roman Catholics.
 
 Monogamy is strict among the Copts, and divorce is granted only for
 adultery. Circumcision of both sexes is common before baptism. In regard
-to dress, at present only the clergy retain the old distinctive costume
+to dress, at present only the clergy retain the old distinctive [[Costume|costume]]
 and black turban. The rest of the Copts dress exactly like their Moslem
 brethren, from whom they can be distinguished only by the cross which
 many of them still have tattooed just below the palm of the right hand.
@@ -179,15 +179,15 @@ the past they left to the Copts. Some Copts have attained high office,
 and in 1908 a Copt became prime minister. Moreover, the Copts have to a
 certain extent made up for the ground they lose elsewhere by engaging in
 agriculture and banking, and there are now to be found many rich Coptic
-landowners and farmers, especially in Upper Egypt.
+landowners and [[Farmer|farmers]], especially in Upper Egypt.
 
-_Language._--The language spoken by the Copts was of various dialects,
+_Language._--The language spoken by the Copts was of various [[Dialect|dialects]],
 named Sahidic, Akhmimic, Fayumic, &c., descended from the ancient
 Egyptian with more or less admixture of Greek (for the Coptic dialects
 see EGYPT: Language). Coptic, however, has been entirely extinct as a
 spoken language for over 200 years, having been supplanted by Arabic; in
 the 13th century it was already so much decayed that Arabic translations
-of the liturgies were necessary. The Gospels, however, are still read in
+of the liturgies were necessary. The [[Gospel|Gospels]], however, are still read in
 the churches in the Bohairic dialect. This dialect appears in
 literature later than the others, having become of importance only with
 the extinction of Greek in Lower Egypt; for a time it shared the field
@@ -211,7 +211,7 @@ dating from the 3rd century and belong to an ascetic or encratitic sect
 of the Gnostics which arose in Egypt itself. There is abundance of
 apocryphal works, of apocalypses, of patristic writings from Athanasius
 to the council of Chalcedon, homilies, lives of saints and anecdotes of
-holy men, acts of martyrs extending from the persecution of Diocletian
+holy men, acts of martyrs extending from the persecution of [[Diocletian]]
 to that of the Persians in the 7th century, and lives of later ascetics
 and martyrs reaching down to the 14th century. Unless some of the
 Egyptian _acta sanctorum et martyrum_ should prove to have been
@@ -227,12 +227,12 @@ but traditional church tunes are generally referred to or prescribed for
 the songs. Of secular literature strangely little existed or at least
 has survived: only a few magical texts, fragments of a medical treatise,
 of the story of Alexander, and of a story of the conquest of Egypt by
-Cambyses, are known, apart from numerous legal and business documents.
+[[Cambyses]], are known, apart from numerous legal and business documents.
 
 Coptic was occasionally employed for literary purposes as late as the
 14th century, but from the 10th century onward the Copts wrote mostly in
 Arabic. Severus of Eshmunain (c. 950), who wrote a history of the
-patriarchs of Alexandria, was one of the first to employ Arabic; Cyril
+patriarchs of Alexandria, was one of the first to employ Arabic; [[Cyril]]
 ibn Laklak and others in the 13th and 14th centuries translated much of
 the older literature from Coptic into Arabic and Ethiopic for the use of
 the Egyptian and Abyssinian churches. From this period also date the
@@ -247,14 +247,14 @@ played a part in the Christian world scarcely second to that of Rome:
 the names of Origen, Athanasius and Cyril bear witness to her greatness.
 But in the time of the patriarch Dioscorus the church, always fond of
 speculation, was rent asunder by the controversy concerning the single
-or twofold nature of our Lord, as stated by Eutyches. The Eutychian
+or twofold nature of our Lord, as stated by [[Eutyches]]. The Eutychian
 doctrine, approved by the council of Ephesus, was condemned by that of
 Chalcedon in 451. But to this decision, though given by 636 bishops, the
 Copts refused assent--a refusal which profoundly affected both the
-religious and the political history of their country. From that moment
+religious and the [[Political History|political history]] of their country. From that moment
 they were treated as heretics. The emperor appointed a new bishop of
 Alexandria, whose adherents the Copts styled Melkites or Imperialists,
-while the Copts are distinguished as Monophysites and Jacobites. The
+while the Copts are distinguished as Monophysites and [[Jacobites]]. The
 court party and the native party each maintained its own line of
 patriarchs, and each treated the other with bitter hostility. For nearly
 two centuries strife and persecution continued. The well-meant ecthesis
@@ -303,29 +303,29 @@ eligible for the patriarchate. The requirement of a period of desert
 life has so far prevailed that no one but a monk from one of the desert
 monasteries is now qualified. This rule, harmless perhaps when the
 monasteries were the great schools of learning and devotion, now puts a
-premium on ignorance, and is disastrous to the church; more particularly
+premium on [[Ignorance|ignorance]], and is disastrous to the church; more particularly
 as even bishops must be chosen from the monks. The patriarch is elected
 by an assembly of bishops and elders. The candidate is brought in chains
 from the desert, and, if only in monk's orders, is passed through the
 higher grades except that of bishop. The patriarch's seat was
 transferred some time after the Arab conquest from Alexandria to the
-fortress town of Babylon (Old Cairo), and in modern times it was shifted
+fortress town of [[Babylon]] (Old Cairo), and in modern times it was shifted
 to Cairo proper. The other orders and offices in the church are
-metropolitan, bishop, chief priest, priest, archdeacon, deacon, reader
+metropolitan, bishop, chief priest, priest, [[Archdeacon|archdeacon]], deacon, reader
 and monk. The number of bishoprics in ancient times was very
 large--Athanasius says nearly 100. At present there remain ten in Egypt,
-one at Khartum and three in Abyssinia.
+one at [[Khartum]] and three in Abyssinia.
 
 
   Buildings.
 
 The numerous remaining churches in Egypt but faintly represent the vast
 number standing in ancient times. Rufinus says that he found 10,000
-monks in the one region of Arsinoe. Later, in 616, the Persians are
+monks in the one region of [[Arsinoe]]. Later, in 616, the Persians are
 described as destroying 600 monasteries near Alexandria. Ab[=u] S[=a]lih
 (12th century) gives a list of churches surviving in his day, and their
 number is astonishing. The earliest were cut out of rocks and caverns.
-In the days of Constantine and Justinian basilicas of great splendour
+In the days of Constantine and Justinian [[Basilica|basilicas]] of great splendour
 were built, such as the church of St Mark at Alexandria and the Red
 Monastery in Upper Egypt. This type of architecture permanently
 influenced Coptic builders, but there prevailed also a type, probably
@@ -346,21 +346,21 @@ Egypt.
 
 Every church has three altars at the eastern end in three contiguous
 chapels. The central division is called the _haikal_ or sanctuary, which
-is always divided from the choir by a fixed partition or screen with a
+is always divided from the [[Choir|choir]] by a fixed partition or screen with a
 small arched doorway closed by double doors. This resembles the Greek
-iconostasis, the screen on which the "icons" or sacred pictures are
+iconostasis, the screen on which the "[[Icon|icons]]" or sacred pictures are
 placed. _Haikal_ screen and choir screen are often sumptuously carved
-and inlaid. A marble basin for the mandatum in the nave, and an epiphany
+and inlaid. A [[Marble|marble]] basin for the mandatum in the nave, and an epiphany
 tank at the west are common features. The altar is usually built of
-brick or stone, hollow within, and having an opening to the interior. A
+[[Brick|brick]] or stone, hollow within, and having an opening to the interior. A
 wooden altar-slab covered with crosses, &c., lies in a rectangular
 depression on the surface, and it is used in case of need as a portable
 altar. Chalice and paten, ewer and basin, crewet and chrismatory, are
-found as in the Western churches. The aster consists of two crossed
+found as in the Western churches. The [[Aster|aster]] consists of two crossed
 half-hoops of silver and is used to place over the wafer. The flabellum
 is used, though now rarely made of precious metal. Some examples of
 silver-cased textus now remaining are very fine. Every church possesses
-thuribles--the use of incense being universal and frequent--and diadems
+thuribles--the use of [[Incense|incense]] being universal and frequent--and diadems
 for the marriage service. The use of church bells is forbidden by the
 Moslems, except in the desert, and church music consists merely of
 cymbals and triangles which accompany the chanting.
@@ -371,35 +371,35 @@ cymbals and triangles which accompany the chanting.
 The sacramental wine is usually made from raisins, but the juice must be
 fermented. Churches even in Cairo have a press for crushing the raisins.
 The eucharistic bread is baked in an oven built near the sanctuary. The
-wafer is a small loaf about 3 inches in diameter and 1 inch thick,
+wafer is a small loaf about 3 [[Inch|inches]] in diameter and 1 inch thick,
 stamped with the trisagion and with crosses. Communion must be received
-fasting. Confession is required, but has somewhat fallen into disuse.
-Laymen receive in both kinds. The wafer being broken into the chalice,
+[[Fasting|fasting]]. Confession is required, but has somewhat fallen into disuse.
+[[Laymen]] receive in both kinds. The wafer being broken into the chalice,
 crumbs or "pearls" are taken out in a spoon and so administered, as in
 the Greek rite. Reservation is uncanonical. Renaudot states that it was
 permitted in cases of great extremity, when the host remained upon the
-altar with lamps burning and a priest watching, but it is not now
+altar with [[Lamp|lamps]] burning and a priest watching, but it is not now
 practised, and there is no evidence of any such vessel as a pyx in
 Coptic ritual. Small benedictional crosses belong to each altar, and
 processional crosses are common. The crucifix is unknown, for while
-paintings and frescoes abound, graven images are absolutely forbidden.
+paintings and frescoes abound, graven [[Image|images]] are absolutely forbidden.
 The liturgy was read exclusively in the extinct Coptic language till the
 end of the 19th century, but parts are now read in Arabic, while the
 lessons have long been read in Arabic as well as in Coptic. The services
 are still excessively long, that of Good Friday lasting eleven hours;
-but benches are now provided in the newer churches. Seven sacraments are
-recognized--baptism, confirmation, eucharist, penance, orders,
-matrimony, and unction of the sick. The chief fasts are those of Advent,
-of Nineveh, of Heraclius, Lent and Pentecost. Pilgrimage to Jerusalem is
+but [[Bench|benches]] are now provided in the newer churches. Seven sacraments are
+recognized--baptism, confirmation, [[Eucharist|eucharist]], penance, orders,
+[[Matrimony|matrimony]], and unction of the sick. The chief fasts are those of Advent,
+of Nineveh, of Heraclius, [[Lent]] and Pentecost. Pilgrimage to Jerusalem is
 a duty and sometimes a penance.
 
-The Coptic ritual deserves much fuller study than it has received. Since
+The Coptic ritual deserves much [[Fuller|fuller]] study than it has received. Since
 the 7th century the church has been so isolated as to be little
 influenced by changes affecting other communions. Consequently it
 remains in many respects the most ancient monument of primitive rites
 and ceremonies in Christendom. But centuries of subjection to Moslem
 rule have much weakened it. For the liturgical dress see VESTMENTS;
-CHASUBLE, &c.
+[[Chasuble|CHASUBLE]], &c.
 
 
   Present state of the church.
@@ -429,7 +429,7 @@ patriarch and bishops--powers which have often been greatly abused.
 Other objects are (1) to provide Christian religious education in all
 Coptic schools and to raise these schools to a high standard in secular
 matters; (2) to promote the education of women; (3) to apply church
-revenues to the maintenance of churches and schools and to the better
+revenues to the [[Maintenance|maintenance]] of churches and schools and to the better
 payment of the clergy, who are now often compelled to live on charity;
 (4) to ensure prompt administration of justice in ecclesiastical causes
 such as divorce, inheritance, &c.; and (5) to establish colleges for the
@@ -447,10 +447,10 @@ faith.     (A. J. B.)
   London, 1678); Eusèbe Renaudot the younger (1646-1720), _Historia
   Patriarcharum Alexandrinorum_ (Paris, 1713); Ab[=u] Dakn (Josephus
   Abudacnus), _Historia Jacobitarum_ (Oxford, 1675, Eng. trans. by Sir
-  E. Sadleir, London, 1693); S. C. Malan, _Original Documents of the
+  E. Sadleir, London, 1693); S. C. [[Malan]], _Original Documents of the
   Coptic Church_ (London, 1874); Denzinger, _Ritus Orientalium_
   (Würzburg, 1863); Hon. Robert Curzon, _Visits to Monasteries in the
-  Levant_ (London, 1849); J. M. Neale, _Hist. of the Patriarchate of
+  [[Levant]]_ (London, 1849); J. M. Neale, _Hist. of the Patriarchate of
   Alexandria_ (2 vols., ib., 1847), in the _Hist. of the Holy Eastern
   Church_, coloured by the writer's Anglo-Catholic point of view; A. J.
   Butler, _Ancient Coptic Churches of Egypt_ (Oxford, 1884); B. T. A.
@@ -458,19 +458,19 @@ faith.     (A. J. B.)
   S[=a]leh (Oxford, 1895); E. Amélineau, _Monuments pour servir à
   l'histoire de l'Égypte chrétienne aux IV^e et V^e siècles_, Coptic
   and Arabic documents published and translated for the first time, in
-  _Mém. de la mission archéolog. franç. au Caire_, t. iv. (Paris, 1888),
+  _Mém. de la mission [[Arch|arch]]éolog. franç. au Caire_, t. iv. (Paris, 1888),
   and _Monuments ... au IV^e siècle_ in the _Annales du musée Guimet_,
   t. xvii. (Paris, 1889); P. Rohrbach, _Die alexandrinischen
-  Patriarchen_ (Berlin, 1891); Jullien, _L'Égypte: souvenirs bibliques
+  Patriarchen_ (Berlin, 1891); [[Jullien]], _L'Égypte: souvenirs bibliques
   et chrétiens_ (Lille, 1891); Macaire, _Histoire de l'église
   d'Alexandrie_ (Cairo, 1894); Porphyrius, _The Christian East:
   Alexandrian Patriarchate_ (St Petersburg, 1898; in Russian);
-  Strzygowski, _Orient oder Rom?_ (Leipzig, 1901); De Bock, _Matériaux
+  Strzygowski, _Orient oder Rom?_ (Leipzig, 1901); De Bock, _[[Mat]]ériaux
   pour servir à l'archéologie de l'Égypte chrétienne_ (St Petersburg,
   1901); Kitab al _Hul[=a]j[=i] al Mukaddas_ (Cairo, 1902); A.
   Gayet, "Les Monuments coptes du musée de Boulaq," in the _Mém. miss.
   archéolog. franç. au Caire_, t. iii. (Paris, 1889); id., L'Art copte
-  (Paris, 1902); Horner, _The Statutes of the Apostles_ (London, 1904);
+  (Paris, 1902); Horner, _The Statutes of the [[Apostle|Apostles]]_ (London, 1904);
   _Egypt Exploration Fund Reports_, section "Christian Egypt"; W. E.
   Crum, article "Koptische Kirche" in _Realencyklopädie für
   protestantische Theologie und Kirche_, 3. Aufl.; J. M. Fuller's
@@ -479,15 +479,15 @@ faith.     (A. J. B.)
   _Schenute von Atripe und die Entstehung des national-ägyptischen
   Christentums_ (Leipzig, 1903), _Die Entstehung der koptischen Kirche_
   (a valuable essay printed as the introduction to R. Haupt's _Katalog_
-  5, Halle, 1905); B. T. A. Evetts, "The Patriarchal History of Severus"
+  5, [[Halle]], 1905); B. T. A. Evetts, "The Patriarchal History of Severus"
   in Graffin's _Patrologia orientalis_ (Paris); J. Milne, _A History of
   Egypt under Roman Rule_ (1898).
 
-  _Literature._--See Crum's article above referred to, his _Catalogue of
+  _Literature._--See Crum's article above referred to, his _[[Catalogue]] of
   Coptic MSS. in the British Museum_, and his annual reviews in the
   _Archaeological Report_ of the Egypt Exploration Fund; J. Leipoldt in
   _Geschichte der christlichen Literaturen des Orients_ (Leipzig, 1907);
-  H. Junker, _Koptische Poesie des zehnten Jahrhunderts_, 1. Teil
+  H. [[Junker]], _Koptische Poesie des zehnten Jahrhunderts_, 1. Teil
   (Berlin, 1908); Archdeacon Dowling, _The Egyptian Church_ (London,
   1909).
 
@@ -496,7 +496,7 @@ faith.     (A. J. B.)
   moreover, coloured by prejudices in favour of the Moslems whom he
   studied with so much sympathy. See Klunzinger, _Upper Egypt_, pp. 61
   et sqq.; also the last chapter of _The Story of the Church of Egypt_,
-  by Mrs E. L. Butcher (1897), on the social life and customs.
+  by Mrs E. L. [[Butcher]] (1897), on the social life and customs.
 
 ## References
 

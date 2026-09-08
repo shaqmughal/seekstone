@@ -15,7 +15,7 @@ oratorios is also called a choir.
 
 In English cathedrals the choir is composed of men (vicars-choral or lay
 clerks) and boys (choristers). They are divided into two sets, sitting
-on the north and south sides of the chancel respectively, called
+on the north and south sides of the [[Chancel|chancel]] respectively, called
 _cantoris_ and _decani_, from being on the same side as the _cantor_
 (precentor) or the _decanus_ (dean). This arrangement, together with the
 custom of vesting choirmen and choristers in surplices (traditional only
@@ -33,7 +33,7 @@ services of the church, and the restriction of the term to the singing
 men and boys, who were in their origin no more than the representatives
 (vicars) of the clergy, is a comparatively late development. The
 distinction between "choir services" (Mattins, Vespers, Compline,
-&c.)--consisting of prayers, lections, the singing of the psalms,
+&c.)--consisting of prayers, [[Lection|lections]], the singing of the psalms,
 &c.--and the service of the altar was sharply drawn in the middle ages,
 as in the modern Roman Church. "Choir vestments" (surplice, &c.) are
 those worn by the clergy at the former, as distinguished from those used
@@ -63,11 +63,11 @@ there are usually two or three rows rising one behind the other.
 In Romanesque churches there are eastern and western choirs, and in
 former times the term was given to chantries and subsidiary chapels,
 which were also called chancels. In the early Christian church the
-ambones where the gospels and epistles were read were placed one on
+ambones where the [[Gospel|gospels]] and [[Epistle|epistles]] were read were placed one on
 either side of the choir and formed part of its enclosure, and this is
 the case in S. Clemente, S. Lorenzo and S. Maria in Cosmedin in Rome. In
 England the choir seems almost universally to have assembled at the
-eastern part of the church to recite the breviary services, whereas on
+eastern part of the church to recite the [[Breviary|breviary]] services, whereas on
 the continent it was moved from one place to another according to
 convenience. In Spanish churches it occupies the nave of the church, and
 in the church of the Escorial in Spain was at the west end above the

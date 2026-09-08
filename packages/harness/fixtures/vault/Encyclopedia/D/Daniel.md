@@ -1,21 +1,21 @@
 # Daniel
 
-DANIEL, BOOK OF.--The Book of Daniel stands between Ezra and Esther in
+DANIEL, BOOK OF.--The Book of Daniel stands between [[Ezra]] and Esther in
 the third great division of the Hebrew Bible known as the _Hagiographa_,
 in which are classed all works which were not regarded as being part of
 the Law or the Prophets. The book presents the unusual peculiarity of
 being written in two languages, i.-ii. 4 and viii.-xii. being in Hebrew,
-while the text of ii. 4-vii. is the Palestinian dialect of Aramaic.[8]
+while the text of ii. 4-vii. is the Palestinian [[Dialect|dialect]] of Aramaic.[8]
 The subject matter, however, falls naturally into two divisions which
 are not co-terminous with the linguistic sections; viz. i.-vi. and
 vii.-xii. The first of these sense-divisions deals only with narratives
-regarding the reign of Nebuchadrezzar and his supposed son Belshazzar,
+regarding the reign of Nebuchadrezzar and his supposed son [[Belshazzar]],
 while the second section consists exclusively of apocalyptic prophecies.
 There can be no doubt that a definite plan was followed in the
 arrangement of the work. The author's object was clearly to demonstrate
 to his readers the necessity of faith in Israel's God, who shall not for
 ever allow his chosen ones to be ground under the heel of a ruthless
-heathen oppressor. To illustrate this, he makes use on the one hand
+[[Heathen|heathen]] oppressor. To illustrate this, he makes use on the one hand
 (i.-vi.) of carefully chosen narratives, somewhat loosely connected it
 is true, but all treating substantially the same subject,--the physical
 triumph of God's servant over his unbelieving enemies; and on the other
@@ -26,7 +26,7 @@ part of the book (vii.-viii.) were no doubt purposely made to appear in
 a symbolic form, in order that in the last two revelations (xi.-xii.),
 which were couched in such direct language as to be intelligible even to
 the modern student of history, the author might obtain the effect of a
-climax. The book is probably not therefore a number of parts of
+[[Climax|climax]]. The book is probably not therefore a number of parts of
 different origin thrown loosely together by a careless editor, who does
 not deserve the title of author.[9] The more or less disconnected
 sections of the first part of the work were probably so arranged
@@ -42,7 +42,7 @@ that of the events portrayed in Daniel.[10] Nor is it possible to follow
 the theory of Merx, that Aramaic, which was the popular tongue of the
 day when the Book of Daniel was written, was therefore used for the
 simpler narrative style, while the more learned Hebrew was made the
-idiom of the philosophical portions.[11] The first chapter, which is
+[[Idiom|idiom]] of the philosophical portions.[11] The first chapter, which is
 just as much in the narrative style as are the following Aramaic
 sections, is in Hebrew, while the distinctly apocalyptic chapter vii. is
 in Aramaic. A third view, that the bilingual character of the work
@@ -54,7 +54,7 @@ of the entire work, the only possible explanation seems to be that the
 book was written at first all in Hebrew, but for the convenience of the
 general reader whose vernacular was Aramaic, a translation, possibly
 from the same pen as the original, was made into Aramaic. It must be
-supposed then that, certain parts of the original Hebrew manuscript
+supposed then that, certain parts of the original Hebrew [[Manuscript|manuscript]]
 being lost, the missing places were supplied from the current Aramaic
 translation.[13]
 
@@ -78,10 +78,10 @@ the book was not entitled to a place among official prophetical books.
 But if the work had really been in existence at the time of the
 completion of the second part of the canon, the collectors of the
 prophetical writings, who in their care did not neglect even the parable
-of Jonah, would hardly have ignored the record of so great a prophet as
+of [[Jonah]], would hardly have ignored the record of so great a prophet as
 Daniel is represented to have been.
 
-2. Jesus ben Sirach (Ecclesiasticus), who wrote about 200-180 B.C., in
+2. Jesus [[Ben|ben]] Sirach ([[Ecclesiasticus]]), who wrote about 200-180 B.C., in
 his otherwise complete list of Israel's leading spirits (xlix.), makes
 no mention of Daniel. Hengstenberg's plea that Ezra and Mordecai were
 also left unmentioned has little force, because Ezra appears in the book
@@ -89,8 +89,8 @@ bearing his name as nothing more than a prominent priest and scholar,
 while Daniel is represented as a great prophet.
 
 3. Had the Book of Daniel been extant and generally known after the time
-of Cyrus (537-529 B.C.), it would be natural to look for some traces of
-its power among the writings of Haggai, Zechariah and Malachi, whose
+of [[Cyrus]] (537-529 B.C.), it would be natural to look for some traces of
+its power among the writings of [[Haggai]], Zechariah and [[Malachi]], whose
 works, however, show no evidence that either the name or the history of
 Daniel was known to these authors. Furthermore, the manner in which the
 prophets are looked back upon in ix. 6-10 cannot fail to suggest an
@@ -98,7 +98,7 @@ extremely late origin for the book. Besides this, a careful study of ix.
 2 seems to indicate that the Prophetical Canon was definitely completed
 at the time when the author of Daniel wrote. It is also highly probable
 that much of the material in the second part of the book was suggested
-by the works of the later prophets, especially by Ezekiel and Zechariah.
+by the works of the later prophets, especially by [[Ezekiel]] and Zechariah.
 
 4. Some of the beliefs set forth in the second part of the book also
 practically preclude the possibility of the author having lived at the
@@ -128,7 +128,7 @@ draw upon the Babylonian historical sources to prove that Daniel could
 not have originated at the time of Nebuchadrezzar. There can be no doubt
 that the author of Daniel thought that Belshazzar (q.v.), who has now
 been identified beyond all question with _Bel-sar-uzur_, the son of
-Nabonidus, the last Semitic king of Babylon, was the son of
+Nabonidus, the last Semitic king of [[Babylon]], was the son of
 Nebuchadrezzar, and that Belshazzar attained the rank of king.[16] This
 prince did not even come from the family of Nebuchadrezzar. Nabonidus,
 the father of Belshazzar, was the son of a nobleman _Nabu-baladsu-iqbi_,
@@ -145,9 +145,9 @@ mean to imply Belshazzar's kingship of Babylon at all by his use of the
 word "king," but they suggest that the writer of Daniel believed
 Belshazzar to have been co-regent. If Belshazzar had ever held such a
 position, which is extremely unlikely in the absence of any evidence
-from the cuneiform documents, he would hardly have been given the
+from the [[Cuneiform|cuneiform]] documents, he would hardly have been given the
 unqualified title "king of Babylon" as occurs in Daniel.[17] For
-example, Cambyses, son of Cyrus, was undoubtedly co-regent and bore the
+example, [[Cambyses]], son of Cyrus, was undoubtedly co-regent and bore the
 title "king of Babylon" during his father's lifetime, but, in a contract
 which dates from the first year of Cambyses, it is expressly stated that
 Cyrus was still "king of the lands." This should be contrasted with Dan.
@@ -157,22 +157,22 @@ are at best subterfuges to support an impossible theory regarding the
 origin of the Book of Daniel, whose author clearly believed in the
 kingship of Belshazzar and in that prince's descent from Nebuchadrezzar.
 
-Furthermore, the writer of Daniel asserts (v. 1) that a monarch "Darius
+Furthermore, the writer of Daniel asserts (v. 1) that a monarch "[[Darius]]
 the Mede" received the kingdom of Babylon after the fall of the native
 Babylonian house, although it is evident, from i. 21, x. 1, that the
 biblical author was perfectly aware of the existence of Cyrus.[18] The
 fact that in no other scriptural passage is mention made of any Median
 ruler between the last Semitic king of Babylon and Cyrus, and the
 absolute silence of the authoritative ancient authors regarding such a
-king, make it apparent that the late author of Daniel is again in error
+king, make it apparent that the late author of Daniel is again in [[Error|error]]
 in this particular. It is known that Cyrus became master of Media by
 conquering Astyages, and that the troops of the king of Persia capturing
 Babylon took Nabonidus prisoner with but little difficulty. Unsuccessful
 attempts have been made to identify this mythical Darius with the
 Cyaxares, son of Astyages, of Xenophon's _Cyropaedia_, and also with the
-Darius of Eusebius, who was in all probability Darius Hystaspis. There
+Darius of [[Eusebius]], who was in all probability Darius Hystaspis. There
 is not only no room in history for this Median king of the Book of
-Daniel, but it is also highly likely that the interpolation of "Darius
+Daniel, but it is also highly likely that the [[Interpolation|interpolation]] of "Darius
 the Mede" was caused by a confusion of history, due both to the
 destruction of the Assyrian capital Nineveh by the Medes, sixty-eight
 years before the capture of Babylon by Cyrus, and also to the fame of
@@ -201,10 +201,10 @@ occurrences which are the most remote from the assumed standpoint of the
 writer are the most correctly stated, while the nearer we approach the
 author's supposed time, the more inaccurate does he become. It is quite
 apparent that the predictions in the Book of Daniel centre on the period
-of Antiochus Epiphanes (175-164 B.C.), when that Syrian prince was
+of [[Antiochus]] Epiphanes (175-164 B.C.), when that Syrian prince was
 endeavouring to suppress the worship of Yahweh and substitute for it the
 Greek religion.[19] There can be no doubt, for example, that in the
-"Little Horn" of vii. 8, viii. 9, and the "wicked prince" described in
+"Little [[Horn]]" of vii. 8, viii. 9, and the "wicked prince" described in
 ix.-x., who is to work such evil among the saints, we have clearly one
 and the same person. It is now generally recognized that the king
 symbolized by the Little Horn, of whom it is said that he shall come of
@@ -224,7 +224,7 @@ predictions, but the author of Daniel is strikingly particular as to
 detail in everything relating to the period in which he lived, i.e. the
 reign of Antiochus IV. Had the work been composed during the Babylonian
 era, it would be more natural to expect prophecies of the return of the
-exiled Jews to Palestine, as in Jeremiah, Ezekiel and Isaiah, rather
+exiled Jews to Palestine, as in [[Jeremiah]], Ezekiel and [[Isaiah]], rather
 than the acclamation of an ideal Messianic kingdom such as is emphasized
 in the second part of Daniel.
 
@@ -247,13 +247,13 @@ one of seven weeks; one of sixty-two weeks; and the last of one week. It
 seems probable that the author of Daniel, like the Chronicler, began his
 period with the fall of Jerusalem in 586. His first seven weeks,
 therefore, ending with the rule of "Messiah the Prince,"[20] probably
-Joshua ben Jozadak, the first high-priest after the exile (Ezra iii. 2),
+[[Joshua]] ben Jozadak, the first high-priest after the exile (Ezra iii. 2),
 seem to coincide exactly with the duration of the Babylon exile, i.e.
 forty-nine years.
 
 The second period of the epoch, during which Jerusalem is to be peopled
 and built, and at the end of which the Messiah is to be cut off, is much
-more difficult to determine. The key to the problem lies undoubtedly in
+more difficult to determine. The [[Key|key]] to the problem lies undoubtedly in
 the last statement regarding the overthrow of the Messiah or Anointed
 One. Such a reference coming from a Maccabean author can only allude to
 the deposition by Antiochus IV. of the high-priest Onias III., which
@@ -267,10 +267,10 @@ conclusively that he meant seventy independent weeks. Besides, nothing
 is gained by such a device, which would bring the year of the end of the
 second period down to the meaningless date 152, too late to refer to
 Onias. Cornill therefore adopted the only tenable theory regarding the
-problem; viz. that the author of Daniel did not know the chronology
+problem; viz. that the author of Daniel did not know the [[Chronology|chronology]]
 between 537 and 312, the establishment of the Seleucid era, and
 consequently made the period too long. A parallel case is the much
-quoted example of Demetrius, who placed the fall of Samaria (722 B.C.)
+quoted example of [[Demetrius]], who placed the fall of Samaria (722 B.C.)
 573 years before the succession of Ptolemy IV. (222), thus making an
 error of seventy-three years. Josephus, who places the reign of Cyrus
 forty to fifty years too early, makes a similar error.
@@ -306,7 +306,7 @@ to his own prediction. If the book be properly understood, it must not
 only be admitted that the author made no pretence at accuracy of detail,
 but also that his prophecies were clearly intended to be merely an
 historical resume, clothed for the sake of greater literary vividness in
-a prophetic garb. The work, which is certainly not a forgery, but only a
+a prophetic garb. The work, which is certainly not a [[Forgery|forgery]], but only a
 consolatory political pamphlet, is just as powerful, viewed according to
 the author's evident intention, as a consolation to God's people in
 their dire distress at the time of Antiochus Epiphanes, as if it were,
@@ -316,19 +316,19 @@ period.[21]
 
   LITERATURE.--See bibliography in Bevan, _Daniel_ 9, and add
   Kamphausen, _Dan._, in Haupt's _Sacred Books of the Old Testament_;
-  Behrmann, _Dan._ (1894); J. D. Prince, _Dan._ (1899); G. A. Barton,
+  Behrmann, _Dan._ (1894); J. D. Prince, _Dan._ (1899); G. A. [[Barton]],
   "The Compilation of the Book of Daniel," in _Journ. Bibl. Lit._
   (1898), 62-86, against the unity of the book, &c., &c.; J. D. Davis,
   "Persian Words and the Date of O.T. Documents," in _Old Testament and
-  Semitic Studies: in Memory of W. R. Harper_ (Chicago, 1908).
+  Semitic Studies: in Memory of W. R. Harper_ ([[Chicago]], 1908).
        (J. D. Pr.)
 
 
 ADDITIONS TO DANIEL.--The "additions to Daniel" are three in number:
-_Susannah and the Elders_, _Bel and the Dragon_, and _The Song of the
+_Susannah and the Elders_, _[[Bel]] and the Dragon_, and _The Song of the
 Three Children_. Of these the two former have no organic connexion with
 the text. The case is otherwise with regard to the last. In some
-respects it helps to fill up a gap in the canonical text between verses
+respects it [[Helps|helps]] to fill up a [[Gap|gap]] in the canonical text between verses
 23 and 24 of chapter iii. And yet we find Polychronius, early in the 5th
 century, stating that this song was not found in the Syriac version.
 
@@ -352,7 +352,7 @@ The source of the story may, according to Ewald (_Gesch._^3 iv. 636),
 have been suggested by the Babylonian legend of the seduction of two old
 men by the goddess of love (see also Koran, _Sur._ ii. 96). Another and
 much more probable origin of the work is that given by Brull (_Das
-apocr. Susanna-Buch_, 1877) and Ball (_Speaker's Apocr._ ii. 323-331).
+apocr. Susanna-Buch_, 1877) and [[Ball]] (_Speaker's Apocr._ ii. 323-331).
 The first half of the story is based on a tradition--originating
 possibly in Jer. xxix. 21-32 and found in the Talmud and Midrash--of two
 elders Ahab and Zedekiah, who in the Captivity led certain women astray
@@ -382,16 +382,16 @@ either in Hebrew or Aramaic.
 
   LITERATURE.--Ball in the _Speaker's Apocr._ ii. 233 sqq.; Schurer,
   _Gesch._^3 iii. 333; Rothstein in Kautzsch's _Apocr. u. Pseud._ i. 176
-  sqq.; Kamphausen in _Ency. Bib._; Marshall in Hastings' _Bible Dict._;
+  sqq.; Kamphausen in _Ency. Bib._; [[Marshall]] in Hastings' _Bible Dict._;
   Toy in the _Jewish Encyc._
 
 _Bel and the Dragon._--We have here two independent narratives, in both
 of which Daniel appears as the destroyer of heathenism. The latter had a
 much wider circulation than the former, and is most probably a Judaized
 form of the old Semitic myth of the destruction of the old dragon, which
-represents primeval chaos (see Ball, _Speaker's Apocr._ ii. 346-348;
+represents primeval [[Chaos|chaos]] (see Ball, _Speaker's Apocr._ ii. 346-348;
 Gunkel, _Schopfung und Chaos_, 320-323). Marduk destroys Tiamat in a
-similar manner to that in which Daniel destroys the dragon (Delitzsch,
+similar manner to that in which Daniel destroys the dragon ([[Delitzsch]],
 _Das babylonische Weltschopfung Epos_), by driving a storm-wind into the
 dragon which rends it asunder. Marshall (Hastings' _Bib. Dict._ i. 267)
 suggests that the "pitch" of the Greek (Aramaic [Aramaic: zifa]) arose
@@ -401,7 +401,7 @@ The Greek exists in two recensions, those of the Septuagint and
 Theodotion. Most scholars maintain a Greek original, but this is by no
 means certain. Marshall (Hastings' _Bib Dict._ i. 268) argues for an
 Aramaic, and regards Gasters's Aramaic text [_Proceedings of the Society
-of Biblical Archaeology_ (1894), pp. 280-290, 312-317; (1895) 75-94] as
+of Biblical [[Archaeology]]_ (1894), pp. 280-290, 312-317; (1895) 75-94] as
 of primary value in this respect, but this is doubtful.
 
   LITERATURE.--Fritzsche's _Handbuch zu den Apoc._; Ball in the
@@ -422,7 +422,7 @@ additions were made to the text before its translation into Greek. These
 additions still preserve, according to Rothstein, a fragment of the
 original text, i.e. verses 23-28, which came between verses 23 and 24 of
 chapter iii. of the canonical text. They certainly fill up excellently a
-manifest gap in this text. "The Song of the Three Children" was first
+[[Manifest|manifest]] gap in this text. "The Song of the Three Children" was first
 added after the verses just referred to, and subsequently the Prayer of
 Azariah was inserted before these verses.
 
@@ -450,7 +450,7 @@ FOOTNOTES:
 
   [7] The account in chap. ii. of the promotion of Daniel to be
     governor of Babylon, as a reward for his correct interpretation of
-    Nebuchadrezzar's dream, is very probably an imitation of the story of
+    Nebuchadrezzar's [[Dream|dream]], is very probably an imitation of the story of
     Joseph in Gen. xl-xli. The points of resemblance are very striking.
     In both accounts, we have a young Hebrew raised by the favour of a
     heathen king to great political prominence, owing to his
@@ -468,11 +468,11 @@ FOOTNOTES:
 
   [10] The latest connected Babylonian inscription is that of Antiochus
     Soter (280-260 B.C.), but the language was probably spoken until
-    Hellenic times; cf. Gutbrod, _Zeitschr. fur Assyriol._ vi. 27.
+    Hellenic times; cf. Gutbrod, _Zeitschr. [[Fur|fur]] Assyriol._ vi. 27.
 
   [11] Prince, _Dan._ 12.
 
-  [12] Bertholdt, Dan. 15; Franz Delitzsch, in Herzog,
+  [12] Bertholdt, Dan. 15; [[Franz]] Delitzsch, in [[Herzog]],
     _Realencyklopadie_, 2nd ed., iii. 470.
 
   [13] Bevan, _Dan._ 27 ff.; Prince, _Dan._ 13.

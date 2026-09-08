@@ -19,7 +19,7 @@ held in the various counties of England, chiefly for the purposes of
 gaol delivery and trying causes at _nisi prius_. Previous to Magna Carta
 (1215) writs of assize had all to be tried at Westminster, or to await
 trial in the locality in which they had originated at the septennial
-circuit of the justices in eyre; but, by way of remedy for the great
+circuit of the justices in [[Eyre|eyre]]; but, by way of remedy for the great
 consequent delay and inconvenience, it was provided by this celebrated
 act that the assizes of _mort d'ancestor_ and _novel disseisin_ should
 be tried annually by the judges in every county. By successive
@@ -45,11 +45,11 @@ largest commission; (2) of _nisi prius_ (q.v.) (3) of gaol delivery,
 which requires them to try every prisoner in gaol, for whatsoever
 offence committed; (4) of the peace, by which all justices must be
 present at their county assizes, or else suffer a fine. Special
-commissions are granted for inquest in certain causes and crimes. See
+commissions are granted for [[Inquest|inquest]] in certain causes and crimes. See
 also the articles CIRCUIT; JURY.
 
 Assizes, in the sense of ordinances or enactments of a court or council
-of state, as the "assize of bread and ale," the "assize of Clarendon,"
+of state, as the "assize of bread and ale," the "assize of [[Clarendon]],"
 the "assize of arms," are important in early economic history. As early
 as the reign of John the observance of the _assisae venalium_ was
 enforced, and for a period of 500 years thereafter it was considered no
@@ -57,11 +57,11 @@ unimportant part of the duties of the legislature to regulate by fixed
 prices, for the protection of the lieges, the sale of bread, ale, fuel,
 &c. (see ADULTERATION). Sometimes in city charters the right to assize
 such articles is specially conceded. Regulations of this description
-were beneficial in the repression of fraud and adulteration. Assizes are
+were beneficial in the repression of [[Fraud|fraud]] and adulteration. Assizes are
 sometimes used in a wider legislative connexion by early chroniclers and
 historians--the "assisae of the realme," e.g. occasionally meaning the
 organic laws of the country. For the "assizes of Jerusalem" see
-CRUSADES.
+[[Crusades|CRUSADES]].
 
 The term assize, originally applying to an assembly or court, became
 transferred to actions before the court or the writs by which they were
@@ -71,9 +71,9 @@ _Assize of darrien presentment_, or last presentation, was a writ
 directed to the sheriff to summon an assize or jury to enquire who was
 the last patron that presented to a church then vacant, of which the
 plaintiff complained that he was deforced or unlawfully deprived by the
-defendant. It was abolished in 1833 and the action of _quare impedit_
+[[Defendant|defendant]]. It was abolished in 1833 and the action of _quare impedit_
 (q.v.) substituted. But by the Common Law Procedure Act 1860, no _quare
-impedit_ can be brought, so that an action in the king's bench of the
+impedit_ can be brought, so that an action in the king's [[Bench|bench]] of the
 High Court was substituted for it.
 
 Assize of _mort d'ancestor_ was a writ which lay where a plaintiff

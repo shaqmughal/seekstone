@@ -10,7 +10,7 @@ all languages and periods, but there is scarcely any term which has been
 used with so many different shades of meaning. Plato used it in the
 sphere of metaphysics for the eternally existing reality, the archetype,
 of which the objects of sense are more or less imperfect copies. Chairs
-may be of different forms, sizes, colours and so forth, but "laid up in
+may be of different forms, sizes, [[Colours|colours]] and so forth, but "laid up in
 the mind of God" there is the one permanent _idea_ or type, of which the
 many physical chairs are derived with various degrees of imperfection.
 From this doctrine it follows that these _ideas_ are the sole reality
@@ -26,7 +26,7 @@ mental reconstructions of perceptions, the perceptual process being
 described as an "impression." Wundt widens the term to include
 "conscious representation of some object or process of the external
 world." In so doing he includes not only ideas of memory and
-imagination, but also perceptual processes, whereas other psychologists
+[[Imagination|imagination]], but also perceptual processes, whereas other psychologists
 confine the term to the first two groups. G. F. Stout and J. M. Baldwin,
 in the _Dictionary of Philosophy and Psychology_, i. 498, define "idea"
 as "the reproduction with a more or less adequate image, of an object

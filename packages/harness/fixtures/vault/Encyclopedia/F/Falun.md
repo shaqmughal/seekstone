@@ -20,13 +20,13 @@ in Sweden, and perhaps the oldest still existing in the world; it is
 known to have been established before 1347. Since its reorganization as
 a joint-stock company in 1890 many of the shares have been held by the
 crown, philanthropic institutions and other public bodies. The company
-also owns iron mines, limestone and quartz quarries, large iron-works at
+also owns iron mines, [[Limestone|limestone]] and quartz quarries, large iron-works at
 Domnarfvet and elsewhere, a great extent of forests and saw-mills, and
 besides the output of the copper mines it produces manufactured iron and
-steel, timber, wood-pulp, bricks and charcoal. Falun has also railway
+steel, timber, wood-pulp, [[Brick|bricks]] and [[Charcoal|charcoal]]. Falun has also railway
 rolling-stock factories. There are museums of mineralogy and geology, a
 lower school of mining, model room and scientific library. The so-called
-"Gothenburg System" of municipal control over the sale of spirits was
+"[[Gothenburg]] System" of municipal control over the sale of spirits was
 actually devised at Falun as early as 1850.
 
 ## References

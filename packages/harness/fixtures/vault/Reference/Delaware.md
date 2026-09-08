@@ -2,10 +2,10 @@
 
 DELAWARE, a South Atlantic state of the United States of America, one of
 the thirteen original states, situated between 38 deg. 27' and 39 deg.
-50' N. lat. and between 75 deg. 2' and 75 deg. 47' W. long. (For map see
+50' N. lat. and between 75 deg. 2' and 75 deg. 47' W. long. (For [[Map|map]] see
 MARYLAND.) It is bounded N. and N.W. by Pennsylvania, E. by the Delaware
-river and Delaware Bay, which separate it from New Jersey, and by the
-Atlantic Ocean; S. and W. by Maryland. With the exception of Rhode
+river and Delaware Bay, which separate it from New [[Jersey]], and by the
+[[Atlantic Ocean]]; S. and W. by Maryland. With the exception of Rhode
 Island it is the smallest state in the Union, its area being 2370 sq.
 m., of which 405 sq. m. are water surface.
 
@@ -16,8 +16,8 @@ the peninsula formed by Chesapeake Bay and the estuary of the Delaware
 river. In the extreme N. the country is rolling, with moderately high
 hills, moderately deep valleys and rapid streams. West of Wilmington
 there rises a ridge which crosses the state in a north-westerly
-direction and forms a watershed between Christiana and Brandywine
-creeks, its highest elevation above sea-level being 280 ft. South of the
+direction and forms a watershed between Christiana and [[Brandywine]]
+[[Creek|creeks]], its highest elevation above sea-level being 280 ft. South of the
 Christiana there begins another elevation, sandy and marshy, which
 extends almost the entire length of the state from N.W. to S.E., and
 forms a second water-parting. The streams that drain the state are small
@@ -26,19 +26,19 @@ creeks, whose estuary into Delaware river forms Wilmington harbour;
 those of the S.W. have a common outlet in the Nanticoke river of
 Maryland; those of the E. empty into Delaware Bay and the Atlantic
 Ocean. The principal harbours are those of Wilmington, New Castle and
-Lewes. The shore of the bay is marshy, that of the Atlantic is sandy. In
+[[Lewes]]. The shore of the bay is marshy, that of the Atlantic is sandy. In
 Kent county there are more than 60,000 acres of tidal marshland, some of
-which has been reclaimed by means of dykes; Cypress Swamp in the extreme
+which has been reclaimed by means of dykes; [[Cypress]] Swamp in the extreme
 S. has an area of 50,000 acres. The soils of the N. are clays, sometimes
-mixed with loam; those of the central part are mainly loams; while those
+mixed with [[Loam|loam]]; those of the central part are mainly loams; while those
 of the S. are sands.
 
 Minerals are found only in the N. part of the state. Those of economic
-value are kaolin, mined chiefly in the vicinity of Hockessin, New Castle
+value are [[Kaolin|kaolin]], mined chiefly in the vicinity of Hockessin, New Castle
 county, the static kaolin product being exceeded in 1903 only by that of
 Pennsylvania among the states of the United States; granite, used for
 road-making and rough construction work, found near Wilmington; and
-brick and tile clays; but the value of their total product in 1902 was
+[[Brick|brick]] and tile clays; but the value of their total product in 1902 was
 less than $500,000. In 1906 the total mineral product was valued at
 $814,126, of which $237,768 represented clay products and $146,346
 stone. In 1902 only 2.2% of the wage-earners were engaged in mining.
@@ -46,7 +46,7 @@ stone. In 1902 only 2.2% of the wage-earners were engaged in mining.
 The forests, which once afforded excellent timber, including white oak
 for shipbuilding, have been greatly reduced by constant cutting; in 1900
 it was estimated that 700 sq. m. were wooded, but practically none of
-this stand was of commercial importance. The fisheries, chiefly oyster,
+this stand was of commercial importance. The [[Fisheries|fisheries]], chiefly oyster,
 sturgeon and shad, yield an annual product valued at about $250,000.
 
 The proximity of the Delaware and Chesapeake bays help to give Delaware
@@ -73,16 +73,16 @@ negroes being $17 per acre, that of farms operated by whites, $23 per
 acre. The total value of farm products in 1900 was $9,190,777, an
 increase of 30% over that of 1890, while the cultivation of cereals
 suffered on account of the competition of the western states. Indian
-corn and wheat form the two largest crops, their product in 1900 being
+[[Corn|corn]] and wheat form the two largest crops, their product in 1900 being
 respectively 24% and 52% greater than in 1890; but these crops when
 compared with those of other states are relatively unimportant. In 1906
 the acreage of Indian corn was 196,472 acres with a yield of 5,894,160
-bushels valued at $2,475,547, and the acreage of wheat was 121,745 acres
+[[Bushel|bushels]] valued at $2,475,547, and the acreage of wheat was 121,745 acres
 with a yield of 1,947,920 bushels valued at $1,383,023. The value of the
 fruit crop, for which Delaware has long been noted, also increased
-during the same decade, but disease and frost caused a marked decline in
+during the same decade, but disease and [[Frost|frost]] caused a marked decline in
 the production of peaches, a loss balanced by an increased production of
-apples, pears and other orchard fruits. Large quantities of small
+[[Apple|apples]], pears and other orchard fruits. Large quantities of small
 fruits, particularly of strawberries, raspberries and blackberries, are
 produced, the southern portion of Sussex county being particularly
 favourable for strawberry culture. The vicissitudes of fruit raising
@@ -95,14 +95,14 @@ value of farm property between 1890 and 1900.
 The development of manufacturing in Delaware has not been so extensive
 as its favourable situation relative to the other states, the facilities
 for water and railway transportation, and the proximity of the coal and
-iron fields of Pennsylvania, would seem to warrant. In 1905 the
+iron [[Fields|fields]] of Pennsylvania, would seem to warrant. In 1905 the
 wage-earners engaged in manufacturing (under the factory system)
 numbered 18,475, and the total capital invested in manufacturing was
-$50,925,630; the gross value of products was $41,160,276; the net value
+$50,925,630; the [[Gross|gross]] value of products was $41,160,276; the net value
 (deducting the value of material purchased in partly manufactured form)
 was $16,276,470. The principal industry was the manufacture of iron and
-steel products, which, including steel and rolling mills, car, foundry
-and machine shops, and shipyards, represented more than 30% of the total
+steel products, which, including steel and rolling mills, [[Car|car]], foundry
+and [[Machine|machine]] shops, and shipyards, represented more than 30% of the total
 capital, and approximately 25% of the total gross product of the
 manufactures in the state. The tanning, currying and finishing of
 leather ranks second in importance, with a gross product ($10,250,842)
@@ -130,7 +130,7 @@ state below Wilmington, and another line, the Maryland, Delaware &
 Virginia (controlled by the Baltimore, Chesapeake & Atlantic railway,
 which is related to the Pennsylvania system), connects Lewes, Del., with
 Love Point, Md., on the Chesapeake Bay. There is no state railway
-commission, and the farmers of southern Delaware have suffered from
+commission, and the [[Farmer|farmers]] of southern Delaware have suffered from
 excessive freight rates. The Delaware & Chesapeake Canal (13(1/2) m.
 long, 66 ft. wide and 10 ft. deep) crosses the N. part of the state,
 connecting Delaware river and Chesapeake Bay, and thus affords
@@ -139,7 +139,7 @@ completed in 1829; in 1907 a commission appointed by the president to
 report on a route for a waterway between Chesapeake and Delaware bays
 selected the route of this canal. The states of Maryland and Delaware
 aided in its construction, and in 1828 the national government also made
-an appropriation. Wilmington is a customs district in which New Castle
+an [[Appropriation|appropriation]]. Wilmington is a customs district in which New Castle
 and Lewes are included; but its trade is largely coastwise. Rehoboth and
 Indian River bays are navigable for vessels of less than 6 ft. draft.
 Opposite Lewes is the Delaware Breakwater (begun in 1818 and completed
@@ -149,7 +149,7 @@ harbour of refuge, formed by a second breakwater 2(1/4) m. N. of the
 existing one; its protected anchorage is 552 acres and the cost was more
 than $2,090,000. The harbour is about equidistant from New York,
 Philadelphia, and the capes of Chesapeake Bay, and is used chiefly by
-vessels awaiting orders to ports for discharge or landing. The national
+vessels awaiting orders to ports for [[Discharge|discharge]] or landing. The national
 government also made appropriations for opening an inland waterway from
 Lewes to Chincoteague Bay, Virginia, for improving Wilmington harbour,
 and for making navigable several of the larger streams of the state.
@@ -174,10 +174,10 @@ only city having more than 5000 inhabitants) was, in 1900, 41.4% of the
 state's population. There were thirty-five incorporated cities and
 towns. The largest of these was the city of Wilmington, with 76,508
 inhabitants. The city next in size, New Castle, had a population of
-3380, while the largest town, Dover, the capital of the state, had 3329.
-The total number of communicants of all denominations in 1906 was
+3380, while the largest town, [[Dover]], the capital of the state, had 3329.
+The total number of communicants of all [[Denomination|denominations]] in 1906 was
 71,251,--32,402 Methodists, 24,228 Roman Catholics, 5200 Presbyterians,
-3796 Protestant Episcopalians, and 2921 Baptists.
+3796 Protestant Episcopalians, and 2921 [[Baptists]].
 
 _Government._--The constitution by which Delaware is governed was
 adopted in 1897. Like the previous constitutions of 1776, 1792 and 1831,
@@ -190,7 +190,7 @@ or poll taxes are abolished; but suffrage is limited to male adults who
 can read the state constitution in English, and can write their names,
 unless physically disqualified, and who have registered. In 1907 an
 amendment to the constitution was adopted, which struck out from the
-instrument the clause requiring the payment of a registration fee of one
+instrument the clause requiring the payment of a registration [[Fee|fee]] of one
 dollar by each elector. Important innovations in the constitution of
 1897 are the office of lieutenant-governor, and the veto power of the
 governor which may extend to parts and clauses of appropriation bills,
@@ -221,7 +221,7 @@ years. A certain number of them hold courts of chancery, general
 sessions, oyer and terminer, and an orphans' court; the six together
 constitute the supreme court, but the judge from whose decision appeal
 is made may not hear the appealed case unless the appeal is made at his
-own instance. Bribery may be punished by fine, imprisonment and
+own instance. [[Bribery]] may be punished by fine, imprisonment and
 disfranchisement for ten years. Corporations cannot be created by a
 special act of the legislature, and no corporation may issue stock
 except for an equivalent value of money, labour or property. In order to
@@ -232,10 +232,10 @@ name of trust companies. Legislative divorces are forbidden by the
 constitution, and a statute of 1901 subjects wife-beaters to corporal
 punishment. Although punishment by whipping and by standing in the
 pillory was prohibited by an act of Congress in 1839, in so far as the
-Federal government had jurisdiction, both these forms of punishment were
+[[Federal Government|Federal government]] had jurisdiction, both these forms of punishment were
 retained in Delaware, and standing in the pillory was prescribed by
 statute as a punishment for a number of offences, including various
-kinds of larceny and forgery, highway robbery, and even pretending "to
+kinds of [[Larceny|larceny]] and [[Forgery|forgery]], highway robbery, and even pretending "to
 exercise the art of witchcraft, fortune-telling or dealing with
 spirits," at least until 1893. In 1905, by a law approved on the 20th of
 March, the pillory was abolished. The whipping-post was in 1908 still
@@ -254,19 +254,19 @@ inflicted publicly by strokes on the bare back, well laid on."
 The unit of local government is the "hundred," which corresponds to the
 township of Pennsylvania. The employment of children under fourteen
 years of age in factories is forbidden by statute. Divorces are granted
-for adultery, desertion for three years, habitual drunkenness, impotence
-at the time of marriage, fraud, lack of marriageable age (eighteen for
+for adultery, [[Desertion|desertion]] for three years, habitual [[Drunkenness|drunkenness]], [[Impotence|impotence]]
+at the time of marriage, [[Fraud|fraud]], lack of marriageable age (eighteen for
 males, sixteen for females), and failure of husband to provide for his
 wife during three consecutive years. The marriages of whites with
 negroes and of insane persons are null; but the children of the married
 insane are legitimate.
 
-In 1908 the state debt was $816,785, and the assets in bonds, railway
+In 1908 the state [[Debt|debt]] was $816,785, and the assets in bonds, railway
 mortgages and bank stocks exceeded the liabilities by $717,779. Besides
 the income from interest and dividends on investments, the state
 revenues are derived from taxes on licences, on commissions to public
 officers, on railway, telegraph and telephone, express, and banking
-companies, and to a slight extent from taxes on collateral inheritance.
+companies, and to a slight extent from taxes on [[Collateral|collateral]] inheritance.
 
 _Education._--The charitable and penal administration of Delaware is not
 well developed. There is a state hospital for the insane at Farnhurst.
@@ -276,12 +276,12 @@ New Castle county, in which persons under sentence must labour eight
 hours a day, pay being allowed for extra hours, and a diminution of
 sentence for good behaviour. At Wilmington is the Ferris industrial
 school for boys, a private reformatory institution to which New Castle
-county gives $146 for each boy; and the Delaware industrial school for
+county gives $146 for each boy; and the Delaware [[Industrial School|industrial school]] for
 girls, also at Wilmington, receives financial support from both county
 and state.
 
 The educational system of the state has been considerably improved
-within recent years. The maintenance of a system of public schools is
+within recent years. The [[Maintenance|maintenance]] of a system of public schools is
 rendered compulsory by the state constitution, and a new compulsory
 school law came into effect in 1907. The first public school law, passed
 in 1829, was based largely on the principle of "local option," each
@@ -315,23 +315,23 @@ this college receives one-fifth of the appropriation made by the
 so-called "new Morrill Bill" of 1890.
 
 _History._--Delaware river and bay were first explored on behalf of the
-Dutch by Henry Hudson in 1609, and more thoroughly in 1615-1616 by
+Dutch by Henry [[Hudson]] in 1609, and more thoroughly in 1615-1616 by
 Cornelius Hendrikson, whose reports did much to cause the incorporation
 of the Dutch West India Company. The first settlement on Delaware soil
 was made under the auspices of members of this company in 1631 near the
 site of the present Lewes. The leaders, one of whom was Captain David P.
 de Vries, wished "to plant a colony for the cultivation of grain and
-tobacco as well as to carry on the whale fishery in that region." The
+tobacco as well as to carry on the whale [[Fishery|fishery]] in that region." The
 settlement, however, was soon completely destroyed by the Indians. (See
 LEWES.) A more successful effort at colonization was made under the
 auspices of the South Company of Sweden, a corporation organized in 1624
 as the "Australian Company," by William Usselinx, who had also been the
 chief organizer of the Dutch West India Company, and now secured a
-charter or _manifest_ from Gustavus Adolphus. The privileges of the
+charter or _[[Manifest|manifest]]_ from Gustavus Adolphus. The privileges of the
 company were extended to Germans in 1633, and about 1640 the Dutch
 members were bought out. In 1638 Peter Minuit on behalf of this company
 established a settlement at what is now Wilmington, naming it, in
-honour of the infant queen Christina, Christinaham, and naming the
+honour of the [[Infant|infant]] queen Christina, Christinaham, and naming the
 entire territory, bought by Minuit from the Minquas Indians and
 extending indefinitely westward from the Delaware river between Bombay
 Hook and the mouth of the Schuylkill river, "New Sweden." This territory
@@ -341,8 +341,8 @@ India, American, or New Sweden Company, but like its predecessor
 popularly known as the South Company, was chartered, and a governor,
 Johan Printz (c. 1600-1663) was sent out by the crown. He arrived early
 in 1643 and subsequently established settlements on the island of
-Tinicum, near the present Chester, Pennsylvania, at the mouth of Salem
-Creek, New Jersey, and near the mouth of the Schuylkill river. Friction
+Tinicum, near the present [[Chester]], Pennsylvania, at the mouth of Salem
+Creek, New Jersey, and near the mouth of the Schuylkill river. [[Friction]]
 had soon arisen with New Netherland, although, owing to their common
 dislike of the English, the Swedes and the Dutch had maintained a formal
 friendship. In 1651, however, Peter Stuyvesant, governor of New
@@ -372,12 +372,12 @@ determined by drawing an arc of a circle, 12 m. in radius, and with New
 Castle as the centre. This accounts for the present curved boundary line
 between Delaware and Pennsylvania. Previously, however, in August 1680,
 the duke of York had leased this territory for 10,000 years to William
-Penn, to whom he conveyed it by a deed of feoffment in August 1682; but
+Penn, to whom he conveyed it by a deed of [[Feoffment|feoffment]] in August 1682; but
 differences in race and religion, economic rivalry between New Castle
 and the Pennsylvania towns, and petty political quarrels over
 representation and office holding, similar to those in the other
 American colonies, were so intense that Penn in 1691 appointed a special
-deputy governor for the "lower counties." Although reunited with the
+[[Deputy|deputy]] governor for the "lower counties." Although reunited with the
 "province" of Pennsylvania in 1693, the so-called "territories" or
 "lower counties" secured a separate legislature in 1704, and a separate
 executive council in 1710; the governor of Pennsylvania, however, was
@@ -416,7 +416,7 @@ constitution. The provision of the state constitution that restricted
 suffrage to those who had paid county or poll taxes and made the tax
 lists the basis for the lists of qualified voters, opened the way for
 the disfranchisement of many negroes by fraudulent means. Consequently
-the levy court of New Castle county was indicted in the United States
+the [[Levy|levy]] court of New Castle county was indicted in the United States
 circuit court in 1872, and one of its members was convicted. Again in
 1880 the circuit court, by virtue of the Federal statute of 1872 on
 elections, appointed supervisors of elections in Delaware. The negro
@@ -434,30 +434,30 @@ representatives, while each of the other counties has seven senators and
 ten representatives.
 
 In 1889 the Republicans for the first time since the Civil War secured a
-majority in the legislature, and elected Anthony J. Higgins to the
+majority in the legislature, and elected [[Anthony]] J. Higgins to the
 United States Senate. In that year a capitalist and promoter, J. Edward
 Addicks (b. 1841, in Pennsylvania), became a citizen of the state, and
 after securing for himself the control of the Wilmington gas supply,
 systematically set about building up a personal "machine" that would
 secure his election to the national Senate as a Republican. His purpose
-was thwarted in 1893, when a Democratic majority chose, for a second
-term, George Gray (b. 1840), who from 1879 to 1885 had been the
-attorney-general of the state and subsequently was a member of the
+was thwarted in 1893, when a Democratic majority [[Chose|chose]], for a second
+term, George [[Gray]] (b. 1840), who from 1879 to 1885 had been the
+[[Attorney-General|attorney-general]] of the state and subsequently was a member of the
 Spanish-American Peace Commission at Paris in 1898 and became a judge of
 the United States circuit court, third judicial circuit, in 1899. Mr
 Addicks was an avowed candidate in 1895, but the opposition of the
 Regular Republicans, who accused him of corruption and who held the
-balance of power, prevented an election. In 1897, the legislature being
-again Democratic, Richard R. Kenney (b. 1856) was chosen to fill the
+[[Balance Of Power|balance of power]], prevented an election. In 1897, the legislature being
+again Democratic, Richard R. [[Kenney]] (b. 1856) was chosen to fill the
 vacancy for the remainder of the unexpired term. Meanwhile the two
-Republican factions continued to oppose one another, and both sent
+Republican [[Faction|factions]] continued to oppose one another, and both sent
 delegates to the national party convention in 1896, the "regular"
 delegation being seated. The expiration of Senator Gray's term in 1899
 left a vacancy, but although the Republicans again had a clear majority
 the resolution of the Regulars prevented the Union Republicans, as the
 supporters of Addicks called themselves, from seating their patron. Both
 the Regular and Union factions sent delegations to the national party
-convention in 1900, where the refusal of the Regulars to compromise led
+convention in 1900, where the refusal of the Regulars to [[Compromise|compromise]] led
 to the recognition of the Union delegates. Despite this apparent
 abandonment of their cause by the national organization, the Regulars
 continued their opposition, the state being wholly without
@@ -493,16 +493,16 @@ GOVERNORS OF DELAWARE
 PRESIDENTS OF DELAWARE
 
   John McKinley          1776-1778
-  Caesar Rodney          1778-1781
-  John Dickinson         1781-1783
+  [[Caesar]] Rodney          1778-1781
+  John [[Dickinson]]         1781-1783
   Nicholas Van Dyke      1783-1786
-  Thomas Collins         1786-1789
+  Thomas [[Collins]]         1786-1789
 
 GOVERNORS
 
-  Joshua Clayton         1789-1796 Federalist
-  Gunning Bedford        1796-1797     "
-  Daniel Rogers[1]       1797-1799     "
+  [[Joshua]] Clayton         1789-1796 Federalist
+  [[Gunning]] [[Bedford]]        1796-1797     "
+  [[Daniel]] Rogers[1]       1797-1799     "
   Richard Bassett        1799-1801     "
   James Sykes[2]         1801-1802     "
   David Hall             1802-1805 Federalist
@@ -512,7 +512,7 @@ GOVERNORS
   Daniel Rodney          1814-1817     "
   John Clarke            1817-1820     "
   Henry Malleston[3]     1820          "
-  Jacob Stout[4]         1820-1821     "
+  [[Jacob]] Stout[4]         1820-1821     "
   John Collins           1821-1822 Democratic-Republican
   Caleb Rodney[5]        1822          "
   Joseph Haslett         1822-1823 Democratic-Republican
@@ -520,7 +520,7 @@ GOVERNORS
   Samuel Paynter         1824-1827 Federalist
   Charles Polk           1827-1830     "
   David Hazzard          1830-1833 American-Republican
-  Caleb P. Bennett       1833-1836 Democrat
+  Caleb P. [[Bennett]]       1833-1836 Democrat
   Charles Polk[7]        1836-1837     "
   Cornelius P. Comegys   1837-1841 Whig
   William B. Cooper      1841-1845  "
@@ -530,20 +530,20 @@ GOVERNORS
   William Tharp          1847-1851 Democrat
   William H. Ross        1851-1855     "
   Peter F. Causey        1855-1859 Whig-Know-Nothing
-  William Burton         1859-1863 Democrat
-  William Cannon         1863-1865 Republican
+  William [[Burton]]         1859-1863 Democrat
+  William [[Cannon]]         1863-1865 Republican
   Gove Saulsbury[10]     1865-1871 Democrat
   James Ponder           1871-1875     "
   John P. Cockran        1875-1879     "
   John W. Hall           1879-1883     "
   Charles C. Stockley    1883-1887     "
-  Benjamin T. Biggs      1887-1891     "
+  [[Benjamin]] T. Biggs      1887-1891     "
   Robert J. Reynolds     1891-1895     "
   Joshua H. Marvil       1895      Republican
   William T. Watson[11]  1895-1897 Democrat
   Ebe W. Tunnell         1897-1901     "
   John Hunn              1901-1905 Republican
-  Preston Lea            1905-1909     "
+  Preston [[Lea]]            1905-1909     "
   Simeon S. Pennewill    1909          "
 
   BIBLIOGRAPHY.--Information about manufactures, mining and agriculture
@@ -551,7 +551,7 @@ GOVERNORS
   States_, especially _Bulletins 69_ and _100_. The Agricultural
   Experiment Station, at Newark, publishes in its _Annual Report_ a
   record of temperature and rainfall. For law and administration see
-  _Constitution of Delaware_ (Dover, 1899) and the _Revised Code_ of
+  _Constitution of Delaware_ (Dover, 1899) and the _Revised [[Code]]_ of
   1852, amended 1893 (Wilmington, 1893). For education see L. B. Powell,
   _History of Education in Delaware_ (Washington, 1893), and a sketch in
   the _Annual Report_ for 1902 of the United States Commissioner of
@@ -563,13 +563,13 @@ GOVERNORS
   Biography_, vol. iii.), and Carl K. S. Sprinchorn's _Kolonien Nya
   Sveriges Historia_ (1878; English translation in the _Pennsylvania
   Magazine of History and Biography_, vols. vii. and viii.) are based,
-  in part, on documents in the Swedish Royal Archives and at the
+  in part, on documents in the Swedish Royal [[Archive|Archives]] and at the
   universities of Upsala and Lund, which were unknown to Benjamin Ferris
   (_History of the Original Settlements of the Delaware_, Wilmington,
   1846) and Francis Vincent (_History of the State of Delaware_,
   Philadelphia, 1870), which ends with the English occupation in 1664.
   In vol. iv. of Justin Winsor's _Narrative and Critical History of
-  America_ (Boston, 1884) there is an excellent chapter by Gregory B.
+  America_ ([[Boston]], 1884) there is an excellent chapter by Gregory B.
   Keen on "New Sweden, or the Swedes on the Delaware," to which a
   bibliographical chapter is appended. The _Papers_ of the Historical
   Society of Delaware (1879 seq.) contain valuable material. In part ii.
@@ -580,7 +580,7 @@ GOVERNORS
   York and Pennsylvania; only one volume of the State Records has been
   published, and _Minutes of the Council of Delaware State, 1776-1792_
   (Dover, 1886). For political conditions since the Civil War see vol.
-  141 of the _North American Review_, vol. 32 of the _Forum_, and vol.
+  141 of the _North American Review_, vol. 32 of the _[[Forum]]_, and vol.
   73 of the _Outlook_--all published in New York.
 
 

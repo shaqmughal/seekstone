@@ -7,11 +7,11 @@ topic: horticulture-studies
 # Crosskey
 
 CROSSKEY, HENRY WILLIAM (1826-1893), English geologist and Unitarian
-minister, was born at Lewes in Sussex, on the 7th of December 1826.
+minister, was born at [[Lewes]] in Sussex, on the 7th of December 1826.
 After being trained for the ministry at Manchester New College
-(1843-1848), he became pastor of Friargate chapel, Derby, until 1852,
-when he accepted charge of a Unitarian congregation in Glasgow. In 1869
-he removed to Birmingham, where until the close of his life he was
+(1843-1848), he became pastor of Friargate chapel, [[Derby]], until 1852,
+when he accepted charge of a Unitarian congregation in [[Glasgow]]. In 1869
+he removed to [[Birmingham]], where until the close of his life he was
 pastor of the Church of the Messiah. While in Glasgow his interest was
 awakened in geology by the perusal of A. C. Ramsay's _Geology of the
 Isle of Arran_, and from 1855 onwards he devoted his leisure to the

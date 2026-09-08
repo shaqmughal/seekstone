@@ -17,14 +17,14 @@ perspective success, on one of the vaultings. After the death of Du
 Chesne, Philippe became first painter to the queen of France, and
 ultimately rector of the Academy of Paris. As his age advanced and his
 health failed, he retired to Port Royal, where he had a daughter
-cloistered as a nun, of whom (along with Catherine Agnes Arnauld) he
+cloistered as a nun, of whom (along with Catherine Agnes [[Arnauld]]) he
 painted a celebrated picture, now in the Louvre, highly remarkable for
 its solid unaffected truth. This, indeed, is the general character of
 his work,--grave reality, without special elevation or depth of
-character, or charm of warm or stately colour. He produced an immense
+character, or [[Charm|charm]] of warm or stately colour. He produced an immense
 number of paintings, religious and other subjects as well as portraits,
 dispersed over various parts of France, and now over the galleries of
-Europe. Philippe was a good man, indefatigable, earnest and scrupulously
+Europe. Philippe was a good man, indefatigable, [[Earnest|earnest]] and scrupulously
 religious. He died on the 12th of August 1674.
 
 ## See also

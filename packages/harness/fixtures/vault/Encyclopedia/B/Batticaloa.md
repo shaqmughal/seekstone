@@ -3,7 +3,7 @@
 BATTICALOA, the provincial capital of the eastern province of Ceylon, on
 the E. coast, 69 m. S.S.E. of Trincomalee, situated on an island in lat.
 7 deg. 44' N. and long. 81 deg. 52' E. It is of importance for its haven
-and the adjacent salt lagoons. The population of the town in 1901 was
+and the adjacent salt [[Lagoon|lagoons]]. The population of the town in 1901 was
 9969; of the district (2872 sq. m.) 143,161. The old Dutch fort dates
 from 1682. Batticaloa is the seat of a government agent and district
 judge; criminal sessions of the supreme court are also held. Rice and

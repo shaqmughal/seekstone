@@ -12,17 +12,17 @@ others, are frequently printed on cloth. In Italian, Spanish and
 Portuguese the word _mappa_ has retained its place, by the side of
 _carta_, for marine charts, but in other languages both kinds of maps[1]
 are generally known by a word derived from the Latin _charta_, as
-_carte_ in French, _Karte_ in German, _Kaart_ in Dutch. A chart, in
+_[[Carte|carte]]_ in French, _Karte_ in German, _Kaart_ in Dutch. A chart, in
 French, is called _carte hydrographique, marine or des côtes_; in
 Spanish or Portuguese _carta de marear_, in Italian _carta da navigare_,
 in German _Seekarte_ (to distinguish it from _Landkarte_), in Dutch
 _Zeekaart_ or _Paskaart_. A chart on Mercator's projection is called
 _Wassende graadkaart_ in Dutch, _carte réduite_ in French. Lastly, a
-collection of maps is called an atlas, after the figure of Atlas, the
+collection of maps is called an [[Atlas|atlas]], after the figure of Atlas, the
 Titan, supporting the heavens, which ornamented the title of Lafreri's
 and Mercator's atlases in the 16th century.
 
-_Classification of Maps._--Maps differ greatly, not only as to the scale
+_[[Classification]] of Maps._--Maps differ greatly, not only as to the scale
 on which they are drawn, but also with respect to the fullness or the
 character of the information which they convey. Broadly speaking, they
 may be divided into two classes, of which the first includes
@@ -57,20 +57,20 @@ not to be satisfied with compiling his map from existing maps, but
 should subject each explorer's account to an independent examination,
 when he will frequently find that either the explorer himself, or the
 draughtsman employed by him, has failed to introduce into his map the
-whole of the information available. Latitudes from the observations of
+whole of the information available. [[Latitude|Latitudes]] from the observations of
 travellers may generally be trusted, but longitudes should be accepted
 with caution; for so competent an observer as Captain Speke placed the
 capital of Uganda in longitude 32° 44´ E., when its true longitude as
-determined by more trustworthy observations is 32° 26´ E., an error of
+determined by more trustworthy observations is 32° 26´ E., an [[Error|error]] of
 18´. Again, on the map illustrating Livingstone's "Last Journals" the
-Luapula is shown as issuing from the Bangweulu in the north-west, when
+Luapula is shown as issuing from the [[Bangweulu]] in the north-west, when
 an examination of the account of the natives who carried the great
 explorer's remains to the coast would have shown that it leaves that
 lake on the south.
 
 The second group includes all maps compiled for special purposes. Their
 variety is considerable, for they are designed to illustrate physical
-and political geography, travel and navigation, trade and commerce, and,
+and political [[Geography|geography]], travel and navigation, trade and commerce, and,
 in fact, every subject connected with geographical distribution and
 capable of being illustrated by means of a map. We thus have (1)
 physical maps in great variety, including geological, orographical and
@@ -88,10 +88,10 @@ educational purposes.
 
 _Scale of Maps._--Formerly map makers contented themselves with placing
 upon their maps a linear scale of miles, deduced from the central
-meridian or the equator. They now add the proportion which these units
+meridian or the [[Equator|equator]]. They now add the proportion which these units
 of length have to nature, or state how many of these units are contained
 within some local measure of length. The former method, usually called
-the "natural scale," may be described as "international," for it is
+the "natural scale," may be described as "[[International|international]]," for it is
 quite independent of local measures of length, and depends exclusively
 upon the size and figure of the earth. Thus a scale of 1:1,000,000
 signifies that each unit of length on the map represents one million of
@@ -138,7 +138,7 @@ to the inordinate exaggeration of areas in high latitudes. In the case
 of topographical maps sheets bounded by meridians and parallels are to
 be commended.
 
-The meridian of Greenwich has been universally accepted as the initial
+The meridian of [[Greenwich]] has been universally accepted as the initial
 meridian, but in the case of most topographical maps of foreign
 countries local meridians are still adhered to--the more important among
 which are:--
@@ -153,7 +153,7 @@ which are:--
 
 The _outline_ includes coast-line, rivers, roads, towns, and in fact all
 objects capable of being shown on a map, with the exception of the hills
-and of woods, swamps, deserts and the like, which the draughtsman
+and of woods, swamps, [[Desert|deserts]] and the like, which the draughtsman
 generally describes as "ornament." Conventional signs and symbols are
 universally used in depicting these objects.
 
@@ -178,7 +178,7 @@ as these do not, however, satisfy scientific requirements. All objects
 on a map are required to be shown as projected horizontally upon a
 plane. This principle must naturally be adhered to when delineating the
 features of the ground. This was recognized by J. Picard and other
-members of the Academy of Science whom Colbert, in 1668, directed to
+members of the Academy of Science whom [[Colbert]], in 1668, directed to
 prepare a new map of France, for on David Vivier's map of the environs
 of Paris (1674, scale 1:86,400) very crude hachures bounding the rivers
 have been substituted for the scenographic hills of older maps. Little
@@ -205,7 +205,7 @@ Switzerland, they fully meet the requirements of the scientific man, the
 engineer and the mountain-climber. At the same time it cannot be denied
 that these maps, unless the contours are inserted at short intervals,
 lack graphic expression. Two methods are employed to attain this: the
-first distinguishes the strata or layers by colours; the second
+first distinguishes the strata or layers by [[Colours|colours]]; the second
 indicates the varying slopes by shades or hachures. The first of these
 methods yields a hypsographical, or--if the sea-bottom be included, in
 which case all contours are referred to a common datum line--a bathy
@@ -214,16 +214,16 @@ increasing in lightness on proceeding from the lowlands to the
 highlands; while General F. von Hauslab, director of the Austrian
 Surveys, in 1842, advised that the darkest tints should be allotted to
 the highlands, so that they might not obscure details in the densely
-peopled plains. The desired effect may be produced by a graduation of
+peopled plains. The desired effect may be produced by a [[Graduation|graduation]] of
 the same colour, or by a polychromatic scale--such as white, pale red,
 pale brown, various shades of green, violet and purple, in ascending
 order. C. von Sonklar, in his map of the Hohe Tauern (1:144,000; 1864)
 coloured plains and valleys green; mountain slopes in five shades of
-brown; glaciers blue or white. E. G. Ravenstein's map of Ben Nevis
+brown; glaciers blue or white. E. G. Ravenstein's map of [[Ben]] Nevis
 (1887) first employed the colours of the spectrum, viz. green to brown,
 in ascending order for the land; blue, indigo and violet for the sea,
 increasing in intensity with the height or the depth. At first
-cartographers chose their colours rather arbitrarily. Thus Horsell, who
+cartographers [[Chose|chose]] their colours rather arbitrarily. Thus Horsell, who
 was the first to introduce tints on his map of Sweden and Norway
 (1:600,000; 1835), coloured the lowlands up to 300 ft. in green,
 succeeded by red, yellow and white for the higher ground; while A.
@@ -284,7 +284,7 @@ methods of shading fail. The Dufour map of Switzerland (1:100,000) is
 one of the finest examples of this style of hill-shading. For use in the
 field, however, and for scientific work, a contoured map like
 Siegfried's atlas of Switzerland, or, in the case of hilly country, a
-map shaded on the assumption of a vertical light, will prove more useful
+map shaded on the [[Assumption|assumption]] of a vertical light, will prove more useful
 than one of these, notwithstanding that truth to nature and artistic
 beauty are claimed on their behalf.
 
@@ -294,12 +294,12 @@ method), and if this be combined with contour lines very satisfactory
 results can be achieved. If this tint be printed in grey or brown,
 isohypses, in black or red, show distinctly above it. The same
 combination is possible if hills engraved in the ordinary manner are
-printed in colours, as is done in an edition of the 1-inch ordnance map,
+printed in colours, as is done in an edition of the 1-[[Inch|inch]] ordnance map,
 with contours in red and hills hachured in brown.
 
 Efforts have been made of late years to improve the available methods of
 representing ground, especially in Switzerland, but the so-called
-stereoscopic or relief maps produced by F. Becker, X. Imfeld, Kümmerly,
+stereoscopic or relief maps produced by F. [[Becker]], X. Imfeld, Kümmerly,
 F. Leuzinger and other able cartographers, however admirable as works of
 art, do not, from the point of utility, supersede the combination of
 horizontal contours with shaded slopes, such as have been long in use.
@@ -324,7 +324,7 @@ consulting the map. It is an accepted rule now that the spelling of
 names in countries using the Roman alphabet should be retained, with
 such exceptions as have been familiarized by long usage. In such cases,
 however, the correct native form should be added within brackets, as
-Florence (Firenze), Leghorn (Livorno), Cologne (Cöln) and so on. At the
+Florence (Firenze), [[Leghorn]] (Livorno), [[Cologne]] (Cöln) and so on. At the
 same time these corrupted forms should be eliminated as far as possible.
 Names in languages not using the Roman alphabet, or having no written
 alphabet should be spelt phonetically, as pronounced on the spot. An
@@ -420,7 +420,7 @@ spherical triangle.
   These direct distances may of course differ widely with the distance
   which it is necessary to travel between two places along a road, down
   a winding river or a sinuous coast-line. Thus, the direct distance, as
-  the crow flies, between Brig and the hospice of the Simplon amounts to
+  the crow flies, between Brig and the [[Hospice|hospice]] of the Simplon amounts to
   4.42 geogr. m. (slope nearly 9°), while the distance by road measures
   13.85 geogr. m. (slope nearly 3°). Distances such as these can be
   measured only on a topographical map of a fairly large scale, for on
@@ -455,7 +455,7 @@ spherical triangle.
   from the area of the superficies or physical surface of those
   mountains exposed to the air. Thus, a slope of 45° having a surface of
   100 sq. m. projected upon a horizontal plane only measures 59 sq. m.,
-  whilst 100 sq. m. of the snowclad Sentis in Appenzell are reduced to
+  whilst 100 sq. m. of the snowclad Sentis in [[Appenzell]] are reduced to
   10 sq. m. A hypsographical map affords the readiest solution of this
   question. Given the area A of the plane between the two horizontal
   contours, the height h of the upper above the lower contour, the
@@ -490,10 +490,10 @@ of a good map, in clay or wax. If contoured maps are available it is
 easy to build up a strata-relief, which facilitates the completion of
 the relief so that it shall be a fair representation of nature, which
 the strata-relief cannot claim to be. A pantograph armed with
-cutting-files[6] which carve the relief out of a block of gypsum, was
-employed in 1893-1900 by C. Perron of Geneva, in producing his relief
+cutting-files[6] which carve the relief out of a block of [[Gypsum|gypsum]], was
+employed in 1893-1900 by C. Perron of [[Geneva]], in producing his relief
 map of Switzerland on a scale of 1:100,000. After copies of such reliefs
-have been taken in gypsum, cement, statuary pasteboard, fossil dust
+have been taken in gypsum, cement, statuary pasteboard, fossil [[Dust|dust]]
 mixed with vegetable oil, or some other suitable material, they are
 painted. If a number of copies is required it may be advisable to print
 a map of the country represented in colours, and either to emboss this
@@ -516,7 +516,7 @@ perimeter of a meridian ellipse only amounts to 0.16%, it could be shown
 only on a globe of unusual size.
 
 The method of manufacturing a globe is much the same as it was at the
-beginning of the 16th century. A matrix of wood or iron is covered with
+beginning of the 16th century. A [[Matrix|matrix]] of wood or iron is covered with
 successive layers of papers, pasted together so as to form pasteboard.
 The shell thus formed is then cut along the line of the intended equator
 into two hemispheres, they are then again glued together and made to
@@ -524,7 +524,7 @@ revolve round an axis the ends of which passed through the poles and
 entered a metal meridian circle. The sphere is then coated with plaster
 or whiting, and when it has been smoothed on a lathe and dried, the
 lines representing meridians and parallels are drawn upon it. Finally
-the globe is covered with the paper gores upon which the map is drawn.
+the globe is covered with the paper [[Gore|gores]] upon which the map is drawn.
 The adaption of these gores to the curvature of the sphere calls for
 great care. Generally from 12 to 24 gores and two small segments for the
 polar regions printed on vellum paper are used for each globe. The
@@ -535,7 +535,7 @@ Göttingen. One of the best instructions for the manufacture of globes we
 owe to Altmütter of Vienna.[8]
 
 Larger globes are usually on a stand the top of which supports an
-artificial horizon. The globe itself rotates within a metallic meridian
+artificial [[Horizon|horizon]]. The globe itself rotates within a metallic meridian
 to which its axis is attached. Other accessories are an hour-circle,
 around the north pole, a compass placed beneath the globe, and a
 flexible quadrant used for finding the distances between places. These
@@ -548,7 +548,7 @@ diameter of the globe; to find its circumference multiply the diameter
 by [pi] (3.1416).
 
 _Map Printing._--Maps were first printed in the second half of the 15th
-century. Those in the _Rudimentum novitiarum_ published at Lübeck in
+century. Those in the _Rudimentum novitiarum_ published at Lü[[Beck|beck]] in
 1475 are from woodcuts, while the maps in the first two editions of
 Ptolemy published in Italy in 1472 are from copper plates. Wood
 engraving kept its ground for a considerable period, especially in
@@ -557,12 +557,12 @@ and clearness of the maps produced by a combination of engraving and
 etching it still maintains its ground. The objection that a copper plate
 shows signs of wear after a thousand impressions have been taken has
 been removed, since duplicate plates are readily produced by
-electrotyping, while transfers of copper engravings, on stone, zinc or
+[[Electrotyping|electrotyping]], while transfers of copper engravings, on stone, zinc or
 aluminium, make it possible to turn out large editions in a
 printing-machine, which thus supersedes the slow-working hand-press.[9]
 These impressions from transfers, however, are liable to be inferior to
 impressions taken from an original plate or an electrotype. The art of
-lithography greatly affected the production of maps. The work is either
+[[Lithography|lithography]] greatly affected the production of maps. The work is either
 engraved upon the stone (which yields the most satisfactory result at
 half the cost of copper-engraving), or it is drawn upon the stone by
 pen, brush or chalk (after the stone has been "grained"), or it is
@@ -584,13 +584,13 @@ transferred to a stone or a zinc-plate, or it is impressed upon
 transfer-paper and transferred to the stone. Photographic processes have
 been utilized not only in reducing maps to a smaller scale, but also for
 producing stones and plates from which they may be printed. The
-manuscript maps intended to be produced by photographic processes upon
+[[Manuscript|manuscript]] maps intended to be produced by photographic processes upon
 stone, zinc or aluminium, are drawn on a scale somewhat larger than the
 scale on which they are to be printed, thus eliminating all those
 imperfections which are inherent in a pen-drawing. The saving in time
 and cost by adopting this process is considerable, for a plan, the
 engraving of which takes two years, can now be produced in two days.
-Another process, photo- or heliogravure, for obtaining an engraved image
+Another process, photo- or heliogravure, for obtaining an engraved [[Image|image]]
 on a copper plate, was for the first time employed on a large scale for
 producing a new topographical map of the Austrian Empire in 718 sheets,
 on a scale of 1 : 75,000, which was completed in seventeen years
@@ -612,22 +612,22 @@ HISTORY OF CARTOGRAPHY
 A capacity to understand the nature of maps is possessed even by peoples
 whom we are in the habit of describing as "savages." Wandering tribes
 naturally enjoy a great advantage in this respect over sedentary ones.
-Our arctic voyagers--Sir E. W. Parry, Sir J. Ross, Sir F. L. MacClintock
+Our [[Arctic|arctic]] voyagers--Sir E. W. Parry, Sir J. Ross, Sir F. L. MacClintock
 and others--have profited from rough maps drawn for them by Eskimos.
 Specimens of such maps are given in C. F. Hall's _Life with the
 Esquimaux_ (London, 1864). Henry Youle Hind, in his work on the Labrador
 Peninsula (London, 1863) praises the map which the Montagnais and
 Nasquapee Indians drew upon bark. Similar essays at map-making are
-reported in connexion with Australians, Maoris and Polynesians. Tupaya,
-a Tahitian, who accompanied Captain Cook in the "Endeavour" to Europe,
+reported in connexion with Australians, [[Maori|Maoris]] and Polynesians. Tupaya,
+a Tahitian, who accompanied Captain [[Cook]] in the "Endeavour" to Europe,
 supplied his patron with maps; Raraka drew a map in chalk of the Paumotu
-archipelago on the deck of Captain Wilkes's vessel; the Marshall
+archipelago on the deck of Captain Wilkes's vessel; the [[Marshall]]
 islanders, according to Captain Winkler (_Marine Rundschau_, Oct. 1893)
 possess maps upon which the bearings of the islands are indicated by
 small strokes. Far superior were the maps found among the semi-civilized
 Mexicans when the Spaniards first discovered and invaded their country.
 Among them were cadastral plans of villages, maps of the provinces of
-the empire of the Aztecs, of towns and of the coast. Montezuma presented
+the empire of the [[Aztecs]], of towns and of the coast. Montezuma presented
 Cortes with a map, painted on Nequen cloth, of the Gulf coast. Another
 map did the Conquistador good service on his campaign against Honduras
 (Lorenzana, _Historia de nueva España_, Mexico, 1770; W. H. Prescott,
@@ -641,7 +641,7 @@ relief maps on record. It is possible that these primitive efforts of
 American Indians might have been further developed, but the Spanish
 conquest put a stop to all progress, and for a consecutive history of
 the map and map-making we must turn to the Old World, and trace this
-history from Egypt and Babylon, through Greece, to our own age.
+history from Egypt and [[Babylon]], through Greece, to our own age.
 
 The ancient Egyptians were famed as "geometers," and as early as the
 days of Rameses II. (Sesostris of the Greeks, 1333-1300 B.C.) there had
@@ -659,21 +659,21 @@ error of only 7° is the orientation of the map used by Ptolemy. Scarcely
 any specimens of ancient Egyptian cartography have survived. In the
 Turin Museum are preserved two papyri with rough drawings of gold mines
 established by Sesostris in the Nubian Desert.[11] These drawings have
-been commented upon by S. Birch, F. Chabas, R. J. Lauth and other
+been commented upon by S. [[Birch]], F. Chabas, R. J. Lauth and other
 Egyptologists, and have been referred to as the two most ancient maps in
 existence. They can, however, hardly be described as maps, while in age
 they are surpassed by several cartographical clay tablets discovered in
 Babylonia. On another papyrus in the same museum is depicted the
 victorious return of Seti I. (1366-1333) from Syria, showing the road
-from Pelusium to Heroopolis, the canal from the Nile with crocodiles,
+from Pelusium to Heroopolis, the canal from the Nile with [[Crocodile|crocodiles]],
 and a lake (mod. Lake Timsah) with fish in it. Apollonius of Rhodes who
 succeeded Eratosthenes as chief librarian at Alexandria (196 B.C.)
 reports in his _Argonautica_ (iv. 279) that the inhabitants of Colchis
 whom, like Herodotus (ii., 104) he looks upon as the descendants of
-Egyptian colonists, preserved, as heirlooms, certain graven tablets
+Egyptian colonists, preserved, as [[Heirloom|heirlooms]], certain graven tablets
 ([Greek: kurbeis]) on which land and sea, roads and towns were
-accurately indicated.[12] Eustathius (since 1160 archbishop of
-Thessalonica) in his commentary on Dionysius Periegetes, mentions
+accurately indicated.[12] [[Eustathius]] (since 1160 archbishop of
+Thessalonica) in his commentary on [[Dionysius]] Periegetes, mentions
 route-maps which Sesostris caused to be prepared, while Strabo (i., 1.
 5) dwells at length upon the wealth of geographical documents to be
 found in the library of Alexandria.
@@ -696,11 +696,11 @@ having designed the first map of the world. Anaximander looked upon the
 earth as a section of a cylinder, of considerable thickness, suspended
 in the centre of the circular vault of the heavens, an idea perhaps
 borrowed from the Babylonians, for Job (xxvi. 7) already speaks of the
-earth as "hanging upon nothing." Like Homer he looked upon the habitable
+earth as "[[Hanging|hanging]] upon nothing." Like [[Homer]] he looked upon the habitable
 world ([Greek: oikoumenê]) as being circular in outline and bounded by a
 circumfluent river. The geographical knowledge of Anaximander was
 naturally more ample than that of Homer, for it extended from the
-Cassiterides or Tin Islands in the west to the Caspian in the east,
+[[Cassiterides]] or Tin Islands in the west to the Caspian in the east,
 which he conceived to open out into Oceanus. The Aegean Sea occupied the
 centre of the map, while the line where ocean and firmament seemed to
 meet represented an enlarged horizon.
@@ -722,33 +722,33 @@ information to be gathered among the merchants from all parts of the
 world who frequented an emporium like Miletus, and what he had learned
 in the course of his own extensive travels. Hecataeus was probably the
 author of the "bronze tablets upon which was engraved the whole circuit
-of the earth, the sea and rivers" (Herod, v. 49), which Aristagoras, the
-tyrant of Miletus, showed to Cleomenes, the king of Sparta, in 504,
-whose aid he sought in vain in a proposed revolt against Darius, which
+of the earth, the sea and rivers" ([[Herod]], v. 49), which Aristagoras, the
+tyrant of Miletus, showed to [[Cleomenes]], the king of Sparta, in 504,
+whose aid he sought in vain in a proposed revolt against [[Darius]], which
 resulted disastrously in 494 in the destruction of Miletus. The map of
 the world brought upon the stage in Aristophanes' comedy of _The Clouds_
-(423 B.C.), whereon a disciple of the Sophists points out upon it the
+(423 B.C.), whereon a [[Disciple|disciple]] of the Sophists points out upon it the
 position of Athens and of other places known to the audience, was
 probably of the popular circular type, which Herodotus (iv. 36) not many
 years before had derided and which was discarded by Greek cartographers
 ever after. Thus Democritus of Abdera (b. _c._ 450, d. after 360), the
-great philosopher and founder, with Leucippus, of the atomic theory, was
+great philosopher and founder, with [[Leucippus]], of the atomic theory, was
 also the author of a map of the inhabited world which he supposed to be
 half as long again from west to east, as it was broad.
 
-Dicaearcus of Messana in Sicily, a pupil of Aristotle (326-296 B.C.), is
+Dicaearcus of Messana in Sicily, a pupil of [[Aristotle]] (326-296 B.C.), is
 the author of a topographical account of Hellas, with maps, of which
 only fragments are preserved; he is credited with having estimated the
 size of the earth, and, as far as known he was the first to draw a
 parallel across a map.[14] This parallel, or dividing line, called
-_diaphragm_ (partition) by a commentator, extended due east from the
-Pillars of Hercules, through the Mediterranean, and along the Taurus and
-Imaus (Himalaya) to the eastern ocean. It divided the inhabited world,
+_[[Diaphragm|diaphragm]]_ (partition) by a commentator, extended due east from the
+Pillars of [[Hercules]], through the Mediterranean, and along the Taurus and
+Imaus ([[Himalaya]]) to the eastern ocean. It divided the inhabited world,
 as then known, into a northern and a southern half. In compiling his map
 he was able to avail himself of the information obtained by the
 _bematists_ (surveyors who determined distances by pacing) who
 accompanied Alexander the Great on his campaigns; of the results of the
-voyage of Nearchus from the Indus to the Euphrates, and of the
+voyage of Nearchus from the Indus to the [[Euphrates]], and of the
 "Periplus" of Scylax of Caryanda, which described the coast from between
 India and the head of the Arabian Gulf. On the other hand he unwisely
 rejected the results of the observations for latitude made by Pytheas in
@@ -773,14 +773,14 @@ illustrate and explain his map of the world. In this task he was much
 helped by the materials collected in his library. Among the travellers
 of whose information he was thus able to avail himself were Pytheas of
 Massilia, Patroclus, who had visited the Caspian (285-282 B.C.),
-Megasthenes, who visited Palibothra on the Ganges, as ambassador of
-Seleucus Nicator (302-291 B.C.), Timosthenus of Rhodes, the commander of
+Megasthenes, who visited Palibothra on the [[Ganges]], as ambassador of
+Seleucus Nicator (302-291 B.C.), Timosthenus of Rhodes, the [[Commander|commander]] of
 the fleet of Ptolemy Philadelphus (284-246 B.C.) who wrote a treatise
 "On harbours," and Philo, who visited Meroe on the upper Nile. His map
 formed a parallelogram measuring 75,800 stadia from Usisama (Ushant
 island) or Sacrum Promontorium in the west to the mouth of the Ganges
 and the land of the Coniaci (Comorin) in the east, and 46,000 stadia
-from Thule in the north to the supposed southern limit of Libya. Across
+from Thule in the north to the supposed southern limit of [[Libya]]. Across
 it were drawn seven parallels, running through Meroe, Syene, Alexandria,
 Rhodes, Lysimachia on the Hellespont, the mouth of the Borysthenes and
 Thule, and these were crossed at right angles by seven meridians, drawn
@@ -795,7 +795,7 @@ ignored the popular division of the world into Europe, Asia and Libya,
 and substituted for it a northern and southern division, divided by the
 parallel of Rhodes, each of which he subdivided into _sphragides_ or
 _plinthia_--seals or plinths. The principles on which these divisions
-were made remain an enigma to the present day.
+were made remain an [[Enigma|enigma]] to the present day.
 
 This map of Eratosthenes, notwithstanding its many errors, such as the
 assumed connexion of the Caspian with a northern ocean and the
@@ -807,7 +807,7 @@ connexion between the Caspian and the outer ocean. In the extreme east
 his information extended no further than that of Eratosthenes, viz. to
 India and Taprobane (Ceylon) and the Sacae (Kirghiz).
 
-Hipparchus, the famous astronomer, on the other hand, (_c._ 150 B.C.)
+[[Hipparchus]], the famous astronomer, on the other hand, (_c._ 150 B.C.)
 proved a somewhat captious critic. He justly objected to the arbitrary
 network of the map of Eratosthenes. The parallels or _climata_[16] drawn
 through places, of which the longest day is of equal length and the
@@ -817,30 +817,30 @@ meridians inserted on a like principle. In fact, he demanded that maps
 should be based upon a regular projection, several descriptions of
 which he had adopted for his star maps. He moreover accuses
 Eratosthenes, (whose determination of a degree he accepts without
-hesitation) with trusting too much to hypothesis in compiling his map
+hesitation) with trusting too much to [[Hypothesis|hypothesis]] in compiling his map
 instead of having recourse to latitudes and longitudes deduced by
 astronomical observations. Such observations, however, were but rarely
 available at the time. A few latitudes had indeed been observed, but
 although Hipparchus had shown how longitudes could be determined by the
-observation of eclipses, this method was in reality not available for
+observation of [[Eclipse|eclipses]], this method was in reality not available for
 want of trustworthy time-keepers. The determination of an ocean
 surrounding the inhabited earth he declared to be based on a mere
 hypothesis and that it would be equally allowable to describe the
 Erythraea as a sea surrounded by land. Hipparchus is not known to have
 compiled a map himself.
 
-About the same time Crates of Mallus (d. 145 B.C.) embodied the views of
+About the same time [[Crates]] of Mallus (d. 145 B.C.) embodied the views of
 the Stoic school of philosophy in a globe which has become typical as
 one of the insignia of royalty. On this globe an equatorial and a
 meridional ocean divide our earth into four quarters, each inhabited,
 thus anticipating the discovery of North and South America and
-Australia.[17]
+[[Australia]].[17]
 
 [Illustration: FIG. 2.--The Globe of Crates of Mallus.]
 
-The period between Eratosthenes and Marinus of Tyre was one of great
-political importance. Carthage had been destroyed (146 B.C.), Julius
-Caesar had carried on his campaign in Gaul (58-51 B.C.), Egypt had been
+The period between Eratosthenes and [[Marinus Of Tyre|Marinus of Tyre]] was one of great
+political importance. Carthage had been destroyed (146 B.C.), [[Julius]]
+[[Caesar]] had carried on his campaign in [[Gaul]] (58-51 B.C.), Egypt had been
 occupied (30 B.C.), Britannia conquered (A.D. 41-79), and the Roman
 empire had attained its greatest extent and power under the emperor
 Trajan (A.D. 98-117). But although military operations added to our
@@ -851,11 +851,11 @@ either give us an idea of the maps available at that time, or furnish
 information of direct service to the compiler of a map. Among the latter
 a Periplus or coastal guide of the Erythrean Sea, which clearly reveals
 the peninsular shape of India (A.D. 90) and Arrian's _Periplus Ponti
-Euxeni_ (A.D. 131) which Festus Avienus translated into Latin. Among
+Euxeni_ (A.D. 131) which Festus [[Avienus]] translated into Latin. Among
 travellers Eudoxus of Cyzicus occupies a foremost rank, since, between
 115-87 B.C. he visited India and the east coast of Africa, which
 subsequently he attempted in vain to circumnavigate by following the
-route of Hanno, along the west coast. Among geographers should be
+route of [[Hanno]], along the west coast. Among geographers should be
 mentioned Posidonius (135-51), the head of the Stoic school of Rhodes,
 who is stated to be responsible for having reduced the length of a
 degree to 500 stadia; Artemidorus of Ephesus, whose "Geographumena" (c.
@@ -863,9 +863,9 @@ degree to 500 stadia; Artemidorus of Ephesus, whose "Geographumena" (c.
 above all, Strabo, who has already been referred to. Among historians
 who looked upon geography as an important aid in their work are numbered
 Polybius (c. 210-120 B.C.), Diodorus Siculus (c. 30 B.C.) and
-Agathachidus of Cnidus (c. 120 B.C.) to whom we are indebted for a
+Agathachidus of [[Cnidus]] (c. 120 B.C.) to whom we are indebted for a
 valuable account of the Erythrean Sea and the adjoining parts of Arabia
-and Ethiopia. The _Periegesis_ of Dionysius of Alexandria is a popular
+and [[Ethiopia]]. The _Periegesis_ of Dionysius of Alexandria is a popular
 description of the world in hexameters, of no particular scientific
 value (c. A.D. 130). He as well as Artemidorus and others accepted a
 circular or ellipsoidal shape of the world and a circumfluent ocean;
@@ -873,11 +873,11 @@ Strabo alone adhered to the scientific theories of Eratosthenes.
 
 [Illustration: FIG. 3.--Ptolemy's Map.]
 
-The credit of having returned to the scientific principles innovated by
+The [[Credit|credit]] of having returned to the scientific principles innovated by
 Eratosthenes and Hipparchus is due to Marinus of Tyre (c. A.D. 120)
 which, though no longer occupying the pre-eminent position of former
 times, was yet an emporium of no inconsiderable importance, having
-extensive connexions by sea and land. The map of Marinus and the
+extensive connexions by sea and land. The map of [[Marinus]] and the
 descriptive accounts which accompanied it have perished, but we learn
 sufficient concerning them from Ptolemy to be able to appreciate their
 merits and demerits. Marinus was the first who laid down the position of
@@ -911,11 +911,11 @@ of it and declared it to be superior to Ptolemy's map.
 Ptolemy (q.v.) was the author of a _Geography_[18] (c. A.D. 150) in
 eight books. "Geography," in the sense in which he uses the term,
 signifies the delineation of the known world, in the shape of a map,
-while chorography carries out the same objects in fuller detail, with
+while chorography carries out the same objects in [[Fuller|fuller]] detail, with
 regard to a particular country. In Book I. he deals with the principles
 of mathematical geography, map projections, and sources of information
 with special reference to his predecessor Marinus. Books II. to VII.
-form an index to the maps. They contain about 8000 names, with their
+form an [[Index|index]] to the maps. They contain about 8000 names, with their
 latitudes and longitudes, and with their aid it is possible to
 reconstruct the maps. These maps existed, as a matter of course, before
 such an index could be compiled, but it is doubtful whether the maps in
@@ -944,7 +944,7 @@ that the Indian Ocean had no connexion with the western ocean, but
 formed Mare Clausum. Ptolemy knew but of a few latitudes which had been
 determined by actual observation, while of three longitudes resulting
 from simultaneous observation of eclipses he unfortunately accepted the
-least satisfactory, namely, that which placed Arbela 45° to the east of
+least satisfactory, namely, that which placed [[Arbela]] 45° to the east of
 Carthage, while the actual meridian distance only amounts to 34°. An
 even graver source of error was Ptolemy's acceptance of a degree of 500
 instead of 700 stadia. The extent to which the more correct proportion
@@ -957,8 +957,8 @@ he became the teacher of the modern world.
 _Map-Making among the Romans._--We learn from Cicero, Vitruvius, Seneca,
 Suetonius, Pliny and others, that the Romans had both general and
 topographical maps. Thus, Varro (_De rustici_) mentions a map of Italy
-engraved on marble, in the temple of Tellus, Pliny, a map of the seat of
-war in Armenia, of the time of the emperor Nero, and the more famous map
+engraved on [[Marble|marble]], in the temple of Tellus, Pliny, a map of the seat of
+war in [[Armenia]], of the time of the emperor Nero, and the more famous map
 of the Roman Empire which was ordered to be prepared for Julius Caesar
 (44 B.C.), but only completed in the reign of Augustus, who placed a
 copy of it, engraved in marble, in the Porticus of his sister Octavia (7
@@ -983,13 +983,13 @@ undertakings.
 
 Only two specimens of Roman cartography have come down to us, viz. parts
 of a plan of Rome, of the time of the emperor Septimius Severus (A.D.
-193-211), now in the Museo Capitolino, and an _itinerarium scriptum_, or
+193-211), now in the Museo Capitolino, and an _[[Itinerarium|itinerarium]] scriptum_, or
 road map of the world, compressed within a strip 745 mm. in length and
 34 mm. broad. Of its character the reduced copy of one of its 12
 sections (fig. 5) conveys an idea. The map, apparently of the 3rd
 century, was copied by a monk at Colmar, in 1265, who fortunately
 contented himself with adding a few scriptural names, and having been
-acquired by the learned Conrad Peutinger of Augsburg it became known as
+acquired by the learned Conrad Peutinger of [[Augsburg]] it became known as
 _Tabula peutingeriana_. The original is now in the imperial library of
 Vienna.[19]
 
@@ -1006,7 +1006,7 @@ the earth was still held by the more learned, but the heads of the
 church held it to be unscriptural. Pope Zachary, when in 741 he
 condemned the views of Virgilius, the learned bishop of Salzburg, an
 Irishman who had been denounced as a heretic by St Boniface, declares it
-to be _perversa et iniqua doctrina_. Even after Gerbert of Aurillac,
+to be _perversa et iniqua doctrina_. Even after [[Gerbert]] of [[Aurillac]],
 better known as Pope Sylvester II. (999-1063), Adam of Bremen (1075),
 Albertus Magnus (d. 1286), Roger Bacon (d. 1294), and indeed all men of
 leading had accepted as a fact and not a mere hypothesis the geocentric
@@ -1015,7 +1015,7 @@ of the world, nearly all of whom were monks, still looked in the main to
 the Holy Scriptures for guidance in outlining the inhabited world. We
 have to deal thus with three types of these early maps, viz. an oblong
 rectangular, a circular and an oval type, the latter being either a
-compromise between the two former, or an artistic development of the
+[[Compromise|compromise]] between the two former, or an artistic development of the
 circular type. In every instance the inhabited world is surrounded by
 the ocean. The authors of rectangular maps look upon the Tabernacle as
 an image of the world at large, and believe that such expressions as the
@@ -1034,12 +1034,12 @@ winds around the margin.
 [Illustration: FIG. 8.--Anglo-Saxon Map of the World (9th century).]
 
 The oldest rectangular map of the world is contained in a most valuable
-work written by Cosmas, an Alexandrian monk, surnamed Indicopleustes,
+work written by [[Cosmas]], an Alexandrian monk, surnamed Indicopleustes,
 after returning from a voyage to India (535 A.D.), and entitled
 _Christian Topography_. According to Cosmas (fig. 6) the inhabited earth
 has the shape of an oblong rectangle surrounded by an ocean which breaks
 in in four great gulfs--the Roman or Mediterranean, the Arabian, Persian
-and Caspian Sea. Beyond this ocean lies another world, which was
+and [[Caspian Sea]]. Beyond this ocean lies another world, which was
 occupied by man before the Deluge, and within which Cosmas placed the
 Terrestrial Paradise. Above this rise the walls of the heavens like unto
 the tent of the Tabernacle. Far more simple is a small map of the world
@@ -1097,12 +1097,12 @@ the author was able to avail himself of a map based upon that survey. A
 map essentially identical with that of Hereford, but larger--its
 diameter is 15.6 cm. (6 in.), and consequently fuller of
 information--was discovered in 1830 in the old monastery of Ebstorf in
-Hanover. Its date is 1484. Both maps abound in miniature pictures of
+[[Hanover]]. Its date is 1484. Both maps abound in miniature pictures of
 towns, animals, fabulous beings and other subjects. The Hereford map is
 surmounted by a picture of the Day of Judgment. Similar in design,
 though much smaller of scale and oval in form, are the maps which
 illustrate the popular _Polychronicon_ of Ranulf Higden, a monk of St
-Werburgh's Abbey of Chester (d. 1363).
+Werburgh's Abbey of [[Chester]] (d. 1363).
 
 [Illustration: FIG. 11.--The Hereford Map (c. 1280).]
 
@@ -1114,7 +1114,7 @@ an _alter orbis_, or fourth part of the world inhabited by
 _Antichthones_. On a diagram illustrating the origines of Isidore of
 Seville (d. 636) this country is shown, but is described as a _terra
 inhabitabilis_. It is shown likewise upon a number of maps which
-illustrate the _Commentaries on the Apocalypse_, by Beatus, a
+illustrate the _Commentaries on the Apocalypse_, by [[Beatus]], a
 Benedictine monk of the abbey of Valcavado at the foot of the hills of
 Liebana in Asturia (776).
 
@@ -1124,13 +1124,13 @@ illustrating the _Commentaries_ exist at St Sever (1050), Paris (1203),
 and Tunis; others are rectangular, the oldest being in Lord Ashburnham's
 library (970). Beatus, too, describes the southern land as
 _inhabitabilis_. The habitable world is divided among the twelve
-apostles, whose portraits are given. On the maps illustrating the
-encyclopaedic _Liber floridus_ by Lambert, a canon of St Omer (1120),
+[[Apostle|apostles]], whose portraits are given. On the maps illustrating the
+encyclopaedic _Liber floridus_ by [[Lambert]], a canon of St Omer (1120),
 this south land "unknown to the sons of Adam," is stated to be inhabited
-"according to the philosophers" by Antipodes. Lambert, indeed, seems to
+"according to the philosophers" by [[Antipodes]]. Lambert, indeed, seems to
 have believed in the sphericity of the earth. Fig. 13 shows his map of
 the world reduced from a MS. at Wolfenbüttel, to which is added a
-diagram of the zones from a MS. at Ghent, which illustrates Macrobius'
+diagram of the zones from a MS. at [[Ghent]], which illustrates Macrobius'
 commentary on Cicero's _Somnium Scipionis_. Diagrams illustrating the
 division of the world into climata, are to be found in the _opus majus_
 of Roger Bacon (d. 1294) and in Cardinal Pierre d'Ailly's _De imagine
@@ -1140,8 +1140,8 @@ Mundi_ (1410).
 
 Among countries represented on a larger scale on maps, Palestine not
 unnaturally occupies a prominent place in this age of pilgrimages and
-crusades (1095-1291). The maps which accompany St Jerome's translation
-of the _Onomasticon_ of St Eusebius (388). The same subject is
+[[Crusades|crusades]] (1095-1291). The maps which accompany St Jerome's translation
+of the _Onomasticon_ of St [[Eusebius]] (388). The same subject is
 illustrated by a picture-map in mosaic, portions of which were
 discovered in 1896 on the floor of the church of Madaba to the east of
 the Dead Sea. This is the oldest original of a map in existence, for it
@@ -1155,12 +1155,12 @@ Fulcherius of Chartres (c. 1109).
 
 [Illustration: FIG. 14.--Matthew of Paris (1236-1259).]
 
-There existed, no doubt, special maps of European countries, but the
+There existed, no doubt, special maps of [[European Countries|European countries]], but the
 only documents of that description are two maps of Great Britain, the
-one of the 12th century, the other by Matthew of Paris, the famous
+one of the 12th century, the other by [[Matthew]] of Paris, the famous
 historiographer of the monastery of St Albans (1236-1259).[20]
 
-Celestial globes were known in the time of Bede; they formed part of the
+Celestial globes were known in the time of [[Bede]]; they formed part of the
 educational apparatus of the monastic schools. Gerbert of Aurillac is
 known to have made such globes (929). Their manufacture is described by
 Alphonso the Wise (1252), as also in _De sphaera solida_ of G. Campanus
@@ -1168,7 +1168,7 @@ of Novara (1303). Terrestrial globes, however, are not referred to.
 
 _Map-making among the Arabians and other Nations of the East._--Bagdad
 early became a famous seat of learning. Indian astronomers found apt
-pupils there among the Arabs; the works of Ptolemy were translated into
+pupils there among the [[Arabs]]; the works of Ptolemy were translated into
 Arabic, and in 827, in the reign of the caliph Abdullah al Mamun, an arc
 of the meridian was measured in the plain of Mesopotamia. Most famous
 among these Arabian astronomers were Al Batani (d. 998), Ibn Yunis of
@@ -1184,11 +1184,11 @@ Abul Hassan (1230) who reduced the great axis of the Mediterranean to
 
 Further materials serviceable to the compilers of maps were supplied by
 numerous Arabian travellers and geographers, among whom Masudi
-(915-940), Istakhri (950), Ibn Haukal (942-970), Al Biruni (d. 1038),
+(915-940), Istakhri (950), [[Ibn Haukal]] (942-970), Al Biruni (d. 1038),
 Ibn Batuta (1325-1356) and Abul Feda (1331-1370), occupy a foremost
 place, yet the few maps which have reached us are crude in the extreme.
 Masudi, who saw the maps in the Horismos or Rasm el Ard, a description
-of the world by Abu Jafar Mahommed ben Musa of Khiva, the librarian of
+of the world by Abu Jafar Mahommed ben Musa of [[Khiva]], the librarian of
 the caliph el Mamun (833), declares them to be superior to the maps of
 Ptolemy or Marinus, but maps of a later date by Istakhri (950) or Ibn al
 Wardi (1349) are certainly of a most rudimentary type. Nor can Idrisi's
@@ -1196,7 +1196,7 @@ map of the world, which was engraved for King Roger of Sicily upon a
 silver plate, or the rectangular map in 70 sheets which accompanies his
 geography (Nushat-ul Mushtat) take rank with Ptolemy's work. These maps
 are based upon information collected during many years at the instance
-of King Roger. The seven climates adopted by Idrisi are erroneously
+of King Roger. The seven climates adopted by [[Idrisi]] are erroneously
 supposed to be equal in latitudinal extent. The Mediterranean occupies
 nearly half the inhabited world in longitude, and the east coast of
 Africa is shown as if it extended due east.
@@ -1206,7 +1206,7 @@ several of their celestial globes are to be found in our collections.
 The oldest of these globes was made at Valentia, and is now in the
 museum of Florence. Another globe (of 1225) is at Velletri; a third by
 Ibn Hula of Mosul (1275) is the property of the Royal Asiatic Society of
-London; a fourth (1289) from the observatory of Maragha, in the Dresden
+London; a fourth (1289) from the observatory of Maragha, in the [[Dresden]]
 Museum, two globes of uncertain age at Paris (see fig. 17) and another
 in London. All these globes are of metal (bronze), or they might not
 have survived so many years.
@@ -1224,7 +1224,7 @@ the Barrow of the Great Bear above the horizon. This altitude was
 expressed in _isbas_ or inches each equivalent to 1° 42´ 50´´. Each
 _isba_ was divided into _zams_ or eights. The interval between two
 parallels thus only amounted to 12´ 51´´. These intervals were mistaken
-by the Portuguese occasionally for degrees, which account for Malacca,
+by the Portuguese occasionally for degrees, which account for [[Malacca]],
 which is in lat. 2´ 13´´ N., being placed on Cantino's Chart (1502) in
 lat. 14´ S. It may have been a map of this kind which accounts for
 Ptolemy's moderate exaggerations of the size of Taprobana (Ceylon). A
@@ -1252,7 +1252,7 @@ as early as 1000 B.C. for determining latitudes.
 [Illustration: FIG. 18.--The Indian Ocean according to Mohit, as
 interpreted by Dr Tomaschek.]
 
-In the case of Japan, the earliest reference to a map is of 646, in
+In the case of [[Japan]], the earliest reference to a map is of 646, in
 which year the emperor ordered surveys of certain provinces to be made.
 
 _Portolano Maps._--During the long period of stagnation in cartography,
@@ -1307,7 +1307,7 @@ to the Atlantic seaboard the two were assumed to be identical.
 secretorum fidelium crucis_.]
 
 On these old charts the Mediterranean is delineated with surprising
-fidelity. The meridian distance between the Straits of Gibraltar and
+fidelity. The meridian distance between the Straits of [[Gibraltar]] and
 Beirut in Syria amounts upon them to about 3000 Portolano miles, equal
 in lat. 36° N. to 40.9°, as compared with an actual difference of 41.2°,
 and a difference of 61° assumed by Ptolemy. There exists, however, a
@@ -1319,14 +1319,14 @@ due east and west of each other, although there is a difference of 5° of
 latitude between them, a fact known long before Ptolemy.
 
 The production of these charts employed numerous licensed draughtsmen in
-the principal seaports of Italy and Catalonia, and among seamen these
+the principal seaports of Italy and [[Catalonia]], and among seamen these
 MS. charts remained popular long after the productions of the
 printing-press had become available. The oldest of these maps which have
 been preserved, the so-called "Pisan chart," which belongs probably to
 the middle of the 13th century, and a set of eight charts, known by the
-name of its former owner, the Cavaliere Tamar Luxoro, of somewhat later
+name of its former owner, the [[Cavaliere]] Tamar Luxoro, of somewhat later
 date, are both the work of Genoese artists. Among more eminent Genoese
-cartographers are Joannes da Carignano (d. 1344), Petrus Vesconte, who
+cartographers are Joannes da [[Carignano]] (d. 1344), Petrus Vesconte, who
 worked in 1311 and 1327, and is the draughtsman of the maps illustrating
 Marino Sanuto's _Liber secretorum fidelium crucis_, which was to have
 roused Christendom to engage in another crusade (figs. 19 and 21)
@@ -1347,7 +1347,7 @@ Freducci (1497-1538).
 The earliest among Majorcan and Catalonian cartographers is Angelino
 Dulcert (1325-1339) whom A. Managhi claims as a Genoese, whose true name
 according to him was Angelino Dalorto. Other Catalans are Jahuda
-Cresques, a Jew of Barcelona, the supposed author of the famous Catalan
+Cresques, a Jew of [[Barcelona]], the supposed author of the famous Catalan
 map of the world (1375), Guglielmo Solerio (1384), Mecia de Viladestes
 (1413-1433) Gabriel de Valleseche (1439-1447) and Pietro Roselli, a
 pupil of Beccario of Genoa (1462).
@@ -1360,7 +1360,7 @@ far east as the Gulf of Persia, whilst the Medicean map of 1356 (at
 Florence) is remarkable on account of a fairly correct delineation of
 the Caspian, the Shari river in Africa, and the correct direction given
 to the west coast of India, which had already been pointed out in a
-letter of the friar Giovanni da Montecorvino of 1252. Most of the
+letter of the [[Friar|friar]] Giovanni da Montecorvino of 1252. Most of the
 expansions of Portolano maps into maps of the world are circular in
 shape, and resemble the wheel maps of an earlier period. This is the
 character of the map of Petrus Vesconte of 1320 (fig. 21), of Giovanni
@@ -1419,14 +1419,14 @@ The geographical ideas which prevailed at the time Columbus started in
 search of Cathay may be most readily gathered from two contemporary
 globes, the one known as the Laon globe because it was picked up in 1860
 at a curiosity shop in that town, the other produced at Nuremberg in
-1492 by Martin Behaim.[22] The Laon globe is of copper gilt, and has a
+1492 by [[Martin]] Behaim.[22] The Laon globe is of copper gilt, and has a
 diameter of 170 mm. The information which it furnishes, in spite of a
 legend intended to lead us to believe that it presents us with the
 results of Portuguese explorations up to the year 1493, is of more
 ancient date. The Nuremberg globe is a work of a more ambitious order.
 It was undertaken at the suggestion of George Holzschuher, a travelled
 member of the town council. The work was entrusted to Martin Behaim, who
-had resided for six years in Portugal and the Azores, and was believed
+had resided for six years in Portugal and the [[Azores]], and was believed
 to be a thoroughly qualified cosmographer. The globe is of pasteboard
 covered with whiting and parchment, and has a diameter of 507 mm. The
 author followed Ptolemy not only in Asia, but also in the Mediterranean.
@@ -1437,7 +1437,7 @@ The ocean separating Europe from Asia is assumed as being only 126°
 wide, in accordance with Toscanelli's ideas of 1474. Very inadequate use
 has been made of the travels of Marco Polo, Nicolo de' Conti, and of
 others in the east.[23] On the other hand, the globe is made gay with
-flags and other decorations, the work of George Glockendon, a well-known
+[[Flag|flags]] and other decorations, the work of George Glockendon, a well-known
 illuminator of the time.
 
 [Illustration: FIG. 26.]
@@ -1446,7 +1446,7 @@ The maritime discoveries and surveys of that age of great discoveries
 were laid down upon so-called "plane-charts," that is, charts having
 merely equidistant parallels indicated upon them, together with the
 equator, the tropics and polar circles, or, in a more advanced stage,
-meridians also. The astrolabe quadrant or cross-staff enabled the
+meridians also. The [[Astrolabe|astrolabe]] quadrant or cross-staff enabled the
 mariner to determine his latitude with a certain amount of accuracy, but
 for his longitude he was dependent upon dead reckoning, for although
 various methods for determining a longitude were known, the available
@@ -1462,10 +1462,10 @@ latitude on his map of the northern Atlantic (1504; fig. 27).
 The chart of the world by Juan de la Cosa, the companion of Columbus, is
 the earliest extant which depicts the discoveries in the new world
 (1500), Nicolaus de Canerio, a Genoese, and the map which Alberto
-Cantino caused to be drawn at Lisbon for Hercules d'Este of Ferrara
+Cantino caused to be drawn at [[Lisbon]] for Hercules d'Este of Ferrara
 (1502), illustrating in addition the recent discoveries of the
 Portuguese in the East. Other cosmographers of distinction were Pedro
-Reinel (1504-1542), Nuno Garcia de Toreno (1520), to whom we are
+Reinel (1504-1542), Nuno [[Garcia]] de Toreno (1520), to whom we are
 indebted for 21 charts, illustrating Magellan's voyage, Diogo Ribero
 (maps of the world 1527, 1529),[24] Alonzo de Santa Cruz, of Seville,
 whose _Isolario general_ includes charts of all parts of the world
@@ -1474,7 +1474,7 @@ Desliens, Pierre Desceliers, G. Breton and V. Vallard, all of Arques,
 near Dieppe, whose charts were compiled between 1541 and 1554.
 
 Of the many general maps of the world or of particular countries, a
-large number illustrate such works as G. Reisch's _Margarita
+large number illustrate such works as G. Reisch's _[[Margarita]]
 philosophica_ (1163), the cosmographies of Peter Apianus or Bienewitz
 (1520, 1522, 1530), Seb. Münster (1544), J. Honter (1546) and Gulielmus
 Postel (1561) or the _Geographia_ of Livio Sanuto (1588); others, and
@@ -1497,11 +1497,11 @@ Waldseemüller published a large map of Europe, in 1513 he prepared his
 maps for the Strassburg edition of Ptolemy, and in 1516 he engraved a
 copy of Canerio's map of the world. The Strassburg Ptolemy of 1522
 contains Waldseemüller's maps,[25] edited on a reduced scale by
-Laurentius Frisius, together with three additional ones. The same set of
+[[Laurentius]] Frisius, together with three additional ones. The same set of
 maps is reprinted in the Strassburg edition of 1524, newly translated by
 W. Pirckheimer with notes by Joh. Müller Regiomontanus, and in the Lyon
-edition of 1535, edited by Michael Servetus. The new maps of the Basel
-edition of 1540, twenty-one in number, are by Sebastian Münster; Jacob
+edition of 1535, edited by Michael Servetus. The new maps of the [[Basel]]
+edition of 1540, twenty-one in number, are by Sebastian Münster; [[Jacob]]
 Gastaldo supplied the Venice edition of 1548 with 34 modern maps, and
 these with a few additions are repeated in Girolamo Ruscelli's Italian
 translation of Ptolemy published at Venice in 1561.
@@ -1516,7 +1516,7 @@ The number of cartographers throughout Europe was considerable, and we
 confine ourselves to mentioning a few leading men. Among them Germany is
 then represented by G. Glockedon, the author of an interesting road-map
 of central Europe (1501), Sebastian Münster (1489-1552), Elias
-Camerarius, whose map of the mark of Brandenburg won the praise of
+[[Camerarius]], whose map of the mark of Brandenburg won the praise of
 Mercator; Wolfgang Latz von Lazius, to whom we are indebted for maps of
 Austria and Hungary (1561), and Philip Apianus, who made a survey of
 Bavaria (1553-1563), which was published 1568 on the reduced scale of
@@ -1524,7 +1524,7 @@ Bavaria (1553-1563), which was published 1568 on the reduced scale of
 the 16th century. For maps of Switzerland we are indebted to Konrad
 Türst (1495-1497), Johann Stumpf (1548) and Aegidius Tschudi (1538). A
 map of the Netherlands from actual survey was produced by Jacob of
-Deventer (1536-1539). Leonardo da Vinci, the famous artist, while in the
+[[Deventer]] (1536-1539). [[Leonardo Da Vinci|Leonardo da Vinci]], the famous artist, while in the
 service of Cesare Borgia as military engineer, made surveys of several
 districts in central Italy. Other Italian cartographers of merit were
 Giovanni Battiste Agnese of Venice, whose atlases (1517-1564) enjoyed a
@@ -1537,7 +1537,7 @@ may be mentioned Oronce Finée (Finaeus), who in 1525 published a map of
 France, and Jean Jolivet (c. 1560). Gregorio Lilly (1546) and Humphrey
 Lhuyd of Denbigh (d. 1510) furnished maps of the British Isles, Olaus
 Magnus (1539) of Scandinavia, Anton Wied (1542), Sigismund von
-Herberstein (1549) and Anthony Jenkinson (1562) of Muscovy.
+Herberstein (1549) and [[Anthony]] Jenkinson (1562) of Muscovy.
 
 The cylindrical and modified conical projections of Marinus and Ptolemy
 were still widely used, the stereographical projection of Hipparchus,
@@ -1551,7 +1551,7 @@ equivalent. Petrus Apianus (1524) gave his map an elliptical shape. H.
 Glareanus (1510) was the first to employ an equidistant zenithal polar
 projection.
 
-No reasonable fault can be found with the marine surveyors of this
+No reasonable [[Fault|fault]] can be found with the marine surveyors of this
 period, but the scientific cartographers allowed themselves too
 frequently to be influenced by Ptolemaic traditions. Thus Gastaldo
 (1548) presents us with a map of Italy, which, except as to
@@ -1576,7 +1576,7 @@ Greenland (Gruenlant) to eastern Asia. Bologninus Zalterius on a map of
 continents by a narrow strait which they call Streto de Anian, thus
 anticipating the discovery of Bering Strait by more than a hundred and
 fifty years. Anian, however, which they place upon the American coast,
-is no other than Marco Polo's Anica or Anin, our modern Annam. Such an
+is no other than Marco Polo's Anica or Anin, our modern [[Annam]]. Such an
 error could never have arisen had the old compilers of maps taken the
 trouble to plan Marco Polo's routes.
 
@@ -1584,7 +1584,7 @@ _Globes_, both celestial and terrestrial, became popular after the
 discovery of America. They were included among the scientific apparatus
 of ships and of educational establishments. Columbus and Magellan had
 such globes, those of the latter produced by P. Reinel (1519), and
-Conrad Celtes tells us that he illustrated his lectures at the
+Conrad [[Celtes]] tells us that he illustrated his lectures at the
 university of Vienna with the help of globes (1501). Globes were still
 engraved on copper, or painted by hand, but since 1507, in which year
 Waldseemüller published a small globe of a diameter of 110 mm., covered
@@ -1600,11 +1600,11 @@ know that he produced four globes, three printed from segments (1515,
 1523, 1533), and one of larger size (diam. 822 mm.), which is drawn by
 hand, and is preserved in the Germanic Museum at Nuremberg. Among
 engraved globes, one of the most interesting is that which was
-discovered by R. M. Hunt in Paris, and is preserved in the Lenox
+discovered by R. M. [[Hunt]] in Paris, and is preserved in the [[Lenox]]
 Library, New York. Its diameter is only 4½ in. (127 mm.). The so-called
 "Nancy globe" is of chased silver, richly ornamented, and formerly
 served the purpose of a pyx. Its diameter is 160 mm., its date about
-1530. About the same date is assigned to a globe by Robert de Bailly,
+1530. About the same date is assigned to a globe by Robert de [[Bailly]],
 engraved on copper and gilt (diam. 440 mm.). Celestial globes were
 manufactured by Regiomontanus (d. 1476) at Nuremberg, by Joh. Stöffler
 (1499), and by G. Hartmann (1535).
@@ -1616,7 +1616,7 @@ manufactured by Regiomontanus (d. 1476) at Nuremberg, by Joh. Stöffler
 _Mercator and his Successors._--Of Gerhard Kremer (1512-1594) the
 earliest works are a map of Palestine (1537), a map of the world on a
 double heart-shaped projection (1525), and a topographical map of
-Flanders based upon his own surveys (1540), a pair of globes (1541,
+[[Flanders]] based upon his own surveys (1540), a pair of globes (1541,
 diam. 120 mm.), and a large map of Europe which has been praised
 deservedly for its accuracy (1554). He is best known by his marine chart
 (1569) and his atlas. The projection of the former may have been
@@ -1633,7 +1633,7 @@ correct, but they fail lamentably when we follow their author into
 regions--the successful delineation of which depends upon a critical
 combination of imperfect information.
 
-Even before Mercator's death, Antwerp and Amsterdam had become great
+Even before Mercator's death, [[Antwerp]] and Amsterdam had become great
 centres of cartographic activity, and they maintained their pre-eminence
 until the beginning of the 18th century. Abraham Ortelius (1527-1592),
 of Antwerp, a man of culture and enterprise, but not a scientific
@@ -1641,15 +1641,15 @@ cartographer, published the first edition of his _Theatrum orbis
 terrarum_ in 1570. It then contained 53 maps, by various authors. By
 1595 the number of maps had increased to 119, including a _Parergon_ or
 supplement of 12 maps illustrating ancient history. In 1578 was
-published the _Speculum orbis terrarum_ of Gerard de Jude or de Judaeis.
-Lucas Janszon Waghenaer (Aurigarius) of Enkhuizen published the first
+published the _Speculum orbis terrarum_ of [[Gerard]] de Jude or de Judaeis.
+[[Lucas]] Janszon Waghenaer (Aurigarius) of [[Enkhuizen]] published the first
 edition of his _Spiegel der Zeevaart_ (Mariners' Mirror) at Leiden in
 1585. It was the first collection of marine maps, lived through many
 editions, was issued in several languages and became known as
 _Charettier_ and _Waggoner_. In the same year Adrian Gerritsz published
 a valuable _Paskaarte_ of the European Sea. Ten years afterwards, in
 1595, W. Barentszoon published a marine atlas of the Mediterranean, the
-major axis of which he reduced to 42 degrees. Jodocus Hondius has
+[[Major|major]] axis of which he reduced to 42 degrees. Jodocus Hondius has
 already been referred to as the purchaser of Mercator's plates. The
 business founded by him about 1602 was continued by his sons and his
 son-in-law, Jan Janszon (Jansonius) and others. By 1653 this firm had
@@ -1662,7 +1662,7 @@ Brahe, from 1633 "mapmaker" of the states-general, and a man of
 scientific culture. He was succeeded by his son Jan (d. 1673) and
 grandson Cornelius, and before the end of the century turned out a
 _Zee-Spiegel_ of 108 charts (1623), an _Atlas novus_ (_Nieuwe Atlas_),
-1642, enlarged in the course of time until it consisted of 12 folio
+1642, enlarged in the course of time until it consisted of 12 [[Folio|folio]]
 volumes containing hundreds of maps. J. A. Colom in 1633 published a
 collection of maps under the quaint title of _Vurig Colom der Zeevaert_
 (Fiery Column of Navigation). Among more recent Dutch map publishers are
@@ -1670,7 +1670,7 @@ Nicolaus Vischer (Piscator), R. Goos, H. Doncker, F. de Wit, and J. and
 G. van Keulen, whose atlases were published between 1681 and 1722. These
 Dutch maps and charts are generally accompanied by descriptive notes or
 sailing directions printed on the back of them. A similar work is the
-_Arcano del mare_ of Sir Robert Dudley, duke of Northumberland, the
+_Arcano del mare_ of Sir Robert [[Dudley]], duke of Northumberland, the
 numerous sheets of which are on Mercator's projection (1631).
 
 [Illustration: FIG. 31.--Mercator's Chart of the World (1569).]
@@ -1685,11 +1685,11 @@ François_ (1693) with contributions by Pene, D. Cassini and others.
 These corrected longitudes were not yet available for the maps produced
 by Nicolas Sanson of Abbeville, since 1627. The cartographical
 establishment founded by him in that year was carried on after his death
-in 1667 by his sons, his son-in-law, P. Duval (d. 1683) and his grandson
+in 1667 by his sons, his son-in-law, P. [[Duval]] (d. 1683) and his grandson
 Robert du Vaugondy (d. 1766). Among the cartographers whom he employed
 were M. Tavernier and Mariette, and in many instances he mentioned the
 authors whose maps he copied. By 1710 the maps published by the firm
-numbered 466. Nicolas de Fer, the great rival of Sanson, and his heirs,
+numbered 466. Nicolas de Fer, the great rival of Sanson, and his [[Heir|heirs]],
 are stated to have published as many as 600 maps after 1700.
 
 In no other country of Europe was there at the close of the 16th century
@@ -1704,20 +1704,20 @@ and Styrai, 1669-1786); Switzerland by H. C. Gyger (Canton of Zürich, a
 masterpiece, 1667); Italy by G. A. Magini (1558-1610), and V. Coronelli,
 appointed cosmographer of the Venetian Republic, 1685, and founder of
 the Ac. Cosmogr. dei Argonauti, the earliest geographical society, and
-Diogo Homem, a Portuguese settled at Venice (1558-1574); Denmark by J.
-Mejer of Husum (1650); Sweden by A. Buraeus, the "father of Swedish
+Diogo Homem, a Portuguese settled at Venice (1558-1574); [[Denmark]] by J.
+Mejer of [[Husum]] (1650); Sweden by A. Buraeus, the "father of Swedish
 cartographers" (1650-1660); the British Islands by Ch. Saxton (County
 Atlas of England and Wales 1575), J. Speed (_Theatrum_ of Great Britain,
 1610), Timothy Pont and Robert Gordon of Strathloch (map of Scotland,
 1608), and A. Moll. A _Novus atlas sinensis_, based upon Chinese
-surveys, was published in 1655 by Martin Martini, S.J., a missionary
-recently returned from China. Isaac Voss, in his work _De Nili_ (1659),
+surveys, was published in 1655 by Martin [[Martini]], S.J., a missionary
+recently returned from China. [[Isaac]] Voss, in his work _De Nili_ (1659),
 published a map of central Africa, in which he anticipated D'Anville by
 rejecting all the fanciful details which found a place upon Filippo
 Pigafetta's map of that continent.
 
 The first maps illustrating the variation of the compass were published
-by Chris. Burrus (d. 1632) and Athanasius Kircher (_Magnes_, Rome,
+by Chris. Burrus (d. 1632) and [[Athanasius]] Kircher (_Magnes_, Rome,
 1643), and maps of the ocean and tidal currents by the latter in his
 _Mundus subterraneus_ (1665). Edmund Halley, the astronomer, compiled
 the first variation chart of scientific value (1683), as also a chart of
@@ -1725,14 +1725,14 @@ the winds (1686).
 
 Globes manufactured for commercial purposes by Blaeu and others have
 already been mentioned, but several large globes, for show rather than
-for use, were produced in addition to these. Thus A. Busch, of Limburg
+for use, were produced in addition to these. Thus A. [[Busch]], of [[Limburg]]
 (1656-1664), manufactured a globe for Duke Frederick of Holstein,
 formerly at Gottorp, but since 1713 at Tsarskoye Zelo. It has a diameter
 of 11 ft. (3.57 metres) and is hollow, the inner surface of the shell
 being covered with a star map, and the outer surface with a map of the
 world. Professor Erh. Weigel (1696) produced a hollow celestial globe in
 copper, having a small terrestrial globe in its centre. Its diameter is
-3.25 metres. Lastly there is a pair of giant globes of artistic design,
+3.25 metres. Lastly there is a pair of [[Giant|giant]] globes of artistic design,
 turned out by V. Coronelli (1623), and intended as presents to Louis
 XIV. Their diameter is nearly 5 metres. A pair of globes of 1592 by
 Emeric Molineux (diam. 610 mm.) is now in the Temple Library, and is
@@ -1742,7 +1742,7 @@ _The Eighteenth Century._--It was no mere accident which enabled France
 to enjoy a pre-eminence in cartographic work during the greater part of
 the 18th century. Not only had French men of science and scientific
 travellers done excellent work as explorers in different parts of the
-world, but France could also boast of two men, Guillaume Delisle and J.
+world, but France could also boast of two men, [[Guillaume]] [[Delisle]] and J.
 B. Bourguignon d'Anville, able to utilize in the compilation of their
 maps the information they acquired.
 
@@ -1751,7 +1751,7 @@ maps the information they acquired.
 Delisle (1675-1726) published 98 maps, and although as works of art they
 were inferior to the maps of certain contemporaries, they were far
 superior to them in scientific value. On one of his earliest maps
-compiled under advice of his father Claude (1700), he gave the
+compiled under advice of his father [[Claude]] (1700), he gave the
 Mediterranean its true longitudinal extension of 41°. It was Delisle who
 assumed the meridian of Ferro, which had been imposed upon French
 navigators by royal order (1634), to lie exactly 20° to the west of
@@ -1779,9 +1779,9 @@ _Atlantic Neptune_ (1774), a North-American Pilot (1779), which first
 made known the naval surveys of J. Cook and of others; and Tho.
 Jefferys's _West Indian_ and _American Atlases_ (1775, 1778). James
 Rennell (1742-1830), who was surveyor-general of India, published the
-_Bengal Atlas_ (1781), and sagaciously arranged the vast mass of
+_[[Bengal]] Atlas_ (1781), and sagaciously arranged the vast mass of
 information collected by British travellers and others in India and
-Africa, but it is chiefly with the name of Aaron Arrowsmith, who came to
+Africa, but it is chiefly with the name of Aaron [[Arrowsmith]], who came to
 London in 1778, and his successors, with which the glory of the older
 school of cartographers is most intimately connected. His nephew John
 died in 1873. Among local cartographers may be mentioned H. Moll (d.
@@ -1799,23 +1799,23 @@ of the Weser (1767-1787) was never published, as Frederick the Great
 feared it might prove of use to his military enemies. Switzerland is
 represented by J. J. Scheuchzer (1712), J. Gessner (d. 1790), G. Walser
 (_Atlas novus Helvetiae_, 1769), and W. R. Meyer, _Atlas der Schweiz_
-(1786-1802). Of the Austrian Netherlands, Count Joseph de Ferrari
+(1786-1802). Of the Austrian Netherlands, Count Joseph de [[Ferrari]]
 published a chorographic map on the same scale as Cassini's _Carte de la
 France_ (1777). Of Denmark a fine map was published under the auspices
-of the Academy of Science of Copenhagen (1766-1825); of Spain and
+of the Academy of Science of [[Copenhagen]] (1766-1825); of Spain and
 Portugal an atlas in 102 sheets by Thomas Lopez (1765-1802); of Russia a
 map by J. N. Delisle in 19 sheets (1730-1745); charts illustrating the
 variation of the compass and of magnetic "dip" by E. Dunn (1776), J. C.
-Wiffe (1768); a chart of the world by W. Dampier (1789). Map projections
+Wiffe (1768); a chart of the world by W. [[Dampier]] (1789). Map projections
 were dealt with by two eminent mathematicians, J. H. Lambert (1772) and
-Leonh. Euler (1777).
+Leonh. [[Euler]] (1777).
 
 On the maps of Delisle and d'Anville the ground is still represented by
 "molehills." Hachures of a rude nature first made their appearance on
 David Vivier's map of the environs of Paris (1674), and on Cassini's
 _Carte de la France_. Contour lines (isobaths) were introduced for the
 first time on a chart of the Merwede by M. S. Cruquius (1728), and on a
-chart of the English Channel by Phil. Buache (1737). Dupain-Triel,
+chart of the [[English Channel]] by Phil. Buache (1737). Dupain-Triel,
 acting on a suggestion of Du Carla, compiled a contoured map of France
 (1791), and it only needed the introduction of graduated tints between
 these contours to secure a graphic picture of the features of the
@@ -1828,7 +1828,7 @@ Two relief maps of Central Switzerland deserve to be mentioned, the one
 by R. L. Pfyffer in wax, now in Lucerne, the other by J. R. Meyer of
 Aarau and Müller of Engelberg in papier mâché, now in Zurich. Globes of
 the usual commercial type were manufactured in France by Delisle (1700),
-Forbin (1710-1731), R. and J. de Vaugondy (1752), Lalande (1771); in
+Forbin (1710-1731), R. and J. de Vaugondy (1752), [[Lalande]] (1771); in
 England by E. and G. Adams (1710-1766); Germany by Homann and Seutter
 (1750). A hollow celestial globe 18 ft. in diameter was set up by Dr
 Roger Long at Cambridge; the terrestrial globe which Count Ch. Gravie of
@@ -1853,14 +1853,14 @@ results of statistical information of every description.
 
 Germany since the middle of the 19th century has become the headquarters
 of scientific cartography. This is due as much to the inspiriting
-teachings of Ritter and Humboldt as to the general culture and
+teachings of Ritter and [[Humboldt]] as to the general culture and
 scientific training combined with technical skill commanded by the men
 who more especially devote themselves to this branch of geography, which
 elsewhere is too frequently allowed to fall into the hands of mere
-mechanics. Men like H. Berghaus (1797-1884), H. Kiepert (1818-1899), and
+mechanics. Men like H. [[Berghaus]] (1797-1884), H. [[Kiepert]] (1818-1899), and
 A. Petermann (1822-1878) must always occupy a foremost place in the
 history of cartography. Among the geographical establishments of
-Germany, that founded by Justus Perthes (1785), at Gotha, occupies the
+Germany, that founded by Justus Perthes (1785), at [[Gotha]], occupies the
 highest rank. Among its publications are A. Stieler's _Hand-Atlas_
 (1817-1832), K. von Spruner's _Historical Atlas_ (1438-1488), H.
 Berghaus' _Physical Atlas_ (1838-1842), E. von Sydow's _Wall Maps for
@@ -1874,8 +1874,8 @@ Behm, A. Supan and P. Langhans, as also the _Geographisches Jahrbuch_
 (since 1866), at first edited by E. Behm, afterwards by Professor H.
 Wagner. Among other geographical institutes in Germany which deserve
 mention are the Weimar Institut, founded in 1791 by F. J. Bertuch, and
-directed in 1845-1852 by H. Kiepert; Paul Fleming at Glogau (K. Sohr's
-Handatlas, 1845), A. Ravenstein at Frankfort, D. Reimer at Berlin (H.
+directed in 1845-1852 by H. Kiepert; Paul [[Fleming]] at Glogau (K. Sohr's
+Handatlas, 1845), A. Ravenstein at [[Frankfort]], D. Reimer at Berlin (H.
 Kiepert, _Handatlas_, 1860); R. Andree (_Hand-Atlas_, 1880), and E.
 Debes (_Hand-Atlas_, 1894) in Leipzig, and E. Hölzer in Vienna (Vincenz
 von Haardt's maps). France is represented by the publishing firms of Ch.
@@ -1911,22 +1911,22 @@ on those of a later date and on a larger scale, was very considerable.
 No such exaggeration exists in the case of reliefs of parts of the Alps,
 on a large scale, by P. Keil and Pelikan (1890), X. Imfeld (1891), P.
 Oberlerchner (1891-1895), C. Perron (1893-1900), F. Becker (1900), A.
-Heim (1904) and others. A relief globe was first suggested in a letter
+[[Heim]] (1904) and others. A relief globe was first suggested in a letter
 of M. Maestlin to J. Kepler (1596). The first globe of this description
 for the use of the blind, was made by A. Zeune in 1810. H. Erben is the
-author of a rough relief on a convex surface (1842), but the finest
+author of a rough relief on a [[Convex|convex]] surface (1842), but the finest
 example of this description is a relief of Italy, by César Pomba and H.
 Fritsche, on a scale of 1:1,000,000 and without exaggeration of heights
-(1880-1884). A map of Italy in the baptistery of St Peter at Rome has
+(1880-1884). A map of Italy in the [[Baptistery|baptistery]] of St Peter at Rome has
 occasionally been described as a relief, though it is merely a rude
 outline map of Italy, by Carlo Fontana (1698), carved into a convex
 surface.
 
-Several globes of unusual dimensions were produced in the course of last
-century. That which Colonel Langlois erected in the Champs Elysées
+Several globes of unusual [[Dimension|dimensions]] were produced in the course of last
+century. That which Colonel Langlois erected in the Champs [[Ely|Elys]]ées
 (1824) had a diameter of 39 metres. James Wyld's hollow globe, or
 "Georama," diam. 18 metres, occupied Leicester Square until swept away
-as a nuisance. The giant globe proposed by Elisée Reclus in 1895 has
+as a nuisance. The giant globe proposed by [[Eli|Elis]]ée Reclus in 1895 has
 never been erected; he has, however, produced maps on a concave surface,
 as suggested by J. D. Hauber in 1742.
 
@@ -1966,7 +1966,7 @@ as suggested by J. D. Hauber in 1742.
   Entdeckungsgeschichte von Amerika, Asien, Australien und Afrika aus
   der k. Bibliothek zu Dresden_ (Leipzig, 1903), and the Crown
   Collection of photographs of American maps (1600-1800), selected and
-  edited by A. B. Hulbert (Cleveland, 1904-1909).
+  edited by A. B. Hulbert ([[Cleveland]], 1904-1909).
 
   For reports on the progress of cartography, see _Geographisches
   Jahrbuch_ (Gotha, since 1866); for announcements of new publications,
@@ -2025,8 +2025,8 @@ scale of 1:1,000,000.
 The geological surveys of Great Britain and Ireland were connected from
 1832 to 1853 with the ordnance survey, but are now carried on
 independently. The ordnance survey, too, no longer depends on the war
-office but upon the board of agriculture and fisheries. A _Bathymetrical
-Survey of the Freshwater Lochs of Scotland_, under the direction of Sir
+office but upon the board of agriculture and [[Fisheries|fisheries]]. A _Bathymetrical
+Survey of the Freshwater [[Loch|Lochs]] of Scotland_, under the direction of Sir
 John Murray and L. Pullar, was completed in 1908, and the results
 published by the Royal Geographical Society.
 
@@ -2082,7 +2082,7 @@ Germany. A general map of the German Empire (_Uebersichtskarte_) on a
 scale of 1:200,000, in 196 sheets, is in progress since 1893. It is
 printed in three colours, and gives contours at intervals of 10 metres.
 In addition to these maps there are D. G. Reymann's well-known
-_Specialkarte von Mittel Europa_ (1:200,000), acquired by the Prussian
+_Specialkarte von Mittel [[Europa]]_ (1:200,000), acquired by the Prussian
 government in 1874 (it will ultimately consist of 796 sheets), a
 government and Liebenow's map of central Europe (1:300,000) and C.
 Vogel's beautiful map of Germany (1:500,000).
@@ -2100,7 +2100,7 @@ practically amounts to a re-survey of the entire monarchy, to be
 completed in 75 years. At the same time the cadastral plans, reduced to
 a scale of 1:25,000, are being published in photo-lithography. A general
 map of central Europe in 283 sheets published by the Austrian government
-(1:200,000) includes nearly the whole of the Balkan Peninsula.
+(1:200,000) includes nearly the whole of the [[Balkan Peninsula]].
 
 
   Switzerland.
@@ -2122,7 +2122,7 @@ ground so as to give the impression of a relief, are generally
 preferred.
 
 
-  Belgium.
+  [[Belgium]].
 
 The new survey of Belgium was completed in 1872 and there have been
 published 527 plane-table sections or _planchettes_ on a scale of
@@ -2150,16 +2150,16 @@ carried out in 1766-1825, but the maps issued by the Danish general
 staff depend upon more recent surveys. These include plane-table
 sections (_Maalebordsblade_), 1209 sheets on a scale of 1:20,000, with
 contours at intervals of 5 to 10 ft., published since 1830; _Atlasblade_
-of Jutland and of _De Danske Öer_, on a scale of 1:40,000, the former
+of [[Jutland]] and of _De Danske Öer_, on a scale of 1:40,000, the former
 in 131 sheets, since 1870, the latter, on the same scale, in 94 sheets,
 since 1890, and still in progress, and a general staff map on a scale of
-1:100,000, in 68 sheets, since 1890. Maps of the Faroer and of Iceland
+1:100,000, in 68 sheets, since 1890. Maps of the Faroer and of [[Iceland]]
 have likewise been issued.
 
 
   Scandinavia.
 
-Modern surveys in Sweden date from the organization of a corps of
+Modern surveys in Sweden date from the organization of a [[Corps|corps]] of
 "Landemätare," known since 1874 as a topographical department of the
 general staff. The maps issued by this authority include one of southern
 Sweden, 1:100,000, another of northern Sweden, 1:200,000, and a general
@@ -2178,14 +2178,14 @@ readily available map of the whole country is the 10-verst map
 (1:420,000), known as General J. A. Strelbitzki's, and published
 1865-1880. A topographic map (1:126,000) embracing the whole of western
 Russia, with Poland and the country of the Don Cossacks, is designed to
-be extended over the whole empire. Certain governments--Moscow, Kief,
-Volhynia, Bessarabia, the Crimea, &c.--have been published on a scale of
-1:24,000, while Finland, as far as 61° N., was re-surveyed in 1870-1895,
+be extended over the whole empire. Certain governments--Moscow, [[Kief]],
+Volhynia, Bessarabia, the [[Crimea]], &c.--have been published on a scale of
+1:24,000, while [[Finland]], as far as 61° N., was re-surveyed in 1870-1895,
 and a map on a scale of 1:42,000 is approaching completion.
 
 Surveys in Asiatic Russia are conducted by the topographical departments
 organized at Orenburg, Tashkent, Omsk, Irkutsk and Tiflis. To the latter
-we are indebted for a valuable map of Caucasia, 1:210,000, which since
+we are indebted for a valuable map of [[Caucasia]], 1:210,000, which since
 the first publication (1863-1885) has undergone careful revision. The
 Siberian departments have published a number of maps on a scale of
 1:420,000. In addition to these the survey for the Trans-Siberian
@@ -2224,7 +2224,7 @@ based upon surveys made by Austrian officers and revised by H. Kiepert
 (1:300,000), was published by the Military Geographical Institute of
 Vienna in 1885. Far superior to these maps is the _Karte von Attika_
 (1:100,000 and 1:25,000) based upon careful surveys made by Prussian
-officers and published by E. Curtius and J. H. Kaupert on behalf of the
+officers and published by E. [[Curtius]] and J. H. Kaupert on behalf of the
 German Archaeological Institute in Athens (1878), or A. Philippson's map
 of the Peloponnese (1:300,000; 1901).
 
@@ -2236,11 +2236,11 @@ rapid surveys carried on by Austrian and Russian officers. The Austrian
 map of central Europe embraces the whole of the Balkan Peninsula on a
 scale of 1:200,000; the Russian surveys (1877-1879) are embodied in a
 map of the eastern part of the Balkan on a scale 1:126,000, and a map
-of Bulgaria and southern Rumelia, on a scale 1:200,000, both published
+of [[Bulgaria]] and southern Rumelia, on a scale 1:200,000, both published
 in 1883. A map of Turkey in Europe, scale 1:210,000, was published by
 the Turkish general staff (1899), and another map, scale 1:250,000, by
 the intelligence division of the British war office is in progress since
-1906. Bosnia and Herzegovina are now included with the surveys of the
+1906. [[Bosnia And Herzegovina|Bosnia and Herzegovina]] are now included with the surveys of the
 Austrian Empire, the kingdom of Servia has been surveyed (1880-1891) and
 the results published on a scale of 1:75,000; in eastern Rumania surveys
 have been in progress since 1874 and the results have been published on
@@ -2265,7 +2265,7 @@ Palestine, by Lieutenant G. R. Conder and H. H. (afterwards Lord)
 Kitchener (1:63,360, 1880), of the Sinai Peninsula by Sir C. W. Wilson
 and H. S. Palmer (1:126,730, 1870), of Arabia Petraea by Dr A. Musil
 (1:300,000, 1907) or of the Aden territory (1905) are among the more
-interesting. Of Cyprus an excellent map from surveys by Major (Lord) H.
+interesting. Of [[Cyprus]] an excellent map from surveys by Major (Lord) H.
 H. Kitchener was published in 1884 (1:63,360).
 
 In the case of Persia and Afghanistan we are still dependent upon
@@ -2284,12 +2284,12 @@ and they have been extended since 1862 beyond the boundaries of India
 proper. Revenue surveys for land settlement are published on a scale of
 1:4000, but the usual scale for topographical maps is 1:63,360. An
 _Indian Atlas_, on a scale of 1:255,660, includes also Ceylon and the
-Malay Peninsula, but although begun so long ago as 1827 many of its
+[[Malay Peninsula]], but although begun so long ago as 1827 many of its
 sheets are unpublished. There are in addition an official map of India
 (1:1,000,000), the first edition of which was published in 1903, as also
-maps of the great provinces of India, including Burma, all on a scale of
+maps of the great provinces of India, including [[Burma]], all on a scale of
 1:2,827,520, and a variety of physical and statistical maps. Ceylon and
-the Straits Settlements, with the Federal Malay States, have their own
+the Straits Settlements, with the Federal [[Malay States]], have their own
 surveyors-general. The British North Borneo Company published a _Map of
 British North Borneo_, on a scale of 1:633,600 (1905).
 
@@ -2298,8 +2298,8 @@ former official of the Indian survey, which did good work in connexion
 with the determination of the Franco-Siamese frontier (1906). The
 surveys are made on the scales of 1:4000, 1:31,680 and 1:63,360.
 
-In French Indo-China surveys have been in progress since 1881. The
-Bureau of the Indo-Chinese general staff, has published a map of
+In French [[Indo-China]] surveys have been in progress since 1881. The
+[[Bureau]] of the Indo-Chinese general staff, has published a map of
 Indo-China, including Cambodia, in 45 sheets (1:200,000, 1895), while to
 the service géographique de l'Indo-Chine, organized in 1899, we owe a
 _Carte de l'Indo-Chine_ (1:500,000).
@@ -2312,22 +2312,22 @@ of the British colony of Hong-Kong, of Wei-hai-Wei and of the country
 around Kiao-chou, and the establishment of topographical offices at
 Peking and Ngan-king holds out some promise of native surveys. In the
 meantime large scale maps prepared by European authorities are to be
-welcomed, such as maps of Chih-li and Shan-tung (1:200,000), from
+welcomed, such as maps of [[Chih-Li|Chih-li]] and Shan-tung (1:200,000), from
 surveys by Prussian officers, 1901-1905, maps on East China
 (1:1,000,000) and of Yun-nan by British, German and Indian officers, of
 the Indo-Chinese frontier (1:200,000, Paris 1908), and of the upper
-Yangtsze-kiang by S. Chevalier (Shanghai, 1900).
+Yangtsze-kiang by S. [[Chevalier]] (Shanghai, 1900).
 
 Japan has a regular survey department originated by Europeans and
 successfully carried on by natives. The primary triangulation was
 completed in 1880, a topographical map coloured geologically (1:200,000)
 was published 1889-1897, and in addition to this there are being
 published an agronomical map on a scale of 1:100,000 (since 1887) and
-others. The Japanese government has likewise published a map of Korea
+others. The Japanese government has likewise published a map of [[Korea]]
 (1:1,000,000; 1898).
 
 The Philippine Islands are represented in a carefully compiled map by C.
-W. Hodgson (1:1,115,000, New York, 1908). Of Java we possess an
+W. Hodgson (1:1,115,000, New York, 1908). Of [[Java]] we possess an
 excellent topographical map based upon surveys made 1850-1887
 (1:100,000). A similar map has been in progress for Sumatra since 1883,
 while the maps for the remaining Dutch Indies are still based, almost
@@ -2341,12 +2341,12 @@ be consulted with confidence.
 
 In Africa nearly all the international boundaries have been carefully
 surveyed and marked on the ground, since 1880, and yield a good basis as
-a guide for the map compiler. A general map of Africa, by Colonel Lannoy
+a guide for the map compiler. A general map of Africa, by Colonel [[Lannoy]]
 de Bissy, on a scale of 1:2,000,000 was first published in 1882-1888,
 but is carefully revised from time to time. The geographical section of
 the British general staff is publishing maps of all Africa on scales of
 1:250,000 and 1:1,000,000. In Egypt excellent work has been done by a
-survey department organized and directed by Captain H. G. Lyons up to
+survey department organized and directed by Captain H. G. [[Lyons]] up to
 1909. It has published a topographical map of the Nile valley
 (1:50,000), an irrigation map (1:100,000), a general map (1:250,000),
 numerous cadastral plans, &c. Work on similar lines is carried on in the
@@ -2363,7 +2363,7 @@ Coast Colony is being published by Major F. G. Guggisberg since 1907
 represented on the maps of the general staff (1:250,000). The states of
 British South Africa have each their surveyor-general, and a
 reconnaissance survey has been in progress since 1903. It is based upon
-a careful triangulation, superintended by Sir D. Gill, and carried in
+a careful triangulation, superintended by Sir D. [[Gill]], and carried in
 1907 within 70 m. of Lake Tanganyika. This survey is rapidly superseding
 other maps, such as the surveyor-general's map of Cape Colony
 (1:127,000); A. Duncan's map of the Orange River State (1:148,705;
@@ -2371,7 +2371,7 @@ other maps, such as the surveyor-general's map of Cape Colony
 results of a survey of southern Rhodesia are given on the map of the
 British general staff (1:500,000; 1909), while of north-eastern Rhodesia
 we have an excellent map compiled by C. L. Beringer in 1907
-(1:1,000,000). Surveys in British Central Africa were taken up in 1894;
+(1:1,000,000). Surveys in [[British Central Africa]] were taken up in 1894;
 a survey of Lake Nyasa, by Lieut. E. L. Rhoades and W. B. Phillips, was
 published in 1902. As regards British East Africa and Uganda, the
 surveys in the latter (on scales of 1:10,000 and 1:125,000) have made
@@ -2386,10 +2386,10 @@ géographique de l'Afrique occidental and the service géographique des
 colonies. A map of Senegal (1:100,000) is in progress since 1905. The
 official maps of the other colonies have been compiled by A. Meunier
 between 1902 and 1909. They include French West Africa, (1:2,000,000;
-2nd ed., 1908), French Guinea (1:500,000; 1902) and the Ivory Coast and
-Dahomey (1:1,500,000; 1907-1908). A map of the French Congo by J. Hansen
-(1:1,500,000), was published in 1907. In Madagascar a topographical
-bureau was established by General J. S. Gallieni in 1896, and the
+2nd ed., 1908), French Guinea (1:500,000; 1902) and the [[Ivory]] Coast and
+[[Dahomey]] (1:1,500,000; 1907-1908). A map of the French Congo by J. Hansen
+(1:1,500,000), was published in 1907. In [[Madagascar]] a topographical
+bureau was established by General J. S. [[Gallieni]] in 1896, and the
 surveys are being published since 1900 on a scale of 1:100,000.
 
 As regards the German colonies we are dependent upon compilations by R.
@@ -2397,7 +2397,7 @@ Kiepert, P. Sprigade and M. Moisel. Good maps of the Portuguese colonies
 are to be found in an _Atlas colonial Portugues_, a second edition of
 which was published by the Commissão de Cartographia in 1909. Of the
 Congo State we have an official map on a scale of 1:1,000,000, published
-in 1907. Of Italian Eritrea we have excellent maps on various scales of
+in 1907. Of Italian [[Eritrea]] we have excellent maps on various scales of
 1:100,000, 1:200,000 and 1:500,000, based upon surveys made between 1888
 and 1900.
 
@@ -2419,7 +2419,7 @@ of 1:253,460 for Queensland. There are likewise maps on smaller scales,
 which undergo frequent revision. The map of British New Guinea is on a
 scale of 1:330,200 (1898). New Zealand has a good general map on a scale
 of 1:633,700. A trigonometrical survey was given up and only details of
-immediate practical use are required. The "Lands Department" of the Fiji
+immediate practical use are required. The "Lands Department" of the [[Fiji]]
 Islands has published a map on a scale of 1:380,000 (1908).
 
 
@@ -2449,7 +2449,7 @@ Maps of Newfoundland, orographical as well as geological, scale
 1:1,584,200, have been published.
 
 In the United States a "geological survey" was organized in 1879, under
-Clarence King as director, whose successor, Major J. W. Powell, rightly
+[[Clarence]] King as director, whose successor, Major J. W. Powell, rightly
 conceived that it was necessary to produce good topographical maps
 before a geological survey could be pursued with advantage. It is under
 his wise guidance that the survey has attained its present efficiency.
@@ -2465,7 +2465,7 @@ on older surveys. A "reconnaissance" map of Alaska (on a scale of
 1:250,000) was published in 1908.
 
 
-  Central America.
+  [[Central America]].
 
 In Mexico the surveys are in charge of a comision geografica-exploradora
 attached to the secretaria de Fomento, but only about 140 sheets of a
@@ -2478,7 +2478,7 @@ A useful map of Central America has been published by the topographical
 section of the British general staff on a scale of 1:170,300. Of great
 value for cartographical work is a careful survey, carried out by
 American engineers (1897-1898), for a continental railway running along
-the west coast from Mexico to Chile. In South America, in proportion to
+the west coast from Mexico to [[Chile]]. In South America, in proportion to
 the area of the country, only few surveys of a thoroughly scientific
 nature have been made, and it is therefore satisfactory that the service
 géographique of the French army should be publishing, since 1900, a map
@@ -2499,8 +2499,8 @@ be desired. Since that time, however, valuable maps have been published
 by an _Oficina de mensura de tierras_, by a _seccion de geografia y
 minas_ connected with the department of public works, by the _Oficina
 hidrografica_, and more especially in connexion with surveys
-necessitated by the boundary disputes with Argentina, which were settled
-by arbitration in 1899 and 1902. The surveys which led to the latter
+necessitated by the boundary disputes with [[Argentina]], which were settled
+by [[Arbitration|arbitration]] in 1899 and 1902. The surveys which led to the latter
 were conducted by Sir Thomas Holdich.
 
 In Venezuela a commission for producing a _plano militar_ or military
@@ -2662,7 +2662,7 @@ representation, is the projection of P.
 [Illustration: FIG. 3.]
 
 _Orthographic Projection._--In this projection the point of vision is at
-an infinite distance and the rays consequently parallel; in this case
+an [[Infinite|infinite]] distance and the rays consequently parallel; in this case
 the plane of the drawing may be supposed to pass through the centre of
 the sphere. Let the circle (fig. 3) represent the plane of the equator
 on which we propose to make an orthographic representation of meridians
@@ -2765,7 +2765,7 @@ In this projection, therefore, angles are correctly represented and
 every small triangle is represented by a similar triangle. Projections
 having this property of similar representation of small parts are called
 _orthomorphic_, _conform_ or _conformable_. The word orthomorphic, which
-was introduced by Germain[27] and adopted by Craig,[28] is perhaps the
+was introduced by Germain[27] and adopted by [[Craig]],[28] is perhaps the
 best to use.
 
 Since in orthomorphic projections very small figures are correctly
@@ -2867,7 +2867,7 @@ representation of cm.
 
     [lambda] = (1 - cos [beta])/(h + cos [beta]); [nu] = (h - 1)[lambda],
 
-    H = [nu] - (h + 1) log_e ([lambda] + 1), H´ = [lambda](2 - [nu] + (1/3)[nu]²)/(h + 1).
+    H = [nu] - (h + 1) [[Log|log]]_e ([lambda] + 1), H´ = [lambda](2 - [nu] + (1/3)[nu]²)/(h + 1).
 
   Then the value of M is
 
@@ -2884,7 +2884,7 @@ representation of cm.
   be ascertained by trial, that is to say, log H² - log H´ must be
   calculated for certain equidistant values of h, and then the
   particular value of h which corresponds to the required maximum can
-  be obtained by interpolation. Thus we find that if it be required to
+  be obtained by [[Interpolation|interpolation]]. Thus we find that if it be required to
   make the best possible perspective representation of a hemisphere, the
   values of h and k are h = 1.47 and k = 2.034; so that in this case
 
@@ -2920,7 +2920,7 @@ representation of cm.
   G, which is to occupy the centre of the map, be [gamma]; if [phi],
   [omega] be the latitude and longitude of any point P (the longitude
   being reckoned from the meridian of G), u the distance PG, and [mu]
-  the azimuth of P at G, then the spherical triangle whose sides are 90°
+  the [[Azimuth|azimuth]] of P at G, then the spherical triangle whose sides are 90°
   - [gamma], 90° - [phi], and u gives these relations--
 
     sin u sin [mu] = cos [phi] sin [omega],
@@ -2938,7 +2938,7 @@ representation of cm.
      k    h + sin [gamma] sin [phi] + cos [gamma] cos [phi] cos [omega]
 
   by which x and y can be computed for any point of the sphere. If from
-  these equations we eliminate [omega], we get the equation to the
+  these [[Equation|equations]] we eliminate [omega], we get the equation to the
   parallel whose latitude is [phi]; it is an ellipse whose centre is in
   the central meridian, and its greater axis perpendicular to the same.
   The radius of curvature of this ellipse at its intersection with the
@@ -2987,7 +2987,7 @@ parallels are represented by concentric circles and the meridians by
 straight lines radiating from the common centre; or the plane of
 projection may be parallel to the plane of some meridian, in which case
 the meridians are parallel straight lines and the parallels are
-hyperbolas; or the plane of projection may be inclined to the axis of
+[[Hyperbola|hyperbolas]]; or the plane of projection may be inclined to the axis of
 the sphere at any angle [lambda].
 
   In the latter case, which is the most general, if [theta] is the angle
@@ -3007,7 +3007,7 @@ according to the inclination of the plane of projection.
 [Illustration: (From _Text Book of Topographical Surveying_, by
 permission of the Controller of H. M. Stationery Office.)
 
-FIG. 14.--Part of the Atlantic Ocean on a Meridian Central Projection.
+FIG. 14.--Part of the [[Atlantic Ocean]] on a Meridian Central Projection.
 The shortest path between any two points is shown on this projection by
 a straight line.]
 
@@ -3041,7 +3041,7 @@ no necessary connexion between a conical projection and any touching or
 secant cone. Projections for instance which are derived by geometrical
 construction from secant cones are very poor projections, exhibiting
 large errors, and they will not be discussed. The name conical is given
-to the group embraced by the above definition, because, as is obvious, a
+to the group embraced by the above [[Definition|definition]], because, as is obvious, a
 projection so drawn can be bent round to form a cone. The simplest and,
 at the same time, one of the most useful forms of conical projection is
 the following:
@@ -3100,7 +3100,7 @@ equivalent to making the total area between the extreme parallels
 correct, and must be combined with another condition, for example, that
 the errors of scale on the extreme parallels shall be equal.
 
-  We will now discuss (a) above, viz. a conical projection with
+  We will now [[Discus|discuss]] (a) above, viz. a conical projection with
   rectified meridians and two standard parallels, the scale errors of
   the extreme parallels and parallel of maximum error being equated.
 
@@ -3245,7 +3245,7 @@ the errors of scale on the extreme parallels shall be equal.
   model of the globe may be constructed which will show by suitably
   arranging the points of contact of the zones the paths of great
   circles on the sphere. The flat model was devised by Professor J. D.
-  Everett, F.R.S., who also pointed out that the projection had the
+  [[Everett]], F.R.S., who also pointed out that the projection had the
   property of the equality of scale errors of the limiting parallels for
   zones of the same width. The projection may be termed _Everett's
   Projection_.
@@ -3592,7 +3592,7 @@ Or we may require that areas be strictly represented in the development.
 This will be effected by making [sigma][sigma]´ = 1, or [rho]d[rho] =
 sin z dz, the integral of which is [rho] = 2 sin ½z, which is the
 _Zenithal Equal-area Projection_ of Lambert, sometimes, though wrongly
-referred to as _Lorgna's Projection_ after Antonio Lorgna (b. 1736). In
+referred to as _Lorgna's Projection_ after [[Antonio]] Lorgna (b. 1736). In
 this system there is misrepresentation of form, but no misrepresentation
 of areas.
 
@@ -3652,7 +3652,7 @@ point.
     C     = 2 cot² ½[beta] log_e sec ½[beta].
 
   The limiting radius of the map is R = 2C tan ½[beta]. In this system,
-  called by Sir George Airy _Projection by balance of errors_, the total
+  called by Sir George Airy _Projection by [[Balance|balance]] of errors_, the total
   misrepresentation is an absolute minimum. For short it may be called
   _Airy's Projection_.
 
@@ -3766,7 +3766,7 @@ zenithal projections are particular groups of conical projections.
   some other parallel, e.g. the central parallel may then be made
   errorless.
 
-  The value h = 1/3, as suggested by Sir John Herschel, is admirably
+  The value h = 1/3, as suggested by Sir John [[Herschel]], is admirably
   suited for a map of the world. The representation is fan-shaped, with
   remarkably little distortion (fig. 24).
 
@@ -3807,7 +3807,7 @@ representation of small parts, a curve drawn on the sphere cutting all
 meridians at the same angle--the loxodromic curve--is projected into a
 straight line, and it is this property which renders Mercator's chart so
 valuable to seamen. For instance: join by a straight line on the chart
-Land's End and Bermuda, and measure the angle of intersection of this
+[[Land'S End|Land's End]] and Bermuda, and measure the angle of intersection of this
 line with the meridian. We get thus the bearing which a ship has to
 retain during its course between these ports. This is not great-circle
 sailing, and the ship so navigated does not take the shortest path. The
@@ -3952,7 +3952,7 @@ It is on this projection that the 1/2,500 Ordnance maps and the 6-in.
 Ordnance maps of the United Kingdom are plotted, a meridian being chosen
 for a group of counties. It is also used for the 1-in., ½ in. and ¼ in.
 Ordnance maps of England, the central meridian chosen being that which
-passes through a point in Delamere Forest in Cheshire. This projection
+passes through a point in [[Delamere]] Forest in Cheshire. This projection
 should not as a rule be used for topographical maps, but is suitable for
 cadastral plans on account of the convenience of plotting the
 rectangular co-ordinates of the very numerous trigonometrical or
@@ -4141,8 +4141,8 @@ larger, but it is also sometimes used for smaller scales.
   1772) devised the following projections of the above list: 1, 15, 17,
   and 21; his transverse cylindrical orthomorphic and the transverse
   cylindrical equal-area have not been described, as they are seldom
-  used. Among other contributors we mention Mercator, Euler, Gauss, C.
-  B. Mollweide (1774-1825), Lagrange, Cassini, R. Bonne (1727-1795),
+  used. Among other contributors we mention Mercator, Euler, [[Gauss]], C.
+  B. Mollweide (1774-1825), [[Lagrange]], Cassini, R. Bonne (1727-1795),
   Airy and Colonel A. R. Clarke.     (C. F. Cl.; A. R. C.)
 
 
@@ -4161,13 +4161,13 @@ FOOTNOTES:
 
   [4] Professor Henrici, _Report on Planimeters_ (64th meeting of the
     British Association, Oxford, 1894); J. Tennant, "The Planimeter"
-    (_Engineering_, xlv. 1903).
+    (_[[Engineering]]_, xlv. 1903).
 
   [5] H. Wagner's _Lehrbuch_ (Hanover, 1908, pp. 241-252) refers to
     numerous authorities who deal fully with the whole question of
     measurement.
 
-  [6] Kienzl of Leoben in 1891 had invented a similar apparatus which
+  [6] Kienzl of [[Leoben]] in 1891 had invented a similar apparatus which
     he called a Relief Pantograph (_Zeitschrift_, Vienna Geog. Soc.
     1891).
 
@@ -4195,13 +4195,13 @@ FOOTNOTES:
     known, was the first to utilize it for the determination of a
     latitude.
 
-  [15] If, with W. Dörpfeld, we assume an Attic stadium of 200 steps
+  [15] If, with W. Dörpfeld, we assume an [[Attic]] stadium of 200 steps
     (500 ft.) to be equal to 164 metres, a degree of 700 stad. would be
     equal to 114,800 metres, its actual length according to modern
     measurement being 110,808 metres.
 
   [16] _Climata_ based on the length of the longest day were introduced
-    by Hippocrates (_c._ 400 B.C.). _Zones_ similar to those already
+    by [[Hippocrates]] (_c._ 400 B.C.). _Zones_ similar to those already
     drawn out for the celestial sphere were first introduced by the
     Pythagoreans. Parmenides of Elea (544-430 B.C.) distinguishes five of
     these zones, viz. a torrid zone, between the tropics of summer and
@@ -4213,23 +4213,23 @@ FOOTNOTES:
     In the museum of Naples there is a celestial globe, 2 metres in
     diameter, supported upon the shoulders of an Atlas, which E. Heis,
     judging by the constellations engraved upon it (_Atlas coelestis
-    novus_, Bonn, 1872) judges to date from the 4th century B.C. It may
+    novus_, [[Bonn]], 1872) judges to date from the 4th century B.C. It may
     even be the work of Eudoxus (d. 386 B.C.) the famous astronomer.
     Aratus of Soli in Cilicia, in his poetical _Prognostics of Stars and
-    the World_, refers to a globe in his possession. Archimedes, the
+    the World_, refers to a globe in his possession. [[Archimedes]], the
     famous mathematician, had a celestial globe of glass, in the centre
-    of which was a small terrestrial globe. Hero of Alexandria (284-221
-    B.C.), the ingenious inventor of "Hero's Fountain," is believed to
+    of which was a small terrestrial globe. [[Hero Of Alexandria|Hero of Alexandria]] (284-221
+    B.C.), the ingenious inventor of "Hero's [[Fountain]]," is believed to
     have possessed a similar apparatus. The celestial globe of Hipparchus
     still existed in the Alexandrian library in the time of Ptolemy, who
     himself refers to globes in his _Almagest_, as also in the
-    _Geography_. Leontius, who wrote a book on the manufacture of globes
+    _Geography_. [[Leontius]], who wrote a book on the manufacture of globes
     (first published at Basel in 1539), is identified by Fiorini with a
     bishop of Neapolis (Cyprus) of the time of Constantine III.
     (642-668).
 
   [18] The oldest MS. of Ptolemy's _Geography_ is found in the Vatopedi
-    monastery of Mt Athos. It dates from the 12th or 13th century and was
+    monastery of Mt [[Athos]]. It dates from the 12th or 13th century and was
     published by Victor Langlois in 1867. For the latest edition we are
     indebted to the late Carl Müller (Paris, 1883-1906) to whom we are
     likewise indebted for an edition of the _Geographi graeci minores_
@@ -4246,7 +4246,7 @@ FOOTNOTES:
     1897).
 
   [22] E. G. Ravenstein, _Martin Behaim, his Life and his Globe_
-    (London, 1908). On the original only equator, ecliptics, tropics,
+    (London, 1908). On the original only equator, [[Ecliptic|ecliptics]], tropics,
     polar circles and one meridian 80° to the west of Lisbon are laid
     down.
 
@@ -4256,7 +4256,7 @@ FOOTNOTES:
     maps (Weimar, 1860).
 
   [25] Facsimiles of the maps of 1507 and 1517 were published by J.
-    Fischer and F. M. von Wieser (Innsbruck, 1903).
+    Fischer and F. M. von Wieser ([[Innsbruck]], 1903).
 
   [26] See "The Survey in British Africa": the _Annual Report_ of the
     Colonial Survey Commission.

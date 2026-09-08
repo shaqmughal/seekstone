@@ -9,7 +9,7 @@ tags: [drama-theory, history]
 # Hazlitt
 
 HAZLITT, WILLIAM (1778-1830), British literary critic and essayist, was
-born on the 10th of April 1778 at Maidstone, where his father, William
+born on the 10th of April 1778 at [[Maidstone]], where his father, William
 Hazlitt, was minister of a Unitarian congregation. The father took the
 side of the Americans in their struggle with the mother-country, and
 during a residence at Bandon, Co. Cork, interested himself in the
@@ -63,7 +63,7 @@ of Modern Philosophy_. He soon abandoned philosophy, however, to give
 his whole attention to journalism. He was parliamentary reporter and
 subsequently dramatic critic for the _Morning Chronicle_; he also
 contributed to the _Champion_ and _The Times_; but his closest connexion
-was with the _Examiner_, owned by John and Leigh Hunt. In conjunction
+was with the _Examiner_, owned by John and Leigh [[Hunt]]. In conjunction
 with Leigh Hunt he undertook the series of articles called _The Round
 Table_, a collection of essays on literature, men and manners which
 were originally contributed to the _Examiner_. To this time belong his
@@ -104,7 +104,7 @@ reception of his admirable essays was by no means in accordance with
 their deserts. Hazlitt's political sympathies and antipathies were
 vehement, and he had taken the unfashionable side. _The Quarterly
 Review_ attacked him with deliberate malignity, stopped the sale of his
-writings for a time and blighted his credit with publishers. Hazlitt
+writings for a time and blighted his [[Credit|credit]] with publishers. Hazlitt
 retaliated by his _Letter to William Gifford_ (1819), accusing the
 editor of deliberate misrepresentation. In downright abuse and
 hard-hitting, Hazlitt proved himself more than a match even for Gifford.
@@ -194,7 +194,7 @@ His son, WILLIAM HAZLITT (1811-1893), was born on the 26th of September
 on affectionate terms with both of them. He early began to write for the
 _Morning Chronicle_, and in 1833 married Caroline Reynell. He was the
 author of many translations, chiefly from the French, and of some works
-on the law of bankruptcy. He was called to the bar at the Middle Temple
+on the law of [[Bankruptcy|bankruptcy]]. He was called to the bar at the Middle Temple
 in 1844, and became registrar in the court of bankruptcy. He held this
 position for more than thirty years, retiring two years before his
 death, which took place at Addlestone, Surrey, on the 23rd of February
@@ -238,7 +238,7 @@ _Catalogue of the Huth Library_ (1880).
   to his _Literary Remains ..._ (2 vols., 1836), accompanied by
   estimates of his intellectual character by Bulwer and by Talfourd, who
   had been his fast friend. There is an excellent monograph on _William
-  Hazlitt_ (1902) by Mr Augustine Birrell, in the "English Men of
+  Hazlitt_ (1902) by Mr Augustine [[Birrell]], in the "English Men of
   Letters" series, and one in French by J. Donady (Paris, 1907), who
   also published a bibliography of his works. Valuable biographical
   particulars have been preserved in Barry Cornwall's memoirs of Lamb;

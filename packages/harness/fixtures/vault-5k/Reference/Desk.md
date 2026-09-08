@@ -51,7 +51,7 @@ severity; this was especially the case in the Dutch varieties, which
 were in a measure free adaptations of the French Louis Quinze _commode_.
 These Dutch bureaux, and the English ones made in imitation of them,
 were usually elaborately inlaid with floral designs in coloured woods;
-but whereas the Batavian marquetry was often rough and crude, the
+but whereas the Batavian [[Marquetry|marquetry]] was often rough and crude, the
 English work was usually of considerable excellence. Side by side with
 this form of writing apparatus was one variety or another of the
 writing-table proper. In so far as it is possible to generalize upon
@@ -84,7 +84,7 @@ numbers. This is indeed the old French form with a tambour cylinder, and
 it is now the desk that is most frequently met with all over the world
 for commercial purposes. Its popularity is due to its large
 accommodation, and to the facility with which the closing of the
-cylinder conceals all papers, and automatically locks every drawer. To
+cylinder conceals all papers, and automatically [[Lock|locks]] every drawer. To
 France we owe not only the invention of this ubiquitous form, but the
 construction of many of the finest and most historic desks that have
 survived--the characteristic marquetry writing-tables of the Boulle
@@ -95,7 +95,7 @@ furniture that, so far as we know, was ever constructed. This desk,
 which is now one of the treasures of the Louvre, was the work of several
 artist-artificers, chief among whom were Oeben and Riesener--Oeben, it
 may be added here as a matter of artistic interest, became the
-grandfather of Eugene Delacroix. The bureau is signed "Riesener fa. 1769
+grandfather of Eugene [[Delacroix]]. The bureau is signed "Riesener fa. 1769
 à l'Arsenal de Paris," but it has been established that, however great
 may have been the share of its construction which fell to him, the
 conception was that of Oeben. The work was ordered in 1760; it would
@@ -114,8 +114,8 @@ although it is no longer exactly as it left the hands of its makers
 (Oeben died before it was finished) the alterations that have been made
 have hardly interfered with the general effect. For the head of the king
 for whom it was made that of Minerva in a helmet was substituted under
-his successor. The ciphers of Louis XV. have been removed and replaced
-by Sèvres plaques, and even the key which bore the king's initial
+his successor. The [[Cipher|ciphers]] of Louis XV. have been removed and replaced
+by Sèvres plaques, and even the [[Key|key]] which bore the king's initial
 crowned with laurels and palm leaves, with his portrait on the one side,
 and the fleur de lys on the other, has been interfered with by an
 austere republicanism. Yet no tampering with details can spoil the

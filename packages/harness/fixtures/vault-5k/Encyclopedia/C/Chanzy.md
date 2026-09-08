@@ -10,7 +10,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Chanzy"
 
 CHANZY, ANTOINE EUGENE ALFRED (1823-1883), French general, was born at
 Nouart (Ardennes) on the 18th of March 1823. The son of a cavalry
-officer, he was educated at the naval school at Brest, but enlisted in
+officer, he was educated at the naval school at [[Brest]], but enlisted in
 the artillery, and, subsequently passing through St Cyr, was
 commissioned in the Zouaves in 1843. He saw a good deal of fighting in
 Algeria, and was promoted lieutenant in 1848, and captain in 1851. He
@@ -19,7 +19,7 @@ of 1859, being present at Magenta and Solferino. He took part in the
 Syrian campaign of 1860-61 as a lieutenant-colonel; and as colonel
 commanded the 48th regiment at Rome in 1864. He returned to Algeria as
 general of brigade, assisted to quell the Arab insurrection, and
-commanded the subdivisions of Bel Abbes and Tlemcen in 1868. Although he
+commanded the subdivisions of [[Bel]] Abbes and Tlemcen in 1868. Although he
 had acquired a good professional reputation, he was in bad odour at the
 war office on account of suspected contributions to the press, and at
 the outbreak of the Franco-German War he was curtly refused a brigade
@@ -41,7 +41,7 @@ his retreat to Le Mans, and in retiring to Laval behind the Mayenne. As
 Gambetta was the soul, Chanzy was the strong right arm of French
 resistance to the invader. He was made a grand officer of the Legion of
 Honour, and was elected to the National Assembly. At the outbreak of the
-Commune, Chanzy, then at Paris, fell into the hands of the insurgents,
+[[Commune]], Chanzy, then at Paris, fell into the hands of the insurgents,
 by whom he was forced to give his parole not to serve against them. It
 was said that he would otherwise have been appointed instead of MacMahon
 to command the army of Versailles. A ransom of L40,000 was also paid by

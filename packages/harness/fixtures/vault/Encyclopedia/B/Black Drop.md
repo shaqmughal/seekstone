@@ -1,6 +1,6 @@
 # Black Drop
 
-BLACK DROP, in astronomy, an apparent distortion of the planet Mercury
+BLACK DROP, in [[Astronomy|astronomy]], an apparent distortion of the planet Mercury
 or Venus at the time of internal contact with the limb of the sun at the
 beginning or end of a transit. It has been in the past a source of much
 perplexity to observers of transits, but is now understood to be a

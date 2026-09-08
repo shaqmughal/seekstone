@@ -16,7 +16,7 @@ built large works, including an iron-foundry and blast furnace. The
 construction of the Belgian railways in 1834 gave a great impetus to
 these works, branches of which had already been opened in France,
 Germany and Poland. In 1838 Cockerill met with a carriage accident which
-nearly proved fatal, and the prospect of his loss resulted in the credit
+nearly proved fatal, and the prospect of his loss resulted in the [[Credit|credit]]
 of the firm being so badly shaken that in 1839 it was compelled to go
 into liquidation, the liabilities being estimated at 26 millions of
 francs, the assets at 18 millions. This reverse, however, was only

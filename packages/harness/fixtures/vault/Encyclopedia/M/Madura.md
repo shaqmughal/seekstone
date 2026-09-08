@@ -15,7 +15,7 @@ the 11th century A.D. Its great temple forms a parallelogram about 847
 ft. by 729 ft., and is surrounded by nine _gopuras_, of which the
 largest is 152 ft. high. These ornamental pyramids begin with doorposts
 of single stones 60 ft. in height, and rise course upon course, carved
-with rows of gods and goddesses, peacocks, bulls, elephants, horses,
+with rows of gods and goddesses, peacocks, [[Bull|bulls]], [[Elephant|elephants]], horses,
 lions, and a bewildering entanglement of symbolical ornament all
 coloured and gilded, diminishing with distance until the stone _trisul_
 at the top looks like the finest jeweller's work. The temple, which
@@ -43,21 +43,21 @@ missionaries. He adorned Madura with many public buildings, and extended
 his empire over the adjoining districts of Tinnevelly, Travancore,
 Coimbatore, Salem and Trichinopoly. His repudiation of the nominal
 allegiance paid to the raja of Vijayanagar brought him into collision
-with the sultan of Bijapur, and after a lapse of three centuries
+with the sultan of Bijapur, and after a [[Lapse|lapse]] of three centuries
 Mahommedans again invaded Madura and compelled him to pay them tribute.
 After the death of Tirumala the kingdom of Madura gradually fell to
-pieces, being invaded by both Mahommedans and Mahrattas. About 1736 the
+pieces, being invaded by both Mahommedans and [[Mahrattas]]. About 1736 the
 district fell into the hands of the nawab of the Carnatic, and the line
 of the Nayaks was extinguished. About 1764 British officers took charge
 of Madura in trust for Mahommed Ali (Wallah Jah), the last independent
 nawab of the Carnatic, whose son finally ceded his rights of sovereignty
-to the East India Company in 1801.
+to the [[East India Company]] in 1801.
 
 The DISTRICT OF MADURA has an area of 8701 sq. m. Pop. (1901),
 2,831,280, an increase of 8.5% in the decade. It consists of a section
 of the plain stretching from the mountains east to the sea, coinciding
 with the basin of the Vaigai river, and gradually sloping to the S.E.
-The plain is broken by the outlying spurs of the Ghats, and by a few
+The plain is broken by the outlying spurs of the [[Ghats]], and by a few
 isolated hills and masses of rock scattered over the country. The most
 important spur of the Ghats is known as the Palni hills, which project
 E.N.E. across the district for a distance of about 54 m. Their highest
@@ -67,7 +67,7 @@ is situated the sanatorium of Kodaikanal, and coffee-planting is
 successfully carried on. The other principal crops of the district are
 millets, rice, other food-grains, oil-seeds and cotton. Tobacco is grown
 chiefly in the neighbourhood of Dindigul, whence it is exported to
-Trichinopoly, to be made into cigars. There are several cigar factories
+Trichinopoly, to be made into [[Cigar|cigars]]. There are several cigar factories
 and a number of saltpetre refineries. The only other large industry is
 that of coffee-cleaning. Madura is traversed by the main line of the
 South Indian railway. It has four small seaports, whose trade is chiefly

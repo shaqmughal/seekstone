@@ -59,7 +59,7 @@ it is a _cast_ with an additional thickness of printing ink.
 The most important of the tools used in line-engraving is the burin,
 which is a bar of steel with one end fixed in a handle rather like a
 mushroom with one side cut away, the burin itself being shaped so that
-the cutting end when sharpened takes the form of a lozenge, point
+the cutting end when sharpened takes the form of a [[Lozenge|lozenge]], point
 downwards. The burin acts exactly like a plough; it makes a furrow and
 turns out a shaving of metal as the plough turns the soil of a field.
 The burin, however, is pushed while the plough is pulled, and this
@@ -145,7 +145,7 @@ Italian engravings which were attributed erroneously to Mantegna. When
 we come to Mantegna himself we find a style equally decided. Drawing and
 shading were for him two entirely distinct things. He did not draw and
 shade at the same time, as a modern chiaroscurist would, but he first
-got his outlines and the patterns on his dresses all very accurate, and
+got his outlines and the patterns on his [[Dress|dresses]] all very accurate, and
 then threw over them a veil of shading, a very peculiar kind of shading,
 all the lines being straight and all the shading diagonal. This is the
 primitive method, its peculiarities being due, not to a learned
@@ -164,7 +164,7 @@ a whole generation before Dürer, yet not greatly inferior to him in the
 use of the burin, though Dürer has a much greater reputation, due in
 great measure to his singular imaginative powers. Schongauer is the
 first great German engraver known by name, but he was preceded by an
-unknown German master, called "the Master of 1466," who had Gothic
+unknown German master, called "the Master of 1466," who had [[Gothic]]
 notions of art (in strong contrast to the classicism of Baccio Baldini),
 but used the burin skilfully, conceiving of line and shade as separate
 elements, yet shading with an evident desire to follow the form of the
@@ -174,7 +174,7 @@ bold use of the burin. Outline and shade, in Schongauer, are not nearly
 so much separated as in Baccio Baldini, and the shading, generally in
 curved lines, is far more masterly than the straight shading of
 Mantegna. Dürer continued Schongauer's curved shading, with increasing
-manual delicacy and skill; and as he found himself able to perform feats
+[[Manual|manual]] delicacy and skill; and as he found himself able to perform feats
 with the burin which amused both himself and his buyers, he over-loaded
 his plates with quantities of living and inanimate objects, each of
 which he finished with as much care as if it were the most important
@@ -184,15 +184,15 @@ they drew, like children, first one object and then another object, and
 so on until the plate was furnished from top to bottom and from the left
 side to the right. Here, of course, is an element of facility in
 primitive art which is denied to the modern artist. In Dürer all objects
-are on the same plane. In his "St Hubert" (otherwise known as "St
+are on the same plane. In his "St [[Hubert]]" (otherwise known as "St
 Eustace") of c. 1505, the stag is quietly standing on the horse's back,
-with one hoof on the saddle, and the kneeling knight looks as if he were
+with one hoof on the saddle, and the kneeling [[Knight|knight]] looks as if he were
 tapping the horse on the nose. Dürer seems to have perceived the mistake
 about the stag, for he put a tree between us and the animal to correct
-it, but the stag is on the horse's back nevertheless. This ignorance of
+it, but the stag is on the horse's back nevertheless. This [[Ignorance|ignorance]] of
 the laws of effect is least visible and obtrusive in plates which have
 no landscape distances, such as "The Coat of Arms with the Death's Head"
-(1503) and "The Coat of Arms with the Cock" (c. 1512).
+(1503) and "The Coat of Arms with the [[Cock]]" (c. 1512).
 
 Dürer's great manual skill and close observation made him a wonderful
 engraver of objects taken separately. He saw and rendered all objects;
@@ -204,8 +204,8 @@ was his main subject, he would study dogs with equal care (see the five
 dogs in the "St Hubert"), as well as pigs (see the "Prodigal Son," c.
 1495); and at a time when landscape painting was unknown he studied
 every clump of trees, every visible trunk and branch, nay, every
-foreground plant, and each leaf of it separately. In his buildings he
-saw every brick like a bricklayer, and every joint in the woodwork like
+foreground plant, and each [[Leaf|leaf]] of it separately. In his buildings he
+saw every [[Brick|brick]] like a bricklayer, and every joint in the woodwork like
 a carpenter. The immense variety of the objects which he engraved was a
 training in suppleness of hand. His lines go in every direction, and are
 made to render both the undulations of surfaces (see the plane in the
@@ -241,7 +241,7 @@ Rubens understood the importance of engraving as a means of increasing
 his fame and wealth, and directed Vorsterman and others. The theory of
 engraving at that time was that it ought not to render accurately the
 local colour of painting, which would appear wanting in harmony when
-dissociated from the hues of the picture; and it was one of the
+dissociated from the [[Hue|hues]] of the picture; and it was one of the
 anxieties of Rubens so to direct his engravers that the result might be
 a fine plate independently of what he had painted. To this end he helped
 his engravers by drawings, in which he sometimes indicated what he
@@ -249,13 +249,13 @@ thought the best direction for the lines. Rubens liked Vorsterman's
 work, and scarcely corrected it, a plate he especially approved being
 "Susannah and the Elders," which is a learned piece of work well
 modelled, and shaded everywhere on the figures and costumes with fine
-curved lines, the straight line being reserved for the masonry.
+curved lines, the straight line being reserved for the [[Masonry|masonry]].
 Vorsterman quitted Rubens after executing fourteen important plates, and
 was succeeded by Paul Pontius, then a youth of twenty, who went on
 engraving from Rubens with increasing skill until the painter's death.
 Boetius a Bolswert engraved from Rubens towards the close of his life,
 and his brother Schelte a Bolswert engraved more than sixty compositions
-of Rubens, of the most varied character, including hunting scenes and
+of Rubens, of the most varied character, including [[Hunting|hunting]] scenes and
 landscapes. This brings us to the engraving of landscape as a separate
 study. Rubens treated landscape in a broad comprehensive manner, and
 Schelte's way of engraving it was also broad and comprehensive. The
@@ -322,7 +322,7 @@ centuries, were chiefly a more thorough and delicate rendering of local
 colour, light and shade, and texture. The elder engravers could draw as
 correctly as the moderns, but they either neglected these elements or
 admitted them sparingly, as opposed to the spirit of their art. In a
-modern engraving from Landseer may be seen the blackness of a man's
+modern engraving from [[Landseer]] may be seen the blackness of a man's
 boots (local colour), the soft roughness of his coat (texture), and the
 exact value in light and dark of his face and costume against the cloudy
 sky. Nay more, there is to be found every sparkle on bit, boot and
@@ -333,8 +333,8 @@ more favourable to some forms and textures than to others. This sameness
 of line-engraving, and its costliness, led to the adoption of mixed
 methods, extremely prevalent in commercial prints from popular artists.
 In the well-known prints from Rosa Bonheur, for example, by T. Landseer,
-H. T. Ryall, and C. G. Lewis, the tone of the skies is got by
-machine-ruling, and so is much undertone in the landscape; the fur of
+H. T. Ryall, and C. G. [[Lewis]], the tone of the skies is got by
+machine-ruling, and so is much undertone in the landscape; the [[Fur|fur]] of
 the animals is all etched, and so are the foreground plants, the real
 burin work being used sparingly where most favourable to texture. Even
 in the exquisite engravings after Turner, by Cooke, Goodall, Wallis,
@@ -360,7 +360,7 @@ engrave new plates remained unanswered. Mr C. W. Sherborn, the exquisite
 and facile designer and engraver of book-plates, has scarcely been
 surpassed in his own line, but his art is mainly heraldic. There are now
 no men capable of such work as that with which Doo, J. H. Robinson, and
-their fellows maintained the credit of the English School. Line-engraving
+their [[Fellows|fellows]] maintained the [[Credit|credit]] of the English School. Line-engraving
 has been killed by etching, mezzotint and the "mixed method." The
 disappearance of the art is due not so much to the artistic objection
 that the personality of the line-engraver stands obtrusively between the
@@ -380,9 +380,9 @@ evident that all hope was gone. John Saddler at the end was driven, in
 spite of his capacity to do original work, to spend most of his time in
 assisting Thomas Landseer to rule the skies on his plates, simply
 because there was not enough line-engraving to do. Since then there was
-some promise of a revival, and Mr Bourne engraved a few of the pictures
+some promise of a revival, and Mr [[Bourne]] engraved a few of the pictures
 by Gustave Doré. But little followed. The last of the line-engravers of
-Turner's pictures died in the person of Sir Daniel Wilson (d. 1892),
+Turner's pictures died in the person of Sir [[Daniel]] Wilson (d. 1892),
 who, recognizing the hopelessness of his early profession, laid his
 graver aside, and left Europe for Canada and eventually became president
 of the university of Toronto.
@@ -426,8 +426,8 @@ pictures in the Louvre and at Tours, forming the predella of the San
 Zeno altarpiece in Verona) not only conveys the forms, sentiment, and
 colour of the master, but succeeds also in rendering the peculiar
 luminosity of the originals. Jacquet, who gained the _Prix de Rome_ in
-1870, also translated pictures of Sir Joshua Reynolds, and engraved fine
-plates after Paul Dubois, Cabanel, Bouguereau, Meissonier and Detaille.
+1870, also translated pictures of Sir [[Joshua]] Reynolds, and engraved fine
+plates after Paul [[Dubois]], Cabanel, [[Bouguereau]], Meissonier and Detaille.
 The freedom of much of his work suggests an affinity with etching and
 dry-point; indeed, it appears that he uses the etching-needle and acid
 to lay in some of his groundwork and outlines. Léopold Flameng's
@@ -435,7 +435,7 @@ engraving after Jan van Eyck's "Virgin with the Donor," in the Louvre,
 is one of the most admirable works of its kind, retaining the quality
 and sentiment of the master, extreme minuteness and elaboration
 notwithstanding. Jules Jacquet is known for his work after Meissonier
-(especially the "Friedland") and after Bonnat; Adrien Didier for his
+(especially the "[[Friedland]]") and after [[Bonnat]]; Adrien Didier for his
 plates after Holbein ("Anne of Cleves"), Raphael, and Paul Veronese,
 among the Old Masters, and Bonnat, Bouguereau, and Roybet among the new.
 Jazinski (Botticelli's "Primavera"), Sulpis (Mantegna and Gustave
@@ -448,11 +448,11 @@ technical ability who were nevertheless unable to appreciate or
 reproduce anything beyond mechanical excellence.
 
 The Belgian School of engraving is not without vitality. Gustave Biot
-was equally skilful in portraiture and subject (engraving after Gallait,
+was equally skilful in portraiture and subject (engraving after [[Gallait]],
 Cabanel, Gustave Doré, among his best work); A. M. Danse executed plates
 after leading painters, and elaborated an effective "mixed method" of
 graver-work and dry-point; and de Meerman has engraved a number of good
-plates; but private patronage is hardly sufficient in Belgium to
+plates; but private patronage is hardly sufficient in [[Belgium]] to
 maintain the school in a state of prosperous efficiency.
 
 In Germany, as might be expected, line-engraving retains not a little of
@@ -461,9 +461,9 @@ method, in which freedom and lightness are obtained with such delicacy
 that the fine lines, employed in great numbers, run into tone, and yield
 a supposed advantage in modelling, has not been without appreciation.
 But the more usual virtue of the graver has been best supported, and
-many have worked in the old-fashioned manner. Friedrich Zimmermann (d.
+many have worked in the old-fashioned manner. [[Friedrich]] Zimmermann (d.
 1887) began his career by engraving such prints as Guido Reni's "Ecce
-Homo" in Dresden, and then devoted himself to the translation of modern
+Homo" in [[Dresden]], and then devoted himself to the translation of modern
 German painters. Rudolph Pfnor was an ornamentist representative of his
 class; and Joseph Kohlschein, of Düsseldorf, a typical exponent of the
 intelligent conservative manner. His "Marriage at Cana" after Paul
@@ -475,7 +475,7 @@ Pica (of Naples) and Conconi (of Milan) have been named, it is difficult
 to mention other successors to the fine school of the 19th century which
 followed Piranesi and Volpato. A few of the pupils of Rosaspina and
 Paolo Toschi lived into the last quarter of the century, but to the
-present generation Asiolo, Jesi, C. Raimondi, L. Bigola, and Antonio
+present generation Asiolo, Jesi, C. Raimondi, L. Bigola, and [[Antonio]]
 Isac are remembered rather for their efforts than for their success in
 supporting their art against the combined opposition of etching,
 "process" and public indifference.
@@ -499,7 +499,7 @@ appears to exist on sufferance and by hot-house encouragement.
   Procédés de la gravure_ (Paris, 1882); Le Comte Henri Delaborde, La
   Gravure (Paris, English trans., with a chapter on English engraving
   methods, by William Walker, London, 1886); H. W. Singer, _Geschichte
-  des Kupferstichs_ (Magdeburg and Leipzig, 1895), and _Der Kupferstich_
+  des Kupferstichs_ ([[Magdeburg]] and Leipzig, 1895), and _Der Kupferstich_
   (Bielefeld and Leipzig, 1904); Alex. Waldow, _Illustrirte Encyklopädie
   der Graphischen Künste_ (Leipzig, 1881-1884); Lippmann, _Engraving and
   Engraving_, translated by Martin Hardie (London, 1906); and for those
@@ -536,7 +536,7 @@ industries. The linen industries of the United Kingdom were the first to
 suffer from the aggression of cotton; more slowly the influence of the
 rival textile reached other countries.
 
-In 1810 Napoleon I. offered a reward of one million francs to any
+In 1810 Napoleon I. offered a reward of one million [[Franc|francs]] to any
 inventor who should devise the best machinery for the spinning of flax
 yarn. Within a few weeks thereafter Philippe de Girard patented in
 France important inventions for flax spinning by both dry and wet
@@ -545,9 +545,9 @@ and were neglected in his native country. In 1815 he was invited by the
 Austrian government to establish a spinning mill at Hirtenberg near
 Vienna, which was run with his machinery for a number of years, but it
 failed to prove a commercial success. In the meantime English inventors
-had applied themselves to the task of adapting machines to the
+had applied themselves to the task of adapting [[Machine|machines]] to the
 preparation and spinning of flax. The foundation of machine spinning of
-flax was laid by John Kendrew and Thomas Porthouse of Darlington, who,
+flax was laid by John Kendrew and Thomas Porthouse of [[Darlington]], who,
 in 1787, secured a patent for "a mill or machine upon new principles for
 spinning yarn from hemp, tow, flax or wool." By innumerable successive
 improvements and modifications, the invention of Kendrew and Porthouse
@@ -556,7 +556,7 @@ present day, spinning-mills are furnished; but progress in adapting flax
 fibres for mechanical spinning, and linen yarn for weaving cloth by
 power-loom was much slower than in the corresponding case of cotton.
 
-Till comparatively recent times, the sole spinning implements were the
+Till comparatively recent times, the sole spinning [[Implement|implements]] were the
 spindle and distaff. The spindle, which is the fundamental apparatus in
 all spinning machinery, was a round stick or rod of wood about 12 in. in
 length, tapering towards each extremity, and having at its upper end a
@@ -598,7 +598,7 @@ rural districts of Ireland and Scotland is a matter still within the
 recollection of some people; but spinning wheels are now seldom seen.
 
 The modern manufacture of linen divides itself into two branches,
-spinning and weaving, to which may be added the bleaching and various
+spinning and weaving, to which may be added the [[Bleaching|bleaching]] and various
 finishing processes, which, in the case of many linen textures, are
 laborious undertakings and important branches of industry. The flax
 fibre is received in bundles from the scutch mill, and after having been
@@ -657,7 +657,7 @@ preparing and (3) spinning.
   each separate sheet are of one size and gauge, but each successive
   sheet in the length of the machine is furnished with stocks of
   increasing fineness, so that the hackling tool at the end where the
-  flax is entered is the coarsest, say about four pins per inch, while
+  flax is entered is the coarsest, say about four pins per [[Inch|inch]], while
   that to which the fibre is last submitted has the smallest and most
   closely set teeth. The finest tools may contain from 45 to 60 pins per
   inch. Thus the whole of the endless vertical revolving sheet presents
@@ -707,7 +707,7 @@ preparing and (3) spinning.
   frames, a series or system of machines all similar in construction and
   effect. The essential features of the spreading frame are: (1) the
   feeding cloth or creeping sheet, which delivers the flax to (2) a pair
-  of "feed and jockey" rollers, which pass it on (3) to the gill frame
+  of "feed and jockey" rollers, which pass it on (3) to the [[Gill|gill]] frame
   or fallers. The gill frame consists of a series of narrow hackle bars,
   with short closely studded teeth, which travel between the feed
   rollers and the drawing or "boss and pressing" rollers to be
@@ -721,7 +721,7 @@ preparing and (3) spinning.
   continuous length termed a sliver. In order to form this continuous
   sliver it is necessary that the short lengths of flax should overlap
   each other on the spread sheet or creeping sheet. This sheet contains
-  four or six divisions, so that four or six lots of overlapped flax are
+  four or six divisions, so that four or six [[Lot|lots]] of overlapped flax are
   moving at the same time towards the first pair of rollers--the boss
   rollers or retaining rollers. The fibre passes between these rollers
   and is immediately caught by the rising gills which carry the fibre
@@ -820,7 +820,7 @@ preparing and (3) spinning.
   be spun from the system of machines found in many mills; but these
   higher counts are only used for fine thread for sewing and for the
   making of lace. The highest counts of cut line flax are spun in Irish
-  mills for the manufacture of fine cambrics and lawns which are
+  mills for the manufacture of fine [[Cambric|cambrics]] and [[Lawn|lawns]] which are
   characteristic features of the Ulster trade. Exceedingly high counts
   have sometimes been spun by hand, and for the preparation of the
   finest lace threads it is said the Belgian hand spinners must work in
@@ -857,8 +857,8 @@ spindle similar in principle to the yarn spinning frame, excepting, of
 course, the drawing rollers. A large trade in linen thread has been
 created by its use in the machine manufacture of boots and shoes,
 saddlery and other leather goods, and in heavy sewing-machine work
-generally. The thread industry is largely developed at Lisburn near
-Belfast, at Johnstone near Glasgow, Bridport, Dorsetshire, and at
+generally. The thread industry is largely developed at [[Lisburn]] near
+[[Belfast]], at Johnstone near [[Glasgow]], Bridport, Dorsetshire, and at
 Paterson, New Jersey, United States. Fine cords, net twine and ropes are
 also twisted from flax.
 
@@ -885,10 +885,10 @@ effective introducers of power-loom weaving in the linen trade.
 The various operations connected with linen weaving, such as winding,
 warping, dressing, beaming and drawing-in, do not differ in essential
 features from the like processes in the case of cotton weaving, &c.,
-neither is there any significant modification in the looms employed (see
+neither is there any significant modification in the [[Loom|looms]] employed (see
 WEAVING). Dressing is a matter of importance in the preparation of linen
 warps for beaming. It consists in treating the spread yarn with flour or
-farina paste, applied to it by flannel-covered rollers, the lowermost of
+[[Farina|farina]] paste, applied to it by flannel-covered rollers, the lowermost of
 which revolves in a trough of paste. The paste is equalized on the yarn
 by brushes, and dried by passing the web over steam-heated cylinders
 before it is finally wound on the beam for weaving.
@@ -899,13 +899,13 @@ before it is finally wound on the beam for weaving.
   Linen fabrics are numerous in variety and widely different in their
   qualities, appearance and applications, ranging from heavy sail-cloth
   and rough sacking to the most delicate cambrics, lawns and scrims. The
-  heavier manufactures include as a principal item sail-cloth, with
+  heavier manufactures include as a principal [[Item|item]] sail-cloth, with
   canvas, tarpaulin, sacking and carpeting. The principal seats of the
-  manufacture of these linens are Dundee, Arbroath, Forfar, Kirkcaldy,
-  Aberdeen and Barnsley. The medium weight linens, which are used for a
+  manufacture of these linens are [[Dundee]], Arbroath, Forfar, Kirkcaldy,
+  Aberdeen and [[Barnsley]]. The medium weight linens, which are used for a
   great variety of purposes, such as tent-making, towelling, covers,
   outer garments for men, linings, upholstery work, &c., include duck,
-  huckaback, crash, tick, dowlas, osnaburg, low sheetings and low brown
+  [[Huckaback|huckaback]], [[Crash|crash]], tick, dowlas, osnaburg, low sheetings and low brown
   linens. Plain bleached linens form a class by themselves, and include
   principally the materials for shirts and collars and for bed sheets.
   Under the head of twilled linens are included drills, diapers and
@@ -920,7 +920,7 @@ before it is finally wound on the beam for weaving.
   Dundee; medium goods are made in most linen manufacturing districts;
   damasks are chiefly produced in Belfast, Dunfermline and Perth; and
   the fine linen manufactures have their seat in Belfast and the north
-  of Ireland. Leeds and Barnsley are the centres of the linen trade in
+  of Ireland. [[Leeds]] and Barnsley are the centres of the linen trade in
   England.
 
   Linen fabrics have several advantages over cotton, resulting
@@ -986,7 +986,7 @@ before it is finally wound on the beam for weaving.
 
   AUTHORITIES.--History of the trade, &c.: Warden's _Linen Trade,
   Ancient and Modern_. Spinning: Peter Sharp, _Flax, Tow and Jute
-  Spinning_ (Dundee); H. R. Carter, _Spinning and Twisting of Long
+  Spinning_ (Dundee); H. R. [[Carter]], _Spinning and Twisting of Long
   Vegetable Fibres_ (London). Weaving: Woodhouse and Milne, _Jute and
   Linen Weaving_, part i., Mechanism, part ii., Calculations and Cloth
   Structure (Manchester); and Woodhouse and Milne, _Textile Design: Pure

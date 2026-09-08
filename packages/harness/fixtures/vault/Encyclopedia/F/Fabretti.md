@@ -1,6 +1,6 @@
 # Fabretti
 
-FABRETTI, RAPHAEL (1618-1700), Italian antiquary, was born in 1618 at
+FABRETTI, RAPHAEL (1618-1700), Italian [[Antiquary|antiquary]], was born in 1618 at
 Urbino in Umbria. He studied law at Cagli and Urbino, where he took the
 degree of doctor at the age of eighteen. While in Rome he attracted the
 notice of Cardinal Lorenzo Imperiali, who employed him successively as
@@ -11,17 +11,17 @@ observations of the relics and monuments of Spain, France and Italy. At
 Rome he was appointed judge of appellation of the Capitol, which post he
 left to be auditor of the legation at Urbino. After three years he
 returned to Rome, on the invitation of Cardinal Carpegna, vicar of
-Innocent XI., and devoted himself to antiquarian research, examining
+[[Innocent]] XI., and devoted himself to antiquarian research, examining
 with minute care the monuments and inscriptions of the Campagna. He
 always rode a horse which his friends nicknamed "Marco Polo," after the
-Venetian traveller. By Innocent XII. he was made keeper of the archives
+Venetian traveller. By Innocent XII. he was made keeper of the [[Archive|archives]]
 of the castle St Angelo, a charge which he retained till his death. He
 died at Rome on the 7th of January 1700. His collection of inscriptions
 and monuments was purchased by Cardinal Stoppani, and placed in the
 ducal palace at Urbino, where they may still be seen.
 
 His work _De Aquis et Aquae-ductibus veteris Romae_ (1680), three
-dissertations on the topography of ancient Latium, is inserted in
+dissertations on the topography of ancient [[Latium]], is inserted in
 Graevius's _Thesaurus_, iv. (1677). His interpretation of certain
 passages in Livy and other classical authors involved him in a dispute
 with Gronovius, which bore a strong resemblance to that between Milton

@@ -12,26 +12,26 @@ DONGOLA, a _mudiria_ (province) of the Anglo-Egyptian Sudan. It lies
 wholly within the region known as Nubia and extends along both banks of
 the Nile from about 18° N. to 20° N. The rainfall is very slight, and
 the area of fertility is mainly confined to the lands watered by the
-Nile. Beyond stretches eastward the Nubian desert, westward the Libyan
+Nile. Beyond stretches eastward the Nubian [[Desert|desert]], westward the Libyan
 desert. The Wadi el Kab (Gab), west of and parallel to the Nile,
 contains, however, a good deal of arable land. This wadi, which is some
 63 m. long, obtains water by percolation from the Nile. Farther west is
-the extensive plateau of Jebel Abiad, and beyond, some 250 m. due west
+the extensive plateau of [[Jebel]] Abiad, and beyond, some 250 m. due west
 of Debba, is Bir Natron, or Bir Sultan, a valley whence natron is
 obtained. In this desert region is found the addax, the rarest of Sudan
-antelopes. The chief grain crops are durra and barley, and date palms
+[[Antelope|antelopes]]. The chief grain crops are durra and barley, and date palms
 are extensively cultivated. The province is also noted for a breed of
 strong, hardy horses. The largest town is Dongola, but the
 administrative headquarters of the mudiria are at New Merawi (Merowe,
-Meroe), on the left bank of the Nile, below the 4th cataract. Other
-towns, also on the Nile, are Debba and Korti, whence start caravan
-routes to Kordofan and Omdurman. At Jebel Barkal, in the neighbourhood
+Meroe), on the left bank of the Nile, below the 4th [[Cataract|cataract]]. Other
+towns, also on the Nile, are Debba and Korti, whence start [[Caravan|caravan]]
+routes to [[Kordofan]] and Omdurman. At Jebel Barkal, in the neighbourhood
 of Merawi, and elsewhere in the mudiria, are ancient ruins (see SUDAN:
 _Anglo-Egyptian_). Old Merawi, on the right bank of the Nile, and Sanam
 Abu Dom, on the left bank, indicate the site of the Ethiopian city of
 Napata. From Kareima, on the right or northern bank of the Nile, 6 m.
 above New Merawi, a railway (opened in March 1906) runs to Abu Hamed,
-whence there is railway connexion with the Red Sea, Khartum and Egypt.
+whence there is railway connexion with the Red Sea, [[Khartum]] and Egypt.
 From Kareima downstream the Nile is navigable to Kerma, just above the
 3rd cataract. Between 1896 and 1904 a railway ran between Kerma and Wadi
 Halfa. In the last-named year this railway was closed. It had been built
@@ -43,10 +43,10 @@ language, but have a large admixture of Arab, Turk and other blood. They
 are great agriculturists and keen traders, and were notorious
 slave-dealers. South of Old Dongola the inhabitants are not Nubians but
 Shagia (q.v.), and the Nubian tongue is replaced by Arabic. Of the nomad
-desert tribes the chief are the Hawawir and Kabbabish.
+desert tribes the chief are the Hawawir and [[Kabbabish]].
 
 The country now forming the mudiria was once part of the ancient empire
-of Ethiopia (q.v.), Napata being one of its capital cities. From about
+of [[Ethiopia]] (q.v.), Napata being one of its capital cities. From about
 the beginning of the Christian era the chief tribes in the region
 immediately south of Egypt were the Blemmyes and the Nobatae. The last
 named became converted to Christianity about the middle of the 6th
@@ -64,15 +64,15 @@ however, was captured by the Moslems in 652, and the country laid under
 tribute (_bakt_)--400 men having to be sent yearly to Egypt. This
 tribute was paid when it could be enforced; at periods the Nubians
 gained the upper hand, as in 737 when Cyriacus, their then king, marched
-into Egypt with a large army to redress the grievances of the Copts.
-There is a record of an embassy sent by a king Zacharias in the 9th
+into Egypt with a large army to redress the grievances of the [[Copts]].
+There is a record of an [[Embassy|embassy]] sent by a king Zacharias in the 9th
 century to Bagdad concerning the tribute, while by the close of the 10th
 century the Nubians seem to have regained almost complete independence.
 They did not, however, possess any part of the Red Sea coast, which was
 held by the Egyptians, who, during the 9th and 10th centuries, worked
-the emerald and gold mines between the Nile and the Red Sea. The
+the [[Emerald|emerald]] and gold mines between the Nile and the Red Sea. The
 kingdom, according to the Armenian historian Abu Salih, was in a very
-flourishing condition in the 12th century. It then extended from Assuan
+flourishing condition in the 12th century. It then extended from [[Assuan]]
 southward to the 4th cataract, and contained several large cities. Gold
 and copper mines were worked. The liturgy used was in Greek. In 1173
 Shams addaula, a brother of Saladin, attacked the Nubians, captured the
@@ -118,13 +118,13 @@ About 1812 Mamelukes fleeing from Mehemet Ali, the pasha of Egypt, made
 themselves masters of part of the country, destroying the old capital
 and building a new one lower down the Nile. In 1820 both Mamelukes and
 Shagia were conquered by the Egyptians, and the Dongola province annexed
-to Egypt. In consequence of the rising of the Dervishes Egypt evacuated
+to Egypt. In consequence of the rising of the [[Dervish|Dervishes]] Egypt evacuated
 Dongola in 1886. The attempt to set up an independent government failed,
 and the Dervishes held the town until September 1896, when it was
 reoccupied by an Egyptian force.
 
   See J. L. Burckhardt, _Travels in Nubia_ (London, 1819); Naum Bey
-  Shucair, The _History and Geography of the Sudan_ (in Arabic, 3 vols.,
+  Shucair, The _History and [[Geography]] of the Sudan_ (in Arabic, 3 vols.,
   Cairo, 1903); E. A. Wallis Budge, _The Egyptian Sudan_ (2 vols.,
   London, 1907).
 

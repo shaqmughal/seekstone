@@ -15,7 +15,7 @@ law a child born before the marriage of the parents was made legitimate
 by their subsequent marriage. This method of legitimation was accepted
 by the canon law, by the legal systems of the continent of Europe, of
 Scotland and of some of the states of the United States. The early
-Germanic codes, however, did not recognize such legitimation, nor among
+Germanic [[Code|codes]], however, did not recognize such legitimation, nor among
 the Anglo-Saxons had the natural-born child any rights of inheritance,
 or possibly any right other than that of protection, even when
 acknowledged by its father. The principle of the civil and canon law was
@@ -23,7 +23,7 @@ at one time advocated by the clergy of England, but was summarily
 rejected by the barons at the parliament of Merton in 1236, when they
 replied _Nolumus leges Angliae mutare_.
 
-English law takes account solely of the fact that marriage precedes the
+[[English Law|English law]] takes account solely of the fact that marriage precedes the
 birth of the child; at whatever period the birth happens after the
 marriage, the offspring is prima facie legitimate. The presumption of
 law is always in favour of the legitimacy of the child of a married
@@ -70,7 +70,7 @@ illegitimate child is technically known as legitimation _per subsequens
 matrimonium_. This adoption of the Roman law principle is followed by
 most of the states of the continent of Europe (with distinctions, of
 course, as to _certain_ illegitimate children, or as to the forms of
-acknowledgment by the parent or parents), in the Isle of Man, Guernsey,
+acknowledgment by the parent or parents), in the Isle of Man, [[Guernsey]],
 Jersey, Lower Canada, St Lucia, Trinidad, Demerara, Berbice, Cape
 Colony, Ceylon, Mauritius; it has been adopted in New Zealand
 (Legitimation Act 1894), South Australia (Legitimation Act 1898, amended
@@ -88,18 +88,18 @@ marriage; in Victoria, within six months from the date of the marriage;
 in South Australia, by the act of 1898, registration was permissible
 only within thirty days before or after the marriage, but by the
 amending act of 1902 it is allowed at any time more than thirty days
-after the marriage, provided the applicants prove before a magistrate
+after the marriage, provided the applicants prove before a [[Magistrate|magistrate]]
 that they are the parents of the child. In all cases the legitimation is
 retrospective, taking effect from the birth of the child. Legitimation
 by subsequent marriage exists also in the following states of the
-American Union: Maine, Pennsylvania, Illinois, Michigan, Iowa,
+American Union: [[Maine]], Pennsylvania, Illinois, Michigan, Iowa,
 Minnesota, California, Oregon, Nevada, Washington, N. and S. Dakota,
 Idaho, Montana and New Mexico. In Massachusetts, Vermont, Illinois,
-Indiana, Wisconsin, Nebraska, Maryland, Virginia, West Virginia,
-Kentucky, Missouri, Arkansas, Texas, Colorado, Idaho, Wyoming, Georgia,
+[[Indiana]], Wisconsin, Nebraska, Maryland, Virginia, West Virginia,
+[[Kentucky]], Missouri, Arkansas, Texas, Colorado, Idaho, Wyoming, Georgia,
 Alabama, Mississippi and Arizona, in addition to the marriage the father
 must recognize or acknowledge the illegitimate child as his. In New
-Hampshire, Connecticut and Louisiana both parents must acknowledge the
+Hampshire, Connecticut and [[Louisiana]] both parents must acknowledge the
 child, either by an authentic act before marriage or by the contract of
 marriage. In some states (California, Nevada, N. and S. Dakota and
 Idaho) if the father of an illegitimate child receives it into his house
@@ -155,7 +155,7 @@ mother, that they were entitled to share as legitimate children in a
 devise of English realty. It is to be noted that this decision does not
 clash with that of _Birtwhistle_ v. _Vardill_.
 
-  See J. A. Foote, _Private International Law_; A. V. Dicey, _Conflict
+  See J. A. Foote, _Private [[International]] Law_; A. V. Dicey, _Conflict
   of Laws_; L. von Bar, _Private International Law_; Story, _Conflict of
   Laws_; J. Westlake, _International Law_.
 

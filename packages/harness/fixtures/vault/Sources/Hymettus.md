@@ -11,17 +11,17 @@ tags: [history-studies, history]
 
 HYMETTUS (Ital. Monte Matto, hence the modern name Trello Vouni), a
 mountain in Attica, bounding the Athenian plain on the S.E. Height, 3370
-ft. It was famous in ancient times for its bees, which gathered honey of
-peculiar flavour from its aromatic herbs; their fame still persists. The
+ft. It was famous in ancient times for its [[Bee|bees]], which gathered honey of
+peculiar flavour from its aromatic [[Herb|herbs]]; their fame still persists. The
 spring mentioned by Ovid (_Ars Amat._ iii. 687) is probably to be
 recognized near the monastery of Syriani or Kaesariani on the western
 slope. This may be identical with that known as [Greek: Kyllon Pêra],
-said to be a remedy for barrenness in women. The marble of Hymettus,
+said to be a remedy for barrenness in women. The [[Marble|marble]] of Hymettus,
 which often has a bluish tinge, was used extensively for building in
 ancient Athens, and also, in early times, for sculpture; but the white
 marble of Pentelicus was preferred for both purposes.
 
-  See E. Dodwell, _Classical and Topographical Tour_ (1819), i. 483.
+  See E. [[Dodwell]], _Classical and Topographical Tour_ (1819), i. 483.
 
 
 
@@ -30,30 +30,30 @@ HYMNS.--1. _Classical Hymnody._--The word "hymn" ([Greek: hymnos]) was
 employed by the ancient Greeks[1] to signify a song or poem composed in
 honour of gods, heroes or famous men, or to be recited on some joyful,
 mournful or solemn occasion. Polymnia was the name of their lyric muse.
-Homer makes Alcinous entertain Odysseus with a "hymn" of the minstrel
+[[Homer]] makes Alcinous entertain Odysseus with a "hymn" of the minstrel
 Demodocus, on the capture of Troy by the wooden horse. The _Works and
 Days_ of Hesiod begins with an invocation to the Muses to address hymns
 to Zeus, and in his _Theogonia_ he speaks of them as singing or
 inspiring "hymns" to all the divinities, and of the bard as "their
 servant, hymning the glories of men of old, and of the gods of Olympus."
 Pindar calls by this name odes, like his own, in praise of conquerors at
-the public games of Greece. The Athenian dramatists (Euripides most
+the public [[Games|games]] of Greece. The Athenian dramatists ([[Euripides]] most
 frequently) use the word and its cognate verbs in a similar manner; they
-also describe by them metrical oracles and apophthegms, martial, festal
-and hymeneal songs, dirges and lamentations or incantations of woe.
+also describe by them metrical oracles and apophthegms, [[Martial|martial]], festal
+and hymeneal songs, [[Dirge|dirges]] and lamentations or [[Incantation|incantations]] of woe.
 
 Hellenic hymns, according to this conception of them, have come down to
 us, some from a very early and others from a late period of Greek
 classical literature. Those which passed by the name of Homer[2] were
 already old in the time of Thucydides. They are mythological poems
 (several of them long), in hexameter verse--some very interesting. That
-to Apollo contains a traditionary history of the origin and progress of
-the Delphic worship; those on Hermes and on Dionysus are marked by much
-liveliness and poetical fancy. Hymns of a like general character, but of
+to [[Apollo]] contains a traditionary history of the origin and progress of
+the Delphic worship; those on [[Hermes]] and on [[Dionysus]] are marked by much
+liveliness and poetical [[Fancy|fancy]]. Hymns of a like general character, but of
 less interest (though these also embody some fine poetical traditions of
 the Greek mythology, such as the story of Teiresias, and that of the
 wanderings of Leto), were written in the 3rd century before Christ, by
-Callimachus of Cyrene. Cleanthes, the successor of Zeno, composed (also
+[[Callimachus]] of Cyrene. Cleanthes, the successor of Zeno, composed (also
 in hexameters) an "excellent and devout hymn" (as it is justly called by
 Cudworth, in his _Intellectual System_) to Zeus, which is preserved in
 the _Eclogae_ of Stobaeus, and from which Aratus borrowed the words,
@@ -72,9 +72,9 @@ much more nearly than anything Hellenic to the form and character of
 modern hymnody.
 
 2. _Hebrew Hymnody._--For the origin and idea of Christian hymnody we
-must look, not to Gentile, but to Hebrew sources. St Augustine's
-definition of a hymn, generally accepted by Christian antiquity, may be
-summed up in the words, "praise to God with song" ("cum cantico"); Bede
+must look, not to [[Gentile]], but to Hebrew sources. St Augustine's
+[[Definition|definition]] of a hymn, generally accepted by Christian antiquity, may be
+summed up in the words, "praise to God with song" ("cum cantico"); [[Bede]]
 understood the "canticum" as properly requiring metre; though he thought
 that what in its original language was a true hymn might retain that
 character in an unmetrical translation. Modern use has enlarged the
@@ -85,7 +85,7 @@ prayer and spiritual meditation as well as praise.
 The modern distinction between psalms and hymns is arbitrary (see
 PSALMS). The former word was used by the LXX. as a generic designation,
 probably because it implied an accompaniment by the psaltery (said by
-Eusebius to have been of very ancient use in the East) or other
+[[Eusebius]] to have been of very ancient use in the East) or other
 instruments. The cognate verb "psallere" has been constantly applied to
 hymns, both in the Eastern and in the Western Church; and the same
 compositions which they described generically as "psalms" were also
@@ -93,19 +93,19 @@ called by the LXX. "odes" (i.e. songs) and "hymns." The latter word
 occurs, e.g. in Ps. lxxii. 20 ("the hymns of David the son of Jesse"),
 in Ps. lxv. 1, and also in the Greek titles of the 6th, 54th, 55th, 67th
 and 76th (this numbering of the psalms being that of the English
-version, not of the LXX.). The 44th chapter of Ecclesiasticus, "Let us
+version, not of the LXX.). The 44th chapter of [[Ecclesiasticus]], "Let us
 now praise famous men," &c., is entitled in the Greek [Greek: paterôn
 hymnos], "The Fathers' Hymn." Bede speaks of the whole book of Psalms as
 called "liber hymnorum," by the universal consent of Hebrews, Greeks and
 Latins.
 
-In the New Testament we find our Lord and His apostles singing a hymn
+In the New Testament we find our Lord and His [[Apostle|apostles]] singing a hymn
 ([Greek: hymnêsantes exêlthon]), after the institution of the Lord's
 Supper; St Paul and Silas doing the same ([Greek: hymnoun ton theon]) in
 their prison at Philippi; St James recommending psalm-singing ([Greek:
 psalletô]), and St Paul "psalms and hymns and spiritual songs" ([Greek:
 psalmois kai hymnois kai ôdais pneumatikais]) St Paul also, in the 14th
-chapter of the first epistle to the Corinthians, speaks of singing
+chapter of the first [[Epistle|epistle]] to the Corinthians, speaks of singing
 ([Greek: psalô]) and of every man's psalm ([Greek: hekastos hymôn
 psalmon echei]). In a context which plainly has reference to the
 assemblies of the Corinthian Christians for common worship. All the
@@ -118,16 +118,16 @@ Oriental hymnody as to have been supposed by Michaelis and others to be
 extracts from original hymns of the Apostolic age. Two of them are
 apparently introduced as quotations, though not found elsewhere in the
 Scriptures. A third has not only rhythm, but rhyme. The thanksgiving
-prayer of the assembled disciples, recorded in Acts iv., is both in
+prayer of the assembled [[Disciple|disciples]], recorded in Acts iv., is both in
 substance and in manner poetical; and in the canticles, "Magnificat,"
-"Benedictus," &c., which manifestly followed the form and style of
+"[[Benedictus]]," &c., which manifestly followed the form and style of
 Hebrew poetry, hymns or songs, proper for liturgical use, have always
 been recognized by the church.
 
 3. _Eastern Church Hymnody._--The hymn of our Lord, the precepts of the
 apostles, the angelic song at the nativity, and "Benedicite omnia opera"
 are referred to in a curious metrical prologue to the hymnary of the
-Mozarabic Breviary as precedents for the practice of the Western Church.
+Mozarabic [[Breviary]] as precedents for the practice of the Western Church.
 In this respect, however, the Western Church followed the Eastern, in
 which hymnody prevailed from the earliest times.
 
@@ -155,13 +155,13 @@ have been established in the Bithynian churches at the beginning of the
 2nd century. They were accustomed "stato die ante lucem convenire,
 carmenque Christo, quasi Deo, dicere _secum invicem_." This agrees well,
 in point of time, with the tradition recorded by the historian Socrates,
-that Ignatius (who suffered martyrdom about A.D. 107) was led by a
-vision or dream of angels singing hymns in that manner to the Holy
+that [[Ignatius]] (who suffered martyrdom about A.D. 107) was led by a
+vision or [[Dream|dream]] of angels singing hymns in that manner to the Holy
 Trinity to introduce antiphonal singing into the church of Antioch, from
 which it quickly spread to other churches. There seems to be an allusion
 to choral singing in the epistle of Ignatius himself to the Romans,
 where he exhorts them, "[Greek: choros genomenoi]" ("having formed
-themselves into a choir"), to "sing praise to the Father in Christ
+themselves into a [[Choir|choir]]"), to "sing praise to the Father in Christ
 Jesus." A statement of Theodoret has sometimes been supposed to refer
 the origin of antiphonal singing to a much later date; but this seems to
 relate only to the singing of Old Testament Psalms ([Greek: tên
@@ -183,13 +183,13 @@ description of the "Agapae," or love-feasts, of his day, says that,
 after washing hands and bringing in lights, each man was invited to come
 forward and sing to God's praise something either taken from the
 Scriptures or of his own composition ("ut quisque de Sacris Scripturis
-vel proprio ingenio potest"). George Bull, bishop of St David's,
+vel proprio ingenio potest"). George [[Bull]], bishop of St David's,
 believed one of those primitive compositions to be the hymn appended by
-Clement of Alexandria to his _Paedagogus_; and Archbishop Ussher
+[[Clement]] of Alexandria to his _Paedagogus_; and Archbishop Ussher
 considered the ancient morning and evening hymns, of which the use was
 enjoined by the _Apostolical Constitutions_, and which are also
 mentioned in the "Tract on Virginity" printed with the works of St
-Athanasius, and in St Basil's treatise upon the Holy Spirit, to belong
+[[Athanasius]], and in St Basil's treatise upon the Holy Spirit, to belong
 to the same family. Clement's hymn, in a short anapaestic metre,
 beginning [Greek: stomion pôlôn adaôn] (or, according to some editions,
 [Greek: basileu hagiôn, loge pandamatôr]--translated by the Rev. A.
@@ -204,11 +204,11 @@ that in the English communion office is an exact translation) is said,
 by Bede and other ancient writers, to have been brought into use at Rome
 by Pope Telesphorus, as early as the time of the emperor Hadrian. A
 third, the Vesper or "Lamp-lighting" hymn ("[Greek: phôs hilaron hagias
-doxês]"--translated by Canon Bright "Light of Gladness, Beam Divine"),
+doxês]"--translated by Canon [[Bright]] "Light of Gladness, Beam Divine"),
 holds its place to this day in the services of the Greek rite. In the
 3rd century Origen seems to have had in his mind the words of some other
 hymns or hymn of like character, when he says (in his treatise _Against
-Celsus_): "We glorify in hymns God and His only begotten Son; as do also
+[[Celsus]]_): "We glorify in hymns God and His only begotten Son; as do also
 the Sun, the Moon, the Stars and all the host of heaven. All these, in
 one Divine chorus, with the just among men, glorify in hymns God who is
 over all, and His only begotten Son." So highly were these compositions
@@ -218,13 +218,13 @@ act, in its synodical letter to the bishops of Rome and Alexandria, on
 this ground (among others) that he had prohibited the use of hymns of
 that kind, by uninspired writers, addressed to Christ.
 
-After the conversion of Constantine, the progress of hymnody became
+After the [[Conversion|conversion]] of Constantine, the progress of hymnody became
 closely connected with church controversies. There had been in Edessa,
 at the end of the 2nd or early in the 3rd century, a Gnostic writer of
 conspicuous ability, named Bardesanes, who was succeeded, as the head of
 his sect or school, by his son Harmonius. Both father and son wrote
 hymns, and set them to agreeable melodies, which acquired, and in the
-4th century still retained, much local popularity. Ephraem Syrus, the
+4th century still retained, much local popularity. [[Ephraem Syrus]], the
 first voluminous hymn-writer whose works remain to us, thinking that the
 same melodies might be made useful to the faith, if adapted to more
 orthodox words, composed to them a large number of hymns in the Syriac
@@ -234,10 +234,10 @@ each. When a strophe contained five lines, the fifth was generally an
 "ephymnium," detached in sense, and consisting of a prayer, invocation,
 doxology or the like, to be sung antiphonally, either in full chorus or
 by a separate part of the choir. The _Syriac Chrestomathy_ of August
-Hahn (Leipzig, 1825), and the third volume of H. A. Daniel's _Thesaurus
+[[Hahn]] (Leipzig, 1825), and the third volume of H. A. Daniel's _Thesaurus
 Hymnologicus_ (Leipzig, 1841-1856), contain specimens of these hymns.
 Some of them have been translated into (unmetrical) English by the Rev.
-Henry Burgess (_Select Metrical Hymns of Ephrem Syrus_, &c., 1853). A
+Henry [[Burges|Burgess]] (_Select Metrical Hymns of Ephrem Syrus_, &c., 1853). A
 considerable number of those so translated are on subjects connected
 with death, resurrection, judgment, &c., and display not only Christian
 faith and hope, but much simplicity and tenderness of natural feeling.
@@ -272,7 +272,7 @@ trimeter iambics.
 
 An important development of hymnody at Constantinople arose out of the
 Arian controversy. Early in the 4th century Athanasius had rebuked, not
-only the doctrine of Arius, but the light character of certain hymns by
+only the doctrine of [[Arius]], but the light character of certain hymns by
 which he endeavoured to make that doctrine popular. When, towards the
 close of that century (398), St John Chrysostom was raised to the
 metropolitan see, the Arians, who were still numerous at Constantinople,
@@ -285,7 +285,7 @@ doctrine, often accompanied by taunts and insults to the orthodox.
 Chrysostom was apprehensive that this music might draw some of the
 simpler church people to the Arian side; he therefore organized, in
 opposition to it, under the patronage and at the cost of Eudoxia, the
-empress of Arcadius (then his friend), a system of nightly processional
+empress of [[Arcadius]] (then his friend), a system of nightly processional
 hymn-singing, with silver crosses, wax-lights and other circumstances of
 ceremonial pomp. Riots followed, with bloodshed on both sides, and with
 some personal injury to the empress's chief eunuch, who seems to have
@@ -310,7 +310,7 @@ century. The importance of that system in the services of the Greek
 church may be understood from the fact that Dr J. M. Neale computed
 four-fifths of the whole space (about 5000 pages) contained in the
 different service-books of that church to be occupied by hymnody, all in
-a language or dialect which has ceased to be anywhere spoken.
+a language or [[Dialect|dialect]] which has ceased to be anywhere spoken.
 
   The system has a peculiar technical terminology, in which the words
   "troparion," "ode," "canon" and "hirmus" ([Greek: eirmos]) chiefly
@@ -321,7 +321,7 @@ a language or dialect which has ceased to be anywhere spoken.
   regulated caesuras, but printed in the books as a single prose
   sentence, without marking any divisions. The following (turned into
   English, from a "canon" by John Mauropus) may be taken as an example:
-  "The never-sleeping Guardian, | the patron of my soul, | the guide of
+  "The never-sleeping [[Guardian]], | the patron of my soul, | the guide of
   my life, | allotted me by God, | I hymn thee, Divine Angel | of
   Almighty God." Dr Neale and most other writers regard all these
   "troparia" as rhythmical or modulated prose. Cardinal J. B. Pitra, on
@@ -356,12 +356,12 @@ a language or dialect which has ceased to be anywhere spoken.
 
   A _canon_ is a system of eight (theoretically nine) connected odes,
   the second being always suppressed. Various pauses, relieved by the
-  interposition of other short chants or readings, occur during the
+  interposition of other short [[Chant|chants]] or readings, occur during the
   singing of a whole "canon." The final "troparion" in each ode of the
   series is not unfrequently detached in sense (like the "ephymnia" of
   Ephraem Syrus), particularly when it is in the (very common) form of a
   "theotokion," or ascription of praise to the mother of our Lord, and
-  when it is a recurring refrain or burden.
+  when it is a recurring refrain or [[Burden|burden]].
 
 There were two principal periods of Greek hymnography constructed on
 these principles--the first that of Romanos and his followers, extending
@@ -376,7 +376,7 @@ The works of the writers of the former period were collected in
 _Tropologia_, or church hymn-books, which were held in high esteem till
 the 10th century, when they ceased to be regarded as church-books, and
 so fell into neglect. They are now preserved only in a very small number
-of manuscripts. From three of these, belonging to public libraries at
+of [[Manuscript|manuscripts]]. From three of these, belonging to public libraries at
 Moscow, Turin and Rome, Cardinal Pitra has printed, in his _Analecta_, a
 number of interesting examples, the existence of which appears to have
 been unknown to Dr Neale, and which, in the cardinal's estimation, are
@@ -389,9 +389,9 @@ dramatic character than the "melodies" of the later period, and a much
 more animated style; and he supposes that they may have been originally
 sung with dramatic accompaniments, by way of substitution for the
 theatrical performances of Pagan times. As an instance of their peculiar
-character, he mentions a Christmas or Epiphany hymn by Romanos, in
+character, he mentions a [[Christmas]] or Epiphany hymn by Romanos, in
 twenty-five long strophes, in which there is, first, an account of the
-Nativity and its accompanying wonders, and then a dialogue between the
+Nativity and its accompanying wonders, and then a [[Dialogue|dialogue]] between the
 wise men, the Virgin mother and Joseph. The magi arrive, are admitted,
 describe the moral and religious condition of Persia and the East, and
 the cause and adventures of their journey, and then offer their gifts.
@@ -408,7 +408,7 @@ Studium at Constantinople and St Saba in Palestine and their followers,
 and those of the adherents of the Greek rite in Sicily and South Italy
 (who suffered much from the Saracens and the Normans), into a less
 picturesque but more strictly theological course; and the influence of
-those controversies, in which the final success of the cause of "Icons"
+those controversies, in which the final success of the cause of "[[Icon|Icons]]"
 was largely due to the hymns, as well as to the courage and sufferings,
 of these confessors, was probably the cause of their supplanting, as
 they did, the works of the older school. Cardinal Pitra gives them the
@@ -419,9 +419,9 @@ its present lines of near approach to the Roman.
 Among the "melodists" of this latter Greek school there were many saints
 of the Greek church, several patriarchs and two emperors--Leo the
 Philosopher, and Constantine Porphyrogenitus, his son. Their greatest
-poets were Theodore and Joseph of the Studium, and Cosmas and John
+poets were Theodore and Joseph of the Studium, and [[Cosmas]] and John
 (called Damascene) of St Saba. Neale translated into English verse
-several selected portions, or centoes, from the works of these and
+several selected portions, or [[Cento|centoes]], from the works of these and
 others, together with four selections from earlier works by Anatolius.
 Some of his translations--particularly "The day is past and over," from
 Anatolius, and "Christian, dost thou see them," from Andrew of
@@ -453,12 +453,12 @@ that of Ambrose. A tradition, ancient and widely spread, ascribed to him
 the authorship of the remarkable "Hymnum dicat turba fratrum, hymnum
 cantus personet" ("Band of brethren, raise the hymn, let your song the
 hymn resound"), which is a succinct narrative, in hymnal form, of the
-whole gospel history; and is perhaps the earliest example of a strictly
-didactic hymn. Both Bede and Hincmar much admired this composition,
+whole [[Gospel|gospel]] history; and is perhaps the earliest example of a strictly
+didactic hymn. Both Bede and [[Hincmar]] much admired this composition,
 though the former does not mention, in connexion with it, the name of
 Hilary. The private use of hymns of such a character by Christians in
 the West may probably have preceded their ecclesiastical use; for Jerome
-says that in his day those who went into the fields might hear "the
+says that in his day those who went into the [[Fields|fields]] might hear "the
 ploughman at his hallelujahs, the mower at his hymns, and the
 vine-dresser singing David's psalms." Besides this, seven shorter
 metrical hymns attributed to Hilary are still extant.
@@ -478,7 +478,7 @@ weary and faint through sorrow; which custom has ever since been
 retained, and has been followed by almost all congregations in other
 parts of the world." He describes himself as moved to tears by the
 sweetness of these "hymns and canticles":--"The voices flowed into my
-ears; the truth distilled into my heart; I overflowed with devout
+[[Ear|ears]]; the truth distilled into my heart; I overflowed with devout
 affections, and was happy." To this time, according to an uncertain but
 not improbable tradition which ascribed the composition of the "Te Deum"
 to Ambrose, and connected it with the conversion of Augustine, is to be
@@ -496,7 +496,7 @@ appointed the Ambrosian hymns to be regularly sung in his offices for
 the canonical hours. Hence probably originated the practice of the
 Italian churches, and of others which followed their example, to sing
 certain hymns (Ambrosian, or by the early successors of the Ambrosian
-school) daily throughout the week, at "Vespers," "Lauds" and "Nocturns,"
+school) daily throughout the week, at "Vespers," "[[Laud|Lauds]]" and "Nocturns,"
 and on some days at "Compline" also--varying them with the different
 ecclesiastical seasons and festivals, commemorations of saints and
 martyrs and other special offices. Different dioceses and religious
@@ -532,14 +532,14 @@ the 9th century, to sing any hymns, except some from the Scriptures
 esteemed canonical, such as the "Song of the Three Children"
 ("Benedicite omnia opera"). But to this rule there were, according to
 Walafrid Strabo, some occasional exceptions; particularly in the case of
-Paulinus, patriarch of Aquileia under Charlemagne, himself a
+Paulinus, patriarch of [[Aquileia]] under Charlemagne, himself a
 hymn-writer, who frequently used hymns, composed by himself or others,
 in the eucharistic office, especially in private masses.
 
 Some of the hymns called "Ambrosian" (nearly 100 in number) are beyond
 all question by Ambrose himself, and the rest probably belong to his
 time or to the following century. Four, those beginning "Aeterne rerum
-conditor" ("Dread Framer of the earth and sky"), "Deus Creator omnium"
+conditor" ("Dread Framer of the earth and sky"), "[[Deus]] Creator omnium"
 ("Maker of all things, glorious God"), "Veni Redemptor Gentium"
 ("Redeemer of the nations, come") and "Jam surgit hora tertia" ("Christ
 at this hour was crucified"), are quoted as works of Ambrose by
@@ -554,7 +554,7 @@ an objective and not a subjective manner. They have exercised a powerful
 influence, direct or indirect, upon many of the best works of the same
 kind in all succeeding generations. With the Ambrosian hymns are
 properly classed those of Hilary, and the contemporary works of Pope
-Damasus I. (who wrote two hymns in commemoration of saints), and of
+[[Damasus]] I. (who wrote two hymns in commemoration of saints), and of
 Prudentius, from whose _Cathemerina_ ("Daily Devotions") and
 _Peristephana_ ("Crown-songs for Martyrs"), all poems of considerable,
 some of great length--about twenty-eight hymns, found in various
@@ -562,7 +562,7 @@ Breviaries, were derived. Prudentius was a layman, a native of
 Saragossa, and it was in the Spanish ritual that his hymns were most
 largely used. In the Mozarabic Breviary almost the whole of one of his
 finest poems (from which most churches took one part only, beginning
-"Corde natus ex parentis") was appointed to be sung between Easter and
+"Corde natus ex parentis") was appointed to be sung between [[Easter]] and
 Ascension-Day, being divided into eight or nine hymns; and on some of
 the commemorations of Spanish saints long poems from his _Peristephana_
 were recited or sung at large. He is entitled to a high rank among
@@ -582,8 +582,8 @@ compositions obtained wide popularity, and have since held their ground.
 Gelasius was of no great account as a hymn-writer; and the works of
 Ennodius appear to have been known only in Italy and Spain. The latter
 part of the 6th century produced Pope Gregory the Great and Venantius
-Fortunatus, an Italian poet, the friend of Gregory, and the favourite of
-Radegunda, queen of the Franks, who died (609) bishop of Poitiers.
+[[Fortunatus]], an Italian poet, the friend of Gregory, and the favourite of
+Radegunda, queen of the [[Franks]], who died (609) bishop of Poitiers.
 Eleven hymns of Gregory, and twelve or thirteen (mostly taken from
 longer poems) by Fortunatus, came into general use in the Italian,
 Gallican and British churches. Those of Gregory are in a style hardly
@@ -603,7 +603,7 @@ least as much as any of his predecessors.
   trochaic. The full alcaic stanza does not appear to have been used for
   church purposes before the 16th century, though some of its elements
   were. In the greater number of these works, a general intention to
-  conform to the rules of Roman prosody is manifest; but even those
+  conform to the rules of Roman prosody is [[Manifest|manifest]]; but even those
   writers (like Prudentius) in whom that conformity was most decided
   allowed themselves much liberty of deviation from it. Other works,
   including some of the very earliest, and some of conspicuous merit,
@@ -618,7 +618,7 @@ least as much as any of his predecessors.
   primitive period (even in those of Ambrose), anticipations--irregular
   indeed and inconstant, but certainly not accidental--of another great
   innovation, destined to receive important developments, that of
-  assonance or rhyme, in the final letters or syllables of verses.
+  [[Assonance|assonance]] or rhyme, in the final letters or syllables of verses.
   Archbishop Trench, in the introduction to his _Sacred Latin Poetry_,
   has traced the whole course of the transition from the ancient to the
   modern forms of versification, ascribing it to natural and necessary
@@ -651,13 +651,13 @@ Museum), supply many further illustrations of the same decline of
 taste:--such Sapphics, e.g., as the "Festum insigne prodiit coruscum" of
 Isidore, and the "O veneranda Trinitas laudanda" of the Anglo-Saxon
 books. The early medieval period, however, from the time of Gregory the
-Great to that of Hildebrand, was far from deficient in the production of
+Great to that of [[Hildebrand]], was far from deficient in the production of
 good hymns, wherever learning flourished. Bede in England, and Paul "the
 Deacon"--the author of a fairly classical sapphic ode on St John the
 Baptist--in Italy, were successful followers of the Ambrosian and
 Gregorian styles. Eleven metrical hymns are attributed to Bede by
-Cassander; and there are also in one of Bede's works (_Collectanea et
-flores_) two rhythmical hymns of considerable length on the Day of
+[[Cassander]]; and there are also in one of Bede's works (_Collectanea et
+[[Flores|flores]]_) two rhythmical hymns of considerable length on the Day of
 Judgment, with the refrains "In tremendo die" and "Attende homo," both
 irregularly rhymed, and, in parts, not unworthy of comparison with the
 "Dies Irae." Paulinus, patriarch of Aquileia, contemporary with Paul,
@@ -666,7 +666,7 @@ Theodulph, bishop of Orleans (793-835), author of the famous
 processional hymn for Palm Sunday in hexameters and pentameters,
 "Gloria, laus, et honor tibi sit, Rex Christe Redemptor" ("Glory and
 honour and laud be to Thee, King Christ the Redeemer"), and Hrabanus
-Maurus, archbishop of Mainz, the pupil of Alcuin, and the most learned
+Maurus, archbishop of [[Mainz]], the pupil of Alcuin, and the most learned
 theologian of his day, enriched the church with some excellent works.
 Among the anonymous hymns of the same period there are three of great
 beauty, of which the influence may be traced in most, if not all, of the
@@ -680,7 +680,7 @@ be of the late date assigned to it, in his _Mediaeval Hymns and
 Sequences_, by Neale. These were followed by the "Chorus novae
 Hierusalem" ("Ye Choirs of New Jerusalem") of Fulbert, bishop of
 Chartres. This group of hymns is remarkable for an attractive union of
-melody, imagination, poetical colouring and faith. It represents,
+melody, [[Imagination|imagination]], poetical colouring and faith. It represents,
 perhaps, the best and highest type of the middle school, between the
 severe Ambrosian simplicity and the florid luxuriance of later times.
 
@@ -692,24 +692,24 @@ severe Ambrosian simplicity and the florid luxuriance of later times.
 Another celebrated hymn, which belongs to the first medieval period, is
 the "Veni Creator Spiritus" ("Come, Holy Ghost, our souls inspire"). The
 earliest recorded occasion of its use is that of a translation (898) of
-the relics of St Marcellus, mentioned in the _Annals_ of the Benedictine
+the relics of St Marcellus, mentioned in the _[[Annals]]_ of the Benedictine
 order. It has since been constantly sung throughout Western Christendom
 (as versions of it still are in the Church of England), as part of the
-appointed offices for the coronation of kings, the consecration and
+appointed offices for the [[Coronation|coronation]] of kings, the consecration and
 ordination of bishops and priests, the assembling of synods and other
 great ecclesiastical solemnities. It has been attributed--probably in
 consequence of certain corruptions in the text of Ekkehard's _Life of
 Notker_ (a work of the 13th century)--to Charlemagne. Ekkehard wrote in
-the Benedictine monastery of St Gall, to which Notker belonged, with
+the Benedictine monastery of St [[Gall]], to which Notker belonged, with
 full access to its records; and an ignorant interpolator, regardless of
-chronology, added, at some later date, the word "Great" to the name of
+[[Chronology|chronology]], added, at some later date, the word "Great" to the name of
 "the emperor Charles," wherever it was mentioned in that work. The
 biographer relates that Notker--a man of a gentle, contemplative nature,
 observant of all around him, and accustomed to find spiritual and
 poetical suggestions in common sights and sounds--was moved by the
 sound of a mill-wheel to compose his "sequence" on the Holy Spirit,
 "Sancti Spiritus adsit nobis gratia" ("Present with us ever be the Holy
-Spirit's grace"); and that, when finished, he sent it as a present to
+Spirit's [[Grace|grace]]"); and that, when finished, he sent it as a present to
 "the emperor Charles," who in return sent him back, "by the same
 messenger," the hymn "Veni Creator," which (says Ekkehard) the same
 "Spirit had inspired him to write" ("Sibi idem Spiritus inspiraverat").
@@ -726,7 +726,7 @@ of the later medieval epoch of Latin hymnody. In the eucharistic
 service, in which (as has been stated) hymns were not generally used, it
 had been the practice, except at certain seasons, to sing "laud," or
 "Alleluia," between the epistle and the gospel, and to fill up what
-would otherwise have been a long pause, by extending the cadence upon
+would otherwise have been a long pause, by extending the [[Cadence|cadence]] upon
 the two final vowels of the "Alleluia" into a protracted strain of
 music. It occurred to Notker that, while preserving the spirit of that
 part of the service, the monotony of the interval might be relieved by
@@ -746,7 +746,7 @@ and to books containing them.
 
   Dr Neale, in a learned dissertation prefixed to his collection of
   sequences from medieval Missals, and enlarged in a Latin letter to H.
-  A. Daniel (printed in the fifth volume of Daniel's _Thesaurus
+  A. [[Daniel]] (printed in the fifth volume of Daniel's _Thesaurus
   hymnologicus_), investigated the laws of caesura and modulation which
   are discoverable in these works. Those first brought into use were
   sent by their author to Pope Nicholas I., who authorized their use,
@@ -774,7 +774,7 @@ Of the sequence on the Holy Ghost, sent by Notker (according to
 Ekkehard) to Charles the Bald, Neale says that it "was in use all over
 Europe, even in those countries, like Italy and Spain, which usually
 rejected sequences"; and that, "in the Missal of Palencia, the priest
-was ordered to hold a white dove in his hands, while intoning the first
+was ordered to hold a white [[Dove|dove]] in his hands, while intoning the first
 syllables, and then to let it go." Another of the most remarkable of
 Notker's sequences, beginning "Media in vita" ("In the midst of life we
 are in death"), is said to have been suggested to him while observing
@@ -785,19 +785,19 @@ was forbidden, on account of its being supposed to exercise a magical
 influence. A translation of it ("Mitten wir im Leben sind") is one of
 Luther's funeral hymns; and all but the opening sentence of that part of
 the burial service of the Church of England which is directed to be
-"said or sung" at the grave, "while the corpse is made ready to be laid
+"said or sung" at the grave, "while the [[Corpse|corpse]] is made ready to be laid
 into the earth," is taken from it.
 
 The "Golden Sequence," "Veni, sancte Spiritus" ("Holy Spirit, Lord of
 Light"), is an early example of the transition of sequences from a
 simply rhythmical to a metrical form. Archbishop Trench, who esteemed it
 "the loveliest of all the hymns in the whole circle of Latin sacred
-poetry," inclined to give credit to a tradition which ascribes its
-authorship to Robert II., king of France, son of Hugh Capet. Others have
-assigned to it a later date--some attributing it to Pope Innocent III.,
+poetry," inclined to give [[Credit|credit]] to a tradition which ascribes its
+authorship to Robert II., king of France, son of [[Hugh Capet]]. Others have
+assigned to it a later date--some attributing it to Pope [[Innocent]] III.,
 and some to Stephen Langton, archbishop of Canterbury. Many
 translations, in German, English and other languages, attest its merit.
-Berengarius of Tours, St Bernard of Clairvaux and Abelard, in the 11th
+Berengarius of Tours, St [[Bernard]] of Clairvaux and Abelard, in the 11th
 century and early in the 12th, followed in the same track; and the art
 of the Victorine school was carried to its greatest perfection by Adam
 of St Victor (who died between 1173 and 1194)--"the most fertile, and"
@@ -817,7 +817,7 @@ compositions--works which have exercised the talents of the greatest
 musical composers, and of innumerable translators in almost all
 languages--are the "Dies Irae" ("That day of wrath, that dreadful day"),
 by Thomas of Celano, the companion and biographer of St Francis of
-Assisi, and the "Stabat Mater dolorosa" ("By the cross sad vigil
+[[Assisi]], and the "Stabat Mater dolorosa" ("By the cross sad vigil
 keeping") of Jacopone, or Jacobus de Benedictis, a Franciscan humorist
 and reformer, who was persecuted by Pope Boniface VIII. for his satires
 on the prelacy of the time, and died in 1306. Besides these, the 13th
@@ -828,10 +828,10 @@ mysterium" ("Sing, my tongue, the Saviour's glory"), "Verbum supernum
 prodiens" ("The Word, descending from above"--not to be confounded with
 the Ambrosian hymn from which it borrowed the first line), "Sacris
 solemniis juncta sint gaudia" ("Let us with hearts renewed our grateful
-homage pay"), and "Adoro Te devote, latens Deitas" ("O Godhead hid,
+[[Homage|homage]] pay"), and "Adoro Te devote, latens Deitas" ("O Godhead hid,
 devoutly I adore Thee")--a group of remarkable compositions, written by
 him for the then new festival of Corpus Christi, of which he induced
-Pope Urban IV. (1261-1265) to decree the observance. In these (of which
+Pope Urban IV. (1261-1265) to [[Decree|decree]] the observance. In these (of which
 all but "Adoro Te devote" passed rapidly into breviaries and missals)
 the doctrine of transubstantiation is set forth with a wonderful degree
 of scholastic precision; and they exercised, probably, a not unimportant
@@ -847,10 +847,10 @@ didactic, theological; they are especially fertile and ingenious in the
 field of mystical interpretation. Two great monasteries in the East had,
 in the 8th and 9th centuries, been the principal centres of Greek
 hymnology; and, in the West, three monasteries--St Gall, near Constance
-(which was long the especial seat of German religious literature), Cluny
+(which was long the especial seat of German religious literature), [[Cluny]]
 in Burgundy and St Victor, near Paris--obtained a similar distinction.
 St Gall produced, besides Notker, several distinguished sequence
-writers, probably his pupils--Hartmann, Hermann and Gottschalk--to the
+writers, probably his pupils--Hartmann, [[Hermann]] and Gottschalk--to the
 last of whom Neale ascribes the "Alleluiatic Sequence" ("Cantemus cuncti
 melodum nunc Alleluia"), well known in England through his translation,
 "The strain upraise of joy and praise." The chief poets of Cluny were
@@ -873,15 +873,15 @@ father, in Latin hymnody, of that warm and passionate form of devotion
 which some may consider to apply too freely to Divine Objects the
 language of human affection, but which has, nevertheless, been popular
 with many devout persons, in Protestant as well as Roman Catholic
-churches. F. von Spee, "Angelus Silesius," Madame Guyon, Bishop Ken,
+churches. F. von Spee, "[[Angelus Silesius]]," Madame [[Guyon]], Bishop [[Ken]],
 Count Zinzendorf and Frederick William Faber may be regarded as
 disciples in this school. Many hymns, in various languages, have been
 founded upon St Bernard's "Jesu dulcis memoria" ("Jesu, the very thought
 of Thee"), "Jesu dulcedo cordium" ("Jesu, Thou joy of loving hearts")
 and "Jesu Rex admirabilis" ("O Jesu, King most wonderful")--three
-portions of one poem, nearly 200 lines long. Pietro Damiani, the friend
-of Pope Gregory VII, Marbode, bishop of Rennes, in the 11th, Hildebert,
-archbishop of Tours, in the 12th, and St Bonaventura in the 13th
+portions of one poem, nearly 200 lines long. Pietro [[Damiani]], the friend
+of Pope Gregory VII, Marbode, bishop of Rennes, in the 11th, [[Hildebert]],
+archbishop of Tours, in the 12th, and St [[Bonaventura]] in the 13th
 centuries, are other eminent men who added poetical fame as
 hymnographers to high public distinction.
 
@@ -897,7 +897,7 @@ discredit the old church services. After the 15th century they were
 discouraged at Rome. They retained for a time some of their old
 popularity among German Protestants, and were only gradually
 relinquished in France. A new "prose," in honour of St Maxentia, is
-among the compositions of Jean Baptiste Santeul; and Dr Daniel's second
+among the compositions of Jean [[Baptiste]] Santeul; and Dr Daniel's second
 volume closes with one written in 1855 upon the dogma of the Immaculate
 Conception.
 
@@ -917,7 +917,7 @@ Conception.
   brought to a conclusion by Urban VIII., in 1631. From this revised
   Breviary a large number of medieval hymns, both of the earlier and the
   later periods, were excluded; and in their places many new hymns,
-  including some by Pope Urban himself, and some by Cardinal Bellarmine
+  including some by Pope Urban himself, and some by Cardinal [[Bellarmine]]
   and another cardinal (Silvius Antonianus) were introduced. The hymns
   of the primitive epoch, from Hilary to Gregory the Great, for the most
   part retained their places (especially in the offices for every day of
@@ -934,7 +934,7 @@ Conception.
   were either prose or merely rhythmical, all the hymns had been made
   conformable to the laws of prosody and Latinity, those which could not
   be corrected by any milder method being entirely rewritten." The
-  latter fate befel, among others, the beautiful "Urbs beata
+  latter [[Fate|fate]] befel, among others, the beautiful "Urbs beata
   Hierusalem," which now assumed the form (to many, perhaps, better
   known), of "Caelestis urbs Jerusalem." Of the "very few" which were
   spared, the chief were "Ave maris stella" ("Gentle star of ocean"),
@@ -958,7 +958,7 @@ Conception.
   Hierusalem," may be taken as a typical example. The next revision was
   in 1670-1680, under Cardinal Péréfixe, preceptor of Louis XIV., and
   Francis Harlay, successively archbishops of Paris, who employed for
-  this purpose Claude Santeul, of the monastery of St Magloire, and,
+  this purpose [[Claude]] Santeul, of the monastery of St Magloire, and,
   through him, obtained the assistance of other French scholars,
   including his more celebrated brother, Jean Baptiste Santeul, of the
   abbey of St Victor--better known as "Santolius Victorinus." The third
@@ -1000,12 +1000,12 @@ Conception.
   and though Santeul (generally esteemed the better poet of the two)
   delighted in alcaics, and did not greatly affect the primitive manner,
   there can be no question as to the excellence of such hymns as his
-  "Fumant Sabaeis templa vaporibus" ("Sweet incense breathes around"),
+  "Fumant Sabaeis templa vaporibus" ("Sweet [[Incense|incense]] breathes around"),
   "Stupete gentes, fit Deus hostia" ("Tremble, ye Gentile lands"),
   "Hymnis dum resonat curia caelitum" ("Ye in the house of heavenly
   morn"), and "Templi sacratas pande, Sion, fores" ("O Sion, open wide
   thy gates"). It is a striking testimony to the merits of those writers
-  that such accomplished translators as the Rev. Isaac Williams and the
+  that such accomplished translators as the Rev. [[Isaac]] Williams and the
   Rev. John Chandler appear (from the title-page of the latter, and the
   prefaces of both) to have supposed their hymns to be "ancient" and
   "primitive." Among the other authors associated with them, perhaps the
@@ -1013,7 +1013,7 @@ Conception.
   the book of 1735 the "Urbs beata vera pacis Visio Jerusalem," in the
   opinion of Neale "much superior" to the "Caelestis urbs Jerusalem" of
   the Roman Breviary. This stood side by side with the "Urbs Jerusalem
-  beata" of 1527 (in the office for the dedication of churches) till
+  beata" of 1527 (in the office for the [[Dedication|dedication]] of churches) till
   1822, when the older form was at last finally excluded by Archbishop
   de Quelen.
 
@@ -1032,10 +1032,10 @@ Conception.
   quite a recent date. In England, a few are still occasionally used in
   the older universities and colleges. Some, also, have been composed in
   both countries since the Reformation. The "Carmina lyrica" of Johann
-  Jakob Balde, a native of Alsace, and a Jesuit priest in Bavaria, have
-  received high commendation from very eminent German critics,
+  [[Jakob]] Balde, a native of Alsace, and a Jesuit priest in Bavaria, have
+  received high [[Commendation|commendation]] from very eminent German critics,
   particularly Herder and Augustus Schlegel. Some of the Latin hymns of
-  William Alard (1572-1645), a Protestant refugee from Belgium, and
+  William Alard (1572-1645), a Protestant refugee from [[Belgium]], and
   pastor in Holstein, have been thought worthy of a place in Archbishop
   Trench's selection. Two by W. Petersen (printed at the end of
   Haberkorn's supplement to Jacobi's _Psalmodia Germanica_) are good in
@@ -1057,7 +1057,7 @@ Conception.
 He desired (as he says in the preface to his hymn-book of 1545) that
 this "beautiful ornament" might "in a right manner serve the great
 Creator and His Christian people." The persecuted Bohemian or Hussite
-Church, then settled on the borders of Moravia under the name of "United
+Church, then settled on the [[Borders|borders]] of Moravia under the name of "United
 Brethren," had sent to him, on a mission in 1522, Michael Weiss, who not
 long afterwards published a number of German translations from old
 Bohemian hymns (known as those of the "Bohemian Brethren"), with some of
@@ -1066,18 +1066,18 @@ his own. These Luther highly approved and recommended. He himself, in
 in 1527, and to 125 in 1545. He had formed what he called a "house
 choir" of musical friends, to select such old and popular tunes (whether
 secular or ecclesiastical) as might be found suitable, and to compose
-new melodies, for church use. His fellow labourers in this field
-(besides Weiss) were Justus Jonas, his own especial colleague; Paul
-Eber, the disciple and friend of Melanchthon; John Walther, choirmaster
+new melodies, for church use. His [[Fellow|fellow]] labourers in this field
+(besides Weiss) were Justus [[Jonas]], his own especial colleague; Paul
+[[Eber]], the disciple and friend of Melanchthon; John Walther, choirmaster
 successively to several German princes, and professor of arts, &c., at
 Wittenberg; Nicholas Decius, who from a monk became a Protestant teacher
 in Brunswick, and translated the "Gloria in Excelsis," &c.; and Paul
-Speratus, chaplain to Duke Albert of Prussia in 1525. Some of their
+Speratus, [[Chaplain|chaplain]] to Duke Albert of Prussia in 1525. Some of their
 works are still popular in Germany. Weiss's "Funeral Hymn," "Nun lasst
 uns den Leib begraben" ("Now lay we calmly in the grave"); Eber's "Herr
 Jesu Christ, wahr Mensch und Gott" ("Lord Jesus Christ, true Man and
 God"), and "Wenn wir in höchsten Nöthen sein" ("When in the hour of
-utmost need"); Walther's "New Heavens and new Earth" ("Now fain my
+utmost need"); Walther's "New Heavens and new Earth" ("Now [[Fain|fain]] my
 joyous heart would sing"); Decius's "To God on high be thanks and
 praise"; and Speratus's "Salvation now has come for all," are among
 those which at the time produced the greatest effect, and are still best
@@ -1086,26 +1086,26 @@ remembered.
 Luther's own hymns, thirty-seven in number (of which about twelve are
 translations or adaptations from Latin originals), are for the principal
 Christian seasons; on the sacraments, the church, grace, death, &c.; and
-paraphrases of seven psalms, of a passage in Isaiah, and of the Lord's
+paraphrases of seven psalms, of a passage in [[Isaiah]], and of the Lord's
 Prayer, Ten Commandments, Creed, Litany and "Te Deum." There is also a
 very touching and stirring song on the martyrdom of two youths by fire
 at Brussels, in 1523-1524. Homely and sometimes rugged in form, and for
 the most part objective in tone, they are full of fire, manly simplicity
 and strong faith. Three rise above the rest. One for Christmas, "Vom
-Himmel hoch da komm ich her" ("From Heaven above to earth I come"), has
+[[Himmel]] hoch da komm ich her" ("From Heaven above to earth I come"), has
 a reverent tenderness, the influence of which may be traced in many
 later productions on the same subject. That on salvation through Christ,
 of a didactic character, "Nun freuet euch, lieben Christen g'mein"
 ("Dear Christian people, now rejoice"), is said to have made many
 conversions, and to have been once taken up by a large congregation to
-silence a Roman Catholic preacher in the cathedral of Frankfort.
+silence a Roman Catholic preacher in the cathedral of [[Frankfort]].
 Pre-eminent above all is the celebrated paraphrase of the 46th Psalm:
 "Ein' feste Burg ist unser Gott" ("A sure stronghold our God is
 He")--"the production" (as Ranke says) "of the moment in which Luther,
 engaged in a conflict with a world of foes, sought strength in the
 consciousness that he was defending a divine cause which could never
-perish." Carlyle compares it to "a sound of Alpine avalanches, or the
-first murmur of earthquakes." Heine called it "the Marseillaise of the
+perish." Carlyle compares it to "a sound of Alpine [[Avalanche|avalanches]], or the
+first murmur of earthquakes." [[Heine]] called it "the Marseillaise of the
 Reformation."
 
 Luther spent several years in teaching his people at Wittenberg to sing
@@ -1137,7 +1137,7 @@ shoemaker of Nuremberg, also known in other branches of literature. All
 these wrote some good hymns. They were succeeded by men of another sort,
 to whom F. A. Cunz gives the name of "master-singers," as having raised
 both the poetical and the musical standard of German
-hymnody:--Bartholomäus Ringwaldt, Ludwig Helmbold, Johannes Pappus, Martin
+hymnody:--Bartholomäus Ringwaldt, Ludwig Helmbold, Johannes Pappus, [[Martin]]
 Schalling, Rutilius and Sigismund Weingartner. The principal topics of
 their hymns (as if with some foretaste of the calamities which were soon
 to follow) were the vanity of earthly things, resignation to the Divine
@@ -1145,7 +1145,7 @@ will, and preparation for death and judgment. The well-known English hymn,
 "Great God, what do I see and hear," is founded upon one by Ringwaldt. Of
 a quite different character were two of great beauty and universal
 popularity, composed by Philip Nicolai, a Westphalian pastor, during a
-pestilence in 1597, and published by him, with fine chorales, two years
+pestilence in 1597, and published by him, with fine [[Chorale|chorales]], two years
 afterwards. One of these (the "Sleepers wake! a voice is calling," of
 Mendelssohn's oratorio, _St Paul_) belongs to the family of Advent or New
 Jerusalem hymns. The other, a "Song of the believing soul concerning the
@@ -1159,7 +1159,7 @@ Germany.
 The hymns produced during the Thirty Years' War are characteristic of
 that unhappy time, which (as Miss Winkworth says) "caused religious men
 to look away from this world," and made their songs more and more
-expressive of personal feelings. In point of refinement and graces of
+expressive of personal feelings. In point of refinement and [[Graces|graces]] of
 style, the hymn-writers of this period excelled their predecessors.
 Their taste was chiefly formed by the influence of Martin Opitz, the
 founder of what has been called the "first Silesian school" of German
@@ -1170,14 +1170,14 @@ battle-song of Gustavus Adolphus, published (1631) after the victory of
 Breitenfeld, for the use of his army, "Verzage nicht du Häuflein klein"
 ("Fear not, O little flock, the foe"), we have almost certainly a
 composition of the hero-king himself, the versification corrected by his
-chaplain Jakob Fabricius (1593-1654) and the music composed by Michael
+chaplain Jakob [[Fabricius]] (1593-1654) and the music composed by Michael
 Altenburg, whose name has been given to the hymn. This, with Luther's
 paraphrase of the 67th Psalm, was sung by Gustavus and his soldiers
 before the battle of Lützen in 1632. Two very fine hymns, one of prayer
 for deliverance and peace, the other of trust in God under calamities,
 were written about the same time by Matthäus Löwenstern, a saddler's
 son, poet, musician and statesman, who was ennobled after the peace by
-the emperor Ferdinand III. Martin Rinckhart, in 1636, wrote the "Chorus
+the emperor [[Ferdinand]] III. Martin Rinckhart, in 1636, wrote the "Chorus
 of God's faithful children" ("Nun danket alle Gott"--"Now thank we all
 our God"), introduced by Mendelssohn in his "Lobgesang," which has been
 called the "Te Deum" of Germany, being usually sung on occasions of
@@ -1187,19 +1187,19 @@ theology at Erfurt, in 1642, a fine adaptation of the ancient "Urbs
 beata Hierusalem." The hymn of trust in Providence by George Neumark,
 librarian to that duke of Weimar ("Wer nur den lieben Gott lässt
 walten"--"Leave God to order all thy ways"), is scarcely, if at all,
-inferior to that of Paul Gerhardt on the same theme. Paul Flemming, a
+inferior to that of Paul [[Gerhardt]] on the same theme. Paul Flemming, a
 great traveller and lover of nature, who died in 1639, also wrote
 excellent compositions, coloured by the same tone of feeling; and some,
 of great merit, were composed, soon after the close of the war, by
 Louisa Henrietta, electress of Brandenburg, granddaughter of the famous
-admiral Coligny, and mother of the first king of Prussia. With these may
+admiral [[Coligny]], and mother of the first king of Prussia. With these may
 be classed (though of later date) a few striking hymns of faith and
 prayer under mental anxiety, by Anton Ulrich, duke of Brunswick.
 
 
   Rist.
 
-  Dach.
+  [[Dach]].
 
 The most copious, and in their day most esteemed, hymn-writers of the
 first half of the 17th century, were Johann Heermann and Johann Rist.
@@ -1257,7 +1257,7 @@ spring-tide hymns ("Now all the woods are sleeping" and "Go forth, my
 heart, and seek delight") show an exquisite feeling for nature; while
 nothing can be more tender and pathetic than "Du bist zwar mein und
 bleibest mein" ("Thou'rt mine, yes, still thou art mine own"), on the
-death of his son. Franck, who was burgomaster of Guben in Lusatia, has
+death of his son. Franck, who was burgomaster of Guben in [[Lusatia]], has
 been considered by some second only to Gerhardt. If so, it is with a
 great distance between them. His approach to the later pietists is
 closer than that of Gerhardt. His hymns were published, under the title
@@ -1272,7 +1272,7 @@ exuberant in their sweetness, like those of St Bernard among medieval
 poets. An adaptation of one of them, by Wesley, "Thee will I love, my
 Strength, my Tower," is familiar to English readers. Those for the first
 Sunday after Epiphany, for Sexagesima Sunday and for Trinity Sunday, in
-_Lyra Germanica_, are good examples of his excellences, with few of his
+_[[Lyra]] Germanica_, are good examples of his excellences, with few of his
 defects. His hymns are generally so free from the expression, or even
 the indirect suggestion, of Roman Catholic doctrine, that it has been
 supposed they were written before his conversion, though published
@@ -1294,7 +1294,7 @@ surpassed in solid merit by other less fertile writers of the same
 school. The "Auf hinauf zu deiner Freude" ("Up, yes, upward to thy
 gladness") of Schade may recall to an English reader a hymn by Seagrave,
 and more than one by Lyte; the "Malabarian hymn" (as it was called by
-Jacobi) of Johann Schütz, "All glory to the Sovereign Good," has been
+[[Jacobi]]) of Johann Schütz, "All glory to the Sovereign Good," has been
 popular in England as well as Germany; and one of the most exquisite
 strains of pious resignation ever written is "Whate'er my God ordains is
 right," by Samuel Rodigast.
@@ -1304,12 +1304,12 @@ right," by Samuel Rodigast.
 
 Joachim Neander, a schoolmaster at Düsseldorf, and a friend of Spener
 and Schütz (who died before the full development of the "Pietistic"
-school), was the first man of eminence in the "Reformed" or Calvinistic
+school), was the first man of [[Eminence|eminence]] in the "Reformed" or Calvinistic
 Church who imitated Lutheran hymnody. This he did, while suffering
 persecution from the elders of his own church for some other religious
 practices, which he had also learnt from Spener's example. As a poet, he
 is sometimes deficient in art; but there is feeling, warmth and
-sweetness in many of his "Bundeslieder" or "Songs of the Covenant," and
+sweetness in many of his "Bundeslieder" or "Songs of the [[Covenant]]," and
 they obtained general favour, both in the Reformed and in Lutheran
 congregations. The Summer Hymn ("O Thou true God alone") and that on the
 glory of God in creation ("Lo, heaven and earth and sea and air") are
@@ -1320,17 +1320,17 @@ instances of his best style.
 
   Dessler.
 
-  Hiller.
+  [[Hiller]].
 
-  Arnold.
+  [[Arnold]].
 
   Tersteegen.
 
   Zinzendorf.
 
-With the "Pietists" may be classed Benjamin Schmolke and Dessler,
+With the "Pietists" may be classed [[Benjamin]] Schmolke and Dessler,
 representatives of the "Orthodox" division of Spener's school; Philipp
-Friedrich Hiller, their leading poet in South Germany; Gottfried Arnold
+[[Friedrich]] Hiller, their leading poet in South Germany; Gottfried Arnold
 and Gerhard Tersteegen, who were practically independent of
 ecclesiastical organization, though connected, one with the "Orthodox"
 and the other with the "Reformed" churches; and Nikolaus Ludwig, Graf
@@ -1341,7 +1341,7 @@ not rise above mediocrity. His style, if less refined, is also less
 subjective and more simple than that of most of his contemporaries.
 Among his best and most attractive works, which indeed, it would be
 difficult to praise too highly, are the "Hosianna David's Sohn," for
-Palm Sunday--much resembling a shorter hymn by Jeremy Taylor; and the
+Palm Sunday--much resembling a shorter hymn by [[Jeremy]] Taylor; and the
 Ascension, Whitsuntide and Sabbath hymns--"Heavenward doth our journey
 tend," "Come deck our feast to-day," and "Light of light, enlighten me."
 Dessler was a greater poet than Schmolke. Few hymns, of the subjective
@@ -1352,7 +1352,7 @@ into ill-health during the latter part of his ministry, published a
 _Geistliche Liederhöstlein_ in a didactic vein, with more taste than
 power, but (as Miss Winkworth says) in a tone of "deep, thoughtful,
 practical piety." They were so well adapted to the wants of his people
-that to this day Hiller's Casket is prized, next to their Bibles, by the
+that to this day Hiller's [[Casket]] is prized, next to their Bibles, by the
 peasantry of Württemberg; and the numerous emigrants from that part of
 Germany to America and other foreign countries generally take it with
 them wherever they go. Arnold, a professor at Giessen, and afterwards a
@@ -1374,7 +1374,7 @@ individual, meditative and subjective. Wesley's adaptations of two--"Lo!
 God is here; let us adore," and "Thou hidden Love of God, whose
 source"--are well known. Among those translated by Miss Winkworth, "O
 God, O Spirit, Light of all that live," and "Come, brethren, let us go,"
-are specimens which exhibit favourably his manner and power. Miss Cox
+are specimens which exhibit favourably his manner and power. Miss [[Cox]]
 speaks of him as "a gentle heaven-inspired soul, whose hymns are the
 reflection of a heavenly, happy life, his mind being full of a
 child-like simplicity"; and his own poem on the child-character, which
@@ -1391,13 +1391,13 @@ is taught to most children of religious parents in Germany. Wesley's
 "Jesus, Thy blood and righteousness" is a translation from Zinzendorf.
 
 
-  Gellert.
+  [[Gellert]].
 
-The transition from Tersteegen and Zinzendorf to Gellert and Klopstock
+The transition from Tersteegen and Zinzendorf to Gellert and [[Klopstock]]
 marks strongly the reaction against Pietism which took place towards the
 middle of the 18th century. The _Geistlichen Oden und Lieder_ of
 Christian F. Gellert were published in 1757, and are said to have been
-received with an enthusiasm almost like that which "greeted Luther's
+received with an [[Enthusiasm|enthusiasm]] almost like that which "greeted Luther's
 hymns on their first appearance." It is a proof of the moderation both
 of the author and of his times that they were largely used, not only by
 Protestant congregations, but in those German Roman Catholic churches in
@@ -1405,7 +1405,7 @@ which vernacular services had been established through the influence of
 the emperor Joseph II. They became the model which was followed by most
 succeeding hymn-writers, and exceeded all others in popularity till the
 close of the century, when a new wave of thought was generated by the
-movement which produced the French Revolution. Since that time they have
+movement which produced the [[French Revolution]]. Since that time they have
 been, perhaps, too much depreciated. They are, indeed, cold and
 didactic, as compared with Scheffler or Tersteegen; but there is
 nevertheless in them a spirit of genuine practical piety; and, if not
@@ -1425,16 +1425,16 @@ artificial and much too elaborate.
   Fouqué.
 
 Of the "romantic" school, which came in with the French Revolution, the
-two leading writers are Friedrich Leopold von Hardenberg, called
-"Novalis," and Friedrich de la Motte Fouqué, the celebrated author of
+two leading writers are Friedrich [[Leopold]] von Hardenberg, called
+"Novalis," and Friedrich de [[La Motte|la Motte]] Fouqué, the celebrated author of
 _Undine_ and _Sintram_--both romance-writers, as well as poets. The
 genius of Novalis was early lost to the world; he died in 1801, not
 thirty years old. Some of his hymns are very beautiful; but even in such
 works as "Though all to Thee were faithless," and "If only He is mine,"
 there is a feeling of insulation and of despondency as to good in the
 actual world, which was perhaps inseparable from his ecclesiastical
-idealism. Fouqué survived till 1843. In his hymns there is the same deep
-flow of feeling, richness of imagery and charm of expression which
+[[Idealism|idealism]]. Fouqué survived till 1843. In his hymns there is the same deep
+flow of feeling, richness of imagery and [[Charm|charm]] of expression which
 distinguishes his prose works. The two missionary hymns--"Thou, solemn
 Ocean, rollest to the strand," and "In our sails all soft and
 sweetly"--and the exquisite composition which finds its motive in the
@@ -1447,7 +1447,7 @@ examples.
 
 The later German hymn-writers of the 19th century belong, generally, to
 the revived "Pietistic" school. Some of the best, Johann Baptist von
-Albertini, Friedrich Adolf Krummacher, and especially Karl Johann
+Albertini, Friedrich Adolf [[Krummacher]], and especially Karl Johann
 Philipp Spitta (1801-1859) have produced works not unworthy of the fame
 of their nation. Mr Massie, the able translator of Spitta's _Psalter und
 Harfe_ (Leipzig, 1833), speaks of it as having "obtained for him in
@@ -1459,15 +1459,15 @@ too florid and rhetorical style.
 
 6. _British Hymnody._--After the Reformation, the development of hymnody
 was retarded, in both parts of Great Britain, by the example and
-influence of Geneva. Archbishop Cranmer appears at one time to have been
+influence of [[Geneva]]. Archbishop [[Cranmer]] appears at one time to have been
 disposed to follow Luther's course, and to present to the people, in an
-English dress, some at least of the hymns of the ancient church. In a
+English [[Dress|dress]], some at least of the hymns of the ancient church. In a
 letter to King Henry VIII. (October 7, 1544), among some new
 "processions" which he had himself translated, into English, he mentions
-the Easter hymn, "Salve, festa dies, toto memorabilis aevo" ("Hail, glad
+the Easter hymn, "Salve, festa dies, toto memorabilis aevo" ("[[Hail]], glad
 day, to be joyfully kept through all generations"), of Fortunatus. In
-the "Primer" of 1535 (by Marshall) and the one of 1539 (by Bishop Hilsey
-of Rochester, published by order of the vicar-general Cromwell) there
+the "Primer" of 1535 (by [[Marshall]]) and the one of 1539 (by Bishop Hilsey
+of Rochester, published by order of the vicar-general [[Cromwell]]) there
 had been several rude English hymns, none of them taken from ancient
 sources. King Henry's "Primer" of 1545 (commanded by his injunction of
 the 6th of May 1545 to be used throughout his dominions) was formed on
@@ -1477,8 +1477,8 @@ early hymns. But in the succeeding reign different views prevailed. A
 new direction had been given to the taste of the "Reformed"
 congregations in France and Switzerland by the French metrical
 translation of the Old Testament Psalms, which appeared about 1540. This
-was the joint work of Clement Marot, valet or groom of the chamber to
-Francis I., and Theodore Beza, then a mere youth, fresh from his studies
+was the joint work of Clement [[Marot]], valet or [[Groom|groom]] of the chamber to
+Francis I., and Theodore [[Beza]], then a mere youth, fresh from his studies
 at Orleans.
 
 
@@ -1489,7 +1489,7 @@ France, and, being set to popular airs, became fashionable. They were
 sung by Francis himself, the queen, the princesses and the courtiers,
 upon all sorts of secular occasions, and also, more seriously and
 religiously, by the citizens and the common people. They were soon
-perceived to be a power on the side of the Reformation. Calvin, who had
+perceived to be a power on the side of the Reformation. [[Calvin]], who had
 settled at Geneva in the year of Marot's return to Paris, was then
 organizing his ecclesiastical system. He rejected the hymnody of the
 breviaries and missals, and fell back upon the idea, anciently held by
@@ -1502,21 +1502,21 @@ to the one party of the "reformed" profession, and to the other of
 heresy.
 
 
-  Sternhold and Hopkins.
+  Sternhold and [[Hopkins]].
 
 The example thus set produced in England the translation commonly known
 as the "Old Version" of the Psalms. It was begun by Thomas Sternhold,
 whose position in the household of Henry VIII., and afterwards of Edward
 VI., was similar to that of Marot with Francis I., and whose services to
-the former of those kings were rewarded by a substantial legacy under
+the former of those kings were rewarded by a substantial [[Legacy|legacy]] under
 his will. Sternhold published versions of nineteen Psalms, with a
 dedication to King Edward, and died soon afterwards. A second edition
 appeared in 1551, with eighteen more Psalms added, of Sternhold's
 translating, and seven others by John Hopkins, a Suffolk clergyman. The
 work was continued during Queen Mary's reign by British refugees at
 Geneva, the chief of whom were William Whittingham, afterwards dean of
-Durham, who succeeded John Knox as minister of the English congregation
-there, and William Kethe or Keith, said by Strype to have been a
+Durham, who succeeded John [[Knox]] as minister of the English congregation
+there, and William Kethe or [[Keith]], said by Strype to have been a
 Scotsman. They published at Geneva in 1556 a service-book, containing
 fifty-one English metrical psalms, which number was increased, in later
 editions, to eighty-seven. On the accession of Queen Elizabeth, this
@@ -1541,7 +1541,7 @@ Thomas Churchyard) appeared in 1562.
   offices (first added in 1552) an English version of "Veni Creator"
   (the longer of the two now in use) was appointed to be "said or sung."
   The canticles, "Te Deum," "Benedicite," the Nicene and Athanasian
-  Creeds, the "Gloria in Excelsis," and some other parts of the
+  [[Creeds]], the "Gloria in Excelsis," and some other parts of the
   communion and other special offices were also directed to be "said or
   sung"; and, by general rubrics, the chanting of the whole service was
   allowed.
@@ -1575,7 +1575,7 @@ Thomas Churchyard) appeared in 1562.
   face of it that it was "newly set forth, and allowed to be sung of the
   people in churches, before and after morning and evening prayer, as
   also before and after the sermon." The question of its authority has
-  been at different times much debated, chiefly by Peter Heylyn and
+  been at different times much debated, chiefly by Peter [[Heylyn]] and
   Thomas Warton on one side (both of whom disliked and disparaged it),
   and by William Beveridge, bishop of St Asaph, and the Rev. H. J. Todd
   on the other. Heylyn says, it was "permitted rather than allowed,"
@@ -1612,7 +1612,7 @@ places different from that of 1562.
 
   Scotch Psalms.
 
-In Scotland, the General Assembly of the kirk caused to be printed at
+In Scotland, the General Assembly of the [[Kirk|kirk]] caused to be printed at
 Edinburgh in 1564, and enjoined the use of, a book entitled _The Form of
 Prayers and Ministry of the Sacraments used in the English Church at
 Geneva, approved and received by the Church of Scotland; whereto,
@@ -1621,10 +1621,10 @@ prayers, with the whole Psalms of David in English metre_. This
 contained, from the "Old Version," translations of forty Psalms by
 Sternhold, fifteen by Whittingham, twenty-six by Kethe and thirty-five
 by Hopkins. Of the remainder two were by John Pulleyn (one of the
-Genevan refugees, who became archdeacon of Colchester); six by Robert
+Genevan refugees, who became [[Archdeacon|archdeacon]] of [[Colchester]]); six by Robert
 Pont, Knox's son-in-law, who was a minister of the kirk, and also a lord
-of session; and fourteen signed with the initials I. C., supposed to be
-John Craig; one was anonymous, eight were attributed to N., two to M.
+of session; and fourteen signed with the [[Initials|initials]] I. C., supposed to be
+John [[Craig]]; one was anonymous, eight were attributed to N., two to M.
 and one to T. N. respectively.
 
 So matters continued in both churches until the Civil War. During the
@@ -1636,7 +1636,7 @@ Stirling. Sir William having completed his task, King Charles I. had it
 examined and approved by several archbishops and bishops of England,
 Scotland and Ireland, and caused it to be printed in 1631 at the Oxford
 University Press, as the work of King James; and, by an order under the
-royal sign manual, recommended its use in all churches of his dominions.
+royal sign [[Manual|manual]], recommended its use in all churches of his dominions.
 In 1634 he enjoined the Privy Council of Scotland not to suffer any
 other psalms, "of any edition whatever," to be printed in or imported
 into that kingdom. In 1636 it was republished, and was attached to the
@@ -1648,7 +1648,7 @@ When the Long Parliament undertook, in 1642, the task of altering the
 liturgy, its attention was at the same time directed to psalmody. It had
 to judge between two rival translations of the Psalms--one by Francis
 Rouse, a member of the House of Commons, afterwards one of Cromwell's
-councillors and finally provost of Eton; the other by William Barton, a
+councillors and finally provost of [[Eton]]; the other by William [[Barton]], a
 clergyman of Leicester. The House of Lords favoured Barton, the House of
 Commons Rouse, who had made much use of the labours of Sir William
 Alexander. Both versions were printed by order of parliament, and were
@@ -1658,7 +1658,7 @@ under an order of the House of Commons dated 14th November 1645. In the
 following year it was recommended by the parliament to the General
 Assembly at Edinburgh, who appointed a committee, with large powers, to
 prepare a revised Psalter, recommending to their consideration not only
-Rouse's book but that of 1564, and two other versions (by Zachary Boyd
+Rouse's book but that of 1564, and two other versions (by Zachary [[Boyd]]
 and Sir William Mure of Rowallan), then lately executed in Scotland. The
 result of the labours of this committee was the "Paraphrase" of the
 Psalms, which, in 1649-1650, by the concurrent authority of the General
@@ -1705,7 +1705,7 @@ permitting" its use "in all such churches, chapels and congregations as
 should think fit to receive it." Dr Compton, bishop of London,
 recommended it to his diocese. No hymns were then appended to it; but
 the authors added a "supplement" in 1703, which received an exactly
-similar sanction from an order in council of Queen Anne. In that
+similar sanction from an order in council of Queen [[Anne]]. In that
 supplement there were several new versions of the canticles, and of the
 "Veni Creator"; a variation of the old "humble lamentation of a sinner";
 six hymns for Christmas, Easter and Holy Communion (all versions or
@@ -1727,7 +1727,7 @@ certainly cannot be accorded to the new, of fidelity to the Hebrew. In
 both, it must be admitted, that those parts which have poetical merit are
 few and far between; but a reverent taste is likely to be more offended by
 the frequent sacrifice, in the new, of depth of tone and accuracy of sense
-to a fluent commonplace correctness of versification and diction, than by
+to a fluent [[Commonplace|commonplace]] correctness of versification and diction, than by
 any excessive homeliness in the old. In both, however, some psalms, or
 portions of psalms, are well enough rendered to entitle them to a
 permanent place in the hymn-books--especially the 8th, and parts of the
@@ -1740,7 +1740,7 @@ with the works of other labourers in the same field, of whom Holland, in
 his interesting volumes entitled _Psalmists of Great Britain_,
 enumerates above 150. Some of them have been real poets--the celebrated
 earl of Surrey, Sir Philip Sidney and his sister the countess of
-Pembroke, George Sandys, George Wither, John Milton and John Keble. In
+Pembroke, George Sandys, George Wither, John Milton and John [[Keble]]. In
 their versions, as might be expected, there are occasional gleams of
 power and beauty, exceeding anything to be found in Sternhold and
 Hopkins, or Tate and Brady; but even in the best these are rare, and
@@ -1761,8 +1761,8 @@ be best used for this purpose.
   Prayer-books, till about the middle of the 19th century, there were
   commonly found, besides some of the hymns sanctioned by that order in
   council, or of those contained in the book of 1562, a sacramental and
-  a Christmas hymn by Doddridge; a Christmas hymn (varied by Martin
-  Madan) from Charles Wesley; an Easter hymn of the 18th century,
+  a Christmas hymn by [[Doddridge]]; a Christmas hymn (varied by Martin
+  [[Madan]]) from Charles Wesley; an Easter hymn of the 18th century,
   beginning "Jesus Christ has risen to-day"; and abridgments Bishop
   Ken's Morning and Evening Hymns. These additions first began to be
   made in or about 1791, in London editions of the Prayer-book and
@@ -1774,7 +1774,7 @@ be best used for this purpose.
 
 In the state of authority, opinion and practice disclosed by the
 preceding narrative may be found the true explanation of the fact that,
-in the country of Chaucer, Spenser, Shakespeare and Milton, and
+in the country of [[Chaucer]], Spenser, Shakespeare and Milton, and
 notwithstanding the example of Germany, no native congregational hymnody
 worthy of the name arose till after the commencement of the 18th
 century. Yet there was no want of appreciation of the power and value
@@ -1787,7 +1787,7 @@ of congregational church music. Milton could write, before 1645:--
    Dissolve me into ecstasies,
    And bring all Heaven before mine eyes."
 
-Thomas Mace, in his _Music's Monument_ (1676), thus described the effect
+Thomas [[Mace]], in his _Music's Monument_ (1676), thus described the effect
 of psalm-singing before sermons by the congregation in York Minster on
 Sundays, during the siege of 1644: "When that vast concording unity of
 the whole congregational chorus came thundering in, even so as it made
@@ -1796,7 +1796,7 @@ delight! in the which I was so transported and wrapt up in high
 contemplations that there was no room left in my whole man, body, soul
 and spirit, for anything below divine and heavenly raptures; nor could
 there possibly be anything to which that very singing might be truly
-compared, except the right apprehension or conceiving of that glorious
+compared, except the right [[Apprehension|apprehension]] or conceiving of that glorious
 and miraculous quire, recorded in the scriptures at the dedication of
 the temple." Nor was there any want of men well qualified, and by the
 turn of their minds predisposed, to shine in this branch of literature.
@@ -1822,10 +1822,10 @@ Scotland_, require little, beyond the change of some archaisms of
 language, to adapt them for church or domestic use at the present day.
 
 
-  Dickson.
+  [[Dickson]].
 
 Next come the two hymns of "The new Jerusalem," by an English Roman
-Catholic priest signing himself F. B. P. (supposed to be "Francis Baker,
+Catholic priest signing himself F. B. P. (supposed to be "Francis [[Baker]],
 Presbyter"), and by another Scottish poet, David Dickson, of which the
 history is given by Dr Bonar in his edition of Dickson's work. This
 (Dickson's), which begins "O mother dear, Jerusalem," and has long been
@@ -1841,10 +1841,10 @@ in churches is the true parent of the several shorter forms,--all of
 more than common merit,--which, in modern hymn-books, begin with the
 same first line, but afterwards deviate from the original. Kindred to
 these is the very fine and faithful translation, by Dickson's
-contemporary Drummond of Hawthornden of the ancient "Urbs beata
+contemporary [[Drummond]] of Hawthornden of the ancient "Urbs beata
 Hierusalem" ("Jerusalem, that place divine"). Other ancient hymns (two
 of Thomas Aquinas, and the "Dies Irae") were also well translated, in
-1646, by Richard Crashaw, after he had become a Roman Catholic and had
+1646, by Richard [[Crashaw]], after he had become a Roman Catholic and had
 been deprived by the parliament of his fellowship at Cambridge.
 
 
@@ -1875,7 +1875,7 @@ day (Hymns 1, 74, 75, and 84 in part i., and 26, 29, 36 and 54 in part
 ii. of _Hallelujah_).
 
 
-  Cosin.
+  [[Cosin]].
 
 John Cosin, afterwards bishop of Durham, published in 1627 a volume of
 "Private Devotions," for the canonical hours and other occasions. In
@@ -1896,12 +1896,12 @@ beauty and power.
 
   Jeremy Taylor.
 
-During the Commonwealth, in 1654, Jeremy Taylor published at the end of
+During the [[Commonwealth]], in 1654, Jeremy Taylor published at the end of
 his _Golden Grove_, twenty-one hymns, described by himself as
 "celebrating the mysteries and chief festivals of the year, according to
 the manner of the ancient church, fitted to the fancy and devotion of
 the younger and pious persons, apt for memory, and to be joined, to
-their other prayers." Of these, his accomplished editor, Bishop Heber,
+their other prayers." Of these, his accomplished editor, Bishop [[Heber]],
 justly says:--
 
   "They are in themselves, and on their own account, very interesting
@@ -1912,8 +1912,8 @@ justly says:--
   and quibbles which was an equally frequent and still greater
   defilement of some of the finest poetry of the 17th century will
   materially diminish their effect as devotional or descriptive odes.
-  Yet, with all these faults, they are powerful, affecting, and often
-  harmonious; there are many passages of which Cowley need not have been
+  Yet, with all these [[Fault|faults]], they are powerful, affecting, and often
+  harmonious; there are many passages of which [[Cowley]] need not have been
   ashamed, and some which remind us, not disadvantageously, of the
   corresponding productions of Milton."
 
@@ -1934,7 +1934,7 @@ books there are altogether seven or eight hymns, the whole or parts of
 which are extremely good: Crossman's "New Jerusalem" ("Sweet place,
 sweet place alone"), one of the best of that class, and "My life's a
 shade, my days"; Austin's "Hark, my soul, how everything," "Fain would
-my thoughts fly up to Thee," "Lord, now the time returns," "Wake all my
+my thoughts [[Fly|fly]] up to Thee," "Lord, now the time returns," "Wake all my
 hopes, lift up your eyes"; and Baxter's "My whole, though broken heart,
 O Lord," and "Ye holy angels bright." Austin's _Offices_ (he was a Roman
 Catholic) seem to have attracted much attention. Theophilus Dorrington,
@@ -1957,7 +1957,7 @@ general quaintness), constructed several hymns of more than average
 excellence.
 
 Three other eminent names of the 17th century remain to be mentioned,
-John Dryden, Bishop Ken and Bishop Simon Patrick; with which may be
+John [[Dryden]], Bishop Ken and Bishop Simon Patrick; with which may be
 associated that of Addison, though he wrote in the 18th century.
 
 
@@ -1993,7 +1993,7 @@ of Barton, Mason and Shepherd, together with "an attempt to turn some of
 George Herbert's poems into common metre," and a few sacramental hymns
 by authors now forgotten, named Joseph Boyse (1660-1728) and Joseph
 Stennett. Of the 1410 authors of original British hymns enumerated in
-Daniel Sedgwick's catalogue, published in 1863, 1213 are of later date
+Daniel Sedgwick's [[Catalogue|catalogue]], published in 1863, 1213 are of later date
 than 1707; and, if any correct enumeration could be made of the total
 number of hymns of all kinds published in Great Britain before and after
 that date, the proportion subsequent to 1707 would be very much larger.
@@ -2005,7 +2005,7 @@ Watts was the first to understand the nature of the want, and, by the
 publication of his _Hymns_ in 1707-1709, and _Psalms_ (not translations,
 but hymns founded on psalms) in 1709, he led the way in providing for
 it. His immediate followers were Simon Browne and Philip Doddridge.
-Later in the 18th century, Joseph Hart, Thomas Gibbons, Miss Anne
+Later in the 18th century, Joseph [[Hart]], Thomas Gibbons, Miss Anne
 Steele, Samuel Medley, Samuel Stennett, John Ryland, Benjamin Beddome
 and Joseph Swain succeeded to them.
 
@@ -2046,7 +2046,7 @@ even a noble style. His "Hark, the glad sound, the Saviour comes" (which
 is, indeed, his masterpiece), is as sweet, vigorous and perfect a
 composition as can anywhere be found. Two other hymns, "How gentle God's
 commands," and that which, in a form slightly varied, became the "O God
-of Bethel, by whose hand," of the Scottish "Paraphrases," well represent
+of [[Bethel]], by whose hand," of the Scottish "Paraphrases," well represent
 his softer manner.
 
 Of the other followers in the school of Watts, Miss Anne Steele
@@ -2059,10 +2059,10 @@ reached there was Ralph Erskine. This seems to have been after the
 publication of Erskine's _Gospel Sonnets_, which appeared in 1732, five
 years before he joined his brother Ebenezer in the Secession Church. The
 _Gospel Sonnets_ became, as some have said, a "people's classic"; but
-there is in them very little which belongs to the category of hymnody.
+there is in them very little which belongs to the [[Category|category]] of hymnody.
 More than nineteen-twentieths of this very curious book are occupied
 with what are, in fact, theological treatises and catechisms, mystical
-meditations on Christ as a bridegroom or husband, and spiritual enigmas,
+meditations on Christ as a bridegroom or husband, and spiritual [[Enigma|enigmas]],
 paradoxes, and antithetical conceits, versified, it is true, but of a
 quality of which such lines as--
 
@@ -2072,7 +2072,7 @@ quality of which such lines as--
 may be taken as a sample. The grains of poetry scattered through this
 large mass of Calvinistic divinity are very few; yet in one short
 passage of seven stanzas ("O send me down a draught of love"), the fire
-burns with a brightness so remarkable as to justify a strong feeling of
+[[Burns|burns]] with a brightness so remarkable as to justify a strong feeling of
 regret that the gift which this writer evidently had in him was not more
 often cultivated. Another passage, not so well sustained, but of
 considerable beauty (part of the last piece under the title "The
@@ -2084,7 +2084,7 @@ After his secession, Ralph Erskine published two paraphrases of the
 "Song of Solomon," and a number of other "Scripture songs," paraphrased,
 in like manner, from the Old and New Testaments. In these the influence
 of Watts became very apparent, not only by a change in the writer's
-general style, but by the direct appropriation of no small quantity of
+general style, but by the direct [[Appropriation|appropriation]] of no small quantity of
 matter from Dr Watts's hymns, with variations which were not always
 improvements. His paraphrases of I Cor. i. 24; Gal. vi. 14; Heb. vi.
 17-19; Rev. v. 11, 12, vii. 10-17, and xii. 7-12 are little else than
@@ -2094,7 +2094,7 @@ form which it ultimately assumed as the 66th "Paraphrase" of the Church
 of Scotland, of Watts's "What happy men or angels these," and "These
 glorious minds, how bright they shine." No one can compare it with its
 ultimate product, "How bright these glorious spirits shine," without
-perceiving that William Cameron followed Erskine, and only added finish
+perceiving that William [[Cameron]] followed Erskine, and only added finish
 and grace to his work,--both excelling Watts, in this instance, in
 simplicity as well as in conciseness.
 
@@ -2137,7 +2137,7 @@ Moravians, John Cennick, with whom, perhaps, may be classed John Byrom,
 who imbibed the mystical ideas of some of the German schools; the
 Calvinists, Augustus Montague Toplady, John Berridge, William Williams,
 Martin Madan, Thomas Haweis, Rowland Hill, John Newton and William
-Cowper.
+[[Cowper]].
 
 
   Charles Wesley.
@@ -2163,7 +2163,7 @@ are few better examples than "O for a thousand tongues to sing," "Blow
 ye the trumpet, blow," "Rejoice, the Lord is King" and "Come, let us
 join our friends above"; of his more tender vein, "Happy soul, thy days
 are ended"; and of his fervid contemplative style (without going beyond
-hymns fit for general use), "O Thou who earnest from above," "Forth in
+hymns fit for general use), "O Thou who [[Earnest|earnest]] from above," "Forth in
 Thy name, O Lord, I go" and "Eternal beam of light divine." With those
 whose taste is for hymns in which warm religious feelings are warmly and
 demonstratively expressed, "Jesus, lover of my soul," is as popular as
@@ -2183,24 +2183,24 @@ Abraham praise," an ode of singular power and beauty.
 
 The Moravian Methodists produced few hymns now available for general
 use. The best are Cennick's "Children of the heavenly King" and
-Hammond's "Awake and sing the song of Moses and the Lamb," the former of
+Hammond's "Awake and sing the song of Moses and the [[Lamb]]," the former of
 which (abridged), and the latter as varied by Madan, are found in many
 hymn-books, and are deservedly esteemed. John Byrom, whose name we have
 thought it convenient to connect with these, though he did not belong to
 the Moravian community, was the author of a Christmas hymn ("Christians
 awake, salute the happy morn") which enjoys great popularity; and also
 of a short subjective hymn, very fine both in feeling and in expression,
-"My spirit longeth for Thee within my troubled breast."
+"My spirit longeth for Thee within my troubled [[Breast|breast]]."
 
 
   Toplady.
 
-The contributions of the Calvinistic Methodists to English hymnody are
+The contributions of the [[Calvinistic Methodists]] to English hymnody are
 of greater extent and value. Few writers of hymns had higher gifts than
 Toplady, author of "Rock of ages," by some esteemed the finest in the
 English language. He was a man of ardent temperament, enthusiastic zeal,
 strong convictions and great energy of character. "He had," says one of
-his biographers, "the courage of a lion, but his frame was brittle as
+his biographers, "the courage of a lion, but his [[Frame|frame]] was brittle as
 glass." Between him and John Wesley there was a violent opposition of
 opinion, and much acrimonious controversy; but the same fervour and zeal
 which made him an intemperate theologian gave warmth, richness and
@@ -2224,7 +2224,7 @@ the special work of missionary preaching, though not the authors of many
 good hymns, composed, or adapted from earlier compositions, some of
 great merit. One of Berridge, adapted from Erskine, has been already
 mentioned; another, adapted from Watts, is "Jesus, cast a look on me."
-Williams, a Welshman, who wrote "Guide me, O Thou great Jehovah," was
+Williams, a Welshman, who wrote "Guide me, O Thou great [[Jehovah]]," was
 especially an apostle of Calvinistic Methodism in his own country, and
 his hymns are still much used in the principality. Rowland Hill wrote
 the popular hymn beginning "Exalted high at God's right hand."
@@ -2248,7 +2248,7 @@ is often dry and colloquial, he rises at other times into
 Zion, city of our God"; and sometimes (as in "Approach, my soul, the
 mercy seat") rivals Cowper himself in depth of feeling. Cowper's hymns
 in this book are, almost without exception, worthy of his name. Among
-them are "Hark, my soul, it is the Lord," "There is a fountain filled
+them are "Hark, my soul, it is the Lord," "There is a [[Fountain|fountain]] filled
 with blood," "Far from the world, O Lord, I flee," "God moves in a
 mysterious way" and "Sometimes a light surprises." Some, perhaps, even
 of these, and others of equal excellence (such as "O for a closer walk
@@ -2266,7 +2266,7 @@ themselves by all ordinary Christians.
 
 During the first quarter of the 19th century there were not many
 indications of the tendency, which afterwards became manifest, to
-enlarge the boundaries of British hymnody. _The Remains of Henry Kirke
+enlarge the boundaries of British hymnody. _The Remains of Henry [[Kirke]]
 White_, published by Southey in 1807, contained a series of hymns, some
 of which are still in use; and a few of Bishop Heber's hymns and those
 of Sir Robert Grant, which, though offending rather too much against
@@ -2293,8 +2293,8 @@ common with both those writers, and he is less subjective than most of
 the "Methodist" school. His hymns beginning "Lo! He comes, let all adore
 Him," and "Through the day Thy love hath spared us," have a rich,
 melodious movement; and another, "We sing the praise of Him who died,"
-is distinguished by a calm, subdued power, rising gradually from a
-rather low to a very high key.
+is distinguished by a [[Calm|calm]], subdued power, rising gradually from a
+rather low to a very high [[Key|key]].
 
 
   Hurn.
@@ -2370,7 +2370,7 @@ Scotland also. Nearly 600 authors whose publications were later than
 million hymns are now in existence. Works, critical and historical, upon
 the subject of hymns, have also multiplied; and collections for church
 use have become innumerable--several of the various religious
-denominations, and many of the leading ecclesiastical and religious
+[[Denomination|denominations]], and many of the leading ecclesiastical and religious
 societies, having issued hymn-books of their own, in addition to those
 compiled for particular dioceses, churches and chapels, and to books
 (like _Hymns Ancient and Modern_, published 1861, supplemented 1889,
@@ -2380,19 +2380,19 @@ commencement of this new epoch would be impossible; but probably no
 names could be chosen more fairly representative of its characteristic
 merits, and perhaps also of some of its defects, than those of Josiah
 Conder and James Edmeston among English Nonconformists; Henry Francis
-Lyte and Charlotte Elliott among evangelicals in the Church of England;
-John Mason Neale and Christopher Wordsworth, bishop of Lincoln, among
+Lyte and [[Charlotte]] [[Elliott]] among evangelicals in the Church of England;
+John Mason Neale and [[Christopher]] Wordsworth, bishop of [[Lincoln]], among
 English churchmen of the higher school; Arthur Penrhyn Stanley, Edward
-H. Plumptre, Frances Ridley Havergal; and in Scotland, Dr Horatius
-Bonar, Dr Norman Macleod and Dr George Matheson. American hymn-writers
+H. Plumptre, [[Franc|Frances]] Ridley Havergal; and in Scotland, Dr Horatius
+Bonar, Dr Norman Macleod and Dr George [[Matheson]]. American hymn-writers
 belong to the same schools, and have been affected by the same
 influences. Some of them have enjoyed a just reputation on both sides
 of the Atlantic. Among those best known are John Greenleaf Whittier,
-Bishop Doane, Dr W. A. Muhlenberg and Thomas Hastings; and it is
+Bishop Doane, Dr W. A. Muhlenberg and Thomas [[Hastings]]; and it is
 difficult to praise too highly such works as the Christmas hymn, "It
 came upon the midnight clear," by Edmund H. Sears; the Ascension hymn,
 "Thou, who didst stoop below," by Mrs S. E. Miles; two by Dr Ray Palmer,
-"My faith looks up to Thee, Thou Lamb of Calvary," and "Jesus, Thou joy
+"My faith looks up to Thee, Thou Lamb of [[Calvary]]," and "Jesus, Thou joy
 of loving hearts," the latter of which is the best among several good
 English versions of "Jesu, dulcedo, cordium"; and "Lord of all being,
 throned afar," by Oliver Wendell Holmes.
@@ -2406,7 +2406,7 @@ the general history of the principal schools of ancient and modern
 hymnody, and especially the history of its use in the Christian church.
 For this purpose it has not been thought necessary to give any account
 of the hymns of Racine, Madame Guyon and others, who can hardly be
-classed with any school, nor of the works of Caesar Malan of Geneva
+classed with any school, nor of the works of [[Caesar]] [[Malan]] of Geneva
 (1787-1864) and other quite modern hymn-writers of the Reformed churches
 in Switzerland and France.
 
@@ -2420,7 +2420,7 @@ climates, of many different nations, and in many varieties of
 circumstances and condition. Coloured, indeed, by these differences, and
 also by the various modes in which the same truths have been apprehended
 by different minds and sometimes reflecting partial and imperfect
-conceptions of them, and errors with which they have been associated in
+conceptions of them, and [[Error|errors]] with which they have been associated in
 particular churches, times and places, its testimony is, nevertheless,
 generally the same. It has upon it a stamp of genuineness which cannot
 be mistaken. It bears witness to the force of a central attraction more
@@ -2445,7 +2445,7 @@ moral and spiritual experience. (S.)
   English versions of the Psalms by Sternhold and Hopkins and their
   predecessors, and the French version by Clement Marot and Theodore
   Beza, were written with the same purpose of fitting sacred minstrelsy
-  to the voice of the multitude. Goudimel in 1566 and Claudin le Jeune
+  to the voice of the multitude. [[Goudimel]] in 1566 and Claudin le Jeune
   in 1607 printed harmonizations of tunes that had then become standard
   for the Psalms, and in England several such publications appeared,
   culminating in Thomas Ravenscroft's famous collection, _The Whole Book
@@ -2457,7 +2457,7 @@ moral and spiritual experience. (S.)
   preaching would join in the singing of psalms before and after the
   sermon.
 
-  The placing of the choral song of the church within the lips of the
+  The placing of the choral song of the church within the [[Lip|lips]] of the
   people had great religious and moral influence; it has had also its
   great effect upon art, shown in the productions of the North German
   musicians ever since the first days of the Reformation, which abound
@@ -2481,7 +2481,7 @@ moral and spiritual experience. (S.)
   to poems; any tune in a given metre is available for every poem in the
   same, and hence there are various tunes to one poem, and various poems
   to one tune.[4] In England a tune is named generally after some
-  place--as "York," "Windsor," "Dundee,"--or by some other unsignifying
+  place--as "York," "Windsor," "[[Dundee]],"--or by some other unsignifying
   word; in North Germany a tune is mostly named by the initial words of
   the verses to which it is allied, and consequently, whenever it is
   heard, whether with words or without, it necessarily suggests to the
@@ -2496,14 +2496,14 @@ moral and spiritual experience. (S.)
   feeling prompted by the hymn under treatment.
 
   BIBLIOGRAPHY: I. Ancient.--George Cassander, _Hymni ecclesiastici_
-  (Cologne, 1556); Georgius Fabricius, _Poëtarum veterum
+  ([[Cologne]], 1556); Georgius Fabricius, _Poëtarum veterum
   ecclesiasticorum_ (Frankfort, 1578); Cardinal J. M. Thomasius,
   _Hymnarium in Opera_, ii. 351 seq. (Rome, 1747); A. J. Rambach,
   _Anthologie christlicher Gesänge_ (Altona, 1817); H. A. Daniel,
   _Thesaurus hymnologicus_ (Leipzig, 5 vols., 1841-1856); J. M. Neale,
   _Hymni ecclesiae et sequentiae_ (London, 1851-1852); and _Hymns of the
   Eastern Church_ (1863). The dissertation prefixed to the second volume
-  of the _Acta sanctorum_ of the Bollandists; Cardinal J. B. Pitra,
+  of the _Acta sanctorum_ of the [[Bollandists]]; Cardinal J. B. Pitra,
   _Hymnographie de l'église grecque_ (1867), _Analecta sacra_ (1876); W.
   Christ and M. Paranikas, _Anthologia Graeca carminum Christianorum_
   (Leipzig, 1871); F. A. March, _Latin Hymns with English Notes_ (New
@@ -2511,12 +2511,12 @@ moral and spiritual experience. (S.)
   1874); J. Pauly, _Hymni breviarii Romani_ (Aix-la-Chapelle, 3 vols.,
   1868-1870); Pimont, _Les Hymnes du bréviaire romain_ (vols. 1-3,
   1874-1884, unfinished); A. W. F. Fischer, _Kirchenlieder-Lexicon_
-  (Gotha, 1878-1879); J. Kayser, _Beiträge zur Geschichte der ältesten
+  ([[Gotha]], 1878-1879); J. Kayser, _Beiträge zur Geschichte der ältesten
   Kirchenhymnen_ (1881); M. Manitius, _Geschichte der christlichen
   lateinischen Poesie_ (Stuttgart, 1891); John Julian, _Dictionary of
   Hymnology_ (1892, new ed. 1907). For criticisms of metre, see also
   Huemer, _Untersuchungen über die ältesten christlichen Rhythmen_
-  (1879); E. Bouvy, _Poètes et mélodes_ (Nîmes, 1886); C. Krumbacher,
+  (1879); E. Bouvy, _Poètes et mélodes_ (Nîmes, 1886); C. [[Krumbacher]],
   _Geschichte der byzantinischen Literatur_ (Munich, 1897, p. 700 seq.);
   J. M. Neale, Latin dissertation prefixed to Daniel's _Thesaurus_, vol.
   5; and D. J. Donahoe, _Early Christian Hymns_ (London, 1909).
@@ -2529,7 +2529,7 @@ moral and spiritual experience. (S.)
   Stevenson, _Latin Hymns of the Anglo-Saxon Church_ (Surtees Society,
   Durham, 1851); Norman, _Hymnarium Sarisburiense_ (London, 1851); J. D.
   Chambers, _Psalter, &c._, according to the Sarum use (1852); F. J.
-  Mone, _Lateinische Hymnen des Mittelalters_ (Freiburg, 3 vols.,
+  Mone, _Lateinische Hymnen des Mittelalters_ ([[Freiburg]], 3 vols.,
   1853-1855); Ph. Wackernagel, _Das deutsche Kirchenlied von der
   ältesten Zeit bis zum Anfang des 17. Jahrhunderts_, vol. i. (Leipzig,
   1864); E. Dümmler, _Poëtae latini aevi Carolini_ (1881-1890); the
@@ -2542,13 +2542,13 @@ moral and spiritual experience. (S.)
   Hiberica," _Spanische Hymnen des Mittelalters_, vol. xvi. (1894); the
   "Hymnodia Gotica," _Mozarabische Hymnen des altspanischen Ritus_, vol.
   xxvii. (1897); J. Dankó, _Vetus hymnarium ecclesiasticae Hungariae_
-  (Budapest, 1893); J. H. Bernard and R. Atkinson, _The Irish Liber
-  Hymnorum_ (2 vols., London, 1898); C. A. J. Chevalier, _Poésie
+  ([[Budapest]], 1893); J. H. Bernard and R. [[Atkinson]], _The Irish Liber
+  Hymnorum_ (2 vols., London, 1898); C. A. J. [[Chevalier]], _Poésie
   liturgique du moyen âge_ (Paris, 1893).
 
   III. Modern.--J. C. Jacobi, _Psalmodia Germanica_ (1722-1725 and 1732,
   with supplement added by J. Haberkorn, 1765); F. A. Cunz, _Geschichte
-  des deutschen Kirchenliedes_ (Leipzig, 1855); Baron von Bunsen,
+  des deutschen Kirchenliedes_ (Leipzig, 1855); Baron von [[Bunsen]],
   _Versuch eines allgemeinen Gesang- und Gebetbuches_ (1833) and
   _Allgemeines evangelisches Gesang- und Gebetbuch_ (1846); Catherine
   Winkworth, _Christian Singers of Germany_ (1869) and _Lyra Germanica_
@@ -2560,10 +2560,10 @@ moral and spiritual experience. (S.)
   Hymns, their Authors and Origin_ (1866); John Gadsby, _Memoirs of the
   Principal Hymn-writers_ (3rd ed., 1861); L. C. Biggs, Annotations to
   _Hymns Ancient and Modern_ (1867); Daniel Sedgwick, _Comprehensive
-  Index of Names of Original Authors of Hymns_ (2nd ed., 1863); R. E.
+  [[Index]] of Names of Original Authors of Hymns_ (2nd ed., 1863); R. E.
   Prothero, _The Psalms in Human Life_ (1907); C. J. Brandt and L.
-  Helweg, _Den danske Psalmedigtning_ (Copenhagen, 1846-1847); J. N.
-  Skaar, _Norsk Salmehistorie_ (Bergen, 1879-1880); H. Schück, _Svensk
+  Helweg, _Den danske Psalmedigtning_ ([[Copenhagen]], 1846-1847); J. N.
+  Skaar, _Norsk Salmehistorie_ ([[Bergen]], 1879-1880); H. Schück, _Svensk
   Literaturhistoria_ (Stockholm, 1890); Rudolf Wolkan, _Geschichte der
   deutschen Literatur in Böhmen_, 246-256, and _Das deutsche Kirchenlied
   der böhm. Brüder_ (Prague, 1891); Zahn, _Die geistlichen Lieder der
@@ -2573,7 +2573,7 @@ moral and spiritual experience. (S.)
 
   For account of hymn-tunes, &c., see W. Cowan and James Love, _Music of
   the Church Hymnody and the Psalter in Metre_ (London, 1901); and
-  Dickinson, _Music in the History of the Western Church_ (New York,
+  [[Dickinson]], _Music in the History of the Western Church_ (New York,
   1902); S. Kümmerle, _Encyklopädie der evangelischen Kirchenmusik_ (4
   vols., 1888-1895); Chr. Palmer, _Evangelische Hymnologie_ (Stuttgart,
   1865); and P. Urto Kornmüller, _Lexikon der kirchlichen Tonkunst_
@@ -2591,7 +2591,7 @@ FOOTNOTES:
 
   [3] The authorship of this and of one other, "When all thy mercies, O
     my God," has been made a subject of controversy,--being claimed for
-    Andrew Marvell (who died in 1678), in the preface to Captain E.
+    Andrew [[Marvell]] (who died in 1678), in the preface to Captain E.
     Thompson's edition (1776) of Marvell's _Works_. But this claim does
     not appear to be substantiated. The editor did not give his readers
     the means of judging as to the real age, character or value of a
@@ -2600,7 +2600,7 @@ FOOTNOTES:
     them among Marvell's poems, as published in the body of his edition;
     and he advanced a like claim on like grounds to two other poems, in
     very different styles, which had been published as their own by
-    Tickell and Mallet. It is certain that all the five hymns were first
+    Tickell and [[Mallet]]. It is certain that all the five hymns were first
     made public in 1712, in papers contributed by Addison to the
     _Spectator_ (Nos. 441, 453, 465, 489, 513), in which they were
     introduced in a way which might have been expected if they were by

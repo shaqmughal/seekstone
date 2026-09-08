@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Embargo"
 
 # Embargo
 
-EMBARGO (a Spanish word meaning "stoppage"), in international law, the
+EMBARGO (a Spanish word meaning "stoppage"), in [[International|international]] law, the
 detention by a state of vessels within its ports as a measure of public,
 as distinguished from private, utility. In practice it serves as a mode
 of coercing a weaker state. In the middle ages war, being regarded as a
@@ -23,8 +23,8 @@ there, theirs shall be safe in our lands" (art. 48).
 Embargoes in anticipation of war have long since fallen into disuse, and
 it is now customary on the outbreak of war for the belligerents even to
 grant a respite to the enemy's trading vessels to leave their ports at
-the outbreak of war, so that neither ship nor cargo is any longer
-exposed to embargo. This has been confirmed in one of the Hague
+the outbreak of war, so that neither ship nor [[Cargo|cargo]] is any longer
+exposed to embargo. This has been confirmed in one of the [[Hague]]
 Conventions of 1907 (convention relative to the status of enemy merchant
 ships at the outbreak of hostilities, Oct. 18, 1907), which provides
 that "when a merchant ship belonging to one of the belligerent powers is

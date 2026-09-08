@@ -10,25 +10,25 @@ DAMPIER, WILLIAM (1652-1715), English buccaneer, navigator and
 hydrographer, was born at East Coker, Somersetshire, in 1652 (baptized
 8th of June). Having early become an orphan, he was placed with the
 master of a ship at Weymouth, in which he made a voyage to Newfoundland.
-On his return he sailed to Bantam in the East Indies. He served in 1673
+On his return he sailed to [[Bantam]] in the [[East Indies]]. He served in 1673
 in the Dutch War under Sir Edward Sprague, and was present at two
 engagements (28th of May; 4th of June); but then fell sick and was put
 ashore. In 1674 he became an under-manager of a Jamaica estate, but
 continued only a short time in this situation. He afterwards engaged in
-the coasting trade, and thus acquired an accurate knowledge of all the
+the [[Coasting|coasting]] trade, and thus acquired an accurate knowledge of all the
 ports and bays of the island. He made two voyages to the Bay of
 Campeachy (1675-1676), and remained for some time with the
 logwood-cutters, varying this occupation with buccaneering. In 1678 he
 returned to England, again visiting Jamaica in 1679 and joining a party
-of buccaneers, with whom he crossed the Isthmus of Darien, spent the
+of [[Buccaneers|buccaneers]], with whom he crossed the Isthmus of [[Darien]], spent the
 year 1680 on the Peruvian coast, and sacking, plundering and burning,
-made his way down to Juan Fernandez Island. After serving with another
+made his way down to Juan [[Fernandez]] Island. After serving with another
 privateering expedition in the Spanish Main, he went to Virginia and
-engaged with a captain named Cook for a privateering voyage against the
+engaged with a captain named [[Cook]] for a privateering voyage against the
 Spaniards in the South Seas. They sailed in August 1683, touched at the
-Guinea coast, and then proceeded round Cape Horn into the Pacific.
+Guinea coast, and then proceeded round Cape [[Horn]] into the Pacific.
 Having touched at Juan Fernandez, they made the coast of South America,
-cruising along Chile and Peru. They took some prizes, and with these
+cruising along [[Chile]] and Peru. They took some prizes, and with these
 they proceeded to the Galapagos Islands and to Mexico, which last they
 fell in with near Cape Blanco. While they lay here Captain Cook died,
 and the command devolved on Captain Davis, who, with several other
@@ -38,19 +38,19 @@ leaving Davis, went on board Swan's ship, and proceeded with him along
 the northern parts of Mexico as far as southern California. Swan then
 proposed, as the expedition met with "bad success" on the Mexican coast,
 to run across the Pacific and return by the East Indies. They started
-from Cape Corrientes on the 31st of March 1686, and reached Guam in the
+from Cape Corrientes on the 31st of March 1686, and reached [[Guam]] in the
 Ladrones on the 20th of May; the men, having almost come to an end of
 their rations, had decided to kill and eat their leaders next, beginning
-with the "lusty and fleshy" Swan. After six months' drunkenness and
+with the "lusty and fleshy" Swan. After six months' [[Drunkenness|drunkenness]] and
 debauchery in the Philippines, the majority of the crew, including
 Dampier, left Swan and thirty-six others behind in Mindanao, cruised
-(1687-1688) from Manila to Pulo Condore, from the latter to China, and
+(1687-1688) from [[Manila]] to Pulo Condore, from the latter to China, and
 from China to the Spice Islands and New Holland (the Australian
 mainland). In March 1688 they were off Sumatra, and in May off the
 Nicobars, where Dampier was marooned (at his own request, as he
 declares, for the purpose of establishing a trade in ambergris) with two
 other Englishmen, a Portuguese and some Malays. He and his companions
-contrived to navigate a canoe to Achin in Sumatra; but the fatigues and
+contrived to navigate a [[Canoe|canoe]] to Achin in Sumatra; but the fatigues and
 distress of the voyage proved fatal to several and nearly carried off
 Dampier himself. After making several voyages to different places of the
 East Indies (Tongking, Madras, &c.), he acted for some time, and
@@ -58,8 +58,8 @@ apparently somewhat unwillingly, as gunner to the English fort of
 Benkulen. Thence he ultimately contrived to return to England in 1691.
 
 In 1699 he was sent out by the English admiralty in command of the
-"Roebuck," especially designed for discovery in and around Australia. He
-sailed from the Downs, the 14th of January, with twenty months'
+"Roebuck," especially designed for discovery in and around [[Australia]]. He
+sailed from the [[Downs]], the 14th of January, with twenty months'
 provisions, touched at the Canaries, Cape Verdes and Bahia, and ran from
 Brazil round the Cape of Good Hope direct to Australia, whose west coast
 he reached on the 26th of July, in about 26 deg. S. lat. Anchoring in
@@ -76,7 +76,7 @@ of his successor, Philip Carteret. Nor did Dampier visit the west coast
 of New Britain or realize its small extent on that side. He was
 prevented from prosecuting his discoveries by the discontent of his men
 and the state of his ship. In May 1700 he was again at Timor, and thence
-he proceeded homeward by Batavia (4th July-17th October) and the Cape of
+he proceeded homeward by [[Batavia]] (4th July-17th October) and the Cape of
 Good Hope. In February 1701 he arrived off Ascension Island, when the
 vessel foundered (21st-24th February), the crew reaching land and
 staying in the island till the 3rd of April, when they were conveyed to

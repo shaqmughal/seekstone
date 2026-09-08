@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Islay"
 
 # Islay
 
-ISLAY, the southernmost island of the Inner Hebrides, Argyllshire,
+ISLAY, the southernmost island of the Inner [[Hebrides]], [[Argyllshire]],
 Scotland, 16 m. W. of Kintyre and 3/4 m. S.W. of Jura, from which it is
 separated by the Sound of Islay. Pop. (1901) 6857; area, 150,400 acres;
 maximum breadth 19 m. and maximum length 25 m. The sea-lochs Gruinart
@@ -18,7 +18,7 @@ called the "Queen of the Hebrides." The surface generally is regular,
 the highest summits being Ben Bheigeir (1609 ft.) and Sgorr nam
 Faoileann (1407 ft.). There are several freshwater lakes and streams,
 which provide good fishing. Islay was the ancient seat of the "lord of
-the Isles," the first to adopt that title being John Macdonald of Isle
+the Isles," the first to adopt that title being John [[Macdonald]] of Isle
 of Islay, who died about 1386; but the Macdonalds were ultimately ousted
 by their rivals, the Campbells, about 1616. Islay House, the ancient
 seat of the Campbells of Islay, stands at the head of Loch Indaal. The

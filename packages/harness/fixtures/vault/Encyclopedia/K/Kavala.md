@@ -14,13 +14,13 @@ still exists. His birthplace, an unpretentious little house in one of
 the tortuous older streets, can be distinguished by the tablet which the
 municipal authorities have affixed to its front wall. Numerous Roman
 remains have been found in the neighbourhood, of which the chief is the
-large aqueduct on two tiers of arches which still serves to supply the
+large aqueduct on two tiers of [[Arches|arches]] which still serves to supply the
 town and dilapidated citadel with water from Mount Pangeus.
 
   Kavala has been identified with Neapolis, at which St Paul landed on
   his way from Samothrace to Philippi (Acts xvi. 11). Neapolis was the
   port of Philippi, as Kavala now is of Seres; in the bay on which it
-  stands the fleet of Brutus and Cassius was stationed during the battle
+  stands the fleet of Brutus and [[Cassius]] was stationed during the battle
   of Philippi. Some authorities identify Neapolis with Datum ([Greek:
   Daton]), mentioned by Herodotus as famous for its gold mines.
 

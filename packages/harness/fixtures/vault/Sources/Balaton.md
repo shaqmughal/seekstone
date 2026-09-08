@@ -15,7 +15,7 @@ breadth a little less than 1 m. It covers 266 sq. m. and has an extreme
 depth of 149 ft. Its northern shores are bordered by the beautiful basaltic
 cones of the Bakony mountains, the volcanic soil of which produces grapes
 yielding excellent wine; the southern consist partly of a marshy plain,
-partly of downs. The most beautiful point of the lake is that where the
+partly of [[Downs|downs]]. The most beautiful point of the lake is that where the
 peninsula of Tihany projects in the waters. An ancient church of the
 Benedictines is here situated on the top of a hill. In a tomb therein is
 buried Andrew I. (d. 1061), a king of the Hungarian Arpadian dynasty. The

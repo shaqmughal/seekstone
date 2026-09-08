@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hunting"
 
 # Hunting
 
-HUNTING (the verbal substantive from "hunt"; O. Eng. _huntian_, _hunta_;
-apparently connected with O. Eng. _hentan_, Gothic _hinpan_, to capture,
-O.H.G. _hunda_, booty), the pursuit of game and wild animals, for profit
+HUNTING (the verbal substantive from "[[Hunt|hunt]]"; O. Eng. _huntian_, _hunta_;
+apparently connected with O. Eng. _hentan_, [[Gothic]] _hinpan_, to capture,
+O.H.G. _hunda_, booty), the pursuit of [[Game|game]] and wild animals, for profit
 or sport; equivalent to "chase" (like "catch," from Lat. _captare_, Fr.
 _chasse_, Ital. _caccia_). The circumstances which render necessary the
 habitual pursuit of wild animals, either as a means of subsistence or
@@ -29,15 +29,15 @@ principles, that hunting is dealt with here.
 Information as to the field sports of the ancients is in many directions
 extremely fragmentary. With regard to the ancient Egyptians, however, we
 learn that the huntsmen constituted an entire sub-division of the great
-second caste; they either followed the chase on their own account, or
+second [[Caste|caste]]; they either followed the chase on their own account, or
 acted as the attendants of the chiefs in their hunting excursions,
 taking charge of the dogs, and securing and bringing home the game. The
-game was sought in the open deserts which border on both sides the
+game was sought in the open [[Desert|deserts]] which border on both sides the
 valley of the Nile; but (by the wealthy) sometimes in enclosed spaces
 into which the animals had been driven or in preserves. Besides the
 noose and the net, the arrow, the dart and the hunting pole or
 _venabulum_ were frequently employed. The animals chiefly hunted were
-the gazelle, ibex, oryx, stag, wild ox, wild sheep, hare and porcupine;
+the gazelle, [[Ibex|ibex]], oryx, stag, wild ox, wild sheep, hare and porcupine;
 also the ostrich for its plumes, and the fox, jackal, wolf, hyaena and
 leopard for their skins, or as enemies of the farm-yard. The lion was
 occasionally trained as a hunting animal instead of the dog. The
@@ -50,18 +50,18 @@ discharging a well-directed arrow whenever they came within its
 range."[1] The partiality for the chase which the ancient Egyptians
 manifested was shared by the Assyrians and Babylonians, as is shown by
 the frequency with which hunting scenes are depicted on the walls of
-their temples and palaces; it is even said that their dresses and
+their temples and palaces; it is even said that their [[Dress|dresses]] and
 furniture were ornamented with similar subjects.[2] The game pursued
 included the lion, the wild ass, the gazelle and the hare, and the
-implements chiefly employed seem to have been the javelin and the bow.
+[[Implement|implements]] chiefly employed seem to have been the javelin and the [[Bow|bow]].
 There are indications that hawking was also known. The Assyrian kings
 also maintained magnificent parks, or "paradises," in which game of
 every kind was enclosed; and perhaps it was from them that the Persian
 sovereigns borrowed the practice mentioned both by Xenophon in the
-_Cyropaedia_ and by Curtius. According to Herodotus, Cyrus devoted the
+_Cyropaedia_ and by Curtius. According to Herodotus, [[Cyrus]] devoted the
 revenue of four great towns to meet the expenses of his hunting
 establishments. The circumstances under which the death of the son of
-Croesus is by the same writer (i. 34-45) related to have occurred,
+[[Croesus]] is by the same writer (i. 34-45) related to have occurred,
 incidentally show in what high estimation the recreation of hunting was
 held in Lydia. In Palestine game has always been plentiful, and the
 Biblical indications that it was much sought and duly appreciated are
@@ -70,7 +70,7 @@ frequently alluded to; but the arrow (Isa. vii. 24), the spear and the
 dart (Job. xli. 26-29) are also mentioned. There is no evidence that the
 use of the dog (Jos. _Ant._ iv. 8, 10, notwithstanding) or of the horse
 in hunting was known among the Jews during the period covered by the Old
-Testament history; Herod, however, was a keen and successful sportsman,
+Testament history; [[Herod]], however, was a keen and successful sportsman,
 and is recorded by Josephus (_B.J._ i. 21, 13, compare _Ant._ xv. 7, 7;
 xvi. 10, 3) to have killed no fewer than forty head of game (boar, wild
 ass, deer) in one day.
@@ -91,10 +91,10 @@ kind of wooden trap ([Greek: podostrabe]), which attached itself to the
 foot. Lions, leopards, lynxes, panthers and bears are also specially
 mentioned among the large game; sometimes they were taken in pitfalls,
 sometimes speared by mounted horsemen. As a writer on field sports
-Xenophon was followed by Arrian, who in his _Cynegeticus_, in avowed
+Xenophon was followed by [[Arrian]], who in his _Cynegeticus_, in avowed
 dependence on his predecessor, seeks to supplement such deficiencies in
 the earlier treatise as arose from its author's unacquaintance with the
-dogs of Gaul and the horses of Scythia and Libya. Four books of
+dogs of [[Gaul]] and the horses of Scythia and [[Libya]]. Four books of
 _Cynegetica_, extending to about 2100 hexameters, by Oppian have also
 been preserved; the last of these is incomplete, and it is probable that
 a fifth at one time existed. The poem contains some good descriptive
@@ -123,10 +123,10 @@ Gauls may be inferred from the name _canis gallicus_ (Spanish _galgo_)
 for a greyhound, which is to be met with both in Ovid and Martial; also
 in the words (_canis_) _vertragus_ and _segusius_, both of Celtic
 origin.[4] According to Strabo (p. 200) the Britons also bred dogs well
-adapted for hunting purposes. The addiction of the Franks in later
+adapted for hunting purposes. The addiction of the [[Frank|Franks]] in later
 centuries to the chase is evidenced by the frequency with which not only
 the laity but also the clergy were warned by provincial councils against
-expending so much of their time and money on hounds, hawks and falcons;
+expending so much of their time and money on hounds, [[Hawk|hawks]] and falcons;
 and we have similar proof with regard to the habits of other Teutonic
 nations subsequent to the introduction of Christianity.[5] Originally
 among the northern nations sport was open to every one[6] except to
@@ -146,7 +146,7 @@ considered.
 
 Doubtless the early inhabitants of Britain shared to a large extent in
 the habits of the other Celtic peoples; the fact that they kept good
-hunting dogs is vouched for by Strabo; and an interesting illustration
+[[Hunting Dog|hunting dogs]] is vouched for by Strabo; and an interesting illustration
 of the manner in which these were used is given in the inscription
 quoted by Orelli (n. 1603)--"Silvano Invicto Sacrum--ob aprum eximiae
 formae captum, quem multi antecessores praedari non potuerunt." Asser,
@@ -168,11 +168,11 @@ the reign of Cnut belong the "Constitutiones de Foresta," according to
 which four thanes were appointed in every province for the
 administration of justice in all matters connected with the forests;
 under them were four inferior thanes to whom was committed immediate
-care of the vert and venison.[8] The severity of the forest laws which
+care of the vert and venison.[8] The severity of the [[Forest Laws|forest laws]] which
 prevailed during the Norman period is sufficient evidence of the
 sporting ardour of William and his successors. The Conqueror himself
 "loved the high game as if he were their father"; and the penalty for
-the unauthorized slaughter of a hart or hind was loss of both eyes.
+the unauthorized slaughter of a [[Hart|hart]] or hind was loss of both eyes.
 
 
   Stag hunting.
@@ -195,10 +195,10 @@ masters continued the sport until 1825, when the fine pack, descended
 probably from the bloodhound crossed with the old southern hound, was
 sold in London. It is difficult to imagine how the dispersion of such a
 pack could have come about in such a sporting country, but in 1827 Sir
-Arthur Chichester got a pack together again. Stag hunting begins on the
+Arthur [[Chichester]] got a pack together again. Stag hunting begins on the
 12th of August, and ends on the 8th of October; there is then a
 cessation until the end of the month, when the hounds are unkennelled
-for hind hunting, which continues up to Christmas; it begins again about
+for hind hunting, which continues up to [[Christmas]]; it begins again about
 Ladyday, and lasts till the 10th of May. The mode of hunting with the
 Devon and Somerset hounds is briefly this: the whereabouts of a
 warrantable stag is communicated to the master by that important
@@ -217,11 +217,11 @@ was huntsman-in-chief to Edward II., and who wrote in Norman French a
 treatise on hunting,[9] mentions the fox as a beast of venery, but
 obviously as an altogether inferior object of sport. Strutt also gives
 an engraving, assigned by him to the 14th century, in which three
-hunters, one of whom blows a horn, are represented as unearthing a fox,
+hunters, one of whom blows a [[Horn|horn]], are represented as unearthing a fox,
 which is pursued by a single hound. The precise date of the
 establishment of the first English pack of hounds kept entirely for fox
 hunting cannot be accurately fixed. In the work of "Nimrod" (C. J.
-Apperley), entitled _The Chase_, there is (p. 4) an extract from a
+[[Apperley]]), entitled _The Chase_, there is (p. 4) an extract from a
 letter from Lord Arundel, dated February 1833, in which the writer says
 that his ancestor, Lord Arundel, kept a pack of foxhounds between 1690
 and 1700, and that they remained in the family till 1782, when they were
@@ -241,7 +241,7 @@ exclusively for fox. On the whole, it is probable that Lord Wilton's
 surmise is not far from correct. Since fox hunting first commenced,
 however, the system of the sport has been much changed. In our
 great-grandfathers' time the hounds met early, and found the fox by the
-drag, that is, by the line he took to his kennel on his return from a
+[[Drag|drag]], that is, by the line he took to his kennel on his return from a
 foraging expedition. Hunting the drag was doubtless a great test of
 nose, but many good runs must have been lost thereby, for the fox must
 often have heard the hounds upwind, and have moved off before they could
@@ -269,7 +269,7 @@ at walk. When cubbing begins, a start is made at 4 or 5 A.M., and then
 the system is adopted of tracking the cub by his drag. A certain amount
 of blood is of course indispensable for hounds, but it should never be
 forgotten that a fox cub of seven or eight months old, though tolerably
-cunning, is not so very strong; the huntsman should not, therefore, be
+cunning, is not so very strong; the [[Huntsman|huntsman]] should not, therefore, be
 over-eager in bringing to hand every cub he can find.
 
 
@@ -337,8 +337,8 @@ kennels at Dunster; by the Quantock; and by a few other local packs. In
 other parts of England staghound packs are devoted to the capture of the
 carted deer, a business which is more or less of a parody on the genuine
 sport, but is popular for the reason that whereas with foxhounds men may
-have a blank day, they are practically sure of a gallop when a deer is
-taken out in a cart to be enlarged before the hounds are laid on.
+have a [[Blank|blank]] day, they are practically sure of a gallop when a deer is
+taken out in a [[Cart|cart]] to be enlarged before the hounds are laid on.
 Complaints are often raised about the cruelty of what is called tame
 stag hunting, and it became a special subject of criticism that a pack
 should still be kept at the Royal kennels at Ascot (it was abolished in
@@ -367,7 +367,7 @@ packs which are generally described as "provincial" equally good hunting
 may be obtained. Round about London a man who is bent on the pursuit of
 fox or stag may gratify his desire in many directions. The Essex and the
 Essex Union, the Surrey and the Surrey Union, the Old Berkeley, the West
-Kent, the Burstow, the Hertfordshire, the Crawley and Horsham, the
+Kent, the Burstow, the Hertfordshire, the Crawley and [[Horsham]], the
 Puckeridge, as regards foxhounds; the Berkhampstead, the Enfield Chase,
 Lord Rothschild's, the Surrey, the West Surrey and the Warnham, as
 regards staghounds--as well as the Bucks and Berks, which was
@@ -385,7 +385,7 @@ whole, and in the principal hunts more thoroughbred horses are employed.
 For pace and endurance no hunter approaches the English thoroughbred;
 and for a bold man who "means going," a steeplechase horse is often the
 best animal that could be obtained, for when he has become too slow to
-win races "between the flags," he can always gallop much faster, and
+win races "between the [[Flag|flags]]," he can always gallop much faster, and
 usually lasts much longer, than animals who have not his advantage of
 blood. The quondam "'chaser" is, however, usually apt to be somewhat
 impetuous at his fences. But it must by no means be supposed that every
@@ -403,7 +403,7 @@ found to improve until his third or fourth season, though some last
 longer than this. Often, however, when a hound is five or six years old
 he begins to lack speed. Exceptional animals naturally do exceptional
 things, and a famous hound called Potentate is recorded by the 8th duke
-of Beaufort to have done notable service in the hunting field for eleven
+of [[Beaufort]] to have done notable service in the hunting field for eleven
 seasons.
 
 
@@ -481,7 +481,7 @@ Melton Mowbray or elsewhere in the Shires, with a dozen or more
 500-guinea hunters, some covert-hacks, and a corresponding staff of
 servants. Few people realize what enormous sums of money are annually
 distributed in connexion with hunting. Horses must be fed; the wages of
-grooms and helpers be paid; saddlery, clothing, shoeing, &c., are items;
+[[Groom|grooms]] and helpers be paid; saddlery, clothing, shoeing, &c., are [[Item|items]];
 farmers, innkeepers, railway companies, fly-men and innumerable others
 benefit more or less directly.     (A. E. T. W.)
 
@@ -489,7 +489,7 @@ benefit more or less directly.     (A. E. T. W.)
 FOOTNOTES:
 
   [1] See on this whole subject ch. viii. of Wilkinson's _Ancient
-    Egyptians_ (ii. 78-92, ed. Birch, 1878).
+    Egyptians_ (ii. 78-92, ed. [[Birch]], 1878).
 
   [2] See Layard (_Nineveh_, ii. 431, 432), who cites Ammian. Marcell.
     xxvi. 6, and Athen. xii. 9.
@@ -515,7 +515,7 @@ FOOTNOTES:
     (ii. 361, Thorpe's trans.).
 
   [9] _Le Art de venerie_, translated with preface and notes by Sir
-    Henry Dryden (1893), new edition by Miss A. Dryden (1909), including
+    Henry [[Dryden]] (1893), new edition by Miss A. Dryden (1909), including
     _The Craft of Venerie_ from a 15th-century MS. and a 13th-century
     poem _La Chasse d'on cerf_.
 

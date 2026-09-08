@@ -16,14 +16,14 @@ knowledge of the motive forces on both sides. On the side of the king
 were enlisted the deep-seated loyalty which was the result of two
 centuries of effective royal protection, the pure cavalier spirit
 foreshadowing the courtier era of Charles II., but still strongly tinged
-with the old feudal indiscipline, the militarism of an expert soldier
+with the old feudal indiscipline, the militarism of an [[Expert|expert]] soldier
 nobility, well represented by Prince Rupert, and lastly a widespread
 distrust of extreme Puritanism, which appeared unreasonable to Lord
 Falkland and other philosophic statesmen and intolerable to every other
 class of Royalists. The foot of the Royal armies was animated in the
 main by the first and last of these motives; in the eyes of the sturdy
 rustics who followed their squires to the war the enemy were rebels and
-fanatics. To the cavalry, which was composed largely of the higher
+fanatics. To the [[Cavalry|cavalry]], which was composed largely of the higher
 social orders, the rebels were, in addition, bourgeois, while the
 soldiers of fortune from the German wars felt all the regular's contempt
 for citizen militia. Thus in the first episodes of the First Civil War
@@ -34,11 +34,11 @@ the Parliament and the nation were at first confused, and, later, strong
 and direct. Democracy, moderate republicanism and the simple desire for
 constitutional guarantees could hardly make head of themselves against
 the various forces of royalism, for the most moderate men of either
-party were sufficiently in sympathy to admit compromise. But the
+party were sufficiently in sympathy to admit [[Compromise|compromise]]. But the
 backbone of resistance was the Puritan element, and this waging war at
 first with the rest on the political issue soon (as the Royalists
 anticipated) brought the religious issue to the front. The Presbyterian
-system, even more rigid than that of Laud and the bishops--whom no man
+system, even more rigid than that of [[Laud]] and the bishops--whom no man
 on either side supported save Charles himself--was destined to be
 supplanted by the Independents and their ideal of free conscience, but
 for a generation before the war broke out it had disciplined and trained
@@ -56,18 +56,18 @@ resources of the country. They had the sympathies of most of the large
 towns, where the trained bands, drilled once a month, provided cadres
 for new regiments. Further, by recognizing the inevitable, they gained a
 start in war preparations which they never lost. The earls of Warwick,
-Essex and Manchester and other nobles and gentry of their party
+[[Essex]] and Manchester and other nobles and gentry of their party
 possessed great wealth and territorial influence. Charles, on the other
 hand, although he could, by means of the "press" and the
 lords-lieutenant, raise men without authority from Parliament, could not
 raise taxes to support them, and was dependent on the financial support
-of his chief adherents, such as the earls of Newcastle and Derby. Both
+of his chief adherents, such as the earls of Newcastle and [[Derby]]. Both
 parties raised men when and where they could, each claiming that the law
 was on its side--for England was already a law-abiding nation--and
 acting in virtue of legal instruments. These were, on the side of the
 Parliament, its own recent "Militia Ordinance"; on that of the king, the
-old-fashioned "Commissions of Array." In Cornwall the Royalist leader,
-Sir Ralph Hopton, indicted the enemy before the grand jury of the county
+old-fashioned "Commissions of [[Array]]." In [[Cornwall]] the Royalist leader,
+Sir Ralph [[Hopton]], indicted the enemy before the grand [[Jury|jury]] of the county
 as disturbers of the peace, and had the _posse comitatus_ called out to
 expel them. The local forces in fact were everywhere employed by
 whichever side could, by producing valid written authority, induce them
@@ -81,7 +81,7 @@ serve beyond the limits of their own county, and, as the offensive lay
 with the king, his cause naturally suffered far more therefrom than that
 of the enemy. But the real spirit of the struggle was very different.
 Anything which tended to prolong the struggle, or seemed like want of
-energy and avoidance of a decision, was bitterly resented by the men of
+energy and [[Avoidance|avoidance]] of a decision, was bitterly resented by the men of
 both sides, who had their hearts in the quarrel and had not as yet
 learned by the severe lesson of Edgehill that raw armies cannot bring
 wars to a speedy issue. In France and Germany the prolongation of a war
@@ -91,8 +91,8 @@ were no leaguers in the field, as at the story of Nuremberg,[1] neither
 had our soldiers any tents or what they call heavy baggage. 'Twas the
 general maxim of the war--Where is the enemy? Let us go and fight them.
 Or ... if the enemy was coming ... Why, what should be done! Draw out
-into the fields and fight them." This passage from the _Memoirs of a
-Cavalier_, ascribed to Defoe, though not contemporary evidence, is an
+into the [[Fields|fields]] and fight them." This passage from the _Memoirs of a
+Cavalier_, ascribed to [[Defoe]], though not contemporary evidence, is an
 admirable summary of the character of the Civil War. Even when in the
 end a regular professional army is evolved--exactly as in the case of
 Napoleon's army--the original decision-compelling spirit permeated the
@@ -105,7 +105,7 @@ based on the Swedish model, which had become the pattern of Europe after
 the victories of Gustavus Adolphus, and gave better scope for the
 _moral_ of the individual than the old-fashioned Spanish and Dutch
 formations in which the man in the ranks was a highly finished
-automaton.
+[[Automaton|automaton]].
 
 3. _Campaign of 1642._--When the king raised his standard at Nottingham
 on the 22nd of August 1642, war was already in progress on a small scale
@@ -117,12 +117,12 @@ fix the warlike purpose of the still vacillating court at Nottingham,
 and, in the country at large, to convert many thousands of waverers to
 active Royalism. Ere long Charles--who had hitherto had less than 1500
 men--was at the head of an army which, though very deficient in arms and
-equipment, was not greatly inferior in numbers or enthusiasm to that of
+equipment, was not greatly inferior in numbers or [[Enthusiasm|enthusiasm]] to that of
 the Parliament. The latter (20,000 strong exclusive of detachments) was
 organized during July, August and September about London, and moved
 thence to Northampton under the command of Robert, earl of Essex.
 
-At this moment the military situation was as follows. Lord Hertford in
+At this moment the military situation was as follows. Lord [[Hertford]] in
 south Wales, Sir Ralph Hopton in Cornwall, and the young earl of Derby
 in Lancashire, and small parties in almost every county of the west and
 the midlands, were in arms for the king. North of the Tees, the earl of
@@ -131,11 +131,11 @@ for the king, while Queen Henrietta Maria was busy in Holland arranging
 for the importation of war material and money. In Yorkshire opinion was
 divided, the royal cause being strongest in York and the North Riding,
 that of the Parliamentary party in the clothing towns of the West Riding
-and also in the important seaport of Hull. The Yorkshire gentry made an
+and also in the important seaport of [[Hull]]. The Yorkshire gentry made an
 attempt to neutralize the county, but a local struggle soon began, and
 Newcastle thereupon prepared to invade Yorkshire. The whole of the south
 and east as well as parts of the midlands and the west and the important
-towns of Bristol and Gloucester were on the side of the Parliament. A
+towns of [[Bristol]] and Gloucester were on the side of the Parliament. A
 small Royalist force was compelled to evacuate Oxford on the 10th of
 September.
 
@@ -161,7 +161,7 @@ considered more counsellable to march towards London, it being morally
 sure that the earl of Essex would put himself in their way," and
 accordingly the army left Shrewsbury on the 12th of October, gaining two
 days' start of the enemy, and moved south-east via Bridgnorth,
-Birmingham and Kenilworth. This had the desired effect. Parliament,
+[[Birmingham]] and [[Kenilworth]]. This had the desired effect. Parliament,
 alarmed for its own safety, sent repeated orders to Essex to find the
 king and bring him to battle. Alarm gave place to determination when it
 was discovered that Charles was enlisting papists and seeking foreign
@@ -186,8 +186,8 @@ still some miles distant. But he advanced beyond Kineton, and the enemy
 promptly left their strong position and came down to the foot of the
 hill, for, situated as they were, they had either to fight wherever they
 could induce the enemy to engage, or to starve in the midst of hostile
-garrisons. Rupert was on the right of the king's army with the greater
-part of the horse, Lord Lindsey and Sir Jacob Astley in the centre with
+[[Garrison|garrisons]]. Rupert was on the right of the king's army with the greater
+part of the horse, Lord Lindsey and Sir [[Jacob]] Astley in the centre with
 the foot, Lord Wilmot (with whom rode the earl of Forth, the principal
 military adviser of the king) with a smaller body of cavalry on the
 left. In rear of the centre were the king and a small reserve. Essex's
@@ -195,7 +195,7 @@ order was similar. Rupert charged as soon as his wing was deployed, and
 before the infantry of either side was ready. Taking ground to his right
 front and then wheeling inwards at full speed he instantly rode down the
 Parliamentary horse opposed to him. Some infantry regiments of Essex's
-left centre shared the same fate as their cavalry. On the other wing
+left centre shared the same [[Fate|fate]] as their cavalry. On the other wing
 Forth and Wilmot likewise swept away all that they could see of the
 enemy's cavalry, and the undisciplined Royalists of both wings pursued
 the fugitives in wild disorder up to Kineton, where they were severely
@@ -211,7 +211,7 @@ maintained their order, and the decision of the infantry battle was
 achieved mainly by a few Parliamentary squadrons. One regiment of
 Essex's right wing only had been the target of Wilmot's charge, the
 other two had been at the moment invisible, and, as every Royalist troop
-on the ground, even the king's guards, had joined in the mad ride to
+on the ground, even the king's [[Guards|guards]], had joined in the mad ride to
 Kineton, these, Essex's life-guard, and some troops that had rallied
 from the effect of Rupert's charge--amongst them Captain Oliver
 Cromwell's--were the only cavalry still present. All these joined with
@@ -229,16 +229,16 @@ reap its results. Banbury and Oxford were reoccupied by the Royalists,
 and by the 28th Charles was marching down the Thames valley on London.
 Negotiations were reopened, and a peace party rapidly formed itself in
 London and Westminster. Yet field fortifications sprang up around
-London, and when Rupert stormed and sacked Brentford on the 12th of
+London, and when Rupert stormed and sacked [[Brentford]] on the 12th of
 November the trained bands moved out at once and took up a position at
-Turnham Green, barring the king's advance. Hampden, with something of
-the fire and energy of his cousin Cromwell, urged Essex to turn both
-flanks of the Royal army via Acton and Kingston, but experienced
+Turnham Green, barring the king's advance. [[Hampden]], with something of
+the fire and energy of his [[Cousin|cousin]] [[Cromwell]], urged Essex to turn both
+flanks of the Royal army via Acton and [[Kingston]], but experienced
 professional soldiers urged him not to trust the London men to hold
 their ground while the rest manoeuvred. Hampden's advice was undoubtedly
 premature. A Sedan or Worcester was not within the power of the
-Parliamentarians of 1642, for, in Napoleon's words, "one only manoeuvres
-around a fixed point," and the city levies at that time were certainly
+Parliamentarians of 1642, for, in Napoleon's words, "one only [[Manoeuvres|manoeuvres]]
+around a fixed point," and the city [[Levi|levies]] at that time were certainly
 not, _vis-a-vis_ Rupert's cavalry, a fixed point. As a matter of fact,
 after a slight cannonade at Turnham Green on the 13th, Essex's
 two-to-one numerical superiority of itself compelled the king to retire
@@ -249,26 +249,26 @@ and the tide of invasion came thus far, ebbed, and never returned.
 5. _The Winter of 1642-43._--In the winter, while Essex lay inactive at
 Windsor, Charles by degrees consolidated his position in the region of
 Oxford. The city was fortified as a reduit for the whole area, and
-Reading, Wallingford, Abingdon, Brill, Banbury and Marlborough
+Reading, Wallingford, Abingdon, Brill, Banbury and [[Marlborough]]
 constituted a complete defensive ring which was developed by the
 creation of smaller posts from time to time. In the north and west,
 winter campaigns were actively carried on. "It is summer in Yorkshire,
 summer in Devon, and cold winter at Windsor," said one of Essex's
 critics. At the beginning of December Newcastle crossed the Tees,
-defeated Hotham, the Parliamentary commander in the North Riding, then
+defeated Hotham, the Parliamentary [[Commander|commander]] in the North Riding, then
 joining hands with the hard-pressed Royalists at York, established
-himself between that city and Pontefract. Lord Fairfax and his son Sir
+himself between that city and Pontefract. Lord [[Fairfax]] and his son Sir
 Thomas, who commanded for the Parliament in Yorkshire, had to retire to
 the district between Hull and Selby, and Newcastle was free to turn his
 attention to the Puritan "clothing towns" of the West Riding--Leeds,
-Halifax and Bradford. The townsmen, however, showed a determined front,
+Halifax and [[Bradford]]. The townsmen, however, showed a determined front,
 the younger Fairfax with a picked body of cavalry rode through
 Newcastle's lines into the West Riding to help them, and about the end
 of January 1643 the earl gave up the attempt to reduce the towns. He
 continued his march southward, however, and gained ground for the king
 as far as Newark, so as to be in touch with the Royalists of
-Nottinghamshire, Derbyshire and Leicestershire (who, especially about
-Newark and Ashby-de-la-Zouch, were strong enough to neutralize the local
+Nottinghamshire, Derbyshire and [[Leicestershire]] (who, especially about
+Newark and [[Ashby-De-La-Zouch|Ashby-de-la-Zouch]], were strong enough to neutralize the local
 forces of the Parliament), and to prepare the way for the further
 advance of the army of the north when the queen's convoy should arrive
 from over-seas.
@@ -277,12 +277,12 @@ In the west Sir Ralph Hopton and his friends, having obtained a true
 bill from the grand jury against the Parliamentary disturbers of the
 peace, placed themselves at the head of the county militia and drove the
 rebels from Cornwall, after which they raised a small force for general
-service and invaded Devonshire (November 1642). Subsequently a
+service and invaded [[Devonshire]] (November 1642). Subsequently a
 Parliamentary army under the earl of Stamford was withdrawn from south
 Wales to engage Hopton, who had to retire into Cornwall. There, however,
 the Royalist general was free to employ the militia again, and thus
 reinforced he won a victory over a part of Stamford's forces at Bradock
-Down near Liskeard (January 19, 1643) and resumed the offensive. About
+Down near [[Liskeard]] (January 19, 1643) and resumed the offensive. About
 the same time Hertford, no longer opposed by Stamford, brought over the
 South Wales Royalists to Oxford, and the fortified area around that
 place was widened by the capture of Cirencester on the 2nd of February.
@@ -291,11 +291,11 @@ Roundheads in the west. In the midlands, in spite of a Parliamentary
 victory won by Sir William Brereton at Nantwich on the 28th of January,
 the Royalists of Shropshire, Staffordshire and Leicestershire soon
 extended their influence through Ashby-de-la-Zouch into Nottinghamshire
-and joined hands with their friends at Newark. Further, around Chester a
-new Royalist army was being formed under Lord Byron, and all the efforts
+and joined hands with their friends at Newark. Further, around [[Chester]] a
+new Royalist army was being formed under Lord [[Byron]], and all the efforts
 of Brereton and of Sir John Gell, the leading supporter of the
 Parliament in Derbyshire, were required to hold their own, even before
-Newcastle's army was added to the list of their enemies. Lord Brooke,
+Newcastle's army was added to the list of their enemies. Lord [[Brooke]],
 who commanded for the Parliament in Warwickshire and Staffordshire and
 was looked on by many as Essex's eventual successor, was killed in
 besieging Lichfield cathedral on the 2nd of March, and, though the
@@ -307,7 +307,7 @@ Lichfield cathedral. He was, however, soon recalled to Oxford to take
 part in the main campaign. The position of affairs for the Parliament
 was perhaps at its worst in January. The Royalist successes of November
 and December, the ever-present dread of foreign intervention, and the
-burden of new taxation which the Parliament now found itself compelled
+[[Burden|burden]] of new taxation which the Parliament now found itself compelled
 to impose, disheartened its supporters. Disorders broke out in London,
 and, while the more determined of the rebels began thus early to think
 of calling in the military assistance of the Scots, the majority were
@@ -315,7 +315,7 @@ for peace on any conditions. But soon the position improved somewhat;
 Stamford in the west and Brereton and Gell in the midlands, though hard
 pressed, were at any rate in arms and undefeated, Newcastle had failed
 to conquer the West Riding, and Sir William Waller, who had cleared
-Hampshire and Wiltshire of "malignants," entered Gloucestershire early
+[[Hampshire]] and Wiltshire of "malignants," entered Gloucestershire early
 in March, destroyed a small Royalist force at Highnam (March 24), and
 secured Bristol and Gloucester for the Parliament. Finally, some of
 Charles's own intrigues opportunely coming to light, the waverers,
@@ -365,20 +365,20 @@ the development until the campaigning season was far advanced.
 long-expected convoy arrived at Woodstock on the 13th. The earl of
 Stamford's army, which had again entered Cornwall, was attacked in its
 selected position at Stratton and practically annihilated by Hopton (May
-16). This brilliant victory was due above all to Sir Bevil Grenville and
+16). This brilliant victory was due above all to Sir Bevil [[Grenville]] and
 the lithe Cornishmen, who, though but 2400 against 5400 and destitute of
 artillery, stormed "Stamford Hill," killed 300 of the enemy, and
-captured 1700 more with all their guns, colours and baggage. Devon was
+captured 1700 more with all their guns, [[Colours|colours]] and baggage. Devon was
 at once overrun by the victors. Essex's army, for want of material
 resources, had had to be content with the capture of Reading, and a
-Royalist force under Hertford and Prince Maurice (Rupert's brother)
+Royalist force under Hertford and Prince [[Maurice]] (Rupert's brother)
 moved out as far as Salisbury to hold out a hand to their friends in
 Devonshire, while Waller, the only Parliamentary commander left in the
 field in the west, had to abandon his conquests in the Severn valley to
 oppose the further progress of his intimate friend and present enemy,
 Hopton. Early in June Hertford and Hopton united at Chard and rapidly
 moved, with some cavalry skirmishing, towards Bath, where Waller's army
-lay. Avoiding the barrier of the Mendips, they moved round via Frome to
+lay. Avoiding the barrier of the Mendips, they moved round via [[Frome]] to
 the Avon. But Waller, thus cut off from London and threatened with
 investment, acted with great skill, and some days of manoeuvres and
 skirmishing followed, after which Hertford and Hopton found themselves
@@ -423,19 +423,19 @@ fighting in the West Riding since January with such troops from the Hull
 region as they had been able to bring across Newcastle's lines. They and
 the townsmen together were too weak for Newcastle's increasing forces,
 and an attempt was made to relieve them by bringing up the Parliament's
-forces in Nottinghamshire, Derbyshire, Lincolnshire and the Eastern
+forces in Nottinghamshire, Derbyshire, [[Lincolnshire]] and the Eastern
 Association. But local interests prevailed again, in spite of Cromwell's
 presence, and after assembling at Nottingham, the midland rebels quietly
 dispersed to their several counties (June 2). The Fairfaxes were left to
 their fate, and about the same time Hull itself narrowly escaped capture
 by the queen's forces through the treachery of Sir John Hotham, the
 governor, and his son, the commander of the Lincolnshire
-Parliamentarians. The latter had been placed under arrest at the
-instance of Cromwell and of Colonel Hutchinson, the governor of
+Parliamentarians. The latter had been placed under [[Arrest|arrest]] at the
+instance of Cromwell and of Colonel [[Hutchinson]], the governor of
 Nottingham Castle; he escaped to Hull, but both father and son were
 seized by the citizens and afterwards executed. More serious than an
 isolated act of treachery was the far-reaching Royalist plot that had
-been detected in Parliament itself, for complicity in which Lord Conway,
+been detected in Parliament itself, for complicity in which Lord [[Conway]],
 Edmund Waller the poet, and several members of both Houses were
 arrested. The safety of Hull was of no avail for the West Riding towns,
 and the Fairfaxes underwent a decisive defeat at Adwalton (Atherton)
@@ -461,7 +461,7 @@ gathering at Nottingham, besides clearing its own ground of
 "malignants." From the first Cromwell was the dominant influence. Fresh
 from Edgehill, he had told Hampden, "You must get men of a spirit that
 is likely to go as far as gentlemen will go," not "old decayed
-serving-men, tapsters and such kind of fellows to encounter gentlemen
+serving-men, tapsters and such kind of [[Fellows|fellows]] to encounter gentlemen
 that have honour and courage and resolution in them," and in January
 1643 he had gone to his own county to "raise such men as had the fear of
 God before them and made some conscience of what they did." These men,
@@ -471,19 +471,19 @@ honour only or for profit only, could not be brought to endure.[2] The
 result was soon apparent. As early as the 13th of May, Cromwell's
 regiment of horse--recruited from the horse-loving yeomen of the eastern
 counties--demonstrated its superiority in the field in a skirmish near
-Grantham, and in the irregular fighting in Lincolnshire during June and
+[[Grantham]], and in the irregular fighting in Lincolnshire during June and
 July (which was on the whole unfavourable to the Parliament), as
 previously in pacifying the Eastern Association itself, these Puritan
-troopers distinguished themselves by long and rapid marches that may
+troopers distinguished themselves by long and rapid [[Marches|marches]] that may
 bear comparison with almost any in the history of the mounted arm. When
-Cromwell's second opportunity came at Gainsborough on the 28th of July,
+Cromwell's second opportunity came at [[Gainsborough]] on the 28th of July,
 the "Lincolneer" horse who were under his orders were fired by the
 example of Cromwell's own regiment, and Cromwell, directing the whole
 with skill, and above all with energy, utterly routed the Royalist horse
-and killed their general, Charles Cavendish.
+and killed their general, Charles [[Cavendish]].
 
 In the meantime the army of Essex had been inactive. After the fall of
-Reading a serious epidemic of sickness had reduced it to impotence. On
+Reading a serious epidemic of sickness had reduced it to [[Impotence|impotence]]. On
 the 18th of June the Parliamentary cavalry was routed and John Hampden
 mortally wounded at Chalgrove Field near Chiselhampton, and when at last
 Essex, having obtained the desired reinforcements, moved against Oxford
@@ -528,13 +528,13 @@ the north side of Oxford to Stow-on-the-Wold the army moved resolutely,
 not deterred by want of food and rest, or by the attacks of Rupert's and
 Wilmot's horse on its flank. On the 5th of September, just as Gloucester
 was at the end of its resources, the siege was suddenly raised and the
-Royalists drew off to Painswick, for Essex had reached Cheltenham and
+Royalists drew off to Painswick, for Essex had reached [[Cheltenham]] and
 the danger was over. Then, the field armies being again face to face and
 free to move, there followed a series of skilful manoeuvres in the
 Severn and Avon valleys, at the end of which the Parliamentary army
-gained a long start on its homeward road via Cricklade, Hungerford and
+gained a long start on its homeward road via [[Cricklade]], [[Hungerford]] and
 Reading. But the Royalist cavalry under Rupert, followed rapidly by
-Charles and the main body from Evesham, strained every nerve to head off
+Charles and the main body from [[Evesham]], strained every nerve to head off
 Essex at Newbury, and after a sharp skirmish on Aldbourne Chase on the
 18th of September succeeded in doing so. On the 19th the whole Royal
 army was drawn up, facing west, with its right on Newbury and its left
@@ -545,7 +545,7 @@ break through by force--there was no suggestion of surrender.
 densely intersected by hedges except in front of the Royalists' left
 centre (Newbury Wash) and left (Enborne Heath), and, practically,
 Essex's army was never formed in line of battle, for each unit was
-thrown into the fight as it came up its own road or lane. On the left
+thrown into the fight as it came up its own road or [[Lane|lane]]. On the left
 wing, in spite of the Royalist counter-strokes, the attack had the best
 of it, capturing field after field, and thus gradually gaining ground to
 the front. Here Lord Falkland was killed. On the Reading road itself
@@ -575,7 +575,7 @@ Lincolnshire, the foot besieging Lynn (which surrendered on the 16th of
 September) while the horse rode into the northern part of the county to
 give a hand to the Fairfaxes. Fortunately the sea communications of Hull
 were open. On the 18th of September part of the cavalry in Hull was
-ferried over to Barton, and the rest under Sir Thomas Fairfax went by
+ferried over to [[Barton]], and the rest under Sir Thomas Fairfax went by
 sea to Saltfleet a few days later, the whole joining Cromwell near
 Spilsby. In return the old Lord Fairfax, who remained in Hull, received
 infantry reinforcements and a quantity of ammunition and stores from the
@@ -585,7 +585,7 @@ Royalist horse in confusion before them to Newark, and on the same day
 Newcastle's army around Hull, which had suffered terribly from the
 hardships of continuous siege work, was attacked by the garrison and so
 severely handled that next day the siege was given up. Later, Manchester
-retook Lincoln and Gainsborough, and thus Lincolnshire, which had been
+retook [[Lincoln]] and Gainsborough, and thus Lincolnshire, which had been
 almost entirely in Newcastle's hands before he was compelled to
 undertake the siege of Hull, was added in fact as well as in name to the
 Eastern Association.
@@ -603,7 +603,7 @@ the London trained bands deserting _en bloc_. Shortly afterwards Arundel
 surrendered to a force under Sir Ralph, now Lord Hopton (December 9).
 
 13. _The "Irish Cessation" and the Solemn League and
-Covenant._--Politically, these months were the turning-point of the war.
+[[Covenant]]._--Politically, these months were the turning-point of the war.
 In Ireland, the king's lieutenant, by order of his master, made a truce
 with the Irish rebels (Sept. 15). Charles's chief object was to set free
 his army to fight in England, but it was believed universally that Irish
@@ -611,7 +611,7 @@ regiments--in plain words, papists in arms--would shortly follow. Under
 these circumstances his act united against him nearly every class in
 Protestant England, above all brought into the English quarrel the armed
 strength of Presbyterian Scotland. Yet Charles, still trusting to
-intrigue and diplomacy to keep Scotland in check, deliberately rejected
+intrigue and [[Diplomacy|diplomacy]] to keep Scotland in check, deliberately rejected
 the advice of Montrose, his greatest and most faithful lieutenant, who
 wished to give the Scots employment for their army at home. Only ten
 days after the "Irish cessation," the Parliament at Westminster swore to
@@ -630,7 +630,7 @@ struggle.
 The troops from Ireland, thus obtained at the cost of an enormous
 political blunder, proved to be untrustworthy after all. Those serving
 in Hopton's army were "mutinous and shrewdly infected with the
-rebellious humour of England." When Waller's Londoners surprised[3] and
+rebellious [[Humour|humour]] of England." When Waller's Londoners surprised[3] and
 routed a Royalist detachment at Alton (December 13, 1643), half the
 prisoners took the Covenant. Hopton had to retire, and on the 6th of
 January 1644 Waller recaptured Arundel. Byron's Cheshire army was in no
@@ -684,12 +684,12 @@ Riding, joined his father. Selby was stormed on the 11th of April, and
 thereupon Newcastle, who had been manoeuvring against the Scots in
 Durham, hastily drew back, sent his cavalry away, and shut himself up
 with his foot in York. Two days later the Scottish general, Alexander
-Leslie, Lord Leven, joined the Fairfaxes and prepared to invest that
+[[Leslie]], Lord Leven, joined the Fairfaxes and prepared to invest that
 city.
 
 15. _Plans of Campaign for 1644._--The original plan of the
 Parliamentary "Committee of Both Kingdoms," which directed the military
-and civil policy of the allies after the fashion of a modern cabinet,
+and civil policy of the allies after the fashion of a modern [[Cabinet|cabinet]],
 was to combine Essex's and Manchester's armies in an attack upon the
 king's army, Aylesbury being appointed as the place of concentration.
 Waller's troops were to continue to drive back Hopton and to reconquer
@@ -697,7 +697,7 @@ the west, Fairfax and the Scots to invest Newcastle's army, while in the
 midlands Brereton and the Lincolnshire rebels could be counted upon to
 neutralize, the one Byron, the others the Newark Royalists. But Waller,
 once more deserted by his trained bands, was unable to profit by his
-victory of Cheriton, and retired to Farnham. Manchester, too, was
+victory of Cheriton, and retired to [[Farnham]]. Manchester, too, was
 delayed because the Eastern Association was still suffering from the
 effects of Rupert's Newark exploit--Lincoln, abandoned by the rebels on
 that occasion, was not reoccupied till the 6th of May. Moreover, Essex
@@ -727,7 +727,7 @@ afterwards.
 Oxford, and Abingdon was no sooner evacuated than (May 26) Waller's and
 Essex's armies united there--still, unfortunately for their cause, under
 separate commanders. From Abingdon Essex moved direct on Oxford, Waller
-towards Wantage, where he could give a hand to Massey, the energetic
+towards Wantage, where he could give a hand to [[Massey]], the energetic
 governor of Gloucester. Affairs seemed so bad in the west (Maurice with
 a whole army was still vainly besieging the single line of low
 breastworks that constituted the fortress of Lyme) that the king
@@ -760,15 +760,15 @@ and occupied Weymouth, and was preparing to go farther. The two rebel
 armies were now indeed separate. Waller had been left to do as best he
 could, and a worse fate was soon to overtake the cautious earl.
 
-17. _Campaign of Marston Moor._--During these manoeuvres the northern
+17. _Campaign of [[Marston]] Moor._--During these manoeuvres the northern
 campaign had been fought to an issue. Rupert's courage and energy were
 more likely to command success in the English Civil War than all the
 conscientious caution of an Essex or a Brentford. On the 16th of May he
 left Shrewsbury to fight his way through hostile country to Lancashire,
 where he hoped to re-establish the Derby influence and raise new forces.
 Stockport was plundered on the 25th, the besiegers of Lathom House
-utterly defeated at Bolton on the 28th. Soon afterwards he received a
-large reinforcement under General Goring, which included 5000 of
+utterly defeated at [[Bolton]] on the 28th. Soon afterwards he received a
+large reinforcement under General [[Goring]], which included 5000 of
 Newcastle's cavalry. The capture of the almost defenceless town of
 Liverpool--undertaken as usual to allay local fears--did not delay
 Rupert more than three or four days, and he then turned towards the
@@ -780,7 +780,7 @@ Worcester. "If York be relieved and you beat the rebels' armies of both
 kingdoms, then, but otherways not, I may possibly make a shift upon the
 defensive to spin out time until you come to assist me."
 
-Charles did manage to "spin out time." But it was of capital importance
+Charles did [[Manage|manage]] to "spin out time." But it was of capital importance
 that Rupert had to do his work upon York and the allied army in the
 shortest possible time, and that, according to the despatch, there were
 only two ways of saving the royal cause, "having relieved York by
@@ -790,7 +790,7 @@ enough. Newcastle still held out, his men having been encouraged by a
 small success on the 17th of June, and Rupert reached Knaresborough on
 the 30th. At once Leven, Fairfax and Manchester broke up the siege of
 York and moved out to meet him. But the prince, moving still at high
-speed, rode round their right flank via Boroughbridge and Thornton
+speed, rode round their right flank via [[Boroughbridge]] and Thornton
 Bridge and entered York on the north side. Newcastle tried to dissuade
 Rupert from fighting, but his record as a general was scarcely
 convincing as to the value of his advice. Rupert curtly replied that he
@@ -828,7 +828,7 @@ army was perhaps the most ill-behaved of all--once the soldiers
 attempted to murder their own general. Parliament in alarm set about the
 formation of a new general service force (July 12), but meantime both
 Waller's and Browne's armies (at Abingdon and Reading respectively)
-ignominiously collapsed by mutiny and desertion. It was evident that the
+ignominiously collapsed by mutiny and [[Desertion|desertion]]. It was evident that the
 people at large, with their respect for the law and their anxiety for
 their own homes, were tired of the war. Only those men--such as
 Cromwell--who has set their hearts on fighting out the quarrel of
@@ -844,19 +844,19 @@ Cromwell's achievement--that the professional soldiers of the New Model
 were disciplined, led, and in all things inspired by "godly" officers.
 Godliness, devotion to the cause, and efficiency were indeed the only
 criteria Cromwell applied in choosing officers. Long before this he had
-warned the Scottish major-general Lawrence Crawford that the precise
+warned the Scottish major-general [[Lawrence]] Crawford that the precise
 colour of a man's religious opinions mattered nothing compared with his
 devotion to them, and had told the committee of Suffolk, "I had rather
 have a plain russet-coated captain that knows what he fights for and
 loves what he knows than that which you call a 'gentleman' and is
-nothing else. I honour a gentleman that is so indeed ... but seeing it
+nothing else. I honour a [[Gentleman|gentleman]] that is so indeed ... but seeing it
 was necessary the work must go on, better plain men than none." If "men
 of honour and birth" possessed the essentials of godliness, devotion,
 and capacity, Cromwell preferred them, and as a fact only seven out of
 thirty-seven of the superior officers of the original New Model were not
 of gentle birth.
 
-19. _Lostwithiel._--But all this was as yet in the future. Essex's
+19. _[[Lostwithiel]]._--But all this was as yet in the future. Essex's
 military promenade in the west of England was the subject of immediate
 interest. At first successful, this general penetrated to Plymouth,
 whence, securely based as he thought, he could overrun Devon.
@@ -877,13 +877,13 @@ merely because its opportunities for plunder, &c., are more limited.
 Materially, however, the immediate victory was undeniably with the
 Royalists. After a brief period of manoeuvre, the Parliamentary army,
 now far from Plymouth found itself surrounded and starving at
-Lostwithiel, on the Fowey river, without hope of assistance. The horse
+Lostwithiel, on the [[Fowey]] river, without hope of assistance. The horse
 cut its way out through the investing circle of posts, Essex himself
 escaped by sea, but Major-General Skippon, his second in command, had to
 surrender with the whole of the foot on the 2nd of September. The
 officers and men were allowed to go free to Portsmouth, but their arms,
 guns and munitions were the spoil of the victors. There was now no
-trustworthy field force in arms for the Parliament south of the Humber,
+trustworthy field force in arms for the Parliament south of the [[Humber]],
 for even the Eastern Association army was distracted by its religious
 differences, which had now at last come definitely to the front and
 absorbed the political dispute in a wider issue. Cromwell already
@@ -898,14 +898,14 @@ Lilburne for capturing a Royalist castle without orders.
 20. _Operations of Essex's, Waller's and Manchester's Armies._--After
 the success of Lostwithiel there was little to detain Charles's main
 army in the extreme west, and meanwhile Banbury, a most important point
-in the Oxford circle, and Basing House (near Basingstoke) were in danger
+in the Oxford circle, and Basing House (near [[Basingstoke]]) were in danger
 of capture. Waller, who had organized a small force of reliable troops,
 had already sent cavalry into Dorsetshire with the idea of assisting
 Essex, and he now came himself with reinforcements to prevent, so far as
 lay in his power, the king's return to the Thames valley. Charles was
 accompanied of course only by his permanent forces and by parts of
 Prince Maurice's and Hopton's armies--the Cornish levies had as usual
-scattered as soon as the war receded from their borders. Manchester
+scattered as soon as the war receded from their [[Borders|borders]]. Manchester
 slowly advanced to Reading, Essex gradually reorganized his broken army
 at Portsmouth, while Waller, far out to the west at Shaftesbury,
 endeavored to gain the necessary time and space for a general
@@ -957,9 +957,9 @@ defence behind the Lambourn brook from Shaw (inclusive) to Donnington
 post. In rear of the centre, in open ground just north of Newbury, lay
 the bulk of the royal cavalry. In the left rear of the main line, and
 separated from it by more than a thousand yards, lay Prince Maurice's
-corps at Speen, advanced troops on the high ground west of that village,
+[[Corps|corps]] at Speen, advanced troops on the high ground west of that village,
 but Donnington Castle, under its energetic governor Sir John Boys,
-formed a strong post covering this gap with artillery fire. The
+formed a strong post covering this [[Gap|gap]] with artillery fire. The
 Parliamentary leaders had no intention of flinging their men away in a
 frontal attack on the line of the Lambourn, and a flank attack from the
 east side could hardly succeed owing to the obstacle presented by the
@@ -974,7 +974,7 @@ subordinates Balfour and Skippon. Manchester at Clay Hill was to stand
 fast until the turning movement had developed, and to make a vigorous
 holding attack on Shaw House as soon as Waller's guns were heard at
 Speen. But there was no commander-in-chief to co-ordinate the movements
-of the two widely separated corps, and consequently no co-operation.
+of the two widely separated corps, and consequently no [[Co-Operation|co-operation]].
 Waller's attack was not unexpected, and Prince Maurice had made ready to
 meet him. Yet the first rush of the rebels carried the entrenchments of
 Speen Hill, and Speen itself, though stoutly defended, fell into their
@@ -996,7 +996,7 @@ to stop Waller's advance. Nightfall put an end to the struggle around
 Newbury, and then--too late--Manchester ordered the attack on Shaw
 House. It failed completely in spite of the gallantry of his men, and
 darkness being then complete it was not renewed. In its general course
-the battle closely resembled that of Freiburg (q.v.), fought the same
+the battle closely resembled that of [[Freiburg]] (q.v.), fought the same
 year on the Rhine. But, if Waller's part in the battle corresponded in a
 measure to Turenne's, Manchester was unequal to playing the part of
 Conde, and consequently the results, in the case of the French won by
@@ -1067,7 +1067,7 @@ the "fixed point" had been in 1643 the king's field army, based indeed
 on its great entrenched camp, Banbury-Cirencester-Reading-Oxford, but
 free to move and to hold the enemy wherever met, while now it was the
 entrenched camp itself, weakened by the loss or abandonment of its outer
-posts, and without the power of binding the enemy if they chose to
+posts, and without the power of binding the enemy if they [[Chose|chose]] to
 ignore its existence, that conditioned the scope and duration of the
 single remaining field army's enterprises.
 
@@ -1108,14 +1108,14 @@ his second attempt (August 1644), as if failure were again inevitable,
 for the gentry of the northern Lowlands were overawed by the prevailing
 party and resented the leadership of a lesser noble, even though he were
 the king's lieutenant over all Scotland. Disappointed of support where
-he most expected it, Montrose then turned to the Highlands. At Blair
+he most expected it, Montrose then turned to the Highlands. At [[Blair]]
 Athol he gathered his first army of Royalist clansmen, and good fortune
 gave him also a nucleus of trained troops. A force of disciplined
-experienced soldiers (chiefly Irish Macdonalds and commanded by Alastair
+experienced soldiers (chiefly Irish [[Macdonald|Macdonalds]] and commanded by Alastair
 of that name) had been sent over from Ireland earlier in the year, and,
 after ravaging the glens of their hereditary enemies the Campbells, had
 attempted without success, now here, now there, to gather the other
-clans in the king's name. Their hand was against every man's, and when
+[[Clan|clans]] in the king's name. Their hand was against every man's, and when
 he finally arrived in Badenoch, Alastair Macdonald was glad to protect
 himself by submitting to the authority of the king's lieutenant.
 
@@ -1130,7 +1130,7 @@ first, and found him at Tippermuir near Perth on the 1st of September
 Montrose himself and two others being mounted, while Elcho had about
 7000 of all arms. But Elcho's townsmen found that pike and musket were
 clumsy weapons in inexperienced hands, and, like Mackay's regulars at
-Killiecrankie fifty years later, they wholly failed to stop the rush of
+[[Killiecrankie]] fifty years later, they wholly failed to stop the rush of
 the Highland swordsmen. Many hundreds were killed in the pursuit, and
 Montrose slept in Perth that night, having thus accounted for one of his
 enemies. Balfour of Burleigh was to be his next victim, and he started
@@ -1138,11 +1138,11 @@ for Aberdeen on the 4th. As he marched, his Highlanders slipped away to
 place their booty in security. But the Macdonald regulars remained with
 him, and as he passed along the coast some of the gentry came in, though
 the great western clan of the Gordons was at present too far divided in
-sentiment to take his part. Lord Lewis Gordon and some Gordon horse were
+sentiment to take his part. Lord [[Lewis]] Gordon and some Gordon horse were
 even in Balfour's army. On the other hand, the earl of Airlie brought in
 forty-four horsemen, and Montrose was thus able to constitute two wings
 of cavalry on the day of battle. The Covenanters were about 2500 strong
-and drawn up on a slope above the How Burn[5] just outside Aberdeen
+and drawn up on a slope above the How [[Burn]][5] just outside Aberdeen
 (September 13, 1644). Montrose, after clearing away the enemy's
 skirmishers, drew up his army in front of the opposing line, the foot in
 the centre, the forty-four mounted men, with musketeers to support them,
@@ -1157,7 +1157,7 @@ of the cavalry, they were mown down by the close-range volleys of
 Macdonald's musketeers. Shortly afterwards the centre of Balfour's army
 yielded to pressure and fled in disorder. Aberdeen was sacked by order
 of Montrose, whose drummer had been murdered while delivering a message
-under a flag of truce to the magistrates.
+under a [[Flag|flag]] of truce to the [[Magistrate|magistrates]].
 
 26. _Inverlochy._--Only Argyll now remained to be dealt with. The
 Campbells were fighting men from birth, like Montrose's own men, and had
@@ -1167,20 +1167,20 @@ from overtaking his agile enemy, and ultimately after a "hide-and-seek"
 in the districts of Rothiemurchus, Blair Athol, Banchory and
 Strathbogie, Montrose stood to fight at Fyvie Castle, repulsed Argyll's
 attack on that place and slipped away again to Rothiemurchus. There he
-was joined by Camerons and Macdonalds from all quarters for a grand raid
+was joined by [[Cameron|Camerons]] and Macdonalds from all quarters for a grand raid
 on the Campbell country; he himself wished to march into the Lowlands,
-well knowing that he could not achieve the decision in the Grampians,
-but he had to bow, not for the first time nor the last, to local
+well knowing that he could not achieve the decision in the [[Grampians]],
+but he had to [[Bow|bow]], not for the first time nor the last, to local
 importunity. The raid was duly executed, and the Campbells' boast, "It's
-a far cry to Loch Awe," availed them little. In December and January the
+a far cry to [[Loch]] [[Awe]]," availed them little. In December and January the
 Campbell lands were thoroughly and mercilessly devastated, and Montrose
 then retired slowly to Loch Ness, where the bulk of his army as usual
 dispersed to store away its plunder. Argyll, with such Highland and
 Lowland forces as he could collect after the disaster, followed Montrose
-towards Lochaber, while the Seaforths and other northern clans marched
+towards [[Lochaber]], while the Seaforths and other northern clans marched
 to Loch Ness. Caught between them, Montrose attacked the nearest. The
 Royalists crossed the hills into Glen Roy, worked thence along the
-northern face of Ben Nevis, and descended like an avalanche upon
+northern face of [[Ben]] Nevis, and descended like an [[Avalanche|avalanche]] upon
 Argyll's forces at Inverlochy (February 2, 1645). As usual, the Lowland
 regiments gave way at once--Montrose had managed in all this to keep
 with him a few cavalry--and it was then the turn of the Campbells.
@@ -1207,11 +1207,11 @@ Manchester, and Waller resigned their commissions, and such of their
 forces as were not embodied in the new army were sent to do local
 duties, for minor armies were still maintained, General Poyntz's in the
 north midlands, General Massey's in the Severn valley, a large force in
-the Eastern Association, General Browne's in Buckinghamshire, &c.,
+the Eastern Association, General Browne's in [[Buckinghamshire]], &c.,
 besides the Scots in the north.
 
 The New Model originally consisted of 14,400 foot and 7700 horse and
-dragoons. Of the infantry only 6000 came from the combined armies, the
+[[Dragoon|dragoons]]. Of the infantry only 6000 came from the combined armies, the
 rest being new recruits furnished by the press.[6] Thus there was
 considerable trouble during the first months of Fairfax's command, and
 discipline had to be enforced with unusual sternness. As for the enemy,
@@ -1222,7 +1222,7 @@ was soon to be apparent.
 
 28. _First Operations of 1645._--On the Royalist side the campaign of
 1645 opened in the west, whither the young prince of Wales (Charles II.)
-was sent with Hyde (later earl of Clarendon), Hopton and others as his
+was sent with Hyde (later earl of [[Clarendon]]), Hopton and others as his
 advisers. General (Lord) Goring, however, now in command of the Royalist
 field forces in this quarter, was truculent, insubordinate and
 dissolute, though on the rare occasions when he did his duty he
@@ -1230,9 +1230,9 @@ displayed a certain degree of skill and leadership, and the influence of
 the prince's counsellors was but small. As usual, operations began with
 the sieges necessary to conciliate local feeling. Plymouth and Lyme were
 blocked up, and Taunton again invested. The reinforcement thrown into
-the last place by Waller and Cromwell was dismissed by Blake (then a
+the last place by Waller and Cromwell was dismissed by [[Blake]] (then a
 colonel in command of the fortress and afterwards the great admiral of
-the Commonwealth), and after many adventures rejoined Waller and
+the [[Commonwealth]]), and after many adventures rejoined Waller and
 Cromwell. The latter generals, who had not yet laid down their
 commissions, then engaged Goring for some weeks, but neither side having
 infantry or artillery, and both finding subsistence difficult in
@@ -1244,7 +1244,7 @@ New Model at last took the field.
 29. _Rupert's Northern March._--In the midlands and Lancashire the
 Royalist horse, as ill-behaved even as Goring's men, were directly
 responsible for the ignominious failure with which the king's main army
-began its year's work. Prince Maurice was joined at Ludlow by Rupert and
+began its year's work. Prince Maurice was joined at [[Ludlow]] by Rupert and
 part of his Oxford army early in March, and the brothers drove off
 Brereton from the siege of Beeston Castle and relieved the pressure on
 Lord Byron in Cheshire. So great was the danger of Rupert's again
@@ -1289,11 +1289,11 @@ Windsor to resign his commission as required by the Self-denying
 Ordinance. Instead, he was placed at the head of a brigade of his own
 old soldiers, with orders to stop the march of the artillery train. On
 the 23rd of April he started from Watlington north-westward. At dawn on
-the 24th he routed a detachment of Royalist horse at Islip. On the same
+the 24th he routed a detachment of Royalist horse at [[Islip]]. On the same
 day, though he had no guns and only a few firearms in the whole force,
 he terrified the governor of Bletchingdon House into surrender. Riding
 thence to Witney, Cromwell won another cavalry fight at
-Bampton-in-the-Bush on the 27th, and attacked Faringdon House, though
+Bampton-in-the-Bush on the 27th, and attacked [[Faringdon]] House, though
 without success, on the 29th. Thence he marched at leisure to Newbury.
 He had done his work thoroughly. He had demoralized the Royalist
 cavalry, and, above all, had carried off every horse on the countryside.
@@ -1315,7 +1315,7 @@ away in the west while Cromwell's detachment was left, as Waller had
 been left the previous year, to hold the king as best he could. On the
 very evening that Cromwell's raid ended, the leading troops of Goring's
 command destroyed part of Cromwell's own regiment near Faringdon, and on
-the 3rd Rupert and Maurice appeared with a force of all arms at Burford.
+the 3rd Rupert and Maurice appeared with a force of all arms at [[Burford]].
 Yet the Committee of Both Kingdoms, though aware on the 29th of Goring's
 move, only made up its mind to stop Fairfax on the 3rd, and did not send
 off orders till the 5th. These orders were to the effect that a
@@ -1365,7 +1365,7 @@ free hand. "Black Tom" gladly and instantly abandoned the siege and
 marched northward to give battle to the king.
 
 Meanwhile Charles and Rupert were moving northward. On the 11th of May
-they reached Droitwich, whence after two days' rest they marched against
+they reached [[Droitwich]], whence after two days' rest they marched against
 Brereton. The latter hurriedly raised the sieges he had on hand, and
 called upon Yorkshire and the Scottish army there for aid. But only the
 old Lord Fairfax and the Yorkshiremen responded. Leven had just heard of
@@ -1373,26 +1373,26 @@ new victories won by Montrose, and could do no more than draw his army
 and his guns over the Pennine chain into Westmorland in the hope of
 being in time to bar the king's march on Scotland via Carlisle.
 
-33. _Dundee._--After the destruction of the Campbells at Inverlochy,
+33. _[[Dundee]]._--After the destruction of the Campbells at Inverlochy,
 Montrose had cleared away the rest of his enemies without difficulty. He
 now gained a respectable force of cavalry by the adhesion of Lord Gordon
 and many of his clan, and this reinforcement was the more necessary as
 detachments from Leven's army under Baillie and Hurry--disciplined
 infantry and cavalry--were on the march to meet him. The Royalists
-marched by Elgin and through the Gordon country to Aberdeen, and thence
-across the Esk to Coupar-Angus, where Baillie and Hurry were encountered.
+marched by [[Elgin]] and through the Gordon country to Aberdeen, and thence
+across the Esk to Coupar-Angus, where Baillie and [[Hurry]] were encountered.
 A war of manoeuvre followed, in which they thwarted every effort of the
 Royalists to break through into the Lowlands, but in the end retired into
-Fife. Montrose thereupon marched into the hills with the intention of
+[[Fife]]. Montrose thereupon marched into the hills with the intention of
 reaching the upper Forth and thence the Lowlands, for he did not disguise
 from himself the fact that there, and not in the Highlands, would the
 quarrel be decided, and was sanguine--over-sanguine, as the event
-proved--as to the support he would obtain from those who hated the kirk
+proved--as to the support he would obtain from those who hated the [[Kirk|kirk]]
 and its system. But he had called to his aid the semi-barbarous
 Highlanders, and however much the Lowlands resented a Presbyterian
 inquisition, they hated and feared the Highland clans beyond all else. He
 was equally disappointed in his own army. For a war of positions the
-Highlanders had neither aptitude nor inclination, and at Dunkeld the
+Highlanders had neither aptitude nor inclination, and at [[Dunkeld]] the
 greater part of them went home. If the small remnant was to be kept to
 its duty, plunder must be found, and the best objective was the town of
 Dundee. With a small force of 750 foot and horse Montrose brilliantly
@@ -1423,7 +1423,7 @@ antagonist. Marching at once with a large army (formed on the nucleus of
 his own trained troops and for the rest composed of clansmen and
 volunteers) Hurry advanced to Elgin, took contact with Montrose there,
 and, gradually and skilfully retiring, drew him into the hostile country
-round Inverness. Montrose fell into the trap, and Hurry took his
+round [[Inverness]]. Montrose fell into the trap, and Hurry took his
 measures to surprise him at Auldearn so successfully that (May 9)
 Montrose, even though the indiscipline of some of Hurry's young
 soldiers during the night march gave him the alarm, had barely time to
@@ -1435,7 +1435,7 @@ standard was posted to the right (north) of the village to draw upon
 himself the weight of Hurry's attack; only enough men were posted in the
 village itself to show that it was occupied, and on the south side, out
 of sight, was Montrose himself with a body of foot and all the Gordon
-horse. It was the prototype, on a small scale, of Austerlitz. Macdonald
+horse. It was the prototype, on a small scale, of [[Austerlitz]]. Macdonald
 resisted sturdily while Montrose edged away from the scene of action,
 and at the right moment and not before, though Macdonald had been driven
 back on the village and was fighting for life amongst the gardens and
@@ -1471,7 +1471,7 @@ him to Newbury, whence he was to feel the strength of the enemy's
 positions around Oxford. It is hardly necessary to say that Goring found
 good military reasons for continuing his independent operations, and
 marched off towards Taunton regardless of the order. He redressed the
-balance there for the moment by overawing Massey's weak force, and his
+[[Balance|balance]] there for the moment by overawing Massey's weak force, and his
 purse profited considerably by fresh opportunities for extortion, but he
 and his men were not at Naseby. Meanwhile the king, at the geographical
 centre of England, found an important and wealthy town at his mercy.
@@ -1479,11 +1479,11 @@ Rupert, always for action, took the opportunity, and Leicester was
 stormed and thoroughly pillaged on the night of the 30th-31st of May.
 There was the usual panic at Westminster, but, unfortunately for
 Charles, it resulted in Fairfax being directed to abandon the siege of
-Oxford and given _carte blanche_ to bring the Royal army to battle
+Oxford and given _[[Carte|carte]] blanche_ to bring the Royal army to battle
 wherever it was met. On his side the king had, after the capture of
 Leicester, accepted the advice of those who feared for the safety of
 Oxford--Rupert, though commander-in-chief, was unable to insist on the
-northern enterprise--and had marched to Daventry, where he halted to
+northern enterprise--and had marched to [[Daventry]], where he halted to
 throw supplies into Oxford. Thus Fairfax in his turn was free to move,
 thanks to the insubordination of Goring, who would neither relieve
 Oxford nor join the king for an attack on the New Model. The
@@ -1519,10 +1519,10 @@ rejoiced that the "back of the malignants was broken," and demanded
 reinforcements as a precaution against "the insolence of others," i.e.
 Cromwell and the Independents--"to whom alone the Lord has given the
 victory of that day." Leven had by now returned to Yorkshire, and a
-fortnight after Naseby, after a long and honourable defence by Sir
+fortnight after Naseby, after a long and [[Honourable|honourable]] defence by Sir
 Thomas Glemham, Carlisle fell to David Leslie's besieging corps.
 Leicester was reoccupied by Fairfax on the 18th, and on the 20th Leven's
-army, moving slowly southward, reached Mansfield. This move was
+army, moving slowly southward, reached [[Mansfield]]. This move was
 undertaken largely for political reasons, i.e. to restore the
 Presbyterian balance as against the victorious New Model. Fairfax's army
 was intended by its founders to be a specifically English army, and
@@ -1555,8 +1555,8 @@ efforts to keep the field, was again besieged, and in Wilts and Dorset
 numerous bands of Clubmen were on foot which the king's officers were
 doing their best to turn into troops for their master. But the process
 of collecting a fresh royal army was slow, and Goring and his
-subordinate, Sir Richard Grenville, were alienating the king's most
-devoted adherents by their rapacity, cruelty and debauchery. Moreover,
+subordinate, Sir [[Richard Grenville]], were alienating the king's most
+devoted adherents by their rapacity, [[Cruelty|cruelty]] and debauchery. Moreover,
 Goring had no desire to lose the independent command he had extorted at
 Stow-on-the-Wold in May. Still, it was clear that he must be disposed
 of as quickly as possible, and Fairfax requested the Houses to take
@@ -1566,17 +1566,17 @@ the 8th of July Leven reached Alcester, bringing with him a
 Parliamentarian force from Derbyshire under Sir John Gell. The design
 was to besiege Hereford.
 
-38. _Langport._--By that time Fairfax and Goring were at close quarters.
+38. _[[Langport]]._--By that time Fairfax and Goring were at close quarters.
 The Royalist general's line of defence faced west along the Yeo and the
 Parrett between Yeovil and Bridgwater, and thus barred the direct route
 to Taunton. Fairfax, however, marched from Lechlade via Marlborough and
-Blandford--hindered only by Clubmen--to the friendly posts of Dorchester
+Blandford--hindered only by Clubmen--to the friendly posts of [[Dorchester]]
 and Lyme, and with these as his centre of operations he was able to turn
-the headwaters of Goring's river-line via Beaminster and Crewkerne. The
+the headwaters of Goring's river-line via Beaminster and [[Crewkerne]]. The
 Royalists at once abandoned the south and west side of the rivers--the
 siege of Taunton had already been given up--and passed over to the north
 and east bank. Bridgwater was the right of this second line as it had
-been the left of the first; the new left was at Ilchester. Goring could
+been the left of the first; the new left was at [[Ilchester]]. Goring could
 thus remain in touch with Charles in south Wales through Bristol, and
 the siege of Taunton having been given up there was no longer any
 incentive for remaining on the wrong side of the water-line. But his
@@ -1604,7 +1604,7 @@ Sutton bridge, heard of Goring's raid in good time, and sent Massey
 after him with a body of horse. Massey surprised a large party of the
 Royalists at Ilminster on the 9th, wounded Goring himself, and pursued
 the fugitives up to the south-eastern edge of Langport. On the 10th
-Fairfax's advanced guard, led by Major Bethel of Cromwell's own
+Fairfax's advanced guard, led by [[Major]] [[Bethel]] of Cromwell's own
 regiment, brilliantly stormed the position of Goring's rearguard east of
 Langport, and the cavalry of the New Model, led by Cromwell himself,
 swept in pursuit right up to the gates of Bridgwater, where Goring's
@@ -1622,7 +1622,7 @@ hoped, owing to the apathy of the people and the vigour of the local
 Parliamentary leaders--and to resume the northern enterprise begun in
 the spring.
 
-39. _Schemes of Lord Digby._--This time Rupert would not be with him.
+39. _Schemes of Lord [[Digby]]._--This time Rupert would not be with him.
 The prince, now despairing of success and hoping only for a peace on the
 best terms procurable, listlessly returned to his governorship of
 Bristol and prepared to meet Fairfax's impending attack. The influence
@@ -1635,16 +1635,16 @@ himself a sort of confidential military secretary to the king, but he
 was distrusted by all sections of Royalists for his reckless optimism.
 The resumption of the northern enterprise, opposed by Rupert and
 directly inspired by Digby, led to nothing. Charles marched by
-Bridgnorth, Lichfield and Ashbourne to Doncaster, where on the 18th of
+Bridgnorth, Lichfield and [[Ashbourne]] to [[Doncaster]], where on the 18th of
 August he was met by great numbers of Yorkshire gentlemen with promises
-of fresh recruits. For a moment the outlook was bright, for the
+of fresh recruits. For a moment the outlook was [[Bright|bright]], for the
 Derbyshire men with Gell were far away at Worcester with Leven, the
 Yorkshire Parliamentarians engaged in besieging Scarborough Castle,
 Pontefract and other posts. But two days later he heard that David
 Leslie with the cavalry of Leven's army was coming up behind him, and
 that, the Yorkshire sieges being now ended, Major-General Poyntz's force
 lay in his front. It was now impossible to wait for the new levies, and
-reluctantly the king turned back to Oxford, raiding Huntingdonshire and
+reluctantly the king turned back to Oxford, raiding [[Huntingdonshire]] and
 other parts of the hated Eastern Association _en route_.
 
 40. _Montrose's Last Victories._--David Leslie did not pursue him.
@@ -1653,12 +1653,12 @@ and was practically master of all Scotland. After Auldearn he had turned
 to meet Baillie's army in Strathspey, and by superior mobility and skill
 forced that commander to keep at a respectful distance. He then turned
 upon a new army which Lindsay, titular earl of Crawford, was forming in
-Forfarshire, but that commander betook himself to a safe distance, and
+[[Forfarshire]], but that commander betook himself to a safe distance, and
 Montrose withdrew into the Highlands to find recruits (June). The
 victors of Auldearn had mostly dispersed on the usual errand, and he was
 now deserted by most of the Gordons, who were recalled by the chief of
 their clan, the marquess of Huntly, in spite of the indignant
-remonstrances of Huntly's heir, Lord Gordon, who was Montrose's warmest
+remonstrances of Huntly's [[Heir|heir]], Lord Gordon, who was Montrose's warmest
 admirer. Baillie now approached again, but he was weakened by having to
 find trained troops to stiffen Lindsay's levies, and a strong force of
 the Gordons had now been persuaded to rejoin Montrose. The two armies
@@ -1676,19 +1676,19 @@ Balfour) to direct his every movement. Montrose, when rejoined by the
 Highlanders, moved to meet him, and in the last week of July and the
 early part of August there were manoeuvres and minor engagements round
 Perth. About the 7th of August Montrose suddenly slipped away into the
-Lowlands, heading for Glasgow. Thereupon another Covenanting army began
+Lowlands, heading for [[Glasgow]]. Thereupon another Covenanting army began
 to assemble in Clydesdale. But it was clear that Montrose could beat
 mere levies, and Baillie, though without authority and despairing of
 success, hurried after him. Montrose then, having drawn Baillie's
 Fifeshire militia far enough from home to ensure their being
-discontented, turned upon them on the 14th of August near Kilsyth.
+discontented, turned upon them on the 14th of August near [[Kilsyth]].
 Baillie protested against fighting, but his aristocratic masters of the
 council of war decided to cut off Montrose from the hills by turning his
 left wing. The Royalist general seized the opportunity, and his advance
 caught them in the very act of making a flank march (August 15). The
 head of the Covenanters' column was met and stopped by the furious
 attack of the Gordon infantry, and Alastair Macdonald led the men of his
-own name and the Macleans against its flank. A breach was made in the
+own name and the Macleans against its flank. A [[Breach|breach]] was made in the
 centre of Baillie's army at the first rush, and then Montrose sent in
 the Gordon and Ogilvy horse. The leading half of the column was
 surrounded, broken up and annihilated. The rear half, seeing the fate of
@@ -1723,7 +1723,7 @@ place were too extensive for his small force, and on the 11th he
 surrendered on terms. He was escorted to Oxford with his men, conversing
 as he rode with the officers of the escort about peace and the future of
 his adopted country. Charles, almost stunned by the suddenness of the
-catastrophe, dismissed his nephew from all his offices and ordered him
+[[Catastrophe|catastrophe]], dismissed his nephew from all his offices and ordered him
 to leave England, and for almost the last time called upon Goring to
 rejoin the main army--if a tiny force of raw infantry and disheartened
 cavalry can be so called--in the neighbourhood of Raglan. But before
@@ -1802,14 +1802,14 @@ was still sanguine, and from Skipton he actually penetrated as far as
 Dumfries. But whether Montrose's new army was or was not in the
 Lowlands, it was certain that Leven and Leslie were on the Border, and
 the mad adventure soon came to an end. Digby, with the mere handful of
-men remaining to him, was driven back into Cumberland, and on the 24th
+men remaining to him, was driven back into [[Cumberland]], and on the 24th
 of October, his army having entirely disappeared, he took ship with his
 officers for the Isle of Man. Poyntz had not followed him beyond
 Skipton, and was now watching the king from Nottingham, while Rossiter
 with the Lincoln troops was posted at Grantham. The king's chances of
 escaping from Newark were becoming smaller day by day, and they were not
 improved by a violent dispute between him and Rupert, Maurice, Lord
-Gerard and Sir Richard Willis, at the end of which these officers and
+[[Gerard]] and Sir Richard Willis, at the end of which these officers and
 many others rode away to ask the Parliament for leave to go over-seas.
 The pretext of the quarrel mattered little, the distinction between the
 views of Charles and Digby on the one hand and Rupert and his friends on
@@ -1836,7 +1836,7 @@ last battle of the war was fought and lost at Stow-on-the-Wold by Lord
 Astley on March 21, 1646. Newark and Oxford fell respectively on May 6
 and June 24. On August 31 Montrose escaped from the Highlands. On the
 19th of the same month Raglan Castle surrendered, and the last Royalist
-post of all, Harlech Castle, maintained the useless struggle until March
+post of all, [[Harlech]] Castle, maintained the useless struggle until March
 13, 1647. Charles himself, after leaving Newark in November 1645, had
 spent the winter in and around Oxford, whence, after an adventurous
 journey, he came to the camp of the Scottish army at Southwell on May 5,
@@ -1873,10 +1873,10 @@ by minor successes, Poyer openly declared for the king. Disbanded
 soldiers continued to join him in April, all South Wales revolted, and
 eventually he was joined by Major-General Laugharne, his district
 commander, and Colonel Powel. In April also news came that the Scots
-were arming and that Berwick and Carlisle had been seized by the English
+were arming and that [[Berwick]] and Carlisle had been seized by the English
 Royalists. Cromwell was at once sent off at the head of a strong
 detachment to deal with Laugharne and Poyer. But before he arrived
-Laugharne had been severely defeated by Colonel Horton at St Fagans (May
+Laugharne had been severely defeated by Colonel [[Horton]] at St Fagans (May
 8). The English Presbyterians found it difficult to reconcile their
 principles with their allies when it appeared that the prisoners taken
 at St Fagans bore "We long to see our King" on their hats; very soon in
@@ -1895,13 +1895,13 @@ and had already determined to "call Charles Stuart, that man of blood,
 to an account for the blood he had shed." On the 21st of May Kent rose
 in revolt in the king's name. A few days later a most serious blow to
 the Independents was struck by the defection of the navy, from command
-of which they had removed Vice-Admiral Batten, as being a Presbyterian.
+of which they had removed Vice-Admiral [[Batten]], as being a Presbyterian.
 Though a former lord high admiral, the earl of Warwick, also a
 Presbyterian, was brought back to the service, it was not long before
-the navy made a purely Royalist declaration and placed itself under the
+the navy made a purely Royalist [[Declaration|declaration]] and placed itself under the
 command of the prince of Wales. But Fairfax had a clearer view and a
 clearer purpose than the distracted Parliament. He moved quickly into
-Kent, and on the evening of June 1 stormed Maidstone by open force,
+Kent, and on the evening of June 1 stormed [[Maidstone]] by open force,
 after which the local levies dispersed to their homes, and the more
 determined Royalists, after a futile attempt to induce the City of
 London to declare for them, fled into Essex. In Cornwall,
@@ -1914,8 +1914,8 @@ Pontefract was surprised by the Royalists, and shortly afterwards
 Scarborough Castle declared for the king. Fairfax, after his success at
 Maidstone and the pacification of Kent, turned northward to reduce
 Essex, where, under their ardent, experienced and popular leader Sir
-Charles Lucas, the Royalists were in arms in great numbers. He soon
-drove the enemy into Colchester, but the first attack on the town was
+Charles [[Lucas]], the Royalists were in arms in great numbers. He soon
+drove the enemy into [[Colchester]], but the first attack on the town was
 repulsed and he had to settle down to a long and wearisome siege _en
 regle_. A Surrey rising, remembered only for the death of the young and
 gallant Lord Francis Villiers in a skirmish at Kingston (July 7),
@@ -1924,7 +1924,7 @@ duke of Buckingham and the earl of Holland, escaped, after another
 attempt to induce London to declare for them, to St Albans and St Neots,
 where Holland was taken prisoner. Buckingham escaped over-seas.
 
-47. _Lambert in the North._--By the 10th of July therefore the military
+47. _[[Lambert]] in the North._--By the 10th of July therefore the military
 situation was well defined. Cromwell held Pembroke, Fairfax Colchester,
 Lambert Pontefract under siege; elsewhere all serious local risings had
 collapsed, and the Scottish army had crossed the Border. It is on the
@@ -1942,14 +1942,14 @@ to Colonel Rossiter, and hurried into Cumberland to deal with the
 English Royalists under Sir Marmaduke Langdale. With his cavalry he got
 into touch with the enemy about Carlisle and slowly fell back, fighting
 small rearguard actions to annoy the enemy and gain time, to Bowes and
-Barnard Castle. Langdale did not follow him into the mountains, but
+[[Barnard Castle]]. Langdale did not follow him into the mountains, but
 occupied himself in gathering recruits and supplies of material and food
 for the Scots. Lambert, reinforced from the midlands, reappeared early
 in June and drove him back to Carlisle with his work half finished.
 About the same time the local horse of Durham and Northumberland were
 put into the field by Sir A. Hesilrige, governor of Newcastle, and under
 the command of Colonel Robert Lilburne won a considerable success (June
-30) at the river Coquet. This reverse, coupled with the existence of
+30) at the river [[Coquet]]. This reverse, coupled with the existence of
 Langdale's force on the Cumberland side, practically compelled Hamilton
 to choose the west coast route for his advance, and his army began
 slowly to move down the long _couloir_ between the mountains and the
@@ -1958,7 +1958,7 @@ history.
 
 48. _Campaign of Preston._--On the 8th of July the Scots, with Langdale
 as advanced guard, were about Carlisle, and reinforcements from Ulster
-were expected daily. Lambert's horse were at Penrith, Hexham and
+were expected daily. Lambert's horse were at Penrith, [[Hexham]] and
 Newcastle, too weak to fight and having only skilful leading and
 rapidity of movement to enable them to gain time. Far away to the south
 Cromwell was still tied down before Pembroke, Fairfax before Colchester.
@@ -1967,7 +1967,7 @@ rather than sheer weight of numbers, smouldered, and Prince Charles and
 the fleet cruised along the Essex coast. Cromwell and Lambert, however,
 understood each other perfectly, while the Scottish commanders
 quarrelled with Langdale and each other. Appleby Castle surrendered to
-the Scots on the 31st of July, whereat Lambert, who was still hanging on
+the Scots on the 31st of July, whereat Lambert, who was still [[Hanging|hanging]] on
 to the flank of the Scottish advance, fell back from Barnard Castle to
 Richmond so as to close Wensleydale against any attempt of the invaders
 to march on Pontefract. All the restless energy of Langdale's horse was
@@ -1977,17 +1977,17 @@ had received the surrender of Pembroke on the 11th, and had marched off,
 with his men unpaid, ragged and shoeless, at full speed through the
 midlands. Rains and storms delayed his march, but he knew that Hamilton
 in the broken ground of Westmorland was still worse off. Shoes from
-Northampton and stockings from Coventry met him at Nottingham, and,
+Northampton and stockings from [[Coventry]] met him at Nottingham, and,
 gathering up the local levies as he went, he made for Doncaster, where
 he arrived on the 8th of August, having gained six days in advance of
 the time he had allowed himself for the march. He then called up
 artillery from Hull, exchanged his local levies for the regulars who
 were besieging Pontefract, and set off to meet Lambert. On the 12th he
 was at Wetherby, Lambert with horse and foot at Otley, Langdale at
-Skipton and Gargrave, Hamilton at Lancaster, and Sir George Monro with
+Skipton and Gargrave, Hamilton at [[Lancaster]], and Sir George Monro with
 the Scots from Ulster and the Carlisle Royalists (organized as a
-separate command owing to friction between Monro and the generals of the
-main army) at Hornby. On the 13th, while Cromwell was marching to join
+separate command owing to [[Friction|friction]] between Monro and the generals of the
+main army) at [[Hornby]]. On the 13th, while Cromwell was marching to join
 Lambert at Otley, the Scottish leaders were still disputing as to
 whether they should make for Pontefract or continue through Lancashire
 so as to join Lord Byron and the Cheshire Royalists.
@@ -2029,9 +2029,9 @@ Second Civil War were not merciful to those who had brought war into the
 land again. On the evening of the surrender of Colchester, Sir Charles
 Lucas and Sir George Lisle were shot. Laugharne, Poyer and Powel were
 sentenced to death, but Poyer alone was executed on the 25th of April
-1649, being the victim selected by lot. Of five prominent Royalist peers
+1649, being the victim selected by [[Lot|lot]]. Of five prominent Royalist peers
 who had fallen into the hands of the Parliament, three, the duke of
-Hamilton, the earl of Holland, and Lord Capel, one of the Colchester
+Hamilton, the earl of Holland, and Lord [[Capel]], one of the Colchester
 prisoners and a man of high character, were beheaded at Westminster on
 the 9th of March. Above all, after long hesitations, even after renewal
 of negotiations, the army and the Independents "purged" the House of
@@ -2054,7 +2054,7 @@ when the noblest of all the Royalists was defeated (Carbisdale, April
 27), delivered up to his pursuers (May 4), and executed (May 21, 1650),
 he was not ashamed to give way to the demands of the Covenanters, and to
 place himself at the head of Montrose's executioners. His father,
-whatever his faults, had at least chosen to die for an ideal, the Church
+whatever his [[Fault|faults]], had at least chosen to die for an ideal, the Church
 of England. Charles II. now proposed to regain the throne by allowing
 Scotland to impose Presbyterianism on England, and dismissed all the
 faithful Cavaliers who had followed him to exile. Meanwhile, Ireland, in
@@ -2064,7 +2064,7 @@ beat down all resistance by his skill, and even more by his ruthless
 severity, in a brief campaign of nine months (battle of Rathmines near
 Dublin, won by Colonel Michael Jones, August 2, 1649; storming of
 Drogheda, September 11, and of Wexford, October 11, by Cromwell; capture
-of Kilkenny, March 28, 1650, and of Clonmel, May 10). Cromwell returned
+of [[Kilkenny]], March 28, 1650, and of Clonmel, May 10). Cromwell returned
 to England at the end of May 1650, and on June 26 Fairfax, who had been
 anxious and uneasy since the execution of the king, resigned the
 command-in-chief of the army to his lieutenant-general. The pretext,
@@ -2085,20 +2085,20 @@ final campaign of the war. Meanwhile the motto _frappez fort, frappez
 vite_ was carried out at once by the regular forces. On the 19th of July
 1650 Cromwell made the final arrangements at Berwick-on-Tweed.
 Major-General Harrison, a gallant soldier and an extreme Independent,
-was to command the regular and auxiliary forces left in England, and to
+was to command the regular and [[Auxiliary|auxiliary]] forces left in England, and to
 secure the Commonwealth against Royalists and Presbyterians. Cromwell
-took with him Fleetwood as lieutenant-general and Lambert as
+took with him [[Fleetwood]] as lieutenant-general and Lambert as
 major-general, and his forces numbered about 10,000 foot and 5000 horse.
 His opponent David Leslie (his comrade of Marston Moor) had a much
 larger force, but its degree of training was inferior, it was more than
 tainted by the political dissensions of the people at large, and it was,
 in great part at any rate, raised by forced enlistment. On the 22nd of
 July Cromwell crossed the Tweed. He marched on Edinburgh by the sea
-coast, through Dunbar, Haddington and Musselburgh, living almost
+coast, through Dunbar, [[Haddington]] and Musselburgh, living almost
 entirely on supplies landed by the fleet which accompanied him--for the
 country itself was incapable of supporting even a small army--and on the
 29th he found Leslie's army drawn up and entrenched in a position
-extending from Leith to Edinburgh.
+extending from [[Leith]] to Edinburgh.
 
 52. _Operations around Edinburgh._--The same day a sharp but indecisive
 fight took place on the lower slopes of Arthur's Seat, after which
@@ -2133,7 +2133,7 @@ manoeuvred again to his right, Leslie meeting him once more at Gogar
 (August 27). The Scottish lines at that point were strong enough to
 dismay even Cromwell, and the manoeuvre on Queensferry was at last given
 up. It had cost the English army severe losses in sick, and much
-suffering in the autumn nights on the bleak hillsides.
+suffering in the autumn nights on the [[Bleak|bleak]] hillsides.
 
 53. _Dunbar._--On the 28th Cromwell fell back on Musselburgh, and on the
 31st, after embarking his non-effective men, to Dunbar. Leslie followed
@@ -2171,7 +2171,7 @@ position not only to defy Cromwell, but also to force the Scottish
 national spirit of resistance to the invader into a purely Royalist
 channel. Cromwell had only received a few drafts and reinforcements from
 England, and for the present he could but block up Edinburgh Castle
-(which surrendered on Christmas eve), and try to bring up adequate
+(which surrendered on [[Christmas]] eve), and try to bring up adequate
 forces and material for the siege of Stirling--an attempt which was
 frustrated by the badness of the roads and the violence of the weather.
 The rest of the early winter of 1650 was thus occupied in semi-military,
@@ -2201,7 +2201,7 @@ Revolution and the American Civil War. It was now engaged in prosecuting
 a war of aggression against the hereditary foe over the Border--strictly
 the task of a professional army with a national basis. The militia was
 indeed raw and untrained. Some of the Essex men "fell flat on their
-faces on the sound of a cannon." In the north of England Harrison
+faces on the sound of a [[Cannon|cannon]]." In the north of England Harrison
 complained to Cromwell of the "badness" of his men, and the lord general
 sympathized, having "had much such stuff" sent him to make good the
 losses in trained men. Even he for a moment lost touch with the spirit
@@ -2221,7 +2221,7 @@ main army. Be this as it may, Cromwell's health again broke down and his
 life was despaired of. Only late in June were operations actively
 resumed between Stirling and Linlithgow. At first Cromwell sought
 without success to bring Leslie to battle, but he stormed Callendar
-House near Falkirk on July 13, and on the 16th of July he began the
+House near [[Falkirk]] on July 13, and on the 16th of July he began the
 execution of a brilliant and successful manoeuvre. A force from
 Queensferry, covered by the English fleet, was thrown across the Firth
 of Forth to Northferry. Lambert followed with reinforcements, and
@@ -2237,7 +2237,7 @@ for on the day he met Harrison at Linlithgow three-quarters of his whole
 army had already crossed into Fife. Burntisland, surrendered to Lambert
 on the 29th, gave Cromwell a good harbour upon which to base his
 subsequent movements. On the 30th of July the English marched upon
-Perth, and the investment of this place, the key to Leslie's supply
+Perth, and the investment of this place, the [[Key|key]] to Leslie's supply
 area, forced the crisis at once. Whether Leslie would have preferred to
 manoeuvre Cromwell from his vantage-ground or not is immaterial; the
 young king and the now predominant Royalist element at headquarters
@@ -2305,7 +2305,7 @@ unnaturally, to deal with an Independent minority more effectually than
 Charles I. had done with a Parliamentary majority of the people of
 England. But even the pure Royalism which now ruled in the invading army
 could not alter the fact that it was a Scottish army, and it was not an
-Independent faction but all England that took arms against it. Charles
+Independent [[Faction|faction]] but all England that took arms against it. Charles
 arrived at Worcester on the 22nd of August, and spent five days in
 resting the troops, preparing for further operations, and gathering and
 arming the few recruits who came in. It is unnecessary to argue that the
@@ -2364,8 +2364,8 @@ victories in which a pursuit is superfluous--a "crowning mercy," as
 Cromwell called it. There is little of note in the closing operations.
 Monk had completed his task by May 1652; and Scotland, which had twice
 attempted to impose its will on England, found itself reduced to the
-position of an English province under martial law. The details of its
-subjection are uninteresting after the tremendous climax of Worcester.
+position of an English province under [[Martial|martial]] law. The details of its
+subjection are uninteresting after the tremendous [[Climax|climax]] of Worcester.
 
   BIBLIOGRAPHY.--Earl of Clarendon, _The History of the Rebellion_
   (Oxford, 1702-1704, ed. W. D. Macray, Oxford, 1888); R. Baillie,
@@ -2375,16 +2375,16 @@ subjection are uninteresting after the tremendous climax of Worcester.
   Borlace, _History of the Irish Rebellion_ (London, 1675); R. Bellings,
   _Fragmentum historicum, or the ... War in Ireland_ (London, 1772); J.
   Heath, _Chronicle of the late Intestine War_ (London, 1676); _Military
-  Memoir of Colonel Birch_ (Camden Society, new series, vol. vii.,
+  Memoir of Colonel [[Birch]]_ (Camden Society, new series, vol. vii.,
   1873); _Autobiography of Captain John Hodgson_ (edition of 1882);
   Papers on the earl of Manchester, Camden Society, vol. viii., and
   _English Historical Review_, vol. iii.; J. Ricraft, _Survey of
-  England's Champions_ (1647, reprinted, London, 1818); ed. E.
+  England's [[Champion|Champions]]_ (1647, reprinted, London, 1818); ed. E.
   Warburton, _Memoirs of Prince Rupert and the Cavaliers_ (London,
   1849); J. Vicars, _Jehovah-Jireh_ (1644), and _England's Worthies_
-  (1647), the latter reprinted in 1845: Anthony a Wood, _History and
+  (1647), the latter reprinted in 1845: [[Anthony]] a Wood, _History and
   Antiquities of the University of Oxford_ (ed. J. Gutch, Oxford,
-  1792-1795); Margaret, duchess of Newcastle, Life of _William
+  1792-1795); [[Margaret]], duchess of Newcastle, Life of _William
   Cavendish, duke of Newcastle_ (ed. C. H. Firth, London, 1886); Lucy
   Hutchinson, _Memoir of the Life of Colonel Hutchinson_ (ed. C. H.
   Firth, Oxford, 1896); _Memoirs of Edward Ludlow_ (ed. C. H. Firth,
@@ -2403,7 +2403,7 @@ subjection are uninteresting after the tremendous climax of Worcester.
   1898); J. Sprigge, _Anglia Rediviva_ (London, 1847, reprinted Oxford,
   1854); R. Symonds, _Diary of the Marches of the Royal Army, 1644-1645_
   (ed. C. E. Long, Camden Society, old series, 1859); J. Corbet, _The
-  Military Government of Gloucester_ (London, 1645); M. Carter,
+  Military Government of Gloucester_ (London, 1645); M. [[Carter]],
   _Expeditions of Kent, Essex and Colchester_ (London, 1650); _Tracts
   relating to the Civil War in Lancashire_ (ed. G. Ormerod, Chetham
   Society, London, 1844); _Discourse of the War in Lancashire_ (ed. W.
@@ -2422,16 +2422,16 @@ subjection are uninteresting after the tremendous climax of Worcester.
   (Exeter, 1886); Sir C. Markham, _Life of Fairfax_ (London, 1870); M.
   Napier, _Life and Times of Montrose_ (Edinburgh, 1840); W. B.
   Devereux, _Lives of the Earls of Essex_ (London, 1853); W. G. Ross,
-  _Mil. Engineering in the Civil War_ (R. E. Professional Papers, 1887);
+  _Mil. [[Engineering]] in the Civil War_ (R. E. Professional Papers, 1887);
   "The Battle of Naseby," _English Historical Review_, 1888; _Oliver
-  Cromwell and his Ironsides_ (Chatham, 1869); F. N. Maude, _Cavalry,
+  Cromwell and his Ironsides_ ([[Chatham]], 1869); F. N. Maude, _Cavalry,
   its Past and Future_ (London, 1903); E. Scott, _Rupert, Prince
   Palatine_ (London, 1899); M. Stace, _Cromwelliana_ (London, 1870); C.
   S. Terry, _Life and Campaigns of Alexander Leslie, Earl of Leven_
   (London, 1899); Madame H. de Witt, _The Lady of Lathom_ (London,
   1869); F. Maseres, _Tracts relating to the Civil War_ (London, 1815);
   P. A. Charrier, _Cromwell_ (London, 1905), also paper in _Royal United
-  Service Institution Journal_, 1906; T. Arnold and W. G. Ross,
+  Service Institution Journal_, 1906; T. [[Arnold]] and W. G. Ross,
   "Edgehill," _English Historical Review_, 1887; _The History of Basing
   House_ (Basingstoke, 1869); E. Broxap, "The Sieges of Hull," _English
   Historical Review_, 1905; J. Willis Bund, _The Civil War in
@@ -2485,7 +2485,7 @@ subjection are uninteresting after the tremendous climax of Worcester.
     have seen, often took several days. The _bon general ordinaire_ of
     the 17th and 18th centuries framed his manoeuvres on a smaller scale
     so as not to expose his expensive and highly trained soldiers to
-    discomfort and the consequent temptation to desert.
+    discomfort and the consequent temptation to [[Desert|desert]].
 
   [8] The lord general had during his march thrown out successively two
     flying columns under Colonel Lilburne to deal with the Lancashire

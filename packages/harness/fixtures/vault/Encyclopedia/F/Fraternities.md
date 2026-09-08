@@ -11,19 +11,19 @@ FRATERNITIES, COLLEGE, a class of student societies peculiar to the
 colleges and universities of the United States and Canada, with certain
 common characteristics, and mostly named from two or three letters of
 the Greek alphabet; hence they are frequently called "Greek Letter
-Societies." They are organized on the lodge system, and each fraternity
+Societies." They are organized on the [[Lodge|lodge]] system, and each fraternity
 comprises a number of affiliated lodges of which only one of any one
 fraternity is connected with the same institution. The lodges, called
-"chapters," in memory of the convocations of monks of medieval times,
+"chapters," in memory of the [[Convocation|convocations]] of monks of medieval times,
 are usually designated by Greek letters also. They are nominally secret,
-with one exception (_Delta Upsilon_). Each chapter admits members from
+with one exception (_[[Delta]] Upsilon_). Each chapter admits members from
 the lowest or freshman class, and of course loses its members as the
 students depart from college, consequently each chapter has in it at the
 same time members of all the four college classes and frequently those
 pursuing postgraduate studies. Where the attendance at a college is
 large the material from which fraternity members may be drawn is
 correspondingly abundant, and in some of the large colleges (e.g. at
-Cornell University and the University of Michigan) there are chapters of
+[[Cornell University]] and the University of Michigan) there are chapters of
 over twenty fraternities. All the fraternities aim to be select and to
 pick their members from the mass of incoming students. Where, however,
 the material to select from is not abundant and the rival fraternities
@@ -39,7 +39,7 @@ College of William and Mary at Williamsburg, Virginia, in 1776. It was a
 little social club of five students: John Heath, Richard Booker, Thomas
 Smith, Armistead Smith and John Jones. Its badge was a square silver
 medal displaying the Greek letters of its name and a few symbols. In
-1779 it authorized Elisha Parmelee, one of its members, to establish
+1779 it authorized [[Elisha]] Parmelee, one of its members, to establish
 "meetings" or chapters at Yale and Harvard, these chapters being
 authorized to establish subordinate branches in their respective states.
 In 1781 the College of William and Mary was closed, its buildings being
@@ -52,7 +52,7 @@ and became non-secret and purely honorary in character, admitting to
 membership a certain proportion of the scholars of highest standing in
 each class (only in classical courses, usually and with few exceptions
 only in graduating classes). More recent honorary societies of similar
-character among schools of science and engineering are _Sigma Xi_ and
+character among schools of science and [[Engineering|engineering]] are _Sigma Xi_ and
 _Tau Beta Pi_.
 
 In 1825, at Union College, _Kappa Alpha_ was organized, copying in style
@@ -89,7 +89,7 @@ influence to their advancement.
 Almost universally the members of any particular chapter (or part of
 them) live together in a lodge or chapter house. The men's fraternities
 own hundreds of houses and rent as many more. The fraternities form a
-little aristocracy within the college community. Sometimes the line of
+little [[Aristocracy|aristocracy]] within the college community. Sometimes the line of
 separation is invisible, sometimes sharply marked. Sometimes this
 condition militates against the college discipline and sometimes it
 assists it. Conflicts not infrequently occur between the fraternity and
@@ -99,7 +99,7 @@ It can readily be understood how young men living together in the
 intimate relationship of daily contact in the same house, having much
 the same tastes, culture and aspirations would form among themselves
 enduring friendships. In addition each fraternity has a reputation to
-maintain, and this engenders an esprit du corps which at times places
+maintain, and this engenders an esprit du [[Corps|corps]] which at times places
 loyalty to fraternity interests above loyalty to college interest or the
 real advantage of the individual. At commencements and upon other
 occasions the former members of the chapters return to their chapter
@@ -109,7 +109,7 @@ alumni. This brings the undergraduates into contact with men of mature
 age and often of national fame, who treat their membership as a serious
 privilege.
 
-The development of this collegiate aristocracy has led to jealousy and
+The development of this collegiate aristocracy has led to [[Jealousy|jealousy]] and
 bitter animosity among those not selected for membership. Some of the
 states, notably South Carolina and Arkansas, have by legislation, either
 abolished the fraternities at state-controlled institutions or seriously
@@ -135,7 +135,7 @@ periodically visited and kept up to a certain level of excellence.
 
 The leading fraternities publish journals usually from four to eight
 times during the college year. The earliest of these was the _Beta Theta
-Pi_, first issued in 1872. All publish catalogues of their members and
+Pi_, first issued in 1872. All publish [[Catalogue|catalogues]] of their members and
 the most prosperous have issued histories. They also publish song books,
 music and many ephemeral and local publications.
 
@@ -157,7 +157,7 @@ Sheffield Scientific School), but in the classical department the
 fraternity chapters are called "junior" societies, because they limit
 their membership to the three upper classes and allow the juniors each
 year practically to control the chapter affairs. Certain senior
-societies, of which the oldest is the Skull and Bones, which are
+societies, of which the oldest is the Skull and [[Bone|Bones]], which are
 inter-fraternity societies admitting freely members of the fraternities,
 are more prominent at Yale than the fraternities themselves. Princeton
 has two (secret) literary and fraternal societies, the American Whig and
@@ -170,15 +170,15 @@ influence and have modified the strength of the fraternity system.
 
 Of late years, numerous societies bearing Greek names and imitating the
 externals of the college fraternities have sprung up in the high schools
-and academies of the country, but have excited the earnest and
+and academies of the country, but have excited the [[Earnest|earnest]] and
 apparently united opposition of the authorities of such schools.
 
-  See William Raimond Baird, _American College Fraternities_ (6th ed.,
+  See William Raimond [[Baird]], _American College Fraternities_ (6th ed.,
   New York, 1905); Albert C. Stevens, _Cyclopedia of Fraternities_
   (Paterson, N. J., 1899); Henry D. Sheldon, _Student Life and Customs_
-  (New York, 1901); Homer L. Patterson, _Patterson's College and School
-  Directory_ (Chicago, 1904); H. K. Kellogg, _College Secret Societies_
-  (Chicago, 1874); Albert P. Jacobs, _Greek Letter Societies_ (Detroit,
+  (New York, 1901); [[Homer]] L. Patterson, _Patterson's College and School
+  [[Directory]]_ ([[Chicago]], 1904); H. K. [[Kellogg]], _College Secret Societies_
+  (Chicago, 1874); Albert P. [[Jacobs]], _Greek Letter Societies_ (Detroit,
   1879).     (W. R. B.*)
 
 ## See also

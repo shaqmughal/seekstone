@@ -7,7 +7,7 @@ making hat shapes, are also known by the same name. From the use of the
 material to expand ladies' skirts the term was applied, during the third
 quarter of the 19th century, when the fashion of wearing greatly
 expanded skirts was at its height, to the whalebone and steel hoops
-employed to support the skirts thus worn (see COSTUME). The term is also
+employed to support the skirts thus worn (see [[Costume|COSTUME]]). The term is also
 used of structures resembling these articles, especially of the
 framework of booms, spars and netting forming a protection for a warship
 against torpedo attack.

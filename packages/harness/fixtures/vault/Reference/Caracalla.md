@@ -6,10 +6,10 @@ topic: history
 
 # Caracalla
 
-CARACALLA (or CARACALLUS), MARCUS AURELIUS ANTONINUS (186-217), Roman
+CARACALLA (or CARACALLUS), [[Marcus Aurelius Antoninus|MARCUS AURELIUS ANTONINUS]] (186-217), Roman
 emperor, eldest son of the emperor Septimius Severus, was born at
-Lugdunum (Lyons) on the 4th of April 186. His original name was
-Bassianus; his nickname Caracalla was derived from the long Gallic tunic
+Lugdunum ([[Lyons]]) on the 4th of April 186. His original name was
+[[Bassianus]]; his nickname Caracalla was derived from the long Gallic tunic
 which he wore and introduced into the army. He further received the
 imperial title of Marcus Aurelius Antoninus at the time when his father
 declared himself the adopted son of M. Aurelius. After the death of
@@ -29,20 +29,20 @@ every description. He spent the remainder of his reign wandering from
 place to place, a mode of life to which he was said to have been driven
 by the pangs of remorse. Handing over the reins of government to his
 mother, he set out in 213 for Raetia, where he carried on war against
-the Alamanni; in 214 he attacked the Goths in Dacia, whence he proceeded
+the Alamanni; in 214 he attacked the Goths in [[Dacia]], whence he proceeded
 by way of Thrace to Asia Minor, and in 215 crossed to Alexandria. Here
 he took vengeance for the bitter sarcasms of the inhabitants against
-himself and his mother by ordering a general massacre of the youths
+himself and his mother by ordering a general [[Massacre|massacre]] of the youths
 capable of bearing arms. In 216 he ravaged Mesopotamia because
-Artabanus, the Parthian king, refused to give him his daughter in
+[[Artabanus]], the Parthian king, refused to give him his daughter in
 marriage. He spent the winter at Edessa, and in 217, when he recommenced
 his campaign, he was murdered between Edessa and Carrhae on the 8th of
 April at the instigation of Opellius (Opilius) Macrinus, praefect of the
 praetorian guard, who succeeded him. Amongst the numerous buildings with
 which Caracalla adorned the city, the most famous are the _thermae_, and
-the triumphal arch of Septimius Severus in the forum.
+the triumphal [[Arch|arch]] of Septimius Severus in the [[Forum|forum]].
 
-  AUTHORITIES.--Dio Cassius lxxvii., lxxviii.; Herodian iii. 10, iv. 14;
+  AUTHORITIES.--[[Dio Cassius]] lxxvii., lxxviii.; Herodian iii. 10, iv. 14;
   lives of Caracalla, Severus and Geta, in _Scriptores Historiae
   Augustae_; Eutropius viii. 19-22; Aurelius Victor, _De Caesaribus_,
   20-23; _Epit._ 20-23; Zosimus i. 9-10; H. Schiller, _Geschichte der

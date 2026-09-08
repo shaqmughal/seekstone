@@ -1,28 +1,28 @@
 # Burnham-On-Crouch
 
 BURNHAM-ON-CROUCH, an urban district in the southeastern parliamentary
-division of Essex, England, 43 m. E. by N. from London on a branch of the
+division of [[Essex]], England, 43 m. E. by N. from London on a branch of the
 Great Eastern railway. Pop. (1901) 2919. The church of St Mary is
 principally late Perpendicular, a good example; it has Decorated portions
 and a Norman font. There are extensive oyster beds in the Crouch estuary.
 Burnham lies 6 m. from the North Sea; below it the Crouch is joined on the
-south side by the Roch, which branches into numerous creeks, and, together
+south side by the Roch, which branches into numerous [[Creek|creeks]], and, together
 with the main estuary, forms Foulness, Wallasea, Potton and other low, flat
 islands, embanked and protected from incursions of the sea. Burnham is in
 some repute as a watering-place, and is a favourite yachting station. There
-is considerable trade in corn and coal, and boat-building is carried on.
+is considerable trade in [[Corn|corn]] and coal, and boat-building is carried on.
 
 BURNING TO DEATH. As a legal punishment for various crimes burning alive
 was formerly very wide-spread. It was common among the Romans, being given
-in the XII. Tables as the special penalty for arson. Under the Gothic codes
+in the XII. Tables as the special penalty for [[Arson|arson]]. Under the [[Gothic]] [[Code|codes]]
 adulterers were so punished, and throughout the middle ages it was the
 civil penalty for certain heinous crimes, _e.g._ poisoning, heresy,
 witchcraft, arson, bestiality and sodomy, and so continued in some cases,
 nominally at least, till the beginning of the 19th century. In England,
 under the common law, women condemned for high treason or petty treason
 (murder of husband, murder of master or mistress, certain offences against
-the coin, &c.) were burned, this being considered more "decent" than
-hanging and exposure on a gibbet. In practice the convict was strangled
+the [[Coin|coin]], &c.) were burned, this being considered more "decent" than
+[[Hanging|hanging]] and exposure on a gibbet. In practice the convict was strangled
 before being burnt. The last woman burnt in England suffered in 1789, the
 punishment being abolished in 1790.
 
@@ -31,13 +31,13 @@ imperial codes; but the burning of heretics by orthodox mobs had long been
 sanctioned by custom before the edicts of the emperor Frederick II. (1222,
 1223) made it the civil-law punishment for heresy. His example was followed
 in France by Louis IX. in the Establishments of 1270. In England, where the
-civil law was never recognized, the common law took no cognizance of
+[[Civil Law|civil law]] was never recognized, the common law took no [[Cognizance|cognizance]] of
 ecclesiastical offences, and the church courts had no power to condemn to
 death. There were, indeed, in the 12th and 13th centuries isolated
 instances of the burning of heretics. William of Newburgh describes the
 burning of certain foreign sectaries in 1169, and early in the 13th century
-a deacon was burnt by order of the council of Oxford (Foxe ii. 374; cf.
-Bracton, _de Corona_, ii. 300), but by what legal sanction is not obvious.
+a deacon was burnt by order of the council of Oxford ([[Foxe]] ii. 374; cf.
+[[Bracton]], _de Corona_, ii. 300), but by what legal sanction is not obvious.
 The right of the crown to issue writs _de haeretico comburendo_, claimed
 for it by later jurists, was based on that issued by Henry IV. in 1400 for
 the burning of William Sawtre; but Sir James Stephen (_Hist. Crim. Law_)
@@ -56,7 +56,7 @@ Bartholomew Legate at Smithfield, and Edward Wightman at Lichfield, both in
 1610. As for witches, countless numbers were burned in most European
 countries, though not in England, where they were hanged. In Scotland in
 Charles II.'s day the law still was that witches were to be "worried at the
-stake and then burnt"; and a witch was burnt at Dornoch so late as 1708.
+stake and then burnt"; and a witch was burnt at [[Dornoch]] so late as 1708.
 
 ## See also
 

@@ -1,6 +1,6 @@
 # Awaji
 
-AWAJI, an island belonging to Japan, situated at the eastern entrance of
+AWAJI, an island belonging to [[Japan]], situated at the eastern entrance of
 the Inland Sea, having a length of 32 m., an extreme breadth of 16 m., and
 an area of 218 sq. m., with a population of about 190,000. It is separated
 on the south from the island of Shikoku by the Naruto channel, through

@@ -16,7 +16,7 @@ more commonly developed in the first six months of life; but it
 occasionally arises in older children, or even in adults. The chief
 symptom is the gradual increase in size of the upper part of the head
 out of all proportion to the face or the rest of the body. Occurring at
-an age when as yet the bones of the skull have not become welded
+an age when as yet the [[Bone|bones]] of the skull have not become welded
 together, the enlargement may go on to an enormous extent, the Spaces
 between the bones becoming more and more expanded. In a well-marked case
 the deformity is very striking; the upper part of the forehead projects
@@ -39,7 +39,7 @@ distended, and the convolutions are flattened. Occasionally the fluid
 escapes into the cavity of the cranium, which it fills, pressing down
 the brain to the base of the skull. As a consequence, the functions of
 the brain are interfered with, and the mental condition is impaired. The
-child is dull, listless and irritable, and sometimes imbecile. The
+child is dull, listless and irritable, and sometimes [[Imbecile|imbecile]]. The
 special senses become affected as the disease advances; sight is often
 lost, as is also hearing. Hydrocephalic children generally sink in a few
 years; nevertheless there have been instances of persons with this

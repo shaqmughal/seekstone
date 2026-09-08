@@ -3,7 +3,7 @@
 COURTNEY, LEONARD HENRY COURTNEY, BARON (1832-   ), English politician
 and man of letters, eldest son of J. S. Courtney, a banker, was born at
 Penzance on the 6th of July 1832. At Cambridge, Leonard Courtney was
-second wrangler and first Smith's prizeman, and was elected a fellow of
+second wrangler and first Smith's prizeman, and was elected a [[Fellow|fellow]] of
 his college, St John's. He was called to the bar at Lincoln's Inn in
 1858, was professor of political economy at University College from 1872
 to 1875, and in December 1876, after a previous unsuccessful attempt,
@@ -42,7 +42,7 @@ Salisbury and Mr Chamberlain. He gradually reverted to formal membership
 of the Liberal party, and in January 1906 unsuccessfully contested a
 division of Edinburgh as a supporter of Sir Henry Campbell-Bannerman at
 the general election. Among the birthday honours of 1906 he was elevated
-to the peerage as Baron Courtney of Penwith (Cornwall). Lord Courtney,
+to the peerage as Baron Courtney of Penwith ([[Cornwall]]). Lord Courtney,
 who in 1883 married Miss Catherine Potter (an elder sister of Mrs Sidney
 Webb), was a prominent supporter of the women's movement. In earlier
 years he was a regular contributor to _The Times_, and he wrote numerous

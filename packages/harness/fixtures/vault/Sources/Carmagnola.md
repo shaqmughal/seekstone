@@ -9,10 +9,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Carmagnola
 
 CARMAGNOLA, FRANCESCO BUSSONE, COUNT OF (1390-1432), Italian soldier of
 fortune, was born at Carmagnola near Turin, and began his military
-career when twelve years old under Facino Cane, a _condottiere_ then in
+career when twelve years old under Facino Cane, a _[[Condottiere|condottiere]]_ then in
 the service of Gian Galeazzo Visconti, duke of Milan. On the death of
 the latter his duchy was divided among his captains, but his son and
-heir, Filippo Maria, determined to reconquer it by force of arms. Facino
+[[Heir|heir]], Filippo Maria, determined to reconquer it by force of arms. Facino
 Cane being dead, Visconti applied to Carmagnola, then in his thirtieth
 year, and gave him command of the army. That general's success was
 astonishingly rapid, and soon the whole duchy was brought once more
@@ -23,7 +23,7 @@ Genoa. Carmagnola felt greatly aggrieved, and failing to obtain a
 personal interview with the duke, threw up his commission and offered
 his services to the Venetians (1425). He was well received in Venice,
 for the republic was beginning to fear the ambitions of the Visconti,
-and the new doge, Francesco Foscari, was anxious to join the Florentines
+and the new doge, Francesco [[Foscari]], was anxious to join the Florentines
 and go to war with Milan. Carmagnola himself represented the duke's
 forces as much less numerous than they were supposed to be, and said
 that the moment was an opportune one to attack him. These arguments,
@@ -42,10 +42,10 @@ fiefs including the lordship of Milan, so as to increase his ardour, but
 in vain. At the same time Carmagnola was perpetually receiving
 messengers from Visconti, who offered him great rewards if he would
 abandon the Venetians. The general trifled with his past as with his
-present employers, believing in his foolish vanity that he held the fate
+present employers, believing in his foolish vanity that he held the [[Fate|fate]]
 of both in his hand. But the Venetians were dangerous masters to trifle
 with, and when they at last lost all patience, the Council of Ten
-determined to bring him to justice. Summoned to Venice to discuss future
+determined to bring him to justice. Summoned to Venice to [[Discus|discuss]] future
 operations on the 29th of March 1432, he came without suspicion. On his
 arrival at the ducal palace he was seized, imprisoned and brought to
 trial for treason against the republic. Although the doge befriended him
@@ -58,8 +58,8 @@ Visconti meant to ruin him for his abandonment.
   BIBLIOGRAPHY.--The best account of Carmagnola is Horatio Brown's essay
   in his _Studies in Venetian History_ (London, 1907); see also A.
   Battistella, _Il Conte di Carmagnola_ (Genoa, 1889); E. Ricotti,
-  _Storia delle Compagnie di Ventura_ (Turin, 1845). Alessandro Manzoni
-  (q.v.) made this episode the subject of a poetical drama, _Il Conte di
+  _Storia delle Compagnie di Ventura_ (Turin, 1845). Alessandro [[Manzoni]]
+  (q.v.) made this episode the subject of a poetical [[Drama|drama]], _Il Conte di
   Carmagnola_ (1826).     (L. V.*)
 
 ## See also

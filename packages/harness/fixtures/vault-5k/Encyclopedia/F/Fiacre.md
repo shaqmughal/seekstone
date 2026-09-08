@@ -4,7 +4,7 @@ FIACRE, SAINT (Celt. _Fiachra_), an anchorite of the 7th century, of
 noble Irish descent. We have no information concerning his life in his
 native country. His _Acta_, which have scarcely any historical value,
 relate that he left Ireland, and came to France with his companions. He
-approached St Faro, the bishop of Meaux, to whom he made known his
+approached St Faro, the bishop of [[Meaux]], to whom he made known his
 desire to live a life of solitude in the forest. St Faro assigned him a
 spot called Prodilus (Brodolium), the modern Breuil, in the province of
 Brie. There St Fiacre built a monastery in honour of the Holy Virgin,

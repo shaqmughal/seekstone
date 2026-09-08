@@ -10,7 +10,7 @@ ARIES ("The Ram"), in astronomy, the first sign of the zodiac (q.v.),
 denoted by the sign [symbol], in imitation of a ram's head. The name is
 probably to be associated with the fact that when the sun is in this
 part of the heavens (in spring) sheep bring forth their young; this
-finds a parallel in _Aquarius_, when there is much rain. It is also a
+finds a parallel in _[[Aquarius]]_, when there is much rain. It is also a
 constellation, mentioned by Eudoxus (4th century B.C.) and Aratus (3rd
 century B.C.); Ptolemy catalogued eighteen stars, Tycho Brahe
 twenty-one, and Hevelius twenty-seven. According to a Greek myth,

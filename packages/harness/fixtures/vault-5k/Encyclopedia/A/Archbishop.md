@@ -18,7 +18,7 @@ jurisdiction. Nor are the terms interchangeable now; for not all
 metropolitans are archbishops,[1] nor all archbishops metropolitans. The
 title seems to have been introduced first in the East, in the 4th
 century, as an honorary distinction implying no superiority of
-jurisdiction. Its first recorded use is by Athanasius, bishop of
+jurisdiction. Its first recorded use is by [[Athanasius]], bishop of
 Alexandria, who applied it to his predecessor Alexander as a mark of
 respect. In the same way Gregory of Nazianzus bestowed it upon
 Athanasius himself. In the next century its use would seem to have been
@@ -97,7 +97,7 @@ In the Orthodox and other churches of the East the title of archbishop
 is of far more common occurrence than in the West, and is less
 consistently associated with metropolitan functions. Thus in Greece
 there are eleven archbishops to thirteen bishops, the archbishop of
-Athens alone being metropolitan; in Cyprus, where there are four bishops
+Athens alone being metropolitan; in [[Cyprus]], where there are four bishops
 and only one archbishop, all five are of metropolitan rank.
 
 
@@ -133,7 +133,7 @@ primate of all England extends in certain matters into the province of
 York. He exercised the jurisdiction of _legatus natus_ of the pope
 throughout all England before the Reformation, and since that event he
 has been empowered, by 25 Hen. VIII. c. 21, to exercise certain powers
-of dispensation in cases formerly sued for in the court of Rome. Under
+of [[Dispensation|dispensation]] in cases formerly sued for in the court of Rome. Under
 this statute the archbishop continues to grant special licences to
 marry, which are valid in both provinces; he appoints notaries public,
 who may practise in both provinces; and he grants dispensations to
@@ -145,7 +145,7 @@ qualifying the recipients to practise, was practically restrained by the
 Medical Act 1858.
 
 The archbishop of Canterbury exercises the twofold jurisdiction of a
-metropolitan and a diocesan bishop. As metropolitan he is the guardian
+metropolitan and a diocesan bishop. As metropolitan he is the [[Guardian|guardian]]
 of the spiritualities of every vacant see within the province, he
 presents to all benefices which fall vacant during the vacancy of the
 see, and through his special commissary exercises the ordinary
@@ -164,7 +164,7 @@ of the bishops of the province in all testamentary and matrimonial
 causes. The matrimonial jurisdiction was transferred to the crown by the
 Matrimonial Causes Act 1857. The court of Audience, in which the
 archbishop presided personally, attended by his vicar-general, and
-sometimes by episcopal assessors, has fallen into desuetude. The
+sometimes by episcopal [[Assessor|assessors]], has fallen into desuetude. The
 vicar-general, however, exercises jurisdiction in matters of ordinary
 marriage licences and of institutions to benefices. The master of the
 faculties regulates the appointment of notaries public, and all
@@ -193,7 +193,7 @@ Edward King), who was accused of certain irregular ritual practices. The
 trial began on the 12th of February 1889 before the archbishop and
 certain assessors, the protest of Dr King, based on the claim that he
 could only be tried in a provincial synod, being overruled by Archbishop
-Benson on the grounds above stated. The main importance of the "Lincoln
+[[Benson]] on the grounds above stated. The main importance of the "Lincoln
 Judgment," delivered on the 21st of November 1890, is that it set a new
 precedent for the effective jurisdiction of the archbishop, based on the
 ancient canon law, and so did something towards the establishment of a
@@ -204,7 +204,7 @@ It is the privilege of the archbishop of Canterbury to crown the kings
 and queens of England. He is entitled to consecrate all the bishops
 within his province and was formerly entitled, upon consecrating a
 bishop, to select a benefice within his diocese at his option for one of
-his chaplains, but this practice was indirectly abolished by 3 and 4
+his [[Chaplain|chaplains]], but this practice was indirectly abolished by 3 and 4
 Vict. c. III, S 42. He is entitled to nominate eight chaplains, who had
 formerly certain statutory privileges, which are now abolished. He is
 _ex officio_ an ecclesiastical commissioner for England, and has by
@@ -238,7 +238,7 @@ chancellor of England. He is ex officio an ecclesiastical commissioner
 for England (see further ENGLAND, CHURCH OF).
 
 The Church of Ireland had at the time of the Act of Union four
-archbishops, who took their titles from Armagh, Dublin, Cashel and Tuam.
+archbishops, who took their titles from [[Armagh]], Dublin, Cashel and Tuam.
 By acts of 1833 and 1834, the metropolitans of Cashel and of Tuam were
 reduced to the status of diocesan bishops. The two archbishoprics of
 Armagh and Dublin are maintained in the disestablished Church of
@@ -250,9 +250,9 @@ when it was assumed by the metropolitans of Canada and Rupert's Land
 (see ANGLICAN COMMUNION). Archbishops have the title of His (or Your)
 Grace and Most Reverend Father in God.
 
-  See Hinschius, _System des katholischen Kirchenrechts_ (Berlin, 1869),
+  See [[Hinschius]], _System des katholischen Kirchenrechts_ (Berlin, 1869),
   also article "Erzbischof," in Hauck, _Realencyklopadie_ (1898);
-  Phillimore, _The Ecclesiastical Law of the Church of England_, and
+  Phillimore, _The [[Ecclesiastical Law]] of the Church of England_, and
   authorities there cited.     (W. A. P.)
 
 

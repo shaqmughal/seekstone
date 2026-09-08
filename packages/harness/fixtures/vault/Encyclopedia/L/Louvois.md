@@ -17,8 +17,8 @@ perceived by Turenne in the war of Devolution (1667-68), who gave him
 instruction in the art of providing armies. After the peace of
 Aix-la-Chapelle, Louvois devoted himself to organizing the French army.
 The years between 1668 and 1672, says Camille Rousset, "were years of
-preparation, when Lionne was labouring with all his might to find
-allies, Colbert to find money, and Louvois soldiers for Louis." The work
+preparation, when [[Lionne]] was labouring with all his might to find
+allies, [[Colbert]] to find money, and Louvois soldiers for Louis." The work
 of Louvois in these years is bound up with the historical development of
 the French army and of armies in general (see ARMY). Here need only be
 mentioned Louvois's reorganization of the military orders of merit, his
@@ -30,14 +30,14 @@ victories of the great war of 1672-78. After the peace of Nijmwegen
 Louvois was high in favour, his father had been made chancellor, and the
 influence of Colbert was waning. The ten years of peace between 1678 and
 1688 were distinguished in French history by the rise of Madame de
-Maintenon, the capture of Strassburg and the revocation of the Edict of
+[[Maintenon]], the capture of Strassburg and the revocation of the Edict of
 Nantes, in all of which Louvois bore a prominent part. The surprise of
 Strassburg in 1681 in time of peace was not only planned but executed by
 Louvois and Monclar. A saving clause in the revocation of the Edict of
 Nantes, which provided for some liberty of conscience, if not of
 worship, Louvois sharply annulled with the phrase "Sa majesté veut qu'on
 fasse sentir les dernières rigueurs à ceux qui ne voudront pas se faire
-de sa religion." He claimed also the credit of inventing the
+de sa religion." He claimed also the [[Credit|credit]] of inventing the
 dragonnades, and mitigated the rigour of the soldiery only in so far as
 the licence accorded was prejudicial to discipline. Discipline, indeed,
 and complete subjection to the royal authority was the political faith
@@ -46,8 +46,8 @@ an adherent of Louvois, in the controller-generalship of finances, and
 by Louvois himself in his ministry for public buildings, which he took
 that he might be the minister able to gratify the king's two favourite
 pastimes, war and building. Louvois was able to superintend the
-successes of the first years of the war of the League of Augsburg, but
-died suddenly of apoplexy after leaving the king's cabinet on July 16,
+successes of the first years of the war of the League of [[Augsburg]], but
+died suddenly of apoplexy after leaving the king's [[Cabinet|cabinet]] on July 16,
 1691. His sudden death caused a suspicion of poison. Louvois was one of
 the greatest of the rare class of great war ministers. French history
 can only point to Carnot as his equal. Both had to organize armies out
@@ -70,7 +70,7 @@ LOUYS, PIERRE (1870-   ), French novelist and poet, was born in Paris
 on the 10th of December 1870. When he was nineteen he founded a review,
 _La Conque_, which brought him into contact with the leaders of the
 Parnassians, and counted Swinburne, Maeterlinck, Mallarmé and others
-among its contributors. He won notoriety by his novel _Aphrodite_
+among its contributors. He won notoriety by his novel _[[Aphrodite]]_
 (1896), which gave a vivid picture of Alexandrian morals at the
 beginning of the Christian era. His _Chansons de Bilitis, roman
 lyrique_ (1894), which purported to be a translation from the Greek, is

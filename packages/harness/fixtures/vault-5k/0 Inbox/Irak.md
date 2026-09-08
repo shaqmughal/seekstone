@@ -10,7 +10,7 @@ Sultanabad, the capital of the province, solely for this trade.
 Sultanabad is situated 77 m. S.W. of Kum in 34 deg. 6' N. and 49 deg.
 42' E. at an elevation of 5925 ft. It has a population of about 8000 and
 post and telegraph offices. It was founded in 1808 and made a recruiting
-centre for some battalions of infantry which were to form part of the
+centre for some [[Battalion|battalions]] of infantry which were to form part of the
 reorganized Persian army as recommended by the chief of the French
 mission, General Gardane. In consequence of its recent foundation it is
 still occasionally spoken of as Shahr-i-no, the "new city."

@@ -13,7 +13,7 @@ ELBURZ, or ALBURZ (from O. Pers. _Hara-bere-zaiti_, the "High
 Mountain"), a great chain of mountains in northern Persia, separating
 the Caspian depression from the Persian highlands, and extending without
 any break for 650 m. from the western shore of the Caspian Sea to
-north-eastern Khorasan. According to the direction, or strike, of its
+north-eastern [[Khorasan]]. According to the direction, or strike, of its
 principal ranges the Elburz may be divided into three sections: the
 first 120 m. in length with a direction nearly N. to S., the second 240
 m. in length with a direction N.W. to S.E., and the third 290 m. in
@@ -43,7 +43,7 @@ the N.E., are the ranges Azadbur, Kasil, Kachang, Kendevan, Shahzad,
 Varzeh, Derbend i Sar and others, with elevations of 12,000 to 13,500
 ft., while Demavend towers above them all with its altitude of 19,400
 ft. The eastern foot of Demavend is washed by the river Herhaz (called
-Lar river in its upper course), which there breaks through the Elburz in
+[[Lar]] river in its upper course), which there breaks through the Elburz in
 a S.-N. direction in its course to the Caspian, past the city of Amol.
 The third section of the Elburz, with its principal ranges striking S.W.
 to N.E., has a length of about 290 m., and ends some distance beyond
@@ -55,7 +55,7 @@ section consists of three principal ranges connected by lateral ranges
 and spurs. It also has many peaks over 10,000 ft. in height, and the
 Nizva mountain on the southern border of the unexplored district of
 Hazarjirib, north of Semnan, and the Shahkuh, between Shahrud and
-Astarabad, have an elevation exceeding 13,000 ft. Beyond Khush Yailak
+[[Astarabad]], have an elevation exceeding 13,000 ft. Beyond Khush Yailak
 (meaning "pleasant summer quarters"), with an elevation of 10,000 ft.,
 are the Kuh i Buhar (8000) and Kuh i Suluk (8000), which latter joins
 the Ala Dagh (11,000).
@@ -71,7 +71,7 @@ The inner slopes and ranges of the Elburz south of the principal
 watershed, generally the central one of the three principal ranges which
 are outside of the fertilizing influence of the moisture brought from
 the sea, have little or no natural vegetation, and those farthest south
-are, excepting a few stunted cypresses, completely arid and bare.
+are, excepting a few stunted [[Cypress|cypresses]], completely arid and bare.
 
 "North of the principal watershed forest trees and general verdure
 refresh the eye. Gurgling water, strips of sward and tall forest trees,
@@ -79,15 +79,15 @@ backed by green hills, make a scene completely unlike the usual monotony
 of Persian landscape. The forest scenery much resembles that of England,
 with fine oaks and greensward. South of the watershed the whole aspect
 of the landscape is as hideous and disappointing as scenery in
-Afghanistan. Ridge after ridge of bare hill and curtain behind curtain
+Afghanistan. Ridge after ridge of bare hill and [[Curtain|curtain]] behind curtain
 of serrated mountain, certainly sometimes of charming greys and blues,
-but still all bare and naked, rugged and arid" ("Beresford Lovett,
+but still all bare and naked, rugged and arid" ("[[Beresford]] Lovett,
 _Proc. R.G.S._, Feb. 1883).
 
 The higher ranges of the Elburz are snow-capped for the greater part of
 the year, and some, which are not exposed to the refracted heat from the
 arid districts of inner Persia, are rarely without snow. Water is
-plentiful in the Elburz, and situated in well-watered valleys and gorges
+plentiful in the Elburz, and situated in well-watered valleys and [[Gorges|gorges]]
 are innumerable flourishing villages, embosomed in gardens and orchards,
 with extensive cultivated fields and meadows, and at higher altitudes
 small plateaus, under snow until March or April, afford cool camping

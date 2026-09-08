@@ -18,12 +18,12 @@ he did not accept Lavoisier's view of oxygen as the only and universal
 acidifying principle, and he took part in the reform in chemical
 nomenclature carried out by Lavoisier and his associates in 1787. Among
 the substances of which he investigated the composition were ammonia,
-sulphuretted hydrogen and prussic acid, and his experiments on chlorine,
+sulphuretted hydrogen and prussic acid, and his experiments on [[Chlorine|chlorine]],
 which he regarded, not as an element, but as oxygenated muriatic
-(oxymuriatic) acid, led him to propose it as a bleaching agent in 1785.
+(oxymuriatic) acid, led him to propose it as a [[Bleaching|bleaching]] agent in 1785.
 He also prepared potassium chlorate and attempted to use it in the
 manufacture of gunpowder as a substitute for saltpetre. When, at the
-beginning of the French Revolution, the deficiency in the supply of
+beginning of the [[French Revolution]], the deficiency in the supply of
 saltpetre became a serious matter, he was placed at the head of the
 commission entrusted with the development of its production in French
 territory, and another commission on which he served had for its object
@@ -32,7 +32,7 @@ in 1794 of the committee on agriculture and the arts, and technical
 science was further indebted to him for a systematic exposition of the
 principles of dyeing--_Elemens de l'art de la teinture_, 1791, of which
 he published a second edition in 1809, in association with his son, A.B.
-Berthollet (1783-1811). After 1794 he was teacher of chemistry in the
+Berthollet (1783-1811). After 1794 he was teacher of [[Chemistry|chemistry]] in the
 polytechnic and normal schools of Paris, and in 1795 he took an active
 part in remodelling the Academy as the Institut National. In the
 following year he and Gaspard Monge were chosen chiefs of a commission
@@ -58,7 +58,7 @@ long dispute with L.J. Proust; but his speculations, in particular his
 insistence on the influence of the relative masses of the acting
 substances in chemical reactions, have exercised a dominating influence
 on the modern developments of the theory of chemical affinity, of which,
-far more than T.O. Bergman, whom he controverted, he must be regarded as
+far more than T.O. [[Bergman]], whom he controverted, he must be regarded as
 the founder.
 
 ## See also

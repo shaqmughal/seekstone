@@ -12,8 +12,8 @@ DUNES,[1] or DUNKIRK DUNES, BATTLE OF, was fought near Dunkirk on the
 under the command of Marshal Turenne and the Spanish army under Don Juan
 of Austria and the prince of Condé. The severest part of the fighting
 was borne by the English contingents on either side. Six thousand
-English infantry under General Lockhart were sent by Cromwell to join
-the army of Turenne, and several Royalist corps under the command of the
+English infantry under General Lockhart were sent by [[Cromwell]] to join
+the army of Turenne, and several Royalist [[Corps|corps]] under the command of the
 duke of York (afterwards James II.) served in the Spanish forces. The
 object of the Spaniards was to relieve Dunkirk, which Turenne was
 besieging, and the complete victory of the French and English caused the

@@ -19,7 +19,7 @@ seems to have been far less important. Aquae Sulis was occupied by the
 Romans almost as soon as they entered the island in A.D. 43, and
 flourished till the end of the Roman period. It was frequented by
 soldiers quartered in Britain, by the Britons, and by visitors from
-north Gaul, and its name was known in Italy, though patients probably
+north [[Gaul]], and its name was known in Italy, though patients probably
 seldom travelled so far. Like most mineral springs known to the
 ancients, it was under the protection of a local deity, the Celtic Sul,
 whom the Romans equated with their Minerva. Stately remains of its baths

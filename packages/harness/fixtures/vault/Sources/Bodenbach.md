@@ -9,13 +9,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bodenbach"
 
 BODENBACH (Czech _Podmokly_), a town of Bohemia, Austria, 83 m. N.N.E.
 of Prague by rail. Pop. (1900) 10,782, almost exclusively German. It is
-situated on the left bank of the Elbe opposite Tetschen, and is an
+situated on the left bank of the [[Elbe]] opposite Tetschen, and is an
 important railway junction, containing also an Austrian and a Saxon
-custom-house. Bodenbach, which in the middle of the 19th century had
+[[Custom-House|custom-house]]. Bodenbach, which in the middle of the 19th century had
 only a few hundred inhabitants, has become a very important industrial
 centre. Its principal manufactures include cotton and woollen goods,
 earthenware and crockery, chemicals, chicory, chocolate, sweetmeats and
-preserves, and beer. It has also a very active transit trade.
+preserves, and [[Beer|beer]]. It has also a very active transit trade.
 
 ## References
 

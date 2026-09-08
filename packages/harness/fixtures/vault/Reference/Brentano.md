@@ -8,19 +8,19 @@ topic: europe
 
 BRENTANO, KLEMENS (1778-1842), German poet and novelist, was born at
 Ehrenbreitstein on the 8th of September 1778. His sister was the
-well-known Bettina von Arnim (q.v.), Goethe's correspondent. He studied
-at Jena, and afterwards resided at Heidelberg, Vienna and Berlin. In
+well-known Bettina von [[Arnim]] (q.v.), Goethe's correspondent. He studied
+at [[Jena]], and afterwards resided at Heidelberg, Vienna and Berlin. In
 1818, weary of his somewhat restless and unsettled life, he joined the
 Roman Catholic Church and withdrew to the monastery of Dulmen where he
 lived for some years in strict seclusion. The latter part of his life he
-spent in Regensburg, Frankfort and Munich, actively engaged in Catholic
-propaganda. He died at Aschaffenburg on the 28th of July 1842. Brentano,
+spent in Regensburg, [[Frankfort]] and Munich, actively engaged in Catholic
+propaganda. He died at [[Aschaffenburg]] on the 28th of July 1842. Brentano,
 whose early writings were published under the pseudonym Maria, belonged
 to the Heidelberg group of German romantic writers, and his works are
 marked by excess of fantastic imagery and by abrupt, bizarre modes of
 expression. His first published writings were _Satiren und poetische
-Spiele_ (1800), and a romance _Godwi_ (1801-1802); of his dramas the
-best are _Ponce de Leon_ (1804), _Victoria_ (1817) and _Die Grundung
+Spiele_ (1800), and a romance _Godwi_ (1801-1802); of his [[Drama|dramas]] the
+best are _Ponce de [[Leon]]_ (1804), _Victoria_ (1817) and _Die Grundung
 Prags_ (1815). On the whole his finest work is the collection of
 _Romanzen vom Rosenkranz_ (published posthumously in 1852); his short
 stories, and more especially the charming _Geschichte vom braven Kasperl

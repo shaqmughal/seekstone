@@ -2,20 +2,20 @@
 
 DECIDUOUS (from Lat. _decidere_, to fall down), a botanical and
 zoological term for "falling in season," as of petals after flowering,
-leaves in autumn, the teeth or horns of animals, or the wings of
-insects.
+leaves in autumn, the teeth or [[Horn|horns]] of animals, or the wings of
+[[Insect|insects]].
 
 
 
 
-DECIMAL COINAGE.[1] Any currency in which the various denominations of
-coin are arranged in multiples or submultiples of ten (Lat. _decem_),
+DECIMAL COINAGE.[1] Any currency in which the various [[Denomination|denominations]] of
+[[Coin|coin]] are arranged in multiples or submultiples of ten (Lat. _decem_),
 with reference to a standard unit, is a decimal system. Thus if the
 standard unit be 1 the higher coins will be 10, 100, 1000, &c., the
 lower .1, .01, .001, &c. In a perfect system there would be no breaks or
-interpolations, but the actual currencies described as "decimal" do not
+[[Interpolation|interpolations]], but the actual currencies described as "decimal" do not
 show this rigid symmetry. In France the standard unit--the franc--has
-the 10 franc and the 100 franc pieces above it; the 10 centime below it;
+the 10 [[Franc|franc]] and the 100 franc pieces above it; the 10 centime below it;
 there are also, however, 50 franc, 20 franc, 5 franc, 2 franc pieces as
 well as 50 and 20 centime ones. Similar irregularities occur in the
 German and United States coinages, and indeed in all countries in which
@@ -29,17 +29,17 @@ dollar as the unit, and France soon followed (1799 and 1803), her system
 being extended to the countries of the Latin Union (1865). The German
 empire (1873), the Scandinavian States (1875), Austria-Hungary (1870,
 developed in 1892) and Russia (1839 and 1897) are further adherents to
-the decimal system. The Latin-American countries and Japan (1871) have
+the decimal system. The Latin-American countries and [[Japan]] (1871) have
 also adopted it.
 
 In England proposals for decimalizing the coinage have long been under
 discussion at intervals. Besides the inconvenience of altering the
 established currency, the difficulty of choosing between the different
 schemes propounded has been a considerable obstacle. One plan took the
-farthing as a base: then 10 farthings = 1 doit (2(1/2)d.), 10 doits = 1
-florin (2s. 1d.), 10 florins = 1 pound (20s. 10d.). The advantages
+[[Farthing|farthing]] as a base: then 10 farthings = 1 doit (2(1/2)d.), 10 doits = 1
+[[Florin|florin]] (2s. 1d.), 10 florins = 1 pound (20s. 10d.). The advantages
 claimed for this scheme were (1) the preservation of the smaller coins
-(the penny = 4 farthings); and (2) the avoidance of interference with
+(the penny = 4 farthings); and (2) the [[Avoidance|avoidance]] of interference with
 the smaller retail prices. Its great disadvantage was the destruction of
 the existing unit of value--the pound--and the consequent disturbance of
 all accounts. A second proposal would retain the pound as unit and the
@@ -63,7 +63,7 @@ of popular support.
 
 FOOTNOTE:
 
-  [1] For "decimal" in general see ARITHMETIC.
+  [1] For "decimal" in general see [[Arithmetic|ARITHMETIC]].
 
 ## See also
 

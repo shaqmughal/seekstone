@@ -18,7 +18,7 @@ hussars, probably charged to secure their papers. Bonnier and one of his
 colleagues, Claude Roberjot, were killed. The other, Jean Debry, was
 wounded.
 
-  See Huefer, _Der Rastadtergesandtenmord_ (Bonn, 1896).
+  See Huefer, _Der Rastadtergesandtenmord_ ([[Bonn]], 1896).
 
 ## References
 

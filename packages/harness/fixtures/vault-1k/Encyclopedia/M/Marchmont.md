@@ -2,7 +2,7 @@
 
 MARCHMONT, EARLS OF. The 1st earl of Marchmont was Sir Patrick Hume or
 Home (1641-1724), son of Sir Patrick Hume, bart. (d. 1648), of Polwarth,
-Berwickshire, and a descendant of another Sir Patrick Hume, a supporter
+[[Berwickshire]], and a descendant of another Sir Patrick Hume, a supporter
 of the Reformation in Scotland. A member of the same family was
 Alexander Hume (c. 1560-1609), the Scottish poet, whose _Hymns and
 Sacred Songs_ were published in 1599 (new ed. 1832). Polwarth, as

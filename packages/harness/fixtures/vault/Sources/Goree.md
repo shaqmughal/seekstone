@@ -19,7 +19,7 @@ inhabitants, mostly Jolofs, had dwindled in 1905 to about 1500. Its
 healthy climate, however, makes it useful as a sanatorium. The streets
 are narrow, and the houses, mainly built of dark-red stone, are
 flat-roofed. The castle of St Michael, the governor's residence, the
-hospital and barracks, testify to the former importance of the town.
+hospital and [[Barracks|barracks]], testify to the former importance of the town.
 Within the castle is an artesian well, the only water-supply, save that
 collected in rain tanks, on the island. Goree was first occupied by the
 Dutch, who took possession of it early in the 17th century and called it

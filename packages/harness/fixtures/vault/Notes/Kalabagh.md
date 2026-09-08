@@ -9,7 +9,7 @@ tier forming the street which passes in front of the row immediately
 above, and a cliff, also of pure rock-salt, towers above the town. The
 supply of salt, which is worked from open quarries, is practically
 inexhaustible. Alum also occurs in the neighbouring hills, and forms a
-considerable item of local trade. Iron implements are manufactured.
+considerable [[Item|item]] of local trade. Iron [[Implement|implements]] are manufactured.
 
 ## See also
 

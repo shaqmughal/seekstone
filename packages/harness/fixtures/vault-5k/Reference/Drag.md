@@ -10,11 +10,11 @@ used as equivalent to "break," a heavy carriage without a body used for
 training horses, and also a large kind of wagonette, but is more usually
 applied to a privately owned four-horse coach for four-in-hand driving.
 The word is also given to the "shoe" of wood or iron, placed under the
-wheel to act as a brake, and also to the "drift" or "sea-anchor,"
+wheel to act as a brake, and also to the "[[Drift|drift]]" or "sea-anchor,"
 usually made of spars and sails, employed for checking the lee-way of a
 ship when drifting. In fox-hunting, the "drag" is the line of scent left
 by the fox, but more particularly the term is given to a substitute for
-the hunting of a fox by hounds, an artificial line of scent being laid
+the [[Hunting|hunting]] of a fox by hounds, an artificial line of scent being laid
 by the dragging of a bag of aniseed or other strong smelling substance
 which a pack will follow.
 

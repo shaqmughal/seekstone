@@ -9,7 +9,7 @@ topic: astronomy
 CASLON, the name of a famous family of English typefounders. William
 Caslon (1692-1766), the first of the name, was born at Cradley,
 Worcestershire, and in 1716 started business in London as an engraver of
-gun locks and barrels, and as a bookbinder's tool-cutter. Being thus
+gun [[Lock|locks]] and [[Barrel|barrels]], and as a bookbinder's tool-cutter. Being thus
 brought into contact with printers, he was induced to fit up a type
 foundry, largely through the encouragement of William Bowyer. The
 distinction and legibility of his type secured him the patronage of the

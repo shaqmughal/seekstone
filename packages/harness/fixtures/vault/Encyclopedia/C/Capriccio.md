@@ -1,6 +1,6 @@
 # Capriccio
 
-CAPRICCIO, or CAPRICE (Ital. for a sudden motion or fancy), a musical
+CAPRICCIO, or CAPRICE (Ital. for a sudden motion or [[Fancy|fancy]]), a musical
 term for a lively composition of an original and fantastic nature, not
 following a set musical form, although the first known, written for the
 harpsichord, partook of the nature of a fugue. The word is also used for

@@ -12,7 +12,7 @@ LINE, a word of which the numerous meanings may be deduced from the
 primary ones of thread or cord, a succession of objects in a row, a mark
 or stroke, a course or route in any particular direction. The word is
 derived from the Lat. _linea_, where all these meanings may be found,
-but some applications are due more directly to the Fr. _ligne_. _Linea_,
+but some applications are due more directly to the Fr. _[[Ligne|ligne]]_. _Linea_,
 in Latin, meant originally "something made of hemp or flax," hence a
 cord or thread, from _linum_, flax. "Line" in English was formerly used
 in the sense of flax, but the use now only survives in the technical
@@ -21,8 +21,8 @@ LINEN). The ultimate origin is also seen in the verb "to line," to cover
 something on the inside, originally used of the "lining" of a garment
 with linen.
 
-In mathematics several definitions of the line may be framed according
-to the aspect from which it is viewed. The synthetical genesis of a line
+In mathematics several [[Definition|definitions]] of the line may be framed according
+to the aspect from which it is viewed. The synthetical [[Genesis|genesis]] of a line
 from the notion of a point is the basis of Euclid's definition, [Greek:
 grammê, de mêkos aplates] ("a line is widthless length"), and in a
 subsequent definition he affirms that the boundaries of a line are
@@ -51,7 +51,7 @@ Euclid defines it as the line which lies evenly with respect to the
 points on itself--[Greek: eutheia grammê estin hêtis ex isou tois eph
 heautês sêmeiois keitai]: Plato defined it as the line having its middle
 point hidden by the ends, a definition of no purpose since it only
-defines the line by the path of a ray of light. Archimedes defines a
+defines the line by the path of a ray of light. [[Archimedes]] defines a
 straight line as the shortest distance between two points.
 
 A better criterion of rectilinearity is that of Simplicius, an Arabian
@@ -69,9 +69,9 @@ postulate--[Greek: kai peperasmenên eutheian kata to suneches ep'
 eutheias ekbalein].
 
   For a detailed analysis of the geometrical notion of the line and
-  rectilinearity, see W. B. Frankland, _Euclid's Elements_ (1905). In
+  rectilinearity, see W. B. [[Frankland]], _Euclid's Elements_ (1905). In
   analytical geometry the right line is always representable by an
-  equation or equations of the first degree; thus in Cartesian
+  [[Equation|equation]] or equations of the first degree; thus in Cartesian
   coordinates of two dimensions the equation is of the form Ax + By + C
   = 0, in triangular coordinates Ax + By + Cz = 0. In three-dimensional
   coordinates, the line is represented by two linear equations. (See

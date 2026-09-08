@@ -43,7 +43,7 @@ _Encephaloid_ or soft cancer and _Epithelial cancer_.
 Scirrhus is remarkable for its hardness, which is due to the large
 amount of its fibrous, and relatively small proportion of its cell
 elements. It is of comparatively slow growth, but it tends to spread and
-to ulcerate. Its most common seat by far is the female breast, though it
+to ulcerate. Its most common seat by far is the female [[Breast|breast]], though it
 sometimes affects internal organs.
 
 Encephaloid is in structure the reverse of the last, its softness
@@ -51,13 +51,13 @@ depending on the preponderance of its cell over its fibrous elements.
 Its appearance and consistence resemble brain substance (hence its
 name), and it is of such rapid growth as to have given rise to its being
 occasionally termed _acute cancer_. Its most frequent seats are
-internal organs or the limbs. Ulceration and haemorrhage are common
+internal organs or the limbs. Ulceration and [[Haemorrhage|haemorrhage]] are common
 accompaniments of this form of cancer.
 
 Epithelial cancer is largely composed of cells resembling the natural
 epithelium of the body. It occurs most frequently in those parts
 provided with epithelium, such as the skin and mucous membranes, or
-where those adjoin, as in the lips. This form of cancer does not spread
+where those adjoin, as in the [[Lip|lips]]. This form of cancer does not spread
 so rapidly nor produce secondary growths in other organs to the same
 extent as the two other varieties, but it tends equally with them to
 involve the neighbouring lymphatic glands, and to recur after removal.
@@ -73,7 +73,7 @@ said, broadly, that the most frequent seats are the female sexual organs
 and after them the digestive tract in both sexes. In children, in whom
 cancer is rare, the most frequent seats appear to be--under five, the
 kidneys and supra-renal bodies; five to ten, the brain; ten to twenty,
-the arm and leg bones.
+the arm and leg [[Bone|bones]].
 
 Cancer tends to advance steadily to a fatal termination, but its
 duration varies in different cases according to the part affected and
@@ -98,7 +98,7 @@ in the 19th century. A great impetus to this line of investigation was
 given by the cellular theory of R. Virchow and the pathological
 researches of Sir J. Paget, and general attention was directed to the
 microscopic examination of the cells of which cancer is composed. This
-led to a classification, on which much reliance was once placed, of
+led to a [[Classification|classification]], on which much reliance was once placed, of
 different kinds of cancer, based on the character of the cells, and
 particularly to a distinction between _carcinoma_, in which the cells
 are of the epithelial type, and _sarcoma_, in which they are of the
@@ -122,10 +122,10 @@ are always premature and based on inadequate data.
 Organized cancer research stands on a different footing. It may be
 regarded as the revival at the end of the 19th century of what was
 unsuccessfully attempted at the beginning. As early as 1792, at the
-suggestion of Mr. John Howard, surgeon, a ward was opened at the
+suggestion of Mr. John [[Howard]], surgeon, a ward was opened at the
 Middlesex hospital in London for the special benefit of persons
 suffering from cancer. It was fitted up and endowed anonymously by Mr.
-Samuel Whitbread, M.P. for Bedford, and according to the terms of the
+Samuel Whitbread, M.P. for [[Bedford]], and according to the terms of the
 benefaction at least six patients were to be continually maintained in
 it until relieved by art or released by death. The purpose was both
 philanthropic and scientific, as Mr. Howard explained in bringing
@@ -151,7 +151,7 @@ special laboratories for the investigation of cancer, which were opened
 on the 1st of March 1900. In this establishment the fully equipped means
 of clinical and laboratory research were united under one roof and
 manned by a staff of investigators under the direction of Dr W.S.
-Lazarus Barlow. In the same year the _Deutsche Comite fur
+[[Lazarus]] Barlow. In the same year the _Deutsche Comite [[Fur|fur]]
 Krebsforschung_ was organized in Berlin, receiving an annual subsidy of
 5000 marks (L250) from the imperial exchequer. This body devoted its
 energies to making a census of cancer patients in Germany on a definite
@@ -161,7 +161,7 @@ annum, and a laboratory for cancer research was attached to the first
 medical clinique under Professor Ernst von Leyden at the same hospital.
 A third institution in Germany is a special cancer department at the
 Royal Prussian Institute for Experimental Therapeutics at
-Frankfort-on-Main, which has been supported, like the Imperial Cancer
+[[Frankfort-On-Main|Frankfort-on-Main]], which has been supported, like the Imperial Cancer
 Research Fund in England, by private contributions on a generous scale.
 The fund just mentioned was initiated in October 1901, and its
 operations took definite shape a year later, when Dr. E.F. Bashford was
@@ -177,7 +177,7 @@ laboratory, which had been established in Buffalo in 1899 under Dr
 Roswell Park, was formally placed under the control of New York state in
 June 1901, and is supported by an annual grant of $15,000 (L3000). There
 are other provisions in the United States connected with Harvard and
-Cornell universities. At the former the "Caroline Brewer Croft Fund for
+Cornell universities. At the former the "Caroline [[Brewer]] Croft Fund for
 Cancer Research" started special investigations in the surgical
 department of the Harvard Medical School in 1900 or the previous year,
 and in connexion with the Cornell University Medical School there is a
@@ -187,8 +187,8 @@ addition to innumerable investigators at universities and other ordinary
 seats of scientific research.
 
 Some attempt has been made to co-ordinate the work thus carried on in
-different countries. An international cancer congress was held at
-Heidelberg and Frankfort in 1906, and a proposal was put forward by
+different countries. An [[International|international]] cancer congress was held at
+Heidelberg and [[Frankfort]] in 1906, and a proposal was put forward by
 German representatives that a permanent international conference on
 cancer should be established, with headquarters in Berlin. The committee
 of the Imperial Cancer Research Fund did not fall in with the proposal,
@@ -205,7 +205,7 @@ in spite of the light thrown upon the problem from many sides by modern
 biological science, our knowledge of the origin of cancer is still in
 such a tentative state that a detailed account of the theories put
 forward is not called for; it will suffice to indicate their general
-drift. The actual pathological process of cancer is extremely simple.
+[[Drift|drift]]. The actual pathological process of cancer is extremely simple.
 Certain cells, which are apparently of a normal character and have
 previously performed normal functions, begin to grow and multiply in an
 abnormal way in some part of the body. They continue this process so
@@ -229,7 +229,7 @@ fragments of reproductive tissue (G.T. Beatson); (6) they are cells
 which have lost their differentiated character and assumed elementary
 properties (von Hausemann, O. Hertwig). The very number and variety of
 hypotheses show that none is established. Most of them attempt to
-explain the growth but not the origin of the disease. The hypothesis of
+explain the growth but not the origin of the disease. The [[Hypothesis|hypothesis]] of
 a parasitic origin, suggested by recent discoveries in relation to other
 diseases, has attracted much attention; but the observed phenomena of
 cancerous growths are not in keeping with those of all known parasitic
@@ -317,7 +317,7 @@ account is given above, go to confirm the old observation that cancer
 commonly begins at the seat of some local irritation. By far the most
 frequent seats of disease are the uterus and breast in women and the
 digestive tract in both sexes, and these are all particularly subject to
-such irritation. With regard to the influence of heredity the trend of
+such irritation. With regard to the influence of [[Heredity|heredity]] the trend of
 modern research is to minimize or deny its importance in cancer, as in
 phthisis, and to explain family histories by other considerations. At
 most heredity is only thought to confer a predisposition.
@@ -341,7 +341,7 @@ conjunction with operation and even without it. The experience of
 different observers with regard to results is contradictory; but
 clinical investigations conducted at Middlesex hospital in a number of
 cases of undoubted cancer in strict accordance with Dr Beard's
-directions, and summarized by Dr Walter Ball and Dr Fairfield Thomas in
+directions, and summarized by Dr Walter Ball and Dr [[Fairfield]] Thomas in
 the _Sixth Report from the Cancer Research Laboratories_ (_Archives of
 Middlesex Hospital_, vol. ix.) in May 1907, resulted in the conclusion
 "that the course of cancer, considered both as a disease and as a morbid

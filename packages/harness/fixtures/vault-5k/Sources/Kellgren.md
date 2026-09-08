@@ -4,7 +4,7 @@ KELLGREN, JOHAN HENRIK (1751-1795), Swedish poet and critic, was born at
 Floby in West Gothland, on the 1st of December 1751. He studied at the
 university of Abo, and had already some reputation as a poet when in
 1774 he there became a "docent" in aesthetics. Three years later he
-removed to Stockholm, where in conjunction with Assessor Carl Lenngren
+removed to Stockholm, where in conjunction with [[Assessor]] Carl Lenngren
 he began in 1778 the publication of the journal _Stockholmsposten_, of
 which he was sole editor from 1788 onwards. Kellgren was librarian to
 Gustavus III. from 1780, and from 1785 his private secretary. On the
@@ -13,7 +13,7 @@ first members. He died at Stockholm on the 20th of April 1795. His
 strong satiric tendency led him into numerous controversies, the chief
 that with the critic Thomas Thorild, against whom he directed his satire
 _Nyt forsok till orimmad vers_, where he sneers at the "raving of
-Shakespeare" and "the convulsions of Goethe." His lack of humour
+Shakespeare" and "the convulsions of Goethe." His lack of [[Humour|humour]]
 detracts from the interest of his polemical writings. His poetical works
 are partly lyrical, partly dramatic; of the plays the versification
 belongs to him, the plots being due to Gustavus III. The songs
@@ -24,7 +24,7 @@ year 1788 a higher and graver feeling pervades Kellgren's verses, partly
 owing to the influence of the works of Lessing and Goethe, but probably
 more directly due to his controversy with Thorild. Of his minor poems
 written before that date the most important are the charming spring-song
-_Vinterns valde lyktar_, and the satirical _Mina lojen_ and _Man eger ej
+_Vinterns valde lyktar_, and the satirical _Mina lojen_ and _Man [[Eger|eger]] ej
 snille for det man ar galen_. The best productions of what is called his
 later period are the satire _Ljusets fiender_, the comic poem _Dumboms
 lefverne_, the warmly patriotic _Kantat d._ 1. _jan._ 1789, the ode
@@ -34,7 +34,7 @@ Among his lyrics are the choicest fruits of the Gustavian age of Swedish
 letters. His earlier efforts, indeed, express the superficial doubt and
 pert frivolousness characteristic of his time; but in the works of his
 riper years he is no mere "poet of pleasure," as Thorild contemptuously
-styled him, but a worthy exponent of earnest moral feeling and wise
+styled him, but a worthy exponent of [[Earnest|earnest]] moral feeling and wise
 human sympathies in felicitous and melodius verse.
 
   His _Samlade skrifter_ (3 vols., 1796; a later edition, 1884-1885)

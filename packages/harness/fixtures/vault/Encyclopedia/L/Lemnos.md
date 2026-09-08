@@ -28,7 +28,7 @@ Greek, English and Dutch consuls or consular agents were formerly
 stationed there; but the whole trade is now in Greek hands. The
 archbishops of Lemnos and Ai Strati, a small neighbouring island with
 2000 inhabitants, resides in Kastro. In ancient times the island was
-sacred to Hephaestus, who as the legend tells fell on Lemnos when his
+sacred to [[Hephaestus]], who as the legend tells fell on Lemnos when his
 father Zeus hurled him headlong out of Olympus. This tale, as well as
 the name Aethaleia, sometimes applied to it, points to its volcanic
 character. It is said that fire occasionally blazed forth from
@@ -57,7 +57,7 @@ the sea. All volcanic action is now extinct.
   cure for old festering wounds, and for the bite of poisonous snakes.
 
 The name Lemnos is said by Hecataeus (ap. Steph. Byz.) to have been a
-title of Cybele among the Thracians, and the earliest inhabitants are
+title of [[Cybele]] among the Thracians, and the earliest inhabitants are
 said to have been a Thracian tribe, called by the Greeks Sinties, i.e.
 "the robbers." According to a famous legend the women were all deserted
 by their husbands, and in revenge murdered every man on the island. From
@@ -65,7 +65,7 @@ this barbarous act, the expression Lemnian deeds, [Greek: Lêmnia erga],
 became proverbial. The Argonauts landing soon after found only women in
 the island, ruled over by Hypsipyle, daughter of the old king Thoas.
 From the Argonauts and the Lemnian women were descended the race called
-Minyae, whose king Euneus, son of Jason and Hypsipyle, sent wine and
+Minyae, whose king Euneus, son of [[Jason]] and Hypsipyle, sent wine and
 provisions to the Greeks at Troy. The Minyae were expelled by a
 Pelasgian tribe who came from Attica. The historical element underlying
 these traditions is probably that the original Thracian people were
@@ -77,15 +77,15 @@ Asia Minor at a very early period, and it deserves notice that Hypsipyle
 and Myrina (the name of one of the chief towns) are Amazon names, which
 are always connected with Asiatic Cybele-worship. Coming down to a
 better authenticated period, we find that Lemnos was conquered by
-Otanes, one of the generals of Darius Hystaspis; but was soon
+Otanes, one of the generals of [[Darius]] Hystaspis; but was soon
 reconquered by Miltiades, the tyrant of the Thracian Chersonese.
 Miltiades afterwards returned to Athens, and Lemnos continued an
-Athenian possession till the Macedonian empire absorbed it. On the
+Athenian possession till the [[Macedonian Empire|Macedonian empire]] absorbed it. On the
 vicissitudes of its history in the 3rd century B.C. see Köhler in
 _Mittheil. Inst. Athen._ i. 261. The Romans declared it free in 197
 B.C., but gave it over in 166 to Athens, which retained nominal
 possession of it till the whole of Greece was made a Roman province. A
-colony of Attic cleruchs was established by Pericles, and many
+colony of [[Attic]] cleruchs was established by Pericles, and many
 inscriptions on the island relate to Athenians. After the division of
 the empire, Lemnos passed under the Byzantine emperors; it shared in the
 vicissitudes of the eastern provinces, being alternately in the power of
@@ -95,12 +95,12 @@ Kotschinos against a Turkish siege; but in 1657 Kastro was captured by
 the Turks from the Venetians after a siege of sixty-three days. Kastro
 was again besieged by the Russians in 1770.
 
-Homer speaks as if there were one town in the island called Lemnos, but
+[[Homer]] speaks as if there were one town in the island called Lemnos, but
 in historical times there was no such place. There were two towns,
 Myrina, now Kastro, and Hephaestia. The latter was the chief town; its
-coins are found in considerable number, the types being sometimes the
+[[Coin|coins]] are found in considerable number, the types being sometimes the
 Athenian goddess and her owl, sometimes native religious symbols, the
-caps of the Dioscuri, Apollo, &c. Few coins of Myrina are known. They
+caps of the Dioscuri, [[Apollo]], &c. Few coins of Myrina are known. They
 belong to the period of Attic occupation, and bear Athenian types. A few
 coins are also known which bear the name, not of either city, but of the
 whole island. Conze was the first to discover the site of Hephaestia, at
@@ -109,7 +109,7 @@ splendid harbour, which is now filled up. Its situation on the east
 explains why Miltiades attacked it first when he came from the
 Chersonese. It surrendered at once, whereas Myrina, with its very strong
 citadel built on a perpendicular rock, sustained a siege. It is said
-that the shadow of Mount Athos fell at sunset on a bronze cow in the
+that the shadow of Mount [[Athos]] fell at sunset on a bronze cow in the
 agora of Myrina. Pliny says that Athos was 87 m. to the north-west; but
 the real distance is about 40 English miles. One legend localized in
 Lemnos still requires notice. Philoctetes was left there by the Greeks
@@ -117,15 +117,15 @@ on their way to Troy; and there he suffered ten years' agony from his
 wounded foot, until Ulysses and Neoptolemus induced him to accompany
 them to Troy. He is said by Sophocles to have lived beside Mount
 Hermaeus, which Aeschylus (_Agam._ 262) makes one of the beacon points
-to flash the news of Troy's downfall home to Argos.
+to flash the news of Troy's downfall home to [[Argos]].
 
   See Rhode, _Res Lemnicae_; Conze, _Reise auf den Inseln des
   Thrakischen Meeres_ (from which the above-mentioned facts about the
-  present state of the island are taken); also Hunt in Walpole's
+  present state of the island are taken); also [[Hunt]] in Walpole's
   _Travels_; Belon du Mans, _Observations de plusieurs singularitez_,
-  &c.; Finlay, _Greece under the Romans_; von Hammer, _Gesch. des Osman.
+  &c.; [[Finlay]], _Greece under the Romans_; von Hammer, _Gesch. des Osman.
   Reiches; Gött. Gel. Anz._ (1837). The chief references in ancicnt
-  writers are _Iliad_ i. 593, v. 138, xiv. 229, &c.; Herod. iv. 145;
+  writers are _Iliad_ i. 593, v. 138, xiv. 229, &c.; [[Herod]]. iv. 145;
   Str. pp. 124, 330; Plin. iv. 23, xxxvi. 13.
 
 ## See also

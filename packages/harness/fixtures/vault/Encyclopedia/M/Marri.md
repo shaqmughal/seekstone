@@ -7,18 +7,18 @@ type: article
 
 # Marri
 
-MARRI, a Baluch tribe on the Dera Ghazi Khan border of Baluchistan. In
+MARRI, a Baluch tribe on the [[Dera Ghazi Khan]] border of [[Baluchistan]]. In
 the census of 1901 they numbered 19,161 and their fighting strength is
 about 3000. Their relations with the British commenced in 1840 with
 attacks made on the communications of Sir John Keane's army, after it
 had passed through the Bolan. An attempt was made to punish the tribe,
-which ended in disastrous failure. Major Clibborn was repulsed in an
+which ended in disastrous failure. [[Major]] Clibborn was repulsed in an
 attempt to storm the Naffusak Pass, losing 179 killed and 92 wounded out
 of 650. Many of his force died of heat and thirst. The fort of Kahan,
 which he was trying to relieve at the time, was forced to capitulate
 with the honours of war. The Marris, however, joined the British against
-the Bugtis in 1845. After the annexation of Sind in 1843 the Marris gave
-much trouble, but were pacified by the policy of General John Jacob and
+the [[Bugti|Bugtis]] in 1845. After the [[Annexation|annexation]] of Sind in 1843 the Marris gave
+much trouble, but were pacified by the policy of General John [[Jacob]] and
 Sir Robert Sandeman. In 1880 during the second Afghan War they made
 frequent raids on the British line of communications, ending with the
 plunder of a treasure convoy. A force of 3070 British troops under
@@ -37,7 +37,7 @@ and Bugtis.
 
 
 MARRIAGE. Marriage (Fr. _mariage_, from _marier_, to marry; Lat.
-_maritare_, from _mas_, _maris_, a male), or "matrimony" (Lat.
+_maritare_, from _mas_, _maris_, a male), or "[[Matrimony|matrimony]]" (Lat.
 _matrimonium_, from _mater_, a mother), may be defined either (a) as the
 act, ceremony, or process by which the legal relationship of husband and
 wife is constituted; or (b) as a physical, legal and moral union between
@@ -50,7 +50,7 @@ unregulated, and in many cases of brief duration. In the second or legal
 stage greater permanence was secured in marriage by assigning the
 husband a property right in his wife or wives. In the last stage the
 proprietary relation falls more and more into the background, and the
-relation of husband and wife approximates that of two individuals
+relation of [[Husband And Wife|husband and wife]] approximates that of two individuals
 entirely equal before the law. Although in the history of marriage these
 three stages have been roughly successive, the order of their entering
 the conscious experience of the individual is usually the reverse of
@@ -87,9 +87,9 @@ resulting right and duty is fixed by the law.
   whether with another slave or a free person. The union of male and
   female slaves (_contubernium_) was recognized for various purposes; a
   free woman entering into a union with a slave incurred under the S.C.
-  Claudianum the forfeiture of her own liberty; but the bondwoman might
+  Claudianum the [[Forfeiture|forfeiture]] of her own liberty; but the bondwoman might
   be the concubine of a freeman. In the United States, where slavery was
-  said to be regulated by the principle of the civil law, the marriage
+  said to be regulated by the principle of the [[Civil Law|civil law]], the marriage
   of slaves was so far recognized that on emancipation complete
   matrimony took effect and the children became legitimate without any
   new ceremony.
@@ -122,9 +122,9 @@ resulting right and duty is fixed by the law.
   of the husband. The marriage of persons of different religions
   frequently requires the intervention of the law as to the faith of the
   children, more particularly in Europe as between Roman Catholics and
-  Protestants. English law gives the father, except under special
+  Protestants. [[English Law|English law]] gives the father, except under special
   circumstances, the right to dictate the faith of his children (see
-  INFANT). The practice on this point varies in Europe--the question
+  [[Infant|INFANT]]). The practice on this point varies in Europe--the question
   being ignored in French law, Germany following in some parts the same
   rule as England, in others giving effect to ante-nuptial stipulations.
   In Ireland mixed marriages (i.e. between Roman Catholic and
@@ -139,7 +139,7 @@ _coemptio in manum_, and _usus_, all of which had the effect of placing
 the woman in the "power" (_manus_) of her husband, and on the same
 footing as the children. The first was a religious ceremony before ten
 witnesses, in which an ox was sacrificed and a wheaten cake broken and
-divided between the spouses by the priest. _Coemptio_ was a conveyance
+divided between the spouses by the priest. _Coemptio_ was a [[Conveyance|conveyance]]
 of the woman by _mancipatio_, and might be described as a fictitious
 sale _per aes et libram_, like that employed in emancipation and
 testamentary disposition and other processes. _Usus_ was the acquisition
@@ -160,7 +160,7 @@ of the children under his power was essential.
 _Canon law._--The canon law of marriage is based partly on the Roman
 law, the validity of which the Church from the first recognized, partly
 on the Jewish law as modified by the new principles introduced by Christ
-and his apostles, developed by the fathers of the Church and medieval
+and his [[Apostle|apostles]], developed by the fathers of the Church and medieval
 schoolmen, and regulated and defined by popes and councils. The most
 important of these principles was that of the indissolubility of
 marriage, proclaimed by Christ without qualification according to Mark
@@ -174,7 +174,7 @@ himself, indeed, did not teach this; but for St Paul marriage is clearly
 a concession to the weakness of the flesh (1 Cor. vii.). "The time is
 short," and in view of the imminent coming of the Lord the procreation
 of children a matter of no importance (v. 29), but "it is better to
-marry than to burn" (v. 9). He is, however, obviously not clear on the
+marry than to [[Burn|burn]]" (v. 9). He is, however, obviously not clear on the
 point, and at the end of his argument strikes a note of doubt (v. 40);
 elsewhere he defends marriage, against those who would have forbidden it
 altogether, as a gift of God (1 Tit. iv. 3-5) and even, in seeming
@@ -197,7 +197,7 @@ Church (Tertullian, _Ad uxorem_, lib. ii. cap. 9); and from Augustine's
 time onward it was reckoned as a sacrament. But at the same time there
 was a tendency to restrict its rights and its range. So far as marriage
 was a physical union, this had for its object solely the perpetuation of
-the race and the avoidance of fornication; the most that was conceded
+the race and the [[Avoidance|avoidance]] of fornication; the most that was conceded
 was that the intention of having offspring not only made the conjugal
 act blameless, but even gave to the desire that inspired it an element
 of good (Augustine, _de nupt. et conc._ 3). But the ideal married life
@@ -207,7 +207,7 @@ chastity (_op. cit._ 12), and held that the sooner this relation was
 established the better (_de bono conjug._ 22). Marriage being then an
 inferior state, to be discouraged rather than the reverse, the tendency
 was rapidly to narrow the field within which it might be contracted.
-Remarriage (bigamy) was only allowed after many struggles, and then only
+Remarriage ([[Bigamy|bigamy]]) was only allowed after many struggles, and then only
 to the laity; St Paul had laid down that a "bishop" must be "the husband
 of one wife," and to this day the priests of the Orthodox Eastern Church
 may not remarry. Clerical celibacy, at first a counsel of perfection,
@@ -231,8 +231,8 @@ The result of this system was hopeless confusion and uncertainty, and it
 was early found necessary to modify it. This was done by Pope Gregory
 I., who limited the impediment to the 7th degree of relationship
 inclusive (civil computation)[4] which was afterwards made the law of
-the empire by Charlemagne. Later still Innocent III. found it necessary
-again to issue a decree (4th Lateran Council) permitting marriages
+the empire by Charlemagne. Later still [[Innocent]] III. found it necessary
+again to issue a [[Decree|decree]] (4th Lateran Council) permitting marriages
 between a husband and the relations of his wife, and vice versa, beyond
 the 4th degree inclusive (canonical computation).[5] This remains the
 canonical rule of the Roman Catholic Church. As regards impediments due
@@ -247,13 +247,13 @@ In the fully developed canon law impediments to marriage are of two
 kinds, public and private (_impedimenta publica_ and _privata_), i.e.
 according as the objection arises out of the very nature of marriage
 itself or from consideration for the rights of particular persons; near
-relationship, for instance, is a public impediment, impotence
+relationship, for instance, is a public impediment, [[Impotence|impotence]]
 (_impotentia_) and force (_vis et metus_) are private impediments.
 Impediments are further divided into separating (_impedimenta
 dirimentia_) or merely suspensive (_impedimenta tantum impedientia_); to
 the first class belongs, e.g. a previous marriage not dissolved by
 death, which involves the nullification of the marriage even where
-through ignorance the crime of bigamy is not involved; to the second
+through [[Ignorance|ignorance]] the crime of bigamy is not involved; to the second
 belongs the case of one or both of the contracting parties being under
 the age of puberty.[6] Impediments, moreover, are absolute or relative,
 according as they are of universal application or only affect certain
@@ -271,7 +271,7 @@ marriage of father and daughter, brother and sister, or remarriage of
 husband or wife during the lifetime of the wife or husband of another
 marriage, which is held to be a violation of the very nature of marriage
 as an indissoluble union.[7] From impediments arising out of the law of
-the Church dispensations are granted, more or less readily, either by
+the Church [[Dispensation|dispensations]] are granted, more or less readily, either by
 the pope or by the bishop of the diocese in virtue of powers delegated
 by the pope (see DISPENSATION). Thus dispensations may be granted for
 marriage between persons related by consanguinity in any beyond the 2nd
@@ -280,7 +280,7 @@ uncle and niece (confined by the council of Trent to the case of royal
 marriages for reasons of state) and between cousins-german, or in the
 case of marriage with a heretic. In this latter case a dispensation is
 now (i.e. since the papal decrees _ne temere_ of the 2nd of August 1907,
-which came into force at Easter 1908) only granted on condition that the
+which came into force at [[Easter]] 1908) only granted on condition that the
 parties are married by a Catholic bishop, or a priest accredited by him,
 that no religious ceremony shall take place except in a Catholic church,
 and that all the children shall be brought up in the Roman Catholic
@@ -299,10 +299,10 @@ were reckoned among Christians as all but fornication, and he speaks of
 the custom of seeking permission to marry from the bishop, priests and
 deacons (_de monogamia_, cap. xi.). This latter precaution became
 increasingly necessary as impediments were multiplied, and Charlemagne,
-in a capitulary of 802, forbade the celebration of a marriage until "the
+in a [[Capitulary|capitulary]] of 802, forbade the celebration of a marriage until "the
 bishops, priests and elders of the people" had made diligent inquiry
 into the question of the consanguinity of the parties. This was the
-origin of the publication of banns which, long customary in France, was
+origin of the publication of [[Bann|banns]] which, long customary in France, was
 made obligatory on the whole Church by Pope Innocent III. In the Eastern
 Church the primitive practice survives in the ceremonial blessing by the
 priest of the betrothal, as distinguished from the marriage ceremony.
@@ -324,7 +324,7 @@ which makes the marriage _ipso facto_ void, is unknown to the Roman
 Catholic Church. Separation _a vinculo matrimonii_ is only possible
 under the canon law by a judicial decree of nullity (_annullatio
 matrimonii_), which implies, not the severing of the ties of a real
-marriage, but the solemn declaration that such marriage has never
+marriage, but the solemn [[Declaration|declaration]] that such marriage has never
 existed. There may, however, be a "separation from bed and board" (_a
 thoro et mensa_), even perpetual, which does not however give either
 party the right to remarry during the lifetime of the other. But,
@@ -336,14 +336,14 @@ the opinion held by Luther and other Reformers, that it was properly a
 subject for the civil courts (_si quis dixerit causas matrimoniales non
 spectare ad judices ecclesiasticos anathema sit_, Sess. xxiv. cap. 2).
 This attitude became of extreme political importance when even in
-Catholic countries the codes established civil marriage as the only
+Catholic countries the [[Code|codes]] established civil marriage as the only
 legally binding form.
 
 _England._--Marriage may be the subject of an ordinary contract on which
 an action may be brought by either party. It is not necessary that the
 promise should be in writing, or that any particular time should be
 named. Promises to marry are not within the meaning of "agreement made
-in consideration of marriage" in the statute of frauds, which requires
+in consideration of marriage" in the statute of [[Fraud|frauds]], which requires
 such agreements to be in writing. Contracts in restraint of marriage,
 i.e. whose object is to prevent a person from marrying anybody whatever,
 are void, as are also contracts undertaking for reward to procure a
@@ -353,7 +353,7 @@ contracts.
 Any man and woman are capable of marrying, subject to certain
 disabilities, some of which are said to be canonical as having been
 formerly under the cognisance of the ecclesiastical courts, others
-civil. The effect of a canonical disability as such was to make the
+civil. The effect of a canonical [[Disability|disability]] as such was to make the
 marriage not void but voidable. The marriage must be set aside by
 regular process, and sentence pronounced during the lifetime of the
 parties. Natural inability at the time of the marriage to procreate
@@ -374,13 +374,13 @@ God's law except, shall trouble or impeach any marriage without the
 Levitical degrees." The forbidden marriages, as more particularly
 specified in previous statutes, are those between persons in the
 ascending and descending line _in infinitum_, and those between
-collaterals to the third degree inclusive, according to the computation
+[[Collateral|collaterals]] to the third degree inclusive, according to the computation
 of the civil law. The prohibitions extend not only to _consanguinei_
 (related by blood) but to _affines_ (related by marriage), now altered
 so far as a deceased wife's sister is concerned (see below). The act of
 1835 enacted that "all marriages which shall hereafter be celebrated
 between persons within the prohibited degrees of consanguinity or
-affinity shall be absolutely null and void to all intents and purposes
+affinity shall be absolutely null and void to all [[Intent|intents]] and purposes
 whatsoever." They had previously been only voidable. The act at the same
 time legalized marriages within the prohibited degrees of affinity (but
 not consanguinity) actually celebrated before the 31st of August 1835.
@@ -393,11 +393,11 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   wife's sister. In all the self-governing colonies, with the exception
   of Newfoundland, the restriction had ceased to exist. The first act
   legalizing marriage with a deceased wife's sister was adopted by South
-  Australia. The royal assent, however, was not given till the
+  [[Australia]]. The royal assent, however, was not given till the
   parliament of that state had five times passed the bill. In quick
   succession similar statutes followed in Victoria, Tasmania, New South
   Wales, Queensland, New Zealand, West Australia, Barbados, Canada,
-  Mauritius, Natal and Cape Colony. As regards the Channel Islands,
+  [[Mauritius]], Natal and Cape Colony. As regards the Channel Islands,
   marriages of the kind in question were made legal in 1899, and in 1907
   in the Isle of Man.
 
@@ -460,7 +460,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   publication of banns in a public chapel. Seven days' notice must be
   given to the clergyman of the names of the parties, their place of
   abode, and the time during which they have lived there. If either
-  party is under age, the dissent of the parents or guardians expressed
+  party is under age, the dissent of the parents or [[Guardian|guardians]] expressed
   at the time of publication of banns renders such publication null and
   void. Licence in lieu of banns may only be granted by the archbishop,
   bishop or other authority, for the solemnization of a marriage within
@@ -479,7 +479,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   months after banns or licence, and between the hours of eight in the
   morning and three in the afternoon.
 
-  For the relief of the great body of Dissenters the act of 1836 was
+  For the relief of the great body of [[Dissenter|Dissenters]] the act of 1836 was
   passed. It permits marriage to be solemnized in two additional
   ways--viz. (1) by certificate of the superintendent registrar of a
   district without licence, and (2) by such certificate with licence. In
@@ -489,7 +489,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   public inspection at all reasonable times, and thereafter suspended
   for twenty-one days in some conspicuous place in the registrar's
   office. Any person whose consent is necessary to an ecclesiastical
-  licence may forbid the issue of a certificate, but in default of such
+  licence may forbid the issue of a certificate, but in [[Default|default]] of such
   prohibition the certificate will issue at the end of the twenty-one
   days. The marriage may then take place on any day within three months
   of the entry of notice, and in one of the following ways: (1) in a
@@ -530,7 +530,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   be had in any ecclesiastical court in order to compel a celebration
   _in facie ecclesiae_, by reason of any contract of matrimony
   whatsoever whether _per verba de presenti_ or _per verba de futuro_."
-  Blackstone observes that previous to this act "any contract made _per
+  [[Blackstone]] observes that previous to this act "any contract made _per
   verba de presenti_, or in words of the present tense, and in case of
   cohabitation _per verba de futuro_ also, was deemed valid marriage to
   many purposes; and the parties might be compelled in the spiritual
@@ -538,11 +538,11 @@ not consanguinity) actually celebrated before the 31st of August 1835.
 
   Royal marriages in England have been subject to special laws. The
   Royal Marriage Act of 1772 (12 Geo. III. c. 11), passed in consequence
-  of the marriages of the dukes of Cumberland and Gloucester, enacted
-  that "no descendant of his late majesty George II. (other than the
+  of the marriages of the [[Dukes|dukes]] of [[Cumberland]] and Gloucester, enacted
+  that "no descendant of his late [[Majesty|majesty]] George II. (other than the
   issue of princesses married or who may marry into foreign families)
   shall be capable of contracting matrimony without the previous consent
-  of his majesty, his heirs and successors, signified under the Great
+  of his majesty, his [[Heir|heirs]] and successors, signified under the Great
   Seal. But in case any descendant of George II., being above
   twenty-five years old, shall persist to contract a marriage
   disapproved of by his majesty, such descendant, after giving twelve
@@ -556,7 +556,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   solemnized in England when one of the parties was resident in
   Scotland. The Summary Jurisdiction (Married Women) Act of 1895 enabled
   a wife whose husband is convicted of an assault on her, or who has
-  been deserted by him, or been obliged owing to his cruelty to live
+  been deserted by him, or been obliged owing to his [[Cruelty|cruelty]] to live
   apart from him, to apply to the justices, who are empowered by the act
   to make an order for separation and for payment by the husband to his
   wife of such weekly sum, not exceeding two pounds, as they may
@@ -584,7 +584,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   duly solemnized in England (as heretofore), if celebrated in
   accordance with the local law or in the presence of diplomatic or
   consular agents who are appointed to act as "marriage officers." The
-  old fiction of assimilation of a British embassy to British soil can
+  old fiction of assimilation of a British [[Embassy|embassy]] to British soil can
   no longer be relied upon to uphold a marriage at a British embassy
   solemnized by an ordained clergyman. An order in council of the 28th
   of October 1892, moreover, provides that in the case of any marriage
@@ -599,12 +599,12 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   marriages on British public or private ships seem still valid at
   common law, if performed by an episcopally ordained minister. The
   Merchant Shipping Act 1894 (sect. 240) provides that the master of a
-  ship for which an official log is required shall enter in it every
+  ship for which an official [[Log|log]] is required shall enter in it every
   marriage taking place on board, with the names and ages of the
   parties.
 
   Again, under the Foreign Marriage Act all marriages solemnized within
-  the British lines by a chaplain or officer or other person officiating
+  the British lines by a [[Chaplain|chaplain]] or officer or other person officiating
   under the orders of the commanding officer of a British army serving
   abroad, are as valid in law as if they had been solemnized within the
   United Kingdom subject to due observance of all forms required by law.
@@ -618,7 +618,7 @@ not consanguinity) actually celebrated before the 31st of August 1835.
   The principle of the English law of marriage, that a marriage
   contracted abroad is valid if it has been solemnized according to the
   _lex loci_, may be now taken to apply just as much to a marriage in a
-  heathen as in a Christian country. Whether the marriage has or has not
+  [[Heathen|heathen]] as in a Christian country. Whether the marriage has or has not
   been celebrated according to Christian laws has no bearing upon the
   question, providing it is a monogamous marriage--a marriage which
   prevents the man who enters into it from marrying any other woman
@@ -626,12 +626,12 @@ not consanguinity) actually celebrated before the 31st of August 1835.
 
 _Scotland._--The chief point of distinction, as compared with English
 law, is the recognition of irregular marriages. (1) "A public or regular
-marriage," says Fraser, "is one celebrated, after due proclamation of
+marriage," says [[Fraser]], "is one celebrated, after due proclamation of
 banns, by a minister of religion; and it may be celebrated either in a
 church or in a private house, and on any day of the week at any hour of
 the day." The ministers of the National Church at first alone could
 perform the ceremony; but the privilege was extended to Episcopalians by
-10 Anne c. 7 (1711), and to other ministers by 4 and 5 Will. IV. c. 28
+10 [[Anne]] c. 7 (1711), and to other ministers by 4 and 5 Will. IV. c. 28
 (1834). (2) A marriage may also "be constituted by declarations made by
 the man and the woman that they _presently_ do take each other for
 husband and wife." These declarations "may be emitted on any day at any
@@ -643,7 +643,7 @@ parties to it would have all the rights in the property of each other,
 given by the law of Scotland to husband and wife. (3) A promise followed
 by _copula_ does not constitute marriage, unless followed either by
 solemnization _in facie ecclesiae_ or declarator. Lord Moncreiff's
-opinion in the case of _Brown_ v. _Burns_ is admitted to be good law,
+opinion in the case of _Brown_ v. _[[Burns]]_ is admitted to be good law,
 viz. that declarator is essential to the constitution of a marriage of
 this kind, so that, if no such declarator be brought in the lifetime of
 both parties, the marriage can never be established afterwards. The
@@ -674,7 +674,7 @@ subject continued to prevail after the revolution. Bishop holds it to be
 the universal fact running through all the cases that everywhere in the
 country the English decisions on marriage and divorce are referred to
 with the same apparent deference which is shown on other subjects to the
-decisions of the English common law and equity tribunals. The same
+decisions of the English common law and [[Equity|equity]] tribunals. The same
 author observes that "all our marriage and divorce laws, and of course
 all our statutes on the subject, in so far as they pertain to localities
 embraced within the limits of particular states, are state laws and
@@ -685,12 +685,12 @@ The common law of the states is assumed to be that "a contract _per
 verba de presenti, or per verba de futuro cum copula_, constitutes a
 complete marriage." Conditions, however, may be imposed by the various
 state legislatures, and as to these the rule has established itself in
-American jurisprudence that "a marriage good at common law is good
+American [[Jurisprudence|jurisprudence]] that "a marriage good at common law is good
 notwithstanding the existence of any statute on the subject, unless the
 statute contains express words of nullity." Thus in Pennsylvania, where
 a statute provided that all marriages "should be solemnized before
 twelve witnesses," marriages not so celebrated were nevertheless held to
-be good. In New Hampshire justices and ministers of the gospel are
+be good. In New [[Hampshire]] justices and ministers of the [[Gospel|gospel]] are
 authorized to solemnize marriage, and all other persons are forbidden to
 do so under penalties; yet a marriage by consent, as at common law,
 without justice or minister, has been held valid. On the other hand,
@@ -705,21 +705,21 @@ celebrating the marriage of minors without the consent of the parents or
 guardians. The original law as to prohibited degrees has been
 considerably modified in the states. The prohibition of marriage with a
 deceased wife's sister has been abolished in the United States. But New
-Hampshire, Ohio, Indiana, Kansas, Arkansas, Nevada, Washington, the
+Hampshire, Ohio, [[Indiana]], Kansas, Arkansas, Nevada, Washington, the
 Dakotas and Montana have for long forbidden marriages between first
-cousins by blood, and Louisiana, Oregon, Pennsylvania, Michigan,
+[[Cousin|cousins]] by blood, and [[Louisiana]], Oregon, Pennsylvania, Michigan,
 Nebraska, Utah and Wisconsin have since adopted the same principle.
 Virginia prohibits the marriage of a woman with the husband of her
 brother's or sister's daughter.
 
   Attention is also being paid to the question of marriage from a
-  physical point of view. New Jersey prohibits the marriage of any
-  person who has been confined in any public asylum as an epileptic,
+  physical point of view. New [[Jersey]] prohibits the marriage of any
+  person who has been confined in any public [[Asylum|asylum]] as an epileptic,
   insane or feeble-minded patient, without a medical certificate from
   two physicians of complete recovery, and that there is no probability
   of the transmission of such defects. This prohibits the granting of a
   marriage licence where either party is an habitual drunkard,
-  epileptic, imbecile or insane, or where the applicant at the time of
+  epileptic, [[Imbecile|imbecile]] or insane, or where the applicant at the time of
   making application is under the influence of any intoxicant or
   narcotic drug. In Michigan, Minnesota, Kansas and Oregon, marriage is
   prohibited to epileptics, &c., except when the woman is over
@@ -729,7 +729,7 @@ brother's or sister's daughter.
   America. Indeed, in many states the movement has gone so far as to
   give the wife in matters of property and in reference to divorce
   greater privileges than the husband. Thus a husband is often liable
-  for a wife's debts where a wife would not be, _mutatis mutandis_, for
+  for a wife's [[Debt|debts]] where a wife would not be, _mutatis mutandis_, for
   a husband's; and a wife may usually obtain a decree of divorce for any
   ground on which one may be awarded to the husband, and, in addition,
   for neglect to provide sustenance or support. Emphasis on the personal
@@ -803,15 +803,15 @@ marriages between Roman Catholics, or between Roman Catholics and those
 not professing that faith, to be celebrated before a bishop or priest
 duly authorized for the celebration thereof.
 
-  AUTHORITIES.--Eversley, _The Law of Domestic Relations_ (3rd ed.,
+  AUTHORITIES.--Eversley, _The Law of [[Domestic Relations]]_ (3rd ed.,
   London, 1906); Lush, _The Law of Husband and Wife_ (London, 1909);
   Crawley, The Law of Husband and Wife (London, 1892); Geary, _Marriage
   and Family Relations_ (London, 1892); Griffiths, _Married Women's
   Property Acts_ (London, 1891); Vaizley, _Law of Settlements of
   Property made on Marriage_ (London, 1887); Bishop, (America)
-  _Marriage, Divorce and Separation_ (Chicago, 1892); David Murray,
+  _Marriage, Divorce and Separation_ ([[Chicago]], 1892); David Murray,
   (Scotland) _The Law relating to the Property of Married Persons_
-  (Glasgow, 1892); E. A. Westermarck, _History of Human Marriage_ (3rd
+  ([[Glasgow]], 1892); E. A. Westermarck, _History of Human Marriage_ (3rd
   ed., 1901), with other works cited in the article FAMILY. M. Neustadt,
   _Kritische Studien zum Familienrecht des bürgerlichen Gesetzbuchs_
   (Berlin, 1907); O. D. Watkins, _Holy Matrimony_ (London, 1895), a
@@ -823,10 +823,10 @@ duly authorized for the celebration thereof.
   of Christian marriage rites, with numerous references; the articles
   "Ehe, Christliche," by Gottschick, and "Eherecht" (many references),
   by Sehling, in Herzog-Hauck, _Realencyklopädie_ (3rd ed., Leipzig,
-  1898, vol. v.); Abbé André, _Cours de droit canon_ (3rd ed., Wagner,
+  1898, vol. v.); Abbé André, _Cours de [[Droit|droit]] canon_ (3rd ed., Wagner,
   Paris, 1901), art. "Mariage," "Affinité," &c.
 
-  See also AGE; DIVORCE; FAMILY; HUSBAND AND WIFE; LEGITIMACY AND
+  See also AGE; DIVORCE; FAMILY; HUSBAND AND WIFE; [[Legitimacy|LEGITIMACY]] AND
   LEGITIMATION; MORGANATIC MARRIAGE.
 
 
@@ -836,13 +836,13 @@ FOOTNOTES:
     in the history of the race "marriage is rooted in the family rather
     than the family in marriage" (WESTERMARCK: _History of Human
     Marriage_, p. 22); but in that conscious experience of the individual
-    with which law and ethics are especially concerned, this relationship
+    with which law and [[Ethics|ethics]] are especially concerned, this relationship
     is reversed, and the family originates in marriage (see FAMILY, and
     allied headings).
 
   [2] The restrictions are enumerated in the following lines:--
 
-    Error, Conditio, Votum, Cognatio, Crimen,
+    [[Error]], Conditio, Votum, Cognatio, Crimen,
     Cultus, Disparitas, Vis, Ordo, Ligamen, Honestas,
     Aetas, Affinis, si Clandestinus et Impos,
     Raptave sit mulier nec parti reddita tutae.]
@@ -901,7 +901,7 @@ FOOTNOTES:
     secundum legem Dei, alteri nubere legitime valebat. Tandum, permissu
     Paschalis Papae (II.), cui res, a curiosis enucleata, patuit, post
     multos dies Nigellus de Albineo ipsam uxorem accepit." This may mean
-    no more, of course, than that the curiosi "untied the knot" by
+    no more, of course, than that the curiosi "untied the [[Knot|knot]]" by
     discovering an impediment--the usual expedient in such cases. In any
     case the fact that Nigel de Albini, in his turn, soon afterwards
     obtained a "divorce" from her on the ground that her first husband
@@ -923,11 +923,11 @@ FOOTNOTES:
     certain canonists (e.g. Melchior Cano) to distinguish between the
     _contractus naturalis_ and _sacramentalis_. This view, which was
     first advanced by the jurist and theologian Johann Gropper
-    (1502-1559) at the council of Cologne (1536), and gained support
+    (1502-1559) at the council of [[Cologne]] (1536), and gained support
     especially in France, makes the "matter" of the sacrament the consent
     of the parties, the "form" the prayers and benedictions, the
     "minister" the priests (see e.g. "Du sacrament de mariage" in vol. v.
-    of the _Dissertationes selectae_ of Petrus de Marca, d. 1662,
+    of the _Dissertationes selectae_ of Petrus de [[Marca]], d. 1662,
     archbishop of Paris, Bamberg, 1789, p. 148).
 
   [10] See the list of quotations from the early fathers given by
@@ -951,7 +951,7 @@ FOOTNOTES:
 
   [14] A complete list of the acts regulating the solemnization of
     marriage or confirming marriages, which through some defect might be
-    void, will be found in Phillimore's _Ecclesiastical Law_ (2nd ed.
+    void, will be found in Phillimore's _[[Ecclesiastical Law]]_ (2nd ed.
     1895).
 
 ## See also

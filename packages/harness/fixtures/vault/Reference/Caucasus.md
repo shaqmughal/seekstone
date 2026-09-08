@@ -8,8 +8,8 @@ type: article
 # Caucasus
 
 CAUCASUS, a mountain range of Asia, wholly within the Russian empire,
-stretching north-west to south-east from the Strait of Kerch (between
-the Black Sea and Sea of Azov) to the Caspian Sea, over a length of 900
+stretching north-west to south-east from the Strait of [[Kerch]] (between
+the [[Black Sea]] and Sea of [[Azov]]) to the [[Caspian Sea]], over a length of 900
 m., with a breadth varying from 30 to 140 m. In its general character
 and conformation the Caucasus presents a closer analogy with the
 Pyrenees than with the Alps. Its general uniformity of direction, its
@@ -21,7 +21,7 @@ deep trenches, forming natural passes across the range, such as are
 common in the Alps. In both ranges, too, some of the highest summits
 stand on spurs of the main range, not on the main range itself; as Mont
 Perdu and Maladetta lie south of the main backbone of the Pyrenees, so
-Mount Elbruz and Kasbek, Dykh-tau, Koshtan-tau, Janga-tau and
+Mount Elbruz and [[Kasbek]], Dykh-tau, Koshtan-tau, Janga-tau and
 Shkara--all amongst the loftiest peaks of the Caucasus--stand on a
 subsidiary range north of the principal range or on spurs connecting the
 two. On the other hand, it is interesting to compare the arrangement of
@@ -46,7 +46,7 @@ from it. Between the main range and the sea there intervene at least two
 parallel ranges separated by deep glens, and behind it a third
 subsidiary parallel range, likewise separated by a deep trough-like
 valley, and known as the Bokovoi Khrebet. All these ranges are shorn
-through transversely by numerous glens and gorges, and, the rainfall
+through transversely by numerous glens and [[Gorges|gorges]], and, the rainfall
 being heavy and the exposure favourable, they are densely clothed with
 vegetation. Many of the spurs or broken segments of ranges thus formed
 abut steeply upon the Black Sea, so that this littoral region is on the
@@ -61,7 +61,7 @@ crystalline rocks, the subsidiary chains are composed of softer
 (Cretaceous and Tertiary) laminated formations, which easily become
 disintegrated and dislocated. The snow-line runs here at about 9000 ft.
 on the loftiest summits, and east of Oshten the crest of the main range
-is capped with perpetual snow and carries many hanging glaciers, while
+is capped with perpetual snow and carries many [[Hanging|hanging]] glaciers, while
 larger glaciers creep down the principal valleys. The passes lie at
 relatively great altitudes and are few in number, so that although the
 northern versants of the various ranges all have a tolerably gentle
@@ -82,8 +82,8 @@ abundant vegetation. The most distinguishing feature of the flora of
 this region is the predominance of arborescent growths; forests cover in
 fact 56% of the area, and are not only dense but laced together with
 climbing and twining plants. The commonest species of trees are such as
-grow in central Europe, namely, ash, fir, pine, beech, acacia, maple,
-birch, box, chestnut, laurel, holm-oak, poplar, elm, lime, yew, elder,
+grow in central Europe, namely, ash, fir, pine, [[Beech|beech]], acacia, [[Maple|maple]],
+[[Birch|birch]], [[Box|box]], chestnut, laurel, holm-oak, poplar, [[Elm|elm]], lime, yew, elder,
 willow, oak. The common box is especially prevalent, but the
 preponderating species are _Coniferae_, including the Caucasian species
 _Pinus halepensis_ and _P. insignis_. The commonest firs are _Abies
@@ -97,15 +97,15 @@ anisatum, Ligustrum caucasicum, Punica granatum, Philadelphus
 coronarius, Pyrus salicifolia, Rhus cotinus_ and six species of
 _Viburnum_. Aquatic plants thrive excellently and occur in great
 variety. The following purely Caucasian species also grow on the
-coast--five species of spearwort, three of saxifrage, _Aster caucasica,
+coast--five species of spearwort, three of saxifrage, _[[Aster]] caucasica,
 Dioscorea caucasica, Echinops raddeanus, Hedera colchica, Helleborus
 caucasica_ and _Peucedanum caucasicum_. Here too are found many of the
 more beautiful open-air flowering plants of a shrubby character, e.g.
 magnolia, azalea, camellia, begonia and paulownia. Among the cultivated
 trees and shrubs the most valuable economically are the vine, peach,
 pomegranate, fig, olive (up to 1500 ft. above sea-level), chestnut,
-apricot, apple, pear, plum, cherry, melon, tea (on the coast between
-Sukhum-Kaleh and Batum), maize (yielding the staple food of the
+apricot, [[Apple|apple]], pear, plum, cherry, melon, tea (on the coast between
+Sukhum-Kaleh and [[Batum]]), maize (yielding the staple food of the
 inhabitants), wheat (up to 6000 ft.), potatoes, peas, currants, cotton,
 rice, colza and tobacco. Before the Russian conquest the native
 inhabitants of this region were Kabardians, Circassians (Adigheh) and
@@ -122,13 +122,13 @@ seaports. The best accommodation that these latter afford consists of
 more or less open roadsteads, e.g. Novo-rossiysk, Gelenjik, Anapa,
 Sukhum-Kaleh, Poti and Batum. Along the coast a string of summer bathing
 resorts is springing up similar to those that dot the south-east coast
-of the Crimea. The most promising of these little seaside places are
+of the [[Crimea]]. The most promising of these little seaside places are
 Anapa, Gelenjik and Gagry.
 
 2. MIDDLE CAUCASUS: (a) _Western Half._--This sub-section, with a length
-of 200 m., reaches from Mount Elbruz to Kasbek and the Pass of Darial.
+of 200 m., reaches from Mount Elbruz to Kasbek and the Pass of [[Darial]].
 It contains the loftiest summits of the entire range, fully a dozen
-exceeding Mont Blanc in altitude (see table below).
+exceeding Mont [[Blanc]] in altitude (see table below).
 
   _List of Peaks in the west central Caucasus, with their altitudes,
   names and dates of mountaineers who have climbed them._
@@ -141,7 +141,7 @@ exceeding Mont Blanc in altitude (see table below).
   |Elbruz, W. peak     | 18,465 |F.C. Grove, H. Walker and F. Gardiner     |1874|
   |  "       "         |   "    |H. Woolley                                |1889|
   |Donguz-orun         | 14,600 |G. Merzbacher and L. Purtscheller         |1890|
-  |    "               |   "    |Donkin and H. Fox                         |1888|
+  |    "               |   "    |Donkin and H. [[Fox]]                         |1888|
   |    "               |   "    |Helbling, Reichert and Weber              |1903|
   |Shtavler            | 13,105 |Ficker, W.R. Rickmers, Scheck and Wigner  |1903|
   |Ledosht-tau         | 12,580 |Schuster and Wigner                       |1903|
@@ -213,7 +213,7 @@ The crest of the main range runs continuously at an altitude exceeding
 10,000 ft., but even it is surpassed in elevation by the secondary range
 to the north, the Bokovoi Khrebet. These two ranges are connected by
 more than half a dozen short transverse spurs or necks, inclosing as
-many cirques or high cauldron glens. Besides the Bokovoi Khrebet several
+many [[Cirque|cirques]] or high cauldron glens. Besides the Bokovoi Khrebet several
 other short subsidiary ranges branch off from the main range at acute
 angles, lifting up high montane glens between them; for instance, the
 two ranges in Svanetia, which divide, the one the river (glen) Ingur
@@ -238,8 +238,8 @@ subsidiary ranges.
   by the _neves_ of great glaciers.... On either side of the main chain
   the same succession is repeated, with one important difference. On the
   north the schists come first, sometimes rising into peaks and ridges
-  in a state of ruin ... but more often worn to rolling downs; then the
-  limestone range--writing-desk mountains that turn their steep fronts
+  in a state of ruin ... but more often worn to rolling [[Downs|downs]]; then the
+  [[Limestone|limestone]] range--writing-desk mountains that turn their steep fronts
   to the central snows; lastly low Cretaceous foothills, that sink
   softly into the steppe. But on the south side the crystalline rocks
   are succeeded by a broad belt of slates, as to the age of which the
@@ -256,8 +256,8 @@ subsidiary ranges.
   are composed of friable crystalline schists.... Beyond these schists
   rises a broken wall of limestone, cleft to the base by gorges, through
   which flow the mountain torrents, and capped by pale precipitous
-  battlements, which face the central chain at a height of 11,000 to
-  12,000 ft. Beyond, again, lies a broad furrow, or 'longitudinal fold,'
+  [[Battlement|battlements]], which face the central chain at a height of 11,000 to
+  12,000 ft. Beyond, again, lies a broad furrow, or 'longitudinal [[Fold|fold]],'
   as geologists call it, parallel to the ridges, and then rises the last
   elevation, a belt of low calcareous hills, on which, here and there
   among the waves of beech forest, purple or blue with distance, a white
@@ -274,10 +274,10 @@ subsidiary ranges.
   of dark slates, which extends parallel to the crystalline [main] chain
   from the neighbourhood of Sukhum-Kale to the Krestovaya Gora [pass of
   Darial.] Behind this slate crest spreads a confused multitude of
-  hills, Jurassic and Cretaceous in their formation.... Their outer
+  hills, [[Jurassic]] and Cretaceous in their formation.... Their outer
   edge, distant some 30 to 40 m. from the snows, is marked by a
   limestone belt, lower and less continuous than that on the north,
-  which frames the gorges of the Rion, and rises in the Kuamli (6352
+  which [[Frame|frames]] the gorges of the Rion, and rises in the Kuamli (6352
   ft.) and Nakarala (4774 ft.) near Kutais, its best known
   elevations."[2] It may be added that, south of the central watershed,
   the strata, both Mesozoic and Palaeozoic, are compressed, crumpled,
@@ -310,16 +310,16 @@ M. Rossikov several of the largest glaciers are shrinking or
 retreating, the Tseya at the rate of something like 40-45 ft. per annum.
 
 _Passes._--It is in this section that the entire mountain system is
-narrowest, and here it is that (apart from the "gate" at Derbent close
+narrowest, and here it is that (apart from the "gate" at [[Derbent]] close
 beside the Caspian) the principal means of communication exist between
 north and south, between the steppes of southern Russia and the
-highlands of Armenia and Asia Minor. These means of communication are
+highlands of [[Armenia]] and Asia Minor. These means of communication are
 the passes of Darial and Mamison. Over the former, which lies
 immediately east of Kasbek, runs the Georgian military road (made
 1811-1864) from Vladikavkaz to Tiflis, cutting through the mountains by
 a gorge (8 m. long) of singular beauty, shut in by precipitous mountain
 walls nearly 6000 ft. high, and so narrow that there is only just room
-for the carriage-road and the brawling river Terek side by side. The
+for the carriage-road and the [[Brawling|brawling]] river Terek side by side. The
 pass by which this road crosses the main range, farther south, is known
 as the Krestovaya Gora (Mountain of the Cross) and lies 7805 ft. above
 sea-level. The Mamison Pass, over which runs the Ossetic military road
@@ -332,7 +332,7 @@ the best of them only during a few weeks in the height of summer. They
 mostly range at altitudes of 9000-12,500 ft., and between the pass of
 Nakhar in the west and that of Mamison in the east there is not a single
 pass below 10,000 ft. The best known in this section are the three
-Baksan passes of Chiper (10,800 and 10,720 ft.), Bassa (9950 ft.) and
+Baksan passes of Chiper (10,800 and 10,720 ft.), [[Bassa]] (9950 ft.) and
 Donguz-orun (10,490 ft.), south of Elbruz; those of Becho (11,070 ft.),
 Akh-su (12,465 ft.), Bak (10,220 ft.), Adyr-su (12,305 ft.) and Bezingi
 (10,090 ft.), between Elbruz and Dykh-tau; and those of Shari-vizk
@@ -354,12 +354,12 @@ abundant. Here again forests of _Coniferae_ predominate, especially on
 the northern and eastern slopes; and the other distinguishing features
 of the flora are gigantic male ferns (_Aspidium filix-mas_), _Paris
 incompleta_ (a member of the Trilliaceae), _Usnea_ or tree-moss, box,
-holly (_Ilex aquifolium_), _Lilium monadelphum_ and many of the familiar
-herbaceous plants which flower in English gardens, though here they grow
+[[Holly|holly]] (_Ilex aquifolium_), _Lilium monadelphum_ and many of the familiar
+herbaceous plants which [[Flower|flower]] in English gardens, though here they grow
 to an altogether extraordinary size--"monkshoods, _Cephalaria_,
 _Mulgedia_ and groundsels, among which men on horseback might play at
 hide and seek without stooping" (E. Levier). Other prominent species are
-_Campanula_, _Pyrethrum_, aconite, _Cephaelis_, speedwell, _Alchemilla
+_[[Campanula]]_, _Pyrethrum_, aconite, _Cephaelis_, speedwell, _Alchemilla
 sericea_, _Centaurea macrocephala_, _Primula grandis_ and a species of
 primrose. And the great height (13,000 ft.) at which the flowering
 plants blossom is not less remarkable than the great beauty and
@@ -372,7 +372,7 @@ schists are bare of tree vegetation. The upper limit of arborescent
 vegetation is considered to run at 7000-7500 ft., of shrubs such as
 rhododendrons at 8500 ft., and of pasture-lands up to 9000 ft. The
 principal cultivated varieties of plants in this section are wheat, rye,
-oats, barley, beans, millet and tobacco.
+oats, barley, [[Bean|beans]], millet and tobacco.
 
 3. MIDDLE CAUCASUS: (b) _Eastern Part._--In this sub-section, which
 stretches from Kasbek and the Darial gorge eastwards to the Baba-dagh
@@ -397,7 +397,7 @@ lie Shah-dagh (13,955 ft.), Shalbuz (13,675 ft.) and Malkamud (12,750
 ft.).
 
 But the most noteworthy feature of this section is the broad _highland
-region of Daghestan_, which flanks the main range on the north, and
+region of [[Daghestan]]_, which flanks the main range on the north, and
 sinks down both eastwards to the Black Sea and northwards to the valley
 of the Terek. On the north-west this rugged highland region is well
 defined by the distinctive transverse ridge of Andi, which to the east
@@ -414,7 +414,7 @@ it rise the conspicuous peaks of Tebulos-mta (14,775 ft.), Tugo-mta
 (13,795 ft.), Komito-tavi or Kachu (14,010 ft.), Donos-mta (13,560 ft.),
 Diklos-mta (13,740 ft.), Kvavlos-mta or Kolos-mta (13,080 ft.),
 Motshekh-tsferi (13,140 ft.) and Galavanas-tsferi (13,260 ft.). Farther
-east come the Bogos tableland, stretching from south-south-west to
+east come the [[Bogos]] tableland, stretching from south-south-west to
 east-north-east between the Andian Koisu and the Avarian Koisu and
 rising to over 13,400 ft. in several peaks, e.g. Antshovala (13,440
 ft.), Botshokh-meer (13,515 ft.), Kosara-ku (13,420 ft.) and
@@ -486,7 +486,7 @@ summits of the Alps in altitude; they also in many cases excel them in
 boldness and picturesqueness of outline, and equal the most difficult of
 them in steepness and relative inaccessibility.
 
-_Hydrography._--Nearly all the larger rivers of Caucasia have their
+_[[Hydrography]]._--Nearly all the larger rivers of [[Caucasia]] have their
 sources in the central parts of the Caucasus range. The short, steep,
 torrential streams of Mdzimta, Pzou, Bzyb and Kodor drain the country
 west of Elbruz. The Ingur, Tskhenis-Tskhali, Rion and its tributaries
@@ -499,7 +499,7 @@ south of Kasbek, and other tributaries, such as the Yora and the Alazan,
 collect the surplus drainage of the main Caucasus range farther east.
 The other large river of this region, the Aras, has its sources, not in
 the Caucasus range, but on the Armenian highlands a long way south-west
-of Ararat. The rivers which go down from the central Caucasus northwards
+of [[Ararat]]. The rivers which go down from the central Caucasus northwards
 have considerably longer courses than those on the south side of the
 range, partly as a consequence of the gentler versant and partly also
 because of the great distances to which the steppes extend across which
@@ -512,13 +512,13 @@ independent course through the steppes, farther north than the Terek,
 has its sources, not in the main ranges of the Caucasus, but in an
 outlying group of mountains near Pyatigorsk, the highest summit of
 which, Besh-tau, does not exceed 4600 ft. But its waters become absorbed
-in the sands of the desert steppes before they reach the Caspian. Of the
+in the sands of the [[Desert|desert]] steppes before they reach the Caspian. Of the
 streams that carve into chequers the elevated plateau or highland region
 of Daghestan four are known by the common name of the Koisu, being
 distinguished _inter se_ as the Andian Koisu, the Avarian Koisu, the
 Kara Koisu and the Kazikumukh Koisu, which all unite to form the Sulak.
 The only other stream deserving of mention in this province is the
-Samur. Both rivers discharge their waters into the Caspian; as also does
+Samur. Both rivers [[Discharge|discharge]] their waters into the Caspian; as also does
 the Zumgail, a small stream which drains the eastern extremity of the
 Caucasus range in the government of Baku.
 
@@ -529,7 +529,7 @@ Shemakha, near the eastern end of the system, was the scene of volcanic
 outbreaks as late as 1859, 1872 and 1902; while in the adjacent
 peninsula of Apsheron mud volcanoes exist in large numbers. All along
 the northern foot of the system hot mineral springs gush out at various
-places, such as Pyatigorsk, Zhelesnovodsk, Essentuki and Kislovodsk; and
+places, such as Pyatigorsk, Zhelesnovodsk, [[Essentuki]] and Kislovodsk; and
 the series is continued along the north-eastern foot of the highlands of
 Daghestan, e.g. Isti-su, Eskiendery, Akhta. In this connexion it may
 also be mentioned that similar evidences of volcanic activity
@@ -540,7 +540,7 @@ mineral springs of Borzhom, Abbas-tuman, Sleptzov, Mikhailovsk and
 Tiflis.     (J. T. Be.; P. A. K.)
 
   _Geology._--The general structure of the Caucasus is comparatively
-  simple. The strata are folded so as to form a fan. In the centre of
+  simple. The strata are folded so as to form a [[Fan|fan]]. In the centre of
   the fan lies a band of crystalline rocks which disappears towards the
   east. Beneath it, on both sides, plunge the strongly folded Palaeozoic
   and Jurassic schists. On the northern flank the folded beds are
@@ -550,7 +550,7 @@ Tiflis.     (J. T. Be.; P. A. K.)
   involve the Sarmatian or Upper Miocene deposits. In the eastern part
   of the chain the structure is somewhat modified. The crystalline band
   is lost. The northern Mesozoic zone is very much broader, and is
-  thrown into simple folds like those of the Jura. The southern Mesozoic
+  thrown into simple folds like those of the [[Jura]]. The southern Mesozoic
   zone is absent, and the Palaeozoic zone sinks abruptly in a series of
   faulted steps to the plain of the Kura, beneath which no doubt the
   continuation of the Mesozoic zone is concealed.
@@ -565,11 +565,11 @@ Tiflis.     (J. T. Be.; P. A. K.)
   _Calamites_ and ferns have been found, but it was not until 1897 that
   undoubted Palaeozoic fossils were obtained. They appear to indicate a
   Devonian age. Upon the Palaeozoic beds rest a series of Mesozoic
-  deposits, beginning with the Lias and ending with the Upper
+  deposits, beginning with the [[Lias]] and ending with the Upper
   Cretaceous. Whether the series is continuous or not is a matter of
   controversy. F. Loewinson-Lessing states that there is a more or less
   marked discordance between the Lias and the Upper Jurassic and between
-  the latter and the Cretaceous; E. Fournier asserts that there exists a
+  the latter and the Cretaceous; E. [[Fournier]] asserts that there exists a
   very strongly marked unconformity at the base of the Tithonian, and
   other writers have expressed other views. In general the Upper
   ajurassic beds are much more calcareous on the north flank of the
@@ -596,7 +596,7 @@ Tiflis.     (J. T. Be.; P. A. K.)
 
   Near the northern foot of the Caucasus, especially in the
   neighbourhood of the hot mineral springs of Pyatigorsk, a group of
-  hills of igneous rocks rises above the plain. They are laccolites of
+  hills of igneous rocks rises above the plain. They are [[Laccolite|laccolites]] of
   trachytic rock, and raised the Tertiary beds above them in the form of
   blisters. Subsequent denudation has removed the sedimentary covering
   and exposed the igneous core. (P. La.)
@@ -607,11 +607,11 @@ Tiflis.     (J. T. Be.; P. A. K.)
   Thielmann, _Travels in the Caucasus_ (Eng. trans., 2 vols., London,
   1875); F.C. Grove, _The Frosty Caucasus_ (London, 1875); G. Radde,
   _Reisen im mingrelischen Hochgebirge_ (Tiflis, 1866) and _Vier
-  Vortrage uber den Kaukasus_ (Gotha, 1874); E. Favre, _Recherches
-  geologiques dans la partie centrale de la chaine du Caucase_ (Geneva,
-  1875); Batsevich, Simonovich and others, _Mat. dlya geologiy Kavkaza_
+  Vortrage uber den Kaukasus_ ([[Gotha]], 1874); E. [[Favre]], _Recherches
+  geologiques dans la partie centrale de la chaine du Caucase_ ([[Geneva]],
+  1875); Batsevich, Simonovich and others, _[[Mat]]. dlya geologiy Kavkaza_
   (Tiflis, 1873 seq.); O. Schneider, _Naturwissenschaftliche Beitrage
-  zur Kenntnis der Kaukasuslander_ (Dresden, 1879), and J. Bryce,
+  zur Kenntnis der Kaukasuslander_ ([[Dresden]], 1879), and J. Bryce,
   _Transcaucasia_ (London, 1878). The more important amongst the more
   recent books are D.W. Freshfield, _Exploration of the Caucasus_ (2nd
   ed., 1902, 2 vols., London); A.F. Mummery, _My Climbs in the Alps and
@@ -621,8 +621,8 @@ Tiflis.     (J. T. Be.; P. A. K.)
   Kaukasus wie der armenischen und nordpersischen Gebirge," in _Mem.
   Acad. Sc. St-Petersb._ (ser. 6, _Math. et Phys._, vii. 359-534); R.
   von Erckert, _Der Kaukasus und seine Volker_ (Leipzig, 1887); E.
-  Chantre, _Recherches anthropologiques dans le Caucase_ (4 vols., Lyons
-  and Paris, 1885-1887); C. von Hahn, _Aus dem Kaukasus_ (Leipzig,
+  Chantre, _Recherches anthropologiques dans le Caucase_ (4 vols., [[Lyons]]
+  and Paris, 1885-1887); C. von [[Hahn]], _Aus dem Kaukasus_ (Leipzig,
   1892), _Kaukasische Reisen und Studien_ (Leipzig, 1896), and _Bilder
   aus dem Kaukasus_ (Leipzig 1900); V. Sella and D. Vallino, _Nel
   Caucaso Centrale_ (Turin, 1890); K. Koch, _Der Kaukasus_ (Berlin,
@@ -631,15 +631,15 @@ Tiflis.     (J. T. Be.; P. A. K.)
   valuable for botany; G. Merzbacher, _Aus den Hochregionen des
   Kaukasus_ (2 vols., Leipzig, 1901); A. Fischer, _Zwei Kaukasische
   Expeditionen_ (Berne, 1891); E. Fournier, _Description geologique du
-  Caucase central_ (Marseilles, 1896); G. Radde, _Reisen an der
+  Caucase central_ ([[Marseilles]], 1896); G. Radde, _Reisen an der
   persisch-russischen Grenze. Talysch und seine Bewohner_ (Leipzig,
   1886), _Die Fauna und Flora des sudwestlichen Kaspigebiets_ (Leipzig,
   1886), _Karabagh_ (Gotha, 1890), and _Aus den daghestanischen
   Hochalpen_ (Gotha, 1887); and Count J. Zichy, _Voyages au Caucase_ (2
-  vols., Budapest, 1897). F. Loewinson-Lessing has an account of the
+  vols., [[Budapest]], 1897). F. Loewinson-Lessing has an account of the
   geology of the district along the military road from Vladikavkaz to
   Tiflis in the _Guide des Excursions du VII^e Congres geol. internat_.
-  (St Petersburg, 1897). N.Y. Dinnik writes on the fauna in _Bull. Soc.
+  (St Petersburg, 1897). N.Y. Dinnik writes on the fauna in _[[Bull]]. Soc.
   Imperiale des Naturalistes de Moscou_ (1901); J. Mourier on the
   folk-tales in _Contes et legendes du Caucase_ (1888); and on modern
   history G. Baumgarten, _Sechzig Jahre des kaukasischen Krieges_
@@ -650,15 +650,15 @@ Tiflis.     (J. T. Be.; P. A. K.)
   _Geographical Dictionary_ (in Russian, 5 vols., St Petersburg,
   1863-1884), and in the _Russkiy encyklopedicheskiy slovar_ (1894), and
   in the _Kavkazskiy kalendar_ (annually at Tiflis). See also G. Radde
-  and E. Koenig, "Der Nordfuss des Daghestan und das vorlagernde
+  and E. [[Koenig]], "Der Nordfuss des Daghestan und das vorlagernde
   Tiefland bis zur Kuma" (Erganzungsheft No. 117 to _Petermanns
   Mitteilungen_), and "Das Ostufer des Pontus und seine kulturelle
   Entwickelung im Verlaufe der letzten 30 Jahre" (Erganzungsheft No. 112
-  of the same); by V. Dingelstedt in _Scot. Geog. Mag_.--"Geography of
+  of the same); by V. Dingelstedt in _Scot. Geog. Mag_.--"[[Geography]] of
   the Caucasus" (July 1889); "The Caucasian Highlands" (June 1895); "The
   Hydrography of the Caucasus" (June 1899); "The Riviera of Russia"
   (June 1904), "The Small Trades of the Caucasus" (March 1892); and
-  "Caucasian Idioms" (June 1888). The best map is that of the Russian
+  "Caucasian [[Idiom|Idioms]]" (June 1888). The best [[Map|map]] is that of the Russian
   General Staff on the scale of 1:210,000 (ed. 1895-1901).
        (J. T. Be.; P. A. K.)
 

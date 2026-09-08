@@ -4,10 +4,10 @@ CAPE VERDE ISLANDS (_Ilhas do Caba Verde_), an archipelago belonging to
 Portugal; off the West African coast, between 17 deg. 13' and 14 deg.
 47' N. and 22 deg. 40' and 25 deg. 22' W. Pop. (1905) about 138,620;
 area, 1475 sq. m. The archipelago consists of ten islands:--Santo Antao
-(commonly miswritten St Antonio), Sao Vicente, Santa Luzia, Sao Nicolao,
+(commonly miswritten St [[Antonio]]), Sao Vicente, Santa Luzia, Sao Nicolao,
 Sal, Boa Vista, Maio, Sao Thiago (the St Jago of the English), Fogo, and
 Brava, besides four uninhabited islets. It forms a sort of broken
-crescent, with the concavity towards the west. The last four islands
+[[Crescent|crescent]], with the concavity towards the west. The last four islands
 constitute the leeward (Sotavento) group and the other six the windward
 (Barlavento). The distance between the coast of Africa and the nearest
 island (Boa Vista) is about 300 m. The islands derive their name,
@@ -15,7 +15,7 @@ frequently but erroneously written "Cape Verd," or "Cape de Verd"
 Islands, from the African promontory off which they lie, known as Cape
 Verde, or the Green Cape. The entire archipelago is of volcanic origin,
 and on the island of Fogo there is an active volcano. No serious
-eruption has taken place since 1680, and the craters from which the
+eruption has taken place since 1680, and the [[Crater|craters]] from which the
 streams of basalt issued have lost their outline.
 
 [Illustration: CAPE VERDE Is. map.]
@@ -25,13 +25,13 @@ in the direction of Africa. With occasional exceptions during summer and
 autumn, the north-east trade is the prevailing wind, blowing most
 strongly from November to May. The rainy season is during August,
 September and October, when there is thunder and a light variable wind
-from south-east or south-west. The Harmattan, a very dry east wind from
+from south-east or south-west. The [[Harmattan]], a very dry east wind from
 the African continent, occasionally makes itself felt. The heat of
 summer is high, the thermometer ranging from 80 deg. to 90 deg. Fahr.
 near the sea. The unhealthy season is the period during and following
 the rains, when vegetation springs up with surprising rapidity, and
 there is much stagnant water, poisoning the air on the lower grounds.
-Remittent fevers are then common. The people of all the islands are also
+Remittent [[Fever|fevers]] are then common. The people of all the islands are also
 subject in May to an endemic of a bilious nature called locally
 _levadias_, but the cases rarely assume a dangerous form, and recovery
 is usually attained in three or four days without medical aid. On some
@@ -41,13 +41,13 @@ the death of great numbers from starvation, or the epidemics which
 usually break out afterwards.
 
 _Flora_.--Owing largely to the widespread destruction of timber for
-fuel, and to the frequency of drought, the flora of the islands is poor
-when compared with that of the Canaries, the Azores or Madeira. It is
+[[Fuel|fuel]], and to the frequency of drought, the flora of the islands is poor
+when compared with that of the Canaries, the [[Azores]] or Madeira. It is
 markedly tropical in character; and although some seventy wild-flowers,
-grasses, ferns, &c., are peculiar to the archipelago, the majority of
+[[Grasses|grasses]], ferns, &c., are peculiar to the archipelago, the majority of
 plants are those found on the neighbouring African littoral. Systematic
 afforestation has not been attempted, but the Portuguese have introduced
-a few trees, such as the baobab, eucalyptus and dragon-tree, besides
+a few trees, such as the [[Baobab|baobab]], eucalyptus and dragon-tree, besides
 many plants of economic value. Coffee-growing, an industry dating from
 1790, is the chief resource of the people of Santo Antao, Fogo and Sao
 Thiago; maize, millet, sugar-cane, manioc, excellent oranges, pumpkins,
@@ -60,18 +60,18 @@ is exported.
 _Fauna_.--Quails are found in all the islands; rabbits in Boa Vista, Sao
 Thiago and Fogo; wild boars in Sao Thiago. Both black and grey rats are
 common. Goats, horses and asses are reared, and goatskins are exported.
-The neighbouring sea abounds with fish, and coral fisheries are carried
+The neighbouring sea abounds with fish, and [[Coral|coral]] [[Fisheries|fisheries]] are carried
 on by a colony of Neapolitans in Sao Thiago. Turtles come from the
-African coast to lay their eggs on the sandy shores. The Ilheu Branco,
+African coast to lay their [[Egg|eggs]] on the sandy shores. The Ilheu [[Branco]],
 or White Islet, between Sao Nicolao and Santa Luzia, is remarkable as
 containing a variety of puffin unknown elsewhere, and a species of large
-lizard (_Macroscinctus coctei_) which feeds on plants.
+[[Lizard|lizard]] (_Macroscinctus coctei_) which feeds on plants.
 
 _Inhabitants_.--The first settlers on the islands imported negro slaves
 from the African coast. Slavery continued in full force until 1854, when
 the Portuguese government freed the public slaves, and ameliorated the
 conditions of private ownership. In 1857 arrangements were made for the
-gradual abolition of slavery, and by 1876 the last slave had been
+[[Gradual|gradual]] abolition of slavery, and by 1876 the last slave had been
 liberated. The transportation of convicts from Portugal, a much-dreaded
 punishment, was continued until the closing years of the 19th century.
 It was the coexistence of these two forms of servitude, even more than
@@ -80,16 +80,16 @@ Hence the blacks and mulattoes far outnumber the white inhabitants. They
 are, as a rule, taller than the Portuguese, and are of fine physique,
 with regular features but woolly hair. Slavery and the enervating
 climate have left their mark on the habits of the people, whose
-indolence and fatalism are perhaps their most obvious qualities. Their
-language is a bastard Portuguese, known as the _lingua creoula_. Their
+indolence and [[Fatalism|fatalism]] are perhaps their most obvious qualities. Their
+language is a [[Bastard|bastard]] Portuguese, known as the _lingua creoula_. Their
 religion is Roman Catholicism, combined with a number of pagan beliefs
 and rites, which are fostered by the _curandeiros_ or medicine men.
 These superstitions tend to disappear gradually before the advance of
 education, which has progressed considerably since 1867, when the first
-school, a lyceum, was opened in Ribeira Brava, the capital of Sao
+school, a [[Lyceum|lyceum]], was opened in Ribeira Brava, the capital of Sao
 Nicolao. On all the inhabited islands, except Santa Luzia, there are
 churches and primary schools, conducted by the government or the
-priests. The children of the wealthier classes are sent to Lisbon for
+priests. The children of the wealthier classes are sent to [[Lisbon]] for
 their education.
 
 _Government_.--The archipelago forms one of the foreign provinces of
@@ -98,7 +98,7 @@ the crown. There are two principal judges, one for the windward and
 another for the leeward group, the former with his residence at Sao
 Nicolao, and the latter at Praia; and each island has a military
 commandant, a few soldiers, and a number of salaried officials, such as
-police, magistrates and custom-house directors. There is also an
+police, [[Magistrate|magistrates]] and [[Custom-House|custom-house]] directors. There is also an
 ecclesiastical establishment, with a bishop, dean and canons.
 
 _Industries_.--The principal industries, apart from agriculture, are the
@@ -113,7 +113,7 @@ coal, textiles, food-stuffs, wine, metals, tobacco, machinery, pottery
 and vegetables. Over 3000 vessels, with a total tonnage exceeding
 3,500,000, annually enter the ports of the archipelago; the majority
 call at Mindello, on Sao Vicente, for coal, and do not receive or
-discharge any large quantities of cargo.
+[[Discharge|discharge]] any large quantities of [[Cargo|cargo]].
 
   _Santo Antao_ (pop. 25,000), at the extreme north-west of the
   archipelago, has an area of 265 sq. m. Its surface is very rugged and
@@ -129,8 +129,8 @@ discharge any large quantities of cargo.
   several small ports, of which the chief are the sheltered and spacious
   Tarrafal Bay, on the south-west coast, and the more frequented Ponta
   do Sol, on the north-east, 8 m. from the capital, Ribeira Grande, a
-  town of 4500 inhabitants. Cinchona is cultivated in the neighbourhood.
-  In 1780 the slaves on Santo Antao were declared free, but this decree
+  town of 4500 inhabitants. [[Cinchona]] is cultivated in the neighbourhood.
+  In 1780 the slaves on Santo Antao were declared free, but this [[Decree|decree]]
   was not carried out. About the same time many white settlers, chiefly
   from the Canaries, entered the island, and introduced the cultivation
   of wheat.
@@ -148,7 +148,7 @@ discharge any large quantities of cargo.
   the business is in English hands, and nine-tenths of the inhabitants
   understand English. Foodstuffs, wood and water are imported from Santo
   Antao, and the water is stored in a large reservoir at Mindello. Sao
-  Vicente has a station for the submarine cable from Lisbon to
+  Vicente has a station for the submarine [[Cable|cable]] from Lisbon to
   Pernambuco in Brazil.
 
   _Santa Luzia_, about 5 m. south-east, has an area of 18 sq. m., and
@@ -199,7 +199,7 @@ discharge any large quantities of cargo.
   singularly inappropriate, for with the exception of a few coco-nut
   trees there is no wood, and in the dry season the island seems nothing
   but an arid waste. The little vegetation that then exists is in the
-  bottom of ravines, where corn, beans and cotton are cultivated. The
+  bottom of ravines, where [[Corn|corn]], [[Bean|beans]] and cotton are cultivated. The
   springs of good water are few. The coast is indented by numerous
   shallow bays, the largest of which is the harbour of the capital,
   Porto Sal-Rei, on the western side (pop. about 1000). A chain of
@@ -218,7 +218,7 @@ discharge any large quantities of cargo.
   the south-west coast, and is commonly known as Porto Inglez or English
   Road, from the fact that it was occupied until the end of the 18th
   century by the British, who based their claim on the marriage-treaty
-  between Charles II. and Catherine of Braganza (1662). The island is a
+  between Charles II. and [[Catherine Of Braganza|Catherine of Braganza]] (1662). The island is a
   barren, treeless waste, surrounded by rocks. Its inhabitants, who live
   chiefly by the manufacture of salt, by cattle-farming and by fishing,
   are compelled to import most of their provisions from Sao Thiago, with
@@ -263,10 +263,10 @@ discharge any large quantities of cargo.
   by two British naval officers, named Vidal and Mudge. The island is
   divided, like Santo Antao, into a fertile and a sterile zone. Its
   northern half produces fine coffee, beans, maize and sugar-cane; the
-  southern half is little better than a desert, with oases of cultivated
+  southern half is little better than a [[Desert|desert]], with oases of cultivated
   land near its few springs. Sao Felippe or Nossa Senhora da Luz (3000),
   on the west coast, is the capital. The islanders claim to be the
-  aristocracy of the archipelago, and trace their descent from the
+  [[Aristocracy|aristocracy]] of the archipelago, and trace their descent from the
   original Portuguese settlers. The majority, however, are negroes or
   mulattoes. Drought and famine, followed by severe epidemics, have
   been especially frequent here, notably in the years 1887-1889.
@@ -291,7 +291,7 @@ discharge any large quantities of cargo.
 _History_.--The earliest known discovery of the islands was made in 1456
 by the Venetian captain Alvise Cadamosto (q.v.), who had entered the
 service of Prince Henry the Navigator. The archipelago was granted by
-King Alphonso V. of Portugal to his brother, Prince Ferdinand, whose
+King Alphonso V. of Portugal to his brother, Prince [[Ferdinand]], whose
 agents completed the work of discovery. Ferdinand was an absolute
 monarch, exercising a commercial monopoly. In 1461 he sent an expedition
 to recruit slaves on the coast of Guinea and thus to people the islands,
@@ -304,18 +304,18 @@ and importance rapidly increased; its first bishop was consecrated in
 It was enriched by the frequent visits of Portuguese fleets, on their
 return to Europe laden with treasure from the East, and by the presence
 of immigrants from Madeira, who introduced better agricultural methods
-and several new industries, such as dyeing and distillation of spirits.
+and several new industries, such as dyeing and [[Distillation|distillation]] of spirits.
 The failure to maintain an equal rate of progress in the 18th and 19th
 centuries was due partly to drought, famine and disease--in particular,
-to the famines of 1730-1733 and 1831-1833--and partly to gross
+to the famines of 1730-1733 and 1831-1833--and partly to [[Gross|gross]]
 misgovernment by the Portuguese officials.
 
   The best general account of the islands is given in vols. xxiii. and
   xxvii. of the _Boletim_ of the Lisbon Geographical Society (1905 and
-  1908), and in _Madeira, Cabo Verde, e Guine_, by J.A. Martins (Lisbon,
+  1908), and in _Madeira, Cabo Verde, e Guine_, by J.A. [[Martin|Martins]] (Lisbon,
   1891). Official statistics are published in Lisbon at irregular
   intervals. See also _Uber die Capverden_ (Leipzig, 1884) and _Die
-  Vulcane der Capverden_ (Graz, 1882), both by C. Dolter. A useful map,
+  Vulcane der Capverden_ (Graz, 1882), both by C. Dolter. A useful [[Map|map]],
   entitled _Ocean Atlantico Norte, Archipelago do Cabo Verde_, was
   issued in 1900 by the _Commissao de Cartographia_, Lisbon.
 

@@ -17,7 +17,7 @@ From the meaning of something inserted or placed between, intercalary is
 used for something which interrupts a series, or comes between two
 types. In botany, the term is used of growth which is not apical but
 somewhere between the apex and base of an organ, such as the growth in
-length of an Iris leaf, or of the internode of a grass-haulm.
+length of an Iris [[Leaf|leaf]], or of the internode of a grass-haulm.
 
 ## See also
 

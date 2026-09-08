@@ -3,11 +3,11 @@
 JUNG-BUNZLAU (Czech, _Mladá Boleslav_), a town of Bohemia, 44 m. N.N.E.
 of Prague by rail. Pop. (1900), 13,479, mostly Czech. The town contains
 several old buildings of historical interest, notably the castle, built
-towards the end of the 10th century, and now used as barracks. There are
+towards the end of the 10th century, and now used as [[Barracks|barracks]]. There are
 several old churches. In that of St Maria the celebrated bishop of the
 Bohemian brethren, Johann August, was buried in 1595; but his tomb was
-destroyed in 1621. The church of St Bonaventura with the convent,
-originally belonging to the friars minor and later to the Bohemian
+destroyed in 1621. The church of St [[Bonaventura]] with the convent,
+originally belonging to the [[Friar|friars]] minor and later to the Bohemian
 brethren, is now a Piaristic college. The church of St Wenceslaus, once
 a convent of the brotherhood, is now used for military stores.
 Jung-Bunzlau was built in 995, under Boleslaus II., as the seat of a

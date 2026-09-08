@@ -1,13 +1,13 @@
 # Ichneumon-Fly
 
-ICHNEUMON-FLY, a general name applied to parasitic insects of the
+ICHNEUMON-FLY, a general name applied to parasitic [[Insect|insects]] of the
 section _Ichneumonoidea_ (or _Entomophaga_), order _Hymenoptera_, from
 the typical genus _Ichneumon_, belonging to the chief family of that
 section--itself fancifully so called after the Egyptian mammal
 (_Herpestes_). The species of the families (_Ichneumonidae_,
 _Braconidae_, _Evaniidae_, _Proctotrypidae_, and _Chalcididae_) are
 often indiscriminately called "Ichneumons," but the "super-family" of
-the Ichneumonoidea in the classification of W. H. Ashmead contains only
+the Ichneumonoidea in the [[Classification|classification]] of W. H. Ashmead contains only
 the _Evaniidae_, the _Stephanidae_, and the large assemblage of insects
 usually included in the two families of the _Ichneumonidae_ and the
 _Braconidae_, which are respectively equivalent to the _Ichneumones
@@ -22,7 +22,7 @@ _Tryphoninae_ and _Pimplinae_, differing considerably in size and
 facies, but united in the common attribute of being, in their earlier
 stages, parasitic upon other insects. They have all long narrow bodies;
 a small free head with long filiform or setaceous antennae, which are
-never elbowed, and have always more than sixteen joints; the abdomen
+never elbowed, and have always more than sixteen [[Joints|joints]]; the abdomen
 attached to the thorax at its hinder extremity between the base of the
 posterior coxae, and provided in the female with a straight ovipositor
 often exserted and very long; and the wings veined, with perfect cells
@@ -40,9 +40,9 @@ be impossible for the agriculturist to hold his own against the ravages
 of his minute insect foes, whose habits are not sufficiently known to
 render artificial checks or destroying agents available. The females of
 all the species are constantly on the alert to discover the proper
-living food for their own larvae, which are hatched from the eggs they
+living food for their own larvae, which are hatched from the [[Egg|eggs]] they
 deposit in or on the eggs, larvae or pupae of other insects of all
-orders, chiefly _Lepidoptera_, the caterpillars of butterflies and moths
+orders, chiefly _Lepidoptera_, the [[Caterpillar|caterpillars]] of butterflies and moths
 being specially attacked (as also are spiders). Any one who has watched
 insect life during the summer can hardly have failed to notice the busy
 way in which the parent ichneumon, a small four-winged fly, with
@@ -70,7 +70,7 @@ cut off the eggs of the parasite with scissors.
 The larvae of the ichneumon-flies are white, fleshy, cylindrical,
 footless grubs; the majority of them spin silk cocoons before pupating,
 often in a mass (sometimes almost geometrically), and sometimes in
-layers of different colours and texture.
+layers of different [[Colours|colours]] and texture.
 
   AUTHORITIES.--Among the older works on Ichneumonoidea may be specially
   mentioned J. L. K. Gravenhorst, _Ichneumonologia Europaea_ (Breslau,
@@ -81,7 +81,7 @@ layers of different colours and texture.
   iii., iv. (Leipzig, 1898-1902), and a comprehensive summary in W. H.
   Ashmead's recent memoir (_Proc. U.S. Nat. Mus._ xxiii., 1901). For the
   British species consult C. Morley, _Ichneumons of Great Britain_
-  (Plymouth, 1903), and T. A. Marshall (_Trans. Entom. Soc._,
+  (Plymouth, 1903), and T. A. [[Marshall]] (_Trans. Entom. Soc._,
   1885-1899).     (G. H. C.)
 
 ## See also

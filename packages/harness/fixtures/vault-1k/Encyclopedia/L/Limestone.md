@@ -26,9 +26,9 @@ are yellowish or creamy, especially those which contain a little iron
 oxide, iron carbonate or clay. Others are bluish from the presence of
 iron sulphide, or pyrites or marcasite; or grey and black from admixture
 with carbonaceous or bituminous substances. Red limestones usually
-contain haematite; in green limestones there may be glauconite or
+contain haematite; in green limestones there may be [[Glauconite|glauconite]] or
 chlorite. In crystalline limestones or marbles many silicates may occur
-producing varied colours, e.g. epidote, chlorite, augite (green);
+producing varied [[Colours|colours]], e.g. epidote, chlorite, augite (green);
 vesuvianite and garnet (brown and red); graphite, spinels (black and
 grey); epidote, chondrodite (yellow). The specific gravity of limestones
 ranges from 2.6 to 2.8 in typical examples.
@@ -58,7 +58,7 @@ produce bare rocky ground, especially at high elevations, or yield only
 a thin scanty soil covered with short grass. In mountainous districts
 limestones are often recognizable by these peculiarities. The chalk
 downs are celebrated for the close green sward which they furnish. More
-impure limestones, like those of the Lias and Oolites, contain enough
+impure limestones, like those of the [[Lias]] and Oolites, contain enough
 insoluble mineral matter to yield soils of great thickness and value,
 e.g. the Cornbrash. In limestone regions all waters tend to be hard, on
 account of the abundant carbonate of lime dissolved by percolating
@@ -202,7 +202,7 @@ water.
   occupied by casts. Some of the Old Red Sandstone is calcareous. In
   other cases the calcareous matter has recrystallized in large plates
   which have shining cleavage surfaces dotted over with grains of sand
-  (Lincolnshire limestone). The Fontainebleau sandstone has large
+  (Lincolnshire limestone). The [[Fontainebleau]] sandstone has large
   calcite rhombohedra filled with sand grains. Limestones sometimes
   contain much plant matter which has been converted into a dark coaly
   substance, in which the original woody structures may be preserved or
@@ -213,7 +213,7 @@ water.
   calcareous schalsteins or tuffs of Devonshire, which are usually much
   crushed by earth movements. In the Globigerina ooze of the present day
   there is always a slight admixture of volcanic materials derived
-  either from wind-blown dust, from submarine eruptions or from floating
+  either from wind-blown [[Dust|dust]], from submarine eruptions or from floating
   pieces of pumice. Other limestones contain organic matter in the shape
   of asphalt, bitumen or petroleum, presumably derived from plant
   remains. The well-known _Val de Travers_ is a bituminous limestone of
@@ -244,7 +244,7 @@ water.
   They are often impure, and their iron may be present as haematite or
   as chalybite. Oolitic limestones are known from many geological
   formations, e.g. the Cambrian and Silurian of Scotland and Wales,
-  Carboniferous limestone (Bristol), Jurassic, Tertiary and Recent
+  Carboniferous limestone ([[Bristol]]), Jurassic, Tertiary and Recent
   limestones. They are forming at the present day in some coral reefs
   and in certain petrifying springs like those of Carlsbad. Their chief
   development in England is in the Jurassic rocks where they occur in
@@ -295,7 +295,7 @@ water.
   ocean rocks in dry climates the droppings of birds (guano) which
   contain much phosphate, percolating into the underlying limestones
   change them into a hard white or yellow phosphate rock (e.g. Sombrero,
-  Christmas Island, &c.), sometimes known as rock-guano or mineral
+  [[Christmas]] Island, &c.), sometimes known as rock-guano or mineral
   guano. In the north of France beds of phosphate are found in the
   chalk; they occur also in England on a smaller scale. All limestones,
   especially those laid down in deep waters contain some lime phosphate,

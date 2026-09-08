@@ -9,14 +9,14 @@ id: 42-3045
 # Lac
 
 LAC, a resinous incrustation formed on the twigs and young branches of
-various trees by an insect, _Coccus lacca_, which infests them. The term
-lac (_laksha_, Sanskrit; _lakh_, Hindi) is the same as the numeral
+various trees by an [[Insect|insect]], _Coccus lacca_, which infests them. The term
+lac (_laksha_, Sanskrit; _lakh_, [[Hindi]]) is the same as the numeral
 lakh--a hundred thousand--and is indicative of the countless hosts of
 insects which make their appearance with every successive generation.
-Lac is a product of the East Indies, coming especially from Bengal,
-Pegu, Siam and Assam, and is produced by a number of trees of the
+Lac is a product of the [[East Indies]], coming especially from [[Bengal]],
+Pegu, Siam and [[Assam]], and is produced by a number of trees of the
 species _Ficus_, particularly _F. religiosa_. The insect which yields it
-is closely allied to the cochineal insect, _Coccus cacti_; kermes, _C.
+is closely allied to the [[Cochineal|cochineal]] insect, _Coccus cacti_; [[Kermes|kermes]], _C.
 ilicis_ and Polish grains, _C. polonicus_, all of which, like the lac
 insect, yield a red colouring matter. The minute larval insects fasten
 in myriads on the young shoots, and, inserting their long proboscides
@@ -30,7 +30,7 @@ escape. After their impregnation, which takes place on the liberation of
 the males, about three months from their first appearance, the females
 develop into a singular amorphous organism consisting in its main
 features of a large smooth shining crimson-coloured sac--the ovary--with
-a beak stuck into the bark, and a few papillary processes projected
+a [[Beak|beak]] stuck into the bark, and a few papillary processes projected
 above the resinous surface. The red fluid in the ovary is the substance
 which forms the lac dye of commerce. To obtain the largest amount of
 both resin and dye-stuff it is necessary to gather the twigs with their
@@ -42,9 +42,9 @@ thick canvas, and spread out into thin layers, is known as "shellac,"
 and is the form in which the resin is usually brought to European
 markets. Shellac varies in colour from a dark amber to an almost pure
 black; the palest, known as "orange-lac," is the most valuable; the
-darker varieties--"liver-coloured," "ruby," "garnet," &c.--diminish in
+darker varieties--"liver-coloured," "ruby," "[[Garnet|garnet]]," &c.--diminish in
 value as the colour deepens. Shellac may be bleached by dissolving it in
-a boiling lye of caustic potash and passing chlorine through the
+a boiling [[Lye|lye]] of [[Caustic|caustic]] potash and passing [[Chlorine|chlorine]] through the
 solution till all the resin is precipitated, the product being known as
 white shellac. Bleached lac takes light delicate shades of colour, and
 dyed a golden yellow it is much used in the East Indies for working into

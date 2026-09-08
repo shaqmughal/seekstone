@@ -31,7 +31,7 @@ death opposed for a time all attempts to remove the unjust sentence of
 condemnation which had been passed upon him. Afterwards he so far
 yielded to remonstrances as to allow the name of Chrysostom to appear in
 the list of distinguished martyrs and bishops mentioned in the prayers
-of his church. These names were inserted in what were called "diptychs"
+of his church. These names were inserted in what were called "[[Diptych|diptychs]]"
 ([Greek: diptycha nekron]), or two-leaved tablets preserved in the
 churches--a usage which the Greek Church has continued to this day.
 
@@ -42,19 +42,19 @@ opposition to Nestorius at the council of Ephesus in 431 is told
 elsewhere (see NESTORIUS). He himself incurred the charge of heresy from
 the oriental bishops. Satisfied, however, with the deprivation and exile
 of his opponent, he returned to Alexandria in triumph as the great
-champion of the faith, and thence continued, by the "unscrupulous use of
+[[Champion|champion]] of the faith, and thence continued, by the "unscrupulous use of
 all the means at his command," the theological strife for years. He was
 a bitter opponent of the great Antiochene expositor and apologist
 Theodoret.
 
 Altogether Cyril presents a character not only unamiable, but singularly
-deficient in the graces of the Christian life. His style of writing is
+deficient in the [[Graces|graces]] of the Christian life. His style of writing is
 as objectionable as his character and spirit. Yet he takes high rank as
-a dogmatic theologian, and those who seek precise and rigid definitions
+a dogmatic theologian, and those who seek precise and rigid [[Definition|definitions]]
 of orthodox belief conjoined with tenacity of conviction find him
 indispensable. In addition to his _Twelve Anathematisms_ and the defence
 of the same, he wrote five other books against Nestorius, _Thesaurus_--a
-treatise in dialogue form on the Trinity, a book _On the Right Way_ and
+treatise in [[Dialogue|dialogue]] form on the Trinity, a book _On the Right Way_ and
 another _On the Incarnation_. In other fields--mystical, exegetical and
 apologetical--he was equally prolific and forceful. He wrote a tract "On
 worshipping in spirit and in truth" to defend a spiritual interpretation
@@ -67,7 +67,7 @@ sources to the student of the Nestorian controversy.
   of the writings have been edited separately (see bibliography in
   Herzog-Hauck). For an account of his career and position in the
   history of dogma, see A. Harnack, vols. iii. and iv. _passim_; O.
-  Bardenhewer's _Patrologie_ (Freiburg, 1894), pp. 335-343; R. L.
+  Bardenhewer's _Patrologie_ ([[Freiburg]], 1894), pp. 335-343; R. L.
   Ottley's _Doctrine of the Incarnation_, ii. 80 ff.; A. Largent's
   _Etudes d'hist. eccles.; St Cyrille d'Alexandrie et le concile
   d'Ephese_ (Paris, 1892). See also Charles Kingsley's romance

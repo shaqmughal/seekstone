@@ -19,15 +19,15 @@ foremost among the young national party which sought to revive the arts
 of Germany. The ambitious work by which Louis I. sought to transform
 Munich into a German Athens afforded the young painter an appropriate
 sphere. Cornelius had been commissioned to execute the enormous frescoes
-in the Glyptothek, and his custom was in the winters, with the aid of
-Kaulbach and others, to complete the cartoons at Dusseldorf, and in the
+in the [[Glyptothek]], and his custom was in the winters, with the aid of
+Kaulbach and others, to complete the [[Cartoon|cartoons]] at Dusseldorf, and in the
 summers, accompanied by his best scholars, to carry out the designs in
 colour on the museum walls in Munich. But in 1824 Cornelius became
 director of the Bavarian academy. Kaulbach, not yet twenty, followed,
 took up his permanent residence in Munich, laboured hard on the public
 works, executed independent commissions, and in 1849, when Cornelius
 left for Berlin, succeeded to the directorship of the academy, an office
-which he held till his death on the 7th of April 1874. His son Hermann
+which he held till his death on the 7th of April 1874. His son [[Hermann]]
 (1846-1909) also became a distinguished painter.
 
 Kaulbach matured, after the example of the masters of the Middle Ages,
@@ -37,33 +37,33 @@ readiness of resource scarcely found since the era of Raphael and
 Michelangelo. Early in the series of his multitudinous works came the
 famous Narrenhaus, the appalling memories of a certain madhouse near
 Dusseldorf; the composition all the more deserves mention for points of
-contact with Hogarth. Somewhat to the same category belong the
-illustrations to _Reineke Fuchs_. These, together with occasional
-figures or passages in complex pictorial dramas, show how dominant and
+contact with [[Hogarth]]. Somewhat to the same [[Category|category]] belong the
+illustrations to _Reineke [[Fuchs]]_. These, together with occasional
+figures or passages in complex pictorial [[Drama|dramas]], show how dominant and
 irrepressible were the artist's sense of satire and enjoyment of fun;
 character in its breadth and sharpness is depicted with keenest relish,
 and at times the sardonic smile bursts into the loudest laugh. Thus
-occasionally the grotesque degenerates into the vulgar, the grand into
+occasionally the [[Grotesque|grotesque]] degenerates into the vulgar, the grand into
 the ridiculous, as in the satire on "the Pigtail Age" in a fresco
 outside the New Pinakothek. Yet these exceptional extravagances came not
 of weakness but from excess of power. Kaulbach tried hard to become
 Grecian and Italian; but he never reached Phidias or Raphael; in short
-the blood of Durer, Holbein and Martin Schongauer ran strong in his
+the blood of Durer, [[Holbein]] and [[Martin]] Schongauer ran strong in his
 veins. The art products in Munich during the middle of the 19th century
 were of a quantity to preclude first-rate quality, and Kaulbach
 contracted a fatal facility in covering wall and canvas by the acre. He
 painted in the Hofgarten, the Odeon, the Palace and on the external
 walls of the New Pinakothek. His perspicuous and showy manner also
 gained him abundant occupation as a book illustrator: in the pages of
-the poets his fancy revelled; he was glad to take inspiration from
-Wieland, Goethe, even Klopstock; among his engraved designs are the
-Shakespeare gallery, the Goethe gallery and a folio edition of the
-Gospels. With regard to these examples of "the Munich school," it was
+the poets his [[Fancy|fancy]] revelled; he was glad to take inspiration from
+Wieland, Goethe, even [[Klopstock]]; among his engraved designs are the
+Shakespeare gallery, the Goethe gallery and a [[Folio|folio]] edition of the
+[[Gospel|Gospels]]. With regard to these examples of "the Munich school," it was
 asserted that Kaulbach had been unfortunate alike in having found
 Cornelius for a master and King Louis for a patron, that he attempted
 "subjects far beyond him, believing that his admiration for them was
-the same as inspiration"; and supplied the lack of real imagination by
-"a compound of intellect and fancy."
+the same as inspiration"; and supplied the lack of real [[Imagination|imagination]] by
+"a compound of [[Intellect|intellect]] and fancy."
 
 Nevertheless in such compositions as the Destruction of Jerusalem and
 the Battle of the Huns Kaulbach shows creative imagination. As a
@@ -77,9 +77,9 @@ little short of absolute; subtle is the sense of beauty; playful,
 delicate, firm the touch; the whole treatment artistic.
 
 Ten or more years were devoted to what the Germans term a "cyclus"--a
-series of pictures depicting the Tower of Babel, the Age of Homer, the
-Destruction of Jerusalem, the Battle of the Huns, the Crusades and the
-Reformation. These major tableaux, severally 30 ft. long, and each
+series of pictures depicting the Tower of [[Babel]], the Age of [[Homer]], the
+Destruction of Jerusalem, the Battle of the Huns, the [[Crusades]] and the
+Reformation. These [[Major|major]] tableaux, severally 30 ft. long, and each
 comprising over one hundred figures above life-size, are surrounded by
 minor compositions making more than twenty in all. The idea is to
 congregate around the world's historic dramas the prime agents of
@@ -115,9 +115,9 @@ winds, and the whole atmosphere is hot and feverish.
   narrative too is lucid, and moves as a stately march or royal triumph;
   the sequence of the figures is unbroken; the arrangement of the groups
   accords with even literary form; the picture falls into incident,
-  episode, dialogue, action, plot, as a drama. The style is eclectic; in
+  episode, [[Dialogue|dialogue]], action, plot, as a drama. The style is eclectic; in
   the Age of Homer the types and the treatment are derived from Greek
-  marbles and vases; then in the Tower of Babel the severity of the
+  [[Marbles|marbles]] and vases; then in the Tower of Babel the severity of the
   antique gives place to the suavity of the Italian renaissance; while
   in the Crusades the composition is let loose into modern romanticism,
   and so the manner descends into the midst of the 19th century. And yet

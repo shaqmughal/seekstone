@@ -11,7 +11,7 @@ tags: [electricity, history]
 BOUGUEREAU, ADOLPHE WILLIAM (1825-1905), French painter, was born at La
 Rochelle on the 30th of November 1825. From 1843 till 1850 he went
 through the course of training at the Ecole des Beaux-Arts, and in 1850
-divided the Grand Prix de Rome scholarship with Baudry, the subject set
+divided the Grand Prix de Rome scholarship with [[Baudry]], the subject set
 being "Zenobia on the banks of the Araxes." On his return from Rome in
 1855 he was employed in decorating several aristocratic residences,
 deriving inspiration from the frescoes which he had seen at Pompeii and
@@ -25,17 +25,17 @@ visit to the sufferers by the inundations at Tarascon. In 1857
 Bouguereau received a first prize medal. Nine of his panels executed in
 wax-painting for the mansion of M. Bartholomy were much
 discussed--"Love," "Friendship," "Fortune," "Spring," "Summer,"
-"Dancing," "Arion on a Sea-horse," a "Bacchante" and the "Four Divisions
+"Dancing," "[[Arion]] on a Sea-horse," a "Bacchante" and the "Four Divisions
 of the Day." He also exhibited at the Salon "The Return of Tobit" (now
 in the Dijon gallery). While in antique subjects he showed much grace of
 design, in his "Napoleon," a work of evident labour, he betrayed a lack
 of ease in the treatment of modern costume. Bouguereau subsequently
 exhibited "Love Wounded" (1859), "The Day of the Dead" (at Bordeaux),
 "The First Discord" (1861, in the Club at Limoges), "The Return from the
-Fields" (a picture in which Theophile Gautier recognized "a pure feeling
+Fields" (a picture in which Theophile [[Gautier]] recognized "a pure feeling
 for the antique"), "A Fawn and Bacchante" and "Peace"; in 1863 a "Holy
 Family," "Remorse," "A Bacchante teasing a Goat" (in the Bordeaux
-gallery); in 1864 "A Bather" (at Ghent), and "Sleep"; in 1865 "An
+gallery); in 1864 "A Bather" (at [[Ghent]]), and "Sleep"; in 1865 "An
 Indigent Family," and a portrait of Mme Bartholomy; in 1866 "A First
 Cause," and "Covetousness," with "Philomela and Procne"; and some
 decorative work for M. Montlun at La Rochelle, for M. Emile Pereire in

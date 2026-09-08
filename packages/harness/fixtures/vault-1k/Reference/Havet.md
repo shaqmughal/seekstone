@@ -11,10 +11,10 @@ brought home to him the dignity of history, which thenceforth became his
 ruling passion. His valedictory thesis at the Ecole des Chartes, _Serie
 chronologique des gardiens et seigneurs des Iles Normandes_ (1876), was
 a definitive work and but slightly affected by later research. In 1878
-he followed his thesis by a study called _Les Cours royales dans les
+he followed his thesis by a study called _Les Cours royales [[Dan|dans]] les
 Iles Normandes_. Both these works were composed entirely from the
 original documents at the Public Record Office, London, and the archives
-of Jersey and Guernsey. On the history of Merovingian institutions,
+of Jersey and [[Guernsey]]. On the history of Merovingian institutions,
 Havet's conclusions were widely accepted (see _La Formule N. rex
 Francor., v. inl._, 1885). His first work in this province was _Du sens
 du mot "romain" dans les lois franques_ (1876), a critical study on a

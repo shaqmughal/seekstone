@@ -2,7 +2,7 @@
 
 ASTRAEA, in Greek legend, the "star maiden," daughter of Zeus and
 Themis, or of Astraeus the Titan and Eos, in which case she is
-identified with Dike. During the golden age she remained among men
+identified with [[Dike]]. During the golden age she remained among men
 distributing blessings, but when the iron (or bronze) age came on, she
 was forced to withdraw, being the last of the goddesses to quit the
 earth. In the heavens she is amongst the signs of the zodiac as the

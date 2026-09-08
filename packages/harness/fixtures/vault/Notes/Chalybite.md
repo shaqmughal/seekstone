@@ -2,14 +2,14 @@
 
 CHALYBITE, a mineral species consisting of iron carbonate (FeCO3) and
 forming an important ore of iron. It was early known as spathose iron,
-spathic iron or steel ore. F.S. Beudant in 1832 gave the name siderose
-(from [Greek: sideros], iron), which was modified by W. Haidinger in
+spathic iron or steel ore. F.S. [[Beudant]] in 1832 gave the name siderose
+(from [Greek: sideros], iron), which was modified by W. [[Haidinger]] in
 1845 to siderite. Chalybite (from [Greek: chalyps], [Greek: chalybos],
 Lat. _chalybs_, steel) is of slightly later date, having been given by
 E.F. Glocker in 1847. The name siderite is in common use, but it is open
 to objection since it had earlier been applied to several other species,
 and is also now used as a group name for meteoric irons. Chalybite
-crystallizes in the rhombohedral system and is isomorphous with calcite;
+crystallizes in the rhombohedral system and is isomorphous with [[Calcite|calcite]];
 like this it possesses perfect cleavages parallel to the faces of the
 primitive rhombohedron, the angles between which are 73 deg. 0'.
 Crystals are usually rhombohedral in habit, and the primitive
@@ -33,12 +33,12 @@ respectively in large amount. These varieties form a passage to ankerite
 
 Chalybite is a common gangue mineral in metalliferous veins, and
 well-crystallized specimens are found with ores of copper, lead, tin,
-&c., in Cornwall, the Harz, Saxony and many other places. It also occurs
+&c., in [[Cornwall]], the Harz, Saxony and many other places. It also occurs
 alone as large masses in veins and beds in rocks of various kinds. The
 clay ironstone so extensively worked as an ore of iron occurs as nodules
 and beds in the Coal Measures of England and the United States, and the
-oolitic iron ore of the Cleveland district in Yorkshire forms beds in
-the Lias. The mineral is occasionally found as concretionary masses
+oolitic iron ore of the [[Cleveland]] district in Yorkshire forms beds in
+the [[Lias]]. The mineral is occasionally found as concretionary masses
 (sphaerosiderite) in cavities in basic igneous rocks such as dolerite.
      (L. J. S.)
 

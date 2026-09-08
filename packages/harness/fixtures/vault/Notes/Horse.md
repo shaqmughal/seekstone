@@ -1,6 +1,6 @@
 # Horse
 
-HORSE (a word common to Teutonic languages in such forms as _hors_,
+HORSE (a word common to Teutonic languages in such forms as _[[Hor|hors]]_,
 _hros_, _ros_; cf. the Ger. _ross_), a name properly restricted to the
 domesticated horse (_Equus caballus_) and its wild or half-wild
 representatives, but in a zoological sense used as a general term for
@@ -21,10 +21,10 @@ _Horse_, _Wild Horse_, _Pony_.--The horse (_Equus caballus_) is
 distinguished from the others by the long hairs of the tail being more
 abundant and growing quite or nearly from the base as well as the end
 and sides, and also by possessing a small bare callosity on the inner
-side of the hind leg, just below the "hock" or heel joint, in addition
-to the one on the inner side of the fore-arm above the carpus or "knee,"
+side of the hind [[Leg|leg]], just below the "hock" or heel joint, in addition
+to the one on the inner side of the fore-arm above the carpus or "[[Knee|knee]],"
 common to all the genus. The mane is also longer and more flowing, and
-the ears are shorter, the limbs longer, and the head smaller.
+the [[Ear|ears]] are shorter, the limbs longer, and the head smaller.
 
 Though existing horses are usually not marked in any definite manner, or
 only irregularly dappled, or spotted with light surrounded by a darker
@@ -35,7 +35,7 @@ dark stripes on the shoulders and legs.
 Two distinct types of horse, in many instances largely modified by
 interbreeding, appear to exist. (1) The northern, or dun type,
 represented by the dun ponies of Norway (_Equus caballus typicus_), the
-closely allied Celtic pony (_E. c. celticus_) of Iceland, the Hebrides,
+closely allied Celtic pony (_E. c. celticus_) of [[Iceland]], the [[Hebrides]],
 &c., and the wild pony of Mongolia (_E. c. przewalskii_), with which the
 now extinct tarpan of the Russian steppes appears to have been
 identical. The prevalent colour is yellow-dun, with dark brown or black
@@ -44,11 +44,11 @@ root of the tail short-haired; while the head is relatively large and
 heavy. No depression exists in the skull in front of the eye. Most of
 the ordinary horses of N.W. Europe are descended from the dun type, with
 more or less admixture of Barb blood. (2) The southern, or Barb type,
-represented by Barbs, Arabs, thoroughbreds, &c. (_E. c. asiaticus_ or
+represented by Barbs, [[Arabs]], thoroughbreds, &c. (_E. c. asiaticus_ or
 _libycus_), in which the typical colour is bay with black "points" and
 often a white star on the forehead, and the mane and tail are long and
 full. The skull generally shows a slight depression in front of the
-socket of the eye, which, although now serving as the attachment for the
+socket of the eye, which, although now serving as the [[Attachment|attachment]] for the
 muscle running to the nostril, may represent the face-gland of the
 extinct _Hipparion_. Many of the dark-coloured horses of Europe have
 Barb or Arab blood in their veins, this being markedly the case with the
@@ -62,10 +62,10 @@ polished-stone period. Judging from the quantity of their remains found
 associated with those of the men of that time, the chase of these
 animals must have been among man's chief occupations, and horses must
 have furnished him with one of his most important food-supplies. The
-characters of the bones preserved, and certain rude but graphic
+characters of the [[Bone|bones]] preserved, and certain rude but graphic
 representations carved on bones or reindeers' antlers, enable us to know
 that they were rather small in size and heavy in build, with large heads
-and rough shaggy manes and tails, much like, in fact, the recently
+and rough shaggy [[Manes|manes]] and tails, much like, in fact, the recently
 extinct tarpans or wild horses of the steppes of the south of Russia,
 and the still-surviving Mongolian wild pony or "Przewalski's horse."
 These horses were domesticated by the inhabitants of Europe before the
@@ -74,7 +74,7 @@ almost the whole of the inhabited parts of the globe, and the great
 modifications they have undergone in consequence of domestication,
 crossing, and selective breeding are well exemplified by comparing such
 extreme forms as the Shetland pony, dwarfed by uncongenial climate, the
-thoroughbred racer, and the London dray-horse. In Australia, as in
+thoroughbred racer, and the London dray-horse. In [[Australia]], as in
 America, horses imported by European settlers have escaped into
 unreclaimed lands and multiplied to a prodigious extent, roaming in vast
 herds over the wide and uncultivated plains.
@@ -90,12 +90,12 @@ hemionus_) of Mongolia, and the kiang (_E. h. kiang_) of Tibet, which is
 a redder animal. The onager (_E. onager_), of which there are several
 races, is smaller, with a broader dorsal stripe, bordered with white;
 the colour varying from sandy to greyish. This species ranges from
-Baluchistan and N.W. India to Persia, Syria and Arabia. These asses
-inhabit desert plains or open table-land; the kiang dwelling at
+[[Baluchistan]] and N.W. India to Persia, Syria and Arabia. These asses
+inhabit [[Desert|desert]] plains or open table-land; the kiang dwelling at
 elevations of about 14,000 ft. They are generally found in herds of from
 twenty to forty, although occasionally in larger numbers. All are fleet,
 and traverse rough ground with speed. On the lowlands they feed on dry
-grasses, and in Tibet on small woody plants. In India and Persia they
+[[Grasses|grasses]], and in Tibet on small woody plants. In India and Persia they
 are difficult to approach, although this is not the case in Tibet. Their
 sandy or chestnut colouring assimilates them to the horse, and separates
 them widely from the African wild asses, which are grey. The kiang has
@@ -119,9 +119,9 @@ bonte-quagga, dauw, or Burchell's zebra (_E. burchelli_), the
 ground-colour is white, and the stripes cover the body and upper part of
 the limbs. This was the commonest species in the great plains of South
 Africa, where it roamed in large herds, often in company with the quagga
-and numerous antelopes. The species ranges from the Orange river to the
+and numerous [[Antelope|antelopes]]. The species ranges from the Orange river to the
 confines of Abyssinia, but its more northern representatives show a
-gradual increase in the striping of the legs, culminating in the
+[[Gradual|gradual]] increase in the striping of the legs, culminating in the
 north-east African _E. burchelli granti_, in which the stripes extend to
 the hoofs. The markings, too, are alternately black and white, in place
 of brown and creamy, with intermediate "shadow stripes," as in the
@@ -188,7 +188,7 @@ animals in modern times have ended in failure is that it does not answer
 to do so in cases in which existing species supply all the principal
 purposes to which the new ones might be put. It can hardly be expected
 that zebras and bonte-quaggas fresh from their native mountains and
-plains can be brought into competition as beasts of burden and draught
+plains can be brought into competition as beasts of [[Burden|burden]] and draught
 with horses and asses, whose useful qualities have been augmented by the
 training of thousands of generations of progenitors.
 
@@ -203,7 +203,7 @@ _Hipparion_ or _Anchitherium_, but look rather as if due to that
 tendency to reduplication of parts which occurs so frequently as a
 monstrous condition, especially among domesticated animals, and which,
 whatever its origin, certainly cannot in many instances, as the cases of
-entire limbs superadded, or of six digits in man, be attributed to
+entire limbs superadded, or of six [[Digit|digits]] in man, be attributed to
 reversion.
 
 
@@ -267,7 +267,7 @@ horse, applies equally well to the other existing members of the group.
   foramen rotundum, but the foramen ovale is confluent with the large
   foramen lacerum medium behind. The glenoid surface for the
   articulation of the mandible is greatly extended transversely, concave
-  from side to side, convex from before backwards in front, and hollow
+  from side to side, [[Convex|convex]] from before backwards in front, and hollow
   behind, and is bounded posteriorly at its inner part by a prominent
   post-glenoid process. The squamosal enters considerably into the
   formation of the temporal fossa, and, besides sending the zygomatic
@@ -284,7 +284,7 @@ horse, applies equally well to the other existing members of the group.
   distinct bulla, but ends in front in a pointed rod-like process. It
   completely embraces the truncated cylindrical tympanohyal, which is of
   great size, corresponding with the large development of the whole
-  anterior arch of the hyoid. This consists mainly of a long and
+  anterior [[Arch|arch]] of the hyoid. This consists mainly of a long and
   compressed stylohyal, expanded at the upper end, where it sends off a
   triangular posterior process. The basi-hyal is remarkable for the
   long, median, pointed, compressed "glossohyal" process, which it sends
@@ -333,15 +333,15 @@ horse, applies equally well to the other existing members of the group.
   trunk vertebrae the opisthocoelous character of the centrum gradually
   diminishes. The spinous processes of the anterior thoracic region are
   high and compressed. To these is attached the powerful elastic
-  ligament (_ligamentum nuchae_, or "paxwax") which, passing forwards in
-  the middle line of the neck above the neural arches of the cervical
+  [[Ligament|ligament]] (_ligamentum nuchae_, or "paxwax") which, passing forwards in
+  the middle line of the neck above the neural [[Arches|arches]] of the cervical
   vertebrae--to which it is also connected--is attached to the occiput
   and supports the weight of the head. The transverse processes of the
   lumbar vertebrae are long, flattened, and project horizontally
   outwards or slightly forward from the arch. The metapophyses are
   moderately developed, and there are no anapophyses. The caudal
   vertebrae, except those quite at the base, are slender and
-  cylindrical, without processes and without chevron bones beneath. The
+  cylindrical, without processes and without [[Chevron|chevron]] bones beneath. The
   ribs are eighteen or nineteen in number on each side, flattened, and
   united to the sternum by short, stout, tolerably well ossified sternal
   ribs. The sternum consists of six pieces; the anterior or presternum
@@ -359,14 +359,14 @@ horse, applies equally well to the other existing members of the group.
   represented by little more than the olecranon. The shaft gradually
   tapers below and is firmly welded to the radius. The latter bone is of
   nearly equal width throughout. The three bones of the first row of the
-  carpus (scaphoid, lunar and cuneiform) are subequal in size. The
+  carpus (scaphoid, lunar and [[Cuneiform|cuneiform]]) are subequal in size. The
   second row consists of a broad and flat magnum, supporting the great
   third metacarpal, having to its radial side the trapezoid, and to its
   ulnar side the unciform, which are both small, and articulate
   inferiorally with the rudimentary second and fourth metacarpals. The
   pisiform is large and prominent, flattened and curved; it articulates
   partly with the cuneiform and partly with the lower end of the radius.
-  The large metacarpal is called in veterinary anatomy "cannon bone";
+  The large metacarpal is called in veterinary anatomy "[[Cannon|cannon]] bone";
   the small lateral metacarpals, which gradually taper towards their
   lower extremities, and lie in close contact with the large one, are
   called "splint bones." The single digit consists of a moderate-sized
@@ -398,8 +398,8 @@ horse, applies equally well to the other existing members of the group.
   more laterally compressed at its upper end than is the corresponding
   metacarpal. The joint between the femur and tibia, corresponding to
   the knee of man, is called the "stifle-joint"; that between the tibia
-  and tarsus, corresponding to the ankle of man, the "hock." The bones
-  and joints of the foot have the same names as in the fore limb. The
+  and tarsus, corresponding to the [[Ankle|ankle]] of man, the "hock." The bones
+  and [[Joints|joints]] of the foot have the same names as in the fore limb. The
   horse is eminently "digitigrade," standing on the extremity of the
   single digit of each foot, which is kept habitually in a position
   approaching to vertical.
@@ -415,7 +415,7 @@ horse, applies equally well to the other existing members of the group.
   almost exactly in structure as well as function. On the anterior or
   extensor surface of the limb a powerful tendon (7 in fig. 2), that of
   the anterior extensor of the phalanges (corresponding to the _extensor
-  communis digitorum_ of the arm and _extensor longus digitorum_ of the
+  communis digitorum_ of the arm and _extensor [[Longus|longus]] digitorum_ of the
   foot of man) passes down over the metacarpal bone and phalanges, to be
   inserted mainly into the upper edge of the anterior surface of the
   last phalanx or pedal bone. There is also a much smaller second
@@ -455,7 +455,7 @@ horse, applies equally well to the other existing members of the group.
   to join the extensor tendon of the phalanges. This is called in
   veterinary anatomy the "suspensory ligament of the sesamoids," or of
   the "fetlock" (10 in fig. 2); but its attachments and relations, as
-  well as the occasional presence of muscular fibres in its substance,
+  well as the occasional presence of muscular [[Fibres|fibres]] in its substance,
   show that it is the homologue of the interosseous muscles of other
   mammals, modified in structure and function, to suit the requirements
   of the horse's foot. Behind or superficial to this are placed the two
@@ -475,7 +475,7 @@ horse, applies equally well to the other existing members of the group.
   the expanded termination of the toe, giving a firm basis of support
   formed of a non-sensitive substance, which is continually renewed by
   the addition of material from within, as its surface wears away by
-  friction. The terminal phalange of the toe is greatly enlarged and
+  [[Friction|friction]]. The terminal phalange of the toe is greatly enlarged and
   modified in form to support this hoof, and the size of the internal
   framework of the foot is increased by a pair of lateral
   fibro-cartilaginous masses attached on each side to the hinder edges
@@ -518,7 +518,7 @@ horse, applies equally well to the other existing members of the group.
   Incisor of Horse.
 
     p, Pulp cavity.
-    d, Dentine or ivory.
+    d, Dentine or [[Ivory|ivory]].
     e, Enamel.
     c, Outer layer of cementum or crusta petrosa.
     c', Inner layer of cementum, lining a, the pit
@@ -531,7 +531,7 @@ horse, applies equally well to the other existing members of the group.
   of nearly equal size. They have all the great peculiarity, not found
   in the teeth of any other mammal, and only in the Equidae of
   comparatively recent geological periods (see also PALAEONTOLOGY), of
-  an involution of the external surface of the tooth (see fig. 3), by
+  an [[Involution|involution]] of the external surface of the tooth (see fig. 3), by
   which what should properly be the apex is carried deeply into the
   interior of the crown, forming a pit, the bottom of which becomes
   partially filled with cement. As the tooth wears, the surface, besides
@@ -561,7 +561,7 @@ horse, applies equally well to the other existing members of the group.
   portions being pushed out as the surface wears away, a process which
   continues until the animal becomes advanced in age. The enamelled
   surface is infolded in a complex manner (a modification of that found
-  in other perissodactyles), the folds extending quite to the base of
+  in other perissodactyles), the [[Fold|folds]] extending quite to the base of
   the crown, and the interstices being filled and the surface covered
   with a considerable mass of cement, which binds together and
   strengthens the whole tooth. As the teeth wear, the folded enamel,
@@ -602,7 +602,7 @@ horse, applies equally well to the other existing members of the group.
   this period no certain indications can be obtained of the age of the
   horse from the teeth.
 
-  _Digestive Organs._--The lips are flexible and prehensile; and the
+  _Digestive Organs._--The [[Lip|lips]] are flexible and prehensile; and the
   membrane that lines them and the cheeks smooth. The palate is long and
   narrow; its mucous surface has seventeen pairs of not very sharply
   defined oblique ridges, extending as far back as the last molar tooth,
@@ -624,7 +624,7 @@ horse, applies equally well to the other existing members of the group.
   rather shorter than the former, which is narrow behind and widens
   towards the evenly rounded apex. The dorsal surface generally is soft
   and smooth. There are two large circumvallate papillae near the base,
-  rather irregular in form, about a quarter of an inch in diameter and
+  rather irregular in form, about a quarter of an [[Inch|inch]] in diameter and
   half an inch apart. The conical papillae are small and close set,
   though longer and more filamentous on the intermolar portion. There
   are no fungiform papillae on the dorsum, but a few inconspicuous ones
@@ -639,7 +639,7 @@ horse, applies equally well to the other existing members of the group.
   and runs forward under cover of the rounded inferior border of the
   lower jaw, then curves up along the anterior margin of the masseter
   muscle, becoming superficial, pierces the buccinator, and enters the
-  mouth by a simple aperture opposite the middle of the crown of the
+  mouth by a simple [[Aperture|aperture]] opposite the middle of the crown of the
   third premolar tooth. It is not quite so thick as a goose-quill when
   distended, and nearly a foot in length.
 
@@ -647,7 +647,7 @@ horse, applies equally well to the other existing members of the group.
   much smaller; it is placed deeper, and lies with its main axis
   horizontal. It is elongated and slender, and flattened from within
   outwards. Its posterior end rests against the anterior surface of the
-  transverse process of the atlas, from which it extends forwards and
+  transverse process of the [[Atlas|atlas]], from which it extends forwards and
   downwards, slightly curved, to beneath the ramus of the jaw. The duct
   which runs along its upper and internal border passes forwards in the
   usual course, lying in the inner side of the sublingual gland, to open
@@ -682,7 +682,7 @@ horse, applies equally well to the other existing members of the group.
   walls are sacculated, especially near the base, having four
   longitudinal muscular bands; and its capacity is about twice that of
   the stomach. It lies with its base near the lower part of the abdomen,
-  and its apex directed towards the thorax. The colon is about one-third
+  and its apex directed towards the thorax. The [[Colon|colon]] is about one-third
   the length of the small intestine, and very capacious in the greater
   part of its course. As usual it may be divided into an ascending,
   transverse, and descending portion; but the middle or transverse
@@ -693,11 +693,11 @@ horse, applies equally well to the other existing members of the group.
   longer than the distance it has to traverse, is thrown into numerous
   folds.
 
-  The liver is tolerably symmetrical in general arrangement, being
+  The [[Liver|liver]] is tolerably symmetrical in general arrangement, being
   divided nearly equally into segments by a well-marked umbilical
   fissure. Each segment is again divided by lateral fissures, which do
   not extend quite to the posterior border of the organ; of the central
-  lobes thus cut off, the right is rather the larger, and has two
+  [[Lobe|lobes]] thus cut off, the right is rather the larger, and has two
   fissures in its free border dividing it into lobules. The extent of
   these varies, however, in different individuals. The two lateral lobes
   are subtriangular in form. The Spigelian lobe is represented by a flat
@@ -756,7 +756,7 @@ horse, applies equally well to the other existing members of the group.
   symphysis pubis.
 
   The uterus is bicornuate. The vagina is often partially divided by a
-  membraneous septum or hymen. The teats are two, inguinally placed. The
+  membraneous septum or [[Hymen|hymen]]. The teats are two, inguinally placed. The
   surface of the chorion is covered evenly with minute villi,
   constituting a diffuse non-deciduate placenta. The period of gestation
   is eleven months.
@@ -768,38 +768,38 @@ horse, applies equally well to the other existing members of the group.
   Collections," _Novitates Zoologicae_, vol. xi., 1904; B. Salensky, "On
   Equus przewalskii," _Mem. Acad. St Petersburg_, 1902; M. S. Arloing,
   "Organisation du pied chez le cheval," _Ann. Sci. Nat._, 1867, viii.
-  55-81; H. Burmeister, _Los caballos fosiles de la Pampa Argentina_
+  55-81; H. Burmeister, _Los caballos fosiles de la Pampa [[Argentina]]_
   (Buenos Aires, 1875); Chauveau and Arloing, _Traite d'anatomie
   comparee des animaux domestiques_ (Paris, 1871), and English edition
-  by G. Fleming (1873); A. Ecker, "Das Europaische Wildpferd und dessen
+  by G. [[Fleming]] (1873); A. Ecker, "Das Europaische Wildpferd und dessen
   Beziehungen zum domesticirten Pferd," _Globus_, Bd. xxxiv. (Brunswick,
-  1878); Major Forsyth, "Beitrage zur Geschichte der fossilen Pferde
+  1878); [[Major]] [[Forsyth]], "Beitrage zur Geschichte der fossilen Pferde
   besonders Italiens," _Abh. Schw. Pal. Ges._ iv. 1-16, pt. iv.; George,
   "Etudes zool. sur les Hemiones et quelques autres especes chevalines,"
   _Ann. Sci. Nat._, 1869, xii. 5; E. F. Gurlt, _Anatomische Abbildungen
   der Haussaugethiere_ (1824), and _Hand. der vergleich. Anat. der
   Haussaugethiere_ (2 vols., 1822); Huet, "Croisement des diverses
-  especes du genre cheval," _Nouv. Archives du Museum_, 2nd ser., tom.
+  especes du genre cheval," _Nouv. [[Archive|Archives]] du Museum_, 2nd ser., tom.
   ii. p. 46, 1879; Leisering, _Atlas der Anatomie des Pferdes_ (Leipzig,
   1861); O. C. Marsh, "Notice of New Equine Mammals from the Tertiary
   Formation," _Am. Journ. of Science and Arts_, vol. vii., March 1874;
   _Id._, "Fossil Horses in America," _Amer. Naturalist_, vol. viii., May
   1874; _Id._, "Polydactyle Horses," _Am. Journ. Sci. and Arts_, vol.
-  xvii., June 1879; Franz Muller, _Lehrbuch der Anatomie des Pferdes_
+  xvii., June 1879; [[Franz]] Muller, _Lehrbuch der Anatomie des Pferdes_
   (Vienna, 1853); R. Owen, "Equine Remains in Cavern of Bruniquel,"
   _Phil. Trans._ vol. clix., 1870, p. 535; W. Percivall, _The Anatomy of
   the Horse_ (1832); G. Stubbs, _Anatomy of the Horse_ (1766); W. H.
-  Flower, _The Horse_ (London, 1891); Ridgeway, _Origin of the
+  [[Flower]], _The Horse_ (London, 1891); Ridgeway, _Origin of the
   Thoroughbred Horse_ (1905).     (W. H. F; R. L.*)
 
 
 HISTORY
 
 From the evidence of philology it appears that the horse was already
-known to the Aryans before the period of their dispersion.[1]
+known to the [[Aryan|Aryans]] before the period of their dispersion.[1]
 
 The first mention of the British horse occurs in the well-known passages
-in Caesar (_B.G._ iv. 24. 33, v. 15. 16; cf. Pomp. Mela iii. 6), in
+in [[Caesar]] (_B.G._ iv. 24. 33, v. 15. 16; cf. Pomp. Mela iii. 6), in
 which he mentions the native "essedarii" and the skill with which they
 handled their war chariots. We are left quite in the dark as to the
 character of the animal thus employed; but there would appear to be much
@@ -807,10 +807,10 @@ probability in the surmise of W. Youatt, who conjectures the horse to
 have been, "then as ever, the creature of the country in which he lived.
 With short fare, and exposed to the rigour of the seasons, he was
 probably the little hardy thing we yet see him; but in the marshes of
-the Nen and the Witham, and on the borders of the Tees and the Clyde,
-there would be as much proportionate development of frame and strength
+the Nen and the Witham, and on the [[Borders|borders]] of the Tees and the [[Clyde]],
+there would be as much proportionate development of [[Frame|frame]] and strength
 as we find at the present day." After the occupation of the country by
-the Romans, it appears that the horses of their cavalry were crossed
+the Romans, it appears that the horses of their [[Cavalry|cavalry]] were crossed
 with the native mares, and thus there was infused into the breed new
 blood, consisting probably of strains from every quarter from which
 Roman remounts were procured. As to the effect of this cross we are not,
@@ -831,12 +831,12 @@ barons on their estates. But the Norman horses included many varieties,
 and there is no doubt that to the Conquest the inhabitants of Britain
 were indebted for a decided improvement in the native horse, as well as
 for the introduction of several varieties previously unknown. According
-to Giraldus Cambrensis, Roger de Bellesme, a follower of William I.,
+to [[Giraldus Cambrensis]], Roger de Bellesme, a follower of William I.,
 afterwards created earl of Shrewsbury, imported some stallions from
 Spain into England; their produce was celebrated by Drayton the poet. It
 is curious to notice that agriculture seems to be the last use to which
 the horse has been put. The earliest suggestion that horses were used in
-agriculture is derived from a piece of the Bayeux tapestry, where a
+agriculture is derived from a piece of the [[Bayeux Tapestry|Bayeux tapestry]], where a
 horse is represented as drawing a harrow. This, however, must have been
 an exceptional case, for we know that oxen were used until a
 comparatively late time, and that in Wales a law existed forbidding
@@ -847,9 +847,9 @@ remaining in England, and the other being sent as a present by King
 Alexander I. to the church of St Andrews, in Scotland. It has been
 alleged that these horses were Barbs from Morocco, but a still more
 likely theory is that they existed only in name, and never reached
-either England or Scotland. The crusades were probably the means of
+either England or Scotland. The [[Crusades|crusades]] were probably the means of
 introducing fresh strains of blood into England, and of giving
-opportunity for fresh crossings. The Spanish jennet was brought over
+opportunity for fresh crossings. The Spanish [[Jennet|jennet]] was brought over
 about 1182. King John gave great encouragement to horse-breeding: one of
 his earliest efforts was to import a hundred Flemish stallions, and,
 having thus paved the way for improving the breed of agricultural
@@ -884,7 +884,7 @@ object was to retain the best horses in the country, and to keep the
 price of them down by limiting the demand and encouraging the supply. In
 his reign gelding is believed to have had its origin, on account of
 numerous herds of horses belonging to different proprietors grazing
-together, especially in time of harvest. Henry VIII. was particularly
+together, especially in time of [[Harvest|harvest]]. Henry VIII. was particularly
 careful that horse-breeding should be conducted on right principles, and
 his enactments, if somewhat arbitrary, were singularly to the point. In
 the thirty-second year of this reign, the "bill for the breed of horses"
@@ -903,7 +903,7 @@ land in certain counties; any one was to be at liberty to seize a horse
 of unlawful height, and those whose duty it was to measure horses, but
 who refused to do so, were to be fined 40s. By section 6 all forests,
 chases, commons, &c., were to be "driven" within fifteen days of
-Michaelmas day, and all horses, mares and colts not giving promise of
+Michaelmas day, and all horses, mares and [[Colt|colts]] not giving promise of
 growing into serviceable animals, or of producing them, were to be
 killed. The aim of the act was to prevent breeding from animals not
 calculated to produce the class of horse suited to the needs of the
@@ -912,7 +912,7 @@ the "breed of good strong horses" was likely to diminish, it was ordered
 that the owners of all parks and enclosed grounds of the extent of one
 mile should keep two mares 13 hands high for breeding purposes, or, if
 the extent of the ground was 4 m., four mares. The statute was not to
-extend to the counties of Westmorland, Cumberland, Northumberland or the
+extend to the counties of Westmorland, [[Cumberland]], Northumberland or the
 bishopric of Durham. Henry took great pains to improve the royal stud:
 according to Sir Thomas Chaloner--a writer in the reign of Elizabeth--he
 imported horses from Turkey, Naples and Spain.
@@ -920,7 +920,7 @@ imported horses from Turkey, Naples and Spain.
 Queen Elizabeth is reputed to have been an accomplished horsewoman, and
 to have indulged in riding late in life. In the first year of her reign
 she revived an act passed by Henry VIII. making it felony "to sell,
-exchange or deliver within Scotland, or to the use of any Scottishman,
+[[Exchange|exchange]] or deliver within Scotland, or to the use of any Scottishman,
 any horse"; this, however, was very naturally repealed by James I.
 Carriages were soon after introduced, and the use of them speedily
 became so fashionable that a bill was brought in "to restrain the
@@ -932,7 +932,7 @@ judges rode on horseback to Westminster Hall. One advantage of the
 introduction of carriages was that it created a demand for a lighter and
 quicker sort of horse, instead of the ponderous animal which, despite
 all attempts to banish him, was still the horse of England--the age of
-chivalry having been the first epoch of the British horse.
+[[Chivalry|chivalry]] having been the first epoch of the British horse.
 
 Gunpowder, too, was invented; and now that the weight of the cavalry
 soldier was diminished by the substitution of lighter armour, a quicker
@@ -946,12 +946,12 @@ the speed of even the best English horses. With the laudable motive,
 therefore, of effecting improvement in horses, he gave the then large
 sum of 500 guineas for an Arab stallion which had been procured from
 Constantinople by a Mr Markham, since known as the "Markham Arabian."
-This is the first authentic account we have of the importation of Arab
+This is the first [[Authentic|authentic]] account we have of the importation of Arab
 blood, and the _Stud-Book_ says he was the first of that breed ever seen
 in England. The people having to do with horses at that time were as
-conservative in their notions as most of the grooms are now, and the
+conservative in their notions as most of the [[Groom|grooms]] are now, and the
 "Markham Arabian" was not at all approved of. The duke of Newcastle, in
-his treatise on horsemanship, said that he had seen the above Arabian,
+his treatise on [[Horsemanship|horsemanship]], said that he had seen the above Arabian,
 and described him as a small bay horse and not of very excellent shape.
 In this instance, however, prejudice (and it is difficult to believe
 that it was anything else) was right, for King James's first venture
@@ -959,8 +959,8 @@ does not appear to have been a success either as a race-horse or as a
 sire, and thus Arabian blood was brought into disrepute. The king,
 however, resolved to give Eastern blood another trial, and bought a
 horse known as Place's White Turk from a Mr Place, who subsequently held
-some office in connexion with the stable under Cromwell. Charles I.
-followed in the footsteps of James, and lent such patronage to the
+some office in connexion with the stable under [[Cromwell]]. Charles I.
+followed in the footsteps of James, and [[Lent|lent]] such patronage to the
 breeding of a better kind of horse that a memorial was presented to him,
 asking that some measures might be taken to prevent the old stamp of
 horse "fit for the defence of the country" from dying out.
@@ -970,7 +970,7 @@ horse, for Charles II. warmly espoused the introduction of Eastern blood
 into England. He sent his master of the horse abroad to purchase a
 number of foreign horses and mares for breeding, and the mares brought
 over by him (as also many of their produce) were called "royal mares";
-they form a conspicuous feature in the annals of breeding. The
+they form a conspicuous feature in the [[Annals|annals]] of breeding. The
 _Stud-Book_ shows of what breed the royal mares really were: one of
 them, the dam of Dodsworth (who, though foaled in England, was a natural
 Barb), was a Barb mare; she was sold by the stud-master, after Charles
@@ -980,7 +980,7 @@ Helmsley Turk.
 James II. was a good horseman, and had circumstances been more
 propitious he might have left his mark in the sporting annals of the
 country. In his reign, according to the _Stud-Book_, the Stradling or
-Lister Turk was brought into England by the duke of Berwick from the
+Lister Turk was brought into England by the duke of [[Berwick]] from the
 siege of Buda.
 
 The reign of William III. is noteworthy as the era in which, among other
@@ -992,7 +992,7 @@ Captain Byerly's charger in Ireland in King William's wars. The second
 of the three horses above alluded to was the Darley Arabian, who was a
 genuine Arab, and was imported from Aleppo by a brother of Mr Darley of
 Aldby Park, Yorkshire, about the end of the reign of William III. or the
-beginning of that of Anne. The third horse of the famous trio, the
+beginning of that of [[Anne]]. The third horse of the famous trio, the
 Godolphin Arabian or Barb, brought to England about five-and-twenty
 years after the Darley Arabian, will be more particularly referred to
 further on. All the horses now on the turf or at the stud trace their
@@ -1011,7 +1011,7 @@ of the 18th century. By thoroughbred is meant a horse or mare whose
 pedigree is registered in the _Stud-Book_ kept by Messrs Weatherby, the
 official agents of the Jockey Club--originally termed the keepers of the
 match-book--as well as publishers of the _Racing Calendar_. The first
-attempt to evolve order out of the chaos which had long reigned supreme
+attempt to evolve order out of the [[Chaos|chaos]] which had long reigned supreme
 was made in 1791, for we find in the preface of the first volume of the
 Stud-Book, published in 1808, that "with a view to correct the then
 increasing evil of false and inaccurate pedigrees, the author was in the
@@ -1028,7 +1028,7 @@ of horses and mares of note from the earliest accounts, but with two
 exceptions no dates prior to the 18th century are specified in it. These
 exceptions are the Byerly Turk, who was "Captain Byerly's charger in
 Ireland in King William's wars (1689, &c.)," and a horse called
-Counsellor, bred by Mr Egerton in 1694, by Lord D'Arcy's Counsellor by
+Counsellor, bred by Mr [[Egerton]] in 1694, by Lord D'Arcy's Counsellor by
 Lord Lonsdale's Counsellor by the Shaftesbury Turk out of sister to
 Spanker--all the dams in Counsellor's pedigree tracing back to Eastern
 mares. There is not the least doubt that many of the animals named in
@@ -1038,9 +1038,9 @@ consequence.
 
 The _Stud-Book_ goes on to say of the Byerly Turk that he did not cover
 many bred mares, but was the sire of the duke of Devonshire's Basto,
-Halloway's Jigg, and others. Jigg, or Jig, is a very important factor,
+Halloway's Jigg, and others. Jigg, or [[Jig]], is a very important factor,
 as will be seen hereafter. The _Stud-Book_, although silent as to the
-date of his birth, says he was a common country stallion in Lincolnshire
+date of his birth, says he was a common country stallion in [[Lincolnshire]]
 until Partner was six years old--and we know from the same authority
 that Partner was foaled in 1718; we may therefore conclude that Jigg was
 a later foal than Basto, who, according to Whyte's _History of the
@@ -1052,12 +1052,12 @@ fame during that period of the Darley Arabian, a bay stallion, from whom
 our very best horses are descended. According to the _Stud-Book_,
 "Darley's Arabian was brought over by a brother of Mr Darley of
 Yorkshire, who, being an agent in merchandise abroad, became member of a
-hunting club, by which means he acquired interest to procure this
+[[Hunting|hunting]] club, by which means he acquired interest to procure this
 horse." The _Stud-Book_ is silent, and other authorities differ, as to
 the date of the importation of this celebrated Arab, some saying he came
 over in the year 1700, others that he arrived somewhat later; but we
 know from the _Stud-Book_ that Manica (foaled in 1707), Aleppo (1711),
-Almanzor (1713), and Flying Childers (1715) were got by him, as also was
+Almanzor (1713), and Flying [[Childers]] (1715) were got by him, as also was
 Bartlett's Childers, a younger brother of Flying Childers. It is
 generally believed that he was imported in Anne's reign, but the exact
 date is immaterial, for, assuming that he was brought over as early as
@@ -1065,20 +1065,20 @@ date is immaterial, for, assuming that he was brought over as early as
 the first year of the 18th century. The Darley Arabian did much to
 remove the prejudice against Eastern blood which had been instilled into
 the public mind by the duke of Newcastle's denunciation of the Markham
-Arabian. Prince George of Denmark, consort of Queen Anne, was himself a
+Arabian. Prince George of [[Denmark]], consort of Queen Anne, was himself a
 large horse-owner; and it was in a great measure owing to his
 intervention that so many valuable stallions were imported during her
 reign.
 
 At this period we find, among a mass of horses and mares in the
 _Stud-Book_ without any dates against their names, many animals of note
-with the earliest chronology extant, from Grey Ramsden (1704) and Bay
-Bolton (1705) down to a mare who exercised a most important influence on
+with the earliest [[Chronology|chronology]] extant, from Grey Ramsden (1704) and Bay
+[[Bolton]] (1705) down to a mare who exercised a most important influence on
 the English blood-horse. This was Roxana (1718) by the Bald Galloway,
 her dam sister to Chanter by the Akaster Turk, from a daughter of
 Leedes's Arabian and a mare by Spanker. Roxana threw in 1732 the bay
 colt Lath by the Godolphin Arabian, the sorrel colt Roundhead by
-Childers in 1733, and the bay colt Cade by the Godolphin Arabian in
+Childers in 1733, and the bay colt [[Cade]] by the Godolphin Arabian in
 1734, in which year she died within a fortnight after foaling, the
 produce--Cade--being reared on cow's milk. The Godolphin Barb or
 Arabian, as he was commonly called, was a brown bay about 15 hands in
@@ -1086,7 +1086,7 @@ stature, with an unnaturally high crest, and with some white on his off
 hind heel. He is said to have been imported into England from France by
 Mr Coke, where, as the editor of the _Stud-Book_ was informed by a
 French gentlemen, he was so little thought of that he had actually drawn
-a cart in the streets of Paris. Mr Coke gave him to a Mr. Williams, who
+a [[Cart|cart]] in the streets of Paris. Mr Coke gave him to a Mr. Williams, who
 in his turn presented him to the earl of Godolphin. Although called an
 Arabian, there is little doubt he was a Barb pure and simple. In 1731,
 being then the property of Mr. Coke, he was teazer to Hobgoblin, and on
@@ -1094,9 +1094,9 @@ the latter refusing his services to Roxana, the mare was put to the
 Godolphin, and the produce was Lath (1732), the first of his get, and
 the most celebrated race-horse of his day after Flying Childers. He was
 also the sire of Cade, own brother to Lath, and of Regulus the maternal
-grandsire of Eclipse. He died at Gogmagog in Cambridgeshire, in the
+grandsire of [[Eclipse]]. He died at Gogmagog in [[Cambridgeshire]], in the
 possession of Lord Godolphin, in 1753, being then, as is supposed, in
-his twenty-ninth year. He is believed to have been foaled in Barbary
+his twenty-ninth year. He is believed to have been foaled in [[Barbary]]
 about 1724, and to have been imported during the reign of George II.
 
 In regard to the mares generally, we have a record of the royal mares
@@ -1110,13 +1110,13 @@ stride which characterized the English race-horse, while his powers of
 endurance and elegant shape were no doubt inherited from the Eastern
 horses, most of which were of a low stature, 14 hands or thereabouts. It
 is only necessary to trace carefully back the pedigree of most of the
-famous horses of early times to discover faults on the side of the
+famous horses of early times to discover [[Fault|faults]] on the side of the
 dam--that is to say, the expression "dam's pedigree unknown," which
 evidently means of original or native blood. Whatever therefore may be
 owing to Eastern blood, of which from the middle of the 17th to the
 beginning of the 18th century a complete wave swept over the British
-Isles, some credit is unquestionably due to the native mares (which
-Blaine says were mostly Cleveland bays) upon which the Arabian, Barb, or
+Isles, some [[Credit|credit]] is unquestionably due to the native mares (which
+Blaine says were mostly [[Cleveland]] bays) upon which the Arabian, Barb, or
 Turk blood was grafted, and which laid the foundation of the modern
 thoroughbred. Other nations may have furnished the blood, but England
 has made the race-horse.
@@ -1126,17 +1126,17 @@ follow out the lines of the Darley Arabian, the Byerly Turk, and the
 Godolphin Arabian or Barb, the main ancestors of the British
 thoroughbred of the 18th and 19th centuries, through several famous
 race-horses, each and all brilliant winners,--Flying Childers, Eclipse,
-Herod and Matchem,--to whom it is considered sufficient to look as the
+[[Herod]] and Matchem,--to whom it is considered sufficient to look as the
 great progenitors of the race-horse of to-day.
 
   1. The Darley Arabian's line is represented in a twofold
   degree--first, through his son Flying Childers, his grandsons Blaze
   and Snip, and his great-grandson Snap, and, secondly, through his
   other son Bartlett's Childers and his great-great-grandson Eclipse.
-  Flying or Devonshire Childers, so called to distinguish him from other
+  Flying or [[Devonshire]] Childers, so called to distinguish him from other
   horses of the same name, was a bay horse of entirely Eastern blood,
   with a blaze in his face and four white feet, foaled in 1715. He was
-  bred by Mr Leonard Childers of Carr House near Doncaster, and was
+  bred by Mr Leonard Childers of Carr House near [[Doncaster]], and was
   purchased when young by the duke of Devonshire. He was got by the
   Darley Arabian from Betty Leedes, by Careless from sister to Leedes,
   by Leedes's Arabian from a mare by Spanker out of a Barb mare, who was
@@ -1154,7 +1154,7 @@ great progenitors of the race-horse of to-day.
 
   The other representative line of the Darley Arabian is through
   Bartlett's Childers, also bred by Mr Leonard Childers, and sold to Mr
-  Bartlett of Masham, in Yorkshire. He was for several years called
+  Bartlett of [[Masham]], in Yorkshire. He was for several years called
   Young Childers,--it being generally supposed that he was a younger
   brother of his Flying namesake, but his date of birth is not on
   record,--and subsequently Bartlett's Childers. This horse, who was
@@ -1203,7 +1203,7 @@ great progenitors of the race-horse of to-day.
   Trumpator was a son of Conductor, who was by Matchem out of a mare by
   Snap.
 
-  Whalebone's best sons were Camel (1822) and Sir Hercules (1826). Camel
+  Whalebone's best sons were Camel (1822) and Sir [[Hercules]] (1826). Camel
   was the sire of Defence (1824) and Touchstone (1831), while Sir
   Hercules was the sire of Birdcatcher (1833) and Faugh-a-Ballagh
   (1841), own brothers, and of Gemma di Vergy (1854). Touchstone was the
@@ -1214,22 +1214,22 @@ great progenitors of the race-horse of to-day.
   and by Economist (1825) and his son Harkaway (1834), sire of King Tom
   (1851). Birdcatcher begat, besides Saunterer (1854), the Baron (1842),
   sire of Stockwell (1849) and of Rataplan (1850). Stockwell, who was a
-  chestnut with black spots, was the sire of Blair Athol (1861), a
+  chestnut with black spots, was the sire of [[Blair]] Athol (1861), a
   chestnut, and also of Doncaster (1870), another chestnut, but with the
   characteristic black spots of his grandsire; and Doncaster was the
-  sire of the chestnut Bend Or (1877).
+  sire of the chestnut [[Bend]] Or (1877).
 
   To turn to Eclipse's other sons. King Fergus (1775) was the sire of
   Beningbrough (1791), whose son was Orville (1799), whence comes some
   of the stoutest blood on the turf, including Emilius (1820) and his
-  son Priam (1827), Plenipotentiary (1831), Muley (1810), Chesterfield
-  (1834), and the Hero (1843). Joe Andrews (1778) was the sire of Dick
+  son Priam (1827), Plenipotentiary (1831), Muley (1810), [[Chesterfield]]
+  (1834), and the Hero (1843). Joe Andrews (1778) was the sire of [[Dick]]
   Andrews (1797), and from him descend Tramp (1810), Lottery (1820),
-  Liverpool (1828), Sheet Anchor (1832), Lanercost (1835), Weatherbit
+  [[Liverpool]] (1828), Sheet Anchor (1832), Lanercost (1835), Weatherbit
   (1842), Beadsman (1855), and Blue Gown (1865). Mercury was sire of
   Gohanna (1790), who was foaled in the same year as Waxy, and the two,
   who were both grandsons of Eclipse and both out of Herod mares, had
-  several contests, Waxy generally getting the better of his cousin.
+  several contests, Waxy generally getting the better of his [[Cousin|cousin]].
   Gohanna's descendants come down through Golumpus (1802), Catton
   (1809), Mulatto (1823), Royal Oak (1823), and Slane (1833).
 
@@ -1238,7 +1238,7 @@ great progenitors of the race-horse of to-day.
   (1743) begat King Herod, or Herod as he was commonly called, foaled in
   1758. Herod's dam was Cypron (1750) by Blaze (1733), son of Flying
   Childers. Cypron's dam was Selima by Bethel's Arabian from a mare by
-  Graham's Champion from a daughter of the Darley Arabian and a mare who
+  Graham's [[Champion]] from a daughter of the Darley Arabian and a mare who
   claims Merlin for her sire, but whose mother's pedigree is unknown. In
   Herod's pedigree there are fully a dozen dams whose pedigree is
   unknown. Herod was a bay horse about 15 hands 3 inches high, possessed
@@ -1251,7 +1251,7 @@ great progenitors of the race-horse of to-day.
   other progeny left two famous sons, Woodpecker (1773), whose dam was
   Miss Ramsden (1760) by Cade, son of the Godolphin Barb, but descended
   also on the dam's side from the Darley Arabian and the Byerly Turk,
-  and Highflyer (1774), whose dam was Rachel (1763) by Blank, son of the
+  and Highflyer (1774), whose dam was Rachel (1763) by [[Blank]], son of the
   Godolphin Barb from a daughter of Regulus, also son of the Godolphin.
   These two horses have transmitted Herod's qualities down to the
   present day in the direct male line, although in the female line he is
@@ -1263,7 +1263,7 @@ great progenitors of the race-horse of to-day.
   Alexander (1782) out of a mare by Highflyer (son of Herod) out of a
   daughter of Alfred, by Matchem out of a daughter of Snap. Bustard
   (1813), whose dam was a daughter of Shuttle, and his son Heron (1833),
-  Sultan (1816) and his sons Glencoe (1831) and Bay Middleton (1833) and
+  Sultan (1816) and his sons [[Glencoe]] (1831) and Bay Middleton (1833) and
   Middleton's sons Cowl (1842) and the Flying Dutchman (1846), Pantaloon
   (1824) and his son Windhound (1847), Langar (1817) and his son Epirus
   (1834) and grandson Pyrrhus the First (1843), are representatives of
@@ -1272,12 +1272,12 @@ great progenitors of the race-horse of to-day.
   Highflyer is represented through his greatly esteemed son Sir Peter
   Teazle, commonly called Sir Peter (1784), whose dam was Papillon by
   Snap. Sir Peter had five sons at the stud, Walton (1790), Stamford
-  (1794), and Sir Paul (1802) being the chief. Paulowitz (1813), Cain
-  (1822), Ion (1835), Wild Dayrell (1852), and his son Buccaneer (1857)
+  (1794), and Sir Paul (1802) being the chief. Paulowitz (1813), [[Cain]]
+  (1822), [[Ion]] (1835), Wild Dayrell (1852), and his son Buccaneer (1857)
   bring down Sir Paul's blood; whilst Walton is represented through
   Phantom (1806), Partisan (1811) and his sons Glaucus (1829) and
   Venison (1833) and Gladiator (1833), Venison's sons Alarm (1842) and
-  Kingston (1849), Gladiator's son Sweetmeat (1842), Sweetmeat's sons
+  [[Kingston]] (1849), Gladiator's son Sweetmeat (1842), Sweetmeat's sons
   Macaroni (1860) and Parmesan (1857), and Parmesan's sons Favonius
   (1868) and Cremorne (1869). It may be added that in the first volume
   of the _Stud-Book_ there are nearly a hundred Herod and Highflyer
@@ -1289,7 +1289,7 @@ great progenitors of the race-horse of to-day.
   Turk, and sixteen years before Eclipse, though long subsequent to
   Flying Childers, who represent the Darley Arabian. Matchem was a brown
   bay horse with some white on his off hind heel, about 15 hands high,
-  bred by Sir John Holme of Carlisle, and sold to Mr W. Fenwick of
+  bred by Sir John Holme of Carlisle, and sold to Mr W. [[Fenwick]] of
   Bywell, Northumberland. His dam was sister to Miss Partner (1735) by
   Partner out of Brown Farewell by Makeless (son of the Oglethorpe
   Arabian) from a daughter of Brimmer out of Trumpet's dam, by Place's
@@ -1301,7 +1301,7 @@ great progenitors of the race-horse of to-day.
   best son was Conductor (1767) out of a mare by Snap; Conductor was the
   sire of Trumpator (1782), whose two sons, Sorcerer (1790) and Paynator
   (1791), transmit the blood of the Godolphin down to modern times.
-  Sorcerer was the sire of Soothsayer (1808), Comus (1809), and
+  Sorcerer was the sire of Soothsayer (1808), [[Comus]] (1809), and
   Smolensko (1810). Comus was the sire of Humphrey Clinker (1822), whose
   son was Melbourne (1834), sire of West Australian (1850) and of many
   valuable mares, including Canezou (1845) and Blink Bonny (1854), dam
@@ -1326,7 +1326,7 @@ haphazard plan, or on no system at all; to this the _Stud-Book_
 testifies too plainly. In the article HORSE-RACING mention is made of
 some of the great horses of recent years; but the following list of the
 principal sires of earlier days indicates also how their progeny found a
-place among the winners of the three great races, the Derby (D), Oaks
+place among the winners of the three great races, the [[Derby]] (D), Oaks
 (O), and St Leger (L):--
 
   _Eclipse_: Young Eclipse (D), Saltram (D), Sergeant (D), Annette (O).
@@ -1343,7 +1343,7 @@ place among the winners of the three great races, the Derby (D), Oaks
 
   _Pot-8-os_: Waxy (D), Champion (D, L), Tyrant (D), Nightshade (O).
 
-  _Sir Peter_ (D): Sir Harry (D), Archduke (D), Ditto (D), Paris (D),
+  _Sir Peter_ (D): Sir Harry (D), Archduke (D), [[Ditto]] (D), Paris (D),
   Hermione (O), Parasite (O), Ambrosio (L), Fyldener (L), Paulina (L),
   Petronius (L).
 
@@ -1360,18 +1360,18 @@ place among the winners of the three great races, the Derby (D), Oaks
 
   _Orville_ (L): Octavius (D), Emilius (D), Ebor (L).
 
-  _Tramp_: St Giles (D), Dangerous (D), Barefoot (L).
+  _Tramp_: St [[Giles]] (D), Dangerous (D), Barefoot (L).
 
   _Emilius_ (D): Priam (D), Plenipotentiary (D), Oxygen (O), Mango (L).
 
   _Priam_ (D): Miss Seltz (O), Industry (O), Crucifix (O).
 
-  _Sir Hercules_: Coronation (D), Faugh-a-Ballagh (L), Birdcatcher (L).
+  _Sir Hercules_: [[Coronation]] (D), Faugh-a-Ballagh (L), Birdcatcher (L).
 
   _Touchstone_ (L): Cotherstone (D), Orlando (D), Surplice (D, L),
   Mendicant (O), Blue Bonnet (L), Newminster (L).
 
-  _Birdcatcher_ (L): Daniel O'Rourke (D), Songstress (O), Knight of St
+  _Birdcatcher_ (L): [[Daniel]] O'Rourke (D), Songstress (O), [[Knight]] of St
   George (L), Warlock (L), The Baron (L).
 
   _The Baron_ (L): Stockwell (L).
@@ -1400,15 +1400,15 @@ place among the winners of the three great races, the Derby (D), Oaks
   _Lord Clifden_ (L): Jannette (O, L), Hawthornden (L), Wenlock (L),
   Petrarch (L).
 
-  _Adventurer_: Pretender (D), Apology (O, L), Wheel of Fortune (O).
+  _Adventurer_: Pretender (D), [[Apology]] (O, L), Wheel of Fortune (O).
 
-  _Blair Athol_ (D, L): Silvio (D, L), Craig Millar (L).
+  _Blair Athol_ (D, L): Silvio (D, L), [[Craig]] Millar (L).
 
 In regard to mares it has very frequently turned out that animals which
 were brilliant public performers have been far less successful as dams
 than others which were comparatively valueless as runners. Beeswing, a
 brilliant public performer, gave birth to a good horse in Newminster;
-the same may be said of Alice Hawthorn, dam of Thormanby, of Canezou,
+the same may be said of Alice [[Hawthorn]], dam of Thormanby, of Canezou,
 dam of Fazzoletto, of Crucifix, dam of Surplice, and of Blink Bonny, dam
 of Blair Athol; but many of the greatest winners have dropped nothing
 worth training. On the other hand, there are mares of little or no value
@@ -1421,10 +1421,10 @@ Mango and Lanercost she produced Haricot, dam of Caller Ou (winner of
 the St Leger). Pocahontas, perhaps the most remarkable mare in the
 _Stud-Book_, never won a race on the turf, but threw Stockwell and
 Rataplan to the Baron, son of Birdcatcher, King Tom to Harkaway, Knight
-of St Patrick to Knight of St George, and Knight of Kars to Nutwith--all
+of St Patrick to Knight of St George, and Knight of [[Kars]] to Nutwith--all
 these horses being 16 hands high and upwards, while Pocahontas was a
 long low mare of about 15 hands or a trifle more. She also gave birth to
-Ayacanora by Birdcatcher, and to Araucaria by Ambrose, both very
+Ayacanora by Birdcatcher, and to [[Araucaria]] by Ambrose, both very
 valuable brood mares, Araucaria being the dam of Chamant by Mortemer,
 and of Rayon d'Or by Flageolet, son of Plutus by Touchstone. Paradigm
 again produced, among several winners of more or less celebrity, Lord
@@ -1460,14 +1460,14 @@ Eleanor and Blink Bonny won the Oaks as well as the Derby.
                              |             |             /Economist   <                     \Penelope (1798)
                              |             |             |   (1825)    \Floranthe (1818)    /Octavian (1807)
                              |             |Echidna     <                                   \Caprice (1797)
-                             |             \  (1838)     |             /Blacklock (1814)    /Whitelock (1803)
+                             |             \  (1838)     |             /[[Blacklock]] (1814)    /Whitelock (1803)
                              |                           |Miss Pratt  <                     \Coriander mare (1799)
                              |                           \  (1825)     \Gadabout (1812)     /Orville[++] (1709)
               /Stockwell[++]<                                                               \Minstrel (1803)
               |(1849)        |                                         /Selim (1802)        /Buzzard (1787)
               |              |                           /Sultan      <                     \Alexander mare (1790)
               |              |                           |  (1816)     \Bacchante (1809)    /Williamson's Ditto (1800)
-              |              |             /Glencoe     <                                   \Sister to Calomel (1791)
+              |              |             /Glencoe     <                                   \Sister to [[Calomel]] (1791)
               |              |             | (1831)      |             /Tramp (1810)        /Dick Andrews (1797)
               |              |             |             |Trampoline  <                     \Gohanna mare
               |              |             |             \  (1825)     \Web (1808)          /Waxy* (1790)
@@ -1477,12 +1477,12 @@ Eleanor and Blink Bonny won the Oaks as well as the Derby.
               |                            |             |  (1810)     \Eleanor*[++] (1798) /Whiskey (1789)
               |                            |Marpessa    <                                   \Young Giantess (1790)
               |                            \  (1830)     |             /Marmion (1806)      /Whiskey (1789)
-              |                                          |Clare       <                     \Young Noisette (1789)
+              |                                          |[[Clare]]       <                     \Young Noisette (1789)
               |                                          \  (1824)     \Harpalice (1814)    /Gohanna (1790)
   Blair       |                                                                             \Amazon (1799)
   Athol*[++] <                                                         /Sorcerer (1796)     /Trumpator (1782)
   (1861)      |                                          /Comus       <                     \Young Giantess (1790)
-              |                                          |  (1809)     \Houghton Lass (1801)/Sir Peter* (1784)
+              |                                          |  (1809)     \[[Houghton]] Lass (1801)/Sir Peter* (1784)
               |                            /Humphrey    <                                   \Alexina (1788)
               |                            | Clinker     |             /Clinker (1805)      /Sir Peter* (1784)
               |                            |  (1822)     |Clinkerina  <                     \Hyale (1797)
@@ -1503,7 +1503,7 @@ Eleanor and Blink Bonny won the Oaks as well as the Derby.
                               |            |  (1833)     |             /Moses* (1819)       /Whalebone* by Waxy* (1807)
                               |            |             |Pauline     <                     \Gohanna mare
                               |            |             \  (1826)     \Quadrille (1815)    /Selim (1802)
-                              |Queen Mary <                                                 \Canary Bird (1806)
+                              |Queen Mary <                                                 \[[Canary]] Bird (1806)
                               \(1843)      |                           /Emilius* (1820)     /Orville[++] (1799)
                                            |             /Plenipote-  <                     \Emily (1810)
                                            |             | ntiary*     \Harriett (1819)     /Pericles (1809)
@@ -1542,9 +1542,9 @@ the upper and lower arms should be long and muscular; the knees broad
 and strong; legs short, flat and broad; fetlock joints large; pasterns
 strong and of moderate length; the feet should be moderately large, with
 the heels open and frogs sound--with no signs of contraction. The body
-or barrel should be moderately deep, long and straight, the length being
+or [[Barrel|barrel]] should be moderately deep, long and straight, the length being
 really in the shoulders and in the quarters; the back should be strong
-and muscular, with the shoulders and loins running well in at each end;
+and muscular, with the shoulders and [[Loin|loins]] running well in at each end;
 the loins themselves should have great breadth and substance, this being
 a vital necessity for weight-carrying and propelling power uphill. The
 hips should be long and wide, with the stifle and thigh strong, long and
@@ -1566,7 +1566,7 @@ detail, and then if a good judge can discover no fault with any part,
 but finds each of good proportions, and the whole to harmonize without
 defect, deformity or deficiency, he has before him a well-shaped horse;
 and of two equally well-made and equitably proportioned horses the best
-bred one will be the best. As regards hue, the favourite colour of the
+bred one will be the best. As regards [[Hue|hue]], the favourite colour of the
 ancients, according to Xenophon, was bay, and for a long time it was the
 fashionable colour in England; but for some time chestnut thoroughbreds
 have been the most conspicuous figure on English race-courses, so far as
@@ -1656,7 +1656,7 @@ true. The thoroughbred is apt to be nervous and excitable, and impatient
 of common work, but its speed, resolution and endurance, as tested on
 the race-course, are beyond praise.
 
-Many of the best hunters in the United Kingdom are thoroughbreds, but of
+Many of the best [[Hunter|hunters]] in the United Kingdom are thoroughbreds, but of
 the substantial weight-carrying type. The Hunters Improvement Society,
 established in 1885, did not restrict entries to the _Hunters'
 Stud-Book_ to entirely clean-bred animals, but admitted those with
@@ -1706,9 +1706,9 @@ trotting hackney stallion, of the modern type, was a horse foaled about
 1755, and known as the Schales, Shields or Shales horse, and most of the
 recognized hackneys of to-day trace back to him. The breeding of
 hackneys is extensively pursued in the counties of Norfolk, Cambridge,
-Huntingdon, Lincoln and York, and in the showyard competitions a keen
+Huntingdon, [[Lincoln]] and York, and in the showyard competitions a keen
 but friendly rivalry is usually to be noticed between the
-hackney-breeding farmers of Norfolk and Yorkshire. The high hackney
+hackney-breeding [[Farmer|farmers]] of Norfolk and Yorkshire. The high hackney
 action is uncomfortable in a riding horse. Excellent results have
 sometimes followed the use of hackney sires upon half-bred mares, i.e.
 by thoroughbred stallions and trotting mares, but it is not always so.
@@ -1767,7 +1767,7 @@ to rapid turning. One object of the pony breeder, while maintaining
 hardiness of constitution, is to control size--to compress the most
 valuable qualities into small compass. He endeavours to breed an animal
 possessing a small head, good shoulders, true action and perfect
-manners. A combination of the best points of the hunter with the style
+[[Manners|manners]]. A combination of the best points of the hunter with the style
 and finish of the hackney produces a class of weight-carrying pony which
 is always saleable.
 
@@ -1787,7 +1787,7 @@ their immense size and weight--1800 lb. to 2200 lb.--the Shires combine
 great strength, and they are withal docile and intelligent. They stand
 on short stout legs, with a plentiful covering--sometimes too
 abundant--of long hair extending chiefly down the back but also round
-the front of the limbs from knees and hocks, and when in full feather
+the front of the limbs from knees and hocks, and when in full [[Feather|feather]]
 obscuring nearly the whole of the hoofs. The head is a good size, and
 broad between the eyes; the neck fairly long, with the crest well arched
 on to the shoulders, which are deep and strong, and moderately oblique.
@@ -1809,7 +1809,7 @@ not so abundant as in the Shires, and it is finer in texture. It is
 regarded as an indication of good bone. The bones of the legs should be
 short, flat, clean and hard; the feet large, with hoofs deep and concave
 below. With its symmetry, activity, strength and endurance the
-Clydesdale is easily broken to harness, and makes an excellent draught
+Clydesdale is easily broken to [[Harness|harness]], and makes an excellent draught
 horse. This breed is growing rapidly in favour in Canada, but in the
 United States the _Percheron_, with its round bone and short pasterns,
 holds the field. A blend of the Shire and Clydesdale strains of the
@@ -1878,7 +1878,7 @@ and round, almost upon his own ground." The more strenuous his
 resistance the sooner he yields to the inevitable force applied by
 himself. A wooden pole, the "third hand," is then gently applied to all
 parts of the body until kicking or any form of resistance ceases.
-"Bitting" or "mouthing," or the familiarizing of an animal to the bit in
+"Bitting" or "mouthing," or the familiarizing of an animal to the [[Bit|bit]] in
 his mouth, and to answer to the rein without bending his neck, is still
 a necessity with the galvayning method of breaking. Experience can only
 be gained by a horse continuing during a considerable time to practise
@@ -1905,19 +1905,19 @@ _Feeding._--Horses have small stomachs relatively to ruminating animals,
 and require small quantities of food frequently. While grazing they feed
 almost continually, preferring short pasture. No stable food for quick
 work surpasses a superior sample of fine-hulled whole oats like
-"Garton's Abundance" (120 lb. per week), and Timothy hay harvested in
+"Garton's Abundance" (120 lb. per week), and Timothy [[Hay|hay]] harvested in
 dry weather. The unbruised oats develop a spirit and courage in either a
 saddle or harness horse that no other food can. A double handful of
-clean chaff, or of bran mixed with the oats in the manger, prevents a
+clean [[Chaff|chaff]], or of bran mixed with the oats in the manger, prevents a
 greedy horse from swallowing a considerable proportion whole. Unchewed
 oats pass out in the faeces uninjured, so that they are capable of
 germination, and are of less than no value to a horse. Horses doing slow
 or other than "upper ten" work may have oats crushed, not ground, and a
 variety of additions made to the oats which are usually the basis of the
-feed--for example, a few old crushed beans, a little linseed meal,
+feed--for example, a few old crushed [[Bean|beans]], a little linseed meal,
 ground linseed cake or about a wine-glassful of unboiled linseed oil.
 Indian pulses are to be avoided on account of the danger of Lathyrus
-poisoning. A seasoning of ground fenugreek or spice is sometimes given
+poisoning. A seasoning of ground [[Fenugreek|fenugreek]] or spice is sometimes given
 to shy feeders to encourage them to eat. A little sugar or molascuit
 added to the food will sometimes serve the same purpose. Newly crushed
 barley or cracked maize, even in considerable proportion to the rest of
@@ -1936,8 +1936,8 @@ sometimes given as part of the roughage in Scotland, but not in England.
 In England hunters and carriage horses are generally fed on natural hay,
 in Scotland on Timothy, largely imported from Canada, or ryegrass hay
 that has not been grown with nitrate of soda. Heavily nitrated hay is
-reputed to produce excessive urination and irritation of the bladder.
-Pease straw, if not sandy, and good bright oat straw are good fodder for
+reputed to produce excessive urination and irritation of the [[Bladder|bladder]].
+Pease straw, if not sandy, and good [[Bright|bright]] oat straw are good fodder for
 horses; but with barley and wheat straw, in the case of a horse, more
 energy is consumed during its passage through the alimentary canal than
 the digested straw yields. Three or four Swedish turnips or an
@@ -1950,7 +1950,7 @@ any dry food.
 When a horse has been overstrained by work the best remedy is a long
 rest at pasture, and, if it be lame or weak in the limbs, the winter
 season is most conducive to recovery. The horse becomes low in condition
-and moves about quietly, and the frost tends to brace up the limbs. In
+and moves about quietly, and the [[Frost|frost]] tends to brace up the limbs. In
 autumn all horses that have been grazing should be dosed with some
 vermifuge to destroy the worms that are invariably present, and thus
 prevent colic or an unthrifty or anaemic state. On a long journey a
@@ -1979,7 +1979,7 @@ to drop seeds into a horse's eye.
   Bruce Low, _Breeding Racehorses by the Figure System_ (1895); J. H.
   Wallace, _The Horse of America in his Derivation, &c._ (1897);
   Weatherly's _Celebrated Racehorses_ (1887); Ruff's _Guide to the
-  Turf_; T. A. Cook, _History of the English Turf_ (1903); _The General
+  Turf_; T. A. [[Cook]], _History of the English Turf_ (1903); _The General
   Stud-Book_ (issued quinquennially); and the _Stud-Books_ of the
   various breed societies.     (R. W.)
 
@@ -1988,21 +1988,21 @@ FOOTNOTES:
 
   [1] Compare Sans, _acva_, Zendish and Old Persian _acpa_, Lithuanian
     _aszva_ (mare), Prussian _asvinan_ (mare's milk), O.H. Ger. _ehu_,
-    A.S. _eoh_, Icel. _ior_, Gothic _aihos_, _aihous_ (?), Old Irish
+    A.S. _eoh_, Icel. _ior_, [[Gothic]] _aihos_, _aihous_ (?), Old Irish
     _ech_, Old Cambrian and Gaelic _ep_ (as in _Epona_, the horse
     goddess), Lat. _equus_, Gr. [Greek: hippos] or [Greek: ikkos]. The
     word seems, however, to have disappeared from the Slavonic languages.
     The root is probably _ak_, with the idea of sharpness or swiftness
     ([Greek: akros, okus], _acus_, _ocior_). See Pott, _Etym. Forsch_,
     ii. 256, and Hehn, _Kulturpflanzen u. Hausthiere in ihrem Ueber gang
-    aus Asien nach Griechenland u. Italien sowie in das ubrige Europa_
+    aus Asien nach Griechenland u. Italien sowie in das ubrige [[Europa]]_
     (3rd ed., 1877), p. 38. The last-named author, who points out the
     absence of the horse from the Egyptian monuments prior to the
     beginning of the 18th century B.C., and the fact that the earliest
     references to this animal in Hebrew literature (Judges v. 22, 28; cf.
     Josh, xi. 4) do not carry us any farther back, is of opinion that the
     Semitic peoples as a whole were indebted for the horse to the lands
-    of Iran. He also shows that literature affords no trace of the horse
+    of [[Iran]]. He also shows that literature affords no trace of the horse
     as indigenous to Arabia prior to about the beginning of the 5th
     century A.D., although references abound in the pre-Islamitic poetry.
     Horses were not numerous even in Mahomet's time (Sprenger, _Leb.
@@ -2012,7 +2012,7 @@ FOOTNOTES:
     Influence of the Thoroughbred Horse_ (1905), reinvestigated the
     historical mystery as to the Arab breed, and its connexion with the
     English thoroughbred stock, but his conclusions have been hotly
-    controverted; archaeology and biology are in fact still in the dark
+    controverted; [[Archaeology|archaeology]] and [[Biology|biology]] are in fact still in the dark
     on the subject, but see the section on "Species" above. According to
     Ridgeway, the original source of the finest equine blood is Africa,
     still the home of the largest variety of wild Equidae; he concludes

@@ -9,17 +9,17 @@ id: 42-2047
 # Lashio
 
 LASHIO, the headquarters of the superintendent, northern Shan States,
-Burma, situated in 22° 56´ N. and 97° 45´ E. at an altitude of 3100 ft.,
+[[Burma]], situated in 22° 56´ N. and 97° 45´ E. at an altitude of 3100 ft.,
 on a low spur overlooking the valley of the Nam Yao. It is the present
-terminus of the Mandalay-Kun Long railway and of the government cart
+terminus of the Mandalay-Kun Long railway and of the government [[Cart|cart]]
 road from Mandalay, from which it is 178 m. distant. It consists of the
 European station, with court house and quarters for the civil officers;
-the military police post, the headquarters of the Lashio battalion of
+the military police post, the headquarters of the Lashio [[Battalion|battalion]] of
 military police; the native station, in which the various nationalities,
 Shans, Burmans, Hindus and Mahommedans, are divided into separate
 quarters, with reserves for government servants and for the temporary
 residences of the five sawbwas of the northern Shan States; and a
-bazaar. Under Burmese rule Lashio was also the centre of authority for
+[[Bazaar|bazaar]]. Under Burmese rule Lashio was also the centre of authority for
 the northern Shan States, but the Burmese post in the valley was close
 to the Nam Yao, in an old Chinese fortified camp. The Lashio valley was
 formerly very populous; but a rebellion, started by the sawbwa of

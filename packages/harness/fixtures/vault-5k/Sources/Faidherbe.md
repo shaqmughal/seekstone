@@ -34,7 +34,7 @@ rule had been firmly established over a very considerable and fertile
 area and the foundation laid upon which his successors built up the
 predominant position occupied now by France in West Africa. In 1863 he
 became general of brigade. From 1867 to the early part of 1870 he
-commanded the subdivision of Bona in Algeria, and was commanding the
+commanded the subdivision of [[Bona]] in Algeria, and was commanding the
 Constantine division at the commencement of the Franco-German War.
 Promoted general of division in November 1870, he was on the 3rd of
 December appointed by the Government of National Defence to be
@@ -55,7 +55,7 @@ he wrote numerous works, among which may be mentioned _Collection des
 inscriptions numidiques_ (1870), _Épigraphie phénicienne_ (1873), _Essai
 sur la langue poul_ (1875), and _Le Zénaga des tribes sénégalaises_
 (1877), the last a study of the Berber language. He also wrote on the
-geography and history of Senegal and the Sahara, and _La Campagne de
+[[Geography|geography]] and history of Senegal and the Sahara, and _La Campagne de
 l'armée du Nord_ (1872). He was elected a senator in 1879, and, in spite
 of failing health, continued to the last a close student of his
 favourite subjects. He died on the 29th of September 1889, and received

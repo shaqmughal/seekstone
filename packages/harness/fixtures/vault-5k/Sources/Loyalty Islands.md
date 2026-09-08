@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Loyalty_Is
 # Loyalty Islands
 
 LOYALTY ISLANDS (Fr. _Iles Loyalty_ or _Loyauté_), a group in the South
-Pacific Ocean belonging to France, about 100 m. E. of New Caledonia,
+Pacific Ocean belonging to France, about 100 m. E. of New [[Caledonia]],
 with a total land area of about 1050 sq. m. and 20,000 inhabitants. It
 consists of Uea or Uvea (the northernmost), Lifu (the largest island,
 with an area of 650 sq. m.), Tiga and several small islands and Maré or
@@ -27,7 +27,7 @@ bananas; the chief export sandal-wood.
 The Loyalty islanders are Melanesians; the several islands have each its
 separate language, and in Uea one tribe uses a Samoan and another a New
 Hebridean form of speech. The Loyalty group was discovered at the
-beginning of the 19th century, and Dumont d'Urville laid down the
+beginning of the 19th century, and [[Dumont D'Urville|Dumont d'Urville]] laid down the
 several islands in his chart. For many years the natives had a
 reputation as dangerous cannibals, but they are now among the most
 civilized Melanesians. Christianity was introduced into Maré by native

@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lahr"
 LAHR, a town in the grand-duchy of Baden, on the Schutter, about 9 m. S.
 of Offenburg, and on the railway Dinglingen-Lahr. Pop. (1900) 13,577.
 One of the busiest towns in Baden, it carries on manufactures of tobacco
-and cigars, woollen goods, chicory, leather, pasteboard, hats and
+and [[Cigar|cigars]], woollen goods, chicory, leather, pasteboard, hats and
 numerous other articles, has considerable trade in wine, while among its
 other industries are printing and lithography. Lahr first appears as a
 town in 1278, and after several vicissitudes it passed wholly to Baden

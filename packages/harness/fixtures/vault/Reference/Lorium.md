@@ -7,7 +7,7 @@ type: source
 
 # Lorium
 
-LORIUM, an ancient village of Etruria, Italy, on the Via Aurelia, 12 m.
+LORIUM, an ancient village of Etruria, Italy, on the Via [[Aurelia]], 12 m.
 W. of Rome. Antoninus Pius, who was educated here, afterwards built a
 palace, in which he died. It was also a favourite haunt of Marcus
 Aurelius. Remains of ancient buildings exist in the neighbourhood of the
@@ -22,7 +22,7 @@ road.
 
 
 LÖRRACH, a town in the grand-duchy of Baden, in the valley of the Wiese,
-6 m. by rail N.E. of Basel. Pop. (1905) 10,794. It is the seat of
+6 m. by rail N.E. of [[Basel]]. Pop. (1905) 10,794. It is the seat of
 considerable industry, its manufactures including calico, shawls, cloth,
 silk, chocolate, cotton, ribbons, hardware and furniture, and has a
 trade in wine, fruit and timber. There is a fine view from the

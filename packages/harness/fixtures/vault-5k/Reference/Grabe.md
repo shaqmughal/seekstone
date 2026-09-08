@@ -12,7 +12,7 @@ commission of Lutheran divines pointed out flaws in his written argument
 and called his attention to the English Church as apparently possessing
 that apostolic succession and manifesting that fidelity to ancient
 institutions which he desired. He came to England, settled in Oxford,
-was ordained in 1700, and became chaplain of Christ Church. His
+was ordained in 1700, and became [[Chaplain|chaplain]] of Christ Church. His
 inclination was towards the party of the nonjurors. The learned labours
 to which the remainder of his life was devoted were rewarded with an
 Oxford degree and a royal pension. He died on the 3rd of November 1711,
@@ -21,7 +21,7 @@ Oxford, in Westminster Abbey. He was buried in St Pancras Church,
 London.
 
   Some account of Grabe's life is given in R. Nelson's _Life of George
-  Bull_, and by George Hickes in a discourse prefixed to the pamphlet
+  [[Bull]]_, and by George Hickes in a discourse prefixed to the pamphlet
   against W. Whiston's _Collection of Testimonies against the True_
   _Deity of the Son and of the Holy Ghost_. His works, which show him
   to have been learned and laborious but somewhat deficient in critical
@@ -30,7 +30,7 @@ London.
   the Christian church, but was not continued beyond the close of the
   second. A second edition of this work was published in 1714. He
   brought out an edition of Justin Martyr's _Apologia prima_ (1700), of
-  Irenaeus, _Adversus omnes haereses_ (1702), of the Septuagint, and of
+  [[Irenaeus]], _Adversus omnes haereses_ (1702), of the Septuagint, and of
   Bishop Bull's Latin works (1703). His edition of the Septuagint was
   based on the _Codex Alexandrinus_; it appeared in 4 volumes
   (1707-1720), and was completed by Francis Lee and by George Wigan.

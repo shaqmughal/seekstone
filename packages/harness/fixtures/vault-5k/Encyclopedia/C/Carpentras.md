@@ -7,12 +7,12 @@ topic: zoology
 # Carpentras
 
 CARPENTRAS, a town of south-eastern France, capital of an arrondissement
-in the department of Vaucluse 16 m. N.E. of Avignon by rail. Pop. (1906)
-town, 7775; commune, 10,721. The town stands on the left bank of the
+in the department of Vaucluse 16 m. N.E. of [[Avignon]] by rail. Pop. (1906)
+town, 7775; [[Commune|commune]], 10,721. The town stands on the left bank of the
 Auzon on an eminence, the summit of which is occupied by the church of
 St Siffrein, formerly a cathedral, and the adjoining law-court. St
 Siffrein, in its existing state, dates from the 15th and 16th centuries
-and is Gothic in style, but it preserves remains of a previous church of
+and is [[Gothic]] in style, but it preserves remains of a previous church of
 Romanesque architecture. The rich sculpture of the southern portal and
 the relics and works of art in the interior are of some interest. The
 law-court, built in 1640 as the bishop's palace, contains in its
@@ -23,10 +23,10 @@ founder, Malachie d'Inguimbert, bishop of Carpentras; and the former
 palace of the papal legate, which dates from 1640. Of the old
 fortifications the only survival is the Porte d'Orange, a gateway
 surmounted by a fine machicolated tower. Their site is now occupied by
-wide boulevards shaded by plane-trees. Water is brought to the town by
+wide [[Boulevard|boulevards]] shaded by plane-trees. Water is brought to the town by
 an aqueduct of forty-eight arches, completed in 1734.
 
-Carpentras is the seat of a sub-prefect and of a court of assizes, and
+Carpentras is the seat of a sub-prefect and of a court of [[Assize|assizes]], and
 has a tribunal of first instance, communal college for girls and boys, a
 large library and a museum. Felt hats, confectionery, preserved fruits
 and nails are its industrial products, and there are silk-works,

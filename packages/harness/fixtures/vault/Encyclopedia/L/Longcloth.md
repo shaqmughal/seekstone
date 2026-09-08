@@ -3,7 +3,7 @@
 LONGCLOTH, a plain cotton cloth originally made in comparatively long
 pieces. The name was applied particularly to cloth made in India.
 Longcloth, which is now commonly bleached, comprehends a number of
-various qualities. It is heavier than cambric, and finer than medium or
+various qualities. It is heavier than [[Cambric|cambric]], and finer than medium or
 Mexican. As it is used principally for underclothing and shirts, most of
 the longcloth sold in Great Britain passes through the hands of the
 shirt and underclothing manufacturers, who sell to the shopkeepers,

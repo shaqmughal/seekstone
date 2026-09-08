@@ -11,7 +11,7 @@ the _mensis paschalis_, "when the old festival was observed with the
 gladness of a new solemnity."
 
 The name of the festival in other languages (as Fr. _paques_; Ital.
-_pasqua_; Span. _pascua_; Dan. _paaske_; Dutch _paasch_; Welsh _pasg_)
+_pasqua_; Span. _pascua_; [[Dan]]. _paaske_; Dutch _paasch_; Welsh _pasg_)
 is derived from the Lat. _pascha_ and the Gr. [Greek: pascha]. These in
 turn come from the Chaldee or Aramaean form [Hebrew: pascha] _pascha'_,
 of the Hebrew name of the Passover festival [Hebrew: pesach] _pesach_,
@@ -22,7 +22,7 @@ children of Israel in Egypt when he smote the Egyptians" (Exod. xii.
 
 An erroneous derivation of the word _pascha_ from the Greek [Greek:
 paschein], "to suffer," thus connected with the sufferings or passion of
-the Lord, is given by some of the Fathers of the Church, as Irenaeus,
+the Lord, is given by some of the Fathers of the Church, as [[Irenaeus]],
 Tertullian and others, who were ignorant of Hebrew. St Augustine (_In
 Joann. Tract._ 55) notices this false etymology, shows how similarity of
 sound had led to it, and gives the correct derivation.
@@ -66,7 +66,7 @@ guiding principle.
 
 Generally speaking, the Western churches kept Easter on the first day of
 the week, while the Eastern churches followed the Jewish rule, and kept
-Easter on the fourteenth day. St Polycarp, the disciple of St John the
+Easter on the fourteenth day. St Polycarp, the [[Disciple|disciple]] of St John the
 Evangelist and bishop of Smyrna, visited Rome in 159 to confer with
 Anicetus, the bishop of that see, on the subject; and urged the
 tradition, which he had received from the apostle, of observing the
@@ -150,7 +150,7 @@ was fasting and keeping Palm Sunday, while her husband, Oswy, king of
 Northumbria, following the rule of the British church, was celebrating
 the Easter festival. This diversity of usage was ended, so far as the
 kingdom of Northumbria was concerned, by the council of Streaneshalch,
-or Whitby, in 654. To Archbishop Theodore is usually ascribed the credit
+or Whitby, in 654. To Archbishop Theodore is usually ascribed the [[Credit|credit]]
 of ending the difference in the rest of England in 669.
 
 The Gregorian correction of the calendar in 1582 has once more led to
@@ -190,7 +190,7 @@ the services of the church.
 Many ecclesiastical ceremonies, growing up from early times, clustered
 round the celebration of the Easter festival. One of the most notable of
 these was the use of the paschal candle. This was a candle of very large
-dimensions, set in a candlestick big enough to hold it, which was
+dimensions, set in a [[Candlestick|candlestick]] big enough to hold it, which was
 usually placed on the north side, just below the first ascent to the
 high altar. It was kept alight during each service till Whitsuntide. The
 Paschal, as it was called at Durham cathedral, was one of the chief
@@ -224,7 +224,7 @@ the present day.
 
 It is not the purpose of this article to enter on the wide subject of
 the popular observances, such as the giving and sending of Pasch or
-Easter eggs as presents. For such the reader may consult Brand's
+Easter [[Egg|eggs]] as presents. For such the reader may consult Brand's
 _Popular Antiquities_, Hone's _Every-Day Book_, and Chambers's _Book of
 Days_.
 

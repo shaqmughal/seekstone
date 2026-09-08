@@ -12,7 +12,7 @@ reform. He favoured the use of the organ and of prayers in the
 vernacular, and was instrumental in founding schools on modern lines.
 Chorin was thus regarded as a leader of the newer Judaism. He also
 interested himself in public affairs; and his son Francis was a
-Hungarian deputy.
+Hungarian [[Deputy|deputy]].
 
   See L. Löw, _Gesammelte Schriften_, ii. 251.
 

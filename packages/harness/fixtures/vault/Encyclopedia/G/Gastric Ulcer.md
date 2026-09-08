@@ -11,7 +11,7 @@ id: 42-3774
 GASTRIC ULCER (ulcer of the stomach), a disease of much gravity,
 commonest in females, and especially in anaemic domestic servants. It is
 connected in many instances with impairment of the circulation in the
-stomach and the formation of a clot in a small blood-vessel
+stomach and the formation of a [[Clot|clot]] in a small blood-vessel
 (thrombosis). It may be due to an impoverished state of the blood
 (anaemia), but it may also arise from disease of the blood-vessels, the
 result of long-continued indigestion and gastric catarrh.
@@ -26,7 +26,7 @@ wall of the upper curvature, near to the pyloric orifice. It may undergo
 a healing process at any stage, in which case it may leave but little
 trace of its existence; while, on the other hand, it may in the course
 of cicatrizing produce such an amount of contraction as to lead to
-stricture of the pylorus, or to a peculiar hour-glass deformity of the
+stricture of the pylorus, or to a peculiar [[Hour-Glass|hour-glass]] deformity of the
 stomach. Perforation is in most cases quickly fatal, unless previously
 the stomach has become adherent to some neighbouring organ, by which the
 dangerous effects of this occurrence may be averted, or unless the
@@ -51,7 +51,7 @@ frequent and important symptom. The blood may show itself in the form of
 a brown or coffee-like mixture, or as pure blood of dark colour and
 containing clots. It comes from some vessel or vessels which the
 ulcerative process has ruptured. Blood is also found mixed with the
-discharges from the bowels, rendering them dark or tarry-looking. The
+[[Discharge|discharges]] from the bowels, rendering them dark or tarry-looking. The
 general condition of the patient with gastric ulcer is, as a rule, that
 of extreme ill-health, with pallor, emaciation and debility. The tongue
 is red, and there is usually constipation. In most of the cases the
@@ -65,7 +65,7 @@ no suggestive symptoms. While gastric ulcer is to be regarded as
 dangerous, its termination, in the great majority of cases, is in
 recovery. It frequently, however, leaves the stomach in a delicate
 condition, necessitating the utmost care as regards diet. Occasionally
-the disease proves fatal by sudden haemorrhage, but a fatal result is
+the disease proves fatal by sudden [[Haemorrhage|haemorrhage]], but a fatal result is
 more frequently due to perforation and the escape of the contents of the
 stomach into the peritoneal cavity, in which case death usually occurs
 in from twelve to forty-eight hours, either from shock or from
@@ -79,10 +79,10 @@ The patient should at once be sent to bed and kept there, and allowed
 for a while nothing stronger than milk and water or milk and lime water.
 But if bleeding has recently taken place no food whatever should be
 allowed by the stomach, and the feeding should be by nutrient enemata.
-As the symptoms quiet down, eggs may be given beaten up with milk, and
+As the symptoms quiet down, [[Egg|eggs]] may be given beaten up with milk, and
 later, bread and milk and home-made broths and soups. Thus the diet
 advances to chicken and vegetables rubbed through a sieve, to custard
-pudding and bread and butter. As regards medicines, iron is the most
+pudding and bread and [[Butter|butter]]. As regards medicines, iron is the most
 useful, but no pills of any sort should be given. Under the influence of
 rest and diet most gastric ulcers get well. The presence of
 healthy-looking scars upon the surface of the stomach, which are
@@ -120,7 +120,7 @@ lymph near the spot, and other signs of local inflammation; moreover,
 the contents of the stomach may be seen escaping from the opening. The
 ulcer is to be closed by running a "purse-string" suture in the healthy
 tissue around it, and the place is then buried in the stomach by picking
-up small folds of the stomach-wall above and below it and fixing them
+up small [[Fold|folds]] of the stomach-wall above and below it and fixing them
 together by suturing. This being done, the surface of the stomach, and
 the neighbouring viscera which have been soiled by the leakage, are
 wiped clean and the abdominal wound is closed, provision being made for

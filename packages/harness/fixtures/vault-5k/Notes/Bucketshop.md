@@ -8,7 +8,7 @@ between the broker and client, no pretence of an actual purchase or sale
 being attempted. The term is sometimes, though loosely and wrongfully,
 applied to [v.04 p.0666] all stockbrokers who are not members of the
 recognized local exchange. The origin of the word is American. According to
-the _New English Dictionary_ it is supposed to have arisen in Chicago. The
+the _New English Dictionary_ it is supposed to have arisen in [[Chicago]]. The
 Board of Trade there forbade dealings in "options" in grain of less than
 5000 bushels. An "Open Board of Trade" or unauthorized exchange was opened,
 for the purpose of small gamblers, in a neighbouring street below the rooms
@@ -35,7 +35,7 @@ constitution for Muenster, with twelve elders (suggested by the tribes of
 Israel) and other officers of a theocracy, but soon superseded these,
 making himself king of the new Zion. His arbitrary rule was marked by pomp
 and severity. Muenster was retaken (June 25, 1535) by its prince-bishop,
-Franz von Waldeck. Buckholdt, after many indignities, was cruelly executed
+[[Franz]] von Waldeck. Buckholdt, after many indignities, was cruelly executed
 on the 22nd of January 1536; his body, and those of his companions, were
 hung in cages to the tower of the Lamberti church. His portrait is in
 _Grouwelen der Hooftketteren_ (Leiden, 1607; an English edition is appended

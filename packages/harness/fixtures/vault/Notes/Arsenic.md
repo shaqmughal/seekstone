@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Arsenic"
 # Arsenic
 
 ARSENIC (symbol As, atomic weight 75.0), a chemical element, known to
-the ancients in the form of its sulphides. Aristotle gave them the name
+the ancients in the form of its sulphides. [[Aristotle]] gave them the name
 [Greek: sanoarakae], and Theophrastus mentions them under the name
 [Greek: arsenikon]. The oxide known as white arsenic is mentioned by the
 Greek alchemist Olympiodorus, who obtained it by roasting arsenic
@@ -17,7 +17,7 @@ sulphide. These substances were all known to the later alchemists, who
 used minerals containing arsenic in order to give a white colour to
 copper. Albertus Magnus was the first to state that arsenic contained a
 metal-like substance, although later writers considered it to be a
-bastard or semi-metal, and frequently called it _arsenicum rex_. In 1733
+[[Bastard|bastard]] or semi-metal, and frequently called it _arsenicum rex_. In 1733
 G. Brandt showed that white arsenic was the calx of this element, and
 after the downfall of the phlogiston theory the views concerning the
 composition of white arsenic were identical with those which are now
@@ -34,13 +34,13 @@ belong to the rhombohedral system, and have a perfect cleavage parallel
 to the basal plane; natural crystals are, however, of rare occurrence,
 and are usually acicular in habit. Native arsenic occurs usually in
 metalliferous veins in association with ores of antimony, silver, &c.;
-the silver mines of Freiberg in Saxony, St Andreasberg in the Harz, and
-Chanarcillo in Chile being well-known localities. Attractive globular
+the silver mines of [[Freiberg]] in Saxony, St Andreasberg in the Harz, and
+Chanarcillo in [[Chile]] being well-known localities. Attractive globular
 aggregates of well-developed radiating crystals have been found at
-Akatani, a village in the province Echizen, in Japan.
+Akatani, a village in the province Echizen, in [[Japan]].
 
 Arsenic is a constituent of the minerals arsenical iron, arsenical
-pyrites or mispickel, tin-white cobalt or smaltite, arsenical nickel,
+pyrites or mispickel, tin-white [[Cobalt|cobalt]] or smaltite, arsenical nickel,
 realgar, orpiment, pharmacolite and cobalt bloom, whilst it is also met
 with in small quantities in nearly all specimens of iron pyrites. The
 ordinary commercial arsenic is either the naturally occurring form,
@@ -48,16 +48,16 @@ which is, however, more or less contaminated with other metals, or is
 the product obtained by heating arsenical pyrites, out of contact with
 air, in earthenware retorts which are fitted with a roll of sheet iron
 at the mouth, and an earthenware receiver. By this method of
-distillation the arsenic sublimes into the receiver, leaving a residue
+[[Distillation|distillation]] the arsenic sublimes into the receiver, leaving a residue
 of iron sulphide in the retort. For further purification, it may be
 sublimed, after having been previously mixed with a little powdered
-charcoal, or it may be mixed with a small quantity of iodine and heated.
+[[Charcoal|charcoal]], or it may be mixed with a small quantity of iodine and heated.
 It can also be obtained by the reduction of white arsenic (arsenious
-oxide) with carbon. An electro-metallurgical process for the extraction
+oxide) with [[Carbon|carbon]]. An electro-metallurgical process for the extraction
 of arsenic from its sulphides has also been proposed (German Patent.
 67,973). These compounds are brought into solution by means of
 polysulphides of the alkali metals and the resultant liquor run into the
-cathode compartment of a bath, which is divided by diaphragms into a
+cathode compartment of a bath, which is divided by [[Diaphragm|diaphragms]] into a
 series of anode and cathode chambers; the anode divisions being closed
 and gas-tight, and containing carbon or platinum electrodes. The arsenic
 solution is decomposed at the cathode, and the element precipitated
@@ -72,9 +72,9 @@ specific heat is 0.083, and its coefficient of linear expansion
 deg. C. and rapidly vaporizes at a dull red heat. It liquefies when
 heated under pressure, and its melting point lies between 446 deg. C.
 and 457 deg. C. The vapour of arsenic is of a golden yellow colour, and
-has a garlic odour. The vapour density is 10.6 (air = 1) at 564 deg. C.,
+has a [[Garlic|garlic]] odour. The vapour density is 10.6 (air = 1) at 564 deg. C.,
 corresponding to a tetratomic molecule As4; at a white heat the vapour
-density shows a considerable lowering in value, due to the dissociation
+density shows a considerable lowering in value, due to the [[Dissociation|dissociation]]
 of the complex molecule.
 
 By condensing arsenic vapour in a glass tube, in a current of an
@@ -85,13 +85,13 @@ being a black amorphous solid, while still farther along the tube a grey
 deposit is formed. These two latter forms possess a specific gravity of
 4.710 (14 deg. C.) [A. Bettendorff, _Annalen_, 1867, 144, p. 110], and
 by heating at about 358 deg.-360 deg. C. pass over into the crystalline
-variety. Arsenic burns on heating in a current of oxygen, with a pale
+variety. Arsenic [[Burns|burns]] on heating in a current of oxygen, with a pale
 lavender-coloured flame, forming the trioxide. It is easily oxidized by
 heating with concentrated nitric acid to arsenic acid, and with
 concentrated sulphuric acid to arsenic trioxide; dilute nitric acid only
-oxidizes it to arsenious acid. It burns in an atmosphere of chlorine
+oxidizes it to arsenious acid. It burns in an atmosphere of [[Chlorine|chlorine]]
 forming the trichloride; it also combines directly with bromine and
-sulphur on heating, while on fusion with alkalis it forms arsenites.
+sulphur on heating, while on [[Fusion|fusion]] with alkalis it forms arsenites.
 
 Arsenic and most of its soluble compounds are very poisonous, and
 consequently the methods used for the detection of arsenic are very
@@ -141,7 +141,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   porcelain or platinum placed in the flame, when a black deposit is
   formed on the surface. This may be distinguished from the similar
   antimony deposit by its ready solubility in a solution of sodium
-  hypochlorite. A blank experiment should always be carried out in
+  hypochlorite. A [[Blank|blank]] experiment should always be carried out in
   testing for small quantities of arsenic, to ensure that the materials
   used are quite free from traces of arsenic. It is to be noted that the
   presence of nitric acid interferes with the Marsh test; and also that
@@ -150,7 +150,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   compounds can be detected in the dry way by heating in a tube with a
   mixture of sodium carbonate and charcoal when a deposit of black
   amorphous arsenic is produced on the cool part of the tube, or by
-  conversion of the compound into the trioxide and heating with dry
+  [[Conversion|conversion]] of the compound into the trioxide and heating with dry
   sodium acetate when the offensive odour of the extremely poisonous
   cacodyl oxide is produced. In the wet way, arsenious oxide and
   arsenites, acidified with hydrochloric acid, give a yellow precipitate
@@ -175,7 +175,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   Sulphuretted hydrogen is passed through the liquid until it is
   thoroughly saturated, the excess of sulphuretted hydrogen is expelled
   from the solution by a brisk stream of carbon dioxide, and the
-  precipitate is filtered on a Gooch crucible and washed with water
+  precipitate is filtered on a [[Gooch]] crucible and washed with water
   containing a little sulphuretted hydrogen and dried at 100 deg. C.; it
   is then well washed with small quantities of pure carbon disulphide to
   remove any free sulphur, again dried and weighed. Arsenic can also be
@@ -203,7 +203,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   of arsenious and arsenic acids; it is also a product of the action of
   organic matter on many arsenic compounds. It is a colourless gas of
   unpleasant smell, excessively poisonous, very slightly soluble in
-  water. It easily burns, forming arsenious oxide if the combustion
+  water. It easily burns, forming arsenious oxide if the [[Combustion|combustion]]
   proceeds in an excess of air, or arsenic if the supply of air is
   limited; it is also decomposed into its constituent elements when
   heated. It liquefies at -40 deg. C. and becomes solid at -118.9 deg.
@@ -230,7 +230,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   into an alcoholic iodine solution, or by boiling powdered arsenic and
   iodine with water, filtering and evaporating, forms brick-red
   hexagonal tables, of specific gravity 4.39, soluble in alcohol, ether
-  and benzene, and in a large excess of water; in the presence of a
+  and [[Benzene|benzene]], and in a large excess of water; in the presence of a
   small quantity of water, it is decomposed with formation of hydriodic
   acid and an insoluble basic salt of the composition
   4AsOI.3As4O6.24H2O. It combines with alkaline iodides to form very
@@ -270,7 +270,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   trioxide (white arsenic), As4O6, and the pentoxide, As2O5, while the
   existence of a suboxide, As2O(?), has also been mooted. Arsenic
   trioxide has been known from the earliest times, and was called
-  _Huttenrauch_ (furnace-smoke) by Basil Valentine. It occurs naturally
+  _Huttenrauch_ (furnace-smoke) by [[Basil]] Valentine. It occurs naturally
   in the mineral claudetite, and can be artificially prepared by burning
   arsenic in air or oxygen. It is obtained commercially by roasting
   arsenical pyrites in either a Brunton's or Oxland's rotatory calciner,
@@ -281,7 +281,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   (octahedral and prismatic) and one amorphous form; the octahedral form
   is produced by the rapid cooling of arsenic vapour, or by cooling a
   warm saturated solution in water, or by crystallization from
-  hydrochloric acid, and also by the gradual transition of the amorphous
+  hydrochloric acid, and also by the [[Gradual|gradual]] transition of the amorphous
   variety, this last phenomenon being attended by the evolution of heat.
   Its specific gravity is 3.7; it is only slightly soluble in cold
   water, but is more soluble in hot water, the solution reacting faintly
@@ -296,9 +296,9 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
 
   Arsenious oxide is very poisonous. It acts as a reducing agent; it is
   not convertible into the pentoxide by the direct action of oxygen; and
-  its solution is reduced by many metals (e.g. zinc, tin and cadmium)
+  its solution is reduced by many metals (e.g. zinc, tin and [[Cadmium|cadmium]])
   with precipitation of arsenic and formation of arseniuretted hydrogen.
-  The solution of arsenious oxide in water reacts acid towards litmus
+  The solution of arsenious oxide in water reacts acid towards [[Litmus|litmus]]
   and contains tribasic arsenious acid, although on evaporation of the
   solution the trioxide is obtained and not the free acid. The salts of
   the acid are, however, very stable, and are known as arsenites. Of
@@ -313,7 +313,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   with copper sulphate solution. By the action of oxidizing agents such
   as nitric acid, iodine solution, &c., arsenious acid is readily
   converted into arsenic acid, in the latter case the reaction
-  proceeding according to the equation H3AsO3 + I2 + H2O = H3AsO4 + 2HI.
+  proceeding according to the [[Equation|equation]] H3AsO3 + I2 + H2O = H3AsO4 + 2HI.
   Arsenic pentoxide, As2O5, is most easily obtained by oxidation of a
   solution of arsenious acid with nitric acid; the solution on
   concentration deposits the compound 2H3AsO4.H2O (below 15 deg. C.),
@@ -361,13 +361,13 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   4KCl + 3H2O + As2S3. Arsenic pentasulphide, As2S5, can be prepared by
   fusing the trisulphide with the requisite amount of sulphur; it is a
   yellow easily-fusible solid, which in absence of air can be sublimed
-  unchanged; it is soluble in solutions of the caustic alkalis, forming
+  unchanged; it is soluble in solutions of the [[Caustic|caustic]] alkalis, forming
   thioarsenates, which can also be obtained by the action of alkali
   polysulphides on orpiment. The thioarsenites and thioarsenates of the
   alkali metals are easily soluble in water, and are readily decomposed
   by the action of mineral acids. Arsenic compounds containing selenium
   and sulphur are known, such as arsenic seleno-sulphide, AsSeS2, and
-  arsenic thio-selenide, AsSSe2. Arsenic phosphide, AsP, results when
+  arsenic thio-selenide, AsSSe2. Arsenic phosphide, [[Asp|AsP]], results when
   phosphine is passed into arsenic trichloride, being precipitated as a
   red-brown powder.
 
@@ -384,7 +384,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   membrane. They do not possess basic properties; the halogen in the
   chlorine compounds is readily replaced by oxygen, and the oxides
   produced behave like basic oxides. The chlorides AsCl2.CH3 and
-  AsCl(CH3)2 as well as As(CH3)3 are capable of combining with two atoms
+  AsCl(CH3)2 as well as As(CH3)3 are capable of combining with two [[Atom|atoms]]
   of chlorine, the arsenic atom apparently changing from the tri- to the
   penta-valent condition, and the corresponding oxygen compounds can
   also be oxidized to compounds containing one oxygen atom or two
@@ -397,7 +397,7 @@ Society of Chemical Industry_, 1902, 21, p. 94; also ADULTERATION.
   dry potassium acetate and arsenious oxide, a colourless liquid of
   unbearable smell passes over, which is spontaneously inflammable and
   excessively poisonous. It is sometimes called Cadet's fuming liquid,
-  and its composition was determined by R. Bunsen, who gave it the name
+  and its composition was determined by R. [[Bunsen]], who gave it the name
   cacodyl oxide ([Greek: kakodes], stinking); its formation may be shown
   thus:
 
@@ -427,7 +427,7 @@ surfaces, though it has no action on the unbroken skin. Internally,
 unless the dose be extremely small, all preparations are severe
 gastro-intestinal irritants. This effect is the same however the drug be
 administered, as, even after subcutaneous injection, the arsenic is
-excreted into the stomach after absorption, and thus sets up gastritis
+excreted into the stomach after absorption, and thus sets up [[Gastritis|gastritis]]
 in its passage through the mucous membrane. In minute doses it is a
 gastric stimulant, promoting the flow of gastric juice. It is quickly
 absorbed into the blood, where its presence can be demonstrated
@@ -443,14 +443,14 @@ form arsenic acid, which subsequently yields up its oxygen again. It is
 thus vaguely called an alterative, since the patient recovers under its
 use. It is eliminated chiefly by the urine, and to a less extent by the
 alimentary canal, sweat, saliva, bile, milk, tears, hair, &c., but it is
-also stored up in the body mainly in the liver and kidneys.
+also stored up in the body mainly in the [[Liver|liver]] and kidneys.
 
 _Therapeutics._--Externally arsenious acid has been much used by quack
 doctors to destroy morbid growths, &c., a paste or solution being
 applied, strong enough to kill the mass of tissue and make it slough out
 quickly. But many accidents have resulted from the arsenic being
 absorbed, and the patient thereby poisoned. Internally it is useful in
-certain forms of dyspepsia, but as some patients are quite unable to
+certain forms of [[Dyspepsia|dyspepsia]], but as some patients are quite unable to
 tolerate the drug, it must always be administered in very small doses at
 first, the quantity being slowly increased as tolerance is shown.
 Children as a rule bear it better than adults. It should never be given
@@ -460,10 +460,10 @@ though in other apparently similar ones it appears to be valueless. It
 is the routine treatment for pernicious anaemia and Hodgkin's disease,
 though here again the drug may be of no avail. For the neuralgia and
 anaemia following malaria, for rheumatoid arthritis, for chorea and also
-asthma and hay fever, it is constantly prescribed with excellent
+[[Asthma|asthma]] and [[Hay|hay]] [[Fever|fever]], it is constantly prescribed with excellent
 results. Certain skin diseases, as psoriasis, pemphigus and occasionally
-chronic eczema, are much benefited by its use, though occasionally a too
-prolonged course will produce the very lesion for which under other
+chronic [[Eczema|eczema]], are much benefited by its use, though occasionally a too
+prolonged course will produce the very [[Lesion|lesion]] for which under other
 circumstances it is a cure. A recent method of using the drug is in the
 form of sodium cacodylate by subcutaneous injection, and this
 preparation is said to be free from the cumulative effects sometimes
@@ -483,7 +483,7 @@ results. Also, as it has little taste and no colour it is easily mixed
 with food for homicidal purposes. When combined with potash or soda it
 is used to saturate flypapers, and strong solutions can be obtained by
 soaking these in water; this fact has also been used with criminal
-intent. Copper arsenite (or Scheele's green) used to be much employed as
+[[Intent|intent]]. Copper arsenite (or Scheele's green) used to be much employed as
 a pigment for wall-papers and fabrics, and toxic effects have resulted
 from their use. Metallic arsenic is probably not poisonous, but as it
 usually becomes oxidized in the alimentary canal, the usual symptoms of
@@ -503,7 +503,7 @@ drinking is immediately followed by rejection of the swallowed fluid.
 There is profound collapse, the features are sunken, the skin moist and
 cyanosed. The pulse is feeble and irregular, and respiration is
 difficult. The pain in the stomach is persistent, and cramps in the
-calves of the legs add to the torture. Death may be preceded by coma,
+calves of the [[Leg|legs]] add to the torture. Death may be preceded by [[Coma|coma]],
 but consciousness is often maintained to the end. The similarity of the
 symptoms to those of cholera is very marked, but if the suspicion arises
 it can soon be cleared up by examining any of the secretions for
@@ -519,10 +519,10 @@ soft rubber tube, an emetic being also administered. Then, if available,
 freshly precipitated ferric hydrate must be given, which can be prepared
 by adding a solution of ammonia to one of iron perchloride. The
 precipitate is strained off, and the patient can swallow it suspended in
-water. While this is being obtained, magnesia, castor oil or olive oil
-can be given; or failing all these, copious draughts of water. The
+water. While this is being obtained, magnesia, [[Castor Oil|castor oil]] or olive oil
+can be given; or failing all these, copious [[Draughts|draughts]] of water. The
 collapse must be treated with hot blankets and bottles, and subcutaneous
-injections of brandy, ether or strychnine. The pain can be lessened by
+injections of [[Brandy|brandy]], ether or strychnine. The pain can be lessened by
 injections of morphia.
 
 Arsenic may be gradually absorbed into the system in very small
@@ -532,10 +532,10 @@ artificial flowers and toys: also certain trades, as in the manufacture
 of arsenical sheep-dipping. But at the present time cases arising from
 these causes occur very rarely. In 1900 an outbreak of "peripheral
 neuritis" with various skin affections occurred in Lancashire, which was
-traced to beer made from glucose and invert sugar, in the preparation of
+traced to [[Beer|beer]] made from glucose and invert sugar, in the preparation of
 which sulphuric acid contaminated with arsenic was said to have been
 used. But the nature of the disease in this case was decidedly obscure.
-The symptoms so closely resembled those of _beri-beri_ that it has also
+The symptoms so closely resembled those of _[[Beri-Beri|beri-beri]]_ that it has also
 been suggested that the illness was the same, and was caused by the
 manufacture of the glucose from mouldy rice (see BERI-BERI), though no
 proof of this was possible. The earliest symptoms are slight gastric
@@ -550,22 +550,22 @@ fatal cases death usually results from heart failure.
 
 After acute poisoning, the stomach at a _post-mortem_ presents signs of
 intense inflammation, parts or the whole of its mucous membrane being of
-a colour varying from dark red to bright vermilion and often corrugated.
-Submucous haemorrhages are usually present, but perforation is rare. The
+a colour varying from dark red to [[Bright|bright]] vermilion and often corrugated.
+Submucous [[Haemorrhage|haemorrhages]] are usually present, but perforation is rare. The
 rest of the alimentary canal exhibits inflammatory changes in a somewhat
 lesser degree. After chronic poisoning a widely spread fatty
 degeneration is present. Arsenic is found in almost every part of the
 body, but is retained in largest amount by the liver, secondly by the
 kidneys. After death from chronic poisoning it is found present even in
-the brain and spongy bone. The detection of arsenic in criminal cases is
+the brain and spongy [[Bone|bone]]. The detection of arsenic in criminal cases is
 effected either by Reinsch's test or by Marsh's test, the urine being
 the secretion analysed when available. But Reinsch's test cannot be used
 satisfactorily for a quantitative determination, nor can it be used in
-the presence of chlorates or nitrates. And Marsh's test is very
+the presence of [[Chlorates|chlorates]] or nitrates. And Marsh's test is very
 unmanageable with organic liquids on account of the uncontrollable
 frothing that takes place. But in such cases the organic matter can be
 first destroyed by one of the various methods, usually the moist method
-devised by Fresenius being chosen.
+devised by [[Fresenius]] being chosen.
 
 ## See also
 

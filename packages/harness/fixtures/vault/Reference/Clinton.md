@@ -6,17 +6,17 @@ father, James Clinton (1736-1812), served as a captain of provincial
 troops in the French and Indian War, and as a brigadier-general in the
 American army in the War of Independence, taking part in Montgomery's
 attack upon Quebec in 1775, unsuccessfully resisting at Fort Montgomery,
-along the Hudson, in 1777 the advance of Sir Henry Clinton, accompanying
-General John Sullivan in 1779 in his expedition against the Iroquois in
+along the [[Hudson]], in 1777 the advance of Sir Henry Clinton, accompanying
+General John Sullivan in 1779 in his expedition against the [[Iroquois]] in
 western New York, and in 1781 taking part in the siege of Yorktown,
-Virginia. De Witt Clinton graduated at Columbia College in 1786, and in
+Virginia. De Witt Clinton graduated at [[Columbia]] College in 1786, and in
 1790 was admitted to the bar. From 1790 to 1795 he was the private
 secretary of his uncle, George Clinton, governor of New York and a
 leader of the Republican party. He was a member of the New York assembly
 from January to April 1798, and in August of that year entered the state
 senate, serving until April 1802. He at once became a dominant factor in
 New York politics, and for the next quarter of a century he played a
-leading rôle in the history of the commonwealth. From 1801 to 1802 and
+leading rôle in the history of the [[Commonwealth|commonwealth]]. From 1801 to 1802 and
 from 1806 to 1807 he was a member of the Council of Appointment, and
 realizing the power this body possessed through its influence over the
 selection of a vast number of state, county and municipal officers, he
@@ -33,12 +33,12 @@ accordance with their relative strength.[1] In counties where the
 Federalists had a majority very few removals were made.
 
 In 1802 Clinton became a member of the United States Senate, but
-resigned in the following year to become mayor of New York city, an
+resigned in the following year to become [[Mayor|mayor]] of New York city, an
 office he held from 1803 to 1807, from 1808 to 1810, and from 1811 to
 1815. During his mayoralty he also held other offices, being a member of
 the state senate from 1806 to 1811 and lieutenant-governor from 1811 to
-1813. In 1812, after a congressional caucus at Washington had nominated
-Madison for a second term, the Republicans of New York, desiring to
+1813. In 1812, after a congressional [[Caucus|caucus]] at Washington had nominated
+[[Madison]] for a second term, the Republicans of New York, desiring to
 break up the so-called Virginia dynasty as well as the system of
 congressional nominations, nominated Clinton for the presidency by a
 legislative caucus. Opponents of a second war with Great Britain had
@@ -49,7 +49,7 @@ the policy of Madison. In the election Clinton received 89 electoral
 votes and Madison 128.
 
 As a member of the legislature Clinton was active in securing the
-abolition of slavery and of imprisonment for debt, and in perfecting a
+abolition of slavery and of imprisonment for [[Debt|debt]], and in perfecting a
 system of free public schools. In 1810 he was a member of a commission
 to explore a route for a canal between Lake Erie and the Hudson river,
 and in 1811 he and Gouverneur Morris were sent to Washington to secure
@@ -60,7 +60,7 @@ was appointed, of which he became president. His connexion with this
 work so enhanced his popularity that he was chosen governor by an
 overwhelming majority and served for two triennial terms (1817-1823). As
 governor he devoted his energies to the construction of the canal, but
-the opposition to his administration, led by Martin Van Buren and
+the opposition to his administration, led by [[Martin]] Van Buren and
 Tammany Hall, became so formidable by 1822 that he declined to seek a
 third term. His successful opponents, however, overreached themselves
 when in 1824 they removed him from the office of canal commissioner.

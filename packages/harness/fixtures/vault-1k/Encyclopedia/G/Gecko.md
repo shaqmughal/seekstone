@@ -16,7 +16,7 @@ head considerably flattened, the body short and thick, the legs not high
 enough to prevent the body dragging somewhat on the ground, the eyes
 large and almost destitute of eyelids, and the tail short and in some
 cases nearly as thick as the body, the geckoes altogether lack the
-litheness and grace characteristic of most lizards. Their colours also
+litheness and grace characteristic of most lizards. Their [[Colours|colours]] also
 are dull, and to the weird and forbidding aspect thus produced the
 general prejudice against those creatures in the countries where they
 occur, which has led to their being classed with toads and snakes, is no

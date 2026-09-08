@@ -2,7 +2,7 @@
 
 JAMES V. (1512-1542), king of Scotland, son of James IV., was born at
 Linlithgow on the 10th of April 1512, and became king when his father
-was killed at Flodden in 1513. The regency was at first vested in his
+was killed at [[Flodden]] in 1513. The regency was at first vested in his
 mother, but after Queen Margaret's second marriage, with Archibald
 Douglas, 6th earl of Angus, in August 1514, it was transferred by the
 estates to John Stewart, duke of Albany. Henceforward the minority of
@@ -31,7 +31,7 @@ married at Paris to Madeleine, daughter of King Francis I. Madeleine
 died soon after her arrival in Scotland, and in 1538 James made a much
 more important marriage, being united to Mary (1515-1560), daughter of
 Claude, duke of Guise, and widow of Louis of Orleans, duke of
-Longueville. It was this connexion, probably, which finally induced
+[[Longueville]]. It was this connexion, probably, which finally induced
 James to forsake his vacillating foreign policy, and to range himself
 definitely among the enemies of England. In 1536 he had refused to meet
 Henry VIII. at York, and in the following year had received the gift of
@@ -61,7 +61,7 @@ especially by David Beaton, archbishop of St Andrews. The king's habit
 of mingling with the peasantry secured for him a large amount of
 popularity, and probably led many to ascribe to him the authorship of
 poems describing scenes in peasant life, _Christis Kirk on the Grene_,
-_The Gaberlunzie Man_ and _The Jolly Beggar_. There is no proof that he
+_The Gaberlunzie Man_ and _The [[Jolly]] Beggar_. There is no proof that he
 was the author of any of these poems, but from expressions in the poems
 of Sir David Lindsay, who was on terms of intimacy with him, it appears
 that occasionally he wrote verses.

@@ -1,14 +1,14 @@
 # Barren Island
 
-BARREN ISLAND, a volcanic island in the Bay of Bengal. It has an
+BARREN ISLAND, a volcanic island in the Bay of [[Bengal]]. It has an
 irregularly circular form of about 2 m. in diameter, composed of an outer
 rim rising to a height of from 700 to 1000 ft., with a central cone the
-altitude of which is 1015 ft. This cone rises from a depth of 800 fathoms
+altitude of which is 1015 ft. This cone rises from a depth of 800 [[Fathom|fathoms]]
 below the sea. It was active between 1789 and 1832, but has since been
 dormant.
 
-BARRÈS, MAURICE (1862- ), French novelist and politician, was born at
-Charmes (Vosges) on the 22nd of September 1862; he was educated at the
+BARRÈS, [[Maurice|MAURICE]] (1862- ), French novelist and politician, was born at
+[[Charm|Charmes]] (Vosges) on the 22nd of September 1862; he was educated at the
 _lycée_ of Nancy, and in 1883 went to Paris to continue his legal studies.
 He was already a contributor to the monthly periodical, _Jeune France_, and
 he now issued a periodical of his own, _Les Taches d'encre_, which survived

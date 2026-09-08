@@ -9,14 +9,14 @@ id: 42-171
 # Gelatin
 
 GELATIN, or GELATINE, the substance which passes into solution when
-"collagen," the ground substance of bone, cartilage and white fibrous
+"collagen," the ground substance of [[Bone|bone]], cartilage and white fibrous
 tissue, is treated with boiling water or dilute acids. It is especially
 characterized by its property of forming a jelly at ordinary
 temperature, becoming liquid when heated, and resolidifying to a jelly
 on cooling. The word is derived from the Fr. _gélatine_, and Ital.
 _gelatina_, from the Lat. _gelata_, that which is frozen, congealed or
 stiff. It is, therefore, in origin cognate with "jelly," which came
-through the Fr. _gélee_ from the same Latin original.
+through the Fr. _gé[[Lee|lee]]_ from the same Latin original.
 
 The "collagen," obtained from tendons and connective tissues, also
 occurs in the cornea and sclerotic coat of the eye, and in fish scales.
@@ -99,7 +99,7 @@ varying from 0.25 to 0.7%.
   substance identical in composition with gelatin.
 
   By prolonged boiling in contact with hydrolytic agents, such as
-  sulphuric acid or caustic alkali, it yields quantities of leucin and
+  sulphuric acid or [[Caustic|caustic]] alkali, it yields quantities of leucin and
   glycocoll (so-called "sugar of gelatin," this being the method by
   which glycocoll was first prepared), but no tyrosin. In this last
   respect it differs from the great body of proteids, the characteristic
@@ -107,7 +107,7 @@ varying from 0.25 to 0.7%.
 
 Gelatin occurs in commerce in varying degrees of purity; the purer form
 obtained from skins and bones (to which this article is restricted) is
-named gelatin; a preparation of great purity is "patent isinglass,"
+named gelatin; a preparation of great purity is "patent [[Isinglass|isinglass]],"
 while isinglass (q.v.) itself is a fish-gelatin; less pure forms
 constitute glue (q.v.), while a dilute aqueous solution appears in
 commerce as size (q.v.). The manufacture follows much the same lines as
@@ -133,7 +133,7 @@ taken to ensure purity and cleanliness.
   "size."
 
   Vegetable gelatin is manufactured from a seaweed, genus _Laminaria_;
-  from the tengusa, an American seaweed, and from Irish moss. The
+  from the tengusa, an American seaweed, and from [[Irish Moss|Irish moss]]. The
   _Laminaria_ is first extracted with water, and the residue with sodium
   carbonate; the filtrate is acidified with hydrochloric acid and the
   precipitated alginic acid washed and bleached. It is then dissolved in
@@ -159,7 +159,7 @@ taken to ensure purity and cleanliness.
   used for purposes of ornamentation. It is also used for coating pills
   to prevent them adhering together and to make them tasteless.
   Compounded with various mineral salts, the carbonates and phosphates
-  of calcium, magnesium and aluminium, it yields a valuable ivory
+  of calcium, magnesium and aluminium, it yields a valuable [[Ivory|ivory]]
   substitute. It also plays a part in the manufacture of artificial
   leather, of India inks, and of artificial silk (the Vanduara Company
   processes).

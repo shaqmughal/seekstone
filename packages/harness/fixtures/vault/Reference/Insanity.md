@@ -20,14 +20,14 @@ condition.
 
 I. MEDICAL AND GENERAL
 
-  Definition.
+  [[Definition]].
 
 There are many diseases of the general system productive of disturbance
 of the mental faculties, which, either on account of their transient
 nature, from their being associated with the course of a particular
 disease, or from their slight intensity, are not included under the head
 of insanity proper. From a strictly scientific point of view it cannot
-be doubted that the fever patient in his delirium, or the drunkard in
+be doubted that the [[Fever|fever]] patient in his [[Delirium|delirium]], or the drunkard in
 his excitement or stupor, is insane; the brain of either being under the
 influence of a morbific agent or of a poison, the mental faculties are
 deranged; yet such derangements are regarded as functional disturbances,
@@ -42,7 +42,7 @@ it may be for the physician to keep this principle before him, it may be
 freely admitted that it cannot be carried out fully in practice, and
 that social considerations compel the medical profession and the public
 at large to draw an arbitrary line between such functional diseases of
-the nervous system as _hysteria_, _hypochondriasis_ and _delirium_ on
+the nervous system as _[[Hysteria|hysteria]]_, _hypochondriasis_ and _delirium_ on
 the one hand, and such conditions as _mania_, _melancholia_, _stupor_
 and _dementia_ on the other.
 
@@ -58,9 +58,9 @@ accepted as the least defective short definition; and moreover it
 possesses the great practical advantage of keeping before the student
 the primary fact that insanity is the result of disease of the brain
 (see BRAIN, and NEUROPATHOLOGY), and that it is not a mere immaterial
-disorder of the intellect. In the earliest epochs of medicine the
+disorder of the [[Intellect|intellect]]. In the earliest epochs of medicine the
 corporeal character of insanity was generally admitted, and it was not
-until the superstitious ignorance of the middle ages had obliterated the
+until the superstitious [[Ignorance|ignorance]] of the middle ages had obliterated the
 scientific, though by no means always accurate, deductions of the early
 writers, that any theory of its purely psychical character arose. At the
 present day it is unnecessary to combat such a theory, as it is
@@ -77,7 +77,7 @@ of the brain, gathered under one popular term, on account of mental
 defect or aberration being the predominant symptom.
 
 
-  Classification.
+  [[Classification]].
 
 The insanities are sharply divided into two great classes--the
 _Congenital_ and the _Acquired_. Under the head of Congenital Insanity
@@ -146,7 +146,7 @@ general, and (b) proximate.
   5. _Inheritance._--The hereditary transmission of a liability to
   mental disease must be reckoned as the most important among all
   predisposing causes of insanity. It is probably well within the mark
-  to say that at least 50% of the insane have a direct or collateral
+  to say that at least 50% of the insane have a direct or [[Collateral|collateral]]
   hereditary tendency towards insanity. The true significance of this
   factor cannot as yet be explained or described shortly and clearly,
   but it cannot be too definitely stated that it is not the insanity
@@ -159,7 +159,7 @@ general, and (b) proximate.
   mental diseases are secondary to bodily disorders, hereditary
   predisposition being the equally predisposing causal factor. There is
   probably truth in both these views, and such an admission accentuates
-  the complexity of the factorship of heredity. If insanity can be
+  the complexity of the factorship of [[Heredity|heredity]]. If insanity can be
   induced by physical disorders, which must essentially be of the nature
   of toxic action or of mechanical agency which can alter or influence
   the functional powers of the brain, then it is probable that
@@ -174,8 +174,8 @@ general, and (b) proximate.
   frequently we find in the history of insane patients that although
   there may be no insanity in the family there are undoubted indications
   of nervous alongside of physical instability, the parental nervous
-  defects taking the form of extreme nervousness, vagabondage, epilepsy,
-  want of mental balance, inequality in mental development or endowment,
+  defects taking the form of extreme nervousness, vagabondage, [[Epilepsy|epilepsy]],
+  want of mental [[Balance|balance]], inequality in mental development or endowment,
   extreme mental brilliancy in one direction associated with marked
   deficiency in others, the physical defects showing themselves in the
   form of insanity; liability to tubercular and rheumatic infections.
@@ -188,7 +188,7 @@ general, and (b) proximate.
   marriage is a prolific source of nervous instability. There is
   considerable diversity of opinion on this subject; the general outcome
   of the investigations of many careful inquirers appears to be that the
-  offspring of healthy cousins of a healthy stock is not more liable to
+  offspring of healthy [[Cousin|cousins]] of a healthy stock is not more liable to
   nervous disease than that of unrelated parents, but that evil
   consequences follow where there is a strong tendency in the family to
   degeneration, not only in the direction of the original diathesis, but
@@ -224,7 +224,7 @@ general, and (b) proximate.
   certain forms of paralysis, insanity, eccentricity. It is asserted
   that exceptional genius in an individual member is a phenomenal
   indication. Confined to the question of insanity, the morbid
-  inheritance may manifest itself in two directions--in defective brain
+  inheritance may [[Manifest|manifest]] itself in two directions--in defective brain
   organization manifest from birth, or from the age at which its
   faculties are potential, i.e. congenital insanity; or in the neurotic
   diathesis, which may be present in a brain to all appearance
@@ -237,7 +237,7 @@ general, and (b) proximate.
   exercise an effect upon the nervous system. It may be freely admitted
   that the nexus between physiological processes and mental disturbances
   is, as regards certain of the periods, obscure, and that the causal
-  relation is dependent more on induction than on demonstration; but it
+  relation is dependent more on [[Induction|induction]] than on demonstration; but it
   may be pleaded that it is not more obscure in respect of insanity than
   of many other diseases. The pathological difficulty obtains mostly in
   the relation of the earlier evolutional periods, puberty and
@@ -286,8 +286,8 @@ general, and (b) proximate.
   at work in the system during pregnancy which have grave influence on
   the nervous system, more especially in those hereditarily predisposed,
   and in those gravid for the first time. There is modification of
-  direction of the blood towards a new focus, and its quality is
-  changed, as is shown by an increase of fibrin and water and a decrease
+  direction of the blood towards a new [[Focus|focus]], and its quality is
+  changed, as is shown by an increase of [[Fibrin|fibrin]] and water and a decrease
   of albumen. To such physical influences are superadded the discomfort
   and uneasiness of the situation, mental anxiety and anticipation of
   danger, and in the unmarried the horror of disgrace. In the puerperal
@@ -313,7 +313,7 @@ general, and (b) proximate.
   Hyperleucocytosis, or an increase of the white blood corpuscles, which
   is the chief method by which the animal organism protects itself
   against the noxious influence of micro-organisms and their toxins. In
-  such cases as typhoid fever, which is caused by a bacillus, or Malta
+  such cases as typhoid fever, which is caused by a bacillus, or [[Malta]]
   fever which is caused by a coccus, it is found that if the blood serum
   of the patient is mixed _in vitro_ with a broth culture of the
   infecting organism in a dilution of 1 in 50, that the bacilli or the
@@ -346,7 +346,7 @@ general, and (b) proximate.
   physiological instability, or to both combined. The results of
   defective metabolism are most clearly manifested in the mental
   symptoms which not infrequently accompany such diseases as gout,
-  diabetes or obesity, all of which depend primarily upon a deficient
+  [[Diabetes|diabetes]] or obesity, all of which depend primarily upon a deficient
   chemical elaboration of the products of metabolism. The association of
   gout and rheumatism with nervous and mental diseases is historical,
   and the gravest forms of spinal and cerebral degeneration have been
@@ -364,10 +364,10 @@ general, and (b) proximate.
   delirium occurring in shipwrecked persons, who having to take to the
   boats are suddenly deprived of food, water or both. Poisoning of the
   nervous system may also result from the defective action of special
-  glands such as the thyroid, the liver or the kidneys. These conditions
+  glands such as the thyroid, the [[Liver|liver]] or the kidneys. These conditions
   are specially exemplified in the mental disturbances which accompany
-  exophthalmic goitre, uraemic poisoning, and the conditions of
-  depression which are observed in jaundice and other forms of hepatic
+  exophthalmic [[Goitre|goitre]], uraemic poisoning, and the conditions of
+  depression which are observed in [[Jaundice|jaundice]] and other forms of hepatic
   insufficiency.
 
   The results of modern research point to a growing belief in the
@@ -383,7 +383,7 @@ general, and (b) proximate.
   called by Weber, who first described it, the delirium of collapse, was
   observed by him to follow certain infectious diseases such as typhus
   fever and pneumonia. In later years it has been frequently observed to
-  follow attacks of influenza. Recently our views have broadened and we
+  follow attacks of [[Influenza|influenza]]. Recently our views have broadened and we
   find that the delirium of collapse is an acute, confusional insanity
   which may arise without any previous febrile symptoms, and is in fact
   one of the common forms of acute insanity. The nature of the physical
@@ -430,8 +430,8 @@ general, and (b) proximate.
 
   (c) Accidental and voluntary poisonings of the system which result in
   insanity are illustrated by the forms of insanity which follow
-  phosphorus or lead poisoning and by Pellagra. The voluntary
-  intoxication of the system by such drugs as morphia and alcohol will
+  phosphorus or [[Lead Poisoning|lead poisoning]] and by Pellagra. The voluntary
+  [[Intoxication|intoxication]] of the system by such drugs as morphia and alcohol will
   be treated of below.
 
   2 and 3. Mechanical injuries to the brain arise from direct violence
@@ -465,11 +465,11 @@ mental weakness following on acquired insanity.
 
 The causes of congenital idiocy may be divided into four classes: (1)
 hereditary predisposition, (2) constitutional conditions of one or both
-parents affecting the constitution of the infant, (3) injuries of the
+parents affecting the constitution of the [[Infant|infant]], (3) injuries of the
 infant prior to or at birth, and (4) injuries or diseases affecting the
-infant head during infancy. All these classes of causes may act in two
+infant head during [[Infancy|infancy]]. All these classes of causes may act in two
 directions: they may produce either non-development or abnormal
-development of the cranial bones as evidenced by microcephalism, or by
+development of the cranial [[Bone|bones]] as evidenced by microcephalism, or by
 deformity of the head; or they may induce a more subtle morbid condition
 of the constituent elements of the brain. As a rule, the pathological
 process is more easily traceable in the case of the last three classes
@@ -506,7 +506,7 @@ causes above mentioned; (8) Inflammatory idiocy; (9) Idiocy by
 deprivation of one or more of the special senses.
 
 The general conformation of the idiot is generally imperfect; he is
-sometimes deformed, but more frequently the frame is merely awkwardly
+sometimes deformed, but more frequently the [[Frame|frame]] is merely awkwardly
 put together, and he is usually of short stature. Only about one-fourth
 of all idiots have heads smaller than the average. Many cases are on
 record in which the cranial measurements exceed the average. It is the
@@ -528,7 +528,7 @@ intelligence and mere weakness of intellect.
 The term _Imbecility_ has been conventionally employed to indicate the
 less profound degrees of idiocy, but in point of fact no distinct line
 of demarcation can be drawn between the conditions. As the scale of
-imbeciles ascends it is found that the condition is evidenced not so
+[[Imbecile|imbeciles]] ascends it is found that the condition is evidenced not so
 much by obtuseness as by irregularity of intellectual development. This
 serves to mark the difference between the extreme stupidity of the
 lowest of the healthy and the highest forms of the morbidly deprived
@@ -548,11 +548,11 @@ have heard of the quaint and crafty sayings of manifest idiots,
 indicating the presence of no mean power of applied observation. In
 institutions for the treatment of idiots and imbeciles, children are
 found not only able to read and write, but even capable of applying the
-simpler rules of arithmetic. A man may possess a very considerable meed
+simpler rules of [[Arithmetic|arithmetic]]. A man may possess a very considerable meed
 of receptive faculty and yet be idiotic in respect of the power of
 application; he may be physically disabled from relation, and so be
 manifestly a deprived person, unfit to take a position in the world on
-the same platform as his fellows.
+the same platform as his [[Fellows|fellows]].
 
 Dr Ireland subdivides idiots, for the purpose of education, into five
 grades, the first comprising those who can neither speak nor understand
@@ -560,17 +560,17 @@ speech, the second those who can understand a few easy words, the third
 those who can speak and can be taught to work, the fourth those who can
 be taught to read and write, and the fifth those who can read books for
 themselves. The treatment of idiocy and imbecility consists almost
-entirely of attention to hygiene and the building up of the enfeebled
+entirely of attention to [[Hygiene|hygiene]] and the building up of the enfeebled
 constitution, along with endeavours to develop what small amount of
 faculty exists by patiently applied educational influences. The success
 which has attended this line of treatment in many public and private
 institutions has been very considerable. It may be safely stated that
 most idiotic or imbecile children have a better chance of amelioration
-in asylums devoted to them than by any amount of care at home.
+in [[Asylum|asylums]] devoted to them than by any amount of care at home.
 
 In the class of idiots just spoken of, imperfect development of the
 intellectual faculties is the prominent feature, so prominent that it
-masks the arrest of potentiality of development of the moral sense, the
+masks the [[Arrest|arrest]] of potentiality of development of the moral sense, the
 absence of which, even if noticed, is regarded as relatively
 unimportant; but, in conducting the practical study of congenital
 idiots, a class presents itself in which the moral sense is wanting or
@@ -590,7 +590,7 @@ adverse to brain development, and in whom no process of education can
 develop an appreciation of what is right or wrong, although the
 intellectual faculties appear to be but slightly blunted, or not
 blunted at all, he cannot avoid connecting the physical peculiarity with
-the pathological evidence. The world is apt enough to refer any fault in
+the pathological evidence. The world is apt enough to refer any [[Fault|fault]] in
 intellectual development, manifested by imperfect receptivity, to a
 definite physical cause, and is willing to base opinion on comparatively
 slight data; but it is not so ready to accept the theory of a
@@ -616,7 +616,7 @@ between the casuist and the pathologist; but, when the whole natural
 history of such cases is studied, there are points of differentiation
 between their morbid depravation and mere moral depravity. Family
 history, individual peculiarities, the general bizarre nature of the
-phenomena, remove such cases from the category of crime.
+phenomena, remove such cases from the [[Category|category]] of crime.
 
   _Statistics._--According to the census returns of 1901 the total
   number of persons described as idiots and imbeciles in England and
@@ -653,12 +653,12 @@ phenomena, remove such cases from the category of crime.
     |                   |        |         |        |            |
     | Norway (1891)     |  1,357 |   1,074 |  2,431 |    121     |
     |                   |        |         |        |            |
-    | Denmark (1888-89) |  2,106 |   1,751 |  3,857 |    200     |
+    | [[Denmark]] (1888-89) |  2,106 |   1,751 |  3,857 |    200     |
     +-------------------|--------|---------|--------|------------+
 
   For the United States there are no later census figures than 1890 when
   the feeble-minded or idiotic were recorded as 95,571 (52,940 males and
-  42,631 females). In 1904 (_Special Report of Bureau of Census_, 1906)
+  42,631 females). In 1904 (_Special Report of [[Bureau]] of Census_, 1906)
   the "feeble-minded" were estimated at 150,000.
 
   The relative frequency of congenital and acquired insanity in various
@@ -671,7 +671,7 @@ phenomena, remove such cases from the category of crime.
     Saxony          162 | Sweden             22
     Austria          53 | Norway             65
     Hungary         140 | England and Wales  74
-    Canton of Bern  117 | Scotland           68
+    Canton of [[Bern]]  117 | Scotland           68
     America          79 | Ireland            69
 
   It is difficult to understand the wide divergence of these figures,
@@ -729,12 +729,12 @@ The most general physical disorder common to the onset of all the
 insanities is the failure of nutrition, i.e. the patient rapidly and
 apparently without any apparent cause loses weight. Associated with this
 nutritional failure it is usual to have disturbances of the alimentary
-tract, such as loss of appetite, dyspepsia and obstinate constipation.
+tract, such as loss of appetite, [[Dyspepsia|dyspepsia]] and obstinate constipation.
 During the prodromal stage of such conditions as mania and melancholia
 the digestive functions of the stomach and intestine are almost or
 completely in abeyance. To this implication of other systems consequent
 on impairment of the trophesial (nourishment-regulating) function of the
-brain can be traced a large number of the errors which exist as to the
+brain can be traced a large number of the [[Error|errors]] which exist as to the
 causation of idiopathic melancholia and mania. Very frequently this
 secondary condition is set down as the primary cause; the insanity is
 referred to derangements of the stomach or bowels, when in fact these
@@ -743,7 +743,7 @@ mischief. Doubtless these functional derangements exercise considerable
 influence on the progress of the case by assisting to deprave the
 general economy, and by producing depressing sensations in the region of
 the stomach. To them may probably be attributed, together with the
-apprehension of impending insanity, that phase of the disease spoken of
+[[Apprehension|apprehension]] of impending insanity, that phase of the disease spoken of
 by the older writers as the _stadium melancholicum_, which so frequently
 presents itself in incipient cases.
 
@@ -757,7 +757,7 @@ becomes brittle. The nails become deformed and may exhibit either
 excessive and irregular or diminished growth.
 
 Where there are grave nutritional disorders it is to be expected that
-the chief excretions of the body should show departures from the state
+the chief [[Excretion|excretions]] of the body should show departures from the state
 of health. In this article it is impossible to treat this subject
 fully, but it may suffice to say that in many states of depression there
 is a great deficiency in the excretion of the solids of the urine,
@@ -845,7 +845,7 @@ unrestrained and rapid succession of fleeting mental processes.
   which the patient jumps through a window or runs blindly into water or
   some other danger. Impulsive suicides may be prompted by suddenly
   presented opportunities or means of self-destruction, such as the
-  sight of water, fire, a knife, cord or poison. Premeditated suicides
+  sight of water, fire, a [[Knife|knife]], cord or poison. Premeditated suicides
   most frequently occur in states of long continued depression. Such
   patients frequently devote their attention to only one method of
   destruction and fail to avail themselves of others equally
@@ -897,7 +897,7 @@ unrestrained and rapid succession of fleeting mental processes.
 
 MELANCHOLIA.--Melancholia is a general term applied to all forms of
 insanity in which the prevailing mental symptom is that of depression
-and dates back to the time of Hippocrates. Melancholic patients,
+and dates back to the time of [[Hippocrates]]. Melancholic patients,
 however, differ very widely from one another in their mental symptoms,
 and as a consequence a perfectly unwarrantable series of subdivisions
 have been invented according to the prominence of one or other mental
@@ -919,9 +919,9 @@ predisposition, mental worry, exhausting occupations, such as the
 sick-nursing of relatives, are the chief predisposing causes, while the
 direct exciting cause of the condition is due to the accumulation in the
 tissues of waste products, which so load the blood as to act in a toxic
-manner on the cells and fibres of the brain.
+manner on the cells and [[Fibres|fibres]] of the brain.
 
-The onset of the disease is gradual and indefinite. The patient suffers
+The onset of the disease is [[Gradual|gradual]] and indefinite. The patient suffers
 from malaise, indigestion, constipation and irregular, rapid and
 forcible action of the heart. The urine become scanty and high coloured.
 The nervous symptoms are irritability, sleeplessness and a feeling of
@@ -964,8 +964,8 @@ profound depression with delusions, and persistent or recurring attacks
 of hallucinations of hearing. When death occurs, it is usually preceded
 by a condition known as the "typhoid state." The patient rapidly passes
 into a state of extreme exhaustion, the tongue is dry and cracked,
-sordes form upon the teeth and lips, diarrhoea and congestion of the
-lungs rapidly supervene and terminate life.
+sordes form upon the teeth and [[Lip|lips]], diarrhoea and congestion of the
+[[Lung|lungs]] rapidly supervene and terminate life.
 
   _Treatment._--The patient in the early stage of the disease must be
   confined to bed and nursed by night as well as day. The food to begin
@@ -979,7 +979,7 @@ lungs rapidly supervene and terminate life.
   then a full dose of paraldehyde or veronal may be given at bed-time.
   Under this treatment the majority of cases, if treated early, improve
   rapidly. As the appetite returns great care must be taken that the
-  patient does not suddenly resume a full ordinary dietary. A sudden
+  patient does not suddenly resume a full ordinary [[Dietary|dietary]]. A sudden
   return to a full dietary invariably means a relapse, which is often
   less amenable to treatment than the original attack. Toast should
   first be added to the milk, and this may be followed by milk puddings
@@ -1082,7 +1082,7 @@ fully developed disease the temperature is very rarely febrile, on the
 contrary it is rather subnormal in character. The stomach is disordered
 and the bowels confined. The urine is scanty, turbid and very liable to
 rapid decomposition. The heart's action is slow and feeble and the
-extremities become cold, blue and livid. In extreme cases gangrene of
+extremities become cold, blue and livid. In extreme cases [[Gangrene|gangrene]] of
 the lower extremities may occur, but in all there is a tendency to
 oedema of the extremities. The skin is greasy, often offensive, and the
 palms of the hands and the soles of the feet are sodden.
@@ -1114,7 +1114,7 @@ is no toxaemia.
   and the gastric disorder are to some extent mitigated by common sense
   attention to the general health of the body. If the patient is thin
   and wasted, then treatment is best conducted in bed. The diet should
-  be bland, consisting largely of milk, eggs and farinaceous food, given
+  be bland, consisting largely of milk, [[Egg|eggs]] and farinaceous food, given
   in small quantities and frequently. Defecation should be maintained by
   enemata, and the skin kept clean by daily warm baths. What is of much
   more importance is the fact that in some instances subsequent attacks
@@ -1123,7 +1123,7 @@ is no toxaemia.
   the slightest symptoms of an attack present themselves. If these
   symptoms are at all prominent, rest in bed is a wise precaution,
   butcher-meat should be discontinued from the dietary and a tonic of
-  arsenic or quinine and acid prescribed.
+  [[Arsenic|arsenic]] or quinine and acid prescribed.
 
 
   Mania.
@@ -1152,12 +1152,12 @@ toxaemia.
 
 The onset is gradual in the large majority of cases. Histories of sudden
 outbursts of mania can rarely be relied on, as the illness is almost
-invariably preceded by loss of body weight, sleeplessness, bad dreams,
+invariably preceded by loss of body weight, sleeplessness, bad [[Dream|dreams]],
 headaches and symptoms of general malaise, sometimes associated with
 depression. The actual onset of the mental symptoms themselves, however,
 are frequently sudden. A typical case of the fully developed disease is
 not easily mistaken. The patient is usually anaemic and thin, the
-expression of the face is unnatural, the eyes widely opened and bright;
+expression of the face is unnatural, the eyes widely opened and [[Bright|bright]];
 and there is great motor restlessness, the muscular movements being
 purposeless and inco-ordinate. This inco-ordination of movement affects
 not only the muscles of the limbs and trunk but also those of
@@ -1212,7 +1212,7 @@ inasmuch as the white blood corpuscles remain increased above the
 average of health. Subsequent attacks of excitement come on without any
 obvious provocation. The pulse becomes fast and the face flushed. The
 patient frequently complains of fullness in the head, ringing in the
-ears and a loss of appetite. Sleeplessness is an invariable symptom.
+[[Ear|ears]] and a loss of appetite. Sleeplessness is an invariable symptom.
 Self-control is generally lost suddenly, and the patient rapidly passes
 into a state of delirious excitement, to recover again, apparently, in
 the course of a few weeks. Recurrent mania might therefore be regarded
@@ -1248,7 +1248,7 @@ recurrent intervals become noisy and dangerous.
   the acute stage of onset the patient should be placed in bed. If there
   is difficulty in inducing the patient to take a sufficient quantity of
   food, this difficulty can be got over by giving food in liquid form,
-  milk, milk-tea, eggs beaten up in milk, meat juice and thin gruel, and
+  milk, milk-tea, eggs beaten up in milk, [[Meat|meat]] juice and thin gruel, and
   it is always better to feed such a patient with small quantities given
   frequently. Cases of mania following childbirth are those which most
   urgently demand careful and frequent feeding, artificially
@@ -1276,7 +1276,7 @@ predisposition undoubtedly plays a large part as a predisposing cause,
 and after that is said it is difficult to assign any other definite
 predisposing causes and certainly no exciting causes. As in the stage of
 depression, so in the stage of excitement the first attack may closely
-follow upon typhoid fever, erysipelas or rheumatic fever. On the other
+follow upon typhoid fever, [[Erysipelas|erysipelas]] or rheumatic fever. On the other
 hand many cases occur without any such antecedent disease. Another fact
 which has been commented upon is that these patients at the onset of an
 attack of excitement often appear to be in excellent physical health.
@@ -1286,7 +1286,7 @@ patient changes in character, generally for the worse. The sober man
 becomes intemperate. The steady man of business enters into foolish,
 reckless speculation. There is a tendency for the patient to seek the
 society of inferiors and to ignore the recognized conventionalities of
-life and decency. The dress becomes extravagant and vulgar and the
+life and decency. The [[Dress|dress]] becomes extravagant and vulgar and the
 speech loud, boastful and obscene. These symptoms may exist for a
 considerable period before some accidental circumstance or some more
 than usually extravagant departure from the laws and customs of
@@ -1295,7 +1295,7 @@ symptoms of the fully developed disease differ in degree in different
 cases. The face is often flushed and the expression unnatural. There is
 constant restlessness, steady loss of body weight, and sleeplessness. In
 very acute attacks there are frequently symptoms of gastric disorder,
-while in other cases the appetite is enormous, gross and perverted. The
+while in other cases the appetite is enormous, [[Gross|gross]] and perverted. The
 leucocytosis is above that usually met with in health, and the increase
 in the early stages is due to the relative and absolute increase in the
 multinucleated or polymorphonuclear leucocytes. The hyperleucocytosis is
@@ -1317,7 +1317,7 @@ symptoms. The patient is always garrulous and delighted to make any
 chance acquaintance the confidant of his most private affairs. The mood
 is sometimes expansive and benevolent, interruption in the flow of talk
 may suddenly change the subject of the conversation or the patient may
-with equal suddenness fly into a violent rage, use foul and obscene
+with equal suddenness [[Fly|fly]] into a violent rage, use foul and obscene
 language, ending with loud laughter and protestations of eternal
 friendship. In other words the mental processes are easily stimulated
 and as easily diverted into other channels. The train of thought is, as
@@ -1441,7 +1441,7 @@ the disease goes on to what Magnan calls the third stage or stage of
 grandiose delusions. The onset of this stage is in some cases gradual.
 The patient, while inveighing against the persecutions, hints at a
 possible cause. One man is an inventor and his enemies desire to deprive
-him of the results of his inventions. Another is the rightful heir to a
+him of the results of his inventions. Another is the rightful [[Heir|heir]] to a
 peerage, of which he is to be deprived. Women frequently believe
 themselves to be abducted princesses or heirs to the throne. Others of
 both sexes, even more ambitious, assume divine attributes and proclaim
@@ -1450,11 +1450,11 @@ recorded in which the delusions of grandeur were of sudden onset, the
 patient going to bed persecuted and miserable and rising the following
 morning elated and grandiose. In this stage the hallucinations persist
 but appear to change in character and become pleasant. The king hears
-that arrangements are being made for his coronation and waits quietly
+that arrangements are being made for his [[Coronation|coronation]] and waits quietly
 for the event. The angel Gabriel sees visions in the heavens. The heirs
 and heiresses read of their prospective movements in the court columns
 of the daily papers and are much soothed thereby. In short, no delusion
-is too grotesque and absurd for such patients to believe and express.
+is too [[Grotesque|grotesque]] and absurd for such patients to believe and express.
 
 Cases of delusional insanity never become demented in the true sense of
 the word, but their mental state might be described as a dream in which
@@ -1526,7 +1526,7 @@ state of over-tension, which is increased to a condition of rigidity if
 the patient is interfered with in any way. This symptom of restiveness
 or negativism is one of the characteristics of the disease. The patient
 resists while being fed, washed, dressed and undressed, and even the
-normal stimuli which in a healthy man indicate that the bladder or
+normal stimuli which in a healthy man indicate that the [[Bladder|bladder]] or
 rectum require to be emptied are resisted, so that the bladder may
 become distended and the lower bowel has to be emptied by enemata. The
 temperature is low, often subnormal, the pulse is small and weak, and
@@ -1629,7 +1629,7 @@ In those cases in which there is an intervening prodromal condition,
 with altered character and disposition, there is usually a more or less
 severe accidental implication of the cortex cerebri, either by
 depression of bone or local hemorrhage, or meningitic sub-inflammatory
-local lesions. Most of the cases during the prodromal stage are sullen,
+local [[Lesion|lesions]]. Most of the cases during the prodromal stage are sullen,
 morose or suspicious, and indifferent to their friends and surroundings.
 At the end of the prodromal stage there most usually occurs an attack of
 acute mania of a furious impulsive kind. The cases which for many years
@@ -1669,7 +1669,7 @@ computed that not one half of the cases become insane. When insanity
 appears it is met with in all degrees varying from slight mental dulness
 up to complete dementia, and from mere moral perversion up to the most
 intense form of maniacal excitement. On the physical side the various
-symptoms of cerebral tumour such as coma, ataxia, paralysis, headache,
+symptoms of cerebral tumour such as [[Coma|coma]], ataxia, paralysis, headache,
 vomiting, optic neuritis and epileptiform convulsions are met with. All
 forms of so-called moral changes and of changes of disposition are met
 with as mental symptoms and all the ordinary forms of insanity may occur
@@ -1702,7 +1702,7 @@ rule atheroma in the cerebral vessels is but a part of a general
 atheroma of all the arteries of the body. Atheroma is common after
 middle life and increases in frequency with age. The chief causes are
 syphilis, alcoholism, the gouty and rheumatic diatheses and above all
-Bright's disease of the kidneys. Perhaps certain forms of Bright's
+[[Bright'S Disease|Bright's disease]] of the kidneys. Perhaps certain forms of Bright's
 disease, owing to the tendency to raise the blood pressure, are of all
 causes the most common.
 
@@ -1728,7 +1728,7 @@ associated with gradually advancing mental enfeeblement, and very
 frequently is complicated by attacks of mental disease.
 
 General paralysis, which is a very common disease, was first recognized
-in France; it was identified by J. E. D. Esquirol, and further described
+in France; it was identified by J. E. D. [[Esquirol]], and further described
 and elaborated by A. L. J. Bayle, Delaye and J. L. Calmeil, the latter
 giving it the name of _paralysie générale des aliénés_.
 
@@ -1789,8 +1789,8 @@ locomotor ataxia are one and the same disease; in the one case the cord,
 in the other the brain, being the primary seat of lesion. The early
 physical symptoms are generally motor. The patient loses energy, readily
 becomes tired, and the capacity for finely co-ordinated motor acts, such
-as are required in playing games of skill, is impaired. Transient
-attacks of partial paralysis of a hand, arm, leg or one side of the
+as are required in playing [[Games|games]] of skill, is impaired. Transient
+attacks of partial paralysis of a hand, arm, [[Leg|leg]] or one side of the
 body, or of the speech centre are not uncommon. In a few cases the
 special senses are affected early and the patient may complain of
 attacks of dimness of vision or impairment of hearing. Or the symptoms
@@ -1850,8 +1850,8 @@ attacks. The temperature rises, the face becomes flushed and the skin
 moist. Twitchings are noticed in a hand or arm. These twitchings
 gradually spread until they may involve the whole body. The patient is
 now unconscious, bathed in perspiration, which is offensive. The bowels
-and bladder empty themselves reflexly or become distended, and bedsores
-are very liable to form over the heels, elbows and back. Congestive
+and bladder empty themselves reflexly or become distended, and [[Bedsore|bedsores]]
+are very liable to form over the heels, [[Elbow|elbows]] and back. Congestive
 seizures frequently last for days and may prove fatal or, on the other
 hand, the patient may have recurrent attacks and finally die of
 exhaustion or some accidental disease, such as pneumonia. In the second
@@ -1879,7 +1879,7 @@ although it has been known to persist for seven.
 INSANITY ASSOCIATED WITH EPILEPSY.--The term "epileptic insanity," which
 has for many years been in common use, is now regarded as a misnomer.
 There is in short no such disease as epileptic insanity. A brain,
-however, which is so unstable as to exhibit the sudden discharges of
+however, which is so unstable as to exhibit the sudden [[Discharge|discharges]] of
 nervous energy which are known as epileptic seizures, is prone to be
 attacked by insanity also, but there is no form of mental disease
 exclusively associated with epilepsy. Many epileptics suffer from the
@@ -1935,7 +1935,7 @@ metabolism to such an extent that bodily disorders are engendered which
 produce well-marked and easily recognized mental symptoms. In others,
 again, alcohol itself may possibly act as a direct toxin, disordering
 the functions of the brain. In the latter class may be included the
-nervous phenomena of drunkenness, which commence with excitement and
+nervous phenomena of [[Drunkenness|drunkenness]], which commence with excitement and
 confusion of ideas, and terminate in stupor with partial paralysis of
 all the muscles. Certain brains which, either through innate weakness or
 as the result of direct injury, have become peculiarly liable to toxic
@@ -1968,10 +1968,10 @@ hallucinations of sight may be readily induced by pressure upon the
 eyeballs. If the symptoms are more acute they usually come on suddenly,
 generally during the evening or night. The patient becomes excited,
 suffers from vivid hallucinations of sight and hearing which produce
-great fear, and these hallucinations may be so engrossing as to render
+great fear, and these hallucinations may be so [[Engrossing|engrossing]] as to render
 him quite oblivious to the environment. The hallucinations of sight are
 characterized by the false sense impressions taking the forms of animals
-or insects which surround or menace the patient. Visions may also appear
+or [[Insect|insects]] which surround or menace the patient. Visions may also appear
 in the form of flames, goblins or fairies. The hallucinations of hearing
 rarely consist of voices, but are more of the nature of whistlings, and
 ringings in the ears, shouts, groans or screams which seem to fill the
@@ -2231,7 +2231,7 @@ are generally present in the senile delusional cases.
   and especially among the poorer class, to recognize the less
   pronounced forms of mental disorder as being of the nature of
   insanity. Thirdly, the grant of four shillings per week which in 1876
-  was made by parliament from imperial sources for the maintenance of
+  was made by parliament from imperial sources for the [[Maintenance|maintenance]] of
   pauper lunatics has induced parochial authorities to regard as
   lunatics a large number of weak-minded paupers, and to force them into
   asylums in order to obtain the benefit of the grant and to relieve the
@@ -2266,10 +2266,10 @@ are generally present in the senile delusional cases.
   BIBLIOGRAPHY.--The following are systematic works: Bucknill and Tuke,
   _Psychological Medicine_ (4th edition, 1879); Griesinger, _On Mental
   Diseases_ (New Sydenham Society, 1867); Maudsley, _The Pathology of
-  Mind_ (1895); Bevan Lewis, _A Text-Book of Mental Diseases_ (1899);
+  Mind_ (1895); Bevan [[Lewis]], _A Text-Book of Mental Diseases_ (1899);
   Clouston, _Clinical Lectures on Mental Diseases_ (1892); Kraepelin,
   _Psychiatrie_ (1893); Krafft-Ebing, _Lehrbuch der Psychiatrie_ (1893);
-  Regis, _A Practical Manual of Mental Medicine_ (London, 1895); Magnan,
+  Regis, _A Practical [[Manual]] of Mental Medicine_ (London, 1895); Magnan,
   _Leçons cliniques sur les maladies mentales_ (1897); Mendil,
   _Leitfaden der Psychiatrie_ (1902); Mercier, _A Text-Book of Insanity_
   (1902); Lewis C. Bruce, _Studies in Clinical Psychiatry_ (1906);
@@ -2283,16 +2283,16 @@ II. LEGAL ASPECTS
 The effect of insanity upon responsibility and civil capacity has been
 recognized at an early period in every system of law.
 
-_Roman Law._--In the Roman jurisprudence its consequences were very
+_Roman Law._--In the Roman [[Jurisprudence|jurisprudence]] its consequences were very
 fully developed, and the provisions and terminology of that system have
 largely affected the subsequent legal treatment of the subject. Its
 leading principles were simple and well marked. The insane person having
 no intelligent will, and being thus incapable of consent or voluntary
 action, could acquire no right and incur no responsibility by his own
 acts (see Sohm's _Inst. Roman Law_, 3rd ed. pp. 216, 217, 219); his
-person and property were placed after inquiry by the magistrate under
-the control of a curator, who was empowered and bound to manage the
-property of the lunatic on his behalf (Sohm, p. 513; Hunter, _Roman
+person and property were placed after inquiry by the [[Magistrate|magistrate]] under
+the control of a [[Curator|curator]], who was empowered and bound to [[Manage|manage]] the
+property of the lunatic on his behalf (Sohm, p. 513; [[Hunter]], _Roman
 Law_, pp. 732-735). The different terms by which the insane were known,
 such as _demens_, _furiosus_, _fatuus_, although no doubt signifying
 different types of insanity, did not in Roman law infer any difference
@@ -2327,7 +2327,7 @@ regulation and control of all constraint applied to the insane.
 Hitherto, the criteria of insanity had been very rude, and the evidence
 was generally of a loose and popular character; but, whenever it was
 fully recognized that insanity was a disease with which physicians who
-had studied the subject were peculiarly conversant, expert evidence
+had studied the subject were peculiarly conversant, [[Expert|expert]] evidence
 obtained increased importance, and from this time became prominent in
 every case. The newer medical views of insanity were thus brought into
 contact with the old narrow conception of the law courts, and a
@@ -2361,7 +2361,7 @@ and illiterate person) appears in the statute _De praerogativa regis as
 fatuus naturalis_, and it is placed in contradistinction to _non compos
 mentis_. The "idiot" is defined by Sir E. Coke (4 Rep. 124 (b)) as one
 who from his nativity, by a perpetual infirmity, is non compos mentis,
-and Sir M. Hale (_Pleas of the Crown_, i. 29) describes idiocy as
+and Sir M. [[Hale]] (_Pleas of the Crown_, i. 29) describes idiocy as
 "fatuity a _nativitate vel dementia naturalis_." In early times various
 artificial criteria of idiocy were suggested. Fitzherbert's test was the
 capacity of the alleged idiot to count twenty pence, or tell his age, or
@@ -2369,7 +2369,7 @@ who were his father and mother (_De natura brevium_, 233). Swinburne
 proposed as a criterion of capacity, inter alia, to measure a yard of
 cloth or name the days in the week (_Testaments_, 42). Hale propounded
 the sounder view that "idiocy or not is a question of fact triable by
-jury and sometimes by inspection" (_Pleas of the Crown_, i. 29). The
+[[Jury|jury]] and sometimes by inspection" (_Pleas of the Crown_, i. 29). The
 legal incidents of idiocy were at one time distinct in an important
 particular from those of lunacy. Under the statute _De praerogativa
 regis_ the king was to have the rents and profits of an idiot's lands to
@@ -2431,16 +2431,16 @@ understanding of a child of fourteen years of age as the test of
 responsibility in criminal cases (_Pleas of the Crown_, i. 29, 30; and
 see Co. 4 _Rep._ 124 (b)). In the 18th century a test, still more
 unsatisfactory than this "child of fourteen" theory, with its
-identification of "healthy immaturity" with "diseased maturity" (Steph.
+[[Identification|identification]] of "healthy immaturity" with "diseased maturity" (Steph.
 _Hist. Crim. Law_, ii. 150), was prescribed. On the trial of Edward
-Arnold in 1723 for firing at and wounding Lord Onslow, Mr Justice Tracy
+[[Arnold]] in 1723 for firing at and wounding Lord Onslow, Mr Justice Tracy
 told the jury that "a prisoner, in order to be acquitted on the ground
 of insanity, must be a man that is totally deprived of his understanding
 and memory, and doth not know what he is doing, no more than an infant,
 than a brute or wild beast." In the beginning of the 19th century a
 fresh statement of the test of criminal responsibility in mental disease
 was attempted. On the trial of Hadfield for shooting at George III. in
-Drury Lane Theatre on 15th May 1800, Lord Chief Justice Kenyon charged
+[[Drury]] [[Lane]] Theatre on 15th May 1800, Lord Chief Justice [[Kenyon]] charged
 the jury in the following terms: "If a man is in a deranged state of
 mind at the time, he is not criminally answerable for his acts; but the
 material part of the case is whether at the very time when the act was
@@ -2451,7 +2451,7 @@ much one of fact, to be answered by juries according to the particular
 circumstances of each case, and without being aided or embarrassed by
 any rigid external standard. But in 1812, on the trial of Bellingham for
 the murder of Mr Perceval, the First Lord of the Treasury, Sir James
-Mansfield propounded yet another criterion of criminal responsibility in
+[[Mansfield]] propounded yet another criterion of criminal responsibility in
 mental disease, viz. whether a prisoner has, at the time of committing
 an offence, a sufficient degree of capacity to distinguish between good
 and evil. The objection to this doctrine consisted in the fact, to which
@@ -2461,10 +2461,10 @@ ideas on the subject of right and wrong are quite unexceptionable, but
 who are yet unable, in consequence of delusions, to perceive the
 wrongness of particular acts. Sir James Mansfield's statement of the law
 was discredited in the case (4 _State Tri._ (n.s.) 847; 10 Cl. and Fin.
-200) of Daniel Macnaughton, who was tried in March 1843, before Chief
+200) of [[Daniel]] Macnaughton, who was tried in March 1843, before Chief
 Justice Tindal, Mr Justice Williams and Mr Justice Coleridge, for the
-murder of Mr Drummond, the private secretary of Sir Robert Peel. Mr
-(afterwards Lord Chief Justice) Cockburn, who defended the prisoner,
+murder of Mr [[Drummond]], the private secretary of Sir Robert Peel. Mr
+(afterwards Lord Chief Justice) [[Cockburn]], who defended the prisoner,
 used Hale's doctrine of partial insanity as the foundation of the
 defence, and secured an acquittal, Chief Justice Tindal telling the jury
 that the question was whether Macnaughton was capable of distinguishing
@@ -2494,7 +2494,7 @@ ground that it first assumes a man to have a delusion in regard to a
 particular subject, and then expects and requires him to reason sanely
 upon it. It may be pointed out, however, that in thus localizing the
 range of the immunity which insane delusion confers, the criminal law is
-merely following the course which, _mutatis mutandis_, the civil law
+merely following the course which, _mutatis mutandis_, the [[Civil Law|civil law]]
 has, with general acceptance, adopted in questions as to the contractual
 and testamentary capacity of the insane.
 
@@ -2521,26 +2521,26 @@ which is regarded as reducing the offence from a higher to a lower
 category,--a doctrine first practically applied in Scotland, it is
 believed, in 1867 by Lord Deas; and the fact that a prisoner is of weak
 or ill-regulated mind is often urged with success as a plea in
-mitigation of punishment. The Indian Penal Code (Act XLV. of 1860, § 84)
+mitigation of punishment. The Indian Penal [[Code]] (Act XLV. of 1860, § 84)
 expressly adopts the English test of criminal responsibility, but the
 qualifications noted in the case of Scotland have received some measure
-of judicial acceptance (see Mayne, _Crim. Law Ind._, 3rd ed., pp.
+of judicial acceptance (see [[Mayne]], _Crim. Law Ind._, 3rd ed., pp.
 403-419; Nelson, _Ind. Pen. Code_, 3rd ed., pp. 135 et seq.). The Rules
 in Macnaughton's case have also been adopted in substance in those
 colonies which have codified the criminal law. The following typical
 references may be given: 55 and 56 Vict. (Can.) c. 29, § 11; 57 Vict.
-(N.Z.), No. 56 of 1893, § 23; No. 101 of 1888 (St Lucia), § 50; No. 5 of
-1876 (Gold Coast), § 49 (b); No. 2 of 1883, art. 77 (Ceylon); No. 4 of
+(N.Z.), No. 56 of 1893, § 23; No. 101 of 1888 (St [[Lucia]]), § 50; No. 5 of
+1876 ([[Gold Coast]]), § 49 (b); No. 2 of 1883, art. 77 (Ceylon); No. 4 of
 1871, art. 84 (Straits Settlements). On the other hand, a departure
 towards a recognition of "moral insanity" is made by the Queensland
 Criminal Code (No. 9 of 1899), § 27 of which provides that "a person is
 not criminally responsible for an act" if at the time of doing it "he is
 in such a state of mental disease ... as to deprive him ... of capacity
 to control his actions": and the law has been defined in the same sense
-in the Cape of Good Hope in the case of _Queen_ v. _Hay_ (1899, 16
+in the Cape of Good Hope in the case of _Queen_ v. _[[Hay]]_ (1899, 16
 S.C.R. 290). The Rules were rapidly reproduced in the United States, but
 the modern trend of American judicial opinion is adverse to them (see
-Clevenger, _Med. Jur. of Ins._ p. 125; _Parsons_ v. _State_ (1887) 81
+Clevenger, _Med. [[Jur]]. of Ins._ p. 125; _Parsons_ v. _State_ (1887) 81
 Ala. 577). On the Continent of Europe moral insanity and irresistible
 impulse are freely recognized as exculpatory pleas (see the French _Code
 Penal_, § 64; Belgian _Code Penal_, § 71; German _Penal Code_, § 51;
@@ -2577,14 +2577,14 @@ Lunacy Act 1890, as to the discharge (conditional or absolute) and
 transfer of criminal lunatics and the detention of persons becoming
 pauper lunatics. The expenses of the maintenance of criminal lunatics
 are defrayed out of moneys provided by Parliament (Crim. Luns. Act 1884,
-and Hansard, 3rd series, vol. ccxc. p. 75; 139 Com. Jo. pp. 336, 340,
+and [[Hansard]], 3rd series, vol. ccxc. p. 75; 139 Com. Jo. pp. 336, 340,
 344). The Lunatics' Removal (India) Act 1851 provides for the removal to
 a criminal lunatic asylum in Great Britain of persons found guilty of
 crimes and offences in India, and acquitted on the ground of insanity.
 Similar provisions with regard to colonial criminal lunatics are
 contained in the Colonial Prisoners' Removal Act 1884; and the policy of
 this statute has been followed by No 5. of 1894 (New South Wales), and
-Ordin. No. 2 of 1895 (Falkland Islands). Indian law (see Act V. of 1898,
+Ordin. No. 2 of 1895 ([[Falkland Islands]]). Indian law (see Act V. of 1898,
 §§ 464-475) and the laws of the colonies (the Cape Act No. 1 of 1897 is
 a typical example) as to the trial of lunatics are similar to the
 English. In Scotland all the criminal lunatics, except those who may
@@ -2611,7 +2611,7 @@ and by Sir J. P. Wilde in a later case, raising the question of the
 validity of a marriage, that, as the mind is one and indivisible, the
 least disorder of its faculties was fatal to civil capacity. In the
 leading case of _Banks_ v. _Goodfellow_ in 1870, the court of queen's
-bench, in an elaborate judgment delivered by Chief Justice Cockburn,
+[[Bench|bench]], in an elaborate judgment delivered by Chief Justice Cockburn,
 disapproved of this doctrine, and in effect laid down the principle that
 the question of capacity must be considered with strict reference to the
 act which has to be or has been done. Thus a certain degree of
@@ -2622,7 +2622,7 @@ entered into (but see 51 Geo. III. c. 37 as to the marriage of lunatics
 so found by inquisition). Again, a man whose mind is affected may make a
 valid will, if he possesses at the time of executing it a memory
 sufficiently active to recall the nature and extent of his property, the
-persons who have claims upon his bounty, and a judgment and will
+persons who have claims upon his [[Bounty|bounty]], and a judgment and will
 sufficiently free from the influence of morbid ideas or external control
 to determine the relative strength of those claims. So far has this rule
 been carried, that in 1893 probate was granted of the will of a lady who
@@ -2647,7 +2647,7 @@ Lindsell on _Torts_, 2nd ed. pp. 39, 40; _Law Quart. Rev._ vol. xiii. p.
 325). Supervening insanity is no bar to proceedings by or against a
 lunatic husband or wife for divorce or separation for previous
 matrimonial offences. It does not avoid a marriage nor constitute _per
-se_ a ground either for divorce or for judicial separation. But cruelty
+se_ a ground either for divorce or for judicial separation. But [[Cruelty|cruelty]]
 does not cease to be a cause of suit if it proceeds from disorderly
 affections or want of moral control falling short of positive insanity;
 and possibly even cruelty springing from intermittent or recurrent
@@ -2660,7 +2660,7 @@ order that it may be so, the insanity must be of such a character as to
 have prevented the insane party from knowing the nature and consequences
 of the act at the time of its commission. The laws of Scotland, Ireland,
 India (see, e.g., Act IX. of 1872, § 12), the colonies and the United
-States are substantially identical with English law on the subject of
+States are substantially identical with [[English Law|English law]] on the subject of
 the civil capacity of the insane. The German Civil Code (§ 1569)
 recognizes the lunacy of a spouse as a ground for divorce, but only
 where the malady continues during at least three years of the union, and
@@ -2691,7 +2691,7 @@ County court judges may also exercise a limited jurisdiction in lunacy
 in the case of lunatics as to whom a reception order has been made, if
 their entire property is under £200 in value, and no relative or friend
 is willing to undertake the management of it; in partnership cases where
-the assets do not exceed £500; and upon application by the guardians of
+the assets do not exceed £500; and upon application by the [[Guardian|guardians]] of
 any union for payment of expenses incurred by them in relation to any
 lunatic.
 
@@ -2745,7 +2745,7 @@ When a person has been found lunatic by inquisition he becomes subject
 to the jurisdiction in lunacy, and remains so (unless he succeeds in
 setting aside the verdict by a "traverse"--a proceeding which ultimately
 comes before, and is determined by, the King's Bench Division in London
-or at the assizes) until his recovery, when the inquisition may be put
+or at the [[Assize|assizes]]) until his recovery, when the inquisition may be put
 an end to by a procedure technically known as "supersedeas," or by his
 death. The results of the inquisition are worked out in the Lunacy
 Office. The control of the estate, and, except where he was found
@@ -2757,7 +2757,7 @@ law. The committee of the estate in particular exercises over the
 property of the lunatic, with the sanction or by the order of the
 Master, very wide powers of management and administration, including the
 raising of money by sale, charge or otherwise, to pay the lunatic's
-debts, or provide for his past or future maintenance, charges for
+[[Debt|debts]], or provide for his past or future maintenance, charges for
 permanent improvements, the sale of any property belonging to the
 lunatic, the execution of powers vested in him and the performance of
 contracts relating to property.
@@ -2786,7 +2786,7 @@ may remit it, and a jury of twelve--see 31 & 32 Vict. c. 100, and Act of
 Sederunt of 3rd December 1868--and an application to the Junior Lord
 Ordinary of the Court of Session or (43 & 44 Vict. c. 4, § 4) to the
 Sheriff Court, when the estate in question does not exceed £100 a year,
-for the appointment of a _curator bonis_ or judicial factor.
+for the appointment of a _curator [[Boni|bonis]]_ or judicial factor.
 
 The powers of the Lord Chancellor of Ireland with regard to lunatics are
 generally similar to those of the English Chancellor (see the Lunacy
@@ -2795,14 +2795,14 @@ Regulations (Ireland) Act 1871, 34 & 35 Vict. c. 22, and the Lunacy
 Regulation (Ireland) Act_.
 
 The main feature of the French system is the provision made by the Civil
-Code (arts. 489-512) for the interdiction of an insane person by the
+Code (arts. 489-512) for the [[Interdiction|interdiction]] of an insane person by the
 Tribunal of First Instance, with a right of appeal to the Court of
 Appeal, after a preliminary inquiry and a report by a family council
 (arts. 407, 408), consisting of six blood relatives in as near a degree
-of relationship to the lunatic as possible, or, in default of such
+of relationship to the lunatic as possible, or, in [[Default|default]] of such
 relatives, of six relatives by marriage. The family council is presided
-over by the _Juge de Paix_ of the district in which the lunatic is
-domiciled. This system is also in force in Mauritius.
+over by the _[[Juge]] de Paix_ of the district in which the lunatic is
+domiciled. This system is also in force in [[Mauritius]].
 
 There are provisions, it may be noted, in Scots law for the interdiction
 of lunatics, either voluntarily or judicially (see Bell's _Principles_,
@@ -2811,7 +2811,7 @@ subject to guardianship (_vormundung_), on conditions similar to those
 of Scots and French law (see Civil Code, §§ 6, 104 (1896, 1906),
 645-679). In the United States the fundamental procedure is an
 inquisition conducted on practically the same lines as in England. (Cf.
-Indiana, _Rev. Stats._ (1894) §§ 2715 et seq.; Missouri, Annot. Code
+[[Indiana]], _Rev. Stats._ (1894) §§ 2715 et seq.; Missouri, Annot. Code
 (1892) §§ 2835 et seq.; New Mexico, _General Laws_ (1880) c. 74 §§ 1 et
 seq.).
 
@@ -2887,7 +2887,7 @@ Commissioners in Lunacy annually appoint three or more of their number
 as visitors of licensed houses.
 
 Provision is made for the discharge of lunatics from asylums, &c., on
-recovery, or by _habeas corpus_, or by the various visiting authorities.
+recovery, or by _[[Habeas Corpus|habeas corpus]]_, or by the various visiting authorities.
 Any person who considers himself to have been unjustly detained is
 entitled on discharge to obtain, free of expense, from the secretary to
 the Lunacy Commissioners a copy of the documents under which he was
@@ -2900,7 +2900,7 @@ English to require separate notice, except that in Scotland "boarding
 out" is a regular, and not merely an incidental, part of asylum
 administration. The "boarding out" principle has, however, received its
 most extended and most successful application in the Gheel colony in
-Belgium. The patients, after a few days' preliminary observation, are
+[[Belgium]]. The patients, after a few days' preliminary observation, are
 placed in families, and, except that they are under ultimate control by
 a superior commission, composed of the governor of the province, the
 Procureur du Roi and others, enjoy complete liberty indoors as well as
@@ -2922,11 +2922,11 @@ _R.S._ 1902, c. 80; Victoria (No. 1113, 1890); New Zealand (No. 34 of
 
 In America the different states of the Union have each their own lunacy
 legislation. The national government provides only for the insane of the
-army and navy, and for those residing in the District of Columbia and in
+army and navy, and for those residing in the District of [[Columbia]] and in
 Alaska. The various laws as to the reception, &c., of the insane into
 asylums closely resemble English procedure. But in several states the
 verdict of a jury finding lunacy is a necessary preliminary to the
-commitment of private patients (Kentucky, Act of 1883, c. 900, § 14;
+[[Commitment|commitment]] of private patients ([[Kentucky]], Act of 1883, c. 900, § 14;
 Maryland, _R.S._ 1878, c. 53, § 21; Illinois, _R.S._ 1874, c. 85, § 22).
 
   AUTHORITIES.--The following works may be consulted: Collinson on the
@@ -2936,21 +2936,21 @@ Maryland, _R.S._ 1878, c. 53, § 21; Illinois, _R.S._ 1874, c. 85, § 22).
   invaluable. Pope on _Lunacy_ (2nd ed., London, 1890); Archbold's
   _Lunacy_ (4th ed., London, 1895); Elmer on _Lunacy_ (7th ed., London,
   1892); Wood Renton on _Lunacy_ (London and Edinburgh, 1896); Fry's
-  _Lunacy Laws_ (3rd ed., London, 1890); Pitt-Lewis, Smith and Hawke,
+  _Lunacy Laws_ (3rd ed., London, 1890); Pitt-Lewis, Smith and [[Hawke]],
   _The Insane and the Law_ (London, 1895); Hack-Tuke, _Dictionary of
   Psychological Medicine_ (London, 1892), and the bibliographies
   attached to the various legal articles in that work; Clevenger,
   _Medical Jurisprudence of Insanity_ (2 vols., New York, 1899);
-  Semelaigne, _Les Aliénistes français_ (Paris 1849); Bertrand, _Loi sur
+  Semelaigne, _Les Aliénistes français_ (Paris 1849); [[Bertrand]], _Loi sur
   les aliénés_ (Paris, 1872), presents a comparative view of English and
   foreign legislations. In forensic medicine the works of Taylor,
-  _Medical Jurisprudence_ (5th ed., London, 1905); Dixon Mann, _Foreign
+  _Medical Jurisprudence_ (5th ed., London, 1905); Dixon [[Mann]], _Foreign
   Medicine and Toxicology_ (3rd ed., London, 1902); and Wharton and
   Stillé, _A Treatise on Medical Jurisprudence_ (Philadelphia, 1873);
   Hamilton and Godkin, _System of Legal Medicine_ (New York, 1895); are
   probably the English authorities in most common use. See also Casper
   and Liman, _Praktisches Handbuch_ _der gerichtlichen Medicin_
-  (Berlin, 6th ed., 1876); Tardieu, _Étude médico-légale sur la folie_
+  (Berlin, 6th ed., 1876); Tardieu, _Étude médico-lé[[Gale|gale]] sur la folie_
   (Paris, 1872); Legrand du Saulle, _La Folie devant les tribunaux_
   (Paris, 1864); Dubrac, _Traité de jurisprudence médicale_ (Paris,
   1894); Tourdes, _Traité de médecine légale_ (Paris, 1897); and
@@ -2989,7 +2989,7 @@ brought thither for miraculous healing. The little town became a resort
 for hundreds of insane persons, and as long ago as the 17th century
 acquired the reputation, which still exists to this day, of a unique
 colony for the insane. At the present time the village of Gheel and its
-adjacent farming hamlets (with a population of some 13,000 souls)
+adjacent farming [[Hamlet|hamlets]] (with a population of some 13,000 souls)
 provides homes, board and care for nearly 2000 insane persons under
 medical and government supervision. Numerous other shrines and holy
 wells in various parts of Europe were resorted to by the mentally
@@ -2997,7 +2997,7 @@ afflicted--such as Glen-na-Galt in Ireland, the well of St Winifred, St
 Nun's Pool, St Fillans, &c. At St Nun's the treatment consisted of
 plunging the patient backwards into the water and dragging him to and
 fro until mental excitement abated. Not only throughout the middle ages,
-but far down into the 17th century, demonology and witchcraft were
+but far down into the 17th century, [[Demonology|demonology]] and witchcraft were
 regarded as the chief causes of insanity. And the insane were frequently
 tortured, scourged, and even burned to death.
 
@@ -3040,7 +3040,7 @@ straw to protect them against the cold moisture and the hard stones they
 lie upon; deprived of air, of water to quench thirst, and all the
 necessaries of life; given up to mere gaolers and left to their
 surveillance. I have seen them in their narrow and filthy cells, without
-light and air, fastened with chains in these dens in which one would not
+light and air, fastened with chains in these [[Dens|dens]] in which one would not
 keep wild beasts. This I have seen in France, and _the insane are
 everywhere in Europe treated in the same way_." It was not until 1838
 that the insane in France were all transferred from small houses of
@@ -3086,32 +3086,32 @@ chronic insane and the constant upbuilding of asylums in new
 communities. The imperfections of census-taking in the past must also be
 taken into account.
 
-The modern hospital for the insane does credit to latter-day
+The modern hospital for the insane does [[Credit|credit]] to latter-day
 civilization. Physical restraint is no longer practised. The day of
-chains--even of wristlets, covered cribs and strait-jackets--is past.
+chains--even of wristlets, covered [[Crib|cribs]] and strait-jackets--is past.
 Neat dormitories, cosy single rooms, and sitting- and dining-rooms
 please the eye. In the place of bare walls and floors and curtainless
-windows, are pictures, plants, rugs, birds, curtains, and in many
+windows, are pictures, plants, rugs, birds, [[Curtain|curtains]], and in many
 asylums even the barred windows have been abolished. Some of the wards
 for milder patients have unlocked doors. Many patients are trusted alone
 about the grounds and on visits to neighbouring towns. An air of busy
-occupation is observed in sewing-rooms, schools, shops, in the fields
+occupation is observed in sewing-rooms, schools, shops, in the [[Fields|fields]]
 and gardens, employment contributing not only to economy in
 administration, but to improvement in mental and physical conditions.
 The general progress of medical science in all directions has been
 manifested in the department of psychiatry by improved methods of
 treatment, in the way of sleep-producing and alleviating drugs,
-dietetics, physical culture, hydrotherapy and the like. There are few
+[[Dietetics|dietetics]], physical culture, hydrotherapy and the like. There are few
 asylums now without pathological and clinical laboratories. While it is
 a far cry from the prisons and monasteries of the past to the modern
 hospital for the insane, it is still possible to trace a resemblance in
 many of our older asylums to their ancient prototypes, particularly in
-those asylums built upon the so-called corridor plan. Though each
+those asylums built upon the so-called [[Corridor|corridor]] plan. Though each
 generation contributed something new, antecedent models were more or
 less adhered to. Progress in asylum architecture has hence advanced more
 slowly in countries where monasteries and cloisters abounded than in
 countries where fixed models did not exist. Architects have had a freer
-hand in America, Australia and Germany, and even in Great Britain, than
+hand in America, [[Australia]] and Germany, and even in Great Britain, than
 in the Catholic countries of Europe.
 
 Germany approaches nearest to an ideal standard of provision for the
@@ -3147,7 +3147,7 @@ Colonies for the chronic insane are established in the country, but in
 the neighbourhood of the cities having psychopathic hospitals, to
 receive the overflow of the latter when the acute stage has passed. The
 true colony is constructed on the principle of a farming hamlet, without
-barracks, corridored buildings, or pavilions. It is similar in most
+[[Barracks|barracks]], corridored buildings, or pavilions. It is similar in most
 respects to any agricultural community. The question here is one of
 humane care and economical administration. Humane care includes medical
 supervision, agreeable home-life, recreation, and, above all things,
@@ -3192,7 +3192,7 @@ extraordinary manner under the influence of the freer movement and more
 independent occupation of colony life."
 
 In America the colony scheme has been successfully adopted by the state
-of New York at the Craig Colony for Epileptics at Sonyea and elsewhere.
+of New York at the [[Craig]] Colony for Epileptics at Sonyea and elsewhere.
 
 That the tendency nowadays, even outside of Germany, in the direction of
 the ideal standard of provision for the insane is a growing one is
@@ -3219,7 +3219,7 @@ psychopathic hospital and the colony for the insane.
 FOOTNOTES:
 
   [1] The word for "lunatic" in several other languages has a similar
-    etymology. Cp. Ital. _lunatico_, Span. _alunado_, Gr. [Greek:
+    [[Etymology|etymology]]. Cp. Ital. _lunatico_, Span. _alunado_, Gr. [Greek:
     selêniakos] (epileptic), Ger. _mondsüchtig_.
 
   [2] It has sometimes been stated that this power, which ought

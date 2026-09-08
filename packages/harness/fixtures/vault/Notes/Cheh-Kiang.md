@@ -1,10 +1,10 @@
 # Cheh-Kiang
 
 CHEH-KIANG, an eastern province of China, bounded N. by the province of
-Kiang-su, E. by the sea, S. by the province of Fu-kien, and W. by the
-provinces of Kiang-si and Ngan-hui. It occupies an area of about 36,000
+Kiang-su, E. by the sea, S. by the province of [[Fu-Kien|Fu-kien]], and W. by the
+provinces of [[Kiang-Si|Kiang-si]] and Ngan-hui. It occupies an area of about 36,000
 sq. m., and contains a population of 11,800,000. With the exception of a
-small portion of the great delta plain, which extends across the
+small portion of the great [[Delta|delta]] plain, which extends across the
 frontier from the province of Kiang-su, and in which are situated the
 famous cities of Hu Chow, Ka-hing, Hang-chow, Shao-Sing and Ning-po, the
 province forms a portion of the Nan-shan of south-eastern China, and is
@@ -20,11 +20,11 @@ In minerals the province is poor. Coal and iron are occasionally met
 with, and traces of copper ore are to be found in places, but none of
 these minerals exists in sufficiently large deposits to make mining
 remunerative. The province, however, produces cotton, rice, ground-nuts,
-wheat, indigo, tallow and beans in abundance. The principal cities are
+wheat, indigo, tallow and [[Bean|beans]] in abundance. The principal cities are
 Hang-chow, which is famed for the beauty of its surroundings, Ning-po,
 which has been frequented by foreign ships ever since the Portuguese
 visited it in the 16th century, and Wênchow. Opposite Ning-po, at a
-distance of about 50 m., lies the island of Chusan, the largest of a
+distance of about 50 m., lies the island of [[Chusan]], the largest of a
 group bearing that general name. This island is 21 m. long, and about 50
 m. in circumference. It is very mountainous, and is surrounded by
 numerous islands and islets. On its south side stands the walled town of

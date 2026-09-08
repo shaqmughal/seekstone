@@ -5,7 +5,7 @@ possibly Chalcedon). His date cannot be accurately fixed, but was
 probably the 2nd century B.C. He was noted for his representations of
 children, in dealing with whom earlier Greek art had not been very
 successful; and especially for a group representing a boy struggling
-with a goose, of which several copies survive in museums.
+with a [[Goose|goose]], of which several copies survive in museums.
 
 ## References
 

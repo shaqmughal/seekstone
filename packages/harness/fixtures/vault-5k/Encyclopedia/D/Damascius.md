@@ -1,6 +1,6 @@
 # Damascius
 
-DAMASCIUS, the last of the Neoplatonists, was born in Damascus about
+DAMASCIUS, the last of the Neoplatonists, was born in [[Damascus]] about
 A.D. 480. In his early youth he went to Alexandria, where he spent
 twelve years partly as a pupil of Theon, a rhetorician, and partly as a
 professor of rhetoric. He then turned to philosophy and science, and
@@ -11,7 +11,7 @@ close friend of Isidore, succeeded him as head of the school in Athens,
 and wrote his biography, part of which is preserved in the _Bibliotheca_
 of Photius (see appendix to the Didot edition of Diogenes Laertius). In
 529 Justinian closed the school, and Damascius with six of his
-colleagues sought an asylum, probably in 532, at the court of Chosroes
+colleagues sought an [[Asylum|asylum]], probably in 532, at the court of [[Chosroes]]
 I., king of Persia. They found the conditions intolerable, and in 533,
 in a treaty between Justinian and Chosroes, it was provided that they
 should be allowed to return. It is believed that Damascius settled in
@@ -27,7 +27,7 @@ mysticism which stultifies so much of the later pagan philosophy of
 Europe. Secondly, it contains no polemic against Christianity, to the
 doctrines of which, in fact, there is no allusion. Hence the charge of
 impiety which Photius brings against him. His main result is that God is
-infinite, and as such, incomprehensible; that his attributes of
+[[Infinite|infinite]], and as such, incomprehensible; that his attributes of
 goodness, knowledge and power are credited to him only by inference from
 their effects; that this inference is logically valid and sufficient for
 human thought. He insists throughout on the unity and the indivisibility

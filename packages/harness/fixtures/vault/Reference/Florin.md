@@ -7,9 +7,9 @@ type: note
 
 # Florin
 
-FLORIN, the name applied to several coins of the continent of Europe and
+FLORIN, the name applied to several [[Coin|coins]] of the continent of Europe and
 to two coins struck in England at different times. The word comes
-through the Fr. _florin_ from the Ital. _fiorino_, flower, Lat. _flos_,
+through the Fr. _florin_ from the Ital. _fiorino_, [[Flower|flower]], Lat. _flos_,
 _florem_. Fiorino was the Italian name of a gold coin issued at Florence
 in 1252, weighing about fifty-four grains. This coin bore on the obverse
 a lily, from which it took its name of "the flower," on the reverse the

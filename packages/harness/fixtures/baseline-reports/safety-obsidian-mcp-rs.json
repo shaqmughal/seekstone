@@ -1,10 +1,10 @@
 {
-  "snapshotDate": "2026-08-03T03:13:02.563Z",
+  "snapshotDate": "2026-09-07T04:09:24.391Z",
   "backend": {
     "name": "obsidian-mcp-rs",
     "description": "obsidian-mcp-rs (Rust, filesystem-direct, per-query scan, no Obsidian required)"
   },
-  "vaultCopyRoot": "<tmpdir>/seekstone-safety-Wi4Phm",
+  "vaultCopyRoot": "<tmpdir>/seekstone-safety-tW9I8Q",
   "originalVaultRoot": "packages/harness/fixtures/vault",
   "sampleSize": 25,
   "passByOp": {
@@ -44,6 +44,11 @@
       "skipped": 0
     },
     "cas-conflict": {
+      "pass": 0,
+      "fail": 0,
+      "skipped": 25
+    },
+    "undo-roundtrip": {
       "pass": 0,
       "fail": 0,
       "skipped": 25
@@ -100,6 +105,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -152,6 +163,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -206,6 +223,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -258,6 +281,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -309,6 +338,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -363,6 +398,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -414,6 +455,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -470,6 +517,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -522,6 +575,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -576,6 +635,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -629,6 +694,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -681,6 +752,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -732,6 +809,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -786,6 +869,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -838,6 +927,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -893,6 +988,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -944,6 +1045,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -997,6 +1104,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -1053,6 +1166,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1105,6 +1224,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -1159,6 +1284,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1211,6 +1342,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -1265,6 +1402,12 @@
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
           "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
+          "change": "—"
         }
       ]
     },
@@ -1317,6 +1460,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]
@@ -1371,6 +1520,12 @@
           "op": "cas-conflict",
           "status": "skipped",
           "reason": "backend does not support readWithHash/casWrite",
+          "change": "—"
+        },
+        {
+          "op": "undo-roundtrip",
+          "status": "skipped",
+          "reason": "backend does not support undoLastWrite",
           "change": "—"
         }
       ]

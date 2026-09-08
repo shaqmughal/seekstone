@@ -13,7 +13,7 @@ Huns) who invaded Persia from the east. He put down the rebellion of his
 brother Zareh, and is praised as a mild and generous monarch, who made
 concessions to the Christians. But as he did nothing against his enemies,
 he was, after a reign of four years, deposed and blinded, and his nephew,
-Kavadh I., raised to the throne.
+[[Kavadh]] I., raised to the throne.
 
 (ED. M.)
 

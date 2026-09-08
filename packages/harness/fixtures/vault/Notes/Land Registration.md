@@ -50,9 +50,9 @@ register, from all adverse claims. This second system is called
 Registration of Title. To these two alternatives may perhaps be added a
 third, of very recent growth--Insurance of Title. This is largely used
 in the United States. But it is in reality only a phase of the system of
-private investigation. The insurance company investigates the title, and
+private investigation. The [[Insurance|insurance]] company investigates the title, and
 charges the purchaser a premium to cover the expense and the risk of
-error. Registration of deeds is an adjunct of the system of private
+[[Error|error]]. Registration of deeds is an adjunct of the system of private
 investigation, and, except in England, is a practically invariable
 feature of it. It consists in the establishment of public offices in
 which all documents affecting land are to be recorded--partly to
@@ -64,7 +64,7 @@ document dangerous. Registration of deeds does not (except perhaps to a
 certain extent indirectly) cheapen or simplify the process of
 investigation--the formalities at the registry add something to the
 trouble and cost incurred--but it prevents the particular classes of
-fraud mentioned.
+[[Fraud|fraud]] mentioned.
 
 The history of land registration follows, as a general rule, a fairly
 uniform course of development. In very early times, and in small and
@@ -79,7 +79,7 @@ matter of common knowledge, rendering fraud and mistake difficult. But
 this method leaves a good deal to be desired in point of security.
 Witnesses die, and memory is uncertain; and one of the earliest
 improvements consists in the establishment of a sort of public record
-kept by the magistrate, lord or other local authority, containing a
+kept by the [[Magistrate|magistrate]], lord or other local authority, containing a
 series of contemporary notes of the effect of the various transactions
 that take place. This book becomes the general title-deed of the whole
 community, and as long as transactions remain simple, and not too
@@ -106,7 +106,7 @@ consist of mere notes stating that such and such deeds have been
 executed, leaving the persons interested to inquire for the originals,
 in whose custody soever they may be found. This system, which may be
 regarded as the second stage in the history of land registration, is
-called Registration of Deeds. It prevails in France, Belgium, parts of
+called Registration of Deeds. It prevails in France, [[Belgium]], parts of
 Switzerland, in Italy, Spain, India, in almost all the British colonies
 (except Australasia and Canada), in most of the states of the American
 Union, in the South American republics, in Scotland and Ireland, and in
@@ -115,7 +115,7 @@ is generally a law to the effect that in case of dispute a registered
 deed shall prevail over an unregistered one. The practical effect is
 that a purchaser can, by searching the register, find out exactly what
 deeds he ought to inquire for, and receives an assurance that if, after
-completion, he registers his own conveyance, no other deeds--even if
+completion, he registers his own [[Conveyance|conveyance]], no other deeds--even if
 they exist--will prevail against him.
 
 The expenses and delays, not to mention the occasional actual losses of
@@ -133,7 +133,7 @@ colonies, nearly the whole of Canada, some of the states of the American
 Union, to a certain extent in Ireland, and is in course of establishment
 in England and Wales. The Register consists of three portions:--(1) The
 description of the land, usually, but not necessarily, accompanied by a
-reference to a map; (2) the ownership, giving the name and address of
+reference to a [[Map|map]]; (2) the ownership, giving the name and address of
 the person who can sell and dispose of the land; and (3) the
 encumbrances, in their order of priority, and the names of the persons
 for the time being entitled to them. When any fresh transaction takes
@@ -141,7 +141,7 @@ place the instrument effecting it is produced, and the proper
 alterations in, or additions to, the register are made: if it be a sale,
 the name of the vendor is cancelled from the register, and that of the
 purchaser is entered instead; if it be a mortgage, it is added to the
-list of encumbrances; if a discharge, the encumbrance discharged is
+list of encumbrances; if a [[Discharge|discharge]], the encumbrance discharged is
 cancelled; if it is a sale of part of the land, the original description
 is modified or the plan is marked to show the piece conveyed, while a
 new description or plan is made and a new register is opened for the
@@ -157,16 +157,16 @@ England is not the case. The purchaser, on inspecting this, can easily
 see for himself whether the land he wishes to buy is comprised in the
 registered description or plan, whether the vendor's name appears on the
 register as the owner of the land, and whether there are any
-encumbrances or other burdens registered as affecting it. If there are
+encumbrances or other [[Burden|burdens]] registered as affecting it. If there are
 encumbrances, the register states their amount and who are entitled to
 them. The purchaser then usually[1] prepares a conveyance or transfer of
 the land (generally in a short printed form issued by the registry), and
-the vendor executes it in exchange for the purchase money. If there are
+the vendor executes it in [[Exchange|exchange]] for the purchase money. If there are
 mortgages, he pays them off to the persons named in the register as
 their owners, and they concur in a discharge. He then presents the
 executed instruments at the registry, and is entered as owner of the
 land instead of the vendor, the mortgages, if any, being cancelled.
-Where "land certificates" are used (as in England and Australia), a new
+Where "land certificates" are used (as in England and [[Australia]]), a new
 land certificate is issued to the purchaser showing the existing state
 of the register and containing a copy of the registered plan of the
 land. The above is only a brief outline of the processes employed. For
@@ -177,10 +177,10 @@ treatises mentioned at the end of this article.
   registration of conveyances appears to have been made by the Statute
   of Enrolments, passed in the 27th year of Henry VIII. But this was
   soon found to be capable of evasion, and it became a dead letter. A
-  Registration Act applying to the counties of Lancaster, Chester and
+  Registration Act applying to the counties of [[Lancaster]], [[Chester]] and
   Durham was passed in Queen Elizabeth's reign, but failed for want of
   providing the necessary machinery for its observance. The subject
-  reappeared in several bills during the Commonwealth, but these failed
+  reappeared in several bills during the [[Commonwealth]], but these failed
   to pass, owing, it would seem, to the objection of landowners to
   publicity. In 1669 a committee of the House of Lords reported that one
   cause of the depreciation of landed property was the uncertainty of
@@ -200,7 +200,7 @@ treatises mentioned at the end of this article.
   probable explanation is that in them trade was flourishing, and the
   fortunes made were frequently invested in land, and a protection
   against secret encumbrances was most in demand. In 1728 and 1732
-  Surrey and Derby petitioned, unsuccessfully, for local registries. In
+  Surrey and [[Derby]] petitioned, unsuccessfully, for local registries. In
   1735 the North Riding Deed Registry Act was passed. In 1739 a General
   Registry bill passed the Commons, but did not reach the Lords. Next
   year the Lords passed a similar bill, but it did not reach the
@@ -213,7 +213,7 @@ treatises mentioned at the end of this article.
   that the marketable value of real property was seriously diminished by
   the tedious and expensive process of the transfer of land, and that a
   registry of title to all real property was essential to the success of
-  any attempt to simplify the system of conveyancing. In 1850 a Royal
+  any attempt to simplify the system of [[Conveyancing|conveyancing]]. In 1850 a Royal
   Commission reported in favour of a general register of deeds, and in
   1851 Lord Campbell introduced a bill accordingly, but it was opposed,
   and was dropped. In 1853 Lord Cranworth introduced a bill, which
@@ -234,11 +234,11 @@ treatises mentioned at the end of this article.
   suggestions of detail, and especially adverting to the great expense
   caused by the strictness of the official investigation of title before
   a property could be admitted to the register. In the same year Lord
-  Hatherley introduced a Transfer of Land Bill, but it was not proceeded
+  [[Hatherley]] introduced a Transfer of Land Bill, but it was not proceeded
   with. In 1873 Lord Selborne introduced a Land Titles and Transfer
   Bill, following more or less the recommendations of the report of
   1870, proposing for the first time compulsory registration of title
-  upon every next sale after a prescribed date. Lord Cairns again
+  upon every next sale after a prescribed date. Lord [[Cairns]] again
   introduced this bill (with some modifications) in 1874, but it had to
   be dropped. In 1875 Lord Cairns's Land Transfer Act of that year was
   passed, which was much the same as the former bill, but without
@@ -260,10 +260,10 @@ treatises mentioned at the end of this article.
   registration would not be immediately felt. It would not destroy
   existing adverse claims. It would only prevent new difficulties from
   arising. In course of time such a title would be practically as good
-  as an absolute one. In 1885 the duke of Marlborough introduced a bill
+  as an absolute one. In 1885 the duke of [[Marlborough]] introduced a bill
   for a registry of titles, and in the following vacation Lord Davey
   wrote three letters to _The Times_ advocating the same thing on the
-  general lines afterwards adopted.[2] In 1887 Lord Halsbury, by
+  general lines afterwards adopted.[2] In 1887 Lord [[Halsbury]], by
   introducing his Land Transfer Bill, commenced a struggle with the
   opponents of reform, which, after ten years of almost continuous
   effort, resulted in the passing of his act of 1897, establishing
@@ -282,7 +282,7 @@ treatises mentioned at the end of this article.
   The effect of such an order is to oblige every purchaser of land in
   the district after that date to register a "possessory title,"
   immediately after his purchase. The compulsory provisions of the act
-  extend to freeholds and (by a rule afterwards made) to leaseholds
+  extend to [[Freehold|freeholds]] and (by a rule afterwards made) to leaseholds
   having forty years to run. No order except the first can be made, save
   on the request of a county council. The first order was made in July
   1898. It embraced the whole administrative county of London (including
@@ -293,7 +293,7 @@ treatises mentioned at the end of this article.
   Under the operation of this act, at the expense of a slightly
   increased cost on all transactions during a few years, persons dealing
   with land in the county will ultimately experience great relief in the
-  matter both of cost and of delay. The costs of a sale (including
+  matter both of cost and of delay. The [[Costs|costs]] of a sale (including
   professional assistance, if required) will ultimately be for the
   vendor about one-fifth, and for the purchaser (at the most usual
   values) less than half, of the present expenses. The delay will be no
@@ -319,12 +319,12 @@ treatises mentioned at the end of this article.
   act of 1617, which remained unaltered till 1845. There are also acts
   of 1868 and 1874. The registry is in Edinburgh. Deeds are registered
   almost invariably by full copy. The deeds are indexed according to
-  properties--each property having a separate number and folio called a
+  properties--each property having a separate number and [[Folio|folio]] called a
   "search sheet," on which all deeds affecting it are referred to. About
   40,000 deeds are registered annually. The consequence of the existence
   of this register is to render fraud in title absolutely unknown. Forty
   years is the usual period investigated. The investigation can, if
-  desired, be made from the records in the registry alone. The fees are
+  desired, be made from the records in the registry alone. The [[Fee|fees]] are
   trifling, but suffice to pay the expenses of the office, which employs
   between 70 and 80 permanent officers in addition to temporary
   assistants. The total costs of conveyancing amount, roughly speaking,
@@ -361,7 +361,7 @@ treatises mentioned at the end of this article.
   difficult legal work.
 
   _Canada._--Registration of _title_ was introduced in Vancouver Island
-  in 1861, was extended to the rest of British Columbia in 1870, and was
+  in 1861, was extended to the rest of [[British Columbia]] in 1870, and was
   in 1885 adopted by Ontario, Manitoba and the North-West Territories.
   Only Quebec, Nova Scotia, New Brunswick and Prince Edward Island
   retain the old English system, plus registration of deeds. The three
@@ -417,14 +417,14 @@ treatises mentioned at the end of this article.
   and a great variety of dealings therewith. The Continental systems are
   usually administered locally in districts, about 20 to 30 m. across,
   attached to the local law courts. In Baden and Württemberg every
-  parish (commune) has its own registry. All ordinary dealings are
+  parish ([[Commune|commune]]) has its own registry. All ordinary dealings are
   transacted with the greatest expedition. Security is absolute.[3]
 
   _The United States._--Up to a late date the ordinary English system,
   with registration of _deeds_, was universal in the United States. The
   registries appear to go back practically to the original settlement of
   the country. Registration is by full copy. It is said that in the
-  large towns the name indexes were often much overgrown owing to the
+  large towns the name [[Index|indexes]] were often much overgrown owing to the
   want of subdivision into smaller areas corresponding to the parishes
   into which the Middlesex and Yorkshire indexes are divided. In the New
   York registry not many years ago 25,000 deeds were registered
@@ -448,14 +448,14 @@ treatises mentioned at the end of this article.
   Hawaii and the Philippines.
 
   _France._--In France registration of _deeds_ is universal. Sales,
-  mortgages, gifts and successions; easements, leases of over eighteen
+  mortgages, gifts and successions; [[Easement|easements]], leases of over eighteen
   years, and transactions affecting the land to the extent of three
   years' rent may lose priority if not registered. Wills need not be
   registered. Mortgages must be re-registered every ten years. Purchase
   deeds are registered by filing full copies. Registries are established
   in all the considerable towns. The duty on sales amounts to the high
   figure of about 6½% on the value. Part of this is allocated to
-  registration, in addition to which a fixed fee of one franc, and
+  registration, in addition to which a fixed fee of one [[Franc|franc]], and
   stationers' charges averaging 6 francs are also chargeable. The title
   can usually be fully investigated from the documents in the registry.
   Official searches for mortgages are commonly resorted to, at a cost of
@@ -463,7 +463,7 @@ treatises mentioned at the end of this article.
   copyhold tenure, but greater validity was attached to the Court Rolls
   than was the case in England. The present system was established by a
   law of 1790 after the abolition of seigniorial institutions in 1789.
-  This was modified by the Code Napoleon, and further perfected by a law
+  This was modified by the [[Code]] Napoleon, and further perfected by a law
   of 1855. The average value of transactions in France is very small.
   Probably at the present time four-fifths of the properties are of
   under £25 value. The costs of a sale for 200 francs (£8) would be
@@ -477,7 +477,7 @@ treatises mentioned at the end of this article.
   requires a few weeks and more expense, in order to guard against
   possible claims against which the deed registries afford no
   protection, such as dowries of wives, claims under guardianships, &c.
-  A commission (Commission Extraparlementaire du Cadastre), appointed in
+  A commission (Commission Extraparlementaire du [[Cadastre]]), appointed in
   1891 to consider the revision of the government cadastral maps (which
   are in very serious arrear) and the establishment of registration of
   title, collected, in nine volumes of Comptes Rendus, a great mass of
@@ -486,7 +486,7 @@ treatises mentioned at the end of this article.
   of title, with a draft of the necessary enactment.
 
   AUTHORITIES.--A very complete list of some 114 English publications
-  from 1653 to 1895 will be found in R. Burnet Morris, _Land
+  from 1653 to 1895 will be found in R. [[Burnet]] Morris, _Land
   Registration_ (1895); Parliamentary Publications: _Second Report of
   the Real Property Commissioners_ (1831); _Report of the Registration
   and Conveyancing Commission_ (1850); _Report of the Registration of
@@ -500,7 +500,7 @@ treatises mentioned at the end of this article.
   countries: R. Burnet Morris, as above, and C. F. Brickdale, _Land
   Transfer in Various Countries_ (1894). Books on practice:
   England--Brickdale and Sheldon, _The Land Transfer Acts_ (2nd ed.,
-  1905); Cherry and Marigold, _The Land Transfer Acts_ (1898); Hay,
+  1905); Cherry and Marigold, _The Land Transfer Acts_ (1898); [[Hay]],
   _Land Registration under the Land Transfer Acts_ (1904); _Land
   Transfer, &c._ (1901); C. F. Brickdale, _Registration in Middlesex_
   (1892). _Australia--The Australian Torrens System_; Hogg, _The

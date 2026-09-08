@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fessa"
 
 # Fessa
 
-FESSA, a town and district of Persia in the province of Fars. The town
+FESSA, a town and district of Persia in the province of [[Fars]]. The town
 is situated in a fertile plain in 29° N. and 90 m. from Shiraz, and has
 a population of about 5000. The district has forty villages and extends
 about 40 m. north-south from Runiz to Nassirabad and 16 m. east-west

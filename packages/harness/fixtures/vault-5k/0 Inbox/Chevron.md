@@ -11,7 +11,7 @@ id: 42-4306
 
 CHEVRON (Fr. from _chévre_, a goat), in architecture, the beams or
 rafters in the roofs of a building, meeting in an angle with a fancied
-resemblance to the horns of a butting goat; in heraldry a bent bar on a
+resemblance to the [[Horn|horns]] of a butting goat; in heraldry a bent bar on a
 shield, used also as a distinguishing badge of rank on the sleeves of
 non-commissioned officers in most armies and navies and by police and
 other organized bodies wearing uniform, and as a mark of good conduct in

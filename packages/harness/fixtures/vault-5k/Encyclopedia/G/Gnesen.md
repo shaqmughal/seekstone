@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gnesen"
 GNESEN (Polish, _Gniezno_), a town of Germany, in the Prussian province
 of Posen, in an undulating and fertile country, on the Wrzesnia, 30 m.
 E.N.E. of Posen by the railway to Thorn. Pop. (1905) 23,727. Besides the
-cathedral, a handsome Gothic edifice with twin towers, which contains
+cathedral, a handsome [[Gothic]] edifice with twin towers, which contains
 the remains of St Adalbert, there are eight Roman Catholic churches, a
 Protestant church, a synagogue, a clerical seminary and a convent of the
 Franciscan nuns. Among the industries are cloth and linen weaving,
@@ -19,7 +19,7 @@ brewing and distilling. A great horse and cattle market is held here
 annually. Gnesen is one of the oldest towns in the former kingdom of
 Poland. Its name, _Gniezno_, signifies "nest," and points to early
 Polish traditions. The cathedral is believed to have been founded
-towards the close of the 9th century, and, having received the bones of
+towards the close of the 9th century, and, having received the [[Bone|bones]] of
 St Adalbert, it was visited in 1000 by the emperor Otto III., who made
 it the seat of an archbishop. Here, until 1320, the kings of Poland were
 crowned; and the archbishop, since 1416 primate of Poland, acted as

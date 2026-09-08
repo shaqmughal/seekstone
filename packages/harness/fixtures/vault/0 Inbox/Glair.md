@@ -1,8 +1,8 @@
 # Glair
 
-GLAIR (from Fr. _glaire_, probably from Lat. _clarus_, clear, bright),
-the white of an egg, and hence a term used for a preparation made of
-this and used, in bookbinding and in gilding, to retain the gold and as
+GLAIR (from Fr. _glaire_, probably from Lat. _clarus_, clear, [[Bright|bright]]),
+the white of an [[Egg|egg]], and hence a term used for a preparation made of
+this and used, in bookbinding and in [[Gilding|gilding]], to retain the gold and as
 a varnish. The adjective "glairy" is used of substances having the
 viscous and transparent consistency of the white of an egg.
 

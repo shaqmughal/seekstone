@@ -2,7 +2,7 @@
 
 JAEN, an inland province of southern Spain, formed in 1833 of districts
 belonging to Andalusia; bounded on the N. by Ciudad Real and Albacete,
-E. by Albacete and Granada, S. by Granada, and W. by Cordova. Pop.
+E. by Albacete and Granada, S. by Granada, and W. by [[Cordova]]. Pop.
 (1900), 474,490; area, 5848 sq. m. Jaen comprises the upper basin of the
 river Guadalquivir, which traverses the central districts from east to
 west, and is enclosed on the north, south and east by mountain ranges,

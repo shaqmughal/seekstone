@@ -9,7 +9,7 @@ topic: politics
 LUDWIGSBURG, a town in the kingdom of Württemberg, 9 m. to the N. of
 Stuttgart by rail and 1½ m. from the river Neckar. Pop. (1905) 23,093.
 It was founded and laid out at the beginning of the 18th century by the
-duke of Württemberg, Eberhard Louis, and was enlarged and improved by
+duke of Württemberg, [[Eberhard]] Louis, and was enlarged and improved by
 Duke Charles Eugène. Constructed as the adjunct of a palace the town
 bears the impress of its origin, with its straight streets and spacious
 squares. It is now mainly important as the chief military depot in

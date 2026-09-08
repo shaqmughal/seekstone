@@ -3,9 +3,9 @@
 APOLLONIUS MOLON (sometimes called simply MOLON), a Greek rhetorician,
 who flourished about 70 B.C. He was a native of Alabanda, a pupil of
 Menecles, and settled at Rhodes. He twice visited Rome as an ambassador
-from Rhodes, and Cicero and Caesar took lessons from him. He endeavoured
+from Rhodes, and Cicero and [[Caesar]] took lessons from him. He endeavoured
 to moderate the florid Asiatic style and cultivated an "Atticizing"
-tendency. He wrote on Homer, and, according to Josephus, violently
+tendency. He wrote on [[Homer]], and, according to Josephus, violently
 attacked the Jews.
 
   See C. Muller, _Fragmenta Historicorum Graecorum_, iii.; E. Schurer,
@@ -15,7 +15,7 @@ attacked the Jews.
 
 
 APOLLONIUS OF PERGA [PERGAEUS], Greek geometer of the Alexandrian
-school, was probably born some twenty-five years later than Archimedes,
+school, was probably born some twenty-five years later than [[Archimedes]],
 i.e. about 262 B.C. He flourished in the reigns of Ptolemy Euergetes and
 Ptolemy Philopator (247-205 B.C.). His treatise on _Conics_ gained him
 the title of The Great Geometer, and is that by which his fame has been
@@ -32,10 +32,10 @@ more are extant in Arabic; the eighth has never been found. Although a
 fragment has been found of a Latin translation from the Arabic made in
 the 13th century, it was not until 1661 that a Latin translation of
 Books v.-vii. was available. This was made by Giovanni Alfonso Borelli
-and Abraham Ecchellensis from the free version in Arabic made in 983 by
+and Abraham [[Ecchellensis]] from the free version in Arabic made in 983 by
 Abu 'l-Fath of Ispahan and preserved in a Florence MS. But the best
 Arabic translation is that made as regards Books i.-iv. by Hilal ibn Abi
-Hilal (d. about 883), and as regards Books v.-vii. by Tobit ben Korra
+Hilal (d. about 883), and as regards Books v.-vii. by Tobit [[Ben|ben]] Korra
 (836-901). Halley used for his translation an Oxford MS. of this
 translation of Books v.-vii., but the best MS. (Bodl. 943) he only
 referred to in order to correct his translation, and it is still
@@ -58,7 +58,7 @@ and the greater part of Book iv. are new. That he made the fullest use
 of his predecessors' works, such as Euclid's four Books on Conics, is
 clear from his allusions to Euclid, Conon and Nicoteles. The generality
 of treatment is indeed remarkable; he gives as the fundamental property
-of all the conics the equivalent of the Cartesian equation referred to
+of all the conics the equivalent of the Cartesian [[Equation|equation]] referred to
 _oblique_ axes (consisting of a diameter and the tangent at its
 extremity) obtained by cutting an oblique circular cone in any manner,
 and the axes appear only as a particular case after he has shown that
@@ -67,7 +67,7 @@ reference to any new diameter and the tangent at its extremity. It is
 clearly the form of the fundamental property (expressed in the
 terminology of the "application of areas") which led him to call the
 curves for the first time by the names _parabola_, _ellipse_,
-_hyperbola_. Books v.-vii. are clearly original. Apollonius' genius
+_[[Hyperbola|hyperbola]]_. Books v.-vii. are clearly original. Apollonius' genius
 takes its highest flight in Book v., where he treats of normals as
 minimum and maximum straight lines drawn from given points to the curve
 (independently of tangent properties), discusses how many normals can be
@@ -95,7 +95,7 @@ the rectangle contained by the two intercepts to be equal to a given
 rectangle.
 
 An Arabic version of the first was found towards the end of the 17th
-century in the Bodleian library by Dr Edward Bernard, who began a
+century in the Bodleian library by Dr Edward [[Bernard]], who began a
 translation of it; Halley finished it and published it along with a
 restoration of the second treatise in 1706.
 
@@ -109,7 +109,7 @@ line, a given ratio. Several restorations of the solution have been
 attempted, one by W. Snellius (Leiden, 1698), another by Alex. Anderson
 of Aberdeen, in the supplement to his _Apollonius Redivivus_ (Paris,
 1612), but by far the best is by Robert Simson, _Opera quaedam reliqua_
-(Glasgow, 1776).
+([[Glasgow]], 1776).
 
 4th. _De Tactionibus_ embraced the following general problem: Given
 three things (points, straight lines or circles) in position, to
@@ -121,7 +121,7 @@ Apollonian Problem, was proposed by Vieta in the 16th century to
 Adrianus Romanus, who gave a solution by means of a hyperbola. Vieta
 thereupon proposed a simpler construction, and restored the whole
 treatise of Apollonius in a small work, which he entitled _Apollonius
-Gallus_ (Paris, 1600). A very full and interesting historical account of
+[[Gallus]]_ (Paris, 1600). A very full and interesting historical account of
 the problem is given in the preface to a small work of J.W. Camerer,
 entitled _Apollonii Pergaei quae supersunt, ac maxime Lemmata Pappi in
 hos Libras, cum Observationibus, &c_. (Gothae, 1795, 8vo).
@@ -129,7 +129,7 @@ hos Libras, cum Observationibus, &c_. (Gothae, 1795, 8vo).
 5th. _De Inclinationibus_ had for its object to insert a straight line
 of a given length, tending towards a given point, between two given
 (straight or circular) lines. Restorations have been given by Marino
-Ghetaldi, by Hugo d'Omerique (_Geometrical Analysis_, Cadiz, 1698), and
+Ghetaldi, by [[Hugo]] d'Omerique (_Geometrical Analysis_, [[Cadiz]], 1698), and
 (the best) by Samuel Horsley (1770).
 
 6th. _De Locis Planis_ is a collection of propositions relating to loci
@@ -142,7 +142,7 @@ Other works of Apollonius are referred to by ancient writers, viz. (1)
 [Greek: Peri tou pyriou], _On the Burning-Glass_, where the focal
 properties of the parabola probably found a place; (2) [Greek: Peri tou
 kochliou], _On the Cylindrical Helix_ (mentioned by Proclus); (3) a
-comparison of the dodecahedron and the icosahedron inscribed in the same
+comparison of the dodecahedron and the [[Icosahedron|icosahedron]] inscribed in the same
 sphere; (4) [Greek: Hae katholou pragmateia], perhaps a work on the
 general principles of mathematics in which were included Apollonius'
 criticisms and suggestions for the improvement of Euclid's _Elements_;
@@ -152,10 +152,10 @@ the 3-1/7 and 3-10/71 of Archimedes; (6) an arithmetical work (as to
 which see PAPPUS) on a system of expressing large numbers in language
 closer to that of common life than that of Archimedes' _Sand-reckoner_,
 and showing how to multiply such large numbers; (7) a great extension of
-the theory of irrationals expounded in Euclid, Book x., from binomial to
+the theory of irrationals expounded in Euclid, Book x., from [[Binomial|binomial]] to
 multinomial and from _ordered_ to _unordered_ irrationals (see extracts
 from Pappus' comm. on Eucl. x., preserved in Arabic and published by
-Woepcke, 1856). Lastly, in astronomy he is credited by Ptolemy with an
+Woepcke, 1856). Lastly, in [[Astronomy|astronomy]] he is credited by Ptolemy with an
 explanation of the motion of the planets by a system of epicycles; he
 also made researches in the lunar theory, for which he is said to have
 been called Epsilon ([epsilon]).
@@ -169,12 +169,12 @@ been called Epsilon ([epsilon]).
   in 1675 by Barrow; (4) _Apollonii Pergaei de Sectione, Rationis libri
   duo: Accedunt ejusdem de Sectione Spatii libri duo Restituti:
   Praemittitur, &c., Opera et Studio Edmundi Halley_ (Oxoniae, 1706),
-  4to; (5) a German translation of the _Conics_ by H. Balsam (Berlin,
+  4to; (5) a German translation of the _Conics_ by H. [[Balsam]] (Berlin,
   1861); (6) the definitive Greek text of Heiberg (_Apollonii Pergaei
   quae Graece exstant Opera_, Leipzig, 1891-1893); (7) T.L. Heath,
   _Apollonius, Treatise on Conic Sections_ (Cambridge, 1896); see also
   H.G. Zeuthen, _Die Lehre van den Kegelschnitten im Altertum_
-  (Copenhagen, 1886 and 1902).     (T. L. H.)
+  ([[Copenhagen]], 1886 and 1902).     (T. L. H.)
 
 ## See also
 

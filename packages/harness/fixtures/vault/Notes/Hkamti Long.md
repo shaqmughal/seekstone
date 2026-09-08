@@ -1,8 +1,8 @@
 # Hkamti Long
 
 HKAMTI LONG (called Kantigyi by the Burmese, and Bor Hkampti by the
-peoples on the Assam side), a collection of seven Shan states
-subordinate to Burma, but at present beyond the administrative border.
+peoples on the [[Assam]] side), a collection of seven Shan states
+subordinate to [[Burma]], but at present beyond the administrative border.
 Estimated area, 900 sq. m.; estimated pop. 11,000. It lies between 27
 deg. and 28 deg. N. and 97 deg. and 98 deg. E., and is bordered by the
 Mishmi country on the N., by the Patkai range on the W., by the Hukawng

@@ -1,6 +1,6 @@
 # Demurrer
 
-DEMURRER (from Fr. _demeurer_, to delay, Lat. _morari_), in English law,
+DEMURRER (from Fr. _demeurer_, to delay, Lat. _morari_), in [[English Law|English law]],
 an objection taken to the sufficiency, in point of law, of the pleading
 or written statement of the other side. In equity pleading a demurrer
 lay only against the bill, and not against the answer; at common law any

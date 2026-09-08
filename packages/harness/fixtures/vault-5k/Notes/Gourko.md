@@ -34,7 +34,7 @@ a large mixed force, captured Gorni-Dubnik, Telische and Vratza, and, in
 the middle of November, Orkhanie itself. Plevna was isolated, and after
 its fall in December Gourko led the way amidst snow and ice over the
 Balkans to the fertile valley beyond, totally defeated Suleiman, and
-occupied Sophia, Philippopolis and Adrianople, the armistice at the end
+occupied Sophia, Philippopolis and Adrianople, the [[Armistice|armistice]] at the end
 of January 1878 stopping further operations (see RUSSO-TURKISH WARS).
 Gourko was made a count, and decorated with the 2nd class of St George
 and other orders. In 1879-1880 he was governor of St Petersburg, and

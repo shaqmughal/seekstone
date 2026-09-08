@@ -8,7 +8,7 @@ Celling (William Tilly of Selling), who became prior of Canterbury in
 1472. Celling was an ardent scholar, and one of the earliest in England
 who cultivated Greek learning. From him Linacre must have received his
 first incentive to this study. Linacre entered Oxford about the year
-1480, and in 1484 was elected a fellow of All Souls' College. Shortly
+1480, and in 1484 was elected a [[Fellow|fellow]] of All Souls' College. Shortly
 afterwards he visited Italy in the train of Celling, who was sent by
 Henry VIII. as an envoy to the papal court, and he accompanied his
 patron as far as Bologna. There he became the pupil of Angelo Poliziano,
@@ -16,12 +16,12 @@ and afterwards shared the instruction which that great scholar imparted
 at Florence to the sons of Lorenzo de' Medici. The younger of these
 princes became Pope Leo X., and was in after years mindful of his old
 companionship with Linacre. Among his other teachers and friends in
-Italy were Demetrius Chalcondylas, Hermolaus Barbaras, Aldus Romanus the
+Italy were [[Demetrius]] Chalcondylas, Hermolaus Barbaras, Aldus Romanus the
 printer of Venice, and Nicolaus Leonicenus of Vicenza. Linacre took the
 degree of doctor of medicine with great distinction at Padua. On his
 return to Oxford, full of the learning and imbued with the spirit of the
 Italian Renaissance, he formed one of the brilliant circle of Oxford
-scholars, including John Colet, William Grocyn and William Latimer, who
+scholars, including John [[Colet]], William [[Grocyn]] and William Latimer, who
 are mentioned with so much warm eulogy in the letters of Erasmus.
 
 Linacre does not appear to have practised or taught medicine in Oxford.
@@ -30,13 +30,13 @@ Arthur. On the accession of Henry VIII. he was appointed the king's
 physician, an office at that time of considerable influence and
 importance, and practised medicine in London, having among his patients
 most of the great statesmen and prelates of the time, as Cardinal
-Wolsey, Archbishop Warham and Bishop Fox.
+Wolsey, Archbishop Warham and Bishop [[Fox]].
 
 After some years of professional activity, and when in advanced life,
 Linacre received priest's orders in 1520, though he had for some years
-previously held several clerical benefices. There is no doubt that his
+previously held several clerical [[Benefice|benefices]]. There is no doubt that his
 ordination was connected with his retirement from active life. Literary
-labours, and the cares of the foundation which owed its existence
+labours, and the [[Car|cares]] of the foundation which owed its existence
 chiefly to him, the Royal College of Physicians, occupied Linacre's
 remaining years till his death on the 20th of October 1524.
 
@@ -54,7 +54,7 @@ the "New Learning." His teachers were some of the greatest scholars of
 the day. Among his pupils was one--Erasmus--whose name alone would
 suffice to preserve the memory of his instructor in Greek, and others of
 note in letters and politics, such as Sir Thomas More, Prince Arthur and
-Queen Mary. Colet, Grocyn, William Lilye and other eminent scholars were
+Queen Mary. Colet, Grocyn, William [[Lilye]] and other eminent scholars were
 his intimate friends, and he was esteemed by a still wider circle of
 literary correspondents in all parts of Europe.
 
@@ -63,13 +63,13 @@ literary correspondents in all parts of Europe.
   scholarship he was known by the rudiments of (Latin) grammar
   (_Progymnasmata Grammatices vulgaria_), composed in English, a revised
   version of which was made for the use of the Princess Mary, and
-  afterwards translated into Latin by Robert Buchanan. He also wrote a
+  afterwards translated into Latin by Robert [[Buchanan]]. He also wrote a
   work on Latin composition, _De emendata structura Latini sermonis_,
   which was published in London in 1524 and many times reprinted on the
   continent of Europe.
 
   Linacre's only medical works were his translations. He desired to make
-  the works of Galen (and indeed those of Aristotle also) accessible to
+  the works of Galen (and indeed those of [[Aristotle]] also) accessible to
   all readers of Latin. What he effected in the case of the first,
   though not trifling in itself, is inconsiderable as compared with the
   whole mass of Galen's writings; and of his translations from
@@ -114,7 +114,7 @@ literary correspondents in all parts of Europe.
   which he enjoyed among the scholars of his time. His Latin style was
   so much admired that, according to the flattering eulogium of Erasmus,
   Galen spoke better Latin in the version of Linacre than he had before
-  spoken Greek; and even Aristotle displayed a grace which he hardly
+  spoken Greek; and even Aristotle displayed a [[Grace|grace]] which he hardly
   attained to in his native tongue. Erasmus praises also Linacre's
   critical judgment ("vir non exacti tantum sed severi judicii").
   According to others it was hard to say whether he were more
@@ -124,12 +124,12 @@ literary correspondents in all parts of Europe.
   philosophers and naturalists. In this there may have been some
   exaggeration; but all have acknowledged the elevation of Linacre's
   character, and the fine moral qualities summed up in the epitaph
-  written by John Caius: "Fraudes dolosque mire perosus; fidus amicis;
+  written by John Caius: "[[Fraud|Fraudes]] dolosque mire perosus; fidus amicis;
   omnibus ordinibus juxta carus."
 
   The materials for Linacre's biography are to a large extent contained
   in the older biographical collections of George Lilly (in Paulus
-  Jovius, _Descriptio Britanniae_), Bale, Leland and Pits, in Wood's
+  Jovius, _Descriptio Britanniae_), Bale, [[Leland]] and Pits, in Wood's
   _Athenae Oxonienses_ and in the _Biographia Britannica_; but all are
   completely collected in the _Life of Thomas Linacre_, by Dr Noble
   Johnson (London, 1835). Reference may also be made to Dr Munk's _Roll

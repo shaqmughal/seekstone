@@ -13,17 +13,17 @@ handsome town hall with fine paintings, an old tower (the Hexenturm, or
 witches' tower), a museum and various educational institutions. The most
 interesting of the ecclesiastical buildings is the chapel of St Blasius,
 which was restored in 1896. The chief industries are cotton spinning,
-weaving, bleaching, dyeing, printing, machine building and lithography,
-and there is an active trade in wine, beer and cheese. Kaufbeuren is
+weaving, [[Bleaching|bleaching]], dyeing, printing, [[Machine|machine]] building and [[Lithography|lithography]],
+and there is an active trade in wine, [[Beer|beer]] and [[Cheese|cheese]]. Kaufbeuren is
 said to have been founded in 842, and is first mentioned in chronicles
 of the year 1126. It appears to have become a free imperial city about
 1288, retaining the dignity until 1803, when it passed to Bavaria. It
-was formerly a resort of pilgrims, and Roman coins have been found in
+was formerly a resort of pilgrims, and Roman [[Coin|coins]] have been found in
 the vicinity.
 
   See F. Stieve, _Die Reichsstadt Kaufbeuren und die bayrische
   Restaurationspolitik_ (Munich, 1870); and Schroder, _Geschichte der
-  Stadt und Katholischen Pfarrei Kaufbeuren_ (Augsburg, 1903).
+  Stadt und Katholischen Pfarrei Kaufbeuren_ ([[Augsburg]], 1903).
 
 ## See also
 

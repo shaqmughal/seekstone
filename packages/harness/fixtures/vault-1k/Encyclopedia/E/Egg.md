@@ -43,7 +43,7 @@ The outermost, or third, layer of this shell often takes the form of a
 glaze, as of porcelain, as for example in the burnished egg of the
 ostrich: or it may assume the character of a thick, chalky layer as in
 some cuckoos (_Guira_, _Crotophaga ani_), cormorants, grebes and
-flamingoes: while in some birds as in the auks, gulls and tinamous, this
+[[Flamingo|flamingoes]]: while in some birds as in the auks, gulls and tinamous, this
 outer layer is wanting; yet the tinamous have the most highly glazed
 eggs of all birds, the second layer of the shell developing a surface
 even more perfectly burnished than that formed by the outermost, third
@@ -246,7 +246,7 @@ the tortoises, to 200 in some of the turtles: while in the crocodiles
 between 20 and 30 are produced, hard-shelled and white.
 
 The eggs of the lizards are always white or yellowish, and generally
-soft-shelled; but the geckos and the green lizard lay hard-shelled eggs.
+soft-shelled; but the [[Gecko|geckos]] and the green lizard lay hard-shelled eggs.
 Many of the soft-shelled eggs are remarkable for the fact that they
 increase in size after extrusion, owing to the stretching of the
 membranous shell by the growing embryo. In the matter of number lizards
@@ -386,7 +386,7 @@ of very remarkable forms are commonly produced.
 
 In variety, in this connexion, the Mollusca must perhaps be given the
 first place. This diversity, indeed, is strikingly illustrated by the
-eggs of the Cephalopoda. In the squids (_Loligo_), for example, the eggs
+eggs of the [[Cephalopoda]]. In the squids (_Loligo_), for example, the eggs
 are enclosed in long cylindrical cases, of which there are several
 hundreds, attached by one end to a common centre; the whole series
 looking strangely like a rough mop-head. Each case, in such a cluster,

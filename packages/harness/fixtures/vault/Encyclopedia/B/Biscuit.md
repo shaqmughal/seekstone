@@ -8,11 +8,11 @@ of various shapes and baked in such a way as to be crisp and short. In
 the United States of America biscuits of this kind are usually called
 crackers, but the word biscuit is used there, as also in the north of
 England, for vesiculated bread baked in little flat loaves or cakes.
-Earthenware, porcelain, &c., which has undergone its first baking and is
+Earthenware, porcelain, &c., which has undergone its first [[Baking|baking]] and is
 ready to be glazed is also known as biscuit or bisque.
 
 The raw material chiefly used in biscuit manufacture is flour, but many
-other substances, such as butter, sugar, salt, various flavouring
+other substances, such as [[Butter|butter]], sugar, salt, various flavouring
 essences, &c., are also employed. The flour used by the biscuit-maker
 differs somewhat from that preferred by the bread-baker. In the main the
 bread-baker wants flour of some strength, that is to say, flour capable
@@ -23,11 +23,11 @@ the dough is largely evaporated by the oven; but, except for the
 commoner kind of biscuits, colour is most essential, as well as
 sweetness of flavour. In a large biscuit factory several hundred
 different kinds of biscuits are made, ranging from plain water biscuits
-to the daintiest fancy biscuits glistening in sugar and piping. The
+to the daintiest [[Fancy|fancy]] biscuits glistening in sugar and piping. The
 storage required for such an establishment is extensive, but lifts serve
 to handle both raw material and finished products with a minimum of
 labour. The flour used by a firm which has a reputation to maintain is
-sifted as a precaution against the presence of bits of string or other
+sifted as a precaution against the presence of [[Bit|bits]] of string or other
 foreign bodies which will make their way into flour sacked by the most
 careful of millers, and like the butter, sugar and other raw materials,
 is carefully inspected and tested before being accepted. After blending
@@ -37,7 +37,7 @@ dough is delivered on a flat table, or it may go direct to a pair of
 rolls. These consist of iron rollers with a reversing motion, between
 which the dough is rolled backwards and forwards into sheets of uniform
 thickness. The next stage is the feeding of portions of this slab of
-dough to a cutting and panning machine. In details this apparatus
+dough to a cutting and panning [[Machine|machine]]. In details this apparatus
 differs as supplied by different makers, but the broad principle is the
 same in every case. The dough, after first passing through a pair of
 gauging rollers, which still further thin out the sheet and are capable
@@ -50,7 +50,7 @@ moulded dough passes forward on the same endless band. The dough has now
 been cut into two distinct divisions, the moulded biscuits and the
 unworked portion which forms a continuous sheet of a sort of scrap. The
 latter is separated from the moulded dough, and is carried upwards by
-another band, which delivers it on a tray or box whence it is returned
+another band, which delivers it on a tray or [[Box|box]] whence it is returned
 to the rollers to be reworked. The moulded dough intended for the oven
 is carried along by the first band and is gently deposited on trays of
 sheet iron or woven wire. These trays are taken from the machine by boys
@@ -59,9 +59,9 @@ automatically moved forward by a travelling-band and placed on the oven.
 The oven used for biscuit-baking is quite unlike any bread oven. It is
 much longer and is provided with sets of endless chains moving in
 parallel lines, and travelling over sprocket-wheel terminals and
-intermediate supports. The chains have special attachments on which the
+intermediate supports. The chains have special [[Attachment|attachments]] on which the
 trays of biscuits are rested, and thus pass them through the oven, and
-discharge them at the opposite end. Some ovens are provided with a sort
+[[Discharge|discharge]] them at the opposite end. Some ovens are provided with a sort
 of endless belt of iron plates on which the biscuits are placed. These
 travelling bands are used chiefly for ship and also for dog biscuits,
 but the most usual type is the oven in which trays are moved on the
@@ -84,7 +84,7 @@ are used. Piping and sugar decoration is still necessarily done by hand,
 and the glaze on some fancy biscuits is imparted by spraying the moulded
 biscuit with very fine jets of fresh milk. Cracknels are made from a
 very stiff dough, and when cut out are thrown into coppers of boiling
-water. They speedily float to the top, remaining apart and not forming
+water. They speedily [[Float|float]] to the top, remaining apart and not forming
 into groups. From these coppers they are taken out in trays pierced so
 as to drain off the water. Then they go into vats of cold water, from
 which they are again removed, and after being strained of their moisture

@@ -1,6 +1,6 @@
 # Campodea
 
-CAMPODEA, a small whitish wingless insect with long flexible antennae
+CAMPODEA, a small whitish wingless [[Insect|insect]] with long flexible antennae
 and a pair of elongated caudal appendages. The best-known species
 (_Campodea staphylinus_) has a wide distribution and is equally at home
 in the warm valleys of south Europe, in the subarctic conditions of
@@ -9,7 +9,7 @@ damp places under stones, fallen trees or in rotten wood and leaves.
 Although blind, it immediately crawls away on exposure to the light into
 the nearest crevice or other sheltered spot, feeling the way with its
 antennae. Its action is characteristically serpentine, recalling that of
-a centipede. Campodea is one of the bristle-tailed or thysanurous
+a [[Centipede|centipede]]. Campodea is one of the bristle-tailed or thysanurous
 insects of the order Aptera (q.v.).
 
 ## See also

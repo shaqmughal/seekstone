@@ -1,18 +1,18 @@
 # Geraniaceae
 
 GERANIACEAE, in botany, a small but very widely distributed natural
-order of Dicotyledons belonging to the subclass Polypetalae, containing
+order of [[Dicotyledons]] belonging to the subclass Polypetalae, containing
 about 360 species in 11 genera. It is represented in Britain by two
 genera, _Geranium_ (crane's-bill) and _Erodium_ (stork's-bill), to which
 belong nearly two-thirds of the total number of species. The plants are
-mostly herbs, rarely becoming shrubby, with generally simple glandular
+mostly [[Herb|herbs]], rarely becoming shrubby, with generally simple glandular
 hairs on the stem and leaves. The opposite or alternate leaves have a
 pair of small stipules at the base of the stalk and a palminerved blade.
 The flowers, which are generally arranged in a cymose inflorescence, are
 hermaphrodite, hypogynous, and, except in _Pelargonium_, regular. The
-parts are arranged in fives. There are five free sepals, overlapping in
+parts are arranged in [[Fives|fives]]. There are five free sepals, overlapping in
 the bud, and, alternating with these, five free petals. In _Pelargonium_
-the flower is zygomorphic with a spurred posterior sepal and the petals
+the [[Flower|flower]] is zygomorphic with a spurred posterior sepal and the petals
 differing in size or shape. In _Geranium_ the stamens are
 obdiplostemonous, i.e. an outer whorl of five opposite the petals
 alternates with an inner whorl of five opposite the sepals; at the base
@@ -43,10 +43,10 @@ The larger-flowered species of _Geranium_ are markedly protandrous, the
 outer stamens, inner stamens and stigmas becoming functional in
 succession. For instance, in meadow crane's-bill _G. pratense_, each
 whorl of stamens ripens in turn, becoming erect and shedding their
-pollen; as the anthers wither the filaments bend outwards, and when all
+pollen; as the anthers wither the filaments [[Bend|bend]] outwards, and when all
 the anthers have diverged the stigmas become mature and ready for
 pollination. By this arrangement self-pollination is prevented and
-cross-pollination ensured by the visits of bees which come for the honey
+cross-pollination ensured by the visits of [[Bee|bees]] which come for the honey
 secreted by the glands at the base of the inner stamens.
 
 In species with smaller and less conspicuous flowers, such as _G.
@@ -70,11 +70,11 @@ folded on each other.
 _Geranium_ is the most widely distributed genus; it has 160 species and
 is spread over all temperate regions with a few species in the tropics.
 Three British species--_G. sylvaticum_, _G. pratense_ and _G.
-Robertianum_ (herb-Robert)--reach the arctic zone, while _G.
+Robertianum_ (herb-Robert)--reach the [[Arctic|arctic]] zone, while _G.
 patagonicum_ and _G. magellanicum_ are found in the antarctic. _Erodium_
 contains 50 species (three are British), most of which are confined to
 the Mediterranean region and west Asia, though others occur in America,
-in South Africa and West Australia. _Pelargonium_, with 175 species, has
+in South Africa and West [[Australia]]. _Pelargonium_, with 175 species, has
 its centre in South Africa; the well-known garden and greenhouse
 "geraniums" are species of _Pelargonium_ (see GERANIUM).
 

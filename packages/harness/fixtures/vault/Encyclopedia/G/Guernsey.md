@@ -42,26 +42,26 @@ converging upon Petit Bot are notable), and the high-banked paths,
 arched with foliage, which follow the small rills down to Moulin Huet
 Bay, are much admired under the name of water-lanes.
 
-The soil is generally light sandy loam, overlying an angular gravel
+The soil is generally light sandy [[Loam|loam]], overlying an angular gravel
 which rests upon the weathered granite. This soil requires much manure,
 and a large proportion of the total area (about three-fifths) is under
 careful cultivation, producing a considerable amount of grain, but more
 famous for market-gardening. Vegetables and potatoes are exported, with
 much fruit, including grapes and flowers. Granite is quarried and
-exported from St Sampson, and the fisheries form an important industry.
+exported from St Sampson, and the [[Fisheries|fisheries]] form an important industry.
 
 For administrative purposes Guernsey is united with Alderney, Sark, Herm
 and the adjacent islets to form the bailiwick of Guernsey, separate from
-Jersey. The peculiar constitution, machinery of administration and
+[[Jersey]]. The peculiar constitution, machinery of administration and
 justice, finance, &c., are considered under the heading CHANNEL ISLANDS.
 Guernsey is divided into the ten parishes of St Peter Port, St Sampson,
-Vale, Catel, St Saviour, St Andrew, St Martin, Forest, St Peter du Bois
+Vale, Catel, St Saviour, St Andrew, St [[Martin]], Forest, St Peter du Bois
 and Torteval. The population of St Peter Port in 1901 was 18,264; of the
 other parishes that of St Sampson was 5614 and that of Vale 5082. The
 population of the bailiwick of Guernsey nearly doubled between 1821 and
 1901, and that of the island increased from 35,243 in 1891 to 40,446 in
 1901. The island roads are excellent, Guernsey owing much in this
-respect to Sir John Doyle (d. 1834), the governor whose monument stands
+respect to Sir John [[Doyle]] (d. 1834), the governor whose monument stands
 on the promontory of Jerbourg. Like Jersey and the neighbouring part of
 France, Guernsey retains considerable traces of early habitation in
 cromlechs and menhirs, of which the most notable is the cromlech in the

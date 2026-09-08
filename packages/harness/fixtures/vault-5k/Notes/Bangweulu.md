@@ -6,7 +6,7 @@ topic: agriculture
 
 # Bangweulu
 
-BANGWEULU, a shallow lake of British Central Africa, formed by the head
+BANGWEULU, a shallow lake of [[British Central Africa]], formed by the head
 streams of the Congo. It lies between 10° 38' and 11° 31' S. and is cut by
 30° E. Bangweulu occupies the north-west part of a central basin in an
 extensive plateau, and is about 3700 ft. above the sea. The land slopes
@@ -39,14 +39,14 @@ Luapula is believed to be, though very slowly, draining Bangweulu. The
 waters of the lake do not appear to be anywhere more than 15 ft. deep.
 
 Though heard of by the Portuguese traveller, Francisco de Lacerda, in 1798,
-Bangweulu was first reached in 1868 by David Livingstone, who died six
+Bangweulu was first reached in 1868 by David [[Livingstone]], who died six
 years later among the swamps to the [v.03 p.0317] south. It was partially
-surveyed in 1883 by the French traveller, Victor Giraud, and first
+surveyed in 1883 by the French traveller, Victor [[Giraud]], and first
 circumnavigated by Poulett Weatherley in 1896.
 
 See P. Weatherley in _Geog. Journ._ vol. xii. (1898) and vol. xiv. p. 561
 (1899); L. A. Wallace in _Geog. Journ._ vol. xxix. (1907), with map by
-O. L. Beringer. Giraud's _Les Lacs de l'Afrique équatoriale_ (Paris, 1890)
+O. L. Beringer. Giraud's _Les [[Lac|Lacs]] de l'Afrique équatoriale_ (Paris, 1890)
 and Livingstone's _Last Journals_ (1874) may also be consulted.
 
 ## See also

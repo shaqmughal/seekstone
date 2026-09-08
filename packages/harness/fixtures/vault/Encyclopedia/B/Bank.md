@@ -9,7 +9,7 @@ type: article
 
 BANK,[1] known also as "Polish Bank" and "Russian Bank" a card-game. An
 ordinary pack is used. Five or six players is a convenient number. Each
-contributes an arranged stake to the pool. The dealer gives three cards to
+contributes an arranged stake to the pool. The dealer gives three [[Cards|cards]] to
 each player and turns up another; if this is not lower than an eight (ace
 is lowest) he goes on till such a card is exposed. The player on the
 dealer's left, without touching or looking at his cards, can bet the amount

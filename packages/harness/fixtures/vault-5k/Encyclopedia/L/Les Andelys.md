@@ -6,7 +6,7 @@ the department of Eure about 30 m. S.E. of Rouen by rail. Pop. (1906)
 Andely, the latter situated on the right bank of the Seine, the former
 about half a mile from the river. Grand Andely, founded, according to
 tradition, in the 6th century, has a church (13th, 14th and 15th
-centuries) parts of which are of fine late Gothic and Renaissance
+centuries) parts of which are of fine late [[Gothic]] and Renaissance
 architecture. The works of art in the interior include beautiful stained
 glass of the latter period. Other interesting buildings are the hôtel du
 Grand Cerf dating from the first half of the 16th century, and the

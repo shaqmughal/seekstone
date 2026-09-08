@@ -7,7 +7,7 @@ type: reference
 
 # Magellanic Clouds
 
-MAGELLANIC CLOUDS (named after Ferdinand Magellan), two cloud-like
+MAGELLANIC CLOUDS (named after [[Ferdinand]] Magellan), two cloud-like
 condensations of stars in the southern constellation of Mensa about 69°
 S. Dec. and between 5° and 5° 40´ of R. A. They are remarkable in the
 resemblance of their stars as regards spectra and physical constitution

@@ -53,7 +53,7 @@ many passages of considerable merit, tended but little to a correct
 interpretation of the phenomena in question. Equally unsatisfactory were
 the attempts of Joseph Priestley and some other scientific writers of
 the 18th century to connect the cause of earthquakes with electrical
-phenomena. The great earthquake of Lisbon in 1755 led the Rev. John
+phenomena. The great earthquake of [[Lisbon]] in 1755 led the Rev. John
 Michell, professor of mineralogy at Cambridge, to turn his attention to
 the subject; and in 1760 he published in the _Philosophical
 Transactions_ a remarkable essay on the Cause and Phenomena of
@@ -63,7 +63,7 @@ he remarked that an earthquake "is probably propagated through the earth
 nearly in the same manner as a noise is conveyed through the air." The
 recognition of the fact that the seismologist has to deal with the
 investigation of wave-motion in solids lies at the very base of his
-science. In 1846 Robert Mallet communicated to the Royal Irish Academy
+science. In 1846 Robert [[Mallet]] communicated to the Royal Irish Academy
 his first paper "On the Dynamics of Earthquakes"; and in the following
 year W. Hopkins, of Cambridge, presented to the British Association a
 valuable report in which earthquake phenomena were discussed in some
@@ -114,7 +114,7 @@ seismology.
 Much of Mallet's labour was directed to the determination of the
 position and magnitude of the subterranean source from which the
 vibratory impulses originated. This is known variously as the _seismic
-centre_, _centrum_, _hypocentre_, _origin_ or _focus_. It is often
+centre_, _centrum_, _hypocentre_, _origin_ or _[[Focus|focus]]_. It is often
 convenient to regard this centre theoretically as a point, but
 practically it must be a locus or space of three dimensions, which in
 different cases varies much in size and shape, and may be of great
@@ -148,7 +148,7 @@ Seebach a _pleistoseist_.
 
 In order to determine the position of the seismic centre, Mallet made
 much use of the cracks in damaged buildings, especially in walls of
-masonry, holding that the direction of such fractures must generally be
+[[Masonry|masonry]], holding that the direction of such fractures must generally be
 at right angles to that in which the normal earthquake-wave reached
 them. In this way he obtained the "angle of emergence" of the wave. He
 also assumed that free-falling bodies would be overthrown and projected
@@ -158,7 +158,7 @@ data are, however, subject to much error, especially through want of
 homogeneity in the rocks, but Mallet's work was still of great value.
 
 
-  Charleston earthquake, 1886.
+  [[Charleston]] earthquake, 1886.
 
 A different method of ascertaining the depth of the focus was adopted by
 Major C.E. Dutton in his investigation of the Charleston earthquake of
@@ -184,7 +184,7 @@ catastrophe on various structures and natural objects, or, where visible
 records were wanting, by personal evidence, which is often vague and
 variable. The Rossi-Forel scale was adopted. This is an arbitrary scale
 formulated by Professor M.S. de Rossi, of Rome, and Dr F.A. Forel, of
-Geneva, based mostly on the ordinary phenomena observed during an
+[[Geneva]], based mostly on the ordinary phenomena observed during an
 earthquake, and consisting of ten degrees, of which the lowest is the
 feeblest, viz. I. Microseismic shock; II. Extremely feeble shock; III.
 Very feeble shock; IV. Feeble; V. Shock of moderate intensity; VI.
@@ -249,7 +249,7 @@ since its centre seems to have been located in the Kangra valley, in the
 north-west Himalaya. It occurred on the 4th of April 1905, and the first
 great shocks were felt in the chief epifocal district at about 6.9 a.m.,
 Madras time. Although the tract chiefly affected was around Kangra and
-Dharmsala, there was a subordinate epifocal tract in Dehra Dun and the
+Dharmsala, there was a subordinate epifocal tract in [[Dehra Dun]] and the
 neighbourhood of Mussoorie, whilst the effects of the earthquake
 extended in slight measure to Lahore and other cities of the plain. It
 is estimated that the earthquake was felt over an area of about
@@ -1025,7 +1025,7 @@ Protestant heretics in their midst. To avoid a recurrence of disaster
 certain of these were baptized by force. In the myths relating to
 underground monsters and personages that are said to be the cause of
 earthquakes we see the direct effects which exhibitions of seismic and
-volcanic activity have produced upon the imagination. The beliefs, or
+volcanic activity have produced upon the [[Imagination|imagination]]. The beliefs, or
 more properly, perhaps, the poetical fancies, thus engendered have
 exhibited themselves in various forms. Beneath Japan there is said to be
 a catfish, which in other countries is replaced by a mole, a hog, an
@@ -1163,7 +1163,7 @@ of nearly 1.2% per mile of descent.     (J. Mi.)
   31, 1886," Ninth Annual _Report_ of the United States Geological
   Survey, 1889; W.H. Hobbs, _Earthquakes, an Introduction to Seismic
   Geology_ (London, 1908), "The San Francisco Earthquake and Fire,
-  1906," _Bull. U.S. Geol. Surv._ No. 324; "The California Earthquake of
+  1906," _[[Bull]]. U.S. Geol. Surv._ No. 324; "The California Earthquake of
   Ap. 18, 1906," _Rep. State Earthq. Com._ (Washington, D.C., 1908);
   R.D. Oldham, "Report on the Great Earthquake of 12 June 1897," _Mem.
   Geol. Surv. India_, xxix. 1899, "On the Propagation of Earthquake
@@ -1215,7 +1215,7 @@ FOOTNOTES:
     papers are printed in several languages.
 
   [5] The records of the British Association stations are published
-    (since 1896) in the _Reports_. Chile has a national earthquake
+    (since 1896) in the _Reports_. [[Chile]] has a national earthquake
     service (founded after the Valparaiso earthquake of August 1906)
     directed by comte de Montessus de Ballore.
 

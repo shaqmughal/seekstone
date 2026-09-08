@@ -8,38 +8,38 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Grotius"
 
 # Grotius
 
-GROTIUS, HUGO (1583-1645), in his native country Huig van Groot, but
+GROTIUS, [[Hugo|HUGO]] (1583-1645), in his native country Huig van [[Groot]], but
 known to the rest of Europe by the latinized form of the name, Dutch
-publicist and statesman, was born at Delft on Easter day, the 10th of
+publicist and statesman, was born at Delft on [[Easter]] day, the 10th of
 April 1583. The Groots were a branch of a family of distinction, which
 had been noble in France, but had removed to the Low Countries more than
-a century before. Their French name was de Cornets, and this cadet
+a century before. Their French name was de Cornets, and this [[Cadet|cadet]]
 branch had taken the name of Groot on the marriage of Hugo's
 great-grandfather with a Dutch heiress. The father of Hugo was a lawyer
 in considerable practice, who had four times served the office of
-burgomaster of Leiden, and was one of the three curators of the
+burgomaster of Leiden, and was one of the three [[Curator|curators]] of the
 university of that place.
 
-In the annals of precocious genius there is no greater prodigy on record
+In the [[Annals|annals]] of precocious genius there is no greater prodigy on record
 than Hugo Grotius, who was able to make good Latin verses at nine, was
 ripe for the university at twelve, and at fifteen edited the
-encyclopaedic work of Martianus Capella. At Leiden he was much noticed
+encyclopaedic work of Martianus [[Capella]]. At Leiden he was much noticed
 by J. J. Scaliger, whose habit it was to engage his young friends in the
 editing of some classical text. At fifteen Grotius accompanied Count
 Justin of Nassau, and the grand pensionary J. van Olden Barneveldt on
-their special embassy to the court of France. After a year spent in
+their special [[Embassy|embassy]] to the court of France. After a year spent in
 acquiring the language and making acquaintance with the leading men of
 France, Grotius returned home. He took the degree of doctor of law at
 Leiden, and entered on practice as an advocate.
 
 Notwithstanding his successes in his profession, his inclination was to
 literature. In 1600 he edited the remains of Aratus, with the versions
-of Cicero, Germanicus and Avienus. Of the _Germanicus_ Scaliger says--"A
+of Cicero, Germanicus and [[Avienus]]. Of the _Germanicus_ Scaliger says--"A
 better text than that which Grotius has given, it is impossible to
 give"; but it is probable that Scaliger had himself been the reviser.
 Grotius vied with the Latinists of his day in the composition of Latin
 verses. Some lines on the siege of Ostend spread his fame beyond the
-circle of the learned. He wrote three dramas in Latin:--_Christus
+circle of the learned. He wrote three [[Drama|dramas]] in Latin:--_Christus
 patiens; Sophomphaneas_, on the story of Joseph and his brethren; and
 _Adamus exul_, a production still remembered as having given hints to
 Milton. The _Sophomphaneas_ was translated into Dutch by Vondel, and
@@ -53,7 +53,7 @@ was but twenty years of age, and had not offered himself for the post.
 There was some talk at this time in Paris of calling Grotius to be
 librarian of the royal library. But it was a ruse of the Jesuit party,
 who wished to persuade the public that the opposition to the appointment
-of Isaac Casaubon did not proceed from theological motives, since they
+of [[Isaac]] [[Casaubon]] did not proceed from theological motives, since they
 were ready to appoint a Protestant in the person of Grotius.
 
 His next preferment was that of advocate-general of the fisc for the
@@ -65,8 +65,8 @@ Grotius had already passed from occupation with the classics to studies
 more immediately connected with his profession. In the winter of 1604 he
 composed (but did not publish) a treatise entitled _De jure praedae_.
 The MS. remained unknown till 1868, when it was brought to light, and
-printed at the Hague under the auspices of Professor Fruin. It shows
-that the principles and the plan of the celebrated _De jure belli_,
+printed at the [[Hague]] under the auspices of Professor Fruin. It shows
+that the principles and the plan of the celebrated _De jure [[Belli|belli]]_,
 which was not composed till 1625, more than twenty years after, had
 already been conceived by a youth of twenty-one. It has always been a
 question what it was that determined Grotius, when an exile in Paris in
@@ -85,14 +85,14 @@ bring--the substitution of more cautious and guarded language, less
 dogmatic affirmation, more allowance for exceptions and deviations. The
 _Jus pacis_ was an addition introduced first in the later work, an
 insertion which is the cause of not a little of the confused arrangement
-which has been found fault with in the _De jure belli_.
+which has been found [[Fault|fault]] with in the _De jure belli_.
 
 The _De jure praedae_ further demonstrates that Grotius was originally
 determined to this subject, not by any speculative intellectual
 interest, but by a special occasion presented by his professional
-engagements. He was retained by the Dutch East India Company as their
+engagements. He was retained by the [[Dutch East India Company]] as their
 advocate. One of their captains, Heemskirk, had captured a rich
-Portuguese galleon in the Straits of Malacca. The right of a private
+Portuguese galleon in the Straits of [[Malacca]]. The right of a private
 company to make prizes was hotly contested in Holland, and denied by the
 stricter religionists, especially the Mennonites, who considered all war
 unlawful. Grotius undertook to prove that Heemskirk's prize had been
@@ -132,7 +132,7 @@ which Grotius was afterwards known, had been arrived at by him by
 independent reflection, yet it could not but be that he would be
 confirmed in them by finding in England a developed school of thought of
 the same character already in existence. How highly Casaubon esteemed
-Grotius appears from a letter of his to Daniel Heinsius, dated London,
+Grotius appears from a letter of his to [[Daniel]] Heinsius, dated London,
 13th of April 1613. "I cannot say how happy I esteem myself in having
 seen so much of one so truly great as Grotius. A wonderful man! This I
 knew him to be before I had seen him; but the rare excellence of that
@@ -152,13 +152,13 @@ Remonstrants), might agree. A form of edict drawn by Grotius was
 published by the states, recommending mutual toleration, and forbidding
 ministers in the pulpit from handling the disputed dogmas. To the
 orthodox Calvinists the word toleration was insupportable. They had the
-populace on their side. This fact determined the stadtholder, Maurice of
+populace on their side. This fact determined the stadtholder, [[Maurice]] of
 Nassau, to support the orthodox party--a party to which he inclined the
 more readily that Olden Barneveldt, the grand pensionary, the man whose
 uprightness and abilities he most dreaded, sided with the Remonstrants.
 
 In 1618 Prince Maurice set out on a sort of pacific campaign, disbanding
-the civic guards in the various cities of Guelders, Holland and Zeeland,
+the civic [[Guards|guards]] in the various cities of Guelders, Holland and Zeeland,
 and occupying the places with troops on whom he could rely. The states
 of Holland sent a commission, of which Grotius was chairman, to Utrecht,
 with the view of strengthening the hands of their friends, the
@@ -197,18 +197,18 @@ complained that it was so heavy "there must be an Arminian in it."
 "There are indeed," said Madame Grotius, "Arminian books in it." The
 chest was carried to the house of a friend, where Grotius was released.
 He was then dressed like a mason with hod and trowel, and so conveyed
-over the frontier. His first place of refuge was Antwerp, from which he
+over the frontier. His first place of refuge was [[Antwerp]], from which he
 proceeded to Paris, where he arrived in April 1621. In October he was
 joined by his wife. There he was presented to the king, Louis XIII., and
 a pension of 3000 livres conferred upon him. French pensions were easily
 granted, all the more so as they were never paid. Grotius was now
 reduced to great straits. He looked about for any opening through which
-he might earn a living. There was talk of something in Denmark; or he
+he might earn a living. There was talk of something in [[Denmark]]; or he
 would settle in Spires, and practise in the court there. Some little
 relief he got through the intervention of Etienne d'Aligre, the
-chancellor, who procured a royal mandate which enabled Grotius to draw,
+chancellor, who procured a royal [[Mandate|mandate]] which enabled Grotius to draw,
 not all, but a large part of his pension. In 1623 the president Henri de
-Meme lent him his chateau of Balagni near Senlis (dep. Oise), and there
+Meme [[Lent|lent]] him his chateau of Balagni near Senlis (dep. Oise), and there
 Grotius passed the spring and summer of that year. De Thou gave him
 facilities to borrow books from the superb library formed by his father.
 
@@ -221,7 +221,7 @@ of the work made in 1604. He had also got his brother William, when
 reading his classics, to mark down all the passages which touched upon
 law, public or private. In March 1625 the printing of the _De jure
 belli_, which had taken four months, was completed, and the edition
-despatched to the fair at Frankfort. His own honorarium as author
+despatched to the fair at [[Frankfort]]. His own honorarium as author
 consisted of 200 copies, of which, however, he had to give away many to
 friends, to the king, the principal courtiers, the papal nuncio, &c.
 What remained he sold for his own profit at the price of a crown each,
@@ -247,11 +247,11 @@ weakness, and that rest would restore the patient. But Grotius sank
 rapidly, and died on the 29th of August 1645.
 
 Grotius combined a wide circle of general knowledge with a profound
-study of one branch of law. History, theology, jurisprudence, politics,
-classics, poetry,--all these fields he cultivated. His commentaries on
+study of one branch of law. History, theology, [[Jurisprudence|jurisprudence]], politics,
+classics, poetry,--all these [[Fields|fields]] he cultivated. His commentaries on
 the Scriptures were the first application on an extensive scale of the
 principle affirmed by Scaliger, that, namely, of interpretation by the
-rules of grammar without dogmatic assumptions. Grotius's philological
+rules of grammar without dogmatic [[Assumption|assumptions]]. Grotius's philological
 skill, however, was not sufficient to enable him to work up to this
 ideal.
 
@@ -261,19 +261,19 @@ by an ardent desire for peace and concord. He thought that a basis for
 reconciliation of Protestant and Catholic might be found in a common
 piety, combined with reticence upon discrepancies of doctrinal
 statement. His _De veritate religionis Christianae_ (1627), a
-presentment of the evidences, is so written as to form a code of common
+presentment of the evidences, is so written as to form a [[Code|code]] of common
 Christianity, irrespective of sect. The little treatise became widely
 popular, gaining rather than losing popularity in the 18th century. It
-became the classical manual of apologetics in Protestant colleges, and
+became the classical [[Manual|manual]] of apologetics in Protestant colleges, and
 was translated for missionary purposes into Arabic (by Pococke, 1660),
 Persian, Chinese, &c. His _Via et votum ad pacem ecclesiasticam_ (1642)
 was a detailed proposal of a scheme of accommodation. Like all men of
 moderate and mediating views, he was charged by both sides with
 vacillation. An Amsterdam minister, James Laurent, published his
 _Grotius papizans_ (1642), and it was continually being announced from
-Paris that Grotius had "gone over." Hallam, who has collected all the
+Paris that Grotius had "gone over." [[Hallam]], who has collected all the
 passages from Grotius's letters in which the prejudices and narrow
-tenets of the Reformed clergy are condemned, thought he had a "bias
+tenets of the Reformed clergy are condemned, thought he had a "[[Bias|bias]]
 towards popery" (_Lit. of Europe_, ii. 312). The true interpretation of
 Grotius's mind appears to be an indifference to dogmatic propositions,
 produced by a profound sentiment of piety. He approached parties as a
@@ -296,7 +296,7 @@ principles of jurisprudence, went far more fundamentally into the
 discussion than any one had done before him. The title of the work was
 so far misleading that the _jus belli_ was a very small part of his
 comprehensive scheme. In his treatment of this narrower question he had
-the works of Alberico Gentili and Ayala before him, and has acknowledged
+the works of Alberico [[Gentili]] and [[Ayala]] before him, and has acknowledged
 his obligations to them. But it is in the larger questions to which he
 opened the way that the merit of Grotius consists. His was the first
 attempt to obtain a principle of right, and a basis for society and
@@ -305,7 +305,7 @@ religion on the one hand and law and morality on the other is not indeed
 clearly conceived by Grotius, but he wrestles with it in such a way as
 to make it easy for those who followed him to seize it. The law of
 nature is unalterable; God Himself cannot alter it any more than He can
-alter a mathematical axiom. This law has its source in the nature of man
+alter a mathematical [[Axiom|axiom]]. This law has its source in the nature of man
 as a social being; it would be valid even were there no God, or if God
 did not interfere in the government of the world. These positions,
 though Grotius's religious temper did not allow him to rely unreservedly
@@ -317,8 +317,8 @@ epoch in the science. De Quincey has said that the book is equally
 divided between "empty truisms and time-serving Dutch falsehoods." For a
 saner judgment and a brief abstract of the contents of the _De jure_,
 consult J. K. Bluntschli, _Geschichte des allgemeinen Staatsrechts_
-(Munich, 1864). A fuller analysis, and some notice of the predecessors
-of Grotius, will be found in Hely, _Etude sur le droit de la guerre de
+(Munich, 1864). A [[Fuller|fuller]] analysis, and some notice of the predecessors
+of Grotius, will be found in Hely, _Etude sur le [[Droit|droit]] de la guerre de
 Grotius_ (Paris, 1875). The writer, however, had never heard of the _De
 jure praedae_, published in 1868. Hallam, _Lit. of Europe_, ii. p. 543,
 has an abstract done with his usual conscientious pains. Dugald Stewart
@@ -329,13 +329,13 @@ that the world has yet owed, at so early a stage in the progress of any
 science, to the genius and learning of one man."
 
   The chief writings of Grotius have been named. For a complete
-  bibliography of his works, see Lehmann, _Hugonis Grotii manes
+  bibliography of his works, see Lehmann, _Hugonis Grotii [[Manes|manes]]
   vindicati_ (Delft, 1727), which also contains a full biography. Of
   this Latin life De Burigny published a rechauffee in French (2 vols.,
   8vo, Paris, 1752). Other lives are: Van Brandt, _Historie van het
-  Leven H. de Groot_ (2 vols., 8vo, Dordrecht, 1727); Von Luden, _Hugo
+  Leven H. de Groot_ (2 vols., 8vo, [[Dordrecht]], 1727); Von Luden, _Hugo
   Grotius nach seinen Schicksalen und Schriften dargestellt_ (8vo,
-  Berlin, 1806); _Life of Hugo Grotius_, by Charles Butler of Lincoln's
+  Berlin, 1806); _Life of Hugo Grotius_, by Charles [[Butler]] of Lincoln's
   Inn (8vo, London, 1826). The work of the Abbe Hely contains a life of
   Grotius. See also _Hugo Grotius_, by L. Neumann (Berlin, 1884);
   _Opinions of Grotius_, by D. P. de Bruyn (London, 1894).
@@ -344,13 +344,13 @@ science, to the genius and learning of one man."
   Amsterdam (1644-1646; reprinted London, 1660; Amsterdam, 1679; and
   again Amsterdam, 1698). His letters were printed first in a selection,
   _Epistolae ad Gallos_ (12mo, Leiden, 1648), abounding, though an
-  Elzevir, in errors of the press. They were collected in _H. Grotii
+  [[Elzevir]], in [[Error|errors]] of the press. They were collected in _H. Grotii
   epistolae quotquot reperiri poluerunt_ (fol., Amsterdam, 1687). A few
   may be found scattered in other collections of _Epistolae_.
   Supplements to the large collection of 1687 were published at Haarlem,
   1806; Leiden, 1809; and Haarlem, 1829. The _De jure belli_ was
   translated into English by Whewell (3 vols., 8vo, Cambridge, 1853);
-  into French by Barbeyrac (2 vols. 4to, Amsterdam, 1724); into German
+  into French by [[Barbeyrac]] (2 vols. 4to, Amsterdam, 1724); into German
   in Kirchmann's _Philosophische Bibliothek_ (3 vols. 12mo, Leipzig,
   1879).     (M. P.)
 

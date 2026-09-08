@@ -7,7 +7,7 @@ G. Agricola, 1546). The crystals have the form of six-sided tables or
 prisms; the angle between the prism faces (lettered o in the figure)
 being 60° 25'. When twinned on the prism planes o, as is frequently the
 case, the crystals simulate hexagonal symmetry still more closely, as in
-the minerals aragonite and chrysoberyl. Twinning also takes place
+the minerals [[Aragonite|aragonite]] and [[Chrysoberyl|chrysoberyl]]. Twinning also takes place
 according to two other laws, giving rise to interpenetrating crystals
 with the basal planes (s) of the two individuals inclined at angles of
 69° or 87° 56' respectively. The mineral also occurs as compact masses
@@ -26,13 +26,13 @@ It usually occurs in the upper part of the copper-bearing lodes, and is
 a secondary sulphide derived from the chalcopyrite met with at greater
 depths; sometimes, however, the two minerals are found together in the
 same part of the lodes. The best crystals are from St Just, St Ives, and
-Redruth in Cornwall, and from Bristol in Connecticut. Small crystals of
+Redruth in [[Cornwall]], and from [[Bristol]] in Connecticut. Small crystals of
 recent formation are found on Roman bronze coins in the thermal springs
 at Bourbonne-les-Bains.
 
 Copper-glance readily alters to other minerals, such as malachite,
 covellite, melaconite and chalcopyrite. On the other hand, it is found
-as pseudomorphs after chalcopyrite, galena, and organic structures such
+as pseudomorphs after chalcopyrite, [[Galena|galena]], and organic structures such
 as wood; copper-glance pseudomorphous after galena preserves the
 cleavage of the original mineral and is known as harrisite.
 

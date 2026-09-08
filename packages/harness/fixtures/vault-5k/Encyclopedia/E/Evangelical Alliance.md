@@ -8,7 +8,7 @@ type: article
 # Evangelical Alliance
 
 EVANGELICAL ALLIANCE, an association of individual Christians of
-different denominations formed in London in August 1846, at a conference
+different [[Denomination|denominations]] formed in London in August 1846, at a conference
 of over 900 clergymen and laymen from all parts of the world, and
 representing upwards of fifty sections of the Protestant church. The
 idea originated in Scotland in the preceding year, and was intended "to
@@ -31,7 +31,7 @@ persons therein; the utter depravity of human nature in consequence of
 the fall; the incarnation of the Son of God, His work of atonement for
 sinners of mankind, and His mediatorial intercession and reign; the
 justification of the sinner by faith alone; the work of the Holy Spirit
-in the conversion and sanctification of the sinner; the immortality of
+in the [[Conversion|conversion]] and sanctification of the sinner; the immortality of
 the soul, the resurrection of the body, the judgment of the world by our
 Lord Jesus Christ, with the eternal blessedness of the righteous and the
 eternal punishment of the wicked; the divine institution of the
@@ -48,14 +48,14 @@ America and several continental countries; and it is provided that a
 general conference, including representatives of the whole alliance, be
 held every seventh year, or oftener if it be deemed necessary. Such
 conferences have been held in London in 1851; Paris, 1855; Berlin, 1857;
-Geneva, 1861; Amsterdam, 1867; New York, 1873; Basel, 1879; Copenhagen,
+[[Geneva]], 1861; Amsterdam, 1867; New York, 1873; Basel, 1879; [[Copenhagen]],
 1885; Florence, 1891; London, 1896 and 1907. They are occupied with the
 discussion of the "best methods of counteracting infidelity, Romanism
 and ritualism, and the desecration of the Lord's Day," and of furthering
 the positive objects of the alliance. The latter are sometimes stated as
 follows: (a) "The world girdled by prayer"; a world-wide week of prayer
 is held annually, beginning on the first Sunday in the year, (b) "The
-maintenance of religious liberty throughout the world." (c) "The relief
+[[Maintenance|maintenance]] of religious liberty throughout the world." (c) "The relief
 of persecuted Christians in all parts"; the alliance has agents in many
 countries to help the persecuted by distributing relief, &c., and in
 Russia there is a travelling agent who endeavours to help the Stundists.
@@ -73,7 +73,7 @@ of the evangelical faith."
 
 
 EVANGELICAL ASSOCIATION of North America, a religious denomination,
-founded about the beginning of the 19th century by Jacob Albright
+founded about the beginning of the 19th century by [[Jacob]] Albright
 (1759-1808), a German Lutheran of Pennsylvania. About 1790 he began an
 itinerant mission among his fellow-countrymen, chiefly in Pennsylvania;
 and meeting with considerable success, he was, at an assembly composed

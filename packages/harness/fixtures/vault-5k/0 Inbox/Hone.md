@@ -19,15 +19,15 @@ acquired a taste for free-thought and political agitation. Hone married
 in 1800, and started a book and print shop with a circulating Library in
 Lambeth Walk. He soon removed to St Martin's Churchyard, where he
 brought out his first publication, Shaw's _Gardener_ (1806). It was at
-this time that he and his friend, John Bone, tried to realize a plan for
+this time that he and his friend, John [[Bone]], tried to realize a plan for
 the establishment of popular savings banks, and even had an interview on
 the subject with the president of the Board of Trade. This scheme,
 however, failed. Bone joined him next in a bookseller's business; but
-Hone's habits were not those of a tradesman, and bankruptcy was the
+Hone's habits were not those of a tradesman, and [[Bankruptcy|bankruptcy]] was the
 result. He was in 1811 chosen by the booksellers as auctioneer to the
-trade, and had an office in Ivy Lane. Independent investigations carried
-on by him into the condition of lunatic asylums led again to business
-difficulties and failure, but he took a small lodging in the Old Bailey,
+trade, and had an office in Ivy [[Lane]]. Independent investigations carried
+on by him into the condition of lunatic [[Asylum|asylums]] led again to business
+difficulties and failure, but he took a small lodging in the Old [[Bailey]],
 keeping himself and his now large family by contributions to magazines
 and reviews. He hired a small shop, or rather box, in Fleet Street but
 this was on two separate nights broken into, and valuable books lent for
@@ -37,7 +37,7 @@ quite guiltless, who was executed on a charge of poisoning. From
 February 1 to October 25, 1817, he published the _Reformer's Register_,
 writing in it as the serious critic of the state abuses, which he soon
 after attacked in the famous political squibs and parodies, illustrated
-by George Cruikshank. In April 1817 three _ex-officio_ informations were
+by George [[Cruikshank]]. In April 1817 three _ex-officio_ informations were
 filed against him by the attorney-genera, Sir William Garrow. Three
 separate trials took place in the Guildhall before special juries on the
 18th, 19th and 20th of December 1817. The first, for publishing Wilkes's
@@ -57,11 +57,11 @@ the floor of that court." In spite of illness and exhaustion Hone
 displayed great courage and ability, speaking on each of the three days
 for about seven hours. Although his judges were biassed against him he
 was acquitted on each count, and the result was received with
-enthusiastic cheers by immense crowds within and without the court. Soon
+enthusiastic cheers by immense [[Crowd|crowds]] within and without the court. Soon
 after the trials a subscription was begun which enabled Hone to get over
 the difficulties caused by his prosecution. Among Hone's most successful
 political satires were _The Political House that Jack built_ (1819),
-_The Queen's Matrimonial Ladder_ (1820), in favour of Queen Caroline,
+_The Queen's Matrimonial [[Ladder]]_ (1820), in favour of Queen Caroline,
 _The Man in the Moon_ (1820), _The Political Showman_ (1821), all
 illustrated by Cruikshank. Many of his squibs are directed against a
 certain "Dr Slop," a nickname given by him to Dr (afterwards Sir John)
@@ -74,7 +74,7 @@ published the _Every-day Book_, in 1827-1828 the _Table-Book_, and in
 on manners, antiquities and various other subjects. These are the works
 by which Hone is best remembered. In preparing them he had the approval
 of Southey and the assistance of Charles Lamb, but pecuniarily they were
-not successful, and Hone was lodged in King's Bench prison for debt.
+not successful, and Hone was lodged in King's [[Bench]] prison for debt.
 Friends, however, again came to his assistance, and he was established
 in a coffee-house in Gracechurch Street; but this, like most of his
 enterprises, ended in failure. Hone's attitude of mind had gradually

@@ -10,10 +10,10 @@ type: source
 COOPERSTOWN, a village and the county-seat of Otsego county, New York,
 U.S.A., where the Susquehanna river emerges from Otsego Lake; about 92
 m. (by rail) W. of Albany. Pop. (1890) 2657; (1900) 2368; (1905) 2446;
-(1910) 2484. It is served by the Cooperstown & Charlotte Valley railway
-(owned and controlled by the Delaware & Hudson), and is on the line of
+(1910) 2484. It is served by the Cooperstown & [[Charlotte]] Valley railway
+(owned and controlled by the [[Delaware]] & [[Hudson]]), and is on the line of
 the Oneonta & Mohawk Valley electric railway. The village lies in the
-midst of a hop-growing and dairying region, and has cheese factories and
+midst of a hop-growing and dairying region, and has [[Cheese|cheese]] factories and
 creameries. It has a public library, Thanksgiving hospital, a Y.M.C.A.
 hall, and the Diocesan orphanage (Protestant Episcopal). Cooperstown is
 a summer resort, Otsego Lake (9 m. long and with an average width of

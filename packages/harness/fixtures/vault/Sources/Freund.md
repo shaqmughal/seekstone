@@ -11,9 +11,9 @@ tags: [history]
 
 FREUND, WILHELM (1806-1894), German philologist and lexicographer, was
 born at Kempen in the grand duchy of Posen on the 27th of January 1806.
-He studied at Berlin, Breslau and Halle, and was for twenty years
+He studied at Berlin, Breslau and [[Halle]], and was for twenty years
 chiefly engaged in private tuition. From 1855-1870 he was director of
-the Jewish school at Gleiwitz in Silesia, and subsequently retired to
+the Jewish school at [[Gleiwitz]] in Silesia, and subsequently retired to
 Breslau, where he died on the 4th of June 1894. Although chiefly known
 for his philological labours, Freund took an important part in the
 movement for the emancipation of his Prussian co-religionists, and the

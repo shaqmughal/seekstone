@@ -7,7 +7,7 @@ described as "intellectual" generally because he is occupied with theory
 and principles rather than with practice, often with the further
 implication that his theories are concerned mainly with abstract
 matters: he is aloof from the world, and especially is a man of training
-and culture who cares little for the ordinary pleasures of sense.
+and culture who [[Car|cares]] little for the ordinary pleasures of sense.
 "Intellect" is thus distinguished from "intelligence" by the field of
 its operations, "intelligence" being used in the practical sphere for
 readiness to grasp a situation. (The employment of the word as a synonym
@@ -19,7 +19,7 @@ only momentary, lasting practically only as long as the stimuli
 continued to operate. It thus includes the cognitive processes, and is
 the source of all real knowledge. Various attempts have been made to
 narrow the use of the term, e.g. to the higher regions of knowledge
-entirely above the region of sense (so Kant), or to conceptual
+entirely above the region of sense (so [[Kant]]), or to conceptual
 processes; but no agreement has been reached. "Intellection" (i.e. the
 process as opposed to the capacity) has similarly been narrowed (e.g. by
 Professor James Ward) to the sphere of concepts; other writers, however,
@@ -43,7 +43,7 @@ individual and that of the species." There is here some ambiguity as to
 the exact psychological significance of the words "intentional
 adaptation" and of the phrase "conscious knowledge of the relation
 between the means employed and the ends attained." A chick a day or two
-old learns to leave untouched nauseous caterpillars, and Romanes would
+old learns to leave untouched nauseous [[Caterpillar|caterpillars]], and Romanes would
 certainly have regarded this as a case of intelligent profiting by
 experience; but how far there is intentional adaptation and whether the
 chick has conscious knowledge of the relation of means to ends, is
@@ -59,7 +59,7 @@ such behaviour as that of the chicken as instinctive in the wider sense
 (see INSTINCT) and not intelligent; man alone, he contends, is
 intelligent, that is to say has the power of perceiving the relations of
 concepts to each other, and of drawing conclusions therefrom. It is
-clear that the discussion largely turns on the definition of terms; but
+clear that the discussion largely turns on the [[Definition|definition]] of terms; but
 more than this lies behind it. Both Mivart and Wasmann are emphatic in
 their assertions that instinctive modes of behaviour in the wider sense
 or the sensuous perceptions and practical inferences of animals differ
@@ -74,7 +74,7 @@ Wasmann regards the inclusion of those activities which result from
 sense-experience under the term "intelligence" as pseudo-psychological.
 To modern psychologists of standing we must therefore turn. Under the
 heading "Intellect or Intelligence," in the _Dictionary of Philosophy and
-Psychology_, G. F. Stout and J. Mark Baldwin say: "There is a tendency to
+Psychology_, G. F. Stout and J. Mark [[Baldwin]] say: "There is a tendency to
 apply the term intellect more especially to the capacity for conceptual
 thinking. This does not hold in the same degree of the connected word
 intelligence. We speak freely of 'animal intelligence,' but the phrase
@@ -109,7 +109,7 @@ tabular form the different uses above indicated:--
                              \/
   3.                    Intelligence     (e.g. Stout and Baldwin).
   4. Intelligence.                     Intellect and Reason
-                                         (e.g. Lloyd Morgan).
+                                         (e.g. [[Lloyd]] Morgan).
 
 From this table it may be seen at a glance that, with such divergence of
 usage, the application of the word "intelligent" to any given case of
@@ -175,7 +175,7 @@ of edibility.
 
   Their value.
 
-Few would dream of contending that the chick a few days old is capable
+Few would [[Dream|dream]] of contending that the chick a few days old is capable
 of conceptual thought. Naive perceptual process pretty obviously
 suffices for an explanation of the behaviour of the little bird. But so
 too, it may be said, does it suffice for the explanation of much of the
@@ -190,9 +190,9 @@ meaning for behaviour in a given situation which is like that which has
 previously developed in a certain manner; but it may also have
 significance for the interpretation of such situations in a conceptual
 scheme of thought. The sight of the sage-blossom may have meaning for
-the bee which has sucked the sweets contained in such flowers; the sight
+the [[Bee|bee]] which has sucked the sweets contained in such flowers; the sight
 of the bee in this situation may have significance for scientific
-interpretation as an example of the fertilization of flowers by insects.
+interpretation as an example of the fertilization of flowers by [[Insect|insects]].
 The bee may be only perceptually intelligent; the man who observes its
 action may or may not be conceptually intelligent.
 
@@ -221,7 +221,7 @@ intentional and deliberate. If, for example, in educational procedure,
 we seek to assist children in forming concepts of colour, shape and
 material, we place before them a number of objects, some round, some
 square, some triangular; some red, some yellow, some blue; some made of
-paper, some of wood, some of flannel. Any given object is both red and
+paper, some of wood, some of [[Flannel|flannel]]. Any given object is both red and
 square and made of flannel, blue and round and made of wood, and so on.
 We teach the child to group the objects, to put all the blues, yellows
 and reds together irrespective of shape or material; then all the
@@ -241,7 +241,7 @@ differ.
 
   Are animals conceptually intelligent?
 
-Locke held that animals are incapable of the abstraction which is
+[[Locke]] held that animals are incapable of the abstraction which is
 implied in such procedure. Dr Stout considers that observation of their
 behaviour shows little if any evidence of intentional comparison. And it
 is open to discussion whether they are able to analyse the situations
@@ -251,10 +251,10 @@ nature of the distinction between perceptual and conceptual process.
 
 An example may, however, be given of the kind of observation which,
 since it was carefully planned and carried out, is of evidential value.
-Dr Alexander Hill's fox terrier was "taught" to open the side door of a
-large box by lifting a projecting latch. When the door swung open he was
+Dr Alexander Hill's [[Fox|fox]] terrier was "taught" to open the side door of a
+large [[Box|box]] by lifting a projecting latch. When the door swung open he was
 never allowed to find anything in the box, but was given a piece of
-biscuit from the hand. Then a warm chop-bone was put inside the box,
+[[Biscuit|biscuit]] from the hand. Then a warm chop-bone was put inside the box,
 which was placed in a courtyard so that the dog would pass it when no
 one was near, though he could be watched from the window. Details of the
 terrier's behaviour are given by Dr Hill in _Nature_ (lxvii. 558, April
@@ -263,7 +263,7 @@ familiar experience of lifting the latch in the usual way. Here two
 situations were presented; first the box with people around and a piece
 of biscuit to be obtained from one of them by lifting the latch;
 secondly the box with no one near and a redolent chop-bone inside. To us
-it is obvious enough that the lifted latch is the key to the development
+it is obvious enough that the lifted latch is the [[Key|key]] to the development
 of both situations; we analyse them so as to get the essential factor
 which matters. The dog apparently did not do so. He seemingly was
 incapable of this modest amount of analysis and abstraction.
@@ -293,7 +293,7 @@ the beginnings of conceptual experience; some are, however, of opinion
 that, in the absence of language, conceptual analysis is well-nigh
 impossible, and in any case cannot be carried far. To an evolutionist
 the assertion that conceptual intelligence could not conceivably have
-had a natural genesis from perceptual experience, appears to be made on
+had a natural [[Genesis|genesis]] from perceptual experience, appears to be made on
 grounds other than scientific. Few if any psychologists contend, on
 strictly psychological grounds, for a distinction of kind such as Mivart
 and Wasmann postulate. Conscious experience is indeed _sui generis_ and

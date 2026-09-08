@@ -9,7 +9,7 @@ topic: history
 HAMERLING, ROBERT (1830-1889), Austrian poet, was born at
 Kirchenberg-am-Walde in Lower Austria, on the 24th of March 1830, of
 humble parentage. He early displayed a genius for poetry and his
-youthful attempts at drama excited the interest and admiration of some
+youthful attempts at [[Drama|drama]] excited the interest and admiration of some
 influential persons. Owing to their assistance young Hamerling was
 enabled to attend the gymnasium in Vienna and subsequently the
 university. In 1848 he joined the student's legion, which played so
@@ -24,7 +24,7 @@ on a pension, which in acknowledgment of his literary labours was
 increased by the government to a sum sufficient to enable him to live
 without care until his death at his villa in Stiftingstal near Graz, on
 the 13th of July 1889. Hamerling was one of the most remarkable of the
-poets of the modern Austrian school; his imagination was rich and his
+poets of the modern Austrian school; his [[Imagination|imagination]] was rich and his
 poems are full of life and colour. His most popular poem, _Ahasver in
 Rom_ (1866), of which the emperor Nero is the central figure, shows at
 its best the author's brilliant talent for description. Among his other
@@ -42,7 +42,7 @@ presentation of character.
   autobiographical writings, _Stationen meiner Lebenspilgerschaft_
   (1889) and _Lehrjahre der Liebe_ (1890); also M. M. Rabenlechner,
   _Hamerling, sein Leben und seine Werke_, i. (Hamburg, 1896); a short
-  biography by the same (Dresden, 1901); R. H. Kleinert, _R. Hamerling,
+  biography by the same ([[Dresden]], 1901); R. H. Kleinert, _R. Hamerling,
   ein Dichter der Schonheit_ (Hamburg, 1889); A. Polzer, _Hamerling,
   sein Wesen und Wirken_ (Hamburg, 1890).
 

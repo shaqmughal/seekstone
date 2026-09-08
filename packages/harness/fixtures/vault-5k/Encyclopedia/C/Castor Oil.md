@@ -16,11 +16,11 @@ tropical Africa, but it has been introduced, and is now cultivated in
 most tropical and in the warmer temperate countries. In size it varies
 from a shrubby plant to a tree of from 30 to 40 ft. in height according
 to the climate in which it grows, being arborescent in tropical
-latitudes. On account of its very large beautiful palmate-peltate
+[[Latitude|latitudes]]. On account of its very large beautiful palmate-peltate
 leaves, which sometimes measure as much as 2 ft. in diameter, it is
 cultivated as an ornamental plant. In the south of England, with the
 habit of an annual, it ripens its seeds in favourable seasons; and it
-has been known to come to maturity as far north as Christiania in
+has been known to come to maturity as far north as [[Christiania]] in
 Norway. Plants are readily grown from seed, which should be sown singly
 in small pots and placed in heat early in March. The young plants are
 kept under glass till early in June when they are hardened and put out.
@@ -57,7 +57,7 @@ an equal proportion of water, and boiled to purify it from mucilaginous
 and albuminous matter. After boiling about an hour, it is allowed to
 cool, the water is drawn off, and the oil is transferred to zinc tanks
 or clarifiers capable of holding from 60 to 100 gallons. In these it
-stands about eight hours, bleaching in the sun, after which it is ready
+stands about eight hours, [[Bleaching|bleaching]] in the sun, after which it is ready
 for storing. By this method 100 lb. of good seeds yield about 5 gallons
 of pure oil.
 
@@ -130,7 +130,7 @@ principal work, a Samoyedic grammar, when he died on the 7th of May
   mythologi_; (4) _Ethnologiska forelasningar ofver Altaiska folken_;
   and (5) _Smarre afhandlingar och akademiska dissertationer_. A German
   translation was published by Anton Schiefner, who was also entrusted
-  by the St Petersburg Academy with the editing of his manuscripts which
+  by the St Petersburg Academy with the editing of his [[Manuscript|manuscripts]] which
   had been left to the Helsingfors University and which were
   subsequently published.
 

@@ -7,7 +7,7 @@ type: article
 
 # Geelong
 
-GEELONG, a seaport of Grant county, Victoria, Australia, situated on an
+GEELONG, a seaport of Grant county, Victoria, [[Australia]], situated on an
 extensive land-locked arm of Port Phillip known as Corio Bay, 45 m. by
 rail S.W. of Melbourne. Pop. of the city proper (1901) 12,399; with the
 adjacent boroughs of Geelong West, and Newton-and-Chilwell, 23,311.
@@ -28,7 +28,7 @@ are able to load alongside the wharves, which are connected by rail with
 all parts of the colony. The facilities given for shipping wool direct
 to England from this port have caused a very extensive wool-broking
 trade to grow up in the town. The country surrounding Geelong is
-agricultural, but there are large limestone quarries east of the town,
+agricultural, but there are large [[Limestone|limestone]] quarries east of the town,
 and in the Otway Forest, 23 m. distant, coal is worked. Geelong was
 incorporated in 1849.
 
@@ -36,11 +36,11 @@ incorporated in 1849.
 
 
 GEESTEMÜNDE, a seaport town of Germany, in the Prussian province of
-Hanover, on the right bank of the Weser, at the mouth of the Geeste,
+[[Hanover]], on the right bank of the Weser, at the mouth of the Geeste,
 which separates it from Bremerhaven, 32 m. N. from Bremen by rail. Pop.
 (1905) 23,625. The interest of the place is purely naval and commercial,
 its origin dating no farther back than 1857, when the construction of
-the harbour was begun. The great basin, which can accommodate large
+the harbour was begun. The [[Great Basin|great basin]], which can accommodate large
 sea-going vessels, was completed in 1863, the petroleum basin was opened
 in 1874, and additional wharves have been constructed for the reception
 of vessels engaged in the fishing industry. The fish market of
@@ -48,7 +48,7 @@ Geestemünde is the most important in Germany, and the auction hall
 practically determines the price of fish throughout the empire. The
 whole port is protected by powerful fortifications. Among the industrial
 establishments of the town are shipbuilding yards, foundries,
-engineering works and saw-mills.
+[[Engineering|engineering]] works and saw-mills.
 
 ## See also
 

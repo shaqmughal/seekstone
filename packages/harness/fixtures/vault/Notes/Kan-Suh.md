@@ -10,7 +10,7 @@ wilderness of sand and snow, but east of the Hwang-ho the country is
 cultivated. The principal river is the Hwang-ho, and in the mountains to
 the south of Lan-chow Fu rises the Wei-ho, which traverses Shen-si and
 flows into the Hwang-ho at Tung-kwan. The chief products of Kan-suh are
-cloth, horse hides, a kind of curd like butter which is known by the
+cloth, horse hides, a kind of curd like [[Butter|butter]] which is known by the
 Mongols under the name of _wuta_, musk, plums, onions, dates, sweet
 melons and medicines. (See CHINA.)
 

@@ -17,26 +17,26 @@ cults the germ of the idea is present, and in all the higher religions
 it is an important feature. This article is confined to summarizing the
 philosophical or scientific arguments for, and objections to, the
 doctrine of the persistence of the human soul after death. For the
-Christian doctrine, see ESCHATOLOGY; and for other religions see the
+Christian doctrine, see [[Eschatology|ESCHATOLOGY]]; and for other religions see the
 separate articles.
 
 In the Orphic mysteries "the soul was regarded as a part of the divine,
 a _particula aurae divinae_, for which the body in its limited and
 perishable condition was no fit organ, but a grave or prison ([Greek: to
 sôma sêma]). The existence of the soul in the body was its punishment
-for sins in a previous condition; and the doom of its sins in the body
+for sins in a previous condition; and the [[Doom|doom]] of its sins in the body
 was its descent into other bodies, and the postponement of its
 deliverance" (Salmond's _Christian Doctrine of Immortality_, p. 109).
 This deliverance was what the mysteries promised. A remarkable passage
-in Pindar (_Thren._ 2) is thus rendered by J. W. Donaldson (_Pindar's
-Epinician or Triumphal Odes_, p. 372). "By a happy lot, all persons
+in Pindar (_Thren._ 2) is thus rendered by J. W. [[Donaldson]] (_Pindar's
+Epinician or Triumphal Odes_, p. 372). "By a happy [[Lot|lot]], all persons
 travel to an end free of toil. And the body, indeed, is subject to the
 powerful influence of death; but a shadow of vitality is still left
 alive, and this alone is of divine origin; while our limbs are in
 activity it sleeps; but, when we sleep, it discloses to the mind in many
-dreams the future judgment with regard to happiness and misery."
+[[Dream|dreams]] the future judgment with regard to happiness and misery."
 
-The belief of Socrates is uncertain. In the _Apology_ he is represented
+The belief of Socrates is uncertain. In the _[[Apology]]_ he is represented
 as sure that "no evil can happen to a good man, either in life or after
 death," but as not knowing whether "death be a state of nothingness and
 utter unconsciousness, or a change or migration of the soul from this
@@ -48,7 +48,7 @@ Xenophon must be admitted as an argument to the contrary; but the
 probability seems to be that Plato did not in the _Phaedo_ altogether
 misrepresent the Master. In Plato's thought the belief held a prominent
 position. "It is noteworthy," says Professor D. G. Ritchie, "that, in
-the various dialogues in which Plato speaks of immortality, the
+the various [[Dialogue|dialogues]] in which Plato speaks of immortality, the
 arguments seem to be of different kinds, and most of them quite
 unconnected with one another." In the _Phaedrus_ (245 c) the argument
 is, that the soul is self-moving, and, therefore, immortal; and this
@@ -68,7 +68,7 @@ persist because of His goodness. In the _Laws_ (xii. 959 A) the notion
 of a future life seems to be treated as a salutary doctrine which is to
 be believed because the legislator enacts it (Plato, p. 146). The
 estimate to be formed of this reasoning has been well stated by Dr A. M.
-Fairbairn, "Plato's arguments for immortality, isolated, modernized, may
+[[Fairbairn]], "Plato's arguments for immortality, isolated, modernized, may
 be feeble, even valueless, but allowed to stand where and as he himself
 puts them, they have an altogether different worth. The ratiocinative
 parts of the _Phaedo_ thrown into syllogisms may be easily demolished by
@@ -76,10 +76,10 @@ a hostile logician; but in the dialogue as a whole there is a subtle
 spirit and cumulative force which logic can neither seize nor answer"
 (_Studies in the Philosophy of Religion_, p. 226, 1876).
 
-Aristotle held that the [Greek: nous] or active intelligence alone is
+[[Aristotle]] held that the [Greek: nous] or active intelligence alone is
 immortal. The Stoics were not agreed upon the question. Cleanthes is
 said to have held that all survive to the great conflagration which
-closes the cycle, Chrysippus that only the wise will. Marcus Aurelius
+closes the cycle, [[Chrysippus]] that only the wise will. Marcus Aurelius
 teaches that even if the spirit survive for a time it is at last
 "absorbed in the generative principle of the universe." Epicureanism
 thought that "the wise man fears not death, before which most men
@@ -90,7 +90,7 @@ truths. The Apologists themselves welcomed, and commended to others, the
 Christian revelation as affording a certainty of immortality such as
 reason could not give. The Aristotelian school in Islam did not speak
 with one voice upon the question; Avicenna declared the soul immortal,
-but Averroes assumes only the eternity of the universal intellect.
+but Averroes assumes only the eternity of the universal [[Intellect|intellect]].
 Albertus Magnus argued that the soul is immortal, as _ex se ipsa causa_,
 and as independent of the body; Pietro Pomponazzi maintained that the
 soul's immortality could be neither proved nor disproved by any natural
@@ -112,7 +112,7 @@ similar. "If the human soul is a force in the narrower sense, a
 substance, and not a combination of substances, then, as in the nature
 of things there is no transition from existence to non-existence, we
 cannot naturally conceive the end of its existence, any more than we can
-anticipate a gradual annihilation of its existence." He adds a reason
+anticipate a [[Gradual|gradual]] annihilation of its existence." He adds a reason
 that recalls one of Plato's, "As manifestly as the human soul is by
 means of the senses linked to the present life, so manifestly it
 attaches itself by reason, and the conceptions, conclusions,
@@ -120,14 +120,14 @@ anticipations and efforts to which reason leads it, to God and
 eternity."
 
 Against the first kind of argument, as formulated by Moses Mendelssohn,
-Kant advances the objection that, although we may deny the soul
+[[Kant]] advances the objection that, although we may deny the soul
 extensive quantity, division into parts, yet we cannot refuse to it
 intensive quantity, degrees of reality; and consequently its existence
 may be terminated not by decomposition, but by gradual diminution of its
 powers (or to use the term he coined for the purpose, by
 _elanguescence_). This denial of any reasonable ground for belief in
 immortality in the _Critique of Pure Reason_ (_Transcendental
-Dialectic_, bk. ii. ch. i.) is, however, not his last word on the
+[[Dialectic]]_, bk. ii. ch. i.) is, however, not his last word on the
 subject. In the _Critique of the Practical Reason_ (_Dialectic_, ch. i.
 sec. iv) the immortality of the soul is shown to be a postulate.
 _Holiness_, "the perfect accordance of the will with the moral law,"
@@ -137,7 +137,7 @@ and _personality_ of the same rational being (which is called the
 immortality of the soul)." Not demonstrable as a theoretical
 proposition, the immortality of the soul "is an inseparable result of an
 unconditional a priori practical law." The moral interest, which is so
-decisive on this question in the case of Kant, dominates Bishop Butler
+decisive on this question in the case of Kant, dominates Bishop [[Butler]]
 also. A future life for him is important, because our happiness in it
 may depend on our present conduct; and therefore our action here should
 take into account the reward or punishment that it may bring on us
@@ -150,7 +150,7 @@ them." While we may fear this, "there is no proof that it will, either
 from the nature of death," of the effect of which on our powers we are
 altogether ignorant, "or from the analogy of nature, which shows only
 that the _sensible proof_ of our powers (not the powers themselves) may
-be destroyed." The imagination that death will destroy these powers is
+be destroyed." The [[Imagination|imagination]] that death will destroy these powers is
 unfounded, because (1) "this supposes we are compounded, and so
 discerptible, but the contrary is probable" on _metaphysical_ grounds
 (the indivisibility of the subject in which consciousness as indivisible
@@ -175,7 +175,7 @@ positive argument for immortality.
 Adam Ferguson (_Institutes of Moral Philosophy_, p. 119, new ed., 1800)
 argues that "the desire for immortality is an instinct, and can
 reasonably be regarded as an indication of that which the author of this
-desire wills to do." From the standpoint of modern science John Fiske
+desire wills to do." From the standpoint of modern science John [[Fiske]]
 confirms the validity of such an argument; for what he affirms in regard
 to belief in the divine is equally applicable to this belief in a future
 life. "If the relation thus established in the morning twilight of man's
@@ -184,20 +184,20 @@ a relation of which only the subjective term is real and the objective
 term is non-existent; then I say it is something utterly without
 precedent in the whole history of creation" (_Through Nature to God_,
 1899, p. 188, 189). Whatever may have been Hegel's own belief in regard
-to personal immortality, the logical issue of his absolute idealism has
+to personal immortality, the logical issue of his absolute [[Idealism|idealism]] has
 been well stated by W. Windelband (_History of Philosophy_, p. 633). "It
 became clear that in the system of perpetual Becoming and of the
 dialectical passing over of all forms into one another, the finite
 personality could scarcely raise a plausible claim to the character of a
 substance and to immortality in the religious sense." F. D.
 Schleiermacher applies the phrase "the immortality of religion" to the
-religious emotion of oneness, amid finitude, with the infinite and, amid
+religious emotion of oneness, amid finitude, with the [[Infinite|infinite]] and, amid
 time, with the eternal; denies any necessary connexion between the
 belief in the continuance of personal existence and the consciousness of
 God; and rests his faith on immortality altogether on Christ's promise
 of living fellowship with His followers, as presupposing their as well
 as His personal immortality. A. Schopenhauer assigns immortality to the
-universal will to live; and Feuerbach declares spirit, consciousness
+universal will to live; and [[Feuerbach]] declares spirit, consciousness
 eternal, but not any individual subject. R. H. Lotze for the decision of
 the question lays down the broad principle, "All that has once come to
 be will eternally continue so soon as for the organic unity of the world
@@ -205,7 +205,7 @@ it has an unchangeable value, but it will obviously again cease to be,
 when that is not the case" (_Gr. der Psy._ p. 74).
 
 Objections to the belief in immortality have been advanced from the
-standpoints of materialism, naturalism, pessimism and pantheism.
+standpoints of [[Materialism|materialism]], naturalism, pessimism and pantheism.
 _Materialism_ argues that, as life depends on a material organism,
 thought is a function of the brain, and the soul is but the sum of
 mental states, to which, according to the theory of psychophysical
@@ -220,15 +220,15 @@ following considerations may be advanced: (1) Man does distinguish
 himself from his body; (2) he is conscious of his personal identity,
 through all the changes of his body; (3) in the exercise of his will he
 knows himself not controlled by but controlling his body; (4) his
-consciousness warrants his denying the absolute identification of
+consciousness warrants his denying the absolute [[Identification|identification]] of
 himself and his body. It may further be added that materialism can be
 shown to be an inadequate philosophy in its attempts to account even for
-the physical universe, for this is inexplicable without the assumption
+the physical universe, for this is inexplicable without the [[Assumption|assumption]]
 of mind distinct from, and directive of, matter. The theory of
 psychophysical parallelism has been subjected to a rigorous examination
 in James Ward's _Naturalism and Agnosticism_, part iii., in which the
 argument that mind cannot be derived from matter is convincingly
-presented. Sir Oliver Lodge in his reply to E. Haeckel's _Riddle of the
+presented. Sir Oliver [[Lodge]] in his reply to E. Haeckel's _Riddle of the
 Universe_ maintains that "life may be something not only
 ultra-terrestrial, but even immaterial, something outside our present
 categories of matter and energy; as real as they are, but different, and
@@ -269,7 +269,7 @@ vast in extension and duration, and man is so small, his home but a
 speck in space, and his history a span in time that it seems an arrogant
 assumption for him to claim exemption from the universal law of
 evolution and dissolution. This view ignores that man has ideals of
-absolute value, truth, beauty, goodness, that he consciously communes
+absolute value, truth, beauty, goodness, that he consciously [[Commune|communes]]
 with the God who is in all, and through all, and over all, that it is
 his mind which recognizes the vastness of the universe and thinks its
 universal law, and that the mind which perceives and conceives cannot be
@@ -292,7 +292,7 @@ Lastly positivism teaches a corporate instead of an individual
 immortality; man should desire to live on as a beneficent influence in
 the race. This conception is expressed in George Eliot's lines:
 
-  "O, may I join the choir invisible
+  "O, may I join the [[Choir|choir]] invisible
    Of those immortal dead who live again
    In minds made better by their presence: live
    In pulses stirred to generosity,
@@ -335,7 +335,7 @@ truth, beauty, goodness, lives not for time but for eternity, for his
 ideals cannot be realized, and so his life fulfilled on this side of the
 grave. Unless these ideals are mocking visions, man has a right to
 expect the continuance of his life for its completion. This is the line
-of argument developed by Professor Hugo Münsterberg in his lecture on
+of argument developed by Professor [[Hugo]] Münsterberg in his lecture on
 _The Eternal Life_ (1905), although he states it in the terms peculiar
 to his psychology, in which personality is conceived as primarily will.
 "No endless duration is our goal, but complete repose in the perfect
@@ -380,7 +380,7 @@ the incompleteness of man's life here:--
   fact that here nothing final or individual is found expressed" (pp.
   144-146).
 
-R. W. Emerson declares that "the impulse to seek proof of immortality is
+R. W. [[Emerson]] declares that "the impulse to seek proof of immortality is
 itself the strongest proof of all." We expect immortality not merely
 because we desire it; but because the desire itself arises from all that
 is best and truest and worthiest in ourselves. The desire is reasonable,
@@ -402,7 +402,7 @@ once they have lost their faith in the immortality of the soul" (quoted
 by A. W. Momerie, _Immortality_, p. 9). To this belief, many and good as
 are the arguments which can be advanced for it, a confident certainty is
 given by Christian faith in the Risen Lord, and the life and immortality
-which he has brought to light in his Gospel.
+which he has brought to light in his [[Gospel]].
 
   In addition to the works referred to above, see R. K. Gaye, _The
   Platonic Conception of Immortality and its Connexion with the Theory
@@ -411,7 +411,7 @@ which he has brought to light in his Gospel.
   Pétavel, _The Problem of Immortality_ (Eng. trans. by F. A. Freer,
   1892); J. Fiske, _The Destiny of Man, viewed in the Light of his
   Origin_ (1884); G. A. Gordon, _Immortality and the New Theodicy_
-  (1897); Henry Buckle, _The After Life_ (1907).     (A. E. G.*)
+  (1897); Henry [[Buckle]], _The After Life_ (1907).     (A. E. G.*)
 
 ## See also
 

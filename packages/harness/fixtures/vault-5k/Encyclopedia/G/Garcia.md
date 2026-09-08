@@ -34,8 +34,8 @@ devoted himself exclusively to teaching. He died in Paris on the 2nd of
 June 1832. His method of teaching was famous, and some of the most
 celebrated singers of the early part of the century were amongst his
 pupils. He also wrote an excellent book on the art of singing called
-_Metodo di canto_, of which the essence was subsequently incorporated by
-his son Manoel in his admirable _Traite complet de l'art du chant_
+_Metodo di [[Canto|canto]]_, of which the essence was subsequently incorporated by
+his son Manoel in his admirable _Traite complet de l'art du [[Chant|chant]]_
 (1847). His operas have not survived their day. He wrote nearly forty in
 all, but with the exception of those quoted, and _El Poeta calculista_,
 produced when he was thirty, none are remarkable. Besides the children
@@ -49,7 +49,7 @@ after his father's death devoted himself to teaching. He was a professor
 at the Paris Conservatoire from 1830 to 1848, from that time to 1895 was
 a professor at the Royal Academy of Music in London. He became famous
 for his invention of the laryngoscope about 1850, apart from his
-position as the greatest representative of the old "_bel canto_" style
+position as the greatest representative of the old "_[[Bel|bel]] canto_" style
 of singing.
 
 ## References

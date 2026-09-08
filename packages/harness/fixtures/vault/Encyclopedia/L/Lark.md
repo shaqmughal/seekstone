@@ -25,7 +25,7 @@ together. The skylark is probably the most plentiful of the class in
 western Europe. Not only does it frequent almost all unwooded districts
 in that quarter of the globe, but, unlike most birds, its numbers
 increase with the spread of agricultural improvement. Nesting chiefly in
-the growing corn, its eggs and young are protected in a great measure
+the growing [[Corn|corn]], its [[Egg|eggs]] and young are protected in a great measure
 from molestation; and, as each pair of birds will rear several broods in
 the season, their produce on the average may be set down as at least
 quadrupling the original stock--the eggs in each nest varying from five
@@ -46,13 +46,13 @@ reproduction is so rapid, and the conditions of life so favourable in
 Europe that there is no reason to fear any serious diminution in the
 numbers of the species.
 
-The skylark's range extends across the Old World from the Faeroe to the
+The skylark's range extends across the Old World from the [[Faeroe]] to the
 Kurile Islands. In winter it occurs in North China, Nepal, the Punjab,
-Persia, Palestine, Lower Egypt and Barbary. It sometimes strays to
+Persia, Palestine, Lower Egypt and [[Barbary]]. It sometimes strays to
 Madeira, and has been killed in Bermuda, though its unassisted
 appearance there is doubtful. It has been successfully introduced on
 Long Island, in the state of New York, into Hawaii and into New
-Zealand--in which latter it has become as troublesome a denizen as are
+Zealand--in which latter it has become as troublesome a [[Denizen|denizen]] as are
 some other subjects upon which acclimatization societies have exercised
 their activity.
 
@@ -61,13 +61,13 @@ their activity.
 Allied to the skylark a considerable number of species have been
 described, of which perhaps a dozen may be deemed valid, besides a
 supposed local race, _Alauda agrestis_, the difference between which and
-the normal bird is shown in the annexed woodcut (fig. 1), kindly lent to
-this work by H. E. Dresser, in whose _Birds of Europe_ it is described
+the normal bird is shown in the annexed woodcut (fig. 1), kindly [[Lent|lent]] to
+this work by H. E. [[Dresser]], in whose _Birds of Europe_ it is described
 at length. These are found in various parts of Africa and Asia.
 
 The woodlark, _Lullula arborea_, is a much more local and, therefore, a
 far less numerous bird than the skylark, from which it may be easily
-distinguished by its finer bill, shorter tail, more spotted breast and
+distinguished by its finer bill, shorter tail, more spotted [[Breast|breast]] and
 light superciliary stripe. Though not actually inhabiting woods, as its
 common name might imply, it is seldom found far from trees. Its song
 wants the variety and power of the skylark's, but has a resonant
@@ -83,14 +83,14 @@ termed _Galerita_, and has for its type the crested lark, the _Alauda
 cristata_ of Linnaeus, a bird common enough in parts of France and some
 other countries of the European continent, and one which has been
 obtained several times in the British Islands. Many of the birds of this
-group frequent the borders if not the interior of deserts, and such as
+group frequent the [[Borders|borders]] if not the interior of [[Desert|deserts]], and such as
 do so exhibit a more or less pale coloration, whereby they are
-assimilated in hue to that of their haunts. The same characteristic may
+assimilated in [[Hue|hue]] to that of their haunts. The same characteristic may
 be observed in several other groups--especially those known as belonging
 to the genera _Calandrella_, _Ammomanes_ and _Certhilauda_, some species
 of which are of a light sandy or cream colour. The genus last named is
 of very peculiar appearance, presenting in some respects an
-extraordinary resemblance to the hoopoes, so much so that the first
+extraordinary resemblance to the [[Hoopoe|hoopoes]], so much so that the first
 specimen described was referred to the genus _Upupa_, and named _U.
 alaudipes_. The resemblance, however, is merely one of analogy.
 
@@ -133,20 +133,20 @@ _Melanocorypha calandra_.]
 
 In the Old World larks are found in most parts of the Palaearctic,
 Ethiopian and Indian regions; but only one genus, _Mirafra_, inhabits
-Australia, where it is represented by, so far as is ascertained, a
+[[Australia]], where it is represented by, so far as is ascertained, a
 single species, _M. horsfieldi_; and there is no true lark indigenous to
 New Zealand. In the New World there is also only one genus, _Otocorys_,
 where it is represented by many races, some of which closely approach
 the Old World shore-lark, _O. alpestris_. The shore-lark is in Europe a
 native of only the extreme north, but is very common near the shores of
 the Varanger Fjord, and likewise breeds on mountain-tops farther
-south-west, though still well within the Arctic circle. The mellow tone
+south-west, though still well within the [[Arctic]] circle. The mellow tone
 of its call-note has obtained for it in Lapland a name signifying
-"bell-bird," and the song of the cock is lively, though not very loud.
+"bell-bird," and the song of the [[Cock|cock]] is lively, though not very loud.
 The bird trustfully resorts to the neighbourhood of houses, and even
 enters the villages of East Finmark in search of its food. It produces
 at least two broods in the season, and towards autumn migrates to lower
-latitudes in large flocks. These have been observed in winter on the
+[[Latitude|latitudes]] in large flocks. These have been observed in winter on the
 east coast of Great Britain, and the species instead of being regarded,
 as it once was, in the light of an accidental visitor to the United
 Kingdom, must now be deemed an almost regular visitor, though in very
@@ -156,7 +156,7 @@ this bird are the _O. penicillata_ of south-eastern Europe, Palestine
 and central Asia--to which are referred by H. E. Dresser (_B. Europe_,
 iv. 401) several other forms originally described as distinct. All these
 birds, which have been termed horned larks, from the tuft of elongated
-black feathers growing on each side of the head, form a little group
+black [[Feather|feathers]] growing on each side of the head, form a little group
 easily recognized by their peculiar coloration, which calls to mind some
 of the ringed plovers, _Aegialitis_.
 
@@ -164,7 +164,7 @@ The name of lark is also frequently applied to many birds which do not
 belong to the _Alaudidae_ as now understood. The mud-lark, rock-lark,
 tit-lark and tree-lark are pipits (q.v.). The grasshopper-lark is one of
 the aquatic warblers (q.v.), while the so-called meadow-lark of America
-is an Icterus (q.v.). Sand-lark and sea-lark are likewise names often
+is an [[Icterus]] (q.v.). Sand-lark and sea-lark are likewise names often
 given to some of the smaller members of the _Limicolae_. Of the true
 larks, _Alaudidae_, there may be perhaps about one hundred species, and
 it is believed to be a physiological character of the family that they
@@ -177,7 +177,7 @@ FOOTNOTE:
 
   [1] By assigning far too great an importance to this superficial
     character (in comparison with others), C. J. Sundevall (_Tentamen_,
-    pp. 53-63) was induced to array the larks, hoopoes and several other
+    pp. 53-63) was induced to [[Array|array]] the larks, hoopoes and several other
     heterogeneous groups in one "series," to which he applied the name of
     _Scutelliplantares_.
 

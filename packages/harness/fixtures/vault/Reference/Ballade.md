@@ -19,7 +19,7 @@ first printed in 1493, and he added that if the refrain consists of eight
 syllables, the ballade must be written in huitains (eight-line stanzas), if
 of ten syllables in dizains (ten-line), and so on. The form can best be
 studied in an example, and we quote, as absolutely faultless in execution,
-the famous "Ballade aux Enfants Perdus," composed by Théodore de Banville
+the famous "Ballade aux Enfants Perdus," composed by Théodore de [[Banville]]
 in 1861:--
 
  "Je le sais bien que Cythère est en deuil!
@@ -40,18 +40,18 @@ in 1861:--
     Qu'importe! allons vers le clair paysage!
   Malgré la mer jalouse et les récifs,
   Venez, portons comme des fugitifs,
-    Loin de ce monde au souffle délétère.
+    [[Loin]] de ce monde au souffle délétère.
   Nous dont les coeurs sont des ramiers plaintifs,
     Embarquons-nous pour la belle Cythère.
 
  "Des serpents gris se traînent sur le seuil
-    Où souriait Cypris, la chère image
+    Où souriait Cypris, la chère [[Image|image]]
   Aux tresses d'or, la vierge au doux accueil!
     Mais les Amours sur le plus haut cordage
     Nous chantent l'hymne adoré du voyage.
-  Héros cachés dans ces corps maladifs,
-  Fuyons, partons sur nos légers esquifs,
-    Vers le divin bocage où la panthère
+  Héros cachés dans ces [[Corps|corps]] maladifs,
+  Fuyons, partons sur nos lé[[Gers|gers]] esquifs,
+    Vers le divin [[Bocage|bocage]] où la panthère
   Pleure d'amour sous les rosiers lascifs:
     Embarquons-nous pour la belle Cythère.
 
@@ -60,7 +60,7 @@ in 1861:--
  "Rassasions d'azur nos yeux pensifs!
   Oiseaux chanteurs, dans la brise expansifs,
     Ne souillons pas nos ailes sur la terre.
-  Volons, charmés, vers les dieux primitifs!
+  Volons, [[Charm|charm]]és, vers les dieux primitifs!
     Embarquons-nous pour la belle Cythère."
 
 This is the type of the ballade in its most elaborate and highly-finished
@@ -70,13 +70,13 @@ literature that the ballade first takes a modern form. It was in France,
 however, and not until the reign of Charles V., that the ballade as we
 understand it began to flourish; instantly it became popular, and in a few
 years the out-put of these poems was incalculable. Machault, Froissart,
-Eustache Deschamps and Christine de Pisan were among the poets who
-cultivated the ballade most abundantly. Later, those of Alain Chartier and
+Eustache [[Deschamps]] and Christine de Pisan were among the poets who
+cultivated the ballade most abundantly. Later, those of Alain [[Chartier]] and
 Henri Baude were famous, while the form was chosen by François Villon for
 some of the most admirable and extraordinary poems which the middle ages
-have handed down to us. Somewhat later, Clément Marot composed ballades of
+have handed down to us. Somewhat later, Clément [[Marot]] composed ballades of
 great precision of form, and the fashion culminated in the 17th century
-with those of Madame Deshoulières, Sarrazin, Voiture and La Fontaine.
+with those of Madame Deshoulières, Sarrazin, Voiture and [[La Fontaine]].
 Attacked by Molière, and by Boileau, who wrote
 
  "La ballade asservie à ses vieilles maximes,
@@ -84,13 +84,13 @@ Attacked by Molière, and by Boileau, who wrote
 
 the ballade went entirely out of fashion for two hundred years, when it was
 resuscitated in the middle of the 19th century by Théodore de Banville, who
-published in 1873 a volume of _Trente-six ballades joyeuses_, which has
+published in 1873 a volume of _Trente-six ballades [[Joyeuse|joyeuses]]_, which has
 found many imitators. The ballade, a typically French form, has been
 extensively employed in no other language, except in English. In the 15th
 and 16th centuries many ballades were written, with more or less close
 attention to the French rules, by the leading English poets, and in
-particular by Chaucer, by Gower (whose surviving ballades, however, are all
-in French) and by Lydgate. An example from Chaucer will show that the type
+particular by [[Chaucer]], by [[Gower]] (whose surviving ballades, however, are all
+in French) and by [[Lydgate]]. An example from Chaucer will show that the type
 of strophe and rhyme arrangement was in medieval English:--
 
  "Madamë, ye been of all beauty shrine
@@ -116,7 +116,7 @@ of strophe and rhyme arrangement was in medieval English:--
   For which full oft I of myself divine
     That I am truë Tristram the second.
     My love may not refrayed [cooled down] be nor afound [foundered];
-  I burn ay in an amorous pleasance.
+  I [[Burn|burn]] ay in an amorous pleasance.
     Do what you list, I will your thrall be found,
   Though ye to me ne do no daliance."
 
@@ -128,7 +128,7 @@ section whose function is to tie together the rest, and complete the whole
 as a work of art. After the 16th century original ballades were no more
 written in English until the latter part of the 19th, when they were
 re-introduced, almost simultaneously, by Algernon Charles Swinburne, Austin
-Dobson, Andrew Lang, Edmund Gosse and W. E. Henley; but D. G. Rossetti's
+[[Dobson]], Andrew Lang, Edmund [[Gosse]] and W. E. Henley; but D. G. Rossetti's
 popular translation of Villon's "Ballade of Fair Ladies" may almost be
 considered an original poem, especially as it entirely disregards the
 metrical rules of the ballades. Mr. Dobson's "The Prodigals" (1876) was one
@@ -153,7 +153,7 @@ aux Jeux Floraux de Toulouse toutes ces vieux poésies Françoises comme
 _ballades_," says Joachim du Bellay in 1550; and Philaminte, the lady
 pedant of Molière's _Femmes Savantes_, observes--
 
- "La ballade, à mon goût, est une chose fade,
+ "La ballade, à mon goût, est une [[Chose|chose]] fade,
   Ce n'en est plus la mode, elle sent son vieux temps."
 
 In England the term has usually been applied to any simple tale told in
@@ -163,13 +163,13 @@ associated with them being treated in the article SONG. By popular songs we
 understand what the Germans call _Volkslieder_, that is, songs with words
 composed by members of the people, for the people, handed down by oral
 tradition, and in style, taste and even incident, common to the people in
-all European countries. The beauty of these purely popular ballads, their
+all [[European Countries|European countries]]. The beauty of these purely popular ballads, their
 directness and freshness, has made them admired even by the artificial
 critics of the most artificial periods in literature. Thus Sir Philip
 Sydney confesses that the ballad of _Chevy Chase_, when chanted by "a blind
 crowder," stirred his blood like the sound of trumpet. Addison devoted two
 articles in the _Spectator_ to a critique of the same poem. Montaigne
-praised the _naïveté_ of the village carols; and Malherbe preferred a
+praised the _naïveté_ of the village [[Carol|carols]]; and Malherbe preferred a
 rustic _chansonnette_ to all the poems of Ronsard. These, however, are rare
 instances of the taste for popular poetry, and though the Danish ballads
 were collected and printed in the middle of the 16th century, and some
@@ -186,28 +186,28 @@ Forest. It was fortunate, perhaps, for poetry, though unlucky for the
 scientific study of the ballads, that they were mainly regarded from the
 literary point of view. The influence of their artless melody and
 straightforward diction may be felt in the lyrics of Goethe and of
-Coleridge, of Wordsworth, of Heine and of André Chénier. Chénier, in the
+Coleridge, of Wordsworth, of [[Heine]] and of André Chénier. Chénier, in the
 most affected age even of French poetry, translated some of the Romaic
 ballads; one, as it chanced, being almost identical with that which
 Shakespeare borrowed from some English reciter, and put into the mouth of
 the mad Ophelia. The beauty of the ballads and the interest they excited
-led to numerous forgeries and modern interpolations, which it is seldom
+led to numerous forgeries and modern [[Interpolation|interpolations]], which it is seldom
 difficult to detect with certainty. Editors could not resist the temptation
 to interpolate, to restore, and to improve the fragments that came in their
 way. The marquis de la Villemarqué, who first drew attention to the ballads
-of Brittany, is not wholly free from this fault. Thus a very general
+of Brittany, is not wholly free from this [[Fault|fault]]. Thus a very general
 scepticism was awakened, and when questions came to be asked as to the date
 and authorship of the Scottish traditional ballads, it is scarcely to be
 wondered at that Dr Chambers attributed most of them to the accomplished
 Lady Wardlaw, who lived in the middle of the 18th century.
 
 The vexed and dull controversy as to the origin of Scottish folk-songs was
-due to ignorance of the comparative method, and of the ballad literature of
+due to [[Ignorance|ignorance]] of the comparative method, and of the ballad literature of
 Europe in general. The result of the discussion was to leave a vague
 impression that the Scottish ballads were perhaps as old as the time of
 Dunbar, and were the production of a class of professional minstrels. These
 minstrels are a stumbling-block in the way of the student of the growth of
-ballads. The domestic annals of Scotland show that her kings used to keep
+ballads. The domestic [[Annals|annals]] of Scotland show that her kings used to keep
 court-bards, and also that strollers, _jongleurs_, as they were called,
 went about singing at the doors of farm-houses and in the streets of towns.
 Here were two sets of minstrels who had apparently left no poetry; and, on
@@ -217,7 +217,7 @@ made the verses, which the wandering crowders imitated or corrupted. But
 this theory fails to account, among other things, for the universal
 sameness of tone, of incident, of legend, of primitive poetical formulae,
 which the Scottish ballad possesses, in common with the ballads of Greece,
-of France, of Provence, of Portugal, of Denmark and of Italy. The object,
+of France, of Provence, of Portugal, of [[Denmark]] and of Italy. The object,
 therefore, of this article is to prove that what has long been acknowledged
 of nursery tales, of what the Germans call _Märchen_, namely, that they are
 the immemorial inheritance at least of all European peoples, is true also
@@ -225,7 +225,7 @@ of some ballads. Their present form, of course, is relatively recent: in
 centuries of oral recitation the language altered automatically, but the
 stock situations and ideas of many romantic ballads are of dateless age and
 world-wide diffusion. The main incidents and plots of the fairy tales of
-Celts and Germans and Slavonic and Indian peoples, their unknown antiquity
+[[Celt|Celts]] and Germans and Slavonic and Indian peoples, their unknown antiquity
 and mysterious origin, are universally recognized. No one any longer
 attributes them to this or that author, or to this or that date. The
 attempt to find date or author for a genuine popular song is as futile as a
@@ -233,17 +233,17 @@ similar search in the case of a _Märchen_. It is to be asked, then, whether
 what is confessedly true of folk-tales,--of such stories as the _Sleeping
 Beauty_ and _Cinderella_,--is true also of folk-songs. Are they, or have
 they been, as universally sung as the fairy tales have been narrated? Do
-they, too, bear traces of the survival of primitive creeds and primitive
-forms of consciousness and of imagination? Are they, like _Märchen_, for
+they, too, bear traces of the survival of primitive [[Creeds|creeds]] and primitive
+forms of consciousness and of [[Imagination|imagination]]? Are they, like _Märchen_, for
 the most part, little influenced by the higher religions, Christian or
 polytheistic? Do they turn, as _Märchen_ do, on the same incidents, repeat
 the same stories, employ the same machinery of talking birds and beasts?
 Lastly, are any specimens of ballad literature capable of being traced back
 to extreme antiquity? It appears that all these questions may be answered
 in the affirmative; that the great age and universal diffusion of the
-ballad may be proved; and that its birth, from the lips and heart of the
+ballad may be proved; and that its birth, from the [[Lip|lips]] and heart of the
 people, may be contrasted with the origin of an artistic poetry in the
-demand of an aristocracy for a separate epic literature destined to be its
+demand of an [[Aristocracy|aristocracy]] for a separate epic literature destined to be its
 own possession, and to be the first development of a poetry of
 personality,--a record of individual passions and emotions. After bringing
 forward examples of the identity of features in European ballad poetry, we
@@ -256,15 +256,15 @@ There can scarcely be a better guide in the examination of the _notes_ or
 marks of popular poetry than the instructions which M. Ampère gave to the
 committee appointed in 1852-1853 to search for the remains of ballads in
 France. M. Ampère bade the collectors look for the following
-characteristics:--"The use of assonance in place of rhyme, the brusque
-character of the recital, the textual repetition, as in Homer, of the
+characteristics:--"The use of [[Assonance|assonance]] in place of rhyme, the brusque
+character of the recital, the textual repetition, as in [[Homer]], of the
 speeches of the persons, the constant use of certain numbers,--as three and
 seven,--and the representation of the commonest objects of every-day life
 as being made of gold and silver." M. Ampère might have added that French
 ballads would probably employ a "bird chorus," the use of talking-birds as
 messengers; that they would repeat the plots current in other countries,
 and display the same non-Christian idea of death and of the future world
-(see "The Lyke-wake Dirge"), the same ghostly superstitions and stories of
+(see "The Lyke-wake [[Dirge]]"), the same ghostly superstitions and stories of
 metamorphosis, and the same belief in elves and fairies, as are found in
 the ballads of Greece, of Provence, of Brittany, Denmark and Scotland. We
 shall now examine these supposed common notes of all genuine popular song,
@@ -288,17 +288,17 @@ ballads in the _Highlands of Turkey_, remarks on this fact, and attributes
 it to Eastern influences. But the horses' shoes of silver, the knives of
 fine gold, the talking "birds with gold on their wings," as in
 Aristophanes, are common to all folk-song. Everything almost is gold in the
-_Kalewala_ (_q.v._), a so-called epic formed by putting into juxtaposition
-all the popular songs of Finland. Gold is used as freely in the ballads,
+_[[Kalewala]]_ (_q.v._), a so-called epic formed by putting into juxtaposition
+all the popular songs of [[Finland]]. Gold is used as freely in the ballads,
 real or spurious, which M. Verkovitch has had collected in the wilds of
 Mount Rhodope. The Captain in the French song is as lavish in his treatment
-of his runaway bride,--
+of his runaway [[Bride|bride]],--
 
  "Son amant l'habille,
   Tout en or et argent";
 
 and the rustic in a song from Poitou talks of his _faucille d'or_, just as
-a variant of Hugh of Lincoln introduces gold chairs and tables. Again, when
+a variant of Hugh of [[Lincoln]] introduces gold chairs and tables. Again, when
 the lover, in a ballad common to France and to Scotland, cuts the
 winding-sheet from about his living bride--"il tira ses ciseaux d'or fin."
 If the horses of the Klephts in Romaic ballads are gold shod, the steed in
@@ -317,19 +317,19 @@ omniscient popinjay, who "up and spoke" in the Border minstrelsy, is of the
 same family of birds as those that, according to Talvj, pervade Servian
 song; as the [Greek: tria poulakia] which introduce the story in the Romaic
 ballads; as the wise birds whose speech is still understood by
-exceptionally gifted Zulus; as the wicked dove that whispers temptation in
+exceptionally gifted Zulus; as the wicked [[Dove|dove]] that whispers temptation in
 the sweet French folk-song; as the "bird that came out of a bush, on water
 for to dine," in the _Water o' Wearies Well_.
 
 In the matter of identity of plot and incident in the ballads of various
 lands, it is to be regretted that no such comparative tables exist as Von
-Hahn tried, not very exhaustively, to make of the "story-roots" of
+[[Hahn]] tried, not very exhaustively, to make of the "story-roots" of
 _Märchen_. Such tables might be compiled from the learned notes and
 introductions of Prof. Child to his _English and Scottish Popular Ballads_
 (1898). A common plot is the story of the faithful leman, whose lord brings
 home "a braw new bride," and who recovers his affection at the eleventh
 hour. In Scotland this is the ballad of Lord Thomas and Fair Annie; in
-Danish it is Skiaen Anna. It occurs twice in M. Fauriel's collection of
+Danish it is Skiaen [[Anna]]. It occurs twice in M. Fauriel's collection of
 Romaic songs. Again, there is the familiar ballad about a girl who pretends
 to be dead, that she may be borne on a bier to meet her lover. This occurs
 not only in Scotland, but in the popular songs of Provence (collected by
@@ -348,15 +348,15 @@ state of the dead revealed in folk-songs. _The Night Journey_, in M.
 Fauriel's Romaic collection, tells how a dead brother, wakened from his
 sleep of death by the longing of love, bore his living sister on his
 saddle-bow, in one night, from Bagdad to Constantinople. In Scotland this
-is the story of Proud Lady Margaret; in Germany it is the song which Bürger
+is the story of Proud Lady [[Margaret]]; in Germany it is the song which Bürger
 converted into Lenore; in Denmark it is Aagé und Elsé; in Brittany the dead
-foster-brother carries his sister to the apple close of the Celtic paradise
+foster-brother carries his sister to the [[Apple|apple]] close of the Celtic paradise
 (_Barzaz Breiz_). Only in Brittany do the sad-hearted people think of the
-land of death as an island of Avalon, with the eternal sunset lingering
-behind the flowering apple trees, and gleaming on the fountain of
+land of death as an island of [[Avalon]], with the eternal sunset lingering
+behind the flowering apple trees, and gleaming on the [[Fountain|fountain]] of
 forgetfulness. In Scotland the channering worm doth chide even the souls
 that come from where, "beside the gate of Paradise, the birk grows fair
-enough." The Romaic idea of the place of the dead, the garden of Charon,
+enough." The Romaic idea of the place of the dead, the garden of [[Charon]],
 whence "neither in spring or summer, nor when grapes are gleaned in autumn,
 can warrior or maiden escape," is likewise pre-Christian. In Provençal and
 Danish folk-song, the cries of children ill-treated by a cruel step-mother
@@ -365,11 +365,11 @@ awaken the departed mother,--
  "'Twas cold at night and the bairnies grat,
   The mother below the mouls heard that."
 
-She reappears in her old home, and henceforth, "when dogs howl in the
+She reappears in her old home, and henceforth, "when [[Dogs|dogs]] howl in the
 night, the step-mother trembles, and is kind to the children." To this
 identity of superstition we may add the less tangible fact of identity of
 tone. The ballads of Klephtic exploits in Greece match the Border songs of
-Dick of the Cow and Kinmont Willie. The same simple delight of living
+[[Dick]] of the Cow and Kinmont Willie. The same simple delight of living
 animates the short Greek _Scolia_ and their counterparts in France.
 Everywhere in these happier climes, as in southern Italy, there are
 snatches of popular verse that make but one song of rose trees, and apple
@@ -394,7 +394,7 @@ merchants and travellers, who by late navigations have surveyed the whole
 world, and discovered large countries, and wild people strange and savage,
 affirming that the American, the Perusine, and the very Canniball do sing
 and also say their highest and holiest matters in certain riming
-versicles." In the same way Aristotle, discoursing of the origin of poetry,
+versicles." In the same way [[Aristotle]], discoursing of the origin of poetry,
 says (_Poet_. c. iv.), [Greek: egennêsan tên poiêsin ek tôn
 autoschediasmatôn] M. de la Villemarqué in Brittany, M. Pitré in Italy,
 Herr Ulrich in Greece, have described the process of improvisation, how it
@@ -420,7 +420,7 @@ We find it in Gawin Douglas's account of--
 
 Now, ring-sangs are ballads, dancing songs; and _Young Tamlane_, for
 instance, was doubtless once danced to, as we know it possessed an
-appropriate air. Again, Fabyan, the chronicler (quoted by Ritson) says that
+appropriate air. Again, [[Fabyan]], the chronicler (quoted by Ritson) says that
 the song of triumph over Edward II., "was after many days sung _in dances_,
 to the carols of the [v.03 p.0267] maidens and minstrels of Scotland." We
 might quote the _Complaynt of Scotland_ to the same effect. "The shepherds,
@@ -439,7 +439,7 @@ possibly mythological germs of the legends; but, at all events, some
 ballads may be claimed as distinctly popular, and, so to speak, impersonal
 in matter and in origin. It would be easy to show that survivals out of
 this stage of inartistic lyric poetry linger in the early epic poetry of
-Homer and in the French _épopées_, and that the Greek drama sprang from the
+Homer and in the French _épopées_, and that the Greek [[Drama|drama]] sprang from the
 sacred choruses of village vintagers. In the great early epics, as in
 popular ballads, there is the same directness and simplicity, the same use
 of recurring epithets, the "green grass," the "salt sea," the "shadowy
@@ -456,13 +456,13 @@ We have here spoken mainly of romantic ballads, which retain in the refrain
 a vestige of the custom of singing and dancing; of a period when "dance,
 song and poetry itself began with a communal consent" (Gummere, _The
 Beginnings of Poetry_, p. 93, 1901). The custom by which a singer in a
-dancing-circle chants a few words, the dancers chiming in with the refrain,
-is found by M. Junod among the tribes of Delagoa Bay (Junod, _Chantes et
+dancing-circle [[Chant|chants]] a few words, the dancers chiming in with the refrain,
+is found by M. Junod among the tribes of [[Delagoa Bay]] (Junod, _Chantes et
 contes des Ba Ronga_, 1897). Other instances are the Australian song-dances
-(Siebert, in Howitt's _Native Tribes of South-East Australia_, Appendix
+(Siebert, in Howitt's _Native Tribes of South-East [[Australia]]_, Appendix
 1904; and Dennett, _Folk-Lore of the Fiort_). We must not infer that even
 among the aborigines of Australia song is entirely "communal." Known men,
-inspired, they say, in dreams, or by the All Father, devise new forms of
+inspired, they say, in [[Dream|dreams]], or by the All Father, devise new forms of
 song with dance, which are carried all over the country; and Mr Howitt
 gives a few examples of individual lyric. The history of the much
 exaggerated opinion that a whole people, as a people, composed its own
@@ -475,9 +475,9 @@ Border Minstrelsy_) by Sir Walter Scott, and by hands much weaker than his
 has been derived by a popular singer from medieval literary romance (as in
 the Arthurian ballads), while the author of the romance again usually
 borrowed, like Homer in the _Odyssey_, from popular _Märchen_ of dateless
-antiquity. It would be an error to suppose that most romantic folk-songs
+antiquity. It would be an [[Error|error]] to suppose that most romantic folk-songs
 are vulgarizations of literary romance--a view to which Mr Courthope, in
-his _History of English Poetry_, and Mr Henderson in _The Border
+his _History of English Poetry_, and Mr [[Henderson]] in _The Border
 Minstrelsy_ (1902), incline--and the opposite error would be to hold that
 this process of borrowing from and vulgarization of literary medieval
 romance never occurred. A good illustration of the true state of the case
@@ -503,7 +503,7 @@ taken from recitation, the reciter has sometimes been inspired by a "stall
 copy," or printed broadsheet.
 
 AUTHORITIES.--The indispensable book for the student of ballads is Child's
-_English and Scottish Popular Ballads_, published in 1897-1898 (Boston,
+_English and Scottish Popular Ballads_, published in 1897-1898 ([[Boston]],
 U.S.A.). Professor Child unfortunately died without summing up his ideas in
 a separate essay, and they must be sought in his introductions, which have
 never been analysed. He did not give much attention to such materials for
@@ -513,7 +513,7 @@ unrivalled, and his bibliography of collections of ballads contains some
 four hundred titles, (Child, vol. v., pp. 455-468). The most copious ballad
 makers have been the Scots and English, the German, Slavic, Danish, French
 and Italian peoples; for the Gaelic there is but one entry, Campbell of
-Islay's _Lea har na Feinne_ (London, 1872). The general bibliography
+Islay's _[[Lea]] har na Feinne_ (London, 1872). The general bibliography
 occupies over sixty pages, and to this the reader must be referred, while
 Prof. Gummere's book, _The Beginnings of Poetry_, is an adequate
 introduction to the literature, mainly continental, of the ballad question,

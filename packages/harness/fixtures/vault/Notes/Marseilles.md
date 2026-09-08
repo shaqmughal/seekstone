@@ -7,13 +7,13 @@ topic: philosophy
 # Marseilles
 
 MARSEILLES, a city of southern France, chief seaport of France and of
-the Mediterranean, 219 m. S. by E. of Lyons and 534 m. S.S.E. of Paris,
-by the Paris-Lyon-Méditerranée railway. Pop. (1906), commune 517,498;
+the Mediterranean, 219 m. S. by E. of [[Lyons]] and 534 m. S.S.E. of Paris,
+by the Paris-Lyon-Méditerranée railway. Pop. (1906), [[Commune|commune]] 517,498;
 town 421,116. Marseilles is situated on the Golfe du Lion on the eastern
 shore of a bay protected to the south by Cape Croisette but open towards
-the west; to the east the horizon is bounded by an amphitheatre of
+the west; to the east the [[Horizon|horizon]] is bounded by an amphitheatre of
 hills, those in the foreground clothed with vegetation while the more
-distant eminences are bare and rugged. The city is built on undulating
+distant [[Eminence|eminences]] are bare and rugged. The city is built on undulating
 ground and the south-western and most aristocratic quarter covers the
 slopes of the ridge crowned by a fort and the church of Notre-Dame de la
 Garde and projecting westward into the bay to form a protection for the
@@ -25,7 +25,7 @@ temperature is always a little lower than in the centre of the town. The
 old harbour of Marseilles opens on the west to the Golfe du Lion, the
 famous Rue Cannebière[1] prolonged by the Rue Noailles leading E.N.E.
 from its inner end. These two streets are the centre of the life of the
-city. Continued in the Allées de Meilhan and the Boulevard de la
+city. Continued in the Allées de Meilhan and the [[Boulevard]] de la
 Madeleine, they form one of its main arteries. The other, at right
 angles with the first, connects the Place d'Aix with the spacious and
 fashionable Promenade du Prado, by way of the Cours Belsunce and the Rue
@@ -34,7 +34,7 @@ Rue Breteuil are to the south of the Cannebière running parallel with
 the Rue de Rome. To these must be added the neighbouring avenue of
 Pierre Puget named after the sculptor whose statue stands in the Borély
 Park. The Prado, with its avenues of trees and fine houses, runs to
-within a quarter of a mile of the Huveaune, a stream that borders the
+within a quarter of a mile of the Huveaune, a stream that [[Borders|borders]] the
 city on the south-east, then turns off at right angles and extends to
 the sea, coming to an end close to the Borély Park and the race-course.
 From its extremity the Chemin de la Corniche runs northwards along the
@@ -43,19 +43,19 @@ Catalans, a distance of 4½ miles.
 
 The old town of Marseilles is bounded W. by the Joliette basin and the
 sea, E. by the Cours Belsunce, S. by the northern quay of the old port,
-and N. by the Boulevard des Dames. It consists of a labyrinth of steep,
+and N. by the Boulevard des [[Dame|Dames]]. It consists of a [[Labyrinth|labyrinth]] of steep,
 dark and narrow streets inhabited by a seafaring population. Through its
 centre runs the broad Rue de la République, extending from the
 Cannebière to the Place de la Joliette. The entrance to the old harbour
 is defended by Fort St Jean on the north and Fort St Nicolas on the
-south. Behind the latter is the Anse (Creek) de la Réserve. Beyond this
+south. Behind the latter is the Anse ([[Creek]]) de la Réserve. Beyond this
 again, situated in succession along the shore, come the Château du
 Pharo, given by the empress Eugénie to the town, the Anse du Pharo, the
 military exercising ground, and the Anse des Catalans. To the old
 harbour, which covers only 70 acres with a mean depth of 19½ ft. and is
 now used by sailing vessels, the basin of La Joliette (55 acres) with an
 entrance harbour was added in 1853. Communicating with the old harbour
-by a channel which passes behind Fort St Jean, this dock opens on the
+by a channel which passes behind Fort St Jean, this [[Dock|dock]] opens on the
 south into the outer harbour, opposite the palace and the Anse du Pharo.
 A series of similar basins separated from the roadstead by a jetty 2½ m.
 long was subsequently added along the shore to the north, viz. the
@@ -75,17 +75,17 @@ part of Dumas' _Monte Cristo_ is laid.
 
 Marseilles possesses few remains of either the Greek or Roman periods of
 occupation, and is poor in medieval buildings. The old cathedral of la
-Major (Sainte-Marie-Majeure), dating chiefly from the 12th century and
+[[Major]] (Sainte-Marie-Majeure), dating chiefly from the 12th century and
 built on the ruins of a temple of Diana, is in bad preservation. The
 chapel of St Lazare (late 15th century) in the left aisle is in the
-earliest Renaissance style, and a bas-relief of white porcelain by Lucca
-della Robbia is of artistic value. Beside this church and alongside the
+earliest Renaissance style, and a bas-relief of white porcelain by [[Lucca]]
+[[Della Robbia|della Robbia]] is of artistic value. Beside this church and alongside the
 Joliette basin is a modern building begun in 1852, opened for worship in
 1893 and recognized as the finest modern cathedral in France. It is a
-Byzantine basilica, in the form of a Latin cross, 460 ft. long, built in
+Byzantine [[Basilica|basilica]], in the form of a Latin cross, 460 ft. long, built in
 green Florentine stone blended with white stone from the neighbourhood
-of Arles. The four towers which surmount it--two at the west front, one
-over the crossing, one at the east end--are roofed with cupolas. Near
+of [[Arles]]. The four towers which surmount it--two at the west front, one
+over the crossing, one at the east end--are roofed with [[Cupola|cupolas]]. Near
 the cathedral stands the bishop's palace, and the Place de la Major,
 which they overlook, is embellished with the statue of Bishop Belsunce,
 who displayed great devotion during the plague of 1720-1721. The
@@ -103,26 +103,26 @@ and square towers built of large blocks of uncemented stone, it
 resembles a fortress. St Victor is built above crypts dating mainly
 from the 11th century but also embodying architecture of the Carolingian
 period and of the early centuries of the Christian era. Tradition
-relates that St Lazarus inhabited the catacombs under St Victor; and the
-black image of the Virgin, still preserved there, is popularly
-attributed to St Luke. The spire, which is the only relic of the ancient
+relates that St [[Lazarus]] inhabited the [[Catacomb|catacombs]] under St Victor; and the
+black [[Image|image]] of the Virgin, still preserved there, is popularly
+attributed to St [[Luke]]. The spire, which is the only relic of the ancient
 church of Accoules, marks the centre of Old Marseilles. At its foot are
-a "calvary" and a curious underground chapel in rock work, both modern.
+a "[[Calvary|calvary]]" and a curious underground chapel in rock work, both modern.
 Notre-Dame du Mont Carmel, also in the old town, occupies the place of
-what was the citadel of the Massaliots when they were besieged by Julius
-Caesar.
+what was the citadel of the Massaliots when they were besieged by [[Julius]]
+[[Caesar]].
 
 Of the civil buildings of the city, the prefecture, one of the finest in
 France, the Palais de Justice, in front of which is the statue of the
-advocate Antoine Berryer (1790-1868) and the Exchange, all date from the
+advocate [[Antoine]] [[Berryer]] (1790-1868) and the [[Exchange]], all date from the
 latter half of the 19th century. The Exchange, built at the expense of
 the Chamber of Commerce, includes the spacious hall of that institution
-with its fine mural paintings and gilding. The hôtel-de-ville (17th
+with its fine mural paintings and [[Gilding|gilding]]. The hôtel-de-ville (17th
 century) stands on the northern quay of the old harbour. All these
 buildings are surpassed by the Palais Longchamp (1862-1870), situated in
 the north-east of the town at the end of the Boulevard Longchamp. The
 centre of the building is occupied by a monumental _château d'eau_
-(reservoir). Colonnades branch off from this, uniting it on the left to
+(reservoir). [[Colonnade|Colonnades]] branch off from this, uniting it on the left to
 the picture gallery, with a fine collection of ancient and modern works,
 and on the right to the natural history museum, remarkable for its
 conchological department and collection of ammonites. In front are
@@ -130,17 +130,17 @@ ornamental grounds; behind are extensive zoological gardens, with the
 astronomical observatory. The museum of antiquities is established in
 the Château Borély (1766-1778) in a fine park at the end of the Prado.
 It includes a Phoenician collection (containing the remains that support
-the hypothesis of the Phoenician origin of Marseilles), an Egyptian
+the [[Hypothesis|hypothesis]] of the Phoenician origin of Marseilles), an Egyptian
 collection, numerous Greek, Latin, and Christian inscriptions in stone,
 &c. A special building within the city contains the school of art with a
-valuable library and a collection of medals and coins annexed to it. The
+valuable library and a collection of medals and [[Coin|coins]] annexed to it. The
 city also has a colonial museum and a laboratory of marine zoology. The
-triumphal arch of Aix, originally dedicated to the victors of the
+triumphal [[Arch|arch]] of Aix, originally dedicated to the victors of the
 Trocadéro, was in 1830 appropriated to the conquests of the empire.
 
 The canal de Marseille, constructed from 1837 to 1848, which has
 metamorphosed the town and its arid surroundings by bringing to them the
-waters of the Durance, leaves the river opposite Pertuis. It has a
+waters of the [[Durance]], leaves the river opposite Pertuis. It has a
 length of 97 miles (including its four main branches) of which 13 are
 underground, and irrigates some 7500 acres. After crossing the valley of
 the Arc, between Aix and Rognac, by the magnificent aqueduct of
@@ -150,18 +150,18 @@ Durance, supplies 2450 horse-power to works in the vicinity of
 Marseilles, and ensures a good water-supply and efficient sanitation to
 the city.
 
-Marseilles is the headquarters of the XV. army corps and the seat of a
+Marseilles is the headquarters of the XV. army [[Corps|corps]] and the seat of a
 bishop and a prefect. It has tribunals of first instance and of
-commerce, a chamber of commerce, a board of trade arbitration, and a
+commerce, a chamber of commerce, a board of trade [[Arbitration|arbitration]], and a
 branch of the Bank of France. The educational institutions include a
 faculty of science, a school of medicine and pharmacy, and a faculty
 (_faculté libre_) of law, these three forming part of the university of
 Aix-Marseille; lycées for boys and girls, a conservatoire of music, a
 school of fine art, a higher school of commerce, a school for ships'
-boys, a school of navigation and industrial schools for both sexes.
+boys, a school of navigation and [[Industrial School|industrial schools]] for both sexes.
 
   _Trade and Industry._--Marseilles is the western emporium for the
-  Levant trade and the French gate of the Far East. It suffers, however,
+  [[Levant]] trade and the French gate of the Far East. It suffers, however,
   from the competition of Genoa, which is linked with the Rhine basin by
   the Simplon and St Gotthard railway routes, and from lack of
   communication with the inland waterways of France. In January 1902 the
@@ -185,31 +185,31 @@ boys, a school of navigation and industrial schools for both sexes.
 
   The port is the centre for numerous lines of steamers, of which the
   chief are the Messageries Maritimes, which ply to the eastern
-  Mediterranean, the east coast of Africa, Australia, India, Indo-China,
-  Havre and London, and the Compagnie Générale Transatlantique, whose
-  vessels run to Algiers, Tunis, Malta, Corsica, Morocco and the
-  Antilles. In addition many important foreign lines call at the port,
-  among them being the P. and O., the Orient, the North German Lloyd,
+  Mediterranean, the east coast of Africa, [[Australia]], India, [[Indo-China]],
+  [[Havre]] and London, and the Compagnie Générale Transatlantique, whose
+  vessels run to Algiers, Tunis, [[Malta]], [[Corsica]], Morocco and the
+  [[Antilles]]. In addition many important foreign lines call at the port,
+  among them being the P. and O., the Orient, the North German [[Lloyd]],
   and the German East Africa lines.
 
   Marseilles has five chief railway stations, two of which serve the new
   harbours, while one is alongside the old port; the city is on the main
   line of the Paris-Lyon-Méditerranée railway from the Riviera and
-  Toulon to Paris via Arles, Avignon and Lyons, another less important
+  Toulon to Paris via Arles, [[Avignon]] and Lyons, another less important
   line connecting it with Aix.
 
   Soap-making, introduced in antiquity from Savona and Genoa, is carried
   on in upwards of fifty factories. These utilize the products of the
   oil-distilleries and of the chemical works, the latter being also an
-  important adjunct to the manufacture of candles, another leading
+  important adjunct to the manufacture of [[Candle|candles]], another leading
   industry. A large quantity of iron, copper and other ores is smelted
   in the blast-furnaces of Saint Louis in the vicinity and in other
-  foundries, and the Mediterranean Engineering Company and other
+  foundries, and the Mediterranean [[Engineering]] Company and other
   companies have large workshops for the construction or repair of
   marine steam-engines and every branch of iron shipbuilding. To these
   industries must be added flour-milling, the manufacture of semolina
-  and other farinaceous foods and of biscuits, bricks and tiles, rope,
-  casks, capsules for bottles and other tin-goods, tanning, distilling,
+  and other farinaceous foods and of [[Biscuit|biscuits]], [[Brick|bricks]] and tiles, rope,
+  casks, [[Capsule|capsules]] for bottles and other tin-goods, tanning, distilling,
   brewing and sulphur- and sugar-refining. There are state tobacco and
   match factories.
 
@@ -229,10 +229,10 @@ the mother country. Isolated amid alien populations, the Massaliots made
 their way by prudence in dealing with the inland tribes, by vigilant
 administration of their oligarchical government, and by frugality united
 to remarkable commercial and naval enterprise. Their colonies spread
-east and west along the coast from Monaco to Cape St Martin in Spain,
+east and west along the coast from Monaco to Cape St [[Martin]] in Spain,
 carrying with them the worship of Artemis; the inland trade, in which
 wine was an important element, can be traced by finds of Massalian coins
-across Gaul and through the Alps as far as Tirol. In the 4th century
+across [[Gaul]] and through the Alps as far as Tirol. In the 4th century
 B.C. the Massaliot Pytheas visited the coasts of Gaul, Britain and
 Germany, and Euthymenes is said to have sailed down the west coast of
 Africa as far as Senegal. The great rival of Massalian trade was
@@ -264,26 +264,26 @@ creek of La Joliette which at that period ran inland to the north of the
 old town. The southern suburb was governed by the abbot of St Victor,
 and owned the Port des Catalans. Situated between the two, the lower
 town, the republic, retained the old harbour, and was the most powerful
-of the three divisions. The period of the crusades brought prosperity to
+of the three divisions. The period of the [[Crusades|crusades]] brought prosperity to
 Marseilles, though throughout the middle ages it suffered from the
 competition of Pisa, Genoa and Venice. In 1245 and 1256 Charles of
-Anjou, count of Provence, whose predecessors had left the citizens a
+[[Anjou]], count of Provence, whose predecessors had left the citizens a
 large measure of independence, established his authority above that of
-the republic. In 1423 Alphonso V. of Aragon sacked the town. King René,
+the republic. In 1423 Alphonso V. of [[Aragon]] sacked the town. King René,
 who had made it his winter residence, however, caused trade, arts and
 manufactures again to flourish. On the embodiment of Provence in the
 kingdom of France in 1481, Marseilles preserved a separate
 administration directed by royal officials. Under Francis I. the
-disaffected constable Charles de Bourbon vainly besieged the town with
+disaffected constable Charles de [[Bourbon]] vainly besieged the town with
 the imperial forces in 1524. During the wars of religion, Marseilles
 took part against the Protestants, and long refused to acknowledge Henry
 IV. The loss of the ancient liberties of the town brought new
-disturbances under the Fronde, which Louis XIV. came in person to
-suppress. He entered the town by a breach in the walls and afterwards
+disturbances under the [[Fronde]], which Louis XIV. came in person to
+suppress. He entered the town by a [[Breach|breach]] in the walls and afterwards
 had Fort St Nicolas constructed. Marseilles repeatedly suffered from the
 plague, notably from May 1720 to May 1721.
 
-During the Revolution the people rose against the aristocracy, who up to
+During the Revolution the people rose against the [[Aristocracy|aristocracy]], who up to
 that time had governed the commune. In the Terror they rebelled against
 the Convention, but were promptly subdued by General Carteaux. The wars
 of the empire, by dealing a blow to their maritime commerce, excited the

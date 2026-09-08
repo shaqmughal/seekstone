@@ -12,8 +12,8 @@ isomorphous with vivianite and erythrite. Crystals are minute and
 capillary and rarely met with, the mineral occurring usually as soft
 earthy masses and encrustations. A fine apple-green colour is its
 characteristic feature. It was long known (since 1758) under the name
-nickel-ochre; the name annabergite was proposed by H.J. Brooke and W.H.
-Miller in 1852, from Annaberg in Saxony, one of the localities of the
+nickel-ochre; the name annabergite was proposed by H.J. [[Brooke]] and W.H.
+Miller in 1852, from [[Annaberg]] in Saxony, one of the localities of the
 mineral. It occurs with ores of nickel, of which it is a product of
 alteration. A variety, from Creetown in Kirkcudbrightshire, in which a
 portion of the nickel is replaced by calcium, has been called

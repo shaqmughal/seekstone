@@ -12,7 +12,7 @@ with orgies and mysterious rites celebrated at night. The chief seat of
 her cult was an island which has not been identified. A single priest
 performed the service. Her veiled statue was moved from place to place
 by sacred cows on which none but the priest might lay hands. At the
-conclusion of the rites the image, its vestments and its vehicle were
+conclusion of the rites the [[Image|image]], its vestments and its vehicle were
 bathed in a lake.
 
 ## References

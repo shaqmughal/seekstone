@@ -9,7 +9,7 @@ topic: chemistry
 CHATEAU-RENAULT, FRANCOIS LOUIS DE ROUSSELET, MARQUIS DE (1637-1716),
 French admiral, was the fourth son of the third marquis of
 Chateau-Renault. The family was of Breton origin, but had been long
-settled near Blois. He entered the army in 1658, but in 1661 was
+settled near [[Blois]]. He entered the army in 1658, but in 1661 was
 transferred to the navy, which Louis XIV. was eager to raise to a high
 level of strength. After a short apprenticeship he was made captain in
 1666. His early services were mostly performed in cruises against the
@@ -18,7 +18,7 @@ was promoted _lieutenant general des armees navales_ in 1687. During the
 wars up to this date he had few chances of distinction, but he had been
 wounded in action with the pirates, and had been on a cruise to the West
 Indies. When war broke out between England and France after the
-revolution of 1688, he was in command at Brest, and was chosen to carry
+revolution of 1688, he was in command at [[Brest]], and was chosen to carry
 the troops and stores sent by the French king to the aid of James II. in
 Ireland. Although he was watched by Admiral Herbert (Lord Torrington,
 q.v.), with whom he fought an indecisive action in Bantry Bay, he
@@ -35,7 +35,7 @@ vice-admiral of France. On the outbreak of the War of the Spanish
 Succession he was named for the difficult task of protecting the Spanish
 ships which were to bring the treasure from America. It was a duty of
 extreme delicacy, for the Spaniards were unwilling to obey a foreigner,
-and the French king was anxious that the bullion should be brought to
+and the French king was anxious that the [[Bullion|bullion]] should be brought to
 one of his own ports, a scheme which the Spanish officials were sure to
 resent if they were allowed to discover what was meant. With the utmost
 difficulty Chateau-Renault was able to bring the galleons as far as
@@ -56,7 +56,7 @@ at Cadiz, which had a monopoly of the trade with America. At last the
 order came, and the bullion was landed under the care of the Gallician
 militia which was ordered to escort it to Lugo. A very large part, if
 not the whole, was plundered by the militiamen and the farmers whose
-carts had been commandeered for the service. But the bulk of the
+[[Cart|carts]] had been commandeered for the service. But the bulk of the
 merchandise was on board of the galleons when the allied fleet appeared
 outside of the bay on the 22nd of October 1702. Sir George Rooke and his
 colleagues resolved to attack. The fleet was carrying a body of troops
@@ -75,7 +75,7 @@ Chateau-Renault suffered no loss of his master's favour by his failure
 to save the treasure. The king considered him free from blame, and must
 indeed have known that the admiral had been trusted with too many
 secrets to make it safe to inflict a public rebuke. The Spanish
-government declined to give him the rank of grandee which was to have
+government declined to give him the rank of [[Grandee|grandee]] which was to have
 been the reward for bringing home the bullion safe. But in 1703 he was
 made a marshal of France, and shortly afterwards lieutenant-general of
 Brittany. The fight in Vigo Bay was the last piece of active service

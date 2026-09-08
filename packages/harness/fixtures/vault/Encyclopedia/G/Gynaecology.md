@@ -6,12 +6,12 @@ concerns the pathology and treatment of affections peculiar to the
 female sex.
 
 Gynaecology may be said to be one of the most ancient branches of
-medicine. The papyrus of Ebers, which is one of the oldest known works
+medicine. The papyrus of [[Eber|Ebers]], which is one of the oldest known works
 on medicine and dates from 1550 B.C., contains references to diseases of
 women, and it is recorded that specialism in this branch was known
 amongst Egyptian medical practitioners. The Vedas contain a list of
 therapeutic agents used in the treatment of gynaecological diseases. The
-treatises on gynaecology formerly attributed to Hippocrates (460 B.C.)
+treatises on gynaecology formerly attributed to [[Hippocrates]] (460 B.C.)
 are now said to be spurious, but the wording of the famous oath shows
 that he was at least familiar with the use of gynaecological
 instruments. Diocles Carystius, of the Alexandrian school (4th century
@@ -22,7 +22,7 @@ first years of the Christian era gynaecologists were much in demand
 (Haser). A speculum for gynaecological purposes has been found in the
 ruins of Pompeii, and votive offerings of anatomical parts found in the
 temples show that various gynaecological malformations were known to the
-ancients. Writers who have treated of this branch are Celsus (50
+ancients. Writers who have treated of this branch are [[Celsus]] (50
 B.C.-A.D. 7) and Soranus of Ephesus (A.D. 98-138), who refers in his
 works to the fact that the Roman midwives frequently called to their aid
 practitioners who made a special study of diseases of women. These
@@ -36,7 +36,7 @@ testifying on her behalf. Besides Agnodice we have Sotira, who wrote a
 work on menstruation which is preserved in the library at Florence,
 while Aspasia is mentioned by Aetius as the author of several chapters
 of his work. It is evident that during the Roman period much of the
-gynaecological work was in the hands of women. Martial alludes to the
+gynaecological work was in the hands of women. [[Martial]] alludes to the
 "_feminae medicae_" in his epigram on Leda. These women must not be
 confounded with the midwives who on monuments are always described as
 "obstetrices." Galen devotes the sixth chapter of his work _De locis
@@ -49,14 +49,14 @@ In modern times James Parsons (1705-1770) published his _Elenchus
 gynaicopathologicus et obstetricarius_, and in 1755 Charles Perry
 published his _Mechanical account and explication of the hysterical
 passion and of all other nervous disorders incident to the sex, with an
-appendix on cancers_. In the early part of the 19th century fresh
+appendix on [[Cancer|cancers]]_. In the early part of the 19th century fresh
 interest in diseases of women awakened. Joseph Recamier (1774-1852) by
 his writings and teachings advocated the use of the speculum and sound.
 This was followed in 1840 by the writings of Simpson in England and
-Huguier in France. In 1845 John Hughes Bennett published his great work
+Huguier in France. In 1845 John Hughes [[Bennett]] published his great work
 on inflammation of the uterus, and in 1850 Tilt published his book on
-ovarian inflammation. The credit of being the first to perform the
-operation of ovariotomy is now credited to McDowell of Kentucky in 1809,
+ovarian inflammation. The [[Credit|credit]] of being the first to perform the
+operation of ovariotomy is now credited to McDowell of [[Kentucky]] in 1809,
 and to Robert Lawson Tait (1845-1899) in 1883 the first operation for
 ruptured ectopic gestation.
 
@@ -69,7 +69,7 @@ ruptured ectopic gestation.
   spoken of as "the change of life." Both the age of puberty and that of
   the menopause may supervene earlier or later according to local
   conditions. At both times the menstrual flow may be replaced by
-  haemorrhage from distant organs (epistaxis, haematemesis,
+  [[Haemorrhage|haemorrhage]] from distant organs (epistaxis, haematemesis,
   haemoptysis); this is called _vicarious menstruation_. Menstruation is
   usually but not necessarily coincident with ovulation. The usual
   disorders of menstruation are: (1) _amenorrhoea_ (absence of flow),
@@ -77,12 +77,12 @@ ruptured ectopic gestation.
   flow), (4) _metrorrhagia_ (excessive and irregular flow). Amenorrhoea
   may arise from physiological causes, such as pregnancy, lactation, the
   menopause; constitutional causes, such as phthisis, anaemia and
-  chlorosis, febrile disorders, some chronic intoxications, such as
+  chlorosis, febrile disorders, some chronic [[Intoxication|intoxications]], such as
   morphinomania, and some forms of cerebral disease; local causes, which
   include malformations or absence of one or more of the genital parts,
   such as absence of ovaries, uterus or vagina, atresia of vagina,
   imperforate cervix, disease of the ovaries, or sometimes imperforate
-  hymen. The treatment of amenorrhoea must be directed towards the
+  [[Hymen|hymen]]. The treatment of amenorrhoea must be directed towards the
   cause. In anaemia and phthisis menstruation often returns after
   improvement in the general condition, with good food and good sanitary
   conditions, an outdoor life and the administration of iron or other
@@ -105,13 +105,13 @@ ruptured ectopic gestation.
   treated by dilatation, fibroid growths if present removed, and
   endometritis when present treated by local applications or curetting
   according to its severity. Menorrhagia signifies excessive bleeding at
-  the menstrual periods. Constitutional causes are purpura, haemophilia,
+  the menstrual periods. Constitutional causes are purpura, [[Haemophilia|haemophilia]],
   excessive food and alcoholic drinks and warm climates; while local
   causes are congestion and displacements of the uterus, endometritis,
   subinvolution, retention of the products of conception, new growths in
   the uterus such as mucous and fibroid polypi, malignant growths,
   tubo-ovarian inflammation and some ovarian tumours. Metrorrhagia is a
-  discharge of blood from the uterus, independent of menstruation. It
+  [[Discharge|discharge]] of blood from the uterus, independent of menstruation. It
   always arises from disease of the uterus or its appendages. Local
   causes are polypi, retention of the products of conception, extra
   uterine gestation, haemorrhages in connexion with pregnancy, and new
@@ -142,13 +142,13 @@ ruptured ectopic gestation.
   bed, warm medicated baths several times a day or fomentations of
   boracic acid. The parts must be kept thoroughly clean and discharges
   swabbed away. Diphtheritic vulvitis occasionally occurs, and
-  erysipelas of the vulva may follow wounds, but since the use of
-  antiseptics is rarely seen. (3) Vascular disturbances may occur in the
-  vulva, including varix, haematoma, oedema and gangrene; the treatment
+  [[Erysipelas|erysipelas]] of the vulva may follow wounds, but since the use of
+  [[Antiseptics|antiseptics]] is rarely seen. (3) Vascular disturbances may occur in the
+  vulva, including varix, haematoma, oedema and [[Gangrene|gangrene]]; the treatment
   is the same as for the same disease in other parts. (4) The vulva is
   likely to be affected by a number of cutaneous affections, the most
-  important being erythema, eczema, herpes, lichen, tubercle,
-  elephantiasis, vulvitis pruriginosa, syphilis and kraurosis. These
+  important being erythema, [[Eczema|eczema]], [[Herpes|herpes]], lichen, tubercle,
+  [[Elephantiasis|elephantiasis]], vulvitis pruriginosa, syphilis and kraurosis. These
   affections present the same characters as in other parts of the body.
   _Kraurosis vulvae_, first described by Lawson Tait in 1875, is an
   atrophic change accompanied by pain and a yellowish discharge; the
@@ -161,7 +161,7 @@ ruptured ectopic gestation.
   _Diseases of the Vagina._--(1) Malformations. The vagina may be absent
   in whole or in part or may present a septum. Stenosis of the vagina
   may be a barrier to menstruation. (2) Displacements of the vagina; (a)
-  cystocele, which is a hernia of the bladder into the vagina; (b)
+  cystocele, which is a hernia of the [[Bladder|bladder]] into the vagina; (b)
   rectocele, a hernia of the rectum into the vagina. The cause of these
   conditions is relaxation of the tissues due to parturition. The
   palliative treatment consists in keeping up the parts by the insertion
@@ -188,8 +188,8 @@ ruptured ectopic gestation.
   extend into the bladder, causing cystitis. Strict rest should be
   enjoined, douches of carbolic acid (1 in 40) or of perchloride of
   mercury (1 in 2000) should be ordered morning and evening, the vagina
-  being packed with tampons of iodoform gauze. Saline purgatives and
-  alkaline diuretics should be given, (c) Chronic vaginitis (leucorrhoea
+  being packed with tampons of [[Iodoform|iodoform]] gauze. Saline purgatives and
+  alkaline [[Diuretics|diuretics]] should be given, (c) Chronic vaginitis (leucorrhoea
   or "the whites") may follow acute conditions and persist indefinitely.
   The vagina is rarely the seat of tumours, but cysts are common.
 
@@ -201,7 +201,7 @@ ruptured ectopic gestation.
   _Displacements of the Uterus._--The normal position of the uterus,
   when the bladder is empty, is that of anteversion. We have therefore
   to consider the following conditions as pathological: anteflexion,
-  retroflexion, retroversion, inversion, prolapse and procidentia.
+  retroflexion, retroversion, [[Inversion|inversion]], prolapse and procidentia.
   Slight anteflexion or bending forwards is normal; when exaggerated it
   gives rise to dysmenorrhoea, sterility and reflex nervous phenomena.
   This condition is usually congenital and is often associated with
@@ -266,7 +266,7 @@ ruptured ectopic gestation.
   frequent of these injuries is laceration of the cervix uteri, which is
   frequent in precipitate labour. Once the cervix is torn the raw
   surfaces become covered by granulations and later by cicatricial
-  tissue, but as a rule they do not unite. The torn lips may become
+  tissue, but as a rule they do not unite. The torn [[Lip|lips]] may become
   unhealthy, and the congestion and oedema spread to the body of the
   uterus. A lacerated cervix does not usually give rise to symptoms;
   these depend on the accompanying endometritis, and include
@@ -324,7 +324,7 @@ ruptured ectopic gestation.
   exceed males in the proportion of seven to three, and of this large
   majority uterine growths account for 25%. When we consider its
   periodic monthly engorgements and the alternate hypertrophy and
-  involution it undergoes in connexion with pregnancy, we can anticipate
+  [[Involution|involution]] it undergoes in connexion with pregnancy, we can anticipate
   the special proneness of the uterus to new growths. Tumours of the
   uterus are divided into benign and malignant. The benign tumours known
   as fibroids or myomata are very common. They are stated by Bayle to
@@ -360,7 +360,7 @@ ruptured ectopic gestation.
   tried to control the haemorrhage, and repose and the injection of hot
   water (120 deg. F.) are sometimes successful, together with electrical
   treatment. Surgical measures are needed, however, in severe recurrent
-  haemorrhage, intestinal obstruction, sloughing and the co-existence of
+  haemorrhage, [[Intestinal Obstruction|intestinal obstruction]], sloughing and the co-existence of
   pregnancy. An endeavour must be made if possible to enucleate the
   fibroid, or hysterectomy (removal of the uterus) may be required. The
   operation of removal of the ovaries to precipitate the menopause has
@@ -424,9 +424,9 @@ ruptured ectopic gestation.
   the variety of abortion termed hydatid mole. In many cases it destroys
   life with a rapidity unequalled by any other kind of growth. It
   quickly ulcerates and infiltrates the uterine tissues, forming
-  metastatic growths in the lung and vagina. Clinically it is recognized
+  metastatic growths in the [[Lung|lung]] and vagina. Clinically it is recognized
   by the occurrence after pregnancy of violent haemorrhages, progressive
-  cachexia and fever with rigors. Recent suggestions have been made as
+  cachexia and [[Fever|fever]] with rigors. Recent suggestions have been made as
   to chorion-epithelioma being the result of pathological changes in the
   lutein tissue of the ovary. The growth is usually primary in the
   uterus, but may be so in the Fallopian tubes and in the vagina. A few
@@ -444,7 +444,7 @@ ruptured ectopic gestation.
   gonorrhoea, tuberculosis and cancer of the uterus; it sometimes
   follows the specific fevers. When the pus escapes from the tubes into
   the coelom it sets up pelvic peritonitis. When the inflammation is
-  adjacent to the ostium it leads to the matting together of the tubal
+  adjacent to the ostium it leads to the [[Matting|matting]] together of the tubal
   fimbriae and glues them to an adjacent organ. This seals the ostium.
   The occluded tube may now have an accumulation of pus in it
   (pyosalpinx). When in consequence of the sealing of the ostium the
@@ -473,7 +473,7 @@ ruptured ectopic gestation.
   published by Dr Catherine van Tussenboek of Amsterdam in 1899
   (Bland-Sutton). Tubal pregnancy is most frequent in the left tube; it
   sometimes complicates uterine pregnancy; rarely both tubes are
-  pregnant. When the oosperm lodges in the ampulla or isthmus it is
+  pregnant. When the oosperm [[Lodge|lodges]] in the ampulla or isthmus it is
   called tubal gestation; when it is retained in the portion traversing
   the uterine wall it is called tubo-uterine gestation. Wherever the
   fertilized ovum remains and implants its villi the tube becomes turgid
@@ -487,7 +487,7 @@ ruptured ectopic gestation.
   the sixth and the tenth week. The rupture of the tube may be
   intraperitoneal or extraperitoneal. The danger is death from
   haemorrhage occurring during the rupture, or adhesions may form, the
-  retained blood forming a haematocele. The ovum may be destroyed or may
+  retained blood forming a [[Haematocele|haematocele]]. The ovum may be destroyed or may
   continue to develop. In rare cases rupture may not occur, the tube
   bulging into the peritoneal cavity; and the foetus may break through
   the membranes and lie free among the intestines, where it may die,
@@ -508,7 +508,7 @@ ruptured ectopic gestation.
 
   _Diseases of the Ovaries and Parovarium._--The ovaries undergo
   striking changes at puberty, and again at the menopause, after which
-  there is a gradual shrinkage. One or both may be absent or malformed,
+  there is a [[Gradual|gradual]] shrinkage. One or both may be absent or malformed,
   or they are subject to displacements, being either undescended,
   contained in a hernia or prolapsed. Either of these conditions, if a
   source of pain, may necessitate their removal. The ovary is also
@@ -521,10 +521,10 @@ ruptured ectopic gestation.
   follow acute or be consequent on pelvic cellulitis. Its constant
   features are more or less pain followed by sterility. The ovary may be
   the seat of tuberculosis, which is generally secondary to other
-  lesions. Suppuration and abscess of the ovary also occur.
+  [[Lesion|lesions]]. Suppuration and abscess of the ovary also occur.
   Perioophoritis, or chronic inflammation in the neighbourhood, may also
   involve the gland. The cause of cirrhosis of the ovaries is unknown,
-  though it may be associated with cirrhotic liver. The change is met
+  though it may be associated with cirrhotic [[Liver|liver]]. The change is met
   with in women between 20 and 40 years of age, the ovaries being in a
   shrunken, hard, wrinkled condition. Under ovarian neuralgia are
   grouped indefinite painful symptoms occurring frequently in neurotic
@@ -535,7 +535,7 @@ ruptured ectopic gestation.
   size. The largest on record was removed by Dr Elizabeth Reifsnyder of
   Shanghai, and contained 100 litres of fluid, and the patient
   recovered. The operation is termed ovariotomy. Dermoid cysts
-  containing skin, bones, teeth and hair, are of frequent growth in the
+  containing skin, [[Bone|bones]], teeth and hair, are of frequent growth in the
   ovary, and have attained the weight of from 20 to 40 kilogrammes. In
   one case a girl weighed 27 kilogrammes and her tumour 44 kilogrammes
   (Keen). Papillomatous cysts also occur in the ovary. Parovarian and
@@ -546,7 +546,7 @@ ruptured ectopic gestation.
   is fairly frequent, sarcoma being the most usual ovarian tumour
   occurring before puberty. Carcinoma of the ovary is rarely primary,
   but it is a common situation for secondary cancer to that of the
-  breast, gall-bladder or gastro-intestinal tract. The treatment of all
+  [[Breast|breast]], gall-bladder or gastro-intestinal tract. The treatment of all
   rapidly-growing tumours of the ovary is removal.
 
   _Diseases of the Pelvic Peritoneum and Connective Tissue._--Women are
@@ -556,7 +556,7 @@ ruptured ectopic gestation.
   It may follow the rupture of ovarian or dermoid cysts, rupture of the
   uterus, extra uterine pregnancy or extension from pyosalpinx. The
   symptoms are severe pain, fever, 103 deg. F. and higher, marked
-  constitutional disturbances, vomiting, restlessness, even delirium.
+  constitutional disturbances, vomiting, restlessness, even [[Delirium|delirium]].
   The abdomen is fixed and tympanitic. Its results are the formation of
   adhesions causing abnormal positions of the organs, or chronic
   peritonitis may follow. The treatment is rest in bed, opium, hot
@@ -565,8 +565,8 @@ ruptured ectopic gestation.
   Hydroperitoneum, a collection of free fluid in the abdominal cavity,
   may be due to tumours of the abdominal viscera or to tuberculosis of
   the peritoneum. (4) Pelvic cellulitis (parametritis) signifies the
-  inflammation of the connective tissue between the folds of the broad
-  ligament (mesometrium). The general causes are septic changes
+  inflammation of the connective tissue between the [[Fold|folds]] of the broad
+  [[Ligament|ligament]] (mesometrium). The general causes are septic changes
   following abortion, delivery at term (especially instrumental
   delivery), following operations on the uterus or salpingitis. The
   symptoms are chill followed by severe intrapelvic pain and tension,
@@ -586,13 +586,13 @@ ruptured ectopic gestation.
   myomata, lipomata and sarcomata), and echinnococcus colonies
   (hydatids).
 
-  BIBLIOGRAPHY.--Albutt, Playfair and Eden, _System of Gynaecology_
-  (1906); McNaughton Jones, _Manual of Diseases of Women_ (1904);
-  Bland-Sutton and Giles, _Diseases of Women_ (1906); C. Lockyer,
+  BIBLIOGRAPHY.--Albutt, Playfair and [[Eden]], _System of Gynaecology_
+  (1906); McNaughton Jones, _[[Manual]] of Diseases of Women_ (1904);
+  Bland-Sutton and [[Giles]], _Diseases of Women_ (1906); C. [[Lockyer]],
   "Lutein Cysts in association with Chorio-Epithelioma," _Journal of
   Obstetrics and Gynaecology_ (January, 1905); W. Stewart McKay,
-  _History of Ancient Gynaecology_; Hart and Barbour, _Diseases of
-  Women_; Howard Kelly, _Operative Gynaecology_.     (H. L. H.)
+  _History of Ancient Gynaecology_; [[Hart]] and [[Barbour]], _Diseases of
+  Women_; [[Howard]] Kelly, _Operative Gynaecology_.     (H. L. H.)
 
 ## See also
 

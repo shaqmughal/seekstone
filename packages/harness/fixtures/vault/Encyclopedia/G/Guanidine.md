@@ -7,15 +7,15 @@ topic: literature
 # Guanidine
 
 GUANIDINE, CN3H5 or HN:C(NH2)2, the amidine of amidocarbonic acid. It
-occurs in beet juice. It was first prepared in 1861 by A. Strecker, who
+occurs in [[Beet|beet]] juice. It was first prepared in 1861 by A. Strecker, who
 oxidized guanine with hydrochloric acid and potassium chlorate. It may
 be obtained synthetically by the action of ammonium iodide on cyanamide,
-CN.NH2 + NH4I=CN3H5.HI.; by heating ortho-carbonic esters with ammonia
+CN.NH2 + NH4I=CN3H5.HI.; by heating ortho-carbonic [[Esters|esters]] with ammonia
 to 150 deg. C.; but best by heating ammonium thiocyanate to 180 deg.-190
 deg. C., when the thiourea first formed is converted into guanidine
 thiocyanate, 2CS(NH2)2=HN:C(NH2)2.HCNS+H2S. It is a colourless
 crystalline solid, readily soluble in water and alcohol; it deliquesces
-on exposure to air. It has strong basic properties, absorbs carbon
+on exposure to air. It has strong basic properties, absorbs [[Carbon|carbon]]
 dioxide readily, and forms well-defined crystalline salts. Baryta water
 hydrolyses it to urea. By direct union with glycocoll acid, it yields
 glycocyamine, NH2.(HN):C.NH.CH2.CO2H, whilst with methyl glycocoll
@@ -25,11 +25,11 @@ glycocyamine, NH2.(HN):C.NH.CH2.CO2H, whilst with methyl glycocoll
   1892, 270, p. 1; 1893, 273, p. 133; _Ber._, 1893, 26, pp. 2598, 2645).
   By the action of nitric acid on guanidine in the presence of sulphuric
   acid, nitroguanidine, HN:C(NH2).NH.NO2 (a substance possessing acid
-  properties) is obtained; from which, by reduction with zinc dust,
+  properties) is obtained; from which, by reduction with zinc [[Dust|dust]],
   amidoguanidine, HN:C(NH2).NH.NH2, is formed. This amidoguanidine
   decomposes on hydrolysis with the formation of semicarbazide,
   NH2.CO.NH.NH2, which, in its turn, breaks down into carbon dioxide,
-  ammonia and hydrazine. Amidoguanidine is a body of hydrazine type, for
+  ammonia and [[Hydrazine|hydrazine]]. Amidoguanidine is a body of hydrazine type, for
   it reduces gold and silver salts and yields a benzylidine derivative.
   On oxidation with potassium permanganate, it gives
   azodicarbondiamidine nitrate, NH2.(HN):C.N:N.C:(NH).NH2.2HNO3, which,
@@ -37,7 +37,7 @@ glycocyamine, NH2.(HN):C.NH.CH2.CO2H, whilst with methyl glycocoll
   corresponding hydrazodicarbondiamidine, NH2.(HN):C.NH.NH.C:(NH).NH2.
   By the action of nitrous acid on a nitric acid solution of
   amidoguanidine, diazoguanidine nitrate, NH2.(HN):C.NH.N2.NO3, is
-  obtained. This diazo compound is decomposed by caustic alkalis with
+  obtained. This diazo compound is decomposed by [[Caustic|caustic]] alkalis with
   the formation of cyanamide and hydrazoic acid,
   CH4N5.NO3=N3H+CN.NH2+HNO3, whilst acetates and carbonates convert it
   into amidotetrazotic acid,

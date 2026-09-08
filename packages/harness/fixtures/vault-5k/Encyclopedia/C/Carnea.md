@@ -20,7 +20,7 @@ Carnea appears to have been at once agrarian, military and piacular in
 character. In the last aspect it is supposed to commemorate the death of
 Carnus, an Acarnanian seer and favourite of Apollo, who, being suspected
 of espionage, was slain by one of the Heraclidae during the passage of
-the Dorians from Naupactus to Peloponnesus. By way of punishment, Apollo
+the [[Dorians]] from Naupactus to Peloponnesus. By way of punishment, Apollo
 visited the army with a pestilence, which only ceased after the
 institution of the Carnea. The tradition is probably intended to explain
 the sacrifice of an animal (perhaps a later substitute for a human
@@ -28,7 +28,7 @@ being) as the representative of the god.
 
 The agrarian and military sides of the festival are clearly
 distinguished. (1) Five unmarried youths ([Greek: Karneatai]) were
-chosen by lot from each [tribe] for four years, to superintend the
+chosen by [[Lot|lot]] from each [tribe] for four years, to superintend the
 proceedings, the officiating priest being called [Greek: agaetaes]
 ("leader"). A man decked with garlands (possibly the priest himself)
 started running, pursued by a band of young men called [Greek:
@@ -37,10 +37,10 @@ was caught, it was a guarantee of good fortune to the city; if not, the
 reverse. (2) In the second part of the festival nine tents were set up
 in the country, in each of which nine citizens, representing the
 phratries (or _obae_), feasted together in honour of the god (for huts
-or booths extemporized as shelters compare the Jewish feast of
-Tabernacles; and see W. Warde Fowler in _Classical Review_, March 1908,
-on the country festival in Tibullus ii. 1). According to Demetrius of
-Scepsis (in Athenaeus iv. 141), the Carnea was an imitation of life in
+or [[Booth|booths]] extemporized as shelters compare the Jewish feast of
+Tabernacles; and see W. Warde [[Fowler]] in _Classical Review_, March 1908,
+on the country festival in Tibullus ii. 1). According to [[Demetrius]] of
+Scepsis (in [[Athenaeus]] iv. 141), the Carnea was an imitation of life in
 camp, and everything was done in accordance with the command of a
 herald. In regard to the sacrifice, which doubtless formed part of the
 ceremonial, all that is known is that a ram was sacrificed at Thurii.
@@ -51,14 +51,14 @@ of the agrarian ceremony is clear, and has numerous parallels in north
 European harvest-customs, in which an animal (or man disguised as an
 animal) was pursued by the reapers, the animal if caught being usually
 killed; in any case, both the man and the animal represent the
-vegetation spirit. E.H. Binney in _Classical Review_ (March 1905)
+vegetation spirit. E.H. [[Binney]] in _Classical Review_ (March 1905)
 suggests that the story of Alcestis was performed at the Carnea (to
 which it may have become attached with the name of Apollo) as a
-vegetation drama, and "embodied a Death and Resurrection ceremony."
+vegetation [[Drama|drama]], and "embodied a Death and Resurrection ceremony."
 
 The great importance attached to the festival and its month is shown in
 several instances. It was responsible for the delay which prevented the
-Spartans from assisting the Athenians at the battle of Marathon
+Spartans from assisting the Athenians at the battle of [[Marathon]]
 (Herodotus vi. 106), and for the despatch of a small advance guard under
 Leonidas to hold Thermopylae instead of the main army (Herodotus vii.
 206). Again, when Epidaurus was attacked in 419 by Argos, the movements

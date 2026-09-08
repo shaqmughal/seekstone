@@ -7,8 +7,8 @@ type: source
 
 # George V.
 
-GEORGE V., king of Hanover (1819-1878), was the only son of Ernest
-Augustus, king of Hanover and duke of Cumberland, and consequently a
+GEORGE V., king of [[Hanover]] (1819-1878), was the only son of Ernest
+Augustus, king of Hanover and duke of [[Cumberland]], and consequently a
 grandson of the English king George III. Born in Berlin on the 27th of
 May 1819, his youth was passed in England and in Berlin until 1837, when
 his father became king of Hanover and he took up his residence in that
@@ -21,7 +21,7 @@ fatal one to the dynasty. Both from his father and from his maternal
 uncle, Charles Frederick, prince of Mecklenburg-Strelitz (1785-1837),
 one of the most influential men at the Prussian court, George had
 learned to take a very high and autocratic view of royal authority. His
-blindness prevented him from acquiring the shrewdness and knowledge of
+[[Blindness|blindness]] prevented him from acquiring the shrewdness and knowledge of
 the world which had assisted his father, and he easily fell into the
 hands of unwise, and perhaps dishonest and disloyal, advisers. A man of
 deep religious feeling, he formed a fantastic conception of the place
@@ -47,13 +47,13 @@ government. Whilst visiting Paris for medical advice he died in that
 city on the 12th of June 1878, and was buried in St George's chapel,
 Windsor. In February 1843 he had married Marie, daughter of Joseph, duke
 of Saxe-Altenburg, by whom he left a son and two daughters. His son,
-Ernest Augustus, duke of Cumberland (b. 1845), continued to maintain the
+[[Ernest Augustus]], duke of Cumberland (b. 1845), continued to maintain the
 claim of his house to the kingdom of Hanover.
 
-By the capitulation of 1866 the king was allowed to retain his personal
+By the [[Capitulation|capitulation]] of 1866 the king was allowed to retain his personal
 property, which included money and securities equal to nearly
 L1,500,000, which had been sent to England before the Prussian invasion
-of Hanover. The crown jewels had also been secretly conveyed to England.
+of Hanover. The crown [[Jewel|jewels]] had also been secretly conveyed to England.
 His valuable plate, which had been hidden at Herrenhausen, was restored
 to him in 1867; his palace at Herrenhausen, near Hanover, was reserved
 as his property; and in 1867 the Prussian government agreed to

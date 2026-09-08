@@ -15,9 +15,9 @@ century, but also as a means of political agitation and for personal
 statements of all kinds, especially for the dissemination of the dying
 speeches and confessions of criminals. It is prominent in the history of
 literature because, particularly during the later part of the 17th century,
-several important poems, by Dryden, Butler and others, originally appeared
+several important poems, by [[Dryden]], [[Butler]] and others, originally appeared
 printed on the "broad side" of a sheet. The term is also used of the
-simultaneous discharge of the guns on one side of a ship of war.
+simultaneous [[Discharge|discharge]] of the guns on one side of a ship of war.
 
 ## See also
 

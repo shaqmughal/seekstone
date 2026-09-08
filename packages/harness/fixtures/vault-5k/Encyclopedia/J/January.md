@@ -13,13 +13,13 @@ thirty-one days. The name (Lat. _Januarius_) is derived from the
 two-faced Roman god Janus, to whom the month was dedicated. As
 doorkeeper of heaven, as looking both into the past and the future, and
 as being essentially the deity who busied himself with the beginnings of
-all enterprises, he was appropriately made guardian of the fortunes of
+all enterprises, he was appropriately made [[Guardian|guardian]] of the fortunes of
 the new year. The consecration of the month took place by an offering of
 meal, salt, frankincense and wine, each of which was new. The
 Anglo-Saxons called January _Wulfmonath_, in allusion to the fact that
 hunger then made the wolves bold enough to come into the villages. The
 principal festivals of the month are: New Year's Day; Feast of the
-Circumcision; Epiphany; Twelfth-Day; and Conversion of St Paul (see
+Circumcision; Epiphany; Twelfth-Day; and [[Conversion]] of St Paul (see
 CALENDAR).
 
 
@@ -35,12 +35,12 @@ patron of all entrances and beginnings. According to Mommsen, he was
 that opened both ways. Others, attributing to him an Etruscan origin,
 regard him as the god of the vault of heaven, which the Etruscan arch is
 supposed to resemble. The rationalists explained him as an old king of
-Latium, who built a citadel for himself on the Janiculum. It was
+[[Latium]], who built a citadel for himself on the Janiculum. It was
 believed that his worship, which was said to have existed as a local
 cult before the foundation of Rome, was introduced there by Romulus, and
 that a temple was dedicated to him by Numa. This temple, in reality only
 an arch or gateway (_Janus geminus_) facing east and west, stood at the
-north-east end of the forum. It was open during war and closed during
+north-east end of the [[Forum|forum]]. It was open during war and closed during
 peace (Livy i. 19); it was shut only four times before the Christian
 era. A possible explanation is, that it was considered a bad omen to
 shut the city gates while the citizens were outside fighting for the
@@ -66,18 +66,18 @@ head is found on the as, together with the prow of a ship. He is usually
 represented on the earliest coins with two bearded faces, looking in
 opposite directions; in the time of Hadrian the number of faces is
 increased to four. In his capacity as porter or doorkeeper he holds a
-staff in his right hand, and a key (or keys) in his left; as such he is
+staff in his right hand, and a [[Key|key]] (or keys) in his left; as such he is
 called Patulcius (opener) and Clusius (closer). His titles Curiatius,
 Patricius, Quirinus originate in his worship in the gentes, the curiae
 and the state, and have no reference to any special functions or
 characteristics. In late times, he is both bearded and unbearded; in
 place of the staff and keys, the fingers of his right hand show the
 number 300 (CCC.), those of his left the number of the remaining days of
-the year (LXV.). According to A. B. Cook (_Classical Review_, xviii.
+the year (LXV.). According to A. B. [[Cook]] (_Classical Review_, xviii.
 367), Janus is only another form of Jupiter, the name under which he was
 worshipped by the pre-Latin (aboriginal) inhabitants of Rome; after
 their conquest by the Italians, Janus and Jana took their place as
-independent divinities by the side of the Italian Jupiter and Juno. He
+independent divinities by the side of the Italian Jupiter and [[Juno]]. He
 considers it probable that the three-headed Janus was a triple oak-god
 worshipped in the form of two vertical beams and a cross-bar (such as
 the _tigillum sororium_, for which see HORATII); hence also the door,
@@ -101,7 +101,7 @@ fons et origo of all things.
   See S. Linde, _De Jano summo romanorum deo_ (Lund, 1891); J. S.
   Speÿer, "Le Dieu romain Janus," in _Revue de l'histoire des religions_
   (xxvi., 1892); G. Wissowa, _Religion und Kultus der Römer_ (1902); W.
-  Deecke, _Etruskische Forschungen_, vol. ii.; W. Warde Fowler, _The
+  Deecke, _Etruskische Forschungen_, vol. ii.; W. Warde [[Fowler]], _The
   Roman Festivals of the Period of the Republic_ (1899), pp. 282-290;
   articles in W. H. Roscher's _Lexikon der Mythologie_ and Daremberg and
   Saglio's _Dictionnaire des Antiquités_; J. Toutain, _Études de

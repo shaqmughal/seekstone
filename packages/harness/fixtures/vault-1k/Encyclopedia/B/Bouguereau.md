@@ -32,7 +32,7 @@ design, in his "Napoleon," a work of evident labour, he betrayed a lack
 of ease in the treatment of modern costume. Bouguereau subsequently
 exhibited "Love Wounded" (1859), "The Day of the Dead" (at Bordeaux),
 "The First Discord" (1861, in the Club at Limoges), "The Return from the
-Fields" (a picture in which Theophile Gautier recognized "a pure feeling
+Fields" (a picture in which Theophile [[Gautier]] recognized "a pure feeling
 for the antique"), "A Fawn and Bacchante" and "Peace"; in 1863 a "Holy
 Family," "Remorse," "A Bacchante teasing a Goat" (in the Bordeaux
 gallery); in 1864 "A Bather" (at Ghent), and "Sleep"; in 1865 "An

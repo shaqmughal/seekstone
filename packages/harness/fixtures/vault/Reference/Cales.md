@@ -1,7 +1,7 @@
 # Cales
 
-CALES (mod. _Calvi_), an ancient city of Campania, belonging Originally to
-the Aurunci, on the Via Latina, 8 m. N.N.W. of Casilinum. It was taken by
+CALES (mod. _[[Calvi]]_), an ancient city of [[Campania]], belonging Originally to
+the [[Aurunci]], on the Via Latina, 8 m. N.N.W. of [[Casilinum]]. It was taken by
 the Romans in 335 B.C., and, a colony with Latin rights of 2500 citizens
 having been established there, it was for a long time the centre of the
 Roman dominion in Campania, and the seat of the quaestor for southern Italy
@@ -13,8 +13,8 @@ glazed pottery, which was even exported to Etruria, made it prosperous. At
 the end of the 3rd century it appears as a colony, and in the 5th century
 it became an episcopal see, which (jointly with Teano since 1818) it still
 is, though it is now a mere village. The cathedral, of the 12th century,
-has a carved portal and three apses decorated with small arches and
-pilasters, and contains a fine pulpit and episcopal throne in marble
+has a carved portal and three [[Apse|apses]] decorated with small [[Arches|arches]] and
+pilasters, and contains a fine pulpit and episcopal throne in [[Marble|marble]]
 mosaic. Near it are two grottos [v.04 p.1004] which have been used for
 Christian worship and contain frescoes of the 10th and 11th centuries (E.
 Bertaux, _L'Art dans l'Italie meridionale_ (Paris, 1904), i. 244, &c.).
@@ -28,7 +28,7 @@ See C. Huelsen in Pauly-Wissowa, _Realencyclopaedie_, iii. 1351 (Stuttgart,
 
 (T. AS.)
 
-[1] To the period after 335 belong numerous silver and bronze coins with
+[1] To the period after 335 belong numerous silver and bronze [[Coin|coins]] with
 the legend _Caleno_.
 
 ## See also

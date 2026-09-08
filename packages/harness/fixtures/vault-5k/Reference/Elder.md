@@ -15,7 +15,7 @@ government.
 1. The office of elder is in its origin political and is a relic of the
 old patriarchal system. The unit of primitive society is always the
 family; the only tie that binds men together is that of kinship. "The
-eldest male parent," to quote Sir Henry Maine,[1] "is absolutely
+eldest male parent," to quote Sir Henry [[Maine]],[1] "is absolutely
 supreme in his household. His dominion extends to life and death and is
 as unqualified over his children and their houses as over his slaves."
 The tribe, which is a later development, is always an aggregate of
@@ -26,7 +26,7 @@ towards dissolution when this practical pressure was withdrawn. The only
 organization for common action was that the leading men of the clans
 consulted together in time of need, and their influence led the masses
 with them. Out of these conferences arose the senates of elders found in
-the ancient states of Semitic and Aryan antiquity alike."[2] With the
+the ancient states of Semitic and [[Aryan]] antiquity alike."[2] With the
 development of civilization there came a time when age ceased to be an
 indispensable condition of leadership. The old title was, however,
 generally retained, e.g. the [Greek: gerontes] so often mentioned in
@@ -42,15 +42,15 @@ we read in Numbers xxii. 7), and traces of it are found throughout their
 history. Mention is made in Judges viii. 14 of the elders of Succoth
 whom "Gideon taught with thorns of the wilderness and with briers." It
 was to the elders of Israel in Egypt that Moses communicated the plan of
-Yahweh for the redemption of the people (Exodus iii. 16). During the
+Yahweh for the redemption of the people ([[Exodus]] iii. 16). During the
 sojourn in the wilderness the elders were the intermediaries between
 Moses and the people, and it was out of the ranks of these elders that
-Moses chose a council of seventy "to bear with him the burden of the
+Moses [[Chose|chose]] a council of seventy "to bear with him the [[Burden|burden]] of the
 people" (Numbers xi. 16). The elders were the governors of the people
 and the administrators of justice. There are frequent references to
 their work in the latter capacity in the book of Deuteronomy, especially
 in relation to the following crimes--the disobedience of sons; slander
-against a wife; the refusal of levirate marriage; manslaughter; and
+against a wife; the refusal of levirate marriage; [[Manslaughter|manslaughter]]; and
 blood-revenge. Their powers were gradually curtailed by (a) the
 development of the monarchy, to which of course they were in subjection,
 and which became the court of appeal in questions of law;[3] (b) the
@@ -68,7 +68,7 @@ them the name was taken over by the Church.
 officers of the Christian Church--since the word deacon does not occur
 in connexion with the appointment of the Seven in Acts vi. Its universal
 adoption is due not only to its currency amongst the Jews, but also to
-the fact that it was frequently used as the title of magistrates in the
+the fact that it was frequently used as the title of [[Magistrate|magistrates]] in the
 cities and villages of Asia Minor. For the history of the office of
 elder in the early Church and the relation between elders and bishops
 see PRESBYTER.

@@ -23,7 +23,7 @@ like manner had been blinded by the vengeance of a woman (Helen) and
 probably sang of the sufferings of Daphnis in his recantation. Nothing
 is said of Daphnis's blindness by Theocritus, who dwells on his amour
 with Nais; his victory over Menalcas in a poetical competition; his love
-for Xenea brought about by the wrath of Aphrodite; his wanderings
+for Xenea brought about by the wrath of [[Aphrodite]]; his wanderings
 through the woods while suffering the torments of unrequited love; his
 death just at the moment when Aphrodite, moved by compassion, endeavours
 (but too late) to save him; the deep sorrow, shared by nature and all
@@ -36,7 +36,7 @@ vegetation in the spring, and its sudden withering away beneath the
 scorching summer sun.
 
   See F. G. Welcker, _Kleine Schriften zur griechischen
-  Litteraturgeschichte_, i. (1844); C. F. Hermann, _De Daphnide
+  Litteraturgeschichte_, i. (1844); C. F. [[Hermann]], _De Daphnide
   Theocriti_ (1853); R. H. Klausen, _Aeneas und die Penaten_, i. (1840);
   R. Reitzenstein, _Epigramm und Skolion_ (1893); H. W. Prescott in
   _Harvard Studies_, x. (1899); H. W. Stoll in Roscher's _Lexikon der

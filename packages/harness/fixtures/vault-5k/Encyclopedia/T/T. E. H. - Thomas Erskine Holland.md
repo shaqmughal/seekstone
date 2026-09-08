@@ -1,13 +1,13 @@
 # T. E. H. - Thomas Erskine Holland
 
 T. E. H. - THOMAS ERSKINE HOLLAND, K.C., D.C.L., LL.D.
-Fellow of the British Academy. Fellow of All Souls' College, Oxford.
-Formerly Professor of International Law in the University of Oxford.
+[[Fellow]] of the British Academy. Fellow of All Souls' College, Oxford.
+Formerly Professor of [[International]] Law in the University of Oxford.
 Bencher of Lincoln's Inn. Author of _Studies in International Law_; _The
-Elements of Jurisprudence_; _Alberici Gentilis de jure belli_; _The Laws of
+Elements of Jurisprudence_; _Alberici [[Gentili|Gentilis]] de jure [[Belli|belli]]_; _The Laws of
 War on Land_; _Neutral Duties in a Maritime War_; &c.
 
-- Bentham, Jeremy.
+- [[Bentham]], [[Jeremy]].
 
 ## References
 

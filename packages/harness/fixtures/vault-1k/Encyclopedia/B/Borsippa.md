@@ -24,7 +24,7 @@ year his image was taken to visit his father, in Babylon, who in his
 turn gave him escort homeward, and his temple was second in wealth and
 importance only to E-Saggila, the temple of Marduk in Babylon. As with
 Babylon, so with Borsippa, the time of Nebuchadrezzar was the period of
-its greatest prosperity. In general Borsippa shared the fate of Babylon,
+its greatest prosperity. In general Borsippa shared the [[Fate|fate]] of Babylon,
 falling into decay after the time of Alexander, and finally in the
 middle ages into ruins. The site of the ancient city is represented by
 two large ruin mounds. Of these the north-westerly, the lower of the

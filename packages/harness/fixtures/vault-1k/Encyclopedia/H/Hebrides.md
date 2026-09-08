@@ -13,18 +13,18 @@ and the Trap Islands. The Outer Hebrides being almost entirely composed
 of gneiss the epithet suitably serves them, but, strictly speaking, only
 the more northerly of the Inner Hebrides may be distinguished as Trap
 Islands. The chief islands of the Outer Hebrides are Lewis-with-Harris
-(or Long Island), North Uist, Benbecula, South Uist, Barra, the Shiants,
+(or Long Island), North Uist, Benbecula, South Uist, [[Barra]], the Shiants,
 St Kilda and the Flannan Isles, or Seven Hunters, an uninhabited group,
 about 20 m. N.W. of Gallon Head in Lewis. Of these the Lewis portion of
 Long Island, the Shiants and the Flannan belong to the county of Ross
 and Cromarty, and the remainder to Inverness-shire. The total length of
-this group, from Barra Head to the Butt of Lewis, is 130 m., the breadth
+this group, from Barra Head to the [[Butt]] of Lewis, is 130 m., the breadth
 varying from less than 1 m. to 30 m. The Inner Hebrides are much more
 scattered and principally include Skye, Small Isles (Canna, Sanday, Rum,
 Eigg and Muck), Coll, Tyree, Lismore, Mull, Ulva, Staffa, Iona, Kerrera,
 the Slate Islands (Seil, Easdale, Luing, Shuna, Torsay), Colonsay,
 Oronsay, Scarba, Jura, Islay and Gigha. Of these Skye and Small Isles
-belong to Inverness-shire, and the rest to Argyllshire. The Hebridean
+belong to Inverness-shire, and the rest to [[Argyllshire]]. The Hebridean
 islands exceed 500 in number, of which one-fifth are inhabited. Of the
 inhabited islands 11 belong to Ross and Cromarty, 47 to Inverness-shire,
 and 44 to Argyllshire, but of this total of 102 islands, one-third have
@@ -93,7 +93,7 @@ later, leaving an only daughter afterwards known as the Maid of Norway.
 
 The race of Somerled continued to rule the islands, and from a younger
 son of the same potentate sprang the lords of Lorne, who took the
-patronymic of Macdougall. John Macdonald of Islay, who died about 1386,
+patronymic of Macdougall. John [[Macdonald]] of Islay, who died about 1386,
 was the first to adopt the title of Lord of the Isles. He was one of the
 most potent of the island princes, and was married to a daughter of the
 earl of Strathearn, afterwards Robert II. His son, Donald of the Isles,
@@ -124,7 +124,7 @@ clans and their dependent tribes, and the turbulent spirit was not
 subdued till a comparatively recent period. James VI. made an abortive
 endeavour to colonize Lewis. William III. and Queen Anne attempted to
 subsidize the chiefs in order to preserve tranquillity, but the wars of
-Montrose and Dundee, and the Jacobite insurrections of 1715 and 1745,
+Montrose and [[Dundee]], and the Jacobite insurrections of 1715 and 1745,
 showed how futile were all such efforts. It was not till 1748, when a
 decisive blow was struck at the power of the chiefs by the abolition of
 heritable jurisdictions, and the appointment of sheriffs in the
@@ -162,7 +162,7 @@ sustained.
   and W. C. Mackenzie, _History of the Outer Hebrides_ (1903). Their
   history under Norwegian rule is given in the _Chronica regum Manniae
   et insularum_, edited, with learned notes, from the MS. in the British
-  Museum by Professor P. A. Munch of Christiania (1860).
+  Museum by Professor P. A. Munch of [[Christiania]] (1860).
 
 ## References
 

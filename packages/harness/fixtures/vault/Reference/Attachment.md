@@ -3,7 +3,7 @@
 ATTACHMENT,[1] in law, a process from a court of record, awarded by the
 justices at their discretion, on a bare suggestion, or on their own
 knowledge, and properly grantable in cases of contempt. It differs from
-arrest (q.v.), in that he who arrests a man carries him to a person of
+[[Arrest|arrest]] (q.v.), in that he who arrests a man carries him to a person of
 higher power to be forthwith disposed of; but he that attaches keeps the
 party attached, and presents him in court at the day assigned, as
 appears by the words of the writ. Another difference is, that arrest is
@@ -12,16 +12,16 @@ goods. It is distinguished from distress in not extending to lands, as
 the latter does; nor does a distress touch the body, as an attachment
 does. Every court of record has power to fine and imprison for contempt
 of its authority. Attachment being merely a process to bring the
-defendant before the court, is not necessary in cases of contempt in the
+[[Defendant|defendant]] before the court, is not necessary in cases of contempt in the
 presence of the court itself. Attachment will be granted in England
-against peers and members of parliament only for such gross contempts as
+against peers and members of parliament only for such [[Gross|gross]] contempts as
 rescues, disobedience to the sovereign's writs and the like. Attachment
 will not lie against a corporation. The county courts in this respect
 are regulated by acts of 1846 and 1849. They can only punish for
 contempts committed in presence of the court (see CONTEMPT OF COURT).
 Attachments are granted on a rule in the first instance to show cause,
 which must be personally served before it can be made absolute, except
-for non-payment of costs on a master's allocatur, and against a sheriff
+for non-payment of [[Costs|costs]] on a master's allocatur, and against a sheriff
 for not obeying a rule to return a writ or to bring in the body. The
 offender is then arrested, and when committed will be compelled to
 answer interrogatories, exhibited against him by the party at whose
@@ -29,13 +29,13 @@ instance the proceedings have been had; and the examination when taken
 is referred to the master, who reports thereon, and on the contempt
 being reported, the court gives judgment according to its discretion, in
 the same manner as upon a conviction for a misdemeanour at common law.
-Sir W. Blackstone observes that "this method of making the defendant
+Sir W. [[Blackstone]] observes that "this method of making the defendant
 answer upon oath to a criminal charge is not agreeable to the genius of
 the common law in any other instance"; and the elasticity of the legal
-definitions of contempt of court, especially with respect to comments on
+[[Definition|definitions]] of contempt of court, especially with respect to comments on
 judicial proceedings, is the subject of much complaint.
 
-_Attachment of Debts._--It was suggested by the common law commissioners
+_Attachment of [[Debt|Debts]]._--It was suggested by the common law commissioners
 in 1853 that a remedy analogous to that of Foreign Attachment (see
 below) might be made available to creditors, after judgment, against
 debts due to their debtors. Accordingly, the Common Law Procedure Act
@@ -51,7 +51,7 @@ judge was empowered to attach all debts due from such third person
 debt. This order binds the debts in the hands of the garnishee, and if
 he does not dispute his liability execution issues against him at once.
 If he disputes his liability the question must be tried. Payment by the
-garnishee or execution against him is a complete discharge as against
+garnishee or execution against him is a complete [[Discharge|discharge]] as against
 the judgment debtor. These provisions were, by an order in council of
 the 18th of November 1867, extended to the county courts. By the Wages
 Attachment Abolition Act 1870 it is enacted that no order for the
@@ -63,10 +63,10 @@ apprentice are not subject to attachment.
 In the United States attachment of debts is a statutory remedy accorded
 in most of the states in certain circumstances for the security of
 creditors, by the seizure by the sheriff of the debtor's goods or the
-imposition of a lien upon his land, before judgment, and sometimes at
+[[Imposition|imposition]] of a lien upon his land, before judgment, and sometimes at
 the very commencement of the action. In some states it is only allowed
 in special cases, as when the debtor has absconded, or is a non-resident
-or guilty of fraud; in a few it may be had, as of right, at the
+or guilty of [[Fraud|fraud]]; in a few it may be had, as of right, at the
 commencement of ordinary actions. The common-law courts of the United
 States (by act of Congress) follow the practice in this regard of the
 state in which they sit. Such attachments (on mesne process) can
@@ -92,17 +92,17 @@ property. The court to which this process belongs is the mayor's court
 of London, the procedure in which is regulated by the Mayor's Court of
 London Procedure Act 1857. This custom, and all proceedings relating
 thereto, are expressly exempted from the operation of the Debtor's Act
-1869. Similar customs exist in Bristol and a few other towns in England
+1869. Similar customs exist in [[Bristol]] and a few other towns in England
 and also in Scotland.
 
-_A Writ of Attachment_ enforces answers and obedience to decrees and
+_A Writ of Attachment_ enforces answers and obedience to [[Decree|decrees]] and
 orders of the High Court of Justice, and is made out without order upon
 an affidavit of the due service of the process, &c., with whose
 requirements compliance is sought. A corporation, however, is proceeded
 against by distringas and not by attachment. It was formerly competent
 to the plaintiff to compel the appearance of a defendant in chancery by
 attachment, but the usual course was to enter appearance for him in case
-of default. It is one of the modes of execution allowed for the recovery
+of [[Default|default]]. It is one of the modes of execution allowed for the recovery
 of property other than land or money.
 
 _Attachment of the Forest_ was the proceeding in the courts of
@@ -129,7 +129,7 @@ FOOTNOTE:
     languages, and is ultimately connected with the root seen in Latin
     _tangere_, to touch. The Italian _attacare_, especially in the phrase
     _attacare battaglia_, to join battle, gave the French _attaquer_,
-    whence the English "attack," which is therefore by origin a doublet
+    whence the English "attack," which is therefore by origin a [[Doublet|doublet]]
     of "attach."
 
 ## See also

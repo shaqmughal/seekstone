@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Basim"
 
 # Basim
 
-BASIM, a town of India, in the Akola district, Berar, 52 m. S.S.E. from
+BASIM, a town of India, in the Akola district, [[Berar]], 52 m. S.S.E. from
 Akola station of the Great Indian Peninsula railway. Pop. (1901) 13,823.
 Until 1905 it was the headquarters of the district of Basim, which had an
 area of 2949 sq. m.; but in that [v.03 p.0480] year the district was

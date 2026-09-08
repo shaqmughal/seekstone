@@ -3,7 +3,7 @@
 MASTER OF THE ROLLS, the third member of the Supreme Court of Judicature
 in England, the lord chancellor, president of the chancery division,
 being the first, and the lord chief justice, president of the king's
-bench division, being the second. At first he was the principal clerk of
+[[Bench|bench]] division, being the second. At first he was the principal clerk of
 the chancery, and as such had charge of the records of the court,
 especially of the register of original writs and of all patents and
 grants under the Great Seal. Until the end of the 15th century he was
@@ -20,18 +20,18 @@ original functions as keeper of the records passed away from him and he
 gradually assumed a jurisdiction in the court of chancery second only to
 that of the lord chancellor himself. In the beginning he only heard
 causes in conjunction with the other masters in chancery, and his
-decrees were invalid until they had been approved and signed by the lord
+[[Decree|decrees]] were invalid until they had been approved and signed by the lord
 chancellor. Sitting in the Rolls chapel or in the court in Rolls yard,
 he heard causes without assistance, and his decrees held good until they
 were reversed on petition either to the lord chancellor or afterwards to
-the lords justices of appeal. Before any judge with the formal title of
+the [[Lords Justices Of Appeal|lords justices of appeal]]. Before any judge with the formal title of
 vice-chancellor was appointed the master of the rolls was often spoken
 of as vice-chancellor, and in theory acted as such, sitting only when
 the lord chancellor was not sitting and holding his court in the evening
 from six o'clock to ten. Only since 1827 has the master of the rolls sat
 in the morning hours. By the Public Record Office Act 1838 the custody
 of the records was restored to him, and he is chairman of the State
-Papers and Historical Manuscripts Commissions. Under the Judicature Act
+Papers and Historical [[Manuscript|Manuscripts]] Commissions. Under the Judicature Act
 1875, and the Appellate Jurisdiction Act 1876, he now always sits with
 the lords justices in the court of appeal (which usually sits in two
 divisions of three judges, the master of the rolls presiding over one

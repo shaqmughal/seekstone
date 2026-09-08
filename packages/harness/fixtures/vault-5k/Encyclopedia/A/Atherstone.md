@@ -4,8 +4,8 @@ ATHERSTONE, a market-town in the Nuneaton parliamentary division of
 Warwickshire, England, 102-1/2 m. N.W. from London by the London &
 North-Western railway. Pop. (1901) 5248. It lies in the upper valley of
 the Anker, under well-wooded hills to the west, and is on the Roman
-Watling Street, and the Coventry canal. The once monastic church of St
-Mary is rebuilt, excepting the central tower and part of the chancel.
+Watling Street, and the [[Coventry]] canal. The once monastic church of St
+Mary is rebuilt, excepting the central tower and part of the [[Chancel|chancel]].
 The chief industry is hat-making. On the high ground to the west lie
 ruins of the Cistercian abbey of Merevale, founded in 1149; they include
 the gatehouse chapel, part of the refectory and other remains exhibiting

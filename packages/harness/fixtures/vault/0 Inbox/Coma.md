@@ -12,11 +12,11 @@ patient who has presented no pre-existent indication of such a state
 occurring. Such a condition is called _primary coma_, and may result
 from the following causes:--(1) concussion, compression or laceration of
 the brain from head injuries, especially fracture of the skull; (2) from
-alcoholic and narcotic poisoning; (3) from cerebral haemorrhage,
+alcoholic and narcotic poisoning; (3) from cerebral [[Haemorrhage|haemorrhage]],
 embolism and thrombosis, such being the causes of apoplexy. _Secondary
-coma_ may arise as a complication in the following diseases:--diabetes,
+coma_ may arise as a complication in the following diseases:--[[Diabetes|diabetes]],
 uraemia, general paralysis, meningitis, cerebral tumour and acute yellow
-atrophy of the liver; in such diseases it is anticipated, for it is a
+atrophy of the [[Liver|liver]]; in such diseases it is anticipated, for it is a
 frequent cause of the fatal termination. The depth of insensibility to
 stimulus is a measure of the gravity of the symptom; thus the
 conjunctival reflex and even the spinal reflexes may be abolished, the
@@ -36,12 +36,12 @@ centre becomes exhausted and death ensues.
 
 _Coma Vigil_ is a state of unconsciousness met with in the algide stage
 of cholera and some other exhausting diseases. The patient's eyes remain
-open, and he may be in a state of low muttering delirium; he is entirely
+open, and he may be in a state of low muttering [[Delirium|delirium]]; he is entirely
 insensible to his surroundings, and neither knows nor can indicate his
 wants.
 
 There is a distinct word "coma" (Gr. [Greek: komê], hair), which is used
-in astronomy for the envelope of a comet, and in botany for a tuft.
+in [[Astronomy|astronomy]] for the envelope of a [[Comet|comet]], and in botany for a tuft.
 
 ## References
 

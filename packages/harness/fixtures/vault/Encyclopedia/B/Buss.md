@@ -1,6 +1,6 @@
 # Buss
 
-BUSS, FRANCES MARY (1827-1894), English schoolmistress, was born in London
+BUSS, [[Franc|FRANCES]] MARY (1827-1894), English schoolmistress, was born in London
 in 1827, the daughter of the painter-etcher R.W. Buss, one of the original
 illustrators of _Pickwick_. She was educated at a school in Camden Town,
 and continued there as a teacher, but soon joined her mother in keeping a
@@ -10,13 +10,13 @@ school was moved to Camden Street, and under its new name of the North
 London Collegiate School for Ladies it rapidly increased in numbers and
 reputation. In 1864 Miss Buss gave evidence before the Schools Inquiry
 Commission, and in its report her school was singled out for exceptional
-commendation. Indeed, under her influence, what was then pioneer work of
+[[Commendation|commendation]]. Indeed, under her influence, what was then pioneer work of
 the highest importance had been done to put the education of girls on a
 proper intellectual footing. Shortly afterwards the Brewers' Company and
 the Clothworkers' Company provided funds by which the existing North London
 Collegiate School was rehoused and a Camden School for Girls founded, and
 both were endowed under a new scheme, Miss Buss continuing to be principal
-of the former. She and Miss Beale of Cheltenham became famous as the chief
+of the former. She and Miss Beale of [[Cheltenham]] became famous as the chief
 leaders in this branch of the reformed educational movement; she played an
 active part in promoting the success of the Girls' Public Day School
 Company, encouraging the connexion of the girls' schools with the

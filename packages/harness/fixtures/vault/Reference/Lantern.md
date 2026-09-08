@@ -7,41 +7,41 @@ topic: philosophers
 # Lantern
 
 LANTERN (an adaptation of the Fr. _lanterne_ from Lat. _lanterna_ or
-_laterna_, supposed to be from Gr. [Greek: lamptêr], a torch or lamp,
+_laterna_, supposed to be from Gr. [Greek: lamptêr], a torch or [[Lamp|lamp]],
 [Greek: lampein], to shine, cf. "lamp"; the 16th- and 17th-century form
-"lanthorn" is due to a mistaken derivation from "horn," as a material
+"lanthorn" is due to a mistaken derivation from "[[Horn|horn]]," as a material
 frequently used in the making of lanterns), a metal case filled in with
 some transparent material, and used for holding a light and protecting
-it from rain or wind. The appliance is of two kinds--the hanging lantern
+it from rain or wind. The appliance is of two kinds--the [[Hanging|hanging]] lantern
 and the hand lantern--both of which are ancient. At Pompeii and
 Herculaneum have been discovered two cylindrical bronze lanterns, with
 ornamented pillars, to which chains are attached for carrying or hanging
 the lantern. Plates of horn surrounded the bronze lamp within, and the
 cover at the top can be removed for lighting and for the escape of
 smoke. The hanging lantern for lighting rooms was composed of ornamental
-metal work, of which iron and brass were perhaps most frequently used.
+metal work, of which iron and [[Brass|brass]] were perhaps most frequently used.
 Silver, and even gold, were, however, sometimes employed, and the
 artificers in metal of the 17th and 18th centuries produced much
 exceedingly artistic work of this kind. Oriental lanterns in open-work
 bronze were often very beautiful. The early lantern had sides of horn,
-talc, bladder or oiled paper, and the primitive shape remains in the
+talc, [[Bladder|bladder]] or oiled paper, and the primitive shape remains in the
 common square stable lantern with straight glass sides, to carry a
-candle. The hand lantern was usually a much more modest appliance than
+[[Candle|candle]]. The hand lantern was usually a much more modest appliance than
 the hanging lantern, although in great houses it was sometimes richly
 worked and decorated. As glass grew cheaper it gradually ousted all
 other materials, but the horn lantern which was already ancient in the
 13th century was still being used in the early part of the 19th. By the
 end of the 18th century lanterns in rooms had been superseded by the
-candlestick. The collapsible paper lanterns of China and Japan, usually
+[[Candlestick|candlestick]]. The collapsible paper lanterns of China and [[Japan]], usually
 known as Chinese lanterns, are globular or cylindrical in shape, and the
-paper is pleated and when not in use folds flat. For illuminative and
+paper is pleated and when not in use [[Fold|folds]] flat. For illuminative and
 decorative purposes they are coloured with patterns of flowers, &c. The
 lanterns carried by the ordinary foot passenger are made of oiled paper.
 In China the "Feast of Lanterns" takes place early in the New Year and
 lasts for four days. In Japan the festival of Bon is sometimes known as
 the "feast of lanterns." It is then that the spirits of the dead
 ancestors return to the household altar. The festival takes place in
-July. The "bull's-eye" lantern has a convex lens which concentrates the
+July. The "bull's-eye" lantern has a [[Convex|convex]] lens which concentrates the
 light and allows it to be thrown in the shape of a diverging cone. The
 "dark lantern" has a shutter or slide arrangement by which the light can
 be shut off at will. Ships' lanterns are used as masthead or other
@@ -56,12 +56,12 @@ In architecture a lantern is primarily a framework of timber, with
 windows all round, to admit ample light, placed on the top of a roof. In
 a broader sense, it is applied to those portions of buildings which are
 largely perforated with windows, and more especially to the upper part
-of the towers of cathedrals and churches, as in the octagon of Ely
-cathedral, or the tower of Boston church, Lincolnshire. The term is also
+of the towers of cathedrals and churches, as in the octagon of [[Ely]]
+cathedral, or the tower of [[Boston]] church, [[Lincolnshire]]. The term is also
 applied to the entire church, as in the case of Bath Abbey church, which
 was called the "lantern of England," from the number of its windows, and
-St John's Priory at Kilkenny, the "lantern of Ireland," on account of
-the window on the south side of the choir which was 54 ft. long. In the
+St John's Priory at [[Kilkenny]], the "lantern of Ireland," on account of
+the window on the south side of the [[Choir|choir]] which was 54 ft. long. In the
 Renaissance style the lantern was looked upon as a decorative feature
 surmounting the dome, as in St Peter's, Rome, the Invalides, Paris, and
 St Paul's, London.
@@ -76,7 +76,7 @@ painted or photographed on glass, or of objects--crystals, animals,
 the object, the projection is said to be diascopic, if by reflected
 light, episcopic.
 
-The invention of the magic lantern is usually attributed to Athanasius
+The invention of the magic lantern is usually attributed to [[Athanasius]]
 Kircher, who described it in the first edition (1646) of his _Ars magna
 lucis et umbrae_, but it is very probably of earlier discovery. For a
 long period the magic lantern was used chiefly to exhibit comic
@@ -91,16 +91,16 @@ be used in the form of a microscope to exhibit on a screen the forms and
 movements of minute living organisms, or to show to an audience delicate
 physical and chemical experiments which could otherwise be seen only by
 a few at a time Another application of the optical lantern is found in
-the cinematograph (q.v.).
+the [[Cinematograph|cinematograph]] (q.v.).
 
   The optical lantern, in its simpler forms, consists of the following
   parts: (1) the lantern body, (2) a source of light, (3) an optical
-  system for projecting the images. The lantern body is a rectangular
+  system for projecting the [[Image|images]]. The lantern body is a rectangular
   casing usually made of Russian iron, but sometimes covered with wood
   (which must be protected by asbestos at parts liable to damage by
   heat), provided with the openings necessary to the insertion of the
   source of light, windows for viewing the same, a chimney for conveying
-  away the products of combustion, fittings to carry the slides and the
+  away the products of [[Combustion|combustion]], fittings to carry the slides and the
   optical system. In the earlier and simpler lanterns, oil lamps were
   commonly used, and in the toy forms either an oil flame or an ordinary
   gas jet is still employed. Natural petroleum burnt in a specially
@@ -118,7 +118,7 @@ the cinematograph (q.v.).
   prepared to withstand better the disintegrating effects of the flame,
   and are mounted on a rotating pin in order that fresh surfaces may be
   brought into play. Cones of zirconia are also used in the same way; or
-  a thorium mantle in conjunction with alcohol vapour may be employed.
+  a thorium [[Mantle|mantle]] in conjunction with alcohol vapour may be employed.
   Two types of burner are in use: (1) the "blow-through jet," in which
   the oxygen is forced through the jet of the burning gas (this is the
   safest type), and (2) where the gases are mixed before combustion
@@ -128,15 +128,15 @@ the cinematograph (q.v.).
   wool soaked with ether, and then rejoins the undiverted stream at the
   jet. The application of the incandescent gas mantle is limited by the
   intensity of the heat emitted and the large area of the source. Of
-  electrical illuminants the platinum and carbon filament lamps are not
+  electrical illuminants the platinum and [[Carbon|carbon]] filament lamps are not
   much used, the Nernst lamp (in which the preliminary heating is
-  effected by a spirit lamp and not by an auxiliary coil) being
+  effected by a spirit lamp and not by an [[Auxiliary|auxiliary]] coil) being
   preferred. But the arc light is undoubtedly the best illuminant for
   use in the projecting lantern. The actual size of the source is
   comparatively small, and hence it is necessary to mount the carbons so
   that the arc remains at one point on the axis of the optical system.
   It is also advisable to set back the carbons relatively to one another
-  and to tilt them, so that the brightest part of the "crater" faces the
+  and to tilt them, so that the brightest part of the "[[Crater|crater]]" faces the
   lens.
 
   _Optical System._--In the ordinary (or vertically) projecting lantern
@@ -159,32 +159,32 @@ the cinematograph (q.v.).
   subtend as large an angle as possible at the source of light. To
   secure this, it should be tolerably large, and its distance from the
   light, that is, its focal length, small. Since effective single lenses
-  of large diameter are necessarily of long focus, a really good
+  of large diameter are necessarily of long [[Focus|focus]], a really good
   condenser of considerable diameter and yet of short focus must be a
   combination of two or more lenses. It is essential that the condenser
   be white and limpid and free from defects or striae.
 
   In the earlier lanterns, as still in the cheaper forms, only a single
   plano-convex lens or bull's-eye was employed as a condenser. A good
-  compound condenser for ordinary work is that proposed by Herschel,
+  compound condenser for ordinary work is that proposed by [[Herschel]],
   consisting of a biconvex lens and a meniscus mounted together with the
   concave side of the meniscus next the light. Other types employ two
   plano-convex lenses, the curved surfaces nearly in contact; or a
   concavo-convex and a plano-convex lens. Or it may be a triple
-  combination, the object always being to increase the aperture. The
+  combination, the object always being to increase the [[Aperture|aperture]]. The
   focus must not be so short as to bring the lens too near the light,
   and render it liable to crack from the intense heat. In some lanterns
   this is guarded against by placing a plate of thin glass between the
   condenser and the light. If the source of light be broad, an iris
-  diaphragm may be introduced so as to eliminate inequalities in
-  illumination.
+  [[Diaphragm|diaphragm]] may be introduced so as to eliminate inequalities in
+  [[Illumination|illumination]].
 
   The function of the objective is to produce a magnified inverted image
   of the picture on the screen. In toy lanterns it is a simple
   double-convex lens of short focus. This, however, can only produce a
   small picture, and that not very distinct at the edges. The best
   objective is the portrait combination lens usually of the Petzval type
-  as used in ordinary photographic cameras. These are carefully
+  as used in ordinary photographic [[Camera|cameras]]. These are carefully
   corrected both for spherical and chromatic aberration, which is
   absolutely essential in the objective, although not so necessary in
   the condenser.
@@ -198,20 +198,20 @@ the cinematograph (q.v.).
   lantern. If it be necessary to eliminate the heat rays, which may act
   deleteriously on the object, a vessel is introduced containing either
   water or a 5% solution of ferric chloride. In the ordinary slide the
-  pictures are painted with transparent water or oil colours, or
+  pictures are painted with transparent water or oil [[Colours|colours]], or
   photographed on pieces of glass. If parts of the picture are to be
   movable, two disks of glass are employed, the one movable in front of
   the other, the fixed part of the picture being painted on the fixed
   disk and the movable part on the other. By means of a lever the latter
   disk is moved in its own plane; and in this way a cow, for instance,
-  can be represented drinking, or a donkey cutting amusing capers. In
+  can be represented drinking, or a donkey cutting amusing [[Capers|capers]]. In
   the chromatrope slide two circular disks of glass are placed face to
   face, each containing a design radiating from the centre, and painted
   with brilliant transparent colours. By a small pinion gearing in
   toothed wheels or endless bands the disks are made to move in opposite
   directions in their own plane. The effect produced is a singularly
   beautiful change of design and colour. In astronomical slides the
-  motions of the heavenly bodies, eclipses, the phases of the moon or
+  motions of the heavenly bodies, [[Eclipse|eclipses]], the phases of the moon or
   the like are similarly represented by mechanical means.
 
   _Dissolving Views._--For this purpose two magic lanterns are
@@ -234,7 +234,7 @@ the cinematograph (q.v.).
   whereby simultaneously with this the objective is made to approach or
   recede from the slide so as to focus the picture on the screen in any
   position of the lantern. In this way a very small picture appears
-  gradually to grow to enormous dimensions.
+  gradually to grow to enormous [[Dimension|dimensions]].
 
   See L. Wright, _Optical Projection_ (1891); E. Trutat, _Traité des
   Projections_ (Paris, 1897 and 1901); P. E. Liesegang, _Die

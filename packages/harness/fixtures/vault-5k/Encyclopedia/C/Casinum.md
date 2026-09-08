@@ -9,10 +9,10 @@ id: 42-2220
 # Casinum
 
 CASINUM, an ancient town of Italy, probably of Volscian origin. Varro
-states that the name was Sabine, and meant _forum vetus_, and also that
+states that the name was Sabine, and meant _[[Forum|forum]] vetus_, and also that
 the town itself was Samnite, but he is probably wrong. When it came
 under Roman supremacy is not known, but it probably received the
-citizenship in 188 B.C. It was the most south-easterly town in _Latium
+citizenship in 188 B.C. It was the most south-easterly town in _[[Latium]]
 adjectum_, situated on the Via Latina about 40 m. N.W. of Capua. It
 appears occasionally in the history of the Hannibalic War. Varro
 possessed a villa near it, in which later on Mark Antony held his
@@ -22,8 +22,8 @@ triumvirs), though in two (not local) inscriptions it is called
 _municipium_. Strabo speaks of it as an important town; Varro mentions
 the olive-oil of its district as especially good. The older Volscian
 Casinum must have stood on the hill (1715 ft.) above the Roman town (148
-ft.), where considerable remains of fortifications in Cyclopean masonry,
-of finely cut blocks of limestone, still exist. The site is now occupied
+ft.), where considerable remains of fortifications in Cyclopean [[Masonry|masonry]],
+of finely cut blocks of [[Limestone|limestone]], still exist. The site is now occupied
 by the Benedictine monastery of Monte Cassino (q.v.) founded by St
 Benedict himself in 529. A number of Roman inscriptions from Casinum are
 preserved there. The wall which runs south-west and west starting from

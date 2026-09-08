@@ -33,7 +33,7 @@ for those on their way to Canterbury, that the part of Watling Street
 which crossed there towards London was sometimes called "St Edmund's
 Way." It was here also that Wat Tyler's insurrection began in 1377, and
 the house in which he resided is shown. On Dartford Heath is a lunatic
-asylum of the London County Council, and, at Long Reach, the infectious
+[[Asylum|asylum]] of the London County Council, and, at Long Reach, the infectious
 diseases hospital of the Metropolitan Asylums Board. Stone church, 2 m.
 E. of Dartford, mainly late Early English (1251-1274), and carefully
 restored by G. E. Street in 1860, is remarkable; the richness of the

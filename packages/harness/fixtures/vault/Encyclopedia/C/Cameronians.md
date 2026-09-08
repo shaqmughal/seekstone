@@ -1,15 +1,15 @@
 # Cameronians
 
 CAMERONIANS, the name given to that section of the Scottish Covenanters
-(q.v.) who followed Richard Cameron (q.v.), and who were chiefly found
-among those who signed the Sanquhar Declaration in 1680. Known also as
+(q.v.) who followed Richard [[Cameron]] (q.v.), and who were chiefly found
+among those who signed the Sanquhar [[Declaration]] in 1680. Known also as
 "Society Men," "Sanquharians" and "Hillmen," they became a separate
 church after the religious settlement of 1690, taking the official title
 of Reformed Presbyterians in 1743. Societies of Cameronians for the
-maintenance of the Presbyterian form of worship were formed about 1681;
+[[Maintenance|maintenance]] of the Presbyterian form of worship were formed about 1681;
 their testimony, "The Informatory Vindication," is dated 1687; and they
 quickly became the most pronounced and active adherents of the
-covenanting faith. Holding fast to the two covenants, the National
+covenanting faith. Holding fast to the two [[Covenant|covenants]], the National
 Covenant of 1580 and the Solemn League and Covenant of 1643, they wished
 to restore the ecclesiastical order which had existed between 1638 and
 1649, and were dissatisfied with the moderate character of the religious
@@ -21,7 +21,7 @@ the established church. They objected strongly to the proposal for the
 union of England and Scotland, and were suspected of abetting a rising
 which took place in the west of Scotland in 1706; but there appears to
 be no foundation for the statement that they intrigued with the
-Jacobites, and they gave no trouble to the government either in 1715 or
+[[Jacobites]], and they gave no trouble to the government either in 1715 or
 in 1745. In 1712 they publicly renewed the covenants at Auchensauch Hill
 in Lanarkshire, and in 1743 their first presbytery was constituted at
 Braehead, while a presbytery was formed in North America in 1774. In
@@ -31,12 +31,12 @@ civil functions, and consequently a few congregations seceded. In 1876
 the general body of the Reformed Presbyterians united with the Free
 Church of Scotland, leaving the few seceding congregations as the
 representatives of the principles of the Cameronians. In the British
-army the first battalion of the Cameronians (Scottish Rifles) is
+army the first [[Battalion|battalion]] of the Cameronians (Scottish Rifles) is
 directly descended from the "Cameronian guard," which, composed of
 Cameronians, was embodied by the convention parliament in 1689, and was
 afterwards employed to restore order in the Highlands.
 
-  See J.H. Burton, _History of Scotland_, vols. vii. and viii.
+  See J.H. [[Burton]], _History of Scotland_, vols. vii. and viii.
   (Edinburgh, 1905); and A. Lang, _History of Scotland_, vol. iv.
   (Edinburgh, 1907).
 
@@ -51,15 +51,15 @@ is conterminous with the Spanish Muni river settlement.
 [Illustration: CAMEROON]
 
 _Boundaries and Area._--The sea frontier extends from the Rio del Rey,
-just where the great bend of the coast-line east to south begins,
-forming the Bight of Biafra, to the Campo river, a distance of 200 m.
+just where the great [[Bend|bend]] of the coast-line east to south begins,
+forming the [[Bight]] of Biafra, to the Campo river, a distance of 200 m.
 The north-western boundary, laid down in an agreement between Germany
 and Great Britain on the 15th of November 1893, runs from the mouth of
-the Rio del Rey to the "rapids" of the Cross river in 8° 48' E. Thence
+the Rio del Rey to the "rapids" of the [[Cross River|Cross river]] in 8° 48' E. Thence
 it is continued in a north-east line towards Yola, as far as the
 confines of that town. The boundary is then deflected south so as to
 leave Yola in British territory, turning north again to cross the Benue
-river at a spot 3 m. west of where the Faro joins the Benue. From this
+river at a spot 3 m. west of where the [[Faro]] joins the Benue. From this
 point the frontier goes north-east to the border of Lake Chad, 35 m.
 east of the meridian of the town of Kuka. The southern shores of Lake
 Chad for a distance of some 40 m. belong to the protectorate. The south
@@ -78,7 +78,7 @@ m. Estimated population (1908) 3,500,000, of whom 1128 were whites.
 _Origin of the Name._--The name Camarões was first given by the
 Portuguese discoverers of the 15th and 16th centuries to a large bay or
 estuary, lying south-east of a great mountain close to the sea, met with
-after passing the Niger delta. This estuary they called the Rio dos
+after passing the Niger [[Delta|delta]]. This estuary they called the Rio dos
 Camarões (the river of Prawns), from the abundance of the crustacea
 found therein. The name Camarões was also used to designate the
 neighbouring mountains. The English usage until nearly the end of the
@@ -101,14 +101,14 @@ south-western base is washed by the Atlantic, is the highest point on
 the western side of Africa, and it alone of the great mountains of the
 continent lies close to the coast. From any vantage point, but
 especially from the sea, it presents a magnificent spectacle, while some
-30 m. westward rises Clarence peak, the culminating point of Fernando
+30 m. westward rises [[Clarence]] peak, the culminating point of Fernando
 Po. With an area, on an isolated base, of 700 to 800 sq. m., Cameroon
 mountain has but two distinct peaks, Great Cameroon and Little Cameroon
 (5820 ft.), which is from foot to top covered with dense forest. The
 native designation of the highest peak is Mongo-ma-Loba, or the Mountain
 of Thunder, and the whole upper region is usually called Mongo-mo-Ndemi,
 or the Mountain of Greatness. On the principal summit there are a group
-of craters. In 1909 the mountain was in eruption and huge streams of
+of [[Crater|craters]]. In 1909 the mountain was in eruption and huge streams of
 lava were ejected. Inland the Chebchi and Mandara mountains indicate the
 direction and extent of the rift.
 
@@ -158,7 +158,7 @@ flows a tributary of the Logone, the chief affluent of the Shari. The
 one obstruction in the waterway is a fall of 165 ft. in the Kebbi.
 
 _Geology._--The oldest rocks, forming the greater mass of the
-hinterland, are gneisses, schists and granites of Archaean age. Along
+[[Hinterland|hinterland]], are [[Gneiss|gneisses]], schists and granites of Archaean age. Along
 the Benue river a sandstone (Benue sandstone) forms the banks to 14° E.
 Cretaceous rocks occur around the basalt platform of the Cameroon
 mountain and generally along the coastal belt. Basalt and tuff, probably
@@ -172,7 +172,7 @@ characteristic tropical climate. In the interior four seasons can be
 distinguished; a comparatively dry and a wet one alternating. July to
 October are the coldest months, and also bring most rain, but there is
 hardly a month without rain. On the coast the temperature is high all
-the year round, but on the plateau it is cooler. Malarial fever is
+the year round, but on the plateau it is cooler. Malarial [[Fever|fever]] is
 frequent, and even the Africans, especially those coming from other
 countries, suffer from it. The middle zone of the Cameroon mountain has,
 however, a temperate climate and affords excellent sites for sanatoria.
@@ -187,13 +187,13 @@ is grass land. Towards the east the forest gradually grows thinner,
 assumes a park-like appearance, and finally disappears, wide grass
 uplands taking its place. The country north of the Benue is rich and
 well cultivated. Cotton and rubber are found in considerable quantities,
-and fields of maize, corn, rice and sugarcane bear witness to the
+and [[Fields|fields]] of maize, [[Corn|corn]], rice and sugarcane bear witness to the
 fertility of the soil.
 
 Animals are plentiful, including the great pachyderms and carnivora. The
-latter prey on the various kinds of antelopes which swarm on the grass
-lands. Two kinds of buffaloes are found in the forests, which are the
-home of the gorilla and chimpanzee. Large rodents, like the porcupine
+latter prey on the various kinds of [[Antelope|antelopes]] which swarm on the grass
+lands. Two kinds of [[Buffalo|buffaloes]] are found in the forests, which are the
+home of the [[Gorilla|gorilla]] and chimpanzee. Large rodents, like the porcupine
 and cane rat, are numerous. Of birds there are 316 species, and several
 of venomous snakes.
 
@@ -209,16 +209,16 @@ and other crops, while on the plateaus stock-raising forms the chief
 pursuit of the inhabitants. In this northern region villages are built
 in the Sudanese zeriba style, surrounded with thorn fences; more
 important places are enclosed by a well-built wall and strongly
-fortified. Of martial disposition, the people often waged war with their
+fortified. Of [[Martial|martial]] disposition, the people often waged war with their
 neighbours, and also amongst themselves until the pacification of the
 hinterland by Germany at the beginning of the 20th century.
 
 The Bantu-negroes inhabit the country south of about 7° N. Chief among
-the tribes are the Dualla (q.v.), the Ba-kwiri (q.v.), the Ba-Long, the
+the tribes are the Dualla (q.v.), the [[Ba-Kwiri|Ba-kwiri]] (q.v.), the Ba-Long, the
 Ba-Farami, the Wuri, the Abo and the Ba-Kundu. They build square houses,
 are active traders and are ruled by independent chiefs, having no
-political cohesion. Among the Dualla a curious system of drum signals is
-noteworthy. In the coast towns are numbers of Krumen, who, however,
+political cohesion. Among the Dualla a curious system of [[Drum|drum]] signals is
+noteworthy. In the coast towns are numbers of [[Krumen]], who, however,
 rarely settle permanently in the country. The Fula, as also most of the
 Hausa, are Moslems, the other tribes are pagans. Missionary societies,
 both Protestant and Roman Catholic, are represented in the colony, and
@@ -230,14 +230,14 @@ _Chief Towns._--Duala, the chief town in the protectorate, is situated
 on the Cameroon estuary at the mouth of the Wuri river in 4° 2' N. 9°
 42' E. It consists of various trading stations and native towns close to
 one another on the south bank of the river and known, before the German
-occupation, as Cameroon, Bell town, Akwa town, &c. Hickory, on the north
+occupation, as Cameroon, Bell town, Akwa town, &c. [[Hickory]], on the north
 side of the stream and the starting point of the railway to the
 interior, is also part of Duala, which has a total population of 22,000,
 including about 170 Europeans. Duala is the headquarters of the
 merchants and missionaries. The principal streets are wide and tree
 lined, the sanitation is good. The government offices are placed in a
 fine park in which are statues of Gustav Nachtigal and others. The port
-is provided with a floating dock. The seat of government is Buea, a post
+is provided with a floating [[Dock|dock]]. The seat of government is Buea, a post
 3000 ft. above the sea on the slopes of the Cameroon mountain. Victoria
 is a flourishing town in Ambas Bay, founded by the British Baptist
 missionaries expelled from Fernando Po in 1858 (see below). Batanga and
@@ -252,22 +252,22 @@ trading station on the Dscha, in the south-east of the protectorate,
 near the confluence of that river with the Sanga.
 
 _Products and Industry._--Cameroon is rich in natural products, one of
-the most important being the oil-palm. Cocoa cultivation was introduced
+the most important being the oil-palm. [[Cocoa]] cultivation was introduced
 by the Germans and proved remarkably successful. Rubber is collected
 from the Landolphia and various species of Ficus. Palm-oil, palm
-kernels, cocoa, copal, copra, Calabar beans, kola-nuts and ivory are the
+kernels, cocoa, copal, [[Copra|copra]], [[Calabar Bean|Calabar beans]], kola-nuts and [[Ivory|ivory]] are the
 principal exports. There are several kinds of finely-grained wood,
 amongst which a very dark ebony is specially remarkable. Cotton, indigo
-and various fibres of plants deserve notice. The natives grow several
+and various [[Fibres|fibres]] of plants deserve notice. The natives grow several
 kinds of bananas, yams and batatas, maize, pea-nuts, sugar-cane, sorghum
 and pepper. Minerals have not been found in paying quantities. Iron is
 smelted by the natives, who, especially amongst the Hausas, are very
-clever smiths, and manufacture fine lances and arrow heads, knives and
-swords, and also hoes. Dikwa is the centre of an important trade of
+[[Clever|clever]] smiths, and manufacture fine [[Lance|lances]] and arrow heads, knives and
+swords, and also [[Hoe|hoes]]. Dikwa is the centre of an important trade of
 which the chief articles are coffee, sugar, velvet, silk and weapons, as
-well as gold and silver objects brought by caravans from Tripoli. The
+well as gold and silver objects brought by [[Caravan|caravans]] from Tripoli. The
 natives round the Cameroon estuary are clever carvers of wood, and make
-highly ornamental figure heads for their canoes, which also sometimes
+highly ornamental figure heads for their [[Canoe|canoes]], which also sometimes
 show very fine workmanship. In the interior the people use the
 wild-growing cotton and fibres of plants to manufacture coarse drapery
 and plait-work. Plantations founded by German industry are fairly
@@ -286,7 +286,7 @@ of the trade with Germany was increasing, that with Britain decreasing.
 _Communications._--There is regular steamship communication with Europe
 by German and British boats. On the rivers which run into the Cameroon
 estuary small steam launches ply. The protectorate belongs to the Postal
-Union, and is connected by cable with the British telegraph station at
+Union, and is connected by [[Cable|cable]] with the British telegraph station at
 Bonny in the Niger delta.
 
 An imperial guarantee of interest was obtained in 1905 for the
@@ -302,7 +302,7 @@ _Government Revenue, &c._--The administration is under the direction of
 a governor appointed by and responsible to the imperial authorities. The
 governor is assisted by a chancellor and other officials and an advisory
 council whose members are merchants resident in the protectorate.
-Decrees having the force of law are issued by the imperial chancellor on
+[[Decree|Decrees]] having the force of law are issued by the imperial chancellor on
 the advice of the governor. In Adamawa and German Bornu are various
 Mahommedan sultanates controlled by residents stationed at Garua and
 Kusseri. Revenue is raised chiefly by customs dues on spirits and
@@ -340,11 +340,11 @@ of his great men. Into the Cameroon country Saker and his colleagues
 introduced the elements of civilization, and with the help of British
 men-of-war the oversea slave trade was finally stopped (_c._ 1875). The
 struggles between the Bell (Mbeli) and Akwa families were also largely
-composed. In 1858, on the expulsion of the Baptists from Fernando Po
+composed. In 1858, on the expulsion of the [[Baptists]] from Fernando Po
 (q.v.), Saker founded at Ambas Bay a colony of the freed negroes who
 then left the island, the settlement being known as Victoria. Two years
 after this event the first German factory was established in the estuary
-by Messrs Woermann of Hamburg. In 1870 the station at Bimbia was given
+by Messrs Woermann of [[Hamburg]]. In 1870 the station at Bimbia was given
 up by the missionaries, but that at Akwa town continued to flourish, the
 Dualla showing themselves eager to acquire education, while Saker
 reduced their language to writing. He left Cameroon in 1876, the year
@@ -354,13 +354,13 @@ missionaries he explored the adjacent districts, discovering the Sanaga
 in its lower course. Although British influence was powerful and the
 British consul for the Oil Rivers during this period exercised
 considerable authority over the native chiefs, requests made by them--in
-particular by the Dualla chiefs in 1882--for annexation by Great
+particular by the Dualla chiefs in 1882--for [[Annexation|annexation]] by Great
 Britain, were refused or neglected, with the result that when Germany
 started on her quest to pick up unappropriated parts of the African
 coast she was enabled to secure Cameroon. A treaty with King Bell was
 negotiated by Dr Gustav Nachtigal, the signature of the king and the
 other chiefs being obtained at midnight on the 15th of July 1884. Five
-days later Mr E.H. Hewett, British consul, arrived with a mission to
+days later Mr E.H. [[Hewett]], British consul, arrived with a mission to
 annex the country to Great Britain.[2] Though too late to secure King
 Bell's territory, Mr Hewett concluded treaties with all the neighbouring
 chiefs, but the British government decided to recognize the German claim
@@ -372,7 +372,7 @@ at Victoria, Ambas Bay, was at first excluded from the German
 protectorate, but in March 1887 an arrangement was made by which, while
 the private rights of the missionaries were maintained, the sovereignty
 of the settlement passed to Germany. The Baptist Society thereafter made
-over its missions, both at Ambas Bay and in the estuary, to the Basel
+over its missions, both at Ambas Bay and in the estuary, to the [[Basel]]
 Society.
 
 The extension of German influence in the interior was gradually
@@ -399,9 +399,9 @@ gained a better outlet to the Sanga river.
 The ascent of the Cameroon mountain was first attempted by Joseph
 Merrick of the Baptist Missionary Society in 1847; but it was not till
 1861 that the summit was gained, when the ascent was made by Sir Richard
-Burton, Gustav Mann, a noted botanist, and Señor Calvo. The
+Burton, Gustav [[Mann]], a noted botanist, and Señor Calvo. The
 starting-point was Babundi, a place on the seashore west of the
-mountain. From the south-east the summit was reached by Mary Kingsley in
+mountain. From the south-east the summit was reached by Mary [[Kingsley]] in
 1895.
 
   See Mary H. Kingsley, _Travels in West Africa_ (London, 1897); Sir R.
@@ -410,12 +410,12 @@ mountain. From the south-east the summit was reached by Mary Kingsley in
   Sir H.H. Johnston, _George Grenfell and the Congo ... and Notes on the
   Cameroons ..._ (London, 1908); Max Buchner, _Kamerun Skizzen und
   Betrachtungen_ (Leipzig, 1887); S. Passarge, _Adamaua_ (Berlin, 1895);
-  E. Zintgraph, _Nord-Kamerun_ (Berlin, 1895); F. Hutter, _Wanderungen
+  E. Zintgraph, _Nord-Kamerun_ (Berlin, 1895); F. [[Hutter]], _Wanderungen
   und Forschungen im Nord-Hinterland von Kamerun_ (Brunswick, 1902); F.
   Bauer, _Die deutsche Niger-Benue-Tsadsee-Expedition_, 1902-1903
   (Berlin, 1904); C. René, _Kamerun und die deutsche Tsâdsee Eisenbahn_
-  (Berlin, 1905); O. Zimmermann, _Durch Busch und Steppe vom Campo bis
-  zum Schari, 1892-1902_ (Berlin, 1909); also British Foreign Office
+  (Berlin, 1905); O. Zimmermann, _Durch [[Busch]] und Steppe vom Campo bis
+  zum Schari, 1892-1902_ (Berlin, 1909); also British [[Foreign Office]]
   Reports. For special study of particular sciences see F. Wohltmann,
   _Der Plantagenbau in Kamerun und seine Zukunft_ (Berlin, 1896); F.
   Plehn, _Die Kamerunküste, Studien zur Klimatologie, Physiologie und

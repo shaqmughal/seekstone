@@ -3,7 +3,7 @@
 CUTLASS, the naval side-arm, a short cutting sword with a slightly
 curved blade, and a solid basket-shaped guard (see SWORD). The word is
 derived from the Fr. _coutelas_, or _coutelace_, a form of _coutel_,
-modern _couteau_, a knife, from Lat. _cultellus_, diminutive of
+modern _couteau_, a [[Knife|knife]], from Lat. _cultellus_, diminutive of
 _culter_, a ploughshare, or cutting instrument. Two variations appear in
 English: "curtelace," where the _r_ represents probably the _l_ of the
 original Latin word, or is a further variant of the second variation;

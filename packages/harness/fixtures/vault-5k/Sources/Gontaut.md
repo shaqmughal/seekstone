@@ -21,7 +21,7 @@ and daughter emigrated to Coblenz in 1792; thence they went to
 Rotterdam, and finally to England, where Josephine married the marquis
 Charles Michel de Gontaut-Saint-Blacard. They returned to France at the
 Restoration, and resumed their place at court. Madame de Gontaut became
-lady-in-waiting to Caroline, duchess of Berry, and, on the birth of the
+lady-in-waiting to Caroline, duchess of [[Berry]], and, on the birth of the
 princess Louise (Mlle d'Artois, afterwards duchess of Parma), governess
 to the children of France. Next year the birth of Henry, duke of
 Bordeaux (afterwards known as the comte de Chambord), added to her
@@ -31,8 +31,8 @@ de Gontaut. She followed the exiled royal family in 1830 to Holyrood
 Palace, and then to Prague, but in 1834, owing to differences with
 Pierre Louis, duc de Blacas, who thought her comparatively liberal views
 dangerous for the prince and princess, she received a brusque conge from
-Charles X. Her twin daughters, Josephine (1796-1844) and Charlotte
-(1796-1818), married respectively Ferdinand de Chabot, prince de Leon
+Charles X. Her twin daughters, Josephine (1796-1844) and [[Charlotte]]
+(1796-1818), married respectively [[Ferdinand]] de Chabot, prince de Leon
 and afterwards duc de Rohan, and Francois, comte de Bourbon-Busset. She
 herself wrote in her old age some naive memoirs, which throw an odd
 light on the pretensions of the "governess of the children of France."

@@ -17,11 +17,11 @@ Gordium. According to the legend, Gordium was founded by Gordius, a
 Phrygian peasant who had been called to the throne by his countrymen in
 obedience to an oracle of Zeus commanding them to select the first
 person that rode up to the temple of the god in a wagon. The king
-afterwards dedicated his car to the god, and another oracle declared
-that whoever succeeded in untying the strangely entwined knot of cornel
+afterwards dedicated his [[Car|car]] to the god, and another oracle declared
+that whoever succeeded in untying the strangely entwined [[Knot|knot]] of cornel
 bark which bound the yoke to the pole should reign over all Asia.
 Alexander the Great, according to the story, cut the knot by a stroke of
-his sword. Gordium was captured and destroyed by the Gauls soon after
+his sword. Gordium was captured and destroyed by the [[Gaul|Gauls]] soon after
 189 B.C. and disappeared from history. In imperial times only a small
 village existed on the site. Excavations made in 1900 by two German
 scholars, G. and A. Koerte, revealed practically no remains later than

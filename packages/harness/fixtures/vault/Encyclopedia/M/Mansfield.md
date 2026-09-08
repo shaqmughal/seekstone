@@ -12,7 +12,7 @@ earl of Dunbar by James Edward, the Old Pretender.
 
 William Murray was educated at Perth grammar school and Westminster
 School, of which he was a king's scholar. Entering Christ Church,
-Oxford, he graduated in 1727. A friend of the family, Lord Foley,
+Oxford, he graduated in 1727. A friend of the family, Lord [[Foley]],
 provided the funds for his legal training, and he became a member of
 Lincoln's Inn on his departure from Oxford, being called to the bar in
 1730. He was a good scholar and mixed with the best literary society,
@@ -21,9 +21,9 @@ important Scottish appeal cases brought him into notice, and in Scotland
 at least he acquired an immense reputation by his appearance for the
 city of Edinburgh when it was threatened with disfranchisement for the
 affair of the Porteous mob. His English practice had as yet been scanty,
-but in 1737 a single speech in a jury trial of note placed him at the
+but in 1737 a single speech in a [[Jury|jury]] trial of note placed him at the
 head of the bar, and from this time he had all he could attend to. In
-1738 he married Lady Elizabeth Finch, daughter of the earl of
+1738 he married Lady Elizabeth [[Finch]], daughter of the earl of
 Winchelsea. His political career began in 1742 with his appointment as
 solicitor-general. During the next fourteen years he was one of the most
 conspicuous figures in the parliamentary history of the time. By birth a
@@ -32,17 +32,17 @@ politics were really dominated by his legal interests. Although holding
 an office of subordinate rank, he was the chief defender of the
 government in the House of Commons, and during the time that Pitt was in
 opposition had to bear the brunt of his attacks. In 1754 he became
-attorney-general, and for the next two years acted as leader of the
+[[Attorney-General|attorney-general]], and for the next two years acted as leader of the
 House of Commons under the administration of the duke of Newcastle. But
 in 1756, when the government was evidently approaching its fall, an
 unexpected vacancy occurred in the chief justiceship of the king's
-bench, and he claimed the office, being at the same time raised to the
+[[Bench|bench]], and he claimed the office, being at the same time raised to the
 peerage as Baron Mansfield.
 
 From this time the chief interest of his career lies in his judicial
 work, but he did not wholly dissever himself from politics. He became by
 a singular arrangement, only repeated in the case of Lord Ellenborough,
-a member of the cabinet, and remained in that position through various
+a member of the [[Cabinet|cabinet]], and remained in that position through various
 changes of administration for nearly fifteen years, and, although he
 persistently refused the chancellorship, he acted as Speaker of the
 House of Lords while the Great Seal was in commission. During the time
@@ -53,7 +53,7 @@ on the whole a supporter of the prerogative, but within definite limits.
 Macaulay terms him, justly enough, "the father of modern Toryism, of
 Toryism modified to suit an order of things in which the House of
 Commons is the most powerful body in the state." During the stormy
-session of 1770 he came into violent collision with Chatham and Camden
+session of 1770 he came into violent collision with [[Chatham]] and Camden
 in the questions that arose out of the Middlesex election and the trials
 for political libel; and in the subsequent years he was made the subject
 of the bitter attacks of Junius, in which his early Jacobite connexions,
@@ -77,7 +77,7 @@ The political trials over which he presided, although they gave rise to
 numerous accusations against him, were conducted with singular fairness
 and propriety. He was accused with especial bitterness of favouring
 arbitrary power by the law which he laid down in the trials for libel
-which arose out of the publications of Junius and Horne Tooke, and which
+which arose out of the publications of Junius and [[Horne]] Tooke, and which
 at a later time he reaffirmed in the case of the dean of St Asaph (see
 LIBEL). But we must remember that his view of the law was concurred in
 by the great majority of the judges and lawyers of that time, and was
@@ -85,7 +85,7 @@ supported by undoubted precedents. In other instances, when the
 government was equally concerned, he was wholly free from suspicion. He
 supported Lord Camden's decision against general warrants, and reversed
 the outlawry of Wilkes. He was always ready to protect the rights of
-conscience, whether they were claimed by Dissenters or Catholics, and
+conscience, whether they were claimed by [[Dissenter|Dissenters]] or Catholics, and
 the popular fury which led to the destruction of his house during the
 Gordon riots was mainly due to the fact that a Catholic priest, who was
 accused of saying Mass, had escaped the penal laws by his charge to the
@@ -98,17 +98,17 @@ development of commerce. The facts were left to the jury to decide as
 best they might, and no principle was ever extracted from them which
 might serve as a guide in subsequent cases. Mansfield found the law in
 this chaotic state, and left it in a form that was almost equivalent to
-a code. He defined almost every principle that governed commercial
+a [[Code|code]]. He defined almost every principle that governed commercial
 transactions in such a manner that his successors had only to apply the
 rules he had laid down. His knowledge of Roman and foreign law, and the
 general width of his education, freed him from the danger of relying too
 exclusively upon narrow precedents, and afforded him a storehouse of
 principles and illustrations, while the grasp and acuteness of his
-intellect enabled him to put his judgments in a form which almost always
+[[Intellect|intellect]] enabled him to put his judgments in a form which almost always
 commanded assent. A similar influence was exerted by him in other
 branches of the common law; and although, after his retirement, a
 reaction took place, and he was regarded for a while as one who had
-corrupted the ancient principles of English law, these prejudices passed
+corrupted the ancient principles of [[English Law|English law]], these prejudices passed
 rapidly away, and the value of his work in bringing the older law into
 harmony with the needs of modern society has long been fully recognized.
 

@@ -20,9 +20,9 @@ success he went to Paris in 1795. His scores were submitted to
 Cherubini, Mehul and others, but met with little approbation. Grand
 opera was the order of the day. Boieldieu had to fall back on his talent
 as a pianoforte-player for a livelihood. Success came at last from an
-unexpected source. P.J. Garat, a fashionable singer of the period,
+unexpected source. P.J. [[Garat]], a fashionable singer of the period,
 admired Boieldleu's touch on the piano, and made him his accompanist. In
-the drawing-rooms of the Directoire Garat sang the charming songs and
+the [[Drawing-Room|drawing-rooms]] of the Directoire Garat sang the charming songs and
 ballads with which the young composer supplied him. Thus Boieldieu's
 reputation gradually extended to wider circles. In 1796 _Les Deux
 lettres_ was produced, and in 1797 _La Famille suisse_ appeared for the
@@ -46,9 +46,9 @@ the officious pedantry of the seneschal, and the amorous tenderness of
 the page. He succeeded Mehul as professor of composition at the
 Conservatoire in 1817. _Le Chapeau rouge_ was produced with great
 success in 1818. Boieldieu's second and greatest masterpiece was his
-_Dame blanche_ (1825). The libretto, written by Scribe, was partly
+_[[Dame]] blanche_ (1825). The libretto, written by Scribe, was partly
 suggested by Walter Scott's _Monastery_, and several original Scottish
-tunes cleverly introduced by the composer add to the melodious charm and
+tunes cleverly introduced by the composer add to the melodious [[Charm|charm]] and
 local colour of the work. On the death of his wife in 1825, Boieldieu
 married a singer. His own death was due to a violent attack of pulmonary
 disease. He vainly tried to escape the rapid progress of the illness by
@@ -56,7 +56,7 @@ travel in Italy and the south of France, but returned to Paris only to
 die on the 8th of October 1834.
 
   Lives of Boieldieu have been written by Pougin (Paris, 1875), J.A.
-  Refeuvaille (Rouen, 1836), Hequet (Paris, 1864), Emile Duval (Geneva,
+  Refeuvaille (Rouen, 1836), Hequet (Paris, 1864), Emile [[Duval]] ([[Geneva]],
   1883). See also Adolphe Charles Adam, _Derniers souvenirs d'un
   musicien_.
 

@@ -21,11 +21,11 @@ carried out with both hands grasping the stick, giving greater force and
 enabling it to be used at very close quarters. The canes used in French
 fencing schools are made of several kinds of tough wood and are about 3
 ft. long, tapering towards the point. As very severe blows are
-exchanged, masks, gloves, padded vests and shin-guards, similar to those
-used in football, are worn.
+exchanged, masks, [[Glove|gloves]], padded vests and shin-guards, similar to those
+used in [[Football|football]], are worn.
 
   See Georges d'Amoric, _French Method of the Noble Art of Self-Defence_
-  (London, 1898); J. Charlemont, _L'Art de la Boxe francaise et de la
+  (London, 1898); J. [[Charlemont]], _L'Art de la Boxe francaise et de la
   Canne_ (Paris, 1899).
 
 ## See also

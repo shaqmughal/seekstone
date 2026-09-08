@@ -6,22 +6,22 @@ end of the 17th century the pronunciation was _kay_, as in other words
 in O. Eng. ending in _aég_; cf. _daég_, day; _claég_, clay; the _New
 English Dictionary_ takes the change to kee to be due to northern
 influence), an instrument of metal used for the opening and closing of a
-lock (see LOCK). Until the 14th century bronze and not iron was most
+[[Lock|lock]] (see LOCK). Until the 14th century bronze and not iron was most
 commonly used. The terminals of the stem of the keys were frequently
-decorated, the "bow" or loop taking the form sometimes of a trefoil,
+decorated, the "[[Bow|bow]]" or loop taking the form sometimes of a trefoil,
 with figures inscribed within it; this decoration increased in the 16th
 century, the terminals being made in the shape of animals and other
 figures. Still more elaborate ceremonial keys were used by court
 officials; a series of chamberlains' keys used during the 18th and 19th
 centuries in several courts in Europe is in the British Museum. The
-terminals are decorated with crowns, royal monograms and ciphers. The
+terminals are decorated with crowns, royal monograms and [[Cipher|ciphers]]. The
 word "key" is by analogy applied to things regarded as means for the
 opening or closing of anything, for the making clear that which is
 hidden. Thus it is used of an interpretation as to the arrangement of
 the letters or words of a cipher, of a solution of mathematical or other
 problems, or of a translation of exercises or books, &c., from a foreign
 language. The term is also used figuratively of a place of commanding
-strategic position. Thus Gibraltar, the "Key of the Mediterranean," was
+strategic position. Thus [[Gibraltar]], the "Key of the Mediterranean," was
 granted in 1462 by Henry IV. of Castile, the arms, _gules_, a castle
 proper, with key pendant to the gate, _or_; these arms form the badge of
 the 50th regiment of foot (now 2nd Batt. Essex Regiment) in the British

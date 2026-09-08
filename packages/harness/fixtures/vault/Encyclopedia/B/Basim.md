@@ -1,6 +1,6 @@
 # Basim
 
-BASIM, a town of India, in the Akola district, Berar, 52 m. S.S.E. from
+BASIM, a town of India, in the Akola district, [[Berar]], 52 m. S.S.E. from
 Akola station of the Great Indian Peninsula railway. Pop. (1901) 13,823.
 Until 1905 it was the headquarters of the district of Basim, which had an
 area of 2949 sq. m.; but in that [v.03 p.0480] year the district was
@@ -14,7 +14,7 @@ woodland, while some of the peaks rise to a height of 2000 ft., the scenery
 (especially during the rains) being very beautiful. The climate of the
 locality is better than that of the other districts of Berar; the hot wind
 which blows during the day in the summer months being succeeded at night by
-a cool breeze. The principal crops are millet, wheat, other food grains,
+a cool [[Breeze|breeze]]. The principal crops are millet, wheat, other food grains,
 pulse, oilseeds and cotton; there is some manufacture of cotton-cloth and
 blankets, and there are ginning factories in the town. In 1901 the
 population was 353,410, showing a decrease of 11% in the decade, due to the

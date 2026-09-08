@@ -12,10 +12,10 @@ teaching. Such of his writings as survive show a remarkable knowledge of
 scripture, and have distinct value as theological literature. Among them
 are the _De Trinitate_, _De Spiritu Sancto_ (Jerome's Latin
 translation), _Adversus Manichaeos_, and notes and expositions of
-various books, especially the Psalms and the Catholic Epistles.
+various books, especially the Psalms and the Catholic [[Epistle|Epistles]].
 
   See Migne, _Patrol. Graec._ xxxix.; O. Bardenhewer, _Patrologie_, pp.
-  290-293 (Freiburg, 1894).
+  290-293 ([[Freiburg]], 1894).
 
 ## See also
 

@@ -27,11 +27,11 @@ which belonged to that monarch. His father's express orders prevented
 Aurangzeb from following up this success, and, not long after, the
 sudden and alarming illness of Shah Jahan turned his thoughts in another
 direction. Of Shah Jahan's four sons, the eldest, Dara, a brave and
-honourable prince, but disliked by the Mussulmans on account of his
+[[Honourable|honourable]] prince, but disliked by the Mussulmans on account of his
 liberality of thought, had a natural right to the throne. Accordingly,
 on the illness of his father, he at once seized the reins of government
-and established himself at Delhi. The second son, Shuja, governor of
-Bengal, a dissolute and sensual prince, was dissatisfied, and raised an
+and established himself at [[Delhi]]. The second son, Shuja, governor of
+[[Bengal]], a dissolute and sensual prince, was dissatisfied, and raised an
 army to dispute the throne with Dara. The keen eye of Aurangzeb saw in
 this conjuncture of events a favourable opportunity for realising his
 own ambitious schemes. His religious exercises and temperate habits gave
@@ -41,7 +41,7 @@ to his younger brother Murad, governor of Gujarat, representing that
 neither of their elder brothers was worthy of the kingdom, that he
 himself had no temporal ambition, and desired only to place a fit
 monarch on the throne, and then to devote himself to religious exercises
-and make the pilgrimage to Mecca. He therefore proposed to unite his
+and make the pilgrimage to [[Mecca]]. He therefore proposed to unite his
 forces to those of Murad, who would thus have no difficulty in making
 himself master of the empire while the two elder brothers were divided
 by their own strife. Murad was completely deceived by these crafty
@@ -52,7 +52,7 @@ to believe in their father's recovery, and still pressed on. Shuja was
 defeated by Dara's son, but the imperial forces under Jaswant Singh were
 completely routed by the united armies of Aurangzeb and Murad. Dara in
 person took the field against his brothers, but was defeated and
-compelled to fly. Aurangzeb then, by a clever stroke of policy, seized
+compelled to [[Fly|fly]]. Aurangzeb then, by a [[Clever|clever]] stroke of policy, seized
 the person of his father, and threw him into confinement, in which he
 was kept for the remaining eight years of his life. Murad was soon
 removed by assassination, and the way being thus cleared, Aurangzeb,
@@ -64,8 +64,8 @@ brought up to Delhi, exhibited to the people, and assassinated. Shuja,
 who had been a second time defeated near Allahabad, was attacked by the
 imperial forces under Mir Jumla and Mahommed, Aurangzeb's eldest son,
 who, however, deserted and joined his uncle. Shuja was defeated and fled
-to Arakan, where he perished; Mahommed was captured, thrown into the
-fortress of Gwalior, and died after seven years' confinement. No similar
+to [[Arakan]], where he perished; Mahommed was captured, thrown into the
+fortress of [[Gwalior]], and died after seven years' confinement. No similar
 contest disturbed Aurangzeb's long reign of forty-six years, which has
 been celebrated, though with doubtful justice, as the most brilliant
 period of the history of Hindustan. The empire certainly was wealthy and
@@ -87,7 +87,7 @@ were embittered by remorse, by gloomy forebodings, and by constant
 suspicion, for he had always been in the habit of employing a system of
 espionage, and only then experienced its evil effects. He died on the
 3rd of March 1707 at Ahmadnagar, while engaged on an extensive but
-unfortunate expedition against the Mahrattas.
+unfortunate expedition against the [[Mahrattas]].
 
   See Lane-Poole, _Aurangzib_, "Rulers of India" series (1893).
 

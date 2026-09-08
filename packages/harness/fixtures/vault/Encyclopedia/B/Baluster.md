@@ -1,7 +1,7 @@
 # Baluster
 
 BALUSTER (through the Fr. from the Ital. _balaustro_, so-called from a
-supposed likeness to the flower of the [Greek: balaustion], or wild
+supposed likeness to the [[Flower|flower]] of the [Greek: balaustion], or wild
 pomegranate; the word has been corrupted in English into "banister"), a
 small moulded shaft, square or circular, in stone or wood and sometimes in
 metal, supporting the coping of a parapet or the rail of a staircase, an

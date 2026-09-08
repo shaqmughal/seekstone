@@ -15,7 +15,7 @@ Parliamentarismus wie er ist_, a criticism of parliamentary government,
 which shows a marked change in his political opinions. In 1860 he returned
 to Germany, and became intimate with Lassalle, who made him his literary
 executor. In 1864 he was offered by Bismarck, and accepted, a high position
-in the Prussian foreign office. The reasons that led him to a step which
+in the Prussian [[Foreign Office|foreign office]]. The reasons that led him to a step which
 involved so complete a break with his earlier friends and associations are
 not clearly known. From this time till his death he acted as Bismarck's
 secretary, and was the man who probably enjoyed the greatest [v.04 p.0664]
@@ -23,18 +23,18 @@ amount of his confidence. It was he who drew up the text of the
 constitution of the North German Confederation; in 1870 he was sent on a
 very confidential mission to Spain in connexion with the Hohenzollern
 candidature for the Spanish crown; he assisted Bismarck at the final
-negotiations for the treaty of Frankfort, and was one of the secretaries to
+negotiations for the treaty of [[Frankfort]], and was one of the secretaries to
 the congress of Berlin; he also assisted Bismarck in the composition of his
 memoirs. Bucher, who was a man of great ability, had considerable
 influence, which was especially directed against the economic doctrines of
 the Liberals; in 1881 he published a pamphlet criticizing the influence and
-principles of the Cobden Club. He identified himself completely with
+principles of the [[Cobden]] Club. He identified himself completely with
 Bismarck's later commercial and colonial policy, and probably had much to
 do with introducing it, and he did much to encourage anti-British feeling
 in Germany. He died at Glion, in Switzerland, on the 12th of October 1892.
 
 See Heinrich v. Poschinger, _Ein 48er: Lothar Buchers Leben und Werke_ (3
-vols., Berlin, 1890); Busch, _Bismarck: Some Secret Pages of his History_
+vols., Berlin, 1890); [[Busch]], _Bismarck: Some Secret Pages of his History_
 (London, 1898).
 
 (J. W. HE.)

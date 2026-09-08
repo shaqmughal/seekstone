@@ -12,12 +12,12 @@ Hobbes, was born at Westport (now part of Malmesbury, Wiltshire) on the
 illiterate and choleric man, quarrelled, it is said, with a brother
 clergyman at the church door, and was forced to decamp, leaving his
 three children to the care of an elder brother Francis, a flourishing
-glover at Malmesbury. Thomas Hobbes was put to school at Westport church
+[[Glover|glover]] at Malmesbury. Thomas Hobbes was put to school at Westport church
 at the age of four, passed to the Malmesbury school at eight, and was
 taught again in Westport later at a private school kept by a young man
 named Robert Latimer, fresh from Oxford and "a good Grecian." He had
 begun Latin and Greek early, and under Latimer made such progress as to
-be able to translate the _Medea_ of Euripides into Latin iambic verse
+be able to translate the _Medea_ of [[Euripides]] into Latin iambic verse
 before he was fourteen. About the age of fifteen he was sent to Oxford
 and entered at Magdalen Hall. During his residence, the first principal
 of Magdalen Hall, John Hussee, was succeeded by John Wilkinson, who
@@ -33,8 +33,8 @@ he then heard about bodies as consisting of matter and form, as throwing
 off species of themselves for perception, and as moved by sympathies and
 antipathies, with much else of a like sort, all beyond his
 comprehension; and how he therefore turned to his old books again, fed
-his mind on maps and charts of earth and sky, traced the sun in his
-path, followed Drake and Cavendish girdling the main, and gazed with
+his mind on [[Map|maps]] and charts of earth and sky, traced the sun in his
+path, followed Drake and [[Cavendish]] girdling the main, and gazed with
 delight upon pictured haunts of men and wonders of unknown lands. Very
 characteristic is the interest in men and things, and the disposition to
 cut through questions in the schools after a trenchant fashion of his
@@ -52,8 +52,8 @@ February 1608.
   Translation of Thucydides.
 
 In the same year Hobbes was recommended by Wilkinson as tutor to the son
-of William Cavendish, baron of Hardwick (afterwards 2nd earl of
-Devonshire), and thus began a lifelong connexion with a great and
+of [[William Cavendish]], baron of Hardwick (afterwards 2nd earl of
+[[Devonshire]]), and thus began a lifelong connexion with a great and
 powerful family. Twice it was loosened--once, for a short time, after
 twenty years, and again, for a longer period, during the Civil War--but
 it never was broken. Hobbes spoke of the first years of his tutorship as
@@ -74,10 +74,10 @@ determined to become a scholar, and until 1628 was engaged in a careful
 study of Greek and Latin authors, the outcome of which was his great
 translation of Thucydides. But when he had finished his work he kept it
 lying by him for years, being no longer so sure of finding appreciative
-readers; and when he did send it forth, in 1628, he was fain to be
+readers; and when he did send it forth, in 1628, he was [[Fain|fain]] to be
 content with "the few and better sort."[1] That he was finally
 determined to publication by the political troubles of the year 1628 may
-be regarded as certain, not only from his own express declaration at a
+be regarded as certain, not only from his own express [[Declaration|declaration]] at a
 later time (_Vit. carm. exp._), but also from unmistakable hints in the
 account of the life and work of his author prefixed to the translation
 on its appearance. This was the year of the Petition of Right, extorted
@@ -87,14 +87,14 @@ significant that he came forward just then, at the mature age of forty,
 with his version of the story of the Athenian democracy as the first
 production of his pen. Nothing else is known of his doings before 1628,
 except that through his connexion with young Cavendish he had relations
-with literary men of note like Ben Jonson, and also with Bacon and Lord
+with literary men of note like [[Ben]] [[Jonson]], and also with Bacon and Lord
 Herbert of Cherbury. If he never had any sympathy with Herbert's
 intuitionalist principles in philosophy, he was no less eager, as he
 afterwards showed, than Herbert to rationalize in matters of religious
 doctrine, so that he may be called the second of the English deists, as
 Herbert has been called the first. With Bacon he was so intimate
 (Aubrey's _Lives_, pp. 222, 602) that some writers have described him as
-a disciple. The facts that he used to walk with Bacon at Gorhambury, and
+a [[Disciple|disciple]]. The facts that he used to walk with Bacon at Gorhambury, and
 would jot down with exceptional intelligence the eager thinker's sudden
 "notions," and that he was employed to make the Latin version of some of
 the _Essays_, prove nothing when weighed against his own disregard of
@@ -115,14 +115,14 @@ them in the boyhood of the third earl. Hobbes went on for a time living
 in the household; but his services were no longer in demand, and,
 remaining inconsolable under his personal bereavement, he sought
 distraction, in 1629, in another engagement which took him abroad as
-tutor to the son of Sir Gervase Clifton, of an old Nottinghamshire
+tutor to the son of Sir Gervase [[Clifton]], of an old Nottinghamshire
 family. This, his second, sojourn abroad appears to have been spent
 chiefly in Paris, and the one important fact recorded of it is that he
 then first began to look into Euclid. The engagement came to an end in
 1631, when he was recalled to train the young earl of Devonshire, now
 thirteen years old, son of his previous pupil. In the course of the next
 seven years in Derbyshire and abroad, Hobbes took his pupil over
-rhetoric,[3] logic, astronomy, and the principles of law, with other
+rhetoric,[3] logic, [[Astronomy|astronomy]], and the principles of law, with other
 subjects. His mind was now full of the thought of motion in nature, and
 on the continent he sought out the philosophical speculators or
 scientific workers. In Florence in 1636 he saw Galileo, for whom he ever
@@ -148,7 +148,7 @@ too, as he tells us, was numbered among philosophers.
   journey in Europe he began to study the doctrine of motion more
   seriously, being interested in it before; and as he claims more than
   once (_L.W._ v. 303; _E.W._ vii. 468) to have explained light and
-  sound by a mechanical hypothesis as far back as 1630, the inspiration
+  sound by a mechanical [[Hypothesis|hypothesis]] as far back as 1630, the inspiration
   may be assigned to the time of the second journey. But it was not till
   the third journey that the new interest became an overpowering
   passion, and the "philosopher" was on his way home before he had
@@ -215,7 +215,7 @@ received from him.
   In Paris.
 
 In November 1640 the Long Parliament succeeded to the Short, and sent
-Laud and Strafford to the Tower, and Hobbes, who had become, or thought
+[[Laud]] and Strafford to the Tower, and Hobbes, who had become, or thought
 he had become, a marked man by the circulation of his treatise (of
 which, "though not printed, many gentlemen had copies"), hastened to
 Paris, "the first of all that fled." He was now for the fourth and last
@@ -259,10 +259,10 @@ excitement, have advanced no small way in the actual composition of the
 treatise _De Cive_, the third section of his projected system. In any
 case, it was upon this section, before the others, that he set to work
 in Paris; and before the end of 1641 the book, as we know from the date
-of the dedication (November 1), was finished. Though it was forthwith
+of the [[Dedication|dedication]] (November 1), was finished. Though it was forthwith
 printed in the course of the year 1642, he was content to circulate a
 limited number of copies privately[5]; and when he found his work
-received with applause (it was praised even by Descartes), he seems to
+received with [[Applause|applause]] (it was praised even by Descartes), he seems to
 have taken this recognition of his philosophical achievement as an
 additional reason for deferring publication till the earlier works of
 the system were completed. Accordingly, for the next three or four
@@ -275,20 +275,20 @@ doctrine of motion (_L.W._ v. 309-318), incorporated with Mersenne's
 _Ballistica_, published in the same year. Thus or otherwise he had
 become sufficiently known by 1645 to be chosen as a referee, with
 Descartes, Roberval and others, in the famous controversy between John
-Pell (q.v.) and the Dane Longomontanus (q.v.) over that problem of the
+Pell (q.v.) and the Dane [[Longomontanus]] (q.v.) over that problem of the
 squaring of the circle which was seen later on to have such a fatal
-charm for himself. But though about this time he had got ready all or
+[[Charm|charm]] for himself. But though about this time he had got ready all or
 most of the materials for his fundamental work on Body, not even now was
 he able to make way with its composition, and when he returned to it
 after a number of years, he returned a different man.
 
 
-  Leviathan.
+  [[Leviathan]].
 
 The Civil War had broken out in 1642, and the royalist cause began to
-decline from the time of the defeat at Marston Moor, in the middle of
-1644. Then commenced an exodus of the king's friends. Newcastle himself,
-who was a cousin of Hobbes's late patron and to whom he dedicated the
+decline from the time of the defeat at [[Marston]] Moor, in the middle of
+1644. Then commenced an [[Exodus|exodus]] of the king's friends. Newcastle himself,
+who was a [[Cousin|cousin]] of Hobbes's late patron and to whom he dedicated the
 "little treatise" of 1640, found his way to Paris, and was followed by a
 stream of fugitives, many of whom were known to Hobbes. The sight of
 these exiles made the political interest once more predominant in
@@ -297,7 +297,7 @@ new and important design. It first showed itself in the publication of
 the _De cive_, of which the fame, but only the fame, had extended beyond
 the inner circle of friends and critics who had copies of the original
 impression. Hobbes now entrusted it, early in 1646, to his admirer, the
-Frenchman Samuel de Sorbiere, by whom it was seen through the Elzevir
+Frenchman Samuel de Sorbiere, by whom it was seen through the [[Elzevir]]
 press at Amsterdam in 1647--having previously inserted a number of notes
 in reply to objections, and also a striking preface, in the course of
 which he explained its relation to the other parts of the system not yet
@@ -306,7 +306,7 @@ and being now published before them.[6] So hopeless, meanwhile, was he
 growing of being able to return home that, later on in the year, he was
 on the point of leaving Paris to take up his abode in the south with a
 French friend,[7] when he was engaged "by the month" as mathematical
-instructor to the young prince of Wales, who had come over from Jersey
+instructor to the young prince of Wales, who had come over from [[Jersey]]
 about the month of July. This engagement lasted nominally from 1646 to
 1648 when Charles went to Holland. Thus thrown more than ever into the
 company of the exiled royalists, it was then, if not earlier, that he
@@ -333,11 +333,11 @@ The king being dead, and the royalist cause appearing to be hopelessly
 lost, he did not scruple, in closing the work with a general "Review and
 Conclusion," to raise the question of the subject's right to change
 allegiance when a former sovereign's power to protect was irrecoverably
-gone. Also he took advantage of the rule of the Commonwealth to indulge
+gone. Also he took advantage of the rule of the [[Commonwealth]] to indulge
 much more freely than he might have otherwise dared in rationalistic
 criticism of religious doctrines; while, amid the turmoil of sects, he
 could the more forcibly urge that the preservation of social order, when
-again firmly restored, must depend on the assumption by the civil power
+again firmly restored, must depend on the [[Assumption|assumption]] by the civil power
 of the right to wield all sanctions, supernatural as well as natural,
 against the pretensions of any clergy, Catholic, Anglican or
 Presbyterian, to the exercise of an _imperium in imperio_.
@@ -367,9 +367,9 @@ the title of _Philosophical Rudiments concerning Government and Society_
 and finally it appeared about the middle of the same year, 1651, under
 the title of _Leviathan, or the Matter, Form and Power of a
 Commonwealth, Ecclesiastical and Civil_ (_E.W._ iii.), with a quaint
-frontispiece in which, from behind hills overlooking a fair landscape of
+[[Frontispiece|frontispiece]] in which, from behind hills overlooking a fair landscape of
 town and country, there towered the body (above the waist) of a crowned
-giant, made up of tiny figures of human beings and bearing sword and
+[[Giant|giant]], made up of tiny figures of human beings and bearing sword and
 crozier in the two hands. It appeared, and soon its author was more
 lauded and decried than any other thinker of his time; but the first
 effect of its publication was to sever his connexion with the exiled
@@ -377,7 +377,7 @@ royalist party, and to throw him for protection on the revolutionary
 Government. No sooner did copies of the book reach Paris than he found
 himself shunned by his former associates, and though he was himself so
 little conscious of disloyalty that he was forward to present a
-manuscript copy "engrossed in vellum in a marvellous fair hand"[10] to
+[[Manuscript|manuscript]] copy "engrossed in vellum in a marvellous fair hand"[10] to
 the young king of the Scots (who, after the defeat at Worcester, escaped
 to Paris about the end of October), he was denied the royal presence
 when he sought it shortly afterwards. Straightway, then, he saw himself
@@ -402,9 +402,9 @@ of the age, he was sufficiently conscious of what he had been able to
 achieve in _Leviathan_; and it was in no humble mood that he now, at
 the age of sixty-four, turned to complete the fundamental treatise of
 his philosophical system. Neither those whom his masterpiece soon roused
-to enthusiasm, nor those whom it moved to indignation, were likely to be
+to [[Enthusiasm|enthusiasm]], nor those whom it moved to indignation, were likely to be
 indifferent to anything he should now write, whether it lay near to or
-far from the region of practice. Taking up his abode in Fetter Lane,
+far from the region of practice. Taking up his abode in Fetter [[Lane]],
 London, on his return, and continuing to reside there for the sake of
 intellectual society, even after renewing his old ties with the earl of
 Devonshire, who lived in the country till the Restoration,[11] he worked
@@ -414,7 +414,7 @@ till the following year, and meanwhile the readers of _Leviathan_ had a
 different excitement. In 1654 a small treatise, "Of Liberty and
 Necessity" (_E.W._ iv. 229-278), issued from the press, claiming to be
 an answer to a discourse on the same subject by Bishop Bramhall of
-Londonderry (afterwards archbishop of Armagh, d. 1663), addressed by
+Londonderry (afterwards archbishop of [[Armagh]], d. 1663), addressed by
 Hobbes to the marquis of Newcastle.[12] It had grown out of an oral
 discussion between Hobbes and Bramhall in the marquis's presence at
 Paris in 1646. Bramhall, a strong Arminian, had afterwards written down
@@ -425,7 +425,7 @@ French acquaintance to have a private translation of his reply made by a
 young Englishman, who secretly took a copy of the original for himself;
 and now it was this unnamed purloiner who, in 1654, when Hobbes had
 become famous and feared, gave it to the world of his own motion, with
-an extravagantly laudatory epistle to the reader in its front. Upon
+an extravagantly laudatory [[Epistle|epistle]] to the reader in its front. Upon
 Hobbes himself the publication came as a surprise, but, after his plain
 speaking in _Leviathan_, there was nothing in the piece that he need
 scruple to have made known, and he seems to have condoned the act. On
@@ -435,7 +435,7 @@ rejoinder. Accordingly, in 1655, he printed everything that had passed
 between them (under the title of _A Defence of the True Liberty of Human
 Actions from Antecedent or Extrinsic Necessity_), with loud complaint
 against the treatment he had received, and the promise added that, in
-default of others, he himself would stand forward to expose the deadly
+[[Default|default]] of others, he himself would stand forward to expose the deadly
 principles of _Leviathan_. About this time Hobbes had begun to be hard
 pressed by other foes, and, being never more sure of himself than upon
 the question of the will, he appears to have welcomed the opportunity
@@ -453,7 +453,7 @@ in 1658 with ponderous _Castigations of Mr Hobbes's Animadversions_, and
 also made good his previous threat in a bulky appendix entitled _The
 Catching of Leviathan the Great Whale_. Hobbes never took any notice of
 the _Castigations_, but ten years later replied to the charges of
-atheism, &c., made in the non-political part of the appendix, of which
+[[Atheism|atheism]], &c., made in the non-political part of the appendix, of which
 he says he then heard for the first time (_E.W._ iv. 279-384). This
 _Answer_ was first published after Hobbes's death.[13]
 
@@ -499,11 +499,11 @@ _Answer_ was first published after Hobbes's death.[13]
   Obtaining an unbound copy of the _De corpore_, he saw by the mutilated
   appearance of the sheets that Hobbes had repeatedly altered his
   demonstrations before he issued them at last in their actual form,
-  grotesque as it was, rather than delay the book longer. Obtaining also
+  [[Grotesque|grotesque]] as it was, rather than delay the book longer. Obtaining also
   a copy of the work as it had been printed before Hobbes had any doubt
   of the validity of his solutions, Wallis was able to track his whole
   course from the time of Ward's provocation--his passage from
-  exultation to doubt, from doubt to confessed impotence, yet still
+  exultation to doubt, from doubt to confessed [[Impotence|impotence]], yet still
   without abandoning the old assumption of confident strength; and all
   his turnings and windings were now laid bare in one of the most
   trenchant pieces of controversial writing ever penned. Wallis's
@@ -520,7 +520,7 @@ _Answer_ was first published after Hobbes's death.[13]
   anxious from the first to become himself an innovator with whatever
   insufficient means. The consequence was that, when not spending
   himself in vain attempts to solve the impossible problems that have
-  always waylaid the fancy of self-sufficient beginners, he took an
+  always waylaid the [[Fancy|fancy]] of self-sufficient beginners, he took an
   interest only in the elements of geometry, and never had any notion of
   the full scope of mathematical science, undergoing as it then was (and
   not least at the hands of Wallis) the extraordinary development which
@@ -547,13 +547,13 @@ _Answer_ was first published after Hobbes's death.[13]
   and he was not afraid to assume the offensive by a counter criticism
   of three of Wallis's works then published. When he had thus disposed
   of the "Paralogisms" of his more formidable antagonist in the first
-  five lessons, he ended with a lesson on "Manners" to the two
+  five lessons, he ended with a lesson on "[[Manners]]" to the two
   professors together, and set himself gravely at the close to show that
   he too could be abusive. In this particular part of his task, it must
   be allowed, he succeeded very well; his criticism of Wallis's works,
   especially the great treatise _Arithmetica infinitorum_ (1655), only
   showed how little able he was to enter into the meaning of the modern
-  analysis. Wallis, on his side, was not less ready to keep up the game
+  analysis. Wallis, on his side, was not less ready to keep up the [[Game|game]]
   in English than he had been to begin it in Latin. Swift as before to
   strike, in three months' time he had deftly turned his own word
   against the would-be master by administering _Due Correction for Mr
@@ -574,7 +574,7 @@ _Answer_ was first published after Hobbes's death.[13]
   the _Lessons_ that a mathematical point must have quantity, though
   this were not reckoned, he had explained the Greek word [Greek:
   stigme], used for a point, to mean a visible mark made with a hot
-  iron; whereupon he was charged by Wallis with gross ignorance for
+  iron; whereupon he was charged by Wallis with [[Gross|gross]] [[Ignorance|ignorance]] for
   confounding [Greek: stigme] and [Greek: stigma]. Hence the title of
   his new piece: [Greek: Stigmai ageometrias, agroikias, antipoliteias,
   amatheias], or _Marks of the Absurd Geometry, Rural Language, Scottish
@@ -621,17 +621,17 @@ _Answer_ was first published after Hobbes's death.[13]
   exposing afresh the new-fangled methods of mathematical analysis and
   reasserting his own earlier positions. Accordingly, by the spring of
   1660, he had managed to put his criticism and assertions into five
-  dialogues under the title _Examinatio et emendatio mathematicae
+  [[Dialogue|dialogues]] under the title _Examinatio et emendatio mathematicae
   hodiernae qualis explicatur in libris Johannis Wallisii_, with a sixth
   dialogue so called, consisting almost entirely of seventy or more
-  propositions on the circle and cycloid.[16] Wallis, however, would not
+  propositions on the circle and [[Cycloid|cycloid]].[16] Wallis, however, would not
   take the bait. Hobbes then tried another tack. Next year, having
   solved, as he thought, another ancient _crux_, the duplication of the
   cube, he had his solution brought out anonymously at Paris in French,
   so as to put Wallis and other critics off the scent and extort a
   judgment that might be withheld from a work of his. The artifice was
   successful, and no sooner had Wallis publicly refuted the solution
-  than Hobbes claimed the credit of it, and went more wonderfully than
+  than Hobbes claimed the [[Credit|credit]] of it, and went more wonderfully than
   ever astray in its defence. He presently republished it (in modified
   form), with his remarks, at the end of a new Latin dialogue which he
   had meanwhile written in defence of another part of his philosophical
@@ -644,7 +644,7 @@ _Answer_ was first published after Hobbes's death.[13]
   in direct contravention of the method of physical inquiry enjoined in
   the _De corpore_.[17] All the laborious manipulation recorded in
   Boyle's _New Experiments touching the Spring of the Air_ (1660), which
-  Hobbes chose, without the least warrant, to take as the manifesto of
+  Hobbes [[Chose|chose]], without the least warrant, to take as the manifesto of
   the new "academicians," seemed to him only to confirm the conclusions
   he had reasoned out years before from speculative principles, and he
   warned them that if they were not content to begin where he had left
@@ -659,7 +659,7 @@ _Answer_ was first published after Hobbes's death.[13]
   parliament the king's papers taken at Naseby), whereof he had once
   boasted but after the Restoration could not speak or hear too little.
   The revenge he took was crushing. Professing to be roused by the
-  attack on his friend Boyle, when he had scorned to lift a finger in
+  attack on his friend Boyle, when he had scorned to lift a [[Finger|finger]] in
   defence of himself against the earlier dialogues, he tore them all to
   shreds with an art of which no general description can give an idea.
   He got, however, upon more dangerous ground when, passing wholly by
@@ -685,18 +685,18 @@ _Answer_ was first published after Hobbes's death.[13]
 
   After a time Hobbes took heart again and began a third period of
   controversial activity, which did not end, on his side, till his
-  ninetieth year. Little need be added to the simple catalogue of the
+  ninetieth year. Little need be added to the simple [[Catalogue|catalogue]] of the
   untiring old man's labours in this last stage of his life. The first
   piece, published in 1666, _De principiis et ratiocinatione
   geometrarum_ (_L.W._ iv. 385-484), was designed, as the sub-title
   declared, to lower the pride of geometrical professors by showing that
-  there was no less uncertainty and error in their works than in those
+  there was no less uncertainty and [[Error|error]] in their works than in those
   of physical or ethical writers. Wallis replied shortly in the
   _Philosophical Transactions_ (August 1666). Three years later he
   brought his three great achievements together in compendious form,
   _Quadratura circuli, Cubatio sphaerae, Duplicatio cubi_, and as soon
   as they were once more refuted by Wallis, reprinted them with an
-  answer to the objections, in compliment to the grand-duke of Tuscany,
+  answer to the objections, in compliment to the [[Grand-Duke|grand-duke]] of Tuscany,
   who paid him attentions on a visit to England in 1669 (_L.W._ iv.
   485-522). Wallis, who had promised to leave him alone henceforward,
   refuted him again before the year was out. In 1671 he worked up his
@@ -723,7 +723,7 @@ _Answer_ was first published after Hobbes's death.[13]
   overlooked in the study of his philosophy. His last piece of all,
   _Decameron physiologicum_ (_E.W._ vii. 69-180), in 1678, was a new set
   of dialogues on physical questions, most of which he had treated in a
-  similar fashion before; but now, in dealing with gravitation, he was
+  similar fashion before; but now, in dealing with [[Gravitation|gravitation]], he was
   able to fire a parting shot at Wallis; and one more demonstration of
   the equality of a straight line to the arc of a circle, thrown in at
   the end, appropriately closed the strangest warfare in which perverse
@@ -771,13 +771,13 @@ the Great Plague, roused the superstitious fears of the people, and the
 House of Commons embodied the general feeling in a bill against atheism
 and profaneness. On the 17th of October it was ordered that the
 committee to which the bill was referred "should be empowered to receive
-information touching such books as tend to atheism, blasphemy and
+information touching such books as tend to atheism, [[Blasphemy|blasphemy]] and
 profaneness, or against the essence and attributes of God, and in
 particular the book published in the name of one White,[20] and the book
 of Mr Hobbes called the _Leviathan_, and to report the matter with their
 opinion to the House." Hobbes, then verging upon eighty, was terrified
-at the prospect of being treated as a heretic, and proceeded to burn
-such of his papers as he thought might compromise him. At the same time
+at the prospect of being treated as a heretic, and proceeded to [[Burn|burn]]
+such of his papers as he thought might [[Compromise|compromise]] him. At the same time
 he set himself, with a very characteristic determination, to inquire
 into the actual state of the law of heresy. The results of his
 investigation were first announced in three short Dialogues added (in
@@ -808,7 +808,7 @@ and of the Counsels and Artifices by which they were carried on from the
 year 1640 to the year 1660_.[21] To the same period probably belongs the
 unfinished _Dialogue between a Philosopher and a Student of the Common
 Laws of England_ (_E.W._ vi. 1-160), a trenchant criticism of the
-constitutional theory of English government as upheld by Coke. Aubrey
+constitutional theory of English government as upheld by Coke. [[Aubrey]]
 takes credit for having tried to induce Hobbes to write upon the subject
 in 1664 by presenting him with a copy of Bacon's _Elements of the Laws
 of England_, and though the attempt was then unsuccessful, Hobbes later
@@ -823,11 +823,11 @@ ecclesiastica_ (_L.W._ v. 341-408), with a preface by Thomas Rymer.
 
 For some time Hobbes was not even allowed to utter a word of protest,
 whatever might be the occasion that his enemies took to triumph over
-him. In 1669 an unworthy follower--Daniel Scargil by name, a fellow of
+him. In 1669 an unworthy follower--Daniel Scargil by name, a [[Fellow|fellow]] of
 Corpus Christi College, Cambridge--had to recant publicly and confess
 that his evil life had been the result of Hobbist doctrines. In 1674
 John Fell, the dean of Christ Church, who bore the charges of the Latin
-translation of Anthony Wood's _History and Antiquities of the University
+translation of [[Anthony]] Wood's _History and Antiquities of the University
 of Oxford_ (1670), struck out all the complimentary epithets in the
 account of his life, and substituted very different ones; but this time
 the king did suffer him to defend himself by publishing a dignified
@@ -836,13 +836,13 @@ the translation when it appeared a note full of the grossest insults.
 And, amid all his troubles, Hobbes was not without his consolations. No
 Englishman of that day stood in the same repute abroad, and foreigners,
 noble or learned, who came to England, never forgot to pay their
-respects to the old man, whose vigour and freshness of intellect no
+respects to the old man, whose vigour and freshness of [[Intellect|intellect]] no
 progress of the years seemed able to quench. Among these was the
-grand-duke of Tuscany (Ferdinand II.), who took away some works and a
+grand-duke of Tuscany ([[Ferdinand]] II.), who took away some works and a
 portrait to adorn the Medicean library.
 
 His pastimes in the latest years were as singular as his labours. The
-autobiography in Latin verse, with its playful humour, occasional pathos
+autobiography in Latin verse, with its playful [[Humour|humour]], occasional pathos
 and sublime self-complacency, was thrown off at the age of eighty-four.
 At eighty-five, in the year 1673, he sent forth a translation of four
 books of the _Odyssey_ (ix.-xii.) in rugged but not seldom happily
@@ -883,7 +883,7 @@ in the possession of the Royal Society.
 
 As already suggested, it cannot be allowed that Hobbes falls into any
 regular succession from Bacon; neither can it be said that he handed on
-the torch to Locke. He was the one English thinker of the first rank in
+the torch to [[Locke]]. He was the one English thinker of the first rank in
 the long period of two generations separating Locke from Bacon, but,
 save in the chronological sense, there is no true relation of succession
 among the three. It would be difficult even to prove any ground of
@@ -915,7 +915,7 @@ traced on a variety of lines. Upon every subject that came within the
 sweep of his system, except mathematics and physics, his thoughts have
 been productive of thought. When the first storm of opposition from
 smaller men had begun to die down, thinkers of real weight, beginning
-with Cumberland and Cudworth, were moved by their aversion to his
+with [[Cumberland]] and Cudworth, were moved by their aversion to his
 analysis of the moral nature of man to probe anew the question of the
 natural springs and the rational grounds of human action; and thus it
 may be said that Hobbes gave the first impulse to the whole of that
@@ -926,12 +926,12 @@ of his opponents from recognizing the force of his supreme demonstration
 of the practical irresponsibility of the sovereign power, wherever
 seated, in the state; and, when in a later age the foundations of a
 positive theory of legislation were laid in England, the school of
-Bentham--James Mill, Grote, Molesworth--brought again into general
+Bentham--James Mill, [[Grote]], Molesworth--brought again into general
 notice the writings of the great publicist of the 17th century, who,
 however he might, by the force of temperament, himself prefer the rule
 of one, based his whole political system upon a rational regard to the
 common weal. Finally, the psychology of Hobbes, though too undeveloped
-to guide the thoughts or even perhaps arrest the attention of Locke,
+to guide the thoughts or even perhaps [[Arrest|arrest]] the attention of Locke,
 when essaying the scientific analysis of knowledge, came in course of
 time (chiefly through James Mill) to be connected with the theory of
 associationism developed from within the school of Locke, in different
@@ -939,7 +939,7 @@ ways, by Hartley and Hume; nor is it surprising that the later
 associationists, finding their principle more distinctly formulated in
 the earlier thinker, should sometimes have been betrayed into
 affiliating themselves to Hobbes rather than to Locke. For his ethical
-theories see Ethics.
+theories see [[Ethics]].
 
   Sufficient information is given in the _Vitae Hobbianae auctarium_
   (_L.W._ i. p. lxv. ff.) concerning the frequent early editions of
@@ -947,20 +947,20 @@ theories see Ethics.
   wrote against him, to the end of the 17th century. In the 18th
   century, after Clarke's _Boyle Lectures_ of 1704-1705, the opposition
   was less express. In 1750 _The Moral and Political Works_ were
-  collected, with life, &c., by Dr Campbell, in a folio edition,
+  collected, with life, &c., by Dr Campbell, in a [[Folio|folio]] edition,
   including in order, _Human Nature_, _De corpore politico_,
   _Leviathan_, _Answer to Bramhall's Catching of the Leviathan_,
   _Narration concerning Heresy_, _Of Liberty and Necessity_, _Behemoth_,
   _Dialogue of the Common Laws_, the Introduction to the _Thucydides_,
-  _Letter to Davenant and two others_, the Preface to the _Homer_, _De
+  _Letter to [[Davenant]] and two others_, the Preface to the _[[Homer]]_, _De
   mirabilibus Pecci_ (with English translation), _Considerations on the
   Reputation, &., of T. H._ In 1812 the _Human Nature_ and the _Liberty
   and Necessity_ (with supplementary extracts from the _Questions_ of
   1656) were reprinted in a small edition of 250 copies, with a
-  meritorious memoir (based on Campbell) and dedication to Horne Tooke,
-  by Philip Mallet. Molesworth's edition (1839-1845), dedicated to
+  meritorious memoir (based on Campbell) and dedication to [[Horne]] Tooke,
+  by Philip [[Mallet]]. Molesworth's edition (1839-1845), dedicated to
   Grote, has been referred to in a former note. Of translations may be
-  mentioned _Les Elemens philosophiques du citoyen_ (1649) and _Le Corps
+  mentioned _Les Elemens philosophiques du citoyen_ (1649) and _Le [[Corps]]
   politique_ (1652), both by S. de Sorbiere, conjoined with _Le Traite
   de la nature humaine_, by d'Holbach, in 1787, under the general title
   _Les Oeuvres philosophiques et politiques de Thomas Hobbes_; a
@@ -968,7 +968,7 @@ theories see Ethics.
   corpore_, included by Destutt de Tracy with his _Elemens d'ideologie_
   (1804); a translation of _Leviathan_ into Dutch in 1678, and another
   (anonymous) into German--_Des Englanders Thomas Hobbes Leviathan oder
-  der kirchliche und burgerliche Staat_ (Halle, 1794, 2 vols.); a
+  der kirchliche und burgerliche Staat_ ([[Halle]], 1794, 2 vols.); a
   translation of the _De cive_ by J. H. v. Kirchmann--_T. Hobbes:
   Abhandlung uber den Burger, &c._ (Leipzig, 1873). Important later
   editions are those of Ferdinand Tonnies, _Behemoth_ (1889), on which
@@ -978,7 +978,7 @@ theories see Ethics.
   _Biographical and Critical Works._--There are three accounts of
   Hobbes's life, first published together in 1681, two years after his
   death, by R. B. (Richard Blackbourne, a friend of Hobbes's admirer,
-  John Aubrey), and reprinted, with complimentary verses by Cowley and
+  John Aubrey), and reprinted, with complimentary verses by [[Cowley]] and
   others, at the beginning of Sir W. Molesworth's collection of the
   _Latin Works_: (1) _T. H. Malmesb. vita_ (pp. xiii.-xxi.), written by
   Hobbes himself, or (as also reported) by T. Rymer, at his dictation;
@@ -991,7 +991,7 @@ theories see Ethics.
   some interesting particulars not found in the _Auctarium_. All that is
   of any importance for Hobbes's life is contained in G. Croom
   Robertson's _Hobbes_ (1886) in Blackwood's Philosophical Classics, and
-  Sir Leslie Stephen's _Hobbes_ (1904) in the "English Men of Letters"
+  Sir [[Leslie]] Stephen's _Hobbes_ (1904) in the "English Men of Letters"
   series, both of which deal fully with his philosophy also. See also F.
   Tonnies, _Hobbes Leben und Lehre_ (1896), _Hobbes-Analekten_ (1904
   foll.); G. Zart, _Einfluss der englischen Philosophie seit Bacon auf
@@ -999,8 +999,8 @@ theories see Ethics.
   _Thomas Hobbes: Grundlinien seiner Philosophie_ (1895); G. Lyon, _La
   Philos. de Hobbes_ (1893); J. M. Robertson, _Pioneer Humanists_
   (1907); J. Rickaby, _Free Will and Four English Philosophers_ (1906),
-  pp. 1-72; J. Watson, _Hedonistic Theories_ (1895); W. Graham, _English
-  Political Philosophy from Hobbes to Maine_ (1899); W. J. H. Campion,
+  pp. 1-72; J. Watson, _Hedonistic Theories_ (1895); W. [[Graham]], _English
+  Political Philosophy from Hobbes to [[Maine]]_ (1899); W. J. H. [[Campion]],
   _Outlines of Lectures on Political Science_ (1895).     (G. C. R.; X.)
 
 
@@ -1008,7 +1008,7 @@ FOOTNOTES:
 
   [1] The translation, under the title _Eight Books of the
     Peloponnesian War, written by Thucydides the son of Olorus,
-    interpreted with faith and diligence immediately out of the Greek by
+    interpreted with faith and [[Diligence|diligence]] immediately out of the Greek by
     Thomas Hobbes, secretary to the late Earl of Devonshire_, appeared in
     1628 (or 1629), after the death of the earl, to whom touching
     reference is made in the dedication. It reappeared in 1634, with the
@@ -1016,8 +1016,8 @@ FOOTNOTES:
     Hobbes claims to have performed his work "with much more diligence
     than elegance," his version is remarkable as a piece of English
     writing, but is by no means accurate. It fills vols. viii. and ix. in
-    Molesworth's collection (11 vols., including index vol.) of Hobbes's
-    _English Works_ (London, Bohn, 1839-1845). The volumes of this
+    Molesworth's collection (11 vols., including [[Index|index]] vol.) of Hobbes's
+    _English Works_ (London, [[Bohn]], 1839-1845). The volumes of this
     collection will here be cited as E. W. Molesworth's collection of the
     Latin _Opera philosophica_ (5 vols., 1839-1845) will be cited as
     _L.W._ The five hundred and odd Latin hexameters under the title _De
@@ -1031,8 +1031,8 @@ FOOTNOTES:
   [2] Hobbes, in minor works dealing with physical questions (L.W. iv.
     316; _E.W._ vii. 112), makes two incidental references to Bacon's
     writings, but never mentions Bacon as he mentions Galileo, Kepler,
-    Harvey, and others (_De corpore_, ep. ded.), among the lights of the
-    century. The word "Induction," which occurs in only three or four
+    [[Harvey]], and others (_De corpore_, ep. ded.), among the lights of the
+    century. The word "[[Induction]]," which occurs in only three or four
     passages throughout all his works (and these again minor ones), is
     never used by him with the faintest reminiscence of the import
     assigned to it by Bacon; and, as will be seen, he had nothing but
@@ -1068,7 +1068,7 @@ FOOTNOTES:
     1646.
 
   [7] Described as "nobilis Languedocianus" in _Vit._; doubtless the
-    same with the "Dominus Verdusius, nobilis Aquitanus," to whom was
+    same with the "[[Dominus]] Verdusius, nobilis Aquitanus," to whom was
     dedicated the _Exam. et emend. math. hod._ (_L.W._ iv.) in 1660. Du
     Verdus was one of Hobbes's profoundest admirers and most frequent
     correspondents in later years; there are many of his letters among
@@ -1085,9 +1085,9 @@ FOOTNOTES:
     Davenant's heroic poem, _Gondibert_ (_E.W._ iv. 441-458). The letter
     is dated Jan. 10, 1650 (1650/1).
 
-  [10] This presentation copy, so described by Clarendon (_Survey of
+  [10] This presentation copy, so described by [[Clarendon]] (_Survey of
     the Leviathan_, 1676, p. 8), is doubtless the beautifully written and
-    finely bound MS. now to be found in the British Museum (Egerton MSS.
+    finely bound MS. now to be found in the British Museum ([[Egerton]] MSS.
     1910).
 
   [11] During all the time he was abroad he had continued to receive
@@ -1097,7 +1097,7 @@ FOOTNOTES:
     submission to Parliament, he recovered his estates when they were
     sequestered later on, he did not sit again till 1660. Among Hobbes's
     friends at this time are specially mentioned John Selden and William
-    Harvey, who left him a legacy of L10. According to Aubrey, Selden
+    Harvey, who left him a [[Legacy|legacy]] of L10. According to Aubrey, Selden
     left him an equal bequest, but this seems to be a mistake. Harvey
     (not Bacon) is the only Englishman he mentions in the dedicatory
     epistle prefixed to the _De corpore_, among the founders, before
@@ -1109,7 +1109,7 @@ FOOTNOTES:
 
   [13] "The _Vit. auct._ refers to 1676, a 'Letter to William duke of
     Newcastle on the Controversy about Liberty and Necessity, held with
-    Benjamin Laney, bishop of Ely.' In that year there did appear a
+    [[Benjamin]] Laney, bishop of [[Ely]].' In that year there did appear a
     (confused) little tract written by Laney against Hobbes's concluding
     statement of his own 'Opinion' in the 'Liberty and Necessity' of 1654
     (1646), but I can find no trace of any further writing by Hobbes on
@@ -1160,7 +1160,7 @@ FOOTNOTES:
     works (1693-1697), and have become extremely rare.
 
   [20] The De medio animarum statu of Thomas White, a heterodox
-    Catholic priest, who contested the natural immortality of the soul.
+    Catholic priest, who contested the natural [[Immortality|immortality]] of the soul.
     White (who died 1676) and Hobbes were friends.
 
   [21] _E.W._ vi. 161-418. Though _Behemoth_ was kept back at the

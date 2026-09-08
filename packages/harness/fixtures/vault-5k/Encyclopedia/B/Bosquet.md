@@ -5,7 +5,7 @@ artillery in 1833, and a year later went to Algeria. Here he soon did
 good service, and made himself remarkable not only for technical skill
 but the moral qualities indispensable for high command. Becoming captain
 in 1839, he greatly distinguished himself at the actions of Sidi-Lakhdar
-and Oued-Melah. He was soon afterwards given the command of a battalion
+and Oued-Melah. He was soon afterwards given the command of a [[Battalion|battalion]]
 of native _tirailleurs_, and in 1843 was thanked in general orders for
 his brilliant work against the Flittahs. In 1845 he became
 lieutenant-colonel, and in 1847 colonel of a French line regiment. In
@@ -40,12 +40,12 @@ geology a projection of rock through strata of another species; in
 architecture, the projecting keystone of the ribs of a vault which masks
 their junction; the term is also applied to similar projecting blocks at
 every intersection. The boss was often richly carved, generally with
-conventional foliage but sometimes with angels, animals or grotesque
-figures. The boss was also employed in the flat timber ceilings of the
+conventional foliage but sometimes with angels, animals or [[Grotesque|grotesque]]
+figures. The boss was also employed in the flat timber [[Ceiling|ceilings]] of the
 15th century, where it formed the junction of cross-ribs. (2) (From the
 Dutch _baas_, a word used by the Dutch settlers in New York for
-"master," and so generally used by the Kaffirs in South Africa;
-connected with the Ger. _Base_, cousin, meaning a "chief kinsman," the
+"master," and so generally used by the [[Kaffirs]] in South Africa;
+connected with the Ger. _Base_, [[Cousin|cousin]], meaning a "chief kinsman," the
 head of a household or family), a colloquial term, first used in
 America, for an employer, a foreman, and generally any one who gives
 orders, especially in American political slang for the manager of a

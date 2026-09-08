@@ -10,7 +10,7 @@ type: note
 BURGONET, or BURGANET (from Fr. _bourguignote_, Burgundian helmet), a form
 of light helmet or head-piece, which was in vogue in the 16th and 17th
 centuries. In its normal form the burgonet was a large roomy cap with a
-brim shading the eyes, cheek-pieces or flaps, a comb, and a guard for the
+brim shading the eyes, cheek-pieces or flaps, a [[Comb|comb]], and a guard for the
 back of the neck. In many cases a vizor, or other face protection, and a
 chin-piece are found in addition, so that this piece of armour is sometimes
 mistaken for an armet (_q.v._), but it can always be distinguished by the

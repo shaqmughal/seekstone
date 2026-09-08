@@ -17,7 +17,7 @@ eremitical and to run to great extravagances in the matter of bodily
 austerities (see MONASTICISM). When (_c._ 360) Basil formed his monastery
 in the neighbourhood of Neocaesarea in Pontus, he deliberately set himself
 against these tendencies. He declared that the cenobitical life is superior
-to the eremitical; that fasting and austerities should not interfere with
+to the eremitical; that [[Fasting|fasting]] and austerities should not interfere with
 prayer or work; that work should form an integral part of the monastic
 life, not merely as an occupation, but for its own sake and in order to do
 good to others; and therefore that monasteries should be near towns. All
@@ -36,10 +36,10 @@ educated in the monastery, but were not expected to become monks.
 
 St Basil's influence, and the greater suitability of his institute to
 European ideas, ensured the propagation of Basilian monachism; and Sozomen
-says that in Cappadocia and the neighbouring provinces there were no
+says that in [[Cappadocia]] and the neighbouring provinces there were no
 hermits but only cenobites. However, the eastern hankering after the
 eremitical life long survived, and it was only by dint of legislation, both
-ecclesiastical (council of Chalcedon) and civil (Justinian Code), that the
+ecclesiastical (council of Chalcedon) and civil (Justinian [[Code]]), that the
 Basilian cenobitic form of monasticism came to prevail throughout the
 Greek-speaking lands, though the eremitical forms have always maintained
 themselves.
@@ -72,7 +72,7 @@ was divided between reading and work; the latter included the chief
 handicrafts, for the monks, only ten in number, when Theodore became abbot,
 increased under his rule to over a thousand. One kind of work practised
 with great zeal and success by the Studite monks, was the copying of
-manuscripts, so that to them and to the schools that went forth from them
+[[Manuscript|manuscripts]], so that to them and to the schools that went forth from them
 we owe a great number of existing Greek MSS. and the preservation of many
 works of classical and ecclesiastical antiquity. In addition to this,
 literary and theological studies were pursued, and the mysticism of
@@ -90,8 +90,8 @@ council of Chalcedon (451). The picture of Studite life is the picture of
 normal Greek and Slavonic monachism to this day.
 
 During the middle ages the centre of Greek monachism shifted from
-Constantinople to Mount Athos. The first monastery to be founded here was
-that of St Athanasius (_c._ 960), and in the course of the next three or
+Constantinople to Mount [[Athos]]. The first monastery to be founded here was
+that of St [[Athanasius]] (_c._ 960), and in the course of the next three or
 four centuries monasteries in great numbers--Greek, Slavonic and one
 Latin--were established on Mount Athos, some twenty of which still survive.
 
@@ -102,18 +102,18 @@ refers his monks to "the Rule of our holy Father Basil,"--indeed St
 Benedict owed more of the ground-ideas of his Rule to St Basil than to any
 other monastic legislator. In the 6th and 7th centuries there appear to
 have been Greek monasteries in Rome and south Italy and especially in
-Sicily. But during the course of the 8th, 9th and 10th centuries crowds of
+Sicily. But during the course of the 8th, 9th and 10th centuries [[Crowd|crowds]] of
 fugitives poured into southern Italy from Greece and Sicily, under stress
 of the Saracenic, Arab and other invasions; and from the middle of the 9th
 century Basilian monasteries, peopled by Greek-speaking monks, were
-established in great numbers in Calabria and spread northwards as far as
+established in great numbers in [[Calabria]] and spread northwards as far as
 Rome. Some of them existed on into the 18th century, but the only survivor
-now is the monastery founded by St Nilus (_c._ 1000) at Grottaferrata in
+now is the monastery founded by St Nilus (_c._ 1000) at [[Grottaferrata]] in
 the Alban Hills. Professor Kirsopp Lake has (1903) written four valuable
 articles (_Journal of Theological Studies_, iv., v.) on "The Greek
 monasteries of South Italy"; he deals in detail with their scriptoria and
 the dispersal of their libraries, a matter of much interest, in that some
-of the chief collections of Greek MSS. in western Europe--as the Bessarion
+of the chief collections of Greek MSS. in western Europe--as the [[Bessarion]]
 at Venice and a great number at the Vatican--come from the spoils of these
 Italian Basilian houses.
 
@@ -138,10 +138,10 @@ and to Mount Athos--has directed much attention to contemporary Greek
 monachism, and the accounts of these expeditions commonly contain
 descriptions, more or less sympathetic and intelligent, of the present-day
 life of Greek monks. The first such account was Robert Curzon's in parts
-iii. (1834) and iv. (1837) of the _Monasteries of the Levant_; the most
+iii. (1834) and iv. (1837) of the _Monasteries of the [[Levant]]_; the most
 recent in English is Athelstan Riley's _Athos_ (1887). The life is mainly
 given up to devotional contemplative exercises; the church services are of
-extreme length; intellectual study is little cultivated; manual labour has
+extreme length; intellectual study is little cultivated; [[Manual|manual]] labour has
 almost disappeared; there are many hermits on Athos (_q.v._).
 
 The ecclesiastical importance of the monks in the various branches of the
@@ -153,7 +153,7 @@ monastic ideals (see Harnack, _What is Christianity?_ Lect. xiii., end).
 
 Outside the Orthodox Church are some small congregations of Uniat
 Basilians. Besides Grottaferrata, there are Catholic Basilian monasteries
-in Poland, Hungary, Galicia, Rumania; and among the Melchites or Uniat
+in Poland, Hungary, [[Galicia]], Rumania; and among the Melchites or Uniat
 Syrians.
 
 There have been Basilian nuns from the beginning, St Macrina, St Basil's
@@ -169,7 +169,7 @@ ii., and the chapter on St Basil in James O. Hannay's _Spirit and Origin of
 Christian Monasticism_ (1903). On the history and spirit of Basilian
 Monachism, Helyot, _Hist. des Ordres Religieux_, i. (1714); Heimbucher,
 _Orden und Kongregationen_ (1907), i., § 11; Abbé Marin, _Les Moines de
-Constantinople_ (1897); Karl Holl, _Enthusiasmus und Bussgewalt beim
+Constantinople_ (1897); Karl [[Holl]], _Enthusiasmus und Bussgewalt beim
 griechischen Mönchtum_ (1898); Otto Zöckler, _Askese und Mönchtum_, pp.
 285-309 (1897). For general information see Wetzer und Welte,
 _Kirchenlexicon_ (ed. ii.), art. "Basilianer," and Herzog-Hauck,

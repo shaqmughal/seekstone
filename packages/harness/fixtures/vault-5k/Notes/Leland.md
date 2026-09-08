@@ -5,14 +5,14 @@ was born in London on the 13th of September, probably in 1506. He owed
 his education at St Paul's school under William Lilly, and at Christ's
 College, Cambridge, to the kindness of a patron, Thomas Myles. He
 graduated at Cambridge in 1521, and subsequently studied at All Souls
-College, Oxford, and in Paris under François Dubois (Sylvius). On his
+College, Oxford, and in Paris under François [[Dubois]] (Sylvius). On his
 return to England he took holy orders. He had been tutor to Lord Thomas
-Howard, son of the 3rd duke of Norfolk, and to Francis Hastings,
+[[Howard]], son of the 3rd duke of Norfolk, and to Francis [[Hastings]],
 afterwards earl of Huntingdon. Meanwhile his learning had recommended
 him to Henry VIII., who presented him to the rectory of Peuplingues in
-the marches of Calais in 1530. He was already librarian and chaplain to
+the marches of Calais in 1530. He was already librarian and [[Chaplain|chaplain]] to
 the king, and in 1533 he received a novel commission under the great
-seal as king's antiquary, with power to search for records, manuscripts
+seal as king's antiquary, with power to search for records, [[Manuscript|manuscripts]]
 and relics of antiquity in all the cathedrals, colleges and religious
 houses of England. Probably from 1534, and definitely from 1536 onwards
 to 1542, he was engaged on an antiquarian tour through England and
@@ -20,7 +20,7 @@ Wales. He sought to preserve the MSS. scattered at the dissolution of
 the monasteries, but his powers did not extend to the actual collection
 of MSS. Some valuable additions, however, he did procure for the king's
 library, chiefly from the abbey of St Augustine at Canterbury. He had
-received a special dispensation permitting him to absent himself from
+received a special [[Dispensation|dispensation]] permitting him to absent himself from
 his rectory of Peuplingues in 1536, and on his return from his itinerary
 he received the rectory of Haseley in Oxfordshire; his support of the
 church policy of Henry and Cranmer being further rewarded by a canonry

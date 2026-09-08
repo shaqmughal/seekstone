@@ -14,13 +14,13 @@ The offence of naval or military desertion is constituted when a man
 absents himself with the intention either of not returning or of
 escaping some important service, such as embarkation for foreign
 service, or service in aid of the civil power. In the United Kingdom
-desertion has always been recognized by the civil law, and until 1827 (7
+desertion has always been recognized by the [[Civil Law|civil law]], and until 1827 (7
 & 8 Geo. IV. c. 28) was a felony punishable by death. It was
 subsequently dealt with by the various Mutiny Acts, which were replaced
 by the Army Act 1881, renewed annually by the Army (Annual) Act. By § 12
-of the act every person subject to military law who deserts or attempts
+of the act every person subject to military law who [[Desert|deserts]] or attempts
 to desert, or who persuades or procures any person to desert, shall, on
-conviction by court martial, if he committed the offence when on active
+conviction by court [[Martial|martial]], if he committed the offence when on active
 service or under orders for active service, be liable to suffer death,
 or such less punishment as is mentioned in the act. When the offence is
 committed under any other circumstances, the punishment for the first
@@ -30,9 +30,9 @@ contains a scale of punishments, and §§ 175-184 an enumeration of
 persons subject to military law. By § 153 any person who persuades a
 soldier to desert or aids or assists him or conceals him is liable, on
 conviction, to be imprisoned, with or without hard labour, for not more
-than six months. § 154 makes provision for the apprehension of
+than six months. § 154 makes provision for the [[Apprehension|apprehension]] of
 deserters. § 161 lays down that where a soldier has served continuously
-in an exemplary manner for not less than three years in any corps of
+in an exemplary manner for not less than three years in any [[Corps|corps]] of
 regular forces he is not to be tried or punished for desertion which has
 occurred before the commencement of the three years. Desertion from the
 regular forces can only be tried by a military court, but in the case of
@@ -42,7 +42,7 @@ desertion, as defined at the commencement of this article, and the
 quitting one regiment in order to enlist in another. This offence is now
 separately dealt with as fraudulent enlistment; formerly, it was termed
 "desertion and fraudulent enlistment," and the statistics of desertion
-proper were consequently and erroneously magnified. The gross total of
+proper were consequently and erroneously magnified. The [[Gross|gross]] total of
 desertions in the British Army in an average year (1903-1904) was nearly
 4000, or 1.4% of the average strength of the army, but owing to men
 rejoining from desertion, fraudulent enlistment, &c., the net loss was
@@ -67,7 +67,7 @@ for dealing with desertions from the navy. In the United States navy the
 term "straggling" is applied to absence without leave, where the
 probability is that the person does not intend to desert. The United
 States government offers a monetary reward of between $20 and $30 for
-the arrest and delivery of deserters from the army and navy.
+the [[Arrest|arrest]] and delivery of deserters from the army and navy.
 
 In the British merchant service the offence of desertion is defined as
 the abandonment of duty by quitting the ship before the termination of
@@ -76,12 +76,12 @@ returning.
 
 Desertion is also the term applied to the act by which a man abandons
 his wife and children, or either of them. Desertion of a wife is a
-matrimonial offence; under the Matrimonial Causes Act 1857, a decree of
+matrimonial offence; under the Matrimonial Causes Act 1857, a [[Decree|decree]] of
 judicial separation may be obtained in England by either husband or wife
 on the ground of desertion, without cause, for two years and upwards
 (see also DIVORCE).
 
-For the desertion of children see CHILDREN, LAW RELATING TO; INFANT.
+For the desertion of children see CHILDREN, LAW RELATING TO; [[Infant|INFANT]].
                                                              (T. A. I.)
 
 ## See also

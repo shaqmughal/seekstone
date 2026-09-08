@@ -7,7 +7,7 @@ topic: biology
 # Involution
 
 INVOLUTION (Lat. _involvere_, to roll up), a rolling up or complication.
-In arithmetic, involution is the operation of raising a quantity to any
+In [[Arithmetic|arithmetic]], involution is the operation of raising a quantity to any
 power; it is the converse of evolution, which is the operation of
 extracting any root of a quantity (see ARITHMETIC; ALGEBRA). In
 geometry, an involution is a one-to-one correspondence between two

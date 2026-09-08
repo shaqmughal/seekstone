@@ -9,7 +9,7 @@ id: 42-8667
 
 DYNAMOMETER (Gr. [Greek: dynamis], strength, and [Greek: metron], a
 measure), an instrument for measuring force exerted by men, animals and
-machines. The name has been applied generally to all kinds of
+[[Machine|machines]]. The name has been applied generally to all kinds of
 instruments used in the measurement of a force, as for example electric
 dynamometers, but the term specially denotes apparatus used in connexion
 with the measurement of work, or in the measurement of the horse-power
@@ -69,9 +69,9 @@ transmitted, after measurement, for use.
   which it works, and this is expressed by T[omega] = T2[pi]N/60 in
   foot-pounds per second, or T2[pi]N/33,000 in horse-power units. The
   latter is commonly referred to as the "brake horse-power." The
-  maintenance of the conditions of steadiness implied in equation (1)
+  [[Maintenance|maintenance]] of the conditions of steadiness implied in [[Equation|equation]] (1)
   depends upon the constancy of F, and therefore of the coefficient of
-  friction  mu between the rubbing surfaces. The heating at the surfaces,
+  [[Friction|friction]]  mu between the rubbing surfaces. The heating at the surfaces,
   the variations in their smoothness, and the variations of the
   lubrication make [mu] continuously variable, and necessitate frequent
   adjustment of W or of the nuts. J.V. Poncelet (1788-1867) invented a
@@ -93,10 +93,10 @@ transmitted, after measurement, for use.
 
   [Illustration: FIG. 1.]
 
-  Lord Kelvin patented a brake in 1858 (fig. 2) consisting of a rope or
+  Lord [[Kelvin]] patented a brake in 1858 (fig. 2) consisting of a rope or
   cord wrapped round the circumference of a rotating wheel, to one end
   of which is applied a regulated force, the other end being fixed to a
-  spring balance. The ropes are spaced laterally by the blocks B, B, B,
+  spring [[Balance|balance]]. The ropes are spaced laterally by the blocks B, B, B,
   B, which also serve to prevent them from slipping sideways. When the
   wheel is turning in the direction indicated, the forces holding the
   band still are W, and p, the observed pull on the spring balance. Both
@@ -116,7 +116,7 @@ transmitted, after measurement, for use.
   fig. 2 [theta] = 2[pi]. The ratio W/p increases very rapidly as
   [theta] is increased, and therefore, by making [theta] sufficiently
   large, p may conveniently be made a small fraction of W, thereby
-  rendering errors of observation of the spring balance negligible. Thus
+  rendering [[Error|errors]] of observation of the spring balance negligible. Thus
   this kind of brake, though cheap to make, is, when [theta] is large
   enough, an exceedingly accurate measuring instrument, readily applied
   and easily controlled. It has come into very general use in recent
@@ -132,25 +132,25 @@ transmitted, after measurement, for use.
 
   Fig. 3 shows a band-brake invented by Professor James Thomson,
   suitable for testing motors exerting a constant torque (see
-  _Engineering_, 22nd October 1880). To maintain e^{ mu[theta]} constant,
+  _[[Engineering]]_, 22nd October 1880). To maintain e^{ mu[theta]} constant,
   compensation for variation of [mu] is made by inversely varying
-  [theta]. A and B are fast and loose pulleys, and the brake band is
+  [theta]. A and B are [[Fast And Loose|fast and loose]] pulleys, and the brake band is
   placed partly over the one and partly over the other. Weights W and w
   are adjusted to the torque. The band turns with the fast pulley if
   [mu] increase, thereby slightly turning the loose pulley, otherwise at
   rest, until [theta] is adjusted to the new value of [mu]. This form of
   brake was also invented independently by J.A.M.L. Carpentier, and the
   principle has been used in the Raffard brake. A self-compensating
-  brake of another kind, by Marcel Deprez, was described with
+  brake of another kind, by [[Marcel]] Deprez, was described with
   Carpentier's in 1880 (_Bulletin de la societe d'encouragement_,
-  Paris). W.E. Ayrton and J. Perry used a band or rope brake in which
+  Paris). W.E. [[Ayrton]] and J. Perry used a band or rope brake in which
   compensation is effected by the pulley drawing in or letting out a
-  part of the band or rope which has been roughened or in which a knot
+  part of the band or rope which has been roughened or in which a [[Knot|knot]]
   has been tied.
 
   In an effective water-brake invented by W. Froude (see _Proc. Inst. M.
   E._ 1877), two similar castings, A and B, each consisting of a boss
-  and circumferential annular channel, are placed face to face on a
+  and circumferential [[Annular|annular]] channel, are placed face to face on a
   shaft, to which B is keyed, A being free (fig. 4). A ring tube of
   elliptical section is thus formed. Each channel is divided into a
   series of pockets by equally spaced vanes inclined at 45 deg.. When A is
@@ -189,7 +189,7 @@ transmitted, after measurement, for use.
   the atmosphere. From {1/5} to 30 H.P. may be measured at 100 revs. per
   min. by a brake-wheel of this kind 18 in. in diameter. For other
   speeds the power varies as the cube of the speed. The casing is held
-  from turning by weights hanging on an attached arm. The cocks
+  from turning by weights [[Hanging|hanging]] on an attached arm. The [[Cock|cocks]]
   regulating the water are connected to the casing, so that any tilting
   automatically regulates the flow, and therefore the thickness of the
   film in the vortex. In this way the brake may be arranged to maintain
@@ -219,7 +219,7 @@ transmitted, after measurement, for use.
   by J.V. Poncelet, from which the work done during a given displacement
   could be read off directly. This device consists of a roller of radius
   r, pressed into contact with a disk. The two are carried on a common
-  frame, so arranged that a change in form of the spring causes a
+  [[Frame|frame]], so arranged that a change in form of the spring causes a
   relative displacement of the disk and roller, the point of contact
   moving radially from or towards the centre of the disk. The radial
   distance x is at any instant proportional to the force acting through
@@ -246,22 +246,22 @@ transmitted, after measurement, for use.
   two flat bars linked at their ends. Their centres s1, s2, are held
   respectively by the pieces A, B, which together form a sliding pair.
   The block A carries the disk D, B carries the roller R and counting
-  gear. The pulley E is driven from an axle of the carriage. In a
+  gear. The pulley E is driven from an [[Axle|axle]] of the carriage. In a
   dynamometer used by F.W. Webb to measure the tractive resistance of
   trains on the London & North-Western railway, a tractive pull or push
   compresses two spiral springs by a definite amount, which is recorded
   to scale by a pencil on a sheet of paper, drawn continuously from a
-  storage drum at the rate of 3 in. per mile, by a roller driven from
+  storage [[Drum|drum]] at the rate of 3 in. per mile, by a roller driven from
   one of the carriage axles. Thus the diagram shows the tractive force
   at any instant. A second pencil electrically connected to a clock
   traces a time line on the diagram with a kick at every thirty seconds.
   A third pencil traces an observation line in which a kick can be made
   at will by pressing any one of the electrical pushes placed about the
-  car, and a fourth draws a datum line. The spring of the dynamometer
+  [[Car|car]], and a fourth draws a datum line. The spring of the dynamometer
   car used by W. Dean on the Great Western railway is made up of thirty
   flat plates, 7 ft. 6 in. long, 5 in. x 5/8 in. at the centre, spaced
   by distance pieces nibbed into the plates at the centre and by rollers
-  at the ends. The draw-bar is connected to the buckle, which is carried
+  at the ends. The draw-bar is connected to the [[Buckle|buckle]], which is carried
   on rollers, the ends of the spring resting on plates fixed to the
   under-frame. The gear operating the paper roll is driven from the axle
   of an independent wheel which is let down into contact with the rail
@@ -280,7 +280,7 @@ transmitted, after measurement, for use.
   proportional to the radius of the circle described by the end of a
   light lever operated by mechanism between the spring-connected parts.
   By a device used by W.E. Dalby (_Proc. Inst. C.E._ 1897-1898, p. 132)
-  the change in form of the spring is shown on a fixed indicator, which
+  the change in form of the spring is shown on a fixed [[Indicator|indicator]], which
   may be placed in any convenient position. Two equal sprocket wheels
   Q1, Q2, are fastened, the one to the spring pulley, the other to the
   shaft. An endless band is placed over them to form two loops, which
@@ -290,7 +290,7 @@ transmitted, after measurement, for use.
   the change in the torque transmitted from the shaft to the pulley. To
   measure this, guide pulleys are placed in the loops guided by a
   geometric slide, the one pulley carrying a scale, and the other an
-  index. A recording drum or integrating apparatus may be arranged on
+  [[Index|index]]. A recording drum or integrating apparatus may be arranged on
   the pulley frames. A quick variation, or a periodic variation of the
   magnitude of the force or torque transmitted through the springs,
   tends to set up oscillations, and this tendency increases the nearer
@@ -340,7 +340,7 @@ transmitted, after measurement, for use.
   proportionally to the angular displacement of the driving pulley; thus
   a work diagram is obtained. In the Farcot form the guide pulleys are
   attached to separate weighing levers placed horizontally below the
-  apparatus. In a belt dynamometer built for the Franklin Institute from
+  apparatus. In a belt dynamometer built for the [[Franklin]] Institute from
   the designs of Tatham, the weighing levers are separate and arranged
   horizontally at the top of the apparatus. The weighing beam in the
   Hefner-Alteneck dynamometer is placed transversely to the belt (see
@@ -356,7 +356,7 @@ transmitted, after measurement, for use.
   Century of Inventions_ (Manchester, 1822), illustrates possibly the
   earliest application of this principle to dynamometry. The wheel D,
   keyed to the shaft overcoming the resistance to be measured, is driven
-  from wheel N by two bevel wheels L, L, carried in a loose pulley K.
+  from wheel N by two [[Bevel|bevel]] wheels L, L, carried in a loose pulley K.
   The two shafts, though in a line, are independent. A torque applied to
   the shaft A can be transmitted to D, neglecting friction, without
   change only if the central pulley K is held from turning; the torque
@@ -364,7 +364,7 @@ transmitted, after measurement, for use.
 
   [Illustration: FIG. 9.]
 
-  The torque acting on the armature of an electric motor is necessarily
+  The torque acting on the [[Armature|armature]] of an electric motor is necessarily
   accompanied by an equal and opposite torque acting on the frame. If,
   therefore, the motor is mounted on a cradle free to turn about
   knife-edges, the reacting torque is the only torque tending to turn
@@ -374,7 +374,7 @@ transmitted, after measurement, for use.
   T2[pi]n/550 H.P., where n is the revolutions per second of the
   armature.
 
-  See James Dredge, _Electric Illumination_, vol. ii. (London, 1885);
+  See James Dredge, _Electric [[Illumination]]_, vol. ii. (London, 1885);
   W.W. Beaumont, "Dynamometers and Friction Brakes," _Proc. Inst. C.E._
   vol. xcv. (London, 1889); E. Brauer, "Ueber Bremsdynamometer and
   verwandte Kraftmesser," _Zeitschrift des Vereins deutscher Ingenieure_

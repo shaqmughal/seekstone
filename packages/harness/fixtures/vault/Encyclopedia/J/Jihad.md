@@ -40,7 +40,7 @@ from the pope, in virtue of which he took possession of the
 archpriestship of Uzeda in the diocese of Toledo in 1473. Carillo,
 archbishop of Toledo, opposed him, and on his obstinate refusal to give
 way threw him into prison. For six years Jimenes held out, and at length
-in 1480 Carillo restored him to his benefice. This Jimenes exchanged
+in 1480 Carillo restored him to his [[Benefice|benefice]]. This Jimenes exchanged
 almost at once for a chaplaincy at Siguenza, under Cardinal Mendoza,
 bishop of Siguenza, who shortly appointed him vicar-general of his
 diocese. In that position Jimenes won golden opinions from ecclesiastic
@@ -48,16 +48,16 @@ and layman; and he seemed to be on the sure road to distinction among
 the secular clergy, when he abruptly resolved to become a monk. Throwing
 up all his benefices, and changing his baptismal name Gonzales for that
 of Francisco, he entered the Franciscan monastery of San Juan de los
-Reyes, recently founded by Ferdinand and Isabella at Toledo. Not content
+Reyes, recently founded by [[Ferdinand]] and [[Isabella]] at Toledo. Not content
 with the ordinary severities of the noviciate, he added voluntary
 austerities. He slept on the bare ground, wore a hair-shirt, doubled his
 fasts, and scourged himself with much fervour; indeed throughout his
 whole life, even when at the acme of his greatness, his private life was
-most rigorously ascetic. The report of his sanctity brought crowds to
+most rigorously ascetic. The report of his sanctity brought [[Crowd|crowds]] to
 confess to him; but from them he retired to the lonely monastery of Our
 Lady of Castañar; and he even built with his own hands a rude hut in the
 neighbouring woods, in which he lived at times as an anchorite. He was
-afterwards guardian of a monastery at Salzeda. Meanwhile Mendoza (now
+afterwards [[Guardian|guardian]] of a monastery at Salzeda. Meanwhile Mendoza (now
 archbishop of Toledo) had not forgotten him; and in 1492 he recommended
 him to Isabella as her confessor. The queen sent for Jimenes, was
 pleased with him, and to his great reluctance forced the office upon
@@ -73,7 +73,7 @@ Toledo. The general of the order himself came from Rome to interfere
 with the archbishop's measures of reform, but the stern inflexibility of
 Jimenes, backed by the influence of the queen, subdued every obstacle.
 Cardinal Mendoza had died in 1495, and Isabella had secretly procured a
-papal bull nominating her confessor to his diocese of Toledo, the
+papal [[Bull|bull]] nominating her confessor to his diocese of Toledo, the
 richest and most powerful in Spain, second perhaps to no other dignity
 of the Roman Church save the papacy. Long and sincerely Jimenes strove
 to evade the honour; but his _nolo episcopari_ was after six months
@@ -103,14 +103,14 @@ required all the tact of Jimenes to bring about a friendly interview
 between the princes. Ferdinand finally retired from Castile; and, though
 Jimenes remained, his political weight was less than before. The sudden
 death of Philip in September 1506 quite overset the already tottering
-intellect of his wife; his son and heir Charles was still a child; and
+[[Intellect|intellect]] of his wife; his son and [[Heir|heir]] Charles was still a child; and
 Ferdinand was at Naples. The nobles of Castile, mutually jealous, agreed
 to entrust affairs to the archbishop of Toledo, who, moved more by
 patriotic regard for his country's welfare than by special friendship
 for Ferdinand, strove to establish the final influence of that king in
 Castile. Ferdinand did not return till August 1507; and he brought a
 cardinal's hat for Jimenes. Shortly afterwards the new cardinal of Spain
-was appointed grand inquisitor-general for Castile and Leon.
+was appointed grand inquisitor-general for Castile and [[Leon]].
 
 The next great event in the cardinal's life was the expedition against
 the Moorish city of Oran in the north of Africa, in which his religious
@@ -158,7 +158,7 @@ was in theological or scholastic discussion. Perhaps one of the most
 noteworthy points about the cardinal is the advanced period of life at
 which he entered upon the stage where he was to play such leading parts.
 Whether his abrupt change from the secular to the regular clergy was the
-fervid outcome of religious enthusiasm or the far-seeing move of a wily
+fervid outcome of religious [[Enthusiasm|enthusiasm]] or the far-seeing move of a wily
 schemer has been disputed; but the constant austerity of his life, his
 unvarying superiority to small personal aims, are arguments for the
 former alternative that are not to be met by merely pointing to the
@@ -177,9 +177,9 @@ actual honours and power he at last attained.
   Alcalá (in Latin _Complutum_) of the Complutensian Polyglott, the
   first edition of the Christian Scriptures in the original text. In
   this work, on which he is said to have expended half a million of
-  ducats, the cardinal was aided by the celebrated Stunica (D. Lopez de
+  [[Ducat|ducats]], the cardinal was aided by the celebrated Stunica (D. Lopez de
   Zuñiga), the Greek scholar Nuñez de Guzman (Pincianus), the Hebraist
-  Vergara, and the humanist Nebrija, by a Cretan Greek Demetrius Ducas,
+  Vergara, and the humanist Nebrija, by a Cretan Greek [[Demetrius]] [[Ducas]],
   and by three Jewish converts, of whom Zamora edited the Targum to the
   Pentateuch. The other Targums are not included. In the Old Testament
   Jerome's version stands between the Greek and Hebrew. The synagogue
@@ -188,17 +188,17 @@ actual honours and power he at last attained.
   Church) in the midst. The text occupies five volumes, and a sixth
   contains a Hebrew lexicon, &c. The work commenced in 1502. The New
   Testament was finished in January 1514, and the whole in April 1517.
-  It was dedicated to Leo X., and was reprinted in 1572 by the Antwerp
-  firm of Plantin, after revision by Benito Arias Montano at the expense
+  It was dedicated to Leo X., and was reprinted in 1572 by the [[Antwerp]]
+  firm of Plantin, after revision by Benito [[Arias Montano]] at the expense
   of Philip II. The second edition is known as the _Biblia Regia_ or
   _Filipina_.
 
   The work by Alvaro Gomez de Castro, _De Rebus Gestis Francisci
-  Ximenii_ (folio, 1659, Alcalá), is the quarry whence have come the
+  Ximenii_ ([[Folio|folio]], 1659, Alcalá), is the quarry whence have come the
   materials for biographies of Jimenes--in Spanish by Robles (1604) and
   Quintanilla (1633); in French by Baudier (1635), Marsollier (1684),
-  Flèchier (1694) and Richard (1704); in German by Hefele (1844,
-  translated into English by Canon Dalton, 1860) and Havemann (1848);
+  Flèchier (1694) and Richard (1704); in German by [[Hefele]] (1844,
+  translated into English by Canon [[Dalton]], 1860) and Havemann (1848);
   and in English by Barrett (1813). See also Prescott's _Ferdinand and
   Isabella_; _Revue des Deux Mondes_ (May 1841) and _Mém. de l'Acad.
   d'hist. de Madrid_, vol. iv.

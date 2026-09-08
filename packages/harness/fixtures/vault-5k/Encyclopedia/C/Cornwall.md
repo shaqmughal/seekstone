@@ -8,9 +8,9 @@ type: source
 # Cornwall
 
 CORNWALL, the south-westernmost county of England, bounded N. and N.W.
-by the Atlantic Ocean, E. by Devonshire, and S. and S.W. by the English
+by the [[Atlantic Ocean]], E. by Devonshire, and S. and S.W. by the English
 Channel. The area is 1356.6 sq. m. The most southerly extension is
-Lizard Point, and the most westerly point of the mainland Land's End,
+[[Lizard Point]], and the most westerly point of the mainland [[Land'S End|Land's End]],
 but the county also includes the Scilly Isles (q.v.), lying 25 m. W. by
 S. of Land's End. No county in England has a stronger individuality than
 Cornwall, whether in economic or social conditions, in history,
@@ -26,27 +26,27 @@ Devonshire, of 45 m. The river Tamar here forms the greater part of the
 boundary, and its valley divides the high moors of Devonshire and the
 succession of similar broad-topped hills which form the backbone of the
 Cornish promontory. The scenery is full of contrast. To the west of
-Launceston the principal mass of high land rises to 1375 ft. in Brown
+[[Launceston]] the principal mass of high land rises to 1375 ft. in Brown
 Willy, the highest point in the county. This district is broken and
-picturesque, with rough _tors_ or hills and boulders. A remarkable pile
+picturesque, with rough _tors_ or hills and [[Boulder|boulders]]. A remarkable pile
 of rocks called the Cheese-wring, somewhat resembling an inverted
 pyramid in form, is seen on the moor north of Liskeard. This district is
 for the most part a region of furze and heather; but after passing
-Bodmin, the true Cornish moorland asserts itself, bare, desolate and
+[[Bodmin]], the true Cornish moorland asserts itself, bare, desolate and
 impracticable, broken and dug into hillocks, which are sometimes due to
 early mining works, sometimes to more modern search for metals. The
 seventy miles from Launceston to Mount's Bay have been called not
 untruly "the dreariest strip of earth traversed by any English high
 road." There is hardly more cultivation on the higher ground west of
 Mount's Bay, or in the Meneage or "rocky country," the old Cornish name
-for the promontory which ends in the Lizard. Long combes and valleys,
+for the promontory which ends in the Lizard. Long [[Combes|combes]] and valleys,
 however, descend from this upper moorland towards the coast on both
 sides. These are in general well wooded, and, in the luxuriance of their
 vegetation, strongly characteristic. The small rivers traversing them in
 several cases enter fine estuaries, which ramify deeply into the land.
 Such are, on the south coast, the great estuary of the Tamar, and other
 streams, on which the port of Plymouth is situated (but only the western
-shore is Cornish), the Looe and Fowey rivers, Falmouth Harbour, the most
+shore is Cornish), the Looe and [[Fowey]] rivers, Falmouth Harbour, the most
 important of the purely Cornish inlets and accessible for the largest
 vessels, and the Helford river. On the north are the estuaries of the
 Camel and the Hayle, debouching into Padstow Bay and St Ives Bay
@@ -77,7 +77,7 @@ intimately connected with the Arthurian romances.
   metamorphic schists. With the exception of a small tract about Veryan
   and Gorran, of Ordovician age, all the sedimentary rocks, as far as a
   line joining Boscastle and South Petherwin, were formerly classed as
-  Devonian; to the north of the line are the Culm measures--slates,
+  Devonian; to the north of the line are the [[Culm]] measures--slates,
   grits and limestones--of Carboniferous age. The extensive spread of
   Killas is not, however, entirely Devonian, as it is shown on most
   maps. In the northern portion, Lower, Middle and Upper Devonian can be
@@ -108,7 +108,7 @@ intimately connected with the Arthurian romances.
   varieties, all locally called "elvans," which penetrate both the
   granite and the Killas. Small patches of Pliocene strata are found at
   St Erth and St Agnes Beacon. Blown sand is an important feature at St
-  Pirran, Lelant, Gwythian and elsewhere, and raised beaches are
+  Pirran, Lelant, Gwythian and elsewhere, and raised [[Beach|beaches]] are
   frequent round the coast. A characteristic Cornish deposit is the
   "Head," an old consolidated scree or talus. Many rare minerals have
   been obtained from the mines and much tin ore has been taken from the
@@ -121,9 +121,9 @@ Bude and 43.7° at Falmouth. The sea-winds, except in a few sheltered
 places, prevent timber trees from attaining to any great size, but the
 air is mild, and the lower vegetation, especially in the Penzance
 district, is almost southern in its luxuriance. Geraniums, fuchsias,
-myrtles, hydrangeas and camellias grow to a considerable size, and
+myrtles, [[Hydrangea|hydrangeas]] and camellias grow to a considerable size, and
 flourish through the winter at Penzance and round Falmouth; and in the
-Scilly Isles a great variety of exotics may be seen flourishing in the
+Scilly Isles a great variety of [[Exotic|exotics]] may be seen flourishing in the
 open air. Stone fruit, and even apples and pears, do not attain the same
 full flavour as in the neighbouring county, owing to the want of dry
 heat. The pinaster, the _Pinus_ _austriaca_, _Pinus insignis_ and other
@@ -145,7 +145,7 @@ kept; nearly 60,000 acres of hill pasture being recorded. As regards
 agricultural produce, however, Cornwall is chiefly famous for the
 market-gardening carried on in the neighbourhood of Penzance, where the
 climate is specially suitable for the growth of early potatoes, broccoli
-and asparagus. These are despatched in large quantities to the London
+and [[Asparagus|asparagus]]. These are despatched in large quantities to the London
 market; the Scilly Isles sharing in the industry. Fruit and flowers are
 also grown for the market. In the valleys the soil is frequently rich
 and deep; there are good arable and pasture farms, and the natural
@@ -163,7 +163,7 @@ Islands with the county or the Scilly Isles. By ancient charters the
 land, life and limb) other than that of the Stannary Courts, and
 peculiar laws were enacted in the Stannary parliaments (see STANNARIES).
 For many centuries a tax on the tin, after smelting, was paid to the
-earls and dukes of Cornwall. The smelted blocks were carried to certain
+earls and [[Dukes|dukes]] of Cornwall. The smelted blocks were carried to certain
 towns to be coined, that is, stamped with the duchy seal before they
 could be sold. By an act of 1838 the dues payable on the coinage of tin
 were abolished, and a compensation was awarded to the duchy instead of
@@ -193,7 +193,7 @@ consequently could not be "streamed" for, it was almost unnoticed in the
 county until the end of the 15th century, and little attention was paid
 to it until the last years of the 17th. No mine seems to have been
 worked exclusively for copper before the year 1770; and up to that time
-the casual produce had been bought by Bristol merchants, to their great
+the casual produce had been bought by [[Bristol]] merchants, to their great
 gain, at rates from £2:10s. to £4 per ton. In 1718 John Coster gave a
 great impulse to the trade by draining some of the deeper mines, and
 instructing the men in an improved method of dressing the ore. The trade
@@ -202,12 +202,12 @@ Cornwall together were estimated to furnish one-third of the copper
 raised throughout Europe, including the British Isles. Antimony ores and
 manganese are found, and some lead occurs, being worked without great
 result. Iron in lodes, as brown haematite, has been worked near
-Lostwithiel and elsewhere. In the St Austell district the place of tin
+[[Lostwithiel]] and elsewhere. In the St Austell district the place of tin
 and copper mining has been taken by that of the raising and preparation
 of china clay. Granite is largely quarried in various districts, as at
 Luxulian (between St Austell and Lostwithiel), and in the neighbourhood
 of Penryn. This is the material of London and Waterloo Bridges, the
-Chatham docks, and many other great works. It is for the most part
+Chatham [[Dock|docks]], and many other great works. It is for the most part
 coarse-grained, though differing greatly in different places in this
 respect. Fine slate is quarried and largely exported, as from the
 Delabole quarries near Tintagel. These slates were in great repute in
@@ -222,12 +222,12 @@ Cornwall, living habitually in deep water not far west of the Scilly
 Isles, and visiting the coast in great shoals,--one of which is
 described as having extended from Mevagissey to the Land's End, a
 distance, including the windings of the coast, of nearly 100 m. In
-summer and autumn pilchards are caught by drift nets; later in the year
+summer and autumn pilchards are caught by [[Drift|drift]] nets; later in the year
 they are taken off the northern coast by seine nets. Forty thousand
-hogsheads, or 120 million fish, have been taken in the course of a
+[[Hogshead|hogsheads]], or 120 million fish, have been taken in the course of a
 single season, requiring 20,000 tons of salt to cure them. Twelve
 millions have been taken in a single day; and the sight of this great
-army of fish passing the Land's End, and pursued by hordes of dog-fish,
+army of fish passing the Land's End, and pursued by [[Horde|hordes]] of [[Dog-Fish|dog-fish]],
 hake, and cod, besides vast flocks of sea-birds, is most striking. The
 principal fishing stations are on Mount's Bay and at St Ives, but boats
 are employed all along the coast. When brought to shore the pilchards
@@ -241,7 +241,7 @@ a trade in "sardines," young pilchards taking the place of the real
 Mediterranean fish.
 
 _Communications._--The principal ports are Falmouth and Penzance, but
-that of Hayle is of some importance, and there are large engineering
+that of Hayle is of some importance, and there are large [[Engineering|engineering]]
 works here. It lies on the estuary of the Hayle river, which opens into
 St Ives Bay, the township of Phillack adjoining on the north-east. A
 brisk coasting trade is maintained at many small ports along the coast.
@@ -278,7 +278,7 @@ with the mining towns of Gwennap and Illogan in the Redruth district and
 Wendron near Helston, all inland towns; while on the south coast may be
 mentioned Fowey and Mevagissey, on either side of St Austell Bay, and
 Marazion on Mount's Bay, close by St Michael's Mount. Cornwall is in the
-western circuit, and assizes are held at Bodmin. It has one court of
+western circuit, and [[Assize|assizes]] are held at Bodmin. It has one court of
 quarter sessions, and is divided into 17 petty sessional divisions. The
 boroughs of Bodmin, Falmouth, Helston, Launceston, Liskeard, Penryn,
 Penzance, St Ives and Truro have separate commissions of the peace, and
@@ -297,7 +297,7 @@ use in the fishing and mining communities, as well as in the names of
 persons and places, but the last persons who spoke it died towards the
 end of the 18th century. It belonged to the Cymric division of Celtic,
 in which Welsh and Armorican are also included. The most important
-relics of the language known to exist are three dramas or miracle plays,
+relics of the language known to exist are three [[Drama|dramas]] or miracle plays,
 edited and translated by Edwin Norris, Oxford, 1859. A sketch of Cornish
 grammar is added, and a Cornish vocabulary from a MS. of the 13th
 century (Cotton MSS. Vespasian A. 14, p. 7a). (See CELT: Language and
@@ -368,7 +368,7 @@ county. In 1386 disputes having arisen, a commission was appointed to
 determine the Cornish border between North Tamerton and Hornacot.
 
 For the first four centuries after the Norman conquest the part played
-by Cornwall in England's political history was comparatively
+by Cornwall in England's [[Political History|political history]] was comparatively
 unimportant. In her final attempt in 1471 to restore the fortunes of the
 house of Lancaster, Queen Margaret received the active support of the
 Cornish, who, under Sir Hugh Courtenay and Sir John Arundell,
@@ -376,22 +376,22 @@ accompanied her to the fatal field of Tewkesbury, and in 1473 John de
 Vere, earl of Oxford, held St Michael's Mount in her behalf until the
 following February, when he surrendered to John Fortescue. A rising of
 considerable magnitude in 1497 at the instigation of Thomas Flamank,
-occasioned by the levy of a tax for the Scottish war, was only repelled
+occasioned by the [[Levy|levy]] of a tax for the Scottish war, was only repelled
 after the arrival of the insurgents at Blackheath in Kent. Perkin
 Warbeck, who landed at Whitsand Bay in the parish of Sennen, obtained
 general support in the same year. The imposition of the Book of Common
 Prayer and the abrogation of various religious ceremonies led to a
-rebellion in 1549 under Sir Humphry Arundell of Lanherne, the rebels,
+rebellion in 1549 under Sir [[Humphry]] Arundell of Lanherne, the rebels,
 who knew little English, demanding the restoration of the Latin service,
 but a fatal delay under the walls of Exeter led to their early defeat
 and the execution of their leaders. During the Civil War of the 17th
 century Cornwall won much glory in the royal cause. In 1643 Sir Ralph
-Hopton, who commanded the king's Cornish troops, defeated General Ruthen
+[[Hopton]], who commanded the king's Cornish troops, defeated General Ruthen
 on Bradoc Down, while General Chudleigh, another parliamentary general,
 was repulsed near Launceston, and the earl of Stamford at Stratton. The
 whole county was thereby secured to the king. Led by Sir Beville
-Grenville of Stow the Cornish troops now marched into Somersetshire,
-where in the indecisive battle of Lansdowne they greatly distinguished
+[[Grenville]] of Stow the Cornish troops now marched into Somersetshire,
+where in the indecisive battle of [[Lansdowne]] they greatly distinguished
 themselves, but lost their brave leader. In July 1644 the earl of Essex
 marched into Cornwall and was followed soon afterwards by the king's
 troops in pursuit. Numerous engagements were fought, in which the latter
@@ -400,7 +400,7 @@ leader escaped in a boat from Fowey to Plymouth. In 1646, owing to
 dissensions amongst the king's officers, and in particular to the
 refusal of Sir Richard Grenville to serve under Lord Hopton, and to the
 defection of Colonel Edgcumbe, the royal cause declined and became
-desperate. On the 16th of August 1646 articles of capitulation were
+desperate. On the 16th of August 1646 articles of [[Capitulation|capitulation]] were
 signed by the defenders of Pendennis Castle.
 
 Two members for the county were summoned by Edward I. to the parliament
@@ -412,7 +412,7 @@ Commons, between 1547 and 1584, fifteen additional towns and villages
 received the franchise, with the result that, between the latter date
 and 1821, Cornwall sent no less than forty-four members to parliament.
 In 1821 Grampound lost both its members, and by the Reform Act in 1832
-fourteen other Cornish boroughs shared the same fate. Cornwall was, in
+fourteen other Cornish boroughs shared the same [[Fate|fate]]. Cornwall was, in
 fact, notorious for the number of its rotten boroughs. In the vicinity
 of Liskeard "within an area, which since 1885 ... is represented by only
 one member, there were until 1832 nine parliamentary boroughs returning
@@ -455,7 +455,7 @@ Of these there are at least two kinds, those in the eastern part of the
 county resembling the beehive structures and enclosures of Dartmoor, and
 those in the west comprising "hut-clusters," having a central court, and
 a surrounding wall sometimes of considerable height and thickness. The
-beehive masonry is also found in connexion with these, as are also (6)
+beehive [[Masonry|masonry]] is also found in connexion with these, as are also (6)
 _Caves_, or subterraneous structures, resembling those of Scotland and
 Ireland. (7) _Cliff castles_ are a characteristic feature of the Cornish
 coast, especially in the west, such as Treryn, Mên, Kenedjack, Bosigran
@@ -480,7 +480,7 @@ The individuality of Cornwall is reflected in its ecclesiastical
 architecture. The churches are generally massive, plain structures of
 granite, built as it were to resist the storms which sweep up from the
 sea, low in the body, but with high unadorned towers. Within, a common
-feature is the absence of a chancel arch. In a few cases, of which
+feature is the absence of a [[Chancel|chancel]] arch. In a few cases, of which
 Gwennap church is an illustration, where the body of the church lies low
 in a valley, there is a detached campanile at a higher level. The
 prevalent style is Perpendicular, much rebuilding having taken place in
@@ -490,7 +490,7 @@ St Germans form the best survival of Norman work in the county; there
 are good Norman doorways at Manaccan and Kilkhampton churches, and the
 church of Morwenstow, near the coast north of Bude, is a remarkable
 illustration of the same style. This church has the further interest of
-having had as its rector the Cornish poet Robert Stephen Hawker
+having had as its rector the Cornish poet Robert Stephen [[Hawker]]
 (1803-1875). The Early English style is not commonly seen, but the small
 church of St Anthony in Roseland, near the east shore of Falmouth
 harbour (with an ornate Norman door), and portions of the churches of
@@ -517,22 +517,22 @@ Looe, and Place House, a Tudor building, at Fowey, may be noted.
   AUTHORITIES.--See Richard Carew, _Survey of Cornwall_ (London, 1602);
   W. Borlase, _Antiquities of Cornwall_ (Oxford, 1754 and 1769); D.
   Gilbert, _Parochial History of Cornwall_ (London, 1837-1838),
-  incorporating collections of W. Hals and Tonkin; J. T. Blight,
+  incorporating collections of W. [[Hals]] and Tonkin; J. T. Blight,
   _Ancient Crosses in the East of Cornwall_ (London, 1858), and
-  _Churches of West Cornwall_ (London, 1865); G. C. Boase and W. P.
-  Courtney, _Bibliotheca Cornubiensis_, a catalogue of the writings,
+  _Churches of West Cornwall_ (London, 1865); G. C. [[Boase]] and W. P.
+  [[Courtney]], _Bibliotheca Cornubiensis_, a catalogue of the writings,
   both MS. and printed, of Cornishmen, and of works relating to Cornwall
-  (Truro and London, 1864-1881); R. Hunt, _Popular Romances and Drolls
+  (Truro and London, 1864-1881); R. [[Hunt]], _Popular Romances and Drolls
   of the West of England_ (London, 1865); W. Bottrell, _Traditions and
   Hearthside Stories of West Cornwall_ (Penzance, 1870-1873); J. H.
-  Collins, _Handbook to the Mineralogy of Cornwall and Devon_ (Truro,
+  [[Collins]], _Handbook to the Mineralogy of Cornwall and Devon_ (Truro,
   1871); W. C. Borlase, _Naenia Cornubiae_ (1872); _Early Christianity
   in Cornwall_ (London, 1893); J. Bannister, _Glossary of Cornish Names_
   (London, 1878); W. P. Courtney, _Parliamentary Representation of
   Cornwall to 1832_ (London, 1889); G. C. Boase, _Collectanea
   Cornubiensia_ (Truro, 1890); J. R. Allen, _Old Cornish Crosses_
   (Truro, 1896); A. H. Norway, _Highways and Byways in Cornwall_ (1904);
-  Lewis Hind, _Days in Cornwall_ (1907); _Victoria County History,
+  [[Lewis]] Hind, _Days in Cornwall_ (1907); _Victoria County History,
   Cornwall._
 
 ## See also

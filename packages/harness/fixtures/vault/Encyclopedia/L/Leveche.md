@@ -9,11 +9,11 @@ inland.
 
 
 
-LEVÉE (from Fr. _lever_, to raise), an embankment which keeps a river in
+LEVÉE (from Fr. _lever_, to raise), an [[Embankment|embankment]] which keeps a river in
 its channel. A river such as the Mississippi (q.v.), draining a large
 area, carries a great amount of sediment from its swifter head-streams
 to the lower ground. As soon as a stream's velocity is checked, it drops
-a portion of its load of sediment and spreads an alluvial fan in the
+a portion of its load of sediment and spreads an alluvial [[Fan|fan]] in the
 lower part of its course. This deposition of material takes place
 particularly at the sides of the stream where the velocity is least, and
 the banks are in consequence raised above the main channel, so that the
@@ -25,7 +25,7 @@ there, and a long alluvial ridge, called a natural levée, to be built up
 on either side of the stream. These ridges may be wide or narrow, but
 they slope from the stream's outer banks to the plain below, and in
 consequence require careful watching, for if the levée is broken by a
-"crevasse," the whole body of the river may pour through and flood the
+"[[Crevasse|crevasse]]," the whole body of the river may pour through and [[Flood|flood]] the
 country below. In 1890 the Mississippi near New Orleans broke through
 the Nita crevasse and flowed eastward with a current of 15 m. an hour,
 spreading destruction in its path. The Hwang-ho river in China is

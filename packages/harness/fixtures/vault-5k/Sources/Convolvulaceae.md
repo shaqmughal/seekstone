@@ -1,7 +1,7 @@
 # Convolvulaceae
 
 CONVOLVULACEAE, a botanical natural order belonging to the series
-Tubiflorae of the sympetalous group of Dicotyledons. It contains about
+Tubiflorae of the sympetalous group of [[Dicotyledons]]. It contains about
 40 genera with more than 1000 species, and is found in all parts of the
 world except the coldest, but is especially well developed in tropical
 Asia and tropical America. The most characteristic members of the order
@@ -19,7 +19,7 @@ slender, long-trailing stems with small leaves and flowers. In hot dry
 districts such as Arabia and north-east tropical Africa, genera have
 been developed with a low, much-branched, dense, shrubby habit, with
 small hairy leaves and very small flowers. An exceptional type in the
-order is represented by _Humbertia_, a native of Madagascar, which forms
+order is represented by _Humbertia_, a native of [[Madagascar]], which forms
 a large tree. The dodder (q.v.) is a genus (_Cuscuta_) of leafless
 parasites with slender thread-like twining stems. The flowers stand
 singly in the leaf-axils or form few or many flowered cymose
@@ -27,7 +27,7 @@ inflorescences; the flowers are sometimes crowded into small heads. The
 bracts are usually scale-like, but sometimes foliaceous, as for instance
 in _Calystegia_, where they are large and envelop the calyx.
 
-The parts of the flower are in fives in calyx, corolla and stamens,
+The parts of the flower are in [[Fives|fives]] in calyx, corolla and stamens,
 followed by two carpels which unite to form a superior ovary. The
 sepals, which are generally free, show much variation in size, shape and
 covering, and afford valuable characters for the distinction of genera
@@ -62,7 +62,7 @@ has a thread-like, spirally twisted embryo with no trace of cotyledons.
   4. Embryo taken out of seed.
   5. Horizontal plan of arrangement of flower.]
 
-The large showy flowers are visited by insects for the honey which is
+The large showy flowers are visited by [[Insect|insects]] for the honey which is
 secreted by a ring-like disk below the ovary; large-flowered species of
 _Ipomaea_ with narrow tubes are adapted for the visits of honey-seeking
 birds.
@@ -79,7 +79,7 @@ the "sweet potato," form one of the most widely distributed foods in the
 warmer parts of the earth. Several members of the order are used
 medicinally for the strong purging properties of the milky juice (latex)
 which they contain; scammony is the dried latex from the underground
-stem of _Convolvulus Scammonia_, a native of the Levant, while jalap is
+stem of _Convolvulus Scammonia_, a native of the [[Levant]], while jalap is
 the product of the tubercles of _Exogonium Purga_, a native of Mexico.
 Species of _Ipomaea_ (morning glory), _Convolvulus_ and _Calystegia_ are
 cultivated as ornamental plants. _Convolvulus arvensis_ (bindweed) is a

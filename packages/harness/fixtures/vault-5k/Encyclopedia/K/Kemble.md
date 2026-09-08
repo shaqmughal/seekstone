@@ -25,15 +25,15 @@ Farquhar's _The Recruiting Officer_; in Hull for the first time as
 Macbeth on the 30th of October, and in York as Orestes in Ambrose
 Philips's _Distressed Mother_. In 1781 he obtained a "star" engagement
 at Dublin, making his first appearance there on the 2nd of November as
-Hamlet. He also achieved great success as Raymond in _The Count of
+[[Hamlet]]. He also achieved great success as Raymond in _The Count of
 Narbonne_, a play taken from Horace Walpole's _Castle of Otranto_.
 Gradually he won for himself a high reputation as a careful and finished
 actor, and this, combined with the greater fame of his sister, led to an
-engagement at Drury Lane, where he made his first appearance on the 30th
+engagement at Drury [[Lane]], where he made his first appearance on the 30th
 of September 1783 as Hamlet. In this rôle he awakened interest and
 discussion among the critics rather than the enthusiastic approval of
 the public. But as Macbeth on the 31st of March 1785 he shared in the
-enthusiasm aroused by Mrs Siddons, and established a reputation among
+[[Enthusiasm|enthusiasm]] aroused by Mrs Siddons, and established a reputation among
 living actors second only to hers. Brother and sister had first appeared
 together at Drury Lane on the 22nd of November 1783, as Beverley and Mrs
 Beverley in Moore's _The Gamester_, and as King John and Constance in
@@ -45,13 +45,13 @@ rôles, his Mentevole in Jephson's _Julia_ producing an overwhelming
 impression. On the 8th of December 1787 he married Priscilla Hopkins
 Brereton (1756-1845), the widow of an actor and herself an actress.
 Kemble's appointment as manager of Drury Lane in 1788 gave him full
-opportunity to dress the characters less according to tradition than in
+opportunity to [[Dress|dress]] the characters less according to tradition than in
 harmony with his own conception of what was suitable. He was also able
 to experiment with whatever parts might strike his fancy, and of this
 privilege he took advantage with greater courage than discretion. His
 activity was prodigious, the list of his parts including a large number
 of Shakespearian characters and also a great many in plays now
-forgotten. In his own version of _Coriolanus_, which was revived during
+forgotten. In his own version of _[[Coriolanus]]_, which was revived during
 his first season, the character of the "noble Roman" was so exactly
 suited to his powers that he not only played it with a perfection that
 has never been approached, but, it is said, unconsciously allowed its
@@ -71,7 +71,7 @@ Coriolanus and Cato he was beyond praise, and possibly he may have been
 superior to both Garrick and Kean in Macbeth, although it must be
 remembered that in it part of his inspiration must have been caught from
 Mrs Siddons. In all the other great Shakespearian characters he was,
-according to the best critics, inferior to them, least so in Lear,
+according to the best critics, inferior to them, least so in [[Lear]],
 Hamlet and Wolsey, and most so in Shylock and Richard III. On account of
 the eccentricities of Sheridan, the proprietor of Drury Lane, Kemble
 withdrew from the management, and, although he resumed his duties at the
@@ -93,7 +93,7 @@ of February 1823.
   Kembles_ (1871).
 
 STEPHEN KEMBLE (1758-1822), the second son of Roger, was rather an
-indifferent actor, ever eclipsed by his wife and fellow player,
+indifferent actor, ever eclipsed by his wife and [[Fellow|fellow]] player,
 Elizabeth Satchell Kemble (c. 1763-1841), and a man of such portly
 proportions that he played Falstaff without padding. He managed theatres
 in Edinburgh and elsewhere.
@@ -126,7 +126,7 @@ November 1854. Macready regarded his Cassio as incomparable, and summed
 him up as "a first-rate actor of second-rate parts."
 
   See _Gentleman's Magazine_, January 1855; _Records of a Girlhood_, by
-  Frances Anne Kemble.
+  [[Franc|Frances]] Anne Kemble.
 
 ELIZABETH WHITLOCK (1761-1836), who was a daughter of Roger Kemble, made
 her first appearance on the stage in 1783 at Drury Lane as Portia. In
@@ -142,7 +142,7 @@ of November 1809, and educated chiefly in France. She first appeared on
 the stage on the 25th of October 1829 as Juliet at Covent Garden. Her
 attractive personality at once made her a great favourite, her
 popularity enabling her father to recoup his losses as a manager. She
-played all the principal women's parts, notably Portia, Beatrice and
+played all the principal women's parts, notably Portia, [[Beatrice]] and
 Lady Teazle, but Julia in Sheridan Knowles's _The Hunchback_, especially
 written for her, was perhaps her greatest success. In 1832 she went with
 her father to America, and in 1834 she married there a Southern planter,

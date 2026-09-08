@@ -8,7 +8,7 @@ type: reference
 # Grass And Grassland
 
 GRASS AND GRASSLAND, in agriculture. The natural vegetable covering of
-the soil in most countries is "grass" (for derivation see GRASSES) of
+the soil in most countries is "grass" (for derivation see [[Grasses|GRASSES]]) of
 various kinds. Even where dense forest or other growth exists, if a
 little daylight penetrates to the ground grass of some sort or another
 will grow. On ordinary farms, or wherever farming of any kind is carried
@@ -17,21 +17,21 @@ in grass or will revert naturally to grass in time if left alone, after
 having been cultivated.
 
 Pasture land has always been an important part of the farm, but since
-the "era of cheap corn" set in its importance has been increased, and
+the "era of cheap [[Corn|corn]]" set in its importance has been increased, and
 much more attention has been given to the study of the different species
 of grass, their characteristics, the improvement of a pasture generally,
 and the "laying down" of arable land into grass where tillage farming
-has not paid. Most farmers desire a proportion of grass-land on their
+has not paid. Most [[Farmer|farmers]] desire a proportion of grass-land on their
 farms--from a third to a half of the area--and even on wholly arable
 farms there are usually certain courses in the rotation of crops devoted
-to grass (or clover). Thus the Norfolk 4-course rotation is corn, roots,
-corn, clover; the Berwick 5-course is corn, roots, corn, grass, grass;
+to grass (or [[Clover|clover]]). Thus the Norfolk 4-course rotation is corn, roots,
+corn, clover; the [[Berwick]] 5-course is corn, roots, corn, grass, grass;
 the Ulster 8-course, corn, flax, roots, corn, flax, grass, grass, grass;
 and so on, to the point where the grass remains down for 5 years, or is
 left indefinitely.
 
 Permanent grass may be grazed by live-stock and classed as pasture pure
-and simple, or it may be cut for hay. In the latter case it is usually
+and simple, or it may be cut for [[Hay|hay]]. In the latter case it is usually
 classed as "meadow" land, and often forms an alluvial tract alongside a
 stream, but as grass is often grazed and hayed in alternate years, the
 distinction is not a hard and fast one.
@@ -74,7 +74,7 @@ the plants.
 
 In ordinary usage the term grass, pasturage, hay, &c., includes many
 varieties of clover and other members of the natural order _Leguminosae_
-as well as other "herbs of the field," which, though not strictly
+as well as other "[[Herb|herbs]] of the field," which, though not strictly
 "grasses," are always found in a grass field, and are included in
 mixtures of seeds for pasture and meadows. The following is a list of
 the most desirable or valuable agricultural grasses and clovers, which
@@ -107,28 +107,28 @@ grow by draining, liming, manuring, and so on:--
        "      pratense       Broad red clover.
        "      pratense  \    Perennial clover.
        "      perennne  /
-       "      incarnatum     Crimson clover or "Trifolium."
+       "      incarnatum     [[Crimson]] clover or "Trifolium."
        "      procumbens     Yellow Hop-trefoil.
        "      repens         White or Dutch clover.
     Achillea Millefolium     Yarrow or Milfoil.
     Anthyllis vulneraria     Kidney-vetch.
-    Lotus major              Greater Birdsfoot Trefoil.
+    Lotus [[Major|major]]              Greater Birdsfoot Trefoil.
     Lotus corniculatus       Lesser      "        "
     Carum petroselinum       Field parsley.
     Plantago lanceolata      Plantain.
     Cichorium intybus        Chicory.
-    Poterium officinale      Burnet.
+    Poterium officinale      [[Burnet]].
 
 The predominance of any particular species is largely determined by
 climatic circumstances, the nature of the soil and the treatment it
-receives. In limestone regions sheep's fescue has been found to
-predominate; on wet clay soil the dog's bent (_Agrostis canina_) is
+receives. In [[Limestone|limestone]] regions sheep's fescue has been found to
+predominate; on wet clay soil the dog's bent (_Agrostis [[Canina|canina]]_) is
 common; continuous manuring with nitrogenous manures kills out the
 leguminous plants and stimulates such grasses as cocksfoot; manuring
 with phosphates stimulates the clovers and other legumes; and so on.
 Manuring with basic slag at the rate of from 5 to 10 cwt. per acre has
 been found to give excellent results on poor clays and peaty soils.
-Basic slag is a by-product of the Bessemer steel process, and is rich in
+Basic slag is a by-product of the [[Bessemer]] steel process, and is rich in
 a soluble form of phosphate of lime (tetra-phosphate) which specially
 stimulates the growth of clovers and other legumes, and has renovated
 many inferior pastures.
@@ -160,7 +160,7 @@ These varieties in the order of their importance were:--
 The figures represent approximate percentages.
 
 Before laying down grass it is well to examine the species already
-growing round the hedges and adjacent fields. An inspection of this sort
+growing round the hedges and adjacent [[Fields|fields]]. An inspection of this sort
 will show that the Cambridge experiments are very conclusive, and that
 the above species are the only ones to be depended on. Occasionally some
 other variety will be prominent, but if so there will be a special local
@@ -214,7 +214,7 @@ Arthur Young more than 100 years ago made out one to suit chalky
 hillsides; Mr Faunce de Laune (Sussex) in our days was the first to
 study grasses and advocated leaving out ryegrass of all kinds; Lord
 Leicester adopted a cheap mixture suitable for poor land with success;
-Mr Elliot (Kelso) has introduced many deep-rooted "herbs" in his mixture
+Mr Elliot ([[Kelso]]) has introduced many deep-rooted "herbs" in his mixture
 with good results. Typical examples of such mixtures are given on
 preceding page.
 
@@ -257,7 +257,7 @@ indeed on any soil excepting heavy clay frequent rolling is beneficial
 to the grass, as it promotes the capillary action of the soil-particles
 and the consequent ascension of ground-water.
 
-In addition, the grass on the surface helps to keep the moisture from
+In addition, the grass on the surface [[Helps|helps]] to keep the moisture from
 being wasted by the sun's heat.
 
 The graminaceous crops of western Europe generally are similar to those
@@ -265,7 +265,7 @@ enumerated. Elsewhere in Europe are found certain grasses, such as
 Hungarian brome, which are suitable for introduction into the British
 Isles. The grasses of the American prairies also include many plants not
 met with in Great Britain. Some half-dozen species are common to both
-countries: Kentucky "blue-grass" is the British _Poa pratensis_; couch
+countries: [[Kentucky]] "blue-grass" is the British _Poa pratensis_; couch
 grass (_Triticum repens_) grows plentifully without its underground
 runners; bent (_Agrostis vulgaris_) forms the famous "red-top," and so
 on. But the American buffalo-grass, the Canadian buffalo-grass, the

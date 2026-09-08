@@ -19,16 +19,16 @@ commission as ensign. In 1648 he was deprived of his studentship by the
 parliamentary visitors, and during the next few years he resided chiefly
 at Oxford with his brother-in-law, Dr T. Willis, at whose house opposite
 Merton College he and his friends Allestree and Dolben kept up the
-service of the Church of England through the Commonwealth.
+service of the Church of England through the [[Commonwealth]].
 
 At the Restoration Fell was made prebendary of Chichester, canon of
 Christ Church (July 27, 1660), dean (Nov. 30), master of St Oswald's
-hospital, Worcester, chaplain to the king, and D.D. He filled the office
+hospital, Worcester, [[Chaplain|chaplain]] to the king, and D.D. He filled the office
 of vice-chancellor from 1666 to 1669, and was consecrated bishop of
 Oxford, in 1676, retaining his deanery _in commendam_. Some years later
 he declined the primacy of Ireland. Fell showed himself a most capable
 and vigorous administrator in his various high employments, and a worthy
-disciple of Archbishop Laud. He restored in the university the good
+[[Disciple|disciple]] of Archbishop Laud. He restored in the university the good
 order instituted by the archbishop, which in the Commonwealth had given
 place to anarchy and a general disregard of authority. He ejected the
 intruders from his college or else "fixed them in loyal principles." "He
@@ -175,7 +175,7 @@ verses), for I think that, bating the want of _siquidems_ and
 _quinetiams_, they are as good as his Worship can make." Wood styles him
 "a valde vult person." He was not content with ruling his own college,
 but desired to govern the whole university. He prevented Gilbert
-Ironside, who "was not pliable to his humour," from holding the office
+Ironside, who "was not pliable to his [[Humour|humour]]," from holding the office
 of vice-chancellor. He "endeavoured to carry all things by a high hand;
 scorn'd in the least to court the Masters when he had to have anything
 pass'd the convocation. Severe to other colleges, blind as to his own,

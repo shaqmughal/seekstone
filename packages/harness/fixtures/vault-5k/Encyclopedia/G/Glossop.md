@@ -5,8 +5,8 @@ parliamentary division of Derbyshire, England, on the extreme northern
 border of the county; 13 m. E. by S. of Manchester by the Great Central
 railway. Pop. (1901) 21,526. It is the chief seat of the cotton
 manufacture in Derbyshire, and it has also woollen and paper mills, dye
-and print works, and bleaching greens. The town consists of three main
-divisions, the Old Town (or Glossop proper), Howard Town (or Glossop
+and print works, and [[Bleaching|bleaching]] greens. The town consists of three main
+divisions, the Old Town (or Glossop proper), [[Howard]] Town (or Glossop
 Dale) and Mill Town. An older parish church was replaced by that of All
 Saints in 1830; there is also a very fine Roman Catholic church. In the
 immediate neighbourhood is Glossop Hall, the seat of Lord Howard, lord
@@ -20,7 +20,7 @@ formed by damming the Etherow, a stream which descends from the high
 moors north-east of Glossop. The town is governed by a mayor, 6 aldermen
 and 18 councillors. Area, 3052 acres.
 
-Glossop was granted by Henry I. to William Peverel, on the attainder of
+Glossop was granted by Henry I. to William Peverel, on the [[Attainder|attainder]] of
 whose son it reverted to the crown. In 1157 it was gifted by Henry II.
 to the abbey of Basingwerk. Henry VIII. bestowed it on the earl of
 Shrewsbury. It was made a municipal borough in 1866.

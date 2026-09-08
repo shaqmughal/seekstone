@@ -1,9 +1,9 @@
 # Fu-Kien
 
 FU-KIEN (formerly MIN), a south-eastern province of China, bounded N. by
-the province of Cheh-kiang, S. by that of Kwang-tung, W. by that of
-Kiang-si and E. by the sea. It occupies an area of 53,480 sq. m. and its
-population is estimated at 20,000,000. The provincial capital is Fuchow
+the province of [[Cheh-Kiang|Cheh-kiang]], S. by that of Kwang-tung, W. by that of
+[[Kiang-Si|Kiang-si]] and E. by the sea. It occupies an area of 53,480 sq. m. and its
+population is estimated at 20,000,000. The provincial capital is [[Fuchow]]
 Fu, and it is divided into eleven prefectures, besides that ruled over
 by the prefect of the capital city. Fu-kien is generally mountainous,
 being overspread by the Nan-shan ranges, which run a general course of
@@ -29,11 +29,11 @@ from one abutment to another. The soil of the province is, as its name,
 "Happy Establishment," indicates, very productive, and the scenery is of
 a rich and varied character. Most of the hills are covered with verdure,
 and the less rugged are laid out in terraces. The principal products of
-the province are tea, of which the best kind is that known as Bohea,
+the province are tea, of which the best kind is that known as [[Bohea]],
 which takes its name, by a mispronunciation, from the Wu-e Mountains, in
 the prefecture of Kien-ning Fu, where it is grown; grains of various
 kinds, oranges, plantins, lichis, bamboo, ginger, gold, silver, lead,
-tin, iron, salt (both marine and rock), deers' horns, beeswax, sugar,
+tin, iron, salt (both marine and rock), deers' [[Horn|horns]], beeswax, sugar,
 fish, birds' nests, medicine, paper, cloth, timber, &c. Fu-kien has
 three open ports, Fuchow Fu opened in 1842, Amoy opened to trade in the
 same year and Funing. The latter port was only opened to foreign trade

@@ -19,7 +19,7 @@ of all the three above-mentioned connotations, to certain religious
 bodies in their relation to the state. It is with this latter that the
 present article is concerned.
 
-Perhaps the best definition which can be given, and which will cover all
+Perhaps the best [[Definition|definition]] which can be given, and which will cover all
 cases, is that establishment implies the existence of some definite and
 distinctive relation between the state and a religious society (or
 conceivably more than one) other than that which is shared in by other
@@ -52,7 +52,7 @@ many current presuppositions. Establishment affirms the _fact_, but does
 not determine the precise _nature_, of the connexion between the state
 and the religious society. It does not tell us, for example, when or how
 it began, whether it is the result of an unconscious growth (as with the
-Gallican Church previous to the French Revolution), or of a determinate
+Gallican Church previous to the [[French Revolution]]), or of a determinate
 legislative act (as with the same Church re-established by the Concordat
 of 1801). It does not tell us whether an endowment of the religious
 society by the state is included; what particular privileges are enjoyed
@@ -62,7 +62,7 @@ inquiry; for the conditions are precisely similar in no two cases.
 
 To proceed to details. At the present day there is no established
 religion in the United States, the German empire as a whole, Holland,
-Belgium, France and Austria-Hungary (saving, indeed, "the rights of the
+[[Belgium]], France and Austria-Hungary (saving, indeed, "the rights of the
 sovereign arising from ecclesiastical dignity"[1]); whereas there are
 religious establishments in Russia, Greece, Sweden, Norway, Denmark,
 Prussia,[2] Spain, Portugal and even in Italy, as well as in England and
@@ -88,7 +88,7 @@ the state religion by the synod of Upsala (_Upsala mote_) in 1593, and
 the king must profess it. The "Lutheran Protestant Church" retains an
 episcopal order, and is supported out of its own revenues. Archbishops
 and bishops are chosen by the king out of those names submitted to him,
-and he also nominates to royal peculiars. The ecclesiastical law
+and he also nominates to royal peculiars. The [[Ecclesiastical Law|ecclesiastical law]]
 (_Kyrkolag_), first constituted in 1686, is part of the law of the
 state, but may not be modified or abrogated without consent of a General
 Synod; and although _ad interim_ interpretations of that law may be
@@ -167,10 +167,10 @@ that establishment is a process completed once for all. Every law
 touching the Church slightly alters its conditions; everything that
 affects the relations of Church and state may be regarded as a measure
 of establishment or the reverse. When the two Houses of Parliament, in
-an address to William III. after his coronation, spoke of their proposed
+an address to William III. after his [[Coronation|coronation]], spoke of their proposed
 measures of toleration, the king said in his reply, "I do hope that the
 ease which you design to Dissenters will contribute very much to the
-establishment of the Church" (Cobbett, _Parl. Hist._ v. 218). And Defoe
+establishment of the Church" ([[Cobbett]], _Parl. Hist._ v. 218). And [[Defoe]]
 (in 1702) published an ironical tract with the title, _The Shortest Way
 with the Dissenters, or Proposals for the Establishment of the Church_.
 (c) Nor is it necessarily implied that there was any specific time at
@@ -325,14 +325,14 @@ might thereafter determine.
   Minghetti, _Stato e Chiesa_ (Milan, 1878), French translation, with
   Introd. by E. de Laveleye (Paris, 1882); C. Cadorna, _Religione,
   diritto, liberta_ (Milan, 1893); F. Nippold, _Die Theorie der
-  Trennung von Kirche und Staat_ (Bern, 1881); W. Warburton, _Alliance
+  Trennung von Kirche und Staat_ ([[Bern]], 1881); W. Warburton, _Alliance
   between Church and State_ (London, 1741) (_Works_, vol. iv., ed. Hurd,
   London, 1788); _Church Problems_ (ed. by H.H. Henson) (London, 1900);
   Essays on "Establishment" and "Disendowment"; W.R. Anson, _Law and
   Custom of the Constitution_, vol. ii. chap. ix. (Oxford, 1892);
-  Phillimore, _Ecclesiastical Law_ (London, 1895); J.S. Brewer,
+  Phillimore, _Ecclesiastical Law_ (London, 1895); J.S. [[Brewer]],
   _Endowments and Establishment of the Church of England_ (ed. by L.T.
-  Dibdin, London, 1885); A.T. Innes, _Law of Creeds in Scotland_
+  Dibdin, London, 1885); A.T. Innes, _Law of [[Creeds]] in Scotland_
   (Edinburgh, 1867); E.A. Freeman, _Disestablishment and Disendowment_
   (London, 1883); G. Harwood, _Disestablishment_ (London, 1876);
   _Annales de l'ecole libre des Sciences politiques_, tom. i. (Paris,
@@ -343,7 +343,7 @@ might thereafter determine.
 FOOTNOTES:
 
   [1] In effect this involves the establishment of all religious
-    denominations, for none can exist without the express authorization
+    [[Denomination|denominations]], for none can exist without the express authorization
     of the state, and all are subject to more or less interference on its
     part. Thus the emperor-king is, in his capacity of head of the state,
     technically "bishop" of the Evangelical Church, the constitution of

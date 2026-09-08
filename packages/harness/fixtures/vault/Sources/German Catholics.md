@@ -8,7 +8,7 @@ Johann Ronge, a priest who in the _Sachsische Vaterlandsblatter_ for the
 of Trier since 1842, for having ordered (for the first time since 1810)
 the exposition of the "holy coat of Trier," alleged to be the seamless
 robe of Christ, an event which drew countless pilgrims to the cathedral.
-Ronge, who had formerly been chaplain at Grottkau, was then a
+Ronge, who had formerly been [[Chaplain|chaplain]] at Grottkau, was then a
 schoolmaster at Laurahutte near the Polish border. The article made a
 great sensation, and led to Ronge's excommunication by the chapter of
 Breslau in December 1844. The ex-priest received a large amount of
@@ -18,10 +18,10 @@ were belief in God the Father, creator and ruler of the universe; in
 Jesus Christ the Saviour, who delivers from the bondage of sin by his
 life, doctrine and death; in the operation of the Holy Ghost; in a holy,
 universal, Christian church; in forgiveness of sins and the life
-everlasting. The Bible was made the sole rule, and all external
+[[Everlasting|everlasting]]. The Bible was made the sole rule, and all external
 authority was barred. Within a few weeks similar communities were formed
-at Leipzig, Dresden, Berlin, Offenbach, Worms, Wiesbaden and elsewhere;
-and at a "council" convened at Leipzig at Easter 1845, twenty-seven
+at Leipzig, [[Dresden]], Berlin, Offenbach, Worms, Wiesbaden and elsewhere;
+and at a "council" convened at Leipzig at [[Easter]] 1845, twenty-seven
 congregations were represented by delegates, of whom only two or at most
 three were in clerical orders.
 
@@ -44,7 +44,7 @@ signature because the divinity of Christ had been ignored, and he and
 his congregation continued to retain by preference the name of
 "Christian Catholics," which they had originally assumed. Of the German
 Catholic congregations which had been represented at Leipzig some
-manifested a preference for the fuller and more positive creed of
+manifested a preference for the [[Fuller|fuller]] and more positive creed of
 Schneidemuhl, but a great majority continued to accept the comparatively
 rationalistic position of the Breslau school. The number of these
 rapidly increased, and the congregations scattered over Germany numbered
@@ -55,7 +55,7 @@ substituted, while in Prussia, Baden and Saxony the adherents of the new
 creed were laid under various disabilities, being suspected both of
 undermining religion and of encouraging the revolutionary tendencies of
 the age. Ronge himself was a foremost figure in the troubles of 1848;
-after the dissolution of the Frankfort parliament he lived for some time
+after the dissolution of the [[Frankfort]] parliament he lived for some time
 in London, returning in 1861 to Germany. He died at Vienna on the 26th
 of October 1887. In 1859 some of the German Catholics entered into
 corporate union with the "Free Congregations," an association of
@@ -68,10 +68,10 @@ which ceased to exist in 1857. There are now only about 2000 strict
 German Catholics, all in Saxony. The movement has been superseded by the
 Old Catholic (q.v.) organization.
 
-  See G.G. Gervinus, _Die Mission des Deutschkatholicismus_ (1846); F.
+  See G.G. [[Gervinus]], _Die Mission des Deutschkatholicismus_ (1846); F.
   Kampe, _Das Wesen des Deutschkatholicismus_ (1860); Findel, _Der
   Deutschkatholicismus in Sachsen_ (1895); Carl Mirbt, in Herzog-Hauck's
-  _Realencyk. fur prot. Theol._ iv. 583.
+  _Realencyk. [[Fur|fur]] prot. Theol._ iv. 583.
 
 ## References
 

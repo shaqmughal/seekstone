@@ -3,7 +3,7 @@
 CUPOLA (Ital., from Lat. _cupula_, small cask or vault, _cupa_, tub), a
 term, in architecture, for a spherical or spheroidal covering to a
 building, or to any part of it. In fortification the word is used of a
-form of armoured structure, in which guns or howitzers are mounted. It
+form of armoured structure, in which guns or [[Howitzer|howitzers]] are mounted. It
 is a low flat turret resembling an overturned saucer and showing little
 above the ground except the muzzles of the guns. See for details and
 illustrations FORTIFICATION AND SIEGECRAFT; also ORDNANCE.

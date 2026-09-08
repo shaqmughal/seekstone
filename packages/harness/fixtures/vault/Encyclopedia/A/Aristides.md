@@ -7,12 +7,12 @@ type: source
 
 # Aristides
 
-ARISTIDES, APOLOGY OF. Until 1878 our knowledge of the early Christian
-writer Aristides was confined to the statement of Eusebius that he was
+ARISTIDES, [[Apology|APOLOGY]] OF. Until 1878 our knowledge of the early Christian
+writer Aristides was confined to the statement of [[Eusebius]] that he was
 an Athenian philosopher, who presented an apology "concerning the faith"
-to the emperor Hadrian. In that year, however, the Mechitharists of S.
+to the emperor Hadrian. In that year, however, the [[Mechitharists]] of S.
 Lazzaro at Venice published a fragment in Armenian[1] from the beginning
-of the apology; and in 1889 Dr Rendel Harris found the whole of it in a
+of the apology; and in 1889 Dr Rendel [[Harris]] found the whole of it in a
 Syriac version on Mount Sinai. While his edition was passing through the
 press, it was observed by the present writer that all the while the work
 had been in our hands in Greek, though in a slightly abbreviated form,
@@ -27,7 +27,7 @@ through a careless reading of this inscription that the work was
 supposed to have been addressed to Hadrian. If this be the case, it must
 be placed somewhere in the long reign of Antoninus Pius (138-161). There
 are, however, no internal grounds for rejecting the thrice-attested
-dedication to Hadrian his predecessor, and the picture of primitive
+[[Dedication|dedication]] to Hadrian his predecessor, and the picture of primitive
 Christian life which is here found points to the earlier rather than to
 the later date. It is possible that the Apology was read to Hadrian in
 person when he visited Athens, and that the Syriac inscription was
@@ -49,8 +49,8 @@ inquiry he adopts an obvious threefold division into idolaters, Jews and
 Christians. Idolaters, or, as he more gently terms them in addressing
 the emperor, "those who worship what among you are said to be gods," he
 subdivides into the three great world-civilizations--Chaldeans, Greeks
-and Egyptians. He chooses this order so as to work up to a climax of
-error and absurdity in heathen worship. The direct nature-worship of the
+and Egyptians. He chooses this order so as to work up to a [[Climax|climax]] of
+[[Error|error]] and absurdity in [[Heathen|heathen]] worship. The direct nature-worship of the
 Chaldeans is shown to be false because its objects are works of the
 Creator, fashioned for the use of men. They obey fixed laws and have no
 power over themselves. "The Greeks have erred worse than the Chaldeans
@@ -63,14 +63,14 @@ inspire a reasonable worship. These gods are not even respectable; how
 can they be adorable? "The Egyptians have erred worse than all the
 nations; for they were not content with the worships of the Chaldeans
 and Greeks, but introduced, moreover, as gods even brute beasts of the
-dry land and of the waters, and plants and herbs.... Though they see
+dry land and of the waters, and plants and [[Herb|herbs]].... Though they see
 their gods eaten by others and by men, and burned, and slain, and
 rotting, they do not understand concerning them that they are no gods."
 
 Throughout the whole of the argument there is strong common-sense and a
-stern severity unrelieved by conscious humour. Aristides is engaged in a
+stern severity unrelieved by conscious [[Humour|humour]]. Aristides is engaged in a
 real contest; he strikes hard blows, and gives no quarter. He cannot
-see, as Justin and Clement see, a striving after truth, a feeling after
+see, as Justin and [[Clement]] see, a striving after truth, a feeling after
 God, in the older religions, or even in the philosophies of Greece. He
 has no patience with attempts to find a deeper meaning in the stories of
 the gods. "Do they say that one nature underlies these diverse forms?
@@ -83,24 +83,24 @@ Abraham and their sojourn in Egypt, Aristides praises them for their
 worship of the one God, the Almighty Creator; but blames them as
 worshipping angels, and observing "sabbaths and new moons, and the
 unleavened bread, and the great fast, and circumcision, and cleanness of
-meats." He then proceeds to the description of the Christians. He begins
+[[Meat|meats]]." He then proceeds to the description of the Christians. He begins
 with a statement which, when purged of glosses by a comparison of the
 three forms in which it survives, reads thus: "Now the Christians reckon
 their race from the Lord Jesus Christ; and He is confessed to be the Son
 of God Most High. Having by the Holy Spirit come down from heaven, and
 having been born of a Hebrew virgin, He took flesh and appeared unto
 men, to call them back from their error of many gods; and having
-completed His wonderful dispensation, He was pierced by the Jews, and
+completed His wonderful [[Dispensation|dispensation]], He was pierced by the Jews, and
 after three days He revived and went up to heaven. And the glory of His
 coming thou canst learn, O king, from that which is called among them
-the evangelic scripture, if thou wilt read it. He bad twelve disciples,
+the evangelic scripture, if thou wilt read it. He bad twelve [[Disciple|disciples]],
 who after His ascent into heaven went forth into the provinces of the
 world and taught His greatness; whence they who at this day believe
 their preaching are called Christians." This passage contains striking
 correspondences with the second section of the Apostles' Creed. The
 attribution of the Crucifixion to the Jews appears in several
 2nd-century documents; Justin actually uses the words "He was pierced by
-you" in his dialogue with Trypho the Jew.
+you" in his [[Dialogue|dialogue]] with Trypho the Jew.
 
 "These are they," he proceeds, "who beyond all the nations of the earth
 have found the truth: for they know God as Creator and Maker of all
@@ -115,7 +115,7 @@ ready for Christ's sake to give up their own lives; for His commandments
 they securely keep, living holily and righteously, according as the Lord
 their God hath commanded them, giving thanks to Him at all hours, over
 all their food and drink, and the rest of their good things." This
-simple description is fuller in the Syriac, but the additional details
+simple description is [[Fuller|fuller]] in the Syriac, but the additional details
 must be accepted with caution: for while it is likely that the monk who
 appropriated the Greek may have cut it down to meet the exigencies of
 his romance, it is the habit of certain Syriac translators to elaborate
@@ -131,7 +131,7 @@ immoralities, which the early apologists constantly rebut. "But the
 Christians offer up prayers for them, that they may turn from their
 error; and when one of them turns, he is ashamed before the Christians
 of the deeds that were done by him, and he confesses to God saying: 'In
-ignorance I did these things'; and he cleanses his heart, and his sins
+[[Ignorance|ignorance]] I did these things'; and he cleanses his heart, and his sins
 are forgiven him, because he did them in ignorance in former time, when
 he was blaspheming the true knowledge of the Christians."
 
@@ -140,7 +140,7 @@ a lost apocryphal work of very early date, _The Preaching of Peter_.
 This book is known to us chiefly by quotations in Clement of Alexandria:
 it was widely circulated, and at one time claimed a place within the
 Canon. It was used by the Gnostic Heracleon and probably by the unknown
-writer of the epistle to Diognetus. From the fragments which survive we
+writer of the [[Epistle|epistle]] to Diognetus. From the fragments which survive we
 see that it contained: (1) a description of the nature of God, which
 closely corresponds with Arist. i., followed by (2) a warning not to
 worship according to the Greeks, with an exposure of various forms of
@@ -150,14 +150,14 @@ superstitious about moons and sabbaths, and feasts, comp. Arist. xiv.;
 (4) a description of the Christians as being "a third race," and
 worshipping God in "a new way" through Christ; (5) a proof of
 Christianity from Jewish prophecy; (6) a promise of forgiveness to Jews
-and Gentiles who should turn to Christ, because they had sinned "in
+and [[Gentile|Gentiles]] who should turn to Christ, because they had sinned "in
 ignorance" in the former time. Now all these points, except the proof
 from Jewish prophecy, are taken up and worked out by Aristides with a
 frequent use of the actual language of _The Preaching of Peter_. A
 criterion is thus given us for the reconstruction of the Apology, where
 the Greek which we have has been abbreviated, and we are enabled to
 claim with certainty some passages of the Syriac which might otherwise
-be suspected as interpolations.
+be suspected as [[Interpolation|interpolations]].
 
 The style of the Apology is exceedingly simple. It is curiously
 misdescribed by Jerome, who never can have seen it, as "Apologeticum pro

@@ -23,15 +23,15 @@ At this date she had given birth to twelve children, of whom Thomas was
 the only survivor. He owed his life as well as his education to this
 "careful, tender mother," as he calls her. The child was suffocating
 when she opened one of his veins with her own hand. He went at her
-expense to Eton in 1727, and was confided to the care of her brother,
+expense to [[Eton]] in 1727, and was confided to the care of her brother,
 William Antrobus, one of the assistant-masters, during some part at
 least of his school-life.
 
 At Eton Gray's closest friends were Horace Walpole, Richard West (son of
 the lord chancellor of Ireland and grandson of the famous Bishop
-Burnet), and Thomas Ashton, afterwards fellow of Eton. This little
+[[Burnet]]), and Thomas Ashton, afterwards [[Fellow|fellow]] of Eton. This little
 coterie was dubbed "the Quadruple Alliance"; its members were studious
-and literary, and took little part in the amusements of their fellows.
+and literary, and took little part in the amusements of their [[Fellows|fellows]].
 In 1734 Gray matriculated at Peterhouse, Cambridge, of which his uncle,
 Robert Antrobus, had been a fellow. At Cambridge he had once more the
 companionship of Walpole and Ashton who were at King's, but West went to
@@ -44,7 +44,7 @@ atoned in the eyes of the authorities for his indifference to the
 regular routine of study; for mathematics in particular he had an
 aversion which was the one exception to his almost limitless curiosity
 in other directions. During his first Cambridge period he learnt Italian
-"like any dragon," and made translations from Guarini, Dante and Tasso,
+"like any dragon," and made translations from Guarini, [[Dante]] and Tasso,
 some of which have been preserved. In September 1738 he is in the agony
 of leaving college, nor can we trace his movements with any certainty
 for a while, though it may be conjectured that he spent much time with
@@ -56,24 +56,24 @@ visited the great with his friend, studied the picture-galleries, went
 to tragedies, comedies, operas and cultivated there that taste for the
 French classical dramatists, especially Racine, whom he afterwards tried
 to imitate in the fragmentary "Agrippina." It is characteristic of him
-that he travels through France with Caesar constantly in his hands, ever
+that he travels through France with [[Caesar]] constantly in his hands, ever
 noting and transcribing. In the same way, in crossing the Alps and in
 Piedmont, he has "Livy in the chaise with him and Silius Italicus too."
 In Italy he made a long sojourn, principally at Florence, where
-Walpole's lifelong correspondent, Horace Mann, was British envoy, and
+Walpole's lifelong correspondent, Horace [[Mann]], was British envoy, and
 received and treated the travellers most hospitably. But Rome and Naples
 are also described in Gray's letters, sometimes vividly, always
 amusingly, and in his notes are almost catalogued. Herculaneum, an
-object of intense interest to the young poet and antiquary, had been
+object of intense interest to the young poet and [[Antiquary|antiquary]], had been
 discovered the year before. At length in April 1741 Gray and Walpole set
 out northwards for Reggio. Here they quarrelled. Gray, "never a boy,"
 was a student, and at times retiring; Walpole, in his way a student too,
 was at this time a very social being, somewhat too frivolous, and, what
 was worse, too patronizing. He good-humouredly said at a later date,
-"Gray loves to find fault," and this fault-finding was expressed, no
+"Gray loves to find [[Fault|fault]]," and this fault-finding was expressed, no
 doubt with exaggeration, in a letter to Ashton, who violated Gray's
-confidence. The rupture followed, and with two friends, John Chute of
-the Vyne, Hampshire, and the young Francis Whithed, Gray went to Venice
+confidence. The rupture followed, and with two friends, John [[Chute]] of
+the Vyne, [[Hampshire]], and the young Francis Whithed, Gray went to Venice
 to see the doge wed the Adriatic on Ascension Day. Thence he returned
 home attended only by a _laquais de voyage_, visiting once more the
 Grande Chartreuse where he left in the album of the brotherhood those
@@ -83,7 +83,7 @@ that sense of the glory as distinct from the horror of mountain scenery
 to which perhaps he was the first of Englishmen to give adequate
 expression. On the 18th of September 1741 we find him in London,
 astonishing the street boys with his deep ruffles, large bag-wig and
-long sword, and "mortified" under the hands of the English barber. On
+long sword, and "mortified" under the hands of the English [[Barber|barber]]. On
 the 6th of November his father died; Philip Gray had, it is evident,
 been less savage and niggardly at last to those who were dependent upon
 him, and his death left his wife and son some measure of assured peace
@@ -101,7 +101,7 @@ poisoned her husband. About this tragedy Gray preserved a mournful
 silence, broken only by the pathetic sonnet, and some Latin lines, in
 which he laments his loss. The year 1742, was, for him, fruitful in
 poetic effort, of which, however, much was incomplete. The "Agrippina,"
-the _De principiis Cogitandi_, the splenetic "Hymn to Ignorance" in
+the _De principiis Cogitandi_, the splenetic "Hymn to [[Ignorance]]" in
 which he contemplates his return to the university, remain fragments;
 but besides the two poems already mentioned, the "Ode on a Distant
 Prospect of Eton College" and the "Hymn to Adversity," perhaps the most
@@ -114,7 +114,7 @@ effected through the kind offices of Chute's sister. In 1746 he spent
 his time between Cambridge, Stoke and London; was much with Walpole;
 graphically describes the trial of the Scottish rebel lords, and studied
 Greek with avidity; but "the muse," which by this time perhaps had
-stimulated him to begin the "Elegy," "has gone, and left him in much
+stimulated him to begin the "[[Elegy]]," "has gone, and left him in much
 worse company." In town he finds his friends Chute and Whithed returned
 to England, and "flaunts about" in public places with them. The year
 1747 produced only the ode on Walpole's cat, and we gather that he is
@@ -130,12 +130,12 @@ His aunt, Mary Antrobus, died in 1749.
 
 There is little to break the monotony of his days till 1750, when from
 Stoke he sent Walpole "a thing to which he had at last put an end." The
-"thing" was the "Elegy." It was shown about in manuscript by his
+"thing" was the "Elegy." It was shown about in [[Manuscript|manuscript]] by his
 admiring friend; it was impudently pirated, and Gray had it printed by
-Dodsley in self-defence. Even thus it had "a pinch or two in its
+[[Dodsley]] in self-defence. Even thus it had "a pinch or two in its
 cradle," of which it long bore the marks. The publication led to the one
 incident in Gray's life which has a touch of romance. At Stokehouse had
-come to live the widowed Lady Cobham, who learnt that the author of the
+come to live the widowed Lady [[Cobham]], who learnt that the author of the
 "Elegy" was her neighbour. At her instance, Lady Schaub, her visitor,
 and Miss Speed, her protegee, paid him a call; the poet was out, and his
 quiet mother and aunts were somewhat flustered at the apparition of
@@ -190,7 +190,7 @@ in "dividing nothing" between himself and the surviving aunt, Mrs
 Oliffe, whom he calls "the spawn of Cerberus and the Dragon of Wantley."
 In 1759 he availed himself of the MS. treasures of the British Museum,
 then for the first time open to the public, made a very long sojourn in
-town, and in 1761 witnessed the coronation of George III., of which to
+town, and in 1761 witnessed the [[Coronation|coronation]] of George III., of which to
 his friend Brown of Pembroke he wrote a very vivacious account. In his
 last years he revealed a craving for a life less sedentary than
 heretofore. He visited various picturesque districts of Great Britain,
@@ -199,7 +199,7 @@ modern tourist, noting and describing in the spirit now of the poet, now
 of the art-critic, now of the antiquary. In 1762 he travelled in
 Yorkshire and Derbyshire; in 1764 in the Lowlands of Scotland, and
 thence went to Southampton and its neighbourhood. In 1765 he revisits
-Scotland; he is the guest of Lord Strathmore at Glamis; and revels in
+Scotland; he is the guest of Lord Strathmore at [[Glamis]]; and revels in
 "those monstrous creatures of God," the Highland mountains. His most
 notable achievement in this direction was his journey among the English
 lakes, of which he wrote an interesting account to Wharton; and even in
@@ -207,20 +207,20 @@ lakes, of which he wrote an interesting account to Wharton; and even in
 Nicholls "five of the most beautiful counties of the kingdom," and
 descended the Wye for 40 m. In all these quests he displays a physical
 energy which surprises and even perplexes us. His true academic status
-was worthily secured in 1768, when the duke of Grafton offered him the
+was worthily secured in 1768, when the duke of [[Grafton]] offered him the
 professorship of modern history which in 1762 he had vainly endeavoured
-to obtain from Bute. He wrote in 1769 the "Installation Ode" upon the
+to obtain from Bute. He wrote in 1769 the "[[Installation]] Ode" upon the
 appointment of Grafton as chancellor of the university. It was almost
 the only instance in which he successfully executed a task, not, in the
 strictest sense, self-imposed; the great founders of the university are
 tactfully memorized and pass before us in a kind of heraldic splendour.
 He bore with indifference the taunts to which, from Junius and others,
 he was exposed for this tribute to his patron. He was contemplating a
-journey to Switzerland to visit his youthful friend de Bonstetten when,
+journey to Switzerland to visit his youthful friend de [[Bonstetten]] when,
 in the summer of 1771, he was conscious of a great decline in his
 physical powers. He was seized with a sudden illness when dining in his
 college hall, and died of gout in the stomach on the 30th of July 1771.
-His last moments were attended by his cousin Mary Antrobus, postmistress
+His last moments were attended by his [[Cousin|cousin]] Mary Antrobus, postmistress
 through his influence at Cambridge and daughter of his Eton tutor; and
 he was laid beside his beloved mother in the churchyard of Stoke Poges.
 
@@ -233,7 +233,7 @@ literature ancient, medieval or modern; and with Proteus-like variety he
 writes at one time as a speculative philosopher, at another as a critic
 in art or music, at another as a meteorologist and nature-lover. His
 friendship with the young, after his migration to Pembroke College, is a
-noteworthy trait in his character. With Lord Strathmore and the Lyons
+noteworthy trait in his character. With Lord Strathmore and the [[Lyons]]
 and with William Palgrave he conversed as an elder brother, and Norton
 Nicholls of Trinity Hall lost in him a second father, who had taught him
 to think and feel. The brilliant young foreigner, de Bonstetten, looked
@@ -242,17 +242,17 @@ the days in which the poet so soon to die taught him to read Shakespeare
 and Milton in the monastic gloom of Cambridge. With the elderly
 "Levites" of the place he was less in sympathy; they dreaded his
 sarcastic vein; they were conscious that he laughed at them, and in the
-polemics of the university he was somewhat of a free lance, fighting for
-his own hand. Lampoons of his were privately circulated with effect, and
+polemics of the university he was somewhat of a free [[Lance|lance]], fighting for
+his own hand. [[Lampoon|Lampoons]] of his were privately circulated with effect, and
 that he could be the fiercest of satirists the "Cambridge Courtship" on
 the candidature of Lord Sandwich for the office of high steward, and the
 verses on Lord Holland's mimic ruins at Westgate, sufficiently prove.
-The faculty which he displayed in humour and satire was denied to his
+The faculty which he displayed in [[Humour|humour]] and satire was denied to his
 more serious muse; there all was the fruit of long delay; of that higher
 inspiration he had a thin but very precious vein, and the sublimity
 which he undoubtedly attained was reached by an effort of which captious
 and even sympathetic criticism can discover the traces. In his own time
-he was regarded as an innovator, for like Collins he revived the poetic
+he was regarded as an innovator, for like [[Collins]] he revived the poetic
 diction of the past, and the adverse judgments of Johnson and others
 upon his work are in fact a defence of the current literary traditions.
 Few men have published so little to so much effect; few have attained to
@@ -270,7 +270,7 @@ European literature as was accessible to him, with criticisms, sometimes
 indeed a little limited and insular, yet of a singularly fresh and
 modern cast. In person he was below the middle height, but well-made,
 and his face, in which the primness of his features was redeemed by his
-flashing eyes, was the index of his character. There was a touch of
+flashing eyes, was the [[Index|index]] of his character. There was a touch of
 affectation in his demeanour, and he was sometimes reticent and
 secretive even to his best friends. He was a refined Epicurean in his
 habits, and a deist rather than a Christian in his religious beliefs;
@@ -279,7 +279,7 @@ alive to the dangers of a flippant scepticism. In a beautiful alcaic
 stanza he pronounces the man supremely happy who in the depths of the
 heart is conscious of the "fount of tears," and his characteristic
 melancholy, except in the few hours when it was indeed black, was not a
-pitiable state; rather, it was one secret of the charm both of the man
+pitiable state; rather, it was one secret of the [[Charm|charm]] both of the man
 and of the poet.
 
   A very complete bibliography of Gray will be found in Dr. Bradshaw's
@@ -293,13 +293,13 @@ and of the poet.
   Mitford, who first did justice to the correspondence with Wharton and
   Norton Nicholls (5 vols., Pickering, 1836-1843; correspondence of Gray
   and Mason, Bentley, 1853); see also the edition of the works by Edmund
-  Gosse (4 vols., 1884); the Life by the same in Eng. Men of Letters
+  [[Gosse]] (4 vols., 1884); the Life by the same in Eng. Men of Letters
   (2nd ed., 1889); some further relics are given in _Gray and His
   Friends_ by D. C. Tovey (Cambridge, 1890); and a new edition of the
   letters copiously annotated by D. C. Tovey is in the Standard Library
   (1900-1907). Nicholl's _Illustrations_, vol. vi. p. 805, quoted by
   Professor Kittredge in the _Nation_, Sept. 12th, 1900, gives the true
-  story of Gray's migration to Pembroke College. Matthew Arnold's essay
+  story of Gray's migration to Pembroke College. [[Matthew]] Arnold's essay
   on Gray in Ward's _English Poets_ is one of the minor classics of
   literary criticism.     (D. C. To.)
 

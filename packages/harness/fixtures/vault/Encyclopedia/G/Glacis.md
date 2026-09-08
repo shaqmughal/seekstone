@@ -7,7 +7,7 @@ tags: [science, economics]
 
 # Glacis
 
-GLACIS, in military engineering (see FORTIFICATION AND SIEGECRAFT), an
+GLACIS, in military [[Engineering|engineering]] (see FORTIFICATION AND SIEGECRAFT), an
 artificial slope of earth in the front of works, so constructed as to
 keep an assailant under the fire of the defenders to the last possible
 moment. On the natural ground-level, troops attacking any high work

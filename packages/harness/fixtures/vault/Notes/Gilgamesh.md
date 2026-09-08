@@ -5,7 +5,7 @@ literary products of Babylonia, from the name of the chief personage in
 the series of tales of which it is composed.
 
 Though the Gilgamesh Epic is known to us chiefly from the fragments
-found in the royal collection of tablets made by Assur-bani-pal, the
+found in the royal collection of tablets made by [[Assur-Bani-Pal|Assur-bani-pal]], the
 king of Assyria (668-626 B.C.) for his palace at Nineveh, internal
 evidence points to the high antiquity of at least some portions of it,
 and the discovery of a fragment of the epic in the older form of the
@@ -28,9 +28,9 @@ not Babylonian, and what evidence as to his origin there is points to
 his having come from Elam, to the east of Babylonia. He may have
 belonged to the people known as the Kassites who at the beginning of the
 18th century B.C. entered Babylonia from Elam, and obtained control of
-the Euphrates valley. Why and how he came to be a popular hero in
+the [[Euphrates]] valley. Why and how he came to be a popular hero in
 Babylonia cannot with our present material be determined, but the epic
-indicates that he came as a conqueror and established himself at Erech.
+indicates that he came as a conqueror and established himself at [[Erech]].
 In so far we have embodied in the first part of the epic dim
 recollections of actual events, but we soon leave the solid ground of
 fact and find ourselves soaring to the heights of genuine myth.
@@ -40,14 +40,14 @@ apparently of Tammuz or Adonis, the youthful sun-god, though the story
 shows traits that differentiate it from the ordinary Tammuz myths. A
 separate stratum in the Gilgamesh epic is formed by the story of
 Eabani--introduced as the friend of Gilgamesh, who joins him in his
-adventures. There can be no doubt that Eabani, who symbolizes primeval
+adventures. There can be no doubt that [[Eabani]], who symbolizes primeval
 man, was a figure originally entirely independent of Gilgamesh, but his
 story was incorporated into the epic by that natural process to be
 observed in the national epics of other peoples, which tends to connect
 the favourite hero with all kinds of tales that for one reason or the
 other become embedded in the popular mind. Another stratum is
 represented by the story of a favourite of the gods known as
-Ut-Napishtim, who is saved from a destructive storm and flood that
+Ut-Napishtim, who is saved from a destructive storm and [[Flood|flood]] that
 destroys his fellow-citizens of Shurippak. Gilgamesh is artificially
 brought into contact with Ut-Napishtim, to whom he pays a visit for the
 purpose of learning the secret of immortal life and perpetual youth
@@ -74,20 +74,20 @@ may be indicated as follows:
 In the 1st tablet, after a general survey of the adventures of
 Gilgamesh, his rule at Erech is described, where he enlists the services
 of all the young able-bodied men in the building of the great wall of
-the city. The people sigh under the burden imposed, and call upon the
+the city. The people sigh under the [[Burden|burden]] imposed, and call upon the
 goddess Aruru to create a being who might act as a rival to Gilgamesh,
 curb his strength, and dispute his tyrannous control. The goddess
 consents, and creates Eabani, who is described as a wild man, living
 with the gazelles and the beasts of the field. Eabani, whose name,
 signifying "Ea creates," points to the tradition which made Ea (q.v.)
-the creator of humanity, symbolizes primeval man. Through a hunter,
+the creator of humanity, symbolizes primeval man. Through a [[Hunter|hunter]],
 Eabani and Gilgamesh are brought together, but instead of becoming
 rivals, they are joined in friendship. Eabani is induced by the snares
 of a maiden to abandon his life with the animals and to proceed to
-Erech, where Gilgamesh, who has been told in several dreams of the
+Erech, where Gilgamesh, who has been told in several [[Dream|dreams]] of the
 coming of Eabani, awaits him. Together they proceed upon several
 adventures, which are related in the following four tablets. At first,
-indeed, Eabani curses the fate which led him away from his former life,
+indeed, Eabani curses the [[Fate|fate]] which led him away from his former life,
 and Gilgamesh is represented as bewailing Eabani's dissatisfaction. The
 sun-god Shamash calls upon Eabani to remain with Gilgamesh, who pays him
 all honours in his palace at Erech. With the decision of the two friends
@@ -96,7 +96,7 @@ of Ishtar--dwells, and which is guarded by Khumbaba, the 2nd tablet
 ends. In the 3rd tablet, very imperfectly preserved, Gilgamesh appeals
 through a Shamash priestess Rimat-Belit to the sun-god Shamash for his
 aid in the proposed undertaking. The 4th tablet contains a description
-of the formidable Khumbaba, the guardian of the cedar forest. In the 5th
+of the formidable Khumbaba, the [[Guardian|guardian]] of the cedar forest. In the 5th
 tablet Gilgamesh and Eabani reach the forest. Encouraged by dreams, they
 proceed against Khumbaba, and despatch him near a specially high cedar
 over which he held guard. This adventure against Khumbaba belongs to the
@@ -104,12 +104,12 @@ Eabani stratum of the epic, into which Gilgamesh is artificially
 introduced. The basis of the 6th tablet is the familiar nature-myth of
 the change of seasons, in which Gilgamesh plays the part of the youthful
 solar god of the springtime, who is wooed by the goddess of fertility,
-Ishtar. Gilgamesh, recalling to the goddess the sad fate of those who
-fall a victim to her charms, rejects the offer. In the course of his
+[[Ishtar]]. Gilgamesh, recalling to the goddess the sad fate of those who
+fall a victim to her [[Charm|charms]], rejects the offer. In the course of his
 recital snatches of other myths are referred to, including he famous
 Tammuz-Adonis tale, in which Tammuz, the youthful bridegroom, is slain
 by his consort Ishtar. The goddess, enraged at the insult, asks her
-father Anu to avenge her. A divine bull is sent to wage a contest
+father [[Anu]] to avenge her. A divine [[Bull|bull]] is sent to wage a contest
 against Gilgamesh, who is assisted by his friend Eabani. This scene of
 the fight with the bull is often depicted on seal cylinders. The two
 friends by their united force succeed in killing the bull, and then
@@ -129,7 +129,7 @@ scorpion-men stand guard, from one of whom he receives advice as to how
 to pass through the Mashu district. He succeeds in doing so, and finds
 himself in a wonderful park, which lies along the sea coast. In the 10th
 tablet the goddess Sabitu, who, as guardian of the sea, first bolts her
-gate against Gilgamesh, after learning of his quest, helps him to pass
+gate against Gilgamesh, after learning of his quest, [[Helps|helps]] him to pass
 in a ship across the sea to the "waters of death." The ferry-man of
 Ut-Napishtim brings him safely through these waters, despite the
 difficulties and dangers of the voyage, and at last the hero finds
@@ -151,7 +151,7 @@ The reason why the flood episode and the interview with the dead Eabani
 are introduced is quite clear. Both are intended as illustrations of
 doctrines taught in the schools of Babylonia; the former to explain that
 only the favourites of the gods can hope under exceptional circumstances
-to enjoy life everlasting; the latter to emphasize the impossibility for
+to enjoy life [[Everlasting|everlasting]]; the latter to emphasize the impossibility for
 ordinary mortals to escape from the inactive shadowy existence led by
 the dead, and to inculcate the duty of proper care for the dead. That
 the astro-theological system is also introduced into the epic is clear
@@ -169,14 +169,14 @@ traces in the folk-tales and myths of Hebrews, Phoenicians, Syrians,
 Greeks and Romans throughout Asia Minor and even in India.
 
   BIBLIOGRAPHY.--The complete edition of the Gilgamesh Epic by Paul
-  Haupt under the title _Das babylonische Nimrodepos_ (Leipzig,
+  [[Haupt]] under the title _Das babylonische Nimrodepos_ (Leipzig,
   1884-1891), with the 12th tablet in the _Beitrage zur Assyriologie_,
   i. 48-79; German translation by Peter Jensen in vol. vi. of Schrader's
   _Keilinschriftliche Bibliothek_ (Berlin, 1900), pp. 116-273. See also
   the same author's comprehensive work, _Das Gilgamesch-Epos in der
   Weltliteratur_ (vol. i. 1906, vol. ii. to follow). An English
   translation of the chief portions in Jastrow, _Religion of Babylonia
-  and Assyria_ (Boston, 1898), ch. xxiii.     (M. Ja.)
+  and Assyria_ ([[Boston]], 1898), ch. xxiii.     (M. Ja.)
 
 
 FOOTNOTE:

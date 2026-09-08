@@ -11,7 +11,7 @@ Monmouthshire, England, on the right (west) bank of the Usk, 3 m. N.E. of
 Newport. Pop. (1901) 1411. Its claim to notice rests on its Roman and
 British associations. As _Isca Silurum_, it was one of the three great
 legionary fortresses of Roman Britain, established either about A.D. 50
-(Tacitus, _Annals_, xii. 32), or perhaps, as coin-finds suggest, about A.D.
+(Tacitus, _[[Annals]]_, xii. 32), or perhaps, as coin-finds suggest, about A.D.
 74-78 in the governorship of Julius Frontinus, and in either case intended
 to coerce the wild Silures. It was garrisoned by the Legio II. Augusta from
 its foundation till near the end of the Roman rule in Britain. Though never

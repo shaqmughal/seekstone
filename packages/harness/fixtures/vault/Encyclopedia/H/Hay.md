@@ -2,15 +2,15 @@
 
 HAY (a word common in various forms to Teutonic languages; cf. Ger.
 _Heu_, Dutch _hooi;_ the root from which it is derived, meaning "to
-cut," is also seen in "to hew"; cf. "hoe"), grass mown and dried in the
+cut," is also seen in "to hew"; cf. "[[Hoe|hoe]]"), grass mown and dried in the
 sun and used as fodder for cattle. It is properly applied only to the
 grass when cut, but is often also used of the standing crop. (See
 _Haymaking_ below). Another word "hay," meaning a fence, must be
-distinguished; the root from which it is derived is seen in its doublet
+distinguished; the root from which it is derived is seen in its [[Doublet|doublet]]
 "hedge," cf. "haw-thorn," i.e. "hedge thorn." In this sense it survives
 in legal history in "hay bote," _i.e._ hedge-bote, the right of a
 tenant, copyholder, &c. to take wood to repair fences, hedges, &c. (see
-ESTOVERS), and also in "hayward," an official of a manor whose duty was
+[[Estovers|ESTOVERS]]), and also in "[[Hayward|hayward]]," an official of a manor whose duty was
 to protect the enclosed lands from cattle breaking out of the common
 land.
 
@@ -18,7 +18,7 @@ _Haymaking._--The term "haymaking" signifies the process of drying and
 curing grass or other herbage so as to fit it for storage in stacks or
 sheds for future use. As a regular part of farm work it was unknown in
 ancient times. Before its introduction into Great Britain the animals
-intended for beef and mutton were slaughtered in autumn and salted down;
+intended for [[Beef|beef]] and mutton were slaughtered in autumn and salted down;
 the others were turned out to fend for themselves, and often lost all
 the fat in winter they had gained the previous summer. The introduction
 of haymaking gave unlimited scope for the production of winter food, and
@@ -37,7 +37,7 @@ the hay without any special "making," as the sun and wind will dry it
 quickly enough to fit it for stacking up without the expenditure of much
 labour. This rule also applies to dry countries like the United States
 and several of the British colonies, and it is for this reason that most
-of the modern implements used for quickly handling a bulk of hay have
+of the modern [[Implement|implements]] used for quickly handling a bulk of hay have
 been invented or improved in those countries. Forage of all kinds
 intended for hay should be cut at or before the flowering stage if
 possible. The full growth and food value of the plant are reached then,
@@ -56,12 +56,12 @@ drying process the 75% of water usually present in grass should be
 reduced to approximately 15% in the hay, and in wet or broken weather it
 is exceedingly difficult to secure this reduction. With a heavy crop or
 in damp weather grass may need turning in the swathe, raking up into
-"windrows," and then making up into cocks or "quiles," i.e. round
+"windrows," and then making up into [[Cock|cocks]] or "quiles," i.e. round
 beehive-like heaps, before it can be "carried." A properly made cock
 will stand bad weather for a week, as only the outside straws are
 weathered, and therefore the hay is kept fresh and green. Indeed, it is
 a good rule always to cock hay, for even in sunny weather undue exposure
-ends in bleaching, which is almost as detrimental to its quality as
+ends in [[Bleaching|bleaching]], which is almost as detrimental to its quality as
 wet-weathering.
 
 In the last quarter of the 19th century the methods of haymaking were
@@ -70,7 +70,7 @@ practice were revised. Generally speaking, before that time the only
 implements used were the scythe, the rake and the pitchfork;
 nowadays--with the exception of the pitchfork--these implements are
 seldom used, except where the work is carried on in a small way. Instead
-of the scythe, for instance, the mowing machine is employed for cutting
+of the scythe, for instance, the mowing [[Machine|machine]] is employed for cutting
 the crop, and with a modern improved machine taking a swathe as wide as
 5 or 6 ft. some 10 acres per day can easily be mown by one man and a
 pair of horses (figs. 1 and 2).
@@ -81,12 +81,12 @@ of Blade. (Harrison, M'Gregor & Co.)]
   It will be seen from the figures that a mower consists of three
   principal parts: (1) a truck or carriage on two high wheels carrying
   the driving gear; (2) the cutting mechanism, comprising a
-  reciprocating knife or sickle operating through slots in the guards or
-  "fingers" fastened to the cutting bar which projects to either the
+  reciprocating [[Knife|knife]] or sickle operating through slots in the [[Guards|guards]] or
+  "[[Finger|fingers]]" fastened to the cutting bar which projects to either the
   right or left of the truck; and (3) the pole with whipple-trees, by
   which the horses are attached to give the motive power. The
   reciprocating knife has a separate blade to correspond to each finger,
-  and is driven by a connecting rod and crank on the fore part of the
+  and is driven by a connecting rod and [[Crank|crank]] on the fore part of the
   truck. In work the pointed "fingers" pass in between the stalks of
   grass and the knives shear them off, acting against the fingers as the
   crank drives them backwards and forwards. In the swathe of grass left
@@ -102,11 +102,11 @@ of Blade. (Harrison, M'Gregor & Co.)]
 After the grass has lain in the swathe a day or two till it is partly
 dried, it is necessary to turn it over to dry the other side. This used
 to be done with the hand rake, and a band of men or women would advance
-in _echelon_ across a field, each turning the swathe of hay by regular
+in _[[Echelon|echelon]]_ across a field, each turning the swathe of hay by regular
 strokes of the rake at each step: "driving the dusky wave along the
-mead" as described in Thomson's _Seasons._ This part of the work was the
+[[Mead|mead]]" as described in Thomson's _Seasons._ This part of the work was the
 act of "haymaking" proper, and the subject of much sentiment in both
-prose and poetry. The swathes as laid by the mowing machine lent
+prose and poetry. The swathes as laid by the mowing machine [[Lent|lent]]
 themselves to this treatment in the old days when the swathe was only
 some 3 to 4 ft. wide, but with the wide cut of the present day it
 becomes impracticable. If the hay is turned and "made" at all, the
@@ -123,7 +123,7 @@ leaving it loose for the wind to blow through.
 [Illustration: FIG. 3.--Swathe-turner. (Blackstone & Co., Ltd.).]
 
 The "kicker" is mounted on two wheels, and carries in bearings at the
-rear of the frame a multiple-cranked shaft, provided with a series of
+rear of the [[Frame|frame]] a multiple-cranked shaft, provided with a series of
 forks sleeved on the cranks and having their upper ends connected by
 links to the frame. As the crankshaft is driven from the wheels by
 proper gearing the forks move upward and forward, then downward and
@@ -138,10 +138,10 @@ up into loose "windrows" a little before carrying to the stack. On the
 other hand, where the crop is heavy (say over 2 tons per acre) or the
 climate is wet, turning will be necessary.
 
-With heavy crops of clover, lucerne and similar forage crops, turning
+With heavy crops of [[Clover|clover]], lucerne and similar forage crops, turning
 may be an absolute necessity, because a thick swathe of a succulent crop
 will be difficult to dry or "make" excepting in hot sunny weather, but
-with ordinary meadow grass or with a mixture of "artificial" grasses it
+with ordinary meadow grass or with a mixture of "artificial" [[Grasses|grasses]] it
 may often be dispensed with. It must be remembered, however, that the
 process of turning breaks the stalks (thus letting out the albuminoid
 and saccharine juices), and should be avoided as far as possible in
@@ -159,7 +159,7 @@ order to save both labour and the quality of the hay.
   load.
 
   [Illustration: FIG. 4.--Self-acting Horse Rake. (Ransomes, Sims &
-  Jefferies, Ltd.).]
+  [[Jefferies]], Ltd.).]
 
   The tipping is effected by pulling down a handle which sets a leverage
   device in motion, whereby the teeth are lifted up and the load of hay
@@ -217,7 +217,7 @@ order to save both labour and the quality of the hay.
   not working sweetly but has a tendency to clog or make rolls of hay,
   it may be inferred that the latter is not in a condition fit for
   stacking. Where the loads must be taken through a gateway or a long
-  distance to the stack, it is necessary to use carts or wagons, and the
+  distance to the stack, it is necessary to use [[Cart|carts]] or wagons, and the
   loading of these in the field out of the windrow is largely expedited
   by the use of the "loader," also an American invention of which many
   varieties are in the market. Generally speaking, it consists of a
@@ -231,9 +231,9 @@ order to save both labour and the quality of the hay.
   hay is thrown in forkfuls on at the bottom, a pony-gear causes the web
   to revolve, and the hay is carried in an almost continuous stream up
   the elevator and dropped over the top on to the stack. The whole
-  implement is made to fold down, and is provided with wheels so that it
+  implement is made to [[Fold|fold]] down, and is provided with wheels so that it
   can be moved from stack to stack. In the older forms there is a
-  "hopper" or box at the bottom into which the hay is thrown to enable
+  "hopper" or [[Box|box]] at the bottom into which the hay is thrown to enable
   the teeth of the web to catch it, but in the modern forms there is no
   hopper, the web reaching down to the ground so that hay can be picked
   up from the ground level. Where the hay is brought to the stack on
@@ -259,7 +259,7 @@ building, another on the ground pitching up the hay--and are carefully
 roped and raked down. In these the hay gets a preliminary sweating or
 tempering while at the same time it is rendered safe from the weather,
 and, thus stored, it may remain for weeks before being carried to the
-big stacks at the homestead. The practice of putting up the hay into
+big stacks at the [[Homestead|homestead]]. The practice of putting up the hay into
 little ricks in the field has brought about the introduction of another
 set of implements for carrying these to the stackyard.
 
@@ -268,7 +268,7 @@ set of implements for carrying these to the stackyard.
   between shafts. The vehicle is backed against a rick, and a chain
   passed round the bottom of the latter, which is then pulled up the
   slant of the tipped platform by means of a small windlass. When the
-  centre of the balance is passed, the platform carrying the rick tips
+  centre of the [[Balance|balance]] is passed, the platform carrying the rick tips
   back to the level, and the whole is thus loaded ready to move. Another
   variety of loader is formed of three shear-legs with block and tackle.
   These are placed over a rick, under which the grab-irons are passed,
@@ -283,7 +283,7 @@ living cells containing protoplasm. This continues its life action as
 long as it gets sufficient moisture and air. As life action involves the
 development of heat, the temperature in a confined space like a stack
 where the heat is not dissipated may rise to such a point that
-spontaneous combustion occurs. The chemical or physical reasons for this
+spontaneous [[Combustion|combustion]] occurs. The chemical or physical reasons for this
 are not very well understood. The starch and sugar contents of the
 tissues are changed in part into alcohol. In the analogous process of
 making silage (i.e. stacking wet green grass in a closed building) the
@@ -301,7 +301,7 @@ is the centre at about 6 ft. from the ground; below this the weight of
 the hay itself squeezes out the air, and at the sides and top the heat
 is dissipated outwards. If a stack shows signs of overheating (a process
 that may take weeks or even months to develop) it can be saved by
-cutting a gap in the side of it with the hay knife, thus letting out the
+cutting a [[Gap|gap]] in the side of it with the hay knife, thus letting out the
 heat and fumes, and admitting fresh air to the centre. The essential
 point in haymaking is that the hay should be dried sufficiently to
 ensure the sweating process in the stack reaching no further than the
@@ -319,7 +319,7 @@ caused by the growth of various moulds (_Penicillium_, _Aspergillus_,
 &c.) on the damp stems, with the result that the hay when cut out for
 use is dusty and shows white streaks and spots. Such hay is inferior to
 that which has been overheated, and in practice it is found that a
-strong heating will prevent mouldiness by killing the fungi.
+strong heating will prevent mouldiness by killing the [[Fungi|fungi]].
 
 Heavy lush crops--especially those containing a large proportion of
 clover or other leguminous plants--are proportionately more difficult to

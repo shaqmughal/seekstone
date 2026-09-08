@@ -15,26 +15,26 @@ Brooklyn, is a small unincorporated village, once famous for its
 whale-fisheries, and now best known for the presence here of the New
 York State Fish Hatchery, and of the Biological Laboratory of the
 Brooklyn Institute of Arts and Sciences and of the laboratory of the
-Department of Experimental Evolution of the Carnegie Institution of
+Department of Experimental Evolution of the [[Carnegie]] Institution of
 Washington. The village of Huntington, 3(1/2) m. E. of Cold Spring, is
 unincorporated, but is the most important of the three and has the
 largest summer colony. There is a public park on the water-front. The
 Soldiers' and Sailors' Memorial Building is occupied by the public
-library, which faces a monument to Nathan Hale on Main Street. A big
-boulder on the shore of the bay marks the place of Hale's capture by the
-British on the 21st of September 1776. Benjamin Thompson (Count Rumford)
+library, which faces a monument to Nathan [[Hale]] on Main Street. A big
+[[Boulder|boulder]] on the shore of the bay marks the place of Hale's capture by the
+British on the 21st of September 1776. [[Benjamin]] Thompson (Count Rumford)
 occupied the village and built a British fort here near the close of the
 American War of Independence. Huntington's inhabitants were mostly
 strong patriots, notably Ebenezer Prime (1700-1779), pastor of the First
-Presbyterian Church, which the British used as a barracks, and his son
+Presbyterian Church, which the British used as a [[Barracks|barracks]], and his son
 Benjamin Young Prime (1733-1791), a physician, linguist and patriot
-poet, who was the father of Samuel Irenaeus Prime (1812-1885), editor of
+poet, who was the father of Samuel [[Irenaeus]] Prime (1812-1885), editor of
 the New York _Observer_. Walt Whitman was born near the village of
 Huntington, and established there in 1836, and for three years edited,
 the weekly newspaper the _Long Islander_. The first settlement in the
 township was made in 1653; in 1662-1664 Huntington was under the
 government of Connecticut. The township until 1872 included the present
-township of Babylon to the S., along the Great South Bay.
+township of [[Babylon]] to the S., along the Great South Bay.
 
 ## See also
 

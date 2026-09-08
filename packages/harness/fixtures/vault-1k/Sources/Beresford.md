@@ -33,7 +33,7 @@ the king of Portugal. After six months in Madeira as governor and
 commander-in-chief, during which he learnt Portuguese and obtained an
 insight into the Portuguese character, he was ordered to join Sir Arthur
 Wellesley's army in Portugal. He was first employed as commandant in
-Lisbon, but accompanied Sir John Moore on the advance into Spain, and
+[[Lisbon]], but accompanied Sir John Moore on the advance into Spain, and
 took a conspicuous part in the battle of Corunna (see PENINSULAR WAR).
 In February 1809 Beresford was given the task of reorganizing the
 Portuguese army. In this task, by systematic weeding-out of inefficient

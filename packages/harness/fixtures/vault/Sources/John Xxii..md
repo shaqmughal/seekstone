@@ -10,8 +10,8 @@ and Toulouse. At Toulouse he became intimate with the bishop Louis, son
 of Charles II., king of Naples. In 1300 he was elevated to the episcopal
 see of Fréjus by Pope Boniface VIII. at the instance of the king of
 Naples, and in 1308 was made chancellor of Naples by Charles, retaining
-this office under Charles's successor, Robert of Anjou. In 1310 Pope
-Clement V. summoned Jacques to Avignon and instructed him to advise upon
+this office under Charles's successor, Robert of [[Anjou]]. In 1310 Pope
+[[Clement]] V. summoned Jacques to [[Avignon]] and instructed him to advise upon
 the affair of the Templars and also upon the question of condemning the
 memory of Boniface VIII. Jacques decided on the legality of suppressing
 the order of the Templars, holding that the pope would be serving the
@@ -21,10 +21,10 @@ church and a monstrous abuse of the lay power. On the 23rd of December
 1312 Clement appointed him cardinal-bishop of Porto, and it was while
 cardinal of Porto that he was elected pope, on the 7th of August 1316.
 Clement had died in April 1314, but the cardinals assembled at
-Carpentras were unable to agree as to his successor. As the two-thirds
+[[Carpentras]] were unable to agree as to his successor. As the two-thirds
 majority requisite for an election could not be obtained, the cardinals
 separated, and it was not until the 28th of June 1316 that they
-reassembled in the cloister of the Dominicans at Lyons, and then only in
+reassembled in the cloister of the Dominicans at [[Lyons]], and then only in
 deference to the pressure exerted upon them by Philip V. of France.
 After deliberating for more than a month they elected Robert of Anjou's
 candidate, Jacques Duèse, who was crowned on the 5th of September, and
@@ -41,7 +41,7 @@ burdened Christian Europe with new taxes and a complicated fiscal
 system, which was fraught with serious consequences. For his personal
 use, however, he retained but a very small fraction of the sums thus
 acquired, and at his death his private fortune amounted to scarce a
-million florins. The essentially practical character of his
+million [[Florin|florins]]. The essentially practical character of his
 administration has led many historians to tax him with avarice, but
 later research on the fiscal system of the papacy of the period,
 particularly the joint work of Samaran and Mollat, enables us very
@@ -51,7 +51,7 @@ others.
 John's pontificate was continually disturbed by his conflict with Louis
 of Bavaria and by the theological revolt of the Spiritual Franciscans.
 In October 1314 Louis of Bavaria and Frederick of Austria had each been
-elected German king by the divided electors. Louis was gradually
+elected German king by the divided [[Electors|electors]]. Louis was gradually
 recognized by the whole of Germany, especially after his victory at
 Mühldorf (1322), and gained numerous adherents in Italy, where he
 supported the Visconti, who had been condemned as heretics by the pope.
@@ -61,7 +61,7 @@ demanding a respite, Louis abruptly appealed at Nuremberg from the
 future sentence of the pope to a general council (December 8, 1323). The
 conflict then assumed a grave doctrinal character. The doctrine of the
 rights of the lay monarchy sustained by Occam and John of Paris, by
-Marsilius of Padua, John of Jandun and Leopold of Bamberg, was affirmed
+Marsilius of Padua, John of Jandun and [[Leopold]] of Bamberg, was affirmed
 by the jurists and theologians, penetrated into the parlements and the
 universities, and was combated by the upholders of papal absolutism,
 such as Alvaro Pelayo and Alonzo Trionfo. Excommunicated on the 21st of
@@ -73,8 +73,8 @@ professed by the strict Franciscans. From this moment Louis appeared in
 the character of the natural ally and even the protector of the
 Spirituals against the persecution of the pope. On the 11th of July 1324
 the pope laid under an interdict the places where Louis or his adherents
-resided, but this bull had no effect in Germany. Equally futile was
-John's declaration (April 3, 1327) that Louis had forfeited his crown
+resided, but this [[Bull|bull]] had no effect in Germany. Equally futile was
+John's [[Declaration|declaration]] (April 3, 1327) that Louis had forfeited his crown
 and abetted heresy by granting protection to Marsilius of Padua. Having
 reconciled himself with Frederick of Austria, Louis penetrated into
 Italy and seized Rome on the 7th of January 1328, with the help of the
@@ -83,7 +83,7 @@ the Vatican, Louis got himself crowned by the deputies of the Roman
 people; instituted proceedings for the deposition of John, whom the
 Roman people, displeased by the spectacle of the papacy abandoning Rome,
 declared to have forfeited the pontificate (April 18, 1328); and finally
-caused a Minorite friar, Pietro Rainalucci da Corvara, to be elected
+caused a Minorite [[Friar|friar]], Pietro Rainalucci da Corvara, to be elected
 pope under the name of Nicholas V. John preached a platonic crusade
 against Louis, who burned the pope's effigy at Pisa and in Amelia. Soon,
 however, Louis felt his power waning, and quitted Rome and Italy (1329).
@@ -105,7 +105,7 @@ theologians continued.
 A violent manifestation of this resistance took place in connexion with
 the accusation of heresy brought against the pope. On the third Sunday
 in Advent 1329, and afterwards in public consistory, John had preached
-that the souls of those who have died in a state of grace go into
+that the souls of those who have died in a state of [[Grace|grace]] go into
 Abraham's bosom, _sub altari Dei_, and do not enjoy the beatific vision
 (_visio facie ad faciem_) of the Lord until after the Last Judgment and
 the Resurrection; and he had even instructed a Minorite friar, Gauthier
@@ -113,7 +113,7 @@ of Dijon, to collect the passages in the Fathers which were in favour of
 this doctrine. On the 27th of December 1331 a Dominican, Thomas of
 England, preached against this doctrine at Avignon itself and was thrown
 into prison. When news of this affair had reached Paris, the pope sent
-the general of the Minorites, Gerard Odonis, accompanied by a Dominican,
+the general of the Minorites, [[Gerard]] Odonis, accompanied by a Dominican,
 to sustain his doctrine in that city, but King Philip VI., perhaps at
 the instigation of the refugee Spirituals in Paris, referred the
 question to the faculty of theology, which, on the 2nd of January 1333,
@@ -125,7 +125,7 @@ The king notified this decision to the pope, who assembled his
 consistory in November 1333, and gave a haughty reply. The theologians
 in Louis's following who were opposed to papal absolutism already spoke
 of "the new heretic, Jacques de Cahors," and reiterated with increasing
-insistency their demands for the convocation of a general council to try
+insistency their demands for the [[Convocation|convocation]] of a general council to try
 the pope. John appears to have retracted shortly before his death, which
 occurred on the 4th of December 1334.[1]
 
@@ -138,19 +138,19 @@ _Quorundam exigit_ (April 13, 1317), adopted an uncompromising and
 absolute attitude, and by the bull _Gloriosam ecclesiam_ (January 23,
 1318) condemned the protests which had been raised against the bull
 _Quorundam_ by a group of seventy-four Spirituals and conveyed to
-Avignon by the monk Bernard Délicieux. Shortly afterwards four
-Spirituals were burned at Marseilles. These were immediately hailed as
+Avignon by the monk [[Bernard]] Délicieux. Shortly afterwards four
+Spirituals were burned at [[Marseilles]]. These were immediately hailed as
 martyrs, and in the eyes of the exalted Franciscans at Naples and in
-Sicily and the south of France the pope was regarded as antichrist. In
-the bull _Sancta Romana et universa ecclesia_ (December 28, 1318) John
+Sicily and the south of France the pope was regarded as [[Antichrist|antichrist]]. In
+the bull _Sancta Romana et universa [[Ecclesia|ecclesia]]_ (December 28, 1318) John
 definitively excommunicated them and condemned their principal book, the
 _Postil_ (commentary) on the Apocalypse (February 8, 1326). The bull
 _Quia nonnunquam_ (March 26, 1322) defined the derogations from the rule
 punished by the pope, and the bull _Cum inter nonnullos_ (November 12,
 1323) condemned the proposition which had been admitted at the general
 chapter of the Franciscans held at Perugia in 1322, according to which
-Christ and the Apostles were represented as possessing no property,
-either personal or common. The minister general, Michael of Cesena,
+Christ and the [[Apostle|Apostles]] were represented as possessing no property,
+either personal or common. The minister general, Michael of [[Cesena]],
 though opposed to the exaggerations of the Spirituals, joined with them
 in protesting against the condemnation of the fundamental principle of
 evangelical poverty, and the agitation gradually gained ground. The

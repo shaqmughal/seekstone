@@ -10,7 +10,7 @@ type: reference
 ASSIDEANS (the Anglicized form, derived through the Greek, of the Hebrew
 _Hasidim_, "the pious"), the name of a party or sect which stood out
 against the Hellenization of the Jews in the 2nd century B.C. After the
-massacre of those who fled from the forces of Antiochus Epiphanes and
+[[Massacre|massacre]] of those who fled from the forces of [[Antiochus]] Epiphanes and
 would not resist on the sabbath, Mattathias (or Judas) decided to set
 aside the law and was joined by a company of Assideans, brave men of
 Israel every one, who offered themselves willingly for the law (1 Macc.

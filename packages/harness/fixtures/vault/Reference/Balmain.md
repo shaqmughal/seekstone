@@ -7,11 +7,11 @@ type: source
 
 # Balmain
 
-BALMAIN, a town of Cumberland county, N.S.W., Australia, on the western
-shore of Darling Harbour, Port Jackson, 2 m. by water from Sydney and
+BALMAIN, a town of [[Cumberland]] county, N.S.W., [[Australia]], on the western
+shore of Darling Harbour, Port [[Jackson]], 2 m. by water from Sydney and
 suburban to it. Pop. (1901) 30,881. It is the home of great numbers of the
 working classes of Sydney and some of the largest factories and most
-important docks are situated here. Saw-mills, iron foundries, chemicals,
+important [[Dock|docks]] are situated here. Saw-mills, iron foundries, chemicals,
 glass and soap works, shipbuilding yards and a cocoanut-oil factory in
 connexion with the soap-manufacture at Port Sunlight, England, are among
 the chief industrial establishments. Balmain became a municipality in 1860.

@@ -14,7 +14,7 @@ assensionibus_ ([Greek: Peri epochês], "on suspension of judgment") and
 146 he wrote a treatise to console his countrymen after the ruin of
 their city, in which he insisted that a wise man ought not to feel
 grieved at the destruction of his country. Cicero highly commends his
-works and admits his own debt in the _Academics_ to the treatise [Greek:
+works and admits his own [[Debt|debt]] in the _Academics_ to the treatise [Greek:
 Peri epochês]. Parts of Cicero's _De Natura_ and _De Divinatione_, and
 the treatise _De Fato_ are also in the main based upon Clitomachus.
 

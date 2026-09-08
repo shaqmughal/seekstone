@@ -20,7 +20,7 @@ fuller account.
 
 [Illustration: FIG. 5.]
 
-_Ancient Lamps._--Though Athenaeus states (xv. 700) that the lamp
+_Ancient Lamps._--Though [[Athenaeus]] states (xv. 700) that the lamp
 ([Greek: lychnos]) was not an ancient invention in Greece, it had come
 into general use there for domestic purposes by the 4th century B.C.,
 and no doubt had long before been employed for temples or other places
@@ -56,18 +56,18 @@ this same type is retained, though the roundness was less in keeping
 with metal. Fanciful shapes are equally common in bronze. The standard
 form of handle consists of a ring for the forefinger and above it a kind
 of palmette for the thumb. Instead of the palmette is sometimes a
-crescent, no doubt in allusion to the moon. It would only be with bronze
+[[Crescent|crescent]], no doubt in allusion to the moon. It would only be with bronze
 lamps that the cover protecting the flame from the wind could be used,
 as was the case out of doors in Athens. Such a lamp was in fact a
 lantern. Apparently it was to the lantern that the Greek word _lampas_,
-a torch, was first transferred, probably from a custom of having guards
+a torch, was first transferred, probably from a custom of having [[Guards|guards]]
 to protect the torches also. Afterwards it came to be employed for the
 lamp itself ([Greek: lychnos], _lucerna_). When Juvenal (_Sat._ iii.
 277) speaks of the _aenea lampas_, he may mean a torch with a bronze
 handle, but more probably either a lamp or a lantern. Lamps used for
 suspension were mostly of bronze, and in such cases the decoration was
 on the under part, so as to be seen from below. Of this the best example
-is the lamp at Cortona, found there in 1840 (engraved, _Monumenti d.
+is the lamp at [[Cortona]], found there in 1840 (engraved, _Monumenti d.
 inst. arch._ iii. pls. 41, 42, and in Dennis, _Cities and Cemeteries of
 Etruria_, 2nd ed. ii. p. 403). It is set round with sixteen nozzles
 ornamented alternately with a siren and a satyr playing on a double
@@ -78,13 +78,13 @@ to belong to the beginning of the 5th century B.C., justifies the esteem
 in which Etruscan lamps were held in antiquity (Athenaeus xv. 700). Of a
 later but still excellent style is a bronze lamp in the British Museum
 found in the baths of Julian in Paris (figs. 3, 4, 5). The chain is
-attached by means of two dolphins very artistically combined. Under the
+attached by means of two [[Dolphin|dolphins]] very artistically combined. Under the
 nozzles are heads of Pan (fig. 3); and from the sides project the
 foreparts of lions (fig. 5). To what extent lamps may have been used in
 temples is unknown. Probably the Erechtheum on the acropolis of Athens
 was an exception in having a gold one kept burning day and night, just
 as this lamp itself must have been an exception in its artistic merits.
-It was the work of the sculptor Callimachus, and was made apparently for
+It was the work of the sculptor [[Callimachus]], and was made apparently for
 the newly rebuilt temple a little before 400 B.C. When once filled with
 oil and lit it burned continuously for a whole year. The wick was of a
 fine flax called Carpasian (now understood to have been a kind of
@@ -122,7 +122,7 @@ was a common custom to bequeath property. For example, a marble slab in
 the British Museum has a Latin inscription describing the property which
 had been left to provide among other things that a lighted lamp with
 incense on it should be placed at the tomb of the deceased on the
-kalends, nones and ides of each month (_Mus. Marbles_, v. pl. 8, fig.
+kalends, nones and ides of each month (_Mus. [[Marbles]]_, v. pl. 8, fig.
 2). For birthday presents terra-cotta lamps appear to have been
 frequently employed, the device generally being that of two figures of
 victory holding between them a disk inscribed with a good wish for the

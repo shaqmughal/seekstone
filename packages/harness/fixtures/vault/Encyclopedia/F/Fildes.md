@@ -8,14 +8,14 @@ id: 42-5194
 
 # Fildes
 
-FILDES, SIR LUKE (1844-   ), English painter, was born at Liverpool, and
-trained in the South Kensington and Royal Academy schools. At first a
+FILDES, SIR [[Luke|LUKE]] (1844-   ), English painter, was born at [[Liverpool]], and
+trained in the South [[Kensington]] and Royal Academy schools. At first a
 highly successful illustrator, he took rank later among the ablest
 English painters, with "The Casual Ward" (1874), "The Widower" (1876),
 "The Village Wedding" (1883), "An Al-fresco Toilette" (1889); and "The
 Doctor" (1891), now in the National Gallery of British Art. He also
 painted a number of pictures of Venetian life and many notable
-portraits, among them the coronation portraits of King Edward VII. and
+portraits, among them the [[Coronation|coronation]] portraits of King Edward VII. and
 Queen Alexandra. He was elected an associate of the Royal Academy in
 1879, and academician in 1887; and was knighted in 1906.
 
@@ -35,8 +35,8 @@ shark skin or fishes' teeth. The operation of filing is recorded in 1
 Sam. xiii. 21; and, among other facts, the similarity of the name for
 the filing instrument among various European peoples points to an early
 practice of the art. A file differs from a _rasp_ (which is chiefly used
-for working wood, horn and the like) in having its teeth cut with a
-chisel whose straight edge extends across its surface, while the teeth
+for working wood, [[Horn|horn]] and the like) in having its teeth cut with a
+[[Chisel|chisel]] whose straight edge extends across its surface, while the teeth
 of the rasp are formed by solitary indentations of a pointed chisel.
 According to the form of their teeth, files may be _single-cut_ or
 _double-cut_; the former have only one set of parallel ridges (either
@@ -51,19 +51,19 @@ the _four-square_ file, of square section, sometimes with one side
 "safe," or left smooth; and the so-called _three-square_ file, having
 its cross section an equilateral triangle, the _half-round_ file, a
 segment of a circle, the _round_ or _rat-tail_ file, a circle, which are
-generally tapered. The _float_ file is like the _flat_, but single-cut.
+generally tapered. The _[[Float|float]]_ file is like the _flat_, but single-cut.
 There are many others. Files vary in length from three-quarters of an
-inch (watchmakers') to 2 or 3 ft. and upwards (engineers'). The length
+[[Inch|inch]] (watchmakers') to 2 or 3 ft. and upwards (engineers'). The length
 is reckoned exclusively of the spike or tang which enters the handle.
 Most files are tapered; the _blunt_ are nearly parallel, with larger
 section near the middle; a few are parallel. The _rifflers_ of sculptors
-and a few other files are curvilinear in their central line.
+and a few other files are [[Curvilinear|curvilinear]] in their central line.
 
-In manufacturing files, steel blanks are forged from bars which have
+In manufacturing files, steel [[Blank|blanks]] are forged from bars which have
 been sheared or rolled as nearly as possible to the sections required,
 and after being carefully annealed are straightened, if necessary, and
 then rendered clean and accurate by grinding or filing. The process of
-cutting them used to be largely performed by hand, but machines are now
+cutting them used to be largely performed by hand, but [[Machine|machines]] are now
 widely employed. The hand-cutter, holding in his left hand a short
 chisel (the edge of which is wider than the width of the file), places
 it on the blank with an inclination from the perpendicular of 12° or
@@ -89,14 +89,14 @@ back as the 18th century, to invent machinery for cutting files, but
 little success was attained till the latter part of the 19th century. In
 most of the machines the idea was to arrange a metal arm and hand to
 hold the chisel with a hammer to strike the blow, and so to imitate the
-manual process as closely as possible. The general principle on which
+[[Manual|manual]] process as closely as possible. The general principle on which
 the successful forms are constructed is that the blanks, laid on a
 moving table, are slowly traversed forward under a rapidly reciprocating
-chisel or knife.
+chisel or [[Knife|knife]].
 
 The filing of a flat surface perfectly true is the test of a good filer;
 and this is no easy matter to the beginner. The piece to be operated
-upon is generally fixed about the level of the elbow, the operator
+upon is generally fixed about the level of the [[Elbow|elbow]], the operator
 standing, and, except in the case of small files, grasping the file with
 both hands, the handle with the right, the farther end with the left.
 The great point is to be able to move the file forward with pressure in
@@ -113,7 +113,7 @@ the work, &c. Files can be cleaned with a piece of the so-called
 _cotton-card_ (used in combing cotton wool) nailed to a piece of wood.
 In _draw-filing_, which is sometimes resorted to to give a neat finish,
 the file is drawn sideways to and fro over the work. New files are
-generally used for a time on brass or cast-iron, and when partially worn
+generally used for a time on [[Brass|brass]] or cast-iron, and when partially worn
 they are still available for filing wrought iron and steel.
 
 2. A string or thread (through the Fr. _fil_ and _file_, from Lat.
@@ -121,11 +121,11 @@ _filum_, a thread); hence used of a device, originally a cord, wire or
 spike on which letters, receipts, papers, &c., may be strung for
 convenient reference. The term has been extended to embrace various
 methods for the preservation of papers in a particular order, such as
-expanding books, cabinets, and ingenious improvements on the simple wire
+expanding books, [[Cabinet|cabinets]], and ingenious improvements on the simple wire
 file which enable any single document to be readily found and withdrawn
 without removing the whole series. From the devices used for filing the
 word is transferred to the documents filed, and thus is used of a
-catalogue, list, or collection of papers, &c. File is also employed to
+[[Catalogue|catalogue]], list, or collection of papers, &c. File is also employed to
 denote a row of persons or objects arranged one behind the other. In
 military usage a "file" is the opposite of a "rank," that is, it is
 composed of a (variable) number of men aligned from front to rear one
@@ -133,7 +133,7 @@ behind the other, while a rank contains a number of men aligned from
 right to left abreast. Thus a British infantry company, in line two
 deep, one hundred strong, has two ranks of fifty men each, and fifty
 "files" of two men each. Up to about 1600 infantry companies or
-battalions were often sixteen deep, one front rank man and the fifteen
+[[Battalion|battalions]] were often sixteen deep, one front rank man and the fifteen
 "coverers" forming a file. The number of ranks and, therefore, of men in
 the file diminished first to ten (1600), then to six (1630), then to
 three (1700), and finally to two (about 1808 in the British army, 1888

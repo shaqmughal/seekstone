@@ -8,8 +8,8 @@ type: note
 # Berdyansk
 
 BERDYANSK, a seaport town of Russia, in the government of Taurida, on
-the north coast of the Sea of Azov, in 46 deg. 45' N. lat. and 36 deg.
-40' E. long. The principal industries are in bricks and tiles, tallow
+the north coast of the Sea of [[Azov]], in 46 deg. 45' N. lat. and 36 deg.
+40' E. long. The principal industries are in [[Brick|bricks]] and tiles, tallow
 and macaroni. The roads are protected from every wind except the south,
 which occasions a heavy surf; but against this a mole was constructed in
 1863. The chief articles of export are cereals, flour, wool, hemp, skins

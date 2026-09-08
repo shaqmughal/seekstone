@@ -44,7 +44,7 @@ the subject.
 
 Automatic writing for the most part, no doubt, brings to the surface only
 the debris of lapsed memories and half-formed impressions which have never
-reached the focus of consciousness--the stuff that dreams are made of. But
+reached the [[Focus|focus]] of consciousness--the stuff that dreams are made of. But
 there are indications in some cases of something more than this. In some
 spontaneous instances the writing produces anagrams, puns, nonsense verses
 and occasional blasphemies or obscenities; and otherwise exhibits
@@ -73,7 +73,7 @@ the spirits of the dead.
 
 [v.03 p.0048] The opportunities afforded by automatic writing for
 communicating with subconscious strata of the personality have been made
-use of by Pierre Janet and others in cases of hystero-epilepsy, and other
+use of by Pierre [[Janet]] and others in cases of hystero-epilepsy, and other
 forms of dissociation of consciousness. A patient in an attack of
 hysterical convulsions, to whom oral appeals are made in vain, can
 sometimes be induced to answer in writing questions addressed to the hand,
@@ -81,10 +81,10 @@ and thus to reveal the secret of the malady or to accept therapeutic
 suggestions.
 
 See Edmonds and Dexter, _Spiritualism_ (New York, 1853); Epes Sargent,
-_Planchette, the Despair of Science_ (Boston, U.S.A., 1869); Mrs de Morgan,
+_Planchette, the Despair of Science_ ([[Boston]], U.S.A., 1869); Mrs de Morgan,
 _From Matter to Spirit_ (London, 1863); W. Stainton Moses, _Spirit
 Teachings_ (London, 1883); _Proceedings S.P R. passim_; Th. Flournoy, _Des
-Indes à la planète Mars_ (Geneva, 1900); F. Podmore, _Modern Spiritualism_
+Indes à la planète Mars_ ([[Geneva]], 1900); F. Podmore, _Modern Spiritualism_
 (London, 1902); F. W. H. Myers, _Human Personality_ (London, 1903); Pierre
 Janet, _L'Automatisme psychologique_ (2nd ed., Paris, 1894); Morton Prince,
 _The Dissociation of a Personality_ (London, 1906).
@@ -94,7 +94,7 @@ _The Dissociation of a Personality_ (London, 1906).
 AUTOMATISM. In philosophical terminology this word is used in two main
 senses: (1) in ethics, for the view that man is not responsible for his
 actions, which have, therefore, no moral value; (2) in psychology, for all
-actions which are not the result of conation or conscious endeavour.
+actions which are not the result of [[Conation|conation]] or conscious endeavour.
 Certain actions being admittedly automatic, Descartes maintained that, in
 regard of the lower animals, all action is purely mechanical. The same
 theory has since been applied to man, with this difference that,
@@ -121,7 +121,7 @@ Psych._ i. chap. 5; also the articles PSYCHOLOGY, SUGGESTION, &c.
 
 _Sensory Automatism_ is the term given by students of psychical research to
 a centrally initiated hallucination. Such hallucinations are commonly
-provoked by crystal-gazing (_q.v._), but auditory hallucinations may be
+provoked by [[Crystal-Gazing|crystal-gazing]] (_q.v._), but auditory hallucinations may be
 caused by the use of a shell (shell-hearing), and the other senses are
 occasionally affected.
 

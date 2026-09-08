@@ -18,7 +18,7 @@ generally ice-bound from December to May. Timber, iron and wood-pulp are
 exported. There are a school of navigation and an institute for
 pisciculture. Hernosand was founded in 1584, and received its first
 town-privileges from John III. in 1587. It was the first town in Europe
-to be lighted by electricity (1885). The poet Franzen (q.v.), Bishop of
+to be lighted by electricity (1885). The poet [[Franzen]] (q.v.), Bishop of
 Hernosand, is buried here.
 
 ## See also

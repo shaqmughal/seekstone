@@ -2,7 +2,7 @@
 
 CAUDINE FORKS (_Furculae Caudinae_), a pass in Samnium, famous for the
 disaster which befell the Roman army in the second Samnite War (321
-B.C.). Livy (ix, 2) describes it as formed by two narrow wooded gorges,
+B.C.). Livy (ix, 2) describes it as formed by two narrow wooded [[Gorges|gorges]],
 between which lay a plain, grassy and well-watered, but entirely
 enclosed by mountains. Through this plain the road (later the Via Appia)
 led. The Romans, marching from Calatia to the relief of Luceria, entered

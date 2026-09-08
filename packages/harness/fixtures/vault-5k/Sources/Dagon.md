@@ -18,13 +18,13 @@ that Berossus speaks of an Assyrian merman-god.
 
   The true meaning of the name is doubtful. In 1 Sam. v. 4, Thenius and
   Wellhausen, followed by Robertson Smith and others, read "only his
-  fish-part (_dago_) was left to him"; against this, see the comm. of H.
-  P. Smith and Budde. The identification of Dagon with the Babylonian
+  fish-part (_[[Dago|dago]]_) was left to him"; against this, see the comm. of H.
+  P. Smith and Budde. The [[Identification|identification]] of Dagon with the Babylonian
   Dagan is doubted by G. F. Moore (_Encyc. Bib._, col. 985), and that of
   the latter with Odacon and Ea-Oannes is questionable. Philo Byblius
   (Muller, _Fr. Hist. Graec._ iii. 567 seq.) makes Dagon the inventor of
   corn and the plough, whence he was called [Greek: Zeus Harotrios].
-  This points to a natural though possibly late etymology from the
+  This points to a natural though possibly late [[Etymology|etymology]] from the
   Hebrew and Phoenician _dagan_ "corn." It is not improbable that, at
   least in later times, Dagon had in place of, or in addition to, his
   old character, that of the god who presided over agriculture; for in

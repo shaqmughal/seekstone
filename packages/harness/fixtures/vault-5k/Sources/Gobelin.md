@@ -1,8 +1,8 @@
 # Gobelin
 
-GOBELIN, the name of a family of dyers, who in all probability came
+GOBELIN, the name of a family of [[Dyer|dyers]], who in all probability came
 originally from Reims, and who in the middle of the 15th century
-established themselves in the Faubourg Saint Marcel, Paris, on the banks
+established themselves in the Faubourg Saint [[Marcel]], Paris, on the banks
 of the Bievre. The first head of the firm was named Jehan (d. 1476). He
 discovered a peculiar kind of scarlet dyestuff, and he expended so much
 money on his establishment that it was named by the common people _la

@@ -3,7 +3,7 @@
 KAMENETS PODOLSKIY, or PODOLIAN KAMENETS (Polish Kamieniec), a town of
 S.W. Russia, chief town of the government of Podolia. It stands in 48
 deg. 40' N. and 26 deg. 30' E., on a high, rocky bluff of the river
-Smotrich, a left-hand tributary of the Dniester, and near the Austrian
+Smotrich, a left-hand tributary of the [[Dniester]], and near the Austrian
 frontier. Pop. (1863), 20,699; (1900) 39,113, of whom 50% were Jews and
 30% Poles. Round the town lies a cluster of suburban villages, Polish
 Folwark, Russian Folwark, Zinkovtsui, Karvasarui, &c.; and on the
@@ -16,7 +16,7 @@ as a mosque by the Turks (1672-1699). The Greek cathedral of John the
 Baptist dates from the 16th century, but up to 1798 belonged to the
 Basilian monastery. Other buildings are the Orthodox Greek monastery of
 the Trinity, and the Catholic Armenian church (founded in 1398),
-possessing a 14th-century missal and an image of the Virgin Mary that
+possessing a 14th-century missal and an [[Image|image]] of the Virgin Mary that
 saw the Mongol invasion of 1239-1242. The town contains Orthodox Greek
 and Roman Catholic seminaries, Jewish colleges, and an archaeological
 museum for church antiquities, founded in 1890. Kamenets was laid waste

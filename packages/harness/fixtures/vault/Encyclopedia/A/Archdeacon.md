@@ -55,11 +55,11 @@ practically independent of the bishop, whose consent was only required
 in certain specified cases.
 
 The power of the archdeacon reached its zenith at the outset of the 13th
-century. Innocent III. describes him as _judex ordinarius_, and he
+century. [[Innocent]] III. describes him as _judex ordinarius_, and he
 possesses in his own right the powers of visitation, of holding courts
 and imposing penalties, of deciding in matrimonial causes and cases of
 disputed jurisdiction, of testing candidates for orders, of inducting
-into benefices. He has the right to certain procurations, and to appoint
+into [[Benefice|benefices]]. He has the right to certain procurations, and to appoint
 and depose archpriests and rural deans. And these powers he may exercise
 through delegated _officiales_. His jurisdiction has become, in fact,
 not subordinate to, but co-ordinate with that of the bishop. Yet, so far
@@ -81,7 +81,7 @@ as the Roman Catholic Church is concerned, it received its death-blow
 from the council of Trent (1564), which withdrew all matrimonial and
 criminal causes from the competence of the archdeacons, forbade them to
 pronounce excommunications, and allowed them only to hold visitations in
-connexion with those of the bishop and with his consent. These decrees
+connexion with those of the bishop and with his consent. These [[Decree|decrees]]
 were not, indeed, at once universally enforced; but the convulsions of
 the Revolutionary epoch and the religious reorganization that followed
 completed the work. In the Roman Church to-day the office of archdeacon
@@ -113,35 +113,35 @@ temporalities of their benefices after they have been instituted into
 the spiritualities by the bishop or his vicar-general. Every archdeacon
 is entitled to appoint an official to preside over his archidiaconal
 court, from which there is an appeal to the consistory court of the
-bishop. The archdeacons are _ex officio_ members of the convocations of
+bishop. The archdeacons are _ex officio_ members of the [[Convocation|convocations]] of
 their respective provinces.
 
 It is the privilege of the archdeacon of Canterbury to induct the
 archbishop and all the bishops of the province of Canterbury into their
 respective bishoprics, and this he does in the case of a bishop under a
-mandate from the archbishop of Canterbury, directing him to induct the
+[[Mandate|mandate]] from the archbishop of Canterbury, directing him to induct the
 bishop into the real, actual, and corporal possession of the bishopric,
 and to install and to enthrone him; and in the case of the archbishop,
 under an analogous mandate from the dean and chapter of Canterbury, as
-being guardians of the spiritualities during the vacancy of the
+being [[Guardian|guardians]] of the spiritualities during the vacancy of the
 archiepiscopal see. In the colonies there are two or more archdeacons in
 each diocese, and their functions correspond to those of English
 archdeacons. In the Episcopal church of America the office of archdeacon
 exists in only one or two dioceses.
 
-  See Hinschius, _Kirchenrecht_, ii., SS 86. 87; Schroder, _Die
+  See [[Hinschius]], _Kirchenrecht_, ii., SS 86. 87; Schroder, _Die
   Entwicklung des Archdiakonats bis zum 11. Jahrhundert_ (Munich, 1890);
   Wetzer and Welte, _Kirchenlexikon_ (Freiburg-im-Breisgau, 1882-1901);
   Herzog-Hauck, _Realencyklopadie_ (ed. 1896); Phillimore,
-  _Ecclesiastical Law_, part ii. chap. v. (London, 1895).     (W. A. P.)
+  _[[Ecclesiastical Law]]_, part ii. chap. v. (London, 1895).     (W. A. P.)
 
 
 FOOTNOTE:
 
   [1] Archdeaconries were, indeed, sometimes treated as ordinary fiefs
-    and were held as such by laymen. Thus Ordericus Vitalis says that
-    "(Fulk) granted to the monks the archdeaconry which he and his
-    predecessors held in fee of the archbishop of Rouen" (_Hist. Eccl._
+    and were held as such by [[Laymen|laymen]]. Thus Ordericus Vitalis says that
+    "([[Fulk]]) granted to the monks the archdeaconry which he and his
+    predecessors held in [[Fee|fee]] of the archbishop of Rouen" (_Hist. Eccl._
     iii. 12).
 
 ## See also

@@ -9,7 +9,7 @@ id: 42-2550
 # Hibernation
 
 HIBERNATION (winter sleep), the dormant condition in which certain
-animals pass the winter in cold latitudes. Aestivation (summer sleep) is
+animals pass the winter in cold [[Latitude|latitudes]]. Aestivation (summer sleep) is
 the similar condition in which other species pass periods of heat or
 drought in warm latitudes. The origins of these kindred phenomena are
 probably to be sought in the regularly recurrent failure of food supply
@@ -17,46 +17,46 @@ or of other factors essential to existence due to the seasonal onset of
 cold in the one case and of excessively dry hot weather in the other.
 They are means whereby certain non-migratory species are enabled to live
 through unfavourable climatic conditions which would end fatally in
-starvation or desiccation were the animals to maintain their normal
+starvation or [[Desiccation|desiccation]] were the animals to maintain their normal
 state of activity.
 
 I. _The Physiology of Hibernation. Hibernation and Aestivation_.--The
-physiology of hibernation, as exemplified in mammalia, has been worked
+physiology of hibernation, as exemplified in [[Mammalia|mammalia]], has been worked
 out in detail by several observers in the case of some European species,
 notably bats, hedgehogs, dormice and marmots. Of the physiology of
 aestivation nothing definite appears to have been ascertained. It seems
 probable, however, from observations upon the dormant animals that the
 physiological accompaniments of winter and summer sleep are to all
-intents and purposes the same. The state of hibernation, for example,
+[[Intent|intents]] and purposes the same. The state of hibernation, for example,
 in the European hedgehog (_Erinaceus europaeus_) is not distinguished by
 external signs from the state of aestivation of the allied Mascarene
-genus, the tenrec (_Centetes ecaudatus_). The lethargy in both cases
+genus, the tenrec (_Centetes ecaudatus_). The [[Lethargy|lethargy]] in both cases
 appears to be directly due to fall in the temperature of the organisms;
 and the fall in temperature proceeds _pari passu_ with the slowing down
 and weakening of the respiration and with retardation in the circulation
 of the blood. Similarity, moreover, between hibernation and aestivation
 is shown not only in their physiological accompaniments but also in the
 species of animals which become seasonally dormant. Birds neither
-hibernate nor aestivate. The tenrec (_Centetes_) of Madagascar, which
+hibernate nor aestivate. The tenrec (_Centetes_) of [[Madagascar]], which
 aestivates, closely resembles the hedgehog (_Erinaceus_) in habits and
 belongs to the same order of mammalia. In the case of reptiles and
-batrachians, snakes, lizards, tortoises, frogs and toads sleep the
+batrachians, snakes, [[Lizard|lizards]], tortoises, frogs and toads sleep the
 winter through in cold countries; and some species of these groups
-habitually bury themselves in the sand or mud in tropical latitudes
+habitually [[Bury|bury]] themselves in the sand or mud in tropical latitudes
 where drought is of periodical occurrence. Terrestrial molluscs lie
 dormant in the winter in cold and temperate latitudes and their tropical
 allies aestivate in districts where conditions enforce the habit. Some
 fresh-water molluscs bury themselves in the mud at the bottom of ponds
-when the surface is covered with ice; others take refuge in the same way
+when the surface is covered with [[Ice|ice]]; others take refuge in the same way
 when pools and tanks become exhausted during the dry season in the
-tropics. In temperate and north temperate countries insects and
+tropics. In temperate and north temperate countries [[Insect|insects]] and
 arachnida either die or retire to winter quarters during the cold
 weather, and in the tropics they similarly disappear during times of
 drought.
 
 _Predisposing Causes of Hibernation._--The likeness between hibernation
 and aestivation and the coincidence of the one with cold and of the
-other with heat arrest the conclusion that the temperature of the
+other with heat [[Arrest|arrest]] the conclusion that the temperature of the
 surrounding medium, whether atmospheric or aquatic, is the prime, much
 less the sole, cause of either. The effect of extreme cold is to rouse
 the hibernating animal from its slumber; and its continuance thereafter
@@ -79,12 +79,12 @@ winter sleep. It is alleged that bears in Scandinavia do not hibernate
 unless food has been sufficiently plentiful during the summer and autumn
 to fatten them for their winter fast; and hedgehogs and dormice in
 captivity have been known to remain active in the cold until warm
-sleeping-quarters were insured by placing hay and cotton-wool in their
+sleeping-quarters were insured by placing [[Hay|hay]] and cotton-wool in their
 cages. Finally the wood-chucks (_Arctomys monax_) in the Adirondacks
 retire to winter quarters at about the time of the autumnal equinox,
 when the weather is warm and pleasant, and emerge at the vernal equinox
 before the snows of winter have vanished from the ground. These and
-other facts justify Marshall Hall's conclusion that cold is merely a
+other facts justify [[Marshall]] Hall's conclusion that cold is merely a
 predisposing cause of hibernation in the sense that it is a predisposing
 cause of ordinary sleep. It has also been shown that the state of
 hibernation cannot be forced upon snails in summer by submitting them to
@@ -96,8 +96,8 @@ of preceding days during which they retain their activity.
 
 Thus the oncoming and ceasing both of winter and summer sleep depend to
 a considerable extent upon conditions of existence other than those of
-temperature. Darwin saw scarcely a sign of a living thing on his arrival
-at Bahia Blanca, Argentina, on the 7th of Sept., although by digging
+temperature. [[Darwin]] saw scarcely a sign of a living thing on his arrival
+at [[Bahia Blanca]], [[Argentina]], on the 7th of Sept., although by digging
 several insects, large spiders and lizards were found in a half-torpid
 state. During the days of his visit when nature was dormant the mean
 temperature was 51 deg., the thermometer seldom rising above 55 deg. at
@@ -132,14 +132,14 @@ diurnal sleep and in their winter sleep. In the case of European bats it
 has been shown that the ordinary day sleep in summer differs only in the
 matter of duration from the prolonged slumber of the same animals in
 winter. The temperature falls with that of the atmosphere, respiration
-practically ceases and immersion in water for as many as eleven minutes
+practically ceases and [[Immersion|immersion]] in water for as many as eleven minutes
 has been known to prove innocuous. At moderate temperatures ranging from
 45 deg. to 50 deg. F., dormice (_Muscardinus avellanarius_) and
 hedgehogs (_Erinaceus europaeus_) alternately wake to feed and sink into
 slumber. Dormice awake once in every twenty-four hours; the sleep of the
 hedgehogs may last for two or three days. The temperature of the
 hedgehog, when awake and active, rises to about 87 deg. F., that of the
-dormouse to 92 deg. or 94 deg. F.; but during sleep the temperature of
+[[Dormouse|dormouse]] to 92 deg. or 94 deg. F.; but during sleep the temperature of
 both species falls to about that of the atmosphere. In other words, all
 the phenomena characteristic of hibernation are exhibited in these
 animals during the periods of sleep interrupting their periods of
@@ -188,7 +188,7 @@ ceasing; but if at the same time the temperature of the atmosphere be
 raised, respiration becomes continuous and lethargy is succeeded by
 activity (Marshall Hall). The opinion that respiration is totally
 suspended is supported by a number of facts. Hibernating marmots and
-bats, for example, have been known to live four hours in carbon dioxide,
+bats, for example, have been known to live four hours in [[Carbon|carbon]] dioxide,
 a gas which proves almost instantly fatal to mammals in a state of
 normal activity (Spallanzani). A hedgehog which may be drowned in about
 three minutes when awake and active, has been removed from water
@@ -201,7 +201,7 @@ ten hours without appreciably affecting the percentage of oxygen in the
 air. The same animal, when active, removed over 5 cub. in. of oxygen in
 the space of one hour from the instrument.
 
-As in the case of respiration, _alimentation_ and _excretion_ are
+As in the case of respiration, _alimentation_ and _[[Excretion|excretion]]_ are
 suspended during hibernation.
 
 The _circulation of the blood_, on the other hand, continues without
@@ -211,8 +211,8 @@ winter sleep. Moreover, in the case of a hedgehog lethargic from
 hibernation, it was experimentally shown that when the spinal cord was
 severed behind the occipital foramen, the brain removed and the entire
 spinal cord gently destroyed, the heart continued to beat strongly and
-regularly for several hours, the contraction of the auricles and
-ventricles being quite perceptible, though feeble, even after the lapse
+regularly for several hours, the contraction of the [[Auricle|auricles]] and
+ventricles being quite perceptible, though feeble, even after the [[Lapse|lapse]]
 of ten hours. After eleven hours the organ was motionless; but resumed
 its activity when stimulated by a knife-point. Even after twelve hours
 both auricles responded to the same stimulus, though the ventricles
@@ -239,7 +239,7 @@ hibernation the irritability of the heart is augmented in a marked
 degree, and that the irritability of the left side of the organ is
 scarcely less pronounced than that of the right side. Similar reduction
 in the rate of the circulation has been demonstrated in certain
-hibernating mollusca, Mr C. Ashford having proved experimentally that
+hibernating mollusca, Mr C. [[Ashford]] having proved experimentally that
 the number of pulsations of the heart per minute gradually lessens with
 a falling temperature. At a temperature of 52 deg. F. the number was 22
 in the common garden snail (_Helix hortensis_), and 21 in the cellar
@@ -272,7 +272,7 @@ summarized as follows:--
   (d) marked increase in the irritability of the muscles, especially
   of those of the left side of the heart, whereby the pulsations of that
   organ, although retarded, are uninterruptedly maintained; (e) a
-  slight exchange of gases in the lungs is kept up by the
+  slight [[Exchange|exchange]] of gases in the [[Lung|lungs]] is kept up by the
   cardio-pneumatic movement.
 
   4. Amongst cold-blooded animals, both vertebrate and invertebrate,
@@ -303,8 +303,8 @@ It was formerly assumed that the winter sleep of these animals in north
 and temperate Europe was complete and uninterrupted. Marshall Hall, for
 example, remarked that "perhaps the bat may be the only animal which
 sleeps profoundly the winter through without awaking to take food." It
-was known, it is true, that in countries where gnats and other winged
-insects disappear with the first frosts of winter, bats which feed upon
+was known, it is true, that in countries where [[Gnat|gnats]] and other winged
+insects disappear with the first [[Frost|frosts]] of winter, bats which feed upon
 them retire to winter quarters in hollow trees, caves, sheds or other
 places likely to afford them sufficient shelter. Here they hang
 suspended, solitary or in companies according to the species. But a mild
@@ -320,7 +320,7 @@ temperature of the air rises above 46 deg. F., and that during their
 wakeful intervals they crawl about and feed apparently upon the insects
 which live throughout the year in the caves. This is also true of the
 long-eared bat (_Plecotus auritus_), and probably of other species of
-this group. At Mussoorie in the Himalayas, and in other parts of
+this group. At Mussoorie in the [[Himalaya|Himalayas]], and in other parts of
 northern India, insectivorous bats, such as _Rhinolophus luctus_ and
 _Rh. affinis_, pass the winter in a semi-torpid state, and are rarely
 seen abroad during the cold season. The fruit-eating bats, on the
@@ -335,11 +335,11 @@ groups so nearly alike in diet, no doubt depends upon the difference in
 their habitats and in those of the creatures they live upon. By
 tunnelling deeper in winter than in summer, moles are still able to find
 worms and various insects buried in the earth beyond the reach of frost;
-and shrews hunt out spiders, centipedes and insects which in their
+and shrews [[Hunt|hunt]] out spiders, [[Centipede|centipedes]] and insects which in their
 larval, pupal or sexual stages have taken shelter and lie dormant in
 holes and crannies of the soil, beneath the leaves of ground plants or
-under stones and logs of wood. In view of the perennially active life of
-the two insectivora just mentioned, it is a singular fact that the
+under stones and [[Log|logs]] of wood. In view of the perennially active life of
+the two [[Insectivora|insectivora]] just mentioned, it is a singular fact that the
 common hedgehog (_Erinaceus europaeus_)--the only member of this order
 besides genera referable to the moles (_Talpidae_) and shrews
 (_Soricidae_) that inhabits temperate and north-temperate latitudes in
@@ -366,7 +366,7 @@ specimens exhibited in the Zoological Gardens in London preserved the
 habit although kept at a uniform temperature and regularly supplied with
 food.
 
-Amongst the Rodentia, no members of the Lagomorpha (hares, rabbits and
+Amongst the Rodentia, no members of the Lagomorpha ([[Hare|hares]], rabbits and
 picas) are known to hibernate, although some of the species, like the
 mountain hare (_Lepus timidus_), extend far to the north in the
 palaearctic region, and the picas (_Ochotona_) live at high altitudes in
@@ -397,7 +397,7 @@ their slumbers, they feed upon nuts or other food accumulated during the
 autumn, but do not as a rule leave the nests constructed for shelter
 during the winter. According to the weather, the sleep lasts from about
 five to seven months. In the family _Muridae_, the true mice and rats
-(_Murinae_) and the voles and lemmings (_Arvicolinae_) seem to remain
+(_Murinae_) and the voles and [[Lemming|lemmings]] (_Arvicolinae_) seem to remain
 active through the winter, although some species, like the lemmings,
 range far to the north in Europe and Asia; but the white-footed mice
 (_Hesperomys_) of North America, belonging to the _Cricetinae_, spend
@@ -435,12 +435,12 @@ burrows. They apparently lay up no store of food, but accumulate a
 quantity of fat as the summer and autumn advance, and frequently, as in
 the case of the woodchuck (_A. monax_) of the Adirondacks, retire to
 winter quarters in the autumn long before the onset of the winter cold.
-The prairie marmots or prairie dogs (_Cynomys ludovicianus_) of North
+The prairie marmots or prairie [[Dogs|dogs]] (_Cynomys ludovicianus_) of North
 America, which live in the plains, do not hibernate to the same extent
 as the true marmots, although they appear to remain in their burrows
 during the coldest portions of the winter. Beavers (_Castor_), although
 formerly at all events extending in North America from the tropic of
-Cancer up to the Arctic circle, do not hibernate. When the ground is
+[[Cancer]] up to the [[Arctic]] circle, do not hibernate. When the ground is
 deep in snow and the river frozen over, they are still able to feed on
 aquatic plants beneath the ice.
 
@@ -507,18 +507,18 @@ winter it is probable that the badger's sleep is unbroken.
 
 The one exception to the general rule that hibernation in the Carnivora
 is restricted to the Arctoidea, is supplied by the raccoon dog
-(_Nyctereutes procyonoides_) of Japan and north-eastern Asia, which is
+(_Nyctereutes procyonoides_) of [[Japan]] and north-eastern Asia, which is
 said by Radde to hibernate in burrows in Amurland if food has been
 sufficiently plentiful in late summer and autumn to enable the animal to
 lay on enough fat to resist the cold and sustain a long period of fast.
 If, however, food has been scarce, this dog is compelled to remain
-active all through the winter. The Arctic fox (_Vulpes lagopus_),
+active all through the winter. The Arctic [[Fox|fox]] (_Vulpes lagopus_),
 although considerably more northern in range than the raccoon dog, does
 not hibernate. It was long a mystery how these animals obtained food in
 winter, but it has been ascertained that in some districts they migrate
 southwards in large numbers in the late autumn, whereas in other
 districts apparently they lay up stores of dead lemmings or hares, for
-food during the winter months. In Australia the porcupine ant-eater
+food during the winter months. In [[Australia]] the porcupine ant-eater
 (_Echidna aculeata_) hibernates; and the habit is retained by specimens
 imported to Europe if exposed to the cold in outdoor cages.
 
@@ -539,7 +539,7 @@ lethargy; and specimens exported from the tropics into northern
 latitudes become dormant when exposed to cold in virtue of their
 inability to maintain their temperature at a higher level than that of
 the atmosphere. The common land tortoise (_Testudo graeca_) of South
-Europe buries itself in the soil during the winter in its natural
+Europe [[Buri|buries]] itself in the soil during the winter in its natural
 habitat, and even when imported to England is able, in some cases at
 least, to withstand the more rigorous winter by practising the same
 habit, as Gilbert White originally recorded. In Pennsylvania the
@@ -550,14 +550,14 @@ approaches and remains in a semi-lethargic state until the return of the
 warmth. The European pond tortoise (_Emys orbicularis_) also hibernates
 buried in the soil; and the North American salt-water terrapin
 (_Malacoclemmys concentrica_), abundant in the salt-marshes round
-Charleston, S. Carolina, retires into the muddy banks to spend the cold
+[[Charleston]], S. Carolina, retires into the muddy banks to spend the cold
 months of the year. In certain parts of the tropics tortoises protect
 themselves from the excessive heat by burrowing into the soil which
 afterwards becomes indurated. When drought sets in with the dry season
-and the tanks become exhausted and food unobtainable, crocodiles and
+and the tanks become exhausted and food unobtainable, [[Crocodile|crocodiles]] and
 alligators sometimes wander across country in search of water, but more
 commonly bury themselves in the mud and remain in a state of quiescence
-until the return of the rains; and according to Humboldt, large snakes,
+until the return of the rains; and according to [[Humboldt]], large snakes,
 anacondas or boa constrictors are often found by the Indians in South
 America buried in the same lethargic state. Snakes and lizards in all
 countries where there is any considerable seasonal variation in
@@ -584,14 +584,14 @@ _Siluridae_. The members of this group are able to exist and thrive in
 moist mud, and can even support life for a comparatively long time out
 of water altogether. The instinct is exhibited by species occurring both
 in the eastern and western hemispheres, as is shown by its record in the
-case of species of _Callicthys_ and _Loricaria_ in Guiana and by
+case of species of _Callicthys_ and _Loricaria_ in [[Guiana]] and by
 _Clarias lazera_ in Senegambia. It is also met with, according to
 Tennent, in a species of climbing perch (_Anabas oligolepis_) found in
 Ceylon and belonging to the family _Anabantidae_, all the species of
 which are able to live for a certain length of time out of water, and
 may sometimes be found crawling across land in search of fresh pools.
 The habit is also common to some species of mud fishes of the order
-Dipneusti, in which the air bladder plays the part of lungs.
+Dipneusti, in which the air [[Bladder|bladder]] plays the part of lungs.
 _Protopterus_, from tropical Africa, for instance, burrows into the mud
 and remains for nearly half the year coiled up at the bottom in a
 slightly enlarged chamber. The walls of this are lined with a layer of
@@ -599,7 +599,7 @@ slime secreted from the fish's skin, and the orifice is closed with a
 lid the centre of which is perforated and forms an inturned tube by
 means of which air is conducted to the fish's mouth. The aestivating
 burrow of the Brazilian mudfish (_Lepidosiren_) is similar, except that
-the lid is perforated with several apertures. The Australian mudfish
+the lid is perforated with several [[Aperture|apertures]]. The Australian mudfish
 (_Ceratodus_) is not known to hibernate or aestivate.
 
 In countries where winter frosts arrest the growth of vegetation
@@ -608,7 +608,7 @@ trunks, in rock crannies, holes in walls, in heaps of dead leaves, in
 moss or under the soil, and remain quiescent until the coming of spring.
 Amongst pulmonate gastropods, most species of snails (_Helix_,
 _Clausilia_) close the mouth of the shell at this period with a
-membranous or calcified plate, the epiphragm. Slugs (_Limax_, _Arion_),
+membranous or calcified plate, the epiphragm. Slugs (_Limax_, _[[Arion]]_),
 on the contrary, lie buried in the earth encysted in a coating of slime.
 Similarly in the tropics members of this group, such as _Achatina_ in
 tropical Africa and _Orthalicus_ in Brazil, aestivate during the dry
@@ -634,7 +634,7 @@ winter in a dormant state, either in the larval, pupal or imaginal
 the sense that although the insects may be roused from their lethargy to
 the extent of movement by spells of warm weather, they do not leave
 their hibernacula to feed; in others it is incomplete in the sense that
-the insects emerge to feed, as in the case of the caterpillar of
+the insects emerge to feed, as in the case of the [[Caterpillar|caterpillar]] of
 _Euprepia fuliginosa_, or to take the wing as in the case of the midge
 _Trichocera hiemalis_. Others again, like _Podura nivalis_ and _Boreus
 hiemalis_, never appear to hibernate, at least in England. The insects
@@ -647,13 +647,13 @@ and only reach the final stage of growth in the following spring, like
 the butterflies of the genus _Argynnis_ (_paphia_, _aglaia_, &c.) in
 England. As an instance of species which survive the winter in the
 pupal or chrysalis stage may be cited the swallow-tailed butterfly of
-Europe (_Papilio machaon_); while to the category of species which
-hibernate as perfect insects belong many of the Coleoptera (Rhyncophora,
-_Coccinellidae_), &c., as well as some Hemiptera, Hymenoptera, Diptera
-and Lepidoptera (_Vanessa io_, _urticae_, &c.). In the case of the
+Europe (_Papilio machaon_); while to the [[Category|category]] of species which
+hibernate as perfect insects belong many of the [[Coleoptera]] (Rhyncophora,
+_Coccinellidae_), &c., as well as some [[Hemiptera]], Hymenoptera, [[Diptera]]
+and [[Lepidoptera]] (_Vanessa io_, _urticae_, &c.). In the case of the
 social Hymenoptera it is only the fertilized queen wasp out of the nest
 that survives the frost of winter, all the workers dying with the onset
-of cold in the autumn; the common hive bees (_Apis mellifica_), although
+of cold in the autumn; the common hive [[Bee|bees]] (_Apis mellifica_), although
 they retire to the hive, do not hibernate, the numbers and activity of
 the individuals within the hive being sufficient to keep up the
 temperature above soporific point. Ants also remain actively at work
@@ -668,7 +668,7 @@ silken cases attached to the underside of stones or of pieces of loose
 bark, or buried under dead leaves or concealed in the cracks of walls.
 Other species, on the contrary, pass the winter in an immature state
 protected from the cold by the silken cocoon spun by the mother for her
-eggs before she dies in the late autumn, as in the "garden spider"
+[[Egg|eggs]] before she dies in the late autumn, as in the "garden spider"
 (_Aranea diadema_). Commonly, however, when the cocoons are later in the
 making, or the cold weather sets in early, the eggs of this and of
 allied species do not hatch until the spring; but in either case the
@@ -678,7 +678,7 @@ family, nevertheless, like _Zilla x-notata_, which live in the corners
 of windows, or in outhouses where the habitat affords a certain degree
 of protection from the cold, may survive the winter in the adult stage
 and be roused from lethargy by breaks in the weather and tempted by the
-warmth to spin new webs. Typical members of the Opiliones or harvest
+warmth to spin new webs. Typical members of the Opiliones or [[Harvest|harvest]]
 spiders, belonging to the family _Phalangiidae_, do not hibernate in
 temperate and more northern latitudes in Europe and America, but perish
 in the autumn, leaving their eggs buried in the soil to hatch in the
@@ -701,7 +701,7 @@ of insects and spiders at Montevideo and Bahia Blanca in South America,
 and by Distant's account of the paucity of insect life in the winter in
 South Africa; by his discovery under stones of hibernating semi-torpid
 Coleoptera and Hemiptera at the end of August in the Transvaal, and of
-the gradual increase in the numbers of individuals and species of
+the [[Gradual|gradual]] increase in the numbers of individuals and species of
 insects in that country as the spring advanced and the dry season came
 to an end.
 
@@ -711,21 +711,21 @@ to an end.
   Batrachians of Europe_, edited by the Ray Society; "Teleostei" in
   _Cambridge Natural History_, vii. 541-727 (1904); T. W. Bridge,
   "Dipneustei" in _Cambridge Natural History_, vii. 505-520 (1904); A.
-  H. Cooke, "Molluscs" in _Cambridge Natural History_, iii. 25-27
+  H. [[Cooke]], "Molluscs" in _Cambridge Natural History_, iii. 25-27
   (1895); T. A. Coward, _P.Z.S._ pp. 849-855 (1906), and pp. 312-324
   (1907); C. Darwin, _A Naturalist's Voyage Round the World_, pp.
   97-98 (1907 ed.); W. L. Distant, _A Naturalist in the Transvaal_, ch.
   iii. (1892); Marshall Hall, "Hibernation," in _Todd's Cyclopaedia of
   Anatomy and Physiology_, pp. 764-776 (1839) (Bibliography); _Phil.
-  Trans. Roy. Soc._ (1832); John Hunter, _Observations on parts of the
-  Animal Economy_ (1837); _Index Catalogue of the Library of the
+  Trans. Roy. Soc._ (1832); John [[Hunter]], _Observations on parts of the
+  Animal Economy_ (1837); _[[Index]] [[Catalogue]] of the Library of the
   Surgeon-General's Office of the U.S. Army_, vii. (1902), Bibliography
-  relating to physiology of Hibernation; W. Kirby and W. Spence, _An
-  Introduction to Entomology_, ed. 17, pp. 517-533 (1856); L. Landois,
+  relating to physiology of Hibernation; W. [[Kirby]] and W. Spence, _An
+  Introduction to [[Entomology]]_, ed. 17, pp. 517-533 (1856); L. Landois,
   _A Text-book of Human Physiology_, translated by W. Stirling, i. 410
   (1904); V. Laporte, "Suspension of Vitality in Animals," _Pop. Sci.
   Monthly_, xxxvi. 257-259 (New York, 1889-1890); Mangili, "Essai sur la
-  lethargie periodique," _Annales du Museum_, x. 453-456 (1807); C. Hart
+  lethargie periodique," _Annales du Museum_, x. 453-456 (1807); C. [[Hart]]
   Merriam, _North American Pocket Mice_ (Washington, 1889); W. Miller,
   "Hibernation and Allied States in Animals," _Trans. Pan-Amer. Med.
   Congr._ (1893), pt. ii. pp. 1274-1285 (Washington, 1895); M. S.
@@ -735,9 +735,9 @@ to an end.
   sur les phenomenes et sur les causes du sommeil hivernal," _Annales du
   Museum_, xviii.; J. A. Saissy, _Recherches sur les animaux hivernans_
   (1808); L. Spallanzani, _Memoires sur la respiration_ (1803); J.
-  Emerson Tennent, _Sketches of the Natural History of Ceylon_, pp.
+  [[Emerson]] Tennent, _Sketches of the Natural History of Ceylon_, pp.
   351-358 (1861); Volkov, "Le Sommeil hivernal chez les paysans russes,"
-  _Bull. Mem. Soc. Anthropol._ (Paris, 1900), i. 67; abstract in _Brit.
+  _[[Bull]]. Mem. Soc. Anthropol._ (Paris, 1900), i. 67; abstract in _Brit.
   Med. Journ._ (1900), i. 1554.     (R. I. P.)
 
 ## See also

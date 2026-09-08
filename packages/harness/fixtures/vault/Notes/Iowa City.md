@@ -1,9 +1,9 @@
 # Iowa City
 
 IOWA CITY, a city and the county-seat of Johnson county, Iowa, U.S.A.,
-on Iowa river, about 120 m. E. of Des Moines. Pop. (1890) 7016; (1900)
+on Iowa river, about 120 m. E. of [[Des Moines]]. Pop. (1890) 7016; (1900)
 7987, of whom 1355 were foreign born; (1905) 8497; (1910) 10,091. It is
-served by two branches of the Chicago, Rock Island & Pacific railroad,
+served by two branches of the [[Chicago]], Rock Island & Pacific railroad,
 and by the Iowa City & Cedar Rapids Interurban railway (electric), of
 which it is a terminus. The ground on which the city is built forms an
 amphitheatre surrounded for the most part by hills and bluffs. Iowa City
@@ -25,14 +25,14 @@ and practical philanthropy--and a school of education, first opened in
 superintendents; a college of law (1868); a college of medicine (1870),
 including a training school for nurses (1897); a college of homoeopathic
 medicine (1877), including a nurses' training school (1894); a college
-of dentistry (1882); a college of pharmacy (1885); a graduate college; a
+of [[Dentistry|dentistry]] (1882); a college of pharmacy (1885); a graduate college; a
 college of applied science (1903), with courses in civil, electrical,
-mechanical, mining, municipal and sanitary engineering and courses in
-chemistry; a summer school for teachers and librarians and a university
+mechanical, mining, municipal and sanitary [[Engineering|engineering]] and courses in
+[[Chemistry|chemistry]]; a summer school for teachers and librarians and a university
 extension department. Affiliated with the university is a school of
 music. The university's income is derived from the proceeds of invested
 funds and lands originally given by the United States, from permanent
-appropriations by the state and from the proceeds of a one-fifth mill
+[[Appropriation|appropriations]] by the state and from the proceeds of a one-fifth mill
 tax to be used for buildings alone. In 1907-1908 the institution had 28
 buildings (including the old State Capitol, built in 1840), a teaching
 and administrative force of nearly 200 members and 2315 students, of
@@ -56,8 +56,8 @@ from _Psychotria_ (or _Uragoga_) _Ipecacuanha_, a small shrubby plant of
 the natural order Rubiaceae. It is a native of Brazil, growing in clumps
 or patches in moist shady forests from 8 deg. to 22 deg. S., and is also
 found in New Granada and probably in Bolivia. The drug of commerce is
-procured chiefly from the region lying between the towns of Cuyaba,
-Villa Bella, Villa Maria and Diamantina in the province of Matto Grosso,
+procured chiefly from the region lying between the towns of [[Cuyaba]],
+Villa Bella, Villa Maria and [[Diamantina]] in the province of [[Matto Grosso]],
 and near the German colony of Philadelphia, north of Rio Janeiro.
 Ipecacuanha, although in common use in Brazil, was not employed in
 Europe previous to 1672. In France within a few years after that date it
@@ -66,7 +66,7 @@ composition of which was purchased by the French Government for 1000
 louis d'or, and made public in 1688. The botanical source of ipecacuanha
 was not accurately known until 1800. The root appears to be possessed of
 very great vitality, for in 1869 M'Nab, of the Botanical Gardens of
-Edinburgh, discovered that so small a portion as 1/16 of an inch of the
+Edinburgh, discovered that so small a portion as 1/16 of an [[Inch|inch]] of the
 annulated root, placed in suitable soil, would throw out a leaf-bud and
 develop into a fresh plant, while Lindsay, a gardener in the same
 establishment, proved that even the leaf-stalk is capable of producing
@@ -87,7 +87,7 @@ margins. This diversity of form is most apparent in young plants, and
 tends to disappear with age.
 
 [Illustration: Ipecacuanha Plant (about 1/3 nat. size). 1, 2, Flowers
-cut open, showing short-styled (1) and long-styled (2) forms; 3, Flower
+cut open, showing short-styled (1) and long-styled (2) forms; 3, [[Flower]]
 after removal of corolla, showing the inferior ovary (o), the small
 toothed calyx (c), and the style (s) with its forked stigma; 4, Ovary
 cut lengthwise showing the two chambers with the basally attached
@@ -101,14 +101,14 @@ a bitterish taste. It is usually mixed with more or less of the slender
 subterranean stem, which has a very thin bark, and is thus easily
 distinguished from the root. The activity of the drug resides chiefly in
 the cortical portion, and hence the presence of the stem diminishes its
-value. The variety imported from Colombia and known as Cartagena
+value. The variety imported from Colombia and known as [[Cartagena]]
 ipecacuanha differs only in its larger size and in being less
 conspicuously annulated. Ipecacuanha owes its properties to the presence
 of rather more than 1% of the alkaloid emetine, which, with the
 exception of traces, occurs only in the cortical portion of the root. It
 is a white amorphous substance, with the formula C20H30NO5. It has a
 bitter taste, no odour, and turns yellow when exposed to air and light.
-There are also present a volatile oil, starch, gum, and a glucoside,
+There are also present a volatile oil, starch, [[Gum|gum]], and a glucoside,
 which is a modification of tannin and is known as ipecacuanhic acid. The
 dose of the powdered root is 1/4 to 2 grains when an expectorant action
 is desired, and from 15 to 30 grains when it is given as an emetic,
@@ -123,10 +123,10 @@ irritant, even to the extent of causing pustulation. When inhaled it
 causes violent sneezing and a mild inflammation of the nasal mucous
 membrane, resembling a common cold in the head. It has feeble antiseptic
 properties. Small doses of ipecacuanha act as a stimulant to the
-secretions of the mouth, stomach, intestine and liver. The drug,
+secretions of the mouth, stomach, intestine and [[Liver|liver]]. The drug,
 therefore, increases appetite and aids digestion. Toxic doses cause
 gastro-enteritis, cardiac failure, dilatation of the blood-vessels,
-severe bronchitis and pulmonary inflammation closely resembling that
+severe [[Bronchitis|bronchitis]] and pulmonary inflammation closely resembling that
 seen in ordinary lobar pneumonia. In this respect and in its action on
 the skin, the drug resembles tartar emetic. Ipecacuanha is very
 frequently used as an expectorant in cases in which the bronchial
@@ -136,8 +136,8 @@ part of ipecacuanha powder and one part of opium in ten.
 
   Other plants to which the name of ipecacuanha has been popularly
   applied are American ipecacuanha (_Gillenia stipulacea_), wild
-  ipecacuanha (_Euphorbia Ipecacuanha_), bastard ipecacuanha (_Asclepias
-  curassavica_), Guiana ipecacuanha (_Boerhavia decumbens_), Venezuela
+  ipecacuanha (_[[Euphorbia]] Ipecacuanha_), [[Bastard|bastard]] ipecacuanha (_Asclepias
+  curassavica_), [[Guiana]] ipecacuanha (_Boerhavia decumbens_), Venezuela
   ipecacuanha (_Sarcostemma glaucum_), and ipecacuanha des Allemands
   (_Vincetoxicum officinale_). All these possess emetic properties to a
   greater or less degree.

@@ -1,7 +1,7 @@
 # Armenia
 
 ARMENIA (old Persian _Armina_, Armenian _Hayasdan_, or _Hayq_), the
-popular modern name of a district south of the Caucasus and Black Sea,
+popular modern name of a district south of the Caucasus and [[Black Sea]],
 which formed part of the ancient Armenian kingdom. The name, which first
 occurs in the cuneiform inscriptions of Darius Hystaspis, supplanted the
 earlier Urardhu, or Ararat, but its origin is unknown. In its widest
@@ -19,7 +19,7 @@ of Persia and Asia Minor. Above the general level of the plateau, 6000
 ft., rise bare ranges of mountains, which run from north-east to
 south-west at an altitude of 8000-12,000 ft., and culminate in Ararat,
 17,000 ft. Between the ranges are broad elevated valleys, through which
-the rivers of the plateau flow before entering the rugged gorges that
+the rivers of the plateau flow before entering the rugged [[Gorges|gorges]] that
 convey their waters to lower levels. Geologically, Armenia consists of
 archaic rocks upon which, towards the north, are superimposed
 Palaeozoic, and towards the south later sedimentary rocks. The last have
@@ -28,9 +28,9 @@ Amongst the higher mountains are the two Ararats; Ala-geuz Dagh, north
 of the Aras; Bingeul Dagh, south of Erzerum; and the peaks near Lake
 Van. The rivers are the Euphrates, Tigris, Aras, Churuk Su (Chorokh) and
 Kelkit Irmak, all rising on the plateau. The more important lakes are
-Van, 5100 ft., about twice the size of the Lake of Geneva, and Urmia,
+Van, 5100 ft., about twice the size of the Lake of [[Geneva]], and Urmia,
 4000 ft., both salt; Gokcha or Sevan, 5870 ft., discharging into the
-Aras; and Chaldir, into the Kars Chai. The aspect of the plateau is
+Aras; and Chaldir, into the [[Kars]] Chai. The aspect of the plateau is
 dreary and monotonous. The valleys are wide expanses of arable land, and
 the hills are for the most part grass-covered and treeless. But the
 gorges of the Euphrates and Tigris, and their tributaries, cannot be
@@ -55,7 +55,7 @@ which now support the flocks of the Kurds, the horses and mules, so
 celebrated in ancient times, were reared. Trout are found in the rivers,
 and a small herring in Lake Van. The country abounds in romantic
 scenery; that of the district of Ararat especially has been celebrated
-by patriotic historians like Moses of Chorene and Lazarus of Pharb.
+by patriotic historians like Moses of Chorene and [[Lazarus]] of Pharb.
 
 _Population._--Accurate statistics cannot be obtained; but it is
 estimated that in the nine vilayets, which include Turkish Armenia,
@@ -102,7 +102,7 @@ family of tribes which seems to have been spread over western Asia and
 to have had a common non-Aryan language. Mixed with these
 proto-Armenians, there was an important Semitic element of Assyrian and
 Hebrew origin. In the 7th century B.C., between 640 and 600, the country
-was conquered by an Aryan people, who imposed their language, and
+was conquered by an [[Aryan]] people, who imposed their language, and
 possibly their name, upon the vanquished, and formed a military
 aristocracy that was constantly recruited from Persia and Parthia.
 Politically the two races soon amalgamated, but, except in the towns,
@@ -155,7 +155,7 @@ the Bible narrative, of which a knowledge was possibly obtained from
 captive Jews settled in the country by Assyrian and Babylonian monarchs.
 The legendary kings are but faint echoes of the kings of Biainas; the
 story of Semiramis and Ara is but another form of the myth of Venus and
-Adonis; and tradition has clothed Tigranes, the reputed friend of Cyrus,
+Adonis; and tradition has clothed Tigranes, the reputed friend of [[Cyrus]],
 with the transient glory of the opponent of Lucullus. The fall of the
 Biainian kingdom, perhaps overthrown by Cyaxares, was apparently soon
 followed by an immigration of Aryan (Medo-Persian) races, including the
@@ -173,7 +173,7 @@ concurrence of Rome. (See TIGRANES.) Artaxias established his capital at
 Artaxata on the Araxes, and his most celebrated successor was Tigranes
 (Dikran), 94-56 B.C., the son-in-law of Mithradates VI., the Great.
 Tigranes founded a new capital, Tigranocerta, in northern Mesopotamia,
-which he modelled on Nineveh and Babylon, and peopled with Greek and
+which he modelled on Nineveh and [[Babylon]], and peopled with Greek and
 other captives. Here, and at Antioch, he played the part of "great king"
 in Asia until his refusal to surrender his father-in-law involved him in
 war with Rome. Defeated, 69 B.C., by Lucullus beneath the walls of his
@@ -189,7 +189,7 @@ vassal state of Rome.
 The campaigns of Lucullus and Pompey brought Rome into delicate
 relations with Parthia. Armenia, although politically dependent upon
 Rome, was connected with Parthia by geographical position, a common
-language and faith, intermarriage and similarity of arms and dress. It
+language and faith, intermarriage and similarity of arms and [[Dress|dress]]. It
 had never been Hellenized, as the provinces of Asia Minor had been; the
 Roman provincial system was never applied to it; and the policy of Rome
 towards it was never consistent. The country became the field upon which
@@ -208,7 +208,7 @@ discontinuance of Greek in the Holy Offices relaxed the ecclesiastical
 dependence on Constantinople, which ceased entirely when the Patriarch,
 491, refused to accept the decrees of the council of Chalcedon. The rule
 of the _marzbans_ was marked by relentless persecution of the
-Christians, forced conversions to Magism, frequent insurrections and the
+Christians, forced [[Conversion|conversions]] to Magism, frequent insurrections and the
 rise to importance of the great families founded by men of Assyrian,
 Parthian, Persian, Syrian and Jewish origin, and in some cases of royal
 blood, who had been governors of districts, or holders of fiefs under
@@ -231,7 +231,7 @@ of Abahuni ([Greek: Apachouvaes]). The Arab invasion drove many Armenian
 noblemen to Constantinople, where they intermarried with the old Roman
 families or became soldiers of fortune. Artavasdes, an Arsacid, usurped
 the Byzantine throne for two years; Leo V., an Ardzrunian, and John
-Zimisces, became emperors; whilst Manuel, the Mamegonian, and others
+Zimisces, became emperors; whilst [[Manuel]], the Mamegonian, and others
 were amongst the best generals of the empire. In 991, and again in 1021,
 Basil II. invaded Armenia, and in the latter year Senekherim, king of
 Vaspuragan, exchanged his kingdom for Sivas and its territory, where he
@@ -239,8 +239,8 @@ settled down with many Armenian emigrants. Basil's policy was to make
 the great Armenian fortresses, garrisoned by imperial troops, the first
 line of defence on his eastern frontier; but it failed in the hands of
 his feeble successors, who thought more of converting heretical Armenia
-than of defending its frontier. The king of Ani, Kagig II., was
-compelled to exchange his kingdom for estates in Cappadocia. The country
+than of defending its frontier. The king of [[Ani]], Kagig II., was
+compelled to exchange his kingdom for estates in [[Cappadocia]]. The country
 was raided by Seljuks and harried by Byzantine soldiers, and the
 miseries of the people were regarded as gain to the Orthodox church.
 After the defeat and capture of Romanus IV. by Alp Arslan, 1071, Armenia
@@ -254,12 +254,12 @@ driven from the plains, agriculture was destroyed, and the country was
 seriously impoverished when its ruin was completed by the ravages and
 wholesale butcheries of Timur. Many Armenians fled to the mountains,
 where they embraced Islam, and intermarried with the Kurds, or purchased
-security by paying blackmail to Kurdish chiefs. Others migrated to
+security by paying [[Blackmail|blackmail]] to Kurdish chiefs. Others migrated to
 Cappadocia or to Cilicia, where the Bagratid Rhupen had founded, 1080, a
 small principality which, gradually extending its limits, became the
 kingdom of Lesser Armenia. This Christian kingdom in the midst of Moslem
 states, hostile to the Byzantines, giving valuable support to the
-leaders of the crusades, and trading with the great commercial cities of
+leaders of the [[Crusades|crusades]], and trading with the great commercial cities of
 Italy, had a stormy existence of about 300 years. Internal disorders,
 due to attempts by the later Lusignan kings to make their subjects
 conform to the Roman Church, facilitated its conquest by Egypt, 1375.
@@ -292,10 +292,10 @@ Echmiadzin, was assigned by treaty to Persia, and it remained in her
 hands until it passed to Russia, 1828, under the treaty of Turkman-chai.
 The Turko-Russian War of 1828-29, which advanced the Russian frontier to
 the Arpa Chai, was followed by a large emigration of Armenians from
-Turkish to Russian territory, and a smaller exodus took place after the
+Turkish to Russian territory, and a smaller [[Exodus|exodus]] took place after the
 war of 1877-78, which gave Batum, Ardahan and Kars to Russia. In 1834
 the independent power of the Kurds in Armenia was greatly curtailed; and
-risings under Bedr Khan Bey in 1843, and Sheik Obeidullah in 1880, were
+risings under Bedr [[Khan]] Bey in 1843, and Sheik Obeidullah in 1880, were
 firmly suppressed.
 
 
@@ -313,7 +313,7 @@ rank of vizier. He was assisted by a council of bishops and clergy, and
 was represented in each province by a bishop. This _imperium in imperio_
 secured to the Armenians a recognized position before the law, the free
 enjoyment of their religion, the possession of their churches and
-monasteries, and the right to educate their children and manage their
+monasteries, and the right to educate their children and [[Manage|manage]] their
 municipal affairs. It also encouraged the growth of a community life,
 which eventually gave birth to an intense longing for national life. On
 the other hand it degraded the priesthood. The priests became political
@@ -355,7 +355,7 @@ and this led to the formation of the "Evangelical Church of the
 Armenians," which was made, after much opposition from France and
 Russia, a community (_Protestant millet_), at the instance of the
 British ambassador. The missionaries afterwards founded colleges on the
-Bosporus, at Kharput, Marsivan and Aintab, to supply the needs of higher
+Bosporus, at Kharput, [[Marsivan]] and Aintab, to supply the needs of higher
 university education, and they opened good schools for both sexes at all
 their stations. Everywhere they supplied the people with pure, wholesome
 literature, and represented progress and religious liberty.
@@ -370,7 +370,7 @@ the treaty of San Stefano, Turkey engaged to Russia to carry out reforms
 "in the provinces inhabited by the Armenians, and to guarantee their
 security against the Kurds and Circassians." By the treaty of Berlin,
 13th of July 1878, a like engagement to the six signatory powers was
-substituted for that to Russia. By the Cyprus convention, 4th of June
+substituted for that to Russia. By the [[Cyprus]] convention, 4th of June
 1878, the sultan promised Great Britain to introduce necessary reforms
 "for the protection of the Christians and other subjects of the Porte"
 in the Turkish territories in Asia. The Berlin treaty encouraged the
@@ -446,7 +446,7 @@ to secure reforms, the advanced party amongst the Armenians, some of
 whom had been educated in Europe and been deeply affected by the free
 thought and Nihilistic tendencies of the day, determined to secure their
 object by the production of disturbances such as those that had given
-birth to Bulgaria. Societies were formed at Tiflis and in several
+birth to [[Bulgaria]]. Societies were formed at Tiflis and in several
 European capitals for the circulation of pamphlets and newspapers, and
 secret societies, such as the Huntchagist, were instituted for more
 revolutionary methods. An active propaganda was carried on in Turkish
@@ -476,7 +476,7 @@ the Kurdish Irregular Horse to raid the mountain district. The Armenians
 drove off the Kurds,[1] and, when attacked in the spring of 1894, again
 held their own. The vali now called up regular troops from Erzingan; and
 the sultan issued a firman calling upon all loyal subjects to aid in
-suppressing the revolt. A massacre of a most brutal character, in which
+suppressing the revolt. A [[Massacre|massacre]] of a most brutal character, in which
 Turkish soldiers took part, followed; and aroused deep indignation in
 Europe. In November 1894 a Turkish commission of inquiry was sent to
 Armenia, and was accompanied by the consular delegates of Great Britain,
@@ -519,7 +519,7 @@ Britain was not prepared to act alone. In the summer of 1896 (June
 14-22) there were massacres at Van, Egin, and Niksar; and on the 26th of
 August the Imperial Ottoman Bank at Constantinople was seized by
 revolutionists as a demonstration against the Christian powers who had
-left the Armenians to their fate. The project was known to the Porte,
+left the Armenians to their [[Fate|fate]]. The project was known to the Porte,
 and the rabble, previously armed and instructed, were at once turned
 loose in the streets. Two days' massacre followed, during which from
 6000 to 7000 Gregorian Armenians perished.
@@ -533,9 +533,9 @@ vilayets to which the scheme of reforms was to apply. At Trebizond they
 took place just before the sultan accepted that scheme, and after his
 acceptance of it they spread rapidly. They were confined to Gregorian
 and Protestant Armenians. The Roman Catholics were protected by France,
-the Greek Christians by Russia. The massacre of Syrians, Jacobites and
+the Greek Christians by Russia. The massacre of Syrians, [[Jacobites]] and
 Chaldees at Urfa and elsewhere formed no part of the original plan.
-Orders were given to protect foreigners, and in some cases guards were
+Orders were given to protect foreigners, and in some cases [[Guards|guards]] were
 placed over their houses. The damage to the American buildings at
 Kharput was due to direct disobedience of orders. The attacks on the
 bazars were made without warning, during business hours, when the men
@@ -585,7 +585,7 @@ massacres occurred here and there, notably at Mush (1904) and Van
 (1908).
 
   See Abich, _Geologie d. armenischen Hochlandes_ (Wien, 1882); Bishop,
-  _Journeys in Persia and Kurdistan_ (Lond., 1891); Bliss, _Turkey and
+  _Journeys in Persia and [[Kurdistan]]_ (Lond., 1891); Bliss, _Turkey and
   the Armenian Atrocities_ (Lond., 1896); Bryce, _Transcaucasia and
   Ararat_ (4th ed., Lond., 1896); De Coursous, _La Rebellion armenienne_
   (Paris, 1895); Lepsius, _Armenia and Europe_ (Lond., 1897); Murray,
@@ -593,7 +593,7 @@ massacres occurred here and there, notably at Mush (1904) and Van
   (1895); _Turkey_, I., II. (1896); Supan, "Die Verbreitung d. Armenier
   in der asiatischen Turkei, u. in Transkaukasien," in Pet. _Mitt_. vol.
   xlii. (1896); Tozer, _Turkish Armenia and Eastern Asia Minor_ (Lond.,
-  1881); Cholet, _Armenie, Kurdistan, et Mesopotamie_ (1892); Lynch,
+  1881); [[Cholet]], _Armenie, Kurdistan, et Mesopotamie_ (1892); [[Lynch]],
   _Armenia_ (2 vols., 1901).     (C. W. W.)
 
 
@@ -621,7 +621,7 @@ well as the stories of Bartholomew and Thaddeus (the Syriac _Addai_),
 was merely an avowal on their part that Edessa was the centre from which
 the faith radiated over their land. In the 4th century and later the
 liturgy was still read in Syriac in parts of Armenia, and the New
-Testament, the history of Eusebius, the homilies of Aphraates, the works
+Testament, the history of Eusebius, the homilies of [[Aphraates]], the works
 of St Ephraem and many other early books were translated from Syriac,
 from which tongue most of their ecclesiological terms were derived. The
 earliest notice of an organized church in Armenia is in Eusebius, _H.
@@ -630,9 +630,9 @@ letter to Meruzanes, bishop of the brethren in Armenia. There were many
 Christians in Melitene at the time of the Decian persecution in A.D.
 250, and two bishops from Great Armenia were present at the council of
 Nice in 325. King Tiridates (c. A.D. 238-314) had already been baptized
-some time after 261 by Gregory the Illuminator. The latter was ordained
+some time after 261 by [[Gregory The Illuminator|Gregory the Illuminator]]. The latter was ordained
 priest and appointed _catholicus_ or exarch of the church of Great
-Armenia by Leontius, bishop of Caesarea in Cappadocia. This one fact is
+Armenia by [[Leontius]], bishop of Caesarea in Cappadocia. This one fact is
 certain amidst the fables which soon obscured the history of this great
 missionary. Thus the church of Great Armenia began as a province of the
 Cappadocian see. But there was a tradition of a line of bishops earlier
@@ -642,7 +642,7 @@ Adoptianist bishop Archelaus, who opposed the entry of Mani into Armenia
 under Probus c. 277, was also perhaps a Syriac-speaking bishop of
 Pers-Armenia. Almost the earliest document revealing anything of the
 inner organization and condition of the Armenian church in the Nicene
-age is the epistle of Macarius, bishop of Jerusalem, to the Armenian
+age is the [[Epistle|epistle]] of Macarius, bishop of Jerusalem, to the Armenian
 bishop Verthanes, written between 325 and 335 and preserved in Armenian.
 Its genuineness has been unreasonably suspected. It insists on the
 erection of fonts; on distinction of grades among the ordained clergy;
@@ -652,7 +652,7 @@ baptized; on avoiding communion with Arians; on the use of unleavened
 bread in the Sacrament, &c. We learn from it that the bishop of Basen
 and Bagrevand was an Arian at that time. By the year 450 these two
 districts already had separate bishops of their own. The letter of
-Macarius, therefore, if a forgery, must be a very early one.[1] The
+Macarius, therefore, if a [[Forgery|forgery]], must be a very early one.[1] The
 Armenians must, like the Georgians a little later, have set store by the
 opinion of the bishop of Jerusalem, or they would not have sent to
 consult him. It was equally from Jerusalem that they subsequently
@@ -700,7 +700,7 @@ lections of the prophets and New Testament, was an enormous gain. We do
 not know precisely how the eucharistic rite was adjusted to these
 sacrificial meals; but, in the canons of Sahak, 1 Cor. xi. 17-34 is
 interpreted of these meals, which were known as the Dominical (suppers).
-The Eucharist was, therefore, long associated with the _matal_ or animal
+The [[Eucharist]] was, therefore, long associated with the _matal_ or animal
 victim, and only in the 8th century do we hear of an interval of time
 being left between the fleshly and the spiritual sacrifices, as the two
 rites were then called. The Basilian service of the Eucharist was used
@@ -722,16 +722,16 @@ None but a scion of a priestly family could become a deacon, elder or
 bishop. Accordingly the primacy remained in the family of Gregory until
 about 374, when the king Pap or Bab murdered Nerses, who had been
 ordained by Eusebius of Caesarea (362-370) and was over-zealous in
-implanting in Armenia the canons about celibacy, marriage, fasting,
+implanting in Armenia the canons about celibacy, marriage, [[Fasting|fasting]],
 hospices and monastic life which Basil had established in Cappadocia. It
-may be remarked that Gregory's own family was a cadet branch of the
-Arsacid kin which had occupied the thrones of Persia, Bactria, Armenia
+may be remarked that Gregory's own family was a [[Cadet|cadet]] branch of the
+Arsacid [[Kin|kin]] which had occupied the thrones of Persia, Bactria, Armenia
 and Georgia. His primacy therefore was in itself a survival of an
 earlier age when king and priest were one. He was in fact a _rex
 sacrificulus_, and later on, when the Arsacid dynasty fell in Armenia c.
 A.D. 428, the Armenian catholicus became the symbol of national unity
 and the rallying-point of patriotism. The line of Gregory was restored
-in 390 in the person of Isaac or Sahak, son of Nerses, and his
+in 390 in the person of [[Isaac]] or Sahak, son of Nerses, and his
 patriarchate was the golden age of Armenian literature. But by this time
 the autonomy of the Armenian church was thoroughly established. On the
 death of Nerses the right of saying grace at the royal meals, which was
@@ -776,7 +776,7 @@ afterwards, accepted Chalcedon and joined the Byzantine church. The
 Albanians of the Caucasus were also converted in the age of Gregory,
 early in the 4th century, and were loyal to the Armenians in the great
 struggle against Mazdaism in the 5th; but broke away for a time towards
-600, and chose a patriarch without sending him to Armenia for
+600, and [[Chose|chose]] a patriarch without sending him to Armenia for
 ordination. Eventually this interesting church was engulfed by the
 rising tide of Mahommedan conquest, but not before one of their bishops,
 named Israel, had converted (677-703) the Huns who lay to the north of
@@ -804,8 +804,8 @@ believe the fathers of the 5th and succeeding centuries Nicene orthodoxy
 prevailed in their country from the first; and in the 5th century they
 certainly chose for translation the works of orthodox fathers alone,
 such as Chrysostom, Basil, Gregory of Nyssa and Gregory Nazianzen, Cyril
-of Jerusalem and Cyril of Alexandria, Athanasius, Julius of Rome,
-Hippolytus, Irenaeus, avoiding Origen and other fathers who were
+of Jerusalem and Cyril of Alexandria, [[Athanasius]], Julius of Rome,
+Hippolytus, [[Irenaeus]], avoiding Origen and other fathers who were
 becoming suspect. However, we do hear of versions of Nestorian writers
 like Diodore of Tarsus being in circulation, and the _Disputation_ of
 Archelaus proves that the current orthodoxy of eastern Armenia was
@@ -829,7 +829,7 @@ into such language, far removed as it is from orthodoxy; and they
 emphasized the importance of the baptismal feast of the Epiphany on the
 6th of January by refusing to accept the feast of the physical birth of
 the 25th of December. As late as 1165 their patriarch Nerses defends the
-Armenian custom of keeping Christmas on the 6th of January on the
+Armenian custom of keeping [[Christmas]] on the 6th of January on the
 express ground that as he was born after the flesh from the Virgin, _so
 he was born by way of baptism from the Jordan_. The custom from the
 first, he says, had been to feast on one and the same day the two
@@ -877,9 +877,9 @@ celebrated on the evening of Maundy Thursday after the rite of
 _pedilavium_ or washing of feet. On the morning of the same day the
 penitents were released from their fast.
 
-The rite of extreme unction was introduced in the crusading epoch,
+The rite of [[Extreme Unction|extreme unction]] was introduced in the crusading epoch,
 although it was already usual to anoint the bodies of dead priests. The
-worship of images never seems to have taken root among Armenians; indeed
+worship of [[Image|images]] never seems to have taken root among Armenians; indeed
 they supplied the Greek world with iconoclast soldiers and emperors. The
 worship of crosses into which the Spirit or Christ had been inserted by
 the priest must have satisfied the religious needs of a people who, save
@@ -889,7 +889,7 @@ Frescoes in their churches are rare, and mostly too high up for
 veneration to be paid to them.
 
 On certain days the cross was washed, and the water in which it had been
-washed was a sovereign charm for curing sickness in men and animals and
+washed was a sovereign [[Charm|charm]] for curing sickness in men and animals and
 for bringing fertility to the land.
 
 In the older rituals we find a rite of _exhomologesis_, for restoring
@@ -915,7 +915,7 @@ patriarchs and bishops, have taken monkish vows and worn the cowl.
 
 There were abortive attempts to unite the Armenian church with the
 Byzantine in the 9th century under the patriarch Photius, and again late
-in the 12th under the emperor Manuel Comnenus, when a joint council met
+in the 12th under the emperor Manuel [[Comnenus]], when a joint council met
 at Romkla, near Tarsus, but ended in nothing (A.D. 1179). Neither could
 the Armenians keep on good terms even with the Syriac monophysites. From
 the age of the crusades on, the Armenians of Cilicia, whose patriarch
@@ -962,7 +962,7 @@ fathers at Constantinople against Macedonius.
 Cyril after the council of Ephesus, when the "Glory in the Highest" was
 adopted. Held against Nestorianism.
 
-4. Held by Joseph, disciple of Mashdotz (Mesrop) and St Sahak, in
+4. Held by Joseph, [[Disciple|disciple]] of Mashdotz (Mesrop) and St Sahak, in
 Shahapiwan in the sixth year of King Yazkert (i.e. Yazdegerd) of Persia,
 for the regulation of the church. Forty bishops present. (The Massalians
 were anathematized.)
@@ -972,7 +972,7 @@ were anathematized.)
 Barsuma (Bar-sauma), the friends of Nestorius. The true (Nicene) faith
 was sent to the Armenians of the farther East (shortly afterwards a
 slightly different creed was adopted, identical with a pseudo-Athanasian
-symbol used by Evagrius of Pontus and given in Greek in Patr. Gr. xxvi.
+symbol used by [[Evagrius]] of Pontus and given in Greek in Patr. Gr. xxvi.
 Col. 1232).
 
 6. At the beginning of the Armenian era, held by Nerses in Dvin, in the
@@ -998,12 +998,12 @@ Gregory Asharuni Chorepiscopos (Gregory Asheruni). All the Armenian
 bishops attended, as also the metropolitan of Urhha (Edessa), Jacobite
 bishops of Gartman, of Nfrkert, Amasia, by command of the archbishop of
 Antioch. Chalcedon was repudiated afresh, union with the Jacobites
-instituted, use of water and leaven in the Eucharist condemned, the five
+instituted, use of water and [[Leaven|leaven]] in the Eucharist condemned, the five
 days' preliminary fast before Lent restored, Saturday as well as Sunday
 made a day of feasting and synaxis, any but the orthodox excluded from
 the Maundy Thursday Communion, the first communion of the new
 catechumens; union of the Baptismal and Christmas feasts was restored,
-and the faithful forbidden to fast on Fridays from Easter until
+and the faithful forbidden to fast on Fridays from [[Easter]] until
 Pentecost. In general these rules have been observed in the Armenian
 church ever since.
 
@@ -1048,7 +1048,7 @@ genders than the Indo-European tongues.
 From the original Armenian stock can be readily distinguished a mass of
 Old and Middle Persian loan-words. These are so numerous that for a time
 Armenian was classed as an Iranian tongue. For more than a thousand
-years, say until A.D. 640, Armenia was an appanage of the realm of the
+years, say until A.D. 640, Armenia was an [[Appanage|appanage]] of the realm of the
 Persians and Parthians. Until A.D. 428 the Armenian throne was occupied
 by a younger branch of the Arsacid dynasty that ruled in Persia until
 the advent of the Sassanids (c. A.D. 226), and the internal polity and
@@ -1069,11 +1069,11 @@ also were most words used in connexion with horses and the chase, with
 war and army, with dress, trade and coinage, calendar, weights and
 measures, with court and political institutions, with music, medicine,
 school, education, literature and the arts. Many everyday words were of
-the same origin, e.g. the words for village, desert, building and build,
+the same origin, e.g. the words for village, [[Desert|desert]], building and build,
 need, rich or liberal, arm (of body), rod or goad, face, opposite,
 wicked, unfriendly, discontented, difficult, daughter, eulogy, a youth,
 wary, enjoy, unhappy, volition, voluntary, unwilling, blind, cautious,
-blood-kin, coquet with, slumber, humble, mad, grace or favour, memory or
+blood-kin, [[Coquet|coquet]] with, slumber, humble, mad, grace or favour, memory or
 attention, grandfather, old woman, prepared, duty, necessary, end,
 endless, superior, confident, mistake, warmth, heat, glory. The language
 of their old religion was mainly Persian, but in the 4th century they
@@ -1092,7 +1092,7 @@ to say, the Iberians in turn borrowed from the Armenians. From Persia
 also the Armenians took their names for surrounding races, e.g.
 _Tatshik_ or _Tajik_, first for Arab and then for Turk, _Ariq_ for
 Persians, _Kapkoh_ for Caucasus, _Hrazdan_, _Vaspuragan_, &c. The
-Armenians call themselves _Hay_, plural _Hayq_; their country
+Armenians call themselves _[[Hay]]_, plural _Hayq_; their country
 _Hayasdan_. The Iberians they called _Virq_ or _Wirq_ (where q marks the
 plural), the Medes _Marq_, the Cappadocians _Gamirq_ (Cimmerians), the
 Greeks Yunes or Ionians; Ararat they call _Masis_, the Euphrates the
@@ -1171,20 +1171,20 @@ Apostles.
 
 From the original Greek were rendered in the 5th century the following
 authors and works. An asterisk is prefixed to those which have been
-printed:--*Eusebius' _Chronicon_; *Philo's lost commentaries on Genesis
+printed:--*Eusebius' _Chronicon_; *Philo's lost commentaries on [[Genesis]]
 and Exodus, and his lost treatises on Providence and Animals, as well as
 a great number of his works still preserved in Greek; *the entire Bible
 (the New Testament is a recension after Antiochene Greek texts of an
 older version made from the oldest Syriac text); *the Alexander romance
-of the pseudo-Callisthenes; *_Epistles_ and _Acts_ of Ignatius of
+of the pseudo-Callisthenes; *_Epistles_ and _Acts_ of [[Ignatius]] of
 Antioch; *many homilies of Gregory Thaumaturgus; *Athanasius (a large
 number of works, many of them wrongly attributed); Irenaeus, _Adversus
 Haereses_ and _Ad Marcianum_ (recently found); *Hippolytus' commentaries
-on the Song of Songs and Daniel, and many fragments; *Timotheus' life of
+on the Song of Songs and [[Daniel]], and many fragments; *Timotheus' life of
 Athanasius; Theophilus of Alexandria, various homilies; *Eusebius of
 Gabala or Severianus, fifteen Homilies; *Cyril of Jerusalem,
 _Catecheses_ and Letter to Constantine; *_Wisdom of Ahikar_; *the
-_Apology_ of Aristides; Gregory of Nazianzus, thirty-four Homilies;
+_[[Apology]]_ of [[Aristides]]; Gregory of Nazianzus, thirty-four Homilies;
 *Nonnus' work on Gregory (perhaps a version of 6th century); Basil of
 Caesarea, *_Hexaemeron_, fifteen Homilies on faith, epistle to
 Terentius, ascetic writings and canons, on the Holy Spirit, to
@@ -1231,7 +1231,7 @@ in the 5th, though it was only Armenized in a later century.
 waged for their faith by the Armenians against the Sassanids. He was an
 eye-witness of this struggle, and gives a good account of the
 contemporary Mazdaism which the Persians tried to force on the
-Armenians. *Lazar of Pharp wrote a history embracing the events of the
+Armenians. *[[Lazar]] of Pharp wrote a history embracing the events of the
 5th century up to the year 485, as a continuation of the work of
 Faustus.
 
@@ -1250,9 +1250,9 @@ which already existed in an Armenian dress. Some critics put down the
 date of composition as low as about 700, and it was certainly retouched
 in the late 6th century.
 
-*A long volume of rhetorical exercises, based on Aphthonius, is also
+*A long volume of rhetorical exercises, based on [[Aphthonius]], is also
 ascribed to Moses of Khoren, and appears to be of the 5th century. The
-*geography which passes under his name may belong to the 7th century.
+*[[Geography|geography]] which passes under his name may belong to the 7th century.
 Various homilies of Moses survive, as also of Elisaeus.
 
 Gorium wrote in this century a *_Life of Mesrop_, and Eznik a
@@ -1275,7 +1275,7 @@ enormous number of other similar apocryphs. Some of these may be of the
 5th century. Two volumes of these apocryphs of the Old and New
 Testaments have recently been published at Venice. To these centuries
 belong also the versions of the Acts of the council of Ephesus, of
-Gangra, Laodicea and of other councils. To the late 7th century belong
+Gangra, [[Laodicea]] and of other councils. To the late 7th century belong
 the *calendarial works of Ananiah of Shirak, who also has left a
 *_chronicon_ compiled from Eusebius, Andreas of Crete, Hippolytus and
 other sources. In the *_Letter-book of the Patriarchs_, lately printed
@@ -1319,7 +1319,7 @@ collected in one volume the Armenian rituals.
 In the 10th century (c. 925) the catholicus John VI. issued his *history
 of Armenia, and Thomas Artsruni a *history of his clan carried up to the
 year 936. Ananias of Mok (943-965) wrote a great work against the
-Paulicians, unfortunately lost. Chosroes wrote a *commentary on the
+Paulicians, unfortunately lost. [[Chosroes]] wrote a *commentary on the
 eucharistic rites and breviary, *Mesrop a history of Nerses the Great;
 *Stephen of Asolik wrote a history of the world, and a commentary on
 Jeremiah; *Gregory of Narek his famous meditations and hymns; Samuel
@@ -1332,7 +1332,7 @@ year 1004; *Aristaces of Lastiverd a valuable history of the conquest of
 Armenia by the Seljuk caliphs. We may also mention a *monophysite work
 against the Greek doctor Theopistus by Paul of Taron; *letters and poems
 of Gregory Magistros, who also was the translator of the *_Laws,
-Timaeus_ and other dialogues of Plato.
+Timaeus_ and other [[Dialogue|dialogues]] of Plato.
 
 The 12th century saw many remarkable writers, mostly in Cilician
 Armenia, viz. Nerses the Graceful (d. 1165), author of an *_Elegy_ on
@@ -1343,11 +1343,11 @@ archbishop of Tarsus, left a *Synodal oration, a *Commentary on the
 liturgy, &c., and his contemporary Gregory of Tlay an *_Elegy_ on the
 capture of Jerusalem, and various *dogmatic works. In this century the
 *history of Michael the Syrian was translated; Ignatius and Sargis
-composed *commentaries on Luke and *the catholic epistles, and *Matthew
+composed *commentaries on [[Luke]] and *the catholic epistles, and *[[Matthew]]
 of Edessa a valuable history of the years 952-1136, continued up to
 1176 by Gregory the priest. Mechithar (Mekhitar) Kosh (d. 1207) wrote an
 elegant *_Book of Fables_, and compiled a *corpus of civil and canon law
-(partly from Byzantine codes).
+(partly from Byzantine [[Code|codes]]).
 
 In the 13th century the following works or authors are to be
 noticed:--*history of Kiriakos of Ganzak, which contains much about the
@@ -1394,7 +1394,7 @@ turned into verse in the 13th and following centuries.
 It will be realized from the above enumeration of works written in each
 century that Armenian literature was purely monkish. There was no epic
 or romance literature; although this was not lacking in the contiguous
-country of Georgia, where there seem to have always been knights and
+country of Georgia, where there seem to have always been [[Knight|knights]] and
 ladies willing to read and keep alive a literature of poetry and
 narrative, not altogether suitable for monks, and more akin to Persian
 literature.
@@ -1433,7 +1433,7 @@ St Anthony; at Venice in the Mechitharist convent of San Lazaro; at the
 Museum; in the *Bodleian; in the Rylands library; in the *Berlin and
 *Munich libraries; *in Tubingen; in St Petersburg, and in the *Lazarev
 institute at Moscow; at New Joulfa, the Armenian suburb of Isfahan.
-Private collections have been made by Mr Rendel Harris in Birmingham
+Private collections have been made by Mr Rendel [[Harris]] in [[Birmingham]]
 (presented to the university of Leiden); at Parham and elsewhere. A
 printed catalogue exists of those marked with an asterisk.
 
@@ -1468,14 +1468,14 @@ printed catalogue exists of those marked with an asterisk.
   translation; _Recueil d'actes relatifs aux Armeniens_ (3 vols.,
   Moscow, 1833); St Martin, _Memoires historiques sur l'Armenie_ (Paris,
   1818); V. Langlois, _Voyage dans la Cilicie_ (Paris, 1861); H.G.O.
-  Dwight, _Christianity in Turkey_ (London, 1854); De Damas, _Coup
+  [[Dwight]], _Christianity in Turkey_ (London, 1854); De Damas, _Coup
   d'oeil sur l'Armenie_ (Lyon, 1887); H.F.B. Lynch, _Armenia_ (2
   vols., London, 1902); J. Issaverdens, _Armenia, Ecclesiastical
   History_ (Venice, 1875); E. Dulaurier, _Historiens armeniens des
   Croisades_ (Paris); Giovanni de Serpos, _Compendio Storico_ (Venice,
   1786); Garabed Chahnazarian, _Esquisse de l'histoire de l'Armenie_
   (Paris, 1856); Gelzer, "Armenien" in Herzog-Hauck, _Realencyklopadie
-  fur protestantische Theologie_ (ed. 3, Leipzig, 1897); Hefele, _Hist.
+  [[Fur|fur]] protestantische Theologie_ (ed. 3, Leipzig, 1897); Hefele, _Hist.
   of Councils_, vols. 3 and 9; F. Neve, _L'Armenie chretienne_ (Paris);
   P. Hunanian, _Histoire des canciles d'Orient_ (Vienna, 1847); Gr.
   Chalathianz, _Apocryphes_ (Moscow, 1897), and other works; Brosset,
@@ -1483,14 +1483,14 @@ printed catalogue exists of those marked with an asterisk.
   numerous other works by the same author; J. Catergian, _De fidei
   symbolo quo Armenii utuntur_ (Vienna, 1893); Ricaut, _The present
   state of the Greek and Armenian Churches_ (London, 1679); H.
-  Denzinger, _Ritus orientalium_ (Wurzburg, 1863); Fred. C. Conybeare,
+  Denzinger, _Ritus orientalium_ (Wurzburg, 1863); Fred. C. [[Conybeare]],
   _Rituale Armenorum_ (Oxford, 1905); F.E. Brightman, _Eastern
   Liturgies_ (Oxford, 1896); P. Vetter, _Chosroae magni explicatio
   missae_ (Freiburg-im-Breisgau, 1880); L. Petit, articles on Armenian
   religious history, councils, literature, creed and discipline in
   _Diction. de theologie catholique_, cols. 1888-1968; F.C. Conybeare,
   "The Armenian canons of St Sahak" in the _American Journal of
-  Theology_ (Chicago, 1898), p. 828; C.F. Neumann, _Geschichte der
+  Theology_ ([[Chicago]], 1898), p. 828; C.F. Neumann, _Geschichte der
   armenischen Literatur_ (Leipzig, 1836); Simon Weber, _Die katholische
   Kirche in Armenien_ (Freiburg-im-Breisgau, 1903); Sukias Somal,
   _Quadro della Storia Letteraria di Armenia_ (Venice, 1829); M.V.
@@ -1500,7 +1500,7 @@ printed catalogue exists of those marked with an asterisk.
   Studien_ and _Grammatik_ (Leipzig, 1883 and 1895). Grammars by
   Petermann (in _Porta Orientalium Linguarum_ series), by Prof. Meillet
   of Paris, by Prof. N. Marr of St Petersburg (in Russian), by Joseph
-  Karst (of the Cilician dialect). Texts of most of the Armenian fathers
+  [[Karst]] (of the Cilician dialect). Texts of most of the Armenian fathers
   and historians have been printed by the Mechitharists of San Lazaro,
   Venice, and are readily procurable at their convent.     (F. C. C.)
 

@@ -14,7 +14,7 @@ distinguished for piety and exegetical skill, but though he was known in
 the Jewish community by commentaries on certain books of the Bible, he
 never seems to have accepted any rabbinical post. Possibly the freedom
 of his opinions may have put obstacles in the way of his preferment. He
-is known to have been at Avignon and Orange during his life, and is
+is known to have been at [[Avignon]] and Orange during his life, and is
 believed to have died in 1344, though Zacuto asserts that he died at
 Perpignan in 1370. Part of his writings consist of commentaries on the
 portions of Aristotle then known, or rather of commentaries on the

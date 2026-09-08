@@ -16,7 +16,7 @@ profusely covered with whitewash, and thus there is little difference on
 the surface between the oldest and the most modern houses. The southern
 suburb communicates with the town by means of a bridge of sixteen arches
 across the river, exhibiting the usual combination of Roman and Moorish
-masonry and dominated at the one end by an elevated statue of the patron
+[[Masonry|masonry]] and dominated at the one end by an elevated statue of the patron
 saint, St Raphael, whose effigy is to be seen in various other quarters
 of the city. The most important of the public buildings are the
 cathedral, the old monastic establishments, the churches, the bishop's
@@ -49,9 +49,9 @@ east. The exterior, with the straight lines of its square buttress
 towers, has a heavy and somewhat ungainly appearance; but the interior
 is one of the most beautiful specimens of Moorish architecture. Passing
 through a grand courtyard about 500 ft. in length, shady with palm and
-cypress and orange trees and watered by five fountains, the visitor
+[[Cypress|cypress]] and orange trees and watered by five [[Fountain|fountains]], the visitor
 enters on the south a magnificent and bewildering labyrinth of pillars
-in which porphyry, jasper and many-coloured marbles are boldly combined.
+in which porphyry, jasper and many-coloured [[Marbles|marbles]] are boldly combined.
 Part came from the spoils of Nîmes or Narbonne, part from Seville or
 Tarragona, some from the older ruins of Carthage, and others as a
 present to Abd-ar-Rahman I. from the East Roman emperor Leo IV., who
@@ -64,7 +64,7 @@ have been destroyed. The pillars divide the area of the building from
 north to south, longitudinally into nineteen and transversely into
 twenty-nine aisles--each row supporting a tier of open Moorish arches of
 the same height (12 ft.) with a third and similar tier superimposed upon
-the second. The full height of the ceiling is thus about 35 ft. The
+the second. The full height of the [[Ceiling|ceiling]] is thus about 35 ft. The
 Moorish character of the building was unfortunately impaired in the 16th
 century by the formation in the interior of a _crucero_, or high altar
 and cruciform choir, by the addition of numerous chapels along the sides
@@ -77,7 +77,7 @@ as well anywhere else; and you have destroyed what was unique in the
 world." Magnificent, indeed, as the cathedral still is, it is almost
 impossible to realize what the mosque must have been when the
 worshippers thronged through its nineteen gateways of bronze, and its
-4700 lamps, fed with perfumed oil, illuminated its brilliant aisles. Of
+4700 [[Lamp|lamps]], fed with perfumed oil, illuminated its brilliant aisles. Of
 the exquisite elaboration bestowed on the more sacred portions abundant
 proof is afforded by the third _Mihrab_, or prayer-recess, a small
 10th-century chapel, heptagonal in shape, roofed with a single
@@ -85,9 +85,9 @@ shell-like block of snow-white marble, and inlaid with Byzantine mosaics
 of glass and gold.
 
 Cordova was celebrated in the time of the Moors for its silversmiths,
-who are said to have come originally from Damascus; and it exported a
+who are said to have come originally from [[Damascus]]; and it exported a
 peculiar kind of leather which took its name from the city, whence is
-derived the word _cordwainer_. Fine silver filigree ornaments are still
+derived the word _cordwainer_. Fine silver [[Filigree|filigree]] ornaments are still
 produced; and Moorish work in leather is often skilfully imitated,
 although this handicraft almost disappeared in the 15th century. The
 chief modern industries of Cordova are distillation of spirits and the
@@ -111,7 +111,7 @@ by Augustus, and partly to its proximity to mines and rich grazing and
 grain-producing districts. Hosius, its bishop, presided over the first
 council of Nicaea in 345; and its importance was maintained by the
 Visigothic kings, whose rule lasted from the 5th to the beginning of the
-8th century. Under the Moors, Cordova was at first an appanage of the
+8th century. Under the Moors, Cordova was at first an [[Appanage|appanage]] of the
 caliphate of Damascus; but after 756 Abd-ar-Rahman I. made it the
 capital of Moorish Spain, and the centre of an independent caliphate
 (see ABD-AR-RAHMAN). It reached its zenith of prosperity in the middle
@@ -123,7 +123,7 @@ of the Guadalquivir, under the power of its monarch, there were eight
 cities, 300 towns and 12,000 populous villages. A period of decadence
 began in 1016, owing to the claims of the rival dynasties which aimed at
 succeeding to the line of Abd-ar-Rahman; the caliphate never won back
-its position, and in 1236 Cordova was easily captured by Ferdinand III.
+its position, and in 1236 Cordova was easily captured by [[Ferdinand]] III.
 of Castile. The substitution of Spanish for Moorish supremacy rather
 accelerated than arrested the decline of art, industry and population;
 and in the 19th century Cordova never recovered from the disaster of
@@ -131,12 +131,12 @@ and in the 19th century Cordova never recovered from the disaster of
 however, can boast of so long a list of illustrious natives in the
 Moorish and Roman periods, and even, to a less extent, in modern times.
 It was the birthplace of the rhetorician Marcus Annaeus Seneca, and his
-more famous son Lucius (c. 3 B.C.-A.D. 65); of the poet Lucan (A.D.
+more famous son [[Lucius]] (c. 3 B.C.-A.D. 65); of the poet Lucan (A.D.
 39-65); of the philosophers Averroes (1126-1198) and Maimonides
 (1135-1204); of the Spanish men of letters Juan de Mena (c. 1411-1456),
 Lorenzo de Sepúlveda (d. 1574) and Luis de Gongora y Argote (1561-1627);
 and the painters Pablo de Céspedes (1538-1608) and Juan de Valdés Leal
-(1630-1691). The celebrated captain Gonzalo Fernandez de Córdoba (q.v.),
+(1630-1691). The celebrated captain Gonzalo [[Fernandez]] de Córdoba (q.v.),
 the conqueror of Naples (1495-1498), was born in the neighbouring town
 of Montilla.
 

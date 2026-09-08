@@ -10,7 +10,7 @@ tags: [shipbuilding, biology]
 EDWY (EADWIG), "THE FAIR" (c. 940-959), king of the English, was the
 eldest son of King Edmund and Ælfgifu, and succeeded his uncle Eadred in
 955, when he was little more than fifteen years old. He was crowned at
-Kingston by Archbishop Odo, and his troubles began at the coronation
+[[Kingston]] by Archbishop Odo, and his troubles began at the [[Coronation|coronation]]
 feast. He had retired to enjoy the company of the ladies Æthelgifu
 (perhaps his foster-mother) and her daughter Ælfgifu, whom the king
 intended to marry. The nobles resented the king's withdrawal, and he was
@@ -23,14 +23,14 @@ disproportionately large numbers of charters issued during his reign,
 seems to have been weakly lavish in the granting of privileges, and soon
 the chief men of Mercia and Northumbria were disgusted by his partiality
 for Wessex. The result was that in the year 957 his brother, the
-Ætheling Edgar, was chosen as king by the Mercians and Northumbrians. It
+Ætheling [[Edgar]], was chosen as king by the Mercians and Northumbrians. It
 is probable that no actual conflict took place, and in 959, on Edwy's
 death, Edgar acceded peaceably to the combined kingdoms of Wessex,
 Mercia and Northumbria.
 
   AUTHORITIES.--_Saxon Chronicle_ (ed. Earle and Plummer, Oxford), _sub
   ann._; _Memorials of St Dunstan_ (ed. Stubbs, Rolls Series); William
-  of Malmesbury, _Gesta regum_ (ed. Stubbs, Rolls Series); Birch,
+  of Malmesbury, _Gesta regum_ (ed. Stubbs, Rolls Series); [[Birch]],
   _Cartularium Saxonicum_, vol. ii. Nos. 932-1046; Florence of
   Worcester.
 

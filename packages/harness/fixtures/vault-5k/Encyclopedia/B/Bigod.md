@@ -42,7 +42,7 @@ left no sons.
 
 Hugh, the 3rd earl, left a younger son, HUGH (d. 1266), who was chief
 justiciar of England from 1258 to 1260, and who fought for Henry III. at
-the battle of Lewes. The latter's son, ROGER, succeeded his uncle Roger
+the battle of [[Lewes]]. The latter's son, ROGER, succeeded his uncle Roger
 as 5th earl of Norfolk in 1270. This earl is the hero of a famous
 altercation with Edward I. in 1297, which arose out of the king's
 command that Bigod should serve against the king of France in Gascony,

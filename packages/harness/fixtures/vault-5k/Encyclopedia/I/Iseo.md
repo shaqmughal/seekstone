@@ -10,7 +10,7 @@ tags: [reference, biology]
 
 ISEO, LAKE OF (the _Lacus Sebinus_ of the Romans), a lake in Lombardy,
 N. Italy, situated at the southern foot of the Alps, and between the
-provinces of Bergamo and Brescia. It is formed by the Oglio river, which
+provinces of [[Bergamo]] and [[Brescia]]. It is formed by the Oglio river, which
 enters the northern extremity of the lake of Lovere, and issues from the
 southern end at Sarnico, on its way to join the Po. The area of the lake
 is about 24 sq. m., it is 17(1/2) m. in length, and 3 m. wide in the
@@ -31,7 +31,7 @@ rugged) a fine carriage road rims from Iseo to the considerable town of
 Pisogne (13(1/2) m.), situated at the northern end of the lake, and
 nearly opposite that of Lovere, on the right bank of the Oglio. The
 portion of this road some way S. of Pisogne is cleverly engineered, and
-is carried through several tunnels. The lake's charms were celebrated by
+is carried through several tunnels. The lake's [[Charm|charms]] were celebrated by
 Lady Mary Wortley-Montagu, who spent ten summers (1747-1757) in a villa
 at Lovere, then much frequented by reason of an iron spring. The lake
 has several sardine and eel fisheries.     (W. A. B. C.)
@@ -46,8 +46,8 @@ during which it descends a height of about 7550 ft. Its drainage area is
 about 4725 sq. m. It flows through the departments of Savoie, Isere and
 Drome. This river rises in the Galise glaciers in the French Graian Alps
 and flows, as a mountain torrent, through a narrow valley past Tignes in
-a north-westerly direction to Bourg St Maurice, at the western foot of
-the Little St Bernard Pass. It now bends S.W., as far as Moutiers, the
+a north-westerly direction to Bourg St [[Maurice]], at the western foot of
+the Little St Bernard Pass. It now [[Bend|bends]] S.W., as far as Moutiers, the
 chief town of the Tarentaise, as the upper course of the Isere is named.
 Here it again turns N.W. as far as Albertville, where after receiving
 the Arly (right) it once more takes a south-westerly direction, and near
@@ -58,14 +58,14 @@ becomes officially navigable (for about half of its course), though it
 is but little used for that purpose owing to the irregular depth of its
 bed and the rapidity of its current. Very probably, in ancient days, it
 flowed from Montmelian N.W. and, after passing through or forming the
-Lac du Bourget, joined the Rhone. But at present it continues from
+[[Lac]] du Bourget, joined the Rhone. But at present it continues from
 Montmelian in a south-westerly direction, flowing through the broad and
 fertile valley of the Graisivaudan, though receiving but a single
 affluent of any importance, the Breda (left). At Grenoble, the most
 important town on its banks, it bends for a short distance again N.W.
 But just below that town it receives by far its most important affluent
 (left) the Drac, which itself drains the entire S. slope of the lofty
-snow-clad Dauphine Alps, and which, 11 m. above Grenoble, had received
+snow-clad [[Dauphine]] Alps, and which, 11 m. above Grenoble, had received
 the Romanche (right), a mountain stream which drains the entire central
 and N. portion of the same Alps. Hence the Drac is, at its junction
 with the Isere, a stream of nearly the same volume, while these two

@@ -1,10 +1,10 @@
 # Fairhaven
 
-FAIRHAVEN, a township in Bristol county, Massachusetts, U.S.A., on New
-Bedford Harbor, opposite New Bedford. Pop. (1890) 2919; (1900) 3567 (599
+FAIRHAVEN, a township in [[Bristol]] county, Massachusetts, U.S.A., on New
+[[Bedford]] Harbor, opposite New Bedford. Pop. (1890) 2919; (1900) 3567 (599
 being foreign-born); (1905, state census) 4235; (1910) 5122. Area, about
-13 sq. m. Fairhaven is served by the New York, New Haven & Hartford
-railway and by electric railway to Mattapoisett and Marion, and is
+13 sq. m. Fairhaven is served by the New York, New Haven & [[Hartford]]
+railway and by electric railway to Mattapoisett and [[Marion]], and is
 connected with New Bedford by two bridges, by electric railway, and by
 the New York, New Haven & Hartford ferry line. The principal village is
 Fairhaven; others are Oxford, Naskatucket and Sconticut Neck. As a
@@ -32,14 +32,14 @@ meanwhile dismantled a small fort, built during the early days of the
 war, on the east side of the river at the entrance to the harbour. On
 the evening of the 8th of September a landing force from the fleet,
 which had begun to set fire to Fairhaven, was driven off by a body of
-about 150 minute-men commanded by Major Israel Fearing; and on the
+about 150 minute-men commanded by [[Major]] Israel Fearing; and on the
 following day the fleet departed. The fort was at once rebuilt and was
 named Fort Fearing, but as early as 1784 it had become known as Fort
 Phoenix; it was one of the strongest defences on the New England coast
 during the war of 1812. The township of Acushnet was formed from the
 northern part of Fairhaven in 1860.
 
-  See James L. Gillingham and others, _A Brief History of the Town of
+  See James L. [[Gillingham]] and others, _A Brief History of the Town of
   Fairhaven, Massachusetts_ (Fairhaven, 1903).
 
 ## See also

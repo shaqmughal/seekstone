@@ -3,9 +3,9 @@
 HOMOEOPATHY (from the Greek [Greek: homoios], like, and [Greek: pathos],
 feeling). The distinctive system of therapeutics which bears the name of
 homoeopathy is based upon the law _similia similibus curentur_,[1] the
-originator of which was S. C. F. Hahnemann, a native of Meissen in
+originator of which was S. C. F. [[Hahnemann]], a native of Meissen in
 Germany, who discovered his new principle while he was experimenting
-with cinchona bark in 1790, and announced it in 1796.[2] The essential
+with [[Cinchona|cinchona]] bark in 1790, and announced it in 1796.[2] The essential
 tenets of homoeopathy--with which is contrasted the "allopathy" ([Greek:
 allos], other) of the "orthodox" therapeutics--are that the cure of
 disease is effected by drugs that are capable of producing in a healthy
@@ -29,7 +29,7 @@ followers of Hahnemann, was almost immediately discarded by very many
 who had a firm belief in his law of cure. In the light of advancing
 science such theories are entirely untenable, and it was unfortunate for
 the system of medicine which he founded that Hahnemann should have
-promulgated such an hypothesis. It served as a target for the shafts of
+promulgated such an [[Hypothesis|hypothesis]]. It served as a target for the shafts of
 ridicule showered upon the system by those who were its opponents, and
 even at the present time there still exists in the minds of many
 misinformed persons the conviction that homoeopathy is a system of
@@ -46,7 +46,7 @@ system. The dose is the corollary, not the principle. Yet in the minds of
 many, infinitesimal doses of medicine stand for homoeopathy itself, the
 real law of cure being completely put into the background. The question
 of dose has also divided the members of the homoeopathic school into
-bitter factions, and is therefore a matter for careful consideration.
+bitter [[Faction|factions]], and is therefore a matter for careful consideration.
 Many employ low potencies,[3] i.e. mother tinctures, first, second,
 sixth dilutions, &c., while others use hundred-thousandths and
 millionths.
@@ -74,7 +74,7 @@ materia medica and a lack of knowledge on the part of the physician.
 They believe that in many cases of severe and acute pain palliatives are
 required, and that they are free to use all the adjuvants at present
 known to science for the relief of suffering humanity--massage,
-balneology, electricity, hygiene, &c. The American Institute of
+balneology, electricity, [[Hygiene|hygiene]], &c. The American Institute of
 Homoeopathy, the national body of the United States, has adopted the
 following resolution and ordered it to be published conspicuously in
 each number of the _Transactions_ of the society: "A homoeopathic
@@ -89,15 +89,15 @@ salutary in many ways. It diminished the quantity of medicine that was
 formerly considered necessary for the eradication of disease, and thus
 revealed the fact that the _vis medicatrix naturae_ is often sufficient,
 with occasional and gentle assistance, to cure many diseases, especially
-those fevers that run a definite and regular course. Corroboration of
+those [[Fever|fevers]] that run a definite and regular course. Corroboration of
 the law _similia similibus curentur_ is seen, according to
 homoeopathists, in the adoption of the serum therapy, which consists in
 the treatment of the most malignant diseases (diphtheria, lock-jaw,
 typhoid fever, tuberculosis, bubonic plague) by introducing into the
 system a modified form (similar) of those poisons that produce them in
-the healthy individual. Hahnemann undoubtedly deserves the credit of
+the healthy individual. Hahnemann undoubtedly deserves the [[Credit|credit]] of
 being the first to break decidedly with the old school of medical
-practice, in which, forgetful of the teachings of Hippocrates, nature
+practice, in which, forgetful of the teachings of [[Hippocrates]], nature
 was either overlooked or rudely opposed by wrong and ungentle methods.
 We can scarcely now estimate the force of character and of courage which
 was implied in his abandoning the common lines of medicine. More than
@@ -114,8 +114,8 @@ the days of Hahnemann. But in the medical profession homoeopathy
 nevertheless remains under the stigma of being a dissenting sect. It has
 been publicly announced that if the homoeopathists would abolish the
 name "homoeopathy," and remove it from their periodicals, colleges,
-hospitals, dispensaries and asylums, they would be received within the
-fold of the regular profession. These conditions have been accepted by a
+hospitals, dispensaries and [[Asylum|asylums]], they would be received within the
+[[Fold|fold]] of the regular profession. These conditions have been accepted by a
 few homoeopathists who have become members of the most prominent medical
 association in the United States.
 
@@ -130,13 +130,13 @@ humbug and a sham. There are, however, liberal-minded men in both
 schools, who look upon the adoption of any safe and efficient method of
 curing disease as the birthright of the true physician, and who allow
 every man to prescribe for his patients as his conscience may dictate,
-and, provided he be educated in all the collateral branches of medical
-science, are ready to exchange views for the good of suffering humanity.
+and, provided he be educated in all the [[Collateral|collateral]] branches of medical
+science, are ready to [[Exchange|exchange]] views for the good of suffering humanity.
 
   _Great Britain._--Homoeopathy is not rapidly extending in Great
   Britain, and its recognition has been slow. The first notice taken of
   the new system of therapeutics was by the Medical Society of London in
-  1826. In 1827 the physician of Prince Leopold of Saxe-Coburg, Dr F. H.
+  1826. In 1827 the physician of Prince [[Leopold]] of Saxe-Coburg, Dr F. H.
   F. Quin (1799-1878), who had previously studied homoeopathy in Germany
   and practised it in Italy, came to England, and it was through his
   efforts that the system was introduced. Three other physicians, Dr
@@ -144,9 +144,9 @@ science, are ready to exchange views for the good of suffering humanity.
   research established Dr Quin's title. Quin was a successful man
   professionally and socially, and brought upon himself in a short time
   the anathema of the Royal College of Physicians. In 1844 Dr William
-  Henderson, professor of pathology in the university of Edinburgh,
+  [[Henderson]], professor of pathology in the university of Edinburgh,
   embraced the Hahnemannian system. A storm of opposition arose, and
-  Professor J. Y. Simpson (the discoverer of chloroform anaesthesia)
+  Professor J. Y. Simpson (the discoverer of [[Chloroform|chloroform]] anaesthesia)
   published a volume, with the alliterative title, _Homoeopathy, its
   Tenets and Tendencies, Theoretical, Theological, and Therapeutical_.
   This brochure was answered by Professor Henderson, the title of his
@@ -167,20 +167,20 @@ science, are ready to exchange views for the good of suffering humanity.
   the country contained from one to ten homoeopathic practitioners each,
   together with many established chemists for dispensing homoeopathic
   medicines. The British Homoeopathic Society was founded by Quin in
-  1844, and has numerous members and fellows, besides corresponding
-  members in all portions of the world, including Australia, India and
+  1844, and has numerous members and [[Fellows|fellows]], besides corresponding
+  members in all portions of the world, including [[Australia]], India and
   Tasmania. The London Homoeopathic Hospital was founded in 1850, also
   largely through the efforts of Quin, and a few years afterwards moved
   to Great Ormond Street. During the cholera epidemic of 1854 the
   statistics of this hospital showed a mortality of 16.4%, against 51.8%
   of other metropolitan charities. The London Homoeopathic Hospital has
   a convalescent home under its management at Eastbourne. There are also
-  dispensaries in Ealing and West Middlesex, Kensington, Notting Hill
+  dispensaries in [[Ealing]] and West Middlesex, [[Kensington]], Notting Hill
   and Bayswater. Similar institutions are located in Bath, Birkenhead,
-  Birmingham, Bootle, Bournemouth, Brighton, Bristol, Bromley,
-  Cheltenham, Cheshire, Croydon, Dublin, Eastbourne, Edinburgh,
-  Folkestone, Hastings and St Leonards, Ipswich, Leeds, Leicester,
-  Liverpool, Newcastle, Northampton, Norwich, Oxford, Plymouth, Torquay,
+  [[Birmingham]], Bootle, [[Bournemouth]], Brighton, [[Bristol]], Bromley,
+  [[Cheltenham]], Cheshire, [[Croydon]], Dublin, Eastbourne, Edinburgh,
+  [[Folkestone]], [[Hastings]] and St Leonards, [[Ipswich]], [[Leeds]], Leicester,
+  [[Liverpool]], Newcastle, Northampton, Norwich, Oxford, Plymouth, Torquay,
   Tunbridge Wells, Weston-super-Mare. The homoeopathic journals include
   the _Homoeopathic World_, the _London Homoeopathic Hospital_
   _Reports_, the _Journal of the British Homoeopathic Society_, and the
@@ -197,17 +197,17 @@ science, are ready to exchange views for the good of suffering humanity.
   themselves.
 
   _United States._--Homoeopathy was introduced into the United States by
-  Dr Hans Birch Gram, who was born in Boston. His father being Danish,
-  Gram in his eighteenth year went to Copenhagen, where he graduated in
+  Dr Hans [[Birch]] Gram, who was born in [[Boston]]. His father being Danish,
+  Gram in his eighteenth year went to [[Copenhagen]], where he graduated in
   1814. In 1823 he became acquainted with homoeopathy, and brought a
   knowledge of it to America in 1825 when he settled in New York. The
   first homoeopathic association was formed in 1833 in Philadelphia, the
   second in New York, 1834, and homoeopathy became known in the
   different states somewhat in the following order: New York, 1825;
-  Pennsylvania, 1828; Louisiana, 1836; Connecticut, 1837; Massachusetts,
-  1837-1838; Maryland, 1837; Delaware, 1837; Kentucky, 1837; Vermont,
-  1838; Rhode Island, 1839; Ohio, 1839; New Jersey, 1840; Maine, 1840;
-  New Hampshire, 1840; Michigan, 1841; Georgia, 1842; Wisconsin, 1842;
+  Pennsylvania, 1828; [[Louisiana]], 1836; Connecticut, 1837; Massachusetts,
+  1837-1838; Maryland, 1837; [[Delaware]], 1837; [[Kentucky]], 1837; Vermont,
+  1838; Rhode Island, 1839; Ohio, 1839; New [[Jersey]], 1840; [[Maine]], 1840;
+  New [[Hampshire]], 1840; Michigan, 1841; [[Georgia]], 1842; Wisconsin, 1842;
   Alabama, 1843; Illinois, 1843; Tennessee, 1844; Missouri, 1844; Texas,
   1848; Minnesota, 1852; Nebraska, 1862; Colorado, 1863; Iowa, 1871.
   After 1871 the spread of the system was rapid throughout every state
@@ -215,7 +215,7 @@ science, are ready to exchange views for the good of suffering humanity.
   principally flourishes. There are thousands of homoeopathic
   physicians, and their clients number several millions. It may be noted
   that departments of homoeopathy are connected with the universities of
-  Boston, Michigan, Iowa, Minnesota and Kansas City.
+  Boston, Michigan, Iowa, Minnesota and [[Kansas City]].
 
   _Canada._--The early history of homoeopathy can be traced back nearly
   to 1850 in the province of Quebec. In the Dominion of Canada the
@@ -243,7 +243,7 @@ science, are ready to exchange views for the good of suffering humanity.
   into one board called the medical council, seventeen members
   representing the old school and five the other two systems. Finally
   the eclectics were merged in the old school, the board appointing five
-  of Hahnemann's followers for examining purposes. Grace Hospital at
+  of Hahnemann's followers for examining purposes. [[Grace]] Hospital at
   Toronto (erected 1892) was begun as a dispensary in 1887.
 
   _Germany._--In 1810 Hahnemann published his _Organon_, which was the
@@ -265,12 +265,12 @@ science, are ready to exchange views for the good of suffering humanity.
   usefulness was curtailed, and it was finally converted into a
   dispensary. The Baden Homoeopathic Society was established in 1834.
   The homoeopathic hospital in Munich was established in 1836, but
-  suffered a similar fate to that of Leipzig, and was converted into a
+  suffered a similar [[Fate|fate]] to that of Leipzig, and was converted into a
   dispensary. The rather equivocal success of these hospitals in Saxony
   and Bavaria was in direct contrast to the fate of two newly
-  established hospitals in Austria, one in Vienna and the other in Linz,
+  established hospitals in Austria, one in Vienna and the other in [[Linz]],
   which were very successful, and aroused great interest both among
-  physicians and laymen. During the political confusion of 1846 and 1849
+  physicians and [[Laymen|laymen]]. During the political confusion of 1846 and 1849
   there was complete stagnation of everything medical in Germany. But
   during all these years, though the public institutions were few, the
   literature on homoeopathic subjects became very extensive, and
@@ -301,14 +301,14 @@ science, are ready to exchange views for the good of suffering humanity.
   fifty physicians and two hospitals, and it was estimated that about
   seventy-five more were scattered in Moravia, Bohemia, Tirol, Salzburg
   and the coast provinces. There is a professorship of homoeopathy at
-  the University of Budapest, and homoeopathic clinics are held at the
+  the University of [[Budapest]], and homoeopathic clinics are held at the
   new Rochus Hospital in Ulloi Street, and also in the homoeopathic
-  department of the Hospital Bethesda of the Reformed Community. The
+  department of the Hospital [[Bethesda]] of the Reformed Community. The
   Elizabeth Hospital, exclusively homoeopathic, has existed for many
   years.
 
   _Russia._--The homoeopathic system was introduced into Russia in 1823.
-  In 1825 great impetus was given to the new doctrine by the conversion
+  In 1825 great impetus was given to the new doctrine by the [[Conversion|conversion]]
   of Dr Bigel, physician to the grand duke Constantine. In 1829 the
   grand duke ordered a series of experiments to be conducted to prove
   the truth or fallacy of homoeopathy, and they demonstrated the success
@@ -333,15 +333,15 @@ science, are ready to exchange views for the good of suffering humanity.
   the prevailing medical school.
 
   _France._--Homoeopathy was first introduced into France in 1830 by
-  Count de Guidi, doctor of medicine, doctor of science, and inspector
-  of the university, who practised in Lyons. About the same year Dr
-  Antoine Petroz, widely known by his _Grand dictionnaire des sciences
+  Count de [[Guidi]], doctor of medicine, doctor of science, and inspector
+  of the university, who practised in [[Lyons]]. About the same year Dr
+  [[Antoine]] Petroz, widely known by his _Grand dictionnaire des sciences
   medicales_, began practising homoeopathy in Paris, and his
   establishment became the headquarters of the new system there. In 1835
   Hahnemann himself came to the capital. In 1832 the homoeopathic method
-  of treating disease was introduced into the Hospice de Choisy, and in
+  of treating disease was introduced into the [[Hospice]] de [[Choisy]], and in
   1842 into the hospital of Carentan. Tessier practised the new doctrine
-  in his wards in the Hospital St Marguerite, and in the Children's
+  in his wards in the Hospital St [[Marguerite]], and in the Children's
   Hospital up to the year 1862, when he retired. The first homoeopathic
   society was established in 1832 (the Societe Gallicain), Hahnemann
   becoming president in 1835; in 1845 the Societe de Medecine
@@ -354,7 +354,7 @@ science, are ready to exchange views for the good of suffering humanity.
   belge, Journal belge d'homeopathie, La Therapeutique Integrale, La
   Revue homeopathique francaise_. In the year 1900 the medical officers
   of the republic having supervision over the medical department of the
-  International Exhibition officially recognized the members of the
+  [[International]] Exhibition officially recognized the members of the
   homoeopathic school, and arranged for the proper accommodation and
   reception of the International Congress of Homoeopathic Physicians
   held in June. On the 30th of that month, with appropriate ceremonies,
@@ -386,8 +386,8 @@ science, are ready to exchange views for the good of suffering humanity.
 
   _Spain._--Homoeopathy was introduced into Spain in 1829 by a physician
   to the Royal Commission sent by the king of Naples to attend the
-  marriage of Maria Christina with Don Ferdinand VII. Shortly after
-  this, a merchant of Cadiz visited Hahnemann in Coethen, and was cured
+  marriage of Maria Christina with Don [[Ferdinand]] VII. Shortly after
+  this, a merchant of [[Cadiz]] visited Hahnemann in Coethen, and was cured
   of a serious disorder; he returned to Spain with a supply of
   homoeopathic literature, and immediately sent a medical student to
   Leipzig to study the new system. In 1843 many cases of cholera were
@@ -403,7 +403,7 @@ science, are ready to exchange views for the good of suffering humanity.
   authority gave an impetus to homoeopathy which has continued ever
   since.
 
-  _Denmark._--Homoeopathy was unknown in Denmark until the year 1821,
+  _[[Denmark]]._--Homoeopathy was unknown in Denmark until the year 1821,
   when Hans Christian Lund, a medical practitioner, adopted it.
   Hahnemann, however, had been both before and after that time consulted
   by Danes, and consequently homoeopathic therapeutics was recognized in
@@ -426,7 +426,7 @@ FOOTNOTES:
     similars be treated by similars," or "similars should be treated by
     similars." The reading _similia similibus curentur_ was officially
     adopted as the correct reading of the sentence by the American
-    Institute of Homoeopathy at its session held in Atlantic City, N.J.,
+    Institute of Homoeopathy at its session held in [[Atlantic City]], N.J.,
     on the 20th of June 1899; and the words are so inscribed on the
     monument erected to the memory of Hahnemann and unveiled in
     Washington, D.C., on the 23rd of June 1900, and also are those carved
@@ -436,7 +436,7 @@ FOOTNOTES:
     writers--as he himself, though imperfectly, admits. Not to mention
     others, he was anticipated by Hippocrates, and especially by
     Paracelsus (1495-1541). The identical words _similia similibus
-    curantur_ occur in the Geneva edition (1658) of the works of
+    curantur_ occur in the [[Geneva]] edition (1658) of the works of
     Paracelsus, as a marginal heading of one of the paragraphs; and in
     the "Fragmenta Medica," _Op. Omnia_, i. 168, 169, occurs the
     following passage:
@@ -457,7 +457,7 @@ FOOTNOTES:
     mention of the views of Paracelsus, though the very words seem to be
     taken from the works of that physician. The other point in
     Hahnemann's doctrine--that medicines should be tried first on healthy
-    persons--he admits to have been enunciated by Haller. Roughly it has
+    persons--he admits to have been enunciated by [[Haller]]. Roughly it has
     been acted on by physicians in all ages, but certainly more
     systematically since Hahnemann's time. In the most characteristic
     feature of Hahnemann's practice--"the potentizing," "dynamizing," of

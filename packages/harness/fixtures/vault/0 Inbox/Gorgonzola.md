@@ -3,7 +3,7 @@
 GORGONZOLA, a town of Lombardy, Italy, in the province of Milan, from
 which it is 11 m. E.N.E. by steam tramway. Pop. (1901) 5134. It is the
 centre of the district in which is produced the well-known Gorgonzola
-cheese.
+[[Cheese|cheese]].
 
 ## See also
 

@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Kame"
 
 # Kame
 
-KAME (a form of Scandinavian _comb_, hill), in physical geography, a
+KAME (a form of Scandinavian _comb_, hill), in physical [[Geography|geography]], a
 short ridge or bunched mound of gravel or sand, "tumultuously
 stratified," occurring in connexion with glacial deposits, having been
 formed at the mouths of tunnels under the ice. When the ice-sheet melts,

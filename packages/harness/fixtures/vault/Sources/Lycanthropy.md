@@ -11,16 +11,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lycanthrop
 LYCANTHROPY (Gr. [Greek: lykos], wolf, [Greek: anthropos], man), a name
 employed (1) in folk-lore for the liability or power of a human being to
 undergo transformation into an animal; (2) in pathology for a form of
-insanity in which the patient believes that he is transformed into an
+[[Insanity|insanity]] in which the patient believes that he is transformed into an
 animal and behaves accordingly.
 
 I. Although the term lycanthropy properly speaking refers to
 metamorphosis into a wolf (see WERWOLF), it is in practice used of
 transformation into any animal. The Greeks also spoke of kynanthropy
 ([Greek: kyon], dog); in India and the Asiatic islands the tiger is the
-commonest form, in North Europe the bear, in Japan the fox, in Africa
-the leopard or hyena, sometimes also the lion, in South America the
-jaguar; but though there is a tendency for the most important
+commonest form, in North Europe the bear, in [[Japan]] the [[Fox|fox]], in Africa
+the [[Leopard|leopard]] or hyena, sometimes also the lion, in South America the
+[[Jaguar|jaguar]]; but though there is a tendency for the most important
 carnivorous animal of the area to take the first place in stories and
 beliefs as to transformation, the less important beasts of prey and even
 harmless animals like the deer also figure among the wer-animals.
@@ -55,19 +55,19 @@ also attributed to the magician, male and female, all the world over;
 and witch superstitions are closely parallel to, if not identical with,
 lycanthropic beliefs, the occasional involuntary character of
 lycanthropy being almost the sole distinguishing feature. In another
-direction the phenomenon of repercussion is asserted to manifest itself
+direction the phenomenon of repercussion is asserted to [[Manifest|manifest]] itself
 in connexion with the bush-soul of the West African and the _nagual_ of
-Central America; but though there is no line of demarcation to be drawn
+[[Central America]]; but though there is no line of demarcation to be drawn
 on logical grounds, the assumed power of the magician and the intimate
 association of the bush-soul or the _nagual_ with a human being are not
 termed lycanthropy. Nevertheless it will be well to touch on both these
 beliefs here.
 
 In North and Central America, and to some extent in West Africa,
-Australia and other parts of the world, every male acquires at puberty a
-tutelary spirit (see DEMONOLOGY); in some tribes of Indians the youth
-kills the animal of which he dreams in his initiation fast; its claw,
-skin or feathers are put into a little bag and become his "medicine" and
+[[Australia]] and other parts of the world, every male acquires at puberty a
+tutelary spirit (see [[Demonology|DEMONOLOGY]]); in some tribes of Indians the youth
+kills the animal of which he [[Dream|dreams]] in his initiation fast; its claw,
+skin or [[Feather|feathers]] are put into a little bag and become his "medicine" and
 must be carefully retained, for a "medicine" once lost can never be
 replaced. In West Africa this relation is said to be entered into by
 means of the blood bond, and it is so close that the death of the animal
@@ -97,7 +97,7 @@ magician's familiar is really a transformed human being; when he finds a
 dead body on which he can work his spells without fear of discovery, the
 wizard breathes a sort of life into it, which enables it to move and
 speak, it being thought that some dead wizard has taken possession of
-it. He then burns a hole in the head and through the aperture extracts
+it. He then [[Burns|burns]] a hole in the head and through the [[Aperture|aperture]] extracts
 the tongue. Further spells have the effect of changing the revivified
 body into the form of some animal, hyena, owl or wild cat, the latter
 being most in favour. This creature then becomes the wizard's servant
@@ -121,7 +121,7 @@ sickness and death upon persons who are disliked by its master.
   eyes; but it does not appear how far hallucination rather than
   coincidence must be invoked to explain the experience.
 
-  _The Wer-tiger of the East Indies._--The Poso-Alfures of central
+  _The Wer-tiger of the [[East Indies]]._--The Poso-Alfures of central
   Celebes believe that man has three souls, the _inosa_, the _angga_ and
   the _tanoana_. The _inosa_ is the vital principle; it can be detected
   in the veins and arteries; it is given to man by one of the great
@@ -131,7 +131,7 @@ sickness and death upon persons who are disliked by its master.
   dissolved into its original elements, takes possession of an
   immaterial body. The _tanoana_ is the divine in man and after death
   returns to its lord, Poewempala boeroe. It goes forth during sleep,
-  and all that it sees it whispers into the sleeper's ear and then he
+  and all that it sees it whispers into the sleeper's [[Ear|ear]] and then he
   dreams. According to another account, the _tanoana_ is the substance
   by which man lives, thinks and acts; the _tanoana_ of man, plants and
   animals is of the same nature. A man's _tanoana_ can be strengthened
@@ -140,7 +140,7 @@ sickness and death upon persons who are disliked by its master.
   feats are asserted.
 
   Among the Toradjas of central Celebes it is believed that a man's
-  "inside" can take the form of a cat, wild pig, ape, deer or other
+  "inside" can take the form of a cat, wild pig, [[Ape|ape]], deer or other
   animal, and afterwards resume human form; it is termed _lamboyo_. The
   exact relation of the _lamboyo_ to the _tanoana_ does not seem to be
   settled; it will be seen below that the view seems to vary. According
@@ -149,25 +149,25 @@ sickness and death upon persons who are disliked by its master.
   left by a werwolf or even by leaning one's head against the same
   pillar. The Todjoers hold that any one who touches blood becomes a
   werwolf. In accordance with this view is the belief that werwolfism
-  can be cured; the breast and stomach of the werman must be rubbed and
+  can be cured; the [[Breast|breast]] and stomach of the werman must be rubbed and
   pinched, just as when any other witch object has to be extracted. The
   patient drinks medicine, and the contagion leaves the body in the form
   of snakes and worms. There are certain marks by which a werman can be
   recognized. His eyes are unsteady and sometimes green with dark
   shadows underneath. He does not sleep soundly and fireflies come out
-  of his mouth. His lips remain red in spite of betel chewing, and he
+  of his mouth. His [[Lip|lips]] remain red in spite of betel chewing, and he
   has a long tongue. The Todjoers add that his hair stands on end.
 
   Some of the forms of the _lamboyo_ are distinguishable from ordinary
   animals by the fact that they run about among the houses; the
-  wer-buffalo has only one horn, and the wer-pig transforms itself into
+  wer-buffalo has only one [[Horn|horn]], and the wer-pig transforms itself into
   an ants' nest, such as hangs from trees. Some say that the werman does
   not really take the form of an animal himself, but, like the sorcerer,
   only sends out a messenger. The _lamboyo_ attacks by preference
   solitary individuals, for he does not like to be observed. The victim
   feels sleepy and loses consciousness; the _lamboyo_ then assumes human
   form (his body being, however, still at home) and cuts up his victim,
-  scattering the fragments all about. He then takes the liver and eats
+  scattering the fragments all about. He then takes the [[Liver|liver]] and eats
   it, puts the body together again, licks it with his long tongue and
   joins it together. When the victim comes to himself again he has no
   idea that anything unusual has happened to him. He goes home, but soon
@@ -176,7 +176,7 @@ sickness and death upon persons who are disliked by its master.
 
   From this account it might be inferred that the _lamboyo_ was
   identical with the _tanoana_; the absence of the _lamboyo_ seems to
-  entail a condition of unconsciousness, and it can assume human form.
+  [[Entail|entail]] a condition of unconsciousness, and it can assume human form.
   In other cases, however, the _lamboyo_ seems to be analogous to the
   familiar of the sorcerer. The Toradjas tell a story of how a man once
   came to a house and asked the woman to give him a rendezvous; it was
@@ -187,7 +187,7 @@ sickness and death upon persons who are disliked by its master.
   engaged in building a new house, and caused the woman to faint by
   stamping three times on the ground. Thereupon the husband attacked the
   werman with a piece of wood, and the latter to escape transformed
-  himself into a leaf; this the husband put into a piece of bamboo and
+  himself into a [[Leaf|leaf]]; this the husband put into a piece of bamboo and
   fastened the ends so that he could not escape. He then went back to
   the village and put the bamboo in the fire. The werman said "Don't,"
   and as soon as it was burnt he fell dead.
@@ -207,21 +207,21 @@ sickness and death upon persons who are disliked by its master.
   had been shot. Although no marks were to be seen he died a few days
   later.
 
-  In Central Java we meet with another kind of wer-tiger. The power of
+  In Central [[Java]] we meet with another kind of wer-tiger. The power of
   transformation is regarded as due to inheritance, to the use of
-  spells, to fasting and will-power, to the use of charms, &c. Save when
+  spells, to [[Fasting|fasting]] and will-power, to the use of [[Charm|charms]], &c. Save when
   it is hungry or has just cause for revenge it is not hostile to man;
   in fact, it is said to take its animal form only at night and to guard
   the plantations from wild pigs, exactly as the _balams_ (magicians) of
-  Yucatan were said to guard the corn fields in animal form. Variants of
+  Yucatan were said to guard the [[Corn|corn]] [[Fields|fields]] in animal form. Variants of
   this belief assert that the werman does not recognize his friends
   unless they call him by name, or that he goes out as a mendicant and
   transforms himself to take vengeance on those who refuse him alms.
-  Somewhat similar is the belief of the Khonds; for them the tiger is
+  Somewhat similar is the belief of the [[Khonds]]; for them the tiger is
   friendly; he reserves his wrath for their enemies, and a man is said
   to take the form of a tiger in order to wreak a just vengeance.
 
-  _Lycanthropy in South America._--According to K. F. P. v. Martius the
+  _Lycanthropy in South America._--According to K. F. P. v. [[Martius]] the
   _kanaima_ is a human being who employs poison to carry out his
   function of blood avenger; other authorities represent the _kanaima_
   as a jaguar, which is either an avenger of blood or the familiar of a
@@ -230,11 +230,11 @@ sickness and death upon persons who are disliked by its master.
   woman, and takes the form of a horse, goat, jaguar or pig.
 
 II. As a pathological state lycanthropy may be described as a kind of
-hysteria, and may perhaps be brought into connexion with the form of it
+[[Hysteria|hysteria]], and may perhaps be brought into connexion with the form of it
 known as _latah_. It is characterized by the patient's belief that he
 has been metamorphosed into an animal, and is often accompanied by a
 craving for strange articles of food, including the flesh of living
-beings or of corpses. In the lower stages of culture the state of the
+beings or of [[Corpse|corpses]]. In the lower stages of culture the state of the
 patient is commonly explained as due to possession, but where he leaves
 the neighbourhood of man real metamorphosis may be asserted, as in
 ordinary lycanthropic beliefs. Marcellus of Sida says that in Greece the
@@ -245,19 +245,19 @@ is put down to the use of a drug applied to the forehead; this recalls
 the stories of the witch's salve in Europe. In Abyssinia the patient is
 usually a woman; two forms are distinguished, caused by the hyena and
 the leopard respectively. A kind of trance ushers in the fit; the
-fingers are clenched, the eyes glazed and the nostrils distended; the
+[[Finger|fingers]] are clenched, the eyes glazed and the nostrils distended; the
 patient, when she comes to herself, laughs hideously and runs on all
-fours. The exorcist is a blacksmith; as a rule, he applies onion or
-garlic to her nose and proceeds to question the evil spirit.
+fours. The [[Exorcist|exorcist]] is a blacksmith; as a rule, he applies onion or
+[[Garlic|garlic]] to her nose and proceeds to question the evil spirit.
 
   BIBLIOGRAPHY.--For the anthropological side of the subject see
   bibliography to WERWOLF; also _Tijdskrift voor indische Taal, Land en
   Volkenkunde_, xxviii. 338, xli. 548, 568; _Med.
   Zendelingsgenootschap_, xxxix. 3, 16; O. Stoll, _Suggestion_, p. 418;
-  W. H. Brett, _Indians of British Guiana_. For the pathological side,
+  W. H. Brett, _Indians of British [[Guiana]]_. For the pathological side,
   see Hack Tuke, _Dict. of Psychological Medicine_, s.v. "Lycanthropy";
   _Dict. des sciences médicales_; Waldmeier, _Autobiography_, p. 64; A.
-  J. Hayes, _Source of Blue Nile_, p. 286 seq.; _Abh. phil.-hist. Klasse
+  J. [[Hay|Hayes]], _Source of Blue Nile_, p. 286 seq.; _Abh. phil.-hist. Klasse
   kgl. sächsische Gesellschaft der Wiss._ 17, No. 3.     (N. W. T.)
 
 ## References

@@ -6,15 +6,15 @@ topic: mechanics-theory
 
 # Drente
 
-DRENTE, a province of Holland, bounded N. and N.E. by Groningen, S.E. by
-the Prussian province of Hanover, S. and S.W. by Overysel, and N.W. by
-Friesland; area, 1128 sq. m.; pop. (1900) 149,551. The province of
+DRENTE, a province of Holland, bounded N. and N.E. by [[Groningen]], S.E. by
+the Prussian province of [[Hanover]], S. and S.W. by Overysel, and N.W. by
+[[Friesland]]; area, 1128 sq. m.; pop. (1900) 149,551. The province of
 Drente is a sandy plateau forming the kernel of the surrounding
 provinces. The soil consists almost entirely of sand and gravel, and is
-covered with bleak moorland, patches of wood, and fen. This is only
+covered with [[Bleak|bleak]] moorland, patches of wood, and fen. This is only
 varied by the strip of fertile clay and grass-land which is found along
 the banks of the rivers, and by the areas of high fen in the
-south-eastern corner and on the western borders near Assen. The surface
+south-eastern corner and on the western [[Borders|borders]] near Assen. The surface
 of the province is a gentle slope from the south-west towards the
 north-east, where it terminates in the long ridge of hills known as the
 Hondsrug (Dog's Back) extending along the eastern border into Groningen.
@@ -32,8 +32,8 @@ superstition that they were "Huns' beds." Possibly the word originally
 meant "beds of the dead," or tombs.
 
 Two industries have for centuries been associated with the barren heaths
-and sodden fens so usually found together on the sand-grounds, namely,
-the cultivation of buckwheat and peat-digging. The work is conducted on
+and sodden [[Fens|fens]] so usually found together on the sand-grounds, namely,
+the cultivation of [[Buckwheat|buckwheat]] and peat-digging. The work is conducted on
 a regular system of fen colonization, the first operation being directed
 towards the drainage of the country. This is effected by means of
 drainage canals cut at regular intervals and connected by means of cross
@@ -46,7 +46,7 @@ of the 17th century. After eight years, however, the soil becomes
 exhausted, and twenty to thirty years are required for its
 refertilization. The cultivation of buckwheat on these grounds has
 decreased, and large areas which were formerly thus treated now lie
-waste. Potatoes, rye, oats, beans and peas are also largely cultivated.
+waste. Potatoes, rye, oats, [[Bean|beans]] and peas are also largely cultivated.
 In connexion with the cultivation of potatoes, factories are established
 for making spirits, treacle, potato-meal, and straw-paper. Furthermore,
 agriculture is everywhere accompanied on the sand-grounds by the rearing
@@ -68,9 +68,9 @@ Frederick, son of William I., king of the Netherlands. An industrious
 colonist could purchase a small farm on the estate and make himself
 independent in two years. In addition to this, various industries were
 set on foot for the benefit of those who were not capable of field work,
-such as mat and rope making, and jute and cotton weaving. In later times
-forest culture was added, and the Gerard Adriaan van Swieten schools of
-forestry, agriculture and horticulture were established by Major van
+such as [[Mat|mat]] and rope making, and jute and cotton weaving. In later times
+forest culture was added, and the [[Gerard]] Adriaan van Swieten schools of
+forestry, agriculture and [[Horticulture|horticulture]] were established by [[Major]] van
 Swieten in memory of his son. A Reformed and a Roman Catholic church are
 also attached to the colony. To this colony the Society of Charity later
 added the adjoining colonies of Willemsoord and Kolonie VII. in
@@ -88,13 +88,13 @@ peculiarly conservative. Assen is the chief town. In the south Meppel
 and Koevorden absorb the largest amount of trade. Hoogeveen, situated
 between these two, owes its origin to the fen reclamation which was
 begun here in 1625 by Baron van Echten. In the following year it was
-erected into a barony which lasted till 1795. The original industry has
+erected into a [[Barony|barony]] which lasted till 1795. The original industry has
 long since moved onwards to other parts, but the town remains a
 prosperous market centre, and has a considerable industrial activity.
 Extensive fir woods have been laid out in the neighbourhood. Zuidlaren
 is a picturesque village at the northern end of the Hondsrug, with an
 important market. The railway from Amsterdam to Groningen traverses
-Drente; branch lines connect Meppel with Leeuwarden and Assen with
+Drente; branch lines connect Meppel with [[Leeuwarden]] and Assen with
 Delfzÿl.
 
 _History._--The early history of Drente is obscure. That it was
@@ -102,7 +102,7 @@ inhabited at a remote date is proved by the prehistoric sepulchral
 mounds, the _Hunebedden_ already mentioned. In the 5th and 6th centuries
 the country was overrun by Saxon tribes, and later on was governed by
 counts under the Frankish and German kings. Of these only three are
-recorded, Eberhard (943-944), Balderic (1006) and Temmo (1025). In 1046
+recorded, [[Eberhard]] (943-944), Balderic (1006) and Temmo (1025). In 1046
 the emperor Henry III. gave the countship to the bishop and chapter of
 Utrecht, who governed it through the burgrave, or châtelain, of
 Koevorden, a dignity which became hereditary after 1143 in the family of
@@ -115,15 +115,15 @@ country was henceforth administered by an episcopal official
 (_amptman_), who was, however, generally a native. With its popularly
 elected assembly of twenty-four Etten (_jurati_) Drente remained
 practically independent. This state of things continued till 1522, when
-it was conquered by Duke Charles of Gelderland, from whom it was taken
-by the emperor Charles V. in 1536, and became part of the Habsburg
+it was conquered by Duke Charles of [[Gelderland]], from whom it was taken
+by the emperor Charles V. in 1536, and became part of the [[Habsburg]]
 dominions.
 
 Drente took part in the revolt of the Netherlands, and being a district
 covered by waste heath and moor was, on account of its poverty and
 sparse population, not admitted into the union as a separate province,
 and it had no voice in the assembly of the states-general. It was
-subdued by the Spaniards in 1580, but reconquered by Maurice of Nassau
+subdued by the Spaniards in 1580, but reconquered by [[Maurice]] of Nassau
 in 1594. During the years that followed, Drente, though unrepresented in
 the states-general, retained its local independence and had its own
 stadtholder. William Louis of Nassau-Siegen (d. 1620) held that office,
@@ -140,7 +140,7 @@ obtained the privilege, which it had long sought, of being reckoned as
 an eighth province with representation in the states-general. Between
 1806 and 1813 Drente, with the rest of the Netherlands, was incorporated
 in the French empire, and, with part of Groningen, formed the department
-of Ems Occidental. With the accession of William I. as king of the
+of [[Ems]] Occidental. With the accession of William I. as king of the
 Netherlands it was restored to its old position as a province of the new
 kingdom.
 

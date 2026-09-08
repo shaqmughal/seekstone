@@ -93,7 +93,7 @@ from the sea to enjoy security against the sudden descent of a hostile
 fleet. At the same time the relative proximity of three natural
 harbours, Peiraeus, Zea and Munychia, favoured the development of
 maritime commerce and of the sea power which formed the basis of
-Athenian hegemony. The climate is temperate, but liable to sudden
+Athenian [[Hegemony|hegemony]]. The climate is temperate, but liable to sudden
 changes; the mean temperature is 63 deg. .1 F., the maximum (in July) 99
 deg. .01, the minimum (in January) 31 deg. .55. The summer heat is
 moderated by the sea-breeze or by cool northerly winds from the
@@ -125,7 +125,7 @@ of wells were also sunk and rain-water was stored in cisterns.
   technical competence, acute judgment and practical experience, as well
   as wide and accurate scholarship. The building material and the manner
   of its employment furnish evidence no less important than the
-  character of the masonry, the design and the modes of ornamentation.
+  character of the [[Masonry|masonry]], the design and the modes of ornamentation.
   The testimony afforded by inscriptions is often of decisive
   importance, especially that of commemorative or votive tablets or of
   boundary-stones found _in situ_; the value of this evidence is, on the
@@ -495,7 +495,7 @@ In 1892 Dorpfeld began a series of excavations in the district between
 the Acropolis and the Pnyx with the object of determining the situation
 of the buildings described by Pausanias as existing in the neighbourhood
 of the Agora, and more especially the position of the Enneacrunus
-fountain. The Enneacrunus has hitherto been generally identified with
+[[Fountain|fountain]]. The Enneacrunus has hitherto been generally identified with
 the spring Callirrhoe in the bed of the Ilissus, a little to the
 south-east of the Olympieum; it is apparently, though not explicitly,
 placed by Thucydides (ii. 15) in proximity to that building, as well as
@@ -552,7 +552,7 @@ Amynos, with whose cult those of Asclepius and the hero Dexion were here
 associated; under the name Dexion, the poet Sophocles is said to have
 been worshipped after his death. The whole district adjoining the
 Areopagus was found to have been thickly built over; the small, mean
-dwelling-houses intersected by narrow, crooked lanes convey a vivid idea
+dwelling-houses intersected by narrow, crooked [[Lane|lanes]] convey a vivid idea
 of the contrast between the modest private residences and the great
 public structures of the ancient city.
 
@@ -695,7 +695,7 @@ unknown cavern has been revealed, which Kavvadias identifies with the
 grotto of Pan. Close to it are a series of steps hewn in the rock which
 connect with those discovered in 1886 within the Acropolis wall. Farther
 east is an underground passage leading eastward to a cave supposed to be
-the sanctuary of Aglaurus where the ephebi took the oath; with this
+the sanctuary of Aglaurus where the [[Ephebi|ephebi]] took the oath; with this
 passage is connected a secret staircase leading up through a cleft in
 the rock to the precinct of the Errephori on the Acropolis. It is
 conceivable that the priestesses employed this exit when descending on
@@ -1091,13 +1091,13 @@ Acropolis. In one of these monuments was the famous Satyr of Praxiteles.
   The Cynosarges.
 
 The Cynosarges, from earliest times a sanctuary of Heracles, later a
-celebrated gymnasium and the school of Antisthenes the Cynic, has
+celebrated gymnasium and the school of [[Antisthenes]] the Cynic, has
 hitherto been generally supposed to have occupied the site of the
 Monastery of the Asomati on the eastern slope of Lycabettus; its
 situation, however, has been fixed by Dorpfeld at a point a little to
 the south of the Olympieum, on the left bank of the Ilissus. Here a
 series of excavations, carried out by the British School in 1896-1897
-under the direction of Cecil Smith, revealed the foundations of an
+under the direction of [[Cecil]] Smith, revealed the foundations of an
 extensive Greek building, the outlines of which correspond with those of
 a gymnasium; it possessed a large bath or cistern, and was flanked on
 two sides by water-courses. An Ionic capital found here possibly
@@ -1112,7 +1112,7 @@ Athenian architecture came to a close. The era of decadence, of honorary
 statues and fulsome inscriptions, began. The embellishments which the
 city received during the Hellenistic and Roman periods were no longer
 the artistic expression of the religious and political life of a great
-commonwealth; they were the tribute paid to the intellectual renown of
+[[Commonwealth|commonwealth]]; they were the tribute paid to the intellectual renown of
 Athens by foreign potentates or dilettanti, who desired to add their
 names to the list of its illustrious citizens and patrons. Among the
 first of these benefactions was the great gymnasium of Ptolemy, built in
@@ -1195,7 +1195,7 @@ The eastern gate was adorned with four Ionic columns on the outside and
 two on the inside, the western entrance being the well-known Doric
 portico of Athena Archegetis with an inscription recording its erection
 from donations of Julius Caesar and Augustus. The whole conclave may be
-compared with the enclosed bazaars or khans of Oriental cities which are
+compared with the enclosed bazaars or [[Khan|khans]] of Oriental cities which are
 usually locked at night. The Agrippeum, a covered theatre, derived its
 name from Vipsanius Agrippa, whose statue was set up, about 27 B.C.,
 beneath the north wing of the Acropolis propylaea, on the high
@@ -1362,7 +1362,7 @@ Epidaurus, Eleusis, Mycenae, Amyclae and Rhamnus may be numbered among
 its principal undertakings, in addition to the complete exploration of
 the Acropolis and a series of investigations in Athens and Attica. The
 French Ecole d'Athenes, founded in 1846, is under the scientific
-direction of the Academie des Inscriptions et Belles-lettres. Among its
+direction of the Academie des Inscriptions et [[Belles-Lettres|Belles-lettres]]. Among its
 numerous enterprises have been the extensive and costly excavations at
 Delos and Delphi, which have yielded such remarkable results. The
 monuments of the Byzantine epoch have latterly occupied a prominent
@@ -1552,7 +1552,7 @@ PLATAEA).
 their city the Athenians continued the war with unabated vigour. Led by
 Aristides and Cimon they rendered such prominent service as to receive
 in return the formal leadership of the Greek allies and the presidency
-of the newly formed Delian League (q.v.). The ascendancy acquired in
+of the newly formed [[Delian League]] (q.v.). The ascendancy acquired in
 these years eventually raised Athens to the rank of an imperial state.
 For the moment it tended to impair the good relations which had
 subsisted between Athens and Sparta since the first days of the Persian
@@ -1654,7 +1654,7 @@ Athenian art and literature in the 4th century declined but slightly
 from their former standard; philosophy and oratory reached a standard
 which was never again equalled in antiquity and may still serve as a
 model. In the wars of the period Athens took a prominent part with a
-view to upholding the balance of power, joining the Corinthian League in
+view to upholding the [[Balance|balance]] of power, joining the Corinthian League in
 395, and assisting Thebes against Sparta after 378, Sparta against
 Thebes after 369. Her generals and admirals, Conon, Iphicrates,
 Chabrias, Timotheus, distinguished themselves by their military skill,
@@ -1801,7 +1801,7 @@ took place when the church of St Sophia was built in A.D. 532. The
 Parthenon, the Erechtheum, the "Theseum" and other temples were
 converted into Christian churches and were thus preserved throughout the
 middle ages. The history of Athens for the next four centuries is almost
-a blank; the city is rarely mentioned by the Byzantine chronicles of
+a [[Blank|blank]]; the city is rarely mentioned by the Byzantine chronicles of
 this period. The emperor Constantine II. spent some months here in A.D.
 662-663. In 869 the see of Athens became an archbishopric. In 995 Attica
 was ravaged by the Bulgarians under their tsar Samuel, but Athens
@@ -1847,7 +1847,7 @@ leniency.
 Athens disappeared from the eyes of Western civilization. The principal
 interest of the following centuries lies in the researches of successive
 travellers, who may be said to have rediscovered the city, and in the
-fate of its ancient monuments, several of which were still in fair
+[[Fate|fate]] of its ancient monuments, several of which were still in fair
 preservation at the beginning of this period. The Parthenon was
 transformed into a mosque; the existing minaret at its south-western
 corner was built after 1466. The Propylaea served as the residence of

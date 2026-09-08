@@ -1,7 +1,7 @@
 # Hesperus
 
 HESPERUS (Gr. [Greek: Hesperos], Lat. Vesper), the evening star, son or
-brother of Atlas. According to Diodorus Siculus (iii. 60, iv. 27), he
+brother of [[Atlas]]. According to Diodorus Siculus (iii. 60, iv. 27), he
 ascended Mount Atlas to observe the motions of the stars, and was
 suddenly swept away by a whirlwind. Ever afterwards he was honoured as a
 god, and the most brilliant star in the heavens was called by his name.

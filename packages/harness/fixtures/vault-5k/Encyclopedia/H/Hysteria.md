@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hysteria"
 
 # Hysteria
 
-HYSTERIA, a term applied to an affection which may manifest itself by a
+HYSTERIA, a term applied to an affection which may [[Manifest|manifest]] itself by a
 variety of symptoms, and which depends upon a disordered condition of
 the highest nervous centres. It is characterized by psychical
 peculiarities, while in addition there is often derangement of the
@@ -23,7 +23,7 @@ view is now universally recognized to be erroneous. The term
 hysterical, a nomenclature which is tentatively advantageous since it is
 at least non-committal. P. J. Möbius has defined hysteria as "a state in
 which ideas control the body and produce morbid changes in its
-functions." P. Janet, who has done much to popularize the psychical
+functions." P. [[Janet]], who has done much to popularize the psychical
 origin of the affection, holds that there is "a limitation of the field
 of consciousness" comparable to the contraction of the visual fields met
 with in the disease. The hysterical subject, according to this view, is
@@ -42,7 +42,7 @@ existence of which the individual may be unaware, is to be found in a
 relative preponderance of this secondary subconscious state as compared
 with the primary conscious personality. An elaboration of this theory
 affords an explanation of hysterical symptoms dependent upon a "fixed
-idea." The following definition of hysteria has recently been advanced
+idea." The following [[Definition|definition]] of hysteria has recently been advanced
 by J. F. F. Babinski: "Hysteria is a psychical condition manifesting
 itself principally by signs that may be termed primary, and in an
 accessory sense others that we may call secondary. The characteristic of
@@ -53,7 +53,7 @@ phenomena."
 
 The causes of hysteria may be divided into (a) the predisposing, such as
 hereditary predisposition to nervous disease, sex, age and national
-idiosyncrasy; and (b) the immediate, such as mental and physical
+[[Idiosyncrasy|idiosyncrasy]]; and (b) the immediate, such as mental and physical
 exhaustion, fright and other emotional influences, pregnancy, the
 puerperal condition, diseases of the uterus and its appendages, and the
 depressing influence of injury or general disease. Perhaps, taken over
@@ -116,7 +116,7 @@ closed. When hemianaesthesia is present, sight, hearing, taste and smell
 are usually impaired on that side of the body. Often there is loss of
 voice (hysterical aphonia). It is to such cases of hysterical paralysis
 and sensory disturbance that the wonderful cures effected by quacks and
-charlatans may be referred. The mental symptoms have not the same
+[[Charlatan|charlatans]] may be referred. The mental symptoms have not the same
 tendency to pass away suddenly. They may be spoken of as
 inter-paroxysmal and paroxysmal. The chief characteristics of the former
 are extreme emotionalism combined with obstructiveness, a desire to be
@@ -137,10 +137,10 @@ order that full benefit may be derived from psychotherapeutic measures.
   especially in Women_ (1885); Buzzard, _Simulation of Hysteria by
   Organic Nervous Disease_ (1891); Pitres, _Leçons cliniques sur
   l'hystérie et l'hypnotisme_ (1891); Richer, _Études cliniques sur la
-  grande hystérie_ (1891); Gilles de la Tourette, _Traité clinique et
+  grande hystérie_ (1891); [[Gill|Gilles]] de la Tourette, _Traité clinique et
   thérapeutique de l'hystérie_ (1891); Bastian, _Hysterical or
   Functional Paralysis_ (1893); Ormerod, Art. "Hysteria," in Clifford
-  Allbutt's _System of Medicine_ (1899); Camus and Pagnez, _Isolement et
+  Allbutt's _System of Medicine_ (1899); [[Camus]] and Pagnez, _Isolement et
   Psychotherapie_ (1904).     (J. B. T.; E. Bra.)
 
 ## See also

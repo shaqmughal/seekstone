@@ -1,8 +1,8 @@
 # Busken-Huet
 
 BUSKEN-HUET, CONRAD (1826-1886), Dutch literary critic, was born at the
-Hague on the 28th of December 1826. He was trained for the Church, and,
-after studying at Geneva and Lausanne, was appointed pastor of the Walloon
+[[Hague]] on the 28th of December 1826. He was trained for the Church, and,
+after studying at [[Geneva]] and Lausanne, was appointed pastor of the Walloon
 chapel in Haarlem in 1851. In 1863 conscientious scruples obliged him to
 resign his charge, and Busken-Huet, after attempting journalism, went out
 to Java in 1868 as the editor of a newspaper. Before this time, however, he

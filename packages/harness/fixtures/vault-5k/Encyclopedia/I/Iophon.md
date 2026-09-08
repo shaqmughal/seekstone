@@ -7,7 +7,7 @@ topic: engineering
 # Iophon
 
 IOPHON, Greek tragic poet, son of Sophocles. He gained the second prize
-in 428 B.C., Euripides being first, and Ion third. He must have been
+in 428 B.C., [[Euripides]] being first, and Ion third. He must have been
 living in 405, the date of the production of the _Frogs_ of
 Aristophanes, in which he is spoken of as the only good Athenian tragic
 poet, although it is hinted that he owed much to his father's

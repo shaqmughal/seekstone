@@ -9,10 +9,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Cat-Fish"
 # Cat-Fish
 
 CAT-FISH, the name usually applied to the fishes of the family
-_Siluridae_, in allusion to the long barbels or feelers about the mouth,
+_Siluridae_, in allusion to the long [[Barbel|barbels]] or feelers about the mouth,
 which have been compared to the whiskers of a cat. The _Siluridae_ are a
 large and varied group, mostly inhabitants of fresh waters; some of them
-by their singular form and armature are suggestive of the Devonian
+by their singular form and [[Armature|armature]] are suggestive of the Devonian
 mailed fishes, and were placed at one time in their vicinity by L.
 Agassiz. Even such authorities as T.H. Huxley and E.D. Cope were
 inclined to ascribe ganoid affinities to the _Siluridae_; but this view
@@ -24,13 +24,13 @@ derived from some common stock which cannot have been very different
 from the existing Characinids. In spite of the archaic appearance of
 some of its members, the family _Siluridae_ does not appear to extend
 far back in time, its oldest known representative being the _Bucklandium
-diluvii_ of the Lower Eocene (London Clay) of Sheppey. A great number of
+diluvii_ of the Lower Eocene ([[London Clay]]) of Sheppey. A great number of
 forms were placed by Cuvier and his successors in the family
-_Siluridae_, which has since been broken up by T. Gill and other
+_Siluridae_, which has since been broken up by T. [[Gill]] and other
 American authors into several families, united under the name of
 Nematognathi. A middle course appears the more reasonable to the
 present writer, who has divided the _Siluridae_ of Cuvier into three
-families, with the following definitions:--
+families, with the following [[Definition|definitions]]:--
 
 _Siluridae_--ribs attached to strong parapophyses; operculum well
 developed.
@@ -41,7 +41,7 @@ less developed.
 _Aspredinidae_--ribs sessile; strong parapophyses; operculum absent.
 
 These three families may be defined among the Ostariophysi by having the
-parietal bones fused with the supraoccipital, no symplectic, the body
+parietal [[Bone|bones]] fused with the supraoccipital, no symplectic, the body
 naked or with bony scutes, the mouth usually toothed, with barbels, and
 usually an adipose dorsal fin.
 
@@ -52,7 +52,7 @@ from North America west of the Rocky Mountains, but this deficiency has
 been made good by now, the introduction of _Amiurus nebulosus_ and
 allied species in various parts of continental Europe and California
 having proved a success. Only a few forms are marine (_Plotosus_,
-_Arius_, _Galeichthys_).
+_[[Arius]]_, _Galeichthys_).
 
 [Illustration: FIG. 1.--The "Wels" (_Silurus glanis_).]
 
@@ -79,7 +79,7 @@ fins, and are known to be able to live a long time out of water, being
 provided with an accessory dendritic breathing organ situated above the
 gills. Some species live in burrows during the dry season, crawling
 about at night in search of food. The common Nile species, the "Harmoot"
-(_Clarias lazera_), occurs abundantly in the Lake of Galilee and was
+(_Clarias lazera_), occurs abundantly in the Lake of [[Galilee]] and was
 included in, if not chiefly aimed at, by the Mosaic law which forbade
 the Jews to eat scaleless fishes, a prohibition which has been extended
 to eels in spite of the obvious presence of minute scales in the latter.
@@ -89,7 +89,7 @@ _Silurus_, have also an accessory organ for breathing atmospheric air.
 It consists of a long sac behind the gill-cavity, extending far back on
 each side of the body under the muscles.
 
-In the majority of the _Siluridae_, called by A. Gunther the
+In the majority of the _Siluridae_, called by A. [[Gunther]] the
 _Proteropterae_, a section extremely numerous in species, and
 represented throughout the tropics, the dorsal fin consists of a
 short-rayed and an adipose portion, the former belonging to the
@@ -118,14 +118,14 @@ tropical countries which are drained by large rivers. Most of the
 species live in salt water. They possess six barbels, and their head is
 extensively osseous on its upper surface; their dorsal and pectoral
 spines are generally developed into powerful weapons. _Bagarius_, one of
-the largest Silurids of the rivers of India and Java, exceeding a length
+the largest Silurids of the rivers of India and [[Java]], exceeding a length
 of 6 ft., differs from _Arius_ in having eight barbels and the head
 covered with skin.
 
 R. Semon has made observations in Queensland on the habits of _Arius
-australis_, which builds nests in the sandy bed of the Burnett river.
+australis_, which builds nests in the sandy bed of the [[Burnett]] river.
 These nests consist of circular basin-like excavations about 20 in. in
-diameter, at the bottom of which the eggs are laid and covered over by
+diameter, at the bottom of which the [[Egg|eggs]] are laid and covered over by
 several layers of large stones. In the marine and estuarine species of
 _Arius, Galcichthys_ and _Osteogeniosus_, the male, more rarely the
 female, carries the eggs in the mouth and pharynx; these eggs, few in
@@ -157,7 +157,7 @@ journeys are occasionally of such a length that the fish have to travel
 all night; they are so numerous that the Indians fill many baskets of
 them. J. Hancock supposes that the fish carry a small supply of water
 with them in their gill-cavity, which they can easily retain by closing
-their branchial apertures. The same naturalist adds that they make
+their branchial [[Aperture|apertures]]. The same naturalist adds that they make
 regular nests, in which they cover up their eggs with care and defend
 them--male and female uniting in this parental duty until the eggs are
 hatched. _Synodontis_ is an African genus and common in the Nile, where
@@ -186,7 +186,7 @@ small interneural spine concealed below the skin. The entire fish is
 covered with soft, villose skin, an osseous defensive armour having
 become unnecessary in consequence of the development of a powerful
 electric apparatus, the strength of which, however, is exceeded by that
-of the electric eel and the large species of _Torpedo_.
+of the [[Electric Eel|electric eel]] and the large species of _Torpedo_.
 
 The electric organ of _Malopterurus_ differs essentially from that of
 other fishes provided with such batteries, being part of the tegumentary
@@ -246,10 +246,10 @@ referred to 17 genera. Many of them are completely mailed; but all have
 in common a short-rayed dorsal fin, with the ventrals below or rarely
 in front of it. Their gill-openings are reduced to a short slit. The
 first group of this section comprises alpine forms of the Andes, without
-any armature, and with a very broad and pendent lower lip. They have
+any armature, and with a very broad and pendent lower [[Lip|lip]]. They have
 been referred to several genera (_Stygogenes, Arges, Brontes,
 Astroblepus_), but are collectively called "prenadillas" by th natives,
-who state that they live in subterranean craters within the bowels of
+who state that they live in subterranean [[Crater|craters]] within the bowels of
 the volcanoes of the Andes, and are ejected with streams of mud and
 water during eruptions. These fishes may, however, be found in surface
 waters at all times, and their appearance in great quantities in the low
@@ -274,7 +274,7 @@ absent or considerably shorter in the female.
 
 The _Aspredinidae_, which are also closely related to the _Siluridae_,
 are represented by four genera and eighteen species from South America.
-_Aspredo batrachus_ (fig. 6), of the Guianas, the largest form, reaching
+_Aspredo batrachus_ (fig. 6), of the [[Guiana|Guianas]], the largest form, reaching
 to about a foot in length, deserves notice from the manner in which the
 female carries her eggs attached to the belly and paired fins, in a
 single layer, each egg being connected with the skin by a cup-shaped

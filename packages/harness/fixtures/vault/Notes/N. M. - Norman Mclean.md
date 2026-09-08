@@ -7,7 +7,7 @@ topic: history
 # N. M. - Norman Mclean
 
 N. M. - NORMAN MCLEAN, M.A.
-Fellow, Lecturer and Librarian of Christ's College, Cambridge. University
+[[Fellow]], Lecturer and Librarian of Christ's College, Cambridge. University
 Lecturer in Aramaic. Examiner for the Oriental Languages Tripos and the
 Theological Tripos at Cambridge.
 

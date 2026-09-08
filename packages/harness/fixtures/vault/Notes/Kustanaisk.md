@@ -15,7 +15,7 @@ Orenburg and Troitsk.
 
 
 KÜSTENLAND (coast-land or littoral), a common name for the three
-crown-lands of Austria, Görz and Gradisca, Istria and Trieste. Their
+crown-lands of Austria, Görz and Gradisca, [[Istria]] and Trieste. Their
 combined area is 3084 sq. m., and their population in 1900 was 755,183.
 They are united for certain administrative purposes under the governor
 of Trieste, the legal and financial authorities of which also exercise

@@ -7,7 +7,7 @@ type: note
 
 # Charm
 
-CHARM (through the Fr. from the Lat. _carmen_, a song), an incantation,
+CHARM (through the Fr. from the Lat. _carmen_, a song), an [[Incantation|incantation]],
 verses sung with supposed magical results, hence anything possessing
 powers of bringing good luck or averting evil, particularly articles
 worn with that purpose, such as an amulet. It is thus used of small

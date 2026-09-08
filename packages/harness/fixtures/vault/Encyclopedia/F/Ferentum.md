@@ -8,10 +8,10 @@ retains its ancient name. It occupied a ridge running from east to west,
 with deep ravines on three sides. There are some remains of the city
 walls, and of various Roman structures, but the most important ruin is
 that of the theatre. The stage front is still standing; it is pierced by
-seven openings with flat arches, and shows traces of reconstruction. The
+seven openings with flat [[Arches|arches]], and shows traces of reconstruction. The
 acropolis was on the hill called Talone on the north-east.
 
-  See G. Dennis, _Cities and Cemeteries of Etruria_ (London, 1883), i.
+  See G. [[Dennis]], _Cities and Cemeteries of Etruria_ (London, 1883), i.
   156; _Notizie degli scavi_, 1900, 401; 1902, 84; 1905, 31.
 
 ## See also

@@ -17,11 +17,11 @@ supporting surface or layer. The accompaniments of a domestic bed
 (bedding, coverlets, &c.) have naturally varied considerably in
 different times, and its form and decoration and social associations
 have considerable historical interest. The Egyptians had high bedsteads
-which were ascended by steps, with bolsters or pillows, and curtains to
+which were ascended by steps, with bolsters or pillows, and [[Curtain|curtains]] to
 hang round. Often there was a head-rest as well, semi-cylindrical and
 made of stone, wood or metal. Assyrians, Medes and Persians had beds of
 a similar kind, and frequently decorated their furniture with inlays or
-_appliques_ of metal, mother-of-pearl and ivory. The oldest account of a
+_appliques_ of metal, mother-of-pearl and [[Ivory|ivory]]. The oldest account of a
 bedstead is probably that of Ulysses which Homer describes him as making
 in his own house, but he also mentions the inlaying of the woodwork of
 beds with gold, silver and ivory. The Greek bed had a wooden frame, with
@@ -30,16 +30,16 @@ were placed. At a later period the bedstead was often veneered with
 expensive woods; sometimes it was of solid ivory veneered with
 tortoise-shell and with silver feet; often it was of bronze. The pillows
 and coverings also became more costly and beautiful; the most celebrated
-places for their manufacture were Miletus, Corinth and Carthage. Folding
+places for their manufacture were Miletus, [[Corinth]] and Carthage. Folding
 beds, too, appear in the vase paintings. The Roman mattresses were
-stuffed with reeds, hay, wool or feathers; the last was used towards the
+stuffed with reeds, [[Hay|hay]], wool or [[Feather|feathers]]; the last was used towards the
 end of the Republic, when custom demanded luxury. Small cushions were
 placed at the head and sometimes at the back. The bedsteads were high
 and could only be ascended by the help of steps. They were often
 arranged for two persons, and had a board or railing at the back as well
 as the raised portion at the head. The counterpanes were sometimes very
 costly, generally purple embroidered with figures in gold; and rich
-hangings fell to the ground masking the front. The bedsteads themselves
+[[Hanging|hangings]] fell to the ground masking the front. The bedsteads themselves
 were often of bronze inlaid with silver, and Elagabalus, like some
 modern Indian princes, had one of solid silver. In the walls of some of
 the houses at Pompeii bed niches are found which were probably closed by
@@ -55,7 +55,7 @@ placed in the atrium with the foot to the door and with a pan of incense
 by its side. The ancient Germans lay on the floor on beds of leaves
 covered with skins, or in a kind of shallow chest filled with leaves and
 moss. In the early middle ages they laid carpets on the floor or on a
-bench against the wall, placed upon them mattresses stuffed with
+[[Bench|bench]] against the wall, placed upon them mattresses stuffed with
 feathers, wool or hair, and used skins as a covering. They appear to
 have generally lain naked in bed, wrapping themselves in the large linen
 sheets which were stretched over the cushions. In the 13th century
@@ -64,21 +64,21 @@ inlaid, carved and painted ornament. They also used folding beds, which
 served as couches by day and had cushions covered with silk laid upon
 leather. At night a linen sheet was spread and pillows placed, while
 silk-covered skins served as coverlets. Curtains were hung from the
-ceiling or from an iron arm projecting from the wall. The Carolingian
+[[Ceiling|ceiling]] or from an iron arm projecting from the wall. The Carolingian
 MSS. show metal bedsteads much higher at the head than at the feet, and
 this shape continued in use till the 13th century in France, many
 cushions being added to raise the body to a sloping position. In the
 12th-century MSS. the bedsteads appear much richer, with inlays, carving
 and painting, and with embroidered coverlets and mattresses in harmony.
-Curtains were hung above the bed, and a small hanging lamp is often
+Curtains were hung above the bed, and a small hanging [[Lamp|lamp]] is often
 shown. In the 14th century the woodwork became of less importance, being
 generally entirely covered by hangings of rich materials. Silk, velvet
 and even cloth of gold were much used. Inventories from the beginning of
-the 14th century give details of these hangings lined with fur and
+the 14th century give details of these hangings lined with [[Fur|fur]] and
 richly embroidered. Then it was that the tester bed made its first
 appearance, the tester being slung from the ceiling or fastened to the
 walls, a form which developed later into a room within a room, shut in
-by double curtains, sometimes even so as to exclude all draughts. The
+by double curtains, sometimes even so as to exclude all [[Draughts|draughts]]. The
 space between bed and wall was called the _ruelle_, and very intimate
 friends were received there. In the 15th century beds became very large,
 reaching to 7 or 8 ft. by 6 or 7 ft. Viollet-le-Duc says that the
@@ -90,8 +90,8 @@ bedsteads were for the most part mere frameworks to be covered up; but
 about the beginning of the 16th century bedsteads were made lighter and
 more decorative, since the lords remained in the same place for longer
 periods. In the museum at Nancy is a fine bedstead of this period which
-belonged to Antoine de Lorraine. It has a carved head and foot as well
-as the uprights which support the tester. Another is in the Musee Cluny
+belonged to Antoine de [[Lorraine]]. It has a carved head and foot as well
+as the uprights which support the tester. Another is in the Musee [[Cluny]]
 ascribed to Pierre de Gondi, very architectural in design, with a
 bracketed cornice, and turned and carved posts; at the head figures of
 warriors watch the sleeper. Louis XIV. had an enormous number of
@@ -118,7 +118,7 @@ with a tester shaped like a crown, a style which appeared under Louis
 XVI., and was fashionable under the Restoration and Louis Philippe, and
 _lit a l'imperiale_, which had a curved tester, are a few of their
 varieties. The _lit en baldaquin_ of Napoleon I. is still at
-Fontainebleau, and the Garde Meuble contains several richly carved beds
+[[Fontainebleau]], and the Garde Meuble contains several richly carved beds
 of a more modern date. The custom of the "bed of justice" upon which the
 king of France reclined when he was present in parliament, the princes
 being seated, the great officials standing, and the lesser officials
@@ -135,7 +135,7 @@ originally, and in the accounts of several castles in the 15th century
 mention is made of a railing to keep dogs from the bed. In the _chambre
 de parade_, where the ceremonial bed was placed, certain persons, such
 as ambassadors or great lords, whom it was desired to honour, were
-received in a more intimate fashion than the crowd of courtiers. The
+received in a more intimate fashion than the [[Crowd|crowd]] of courtiers. The
 _petit lever_ was held in the bedroom itself, the _grand lever_ in the
 _chambre de parade_. At Versailles women received their friends in their
 beds, both before and after childbirth, during periods of mourning, and
@@ -147,7 +147,7 @@ in France till the end of the _ancien regime_. The earliest of which
 mention has been found belonged to Charles the Bold (see _Memoirs_ of
 Philippe de Comines). They had curtains over a light framework, and were
 in their way as fine as the stationary beds. Iron beds appear in the
-18th century; the advertisements recommend them as free from the insects
+18th century; the advertisements recommend them as free from the [[Insect|insects]]
 which sometimes infested wooden bedsteads, but one is mentioned in the
 inventory of the furniture of the castle of Nerac in 1569, "un lit de
 fer et de cuivre, avec quatre petites colonnes de laiton, ensemble

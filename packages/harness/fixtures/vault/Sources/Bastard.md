@@ -18,7 +18,7 @@ Both, however, had in other respects most of the rights of citizenship.
 The Germanic law was based upon an entirely different principle. It
 recognized as legitimate only those whose parents were of the same
 social rank. All others were regarded as bastards, and took the status
-of the parent of inferior rank. The aim of all the Germanic codes was to
+of the parent of inferior rank. The aim of all the Germanic [[Code|codes]] was to
 preserve purity of race, not to improve morals, for incestuous unions
 are not censured. The influence of the Germanic law lasted throughout
 the early feudal period, and bastards were debarred rights of
@@ -27,13 +27,13 @@ to modify this severity. An exception was probably made in the case of
 those whose fathers were of royal blood, in which case it even seems
 that no stigma was attached to the accident of their birth, nor did they
 suffer from the usual disabilities as to inheritance which attended
-those of illegitimate birth (Gregory of Tours, v. 25). Among the Franks
+those of illegitimate birth (Gregory of Tours, v. 25). Among the [[Franks]]
 we find Theodoric I., a natural son of Clovis, sharing the kingdom with
-the legitimate sons; Zwentibold, natural son of Arnulf, was created king
-of Lorraine by his father in 895; and even William the Conqueror
+the legitimate sons; Zwentibold, natural son of [[Arnulf]], was created king
+of [[Lorraine]] by his father in 895; and even William the Conqueror
 actually assumed the appellation of bastard.
 
-In English law a bastard still retains certain disabilities. His rights
+In [[English Law|English law]] a bastard still retains certain disabilities. His rights
 are only such as he can acquire; for civilly he can inherit nothing,
 being looked upon as the son of nobody, and sometimes called _filius
 nullius_, sometimes _filius populi_. This, however, does not hold as to
@@ -50,7 +50,7 @@ primarily on her. But the English law has always recognized the
 principle that to a certain extent the father must share in that
 responsibility. This, however, was imposed not with the idea of
 furnishing the woman with a civil remedy, nor to have a penal effect
-against the man, but solely to prevent the cost of maintenance of the
+against the man, but solely to prevent the cost of [[Maintenance|maintenance]] of the
 bastard child from falling upon the parish. Indeed, the legislation upon
 the subject, which dates back to 1576, was until 1845 an intimate part
 of the poor law. The act of 1576, the basis of English bastardy law,
@@ -59,7 +59,7 @@ reputed father of every bastard child left to the care of the parish,
 and to charge the mother and reputed father with the payment of a weekly
 sum or other needful sustenance. Other acts were passed in 1609 and
 1733, enabling the mother of any child chargeable or likely to become
-chargeable to the parish to secure the apprehension, and even the
+chargeable to the parish to secure the [[Apprehension|apprehension]], and even the
 imprisonment, of the father until he should indemnify the parish,
 provisions which were made somewhat more stringent by acts passed in
 1809 and 1810. In 1832 a commission was appointed to inquire into the
@@ -90,54 +90,54 @@ money due from the putative father for the maintenance of the child. The
 existing law is set out under AFFILIATION.
 
 The incapacities attaching to a bastard consist principally in this,
-that he cannot be heir to any one; for being _nullius filius_, he is
-therefore of kin to nobody, and has no ancestor from whom an inheritable
+that he cannot be [[Heir|heir]] to any one; for being _nullius filius_, he is
+therefore of [[Kin|kin]] to nobody, and has no ancestor from whom an inheritable
 blood can be derived. Therefore, if there be no other claimant upon an
 inheritance than such illegitimate child, it escheats to the lord. And
 as bastards cannot be heirs themselves, so neither can they have any
-heirs but those of their own bodies; for as all collateral kindred
+heirs but those of their own bodies; for as all [[Collateral|collateral]] kindred
 consists in being derived from the same common ancestor, and as a
 bastard has no legal ancestor, he can have no collateral kindred, and
 consequently no legal heirs, except such as claim by a lineal descent
 from himself. And hence, if a bastard purchase land, and die seised
 therefor without issue and intestate, the land escheats to the lord of
-the fee. Originally a bastard was deemed incapable of holy orders, and
+the [[Fee|fee]]. Originally a bastard was deemed incapable of holy orders, and
 disqualified by the fact of his birth from holding any dignity in the
 church; but this doctrine is now obsolete, and in all other respects
 there is no distinction between a bastard and another man. By the law of
 Scotland a bastard is not only excluded from his father's succession,
 because the law knows no father who is not marked out by marriage; and
 from all heritable succession, whether by the father or mother, because
-he cannot be pronounced lawful heir by the inquest in terms of the
+he cannot be pronounced lawful heir by the [[Inquest|inquest]] in terms of the
 brief; but also from the movable succession of his mother, because he is
-not her lawful child, and legitimacy is implied in all succession
+not her lawful child, and [[Legitimacy|legitimacy]] is implied in all succession
 deferred by the law. But a bastard, although he cannot succeed _jure
 sanguinis_, may succeed by destination, where he is specially called to
-the succession by entail or testament. In Scotland, as in England, a
+the succession by [[Entail|entail]] or testament. In Scotland, as in England, a
 bastard can have no legal heirs except those of his own body; and hence,
 failing his lawful issue, the king succeeds to him as last heir.
 Formerly bastards in Scotland without issue of their own could not make
-a will, but this disability was removed by a statute of 1835. If
+a will, but this [[Disability|disability]] was removed by a statute of 1835. If
 bastards or other persons without kindred die intestate without wife or
 child, their effects go to the king as _ultimus haeres_; but a grant is
 usually made of them by letters patent, and the grantee becomes entitled
 to the administration.
 
 According to the common law, which is the law of England, a bastard
-cannot be divested of his state of illegitimacy, unless by the supreme
+cannot be divested of his state of [[Illegitimacy|illegitimacy]], unless by the supreme
 power of an act of parliament. But in those countries which have
-followed the Roman or civil law, a bastard's status may be provisional,
+followed the Roman or [[Civil Law|civil law]], a bastard's status may be provisional,
 and he can be made legitimate by the subsequent marriage of his parents.
 (See LEGITIMACY AND LEGITIMATION; and, for statistics, ILLEGITIMACY.)
 
   AUTHORITIES.--Bacquet, _Traite de la batardise_ (1608); Du Cange,
   _Gloss. Lat._, infra "Bastardus"; L.G. Koenigswater, _Histoire de
   l'organisation de la famille en France_ (1851), and _Essai sur les
-  enfants nes hors mariage_ (1842); E.D. Glasson, _Histoire des droits
+  enfants nes [[Hor|hors]] mariage_ (1842); E.D. Glasson, _Histoire des [[Droit|droits]]
   et des institutions de l'Angleterre_ (6 vols., 1882-1883), _Histoire
   du droit et des institutions de la France_ (1887); Pollock and
   Maitland, _History of English Law_ (1898); Stephen's _Commentaries_;
-  Nicholls and Mackay, _History of the English Poor Law_ (3 vols.,
+  Nicholls and [[Mackay]], _History of the English Poor Law_ (3 vols.,
   1898).
 
 ## References

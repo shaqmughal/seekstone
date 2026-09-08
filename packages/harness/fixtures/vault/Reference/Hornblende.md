@@ -22,7 +22,7 @@ composition is expressed by mixtures in varying proportions of the
 molecules Ca(Mg, Fe)3(SiO3)4, (Mg, Fe)(Al, Fe)2SiO6 and NaAl(SiO3)2.
 Numerous varieties have been distinguished by special names: edenite,
 from Edenville in New York, is a pale-coloured aluminous amphibole
-containing little iron; pargasite, from Pargas near Abo in Finland, a
+containing little iron; pargasite, from Pargas near Abo in [[Finland]], a
 green or bluish-green variety; common hornblende includes the
 greenish-black and black kinds containing more iron. The dark-coloured
 porphyritic crystals of basalts are known as basaltic hornblende.
@@ -30,12 +30,12 @@ porphyritic crystals of basalts are known as basaltic hornblende.
 [Illustration.]
 
 Hornblende occurs as an essential constituent of many kinds of igneous
-rocks, such as hornblende-granite, syenite, diorite, hornblende-andesite,
+rocks, such as hornblende-granite, syenite, [[Diorite|diorite]], hornblende-andesite,
 basalt, &c.; and in many crystalline schists, for example, amphibolite
 and hornblende-schist which are composed almost entirely of this mineral.
 Well-crystallized specimens are met with at many localities, for example:
 brilliant black crystals (syntagmatite) with augite and mica in the
-sanidine bombs of Monte Somma, Vesuvius; large crystals at Arendal in
+sanidine [[Bomb|bombs]] of Monte Somma, Vesuvius; large crystals at Arendal in
 Norway, and at several places in the state of New York; isolated crystals
 from the basalts of Bohemia.     (L. J. S.)
 

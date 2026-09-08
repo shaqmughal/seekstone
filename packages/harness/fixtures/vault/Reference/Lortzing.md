@@ -16,12 +16,12 @@ parts. His first opera _Ali Pascha von Jannina_ appeared in 1824, but
 his fame as a musician rests chiefly upon the two operas _Der
 Wildschütz_ (1842) and _Czar und Zimmermann_ (1837). The latter,
 although now regarded as one of the masterpieces of German comic opera,
-was received with little enthusiasm by the public of Leipzig. Subsequent
-performance in Berlin, however, provoked such a tempest of applause that
+was received with little [[Enthusiasm|enthusiasm]] by the public of Leipzig. Subsequent
+performance in Berlin, however, provoked such a tempest of [[Applause|applause]] that
 the opera was soon placed on all the stages of Germany. It was
 translated into English, French, Swedish, Danish, Dutch, Bohemian,
 Hungarian and Russian. _Der Wildschütz_ was based on a comedy of
-Kotzebue, and was a satire on the unintelligent and exaggerated
+[[Kotzebue]], and was a satire on the unintelligent and exaggerated
 admiration for the highest beauty in art expressed by the _bourgeois
 gentilhomme_. Of his other operas it is only necessary to note _Der Pole
 und sein Kind_, produced shortly after the Polish insurrection of 1831,

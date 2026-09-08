@@ -7,7 +7,7 @@ eastern sides of the Cotentin in Normandy. A body of French troops, and
 a number of Jacobite exiles, had been collected in the Cotentin. The
 government of Louis XIV. prepared a naval armament to cover their
 passage across the Channel. This force was to have been composed of the
-French ships at Brest commanded by the count of Tourville, and of a
+French ships at [[Brest]] commanded by the count of Tourville, and of a
 squadron which was to have joined him from Toulon. But the Toulon ships
 were scattered by a gale, and the combination was not effected. The
 count of Tourville, who had put to sea to meet them, had with him only
@@ -28,9 +28,9 @@ took the bold course of appealing to the loyalty and patriotism of its
 officers. At a meeting of the flag-officers on board the "Britannia,"
 Russell's flag-ship, on the 15th of May, they protested their loyalty,
 and the whole allied fleet put to sea on the 18th. On the 19th of May,
-when Cape Barfleur, the north-eastern point of the Cotentin, was 21 m.
+when Cape [[Barfleur]], the north-eastern point of the Cotentin, was 21 m.
 S.W. of them, they sighted Tourville, who was then 20 m. to the north of
-Cape La Hague, the north-western extremity of the peninsula, which must
+Cape La [[Hague]], the north-western extremity of the peninsula, which must
 not be confounded with La Houque, or La Hogue, the place at which the
 fighting ended. The allies were formed in a line from S.S.W. to N.N.E.
 heading towards the English coast, the Dutch forming the White or van
@@ -57,7 +57,7 @@ D'Amfreville, rounded the cape, and fled to St Malo through the
 dangerous passage known as the Race of Alderney (le Ras Blanchard). The
 others were unable to get round the cape before the flood tide set in,
 and were carried to the eastward. Tourville now transferred his own
-flag, and left his captains free to save themselves as they best could.
+[[Flag|flag]], and left his captains free to save themselves as they best could.
 He left the "Soleil Royal," and sent her with two others to Cherbourg,
 where they were destroyed by Sir Ralph Delaval. The others now ran round
 Cape Barfleur, and sought refuge on the east side of the Cotentin at the

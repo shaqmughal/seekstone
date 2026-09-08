@@ -1,16 +1,16 @@
 # Coleoptera
 
-COLEOPTERA, a term used in zoological classification for the true
+COLEOPTERA, a term used in zoological [[Classification|classification]] for the true
 beetles which form one of the best-marked and most natural of the orders
-into which the class Hexapoda (or Insecta) has been divided. For the
-relationship of the Coleoptera to other orders of insects see HEXAPODA.
+into which the class [[Hexapoda]] (or Insecta) has been divided. For the
+relationship of the Coleoptera to other orders of [[Insect|insects]] see HEXAPODA.
 The name (Gr. [Greek: koleos], a sheath, and [Greek: ptera], wings) was
 first used by Aristotle, who noticed the firm protective sheaths,
 serving as coverings for the hind-wings which alone are used for flight,
 without recognizing their correspondence with the fore-wings of other
 insects.
 
-These firm fore-wings, or elytra (fig. 1, A), are usually convex above,
+These firm fore-wings, or elytra (fig. 1, A), are usually [[Convex|convex]] above,
 with straight hind margins (_dorsa_); when the elytra are closed, the
 two hind margins come together along the mid-dorsal line of the body,
 forming a _suture_. In many beetles the hind-wings are reduced to mere
@@ -23,7 +23,7 @@ terrestrial rather than aerial in habit, though a large proportion of
 the order can fly well.
 
 Aristotle's term was adopted by Linnaeus (1758), and has been
-universally used by zoologists. The identification of the elytra of
+universally used by zoologists. The [[Identification|identification]] of the elytra of
 beetles with the fore-wings of other insects has indeed been questioned
 (1880) by F. Meinert, who endeavoured to compare them with the tegulae
 of Hymenoptera, but the older view was securely established by the
@@ -38,9 +38,9 @@ are distinguished by the adaptation of the jaws for biting, the
 mandibles (fig. 1, Bb) being powerful, and the first pair of maxillae
 (fig. 1, Bc) usually typical in form. The maxillae of the second pair
 (fig. 1, Bd) are very intimately fused together to form what is called
-the "lower lip" or labium, a firm transverse plate representing the
+the "lower [[Lip|lip]]" or labium, a firm transverse plate representing the
 fused basal portions of the maxillae, which may carry a small median
-"ligula," representing apparently the fused inner maxillary lobes, a
+"ligula," representing apparently the fused inner maxillary [[Lobe|lobes]], a
 pair of paraglossae (outer maxillary lobes), and a pair of palps. The
 feelers of beetles differ greatly in the different families (cf. figs.
 2b, 9b and 26b, c); the number of segments is usually eleven, but may
@@ -48,7 +48,7 @@ vary from two to more than twenty.
 
 The head is extended from behind forwards, so that the crown
 (epicranium) is large, while the face (clypeus) is small. The chin
-(gula) is a very characteristic sclerite in beetles, absent only in a
+([[Gula|gula]]) is a very characteristic sclerite in beetles, absent only in a
 few families, such as the weevils. There is usually a distinct labrum
 (fig. 1, Ba).
 
@@ -123,7 +123,7 @@ mandibulate insects, the food-canal consisting of gullet, crop, gizzard,
 mid-gut or stomach, intestine and rectum. The stomach is beset
 throughout its length with numerous small, finger-like caecal tubes. The
 excretory (malpighian) tubes are few in number, either four or six. Many
-beetles have, in connexion with the anus, glands which secrete a
+beetles have, in connexion with the [[Anu|anus]], glands which secrete a
 repellent acid fluid, serving as a defence for the insect when attacked.
 The "bombardier" ground beetles (fig. 5) have this habit. Oil-beetles
 (figs. 23 and 24) and ladybirds (fig. 32) defend themselves by ejecting
@@ -132,7 +132,7 @@ concentrated in some beetles, the abdominal ganglia showing a tendency
 to become shifted forward and crowded together, and in certain chafers
 all the thoracic and abdominal ganglia are fused into a single
 nerve-centre situated in the thorax,--a degree of specialization only
-matched in the insectan class among the Hemiptera and some muscid flies.
+matched in the insectan class among the [[Hemiptera]] and some muscid flies.
 
   _Development._--The embryonic development (see HEXAPODA) has been
   carefully studied in several genera of beetles. As regards growth
@@ -177,13 +177,13 @@ matched in the insectan class among the Hemiptera and some muscid flies.
   have to migrate in search of it, an early larval stage, with legs, is
   followed by later sluggish stages in which legs have disappeared,
   furnishing examples of what is called hypermetamorphosis. For example,
-  the grub of a pea or bean beetle (_Bruchus_) is hatched, from the egg
+  the grub of a pea or [[Bean|bean]] beetle (_Bruchus_) is hatched, from the [[Egg|egg]]
   laid by its mother on the carpel of a leguminous flower, with three
   pairs of legs and spiny processes on the prothorax. It bores through
   and enters the developing seed, where it undergoes a moult and becomes
   legless. Similarly the newly-hatched larva of an oil-beetle (_Meloe_)
   is an active little campodeiform insect, which, hatched from an egg
-  laid among plants, waits to attach itself to a passing bee. Carried to
+  laid among plants, waits to attach itself to a passing [[Bee|bee]]. Carried to
   the bee's nest, it undergoes a moult, and becomes a fat-bodied grub,
   ready to lead a quiet life feeding on the bee's rich food-stores.
 
@@ -194,7 +194,7 @@ FIG. 3.--Grain Weevils. a, _Calandra granaria_; b, larva; c, pupa; d,
 _C. oryzae_.]
 
 _Distribution and Habits._--The Coleoptera are almost world-wide in
-their distribution, being represented in the Arctic regions and on
+their distribution, being represented in the [[Arctic]] regions and on
 almost all oceanic islands. Most of the dominant families--such as the
 _Carabidae_ (ground-beetles), _Scarabaeidae_ (chafers), or
 _Curculionidae_ (weevils) have a distribution as wide as the order. But
@@ -230,7 +230,7 @@ Notes on habit are given below in the accounts of the various families.
 In general it may be stated that beetles live and feed in almost all the
 diverse ways possible for insects. There are carnivores, herbivores and
 scavengers among them. Various species among those that are predaceous
-attack smaller insects, hunt in packs crustaceans larger than
+attack smaller insects, [[Hunt|hunt]] in packs crustaceans larger than
 themselves, insert their narrow heads into snail-shells to pick out and
 devour the occupants, or pursue slugs and earthworms underground. The
 vegetable-feeders attack leaves, herbaceous or woody stems and roots;
@@ -241,13 +241,13 @@ beetles, inter the bodies of small vertebrates to supply food for
 themselves and their larvae, or, like the "sacred" beetle of Egypt,
 collect for the same purpose stores of dung. Many beetles of different
 families have become the "unbidden guests" of civilized man, and may be
-found in dwelling-houses, stores and ships' cargoes, eating food-stuffs,
+found in dwelling-houses, stores and ships' [[Cargo|cargoes]], eating food-stuffs,
 paper, furniture, tobacco and drugs. Hence we find that beetles of some
 kind can hold their own anywhere on the earth's surface. Some climb
 trees and feed on leaves, while others tunnel between bark and wood.
 Some fly through the air, others burrow in the earth, while several
 families have become fully adapted to life in fresh water. A large
-number of beetles inhabit the deep limestone caves of Europe and North
+number of beetles inhabit the deep [[Limestone|limestone]] caves of Europe and North
 America, while many genera and some whole families are at home nowhere
 but in ants' nests. Most remarkable is the presence of a number of
 beetles along the seashore between tide-marks, where, sheltered in some
@@ -311,8 +311,8 @@ prothorax and from the base of the ventral abdominal region. The
 luminous organs of these beetles consist of a specialized part of the
 fat-body, with an inner opaque and an outer transparent layer. Its
 structure has been described by C. Heinemann, and its physiology by R.
-Dubois (1886), who considers that the luminosity is due to the influence
-of an enzyme in the cells of the organ upon a special substance in the
+[[Dubois]] (1886), who considers that the luminosity is due to the influence
+of an [[Enzyme|enzyme]] in the cells of the organ upon a special substance in the
 blood. The eggs and larvae of the fire-flies are luminous as well as the
 perfect beetles.
 
@@ -349,7 +349,7 @@ larvae, is almost forgotten nowadays, but it is certain that in any
 systematic arrangement which claims to be natural the early stages in
 the life-history must receive due attention. In recent years
 classifications in part agreeing with the older schemes but largely
-original, in accord with researches on the comparative anatomy of the
+original, in accord with researches on the [[Comparative Anatomy|comparative anatomy]] of the
 insects, have been put forward. Among the more conservative of these may
 be mentioned that of D. Sharp (1899), who divides the order into six
 great series of families: _Lamellicornia_ (including the chafers and
@@ -377,7 +377,7 @@ abdominal sterna, the nervuration of the wings, the number of malpighian
 tubules (whether four or six) and other structural characters.
 Preferable to Lameere's system, because founded on a wider range of
 adult characters and taking the larval stages into account, is that of
-H. J. Kolbe (1901), who recognizes three sub-orders: (i.) the
+H. J. [[Kolbe]] (1901), who recognizes three sub-orders: (i.) the
 _Adephaga_; (ii.) the _Heterophaga_, including the _Staphylinoidea_, the
 _Actinorhabda_ (_Lamellicornia_), the _Heterorhabda_ (most of Sharp's
 _Polymorpha_), and the _Anchistopoda_ (the _Phytophaga_, with the
@@ -388,7 +388,7 @@ Students of the Coleoptera have failed to agree not only on a system of
 classification, but on the relative specialization of some of the groups
 which they all recognize as natural. Lameere, for example, considers
 some of his _Cantharidiformia_ as the most primitive Coleoptera. J. L.
-Leconte and G. H. Horn placed the _Rhynchophora_ (weevils) in a group
+Leconte and G. H. [[Horn]] placed the _Rhynchophora_ (weevils) in a group
 distinct from all other beetles, on account of their supposed primitive
 nature. Kolbe, on the other hand, insists that the weevils are the most
 modified of all beetles, being highly specialized as regards their adult
@@ -492,7 +492,7 @@ of the families.
   extending on either side in front of the insertion of the feelers. The
   beetles are elegant insects with long, slender legs, running quickly,
   and flying in the sunshine. The pronotum and elytra are often adorned
-  with bright colours or metallic lustre, and marked with stripes or
+  with bright [[Colours|colours]] or metallic lustre, and marked with stripes or
   spots. The beetles are fierce in nature and predaceous in habit, their
   sharp toothed mandibles being well adapted for the capture of small
   insect-victims. The larvae are more specialized than those of other
@@ -525,7 +525,7 @@ of the families.
   while the short and flattened intermediate and hind legs form very
   perfect oar-like propellers. The larva of _Gyrinus_ (fig. 9, c) is
   slender with elongate legs, and the abdominal segments carry paired
-  tracheal gills.
+  tracheal [[Gill|gills]].
 
   STAPHYLINOIDEA.--The members of this tribe may be easily recognized by
   their wing-nervuration. Close to a transverse fold near the base of
@@ -582,7 +582,7 @@ of the families.
   mobile, and as the rove-beetles run along they often curl the abdomen
   upwards and forwards like the tail of a scorpion. The _Staphylinid_
   larvae are typically campodeiform. Beetles and larvae are frequently
-  carnivorous in habit, hunting for small insects under stones, or
+  carnivorous in habit, [[Hunting|hunting]] for small insects under stones, or
   pursuing the soft-skinned grubs of beetles and flies that bore in
   woody stems or succulent roots. Many _Staphylinidae_ are constant
   inmates of ants' nests.
@@ -616,12 +616,12 @@ of the families.
   six abdominal sterna, while six malpighian tubes are present in some
   of the families. The beetles are hairy and their larvae well-armoured
   and often predaceous. Several species of _Dermestidae_ are commonly
-  found in houses, feeding on cheeses, dried meat, skins and other such
+  found in houses, feeding on [[Cheese|cheeses]], dried meat, skins and other such
   substances. The "bacon beetle" (_Dermestes lardarius_), and its hard
   hairy larva, are well known. According to Sharp, all Dermestid larvae
   probably feed on dried animal matters; he mentions one species that
   can find sufficient food in the horsehair of furniture, and another
-  that eats the dried insect-skins hanging in old cobwebs.
+  that eats the dried insect-skins [[Hanging|hanging]] in old cobwebs.
 
   [Illustration: FIG. 16.--_Clerus apiarus_ (Hive Beetle). Europe.]
 
@@ -660,7 +660,7 @@ of the families.
   the absence of the lateral processes at the hind corners of the
   prothorax. Many tropical _Buprestidae_ are of large size (fig. 19),
   and exhibit magnificent metallic colours; their elytra are used as
-  ornaments in human dress. The larvae are remarkable for their small
+  ornaments in human [[Dress|dress]]. The larvae are remarkable for their small
   head, very broad thorax, with reduced legs, and narrow elongate
   abdomen. They feed by burrowing in the roots and stems of plants.
 
@@ -699,7 +699,7 @@ of the families.
   insect rises to the surface. Many of the _Hydrophilidae_ construct,
   for the protection of their eggs, a cocoon formed of a silky material
   derived from glands opening at the tip of the abdomen. That of
-  _Hydrophilus_ is attached to a floating leaf, and is provided with a
+  _Hydrophilus_ is attached to a floating [[Leaf|leaf]], and is provided with a
   hollow, tapering process, which projects above the surface and
   presumably conveys air to the enclosed eggs. Other _Hydrophilidae_
   carry their egg-cocoons about with them beneath the abdomen. Many
@@ -757,14 +757,14 @@ of the families.
   raising medicinal blisters on the human skin. The wonderful
   transformations of these insects were first investigated by G. Newport
   in 1851, and have recently been more fully studied by C. V. Riley
-  (1878) and J. H. Fabre. The first larval stage is the "triungulin," a
+  (1878) and J. H. [[Fabre]]. The first larval stage is the "triungulin," a
   tiny, active, armoured larva with long legs (each foot with three
   claws) and cercopods. In the European species of _Sitaris_ and _Meloe_
   these little larvae have the instinct of clinging to any hairy object.
   All that do not happen to attach themselves to a bee of the genus
   _Anthophora_ perish, but those that succeed in reaching the right host
   are carried to the nest, and as the bee lays an egg in the cell the
-  triungulin slips off her body on to the egg, which floats on the
+  triungulin slips off her body on to the egg, which [[Float|floats]] on the
   surface of the honey. After eating the contents of the egg, the larva
   moults and becomes a fleshy grub with short legs and with paired
   spiracles close to the dorsal region, so that, as it floats in and
@@ -873,7 +873,7 @@ of the families.
   which she forms into a ball by continuous rolling, sometimes assisted
   by a companion. This ball is buried in a suitable place, and serves
   the insect as a store of food. During summer the insects rest in their
-  underground retreats, then in autumn they reappear to bury another
+  underground retreats, then in autumn they reappear to [[Bury|bury]] another
   supply of dung, which serves as food for the larvae. Fabre states that
   the mother-insect carefully arranges the food-supply so that the most
   nutritious and easily digested portion is nearest the egg, to form the
@@ -954,7 +954,7 @@ of the families.
   protected by small firm sclerites. Such larvae, and also many with
   soft cuticle and swollen abdomen--those of the notorious "Colorado
   beetle," for example--feed openly on foliage. Others, with soft,
-  white, cylindrical bodies, which recall the caterpillars of moths,
+  white, cylindrical bodies, which recall the [[Caterpillar|caterpillars]] of moths,
   burrow in the leaves or stems of plants. The larvae of the
   tortoise-beetles have the curious habit of forming an umbrella-like
   shield out of their own excrement, held in position by the upturned
@@ -1067,7 +1067,7 @@ of the families.
 
   Luminous organs are described by H. von Wielowiejski (_Zeits. f.
   wissen. Zool._ xxxvii., 1882); C. Heinemann (_Arch. f. mikr. Anat._
-  xxvii., 1886); and R. Dubois (_Bull. soc. zool. France_, 1886); and
+  xxvii., 1886); and R. Dubois (_[[Bull]]. soc. zool. France_, 1886); and
   stridulating organs by C. J. Gahan (_Trans. Entom. Soc._, 1900). See
   also C. Darwin's _Descent of Man and Selection in Relation to Sex_
   (London, 1871).
@@ -1097,13 +1097,13 @@ of the families.
   xliv., xlvii., 1900-1903); and H. J. Kolbe (_Arch. f. Naturg._ lxvii.,
   1901).
 
-  For the British species, W. W. Fowler (_Coleoptera of the British
+  For the British species, W. W. [[Fowler]] (_Coleoptera of the British
   Islands_, 5 vols., London, 1887-1891) is the standard work; and W. F.
   Johnson and J. N. Halbert's "Beetles of Ireland" (_Proc. R. Irish
   Acad._, 3, vi., 1902) is valuable faunistically. Among the large
   number of systematic writers on the order generally, or on special
   families, may be mentioned D. Sharp, T. V. Wollaston, H. W. Bates, G.
-  C. Champion, E. Reitter, G. C. Crotch, H. S. Gorham, M. Jacoby, L.
+  C. [[Champion]], E. Reitter, G. C. Crotch, H. S. Gorham, M. Jacoby, L.
   Fairmaire and C. O. Waterhouse. (G. H. C.)
 
 

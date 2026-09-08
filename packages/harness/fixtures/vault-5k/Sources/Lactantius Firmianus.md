@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lactantius
 
 # Lactantius Firmianus
 
-LACTANTIUS FIRMIANUS (c. 260-c. 340), also called Lucius Caelius (or
+LACTANTIUS FIRMIANUS (c. 260-c. 340), also called [[Lucius]] Caelius (or
 Caecilius) Lactantius Firmianus, was a Christian writer who from the
 beauty of his style has been called the "Christian Cicero." His history
 is very obscure. He was born of heathen parents in Africa about 260, and
@@ -15,13 +15,13 @@ became a pupil of Arnobius, whom he far excelled in style though his
 knowledge of the Scriptures was equally slight. About 290 he went to
 Nicomedia in Bithynia while Diocletian was emperor, to teach rhetoric,
 but found little work to do in that Greek-speaking city. In middle age
-he became a convert to Christianity, and about 306 he went to Gaul
+he became a convert to Christianity, and about 306 he went to [[Gaul]]
 (Trèves) on the invitation of Constantine the Great, and became tutor to
 his eldest son, Crispus. He probably died about 340.
 
 Lactantius' chief work, _Divinarum Institutionum Libri Septem_, is an
-"apology" for and an introduction to Christianity, written in exquisite
-Latin, but displaying such ignorance as to have incurred the charge of
+"[[Apology|apology]]" for and an introduction to Christianity, written in exquisite
+Latin, but displaying such [[Ignorance|ignorance]] as to have incurred the charge of
 favouring the Arian and Manichaean heresies. It seems to have been begun
 in Nicomedia about 304 and finished in Gaul before 311. Two long
 eulogistic addresses and most of the brief apostrophes to the emperor
@@ -56,7 +56,7 @@ and beauty of the human body. (3) A celebrated incendiary treatise, _De
 Mortibus Persecutorum_, which describes God's judgments on the
 persecutors of his church from Nero to Diocletian, and has served as a
 model for numberless writings. _De Mort. Persecut._ is not in the
-earlier editions of Lactantius; it was discovered and printed by Baluze
+earlier editions of Lactantius; it was discovered and printed by [[Baluze]]
 in 1679. Many critics ascribe it to an unknown Lucius Caecilius; there
 are certainly serious differences of grammar, style and temper between
 it and the writings already mentioned. It was probably composed in
@@ -66,7 +66,7 @@ thinks makes use of 1 Clement), _De Passione Domini_ and _De
 Resurrectione (Domini)_ or _De Pascha ad Felicem Episcopum_. The first
 of these may belong to Lactantius's heathen days, the second is a
 product of the Renaissance (c. 1500), the third was written by Venantius
-Fortunatus in the 6th century.
+[[Fortunatus]] in the 6th century.
 
   Editions: O. F. Fritzsche in E. G. Gersdorf's _Bibl. patr. eccl._ x.,
   xi. (Leipzig, 1842-1844); Migne, _Patr. Lat._ vi., vii.; S. Brandt and

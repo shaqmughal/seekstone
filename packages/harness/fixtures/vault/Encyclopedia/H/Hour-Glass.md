@@ -2,7 +2,7 @@
 
 HOUR-GLASS, a device for measuring intervals of time, also known as
 sand-glass, and as log-glass when used in conjunction with the common
-log for ascertaining the speed of a ship. It consists of two pear-shaped
+[[Log|log]] for ascertaining the speed of a ship. It consists of two pear-shaped
 bulbs of glass, united at their apices and having a minute passage
 formed between them. A quantity of sand (or occasionally of mercury) is
 enclosed in the bulbs, and the size of the passage is so proportioned

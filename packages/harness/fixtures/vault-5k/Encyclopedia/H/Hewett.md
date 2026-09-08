@@ -7,9 +7,9 @@ type: source
 
 # Hewett
 
-HEWETT, SIR PRESCOTT GARDNER, Bart. (1812-1891), British surgeon, was
+HEWETT, SIR PRESCOTT [[Gardner|GARDNER]], Bart. (1812-1891), British surgeon, was
 born on the 3rd of July 1812, being the son of a Yorkshire country
-gentleman. He lived for some years in early life in Paris, and started
+[[Gentleman|gentleman]]. He lived for some years in early life in Paris, and started
 on a career as an artist, but abandoned it for surgery. He entered St
 George's Hospital, London (where his half-brother, Dr Cornwallis Hewett,
 was physician from 1825 to 1833) becoming demonstrator of anatomy and

@@ -44,7 +44,7 @@ beaches under the sand and mud of the now deeper water, or it retreats
 when the sea is withdrawn from the land or the land rises locally,
 leaving the old shingle stranded in a "raised beach," but its formation
 is in all cases due to the form and structure of the shore, the sapping
-action of the waves, the backward drag of the undertow plastering the
+action of the waves, the backward [[Drag|drag]] of the undertow plastering the
 shore with material, which is in turn bombarded by waves and swept by
 currents that cover the finer debris of the undertow with a layer of
 coarse fragments that are re-sorted by the daily action of currents and

@@ -1,10 +1,10 @@
 # Croquet
 
-CROQUET (from Fr. _croc_, a crook, or crooked stick), a lawn game played
-with balls, mallets, hoops and two pegs. The game has been evolved,
+CROQUET (from Fr. _croc_, a crook, or crooked stick), a [[Lawn|lawn]] [[Game|game]] played
+with [[Ball|balls]], [[Mallet|mallets]], hoops and two pegs. The game has been evolved,
 according to some writers, from the _paille-maille_ which was played in
-Languedoc at least as early as the 13th century. Under the name of _le
-jeu de la crosse_, or _la crosserie_, a similar game was at the same
+[[Languedoc]] at least as early as the 13th century. Under the name of _le
+jeu de [[La Crosse|la crosse]]_, or _la crosserie_, a similar game was at the same
 period immensely popular in Normandy, and especially at Avranches, but
 the object appears to have been to send the ball as far as possible by
 driving it with the mallet (see _Sports et jeux d'adresse_, 1904, p.
@@ -24,14 +24,14 @@ In the same year the All England Croquet Club was formed, the annual
 contest for the championship taking place on the grounds of this club at
 Wimbledon.[1] But after being for ten years or so the most popular game
 for the country house and garden party, croquet was in its turn
-practically ousted by lawn tennis, until, with improved implements and a
+practically ousted by lawn tennis, until, with improved [[Implement|implements]] and a
 more scientific form of play, it was revived about 1894-1895. In
 1896-1897 was formed the United All England Croquet Association, on the
 initiative of Mr Walter H. Peel. Under the name of the Croquet
 Association, with more than 2000 members and nearly a hundred affiliated
 clubs (1909), this body is the recognized ruling authority on croquet in
 the British Islands. Its headquarters are at the Roehampton Club, where
-the championship and champion cup competitions are held each year.
+the championship and [[Champion|champion]] cup competitions are held each year.
 
 _The Game and its Implements._--The requisites for croquet are a level
 grass lawn, six hoops, two posts or pegs, balls, mallets, and hoop-clips
@@ -66,7 +66,7 @@ most 3/8 in. wider than the diameter of the ball. The mallets may be of
 any size and weight, but the head must be made of wood (metal may be
 used only for weighting or strengthening purposes), and the ends must be
 parallel and similar. Only one mallet may be used in the course of a
-game, except in the case of _bona fide_ damage.
+game, except in the case of _[[Bona Fide|bona fide]]_ damage.
 
 The object of the player is to score the points of the game by striking
 his ball through each of the hoops and against each of the pegs in a
@@ -85,7 +85,7 @@ on the diagram, of the lawn--till 1906, from a point 1 ft. in front of
 the middle of hoop 1. If he fails either to make a point or to
 "roquet"[2] (i.e. drive his ball against) another ball in play, his turn
 is at an end and the next player in order takes his turn in like manner.
-If he succeeds in scoring a point, he is entitled (as in billiards) to
+If he succeeds in scoring a point, he is entitled (as in [[Billiards|billiards]]) to
 another stroke; he may then either attempt to score another point, or he
 may roquet a ball. Having roqueted a ball--provided he has not already
 roqueted the same ball in the same turn without having scored a point in
@@ -104,7 +104,7 @@ may be made in which point after point, and even all the points in the
 game (for the ball in play), may be scored in a single turn, in addition
 to 3 or 4 points for the partner ball. The chief skill in the game
 perhaps consists in playing the stroke called "taking croquet" (but see
-below on the "rush"). Expert players can drive both balls together from
+below on the "rush"). [[Expert]] players can drive both balls together from
 one end of the ground to the other, or send one to a distance while
 retaining the other, or place each with accuracy in different directions
 as desired, the player obtaining position for scoring a point or
@@ -123,7 +123,7 @@ hands close together on the mallet shaft. The majority use "front play,"
 in which the player faces in the direction in which he proposes to send
 the ball. The essential characteristic of this stroke is that eye, hand
 and ball should be in the same vertical plane, and the stroke is rather
-a swing--the "pendulum stroke"--than a hit. There are two ways of
+a swing--the "pendulum stroke"--than a [[Hit|hit]]. There are two ways of
 playing it. The majority of right-handed front players swing the mallet
 outside the right foot, holding it with the left hand as a pivot at the
 top of the shaft, while the right hand (about 12 in. lower down) applies
@@ -252,7 +252,7 @@ in essentials.
 
   See _The Encyclopaedia of Sport; The Complete Croquet Player_ (London,
   1896); the latest _Laws of Croquet_, published annually by the Croquet
-  Association, and its official organ _The Croquet Gazette_. For the
+  Association, and its official organ _The Croquet [[Gazette]]_. For the
   principles of the game and its history in England, see C. D. Locock,
   _Modern Croquet Tactics_ (London, 1907); A. Lillie, _Croquet up to
   Date_ (London, 1900).
@@ -281,7 +281,7 @@ scientific as modern English croquet--has numerous devotees, especially
 in New England.
 
 [Illustration: FIG. 2.--Diagram of roque ground, showing setting of
-arches and stakes and order of play, in accordance with the official
+[[Arches|arches]] and stakes and order of play, in accordance with the official
 laws (1906) of the National Roque Association.]
 
 Roque is played, not on grass, but on a prepared surface something like
@@ -307,10 +307,10 @@ stand about 8 in. out of the ground. The stakes are 1 in. in diameter
 and only 1(1/2) in. above the ground. The mallets are much shorter than
 those commonly employed in England, the majority of players using only
 one hand, though the two-handed "pendulum stroke," played between the
-legs, finds an increasingly large number of adherents, on account of the
+[[Leg|legs]], finds an increasingly large number of adherents, on account of the
 greater accuracy which it gives. The "jump shot" is a necessary part of
 the player's equipment, as dead wiring is allowed; it is supplemented by
-the carom off the border or off a stake or arch, and roque players
+the carom off the border or off a stake or [[Arch|arch]], and roque players
 justly claim that their game is more like billiards than any other
 out-of-door game.
 

@@ -18,11 +18,11 @@ even unhappy. Just as Cardinal Newman felt, with such different results,
 the sadness and chain of evangelical influences from his boyhood till
 the end of his days, so Marian Evans was subdued all through her youth
 by a severe religious training which, while it pinched her mind and
-crushed her spirit, attracted her idealism by the very hardness of its
+crushed her spirit, attracted her [[Idealism|idealism]] by the very hardness of its
 perfect counsels. It is not surprising to find, therefore, that when Mr
-Evans moved to Coventry in 1841, and so enlarged the circle of their
+Evans moved to [[Coventry]] in 1841, and so enlarged the circle of their
 acquaintance, she became much interested in some new friends, Mr and Mrs
-Charles Bray and Mr Charles Hennell. Mr Bray had literary taste and
+Charles [[Bray]] and Mr Charles Hennell. Mr Bray had literary taste and
 wrote works on the _Education of the Feelings_, the _Philosophy of
 Necessity_, and the like. Mr Hennell had published in 1838 _An Enquiry
 concerning the Origin of Christianity_. Miss Evans, then twenty-two,
@@ -45,7 +45,7 @@ this fact were as distasteful to her as they were to another eminent
 writer, to whom she refers in one of her letters (dated 1853) as "a Mr
 Huxley, who was the centre of interest" at some "agreeable evening." Her
 books abound in tributes to Christian virtue, and one of her own
-favourite characters was Dinah Morris in _Adam Bede_.
+favourite characters was Dinah Morris in _Adam [[Bede]]_.
 
 She undertook, about the beginning of 1844, the translation of Strauss's
 _Leben Jesu_. This work, published in 1846, was considered scholarly,
@@ -56,7 +56,7 @@ assistant-editorship of the _Westminster Review_. For a while she had
 lodgings at the offices of that publication in the Strand, London. She
 wrote several notable papers, and became acquainted with many
 distinguished authors of that period--among them Herbert Spencer,
-Carlyle, Harriet Martineau, Francis Newman and George Henry Lewes. Her
+Carlyle, Harriet [[Martineau]], Francis Newman and George Henry [[Lewes]]. Her
 friendship with the last-named led to a closer relationship which she
 regarded as a marriage. Among the many criticisms passed upon this step
 (in view of the fact, among other considerations, that Lewes had a wife
@@ -72,7 +72,7 @@ morality, wholly at variance with the circumstances of her private life.
 Doubts of her suffering in this respect will be at once dismissed after
 a study of her journal and letters. Stilted and unnatural as these are
 to a tragic degree, one can read well enough between the lines, and also
-in the elaborate dedication of each manuscript to "my husband" (in terms
+in the elaborate [[Dedication|dedication]] of each [[Manuscript|manuscript]] to "my husband" (in terms
 of the strongest love), that self-repression, coupled with audacity,
 does not make for peace. Her sensitiveness to criticism was extreme; a
 flippant paragraph or an illiterate review with regard to her work
@@ -86,17 +86,17 @@ England the same year and settled, after several moves, in lodgings at
 East Sheen.
 
 In 1854 she published _The Essence of Christianity_, a translation from
-Feuerbach, a philosopher to whom she had been introduced by Charles
-Bray. During 1855 she translated Spinoza's _Ethics_, wrote articles for
+[[Feuerbach]], a philosopher to whom she had been introduced by Charles
+Bray. During 1855 she translated Spinoza's _[[Ethics]]_, wrote articles for
 the _Leader_, the _Westminster Review_, and the _Saturday Review_--then
 a new thing. It was not until the following year that she attempted the
 writing of fiction, and produced _The Sad Fortunes of the Reverend Amos
-Barton_--the first of the _Scenes of Clerical Life_. These, published in
+[[Barton]]_--the first of the _Scenes of Clerical Life_. These, published in
 _Blackwood's Magazine_, were issued in two volumes in 1858. The press in
 general extended a languid welcome to this work, and although the author
 received much encouragement from private sources, notably from Charles
-Dickens, the critics were mostly non-committal, and it was not until the
-publication of _Adam Bede_ in 1859 that enthusiasm was attracted to the
+[[Dickens]], the critics were mostly non-committal, and it was not until the
+publication of _Adam Bede_ in 1859 that [[Enthusiasm|enthusiasm]] was attracted to the
 quality of the earlier production. _Adam Bede_, in the judgment of many
 George Eliot's masterpiece, met with a success (in her own words)
 "triumphantly beyond anything she had dreamed of." In 1860 appeared _The
@@ -105,7 +105,7 @@ the criticism applied to the new novel seems to have been disappointing.
 We find Miss Evans telling her publisher that "she does not wish to see
 any newspaper articles." But the book made its way, and prepared an
 ever-growing army of readers for _Silas Marner_ (1861), _Romola_
-(1862-1863), and _Felix Holt_ (1866).
+(1862-1863), and _[[Felix]] Holt_ (1866).
 
 _Silas Marner_ shows a reversion to her early manner--the manner of
 _Scenes of Clerical Life_. _Romola_, which is what is called an
@@ -119,12 +119,12 @@ authors have produced mechanical books, or books which were mere
 repetitions of their most popular effort, she erred only on the side of
 the ponderous and the distressing. _Felix Holt_ is both, and it is the
 only one of her novels which lacks an unforgettable human note. _The
-Spanish Gypsy_ (1868), a drama in blank verse, received more public
+Spanish Gypsy_ (1868), a [[Drama|drama]] in [[Blank|blank]] verse, received more public
 response than most compositions of the kind executed by those connected
 with the drama or with poetry only; and she published in 1874 another
 volume of verses, _The Legend of Jubal and other Poems_.
 
-Any depression which the author may have felt with regard to the faults
+Any depression which the author may have felt with regard to the [[Fault|faults]]
 found with some of the last-named books was completely cured by the
 praise bestowed on _Middlemarch_ (1872). This profound study of certain
 types of English character was supreme at the time of its writing, and
@@ -132,7 +132,7 @@ it remains supreme, of its school, in European literature. Thackeray is
 brilliant; Tolstoi is vivid to a point where life-likeness overwhelms
 any consideration of art; Balzac created a whole world; George Eliot did
 not create, but her exposition of the upper and middle class minds of
-her day is a masterpiece of scientific psychology. _Daniel Deronda_
+her day is a masterpiece of scientific psychology. _[[Daniel]] Deronda_
 (1876), a production on the same lines, was less satisfactory. It
 exhibited the same human insight, the passionate earnestness, the
 insinuated special pleading for hard cases, the same intellectual
@@ -141,14 +141,14 @@ result, the novel, in spite of its distinction, has never been
 thoroughly liked. The death of Mr Lewes in 1878 was also the death-blow
 to her artistic vitality. She corrected the proofs of _Theophrastus
 Such_ (a collection of essays), but she wrote no more. About two years
-later, however, she married Mr J.W. Cross, a gentleman whose friendship
+later, however, she married Mr J.W. Cross, a [[Gentleman|gentleman]] whose friendship
 was especially congenial to a temperament so abnormally dependent on
 affectionate understanding as George Eliot's. But she never really
 recovered from her shock at the loss of George Lewes, and died at 4
-Cheyne Walk, Chelsea, on the 22nd of December 1880.
+[[Cheyne]] Walk, Chelsea, on the 22nd of December 1880.
 
 No right estimate of her, whether as a woman, an artist or a
-philosopher, can be formed without a steady recollection of her infinite
+philosopher, can be formed without a steady recollection of her [[Infinite|infinite]]
 capacity for mental suffering, and her need of human support. The
 statement that there is no sex in genius, is on the face of it, absurd.
 George Sand, certainly the most independent and dazzling of all women
@@ -158,16 +158,16 @@ feminine in every word and idea. George Eliot, less reckless, less
 romantic than the Frenchwoman, less spiritual than the Spanish saint,
 was more masculine in style than either; but her outlook was not, for a
 moment, the man's outlook; her sincerity, with its odd reserves, was not
-quite the same as a man's sincerity, nor was her humour that genial,
+quite the same as a man's sincerity, nor was her [[Humour|humour]] that genial,
 broad, unequivocal humour which is peculiarly virile. Hers approximated,
-curiously enough, to the satire of Jane Austen, both for its irony and
+curiously enough, to the satire of Jane [[Austen]], both for its [[Irony|irony]] and
 its application to little everyday affairs. Men's humour, in its classic
 manifestations, is on the heroic rather than on the average scale: it is
 for the uncommon situations, not for the daily tea-table.
 
 Her method of attacking a subject shows the influence of Jane Austen,
 especially in parts of _Middlemarch_; one can detect also the stronger
-influence of Mrs Gaskell, of Charlotte Brontë, and of Miss Edgeworth. It
+influence of Mrs [[Gaskell]], of [[Charlotte]] Brontë, and of Miss [[Edgeworth]]. It
 was, however, but an influence, and no more than a man writer, anxious
 to acquire a knowledge of the feminine point of view, might have
 absorbed from a study of these women novelists. One often hears that she
@@ -178,13 +178,13 @@ familiar domestic types, whereas George Eliot excelled in the
 presentation of extraordinary souls. One woman drew members of polite
 society with correct notions, while the other woman depicted social
 rebels with ideas and ideals. In every one of George Eliot's books, the
-protagonists, tortured by dreams of perfection, are in revolt against
-the prudent compromises of the worldly. All through her stories, one
+protagonists, tortured by [[Dream|dreams]] of perfection, are in revolt against
+the prudent [[Compromise|compromises]] of the worldly. All through her stories, one
 hears the clash of "the heroic for earth too high," and the desperate
 philosophy, disguised it is true, of Omar Khayyam. In her day,
 Epicureanism had not reached the life of the people, nor passed into the
 education of the mob. Few dared to confess that the pursuit of pleasure,
-whether real or imagined, was the aim of mankind. The charm of Jane
+whether real or imagined, was the aim of mankind. The [[Charm|charm]] of Jane
 Austen is the charm of the untroubled and well-to-do materialist, who
 sees in a rich marriage, a comfortable house, carriages and an assured
 income the best to strive for; and in a fickle lover of either sex or
@@ -202,14 +202,14 @@ from every individual; and as she advanced in life this claim became the
 more imperative, till at last it overpowered her art, and transformed a
 great delineator of humanity into an eloquent observer with far too many
 personal prejudices. But she was altogether free from cynicism,
-bitterness, or the least tendency to pride of intellect. She suffered
+bitterness, or the least tendency to pride of [[Intellect|intellect]]. She suffered
 from bodily weakness the greater part of her life, and, but for an
 extraordinary mental health--inherited from the fine yeoman stock from
 which she sprang--it is impossible that she could have retained, at all
 times, so sane a view of human conduct, or been the least sentimental
 among women writers of the first rank--the one wholly without morbidity
 in any disguise. The accumulation of mere book knowledge, as opposed to
-the friction of a life spent among all sorts and conditions of men,
+the [[Friction|friction]] of a life spent among all sorts and conditions of men,
 drove George Eliot at last to write as a specialist for specialists: joy
 was lost in the consuming desire for strict accuracy: her genius became
 more and more speculative, less and less emotional. The highly trained
@@ -224,11 +224,11 @@ the greatness of her designs, and the astonishing gifts brought to their
 final accomplishment.
 
   See also the _Life of George Eliot_, edited by J.W. Cross (3 vols.,
-  1885-1887); _George Eliot_, by Sir Leslie Stephen, in the "English Men
+  1885-1887); _George Eliot_, by Sir [[Leslie]] Stephen, in the "English Men
   of Letters" series (1902); by Oscar Browning, "Great Writers" series
   (1890), with a bibliography by J.P. Anderson; by Mathilde Blind,
   "Eminent Women" series, a new edition of which also contains a
-  bibliography (Boston, Mass., 1904).     (P. M. T. C.)
+  bibliography ([[Boston]], Mass., 1904).     (P. M. T. C.)
 
 ## See also
 

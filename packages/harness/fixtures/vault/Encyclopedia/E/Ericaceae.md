@@ -1,8 +1,8 @@
 # Ericaceae
 
 ERICACEAE, in botany, a natural order of plants belonging to the higher
-or gamopetalous division of Dicotyledons. They are woody plants,
-sometimes with a slender creeping stem as in bilberry, _Vaccinium_ (fig.
+or gamopetalous division of [[Dicotyledons]]. They are woody plants,
+sometimes with a slender creeping stem as in [[Bilberry|bilberry]], _Vaccinium_ (fig.
 1), or _Andromeda_ (fig. 2), or forming low bushes as in the heaths, or
 larger, sometimes becoming tree-like, as in species of _Rhododendron_.
 The leaves are alternate, opposite or whorled in arrangement, and in
@@ -12,7 +12,7 @@ the margins often rolled back to form a groove or an almost closed
 chamber on the under side. In others such as _Rhododendron_ or _Arbutus_
 they are often leathery and evergreen, the strongly cuticularized upper
 surface protecting a water-storing tissue situated above the green
-layers of the leaf. The flowers are sometimes solitary and axillary or
+layers of the [[Leaf|leaf]]. The flowers are sometimes solitary and axillary or
 terminal as in _Andromeda_, but are generally arranged in racemose
 inflorescences at the end of the branches as in _Arbutus_ and
 _Rhododendron_, or on small lateral shoots as in _Erica_. They are
@@ -28,13 +28,13 @@ carpels are united to form a 4- to 5-chambered ovary, which bears a
 simple elongated style ending in a capitate stigma; each ovary-chamber
 contains one to many ovules attached to a central placenta. The brightly
 coloured corolla, the presence of nectar and the scent render the
-flowers attractive to insects, and the projection of the stigma beyond
-the anthers favours crossing. The fruit is generally a capsule
+flowers attractive to [[Insect|insects]], and the projection of the stigma beyond
+the anthers favours crossing. The fruit is generally a [[Capsule|capsule]]
 containing many seeds, as in _Erica_ (fig. 3) or _Rhododendron_;
-sometimes a berry as in _Arbutus_.
+sometimes a [[Berry|berry]] as in _Arbutus_.
 
 [Illustration: FIG. 1.--_Vaccinium vitis-idaea_, with leaf and flower,
-nat. size. 1, Flower of _V. myrtillus_, cut lengthwise. 2, Fruit of
+nat. size. 1, [[Flower]] of _V. myrtillus_, cut lengthwise. 2, Fruit of
 same.]
 
 [Illustration: FIG. 2.--_Andromeda Hypnoides_, nat. size. 1, Flower; 2,
@@ -56,25 +56,25 @@ the relative position of the ovary and by the fruit and seed. They are
 as follows:--
 
 1. _Rhododendron tribe_, characterized by capsular fruit, seed with a
-loose coat, deciduous petals and anthers without appendages. It consists
+loose coat, [[Deciduous|deciduous]] petals and anthers without appendages. It consists
 mainly of the great genus _Rhododendron_ (in which _Azalea_ is included
 by recent botanists), which is chiefly developed in the mountains of
-eastern Asia, many species occurring on the Himalayas. _Dabeocia_, St
+eastern Asia, many species occurring on the [[Himalaya|Himalayas]]. _Dabeocia_, St
 Dabeoc's heath, occurs in Ireland.
 
 2. _Arbutus Tribe._--Fruit a berry or capsule, petals deciduous and
-anthers with bristle-like appendages, chiefly north temperate to arctic
+anthers with bristle-like appendages, chiefly north temperate to [[Arctic|arctic]]
 in distribution. _Arbutus Unedo_, the strawberry-tree, so called from
 its large scarlet berry, is a southern European species which extends
 into south Ireland. _Arctostaphylos_ (bearberry) and _Andromeda_ are
 arctic and alpine genera occurring in Britain. _Epigaea repens_ is the
-trailing arbutus or mayflower of Atlantic America.
+trailing arbutus or [[Mayflower|mayflower]] of Atlantic America.
 
 3. _Vaccinium Tribe._--Ovary inferior, fruit a berry. Extends from the
 north temperate zone to the mountains of the tropics. _Vaccinium_, the
 largest genus, has four British species: _V. Myrtillus_ is the bilberry
 (q.v.), blaeberry or whortleberry, _V. Vitis-Idaea_ the cowberry, and
-_V. Oxycoccos_ the cranberry (q.v.). This tribe is sometimes regarded as
+_V. Oxycoccos_ the [[Cranberry|cranberry]] (q.v.). This tribe is sometimes regarded as
 a separate order Vacciniaceae, distinguished by its inferior ovary.
 
 4. _Erica Tribe._--Fruit usually a capsule, seeds round, not winged;
@@ -84,7 +84,7 @@ the great majority of which are confined to the Cape; others occur on
 the mountains of tropical Africa and in Europe and North Africa,
 especially the Mediterranean region. _E. cinerea_ (purple heather) and
 _E. Tetralix_ (cross-leaved heath) are common British heaths. _Calluna_
-is the ling or Scotch heather.
+is the [[Ling|ling]] or Scotch heather.
 
 ## See also
 

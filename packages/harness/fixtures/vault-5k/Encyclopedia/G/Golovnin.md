@@ -14,7 +14,7 @@ born on the 20th of April 1776 in the village of Gulynki in the province
 of Ryazan, and received his education at the Cronstadt naval school.
 From 1801 to 1806 he served as a volunteer in the English navy. In 1807
 he was commissioned by the Russian government to survey the coasts of
-Kamchatka and of Russian America, including also the Kurile Islands.
+[[Kamchatka]] and of Russian America, including also the Kurile Islands.
 Golovnin sailed round the Cape of Good Hope, and on the 5th of October
 1809, arrived in Kamchatka. In 1810, whilst attempting to survey the
 coast of the island of Kunashiri, he was seized by the Japanese, and was
@@ -23,7 +23,7 @@ was liberated, and in the following year he returned to St Petersburg.
 Soon after this the government planned another expedition, which had for
 its object the circumnavigation of the globe by a Russian ship, and
 Golovnin was appointed to the command. He started from St Petersburg on
-the 7th of September 1817, sailed round Cape Horn, and arrived in
+the 7th of September 1817, sailed round Cape [[Horn]], and arrived in
 Kamchatka in the following May. He returned to Europe by way of the Cape
 of Good Hope, and landed at St Petersburg on the 17th of September 1819.
 He died on the 12th of July 1831.

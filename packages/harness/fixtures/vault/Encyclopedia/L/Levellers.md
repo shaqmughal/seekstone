@@ -8,7 +8,7 @@ tags: [poetry, architecture]
 # Levellers
 
 LEVELLERS, the name given to an important political party in England
-during the period of the Civil War and the Commonwealth. The germ of the
+during the period of the Civil War and the [[Commonwealth]]. The germ of the
 Levelling movement must be sought for among the Agitators (q.v.), men of
 strong republican views, and the name Leveller first appears in a letter
 of the 1st of November 1647, although it was undoubtedly in existence as
@@ -21,20 +21,20 @@ The Levellers first became prominent in 1647 during the protracted and
 unsatisfactory negotiations between the king and the parliament, and
 while the relations between the latter and the army were very strained.
 Like the Agitators they were mainly found among the soldiers; they were
-opposed to the existence of kingship, and they feared that Cromwell and
+opposed to the existence of kingship, and they feared that [[Cromwell]] and
 the other parliamentary leaders were too complaisant in their dealings
 with Charles; in fact they doubted their sincerity in this matter. Led
 by John Lilburne (q.v.) they presented a manifesto, _The Case of the
-Army truly stated_, to the commander-in-chief, Lord Fairfax, in October
+Army truly stated_, to the commander-in-chief, Lord [[Fairfax]], in October
 1647. In this they demanded a dissolution of parliament within a year
 and substantial changes in the constitution of future parliaments, which
 were to be regulated by an unalterable "law paramount." In a second
 document, _The Agreement of the People_, they expanded these ideas,
-which were discussed by Cromwell, Ireton and other officers on the one
+which were discussed by Cromwell, [[Ireton]] and other officers on the one
 side, and by John Wildman, Thomas Rainsborough and Edward Sexby for the
 Levellers on the other. But no settlement was made; some of the
 Levellers clamoured for the king's death, and in November 1647, just
-after his flight from Hampton Court to Carisbrooke, they were
+after his flight from Hampton Court to [[Carisbrooke]], they were
 responsible for a mutiny which broke out in two regiments at Corkbush
 Field, near Ware. This, however, was promptly suppressed by Cromwell.
 During the twelve months which immediately preceded the execution of the
@@ -56,7 +56,7 @@ William Walwyn and Prince were arrested. The discontent which was
 spreading in the army was fanned when certain regiments were ordered to
 proceed to Ireland, and in April 1649 there was a meeting in London; but
 this was quickly put down by Fairfax and Cromwell, and its leader,
-Robert Lockyer, was shot. Risings at Burford and at Banbury were also
+Robert [[Lockyer]], was shot. Risings at [[Burford]] and at Banbury were also
 suppressed without any serious difficulty, and the trouble with the
 Levellers was practically over. Gradually they became less prominent,
 but under the Commonwealth they made frequent advances to the exiled
@@ -76,7 +76,7 @@ away "the proper right and title that every man has to what is his own."
 
 Cromwell attacked the Levellers in his speech to parliament in September
 1654 (Carlyle, _Cromwell's Letters and Speeches_, Speech II.). He said:
-"A nobleman, a gentleman, a yeoman; the distinction of these; that is a
+"A nobleman, a [[Gentleman|gentleman]], a yeoman; the distinction of these; that is a
 good interest of the nation, and a great one. The 'natural' magistracy
 of the nation, was it not almost trampled under foot, under despite and
 contempt, by men of Levelling principles? I beseech you, for the orders

@@ -16,7 +16,7 @@ steam, prepare flour, which is forwarded to Moscow and Riga. The trade
 in cattle is very important. Elets has the first grain elevator erected
 in Russia (1887), a railway school, and important tanneries, foundries
 for cast iron and copper, tallow-melting works, limekilns and
-brickworks. The cathedral and two monasteries contain venerated historic
+[[Brickwork|brickworks]]. The cathedral and two monasteries contain venerated historic
 relics.
 
 Elets is first mentioned in 1147, when it was a fort of Ryazan. The

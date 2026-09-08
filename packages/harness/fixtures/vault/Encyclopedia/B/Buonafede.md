@@ -2,7 +2,7 @@
 
 BUONAFEDE, APPIANO (1716-1793), Italian philosopher, was born at Comachio,
 in Ferrara, and died in Rome. He became professor of theology at Naples in
-1740, and, entering the religious body of the Celestines, rose to be
+1740, and, entering the religious body of the [[Celestines]], rose to be
 general of the order. His principal works, generally published under the
 assumed name of "Agatopisto Cromazione," are on the history of
 philosophy:--_Della Istoria e delle Indole di ogni Filosofia_, 7 vols.,

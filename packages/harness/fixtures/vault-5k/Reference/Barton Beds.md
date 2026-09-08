@@ -15,13 +15,13 @@ equivalents of the series.
     Hampshire basin and                       Paris Basin.
       Isle of Wight.
 
-  Barton Sands  140-200 ft. }           { Limestone of St. Ouen.
+  Barton Sands  140-200 ft. }           { [[Limestone]] of St. Ouen.
   Barton Clay   162-255 ft. } Bartonien { Sands of Beauchamp
                                         {   (_sables moyen_).
 
 _Fusus longaevus_, _Volutilithes luctatrix_, _Ostrea gigantea_,
 _Pectunculus (Glycimeris) deleta_ are characteristic fossils; fishes
-(_Lamna_, _Arius_, &c.) and a crocodile (_Diplocynodon_) are also found in
+(_Lamna_, _Arius_, &c.) and a [[Crocodile|crocodile]] (_Diplocynodon_) are also found in
 the Barton Clay. The sands are very pure and are used in glass making.
 
 See "Geology of the Isle of Wight," _Mem. Geol. Survey_ (2nd ed., 1889);

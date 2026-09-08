@@ -8,7 +8,7 @@ Newfoundland. The Gulf Stream is a narrow, deep current, and its
 velocity is estimated at about 80 m. a day. It is joined by, and often
 indistinguishable from, a large body of water which comes from outside
 the West Indies and follows the same course. The term was formerly
-applied to the drift current which carries the mixed waters of the Gulf
+applied to the [[Drift|drift]] current which carries the mixed waters of the Gulf
 Stream and the Labrador current eastwards across the Atlantic. This is
 now usually known as the "Gulf Stream drift," although the name is not
 altogether appropriate. See Atlantic.

@@ -27,7 +27,7 @@ Post-Pliocene "Aral-Caspian deposits," containing the usual fossils
 three of _Adacna_ and _Lithoglyphus caspius_), attain thicknesses
 varying from 105 ft. to 7 or 10 ft., and disappear in places. Lacustrine
 and fluviatile deposits occur intermingled with the above. Large areas
-of moving sands exist near Enotayevsk, where high dunes or _barkhans_
+of moving sands exist near Enotayevsk, where high [[Dunes|dunes]] or _barkhans_
 have been formed. A narrow tract of land along the coast of the Caspian,
 known as the "hillocks of Baer," is covered with hillocks elongated from
 west to east, perpendicularly to the coast-line, the spaces between them
@@ -38,14 +38,14 @@ the N. and N.W. by strings of salt lakes, partly desiccated. Small
 streams originate in the Ergenis, but are lost as soon as they reach the
 lowlands, where water can only be obtained from wells. The scanty
 vegetation is a mixture of the flora of south-east Russia and that of
-the deserts of central Asia. The steppe has an estimated population of
+the [[Desert|deserts]] of central Asia. The steppe has an estimated population of
 130,000 persons, living in over 27,700 _kibitkas_, or felt tents. There
 are over 60 Buddhist monasteries. Part of the Kalmucks are settled
 (chiefly in the hilly parts), the remainder being nomads. They breed
 horses, cattle and sheep, but suffer heavy losses from murrain. Some
 attempts at agriculture and tree-planting are being made. The breeding
 of livestock, fishing, and some domestic trades, chiefly carried on by
-the women, are the principal sources of maintenance.
+the women, are the principal sources of [[Maintenance|maintenance]].
 
   See I. V. Mushketov, _Geol. Researches in the Kalmyk Steppe in
   1884-1885_ (St Petersburg, 1894, in Russian); Kostenkov's works

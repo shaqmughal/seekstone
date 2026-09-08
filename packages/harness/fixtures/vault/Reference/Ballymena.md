@@ -1,9 +1,9 @@
 # Ballymena
 
 BALLYMENA, a town of Co. Antrim, Ireland, in the mid parliamentary
-division, on the Braid, an affluent of the Maine, 2 m. above their
+division, on the [[Braid]], an affluent of the [[Maine]], 2 m. above their
 junction. Pop. of urban district (1901) 10,886. It is 33 m. N.N.W. of
-Belfast on the Northern Counties (Midland) railway. Branch lines run to
+[[Belfast]] on the Northern Counties (Midland) railway. Branch lines run to
 Larne and to Parkmore on the east coast. The town owes its prosperity
 chiefly to its linen trade, introduced in 1733, which gives employment to
 the greater part of the inhabitants. Brown linen is a specialty. Iron ore

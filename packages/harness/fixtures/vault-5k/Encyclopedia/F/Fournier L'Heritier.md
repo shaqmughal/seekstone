@@ -5,14 +5,14 @@ FOURNIER L'HERITIER, CLAUDE (1745-1825), French revolutionist, called
 1745, the son of a poor weaver. He went to America to seek his fortune,
 and started at San Domingo an establishment for making _tafia_ (an
 inferior quality of rum), but lost his money in a fire. Returning to
-France he threw himself into the Revolution with enthusiasm, and
+France he threw himself into the Revolution with [[Enthusiasm|enthusiasm]], and
 specially distinguished himself by the active part he took in the
 organization of the popular armed force by means of which the most
 famous of the revolutionary _coups_ were effected. His influence was
 principally manifested in the insurrections of the 5th and 6th of
 October 1789, the 17th of July 1791, and the 20th of June and the 10th
 of August 1792. He was on bad terms with the majority of the
-politicians, and particularly with Marat, and spent a great part of his
+politicians, and particularly with [[Marat]], and spent a great part of his
 time in prison, all the governments regarding him as an agitator and
 accusing him of inciting to insurrection. Arrested for the first time
 for trying to force an entrance into the club of the Cordeliers, from

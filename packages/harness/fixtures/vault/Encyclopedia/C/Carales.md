@@ -6,12 +6,12 @@ island. Its foundation is generally attributed to the Carthaginians, and
 Punic tombs exist in considerable numbers near the present cemetery on
 the east and still more on the rocky plateau to the north-west of the
 town. It first appears in Roman history in the Second Punic War, and
-probably obtained full Roman civic rights from Julius Caesar. In
+probably obtained full Roman civic rights from [[Julius]] [[Caesar]]. In
 imperial times it was the most important town in the island, mainly
 owing to its fine sheltered harbour, where a detachment of the _classis
 Misenas_ was stationed. In the 4th and 5th centuries it was probably the
 seat of the _praeses Sardiniae_. It is mentioned as an important harbour
-in the Gothic and Gildonic wars. It was also the chief point of the road
+in the [[Gothic]] and Gildonic wars. It was also the chief point of the road
 system of Sardinia. Roads ran hence to Olbia by the east coast, and
 through the centre of the island, to Othoca (Oristano) direct, and
 thence to Olbia (probably the most frequented route), through the mining
@@ -26,7 +26,7 @@ nucleus of the Roman _municipium_ is probably represented by the present
 quarter of the Marina, in which the streets intersect at right angles
 and Roman remains are frequently found in the subsoil. An inscription
 found some way to the north towards the amphitheatre speaks of paving in
-the squares and streets, and of drains constructed under Domitian in
+the squares and streets, and of drains constructed under [[Domitian]] in
 A.D. 83 (F. Vivanet in _Notizie degli Scavi_, 1897, 279). The
 amphitheatre occupies a natural depression in the rock just below the
 acropolis, and open towards the sea with a fine view. Its axes are
@@ -42,10 +42,10 @@ from the shore, the remains of Roman baths, with a fine coloured mosaic
 pavement, representing deities riding on marine monsters, were found in
 1907. To the east was the necropolis of Bonaria, where both Punic and
 Roman tombs exist, and where, on the site of the present cemetery,
-Christian catacombs have been discovered (F. Vivanet in _Notizie degli
+Christian [[Catacomb|catacombs]] have been discovered (F. Vivanet in _Notizie degli
 Scavi_, 1892, 183 seq.; G. Pinza in _Nuovo Bullettino di Archeologia
 Cristiana_, 1901, 61 seq.). But the western quarter seems to have been
-far more important; it extended along the lagoon of S. Gilla (which lies
+far more important; it extended along the [[Lagoon|lagoon]] of S. Gilla (which lies
 to the north-west of the town, and which until the middle ages was an
 open bay) and on the lower slopes of the hill which rises above it. The
 chief discoveries which have been made are noted by Taramelli (loc.
@@ -55,16 +55,16 @@ degli Scavi_, 1876, 148, 173; 1877, 285; 1880, 105, 405). Beyond this
 quarter begins an extensive Roman necropolis extending along the edge of
 the hill north-east of the high road leading to the north-west; the most
 important tomb is the so-called Grotta delle Vipere, the rock-hewn tomb
-of Cassius Philippus and Atilia Pomptilla, the sides of which are
+of [[Cassius]] Philippus and Atilia Pomptilla, the sides of which are
 covered with inscriptions (_Corpus Inscr. Lat._ x., Berlin, 1883, Nos.
 7563-7578). Other tombs are also to be found on the high ground near the
 Punic tombs already mentioned. The latter are hewn perpendicularly in
 the rock, while the Roman tombs are chambers excavated horizontally. In
-the lagoon itself were found a large number of terra cottas, made of
+the lagoon itself were found a large number of terra [[Cotta|cottas]], made of
 local clay, some being masks of both divinities and men (among them
-grotesques) others representing hands and feet, others various animals,
+[[Grotesque|grotesques]]) others representing hands and feet, others various animals,
 and of _amphorae_ of various sizes and other vases. Some of the
-_amphorae_ contained animals' bones, possibly the remains of sacrifices.
+_amphorae_ contained animals' [[Bone|bones]], possibly the remains of sacrifices.
 These objects are of the Punic period; they were all found in groups,
 and had apparently been arranged on a platform of piles in what was then
 a bay, in readiness for shipment (F. Vivanet in _Notizie degli Scavi_,

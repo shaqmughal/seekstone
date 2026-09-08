@@ -23,7 +23,7 @@ plant. For instance, some species of _Philodendron_ have a growth like
 that of ivy, with feeding roots penetrating the soil and clasping roots
 which fix the plant to its support. In other species of the genus the
 seed germinates on a branch, and the seedling produces clasping roots,
-and roots which grow downwards hanging like stout cords, and ultimately
+and roots which grow downwards [[Hanging|hanging]] like stout cords, and ultimately
 reaching the ground. The leaves, which show great variety in size and
 form, are generally broad and net-veined, but in sweet-flag (_Acorus
 Calamus_) are long and narrow with parallel veins. In _Arum_ the blade
@@ -38,7 +38,7 @@ spreading blade. The East Indian genus _Amorphophallus_ has a similar
 habit. A good series of tropical aroids is to be seen in the aroid house
 at Kew. The so-called water cabbage (_Pistia Stratiotes_) is a floating
 plant widely distributed in the tropics, and consisting of rosettes of
-broadish leaves several inches across and a tuft of roots hanging in the
+broadish leaves several [[Inch|inches]] across and a tuft of roots hanging in the
 water.
 
 [Illustration: _Arum maculatum_, Cuckoo-pint.
@@ -51,7 +51,7 @@ water.
   spadix.]
 
 The small flowers are densely crowded on thick fleshy spikes, which are
-associated with, and often more or less enveloped by, a large leaf
+associated with, and often more or less enveloped by, a large [[Leaf|leaf]]
 (bract), the so-called spathe, which, as in cuckoo-pint, where it is
 green in colour, _Richardia_, where it is white, creamy or yellow,
 _Anthurium_, where it is a brilliant scarlet, is often the most striking
@@ -77,7 +77,7 @@ spathe, constricted in the lower part to form a chamber, in which are
 the flowers. The mouth of this chamber is protected by a ring of hairs
 pointing downwards, which allow the entrance but prevent the escape of
 small flies; after fertilization of the pistils the hairs wither. The
-insects visit the plant in large numbers, attracted by the foetid smell,
+[[Insect|insects]] visit the plant in large numbers, attracted by the foetid smell,
 and act as carriers of the pollen from one spathe to another. As the
 fruit ripens the spathe withers, and the brilliant red berries are
 exposed.

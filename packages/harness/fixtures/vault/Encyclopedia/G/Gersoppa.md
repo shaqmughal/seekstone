@@ -7,12 +7,12 @@ type: reference
 
 # Gersoppa
 
-GERSOPPA, FALLS OF, a cataract on the Sharavati river in the North
-Kanara district of Bombay. The falls are considered the finest in India.
+GERSOPPA, FALLS OF, a [[Cataract|cataract]] on the Sharavati river in the North
+[[Kanara]] district of Bombay. The falls are considered the finest in India.
 The river descends in four separate cascades called the Raja or
-Horseshoe, the Roarer, the Rocket and the Dame Blanche. The cliff over
+Horseshoe, the Roarer, the Rocket and the [[Dame]] Blanche. The cliff over
 which the river plunges is 830 ft. high, and the pool at the base of the
-Raja Fall is 132 ft. deep. The falls are reached by boat from Honavar,
+Raja Fall is 132 ft. deep. The falls are reached by boat from [[Honavar]],
 or by road from Gersoppa village, 18 m. distant. Near the village are
 extensive ruins (the finest of which is a cruciform temple) of
 Nagarbastikere, the capital of the Jain chiefs of Gersoppa. Their family

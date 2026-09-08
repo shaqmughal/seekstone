@@ -21,14 +21,14 @@ that no pope should be consecrated until his election had the approval
 of the emperor. A council which assembled at Rome during the reign of
 Eugenius passed several enactments for the restoration of church
 discipline, took measures for the foundation of schools and chapters,
-and decided against priests wearing a secular dress or engaging in
+and decided against priests wearing a secular [[Dress|dress]] or engaging in
 secular occupations. Eugenius also adopted various provisions for the
 care of the poor and of widows and orphans. He died in 827. (L. D.*)
 
 EUGENIUS III. (Bernardo Paganelli), pope from the 15th of February 1145
 to the 8th of July 1153, a native of Pisa, was abbot of the Cistercian
 monastery of St Anastasius at Rome when suddenly elected to succeed
-Lucius II. His friend and instructor, Bernard of Clairvaux, the most
+[[Lucius]] II. His friend and instructor, Bernard of Clairvaux, the most
 influential ecclesiastic of the time, remonstrated against his election
 on account of his "innocence and simplicity," but Bernard soon
 acquiesced and continued to be the mainstay of the papacy throughout
@@ -38,7 +38,7 @@ Roman senators demanded the pope's renunciation of temporal power. He
 refused and fled to Farfa, where he was consecrated on the 17th of
 February. By treaty of December 1145 he recognized the republic under
 his suzerainty, substituted a papal prefect for the "patrician" and
-returned to Rome. The celebrated schismatic, Arnold of Brescia, however,
+returned to Rome. The celebrated schismatic, Arnold of [[Brescia]], however,
 put himself again at the head of the party opposed to the temporal power
 of the papacy, re-established the patricianate, and forced the pope to
 leave Rome. Eugenius had already, on hearing of the fall of Edessa,
@@ -66,11 +66,11 @@ and he was pronounced blessed by Pius IX. in 1872.
   vol. 20.
 
   See J. Langen, _Geschichte der römischen Kirche von Gregor VII. bis
-  Innocenz III_. (Bonn, 1893); F. Gregorovius, _Rome in the Middle
+  Innocenz III_. ([[Bonn]], 1893); F. Gregorovius, _Rome in the Middle
   Ages_, vol. 4, trans. by Mrs G.W. Hamilton (London, 1900-1902); K.J.
   von Hefele, _Conciliengeschichte_, Bd. 5, 2nd ed.; Jaffé-Wattenbach,
   _Regesta pontif_. Roman. (1885-1888); M. Jocham, _Geschichte des
-  Lebens u. der Verehrung des seligen Papstes Eugen III_. (Augsburg,
+  Lebens u. der Verehrung des seligen Papstes Eugen III_. ([[Augsburg]],
   1873); G. Sainati, _Vita del beato Eugenio III_ (Pisa, 1868); J.
   Jastrow and G. Winter, _Deutsche Geschichte im Zeitalter der
   Hohenstaufen_, i. (Stuttgart, 1897); C. Neumann, _Bernhard von
@@ -90,7 +90,7 @@ house of Colonna. But by far the most important feature of Eugenius's
 pontificate was the great struggle between pope and council. On the 23rd
 of July 1431 his legate opened the council of Basel which had been
 convoked by Martin, but, distrustful of its purposes and moved by the
-small attendance, the pope issued a bull on the 18th of December 1431,
+small attendance, the pope issued a [[Bull|bull]] on the 18th of December 1431,
 dissolving the council and calling a new one to meet in eighteen months
 at Bologna. The council refused to dissolve, renewed the revolutionary
 resolutions by which the council of Constance had been declared superior
@@ -110,21 +110,21 @@ elected the ambitious Amadeus VIII., duke of Savoy, antipope under the
 title of Felix V. The conduct of France and Germany seemed to warrant
 this action, for Charles VII. had introduced the decrees of the council
 of Basel, with slight changes, into the former country through the
-Pragmatic Sanction of Bourges (7th of July 1438), and the diet of Mainz
+Pragmatic Sanction of [[Bourges]] (7th of July 1438), and the diet of Mainz
 had deprived the pope of most of his rights in the latter country (26th
 of March 1439). At Florence, whither the council of Ferrara had been
 transferred on account of an outbreak of the plague, was effected in
 July 1439 a union with the Greeks, which, as the result of political
 necessities, proved but temporary. This union was followed by others of
 even less stability. Eugenius signed an agreement with the Armenians on
-the 22nd of November 1439, and with a part of the Jacobites in 1443; and
-in 1445 he received the Nestorians and Maronites. He did his best to
+the 22nd of November 1439, and with a part of the [[Jacobites]] in 1443; and
+in 1445 he received the Nestorians and [[Maronites]]. He did his best to
 stem the Turkish advance, pledging one-fifth of the papal income to the
 crusade which set out in 1443, but which met with overwhelming defeat.
 His rival, Felix V., meanwhile obtained small recognition, and the
 latter's ablest adviser, Aeneas Sylvius Piccolomini, made peace with
 Eugenius in 1442. The pope's recognition of the claims to Naples of King
-Alphonso of Aragon withdrew the last important support from the council
+Alphonso of [[Aragon]] withdrew the last important support from the council
 of Basel, and enabled him to make a victorious entry into Rome on the
 28th of September 1443, after an exile of nearly ten years. His protests
 against the Pragmatic Sanction of Bourges were ineffectual, but by means

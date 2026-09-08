@@ -1,12 +1,12 @@
 # Hesperus
 
 HESPERUS (Gr. [Greek: Hesperos], Lat. Vesper), the evening star, son or
-brother of Atlas. According to Diodorus Siculus (iii. 60, iv. 27), he
+brother of [[Atlas]]. According to Diodorus Siculus (iii. 60, iv. 27), he
 ascended Mount Atlas to observe the motions of the stars, and was
 suddenly swept away by a whirlwind. Ever afterwards he was honoured as a
 god, and the most brilliant star in the heavens was called by his name.
 Although as a mythological personality he is regarded as distinct from
-Phosphoros or Heosphoros (Lat. Lucifer), the morning star or bringer of
+Phosphoros or Heosphoros (Lat. [[Lucifer]]), the morning star or bringer of
 light, the son of Astraeus (or Cephalus) and Eos, the two stars were
 early identified by the Greeks.
 

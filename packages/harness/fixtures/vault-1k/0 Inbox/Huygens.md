@@ -101,7 +101,7 @@ physical optics constitute his chief title-deed to immortality. Although
 Robert Hooke in 1668 and Ignace Pardies in 1672 had adopted a vibratory
 hypothesis of light, the conception was a mere floating possibility
 until Huygens provided it with a sure foundation. His powerful
-scientific imagination enabled him to realize that all the points of a
+scientific [[Imagination|imagination]] enabled him to realize that all the points of a
 wave-front originate partial waves, the aggregate effect of which is to
 reconstitute the primary disturbance at the subsequent stages of its
 advance, thus accomplishing its propagation; so that each primary

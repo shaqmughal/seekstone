@@ -9,10 +9,10 @@ type: article
 
 ANGLESITE, a mineral consisting of lead sulphate, PbSO_{4},
 crystallizing in the orthorhombic system, and isomorphous with
-barytes and celestite. It was first recognized as a mineral species
+[[Barytes|barytes]] and celestite. It was first recognized as a mineral species
 by Dr. Withering in 1783, who discovered it in the Parys copper-mine
 in Anglesey; the name anglesite, from this locality, was given by F.S.
-Beudant in 1832. The crystals from Anglesey, which were formerly found
+[[Beudant]] in 1832. The crystals from Anglesey, which were formerly found
 abundantly on a matrix of dull limonite, are small in size and simple
 in form, being usually bounded by four faces of a prism and four faces
 of a dome; they are brownish-yellow in colour owing to a stain of
@@ -31,7 +31,7 @@ barytes and celestite.
 [Illustration: Anglesite specimen.]
 
 Anglesite is a mineral of secondary origin, having been formed by the
-oxidation of galena in the upper parts of mineral lodes where these
+oxidation of [[Galena|galena]] in the upper parts of mineral lodes where these
 have been affected by weathering processes. At Monteponi the crystals
 encrust cavities in glistening granular galena; and from Leadhills,
 in Scotland, pseudomorphs of anglesite after galena are known. At most

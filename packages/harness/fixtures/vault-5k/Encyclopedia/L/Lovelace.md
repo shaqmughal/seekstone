@@ -18,7 +18,7 @@ improvisations, and merely the amusements of an active soldier. But the
 unhappy course of his life gave him more leisure for verse-making than
 opportunity of soldiering. Before the outbreak of the civil war in 1642
 his only active service was in the bloodless expedition which ended in
-the Pacification of Berwick in 1640. On the conclusion of peace he
+the Pacification of [[Berwick]] in 1640. On the conclusion of peace he
 entered into possession of the family estates at Bethersden, Canterbury,
 Chart and Halden in Kent. By that time he was one of the most
 distinguished of the company of courtly poets gathered round Queen
@@ -37,12 +37,12 @@ security in the hands of his enemies. He contrived, however, to render
 considerable service to the king's cause. He provided his two brothers
 with money to raise men for the Royalist army, and befriended many of
 the king's adherents. He was especially generous to scholars and
-musicians, and among his associates in London were Henry Lawes and John
-Gamble, the Cottons, Sir Peter Lely, Andrew Marvell and probably Sir
+musicians, and among his associates in London were Henry [[Lawes]] and John
+Gamble, the Cottons, Sir Peter Lely, Andrew [[Marvell]] and probably Sir
 John Suckling. He joined the king at Oxford in 1645, and after the
 surrender of the city in 1646 he raised a regiment for the service of
 the French king. He was wounded at the siege of Dunkirk, and with his
-brother Dudley, who had acted as captain in his brother's command,
+brother [[Dudley]], who had acted as captain in his brother's command,
 returned to England in 1648. It is not known whether the brothers took
 any part in the disturbances in Kent of that year, but both were
 imprisoned at Petre House in Aldersgate. During this second imprisonment
@@ -73,13 +73,13 @@ merit to his own collection.
   intricate and discontinuous. These faults--they are not of course to
   be found in his two or three popular lyrics, "Going to the Wars," "To
   Althea from Prison," "The Scrutiny"--are, however, as in the case of
-  his poetical master, Donne, the faults not of haste but of
+  his poetical master, Donne, the [[Fault|faults]] not of haste but of
   over-elaboration. His thoughts are not the first thoughts of an
   improvisatore, but thoughts ten or twenty stages removed from the
   first, and they are generally as closely packed as they are
   far-fetched.
 
-  His poems were edited by W. C. Hazlitt in 1864.
+  His poems were edited by W. C. [[Hazlitt]] in 1864.
 
 ## See also
 

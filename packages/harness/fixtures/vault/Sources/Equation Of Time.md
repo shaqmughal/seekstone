@@ -13,7 +13,7 @@ passage of the mean sun. It goes through a double period in the course
 of a year. Its amount varies a fraction of a minute for the same date,
 from year to year and from one longitude to another, on the same day.
 The following table shows an average value for any date and for the
-Greenwich meridian for a number of years, from which the actual value
+[[Greenwich]] meridian for a number of years, from which the actual value
 will seldom deviate more than 20 seconds until after 1950. The + sign
 indicates that the real sun reaches the meridian _after_ mean noon; the
 - sign _before_ mean noon.

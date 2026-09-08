@@ -10,14 +10,14 @@ type: source
 LANDSEER, SIR EDWIN HENRY (1802-1873), English painter, third son of
 John Landseer, A.R.A., a well-known engraver and writer on art, was born
 at 71 Queen Anne Street East (afterwards 33 Foley Street), London, on
-March 7th 1802. His mother was Miss Potts, who sat to Sir Joshua
+March 7th 1802. His mother was Miss Potts, who sat to Sir [[Joshua]]
 Reynolds as the reaper with a sheaf of corn on her head, in "Macklin's
 Family Picture," or "The Gleaners."[1] Edwin Henry Landseer began his
 artistic education under his father so successfully that in his fifth
 year he drew fairly well, and was familiar with animal character and
 passion. Drawings of his, at South Kensington, dated by his father,
 attest that he drew excellently at eight years of age; at ten he was an
-admirable draughtsman and his work shows considerable sense of humour.
+admirable draughtsman and his work shows considerable sense of [[Humour|humour]].
 At thirteen he drew a majestic St Bernard dog so finely that his brother
 Thomas engraved and published the work. At this date (1815) he sent two
 pictures to the Royal Academy, and was described in the catalogue as
@@ -25,7 +25,7 @@ pictures to the Royal Academy, and was described in the catalogue as
 among practising artists, and caused him to be considered as the
 "Honorary Exhibitor" of "No. 443, Portrait of a Mule," and "No. 584,
 Portraits of a Pointer Bitch and Puppy." Adopting the advice of B. R.
-Haydon, he studied the Elgin Marbles, the animals in the Tower of London
+Haydon, he studied the Elgin [[Marbles]], the animals in the Tower of London
 and Exeter 'Change, and dissected every animal whose carcass he could
 obtain. In 1816 Landseer was admitted a student of the Royal Academy
 schools. In 1817 he sent to the Academy a portrait of "Old Brutus," a
@@ -33,12 +33,12 @@ much-favoured dog, which, as well as its son, another Brutus, often
 appeared in his later pictures. Even at this date Landseer enjoyed
 considerable reputation, and had more work than he could readily
 perform, his renown having been zealously fostered by his father in
-James Elmes's _Annals of the Fine Arts_. At the Academy he was a
+James Elmes's _[[Annals]] of the [[Fine Arts]]_. At the Academy he was a
 diligent student and a favourite of Henry Fuseli's, who would look
 about the crowded antique school and ask, "Where is my curly-headed
 dog-boy?" Although his pictures sold easily from the first, the prices
 he received at this time were comparatively small. In 1818 Landseer sent
-to the Society of Painters in Oil and Water Colours, which then held its
+to the Society of Painters in Oil and Water [[Colours]], which then held its
 exhibitions in Spring Gardens, his picture of "Fighting Dogs getting
 Wind." The sale of this work to Sir George Beaumont vastly enhanced the
 fame of the painter, who soon became "the fashion." This picture
@@ -58,7 +58,7 @@ principal pictures were "The Cat Disturbed"; "Alpine Mastiffs
 reanimating a Distressed Traveller," a famous work engraved by his
 father; "The Ratcatchers"; "Pointers to be"; "The Larder Invaded"; and
 "Neptune," the head and shoulders of a Newfoundland dog. In 1824
-Landseer and C. R. Leslie made a journey to the Highlands--a momentous
+Landseer and C. R. [[Leslie]] made a journey to the Highlands--a momentous
 visit for the former, who thenceforward rarely failed annually to repeat
 it in search of studies and subjects.
 
@@ -75,7 +75,7 @@ this time became a very distinct element in his pictures; ultimately it
 dominated, and in effect the artist enjoyed a greater degree of
 popularity than technical judgment justified, so that later criticism
 has put Landseer's position in art much lower than the place he once
-occupied. Sentiment gave new charm to his works, which had previously
+occupied. Sentiment gave new [[Charm|charm]] to his works, which had previously
 depended on the expression of animal passion and character, and the
 exhibition of noble qualities of draughtsmanship. Sentimentality ruled
 in not a few pictures of later dates, and _quasi_-human humour, or
@@ -112,12 +112,12 @@ were exhibited in 1833. In 1834 a noble work of sentiment was given to
 the world in "Suspense," which is now at South Kensington, and shows a
 dog watching at the closed door of his wounded master. Many think this
 to be Landseer's finest work, others prefer "The Old Shepherd's Chief
-Mourner" (1837). The over-praised and unfortunate "Bolton Abbey in the
+Mourner" (1837). The over-praised and unfortunate "[[Bolton]] Abbey in the
 Olden Time," a group of portraits in character, was also shown in 1834,
 and was the first picture for which the painter received £400. A few
 years later he sold "Peace" and "War" for £1500, and for the copyrights
 alone obtained £6000. In 1881 "Man proposes, God Disposes" (1864) was
-resold for 6300 guineas, and a cartoon of "The Chase" (1866) fetched
+resold for 6300 guineas, and a [[Cartoon|cartoon]] of "The Chase" (1866) fetched
 5000 guineas. "A Distinguished Member of the Humane Society," a dog
 reclining on a quay wall (1838), was succeeded by "Dignity and
 Impudence" (1839). The "Lion Dog of Malta," and "Laying down the Law"
@@ -140,15 +140,15 @@ came in due order (1853). For "The Sanctuary" (1842) the Fine Arts jury
 of experts awarded to the artist the great gold medal of the Exposition
 Universelle, Paris, 1855.
 
-The "Dialogue at Waterloo" (1850), which he afterwards regarded with
+The "[[Dialogue]] at Waterloo" (1850), which he afterwards regarded with
 strong disapproval, showed how Landseer, like nearly all English artists
 of original power and considerable fertility, owed nothing to French or
 Italian training. In the same year he received the honour of knighthood.
-Next came "Geneva" (1851), "Titania and Bottom" (1851), which comprises
+Next came "[[Geneva]]" (1851), "Titania and Bottom" (1851), which comprises
 a charming queen of the fairies, and the "Deer Pass" (1852), followed by
 "The Children of the Mist" (1853), "Saved" (1856), "Braemar," a noble
 stag, "Rough and Ready," and "Uncle Tom and his Wife for Sale" (1857).
-"The Maid and the Magpie" (1858), the extraordinarily large cartoon
+"The Maid and the [[Magpie]]" (1858), the extraordinarily large cartoon
 called "Deer Browsing" (1857), "The Twa Dogs" (1858), and one or two
 minor paintings were equal to any previously produced by the artist.
 Nevertheless, signs of failing health were remarked in "Doubtful Crumbs"

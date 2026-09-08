@@ -11,9 +11,9 @@ statesman, was one of the few distinguished Athenians in the period of
 decline. He is first heard of in 322, when he spoke in vain against the
 surrender of Demosthenes and the other anti-Macedonian orators demanded
 by Antipater. During the next fifteen years he probably lived in exile.
-On the restoration of the democracy by Demetrius Poliorcetes in 307 he
+On the restoration of the democracy by [[Demetrius]] Poliorcetes in 307 he
 occupied a prominent position, but was banished in 303 for having
-ridiculed the decree of Stratocles, which contained a fulsome eulogy of
+ridiculed the [[Decree|decree]] of Stratocles, which contained a fulsome eulogy of
 Demetrius. He was recalled in 298, and during the next four years[1]
 fortified and equipped the city with provisions and ammunition. In 296
 (or 295) he was again banished for having concluded an alliance with the

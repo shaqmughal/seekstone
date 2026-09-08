@@ -8,13 +8,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Gambier"
 # Gambier
 
 GAMBIER, JAMES GAMBIER, BARON (1756-1833), English admiral, was born on
-the 13th of October 1756 at the Bahamas, of which his father, John
+the 13th of October 1756 at the [[Bahamas]], of which his father, John
 Gambier, was at that time lieutenant-governor. He entered the navy in
 1767 as a midshipman on board the "Yarmouth," under the command of his
 uncle; and, his family interest obtaining for him rapid promotion, he
 was raised in 1778 to the rank cf post-captain, and appointed to the
-"Raleigh," a fine 32-gun frigate. At the peace of 1783 he was placed on
-half-pay; but, on the outbreak of the war of the French Revolution, he
+"Raleigh," a fine 32-gun [[Frigate|frigate]]. At the peace of 1783 he was placed on
+half-pay; but, on the outbreak of the war of the [[French Revolution]], he
 was appointed to the command of the 74-gun ship "Defence," under Lord
 Howe; and in her he had an honourable share in the battle on the 1st of
 June 1794. In recognition of his services on this occasion, Captain
@@ -22,7 +22,7 @@ Gambier received the gold medal, and was made a colonel of marines; the
 following year he was advanced to the rank of rear-admiral, and
 appointed one of the lords of the admiralty. In this office he continued
 for six years, till, in February 1801, he, a vice-admiral of 1799,
-hoisted his flag on board the "Neptune," of 98 guns, as third in command
+hoisted his [[Flag|flag]] on board the "Neptune," of 98 guns, as third in command
 of the Channel Fleet under Admiral Cornwallis, where, however, he
 remained for but a year, when he was appointed governor of Newfoundland
 and commander-in-chief of the ships on that station. In May 1804 he
@@ -32,7 +32,7 @@ uncle, Lord Barham, and of Lord Mulgrave. In November 1805 he was raised
 to the rank of admiral; and in the summer of 1807, whilst still a lord
 of the admiralty, he was appointed to the command of the fleet ordered
 to the Baltic, which, in concert with the army under Lord Cathcart,
-reduced Copenhagen, and enforced the surrender of the Danish navy,
+reduced [[Copenhagen]], and enforced the surrender of the Danish navy,
 consisting of nineteen ships of the line, besides frigates, sloops,
 gunboats, and naval stores. This service was considered by the
 government as worthy of special acknowledgment; the naval and military
@@ -65,7 +65,7 @@ for his exertions in which business he was honoured with the Grand Cross
 of the Bath. In 1830 he was raised to the high rank of admiral of the
 fleet, and he died on the 19th of April 1833.
 
-Lord Gambier was a man of earnest, almost morbid, religious principle,
+Lord Gambier was a man of [[Earnest|earnest]], almost morbid, religious principle,
 and of undoubted courage; but the administration of the admiralty has
 seldom given rise to such flagrant scandals as during the time when he
 was a member of it; and through the whole war the self-esteem of the

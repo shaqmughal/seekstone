@@ -21,7 +21,7 @@ several school manuals. In 1515 he was at Bologna, hearing (with
 disgust) Eck's famous disputation against usury, and associating with
 Ulrich von Hutten and humanists. He took his doctor's degree at Ferrara
 (1517), and spent some time in Rome, where he was ordained priest. In
-1520 he became dean of the Liebfrauenkirche at Frankfort, where he first
+1520 he became dean of the Liebfrauenkirche at [[Frankfort]], where he first
 entered the lists as a controversialist against the party of Luther,
 developing that bitter hatred to the Reformation which animated his
 forceful but shallow ascription of the movement to the meanest motives,

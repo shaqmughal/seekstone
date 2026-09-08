@@ -6,10 +6,10 @@ Francisca Josefa Boehl de Faber y Larrea. Born at Morges in Switzerland on
 the 24th of December 1796, she was the daughter of Johan Nikolas Boehl von
 Faber, a Hamburg merchant, who lived long in Spain, married a native of
 Cadiz, and is creditably known to students of Spanish literature as the
-editor of the _Floresta de rimas antiguas castellanas_ (1821-1825), and the
+editor of the _Floresta de rimas [[Antigua|antiguas]] castellanas_ (1821-1825), and the
 _Teatro espanol anterior a Lope de Vega_ (1832). Educated principally at
 Hamburg, she visited Spain in 1815, and, unfortunately for herself, in 1816
-married Antonio Planells y Bardaxi, an infantry captain of bad character.
+married [[Antonio]] Planells y Bardaxi, an infantry captain of bad character.
 In the following year Planells was killed in action, and in 1822 the young
 widow married Francisco Ruiz del Arco, marques de Arco Hermoso, an officer
 in one of the Spanish household regiments. Upon the death of Arco Hermoso
@@ -27,7 +27,7 @@ favour. Ochoa, a prominent critic of the day, ratified the popular
 judgment, and hopefully proclaimed the writer to be a rival of Scott. No
 other Spanish book of the 19th century has obtained such instant and
 universal recognition. It was translated into most European languages, and,
-though it scarcely seems to deserve the intense enthusiasm which it
+though it scarcely seems to deserve the intense [[Enthusiasm|enthusiasm]] which it
 excited, it is the best of its author's works, with the possible exception
 of _La Familia de Alvareda_ (which was written, first of all, in German).
 Less successful attempts are _Lady Virginia_ and _Clemencia_; but the short
@@ -42,7 +42,7 @@ brought to bear not alone a fine natural gift of observation, but a
 freshness of vision, undulled by long familiarity. She combined the
 advantages of being both a foreigner and a native. In later publications
 she insisted too emphatically upon the moral lesson, and lost much of her
-primitive simplicity and charm; but we may believe her statement that,
+primitive simplicity and [[Charm|charm]]; but we may believe her statement that,
 though she occasionally idealized circumstances, she was conscientious in
 choosing for her themes subjects which had occurred in her own experience.
 Hence she may be regarded as a pioneer in the realistic field, and this

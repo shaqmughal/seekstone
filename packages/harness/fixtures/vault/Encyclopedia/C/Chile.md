@@ -3,15 +3,15 @@
 CHILE, or CHILI (derived, it is said, from the Quichua _chiri_, cold, or
 _tchili_, snow), a republic of South America, occupying the narrow
 western slope of the continent between Peru and its southern extremity.
-(For map see ARGENTINA.) It extends from the northern boundary of the
-province of Tacna, about 17° 25' S., to Cape Horn at the extreme
+(For [[Map|map]] see [[Argentina|ARGENTINA]].) It extends from the northern boundary of the
+province of Tacna, about 17° 25' S., to Cape [[Horn]] at the extreme
 southern point of the Fuegian archipelago in 55° 58' 40'' S., with an
 extreme meridian length of 2661 m., and with a coast line considerably
 exceeding that figure owing to a westward curve of about 3-1/2° and an
 eastward trend south of 50° S. of nearly 8°. Its mainland width ranges
 from about 46 to 228 m., and its area, including the islands of the
 southern coast, is officially computed to be 307,774 sq. m., though the
-Gotha computation (1904) places it at 293,062 sq. m. Chile is thus a
+[[Gotha]] computation (1904) places it at 293,062 sq. m. Chile is thus a
 ribbon-like strip of territory between the Andes and the Pacific,
 comparatively regular north of the 42nd parallel, but with an extremely
 ragged outline south of that line. It is bounded N. by Peru, E. by
@@ -19,7 +19,7 @@ Bolivia and Argentina, S. and W. by the Pacific. Its eastern boundary
 lines are described under ARGENTINA and BOLIVIA. The war of 1879-81 with
 Peru and Bolivia gave to Chile 73,993 sq. m. of territory, or one-fourth
 her total area. By subsequent agreements the Bolivian department of the
-Literal, or Atacama, and the Peruvian department of Tarapacá, were
+Literal, or [[Atacama]], and the Peruvian department of Tarapacá, were
 formally ceded to Chile, and the northern frontier was removed to the
 river Camarones, which enters the Pacific at 19° 12' S. Under the treaty
 of Ancon (20th October 1883) Chile was to retain possession of the
@@ -35,12 +35,12 @@ from the remaining part of the Peruvian department of Moquegua. Starting
 from the mouth of that river, in 17° 57' S., the disputed boundary
 follows its course in an irregular N.E. direction to its source in the
 Alto do Toledo range, thence S. and E. along the water parting to the
-Bolivian boundary line in the Cordillera Silillica.
+Bolivian boundary line in the [[Cordillera]] Silillica.
 
   _Physiography._--For purposes of general topographical description
-  Chile may be divided into three regions: the desert region of the
+  Chile may be divided into three regions: the [[Desert|desert]] region of the
   north, the central agricultural region between the provinces of
-  Coquimbo and Llanquihue, and the heavily-forested rainy region south
+  [[Coquimbo]] and [[Llanquihue]], and the heavily-forested rainy region south
   of lat. 41° S. The desert region is an elevated arid plateau
   descending gradually from the Andes towards the coast, where it breaks
   down abruptly from elevations of 800 to 1500 ft. From the sea this
@@ -57,7 +57,7 @@ Bolivian boundary line in the Cordillera Silillica.
   thirsty sands. It is very rich in mineral and saline deposits,
   however. The eastern parts of this region lie within the higher ranges
   of the Andes and include a large district awarded to Chile in 1899
-  (see ARGENTINA and ATACAMA). This arid, bleak area is apparently a
+  (see ARGENTINA and ATACAMA). This arid, [[Bleak|bleak]] area is apparently a
   continuation southward of the great Bolivian _altaplanicie_, and is
   known as the Puna de Atacama. Its average elevation is estimated at
   11,000 to 12,000 ft. A line of volcanoes crosses it from north to
@@ -84,21 +84,21 @@ Bolivian boundary line in the Cordillera Silillica.
   productiveness. It slopes toward the south, and its lower levels are
   filled with lakes and with depressions where lakes formerly existed.
   It is an alluvial plain for the greater part, but contains some sandy
-  tracts, as in Ñuble and Arauco; in the north very little natural
+  tracts, as in Ñuble and [[Arauco]]; in the north very little natural
   forest is found except in the valleys and on the slopes of the
   enclosing mountain ranges, but in the south, where the rainfall is
   heavier, the plain is well covered with forest. South of 41° S. the
   country is mountainous, heavily-forested and inhospitable. There are
-  only a few scattered settlements within its borders, and a few nomadic
+  only a few scattered settlements within its [[Borders|borders]], and a few nomadic
   tribes of savages eke out a miserable existence on the coast. The
   deeply-indented coast line is filled with islands which preserve the
   general outline of the continent southward to the Fuegian archipelago,
   the outside groups forming a continuation of the Cordillera Maritima.
   The heavy and continuous rainfall throughout this region, especially
-  in the latitude of Chiloé, gives rise to a large number of rivers and
+  in the [[Latitude|latitude]] of Chiloé, gives rise to a large number of rivers and
   lakes. Farther south this excessive precipitation is in the form of
   snow in the Cordilleras, forming glaciers at a comparatively low level
-  which in places discharge into the inlets and bays of the sea. The
+  which in places [[Discharge|discharge]] into the inlets and bays of the sea. The
   extreme southern part of this region extends eastward to the Atlantic
   entrance to the Straits of Magellan, and includes the greater part of
   the large island of Tierra del Fuego with all the islands lying south
@@ -128,7 +128,7 @@ Bolivian boundary line in the Cordillera Silillica.
   a slope as to be navigable. The Andes, however, present an unbroken
   barrier on the east, except at a few points in the south where the
   general elevation is not over 5000 to 6000 ft., and where some of the
-  Chilean rivers, as the Palena and Las Heras, have their sources on its
+  Chilean rivers, as the Palena and Las [[Hera|Heras]], have their sources on its
   eastern side. From the 52nd to about the 31st parallel this great
   mountain system, known locally as the Cordillera de los Andes,
   apparently consists of a single chain, though in reality it includes
@@ -138,7 +138,7 @@ Bolivian boundary line in the Cordillera Silillica.
   Chilean lateral range, which extends from the 29th to the 19th
   parallels, traverses an elevated desert region and possesses several
   noteworthy peaks, among which are Cerro Bolson, 16,017 ft., and Cerro
-  Dona Ines, 16,706 ft. It is broken to some extent in crossing the
+  Dona [[Ine|Ines]], 16,706 ft. It is broken to some extent in crossing the
   province of Antofagasta, the southern division being known as the
   Sierra de Huatacondo. At the southern frontier of Bolivia the main
   chain, which has served as the boundary line between Argentina and
@@ -178,17 +178,17 @@ Bolivian boundary line in the Cordillera Silillica.
   western coast region, to frequent volcanic and seismic disturbances.
   In some instances since European occupation, violent earthquake shocks
   have resulted in considerable elevations of certain parts of the
-  coast. After the great earthquake of 1835 Captain Robert FitzRoy
+  coast. After the great earthquake of 1835 Captain Robert [[Fitzroy|FitzRoy]]
   (1805-1865) of H.M.S. "Beagle" found putrid mussel-shells still
   adhering to the rocks 10 ft. above high water on the island of Santa
-  Maria, 30 m. from Concepción, and Charles Darwin declares, in
+  Maria, 30 m. from Concepción, and Charles [[Darwin]] declares, in
   describing that disaster, that "there can be no doubt that the land
   round the bay of Concepción was upraised two or three feet." These
   upheavals, however, are not always permanent, the upraised land
   sometimes settling back to its former position. This happened on the
   island of Santa Maria after 1835. The existence of sea-shells at
   elevations of 350 to 1300 ft. in other parts of the republic shows
-  that these forces, supplemented by a gradual uplifting of the coast,
+  that these forces, supplemented by a [[Gradual|gradual]] uplifting of the coast,
   have been in operation through long periods of time and that the
   greater part of central and southern Chile has been raised from the
   sea in this way. These earthquake shocks have two distinct
@@ -258,9 +258,9 @@ Bolivian boundary line in the Cordillera Silillica.
   in length, separate another series of archipelagoes from the mainland.
   These channels are in places narrow and tortuous. Among the islands
   which thickly fringe this part of the coast, the largest are Azopardo
-  (lying within Baker Inlet), Prince Henry, Campaña, Little Wellington,
+  (lying within [[Baker]] Inlet), Prince Henry, Campaña, Little Wellington,
   Great Wellington and Mornington (of the Wellington archipelago), Madre
-  de Dios, Duke of York, Chatham, Hanover, Cambridge, Contreras, Rennell
+  de Dios, Duke of York, [[Chatham]], [[Hanover]], Cambridge, Contreras, Rennell
   and the Queen Adelaide group of small barren rocks and islands lying
   immediately north of the Pacific entrance to the Straits of Magellan.
   The large number of English names on this coast is due to the fact
@@ -278,8 +278,8 @@ Bolivian boundary line in the Cordillera Silillica.
   when these inland waters were first explored in 1829 by Captain
   FitzRoy, but it was not discovered and surveyed until three-quarters
   of a century had elapsed. Belonging to the Fuegian group south of the
-  Straits of Magellan are Desolation, Santa Ines, Clarence, Dawson,
-  Londonderry, Hoste, Navarin and Wollaston islands, with innumerable
+  Straits of Magellan are Desolation, Santa Ines, [[Clarence]], [[Dawson]],
+  Londonderry, [[Hoste]], Navarin and Wollaston islands, with innumerable
   smaller islands and rocks fringing their shores and filling the
   channels between them. Admirable descriptions of this inhospitable
   region, the farthest south of the inhabited parts of the globe, may be
@@ -290,21 +290,21 @@ Bolivian boundary line in the Cordillera Silillica.
   The western and larger part of Tierra del Fuego (q.v.) belongs to
   Chile. About 63 m. S.W. of Cape Horn, in lat. 56° 25' S., is the Diego
   Ramirez group of small, rocky islands, the most southern possession of
-  the republic. Its westernmost possessions are Sala-y-Gomez and Easter
+  the republic. Its westernmost possessions are Sala-y-Gomez and [[Easter]]
   islands, the former in about 27° S., 105° W., and the latter, the
   easternmost inhabited Polynesian island, in 27° 6' S., 109° 17' W.
   Much nearer the Chilean coast (396 m.), lying between the 33rd and
-  34th parallels, are the three islands of the Juan Fernandez group, and
+  34th parallels, are the three islands of the Juan [[Fernandez]] group, and
   rising apparently from the same submerged plateau about 500 m. farther
   north of the latter are the rocky islets of San Ambrosio and San
-  Felix, all belonging to Chile. North of Chiloé there are few islands
+  [[Felix]], all belonging to Chile. North of Chiloé there are few islands
   in close proximity to the coast. The more important of these are La
   Mocha, off the southern coast of Arauco, in lat. 38° 20' S., which is
   8 m. long and rises to an elevation of 1240 ft. above the sea; Santa
   Maria, 30 m. south-west of Concepcion, which partially encloses the
   Bay of Arauco and is well cultivated; and Quiriquina, lying off the
   port of Talcahuano in the entrance to Concepción bay. There are a few
-  barren islands on the desert coast, the largest of which are between
+  [[Barren Island|barren islands]] on the desert coast, the largest of which are between
   Coquimbo and Caldera. Since the removal of their guano deposits they
   have become practically worthless, except where they serve to shelter
   anchorages.
@@ -318,10 +318,10 @@ Bolivian boundary line in the Cordillera Silillica.
   of land, or small island. The landings are generally dangerous because
   of the surf, and the anchorages are unsafe from storms on the
   unprotected side. Among the most frequented of these are Valparaiso,
-  Coquimbo, Caldera, Iquique and Arica. There are some small harbours
-  for coasting vessels of light draught along the coast of central
+  Coquimbo, Caldera, [[Iquique]] and Arica. There are some small harbours
+  for [[Coasting|coasting]] vessels of light draught along the coast of central
   Chile, usually at the partially obstructed mouths of the larger
-  rivers, as San Antonio near the mouth of the Maipó, Constitución at
+  rivers, as San [[Antonio]] near the mouth of the Maipó, Constitución at
   the mouth of the Maule, and Llico on the outlet of Lake Vichuquen, but
   there is no harbour of importance until Conceptión (or Talcahuano) Bay
   is reached. There are three harbours on this bay, El Tomé, Penco and
@@ -330,7 +330,7 @@ Bolivian boundary line in the Cordillera Silillica.
   bay is the large Bay of Arauco, into which the Bio-Bio river
   discharges, and on which, sheltered by the island of Santa Maria, are
   the ports of Coronel and Lota. The next important harbour is that of
-  El Corral, at the mouth of the Valdivia river and 15 m. below the
+  El [[Corral]], at the mouth of the Valdivia river and 15 m. below the
   city of Valdivia. The Bay of San Carlos on the northern coast of
   Chiloé, which opens upon the narrow Chacao channel, has the port of
   Ancud, or San Carlos, and is rated an excellent harbour for vessels of
@@ -355,13 +355,13 @@ Bolivian boundary line in the Cordillera Silillica.
   Last Hope Inlet (Ultima Esperanza), on which is situated the Chilean
   agricultural colony of Puerto Consuelo. The Straits of Magellan, about
   360 m. in length, lie wholly within Chilean territory. Midway of them
-  is situated Punta Arenas, the most southern town and port of the
+  is situated Punta [[Arena|Arenas]], the most southern town and port of the
   republic.
 
 
     Rivers.
 
-  Except in the extreme south the hydrography of Chile is of the
+  Except in the extreme south the [[Hydrography|hydrography]] of Chile is of the
   simplest description, all the larger rivers having their sources in
   the Andes and flowing westward to the Pacific. Their courses are
   necessarily short, and only a few have navigable channels, the
@@ -413,11 +413,11 @@ Bolivian boundary line in the Cordillera Silillica.
   of the peaks of Chillan and flows entirely across the province of
   Ñuble to join the Itata on its western frontier; the Laja, which rises
   in a lake of the same name near the Argentine frontier in about lat.
-  35° 30' S. and flows almost due west to the Bio-Bio; and the Cautin,
+  35° 30' S. and flows almost due west to the Bio-Bio; and the [[Cautin]],
   which rises in the north-east corner of Cautin and after a tortuous
   course westward nearly across that province forms the principal
   confluent of the Imperial. The unsettled southern regions of Chiloé
-  (mainland) and Magallanes are traversed by a number of important
+  (mainland) and [[Magallanes]] are traversed by a number of important
   rivers which have been only partially explored. They have their
   sources in the Andes, some of them on the eastern side of the line of
   highest summits. The Puelo has its origin in a lake of the same name
@@ -469,12 +469,12 @@ Bolivian boundary line in the Cordillera Silillica.
   short range of mountains in which are found the Cerros San Valentin
   and Arenales forcing it southward for an outlet. Baker Inlet also
   receives the waters of still another large Argentine-Chilean lake, San
-  Martin, whose far-reaching fjord-like arms extend from lat. 49° 10' to
+  [[Martin]], whose far-reaching fjord-like arms extend from lat. 49° 10' to
   48° 20' S.; its north-west arm drains into the Tero, or La Pascua,
   river. Lake San Martin lies in a crooked deeply cut passage through
-  the Andes, and the divide between its southern extremity (Laguna Tar)
+  the Andes, and the divide between its southern extremity ([[Laguna]] Tar)
   and Lake Viedma, which discharges through the Santa Cruz river into
-  the Atlantic, is so slight as to warrant the hypothesis that this was
+  the Atlantic, is so slight as to warrant the [[Hypothesis|hypothesis]] that this was
   once a strait between the two oceans. After a short north-westerly
   course the Toro discharges into Baker Inlet in lat. 48° 15' S., long.
   73° 24' W. South of the Toro there are no large rivers on this coast,
@@ -502,7 +502,7 @@ Bolivian boundary line in the Cordillera Silillica.
 
   The lakes of Chile are numerous and important, but they are found
   chiefly in the southern half of the republic. In the north the only
-  lakes are large lagoons, or morasses, on the upper saline plateaus
+  lakes are large [[Lagoon|lagoons]], or morasses, on the upper saline plateaus
   between the 23rd and 28th parallels. They are fed from the melting
   snows and periodical storms of the higher Andes, and most of them are
   completely dry part of the year. Their waters are saturated with
@@ -551,7 +551,7 @@ Bolivian boundary line in the Cordillera Silillica.
   along the coast, extending as far as Cape Horn and Staten Island, and
   occupying the greater part of the islands of southern Chile.
   Lithologically they are crystalline schists, together with granite,
-  diorite, gabbro and other igneous rocks. They are known to be
+  [[Diorite|diorite]], [[Gabbro|gabbro]] and other igneous rocks. They are known to be
   pre-Jurassic, but whether they are Palaeozoic or Archaean is
   uncertain. They are strongly folded and are overlaid unconformably by
   Cretaceous and Tertiary deposits. In the north both the Cretaceous and
@@ -563,9 +563,9 @@ Bolivian boundary line in the Cordillera Silillica.
   plateaus of horizontal Tertiary strata.
 
   The Chilean Andes correspond with the Western Cordillera of Bolivia
-  and Peru, and consist almost entirely of Jurassic and Cretaceous beds,
+  and Peru, and consist almost entirely of [[Jurassic]] and Cretaceous beds,
   together with the products of the Tertiary eruptions. The Mesozoic
-  beds are thrown into a series of parallel folds which run in the
+  beds are thrown into a series of parallel [[Fold|folds]] which run in the
   direction of the chain and which are generally free from any
   complications such as overthrusting or overfolding. The Cretaceous
   beds form a synclinal upon the eastern side of the chain (and, in
@@ -575,15 +575,15 @@ Bolivian boundary line in the Cordillera Silillica.
   igneous rocks of Tertiary age, and upon the folded Mesozoic foundation
   rise the volcanic cones of Tertiary and later date. The Trias is known
   only at La Ternera near Copiapó, where coal-seams with Rhaetic plants
-  have been found; but the rest of the Mesozoic series, from the Lias to
+  have been found; but the rest of the Mesozoic series, from the [[Lias]] to
   the Upper Cretaceous, appears to be represented without a break of
   more than local importance. The deposits are marine, consisting mainly
-  of sandstone and limestone, together with tuffs and conglomerates of
+  of sandstone and [[Limestone|limestone]], together with tuffs and conglomerates of
   porphyry and porphyrite. These porphyritic rocks form a characteristic
   feature of the southern Andes, and were at one time supposed to be
   metamorphic; but they are certainly volcanic, and as they contain
   marine fossils they must have been laid down beneath the sea. They are
-  not confined to any one horizon, but occur irregularly throughout the
+  not confined to any one [[Horizon|horizon]], but occur irregularly throughout the
   Jurassic and occasionally also amongst the Cretaceous strata. They
   form, in fact, a special facies which may frequently be traced
   laterally into the more normal marine deposit of the same age. The
@@ -593,7 +593,7 @@ Bolivian boundary line in the Cordillera Silillica.
   lends no support to Neumayr's theory of climatic zones. A large part
   of the chain is covered by the products of the great volcanoes which
   still form the highest summits of the Chilean and Argentine Andes. The
-  rocks are liparites, dacites, hornblende and pyroxene andesites. The
+  rocks are liparites, dacites, [[Hornblende|hornblende]] and pyroxene andesites. The
   recent lavas of the still active volcanoes of the south are
   olivine-bearing hypersthene-andesite and basalt.[1]
 
@@ -607,7 +607,7 @@ Bolivian boundary line in the Cordillera Silillica.
   so great as in corresponding latitudes of the northern hemisphere,
   because of the greater expanse of water in comparison with the land
   areas, the summers being cooler and the winters warmer. The cold
-  antarctic, or Humboldt, current sweeps northward along the coast and
+  antarctic, or [[Humboldt]], current sweeps northward along the coast and
   greatly modifies the heat of the arid, tropical plateaus. The climate
   of northern and central Chile is profoundly affected by the high
   mountain barrier on the eastern frontier and by the broad treeless
@@ -649,7 +649,7 @@ Bolivian boundary line in the Cordillera Silillica.
   temperatures, the mean for January being 56.5° and the mean for July
   45.9°. The almost continual cloudiness is undoubtedly a principal
   cause, not only of the low summer temperatures, but also of the
-  comparatively high winter temperatures. Frosts are infrequent, and
+  comparatively high winter temperatures. [[Frost|Frosts]] are infrequent, and
   snow does not lie long. The climate is considered to be healthful
   notwithstanding the excessive humidity. The 600 m. of coast from the
   Chonos Archipelago south to the Fuegian islands have a climate closely
@@ -680,7 +680,7 @@ Bolivian boundary line in the Cordillera Silillica.
 
   _Flora_.--The indigenous flora of Chile is less extensive and less
   interesting than those of Argentina and Brazil, but contains many
-  peculiar genera and species. A classification of this flora
+  peculiar genera and species. A [[Classification|classification]] of this flora
   necessitates its division into at least three general zones--the
   desert provinces of the north, central Chile, and the humid regions of
   the south. The first is an arid desert absolutely barren along part of
@@ -703,12 +703,12 @@ Bolivian boundary line in the Cordillera Silillica.
   a species of _Skytanthus_. Near the sierras where irrigation is
   possible, fruit-growing is so successful, especially the grape and
   fig, that the product is considered the best in Chile. In regard to
-  the indigenous flora of this region John Ball[2] says: "The species
+  the indigenous flora of this region John [[Ball]][2] says: "The species
   which grow here are the more or less modified representatives of
   plants which at some former period existed under very different
   conditions of life." Proceeding southward cacti become common, first a
   dwarfed species, and then a larger columnar form (_Cereus quisco_).
-  The streams are fringed with willows; fruit trees and alfalfa fields
+  The streams are fringed with willows; fruit trees and alfalfa [[Fields|fields]]
   fill the irrigated valleys, and the lower mountain slopes are better
   covered with a thorny arborescent growth. The divides between the
   streams, however, continue barren as far south as the transverse
@@ -731,7 +731,7 @@ Bolivian boundary line in the Cordillera Silillica.
   (_Jubaea spectabilis_) was to be found throughout this part of Chile,
   but it has been almost completely destroyed for its saccharine sap,
   from which a treacle was made. One of the most striking forest trees
-  is the _pehuen_ or Chilean pine (_Araucaria imbricata_), which often
+  is the _pehuen_ or Chilean pine (_[[Araucaria]] imbricata_), which often
   grows to a height of 100 ft. and is prized by the natives for its
   fruit. Three indigenous species of the beech--the _roble_ (_Fagus
   obliqua_), _coyhue_ (_F. Dombeyi_), and _rauli_ (_F. procera_)--are
@@ -739,26 +739,26 @@ Bolivian boundary line in the Cordillera Silillica.
   first, which is misleadingly called _roble_ (oak). Most of the woods
   used in construction and manufactures are found between the Bio-Bio
   river and the Taytao peninsula, among which are the _alerce_
-  (_Fitzroya patagonica_), _ciprés_ or Chiloé cypress (_Libocedrus
+  (_Fitzroya patagonica_), _ciprés_ or Chiloé [[Cypress|cypress]] (_Libocedrus
   tetragona_), the Chilean cypress (_L. Chilensis_), _lingue_ (_Persea
   lingue_), laurel (_Laurus aromatica_), _avellano_ (_Guevina
   avellana_), _luma_ (_Myrtus luma_), _espino_ (_Acacia cavenia_) and
-  many others. Several exotic species have been introduced into this
+  many others. Several [[Exotic|exotic]] species have been introduced into this
   part of Chile, some of which have thriven even better than in their
-  native habitats. Among these are the oak, elm, beech (_F. sylvatica_),
+  native habitats. Among these are the oak, [[Elm|elm]], [[Beech|beech]] (_F. sylvatica_),
   walnut, chestnut, poplar, willow and eucalyptus. Through the central
   zone the plains are open and there are forests on the mountain slopes,
   but in the southern zone there are no plains, with the exception of
   small areas near the Straits of Magellan, and the forests are
   universal. In the variety, size and density of their growth these
   forests remind one of the tropics. They are made up, in great part, of
-  the evergreen beech (_Fagus betuloides_), the deciduous antarctic
+  the evergreen beech (_Fagus betuloides_), the [[Deciduous|deciduous]] antarctic
   beech (_F. antarctica_),[3] and Winter's bark (_Drimys Winteri_),
   intermingled with a dense undergrowth composed of a great variety of
   shrubs and plants, among which are _Maytenus magellanica, Arbutus
   rigida, Myrtus memmolaria_, two or three species of _Berberis_, wild
-  currant (_Ribes antarctica_), a trailing blackberry, tree ferns,
-  reed-like grasses and innumerable parasites. On the eastern side of
+  currant (_Ribes antarctica_), a trailing [[Blackberry|blackberry]], tree ferns,
+  reed-like [[Grasses|grasses]] and innumerable parasites. On the eastern side of
   the Cordillera, in the extreme south, the climate is drier and open,
   and grassy plains are found, but on the western side the dripping
   forests extend from an altitude of 1000 to 1500 ft. down to the level
@@ -774,12 +774,12 @@ Bolivian boundary line in the Cordillera Silillica.
   species from which the cultivated strawberry derives some of its best
   qualities. Maize and quinoa (_Chenopodium quinoa_) were known in Chile
   before the arrival of Europeans, but it is not certain that they are
-  indigenous. Species of the bean and pepper plant are also indigenous,
+  indigenous. Species of the [[Bean|bean]] and pepper plant are also indigenous,
   and the former is said to have been cultivated by the natives. Among
   the many economic plants which have been introduced into Chile and
   have become important additions to her resources, the more prominent
   are wheat, barley, hemp and alfalfa (_Medicago sativa_), together with
-  the staple European fruits, such as the apple, pear, peach, nectarine,
+  the staple European fruits, such as the [[Apple|apple]], pear, peach, nectarine,
   grape, fig, olive and orange. The date-palm has also been introduced
   into the southern provinces of the desert region. Among the marine
   productions on the southern coast, a species of kelp, _Macrocystis
@@ -792,35 +792,35 @@ Bolivian boundary line in the Cordillera Silillica.
   and individuals. A great part of the northern deserts is as barren of
   animal life as of vegetation, and the dense humid forests of the south
   shelter surprisingly few species. There are no large mammals in all
-  this extensive region except the Cetacea and a species of the
+  this extensive region except the [[Cetacea]] and a species of the
   _Phocidae_ of southern waters. Neither are there any dangerous species
   of Carnivora, which are represented by the timid puma (_Felis
-  concolor_), three species of wildcats, three of the fox, two of
+  concolor_), three species of wildcats, three of the [[Fox|fox]], two of
   _Conepatus_, a weasel, sea-otter and six species of seal. The rodents
   are the most numerously represented order, which includes the _coypu_
   or nutria (_Myopotamus coypus_), the chinchilla (_Chinchilla
   laniger_), the tuco-tuco (_Ctenomys brasiliensis_), a rabbit, and 12
   species of mice--in all some 12 genera and 25 species. The coypu,
   sometimes called the South American beaver, inhabits the river-banks,
-  and is highly prized for its fur. It is also found along the
+  and is highly prized for its [[Fur|fur]]. It is also found along the
   river-courses of Argentina. The ruminants are represented by a few
-  species only--the guanaco (_Auchenia huanaco_), _vicuna_ (_A.
+  species only--the [[Guanaco|guanaco]] (_Auchenia huanaco_), _vicuna_ (_A.
   vicugna_), _huemul_ (_Cervus chilensis_), which appears on the Chilean
-  escutcheon, and the _pudu_ deer, a small and not very numerous
-  species. There are two species of the Edentata, _Dasypus_ and
+  [[Escutcheon|escutcheon]], and the _pudu_ deer, a small and not very numerous
+  species. There are two species of the [[Edentata]], _Dasypus_ and
   _Pichiciego_, the latter very rare, and one of the opossums. European
   animals, such as horses, cattle, sheep, swine and goats, have been
   introduced into the country and do well. Sheep-raising has also been
   inaugurated with some degree of success in the vicinity of the Straits
   of Magellan. The avifauna, with the exception of waterfowl, is also
   limited to comparatively few species. Birds of prey are represented by
-  the condor, vulture, two species of the carrion-hawk (_Polyborus_),
+  the [[Condor|condor]], vulture, two species of the carrion-hawk (_Polyborus_),
   and owl. The Chilean slopes of the Andes appear to be a favourite
   haunt of the condor, where neighbouring stock-raisers suffer severe
   losses at times from its attacks. The _Insessores_ are represented by
   a number of species. Parrots are found as far south as Tierra del
   Fuego, where Darwin saw them feeding on seeds of the Winter's bark.
-  Humming-birds have a similar range on this coast, one species
+  [[Humming-Bird|Humming-birds]] have a similar range on this coast, one species
   (_Mellisuga Kingii_) being quite numerous as far south as Tierra del
   Fuego. A characteristic genus is that of _Pteroptochus_, of which
   there are three or four species each characterized by some conspicuous
@@ -829,7 +829,7 @@ Bolivian boundary line in the Cordillera Silillica.
   gait; the _P. albicollis_, which inhabits barren hillsides and is
   called _tapacollo_ from the manner of carrying its tail turned far
   forward over its back; the _P. rubecula_, of Chiloé, a small timid
-  denizen of the gloomy forest, called the _cheucau_ or _chuca_, whose
+  [[Denizen|denizen]] of the gloomy forest, called the _cheucau_ or _chuca_, whose
   two or three notes are believed by the superstitious natives to be
   auguries of impending success or disaster; and an allied species
   (_Hylactes Tarnii_, King) called the _guid-guid_ or barking bird,
@@ -842,10 +842,10 @@ Bolivian boundary line in the Cordillera Silillica.
   Berardii_) which inhabits the inland sounds and resembles the auk in
   some particulars of habit and appearance. There are numerous species
   in these sheltered channels, inlets and sounds of geese, ducks, swans,
-  cormorants, ibises, bitterns, red-beaks, curlew, snipe, plover and
+  [[Cormorant|cormorants]], [[Ibis|ibises]], bitterns, red-beaks, curlew, snipe, plover and
   moorhens. Conspicuous among these are the great white swan (_Cygnus
   anatoides_), the black-necked swan (_Anser nigricollis_), the
-  antarctic goose (_Anas antarctica_) and the "race-horse" or "steamer
+  antarctic [[Goose|goose]] (_Anas antarctica_) and the "race-horse" or "steamer
   duck" (_Micropterus brachypterus_).
 
   The marine fauna is less known than the others, but it is rich in
@@ -855,17 +855,17 @@ Bolivian boundary line in the Cordillera Silillica.
   which gives it a marine life of no special importance. In the shoal
   waters about Juan Fernandez are found a species of codfish (possibly
   _Gadus macrocephalus_), differing in some particulars from the
-  Newfoundland cod, and a large crayfish, both of which are caught for
+  Newfoundland [[Cod|cod]], and a large crayfish, both of which are caught for
   the Valparaiso market. The sheltered waters of the broken southern
   coast, however, are rich in fish and molluscs, especially in mussels,
-  limpets and barnacles, which are the principal food resource of the
+  limpets and [[Barnacle|barnacles]], which are the principal food resource of the
   nomadic Indian tribes of those regions. A large species of barnacle,
   _Balanus psittacus_, is found in great abundance from Concepción to
   Puerto Montt, and is not only eaten by the natives, by whom it is
   called _pico_, but is also esteemed a great delicacy in the markets of
   Valparaiso and Santiago. Oysters of excellent flavour are found in
   the sheltered waters of Chiloé. The Cetacea, which frequent these
-  southern waters, are represented by four species--two dolphins and the
+  southern waters, are represented by four species--two [[Dolphin|dolphins]] and the
   sperm and right whale--and the _Phocidae_ by six species, one of which
   (_Phoca lupina_) differs but little from the common seal. Another
   species (_Macrorhinus leoninus_), popularly known as the sea-elephant,
@@ -878,9 +878,9 @@ Bolivian boundary line in the Cordillera Silillica.
   species--five saurians, four ophidians, one frog and one toad--but a
   more thorough survey of the uninhabited territories of the south may
   increase this list. There are no alligators in the streams, and the
-  tropical north has very few lizards. There are no poisonous snakes in
+  tropical north has very few [[Lizard|lizards]]. There are no poisonous snakes in
   the country, and, in a region so filled with lakes and rivers as the
-  rainy south, only two species of batrachians. The insect life of these
+  rainy south, only two species of batrachians. The [[Insect|insect]] life of these
   strangely associated regions is likewise greatly restricted by adverse
   climatic conditions, a considerable part of the northern desert being
   absolutely barren of animal and vegetable life, while the climate of
@@ -898,7 +898,7 @@ Bolivian boundary line in the Cordillera Silillica.
   insect life, while the Andes interpose an impassable barrier to
   migration from the countries of the eastern coast. The only venomous
   species to be found in central Chile is that of a spider which
-  frequents the wheat fields in harvest time.
+  frequents the wheat fields in [[Harvest|harvest]] time.
 
 _Population._--The population of Chile is largely concentrated in the
 twelve agricultural provinces between and including Coquimbo and
@@ -948,9 +948,9 @@ The registration of births, marriages and deaths is compulsory since the
 1st of January 1885, but the provisions of the law are frequently
 eluded. Notwithstanding the healthiness of the climate, the death-rate
 is high, especially in the large cities. In Santiago and Valparaiso the
-death-rate sometimes rises to 42 and 60 per 1000, and infant mortality
+death-rate sometimes rises to 42 and 60 per 1000, and [[Infant|infant]] mortality
 is very high, being 73% of the births in some of the provincial towns.
-This unfavourable state of affairs is due to the poverty, ignorance and
+This unfavourable state of affairs is due to the poverty, [[Ignorance|ignorance]] and
 insanitary habits of the lower classes. The government has made repeated
 efforts to secure immigrants from Europe, but the lands set apart for
 immigrant settlers are in the forested provinces south of the Bio-Bio,
@@ -977,14 +977,14 @@ slowly being occupied by the whites, are concentrated in the eastern
 forests of Bio-Bio, Malleco and Cautin, all that remains to them of the
 Araucania which they so bravely and successfully defended for more than
 three centuries. Their number does not much exceed 40,000, which is
-being steadily reduced by drunkenness and epidemic diseases. A small
+being steadily reduced by [[Drunkenness|drunkenness]] and epidemic diseases. A small
 part of these Indians live in settled communities and include some very
 successful stock-raisers, but the greater part live apart from
 civilization. There are also some remnants of tribes in the province of
 Chiloé, which inhabit the island of that name, the Chonos and Guaytecas
 archipelagoes and the adjacent mainland, who have the reputation of
 being good boatmen and fishermen; and there are remnants of a people
-called Changos, on the desert coast, and traces of Calchaqui blood in
+called Changos, on the desert coast, and traces of [[Calchaqui]] blood in
 the neighbouring Andean foothills.
 
 There is a wide difference in every respect between the upper or ruling
@@ -998,25 +998,25 @@ was secured to them by the constitution of 1833. The common people were
 kept in ignorance and practically in a state of hopeless servitude. They
 were allowed to occupy small leaseholds on the large estates on
 condition of performing a certain amount of work for the landlord. Every
-avenue toward the betterment of their condition was practically closed.
+avenue toward the [[Betterment|betterment]] of their condition was practically closed.
 The condition of the itinerant labourers (_peons_) was still worse, the
 wages paid them being hardly sufficient to keep them from starvation.
 The Chilean _peon_, however, comes from a hardy stock, and has borne all
 these hardships with a fortitude and patience which go far to
-counterbalance his faults. Recent reforms in education, &c., together
+counterbalance his [[Fault|faults]]. Recent reforms in education, &c., together
 with the growth of manufacturing industries, are slowly leading to
 improvements in the material condition of the common people.
 
 The political organization of the country has not been favourable to the
 development of artistic or scientific tastes, though Chile has produced
 political leaders, statesmen and polemical writers in abundance.
-Historical literature has been enriched by the works of Diego Barros
-Arana, Benjamin Vicuña Mackenna, Miguel Luis Amunátegui, Carlos Walker
+Historical literature has been enriched by the works of Diego [[Barros]]
+Arana, [[Benjamin]] Vicuña Mackenna, Miguel Luis Amunátegui, Carlos Walker
 Martinez, and others. One of the earliest native histories of Chile was
 that of Abbé J. Ignacio Molina, an English translation of which has long
-been a recognized authority; it is full of errors, however, and should
+been a recognized authority; it is full of [[Error|errors]], however, and should
 be studied only in connexion with modern standard works. Among these
-must be included Claude Gay's monumental work, _Historia General de
+must be included [[Claude]] Gay's monumental work, _Historia General de
 Chile_, and Sir C.R. Markham's admirable studies on special parts of the
 subject. In science, nearly all the important work has been done by
 foreigners, among whom are Charles Darwin, Claude Gay, Eduard Pöppig,
@@ -1058,7 +1058,7 @@ his excellent geographical work in the southern Andes.
   |Valparaiso        |  1,953 |  220,756  |Valparaiso   | 122,447 | 142,282 |
   |Santiago          |  5,665 |  415,636  |Santiago     | 256,403 | 332,059 |
   |O'Higgins         |  2,342 |   85,277  |Rancagua     |   6,665 |   7,133 |
-  |Colchagua         |  3,856 |  157,566  |San Fernando |   7,447 |   8,164 |
+  |[[Colchagua]]         |  3,856 |  157,566  |San Fernando |   7,447 |   8,164 |
   |Curicó            |  2,978 |  103,242  |Curicó       |  12,669 |  14,340 |
   |Talca             |  3,840 |  128,961  |Talca        |  33,232 |  42,766 |
   |Lináres           |  3,942 |  101,858  |Lináres      |   7,331 |   7,256 |
@@ -1146,7 +1146,7 @@ his excellent geographical work in the southern Andes.
   built by private companies from the coast at several points to inland
   mining centres. One of these, running from Antofagasta to the
   Caracoles district, was afterwards extended to Oruro, Bolivia, and has
-  become a commercial route of international importance, with a total
+  become a commercial route of [[International|international]] importance, with a total
   length of 574 m., 224 of which are in Chile. It should be remembered
   that many of these railway enterprises of the desert region originated
   at a time when the territory belonged to Bolivia and Peru. The first
@@ -1179,7 +1179,7 @@ his excellent geographical work in the southern Andes.
   navigation. Telegraphic communication between all the important towns
   of the republic, initiated in 1855 with a line between Santiago and
   Valparaiso, is maintained by the state, which in 1903 owned 9306 m. of
-  line in a total of 11,080 m. Cable communication with Europe by way of
+  line in a total of 11,080 m. [[Cable]] communication with Europe by way of
   Buenos Aires was opened in 1875, and is now maintained by means of two
   underground cables across the Andes, 32 m. in length. A West Coast
   cable also connects with Europe and North American states by way of
@@ -1193,7 +1193,7 @@ his excellent geographical work in the southern Andes.
   instruction. The postal revenues for 1904 amounted to 2,775,730 pesos
   and the expenditures to 2,407,753 pesos. Chile is a member of the
   International Postal Union, and has arrangements with the principal
-  commercial nations for the exchange of postal money values.
+  commercial nations for the [[Exchange|exchange]] of postal money values.
 
   The sea has been the only means of communication with distant parts of
   the country, and must continue to be the chief transportation route.
@@ -1226,9 +1226,9 @@ his excellent geographical work in the southern Andes.
 
   _Commerce._--In the aggregate, the commerce of Chile is large and
   important; in proportion to population it is exceeded among South
-  American states only by Argentina, Uruguay and the Guianas. Unlike
+  American states only by Argentina, Uruguay and the [[Guiana|Guianas]]. Unlike
   those states, it depends in great part on mining and its allied
-  occupations. The values of imports and exports (including bullion,
+  occupations. The values of imports and exports (including [[Bullion|bullion]],
   specie and re-exports) in pesos of 18d. during the five years
   1901-1905 were as follows:--
 
@@ -1241,24 +1241,24 @@ his excellent geographical work in the southern Andes.
     1904    164,874,928       232,493,598
     1905    188,596,418       265,209,192
 
-  The principal imports comprise live animals, fish, coffee, maté (_Ilex
+  The principal imports comprise live animals, fish, coffee, [[Mat|mat]]é (_Ilex
   paraguayensis_), tea, sugar, wood and its manufactures, structural
   iron and steel, hardware and machinery, railway and telegraph
   supplies, lime and cement, glass and earthenware, cotton, woollen and
   silk manufactures, coal, petroleum, paints, &c. Import duties are
   imposed at the rates of 60, 35, 15, 5 and 25%, and certain classes of
   merchandise are admitted free. The higher rates are designed chiefly
-  to protect national industries, while wines, liquors, cigars and
+  to protect national industries, while wines, liquors, [[Cigar|cigars]] and
   tobacco are admitted at the lowest rate. The 25% rate covers all
-  articles not mentioned in the schedules, which number 2260 items. The
+  articles not mentioned in the schedules, which number 2260 [[Item|items]]. The
   duty free list includes raw cotton, certain descriptions of live
-  animals, agricultural machinery and implements, metal wire, fire
+  animals, agricultural machinery and [[Implement|implements]], metal wire, fire
   engines, structural iron and steel, and machinery in general. The
   tariff is nominally _ad valorem_, but as the rates are imposed on
   fixed official valuations it is essentially specific. The duties on
   imports in 1905 amounted to 91,321,860 pesos, and in 1906 to
   103,507,556 pesos. The principal exports are gold, silver, copper
-  (bars, regulus and ores), cobalt and its ores, lead and its ores,
+  (bars, regulus and ores), [[Cobalt|cobalt]] and its ores, lead and its ores,
   vanadium ores, manganese, coal, nitrate of soda, borate of lime,
   iodine, sulphur, wheat and guano. Nitrate of soda forms from 70 to 75%
   of the exports, and the royalty received from it is the principal
@@ -1278,7 +1278,7 @@ his excellent geographical work in the southern Andes.
   less than 108,384 acres devoted to it in 1904, a considerable part of
   which was in the irrigated river valleys of Coquimbo and Aconcagua.
   Considerable attention is also given to fruit cultivation in these
-  subtropical provinces, where the orange, lemon, fig, melon, pineapple
+  subtropical provinces, where the orange, [[Lemon|lemon]], fig, melon, pineapple
   and banana are produced with much success. Some districts, especially
   in Coquimbo, have gained a high reputation for the excellence of their
   preserved fruits. The vine is cultivated all the way from Atacama and
@@ -1286,12 +1286,12 @@ his excellent geographical work in the southern Andes.
   where some of the best wines of Chile are manufactured. In 1904 there
   were 93,370 acres devoted to grape production in this region, the
   product for that year being 30,184,704 gallons of wine and 212,366
-  gallons of brandy. The universal beverage of the people--_chicha_--is
-  made from Indian corn. Although wheat is produced in the northern part
+  gallons of [[Brandy|brandy]]. The universal beverage of the people--_chicha_--is
+  made from Indian [[Corn|corn]]. Although wheat is produced in the northern part
   of this region, it is grown with greater success in the south, where
   the rainfall is heavier and the average temperature is lower. There
   were 1,044,025 acres devoted to this cereal in 1903, which produced
-  17,910,614 bushels, or an average of 17 bushels (of 60 lb) to the
+  17,910,614 [[Bushel|bushels]], or an average of 17 bushels (of 60 lb) to the
   acre. In 1904 the production was increased to 19,999,324 bushels, but
   in 1905 it fell off to 15,771,477 bushels. At one time Chile supplied
   Argentina and the entire West Coast as far north as California with
@@ -1339,14 +1339,14 @@ his excellent geographical work in the southern Andes.
   head. There are some districts in central Chile where cattle-raising
   is the principal occupation, but the long dry summers limit the
   pasturage on the open plains and prevent the development which perhaps
-  would otherwise result. As in Argentina, beef is generally dried in
+  would otherwise result. As in Argentina, [[Beef|beef]] is generally dried in
   the sun to make _charqui_ (jerked beef), in which form it is exported
   to the desert provinces. Horse and mule breeding are carried on to a
   limited extent, and since the opening of the far South more attention
   has been given to sheep. Goats and swine are raised in small numbers
   on the large estates, but in Chiloé swine-raising is one of the chief
   occupations of the people. Some attention has been given to the
-  production of butter and cheese, but the industry has attained no
+  production of [[Butter|butter]] and [[Cheese|cheese]], but the industry has attained no
   great importance. A new industry which has made noteworthy progress,
   however, is that of bee-keeping, which is greatly favoured by the mild
   climate and the long season and abundance of flowers.
@@ -1373,7 +1373,7 @@ his excellent geographical work in the southern Andes.
   (_Balsamocarpon brevifolium_) and _lingue_ (_Persea lingue_) being
   rich in tannin. To provide a market for the leather produced,
   factories have been established for the manufacture of boots and
-  shoes, harness and saddles, and under the protection of a high tariff
+  shoes, [[Harness|harness]] and saddles, and under the protection of a high tariff
   are doing well. Brewing and distilling have made noteworthy progress,
   the domestic consumption of their products being very large. The
   breweries are generally worked by Germans and are situated chiefly in
@@ -1382,8 +1382,8 @@ his excellent geographical work in the southern Andes.
   and carriage factories, cooperages, and other manufactories of wood
   are numerous and generally prosperous. There are likewise a large
   number of factories for canning and preserving fruits and vegetables.
-  Foundries and machine shops have been established, especially for the
-  manufacture of railway material. The sugar beet has been added to the
+  Foundries and [[Machine|machine]] shops have been established, especially for the
+  manufacture of railway material. The sugar [[Beet|beet]] has been added to the
   productions of Chile, and with it the manufacture on a small scale of
   beet sugar. There is one large refinery at Viña del Mar, however,
   which imports raw cane sugar from Peru for refining. The manufacture
@@ -1392,7 +1392,7 @@ his excellent geographical work in the southern Andes.
   mining industries have led to a noteworthy development in the
   production of chemicals, and a considerable number of factories are
   engaged in the production of pharmaceutical preparations, perfumeries,
-  soaps, candles, &c.
+  soaps, [[Candle|candles]], &c.
 
   _Mining_.--The most important of all the national industries, however,
   is that of mining. In 1903 there were 11,746 registered mines, on
@@ -1500,7 +1500,7 @@ The supreme powers of government are vested in three distinct
 branches--legislative, executive and judicial. The legislative power is
 exercised by a national congress, which consists of two chambers---a
 senate of 32 members, and a chamber of deputies of 94 members. The
-membership of the lower house is in the proportion of one deputy for
+membership of the lower house is in the proportion of one [[Deputy|deputy]] for
 each 30,000 of the departmental population, and each fraction over
 15,000; and the senate is entitled to one-third the membership of the
 chamber. The senators are elected by provinces and by a direct
@@ -1519,7 +1519,7 @@ session. Congress has the privilege of giving or withholding its
 confidence in the acts of the government.
 
 The executive is a president who is elected for a term of five years and
-is ineligible for the next succeeding term. He is chosen by electors,
+is ineligible for the next succeeding term. He is chosen by [[Electors|electors]],
 who are elected by departments in the manner prescribed for deputies and
 in the proportion of three electors for each deputy. These elections are
 held on the 25th of June in the last year of a presidential term, the
@@ -1527,18 +1527,18 @@ electors cast their votes on the 25th of July, and the counting takes
 place in a joint session of the two chambers of congress on the 30th of
 August, congress in joint session having the power to complete the
 election when no candidate has been duly chosen by the electors. The
-formal installation of the president takes place on the 18th of
-September, the anniversary of the declaration of national independence.
+formal [[Installation|installation]] of the president takes place on the 18th of
+September, the anniversary of the [[Declaration|declaration]] of national independence.
 In addition to the prerogatives commonly invested in his office, the
 president is authorized to supervise the judiciary, to nominate
 candidates for the higher ecclesiastical offices, to intervene in the
-enforcement of ecclesiastical decrees, papal bulls, &c., to exercise
-supervisory police powers, and to appoint the intendants of provinces
+enforcement of ecclesiastical [[Decree|decrees]], papal [[Bull|bulls]], &c., to exercise
+supervisory police powers, and to appoint the [[Intendant|intendants]] of provinces
 and the governors of departments, who in turn appoint the sub-delegates
 and inspectors of subordinate political divisions. The president, who is
 paid £2250 per annum, must be native-born, not less than thirty years of
 age, and eligible for election to the lower house. He is assisted and
-advised by a cabinet of six ministers whose departments are: interior,
+advised by a [[Cabinet|cabinet]] of six ministers whose departments are: interior,
 foreign affairs, worship and colonization, justice and public
 instruction, war and marine, finance, industry and public works. In case
 of a vacancy in the presidential office, the minister of interior
@@ -1565,13 +1565,13 @@ in every department is a representative of the national government.
 There is no legislative body in any of these political divisions, nor
 any administrative official directly representing the people, with this
 exception: under the law of the 22nd of December 1891, municipalities,
-or communes, are created and invested with certain specified powers of
+or [[Commune|communes]], are created and invested with certain specified powers of
 local government affecting local police services, sanitation, local
 improvements, primary instruction, industrial and business regulations,
 &c.; they are authorized to borrow money for sanitary improvements,
 road-making, education, &c., and to impose certain specified taxes for
 their support; these municipalities elect their own _alcaldes_, or
-mayors, and municipal councils, the latter having legislative powers
+[[Mayor|mayors]], and municipal councils, the latter having legislative powers
 within the limits of the law mentioned.
 
   _Justice._--The judicial power consists of a Supreme Court of Justice
@@ -1580,7 +1580,7 @@ within the limits of the law mentioned.
   republic; six courts of appeal, in Tacna, Serena, Valparaiso,
   Santiago, Talca and Concepción; tribunals of first instance in the
   department capitals; and minor courts, or justices of the peace, in
-  the sub-delegacies and districts. The jury system does not exist in
+  the sub-delegacies and districts. The [[Jury|jury]] system does not exist in
   Chile, and juries are unknown except in cases where the freedom of the
   press has been abused. All trials, therefore, are heard by one or more
   judges, and appeals may be taken from a lower to a higher court. The
@@ -1608,22 +1608,22 @@ within the limits of the law mentioned.
   the civil war of 1891, the army was reorganized under the direction of
   Colonel Emil Körner, an accomplished German officer, who subsequently
   served as chief of the general staff. In 1904 the permanent force
-  consisted of 12 battalions of infantry, 6 regiments of cavalry, 4
+  consisted of 12 [[Battalion|battalions]] of infantry, 6 regiments of [[Cavalry|cavalry]], 4
   regiments of mountain artillery, 1 regiment of horse artillery, 2
   regiments of coast artillery, and 5 companies of
   engineers--aggregating 915 officers and 4757 men. To this nucleus were
   added 6160 recruits, the contingent for that year of young men
-  twenty-one years of age compelled to serve with the colours. Under the
+  twenty-one years of age compelled to serve with the [[Colours|colours]]. Under the
   law of the 5th of September 1900, military service is obligatory for
   all citizens between eighteen and forty-five years, all young men of
   twenty-one years being required to serve a certain period with the
   regular force. After this period they are transferred to the 1st
   reserve for 9 years, and then to the 2nd reserve. The military rifle
   adopted for all three branches of the service is the Mauser, 1895
-  model, of 7 mm. calibre, and the batteries are provided with Krupp
+  model, of 7 mm. calibre, and the batteries are provided with [[Krupp]]
   guns of 7 and 7.5 cm. calibre. Military instruction is given in a
   well-organized military school at Santiago, a war academy and a school
-  of military engineering.
+  of military [[Engineering|engineering]].
 
   _Navy_.--The Chilean navy is essentially British in organization and
   methods, and all its best fighting ships were built in British yards.
@@ -1640,9 +1640,9 @@ within the limits of the law mentioned.
   _personnel_ comprises about 465 officers, including those of the
   staff, and 4000 petty officers and men. There is a military port at
   Talcahuano, in Concepción Bay, strongly fortified, and provided with
-  arsenal and repair shops, a large dry dock and a patent slip. The
+  arsenal and repair shops, a large dry [[Dock|dock]] and a patent slip. The
   naval school, which occupies one of the noteworthy edifices of
-  Valparaiso, is attended by 90 cadets and is noted for the thoroughness
+  Valparaiso, is attended by 90 [[Cadet|cadets]] and is noted for the thoroughness
   of its instruction.
 
   _Education_.--Under the old conservative régime very little was done
@@ -1657,13 +1657,13 @@ within the limits of the law mentioned.
   and the gain upon illiteracy (75%) appears to be very slow. The
   government also gives primary instruction to recruits when serving
   with the colours, which, with the increasing employment of the people
-  in the towns, helps to stimulate a desire for education among the
+  in the towns, [[Helps|helps]] to stimulate a desire for education among the
   lower classes. Education in Chile is very largely under the control of
   the national government, the minister of justice and public
   instruction being charged with the direction of all public schools
   from the university down to the smallest and most remote primary
   school. The system includes the University of Chile and National
-  Institute at Santiago, lyceums or high schools in all the provincial
+  Institute at Santiago, [[Lyceum|lyceums]] or high schools in all the provincial
   capitals and larger towns, normal schools at central points for the
   training of public school teachers, professional and industrial
   schools, military schools and primary schools. Instruction in all
@@ -1691,7 +1691,7 @@ within the limits of the law mentioned.
   school (Slöyd system) and a night school of industrial drawing in the
   same city, and professional schools for girls in Santiago and
   Valparaiso, where the pupils are taught millinery, dress-making,
-  knitting, embroidery and fancy needlework. The government also
+  [[Knitting|knitting]], embroidery and [[Fancy|fancy]] needlework. The government also
   maintains schools for the blind and for the deaf and dumb. The public
   primary schools numbered 1961 in 1903, with 3608 teachers, 166,928
   pupils enrolled, and an average attendance of 108,582. The cost of
@@ -1708,7 +1708,7 @@ within the limits of the law mentioned.
   public schools, especially in the German settlements of the southern
   provinces. A Consejo de Instrucción Pública (council of public
   instruction) of 14 members exercises a general supervision over the
-  higher and secondary schools. There are schools of music and fine arts
+  higher and secondary schools. There are schools of music and [[Fine Arts|fine arts]]
   in Santiago. The national library at Santiago, with 116,300 volumes in
   1906, and the national observatory, are both efficiently administered.
   At the beginning of the 20th century there were 41 public libraries in
@@ -1719,9 +1719,9 @@ within the limits of the law mentioned.
   in the republic, which reported 79,051 admissions during the year, and
   had 6215 patients under treatment at its close; 628,536 patients
   received gratuitous medical assistance at the public dispensaries
-  during the year; there were 24 foundling hospitals with 5570 children;
-  and there were 3092 persons in the various _hospicios_ or asylums, and
-  1478 in the imbecile asylums.
+  during the year; there were 24 [[Foundling Hospitals|foundling hospitals]] with 5570 children;
+  and there were 3092 persons in the various _hospicios_ or [[Asylum|asylums]], and
+  1478 in the [[Imbecile|imbecile]] asylums.
 
   _Religion._--The Roman Catholic religion is declared by the
   constitution to be the religion of the state, and the inaugural oath
@@ -1746,7 +1746,7 @@ within the limits of the law mentioned.
   The ecclesiastical organization includes one archbishop, who resides
   at Santiago, three bishops residing at La Serena, Concepción and
   Ancud, and two vicars residing in Antofagasta and Tarapacá. These
-  benefices are filled by appointments from lists of three prepared by
+  [[Benefice|benefices]] are filled by appointments from lists of three prepared by
   the council of state and sent to Rome by the president, and in the
   case of an archbishop or bishop the appointment must also receive the
   approval of the Senate. The Chilean clergy are drawn very largely from
@@ -1766,7 +1766,7 @@ within the limits of the law mentioned.
   averaged about 2,100,000 pesos (of 48d.), which in the decade
   1861-1870 had increased to an average of only 8,200,000 pesos--and
   this during a period of considerable agricultural activity on account
-  of wheat exports to California and Australia. After 1870 the revenues
+  of wheat exports to California and [[Australia]]. After 1870 the revenues
   increased more rapidly owing to the development of new mining
   industries, the receipts in 1879 amounting to 15,300,000 pesos, and in
   1882 to 28,900,000 pesos. The revenues from the captured Peruvian
@@ -1783,7 +1783,7 @@ within the limits of the law mentioned.
   the government collected the nitrate and iodine taxes and import
   duties in gold. As a considerable part of the expenditures were in
   gold, the practice was adopted of keeping the gold and currency
-  accounts separate. In 1895 a conversion law was passed in which the
+  accounts separate. In 1895 a [[Conversion|conversion]] law was passed in which the
   sterling value of the peso was reduced to 18d., at which rate the
   outstanding paper should be redeemed. A conversion fund was also
   created, and, although the government afterwards authorized two more
@@ -1794,7 +1794,7 @@ within the limits of the law mentioned.
   railway, postal and telegraph receipts. There is no land tax, and
   licence or business taxes are levied by the municipalities for local
   purposes. The national expenditures are chiefly for the interest and
-  amortization charges on the public debt, official salaries, military
+  amortization charges on the public [[Debt|debt]], official salaries, military
   expenses in connexion with the army and navy, public works (including
   railway construction, port improvements, water and sewage works), the
   administration of the state railways, telegraph lines and post office,
@@ -1824,7 +1824,7 @@ within the limits of the law mentioned.
   receipts, and 15,000,000 pesos gold from loans. How the revenues are
   expended is shown in the estimates for 1907, in which the total
   expenditures were estimated at 134,830,532 pesos paper and 58,796,780
-  pesos gold, the principal appropriations being 16,192,780 pesos paper
+  pesos gold, the principal [[Appropriation|appropriations]] being 16,192,780 pesos paper
   and 99,733 gold for the war department, 10,460.781 paper and 6,315,731
   gold for the marine department, 40,934,273 paper and 16,984,671 gold
   for railways, and 6,324,817 paper for public works. In addition to
@@ -1843,7 +1843,7 @@ within the limits of the law mentioned.
   sanitary works and railway construction. At the same time the internal
   debt was 107,000,000 pesos (£8,025,000), which increases the funded
   indebtedness to £29,725,000. Like Brazil, Chile has been careful to
-  preserve her foreign credit, and though an average indebtedness of
+  preserve her foreign [[Credit|credit]], and though an average indebtedness of
   about £10 per capita may seem large for a nation with so much absolute
   poverty among its people, the government is finding no difficulty in
   negotiating new loans, the mineral resources of the country and the
@@ -1872,7 +1872,7 @@ within the limits of the law mentioned.
   the 1st of January 1890 the national issues stood at 22,487,916 pesos,
   and the bank issues at 16,679,790 pesos, making a total of 39,167,706
   pesos currency in circulation. This total was largely increased by
-  President Balmaceda in 1891. On the 31st of July 1898 the conversion
+  President [[Balmaceda]] in 1891. On the 31st of July 1898 the conversion
   of paper notes, under the law of 1st June 1895, was suspended, and the
   government issued 27,989,929 pesos to the banks of issue, which was
   described as a loan at 2%, and raised their outstanding circulation to
@@ -1889,7 +1889,7 @@ within the limits of the law mentioned.
   presentation of the currency issued. The redemption of this issue was
   guaranteed by a conversion fund of 100,000,000 pesos, and by an
   authorization to issue a loan of 50,000,000 pesos to redeem the
-  balance, if necessary. The conversion fund under the act of 1895 stood
+  [[Balance|balance]], if necessary. The conversion fund under the act of 1895 stood
   at 77,282,257 pesos (£5,796,170) on the 31st of May 1907. There are 23
   joint-stock banks of issue, with an aggregate registered capital of
   40,689,665 pesos (£3,051,724). Their circulating notes are secured by
@@ -1905,7 +1905,7 @@ within the limits of the law mentioned.
   December 1906 were 14,799,728 pesos.
 
   The monetary unit, the gold peso, does not form a part of the actual
-  coinage. The gold coins authorized by this law are the _condor_ of 20
+  coinage. The gold [[Coin|coins]] authorized by this law are the _condor_ of 20
   pesos, the _medio condor_, or _doblon_, of 10 pesos, and the _escudo_
   of 5 pesos. The silver coins are the _peso_ of 100 centavos and its
   fractional parts of 20, 10 and 5 centavos. The bronze coins are of 2½,
@@ -1966,10 +1966,10 @@ Valdivia and in the destruction of most of his settlements. This was the
 beginning of nearly a century of continuous warfare. As there was no
 gold in the country the number of settlers was small, the loose tribal
 organization of the natives made it impossible to inflict a vital defeat
-on them, and the mountainous and thickly wooded country lent itself
+on them, and the mountainous and thickly wooded country [[Lent|lent]] itself
 admirably to a warfare of surprises and ambuscades. General after
 general and army after army were despatched from Spain and Peru; Chile
-was given a government independent of the viceroy of Lima; attack after
+was given a government independent of the viceroy of [[Lima]]; attack after
 attack was made on the Indians, their lands were laid waste, and the
 struggle was conducted with merciless ferocity: all in vain. Settlements
 and forts were never free from assault and were taken and retaken; if
@@ -1995,7 +1995,7 @@ reverse of prosperous. The expenditure far exceeded the revenue. The
 Indian warfare occupied nearly the whole attention of the governors and
 much of the time of the settlers. By the Spanish colonial system the
 development of manufactures was prohibited and the trade of the colony
-was limited not only to Spain but to the one port of Cadiz. Till the
+was limited not only to Spain but to the one port of [[Cadiz]]. Till the
 18th century ships were not allowed to sail round Cape Horn, so that the
 Chileans had to trade indirectly through Peru and the Argentine.
 Agriculture was the one resource of the colony, and wheat was grown for
@@ -2007,18 +2007,18 @@ Concepción, La Serena, were only large villages. Books were not allowed
 to be imported, and education was limited to such as was given here and
 there by priests and monks. The Indians within the limits of the Spanish
 colony were treated like slaves, and horribly mutilated to prevent their
-escape; but at the same time a gradual fusion of races was taking place,
+escape; but at the same time a gradual [[Fusion|fusion]] of races was taking place,
 and the Chilean peasant (_peon_) of to-day is as much of Indian as of
 Spanish descent. The Araucanians, however, continued to preserve their
 independence; they jealously resented the introduction of Spanish
-influence, and the missionary efforts of the Jesuits met with little
+influence, and the missionary efforts of the [[Jesuits]] met with little
 success.
 
 During the 18th century the condition of the colony was improved in many
-ways. The Bourbon kings of Spain were more liberal in their colonial
+ways. The [[Bourbon]] kings of Spain were more liberal in their colonial
 policy. Merchant-ships were allowed to sail direct to Chile, trade with
 France was sometimes permitted, and a large batch of hardy emigrants was
-sent out from the Biscay provinces of Spain. Freed from the
+sent out from the [[Biscay]] provinces of Spain. Freed from the
 preoccupation of the Indian wars, the governors gave more attention to
 the general welfare of the country: a university was started in Santiago
 in 1747, many towns were built about the same time, agriculture and
@@ -2031,8 +2031,8 @@ governor was absolute master of the country, and regulated the smallest
 details of life. Such time as the officials could spare from the main
 object of enriching themselves by extortion and corruption was given up
 to endless official and religious ceremonies and to petty disputes of
-etiquette and precedence. All the high posts and offices were filled by
-men sent from Spain, with the result that bitter jealousy reigned
+[[Etiquette|etiquette]] and precedence. All the high posts and offices were filled by
+men sent from Spain, with the result that bitter [[Jealousy|jealousy]] reigned
 between them and the native-born colonists (_criollos_). The _criollos_
 as a rule filled the posts in the municipalities (_cabildos_), disposed
 of by sale, so that when the revolution broke out the _cabildos_
@@ -2061,14 +2061,14 @@ institutions afford.
 
 The national independence of Chile dates from the second decade of the
 19th century. The revolt of England's North American colonies, and the
-events of the French Revolution naturally suggested the idea of a
+events of the [[French Revolution]] naturally suggested the idea of a
 struggle for independence to the Spanish colonists, and the deposition
-of Ferdinand VII. by Napoleon, and the ensuing disorganization of Spain,
+of [[Ferdinand]] VII. by Napoleon, and the ensuing disorganization of Spain,
 supplied the desired opportunity. In 1809 risings took place in
 Venezuela, in Ecuador, in Upper Peru and in the Argentine; the
-revolutionary fever spread to Chile, and on the 18th of September 1810
+revolutionary [[Fever|fever]] spread to Chile, and on the 18th of September 1810
 the _cabildo_ of Santiago secured the resignation of the governor and
-vested his powers in an elected _Junta_ (board) of seven members. This
+vested his powers in an elected _[[Junta]]_ (board) of seven members. This
 event was the beginning of the independence of Chile. But it was some
 time before independence was fully attained. The mass of the people were
 ignorant, intercourse between them was slight, and there was a strong
@@ -2077,7 +2077,7 @@ was at first small, and compelled to conceal its aims till the ground
 had been prepared for open decisive action. Further, there were
 divisions between the patriots of Santiago and those of Concepción, and
 bitter jealousies between the leaders, the chief of whom were Juan
-Martinez de Rozas, José Miguel Carrera and Bernardo O'Higgins. Owing to
+Martinez de Rozas, José Miguel [[Carrera]] and Bernardo O'Higgins. Owing to
 the apathy of the people and the enmities existing among the leaders,
 the Spanish forces, sent by the viceroy of Peru to crush the
 revolutionary movement, succeeded after two years' indecisive fighting
@@ -2101,7 +2101,7 @@ O'Higgins in the previous February, was finally secured.
 
 The next few years witnessed the expulsion of the royalists from the
 south of Chile, the equipment of a small fleet, placed under the command
-of Manuel Blanco Encalada and Lord Cochrane (earl of Dundonald), and the
+of [[Manuel]] Blanco Encalada and Lord Cochrane (earl of [[Dundonald]]), and the
 invasion of Peru by San Martin with the help of the fleet, ending in the
 proclamation of Peruvian independence in 1821; though the Spanish power
 was not finally broken until Bolivar's victory at Ayacucho in 1824.
@@ -2120,7 +2120,7 @@ there were ecclesiastical troubles owing to the hostility of the Church
 to the new republic; there were Indian risings in the south and royalist
 revolts in the island of Chiloé; the expenditure exceeded the revenue,
 and the employment of the old Spanish financial expedients naturally
-increased the general discontent. Up to 1830 the Liberal party, which
+increased the general discontent. Up to 1830 the [[Liberal Party|Liberal party]], which
 favoured a free democratic régime, held the upper hand, but in that year
 the Conservatives, backed by a military rising led by General Joaquin
 Prieto, placed themselves in power after a sanguinary battle at Lircay.
@@ -2140,7 +2140,7 @@ successors General Manuel Bulnes (1841-1851) and Manuel Montt
 office. In spite of the discontent of the Liberals, the Conservative
 ascendancy secured a long period of firm stable government, which was
 essential to put an end to the confusion in public life and to give time
-for the people to awake to a fuller realization of the duties and
+for the people to awake to a [[Fuller|fuller]] realization of the duties and
 responsibilities of national independence. The internal peace of the
 country was only disturbed three times, by Liberal risings in 1835, in
 1851 and in 1859, all of which were crushed, but not without severe
@@ -2168,7 +2168,7 @@ William Wheelwright, a line of steamers was started on the coast, and,
 by a wise measure allowing merchandise to be landed free of duty for
 re-exportation, Valparaiso became a busy port and trading centre; while
 the demand for food-stuffs in California and Australia, following upon
-the rush for gold, gave a strong impetus to agriculture. A code of law
+the rush for gold, gave a strong impetus to agriculture. A [[Code|code]] of law
 was drawn up and promulgated, and the ecclesiastical system was
 organized under an archbishop appointed by the pope. To Montt, as
 minister under Bulnes and afterwards as president, must be given the
@@ -2181,7 +2181,7 @@ After 1861, however, a Liberal reaction set in, aided by divisions in
 the Conservative party arising mainly over church questions. Montt's
 successors, José Joaquin Perez (1861-1871), Federico Errázuriz
 (1871-1876) and Anibal Pinto (1876-1881), abandoned the repressive
-policy of their predecessors, invited the co-operation of the Liberals,
+policy of their predecessors, invited the [[Co-Operation|co-operation]] of the Liberals,
 and allowed discontent to vent itself freely in popular agitation. Some
 democratic changes were made in the constitution, notably a law
 forbidding the re-election of a president, and the gradual and peaceful
@@ -2202,7 +2202,7 @@ rallied from the effects.
 During this period there was desultory fighting with the Indians; there
 was a long boundary dispute with the Argentine, settled in 1880; and in
 1865 Chilean sympathy with Peru in a quarrel with Spain led to a foolish
-war with Spain. The blockade of their ports and the bombardment of
+war with Spain. The [[Blockade|blockade]] of their ports and the [[Bombardment|bombardment]] of
 Valparaiso by a Spanish squadron impressed the Chileans with the
 necessity of possessing an adequate fleet to defend their long
 coast-line; and it was under President Errázuriz that the ships were
@@ -2216,7 +2216,7 @@ for the struggle with Peru that began in 1879.
   Close of the war with Peru.
 
 The war of 1879-82 between Chile and Peru is the subject of a separate
-article (see CHILE-PERUVIAN WAR). By the beginning of 1881 the war had
+article (see [[Chile-Peruvian War|CHILE-PERUVIAN WAR]]). By the beginning of 1881 the war had
 reached a stage when the final struggle was close at hand. On the 13th
 of January of that year the Chilean forces under command of General
 Baquedano attacked the entrenched positions of the Peruvians at daybreak
@@ -2236,7 +2236,7 @@ under the command of General Cornelio Saavedra, was sent forward to
 occupy the Peruvian capital and restore order within the town limits. A
 portion of the Chilean forces was shortly afterwards withdrawn from
 Peru, and the army of occupation remaining in the conquered country was
-in charge of Admiral Patricio Lynch, an officer who had been specially
+in charge of Admiral Patricio [[Lynch]], an officer who had been specially
 promoted for distinguished services during the war. President Anibal
 Pinto of Chile now set about to find means to conclude a treaty of peace
 with Peru, but his efforts in this direction were frustrated by the
@@ -2250,7 +2250,7 @@ succeeded in the post of chief executive of Chile by President Domingo
 Santa Maria. Ex-President Pinto died three years later in Valparaiso,
 leaving a memory respected and admired by all political parties in his
 country. The name of Pinto will always occupy a prominent place in the
-annals of Chilean history, not only because the war with Peru took place
+[[Annals|annals]] of Chilean history, not only because the war with Peru took place
 during his term of office, but also on account of the fact that it was
 largely due to the intelligent direction of all details by the president
 during the struggle that the Chilean arms proved so absolutely
@@ -2273,7 +2273,7 @@ forces in the interior of Peru prevented for some two years the
 formation of any Peruvian national administration in Lima with which the
 Chilean authorities could deal. In August of 1883 the Peruvians were
 defeated by the forces commanded by Admiral Lynch, and a government was
-then organized under the leadership of General Iglesias. A provisional
+then organized under the leadership of General [[Iglesias]]. A provisional
 treaty of peace was then drawn up and signed by General Iglesias and the
 Chilean representative, and this was finally ratified by the Chilean and
 Peruvian congresses respectively in April 1884. By the terms of this
@@ -2288,7 +2288,7 @@ withdrawn from Lima and other points of occupation in Peruvian
 territory. The government of Bolivia also attempted to negotiate a
 treaty of peace with Chile in 1884, and for this purpose sent
 representatives to Santiago. No satisfactory terms, however, could be
-arranged, and the negotiations ended in only an armistice being agreed
+arranged, and the negotiations ended in only an [[Armistice|armistice]] being agreed
 to, by which Chile remained in occupation of the Bolivian seaboard
 pending a definite settlement at some future period.
 
@@ -2307,7 +2307,7 @@ specially created for the purpose, were reserved solely for the burial
 of Roman Catholics. Under the new regime these cemeteries were made
 common to the dead of all religions. Under President Perez, in 1865, a
 clause in the law of constitution had been introduced permitting the
-exercise of all creeds of religion, and this was now put into practice,
+exercise of all [[Creeds|creeds]] of religion, and this was now put into practice,
 all restrictions being removed. On several occasions, notably in 1882
 and 1885, President Santa Maria used his influence in the elections of
 senators and deputies to congress for the purpose of creating a
@@ -2378,11 +2378,11 @@ to nominate and cause to be elected as his successor at the expiration
 of his term of office in 1891 one of his own personal friends. This
 question of the election of another president brought matters to a head,
 and congress refused to vote supplies to carry on the government. To
-avoid trouble Balmaceda entered into a compromise with congress, and
+avoid trouble Balmaceda entered into a [[Compromise|compromise]] with congress, and
 agreed to nominate a ministry to their liking on condition that the
 supplies for 1890 were voted. This cabinet, however, was of short
 duration, and resigned when the ministers understood the full amount of
-friction between the president and congress. Balmaceda then nominated a
+[[Friction|friction]] between the president and congress. Balmaceda then nominated a
 ministry not in accord with the views of congress under Señor Claudio
 Vicuña, whom it was no secret that Balmaceda intended to be his
 successor in the presidential chair, and, to prevent any expression of
@@ -2430,7 +2430,7 @@ determined to dispose of the reserve of silver bullion accumulated in
 the vaults of the Casa de Moneda in accordance with the terms of the law
 for the conversion of the note issue. The silver was conveyed abroad in
 a British man-of-war, and disposed of partly for the purchase of a fast
-steamer to be fitted as an auxiliary cruiser and partly in payment for
+steamer to be fitted as an [[Auxiliary|auxiliary]] cruiser and partly in payment for
 other kinds of war material.
 
 The organization of the revolutionary forces went on slowly. Much
@@ -2443,7 +2443,7 @@ however, slipped away and made for the Chilean coast, carrying with her
 the representatives of the United States. A fast cruiser was immediately
 sent in pursuit, but only succeeded in overhauling the rebel ship after
 she was at her destination. The "Itata" was then forced to return to San
-Diego without landing her cargo for the insurgents. The necessary arms
+Diego without landing her [[Cargo|cargo]] for the insurgents. The necessary arms
 and ammunition were arranged for in Europe; they were shipped in a
 British vessel, and transferred to a Chilean steamer at Fortune Bay, in
 Tierra del Fuego, close to the Straits of Magellan and the Falkland
@@ -2456,7 +2456,7 @@ comprising the "Blanco Encalada" and other ships, was sent to the
 southward for reconnoitring purposes and put into the port of Caldera.
 During the night of the 23rd of April, and whilst the "Blanco Encalada"
 was lying quietly at anchor, a torpedo boat called the "Almirante
-Lynch," belonging to the Balmaceda faction, steamed into the bay of
+Lynch," belonging to the Balmaceda [[Faction|faction]], steamed into the bay of
 Caldera and discharged a torpedo at the rebel ship. The "Blanco
 Encalada" sank in a few minutes and 300 of her crew perished.
 
@@ -2470,7 +2470,7 @@ up), numbering in all about 9000 men, and sailed for the south. On the
 20 m. north of Valparaiso, and marched to Concon, where the Balmacedists
 were entrenched. A severe fight ensued, in which the troops of President
 Balmaceda were defeated with heavy loss. This reverse roused the worst
-passions of the president, and he ordered the arrest and imprisonment of
+passions of the president, and he ordered the [[Arrest|arrest]] and imprisonment of
 all persons suspected of sympathy with the revolutionary cause. The
 population generally were, however, distinctly antagonistic to
 Balmaceda; and this feeling had become accentuated since the 17th of
@@ -2480,7 +2480,7 @@ seditious practices. The shooting of these boys created a feeling of
 horror throughout the country, and a sensation of uncertainty as to what
 measures of severity might not be practised in the future if Balmaceda
 won the day. After the victory at Concon the insurgent army, under
-command of General Campos, marched in a southerly direction towards Viña
+command of General [[Campos]], marched in a southerly direction towards Viña
 del Mar, and thence to Placilla, where the final struggle in the
 conflict took place. Balmaceda's generals Barbosa and Alcérrica had here
 massed their troops in a strong position. The battle, on the 28th of
@@ -2512,7 +2512,7 @@ them and a group of Chilean sailors in a drinking den in Valparaiso.
 Words led to blows. The Americans were badly handled, one of their
 number being killed and others severely hurt. The United States
 government characterized the affair as an outrage, demanding an
-indemnity as satisfaction. The Chilean authorities demurred at this
+[[Indemnity|indemnity]] as satisfaction. The Chilean authorities demurred at this
 attitude, and attempted to argue the matter. James G. Elaine, then
 secretary of state, refused peremptorily to listen to any explanations.
 In the end Chile paid an indemnity of $75,000 as asked, but the affair
@@ -2535,7 +2535,7 @@ campaign. The great majority of the voters, however, required no
 pressure to decide who was in their opinion the man most fitted to
 administer the affairs of the republic. For the first time in the
 history of Chile a perfectly free election was held, and Admiral Montt
-was duly chosen by a nearly unanimous vote to be chief magistrate for
+was duly chosen by a nearly unanimous vote to be chief [[Magistrate|magistrate]] for
 the constitutional term of five years. The senate and chamber of
 deputies were formally constituted in due course, and the government of
 the republic resumed normal conditions of existence. The new president
@@ -2552,7 +2552,7 @@ the new government was the grant of control to the municipalities, which
 hitherto had possessed little power to direct local affairs, and were
 not even permitted to dispose of the municipal revenues to any important
 amount without first obtaining the consent of the central government.
-Almost absolute power was now given these corporations to manage their
+Almost absolute power was now given these corporations to [[Manage|manage]] their
 own concerns, and the organization of the police was placed in their
 hands; at a later period, however, it was found necessary to modify this
 latter condition.
@@ -2584,7 +2584,7 @@ between the two countries. The treaties of 1881, 1893 and 1895 left
 doubts in the minds of both Chileans and Argentines as to the position
 of the frontier line. On the 17th of April 1896 another protocol was
 drawn up, by which the contending parties agreed to submit any
-differences to the arbitration of Great Britain, at the instance of one
+differences to the [[Arbitration|arbitration]] of Great Britain, at the instance of one
 or both governments. President Montt had now fulfilled his term of
 office, and on the 18th of September 1896 he handed over the
 presidential power to his successor, Señor Federico Errázuriz, who had
@@ -2718,7 +2718,7 @@ connexion with the proposal for compulsory arbitration between all
 American governments. The Chilean government made it quite clear that
 they would withdraw from the congress if this proposal was meant to be
 retroactive; and their unyielding attitude testified to the
-apprehensions felt by Chile concerning United States interference. In
+[[Apprehension|apprehensions]] felt by Chile concerning United States interference. In
 October the Chilean government announced that the contemplated
 conversion scheme, for which gold had been accumulated, would be
 postponed for two years (till October 1903), the gold being held as a
@@ -2744,7 +2744,7 @@ signed on the 20th of November 1902, and both parties to the litigation
 were satisfied. In order that future disputes might be amicably settled,
 a treaty was signed by which it was agreed that any question that might
 arise should be submitted to the arbitration of Great Britain or in
-default of that power to the Swiss Confederation. The removal of this
+[[Default|default]] of that power to the Swiss Confederation. The removal of this
 source of irritation and the restoration of friendly relations between
 the two republics was a great relief to the finance of Chile. Had it not
 been for the political instability of the country, the effects of the
@@ -2763,7 +2763,7 @@ very advantageous to both countries. By this treaty Bolivia ceded all
 claims to a seaport and strip of the coast, on condition that Chile
 constructed at her own charges a railway to Lapaz from the port of
 Arica, giving at the same time to Bolivia free transit across Chilean
-territory to the sea. A cash indemnity of £300,000 was also paid, and
+territory to the sea. A [[Cash|cash]] indemnity of £300,000 was also paid, and
 certain stipulations were made with regard to the construction of other
 railways giving access from Chile to the Bolivian interior.
 
@@ -2777,7 +2777,7 @@ Santiago and other towns were severely shaken and suffered much damage.
 It was estimated that about 3000 persons were killed, a still larger
 number injured, and at least 100,000 rendered homeless. The loss of
 property was enormous. The fire which broke out after the earthquake
-shock had subsided added to the horror of the catastrophe. Measures
+shock had subsided added to the horror of the [[Catastrophe|catastrophe]]. Measures
 were, however, promptly taken for succouring the people, who had been
 driven from their homes, and the task of restoration was vigorously
 taken in hand. Before the end of the year the rebuilding of the city was
@@ -2813,7 +2813,7 @@ country.
   BIBLIOGRAPHY.--_General History_.--The most valuable authority is D.
   Barros Arana's _Historia jeneral de Chile_ (15 vols., Santiago, 1884),
   from the earliest days up to 1830. Smaller handbooks covering the
-  whole period are: A.U. Hancock, a _History of Chile_ (Chicago, 1893),
+  whole period are: A.U. Hancock, a _History of Chile_ ([[Chicago]], 1893),
   the only general history in English, and containing a bibliography;
   Gaspar Toro, _Compendio de la historia de Chile_ (Santiago, 1879), a
   good clear abstract of Chilean history; and F. Valdes Vergara,
@@ -2870,7 +2870,7 @@ country.
   Rospido, _Los Pueblos hispano-americanos en el siglo XX._ (Madrid,
   1904); P.F. Martin, _Through Five Republics of South America_ (London,
   1906); Wright, _The Republic of Chile_ (London, 1905); G.F. Scott
-  Elliot, _Chilé_ (London, 1907); Sir W.M. Conway, _Aconcagua and
+  Elliot, _Chilé_ (London, 1907); Sir W.M. [[Conway]], _Aconcagua and
   Tierra del Fuego_ (London, 1902); "Chile-Argentine Arbitration" in the
   _Geog. Journal_ (January 1903); C.M. Pepper, _Panama to Patagonia_
   (London, 1907); C.E. Akers, _History of South America, 1854-1904_
@@ -2898,7 +2898,7 @@ FOOTNOTES:
 
   [3] Also classified as _Nothofagus_ (Mirb.).
 
-  [4] A. Gallenga, _South America_ (London, 1880), p. 181.
+  [4] A. [[Gallenga]], _South America_ (London, 1880), p. 181.
 
   [5] The expenditures of 1902 are also given as 25,882,702 pesos gold,
     and 108,844,693 pesos currency.

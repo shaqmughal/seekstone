@@ -17,14 +17,14 @@ the rocks contain two or more ferromagnesian silicates, and such
 combinations as "hornblende-biotite-diorite" are commonest in nature.
 
 The felspar of the diorites ranges in composition from oligoclase to
-labradorite, and is often remarkably zonal, the external layers being
+[[Labradorite|labradorite]], and is often remarkably zonal, the external layers being
 more alkaline than the internal. Small fluid enclosures and black
 grains, probably iron oxides, often occur in it in great numbers.
-Weathering produces epidote, calcite, sericite and kaolin. The biotite
+Weathering produces [[Epidote|epidote]], [[Calcite|calcite]], sericite and kaolin. The biotite
 is always brown or yellow; the hornblende usually green, but sometimes
 brown or yellowish brown in those diorites which have affinities to
 lamprophyres. The augite is nearly always green but sometimes has a
-reddish tinge; bronzite and hypersthene have their usual green and brown
+reddish tinge; [[Bronzite|bronzite]] and hypersthene have their usual green and brown
 shades. Apatite, iron oxides and zircon are almost invariably present;
 sphene, garnet and orthite are occasionally observed; calcite, chlorite,
 muscovite, kaolin, epidote and bastite are secondary. The structure is
@@ -40,9 +40,9 @@ formed individuals of felspar. This produces the ophitic structure (very
 common also in the dolerites). More rarely biotite and augite exhibit
 the same relations to the plagioclase. Orbicular structure also
 occasionally appears in these rocks; in fact the orbicular diorite of
-Corsica (also called "Napoleonite" or "Corsite") was for a long time the
+[[Corsica]] (also called "Napoleonite" or "Corsite") was for a long time the
 best-known example of this structure. The rock seems composed of
-spheroids, about an inch in diameter, surrounded by a smaller amount of
+spheroids, about an [[Inch|inch]] in diameter, surrounded by a smaller amount of
 dark-coloured dioritic matrix. The spheroids have a radiate structure
 and often show concentric dark and pale shells. These consist of
 hornblende (dark green) and basic plagioclase felspar, labradorite and

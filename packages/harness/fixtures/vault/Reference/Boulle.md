@@ -4,7 +4,7 @@ BOULLE, ANDRE CHARLES (1642-1732), French cabinet-maker, who gave his
 name to a fashion of inlaying known as Boulle or Buhl work. The son of
 Jean Boulle, a member of a family of _ebenistes_ who had already
 achieved distinction--Pierre Boulle, who died c. 1636, was for many
-years _tourneur et menuisier du roy des cabinets d'ebene_,--he became
+years _tourneur et menuisier du roy des [[Cabinet|cabinets]] d'ebene_,--he became
 the most famous of his name and was, indeed, the second
 cabinet-maker--the first was Jean Mace--who has acquired individual
 renown. That must have begun at a comparatively early age, for at thirty
@@ -14,7 +14,7 @@ most talented of the artists employed by the crown. To be admitted to
 these galleries was not only to receive a signal mark of royal favour,
 but to enjoy the important privilege of freedom from the trammels of the
 trade gilds. Boulle was given the deceased Jean Mace's own lodging in
-1672 by Louis XIV. upon the recommendation, of Colbert, who described
+1672 by Louis XIV. upon the recommendation, of [[Colbert]], who described
 him as "_le plus habile ebeniste de Paris_," but in the patent
 conferring this privilege he is described also as "chaser, gilder and
 maker of marqueterie." Boulle appears to have been originally a painter,
@@ -22,26 +22,26 @@ since the first payment to him by the crown of which there is any record
 (1669) specifies "ouvrages de peinture." He was employed for many years
 at Versailles, where the mirrored walls, the floors of "wood mosaic,"
 the inlaid panelling and the pieces in marqueterie in the Cabinet du
-Dauphin were regarded as his most remarkable work. These rooms were long
+[[Dauphin]] were regarded as his most remarkable work. These rooms were long
 since dismantled and their contents dispersed, but Boulle's drawings for
 the work are in the Musee des Arts Decoratifs. His royal commissions
 were, indeed, innumerable, as we learn both from the _Comptes des
-batiments_ and from the correspondence of Louvois. Not only the most
+batiments_ and from the correspondence of [[Louvois]]. Not only the most
 magnificent of French monarchs, but foreign princes and the great nobles
 and financiers of his own country crowded him with commissions, and the
 _mot_ of the abbe de Marolles, "_Boulle y tourne en ovale_," has become
 a stock quotation in the literature of French cabinet-making. Yet
 despite his distinction, the facility with which he worked, the high
-prices he obtained, and his workshops full of clever craftsmen, Boulle
+prices he obtained, and his workshops full of [[Clever|clever]] craftsmen, Boulle
 appears to have been constantly short of money. He did not always pay
 his workmen, clients who had made considerable advances failed to obtain
 the fine things they had ordered, more than one application was made for
-permission to arrest him for debt under orders of the courts within the
-asylum of the Louvre, and in 1704 we find the king giving him six
+permission to [[Arrest|arrest]] him for [[Debt|debt]] under orders of the courts within the
+[[Asylum|asylum]] of the Louvre, and in 1704 we find the king giving him six
 months' protection from his creditors on condition that he used the time
-to regulate his affairs or "ce scra la derniere grace que sa majeste lui
+to regulate his affairs or "ce scra la derniere [[Grace|grace]] que sa majeste lui
 fera la-dessus." Twenty years later one of his sons was arrested at
-Fontainebleau and kept in prison for debt until the king had him
+[[Fontainebleau]] and kept in prison for debt until the king had him
 released. In 1720 his finances were still further embarrassed by a fire
 which, beginning in another atelier, extended to his twenty workshops
 and destroyed most of the seasoned materials, appliances, models and
@@ -52,7 +52,7 @@ business, but, according to his friend Mariette, many of his pecuniary
 difficulties were caused by his passion for collecting pictures,
 engravings and other objects of art--the inventory of his losses in the
 fire, which exceeded L40,000 in amount, enumerates many old masters,
-including forty-eight drawings by Raphael and the manuscript journal
+including forty-eight drawings by Raphael and the [[Manuscript|manuscript]] journal
 kept by Rubens in Italy. He attended every sale of drawings and
 engravings, borrowed at high interest to pay for his purchases, and when
 the next sale took place, fresh expedients were devised for obtaining
@@ -81,12 +81,12 @@ he quite the inventor of the peculiar type of inlay which is chiefly
 associated with his name; but no artist, before or since, has used these
 motives with such astonishing skill, courage and surety. He produced
 pieces of monumental solidity blazing with harmonious colour, or
-gleaming with the sober and dignified reticence of ebony, ivory and
+gleaming with the sober and dignified reticence of ebony, [[Ivory|ivory]] and
 white metal. The Renaissance artists chiefly employed wood in making
-furniture, ornamenting it with gilding and painting, and inlaying it
-with agate, cornelian, lapis-lazuli, marble of various tints, ivory,
+furniture, ornamenting it with [[Gilding|gilding]] and painting, and inlaying it
+with agate, cornelian, lapis-lazuli, [[Marble|marble]] of various tints, ivory,
 tortoise-shell, mother-of-pearl and various woods. Boulle improved upon
-this by inlaying brass devices into wood or tortoise-shell, which last
+this by inlaying [[Brass|brass]] devices into wood or tortoise-shell, which last
 he greatly used according to the design he had immediately in view,
 whether flowers, scenes, scrolls, &c.; to these he sometimes added
 enamelled metal. Indeed the use of tortoise-shell became so
@@ -106,7 +106,7 @@ his designs. He placed gold-leaf or other suitable material under the
 tortoise-shell to produce such effect as he required; he chased the
 brass-work with a graver for a like purpose, and, when the metal
 required to be fastened down with brass pins or nails, these were
-hammered flat and disguised by ornamental chasing. He also adopted, in
+hammered flat and disguised by ornamental [[Chasing|chasing]]. He also adopted, in
 relief or in the round, brass feet, brackets, edgings, and other
 ornaments of appropriate design, partly to protect the corners and edges
 of his work, and partly for decoration. He subsequently used other brass
@@ -117,25 +117,25 @@ always of the greatest excellence. They were cast in the rough--the
 tools of the chaser gave them their sharpness, their minute finish,
 their jewel-like smoothness.
 
-Unhappily it is by no means easy, even for the expert, to declare the
-authenticity of a commode, a bureau, or a table in the manner of Boulle
+Unhappily it is by no means easy, even for the [[Expert|expert]], to declare the
+authenticity of a commode, a [[Bureau|bureau]], or a table in the manner of Boulle
 and to all appearance from his workshops. His sons unquestionably
 carried on the traditions for some years after his death, and his
 imitators were many and capable. A few of the more magnificent
 pedigree-pieces are among the world's mobiliary treasures. There are,
-for instance, the two famous _armoires_, which fetched L12,075 at the
+for instance, the two famous _[[Armoire|armoires]]_, which fetched L12,075 at the
 Hamilton Palace sale; the marqueterie commodes, enriched with bronze
 mounts, in the Bibliotheque Mazarine; various cabinets and commodes and
-tables in the Louvre, the Musee Cluny and the Mobilier National; the
-marriage coffers of the dauphin which were in the San Donato collection.
+tables in the Louvre, the Musee [[Cluny]] and the Mobilier National; the
+marriage [[Coffer|coffers]] of the dauphin which were in the San Donato collection.
 There are several fine authenticated pieces in the Wallace collection at
-Hertford House, together with others consummately imitated, probably in
+[[Hertford]] House, together with others consummately imitated, probably in
 the Louis Seize period. On the rare occasions when a pedigree example
 comes into the auction-room, it invariably commands a high price; but
 there can be little doubt that the most splendid and sumptuous specimens
 of Boulle are diminishing in number, while the second and third classes
 of his work are perhaps becoming more numerous. The truth is that this
-wonderful work, with its engraved or inlaid designs of Berain, its
+wonderful work, with its engraved or inlaid designs of [[Berain]], its
 myriads of tiny pieces of ivory and copper, ebony and tortoise-shell,
 all kept together with glue and tiny chased nails, and applied very
 often to a rather soft, white wood, is not meet to withstand the ravages

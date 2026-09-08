@@ -6,7 +6,7 @@ seen in the cognate "lime," Lat. _limus_, mud, clay), a fertile soil
 composed of a mixture of sand, clay, and decomposed vegetable matter,
 the quantity of sand being sufficient to prevent the clay massing
 together. The word is also used of a mixture of sand, clay and straw,
-used for making casting-moulds and bricks, and for plastering walls, &c.
+used for making casting-moulds and [[Brick|bricks]], and for plastering walls, &c.
 (see SOIL).
 
 ## See also

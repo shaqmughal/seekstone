@@ -10,7 +10,7 @@ tags: [literature, mythology]
 MAPLE, in botany. The maple (O.E. _mapel-tréow, mapulder_) and sycamore
 trees are species of _Acer_, of the order _Acerineae_. The genus
 includes about sixty species, natives of Europe, North America and Asia,
-especially the Himalayas, China and Japan. Maples are for the most part
+especially the [[Himalaya|Himalayas]], China and [[Japan]]. Maples are for the most part
 trees with opposite, long-stalked, palmately lobed leaves. The flowers
 are in fascicles, appearing before the leaves as in the Norway maple, or
 in racemes or panicles appearing with, or later than, the leaves as in
@@ -20,7 +20,7 @@ genus was represented in the Tertiary flora of Europe, when it extended
 into the polar regions; nineteen species have been recorded from the
 Miocene strata of Oeningen in Switzerland. The common maple, _A.
 campestre_, is the only species indigenous to Great Britain. This and
-the sycamore were described by Gerard in 1597 (_Herball_, p. 1299), the
+the sycamore were described by [[Gerard]] in 1597 (_Herball_, p. 1299), the
 latter being "a stranger to England." Many species have been introduced,
 especially from Japan, for ornamental purposes. The following are more
 especially worthy of notice.
@@ -28,15 +28,15 @@ especially worthy of notice.
   _Acer campestre_, the common maple, is common in hedgerows, but less
   often seen as a tree, when it is seldom more than 20 ft. high, though
   in sheltered situations 30 ft. or more is attained. The leaves are
-  generally less than 2 in. across, and the five main lobes are blunter
+  generally less than 2 in. across, and the five main [[Lobe|lobes]] are blunter
   than in the sycamore. The clusters of green flowers terminate the
   young shoots and are erect; the two wings of the fruit spread almost
   horizontally, and are smaller than in the sycamore. It occurs in
-  northern Europe, the Caucasus, and northern Asia. The wood is
-  excellent fuel, and makes the best charcoal. It is compact, of a fine
+  northern Europe, the [[Caucasus]], and northern Asia. The wood is
+  excellent [[Fuel|fuel]], and makes the best [[Charcoal|charcoal]]. It is compact, of a fine
   grain, sometimes beautifully veined, and takes a high polish. Hence it
   has been celebrated from antiquity for tables, &c. The wood of the
-  roots is frequently knotted, and valuable for small objects of cabinet
+  roots is frequently knotted, and valuable for small objects of [[Cabinet|cabinet]]
   work. The young shoots, being flexible and tough, are employed in
   France as whips.
 
@@ -52,14 +52,14 @@ especially worthy of notice.
   knotted roots are used for inlaying. Sugar has been obtained from the
   sap of this as from other species, the most being one ounce from a
   quart of sap. The latter has also been made into wine in the Highlands
-  of Scotland. It withstands the sea and mountain breezes better than
+  of Scotland. It withstands the sea and mountain [[Breeze|breezes]] better than
   most other timber trees, and is often planted near farm-houses and
   cottages in exposed localities for the sake of its dense foliage. Its
   wood is valued in turnery for cups, bowls and pattern blocks. It
   produces abundance of seeds, and is easily raised, but it requires
   good and tolerably dry soil; it will not thrive on stiff clays nor on
   dry sands or chalks. There are many varieties, the variegated and
-  cut-leaved being the most noticeable. The lobed shape of its leaf and
+  cut-leaved being the most noticeable. The lobed shape of its [[Leaf|leaf]] and
   its dense foliage caused it to be confused with the true
   sycamore--_Ficus sycamorus_--of scripture.
 
@@ -75,32 +75,32 @@ especially worthy of notice.
   with variously laciniated and more or less coloured foliage, have been
   introduced from Japan as ornamental shrubs. The branches and corolla
   are purple, the fruit woolly. The foliage of the typical form is
-  bright green with very pointed lobes. It occurs in the central
+  [[Bright|bright]] green with very pointed lobes. It occurs in the central
   mountains of Nippon and near Nagasaki. Beautiful varieties have been
   introduced under the varietal names, _ampelopsifolium_,
   _atropurpureum_, _dissectum_, &c. They are remarkable for the coppery
   purple tint that pervades the leaves and young growths of some of the
   varieties. Other Japanese species are _A. japonicum_, the varieties of
-  which are among the most handsome of small deciduous shrubs; _A.
+  which are among the most handsome of small [[Deciduous|deciduous]] shrubs; _A.
   rufinerve_, with the habit of the sycamore; _A. distylum_, bearing
   leaves without lobes; _A. diabolicum_, with large plane-like leaves;
   and _A. carpinifolium_, with foliage resembling that of the hornbeam.
 
   _A. saccharinum_, a North American species, the sugar, rock, or
-  bird's-eye maple, was introduced in 1735. It sometimes attains to 70
+  [[Bird'S-Eye|bird's-eye]] maple, was introduced in 1735. It sometimes attains to 70
   or even over 100 ft., more commonly 50 to 60 ft. It is remarkable for
   the whiteness of the bark. The wood is white, but acquires a rosy
   tinge after exposure to light. The grain is fine and close, and when
   polished has a silky lustre. The timber is used instead of oak where
   the latter is scarce, and is employed for axle-trees and spokes, as
   well as for Windsor chairs, &c. It exhibits two accidental forms in
-  the arrangement of the fibres, an undulated one like those of the
+  the arrangement of the [[Fibres|fibres]], an undulated one like those of the
   curled maple (_A. rubrum_), and one of spots, which gives the name
   bird's-eye to the wood of this species. Like the curled maple, it is
   used for inlaying mahogany. It is much prized for bedsteads,
   writing-desks, shoe-lasts, &c. The wood forms excellent fuel and
   charcoal, while the ashes are rich in alkaline principles, furnishing
-  a large proportion of the potash exported from Boston and New York.
+  a large proportion of the potash exported from [[Boston]] and New York.
   Sugar is principally extracted from this species, the sap being boiled
   and the syrup when reduced to a proper consistence runs into moulds to
   form cakes. Trees growing in low and moist situations afford the most

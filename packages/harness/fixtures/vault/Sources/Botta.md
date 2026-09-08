@@ -11,12 +11,12 @@ BOTTA, CARLO GIUSEPPE GUGLIELMO (1766-1837), Italian historian, was born
 at San Giorgio Canavese in Piedmont. He studied medicine at the
 university of Turin, and obtained his doctor's degree when about twenty
 years of age. Having rendered himself obnoxious to the government during
-the political commotions that followed the French Revolution, he was
+the political commotions that followed the [[French Revolution]], he was
 imprisoned for over a year; and on his release in 1795 he withdrew to
 France, only to return to his native country as a surgeon in the French
 army, whose progress he followed as far as Venice. Here he joined the
-expedition to Corfu, from which he did not return to Italy till 1798. At
-first he favoured French policy in Italy, contributed to the annexation
+expedition to [[Corfu]], from which he did not return to Italy till 1798. At
+first he favoured French policy in Italy, contributed to the [[Annexation|annexation]]
 of Piedmont by France in 1799, and was an admirer of Napoleon; but he
 afterwards changed his views, realizing the necessity for the union of
 all Italians and for their freedom from foreign control. After the
@@ -29,7 +29,7 @@ political quiet that followed 1816 he naturally devoted himself more
 exclusively to literature. In 1824 he published a history of Italy from
 1789 to 1814 (4 vols.), on which his fame principally rests; he himself
 had been an eyewitness of many of the events described. His continuation
-of Guicciardini, which he was afterwards encouraged to undertake, is a
+of [[Guicciardini]], which he was afterwards encouraged to undertake, is a
 careful and laborious work, but is not based on original authorities and
 is of small value. Though living in Paris he was in both these works the
 ardent exponent of that recoil against everything French which took

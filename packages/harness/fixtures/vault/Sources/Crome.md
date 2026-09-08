@@ -18,7 +18,7 @@ step he appears to have been led by an inborn love of art and the desire
 to acquaint himself by any means with its materials and processes.
 During his apprenticeship he sometimes painted signboards, and devoted
 what leisure time he had to sketching from nature. Through the influence
-of a rich art-loving friend he was enabled to exchange his occupation of
+of a rich art-loving friend he was enabled to [[Exchange|exchange]] his occupation of
 house-painter for that of drawing-master; and in this he was engaged
 throughout his life. He took great delight in a collection of Dutch
 pictures to which he had access, and these he carefully studied. About
@@ -28,14 +28,14 @@ help in his art. In 1805 the Norwich Society of Artists took definite
 shape, its origin being traceable a year or two further back. Crome was
 its president and the largest contributor to its annual exhibitions.
 Among his pupils were James Stark, Vincent, Thirtle and John Bernay
-(Barney) Crome (1794-1842), his son. J. S. Cotman, too, a greater artist
+(Barney) Crome (1794-1842), his son. J. S. [[Cotman]], too, a greater artist
 than any of these, was associated with him. Crome continued to reside at
 Norwich, and with the exception of his short visits to London had little
 or no communication with the great artists of his own time. He first
 exhibited at the Royal Academy in 1806; but in this and the following
 twelve years he exhibited there only fourteen of his works. With very
 few exceptions Crome's subjects are taken from the familiar scenery of
-his native county. Fidelity to nature was his dominant aim. "The bit of
+his native county. Fidelity to nature was his dominant aim. "The [[Bit|bit]] of
 heath, the boat, and the slow water of the flattish land, trees most of
 all--the single tree in elaborate study, the group of trees, and how the
 growth of one affects that of another, and the characteristics of
@@ -46,8 +46,8 @@ master of the oak. His most important works are--"Mousehold Heath, near
 Norwich," now in the National Gallery; "Clump of Trees, Hautbois
 Common"; "Oak at Poringland"; the "Willow"; "Coast Scene near Yarmouth";
 "Bruges, on the Ostend River"; "Slate Quarries"; the "Italian
-Boulevards"; and the "Fishmarket at Boulogne." He executed a good many
-etchings, and the great charm of these is in the beautiful and faithful
+[[Boulevard|Boulevards]]"; and the "Fishmarket at [[Boulogne]]." He executed a good many
+etchings, and the great [[Charm|charm]] of these is in the beautiful and faithful
 representation of trees. Crome enjoyed a very limited reputation during
 his life, and his pictures were sold at low prices; but since his death
 they have been more and more appreciated, and have given him a high
@@ -58,7 +58,7 @@ being much admired.
 
   A collection of "Old" Crome's etchings, entitled _Norfolk Picturesque
   Scenery_, was published in 1834, and was re-issued with a memoir by
-  Dawson Turner in 1838, but in this issue the prints were retouched by
+  [[Dawson]] Turner in 1838, but in this issue the prints were retouched by
   other hands.
 
 ## References

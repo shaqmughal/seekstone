@@ -6,14 +6,14 @@ exceedingly mountainous and rocky, but is interspersed with open valleys
 and fertile plains. Pleasant groves of trees in the plains give to the
 scenery a greener appearance than is usually met with in the districts
 to the south. The mountainous tract known as the Maliyas, or chain of
-the Eastern Ghats, has an average height of about 2000 ft.--its
+the Eastern [[Ghats]], has an average height of about 2000 ft.--its
 principal peaks being Singharaj (4976 ft.), Mahendragiri (4923) and
 Devagiri (4535). The hilly region forms the agency of Ganjam, with an
 area of 3483 sq. m. and a population (in 1901) of 321,114, mostly wild
 backward tribes, incapable of being governed under ordinary conditions
 and therefore ruled by an agent of the governor with special powers. The
 chief rivers are the Rushikulya, the Vamsadhara and the Languliya. The
-sea and river fisheries afford a livelihood to a considerable section of
+sea and river [[Fisheries|fisheries]] afford a livelihood to a considerable section of
 the population. The hilly region abounds in forests consisting
 principally of _sal_, with satin-wood, ebony and sandal-wood in smaller
 quantities.
@@ -24,11 +24,11 @@ ascended the throne of Orissa that this tract became even nominally a
 part of their dominions. Owing to the nature of the country the rising
 Mahommedan power was long kept at bay; and it was not till nearly a
 century after the first invasion of Orissa that a Mahommedan governor
-was sent to govern the Chicacole Circars, which included the present
+was sent to govern the Chicacole [[Circar|Circars]], which included the present
 district of Ganjam. In 1753 Chicacole, with the Northern Circars, were
-made over to the French by Salabat Jang for the maintenance of his
-French auxiliaries. In 1759 Masulipatam was taken by an English force
-sent from Bengal, and the French were compelled to abandon Ganjam and
+made over to the French by Salabat Jang for the [[Maintenance|maintenance]] of his
+French auxiliaries. In 1759 [[Masulipatam]] was taken by an English force
+sent from [[Bengal]], and the French were compelled to abandon Ganjam and
 their other factories in the north. In 1765 the Northern Circars
 (including Ganjam) were granted to the English by imperial firman, and
 in August 1768 an English factory was founded at Ganjam, protected by a
@@ -52,7 +52,7 @@ monopoly, along the coast. Sugar is refined, according to German
 methods, at Aska, where rum also is produced. A considerable trade is
 conducted at the ports of Gopalpur and Calingapatam, which are only open
 roadsteads. The district is traversed throughout by the East Coast
-railway (Bengal-Nagpur system), which was opened from Calcutta to Madras
+railway (Bengal-Nagpur system), which was opened from [[Calcutta]] to Madras
 in 1900. There are colleges at Berhampore and Parlakimedi. The
 headquarters station is Berhampore; the town of Ganjam occupied this
 position till 1815, when it was found unhealthy, and its importance has

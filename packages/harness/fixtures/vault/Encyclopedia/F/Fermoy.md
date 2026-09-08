@@ -9,13 +9,13 @@ type: reference
 
 FERMOY, a market town in the east riding of Co. Cork, Ireland, in the
 north-east parliamentary division, 21 m. by road N.E. of Cork, and 14 m.
-E. of Mallow by a branch of the Great Southern & Western railway. Pop.
+E. of [[Mallow]] by a branch of the Great Southern & Western railway. Pop.
 of urban district (1901) 6126. It is situated on the river Blackwater,
 which divides the town into two parts, the larger of which is on the
 southern bank, and there the trade of the town, which is chiefly in
 flour and agricultural produce, is mainly carried on. The town has
 several good streets and some noteworthy buildings. Of the latter, the
-most prominent are the military barracks on the north bank of the river,
+most prominent are the military [[Barracks|barracks]] on the north bank of the river,
 the Protestant church, the Roman Catholic cathedral and St Colman's
 Roman Catholic college. Fermoy rose to importance only at the beginning
 of the 19th century, owing entirely to the devotion of John Anderson, a

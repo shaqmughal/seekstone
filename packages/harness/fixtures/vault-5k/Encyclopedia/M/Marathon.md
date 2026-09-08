@@ -15,8 +15,8 @@ their tyrant Hippias. It was probably by advice of the latter that the
 generals Datis and Artaphernes landed their troops, numbering perhaps
 50,000, at Marathon. The Athenians, on the recommendation of their
 strategus Miltiades, resolved to meet this force in the open field, and
-sent out their full levy of 9000 heavy infantry under the polemarch
-Callimachus. They were joined on the way by 1000 Plataeans, but were
+sent out their full [[Levy|levy]] of 9000 heavy infantry under the polemarch
+[[Callimachus]]. They were joined on the way by 1000 Plataeans, but were
 disappointed of the assistance which they expected from Sparta. From
 their station at the head of the Vrana valley, which slopes down to
 Marathon plain, the Athenians for some days observed the Persian army,
@@ -46,11 +46,11 @@ but reconstructions have been attempted by numerous modern authorities.
 
 The tumulus or "Soros" was excavated by M. Stais in 1891 and 1892. A
 slight previous excavation had brought to light some prehistoric
-implements, and it was supposed that the mound had no connexion with the
+[[Implement|implements]], and it was supposed that the mound had no connexion with the
 battle; but it has now been discovered that the presence of those
 prehistoric objects was accidental. Underlying the mound was found a
 stratum about 85 ft. long by 20 broad, consisting of a layer of sand,
-above which lay the ashes and bones of many corpses; together with these
+above which lay the ashes and [[Bone|bones]] of many [[Corpse|corpses]]; together with these
 were the remains of many lecythi and other vases, some of them
 contemporary with the Persian wars, some of them of much earlier style,
 and probably taken in the emergency from neighbouring cemeteries. It is
@@ -64,9 +64,9 @@ that it marks the place where the carnage was thickest. A selection from
 the contents of the tumulus has been placed in the National Museum at
 Athens.     (E. Gr.)
 
-  See Herodotus vi. 102-117; W. M. Leake, _The Topography of Athens_
+  See Herodotus vi. 102-117; W. M. [[Leake]], _The Topography of Athens_
   (London, 1841), ii. 203-227; R. W. Macan, _Herodotus_, iv.-vi.
-  (London, 1895), ii. 149-248; G. B. Grundy, _The Great Persian War_
+  (London, 1895), ii. 149-248; G. B. [[Grundy]], _The Great Persian War_
   (London, 1901), pp. 145-194; J. A. Munro in _Journal of Hellenic
   Studies_, 1899, pp. 186-197. For the tumulus, [Greek: Harchaiologikon
   Aeltion] 1891, pp. 67 sqq. See also MILTIADES.

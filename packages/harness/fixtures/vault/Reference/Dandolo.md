@@ -9,21 +9,21 @@ tags: [exploration-studies, grammar]
 # Dandolo
 
 DANDOLO, the name of one of the most illustrious patrician families of
-Venice, of which the earliest recorded member was one of the electors of
+Venice, of which the earliest recorded member was one of the [[Electors|electors]] of
 the first doge (A.D. 697). The Dandolo gave to Venice four doges; of
 these the first and most famous was Enrico Dandolo (c. 1120-1205),
 elected on the 1st of January 1193 (_more Veneto_, 1192). He had
 distinguished himself in various military enterprises and diplomatic
 negotiations in the course of an active career, and although over
 seventy years old and of very weak sight (the story that he had been
-made blind by the emperor Manuel Comnenus while he was at Constantinople
+made blind by the emperor [[Manuel]] [[Comnenus]] while he was at Constantinople
 is a legend), he proved a most energetic and capable ruler. His first
 care was to re-establish Venetian authority over the Dalmatians who had
 rebelled with the king of Hungary's protection, but he failed to capture
 Zara, owing to the arrival of the Pisan fleet, and although the latter
 was defeated by the Venetians, the undertaking was suspended. In the
 meanwhile the situation in the East was becoming critical. The Eastern
-emperor Isaac II. Angelus had been deposed, imprisoned, and blinded by
+emperor [[Isaac]] II. Angelus had been deposed, imprisoned, and blinded by
 his brother Alexius, who usurped the throne. The new emperor proved
 unfriendly to the Venetians and made difficulties about renewing their
 privileges. In the West a new crusade to the Holy Land was in
@@ -68,10 +68,10 @@ booty was secured, the Venetians obtaining among other treasures the
 four bronze horses which adorn the facade of St Mark's. The Eastern
 empire was abolished, and a feudal Latin empire erected in its stead.
 The leaders of the crusaders then met to elect an emperor. Dandolo was
-one of the candidates, but Count Baldwin of Flanders was elected and
+one of the candidates, but Count [[Baldwin]] of [[Flanders]] was elected and
 crowned on the 23rd of May. The Venetians were given Crete and several
-other islands and ports in the Levant, which formed an uninterrupted
-chain from Venice to the Black Sea, a large part of Constantinople
+other islands and ports in the [[Levant]], which formed an uninterrupted
+chain from Venice to the [[Black Sea]], a large part of Constantinople
 (whence the doge assumed the title of "lord of a quarter and a half of
 Romania"), and many valuable privileges. But hardly had the new state
 been established when various provinces rose in rebellion and the
@@ -102,7 +102,7 @@ occupied Treviso and otherwise extended their possessions on the _terra
 firma_. Andrea Dandolo (1307/10-1354), the last doge of the family,
 reigned from 1343 to 1354. He had been the first Venetian noble to take
 a degree at the university of Padua, where he had also been professor of
-jurisprudence. The terrible plague of 1348, wars with Genoa, against
+[[Jurisprudence|jurisprudence]]. The terrible plague of 1348, wars with Genoa, against
 whom the great naval victory of Lojera was won in 1353, many treaties,
 and the subjugation of the seventh revolt of Zara, are the chief events
 of his reign. The poet Petrarch, who was the doge's intimate friend, was
@@ -111,9 +111,9 @@ sent to Venice on a peace mission by Giovanni Visconti, lord of Milan.
 the same time learned, of rare eloquence, wise, affable, and humane," is
 the poet's verdict on Andrea Dandolo (_Varior. epist._ xix.). Dandolo
 died on the 7th of September 1354. He is chiefly famous as a historian,
-and his _Annals_ to the year 1280 are one of the chief sources of
+and his _[[Annals]]_ to the year 1280 are one of the chief sources of
 Venetian history for that period; they have been published by Muratori
-(_Rer. Ital. Script._ tom. xxi.). He also had a new code of laws
+(_Rer. Ital. Script._ tom. xxi.). He also had a new [[Code|code]] of laws
 compiled (issued in 1346) in addition to the statute of Jacopo Tiepolo.
 
 Another well-known member of this family was Silvestro Dandolo
@@ -123,7 +123,7 @@ Italian patriot and took part in the revolution of 1848.
 
   BIBLIOGRAPHY.--S. Romanin, _Storia documentata di Venezia_ (Venice,
   1853); among more recent books H. Kretschmayr's excellent _Geschichte
-  von Venedig_ (Gotha, 1905) should be consulted: it contains a
+  von Venedig_ ([[Gotha]], 1905) should be consulted: it contains a
   bibliography of the authorities and all the latest researches and
   discoveries; C. Cipolla and G. Monticolo have published many essays
   and editions of chronicles in the _Archivio Veneto_, and the "Fonti

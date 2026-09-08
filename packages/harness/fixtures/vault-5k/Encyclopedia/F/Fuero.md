@@ -1,11 +1,11 @@
 # Fuero
 
-FUERO, a Spanish term, derived from the Latin _forum_. The Castillan use
+FUERO, a Spanish term, derived from the Latin _[[Forum|forum]]_. The Castillan use
 of the word in the sense of a right, privilege or charter is most
 probably to be traced to the Roman _conventus juridici_, otherwise known
 as _jurisdictiones_ or _fora_, which in Pliny's time were already
 numerous in the Iberian peninsula. In each of these provincial _fora_
-the Roman magistrate, as is well known, was accustomed to pay all
+the Roman [[Magistrate|magistrate]], as is well known, was accustomed to pay all
 possible deference to the previously established common law of the
 district; and it was the privilege of every free subject to demand that
 he should be judged in accordance with the customs and usages of his
@@ -15,7 +15,7 @@ indeed, demonstrable, but there are many presumptions, besides some
 fragments of direct evidence, which make it more than probable that the
 old administrative arrangements both of the provinces and of the towns,
 but especially of the latter, remained practically undisturbed at the
-period of the Gothic occupation of Spain.[1] The Theodosian Code and the
+period of the [[Gothic]] occupation of Spain.[1] The Theodosian [[Code]] and the
 Breviary of Alaric alike seem to imply a continuance of the municipal
 system which had been established by the Romans; nor does the later Lex
 Visigothorum, though avowedly designed in some points to supersede the
@@ -45,7 +45,7 @@ charters for towns. The "fuero general" does not profess to supersede
 the _consuetudines antiquorum jurium_ or Chindaswint's codification of
 these in the Lex Visigothorum; the "fuero municipal" is really for the
 most part but a resuscitation of usages formerly established, a
-recognition and definition of liberties and privileges that had long
+recognition and [[Definition|definition]] of liberties and privileges that had long
 before been conceded or taken for granted. The right of the burgesses to
 self-government and self-taxation is acknowledged and confirmed, they,
 on the other hand, being held bound to a constitutional obedience and
@@ -56,7 +56,7 @@ this fuero of Leon was that granted to Najera (Naxera) by Sancho el
 Mayor of Navarre (_ob._ 1035), and confirmed, in 1076, by Alphonso
 VI.[5] Traces of others of perhaps even an earlier date are occasionally
 to be met with. In the fuero of Cardena, for example, granted by
-Ferdinand I. in 1039, reference is made to a previous forum Burgense
+[[Ferdinand]] I. in 1039, reference is made to a previous forum Burgense
 (Burgos), which, however, has not been preserved, if, indeed, it ever
 had been reduced to writing at all. The phraseology of that of Sepulveda
 (1076) in like manner points back to an indefinitely remote
@@ -86,7 +86,7 @@ Spanish crown was gradually concentrated and consolidated, royal
 pragmaticas began to take the place of constitutional laws; the local
 fueros of the various districts slowly yielded before the superior force
 of imperialism; and only those of Navarre and the Basque provinces (see
-BASQUES) have had sufficient vitality to enable them to survive to
+[[Basques|BASQUES]]) have had sufficient vitality to enable them to survive to
 comparatively modern times. While actually owning the lordship of the
 Castilian crown since about the middle of the 14th century, these
 provinces rigidly insisted upon compliance with their consuetudinary
@@ -108,7 +108,7 @@ the Portuguese towns, and of the _Fors du Bearn_, is precisely analogous
 to that of the fueros of Castile.
 
   Among the numerous works that more or less expressly deal with this
-  subject, that of Marina (_Ensayo historico-critico sobre la antigua
+  subject, that of Marina (_Ensayo historico-critico sobre la [[Antigua|antigua]]
   legislacion y principales cuerpos legales de los reynos de Leon y
   Castilla_) still continues to hold a high place. Reference may also be
   made to Colmeiro's _Curso de derecho politico segun la historia de
@@ -138,7 +138,7 @@ FOOTNOTES:
 
   [6] "Ego Aldefonsus rex et uxor mea Agnes confirmamus ad
     Septempublica suo foro quod habuit in tempore antiquo de avolo meo et
-    in tempore comitum Ferrando Gonzalez et comite Garcia Ferdinandez et
+    in tempore comitum Ferrando Gonzalez et comite [[Garcia]] Ferdinandez et
     comite Domno Santio."
 
   [7] This Latin is later even than that of Ferdinand, whose words are:

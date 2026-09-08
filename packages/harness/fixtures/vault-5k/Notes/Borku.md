@@ -18,7 +18,7 @@ khors with which its surface is scored are mostly dry or contain water
 for brief periods only. A considerable part of the soil is light sand
 drifted about by the wind. The irrigated and fertile portions consist
 mainly of a number of valleys separated from each other by low and
-irregular limestone rocks. They furnish excellent dates. Barley is also
+irregular [[Limestone|limestone]] rocks. They furnish excellent dates. Barley is also
 cultivated. The northern valleys are inhabited by a settled population
 of Tibbu stock, known as the Daza, and by colonies of negroes; the
 others are mainly visited by nomadic Berber and Arab tribes. The

@@ -12,7 +12,7 @@ COSHOCTON, a city and the county-seat of Coshocton county, Ohio, U.S.A.,
 at the confluence of the Tuscarawas and the Walhonding rivers, with the
 Muskingum river, and about 70 m. E.N.E. of Columbus. Pop. (1890) 3672;
 (1900) 6473 (364 foreign-born); (1910) 9603. It is served by the
-Pennsylvania, the Pittsburg, Cincinnati, Chicago & St Louis (controlled
+Pennsylvania, the Pittsburg, Cincinnati, [[Chicago]] & St Louis (controlled
 by the Pennsylvania), and the Wheeling & Lake Erie railways. The city is
 built on a series of four broad terraces, the upper one of which has an
 elevation of 824 ft. above sea-level, and commands pleasant views of the

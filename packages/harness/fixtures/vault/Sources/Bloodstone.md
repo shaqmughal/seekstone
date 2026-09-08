@@ -1,15 +1,15 @@
 # Bloodstone
 
 BLOODSTONE, the popular name of the mineral heliotrope, which is a
-variety of dark green chalcedony or plasma, with bright red spots,
+variety of dark green chalcedony or plasma, with [[Bright|bright]] red spots,
 splashes and streaks. The green colour is due to a chloritic mineral;
-the red to haematite. Some coarse kinds are opaque, resembling in this
-respect jasper, and some writers have sought to restrict the name
+the red to [[Haematite|haematite]]. Some coarse kinds are opaque, resembling in this
+respect [[Jasper|jasper]], and some writers have sought to restrict the name
 "bloodstone" to green jasper, with red markings, thus making heliotrope
 a translucent and bloodstone an opaque stone, but, though convenient,
 such a distinction is not generally recognized. A good deal of
 bloodstone comes from India, where it occurs in the Deccan traps, and is
-cut and polished at Cambay. The stone is used for seals, knife-handles
+cut and polished at [[Cambay]]. The stone is used for seals, knife-handles
 and various trivial ornaments. Bloodstone is not very widely
 distributed, but is found in the basaltic rocks of the Isle of Rum in
 the west of Scotland, and in a few other localities. Haematite (Gr.

@@ -11,7 +11,7 @@ founded the existing town. Though standing in the midst of a Jat
 neighbourhood, the fort was first garrisoned by Gujars, and took the
 name of Gujrat. Akbar's fort, largely improved by Gujar Singh, stands in
 the centre of the town. The neighbouring shrine of the saint Shah Daula
-serves as a kind of native asylum for lunatics. The town has
+serves as a kind of native [[Asylum|asylum]] for lunatics. The town has
 manufactures of furniture, inlaid work in gold and iron, brass-ware,
 boots, cotton goods and shawls.
 
@@ -19,10 +19,10 @@ The DISTRICT OF GUJRAT comprises a narrow wedge of sub-Himalayan plain
 country, possessing few natural advantages. From the basin of the Chenab
 on the south the general level rises rapidly towards the interior,
 which, owing to the great distance of the water beneath the surface,
-assumes a dreary and desert aspect. A range of low hills, known as the
+assumes a dreary and [[Desert|desert]] aspect. A range of low hills, known as the
 Pabbi, traverses the northern angle of Gujrat. They are composed of a
 friable Tertiary sandstone and conglomerate, destitute of vegetation,
-and presenting a mere barren chaos of naked rock, deeply scored with
+and presenting a mere barren [[Chaos|chaos]] of naked rock, deeply scored with
 precipitous ravines. Immediately below the Pabbi stretches a high
 plateau, terminating abruptly in a precipitous bluff some 200 ft. in
 height. At the foot of this plateau is a plain, which forms the actual
@@ -30,11 +30,11 @@ valley of the Chenab and participates in the irrigation from the river
 bed.
 
 Numerous relics of antiquity stud the surface of the district. Mounds of
-ancient construction yield early coins, and bricks are found whose size
+ancient construction yield early [[Coin|coins]], and [[Brick|bricks]] are found whose size
 and type prove them to belong to the prehistoric period. A mound now
 occupied by the village of Moga or Mong has been identified as the site
 of Nicaea, the city built by Alexander the Great on the field of his
-victory over Porus. The Delhi empire established its authority in this
+victory over Porus. The [[Delhi]] empire established its authority in this
 district under Bahlol Lodi (1451-1489). A century later it was visited
 by Akbar, who founded Gujrat as the seat of government. During the decay
 of the Mogul power, the Ghakkars of Rawalpindi overran this portion of
@@ -49,7 +49,7 @@ important engagements which decided the event of the second Sikh war.
 After several bloody battles in which the British were unsuccessful, the
 Sikh power was irretrievably broken at the engagement which took place
 at Gujrat on the 22nd of February 1849. The Punjab then passed by
-annexation under British rule.
+[[Annexation|annexation]] under British rule.
 
 The district comprises an area of 2051 sq. m. In 1901 the population was
 750,548, showing a decrease of 1%, compared with an increase of 10% in

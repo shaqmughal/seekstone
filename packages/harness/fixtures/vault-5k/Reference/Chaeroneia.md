@@ -1,6 +1,6 @@
 # Chaeroneia
 
-CHAERONEIA, or CHAERONEA, an ancient town of Boeotia, said by some to be
+CHAERONEIA, or CHAERONEA, an ancient town of [[Boeotia]], said by some to be
 the Homeric Arne, situated about 7 m. W. of Orchomenus. Until the 4th
 century B.C. it was a dependency of Orchomenus, and at all times it
 played but a subordinate part in Boeotian politics. Its importance lay
@@ -32,7 +32,7 @@ been restored and re-erected (1905).
 
   AUTHORITIES.--Thucydides iv. 76; Diodorus xvi. 85-86; Plutarch,
   _Alexander_, ch. 9; _Sulla_, chs. 16-19; Appian, _Mithradatica_, chs.
-  42-45; W.M. Leake, _Travels in Northern Greece_ (London, 1835), ii.
+  42-45; W.M. [[Leake]], _Travels in Northern Greece_ (London, 1835), ii.
   112-117, 192-201; B.V. Head, _Historia Numorum_ (Oxford, 1887), p.
   292; J. Kromayer, _Antike Schlachtfelder in Griechenland_ (Berlin,
   1903), pp. 127-195; G. Sotiriades in _Athen. Mitteil._ 1903, pp. 301

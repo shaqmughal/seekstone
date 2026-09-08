@@ -7,16 +7,16 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Garnet"
 
 # Garnet
 
-GARNET, or GARNETT, HENRY (1555-1606), English Jesuit, son of Brian
+GARNET, or [[Garnett|GARNETT]], HENRY (1555-1606), English Jesuit, son of [[Brian]]
 Garnett, a schoolmaster at Nottingham, was educated at Winchester and
 afterwards studied law in London. Having become a Roman Catholic, he
 went to Italy, joined the Society of Jesus in 1575, and acquired under
-Bellarmine and others a reputation for varied learning. In 1586 he
+[[Bellarmine]] and others a reputation for varied learning. In 1586 he
 joined the mission in England, becoming superior of the province on the
 imprisonment of William Weston in the following year. In the dispute
-between the Jesuits and the secular clergy known as the "Wisbech Stirs"
+between the [[Jesuits]] and the secular clergy known as the "Wisbech Stirs"
 (1595-1596) he zealously supported Weston in his resistance to any
-compromise with the civil government. His antagonism to the secular
+[[Compromise|compromise]] with the civil government. His antagonism to the secular
 clergy was also shown later, when in 1603 he, with other Jesuits, was
 the means of betraying to the government the "Bye Plot," contrived by
 William Watson, a secular priest. In 1598 he was professed of the four
@@ -32,26 +32,26 @@ to forty. It is, however, in connexion with the Gunpowder Plot that he
 is best remembered. His part in this, for which he suffered death, needs
 discussion in greater detail.
 
-In 1602 Garnet received briefs from Pope Clement VIII. directing that no
+In 1602 Garnet received briefs from Pope [[Clement]] VIII. directing that no
 person unfavourable to the Catholic religion should be allowed to
-succeed to the throne. About the same time he was consulted by Catesby,
+succeed to the throne. About the same time he was consulted by [[Catesby]],
 Tresham and Winter, all afterwards involved in the Gunpowder Plot, on
 the subject of the mission to be sent to Spain to induce Philip III. to
 invade England. According to his own statement he disapproved, but he
 gave Winter a recommendation to Father Creswell, an influential person
 at Madrid. Moreover, in May 1605 he gave introductions to Guy Fawkes
-when he went to Flanders, and to Sir Edmund Baynham when he went to Rome
+when he went to [[Flanders]], and to Sir Edmund Baynham when he went to Rome
 (see GUNPOWDER PLOT). The preparations for the plot had now been
 actively going forward since the beginning of 1604, and on the 9th of
 June 1605 Garnet was asked by Catesby whether it was lawful to enter
 upon any undertaking which should involve the destruction of the
-innocent together with the guilty, to which Garnet answered in the
-affirmative, giving as an illustration the fate of persons besieged in a
+[[Innocent|innocent]] together with the guilty, to which Garnet answered in the
+affirmative, giving as an illustration the [[Fate|fate]] of persons besieged in a
 town in time of war. Afterwards, feeling alarmed, according to his own
 accounts, he admonished Catesby against intending the death of "not only
-innocents but friends and necessary persons for a commonwealth," and
+innocents but friends and necessary persons for a [[Commonwealth|commonwealth]]," and
 showed him a letter from the pope forbidding rebellion. According to Sir
-Everard Digby, however, Garnet, when asked the meaning of the brief,
+Everard [[Digby]], however, Garnet, when asked the meaning of the brief,
 replied "that they were not (meaning the priests) to undertake or
 procure stirs, but yet they would not hinder any, neither was it the
 pope's mind they should, that should be undertaken for Catholic good....
@@ -69,7 +69,7 @@ intended to relate the matter to him in confession.
 Garnet's conduct in now keeping the plot a secret has been a matter of
 considerable controversy not only between Roman Catholics and
 Protestants, but amongst Roman Catholic writers themselves. Father
-Martin del Rio, a Jesuit, writing in 1600, discusses the exact case of
+[[Martin]] del Rio, a Jesuit, writing in 1600, discusses the exact case of
 the revelation of a plot in confession. Almost all the learned doctors,
 he says, declare that the confessor may reveal it, but he adds, "the
 contrary opinion is the safer and better doctrine, and more consistent
@@ -98,7 +98,7 @@ His movements immediately prior to the attempt were certainly
 suspicious. In September, shortly before the expected meeting of
 parliament on the 3rd of October, Garnet organized a pilgrimage to St
 Winifred's Well in Flintshire, which started from Gothurst (now
-Gayhurst), Sir Everard Digby's house in Buckinghamshire, included
+Gayhurst), Sir Everard Digby's house in [[Buckinghamshire]], included
 Rokewood, and stopped at the houses of John Grant and Robert Winter,
 three others of the conspirators. During the pilgrimage Garnet asked for
 the prayers of the company "for some good success for the Catholic cause
@@ -109,7 +109,7 @@ settled the conspirators were to assemble after the explosion. On the
 brought him a letter with the news of the failure of the plot and
 desiring advice. On the 30th Garnet addressed a letter to the government
 in which he protested his innocence with the most solemn oaths, "as one
-who hopeth for everlasting salvation."
+who hopeth for [[Everlasting|everlasting]] salvation."
 
 It was not till the 4th of December, however, that Garnet and Greenway
 were, by the confession of Bates, implicated in the plot; and on the
@@ -128,12 +128,12 @@ communicate with one another, their conversations were overheard on
 several separate occasions and considerable information obtained. Garnet
 at first denied all speech with Oldcorne, but subsequently on the 8th of
 March confessed his connexion with the plot. He was tried at the
-Guildhall on the 28th.
+[[Guildhall]] on the 28th.
 
 Garnet was clearly guilty of misprision of treason, i.e. of having
 concealed his knowledge of the crime, an offence which exposed him to
-perpetual imprisonment and forfeiture of his property; for the law of
-England took no account of religious scruples or professional etiquette
+perpetual imprisonment and [[Forfeiture|forfeiture]] of his property; for the law of
+England took no account of religious scruples or professional [[Etiquette|etiquette]]
 when they permit the execution of a preventable crime. Strangely enough,
 however, the government passed over the incriminating conversation with
 Greenway, and relied entirely on the strong circumstantial evidence to
@@ -151,7 +151,7 @@ equivocation to cases "of necessary defence from injustice and wrong or
 of the obtaining some good of great importance when there is no danger
 of harm to others," and he could justify his conduct in lying to the
 council by their own conduct towards him, which included treacherous
-eavesdropping and fraud, and also threats of torture. Moreover, the
+eavesdropping and [[Fraud|fraud]], and also threats of torture. Moreover, the
 attempt of the counsel for the crown to force the prisoner to
 incriminate himself was opposed to the whole spirit and tradition of the
 law of England. He was declared guilty, and it is probable, in spite of
@@ -167,8 +167,8 @@ Soon after his death the story of the miracle of "Garnet's Straw" was
 circulated all over Europe, according to which a blood-stained straw
 from the scene of execution which came into the hands of one John
 Wilkinson, a young and fervent Roman Catholic, who was present,
-developed Garnet's likeness. In consequence of the credence which the
-story obtained, Archbishop Bancroft was commissioned by the privy
+developed Garnet's likeness. In consequence of the [[Credence|credence]] which the
+story obtained, Archbishop [[Bancroft]] was commissioned by the privy
 council to discover and punish the impostors. Garnet's name was included
 in the list of the 353 Roman Catholic martyrs sent to Rome from England
 in 1880, and in the 2nd appendix of the Menology of England and Wales
@@ -176,17 +176,17 @@ compiled by order of the cardinal archbishop and the bishops of the
 province of Westminster by R. Stanton in 1887, where he is styled "a
 martyr whose cause is deferred for future investigation." The passage in
 _Macbeth_ (Act II. Scene iii.) on equivocators no doubt refers
-especially to Garnet. His _aliases_ were Farmer, Marchant, Whalley,
+especially to Garnet. His _aliases_ were [[Farmer]], Marchant, Whalley,
 Darcey Meaze, Phillips, Humphreys, Roberts, Fulgeham, Allen. Garnet was
-the author of a letter on the Martyrdom of Godfrey Maurice, _alias_ John
+the author of a letter on the Martyrdom of Godfrey [[Maurice]], _alias_ John
 Jones, in Diego Yepres's _Historia particular de la persecucion de
 Inglaterra_ (1599); a _Treatise of Schism_, a MS. treatise in reply to
-_A Protestant Dialogue between a Gentleman and a Physician_; a
+_A Protestant [[Dialogue]] between a [[Gentleman]] and a Physician_; a
 translation of the _Stemma Christi_ with supplements (1622); a treatise
 on the Rosary; a Treatise of Christian Renovation or Birth (1616).
 
   AUTHORITIES.--Of the great number of works embodying the controversy
-  on the question of Garnet's guilt the following may be mentioned, in
+  on the question of Garnet's [[Guilt|guilt]] the following may be mentioned, in
   order of date: _A True and Perfect Relation of the whole Proceedings
   against ... Garnet a Jesuit and his Confederates_ (1606, repr. 1679),
   the official account, but incomplete and inaccurate; _Apologia pro
@@ -198,7 +198,7 @@ on the Rosary; a Treatise of Christian Renovation or Birth (1616).
   the Catholics under James I._ (1872), containing Father Gerard's
   narrative; J.H. Pollen, _Father Henry Garnet and the Gunpowder Plot_
   (1888); S.R. Gardiner, _What Gunpowder Plot was_ (1897), in reply to
-  John Gerard, S.J., _What was the Gunpowder Plot?_ (1897); J. Gerard,
+  John [[Gerard]], S.J., _What was the Gunpowder Plot?_ (1897); J. Gerard,
   _Contributions towards a Life of Father Henry Garnet_ (1898). See also
   _State Trials II._, and _Cal. of State Papers Dom._, (1603-1610). The
   original documents are preserved in the _Gunpowder Plot Book_ at the

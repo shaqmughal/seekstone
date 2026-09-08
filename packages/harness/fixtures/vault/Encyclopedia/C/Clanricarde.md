@@ -2,8 +2,8 @@
 
 CLANRICARDE, ULICK DE BURGH (BOURKE or BURKE), MARQUESS OF (1604-1657 or
 1658), son of Richard, 4th earl of Clanricarde, created in 1628 earl of
-St Albans, and of Frances, daughter and heir of Sir Francis Walsingham,
-and widow of Sir Philip Sidney and of Robert Devereux, earl of Essex,
+St Albans, and of [[Franc|Frances]], daughter and [[Heir|heir]] of Sir Francis Walsingham,
+and widow of Sir Philip Sidney and of Robert Devereux, earl of [[Essex]],
 was born in 1604. He was summoned to the House of Lords as Lord Burgh in
 1628, and succeeded his father as 5th earl in 1635. He sat in the Short
 Parliament of 1640 and attended Charles I. in the Scottish expedition.
@@ -23,7 +23,7 @@ towns a refuge, nay, even a hospital for the distressed English."[1] In
 1643 he was one of the commissioners appointed by the king to confer
 with the Irish confederates, and urged the wisdom of a cessation of
 hostilities in a document which he publicly distributed. He was
-appointed commander of the English forces in Connaught in 1644, and in
+appointed [[Commander|commander]] of the English forces in Connaught in 1644, and in
 1646 was created a marquess and a privy councillor. He supported the
 same year the treaty between Charles I. and the confederates, and
 endeavoured after its failure to persuade Preston, the general of the
@@ -31,12 +31,12 @@ Irish, to agree to a peace; but the latter, being advised by Rinuccini,
 the papal nuncio, refused in December. Together with Ormonde,
 Clanricarde opposed the nuncio's policy; and the royalist inhabitants of
 Galway having through the latter's influence rejected the cessation of
-hostilities, arranged with Lord Inchiquin in 1648, he besieged the town
+hostilities, arranged with Lord [[Inchiquin]] in 1648, he besieged the town
 and compelled its acquiescence. In 1649 he reduced Sligo. On Ormonde's
-departure in December 1650 Clanricarde was appointed deputy
+departure in December 1650 Clanricarde was appointed [[Deputy|deputy]]
 lord-lieutenant, but he was not trusted by the Roman Catholics, and was
 unable to stem the tide of the parliamentary successes. In 1651 he
-opposed the offer of Charles, duke of Lorraine, to supply money and aid
+opposed the offer of Charles, duke of [[Lorraine]], to supply money and aid
 on condition of being acknowledged "Protector" of the kingdom. In May
 1652 Galway surrendered to the parliament, and in June Clanricarde
 signed articles with the parliamentary commissioners which allowed his
@@ -54,18 +54,18 @@ the basis of religious toleration under the authority of the sovereign,
 against the papal scheme advocated by Rinuccini, and in opposition to
 the parliamentary and Puritan policy. By the author of the _Aphorismical
 Discovery_, who represents the opinion of the native Irish, he is
-denounced as the "masterpiece of the treasonable faction," "a foe to his
+denounced as the "masterpiece of the treasonable [[Faction|faction]]," "a foe to his
 king, nation and religion," and by the duke of Lorraine as "a traitor
-and a base fellow"; but there is no reason to doubt Clarendon's opinion
+and a base [[Fellow|fellow]]"; but there is no reason to doubt Clarendon's opinion
 of him as "a person of unquestionable fidelity. . . and of the most
 eminent constancy to the Roman Catholic religion of any man in the three
-kingdoms," or the verdict of Hallam, who describes him "as perhaps the
-most unsullied character in the annals of Ireland."
+kingdoms," or the verdict of [[Hallam]], who describes him "as perhaps the
+most unsullied character in the [[Annals|annals]] of Ireland."
 
-He married Lady Anne Compton, daughter of William Compton, 1st earl of
+He married Lady [[Anne]] Compton, daughter of William Compton, 1st earl of
 Northampton, but had issue only one daughter. On his death, accordingly,
 the marquessate and the English peerages became extinct, the Irish
-titles reverting to his cousin Richard, 6th earl, grandson of the 3rd
+titles reverting to his [[Cousin|cousin]] Richard, 6th earl, grandson of the 3rd
 earl of Clanricarde. Henry, the 12th earl (1742-1797), was again created
 a marquess in 1789, but the marquessate expired at his death without
 issue, the earldom going to his brother. In 1825 the 14th earl
@@ -80,8 +80,8 @@ Irish land agitation, succeeded him as 2nd marquess.
   _Aphorismical Discovery_ (Irish Archaeological Society, 1879);
   _Memoirs of the Marquis of Clanricarde_ (1722, repr. 1744); _Memoirs
   of Ulick_, _Marquis of Clanricarde_, by John, 11th earl (1757); _Life
-  of Ormonde_, by T. Carte (1851); S.R. Gardiner's _Hist. of the Civil
-  War_ and of the _Commonwealth; Thomason Tracts_ (Brit. Mus.) E 371
+  of Ormonde_, by T. [[Carte]] (1851); S.R. Gardiner's _Hist. of the Civil
+  War_ and of the _[[Commonwealth]]; Thomason Tracts_ (Brit. Mus.) E 371
   (11), 456 (10); _Cal. of State Papers, Irish_, esp. _Introd._
   1633-1647 and _Domestic; Hist. MSS. Comm., MSS. of Marq. of Ormonde_
   and _Earl of Egmont_.    (P. C. Y.)

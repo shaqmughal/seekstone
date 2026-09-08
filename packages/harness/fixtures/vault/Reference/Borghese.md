@@ -17,7 +17,7 @@ Roman nobility by the marriage of the prince's son Paolo with Olimpia,
 heiress of the Aldobrandini family, in 1614. In 1803 Camillo Filippo
 Ludovico, Prince Borghese (b. 1775), married Pauline, sister of the
 emperor Napoleon, and widow of General Leclerc. In 1806 he was made duke
-of Guastalla, and for some years acted as governor of the Piedmontese
+of [[Guastalla]], and for some years acted as governor of the Piedmontese
 and Genoese provinces. After the fall of Napoleon he fixed his residence
 at Florence, where he died in 1832. The Borghese palace at Rome is one
 of the most magnificent buildings in the city, and contained a splendid
@@ -26,7 +26,7 @@ Borghese outside the Porto del Popolo, now Villa Umberto I., the
 property of the Italian government.
 
   See A. von Reumont, _Geschichte der Stadt Rom_, iii. 605, 609 617,
-  &c.; _Almanach de Gotha_ (Gotha, 1902); J.H. Douglas, _The Principal
+  &c.; _Almanach de [[Gotha]]_ (Gotha, 1902); J.H. Douglas, _The Principal
   Noble Families of Rome_ (Rome, 1905).
 
 ## References

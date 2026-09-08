@@ -16,7 +16,7 @@ chief are Awton, Ajassa, Offa and Patiji. Under British administration
 the province is divided into three divisions, Illorin (central), Offa
 (southern) and Patiji (northern). The province is rich in agricultural
 and sylvan products. Among the former are tobacco, cotton, rice,
-peppers, ground-nuts and kolas. The latter include great quantities of
+peppers, ground-nuts and [[Kola|kolas]]. The latter include great quantities of
 shea as well as palm-oil and rubber. The capital is a town of the same
 name as the province. It is 160 m. in a direct line N.N.E. of Lagos, and
 50 m. S.S.W. of Jebba, a port on the Niger, being connected with both
@@ -34,7 +34,7 @@ few selected exceptions, were prohibited from entering the city. Illorin
 middlemen transacted all business between the traders from the north,
 who were not allowed to pass to the south, and those from the south.
 Since the establishment of British authority the town has been thrown
-open, crowds of petty traders from Lagos have flocked into Illorin, and
+open, [[Crowd|crowds]] of petty traders from Lagos have flocked into Illorin, and
 between 4000 and 5000 trade licences are issued yearly. The British
 resident estimated in 1904 that at least 3000 loads of British cotton
 goods, which he valued at £5 a load, were imported. The population of
@@ -65,14 +65,14 @@ at various places in the province. (See also NIGERIA and LAGOS.)
 
 
 ILLUMINATED MSS.--"Illumination," in art, is a term used to signify the
-embellishment of written or printed text or design with colours and
+embellishment of written or printed text or design with [[Colours|colours]] and
 gold, rarely also with silver. The old form of the verb "to illuminate"
 was "to enlumine" (O. Fr. _enluminer_; Lat. _illuminare_, "to throw
 light on," "to brighten"), as used by Chaucer (_A.B.C._, 73), "kalendres
 enlumyned ben they," and other medieval writers. Joinville likens the
 action of St Louis in adorning his kingdom with monastic foundations to
 a writer "qui a fait son livre qui l'enlumine d'or et d'azur"; while
-Dante (_Purgat._ xi. 79) alludes to this kind of decoration as "quell'
+[[Dante]] (_Purgat._ xi. 79) alludes to this kind of decoration as "quell'
 arte che alluminare chiamata è in Parisi." But while the term should be
 strictly applied to the brilliant book-ornamentation which was developed
 in the later middle ages, it has been extended, by usage, to the
@@ -102,7 +102,7 @@ practice of writing the initial lines or even the entire text of a
 volume in gold or coloured inks, and of staining with purple and of
 gilding the vellum, while it undoubtedly enhanced the decorative aspect,
 does not properly fall within the scope of this article; it concerns the
-material rather than the artistic element of the MS. (See MANUSCRIPTS,
+material rather than the artistic element of the MS. (See [[Manuscript|MANUSCRIPTS]],
 PALAEOGRAPHY.)
 
 It will be seen, then, that in the earliest examples of book decorations
@@ -133,12 +133,12 @@ their style are the fifty illustrative pictures of the Vatican Virgil,
 known as the _Schedae Vaticanae_, of the 4th century; but in these we
 find an advance on the Homeric fragments in the direction of decoration,
 for gilt shading is here employed to heighten the lights, and the frames
-in which the pictures are set are ornamented with gilt lozenges. A
+in which the pictures are set are ornamented with gilt [[Lozenge|lozenges]]. A
 second famous MS. of Virgil in the Vatican library is the _Codex
 Romanus_, a curious instance of rough and clumsy art, with its series of
 illustrations copied by an unskilful hand from earlier classical models.
 And a still later example of persistence of the classical tradition is
-seen in the long roll of the book of Joshua, also in the Vatican,
+seen in the long roll of the book of [[Joshua]], also in the Vatican,
 perhaps of the 10th century, which is filled with a series of outline
 drawings of considerable merit, copied from an earlier MS. But all such
 MSS. exhibit little tendency to decoration, and if the book
@@ -174,7 +174,7 @@ executed no doubt in the Eastern capital in the 6th century, are
 sufficient to exemplify the splendour of ornament which might be
 lavished on book decoration at that date. The surface of the vellum is
 entirely gilt, and the ornamental designs are in classical style and
-painted in bright colours. Two well-known MSS., the Genesis of the
+painted in bright colours. Two well-known MSS., the [[Genesis]] of the
 Imperial Library of Vienna, of the latter part of the 6th century, and
 the Gospels of Rossano in southern Italy, of the same period, both
 containing series of illustrative paintings of a semi-classical type,
@@ -226,14 +226,14 @@ self-contained and, under ecclesiastical influence, too much secluded
 from the contact with other ideas and other influences which are vitally
 necessary for healthy growth and expansion, it fell into stereotyped and
 formal convention and ran in narrow grooves. A general tendency was set
-up to paint the flesh tints in swarthy hues, to elongate and emaciate
+up to paint the flesh tints in swarthy [[Hue|hues]], to elongate and emaciate
 the limbs, to stiffen the gait, and generally to employ sombre colours
 in the miniatures, the depressing effect of which the artist seems to
 have felt himself compelled to relieve by rather startling contrasts of
-bright vermilion and lavish employment of gold. Still the initials and
+bright vermilion and lavish employment of gold. Still the [[Initials|initials]] and
 head-pieces continued to retain their brilliancy, of which they could
 scarcely be deprived without losing their _raison d'être_ as decorative
-adjuncts. But, with all faults, fine and delicate drawing, with
+adjuncts. But, with all [[Fault|faults]], fine and delicate drawing, with
 technical finish in the applied colours, is still characteristic of the
 best Greek miniatures of the 10th to 12th centuries, and the fine type
 of head and features of the older time remains a tradition. For example,
@@ -248,7 +248,7 @@ copies of the earlier MSS.
 Byzantine art, as seen in Greek MSS., stands apart as a thing of itself.
 But we shall have to consider how far and in what manner it had an
 influence on western art. Its reaction and influence on Italian art have
-been mentioned. That that influence was direct is manifest both in the
+been mentioned. That that influence was direct is [[Manifest|manifest]] both in the
 style of such works as the mosaics of Italy and in the character of the
 paintings of the early Italian masters, and eventually in the earliest
 examples of the illuminated MSS. of central and southern Italy. But it
@@ -305,7 +305,7 @@ eventually on that of the continent. It may be described as a mechanical
 art brought to the highest pitch of perfection by the most skilful and
 patient elaboration. Initials, borders and full-page designs are made up
 of interlaced ribbons, interlaced and entangled zoomorphic creatures,
-intricate knots, spirals, zig-zag ornaments, and delicate interwoven
+intricate [[Knot|knots]], spirals, zig-zag ornaments, and delicate interwoven
 patterns, together with all kinds of designs worked out in red dots--all
 arranged and combined together with mathematical accuracy and with
 exquisite precision of touch; and painted in harmonious colours in thick
@@ -313,7 +313,7 @@ pigments, which lend to the whole design the appearance of enamel. Gold
 is never used. In the production of his designs the Irish artist
 evidently took for his models the objects of early metal work in which
 the Celtic race was so skilled, and probably, too, the classical enamels
-and mosaics and jewelry which had been imported and copied in the
+and mosaics and [[Jewelry|jewelry]] which had been imported and copied in the
 country. The finest example of early Celtic book ornamentation is the
 famous copy of the Gospels known as the _Book of Kells_, of the latter
 part of the 7th century, preserved in Trinity College, Dublin: a miracle
@@ -396,10 +396,10 @@ ornament was employed in the tables of the Eusebian canons, in the
 accessories of the traditional pictures of the evangelists, in the
 full-page designs which introduced the opening words of the several
 books of Bibles or Gospels, in the large initial letters profusely
-scattered through the volumes, in the infinite variety of borders which,
+scattered through the volumes, in the [[Infinite|infinite]] variety of borders which,
 in some MSS., adorned page after page. In all this ornament the debased
 classical element is prominently in evidence, columns and arches of
-variegated marbles, and leaf mouldings and other architectural details
+variegated [[Marbles|marbles]], and [[Leaf|leaf]] mouldings and other architectural details
 are borrowed from the Roman basilicas, to serve as decorations for text
 and miniature. The conventional portrait-figures of the evangelists are
 modelled on the Byzantine pattern, but with differences which appear to
@@ -617,7 +617,7 @@ the pretty little Bibles which were produced in hundreds at this period.
 But a still more interesting subject for study is the development of the
 border which was to have such a luxuriant growth in the 13th, 14th and
 15th centuries. Commencing as a pendant from the initial, with terminal
-in form of bud or cusp, it gradually pushes its way along the margins,
+in form of bud or [[Cusp|cusp]], it gradually pushes its way along the margins,
 unfolding foliage as it proceeds, and in course of time envelopes the
 entire page of text in a complete framework formulating in each country
 a national style.
@@ -704,7 +704,7 @@ deep olive green, which imparts a swarthy complexion to the features--a
 practice also common in Byzantine art. The other line is that of the
 Lombardic style which, like the Celtic school of the British Isles,
 was an art almost exclusively of pure ornament, of intricate
-interlacings of arabesques and animal forms, with bright colouring and
+interlacings of [[Arabesque|arabesques]] and animal forms, with bright colouring and
 ample use of gold. The Lombardic style was employed in certain centres,
 as, for example, at Monte Cassino, where in the 11th, 12th and 13th
 centuries brilliant examples were produced. But it was not destined to
@@ -801,7 +801,7 @@ cut feather-work are common details; and feathery scrolls fill the
 corner-bosses and are attached to other parts of the frame; while the
 foliage thrown out into the margin takes the form of sprays of curious
 lobe- or spoon-shaped and lozenge-shaped leaves or flowers, with others
-resembling curled feathers, and with cup- and trumpet-shaped flowers.
+resembling curled [[Feather|feathers]], and with cup- and trumpet-shaped flowers.
 This new style of border is contemporaneous with the appearance of a
 remarkably brilliant style in the miniatures, good in drawing and rich
 in colouring; and an explanation for the change has been sought in
@@ -840,7 +840,7 @@ chief constituents of one kind of border of the 15th century.
 
   15th Century.
 
-Illumination in the 15th century enters on a new phase. The balance is
+Illumination in the 15th century enters on a new phase. The [[Balance|balance]] is
 no longer evenly maintained between the relative values of the miniature
 and the border as factors in the general scheme of decoration. The
 influence of a new sentiment in art makes itself felt more and more; the
@@ -850,7 +850,7 @@ effects of modern painting. Miniature painting in the decoration of MSS.
 now became more of a trade; what in old times had been done in the
 cloister was now done in the shop; and the professional miniaturist,
 working for his own fame, took the place of the nameless monk who worked
-for the credit of his house. Henceforth the miniature occupies a more
+for the [[Credit|credit]] of his house. Henceforth the miniature occupies a more
 important place than ever in the illuminated MS.; while the border, with
 certain important exceptions, is apt to recede into an inferior position
 and to become rather an ornamental adjunct to set off the miniature than
@@ -900,7 +900,7 @@ real landscape began to replace the background of diaper and
 conventional rocks and trees. In the first quarter of the century the
 school of Paris comes prominently to the front with such magnificent
 volumes as the Book of Hours of the regent, John Plantagenet, duke of
-Bedford, now in the British Museum; and the companion MS. known as the
+[[Bedford]], now in the British Museum; and the companion MS. known as the
 Sobieski Hours, at Windsor. In these examples, as is always the case
 with masterpieces, we see a great advance upon earlier methods. The
 miniatures are generally exquisitely painted in brilliant colours and
@@ -921,7 +921,7 @@ Development towards the modern methods of painting moves on rapidly with
 the century. First, the border in the middle period grows florid; the
 simpler ivy-spray design, which had held its position so long, is
 gradually pushed away by a growth of flowering scrolls, with flowers,
-birds and animal and insect life introduced in more or less profusion.
+birds and animal and [[Insect|insect]] life introduced in more or less profusion.
 But henceforward deterioration increases, and the border becomes
 subsidiary. In the case of miniatures following the old patterns of the
 devotional and liturgical books, a certain restraint still prevails; but
@@ -948,14 +948,14 @@ independent line; and in the second half of the century it exercised a
 widespread influence on the neighbouring countries, on France, on
 Holland and on Germany. This development was one of the results of the
 industrial and artistic activity of the Low Countries at this period,
-when the school of the Van Eycks and their followers, and of other
-artists of the great and wealthy cities, such as Bruges, Antwerp, Ghent,
+when the school of the Van [[Eyck|Eycks]] and their followers, and of other
+artists of the great and wealthy cities, such as Bruges, [[Antwerp]], [[Ghent]],
 were so prolific. The Flemish miniatures naturally followed on the lines
 of painting. The new style was essentially modern, freeing itself from
 the traditions of medieval illumination and copying nature. Under the
 hand of the Flemish artist the landscape attained to great perfection,
 softness and depth of colouring, the leading attribute of the school,
-lending a particular charm and sense of reality to his out-door scenes.
+lending a particular [[Charm|charm]] and sense of reality to his out-door scenes.
 His closer observation of nature is testified also in the purely
 decorative part of his work. Flowers, insects, birds and other natural
 objects now frequent the border, the origin of which is finally
@@ -977,7 +977,7 @@ Breviary at Venice is one of the best known MSS. of the school; but
 almost every national library has specimens to boast of. Among those in
 the British Museum may be mentioned the breviary of Queen Isabella of
 Spain (Add. MS. 18,851); the Book of Hours of Juana of Castille (Add.
-MS. 18,852); a very beautiful Book of Hours executed at Bruges (Egerton
+MS. 18,852); a very beautiful Book of Hours executed at Bruges ([[Egerton]]
 MS. 2125); another exquisite but fragmentary MS. of the same type (Add.
 MS. 24,098) and cuttings from a calendar of the finest execution (Add.
 MS. 18,855) ascribed to Bening of Ghent; a series of large sheets of
@@ -1047,7 +1047,7 @@ Viana, probably executed in Sicily about 1458 (Add. MS. 21,120); a
 breviary of Santa Croce at Florence, late in the century (Add. MS.
 29,735); Livy's _History of the Macedonian War_, of the Neapolitan
 school, late in the century (Harl. MS. 3694); and, above all, the
-remarkable Book of Hours of Bona Sforza of Savoy of about the year 1490
+remarkable Book of Hours of [[Bona]] Sforza of Savoy of about the year 1490
 (Add. MS. 34,291); besides a fair number of MSS. exhibiting the rich
 colouring of the Venetian school.
 
@@ -1108,8 +1108,8 @@ colour and gold, which may be ranked with western illuminations.
   and Madden, _Illuminated Ornaments from MSS. and early Printed Books_
   (1833); Noel Humphreys and Jones, _The Illuminated Books of the Middle
   Ages_ (1849); H. Shaw, _Handbook of Medieval Alphabets_ (1853), and
-  _The Art of Illumination_ (1870); Tymms and Digby Wyatt, _The Art of
-  Illumination_ (1860); Birch and Jenner, _Early Drawings and
+  _The Art of Illumination_ (1870); Tymms and [[Digby]] Wyatt, _The Art of
+  Illumination_ (1860); [[Birch]] and Jenner, _Early Drawings and
   Illuminations_, with a dictionary of subjects in MSS. in the British
   Museum (1879); J. H. Middleton, _Illuminated MSS. in Classical and
   Medieval Times_ (1892); G. F. Warner, _Illuminated MSS. in the British

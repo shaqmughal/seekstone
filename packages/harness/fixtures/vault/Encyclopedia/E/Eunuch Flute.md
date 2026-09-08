@@ -7,21 +7,21 @@ type: source
 
 # Eunuch Flute
 
-EUNUCH FLUTE, or ONION FLUTE (Fr. _flûte eunuque, flûte à l'onion,
+EUNUCH FLUTE, or ONION [[Flute|FLUTE]] (Fr. _flûte eunuque, flûte à l'onion,
 mirliton_; Ger. _Zwiebelflöte_), a wind instrument in use during the
 16th and 17th centuries, producing music akin to the comb-music of the
 nursery, and still manufactured as a toy (_mirliton_). The onion flute
 consists of a wooden tube widening out slightly to form a bell. The
 upper end of the tube is closed by means of a very fine membrane similar
-to an onion skin stretched across the aperture like the vellum of a
-drum. The mouthpiece, a simple round hole, is pierced a couple of inches
+to an onion skin stretched across the [[Aperture|aperture]] like the vellum of a
+[[Drum|drum]]. The mouthpiece, a simple round hole, is pierced a couple of [[Inch|inches]]
 below the membrane; into this hole the performer sings, his voice
 setting up vibrations in the membrane, which thus intensifies the sound
 and changes its timbre to a bleating quality. A movable cap fits over
 the membrane to protect it. Mersenne[1] has given a drawing of the
 eunuch flute together with a description; he states that the vibrations
 of the membrane improve the sound of the voice, and by reflecting it,
-give it an added charm. There were concerts of these flutes in four or
+give it an added [[Charm|charm]]. There were [[Concert|concerts]] of these flutes in four or
 five parts in France, adds Mersenne, and they had the advantage over
 other kinds of reproducing more nearly the sound of the voice.
 

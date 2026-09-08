@@ -28,7 +28,7 @@ pay; but the ideas in which the theory itself has originated have not died
 out, and the idea especially of a "balance of trade" to which the rulers of
 a country should give attention is to be found in popular discussions of
 business topics and in politics, the general notion being that a nation is
-prosperous when its statistics show a "trade balance" in its favour and
+prosperous when its statistics show a "trade [[Balance|balance]]" in its favour and
 unprosperous when the reverse is shown. In modern times the excess of
 imports over exports or of exports over imports, shown in the statistics of
 foreign trade, has also come to be identified in popular speech with the
@@ -62,7 +62,7 @@ not do so. As the profit accrues he may invest it either by employing
 labour to add to his machinery or warehouses, or by increasing his
 stock-in-trade, or by adding to his book debts, or by a purchase of stocks
 or shares outside his regular business. At the end of a given period he may
-or may not have an increased cash balance to show as the result of his
+or may not have an increased [[Cash|cash]] balance to show as the result of his
 profitable trading. Even if he has an increased cash balance, according to
 the modern system of business, this might be a balance at his bankers', and
 they in turn may have invested the amount so that there is no stock of the
@@ -88,7 +88,7 @@ from the United Kingdom, ammunition and stores and ships, which appear in
 the British returns as exports, and which have really been sold by
 individual British traders to individuals abroad; but these sales are not
 set off by any purchases on the other side which come into the
-international account, as the set-off is a loan by the people of one
+[[International|international]] account, as the set-off is a loan by the people of one
 country to the people or government of another. The same with the export of
 railway and other material when goods are exported for the purpose of
 constructing railways or other works abroad. The sales are made by
@@ -112,7 +112,7 @@ complete "balance of trade."
 
 The illusions which may result then from the confusion of ideas between a
 balance of trade or profit, and a balance of cash paid or received, and
-from the identification of an excess of imports over exports or of exports
+from the [[Identification|identification]] of an excess of imports over exports or of exports
 over imports with the balance of trade itself, though they are not the same
 things, hardly need description. The believers in such illusions are not
 entitled to any hearing as economists, however, much they may be accepted
@@ -147,7 +147,7 @@ will be found in J. Holt Schooling's _British Trade Book_ (1908).
 
 The country which presents the most interesting questions in connexion with
 the study is the United Kingdom, with its largely preponderating foreign
-trade. Its annual imports and exports, excluding bullion, exceed 800
+trade. Its annual imports and exports, excluding [[Bullion|bullion]], exceed 800
 millions sterling, and the bullion one year with another is 100 millions
 more. Its excess of imports, moreover, between the middle and end of the
 19th century gradually rose from a small figure to 180 millions sterling
@@ -155,11 +155,11 @@ annually, and occasioned the popular discussion referred to respecting an
 "adverse" balance of trade, and particularly the belief existing in many
 quarters that the nation is living on its capital. The result has been a
 new investigation of the subject, so as to bring out and present the
-credits to which the country is entitled in its trade as a shipowner and
+[[Credit|credits]] to which the country is entitled in its trade as a shipowner and
 commission merchant, and to exhibit at the same time the magnitude of
 British foreign investments, which cannot be less than 2000 millions
 sterling and must bring in an enormous annual income. Other countries such
-as France, Germany, Belgium, Holland, Denmark, Norway and Sweden, are in
+as France, Germany, [[Belgium]], Holland, Denmark, Norway and Sweden, are in
 the same condition, though their foreign trade is not on the same scale,
 and similar rules apply to the reading of their import and export accounts.
 The United States is a conspicuous instance of a country which in the first

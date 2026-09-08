@@ -1,6 +1,6 @@
 # Canossa
 
-CANOSSA, a ruined castle, 1890 ft. above sea-level, in Emilia, Italy, 12
+CANOSSA, a ruined castle, 1890 ft. above sea-level, in [[Emilia]], Italy, 12
 m. S.W. of Reggio Emilia, commanding a fine view of the Apennines. It
 belonged to the countess Matilda of Tuscany (d. 1115), and is famous as
 the scene of the penance performed by the emperor Henry IV. before Pope

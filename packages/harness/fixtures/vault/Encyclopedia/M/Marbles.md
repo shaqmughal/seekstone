@@ -1,15 +1,15 @@
 # Marbles
 
-MARBLES, a children's game of great antiquity, wide distribution, and
+MARBLES, a children's [[Game|game]] of great antiquity, wide distribution, and
 uncertain origin, played with small spheres of stone, glass, baked clay
-or other material, from one-third of an inch to two inches in diameter.
+or other material, from one-third of an [[Inch|inch]] to two inches in diameter.
 The game was once popular with all classes. Tradition, both at Oxford
 and Cambridge, attests that the game was formerly prohibited among
 undergraduates on the steps of the Bodleian or the Senate House. There
 is a similar tradition at Westminster School that the boys were
 forbidden to play marbles in Westminster Hall on account of the
 complaints made by members of parliament and lawyers. An anonymous poem
-of the 17th century speaks of a boy about to leave Eton as
+of the 17th century speaks of a boy about to leave [[Eton]] as
 
   "A dunce at syntax, but a dab at taw."
 
@@ -17,9 +17,9 @@ Rogers, in _The Pleasures of Memory_, recalls how
 
   "On yon grey stone that fronts the chancel-door,
    Worn smooth by busy feet, now seen no more,
-   Each eve we shot the marble through the ring."
+   Each eve we shot the [[Marble|marble]] through the ring."
 
-Defoe (1720) writes of the seer Duncan Campbell: "Marbles, which he used
+[[Defoe]] (1720) writes of the seer [[Duncan]] Campbell: "Marbles, which he used
 to call children's playing at bowls, yielded him mighty diversion; and
 he was so dexterous an artist at shooting that little alabaster globe
 from between the end of his forefinger and the knuckle of his thumb,
@@ -41,7 +41,7 @@ marbles as a Lenten sport--perhaps, as the Rev. W. D. Parish suggests,
 The origin of the game is concealed in the mists of antiquity. Marbles
 used by Egyptian and Roman children before the Christian era are to be
 seen in the British Museum. Probably some of the small stone spheres
-found among neolithic remains, which Evans (_Ancient Stone Implements_,
+found among neolithic remains, which Evans (_Ancient Stone [[Implement|Implements]]_,
 2nd ed., p. 420) admits to be too small for projectiles, are prehistoric
 marbles. It is commonly assumed that the game which the youthful
 Augustus, like other Roman children, played with nuts was a form of
@@ -51,10 +51,10 @@ that nuts of the roundest sort were the original "marbles." The earliest
 unmistakable reference to marbles in literature seems to be in a French
 poem of the 12th century, quoted by Littré s.v. _Bille_.
 
-The marbles with which various games are nowadays played are small
+The marbles with which various [[Games|games]] are nowadays played are small
 spheres of stone, glass or baked clay. In the 18th century they were
 mostly made from chips of marble (whence the name) or other stone, which
-were ground into a roughly spherical shape by attrition in a special
+were ground into a roughly spherical shape by [[Attrition|attrition]] in a special
 iron mill. Nuremberg was then the centre of the trade in marbles, though
 some were made in Derbyshire, and indeed wherever there was a
 stonemason's yard to afford raw material. The "alley taw," as its name
@@ -83,12 +83,12 @@ marbles were still manufactured, the latest being of hollow steel.
   "ring-taw"--are usually of the cheaper kind known as "commoneys,"
   "stoneys" or "potteys," and the marble with which the player shoots is
   a more valuable one, known as an "alley," or "alley taw," sometimes
-  spelt "tor," as by Dickens. Usually it is necessary that the alley
+  spelt "tor," as by [[Dickens]]. Usually it is necessary that the alley
   should emerge from the ring as well as drive out another marble; under
   other rules the ring is smaller, not more than a foot in diameter, and
   the player must be skilful enough to leave his alley inside it, whilst
   driving the object marble outside. (2) "Nine holes: which consists in
-  bowling of marbles at a wooden bridge with nine arches." Each arch
+  [[Bowling|bowling]] of marbles at a wooden bridge with nine [[Arches|arches]]." Each [[Arch|arch]]
   bears a number, and the owner of the bridge pays that number of
   marbles to the player who shoots through it, making his profit from
   the missing marbles, which he confiscates; or the game may simply be
@@ -97,9 +97,9 @@ marbles were still manufactured, the latest being of hollow steel.
   the ground at a distance from each other; and the business of every
   one of the players is to bowl a marble by a regular succession into
   all the holes, which he who completes in the fewest bowls obtains the
-  victory." This primitive form of golf is played by Zulu adults with
-  great enthusiasm, and is still popular among the car-drivers of
-  Belfast. (4) "Boss out, or boss and span, also called hit and span,
+  victory." This primitive form of [[Golf|golf]] is played by Zulu adults with
+  great [[Enthusiasm|enthusiasm]], and is still popular among the car-drivers of
+  [[Belfast]]. (4) "Boss out, or boss and span, also called [[Hit|hit]] and span,
   wherein one bowls a marble to any distance that he pleases, which
   serves as a mark for his antagonist to bowl at, whose business it is
   to hit the marble first bowled, or lay his own near enough to it for
@@ -135,10 +135,10 @@ marbles were still manufactured, the latest being of hollow steel.
   above rubies," another correspondent observes (IX. ii. 76). "All the
   best-made marbles were taws, and no commoneys or potteys were used for
   shooting with, either in ring-taw or the various hole-games." In
-  Belfast, 1854-1858, the marble season extended from Easter to June,
+  Belfast, 1854-1858, the marble season extended from [[Easter]] to June,
   when the ground was usually dry and hard. The marbles were stoneys, of
   composition painted; crockeries, of slightly glazed stone-ware, dark
-  brown and yellow; clayeys, of red brick clay baked in the fire;
+  brown and yellow; clayeys, of red [[Brick|brick]] clay baked in the fire;
   marbles, of white marble; china alleys, with white glaze and painted
   rings; and glass marbles. The two chief games were ring-taw and hole
   and taw; in the latter three holes were made in a line, 6 ft. to 12
@@ -146,7 +146,7 @@ marbles were still manufactured, the latest being of hollow steel.
   to somewhat elaborate rules (_Notes and Queries_, IX. iii. 65). The
   stoneys and crockeries were sold at twenty a penny; the clayeys were
   cheaper and were not used as stakes; the marbles proper and china
-  alleys, used as taws for shooting, cost a halfpenny and a farthing
+  alleys, used as taws for shooting, cost a halfpenny and a [[Farthing|farthing]]
   respectively. In other parts of the country the phraseology of marbles
   affords some interesting problems for the philologist. We hear of
   "alleys, barios, poppos and stoneys"; of "marididdles," home-made
@@ -155,18 +155,18 @@ marbles were still manufactured, the latest being of hollow steel.
   fobs," stand for twos, threes and fours. To be "mucked" is to lose all
   one's "mivvies" or marbles. When the taw stayed in the ring it was a
   "chuck." "Phobbo slips" was a phrase used to forbid the correction of
-  an error.
+  an [[Error|error]].
 
   The fullest account of the various games of marbles played by English
   children is to be found in Mrs Gomme's _Traditional Games of England,
   Scotland and Ireland_ (London, 1898), under the headings Boss-out,
-  Bridgeboard, Bun-hole, Cob, Ho-go, Holy Bang, Hundreds, Lag,
+  Bridgeboard, Bun-hole, Cob, Ho-go, Holy [[Bang]], Hundreds, Lag,
   Long-Tawl, Marbles, Nine-Holes, Ring-taw, Three-Holes. Other games are
   known as Plum-pudding, or Picking the Plums, in which one shoots at
   marbles in a row; Pyramids, in which the marbles are arranged in a
   pyramid; Bounce About, Bounce Eye, Conqueror, Die Shot,
   Fortifications, Handers, Increase Pound, Knock Out, Rising Taw,
-  Spanners, Tip-shears; Strutt's _Sports and Pastimes_, ed. J. C. Cox
+  Spanners, Tip-shears; Strutt's _Sports and Pastimes_, ed. J. C. [[Cox]]
   (London, 1902). Much information will also be found in _Notes and
   Queries, passim_--especially the 9th series. For marbles in France see
   Larousse, s.v. _Billes_. See also SOLITAIRE.     (W. E. G. F.)

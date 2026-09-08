@@ -1,7 +1,7 @@
 # Billiards
 
-BILLIARDS, an indoor game of skill, played on a rectangular table,[1]
-and consisting in the driving of small balls with a stick called a cue
+BILLIARDS, an indoor [[Game|game]] of skill, played on a rectangular table,[1]
+and consisting in the driving of small [[Ball|balls]] with a stick called a cue
 either against one another or into pockets according to the methods and
 rules described below. The name probably originated in the Fr. _bille_
 (connected with Eng. "billet") signifying a stick. Of the origin of the
@@ -9,7 +9,7 @@ game comparatively little is known--Spain, Italy, France and Germany all
 being regarded as its original home by various authorities. In an
 American text-book, _Modern Billiards_, it is stated that Catkire More
 (Conn Cetchathach), king of Ireland in the 2nd century, left behind him
-"fifty-five billiard balls, of brass, with the pools and cues of the
+"fifty-five billiard balls, of [[Brass|brass]], with the pools and cues of the
 same materials." The same writer refers to the travels of Anacharsis
 through Greece, 400 B.C., during which he saw a game analogous to
 billiards. French writers differ as to whether their country can claim
@@ -32,29 +32,29 @@ precluded the necessity of the player to kneel or stoop exceedingly when
 he struck the bowl, and accommodated the game to the limits of a
 chamber." Whatever its origin, and whatever the manner in which it was
 originally played, it is certain that it was known in the time of
-Shakespeare, who makes Cleopatra, in the absence of Anthony, invite her
+Shakespeare, who makes [[Cleopatra]], in the absence of [[Anthony]], invite her
 attendant to join in the pastime--
 
   "Let us to billiards: come, Charmian."
                          _Ant. and Cleo._ Act ii. sc. 5.
 
 In Cotton's _Compleat Gamester_, published in 1674, we are told that
-this "most gentile, cleanly and ingenious game" was first played in
+this "most [[Gentile|gentile]], cleanly and ingenious game" was first played in
 Italy, though in another page he mentions Spain as its birthplace. At
 that date billiards must have been well enough known, for we are told
-that "for the excellency of the recreation, it is much approved of and
+that "for the [[Excellency|excellency]] of the recreation, it is much approved of and
 played by most nations of Europe, especially in England, there being few
 towns of note therein which hath not a public billiard table, neither
 are they wanting in many noble and private families in the country."
 
-The game was at one time played on a lawn, lik e modern croquet.[2] Some
+The game was at one time played on a [[Lawn|lawn]], lik e modern [[Croquet|croquet]].[2] Some
 authorities consider that in this form it was introduced into Europe
 from the Orient by the Crusaders. The ball was rolled or struck with a
-mallet or cue (with the latter, if Strutt's allusion to "inconveniences"
+[[Mallet|mallet]] or cue (with the latter, if Strutt's allusion to "inconveniences"
 is correct) through hoops or rings, and these were reproduced for indoor
 purposes on a billiard-table, as well as a "king" or pin which had to be
 struck. In the original tables, which were square, there was one pocket,
-a hole in the centre of the table, as on a bagatelle board, the hoop or
+a hole in the centre of the table, as on a [[Bagatelle|bagatelle]] board, the hoop or
 ring being retained. Then came similar pockets along one of the side
 cushions sunk in the bed of the table; and eventually the modern table
 was evolved, a true oblong or double-square, with pockets opening in the
@@ -67,7 +67,7 @@ pocketless table. We shall deal first with the English game.
 ENGLISH BILLIARDS
 
 The English table consists of a framework of mahogany or other hard
-wood, with six legs, and strong enough to bear the weight of five slabs
+wood, with six [[Leg|legs]], and strong enough to bear the weight of five slabs
 of slate, each 2-2/5 ft. wide by 6 ft. 1½ in., and about 2 in. thick.
 These having been fitted together with the utmost accuracy to form a
 level surface, and a green cloth of the finest texture having been
@@ -99,7 +99,7 @@ diagram.
   slightly smaller than in the full-size table.
 
   In the early part of the 19th century the bed of the table was made of
-  wood, occasionally of marble or stone; green baize was used to cover
+  wood, occasionally of [[Marble|marble]] or stone; green [[Baize|baize]] was used to cover
   both the bed and the cushions, the latter made of layers of list. Then
   as now the cushions proper were glued to a wooden framework which is
   screwed on to the bed of the table. The old list cushions possessed so
@@ -145,14 +145,14 @@ diagram.
   28 in. from the cushion, and the radius of the D was reduced to 9½ and
   afterwards to 10 in., the spot being 12½ in. from the top cushion.
 
-The principal games are three in number,--_billiards proper, pyramids_
+The principal [[Games|games]] are three in number,--_billiards proper, pyramids_
 and _pool_; and from these spring a variety of others. The object of the
 player in each game, however, is either to drive one or other of the
 balls into one or other of the pockets, or (only in billiards proper) to
 cause the striker's ball to come into successive contact with two other
 balls. The former stroke is known as a _hazard_ (a term derived from the
 fact that the pockets used to be called hazards in old days), the latter
-as a _cannon_. When the ball is forced into a pocket the stroke is
+as a _[[Cannon|cannon]]_. When the ball is forced into a pocket the stroke is
 called a winning hazard; when the striker's ball falls into a pocket
 after contact with the object ball, the stroke is a losing hazard; "red
 hazards" mean that the red ball is the object-ball, "white hazards" the
@@ -165,7 +165,7 @@ white.
   theoretically perfect spheres, of identical size and weight, and of
   equal durability in all parts. The size that is generally used in
   matches has a diameter of 2-1/16 in., and the weight about 4-2/3 oz.
-  It is exceedingly difficult to get three such ivory balls (the best
+  It is exceedingly difficult to get three such [[Ivory|ivory]] balls (the best
   substance for elasticity) except by cutting up many tusks, and when
   procured the halls soon lose their perfection, partly because ivory is
   softer in one part than another, partly because it is very susceptible
@@ -179,8 +179,8 @@ white.
   the composition balls cost about half a guinea apiece.
 
   The cue is a rounded rod of seasoned ash about 4 ft. 9 in. in length,
-  tapering from the butt, which is about 1½ in. in diameter, to the tip,
-  which varies in size according to the fancy of the player. The average
+  tapering from the [[Butt|butt]], which is about 1½ in. in diameter, to the tip,
+  which varies in size according to the [[Fancy|fancy]] of the player. The average
   tip is, however, ½ in. in diameter. The cue weighs generally between
   14 and 18 oz. The tip of the cue is usually a leather cap or pad,
   which, being liable to slip along the surface of the ball in striking,
@@ -191,7 +191,7 @@ white.
   heavy wood, since a shaft of plain ash is too light for its purpose,
   and is furthermore liable to warp. At one time it was lawful to use
   the butt of the cue or even a special instrument with a squared
-  spoon-shaped end called a mace (or mast), in making strokes or giving
+  spoon-shaped end called a [[Mace|mace]] (or mast), in making strokes or giving
   misses, but now all strokes must be made with the point. The cue is
   held in one hand, and with the other the player makes a "bridge" by
   placing wrist and finger-tips on the table, and extending his thumb so
@@ -212,8 +212,8 @@ The game of _billiards proper_ consists of the making of winning and
 losing hazards and cannons. It is usually played between two opponents
 (or four, two against two) for 100 or more points, three being scored
 for each red hazard, two for each white hazard and two for each cannon.
-Certain forfeitures on the other hand score to the opponent: running
-your ball off the table or into a pocket without having hit another
+Certain [[Forfeiture|forfeitures]] on the other hand score to the opponent: running
+your ball off the table or into a pocket without having [[Hit|hit]] another
 ball, 3 (a coup); ordinary misses (not hitting an object-ball), 1. All
 these forfeits involve the termination of the turn. There are also "foul
 strokes" which score nothing to the opponent, and only involve the
@@ -241,7 +241,7 @@ each being "in play" and continuing his "break" until he fails to score.
   must play into the part of the table outside the baulk line, for he
   may not hit direct any ball that is "in baulk," i.e. on or behind the
   baulk-line; if he wishes to play at it he must first strike a cushion
-  out of baulk (or, as it is called, _bricole_). If a player fails to
+  out of baulk (or, as it is called, _[[Bricole|bricole]]_). If a player fails to
   score, the adversary plays, as soon as all the balls are at rest,
   either from baulk (if "in hand") or from the place where his own ball
   has stopped. If by the same stroke a player makes two scores, i.e. a
@@ -287,7 +287,7 @@ each being "in play" and continuing his "break" until he fails to score.
   following motion of the cue. Just as the low stroke impedes the motion
   of the ball, the follow expedites it.
 
-  In the _drag_ the ball is struck low without the sudden jerk of the
+  In the _[[Drag|drag]]_ the ball is struck low without the sudden jerk of the
   screw, and with less than the onward push of the follow.
 
   The _spot-stroke_ is a series of winning hazards made by pocketing the
@@ -310,14 +310,14 @@ each being "in play" and continuing his "break" until he fails to score.
   known and used in 1825, when a run of twenty-two "spots" caused quite
   a sensation. The player, whose name was Carr, offered to play any man
   in England, but though challenged by Edwin Kentfield never met him, so
-  the latter became champion. Kentfield, however, did not regard the
+  the latter became [[Champion|champion]]. Kentfield, however, did not regard the
   spot-stroke as genuine billiards, rarely played it himself, and had
   the pocket of his tables reduced to 3 in., and the billiard-spot moved
   nearer to the top of the table, so as to make the stroke exceedingly
   difficult. John Roberts, sen., who succeeded Kentfield as champion in
   1849, worked hard at the stroke, but never made, in public, a longer
-  run than 104 in succession. But W. Cook, John Roberts, jun., and
-  others, assisted by the improvements made in the implements of the
+  run than 104 in succession. But W. [[Cook]], John Roberts, jun., and
+  others, assisted by the improvements made in the [[Implement|implements]] of the
   game, soon outdid Roberts, sen., only to be themselves outdone by W.
   Peall and W. Mitchell, who made such huge breaks by means of the
   stroke that it was finally barred, the Association rules providing
@@ -346,11 +346,11 @@ each being "in play" and continuing his "break" until he fails to score.
   by accident or design, in the jaws of a corner pocket, an almost
   interminable series of cannons may be made by a skilful player. T.
   Taylor made as many as 729 cannons in 1891, but the American champion,
-  Frank C. Ives, in a match with John Roberts, jun., easily beat this in
+  [[Frank]] C. Ives, in a match with John Roberts, jun., easily beat this in
   1893, by making 1267 cannons, before he deliberately broke up the
   balls. In Ives's case the balls, however, were just outside the jaws,
   which were skilfully used to keep the balls close together; but in
-  this game, which was a compromise between English and American
+  this game, which was a [[Compromise|compromise]] between English and American
   billiards, {2¼}-in. balls and {3¼}-in. pockets were used. Under the
   aegis of the Billiard Association a tacit understanding was arrived at
   that the position must be broken up, should it occur. A similar
@@ -361,10 +361,10 @@ each being "in play" and continuing his "break" until he fails to score.
   stroke introduced by Lovejoy and carried to extremes by him, T. Reece
   and others (see below).
 
-  _The Quill or Feather Stroke._--This stroke was barred early in the
+  _The Quill or [[Feather]] Stroke._--This stroke was barred early in the
   game's history. It could only be made when the cue-ball was in hand
   and the object-ball just outside that part of the baulk-line that
-  helps to form the D. The cue-ball was set so close to the object-ball
+  [[Helps|helps]] to form the D. The cue-ball was set so close to the object-ball
   as only not to touch it, and was then pushed very gently into the
   pocket, grazing the other so slightly as just to shake it, and no
   more. A number of similar strokes could thus be made before the
@@ -435,7 +435,7 @@ realize that John Roberts, sen., developed the game chiefly by means of
 spot-play, whereas his son continued the process by abandoning it. The
 public, however, liked quick scoring and long breaks, and therefore a
 substitute had to be devised. This was provided chiefly by the younger
-Roberts, whose fertility of resource and manual dexterity eventually
+Roberts, whose fertility of resource and [[Manual|manual]] dexterity eventually
 placed him by a very long way at the head of his profession. In
 exhibition matches he barred the spot-stroke and gave his attention
 chiefly to top-of-the-table play.
@@ -452,7 +452,7 @@ hand can cover, and not more than from 4 to 8 in. from a cushion. The
 striker's ball should be behind the other two, one of which is nearer
 the cushion, the other a little farther off and farther forward. The
 striker's ball is tapped quietly on the one next the cushion, and hits
-the third ball so as to drive it an inch or two in a line parallel to
+the third ball so as to drive it an [[Inch|inch]] or two in a line parallel to
 the cushion. The ball first struck rebounds from the cushion, and at the
 close of the stroke all three balls are at rest in a position exactly
 similar to that at starting, which is called by the French _position
@@ -480,8 +480,8 @@ championship matches up to 1885:--
   +-------+-------------------+--------------------------------+-----+
   | 1200  | Feb. 11, 1870     | Cook b. Roberts, sen.          | 117 |
   | 1000  | April 14, 1870    | Roberts, jun., b. Cook         | 478 |
-  | 1000  | May 30, 1870      | Roberts, jun., b. Bowles       | 246 |
-  | 1000  | Nov. 28, 1870     | Jos. Bennett b. Roberts, jun.  |  95 |
+  | 1000  | May 30, 1870      | Roberts, jun., b. [[Bowles]]       | 246 |
+  | 1000  | Nov. 28, 1870     | Jos. [[Bennett]] b. Roberts, jun.  |  95 |
   | 1000  | Jan. 30, 1871     | Roberts, jun., b. Bennett      | 363 |
   | 1000  | May 25, 1871      | Cook b. Roberts, jun.          |  15 |
   | 1000  | Nov. 21, 1871     | Cook b. Jos. Bennett           |  58 |
@@ -500,9 +500,9 @@ championship matches up to 1885:--
 
 These games were played on three-inch-pocket tables, and John Roberts,
 jun., fairly contended that he remained champion till beaten on such a
-table under the rules in force when he won the title or under a new code
+table under the rules in force when he won the title or under a new [[Code|code]]
 to which he was a consenting party. A match was played for the
-championship between Roberts and Dawson, in 1899 of 18,000 up, level.
+championship between Roberts and [[Dawson]], in 1899 of 18,000 up, level.
 The main departure from a championship game lay in the table, which had
 ordinary, though not easy pockets, instead of three-inch pockets. The
 match excited much interest, because Dawson, who had already beaten
@@ -525,7 +525,7 @@ the beginning of 1907 was incontestably the English champion.
   the modern spot-barred and push-barred game with a championship table,
   H.W. Stevenson in April 1904 made 788 against C. Dawson. In January
   1905 John Roberts, however, made 821 in fifty minutes, in a match with
-  J. Duncan, champion of Ireland; but this was not strictly a "record,"
+  J. [[Duncan]], champion of Ireland; but this was not strictly a "record,"
   since the table had not been measured officially by the Billiard
   Association. A break of 985 was made by Diggle in 1895 against
   Roberts, on a "standard table" (before the reduction in size of the
@@ -549,13 +549,13 @@ the beginning of 1907 was incontestably the English champion.
     20 + 25 - ------- = 40.
                 100
 
-  The handicap of "barring" one or more pockets to the better player, he
+  The [[Handicap|handicap]] of "barring" one or more pockets to the better player, he
   having only four or five sockets to play into, has been abolished in
   company with other methods that tended to make the game tedious.
 
 _Pyramids_ is played by two or four persons--in the latter case in
 sides, two and two. It is played with fifteen balls, placed close
-together by means of a frame in the form of a triangle or pyramid, with
+together by means of a [[Frame|frame]] in the form of a triangle or pyramid, with
 the apex towards the player, and a white striking ball. The centre of
 the apex ball covers the second or pyramid spot, and the balls forming
 the pyramid should lie in a compact mass, the base in a straight line
@@ -566,7 +566,7 @@ with the cushion.
   made of fifteen red or coloured balls, with the striking ball white.
   This white ball is common to both players. Having decided on the lead,
   the first player, placing his ball in the baulk-semicircle, strikes it
-  up to the pyramid, with a view either to lodge a ball in a pocket or
+  up to the pyramid, with a view either to [[Lodge|lodge]] a ball in a pocket or
   to get the white safely back into baulk. Should he fail to pocket a
   red ball, the other player goes on and strikes the white ball from the
   place at which it stopped. When either succeeds in making a winning
@@ -703,7 +703,7 @@ as he can score.
   When a player has taken a life he may--in some rooms and clubs
   _must_--play on the black ball. If he pockets it he receives a stake
   from each player, paying a stake all round if he misses it, or commits
-  any of the errors for which he would have to pay at "Following Pool."
+  any of the [[Error|errors]] for which he would have to pay at "Following Pool."
   The black ball cannot be taken in consecutive strokes. Sometimes a
   pink ball, spotted on the pyramid spot, is added and a single stake is
   paid all round to the man who pockets it, and a double stake on the
@@ -728,7 +728,7 @@ as he can score.
   and yellow on the diameter of the semicircle, brown on the middle
   spot, green on the right corner spot of the D, yellow on the left. The
   players, having decided the order of play, generally by distributing
-  the pool balls from the basket, and playing in the order of colours as
+  the pool balls from the basket, and playing in the order of [[Colours|colours]] as
   shown on the marking board, are obliged to strike a red ball first. If
   it is pocketed, the player scores one and is at liberty to play on any
   of the coloured balls; though in some clubs he is compelled to play on
@@ -747,7 +747,7 @@ as he can score.
   "snookered" if his ball is so placed that he cannot hit a ball on
   which he is compelled to play. In this case he is allowed in some
   rooms to give a miss, but in such a way that the next player is not
-  snookered; in others he must make a _bona fide_ attempt to hit the
+  snookered; in others he must make a _[[Bona Fide|bona fide]]_ attempt to hit the
   proper ball off the cushion, being liable to the usual penalty if in
   so doing he hits a ball of higher value. In some rooms it is
   considered fair and part of the game to snooker an opponent
@@ -838,16 +838,16 @@ played, each counting one point.
   no count," and for the weaker to receive a number of points in the
   game.
 
-  In France billiards was played exclusively by the aristocracy and the
+  In France billiards was played exclusively by the [[Aristocracy|aristocracy]] and the
   richer middle class until the first part of the 17th century, when the
   privilege of keeping billiard-rooms was accorded to the _billardiers
   paulmiers_, and billiards became the principal betting game and
   remained so until the time of Louis Philippe. The most prominent
-  French player of late years is Maurice Vignaux. The French game became
+  French player of late years is [[Maurice]] Vignaux. The French game became
   the accepted one in the United States about 1870, and the best
   American players have proved themselves superior to the French masters
   with the exception of Vignaux. The best-known American masters have
-  been M. Daly, Shaafer, Slosson, Carter, Sexton and Frank C. Ives,
+  been M. [[Daly]], Shaafer, Slosson, [[Carter]], Sexton and Frank C. Ives,
   doubtless the most brilliant player who ever lived. His record for the
   18-in. baulk-line game was an average of 50, with a high run of 290
   points. In cushion-caroms he scored a run of 85.
@@ -883,7 +883,7 @@ played, each counting one point.
   usually red. In _Pyramid Pool_ they are parti-coloured as well as
   numbered, and the game, which usually consists of a single frame, is
   won by the player who, when all fifteen balls have been pocketed, has
-  scored the greatest aggregate of the numbers on the balls. In _Chicago
+  scored the greatest aggregate of the numbers on the balls. In _[[Chicago]]
   Pool_ each frame constitutes a game and is won by the player scoring
   the highest aggregate of numbers on the balls, which are set up round
   the cushion opposite the diamond sights, the 1 being placed in the
@@ -914,7 +914,7 @@ played, each counting one point.
   _High-Low-Jack-Game_ is played with a set of pyramid balls by any
   number of players, the order of starting being determined by
   distributing the small balls from the pool-bottle. The 15-ball is
-  High, the 1 Low, the 9 Jack, and the highest aggregate of numbers is
+  High, the 1 Low, the 9 [[Jack]], and the highest aggregate of numbers is
   the game, each of these four counting one point, the game consisting
   of seven points, and therefore lasting at least for two frames. The
   balls are set up with the three counting balls in the centre and
@@ -956,10 +956,10 @@ played, each counting one point.
   older books, however, are largely superseded by such modern
   authorities as the following:--J. Roberts, _The Game of Billiards_
   (London, 1898); W. Cook, _Billiards_ (Burroughes & Watts); J.P.
-  Buchanan, _Hints on Billiards_ (Bell & Sons); _Modern Billiards_ (The
+  [[Buchanan]], _Hints on Billiards_ (Bell & Sons); _Modern Billiards_ (The
   Brunswick--Balke--Collender Co., New York); Broadfoot, _Billiards_,
-  Badminton Library (Longmans); Locock, _Side and Screw_ (Longmans); M.
-  Vignaux, _Le Billiard_ (Paris, 1889); A. Howard Cady, _Billiards and
+  Badminton Library ([[Longmans]]); Locock, _Side and Screw_ (Longmans); M.
+  Vignaux, _Le Billiard_ (Paris, 1889); A. [[Howard]] Cady, _Billiards and
   Pool_ (Spalding's Home Library, New York); Thatcher, _Championship
   Billiards, Old and New_ (Chicago, 1898). For those interested in the
   purely mathematical aspect of the game, Hemming, _Billiards

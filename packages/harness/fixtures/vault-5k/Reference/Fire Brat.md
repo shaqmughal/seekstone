@@ -8,14 +8,14 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fire_Brat"
 
 # Fire Brat
 
-FIRE BRAT, a small insect (_Thermobia_ or _Thermophila furnorum_)
+FIRE BRAT, a small [[Insect|insect]] (_Thermobia_ or _Thermophila furnorum_)
 related to the silverfish, and found in bakehouses, where it feeds upon
 bread and flour.
 
 
 
 
-FIREBRICK.--Under this term are included all bricks, blocks and slabs
+FIREBRICK.--Under this term are included all [[Brick|bricks]], blocks and slabs
 used for lining furnaces, fire-mouths, flues, &c., where the brickwork
 has to withstand high temperature (see BRICK).
 
@@ -27,7 +27,7 @@ to meet these different conditions many varieties of firebricks are
 manufactured.
 
 Ordinary firebricks are made from fireclays, i.e. from clays which
-withstand a high temperature without fusion, excessive shrinkage or
+withstand a high temperature without [[Fusion|fusion]], excessive shrinkage or
 warping. Many clays fulfil these conditions although the term "fireclay"
 is generally restricted in use to certain shales from the Coal Measures,
 which contain only a small percentage of soda, potash and lime, and are
@@ -87,7 +87,7 @@ fireclay which has a fusion point below 1600° C.
   goods having certain specific qualities. In preparing clay for the
   manufacture of ordinary fire-grate backs, &c., where the temperature
   is very variable but never very high, a certain percentage of sawdust
-  is often mixed with the fireclay, which burns out on firing and
+  is often mixed with the fireclay, which [[Burns|burns]] out on firing and
   ensures a very open or porous texture. Such material is much less
   liable to splitting or flaking in use than one having a closer
   texture, but it is useless for furnace lining and similar work, where
@@ -102,8 +102,8 @@ fireclay which has a fusion point below 1600° C.
   brick and the particular conditions to which it is subjected. The
   firebrick may waste by crumbling--due to excessive porosity or
   openness of texture; it may waste by shattering, due to the presence
-  of large pebbles, pieces of limestone, &c.; it may gradually wear away
-  by the friction of the descending charge in the furnace, of the solid
+  of large pebbles, pieces of [[Limestone|limestone]], &c.; it may gradually wear away
+  by the [[Friction|friction]] of the descending charge in the furnace, of the solid
   particles carried by the flue gases and of the flue gases themselves;
   it may waste by the gradual vitrification of the surface through
   contact with fluxing materials: in cases where it is subjected to very
@@ -124,7 +124,7 @@ fireclay which has a fusion point below 1600° C.
   which a high percentage of alumina, lime, magnesia, or iron oxide has
   been added. For such purposes firebricks are often made from materials
   containing little or no clay, as for example mixtures of calcined and
-  uncalcined magnesite; mixtures of lime and magnesia and their
+  uncalcined [[Magnesite|magnesite]]; mixtures of lime and magnesia and their
   carbonates; mixtures of bauxite and clay; mixtures of bauxite, clay
   and plumbago; bauxite and oxide of iron, &c.
 
@@ -143,14 +143,14 @@ fireclay which has a fusion point below 1600° C.
   firebricks for other purposes. In setting firebricks in position, a
   thin paste of fireclay and water or of material similar to that of
   which the brick is composed, must be used in place of ordinary mortar,
-  and the joints should be as close as possible, only just sufficient of
+  and the [[Joints|joints]] should be as close as possible, only just sufficient of
   the paste being used to enable the bricks to bed on one another.
 
   It has long been the practice on certain works to wash the face of
   firebrick work with a thin paste of some very refractory
   material--such as kaolin--in order to protect the firebricks from the
   direct action of the flue gases, &c., and quite recently a thin paste
-  of carborundum and clay, or carborundum and silicate of soda has been
+  of [[Carborundum|carborundum]] and clay, or carborundum and silicate of soda has been
   more extensively used for the same purpose. So-called carborundum
   bricks have been put on the market, which have a coating of
   carborundum and clay fired on to the firebrick, and which are said to

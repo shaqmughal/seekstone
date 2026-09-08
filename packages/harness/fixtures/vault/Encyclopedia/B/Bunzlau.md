@@ -8,10 +8,10 @@ tags: [history, mythology]
 # Bunzlau
 
 BUNZLAU, a town of Germany, in Prussian Silesia, on the right bank of the
-Bober, 27 m. from Liegnitz on the Berlin-Breslau railway, which crosses the
+[[Bober]], 27 m. from Liegnitz on the Berlin-Breslau railway, which crosses the
 river by a great viaduct. Pop. (1900) 14,590. It has a handsome market
 square, an Evangelical and a Roman Catholic church, and monuments to the
-Russian field marshal Kutusov, who died here, and to the poet Martin Opitz
+Russian field marshal Kutusov, who died here, and to the poet [[Martin]] Opitz
 von Boberfeld. The Bunzlau pottery is famous; woollen and linen cloth are
 manufactured, and there is a considerable trade in grain and cattle.
 Bunzlau (Boleslavia) received its name in the 12th century from Duke

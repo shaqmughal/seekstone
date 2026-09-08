@@ -13,7 +13,7 @@ bank of the Weser, at the foot of the Sollinger Mountains, at the
 junction of the railways Scherfede-Holzminden and Soest-Borssum, 56 m.
 S.W. of Brunswick. Pop. (1905) 9938. It has an Evangelical and a Roman
 Catholic church, a gymnasium, an architectural school and a school of
-engineering. The prosperity of the town depends chiefly on agriculture
+[[Engineering|engineering]]. The prosperity of the town depends chiefly on agriculture
 and the manufacture of iron and steel wares, and of chemicals, but
 weaving and the making of pottery are also carried on, and there are
 baryta mills and polishing-mills for sandstone. By means of the Weser it

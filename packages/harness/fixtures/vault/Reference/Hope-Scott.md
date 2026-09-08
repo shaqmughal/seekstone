@@ -1,11 +1,11 @@
 # Hope-Scott
 
 HOPE-SCOTT, JAMES ROBERT (1812-1873), English barrister and Tractarian,
-was born on the 15th of July 1812, at Great Marlow, Berkshire, the third
+was born on the 15th of July 1812, at Great [[Marlow]], Berkshire, the third
 Son of Sir Alexander Hope, and grandson of the second earl of Hopetoun.
-He was educated at Eton and Oxford, where he was a contemporary and
+He was educated at [[Eton]] and Oxford, where he was a contemporary and
 friend of Gladstone and J. H. Newman, and in 1838 was called to the bar.
-Between 1840 and 1843 he helped to found Trinity College, Glenalmond. He
+Between 1840 and 1843 he helped to found Trinity College, [[Glenalmond]]. He
 was one of the leaders of the Tractarian movement and entirely in
 Newman's confidence. In 1851 he was received with Manning into the Roman
 Catholic church. At this time he was making a very large income at the

@@ -3,7 +3,7 @@
 KHINGAN, two ranges of mountains in eastern Asia.
 
 (1) GREAT KHINGAN is the eastern border ridge of the immense plateau
-which may be traced from the Himalaya to Bering Strait and from the
+which may be traced from the [[Himalaya]] to Bering Strait and from the
 Tian-shan Mountains to the Khingan Mountains. It is well known from 50°
 N. to Kalgan (41° N., 115° E.), where it is crossed by the highway from
 Urga to Peking. As a border ridge of the Mongolian plateau, it possesses
@@ -11,7 +11,7 @@ very great orographical importance, in that it is an important climatic
 boundary, and constitutes the western limits of the Manchurian flora.
 The base of its western slope, which is very gentle, lies at altitudes
 of 3000 to 3500 ft. Its crest rises to 4800 to 6500 ft., but its eastern
-slope sinks very precipitately to the plains of Manchuria, which have
+slope sinks very precipitately to the plains of [[Manchuria]], which have
 only 1500 to 2000 ft. of altitude. On this stretch one or two
 subordinate ridges, parallel to the main range and separated from it by
 longitudinal valleys, fringe its eastern slope, thus marking two
@@ -23,7 +23,7 @@ activity in 1720-1721.
   South-west of Peking the Great Khingan is continued by the In-shan
   mountains, which exhibit similar features to those of the Great
   Khingan, and represent the same terraced escarpment of the Mongolian
-  plateau. Moreover, it appears from the map of the Russian General
+  plateau. Moreover, it appears from the [[Map|map]] of the Russian General
   Staff (surveys of Skassi, V. A. Obruchev, G. N. Potanin, &c.) that
   similar terrace-shaped escarpments--but considerably wider apart than
   in Manchuria--occur in the Shan-si province of China, along the
@@ -45,7 +45,7 @@ activity in 1720-1721.
   the upper Amur emerges from the high plateau and its border-ridge, the
   Khingan, below Albazin and above Kumara.[1] If this view
   prevail--Petermann has adopted it for his map of Asia, and it has been
-  upheld in all the Gotha publications--it would appear that the Great
+  upheld in all the [[Gotha]] publications--it would appear that the Great
   Khingan joins the Stanovoi ridge or Jukjur, in that portion of it
   which faces the west coast of the Sea of Okhotsk. At any rate the
   Khingan, separating the Mongolian plateau from the much lower plains
@@ -67,7 +67,7 @@ direction to the peninsula of Liao-tung in Manchuria. The other range to
 which the name of Little Khingan is applied is that of the Ilkhuri-alin
 mountains (51° N., 122°-126° E.), which run in a north-westerly
 direction between the upper Nonni and the Amur, west of
-Blagovyeshchensk.     (P. A. K.; J. T. Be.)
+[[Blagovyeshchensk]].     (P. A. K.; J. T. Be.)
 
 
 FOOTNOTE:

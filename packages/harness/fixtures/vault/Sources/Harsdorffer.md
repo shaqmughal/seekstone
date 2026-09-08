@@ -13,7 +13,7 @@ Strassburg, and subsequently travelled through Holland, England, France
 and Italy. His knowledge of languages gained for him the appellation
 "the learned," though he was as little a learned man as he was a poet.
 As a member of the _Fruchtbringende Gesellschaft_ he was called _der
-Spielende_ (the player). Jointly with Johann Klaj (q.v.) he founded in
+Spielende_ (the player). Jointly with Johann [[Klaj]] (q.v.) he founded in
 1644 at Nuremberg the order of the Pegnitzschafer, a literary society,
 and among the members thereof he was known by the name of Strephon. He
 died at Nuremberg on the 22nd of September 1658. His writings in German

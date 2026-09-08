@@ -11,7 +11,7 @@ pous], foot), properly one who treats the ailments of the hands and
 feet, or is consulted as to keeping them in good condition; the use of
 the word is now restricted, however, to the care of the toes,
 "manicurist" having been invented for the corresponding attentions to
-the fingers. The word was first introduced in 1785, by a "corncutter" in
+the [[Finger|fingers]]. The word was first introduced in 1785, by a "corncutter" in
 Davies Street, London.
 
 ## See also

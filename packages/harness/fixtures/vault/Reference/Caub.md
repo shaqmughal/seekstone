@@ -2,7 +2,7 @@
 
 CAUB, or KAUB, a town of Germany, in the Prussian province of
 Hesse-Nassau, on the right bank of the Rhine, 28 m. N.W. from Wiesbaden,
-on the railway from Frankfort-on-Main to Cologne. Pop. 2200. It has a
+on the railway from [[Frankfort-On-Main|Frankfort-on-Main]] to [[Cologne]]. Pop. 2200. It has a
 Roman Catholic and an Evangelical church, and a statue of Blucher. The
 trade mainly consists of the wines of the district. On a crag above the
 town stands the imposing ruin of Gutenfels, and facing it, on a rock in

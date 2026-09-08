@@ -12,7 +12,7 @@ miles along both sides of the river, and is in a good farming district,
 with which it is connected by stone roads. Among the public buildings
 are the Federal building, the city hall and the public library. The city
 has lumber and fishing interests (perch, whitefish, sturgeon, pickerel,
-bass, &c. being caught in Saginaw Bay), large machine shops and
+bass, &c. being caught in Saginaw Bay), large [[Machine|machine]] shops and
 foundries (value of products in 1905, $1,743,155, or 31% of the total of
 the city's factory products), and various manufactures, including ships
 (wooden and steel), wooden ware, wood-pipe, veneer, railroad machinery,
@@ -22,7 +22,7 @@ but its importance has dwindled, the product value in 1905 being $20,098
 out of $5,620,866 for all factory products. Near the city are valuable
 coal mines, and there is one within the city limits. At Essexville (pop.
 in 1910, 1477), N.E., at Banks, N.W., and at Salzbury, S.W. of Bay City,
-are beet-sugar factories--sugar beets are extensively grown in the
+are beet-sugar factories--sugar [[Beets|beets]] are extensively grown in the
 vicinity. Alcohol is made from the refuse molasses obtained from these
 beet-sugar factories. The municipality owns and operates the water-works
 and electric-lighting plant. The settlements of Lower Saginaw and

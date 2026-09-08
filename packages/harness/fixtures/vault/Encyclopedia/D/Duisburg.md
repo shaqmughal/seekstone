@@ -5,12 +5,12 @@ from Düsseldorf, between the Rhine and the Ruhr, with which rivers it
 communicates by a canal. It is an important railway centre. Pop. (1885)
 47,519; (1900) 92,729; (1905), including many outlying townships then
 recently incorporated, 191,551. It has six Roman Catholic and six
-Protestant churches, among the latter the fine Gothic Salvatorkirche, of
+Protestant churches, among the latter the fine [[Gothic]] Salvatorkirche, of
 the 15th century. It is well furnished with schools, which include a
-school of machinery. Of modern erections, the concert hall, the law
-courts and a memorial fountain to the cartographer Gerhard Kremer
+school of machinery. Of modern erections, the [[Concert|concert]] hall, the law
+courts and a memorial [[Fountain|fountain]] to the cartographer Gerhard Kremer
 (Mercator) are worthy of mention. There are important foundries, rolling
-mills for copper, steel and brass plates, chemical works, saw-milling,
+mills for copper, steel and [[Brass|brass]] plates, chemical works, saw-milling,
 shipbuilding, tobacco, cotton, sugar, soap and other manufactures.
 
 Duisburg was known to the Romans as _Castrum Deutonis_, and mentioned

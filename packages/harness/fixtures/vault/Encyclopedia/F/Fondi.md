@@ -1,10 +1,10 @@
 # Fondi
 
-FONDI (anc. _Fundi_), a town of Campania, Italy, in the province of
-Caserta, 12 m. N.W. of Formia, and 11 m. E.N.E. of Terracina by road.
+FONDI (anc. _Fundi_), a town of [[Campania]], Italy, in the province of
+[[Caserta]], 12 m. N.W. of [[Formia]], and 11 m. E.N.E. of Terracina by road.
 Pop. (1901) 9930. It lies 25 ft. above sea-level, at the N. end of a
 plain surrounded by mountains, which extend to the sea. It occupies the
-site of the ancient Fundi, a Volscian town, belonging later to _Latium
+site of the ancient Fundi, a Volscian town, belonging later to _[[Latium]]
 adjectum_, on the Via Appia, still represented by the modern high-road
 which passes through the centre of the town. It is rectangular in plan,
 and portions of its walls, partly in fine polygonal work and partly in
@@ -16,17 +16,17 @@ gate still exists, but not _in situ_. In the neighbourhood are the
 remains of several ancient villas, and along the Via Appia still stands
 an ancient wall of _opus reticulatum_, with an inscription, in large
 letters, of one Varronianus, the letters being at intervals of 25 ft.
-The engineering of the ancient Via Appia between Fondi and Formia, where
-it passes through the mountains near Itri, is remarkable.
+The [[Engineering|engineering]] of the ancient Via Appia between Fondi and Formia, where
+it passes through the mountains near [[Itri]], is remarkable.
 
 The modern town is still enclosed by the ancient walls. The castle on
 the S.E. side has some 15th-century windows with beautiful tracery.
-Close by is the Gothic church of S. Pietro (formerly S. Maria), which
+Close by is the [[Gothic]] church of S. Pietro (formerly S. Maria), which
 was the cathedral until the see was suppressed in 1818 and united with
-that of Gaeta; it contains a fine pulpit with "cosmatesque" work and the
+that of [[Gaeta]]; it contains a fine pulpit with "cosmatesque" work and the
 fine tomb of Cristoforo Caetani (1439), two interesting 15th-century
-triptychs and an episcopal throne, which served for the coronation of
-the anti-pope Clement VII. in 1378. In the Dominican monastery the cell
+triptychs and an episcopal throne, which served for the [[Coronation|coronation]] of
+the anti-pope [[Clement]] VII. in 1378. In the Dominican monastery the cell
 which St Thomas Aquinas sometimes occupied is shown.
 
 The ancient city of Fundi in 338 B.C. (or 332) received (with Formiae)
@@ -38,7 +38,7 @@ citizenship in 188 B.C., and was partly under the control of a
 _praefectus_. The inscription upon some waterpipes which have been
 discovered shows that later it became a _municipium_. It was governed by
 three aediles: Horace's jest against the officious praetor (sic) is due
-to the exigencies of metre (Th. Mommsen in _Hermes_, xiii. p. 113). The
+to the exigencies of metre (Th. Mommsen in _[[Hermes]]_, xiii. p. 113). The
 family of Livia, the consort of Augustus, belonged to Fundi. During the
 Lombard invasions in 592 Fundi was temporarily abandoned, but it seems
 to have come under the rule of the papacy by A.D. 754 at any rate. Pope
@@ -53,7 +53,7 @@ which it still remains. Its position as a frontier town between the
 papal states and the kingdom of Naples, just in the territory of the
 latter--the Via Appia can easily be blocked either N.W. at the actual
 frontier called Portella[1] or S.E. of it--affected it a good deal
-during the French Revolution and the events which led up to the
+during the [[French Revolution]] and the events which led up to the
 unification of Italy.
 
 The Lago di Fondi, which lies in the middle of the plain, and the
@@ -77,11 +77,11 @@ Fundi, was even more renowned, and Horace frequently praises its wine;
 and though Pliny the Elder speaks as if its production had almost
 entirely ceased in his day (attributing this to neglect, but even more
 to the excavation works of Nero's projected canal from the lacus Avernus
-to Ostia), Martial mentions it often, and it is spoken of in the
+to Ostia), [[Martial]] mentions it often, and it is spoken of in the
 inscription of a wine-dealer of the time of Hadrian, together with
 Falernian and Setian wines (_Corpus inscript. Lat._ vi. Berlin, 1882,
 9797). The plain of Fondi is the northernmost point in Italy where the
-cultivation of oranges and lemons is regularly carried on in modern
+cultivation of oranges and [[Lemon|lemons]] is regularly carried on in modern
 times.
 
   See G. Conte Colino, _Storia di Fondi_ (Naples, 1902); B. Amante and

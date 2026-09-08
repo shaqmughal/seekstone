@@ -8,7 +8,7 @@ tags: [history]
 # Intuition
 
 INTUITION (from Lat. _intueri_, to look at), in philosophy, a term
-applied to immediate or direct apprehension. The truth of a theorem in
+applied to immediate or direct [[Apprehension|apprehension]]. The truth of a theorem in
 geometry is demonstrated by a more or less elaborate series of
 arguments. This is not the case, according to the intuitionalist school
 of philosophy, with the apprehension of universal principles, which

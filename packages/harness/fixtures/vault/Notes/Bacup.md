@@ -17,10 +17,10 @@ institutions the chief is the mechanics' institute and library. The
 recreation grounds presented in 1893 by Mr. J. H. Maden, M.P., are
 beautifully laid out. Cotton spinning and power-loom weaving are the chief
 of numerous manufacturing industries, and there are large collieries in the
-vicinity. The principle of co-operation is strongly developed, and a large
+vicinity. The principle of [[Co-Operation|co-operation]] is strongly developed, and a large
 and handsome store contains among other departments a free library for
 members. The borough was incorporated in 1882, and the corporation consists
-of a mayor, 6 aldermen and 17 councillors. Area, 6120 acres. In 1841 the
+of a [[Mayor|mayor]], 6 aldermen and 17 councillors. Area, 6120 acres. In 1841 the
 population of the chapelry was only 1526. One of the hills in the vicinity
 is fortified with a great ancient earthwork and ditch.
 

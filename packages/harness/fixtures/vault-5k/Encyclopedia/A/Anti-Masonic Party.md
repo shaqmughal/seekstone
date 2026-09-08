@@ -7,9 +7,9 @@ dissatisfied with his Order and had planned to publish its secrets. When
 his purpose became known to the Masons, Morgan was subjected to frequent
 annoyances, and finally in September 1826 he was seized and
 surreptitiously conveyed to Fort Niagara, whence he disappeared. Though
-his ultimate fate was never known, it was generally believed at the time
+his ultimate [[Fate|fate]] was never known, it was generally believed at the time
 that he had been foully dealt with. The event created great excitement,
-and led many to believe that Masonry and good citizenship were
+and led many to believe that [[Masonry]] and good citizenship were
 incompatible. Opposition to Masonry was taken up by the churches as a
 sort of religious crusade, and it also became a local political issue in
 western New York, where early in 1827 the citizens in many mass meetings
@@ -22,7 +22,7 @@ by the fact that Jackson was a high Mason and frequently spoke in praise
 of the Order. In the elections of 1828 the new party proved unexpectedly
 strong, and after this year it practically superseded the National
 Republican party in New York. In 1829 the hand of its leaders was shown,
-when, in addition to its antagonism to the Masons, it became a champion
+when, in addition to its antagonism to the Masons, it became a [[Champion|champion]]
 of internal improvements and of the protective tariff. From New York the
 movement spread into other middle states and into New England, and
 became especially strong in Pennsylvania and Vermont. A national
@@ -56,7 +56,7 @@ composed.
   See Charles McCarthy, _The Antimasonic Party: A Study of Political
   Anti-Masonry in the United States, 1827-1840_, in the Report of the
   American Historical Association for 1902 (Washington, 1903); the
-  _Autobiography of Thurlow Weed_ (2 vols., Boston, 1884); A.G. Mackey
+  _Autobiography of Thurlow Weed_ (2 vols., [[Boston]], 1884); A.G. Mackey
   and W.R. Singleton, _The History of Freemasonry_, vol. vi. (New York,
   1898); and J.D. Hammond, _History of Political Parties in the State of
   New York_ (2 vols., Albany, 1842).

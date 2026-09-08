@@ -30,7 +30,7 @@ It is subject, however, to extreme and rapid variations in temperature,
 to alternations of dry and humid winds (the latter, called _catias_,
 being irritating and oppressive), to chilling night mists brought up
 from the coast by the westerly winds, and to other influences productive
-of malaria, catarrh, fevers, bilious disorders and rheumatism. The
+of malaria, catarrh, [[Fever|fevers]], bilious disorders and rheumatism. The
 maximum and minimum temperatures range from 84 deg. to 48 deg. F., the
 annual mean being about 66 deg., and the daily variation is often as
 much as 15 deg. The city is built with its streets running between the
@@ -54,20 +54,20 @@ edifices are the capitol, which occupies a whole square, the university,
 of nearly equal size, the cathedral, pantheon, masonic temple (built by
 the state in the spendthrift days of Guzman Blanco), national library,
 opera-house, and a number of large churches. The city is generously
-provided with all the modern public services, including two street car
+provided with all the modern public services, including two street [[Car|car]]
 lines, local and long distance telephone lines, electric power and
 light, and waterworks. The principal water supply is derived from the
 Macarao river, 15 m. distant. Railway connexion with the port of La
 Guaira was opened in 1883 by means of a line 23 m. long. Another line
 (the Gran Ferrocarril de Venezuela) passes through the mountains to
 Valencia, 111 m. distant, and two short lines run to neighbouring
-villages, one to Petare and Santa Lucia, and the other to El Valle. The
+villages, one to Petare and Santa [[Lucia]], and the other to El Valle. The
 archbishop of Venezuela resides in Caracas and has ecclesiastical
-jurisdiction over the dioceses of Ciudad Bolivar, Calabozo,
-Barquisimeto, Merida and Maracaibo. There are no manufactures of note.
+jurisdiction over the dioceses of Ciudad Bolivar, [[Calabozo]],
+[[Barquisimeto]], Merida and Maracaibo. There are no manufactures of note.
 
 Caracas was founded in 1567 by Diego de Losada under the pious title of
-Santiago de Leon de Caracas, and has been successively capital of the
+Santiago de [[Leon]] de Caracas, and has been successively capital of the
 province of Caracas, of the captaincy-general of Caracas and Venezuela,
 and of the republic of Venezuela. It is also one of the two chief
 cities, or capitals, of the Federal district. It was the birthplace of

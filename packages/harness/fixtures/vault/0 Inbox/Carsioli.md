@@ -20,8 +20,8 @@ but little of it. The modern town of Carsoli first appears in a diploma
 of A.D. 866, but the old site does not seem to have been abandoned until
 the 13th century. It is now occupied only by vineyards, and lies about
 2100 ft. above sea-level, in a plain surrounded by mountains, now called
-Piano del Cavaliere. The line of the city walls (originally in tufa, and
-reconstructed in limestone), built of rectangular blocks, can be traced,
+Piano del [[Cavaliere]]. The line of the city walls (originally in tufa, and
+reconstructed in [[Limestone|limestone]]), built of rectangular blocks, can be traced,
 and so can the scanty remains of several buildings, including the
 _podium_ or base, of a temple, and also the ancient branch road from the
 Via Valeria (which itself keeps just south-east of Carsioli), traversing

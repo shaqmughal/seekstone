@@ -24,10 +24,10 @@ stripes running from the shoulder to the lower hem, these being
 connected by a cross-band, the position of which differs in various
 countries (see figs. 3, 4). Less essential are the orphreys on the hem
 of the arms and the fringes along the slits at the sides and the lower
-hem. The tassels hanging from either shoulder at the back (see fig. 6),
+hem. The tassels [[Hanging|hanging]] from either shoulder at the back (see fig. 6),
 formerly very much favoured, have now largely gone out of use.
 
-The _dalmatica_, which originated--as its name implies--in Dalmatia,
+The _dalmatica_, which originated--as its name implies--in [[Dalmatia]],
 came into fashion in the Roman world in the 2nd century A.D. It was a
 loose tunic with very wide sleeves, and was worn over the _tunica alba_
 by the better class of citizens (see. fig. 2). According to the _Liber
@@ -43,12 +43,12 @@ remained for centuries the vestment distinctive of the pope and his
 deacons, and--according at least to the view held at Rome--could be worn
 by other clergy only by special concession of the pope. Thus Pope
 Symmachus (498-514) granted the right to wear it to the deacons of
-Bishop Caesarius of Arles; and so late as 757 Pope Stephen II. gave
+Bishop Caesarius of [[Arles]]; and so late as 757 Pope Stephen II. gave
 permission to Fulrad, abbot of St Denis, to be assisted by six deacons
 at mass, and these are empowered to wear "the robe of honour of the
 dalmatic." How far, however, this rule was strictly observed, and what
 was the relation of the Roman dalmatic to the diaconal alba and
-subdiaconal tunica, which were in liturgical use in Gaul and Spain so
+subdiaconal tunica, which were in liturgical use in [[Gaul]] and Spain so
 early as the 6th century, are moot points (see Braun, p. 252). The
 dalmatic was in general use at the beginning of the 9th century, partly
 as a result of the Carolingian reforms, which established the Roman
@@ -65,8 +65,8 @@ processions and benedictions. They are, however, traditionally vestments
 symbolical of joy (the bishop in placing the dalmatic on the newly
 ordained deacon says:--"May the Lord clothe thee in the tunic of joy and
 the garment of rejoicing"), and they are therefore not worn during
-seasons of fasting and penitence or functions connected with these, the
-folded chasuble (_paenula plicata_) being substituted (see CHASUBLE).
+seasons of [[Fasting|fasting]] and penitence or functions connected with these, the
+folded [[Chasuble|chasuble]] (_paenula plicata_) being substituted (see CHASUBLE).
 Dalmatic and tunicle are never worn by priests, as priests, but both are
 worn by bishops under the chasuble (never under the cope) and also by
 those prelates, not being bishops, to whom the pope has conceded the
@@ -74,7 +74,7 @@ right to wear the episcopal vestments.
 
 [Illustration: FIG. 1.--Deacon in dalmatic, apparelled amice and alb.]
 
-In England at the Reformation the dalmatic ultimately shared the fate of
+In England at the Reformation the dalmatic ultimately shared the [[Fate|fate]] of
 the chasuble and other mass vestments. It was, however, certainly one of
 the "ornaments of the minister" in the second year of Edward VI., the
 rubric in the office for Holy Communion directing the priest's "helpers"
@@ -114,9 +114,9 @@ church, it is not worn under, but has replaced the phelonion (chasuble).
   ORPHREYS AND APPARELS ARE OF EMBROIDERED SILK VELVET.
 
   The two figures on the cross-band or apparel represent St. Gregory the
-  Great and St. Augustine. The shields of arms are for the dukes of
-  Julich and Berg, counts of Ravensberg, and for the electors of
-  Bavaria. Said to have come from the church of St. Severin, Cologne.
+  Great and St. Augustine. The shields of arms are for the [[Dukes|dukes]] of
+  Julich and [[Berg]], counts of Ravensberg, and for the [[Electors|electors]] of
+  Bavaria. Said to have come from the church of St. Severin, [[Cologne]].
   German (Cologne); second half of 15th century. (In the Victoria and
   Albert Museum.)]
 
@@ -140,15 +140,15 @@ church, it is not worn under, but has replaced the phelonion (chasuble).
   Father J. Braun (in _Die liturgische Gewandung_), by permission of B.
   Herder.]
 
-A silk dalmatic forms one (the undermost) of the English coronation
+A silk dalmatic forms one (the undermost) of the English [[Coronation|coronation]]
 robes. Its use would seem to have been borrowed, not from the robes of
 the Eastern emperors, but from the church, and to symbolize with the
 other robes the quasi-sacerdotal character of the kingship (see
 CORONATION). The magnificent so-called dalmatic of Charlemagne,
 preserved at Rome (see EMBROIDERY), is really a Greek sakkos.
 
-  See Joseph Braun, S.J., _Die liturgische Gewandung_ (Freiburg im
-  Breisgau, 1907), pp. 247-305. For further references and illustrations
+  See Joseph Braun, S.J., _Die liturgische Gewandung_ ([[Freiburg]] im
+  [[Breisgau]], 1907), pp. 247-305. For further references and illustrations
   see the article VESTMENTS.     (W. A. P.)
 
 ## See also

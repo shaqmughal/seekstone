@@ -21,17 +21,17 @@ side blocks, as D, are termed the haunches. The lower surface or soffit
 of the arch is the intrados, E, and the upper surface the extrados, F.
 The rise of the arch is the distance from the springing to the soffit,
 G, the width between the springers is called the span, H, and the radius
-I. The triangular spaces between the arches are termed spandrils, K.
+I. The triangular spaces between the [[Arches|arches]] are termed spandrils, K.
 
 The arch is employed for two purposes:--(1) to span an opening in a wall
 and support the superstructure; (2) when continuous to form a vault
-known as a barrel or waggon vault.
+known as a [[Barrel|barrel]] or waggon vault.
 
 The arch has been used from time immemorial by every nation, but owing
 to the tendency of the upper portion to sink, especially when bearing
 any superincumbent weight, it requires strong lateral support, and it is
-for this reason that in the earliest examples in unburnt brick at Nippur
-in Chaldaea, _c._ 4000 B.C., and at Rakakna (Requaqna) and Dendera in
+for this reason that in the earliest examples in unburnt [[Brick|brick]] at Nippur
+in Chaldaea, _c._ 4000 B.C., and at Rakakna (Requaqna) and [[Dendera]] in
 Egypt, 3500-3000 B.C., it was employed only below the level of the
 ground which served as an abutment on either side.
 
@@ -61,7 +61,7 @@ over canals (see article ARCHITECTURE: _Etruscan_), or in the entrance
 gateways of their towns. The skew-arch in the gateway at Perugia shows
 great knowledge in its execution. From the Etruscans the adoption of the
 arch passed to the Romans, who certainly employed centreing of some
-kind, but always economized its use, as is clearly shown by Choisy.
+kind, but always economized its use, as is clearly shown by [[Choisy]].
 Although their walls from the Augustan age were built in concrete,
 arches of brick were always turned over their entrance doorways,
 sometimes in two or three rings. The Romans utilized the arch in other
@@ -71,7 +71,7 @@ Pantheon. In their monumental structures in stone, the arch was
 sometimes built with regular voussoirs, i.e. with a semicircular
 extrados, and sometimes with the joint carried far beyond. The latter
 was not done in the early examples of the Tabularium and the Theatre of
-Marcellus, but in the Colosseum and all the arches of triumph the joints
+Marcellus, but in the Colosseum and all the arches of triumph the [[Joints|joints]]
 run through the spandrils, notwithstanding the recognition of the arch
 proper by its moulded archivolt.
 
@@ -80,7 +80,7 @@ feature than the semicircular (owing to the tendency to sink in the
 keystone of the latter) had been recognized by the Assyrian builders,
 who employed it in their drains, it was not used systematically as an
 architectural feature till the 9th century, in the mosque of Tulun at
-Cairo; it seems to have been regarded by the Mahommedans as an emblem of
+Cairo; it seems to have been regarded by the Mahommedans as an [[Emblem|emblem]] of
 their faith, and its use spread through Syria to Persia, was brought to
 Sicily from Egypt, and was taken back by the Sicilian masons to
 Palestine and employed throughout the Crusaders' churches during the
@@ -89,7 +89,7 @@ reasons, been employed in Perigord from the commencement of the 11th
 century, it does not follow that the Crusaders brought it from
 Palestine, but there is no doubt that its universal employment in France
 early in the 12th century may have been partly due to its adoption in
-the Crusaders' churches. At first in Gothic work both the semicircular
+the Crusaders' churches. At first in [[Gothic]] work both the semicircular
 and pointed arches were used simultaneously in the same building, the
 larger arches being pointed, the smaller ones and windows being
 semicircular. The great value of the pointed arch in vaulting is
@@ -103,10 +103,10 @@ destruction. In India therefore it was built in horizontal courses with
 vertical slabs leaning against one another to form the apex. The Moors
 of north Africa, however, never employed it, preferring the horseshoe
 arch which they brought into Spain and developed in the mosque of
-Cordova. In the additions made to this mosque the prayer chamber was
-enriched by the caliph Mansur, who, to eke out the height, raised arch
+[[Cordova]]. In the additions made to this mosque the prayer chamber was
+enriched by the caliph [[Mansur]], who, to eke out the height, raised arch
 upon arch. In the Alhambra it appears in the decorative plaster work,
-and travels northwards into the south of France, where at Le Puy and
+and travels northwards into the south of France, where at [[Le Puy]] and
 elsewhere it is found decorating doorways and windows; in England it was
 employed towards the end of the 12th century.
 
@@ -118,7 +118,7 @@ three-centred arch in the 15th century.
 The ogee arch was the natural result of the development of tracery in
 the commencement of the 14th century, and in Gloucester (about 1310) the
 foliations were run one into the other without the enclosing circles.
-About the middle of the 14th century, in the arcade of the first storey
+About the middle of the 14th century, in the [[Arcade|arcade]] of the first storey
 of the ducal palace in Venice, flowing tracery is found, from which the
 ogee arch there was probably derived, as throughout Venice it becomes
 the favourite feature in domestic architecture of that and the
@@ -157,7 +157,7 @@ The arches are of various forms as follows:--
   12. Pointed horseshoe arches, found in the mosque of Tulun, Cairo, 9th
   century.
 
-  13. Pointed foiled arches, in the arcades of Beverley Minster (_c_.
+  13. Pointed foiled arches, in the arcades of [[Beverley]] Minster (_c_.
   1230) and Netley Abbey.
 
   14. Cusped arch; Christchurch Priory, Hants.
@@ -178,9 +178,9 @@ The arches are of various forms as follows:--
   architecture.
 
   20. The discharging or relieving arch, built above the architrave or
-  lintel to take off the weight of the superstructure.
+  [[Lintel|lintel]] to take off the weight of the superstructure.
 
-  21. The relieving arch as used in Egypt, in the pyramid of Cheops; and
+  21. The relieving arch as used in Egypt, in the pyramid of [[Cheops]]; and
   in Saxon architecture, where it was built with Roman bricks or tiles,
   or consisted of two sloping slabs of stone.]
       (R. P. S.)
@@ -188,15 +188,15 @@ The arches are of various forms as follows:--
 
 FOOTNOTE:
 
-  [1] The ultimate derivation of "arch" is the Latin _arcus_, a bow, or
+  [1] The ultimate derivation of "arch" is the Latin _arcus_, a [[Bow|bow]], or
     arch, in origin meaning something bent, from which through the French
     is also derived "arc," a curve. In French there are two words
-    _arche_, one meaning a chest or coffer, from Latin _arca_ (_arcere_,
+    _arche_, one meaning a chest or [[Coffer|coffer]], from Latin _arca_ (_arcere_,
     to keep close), hence the English "ark"; the other meaning a vaulted
     arch, such as that of a bridge, and derived from a Low Latin
     corruption of _arcus_, into arca (du Cange, _Glossarium_, s.v.). The
     word "arch," prefixed to names of offices, seen in "archbishop,"
-    "archdeacon," "archduke," &c., means "principal" or "chief," and
+    "[[Archdeacon|archdeacon]]," "archduke," &c., means "principal" or "chief," and
     comes from the Greek prefix [Greek: arx-] or [Greek: arxi-] from
     [Greek: arxein], to begin, lead, or rule; it is also prefixed to
     other words, and usually with words implying hatred or detestation,

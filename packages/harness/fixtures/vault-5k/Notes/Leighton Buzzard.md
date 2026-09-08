@@ -20,7 +20,7 @@ clerestory, and the beautiful carved wooden roof, are Perpendicular. The
 west door has good early iron-work; and on one of the tower-arch pillars
 are some remarkable early carvings of jocular character, one of which
 represents a man assaulted by a woman with a ladle. The market cross is
-of the 14th century, much restored, having an open arcade supporting a
+of the 14th century, much restored, having an open [[Arcade|arcade]] supporting a
 pinnacle, with flying buttresses. The statues in its niches are modern,
 but the originals are placed on the exterior of the town hall. Leighton
 has a considerable agricultural trade, and some industry in

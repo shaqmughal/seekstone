@@ -8,9 +8,9 @@ tags: [forestry, history]
 
 # Forli
 
-FORLI (anc. _Forum Livii_), a town and episcopal see of Emilia, Italy,
+FORLI (anc. _[[Forum]] Livii_), a town and episcopal see of Emilia, Italy,
 the capital of the province of Forli, 40 m. S.E. of Bologna by rail, 108
-ft. above sea-level. Pop. (1901) 15,461 (town); 43,321 (commune). Forli
+ft. above sea-level. Pop. (1901) 15,461 (town); 43,321 ([[Commune|commune]]). Forli
 is situated on the railway between Bologna and Rimini. It is connected
 by steam tramways with Ravenna and Meldola, and by a road through the
 Apennines with Pontassieve. The church of S. Mercuriale stands in the
@@ -29,7 +29,7 @@ master of Palmezzano; the frescoes in the Sforza chapel in SS. Biagio e
 Girolamo are from the former's designs, though executed by the latter.
 The church also contains the fine tomb (1466) of Barbara Manfredi. The
 cathedral (Santa Croce) has been almost entirely rebuilt since 1844. The
-Palazzo del Podesta, now a private house, is a brick building of the
+Palazzo del Podesta, now a private house, is a [[Brick|brick]] building of the
 15th century. The citadel (Rocca Ravaldina), constructed about
 1360-1370, and later rebuilt, is now used as a prison. Flavio Biondo,
 the first Renaissance writer on the topography of ancient Rome

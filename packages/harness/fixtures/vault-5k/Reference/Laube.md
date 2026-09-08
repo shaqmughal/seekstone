@@ -9,18 +9,18 @@ id: 42-2866
 
 LAUBE, HEINRICH (1806-1884), German dramatist, novelist and
 theatre-director, was born at Sprottau in Silesia on the 18th of
-September 1806. He studied theology at Halle and Breslau (1826-1829),
+September 1806. He studied theology at [[Halle]] and Breslau (1826-1829),
 and settled in Leipzig in 1832. Here he at once came into prominence
 with his political essays, collected under the title _Das neue
 Jahrhundert_, in two parts--_Polen_ (1833) and _Politische Briefe_
-(1833)--and with the novel _Das junge Europa_, in three parts--_Die
+(1833)--and with the novel _Das junge [[Europa]]_, in three parts--_Die
 Poeten_, _Die Krieger_, _Die Bürger_--(1833-1837). These writings, in
 which, after the fashion of Heinrich Heine and Ludwig Börne, he severely
 criticized the political régime in Germany, together with the part he
 played in the literary movement known as _Das junge Deutschland_, led to
 his being subjected to police surveillance and his works confiscated. On
 his return, in 1834, from a journey to Italy, undertaken in the company
-of Karl Gutzkow, Laube was expelled from Saxony and imprisoned for nine
+of Karl [[Gutzkow]], Laube was expelled from Saxony and imprisoned for nine
 months in Berlin. In 1836 he married the widow of Professor Hänel of
 Leipzig; almost immediately afterwards he suffered a year's imprisonment
 for his revolutionary sympathies. In 1839 he again settled in Leipzig
@@ -29,7 +29,7 @@ productions are the tragedies _Monaldeschi_ (1845) and _Struensee_
 (1847); the comedies _Rokoko, oder die alten Herren_ (1846); _Gottsched
 und Gellert_ (1847); and _Die Karlsschüler_ (1847), of which the
 youthful Schiller is the hero. In 1848 Laube was elected to the national
-assembly at Frankfort-on-Main for the district of Elbogen, but resigned
+assembly at [[Frankfort-On-Main|Frankfort-on-Main]] for the district of Elbogen, but resigned
 in the spring of 1849, when he was appointed artistic director of the
 Hofburg theatre in Vienna. This office he held until 1867, and in this
 period fall his finest dramatic productions, notably the tragedies _Graf
@@ -47,7 +47,7 @@ years preceding his death, which took place at Vienna on the 1st of
 August 1884, he wrote the romances and novels _Die Böhminger_ (1880),
 _Louison_ (1881), _Der Schatten-Wilhelm_ (1883), and published an
 interesting volume of reminiscences, _Erinnerungen, 1841-1881_ (1882).
-Laube's dramas are not remarkable for originality or for poetical
+Laube's [[Drama|dramas]] are not remarkable for originality or for poetical
 beauty; their real and great merit lies in their stage-craft. As a
 theatre-manager he has had no equal in Germany, and his services in this
 capacity have assured him a more lasting name in German literary history

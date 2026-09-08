@@ -8,7 +8,7 @@ id: 42-143
 # Bursar
 
 BURSAR (Med. Lat. _bursarius_), literally a keeper of the _bursa_ or purse.
-The word is now chiefly used of the official, usually one of the fellows,
+The word is now chiefly used of the official, usually one of the [[Fellows|fellows]],
 who administers the finances of a college at a university, or of the
 treasurer of a school or other institution. The term is also applied to the
 holder of "a bursary," an exhibition at Scottish schools or universities,

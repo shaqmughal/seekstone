@@ -6,7 +6,7 @@ direction of the science of fortification, and as an engineer officer he
 saw service in the latter years of the Thirty Years' War, and in Poland.
 As adjutant-general and engineer adviser to Charles X. (Gustavus), he
 had a great share in the famous crossing of the frozen Belts, and at the
-sieges of Copenhagen and Kronborg he directed the engineers. In spite of
+sieges of [[Copenhagen]] and Kronborg he directed the engineers. In spite of
 these distinguished services, Dahlberg remained an obscure
 lieutenant-colonel for many years. His patriotism, however, proved
 superior to the tempting offers Charles II. of England made to induce
@@ -19,7 +19,7 @@ at Helsingborg in 1677, and Dunamunde in 1700) and defence (as in the
 two sieges of Riga in 1700): and his work in repairing the fortresses of
 his own country, not less important, earned for him the title of the
 "Vauban of Sweden." He was also the founder of the Swedish engineer
-corps. He retired as field-marshal in 1702, and died the following year.
+[[Corps|corps]]. He retired as field-marshal in 1702, and died the following year.
 
 Erik Dahlberg was responsible for the fine collection of drawings called
 _Suecia antiqua et hodierna_ (Stockholm, 1660-1716; 2nd edition, 1856;

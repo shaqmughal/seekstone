@@ -9,14 +9,14 @@ tags: [language-theory, geography]
 # Juno
 
 JUNO, the chief Roman and Latin goddess, and the special object of
-worship by women at all the critical moments of life. The etymology of
+worship by women at all the critical moments of life. The [[Etymology|etymology]] of
 the name is not certain, but it is usually taken as a shortened form of
 _Jovino_, answering to _Jovis_, from a root _div_, shining. Under Greek
 influence Juno was early identified with the Greek Hera, with whose cult
 and characteristics she has much in common; thus the Juno with whom we
 are familiar in Latin literature is not the true Roman deity. In the
 _Aeneid_, for example, her policy is antagonistic to the plans of
-Jupiter for the conquest of Latium and the future greatness of Rome;
+Jupiter for the conquest of [[Latium]] and the future greatness of Rome;
 though in the fourth _Eclogue_, as Lucina, she appears in her proper
 rôle as assisting at childbirth. It was under Greek influence again that
 she became the wife of Jupiter, the mother of Mars; the true Roman had
@@ -50,7 +50,7 @@ or queen of heaven, as Jupiter there was _Optimus Maximus_ (see
 JUPITER), and under the same title she was enticed from Veii after its
 capture in 392 B.C., and settled in a temple on the Aventine. Thus
 exalted above all other female deities, she was prepared for that
-identification with Hera which was alluded to above. That she was in
+[[Identification|identification]] with Hera which was alluded to above. That she was in
 some sense a deity of light seems certain; as Lucina, e.g., she
 introduced new-born infants "in luminis oras."
 

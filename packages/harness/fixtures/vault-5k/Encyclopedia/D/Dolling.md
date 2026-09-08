@@ -3,7 +3,7 @@
 DOLLING, ROBERT WILLIAM RADCLYFFE (1851-1902), English divine, known as
 Father Dolling, was born at Magheralin, Co. Down, and educated at Harrow
 and Cambridge. From 1878 to 1882 he was warden of one of the houses of
-the Postmen's League, started by Father Stanton of St Alban's, Holborn.
+the Postmen's League, started by Father Stanton of St Alban's, [[Holborn]].
 He was ordained in 1883 to a curacy at Corscombe, Dorset, but resided in
 London as head of St Martin's mission, Stepney. In 1885 a difficulty as
 to the relation of his mission to Holy Trinity parish, Stepney, led to
@@ -37,11 +37,11 @@ philology, and in 1818 turned to the study of theology, which he
 believed to lie beneath every other science. He particularly devoted
 himself to an independent study of ecclesiastical history, a subject
 very indifferently taught in Roman Catholic Germany at that time. In
-1820 he became acquainted with Victor Aimé Huber (1800-1869), a fact
+1820 he became acquainted with Victor Aimé [[Huber]] (1800-1869), a fact
 which largely influenced his life. On the 5th of April 1822 he was
 ordained priest, after studying at Bamberg, and in 1823 he became
-professor of ecclesiastical history and canon law in the lyceum at
-Aschaffenburg. He then took his doctor's degree, and in 1826 became
+professor of ecclesiastical history and canon law in the [[Lyceum|lyceum]] at
+[[Aschaffenburg]]. He then took his doctor's degree, and in 1826 became
 professor of theology at Munich, where he spent the rest of his life.
 About this time Döllinger brought upon himself the animadversion of
 Heine, who was then editor of a Munich paper. The unsparing satirist
@@ -50,7 +50,7 @@ procession of ecclesiastics which took place on Good Friday.
 
 It has been stated that in his earlier years Döllinger was a pronounced
 Ultramontane. This does not appear to have been altogether the case;
-for, very early in his professorial career at Munich, the Jesuits
+for, very early in his professorial career at Munich, the [[Jesuits]]
 attacked his teaching of ecclesiastical history, and the celebrated J.
 A. Möhler (q.v.) who afterwards became his friend, on being appealed to,
 pronounced on the whole in his favour. He also entered into relations
@@ -62,7 +62,7 @@ Germany, and obtained considerable sympathy in their attempts to bring
 about a modification of the Roman Catholic attitude to modern problems.
 Döllinger seems to have regarded favourably the removal, by the Bavarian
 government, in 1841, of Professor Kaiser from his chair, because he had
-taught the infallibility of the pope. On the other hand, he published a
+taught the [[Infallibility|infallibility]] of the pope. On the other hand, he published a
 treatise in 1838 against mixed marriages, and in 1843 wrote strongly in
 favour of requiring Protestant soldiers to kneel at the consecration of
 the Host when compelled officially to be present at Mass. Moreover, in
@@ -72,7 +72,7 @@ leaders, and he also accepts, in his earlier works, the Ultramontane
 view then current on the practical condition of the Church of England, a
 view which in later days he found reason to change. Meanwhile he had
 visited England, where he was well received; and he afterwards travelled
-in Holland, Belgium and France, acquainting himself with the condition
+in Holland, [[Belgium]] and France, acquainting himself with the condition
 and prospects of the Roman Catholic Church. In 1842 he entered into
 correspondence with the leaders of the Tractarian movement in England,
 and some interesting letters have been preserved which were exchanged
@@ -80,7 +80,7 @@ between him and Pusey, Gladstone and Hope Scott. When the last-named
 joined the Church of Rome he was warmly congratulated by Döllinger on
 the step he had taken. He, however, much regretted the gradual and very
 natural trend of his new English allies towards extreme Ultramontane
-views, of which Archdeacon, afterwards Cardinal, Manning ultimately
+views, of which [[Archdeacon]], afterwards Cardinal, Manning ultimately
 became an enthusiastic advocate. In 1845 Döllinger was made
 representative of his university in the second chamber of the Bavarian
 legislature. In 1847, in consequence of the fall from power of the Abel
@@ -88,7 +88,7 @@ ministry in Bavaria, with which he had been in close relations, he was
 removed from his professorship at Munich, but in 1849 he was invited to
 occupy the chair of ecclesiastical history. In 1848, when nearly every
 throne in Europe was shaken by the spread of revolutionary sentiments,
-he was elected delegate to the national German assembly at Frankfort,--a
+he was elected delegate to the national German assembly at [[Frankfort]],--a
 sufficient proof that at this time he was regarded as no mere narrow and
 technical theologian, but as a man of wide and independent views.
 
@@ -102,15 +102,15 @@ working of the papal system (and especially a visit to Rome in 1857) had
 to a certain extent convinced him how little correspondence there was
 between his ideal and the reality. He may also have been unfavourably
 impressed with the promulgation by Pius IX. in 1854 of the dogma of the
-Immaculate Conception of the Blessed Virgin. But whatever may have been
+[[Immaculate Conception]] of the Blessed Virgin. But whatever may have been
 his reasons, he ultimately became the leader of those who were
-energetically opposed to any addition to, or more stringent definition
+energetically opposed to any addition to, or more stringent [[Definition|definition]]
 of, the powers which the Papacy had possessed for centuries. In some
 speeches delivered at Munich in 1861 he outspokenly declared his view
-that the maintenance of the Roman Catholic Church did not depend on the
+that the [[Maintenance|maintenance]] of the Roman Catholic Church did not depend on the
 temporal sovereignty of the pope. His book on _The Church and the
 Churches_ (Munich, 1861) dealt to a certain extent with the same
-question. In 1863 he invited 100 theologians to meet at Malines and
+question. In 1863 he invited 100 theologians to meet at [[Malines]] and
 discuss the question which Lamennais and Lacordaire had prematurely
 raised in France, namely, the attitude that should be assumed by the
 Roman Catholic Church towards modern ideas. His address to the assembled
@@ -119,8 +119,8 @@ party." He had spoken boldly in favour of freedom for the Church in the
 Frankfort national assembly in 1848, but he had found the authorities of
 his Church claiming a freedom of a very different kind from that for
 which he had contended. The freedom he claimed for the Church was
-freedom to manage her affairs without the interference of the state; the
-champions of the papal monarchy, and notably the Jesuits, desired
+freedom to [[Manage|manage]] her affairs without the interference of the state; the
+[[Champion|champions]] of the papal monarchy, and notably the Jesuits, desired
 freedom in order to put a stop to the dissemination of modern ideas. The
 addresses delivered in the Catholic congress at Malines were a
 declaration in the direction of a Liberal solution of the problem of the
@@ -146,13 +146,13 @@ be inopportune. But the headquarters of the opposition was Germany, and
 its leader was Döllinger, whose high reputation and vast stores of
 learning placed him far above any other member of the band of the
 theological experts who now gathered around him. Among them were his
-intimate friends Johann Friedrich (q.v.) and J. N. Huber, in Bavaria. In
+intimate friends Johann [[Friedrich]] (q.v.) and J. N. Huber, in Bavaria. In
 the rest of Germany he found many supporters, chiefly professors in the
-Catholic faculty of theology at Bonn: among these were the famous
-canonist von Schulte, Franz Heinrich Reusch, the ecclesiastical
+Catholic faculty of theology at [[Bonn]]: among these were the famous
+canonist von Schulte, [[Franz]] Heinrich Reusch, the ecclesiastical
 historian Joseph Langen, as well as J. H. Reinkens, afterwards bishop of
 the Old Catholic Church in Germany, Knoodt, and other distinguished
-scholars. In Switzerland, Professor Edward Herzog, who became Old (or,
+scholars. In Switzerland, Professor Edward [[Herzog]], who became Old (or,
 as it is sometimes called, Christ-) Catholic bishop in Switzerland, and
 other learned men supported the movement. Early in 1869 the famous
 _Letters of Janus_ (which were at once translated into English; 2nd ed.
@@ -162,7 +162,7 @@ these the tendency of the _Syllabus_ towards obscurantism and papal
 despotism, and its incompatibility with modern thought, were clearly
 pointed out; and the evidence against papal infallibility, resting, as
 the _Letters_ asserted, on the False Decretals, and accepted without
-controversy in an age of ignorance, was ably marshalled for the guidance
+controversy in an age of [[Ignorance|ignorance]], was ably marshalled for the guidance
 of the council. When, on the 8th of December 1869, it had actually
 assembled, the world was kept informed of what was going on in the
 _Letters of Quirinus_, written by Döllinger and Huber while the debates
@@ -197,9 +197,9 @@ added, "I cannot accept this doctrine."
 The archbishop replied by excommunicating the disobedient professor.
 This aroused fresh opposition. Döllinger was almost unanimously elected
 rector-magnificus of the university of Munich, and Oxford, Edinburgh and
-Marburg universities conferred upon him the honorary degree of doctor of
+[[Marburg]] universities conferred upon him the honorary degree of doctor of
 laws and Vienna that of philosophy. The Bavarian clergy invited Bishop
-Loos of the Jansenist Church in Holland, which for more than 150 years
+[[Loo|Loos]] of the Jansenist Church in Holland, which for more than 150 years
 had existed independent of the Papacy and had adopted the name of "Old
 Catholic," to hold confirmations in Bavaria. The offer was accepted, and
 the bishop was received with triumphal arches and other demonstrations
@@ -228,7 +228,7 @@ the Old Catholic community." The latter declaration was made some years
 after the former, in a letter to Pastor Widmann. The nearest approach to
 a reconciliation of the two statements would appear to be that while, at
 his advanced age, he did not wish to assume the responsibility of being
-head of a new denomination, formed in circumstances of exceptional
+head of a new [[Denomination|denomination]], formed in circumstances of exceptional
 difficulty, he was unwilling to condemn those who were ready to hazard
 the new departure. "By conviction" he belonged to the Old Catholics, but
 he never formally joined them. Yet at least he was ready to meet their
@@ -239,7 +239,7 @@ formed communion, in whose interests these conferences were held. In
 1874 and again in 1875, he presided over the Reunion Conferences held at
 Bonn and attended by leading ecclesiastics from the British Isles and
 from the Oriental Church, among whom were Bishop Christopher Wordsworth
-of Lincoln; Bishop Harold Browne of Ely; Lord Plunket, archbishop of
+of Lincoln; Bishop Harold Browne of [[Ely]]; Lord Plunket, archbishop of
 Dublin; Lycurgus, archbishop of Syros and Tenos; Canon Liddon; and
 Professor Ossinine of St Petersburg. At the latter of these two
 conferences, when Döllinger was seventy-six years of age, he delivered a
@@ -265,7 +265,7 @@ the sacraments from the parish priest at the cost of submission, but the
 last offices were performed by his friend Professor Friedrich.
 
   In addition to the works referred to in the foregoing sketch, we may
-  mention _The Eucharist in the First Three Centuries_ (Mainz, 1826); a
+  mention _The [[Eucharist]] in the First Three Centuries_ (Mainz, 1826); a
   _Church History_ (1836, Eng. trans. 1840); _Hippolytus and Callistus_
   (1854, Eng. trans., 1876); _First Age of Christianity_ (1860);
   _Lectures on the Reunion of the Churches_; _The Vatican Decrees;

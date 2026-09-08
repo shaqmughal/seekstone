@@ -7,11 +7,11 @@ is a festival of the Christian Church celebrated on the 15th of August,
 in commemoration of the miraculous ascent into heaven of the mother of
 Christ. The belief on which this festival rests has its origin in
 apocryphal sources, such as the [Greek: eis taen koimaesin taes
-uperagias despoinaes] ascribed to the Apostle John, and the _de transitu
+uperagias despoinaes] ascribed to the [[Apostle]] John, and the _de transitu
 Mariae_, assigned to Melito, bishop of Sardis, but actually written
 about A.D. 400. Pope Gelasius I. (492-496) included them in the list of
 apocryphal books condemned by the _Decretum de libris recipiendis et non
-recipiendis_; but they were accepted as authentic by the
+recipiendis_; but they were accepted as [[Authentic|authentic]] by the
 pseudo-Dionysius (_de nominbus divinis c. 3_), whose writings date
 probably from the 5th century, and by Gregory of Tours (d. 593 or 594).
 The latter in his _De gloria martyrum_ (i. 4) gives the following
@@ -20,7 +20,7 @@ dying Mary, Jesus appeared with His angels and committed the soul of His
 Mother to the Archangel Michael. Next day, as they were carrying the
 body to the grave, Christ again appeared and carried it with Him in a
 cloud to heaven, where it was reunited with the soul. This story is much
-amplified in the account given by St John of Damascus in the homilies
+amplified in the account given by St [[John Of Damascus|John of Damascus]] in the homilies
 _In dormitionem Mariae_, which are still read in the Roman Church as the
 lesson during the octave of the feast. According to this the patriarchs
 and Adam and Eve also appear at the death-bed, to praise their daughter,
@@ -31,7 +31,7 @@ before it is taken up into heaven.
 
 The festival is first mentioned by St Andrew of Crete (c. 650), and,
 according to the Byzantine historian Nicephorus Callistus (_Hist.
-Eccles._ xvii. 28), was first instituted by the Emperor Maurice in A.D.
+Eccles._ xvii. 28), was first instituted by the Emperor [[Maurice]] in A.D.
 582. From the East it was borrowed by Rome, where there is evidence of
 its existence so early as the 7th century. In the Gallican Church it was
 only adopted at the same time as the Roman liturgy. But though the

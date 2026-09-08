@@ -8,8 +8,8 @@ tags: [science, music]
 
 # Lance
 
-LANCE, a form of spear used by cavalry (see SPEAR). The use of the
-lance, dying away on the decay of chivalry and the introduction of
+LANCE, a form of spear used by [[Cavalry|cavalry]] (see SPEAR). The use of the
+lance, dying away on the decay of [[Chivalry|chivalry]] and the introduction of
 pistol-armed cavalry, was revived by the Polish and Cossack cavalry who
 fought against Charles XII. and Frederick the Great. It was not until
 Napoleon's time, however, that lancer regiments appeared in any great
@@ -23,7 +23,7 @@ and other countries lances are carried by the front rank of cavalry,
 except light cavalry, regiments, as well as by lancer regiments. In
 Germany, since 1889, the _whole_ of the cavalry has been armed with the
 lance. In Russia, on the other hand, line cavalry being, until recently,
-considered as a sort of mounted infantry or dragoons, the lance was
+considered as a sort of mounted infantry or [[Dragoon|dragoons]], the lance was
 restricted to the Cossacks, and in Austria it enjoys less favour than in
 Germany. Altogether there are few questions of armament or military
 detail more freely disputed, in the present day as in the past, than
@@ -36,7 +36,7 @@ this of sword _versus_ lance.
   passes his right arm when the lance is carried slung, the point of the
   steel shoe fitting into a bucket attached to the right stirrup. A
   small "dee" loop is also provided, by which the lance can be attached
-  to the saddle when the trooper dismounts. The small flag is removed on
+  to the saddle when the trooper dismounts. The small [[Flag|flag]] is removed on
   service. The head is of the best steel. The Germans, doubtless owing
   to difficulty in obtaining bamboos, or ash in large quantity straight
   enough in the grain over a considerable length, for lance staves,
@@ -88,7 +88,7 @@ this of sword _versus_ lance.
   Austrian heavy cavalry--cuirassiers and dragoons; but when they met
   the Polish Lancers, the finest regiments of light horse in the
   Austrian service, distinguished for their discipline, good riding,
-  and, above all, for their _esprit de corps_ and gallantry in action,
+  and, above all, for their _esprit de [[Corps|corps]]_ and gallantry in action,
   against those the Hungarians were not successful, and at once
   attributed this to the lances of their opponents. The Austrians then
   extolled the lance above the sword, and armed all their light cavalry

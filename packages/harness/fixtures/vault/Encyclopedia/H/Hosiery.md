@@ -10,7 +10,7 @@ HOSIERY, a term used to designate all manufactured textile fabrics which
 in their process of manufacture have been built on the principle of
 looping or loop structure. The origin of the term is obvious, being
 derived from "hose" or stocking, this being one of the earliest garments
-made by the process of knitting (q.v.). While it still forms one of the
+made by the process of [[Knitting|knitting]] (q.v.). While it still forms one of the
 staples of the trade, it is only one of a very numerous and diversified
 range of applications of the entire industry. The elastic structure of
 knitting makes it very adaptable for all kinds of body or underwear.
@@ -23,7 +23,7 @@ caps are mentioned. It is supposed that the art was first practised in
 Scotland, and thence carried into England, and that caps were made by
 knitting for some period before the more difficult feat of
 stocking-making was attempted. In an act of Edward VI. (1553) "knitte
-hose, knitte peticotes, knitte gloves and knitte sleeves" are
+hose, knitte peticotes, knitte [[Glove|gloves]] and knitte sleeves" are
 enumerated, and the trade of hosiers, among others, included in an act
 dated 1563. Spanish silk stockings were worn on rare occasions by Henry
 VIII., and the same much-prized articles are also mentioned in connexion
@@ -32,7 +32,7 @@ with the wardrobe of Edward VI.
 Knitting, or loop formation by mechanical means, is divided into two
 distinct principles--frame-work knitting and warp knitting. Both
 principles may be employed in the formation of a large variety of plain
-and fancy stitches or a combination of the two.
+and [[Fancy|fancy]] stitches or a combination of the two.
 
   _Frame-work Knitting_ in its simplest form consists of rows of loops
   supporting each other--built from one continuous thread of yarn and
@@ -43,7 +43,7 @@ and fancy stitches or a combination of the two.
   [Illustration: FIG. 1.--The Stitch or Loop Structure of Plain Knitting
   (back of fabric).]
 
-  [Illustration: FIG. 2.--A Single Thread formed into a Chain of Crocket
+  [Illustration: FIG. 2.--A Single Thread formed into a Chain of [[Crocket]]
   Work, showing the Loop Structure of the plain Warp-knitted Fabric. It
   is built up as shown in the diagram by a number of threads running up
   the fabric.]
@@ -56,16 +56,16 @@ and fancy stitches or a combination of the two.
   frame-work knitting. For this reason it is largely used in the shawl,
   glove and fancy hosiery industries.
 
-  [Illustration: FIG. 3.--Hand Stocking Frame.]
+  [Illustration: FIG. 3.--Hand Stocking [[Frame]].]
 
-  _Machinery._--In hand knitting the implements employed (a few needles
+  _Machinery._--In hand knitting the [[Implement|implements]] employed (a few needles
   or wires) are very simple and inexpensive. In the manufacturing
   industry the most complex and ingenious machinery is used. In 1589 the
-  Rev. William Lee, a graduate of St John's College, Cambridge, while
-  acting as curate (or vicar) of Calverton, Nottinghamshire, introduced
-  his stocking-frame. This machine was the first mechanical means
+  Rev. William [[Lee]], a graduate of St John's College, Cambridge, while
+  acting as [[Curate|curate]] (or vicar) of Calverton, Nottinghamshire, introduced
+  his stocking-frame. This [[Machine|machine]] was the first mechanical means
   employed to produce a looped or knitted fabric. This frame or machine
-  of Lee's was the origin of all the hosiery and lace machines at
+  of Lee's was the origin of all the hosiery and [[Lace|lace]] machines at
   present in use. One of the most remarkable points about his invention
   was its completeness and adaptability for the work for which its
   inventor intended it. The main principles of Lee's frame are embodied
@@ -85,7 +85,7 @@ and fancy stitches or a combination of the two.
   spring-pointed hook (or beard), the point of which can be pressed at
   will into a groove or eye in the shank. For method by which the loops
   are formed on the needles of the frame see fig. 4. This shows a few of
-  Lee's hooked or bearded needles having the old loops or work hanging
+  Lee's hooked or bearded needles having the old loops or work [[Hanging|hanging]]
   round the needle shanks. The thread of yarn which is to form the new
   row of loops is laid over the needle shanks and waved or looped
   between each pair of needles. This waving or looping ensures
@@ -139,13 +139,13 @@ and fancy stitches or a combination of the two.
 
   [Illustration: FIG. 6.--A 1/1 Rib Stitch.]
 
-  [Illustration: FIG. 7.--Eight at once, 130 gauge, full-fashioned,
+  [Illustration: FIG. 7.--Eight at once, 130 [[Gauge|gauge]], full-fashioned,
   seamless bosom, sloped shoulder underwear frame, Cotton's patents.
   (William Cotton, Ltd., Loughborough.)]
 
   A number of improvements had been made on Lee's frame during the 18th
   century. The one of greatest importance was the rib machine invented
-  by Jedediah Strutt of Belper in 1758. It was not what could be
+  by Jedediah Strutt of [[Belper]] in 1758. It was not what could be
   actually termed an improvement on Lee's frame, but an addition to it.
   Lee's frame was not altered in any way, Strutt's machine being added
   to it, and the two being worked in conjunction produced a fabric of a
@@ -154,18 +154,18 @@ and fancy stitches or a combination of the two.
   Lee's plain needles, with the result that, when knitting, the frame
   needles drew their loops to one side and the machine needles their
   loops to the opposite side of the fabric. The first offshoot from
-  frame-work knitting was the invention of the hand warp loom in 1775.
-  It was improved by the addition of the Dawson wheel by William Dawson
+  frame-work knitting was the invention of the hand warp [[Loom|loom]] in 1775.
+  It was improved by the addition of the [[Dawson]] wheel by William Dawson
   in 1791. This machine is the origin of the various complex machines
-  now working on this principle. Some of these have Jacquard mechanism
+  now working on this principle. Some of these have [[Jacquard]] mechanism
   attached, and nearly all of them are driven by motive power. About the
   middle of the 19th century close on 50,000 of Lee's hand frames were
   in use, finding employment for nearly 100,000 persons. Many attempts
   had been made previously to transform Lee's frame into a power or
   rotary frame. One of the first and most successful was that invented
-  by Luke Barton in 1857. This frame was fitted with self-acting
+  by [[Luke]] [[Barton]] in 1857. This frame was fitted with self-acting
   mechanism for fashioning, and was practically Lee's frame having
-  rotary shafts with cams added to give the various movements, this type
+  rotary shafts with [[Cam|cams]] added to give the various movements, this type
   of frame being known as straight bar rotary frames. In 1864 William
   Cotton of Loughborough altered this frame by reversing the positions
   of the needles and sinkers. Although made by various builders it is
@@ -174,10 +174,10 @@ and fancy stitches or a combination of the two.
   this frame. Single frames are built which will turn off one dozen
   pairs of hose at once, with the attention of one person. One of the
   most important inventions in connexion with the hosiery trade was the
-  latch, tumbler, or self-acting needle invented by Matthew Townsend and
+  latch, tumbler, or self-acting needle invented by [[Matthew]] Townsend and
   David Moulding of Leicester in 1858. Previous to this Lee's type of
   needle was the only one in use. This latch-needle (fig. 8) consists of
-  a stem having a butt at lower end by which it receives its knitting
+  a stem having a [[Butt|butt]] at lower end by which it receives its knitting
   action from cams, the upper end being turned into a hook. Near the
   hook end and attached to the stem by a pin is the spoon-shaped latch,
   which closes over the hook as required. Machines fitted with
@@ -222,7 +222,7 @@ and fancy stitches or a combination of the two.
   machine it is largely used in the home as well as in the factory. From
   this machine all the circular automatic power machines for making
   plain and rib seamless hose and half hose have been developed. The
-  "flat" or "lamb" type of machine, an American invention, was
+  "flat" or "[[Lamb|lamb]]" type of machine, an American invention, was
   introduced by J. W. Lamb in 1863. This machine has two needle beds or
   rows of needles sloping at an angle of nearly 90 deg.
 

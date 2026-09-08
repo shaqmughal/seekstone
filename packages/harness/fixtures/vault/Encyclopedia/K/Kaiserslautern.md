@@ -8,14 +8,14 @@ type: note
 # Kaiserslautern
 
 KAISERSLAUTERN, a town in the Bavarian palatinate, on the Waldlauter, in
-the hilly district of Westrich, 41 m. by rail W. of Mannheim. Pop.
+the hilly district of Westrich, 41 m. by rail W. of [[Mannheim]]. Pop.
 (1905), 52,306. Among its educational institutions are a gymnasium, a
 Protestant normal school, a commercial school and an industrial museum.
 The house of correction occupies the site of Frederick Barbarossa's
 castle, which was demolished by the French in 1713. Kaiserslautern is
 one of the most important industrial towns in the palatinate. Its
 industries include cotton and wool spinning and weaving, iron-founding,
-and the manufacture of beer, tobacco, gloves, boots, furniture, &c.
+and the manufacture of [[Beer|beer]], tobacco, [[Glove|gloves]], boots, furniture, &c.
 There is some trade in fruit and in timber.
 
 Kaiserslautern takes its name from the emperor (Kaiser) Frederick I.,
@@ -30,7 +30,7 @@ Charles. It was one of the early stations of the Reformation, and in
 1849 was the centre of the revolutionary spirit in the palatinate.
 
   See Lehmann, _Urkundliche Geschichte von Kaiserslautern_
-  (Kaiserslautern, 1853), and E. Jost, _Geschichte der Stadt
+  (Kaiserslautern, 1853), and E. [[Jost]], _Geschichte der Stadt
   Kaiserslautern_ (Kaiserslautern, 1886).
 
 ## See also

@@ -1,19 +1,19 @@
 # Maurists
 
 MAURISTS, a congregation of French Benedictines called after St Maurus
-(d. 565), a disciple of St Benedict and the legendary introducer of the
-Benedictine rule and life into Gaul.[1] At the end of the 16th century
+(d. 565), a [[Disciple|disciple]] of St Benedict and the legendary introducer of the
+Benedictine rule and life into [[Gaul]].[1] At the end of the 16th century
 the Benedictine monasteries of France had fallen into a state of
 disorganization and relaxation. In the abbey of St Vaune near Verdun a
 reform was initiated by Dom Didier de la Cour, which spread to other
-houses in Lorraine, and in 1604 the reformed congregation of St Vaune
+houses in [[Lorraine]], and in 1604 the reformed congregation of St Vaune
 was established, the most distinguished members of which were Ceillier
 and Calmet. A number of French houses joined the new congregation; but
 as Lorraine was still independent of the French crown, it was considered
 desirable to form on the same lines a separate congregation for France.
 Thus in 1621 was established the famous French congregation of St Maur.
 Most of the Benedictine monasteries of France, except those belonging to
-Cluny, gradually joined the new congregation, which eventually embraced
+[[Cluny]], gradually joined the new congregation, which eventually embraced
 nearly two hundred houses. The chief house was Saint-Germain-des-Prés,
 Paris, the residence of the superior-general and centre of the literary
 activity of the congregation. The primary idea of the movement was not
@@ -30,8 +30,8 @@ ecclesiastical controversies that distracted the French Church during
 the 17th and 18th centuries. Some of the members identified themselves
 with the Jansenist cause; but the bulk, including nearly all the
 greatest names, pursued a middle path, opposing the lax moral theology
-condemned in 1679 by Pope Innocent XI., and adhering to those strong
-views on grace and predestination associated with the Augustinian and
+condemned in 1679 by Pope [[Innocent]] XI., and adhering to those strong
+views on [[Grace|grace]] and predestination associated with the Augustinian and
 Thomist schools of Catholic theology; and like all the theological
 faculties and schools on French soil, they were bound to teach the four
 Gallican articles. It seems that towards the end of the 18th century a
@@ -53,18 +53,18 @@ pioneers in production were Ménard and d'Achery.
 
   The following tables give, divided into groups, the most important
   Maurist works, along with such information as may be useful to
-  students. All works are folio when not otherwise noted:--
+  students. All works are [[Folio|folio]] when not otherwise noted:--
 
       I.--THE EDITIONS OF THE FATHERS
 
-    Epistle of Barnabas          Ménard               1645        1 in 4^to
+    [[Epistle]] of Barnabas          Ménard               1645        1 in 4^to
       (editio princeps)
-    Lanfranc                     d'Achery             1648        1
+    [[Lanfranc]]                     d'Achery             1648        1
     Guibert of Nogent            d'Achery             1651        1
     Robert Pulleyn and Peter
       of Poitiers                Mathou               1655        1
-    Bernard                      Mabillon             1667        2
-    Anselm                       Gerberon             1675        1
+    [[Bernard]]                      Mabillon             1667        2
+    Anselm                       [[Gerberon]]             1675        1
     Cassiodorus                  Garet                1679        1
     Augustine (see Kukula,       Delfau, Blampin,
       _Die Mauriner-Ausgabe        Coustant, Guesnie  1681-1700  11
@@ -73,21 +73,21 @@ pioneers in production were Ménard and d'Achery.
     Acta martyrum sincera        Ruinart              1689        1
     Hilary                       Coustant             1693        1
     Jerome                       Martianay            1693-1706   5
-    Athanasius                   Loppin and Mont-
+    [[Athanasius]]                   Loppin and Mont-
                                    faucon             1698        3
     Gregory of Tours             Ruinart              1699        1
     Gregory the Great            Sainte-Marthe        1705        4
-    Hildebert of Tours           Beaugendre           1708        1
-    Irenaeus                     Massuet              1710        1
+    [[Hildebert]] of Tours           Beaugendre           1708        1
+    [[Irenaeus]]                     Massuet              1710        1
     Chrysostom                   Montfaucon           1718-1738  13
-    Cyril of Jerusalem           Touttée and Maran    1720        1
+    [[Cyril]] of Jerusalem           Touttée and Maran    1720        1
     Epistolae romanorum          Coustant             1721        1
       pontificum[2]
-    Basil                        Garnier and Maran    1721-1730   3
-    Cyprian                        (Baluze, not a
+    [[Basil]]                        [[Garnier]] and Maran    1721-1730   3
+    Cyprian                        ([[Baluze]], not a
                                    Maurist) finished
                                    by Maran           1726        1
-    Origen                       Ch. de la Rue (1, 2,
+    Origen                       Ch. [[De La Rue|de la Rue]] (1, 2,
                                   3) V. de la Rue (4) 1733-1759   4
     Justin and the Apologists    Maran                1742        1
     Gregory Nazianzen[3]         Maran and Clémencet  1778        1
@@ -95,7 +95,7 @@ pioneers in production were Ménard and d'Achery.
       II.--BIBLICAL WORKS
 
     St Jerome's Latin Bible      Martianay            1693        1
-    Origen's Hexapla             Montfaucon           1713        2
+    Origen's [[Hexapla]]             Montfaucon           1713        2
     Old Latin versions           Sabbathier           1743-1749   3
 
       III.--GREAT COLLECTIONS OF DOCUMENTS
@@ -105,7 +105,7 @@ pioneers in production were Ménard and d'Achery.
     Musaeum italicum             Mabillon             1687-1689   2 in 4^to
     Collectio nova patrum        Montfaucon           1706        2
       graecorum
-    Thesaurus novus              Martène and Durand   1717        5
+    Thesaurus novus              Martène and [[Durand]]   1717        5
       anecdotorum
     Veterum scriptorum           Martène and Durand   1724-1733   9
       collectio
@@ -116,7 +116,7 @@ pioneers in production were Ménard and d'Achery.
 
     Acta of the Benedictine      d'Achery, Mabillon
       Saints                       and Ruinart        1668-1701   9
-    Benedictine Annals (to       Mabillon (1-4),
+    Benedictine [[Annals]] (to       Mabillon (1-4),
       1157)                        Massuet (5),
                                    Martène (6)        1703-1739   6
 
@@ -146,7 +146,7 @@ pioneers in production were Ménard and d'Achery.
     Bretagne                     Lobineau             1707        2
     Paris                        Félibien and
                                    Lobineau           1725        5
-    Languedoc                    Vaissette and de Vic 1730-1745   5
+    [[Languedoc]]                    Vaissette and de Vic 1730-1745   5
     Bourgogne                    Plancher (1-3),      1739-1748   4
                                    Merle (4)          1781
     Bretagne                     Morice               1742-1756   5
@@ -154,7 +154,7 @@ pioneers in production were Ménard and d'Achery.
       VI.--MISCELLANEOUS WORKS OF TECHNICAL ERUDITION
 
     De re diplomatica            Mabillon             1681        1
-      Ditto Supplement           Mabillon             1704        1
+      [[Ditto]] Supplement           Mabillon             1704        1
     Nouveau traité de            Toustain and Tassin  1750-1765   6 in 4^to
       diplomatique
     Paleographia graeca          Montfaucon           1708        1
@@ -175,27 +175,27 @@ pioneers in production were Ménard and d'Achery.
   The 58 works in the above list comprise 199 great folio volumes and 39
   in 4^to or 8^vo. The full Maurist bibliography contains the names of
   some 220 writers and more than 700 works. The lesser works in large
-  measure cover the same fields as those in the list, but the number of
+  measure cover the same [[Fields|fields]] as those in the list, but the number of
   works of purely religious character, of piety, devotion and
   edification, is very striking. Perhaps the most wonderful phenomenon
   of Maurist work is that what was produced was only a portion of what
-  was contemplated and prepared for. The French Revolution cut short
+  was contemplated and prepared for. The [[French Revolution]] cut short
   many gigantic undertakings, the collected materials for which fill
-  hundreds of manuscript volumes in the Bibliothèque nationale of Paris
+  hundreds of [[Manuscript|manuscript]] volumes in the Bibliothèque nationale of Paris
   and other libraries of France. There are at Paris 31 volumes of
-  Berthereau's materials for the Historians of the Crusades, not only in
+  Berthereau's materials for the Historians of the [[Crusades]], not only in
   Latin and Greek, but in the oriental tongues; from them have been
   taken in great measure the _Recueil des historiens des croisades_,
   whereof 15 folio volumes have been published by the Académie des
   Inscriptions. There exist also the preparations for an edition of
-  Rufinus and one of Eusebius, and for the continuation of the Papal
+  Rufinus and one of [[Eusebius]], and for the continuation of the Papal
   Letters and of the Concilia Galliae. Dom Caffiaux and Dom Villevielle
   left 236 volumes of materials for a _Trésor généalogique_. There are
   Benedictine Antiquities (37 vols.), a Monasticon Gallicanum and a
   Monasticon Benedictinum (54 vols.). Of the Histories of the Provinces
   of France barely half a dozen were printed, but all were in hand, and
   the collections for the others fill 800 volumes of MSS. The materials
-  for a geography of Gaul and France in 50 volumes perished in a fire
+  for a [[Geography|geography]] of Gaul and France in 50 volumes perished in a fire
   during the Revolution.
 
   When these figures were considered, and when one contemplates the
@@ -217,7 +217,7 @@ pioneers in production were Ménard and d'Achery.
   and their friends. Sketches of the lives of a few of the chief
   Maurists will be found in McCarthy's _Principal Writers of the Congr.
   of S. M._ (1868). Useful information about their literary undertakings
-  will be found in De Lisle's _Cabinet des MSS. de la Bibl. Nat. Fonds
+  will be found in De Lisle's _[[Cabinet]] des MSS. de la Bibl. Nat. Fonds
   St Germain-des-Prés_. General information will be found in the
   standard authorities: Helyot, _Hist. des ordres religieux_ (1718), vi.
   c. 37; Heimbucher, _Orden und Kongregationen_ (1907) i. § 36; Wetzer

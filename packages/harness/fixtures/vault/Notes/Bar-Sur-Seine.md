@@ -1,7 +1,7 @@
 # Bar-Sur-Seine
 
-BAR-SUR-SEINE, a town of eastern France, capital of an arrondissement in
-the department of Aube, on the left bank of the Seine, 20 m. S.E. of Troyes
+BAR-SUR-SEINE, a town of eastern France, capital of an [[Arrondissement|arrondissement]] in
+the department of [[Aube]], on the left bank of the Seine, 20 m. S.E. of Troyes
 by the Eastern railway. Pop. (1906) 2812. The town lies at the foot of a
 wooded hill on which stand the ruins of the castle of the counts of Bar,
 and is composed chiefly of one long street, bordered in places by houses of

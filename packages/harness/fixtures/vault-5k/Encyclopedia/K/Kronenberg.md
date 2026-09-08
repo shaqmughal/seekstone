@@ -3,7 +3,7 @@
 KRONENBERG, a town of Germany in the Prussian Rhine Province, 6 m. S.W.
 from Elberfeld, with which it is connected by railway and by an electric
 tramway line. Pop. (1905), 11,340. It is a scattered community,
-consisting of an agglomeration of seventy-three different hamlets. It
+consisting of an agglomeration of seventy-three different [[Hamlet|hamlets]]. It
 has a Roman Catholic and two Protestant churches, a handsome modern
 town-hall and considerable industries, consisting mainly of steel and
 iron manufactures.
@@ -26,7 +26,7 @@ the principal approach, and seven batteries to cover the shallower
 northern channel. All these modern fortifications are low and thickly
 armoured earthworks, powerfully armed with heavy Krupp guns in turrets.
 The town itself is surrounded with an _enceinte_. The island of Kotlin,
-or Kettle (Finn., _Retusari_, or Rat Island) in general outline forms an
+or [[Kettle]] (Finn., _Retusari_, or Rat Island) in general outline forms an
 elongated triangle, 7½ m. in length by about 1 in breadth, with its base
 towards St Petersburg. The eastern or broad end is occupied by the town
 of Kronstadt, and shoals extend for a mile and a half from the western
@@ -53,7 +53,7 @@ of Prince Menshikov, the site of which is now occupied by the pilot
 school. Among other public buildings are the naval hospital, the British
 seaman's hospital (established in 1867), the civic hospital, admiralty
 (founded 1785), arsenal, dockyards and foundries, school of marine
-engineering, the cathedral of St Andrew, and the English church. The
+[[Engineering|engineering]], the cathedral of St Andrew, and the English church. The
 port is ice-bound for 140 to 160 days in the year, from the beginning of
 December till April. A very large proportion of the inhabitants are
 sailors, and large numbers of artisans are employed in the dockyards.

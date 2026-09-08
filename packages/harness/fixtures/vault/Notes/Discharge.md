@@ -11,7 +11,7 @@ id: 42-8308
 
 DISCHARGE (adapted from the O. Fr. _descharge_, modern _décharge_, from
 a med. Lat. _discargare_, to unload, _dis-_ and _carricare_, to load,
-cf. "charge"), a word meaning relief from a load or burden, hence
+cf. "charge"), a word meaning relief from a load or [[Burden|burden]], hence
 applied to the unloading of a ship, the firing of a weapon, the passage
 of electricity from an electrified body, the issue from a wound, &c.
 From the sense of relief from an obligation, "discharge" is also applied
@@ -21,8 +21,8 @@ situation. In law, it is used of a document or other evidence that can
 be accepted as proof of the release from an obligation, as of a receipt,
 on payment of money due. Similarly it is applied to the release in
 accordance with law of a person in custody on a criminal charge, and to
-the legal release of a bankrupt from further liability for debts
-provable in the bankruptcy except those incurred by fraud or debts to
+the legal release of a bankrupt from further liability for [[Debt|debts]]
+provable in the [[Bankruptcy|bankruptcy]] except those incurred by [[Fraud|fraud]] or debts to
 the crown. It is also applied to the reversal of an order of a court. In
 the case of divorce, where the rule _nisi_ is not made absolute, the
 rule is said to be discharged.

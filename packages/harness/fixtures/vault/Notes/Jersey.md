@@ -25,7 +25,7 @@ north coast; St Catherine's and Grouville Bays on the east; St
 Clement's, St Aubin's and St Brelade's Bays on the south; and St Ouen's
 Bay, the wide sweep of which occupies nearly the whole of the west
 coast. The sea in many places has encroached greatly on the land, and
-sand drifts have been found troublesome, especially on the west coast.
+sand [[Drift|drifts]] have been found troublesome, especially on the west coast.
 The surface of the country is broken by winding valleys having a general
 direction from north to south, and as they approach the south uniting so
 as to form small plains. The lofty hedges which bound the small
@@ -36,36 +36,36 @@ luxuriant appearance, neutralizing the bare effect of the few sandy
 plains and sand-covered hills. Fruits and flowers indigenous to warm
 climates grow freely in the open air. The land, under careful
 cultivation, is rich and productive, the soil being generally a deep
-loam, especially in the valleys, but in the west shallow, light and
+[[Loam|loam]], especially in the valleys, but in the west shallow, light and
 sandy. The subsoil is usually gravel, but in some parts an unfertile
 clay. Some two-thirds of the total area is under cultivation, great
 numbers of cattle being pastured, and much market gardening practised.
-The potato crop is very large. The peasants take advantage of every bit
+The potato crop is very large. The peasants take advantage of every [[Bit|bit]]
 of wall and every isolated nook of ground for growing fruit trees.
 Grapes are ripened under glass; oranges can be grown in sheltered
-situations, but the most common fruits are apples, which are used for
-cider, and pears. A manure of burnt sea-weed (vraic) is generally used.
+situations, but the most common fruits are [[Apple|apples]], which are used for
+[[Cider|cider]], and pears. A manure of burnt sea-weed (vraic) is generally used.
 The pasturage is very rich, and is much improved by the application of
 this manure to the surface. The breed of cattle is kept pure by
 stringent laws against the importation of foreign animals. The milk is
-used almost exclusively to manufacture butter. The cattle are always
+used almost exclusively to manufacture [[Butter|butter]]. The cattle are always
 housed in winter, but remain out at night from May till October. There
 was formerly a small black breed of horses peculiar to the island, but
 horses are now chiefly imported from France or England. Pigs are kept
 principally for local consumption, and only a few sheep are reared. Fish
-are not so plentiful as round the shores of Guernsey, but mackerel,
-turbot, cod, mullet and especially the conger eel are abundant at the
+are not so plentiful as round the shores of [[Guernsey]], but [[Mackerel|mackerel]],
+turbot, [[Cod|cod]], mullet and especially the conger eel are abundant at the
 Minquiers. There is a large oyster bed between Jersey and France, but
 partly on account of over-dredging the supply is not so abundant as
-formerly. There is a great variety of other shell fish. The fisheries,
+formerly. There is a great variety of other shell fish. The [[Fisheries|fisheries]],
 ship-building and boat-building employ many of the inhabitants. Kelp and
 iodine are manufactured from sea-weed. The principal exports are
 granite, fruit and vegetables (especially potatoes), butter and cattle;
 and the chief imports coal and articles of human consumption.
 Communications with England are maintained principally from Southampton
-and Weymouth, and there are regular steamship services from Granville
+and Weymouth, and there are regular steamship services from [[Granville]]
 and St Malo on the French coast. The Jersey railway runs west from St
-Helier round St Aubin's Bay to St Aubin, and continues to Corbière at
+Helier round St Aubin's Bay to St [[Aubin]], and continues to Corbière at
 the south-western extremity of the island; and the Jersey eastern
 railway follows the southern and eastern coasts to Gorey. The island is
 intersected with a network of good roads.
@@ -75,7 +75,7 @@ administrative government from Guernsey and the smaller islands included
 in the bailiwick of Guernsey. For its peculiar constitution, system of
 justice, ecclesiastical arrangements and finance, see CHANNEL ISLANDS.
 There are twelve parishes, namely St Helier, Grouville, St Brelade, St
-Clement, St John, St Laurence, St Martin, St Mary, St Ouen, St Peter, St
+[[Clement]], St John, St Laurence, St [[Martin]], St Mary, St Ouen, St Peter, St
 Saviour and Trinity. The population of the island nearly doubled between
 1821 and 1901, but decreased from 54,518 to 52,576 between 1891 and
 1901.

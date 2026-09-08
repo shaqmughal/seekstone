@@ -15,7 +15,7 @@ and he was at the Blackfriars in 1603, playing with Shakespeare, Burbage
 and the others, and owning--by 1608--a share and a half of the twenty
 shares in that theatre. About 1623 he was one of the managers. He lived
 in Southwark, and Edward Alleyn speaks of his dining with him in 1620.
-"Lowin in his latter days kept an inn (the Three Pigeons) at Brentford,
+"Lowin in his latter days kept an inn (the Three Pigeons) at [[Brentford]],
 where he deyed very old." Two of his favourite parts were Falstaff, and
 Melanteus in _The Maid's Tragedy_.
 

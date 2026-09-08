@@ -1,12 +1,12 @@
 # Camborne
 
 CAMBORNE, a market town in the Camborne parliamentary division of
-Cornwall, England, on the Great Western railway, 13 m. E.N.E. of
+[[Cornwall]], England, on the Great Western railway, 13 m. E.N.E. of
 Penzance. Pop. of urban district (1901), 14,726. It lies on the
 northward slope of the central elevation of the county, and is in the
 neighbourhood of some of the most productive tin and copper mines. These
 and the manufacture of mining machinery employ most of the inhabitants.
-The parish church of St Martin contains several monuments and an ancient
+The parish church of St [[Martin]] contains several monuments and an ancient
 stone altar bearing a Latin inscription. There are science and art and
 mining schools, and practical mining is taught in South Condurrow mine,
 the school attracting a large number of students. It was developed from

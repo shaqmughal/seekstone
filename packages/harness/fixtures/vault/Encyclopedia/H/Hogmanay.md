@@ -11,10 +11,10 @@ door to door singing:
 
 
 and begging for small gifts or alms. These usually take the form of an
-oaten cake. The derivation of the term has been much disputed. Cotgrave
+oaten cake. The derivation of the term has been much disputed. [[Cotgrave]]
 (1611) says: "It is the voice of the country folks begging small
 presents or New Year's gifts ... an ancient term of rejoicing derived
-from the Druids, who were wont the first of each January to go into the
+from the [[Druids]], who were wont the first of each January to go into the
 woods, where, having sacrificed and banquetted together, they gathered
 mistletoe, esteeming it excellent to make beasts fruitful and most
 soverayne against all poyson." And he connects the word, through such
@@ -24,7 +24,7 @@ Year!"--this being (on his interpretation) the Druidical salutation to
 the coming year as the revellers issued from the woods armed with boughs
 of mistletoe. But though this explanation may be accepted as containing
 the truth in referring the word to a French original, Cotgrave's
-detailed etymology is now repudiated by scientific philologists, and the
+detailed [[Etymology|etymology]] is now repudiated by scientific philologists, and the
 identical French _aguilanneuf_ remains, like it, in obscurity.
 
 ## See also

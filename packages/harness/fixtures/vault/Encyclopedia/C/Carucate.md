@@ -15,7 +15,7 @@ tax levied on each "carucate" of land (see HIDE).
 
 
 
-CARÚPANO, a town and port of the state of Bermúdez, Venezuela, 65 m.
+[[Car|CAR]]ÚPANO, a town and port of the state of [[Berm]]údez, Venezuela, 65 m.
 N.E. of the city of Cumaná. Pop. (1908, estimate) 8600. Carúpano is
 situated on the Caribbean coast at the opening of two valleys, and is a
 port of call for several regular steamship lines. Its mean annual

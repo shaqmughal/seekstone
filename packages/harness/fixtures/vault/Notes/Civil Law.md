@@ -19,7 +19,7 @@ utuntur." The _jus gentium_ of this passage is elsewhere identified with
 _jus naturale_, so that the distinction comes to be one between civil
 law and natural or divine law. The municipal or private law of a state
 is sometimes described as civil law in distinction to public or
-international law. Again, the municipal law of a state may be divided
+[[International|international]] law. Again, the municipal law of a state may be divided
 into civil law and criminal law. The phrase, however, is applied _par
 excellence_ to the system of law created by the genius of the Roman
 people, and handed down by them to the nations of the modern world (see

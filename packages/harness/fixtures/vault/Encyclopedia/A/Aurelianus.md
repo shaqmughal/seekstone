@@ -4,7 +4,7 @@ AURELIANUS, CAELIUS, a physician of Sicca in Numidia, who probably
 flourished in the 5th century A.D., although some place him two or even
 three centuries earlier. In favour of the later date is the nature of
 his Latin, which shows a strong tendency to the Romance, and the
-similarity of his language to that of Cassius Felix, also an African
+similarity of his language to that of [[Cassius]] [[Felix]], also an African
 medical writer, who about 450 wrote a short treatise, chiefly based on
 Galen. We possess a translation by Aurelianus of two works of Soranus of
 Ephesus (2nd century), the chief of the "methodist" school of medicine,
@@ -23,7 +23,7 @@ possible to compare Aurelianus's translation with the original--as in a
 fragment of his Gynaecia with Soranus's [Greek: Peri gynaikeion
 Pathon]--it is found that it is literal, but abridged. There is
 apparently no MS. of the treatises in existence. (Editions: Amman, 1709;
-Haller, 1774.)
+[[Haller]], 1774.)
 
 ## See also
 

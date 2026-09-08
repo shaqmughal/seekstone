@@ -9,18 +9,18 @@ been practised by many races with various ethnical and religious
 significances, and was a customary form of punishment on the principle
 of an "eye for an eye" (see MUTILATION). In law "maiming" is a criminal
 offence; the old law term for a special case of maiming of persons was
-"mayhem" (q.v.), an Anglo-French variant form of the word. Maiming of
+"[[Mayhem|mayhem]]" (q.v.), an Anglo-French variant form of the word. Maiming of
 animals by others than their owners is a particular form of the offences
 generally grouped as "malicious damage." For the purpose of the law as
 to this offence animals are divided into cattle, which includes horses,
-pigs and asses, and other animals which are either subjects of larceny
+pigs and asses, and other animals which are either subjects of [[Larceny|larceny]]
 at common law or are usually kept in confinement or for domestic
 purposes. The punishment for maiming of cattle is three to fourteen
 years' penal servitude. Malicious injury to other animals is a
 misdemeanour punishable on summary conviction. For a second offence the
 penalty is imprisonment with hard labour for over twelve months.
 (Malicious Damage Act 1861.) Maiming of animals by their owner falls
-under the Cruelty to Animals Acts.
+under the [[Cruelty]] to Animals Acts.
 
 ## See also
 

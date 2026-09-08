@@ -4,7 +4,7 @@ CRAFT (a word common to Teutonic languages for strength, or power; cf.
 Ger. _Kraft_), a word confined in English only, of the Teutonic
 languages in which it occurs, to intellectual power, and used as a
 synonym of "art." It then means skill or ingenuity, especially in the
-manual arts, hence its use in the expression "Arts and Crafts" (q.v.),
+[[Manual|manual]] arts, hence its use in the expression "[[Arts And Crafts|Arts and Crafts]]" (q.v.),
 and it is thus applied to the trade or profession in which such skill is
 displayed, to an association of workmen of a particular trade, a trade
 gild, and in particular to Freemasons, "the craft"; the word appears
@@ -15,7 +15,7 @@ is this meaning which is implied in such combined words as
 word is in the nautical sense of vessels of transport by water; this is
 probably a colloquially shortened form either of "vessels of a
 fisherman's, lighterman's &c., craft," i.e. "art," or of "vessels of a
-heavier or lighter craft," i.e. burden or capacity; in both cases the
+heavier or lighter craft," i.e. [[Burden|burden]] or capacity; in both cases the
 qualifying words are dropped and the word comes to be used of vessels in
 general.
 

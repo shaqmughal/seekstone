@@ -12,7 +12,7 @@ HEBERDEN, WILLIAM (1710-1801), English physician, was born in London in
 where he obtained a fellowship about 1730, became master of arts in
 1732, and took the degree of M.D. in 1739. He remained at Cambridge
 nearly ten years longer practising medicine, and gave an annual course
-of lectures on materia medica. In 1746 he became a fellow of the Royal
+of lectures on materia medica. In 1746 he became a [[Fellow|fellow]] of the Royal
 College of Physicians in London; and two years later he settled in
 London, where he was elected a fellow of the Royal Society in 1749, and
 enjoyed an extensive medical practice for more than thirty years. At the
@@ -24,7 +24,7 @@ member of the Paris Royal Society of Medicine. He died in London on the
 several papers in the Phil. Trans. of the Royal Society, and among his
 noteworthy contributions to the _Medical Transactions_ (issued, largely
 at his suggestion, by the College of Physicians) were papers on
-chicken-pox (1767) and angina pectoris (1768). His _Commentarii de
+chicken-pox (1767) and angina pectoris (1768). His _[[Commentarii]] de
 morborum historia et curatione_, the result of careful notes made in his
 pocket-book at the bedside of his patients, were published in 1802; in
 the following year an English translation appeared, believed to be from

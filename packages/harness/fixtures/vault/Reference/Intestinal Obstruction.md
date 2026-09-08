@@ -8,14 +8,14 @@ topic: renaissance
 
 INTESTINAL OBSTRUCTION (_Ilius_), in surgery, a condition in which the
 onward passage of the faeces is prevented. It is often associated with
-phenomena due to strangulation of the gut, leading to gangrene, and with
+phenomena due to strangulation of the gut, leading to [[Gangrene|gangrene]], and with
 systemic poisoning due to the absorption of toxins, resulting from the
 decomposition of the retained faeces. Intestinal obstruction may be
 conveniently divided into acute and chronic.
 
 _Acute Intestinal Obstruction_ forms one of the most urgent of surgical
 emergencies. The following are its chief causes: (1) strangulation by
-bands or adhesions or through apertures; (2) volvulus; (3) the impaction
+bands or adhesions or through [[Aperture|apertures]]; (2) volvulus; (3) the impaction
 of foreign bodies; (4) acute intussusception; (5) strangulation over a
 band or acute kinking of the gut; (6) the termination supervening on
 chronic obstruction; (7) congenital malformations of the intestines.
@@ -30,7 +30,7 @@ take place.]
   situated between different parts of the mesentery or between the
   mesentery and another organ such as the appendix. Two methods of
   producing strangulation exist; in the first the bowel passes under an
-  arch or loop formed by some short constricting band and cannot return,
+  [[Arch|arch]] or loop formed by some short constricting band and cannot return,
   or if the band is long it may form a noose in which the bowel is
   strangled (fig. 1); in the second the remains of a foetal structure
   (Meckel's diverticulum) becoming adherent to some other organ may
@@ -40,7 +40,7 @@ take place.]
   of symptoms is sudden and abrupt. The patient is seized with acute
   abdominal pain associated with collapse. The pain is usually referred
   to the region of the umbilicus; this localization, however, is no
-  guide to the situation of the lesion. Vomiting is early and
+  guide to the situation of the [[Lesion|lesion]]. Vomiting is early and
   persistent, generally assuming a faecal character between the second
   and the ninth day. There is no obvious tumour; constipation is
   present, the abdominal walls are flaccid at first, but if no relief is
@@ -81,9 +81,9 @@ take place.]
   with the situation of the obstruction and are generally more urgent
   the nearer to the duodenum. Foreign bodies that have been swallowed by
   accident or otherwise may give rise to obstruction, though
-  extraordinary objects, as knives, coins, pipes, flints, &c. swallowed
+  extraordinary objects, as knives, [[Coin|coins]], pipes, flints, &c. swallowed
   by jugglers, are known to have passed by rectum without injury. In
-  cases where the foreign body lodges in the intestine the caecum and
+  cases where the foreign body [[Lodge|lodges]] in the intestine the caecum and
   duodenum are favourite situations for obstruction. In the museum of
   the Royal College of Surgeons is a specimen in which the duodenum is
   blocked by a mass of pins weighing nearly a pound. Foreign bodies may
@@ -143,19 +143,19 @@ take place.]
   children an attack occurs with severe pain, at first paroxysmal but
   later continuous; vomiting is less early and less continuous than in
   strangulation by bands, and diarrhoea tenesmus, much straining and the
-  passage of blood mucus from the anus are common. Collapse soon
+  passage of blood mucus from the [[Anu|anus]] are common. Collapse soon
   supervenes. Early in the case the abdomen is but little distended, and
   in about half the cases a distinct tumour can be felt. In some cases
   the invaginated gut may be felt protruding through the sphincter.
   Chronic intussusception occurs more frequently in adults than in
-  children; the symptoms may resemble chronic enteritis and be so masked
+  children; the symptoms may resemble chronic [[Enteritis|enteritis]] and be so masked
   that the nature of the illness remains undiagnosed until an acute
   attack supervenes, or the patient succumbs to the diarrhoea, vomiting
-  and haemorrhage.
+  and [[Haemorrhage|haemorrhage]].
 
   _Congenital Malformations of the Intestines._--Cases have been
   recorded in which the small intestine ended in a blind pouch.
-  Imperforate anus is a fairly frequent occurrence in young infants, but
+  Imperforate anus is a fairly frequent occurrence in young [[Infant|infants]], but
   attention is usually called to the condition. Partial strictures of
   the intestine, if the stricture be not too narrow, may pass unnoticed
   for years, and final complete obstruction may result from a blockage
@@ -179,7 +179,7 @@ very numerous, and may be divided into the following groups: (1)
 intra-intestinal conditions, i.e. the impaction of foreign bodies and
 impaction of faeces; (2) affections of the intestinal wall such as
 stricture, new growths in the intestine, particularly those of a
-malignant type, adhesions or matting together of the intestines from
+malignant type, adhesions or [[Matting|matting]] together of the intestines from
 peritonitis or kinking of the gut from disease of the mesenteric glands;
 (3) chronic intussusception; (4) compression of the bowel by a tumour or
 bands developing outside the intestine. Of these the commonest are
@@ -205,18 +205,18 @@ distended with gas.
 
   _Faecal Impaction_ is not uncommon in adult females who have suffered
   from chronic constipation. The common seat of the blockage is in the
-  colon, chiefly in the sigmoid flexure and in the rectum, but it may
+  [[Colon|colon]], chiefly in the sigmoid flexure and in the rectum, but it may
   occur in the caecum. The accumulation may form a doughy tumour which
   in parts may be nodular and intensely hard. The causes are due to the
   state of the contents of the bowel itself, to congenital or acquired
   weakness and diminished expulsive power of the bowel, or to painful
-  affections of the anus, fissures, piles and painful bladder
+  affections of the anus, fissures, piles and painful [[Bladder|bladder]]
   affections. The acute symptoms are always preceded by a prolonged
   period of malaise; the breath is offensive and the tongue foul, and
   the temperature may be raised from the absorption of toxins. Faecal
   impaction requires the regular and repeated administration of large
   enemata, given through a long tube, together with the administration
-  of calomel and belladonna. Large impacted masses in the rectum may be
+  of [[Calomel|calomel]] and belladonna. Large impacted masses in the rectum may be
   broken up and removed by a scoop.
 
   _Strictures of the Intestinal Wall._--Simple strictures are
@@ -230,7 +230,7 @@ distended with gas.
   colotomy.
 
   _Chronic Intussusception_ has been frequently mistaken in the
-  diagnosis for rectal polypus, cancer, tuberculous peritonitis, &c.
+  diagnosis for rectal polypus, [[Cancer|cancer]], tuberculous peritonitis, &c.
   (Treves). If diagnosed it may be reduced by inflation with air, but
   frequently too many adhesions are present for this to be possible, and
   laparotomy with excision of the mass should be undertaken; the results

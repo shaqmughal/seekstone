@@ -7,18 +7,18 @@ type: article
 
 # Cuyaba
 
-CUYABA, or CUIABA, capital of the inland state of Matto Grosso, Brazil,
+CUYABA, or CUIABA, capital of the inland state of [[Matto Grosso]], Brazil,
 about 972 m. N.W. of Rio de Janeiro, on the Cuyaba river near its
-discharge into the Sao Lourenco, the principal Brazilian tributary of
+[[Discharge|discharge]] into the Sao Lourenco, the principal Brazilian tributary of
 the Paraguay. Pop. (1890) 14,507; of the municipality, 17,815. The
 surrounding country is thickly populated. Cuyaba has uninterrupted
 steamer communication with Montevideo, about 2500 m. distant, but has no
 land communication with the national capital, except by telegraph. The
 climate is hot and malaria is prevalent. Cuyaba was founded in 1719 by
-Paulista gold hunters, and its gold-washings, now apparently exhausted,
+Paulista gold [[Hunter|hunters]], and its gold-washings, now apparently exhausted,
 yielded rich results in the 18th century. It is the see of a bishopric
 and headquarters of an important military district, having an arsenal
-and military barracks.
+and military [[Barracks|barracks]].
 
 ## See also
 

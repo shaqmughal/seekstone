@@ -11,8 +11,8 @@ BURMA, a province of British India, including the former kingdom of
 independent Burma, as well as British Burma, acquired by the British Indian
 government in the two wars of 1826 and 1852. It is divided into Upper and
 Lower Burma, the former being the territory annexed on 1st January 1886.
-The province lies to the east of the Bay of Bengal, and covers a range of
-country extending from the Pakchan river in 9 deg. 55' north latitude to the
+The province lies to the east of the Bay of [[Bengal]], and covers a range of
+country extending from the Pakchan river in 9 deg. 55' north [[Latitude|latitude]] to the
 Naga and Chingpaw, or Kachin hills, lying roughly between the 27th and 28th
 degrees of north latitude; and from the Bay of Bengal on the west to the
 Mekong river, the boundary of the dependent Shan States on the east, that
@@ -22,13 +22,13 @@ part, which is in about latitude 21 deg. north, is 575 m. from east to west. On
 the N. it is bounded by the dependent state of Manipur, by the Mishmi
 hills, and by portions of Chinese territory; on the E. by the Chinese Shan
 States, portions of the province of Yunnan, the French province of
-Indo-China, and the Siamese Shan, or Lao States and Siam; on the S. by the
-Siamese Malay States and the Bay of Bengal; and on the W. by the Bay of
+[[Indo-China]], and the Siamese Shan, or Lao States and Siam; on the S. by the
+Siamese [[Malay States]] and the Bay of Bengal; and on the W. by the Bay of
 Bengal and Chittagong. The coast-line from Taknaf, the mouth of the Naaf,
 in the Akyab district on the north, to the estuary of the Pakchan at
 Maliwun on the south, is about 1200 m. The total area of the province is
 estimated at 238,738 sq.m., of which Burma proper occupies 168,573 sq.m.,
-the Chin hills 10,250 sq.m., and the Shan States, which comprise the whole
+the [[Chin Hills|Chin hills]] 10,250 sq.m., and the Shan States, which comprise the whole
 of the eastern portion of the province, some 59,915 sq.m.
 
 _Natural Divisions._--The province falls into three natural divisions:
@@ -38,7 +38,7 @@ the basin of the Salween, and part of Kengtung in the western basin of the
 Mekong. Of these Arakan is a strip of country lying on the seaward slopes
 of the range of hills known as the Arakan Yomas. It stretches from Cape
 Negrais on the south to the Naaf estuary, which divides it from the
-Chittagong division of Eastern Bengal and Assam on the north, and includes
+Chittagong division of [[Eastern Bengal And Assam|Eastern Bengal and Assam]] on the north, and includes
 the districts of Sandoway, Kyaukpyu, Akyab and northern Arakan, an area of
 some 18,540 sq.m. The northern part of this tract is barren hilly country,
 but in the west and south are rich alluvial plains containing some of the
@@ -46,7 +46,7 @@ most fertile lands of the province. Northwards lie the Chin and some part
 of the Kachin hills. To the east of the Arakan division, and separated from
 it by the Arakan Yornas, lies the main body of Burma in the basin of the
 Irrawaddy. This tract falls into four subdivisions. First, there is the
-highland tract including the hilly country at the sources of the Chindwin
+highland tract including the hilly country at the sources of the [[Chindwin]]
 and the upper waters of the Irrawaddy, the Upper Chindwin, Katha, Bhamo,
 Myitkyina and Ruby Mines districts, with the Kachin hills and a great part
 of the Northern Shan states. In the Shan States there are a few open
@@ -54,7 +54,7 @@ plateaus, fertile and well populated, and Maymyo in the Mandalay district,
 the hill-station to which in the hot weather the government of Burma
 migrates, stands in the Pyin-u-lwin plateau, some 3500 ft. above the sea.
 But the greater part of this country is a mass of rugged hills cut deep
-with narrow gorges, within which even the biggest rivers are confined. The
+with narrow [[Gorges|gorges]], within which even the biggest rivers are confined. The
 second tract is that known as the dry zone of Burma, and includes the whole
 of the lowlands lying between the Arakan Yomas and the western fringe of
 the Southern Shan States. It stretches along both sides of the Irrawaddy
@@ -67,7 +67,7 @@ Irrawaddy basin. On the west, between the Pegu and the Arakan Yomas,
 stretches the Irrawaddy delta, a vast expanse of level plain 12,000 sq.m.
 in area falling in a gradual unbroken slope from its apex not far south of
 Prome down to the sea. This delta, which includes the districts of Bassein,
-Myaungmya, Thongwa, Henzada, Hanthawaddy, Tharrawaddy, Pegu and Rangoon
+Myaungmya, Thongwa, Henzada, [[Hanthawaddy]], Tharrawaddy, Pegu and Rangoon
 town, consists almost entirely of a rich alluvial deposit, and the whole
 area, which between Cape Negrais and Elephant Point is 137 m. wide, is
 fertile in the highest degree. To the east lies a tract of country which,
@@ -106,7 +106,7 @@ the sea, and in the eastern Kachin hills, which run northwards from the
 state of Moeng Mit to join the high range dividing the basins of the
 Irrawaddy and the Salween, are two peaks, Sabu and Worang, which rise to a
 height of 11,200 ft. above the sea. The Kumon range running down from the
-Hkamti country east of Assam to near Mogaung ends in a peak known as
+Hkamti country east of [[Assam]] to near Mogaung ends in a peak known as
 Shwedaunggyi, which reaches some 5750 ft. There are several peaks in the
 Ruby Mines district which rise beyond 7000 ft. and Loi Ling in the Northern
 Shan States reaches 9000 ft. Compared with these ranges the Pegu Yomas
@@ -122,7 +122,7 @@ intervals whenever a discharge of gas occurs. Spurs of the Chin hills run
 down the whole length of the Lower Chindwin district, almost to Sagaing,
 and one hill, Powindaung, is particularly noted on account of its
 innumerable cave temples, which are said to hold no fewer than 446,444
-images of Buddha. Huge caves, of which the most noted are the Farm Caves,
+[[Image|images]] of Buddha. Huge caves, of which the most noted are the Farm Caves,
 occur in the hills near Moulmein, and they too are full of relics of their
 ancient use as temples, though now they are chiefly visited in connexion
 with the bats, whose flight viewed from a distance, as they issue from the
@@ -154,8 +154,8 @@ valley of the Irrawaddy opens out again, and at Yegin Mingyi near Myanaung
 the influence of the tide is first felt, and the delta may be said to
 begin. The so-called rivers of the delta, the Ngawun, Pyamalaw, Panmawaddy,
 Pyinzalu and Pantanaw, are simply the larger mouths of the Irrawaddy, and
-the whole country towards the sea is a close network of creeks where there
-are few or no roads and boats take the place of carts for every purpose.
+the whole country towards the sea is a close network of [[Creek|creeks]] where there
+are few or no roads and boats take the place of [[Cart|carts]] for every purpose.
 There is, however, one true river of some size, the Hlaing, which rises
 near Prome, flows southwards and meets the Pegu river and the Pazundaung
 creek near Rangoon, and thus forms the estuary which is known as the
@@ -220,7 +220,7 @@ the December mean minimum is 36.8 deg. and the mean maximum 79 deg.. The climate
 the Chin and Kachin hills and also of the Shan States is temperate. In the
 shade and off the ground the thermometer rarely rises above 80 deg. F. or falls
 below 25 deg. F. In the hot season and in the sun as much as 150 deg. F. is
-registered, and on the grass in the cold weather ten degrees of frost are
+registered, and on the grass in the cold weather ten degrees of [[Frost|frost]] are
 not uncommon. Snow is seldom seen either in the Chin or Shan hills, but
 there are snow-clad ranges in the extreme north of the Kachin country. In
 the narrow valleys of the Shan hills, and especially in the Salween valley,
@@ -241,7 +241,7 @@ of Cretaceous and Lower Eocene, and this is flanked on each side by the
 Upper Eocene and the Miocene, while the valley of the Irrawaddy is occupied
 chiefly by the Pliocene. Along the southern part of the Arakan coast the
 sea spreads over the western Miocene zone. The Cretaceous beds have not yet
-been separated from the overlying Eocene, and the identification of the
+been separated from the overlying Eocene, and the [[Identification|identification]] of the
 system rests on the discovery of a single Cenomanian ammonite. The Eocene
 beds are marine and contain nummulites. The Miocene beds are also marine
 and are characterized by an abundant molluscan fauna. The Pliocene, on the
@@ -251,7 +251,7 @@ fashioned by hand, are said to have been found in the Miocene beds, but to
 prove the existence of man at so early a period would require stronger
 evidence than has yet been brought forward.
 
-The older rocks of eastern Burma are very imperfectly known. Gneiss and
+The older rocks of eastern Burma are very imperfectly known. [[Gneiss]] and
 granite occur; Ordovician fossils have been found in the Upper Shan States,
 and Carboniferous fossils in Tenasserim and near Moulmein. Volcanic rocks
 are not common in any part of Burma, but about 50 m. north-north-east of
@@ -280,7 +280,7 @@ chief races of Burma are Burmese (6,508,682), Arakanese (405,143), Karens
 (717,859), Shans (787,087), Chins (179,292), Kachins (64,405) and Talaings
 (321,898); but these totals do not include the Shan States and Chin hills.
 The Burmese in person have the Mongoloid characteristics common to the
-Indo-Chinese races, the Tibetans and tribes of the Eastern Himalaya. They
+Indo-Chinese races, the Tibetans and tribes of the Eastern [[Himalaya]]. They
 may be generally described as of a stout, active, well-proportioned form;
 of a brown but never of an intensely dark complexion, with black, coarse,
 lank and abundant hair, and a little more beard than is possessed by the
@@ -293,7 +293,7 @@ Burmese in their own country. As compared with the Hindu, the Burmese wear
 silk instead of cotton, and eat rice instead of the cheaper grains; they
 are of an altogether freer and less servile, but also of a less practical
 character. The Burmese women have a keener business instinct than the men,
-and serve in some degree to redress the balance. The Burmese children are
+and serve in some degree to redress the [[Balance|balance]]. The Burmese children are
 adored by their parents, and are said to be the happiest and merriest
 children in the world.
 
@@ -324,7 +324,7 @@ tones; so that any given syllable may have three entirely different
 meanings only distinguishable by the intonation when spoken, or by accents
 or diacritical marks when written. There are, however, very many weighty
 authorities who deny the existence of tones in the language. The Burmese
-alphabet is borrowed from the Aryan Sanskrit through the P[=a]li of Upper
+alphabet is borrowed from the [[Aryan]] Sanskrit through the P[=a]li of Upper
 India. The language is written from left to right in what appears to be an
 unbroken line. Thus Burma possesses two kinds of literature, P[=a]li and
 Burmese. The P[=a]li is by far the more ancient, including as it does the
@@ -367,8 +367,8 @@ The Burma forests are divided into three circles each under a conservator,
 with twenty-one deputy conservators. There are also a deputy
 postmaster-general, chief superintendent and four superintendents of
 telegraphs, a chief collector of customs, three collectors and four port
-officers, and an inspector-general of jails. At the principal towns benches
-of honorary magistrates, exercising powers of various degrees, have been
+officers, and an inspector-general of jails. At the principal towns [[Bench|benches]]
+of honorary [[Magistrate|magistrates]], exercising powers of various degrees, have been
 constituted. There are forty-one municipal towns, fourteen of which are in
 Upper Burma. The commissioners of division are _ex officio_ sessions judges
 in their several divisions, and also have civil powers, and powers as
@@ -404,7 +404,7 @@ conscience, and not opposed to the spirit of the law in the rest of British
 India. The superintendents exercise general control over the administration
 of criminal justice, and have power to call for cases, and to exercise wide
 revisionary powers. Criminal jurisdiction in cases in which either the
-complainant or the defendant is a European, or American, or a government
+complainant or the [[Defendant|defendant]] is a European, or American, or a government
 servant, or a British subject not a native of a Shan State, is withdrawn
 from the chiefs and vested in the superintendents and assistant
 superintendents. Neither the superintendents nor the assistant
@@ -427,7 +427,7 @@ superintendent of the northern Shan States, besides an indeterminate number
 of Wa States and communities of other races beyond the Salween river. The
 superintendent of the southern Shan States supervises thirty-nine, of which
 ten are sawbwaships. The headquarters of the northern Shan States are at
-Lashio, of the southern Shan States at Taung-gyi.
+[[Lashio]], of the southern Shan States at Taung-gyi.
 
 The states included in eastern and western Karen-ni are not part of British
 India, and are not subject to any of the laws in force in the Shan States,
@@ -497,7 +497,7 @@ Christian descendants of the Portuguese settlers of Syriam deported to the
 old Burmese Tabayin, a village now included in the Ye-u subdivision of
 Shwebo. These Christians returned themselves as Burmese. The forms of
 Christianity which make most converts in Burma are the Baptist and Roman
-Catholic faiths. Of recent years many conversions to Christianity have been
+Catholic faiths. Of recent years many [[Conversion|conversions]] to Christianity have been
 made by the American Baptist missionaries amongst the Lahu or Muhsoe hill
 tribesmen.
 
@@ -515,7 +515,7 @@ consist of illiterates.
 The fact that in Upper Burma the proportion of literates is nearly as high
 as, and the proportion of those under instruction even higher than, that of
 the corresponding classes in Lower Burma, is a clear proof that in primary
-education, at least, the credit for the superiority of the Burman over the
+education, at least, the [[Credit|credit]] for the superiority of the Burman over the
 native of India is due to indigenous schools. In almost every village in
 the province there is a monastery, where the most regular occupation of one
 or more of the resident _pongyis_, or Buddhist monks, is the instruction
@@ -544,7 +544,7 @@ school for the sons of Shan chiefs at Taung-gyi in the southern Shan
 States. A _Patamabyan_ examination for marks in the P[=a]li language was
 first instituted in 1896 and is held annually.
 
-_Finance._--The gross revenue of Lower Burma from all sources in 1871-1872
+_Finance._--The [[Gross|gross]] revenue of Lower Burma from all sources in 1871-1872
 was Rs.1,36,34,520, of which Rs.1,21,70,530 was from imperial taxation,
 Rs.3,73,200 from provincial services, and Rs.10,90,790 from local funds.
 The land revenue of the province was Rs.34,45,230. In Burma the cultivators
@@ -558,7 +558,7 @@ risen to Rs.2,08,38,872 from imperial taxation, Rs.1,55,51,897 for
 provincial services, and Rs.12,14,596 from incorporated local funds. The
 expenditure on the administration of Lower Burma in 1870-1871 was
 Rs.49,70,020. In 1890-1891 it was Rs.1,58,48,041. In Upper Burma the chief
-source of revenue is the _thathameda_, a tithe or income tax which was
+source of revenue is the _thathameda_, a tithe or [[Income Tax|income tax]] which was
 instituted by King Mindon, and was adopted by the British very much as they
 found it. For the purpose of the assessment every district and town is
 classified according to its general wealth and prosperity. As a rule the
@@ -566,10 +566,10 @@ basis of calculation was 100 rupees from every ten houses, with a 10%
 deduction for those exempted by custom. When the total amount payable by
 the village was thus determined, the village itself settled the amount to
 be paid by each individual householder. This was done by _thamadis_,
-assessors, usually appointed by the villagers themselves. Other important
+[[Assessor|assessors]], usually appointed by the villagers themselves. Other important
 sources of revenue are the rents from state lands, forests, and
-miscellaneous items such as fishery, revenue and irrigation taxes. In
-1886-1887, the year after the annexation, the amount collected in Upper
+miscellaneous [[Item|items]] such as fishery, revenue and irrigation taxes. In
+1886-1887, the year after the [[Annexation|annexation]], the amount collected in Upper
 Burma from all sources was twenty-two lakhs of rupees. In the following
 year it had risen to fifty lakhs. Much of Upper Burma, however, remained
 disturbed until 1890. The figures for 1890-1891, therefore, show the first
@@ -583,7 +583,7 @@ customs, forests and excise.
 
 _Defence._--Burma is garrisoned by a division of the Indian army,
 consisting of two brigades, under a lieutenant-general. Of the native
-regiments seven battalions are Burma regiments specially raised for
+regiments seven [[Battalion|battalions]] are Burma regiments specially raised for
 permanent service in Burma by transformation from military police. These
 regiments, consisting of Gurkhas, Sikhs and Pathans, are distributed
 throughout the Shan States and the northern part of Burma. In addition to
@@ -625,7 +625,7 @@ enormous quantities, but the quality is not so good.
 
 The most important ruby-bearing area is the Mogok stone tract, in the hills
 about 60 m. east of the Irrawaddy and 90 m. north-north-west of Mandalay.
-The right to mine for rubies by European methods and to levy royalties from
+The right to mine for rubies by European methods and to [[Levy|levy]] royalties from
 persons working by native methods was leased to the Burma Ruby Mines
 Company, Limited, in 1889, and the lease was renewed in 1896 for 14 years
 at a rent of Rs.3,15,000 a year plus a share of the profits. The rent was
@@ -642,7 +642,7 @@ machinery and treated by chemical processes. Work was begun in 1895, and
 the yield of gold in that year was 274 oz., which increased to 893 oz. in
 1896-1897. This, however, proved to be merely a pocket, and the mine is now
 shut down. Dredging for gold, however, seems likely to prove very
-profitable and gold dust is found in practically every river in the hills.
+profitable and gold [[Dust|dust]] is found in practically every river in the hills.
 
 The principal seats of the petroleum industry are Yenangyaung in the Magwe,
 and Yenangyat in the Pakokku districts. The wells have been worked for a
@@ -659,7 +659,7 @@ manufactured at various places in Upper Burma, notably in the lower
 Chindwin, Sagaing, Shwebo, Myingyan and Yamethin districts, as well as at
 Mawhkio in the Shan State of Thibaw. Iron is found in many parts of the
 hills, and is worked by inhabitants of the country. A good deal is
-extracted and manufactured into native implements at Pang Long in the
+extracted and manufactured into native [[Implement|implements]] at Pang Long in the
 L[=e]gya (Laihka) Shan State. Lead is extracted by a Chinese lessee from
 the mines at Bawzaing (Maw-s[=o]n) in the Myelat, southern Shan States. The
 ore is rich in silver as well as in lead.
@@ -707,7 +707,7 @@ irrigation under these schemes. On the whole the people of Burma are
 prosperous and contented. Taxes and land revenue are light; markets for the
 disposal of produce are constant and prices good; while fresh land is still
 available in most districts. Compared with the congested districts in the
-other provinces of India, with the exception of Assam, the lot of the
+other provinces of India, with the exception of Assam, the [[Lot|lot]] of the
 Burman is decidedly enviable.
 
 _Forests._---The forests of Burma are the finest in British India and one
@@ -728,7 +728,7 @@ treatment by the natives. In the reserves the trees of commercial value can
 only be cut under a licence returning a revenue to the state, while
 unreserved trees can be cut by the natives for home consumption. There are
 naturally very many trees in these forests besides the teak. In Lower Burma
-alone the enumeration of the trees made by Sulpiz Kurz in his _Forest Flora
+alone the enumeration of the trees made by Sulpiz [[Kurz]] in his _Forest Flora
 of British Burma_ (1877) includes some 1500 species, and the unknown
 species of Upper Burma and the Shan States would probably increase this
 total very considerably. In addition to teak, which provides the bulk of
@@ -782,7 +782,7 @@ silk-weavers are to be found at Amarapura. There large numbers of people
 follow this occupation as their sole means of livelihood, whereas silk and
 cotton weaving throughout the province generally is carried on by girls and
 women while unoccupied by other domestic duties. The Burmese are fond of
-bright colours, and pink and yellow harmonize well with their dark olive
+bright [[Colours|colours]], and pink and yellow harmonize well with their dark olive
 complexion, but even here the influence of western civilization is being
 felt, and in the towns the tendency now is towards maroon, brown, olive and
 dark green for the women's skirts. The total number of persons engaged in
@@ -796,11 +796,11 @@ sexes. The chief arts of Burma are wood-carving and silver work. The floral
 wood-carving is remarkable for its freedom and spontaneity. The carving is
 done in teak wood when it is meant for fixtures, but teak has a coarse
 grain, and otherwise _yamane_ clogwood, said to be a species of gmelina, is
-preferred. The tools employed are chisel, gouge and mallet. The design is
+preferred. The tools employed are chisel, gouge and [[Mallet|mallet]]. The design is
 traced on the wood with charcoal, gouged out in the rough, and finished
 with sharp fine tools, using the mallet for every stroke. The great bulk of
 the silver work is in the form of bowls of different sizes, in shape
-something like the lower half of a barrel, only more convex, of betel
+something like the lower half of a [[Barrel|barrel]], only more [[Convex|convex]], of betel
 boxes, cups and small boxes for lime. Both in the wood-carving and silver
 work the Burmese character displays itself, giving boldness, breadth and
 freedom of design, but a general want of careful finish. Unfortunately the
@@ -812,7 +812,7 @@ In 1805 the quantity of rice exported in the foreign and coastal trade
 amounted to 1,419,173 tons valued at Rs.9,77,66,132, and in 1905 the
 figures were 2,187,764 tons, value Rs.15,67,28,288. England takes by far
 the greatest share of Burma's rice, though large quantities are also
-consumed in Germany, while France, Italy, Belgium and Holland also consume
+consumed in Germany, while France, Italy, [[Belgium]] and Holland also consume
 a considerable amount. The regular course of trade is apt to be deflected
 by famines in India or Japan. In 1900 over one million tons of rice were
 shipped to India during the famine there. The rice-mills, almost all
@@ -885,13 +885,13 @@ considered applicable to all the dominions of the crown in India. As
 regards the acts of the governor-general in council passed for India
 generally--they, too, were from the first applicable to Lower Burma; and
 they have all been declared applicable to Upper Burma also by the Burma
-Laws Act of 1898. That portion of the English law which has been introduced
+Laws Act of 1898. That portion of the [[English Law|English law]] which has been introduced
 into India without legislation, and all the rules of law resting upon the
 authority of the courts, are made applicable to Burma by the same act. But
 consistently with the practice which has always prevailed in India, there
 is a large field of law in Burma which the British government has not
 attempted to disturb. It is expressly directed by the act of 1898 above
-referred to, that in regard to succession, inheritance, marriage, caste or
+referred to, that in regard to succession, inheritance, marriage, [[Caste|caste]] or
 any religious usage or institution, the law to be administered in Burma is
 (_a_) the Buddhist law in cases where the parties are Buddhists, (_b_) the
 Mahommedan law in cases where the parties are Mahommedans, (_c_) the Hindu
@@ -907,7 +907,7 @@ certainty as to the date or method of their introduction. The whole of the
 law administered now in Burma rests ultimately upon statutory authority;
 and all the Indian acts relating to Burma, whether of the governor-general
 or the lieutenant-governor of Burma in council, will be found in the Burma
-Code (Calcutta, 1899), and in the supplements to that volume which are
+[[Code]] (Calcutta, 1899), and in the supplements to that volume which are
 published from time to time at Rangoon. There is no complete translation of
 the _Dhammathats_, but a good many of them have been translated. An account
 of these translations will be found in _The Principles of Buddhist Law_ by
@@ -923,7 +923,7 @@ communication with Gangetic India began. From the 11th to the 13th century
 the old Burman empire was at the height of its power, and to this period
 belong the splendid remains of architecture at Pagan. The city and the
 dynasty were destroyed by a Chinese (or rather Mongol) invasion (1284 A.D.)
-in the reign of Kublai Khan. After that the empire fell to a low ebb, and
+in the reign of [[Kublai Khan]]. After that the empire fell to a low ebb, and
 Central Burma was often subject to Shan dynasties. In the early part of the
 16th century the Burmese princes of Toungoo, in the north-east of Pegu,
 began to rise to power, and established a dynasty which at one time held
@@ -961,7 +961,7 @@ escaped to Pondicherry. Alompra was now master of all the navigable rivers;
 and the Peguans, shut out from foreign aid, were finally subdued. In 1757
 the conqueror laid siege to the city of Pegu, which capitulated, on
 condition that their own king should govern the country, but that he should
-do homage for his kingdom, and should also surrender his daughter to the
+do [[Homage|homage]] for his kingdom, and should also surrender his daughter to the
 victorious monarch. Alompra never contemplated the fulfilment of the
 condition; and having obtained possession of the town, abandoned it to the
 fury of his soldiers. In the following year the Peguans vainly endeavoured
@@ -977,10 +977,10 @@ was succeeded by his eldest son Noungdaugyi, whose reign was disturbed by
 the rebellion of his brother Sin-byu-shin, and afterwards by one of his
 father's generals. He died in little more than three years, leaving one son
 in his infancy; and on his decease the throne was seized by his brother
-Sin-byu-shin. The new king was intent, like his predecessors, on the
+Sin-byu-shin. The new king was [[Intent|intent]], like his predecessors, on the
 conquest of the adjacent states, and accordingly made war in 1765 on the
 Manipur kingdom, and also on the Siamese, with partial success. In the
-following year he defeated the Siamese, and, after a long blockade,
+following year he defeated the Siamese, and, after a long [[Blockade|blockade]],
 obtained possession of their capital. But while the Burmans were extending
 their conquests in this quarter, they were invaded by a Chinese army of
 50,000 men from the province of Yunnan. This army was hemmed in by the
@@ -989,7 +989,7 @@ afterwards attacked and totally destroyed, with the exception of 2500 men,
 who were sent in fetters to work in the Burmese capital at their several
 trades. In the meantime the Siamese revolted, and while the Burman army was
 marching against them, the Peguan soldiers who had been incorporated in it
-rose against their companions, and commencing an indiscriminate massacre,
+rose against their companions, and commencing an indiscriminate [[Massacre|massacre]],
 pursued the Burman army to the gates of Rangoon, which they besieged, but
 were unable to capture. In 1774 Sin-byu-shin was engaged in reducing the
 marauding tribes. He took the district and fort of Martaban from the
@@ -1081,7 +1081,7 @@ meeting with any signs of regret, that they were treated with indignity and
 contempt, and compelled to retire without accomplishing anything beyond
 blockading the ports. A series of negotiations followed; nothing was
 demanded of the Burmese beyond a very moderate compensation for the
-injuries inflicted on the masters of two British vessels, an apology for
+injuries inflicted on the masters of two British vessels, an [[Apology|apology]] for
 the insults offered by the governor of Rangoon to the representatives of
 the British government, and the re-establishment of at least the appearance
 of friendly relations by the reception of a British agent by the Burmese
@@ -1095,7 +1095,7 @@ and the chief towns in the lower part of the Burmese kingdom fell to them
 in succession. The city of Pegu, the capital of that portion which, after
 having been captured, had again passed into the hands of the enemy, was
 recaptured and retained, and the whole province of Pegu was, by
-proclamation of the governor-general, Lord Dalhousie, declared to be
+proclamation of the governor-general, Lord [[Dalhousie]], declared to be
 annexed to the British dominions on the 20th of December 1852. No treaty
 was obtained or insisted upon,--the British government being content with
 the tacit acquiescence of the king of Burma without such documents; but its
@@ -1177,12 +1177,12 @@ vols., Rangoon, 1900-1901). _Non-official_: Right Rev. Bishop Bigandet,
 _Life or Legend of Gautama_ (3rd ed., London, 1881); G.W. Bird, _Wanderings
 in Burma_ (London, 1897); E.D. Cuming, _In the Shadow of the Pagoda_
 (London, 1893), _With the Jungle Folk_ (Condon, 1897); Max and Bertha
-Ferrars, _Burma_ (London, 1900); H. Fielding, _The Soul of a People
+[[Ferrar|Ferrars]], _Burma_ (London, 1900); H. Fielding, _The Soul of a People
 (Buddhism in Burma)_ (London, 1898), _Thibaw's Queen_ (London, 1899), _A
 People at School_ (1906); Capt. C.J. Forbes, F.S., _Burma_ (London, 1878),
 _Comparative Grammar of the Languages of Farther India_ (London, 1881),
 _Legendary History of Burma and Arakan_ (Rangoon, 1882); J. Gordon, _Burma
-and its Inhabitants_ (London, 1876); Mrs E. Hart, [v.04 p.0846]
+and its Inhabitants_ (London, 1876); Mrs E. [[Hart]], [v.04 p.0846]
 _Picturesque Burma_ (London, 1897); Gen. R. Macmahon, _Far Cathay and
 Farther India_ (London, 1892); Rev. F. Mason, D.D., _Burma_ (Rangoon,
 1860); E.H. Parker, _Burma_ (Rangoon, 1892); Sir Arthur Phayre, _History of
@@ -1195,7 +1195,7 @@ _The Karens of Burma_ (London, 1887); Sir Henry Yule, _A Mission to Ava_
 1901); V.D. Scott O'Connor, _The Silken East_ (London, 1904); Talbot Kelly,
 _Burma_ (London, 1905); an exhaustive account of the administration is
 contained in Dr Alleyne Ireland's _The Province of Burma_, Report prepared
-on behalf of the university of Chicago (Boston, U.S.A., 2 vols., 1907).
+on behalf of the university of [[Chicago]] ([[Boston]], U.S.A., 2 vols., 1907).
 
 (J. G. SC.)
 

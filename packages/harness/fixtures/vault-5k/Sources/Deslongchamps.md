@@ -25,7 +25,7 @@ one of the founders of the museum of natural history at Caen, and acted
 as honorary curator; he was likewise one of the founders of the
 _Sociétié linnéenne de Normandie_ (1823), to the transactions of which
 society he communicated papers on _Teleosaurus_, _Poekilopleuron_
-(_Megalosaurus_), on Jurassic mollusca and brachiopoda. In 1825 he
+(_Megalosaurus_), on [[Jurassic]] mollusca and brachiopoda. In 1825 he
 became professor of zoology to the faculty of sciences, and in 1847,
 dean. He died on the 17th of January 1867.
 
@@ -35,7 +35,7 @@ professor of zoology at the faculty of sciences at Caen, and in 1861 he
 became also professor of geology and dean. After the death of his father
 in 1867, he devoted himself to the completion of a memoir on the
 Teleosaurs: the joint labours being embodied in his _Prodrome des
-Téléosauriens du Calvados_. To the Société Linnéenne de Normandie he
+Téléosauriens du [[Calvados]]_. To the Société Linnéenne de Normandie he
 contributed memoirs on Jurassic brachiopods, on the geology of the
 department of La Manche (1856), of Calvados (1856-1863), on the _Terrain
 callovien_ (1859), on _Nouvelle-Calédonie_ (1864), and _Études sur les

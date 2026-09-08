@@ -21,9 +21,9 @@ the son of Jeshua (i.e. Jesus) the son of Eleazar the son of Sira." In
 the Greek text this name appears as "Jesus son of Sirach Eleazar"
 (probably a corruption of the Hebrew reading), and the epithet "of
 Jerusalem" is added, the translator himself being resident in Egypt. The
-whole name is shortened sometimes to "Son of Sira," _Ben Sira_ in
+whole name is shortened sometimes to "Son of Sira," _[[Ben]] Sira_ in
 Hebrew, _Bar Sira_ in Aramaic, and sometimes (as in the title prefixed
-in the Greek cod. B) to _Sirach_. The work is variously described as the
+in the Greek [[Cod|cod]]. B) to _Sirach_. The work is variously described as the
 _Words_ (Heb. text), the _Book_ (Talmud), the _Proverbs_ (Jerome), or
 the _Wisdom_ of the son of Sira (or Sirach).
 
@@ -49,7 +49,7 @@ forbidden to read (i.e. in the synagogue) the book of ben Sira, and
 further that "if our masters had not hidden the book (i.e. declared it
 uncanonical), we might interpret the good things which are in it"
 (Schechter, _J. Q. Review_, iii. 691-692). In the Christian Church it
-was largely used by Clement of Alexandria (c. A.D. 200) and by St
+was largely used by [[Clement]] of Alexandria (c. A.D. 200) and by St
 Augustine. The lists of the Hebrew canon, however, given by Melito (c.
 A.D. 180) and by Origen (c. A.D. 230) rightly exclude Ecclesiasticus,
 and Jerome (c. A.D. 390-400) writes: "Let the Church read these two
@@ -58,21 +58,21 @@ the people, not for establishing the authority of the dogmas of the
 Church" (_Praefatio in libros Salomonis_). In the chief MS. of the
 Septuagint, cod. B, Ecclesiasticus comes between Wisdom and Esther, no
 distinction being drawn between canonical and uncanonical. In the
-Vulgate it immediately precedes Isaiah. The council of Trent declared
+Vulgate it immediately precedes [[Isaiah]]. The council of Trent declared
 this book and the rest of the books reckoned in the Thirty-nine Articles
 as apocryphal to be canonical.
 
 The text of the book raises intricate problems which are still far from
 solution. The original Hebrew (rediscovered in fragments and published
 between 1896 and 1900) has come down to us in a mutilated and corrupt
-form. The beginning as far as iii. 7 is lost. There is a gap from xvi.
+form. The beginning as far as iii. 7 is lost. There is a [[Gap|gap]] from xvi.
 26 to xxx. 11. There are marginal readings which show that two different
 recensions existed once in Hebrew. The Greek version exists in two
 forms--(a) that preserved in cod. B and in the other uncial MSS., (b)
 that preserved in the cursive codex 248 (Holmes and Parsons). The former
 has a somewhat briefer text, the latter agrees more closely with the
 Hebrew text. The majority of Greek cursives agree generally with the
-Latin Vulgate, and offer the fuller text in a corrupt form. The Syriac
+Latin Vulgate, and offer the [[Fuller|fuller]] text in a corrupt form. The Syriac
 (Peshitta) version is paraphrastic, but on the whole it follows the
 Hebrew text. Owing to the mutilation of the Hebrew by the accidents of
 time the Greek version retains its place as the chief authority for the
@@ -153,18 +153,18 @@ benefactor, the Greek text gives a cynical turn to the verse, "Let the
 man who rebels against his true benefactor be punished through the
 tender mercies of a quack." The Hebrew text is probably superior also in
 xliv. 1, the opening words of the eulogy of the Fathers: "Let me now
-praise favoured men," i.e. men in whom God's grace was shown. The Hebrew
+praise favoured men," i.e. men in whom God's [[Grace|grace]] was shown. The Hebrew
 phrase is "men of grace," as in v. 10. The Greek text of v. 1, "famous
 men," seems to be nothing but a loose paraphrase, suggested by v. 2,
 "The Lord manifested in them great glory."
 
 In character and contents Ecclesiasticus resembles the book of Proverbs.
-It consists mainly of maxims which may be described in turn as moral,
+It consists mainly of [[Maxims|maxims]] which may be described in turn as moral,
 utilitarian and secular. Occasionally the author attacks prevalent
 religious opinions, e.g. the denial of free-will (xv. 11-20), or the
 assertion of God's indifference towards men's actions (xxxv. 12-19).
 Occasionally, again, Ben Sira touches the highest themes, and speaks of
-the nature of God: "He is All" (xliii. 27); "He is One from everlasting"
+the nature of God: "He is All" (xliii. 27); "He is One from [[Everlasting|everlasting]]"
 (xlii. 21, Heb. text); "The mercy of the Lord is upon all flesh" (xviii.
 13). Though the book is imitative and secondary in character it contains
 several passages of force and beauty, e.g. ch. ii. (how to fear the
@@ -183,9 +183,9 @@ motto of Butler's _Analogy_); "Work your work before the time cometh,
 and in his time he will give you your reward" (li. 30). In spite,
 however, of the words just quoted it cannot be said that Ben Sira
 preaches a hopeful religion. Though he prays, "Renew thy signs, and
-repeat thy wonders ... Fill Sion with thy majesty and thy Temple with
+repeat thy wonders ... Fill Sion with thy [[Majesty|majesty]] and thy Temple with
 thy glory" (xxxvi. 6, 14 [19], Heb. text), he does not look for a
-Messiah. Of the resurrection of the dead or of the immortality of the
+Messiah. Of the resurrection of the dead or of the [[Immortality|immortality]] of the
 soul there is no word, not even in xli. 1-4, where the author exhorts
 men not to fear death. Like the Psalmist (Ps. lxxxviii. 10, 11) he asks,
 "Who shall give praise to the Most High in the grave?" In his maxims of
@@ -194,23 +194,23 @@ regards women; "From a woman was the beginning of sin; and because of
 her we all die" (xxv. 24). He does not believe in home-spun wisdom; "How
 shall he become wise that holdeth the plough?" (xxxviii. 25). Artificers
 are not expected to pray like the wise man; "In the handywork of their
-craft is their prayer" (v. 34). Merchants are expected to cheat; "Sin
+[[Craft|craft]] is their prayer" (v. 34). Merchants are expected to cheat; "Sin
 will thrust itself in between buying and selling" (xxvii. 2).
 
   BIBLIOGRAPHY.--The literature of Ecclesiaticus has grown very
   considerably since the discovery of the first Hebrew fragment in 1896.
   A useful summary of it is found at the end of Israel Levi's article,
-  "Sirach," in the _Jewish Encyclopedia_. Eberhard Nestle's article in
+  "Sirach," in the _Jewish Encyclopedia_. [[Eberhard]] Nestle's article in
   Hastings's _Dictionary of the Bible_ is important for its
   bibliographical information as well as in other respects. A complete
   edition of the Hebrew fragments in collotype facsimile was published
   jointly by the Oxford and Cambridge Presses in 1901. J.H.A. Hart's
   edition of cod. 248 throws much light on some of the problems of this
-  book. It contains a fresh collation of all the chief authorities
+  book. It contains a fresh [[Collation|collation]] of all the chief authorities
   (Heb., Syr., Syr.-Hex., Lat. and Gr.) for the text, together with a
   complete textual commentary.
 
-  The account given in the _Synopsis_ attributed to Athanasius (Migne,
+  The account given in the _Synopsis_ attributed to [[Athanasius]] (Migne,
   _P.G._, iv. 375-384) has an interest of its own. The beginning is
   given in the Authorized Version as "A prologue made by an uncertain
   author."     (W. E. B.)

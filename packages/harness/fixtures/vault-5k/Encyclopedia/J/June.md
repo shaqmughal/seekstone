@@ -1,7 +1,7 @@
 # June
 
 JUNE, the sixth month in the Christian calendar, consisting of thirty
-days. Ovid (_Fasti_, vi. 25) makes Juno assert that the name was
+days. Ovid (_Fasti_, vi. 25) makes [[Juno]] assert that the name was
 expressly given in her honour. Elsewhere (_Fasti_, vi. 87) he gives the
 derivation _a junioribus_, as May had been derived from _majores_, which
 may be explained as in allusion either to the two months being dedicated

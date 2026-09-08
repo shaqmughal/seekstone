@@ -9,7 +9,7 @@ type: article
 
 CANDYTUFT (_Iberis amara_, so called from Iberia, i.e. Spain, where many
 species of the genus are native, and _amara_, bitter, i.e. in taste), a
-small annual herb (natural order Cruciferae) with white or purplish
+small annual [[Herb|herb]] (natural order Cruciferae) with white or purplish
 flowers, the outer petals of which are longer than the rest. It is a
 native of western Europe and found wild on dry soil in cultivated ground
 in the centre and east of England. This and several other species of the

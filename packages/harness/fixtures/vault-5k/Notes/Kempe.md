@@ -1,24 +1,24 @@
 # Kempe
 
 KEMPE, JOHN (c. 1380-1454), English cardinal, archbishop of Canterbury,
-and chancellor, was son of Thomas Kempe, a gentleman of Ollantigh, in
-the parish of Wye near Ashford, Kent. He was born about 1380 and
+and chancellor, was son of Thomas Kempe, a [[Gentleman|gentleman]] of Ollantigh, in
+the parish of Wye near [[Ashford]], Kent. He was born about 1380 and
 educated at Merton College, Oxford. He practised as an ecclesiastical
-lawyer, was an assessor at the trial of Oldcastle, and in 1415 was made
+lawyer, was an [[Assessor|assessor]] at the trial of Oldcastle, and in 1415 was made
 dean of the Court of Arches. Then he passed into the royal service, and
 being employed in the administration of Normandy was eventually made
 chancellor of the duchy. Early in 1419 he was elected bishop of
 Rochester, and was consecrated at Rouen on the 3rd of December. In
-February 1421 he was translated to Chichester, and in November following
+February 1421 he was translated to [[Chichester]], and in November following
 to London. During the minority of Henry VI. Kempe had a prominent
-position in the English council as a supporter of Henry Beaufort, whom
+position in the English council as a supporter of Henry [[Beaufort]], whom
 he succeeded as chancellor in March 1426. In this same year he was
 promoted to the archbishopric of York. Kempe held office as chancellor
 for six years; his main task in government was to keep Humphrey of
 Gloucester in check. His resignation on the 28th of February 1432 was a
 concession to Gloucester. He still enjoyed Beaufort's favour, and
 retaining his place in the council was employed on important missions,
-especially at the congress of Arras in 1435, and the conference at
+especially at the congress of [[Arras]] in 1435, and the conference at
 Calais in 1438. In December 1439 he was created cardinal, and during the
 next few years took less share in politics. He supported Suffolk over
 the king's marriage with Margaret of Anjou; but afterwards there arose

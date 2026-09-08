@@ -9,18 +9,18 @@ topic: rivers
 BECKWITH, SIR THOMAS SYDNEY (1772-1831), British general, was the son of
 Major-General John Beckwith, who was colonel of the 20th regiment
 (Lancashire Fusiliers) in the charge at Minden. In 1791 he entered the
-71st regiment (then commanded by Colonel David Baird), in which he
+71st regiment (then commanded by Colonel David [[Baird]]), in which he
 served in India and elsewhere until 1800, when he obtained a company in
-Colonel Coote Manningham's experimental regiment of riflemen, shortly
+Colonel [[Coote]] Manningham's experimental regiment of riflemen, shortly
 afterwards numbered as the 95th Rifles and now called the Rifle Brigade.
-In 1802 he was promoted major, and in the following year
+In 1802 he was promoted [[Major|major]], and in the following year
 lieutenant-colonel. Beckwith was one of the favourite officers of Sir
 John Moore in the famous camp of Shorncliffe, and aided that general in
 the training of the troops which afterwards became the Light Division.
-In 1806 he served in the expedition to Hanover, and in 1807 in that
-which captured Copenhagen. In 1806 the Rifles were present at Vimeira,
+In 1806 he served in the expedition to [[Hanover]], and in 1807 in that
+which captured [[Copenhagen]]. In 1806 the Rifles were present at Vimeira,
 and in the campaign of Sir John Moore they bore the brunt of the
-rearguard fighting. Beckwith took part in the great march of Craufurd to
+rearguard fighting. Beckwith took part in the great march of [[Craufurd]] to
 the field of Talavera, in the advanced guard fights on the Coa in 1810
 and in the campaign in Portugal. On the formation of the Light Division
 he was given a brigade command in it. After the brilliant action of
@@ -48,15 +48,15 @@ the 50th regiment in 1803, exchanging in 1804 into the 95th Rifles, with
 which regiment he served in the Peninsular campaigns of 1808-10. He was
 subsequently employed on the staff of the Light Division, and he was
 repeatedly mentioned in despatches, becoming in 1814 a brevet-major, and
-after the battle of Waterloo (in which he lost a leg) lieutenant-colonel
+after the battle of Waterloo (in which he lost a [[Leg|leg]]) lieutenant-colonel
 and C.B. In 1820 he left active service. Seven years later an accident
 drew his attention to the Waldenses, whose past history and present
 condition influenced him so strongly that he settled in the valleys of
 Piedmont. The rest of his life was spent in the self-imposed task of
 educating the Waldenses, for whom he established and maintained a large
 number of schools, and in reviving the earlier faith of the people. In
-1848 King Charles Albert made him a knight of the order of St Maurice
-and St Lazarus. He was promoted colonel in the British army in 1837 and
+1848 King Charles Albert made him a [[Knight|knight]] of the order of St [[Maurice]]
+and St [[Lazarus]]. He was promoted colonel in the British army in 1837 and
 major-general in 1846. He died on the 19th of July 1862 at La Torre,
 Piedmont.
 

@@ -2,7 +2,7 @@
 
 FENUGREEK, in botany, _Trigonella Foenum-graecum_ (so called from the
 name given to it by the ancients, who used it as fodder for cattle), a
-member of a genus of leguminous herbs very similar in habit and in most
+member of a genus of leguminous [[Herb|herbs]] very similar in habit and in most
 of their characters to the species of the genus _Medicago_. The leaves
 are formed of three obovate leaflets, the middle one of which is
 stalked; the flowers are solitary, or in clusters of two or three, and
@@ -10,7 +10,7 @@ have a campanulate, 5-cleft calyx; and the pods are many-seeded,
 cylindrical or flattened, and straight or only slightly curved. The
 genus is widely diffused over the south of Europe, West and Central
 Asia, and the north of Africa, and is represented by several species in
-Australia. Fenugreek is indigenous to south-eastern Europe and western
+[[Australia]]. Fenugreek is indigenous to south-eastern Europe and western
 Asia, and is cultivated in the Mediterranean region, parts of central
 Europe, and in Morocco, and largely in Egypt and in India. It bears a
 sickle-shaped pod, containing from 10 to 20 seeds, from which 6% of a

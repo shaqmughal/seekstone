@@ -33,7 +33,7 @@ of Kulm, and recovered from a severe wound received at that action in
 time to be present at the battle of Leipzig. He played a conspicuous part
 in the campaign of 1814 in France, after which he was made a
 major-general. In this rank he was appointed quartermaster-general to
-Field Marshal Prince Blucher, and, after his chief and Gneisenau,
+Field Marshal Prince Blucher, and, after his chief and [[Gneisenau]],
 Grolmann had the greatest share in directing the Prussian operations of
 1815. In the decision, on the 18th of June 1815, to press forward to
 Wellington's assistance (see WATERLOO CAMPAIGN), Grolmann actively

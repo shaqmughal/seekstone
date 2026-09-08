@@ -2,7 +2,7 @@
 
 FRANCHE-COMTE, a province of France from 1674 to the Revolution. It was
 bounded on the E. by Switzerland, on the S. by Bresse and Bugey, on the
-N. by Lorraine, and on the W. by the duchy of Burgundy and by Bassigny,
+N. by [[Lorraine]], and on the W. by the duchy of Burgundy and by Bassigny,
 embracing to the E. of the Jura the valley of the Saone and most of that
 of the Doubs. Under the Romans it corresponded to _Maxima Sequanorum_,
 and after having formed part of the kingdom of Burgundy was in the early
@@ -18,11 +18,11 @@ his father-in-law, Henry (1002), tried to seize the duchy of Burgundy,
 but without success. The countship, which formed a fief dependent on the
 kingdom of Burgundy, passed to Renaud I., the second son of Otto
 William. When the kingdom of Burgundy was joined to the Germanic empire,
-he refused to pay homage to the emperor Henry III., whose suzerainty
+he refused to pay [[Homage|homage]] to the emperor Henry III., whose suzerainty
 over him never existed except in theory. William I., surnamed the Great
 or Headstrong (1059-1087), still further added to the power of his house
 by marrying Etiennette, heiress of the count of Vienne, and by acquiring
-from his cousin Guy, when the latter became a monk at Cluny, the
+from his [[Cousin|cousin]] Guy, when the latter became a monk at [[Cluny]], the
 countship of Macon. One of his sons, Guy, became pope, under the name of
 Calixtus II. His grandson, Renaud III. (1097-1148), in his turn refused
 to pay homage to the emperor Lothair, who retaliated by confiscating his
@@ -39,7 +39,7 @@ possession with Stephen, count of Auxonne, the grandson of William III.
 Beatrix, the daughter and heiress of Otto I. (1200-1231), married Otto,
 duke of Meran (+1234), under whose government the inhabitants of
 Besancon, which had been since the time of Frederick Barbarossa an
-imperial city, formed themselves definitely into a _commune_. Alix,
+imperial city, formed themselves definitely into a _[[Commune|commune]]_. Alix,
 daughter of Beatrix and of Otto of Meran, and heiress to the countship
 of Burgundy, married Hugh of Chalon, son of John the Ancient or the Wise
 (d. 1248), and a descendant of William III. and consequently of William
@@ -72,7 +72,7 @@ who was closely related to him and destined to marry the dauphin (later
 Charles VIII.). French garrisons occupied the principal towns, and the
 lord of Craon was appointed governor of the country. In consequence of
 his severity there was a general rising, and at the same time Mary
-married Maximilian, archduke of Austria, to whom her father had formerly
+married [[Maximilian]], archduke of Austria, to whom her father had formerly
 betrothed her (Aug. 1477). The French were expelled from the fortified
 towns and Craon beaten by the people of Dole. Charles of Amboise, who
 took his place, reconquered the province, and even Besancon submitted to
@@ -95,7 +95,7 @@ independence, paying a "_don gratuit_" of 200,000 livres every three
 years, and being actually governed by the parliament of Dole, and by
 governors chosen from the nobility of the country. It was Franche-Comte
 which furnished Philip II. of Spain with one of his best counsellors,
-Cardinal Perrenot de Granvella.
+Cardinal Perrenot de [[Granvella]].
 
 In the 16th century the country was disturbed by the preaching of
 Protestant doctrines, which gained adherents especially in the district
@@ -104,7 +104,7 @@ the armies of Henry IV. levied contributions on Besancon and other
 towns; but the people of Franche-Comte succeeded in obtaining special
 terms of neutrality in order to shelter themselves from injury from
 either of the parties in the war, and enjoyed a period of calm under the
-government of the infanta Isabella Clara Eugenie and the archduke Albert
+government of the infanta Isabella [[Clara]] Eugenie and the archduke Albert
 (1599-1621). But the country suffered greatly from the ravages of the
 Thirty Years' War, from the presence of the army of the Condes, which
 besieged Dole, from the devastation of the troops of Gallas, and later

@@ -20,7 +20,7 @@ Hartlebury.
 
   See W. Thomas, _Survey of Worcester Cathedral_; _Episcopal Registers_;
   _Register of Bishop Godfrey Giffard_, edited by J. W. Willis-Bund
-  (Oxford, 1898-1899); and the Annals of Worcester in the _Annales
+  (Oxford, 1898-1899); and the [[Annals]] of Worcester in the _Annales
   monastici_, vol. iv., edited by H. R. Luard (London, 1869).
 
 ## See also

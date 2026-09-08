@@ -11,7 +11,7 @@ consisting mainly of quartz and felspar in very small irregular
 crystals, and containing usually also a fair number of minute rounded
 pale-red garnets. Among English and American geologists the term is
 generally employed in this sense. The granulites are very closely allied
-to the gneisses, as they consist of nearly the same minerals, but they
+to the [[Gneiss|gneisses]], as they consist of nearly the same minerals, but they
 are finer grained, have usually less perfect foliation, are more
 frequently garnetiferous, and have some special features of microscopic
 structure. In the rocks of this group the minerals, as seen in a
@@ -36,7 +36,7 @@ The felspar of the granulites is mostly orthoclase or cryptoperthite;
 microcline, oligoclase and albite are also common. Basic felspars occur
 only rarely. Among accessory minerals, in addition to apatite, zircon,
 and iron oxides, the following may be mentioned: hornblende (not
-common), riebeckite (rare), epidote and zoisite, calcite, sphene,
+common), riebeckite (rare), [[Epidote|epidote]] and zoisite, [[Calcite|calcite]], sphene,
 andalusite, sillimanite, kyanite, hercynite (a green spinel), rutile,
 orthite and tourmaline. Though occasionally we may find larger grains of
 felspar, quartz or epidote, it is more characteristic of these rocks
@@ -56,7 +56,7 @@ granites pass into gneiss and granulite; the gabbros into flaser gabbro
 and amphibolite; the slates often contain andalusite or chiastolite, and
 show transitions to mica schists. At one time these rocks were regarded
 as Archean gneisses of a special type. Johannes Georg Lehmann propounded
-the hypothesis that their present state was due principally to crushing
+the [[Hypothesis|hypothesis]] that their present state was due principally to crushing
 acting on them in a solid condition, grinding them down and breaking up
 their minerals, while the pressure to which they were subjected welded
 them together into coherent rock. It is now believed, however, that they

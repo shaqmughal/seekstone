@@ -10,15 +10,15 @@ tags: [history, empires]
 DWIGHT, TIMOTHY (1752-1817), American divine, writer, and
 educationalist, was born at Northampton, Massachusetts, on the 14th of
 May 1752. His father, Timothy Dwight, a graduate of Yale College (1744),
-was a merchant, and his mother was the third daughter of Jonathan
+was a merchant, and his mother was the third daughter of [[Jonathan]]
 Edwards. He was remarkably precocious, and is said to have learned the
 alphabet at a single lesson, and to have been able to read the Bible
 before he was four years old. In 1769 he graduated at Yale College, and
 then for two years taught in a grammar school at New Haven. He was a
 tutor in Yale College from 1771 to 1777; and then, having been licensed
-to preach, was a chaplain for a year in a regiment of troops engaged in
+to preach, was a [[Chaplain|chaplain]] for a year in a regiment of troops engaged in
 the War of Independence, inspiring the troops both by his sermons and by
-several stirring war songs, the most famous of which is "Columbia." From
+several stirring war songs, the most famous of which is "[[Columbia]]." From
 1778 until 1783 he lived at Northampton, studying, farming, preaching,
 and dabbling in politics. From 1783 until 1795 he was pastor of the
 Congregational church at Greenfield Hill, Connecticut, where he opened
@@ -29,10 +29,10 @@ College, and by his judicious management, by his remarkable ability as a
 teacher--he taught a variety of subjects, including theology,
 metaphysics, logic, literature and oratory,--and by his force of
 character and magnetic personality, won great popularity and influence,
-and restored that institution to the high place from which it had fallen
+and restored that institution to the [[High Place|high place]] from which it had fallen
 before his appointment. President Dwight was also well known as an
 author. In verse he wrote an ambitious epic in eleven books, _The
-Conquest of Canaan_, finished in 1774, but not published until 1785; a
+Conquest of [[Canaan]]_, finished in 1774, but not published until 1785; a
 somewhat ponderous and solemn satire, _The Triumph of Infidelity_
 (1788), directed against Hume, Voltaire and others; _Greenfield Hill_
 (1794), the suggestion for which seems to have been derived from John
@@ -57,8 +57,8 @@ His fifth son, SERENO EDWARDS DWIGHT (1786-1850), born in Greenfield
 Hill, Connecticut, graduated at Yale in 1803, was a tutor there in
 1806-1810, and successfully practised law in New Haven in 1810-1816.
 Licensed to preach in 1816, he was the chaplain of the United States
-Senate for one year, was pastor of the Park Street church, Boston, in
-1817-1826, and in 1833-1835 was president of Hamilton College, Clinton,
+Senate for one year, was pastor of the Park Street church, [[Boston]], in
+1817-1826, and in 1833-1835 was president of Hamilton College, [[Clinton]],
 New York. His career was wrecked by accidental mercury poisoning, which
 interfered with his work in Boston and at Hamilton College, and made his
 life after 1839 solitary and comparatively uninfluential. His
@@ -72,7 +72,7 @@ preacher.
 President Dwight's grandson, TIMOTHY DWIGHT (1828-   ), a famous
 preacher and educationalist, was born at Norwich, Connecticut, on the
 16th of November 1828. He graduated at Yale in 1849, continued his
-studies there and at Bonn and Berlin, was professor of sacred literature
+studies there and at [[Bonn]] and Berlin, was professor of sacred literature
 and New Testament Greek in the Yale Divinity School from 1858 to 1886,
 was licensed to preach in 1861, and from 1886 to 1899 was president of
 Yale, which during his administration greatly prospered and became in

@@ -4,7 +4,7 @@ CORUNDUM, a mineral composed of native alumina (Al2O3). remarkable for
 its hardness, and forming in its finer varieties a valuable gem-stone.
 Specimens were sent from India to England in the 18th century, and were
 described in 1798 by the Hon. C. Greville under the name of corundum--a
-word which he believed to be the native name of the stone (Hindi,
+word which he believed to be the native name of the stone ([[Hindi]],
 _kurund_; Tamil, _kurundam_; Sanskrit, _kuruvinda_, "ruby"). The finely
 coloured, transparent varieties include such gem-stones as the ruby and
 sapphire, whilst the impure granular and massive forms are known as
@@ -34,23 +34,23 @@ crystal, which have been studied by Prof. J. W. Judd.
 Next to diamond, corundum is the hardest known mineral. Its hardness is
 generally given as 9, but there are slight variations in different
 stones, sapphire being rather harder than ruby, and ruby than common
-corundum. The colours are very varied, and it is probable that iron is
+corundum. The [[Colours|colours]] are very varied, and it is probable that iron is
 responsible for many of the tints, though chromium is a possible agent
 in certain cases. The transparent varieties are often distinguished as
 "Oriental" stones. (See RUBY and SAPPHIRE.) Corundum is used largely for
 watch-jewels, and for bearings in electrical apparatus.
 
 The coloured corundums fit for gem-stones come chiefly from Ceylon,
-Burma, Siam and Montana. Coarse dull corundum is found in many
+[[Burma]], Siam and Montana. Coarse dull corundum is found in many
 localities, and usually has higher commercial value as an abrasive agent
 than emery, which is less pure. The coarse corundum, however, is often
 partially hydrated or otherwise altered, whereby its hardness is
 diminished. In India, where the native lapidaries use corundum-sticks
-and rubbers formed of the powdered mineral cemented with lac, it occurs
+and rubbers formed of the powdered mineral cemented with [[Lac|lac]], it occurs
 in the Salem district, Madras, in Mysore and in Rewa. Large deposits of
 corundum exist in the United States, especially in N. Carolina and
 Georgia, where they are associated with peridotites, often near contact
-with gneiss. The mineral has been extensively worked, as at Corundum
+with [[Gneiss|gneiss]]. The mineral has been extensively worked, as at Corundum
 Hill, Macon county, N.C., near which, in 1871, were discovered numerous
 rubies, sapphires and pebbles of coarse corundum in the bed of a river.
 Corundum occurs also at many localities in Montana, where the crystals
@@ -62,10 +62,10 @@ a molten magma, from which it separated at an early period of
 consolidation, as illustrated by the experiments of J. Morozewicz.
 Corundum occurs also in Canada in an igneous rock, a nepheline-syenite,
 associated with Laurentian gneiss. Important deposits were discovered by
-the Geological Survey in 1896, in Hastings county, Ontario; and corundum
+the Geological Survey in 1896, in [[Hastings]] county, Ontario; and corundum
 is now worked there and in Renfrew county. New South Wales, Queensland
 and Victoria are other localities for corundum. The mineral is found
-also in the Urals and the Ilmen Mountains, in the Alps (in dolomite), in
+also in the Urals and the Ilmen Mountains, in the Alps (in [[Dolomite|dolomite]]), in
 the basalts of the Rhine, and indeed as a subordinate rock-constituent
 corundum seems to enjoy a wide distribution, being found even in the
 British Isles.

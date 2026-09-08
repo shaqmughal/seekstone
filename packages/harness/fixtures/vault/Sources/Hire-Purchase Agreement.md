@@ -7,19 +7,19 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Hire-Purch
 
 # Hire-Purchase Agreement
 
-HIRE-PURCHASE AGREEMENT, in the law of contract, a form of bailment of
-goods, on credit, which has extended very considerably of late years.
+HIRE-PURCHASE AGREEMENT, in the law of contract, a form of [[Bailment|bailment]] of
+goods, on [[Credit|credit]], which has extended very considerably of late years.
 Originally applied to the sale of the more expensive kinds of goods,
 such as pianos and articles of furniture, the hire-purchase agreement
 has now been extended to almost every description. The agreement is
 usually in writing, with a stipulation that the payments to purchase
-shall be by weekly, monthly or other instalments. The agreement is
+shall be by weekly, monthly or other [[Instalment|instalments]]. The agreement is
 virtually one to purchase, but in order that the vendor may be able to
 recover the goods at any time on non-payment of an instalment, it is
 treated as an agreement to let and hire, with a provision that when the
 last instalment has been paid the goods shall become the property of the
-hirer. A clause provides that in case of default of any instalment, or
-breach of any part of the agreement, all previous payments shall be
+hirer. A clause provides that in case of [[Default|default]] of any instalment, or
+[[Breach|breach]] of any part of the agreement, all previous payments shall be
 forfeited to the lender, who can forcibly recover the goods. Such
 agreements, therefore, do not pass the property in the goods, which
 remains in the lender until all the instalments have been paid. But the
@@ -35,7 +35,7 @@ of them and give a good title. The doctrine of reputed ownership, by
 which a bankrupt is deemed the reputed owner of goods in his apparent
 possession, has been somewhat modified by trade customs, in accordance
 with which property is frequently let out on the hire-purchase system
-(see BANKRUPTCY).
+(see [[Bankruptcy|BANKRUPTCY]]).
 
 ## References
 

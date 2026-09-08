@@ -7,7 +7,7 @@ type: article
 
 # Louis
 
-LOUIS (804-876) surnamed the "German," king of the East Franks, was the
+LOUIS (804-876) surnamed the "German," king of the East [[Franks]], was the
 third son of the emperor Louis I. and his wife Irmengarde. His early
 years were partly spent at the court of his grandfather Charlemagne,
 whose special affection he is said to have won. When the emperor Louis
@@ -19,7 +19,7 @@ Bavaria, and sister of his stepmother Judith; and he soon began to
 interfere in the quarrels arising from Judith's efforts to secure a
 kingdom for her own son Charles, and the consequent struggles of Louis
 and his brothers with the emperor Louis I. (q.v.). When the elder Louis
-died in 840 and his eldest son Lothair claimed the whole Empire, Louis
+died in 840 and his eldest son [[Lothair]] claimed the whole Empire, Louis
 in alliance with his half-brother, king Charles the Bald, defeated
 Lothair at Fontenoy on the 25th of June 841. In June 842 the three
 brothers met on an island in the Sâone to negotiate a peace, and each
@@ -27,7 +27,7 @@ appointed forty representatives to arrange the boundaries of their
 respective kingdoms. This developed into the treaty of Verdun concluded
 in August 843, by which Louis received the bulk of the lands of the
 Carolingian empire lying east of the Rhine, together with a district
-around Spires, Worms and Mainz, on the left bank of the river. His
+around Spires, Worms and [[Mainz]], on the left bank of the river. His
 territories included Bavaria, where he made Regensburg the centre of his
 government, Thuringia, Franconia and Saxony. He may truly be called the
 founder of the German kingdom, though his attempts to maintain the unity
@@ -38,10 +38,10 @@ successful in freeing his shores from the ravages of Danish pirates. At
 his instance synods and assemblies were held where laws were decreed
 for the better government of church and state. In 853 and the following
 years Louis made more than one attempt to secure the throne of
-Aquitaine, which the people of that country offered him in their disgust
+[[Aquitaine]], which the people of that country offered him in their disgust
 with the cruel misrule of Charles the Bald. But though he met with
 sufficient success to encourage him to issue a charter in 858, dated
-"the first year of the reign in West Francia," treachery and desertion
+"the first year of the reign in West Francia," treachery and [[Desertion|desertion]]
 in his army, and the loyalty to Charles of the Aquitanian bishops
 brought about the failure of the enterprise, which Louis renounced by a
 treaty signed at Coblenz on the 7th of June 860.
@@ -63,7 +63,7 @@ Moravians. Charles the Bald accordingly seized the whole kingdom; but
 Louis, having recovered, compelled him by a threat of war to agree to
 the treaty of Mersen, which divided it between the claimants. The later
 years of Louis were troubled by risings on the part of his sons, the
-eldest of whom, Carloman, revolted in 861 and again two years later; an
+eldest of whom, [[Carloman]], revolted in 861 and again two years later; an
 example that was followed by the second son Louis, who in a further
 rising was joined by his brother Charles. A report that the emperor
 Louis II. was dead led to peace between father and sons. The emperor,
@@ -77,21 +77,21 @@ Carloman as his successor, died in August 875, but Charles the Bald
 reached Italy before his rival, and by persuading Carloman, when he did
 cross the Alps, to return, secured the imperial crown. Louis was
 preparing for war when he died on the 28th of September 876 at
-Frankfort, and was buried at Lorsch, leaving three sons and three
+[[Frankfort]], and was buried at Lorsch, leaving three sons and three
 daughters. Louis was in war and peace alike, the most competent of the
 descendants of Charlemagne. He obtained for his kingdom a certain degree
 of security in face of the attacks of Normans, Hungarians, Moravians and
 others. He lived in close alliance with the Church, to which he was very
-generous, and entered eagerly into schemes for the conversion of his
-heathen neighbours.
+generous, and entered eagerly into schemes for the [[Conversion|conversion]] of his
+[[Heathen|heathen]] neighbours.
 
   See _Annales Fuldenses_; _Annales Bertiniani_; Nithard, _Historiarum
   Libri_, all in the _Monumenta Germaniae historica_. _Scriptores_,
-  Bände i. and ii. (Hanover and Berlin, 1826 seq.); E. Dümmler,
+  Bände i. and ii. ([[Hanover]] and Berlin, 1826 seq.); E. Dümmler,
   _Geschichte des ostfränkischen Reiches_ (Leipzig, 1887-1888); Th.
   Sickel, _Die Urkunden Ludwigs des Deutschen_ (Vienna, 1861-1862); E.
   Mühlbacher, _Die Regesten des Kaiserreichs unter den Karolingern_
-  (Innsbruck, 1881); and A. Krohn, _Ludwig der Deutsche_ (Saarbrücken,
+  ([[Innsbruck]], 1881); and A. Krohn, _Ludwig der Deutsche_ (Saarbrücken,
   1872).     (A. W. H.*)
 
 ## See also

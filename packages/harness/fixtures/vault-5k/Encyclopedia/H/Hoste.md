@@ -17,8 +17,8 @@ the "Mutine" brig after the battle of the Nile, at which he was present
 as lieutenant of the "Theseus." In 1802 he was promoted post captain by
 Lord St Vincent. During all his active career, he was employed in the
 Mediterranean and the Adriatic. From 1808 to 1814 he held the command of
-a detached force of frigates, and was engaged in operations against the
-French who held Dalmatia at the time, and in watching, or, when they
+a detached force of [[Frigate|frigates]], and was engaged in operations against the
+French who held [[Dalmatia]] at the time, and in watching, or, when they
 came out, fighting, the ships of the squadron formed at Venice by
 Napoleon's orders. The work was admirably done, and was also lucrative;
 and Hoste, although he occasionally complained that his exertions did
@@ -41,7 +41,7 @@ go to sea, and he died on the 6th of December 1828. He married Lady
 Harriet Walpole in April 1817, and left three sons and three daughters.
 
   In 1833 his widow published his _Memoirs and Letters_. See also
-  Marshall, _Roy. Nav. Biog._ vol. iii., and James, _Naval History_.
+  [[Marshall]], _Roy. Nav. Biog._ vol. iii., and James, _Naval History_.
 
 ## References
 

@@ -14,7 +14,7 @@ necessary to consider some of the analogies which they present.
 1. _General Phenomena._--There are two chief varieties of the process of
 fusion, namely, crystalline and amorphous, which are in many ways
 distinct, although it is possible to find intermediate cases which
-partake of the characteristics of both. The melting of ice may be taken
+partake of the characteristics of both. The melting of [[Ice|ice]] may be taken
 as a typical case of crystalline fusion. The passage from rigid solid to
 mobile liquid occurs at a definite surface without any intermediate
 stage or plastic condition. The change takes place at a definite
@@ -41,7 +41,7 @@ deg. C. into the monosymmetric form which melts at 120 deg., but if
 heated rapidly the rhombic form melts at 114.5. The two forms, rhombic
 and monosymmetric, can exist in equilibrium at 95.6 deg., the transition
 point at which they have the same vapour pressure. Similarly a solid
-solution of carbon in iron, when cooled slowly, passes at about 700 deg.
+solution of [[Carbon|carbon]] in iron, when cooled slowly, passes at about 700 deg.
 C., with considerable evolution of heat, into the form of "pearlite,"
 which is soft when cold, but if rapidly chilled the carbon remains in
 solution and the steel is very hard (see also ALLOYS).
@@ -59,10 +59,10 @@ fully studied and their phenomena greatly elucidated in recent years.
 
 There is also a sub-variety of amorphous fusion, which may be styled
 colloid or gelatinous, and may be illustrated by the behaviour of
-solutions of water in gelatin. Many of these jellies melt at a fairly
+solutions of water in [[Gelatin|gelatin]]. Many of these jellies melt at a fairly
 definite temperature on heating, and coagulate or set at a definite
 temperature on cooling. But in some cases the process is not reversible,
-and there is generally marked hysteresis, the temperature of setting and
+and there is generally marked [[Hysteresis|hysteresis]], the temperature of setting and
 other phenomena depending on the rate of cooling. This case has not yet
 been fully worked out; but it appears probable that in many cases the
 jelly possesses a spongy framework of solid, holding liquid in its
@@ -77,7 +77,7 @@ containing a large proportion of silica, amorphous and crystalline
 solidification may occur together. In this case the crystals separate
 first during the process of cooling, the mother liquor increases
 gradually in viscosity, and finally sets as an amorphous ground-mass or
-matrix, in which crystals of different kinds and sizes, formed at
+[[Matrix|matrix]], in which crystals of different kinds and sizes, formed at
 different stages of the cooling, remain embedded. The formation of
 crystals in an amorphous solid after it has set is also of frequent
 occurrence. It is termed devitrification, but is a very slow process
@@ -113,8 +113,8 @@ constancy of temperature in the case of homogeneous crystalline solids.
   Potassium    62.5 deg.     Aluminium    655 deg.
   Sodium       95.6 deg.     Silver       962 deg.
   Tin         231.9 deg.     Gold        1064 deg.
-  Bismuth     269.2 deg.     Copper      1082 deg.
-  Cadmium     320.7 deg.     Nickel      1427 deg.
+  [[Bismuth]]     269.2 deg.     Copper      1082 deg.
+  [[Cadmium]]     320.7 deg.     Nickel      1427 deg.
   Lead        327.7 deg.     Palladium   1535 deg.
   Zinc        419.0 deg.     Platinum    1710 deg.
 
@@ -133,13 +133,13 @@ which would assist the molecules to rearrange themselves. A liquid in
 this state is said to be "undercooled" or "superfused." The phenomenon
 is even more familiar in the case of solutions (e.g. sodium sulphate or
 acetate) which may remain in the "metastable" condition for an
-indefinite time if protected from dust, &c. The introduction into the
+indefinite time if protected from [[Dust|dust]], &c. The introduction into the
 liquid under this condition of the smallest fragment of the crystal,
 with respect to which the solution is supersaturated, will produce
 immediate crystallization, which will continue until the temperature is
 raised to the saturation point by the liberation of the latent heat of
 fusion. The constancy of temperature at the normal freezing point is due
-to the equilibrium of exchange existing between the liquid and solid.
+to the equilibrium of [[Exchange|exchange]] existing between the liquid and solid.
 Unless both solid and liquid are present, there is no condition of
 equilibrium, and the temperature is indeterminate.
 
@@ -159,8 +159,8 @@ VAPORIZATION) when the supersaturation exceeds a certain limit.
   the effect of pressure is to retard increase of volume. This effect
   was first predicted by James Thomson on the analogy of the effect of
   pressure on the boiling point, and was numerically verified by Lord
-  Kelvin in the case of ice, and later by Bunsen in the case of paraffin
-  and spermaceti. The equation by which the change of the F.P. is
+  [[Kelvin]] in the case of ice, and later by [[Bunsen]] in the case of paraffin
+  and spermaceti. The [[Equation|equation]] by which the change of the F.P. is
   calculated may be proved by a simple application of the Carnot cycle,
   exactly as in the case of vapour and liquid. (See THERMODYNAMICS.) If
   L be the latent heat of fusion in mechanical units, v' the volume of
@@ -184,10 +184,10 @@ VAPORIZATION) when the supersaturation exceeds a certain limit.
   pressure is so small, it produces, as is well known, remarkable
   results in the motion of glaciers, the moulding and regelation of ice,
   and many other phenomena. It has also been employed to explain the
-  apparent inversion of the order of crystallization in rocks like
+  apparent [[Inversion|inversion]] of the order of crystallization in rocks like
   granite, in which the arrangement of the crystals indicates that the
   quartz matrix solidified subsequently to the crystals of felspar,
-  mica or hornblende embedded in it, although the quartz has a higher
+  mica or [[Hornblende|hornblende]] embedded in it, although the quartz has a higher
   melting point. It is contended that under enormous pressure the
   freezing points of the more fusible constituents might be raised above
   that of the quartz, if the latter is less affected by pressure. Thus
@@ -291,7 +291,7 @@ solution is saturated with respect to both salt and ice. The
 concentration cannot vary further, and the temperature remains constant,
 while the salt and ice crystallize out together, maintaining the exact
 proportions in which they exist in the solution. The resulting solid was
-termed a cryohydrate by F. Guthrie, but it is really an intimate mixture
+termed a cryohydrate by F. [[Guthrie]], but it is really an intimate mixture
 of two kinds of crystals, and not a chemical compound or hydrate
 containing the constituents in chemically equivalent proportions. The
 lowest temperature attainable by means of a freezing mixture is the
@@ -323,7 +323,7 @@ different alloys of suitably chosen composition, and to observe the
 freezing points of each separately. Each alloy should also be analysed
 after the process if there is any risk of its composition having been
 altered by oxidation or otherwise. The freezing points are generally
-best determined by observing the gradual cooling of a considerable mass,
+best determined by observing the [[Gradual|gradual]] cooling of a considerable mass,
 which is well stirred so long as it remains liquid. The curve of cooling
 may most conveniently be recorded, either photographically, using a
 thermocouple and galvanometer, as in the method of Sir W.
@@ -339,7 +339,7 @@ another metal B added. The freezing begins at a lower temperature with
 the separation of pure A. The temperature no longer remains constant
 during freezing, but falls more and more rapidly as the proportion of B
 in the liquid increases. When the eutectic temperature is reached there
-is a second F.P. or arrest at which the whole of the remaining liquid
+is a second F.P. or [[Arrest|arrest]] at which the whole of the remaining liquid
 solidifies. With 20% of B the first F.P. is further lowered, and the
 temperature falls faster. The eutectic F.P. is of longer duration, but
 still at the same temperature. For an alloy of the composition of the
@@ -369,7 +369,7 @@ other way.
 
   where M is the molecular weight of the salt in solution, [theta] the
   absolute temperature, and R a constant which has the value 8.32
-  joules, or nearly 2 calories, per degree C. It is necessary to
+  [[Joule|joules]], or nearly 2 calories, per degree C. It is necessary to
   consider two cases, corresponding to the curves CB and AB in fig. 1,
   in which the solution is saturated with respect to salt and water
   respectively. To facilitate description we take the case of a salt
@@ -394,7 +394,7 @@ other way.
 
   which may be integrated, assuming Q constant, with the result
 
-    2log_eC" / C' = Q / [theta]' - Q / [theta]",   (7)
+    2[[Log|log]]_eC" / C' = Q / [theta]' - Q / [theta]",   (7)
 
   where C', C" are the concentrations of the saturated solution
   corresponding to the temperatures [theta]' and [theta]". This
@@ -404,7 +404,7 @@ other way.
   the solubility increases with rise of temperature if heat is absorbed
   in the formation of the saturated solution, which is the usual case.
   If, on the other hand, heat is liberated on solution, as in the case
-  of caustic potash or sulphate of calcium, the solubility diminishes
+  of [[Caustic|caustic]] potash or sulphate of calcium, the solubility diminishes
   with rise of temperature.
 
   (b) In the case of a solution saturated with respect to ice (curve
@@ -430,18 +430,18 @@ other way.
   Equation (8) may be used to calculate L or M, if either is known, from
   observations of t, [theta] and w/W. The results obtained are
   sufficiently approximate to be of use in many cases in spite of the
-  rather liberal assumptions and approximations effected in the course
+  rather liberal [[Assumption|assumptions]] and approximations effected in the course
   of the reasoning. In any case the equations give a simple theoretical
   basis with which to compare experimental data in order to estimate the
-  order of error involved in the assumptions. We may thus estimate the
+  order of [[Error|error]] involved in the assumptions. We may thus estimate the
   variation of the osmotic pressure from the value given by the gaseous
   equation, as the concentration of the solution or the molecular
-  dissociation changes. The most uncertain factor in the formula is the
+  [[Dissociation|dissociation]] changes. The most uncertain factor in the formula is the
   molecular weight M, since the molecule in solution may be quite
   different from that denoted by the chemical formula of the solid. In
   many cases the molecule of a metal in dilute solution in another metal
   is either monatomic, or forms a compound molecule with the solvent
-  containing one atom of the dissolved metal, in which case the
+  containing one [[Atom|atom]] of the dissolved metal, in which case the
   molecular depression is given by putting the atomic weight for M. In
   other cases, as Cu, Hg, Zn, in solution in cadmium, the depression of
   the F.P. per atom, according to Heycock and Neville, is only half as
@@ -451,7 +451,7 @@ other way.
   in proportions which vary according to the temperature and
   concentration. The most familiar case is that of an electrolyte, in
   which the molecule of the dissolved substance is partly dissociated
-  into ions. In such cases the degree of dissociation may be estimated
+  into [[Ion|ions]]. In such cases the degree of dissociation may be estimated
   by observing the depression of the F.P., but the results obtained
   cannot always be reconciled with those deduced by other methods, such
   as measurement of electrical conductivity, and there are many
@@ -478,7 +478,7 @@ crystals of the hydrate are in equilibrium with the saturated solution.
 At any given temperature the hydrate possessing the least solubility is
 the most stable. If two are present in contact with the same solution,
 the more soluble will dissolve, and the less soluble will be formed at
-its expense until the conversion is complete. The two hydrates cannot be
+its expense until the [[Conversion|conversion]] is complete. The two hydrates cannot be
 in equilibrium with the same solution except at the temperature at which
 their solubilities are equal, i.e. at the point where the corresponding
 curves of solubility intersect. This temperature is called the

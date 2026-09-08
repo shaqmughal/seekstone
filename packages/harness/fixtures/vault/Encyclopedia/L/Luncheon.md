@@ -7,14 +7,14 @@ topic: biography
 # Luncheon
 
 LUNCHEON, in present usage the name given to a meal between breakfast
-and tea or dinner. When dinner was taken at an early hour, or when it is
+and tea or [[Dinner|dinner]]. When dinner was taken at an early hour, or when it is
 still the principal midday meal, luncheon was and is still a light
 repast. The derivation of the word has been obscured, chiefly owing to
 the attempted connexion with "nuncheon," with which the word has nothing
 to do etymologically. "Luncheon" is an extended form of "lunch" (another
 form of "lump," as "hunch" is of "hump"). Lunch and luncheon in the
 earliest meanings found are applied to a thick piece of bread, bacon,
-meat, &c.
+[[Meat|meat]], &c.
 
   The word "nuncheon," or "nunchion," with which "luncheon" has been
   frequently connected, appears as early as the 14th century in the form

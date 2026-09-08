@@ -7,9 +7,9 @@ type: note
 
 # Foligno
 
-FOLIGNO (anc. _Fulginiae_, q.v.), a town and episcopal see of Umbria,
+FOLIGNO (anc. _[[Fulginiae]]_, q.v.), a town and episcopal see of Umbria,
 Italy, 771 ft. above sea-level, in the province of Perugia, from which
-it is 25 m. S.E. by rail. Pop. (1901) 9532 (town), 26,278 (commune). It
+it is 25 m. S.E. by rail. Pop. (1901) 9532 (town), 26,278 ([[Commune|commune]]). It
 lies in a fertile plain, on the Topino, a tributary of the Tiber; it is
 almost square in shape and is surrounded by walls. It is a picturesque
 and interesting town; several of its churches contain paintings by
@@ -18,12 +18,12 @@ Alunno, 1430-1502), and among them his chief work, a large altar-piece
 (the predella of which is in the Louvre) in S. Niccolò. The cathedral
 has a romanesque S. façade of 1133, restored in 1903; the interior was
 modernized in the 18th century. To the left of the choir is an octagonal
-chapel by Antonio da Sangallo the younger (1527). In the same piazza as
+chapel by [[Antonio]] da Sangallo the younger (1527). In the same piazza as
 the S. façade is the Palazzo del Governo, erected in 1350, which has a
 chapel with frescoes by Ottaviano Nelli of Gubbio (1424). S. Maria infra
 Portas is said to date from the 7th century, but from this period only
 the columns of the portico remain. Raphael's "Madonna di Foligno," now
-in the Vatican, was originally painted for the church of S. Anna. The
+in the Vatican, was originally painted for the church of S. [[Anna]]. The
 Palazzo Orfini and the Palazzo Deli are two good Renaissance buildings.
 
 Foligno seems to have been founded about the middle of the 8th century

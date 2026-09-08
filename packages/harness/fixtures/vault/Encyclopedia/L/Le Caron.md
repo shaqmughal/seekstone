@@ -1,14 +1,14 @@
 # Le Caron
 
-LE CARON, HENRI (whose real name was THOMAS MILLER BEACH) (1841-1894),
-British secret service agent, was born at Colchester, on the 26th of
+LE CARON, HENRI (whose real name was THOMAS MILLER [[Beach|BEACH]]) (1841-1894),
+British secret service agent, was born at [[Colchester]], on the 26th of
 September 1841. He was of an adventurous character, and when nineteen
 years old went to Paris, where he found employment in business connected
 with America. Infected with the excitement of the American Civil War, he
 crossed the Atlantic in 1861 and enlisted in the Northern army, taking
 the name of Henri Le Caron. In 1864 he married a young lady who had
 helped him to escape from some Confederate marauders; and by the end of
-the war he rose to be major. In 1865, through a companion in arms named
+the war he rose to be [[Major|major]]. In 1865, through a companion in arms named
 O'Neill, he was brought into contact with Fenianism, and having learnt
 of the Fenian plot against Canada, he mentioned the designs when writing
 home to his father. Mr Beach told his local M.P., who in turn told the

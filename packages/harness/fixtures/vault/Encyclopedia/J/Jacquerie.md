@@ -15,7 +15,7 @@ led to the rising, though the immediate occasion was an affray which
 took place on the 28th of May at the village of Saint-Leu between
 "brigands" (militia infantry armoured in brigandines) and countryfolk.
 The latter having got the upper hand united with the inhabitants of the
-neighbouring villages and placed Guillaume Karle at their head. They
+neighbouring villages and placed [[Guillaume]] Karle at their head. They
 destroyed numerous châteaux in the valleys of the Oise, the Brèche and
 the Thérain, where they subjected the whole countryside to fire and
 sword, committing the most terrible atrocities. Charles the Bad, king of

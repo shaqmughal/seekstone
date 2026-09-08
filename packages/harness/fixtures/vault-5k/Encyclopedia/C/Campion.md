@@ -2,16 +2,16 @@
 
 CAMPION, THOMAS (1567-1620), English poet and musician, was born in
 London on the 12th of February 1567, and christened at St Andrew's,
-Holborn. He was the son of John Campion of the Middle Temple, who was by
+[[Holborn]]. He was the son of John Campion of the Middle Temple, who was by
 profession one of the cursitors of the chancery court, the clerks "of
 course," whose duties were to draft the various writs and legal
 instruments in correct form. His mother was Lucy Searle, daughter of
 Laurence Searle, one of the queen's serjeants-at-arms. Upon the death of
 Campion's father in 1576, his mother married Augustine Steward and died
-herself soon after. Steward acted for some years as guardian of the
+herself soon after. Steward acted for some years as [[Guardian|guardian]] of the
 orphan, and sent him in 1581, together with Thomas Sisley, his stepson
 by his second wife Anne, relict of Clement Sisley, to Peterhouse,
-Cambridge, as a gentleman pensioner. He studied at Cambridge for four
+Cambridge, as a [[Gentleman|gentleman]] pensioner. He studied at Cambridge for four
 years, and left the university, it would appear, without a degree, but
 strongly imbued with those tastes for classical literature which
 exercised such powerful influence upon his subsequent work. In April
@@ -42,19 +42,19 @@ following year he published his _Observations in the Art of English
 Poesie_, "against the vulgar and unartificial custom of riming," in
 favour of rhymeless verse on the model of classical quantitative poetry.
 Its appearance at this stage was important as the final statement of the
-crazy prejudice by one of its sanest and best equipped champions, but
-the challenge thus thrown down was accepted by Daniel, who in his
+crazy prejudice by one of its sanest and best equipped [[Champion|champions]], but
+the challenge thus thrown down was accepted by [[Daniel]], who in his
 _Defence of Ryme_, published the same year, finally demolished the
 movement.
 
 In 1607 he wrote and published a masque for the occasion of the marriage
-of Lord Hayes, and in 1613 he issued a volume of _Songs of Mourning_
+of Lord [[Hay|Hayes]], and in 1613 he issued a volume of _Songs of Mourning_
 (set to music by Coperario or John Cooper) for the loss of Prince Henry,
 which was sincerely lamented by the whole English nation. The same year
 he wrote and arranged three masques, the _Lords' Masque_ for the
 marriage of Princess Elizabeth, an entertainment for the amusement of
 Queen Anne at Caversham House, and a third for the marriage of the earl
-of Somerset to the infamous Frances Howard, countess of Essex. If,
+of Somerset to the infamous [[Franc|Frances]] [[Howard]], countess of Essex. If,
 moreover, as appears quite likely, his _Two Bookes of Ayres_ (both words
 and music written by himself) belongs also to this year, it was indeed
 his _annus mirabilis_.
@@ -87,26 +87,26 @@ Mr A.H. Bullen, who first published a collection of the poet's works in
 foremost rank of Elizabethan lyric poets restored to him.
 
 Campion set little store by his English lyrics; they were to him "the
-superfluous blossoms of his deeper studies," but we may thank the fates
+superfluous blossoms of his deeper studies," but we may thank the [[Fate|fates]]
 that his precepts of rhymeless versification so little affected his
 practice. His rhymeless experiments are certainly better conceived than
 many others, but they lack the spontaneous grace and freshness of his
 other poetry, while the whole scheme was, of course, unnatural. He must
-have possessed a very delicate musical ear, for not one of his songs is
+have possessed a very delicate musical [[Ear|ear]], for not one of his songs is
 unmusical; moreover, the fact of his composing both words and music gave
 rise to a metrical fluidity which is one of his most characteristic
 features. Rarely indeed are his rhythms uniform, while they frequently
 shift from line to line. His range was very great both in feeling and
 expression, and whether he attempts an elaborate epithalamium or a
 simple country ditty, the result is always full of unstudied freshness
-and tuneful charm. In some of his sacred pieces he is particularly
+and tuneful [[Charm|charm]]. In some of his sacred pieces he is particularly
 successful, combining real poetry with genuine religious fervour.
 
   BIBLIOGRAPHY.--_Works_, &c., ed. A.H. Bullen (1889) excluding _A New
   Way_, &c.; _Songs and Masques_, ed. A.H. Bullen (1903), with an
-  introduction on Campion's music by Janet Dodge; _Poems_, &c. (in
+  introduction on Campion's music by [[Janet]] Dodge; _Poems_, &c. (in
   English), ed. P. Vivian (1907); _Complete Works_, ed. P. Vivian
-  (Clarendon Press, 1908). The "Observations in the Art of English
+  ([[Clarendon]] Press, 1908). The "Observations in the Art of English
   Poesie" are also published in Haslewood's _Ancient Critical Essays_
   and Gregory Smith's _Elizabethan Critical Essays_, vol. ii. (1903).
        (P. Vn.)

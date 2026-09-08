@@ -16,14 +16,14 @@ Prophet, he was probably regarded by strict Moslems as a scandal, whose
 name should not, if possible, be mentioned. His great-grandfather,
 Idrisi II., "Biamrillah," a member of the great princely house which had
 reigned for a time as caliphs in north-west Africa, was prince of
-Malaga, and likewise laid claim to the supreme title (Commander of the
+Malaga, and likewise laid claim to the supreme title ([[Commander]] of the
 Faithful). After his death in 1055, Malaga was seized by Granada (1057),
 and the Idrisi family then probably migrated to Ceuta, where a freedman
 of theirs held power. Here the geographer appears to have been born in
-A.H. 493 (A.D. 1099). He is said to have studied at Cordova, and this
+A.H. 493 (A.D. 1099). He is said to have studied at [[Cordova]], and this
 tradition is confirmed by his elaborate and enthusiastic description of
-that city in his geography. From this work we know that he had visited,
-at some period of his life before A.D. 1154, both Lisbon and the mines
+that city in his [[Geography|geography]]. From this work we know that he had visited,
+at some period of his life before A.D. 1154, both [[Lisbon]] and the mines
 of Andalusia. He had also once resided near Morocco city, and once was
 at (Algerian) Constantine. More precisely, he tells us that in A.D. 1117
 he went to see the cave of the Seven Sleepers at Ephesus; he probably
@@ -35,17 +35,17 @@ for the Norman king a celestial sphere and a disk representing the known
 world of his day--both in silver. These only absorbed one-third of the
 metal that had been given him for the work, but Roger bestowed on him
 the remaining two-thirds as a present, adding to this 100,000 pieces of
-money and the cargo of a richly-laden ship from Barcelona. Roger next
+money and the [[Cargo|cargo]] of a richly-laden ship from [[Barcelona]]. Roger next
 enlisted Idrisi's services in the compilation of a fresh description of
 the "inhabited earth" from observation, and not merely from books. The
-king and his geographer chose emissaries whom they sent out into various
+king and his geographer [[Chose|chose]] emissaries whom they sent out into various
 countries to observe, record and design; as they returned, Idrisi
 inserted in the new geography the information they brought. Thus was
 gradually completed (by the month of Shawwal, A.H. 548 = mid-January,
 A.D. 1154), the famous work, best known, from its patron and originator,
 as _Al Rojari_, but whose fullest title seems to have been, _The going
 out of a Curious Man to explore the Regions of the Globe, its Provinces,
-Islands, Cities and their Dimensions and Situation_. This has been
+Islands, Cities and their [[Dimension|Dimensions]] and Situation_. This has been
 abbreviated to _The Amusement of him who desires to traverse the Earth_,
 or _The Relaxation of a Curious Mind_. The title of _Nubian Geography_,
 based upon Sionita and Hezronita's misreading of a passage relating to
@@ -61,7 +61,7 @@ thus formed into seventy-seven equal square compartments. The geographer
 begins with the first part of the first climate, including the
 westernmost part of the Sahara and a small (north-westerly) section of
 the Sudan (of which a vague knowledge had now been acquired by the
-Moslems of Barbary), and thence proceeds eastward through the different
+Moslems of [[Barbary]]), and thence proceeds eastward through the different
 divisions of this climate till he finds its termination in the Sea of
 China. He then returns to the first part of the second climate, and so
 proceeds till he reaches the eleventh part of the seventh climate, which
@@ -96,7 +96,7 @@ of the African coast, Egypt, Syria, Italy, France, the Adriatic
 shore-lands, Germany and the Atlantic islands. No other Arabic work
 contains a larger assortment of valuable geographical facts;
 unfortunately the place-names are often illegible or hopelessly corrupted
-in the manuscripts. Idrisi's world-map, with all its shortcomings, is
+in the [[Manuscript|manuscripts]]. Idrisi's world-map, with all its shortcomings, is
 perhaps the best product of that strangely feeble thing--the Mahommedan
 cartography of the middle ages.
 
@@ -110,7 +110,7 @@ Sicilian Mahommedan poet Ibn Bashrun.
 
   Two manuscripts of Idrisi exist in the Bibliothèque Nationale, Paris,
   and other two in the Bodleian Library, Oxford. One of the English
-  MSS., brought from Egypt by Greaves, is illustrated by a map of the
+  MSS., brought from Egypt by [[Greaves]], is illustrated by a [[Map|map]] of the
   known world, and by thirty-three sectional maps (for each part of the
   first three climates). The second manuscript, brought by Pococke from
   Syria, bears the date of A.H. 906, or A.D. 1500. It consists of 320
@@ -120,10 +120,10 @@ Sicilian Mahommedan poet Ibn Bashrun.
   of the Erythraean Sea_. A copy of Idrisi's work in the Escorial was
   destroyed by the fire of 1671.
 
-  An epitome of Idrisi's geography, in the original Arabic, was printed,
-  with many errors, in 1592 at the Medicean press in Rome, from a MS.
+  An [[Epitome|epitome]] of Idrisi's geography, in the original Arabic, was printed,
+  with many [[Error|errors]], in 1592 at the Medicean press in Rome, from a MS.
   preserved in the Grand Ducal library at Florence (_De geographia
-  universali. Hortulus cultissimus ..._ ). Even the description of Mecca
+  universali. Hortulus cultissimus ..._ ). Even the description of [[Mecca]]
   is here omitted. Pococke supplied it from his MS. In many
   bibliographical works this impression has been wrongly characterized
   as one of the rarest of books. In 1619 two Maronite scholars, Gabriel
@@ -139,7 +139,7 @@ Sicilian Mahommedan poet Ibn Bashrun.
   prepared a copy of the Arabic original, with a Latin translation,
   which he purposed to have illustrated with notes; but death
   interrupted this design, and his manuscript remains in the university
-  library of Jena. Casiri (_Bib. Ar. Hisp._ ii. 13) mentions that he had
+  library of [[Jena]]. [[Casiri]] (_Bib. Ar. Hisp._ ii. 13) mentions that he had
   determined to re-edit this work, but he appears never to have executed
   his intention. The part relating to Africa was ably edited by Johann
   Melchior Hartmann (_Commentatio de geographia Africae Edrisiana_,
@@ -147,12 +147,12 @@ Sicilian Mahommedan poet Ibn Bashrun.
   collected the notices of each region in other Moslem writers, so as to
   form, for the time, a fairly complete body of Arabic geography as to
   Africa. Hartmann afterwards published Idrisi's Spain (_Hispania_,
-  Marburg, 3 vols., 1802-1818).
+  [[Marburg]], 3 vols., 1802-1818).
 
   An (indifferent) French translation of the whole of Idrisi's geography
   (the only complete version which has yet appeared), based on one of
   the MSS. of the Bibliothèque Nationale, Paris, was published by Amédée
-  Jaubert in 1836-1840, and forms volumes v. and vi. of the _Recueil de
+  [[Jaubert]] in 1836-1840, and forms volumes v. and vi. of the _Recueil de
   voyages_ issued by the Paris Société de Géographie; but a good and
   complete edition of the original text is still a desideratum. A number
   of Oriental scholars at Leiden determined in 1861 to undertake the
@@ -171,7 +171,7 @@ Sicilian Mahommedan poet Ibn Bashrun.
   by M. Amari and C. Schiaparelli, in Arabic and Italian (Rome, 1883);
   "Syria" (_Syria descripta a ... El Edrisio ..._ ), by E. F. C.
   Rosenmüller, in Arabic and Latin, 1825, and (_Idrisii ... Syria_), by
-  J. Gildemeister (Bonn, 1885) (the last a Beilage to vol. viii. of the
+  J. Gildemeister ([[Bonn]], 1885) (the last a Beilage to vol. viii. of the
   _Zeitschrift d. deutsch. Palästina-Vereins_). See also M. Casiri,
   _Bibliotheca Arabico-Hispana Escurialensis_ (2 vols., Madrid,
   1760-1770); V. Lagus, "Idrisii notitiam terrarum Balticarum ex

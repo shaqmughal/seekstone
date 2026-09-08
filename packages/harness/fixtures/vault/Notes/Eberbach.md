@@ -10,8 +10,8 @@ id: 42-8302
 
 EBERBACH, a famous Cistercian monastery of Germany, in the Prussian
 province of Hesse-Nassau, situated near Hattenheim in the Rheingau, 10
-m. N.W. from Wiesbaden. Founded in 1116 by Archbishop Adalbert of Mainz,
-as a house of Augustinian canons regular, it was bestowed by him in 1131
+m. N.W. from Wiesbaden. Founded in 1116 by Archbishop Adalbert of [[Mainz]],
+as a house of [[Augustinian Canons|Augustinian canons]] regular, it was bestowed by him in 1131
 upon the Benedictines, but was shortly afterwards repurchased and
 conferred upon the Cistercian order. The Romanesque church (consecrated
 in 1186) contains numerous interesting monuments and tombs, notable

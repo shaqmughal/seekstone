@@ -10,15 +10,15 @@ tags: [ancient-rome, literature]
 
 GORTON, SAMUEL (c. 1600-1677), English sectary and founder of the
 American sect of Gortonites, was born about 1600 at Gorton, Lancashire.
-He was first apprenticed to a clothier in London, but, fearing
-persecution for his religious convictions, he sailed for Boston,
+He was first apprenticed to a [[Clothier|clothier]] in London, but, fearing
+persecution for his religious convictions, he sailed for [[Boston]],
 Massachusetts, in 1636. Constantly involved in religious disputes, he
 fled in turn to Plymouth, and (in 1637-1638) to Aquidneck (Newport),
-where he was publicly whipped for insulting the clergy and magistrates.
+where he was publicly whipped for insulting the clergy and [[Magistrate|magistrates]].
 In 1643 he bought land from the Narraganset Indians at Shawomet--now
 Warwick--where he was joined by a number of his followers; but he
 quarrelled with the Indians and the authorities at Boston sent soldiers
-to arrest Gorton and six of his companions. He served a term of
+to [[Arrest|arrest]] Gorton and six of his companions. He served a term of
 imprisonment for heresy at Charlestown, after which he was ejected from
 the colony. In England in 1646 he published the curious tract
 "Simplicities Defence against Seven Headed Policy" (reprinted in 1835),
@@ -32,7 +32,7 @@ end of the 18th century. They had a great contempt for the regular
 clergy and for all outward forms of religion, holding that the true
 believers partook of the perfection of God.
 
-  Among his quaint writings are: _An Incorruptible Key composed of the
+  Among his quaint writings are: _An Incorruptible [[Key]] composed of the
   CX. Psalms wherewith you may open the rest of the Scriptures_ (1647),
   and _Saltmarsh returned from the Dead_, with its sequel, _An Antidote
   against the Common Plague of the World_ (1657). See L. G. Jones,

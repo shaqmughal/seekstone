@@ -19,7 +19,7 @@ the company of obscure workmen. Rich amateurs more than once attracted
 him to their houses, only to find that in ease and high living Lantara
 could produce nothing. He died in Paris on the 22nd of December 1778.
 His works, now much prized, are not numerous; the Louvre has one
-landscape, "Morning," signed and dated 1761. Bernard, Joseph Vernet, and
+landscape, "Morning," signed and dated 1761. [[Bernard]], Joseph Vernet, and
 others are said to have added figures to his landscapes and sea-pieces.
 Engravings after Lantara will be found in the works of Lebas, Piquenot,
 Duret, Mouchy and others. In 1809 a comedy called _Lantara, or the

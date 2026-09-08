@@ -8,19 +8,19 @@ tags: [science, literature]
 
 # Hauer
 
-HAUER, FRANZ, RITTER VON (1822-1899), Austrian geologist, born in Vienna
+HAUER, [[Franz|FRANZ]], RITTER VON (1822-1899), Austrian geologist, born in Vienna
 on the 30th of January 1822, was son of Joseph von Hauer (1778-1863),
 who was equally distinguished as a high Austrian official and authority
 on finance and as a palaeontologist. He was educated in Vienna,
 afterwards studied geology at the mining academy of Schemnitz
 (1839-1843), and for a time was engaged in official mining work in
-Styria. In 1846 he became assistant to W. von Haidinger at the
+Styria. In 1846 he became assistant to W. von [[Haidinger]] at the
 mineralogical museum in Vienna; three years later he joined the imperial
 geological institute, and in 1866 he was appointed director. In 1886 he
 became superintendent of the imperial natural history museum in Vienna.
-Among his special geological works are those on the Cephalopoda of the
-Triassic and Jurassic formations of Alpine regions (1855-1856). His most
-important general work was that of the _Geological Map of
+Among his special geological works are those on the [[Cephalopoda]] of the
+Triassic and [[Jurassic]] formations of Alpine regions (1855-1856). His most
+important general work was that of the _Geological [[Map]] of
 Austro-Hungary_, in twelve sheets (1867-1871; 4th ed., 1884, including
 Bosnia and Montenegro). This map was accompanied by a series of
 explanatory pamphlets. In 1882 he was awarded the Wollaston medal by the

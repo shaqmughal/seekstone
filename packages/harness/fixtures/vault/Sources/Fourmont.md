@@ -29,7 +29,7 @@ Academy of Inscriptions, and professor of the Syriac language in the
 Royal College, and was sent by the government to copy inscriptions in
 Greece.
 
-  An account of Etienne Fourmont's life and a catalogue of his works
+  An account of Etienne Fourmont's life and a [[Catalogue|catalogue]] of his works
   will be found in the second edition (1747) of his _Reflexions
   critiques_.
 

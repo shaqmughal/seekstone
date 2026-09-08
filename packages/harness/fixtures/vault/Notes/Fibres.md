@@ -4,7 +4,7 @@ FIBRES (or FIBERS, in American spelling; from Lat. _fibra_, apparently
 connected either with _filum_, thread, or _findere_, to split), the
 general term for certain structural components of animal and vegetable
 tissue utilized in manufactures, and in respect of such uses, divided
-for the sake of classification into textile, papermaking, brush and
+for the sake of [[Classification|classification]] into textile, papermaking, brush and
 miscellaneous fibres.
 
 I. _Textile Fibres_ are mostly products of the organic world, elaborated
@@ -17,10 +17,10 @@ textiles. Other silicates are also transformed by artificial processes
 into fibrous forms, such as "glass," which is fused and drawn or spun to
 a continuous fibre, and various "slags" which, in the fused state, are
 transformed into "slag wool." Lastly, we note that a number of metals
-are drawn down to the finest dimensions, in continuous lengths, and
+are drawn down to the finest [[Dimension|dimensions]], in continuous lengths, and
 these are woven into cloth or gauze, such metallic cloths finding
 valuable applications in the arts. Certain metals in the form of fine
-wire are woven into textile fabrics used as dress materials. Such
+wire are woven into textile fabrics used as [[Dress|dress]] materials. Such
 exceptional applications are of insignificant importance, and will not
 be further considered in this article.
 
@@ -34,8 +34,8 @@ its adaptation to structural functions, first as a constituent of a
 living individual, and afterwards as a textile fibre, are homogeneous
 continuity of substance, with a high degree of interior cohesion, and
 associated with an irreducible minimum of elasticity or extensibility.
-The colloids show an infinite diversity of variations in these essential
-properties: certain of them, and notably cellulose (q.v.), maintain
+The colloids show an [[Infinite|infinite]] diversity of variations in these essential
+properties: certain of them, and notably [[Cellulose|cellulose]] (q.v.), maintain
 these characteristics throughout a cycle of transformations such as
 permit of their being brought into a soluble plastic form, in which
 condition they may be drawn into filaments in continuous length. The
@@ -44,7 +44,7 @@ already taken an established position as staple textiles. For a more
 detailed account of these products see CELLULOSE.
 
 The animal fibres are composed of nitrogenous colloids of which the
-typical representatives are the albumens, fibrines and gelatines. They
+typical representatives are the albumens, [[Fibrin|fibrines]] and [[Gelatin|gelatines]]. They
 are of highly complex constitution and their characteristics have only
 been generally investigated. The vegetable fibre substances are
 celluloses and derivatives of celluloses, also typically colloidal
@@ -102,12 +102,12 @@ conditioned by bringing the ultimate fibres into play under the drawing
 process, which immediately precedes the twisting into yarn. Such
 materials are therefore only used for the coarsest textiles, such as
 string or rope. An exception to be noted in passing is to be found in
-the pine apple (_Ananassa Sativa_) the fibres of which are worked into
+the pine [[Apple|apple]] (_Ananassa Sativa_) the fibres of which are worked into
 yarns and cloth of the finest quality. The more important fibres of this
-class are manila, sisal, phormium. A heterogeneous mass of still more
+class are [[Manila|manila]], sisal, phormium. A heterogeneous mass of still more
 complex fibre aggregates, in many cases the entire stem (cereal straws,
 esparto), in addition to being used in plaited form, e.g. in hats,
-chairs, mats, constitute the staple raw material for paper
+chairs, [[Mat|mats]], constitute the staple raw material for paper
 manufacturers, requiring a severe chemical treatment for the separation
 of the ultimate fibres.
 
@@ -126,7 +126,7 @@ the ultimate fibres and reduce them to the suitable dimensions (0.5-2.0
 mm.). These papermaking fibres have also to be reckoned with as textile
 raw materials, in view of a new and growing industry in "pulp yarns"
 (_Papierstoffgarn_), a coarse textile obtained by treating paper as
-delivered in narrow strips from the paper machine; the strips are
+delivered in narrow strips from the paper [[Machine|machine]]; the strips are
 reeled, dried to retain 30-40% moisture, and in this condition subjected
 to the twisting operation, which confers the cylindrical form and adds
 considerably to the strength of the fibrous strip. The following are the
@@ -139,7 +139,7 @@ to a cylindrical thread. The cohesion of these threads in pairs gives to
 raw silk the form of a dual cylinder (Plate I. fig. 2). For textile
 purposes the thread is reeled from the cocoon, and several units, five
 and upwards, are brought together and suitably twisted. (b) The "Wild"
-silks are produced by a large variety of insects, of which the most
+silks are produced by a large variety of [[Insect|insects]], of which the most
 important are the various species of Antherea, which yield the Tussore
 silks. These silks differ in form and composition from the true silks.
 While they consist of a "dual" thread, each unit of these is complex,
@@ -161,14 +161,14 @@ thereafter forming them into continuous lengths of parallelized units.
 This is followed by the spinning process which consists in a
 simultaneous drawing and twisting, and a continuous production of the
 yarn with the structural characteristics of worsted yarns. The shorter
-staple--from 5 to 25% of average fleeces--is prepared by the "carding"
+staple--from 5 to 25% of average fleeces--is prepared by the "[[Carding|carding]]"
 process for the spinning operation, in which drawing and twisting are
 simultaneous, the length spun being then wound up, and the process being
 consequently intermittent. This section of the industry is known as
 "woollen spinning" in contrast to the former or "_worsted_ spinning."
 
 (b) An important group of raw material closely allied to the wools are
-the epidermal hairs of the Angora goat (mohair), the llama, alpaca.
+the epidermal hairs of the Angora goat (mohair), the [[Llama|llama]], alpaca.
 Owing to their form and the nature of the substance of which they are
 composed, they possess more lustre than the wools. They present
 structural differences from sheep wools which influence the processes by
@@ -232,7 +232,7 @@ morphological structural characteristics of the vegetable fibres:--
 
   Produced from
 
-  _Dicotyledons._      _Monocotyledons._
+  _[[Dicotyledons]]._      _Monocotyledons._
 
   A. Seed hairs.       D. Fibro-vascular bundles.
   B. Bast fibres.      E. Entire leaves and stems.
@@ -243,7 +243,7 @@ capital letter immediately following the name refers the individual to
 its position in this classification. In reference to the important
 question of chemical composition and the actual nature of the fibre
 substance, it may be premised that the vegetable fibres are composed of
-cellulose, an important representative of the group of carbohydrates, of
+cellulose, an important representative of the group of [[Carbohydrate|carbohydrates]], of
 which the cotton fibre substance is the chemical prototype, mixed and
 combined with various derivatives belonging to the subgroups. (a)
 Carbohydrates. (b) Unsaturated compounds of benzenoid and furfuroid
@@ -267,12 +267,12 @@ main characteristics of the fibre substances. (See also CELLULOSE.)
 _Miscellaneous._--Various species of the family Palmaceae yield fibrous
 products of value, of which mention must be made of the following.
 _Raffia_, epidermal strips of the leaves of _Raphia ruffia_
-(Madagascar), _R. taedigera_ (Japan), largely employed as binder twine
-in horticulture, replacing the "bast" (linden) formerly employed.
+([[Madagascar]]), _R. taedigera_ ([[Japan]]), largely employed as binder twine
+in [[Horticulture|horticulture]], replacing the "bast" (linden) formerly employed.
 _Coir_, the fibrous envelope of the fruit of the _Cocos nucifera_,
-extensively used for matting and other coarse textiles. _Carludovica
-palmata_ (Central America) yields the raw material for Panama hats, the
-_Corypha australis_ (Australia) yields a similar product. The leaves of
+extensively used for [[Matting|matting]] and other coarse textiles. _Carludovica
+palmata_ ([[Central America]]) yields the raw material for Panama hats, the
+_Corypha australis_ ([[Australia]]) yields a similar product. The leaves of
 the date palm, _Phoenix dactylifera_, are employed locally in making
 baskets and mats, and the fibro-vascular bundles are isolated for
 working up into coarse twine and rope; similarly, the leaves of the
@@ -319,7 +319,7 @@ together and suitably twisted (silk; artificial silk).
   |                |                 |                            |  Av. 4 mm. Av. 0.021   |   extensively used in making mats.  |
   |Sida, B.b       | Sida            |Tropical and subtropical    |1.5-4 mm. 0.013-0.02.   | Coarse textiles. Appears capable of |
   |                | Malvaceae       |                            |  Av. 2 mm. Av. 0.015   |   substituting jute.                |
-  |Lime or         | Tilia           |European countries, chiefly |1.5 mm. 0.014-0.020.    | Matting and binder twine.           |
+  |Lime or         | Tilia           |[[European Countries|European countries]], chiefly |1.5 mm. 0.014-0.020.    | Matting and binder twine.           |
   |  Linden,C.b    | Tiliaceae       |  Russia                    |  Av. 2 mm. Av. 0.016   |                                     |
   |Mulberry, C     | Broussonetia    |Far East                    |5-31 mm. 0.02-0.04.     | Paper and paper cloths.             |
   |                | Moraceae        |                            |  Av. 15 mm. Av. 0.03   |                                     |
@@ -330,13 +330,13 @@ together and suitably twisted (silk; artificial silk).
   |                | Amaryllideae    |   Central America          |  Av. 2.5. Av. 0.024    |                                     |
   |                | Yucca           |       do.                  |0.5-6 mm. 0.01-0.02.    |           do.                       |
   |                | Liliaceae       |                            |                        |                                     |
-  |                | Sansevieria     |East Indies, Ceylon, East   |1.5-6 mm. 0.015-0.026.  |           do.                       |
+  |                | Sansevieria     |[[East Indies]], Ceylon, East   |1.5-6 mm. 0.015-0.026.  |           do.                       |
   |                | Liliaceae       |  Africa                    |  Av. 3 mm. Av. 0.020   |                                     |
   |  Phormium, D.  | Phormium tenax  |New Zealand                 |5.0-15 mm. 0.010-0.020. | Twine and ropes. Distinguished by   |
   |                | Liliaceae       |                            |  Av. 9 mm. Av. 0.016   |   high yield of fibre from green    |
-  |                |                 |                            |                        |   leaf.                             |
+  |                |                 |                            |                        |   [[Leaf|leaf]].                             |
   |  Pine-apple, D.| Ananassa        |Tropical East and West      |3.0-9.0 mm. 0.004-0.008.| Textiles of remarkable fineness.    |
-  |                | Bromeliaceae    |  Indies                    |  Av. 5. Av. 0.006      |   Exceptional fineness of ultimate  |
+  |                | [[Bromeliaceae]]    |  Indies                    |  Av. 5. Av. 0.006      |   Exceptional fineness of ultimate  |
   |                |                 |                            |                        |   fibre.                            |
   +----------------+-----------------+----------------------------+------------------------+-------------------------------------+
 
@@ -399,11 +399,11 @@ amplify this outlined picture by a study of the special treatises which
 deal with general principles, as well as the separate articles on the
 various fibres.
 
-_Analysis and Identification._--For the analysis of textile fabrics and
+_Analysis and [[Identification]]._--For the analysis of textile fabrics and
 the identification of component fibre, a special treatise must be
 consulted. The following general facts are to be noted as of importance.
 
-All animal fibres are effectively dissolved by 10% solution of caustic
+All animal fibres are effectively dissolved by 10% solution of [[Caustic|caustic]]
 potash or soda. The fabric or material is boiled in this solution for 10
 minutes and exhaustively washed. Any residue will be vegetable or
 cellulose fibre. It must not be forgotten that the chemical properties
@@ -440,7 +440,7 @@ includes the following operations:--
   4. Determination of cellulose: the white residue after
 
     (a) boiling for five minutes with 1% caustic soda,
-    (b) exposure to chlorine gas for one hour,
+    (b) exposure to [[Chlorine|chlorine]] gas for one hour,
     (c) boiling with basic sodium sulphite solution.
 
   5. Mercerizing: the loss of weight after digestion with a 20% solution
@@ -454,7 +454,7 @@ includes the following operations:--
   for one minute, the product being washed with water and alcohol, and
   then dried.
 
-  8. Determination of the total carbon by combustion.
+  8. Determination of the total [[Carbon|carbon]] by [[Combustion|combustion]].
 
 II. _Papermaking._--The papermaking industry (see PAPER) employs as raw
 materials a large proportion of the vegetable fibre products already
@@ -469,12 +469,12 @@ the class of "printings" two of the most important staples are wood
 pulp, prepared by chemical treatment from both pine and foliage woods,
 and in England esparto cellulose, the cellulose obtained from esparto
 grass by alkali treatment; the cereal straws are also used and are
-resolved into cellulose by alkaline boiling followed by bleaching. In
+resolved into cellulose by alkaline boiling followed by [[Bleaching|bleaching]]. In
 the class of "wrappings" and miscellaneous papers a large number of
 other materials find use, such as various residues of manufacturing and
 preparing processes, scutching wastes, ends of rovings and yarns, flax,
 hemp and manila rope waste, adansonia bast, and jute wastes, raw
-(cuttings) and manufactured (bagging). Other materials have been
+(cuttings) and manufactured ([[Bagging|bagging]]). Other materials have been
 experimentally tried, and would no doubt come into use on their
 papermaking merits, but as a matter of fact the actually suitable raw
 materials are comprised in the list above enumerated, and are limited in
@@ -514,7 +514,7 @@ upholstery. In the large range of effects required, a corresponding
 number and variety of products find employment. One of the most
 important is the floss or seed-hair of the _Eriodendron anfractuosum_,
 known as Kapok, the use of which in Europe was created by the Dutch
-merchants who drew their supplies from Java. The fibre is soft, silky
+merchants who drew their supplies from [[Java]]. The fibre is soft, silky
 and elastic, and maintains its elasticity in use. Many fibres when used
 in the mass show, on the other hand, a tendency to become matted and
 compressed in use, and to restore them to their original state the fibre
@@ -536,11 +536,11 @@ state.
   C.F. Cross, _Report on Miscellaneous Fibres_, Colonial Indian
   Exhibition, 1886 (London, 1887); Cross and Bevan, _Cellulose,
   Researches on Cellulose_, i. and ii. (London, 1895-1905); C.R. Dodge,
-  _A Descriptive Catalogue of Useful Fibre Plants of the World_ (Report
+  _A Descriptive [[Catalogue]] of Useful Fibre Plants of the World_ (Report
   No. 9, U.S. Dept. of Agriculture, Washington, 1897); von Höhmel, _Die
   Mikroskopie der technisch verwendeten Faserstoffe_ (Leipzig, 1905);
   J.J. Hummel, _The Dyeing of Textile Fabrics_ (London, 1885); J.M.
-  Matthews, _The Textile Fibres, their Physical, Microscopical and
+  [[Matthew|Matthews]], _The Textile Fibres, their Physical, Microscopical and
   Chemical Properties_ (New York, 1904); H. Müller, _Die Pflanzenfaser_
   (Braunschweig, 1877); H. Schlichter, "The Examination of Textile
   Fibres and Fabrics" (_Jour. Soc. Chem. Ind._, 1890, 241); M.
@@ -552,7 +552,7 @@ state.
   _Chemische Technologie der Gespinnstfasern_ (Braunschweig, 1888); _Kew
   Bulletin_; _The Journal of the Imperial Institute_; _The Journal of
   the Society of Arts_; W.I. Hannam, _The Textile Fibres of Commerce_
-  (London, 1902); J. Jackson, _Commercial Botany_; J. Zipser, _Die
+  (London, 1902); J. [[Jackson]], _Commercial Botany_; J. Zipser, _Die
   Textilen Rohmaterialien_ (Wien, 1895); F. Zetzsche, _Die wichtigsten
   Faserstoffe der europäischen Industrie_ (Leipzig, 1895).
        (C. F. C.)

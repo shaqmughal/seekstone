@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Cocker"
 COCKER, EDWARD (1631-1675), the reputed author of the famous
 _Arithmetick_, the popularity of which has added a phrase ("according to
 Cocker") to the list of English proverbialisms, was an English engraver,
-who also taught writing and arithmetic. He is credited with the
+who also taught writing and [[Arithmetic|arithmetic]]. He is credited with the
 authorship and execution of some fourteen sets of copy slips, one of
 which, _Daniel's Copy-Book, ingraven by Edward Cocker, Philomath_
 (1664), is preserved in the British Museum. Pepys, in his _Diary_, makes
@@ -21,8 +21,8 @@ which appeared in 1748, and which has passed through about 112 editions
 in all, was not published during the lifetime of its reputed author, the
 first impression bearing date of 1678. Augustus de Morgan in his
 _Arithmetical Books_ (1847) adduces proofs, which may be held to be
-conclusive, that the work was a forgery of the editor and publisher,
-John Hawkins; and there appears to be no doubt that the _Decimal
+conclusive, that the work was a [[Forgery|forgery]] of the editor and publisher,
+John [[Hawkins]]; and there appears to be no doubt that the _Decimal
 Arithmetic_ (1684), and the _English Dictionary_ (second edition, 1715),
 issued by Hawkins under Cocker's name, are forgeries also. De Morgan
 condemns the _Arithmetick_ as a diffuse compilation from older and

@@ -7,13 +7,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Biwa"
 
 # Biwa
 
-BIWA, a lake in the province of Omi, Japan. It measures 36 m. in length
+BIWA, a lake in the province of Omi, [[Japan]]. It measures 36 m. in length
 by 12 m. in extreme breadth, has an area of 180 sq. m., is about 330 ft.
 above sea-level, and has an extreme depth of some 300 ft. There are a
 few small islands in the lake, the principal being Chikubu-shima at the
 northern end.
 
-Tradition alleges that Lake Biwa and the mountain of Fuji were produced
+Tradition alleges that Lake Biwa and the mountain of [[Fuji]] were produced
 simultaneously by an earthquake in 286 B.C. On the west of the lake the
 mountains Hiei-zan and Hira-yama slope down almost to its margin, and on
 the east a wide plain extends towards the boundaries of the province of

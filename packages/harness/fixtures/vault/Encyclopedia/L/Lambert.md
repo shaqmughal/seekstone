@@ -8,18 +8,18 @@ tags: [geography, palaeontology]
 
 # Lambert
 
-LAMBERT, JOHN (1619-1694), English general in the Great Rebellion, was
-born at Calton Hall, Kirkby Malham, in the West Riding of Yorkshire. His
+LAMBERT, JOHN (1619-1694), English general in the [[Great Rebellion]], was
+born at Calton Hall, [[Kirkby]] Malham, in the West Riding of Yorkshire. His
 family was of ancient lineage, and long settled in the county. He
 studied law, but did not make it his profession. In 1639 he married
-Frances, daughter of Sir William Lister. At the opening of the Civil War
+[[Franc|Frances]], daughter of Sir William Lister. At the opening of the Civil War
 he took up arms for the parliament, and in September 1642 was appointed
-a captain of horse in the army commanded by Ferdinando, Lord Fairfax. A
+a captain of horse in the army commanded by Ferdinando, Lord [[Fairfax]]. A
 year later he had become colonel of a regiment of horse, and he
-distinguished himself at the siege of Hull in October, 1643. Early in
-1644 he did good service at the battles of Nantwich and Bradford. At
-Marston Moor Lambert's own regiment was routed by the charge of Goring's
-horse; but he cut his way through with a few troops and joined Cromwell
+distinguished himself at the siege of [[Hull]] in October, 1643. Early in
+1644 he did good service at the battles of Nantwich and [[Bradford]]. At
+[[Marston]] Moor Lambert's own regiment was routed by the charge of Goring's
+horse; but he cut his way through with a few troops and joined [[Cromwell]]
 on the other side of the field. When the New Model army was formed in
 the beginning of 1645, Colonel Lambert was appointed to succeed Fairfax
 in command of the northern forces. General Poyntz, however, soon
@@ -33,7 +33,7 @@ exceptional capacity and specially selected for semi-political
 employments."
 
 When the quarrel between the army and the parliament began, Lambert
-threw himself warmly into the army's cause. He assisted Ireton in
+threw himself warmly into the army's cause. He assisted [[Ireton]] in
 drawing up the several addresses and remonstrances issued by the army,
 both men having had some experience in the law, and being "of a subtle
 and working brain." Early in August 1647 Lambert was sent by Fairfax as
@@ -49,7 +49,7 @@ rising in his district. The arrival of the Scots obliged him to retreat;
 but Lambert displayed the greatest energy and did not cease to harass
 the invaders till Cromwell came up from Wales and with him destroyed the
 Scottish army in the three days' fighting from Preston to Warrington.
-After the battle Lambert's cavalry headed the chase, pursuing the
+After the battle Lambert's [[Cavalry|cavalry]] headed the chase, pursuing the
 defeated army _à outrance_, and finally surrounded it at Uttoxeter,
 where Hamilton surrendered to Lambert on the 25th of August. He then led
 the advance of Cromwell's army into Scotland, where he was left in
@@ -63,8 +63,8 @@ When Cromwell was appointed to the command of the war in Scotland (July
 was wounded at Musselburgh, but returned to the front in time to take a
 conspicuous share in the victory of Dunbar. He himself defeated the
 "Protesters" or "Western Whigs" at Hamilton, on the 1st of December
-1650. In July 1651 he was sent into Fife to get in the rear and flank of
-the Scottish army near Falkirk, and force them to decisive action by
+1650. In July 1651 he was sent into [[Fife]] to get in the rear and flank of
+the Scottish army near [[Falkirk]], and force them to decisive action by
 cutting off their supplies. This mission, in the course of which Lambert
 won an important victory at Inverkeithing, was executed with entire
 success, whereupon Charles II., as Lambert had foreseen, made for
@@ -76,7 +76,7 @@ under him. Parliament now conferred on him a grant of lands in Scotland
 worth £1000 per annum.
 
 In October 1651 Lambert was made a commissioner to settle the affairs of
-Scotland, and on the death of Ireton he was appointed lord deputy of
+Scotland, and on the death of Ireton he was appointed lord [[Deputy|deputy]] of
 Ireland (January 1652). He accepted the office with pleasure, and made
 magnificent preparations; parliament, however, soon afterwards
 reconstituted the Irish administration and Lambert refused to accept
@@ -120,7 +120,7 @@ family. In the parliament of this year, and again in 1656, Lord Lambert,
 as he was now styled, sat as member for the West Riding. He was one of
 the major-generals appointed in August 1655 to command the militia in
 the ten districts into which it was proposed to divide England, and who
-were to be responsible for the maintenance of order and the
+were to be responsible for the [[Maintenance|maintenance]] of order and the
 administration of the law in their several districts. Lambert took a
 prominent part in the committee of council which drew up instructions to
 the major-generals, and he was probably the originator, and certainly
@@ -131,7 +131,7 @@ that the estrangement between the two men began. At all events, although
 Lambert had himself at an earlier date requested Cromwell to take the
 royal dignity, when the proposal to declare Oliver king was started in
 parliament (February 1657) he at once declared strongly against it. A
-hundred officers headed by Fleetwood and Lambert waited on the
+hundred officers headed by [[Fleetwood]] and Lambert waited on the
 protector, and begged him to put a stop to the proceedings. Lambert was
 not convinced by Cromwell's arguments, and their complete estrangement,
 personal as well as political, followed. On his refusal to take the oath
@@ -153,7 +153,7 @@ Richard Cromwell, and took no part in the intrigues of the officers at
 Fleetwood's residence, Wallingford House. He was a member of the
 parliament which met in January 1659, and when it was dissolved in April
 under compulsion of Fleetwood and Desborough, he was restored to his
-commands. He headed the deputation to Lenthall in May inviting the
+commands. He headed the deputation to [[Lenthall]] in May inviting the
 return of the Rump, which led to the tame retirement of Richard Cromwell
 into obscurity; and he was appointed a member of the committee of safety
 and of the council of state. When the parliament, desirous of
@@ -162,8 +162,8 @@ nominating officers, Lambert was named one of a council of seven charged
 with this duty. The parliament's evident distrust of the soldiers caused
 much discontent in the army; while the entire absence of real authority
 encouraged the royalists to make overt attempts to restore Charles II.,
-the most serious of which, under Sir George Booth and the earl of Derby,
-was crushed by Lambert near Chester on the 19th of August. He promoted a
+the most serious of which, under Sir George [[Booth]] and the earl of [[Derby]],
+was crushed by Lambert near [[Chester]] on the 19th of August. He promoted a
 petition from his army that Fleetwood might be made lord-general and
 himself major-general. The republican party in the House took offence.
 The Commons (October 12th, 1659) cashiered Lambert and other officers,
@@ -180,12 +180,12 @@ suspense by Monk till his whole army fell from him and he returned to
 London almost alone. Monk marched to London unopposed. The "excluded"
 Presbyterian members were recalled. Lambert was sent to the Tower (March
 3rd, 1660), from which he escaped a month later. He tried to rekindle
-the civil war in favour of the Commonwealth, but was speedily recaptured
+the civil war in favour of the [[Commonwealth]], but was speedily recaptured
 and sent back to the Tower (April 24th). On the Restoration he was
 exempted from danger of life by an address of both Houses to the king,
 but the next parliament (1662) charged him with high treason.
 Thenceforward for the rest of his life Lambert remained in custody in
-Guernsey. He died in 1694.
+[[Guernsey]]. He died in 1694.
 
   Lambert would have left a better name in history if he had been a
   cavalier. His genial, ardent and excitable nature, easily raised and
@@ -201,7 +201,7 @@ Guernsey. He died in 1694.
   in quiet and domestic pursuits. He learnt his love of gardening from
   Lord Fairfax, who was also his master in the art of war. He painted
   flowers, besides cultivating them, and incurred the blame of Mrs
-  Hutchinson by "dressing his flowers in his garden and working at the
+  [[Hutchinson]] by "dressing his flowers in his garden and working at the
   needle with his wife and his maids." He made no special profession of
   religion; but no imputation is cast upon his moral character by his
   detractors. It has been said that he became a Roman Catholic before

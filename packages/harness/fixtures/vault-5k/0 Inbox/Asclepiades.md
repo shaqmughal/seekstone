@@ -16,7 +16,7 @@ modification of the atomic or corpuscular theory, according to which
 disease results from an irregular or inharmonious motion of the
 corpuscles of the body. His remedies were, therefore, directed to the
 restoration of harmony, and he trusted much to changes of diet,
-accompanied by friction, bathing and exercise, though he also employed
+accompanied by [[Friction|friction]], bathing and exercise, though he also employed
 emetics and bleeding. He recommended the use of wine, and in every way
 strove to render himself as agreeable as possible to his patients. His
 pupils were very numerous, and the school formed by them was called the

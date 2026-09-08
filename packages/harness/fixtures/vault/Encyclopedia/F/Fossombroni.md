@@ -18,10 +18,10 @@ on the French occupation of Tuscany in 1799 he fled to Sicily. On the
 erection of the grand duchy into the ephemeral kingdom of Etruria, under
 the queen-regent Maria Louisa, he was appointed president of the
 commission of finance. In 1809 he went to Paris as one of the senators
-for Tuscany to pay homage to Napoleon. He was made president of the
-legislative commission on the restoration of the grand duke Ferdinand
+for Tuscany to pay [[Homage|homage]] to Napoleon. He was made president of the
+legislative commission on the restoration of the grand duke [[Ferdinand]]
 III. in 1814, and subsequently prime minister, which position he
-retained under the grand duke Leopold II. His administration, which was
+retained under the grand duke [[Leopold]] II. His administration, which was
 only terminated by his death, greatly contributed to promote the
 well-being of the country. He was the real master of Tuscany, and the
 bases of his rule were equality of all subjects before the law, honesty
@@ -29,9 +29,9 @@ in the administration of justice and toleration of opinion, but he
 totally neglected the moral improvement of the people. At the age of
 seventy-eight he married, and twelve years afterwards died, in 1844.
 
-  BIBLIOGRAPHY.--Gino Capponi, _Il Conte V. Fossombroni_, A. von
+  BIBLIOGRAPHY.--Gino [[Capponi]], _Il Conte V. Fossombroni_, A. von
   Reumont, _Geschichte Toscanas unter dem Hause Lothringen-Habsburg_
-  (Gotha, 1877); Zobi, _Storia civile delta Toscana_ (Florence,
+  ([[Gotha]], 1877); Zobi, _Storia civile [[Delta|delta]] Toscana_ (Florence,
   1850-1853); Galeotti, _Delle Leggi e dell' amministrazione della
   Toscana_ (Florence, 1847); Baldasseroni, _Leopoldo II_. (Florence,
   1871); see also under CAPPONI, GINO; FERDINAND III., of Tuscany, and

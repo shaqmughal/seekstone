@@ -3,10 +3,10 @@
 CIGNANI, CARLO (1628-1719), Italian painter, was born of a noble family
 at Bologna, where he studied under Battista Cairo, and afterwards under
 Francesco Albani. Though an intimate friend of the latter, and his most
-famous disciple, Cignani was yet strongly and deeply influenced by the
+famous [[Disciple|disciple]], Cignani was yet strongly and deeply influenced by the
 genius of Correggio. His greatest work, moreover, the "Assumption of the
 Virgin," round the cupola of the church of the Madonna della Fuoca at
-Forli, which occupied him some twenty years, and is in some respects one
+[[Forli]], which occupied him some twenty years, and is in some respects one
 of the most remarkable works of art of the 17th century, is obviously
 inspired from the more renowned fresco of Correggio in the cupola of the
 cathedral of Parma. Cignani had some of the defects of his masters; his

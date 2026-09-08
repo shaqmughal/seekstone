@@ -13,11 +13,11 @@ quitted the government service in order to devote himself entirely to
 letters. He lived in Vienna until his death on the 9th of August 1890,
 and was ennobled for his work. As a writer of comedies and farces,
 Bauernfeld takes high rank among the German playwrights of the century;
-his plots are clever, the situations witty and natural and the diction
+his plots are [[Clever|clever]], the situations witty and natural and the diction
 elegant. His earliest essays, the comedies _Leichtsinn aus Liebe_
 (1831); _Das Liebes-Protokoll_ (1831) and _Die ewige Liebe_ (1834);
 _Burgerlich und Romantisch_, (1835) enjoyed great popularity. Later he
-turned his attention to so-called _Salonstucke_ (drawing-room pieces),
+turned his attention to so-called _Salonstucke_ ([[Drawing-Room|drawing-room]] pieces),
 notably _Aus der Gesellschaft_ (1866); _Moderne Jugend_ (1869), and _Der
 Landfrieden_ (1869), in which he portrays in fresh, bright and happy
 sallies the social conditions of the capital in which he lived.

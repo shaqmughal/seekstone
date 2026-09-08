@@ -1,7 +1,7 @@
 # Aphorism
 
 APHORISM (from the Gr. [Greek: aphorizein], to define), literally a
-distinction or a definition, a term used to describe a principle
+distinction or a [[Definition|definition]], a term used to describe a principle
 expressed tersely in a few telling words or any general truth conveyed
 in a short and pithy sentence, in such a way that when once heard it is
 unlikely to pass from the memory. The name was first used in the
@@ -21,7 +21,7 @@ a few examples. "Old men support abstinence well: people of a ripe age
 less well: young folk badly, and children less well than all the rest,
 particularly those of them who are very lively." "Those who are very fat
 by nature are more exposed to die suddenly than those who are thin."
-"Those who eject foaming blood, eject it from the lung." "When two
+"Those who eject foaming blood, eject it from the [[Lung|lung]]." "When two
 illnesses arrive at the same time, the stronger silences the weaker."
 The first aphorism, perhaps the best known of all, which serves as a
 kind of introduction to the book, runs as follows:--"Life is short, art
@@ -45,7 +45,7 @@ dedication gives the following excellent advice:--
    Haec bene si serves, tu longo tempore vives."
 
 Another collection of aphorisms, also medical and also in Latin, is that
-of the Dutchman Hermann Boerhaave, published at Leiden in the year 1709;
+of the Dutchman [[Hermann]] Boerhaave, published at Leiden in the year 1709;
 it gives a terse summary of the medical knowledge prevailing at the
 time, and is of great interest to the student of the history of
 medicine.

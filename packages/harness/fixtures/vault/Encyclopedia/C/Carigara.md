@@ -13,7 +13,7 @@ Islands, on Carigara Bay, 22 m. W. of Tacloban, the capital. Pop. (1903)
 19,488, including that of Capoocan (3106), annexed to Carigara in the
 same year. Carigara is open to coast trade, exports large quantities of
 hemp, raises much rice, and manufactures cotton and abaca fabrics. It
-also has important fisheries.
+also has important [[Fisheries|fisheries]].
 
 ## See also
 

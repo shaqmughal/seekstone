@@ -13,13 +13,13 @@ Southern Mahratta railway. Along the coast rice is the chief crop, and
 coco-nut palms are also important. In the upland there are valuable
 gardens of areca palms, cardamoms and pepper. Rice and timber are
 exported, and sandalwood-carving and salt manufacture are carried on.
-The main feature in the physical geography of the district is the range
-of the Western Ghats, which, running from north to south, divides it
+The main feature in the physical [[Geography|geography]] of the district is the range
+of the Western [[Ghats]], which, running from north to south, divides it
 into two parts, a lowland or coast strip (Payanghat), and an upland
-plateau (Balaghat). The coast-line is only broken by the Karwar headland
+plateau ([[Balaghat]]). The coast-line is only broken by the Karwar headland
 in the north, and by the estuaries of four rivers and the mouths of many
 smaller streams, through which the salt water finds an entrance into
-numerous lagoons winding several miles inland. The breadth of the
+numerous [[Lagoon|lagoons]] winding several miles inland. The breadth of the
 lowlands varies from 5 to 15 miles. From this narrow belt rise a few
 smooth, flat-topped hills, from 200 to 300 ft. high; and at places it is
 crossed by lofty, rugged, densely wooded spurs, which, starting from the
@@ -29,13 +29,13 @@ The plateau of the Balaghat is irregular, varying from 1500 to 2000 ft.
 in height. In some parts the country rises into well-wooded knolls, in
 others it is studded by small, isolated, steep hills. Except on the
 banks of streams and in the more open glades, the whole is one broad
-waste of woodland and forest. The open spaces are dotted with hamlets or
+waste of woodland and forest. The open spaces are dotted with [[Hamlet|hamlets]] or
 parcelled out into rice clearings. Of the rivers flowing eastward from
 the watershed of the Sahyadri hills the only one of importance is the
 Wardha or Varada, a tributary of the Tungabhadra. Of those that flow
 westwards, the four principal ones, proceeding from north to south, are
 the Kali, Gungawali, Tadri and Sharavati. The last of these forms the
-famous Gersoppa Falls. Extensive forests clothe the hills, and are
+famous [[Gersoppa]] Falls. Extensive forests clothe the hills, and are
 conserved under the rules of the forest department.
 
 SOUTH KANARA DISTRICT has its headquarters at Mangalore. Area, 4021 sq.
@@ -50,14 +50,14 @@ rising to a height of 3000 to 6000 ft., fringe the eastern boundary.
 Forest land of great extent and value exists, but most of it is private
 property. Jungle products (besides timber) consist of bamboo, cardamoms,
 wild arrowroot, gall-nuts, gamboge, catechu, fibrous bark, cinnamon,
-gums, resin, dyes, honey and beeswax. The forests formerly abounded in
-game, which, however, is rapidly decreasing under incessant shooting.
+[[Gum|gums]], resin, dyes, honey and beeswax. The forests formerly abounded in
+[[Game|game]], which, however, is rapidly decreasing under incessant shooting.
 The staple crop is rice. The chief articles of import are piece goods,
 cotton yarn, oils and salt. Tiles are manufactured in several places out
 of a fine potter's clay. The Azhikal-Mangalore line of the Madras
 railway serves the district.
 
-  See _South Canara District Manual_ (2 vols., Madras, 1894-1895).
+  See _South Canara District [[Manual]]_ (2 vols., Madras, 1894-1895).
 
 ## References
 

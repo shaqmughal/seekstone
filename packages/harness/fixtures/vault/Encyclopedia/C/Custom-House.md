@@ -11,7 +11,7 @@ id: 42-4659
 
 CUSTOM-HOUSE, the house or office appointed by a government where the
 taxes or duties (if any) are collected upon the importation and
-exportation of commodities; where duties, bounties or drawbacks payable
+exportation of commodities; where duties, bounties or [[Drawback|drawbacks]] payable
 or receivable upon exportation or importation are paid or received, and
 where vessels are entered and cleared. In the United Kingdom there is
 usually a custom-house established at every port or harbour to which any

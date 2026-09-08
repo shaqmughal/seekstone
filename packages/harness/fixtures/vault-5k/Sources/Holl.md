@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Holl"
 
 # Holl
 
-HOLL, FRANK (1845-1888), English painter, was born in London on the 4th
+HOLL, [[Frank|FRANK]] (1845-1888), English painter, was born in London on the 4th
 of July 1845, and was educated chiefly at University College School. He
 was a grandson of William Holl, an engraver of note, and the son of
 Francis Holl, A.R.A., another engraver, whose profession he originally
@@ -33,7 +33,7 @@ all the higher ways of design; in technical resources, relatively
 speaking, he was but scantily provided. The range of his studies and the
 manner of his painting were narrower than those of Josef Israels, with
 whom, except as a portrait-painter, he may better be compared than with
-Millais. In 1870 he painted "Better is a Dinner of Herbs where Love is,
+Millais. In 1870 he painted "Better is a [[Dinner]] of [[Herb|Herbs]] where Love is,
 than a Stalled Ox and Hatred therewith"; "No Tidings from the Sea," a
 scene in a fisherman's cottage, in 1871--a story told with
 breath-catching pathos and power; "I am the Resurrection and the Life"
@@ -44,11 +44,11 @@ great success; "Her First-born," girls carrying a baby to the grave
 telling piece, first attested the breaking down of the painter's health
 in 1878. In this year he was elected A.R.A., and exhibited "The Gifts of
 the Fairies," "The Daughter of the House," "Absconded," and a very fine
-portrait of Samuel Cousins, the mezzotint engraver. This last canvas is
+portrait of Samuel [[Cousin|Cousins]], the mezzotint engraver. This last canvas is
 a masterpiece, and deserved the success which attended the print
 engraved from it. Holl was overwhelmed with commissions, which he would
 not decline. The consequences of this strain upon a constitution which
-was never strong were more or less, though unequally, manifest in
+was never strong were more or less, though unequally, [[Manifest|manifest]] in
 "Ordered to the Front," a soldier's departure (1880); "Home Again," its
 sequel, in 1883 (after which he was made R.A.). In 1886 he produced a
 portrait of Millais as his diploma work, but his health rapidly declined

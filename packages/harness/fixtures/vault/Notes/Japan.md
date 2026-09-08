@@ -2,7 +2,7 @@
 
 JAPAN, an empire of eastern Asia, and one of the great powers of the
 world. The following article is divided for convenience into ten
-sections:--I. GEOGRAPHY; II. THE PEOPLE; III. LANGUAGE AND LITERATURE;
+sections:--I. [[Geography|GEOGRAPHY]]; II. THE PEOPLE; III. LANGUAGE AND LITERATURE;
 IV. ART; V. ECONOMIC CONDITIONS; VI. GOVERNMENT AND ADMINISTRATION; VII.
 RELIGION; VIII. FOREIGN INTERCOURSE; IX. DOMESTIC HISTORY; X. THE CLAIM
 OF JAPAN.
@@ -13,10 +13,10 @@ I.--GEOGRAPHY
   Position and Extent.
 
 The continent of Asia stretches two arms into the Pacific Ocean,
-Kamchatka in the north and Malacca in the south, between which lies a
+[[Kamchatka]] in the north and [[Malacca]] in the south, between which lies a
 long cluster of islands constituting the Japanese empire, which covers
-37° 14´ of longitude and 29° 11´ of latitude. On the extreme north are
-the Kuriles (called by the Japanese _Chishima_, or the "myriad isles"),
+37° 14´ of longitude and 29° 11´ of [[Latitude|latitude]]. On the extreme north are
+the [[Kuriles]] (called by the Japanese _Chishima_, or the "myriad isles"),
 which extend to 156° 32´ E. and to 50° 56´ N.; on the extreme south is
 Formosa (called by the Japanese _Taiwan_), which extends to 122° 6´ E.,
 and to 21° 45´ N. There are six large islands, namely Sakhalin (called
@@ -28,7 +28,7 @@ provinces"), which lies on the south of Nippon, and Formosa, which forms
 the most southerly link of the chain. Formosa and the Pescadores were
 ceded to Japan by China after the war of 1894-1895, and the southern
 half of Sakhalin--the part south of 50° N.--was added to Japan by
-cession from Russia in 1905. Korea, annexed in August 1910, is
+cession from Russia in 1905. [[Korea]], annexed in August 1910, is
 separately noticed.
 
   _Coast-line._--The following table shows the numbers, the lengths of
@@ -53,9 +53,9 @@ separately noticed.
     Sado                               1       130.05       335.92
     Okishima                           1       182.27       130.40
     Isles adjacent to Okishima         1         3.09         0.06
-    Awaji                              1        94.43       217.83
+    [[Awaji]]                              1        94.43       217.83
     Isles adjacent to Awaji            1         5.32         0.83
-    Iki                                1        86.47        50.96
+    [[Iki]]                                1        86.47        50.96
     Isles adjacent to Iki              1         4.41         0.47
     Tsushima                           1       409.23       261.72
     Isles adjacent to Tsushima         5       118.80         4.58
@@ -71,7 +71,7 @@ separately noticed.
   If the various smaller islands be included, a total of over 3000 is
   reached, but there has not been any absolutely accurate enumeration.
 
-  [Illustration: Map of Japan and Korea.]
+  [Illustration: [[Map]] of Japan and Korea.]
 
   It will be observed that the coast-line is very long in proportion to
   the area, the ratio being 1 m. of coast to every 9.5 in. of area. The
@@ -82,9 +82,9 @@ separately noticed.
   advantage is on the Pacific side. There the bottom slopes very
   abruptly, descending precipitously at a point not far from the
   north-east coast of the main island, where soundings have shown 4655
-  fathoms. This, the deepest sea-bed in the world, is called the
+  [[Fathom|fathoms]]. This, the deepest sea-bed in the world, is called the
   Tuscarora Deep, after the name of the United States' man-of-war which
-  made the survey. The configuration seems to point to a colossal crater
+  made the survey. The configuration seems to point to a colossal [[Crater|crater]]
   under the ocean, and many of the earthquakes which visit Japan appear
   to have their origin in this submarine region. On the other hand, the
   average depth of the Japan Sea is only 1200 fathoms, and its maximum
@@ -125,7 +125,7 @@ separately noticed.
   Maizuru and the harbour of Tsuruga, the Japanese point of
   communication with the Vladivostok terminus of the Trans-Asian
   railway. From this harbour to Osaka Japan's waist measures only 77 m.,
-  and as the great lake of Biwa and some minor sheets of water break the
+  and as the great lake of [[Biwa]] and some minor sheets of water break the
   interval, a canal may be dug to join the Pacific and the Sea of Japan.
   Yezo is not rich in anchorages. Uchiura (Volcano Bay), Nemuro
   (Walfisch) Bay and Ishikari Bay are the only remarkable inlets. As for
@@ -148,11 +148,11 @@ separately noticed.
   than one-eighth of the country's entire area is cultivable.
 
 
-    Fuji.
+    [[Fuji]].
 
   The king of Japanese mountains is Fuji-yama or Fuji-san (peerless
   mount), of which the highest point (Ken-ga-mine) is 12,395 ft. above
-  sea-level. The remarkable grace of this mountain's curve--an inverted
+  sea-level. The remarkable [[Grace|grace]] of this mountain's curve--an inverted
   catenary--makes it one of the most beautiful in the world, and has
   obtained for it a prominent place in Japanese decorative art. Great
   streams of lava flowed from the crater in ancient times. The course of
@@ -185,7 +185,7 @@ separately noticed.
   south through 60 to 70 m., and has a width of 5 to 10 m. It is mostly
   of granite, only two of the mountains--Norikura and Tateyama--showing
   clear traces of volcanic origin. Its lower flanks are clothed with
-  forests of beech, conifers and oak. Farther south, in the same range,
+  forests of [[Beech|beech]], conifers and oak. Farther south, in the same range,
   stands Ontake (10,450 ft.), the second highest mountain in Japan
   proper (as distinguished from Formosa); and other remarkable though
   not so lofty peaks mark the same regions. This grand group of
@@ -193,7 +193,7 @@ separately noticed.
   of them may be found in The _Japanese Alps_ (1896) by the Rev. W.
   Weston. On the summit of Ontake are eight large and several small
   craters, and there also may be seen displays of trance and "divine
-  possession," such as are described by Mr Percival Lowell in _Occult
+  possession," such as are described by Mr Percival [[Lowell]] in _Occult
   Japan_ (1895).
 
 
@@ -223,11 +223,11 @@ separately noticed.
   quiescence, has given many evidences of volcanic activity during
   recent years; Nasu-dake (6296 ft.), an active volcano; and Bandai-san
   (6037 ft.). A terrible interest attaches to the last-named mountain,
-  for, after having remained quiet so long as to lull the inhabitants of
+  for, after having remained quiet so long as to [[Lull|lull]] the inhabitants of
   the neighbouring district into complete security, it suddenly burst
   into fierce activity on the 15th of July 1888, discharging a vast
-  avalanche of earth and rock, which dashed down its slopes like an
-  inundation, burying four hamlets, partially destroying seven villages,
+  [[Avalanche|avalanche]] of earth and rock, which dashed down its slopes like an
+  inundation, burying four [[Hamlet|hamlets]], partially destroying seven villages,
   killing 461 people and devastating an area of 27 sq. m.
 
 
@@ -242,7 +242,7 @@ separately noticed.
   which, though not rising higher than 3880 ft., offer scenery which
   dispels the delusion that nature as represented in the classical
   pictures (_bunjingwa_) of China and Japan exists only in the artist's
-  imagination. Farther south, in the province of Kai (Koshiu), and
+  [[Imagination|imagination]]. Farther south, in the province of Kai (Koshiu), and
   separating two great rivers, the Fuji-kawa and the Tenriu-gawa, there
   lies a range of hills with peaks second only to those of the Japanese
   Alps spoken of above. The principal elevations in this range are
@@ -275,7 +275,7 @@ separately noticed.
   it boasts the largest crater in the world, with walls nearly 2000 ft.
   high and a basin from 10 to 14 m. in diameter. Aso-take is still an
   active volcano, but its eruptions during recent years have been
-  confined to ashes and dust. Only two other mountains in Kiushiu need
+  confined to ashes and [[Dust|dust]]. Only two other mountains in Kiushiu need
   be mentioned--a volcano (3743 ft.) on the island Sakura-jima, in the
   extreme south; and Kirishima-yama (5538 ft.), on the boundary of
   Hiuga, a mountain specially sacred in Japanese eyes, because on its
@@ -296,7 +296,7 @@ separately noticed.
   may at any moment burst into disastrous activity. Within the period of
   Japan's written history several eruptions are recorded the last having
   been in 1707, when the whole summit burst into flame, rocks were
-  shattered, ashes fell to a depth of several inches even in Yedo
+  shattered, ashes fell to a depth of several [[Inch|inches]] even in Yedo
   (Tokyo), 60 m. distant, and the crater poured forth streams of lava.
   Among still active volcanoes the following are the best known:--
 
@@ -340,7 +340,7 @@ separately noticed.
     hamlets were completely entombed with their inhabitants and cattle;
     seven villages were partially wrecked; forests were levelled or the
     trees entirely denuded of bark; rivers were blocked up, and lakes
-    were formed. The lip of the fracture is now marked by a line of
+    were formed. The [[Lip|lip]] of the fracture is now marked by a line of
     steaming vents.
 
   Azuma-yama (Fukushima) 7733.
@@ -375,7 +375,7 @@ separately noticed.
   Unzen (Hizen) 4865.
     A triple-peaked volcano in the solfatara stage, extinct at the
     summit, but displaying considerable activity at its base in the form
-    of numerous fumaroles and boiling sulphur springs.
+    of numerous [[Fumarole|fumaroles]] and boiling sulphur springs.
 
   Aso-take (Higo) 5545.
     Remarkable for the largest crater in the world. It measures 10 m. by
@@ -425,7 +425,7 @@ separately noticed.
     concentric crater rings remaining. The present crater is remarkable
     for the absolute perpendicularity of its walls, and has an immense
     depth--from 600 to 800 ft. It is circular, ¾ m. in circumference,
-    with sides honeycombed and burned to a red hue.
+    with sides honeycombed and burned to a red [[Hue|hue]].
 
   Some of the above information is based upon Mr. C. E. Bruce-Mitford's
   valuable work (see _Geog. Jour._, Feb. 1908, &c.).
@@ -443,14 +443,14 @@ separately noticed.
   shocks, being an average of something over 3½ daily. The frequency of
   these phenomena is in some degree a source of security, for the minor
   vibrations are believed to exercise a binding effect by removing weak
-  cleavages. Nevertheless the annals show that during the three
+  cleavages. Nevertheless the [[Annals|annals]] show that during the three
   centuries before 1897 there were 108 earthquakes sufficiently
   disastrous to merit historical mention. If the calculation be carried
   farther back--as has been done by the seismic disaster investigation
   committee of Japan, a body of scientists constantly engaged in
   studying these phenomena under government auspices,--it is found that,
   since the country's history began to be written in the 8th century
-  A.D., there have been 2006 major disturbances; but inasmuch as 1489 of
+  A.D., there have been 2006 [[Major|major]] disturbances; but inasmuch as 1489 of
   these occurred before the beginning of the Tokugawa administration
   (early in the 17th century, and therefore in an era when methods of
   recording were comparatively defective), exact details are naturally
@@ -490,7 +490,7 @@ separately noticed.
 
       (1) An area of over 1,200,000 acres swallowed up by the sea.
       (2) Tidal wave killed thousands of people.
-      (3) Hamana lagoon formed.
+      (3) Hamana [[Lagoon|lagoon]] formed.
 
   In the capital (Tokyo) the average yearly number of shocks throughout
   the 26 years ending in 1906 was 96, exclusive of minor vibrations, but
@@ -509,7 +509,7 @@ separately noticed.
   _Plains._--Japan, though very mountainous, has many extensive plains.
   The northern island--Yezo--contains seven, and there are as many more
   in the main and southern islands, to say nothing of flat lands of
-  minor dimensions. The principal are given in the following table:--
+  minor [[Dimension|dimensions]]. The principal are given in the following table:--
 
         Name.    Situation.        Area.             Remarks.
 
@@ -541,7 +541,7 @@ separately noticed.
   the snows of winter are melting in spring, great volumes of water
   sweep down from the mountains, these broad rivers dwindle at other
   times to petty rivulets trickling among a waste of pebbles and
-  boulders. Nor are there any long rivers, and all are so broken by
+  [[Boulder|boulders]]. Nor are there any long rivers, and all are so broken by
   shallows and rapids that navigation is generally impossible except by
   means of flat-bottomed boats drawing only a few inches. The chief
   rivers are given in the following table:--
@@ -573,14 +573,14 @@ separately noticed.
   beauty of their scenery rather than for their extent. Some are
   contained in alluvial depressions in the river valleys; others have
   been formed by volcanic eruptions, the ejecta damming the rivers until
-  exits were found over cliffs or through gorges. Some of these lakes
-  have become favourite summer resorts for foreigners. To that category
+  exits were found over cliffs or through [[Gorges|gorges]]. Some of these lakes
+  have become favourite summer resorts for foreigners. To that [[Category|category]]
   belong especially the lakes of Hakone, of Chiuzenji, of Shoji, of
   Inawashiro, and of Biwa. Among these the highest is Lake Chiuzenji,
   which is 4375 ft. above sea-level, has a maximum depth of 93 fathoms,
   and empties itself at one end over a fall (Kegon) 250 ft. high. The
   Shoji lakes lie at a height of 3160 ft., and their neighbourhood
-  abounds in scenic charms. Lake Hakone is at a height of 2428 ft.;
+  abounds in scenic [[Charm|charms]]. Lake Hakone is at a height of 2428 ft.;
   Inawashiro, at a height of 1920 ft. and Biwa at a height of 328 ft.
   The Japanese associate Lake Biwa (Omi) with eight views of special
   loveliness (_Omi-no-hakkei_). Lake Suwa, in Shinano, which is emptied
@@ -596,29 +596,29 @@ separately noticed.
   half of the Main Island and for Kiushiu, and quite incorrect as
   applied to the southern half of the Main Island and to Shikoku. This
   authority sums up the geology of Japan briefly and succinctly as
-  follows (in _Things Japanese_, by Professor Chamberlain): "The
-  backbone of the country consists of primitive gneiss and schists.
+  follows (in _Things Japanese_, by Professor [[Chamberlain]]): "The
+  backbone of the country consists of primitive [[Gneiss|gneiss]] and schists.
   Amongst the latter, in Shikoku, there is an extremely interesting rock
   consisting largely of piedmontite. Overlying these amongst the
   Palaeozoic rocks, we meet in many parts of Japan with slates and other
   rocks possibly of Cambrian or Silurian age. Trilobites have been
   discovered in Rikuzen. Carboniferous rocks are represented by mountain
-  masses of _Fusulina_ and other limestones. There is also amongst the
+  masses of _Fusulina_ and other [[Limestone|limestones]]. There is also amongst the
   Palaeozoic group an interesting series of red slates containing
   Radiolaria. Mesozoic rocks are represented by slates containing
   _Ammonites_ and _Monotis_, evidently of Triassic age, rocks containing
   _Ammonites Bucklandi_ of Liassic age, a series of beds rich in plants
-  of Jurassic age, and beds of Cretaceous age containing _Trigonia_ and
+  of [[Jurassic]] age, and beds of Cretaceous age containing _Trigonia_ and
   many other fossils. The Cainozoic or Tertiary system forms a fringe
   round the coasts of many portions of the empire. It chiefly consists
   of stratified volcanic tuffs rich in coal, lignite, fossilized plants
   and an invertebrate fauna. Diatomaceous earth exists at several places
   in Yezo. In the alluvium which covers all, the remains have been
-  discovered of several species of elephant, which, according to Dr
+  discovered of several species of [[Elephant|elephant]], which, according to Dr
   Edmund Naumann, are of Indian origin. The most common eruptive rock is
-  andesite. Such rocks as basalt, diorite and trachyte are comparatively
+  andesite. Such rocks as basalt, [[Diorite|diorite]] and trachyte are comparatively
   rare. Quartz porphyry, quartzless porphyry, and granite are largely
-  developed." Drs von Richthofen and Rein discuss the subject in greater
+  developed." Drs von Richthofen and Rein [[Discus|discuss]] the subject in greater
   detail. They have pointed out that in the mountain system of Japan
   there are three main lines. One runs from S.W. to N.E.; another from
   S.S.W. to N.N.E., and the third is meridional. These they call
@@ -654,7 +654,7 @@ separately noticed.
   between Hiogo and Osaka, as well as in the temples and walls of these
   towns. The waterfalls near Kobe descend over granite walls and the
   _mikageishi_ (stone of Mikage), famous throughout Japan, is granite
-  from Settsu.... In the hill country on the borders of Ise, Owari,
+  from Settsu.... In the hill country on the [[Borders|borders]] of Ise, Owari,
   Mikawa and Totomi, on the one side, and Omi, Mino and Shinano, on the
   other, granite frequently forms dark grey and much disintegrated
   rock-projections above schist and diluvial quartz pebbles. The
@@ -673,10 +673,10 @@ separately noticed.
   there. Thus, for instance, near Nikko in the upper valley of the
   Daiya-gawa, and in several other places in the neighbouring mountains,
   a granite-porphyry appears with large, pale, flesh-coloured crystals
-  of orthoclase, dull triclinic felspar, quartz and hornblende." "From
+  of orthoclase, dull triclinic felspar, quartz and [[Hornblende|hornblende]]." "From
   the mine of Ichinokawa in Shikoku come the wonderful crystals of
   antimonite, which form such conspicuous objects in the mineralogical
-  cabinets of Europe." (Rein's _Japan_ and Milne in _Things Japanese_.)
+  [[Cabinet|cabinets]] of Europe." (Rein's _Japan_ and Milne in _Things Japanese_.)
   The above conditions suggest the presence of tertiary formations, yet
   only the younger groups of that formation appear to be developed. Nor
   is there any sign of moraines, glacier-scorings or other traces of the
@@ -691,7 +691,7 @@ separately noticed.
   marine deposits are confined for the most part to the eastern side of
   the islands.
 
-  The igneous rocks occur at several geological horizons, but the great
+  The igneous rocks occur at several geological [[Horizon|horizons]], but the great
   volcanic eruptions did not begin until the Tertiary period. The
   existing volcanoes belong to four separate arcs or chains. On the
   south is the arc of the Luchu islands, which penetrates into Kiu Shiu.
@@ -706,14 +706,14 @@ separately noticed.
   "Fossa Magna" of Naumann) which stretches across the island of Hondo
   from Shimoda to Nagano. The depression is marked by a line of
   volcanoes, including Fuji, and is in part buried beneath the products
-  of their eruptions. It is supposed to be due to a great fault along
+  of their eruptions. It is supposed to be due to a great [[Fault|fault]] along
   its western margin. South and west of the Fossa Magna the beds are
-  thrown into folds which run approximately parallel to the general
+  thrown into [[Fold|folds]] which run approximately parallel to the general
   direction of the coast, and two zones may be recognized--an outer,
   consisting of Palaeozoic and Mesozoic beds, and an inner, consisting
   of Archaean and Palaeozoic rocks, with granitic intrusions. Nearly
   along the boundary between the two zones lie the inland seas of south
-  Japan. Towards the Fossa Magna the folds bend northwards.
+  Japan. Towards the Fossa Magna the folds [[Bend|bend]] northwards.
 
   North and east of the Fossa Magna the structure is concealed, to a
   very large extent, by the outpourings of the volcanoes which form so
@@ -798,7 +798,7 @@ separately noticed.
   rays of the sun retain distressing power. Winter in these districts
   does not last more than two months, from the end of December to the
   beginning of March; for although the latter month is not free from
-  frost and even snow, the balminess of spring makes itself plainly
+  [[Frost|frost]] and even snow, the balminess of spring makes itself plainly
   perceptible. In the northern half of the main island, in Yezo and in
   the Kuriles, the cold is severe during the winter, which lasts for at
   least four months, and snow falls sometimes to great depths. Whereas
@@ -845,7 +845,7 @@ separately noticed.
     Sapporo (Yezo)            44
 
   The following table affords data for comparing the climates of Peking,
-  Shanghai, Hakodate, Tokyo and San Francisco:--
+  Shanghai, [[Hakodate]], Tokyo and San Francisco:--
 
                                                Mean
                    Longitude.    Latitude.  Temp., F°.
@@ -886,7 +886,7 @@ separately noticed.
   only about 18% of the whole rain for the year falls. In the district
   on the east of the main island the snowfall is insignificant, seldom
   attaining a depth of more than four or five inches and generally
-  melting in a few days, while bright, sunny skies are usual. But in the
+  melting in a few days, while [[Bright|bright]], sunny skies are usual. But in the
   mountainous provinces of the interior and in those along the western
   coast, deep snow covers the ground throughout the whole winter, and
   the sky is usually wrapped in a veil of clouds. These differences are
@@ -914,7 +914,7 @@ separately noticed.
   May to September, these conditions of atmospheric pressure are
   reversed, that in the Pacific rising to 767 mm. and that in Japan
   falling to 750 mm. Hence throughout this season the prevailing winds
-  are light breezes from the west and south. A comparison of the force
+  are light [[Breeze|breezes]] from the west and south. A comparison of the force
   habitually developed by the wind in various parts of the islands shows
   that at Suttsu in Yezo the average strength is 9 metres per second,
   while Izuhara in the island Tsushima, Kumamoto in Kiushiu and Gifu in
@@ -931,13 +931,13 @@ separately noticed.
   remaining 9 months. But only 65 out of the whole number developed
   disastrous force. It is particularly unfortunate that September should
   be the season of greatest typhoon frequency, for the earlier varieties
-  of rice flower in that month and a heavy storm does much damage. Thus,
+  of rice [[Flower|flower]] in that month and a heavy storm does much damage. Thus,
   in 1902--by no means an abnormal year--statistics show the following
   disasters owing to typhoons: casualties to human life, 3639; ships and
   boats lost, 3244; buildings destroyed wholly or partially, 695,062;
   land inundated, 1,071,575 acres; roads destroyed, 1236 m.; bridges
-  washed away, 13,685; embankments broken, 705 m.; crops damaged,
-  8,712,655 bushels. The total loss, including cost of repairs, was
+  washed away, 13,685; [[Embankment|embankments]] broken, 705 m.; crops damaged,
+  8,712,655 [[Bushel|bushels]]. The total loss, including cost of repairs, was
   estimated at nearly 3 millions sterling, which may be regarded as an
   annual average.
 
@@ -949,19 +949,19 @@ separately noticed.
   special distinction. The spectacles most admired by all classes are
   the tints of the foliage in autumn and the glory of flowering trees in
   the spring. In beauty and variety of pattern and colour the autumnal
-  tints are unsurpassed. The colours pass from deep brown through purple
+  tints are unsurpassed. The [[Colours|colours]] pass from deep brown through purple
   to yellow and white, thrown into relief by the dark green of
   non-deciduous shrubs and trees. Oaks and wild prunus, wild vines and
-  sumachs, various kinds of maple, the dodan (_Enkianthus Japonicus_
+  sumachs, various kinds of [[Maple|maple]], the dodan (_Enkianthus Japonicus_
   Hook.)--a wonderful bush which in autumn develops a hue of ruddy
   red--birches and other trees, all add multitudinous colours to the
   brilliancy of a spectacle which is further enriched by masses of
   feathery bamboo. The one defect is lack of green sward. The grass used
-  for Japanese lawns loses its verdure in autumn and remains from
+  for Japanese [[Lawn|lawns]] loses its verdure in autumn and remains from
   November to March a greyish-brown blot upon the scene. Spring is
   supposed to begin in February when, according to the old calendar, the
   new year sets in, but the only flowers then in bloom are the _camellia
-  japonica_ and some kinds of daphne. The former--called by the Japanese
+  japonica_ and some kinds of [[Daphne|daphne]]. The former--called by the Japanese
   _tsubaki_--may often be seen glowing fiery red amid snow, but the pink
   (_otome tsubaki_), white (_shiro-tsubaki_) and variegated
   (_shibori-no-tsubaki_) kinds do not bloom until March or April.
@@ -987,16 +987,16 @@ separately noticed.
   the azalea (_tsutsuji_) and the iris (_shobu_), the last being almost
   contemporaneous with the peony (_botan_), which is regarded by many
   Japanese as the king of flowers and is cultivated assiduously. A
-  species of weeping maple (_shidare-momiji_) dresses itself in
+  species of weeping maple (_shidare-momiji_) [[Dress|dresses]] itself in
   peachy-red foliage and is trained into many picturesque shapes, though
-  not without detriment to its longevity. Summer sees the lotus
+  not without detriment to its [[Longevity|longevity]]. Summer sees the lotus
   (_renge_) convert wide expanses of lake and river into sheets of white
   and red blossoms; a comparatively flowerless interval ensues until, in
   October and November, the chrysanthemum arrives to furnish an excuse
   for fashionable gatherings. With the exception of the dog-days and the
   dead of winter, there is no season when flowers cease to be an object
   of attention to the Japanese, nor does any class fail to participate
-  in the sentiment. There is similar enthusiasm in the matter of
+  in the sentiment. There is similar [[Enthusiasm|enthusiasm]] in the matter of
   gardens. From the 10th century onwards the art of landscape gardening
   steadily grew into a science, with esoteric as well as exoteric
   aspects, and with a special vocabulary. The underlying principle is to
@@ -1007,7 +1007,7 @@ separately noticed.
   even the bushes are all selected or manipulated so as to fall
   congruously into the general scheme. If, on the one hand, huge stones
   are transported hundreds of miles from seashore or river-bed where, in
-  the lapse of long centuries, waves and cataracts have hammered them
+  the [[Lapse|lapse]] of long centuries, waves and [[Cataract|cataracts]] have hammered them
   into strange shapes, and if the harmonizing of their various colours
   and the adjustment of their forms to environment are studied with
   profound subtlety, so the training and tending of the trees and shrubs
@@ -1024,29 +1024,29 @@ separately noticed.
   does not apply to shrubs which blossom at their seasons and fall
   always into the general scheme of the landscape. Forests of
   cherry-trees, plum-trees, magnolia trees, or _hiyaku-jikko_
-  (_Lagerstroemia indica_), banks of azalea, clumps of hydrangea, groups
+  (_Lagerstroemia indica_), banks of azalea, clumps of [[Hydrangea|hydrangea]], groups
   of camellia--such have their permanent places and their foliage adds
   notes of colour when their flowers have fallen. But chrysanthemums,
   peonies, roses and so forth, are treated as special shows, and are
   removed or hidden when out of bloom. There is another remarkable
   feature of the Japanese gardener's art. He dwarfs trees so that they
   remain measurable only by inches after their age has reached scores,
-  even hundreds, of years, and the proportions of leaf, branch and stem
+  even hundreds, of years, and the proportions of [[Leaf|leaf]], branch and stem
   are preserved with fidelity. The pots in which these wonders of
   patient skill are grown have to be themselves fine specimens of the
-  ceramist's craft, and as much as £200 is sometimes paid for a notably
+  ceramist's [[Craft|craft]], and as much as £200 is sometimes paid for a notably
   well trained tree.
 
   There exists among many foreign observers an impression that Japan is
   comparatively poor in wild-flowers; an impression probably due to the
-  fact that there are no flowery meadows or lanes. Besides, the flowers
+  fact that there are no flowery meadows or [[Lane|lanes]]. Besides, the flowers
   are curiously wanting in fragrance. Almost the only notable exceptions
   are the _mokusei_ (_Osmanthus fragrans_), the daphne and the magnolia.
   Missing the perfume-laden air of the Occident, a visitor is prone to
   infer paucity of blossoms. But if some familiar European flowers are
   absent, they are replaced by others strange to Western eyes--a wealth
   of _lespedeza_ and _Indigo-fera_; a vast variety of lilies; graceful
-  grasses like the eulalia and the _ominameshi_ (_Patrina
+  [[Grasses|grasses]] like the eulalia and the _ominameshi_ (_Patrina
   scabiosaefolia_); the richly-hued _Pyrus japonica_; azaleas,
   diervillas and deutzias; the _kikyo_ (_Platycodon grandiflorum_), the
   _giboshi_ (_Funkia ovata_), and many another. The same is true of
@@ -1067,14 +1067,14 @@ separately noticed.
 
   The investigations of Japanese botanists are adding constantly to the
   above number, and it is not likely that finality will be reached for
-  some time. According to a comparison made by A. Gray with regard to
+  some time. According to a comparison made by A. [[Gray]] with regard to
   the numbers of genera and species respectively represented in the
   forest trees of four regions of the northern hemisphere, the following
   is the case:--
 
     Atlantic Forest-region of N. America   66 genera and 155 species.
     Pacific Forest-region of N. America    31 genera and  78 species.
-    Japan and Manchuria Forest-region      66 genera and 168 species.
+    Japan and [[Manchuria]] Forest-region      66 genera and 168 species.
     Forests of Europe                      33 genera and  85 species.
 
   While there can be no doubt that the luxuriance of Japan's flora is
@@ -1102,21 +1102,21 @@ separately noticed.
   lion nor the tiger is found. The true Carnivora are three only, the
   bear, the dog and the marten. Three species of bears are
   scientifically recognized, but one of them, the ice-bear (_Ursus
-  maritimus_), is only an accidental visitor, carried down by the Arctic
+  maritimus_), is only an accidental visitor, carried down by the [[Arctic]]
   current. In the main island the black bear (_kuma_, _Ursus japonicus_)
   alone has its habitation, but the island of Yezo has the great brown
   bear (called _shi-guma_, _oki-kuma_ or _aka-kuma_), the "grisly" of
   North America. The bear does not attract much popular interest in
-  Japan. Tradition centres rather upon the fox (_kitsune_) and the
+  Japan. Tradition centres rather upon the [[Fox|fox]] (_kitsune_) and the
   badger (_mujina_), which are credited with supernatural powers, the
-  former being worshipped as the messenger of the harvest god, while the
+  former being worshipped as the messenger of the [[Harvest|harvest]] god, while the
   latter is regarded as a mischievous rollicker. Next to these comes the
   monkey (_saru_), which dwells equally among the snows of the north and
   in the mountainous regions of the south. _Saru_ enters into the
   composition of many place-names, an evidence of the people's
   familiarity with the animal. There are ten species of bat (_komori_)
   and seven of insect-eaters, and prominent in this class are the mole
-  (_mugura_) and the hedgehog (_hari-nezumi_). Among the martens there
+  (_mugura_) and the hedgehog (_hari-nezumi_). Among the [[Martens|martens]] there
   is a weasel (_itachi_), which, though useful as a rat-killer, has the
   evil repute of being responsible for sudden and mysterious injuries to
   human beings; there is a river-otter (_kawauso_), and there is a
@@ -1127,22 +1127,22 @@ separately noticed.
   as well as the flying squirrel, known as the _momo-dori_ (peach-bird)
   in the north, where it hides from the light in hollow tree-trunks, and
   in the south as the _ban-tori_ (or bird of evening). There are no
-  rabbits, but hares (_usagi_) are to be found in very varying numbers,
+  rabbits, but [[Hare|hares]] (_usagi_) are to be found in very varying numbers,
   and those of one species put on a white coat during winter. The wild
   boar (_shishi_ or _ii-no-shishi_) does not differ appreciably from its
   European congener. Its flesh is much relished, and for some
   unexplained reason is called by its vendors "mountain-whale"
   (_yama-kujira_). A very beautiful stag (_shika_), with eight-branched
   antlers, inhabits the remote woodlands, and there are five species of
-  antelope (_kamo-shika_) which are found in the highest and least
+  [[Antelope|antelope]] (_kamo-shika_) which are found in the highest and least
   accessible parts of the mountains. Domestic animals have for
   representatives the horse (_uma_), a small beast with little beauty of
   form though possessing much hardihood and endurance; the ox (_ushi_)
-  mainly a beast of burden or draught; the pig (_buta_), very
+  mainly a beast of [[Burden|burden]] or draught; the pig (_buta_), very
   occasionally; the dog (_inu_), an unsightly and useless brute; the cat
   (_neko_), with a stump in lieu of a tail; barndoor fowl (_niwa-tori_),
   ducks (_ahiro_) and pigeons (_hato_). The turkey (_shichi-mencho_) and
-  the goose (_gacho_) have been introduced but are little appreciated as
+  the [[Goose|goose]] (_gacho_) have been introduced but are little appreciated as
   yet.
 
   Although so-called singing birds exist in tolerable numbers, those
@@ -1152,33 +1152,33 @@ separately noticed.
   considerable range. The _uguisu_ is a dainty bird in the matter of
   temperature. After May it retires from the low-lying regions and
   gradually ascends to higher altitudes as midsummer approaches. A
-  variety of the cuckoo called _holotogisu_ (_Cuculus poliocephalus_) in
+  variety of the [[Cuckoo|cuckoo]] called _holotogisu_ (_Cuculus poliocephalus_) in
   imitation of the sound of its voice, is heard as an accompaniment of
   the _uguisu_, and there are also three other species, the _kakkodori_
   (_Cuculus canorus_), the _tsutsu-dori_ (_C. himalayanus_), and the
-  _masuhakari_, or _juichi_ (_C. hyperythrus_). To these the lark,
+  _masuhakari_, or _juichi_ (_C. hyperythrus_). To these the [[Lark|lark]],
   _hibari_ (_Alauda japonica_), joins its voice, and the cooing of the
   pigeon (_hato_) is supplemented by the twittering of the ubiquitous
   sparrow (_suzume_), while over all are heard the raucous caw of the
-  raven (_karasu_) and the harsh scream of the kite (_tombi_), between
+  raven (_karasu_) and the harsh scream of the [[Kite|kite]] (_tombi_), between
   which and the raven there is perpetual feud. The falcon (_taka_),
   always an honoured bird in Japan, where from time immemorial hawking
   has been an aristocratic pastime, is common enough, and so is the
-  sparrow-hawk (_hai-taka_), but the eagle (_washi_) affects solitude.
+  sparrow-hawk (_hai-taka_), but the [[Eagle|eagle]] (_washi_) affects solitude.
   Two English ornithologists, Blakiston and Pryer, are the recognized
   authorities on the birds of Japan, and in a contribution to the
   _Transactions of the Asiatic Society of Japan_ (vol. x.) they have
   enumerated 359 species. Starlings (_muku-dori_) are numerous, and so
-  are the wagtail (_sekirei_), the swallow (_tsubame_) the martin
-  (_ten_), the woodchat (_mozu_) and the jay (_kakesu_ or _kashi-dori_),
-  but the magpie (_togarasu_), though common in China, is rare in Japan.
+  are the wagtail (_sekirei_), the swallow (_tsubame_) the [[Martin|martin]]
+  (_ten_), the woodchat (_mozu_) and the [[Jay|jay]] (_kakesu_ or _kashi-dori_),
+  but the [[Magpie|magpie]] (_togarasu_), though common in China, is rare in Japan.
   Blackbirds and thrushes are not found, nor any species of parrot, but
-  on the other hand, we have the hoopoe (_yatsugashira_), the red-breast
+  on the other hand, we have the [[Hoopoe|hoopoe]] (_yatsugashira_), the red-breast
   (_komadori_), the bluebird (_ruri_), the wren (_miso-sazai_), the
   golden-crested wren (_itadaki_), the golden-eagle (_inu-washi_), the
-  finch (_hiwa_), the longtailed rose-finch (_benimashiko_), the
+  [[Finch|finch]] (_hiwa_), the longtailed rose-finch (_benimashiko_), the
   ouzel--brown (_akahara_), dusky (_tsugumi_) and water
-  (_kawa-garasu_)--the kingfisher (_kawasemi_), the crake (_kuina_) and
+  (_kawa-garasu_)--the [[Kingfisher|kingfisher]] (_kawasemi_), the crake (_kuina_) and
   the tomtit (_kara_). Among game-birds there are the quail (_uzura_),
   the heathcock (_ezo-racho_), the ptarmigan (_ezo-raicho_ or
   _ezo-yama-dori_), the woodcock (hodo-shigi), the snipe
@@ -1194,7 +1194,7 @@ separately noticed.
   _tancho-zuru_), which stands some 5 ft. high and has pure white
   plumage with a red crown, black tail-feathers and black upper neck. It
   is a sacred bird, and it shares with the tortoise the honour of being
-  an emblem of longevity. The other species are the demoiselle crane
+  an [[Emblem|emblem]] of longevity. The other species are the demoiselle crane
   (_anewa-zuru_), the black crane (_kuro-zuru_ or _nezumi-zuru_, i.e.
   _Grus cinerea_), the _Grus leucauchen_ (_mana-zuru_), the _Grus
   monachus_ (_nabe-zuru_), and the white crane (_shiro-zuru_). The
@@ -1208,8 +1208,8 @@ separately noticed.
   (_daizen_); ringed (_shiro-chidori_); spur-winged (_keri_) and
   Harting's sand-plover (_ikaru-chidori_); sand-pipers--green
   (_ashiro-shigi_) and spoon-billed (_hera-shigi_)--and water-hens
-  (_ban_). Among swimming birds the most numerous are the gull
-  (_kamome_), of which many varieties are found; the cormorant
+  (_[[Ban|ban]]_). Among swimming birds the most numerous are the [[Gull|gull]]
+  (_kamome_), of which many varieties are found; the [[Cormorant|cormorant]]
   (_u_)--which is trained by the Japanese for fishing purposes--and
   multitudinous flocks of wild-geese (_gan_) and wild-ducks (_kamo_),
   from the beautiful mandarin-duck (_oshi-dori_), emblem of conjugal
@@ -1229,7 +1229,7 @@ separately noticed.
   waters, since it is seen only at rare intervals on the southern coast.
   This is even truer of the larger species (the _shogakubo_, i.e.
   _Chelonia cephalo_). Both are highly valued for the sake of the shell,
-  which has always been a favourite material for ladies' combs and
+  which has always been a favourite material for ladies' [[Comb|combs]] and
   hairpins. By carefully selecting certain portions and welding them
   together in a perfectly flawless mass, a pure amber-coloured object is
   obtained at heavy cost. Of the fresh-water tortoise there are two
@@ -1239,7 +1239,7 @@ separately noticed.
   attests close observation of nature; for the _mino-game_, as it is
   called, represents a tortoise to which, in the course of many scores
   of years, confervae have attached themselves so as to form an
-  appendage of long green locks as the creature swims about. Sea-snakes
+  appendage of long green [[Lock|locks]] as the creature swims about. Sea-snakes
   occasionally make their way to Japan, being carried thither by the
   Black Current (Kuro Shiwo) and the monsoon, but they must be regarded
   as merely fortuitous visitors. There are 10 species of land-snakes
@@ -1247,9 +1247,9 @@ separately noticed.
   Blomhoffi_) is venomous. The others for the most part frequent the
   rice-fields and live upon frogs. The largest is the _aodaisho_
   (_Elaphis virgatus_), which sometimes attains a length of 5 ft., but
-  is quite harmless. Lizards (_tokage_), frogs (_kawazu_ or _kaeru_),
+  is quite harmless. [[Lizard|Lizards]] (_tokage_), frogs (_kawazu_ or _kaeru_),
   toads (_ebogayeru_) and newts (_imori_) are plentiful, and much
-  curiosity attaches to a giant salamander (_sansho-uwo_, called also
+  curiosity attaches to a [[Giant|giant]] salamander (_sansho-uwo_, called also
   _hazekai_ and other names according to localities), which reaches to a
   length of 5 ft., and (according to Rein) is closely related to the
   _Andrias Scheuchzeri_ of the Oeningen strata.
@@ -1259,9 +1259,9 @@ separately noticed.
   permanently, there are migatory kinds, coming and going with the
   monsoons and with the great ocean streams that set to and from the
   shores. In winter, for example, when the northern monsoon begins to
-  blow, numbers of denizens of the Sea of Okhotsk swim southward to the
+  blow, numbers of [[Denizen|denizens]] of the Sea of Okhotsk swim southward to the
   more genial waters of north Japan; and in summer the Indian Ocean and
-  the Malayan archipelago send to her southern coasts a crowd of
+  the Malayan archipelago send to her southern coasts a [[Crowd|crowd]] of
   emigrants which turn homeward again at the approach of winter. It thus
   falls out that in spite of the enormous quantity of fish consumed as
   food or used as fertilizers year after year by the Japanese, the seas
@@ -1272,9 +1272,9 @@ separately noticed.
   are recorded in the Journal of the College of Science of the Imperial
   University of Tokyo. Briefly, the chief fish of Japan are the bream
   (_tai_), the perch (_suzuki_), the mullet (_bora_), the rock-fish
-  (_hatatate_), the grunter (_oni-o-koze_), the mackerel (_saba_), the
+  (_hatatate_), the grunter (_oni-o-koze_), the [[Mackerel|mackerel]] (_saba_), the
   sword-fish (_tachi-uwo_), the wrasse (_kusabi_), the haddock (_tara_),
-  the flounder (_karei_), and its congeners the sole (_hirame_) and the
+  the [[Flounder|flounder]] (_karei_), and its congeners the sole (_hirame_) and the
   turbot (_ishi-garei_), the shad (_namazu_), the salmon (_shake_), the
   _masu_, the carp (_koi_), the _funa_, the gold fish (_kingyo_), the
   gold carp (_higoi_), the loach (_dojo_), the herring (_nishin_), the
@@ -1284,15 +1284,15 @@ separately noticed.
   the shark (same), the dogfish (_manuka-zame_), the ray (_e_), the
   sturgeon (_cho-zame_) and the _maguro_ (_Thynnus sibi_).
 
-  The insect life of Japan broadly corresponds with that of temperate
+  The [[Insect|insect]] life of Japan broadly corresponds with that of temperate
   regions in Europe. But there are also a number of tropical species,
   notably among butterflies and beetles. The latter--for which the
   generic term in Japan is _mushi_ or _kaichu_--include some beautiful
-  species, from the "jewel beetle" (_tama-mushi_), the "gold beetle"
+  species, from the "[[Jewel|jewel]] beetle" (_tama-mushi_), the "gold beetle"
   (_kogane-mushi_) and the _Chrysochroa fulgidissima_, which glow and
   sparkle with the brilliancy of gold and precious stones, to the jet
   black _Melanauster chinensis_, which seems to have been fashioned out
-  of lacquer spotted with white. There is also a giant nasicornous
+  of [[Lacquer|lacquer]] spotted with white. There is also a giant nasicornous
   beetle. Among butterflies (_chocho_) Rein gives prominence to the
   broad-winged kind (_Papilio_), which recall tropical brilliancy. One
   (_Papilio macilentus_) is peculiar to Japan. Many others seem to be
@@ -1302,19 +1302,19 @@ separately noticed.
   (_Bombyx mori_ and _Antheraea yama-mai_) are employed in producing
   silk. Fishing lines are manufactured from the cocoons of the
   _genjiki-mushi_ (_Caligula japonica_), which is one of the commonest
-  moths in the islands. Wasps, bees and hornets, generically known as
+  moths in the islands. Wasps, [[Bee|bees]] and hornets, generically known as
   _hachi_, differ little from their European types, except that they are
   somewhat larger and more sluggish. The gad-fly (_abu_), the housefly
-  (_hai_), the mosquito (_ka_), the flea (_nomi_) and occasionally the
+  (_hai_), the mosquito (_ka_), the [[Flea|flea]] (_nomi_) and occasionally the
   bedbug (called by the Japanese _kara-mushi_ because it is believed to
   be imported from China), are all fully represented, and the dragon-fly
   (_tombo_) presents itself in immense numbers at certain seasons.
-  Grasshoppers (_batta_) are abundant, and one kind (_inago_), which
+  [[Grasshopper|Grasshoppers]] (_batta_) are abundant, and one kind (_inago_), which
   frequent the rice-fields when the cereal is ripening, are caught and
   fried in oil as an article of food. On the moors in late summer the
-  mantis (_kama-kiri-mushi_) is commonly met with, and the cricket
+  [[Mantis|mantis]] (_kama-kiri-mushi_) is commonly met with, and the cricket
   (_kurogi_) and the cockroach abound. Particularly obtrusive is the
-  cicada (_semi_), of which there are many species. Its strident voice
+  [[Cicada|cicada]] (_semi_), of which there are many species. Its strident voice
   is heard most loudly at times of great heat, when the song of the
   birds is hushed. The dragon-fly and the cicada afford ceaseless
   entertainment to the Japanese boy. He catches them by means of a rod
@@ -1325,7 +1325,7 @@ separately noticed.
   (_sasori_) exists but is not poisonous.
 
   Japanese rivers and lakes are the habitation of several--seven or
-  eight--species of fresh-water crab (_kani_), which live in holes on
+  eight--species of fresh-water [[Crab|crab]] (_kani_), which live in holes on
   the shore and emerge in the daytime, often moving to considerable
   distances from their homes. Shrimps (_kawa-ebi_) also are found in the
   rivers and rice-fields. These shrimps as well as a large species of
@@ -1338,7 +1338,7 @@ separately noticed.
   identified ten species which occur in Australian seas also, and Rein
   mentions, as belonging to the same category, the "helmet-crab" or
   "horse-shoe crab" (_kabuto-gani_; _Limulus longispina_ Hoeven). Very
-  remarkable is the giant _Taka-ashi_--long legs (_Macrocheirus
+  remarkable is the giant _Taka-ashi_--long [[Leg|legs]] (_Macrocheirus
   Kaempferi_), which has legs 1½ metres long and is found in the seas of
   Japan and the Malay archipelago. There is no lobster on the coasts of
   Japan, but there are various species of crayfish (_Palinurus_ and
@@ -1346,7 +1346,7 @@ separately noticed.
   (_Palinurus japonicus_) and _kuruma-ebi_ (_Penaeus canaliculatus_) are
   greatly prized as an article of diet.
 
-  Already in 1882, Dunker in his _Index Molluscorum Maris Japonici_
+  Already in 1882, Dunker in his _[[Index]] Molluscorum Maris Japonici_
   enumerated nearly 1200 species of marine molluscs found in the
   Japanese archipelago, and several others have since then been added
   to the list. As for the land and fresh-water molluscs, some 200 of
@@ -1366,7 +1366,7 @@ separately noticed.
   (_Tapes philippinarum_), the _hamaguri_ (_Meretrix lusoria_), the
   _baka_ (_Mactra sulcataria_), the _aka-gai_ (_Scapharca inflata_), the
   _kaki_ (oyster), the _awabi_ (_Haliotis japonica_), the _sazae_
-  (_Turbo cornutus_), the _hora-gai_ (_Tritonium tritonius_), &c. Among
+  (_Turbo [[Cornutus|cornutus]]_), the _hora-gai_ (_Tritonium tritonius_), &c. Among
   the cephalopods several are of great value as articles of food, e.g.
   the _surume_ (_Onychotheuthis Banksii_), the _tako_ (octopus), the
   _shidako_ (Eledone), the _ika_ (Sepia) and the _tako-fune_
@@ -1384,18 +1384,18 @@ separately noticed.
   _Asterias rubens_ on the Japanese coast. This creature displays an
   almost unexampled frequency and extent of distribution in the whole
   North Sea, in the western parts of the Baltic, near the Faroe Islands,
-  Iceland, Greenland and the English coasts, so that it may be regarded
+  [[Iceland]], Greenland and the English coasts, so that it may be regarded
   as a characteristic North Sea echinoderm form. Towards the south this
   starfish disappears, it seems, completely; for it is not yet known
   with certainty to exist either in the Mediterranean or in the southern
-  parts of the Atlantic Ocean. In others also _Asterias rubens_ is not
+  parts of the [[Atlantic Ocean]]. In others also _Asterias rubens_ is not
   known--and then it suddenly reappears in Japan. _Archaster typicus_
   has a pretty wide distribution over the Indian Ocean; other
   _Asteridae_ of Japan, on the other hand, appear to be confined to its
   shores."
 
-  Japan is not rich in corals and sponges. Her most interesting
-  contributions are crust-corals (_Gorgonidae_, _Corallium_, _Isis_,
+  Japan is not rich in [[Coral|corals]] and sponges. Her most interesting
+  contributions are crust-corals (_Gorgonidae_, _Corallium_, _[[Isis]]_,
   &c.), and especially flint-sponges, called by the Japanese _hoshi-gai_
   and known as "glass-coral" (_Hyalonema sieboldi_). These last have not
   been found anywhere except at the entrance of the Bay of Tokyo at a
@@ -1464,7 +1464,7 @@ grew as follows:--
   of population in recent years. Thus, during the period between 1899
   and 1907 the population received an increment of 11.6% whereas the
   food-producing area increased by only 4.4%. This discrepancy caused
-  anxiety at one time, but large fields suitable for colonization have
+  anxiety at one time, but large [[Fields|fields]] suitable for colonization have
   been opened in Sakhalin, Korea, Manchuria and Formosa, so that the
   problem of subsistence has ceased to be troublesome. The birth-rate,
   taking the average of the decennial period ended 1907, is 3.05% of the
@@ -1494,12 +1494,12 @@ grew as follows:--
     Nagoya       244,145    284,829
     Kobe         215,780    283,839
     Yokohama     193,762    324,776
-    Hiroshima    122,306    113,545
+    [[Hiroshima]]    122,306    113,545
     Nagasaki     107,422    151,727
     Kanazawa      83,595     97,548
     Sendai        83,325     93,773
     Hakodate      78,040     84,746
-    Fukuoka       66,190     70,107
+    [[Fukuoka]]       66,190     70,107
     Wakayama      63,667     67,908
     Tokushima     61,501     62,998
     Kumamoto      61,463     55,277
@@ -1531,13 +1531,13 @@ of the Japanese male is only 5 ft. 3½ in., and that of the female 4 ft.
 corresponding figures for males are 5 ft. 5¾ in. and 5 ft. 7 in.
 respectively. Yet in other physical characteristics the Japanese, the
 Koreans and the Chinese resemble each other so closely that, under
-similar conditions as to costume and coiffure, no appreciable difference
+similar conditions as to [[Costume|costume]] and coiffure, no appreciable difference
 is apparent. Thus since it has become the fashion for Chinese students
 to flock to the schools and colleges of Japan, there adopting, as do
 their Japanese fellow-students, Occidental garments and methods of
 hairdressing, the distinction of nationality ceases to be perceptible.
 The most exhaustive anthropological study of the Japanese has been made
-by Dr E. Baelz (emeritus professor of medicine in the Imperial
+by Dr E. Baelz ([[Emeritus|emeritus]] professor of medicine in the Imperial
 University of Tokyo), who enumerates the following sub-divisions of the
 race inhabiting the Japanese islands. The first and most important is
 the Manchu-Korean type; that is to say, the type which prevails in north
@@ -1547,7 +1547,7 @@ slenderness and elegance of figure; a face somewhat long, without any
 special prominence of the cheekbones but having more or less oblique
 eyes; an aquiline nose; a slightly receding chin; largish upper teeth; a
 long neck; a narrow chest; a long trunk, and delicately shaped, small
-hands with long, slender fingers. The most plausible hypothesis is that
+hands with long, slender [[Finger|fingers]]. The most plausible [[Hypothesis|hypothesis]] is that
 men of this type are descendants of Korean colonists who, in prehistoric
 times, settled in the province of Izumo, on the west coast of Japan,
 having made their way thither from the Korean peninsula by the island of
@@ -1562,7 +1562,7 @@ satisfactory theory as to the route by which the Mongols reached Japan,
 but it is scarcely possible to doubt that they found their way thither
 at one time. More important than either of these types as an element of
 the Japanese nation is the Malay. Small in stature, with a well-knit
-frame, the cheekbones prominent, the face generally round, the nose and
+[[Frame|frame]], the cheekbones prominent, the face generally round, the nose and
 neck short, a marked tendency to prognathism, the chest broad and well
 developed, the trunk long, the hands small and delicate--this Malay type
 is found in nearly all the islands along the east coast of the Asiatic
@@ -1654,19 +1654,19 @@ suicidal despair. An example alone is needed finally to destroy the
 equilibrium. Some one throws himself over a cataract or leaps into the
 crater of a volcano, and immediately a score or two follow. Apparently
 the more picturesquely awful the manner of the demise, the greater its
-attractive force. The thing is not a product of insanity, as the term is
+attractive force. The thing is not a product of [[Insanity|insanity]], as the term is
 usually interpreted; letters always left behind by the victims prove
 them to have been in full possession of their reasoning faculties up to
 the last moment. Some observers lay the blame at the door of Buddhism, a
 creed which promotes pessimism by begetting the anchorite, the ascetic
-and the shuddering believer in seven hells. But Buddhism did not
+and the shuddering believer in seven [[Hell|hells]]. But Buddhism did not
 formerly produce such incidents, and, for the rest, the faith of Shaka
 has little sway over the student mind in Japan. The phenomenon is
 modern: it is not an outcome of Japanese nature nor yet of Buddhist
 teaching, but is due to the stress of endeavouring to reach the
 standards of Western acquirement with grievously inadequate equipment,
 opportunities and resources. In order to support himself and pay his
-academic fees many a Japanese has to fall into the ranks of the physical
+academic [[Fee|fees]] many a Japanese has to fall into the ranks of the physical
 labourer during a part of each day or night. Ill-nourished, over-worked
 and, it may be, disappointed, he finds the struggle intolerable and so
 passes out into the darkness. But he is not a normal type. The normal
@@ -1682,22 +1682,22 @@ little suffering since he never frets over them, but the hour of combat
 finds him forgetful of everything save victory. In the case of the
 military class--and prior to the Restoration of 1867 the term "military
 class" was synonymous with "educated class"--this spirit of stoicism was
-built up by precept on a solid basis of heredity. The _samurai_
+built up by precept on a solid basis of [[Heredity|heredity]]. The _samurai_
 (soldier) learned that his first characteristic must be to suppress all
 outward displays of emotion. Pain, pleasure, passion and peril must all
 find him unperturbed. The supreme test, satisfied so frequently as to be
-commonplace, was a shocking form of suicide performed with a placid
+[[Commonplace|commonplace]], was a shocking form of suicide performed with a placid
 mien. This capacity, coupled with readiness to sacrifice life at any
 moment on the altar of country, fief or honour, made a remarkably heroic
 character. On the other hand, some observers hold that the education of
 this stoicism was effected at the cost of the feelings it sought to
 conceal. In support of that theory it is pointed out that the average
 Japanese, man or woman, will recount a death or some other calamity in
-his own family with a perfectly calm, if not a smiling, face. Probably
+his own family with a perfectly [[Calm|calm]], if not a smiling, face. Probably
 there is a measure of truth in the criticism. Feelings cannot be
 habitually hidden without being more or less blunted. But here another
 Japanese trait presents itself--politeness. There is no more polite
-nation in the world than the Japanese. Whether in real courtesy of heart
+nation in the world than the Japanese. Whether in real [[Courtesy|courtesy]] of heart
 they excel Occidentals may be open to doubt, but in all the forms of
 comity they are unrivalled. Now one of the cardinal rules of politeness
 is to avoid burdening a stranger with the weight of one's own woes.
@@ -1711,7 +1711,7 @@ love does not exist in Japan. The truth is that in no other country do
 so many dual suicides occur--suicides of a man and woman who, unable to
 be united in this world, go to a union beyond the grave. It is true,
 nevertheless, that love as a prelude to marriage finds only a small
-place in Japanese ethics. Marriages in the great majority of cases are
+place in Japanese [[Ethics|ethics]]. Marriages in the great majority of cases are
 arranged with little reference to the feelings of the parties concerned.
 It might be supposed that conjugal fidelity must suffer from such a
 custom. It does suffer seriously in the case of the husband, but
@@ -1726,7 +1726,7 @@ by egoism; patient in the hour of suffering; strong in time of
 affliction; a faithful wife; a loving mother; a good daughter; and
 capable, as history shows, of heroism rivalling that of the stronger
 sex. As to the question of sexual virtue and morality in Japan, grounds
-for a conclusive verdict are hard to find. In the interests of hygiene
+for a conclusive verdict are hard to find. In the interests of [[Hygiene|hygiene]]
 prostitution is licensed, and that fact is by many critics construed as
 proof of tolerance. But licensing is associated with strict segregation,
 and it results that the great cities are conspicuously free from
@@ -1762,7 +1762,7 @@ undoubtedly in the lower ranks of Japanese tradesmen a comparatively
 large fringe of persons whose standard of commercial morality is
 defective. They are descendants of feudal days when the mercantile
 element, being counted as the dregs of the population, lost its
-self-respect. Against this blemish--which is in process of gradual
+self-respect. Against this blemish--which is in process of [[Gradual|gradual]]
 correction--the fact has to be set that the better class of merchants,
 the whole of the artisans and the labouring classes in general, obey
 canons of probity fully on a level with the best to be found elsewhere.
@@ -1772,23 +1772,23 @@ whole nation.
 
 There are five qualities possessed by the Japanese in a marked degree.
 The first is frugality. From time immemorial the great mass of the
-people have lived in absolute ignorance of luxury in any form and in the
+people have lived in absolute [[Ignorance|ignorance]] of luxury in any form and in the
 perpetual presence of a necessity to economize. Amid these circumstances
 there has emerged capacity to make a little go a long way and to be
 content with the most meagre fare. The second quality is endurance. It
 is born of causes cognate with those which have begotten frugality. The
 average Japanese may be said to live without artificial heat; his paper
-doors admit the light but do not exclude the cold. His brazier barely
+doors admit the light but do not exclude the cold. His [[Brazier|brazier]] barely
 suffices to warm his hands and his face. Equally is he a stranger to
 methods of artificial cooling. He takes the frost that winter inflicts
-and the fever that summer brings as unavoidable visitors. The third
+and the [[Fever|fever]] that summer brings as unavoidable visitors. The third
 quality is obedience; the offspring of eight centuries passed under the
 shadow of military autocracy. Whatever he is authoritatively bidden to
 do, that the Japanese will do. The fourth quality is altruism. In the
 upper classes the welfare of the family has been set above the interests
 of each member. The fifth quality is a genius for detail. Probably this
 is the outcome of an extraordinarily elaborate system of social
-etiquette. Each generation has added something to the canons of its
+[[Etiquette|etiquette]]. Each generation has added something to the canons of its
 predecessor, and for every ten points preserved not more than one has
 been discarded. An instinctive respect for minutiae has thus been
 inculcated, and has gradually extended to all the affairs of life. That
@@ -1804,7 +1804,7 @@ rather than retarded by their attention to detail.
 
 III.--LANGUAGE AND LITERATURE
 
-_Language._--Since the year 1820, when Klaproth concluded that the
+_Language._--Since the year 1820, when [[Klaproth]] concluded that the
 Japanese language had sprung from the Ural-Altaic stock, philologists
 have busied themselves in tracing its affinities. If the theories
 hitherto held with regard to the origin of the Japanese people be
@@ -1820,7 +1820,7 @@ it at a date exceedingly remote. As for the languages of Japan and
 China, they have remained essentially different throughout some twenty
 centuries in spite of the fact that Japan adopted Chinese calligraphy
 and assimilated Chinese literature. Mr K. Hirai has done much to
-establish his theory that Japanese and Aryan had a common parent. But
+establish his theory that Japanese and [[Aryan]] had a common parent. But
 nothing has yet been substantiated. Meanwhile an inquirer is confronted
 by the strange fact that of three neighbouring countries between which
 frequent communication existed, one (China) never deviated from an
@@ -1844,11 +1844,11 @@ inventive genius.
   opening of intercourse with their continental neighbours. Korea,
   however, had neither a literary nor an ethical message to deliver, and
   thus her script failed to attract much attention. Very different was
-  the case when China presented her noble code of Confucian philosophy
+  the case when China presented her noble [[Code|code]] of Confucian philosophy
   and the literature embodying it. The Japanese then recognized a lofty
   civilization and placed themselves as pupils at its feet, learning its
   script and deciphering its books. Their veneration extended to
-  ideographs. At first they adapted them frankly to their own tongue.
+  [[Ideograph|ideographs]]. At first they adapted them frankly to their own tongue.
   For example, the ideographs signifying _rice_ or _metal_ or _water_ in
   Chinese were used to convey the same ideas in Japanese. Each ideograph
   thus came to have two sounds, one Japanese, the other Chinese--e.g.
@@ -1892,7 +1892,7 @@ inventive genius.
     Exhalation.             _Ki._
     Electricity.            _Denki._
     Telegram.               _Dempo._         _Ho_ = tidings.
-    Electric light.         _Dento._         _To_ = lamp.
+    Electric light.         _Dento._         _To_ = [[Lamp|lamp]].
     Negative electricity.   _Indenki._       _In_ = the negative principle.
     Positive electricity.   _Yodenki._       _Yo_ = the positive principle.
     Thermo-electricity.     _Netsudenki._    _Netsu_ = heat.
@@ -1932,14 +1932,14 @@ inventive genius.
 
   It will be observed that in the above sentence there are two
   untranslated words, _wo_ and _wa_. These belong to a group of four
-  auxiliary particles called _te_ _ni_ _wo_ _ha_ (or _wa_), which serve
+  [[Auxiliary|auxiliary]] particles called _te_ _ni_ _wo_ _ha_ (or _wa_), which serve
   to mark the cases of nouns, _te_ (or _de_) being the sign of the
-  instrumental ablative; _ni_ that of the dative; _wo_ that of the
+  instrumental ablative; _ni_ that of the [[Dative|dative]]; _wo_ that of the
   objective, and _wa_ that of the nominative. These exist in the Korean
   language also, but not in any other tongue. There are also polite and
   ordinary forms of expression, often so different as to constitute
   distinct languages; and there are a number of honorifics which
-  frequently discharge the duty of pronouns. Another marked peculiarity
+  frequently [[Discharge|discharge]] the duty of pronouns. Another marked peculiarity
   is that active agency is never attributed to neuter nouns. A Japanese
   does not say "the poison killed him" but "he died on account of the
   poison;" nor does he say "the war has caused commodities to
@@ -1966,7 +1966,7 @@ inventive genius.
   ideograph and adopting in its place the Roman alphabet. But while
   every one appreciates the magnitude of the relief that would thus be
   afforded, there has as yet been little substantial progress. A
-  language which has been adapted from its infancy to ideographic
+  language which has been adapted from its [[Infancy|infancy]] to ideographic
   transmission cannot easily be fitted to phonetic uses.
 
   _Dictionaries._--F. Brinkley, _An Unabridged Japanese-English
@@ -2021,7 +2021,7 @@ of which may be attributed to the 6th century, while some doubtless date
 from the fourth or even the third. This _Kojiki_ marks the parting of
 the ways. Already by the time of its compilation the influence of
 Chinese civilization and Chinese literature had prevailed so greatly in
-Japan that the next authentic work, composed only eight years later, was
+Japan that the next [[Authentic|authentic]] work, composed only eight years later, was
 completely Chinese in style and embodied Chinese traditions and Chinese
 philosophical doctrines, not distinguishing them from their Japanese
 context. This volume was called the _Nihongi_ (_Chronicles of Japan_).
@@ -2030,7 +2030,7 @@ favour, for the classic style--that is to say, the Chinese--had now come
 to be regarded as the only erudite script. The _Chronicles_ re-traversed
 much of the ground already gone over by the _Record_, preserving many of
 the songs in occasionally changed form, omitting some portions,
-supplementing others, and imparting to the whole such an exotic
+supplementing others, and imparting to the whole such an [[Exotic|exotic]]
 character as almost to disqualify the work for a place in Japanese
 literature. Yet this was the style which thenceforth prevailed among the
 litterati of Japan. "Standard Chinese soon became easier to understand
@@ -2039,7 +2039,7 @@ and the native language changed rapidly during the century or two that
 followed the diffusion of the foreign tongue and civilization"
 (CHAMBERLAIN). The neglect into which the _Kojiki_ fell lasted until the
 17th century. Almost simultaneously with its appearance in type (1644)
-and its consequent accessibility, there arose a galaxy of scholars
+and its consequent accessibility, there arose a [[Galaxy|galaxy]] of scholars
 under whose influence the archaic style and the ancient Japanese
 traditions entered a period of renaissance. The story of this period and
 of its products has been admirably told by Sir Ernest Satow ("Revival of
@@ -2067,7 +2067,7 @@ in the earliest days. This great work of reconstruction was only one
 feature of the literary activity which marked the 17th and 18th
 centuries, when, under Tokugawa rule, the blessing of long-unknown peace
 came to the nation. Iyeyasu himself devoted the last years of his life
-to collecting ancient manuscripts. In his country retreat at Shizuoka he
+to collecting ancient [[Manuscript|manuscripts]]. In his country retreat at Shizuoka he
 formed one of the richest libraries ever brought together in Japan, and
 by will he bequeathed the Japanese section of it to his eighth son, the
 feudal chief of Owari, and the Chinese section to his ninth son, the
@@ -2096,7 +2096,7 @@ Vicarious interest, however, attaches to the productions of the Mito
 School on account of the political influence they exercised in
 rehabilitating the nation's respect for the throne by unveiling the
 picture of an epoch prior to the usurpations of military feudalism. The
-struggles of the great rival clans, replete with episodes of the most
+struggles of the great rival [[Clan|clans]], replete with episodes of the most
 tragic and stirring character, inspired quasi-historical narrations of a
 more popular character, which often took the form of illuminated
 scrolls. But it was not until the Meiji era that history, in the modern
@@ -2135,7 +2135,7 @@ history which will probably rank with anything of the kind in existence.
     Hakanaki mono wa       |   thing called life.
     Inochi nari keri       /
 
-  There is no English metre with this peculiar cadence.
+  There is no English metre with this peculiar [[Cadence|cadence]].
 
   It is not to be inferred that the writers of Japan, enamoured as they
   were of Chinese ideographs and Chinese style, deliberately excluded
@@ -2150,7 +2150,7 @@ history which will probably rank with anything of the kind in existence.
   _tanka_. The two greatest masters of Japanese poetry were Hitomaro and
   Akahito, both of the early 8th century, and next to them stands
   Tsurayuki, who flourished at the beginning of the 10th century, and is
-  not supposed to have transmitted his mantle to any successor. The
+  not supposed to have transmitted his [[Mantle|mantle]] to any successor. The
   choicest productions of the former two with those of many other poets
   were brought together in 756 and embodied in a book called the
   _Manyoshu (Collection of a Myriad Leaves)_. The volume remained unique
@@ -2162,7 +2162,7 @@ history which will probably rank with anything of the kind in existence.
   _Hyaku-ninshu (Hundred Odes by a Hundred Poets)_ brought together by
   Teika Kyo in the 13th century, we have all the classics of Japanese
   poetry. For the composition of the _uta_ gradually deteriorated from
-  the end of the 9th century, when a game called _uta-awase_ became a
+  the end of the 9th century, when a [[Game|game]] called _uta-awase_ became a
   fashionable pastime, and aristocratic men and women tried to string
   together versicles of 31 syllables, careful of the form and careless
   of the thought. The _uta-awase_, in its later developments, may not
@@ -2238,7 +2238,7 @@ history which will probably rank with anything of the kind in existence.
   rights as against the usurpations of military feudalism, may be said
   to have sowed the seeds of Japan's modern polity; and the _Taihei-ki_,
   by its erudite diction, skilful rhetoric, simplification of old
-  grammatical constructions and copious interpolation of Chinese words,
+  grammatical constructions and copious [[Interpolation|interpolation]] of Chinese words,
   furnished a model for many imitators and laid the foundations of
   Japan's 19th-century style. The _Taihei-ki_ produced another notable
   effect; it inspired public readers who soon developed into historical
@@ -2252,7 +2252,7 @@ history which will probably rank with anything of the kind in existence.
   in the manner of Selden's _Table Talk_."
 
 
-    The Drama.
+    The [[Drama]].
 
   The so-called dark age of Japanese literature was not entirely
   unproductive: it gave the drama (_No_) to Japan. Tradition ascribes
@@ -2267,11 +2267,11 @@ history which will probably rank with anything of the kind in existence.
   mime, and the performance, thus modified, received the name of No.
   Briefly speaking, the No was a dance of the most stately character,
   adapted to the incidents of dramas "which embrace within their scope a
-  world of legendary lore, of quaint fancies and of religious
+  world of legendary [[Lore|lore]], of quaint fancies and of religious
   sentiment." Their motives were chiefly confined to such themes as the
   law of retribution to which all human beings are subjected, the
   transitoriness of life and the advisability of shaking off from one's
-  feet the dust of this sinful world. But some were of a purely martial
+  feet the dust of this sinful world. But some were of a purely [[Martial|martial]]
   nature. This difference is probably explained by the fact that the
   idea of thus modifying the Kagura had its origin in musical
   recitations from the semi-romantic semi-historical narratives of the
@@ -2290,14 +2290,14 @@ history which will probably rank with anything of the kind in existence.
   the fathers of the art. For a moment, when the tide of Western
   civilization swept over Japan, the No seemed likely to be permanently
   submerged. But the renaissance of nationalism (_kokusui hoson_) saved
-  the venerable drama, and owing to the exertions of Prince Iwakura, the
+  the venerable drama, and owing to the exertions of Prince [[Iwakura]], the
   artist Hosho Kuro and Umewaka Minoru, it stands as high as ever in
   popular favour. Concerning the five schools into which the No is
   divided, their characteristics and their differences--these are
   matters of interest to the initiated alone.
 
 
-    The Farce.
+    The [[Farce]].
 
   The Japanese are essentially a laughter-loving people. They are highly
   susceptible of tragic emotions, but they turn gladly to the brighter
@@ -2347,10 +2347,10 @@ history which will probably rank with anything of the kind in existence.
   always a plebeian institution. No _samurai_ frequented the former or
   associated with the latter. With the introduction of Western
   civilization in modern times, however, the theatre ceased to be
-  tabooed by the aristocracy. Men and women of all ranks began to visit
+  tabooed by the [[Aristocracy|aristocracy]]. Men and women of all ranks began to visit
   it; the emperor himself consented (1887) to witness a performance by
   the great stars of the stage at the private residence of Marquis
-  Inouye; a dramatic reform association was organized by a number of
+  [[Inouye]]; a dramatic reform association was organized by a number of
   prominent noblemen and scholars; drastic efforts were made to purge
   the old historical dramas of anachronisms and inconsistencies, and at
   length a theatre (the _Yuraku-za_) was built on purely European lines,
@@ -2358,7 +2358,7 @@ history which will probably rank with anything of the kind in existence.
   long-drawn-out drama with interludes of whole farces, a visitor may
   devote only a few evening-hours to the pastime. The Shosagoto has not
   been abolished, nor is there any reason why it should be. It has
-  graces and beauties of its own. There remains to be noted the
+  [[Graces|graces]] and beauties of its own. There remains to be noted the
   incursion of amateurs into the histrionic realm. In former times the
   actor's profession was absolutely exclusive in Japan. Children were
   trained to wear their fathers' mantles, and the idea that a
@@ -2386,19 +2386,19 @@ history which will probably rank with anything of the kind in existence.
   drafts upon the Chinese vocabulary. To this may be attributed the
   appearance of a group of men known as _kangakusha_ (Chinese scholars).
   The most celebrated among them were: Fujiwara Seikwa (1560-1619), who
-  introduced his countrymen to the philosophy of Chu-Hi; Hayashi Rasan
+  introduced his countrymen to the philosophy of Chu-Hi; [[Hayashi]] Rasan
   (1583-1657), who wrote 170 treatises on scholastic and moral subjects;
   Kaibara Ekken (1630-1714), teacher of a fine system of ethics; Arai
   Hakuseki (1657-1725), historian, philosopher, statesman and financier:
   and Muro Kiuso, the second great exponent of Chu-Hi's philosophy.
-  "Japan owes a profound debt of gratitude to the _kangakusha_ of that
+  "Japan owes a profound [[Debt|debt]] of gratitude to the _kangakusha_ of that
   time. For their day and country they were emphatically the salt of
   earth." But naturally not all were believers in the same philosophy.
   The fervour of the followers of Chu-Hi (the orthodox school) could not
   fail to provoke opposition. Thus some arose who declared allegiance to
   the idealistic intuitionalism of Wang Yang-ming, and others advocated
   direct study of the works of Confucius and Mencius. Connected with
-  this rejection of Chu-Hi were such eminent names as those of Ito
+  this rejection of Chu-Hi were such eminent names as those of [[Ito]]
   Junsai (1627-1718), Ito Togai (1617-1736), Ogyu Sorai (1666-1728) and
   Dazai Shuntai (1679-1747). These Chinese scholars made no secret of
   their contempt for Buddhism, and in their turn they were held in
@@ -2481,11 +2481,11 @@ history which will probably rank with anything of the kind in existence.
   influence of politics may be strongly traced in the literature of that
   time, for the first romances produced by the new school were all of a
   political character: _Keikoku Bidan_ (_Model for Statesmen_, with
-  Epaminondas for hero) by Yano Fumio; _Setchubai (Plum-blossoms in
+  [[Epaminondas]] for hero) by Yano Fumio; _Setchubai (Plum-blossoms in
   snow)_ and _Kwakwan-o (Nightingale Among Flowers)_ by Suyehiro. This
   idea of subserving literature to political ends is said to have been
   suggested by Nakae Tokusuke's translation of Rousseau's _Contrat
-  social_. The year 1882 saw _Julius Caesar_ in a Japanese dress. The
+  social_. The year 1882 saw _[[Julius]] [[Caesar]]_ in a Japanese dress. The
   translator was Tsubouchi Shoyo, one of the greatest writers of the
   Meiji era. His _Shosetsu Shinsui (Essentials of a Novel)_ was an
   eloquent plea for realism as contrasted with the artificiality of the
@@ -2509,9 +2509,9 @@ history which will probably rank with anything of the kind in existence.
   of the most renowned of Japan's modern authors, and some of his
   historical romances have had wide vogue. Meanwhile the business of
   translating went on apace. Great numbers of European and American
-  authors were rendered into Japanese--Calderon, Lytton, Disraeli,
-  Byron, Shakespeare, Milton, Turgueniev, Carlyle, Daudet, Emerson,
-  Hugo, Heine, De Quincey, Dickens, Körner, Goethe--their name is legion
+  authors were rendered into Japanese--Calderon, [[Lytton]], Disraeli,
+  [[Byron]], Shakespeare, Milton, Turgueniev, Carlyle, [[Daudet]], [[Emerson]],
+  [[Hugo]], [[Heine]], De Quincey, [[Dickens]], Körner, Goethe--their name is [[Legion|legion]]
   and their influence upon Japanese literature is conspicuous. In 1888 a
   special course of German literature was inaugurated at the Imperial
   University, and with it is associated the name of Mori Ogai, Japan's
@@ -2532,7 +2532,7 @@ history which will probably rank with anything of the kind in existence.
   entirely unacquainted with journalism. During the last decades of the
   factory at Deshima the Dutch traders made it a yearly custom to submit
   to the governor of Nagasaki selected extracts from newspapers arriving
-  from Batavia, and these extracts, having been translated into
+  from [[Batavia]], and these extracts, having been translated into
   Japanese, were forwarded to the court in Yedo together with their
   originals. To such compilations the name of _Oranda fusetsu-sho (Dutch
   Reports)_ was given. Immediately after the conclusion of the first
@@ -2542,7 +2542,7 @@ history which will probably rank with anything of the kind in existence.
   translations were copied for circulation among officials, but the bulk
   of the people knew nothing of them. Thus the first real newspaper did
   not see the light until 1861, when a Yedo publisher brought out the
-  _Batavia News_, a compilation of items from foreign newspapers,
+  _Batavia News_, a compilation of [[Item|items]] from foreign newspapers,
   printed on Japanese paper from wooden blocks. Entirely devoid of local
   interest, this journal did not survive for more than a few months. It
   was followed, in 1864, by the _Shimbun-shi (News)_, which was
@@ -2561,7 +2561,7 @@ history which will probably rank with anything of the kind in existence.
   era (October 1867) no less than ten quasi-journals made their
   appearance. They were in fact nothing better than inferior magazines,
   printed from wood-blocks, issued weekly or monthly, and giving little
-  evidence of enterprise or intellect, though connected with them were
+  evidence of enterprise or [[Intellect|intellect]], though connected with them were
   the names of men destined to become famous in the world of literature,
   as Fukuchi Genichiro, Tsuji Shinji (afterwards Baron Tsuji) and Suzuki
   Yuichi. These publications attracted little interest and exercised no
@@ -2629,7 +2629,7 @@ history which will probably rank with anything of the kind in existence.
   syllabic characters to each ideograph, so that its columns became
   intelligible to every reader of ordinary education. It was followed by
   the _Yeiri Shimbun (Pictorial Newspaper)_, the first to insert
-  illustrations and to publish _feuilleton_ romances. Both of these
+  illustrations and to publish _[[Feuilleton|feuilleton]]_ romances. Both of these
   journals devoted space to social news, a radical departure from the
   austere restrictions observed by their aristocratic contemporaries.
 
@@ -2639,7 +2639,7 @@ history which will probably rank with anything of the kind in existence.
   The year 1881 saw the nation divided into political parties and within
   measured distance of constitutional government. Thenceforth the great
   majority of the newspapers and periodicals ranged themselves under the
-  flag of this or that party. An era of embittered polemics ensued. The
+  [[Flag|flag]] of this or that party. An era of embittered polemics ensued. The
   journals, while fighting continuously against each other's principles,
   agreed in attacking the ministry, and the latter found it necessary to
   establish organs of its own which preached the German system of state
@@ -2705,7 +2705,7 @@ history which will probably rank with anything of the kind in existence.
   of modern journalism. But a few years ago they used to compile
   laborious essays, in which the inspiration was drawn from Occidental
   textbooks, and the alien character of the source was hidden under a
-  veneer of Chinese aphorisms. To-day they write terse, succinct,
+  veneer of Chinese [[Aphorism|aphorisms]]. To-day they write terse, succinct,
   closely-reasoned articles, seldom diffuse, often witty; and generally
   free from extravagance of thought or diction. Incidentally they are
   hastening the assimilation of the written and the spoken languages
@@ -2742,7 +2742,7 @@ perfect and free in its allurements that nature seems to suggest both
 the motive and the treatment. Thus though neither botanically nor
 ornithologically correct, their flowers and their birds show a truth to
 nature, and a habit of minute observation in the artist, which cannot be
-too much admired. Every blade of grass, each leaf and feather, has been
+too much admired. Every blade of grass, each leaf and [[Feather|feather]], has been
 the object of loving and patient study.
 
 It has been rashly assumed by some writers that the Japanese do not
@@ -2764,7 +2764,7 @@ deviation in a line is fatal to good calligraphy, both among the Chinese
 and the Japanese. When they come to use the pencil in drawing, they
 already possess accuracy of eye and free command of the brush. Whether a
 Japanese art-worker sets himself to copy what he sees before him or to
-give play to his fancy in combining what he has seen with some ideal in
+give play to his [[Fancy|fancy]] in combining what he has seen with some ideal in
 his mind, the result shows perfect facility of execution and easy grace
 in all the lines.
 
@@ -2775,11 +2775,11 @@ and thus a wide field of motive was closed to him. On the other hand,
 the draped figure received admirable treatment from his brush, and the
 naturalistic school of the 17th, 18th and 19th centuries reached a high
 level of skill in depicting men, women and children in motion. Nor has
-there ever been a Japanese Landseer. Sosen's monkeys and badgers
+there ever been a Japanese [[Landseer]]. Sosen's monkeys and badgers
 constitute the one possible exception, but the horses, oxen, deer,
-tigers, dogs, bears, foxes and even cats of the best Japanese artists
+tigers, [[Dogs|dogs]], bears, [[Foxe|foxes]] and even cats of the best Japanese artists
 were ill drawn and badly modelled. In the field of landscape the
-Japanese painter fully reached the eminence on which his great Chinese
+Japanese painter fully reached the [[Eminence|eminence]] on which his great Chinese
 masters stood. He did not obey the laws of linear perspective as they
 are formulated in the Occident, nor did he show cast shadows, but his
 aerial perspective and his foreshortening left nothing to be desired. It
@@ -2834,13 +2834,13 @@ of the same tree, which in all points shall be exactly alike.
 The application of this principle in the same free spirit is the secret
 of much of the originality and the excellence of the decorative art of
 Japan. Her artists and artisans alike aim at symmetry, not by an equal
-division of parts, as we do, but rather by a certain balance of
+division of parts, as we do, but rather by a certain [[Balance|balance]] of
 corresponding parts, each different from the other, and not numerically
 even, with an effect of variety and freedom from formality. They seek
 it, in fact, as nature attains the same end. If we take for instance the
 skins of animals that are striped or spotted, we have the best
 possible illustration of nature's methods in this direction. Examining
-the tiger or the leopard, in all the beauty of their symmetrical
+the tiger or the [[Leopard|leopard]], in all the beauty of their symmetrical
 adornment, we do not see in any one example an exact repetition of the
 same stripes or spots on each side of the mesial line. They seem to be
 alike, and yet are all different. The line of division along the spine,
@@ -2850,7 +2850,7 @@ in size, direction, and to some extent in colour and depth of shade.
 Thus nature works, and so, following in her footsteps, works the
 Japanese artist. The same law prevailing in all nature's creation, in
 the plumage of birds, the painting of butterflies' wings, the marking of
-shells, and in all the infinite variety and beauty of the floral
+shells, and in all the [[Infinite|infinite]] variety and beauty of the floral
 kingdom, the lesson is constantly renewed to the observant eye. Among
 flowers the orchids, with all their fantastic extravagance and mimic
 imitations of birds and insects, are especially prolific in examples of
@@ -2865,14 +2865,14 @@ all his decorative work, avoiding studiously the exact repetition of any
 lines and spaces, and all diametrical divisions, or, if these be forced
 upon him by the shape of the object, exercising the utmost ingenuity to
 disguise the fact, and train away the eye from observing the weak point,
-as nature does in like circumstances. Thus if a lacquer box in the form
+as nature does in like circumstances. Thus if a lacquer [[Box|box]] in the form
 of a parallelogram is the object, Japanese artists will not divide it in
 two equal parts by a perpendicular line, but by a diagonal, as offering
 a more pleasing line and division. If the box be round, they will seek
 to lead the eye away from the naked regularity of the circle by a
 pattern distracting attention, as, for example, by a zigzag breaking the
 circular outline, and supported by other ornaments. A similar feeling is
-shown by them as colourists, and, though sometimes eccentric and daring
+shown by them as colourists, and, though sometimes [[Eccentric|eccentric]] and daring
 in their contrasts, they never produce discords in their chromatic
 scale. They have undoubtedly a fine sense of colour, and a similarly
 delicate and subtle feeling for harmonious blending of brilliant and
@@ -2904,7 +2904,7 @@ transition.
   First Period.
 
 Tradition refers to the advent of a Chinese artist named Nanriu, invited
-to Japan in the 5th century as a painter of the Imperial banners, but of
+to Japan in the 5th century as a painter of the Imperial [[Banners|banners]], but of
 the labours and influence of this man and of his descendants we have no
 record. The real beginnings of the study of painting and sculpture in
 their higher branches must be dated from the introduction of Buddhism
@@ -2934,7 +2934,7 @@ own work few, if any, examples have reached us; and those attributed
 with more or less probability to his hand are all representations of
 Buddhist divinities, showing a somewhat formal and conventional design,
 with a masterly calligraphic touch and perfect harmony of colouring.
-Tradition credits him with an especial genius for the delineation of
+Tradition [[Credit|credits]] him with an especial genius for the delineation of
 animals and landscape, and commemorates his skill by a curious anecdote
 of a painted horse which left its frame to ravage the fields, and was
 reduced to pictorial stability only by the sacrifice of its eyes. He
@@ -2963,7 +2963,7 @@ until a later period that each became the badge of a school.
   was frequently omitted altogether, even in the most famous works.
   Shadows and reflections were ignored, and perspective, approximately
   correct for landscape distances, was isometrical for near objects,
-  while the introduction of a symbolic sun or moon lent the sole
+  while the introduction of a symbolic sun or moon [[Lent|lent]] the sole
   distinction between a day and a night scene. The art was one of
   imperfect evolution, but for thirteen centuries it was the only living
   pictorial art in the world, and the Chinese deserve the honour of
@@ -2984,7 +2984,7 @@ until a later period that each became the badge of a school.
   He was a priest named Kakuyu, but better known as the abbot of Toba,
   who lived in the 12th century. An accomplished artist in the Chinese
   manner, he amused himself and his friends by burlesque sketches,
-  marked by a grace and humour that his imitators never equalled. Later,
+  marked by a grace and [[Humour|humour]] that his imitators never equalled. Later,
   the motive of the Toba pictures, as such caricatures were called,
   tended to degenerate, and the elegant figures of Kakuyu were replaced
   by scrawls that often substituted indecency and ugliness for art and
@@ -3011,7 +3011,7 @@ until a later period that each became the badge of a school.
   first descended from Kanaoka, the second from Takuma Taméuji (ending
   10th century), and the third from Fujiwara no Motomitsu (11th
   century). The last and greatest master of the school was a priest
-  named Meicho, better known as Cho Densu, the Japanese Fra Angelico. It
+  named Meicho, better known as Cho Densu, the Japanese Fra [[Angelico]]. It
   is to him that Japan owes the possession of some of the most stately
   and most original works in her art, sublime in conception, line and
   colour, and deeply instinct with the religious spirit. He died in
@@ -3050,7 +3050,7 @@ until a later period that each became the badge of a school.
   appertaining to arms and armour, and the strife between two puppet
   emperors for a shadow of authority in the 14th century brought another
   distracting element. It was not until the triumph of the northern
-  dynasty was achieved through the prowess of an interested champion of
+  dynasty was achieved through the prowess of an interested [[Champion|champion]] of
   the Ashikaga clan that the culture of ancient Japan revived. The
   palace of the Ashikaga shoguns then replaced the Imperial court as the
   centre of patronage of art and literature and established a new era in
@@ -3079,7 +3079,7 @@ scribes, and a colouring that varied between sparing washes of flat
 local tints and a strength and brilliancy of decorative effort that
 rivalled even that of the Buddhist pictures. The motives remained almost
 identical with those of the Chinese masters, and so imbued with the
-foreign spirit were many of the Japanese disciples that it is said they
+foreign spirit were many of the Japanese [[Disciple|disciples]] that it is said they
 found it difficult to avoid introducing Chinese accessories even into
 pictures of native scenery.
 
@@ -3126,7 +3126,7 @@ pictures of native scenery.
   led to a gradual falling-off from the old virility. The strength of
   Meicho, Sesshu, Motonobu and Tanyu gave place to a more or less
   slavish imitation of the old Japanese painters and their Chinese
-  exemplars, till the heirs to the splendid traditions of the great
+  exemplars, till the [[Heir|heirs]] to the splendid traditions of the great
   masters preserved little more than their conventions and shortcomings.
   It was time for a new departure, but there seemed to be no sufficient
   strength left within the charmed circle of the orthodox schools, and
@@ -3155,7 +3155,7 @@ material share in determining the creation and trend of the new school.
   the most beautiful but also the most trustworthy records of the life
   of his time. It was not to his paintings, however, that he owed his
   greatest influence, but to the powerful impulse he gave to the
-  illustration of books and broadsides by wood-engravings. It is true
+  illustration of books and [[Broadside|broadsides]] by wood-engravings. It is true
   that illustrated books were known as early as 1608, if not before, but
   they were few and unattractive, and did little to inaugurate the great
   stream of _ehon_, or picture books, that were to take so large a share
@@ -3176,7 +3176,7 @@ material share in determining the creation and trend of the new school.
   outside their social and artistic sphere and scarcely worthy of
   cultured criticism. It was in the middle of the 18th century that the
   decorative, but relatively feeble, Chinese art of the later Ming
-  period found favour in Japan and a clever exponent in a painter named
+  period found favour in Japan and a [[Clever|clever]] exponent in a painter named
   Ryurikyo. It must be regarded as a sad decadence from the old Chinese
   ideals, which was further hastened, from about 1765, by the popularity
   of the southern Chinese style. This was a weak affectation that found
@@ -3243,7 +3243,7 @@ light and shade and perspective were correctly observed. They were not,
 however, of sufficient capacity to render the adopted manner more than a
 subject of curiosity, except to a few followers who have reached down to
 the present generation. It is possible that the essays in perspective
-found in the pictures of Hokusai, Hiroshige, and some of the popular
+found in the pictures of Hokusai, [[Hiroshige]], and some of the popular
 artists of the 19th century, were suggested by Kokan's drawings and
 writings.
 
@@ -3251,7 +3251,7 @@ writings.
   Sixth Period.
 
 The sixth period began about 1875, when an Italian artist was engaged by
-the government as a professor of painting in the Engineering College at
+the government as a professor of painting in the [[Engineering]] College at
 Tokyo. Since that time some distinguished European artists have visited
 Japan, and several Japanese students have made a pilgrimage to Europe to
 see for themselves what lessons may be gained from Western art. These
@@ -3267,7 +3267,7 @@ the art of the West with that of Japan by adding to the latter the
 chiaroscuro and the linear perspective of the former. If the disciples
 of this school could shake off the Sesshu tradition of strong outlines
 and adopt the Kano Motonobu revelation of modelling by mass only, their
-work would stand on a high place. But they, too, receive little
+work would stand on a [[High Place|high place]]. But they, too, receive little
 encouragement. The tendency of the time is conservative in art matters.
 
   A series of magnificent publications has popularized art and its best
@@ -3306,8 +3306,8 @@ demands a somewhat detailed description.
   drawn by the artist, to whom the whole credit of the production
   generally belongs, with a brush on thin paper, which is then pasted
   face downwards on the block. The engraver, who is very rarely the
-  designer, then cuts the outlines into the block with a knife,
-  afterwards removing the superfluous wood with gouges and chisels.
+  designer, then cuts the outlines into the block with a [[Knife|knife]],
+  afterwards removing the superfluous wood with [[Gouge|gouges]] and [[Chisel|chisels]].
   Great skill is shown in this operation, which achieves perhaps the
   finest facsimile reproduction of drawings ever known without the aid
   of photographic processes. A peculiar but highly artistic device is
@@ -3347,10 +3347,10 @@ have been entirely destroyed in the terrible and minute extermination of
 Christianity by Hideyoshi at the beginning of the 17th century. Japanese
 tradition ascribes the invention of colour-printing to Idzumiya
 Gonshiro, who, about the end of the 17th century, first made use of a
-second block to apply a tint of red (_beni_) to his prints. Sir Ernest
+second block to apply a tint of red (_[[Beni|beni]]_) to his prints. Sir Ernest
 Satow states more definitely that "Sakakibara attributes its origin to
 the year 1695, when portraits of the actor Ichikawa Danjiuro, coloured
-by this process, were sold in the streets of Yedo for five cash apiece."
+by this process, were sold in the streets of Yedo for five [[Cash|cash]] apiece."
 The credit of the invention is also given to Torii Kiyonobu, who worked
 at about this time, and, indeed, is said to have made the prints above
 mentioned. But authentic examples of his work now remaining, printed in
@@ -3374,13 +3374,13 @@ named show a technical mastery of all the capabilities of the process.
   (worked c. 1781-1800), the founder of the Hosoda school; Utamaro
   (1754-1806), whose prints of beautiful women were collected by
   Dutchmen while he was still alive, and have had in our own day a vogue
-  greater, perhaps, than those of any other of his fellows; and Toyokuni
+  greater, perhaps, than those of any other of his [[Fellows|fellows]]; and Toyokuni
   I. (1768-1825), who especially devoted himself to broadsheet portraits
   of actors and dramatic scenes. The greatest of all the artists of the
   popular school was, however, Hokusai (1760-1849). His most famous
   series of broadsheets is the _Thirty-six Views of Mount Fuji_
   (1823-1829), which, in spite of the conventional title, includes at
-  least forty-six. His work is catalogued in detail by E. de Goncourt.
+  least forty-six. His work is catalogued in detail by E. de [[Goncourt]].
   At the beginning of the 19th century the process was technically at
   its greatest height, and in the hands of the great landscape artist,
   Hiroshige I., as well as the pupils of Toyokuni I.--Kunisada and
@@ -3527,7 +3527,7 @@ ancient Egypt or Greece, but no country besides Japan can boast a living
 and highly developed art that has numbered upwards of twelve centuries
 of unbroken and brilliant productiveness. Setting aside rude prehistoric
 essays in stone and metal, which have special interest for the
-antiquary, we have examples of sculpture in wood and metal, magnificent
+[[Antiquary|antiquary]], we have examples of sculpture in wood and metal, magnificent
 in conception and technique, dating from the earliest periods of what we
 may term historical Japan; that is, from near the beginning of the great
 Buddhist propaganda under the emperor Kimmei (540-571) and the princely
@@ -3549,9 +3549,9 @@ ancient capital of Nara, many noble relics of this period.
   Kamakura sculptor of the 8th or 9th century, and in simple and
   realistic dignity of pose and grand lines of composition are worthy of
   comparison with the works of ancient Greece. With these may be named
-  the demon lantern-bearers, so perfect in the grotesque treatment of
+  the demon lantern-bearers, so perfect in the [[Grotesque|grotesque]] treatment of
   the diabolical heads and the accurate anatomical forms of the sturdy
-  body and limbs; the colossal temple guardians of the great gate of
+  body and limbs; the colossal temple [[Guardian|guardians]] of the great gate of
   Todai-ji, by Unkei and Kwaikei (11th century), somewhat
   conventionalized, but still bearing evidence of direct study from
   nature, and inspired with intense energy of action; and the smaller
@@ -3562,7 +3562,7 @@ ancient capital of Nara, many noble relics of this period.
   graceful and least conventional of female sculptures in Japan, but
   infinitely remote from the feminine conception of the Greeks. The
   wooden portrait of Vimalakirtti, attributed to Unkei, at Kofuku-ji,
-  has some of the qualities of the images of the two Indian Buddhists.
+  has some of the qualities of the [[Image|images]] of the two Indian Buddhists.
   The sculptures attributed to Jocho, the founder of the Nara school,
   although powerful in pose and masterly in execution, lack the truth of
   observation seen in some of the earlier and later masterpieces.
@@ -3590,9 +3590,9 @@ ancient capital of Nara, many noble relics of this period.
 
   Sacred images were not the only specimens of glyptic art produced in
   these six centuries; reliquaries, bells, vases, incense-burners,
-  candlesticks, lanterns, decorated arms and armour, and many other
+  [[Candlestick|candlesticks]], [[Lantern|lanterns]], decorated arms and armour, and many other
   objects, showing no less mastery of design and execution, have reached
-  us. Gold and silver had been applied to the adornment of helmets and
+  us. Gold and silver had been applied to the adornment of [[Helmet|helmets]] and
   breastplates from the 7th century, but it was in the 12th century that
   the decoration reached the high degree of elaboration shown us in the
   armour of the Japanese Bayard, Yoshitsune, which is still preserved at
@@ -3600,7 +3600,7 @@ ancient capital of Nara, many noble relics of this period.
 
   Wooden masks employed in the ancient theatrical performances were made
   from the 7th century, and offer a distinct and often grotesque phase
-  of wood-carving. Several families of experts have been associated with
+  of wood-carving. Several families of [[Expert|experts]] have been associated with
   this class of sculpture, and their designs have been carefully
   preserved and imitated down to the present day.
 
@@ -3625,7 +3625,7 @@ that was to last four hundred years.
   and in the middle was affixed on each side a special ornament called
   the _menuki_, all adapted in material and workmanship to harmonize
   with the guard. The _kodzuka_, or handle of a little knife implanted
-  into the sheath of the short sword or dagger, was also of metal and
+  into the sheath of the short sword or [[Dagger|dagger]], was also of metal and
   engraved with like care. The founder of the first great line of tsuba
   and menuki artists was Goto Yujo (1440-1512), a friend of the painter
   Kano Motonobu, whose designs he adopted. Many families of sword
@@ -3651,16 +3651,16 @@ grow more conventional and the metal-workers more naturalistic as the
 the great artisan movement began. The initiator was Hidari Jingoro
 (1594-1652), at first a simple carpenter, afterwards one of the most
 famous sculptors in the land of great artists. The gorgeous decoration
-of the mausoleum of Iyeyasu at Nikko, and of the gateway of the Nishi
+of the [[Mausoleum|mausoleum]] of Iyeyasu at Nikko, and of the gateway of the Nishi
 Hongwan temple at Kioto, are the most striking instances of his
 handiwork or direction.
 
-  The pillars, architraves, ceilings, panels, and almost every available
-  part of the structure, are covered with arabesques and sculptured
+  The pillars, architraves, [[Ceiling|ceilings]], panels, and almost every available
+  part of the structure, are covered with [[Arabesque|arabesques]] and sculptured
   figures of dragons, lions, tigers, birds, flowers, and even pictorial
   compositions with landscapes and figures, deeply carved in solid or
   open work--the wood sometimes plain, sometimes overlaid with pigment
-  and gilding, as in the panelled ceiling of the chapel of Iyeyasu in
+  and [[Gilding|gilding]], as in the panelled ceiling of the chapel of Iyeyasu in
   Tokyo. The designs for these decorations, like those of the sword
   ornaments, were adopted from the great schools of painting, but the
   invention of the sculptor was by no means idle. From this time the
@@ -3676,7 +3676,7 @@ necessitated the pouch. In order to suspend this from the girdle there
 was employed a kind of button or toggle--the _netsuke_. The metallic
 bowl and mouthpiece of the pipe offered a tempting surface for
 embellishment, as well as the clasp of the pouch; and the netsuke, being
-made of wood, ivory or other material susceptible of carving, also gave
+made of wood, [[Ivory|ivory]] or other material susceptible of carving, also gave
 occasion for art and ingenuity.
 
   The engravers of pipes, pouch clasps, and the metallic discs
@@ -3697,7 +3697,7 @@ occasion for art and ingenuity.
   school under the Katsugawa, but the okimono formed an occasional
   amusement of the older glyptic artists. Some of the most exquisite and
   most ingenious of these earlier productions, such as the magnificent
-  iron eagle in the South Kensington Museum, the wonderful articulated
+  iron eagle in the South [[Kensington]] Museum, the wonderful articulated
   models of crayfish, dragons, serpents, birds, that are found in many
   European collections, came from the studios of the Miyochins; but
   these were the play of giants, and were not made as articles of
@@ -3713,7 +3713,7 @@ occasion for art and ingenuity.
 
 The present generation is more systematically commercial in its glyptic
 produce than any previous age. Millions of commercial articles in
-metal-work, wood and ivory flood the European markets, and may be bought
+metal-work, wood and ivory [[Flood|flood]] the European markets, and may be bought
 in any street in Europe at a small price, but they offer a variety of
 design and an excellence of workmanship which place them almost beyond
 Western competition. Above all this, however, the Japanese sculptor is a
@@ -3807,7 +3807,7 @@ aristocratic.
   namako-making took its place among the highest technical achievements
   of the sculptor. When it is remembered that the punching tool was
   guided solely by the hand and eye, and that three or more blows of the
-  mallet had to be struck for every dot, some conception may be formed
+  [[Mallet|mallet]] had to be struck for every dot, some conception may be formed
   of the patience and accuracy needed to produce these tiny
   protuberances in perfectly straight lines, at exactly equal intervals
   and of absolutely uniform size. Namako disposed in straight parallel
@@ -3831,7 +3831,7 @@ aristocratic.
   the _tsuya-ishime_, produced with a chisel sharpened so that its
   traces have a lustrous appearance; the _ore-kuchi_ (broken-tool), a
   peculiar kind obtained with a jagged tool; and the _gozamé_, which
-  resembles the plaited surface of a fine straw mat.
+  resembles the plaited surface of a fine straw [[Mat|mat]].
 
 
     Patina.
@@ -3915,7 +3915,7 @@ aristocratic.
   silver wire. Such a process presents no remarkable features, except
   that it has been carried by the Japanese to an extraordinary degree of
   elaborateness. The nunome-zogan is more interesting. Suppose, for
-  example, that the artist desires to produce an inlaid diaper. His
+  example, that the artist desires to produce an inlaid [[Diaper|diaper]]. His
   first business is to chisel the surface in lines forming the basic
   pattern of the design. Thus, for a diamond-petal diaper the chisel is
   carried across the face of the metal horizontally, tracing a number of
@@ -3965,9 +3965,9 @@ aristocratic.
   (wood-grained ground). The process in this case is to take a thin
   plate of metal and beat it into another plate of similar metal, so
   that the two, though welded together, retain their separate forms. The
-  mass, while still hot, is coated with _hena-tsuchi_ (a kind of marl)
-  and rolled in straw ash, in which state it is roasted over a charcoal
-  fire raised to glowing heat with the bellows. The clay having been
+  mass, while still hot, is coated with _hena-tsuchi_ (a kind of [[Marl|marl]])
+  and rolled in straw ash, in which state it is roasted over a [[Charcoal|charcoal]]
+  fire raised to glowing heat with the [[Bellows|bellows]]. The clay having been
   removed, another plate of the same metal is beaten in, and the same
   process is repeated. This is done several times, the number depending
   on the quality of graining that the expert desires to produce. The
@@ -4003,9 +4003,9 @@ them with full success, and they have added others quite as remarkable.
   (insertion). The decorative design having been completely chiselled in
   the round, is then fixed in a field of a different metal, in which a
   design of exactly similar outline has been cut out. The result is that
-  the picture has no blank reverse. For example, on the surface of a
+  the picture has no [[Blank|blank]] reverse. For example, on the surface of a
   shibuichi box-lid we see the backs of a flock of geese chiselled in
-  silver, and when the lid is opened, their breasts and the under-sides
+  silver, and when the lid is opened, their [[Breast|breasts]] and the under-sides
   of their pinions appear. The difficulty of such work is plain.
   Microscopic accuracy has to be attained in cutting out the space for
   the insertion of the design, and while the latter must be soldered
@@ -4052,7 +4052,7 @@ them with full success, and they have added others quite as remarkable.
   shibuichi), which involves beating together two kinds of shibuichi and
   then adding a third variety, after which the details of the picture
   are worked in as in the case of maze-gane. The charm of these methods
-  is that certain parts of the decorative design seem to float, not on
+  is that certain parts of the decorative design seem to [[Float|float]], not on
   the surface of the metal, but actually within it, an admirable effect
   of depth and atmosphere being thus produced. Mention must also be made
   of an extraordinarily elaborate and troublesome process invented by
@@ -4073,7 +4073,7 @@ them with full success, and they have added others quite as remarkable.
   little interest for the average European or American; and partly
   because the Japanese have not yet learned to adapt their skill to
   foreign requirements. They confine themselves at present to decorating
-  plaques, boxes and cases for cigars or cigarettes, and an occasional
+  plaques, boxes and cases for [[Cigar|cigars]] or cigarettes, and an occasional
   tea or coffee service; but the whole domain of salvers,
   dessert-services, race-cups and so on remains virtually unexplored.
   Only within the past few years have stores been established in the
@@ -4106,7 +4106,7 @@ Bronze is called by the Japanese _kara-kane_, a term signifying "Chinese
 metal" and showing clearly the source from which knowledge of the alloy
 was obtained. It is a copper-lead-tin compound, the proportions of its
 constituents varying from 72 to 88% of copper, from 4 to 20% of lead and
-from 2 to 8% of tin. There are also present small quantities of arsenic
+from 2 to 8% of tin. There are also present small quantities of [[Arsenic|arsenic]]
 and antimony, and zinc is found generally as a mere trace, but sometimes
 reaching to 6%. Gold is supposed to have found a place in ancient
 bronzes, but its presence has never been detected by analysis, and of
@@ -4180,7 +4180,7 @@ which branch of metal-work the Japanese show altogether unique skill.
   experts, finding it impossible to obtain adequate remuneration for
   first-class work, have been obliged to abandon the field altogether,
   or to lower their standard to the level of general appreciation, or by
-  forgery to cater for the perverted taste which attaches unreasoning
+  [[Forgery|forgery]] to cater for the perverted taste which attaches unreasoning
   value to age. Joun has produced, and is thoroughly capable of
   producing, bronzes at least equal to the best of Seimin's
   masterpieces, yet he has often been induced to put Seimin's name on
@@ -4200,7 +4200,7 @@ which branch of metal-work the Japanese show altogether unique skill.
   signal failure partly to the incompetence and intemperate behaviour of
   some of its foreign professors, and partly to a strong renaissance of
   pure Japanese classicism--one of the few accomplishments successfully
-  taught was that of modelling in plaster and chiselling in marble after
+  taught was that of modelling in plaster and chiselling in [[Marble|marble]] after
   Occidental methods. Marble statues are out of place in the wooden
   buildings as well as in the parks of Japan, and even plaster busts or
   groups, though less incongruous perhaps, have not yet found favour.
@@ -4247,7 +4247,7 @@ way, though the field for its employment has been greatly narrowed.
 
   FIG 14.--DOOR OF BRONZE LANTERN IN THE TODAI TEMPLE (8th century).
 
-  FIG. 15.--BRONZE DUCK INCENSE BURNER (15th century). British Museum.
+  FIG. 15.--BRONZE DUCK [[Incense|INCENSE]] BURNER (15th century). British Museum.
 
   FIG. 16.--BRONZE MIRROR (12th to 13th century).
 
@@ -4299,7 +4299,7 @@ way, though the field for its employment has been greatly narrowed.
   commonly seen in the works of Japanese sculptors are due to faulty
   observation. Without scientific training of any kind Matsumoto and his
   followers produced works in which the eye of science cannot detect any
-  error. But it is impossible to admit within the circle of high-art
+  [[Error|error]]. But it is impossible to admit within the circle of high-art
   productions these wooden figures of everyday men and women, unrelieved
   by any subjective element, and owing their merit entirely to the
   fidelity with which their contours are shaped, their muscles modelled,
@@ -4338,10 +4338,10 @@ way, though the field for its employment has been greatly narrowed.
   sculptured simply a man poised on the toes of one foot, the other foot
   raised, the arm extended, and the body straining forward in strong yet
   elastic muscular effort. A more imaginative work by the same artist
-  is a figure of a farmer who has just shot an eagle that swooped upon
-  his grandson. The old man holds his bow still raised. Some of the
+  is a figure of a [[Farmer|farmer]] who has just shot an eagle that swooped upon
+  his grandson. The old man holds his [[Bow|bow]] still raised. Some of the
   eagle's feathers, blown to his side, suggest the death of the bird; at
-  his feet lies the corpse of the little boy, and the horror, grief and
+  his feet lies the [[Corpse|corpse]] of the little boy, and the horror, grief and
   anger that such a tragedy would inspire are depicted with striking
   realism in the farmer's face. Such work has very close affinities with
   Occidental conceptions. The chief distinguishing feature is that the
@@ -4363,10 +4363,10 @@ character. The sovereign's palace itself was merely a wooden hut. Its
 pillars were thrust into the ground and the whole framework--consisting
 of posts, beams, rafters, door-posts and window-frames--was tied
 together with cords made by twisting the long fibrous stems of climbing
-plants. The roof was thatched, and perhaps had a gable at each end with
+plants. The roof was thatched, and perhaps had a [[Gable|gable]] at each end with
 a hole to allow the smoke of the wood fire to escape. Wooden doors swung
 on a kind of hook; the windows were mere holes in the walls. Rugs of
-skins or rush matting were used for sitting on, and the whole was
+skins or rush [[Matting|matting]] were used for sitting on, and the whole was
 surrounded with a palisade. In the middle of the 5th century
 two-storeyed houses seem to have been built, but the evidence on the
 subject is slender. In the 8th century, however, when the court was
@@ -4381,7 +4381,7 @@ streets, crossed at right angles by smaller thoroughfares. During this
 century the first sumptuary edict ordered that the dwellings of all high
 officials and opulent civilians should have tiled roofs and be coloured
 red, the latter injunction being evidently intended to stop the use of
-logs carrying their bark. Tiles thenceforth became the orthodox covering
+[[Log|logs]] carrying their bark. Tiles thenceforth became the orthodox covering
 for a roof, but vermilion, being regarded as a religious colour, found
 no favour in private dwellings. In the 9th century, after the capital
 had been established at Kioto, the palace of the sovereigns and the
@@ -4391,16 +4391,16 @@ of a box-like appearance. Massive, towering roofs, which impart an air
 of stateliness even to a wooden building and yet, by their graceful
 curves, avoid any suggestion of ponderosity, were still confined to
 Buddhist edifices. The architect of private dwellings attached more
-importance to satin-surfaced boards and careful joinery than to any
+importance to satin-surfaced boards and careful [[Joinery|joinery]] than to any
 appearance of strength or solidity.
 
   Except for the number of buildings composing it, the palace had little
   to distinguish it from a nobleman's mansion. The latter consisted of a
-  principal hall, where the master of the house lived, ate and slept,
+  principal hall, where the master of the house lived, [[Ate|ate]] and slept,
   and of three suites of chambers, disposed on the north, the east and
   the west of the principal hall. In the northern suite the lady of the
   house dwelt, the eastern and western suites being allotted to other
-  members of the family. Corridors joined the principal hall to the
+  members of the family. [[Corridor|Corridors]] joined the principal hall to the
   subordinate edifices, for as yet the idea had not been conceived of
   having more than one chamber under the same roof. The principal hall
   was usually 42 ft. square. Its centre was occupied by a "parent
@@ -4416,7 +4416,7 @@ appearance of strength or solidity.
   could be swung upward and outward. Privacy was obtained by blinds of
   split bamboo, and the parent chamber was separated from the
   ambulatory by similar bamboo blinds with silk cords for raising or
-  lowering them, or by curtains. The thick rectangular mats of uniform
+  lowering them, or by [[Curtain|curtains]]. The thick rectangular mats of uniform
   size which, fitting together so as to present a level unbroken
   surface, cover the floor of all modern Japanese houses, were not yet
   in use: floors were boarded, having only a limited space matted. This
@@ -4425,7 +4425,7 @@ appearance of strength or solidity.
   contemplative practice called for greater privacy. Interiors were then
   divided into smaller rooms by means of sliding doors covered with thin
   rice-paper, which permitted the passage of light while obstructing
-  vision; the hanging lattices were replaced by wooden doors which could
+  vision; the [[Hanging|hanging]] lattices were replaced by wooden doors which could
   be slid along a groove so as to be removable in the daytime, and an
   alcove was added in the principal chamber for a sacred picture or
   Buddhist image to serve as an object of contemplation for a devotee
@@ -4450,21 +4450,21 @@ employed to beautify it externally and internally.
   gallery railing. This gallery is sometimes supported upon a deep
   system of bracketing, corbelled out from the feet of the main pillars.
   Within this raised gallery, which is sheltered by the over-sailing
-  eaves, there is, in the larger temples, a columned loggia passing
+  [[Eaves|eaves]], there is, in the larger temples, a columned loggia passing
   round the two sides and the front of the building, or, in some cases,
   placed on the façade only. The ceilings of the loggias are generally
   sloping, with richly carved roof-timbers showing below at intervals;
   and quaintly carved braces connect the outer pillars with the main
   posts of the building. Some temples are to be seen in which the
   ceiling of the loggia is boarded flat and decorated with large
-  paintings of dragons in black and gold. The intercolumniation is
+  paintings of dragons in black and gold. The [[Intercolumniation|intercolumniation]] is
   regulated by a standard of about six or seven feet, and the general
   result of the treatment of columns, wall-posts, &c., is that the whole
   mural space, not filled in with doors or windows, is divided into
   regular oblong panels, which sometimes receive plaster, sometimes
   boarding and sometimes rich framework and carving or painted panels.
   Diagonal bracing or strutting is nowhere to be found, and in many
-  cases mortises and other joints are such as very materially to weaken
+  cases mortises and other [[Joints|joints]] are such as very materially to weaken
   the timbers at their points of connexion. It would seem that only the
   immense weight of the roofs and their heavy projections prevent a
   collapse of some of these structures in high winds. The principal
@@ -4496,7 +4496,7 @@ employed to beautify it externally and internally.
   view. The interior arrangement of wall columns, horizontal beams and
   cornice bracketing corresponds with that on the outside. The ceiling
   is invariably boarded and subdivided by ribs into small rectangular
-  coffers. Sometimes painting is introduced into these panels and
+  [[Coffer|coffers]]. Sometimes painting is introduced into these panels and
   lacquer and metal clasps are added to the ribs. When the temple is of
   very large dimensions an interior peristyle of pillars is introduced
   to assist in supporting the roof, and in such cases each pillar
@@ -4520,7 +4520,7 @@ employed to beautify it externally and internally.
 
 None of the magnificence of the Buddhist temple belongs to the Shinto
 shrine. In the case of the latter conservatism has been absolute from
-time immemorial. The shrines of Ise, which may be called the Mecca of
+time immemorial. The shrines of Ise, which may be called the [[Mecca]] of
 Shinto devotees, are believed to present to-day precisely the appearance
 they presented in 478, when they were moved thither in obedience to a
 revelation from the Sun-goddess. It has been the custom to rebuild them
@@ -4548,15 +4548,15 @@ decorative genius of Japan show more attractive results than in that of
 textile fabrics, and in none has there been more conspicuous progress
 during recent years. Her woven and embroidered stuffs have always been
 beautiful; but in former times few pieces of size and splendour were
-produced, if we except the curtains used for draping festival cars and
+produced, if we except the curtains used for draping festival [[Car|cars]] and
 the hangings of temples. Tapestry, as it is employed in Europe, was not
 thought of, nor indeed could the small hand-looms of the period be
-easily adapted to such work. All that has been changed, however. Arras
+easily adapted to such work. All that has been changed, however. [[Arras]]
 of large dimensions, showing remarkable workmanship and grand
 combinations of colours, is now manufactured in Kioto, the product of
 years of patient toil on the part of weaver and designer alike.
 Kawashima of Kioto has acquired high reputation for work of this kind.
-He inaugurated the new departure a few years ago by copying a Gobelin,
+He inaugurated the new departure a few years ago by copying a [[Gobelin]],
 but it may safely be asserted that no Gobelin will bear comparison with
 the pieces now produced in Japan.
 
@@ -4572,7 +4572,7 @@ the pieces now produced in Japan.
   ft. by 13, and represented the annual festival at the Nikko mausolea.
   The chief shrine was shown, as were also the gate and the long flight
   of stone steps leading up to it, several other buildings, the groves
-  of cryptomeria that surround the mausolea, and the festival
+  of [[Cryptomeria|cryptomeria]] that surround the mausolea, and the festival
   procession. All the architectural and decorative details, all the
   carvings and colours, all the accessories--everything was wrought in
   silk, and each of the 1500 figures forming the procession wore exactly
@@ -4597,8 +4597,8 @@ the pieces now produced in Japan.
   of dyeing is, in fact, the difference between a stencilled sketch and
   a finished picture. In the case of cut velvet, the yuzen process is
   supplemented as follows: The cutter, who works at an ordinary wooden
-  bench, has no tool except a small sharp chisel with a V-shaped point.
-  This chisel is passed into an iron pencil having at the end guards,
+  [[Bench|bench]], has no tool except a small sharp chisel with a V-shaped point.
+  This chisel is passed into an iron pencil having at the end [[Guards|guards]],
   between which the point of the chisel projects, so that it is
   impossible for the user to cut beyond a certain depth. When the velvet
   comes to him, it already carries a coloured picture permanently fixed
@@ -4677,7 +4677,7 @@ the Middle Kingdom had then (Sung dynasty) fully entered the road which
 was destined to carry them ultimately to a high pinnacle of their craft.
 It had long been customary in Japan to send students to China for the
 purpose of studying philosophy and religion, and she now (1223) sent a
-potter, Kato Shirozaemon, who, on his return, opened a kiln at Seto in
+potter, [[Kato]] Shirozaemon, who, on his return, opened a kiln at Seto in
 the province of Owari, and began to produce little jars for preserving
 tea and cups for drinking it. These were conspicuously superior to
 anything previously manufactured. Kato is regarded as the father of
@@ -4687,14 +4687,14 @@ country, had no valid claim to decorative excellence. Nearly three
 centuries elapsed before a radically upward movement took place, and on
 this occasion also the inspiration came from China. In 1520 a potter
 named Gorodayu Goshonzui (known to posterity as Shonzui) made his way to
-Fuchow and thence to King-te-chen, where, after five years' study, he
+[[Fuchow]] and thence to King-te-chen, where, after five years' study, he
 acquired the art of manufacturing porcelain, as distinguished from
 pottery, together with the art of applying decoration in blue under the
 glaze. He established his kiln at Arita in Hizen, and the event marked
 the opening of the second epoch of Japanese ceramics. Yet the new
 departure then made did not lead far. The existence of porcelain clay in
 Hizen was not discovered for many years, and Shonzui's pieces being made
-entirely with kaolin imported from China, their manufacture ceased after
+entirely with [[Kaolin|kaolin]] imported from China, their manufacture ceased after
 his death, though knowledge of the processes learned by him survived and
 was used in the production of greatly inferior wares. The third clearly
 differentiated epoch was inaugurated by the discovery of true kaolin at
@@ -4713,7 +4713,7 @@ Bizen, Takatori, Banko, Izumo and Yatsushiro.
   There are three chief varieties of Hizen ware, namely, (1) the
   enamelled porcelain of Arita--the "old Japan" of European collectors;
   (2) the enamelled porcelain of Nabeshima; and (3) the blue and white,
-  or plain white, porcelain of Hirado. The earliest manufacture of
+  or plain white, porcelain of [[Hirado]]. The earliest manufacture of
   porcelain--as distinguished from pottery--began in the opening years
   of the 16th century, but its materials were exotic. Genuine Japanese
   porcelain dates from about a century later. The decoration was
@@ -4764,7 +4764,7 @@ Bizen, Takatori, Banko, Izumo and Yatsushiro.
 
     Kioto.
 
-  The history of Kioto ware--which, being for the most part faience,
+  The history of Kioto ware--which, being for the most part [[Faience|faience]],
   belongs to an entirely different category from the Hizen porcelains
   spoken of above--is the history of individual ceramists rather than of
   special manufactures. Speaking broadly, however, four different
@@ -5019,7 +5019,7 @@ Bizen, Takatori, Banko, Izumo and Yatsushiro.
   headquarters of the manufacture of _cha-no-yu_ utensils, and many of
   the tiny pieces turned out there deserve high admiration, their
   technique being perfect, and their mahogany, russet-brown, amber and
-  buff glazes showing wonderful lustre and richness. Seto, in fact,
+  [[Buff|buff]] glazes showing wonderful lustre and richness. Seto, in fact,
   acquired such a widespread reputation for its ceramic productions that
   the term _seto-mono_ (Seto article) came to be used generally for all
   pottery and porcelain, just as "China" is in the West. Seto has now
@@ -5032,7 +5032,7 @@ Bizen, Takatori, Banko, Izumo and Yatsushiro.
   treat their materials scientifically, their work is often marred by
   unforeseen difficulties. For many years after Tamikichi's processes
   had begun to be practised, the only decoration employed was blue under
-  the glaze. Sometimes Chinese cobalt was used, sometimes Japanese, and
+  the glaze. Sometimes Chinese [[Cobalt|cobalt]] was used, sometimes Japanese, and
   sometimes a mixture of both. To Kawamoto Hansuke, who flourished about
   1830-1845, belongs the credit of having turned out the richest and
   most attractive ware of this class. But, speaking generally, Japanese
@@ -5162,7 +5162,7 @@ Bizen, Takatori, Banko, Izumo and Yatsushiro.
   various coloured clays--these and many other kinds are to be found,
   all, however, presenting one common feature, namely, skilful
   finger-moulding and a slight roughening of the surface as though it
-  had received the impression of coarse linen or crape before baking.
+  had received the impression of coarse linen or crape before [[Baking|baking]].
   This modern _banko-yaki_ is produced chiefly at Yokkaichi in the
   province of Ise. It is entirely different from the original banko-ware
   made in Kuwana, in the same province, by Numanami Gozaemon at the
@@ -5172,12 +5172,12 @@ Bizen, Takatori, Banko, Izumo and Yatsushiro.
   and the blue-and-white ware of Delft. He did not found a school,
   simply because he had nothing new to teach, and the fact that a modern
   ware goes by the same name as his productions is simply because his
-  seal--the inscription on which (_banko_, everlasting) suggested the
+  seal--the inscription on which (_banko_, [[Everlasting|everlasting]]) suggested the
   name of the ware--subsequently (1830) fell into the hands of one Mori
   Yusetsu, who applied it to his own ware. Mori Yusetsu, however, had
   more originality than Numanami. He conceived the idea of shaping his
   pieces by putting the mould inside and pressing the clay with the hand
-  into the matrix. The consequence was that his wares received the
+  into the [[Matrix|matrix]]. The consequence was that his wares received the
   design on the inner as well as the outer surface, and were moreover
   thumb-marked--essential characteristics of the banko-yaki now so
   popular.
@@ -5232,7 +5232,7 @@ writers about the _famille chrysanthemo-péonienne_ of Imari and the
 _genre Kakiemon_ of Nabeshima, but these porcelains, beautiful as they
 undoubtedly are, cannot be placed on the same level with the _kwan-yao_
 and _famille rose_ of the Chinese experts. The Imari ware, even though
-its thick biscuit and generally ungraceful shapes be omitted from the
+its thick [[Biscuit|biscuit]] and generally ungraceful shapes be omitted from the
 account, shows no enamels that can rival the exquisitely soft, broken
 tints of the _famille rose_; and the _Kakiemon_ porcelain, for all its
 rich though chaste contrasts, lacks the delicate transmitted tints of
@@ -5359,7 +5359,7 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   whose ninth descendant of the same name now produces fine specimens of
   Awata ware for foreign markets; Tanzan Yoshitaro and his son Rokuro,
   to whose credit stands a new departure in the form of faience having
-  _pâte-sur-pâte_ decoration of lace patterns, diapers and archaic
+  _pâte-sur-pâte_ decoration of [[Lace|lace]] patterns, diapers and archaic
   designs executed in low relief with admirable skill and minuteness;
   the two Bizan, renowned for their representations of richly apparelled
   figures as decorative motives; Rokubei, who studied painting under
@@ -5435,7 +5435,7 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   but followed the same models approximately. Takemoto, however, has
   made a speciality of black glazes, his aim being to rival the _Sung
   Chien-yao_, with its glaze of mirror-black or raven's-wing green, and
-  its leveret fur streaking or russet-moss dappling, the prince of all
+  its leveret [[Fur|fur]] streaking or russet-moss dappling, the prince of all
   wares in the estimation of the Japanese tea-clubs. Like Shozan, he is
   still very far from his original, but, also like Shozan, he produces
   highly meritorious pieces in his efforts to reach an ideal that will
@@ -5447,7 +5447,7 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   conspicuous prosperity as the administrative capital of the Tokugawa
   shoguns, it had no noted factories, doubtless owing to the absence of
   any suitable potter's clay in the immediate vicinity. Its only notable
-  production of a ceramic character was the work of Miura Kenya
+  production of a ceramic character was the work of Miura [[Kenya]]
   (1830-1843), who followed the methods of the celebrated Haritsu
   (1688-1704) of Kioto in decorating plain or lacquered wood with
   mosaics of raku faience having coloured glazes. Kenya was also a
@@ -5566,7 +5566,7 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   that the Tokyo artists often devote their skill to purposes of
   forgery, and that their imitations, especially of old Satsuma-yaki,
   are sometimes franked by dealers whose standing should forbid such
-  frauds. In this context it may be mentioned that, of late years,
+  [[Fraud|frauds]]. In this context it may be mentioned that, of late years,
   decoration of a remarkably microscopic character has been successfully
   practised in Kioto, Osaka and Kobe, its originator being Meisan of
   Osaka. Before dismissing the subject of modern Tokyo ceramics, it may
@@ -5581,7 +5581,7 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   Higuchi of Hirado is to be classed with ceramists of the new school on
   account of one ware only, namely, porcelain having translucid
   decoration, the so-called "grains of rice" of American collectors,
-  designated _hotaru-de_ (firefly style) in Japan. That, however, is an
+  designated _hotaru-de_ ([[Firefly|firefly]] style) in Japan. That, however, is an
   achievement of no small consequence, especially since it had never
   previously been essayed outside China. The Hirado expert has not yet
   attained technical skill equal to that of the Chinese. He cannot, like
@@ -5649,11 +5649,11 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   red and gold, a very degenerate offspring of the Chinese Ming type,
   which Hozen of Kioto reproduced so beautifully at the beginning of the
   19th century under the name of _eiraku-yaki_. Undoubtedly the best
-  specimens of this _kinran-de_ (brocade) porcelain of Kaga merit praise
-  and admiration; but, on the whole, ware so gaudy could not long hold a
+  specimens of this _kinran-de_ ([[Brocade|brocade]]) porcelain of Kaga merit praise
+  and admiration; but, on the whole, ware so [[Gaudy|gaudy]] could not long hold a
   high place in public esteem. The Kaga potters ultimately appreciated
   that defect. They still manufacture quantities of tea and coffee sets,
-  and dinner or dessert services of red-and-gold porcelain for foreign
+  and [[Dinner|dinner]] or dessert services of red-and-gold porcelain for foreign
   markets; but about 1885 some of them made zealous and patient efforts
   to revert to the processes that won so much fame for the old
   Kutani-yaki, with its grand combinations of rich, lustrous, soft-toned
@@ -5662,7 +5662,7 @@ Haruzane of Hirado, Shida Yasukyo of Kaga and Kato Masukichi of Seto.
   totally new departure has been made by Morishita Hachizaemon, a
   ceramic expert, in conjunction with Shida Yasukyo, president of the
   Kaga products joint stock company (_Kaga bussan kabushiki kaisha_) and
-  teacher in the Kaga industrial school. The line chosen by these
+  teacher in the Kaga [[Industrial School|industrial school]]. The line chosen by these
   ceramists is purely Chinese. Their great aim seems to be the
   production of the exquisite Chinese monochromes known as
   _u-kwo-tien-tsing_ (blue of the sky after rain) and _yueh-peh_
@@ -5687,7 +5687,7 @@ having fallen into its present state of decadence, the idea of competing
 with it did not occur to outsiders; and fourthly, that Europe and
 America had not developed their present keen appreciation of Chinese
 masterpieces. Yet it is remarkable that China, at the close of the 19th
-century, should have again furnished models to Japanese eclecticism.
+century, should have again furnished models to Japanese [[Eclecticism|eclecticism]].
 
 _Lacquer._--Japan derived the art of lacquering from China (probably
 about the beginning of the 6th century), but she ultimately carried it
@@ -5708,7 +5708,7 @@ the interior decoration of castles and temples, the services of the
 lacquerer were employed to an extent hitherto unknown, and there
 resulted some magnificent work on friezes, coffered ceilings, door
 panels, altar-pieces and cenotaphs. This new departure reached its
-climax in the Tokugawa mausolea of Yedo and Nikko, which are enriched by
+[[Climax|climax]] in the Tokugawa mausolea of Yedo and Nikko, which are enriched by
 the possession of the most splendid applications of lacquer decoration
 the world has ever seen, nor is it likely that anything of comparable
 beauty and grandeur will be again produced in the same line. Japanese
@@ -5788,14 +5788,14 @@ unhesitatingly referred to the time of Joken-in (Tsunayoshi).
   case. Cabinets, fire-screens, plaques and boxes resplendent with gold
   lacquer grounds carrying elaborate and profuse decoration of ivory and
   mother-of-pearl[4] are not objects that appeal to Japanese taste. They
-  belong essentially to the catalogue of articles called into existence
+  belong essentially to the [[Catalogue|catalogue]] of articles called into existence
   to meet the demand of the foreign market, being, in fact, an attempt
   to adapt the lacquerer's art to decorative furniture for European
   houses. On the whole it is a successful attempt. The plumage of
   gorgeously-hued birds, the blossoms of flowers (especially the
   hydrangea), the folds of thick brocade, microscopic diapers and
   arabesques, are built up with tiny fragments of iridescent shell, in
-  combination with silver-foil, gold-lacquer and coloured bone, the
+  combination with silver-foil, gold-lacquer and coloured [[Bone|bone]], the
   whole producing a rich and sparkling effect. In fine specimens the
   workmanship is extraordinarily minute, and every fragment of metal,
   shell, ivory or bone, used to construct the decorative scheme, is
@@ -5812,11 +5812,11 @@ unhesitatingly referred to the time of Joken-in (Tsunayoshi).
     Processes.
 
   In the manufacture of Japanese lacquer there are three processes. The
-  first is the extraction and preparation of the lac; the second, its
+  first is the extraction and preparation of the [[Lac|lac]]; the second, its
   application; and the third, the decoration of the lacquered surface.
   The lac, when taken from an incision in the trunk of the _Rhus
   vernicifera_ (_urushi-no-ki_), contains approximately 70% of lac acid,
-  4% of gum arabic, 2% of albumen, and 24% of water. It is strained,
+  4% of [[Gum|gum]] arabic, 2% of albumen, and 24% of water. It is strained,
   deprived of its moisture, and receives an admixture of gamboge,
   cinnabar, acetous protoxide or some other colouring matter. The object
   to be lacquered, which is generally made of thin white pine, is
@@ -5839,7 +5839,7 @@ unhesitatingly referred to the time of Joken-in (Tsunayoshi).
   details with gold and colours, he superposes a coat of translucid
   lacquer, which is finally subjected to careful polishing. If parts of
   the design are to be in relief, they are built up with a putty of
-  black lacquer, white lead, camphor and lamp-black. In all fine
+  black lacquer, white lead, camphor and [[Lamp-Black|lamp-black]]. In all fine
   lacquers gold predominates so largely that the general impression
   conveyed by the object is one of glow and richness. It is also an
   inviolable rule that every part must show beautiful and highly
@@ -5888,7 +5888,7 @@ and the enamels exported to Europe showed so much inferiority that they
 were supposed to be the products of a widely different era and of
 different makers. The industry was threatened with extinction, and would
 certainly have dwindled to insignificant dimensions had not a few
-earnest artists, working in the face of many difficulties and
+[[Earnest|earnest]] artists, working in the face of many difficulties and
 discouragements, succeeded in striking out new lines and establishing
 new standards for excellence.
 
@@ -5953,7 +5953,7 @@ new standards for excellence.
   made to perform, in part at any rate, the function of a porcelain
   glaze. Acting upon that theory, the experts of Tokyo and Nagoya have
   produced many very beautiful specimens of monochrome enamel--yellow
-  (canary or straw), _rose du Barry_, liquid-dawn, red, aubergine
+  ([[Canary|canary]] or straw), _rose [[Du Barry|du Barry]]_, liquid-dawn, red, [[Aubergine|aubergine]]
   purple, green (grass or leaf), dove-grey and lapis lazuli blue. The
   pieces do not quite reach the level of Chinese monochrome porcelains,
   but their inferiority is not marked. The artist's great difficulty is
@@ -6006,7 +6006,7 @@ posts. These evidences of civilization did not make their appearance
 until the first great era of Japanese reform, the Taika period
 (645-650), when stations were established along the principal highways,
 provision was made of post-horses, and a system of bells and checks was
-devised for distinguishing official carriers. In those days ordinary
+devised for distinguishing official [[Carrier|carriers]]. In those days ordinary
 travellers were required to carry passports, nor had they any share in
 the benefits of the official organization, which was entirely under the
 control of the minister of war. Great difficulties attended the
@@ -6044,14 +6044,14 @@ among the people.
   carried by them and their charges, as well as the transport services
   that each feudal chief was entitled to demand and the fees he had to
   pay in return. Tolerable hostelries now came into existence, but they
-  furnished only shelter, fuel and the coarsest kind of food. By
+  furnished only shelter, [[Fuel|fuel]] and the coarsest kind of food. By
   degrees, however, the progresses of the feudal chiefs to and from
   Yedo, which at first were simple and economical, developed features of
   competitive magnificence, and the importance of good roads and
   suitable accommodation received increased attention. This found
   expression in practice in 1663. A system more elaborate than anything
   antecedent was then introduced under the name of "flying transport."
-  Three kinds of couriers operated. The first class were in the direct
+  Three kinds of [[Courier|couriers]] operated. The first class were in the direct
   employment of the shogunate. They carried official messages between
   Yedo and Osaka--a distance of 348 miles--in four days by means of a
   well organized system of relays. The second class maintained
@@ -6116,7 +6116,7 @@ The question of road superintendence received early attention from the
 government of the restoration. At a general assembly of local prefects
 held at Tokyo in June 1875 it was decided to classify the different
 roads throughout the empire, and to determine the several sources from
-which the sums necessary for their maintenance and repair should be
+which the sums necessary for their [[Maintenance|maintenance]] and repair should be
 drawn. After several days' discussion all roads were eventually ranged
 under one or other of the following heads:--
 
@@ -6175,7 +6175,7 @@ the necessity of the case.
     The Jinrikisha.
 
   The vehicles chiefly employed in ante-Meiji days were ox-carriages,
-  _norimono_, _kago_ and carts drawn by hand. Ox-carriages were used
+  _norimono_, _kago_ and [[Cart|carts]] drawn by hand. Ox-carriages were used
   only by people of the highest rank. They were often constructed of
   rich lacquer; the curtains suspended in front were of the finest
   bamboo workmanship, with thick cords and tassels of plaited silk, and
@@ -6188,7 +6188,7 @@ the necessity of the case.
   pole which projected at either end sufficiently to admit the shoulders
   of a carrier. It, too, was frequently of very ornamental nature and
   served to carry aristocrats or officials of high position. The kago
-  was the humblest of all conveyances recognized as usable by the upper
+  was the humblest of all [[Conveyance|conveyances]] recognized as usable by the upper
   classes. It was an open palanquin, V-shaped in cross section, slung
   from a pole which rested on the shoulders of two bearers.
   Extraordinary skill and endurance were shown by the men who carried
@@ -6212,13 +6212,13 @@ the necessity of the case.
 _Railways._--It is easy to understand that an enterprise like railway
 construction, requiring a great outlay of capital with returns long
 delayed, did not at first commend itself to the Japanese, who were
-almost entirely ignorant of co-operation as a factor of business
+almost entirely ignorant of [[Co-Operation|co-operation]] as a factor of business
 organization. Moreover, long habituated to snail-like modes of travel,
 the people did not rapidly appreciate the celerity of the locomotive.
 Neither the ox-cart, the norimono, nor the kago covered a daily distance
 of over 20 m. on the average, and the packhorse was even slower. Amid
 such conditions the idea of railways would have been slow to germinate
-had not a catastrophe furnished some impetus. In 1869 a rice-famine
+had not a [[Catastrophe|catastrophe]] furnished some impetus. In 1869 a rice-famine
 occurred in the southern island, Kiushiu, and while the cereal was
 procurable abundantly in the northern provinces, people in the south
 perished of hunger owing to lack of transport facilities. Sir Harry
@@ -6252,7 +6252,7 @@ spoken of as "the father of Japanese railways."
   devote attention once again to railway problems, it found the treasury
   empty. Then for the first time a public works loan was floated in the
   home market, and about £300,000 of the total thus obtained passed into
-  the hands of the railway bureau, which at once undertook the building
+  the hands of the railway [[Bureau|bureau]], which at once undertook the building
   of a road from Kioto to the shore of Lake Biwa, a work memorable as
   the first line built in Japan without foreign assistance.[5] During
   all this time private enterprise had remained wholly inactive in the
@@ -6262,7 +6262,7 @@ spoken of as "the father of Japanese railways."
   was not yet prepared. But shortly after the abolition of feudalism
   there had come into the possession of the former feudatories state
   loan-bonds amounting to some 18 millions sterling, which represented
-  the sum granted by the treasury in commutation of the revenues
+  the sum granted by the treasury in [[Commutation|commutation]] of the revenues
   formerly accruing to these men from their fiefs. Already events had
   shown that the feudatories, quite devoid of business experience, were
   not unlikely to dispose of these bonds and devote the proceeds to
@@ -6295,7 +6295,7 @@ spoken of as "the father of Japanese railways."
 
   When this building of railways began in Japan, much discussion was
   taking place in England and India as to the relative advantages of the
-  wide and narrow gauges, and so strongly did the arguments in favour of
+  wide and narrow [[Gauge|gauges]], and so strongly did the arguments in favour of
   the latter appeal to the English advisers of the Japanese government
   that the metre gauge was chosen. Some fitful efforts made in later
   years to change the system proved unsuccessful. The lines are single,
@@ -6324,10 +6324,10 @@ spoken of as "the father of Japanese railways."
   and costly foreign staff was employed on these roads in the early
   days, whereas no such item appeared in the accounts of private lines;
   that extensive works for the building of locomotives and rolling stock
-  are connected with the government's roads, and that it fell to the lot
+  are connected with the government's roads, and that it fell to the [[Lot|lot]]
   of the state to undertake lines in districts presenting exceptional
   engineering difficulties, such districts being naturally avoided by
-  private companies. The gross earnings of all the lines during the
+  private companies. The [[Gross|gross]] earnings of all the lines during the
   fiscal year 1905-1906 were 7 millions sterling, approximately, and the
   gross expenses (including the payment of interest on loans and
   debentures) were under 3½ millions, so that there remained a net
@@ -6456,14 +6456,14 @@ seem to have experienced no difficulty in making the voyage. The 16th
 century was a period of maritime activity so marked that, had not
 artificial checks been applied, the Japanese, in all probability, would
 have obtained partial command of Far-Eastern waters. They invaded Korea;
-their corsairs harried the coasts of China; two hundred of their
+their [[Corsair|corsairs]] harried the coasts of China; two hundred of their
 vessels, sailing under authority of the Taiko's vermilion seal, visited
-Siam, Luzon, Cochin China and Annam, and they built ships in European
+Siam, Luzon, [[Cochin]] China and [[Annam]], and they built ships in European
 style which crossed the Pacific to Acapulco. But this spirit of
 adventure was chilled at the close of the 16th century and early in the
 17th, when events connected with the propagation of Christianity taught
 the Japanese to believe that national safety could not be secured
-without international isolation. In 1638 the ports were closed to all
+without [[International|international]] isolation. In 1638 the ports were closed to all
 foreign ships except those flying the flag of Holland or of China, and a
 strictly enforced edict forbade the building of any vessel having a
 capacity of more than 500 _koku_ (150 tons) or constructed for purposes
@@ -6508,7 +6508,7 @@ four years. Defective management and incapacity to compete with
 foreign-owned vessels plying between the open ports caused its downfall
 (1875). Already, however, an independent company had appeared upon the
 scene. Organized and controlled by a man (Iwasaki Yataro) of exceptional
-enterprise and business faculty, this _mitsubishi kaisha_ (three lozenge
+enterprise and business faculty, this _mitsubishi kaisha_ (three [[Lozenge|lozenge]]
 company, so called from the design on its flag), working with steamers
 chartered from the former feudatory of Tosa, to which clan Iwasaki
 belonged, proved a success from the outset, and grew with each
@@ -6529,7 +6529,7 @@ construction of ocean-going vessels had been rescinded.
   The next memorable event in this chapter of history occurred in 1877,
   when the Satsuma clan, eminently the most powerful and most warlike
   among all the former feudatories, took the field in open rebellion.
-  For a time the fate of the government hung in the balance, and only by
+  For a time the [[Fate|fate]] of the government hung in the balance, and only by
   a flanking movement over-sea was the rebellion crushed. This strategy
   compelled the purchase of 10 foreign steamers, and these too were
   subsequently handed over to the mitsubishi company, which, in 1880,
@@ -6593,14 +6593,14 @@ construction of ocean-going vessels had been rescinded.
   restore all the continental territory ceded to her by China. Japan
   then recognized that her hope of peace was delusive, and that she must
   be prepared to engage in a struggle incomparably more serious than the
-  one from which she had just emerged. Determined that when the crucial
+  one from which she had just emerged. Determined that when the [[Crucial|crucial]]
   moment came she should not be found without ample means for
   transporting her armies, the government, under the leadership of
   Prince Ito and with the consent of the diet, enacted, in March 1896
   laws liberally encouraging ship-building and navigation. Under the
   navigation law "any Japanese subject or any commercial company whose
   partners or shareholders were all Japanese subjects, engaged in
-  carrying passengers and cargo between Japan and foreign countries or
+  carrying passengers and [[Cargo|cargo]] between Japan and foreign countries or
   between foreign ports, in their own vessels, which must be of at least
   1000 tons and registered in the shipping list of the Empire, became
   entitled to subsidies proportionate to the distance run and the
@@ -6616,12 +6616,12 @@ construction of ocean-going vessels had been rescinded.
   aggregating 57 tons had been constructed in Japanese yards, 53
   steamers totalling 5380 tons and 193 sailing vessels of 17,873 tons
   were launched in 1900. By the year 1907 Japan had 216 private ship
-  yards and 42 private docks,[6] and while the government yards were
+  yards and 42 private [[Dock|docks]],[6] and while the government yards were
   able to build first-class line-of-battle ships of the largest size,
   the private docks were turning out steamers of 9000 tons burden. When
   war broke out with Russia in 1904, Japan had 567,000 tons of steam
   shipping, but that stupendous struggle obliged her to materially
-  augment even this great total. In operations connected with the war
+  [[Augment|augment]] even this great total. In operations connected with the war
   she lost 71,000 tons, but on the other hand, she built 27,000 tons at
   home and bought 177,000 abroad, so that the net increase to her
   mercantile fleet of steamers was 133,000 tons. The following table
@@ -6676,7 +6676,7 @@ construction of ocean-going vessels had been rescinded.
   a marked development in the number of licensed mariners; that is to
   say, seamen registered by the government as having passed the
   examination prescribed by law. In 1876 there were only 4 Japanese
-  subjects who satisfied that definition as against 74 duly qualified
+  subjects who satisfied that [[Definition|definition]] as against 74 duly qualified
   foreigners holding responsible positions. In 1895 the numbers were
   4135 Japanese and 835 foreigners, and ten years later the
   corresponding figures were 16,886 and 349 respectively. In 1904 the
@@ -6794,11 +6794,11 @@ construction of ocean-going vessels had been rescinded.
 _Emigration._--Characteristic of the Japanese is a spirit of adventure:
 they readily emigrate to foreign countries if any inducement offers. A
 strong disposition to exclude them has displayed itself in the United
-States of America, in Australasia and in British Columbia, and it is
+States of America, in Australasia and in [[British Columbia]], and it is
 evident that, since one nation cannot force its society on another at
 the point of the sword, this anti-Asiatic prejudice will have to be
 respected, though it has its origin in nothing more respectable than the
-jealousy of the labouring classes. One result is an increase in the
+[[Jealousy|jealousy]] of the labouring classes. One result is an increase in the
 number of Japanese emigrating to Korea, Manchuria and S. America. The
 following table shows the numbers residing at various places outside
 Japan in 1904 and 1906 respectively:--
@@ -6876,13 +6876,13 @@ over-sea emigrants.
 
   Japan at the time of the Restoration (1867) was not entirely without
   experience which prepared her for the postal money-order system. Some
-  600 years ago the idea of the bill of exchange was born in the little
+  600 years ago the idea of the bill of [[Exchange|exchange]] was born in the little
   town of Totsugawa (Yamato province), though it did not obtain much
   development before the establishment of the Tokugawa shogunate in the
   17th century. The feudal chiefs, having then to transmit large sums to
   Yedo for the purposes of their compulsory residence there, availed
   themselves of bills of exchange, and the shogun's government, which
-  received considerable amounts in Osaka, selected ten brokers to whom
+  received considerable amounts in Osaka, selected ten [[Broker|brokers]] to whom
   the duty of effecting the transfer of these funds was entrusted.
   Subsequently the 10 chosen brokers were permitted to extend their
   services to the general public, and a recent Japanese historian notes
@@ -6932,7 +6932,7 @@ over-sea emigrants.
   systems underwent large development. Whereas the length of wires at
   the end of the fourth year after the introduction of the system was
   only 53 m., and the number of messages 20,000, these figures had grown
-  in 1907 to 95,623 and 25 millions, respectively. Several cables are
+  in 1907 to 95,623 and 25 millions, respectively. Several [[Cable|cables]] are
   included in these latter figures, the longest being that to Formosa
   (1229 m.). Wireless telegraphy began to come into general use in 1908,
   when several vessels belonging to the principal steamship companies
@@ -6963,7 +6963,7 @@ over-sea emigrants.
 
 _Agriculture._--The gross area of land in Japan--excluding Formosa and
 Sakhalin--is 89,167,880 acres, of which 53,487,022 acres represent the
-property of the crown, the state and the communes, the rest (35,680,868
+property of the crown, the state and the [[Commune|communes]], the rest (35,680,868
 acres) being owned by private persons. Of the grand total the arable
 lands represent 15,301,297 acres. With regard to the immense expanse
 remaining unproductive, experts calculate that if all lands inclined at
@@ -6987,8 +6987,8 @@ others, 2,688,115 acres.
   generally kept under water to a depth of a few inches while the crops
   are young, but are drained immediately before harvesting. They are
   then dug up, and again flooded before the second crop is planted out.
-  The rising grounds which skirt the rice-land are tilled by the hoe,
-  and produce Indian corn, millet and edible roots. The well-wooded
+  The rising grounds which skirt the rice-land are tilled by the [[Hoe|hoe]],
+  and produce Indian [[Corn|corn]], millet and edible roots. The well-wooded
   slopes supply the peasants with timber and firewood. Thirty-six per
   cent. of the rice-fields yield two crops yearly. The seed is sown in
   small beds, and the seedlings are planted out in the fields after
@@ -7020,8 +7020,8 @@ others, 2,688,115 acres.
     Rye            1,703,410   1,688,635   1,752,095
     Wheat          1,164,020   1,210,435   1,107,967
     Millet           693,812     652,492     594,280
-    Beans          1,503,395   1,488,600   1,478,345
-    Buckwheat        450,100     414,375     402,575
+    [[Bean|Beans]]          1,503,395   1,488,600   1,478,345
+    [[Buckwheat]]        450,100     414,375     402,575
     Rape-seed        377,070     392,612     352,807
     Potatoes          92,297     105,350     140,197
     Sweet Potatoes   668,130     693,427     717,620
@@ -7131,14 +7131,14 @@ others, 2,688,115 acres.
   and to prevent inundations. Further, in order to furnish capital for
   the purposes of farming, 46 agricultural and commercial banks--one in
   each prefecture--were established with a central institution called
-  the hypothec bank which assists them to collect funds. A Hokkaido
+  the [[Hypothec|hypothec]] bank which assists them to collect funds. A Hokkaido
   colonial bank and subsequently a bank of Formosa were also organized,
   and a law was framed to encourage the formation of co-operative
   societies which should develop a system of credit, assist the business
   of sale and purchase and concentrate small capitals. Experimental
   stations were another official creation. Their functions were to carry
   on investigations relating to seeds, diseases of cereals, insect
-  pests, stock-breeding, the use of implements, the manufacture of
+  pests, stock-breeding, the use of [[Implement|implements]], the manufacture of
   agricultural products and cognate matters. Encouragement by grants in
   aid was also given to the establishment of similar experimental farms
   by private persons in the various prefectures, and such farms are now
@@ -7169,10 +7169,10 @@ others, 2,688,115 acres.
   1906) grow with somewhat greater rapidity, but mutton and pork do not
   suit Japanese taste, and goats are kept mainly for the sake of their
   milk. The government has done much towards the improvement of cattle
-  and horses by importing bulls and sires, but, on the whole, the mixed
+  and horses by importing [[Bull|bulls]] and sires, but, on the whole, the mixed
   breed is not a success, and the war with Russia in 1904-5 having
   clearly disclosed a pressing need of heavier horses for artillery and
-  cavalry purposes, large importations of Australian, American and
+  [[Cavalry|cavalry]] purposes, large importations of Australian, American and
   European cattle are now made, and the organization of race-clubs has
   been encouraged throughout the country.
 
@@ -7193,7 +7193,7 @@ others, 2,688,115 acres.
   forests to valuable account, while, at the same time, providing for
   their conservation.
 
-  _Fisheries._--From ancient times the Japanese have been great
+  _[[Fisheries]]._--From ancient times the Japanese have been great
   fishermen. The seas that encircle their many-coasted islands teem with
   fish and aquatic products, which have always constituted an essential
   article of diet. Early in the 18th century, the Tokugawa
@@ -7204,7 +7204,7 @@ others, 2,688,115 acres.
   the government, organizing a marine bureau and a marine products
   examination office, took vigorous measures to promote pelagic
   industry. Then followed the formation of the marine products
-  association under the presidency of an imperial prince. Fishery
+  association under the presidency of an imperial prince. [[Fishery]]
   training schools were the next step; then periodical exhibitions of
   fishery and marine products; then the introduction and improvement of
   fishing implements; and then by rapid strides the area of operations
@@ -7214,7 +7214,7 @@ others, 2,688,115 acres.
   of Okhotsk. No less than 9000 fishermen with 2000 boats capture yearly
   about £300,000 worth of fish in Korean waters; at least 8000 find a
   plentiful livelihood off the coasts of Sakhalin and Siberia, and 200
-  Japanese boats engage in the salmon-fishing of the Fraser River. In
+  Japanese boats engage in the salmon-fishing of the [[Fraser]] River. In
   1893, the total value of Japanese marine products and fish captured
   did not exceed 1¼ millions sterling, whereas in 1906 the figure had
   grown to 5½ millions, to which must be added 3{1/8} millions of
@@ -7222,7 +7222,7 @@ others, 2,688,115 acres.
   than 50% of the whole catch, namely, (in the order of their
   importance) bonito (_katsuo_), sardines (_iwashi_), pagrus (_toi_),
   cuttle-fish and squid (_tako_ and _ika_), mackerel (_saba_), yellow
-  tail (_buri_), tunny-fish (_maguro_), prawns (_ebi_), sole (_karei_),
+  tail (_[[Buri|buri]]_), tunny-fish (_maguro_), prawns (_ebi_), sole (_karei_),
   grey mullet (_bora_), eels (_unagi_), salmon (_shake_), sea-ear
   (_awabi_) and carp (_koi_). Altogether 700 kinds of aquatic products
   are known in Japan, and 400 of them constitute articles of diet. Among
@@ -7274,7 +7274,7 @@ others, 2,688,115 acres.
     Iron.
 
   There have not yet been found any evidences that Japan is rich in iron
-  ores. Her largest known deposit (magnetite) occurs at Kamaishi in
+  ores. Her largest known deposit ([[Magnetite|magnetite]]) occurs at Kamaishi in
   Iwate prefecture, but the quantity of pig-iron produced from the ore
   mined there does not exceed 37,000 tons annually, and Japan is obliged
   to import from the neighbouring continent the greater part of the iron
@@ -7380,7 +7380,7 @@ expert industry were preserved in the sovereign's palace side by side
 with the imperial insignia. Further, skilled artisans from the
 neighbouring continent always found a welcome in Japan, and when Korea
 was successfully invaded in early times, one of the uses which the
-victors made of their conquest was to import Korean weavers and dyers.
+victors made of their conquest was to import Korean weavers and [[Dyer|dyers]].
 Subsequently the advent of Buddhism, with its demand for images,
 temples, gorgeous vestments and rich paraphernalia, gave a marked
 impulse to the development of artistic industry, which at the outset
@@ -7485,7 +7485,7 @@ supply the needs of the state.
 
     +------+--------+----------------+------------+--------------------------+
     |      |        |  Operatives.   |   Market   |                          |
-    |      | Looms. +----------------+  value of  |         Remarks.         |
+    |      | [[Loom|Looms]]. +----------------+  value of  |         Remarks.         |
     |      |        | Male. |Female. |  products. |                          |
     +------+--------+-------+--------+------------+--------------------------+
     |      |        |       |        |  Millions  | It is observable that a  |
@@ -7558,7 +7558,7 @@ supply the needs of the state.
   millions sterling, while she sends over-sea only 3½ millions' worth of
   silk fabrics, suggests some marked inferiority on the part of her
   weavers. But the true explanation seems to be that her distance from
-  the Occident handicaps her in catering for the changing fashions of
+  the Occident [[Handicap|handicaps]] her in catering for the changing fashions of
   the West. There cannot be any doubt that the skill of Japanese weavers
   was at one time eminent. The sun goddess herself, the predominant
   figure in the Japanese pantheon, is said to have practised weaving;
@@ -7568,7 +7568,7 @@ supply the needs of the state.
   distributed throughout the country to improve the arts of sericulture
   and silk-weaving; a sovereign (Yuriaku) of the 5th century employed 92
   groups of naturalized Chinese for similar purposes; in 421 the same
-  emperor issued a decree encouraging the culture of mulberry trees and
+  emperor issued a [[Decree|decree]] encouraging the culture of mulberry trees and
   calling for taxes on silk and cotton; the manufacture of textiles was
   directly supervised by the consort of this sovereign; in 645 a bureau
   of weaving was established; many other evidences are conclusive as to
@@ -7643,7 +7643,7 @@ interest they invite close attention.
   official carriers. But from the middle of the 17th century these
   stores were placed in the charge of tradesmen to whom was given the
   name of _kake-ya_ (agent). They disposed of the products entrusted to
-  them by a fief and held the money, sending it by monthly instalments
+  them by a fief and held the money, sending it by monthly [[Instalment|instalments]]
   to an appointed place, rendering yearly accounts and receiving
   commission at the rate of from 2 to 4%. They had no special licence,
   but they were honourably regarded and often distinguished by an
@@ -7692,7 +7692,7 @@ interest they invite close attention.
   (founder of the Tokugawa dynasty) entered Yedo in 1590, his train was
   followed by some fishermen of Settsu, to whom he granted the privilege
   of plying their trade in the adjacent seas, on condition that they
-  furnished a supply of their best fish for the use of the garrison. The
+  furnished a supply of their best fish for the use of the [[Garrison|garrison]]. The
   remainder they offered for sale at Nihon-bashi. Early in the 17th
   century one Sukegoro of Yamato province (hence called Yamato-ya) went
   to Yedo and organized the fishmongers into a great gild. Nothing is
@@ -7754,7 +7754,7 @@ interest they invite close attention.
   control of gilds. The business of money-changing seems to have been
   taken up as a profession from the beginning of the 15th century, but
   it was then in the hands of pedlars who carried strings of copper cash
-  which they exchanged for gold or silver coins, then in rare
+  which they exchanged for gold or silver [[Coin|coins]], then in rare
   circulation, or for parcels of gold dust. From the early part of the
   17th century exchanges were opened in Yedo, and in 1718 the men
   engaged in this business formed a gild after the fashion of the time.
@@ -7787,7 +7787,7 @@ interest they invite close attention.
   security. Such vouchers were obviously a form of bank-note. Their
   circulation by the exchange came about in a similar manner. During
   many years the treasure of the shogun and of the feudal chiefs was
-  carried to Yedo by pack-horses and coolies of the regular postal
+  carried to Yedo by pack-horses and [[Coolie|coolies]] of the regular postal
   service. But the costliness of such a method led to the selection in
   1691 of 10 exchange agents who were appointed bankers to the Tokugawa
   government and were required to furnish money within 30 days of the
@@ -7848,7 +7848,7 @@ interest they invite close attention.
   price owing to crop failure. Men loudly ascribed that state of affairs
   to regrating on the part of the wholesale companies, and murmurs
   similar to those raised at the close of the 19th century in America
-  against the trust system began to reach the ears of the authorities
+  against the trust system began to reach the [[Ear|ears]] of the authorities
   perpetually. The celebrated Fujita Toko of Mito took up the question.
   He argued that the monopoly system, since it included Osaka, exposed
   the Yedo market to all the vicissitudes of the former city, which had
@@ -7912,7 +7912,7 @@ a ratio of 1 to 8, and in Europe by a ratio of 1 to 15. This latter fact
 was the cause of a sudden and violent appreciation of values; for the
 government, seeing the country threatened with loss of all its gold,
 tried to avert the catastrophe by altering and reducing the weights of
-the silver coins without altering their denominations, and a
+the silver coins without altering their [[Denomination|denominations]], and a
 corresponding difference exhibited itself, as a matter of course, in the
 silver quotations of commodities. Another difficulty was the attitude of
 officialdom. During several centuries Japan's over-sea trade had been
@@ -7925,7 +7925,7 @@ revenue, or wean itself from its traditional habit of interference in
 affairs of foreign commerce, and since the foreigner, on his side, not
 only desired secrecy in order to prevent competition, but was also
 tormented by inveterate suspicions of Oriental espionage, not a little
-friction occurred from time to time. Thus the scanty records of that
+[[Friction|friction]] occurred from time to time. Thus the scanty records of that
 early epoch suggest that trade was beset with great difficulties, and
 that the foreigner had to contend against most adverse circumstances,
 though in truth his gains amounted to 40 or 50%.
@@ -8019,7 +8019,7 @@ over-sea trade without the intervention of the foreign middlemen, their
 share rose to 35% in 1899 and has since been slowly increasing.
 
 
-    Balance of Trade.
+    [[Balance Of Trade|Balance of Trade]].
 
   Analysis of Japan's foreign trade during the Meiji era shows that
   during the 35-year period ending in 1907, imports exceeded exports in
@@ -8071,7 +8071,7 @@ share rose to 35% in 1899 and has since been slowly increasing.
 VI.--GOVERNMENT, ADMINISTRATION, &C.
 
 _Emperor and Princes._--At the head of the Japanese State stands the
-emperor, generally spoken of by foreigners as the _mikado_ (honourable
+emperor, generally spoken of by foreigners as the _mikado_ ([[Honourable|honourable]]
 gate[9]), a title comparable with sublime porte and by his own subjects
 as _tenshi_ (son of heaven) or _tenno_ (heavenly king). The emperor
 Mutou Hito (q.v.) was the 121st of his line, according to Japanese
@@ -8082,7 +8082,7 @@ apocryphal. Still the fact remains that Japan has been ruled by an
 unbroken dynasty ever since the dawn of her history, in which respect
 she is unique among all the nations in the world. There are four
 families of princes of the blood, from any one of which a successor to
-the throne may be taken in default of a direct heir: Princes Arisugawa,
+the throne may be taken in [[Default|default]] of a direct heir: Princes Arisugawa,
 Fushimi, Kanin and Higashi Fushimi. These families are all direct
 descendants of emperors, and their heads have the title of _shinno_
 (prince of the blood), whereas the other imperial princes, of whom there
@@ -8114,7 +8114,7 @@ barons.
 
   _Household Department._--The Imperial household department is
   completely differentiated from the administration of state affairs. It
-  includes bureaux of treasury, forests, peerage and hunting, as well as
+  includes bureaux of treasury, forests, peerage and [[Hunting|hunting]], as well as
   boards of ceremonies and chamberlains, officials of the empress's
   household and officials of the crown prince's household. The annual
   allowance made to the throne is £300,000, and the Imperial estate
@@ -8144,7 +8144,7 @@ present high position among the nations. They are known as "elder
 statesmen" (_genro_). Their proved ability constitutes an invaluable
 asset, and in the solution of serious problems their voice may be said
 to be final. At the end of 1909 four of these renowned statesmen
-remained--Prince Yamagata, Marquises Inouye and Matsukata and Count
+remained--Prince Yamagata, Marquises Inouye and [[Matsukata]] and Count
 Okuma. There is also a privy council, which consists of a variable
 number of distinguished men--in 1909 there were 29, the president being
 Field-Marshal Prince Yamagata. Their duty is to debate and advise upon
@@ -8190,14 +8190,14 @@ The lower house consists of elected members only. Originally the
 property qualification was fixed at a minimum annual payment of 30s. in
 direct taxes (i.e. taxes imposed by the central government), but in
 1900 the law of election was amended, and the property qualification for
-electors is now a payment of £1 in direct taxes, while for candidates no
+[[Electors|electors]] is now a payment of £1 in direct taxes, while for candidates no
 qualification is required either as to property or as to locality.
 Members are of two kinds, namely, those returned by incorporated cities
 and those returned by prefectures. In each case the ratio is one member
 for every 130,000 electors, and the electoral district is the city or
 prefecture.
 
-Voting is by ballot, one man one vote, and a general election must take
+Voting is by [[Ballot|ballot]], one man one vote, and a general election must take
 place once in 4 years for the house of representatives, and once in 7
 years for the house of peers. The house of representatives, however, is
 liable to be dissolved by order of the sovereign as a disciplinary
@@ -8215,7 +8215,7 @@ original property qualification the number of franchise-holders was only
 453,474, or 11.5 to every 1000 of the nation, but it is now 1,676,007,
 or 15.77 to every 1000. By the constitution which created the diet
 freedom of conscience, of speech and of public meeting, inviolability of
-domicile and correspondence, security from arrest or punishment except
+domicile and correspondence, security from [[Arrest|arrest]] or punishment except
 by due process of law, permanence of judicial appointments and all the
 other essential elements of civil liberty were granted. In the diet full
 legislative authority is vested: without its consent no tax can be
@@ -8238,8 +8238,8 @@ titles of nobility.
   threatened to degenerate into a "scene." Foreigners entering the house
   of representatives in Tokyo for the first time might easily
   misinterpret some of its habits. A number distinguishes each member.
-  It is painted in white on a wooden indicator, the latter being
-  fastened by a hinge to the face of the member's desk. When present he
+  It is painted in white on a wooden [[Indicator|indicator]], the latter being
+  fastened by a hinge to the face of the member's [[Desk|desk]]. When present he
   sets the indicator standing upright, and lowers it when leaving the
   house. Permission to speak is not obtained by catching the president's
   eye, but by calling out the aspirant's number, and as members often
@@ -8268,7 +8268,7 @@ titles of nobility.
   proceedings of her Diet from the moment when the first word was spoken
   within its walls.
 
-  A special feature of the Diet's procedure helps to discourage
+  A special feature of the Diet's procedure [[Helps|helps]] to discourage
   oratorical displays. Each measure of importance has to be submitted to
   a committee, and not until the latter's report has been received does
   serious debate take place. But in ninety-nine cases out of every
@@ -8412,7 +8412,7 @@ titles of nobility.
 
   _Local Administrative Divisions._--For purposes of local
   administration Japan is divided into 3 urban prefectures (_fu_), 43
-  rural prefectures (_ken_), and 3 special dominions (_cho_), namely
+  rural prefectures (_[[Ken|ken]]_), and 3 special dominions (_cho_), namely
   Formosa; Hokkaido and South Sakhalin. Formosa and Sakhalin not having
   been included in Japan's territories until 1895 and 1905,
   respectively, are still under the military control of a
@@ -8446,7 +8446,7 @@ titles of nobility.
     Miye       2,196.56    495,389     15        2     19        325
     Gifu       4,001.84    996,062     18        1     42        299
     Shiga      1,540.30    712,024     12        1     12        190
-    Fukui      1,621.50    633,840     11        1      9        171
+    [[Fukui]]      1,621.50    633,840     11        1      9        171
     Ishikawa   1,611.59    392,905      8        1     16        259
     Toyama     1,587.80    785,554      8        2     31        239
 
@@ -8544,7 +8544,7 @@ years, with the provision that one-half of the members must be elected
 every third year. The prefectural assemblies hold one session of 30 days
 yearly; the sub-prefectural assemblies, one session of not more than 14
 days. The town and district assemblies have no fixed session; they are
-summoned by the mayor or the head-man when their deliberations appear
+summoned by the [[Mayor|mayor]] or the head-man when their deliberations appear
 necessary, and they continue in session till their business is
 concluded.
 
@@ -8647,7 +8647,7 @@ bread-winner. Thus, for the first time, the distinction between
 "soldier" and "working man"[12] received official recognition, and in
 consequence of the circumstances attending the distinction a measure of
 contempt attached to the latter. The next stage of development had its
-origin in the assumption of high offices of state by great families, who
+origin in the [[Assumption|assumption]] of high offices of state by great families, who
 encroached upon the imperial prerogatives, and appropriated as
 hereditary perquisites posts which should have remained in the gift of
 the sovereign. The Fujiwara clan, taking all the civil offices, resided
@@ -8664,7 +8664,7 @@ and emoluments.
 From the middle of the 10th century, therefore, the terms _samurai_ and
 _bushi_ acquired a special significance, being applied to themselves and
 their followers by the local magnates, whose power tended more and more
-to eclipse even that of the throne, and finally, in the 12th century,
+to [[Eclipse|eclipse]] even that of the throne, and finally, in the 12th century,
 when the Minamoto brought the whole country under the sway of military
 organization, the privilege of bearing arms was restricted to the
 samurai. Thenceforth the military class entered upon a period of
@@ -8672,7 +8672,7 @@ administrative and social superiority which lasted, without serious
 interruption, until the middle of the 19th century. But it is to be
 observed that the distinction between soldier and civilian, samurai and
 commoner, was not of ancient existence, nor did it arise from any
-question of race or caste, victor or vanquished, as is often supposed
+question of race or [[Caste|caste]], victor or vanquished, as is often supposed
 and stated. It was an outcome wholly of ambitious usurpations, which,
 relying for success on force of arms, gave practical importance to the
 soldier, and invested his profession with factitious honour.
@@ -8684,14 +8684,14 @@ soldier, and invested his profession with factitious honour.
   "War" and "bow-and-arrow" were synonymous terms. Tradition tells how
   Tametomo shot an arrow through the crest of his brother's helmet, in
   order to recall the youth's allegiance without injuring him; how
-  Nasuno Michitaka discharged a shaft that severed the stem of a fan
+  Nasuno Michitaka discharged a shaft that severed the stem of a [[Fan|fan]]
   swayed by the wind; how Mutsuru, ordered by an emperor to rescue a
   fish from the talons of an osprey without killing bird or fish, cut
   off the osprey's feet with a crescent-headed arrow so that the fish
   dropped into the palace lake and the bird continued its flight; and
   there are many similar records of Japanese skill with the weapon.
   Still better authenticated were the feats performed at the
-  "thirty-three-span halls" in Kioto and Yedo, where the archer had to
+  "thirty-three-span halls" in Kioto and Yedo, where the [[Archer|archer]] had to
   shoot an arrow through the whole length of a corridor 128 yards long
   and only 16 ft. high. Wada Daihachi, in the 17th century, succeeded in
   sending 8133 arrows from end to end of the corridor in 24 consecutive
@@ -8715,7 +8715,7 @@ soldier, and invested his profession with factitious honour.
   during long ages it ranked after the bow. It was a single-edged weapon
   remarkable for its three exactly similar curves--edge, face-line and
   back; its almost imperceptibly convexed blade; its admirable
-  tempering; its consummately skilled forging; its razor-like sharpness;
+  tempering; its consummately skilled [[Forging|forging]]; its razor-like sharpness;
   its cunning distribution of weight, giving a maximum efficiency of
   stroke. The 10th century saw this weapon carried to perfection, and it
   has been inferred that only from that epoch did the samurai begin to
@@ -8767,7 +8767,7 @@ soldier, and invested his profession with factitious honour.
   and a short. Their scabbards of lacquered wood were thrust into his
   girdle, not slung from it, being fastened in their place by cords of
   plaited silk. Sometimes he increased the number of swords to three,
-  four or even five, before going into battle, and this array was
+  four or even five, before going into battle, and this [[Array|array]] was
   supplemented by a dagger carried in the bosom. The short sword was not
   employed in the actual combat. Its use was to cut off an enemy's head
   after overthrowing him, and it also served a defeated soldier in his
@@ -8779,10 +8779,10 @@ soldier, and invested his profession with factitious honour.
 
   Spear and glaive were also ancient Japanese weapons. The oldest form
   of spear was derived from China. Its handle measured about 6 ft. and
-  its blade 8 in., and it had sickle-shaped horns at the junction of
+  its blade 8 in., and it had sickle-shaped [[Horn|horns]] at the junction of
   blade and hilt (somewhat resembling a European _ranseur_). This weapon
   served almost exclusively for guarding palisades and gates. In the
-  14th century a true lance came into use. Its length varied greatly,
+  14th century a true [[Lance|lance]] came into use. Its length varied greatly,
   and it had a hog-backed blade tempered almost as finely as the sword
   itself. This, too, was a Chinese type, as was also the glaive. The
   glaive (_naginata_, long sword) was a scimitar-like blade, some 3 ft.
@@ -8808,7 +8808,7 @@ soldier, and invested his profession with factitious honour.
   apply with propriety the European terms--helmet, corselet,
   &c.--individually and in combination these parts were not at all like
   the originals of those names. Perhaps the easiest way of describing
-  the difference is to say that whereas a European knight seemed to be
+  the difference is to say that whereas a European [[Knight|knight]] seemed to be
   clad in a suit of metal clothes, a Japanese samurai looked as if he
   wore protective curtains. The Japanese armour was, in fact, suspended
   from, rather than fitted to, the person. Only one of its elements
@@ -8862,7 +8862,7 @@ clans in their celebrated struggle during the 12th century; and some
 were streamers emblazoned with figures of the sun, the moon, a dragon, a
 tiger and so forth, or with religious legends. Fans with iron ribs were
 carried by commanding officers, and signals to advance or retreat were
-given by beating drums and metal gongs and blowing conches. During the
+given by beating [[Drum|drums]] and metal [[Gong|gongs]] and blowing conches. During the
 military epoch a campaign was opened or a contest preluded by a human
 sacrifice to the god of war, the victim at this rite of blood
 (_chi-matsuri_) being generally a prisoner or a condemned criminal.
@@ -8870,7 +8870,7 @@ Although ambuscades and surprises played a large part in all strategy,
 pitched battles were the general rule, and it was essential that notice
 of an intention to attack should be given by discharging a singing
 arrow. Thereafter the assaulting army, taking the word from its
-commander, raised a shout of "Ei! Ei!" to which the other side replied,
+[[Commander|commander]], raised a shout of "Ei! Ei!" to which the other side replied,
 and the formalities having been thus satisfied, the fight commenced. In
 early medieval days tactics were of the crudest description. An army
 consisted of a congeries of little bands, each under the order of a
@@ -8891,7 +8891,7 @@ suit the circumstances of the time were inaugurated only by the great
 captains of the 15th and 16th centuries. Prior to that epoch a battle
 resembled a gigantic fencing match. Men fought as individuals, not as
 units of a tactical formation, and the engagement consisted of a number
-of personal duels, all in simultaneous progress. It was the samurai's
+of personal [[Duel|duels]], all in simultaneous progress. It was the samurai's
 habit to proclaim his name and titles in the presence of the enemy,
 sometimes adding from his own record or his father's any details that
 might tend to dispirit his hearers. Then some one advancing to cross
@@ -8959,7 +8959,7 @@ nothing before the second half of the 17th century, and although
 strategy was chiefly a matter of deception, surprises and ambushes, it
 must not be supposed that there were no classical principles. The
 student of European military history searches in vain for the rules and
-maxims of war so often invoked by glib critics, but the student of
+[[Maxims|maxims]] of war so often invoked by glib critics, but the student of
 Japanese history is more successful. Here, as in virtually every field
 of things Japanese, retrospect discovers the ubiquitous Chinaman. The
 treatises of Sung and 'Ng (called in Japan Son and Go) Chinese generals
@@ -8974,7 +8974,7 @@ monographs. These treatises came into the hands of the Japanese in the
 in China, just as his successors of the 19th century went to study a new
 civilization in Europe and America. Thenceforth Son and Go became
 household words among Japanese soldiers. Their volumes were to the
-samurai what the _Mahayana_ was to the Buddhist. They were believed to
+samurai what the _[[Mahayana]]_ was to the Buddhist. They were believed to
 have collected whatever of good had preceded them, and to have forecast
 whatever of good the future might produce. The character of their
 strategic methods, somewhat analogous to those of 18th-century Europe,
@@ -9001,9 +9001,9 @@ rapid, well-ordered changes of mobile, highly trained masses of men from
 one formation to another, or their quick transfer from point to point of
 a battlefield. The basis of their tactics is _The Book of Changes_. Here
 again is encountered the superstition that underlies nearly all Chinese
-and Japanese institutions: the superstition that took captive even the
+and Japanese institutions: the superstition that took [[Captive|captive]] even the
 great mind of Confucius. The positive and the negative principles; the
-sympathetic and the antipathetic elements; cosmos growing out of chaos;
+sympathetic and the antipathetic elements; cosmos growing out of [[Chaos|chaos]];
 chaos re-absorbing cosmos--on such fancies they founded their tactical
 system. The result was a phalanx of complicated organization, difficult
 to manoeuvre and liable to be easily thrown into confusion. Yet when
@@ -9029,7 +9029,7 @@ Kiyomasa, a celebrated general of the 16th century:--
 
   1. The routine of service must be strictly observed. From 6 a.m.
   military exercises shall be practised. Archery, gunnery and
-  horsemanship must not be neglected. If any man shows exceptional
+  [[Horsemanship|horsemanship]] must not be neglected. If any man shows exceptional
   proficiency he shall receive extra pay.
 
   2. Those that desire recreation may engage in hawking, deer-hunting or
@@ -9109,12 +9109,12 @@ legitimate means of escaping from the cares and disappointments of life.
 Self-destruction had only one consolatory aspect, that it was the
 soldier's privilege to expiate a crime with his own sword, not under the
 hand of the executioner. It rested with his feudal chief to determine
-his guilt, and his peremptory duty was never to question the justice of
+his [[Guilt|guilt]], and his peremptory duty was never to question the justice of
 an order to commit suicide, but to obey without murmur or protest. For
 the rest, the general motives for suicide were to escape falling into
 the hands of a victorious enemy, to remonstrate against some official
 abuse which no ordinary complaint could reach, or, by means of a dying
-protest, to turn a liege lord from pursuing courses injurious to his
+protest, to turn a [[Liege|liege]] lord from pursuing courses injurious to his
 reputation and his fortune. This last was the noblest and by no means
 the most infrequent reason for suicide. Scores of examples are recorded
 of men who, with everything to make existence desirable, deliberately
@@ -9152,7 +9152,7 @@ faith and salvation by works, and the chief exponent of the latter
 principle is the sect which prescribes meditation as the vehicle of
 enlightenment. Whatever be the mental processes induced by this rite,
 those who have practised it insist that it leads finally to a state of
-absorption, in which the mind is flooded by an illumination revealing
+absorption, in which the mind is flooded by an [[Illumination|illumination]] revealing
 the universe in a new aspect, absolutely free from all traces of
 passion, interest or affection, and showing, written across everything
 in flaming letters, the truth that for him who has found Buddha there is
@@ -9181,7 +9181,7 @@ throwing him into prison. But Egawa, one of his retainers, proved a
 still more zealous reformer, and his foresight being vindicated by the
 appearance of the American war-vessels in 1853, he won the government's
 confidence and was entrusted with the work of planning and building
-forts at Shinagawa and Shimoda. At Egawa's instance rifles and cannon
+forts at Shinagawa and Shimoda. At Egawa's instance rifles and [[Cannon|cannon]]
 were imported largely from Europe, and their manufacture was commenced
 in Japan, a powder-mill also being established with machinery obtained
 from Holland. Finally, in 1862, the shogun's government adopted the
@@ -9202,7 +9202,7 @@ in Tokyo and his name is spoken with reverence by all his countrymen. In
 1870 Yamagata Aritomo (afterwards Field-Marshal Prince Yamagata) and
 Saigo Tsugumichi (afterwards Field-Marshal Marquis Saigo) returned from
 a tour of military inspection in Europe, and in 1872 they organized a
-corps of Imperial guards, taken from the three clans which had been
+[[Corps|corps]] of Imperial guards, taken from the three clans which had been
 conspicuous in the work of restoring the administrative power to the
 sovereign, namely, the clans of Satsuma, Choshu and Tosa. They also
 established garrisons in Tokyo, Sendai, Osaka and Kumamoto, thus placing
@@ -9217,7 +9217,7 @@ defending the country to men unfitted by tradition and custom for such a
 task, namely, the farmers, artisans and tradespeople, who, after
 centuries of exclusion from the military pale, might be expected to have
 lost all martial spirit. The government, however, was not deterred by
-these apprehensions. It argued that since the distinction of samurai and
+these [[Apprehension|apprehensions]]. It argued that since the distinction of samurai and
 commoner had not originally existed, and since the former was a product
 simply of accidental conditions, there was no valid reason to doubt the
 military capacity of the people at large. The justice of this reasoning
@@ -9239,14 +9239,14 @@ The military school--now in Tokyo but originally founded by Omura in
 Kioto--had to turn out graduates at high pressure, and private soldiers
 who showed any special aptitude were rapidly promoted to positions of
 command. French military instructors were engaged, and the work of
-translating manuals was carried out with all celerity. In 1877, this new
+translating [[Manuals|manuals]] was carried out with all celerity. In 1877, this new
 army of conscripts had to endure a crucial test: it had to take the
 field against the Satsuma samurai, the very flower of their class, who
 in that year openly rebelled against the Tokyo government. The campaign
 lasted eight months; as there had not yet been time to form the
 reserves, the Imperial forces were soon seriously reduced in number by
 casualties in the field and by disease, the latter claiming many victims
-owing to defective commissariat. It thus became necessary to have
+owing to defective [[Commissariat|commissariat]]. It thus became necessary to have
 recourse to volunteers, but as these were for the most part samurai, the
 expectation was that their hereditary instinct of fighting would
 compensate for lack of training. That expectation was not fulfilled.
@@ -9279,7 +9279,7 @@ as those of the bushi.
   prepared to take the field, and, in 1893, a revised system of
   mobilization was sanctioned, to be put into operation the following
   year, for the Chino-Japanese War (q.v.). At this period the division,
-  mobilized for service in the field, consisted of 12 battalions of
+  mobilized for service in the field, consisted of 12 [[Battalion|battalions]] of
   infantry, 3 troops of cavalry, 4 batteries of field and 2 of mountain
   artillery, 2 companies of sappers and train, totalling 18,492 of all
   arms with 5633 horses. The guards had only 8 battalions and 4
@@ -9413,7 +9413,7 @@ as those of the bushi.
     Officers.
 
   Officers are obtained in two ways. There are six local preparatory
-  cadet schools (_yonen-gakko_) in various parts of the empire, for boys
+  [[Cadet|cadet]] schools (_yonen-gakko_) in various parts of the empire, for boys
   of from 13 to 15. After 3 years at one of these schools[18] a graduate
   spends 21 months at the central preparatory school
   (_chuo-yonen-gakko_), Tokyo, and if he graduates with sufficient
@@ -9518,11 +9518,11 @@ as those of the bushi.
   relish of salted fish, dried sea-weed or pickled plums. The task of
   provisioning an army on these lines is comparatively simple. The
   Japanese soldier, though low in stature, is well set up, muscular and
-  hardy. He has great powers of endurance, and manoeuvres with
+  hardy. He has great powers of endurance, and [[Manoeuvres|manoeuvres]] with
   remarkable celerity, doing everything at the run, if necessary, and
   continuing to run without distress for a length of time astonishing to
   European observers. He is greatly subject, however, to attacks of
-  _kakke_ (beri-beri), and if he has recourse to meat diet, which
+  _kakke_ ([[Beri-Beri|beri-beri]]), and if he has recourse to [[Meat|meat]] diet, which
   appears to be the best preventive, he will probably lose something of
   his capacity for prolonged rapid movement. He attacks with apparent
   indifference to danger, preserves his cheerfulness amid hardships, is
@@ -9550,7 +9550,7 @@ as those of the bushi.
   schools and colleges and of military educational matters in general.
 
   The Japanese officer's pay is small and his mode of life frugal. He
-  lives out of barracks, frequently with his own family. His uniform is
+  lives out of [[Barracks|barracks]], frequently with his own family. His uniform is
   plain and inexpensive,[19] and he has no desire to exchange it for
   mufti. He has no mess expenses, contribution to a band, or luxuries of
   any kind, and as he is nearly always without private means to
@@ -9583,7 +9583,7 @@ as those of the bushi.
   organizing the army and elaborating its system of tactics and
   strategy, and during several years a military mission of French
   officers resided in Tokyo and rendered valuable aid to the Japanese.
-  Afterwards German officers were employed, with Jakob Meckel at their
+  Afterwards German officers were employed, with [[Jakob]] Meckel at their
   head, and they left a perpetually grateful memory. But ultimately the
   services of foreigners were dispensed with altogether, and Japan now
   adopts the plan of sending picked men to complete their studies in
@@ -9602,7 +9602,7 @@ as those of the bushi.
   revenue accrued, this would have given a sum of about 3 millions
   sterling for the two services. But not until 1871, when the troops of
   the fiefs were finally disbanded, did the government find itself in a
-  position to include in the annual budgets an adequate appropriation on
+  position to include in the annual budgets an adequate [[Appropriation|appropriation]] on
   account of armaments. Thenceforth, from 1872 to 1896, the ordinary
   expenditures of the army varied from three-quarters of a million
   sterling to 1½ millions, and the extraordinary outlays ranged from a
@@ -9707,7 +9707,7 @@ occasions for active service afloat presented themselves. In 1868, the
 year after the fall of the shogunate, such ships as could be assembled
 had to be sent to Yezo to attack the main part of the Tokugawa squadron
 which had raised the flag of revolt and retired to Hakodate under the
-command of the shogun's admiral, Enomoto. Then in 1874 the duty of
+command of the shogun's admiral, [[Enomoto]]. Then in 1874 the duty of
 convoying a fleet of transports to Formosa had to be undertaken; and in
 1877 sea power played its part in crushing the formidable rebellion in
 Satsuma. Meanwhile the work of increasing and organizing the navy went
@@ -9840,7 +9840,7 @@ August 1904, and the crowning victory of Tsushima.
   sterling had been spent in 1909, but it did not yet keep pace with the
   country's needs. When this independence has been attained, it is hoped
   to effect an economy of about 18% on the outlay for naval
-  construction, owing to the cheapness of manual labour and the
+  construction, owing to the cheapness of [[Manual|manual]] labour and the
   disappearance both of the manufacturer's profit and of the expenses of
   transfer from Europe to Japan.
 
@@ -9880,7 +9880,7 @@ August 1904, and the crowning victory of Tsushima.
   At the naval cadet academy--originally situated in Tokyo but now at
   Etajima near Kure--aspirants for service as naval officers receive a 3
   years' academical course and 1 year's training at sea; and, finally,
-  there is a naval engineering college collateral to the naval cadet
+  there is a naval engineering college [[Collateral|collateral]] to the naval cadet
   academy.
 
   Since 1882, foreign instruction has been wholly dispensed with in the
@@ -9902,9 +9902,9 @@ troops. The basis of taxation varied greatly in different districts,
 but, at the time of the Restoration in 1867, the general principle was
 that four-tenths of the gross produce should go to the feudatory,
 six-tenths to the farmer. In practice this rule was applied to the rice
-crop only, the assessments for other kinds of produce being levied
+crop only, the [[Assessment|assessments]] for other kinds of produce being levied
 partly in money and partly in manufactured goods. Forced labour also was
-exacted, and artisans and tradesmen were subjected to pecuniary levies.
+exacted, and artisans and tradesmen were subjected to pecuniary [[Levi|levies]].
 The yield of rice in 1867 was about 154 million bushels,[21] of which
 the market value at prices then ruling was £24,000,000, or 240,000,000
 _yen_.[22] Hence the grain tax represented, at the lowest calculation,
@@ -9964,7 +9964,7 @@ eminently liberal to the agriculturists, assigned a value of
 1,200,000,000 _yen_ to the whole of the arable land, and the treasury
 fixed the tax at 3% of the assessed value of the land, which was about
 one-half of the real market value. Moreover, the government contemplated
-a gradual reduction of this already low impost until it should
+a gradual reduction of this already low [[Impost|impost]] until it should
 ultimately fall to 1%. Circumstances prevented the consummation of that
 purpose. The rate underwent only one reduction of ½%, and thereafter had
 to be raised on account of war expenditures. On the whole, however, no
@@ -10051,7 +10051,7 @@ of its capital in government notes. It was credited in return with
 interest-bearing bonds, which bonds were to be left in the treasury as
 security for the issue of bank-notes to an equal amount, the banks being
 required to keep in gold the remaining 40% of their capital as a fund
-for converting the notes, which conversion must always be effected on
+for converting the notes, which [[Conversion|conversion]] must always be effected on
 application. The elaborators of this programme were Ito, Inouye, Okuma
 and Shibusawa. They added a provision designed to prevent the
 establishment of too small banks, namely, that the capital of each bank
@@ -10244,7 +10244,7 @@ of the country between 1872 and 1874.
   equalizing rates of interest, and to correct such defects, no less
   than ultimately to constitute the sole note-issuing institution, a
   central bank (the Bank of Japan) was organized on the model of the
-  Bank of Belgium, with due regard to corresponding institutions in
+  Bank of [[Belgium]], with due regard to corresponding institutions in
   other Western countries and to the conditions existing in Japan.
   Established in 1882 with a capital of 4,000,000 yen, this bank has now
   a capital of 30 millions, a security reserve of 206 millions, a
@@ -10284,7 +10284,7 @@ of the country between 1872 and 1874.
   special banks to be presently described--within one system of
   semi-annual balance-sheets and official auditing, while in the case of
   savings banks the directors' responsibility was declared unlimited and
-  these banks were required to lodge security with the treasury for the
+  these banks were required to [[Lodge|lodge]] security with the treasury for the
   protection of their depositors.
 
 
@@ -10321,7 +10321,7 @@ of the country between 1872 and 1874.
   banks in the ten years ending 1906 varied between 9.1 and 9.9%.
 
 
-    Insurance.
+    [[Insurance]].
 
   Necessarily the movement of industrial expansion was accompanied by a
   development of insurance business. The beginnings of this kind of
@@ -10382,7 +10382,7 @@ of the country between 1872 and 1874.
   for the commercial and manufacturing competition in which it was
   thenceforth required to engage, and therefore upon those who had
   brought the country out of its isolation there devolved the
-  responsibility of speedily preparing their fellow countrymen for the
+  responsibility of speedily preparing their [[Fellow|fellow]] countrymen for the
   new situation. To these leaders banking facilities seemed to be the
   first need, and steps were accordingly taken in the manner already
   described. But how to educate men of affairs at a moment's notice? How
@@ -10435,7 +10435,7 @@ of the country between 1872 and 1874.
   Oriental nations silver-using, but also the Mexican silver dollar had
   long been the unit of account in Far-Eastern trade. Thus Japan
   ultimately drifted into silver monometallism, the silver _yen_
-  becoming her unit of currency. So soon, however, as the indemnity that
+  becoming her unit of currency. So soon, however, as the [[Indemnity|indemnity]] that
   she received from China after the war of 1894-95 had placed her in
   possession of a stock of gold, she determined to revert to the gold
   standard. Mechanically speaking, the operation was very easy. Gold
@@ -10574,7 +10574,7 @@ of the country between 1872 and 1874.
   1889 to 85 millions in 1907.
 
 
-    Income Tax.
+    [[Income Tax]].
 
   The income tax was introduced in 1887. It was on a graduated scale,
   varying from 1% on incomes of not less than 300 _yen_, to 3% on
@@ -10935,7 +10935,7 @@ of the country between 1872 and 1874.
     Railways, telegraphs and telephones    707,000,000
     Shipping                               376,000,000
     Merchandise                            873,000,000
-    Specie and bullion                     310,000,000
+    Specie and [[Bullion|bullion]]                     310,000,000
     Miscellaneous                        1,809,000,000
                                         --------------
       Grand total                       19,896,000,000
@@ -10967,9 +10967,9 @@ affiliated colleges; and local schools were built and endowed by noble
 families, to whose scions admittance was restricted, but for general
 education one institution only appears to have been provided. In this
 Kioto university the curriculum included the Chinese classics,
-calligraphy, history, law, etiquette, arithmetic and composition; while
+calligraphy, history, law, etiquette, [[Arithmetic|arithmetic]] and composition; while
 in the affiliated colleges special subjects were taught, as medicine,
-herbalism, acupuncture, shampooing, divination, the almanac and
+herbalism, acupuncture, shampooing, [[Divination|divination]], the almanac and
 languages. Admission was limited to youths of high social grade; the
 students aggregated some 400, from 13 to 16 years of age; the faculty
 included professors and teachers, who were known by the same titles
@@ -11020,11 +11020,11 @@ every form of learning that did not contribute to martial excellence. An
 illiterate era ensued which reached its climax with the establishment of
 feudalism at the close of the 12th century. It is recorded that, about
 that time, only one man out of a force of five thousand could decipher
-an Imperial mandate addressed to them. Kamakura, then the seat of feudal
+an Imperial [[Mandate|mandate]] addressed to them. Kamakura, then the seat of feudal
 government, was at first distinguished for absence of all intellectual
 training, but subsequently the course of political events brought
 thither from Kioto a number of court nobles whose erudition and
-refinement acted as a potent leaven. Buddhism, too, had been from the
+refinement acted as a potent [[Leaven|leaven]]. Buddhism, too, had been from the
 outset a strong educating influence. Under its auspices the first great
 public library was established (1270) at the temple Shomyo-ji in
 Kanazawa. It is said to have contained practically all the Chinese and
@@ -11150,7 +11150,7 @@ assigned.
 When the government of the Restoration came into power, the emperor
 solemnly announced that the administration should be conducted on the
 principle of employing men of capacity wherever they could be found.
-This amounted to a declaration that in choosing officials scholastic
+This amounted to a [[Declaration|declaration]] that in choosing officials scholastic
 acquirements would thenceforth take precedence of the claims of birth,
 and thus unprecedented importance was seen to attach to education. But
 so long as the feudal system survived, even in part, no general scheme
@@ -11202,17 +11202,17 @@ treasury granting only sums in aid.
   urban districts and one-half of that amount in rural districts.
 
   There are also 294 kindergartens, with an attendance of 26,000
-  infants, whose parents pay 3d. per month on the average for each
+  [[Infant|infants]], whose parents pay 3d. per month on the average for each
   child. In general the kindergartens are connected with elementary
   schools or with normal schools.
 
-  If a child, after graduation at a common elementary school, desires to
+  If a child, after [[Graduation|graduation]] at a common elementary school, desires to
   extend its education, it passes into a common middle school, where
   training is given for practical pursuits or for admission to higher
   educational institutions. The ordinary curriculum at a common middle
   school includes moral philosophy, English language, history,
   geography, mathematics, natural history, natural philosophy,
-  chemistry, drawing and the Japanese language. Five years are required
+  [[Chemistry|chemistry]], drawing and the Japanese language. Five years are required
   to graduate, and from the fourth year the student may take up a
   special technical course as well as the main course; or, in accordance
   with local requirements, technical subjects may be taught conjointly
@@ -11316,7 +11316,7 @@ until the 6th century, and a knowledge of the Chinese language had
 preceded it by only a hundred years. It is therefore reasonable to
 conclude that the primitive religion of Japan had no name, and that it
 did not begin to be called Shinto until Buddhism had entered the field.
-The two creeds remained distinct, though not implacably antagonistic,
+The two [[Creeds|creeds]] remained distinct, though not implacably antagonistic,
 until the beginning of the 9th century, when they were welded together
 into a system of doctrine to which the name _Ryobu-Shinto_ (dual Shinto)
 was given. In this new creed the Shinto deities were regarded as avatars
@@ -11331,13 +11331,13 @@ its rites survived also.
 
 Shinto, indeed, may be said to be entwined about the roots of Japan's
 national existence. Its scripture--as the _Kojiki_ must be
-considered--resembles the Bible in that both begin with the cosmogony.
+considered--resembles the Bible in that both begin with the [[Cosmogony|cosmogony]].
 But it represents the gods as peopling the newly created earth with
 their own offspring instead of with human beings expressly made for the
 purpose. The actual work of creation was done by a male deity, Izanagi,
 and a female deity, Izanami. From the right eye of the former was born
 Amaterasu, who became goddess of the sun; from his left eye, the god of
-the moon; and from his nose, a species of Lucifer. The grandson of the
+the moon; and from his nose, a species of [[Lucifer]]. The grandson of the
 sun goddess was the first sovereign of Japan, and his descendants have
 ruled the land in unbroken succession ever since, the 121st being on the
 throne in 1909. Thus it is to Amaterasu (the heaven-illuminating
@@ -11352,12 +11352,12 @@ the universe, and these, being of divine origin, are worshipped and
 propitiated. Their number becomes immense when we add the deified ghosts
 of ancestors who were descended from the gods and whose names are
 associated with great deeds. These ancestors are often regarded as the
-tutelary deities of districts, where they receive special homage and
+tutelary deities of districts, where they receive special [[Homage|homage]] and
 where shrines are erected to them. The method of worship consists in
 making offerings and in the recital of rituals (_norito_). Twenty-seven
 of these rituals were reduced to writing and embodied in a work called
 _Engishiki_ (927). Couched in antique language, these liturgies are
-designed for the dedication of shrines, for propitiating evil, for
+designed for the [[Dedication|dedication]] of shrines, for propitiating evil, for
 entreating blessings on the harvest, for purification, for obtaining
 household security, for bespeaking protection during a journey, and so
 forth. Nowhere is any reference found to a future state of reward or
@@ -11395,7 +11395,7 @@ together so intimately that their differentiation seemed hopeless. But
 in the middle of the 17th century a strong revival of the indigenous
 faith was effected by the efforts of a group of illustrious scholars and
 politicians, at whose head stood Mabuchi, Motoori and Hirata. These men
-applied themselves with great diligence and acumen to reproduce the pure
+applied themselves with great [[Diligence|diligence]] and acumen to reproduce the pure
 Shinto of the _Kojiki_ and to restore it to its old place in the
 nation's reverence, their political purpose being to educate a spirit of
 revolt against the feudal system which deprived the emperor of
@@ -11415,7 +11415,7 @@ Buddhism entered China at the beginning of the Christian era, but not
 until the 4th century did it obtain any strong footing. Thence, two
 centuries later (522), it reached Japan through Korea. The reception
 extended to it was not encouraging at first. Its images and its
-brilliant appurtenances might well deter a nation which had never seen
+brilliant [[Appurtenances|appurtenances]] might well deter a nation which had never seen
 an idol nor ever worshipped in a decorated temple. But the ethical
 teachings and the positive doctrines of the foreign faith presented an
 attractive contrast to the colourless Shinto. After a struggle, not
@@ -11434,7 +11434,7 @@ capital of the empire, Japanese priests of lofty intelligence and
 profound piety began to repair to China and bring thence modified forms
 of the doctrines current there. It was thus that Dengyo daishi (c. 800)
 became the founder of the Tendai (heavenly tranquillity) sect and Kobo
-daishi (774-834) the apostle of the Shingon (true word). Other sects
+daishi (774-834) the [[Apostle|apostle]] of the Shingon (true word). Other sects
 followed, until the country possessed six principal sects in all with
 thirty-seven sub-sects. It must be remembered that Buddhism offers an
 almost limitless field for eclecticism. There is not in the world any
@@ -11452,7 +11452,7 @@ _Saddharma pundarika_, were subjected to the process of eclecticism
 which all foreign institutions undergo at Japanese hands. Dengyo studied
 it in the monastery of Tientai which "had been founded towards the close
 of the 6th century of our era on a lofty range of mountains in the
-province of Chehkiang by the celebrated preacher Chikai" (Lloyd,
+province of Chehkiang by the celebrated preacher Chikai" ([[Lloyd]],
 "Developments of Japanese Buddhism," _Transactions of the Asiatic
 Society of Japan_, vol. xxii.), and carrying it to Japan he fitted its
 disciplinary and meditative methods to the foundations of the sects
@@ -11578,7 +11578,7 @@ glaives, fought in secular as well as religious causes.
   namely, the Doshisha in Kioto. The Methodists represent 6 American
   societies and 1 Canadian. They have 130 missionaries and 10,000
   converts; boarding schools, day schools, and the most important
-  Christian college in Tokyo, namely, the Awoyama Gaku-in. The Baptists
+  Christian college in Tokyo, namely, the Awoyama Gaku-in. The [[Baptists]]
   represent 4 American societies; have 60 missionaries, a theological
   seminary, an academy for boys, boarding schools for girls, day schools
   and 3500 converts. The Salvation Army, which did not enter Japan until
@@ -11628,7 +11628,7 @@ pirates and adventurers who raided the coasts of China. The shogun
 Yoshimitsu (1368-1394), however, succeeded in restoring commercial
 intercourse, though in order to effect his object he consented that
 goods sent from Japan should bear the character of tribute and that he
-himself should receive investiture at the hands of the Chinese emperor's
+himself should receive [[Investiture|investiture]] at the hands of the Chinese emperor's
 ambassador. The Nanking government granted a certain number of
 commercial passports, and these were given by the shogun to Ouchi,
 feudal chief of Cho-shu, which had long been the principal port for
@@ -11641,18 +11641,18 @@ anything originally, being either presents from the great temples and
 provincial governors or compulsory contributions from the house of
 Ouchi. As for the gifts by the Chinese government and the goods shipped
 in China, they were arbitrarily distributed among the noble families in
-Japan at prices fixed by the shogun's assessor. Thus, so far as the
+Japan at prices fixed by the shogun's [[Assessor|assessor]]. Thus, so far as the
 shogun was concerned, these enterprises could not fail to be lucrative.
 They also brought large profits to the Ouchi family, for, in the absence
 of competition, the products and manufactures of each country found
 ready sale in the markets of the other. The articles found most suitable
 in China were swords, fans, screens, lacquer wares, copper and agate,
 and the goods brought back to Japan were brocade and other silk fabrics,
-ceramic productions, jade and fragrant woods. The Chinese seem to have
+ceramic productions, [[Jade|jade]] and fragrant woods. The Chinese seem to have
 had a just appreciation of the wonderful swords of Japan. At first they
-were willing to pay the equivalent of 12 guineas for a pair of blades,
+were willing to pay the equivalent of 12 guineas for a pair of [[Blades|blades]],
 but by degrees, as the Japanese began to increase the supply, the price
-fell, and at the beginning of the 16th century all the diplomacy of the
+fell, and at the beginning of the 16th century all the [[Diplomacy|diplomacy]] of the
 Japanese envoys was needed to obtain good figures for the large and
 constantly growing quantity of goods that they took over by way of
 supplement to the tribute. Buddhist priests generally enjoyed the
@@ -11697,11 +11697,11 @@ enterprise from beyond the sea.
   With Occidental Nations.
 
 The Portuguese discovered Japan by accident in 1542 or 1543--the exact
-date is uncertain. On a voyage to Macao from Siam, a junk carrying three
+date is uncertain. On a voyage to [[Macao]] from Siam, a junk carrying three
 Portuguese was blown from her course and fetched Tanegashima, a small
 island lying south of the province of Satsuma. The Japanese, always
 hospitable and inquisitive, welcomed the newcomers and showed special
-curiosity about the arquebuses carried by the Portuguese, fire-arms
+curiosity about the [[Arquebus|arquebuses]] carried by the Portuguese, fire-arms
 being then a novelty in Japan and all weapons of war being in great
 request. Conversation was impossible, of course, but, by tracing
 ideographs upon the sand, a Chinese member of the crew succeeded in
@@ -11717,7 +11717,7 @@ propagandism and European commercial intercourse was acted in the
 interval between 1542 and 1637.
 
 
-  Arrival of the Jesuits.
+  Arrival of the [[Jesuits]].
 
 It does not appear that the Jesuits at Macao, Goa or other centres of
 Portuguese influence in the East took immediate advantage of the
@@ -11726,13 +11726,13 @@ landed at Kagoshima on the 15th of August 1549. During the interval of
 six (or seven) years that separated this event from the drifting of the
 junk to Tanegashima, the Portuguese had traded freely in the ports of
 Kiushiu, had visited Kioto, and had reported the Japanese capital to be
-a city of 96,000 houses, therefore larger than Lisbon. Xavier would
+a city of 96,000 houses, therefore larger than [[Lisbon]]. Xavier would
 certainly have gone to Japan even though he had not been specially
 encouraged, for the reports of his countrymen depicted the Japanese as
 "very desirous of being instructed," and he longed to find a field more
 promising than that inhabited by "all these Indian nations, barbarous,
 vicious and without inclination to virtue." There were, however, two
-special determinants. One was a request addressed by a feudatory,
+special [[Determinant|determinants]]. One was a request addressed by a feudatory,
 supposed to have been the chief of the Bungo fief, to the viceroy of
 the Indies at Goa; the other, an appeal made in person by a Japanese
 named Yajiro, whom the fathers spoke of as Anjiro, and who subsequently
@@ -11744,11 +11744,11 @@ missionaries, and being entirely without bigotry, as nearly all Japanese
 were at that epoch, he issued the invitation partly out of curiosity and
 partly from a sincere desire for progress. Anjiro's case was very
 different. Labouring under stress of repentant zeal, and fearful that
-his evil acts might entail murderous consequences, he sought an asylum
+his evil acts might [[Entail|entail]] murderous consequences, he sought an [[Asylum|asylum]]
 abroad, and was taken away in 1548 by a Portuguese vessel whose master
 advised him to repair to Malacca for the purpose of confessing to
 Xavier. This might well have seemed to the Jesuits a providential
-dispensation, for Anjiro, already able to speak Portuguese, soon
+[[Dispensation|dispensation]], for Anjiro, already able to speak Portuguese, soon
 mastered it sufficiently to interpret for Xavier and his
 fellow-missionaries (without which aid they must have remained long
 helpless in the face of the immense difficulty of the Japanese
@@ -11804,7 +11804,7 @@ on the northern shore of the Shimonoseki Strait. There the feudal chief,
 Ouchi, though sufficiently courteous and inquisitive, showed no special
 cordiality towards humble missionaries unconnected with commerce, and
 the work of proselytizing made no progress, so that Xavier and his
-companion, Fernandez, pushed on to Kioto. The time was mid-winter; the
+companion, [[Fernandez]], pushed on to Kioto. The time was mid-winter; the
 two fathers suffered terrible privations during their journey of two
 months on foot, and on reaching Kioto they found a city which had been
 almost wholly reduced to ruins by internecine war. Necessarily they
@@ -11819,7 +11819,7 @@ returned to Yamaguchi. But he had now learned a lesson. He saw that
 propagandism without scrip or staff and without the countenance of those
 sitting in the seats of power would be futile in Japan. So he obtained
 from Hirado his canonicals, together with a clock and other novel
-products of European skill, which, as well as credentials from the
+products of European skill, which, as well as [[Credentials|credentials]] from the
 viceroy of India, the governor of Malacca and the bishop of Goa, he
 presented to the Choshu chief. His prayer for permission to preach
 Christianity was now readily granted, and Ouchi issued a proclamation
@@ -11853,7 +11853,7 @@ the Portuguese crew, gorgeously bedizened, carrying their arms and with
 banners flying. Otomo, a young and ambitious ruler, was keenly anxious
 to attract foreign traders with their rich cargoes and puissant weapons
 of war. Witnessing the reverence paid to Xavier by the Portuguese
-traders, he appreciated the importance of gaining the goodwill of the
+traders, he appreciated the importance of gaining the [[Goodwill|goodwill]] of the
 Jesuits, and accordingly not only granted them full freedom to teach and
 preach, but also enjoined upon his younger brother, who, in the sequel
 of a sudden rebellion, had succeeded to the lordship of Yamaguchi, the
@@ -11869,7 +11869,7 @@ more than a year's labour produced 150 believers. There Xavier had the
 assistance of Anjiro to expound his doctrines. No language lends itself
 with greater difficulty than Japanese to the discussion of theological
 questions. The terms necessary for such a purpose are not current among
-laymen, and only by special study, which, it need scarcely be said,
+[[Laymen|laymen]], and only by special study, which, it need scarcely be said,
 must be preluded by an accurate acquaintance with the tongue itself, can
 a man hope to become duly equipped for the task of exposition and
 dissertation. It is open to grave doubt whether any foreigner has ever
@@ -11918,7 +11918,7 @@ information available about the conditions then existing in Japan. They
 describe a state of abject poverty among the lower orders; poverty so
 cruel that the destruction of children by their famishing parents was an
 everyday occurrence, and in some instances choice had to be made between
-cannibalism and starvation. Such suffering becomes easily intelligible
+[[Cannibalism|cannibalism]] and starvation. Such suffering becomes easily intelligible
 when the fact is recalled that Japan had been racked by civil war during
 more than 200 years, each feudal chief fighting for his own hand, to
 save or to extend his territorial possessions. From these _Annual
@@ -11941,7 +11941,7 @@ Portuguese sailors. There the fathers, under the guidance of Vilela,
 sent brothers to parade the streets ringing bells and chaunting
 litanies; they organized bands of boys for the same purpose; they caused
 the converts, and even children, to flagellate themselves at a model of
-Mount Calvary, and they worked miracles, healing the sick by contact
+Mount [[Calvary]], and they worked miracles, healing the sick by contact
 with scourges or with a booklet in which Xavier had written litanies and
 prayers. It may well be imagined that such doings attracted surprised
 attention in Japan. They were supplemented by even more striking
@@ -11982,7 +11982,7 @@ embraced Christianity and ordered all his vassals to follow his example;
 but when no Portuguese ship appeared, he apostatized, required his
 subjects to revert to Buddhism arid made the missionaries withdraw. In
 fact, the competition for the patronage of Portuguese traders was so
-keen that the Hirado feudatory attempted to burn several of their
+keen that the Hirado feudatory attempted to [[Burn|burn]] several of their
 vessels because they frequented the territorial waters of his neighbour
 and rival, Sumitada. The latter became a most stalwart Christian when
 his wish was gratified. He set himself to eradicate idolatry throughout
@@ -12001,7 +12001,7 @@ of the Christian God, and shortly afterwards he publicly proclaimed
 banishment for all who would not accept the foreign faith. There were
 then no Jesuits by his side, but immediately two hastened to join him,
 and "these, accompanied by a strong guard, but yet not without danger of
-their lives, went round causing the churches of the Gentiles, with their
+their lives, went round causing the churches of the [[Gentile|Gentiles]], with their
 idols, to be thrown to the ground, while three Japanese Christians went
 preaching the law of God everywhere. Three of us who were in the
 neighbouring kingdoms all withdrew therefrom to work in this abundant
@@ -12039,7 +12039,7 @@ Prince Andrew did after his baptism was to convert the chief temple of
 his capital into a church, its revenues being assigned for the
 maintenance of the building and the support of the missionaries. He then
 took measures to have the same thing done in the other towns of his
-fief, and he seconded the preachers of the gospel so well in everything
+fief, and he seconded the preachers of the [[Gospel|gospel]] so well in everything
 else that he could flatter himself that he soon would not have one
 single idolater in his states." Thus in the two years that separated his
 baptism from his death, twenty thousand converts were won in Arima. But
@@ -12078,7 +12078,7 @@ of feudal chiefs who possessed the power of life and death over their
 vassals, and were influenced by a desire to attract foreign trade. To
 the Buddhist priests this movement of Christian propagandism had brought
 an experience hitherto unknown to them, persecution on account of creed.
-They had suffered for interfering in politics, but the fierce cruelty of
+They had suffered for interfering in politics, but the fierce [[Cruelty|cruelty]] of
 the Christian fanatic now became known for the first time to men
 themselves conspicuous for tolerance of heresy and receptivity of
 instruction. They had had no previous experience of humanity in the garb
@@ -12087,7 +12087,7 @@ of the bonzes as to that of wild beasts, and made it his singular
 pleasure to exterminate them from his states."
 
 
-  First Japanese Embassy to Europe.
+  First Japanese [[Embassy]] to Europe.
 
 In 1582 the first Japanese envoys sailed from Nagasaki for Europe. The
 embassy consisted of four youths, the oldest not more than 16,
@@ -12239,7 +12239,7 @@ and on that occasion his visitor recorded that he spoke of an intention
 of christianizing one half of Japan. Nor did Hideyoshi confine himself
 to words. He actually signed a patent licensing the missionaries to
 preach throughout all Japan, and exempting not only their houses and
-churches from the billeting of soldiers but also the priests themselves
+churches from the [[Billeting|billeting]] of soldiers but also the priests themselves
 from local burdens. This was in 1586, on the eve of Hideyoshi's greatest
 military enterprise, the invasion of Kiushiu and its complete reduction.
 He carried that difficult campaign to completion by the middle of 1587,
@@ -12256,7 +12256,7 @@ vice-provincial allowed merchants of his nation to buy Japanese to make
 slaves of them in the Indies?" To these queries Coelho, the
 vice-provincial, made answer that the missionaries had never themselves
 resorted, or incited, to violence in their propagandism or persecuted
-bonzes; that if their eating of beef were considered inadvisable, they
+bonzes; that if their eating of [[Beef|beef]] were considered inadvisable, they
 would give up the practice; and that they were powerless to prevent or
 restrain the outrages perpetrated by their countrymen. Hideyoshi read
 the vice-provincial's reply and, without comment, sent him word to
@@ -12355,14 +12355,14 @@ very clear, though diverse accounts have been transmitted. Up to 1593
 the Portuguese had possessed a monopoly of religious propagandism and
 over-sea commerce in Japan. The privilege was secured to them by
 agreement between Spain and Portugal and by a papal bull. But the
-Spaniards in Manila had long looked with somewhat jealous eyes on this
+Spaniards in [[Manila]] had long looked with somewhat jealous eyes on this
 Jesuit reservation, and when news of the disaster of 1587 reached the
 Philippines, the Dominicans and Franciscans residing there were fired
-with zeal to enter an arena where the crown of martyrdom seemed to be
+with zeal to enter an [[Arena|arena]] where the crown of martyrdom seemed to be
 the least reward within reach. The papal bull, however, demanded
 obedience, and to overcome that difficulty a ruse was necessary: the
 governor of Manila agreed to send a party of Franciscans as ambassadors
-to Hideyoshi. In that guise the friars, being neither traders nor
+to Hideyoshi. In that guise the [[Friar|friars]], being neither traders nor
 propagandists, considered that they did not violate either the treaty or
 the bull. It was a technical subterfuge very unworthy of the object
 contemplated, and the friars supplemented it by swearing to Hideyoshi
@@ -12433,7 +12433,7 @@ hopeless was any attempt to deceive him. Therefore, early in 1598,
 really drastic steps were taken. Churches to the number of 137 were
 demolished in Kiushiu, seminaries and residences fell, and the governor
 of Nagasaki assembled there all the fathers of the company for
-deportation to Macao by the great ship in the following year. But while
+[[Deportation|deportation]] to Macao by the great ship in the following year. But while
 they waited, Hideyoshi died. It is not on record that the Jesuits openly
 declared his removal from the earth to have been a special dispensation
 in their favour. But they pronounced him an execrable tyrant and
@@ -12465,7 +12465,7 @@ death. There was then led into his presence a Franciscan, by name Jerome
 de Jesus, originally a member of the fictitious embassy from Manila.
 This man's conduct constitutes an example of the invincible zeal and
 courage inspiring a Christian priest in those days. Barely escaping the
-doom of crucifixion which overtook his companions, he had been deported
+[[Doom|doom]] of crucifixion which overtook his companions, he had been deported
 from Japan to Manila at a time when death seemed to be the certain
 penalty of remaining. But no sooner had he been landed at Manila than he
 took passage in a Chinese junk, and, returning to Nagasaki, made his way
@@ -12497,7 +12497,7 @@ Manila:--
   ships might not be lost in future as the 'San Felipe' had been, and
   that he should solicit this service from the governor of the
   Philippines. The Prince approved of my advice, and accordingly he has
-  sent a Japanese gentleman, a native of Sakai, the bearer of this
+  sent a Japanese [[Gentleman|gentleman]], a native of Sakai, the bearer of this
   message.... It is essential to oppose no obstacle to the complete
   liberty offered by the Emperor to the Spaniards and to our holy order,
   for the preaching of the holy gospel.... The same Prince (who is about
@@ -12535,7 +12535,7 @@ the "Liefde" was visited by Jesuits, who, on discovering her
 nationality, denounced her to the local authorities as a pirate and
 endeavoured to incense the Japanese against them. The "Liefde" had on
 board in the capacity of "pilot major" an Englishman, Will Adams of
-Gillingham in Kent, whom Iyeyasu summoned to Osaka, where there
+[[Gillingham]] in Kent, whom Iyeyasu summoned to Osaka, where there
 commenced between the rough British sailor and the Tokugawa chief a
 curiously friendly intercourse which was not interrupted until the death
 of Adams twenty years later. The Englishman became master ship-builder
@@ -12546,7 +12546,7 @@ possessed the implicit confidence of the shogun. Iyeyasu quickly
 discerned the man's honesty, perceived that whatever benefits foreign
 commerce might confer would be increased by encouraging competition
 among the foreigners, and realized that English and Dutch trade
-presented the wholesome feature of complete dissociation from religious
+presented the wholesome feature of complete [[Dissociation|dissociation]] from religious
 propagandism. On the other hand, he showed no intolerance to either
 Spaniards or Portuguese. He issued (1601) two official patents
 sanctioning the residence of the fathers in Kioto, Osaka and Nagasaki;
@@ -12624,7 +12624,7 @@ such a proceeding would be regarded in Europe as an act of hostility,
 especially on the part of the Spaniards or Portuguese, whose aggressions
 were notorious. He added, in reply to further questions, that "the Roman
 priesthood had been expelled from many parts of Germany, from Sweden,
-Norway, Denmark, Holland and England, and that although his own country
+Norway, [[Denmark]], Holland and England, and that although his own country
 preserved the pure form of the Christian faith from which Spain and
 Portugal had deviated, yet neither English nor Dutch considered that
 that fact afforded them any reason to war with, or to annex, States
@@ -12743,7 +12743,7 @@ now destined to begin.
 
 
 In the midst of all this, Navarette, the vice-provincial of the
-Dominicans, and Ayala, the vice-provincial of the Augustins, came out of
+Dominicans, and [[Ayala]], the vice-provincial of the Augustins, came out of
 their retreat, and in full priestly garb started upon an open
 propaganda. The two fanatics--for so even Charlevoix considers them to
 have been--were secretly conveyed to the island Takashima and there
@@ -12778,7 +12778,7 @@ and Machado) were beheaded, "not by the common executioner, but by one
 of the first officers of the prince." Subsequently Navarette and Ayala
 were decapitated by the executioner. Then, in 1618, Juan de Santa Martha
 was executed like a common criminal, his body being dismembered and his
-head exposed. Finally, in 1622, Zuñiga and Flores were burnt alive. The
+head exposed. Finally, in 1622, Zuñiga and [[Flores]] were burnt alive. The
 same year was marked by the "great martyrdom" at Nagasaki when 9 foreign
 priests went to the stake with 19 Japanese converts. The shogun seems to
 have been now labouring under vivid fear of a foreign invasion. An
@@ -12841,7 +12841,7 @@ never ceased. In 1636, the Dutch found on a captured Portuguese vessel a
 report of the governor of Macao describing a two days' festival which
 had been held there in honour of Vieyra, the vice-provincial whose
 martyrdom had just taken place in Japan. This report the Dutch handed to
-the Japanese authorities "in order that his majesty may see more clearly
+the Japanese authorities "in order that his [[Majesty|majesty]] may see more clearly
 what great honour the Portuguese pay to those he has forbidden his realm
 as traitors to the state and to his crown." Probably the accusation
 added little to the resentment and distrust already harboured by the
@@ -12887,7 +12887,7 @@ For the guns in possession of the besiegers being too light to
 accomplish anything, Koeckebacker, the factor at Hirado, was invited to
 send ships carrying heavier metal. He replied with the "de Ryp" of 20
 guns, which threw 426 shot into the castle in 15 days. Probably the
-great bulk of the remaining Japanese Christians perished at the massacre
+great bulk of the remaining Japanese Christians perished at the [[Massacre|massacre]]
 of Hara. Thenceforth there were few martyrs.[32]
 
 
@@ -12978,7 +12978,7 @@ Iyeyasu. Twelve years previously, the merchants of London, stimulated
 generally by the success of the Dutch in trade with the East, and
 specially by the fact that "these Hollanders had raised the price of
 pepper against us from 3 shillings per pound to 6 shillings and 8
-shillings," organized the East India Company which immediately began to
+shillings," organized the [[East India Company]] which immediately began to
 send ships eastward. Of course the news that the Dutch were about to
 establish a trading station in Japan reached London speedily, and the
 East India Company lost no time in ordering one of their vessels, the
@@ -12991,7 +12991,7 @@ shallow judgment and suspicious. Though strongly urged by Will Adams to
 make Uraga the seat of the new trade, though convinced of the excellence
 of the harbour there, and though instructed as to the great advantage of
 proximity to the shogun's capital, he appears to have conceived some
-distrust of Adams, for he chose Hirado. From Iyeyasu Captain Saris
+distrust of Adams, for he [[Chose|chose]] Hirado. From Iyeyasu Captain Saris
 received a most liberal charter, which plainly displayed the mood of the
 Tokugawa shogun towards foreign trade:--
 
@@ -13088,7 +13088,7 @@ sentenced to imprisonment within the limits of their islands, and the
 country was deprived of all hope of acquiring a mercantile marine. The
 descendants of the Spaniards, banished by the edict, were taken to Macao
 in two Portuguese galleons. They numbered 287 and the property they
-carried with them aggregated 6,697,500 florins. But if the Portuguese
+carried with them aggregated 6,697,500 [[Florin|florins]]. But if the Portuguese
 derived any gratification from this sweeping out of their much-abused
 rivals, the feeling was destined to be short-lived. Already they were
 subjected to humiliating restrictions.
@@ -13119,7 +13119,7 @@ subjected to humiliating restrictions.
   days' stay to a ring of licensed merchants from the imperial
   towns."[34]
 
-The imposition of such irksome conditions did not deter the Portuguese,
+The [[Imposition|imposition]] of such irksome conditions did not deter the Portuguese,
 who continued to send merchandise-laden galleons to Nagasaki. But in
 1638 the bolt fell. The Shimabara rebellion was directly responsible.
 Probably the fact of a revolt of Christian converts, in such numbers and
@@ -13300,7 +13300,7 @@ not be allowed even to enter it. Siebold writes:--
   enough, even within Deshima itself our state prisoners were keenly
   watched. No Japanese might speak with them in his own language unless
   in the presence of a witness (a government spy) or visit them in their
-  houses. The creatures of the governor had the warehouses under key and
+  houses. The creatures of the governor had the warehouses under [[Key|key]] and
   the Dutch traders ceased to be masters of their property."
 
 There were worse indignities to be endured. No Dutchman might be buried
@@ -13453,7 +13453,7 @@ sight of Japan's northern island, Yezo, so that the aspect of foreign
 ships became quite familiar. From time to time American schooners were
 cast away on Japan's shores. Generally the survivors were treated with
 tolerable consideration and ultimately sent to Deshima for shipment to
-Batavia. Japanese sailors, too, driven out of their route by hurricanes
+Batavia. Japanese sailors, too, driven out of their route by [[Hurricane|hurricanes]]
 and caught in the stream of the "Black Current," were occasionally
 carried to the Aleutian Islands, to Oregon or California, and in several
 instances these shipwrecked mariners were taken back to Japan with all
@@ -13491,7 +13491,7 @@ a map of the world and a despatch advising Japan to abandon her policy
 of isolation. Within a few months (1849) of the receipt of his Dutch
 majesty's recommendation, an American brig, the "Preble," under
 Commander J. Glynn, anchored in Nagasaki harbour and threatened to
-bombard the town unless immediate delivery were made of 18 seamen who,
+[[Bombard|bombard]] the town unless immediate delivery were made of 18 seamen who,
 having been wrecked in northern waters, were held by the Japanese
 preparatory to shipment for Batavia. In 1849 another despatch reached
 Yedo from the king of Holland announcing that an American fleet might be
@@ -13531,7 +13531,7 @@ correspondingly enhanced. Perry, however, was without authority to
 support his proposals by any recourse to violence. The United States
 government had relied solely on the moral effect of his display of
 force, and his countrymen had supplied him with a large collection of
-the products of peaceful progress, from sewing machines to miniature
+the products of peaceful progress, from sewing [[Machine|machines]] to miniature
 railways. He did not unduly press for a treaty, but after lying at
 anchor off Uraga during a period of ten days and after transmitting the
 president's letter to the sovereign of Japan, he steamed away on the
@@ -13574,7 +13574,7 @@ Russia, Holland and England speedily secured for themselves treaties
 similar to that concluded by Commodore Perry in 1854. But Japan's doors
 still remained closed to foreign commerce, and it was reserved for
 another citizen of the great republic to open them. This was Townsend
-Harris (1803-1878), the first U.S. consul-general in Japan. Arriving in
+[[Harris]] (1803-1878), the first U.S. consul-general in Japan. Arriving in
 August 1856, he concluded, in June of the following year, a treaty
 securing to American citizens the privilege of permanent residence at
 Shimoda and Hakodate, the opening of Nagasaki, the right of consular
@@ -13606,7 +13606,7 @@ Ministers in defiance of their failure to obtain the sanction of the
 sovereign in Kioto. Foreign historians have found much to say about
 Japanese duplicity in concealing the subordinate position occupied by
 the Yedo administration towards the Kioto court. Such condemnation is
-not consistent with fuller knowledge. The Yedo authorities had power to
+not consistent with [[Fuller|fuller]] knowledge. The Yedo authorities had power to
 solve all problems of foreign intercourse without reference to Kioto.
 Iyeyasu had not seen any occasion to seek imperial assent when he
 granted unrestricted liberty of trade to the representatives of the East
@@ -13660,7 +13660,7 @@ treaty obligations and to render the situation intolerable for foreign
 residents, whereas in truth the situation threatened to become
 intolerable for the shogunate itself. Nevertheless the Yedo officials
 cannot be entirely acquitted of duplicity. Under pressure of the
-necessity of self-preservation they effected with Kioto a compromise
+necessity of self-preservation they effected with Kioto a [[Compromise|compromise]]
 which assigned to foreign intercourse a temporary character. The
 threatened political crisis was thus averted, but the enemies of the
 dual system of government gained strength daily. One of their devices
@@ -13712,10 +13712,10 @@ arm was not long enough to reach the most powerful feudatory in Japan,
 the British government sent a squadron to bombard his capital,
 Kagoshima. It was not a brilliant exploit in any sense, but its results
 were invaluable; for the operations of the British ships finally
-convinced the Satsuma men of their impotence in the face of Western
+convinced the Satsuma men of their [[Impotence|impotence]] in the face of Western
 armaments, and converted them into advocates of liberal progress. Three
-months previously to this bombardment of Kagoshima another puissant
-feudatory had thrown down the gauntlet. The Choshu chief, whose
+months previously to this [[Bombardment|bombardment]] of Kagoshima another puissant
+feudatory had thrown down the [[Gauntlet|gauntlet]]. The Choshu chief, whose
 batteries commanded the entrance to the inland sea at Shimonoseki,
 opened fire upon ships flying the flags of the United States, of France
 and of Holland. In thus acting he obeyed an edict obtained by the
@@ -13841,10 +13841,10 @@ FOOTNOTES:
     shillings per annum, and the usual charge for advertisement is from
     7d. to one shilling per line of 22 ideographs (about nine words).
 
-  [2] It is first boiled in a lye obtained by lixiviating wood ashes;
+  [2] It is first boiled in a [[Lye|lye]] obtained by lixiviating wood ashes;
     it is next polished with charcoal powder; then immersed in plum
     vinegar and salt; then washed with weak lye and placed in a tub of
-    water to remove all traces of alkali, the final step being to digest
+    water to remove all traces of alkali, the final step being to [[Digest|digest]]
     in a boiling solution of copper sulphate, verdigris and water.
 
   [3] This method is some 300 years old. It is by no means a modern
@@ -13978,7 +13978,7 @@ FOOTNOTES:
     in Kioto, and threatened to suppress their religion altogether unless
     they persuaded the feudatory to abandon the cause of his suzerain.
 
-  [31] The mutilation was confined to the lobe of one ear. Crucifixion,
+  [31] The mutilation was confined to the [[Lobe|lobe]] of one ear. Crucifixion,
     according to the Japanese method, consisted in tying to a cross and
     piercing the heart with two sharp spears driven from either side.
     Death was always instantaneous.

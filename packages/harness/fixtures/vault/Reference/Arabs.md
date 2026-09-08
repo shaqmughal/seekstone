@@ -11,7 +11,7 @@ earliest historic times inhabited the south-western portion of the
 Arabian peninsula. The name, to-day the collective term for the
 overwhelming majority of the surviving Semitic peoples, was originally
 restricted to the nomad tribes who ranged the north of the peninsula
-east of Palestine and the Syro-Arabian desert. In this narrow sense
+east of Palestine and the Syro-Arabian [[Desert|desert]]. In this narrow sense
 "Arab" is used in the Assyrian inscriptions, in the Old Testament and in
 the Minaean inscriptions. Before the Christian era it had come to
 include all the inhabitants of the peninsula. This, it is suggested, may
@@ -21,7 +21,7 @@ use the term both in its local and general sense. The Arabs to-day
 occupy, besides Arabia, a part of Mesopotamia, the western shores of the
 Red Sea, the eastern coast of the Persian Gulf and the north of Africa.
 The finest type of the race is found in south Arabia among the Ariba
-Arabs, among the mountaineers of Hadramut and Yemen and among the
+Arabs, among the mountaineers of [[Hadramut]] and Yemen and among the
 Bedouin tribes roaming over the interior of central and northern Arabia.
 The Arabs of the coasts and those of Mesopotamia are hybrids, showing
 Turkish, Negroid and Hamitic crossings. The people of Syria and
@@ -33,8 +33,8 @@ settlement on the east coast of Africa that can be proved is Magadoxo
 once supposed to be the remains of Arab settlements, are now known to be
 of medieval African origin. On the East African coast-lands Arab
 influence is still considerable. Traces of the Arab type are met with in
-Asia Minor, the Caucasus, western Persia and India, while the influence
-of the Arab language and civilization is found in Europe (Malta and
+Asia Minor, the [[Caucasus]], western Persia and India, while the influence
+of the Arab language and civilization is found in Europe ([[Malta]] and
 Spain), China and Central Asia.
 
 
@@ -50,15 +50,15 @@ Arab race can only be a matter of conjecture. From the remotest historic
 times it has been divided into two branches, which from their
 geographical position it is simplest to call the North Arabians and the
 South Arabians. Arabic and Jewish tradition trace the descent of the
-latter from Joktan (Arabic _Kahtan_) son of Heber, of the former from
-Ishmael. The South Arabians--the older branch--were settled in the
+latter from Joktan (Arabic _Kahtan_) son of [[Heber]], of the former from
+[[Ishmael]]. The South Arabians--the older branch--were settled in the
 south-western part of the peninsula centuries before the uprise of the
 Ishmaelites. These latter include not only Ishmael's direct descendants
 through the twelve princes (Gen. xxv. 16), but the Edomites, Moabites,
 Ammonites, Midianites and other tribes. This ancient and undoubted
 division of the Arab race --roughly represented to-day by the
-universally adopted classification into Arabs proper and Bedouin Arabs
-(see BEDOUINS)-has caused much dispute among ethnologists. All
+universally adopted [[Classification|classification]] into Arabs proper and Bedouin Arabs
+(see [[Bedouins|BEDOUINS]])-has caused much dispute among ethnologists. All
 authorities agree in declaring the race to be Semitic in the broadest
 ethnological signification of that term, but some thought they saw in
 this division of the race an indication of a dual origin. They asserted
@@ -88,11 +88,11 @@ soil, having more in common with African life than with that of the
 western Asiatic continent. (9) The extreme facility of marriage which
 exists in all classes of the southern Arabs with the African races, the
 fecundity of such unions and the slightness or even total absence of any
-caste feeling between the dusky "pure" Arab and the still darker
+[[Caste|caste]] feeling between the dusky "pure" Arab and the still darker
 African, pointing to a community of origin. And further arguments were
 found in the characteristics of the Bedouins, their pastoral and nomad
-tendencies; the peculiarities of their idiom allied to the Hebrew; their
-strong clan feeling, their continued resistance to anything like regal
+tendencies; the peculiarities of their [[Idiom|idiom]] allied to the Hebrew; their
+strong [[Clan|clan]] feeling, their continued resistance to anything like regal
 power or centralized organization.
 
 Such, briefly, were the more important arguments; but latterly
@@ -102,41 +102,41 @@ beginning in the deserts of south Arabia, that in short the true Arabs
 are aborigines.
 
 Mahommedans call the centuries before the Prophet's birth waqt-el
-jahiliya, "the time of ignorance," but the fact is that the Arab world
+jahiliya, "the time of [[Ignorance|ignorance]]," but the fact is that the Arab world
 has in some respects never since reached so high a level as it had in
-those days which it suits Moslems to paint in dreary colours. Writing
+those days which it suits Moslems to paint in dreary [[Colours|colours]]. Writing
 was a fine art and poetry flourished. Eloquence was an accomplishment
 all strove to acquire, and each year there were assemblies, lasting
 sometimes a month, which were devoted to contests of skill among the
 orators and poets, to listen to whose friendly rivalry tribesmen
-journeyed long distances. Last, that surest index of a people's
+journeyed long distances. Last, that surest [[Index|index]] of a people's
 civilization--the treatment of women--contrasted very favourably with
 their position under the Koran. Women had rights and were respected. The
-veil and the harem system were unknown before Mahomet. According to
-Noldeke the Nabataean inscriptions and coins show that women held a high
+veil and the [[Harem|harem]] system were unknown before Mahomet. According to
+Noldeke the Nabataean inscriptions and [[Coin|coins]] show that women held a high
 social position in northern Arabia, owning large estates and trading
 independently. Polyandry and polygamy, it is true, were practised, but
 the right of divorce belonged to the woman as well as the man. Two kinds
 of marriage were celebrated. One was a purely personal contract, with no
 witnesses, the wife not leaving her home or passing under marital
 authority. The other was a formal marriage, the woman becoming subject
-to her husband by purchase or capture. Even captive women were not kept
+to her husband by purchase or capture. Even [[Captive|captive]] women were not kept
 in slavery. Arabic wealth and culture had indeed thus early reached a
 stage which justified Professor Robertson Smith in writing, "In this
 period the name of Arab was associated to Western writers with ideas of
 effeminate indolence and peaceful opulence ... the golden age of Yemen."
 But long before Mahomet's time this early Arab predominance was at an
-end, possibly due in great measure to the loss of the caravan trade
+end, possibly due in great measure to the loss of the [[Caravan|caravan]] trade
 through the increase of shipping. The abandonment of great cities and
 the ruin of many tribes contributed to the apparent nationalization of
-the Arab peoples. Though the traditional jealousy and hostility of the
+the Arab peoples. Though the traditional [[Jealousy|jealousy]] and hostility of the
 two branches, the Yemenites and Maadites or Ishmaelites, remained, the
 Arab world had attained by the levelling process of common misfortune
 the superficial unity it presents to-day. The nation thus formed, never
 a nation in the strict sense of the word, was distinctively and
 thoroughly Semitic in character and language, and has remained unchanged
 to the present day. The sporadic brilliancy of the ancient Arab kingdoms
-gave place to a social and political lethargy, the continuation of which
+gave place to a social and political [[Lethargy|lethargy]], the continuation of which
 for many centuries made the uprise of Saracenic empires seem a miracle
 to a world ignorant of the Arab past. The Arab race up to Mahomet's day
 had been in the main pagan. Monotheism, if it ever prevailed, early gave
@@ -146,12 +146,12 @@ and that each tribe had its sacred animal. This he supports by the fact
 that some tribal names were derived from those of animals, and that
 animal-worship was not unknown in Arabia. What seems certain is that
 Arab religion was of a complex hybrid nature, not much to be wondered at
-when one remembers that Arabia was the asylum of many religious
+when one remembers that Arabia was the [[Asylum|asylum]] of many religious
 refugees, Zoroastrians, Jews, Christians. In the later pre-Islamitic
 times spirits, or jinns, as they were called, of which each tribe or
 family had its own, were worshipped, and there was but a vague idea of a
-Supreme Being. Images of the jinns to the number of 360, one for each
-day of the lunar year, were collected in the temple at Mecca, the chief
+Supreme Being. [[Image|Images]] of the jinns to the number of 360, one for each
+day of the lunar year, were collected in the temple at [[Mecca]], the chief
 seat of their worship. That worship was of a sanguinary nature. Human
 sacrifice was fairly frequent. Under the guise of religion female
 infanticide was a common practice. At Mecca the great object of worship
@@ -180,7 +180,7 @@ being equal, to that of other nations." The typical Arab face is of an
 oval form, lean-featured; the eyes a brilliant black, deep-set under
 bushy eyebrows; nose aquiline, forehead straight but not high. In body
 the Arab is muscular and long-limbed, but lean. Deformed individuals or
-dwarfs are rare among Arabs; nor, except leprosy, which is common, does
+dwarfs are rare among Arabs; nor, except [[Leprosy|leprosy]], which is common, does
 any disease seem to be hereditary among them. They often suffer from
 ophthalmia, though not in the virulent Egyptian form. They are
 scrupulously clean in their persons, and take special care of their
@@ -200,11 +200,11 @@ impatience that even these are borne; of the four caliphs who alone
 reigned--if reign theirs could be called--in Arabia proper, three died a
 violent death; and of the Wahhabi princes, the most genuine
 representatives in later times of pure Arab rule, almost all have met
-the same fate. The Arab face, which is not unkindly, but never smiling,
+the same [[Fate|fate]]. The Arab face, which is not unkindly, but never smiling,
 expresses that dignity and gravity which are typical of the race. While
 the Arab is always polite, good-natured, manly and brave, he is also
 revengeful, cruel, untruthful and superstitious. Of the Arab nature
-Burckhardt (other authorities, e.g. Barth and Rohlfs, are far less
+Burckhardt (other authorities, e.g. [[Barth]] and Rohlfs, are far less
 complimentary) wrote: "The Arab displays his manly character when he
 defends his guest at the peril of his own life, and submits to the
 reverses of fortune, to disappointment and distress, with the most
@@ -216,19 +216,19 @@ false oaths, but once his word is pledged he may be trusted to the last.
 There are some oaths such as _Wallah_ (by Allah) which mean nothing, but
 such an oath as the threefold one with _wa, bi_ and _ta_ as particles of
 swearing the meanest thief will not break. In temper, or at least in the
-manifestation of it, the Arab is studiously calm; and he rarely so much
+manifestation of it, the Arab is studiously [[Calm|calm]]; and he rarely so much
 as raises his voice in a dispute. But this outward tranquillity covers
 feelings alike keen and permanent; and the remembrance of a rash jest or
 injurious word, uttered years before, leads only too often to that
 blood-revenge which is a sacred duty everywhere in Arabia.
 
 There exist, however, marked tribal or almost semi-national diversities
-of character among the Arabs. Thus, the inhabitants of Hejaz are noted
-for courtesy and blamed for fickleness; those of Nejd are distinguished
+of character among the Arabs. Thus, the inhabitants of [[Hejaz]] are noted
+for [[Courtesy|courtesy]] and blamed for fickleness; those of Nejd are distinguished
 by their stern tenacity and dignity of deportment; the nations of Yemen
-are gentle and pliant, but revengeful; those of Hasa and Oman cheerful
+are gentle and pliant, but revengeful; those of [[Hasa]] and Oman cheerful
 and fond of sport, though at the same time turbulent and unsteady.
-Anything approaching to a game is rare in Nejd, and in the Hejaz
+Anything approaching to a [[Game|game]] is rare in Nejd, and in the Hejaz
 religion and the yearly occurrence of the pilgrim ceremonies almost
 exclude all public diversions; but in Yemen the well-known game of the
 "jerid," or palm-stick, with dances and music is not rare. In Oman such
@@ -240,9 +240,9 @@ ceremonies of circumcision or marriage are occasions of gaiety and
 pastime on the coast, but not in the central provinces.
 
 
-  Manners and customs.
+  [[Manners]] and customs.
 
-An Arab town, or even village, except it be the merest hamlet, is
+An Arab town, or even village, except it be the merest [[Hamlet|hamlet]], is
 invariably walled round; but seldom is a stronger material than dried
 earth used; the walls are occasionally flanked by towers of like
 construction. A dry ditch often surrounds the whole. The streets are
@@ -263,9 +263,9 @@ ensue, and which in the damper climates of the coast make themselves
 seriously felt. But the streets are roughly swept every day, each
 householder taking care of the roadway that lies before his own door.
 Whitewash and colour are occasionally used in Yemen, Hejaz and Oman;
-elsewhere a light ochre tint, the colour of the sun-dried bricks,
+elsewhere a light ochre tint, the colour of the sun-dried [[Brick|bricks]],
 predominates, and gives an Arab town the appearance at a distance of a
-large dust-heap in the centre of the bright green ring of gardens and
+large dust-heap in the centre of the [[Bright|bright]] green ring of gardens and
 palm-groves. Baked bricks are unknown in Arabia, and stone buildings are
 rare, especially in Nejd. Palm branches and the like, woven in wattles,
 form the dwellings, of the poorer classes in the southern districts.
@@ -277,8 +277,8 @@ and that of Nezwah, in the same province, is reckoned at 140; but these
 are of stone.
 
 The principal feature in the interior of an Arab house is the "kahwah"
-or coffee-room. It is a large apartment spread with mats, and sometimes
-furnished with carpets and a few cushions. At one end is a small furnace
+or coffee-room. It is a large apartment spread with [[Mat|mats]], and sometimes
+furnished with [[Carpet|carpets]] and a few cushions. At one end is a small furnace
 or fireplace for preparing coffee. In this room the men congregate; here
 guests are received, and even lodged; women rarely enter it, except at
 times when strangers are unlikely to be present. Some of these
@@ -290,8 +290,8 @@ ordinarily small.
 
 The Arabs are proverbially hospitable. A stranger's arrival is often the
 occasion of an amicable dispute among the wealthier inhabitants as to
-who shall have the privilege of receiving him. Arab cookery is of the
-simplest. Roughly-ground wheat cooked with butter; bread in thin cakes,
+who shall have the privilege of receiving him. Arab [[Cookery|cookery]] is of the
+simplest. Roughly-ground wheat cooked with [[Butter|butter]]; bread in thin cakes,
 prepared on a heated iron plate or against the walls of an open oven; a
 few vegetables, generally of the leguminous kinds; boiled mutton or
 camel's flesh, among the wealthy; dates and fruits--this is the _menu_
@@ -303,7 +303,7 @@ great sale for them. Spices are freely employed; butter much too largely
 for a European taste.
 
 After eating, the hands are always washed, soap or the ashes of an
-alkaline plant being used. A covered censer with burning incense is then
+alkaline plant being used. A covered censer with burning [[Incense|incense]] is then
 passed round, and each guest perfumes his hands, face, and sometimes his
 clothes; this censer serves also on first receptions and whenever
 special honour is intended. In Yemen and Oman scented water often does
@@ -321,12 +321,12 @@ daintiness esteemed disgraceful. Wine, like other fermented drinks, is
 prohibited by the Koran, and is, in fact, very rarely taken, though the
 inhabitants of the mountains of Oman are said to indulge in it. On the
 coast spirits of the worst quality are sometimes procured; opium and
-hashish are sparingly indulged in. On the other hand, wherever
+[[Hashish|hashish]] are sparingly indulged in. On the other hand, wherever
 Wahhabiism has left freedom of action, tobacco-smoking prevails; short
 pipes of clay, long pipes with large open bowls, or most frequently the
 water-pipe or "nar-ghileh," being used. The tobacco smoked is generally
 strong and is either brought from the neighbourhood of Bagdad or grown
-in the country itself. The strongest quality is that of Oman; the leaf
+in the country itself. The strongest quality is that of Oman; the [[Leaf|leaf]]
 is broad and coarse, and retains its green colour even when dried; a few
 whiffs have been known to produce absolute stupor. The aversion of the
 Wahhabis to tobacco is well known; they entitle it "mukhzi" or "the
@@ -334,7 +334,7 @@ shameful," and its use is punished with blows, as the public use of wine
 would be elsewhere.
 
 
-  Dress.
+  [[Dress]].
 
 In dress much variety prevails. The loose cotton drawers girded at the
 waist, which in hot climates do duty for trousers, are not often worn,
@@ -345,14 +345,14 @@ handkerchief fastened round the head by a band. But in Hejaz, Yemen and
 Oman, turbans are by no means uncommon; the ordinary colour is white;
 they are worn over one or more skullcaps. Trousers also form part of the
 dress in the two former of these districts; and a voluminous sash, in
-which a dagger or an inkstand is stuck, is wrapped round the waist. The
+which a [[Dagger|dagger]] or an inkstand is stuck, is wrapped round the waist. The
 poorer folk, however, and the villagers often content themselves with a
-broad piece of cloth round the loins, and another across the shoulders.
+broad piece of cloth round the [[Loin|loins]], and another across the shoulders.
 In Oman trousers are rare, but over the shirt a long gown, of peculiar
 and somewhat close-fitting cut, dyed yellow, is often worn. The women in
 these provinces commonly put on loose drawers and some add veils to
 their head-dresses; they are over-fond of ornaments (gold and silver);
-their hair is generally arranged in a long plait hanging down behind.
+their hair is generally arranged in a long plait [[Hanging|hanging]] down behind.
 All men allow their beards and moustaches full growth, though this is
 usually scanty. Most Arabs shave their heads, and indeed all, strictly
 speaking, ought by Mahommedan custom to do so. An Arab seldom or never
@@ -411,7 +411,7 @@ arrangement of troops may be traced in Arab records as far back as the
 
 Arab women are scarcely less distinguished for their bravery than the
 men. Records of armed heroines occur frequently in the chronicles or
-myths of the pre-Islamitic time; and in authentic history the Battle of
+myths of the pre-Islamitic time; and in [[Authentic|authentic]] history the Battle of
 the Camel, 656 A.D., where Ayesha, the wife of Mahomet, headed the
 charge, is only the first of a number of instances in which Arab amazons
 have taken, sword in hand, no inconsiderable share in the wars and
@@ -445,7 +445,7 @@ Islamitic system, are explained in afternoon lectures given in most
 mosques; and some verses of the Koran, with one of the accepted
 commentaries, that of Baidawi for example, form the basis of the
 instruction. Great attention is paid to accuracy of grammar and purity
-of diction throughout Arabia; yet something of a dialectic difference
+of diction throughout Arabia; yet something of a [[Dialectic|dialectic]] difference
 may be observed in the various districts. The purest Arabic, that which
 is as nearly as possible identical in the choice of words and in its
 inflections with the language of the Koran, is spoken in Nejd, and the
@@ -454,22 +454,22 @@ Arabic of Shammar. Throughout the Hejaz in general, the language, though
 extremely elegant, is not equally correct; in el-Hasa, Bahrein and Oman
 it is decidedly influenced by the foreign element called Nabataean. In
 Yemen, as in other southern districts of the peninsula, Arabic merges
-insensibly into the Himyaritic or African dialect of Hadramut and Mahra.
+insensibly into the Himyaritic or African [[Dialect|dialect]] of Hadramut and Mahra.
 (See SEMITIC LANGUAGES.)
 
   BIBLIOGRAPHY.--Lieutenant Wellsted, _Travels in Arabia_ (Lond., 1838);
   "Narrative of a Journey to the Ruins of Nakeb el Hajar" (_Jour. R.
   Geog. Soc._ vii. 20); Carsten Niebuhr. _Travels through Arabia_
   (transl. into English by Robert Heron, 2 vols., Edin., 1792); John
-  Lewis Burckhardt, _Travels in Arabia_ (2 vols., Lond., 1829); _Notes
+  [[Lewis]] Burckhardt, _Travels in Arabia_ (2 vols., Lond., 1829); _Notes
   on the Bedouins and Wahabis_, (2 vols., Lond., 1830; in German,
   Weimar, 1831); C.J. Cruttenden, _Journal of an Excursion to Sana'a,
   the Capital of Yemen_ (Bombay, 1838); A. Sprenger, _Die alte
   Geographie Arabiens als Grundlage der Entwicklungsgeschichte des
-  Semitismus_ (Berne, 1875); Sir Richard F. Burton, _Personal Narrative
+  Semitismus_ (Berne, 1875); Sir Richard F. [[Burton]], _Personal Narrative
   of a Pilgrimage to El Medinah and Meccah_ (Lond., 1855); W. Robertson
   Smith, _Kinship and Marriage in Early Arabia_ (Cambridge); E. Reclus,
-  _Les Arabes_ (Brussels, 1898); Lady Anne Blunt, _A Pilgrimage to Nejd_
+  _Les Arabes_ (Brussels, 1898); Lady [[Anne]] Blunt, _A Pilgrimage to Nejd_
   (2 vols., Lond., 1881); C.M. Doughty, _Arabia Deserta_ (2 vols.,
   1888); Rev. S.M. Zwemer, _Arabia: the Cradle of Islam_ (1900);
   Albrecht Zehme, _Arabien und die Araber, seit hundert Jahren_ (1875).

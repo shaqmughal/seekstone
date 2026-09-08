@@ -7,17 +7,17 @@ type: reference
 
 # Doumer
 
-DOUMER, PAUL (1857-   ), French politician, was born at Aurillac. He
-studied law and made his debut in politics as _chef de cabinet_ to
-Floquet, when president of the chamber in 1885. In 1888 he was elected
-Radical deputy for the department of the Aisne. Defeated in the general
+DOUMER, PAUL (1857-   ), French politician, was born at [[Aurillac]]. He
+studied law and made his debut in politics as _chef de [[Cabinet|cabinet]]_ to
+[[Floquet]], when president of the chamber in 1885. In 1888 he was elected
+Radical [[Deputy|deputy]] for the department of the Aisne. Defeated in the general
 elections of September 1889, he was elected again in 1890 by the
-arrondissement of Auxerre. As minister of finance in the Bourgeois
+[[Arrondissement|arrondissement]] of Auxerre. As minister of finance in the Bourgeois
 cabinet (from the 3rd of November 1895 to the 21st of April 1896) he
 tried without success to introduce an income-tax. In January 1897 he
-became governor of Indo-China, where he carried out important public
+became governor of [[Indo-China]], where he carried out important public
 works. In 1902 he returned to France and was elected by Laon to the
-chamber as a Radical. He refused, however, to support the Combes
+chamber as a Radical. He refused, however, to support the [[Combes]]
 ministry, and formed a Radical dissident group, which grew in strength
 and eventually caused the fall of the ministry. Doumer became a
 prominent personage in Paris and was elected president of the chamber in

@@ -9,11 +9,11 @@ id: 42-2025
 
 # Bernays
 
-BERNAYS, JAKOB (1824-1881), German philologist and philosophical writer,
-was born at Hamburg of Jewish parents on the 11th of September 1824. His
-father, Isaac Bernays (1792-1849), a man of wide culture, was the first
+BERNAYS, [[Jakob|JAKOB]] (1824-1881), German philologist and philosophical writer,
+was born at [[Hamburg]] of Jewish parents on the 11th of September 1824. His
+father, [[Isaac]] Bernays (1792-1849), a man of wide culture, was the first
 orthodox German rabbi to preach in the vernacular. Jakob studied from
-1844 to 1848 at the university of Bonn, the philological school of
+1844 to 1848 at the university of [[Bonn]], the philological school of
 which, under Welcker and Ritschl (whose favourite pupil Bernays became),
 was the best in Germany. In 1853 he accepted the chair of classical
 philology at the newly founded Jewish theological college (the Frankel
@@ -27,11 +27,11 @@ Chronik des Sulpicius Severus_ (1861); _Die Dialoge des Aristoteles im
 Verhaltniss zu seinen ubrigen Werken_ (1863); _Theophrastos' Schrift
 uber Frommigkeit_ (1866); _Die Heraklitischen Briefe_ (1869); _Lucian
 und die Cyniker_ (1879); _Zwei Abhandlungen uber die Aristolelische
-Theorie des Dramas_ (1880). The last of these was a republication of his
+Theorie des [[Drama|Dramas]]_ (1880). The last of these was a republication of his
 _Grundzuge der verlorenen Abhandlungen des Aristoteles uber die Wirkung
 der Tragodie_ (1857), which aroused considerable controversy.
 
-  See notices in _Biographisches Jahrbuch fur Alterthumskunde_ (1881),
+  See notices in _Biographisches Jahrbuch [[Fur|fur]] Alterthumskunde_ (1881),
   and _Allgemeine deutsche Biographie_, xlvi. (1902); art. in _Jewish
   Encyclopaedia_; also Sandys, _Hist. of Class. Schol._ iii. 176 (1908).
 

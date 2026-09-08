@@ -11,31 +11,31 @@ ARAKCHEEV, ALEKSYEI ANDREEVICH, COUNT (1769-1834), Russian soldier and
 statesman, was descended from an ancient family of Great Novgorod. From
 his mother, Elizabeth Vitlitsaya, he inherited most of his
 characteristics, an insatiable love of work, an almost pedantic love of
-order and the most rigorous sense of duty. In 1788 he entered the corps
-of noble cadets in the artillery and engineering department, where his
+order and the most rigorous sense of duty. In 1788 he entered the [[Corps|corps]]
+of noble [[Cadet|cadets]] in the artillery and [[Engineering|engineering]] department, where his
 ability, especially in mathematics, soon attracted attention. In July
 1791 he was made an adjutant on the staff of Count N.I. Saltuikov, who
 (September 1792) recommended him to the cesarevich Paul Petrovich as the
 artillery officer most capable of reorganizing the army corps maintained
-by the prince at Gatchina. Arakcheev speedily won the entire confidence
+by the prince at [[Gatchina]]. Arakcheev speedily won the entire confidence
 of Paul by his scrupulous zeal and undeniable technical ability. His
-inexorable discipline (magnified into cruelty by later legends) soon
+inexorable discipline (magnified into [[Cruelty|cruelty]] by later legends) soon
 made the Gatchina corps a model for the rest of the Russian army. On the
 accession of Paul to the throne Arakcheev was promptly summoned to St
 Petersburg, appointed military commandant in the capital, and
-major-general in the grenadier battalion of the Preobrazhenskoe Guard.
-On the 12th of December 1796, he received the ribbon of St Anne and a
+major-general in the grenadier [[Battalion|battalion]] of the Preobrazhenskoe Guard.
+On the 12th of December 1796, he received the ribbon of St [[Anne]] and a
 rich estate at Gruzina in the government of Novgorod, the only
 substantial gift ever accepted by him during the whole of his career. At
-the coronation (5th of April 1797) Paul created him a baron, and he was
+the [[Coronation|coronation]] (5th of April 1797) Paul created him a baron, and he was
 subsequently made quartermaster-general and colonel of the whole
 Preobrazhenskoe Guard. It was to Arakcheev that Paul entrusted the
 reorganization of the army, which during the latter days of Catherine
 had fallen into a state of disorder and demoralization. Arakcheev
 remorselessly applied the iron Gatchina discipline to the whole of the
-imperial forces, beginning with the Guards. He soon became generally
+imperial forces, beginning with the [[Guards]]. He soon became generally
 detested by the army, but pursued his course unflinchingly and
-introduced many indispensable hygienic reforms. "Clean barracks are
+introduced many indispensable hygienic reforms. "Clean [[Barracks|barracks]] are
 healthy barracks," was his motto. Nevertheless, the opposition of the
 officers proved too strong for him, and on the 18th of March 1798 he was
 dismissed from all his appointments. Arakcheev's first disgrace only
@@ -53,19 +53,19 @@ artillery. His wise and thorough reorganization of the whole department
 contributed essentially to the victories of the Russians during the
 Napoleonic wars. All critics agree, indeed, that the Arakcheev
 administration was the golden era of the Russian artillery. The activity
-of the inexhaustible inspector knew no bounds, and he neglected nothing
+of the inexhaustible inspector knew no [[Bounds|bounds]], and he neglected nothing
 which could possibly improve this arm. His principal reforms were the
 subdivision of the artillery divisions into separate independent units,
 the formation of artillery brigades, the establishment of a committee of
 instruction (1808), and the publishing of an _Artillery Journal_. At
-Austerlitz he had the satisfaction of witnessing the actual results of
-his artillery reforms. The commissariat scandals which came to light
+[[Austerlitz]] he had the satisfaction of witnessing the actual results of
+his artillery reforms. The [[Commissariat|commissariat]] scandals which came to light
 after the peace of Tilsit convinced the emperor that nothing short of
 the stern and incorruptible energy of Arakcheev could reach the sources
 of the evil, and in January 1808 he was appointed inspector-general and
 war minister. When, on the outbreak of the Swedish war of 1809, the
-emperor ordered the army to take advantage of an unusually severe frost
-and cross the ice of the Gulf of Finland, it was only the presence of
+emperor ordered the army to take advantage of an unusually severe [[Frost|frost]]
+and cross the [[Ice|ice]] of the Gulf of [[Finland]], it was only the presence of
 Arakcheev that compelled an unwilling general and a semi-mutinous army
 to begin a campaign which ended in the conquest of Finland. On the
 institution of the "Imperial Council" (1st of January 1810), Arakcheev
@@ -83,7 +83,7 @@ master. From this time Alexander's confidence in Arakcheev steadily
 increased, and the emperor imparted to him, first of all, his many
 projects of reform, especially his project of military colonies, the
 carrying out of the details of which was committed to Arakcheev (1824).
-The failure of the scheme was due not to any fault of the count, but to
+The failure of the scheme was due not to any [[Fault|fault]] of the count, but to
 the inefficiency and insubordination of the district officers. In
 Alexander's last years Arakcheev was not merely his chief counsellor,
 but his dearest friend, to whom he submitted all his projects for

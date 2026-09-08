@@ -6,7 +6,7 @@ person for the purpose of enabling him to decide a disputed question.
 Evidence in the widest sense includes all such facts, and reference may
 be made to the article LOGIC for the science or art of dealing with the
 proper way of drawing correct conclusions and the nature of proof. In a
-narrower sense, however, evidence includes in English law only such
+narrower sense, however, evidence includes in [[English Law|English law]] only such
 facts as are allowed to be so presented in the course of judicial
 proceedings. Thus we say that a fact is not evidence, meaning thereby
 that it is not admissible as evidence in accordance with the rules of
@@ -19,7 +19,7 @@ which, evidence may be produced and tested.
   History.
 
 The English law of evidence is of comparatively modern growth. It
-enshrines certain maxims, some derived from Roman law, some invented by
+enshrines certain [[Maxims|maxims]], some derived from Roman law, some invented by
 Coke, who, as J.B. Thayer says, "spawned Latin maxims freely." But for
 the most part it was built up by English judges in the course of the
 18th century, and consists of this judge-made law, as modified by
@@ -36,7 +36,7 @@ with oath-helpers, or by the oaths of witnesses. The court had no desire
 to hear or weigh conflicting testimony. To do so would have been to
 exercise critical faculties, which the court did not possess, and the
 exercise of which would have been foreign to the whole spirit of the
-age. The litigant upon whom the burden of furnishing proof was imposed
+age. The litigant upon whom the [[Burden|burden]] of furnishing proof was imposed
 had a certain task to perform. If he performed it, he won; if he failed,
 he lost. The number of oath-helpers varied in different cases, and was
 determined by the law or by the court. They were probably, at the
@@ -52,14 +52,14 @@ oath in a prescribed form.
 
 In the course of the 12th and 13th centuries the old formal accusatory
 procedure began to break down, and to be superseded by another form of
-procedure known as _inquisitio_, inquest, or _enquête_. Its decay was
-hastened by the decree of the fourth Lateran Council in 1215, which
+procedure known as _inquisitio_, [[Inquest|inquest]], or _enquête_. Its decay was
+hastened by the [[Decree|decree]] of the fourth Lateran Council in 1215, which
 forbade ecclesiastics to take part in ordeals. The Norman administrative
 system introduced into England by the Conquest was familiar with a
 method of ascertaining and determining facts by means of a verdict,
 return or finding made on oath by a body of men drawn from the locality.
 The system may be traced to Carolingian, and even earlier, sources.
-Henry II., by instituting the grand assize and the four petty assizes,
+Henry II., by instituting the grand [[Assize|assize]] and the four petty assizes,
 placed at the disposal of litigants in certain actions the opportunity
 of giving proof by the verdict of a sworn inquest of neighbours, proof
 "by the country." The system was gradually extended to other cases,
@@ -70,13 +70,13 @@ a finding by local popular opinion. Had the finding of such an inquest
 been treated as final and conclusive in criminal cases, English criminal
 procedure might, like the continental inquisition, the French _enquête_,
 have taken the path which, in the forcible language of Fortescue (_De
-laudibus_, &c.) "leads to hell" (_semita ipsa est ad gehennam_).
+laudibus_, &c.) "leads to [[Hell|hell]]" (_semita ipsa est ad gehennam_).
 Fortunately English criminal procedure took a different course. The
 spirit of the old accusatory procedure was applied to the new procedure
 by inquest. In serious cases the words of the jurors, the accusing
 jurors, were treated not as testimony, but as accusation, the new
 indictment was treated as corresponding to the old appeal, and the
-preliminary finding by the accusing jury had to be supplemented by the
+preliminary finding by the accusing [[Jury|jury]] had to be supplemented by the
 verdict of another jury. In course of time the second jury were required
 to base their findings not on their own knowledge, but on evidence
 submitted to them. Thus the modern system of inquiry by grand jury and
@@ -87,7 +87,7 @@ procedure on the continent of Europe. The tendency in the 12th and 13th
 centuries to abolish the old formal methods of procedure, and to give
 the new procedure the name of inquisition or inquest, was not peculiar
 to England. Elsewhere the old procedure was breaking down at the same
-time, and for similar reasons. It was the great pope Innocent III., the
+time, and for similar reasons. It was the great pope [[Innocent]] III., the
 pope of the fourth Lateran Council, who introduced the new
 inquisitorial procedure into the canon law. The procedure was applied to
 cases of heresy, and, as so applied, especially by the Dominicans,
@@ -112,7 +112,7 @@ and almost to estimate that weight in numerical terms. "Le parlement de
 Toulouse," said Voltaire, "a un usage très singulier dans les preuves
 par témoins. On admet ailleurs des demi-preuves, ... mais à Toulouse on
 admet des quarts et des huitièmes de preuves." Modern continental
-procedure, as embodied in the most recent codes, has removed the worst
+procedure, as embodied in the most recent [[Code|codes]], has removed the worst
 features of inquisitorial procedure, and has shaken itself free from the
 trammels imposed by the old theory and technical rules of proof. But in
 this, as in other branches of law, France seems to have paid the penalty
@@ -122,7 +122,7 @@ based on Colbert's Ordonnance of 1670, and though embodying some
 reforms, and since amended on certain points, still retains some of the
 features of the unreformed procedure which was condemned in the 18th
 century by Voltaire and the _philosophes_. Military procedure is in the
-rear of civil procedure, and the trial of Captain Dreyfus at Rennes in
+rear of civil procedure, and the trial of Captain [[Dreyfus]] at Rennes in
 1899 presented some interesting archaisms. Among these were the weight
 attached to the rank and position of witnesses as compared with the
 intrinsic character of their evidence, and the extraordinary importance
@@ -136,9 +136,9 @@ appear to have taken shape in the course of the 18th century. The first
 systematic treatise on the English law of evidence appears to have been
 written by Chief Baron Gilbert, who died in 1726, but whose _Law of
 Evidence_ was not published until 1761. In writing it he is said to have
-been much influenced by Locke.[1] It is highly praised by Blackstone as
+been much influenced by [[Locke]].[1] It is highly praised by [[Blackstone]] as
 "a work which it is impossible to abstract or abridge without losing
-some beauty and destroying the charm of the whole"; but Bentham, who
+some beauty and destroying the [[Charm|charm]] of the whole"; but [[Bentham]], who
 rarely agrees with Blackstone, speaks of it as running throughout "in
 the same strain of anility, garrulity, narrow-mindedness, absurdity,
 perpetual misrepresentation and indefatigable self-contradiction." In
@@ -149,7 +149,7 @@ at various times between the years 1802 and 1812. By this time he had
 lost the nervous and simple style of his youth, and required an editor
 to make him readable. His great interpreter, Dumont, condensed his views
 on evidence into the _Traité des preuves judiciaires_, which was
-published in 1823. The manuscript of the _Rationale_ was edited for
+published in 1823. The [[Manuscript|manuscript]] of the _Rationale_ was edited for
 English reading, and to a great extent rewritten, by J.S. Mill, and was
 published in five volumes in 1827. The book had a great effect both in
 England and on the continent. The English version, though crabbed and
@@ -204,12 +204,12 @@ Under the Matrimonial Causes Act 1857 the petitioner can be examined and
 cross-examined on oath at the hearing, but is not bound to answer any
 question tending to show that he or she has been guilty of adultery.
 Under the Matrimonial Causes Act 1859, on a wife's petition for
-dissolution of marriage on the ground of adultery coupled with cruelty
-or desertion, husband and wife are competent and compellable to give
+dissolution of marriage on the ground of adultery coupled with [[Cruelty|cruelty]]
+or [[Desertion|desertion]], [[Husband And Wife|husband and wife]] are competent and compellable to give
 evidence as to the cruelty or desertion. The Crown Suits &c. Act 1865
 declared that revenue proceedings were not to be treated as criminal
 proceedings for the purposes of the acts of 1851 and 1853. The Evidence
-Further Amendment Act 1869 declared that parties to actions for breach
+Further Amendment Act 1869 declared that parties to actions for [[Breach|breach]]
 of promise of marriage were competent to give evidence in the action,
 subject to a proviso that the plaintiff should not recover unless his or
 her testimony was corroborated by some other material evidence. It also
@@ -225,7 +225,7 @@ There are similar provisions applying to Scotland in the Conjugal Rights
 any indictment or other proceeding for the non-repair of any public
 highway or bridge, or for a nuisance to any public highway, river, or
 bridge, and of any other indictment or proceeding instituted for the
-purpose of trying or enforcing a civil right only, every defendant to
+purpose of trying or enforcing a civil right only, every [[Defendant|defendant]] to
 such indictment or proceeding, and the wife or husband of any such
 defendant shall be admissible witnesses and compellable to give
 evidence." From 1872 onwards numerous enactments were passed making
@@ -240,8 +240,8 @@ offences admissible in all cases was introduced by Mr Gladstone's
 government, and was passed by the standing committee of the House of
 Commons. During the next fourteen years bills for the same purpose were
 repeatedly introduced, either by the government of the day, or by Lord
-Bramwell as an independent member of the House of Lords. Finally the
-Criminal Evidence Act 1898, introduced by Lord Halsbury, has enacted in
+[[Bramwell]] as an independent member of the House of Lords. Finally the
+Criminal Evidence Act 1898, introduced by Lord [[Halsbury]], has enacted in
 general terms that "every person charged with an offence, and the wife
 or husband, as the case may be, of the person so charged, shall be a
 competent witness for the defence at every stage of the proceedings,
@@ -266,7 +266,7 @@ belief is referred to below under the head of "Witnesses."
   (1824), who were followed by Roscoe (_Nisi Prius_, 1827; Criminal
   Cases, 1835), Greenleaf (American, 1842), Taylor (based on Greenleaf,
   1848), and Best (1849). In 1876 Sir James FitzJames Stephen brought
-  out his _Digest of the Law of Evidence_, based upon the Indian
+  out his _[[Digest]] of the Law of Evidence_, based upon the Indian
   Evidence Act 1872, which he had prepared and passed as law member of
   the council of the governor-general of India. This Digest obtained a
   rapid and well-deserved success, and has materially influenced the
@@ -293,7 +293,7 @@ belief is referred to below under the head of "Witnesses."
   proved, is the unexpressed principle which forms the centre of and
   gives unity to all the express negative rules which form the great
   mass of the law." The result was the chapter on the relevancy of facts
-  in the Indian Evidence Act, and the definition of relevancy in s. 7 of
+  in the Indian Evidence Act, and the [[Definition|definition]] of relevancy in s. 7 of
   that act. This definition was based on the view that a distinction
   could be drawn between things which were and things which were not
   causally connected with each other, and that relevancy depended on
@@ -397,7 +397,7 @@ play to the accused, because he comes to the trial prepared to meet a
 specific charge, and ought not to be suddenly confronted by statements
 which he had no reason to expect would be made against him. They protect
 absent persons against statements affecting their character. And lastly
-they prevent the infinite waste of time which would ensue in the
+they prevent the [[Infinite|infinite]] waste of time which would ensue in the
 discussion of a question of fact if an inquiry were allowed to branch
 out into all the subjects with which that fact is more or less
 connected. The purely practical grounds on which the rules are based,
@@ -424,7 +424,7 @@ be admitted, he said:--
   fraught with great danger.... If such evidence were held admissible it
   would be difficult to say that the defendant might not in any case,
   where the question was whether or not there had been a sale of goods
-  on credit, call witnesses to prove that the plaintiff had dealt with
+  on [[Credit|credit]], call witnesses to prove that the plaintiff had dealt with
   other persons upon a certain credit; or, in an action for an assault,
   that the plaintiff might not give evidence of former assaults
   committed by the defendant upon other persons, or upon other persons
@@ -445,7 +445,7 @@ be admitted, he said:--
 
 There is no difference between the principles of evidence in civil and
 in criminal cases, although there are a few special rules, such as those
-relating to confessions and to dying declarations, which are only
+relating to confessions and to dying [[Declaration|declarations]], which are only
 applicable to criminal proceedings. But in civil proceedings the issues
 are narrowed by mutual admissions of the parties, more use is made of
 evidence taken out of court, such as affidavits, and, generally, the
@@ -502,7 +502,7 @@ which limit the range of matters to which evidence relates.
 necessary to touch on the distinction between law and facts. _Ad
 quaestionem facti non respondent judices; ad quaestionem juris non
 respondent juratores._ Thus Coke, attributing, after his wont, to
-Bracton a maxim which may have been invented by himself. The maxim
+[[Bracton]] a maxim which may have been invented by himself. The maxim
 became the subject of political controversy, and the two rival views are
 represented by Pulteney's lines--
 
@@ -523,7 +523,7 @@ the procedure employed. Juries, in giving a general verdict, often
 practically take the law into their own hands. The border-line between
 the two classes of questions is indicated by the "mixed questions of law
 and fact," to use a common phrase, which arise in such cases as those
-relating to "necessaries," "due diligence," "negligence,"
+relating to "necessaries," "due [[Diligence|diligence]]," "negligence,"
 "reasonableness," "reasonable and probable cause." In the treatment of
 these cases the line has been drawn differently at different times, and
 two conflicting tendencies are discernible. On the one hand, there is
@@ -534,7 +534,7 @@ these cases, and that the better course is to leave broadly to the jury,
 under the general guidance of the judge, the question what would be done
 by the "reasonable" or "prudent" man in particular cases. The latter
 tendency predominates in modern English law, and is reflected by the
-enactments in the recent acts codifying the law on bills of exchange and
+enactments in the recent acts codifying the law on bills of [[Exchange|exchange]] and
 sale of goods, that certain questions of reasonableness are to be
 treated as questions of fact. On the same ground rests the dislike to
 limit the right of a jury to give a general verdict in criminal cases.
@@ -542,9 +542,9 @@ Questions of custom begin by being questions of fact, but as the custom
 obtains general recognition it becomes law. Many of the rules of the
 English mercantile law were "found" as customs by Lord Mansfield's
 special juries. Generally, it must be remembered that the jury act in
-subordinate co-operation with the judge, and that the extent to which
+subordinate [[Co-Operation|co-operation]] with the judge, and that the extent to which
 the judge limits or encroaches on the province of the jury is apt to
-depend on the personal idiosyncrasy of the judge.
+depend on the personal [[Idiosyncrasy|idiosyncrasy]] of the judge.
 
 2. _Judicial Notice._--It may be doubted whether the subject of judicial
 notice belongs properly to the law of evidence, and whether it does not
@@ -585,7 +585,7 @@ substantive law under a disguise. To this class appear to belong
 "conclusive presumptions of law," such as the common-law presumption
 that a child under seven years of age cannot commit a felony. So again
 the presumption that every one knows the law is merely an awkward way of
-saying that ignorance of the law is not a legal excuse for breaking it.
+saying that [[Ignorance|ignorance]] of the law is not a legal excuse for breaking it.
 Of true legal presumptions, the majority may be dealt with most
 appropriately under different branches of the substantive law, such as
 the law of crime, of property, or of contract, and accordingly Stephen
@@ -606,7 +606,7 @@ presumptions are the presumption of regularity in proceedings, described
 generally as a presumption _omnia esse rite acta_, and including the
 presumption that the holder of a public office has been duly appointed,
 and has duly performed his official duties, the presumption of the
-legitimacy of a child born during the mother's marriage, or within the
+[[Legitimacy|legitimacy]] of a child born during the mother's marriage, or within the
 period of gestation after her husband's death, and the presumptions as
 to life and death. "A person shown not to have been heard of for seven
 years by those (if any) who, if he had been alive, would naturally have
@@ -650,7 +650,7 @@ proof regard must be had to the opportunities of knowledge possessed by
 the parties respectively, and to the express provisions of statutes
 directing where the burden of proof is to lie in particular cases. Thus
 many statutes expressly direct that the proof of lawful excuse or
-authority, or the absence of fraudulent intent, is to lie on the person
+authority, or the absence of fraudulent [[Intent|intent]], is to lie on the person
 charged with an offence. And the Summary Jurisdiction Act 1848 provides
 that if the information or complaint in summary proceedings negatives
 any exemption, exception, proviso, or condition in the statute on which
@@ -776,12 +776,12 @@ to his state of mind, that is to say, whether he did the act knowingly,
 intentionally, fraudulently, or the like, evidence may be given of the
 commission by him of similar acts on other occasions for the purpose of
 proving his state of mind on the occasion. This principle is most
-commonly applied in charges for uttering false documents or base coin,
-and not uncommonly in charges for false pretences, embezzlement or
+commonly applied in charges for uttering false documents or base [[Coin|coin]],
+and not uncommonly in charges for [[False Pretences|false pretences]], [[Embezzlement|embezzlement]] or
 murder. In proceedings for the receipt or possession of stolen property,
 the legislature has expressly authorized evidence to be given of the
 possession by the prisoner of other stolen property, or of his previous
-conviction of an offence involving fraud or dishonesty (Prevention of
+conviction of an offence involving [[Fraud|fraud]] or dishonesty (Prevention of
 Crimes Act 1871). Again, where there is a question whether a person
 committed an offence, evidence may be given of any fact supplying a
 motive or constituting preparation for the offence, of any subsequent
@@ -806,7 +806,7 @@ rule were often made by Chief Justice Holt about the beginning of the
 his book on evidence, which must have been written before 1726, says
 that "the first and most signal rule in relation to evidence is this,
 that a man must have the utmost evidence the nature of the fact is
-capable of." And in the great case of _Omichund_ v. _Barker_ (1744),
+capable of." And in the great case of _Omichund_ v. _[[Barker]]_ (1744),
 Lord Hardwicke went so far as to say, "The judges and sages of the law
 have laid down that there is but one general rule of evidence, the best
 that the nature of the case will admit" (1 Atkyns 49). It is no wonder
@@ -847,7 +847,7 @@ are of some value as evidence, and may indeed be the only available
 evidence. Thus, a statement has been excluded as hearsay, even though it
 can be proved that the author of the statement made it on oath, or that
 it was against his interest when he made it, or that he is prevented by
-insanity or other illness from giving evidence himself, or that he has
+[[Insanity|insanity]] or other illness from giving evidence himself, or that he has
 left the country and disappeared, or that he is dead.
 
   Owing to the inconveniences which would be caused by a strict
@@ -865,7 +865,7 @@ left the country and disappeared, or that he is dead.
   the accused person, and that the accused then had a full opportunity
   of cross-examining the deponent. The deposition must appear to be
   signed by the justice before whom it purports to have been taken.
-  Depositions taken before a coroner are admissible under the same
+  Depositions taken before a [[Coroner|coroner]] are admissible under the same
   principle. And the principle probably extends to cases where the
   deponent is insane, or kept away by the person accused. There are
   other statutory provisions for the admission of depositions, as in the
@@ -883,7 +883,7 @@ left the country and disappeared, or that he is dead.
   affidavit upon any motion, petition or summons, but the court or a
   judge may, on the application of either party, order the attendance
   for cross-examination of the person making the affidavit. (b) _Dying
-  declarations._--In a trial for murder or manslaughter a declaration by
+  declarations._--In a trial for murder or [[Manslaughter|manslaughter]] a declaration by
   the person killed as to the cause of his death, or as to any of the
   circumstances of the transaction which resulted in his death, is
   admissible as evidence. But this exception is very strictly construed.
@@ -901,7 +901,7 @@ left the country and disappeared, or that he is dead.
   relating to the existence of any public or general right or custom, or
   matter of public and general interest. Statements of this kind are
   constantly admitted in questions relating to right of way, or rights
-  of common, or manorial or other local customs. Maps, copies of court
+  of common, or manorial or other local customs. [[Map|Maps]], copies of court
   rolls, leases and other deeds, and verdicts, judgments, and orders of
   court fall within the exception in cases of this kind. (e) _Statements
   in course of duty or business._--A statement with respect to a
@@ -922,7 +922,7 @@ left the country and disappeared, or that he is dead.
   the alleged debtor had on a particular date acknowledged the loan was
   also admitted. (g) _Public documents._--Under this head may be placed
   recitals in public acts of parliament, notices in the _London_,
-  _Edinburgh_, or _Dublin Gazette_ (which are made evidence by statute
+  _Edinburgh_, or _Dublin [[Gazette]]_ (which are made evidence by statute
   in a large number of cases), and entries made in the performance of
   duty in official registers or records, such as registers of births,
   deaths or marriages, registers of companies, records in judicial
@@ -969,7 +969,7 @@ left the country and disappeared, or that he is dead.
   it was made. A confession cannot be admitted as evidence unless proved
   to be voluntary. A confession is not treated as being voluntary if it
   appears to the court to have been caused by any inducement, threat or
-  promise which proceeded from a magistrate or other person in authority
+  promise which proceeded from a [[Magistrate|magistrate]] or other person in authority
   concerned in the charge, and which, in the opinion of the court, gave
   the accused person reasonable ground for supposing that by making a
   confession he would gain some advantage or avoid some evil in
@@ -979,10 +979,10 @@ left the country and disappeared, or that he is dead.
   knowledge indirectly. But a confession is not involuntary merely
   because it appears to have been caused by the exhortations of a person
   in authority to make it as a matter of religious duty, or by an
-  inducement collateral to the proceedings, or by an inducement held out
-  by a person having nothing to do with the apprehension, prosecution or
+  inducement [[Collateral|collateral]] to the proceedings, or by an inducement held out
+  by a person having nothing to do with the [[Apprehension|apprehension]], prosecution or
   examination of the prisoner. Thus, a confession made to a gaol
-  chaplain in consequence of religious exhortation has been admitted as
+  [[Chaplain|chaplain]] in consequence of religious exhortation has been admitted as
   evidence. So also has a confession made by a prisoner to a gaoler in
   consequence of a promise by the gaoler, that if the prisoner confessed
   he should be allowed to see his wife. To make a confession
@@ -997,7 +997,7 @@ left the country and disappeared, or that he is dead.
   given of facts discovered in consequence of the confession, and of so
   much of the confession as distinctly relates to those facts. Thus, A.
   under circumstances which make the confession involuntary, tells a
-  policeman that he, A., had thrown a lantern into the pond. Evidence
+  policeman that he, A., had thrown a [[Lantern|lantern]] into the pond. Evidence
   may be given that the lantern was found in the pond, and that A. said
   he had thrown it there. It is of course improper to try to extort a
   confession by fraud or under the promise of secrecy. But if a
@@ -1017,7 +1017,7 @@ left the country and disappeared, or that he is dead.
   have refused to answer the questions put to him. But if, after
   refusing to answer such questions, the witness is improperly compelled
   to answer, his answers are not a voluntary confession. The grave
-  jealousy and suspicion with which the English law regards confessions
+  [[Jealousy|jealousy]] and suspicion with which the English law regards confessions
   offer a marked contrast to the importance attached to this form of
   evidence in other systems of procedure, such as the inquisitorial
   system which long prevailed, and still to some extent prevails, on the
@@ -1074,7 +1074,7 @@ possible to draw a distinction between a statement of facts observed and
 an expression of opinion as to the inference to be drawn from these
 facts, and the rule telling witnesses to state facts and not express
 opinions is of great value in keeping their statements out of the region
-of argument and conjecture. The evidence of "experts," that is to say,
+of argument and conjecture. The evidence of "[[Expert|experts]]," that is to say,
 of persons having a special knowledge of some particular subject, is
 generally described as constituting the chief exception to the rule. But
 perhaps it would be more accurate to say that experts are allowed a much
@@ -1266,7 +1266,7 @@ act of 1898 a person charged jointly with another is a competent
 witness, but only for the defence, and not for the prosecution. If,
 therefore, one of the persons charged applies to give evidence his
 cross-examination must not be conducted with a view to establish the
-guilt of the other. Consequently, if it is thought desirable to use
+[[Guilt|guilt]] of the other. Consequently, if it is thought desirable to use
 against one prisoner the evidence of another who is being tried with
 him, the latter should be released, or a separate verdict of not guilty
 taken against him. A prisoner so giving evidence is popularly said to
@@ -1277,7 +1277,7 @@ accomplice is, however, always received with great jealousy and caution.
 A conviction on the unsupported testimony of an accomplice may, in some
 cases, be strictly legal, but the practice is to require it to be
 confirmed by unimpeachable testimony in some material part, and more
-especially as to his identification of the person or persons against
+especially as to his [[Identification|identification]] of the person or persons against
 whom his evidence may be received. The wife of a person charged is now a
 competent witness, but, except in certain special cases, she can only
 give evidence for the defence, and can only give evidence if her husband
@@ -1321,7 +1321,7 @@ No one, except a person charged with an offence when giving evidence on
 his own application, and as to the offence wherewith he is charged, is
 bound to answer a question if the answer would, in the opinion of the
 court, have a tendency to expose the witness, or the wife or husband of
-the witness, to any criminal charge, penalty, or forfeiture, which the
+the witness, to any criminal charge, penalty, or [[Forfeiture|forfeiture]], which the
 court regards as reasonably likely to be preferred or sued for.
 Accordingly, an accomplice cannot be examined without his consent, but
 if an accomplice who has come forward to give evidence on a promise of
@@ -1355,7 +1355,7 @@ He may not be asked questions tending to criminate his wife.
 The privilege as to criminating answers does not cover answers merely
 tending to establish a civil liability. No one is excused from answering
 a question or producing a document only because the answer or document
-may establish or tend to establish that he owes a debt, or is otherwise
+may establish or tend to establish that he owes a [[Debt|debt]], or is otherwise
 liable to any civil proceeding. It is a privilege for the protection of
 the witness, and therefore may be waived by him. But there are other
 privileges which cannot be so waived. Thus, on grounds of public policy,
@@ -1427,7 +1427,7 @@ for that side. In some cases the party who began is allowed to adduce
 further evidence in reply to his opponent's evidence. The examination is
 conducted, not by the court, but by or on behalf of the contending
 parties. It will be seen that the principle underlying this procedure is
-that of the duel, or conflict between two contending parties, each
+that of the [[Duel|duel]], or conflict between two contending parties, each
 relying on and using his own evidence, and trying to break down the
 evidence of his opponent. It differs from the principle of the
 "inquisition" procedure, in which the court takes a more active part,
@@ -1519,7 +1519,7 @@ professional treatises.
   Stephen, _Digest of the Law of Evidence_ (8th ed., 1907); Wills,
   _Theory and Practice of the Law of Evidence_ (1907). For the history
   of the law of criminal evidence in France, see Esmein, _Hist. de la
-  procédure criminelle en France_. For Germany, see Holtzendorff,
+  procédure criminelle en France_. For Germany, see [[Holtzendorff]],
   _Encyclopädie der Rechtswissenschaft_ (passages indexed under head
   "Beweis"); Holtzendorff, _Rechtslexikon_ ("Beweis").     (C. P. I.)
 
@@ -1539,7 +1539,7 @@ FOOTNOTE:
 
 
 
-EVIL EYE. The terror of the arts of "fascination," i.e. that certain
+EVIL EYE. The terror of the arts of "[[Fascination|fascination]]," i.e. that certain
 persons can bewitch, injure and even kill with a glance, has been and is
 still very widely spread. The power was not thought to be always
 maliciously cultivated. It was as often supposed to be involuntary (cf.
@@ -1549,7 +1549,7 @@ the means of injuring his children (Woyciki, _Polish Folklore_, trans.
 by Lewenstein, p. 25). Few of the old classic writers fail to refer to
 the dread power. In Rome the "evil eye" was so well recognized that
 Pliny states that special laws were enacted against injury to crops by
-incantation, excantation or fascination. The power was styled [Greek:
+[[Incantation|incantation]], excantation or fascination. The power was styled [Greek:
 baskania] by the Greeks and _fascinatio_ by the Latins. Children and
 young animals of all kinds were thought to be specially susceptible.
 Charms were worn against the evil eye both by man and beast, and in
@@ -1558,19 +1558,19 @@ allusion to the "ornaments" on the necks of camels. In classic times the
 wearing of amulets was universal. They were of three classes: (1) those
 the intention of which was to attract on to themselves, as the
 lightning-rod the lightning, the malignant glance; (2) charms hidden in
-the bosom of the dress; (3) written words from sacred writings. Of these
+the bosom of the [[Dress|dress]]; (3) written words from sacred writings. Of these
 three types the first was most numerous. They were oftenest of a
-grotesque and generally grossly obscene nature. They were also made in
+[[Grotesque|grotesque]] and generally grossly obscene nature. They were also made in
 the form of frogs, beetles and so on. But the ancients did not wholly
 rely on amulets. Spitting was among the Greeks and Romans a most common
 antidote to the poison of the evil eye. According to Theocritus it is
-necessary to spit three times into the breast of the person who fears
+necessary to spit three times into the [[Breast|breast]] of the person who fears
 fascination. Gestures, too, often intentionally obscene, were regarded
 as prophylactics on meeting the dreaded individual. The evil eye was
 believed to have its impulse in envy, and thus it came to be regarded
 as unlucky to have any of your possessions praised. Among the Romans,
 therefore, it was customary when praising anything to add _Praefiscini
-dixerim_ (Fain Evil! I should say). This custom survives in modern
+dixerim_ ([[Fain]] Evil! I should say). This custom survives in modern
 Italy, where in like circumstances is said _Si mal occhio non ci fosse_
 (May the evil eye not strike it). The object of these conventional
 phrases was to prove that the speaker was sincere and had no evil
@@ -1600,7 +1600,7 @@ was universal in the Scottish Highlands as late as the 18th century and
 still lingers. Thus if a stranger looks admiringly on a cow the peasants
 still think she will waste away, and they offer the visitor some of her
 milk to drink in the belief that in this manner the spell is broken. The
-modern Turks and Arabs also think that their horses and camels are
+modern Turks and [[Arabs]] also think that their horses and camels are
 subject to the evil eye. But the people of Italy, especially the
 Neapolitans, are the best modern instances of implicit believers. The
 _jettatore_, as the owner of the evil eye is called, is so feared that
@@ -1623,7 +1623,7 @@ among savage races.
 
   For a full discussion see _Evil Eye_ by F.T. Elworthy (London, 1895);
   also W.W. Story, _Castle St Angelo and the Evil Eye_ (1877); E.N.
-  Rolfe and H. Ingleby, _Naples in 1888_ (1888); Johannes Christian
+  Rolfe and H. [[Ingleby]], _Naples in 1888_ (1888); Johannes Christian
   Frommann, _Tractatus de fascinatione novus et singularis_, &c., &c.
   (Nuremburg, 1675); R.C. Maclagan, _Evil Eye in the Western Highlands_
   (1902).
@@ -1639,10 +1639,10 @@ process." The following exposition of the historical development of the
 doctrine is taken from Sully's article, and for the most part is in his
 own words.
 
-In the modern doctrine of evolution the cosmic system appears as a
+In the modern doctrine of evolution the [[Cosmic|cosmic]] system appears as a
 natural product of elementary matter and its laws. The various grades of
 life on our planet are the natural consequences of certain physical
-processes involved in the gradual transformations of the earth.
+processes involved in the [[Gradual|gradual]] transformations of the earth.
 Conscious life is viewed as conditioned by physical (organic and more
 especially nervous) processes, and as evolving itself in close
 correlation with organic evolution. Finally, human development, as
@@ -1695,9 +1695,9 @@ _Mythological Interpretation._--The problem of the origin of the world
 was the first to engage man's speculative activity. Nor was this line of
 inquiry pursued simply as a step in the more practical problem of man's
 final destiny. The order of ideas observable in children suggests the
-reflection that man began to discuss the "whence" of existence before
+reflection that man began to [[Discus|discuss]] the "whence" of existence before
 the "whither." At first, as in the case of the child, the problem of the
-genesis of things was conceived anthropomorphically: the question "How
+[[Genesis|genesis]] of things was conceived anthropomorphically: the question "How
 did the world arise?" first shaped itself to the human mind under the
 form "Who made the world?" As long as the problem was conceived in this
 simple manner there was, of course, no room for the idea of a necessary
@@ -1714,7 +1714,7 @@ as their pattern the process of organic reproduction and development,
 and this, not only because these objects were regarded as personalities,
 but also because this particular mode of becoming would most impress
 these early observers. This same way of looking at the origin of the
-material world is illustrated in the Egyptian notion of a cosmic egg out
+material world is illustrated in the Egyptian notion of a cosmic [[Egg|egg]] out
 of which issues the god (Phta) who creates the world.
 
 _Indian Philosophy._--Passing from mythology to speculation properly so
@@ -1757,9 +1757,9 @@ as eternal, and by looking on all generation as alternating with
 destruction, each step of the process being of course simply a
 transformation of the indestructible substance. Once more, the notion
 that this indeterminate body contains potentially in itself the
-fundamental contraries--hot, cold, &c.--by the excretion or evolution of
+fundamental contraries--hot, cold, &c.--by the [[Excretion|excretion]] or evolution of
 which definite substances were generated, is clearly a forecasting of
-that antithesis of potentiality and actuality which from Aristotle
+that antithesis of potentiality and actuality which from [[Aristotle]]
 downwards has been made the basis of so many theories of development. In
 conclusion, it is noteworthy that though resorting to utterly fanciful
 hypotheses respecting the order of the development of the world,
@@ -1768,7 +1768,7 @@ bodies as arising out of an aggregation of diffused matter, and in
 assigning to organic life an origin in the inorganic materials of the
 primitive earth (pristine mud). The doctrine of Anaximenes, who unites
 the conceptions of a determinate and indeterminate original substance
-adopted by Thales and Anaximander in the hypothesis of a primordial and
+adopted by Thales and Anaximander in the [[Hypothesis|hypothesis]] of a primordial and
 all-generating air, is a clear advance on these theories, inasmuch as it
 introduces the scientific idea of condensation and rarefaction as the
 great generating or transforming agencies. For the rest, his theory is
@@ -1777,7 +1777,7 @@ substance. The primordial air is conceived as animated. Anaximenes seems
 to have inclined to a view of cosmic evolution as throughout involving
 a quasi-spiritual factor. This idea of the air as the original principle
 and source of life and intelligence is much more clearly expressed by a
-later writer, Diogenes of Apollonia. Diogenes made this conception of a
+later writer, Diogenes of [[Apollonia]]. Diogenes made this conception of a
 vital and intelligent air the ground of a teleological view of climatic
 and atmospheric phenomena. It is noteworthy that he sought to establish
 the identity of organic and inorganic matter by help of the facts of
@@ -1785,14 +1785,14 @@ vegetal and animal nutrition. Diogenes distinctly taught that the world
 is of finite duration, and will be renewed out of the primitive
 substance.
 
-Heraclitus again deserves a prominent place in a history of the idea of
+[[Heraclitus]] again deserves a prominent place in a history of the idea of
 evolution. Heraclitus conceives of the incessant process of flux in
 which all things are involved as consisting of two sides or
 moments--generation and decay--which are regarded as a confluence of
 opposite streams. In thus making transition or change, viewed as the
 identity of existence and non-existence, the leading idea of his system,
 Heraclitus anticipated in some measure Hegel's peculiar doctrine of
-evolution as a dialectic process.[1] At the same time we may find
+evolution as a [[Dialectic|dialectic]] process.[1] At the same time we may find
 expressed in figurative language the germs of thoughts which enter into
 still newer doctrines of evolution. For example, the notion of conflict
 ([Greek: polemos]) as the father of all things and of harmony as arising
@@ -1801,7 +1801,7 @@ things to maintain themselves in permanence against the universal
 process of destruction and renovation, cannot but remind one of certain
 fundamental ideas in Darwin's theory of evolution.
 
-_Empedocles._--Empedocles took an important step in the direction of
+_[[Empedocles]]._--Empedocles took an important step in the direction of
 modern conceptions of physical evolution by teaching that all things
 arise, not by transformations of some primitive form of matter, but by
 various combinations of a number of permanent elements. Further, by
@@ -1815,7 +1815,7 @@ It may be observed, too, that the hypothesis of a primitive compact mass
 points of similarity to, and contrast with, that notion of a primitive
 nebulous matter with which the modern doctrine of cosmic evolution
 usually sets out. Empedocles tries to explain the genesis of organic
-beings, and, according to Lange, anticipates the idea of Darwin that
+beings, and, according to [[Lange]], anticipates the idea of [[Darwin]] that
 adaptations abound, because it is their nature to perpetuate themselves.
 He further recognizes a progress in the production of vegetable and
 animal forms, though this part of his theory is essentially crude and
@@ -1828,12 +1828,12 @@ the idea that plants and even inorganic substances are precipient, and
 so to an indistinct recognition of organic life as a scale of
 intelligence.
 
-_Atomists._--In the theory of Atomism taught by Leucippus and Democritus
+_Atomists._--In the theory of Atomism taught by [[Leucippus]] and Democritus
 we have the basis of the modern mechanical conceptions of cosmic
 evolution. Here the endless harmonious diversity of our cosmos, as well
 as of other worlds supposed to coexist with our own, is said to arise
 through the various combination of indivisible material elements
-differing in figure and magnitude only. The force which brings the atoms
+differing in figure and magnitude only. The force which brings the [[Atom|atoms]]
 together in the forms of objects is inherent in the elements, and all
 their motions are necessary. The origin of things, which is also their
 substance, is thus laid in the simplest and most homogeneous elements or
@@ -1917,7 +1917,7 @@ out with the idea of an original (vertical) motion of the atoms, which
 somehow or other results in movements towards and from one another. Our
 world is but one of an infinite number of others, and all the harmonies
 and adaptations of the universe are regarded as a special case of the
-infinite possibilities of mechanical events. Lucretius regards the
+infinite possibilities of mechanical events. [[Lucretius]] regards the
 primitive atoms (first beginnings or first bodies) as seeds out of which
 individual things are developed. All living and sentient things are
 formed out of insentient atoms (e.g. worms spring out of dung). The
@@ -1929,11 +1929,11 @@ book of his poem, the progressive genesis of vegetal and animal forms
 out of the mother-earth. He vaguely anticipates the modern idea of the
 world as a survival of the fittest when he says that many races may have
 lived and died out, and that those which still exist have been protected
-either by craft, courage or speed. Lucretius touches on the development
+either by [[Craft|craft]], courage or speed. Lucretius touches on the development
 of man out of a primitive, hardy, beast-like condition. Pregnant hints
 are given respecting a natural development of language which has its
 germs in sounds of quadrupeds and birds, of religious ideas out of
-dreams and waking hallucinations, and of the art of music by help of the
+[[Dream|dreams]] and waking hallucinations, and of the art of music by help of the
 suggestion of natural sounds. Lucretius thus recognizes the whole range
 of existence to which the doctrine of evolution may be applied.
 
@@ -1995,7 +1995,7 @@ lower out of the higher. Among the philosophic Jews, the Spanish
 Avicebron, in his _Fons Vitae_, expounds a curious doctrine of
 emanation. Here the divine will is viewed as an efflux from the divine
 wisdom, as the intermediate link between God, the first substance, and
-all things, and as the fountain out of which all forms emanate. At the
+all things, and as the [[Fountain|fountain]] out of which all forms emanate. At the
 same time all forms, including the higher intelligible ones, are said to
 have their existence only in matter. Matter is the one universal
 substance, body and mind being merely specifications of this. Thus
@@ -2007,7 +2007,7 @@ _Later Scholastics._--Passing now to the later schoolmen, a bare mention
 must be made of Thomas Aquinas, who elaborately argues for the absolute
 creation of the world out of nothing, and of Albertus Magnus, who
 reasons against the Aristotelian idea of the past eternity of the world.
-More importance attaches to Duns Scotus, who brings prominently forward
+More importance attaches to [[Duns Scotus]], who brings prominently forward
 the idea of a progressive development in nature by means of a process of
 determination. The original substance of the world is the _materia
 primo-prima_, which is the immediate creation of the Deity. This serves
@@ -2023,7 +2023,7 @@ described as a bifurcation of two twigs, mental and bodily creation out
 of a common root. One might almost say that Duns Scotus recognizes the
 principle of a gradual physical evolution, only that he chooses to
 represent the mechanism by which the process is brought about by means
-of quaint scholastic fictions.
+of quaint scholastic [[Fictions|fictions]].
 
 _Revival of Learning._--The period of the revival of learning, which was
 also that of a renewed study of nature, is marked by a considerable
@@ -2043,7 +2043,7 @@ animals to plants and metals in the possession of special organs of
 sense is connected with the greater complexity and heterogeneity of
 their structure.
 
-_Giordano Bruno._--In the system of Giordano Bruno, who sought to
+_[[Giordano]] Bruno._--In the system of Giordano Bruno, who sought to
 construct a philosophy of nature on the basis of new scientific ideas,
 more particularly the doctrine of Copernicus, we find the outlines of a
 theory of cosmic evolution conceived as an essentially vital process.
@@ -2069,16 +2069,16 @@ principle _quicquid est in effectibus esse et in causis_, that the
 elements and the whole world have sensation, and thus he appears to
 derive the organic part of nature out of the so-called "inorganic."
 
-_Boehme._--Another writer of this transition period deserves a passing
-reference here, namely, Jacob Boehme the mystic, who by his conception
+_[[Boehme]]._--Another writer of this transition period deserves a passing
+reference here, namely, [[Jacob]] Boehme the mystic, who by his conception
 of a process of inner diremption as the essential character of all mind,
 and so of God, prepared the way for later German theories of the origin
 of the world as the self-differentiation and self-externalization of the
 absolute spirit.
 
-_Hobbes and Gassendi._--The influence of an advancing study of nature,
+_[[Hobbes]] and Gassendi._--The influence of an advancing study of nature,
 which was stimulated if not guided by Bacon's writings, is seen in the
-more careful doctrines of materialism worked out almost simultaneously
+more careful doctrines of [[Materialism|materialism]] worked out almost simultaneously
 by Hobbes and Gassendi. These theories, however, contain little that
 bears directly on the hypothesis of a natural evolution of things. In
 the view of Hobbes, the difficulty of the genesis of conscious minds is
@@ -2093,17 +2093,17 @@ forth by Hobbes, though directly opposed in most respects to modern
 ideas of social evolution, deserves mention here by reason of its
 enforcing that principle of struggle (_bellum omnium contra omnes_)
 which has played so conspicuous a part in the modern doctrine of
-evolution. Gassendi, with some deviations, follows Epicurus in his
+evolution. Gassendi, with some deviations, follows [[Epicurus]] in his
 theory of the formation of the world. The world consists of a finite
 number of atoms, which have in their own nature a self-moving force or
 principle. These atoms, which are the seeds of all things, are, however,
 not eternal but created by God. Gassendi distinctly argues against the
 existence of a world-soul or a principle of life in nature.
 
-_Descartes._--In the philosophy of Descartes we meet with a dualism of
+_Descartes._--In the philosophy of Descartes we meet with a [[Dualism|dualism]] of
 mind and matter which does not easily lend itself to the conception of
 evolution. His doctrine that consciousness is confined to man, the lower
-animals being unconscious machines (_automata_), excludes all idea of a
+animals being unconscious [[Machine|machines]] (_automata_), excludes all idea of a
 progressive development of mind. Yet Descartes, in his _Principia
 Philosophiae_, laid the foundation of the modern mechanical conception
 of nature and of physical evolution. In the third part of this work he
@@ -2180,7 +2180,7 @@ _Idea of Progress in History._--Before leaving the 17th century we must
 just refer to the writers who laid the foundations of the essentially
 modern conception of human history as a gradual upward progress.
 According to Flint,[10] there were four men who in this and the
-preceding century seized and made prominent this idea, namely, Bodin,
+preceding century seized and made prominent this idea, namely, [[Bodin]],
 Bacon, Descartes and Pascal. The former distinctly argues against the
 idea of a deterioration of man in the past. In this way we see that just
 as advancing natural science was preparing the way for a doctrine of
@@ -2192,7 +2192,7 @@ discussions which make up so large a part of the English speculation of
 the 18th century cannot detain us here. There is, however, one writer
 who sets forth so clearly the alternative suppositions respecting the
 origin of the world that he claims a brief notice. We refer to David
-Hume. In his _Dialogues concerning Natural Religion_ he puts forward
+Hume. In his _[[Dialogue|Dialogues]] concerning Natural Religion_ he puts forward
 tentatively, in the person of one of his interlocutors, the ancient
 hypothesis that since the world resembles an animal or vegetal organism
 rather than a machine, it might more easily be accounted for by a
@@ -2213,14 +2213,14 @@ _French Writers of the 18th Century._--Let us now pass to the French
 writers of the 18th century. Here we are first struck by the results of
 advancing physical speculation in their bearing on the conception of the
 world. Careful attempts, based on new scientific truths, are made to
-explain the genesis of the world as a natural process. Maupertuis, who,
+explain the genesis of the world as a natural process. [[Maupertuis]], who,
 together with Voltaire, introduced the new idea of the universe as based
 on Newton's discoveries, sought to account for the origin of organic
-things by the hypothesis of sentient atoms. Buffon the naturalist
+things by the hypothesis of sentient atoms. [[Buffon]] the naturalist
 speculated, not only on the structure and genesis of organic beings, but
 also on the course of formation of the earth and solar system, which he
 conceived after the analogy of the development of organic beings out of
-seed. Diderot, too, in his varied intellectual activity, found time to
+seed. [[Diderot]], too, in his varied intellectual activity, found time to
 speculate on the genesis of sensation and thought out of a combination
 of matter endowed with an elementary kind of sentience. De la Mettrie
 worked out a materialistic doctrine of the origin of things, according
@@ -2253,7 +2253,7 @@ world as wholly vital, and as a progressive unfolding of a spiritual
 formative principle, which was afterwards worked out by Schelling. It is
 to be added that Robinet adopted a thorough-going materialistic view of
 the dependence of mind on body, going even to the length of assigning
-special nerve-fibres to the moral sense. The system of Holbach seeks to
+special nerve-fibres to the moral sense. The system of [[Holbach]] seeks to
 provide a consistent materialistic view of the world and its processes.
 Mental operations are identified with physical movements, the three
 conditions of physical movement, inertia, attraction and repulsion,
@@ -2272,7 +2272,7 @@ occupied many minds both in and out of France during the 18th century,
 and more especially towards its close. The foundations of this theory of
 history as an upward progress of man out of a barbaric and animal
 condition were laid by Vico in his celebrated work _Principii di scienza
-nuova_. In France the doctrine was represented by Turgot and Condorcet.
+nuova_. In France the doctrine was represented by Turgot and [[Condorcet]].
 
 _German Writers of the 18th Century--Leibnitz._--In Leibnitz we find, if
 not a doctrine of evolution in the strict sense, a theory of the world
@@ -2292,7 +2292,7 @@ lowest "inanimate" objects, whose essential activity is confused
 representation, up to the highest organized being--man--with his clear
 intelligence.[11] Turning now to Leibnitz's conception of the world as a
 process, we see first that he supplies, in his notion of the underlying
-reality as force which is represented as spiritual (_quelque chose
+reality as force which is represented as spiritual (_quelque [[Chose|chose]]
 d'analogique au sentiment et à l'appétit_), both a mechanical and a
 teleological explanation of its order. More than this, Leibnitz supposes
 that the activity of the monads takes the form of a self-evolution. It
@@ -2322,7 +2322,7 @@ things consist of sentient elements, and that consciousness arises
 through a combination of these, was a natural transformation of
 Leibnitz's theory.[12]
 
-_Lessing._--Of Leibnitz's immediate followers we may mention Lessing,
+_[[Lessing]]._--Of Leibnitz's immediate followers we may mention Lessing,
 who in his _Education of the Human Race_ brought out the truth of the
 process of gradual development underlying human history, even though he
 expressed this in a form inconsistent with the idea of a spontaneous
@@ -2341,19 +2341,19 @@ to climatic variations, &c. Man's mental faculties are viewed as related
 to his organization, and as developed under the pressure of the
 necessities of life.[13]
 
-_Kant._--Kant's relation to the doctrine of evolution is a many-sided
-one. In the first place, his peculiar system of subjective idealism,
+_[[Kant]]._--Kant's relation to the doctrine of evolution is a many-sided
+one. In the first place, his peculiar system of subjective [[Idealism|idealism]],
 involving the idea that time is but a mental form to which there
 corresponds nothing in the sphere of noümenal reality, serves to give a
 peculiar philosophical interpretation to every doctrine of cosmic
 evolution. Kant, like Leibnitz, seeks to reconcile the mechanical and
 teleological views of nature, only he assigns to these different
 spheres. The order of the inorganic world is explained by properly
-physical causes. In his _Naturgeschichte des Himmels_, in which he
+physical causes. In his _Naturgeschichte des [[Himmel|Himmels]]_, in which he
 anticipated the nebular theory afterwards more fully developed by
 Laplace, Kant sought to explain the genesis of the cosmos as a product
 of physical forces and laws. The worlds, or systems of worlds, which
-fill infinite space are continually being formed and destroyed. Chaos
+fill infinite space are continually being formed and destroyed. [[Chaos]]
 passes by a process of evolution into a cosmos, and this again into
 chaos. So far as the evolution of the solar system is concerned, Kant
 held these mechanical causes as adequate. For the world as a whole,
@@ -2413,7 +2413,7 @@ organization, and the inorganic world shows the same formative activity
 in various degrees or potences. Schelling conceives of the gradual
 self-evolution of nature in a succession of higher and higher forms as
 brought about by a limitation of her infinite productivity, showing
-itself in a series of points of arrest. The detailed exhibition of the
+itself in a series of points of [[Arrest|arrest]]. The detailed exhibition of the
 organizing activity of nature in the several processes of the organic
 and inorganic world rests on a number of fanciful and unscientific
 ideas. Schelling's theory is a bold attempt to revitalize nature in the
@@ -2534,13 +2534,13 @@ that the law of growing individuality is "the fundamental thought which
 goes through all forms and degrees of animal development and all single
 relations. It is the same thought which collected in the cosmic space
 the divided masses into spheres, and combined these to solar systems;
-the same which caused the weather-beaten dust on the surface of our
+the same which caused the weather-beaten [[Dust|dust]] on the surface of our
 metallic planet to spring forth into living forms." Von Baer thus
 prepared the way for Herbert Spencer's generalization of the law of
 organic evolution as the law of all evolution.
 
 _Comte._--As we arrive at the 19th century, though yet before the days
-of Darwin, biology is already beginning to affect the general aspect of
+of Darwin, [[Biology|biology]] is already beginning to affect the general aspect of
 thought. It might suffice to single out the influence of Auguste Comte,
 as the last great thinker who wrote before Darwinism began to permeate
 philosophic speculation. Though Comte did not actually contribute to a
@@ -2567,7 +2567,7 @@ In the earlier half of the 18th century the term "evolution" was
 introduced into biological writings in order to denote the mode in which
 some of the most eminent physiologists of that time conceived that the
 generation of living things took place; in opposition to the hypothesis
-advocated, in the preceding century, by W. Harvey in that remarkable
+advocated, in the preceding century, by W. [[Harvey]] in that remarkable
 work[17] which would give him a claim to rank among the founders of
 biological science, even had he not been the discoverer of the
 circulation of the blood.
@@ -2605,8 +2605,8 @@ the parts and structures which are characteristic of the adult.
   auctor et principium." (_Exercitatio_ 51.)
 
 Harvey proceeds to contrast this view with that of the "Medici," or
-followers of Hippocrates and Galen, who, "badly philosophizing,"
-imagined that the brain, the heart, and the liver were simultaneously
+followers of [[Hippocrates]] and Galen, who, "badly philosophizing,"
+imagined that the brain, the heart, and the [[Liver|liver]] were simultaneously
 first generated in the form of vesicles; and, at the same time, while
 expressing his agreement with Aristotle in the principle of epigenesis,
 he maintains that it is the blood which is the primal generative part,
@@ -2631,7 +2631,7 @@ Leibnitz,[20] who found in them a support to his hypothesis of monads,
 and by Nicholas Malebranche;[21] while, in the middle of the 18th
 century, not only speculative considerations, but a great number of new
 and interesting observations on the phenomena of generation, led the
-ingenious Charles Bonnet and A. von Haller, the first physiologist of
+ingenious Charles Bonnet and A. von [[Haller]], the first physiologist of
 the age, to adopt, advocate and extend them.
 
 Bonnet affirms that, before fecundation, the hen's egg contains an
@@ -2646,7 +2646,7 @@ and of the matters which have been associated with them by the aid of
 nutrition"; so that, if these matters could be extracted from the
 individual (_tout_), it would, so to speak, become concentrated in a
 point, and would thus be restored to its primitive condition of a
-_germ_; "just as, by extracting from a bone the calcareous substance
+_germ_; "just as, by extracting from a [[Bone|bone]] the calcareous substance
 which is the source of its hardness, it is reduced to its primitive
 state of gristle or membrane."[22]
 
@@ -2658,7 +2658,7 @@ such thing as generation, in the proper sense of the word exists in
 nature. The growth of an organic being is simply a process of
 enlargement, as a particle of dry gelatine may be swelled up by the
 intussusception of water; its death is a shrinkage, such as the swelled
-jelly might undergo on desiccation. Nothing really new is produced in
+jelly might undergo on [[Desiccation|desiccation]]. Nothing really new is produced in
 the living world, but the germs which develop have existed since the
 beginning of things; and nothing really dies, but, when what we call
 death takes place, the living thing shrinks back into its germ
@@ -2685,7 +2685,7 @@ Supported by the great authority of Haller, the doctrine of evolution,
 or development, prevailed throughout the whole of the 18th century, and
 Cuvier appears to have substantially adopted Bonnet's later views,
 though probably he would not have gone all lengths in the direction of
-"emboîtement." In a well-known note to Charles Leopold Laurillard's
+"emboîtement." In a well-known note to Charles [[Leopold]] Laurillard's
 _Éloge_, prefixed to the last edition of the _Ossemens fossiles_, the
 "radical de l'être" is much the same thing as Aristotle's "particula
 genitalis" and Harvey's "ovum."[25]
@@ -2702,14 +2702,14 @@ confidently.
   "J'ai ouvert une grande quantité d'oeufs à differens temps avant et
   après l'incubation, et je me suis convaincu par mes yeux que le poulet
   existe en entier dans le milieu de la cicatrule au moment qu'il sort
-  du corps de la poule."[27]
+  du [[Corps|corps]] de la poule."[27]
 
 The "moule intérieur" of Buffon is the aggregate of elementary parts
 which constitute the individual, and is thus the equivalent of Bonnet's
 germ,[28] as defined in the passage cited above. But Buffon further
 imagined that innumerable "molécules organiques" are dispersed
 throughout the world, and that alimentation consists in the
-appropriation by the parts of an organism of those molecules which are
+[[Appropriation|appropriation]] by the parts of an organism of those molecules which are
 analogous to them. Growth, therefore, was, on this hypothesis, partly a
 process of simple evolution, and partly of what has been termed
 syngenesis. Buffon's opinion is, in fact, a sort of combination of
@@ -2809,7 +2809,7 @@ The following passage is especially instructive:--
   des plantes, mais que les plantes même en ont couvert une partie; et
   qu'Adam et Ève n'ont pas été créés enfans mais en âge d'hommes
   parfaits. La religion chrétienne veut que nous le croyons ainsi, et la
-  raison naturelle nous persuade entièrement cette vérité; car si nous
+  raison naturelle nous persuade entièrement cette vérité; [[Car|car]] si nous
   considérons la toute puissance de Dieu, nous devons juger que tout ce
   qu'il a fait a eu dès le commencement toute la perfection qu'il devoit
   avoir. Mais néanmoins, comme on connoîtroit beaucoup mieux quelle a
@@ -2837,13 +2837,13 @@ from purely physical laws.
 
 Spinoza abounds in the same sense, and is as usual perfectly candid--
 
-  "Naturae leges et regulae, secundum quas omnia fiunt et ex unis formis
+  "Naturae [[Leg|leges]] et regulae, secundum quas omnia fiunt et ex unis formis
   in alias mutantur, sunt ubique et semper eadem."[31]
 
 Leibnitz's doctrine of continuity necessarily led him in the same
 direction; and, of the infinite multitude of monads with which he
-peopled the world, each is supposed to be the focus of an endless
-process of evolution and involution. In the _Protogaea_, xxvi., Leibnitz
+peopled the world, each is supposed to be the [[Focus|focus]] of an endless
+process of evolution and [[Involution|involution]]. In the _Protogaea_, xxvi., Leibnitz
 distinctly suggests the mutability of species--
 
   "Alii mirantur in saxis passim species videri quas vel in orbe
@@ -2853,7 +2853,7 @@ distinctly suggests the mutability of species--
   illis naturis discrepare dicunt, quas praebet mare. Sed quis
   absconditos ejus recessus aut subterraneas abyssos pervestigavit? quam
   multa nobis animalia antea ignota offert novus orbis? Et credibile est
-  per magnas illas conversiones etiam animalium species plurimum
+  per magnas illas [[Conversion|conversiones]] etiam animalium species plurimum
   immutatas."
 
 Thus in the end of the 17th century the seed was sown which has at
@@ -2874,7 +2874,7 @@ geological phenomena of the principles established inductively by the
 study of the present course of nature. Somewhat later, P.L.M. de
 Maupertuis[32] suggested a curious hypothesis as to the causes of
 variation, which he thinks may be sufficient to account for the origin
-of all animals from a single pair. Jean Baptiste René Robinet[33]
+of all animals from a single pair. Jean [[Baptiste]] René Robinet[33]
 followed out much the same line of thought as De Maillet, but less
 soberly; and Bonnet's speculations in the _Palingénésie_, which appeared
 in 1769, have already been mentioned. Buffon (1753-1778), at first a
@@ -2900,7 +2900,7 @@ independently and contemporaneously, to invent the same name of
 "biology" for the science of the phenomena of life; and thus, following
 Buffon, to have recognized the essential unity of these phenomena, and
 their contradistinction from those of inanimate nature. And it is hard
-to say whether Lamarck or Treviranus has the priority in propounding the
+to say whether [[Lamarck]] or Treviranus has the priority in propounding the
 main thesis of the doctrine of evolution; for though the first volume of
 Treviranus's _Biologie_ appeared only in 1802, he says, in the preface
 to his later work, the _Erscheinungen und Gesetze des organischen
@@ -2981,7 +2981,7 @@ the second to the eighth heads. For those which are grouped under the
 second to the seventh of these classes, respectively, have a clear
 significance on the hypothesis of evolution, while they are
 unintelligible if that hypothesis be denied. And those of the eighth
-group are not only unintelligible without the assumption of evolution,
+group are not only unintelligible without the [[Assumption|assumption]] of evolution,
 but can be proved never to be discordant with that hypothesis, while, in
 some cases, they are exactly such as the hypothesis requires. The
 demonstration of these assertions would require a volume, but the
@@ -2989,7 +2989,7 @@ general nature of the evidence on which they rest may be briefly
 indicated.
 
 2. The accurate investigation of the lowest forms of animal life,
-commenced by Leeuwenhoek and Swammerdam, and continued by the remarkable
+commenced by [[Leeuwenhoek]] and Swammerdam, and continued by the remarkable
 labours of Réaumur, Abraham Trembley, Bonnet, and a host of other
 observers in the latter part of the 17th and the first half of the 18th
 centuries, drew the attention of biologists to the gradation in the
@@ -3028,7 +3028,7 @@ principle by all subsequent research into the structure of animals and
 plants. But the effect of the adoption of these conclusions has been
 rather to substitute a new metaphor for that of Bonnet than to abolish
 the conception expressed by it. Instead of regarding living things as
-capable of arrangement in one series like the steps of a ladder, the
+capable of arrangement in one series like the steps of a [[Ladder|ladder]], the
 results of modern investigation compel us to dispose them as if they
 were the twigs and branches of a tree. The ends of the twigs represent
 individuals, the smallest groups of twigs species, larger groups genera,
@@ -3042,7 +3042,7 @@ members of all the others. The same may be said of the vegetable world.
 The apparently clear distinction between flowering and flowerless plants
 has been broken down by the series of gradations between the two
 exhibited by the _Lycopodiaceae_, _Rhizocarpeae_, and _Gymnospermeae_.
-The groups of _Fungi_, _Licheneae_ and _Algae_ have completely run into
+The groups of _[[Fungi]]_, _Licheneae_ and _Algae_ have completely run into
 one another, and, when the lowest forms of each are alone considered,
 even the animal and vegetable kingdoms cease to have a definite
 frontier.
@@ -3124,7 +3124,7 @@ form is not special but general, it is in entire accordance with modern
 embryology; although there is no branch of biology which has grown so
 largely, and improved its methods so much since Meckel's time, as this.
 In its original form, the doctrine of "arrest of development," as
-advocated by Geoffroy Saint-Hilaire and Serres, was no doubt an
+advocated by [[Geoffroy Saint-Hilaire]] and Serres, was no doubt an
 over-statement of the case. It is not true, for example, that a fish is
 a reptile arrested in its development, or that a reptile was ever a
 fish; but it is true that the reptile embryo, at one stage of its
@@ -3140,12 +3140,12 @@ upon the same plan. From the rough comparison of the skeleton of a bird
 with that of a man by Pierre Delon, in the 16th century (to go no
 further back), down to the theory of the limbs and the theory of the
 skull at the present day; or, from the first demonstration of the
-homologies of the parts of a flower by C.F. Wolff, to the present
+homologies of the parts of a [[Flower|flower]] by C.F. Wolff, to the present
 elaborate analysis of the floral organs, morphology exhibits a continual
 advance towards the demonstration of a fundamental unity among the
 seeming diversities of living structures. And this demonstration has
 been completed by the final establishment of the cell theory (see
-CYTOLOGY), which involves the admission of a primitive conformity, not
+[[Cytology|CYTOLOGY]]), which involves the admission of a primitive conformity, not
 only of all the elementary structures in animals and plants
 respectively, but of those in the one of these great divisions of living
 things with those in the other. No _a priori_ difficulty can be said to
@@ -3184,10 +3184,10 @@ modification, it is a cause the actual effects of which are wholly
 inadequate to account for any considerable modification in animals, and
 which can have no influence at all in the vegetable world; and probably
 nothing contributed so much to discredit evolution, in the early part of
-the 19th century, as the floods of easy ridicule which were poured upon
+the 19th century, as the [[Flood|floods]] of easy ridicule which were poured upon
 this part of Lamarck's speculation. The theory of natural selection, or
 survival of the fittest, was suggested by William Charles Wells in 1813,
-and further elaborated by Patrick Matthew in 1831. But the pregnant
+and further elaborated by Patrick [[Matthew]] in 1831. But the pregnant
 suggestions of these writers remained practically unnoticed and
 forgotten, until the theory was independently devised and promulgated by
 Charles Robert Darwin and Alfred Russell Wallace in 1858, and the effect
@@ -3226,11 +3226,11 @@ calculated to inspire distrust of the dogmas intruded upon science in
 the name of theology than those which relate to the distribution of
 animals and plants on the surface of the earth. Very skilful
 accommodation was needful, if the limitation of sloths to South America,
-and of the _Ornithorhynchus_ to Australia, was to be reconciled with
+and of the _Ornithorhynchus_ to [[Australia]], was to be reconciled with
 the literal interpretation of the history of the Deluge; and, with the
 establishment of the existence of distinct provinces of distribution,
 any serious belief in the peopling of the world by migration from Mount
-Ararat came to an end.
+[[Ararat]] came to an end.
 
 Under these circumstances, only one alternative was left for those who
 denied the occurrence of evolution; namely, the supposition that the
@@ -3253,7 +3253,7 @@ connexion between the two. It is possible to put into words the
 proposition, that all the animals and plants of each geological epoch
 were annihilated, and that a new set of very similar forms was created
 for the next epoch, but it may be doubted if any one who ever tried to
-form a distinct mental image of this process of spontaneous generation
+form a distinct mental [[Image|image]] of this process of spontaneous generation
 on the grandest scale ever really succeeded in realizing it.
 
 In later years the attention of the best palaeontologists has been
@@ -3281,8 +3281,8 @@ evidence for the actual occurrence of organic evolution. The evidence as
 set out by Darwin has been added to enormously; new knowledge has in
 many cases altered our conceptions of the mode of the actual process of
 evolution, and from time to time a varying stress has been laid on what
-are known as the purely Darwinian factors in the theory. The balance of
-these tendencies has been against the attachment of great importance to
+are known as the purely Darwinian factors in the theory. The [[Balance|balance]] of
+these tendencies has been against the [[Attachment|attachment]] of great importance to
 sexual selection, and in favour of attaching a great importance to
 natural selection; but the dominant feature in the recent history of the
 theory has been its universal acceptance and the recognition that this
@@ -3294,7 +3294,7 @@ general acceptance has come from the stimulus given by Darwin.
 A change has taken place in the use of the word evolution. Huxley,
 following historical custom, devoted one section of his article to the
 "Evolution of the Individual." The facts and theories respecting this
-are now discussed under such headings as EMBRYOLOGY; HEREDITY; VARIATION
+are now discussed under such headings as EMBRYOLOGY; [[Heredity|HEREDITY]]; VARIATION
 AND SELECTION; under these headings must be sought information on the
 important recent modifications with regard to the theory of the relation
 between the development of the individual and the development of the
@@ -3305,7 +3305,7 @@ the facts of ontogeny any direct evidence as to phylogeny. The general
 proposition as to a parallelism between individual and ancestral
 development is no doubt indisputable, but extended knowledge of the very
 different ontogenetic histories of closely allied forms has led us to a
-much fuller conception of the mode in which stages in embryonic and
+much [[Fuller|fuller]] conception of the mode in which stages in embryonic and
 larval history have been modified in relation to their surroundings, and
 to a consequent reluctance to attach detailed importance to the
 embryological argument for evolution.
@@ -3334,18 +3334,18 @@ and banishing from the more recent tables the numerous hypothetical
 intermediate forms so familiar in the older phylogenetic trees. The
 older method was to attempt the comparison between the highest member of
 a lower group and the lowest member of a higher group--to suppose, for
-example, that the gorilla and the chimpanzee, the highest members of the
-apes, were the existing representatives of the ancestors of man and to
+example, that the [[Gorilla|gorilla]] and the chimpanzee, the highest members of the
+[[Ape|apes]], were the existing representatives of the ancestors of man and to
 compare these forms with the lowest members of the human race. Such a
 comparison is necessarily illogical, as the existing apes are separated
 from the common ancestor by at least as large a number of generations as
 separate it from any of the forms of existing man. In the natural
-process of growth, the gap must necessarily be wider between the summits
+process of growth, the [[Gap|gap]] must necessarily be wider between the summits
 of the twigs than lower down, and, instead of imagining "missing links,"
 it is necessary to trace each separate branch as low down as possible,
 and to institute the comparisons between the lowest points that can be
 reached. The method is simply the logical result of the fact that every
-existing form of life stands at the summit of a long branch of the whole
+existing form of life stands at the summit of a [[Long Branch|long branch]] of the whole
 tree of life. A due consideration of it leads to the curious paradox
 that if any two animals be compared, the zoologically lower will be
 separated from the common ancestor by a larger number of generations,
@@ -3367,7 +3367,7 @@ fantastic phylogeny, on the other, an enormous reduction of the supposed
 gaps between groups.
 
 
-  Comparative anatomy.
+  [[Comparative Anatomy|Comparative anatomy]].
 
 There has been a renewed activity in the study of existing forms from
 the point of view of obtaining evidence as to the nature and origin of
@@ -3420,7 +3420,7 @@ anatomical changes that we could not expect to occur twice
 independently; that is to say, if it be a uniradial apocentricity.
 Multiradial apocentricities lie at the root of many of the phenomena
 that have been grouped under the designation _convergence_. Especially
-in the case of manifest adaptations, organs possessed by creatures far
+in the case of [[Manifest|manifest]] adaptations, organs possessed by creatures far
 apart genealogically may be moulded into conditions that are extremely
 alike. Sir E. Ray Lankester's term, _homoplasy_, has passed into
 currency as designating such cases where different genetic material has
@@ -3468,7 +3468,7 @@ evolution is none the less very great. In the first place, they lessen
 the number of separate facts to be explained; in the second, they limit
 the field within which explanation must be sought, since, for instance,
 if a particular mode of repetition of parts occur in mosses, in
-flowering-plants, in beetles and in elephants, the seeker of ultimate
+flowering-plants, in beetles and in [[Elephant|elephants]], the seeker of ultimate
 explanations may exclude from the field of his inquiry all the
 conditions individual to these different organic forms, and confine
 himself only to what is common to all of them; that is to say,
@@ -3485,9 +3485,9 @@ their generalizations against such a _vera causa_ as the preservation of
 favoured individuals and races. The thirty years which followed the
 publication of the _Origin of Species_ were characterized chiefly by
 anatomical and embryological work; since then there has been no
-diminution in anatomical and embryological enthusiasm, but many of the
+diminution in anatomical and embryological [[Enthusiasm|enthusiasm]], but many of the
 continually increasing body of investigators have turned again to
-bionomical work. Inasmuch as Lamarck attempted to frame a theory of
+bionomical work. Inasmuch as Lamarck attempted to [[Frame|frame]] a theory of
 evolution in which the principle of natural selection had no part, the
 interpretation placed on their work by many bionomical investigators
 recalls the theories of Lamarck, and the name _Neo-Lamarckism_ has been
@@ -3503,7 +3503,7 @@ designation.
   Biometrics.
 
 Statistical inquiry into the facts of life has long been employed, and
-in particular Francis Galton, within the Darwinian period, has advocated
+in particular Francis [[Galton]], within the Darwinian period, has advocated
 its employment and developed its methods. Within quite recent years,
 however, a special school has arisen with the main object of treating
 the processes of evolution quantitatively. Here it is right to speak of
@@ -3593,7 +3593,7 @@ disguise for ignorance.
 
 Almost every side of zoology has contributed to the theory of evolution,
 but of special importance are the facts and theories associated with the
-names of Gregor Mendel, A. Weismann and Hugo de Vries. These are
+names of Gregor Mendel, A. Weismann and [[Hugo]] de Vries. These are
 discussed under the headings HEREDITY; MENDELISM; and VARIATION AND
 SELECTION. It has been a feature of great promise in recent
 contributions to the theory of evolution, that such contributions have
@@ -3640,7 +3640,7 @@ FOOTNOTES:
 
   [3] See this well brought out in G.H. Lewes's _Aristotle_, p. 187.
 
-  [4] Grote calls attention to the contrast between Plato's and
+  [4] [[Grote]] calls attention to the contrast between Plato's and
     Aristotle's way of conceiving the gradations of mind (_Aristotle_,
     ii. 171).
 
@@ -3665,7 +3665,7 @@ FOOTNOTES:
   [10] _Philosophy of History_ (1893), p. 103, where an interesting
     sketch of the growth of the idea of progress is to be found.
 
-  [11] G.H. Lewes points out that Leibnitz is inconsistent in his
+  [11] G.H. [[Lewes]] points out that Leibnitz is inconsistent in his
     account of the intelligence of man in relation to that of lower
     animals, since when answering Locke he no longer regards these as
     differing in degree only.
@@ -3685,7 +3685,7 @@ FOOTNOTES:
     inhabit from the sun.
 
   [15] Kant calls the doctrine of the transmutation of species "a
-    hazardous fancy of the reason." Yet, as Strauss and others have
+    hazardous [[Fancy|fancy]] of the reason." Yet, as Strauss and others have
     shown, Kant's mind betrayed a decided leaning at times to a more
     mechanical conception of organic forms as related by descent.
 
@@ -3701,11 +3701,11 @@ FOOTNOTES:
   [19] _De generatione animalium_, lib. ii. cap. iv.
 
   [20] "Cependant, pour revenir aux formes ordinaires ou aux âmes
-    matérielles, cette durée qu'il leur faut attribuer, à la place de
+    [[Mat|mat]]érielles, cette durée qu'il leur faut attribuer, à la place de
     celle qu'on avoit attribuée aux atomes pourroit faire douter si elles
     ne vont pas de corps en corps; ce qui seroit la métempsychose, à peu
     près comme quelques philosophes ont cru la transmission du mouvement
-    et celle des espèces. Mais cette imagination est bien éloignée de la
+    et celle des espèces. Mais cette [[Imagination|imagination]] est bien éloignée de la
     nature des choses. Il n'y a point de tel passage; et c'est ici où les
     transformations de Messieurs Swammerdam, Malpighi, et Leewenhoek, qui
     sont des plus excellens observateurs de notre tems, sont venues à mon
@@ -3780,7 +3780,7 @@ FOOTNOTES:
   [28] See particularly Buffon, l.c. p. 41.
 
   [29] As Buffon has well said:--"L'idée de ramener l'explication de
-    tous les phénomènes à des principes mécaniques est assurément grande
+    tous les phénomènes à des principes mécaniques est [[Assur|assur]]ément grande
     et belle, ce pas est le plus hardi qu'on peut faire en philosophie,
     et c'est Descartes qui l'a fait."--l.c. p. 50.
 

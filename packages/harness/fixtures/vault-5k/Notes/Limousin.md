@@ -13,15 +13,15 @@ Pénicaud. He was certainly at the beginning of his career influenced by
 the German school--indeed, his earliest authenticated work, signed L. L.
 and dated 1532, is a series of eighteen plaques of the "Passion of the
 Lord," after Albrecht Dürer, but this influence was counter-balanced by
-that of the Italian masters of the school of Fontainebleau, Primaticcio,
-Rosso, Giulio Romano and Solario, from whom he acquired his taste for
-arabesque ornament and for mythological subjects. Nevertheless the
+that of the Italian masters of the school of [[Fontainebleau]], Primaticcio,
+Rosso, [[Giulio Romano]] and Solario, from whom he acquired his taste for
+[[Arabesque|arabesque]] ornament and for mythological subjects. Nevertheless the
 French tradition was sufficiently ingrained in him to save him from
 becoming an imitator and from losing his personal style. In 1530 he
 entered the service of Francis I. as painter and _varlet de chambre_, a
 position which he retained under Henry II. For both these monarchs he
 executed many portraits in enamel--among them quite a number of plaques
-depicting Diane de Poitiers in various characters,--plates, vases,
+depicting [[Diane De Poitiers|Diane de Poitiers]] in various characters,--plates, vases,
 ewers, and cups, besides decorative works for the royal palaces, for,
 though he is best known as an enameller distinguished for rich colour,
 and for graceful designs in grisaille on black or bright blue
@@ -33,13 +33,13 @@ He is best represented at the Louvre, which owns his two famous votive
 tablets for the Sainte Chapelle, each consisting of twenty-three
 plaques, signed L. L. and dated 1553; "La Chasse," depicting Henry II.
 on a white horse, Diane de Poitiers behind him on horseback; and many
-portraits, including the kings by whom he was employed, Marguerite de
-Valois, the duc de Guise, and the cardinal de Lorraine. Other
-representative examples are at the Cluny and Limoges museums. In
+portraits, including the kings by whom he was employed, [[Marguerite]] de
+Valois, the duc de Guise, and the cardinal de [[Lorraine]]. Other
+representative examples are at the [[Cluny]] and Limoges museums. In
 England some magnificent examples of his work are to be found at the
 Victoria and Albert Museum, the British Museum, and the Wallace
 Collection. In the collection of Signor Rocchi, in Rome, is an
-exceptionally interesting plaque representing Frances I. consulting a
+exceptionally interesting plaque representing [[Franc|Frances]] I. consulting a
 fortune-teller.
 
   See _Léonard Limousin: peintre de portraits_ (_L'Oeuvre des peintres

@@ -2,16 +2,16 @@
 
 KHOTAN (locally ILCHI), a town and oasis of East Turkestan, on the
 Khotan-darya, between the N. foot of the Kuen-lun and the edge of the
-Takla-makan desert, nearly 200 m. by caravan road S.E. from Yarkand.
-Pop., about 5000. The town consists of a labyrinth of narrow, winding,
+Takla-makan [[Desert|desert]], nearly 200 m. by [[Caravan|caravan]] road S.E. from Yarkand.
+Pop., about 5000. The town consists of a [[Labyrinth|labyrinth]] of narrow, winding,
 dirty streets, with poor, square, flat-roofed houses, half a dozen
 _madrasas_ (Mahommedan colleges), a score of mosques, and some _masars_
 (tombs of Mahommedan saints). Dotted about the town are open squares,
 with tanks or ponds overhung by trees. For centuries Khotan was famous
-for jade or nephrite, a semi-precious stone greatly esteemed by the
-Chinese for making small fancy boxes, bottles and cups, mouthpieces for
+for [[Jade|jade]] or nephrite, a semi-precious stone greatly esteemed by the
+Chinese for making small [[Fancy|fancy]] [[Box|boxes]], bottles and cups, mouthpieces for
 pipes, bracelets, &c. The stone is still exported to China. Other local
-products are carpets (silk and felt), silk goods, hides, grapes, rice
+products are [[Carpet|carpets]] (silk and felt), silk goods, hides, grapes, rice
 and other cereals, fruits, tobacco, opium and cotton. There is an active
 trade in these goods and in wool with India, West Turkestan and China.
 The oasis contains two small towns, Kara-kash and Yurun-kash, and over
@@ -30,7 +30,7 @@ rich in paintings and ornaments of the precious metals; but from the 5th
 century it seems to have declined. In the 8th century it was conquered,
 after a struggle of 25 years, by the Arab chieftain Kotaiba ibn Moslim,
 from West Turkestan, who imposed Islam upon the people. In 1220 Khotan
-was destroyed by the Mongols under Jenghiz Khan. Marco Polo, who passed
+was destroyed by the Mongols under Jenghiz [[Khan]]. Marco Polo, who passed
 through the town in 1274, says that "Everything is to be had there [at
 Cotan, i.e. Khotan] in plenty, including abundance of cotton, with
 flax, hemp, wheat, wine, and the like. The people have vineyards and

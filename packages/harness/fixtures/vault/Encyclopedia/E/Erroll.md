@@ -6,7 +6,7 @@ topic: inventors
 
 # Erroll
 
-ERROLL (or ERROL), FRANCIS HAY, 9TH EARL OF (d. 1631), Scottish
+ERROLL (or ERROL), FRANCIS [[Hay|HAY]], 9TH EARL OF (d. 1631), Scottish
 nobleman, was the son of Andrew, 8th earl, and of Lady Jean Hay,
 daughter of William, 6th earl. The date of his birth is unrecorded, but
 he succeeded to the earldom (cr. 1453) in 1585, was early converted to
@@ -21,10 +21,10 @@ James, who leniently refrained from exacting any penalty. In September
 of the same year he entered into a personal bond with Huntly for mutual
 assistance; and in 1590 displeased the king by marrying, in spite of his
 prohibition, Lady Elizabeth Douglas, daughter of the earl of Morton. He
-was imprisoned on suspicion of complicity in the attempt made by Gray
+was imprisoned on suspicion of complicity in the attempt made by [[Gray]]
 and Bothwell to surprise the king at Falkland in June 1592; and though
 he obtained his release, he was again proclaimed a rebel on account of
-the discovery of his signature to two of the "Spanish Blanks," unwritten
+the discovery of his signature to two of the "Spanish [[Blank|Blanks]]," unwritten
 sheets subscribed with the names of the chief conspirators in a plot for
 a Spanish invasion of Scotland, to be filled up later with the terms of
 the projected treaty. After a failure to apprehend him in March 1593,
@@ -36,20 +36,20 @@ Castle, his seat, razed to the ground. The rebel lords left Scotland in
 1595, and Erroll, on report of his further conspiracies abroad, was
 arrested by the states of Zealand, but was afterwards allowed to escape.
 He returned to Scotland secretly in 1596, and on the 20th of June 1597
-abjured Romanism and made his peace with the Kirk. He enjoyed the favour
+abjured Romanism and made his peace with the [[Kirk]]. He enjoyed the favour
 of the king, and in 1602 was appointed a commissioner to negotiate the
 union with England. His relations with the Kirk, however, were not so
-amicable. The reality of his conversion was disputed, and on the 21st of
+amicable. The reality of his [[Conversion|conversion]] was disputed, and on the 21st of
 May 1608 he was confined to the city of Perth "for the better resolution
 of his doubts," being subsequently declared an obstinate "papist,"
 excommunicated, deprived of his estate, and imprisoned at Dumbarton; and
 after some further vacillation was finally released in May 1611. Lord
 Erroll died on the 16th of July 1631, and was buried in the church of
-Slains. He married (1) Anne, daughter of John, 4th earl of Atholl; (2)
-Margaret, daughter of the regent Murray; and (3) Elizabeth, daughter of
+Slains. He married (1) [[Anne]], daughter of John, 4th earl of Atholl; (2)
+[[Margaret]], daughter of the regent Murray; and (3) Elizabeth, daughter of
 William, 6th earl of Morton. By his third wife he had several children,
 of whom his eldest son, William, succeeded him. The dispute which began
-in his lifetime concerning the hereditary office of lord high constable
+in his lifetime concerning the hereditary office of [[Lord High Constable|lord high constable]]
 between the families of Erroll and of the Earl Marischal was settled
 finally in favour of the former; thus establishing the precedence
 enjoyed by the earls of Erroll next after the royal family over all

@@ -7,9 +7,9 @@ topic: biography
 # Atavism
 
 ATAVISM (from Lat. _atavus_, a great-great-great-grandfather or
-ancestor), the term given in biology to the reproduction in a living
+ancestor), the term given in [[Biology|biology]] to the reproduction in a living
 person or animal of the characteristics of an ancestor more remote than
-its parents (see HEREDITY). Loosely used, it connotes a reversion to an
+its parents (see [[Heredity|HEREDITY]]). Loosely used, it connotes a reversion to an
 earlier type. Individuals reproduce unexpectedly the traits of earlier
 ancestors, and ethnologists and criminologists frequently explain by
 "atavism" the occurrence of degenerate species of man; but the whole

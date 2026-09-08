@@ -10,12 +10,12 @@ production by Odo Magdunensis, a French physician. Aemilius Macer must
 be distinguished from the Macer called _Iliacus_ in the Ovidian
 catalogue of poets, the author of an epic poem on the events preceding
 the opening of the Iliad. The fact of his being addressed by Ovid in one
-of the epistles _Ex Ponto_ shows that he was alive long after Aemilius
+of the [[Epistle|epistles]] _Ex Ponto_ shows that he was alive long after Aemilius
 Macer. He had been identified with the son or grandson of Theophanes of
 Mytilene, the intimate friend of Pompey.
 
   See Ovid, _Tristia_, iv. 10, 43; Quintilian, _Instit._ x. 1, 56, 87;
-  R. Unger, _De Macro Nicandri imitatore_ (Friedland, 1845); C. P.
+  R. Unger, _De Macro Nicandri imitatore_ ([[Friedland]], 1845); C. P.
   Schulze in _Rheinisches Museum_ (1898), liii. p. 541; for Macer
   Iliacus see Ovid, _Ex Ponto_, ii 10, 13, iv. 16, 6; _Amores_, ii. 18.
 

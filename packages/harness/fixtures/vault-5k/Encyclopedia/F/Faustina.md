@@ -7,10 +7,10 @@ topic: history
 # Faustina
 
 FAUSTINA, ANNIA GALERIA, the younger, daughter of Antoninus Pius, and
-wife of Marcus Aurelius Antoninus. She is accused by Dio Cassius and
-Capitolinus of gross profligacy, and was reputed to have instigated the
+wife of [[Marcus Aurelius Antoninus]]. She is accused by Dio [[Cassius]] and
+Capitolinus of [[Gross|gross]] profligacy, and was reputed to have instigated the
 revolt of Avidius Cassius against her husband. She died in 175 or 176
-(so Clinton, _Fasti rom._) at Halala, near Mount Taurus, in Cappadocia,
+(so Clinton, _Fasti rom._) at Halala, near Mount Taurus, in [[Cappadocia]],
 whither she had accompanied Aurelius. Charitable schools for orphan
 girls (hence called _Faustinianae_) were founded in her honour, like
 those established by her father Antoninus in honour of his wife, the

@@ -6,7 +6,7 @@ thus a line has only length and is said to be of one dimension, a
 surface has length and breadth, and has two dimensions, a solid has
 length, breadth and thickness, and has three dimensions. This concept is
 extended to algebra: since a line, surface and solid are represented by
-linear, quadratic and cubic equations, and are of one, two and three
+linear, quadratic and cubic [[Equation|equations]], and are of one, two and three
 dimensions; a biquadratic equation has its highest terms of four
 dimensions, and, in general, an equation in any number of variables
 which has the greatest sum of the indices of any term equal to n is said

@@ -12,10 +12,10 @@ pictures for the gallery at Colmar. He first exhibited at the Salon in
 (1881); "Herodias" (1887); "A Study" (1891); "Christ in His Shroud," and
 a "Portrait of Carolus-Duran" (1896); a "Portrait of Mlle Fouquier"
 (1897); "The Levite of the Tribe of Ephraim" (1898), for which a
-first-class medal was awarded to him; and "The Dream" (1900). Among
+first-class medal was awarded to him; and "The [[Dream]]" (1900). Among
 other professional distinctions Henner also took a Grand Prix for
-painting at the Paris International Exhibition of 1900. He was made
-Knight of the Legion of Honour in 1873, Officer in 1878 and Commander in
+painting at the Paris [[International]] Exhibition of 1900. He was made
+[[Knight]] of the [[Legion]] of Honour in 1873, Officer in 1878 and [[Commander]] in
 1889. In 1889 he succeeded Cabanel in the Institut de France.
 
   See E. Bricon, _Psychologie d'art_ (Paris, 1900); C. Phillips, _Art

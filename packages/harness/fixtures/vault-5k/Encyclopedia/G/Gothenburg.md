@@ -31,7 +31,7 @@ in natural history, entomology, botany, anatomy, archaeology and
 ethnography, a picture and sculpture gallery, and exhibits of coins and
 industrial art. Gustaf-Adolfs-Torg is the business centre, and contains
 the town-hail (1670) and exchange (1849). Here are statues by B. E.
-Fogelberg of Gustavus Adolphus and of Odin, and of Oscar I. by J. P.
+[[Fogelberg]] of Gustavus Adolphus and of Odin, and of Oscar I. by J. P.
 Molin. Among several churches in this quarter of the city is the
 cathedral (_Gustavii Domkyrka_), a cruciform church founded in 1633 and
 rebuilt after fires in 1742 and 1815. Here are also the customs-house
@@ -57,8 +57,8 @@ workmen's quarter; others are Landala, Garda and Stampen. All are
 connected with the city by electric tramways. Six railways leave the
 city from four stations. The principal lines, from the Statens and
 Bergslafs stations, run N. to Trollhattan, and into Norway
-(Christiania); N.E. between Lakes Vener and Vetter to Stockholm, Falun
-and the north; E. to Boras and beyond, and S. by the coast to
+([[Christiania]]); N.E. between Lakes Vener and Vetter to Stockholm, Falun
+and the north; E. to [[Boras]] and beyond, and S. by the coast to
 Helsingborg, &c. From the Vestgota station a narrow-gauge line runs N.E.
 to Skara and the southern shores of Vener, and from Saro station near
 Slottskog Park a line serves Saro, a seaside watering-place on an island
@@ -71,7 +71,7 @@ council, Royal Society of Science and Literature, directors of the
 museum, and the staffs of the various local colleges. There are several
 boys' schools, a college for girls, a scientific college, a commercial
 college (1826), a school of navigation, and Chalmers' Polytechnical
-College, founded by William Chalmers (1748-1811), a native of Gothenburg
+College, founded by William [[Chalmers]] (1748-1811), a native of Gothenburg
 of English parentage. He bequeathed half his fortune to this
 institution, and the remainder to the Sahlgrenska hospital. A people's
 library was founded by members of the family of Dickson, several of whom
@@ -87,7 +87,7 @@ it is slightly inferior to Malmo. Its principal industrial
 establishments are mechanical works (both in the city and at Lundby),
 saw-mills, dealing with the timber which is brought down the Gota,
 flour-mills, margarine factories, breweries and distilleries, tobacco
-works, cotton mills, dyeing and bleaching works (at Levanten in the
+works, cotton mills, dyeing and [[Bleaching|bleaching]] works (at Levanten in the
 vicinity), furniture factories, paper and leather works, and
 shipbuilding yards. The vessels registered at the port in 1901 were 247
 of 120,488 tons. There are about 3 m. of quays approachable by vessels
@@ -116,12 +116,12 @@ and trade. Since the demolition of its fortifications in 1807, it has
 been defended only by some small forts. Gothenburg was the birthplace of
 the poet Bengt Lidner (1757-1793) and two of Sweden's greatest
 sculptors, Bengt Erland Fogelberg (1786-1854) and Johann Peter Molin
-(1814-1873). After the French Revolution Gothenburg was for a time the
+(1814-1873). After the [[French Revolution]] Gothenburg was for a time the
 residence of the Bourbon family. The name of this city is associated
 with the municipal licensing system known as the Gothenburg System (see
 LIQUOR LAWS).
 
-  See W. Berg, _Samlingar till Goteborgs historia_ (Gothenburg, 1893);
+  See W. [[Berg]], _Samlingar till Goteborgs historia_ (Gothenburg, 1893);
   Lagerberg, _Goteborg i aldre och nyare tid_ (Gothenburg, 1902);
   Froding, _Det forna Goteborg_ (Stockholm, 1903).
 

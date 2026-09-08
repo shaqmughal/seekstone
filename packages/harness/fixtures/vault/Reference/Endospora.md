@@ -18,8 +18,8 @@ phase; on the other hand, the amoeboid nature of the trophozoites in
 very many cases together with the formation of pseudopodia; and, lastly,
 the simple endogenous spore-formation characteristic of the primitive
 forms,--are all points which support this view, and exclude any
-hypothesis of a Flagellate origin, such as, on the contrary, is probably
-the case in the Ectospora (q.v.).
+[[Hypothesis|hypothesis]] of a Flagellate origin, such as, on the contrary, is probably
+the case in the [[Ectospora]] (q.v.).
 
 1. Order Myxosporidia. The Myxosporidia, or, more correctly, the dense
 masses formed by their spores, were well known to the earlier zoological
@@ -28,7 +28,7 @@ observers. The parasites in fishes were called by Müller
 as is evident from the meaning of the term ("mange-seed"), Müller had
 little idea of the true nature of the bodies. Other examples, infesting
 silkworms, have also long been known as "Pèbrine-corpuscles," from the
-ravaging disease which they produce in those caterpillars in France, in
+ravaging disease which they produce in those [[Caterpillar|caterpillars]] in France, in
 connexion with which Pasteur did such valuable work. The foundation of
 our present morphological and biological knowledge of the order was well
 laid by the admirable researches of Thèlohan in 1895. In spite, however,
@@ -48,16 +48,16 @@ distributed between fishes on the one hand and Invertebrates--chiefly, but
 not exclusively, Arthropods--on the other. The parasites are frequently
 the cause of severe and fatal illness in their hosts, and devastating
 epidemics of myxosporidiosis have often been reported (e.g. among carp and
-barbel in continental rivers, due to a _Myxobolus_, and among crayfish in
+[[Barbel|barbel]] in continental rivers, due to a _Myxobolus_, and among crayfish in
 France, to _Thelohania_).
 
 The seat of the invasion and the mode of parasitism are extremely
 varied. Practically any organ or tissue may be attacked, excepting,
-apparently, the testis and cartilage and bone. In one instance at least
+apparently, the testis and cartilage and [[Bone|bone]]. In one instance at least
 (that of _Nosema bombycis_ of the silkworm) the parasites penetrate into
 the ova, so that true hereditary infection occurs, the progeny being
 born with the disease. The parasites may be either free in some lumen,
-such as that of the gall bladder or urinary bladder (not of the
+such as that of the [[Gall|gall]] [[Bladder|bladder]] or urinary bladder (not of the
 alimentary canal, or the body-cavity itself), when they are known as
 _coelozoic_ forms; or in intimate relation with some tissue,
 intracellular while young but becoming intercellular in the adult phase
@@ -93,14 +93,14 @@ The most noticeable feature about the Myxosporidian trophozoite is its
 amoeboid and Rhizopod-like character. Pseudopodia of various kinds, from
 long slender ones (fig. 3, B) to short blunt lobose ones, are of general
 occurrence, being most easily observed, of course, in the free-living
-forms. The pseudopodia serve chiefly for movement and attachment, and
+forms. The pseudopodia serve chiefly for movement and [[Attachment|attachment]], and
 never, it should be noted, for the injection of solid food-particles, as
 in the case of _Amoebae_. The general protoplasm is divisible into
 ectoplasm and endoplasm. The former is a clear, finely-granular layer,
 of which the pseudopodia are mainly constituted (fig. 3, A). In one or
 two instances (e.g. _Myxidium lieberkühnii_) the ectoplasm shows a
 vertical striation, and in the older trophozoites breaks down partially,
-appearing like a fur of delicate, non-motile filaments. A somewhat
+appearing like a [[Fur|fur]] of delicate, non-motile filaments. A somewhat
 similar modification is found in _Myxocystis_. The endoplasm is more
 fluid, and contains numerous inclusions of a granular nature, as well as
 vacuoles of varying size. In the endoplasm are lodged the nuclei, of
@@ -112,7 +112,7 @@ individuals begin life, the number increasing as growth proceeds.
 
 FIG. 3.--A. Trophozoite of _Sphaerospora divergens_, Thél. (par.
 _Blennius_ and _Crenilabrus_), × 750. ec, Ectoplasm; en, endoplasm; sp,
-spores, each with four pole capsules.
+spores, each with four pole [[Capsule|capsules]].
 
 From Lankester's _Treatise on Zoology_, vol. Protozoa.
 
@@ -147,7 +147,7 @@ made use of. In the _Phaenocystes_ there are always two sporoblasts
 developed in each pansporoblast; in the _Cryptocystes_ there may be from
 one to several. Around each sporoblast a spore-membrane is secreted,
 which usually has the form of two valves. It has recently been shown by
-Léger and Hesse (29b) that, in many Phaenocystes at any rate, each of
+Léger and [[Hesse]] (29b) that, in many Phaenocystes at any rate, each of
 these valves is formed by a definite nucleated portion of the
 sporoblast.
 
@@ -184,7 +184,7 @@ uninuclear.
 after Thélohan.
 
 FIG. 4.--Stages in spore-formation. All the figures are from _Myxobolus
-ellipsoides_, except a and f, which are from _M. pfeifferi_.
+[[Ellipsoid|ellipsoides]]_, except a and f, which are from _M. pfeifferi_.
 
   a, Differentiation of the pansporoblast (p.sp).
   b, Pansporoblast with two nuclei.
@@ -217,7 +217,7 @@ intestinal wall of the plaice, showing sporoblast and spore-formation.
 
   ect, Ectorind.
   end, Endoplasm.
-  endoth, Fold of the mucous membrane, normal in character.
+  endoth, [[Fold]] of the mucous membrane, normal in character.
   p.sp.bl, Various stages in the development of the pansporoblasts.
   sp, Ripe spores, filling the greater part of the cyst.
   n, Large (vegetative) nuclei.]
@@ -272,7 +272,7 @@ intermediate between these two suborders, and shows that they are
 closely connected.
 
 
-    Classification.
+    [[Classification]].
 
   Suborder 1: _Phaenocystes_, Gurley. Spores relatively large, with
   generally two or four polar-capsules, visible in the fresh condition.
@@ -483,7 +483,7 @@ this form, which they have termed sarcocystin.
 In the early stages of growth, a Sarcosporidian appears as an elongated
 whitish body lodged in the substance of a muscle-fibre; this phase has
 long been known as a "Miescher's tube," or _Miescheria_. The youngest
-trophozoites that have been yet observed (by Bertram, 1) were
+trophozoites that have been yet observed (by [[Bertram]], 1) were
 multinucleate (fig. 11, A), but there is no reason to doubt that they
 begin life in a uninuclear condition. The protoplasm is limited by a
 delicate cuticle. With growth, organellae corresponding to the
@@ -589,7 +589,7 @@ dispersal; but this has yet to be ascertained.
   Lank. (= _Miescheria_ + _Balbiania_, Blanchard.) Some of the principal
   species are: _S. miescheriana_, from pigs; _S. tenella_, from sheep;
   _S. bertrami_, from horses; _S. blanchardi_, from Bovines; _S. muris_,
-  from mice; _S. platydactyli_, from the gecko; and lastly, _S.
+  from mice; _S. platydactyli_, from the [[Gecko|gecko]]; and lastly, _S.
   lindemanni_, described from man.
 
 4. Order--Haplosporidia. The Sporozoa included in this order are
@@ -648,11 +648,11 @@ spore-mother-cells, instead of becoming each a single spore, as in
 _Bertramia_, give rise to several, four in the first case, many in the
 latter. Sometimes, again, the spore, while preserving the essentially
 simple character of the sporoplasm, may be enclosed in a spore-case;
-this may have the form of a little box with a lid or operculum, as in
+this may have the form of a little [[Box|box]] with a lid or operculum, as in
 some species of _Haplosporidium_, or may possess a long process or tail,
 as in _Urosporidium_ (fig. 15).
 
-  [Illustration: From Caullery and Mesnil, _Archives de zoologie
+  [Illustration: From Caullery and Mesnil, _[[Archive|Archives]] de zoologie
   expérimentale_, vol. 4, 1905, by permission of Schleicher Frères et
   Cie, Paris.
 
@@ -715,7 +715,7 @@ _Blanchardina_ and _Botellus_. _Lymphosporidium_, a form with
 distributed nucleus, causing virulent epidemics among brook-trout, is
 considered by Calkins(3) to be suitably placed here. Another parasite of
 lymphatic spaces and channels is the remarkable _Lymphocystis_,
-described by Woodcock (46), from plaice and flounders, which in some
+described by Woodcock (46), from plaice and [[Flounder|flounders]], which in some
 respects rather recalls a Gregarine. The group Exosporidia was founded
 by Perrier to include a peculiar organism, ectoparasitic on Arthropods,
 to which the name of _Amoebidium_ had been given by Cienkowsky. It has
@@ -740,11 +740,11 @@ parasitic organisms at all.
 
   BIBLIOGRAPHY.--(For general works see under SPOROZOA.) (1) Bertram,
   "Beiträge zur Kenntnis der Sarcosporidien," _Zool. Jahrb. Anat._ 5,
-  1902; (2) L. Brasil, "Joyeuxella toxoides," (n.g., n.sp.), _Arch.
+  1902; (2) L. Brasil, "Joyeuxella toxoides," (n.g., n.sp.), _[[Arch]].
   zool. exp._ N. et R. (3) 10, p. 5, 7 figs., 1902; (3) G.N. Calkins,
   "Lymphosporidium truttae," (n.g., n.sp.), _Zool. Anz_. 23, p. 513, 6
   figs., 1903; (3a) ib. _The Life-History of Cytoryctes Variolae_;
-  Guarnieri, "Studies path. etiol. variola," _J. Med. Research_ (Boston,
+  [[Guarnieri]], "Studies path. etiol. variola," _J. Med. Research_ ([[Boston]],
   1904), p. 136, 4 pls.; (3b) M. Caullery and A. Chappellier,
   "Anurosporidium pelseneeri, (n.g., n.sp.), Haplosporidie," &c., _C. R.
   soc. biol._ 60, p. 325, 1906; (4) M. Caullery and F. Mesnil, "Sur un
@@ -765,14 +765,14 @@ parasitic organisms at all.
   58, p. 580, 6 figs., 1905; (14) ib. "Sur des Haplosporidies parasites
   de poissons marins," ib. p. 640, 1905; (15) ib. "Recherches sur les
   Haplosporidies," _Arch. zool. exp._ (4) 4, p. 101, pls. 11-13, 1905;
-  (16) L. Cohn, "Über die Myxosporidien von Esox lucius," _Zool. Jahr.
+  (16) L. Cohn, "Über die Myxosporidien von Esox [[Lucius|lucius]]," _Zool. Jahr.
   Anat_. 9, p. 227, 2 pls., 1896; (17) ib. "Zur Kenntniss der
   Myxosporidien," Centrbl. Bakt. 1, Orig. 32, p. 628, 3 figs., 1902;
   (18) ib. "Protozoen als Parasiten in Rotatorien," Zool. Anz. 25, p.
   497, 1902; (19) F. Doflein, "Über Myxosporidien," Zool. Jahr. Anat.
   11, p. 281, 6 pls., 1898; (20) ib. "Fortschritte auf dem Gebiete der
   Myxosporidienkunde," _Zool. Centrbl_. 7, p. 361, 1899; (21) R. Gurley,
-  "The Myxosporidia," _Bull. U.S. Fish. Comm., 1892_, p. 65, 47 pls.,
+  "The Myxosporidia," _[[Bull]]. U.S. Fish. Comm., 1892_, p. 65, 47 pls.,
   1894; (22) E. Hesse, "Sur une nouvelle Microsporidie tétrasporée du
   genre Gurleya," _C. R. soc. biol._ 55, p. 495, 1903; (23) ib.
   "Thelohania légeri" (n.sp.), op. cit. 57, pp. 570-572, 10 figs., 1904;
@@ -796,7 +796,7 @@ parasitic organisms at all.
   1899; (32) C. Perez, "Sur un organisme nouveau, Blastulidium," _C. R.
   soc. biol._ 55, p. 715, 5 figs., 1903; (33) ib. "Sur nouvelles
   Glugéidées," op. cit. 58, pp. 146-151, 1905; (34) ib. "Microsporidies
-  parasites des crabes," _Bull. sta. biol. d'Arcachon_, 8, 22 pp., 14
+  parasites des [[Crab|crabes]]," _Bull. sta. biol. d'Arcachon_, 8, 22 pp., 14
   figs., 1905; (35) W.S. Perrin, "Pleistophora periplanetae," _Q. J.
   Micr. Sci._ 49, p. 615, 2 pls., 1906; (36) L. Plate, "Über einen
   einzelligen Zellparasiten" (_Chitonicium_), _Fauna Chilensis_, 2, pp.

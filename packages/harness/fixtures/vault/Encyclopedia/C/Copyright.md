@@ -11,10 +11,10 @@ first, the analogous right as regards works of plastic art, &c.,
 following in its train.
 
 1. Whether copyright was recognized at all by the common law of England
-was long a much debated legal question. Blackstone thinks that "this
+was long a much debated legal question. [[Blackstone]] thinks that "this
 species of property, being grounded on labour and invention, is more
 properly reducible to the head of occupancy than any other, since the
-right of occupancy itself is supposed by Mr Locke and many others to be
+right of occupancy itself is supposed by Mr [[Locke]] and many others to be
 founded on the personal labour of the occupant." But he speaks
 doubtfully of its existence--merely mentioning the opposing views, "that
 on the one hand it hath been thought no other man can have a right to
@@ -22,9 +22,9 @@ exhibit the author's work without his consent, and that it is urged on
 the other hand that the right is of too subtle and unsubstantial a
 nature to become the subject of property at the common law, and only
 capable of being guarded by positive statutes and special provisions of
-the magistrate." He notices that the Roman law adjudged that if one man
+the [[Magistrate|magistrate]]." He notices that the Roman law adjudged that if one man
 wrote anything on the paper or parchment of another, the writing should
-belong to the owner of the blank materials, but as to any other property
+belong to the owner of the [[Blank|blank]] materials, but as to any other property
 in the works of the understanding the law is silent, and he adds that
 "neither with us in England hath there been (till very lately) any final
 determination upon the rights of authors at the common law." The common
@@ -34,13 +34,13 @@ protection depends on the statutes regulating copyright. The leading
 case on the subject of unpublished works is _Prince Albert_ v. _Strange_
 (1849), 2 De G. & Sm. 652. Copies of etchings by Queen Victoria and
 Prince Albert, which had been lithographed for private circulation, fell
-into the hands of the defendant, a London publisher, who proposed to
-exhibit them, and issued a catalogue entitled _A Descriptive Catalogue
+into the hands of the [[Defendant|defendant]], a London publisher, who proposed to
+exhibit them, and issued a [[Catalogue|catalogue]] entitled _A Descriptive Catalogue
 of the Royal Victoria and Albert Gallery of Etchings_. The court of
 chancery restrained the publication of the catalogue, holding that
 property in mechanical works, or works of art, does certainly subsist,
 and is invaded, before publication, not only by copying but by
-description or catalogue. This protection includes news (_Exchange
+description or catalogue. This protection includes news (_[[Exchange]]
 Telegraph Co._ v. _Central News_, 1897).
 
 
@@ -55,7 +55,7 @@ strictly limited in point of duration. On the other hand, it is claimed
 that copyright, being in the nature of personal property, should be
 perpetual. A man's own work, in this view, is as much _his_ as his house
 or his money, and should be protected by the state. Historically, and in
-legal definition, there would appear to be no doubt that copyright, as
+legal [[Definition|definition]], there would appear to be no doubt that copyright, as
 regulated by statute, is strictly a monopoly. The parliamentary
 protection of works of art for the period of fourteen years by an act of
 1709 and later statutes appears, as Blackstone points out, to have been
@@ -92,7 +92,7 @@ various publications has for various reasons been recognized by the laws
 (1) in the crown, and (2) in the universities and colleges. The various
 copyright acts, referred to below, except from their provisions the
 copyrights vested in the two English and the four Scottish universities,
-Trinity College, Dublin, and the colleges of Eton, Westminster and
+Trinity College, Dublin, and the colleges of [[Eton]], Westminster and
 Winchester. Crown copyrights are saved by the general principle which
 exempts crown rights from the operation of statutes unless they are
 expressly mentioned. Among the books in which the crown has claimed
@@ -100,8 +100,8 @@ copyright are the English translation of the Bible, the Book of Common
 Prayer, statutes, orders of privy council, proclamations, almanacs,
 Lilly's Latin Grammar, year books and law reports. The copyright in the
 Bible is rested by some on the king's position as head of the church;
-Lord Lyndhurst rested it on his duties as the chief executive officer of
-the state charged with the publication of authorized manuals of
+Lord [[Lyndhurst]] rested it on his duties as the chief executive officer of
+the state charged with the publication of authorized [[Manuals|manuals]] of
 religion. The right of printing the Bible and the Book of Common Prayer
 is vested in the king's printer and the universities of Oxford and
 Cambridge. These copyrights do not extend to prohibit independent
@@ -134,7 +134,7 @@ not printed and published, or that shall hereafter be composed, and his
 assignee, or assignees, shall have the sole liberty of printing and
 reprinting such book or books for the term of fourteen years, to
 commence from the day of first publishing the same, and no longer." The
-penalty for offences against the act was declared to be the forfeiture
+penalty for offences against the act was declared to be the [[Forfeiture|forfeiture]]
 of the illicit copies to the true proprietor, and the fine of one penny
 per sheet, half to the crown, and half to any person suing for the same.
 "After the expiration of the said term of fourteen years the sole right
@@ -170,17 +170,17 @@ within the periods laid down by the act. Thus in 1735 the master of the
 rolls restrained the printing of an edition of the _Whole Duty of Man_,
 published in 1657. In 1739 an injunction was granted by Lord Hardwicke
 against the publication of _Paradise Lost_, at the instance of persons
-claiming under an assignment from Milton in 1667. In the case of
+claiming under an [[Assignment|assignment]] from Milton in 1667. In the case of
 _Millar_ v. _Taylor_ the plaintiff, who had purchased the copyright of
 Thomson's _Seasons_ in 1729, claimed damages for an unlicensed
-publication thereof by the defendant in 1763. The jury found that before
+publication thereof by the defendant in 1763. The [[Jury|jury]] found that before
 the statute it was usual to purchase from authors the perpetual
-copyright of their works. Three judges, among whom was Lord Mansfield,
+copyright of their works. Three judges, among whom was Lord [[Mansfield]],
 decided in favour of the common law right; one was of the contrary
 opinion. The majority thought that the act of 1709 was not intended to
 destroy copyright at common law, but merely to protect it more
 efficiently during the limited periods. _Millar_ v. _Taylor_, however,
-was speedily overruled by the case of _Donaldson_ v. _Beckett_ in the
+was speedily overruled by the case of _[[Donaldson]]_ v. _Beckett_ in the
 House of Lords in 1774. The judges were called upon to state their
 opinions. A majority (seven to four) were of opinion that the author and
 his assigns had at common law the sole right of publication in
@@ -205,7 +205,7 @@ had in writing, signed in the presence of two or more credible
 witnesses, any book or books, or who knowing them to be printed, &c.,
 without the proprietor's consent should sell, publish, or expose them
 for sale; the proprietor to have his damages as assessed by the jury,
-and double costs of suit. A second period of fourteen years was
+and double [[Costs|costs]] of suit. A second period of fourteen years was
 confirmed to the author, should he still be alive at the end of the
 first. Further, it was forbidden to import into the United Kingdom for
 sale books first composed, written, or printed and published within the
@@ -233,7 +233,7 @@ publication of such book the copyright shall in that case endure for
 such period of forty-two years; and that the copyright of every book
 which shall be published after the death of its author shall endure for
 the term of forty-two years from the first publication thereof, and
-shall be the property of the proprietor of the author's manuscript from
+shall be the property of the proprietor of the author's [[Manuscript|manuscript]] from
 which such book shall be first published and his assigns." The benefit
 of the enlarged period was extended to subsisting copyrights, unless
 they were the property of an assignee who had acquired them by purchase,
@@ -294,7 +294,7 @@ the names of proprietor and publisher.
 
 The interpretation clause of the act defines a book to be every volume,
 part, or division of a volume, pamphlet, sheet of letter-press, sheet of
-music, map, chart, or plan separately published.
+music, [[Map|map]], chart, or plan separately published.
 
 
   Recent extensions.
@@ -305,7 +305,7 @@ given by judicial interpretation to the scope of the act of 1842.
 "Literary matter of lasting benefit to the world" came to include every
 publication (not being illegal) which could be described as "literary"
 or "original," the criterion as to the latter qualification being, in
-the last resort, whether (see _Trade Auxiliary Co._ v. _Middlesborough
+the last resort, whether (see _Trade [[Auxiliary]] Co._ v. _Middlesborough
 Association_, 1889, 40 Ch.D. 425) the author or compiler has really put
 his own brain-work into it.
 
@@ -317,22 +317,22 @@ the law of copyright to the periodical press, in order to protect within
 reasonable limits the labour and expenditure of newspapers that obtain
 for the public the earliest news and arrange it for publication. It is
 settled law since 1881 (_Walter_ v. _Howe_, 17 Ch.D. 708, overruling
-_Cox_ v. _Land & Water Journal Co._, 1869), that a newspaper is a book
+_[[Cox]]_ v. _Land & Water Journal Co._, 1869), that a newspaper is a book
 within the meaning of the act, and can claim all rights that a book has
 under the Copyright Act. Thus, leading articles, special articles, and
-even news items are protected (_Walter_ v. _Steinkopff_, 1892, 3 Ch.
+even news [[Item|items]] are protected (_Walter_ v. _Steinkopff_, 1892, 3 Ch.
 489; _Exchange Telegraph Co._ v. _Gregory and Co._, 1896, 1 Q.B. 147).
 Current prices of stocks and shares, translations, the compilation of a
-directory, summaries of legal proceedings, and other similar literary
+[[Directory|directory]], summaries of legal proceedings, and other similar literary
 work, so far as the literary form, the labour and money are concerned,
 are equally protected. In short, the test may now be broadly stated to
 be, whether labour of the brain and expenditure of money have been given
 for the production; whilst the old requirement of original matter is
 very broadly interpreted. The leading case on the subject is _Walter_ v.
-_Lane_ (decided in the House of Lords, 6th August 1900). The question
+_[[Lane]]_ (decided in the House of Lords, 6th August 1900). The question
 there raised was, whether or not copyright applied under the act of 1842
 in respect of _verbatim_ reports of speeches. Four law lords, viz. Lord
-Chancellor Halsbury, Lord Davey, Lord James of Hereford and Lord
+Chancellor [[Halsbury]], Lord Davey, Lord James of Hereford and Lord
 Brampton upheld the claim to copyright in such cases, whilst Lord
 Robertson was the sole dissentient.
 
@@ -357,7 +357,7 @@ the place of delivery (an impracticable condition), and (2) lectures
 delivered in universities and other public institutions. Sermons by
 clergy of the established Church are believed to fall within this
 exception. The leading cases are _Nicols_ v. _Pitman_, 1884, 26 Ch.D.
-374, and _Caird_ v. _Sime_, 1887, 12 A.C. 326.
+374, and _[[Caird]]_ v. _Sime_, 1887, 12 A.C. 326.
 
 
   Private letters.
@@ -387,8 +387,8 @@ that a repetition from memory was not a publication so as to be an
 infringement of copyright. In the case of _Reade_ v. _Conquest_, 1861, 9
 C.B., the same view was taken. The defendant had dramatized the
 plaintiff's novel _It's Never too Late to Mend_, and the piece was
-performed at his theatre. This was held to be no breach of copyright;
-but the circulation of copies of a drama, so taken from a copyright
+performed at his theatre. This was held to be no [[Breach|breach]] of copyright;
+but the circulation of copies of a [[Drama|drama]], so taken from a copyright
 novel, whether gratuitously or for sale, is not allowed. Then again it
 is often a difficult question to decide whether the alleged piratical
 copyright does more than make that fair use of the original author's
@@ -413,37 +413,37 @@ examine whether the mistakes of both works are the same. If they are,
 piracy will be inferred. Translations stand to each other in the same
 relation as books constructed of materials in common. The _animus
 furandi_, mentioned above as a test of piracy, does not imply deliberate
-intention to steal; it may be quite compatible with ignorance even of
+intention to steal; it may be quite compatible with [[Ignorance|ignorance]] even of
 the copyright work. Abridgments, moreover, of original works appear to
 be favoured by the courts--when the act of abridgment is itself an act
 of the understanding, "employed in carrying a large work into a smaller
-compass, and rendering it less expensive." Lord Hatherley, however, in
+compass, and rendering it less expensive." Lord [[Hatherley]], however, in
 _Tinsley_ v. _Lacy_, 1863, 1 H. & M. 747, incidentally expressed his
 disapproval of this feeling--holding that the courts had gone far enough
 in this direction, and that it was difficult to acquiesce in the reason
 sometimes given that the compiler of an abridgment is a benefactor to
 mankind by assisting in the diffusion of knowledge. A mere selection or
 compilation, so as to bring the materials into smaller space, will not
-be a bona fide abridgment; "there must be real substantial condensation,
+be a [[Bona Fide|bona fide]] abridgment; "there must be real substantial condensation,
 and intellectual labour, and judgment bestowed thereon" (Justice Story).
-A publication professing to be _A Christmas Ghost Story, Reoriginated
-from the Original by Charles Dickens, Esq., and Analytically Condensed
-expressly for this Work_, was found (_Dickens_ v. _Lee_, 1844, 8 Jur.
+A publication professing to be _A [[Christmas]] Ghost Story, Reoriginated
+from the Original by Charles [[Dickens]], Esq., and Analytically Condensed
+expressly for this Work_, was found (_Dickens_ v. _[[Lee]]_, 1844, 8 [[Jur]].
 183) to be an invasion of Charles Dickens's copyright in the original.
 
 
   Injurious works.
 
-10. There can be no copyright in any but innocent publications. Books of
+10. There can be no copyright in any but [[Innocent|innocent]] publications. Books of
 an immoral or irreligious tendency have been repeatedly decided to be
-incapable of being made the subject of copyright. In a case (_Lawrence_
+incapable of being made the subject of copyright. In a case (_[[Lawrence]]_
 v. _Smith_, 1 Jac. 471) before Lord Eldon in 1822, an injunction had
 been obtained against a pirated publication of the plaintiff's _Lectures
 on Physiology, Zoology, and the Natural History of Man_, which the judge
-refused to continue, "recollecting that the immortality of the soul is
+refused to continue, "recollecting that the [[Immortality|immortality]] of the soul is
 one of the doctrines of the Scriptures, and considering that the law
 does not give protection to those who contradict the Scriptures." The
-same judge refused in 1822 to restrain a piracy of Lord Byron's _Cain_,
+same judge refused in 1822 to restrain a piracy of Lord Byron's _[[Cain]]_,
 and _Don Juan_ was refused protection in 1823. Compare also _Cowan_ v.
 _Milbourn_, 1867, L.R. 2 Ex. 230, in which a contract to let a room for
 lectures of an irreligious character was held not to be binding.
@@ -454,7 +454,7 @@ lectures of an irreligious character was held not to be binding.
 11. The quasi-copyright in titles of books, periodicals, &c. is founded
 on the desirability of preventing one person from putting off on the
 public his own productions as those of another. This is, however, not
-copyright, but a question of ordinary fraud. The name of a journal (if
+copyright, but a question of ordinary [[Fraud|fraud]]. The name of a journal (if
 sufficiently established) is a species of trade-mark in which the law
 recognizes what it calls a "species of property," provided any
 misleading of the public is involved. Thus, the _Wonderful Magazine_ was
@@ -465,8 +465,8 @@ _London Journal_ got an injunction (1859) against the _Daily London
 Journal_, which was projected by the person from whom they had bought
 their own paper, and who had covenanted with them not to publish any
 _weekly_ journal of a similar nature. A song published under the title
-of _Minnie_, sung by Madame Anna Thillon and Miss Dolby at Monsieur
-Jullien's concerts, was invaded (1855) by a song to the same air
+of _Minnie_, sung by Madame [[Anna]] Thillon and Miss Dolby at Monsieur
+Jullien's [[Concert|concerts]], was invaded (1855) by a song to the same air
 published as _Minnie Dale, Sung at Jullien's Concerts by Madame Anna
 Thillon_. On the other hand, the _Sphere_ and _Spear_, titles of
 misleading similarity, assumed by two weekly periodicals that appeared
@@ -518,18 +518,18 @@ the stage. It was held that any one might dramatize A's published novel,
 and that the representation of B's drama was not a representation of A's
 drama. This case may be compared with _Reade_ v. _Lacy_ (1861).
 
-In the "Little Lord Fauntleroy" case (1888) the person who dramatized
+In the "Little Lord [[Fauntleroy]]" case (1888) the person who dramatized
 the novel of another without his consent, an operation up to that time
 believed to be unassailable in law, was attacked successfully, by
 preventing him from using printed or written copies of the play, either
-to deposit with the lord chamberlain or as prompt-books. In every case
-where much of the original dialogue of the novel is taken, this stops
+to deposit with the [[Lord Chamberlain|lord chamberlain]] or as prompt-books. In every case
+where much of the original [[Dialogue|dialogue]] of the novel is taken, this stops
 the production of the dramatization.
 
 In music, statutes of 1882 and 1888 have prevented the use of the
 provisions inflicting penalties for the performance of copyright songs
 for purposes of extortion, by allowing the court to inflict a penalty of
-one farthing and make the plaintiff pay the costs, if justice requires
+one [[Farthing|farthing]] and make the plaintiff pay the costs, if justice requires
 it. Authors reserving the right of public performance are required to
 print a notice to that effect on all copies of the music.
 
@@ -547,7 +547,7 @@ control to mechanical reproductions, and gave the copyright proprietor
 power to exact royalties.
 
 The copyright in music was subject to serious injury in England from the
-selling of pirated copies in the streets by hawkers; and in 1902 an act
+selling of pirated copies in the streets by [[Hawker|hawkers]]; and in 1902 an act
 was passed enabling summary proceedings to be taken for having such
 copies seized and destroyed. But this act had various practical defects,
 which still left publishers largely at the mercy of the pirates. In 1905
@@ -555,14 +555,14 @@ the evil had become so serious that the chief music publishers announced
 their intention of not producing any further works till the law was
 altered; but the new Musical Copyright Bill of that year was obstructed
 and talked out in the House of Commons. In November 1905 an important
-prosecution, instituted by Messrs Chappell on behalf of the associated
+prosecution, instituted by Messrs [[Chappell]] on behalf of the associated
 music-publishers and composers, was brought against a coterie of
 pirates. In the session of 1906 another attempt, this time successful,
 was made to pass a Musical Copyright Bill. This act (the Musical
 Copyright Act 1906) made it a criminal offence, punishable with fine and
 imprisonment, to reproduce or sell, or to possess plates for the
 production of, pirated copies of musical works. The act also gave power
-to a constable to arrest without warrant any person who in any public
+to a constable to [[Arrest|arrest]] without warrant any person who in any public
 place exposes for sale or has in his possession for sale, or canvasses
 or personally advertises pirated copies, provided that the apparent
 owner of the copyright signs an authority requesting such arrest at his
@@ -577,16 +577,16 @@ against the act is being committed on any premises.
 one time an extraordinary conflict of judicial opinion. A foreigner who
 during residence in the British dominions should publish a work was
 admitted to have a copyright therein. The question was whether residence
-at the time of publication was necessary. In _Cocks_ v. _Purday_, the
-court of common pleas held that it was not. In _Boosey_ v. _Davidson_,
-the court of queen's bench, following the decision of the court of
+at the time of publication was necessary. In _[[Cock|Cocks]]_ v. _Purday_, the
+court of common pleas held that it was not. In _Boosey_ v. _[[Davidson]]_,
+the court of queen's [[Bench|bench]], following the decision of the court of
 common pleas in _Cocks_ v. _Purday_, held that a foreign author might
 have copyright in works first published in England, although he was
 abroad at the time of publication. But the court of exchequer, in
 _Boosey_ v. _Purday_, refused to follow these decisions, holding that
 the legislature intended only to protect its own subjects,--whether
 subjects by birth or by residence. The question came before the House of
-Lords on appeal in the case of _Boosey_ v. _Jeffreys_ (1854), in which
+Lords on appeal in the case of _Boosey_ v. _[[Jeffrey|Jeffreys]]_ (1854), in which
 the court of exchequer had taken the same line. The judges having been
 consulted were found to be divided in opinion. Six of them held that a
 foreigner resident abroad might acquire copyright by publishing first in
@@ -599,7 +599,7 @@ obtain that character for a time by being resident in this country, and
 therefore under allegiance to the crown, and under the protection of the
 laws of England." Lord Brougham said that
 
-  "The statute of Anne had been passed for the purpose of encouraging
+  "The statute of [[Anne]] had been passed for the purpose of encouraging
   learned men, and with that view that act had given them the exclusive
   right in their publications for twenty-one years. This, however, was
   clear, they had no copyright at common law, for if they had there
@@ -612,7 +612,7 @@ laws of England." Lord Brougham said that
   such diversity between the two."
 
 Against the authority of this case, however, must be set the opinion of
-two great lord chancellors--Lord Cairns and Lord Westbury. In the case
+two great lord chancellors--Lord [[Cairns]] and Lord Westbury. In the case
 of _Routledge_ v. _Low_, L.R. 3 H. L. 100, 1868, Lord Cairns said,
 
   "The aim of the legislature is to increase the common stock of the
@@ -650,11 +650,11 @@ These conclusions might follow also from the Naturalization Act of 1870,
 which enacts that real and personal property of every description may be
 taken, acquired, held, and disposed of by an alien in the same manner in
 all respects as by a natural born British subject. At the present time
-the International Copyright Act has largely removed the question from
+the [[International]] Copyright Act has largely removed the question from
 the area of conflict.
 
 
-  The Bern Convention.
+  The [[Bern]] Convention.
 
 14. _International Copyright._--Books published in one country and
 circulated in another depend for their protection in the latter upon
@@ -670,8 +670,8 @@ was given in the country in question to British authors. As the result
 of conferences at Bern in 1885 and 1887, this system was simplified and
 made more general by the treaty known as "The Bern Convention," signed
 at Bern on the 5th of September 1887. The contracting parties were the
-British Empire, Belgium, France, Germany, Italy, Spain, Switzerland,
-Tunis and Hayti. Luxemburg, Monaco, Norway and Japan afterwards joined.
+British Empire, [[Belgium]], France, Germany, Italy, Spain, Switzerland,
+Tunis and Hayti. Luxemburg, Monaco, Norway and [[Japan]] afterwards joined.
 Austria and Hungary have a separate convention with Great Britain,
 concluded on the 24th of April 1893. The notable absentees among
 European powers are Holland and Russia. So far as the United States is
@@ -717,7 +717,7 @@ might take place, but it cannot here be stated to what extent
 legislation may give effect to the decisions arrived at. So far as these
 decisions affect Great Britain, the greatest alterations of existing law
 would be in establishing throughout the Union protection of musical
-copyright, especially with regard to singing and talking machines, and
+copyright, especially with regard to singing and talking [[Machine|machines]], and
 also in the matter of newspaper copyright. The conference adopted a
 threefold division of newspaper matter: (1) serial stories, tales and
 all other work, literary, scientific and artistic, which is to have
@@ -777,7 +777,7 @@ not apply a remedy, may license a new edition, subject to a royalty to
 the owner. Anonymous books may be entered in the name of the first
 publisher. In 1889 an amending Canadian act was passed, which led to a
 long controversy with the Mother Country,--the imperial government
-refusing to sanction it,--till in 1900 a compromise was effected, and a
+refusing to sanction it,--till in 1900 a [[Compromise|compromise]] was effected, and a
 further act amending that of 1886 became law. It applies only to books
 copyright in Canada, and, subject to certain reservations, allows the
 minister of agriculture to prohibit the importation, without consent of
@@ -811,20 +811,20 @@ period is for the life of the author and fifty years after his death.
 After the author's death the surviving consort has the usufructuary
 enjoyment of the rights which the author has not disposed of in his
 lifetime or by will, subject to reduction for the benefit of the
-author's protected heirs if any. The author may dispose of his rights in
-the most absolute manner in the forms and within the limits of the Code
+author's protected [[Heir|heirs]] if any. The author may dispose of his rights in
+the most absolute manner in the forms and within the limits of the [[Code]]
 Napoléon. Piracy is a crime punishable by fine of not less than 100 nor
-more than 2000 francs; in the case of a seller from 25 to 500 francs.
+more than 2000 [[Franc|francs]]; in the case of a seller from 25 to 500 francs.
 The pirated edition will be confiscated. Piracy also forms the ground
 for a civil action of damages to the amount of the injury sustained--the
 produce of the confiscation, if any, to go towards payment of the
-indemnity (Penal Code, Art. 425-429).
+[[Indemnity|indemnity]] (Penal Code, Art. 425-429).
 
 _Germany._--Period fixed in 1837 at ten years; but copyright for longer
 periods was granted for voluminous and costly works, and for the works
 of German poets. Among others the works of Schiller, Goethe, Wieland,
 &c., were protected for a period of twenty years from the date of the
-decree in each case. In 1845 the period was extended in all cases to the
+[[Decree|decree]] in each case. In 1845 the period was extended in all cases to the
 author's life and thirty years after. The present law rests on a
 Codifying Act of 1901, the term being the author's life and 30 years, or
 not less than 10 years in any case.
@@ -851,7 +851,7 @@ _Russia._--Author's life and 50 years.
 
 _Spain._--Author's life and 80 years thereafter.
 
-_Sweden and Denmark_ provide for a term of the author's lifetime and 50
+_Sweden and [[Denmark]]_ provide for a term of the author's lifetime and 50
 years after.
 
 _Switzerland._--Author's life and 30 years after.
@@ -886,7 +886,7 @@ seemed more grievous than the lack of pecuniary profit. In Great
 Britain, during the first half of the 19th century, the copyright law
 had been so interpreted as to secure recognition of the rights of
 American authors for such works as were produced there not later than in
-any other country, so that authors like Washington Irving and Fenimore
+any other country, so that authors like Washington [[Irving]] and Fenimore
 Cooper secured for a time satisfactory returns; but after 1850 the
 conditions became the same as in the United States. Unauthorized
 editions were published, and were often incomplete and garbled.
@@ -903,14 +903,14 @@ everywhere, that the existing conditions were of material disadvantage.
 The loss to American authors was direct; and the loss to legitimate
 American publishers was also clear, in that better returns could be
 secured by adequate payments for rights that could be protected by law
-than by "courtesy" payments for authorizations that carried no legal
+than by "[[Courtesy|courtesy]]" payments for authorizations that carried no legal
 rights. An injury was being done to American literature; for, when
 authorized editions of American works had to compete against
 unauthorized and more cheaply produced editions of English works, the
 business incentive for literary production was seriously lessened. In
-fiction particularly, authors had to contend against a flood of cheaply
+fiction particularly, authors had to contend against a [[Flood|flood]] of cheaply
 produced editions of "appropriated" English books. Equally to be
-condemned were the ethics of a relation under which one class of
+condemned were the [[Ethics|ethics]] of a relation under which one class of
 property could be appropriated while other classes secured legal
 protection. On these several grounds efforts had long been made to
 secure international copyright. Between 1843 and 1886 no less than
@@ -918,7 +918,7 @@ eleven international copyright bills were drafted, for the most part at
 the instance of the copyright associations or copyright leagues. They
 were one after the other killed in committee. In 1886 the twelfth
 international copyright bill was brought before the Senate by Senator
-Jonathan Chace of Rhode Island, and was referred to the committee on
+[[Jonathan]] Chace of Rhode Island, and was referred to the committee on
 patents. In 1887 the American Publishers' Copyright League (succeeding
 the earlier American Publishers' Association) was organized, with
 William H. Appleton as president and G. H. Putnam as secretary. The
@@ -926,11 +926,11 @@ executive committee of this league formed, with a similar committee of
 the Author's Copyright League, a conference committee, under the
 direction of which the campaign for copyright was continued until the
 passage of the act of March 1891. Of the Authors' Copyright League James
-Russell Lowell was the first president, being succeeded by Edmund
-Clarence Stedman. The secretary during the active work of the league was
+Russell [[Lowell]] was the first president, being succeeded by Edmund
+[[Clarence]] Stedman. The secretary during the active work of the league was
 Robert U. Johnson. Under the initiative of the conference committee
-copyright leagues were organized in Boston, Chicago, St Louis,
-Cincinnati, Minneapolis, Denver, Colorado City and other places. The
+copyright leagues were organized in [[Boston]], [[Chicago]], St Louis,
+Cincinnati, Minneapolis, [[Denver]], Colorado City and other places. The
 Chace Bill was introduced in the House in March 1888. In May 1890 this
 bill, with certain modifications, came before the House, and was there
 defeated. In March 1891 the same measure, with certain further
@@ -953,7 +953,7 @@ alive, or to widow or children) was shorter than that accorded under the
 law of any other literature-producing country, excepting Greece. Minor
 amending acts were passed in 1893, 1895 and 1897, that of Feb. 19, 1897,
 establishing as the copyright department of the library of Congress a
-Bureau of Copyrights, the head of which bears the title of Register of
+[[Bureau]] of Copyrights, the head of which bears the title of Register of
 Copyrights. Eventually, after hard work by the American Authors'
 Copyright League and the Publishers' Copyright League, and after
 sittings extending to a period of three years, a new bill submitted to
@@ -978,7 +978,7 @@ as follows:--
   expiration of the first term he be still living, or to his widow and
   children if he be dead. If the author's widow and children be dead an
   extension is granted to the author's executors, or in the absence of a
-  will, to his next of kin. Applications for renewal and extension must
+  will, to his next of [[Kin|kin]]. Applications for renewal and extension must
   be made to the copyright office and duly registered therein within one
   year prior to the expiration of the existing term. To any work in
   which copyright subsists at the time the act went into force the act
@@ -1052,9 +1052,9 @@ as follows:--
   proprietor, and in the case of printed literary, musical or dramatic
   works, the notice must include also the year in which the copyright
   was secured by publication. In the case of works specified in 6 to 11
-  inclusive, of the classification given above, the copyright notice may
+  inclusive, of the [[Classification|classification]] given above, the copyright notice may
   consist of the letter C enclosed within a circle, thus: ©, accompanied
-  by the initials, monogram, mark or symbol of the copyright proprietor,
+  by the [[Initials|initials]], monogram, mark or symbol of the copyright proprietor,
   provided that on some accessible portion of the copy or of the margin,
   or on the back or pedestal his name appears.
 
@@ -1112,7 +1112,7 @@ as follows:--
   other person on the payment of a fixed royalty of two cents on each
   part manufactured. The act makes a clear distinction between the
   property in the copyright and that in the material object representing
-  the copyright, and enacts that the sale or conveyance of the material
+  the copyright, and enacts that the sale or [[Conveyance|conveyance]] of the material
   object shall not of itself constitute a transfer of the copyright.
   Transfer of copyright in the United States is to be effected by an
   instrument in writing signed by the proprietor of the copyright, or
@@ -1130,7 +1130,7 @@ as follows:--
   scientific or religious purposes, or for the encouragement of the fine
   arts, or to any State school, college, &c., or to free public
   libraries, when importation is for use and not for sale. The act of
-  1891 allowed "_two_ copies in any one invoice" to be imported, but by
+  1891 allowed "_two_ copies in any one [[Invoice|invoice]]" to be imported, but by
   the act of 1909 not more than _one_ copy is to be imported in one
   invoice.
 
@@ -1142,13 +1142,13 @@ July 1891, Great Britain, Belgium, France, Switzerland; 8th of March
 1892, Germany (by separate treaty); 31st of October 1892, Italy; 8th of
 May 1893, Denmark; 15th of July 1895, Spain; 20th of July 1895,
 Portugal; 27th of February 1896, Mexico; 13th of April 1896, Sweden and
-Norway; 25th of May 1896, Chile; 19th of October 1899, Costa Rica; 20th
+Norway; 25th of May 1896, [[Chile]]; 19th of October 1899, [[Costa Rica]]; 20th
 of November 1899, the kingdom of the Netherlands. In the case of each
 state the territory covered by the provisions of the law included the
 possessions, dependencies, &c. The copyright agreement with Great
 Britain therefore covered the crown colonies of the empire, including
 India and the self-governing dominions and states, such as Canada,
-Australia, &c. An American work duly entered for copyright in Great
+[[Australia]], &c. An American work duly entered for copyright in Great
 Britain secures, as a British publication secures, the protection of
 copyright under the provisions of the Bern convention throughout the
 territory of the several states that are parties to that convention.
@@ -1161,7 +1161,7 @@ than artists for their artistic productions. Pictures and illustrations,
 when included in books or newspapers, are protected by the law which
 applies to the latter, but that is a separate question. It was not until
 the reign of George II. that the legislature in England afforded any
-protection for the work of artists. The English law on artistic
+protection for the work of artists. The [[English Law|English law]] on artistic
 copyright is alone considered in this account, the American having been
 included in the section _United States_ above (18), while for other
 countries the details are so various that it is only possible to refer
@@ -1171,7 +1171,7 @@ the reader to the leading text-books.
   Engravings.
 
 The first Artists' Copyright Bill was passed in the interest of William
-Hogarth, one of the greatest of English painters, who was engraver as
+[[Hogarth]], one of the greatest of English painters, who was engraver as
 well as painter, and who devoted a considerable portion of his time to
 engraving his own works. No sooner, however, were these published than
 his market was seriously damaged by the issue of inferior copies of his
@@ -1213,7 +1213,7 @@ engraving without the express consent of the proprietor or proprietors.
 These three acts remain in force to the present day. In 1852, in an
 international copyright act, it was declared that the Engraving
 Copyright Acts collectively were intended to include prints taken by
-lithography or any other mechanical process.
+[[Lithography|lithography]] or any other mechanical process.
 
 
   Sculpture.
@@ -1311,12 +1311,12 @@ the difficulty experienced by the artist in raising the question as to
 whom the copyright shall belong to is so great, owing to the dread lest
 the mere mention of the signing of a document should cause the selling
 of the picture to fall through, that in numerous such cases the
-copyright lapses and becomes public property. Photographers are not
+copyright [[Lapse|lapses]] and becomes public property. Photographers are not
 affected by this clause, because they do not as a rule sell the
 negatives they produce, and with them the copyright lies in the
 negative. They carry on their trade in prints without the question of
 the negative arising. The picture-dealer, also, who buys a picture and
-copyright is not subjected to the same disability as the painter. The
+copyright is not subjected to the same [[Disability|disability]] as the painter. The
 picture-dealer can sell a picture without saying a word to his client as
 to the copyright, which he, nevertheless, retains intact; the provision
 is applicable only to the _first_ sale of the work, which, therefore,
@@ -1407,7 +1407,7 @@ questions, and simply enter any particulars submitted to them on their
 printed form. Some artists make a practice, when they send a picture
 away to exhibition, to fill up one of these forms, reserving the
 copyright by their entry to themselves, in the belief that, if
-accompanied by the fee required by the Hall, its entry will reserve the
+accompanied by the [[Fee|fee]] required by the Hall, its entry will reserve the
 copyright to them, oblivious of the fact that the only thing which can
 reserve the copyright to them is the possession of a document assigning
 the copyright to them by the purchaser of the picture. Another useless
@@ -1501,11 +1501,11 @@ issued. In the public interest this is a good method of dealing with
 photographs.
 
 24. The "authorship" of a photograph has been much debated in the law
-courts; and "author" was defined in _Nollage_ v. _Jackson_ (1883) as
-"the man who really represents or creates, or gives to ideas, or fancy,
-or imagination, true local habitation--the man in fact who is most
+courts; and "author" was defined in _Nollage_ v. _[[Jackson]]_ (1883) as
+"the man who really represents or creates, or gives to ideas, or [[Fancy|fancy]],
+or [[Imagination|imagination]], true local habitation--the man in fact who is most
 nearly the effective cause of the representation" (_per_ Lord Justice
-Bowen). He is not necessarily the owner of the camera, or the proprietor
+Bowen). He is not necessarily the owner of the [[Camera|camera]], or the proprietor
 of the business; it depends on the circumstances. He is essentially the
 person who groups and effectively superintends the picture. When a
 photographer takes a portrait without fee, the copyright vests in him
@@ -1516,7 +1516,7 @@ exhibition or multiplication of copies; "the bargain includes, by
 implication, an agreement that the prints taken from the negative are to
 be appropriated to the use of the customer only" (Mr Justice North in
 _Pollard_ v. _Photographic Co._, 1888). And this applies even when the
-sitter is not the actual purchaser of the negative (_Boucas_ v. _Cooke_,
+sitter is not the actual purchaser of the negative (_Boucas_ v. _[[Cooke]]_,
 1903). But in several cases the "celebrity" who has _sat_ to a
 photographer at his request and without payment has not been allowed to
 distribute his photograph to newspapers for reproduction without the
@@ -1574,8 +1574,8 @@ entirely under statutory law and consolidated and amended all previous
 enactments; it adopted the suggestions of the Imperial Conference
 (attended by representatives of Canada, Australia, South Africa, New
 Zealand and Newfoundland, other interests being covered by home
-representatives of the Foreign Office, India Office, Colonial Office and
-Board of Trade) as to providing for its extension by their declaration
+representatives of the [[Foreign Office]], India Office, Colonial Office and
+Board of Trade) as to providing for its extension by their [[Declaration|declaration]]
 to the Dominions; and with its enactment a great simplification of the
 British law of copyright came in sight, though for historical reasons
 the details given above of the law as unamended must still remain of
@@ -1611,7 +1611,7 @@ perform, or in the case of a lecture, to deliver, the work or any
 substantial part thereof in public, and, if the work is unpublished, to
 publish the work, and should include the sole right to dramatize novels
 and vice versa, and to make records, &c., by means of which a work may
-be mechanically performed." As to architecture and artistic crafts the
+be mechanically performed." As to architecture and artistic [[Craft|crafts]] the
 Conference recommended (resolution 9) that "an original work of art
 should not lose the protection of artistic copyright solely because it
 consists of, or is embodied in, a work of architecture or craftsmanship;
@@ -1631,7 +1631,7 @@ existing rights, to a power on the part of the assignee at his option
 either to purchase the full benefit of the copyright during the extended
 term, or, without acquiring the full copyright, to continue to publish
 the work on payment of royalties, the payment in either case to be fixed
-by arbitration if necessary."
+by [[Arbitration|arbitration]] if necessary."
 
 The Conference was also of opinion (resolution 4a) that, under the new
 Imperial Act, copyright should subsist only in works of which the author
@@ -1664,7 +1664,7 @@ for the protection of the public from the mishandling of an author's
 work after his death, while greater protection was given him during his
 life. From a purely business point of view, the question might well be
 whether a publisher or other party not the author should have a
-copyright at all, and whether equity would not be satisfied if copyright
+copyright at all, and whether [[Equity|equity]] would not be satisfied if copyright
 vested solely in the author and his family, with liberty to any one to
 "publish" on fair terms, consideration being had to an original
 publisher's reasonable claims and existing contracts. The advisability
@@ -1679,12 +1679,12 @@ payment of a reasonable royalty, to serve the public better.
   AUTHORITIES.--For special points see W. A. Copinger's _The Law of
   Copyright in Works of Literature and Art_, 4th ed., by J. M. Easton
   (1904); or T. E. Scrutton's _Law of Copyright_ (3rd ed., 1896). See
-  also E. J. MacGillivray, _A Treatise on the Law of Copyright_ (1902);
+  also E. J. [[Macgillivray|MacGillivray]], _A Treatise on the Law of Copyright_ (1902);
   Richard Winslow, M.A., LL.B., _The Law of Artistic Copyright_ (London,
-  1889); A. Birrell, _Copyright in Books_ (London, 1899); B. A. Cohen,
-  _Law of Copyright_ (London, 1896); L. Edmunds, _Copyright in Designs_
-  (London, 1908); Knox and Hind, _Copyright in Designs_ (London, 1899);
-  W. Briggs, _Law of International Copyright_ (1906); W. M. Colles and
+  1889); A. [[Birrell]], _Copyright in Books_ (London, 1899); B. A. Cohen,
+  _Law of Copyright_ (London, 1896); L. [[Edmunds]], _Copyright in Designs_
+  (London, 1908); [[Knox]] and Hind, _Copyright in Designs_ (London, 1899);
+  W. [[Brigg|Briggs]], _Law of International Copyright_ (1906); W. M. Colles and
   H. Hardy, _Playright and Copyright in all Countries_ (1906).
 
 

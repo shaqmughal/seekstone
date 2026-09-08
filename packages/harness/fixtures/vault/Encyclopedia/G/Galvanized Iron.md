@@ -17,7 +17,7 @@ slightly acid, containing a 10% solution of crystallized zinc sulphate,
 ZnSO4.7H2O. The resulting surface is usually duller and less lustrous
 than that obtained by the use of molten zinc. Another method of forming
 a coating of zinc, known as "sherardizing," was invented by Sherard
-Cowper-Coles, who found that metals embedded in zinc dust (a product
+Cowper-Coles, who found that metals embedded in zinc [[Dust|dust]] (a product
 obtained in zinc manufacture and consisting of metallic zinc mixed with
 a certain amount of zinc oxide) and heated to temperatures well below
 the melting point of zinc, become coated with a layer of that metal. In
@@ -26,7 +26,7 @@ with the zinc dust, which must be dry, and subjected to a heat of
 250-330 deg. C., the time for which the heating is continued depending
 on the thickness of the deposit required and varying from one-half to
 several hours. If an air-tight receptacle is not available, a small
-percentage of powdered carbon is added to the zinc-dust, to prevent
+percentage of powdered [[Carbon|carbon]] is added to the zinc-dust, to prevent
 increase in the amount of oxide, which, if present in excess, tends to
 make the deposit dull.
 

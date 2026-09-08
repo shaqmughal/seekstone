@@ -14,8 +14,8 @@ which are defended by small forts. The island is mountainous and wooded,
 and completely shelters the harbour from easterly storms. The
 surroundings are highly picturesque and tropical in character, but the
 town itself is poorly built and unattractive. Its public buildings
-include the president's official residence, arsenal, lyceum, hospital
-and some old churches. The climate is warm for the latitude, but the
+include the president's official residence, arsenal, [[Lyceum|lyceum]], hospital
+and some old churches. The climate is warm for the [[Latitude|latitude]], but the
 higher elevations of the vicinity are noted for their mild climate and
 healthfulness. There are some German colonies farther up the coast whose
 products find a market here, and a number of small settlements along the
@@ -29,7 +29,7 @@ and naval station.
 
 The island of Santa Catharina was originally settled by the Spanish;
 Cabeza de Vaca landed here in 1542 and marched hence across country to
-Asuncion, Paraguay. The Spanish failed to establish a permanent colony,
+[[Asuncion]], Paraguay. The Spanish failed to establish a permanent colony,
 however, and the Portuguese took possession. The island was captured by
 a Spanish expedition under Viceroy Zeballos in 1777. A boundary treaty
 of that same year restored it to Portugal. In 1894 Santa Catharina fell

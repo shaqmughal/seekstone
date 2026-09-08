@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Baldus_De_
 
 BALDUS DE UBALDIS, PETRUS (1327-1406), Italian jurist, a member of the
 noble family of the Ubaldi (Baldeschi), was born at Perugia in 1327, and
-studied civil law there under Bartolus, being admitted to the degree of
+studied civil law there under [[Bartolus]], being admitted to the degree of
 doctor of civil law at the early age of seventeen. Federicus Petrucius of
 Siena is said to have been the master under whom he studied canon law. Upon
 his promotion to the doctorate he at once proceeded to Bologna, where he
@@ -21,8 +21,8 @@ of Bologna. He died at Pavia on the 28th of April 1406. The extant works of
 Baldus hardly bear out the great reputation which he acquired amongst his
 contemporaries, due partly to the active part he took in public affairs,
 and partly to the fame he acquired by his consultations, of which five
-volumes have been published (Frankfort, 1589). Baldus was the master of
-Pierre Roger de Beaufort, who became pope under the title of Gregory XI.,
+volumes have been published ([[Frankfort]], 1589). Baldus was the master of
+Pierre Roger de [[Beaufort]], who became pope under the title of Gregory XI.,
 and whose immediate successor, Urban VI., summoned Baldus to Rome to assist
 him by his consultations in 1380 against the anti-pope Clement VII.
 Cardinal de Zabarella and Paulus Castrensis were also amongst his pupils.

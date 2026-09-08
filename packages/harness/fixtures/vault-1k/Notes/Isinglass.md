@@ -10,7 +10,7 @@ tags: [history]
 
 ISINGLASS (probably a corruption of the Dutch _huisenblas_, Ger.
 _Hausenblase_, literally "sturgeon's bladder"), a pure form of
-commercial gelatin obtained from the swimming bladder or sound of
+commercial [[Gelatin|gelatin]] obtained from the swimming bladder or sound of
 several species of fish. The sturgeon is the most valuable, various
 species of which, especially _Acipenser stellatus_ (the seuruga), _A.
 ruthenus_ (the sterlet) and _A. guldenstadtii_ (the ossetr), flourish in
@@ -50,9 +50,9 @@ by ordinary gelatin; it has been ascribed to its fibrous structure,
 which forms, as it were, a fine network in the liquid in which it is
 disseminated, and thereby mechanically carries down all the minute
 particles which occasion the turbidity. The cheaper varieties are more
-commonly used; many brewers prefer the Penang product; Russian leaf,
+commonly used; many [[Brewer|brewers]] prefer the Penang product; Russian leaf,
 however, is used by some Scottish brewers; and Russian long staple is
-used in the Worcestershire cider industry. Of secondary importance is
+used in the Worcestershire [[Cider|cider]] industry. Of secondary importance is
 its use for culinary and confectionery purposes, for example, in making
 jellies, stiffening jams, &c. Here it is often replaced by the so-called
 "patent isinglass," which is a very pure gelatin, and differs from

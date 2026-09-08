@@ -29,13 +29,13 @@ for the interests of the Academy, not even claiming any property in his
 own writings, which were printed in the _Recueil de l'academie des
 inscriptions_. The list of his memoirs, many of them posthumous,
 occupies four columns of the _Nouvelle Biographie generale_. They treat
-of history, chronology, geography, mythology and religion. Throughout he
+of history, chronology, [[Geography|geography]], mythology and religion. Throughout he
 appears as the keen, learned and original critic; examining into the
 comparative value of documents, distinguishing between the mythical and
 the historical, and separating traditions with an historical element
 from pure fables and legends. He rejected the extreme pretensions of the
 chronology of Egypt and China, and at the same time controverted the
-scheme of Sir Isaac Newton as too limited. He investigated the mythology
+scheme of Sir [[Isaac]] Newton as too limited. He investigated the mythology
 not only of the Greeks, but of the Celts, the Germans, the Chinese and
 the Indians. He was a vigorous opponent of the theory that the stories
 of mythology may be referred to historic originals. He also suggested

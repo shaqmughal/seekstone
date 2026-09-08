@@ -1,22 +1,22 @@
 # Banker-Marks
 
-BANKER-MARKS, or Masons' Marks. The "banker" is the stone bed or bench upon
+BANKER-MARKS, or Masons' Marks. The "banker" is the stone bed or [[Bench|bench]] upon
 which a mason works, hence the term (so well known to the trade) of
 banker-marks, which, as Mr Whitley has pointed out, is more appropriate
 than that of masons' marks, since the setters, who are usually selected
 from amongst the best workmen, make no marks upon the stone (_Leamington
-Spa Courier_, 11th of August 1888). These must not be confused with other
+Spa [[Courier]]_, 11th of August 1888). These must not be confused with other
 marks sometimes cut on stones as directions to the setters, and so used and
 employed to the present time. Banker-marks are met with throughout the
 civilized world, and in fact are to be found on all old buildings of
-consequence, ecclesiastical or otherwise. Professor T. Hayter Lewis well
+consequence, ecclesiastical or otherwise. Professor T. [[Hayter]] [[Lewis]] well
 observed, "Go where you will, in England, France, Sicily, Palestine, you
 will find all through the buildings of the 12th century the same carefully
-worked masonry, the same masons' tool-marks, the same way of making them."
+worked [[Masonry|masonry]], the same masons' tool-marks, the same way of making them."
 Such masons' marks are to be traced graved on all the chief stones of what
 is known as Norman work. Norman tooling, so far as Hayter Lewis could
 discover, came from the north and west of Europe. Since then we get marks
-made with a "toothed chisel," but however or wherever chiselled the
+made with a "toothed [[Chisel|chisel]]," but however or wherever chiselled the
 intention was the same. The system followed provided an infallible means of
 connecting the individual craftsman with his work, an evidence of identity
 that could not be gainsaid.
@@ -24,10 +24,10 @@ that could not be gainsaid.
 Naturally, because of their simplicity, certain designs were followed much
 more frequently than others, while occasionally some of a very elaborate
 character are to be detected. Undoubtedly not a few were suggestive of the
-initials of the names of the masons, and others were reminiscent of certain
+[[Initials|initials]] of the names of the masons, and others were reminiscent of certain
 animals, objects, &c., but no proof has yet been offered of their being
 alphabetical in design, or arranged so as to distinguish the members of
-different lodges or companies; the journeymen selected any design they
+different [[Lodge|lodges]] or companies; the journeymen selected any design they
 cared to adopt.
 
 Singular to state, marks were chosen by gentlemen and others [v.03 p.0319]
@@ -35,7 +35,7 @@ who joined the operative masonic lodges of the 16th and later centuries,
 and they were as carefully registered in the mark-books as those selected
 by operatives for trade purposes. The same marks are to be seen in the
 registers used by fathers and sons, and not always with a slight
-difference, as some have stated, to secure identification. What should be
+difference, as some have stated, to secure [[Identification|identification]]. What should be
 noted also is that other trades used precisely similar marks and for a like
 object, so that the idea of their having a mystical meaning, or being
 utilized for any other object but the one named, seems groundless.
@@ -43,7 +43,7 @@ utilized for any other object but the one named, seems groundless.
 The late George Godwin, F.R.S., F.S.A., &c., drew attention to the subject
 of "masons' marks in various countries" in a communication to the Society
 of Antiquaries in 1841, and also at a little later period (vide
-_Archaeologia_, vol. xxx. p. 113). To him is the credit due of first
+_Archaeologia_, vol. xxx. p. 113). To him is the [[Credit|credit]] due of first
 drawing attention to "these signs" in England. It is noteworthy how little
 such marks are noticed, even in buildings which are visited by
 archaeologists quite frequently, until a few are pointed out, and then they
@@ -69,14 +69,14 @@ interesting specimens.
 
 _A Historical Treatise on Early Builders' Marks_ (Philadelphia, U.S.A.,
 1885) by Mr G. F. Fort, and _Masons' Marks from Buildings in the Counties
-of Lancaster and Chester, with Notes on the General History of Masons'
+of [[Lancaster]] and [[Chester]], with Notes on the General History of Masons'
 Marks_ (Historic Society of Lancashire and Cheshire, vol. vii. N.S.), by W.
 Harry Rylands, F.S.A., may be consulted with advantage. The latter declares
 that "the Runic theory is as unlikely and as untenable as that which places
 the origin of these marks in the absurd alphabets given by Cornelius
-Agrippa, who died early in the 16th century." Victor Didron copied some
+Agrippa, who died early in the 16th century." Victor [[Didron]] copied some
 4000 during a tour in France in 1836 and pointed out their value (_Ann.
-Arch_., 1845).
+[[Arch]]_., 1845).
 
 (W. J. H.*)
 

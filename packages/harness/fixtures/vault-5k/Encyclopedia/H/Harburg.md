@@ -1,7 +1,7 @@
 # Harburg
 
-HARBURG, a seaport town of Germany, in the Prussian province of Hanover,
-on the left bank of the southern arm of the Elbe, 6 m. by rail S. of
+HARBURG, a seaport town of Germany, in the Prussian province of [[Hanover]],
+on the left bank of the southern arm of the [[Elbe]], 6 m. by rail S. of
 Hamburg. Pop. (1885), 26,320; (1905)--the area of the town having been
 increased since 1895--55,676. It is pleasantly situated at the foot of a
 lofty range of hills, which here dip down to the river, at the junction
@@ -13,7 +13,7 @@ was the residence of the Harburg line of the house of Brunswick, a
 high-grade modern school, a commercial school and a theatre. The leading
 industries are the crushing of palm-kernels and linseed and the
 manufacture of india-rubber, phosphates, starch, nitrate and jute.
-Machines are manufactured here; beer is brewed, and shipbuilding is
+[[Machine|Machines]] are manufactured here; beer is brewed, and shipbuilding is
 carried on. The port is accessible to vessels drawing 18 ft. of water,
 and, despite its proximity to Hamburg, its trade has of late years shown
 a remarkable development. It is the chief mart in the empire for resin

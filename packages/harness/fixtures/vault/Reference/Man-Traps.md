@@ -9,7 +9,7 @@ type: article
 
 MAN-TRAPS, mechanical devices for catching poachers and trespassers.
 They have taken many forms, the most usual being like a large rat-trap,
-the steel springs being armed with teeth which met in the victim's leg.
+the steel springs being armed with teeth which met in the victim's [[Leg|leg]].
 Since 1827 they have been illegal in England, except in houses between
 sunset and sunrise as a defence against burglars.
 

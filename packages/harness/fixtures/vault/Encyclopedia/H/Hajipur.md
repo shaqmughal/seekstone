@@ -6,8 +6,8 @@ topic: geography-theory
 
 # Hajipur
 
-HAJIPUR, a town of British India, in the Muzaffarpur district of Bengal,
-on the Gandak, just above its confluence with the Ganges opposite Patna.
+HAJIPUR, a town of British India, in the Muzaffarpur district of [[Bengal]],
+on the [[Gandak]], just above its confluence with the [[Ganges]] opposite Patna.
 Pop. (1901), 21,398. Hajipur figures conspicuously in the history of the
 struggles between Akbar and his rebellious Afghan governors of Bengal,
 being twice besieged and captured by the imperial troops, in 1572 and
@@ -22,7 +22,7 @@ railway.
 
 
 HAJJ or HADJ, the Arabic word, meaning literally a "setting out," for
-the greater pilgrimage of Mahommedans to Mecca, which takes place from
+the greater pilgrimage of Mahommedans to [[Mecca]], which takes place from
 the 8th to the 10th of the twelfth month of the Mahommedan year; the
 lesser pilgrimage, called _umrah_ or _omra_, may be made to the mosque
 at Mecca at any time other than that of the hajj proper, and is also a
@@ -37,7 +37,7 @@ Sepulchre at Jerusalem (see MECCA; MAHOMMEDAN RELIGION).
 
 HAJJI KHALIFA [in full Mustafa ibn 'Abdallah Katib Chelebi Hajji
 Khalifa] (ca. 1599-1658), Arabic and Turkish author, was born at
-Constantinople. He became secretary to the commissariat department of
+Constantinople. He became secretary to the [[Commissariat|commissariat]] department of
 the Turkish army in Anatolia, was with the army in Bagdad in 1625, was
 present at the siege of Erzerum, and returned to Constantinople in 1628.
 In the following year he was again in Bagdad and Hamadan, and in 1633 at
@@ -62,9 +62,9 @@ reproduced at Constantinople (1893).
   1697); a history of the Turkish empire from 1594 to 1655
   (Constantinople, 1870); a history of the naval wars of the Turks
   (Constantinople, 1729; chapters 1-4 translated by J. Mitchell, London,
-  1831); a general geography published at Constantinople, 1732 (Latin
-  trans. by M. Norberg, London and Gotha, 1818; German trans. of part by
-  J. von Hammer, Vienna, 1812; French trans. of part by V. de St Martin
+  1831); a general [[Geography|geography]] published at Constantinople, 1732 (Latin
+  trans. by M. Norberg, London and [[Gotha]], 1818; German trans. of part by
+  J. von Hammer, Vienna, 1812; French trans. of part by V. de St [[Martin]]
   in his _Geography of Asia Minor_, vol. 1).
 
   For his life see the preface to Flugel's edition; list of his works in

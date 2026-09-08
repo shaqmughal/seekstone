@@ -9,10 +9,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Davos"
 
 DAVOS (Romonsch _Tavau_, a name variously explained as meaning a sheep
 pasture or simply "behind"), a mountain valley in the Swiss canton of
-the Grisons, lying east of Coire (whence it is 40 m. distant by rail),
+the [[Grisons]], lying east of [[Coire]] (whence it is 40 m. distant by rail),
 and north-west of the Lower Engadine (accessible at Sus in 18 m. by
 road). It contains two main villages, 2 m. from each other, Dorfli and
-Platz (the chief hamlet), which are 5015 ft. above the sea-level, and
+Platz (the chief [[Hamlet|hamlet]]), which are 5015 ft. above the sea-level, and
 had a population in 1900 of 8089, a figure exceeded in the Grisons only
 by the capital Coire. Of the population 5391 were Protestants, 2564
 Romanists, and 81 Jews; while 6048 were German-speaking and 486
@@ -43,8 +43,8 @@ the Prattigau or Landquart valley to the north, as it was the most
 important village of the region, and in 1436 became the capital of the
 League of the Ten Jurisdictions. (See GRISONS.) It formerly contained
 many iron mines, and belonged from 1477 to 1649 to the Austrian
-Habsburgs. In 1779 Davos was visited and described by Archdeacon W.
-Coxe.     (W. A. B. C.)
+[[Habsburg|Habsburgs]]. In 1779 Davos was visited and described by [[Archdeacon]] W.
+[[Coxe]].     (W. A. B. C.)
 
 ## See also
 

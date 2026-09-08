@@ -23,7 +23,7 @@ perpendiculars are erected, and along these ordinates distances are
 taken corresponding to the related values of the other variable. The
 curve drawn through these points is the graph. A general inspection of
 the graph shows in bold relief the essential characters of the table.
-For example, if the world's production of corn over a number of years be
+For example, if the world's production of [[Corn|corn]] over a number of years be
 plotted, a poor yield is represented by a depression, a rich one by a
 peak, a uniform one over several years by a horizontal line and so on.
 Moreover, such graphs permit a convenient comparison of two or more

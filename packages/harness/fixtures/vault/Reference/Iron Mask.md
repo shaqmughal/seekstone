@@ -2,7 +2,7 @@
 
 IRON MASK (_masque de fer_). The identity of the "man in the iron mask"
 is a famous historical mystery. The person so called was a political
-prisoner under Louis XIV., who died in the Bastille in 1703. To the mask
+prisoner under Louis XIV., who died in the [[Bastille]] in 1703. To the mask
 itself no real importance attaches, though that feature of the story
 gave it a romantic interest; there is no historical evidence that the
 mask he was said always to wear was made of anything but black velvet
@@ -11,7 +11,7 @@ material into iron. As regards the "man," we have the contemporary
 official journals of Etienne du Junca (d. 1706), the king's lieutenant
 at the Bastille, from which we learn that on the 18th of September 1698
 a new governor, Benigne D'Auvergne de Saint-Mars, arrived from the
-fortress of the Isles Ste Marguerite (in the bay of Cannes), bringing
+fortress of the Isles Ste [[Marguerite]] (in the bay of Cannes), bringing
 with him "un ancien prisonnier qu'il avait a Pignerol" (Pinerolo, in
 Piedmont), whom he kept always masked and whose name remained untold.
 (Saint-Mars, it may here be noted, had been commandant at Pignerol from
@@ -36,13 +36,13 @@ mystery before he died in 1703, and soon afterwards we begin to see the
 fruit of the various legends concerning him which presumably started as
 early as 1670, when Saint-Mars himself (see below) found it necessary to
 circulate "fairy tales" (_contes jaunes_). In 1711 the Princess Palatine
-wrote to the Electress Sophia of Hanover, and suggested that he was an
-English nobleman who had taken part in a plot of the duke of Berwick
+wrote to the Electress Sophia of [[Hanover]], and suggested that he was an
+English nobleman who had taken part in a plot of the duke of [[Berwick]]
 against William III. Voltaire, in his _Siecle de Louis XIV_ (1751), told
 the story of the mysterious masked prisoner with many graphic details;
 and, under the heading of "Ana" in the _Questions sur l'encyclopedie_
-(Geneva, 1771), he asserted that he was a bastard brother of Louis XIV.,
-son of Mazarin and Anne of Austria. Voltaire's influence in creating
+([[Geneva]], 1771), he asserted that he was a [[Bastard|bastard]] brother of Louis XIV.,
+son of Mazarin and [[Anne]] of Austria. Voltaire's influence in creating
 public interest in the "man in the mask" was indeed enormous; he had
 himself been imprisoned in the Bastille in 1717 and again in 1726; as
 early as 1745 he is found hinting that he knows something; in the
@@ -51,24 +51,24 @@ conversations with de Bernaville, who succeeded Saint-Mars (d. 1708) as
 governor of the Bastille, and others; and after Heiss in 1770 had
 identified the "mask" with Mattioli (see below), Voltaire was not above
 suggesting that he really knew more than he had said, but thought it
-sufficient to have given the clue to the enigma. According to the Abbe
+sufficient to have given the [[Clue|clue]] to the [[Enigma|enigma]]. According to the Abbe
 Soulavie, the duke of Richelieu's advice was to reflect on Voltaire's
 "last utterances" on the subject. In Soulavie's _Memoires_ of Richelieu
 (London, 1790) the masked man becomes (on the authority of an apocryphal
 note by Saint-Mars himself) the legitimate twin brother of Louis XIV. In
 1801 the story went that this scion of the royal house of France had a
-son born to him in prison, who settled in Corsica under the name of "De
+son born to him in prison, who settled in [[Corsica]] under the name of "De
 Buona Parte," and became the ancestor of Napoleon! Dumas's _Vicomte de
 Bragelonne_ afterwards did much to popularize the theory that he was the
-king's brother. Meanwhile other identifications, earlier or later, were
+king's brother. Meanwhile other [[Identification|identifications]], earlier or later, were
 also supported, in whose case the facts are a sufficient refutation. He
 was Louis, count of Vermandois, son of Louise de la Valliere (_Memoires
 secrets pour servir a l'histoire de Perse_, Amsterdam, 1745);
 Vermandois, however, died in 1683. He was the duke of Monmouth (_Lettre
 de Sainte Foy_ ... Amsterdam, 1768), although Monmouth was beheaded in
-1685. He was Francois de Vendome, duke of Beaufort, who disappeared (and
+1685. He was Francois de Vendome, duke of [[Beaufort]], who disappeared (and
 pretty certainly died) at the siege of Candia (1669); Avedick, an
-Armenian patriarch seized by the Jesuits, who was not imprisoned till
+Armenian patriarch seized by the [[Jesuits]], who was not imprisoned till
 1706 and died in 1711; Fouquet, who undoubtedly died at Pignerol in
 1680; and even, according to A. Loquin (1883), Moliere!
 
@@ -88,10 +88,10 @@ remains for supporters of Dauger, because his identity and the reason
 for his incarceration are quite obscure.
 
   It need only be added, so far as other modern theories are concerned,
-  that in 1873 M. Jung (_La Verite sur la masque de fer_) had brought
+  that in 1873 M. [[Jung]] (_La Verite sur la masque de fer_) had brought
   forward another candidate, with the attractive name of "Marechiel," a
-  soldier of Lorraine who had taken part in a poisoning plot against
-  Louis XIV., and was arrested at Peronne by Louvois in 1673, and said
+  soldier of [[Lorraine]] who had taken part in a poisoning plot against
+  Louis XIV., and was arrested at Peronne by [[Louvois]] in 1673, and said
   to be lodged in the Bastille and then sent to Pignerol. But Jung's
   arguments, though strong destructively against the Mattioli theory,
   break down as regards any valid proof either that the prisoner
@@ -99,10 +99,10 @@ for his incarceration are quite obscure.
   ever at Pignerol, where indeed we find no trace of him. Another
   theory, propounded by Captain Bazeries (_La Masque de fer_, 1883),
   identified the prisoner with General du Bulonde, punished for
-  cowardice at the siege of Cuneo; but Bulonde only went to Pignerol in
+  cowardice at the siege of [[Cuneo]]; but Bulonde only went to Pignerol in
   1691, and has been proved to be living in 1705.
 
-_The Mattioli Theory._--Ercole Antonio Mattioli (born at Bologna on the
+_The Mattioli Theory._--Ercole [[Antonio]] Mattioli (born at Bologna on the
 1st of December 1640) was minister of Charles IV., duke of Mantua, who
 as marquess of Montferrat was in possession of the frontier fortress of
 Casale, which was coveted by Louis XIV. He negotiated the sale of Casale
@@ -114,7 +114,7 @@ Spain, Venice and Savoy. Louis, in revenge, had him kidnapped (1679) by
 the French envoy, J. F. d'Estrades, abbe of Moissac, and Mattioli was
 promptly lodged in the fortress of Pignerol. This kidnapping of
 Mattioli, however, was no secret, and it was openly discussed in _La
-Prudenza trionfante di Casale_ (Cologne, 1682), where it was stated that
+Prudenza trionfante di Casale_ ([[Cologne]], 1682), where it was stated that
 Mattioli was masked when he was arrested. In February 1680 he is
 described as nearly mad, no doubt from the effects of solitary
 confinement. When Saint-Mars was made governor of Exiles in 1681 we know
@@ -133,7 +133,7 @@ undoubtedly had a valet at Pignerol, and nobody else at Ste Marguerite
 is known at this time to have had one; so that he may well have been the
 prisoner who died. In that case he was clearly not "the mask" of 1698
 and 1703. Funck-Brentano's attempt to prove that Mattioli did _not_ die
-in 1604 is far from convincing; but the assumption that he did is
+in 1604 is far from convincing; but the [[Assumption|assumption]] that he did is
 inferential, and to that extent arguable. "Marchioly" in the burial
 register of Saint Paul naturally suggests indeed at first that the
 "ancien prisonnier" taken by Saint-Mars to the Bastille in 1698 was
@@ -142,7 +142,7 @@ his letters; but further consideration leaves this argument decidedly
 weak. In any case the age stated in the burial register, "about 45," was
 fictitious, whether for Mattioli (63) or Dauger (at least 53); and, as
 Lair points out, Saint-Mars is known to have given false names at the
-burial of other prisoners. Monsignor Barnes, in _The Man of the Mask_
+burial of other prisoners. Monsignor [[Barnes]], in _The Man of the Mask_
 (1908), takes the entry "Marchioly" as making it certain that the
 prisoner was not Mattioli, on the ground (1) that the law[2] explicitly
 ordered a false name to be given, and (2) that after hiding his identity
@@ -166,7 +166,7 @@ Pignerol that he is sending him "le nomme Eustache Dauger" (Dauger,
 D'Angers--the spelling is doubtful),[3] whom it is of the last
 importance to keep with special closeness; Saint-Mars is to threaten him
 with death if he speaks about anything except his actual needs. On the
-same day Louvois orders Vauroy, major of the citadel of Dunkirk, to
+same day Louvois orders Vauroy, [[Major|major]] of the citadel of Dunkirk, to
 seize Dauger and conduct him to Pignerol. Saint-Mars writes to Louvois
 (Aug. 21) that Vauroy had brought Dauger, and that people "believe him
 to be a marshal of France." Louvois (March 26, 1670) refers to a report
@@ -194,7 +194,7 @@ again transferred, in May 1687, to Ste Marguerite, he takes his
 "prisoner" (apparently he now has only one--Dauger) with great show of
 caution; and next year (Jan. 8, 1688) he writes to Louvois that "mon
 prisonnier" is believed "in all this province" to be a son of Oliver
-Cromwell, or else the duke of Beaufort (a point which at once rules out
+[[Cromwell]], or else the duke of Beaufort (a point which at once rules out
 Beaufort). In 1691 Louvois's successor, Barbezieux, writes to him about
 his "prisonnier de vingt ans" (Dauger was first imprisoned in 1669,
 Mattioli in 1679), and Saint-Mars replies that "nobody has seen him but
@@ -215,9 +215,9 @@ Dauger. But in spite of du Junca's emphasis on the mask, it is in
 reality very questionable whether the wearing of a mask was an unusual
 practice. It was one obvious way of enabling a prisoner to appear in
 public (for exercise or in travelling) without betrayal of identity.
-Indeed three years before the arrival of Saint-Mars we hear (_Gazette
+Indeed three years before the arrival of Saint-Mars we hear (_[[Gazette]]
 d'Amsterdam_, March 14, 1695) of another masked man being brought to the
-Bastille, who eventually was known to be the son of a Lyons banker.
+Bastille, who eventually was known to be the son of a [[Lyons]] banker.
 
 Who then was Dauger, and what was his "past"? We will take first a
 theory propounded by Andrew Lang in _The Valet's Tragedy_ (1903). As the
@@ -226,12 +226,12 @@ in London[5] Mr Lang finds a clue in the affairs of the French Huguenot,
 Roux de Marsilly, the secret agent for a Protestant league against
 France between Sweden, Holland, England and the Protestant cantons of
 Switzerland, who in February 1669 left London, where he had been
-negotiating with Arlington (apparently with Charles II.'s knowledge),
-for Switzerland, his confidential valet Martin remaining behind. On the
+negotiating with [[Arlington]] (apparently with Charles II.'s knowledge),
+for Switzerland, his confidential valet [[Martin]] remaining behind. On the
 14th of April 1669 Marsilly was kidnapped for Louis XIV. in Switzerland,
-in defiance of international right, taken to Paris and on the 22nd of
+in defiance of [[International|international]] right, taken to Paris and on the 22nd of
 June tortured to death on a trumped-up charge of rape. The duke of York
-is said to have betrayed him to Colbert, the French ambassador in
+is said to have betrayed him to [[Colbert]], the French ambassador in
 London. The English intrigue was undoubtedly a serious matter, because
 the shifty Charles II. was at the same time negotiating with Louis XIV.
 a secret alliance against Holland, in support of the restoration of
@@ -301,7 +301,7 @@ have so far taken such good measures for avoiding inconvenience that I
 leave it to you to adopt whatever course is necessary." There are then
 no letters in existence from Saint-Mars to Louvois up to Louvois's
 letter of July 19, in which he first refers to Dauger; and for three
-months (from April 22 to July 19) there is a gap in the correspondence,
+months (from April 22 to July 19) there is a [[Gap|gap]] in the correspondence,
 so that the sequence is obscure. The portion, however, of the letter of
 the 19th of July, cited above, in which Louvois uses the words "ce n'est
 qu'un valet," does not, in the present writer's judgment, refer to
@@ -365,7 +365,7 @@ Fouquet's old doctor, Pecquet, was not to be allowed to serve him "soit
 dans sa profession, soit dans le mestier d'un simple valet." The fact
 was that Saint-Mars was hard put to it in the prison for anybody who
 could be trusted, and that he had convinced himself by this time that
-Dauger (who had proved a quiet harmless fellow) would give no trouble.
+Dauger (who had proved a quiet harmless [[Fellow|fellow]]) would give no trouble.
 Probably he wanted to give him some easy employment, and save him from
 going mad in confinement. It is worth noting that up to 1672 (when
 Saint-Mars suggested utilizing Dauger as valet to Lauzun) none of the
@@ -387,7 +387,7 @@ the citadel, and is only to go out walking with Fouquet and La Riviere
 when they promenade in the special part of the fortress previously set
 apart for them (Louvois's letter to Saint-Mars, Jan. 30, 1670).
 
-_Was Dauger James de la Cloche?_ In _The Man of the Mask_ (1908)
+_Was Dauger James de [[La Cloche|la Cloche]]?_ In _The Man of the Mask_ (1908)
 Monsignor Barnes, while briefly dismissing Mr Lang's identification with
 Martin, and apparently not realizing the possibility of reading
 Louvois's letter of July 19, 1669, as indicated above[6] deals in detail
@@ -416,7 +416,7 @@ identified by Monsignor Barnes with a certain Abbe Pregnani, an
 towards the French alliance. Pregnani, however, made a bad start by
 "tipping winners" at Newmarket with disastrous results, and was quickly
 recalled to France, actually departing on July 5th (French 15th). But he
-too now disappears, though a letter from Lionne (the French foreign
+too now disappears, though a letter from [[Lionne]] (the French foreign
 secretary) to Colbert of July 17 (two days before Louvois's letter to
 Saint-Mars about Dauger) says that he is expected in Paris. Monsignor
 Barnes's theory is that Pregnani _alias_ James de la Cloche, without the
@@ -453,15 +453,15 @@ not James de la Cloche. The fact nevertheless that he was employed as a
 valet, even in special circumstances, for Fouquet, makes it difficult to
 believe that Dauger was a man of any particular social standing. We may
 be forced to conclude that the interest of the whole affair, so far as
-authentic history is concerned, is really nugatory, and that the
-romantic imagination has created a mystery in a fact of no importance.
+[[Authentic|authentic]] history is concerned, is really nugatory, and that the
+romantic [[Imagination|imagination]] has created a mystery in a fact of no importance.
 
   AUTHORITIES.--The correspondence between Saint-Mars and Louvois is
   printed by J. Delort in _Histoire de la detention des philosophes_
   (1829). Apart from the modern studies by Lair, Funck-Brentano, Lang
   and Barnes, referred to above, there is valuable historical matter in
   the work of Roux-Fazaillac, _Recherches historiques sur l'homme au
-  masque de fer_ (1801); see also Marius Topin, _L'Homme au masque de
+  masque de fer_ (1801); see also [[Marius]] Topin, _L'Homme au masque de
   fer_ (Paris, 1870), and Loiseleur, _Trois Enigmes historiques_ (1882).
        (H. Ch.)
 

@@ -28,7 +28,7 @@ take whatever presents were made to him. No royal favourite was ever
 more amply trusted, or made a worse use of power. At a time when the
 state was practically bankrupt, he encouraged the king in extravagance,
 and accumulated for himself a fortune estimated by contemporaries at
-forty-four millions of ducats. Lerma was pious withal, spending largely
+forty-four millions of [[Ducat|ducats]]. Lerma was pious withal, spending largely
 on religious houses, and he carried out the ruinous measures for the
 expulsion of the Moriscoes in 1610--a policy which secured him the
 admiration of the clergy and was popular with the mass of the nation. He

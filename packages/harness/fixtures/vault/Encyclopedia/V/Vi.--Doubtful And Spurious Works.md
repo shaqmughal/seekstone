@@ -11,14 +11,14 @@ VI.--DOUBTFUL AND SPURIOUS WORKS
 Bach's autographs give the name of the composer on the outside sheet only.
 He was constantly making copies of all that interested him; and where the
 outside sheet is lost, only the music itself can tell us whether it is his
-or not. The above-mentioned _Passion according to St Luke_ is the chief
+or not. The above-mentioned _Passion according to St [[Luke]]_ is the chief
 case in point. The little music-books he and his second wife wrote for
 their children are full of pieces in the most various styles, and the
 editors of the _Bach-Gesellschaft_ have not completely identified them,
 even Couperin's well-known "Les Bergeries" escaping their scrutiny. A
 sonata for two claviers by Bach's eldest son, Wilhelm Friedermann, was
 detected by the editors after its inclusion in _Jahrgang_ xliv. The second
-of the 3 sonatas for clavier and flute is extremely suggestive of Bach's
+of the 3 sonatas for clavier and [[Flute|flute]] is extremely suggestive of Bach's
 sons, but Philipp Emanuel ascribes it to his father. However, he might
 easily have docketed it wrongly while arranging copies of his father's
 works. It has a twin brother (_B.-G._ ix. Anhang ii.) for which he has not

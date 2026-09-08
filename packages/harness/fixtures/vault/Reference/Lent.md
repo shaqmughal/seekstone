@@ -4,11 +4,11 @@ LENT (O. Eng. _lencten_, "spring," M. Eng. _lenten_, _lente_, _lent_;
 cf. Dut. _lente_, Ger. _Lenz_, "spring," O. H. Ger. _lenzin_,
 _lengizin_, _lenzo_, probably from the same root as "long" and referring
 to "the lengthening days"), in the Christian Church, the period of
-fasting preparatory to the festival of Easter. As this fast falls in the
+[[Fasting|fasting]] preparatory to the festival of [[Easter]]. As this fast falls in the
 early part of the year, it became confused with the season, and
 gradually the word Lent, which originally meant spring, was confined to
 this use. The Latin name for the fast, _Quadragesima_ (whence Ital.
-_quaresima_, Span. _cuaresma_ and Fr. _carême_), and its Gr. equivalent
+_quaresima_, Span. _cuaresma_ and Fr. _[[Car|car]]ême_), and its Gr. equivalent
 [Greek: tessarakostê] (now superseded by the term [Greek: hê nêsteia]
 "the fast"), are derived from the Sunday which was the fortieth day
 before Easter, as _Quinquagesima_ and _Sexagesima_ are the fiftieth and
@@ -17,12 +17,12 @@ or first day of the fast.
 
 The length of this fast and the rigour with which it has been observed
 have varied greatly at different times and in different countries (see
-FASTING). In the time of Irenaeus the fast before Easter was very short,
-but very severe; thus some ate nothing for forty hours between the
+FASTING). In the time of [[Irenaeus]] the fast before Easter was very short,
+but very severe; thus some [[Ate|ate]] nothing for forty hours between the
 afternoon of Good Friday and the morning of Easter. This was the only
 authoritatively prescribed fast known to Tertullian (_De jejunio_, 2,
 13, 14; _De oratione_, 18). In Alexandria about the middle of the 3rd
-century it was already customary to fast during Holy Week; and earlier
+century it was already customary to fast during [[Holy Week]]; and earlier
 still the Montanists boasted that they observed a two weeks' fast
 instead of one. Of the Lenten fast or Quadragesima, the first mention is
 in the fifth canon of the council of Nicaea (325), and from this time it
@@ -48,11 +48,11 @@ Rome-Alexandria had become stereotyped in their respective spheres of
 influence.
 
 The thirty-six days, as forming a tenth part of the year and therefore a
-perfect number, at first found a wide acceptance (so Cassianus, _Coll._
+perfect number, at first found a wide acceptance (so [[Cassianus]], _Coll._
 xxi. 30); but the inconsistency of this period with the name
 Quadragesima, and with the forty days' fast of Christ, came to be noted,
 and early in the 7th century four days were added, by what pope is
-unknown, Lent in the West beginning henceforth on Ash Wednesday (q.v.).
+unknown, Lent in the West beginning henceforth on [[Ash Wednesday]] (q.v.).
 About the same time the cycle of paschal solemnities was extended to the
 ninth week before Easter by the institution of stational masses for
 Septuagesima, Sexagesima and Quinquagesima Sundays. At Constantinople,
@@ -71,16 +71,16 @@ megalê hebdomas]) not being reckoned in. The Lenten fast was retained at
 the Reformation in some of the reformed Churches, and is still observed
 in the Anglican and Lutheran communions. In England a Lenten fast was
 first ordered to be observed by Earconberht, king of Kent (640-664). In
-the middle ages, meat, eggs and milk were forbidden in Lent not only by
+the middle ages, [[Meat|meat]], [[Egg|eggs]] and milk were forbidden in Lent not only by
 ecclesiastical but by statute law; and this rule was enforced until the
 reign of william III. The chief Lenten food from the earliest days was
 fish, and entries in the royal household accounts of Edward III. show
 the amount of fish supplied to the king. Herring-pies were a great
 delicacy. Charters granted to seaports often stipulated that the town
-should send so many herrings or other fish to the king annually during
+should send so many [[Herrings|herrings]] or other fish to the king annually during
 Lent. How severely strict medieval abstinence was may be gauged from the
-fact that armies and garrisons were sometimes, in default of
-dispensations, as in the case of the siege of Orleans in 1429, reduced
+fact that armies and [[Garrison|garrisons]] were sometimes, in [[Default|default]] of
+[[Dispensation|dispensations]], as in the case of the siege of Orleans in 1429, reduced
 to starvation for want of Lenten food, though in full possession of meat
 and other supplies. The battle of the Herrings (February 1429) was
 fought in order to cover the march of a convoy of Lenten food to the
@@ -92,15 +92,15 @@ fasting was generally relaxed and it was found necessary to reassert the
 obligation of keeping Lent and the other periods and days of abstinence
 by a series of proclamations and statutes. In these, however, the
 religious was avowedly subordinate to a political motive, viz. to
-prevent the ruin of the fisheries, which were the great nursery of
+prevent the ruin of the [[Fisheries|fisheries]], which were the great nursery of
 English seamen. Thus the statute of 2 and 3 Edward VI., cap. 9 (1549),
 while inculcating that "due and godly abstinence from flesh is a means
 to virtue," adds that "by the eating of fish much flesh is saved to the
 country," and that thereby, too, the fishing trade is encouraged. The
 statute, however, would not seem to have had much effect; for in spite
 of a proclamation of Queen Elizabeth in 1560 imposing a fine of £20 for
-each offence on butchers slaughtering animals during Lent, in 1563 Sir
-William Cecil, in _Notes upon an Act for the Increase of the Navy_, says
+each offence on [[Butcher|butchers]] slaughtering animals during Lent, in 1563 Sir
+William [[Cecil]], in _Notes upon an Act for the Increase of the Navy_, says
 that "in old times no flesh at all was eaten on fish days; even the king
 himself could not have license; which was occasion of eating so much
 fish as now is eaten in flesh upon fish days." The revolt against fish
@@ -114,7 +114,7 @@ that three fish dishes were present on the table. The kind of argument
 by which Cecil overcame the Protestant temper of the parliament is
 illustrated by a clause which he had meditated adding to the statute, a
 draft of which in his own handwriting is preserved: "Because no person
-should misjudge the intent of the statute," it runs, "which is politicly
+should misjudge the [[Intent|intent]] of the statute," it runs, "which is politicly
 meant only for the increase of fishermen and mariners, and not for any
 superstition for choice of meats; whoever shall preach or teach that
 eating of fish or forbearing of flesh is for the saving of the soul of
@@ -122,10 +122,10 @@ man, or for the service of God, shall be punished as the spreader of
 false news" (Dom. MSS., Elizabeth, vol. xxvii.). But in spite of
 statutes and proclamations, of occasional severities and of the
 patriotic example of Queen Elizabeth, the practice of fasting fell more
-and more into disuse. Ostentatious avoidance of a fish-diet became,
+and more into disuse. Ostentatious [[Avoidance|avoidance]] of a fish-diet became,
 indeed, one of the outward symbols of militant Protestantism among the
 Puritans. "I have often noted," writes John Taylor, the water-poet, in
-his _Jack a Lent_ (1620), "that if any superfluous feasting or
+his _[[Jack]] a Lent_ (1620), "that if any superfluous feasting or
 gormandizing, paunch-cramming assembly do meet, it is so ordered that it
 must be either in Lent, upon a Friday, or a fasting: for the meat does
 not relish well except it be sauced with disobedience and comtempt of
@@ -138,7 +138,7 @@ proclamation ordering abstention from meat; but, after the Revolution,
 the Lenten laws fell obsolete, though they remained on the statute-book
 till repealed by the Statute Law Revision Act 1863. But during the 18th
 century, though the strict observance of the Lenten fast was generally
-abandoned, it was still observed and inculcated by the more earnest of
+abandoned, it was still observed and inculcated by the more [[Earnest|earnest]] of
 the clergy, such as William Law and John Wesley; and the custom of women
 wearing mourning in Lent, which had been followed by Queen Elizabeth and
 her court, survived until well into the 19th century. With the growth of

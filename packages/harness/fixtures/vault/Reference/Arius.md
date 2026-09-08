@@ -10,7 +10,7 @@ ARIUS ([Greek: Areios]), a name celebrated in ecclesiastical history,
 not so much on account of the personality of its bearer as of the
 "Arian" controversy which he provoked. Our knowledge of Arius is scanty,
 and nothing certain is known of his birth or of his early training.
-Epiphanius of Salamis, in his well-known treatise against eighty
+[[Epiphanius]] of Salamis, in his well-known treatise against eighty
 heresies (_Haer._ lxix. 3), calls him a Libyan by birth, and if the
 statement of Sozomen, a church historian of the 5th century, is to be
 trusted, he was, as a member of the Alexandrian church, connected with
@@ -19,7 +19,7 @@ excommunicated by Peter of Alexandria, who had ordained him deacon.
 After the death of Peter (November 25, 311), he was received into
 communion by Peter's successor, Achillas, elevated to the presbytery,
 and put in charge of one of the great city churches, Baucalis, where he
-continued to discharge his duties with apparent faithfulness and
+continued to [[Discharge|discharge]] his duties with apparent faithfulness and
 industry after the accession of Alexander. This bishop also held him in
 high repute. Theodoret (_Hist. Eccl._ i. 2) indeed does not hesitate to
 say that Arius was chagrined because Alexander, instead of himself, had
@@ -55,11 +55,11 @@ a divine essence; nor was he "perfect God," for the divine essence having
 become a person was other than the One God, and of a nature foreign to
 him. It is this idea which Arius took up and interpreted unintelligently.
 His doctrinal position is explained in his letters to his patron
-Eusebius, bishop of the imperial city of Nicomedia, and to Alexander of
+[[Eusebius]], bishop of the imperial city of Nicomedia, and to Alexander of
 Alexandria, and in the fragments of the poem in which he set forth his
 dogmas, which bears the enigmatic title of "Thalia" ([Greek: Thaleia]),
-used in Homer, in the sense of "a goodly banquet," most unjustly
-ridiculed by Athanasius as an imitation of the licentious style of the
+used in [[Homer]], in the sense of "a goodly banquet," most unjustly
+ridiculed by [[Athanasius]] as an imitation of the licentious style of the
 drinking-songs of the Egyptian Sotades (270 B.C.). From these writings it
 can even nowadays be seen clearly that the principal object which he had
 in view was firmly to establish the unity and simplicity of the eternal
@@ -71,13 +71,13 @@ hand, Arius affirmed of the Son that he was "perfect God, only-begotten"
 ([Greek: plaeraes theos monogenaes]); that through him God made the
 worlds ([Greek: aiones], ages); that he was the product or offspring of
 the Father, and yet not as one among things made ([Greek: gennaema all
-ouch ton gegenaemenon]). In his eyes it was blasphemy when he heard that
+ouch ton gegenaemenon]). In his eyes it was [[Blasphemy|blasphemy]] when he heard that
 Alexander proclaimed in public that "as God is eternal, so is his
 Son,--when the Father, then the Son,--the Son is present in God without
 birth ([Greek: agennaetos]), ever-begotten ([Greek: aeigenaes]), an
 unbegotten-begotten ([Greek: agennaetogenaes])." He detected in his
-bishop Gnosticism, Manichaeism and Sabellianism, and was convinced that
-he himself was the champion of pure doctrine against heresy. He was quite
+bishop [[Gnosticism]], Manichaeism and Sabellianism, and was convinced that
+he himself was the [[Champion|champion]] of pure doctrine against heresy. He was quite
 unconscious that his own monotheism was hardly to be distinguished from
 that of the pagan philosophers, and that his Christ was a demi-god.
 
@@ -102,7 +102,7 @@ behalf. But Alexander too was active; by means of a circular letter he
 published abroad the excommunication of his presbyter, and the
 controversy excited more and more general interest.
 
-It reached even the ears of Constantine. Now sole emperor, he saw in the
+It reached even the [[Ear|ears]] of Constantine. Now sole emperor, he saw in the
 one Catholic church the best means of counteracting the movement in his
 vast empire towards disintegration; and he at once realized how
 dangerous dogmatic squabbles might prove to its unity. His letter,
@@ -124,7 +124,7 @@ Constantine accepted the decision of the council and resolved to uphold
 it. Arius and the two bishops of Marmarica Ptolemais, who refused to
 subscribe the creed, were excommunicated and banished to Illyria, and
 even Eusebius of Nicomedia, who accepted the creed, but not its
-anathemas, was exiled to Gaul. Alexander returned to his see triumphant,
+anathemas, was exiled to [[Gaul]]. Alexander returned to his see triumphant,
 but died soon after, and was succeeded by Athanasius (q.v.), his deacon,
 with whose indomitable fortitude and strange vicissitudes the further
 course of the controversy is bound up.
@@ -132,7 +132,7 @@ course of the controversy is bound up.
 It only remains for us here to sketch what is known of the future career
 of Arius and the Arians. Although defeated at the council of Nicaea, the
 Arians were by no means subdued. Constantine, while strongly disposed at
-first to enforce the Nicene decrees, was gradually won to a more
+first to enforce the Nicene [[Decree|decrees]], was gradually won to a more
 conciliatory policy by the influence especially of Eusebius of Caesarea
 and Eusebius of Nicomedia, the latter of whom returned from exile in 328
 and won the ear of the emperor, whom he baptized on his death-bed. In
@@ -183,11 +183,11 @@ a definite party outside it.
   may be found in the following books:--H.M. Gwatkin, _Studies of
   Arianism_ (2nd edit., Cambridge, 1900); A. Harnack, _History of Dogma_
   (Eng. trans., 1894-1899); J.F. Bethune-Baker, _An Introduction to the
-  Early History of Christian Doctrine_ (London, 1903); W. Bright, _The
+  Early History of Christian Doctrine_ (London, 1903); W. [[Bright]], _The
   Age of the Fathers_ (London, 1903). Cardinal Newman's celebrated
   _Arians of the Fourth Century_ is interesting more from the
   controversial than from the historical point of view. See also Paavo
-  Snellman, _Der Anfang des arianischen Streites_ (Helsingfors, 1904);
+  Snellman, _Der Anfang des arianischen Streites_ ([[Helsingfors]], 1904);
   Sigismund Rogala, _Die Anfange des arianischen Streites_ (Paderborn,
   1907).     (G. K.)
 

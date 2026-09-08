@@ -19,24 +19,24 @@ _Trimontium_ was situated here is matter of controversy. According to
 General William Roy (1726-1790) Trimontium--so called, according to this
 theory, from the triple Eildon heights--was Old Melrose; other
 authorities incline to place the station on the northern shore of the
-Solway Firth. The Eildons have been the subject of much legendary lore.
+Solway Firth. The Eildons have been the subject of much legendary [[Lore|lore]].
 Michael Scot (1175-1234), acting as a confederate of the Evil One (so
 the fable runs) cleft Eildon Hill, then a single cone, into the three
-existing peaks. Another legend states that Arthur and his knights sleep
+existing peaks. Another legend states that Arthur and his [[Knight|knights]] sleep
 in a vault beneath the Eildons. A third legend centres in Thomas of
-Erceldoune. The Eildon Tree Stone, a large moss-covered boulder, lying
-on the high road as it bends towards the west within 2 m. of Melrose,
+Erceldoune. The Eildon Tree Stone, a large moss-covered [[Boulder|boulder]], lying
+on the high road as it [[Bend|bends]] towards the west within 2 m. of Melrose,
 marks the spot where the Fairy Queen led him into her realms in the
 heart of the hills. Other places associated with this legend may still
 be identified. Huntly Banks, where "true Thomas" lay and watched the
 queen's approach, is half a mile west of the Eildon Tree Stone, and on
-the west side of the hills is Bogle Burn, a streamlet that feeds the
+the west side of the hills is Bogle [[Burn]], a streamlet that feeds the
 Tweed and probably derives its name from his ghostly visitor. Here, too,
 is Rhymer's glen, although the name was invented by Sir Walter Scott,
 who added the dell to his Abbotsford estate. Bowden, to the south of the
 hills, was the birthplace of the poets Thomas Aird (1802-1876) and James
-Thomson, and its parish church contains the burial-place of the dukes of
-Roxburghe. Eildon Hall is a seat of the duke of Buccleuch.
+Thomson, and its parish church contains the burial-place of the [[Dukes|dukes]] of
+Roxburghe. Eildon Hall is a seat of the duke of [[Buccleuch]].
 
 ## See also
 

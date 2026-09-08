@@ -16,7 +16,7 @@ oriental languages to the king, and joint-librarian at the Escorial. In
 1763 he became principal librarian, a post which he appears to have held
 till his death in 1791. Casiri published a work entitled _Bibliotheca
 Arabico-Hispana Escurialensis_ (2 vols., Madrid, 1760-1770). It is a
-catalogue of above 1800 Arabic MSS., which he found in the library of
+[[Catalogue|catalogue]] of above 1800 Arabic MSS., which he found in the library of
 the Escorial; it also contains a number of quotations from Arabic works
 on history. The MSS. are classified according to subjects; the second
 volume gives an account of a large collection of geographical and

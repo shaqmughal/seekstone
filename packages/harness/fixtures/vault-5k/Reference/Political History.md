@@ -30,9 +30,9 @@ Byzantine empire.
 
 _The Bulgars._--The Bulgars, a Turanian race akin to the Tatars, Huns,
 Avars, Petchenegs and Finns, made their appearance on the banks of the
-Pruth in the latter part of the 7th century. They were a horde of wild
+Pruth in the latter part of the 7th century. They were a [[Horde|horde]] of wild
 horsemen, fierce and barbarous, practising polygamy, and governed
-despotically by their _khans_ (chiefs) and _boyars_ or _bolyars_ (nobles).
+despotically by their _[[Khan|khans]]_ (chiefs) and _boyars_ or _bolyars_ (nobles).
 Their original abode was the tract between the Ural mountains and the
 Volga, where the kingdom of Great (or Black) Bolgary existed down to the
 13th century. In 679, under their khan Asparukh (or Isperikh), they crossed
@@ -41,7 +41,7 @@ advanced to the gates of Constantinople and Salonica. The East Roman
 emperors were compelled to cede to them the province of Moesia and to pay
 them an annual tribute. The invading horde was not numerous, and during the
 next two centuries it became gradually merged in the Slavonic population.
-Like the Franks in Gaul the Bulgars gave their name and a political
+Like the [[Frank|Franks]] in [[Gaul]] the Bulgars gave their name and a political
 organization to the more civilized race which they conquered, but adopted
 its language, customs and local institutions. Not a trace of the Ugrian or
 Finnish element is to be found in the Bulgarian speech. This complete
@@ -57,11 +57,11 @@ extended from the Carpathians to the neighbourhood of Adrianople; Serdica
 Preslav, the Bulgarian capital, was attacked and burned by the emperor
 Nicephorus, but the Greek army on its return was annihilated in one of the
 Balkan passes; the emperor was slain, and his skull was converted by Krum
-into a goblet. The reign of Boris (852-884) is memorable [v.04 p.0780] for
-the introduction of Christianity into Bulgaria. Two monks of Salonica, SS.
+into a [[Goblet|goblet]]. The reign of Boris (852-884) is memorable [v.04 p.0780] for
+the introduction of Christianity into [[Bulgaria]]. Two monks of Salonica, SS.
 Cyril and Methodius, are generally reverenced as the national apostles; the
 scene of their labours, however, was among the Slavs of Moravia, and the
-Bulgars were evangelized by their disciples. Boris, finding himself
+Bulgars were evangelized by their [[Disciple|disciples]]. Boris, finding himself
 surrounded by Christian states, decided from political motives to abandon
 paganism. He was baptized in 864, the emperor Michael III. acting as his
 sponsor. It was at this time that the controversies broke out which ended
@@ -80,7 +80,7 @@ Voden and Prespa successively, and finally to Ochrida.
 _The First Empire._--The national power reached its zenith under Simeon
 (893-927), a monarch distinguished in the arts of war and peace. In his
 reign, says Gibbon, "Bulgaria assumed a rank among the civilized powers of
-the earth." His dominions extended from the Black Sea to the Adriatic, and
+the earth." His dominions extended from the [[Black Sea]] to the Adriatic, and
 from the borders of Thessaly to the Save and the Carpathians. Having become
 the most powerful monarch in eastern Europe, Simeon assumed the style of
 "Emperor and Autocrat of all the Bulgars and Greeks" (_tsar i samodrzhetz
@@ -130,10 +130,10 @@ Terterovtzi, who ruled at Trnovo, and the Shishmanovtzi, who founded an
 independent state at Vidin, but afterwards reigned in the national capital.
 Eventually, on the 28th June 1330, a day commemorated with sorrow in
 Bulgaria, Tsar Michael Shishman was defeated and slain by the Servians,
-under Stephen Urosh III., at the battle of Velbuzhd (Kiustendil). Bulgaria,
+under Stephen Urosh III., at the battle of Velbuzhd ([[Kiustendil]]). Bulgaria,
 though still retaining its native rulers, now became subject to Servia, and
 formed part of the short-lived empire of Stephen Dushan (1331-1355). The
-Servian hegemony vanished after the death of Dushan, and the Christian
+Servian [[Hegemony|hegemony]] vanished after the death of Dushan, and the Christian
 races of the Peninsula, distracted by the quarrels of their petty princes,
 fell an easy prey to the advancing might of the Moslem invader.
 
@@ -141,8 +141,8 @@ _The Turkish Conquest._--In 1340 the Turks had begun to ravage the valley
 of the Maritza; in 1362 they captured Philippopolis, and in 1382 Sofia. In
 1366 Ivan Shishman III., the last Bulgarian tsar, was compelled to declare
 himself the vassal of the sultan Murad I., and to send his sister to the
-harem of the conqueror. In 1389 the rout of the Servians, Bosnians and
-Croats on the famous field of Kossovo decided the fate of the Peninsula.
+[[Harem|harem]] of the conqueror. In 1389 the rout of the Servians, Bosnians and
+Croats on the famous field of Kossovo decided the [[Fate|fate]] of the Peninsula.
 Shortly afterwards Ivan Shishman was attacked by the Turks; and Trnovo,
 after a siege of three months, was captured, sacked and burnt in 1393. The
 fate of the last Bulgarian sovereign is unknown: the national legend
@@ -163,7 +163,7 @@ administration of a governor-general, styled the beylerbey of Rum-ili,
 residing at Sofia; Bulgaria proper was divided into the sanjaks of Sofia,
 Nikopolis, Vidin, Silistria and Kiustendil. Only a small proportion of the
 people followed the example of the boyars in abandoning Christianity; the
-conversion of the isolated communities now represented by the Pomaks took
+[[Conversion|conversion]] of the isolated communities now represented by the Pomaks took
 place at various intervals during the next three centuries. A new kind of
 feudal system replaced that of the boyars, and fiefs or _spahiliks_ were
 conferred on the Ottoman chiefs and the renegade Bulgarian nobles. The
@@ -185,18 +185,18 @@ clergy in regard to inheritances and family affairs. At the time of the
 conquest certain towns and villages, known as the _voinitchki sela_,
 obtained important privileges which were not infringed till the 18th
 century; on condition of [v.04 p.0781] furnishing contingents to the
-Turkish army or grooms for the sultan's horses they obtained exemption from
+Turkish army or [[Groom|grooms]] for the sultan's horses they obtained exemption from
 most of the taxes and complete self-government under their _voivodi_ or
 chiefs. Some of them, such as Koprivshtitza in the Sredna Gora, attained
 great prosperity, which has somewhat declined since the establishment of
-the principality. While the Ottoman power was at its height the lot of the
+the principality. While the Ottoman power was at its height the [[Lot|lot]] of the
 subject-races was far less intolerable than during the period of decadence,
 which began with the unsuccessful siege of Vienna in 1683. Their rights and
 privileges were respected, the law was enforced, commerce prospered, good
 roads were constructed, and the great caravans of the Ragusan merchants
 traversed the country. Down to the end of the 18th century there appears to
 have been only one serious attempt at revolt--that occasioned by the
-advance of Prince Sigismund Bathory into Walachia in 1595. A kind of
+advance of Prince Sigismund [[Bathory]] into Walachia in 1595. A kind of
 guerilla warfare was, however, maintained in the mountains by the
 _kaiduti_, or outlaws, whose exploits, like those of the Greek _klepkts_,
 have been highly idealized in the popular folk-lore. As the power of the
@@ -233,7 +233,7 @@ Greece. The Russian invasions of 1810 and 1828 only added to their
 sufferings, and great numbers of fugitives took refuge in Bessarabia,
 annexed by Russia under the treaty of Bucharest. But the long-dormant
 national spirit now began to awake under the influence of a literary
-revival. The precursors of the movement were Paisii, a monk of Mount Athos,
+revival. The precursors of the movement were Paisii, a monk of Mount [[Athos]],
 who wrote a history of the Bulgarian tsars and saints (1762), and Bishop
 Sofronii, whose memoirs have been already mentioned. After 1824 several
 works written in modern Bulgarian began to appear, but the most important
@@ -255,8 +255,8 @@ to the population. By degrees Greek became the language of the upper
 classes in all the Bulgarian towns, the Bulgarian language was written in
 Greek characters, and the illiterate peasants, though speaking the
 vernacular, called themselves Greeks. The Slavonic liturgy was suppressed
-in favour of the Greek, and in many places the old Bulgarian manuscripts,
-images, testaments and missals were committed to the flames. The patriots
+in favour of the Greek, and in many places the old Bulgarian [[Manuscript|manuscripts]],
+[[Image|images]], testaments and missals were committed to the flames. The patriots
 of the literary movement, recognizing in the patriarchate the most
 determined foe to a national revival, directed all their efforts to the
 abolition of Greek ecclesiastical ascendancy and the restoration of the
@@ -296,7 +296,7 @@ from the Bulgarian peasants. The Circassians, a lawless race of
 mountaineers, proved a veritable scourge to the population in their
 neighbourhood. In 1875 the insurrection in Bosnia and Herzegovina produced
 immense excitement throughout the Peninsula. The fanaticism of the Moslems
-was aroused, and the Bulgarians, fearing a general massacre of Christians,
+was aroused, and the Bulgarians, fearing a general [[Massacre|massacre]] of Christians,
 endeavoured to anticipate the blow by organizing a general revolt. The
 rising, which broke out prematurely at Koprivshtitza and Panagurishte in
 May 1876, was mainly confined to the sanjak of Philippopolis. Bands of
@@ -335,9 +335,9 @@ which the Bulgarian element predominated were now included in an autonomous
 principality, which extended from the Black Sea to the Albanian mountains,
 and from the Danube to the Aegean, enclosing Ochrida, the ancient capital
 of the Shishmans, Dibra and Kastoria, as well as the districts of Vranya
-and Pirot, and possessing a Mediterranean port at Kavala. The Dobrudja,
+and Pirot, and possessing a Mediterranean port at [[Kavala]]. The Dobrudja,
 notwithstanding its Bulgarian population, was not included in the new
-state, being reserved as compensation to Rumania for the Russian annexation
+state, being reserved as compensation to Rumania for the Russian [[Annexation|annexation]]
 of Bessarabia; Adrianople, Salonica and the Chalcidian peninsula were left
 to Turkey. The area thus delimited constituted three-fifths of the Balkan
 Peninsula, with a population of 4,000,000 inhabitants. The great powers,
@@ -385,7 +385,7 @@ the general supervision of the administration, while a council of six
 
 _Prince Alexander._--On the 29th of April 1879 the assembly at Trnovo, on
 the proposal of Russia, elected as first sovereign of Bulgaria Prince
-Alexander of Battenberg, a member of the grand ducal house of Hesse and a
+Alexander of [[Battenberg]], a member of the grand ducal house of [[Hesse]] and a
 nephew of the tsar Alexander II. Arriving in Bulgaria on the 7th of July,
 Prince Alexander, then in his twenty-third year, found all the authority,
 military and civil, in Russian hands. The history of the earlier portion of
@@ -417,7 +417,7 @@ absolute powers for a term of seven years (July 1881). A period of Russian
 government followed under Generals Skobelev and Kaulbars, who were
 specially despatched from St Petersburg to enhance the authority of the
 prince. Their administration, however, tended to a contrary result, and the
-prince, finding himself reduced to impotence, opened negotiations with the
+prince, finding himself reduced to [[Impotence|impotence]], opened negotiations with the
 Bulgarian leaders and effected a coalition of all parties on the basis of a
 restoration of the constitution. The generals, who had made an unsuccessful
 attempt to remove the prince, withdrew; the constitution of Trnovo was
@@ -425,7 +425,7 @@ restored by proclamation (19th September 1883), and a coalition ministry
 was formed under Tzankoff. Prince Alexander, whose relations with the court
 of St Petersburg had become less cordial since the death of his uncle, the
 tsar Alexander II., in 1881, now incurred the serious displeasure of
-Russia, and the breach was soon widened by the part which he played in
+Russia, and the [[Breach|breach]] was soon widened by the part which he played in
 encouraging the national aspirations of the Bulgarians.
 
 _Union with Eastern Rumelia._--In Eastern Rumelia, where the Bulgarian
@@ -446,7 +446,7 @@ troops into the province. Having previously assured themselves of Prince
 Alexander's acquiescence, they seized the governor-general and proclaimed
 the union with Bulgaria (18th September). The revolution took place without
 bloodshed, and a few days later Prince Alexander entered Philippopolis amid
-immense enthusiasm. His position now became precarious. The powers were
+immense [[Enthusiasm|enthusiasm]]. His position now became precarious. The powers were
 scandalized at the infraction of the Berlin Treaty; Great Britain alone
 showed sympathy, while Russia denounced the union and urged the Porte to
 reconquer the revolted province--both powers thus reversing their
@@ -515,11 +515,11 @@ which a deputation visited the principal capitals of Europe with the
 twofold object of winning sympathy for the cause of Bulgarian independence
 and discovering a suitable candidate for the throne.
 
-_Prince Ferdinand._--On the 7th of July 1887, the Grand Sobranye
+_Prince [[Ferdinand]]._--On the 7th of July 1887, the Grand Sobranye
 unanimously elected Prince Ferdinand of Saxe-Coburg-Gotha, a grandson,
 maternally, of King Louis Philippe. The new prince, who was twenty-six
 years of age, was at this time a lieutenant in the Austrian army.
-Undeterred by the difficulties of the international situation and the
+Undeterred by the difficulties of the [[International|international]] situation and the
 distracted condition of the country, he accepted the crown, and took over
 the government on the 14th of August at Trnovo. His arrival, which was
 welcomed with enthusiasm, put an end to a long and critical interregnum,
@@ -532,7 +532,7 @@ internal tranquillity, and Stamboloff, who became prime minister on the 1st
 of September, found it necessary to govern with a strong hand. A raid led
 by the Russian captain Nabokov was repulsed; brigandage, maintained for
 political purposes, was exterminated; the bishops of the Holy Synod, who,
-at the instigation of Clement, refused to pay homage to the prince, were
+at the instigation of Clement, refused to pay [[Homage|homage]] to the prince, were
 forcibly removed from Sofia; a military conspiracy organized by Major
 Panitza was crushed, and its leader executed. An attempt to murder the
 energetic prime minister resulted in the death of his colleague, Beltcheff,
@@ -543,7 +543,7 @@ relations were established with Turkey and Rumania, valuable concessions
 were twice extracted from the Porte in regard to the Bulgarian episcopate
 in Macedonia, and loans were concluded with foreign financiers on
 comparatively favourable terms. His overbearing character, however,
-increased the number of his opponents, and alienated the goodwill of the
+increased the number of his opponents, and alienated the [[Goodwill|goodwill]] of the
 prince.
 
 In the spring of 1893 Prince Ferdinand married Princess Marie-Louise of
@@ -634,7 +634,7 @@ Moslem state notorious for its maladministration and corruption. This
 desire was strengthened by the favourable reception accorded to Prince
 Ferdinand when he visited Vienna in February 1908, and by the so-called
 "Geshoff incident," _i.e._ the exclusion of M. Geshoff, the Bulgarian
-agent, from a dinner given by Tewfik Pasha, the Ottoman minister for
+agent, from a [[Dinner|dinner]] given by Tewfik Pasha, the Ottoman minister for
 foreign affairs, to the ministers of all the sovereign states represented
 at Constantinople (12th of September 1908). This was interpreted as an
 insult to the Bulgarian nation, and as the explanation offered by the grand

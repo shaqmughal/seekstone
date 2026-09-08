@@ -9,7 +9,7 @@ type: note
 
 BESTUZHEV-RYUMIN, MIKHAIL PETROVICH, COUNT (1688-1760), Russian
 diplomatist, elder brother of the foregoing, was educated at Berlin, and
-was sent by Peter the Great to represent Russia at Copenhagen in 1705.
+was sent by Peter the Great to represent Russia at [[Copenhagen]] in 1705.
 In 1720 he was appointed resident at London at a time when the English
 court was greatly inflamed against Peter, who was regarded as a
 dangerous rival in the Baltic; and Bestuzhev was summarily dismissed for
@@ -28,9 +28,9 @@ unanimous in describing Bestuzhev as the arch-plotter in this miserable
 affair; yet, while the active agents were banished to Siberia, Bestuzhev
 was not even censured. The Sinclair murder led ultimately to the
 Swedish-Russian War of 1741, when Bestuzhev was transferred first to
-Hamburg and subsequently to Hanover, where he endeavoured to conclude an
+Hamburg and subsequently to [[Hanover]], where he endeavoured to conclude an
 alliance between Great Britain and Russia. On his return to Russia in
-1743, he was made grand marshal, and married Anna, the widow of Paul
+1743, he was made grand marshal, and married [[Anna]], the widow of Paul
 Yaguzhinsky, Peter the Great's famous pupil. A few months later his wife
 was implicated in a bogus conspiracy got up by the French ambassador,
 the marquis de La Chetardie, to ruin the Bestuzhevs (see
@@ -59,7 +59,7 @@ spoken betting is now largely indulged in; and in the United Kingdom it
 spread to such an extent amongst all grades of society, during the 19th
 century, that the interference of the legislature was necessary (see
 GAMING AND WAGERING). Bets can, of course, be made on any subject, and
-are a common method of backing one's opinion or skill, whether at games
+are a common method of backing one's opinion or skill, whether at [[Games|games]]
 of cards or in any other connexion; but the commonest form of betting is
 associated with the turf. In the early days of horse-racing persons who
 wished to bet often failed to gratify their inclination because of the
@@ -98,7 +98,7 @@ the board; and "ante-post," when wagering opens weeks or months before
 the event; though of this latter there is far less than was formerly the
 case, doubtless for the reason that before the introduction of so many
 new and valuable stakes attention was generally concentrated on a
-comparatively small number of races. Bets on the Derby, the Oaks and the
+comparatively small number of races. Bets on the [[Derby]], the Oaks and the
 St Leger were formerly common nearly a year before the running of the
 races, and a few handicaps, such as the Chester Cup, used to occupy
 attention months beforehand; the weights, of course, being published at
@@ -127,7 +127,7 @@ a pretence which is obviously absurd, as if these men possessed the
 knowledge they claim, they would assuredly keep it to themselves and
 utilize it for their own private purposes.
 
-The specious promises of such men do infinite mischief, as they so often
+The specious promises of such men do [[Infinite|infinite]] mischief, as they so often
 appeal with success to the folly and gullibility of the ignorant, and in
 recent years the extent to which betting has grown has resulted in
 attempts to check it by organized means. A society for the purpose was
@@ -141,13 +141,13 @@ remarking that "Whereas a new form of betting has of late sprung up,"
 and the Anti-Gambling League sought to argue that this included a form
 of betting which had not sprung up of late but had on the contrary been
 carried on without interference for many generations. The divisional
-court of the queen's bench (_Hawke v. Dunn_, 13 T.L.R. 281) held that
+court of the queen's [[Bench|bench]] (_Hawke v. Dunn_, 13 T.L.R. 281) held that
 such betting was an infringement of the act, and that the enclosure was
 a "place" within the meaning of the act, and had been used by the
 respondent for the purpose of betting with persons resorting thereto,
 and that he was liable to be Convicted. The case was remitted to the
-justices, who convicted the defendant. A somewhat similar case was
-decided on the same day (_M'Inany v. Hildreth_, 1897, 13 T.L.R. 285), in
+justices, who convicted the [[Defendant|defendant]]. A somewhat similar case was
+decided on the same day (_M'Inany v. [[Hildreth]]_, 1897, 13 T.L.R. 285), in
 which it was held that a professional bookmaker who went to a place
 known as the "pit heap" at Jarrow, to which the public had access at all
 times, and made bets with persons assembled there, was properly
@@ -176,7 +176,7 @@ indictment, not exceeding fifty pounds or to imprisonment with or
 without hard labour for a term not exceeding six months. On summary
 conviction the fine is a sum not exceeding thirty pounds or imprisonment
 with or without hard labour for a term not exceeding three months. A
-wide definition is given to the words "street" and "public place," and
+wide [[Definition|definition]] is given to the words "street" and "public place," and
 racecourses are expressly exempted from the operation of the act.
 
 On all French racecourses (since 1866), as on others nearly everywhere
@@ -184,7 +184,7 @@ else on the continent, and likewise in the British colonies, a system of
 betting known as the _Pari-Mutuel_ or Totalizator, is carried on. Rows
 of offices are established behind or near the stands, on each of which
 lists are exhibited containing the numbers of the horses that are to run
-in the coming race. At some of these the minimum wager is five francs,
+in the coming race. At some of these the minimum wager is five [[Franc|francs]],
 at others ten, twenty, fifty, one hundred, five hundred and in some
 cases a thousand. The person who proposes to bet goes to the clerk at
 one of these offices, mentions the number, as indicated on the card, of

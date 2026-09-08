@@ -6,9 +6,9 @@ topic: thermodynamics-studies
 
 # Burghley
 
-BURGHLEY, WILLIAM CECIL, BARON (1521-1508), was born, according to his own
+BURGHLEY, WILLIAM [[Cecil|CECIL]], BARON (1521-1508), was born, according to his own
 statement, on the 13th of September 1521 at the house of his mother's
-father at Bourne, Lincolnshire. Pedigrees, elaborated by Cecil himself with
+father at [[Bourne]], Lincolnshire. Pedigrees, elaborated by Cecil himself with
 the help of Camden, the antiquary, associated him with the Cecils or
 Sitsyllts of Altyrennes in Herefordshire, and traced his descent from an
 Owen of the time of King Harold and a Sitsyllt of the reign of Rufus. The
@@ -61,7 +61,7 @@ the value of a thousand marks. However, he soon ingratiated himself with
 Warwick, and on the 15th of September 1550 he was sworn one of the king's
 two secretaries. He was knighted on the 11th of October 1551, on the eve of
 Somerset's second fall, and was congratulated on his success in escaping
-his benefactor's fate. In April he became chancellor of the order of the
+his benefactor's [[Fate|fate]]. In April he became chancellor of the order of the
 Garter. But service under Northumberland was no bed of roses, and in his
 diary Cecil recorded his release in the phrase _ex misero aulico factus
 liber et mei juris_. His responsibility for Edward's illegal "devise" of
@@ -90,7 +90,7 @@ in the parliament of 1555--in which he represented Lincolnshire--a bill for
 the confiscation of the estates of the Protestant refugees. But the story,
 even as told by his biographer (Peck, _Desiderata Curiosa_, i. 11), does
 not represent Cecil's conduct as having been very courageous; and it is
-more to his credit that he found no seat in the parliament of 1558, for
+more to his [[Credit|credit]] that he found no seat in the parliament of 1558, for
 which Mary had directed the return of "discreet and good Catholic members."
 
 By that time Cecil had begun to trim his sails to a different breeze. He
@@ -155,7 +155,7 @@ Winchester, who had been lord high treasurer under Edward, Mary and
 Elizabeth, died, and Burghley succeeded to his post. It was a signal
 triumph over Leicester; and, although Burghley had still to reckon with
 cabals in the council and at court, his hold over the queen strengthened
-with the lapse of years. Before he died, Robert, his only surviving son by
+with the [[Lapse|lapse]] of years. Before he died, Robert, his only surviving son by
 his second wife, was ready to step into his shoes as the queen's principal
 adviser. Having survived all his rivals, and all his children except Robert
 and the worthless Thomas, Burghley died at his London house on the 4th of
@@ -207,7 +207,7 @@ Leadam's _Court of Requests, Chron. of Queen Jane_ (Camden Soc.) and
 throughout Froude's _Hist._ No satisfactory life of Burghley has yet
 appeared; some valuable anonymous notes, probably by Burghley's servant
 Francis Alford, were printed in Peck's _Desiderata Curiosa_ (1732), i.
-1-66; other notes are in Naunton's _Fragmenta Regalia_. Lives by Collins
+1-66; other notes are in Naunton's _Fragmenta Regalia_. Lives by [[Collins]]
 (1732), Charlton and Melvil (1738), were followed by Nares's biography in
 three of the most ponderous volumes (1828-1831) in the language; this
 provoked Macaulay's brilliant but misleading essay. M.A.S. Hume's _Great

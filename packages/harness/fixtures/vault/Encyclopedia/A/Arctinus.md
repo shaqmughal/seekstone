@@ -21,13 +21,13 @@ the dispute between Ajax and Odysseus for his arms. The title thus only
 applied to part of the poem. The _Sack of Troy_ ([Greek: Iliou Perois])
 gives the stories of the wooden horse, Sinon, and Laocoon, the capture
 of the city, and the departure of the Greeks under the wrath of Athene
-at the outrage of Ajax on Cassandra. The _Little Iliad_ ([Greek: Igias
-mikra]) of Lesches formed the transition between the _Aethiopis_ and the
+at the outrage of Ajax on [[Cassandra]]. The _Little Iliad_ ([Greek: Igias
+mikra]) of [[Lesches]] formed the transition between the _Aethiopis_ and the
 _Sack of Troy_.
 
   Kinkel, _Epicorum Graecorum Fragmenta_ (1877); Welcker, _Der epische
   Cyclus_; Muller, _History of the Literature of Ancient Greece_; Lang,
-  _Homer and the Epic_ (1893); Monro, _Journal of Hellenic Studies_
+  _[[Homer]] and the Epic_ (1893); Monro, _Journal of Hellenic Studies_
   (1883); T.W. Allen in _Classical Quarterly_, April 1908, pp. 82 foll.
 
 ## See also

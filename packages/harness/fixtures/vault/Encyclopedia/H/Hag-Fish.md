@@ -8,9 +8,9 @@ id: 42-2346
 # Hag-Fish
 
 HAG-FISH, GLUTINOUS HAG, Or BORER (_Myxine_), a marine fish which forms
-with the lampreys one of the lowest orders of vertebrates
+with the [[Lamprey|lampreys]] one of the lowest orders of vertebrates
 (_Cyclostomata_). Similar in form to a lamprey, it is usually found
-within the body of dead cod or haddock, on the flesh of which it feeds
+within the body of dead [[Cod|cod]] or haddock, on the flesh of which it feeds
 after having buried itself in the abdomen. When caught, it secretes a
 thick glutinous slime in such quantity that it is commonly believed to
 have the power of converting water into glue. It is found in the North

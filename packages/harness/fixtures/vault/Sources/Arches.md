@@ -2,11 +2,11 @@
 
 ARCHES, COURT OF, the English ecclesiastical court of appeal of the
 archbishop of Canterbury, as metropolitan of the province of Canterbury,
-from all the consistory and commissary courts in the province. It
+from all the consistory and [[Commissary|commissary]] courts in the province. It
 derives its name from its ancient place of judicature, which was in the
 church of _Beata Maria de Arcubus_ --St Mary-le-Bow or St Mary of the
 Arches, "by reason of the steeple thereof raised at the top with stone
-pillars in fashion like a bow bent archwise." This parish was the chief
+pillars in fashion like a [[Bow|bow]] bent archwise." This parish was the chief
 of thirteen locally situated within the diocese of London but exempt
 from the bishop's jurisdiction, and it was no doubt owing to this
 circumstance that it was selected originally as the place of judicature
@@ -74,7 +74,7 @@ Matrimonial Causes Act 1857. Under the Clergy Discipline Act 1892 an
 appeal lies from the judgment of a consistory court under that act, in
 respect of fact by leave of the appellate court, and in respect of law
 without leave, to either the Arches court or the judicial committee of
-the privy council at the option of the appellant. Under the Benefices
+the privy council at the option of the appellant. Under the [[Benefice|Benefices]]
 Act 1898 the official principal of the archbishop is required to
 institute a presentee to a benefice if the tribunal constituted under
 that act decides that there is no valid ground for refusing institution
@@ -90,7 +90,7 @@ clergy to recognize the jurisdiction of what they deny to be any longer
 a spiritual court, and the consistent use by the bishops of their right
 of veto in the case of prosecutions under the Public Worship Regulation
 Act. On the rare occasions when a sitting of the court is necessary, it
-is held in the library of Lambeth Palace, or at the Church House,
+is held in the library of [[Lambeth]] Palace, or at the Church House,
 Westminster.
 
 ## See also

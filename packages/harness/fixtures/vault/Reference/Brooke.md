@@ -8,23 +8,23 @@ tags: [history, physics]
 # Brooke
 
 BROOKE, FULKE GREVILLE, 1ST BARON (1554-1628), English poet, only son of
-Sir Fulke Greville, was born at Beauchamp Court, Warwickshire. He was sent
+Sir Fulke Greville, was born at [[Beauchamp]] Court, Warwickshire. He was sent
 in 1564, on the same day as his life-long friend, Philip Sidney, to
 Shrewsbury school. He matriculated at Jesus College, Cambridge, in 1568.
 Sir Henry Sidney, president of Wales, gave him in 1576 a post connected
-with the court of the Marches, but he resigned it in 1577 to go to court
+with the court of the [[Marches]], but he resigned it in 1577 to go to court
 with Philip Sidney. Young Greville became a great favourite with Queen
 Elizabeth, who treated him with less than her usual caprice, but he was
 more than once disgraced for leaving the country against her wishes. Philip
-Sidney, Sir Edward Dyer and Greville were members of the "Areopagus," the
-literary clique which, under the leadership of Gabriel Harvey, supported
+Sidney, Sir Edward [[Dyer]] and Greville were members of the "Areopagus," the
+literary clique which, under the leadership of Gabriel [[Harvey]], supported
 the introduction of classical metres into English verse. Sidney and
 Greville arranged to sail with Sir Francis Drake in 1585 in his expedition
 against the Spanish West Indies, but Elizabeth peremptorily forbade Drake
 to take them with him, and also refused Greville's request to be allowed to
 join Leicester's army in the Netherlands. Philip Sidney, who took part in
 the campaign, was killed on the 17th of October 1586, and Greville shared
-with Dyer the legacy of his books, while in his _Life of the Renowned Sir
+with Dyer the [[Legacy|legacy]] of his books, while in his _Life of the Renowned Sir
 Philip Sidney_ he raised an enduring monument to his friend's memory. About
 1591 Greville served for a short time in Normandy under Henry of Navarre.
 This was his last experience of war. In 1583 he became secretary to the
@@ -45,7 +45,7 @@ Warwick, and on his tomb was inscribed the epitaph he had composed for
 himself: "Folk Grevill Servant to Queene Elizabeth Conceller to King James
 Frend to Sir Philip Sidney. Trophaeum Peccati."
 
-A rhyming elegy on Brooke, published in Huth's _Inedited Poetical
+A rhyming [[Elegy|elegy]] on Brooke, published in Huth's _Inedited Poetical
 Miscellanies_, brings charges of extreme penuriousness against him, but of
 his generous treatment of contemporary writers there is abundant testimony.
 His only works published during his lifetime were four poems, one of which
@@ -57,18 +57,18 @@ Alaham is laid in Ormuz. The development of the piece fully bears out the
 gloom of the prologue, in which the ghost of a former king of Ormuz reveals
 the magnitude of the curse about to descend on the doomed family. The theme
 of _Mustapha_ is borrowed from Madeleine de Scudery's _Ibrahim ou
-l'illustre Bassa_, and turns on the ambition of the sultana Rossa. The
+l'illustre [[Bassa]]_, and turns on the ambition of the sultana Rossa. The
 choruses of these plays are really philosophical dissertations, and the
-connexion with the rest of the drama is often very slight. In _Mustapha_,
-for instance, the third chorus is a dialogue between Time and Eternity,
+connexion with the rest of the [[Drama|drama]] is often very slight. In _Mustapha_,
+for instance, the third chorus is a [[Dialogue|dialogue]] between Time and Eternity,
 while the fifth consists of an invective against the evils of superstition,
 followed by a chorus of priests that does nothing to dispel [v.04 p.0644]
 the impression of scepticism contained in the first part. He tells us
-himself that the tragedies were not intended for the stage. Charles Lamb
+himself that the tragedies were not intended for the stage. Charles [[Lamb]]
 says they should rather be called political treatises. Of Brooke Lamb says,
 "He is nine parts Machiavel and Tacitus, for one of Sophocles and
 Seneca.... Whether we look into his plays or his most passionate
-love-poems, we shall find all frozen and made rigid with intellect." He
+love-poems, we shall find all frozen and made rigid with [[Intellect|intellect]]." He
 goes on to speak of the obscurity of expression that runs through all
 Brooke's poetry, an obscurity which is, however, due more to the intensity
 and subtlety of the thought than to any lack of mere verbal lucidity.
@@ -81,10 +81,10 @@ the power of Spain Stated by Him: His principall Actions, Counsels,
 Designes, and Death. Together with a short account of the Maximes and
 Policies used by Queen Elizabeth in her Government_. He includes some
 autobiographical matter in what amounts to a treatise on government. He had
-intended to write a history of England under the Tudors, but Robert Cecil
+intended to write a history of England under the Tudors, but Robert [[Cecil]]
 refused him access to the necessary state papers.
 
-Brooke left no sons, and his barony passed to his cousin, Robert Greville
+Brooke left no sons, and his [[Barony|barony]] passed to his [[Cousin|cousin]], Robert Greville
 (c. 1608-1643), who thus became 2nd Lord Brooke. This nobleman was
 imprisoned by Charles I. at York in 1639 for refusing to take the oath to
 fight for the king, and soon became an active member of the parliamentary
@@ -96,16 +96,16 @@ wrote on philosophical, theological and current political topics. In 1746
 his descendant, Francis Greville, the 8th baron (1710-1773), was created
 earl of Warwick, a title still in his family.
 
-Dr A.B. Grosart edited the complete works of Fulke Greville for the _Fuller
+Dr A.B. [[Grosart]] edited the complete works of Fulke Greville for the _[[Fuller]]
 Worthies Library_ in 1870, and made a small selection, published in the
 _Elizabethan Library_ (1894). Besides the works above mentioned, the
 volumes include _Poems of Monarchy, A Treatise of Religion, A Treatie of
 Humane Learning, An Inquisition upon Fame and Honour, A Treatie of Warres,
 Caelica in CX Sonnets_, a collection of lyrics in various forms, a letter
-to an "Honourable Lady," a letter to Grevill Varney in France, and a short
+to an "[[Honourable]] Lady," a letter to Grevill Varney in France, and a short
 speech delivered on behalf of Francis Bacon, some minor poems, and an
 introduction including some of the author's letters. The life of Sidney was
-reprinted by Sir S. Egerton Brydges in 1816; and with an introduction by N.
+reprinted by Sir S. [[Egerton]] Brydges in 1816; and with an introduction by N.
 Smith in the "Tudor and Stuart Library" in 1907; _Caelica_ was reprinted in
 M.F. Crow's "Elizabethan Sonnet Cycles" in 1898. See also an essay in Mrs.
 C.C. Stopes's _Shakespeare's Warwickshire Contemporaries_ (1907).

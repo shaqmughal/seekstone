@@ -6,7 +6,7 @@ direction of the science of fortification, and as an engineer officer he
 saw service in the latter years of the Thirty Years' War, and in Poland.
 As adjutant-general and engineer adviser to Charles X. (Gustavus), he
 had a great share in the famous crossing of the frozen Belts, and at the
-sieges of Copenhagen and Kronborg he directed the engineers. In spite of
+sieges of [[Copenhagen]] and Kronborg he directed the engineers. In spite of
 these distinguished services, Dahlberg remained an obscure
 lieutenant-colonel for many years. His patriotism, however, proved
 superior to the tempting offers Charles II. of England made to induce

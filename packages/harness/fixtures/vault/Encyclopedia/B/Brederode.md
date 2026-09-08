@@ -15,12 +15,12 @@ resisting the introduction of the Spanish Inquisition and Spanish
 despotism into the Netherlands. In 1566 he was one of the founders of
 the confederacy of nobles who bound themselves to maintain the rights
 and liberties of the country by signing a document known as "the
-Compromise." On the 5th of April of that year Brederode accompanied to
+[[Compromise]]." On the 5th of April of that year Brederode accompanied to
 the palace a body of 250 confederates, of whom he acted as the
-spokesman, to present to the regent, Margaret of Parma, a petition
+spokesman, to present to the regent, [[Margaret]] of Parma, a petition
 setting forth their grievances, called "the Request." It was at a
 banquet at the Hotel Culemburg on the 8th of April, presided over by
-Brederode, that the sobriquet of _les Gueux_, or "the Beggars," was
+Brederode, that the sobriquet of _les [[Gueux]]_, or "the Beggars," was
 first given to the opponents of Spanish rule. Brederode was banished
 from the Netherlands by Alva, and died in exile shortly afterwards at
 the early age of thirty-six.

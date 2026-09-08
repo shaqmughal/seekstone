@@ -1,10 +1,10 @@
 # Lenbach
 
-LENBACH, FRANZ VON (1836-1904), German painter, was born at
+LENBACH, [[Franz|FRANZ]] VON (1836-1904), German painter, was born at
 Schrobenhausen, in Bavaria, on the 13th of December 1836. His father was
 a mason, and the boy was intended to follow his father's trade or be a
 builder. With this view he was sent to school at Landsberg, and then to
-the polytechnic at Augsburg. But after seeing Hofner, the animal
+the polytechnic at [[Augsburg]]. But after seeing Hofner, the animal
 painter, executing some studies, he made various attempts at painting,
 which his father's orders interrupted. However, when he had seen the
 galleries of Augsburg and Munich, he finally obtained his father's
@@ -14,8 +14,8 @@ copying. Thus he was already accomplished in technique when he became
 the pupil of Piloty, with whom he set out for Italy in 1858. A few
 interesting works remain as the outcome of this first journey--"A
 Peasant seeking Shelter from Bad Weather" (1855), "The Goatherd" (1860,
-in the Schack Gallery, Munich), and "The Arch of Titus" (in the Palfy
-collection, Budapest). On returning to Munich, he was at once called to
+in the Schack Gallery, Munich), and "The [[Arch]] of Titus" (in the Palfy
+collection, [[Budapest]]). On returning to Munich, he was at once called to
 Weimar to take the appointment of professor at the Academy. But he did
 not hold it long, having made the acquaintance of Count Schack, who
 commissioned a great number of copies for his collection. Lenbach

@@ -13,7 +13,7 @@ HEAD, SIR EDMUND WALKER, BART. (1805-1868), English colonial governor
 and writer on art, was the son of the Rev. Sir John Head, Bart., rector
 of Rayleigh, Essex. He was educated at Winchester school and Oriel
 College, Oxford, and taking his degree with first-class honours in
-classics, he became fellow of Merton College. On his father's death in
+classics, he became [[Fellow|fellow]] of Merton College. On his father's death in
 1838, he succeeded to the baronetcy as 8th baronet. His services as
 poor-law commissioner, to which post he was appointed in 1841 after five
 years as assistant-commissioner, procured for him in 1847 the office of
@@ -28,12 +28,12 @@ as his only son had died in 1859.
 
   Sir Edmund Head wrote the article "Painting" in the _Penny
   Cyclopaedia_; _A Handbook of the Spanish and French Schools of
-  Painting_ (1845); _Shall and Will, or two Chapters on Future Auxiliary
+  Painting_ (1845); _Shall and Will, or two Chapters on Future [[Auxiliary]]
   Verbs_ (1856); and _Ballads and other Poems, Original and Translated_
   (1868). He also edited F. T. Kugler's _Handbook of Painting of the_
   _German, Flemish, Dutch, Spanish, and French Schools_ (1854) and the
   _Essays on the Administrations of Great Britain_ (1864), written by
-  his lifelong friend, Sir George Cornewall Lewis. His translation from
+  his lifelong friend, Sir George Cornewall [[Lewis]]. His translation from
   the Icelandic of _Viga Glum's Saga_ appeared in 1866.
 
 
@@ -47,7 +47,7 @@ as his only son had died in 1859.
   stationed in the Mediterranean, and he served in the campaign of 1815,
   being present at the battle of Waterloo. He went on half-pay in 1825,
   when he accepted the charge of an association formed to work the gold
-  and silver mines of Rio de La Plata. In connexion with this enterprise
+  and silver mines of Rio de [[La Plata]]. In connexion with this enterprise
   he made several rapid journeys across the Pampas and among the Andes,
   his _Rough Notes_ of which, published in 1826, and written in a clear
   and spirited style, obtained for him the name of "Galloping Head." On
@@ -66,14 +66,14 @@ as his only son had died in 1859.
   afterwards, in consequence of a dispute with the home government, he
   resigned his post and returned to England, via New York (see
   _Quarterly Review_, vols. 63-64). Thereafter he devoted himself to
-  writing, chiefly for the _Quarterly Review_, and to hunting. He rode
+  writing, chiefly for the _Quarterly Review_, and to [[Hunting|hunting]]. He rode
   to hounds until he was seventy-five. In 1869 Sir Francis Head was made
   a privy councillor. He died on the 20th of July 1875, at Duppas Hall,
-  Croydon.
+  [[Croydon]].
 
   Head was the author of a considerable number of works, chiefly of
-  travel, written in a clever, amusing and graphic fashion, and
-  displaying both acute observation and genial humour. His principal
+  travel, written in a [[Clever|clever]], amusing and graphic fashion, and
+  displaying both acute observation and genial [[Humour|humour]]. His principal
   works, beside those mentioned above, and a narrative of his Canadian
   administration (1839), were _The Emigrant_ (1846); _Highways and
   Dryways, the Britannia and Conway Tubular Bridges_ (1849); _Stokers
@@ -85,7 +85,7 @@ as his only son had died in 1859.
   life of Sir John Burgoyne (1872).
 
 His brother, SIR GEORGE HEAD (1782-1855), was educated at the
-Charterhouse. In 1808 he received an appointment in the commissariat of
+Charterhouse. In 1808 he received an appointment in the [[Commissariat|commissariat]] of
 the British army in the Peninsula, where he was a witness of many
 exciting scenes and important battles, of which he gave an interesting
 account in "Memoirs of an Assistant Commissary-General" attached to the
@@ -101,7 +101,7 @@ In 1831 he was knighted.
   various parts of the United Kingdom_. Both works are amusing and
   instructive, but his _Rome, a Tour of many Days_, published in 1849,
   is somewhat dull and tedious. He also translated _Historical Memoirs
-  of Cardinal Pacca_ (1850), and the _Metamorphoses of Apuleius_ (1851).
+  of Cardinal Pacca_ (1850), and the _Metamorphoses of [[Apuleius]]_ (1851).
 
 ## See also
 

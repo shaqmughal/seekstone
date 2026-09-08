@@ -14,15 +14,15 @@ parliament in the reign of Edward I. Its ancient castle occupies a
 magnificent position close to the sea on an almost perpendicular rock, 150
 ft. in height, accessible only on the south-east side.
 
-The first erection is ascribed by the Saxon chronicles to King Ida of
+The first erection is ascribed by the Saxon chronicles to King [[Ida]] of
 Northumberland. The castle buildings are of various dates from the Norman
 period and are of great strength and dignity. They include a massive keep
 and the remains of an apsidal chapel dedicated to St Peter. In the village,
 the church is dedicated to St Aidan, who was bishop of Lindisfarne or Holy
 Island, which lies off the coast to the north, about 634. It is a fine
 cruciform building, mainly of Early English date, with a crypt beneath the
-chancel. In the churchyard is a monument to Grace Darling (1815-1842), the
-brave rescuer of some of the crew of the ship "Forfarshire" in 1838. The
+[[Chancel|chancel]]. In the churchyard is a monument to [[Grace]] Darling (1815-1842), the
+brave rescuer of some of the crew of the ship "[[Forfarshire]]" in 1838. The
 Longstone Lighthouse, where her father was keeper, stands on an outer rock
 of the Farne Islands, which stretch north-eastward for 6 m. from the coast
 at Bamburgh.
@@ -36,7 +36,7 @@ was in command of Bamburgh, having been defeated in a sally, the castle
 surrendered to William in November 1095. The first mention of Bamburgh as a
 borough does not occur until 1169, when the men paid 2½ marks to an aid.
 Henry III. by charter of 1254-1255 granted the burgesses their town at an
-annual fee farm rent of 26 marks, of which they were acquitted in 1318 and
+annual [[Fee|fee]] farm rent of 26 marks, of which they were acquitted in 1318 and
 1327 "on account of the robberies and fires inflicted on them by the
 Scots." Edward III. in 1332 confirmed the charter of Henry III., and
 granted further that the town should be a free borough governed by four
@@ -49,8 +49,8 @@ again suffered severely, so much so that in 1439 the burgesses had
 decreased in number from 120 to 13. These again petitioned for a remission
 of their farm, which in 1446 was reduced to £10 yearly. Bamburgh was twice
 taken by the Yorkists in the Wars of the Roses and twice recovered by Queen
-Margaret. In 1463, after it had been recovered a second time by the queen,
-Henry VI. stayed there for a year, but after the battle of Hexham it was
+[[Margaret]]. In 1463, after it had been recovered a second time by the queen,
+Henry VI. stayed there for a year, but after the battle of [[Hexham]] it was
 again taken by the Yorkists, and the castle and town were then so much
 injured that from that time there is no mention of the burgesses or their
 privileges. Bamburgh returned two members to parliament in 1295 and again

@@ -6,7 +6,7 @@ I. Soter in an expedition to Syria, and sailed up the Nile with him as
 far as Thebes (Diogenes Laertius ix. 61). The result of his travels was
 set down by him in two works--[Greek: Aiguptiaka] and [Greek: Peri
 Uperboreon], which were used by Diodorus Siculus. According to Suidas,
-he also wrote a treatise on the poetry of Hesiod and Homer. Regarding
+he also wrote a treatise on the poetry of Hesiod and [[Homer]]. Regarding
 his authorship of a work on the Jews (utilized by Josephus in _Contra
 Apionem_), it is conjectured that portions of the [Greek: Aiguptiaka]
 were revised by a Hellenistic Jew from his point of view and published

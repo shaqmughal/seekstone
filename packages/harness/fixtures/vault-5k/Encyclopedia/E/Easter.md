@@ -22,9 +22,9 @@ children of Israel in Egypt when he smote the Egyptians" (Exod. xii.
 
 An erroneous derivation of the word _pascha_ from the Greek [Greek:
 paschein], "to suffer," thus connected with the sufferings or passion of
-the Lord, is given by some of the Fathers of the Church, as Irenaeus,
+the Lord, is given by some of the Fathers of the Church, as [[Irenaeus]],
 Tertullian and others, who were ignorant of Hebrew. St Augustine (_In
-Joann. Tract._ 55) notices this false etymology, shows how similarity of
+Joann. Tract._ 55) notices this false [[Etymology|etymology]], shows how similarity of
 sound had led to it, and gives the correct derivation.
 
 There is no indication of the observance of the Easter festival in the
@@ -66,7 +66,7 @@ guiding principle.
 
 Generally speaking, the Western churches kept Easter on the first day of
 the week, while the Eastern churches followed the Jewish rule, and kept
-Easter on the fourteenth day. St Polycarp, the disciple of St John the
+Easter on the fourteenth day. St Polycarp, the [[Disciple|disciple]] of St John the
 Evangelist and bishop of Smyrna, visited Rome in 159 to confer with
 Anicetus, the bishop of that see, on the subject; and urged the
 tradition, which he had received from the apostle, of observing the
@@ -82,14 +82,14 @@ reasons to the contrary, whereupon Victor proceeded to excommunicate
 Polycrates and the Christians who continued the Eastern usage. He was,
 however, restrained from actually proceeding to enforce the decree of
 excommunication, owing to the remonstrance of Irenaeus and the bishops
-of Gaul. Peace was thus maintained, and the Asiatic churches retained
+of [[Gaul]]. Peace was thus maintained, and the Asiatic churches retained
 their usage unmolested (Euseb. _H.E._ v. 23-25). We find the Jewish
 usage from time to time reasserting itself after this, but it never
 prevailed to any large extent.
 
 A final settlement of the dispute was one among the other reasons which
 led Constantine to summon the council of Nicaea in 325. At that time the
-Syrians and Antiochenes were the solitary champions of the observance of
+Syrians and Antiochenes were the solitary [[Champion|champions]] of the observance of
 the fourteenth day. The decision of the council was unanimous that
 Easter was to be kept on Sunday, and on the same Sunday throughout the
 world, and "that none should hereafter follow the blindness of the
@@ -146,11 +146,11 @@ observed on different Sundays, in certain years, in England, by the
 adherents of the two churches. Thus Bede records that in a certain year
 (which must have been 645, 647, 648 or 651) Queen Eanfleda, who had
 received her instruction from a Kentish priest of the Roman obedience,
-was fasting and keeping Palm Sunday, while her husband, Oswy, king of
+was [[Fasting|fasting]] and keeping Palm Sunday, while her husband, Oswy, king of
 Northumbria, following the rule of the British church, was celebrating
 the Easter festival. This diversity of usage was ended, so far as the
 kingdom of Northumbria was concerned, by the council of Streaneshalch,
-or Whitby, in 654. To Archbishop Theodore is usually ascribed the credit
+or Whitby, in 654. To Archbishop Theodore is usually ascribed the [[Credit|credit]]
 of ending the difference in the rest of England in 669.
 
 The Gregorian correction of the calendar in 1582 has once more led to
@@ -158,7 +158,7 @@ different days being observed. So far as Western Christendom is
 concerned the corrected calendar is now universally accepted, and Easter
 is kept on the same day, but it was not until 1752 that the Gregorian
 reformation of the calendar was adopted in Great Britain and Ireland.
-Jealousy of everything emanating from Rome still keeps the Eastern
+[[Jealousy]] of everything emanating from Rome still keeps the Eastern
 churches from correcting the calendar according to the Gregorian
 reformation, and thus their Easter usually falls before, or after, that
 of the Western churches, and only very rarely, as was the case in 1865,
@@ -179,7 +179,7 @@ services of the Octave of Easter were observed; this period, called by
 the French the _Quinzaine de Paques_, was specially observed in that
 country; (3) the Octave of Easter, during which the newly-baptized wore
 their white garments, which they laid aside on the Sunday after Easter,
-known as _Dominica in albis depositis_ from this custom; another name
+known as _[[Dominica]] in albis depositis_ from this custom; another name
 for this Sunday was _Pascha clausum_, or the close of Easter, and from a
 clipping of the word "close" the English name of "Low" Sunday is
 believed to be derived; (4) Eastertide proper, or the paschal season
@@ -189,8 +189,8 @@ the services of the church.
 
 Many ecclesiastical ceremonies, growing up from early times, clustered
 round the celebration of the Easter festival. One of the most notable of
-these was the use of the paschal candle. This was a candle of very large
-dimensions, set in a candlestick big enough to hold it, which was
+these was the use of the paschal [[Candle|candle]]. This was a candle of very large
+dimensions, set in a [[Candlestick|candlestick]] big enough to hold it, which was
 usually placed on the north side, just below the first ascent to the
 high altar. It was kept alight during each service till Whitsuntide. The
 Paschal, as it was called at Durham cathedral, was one of the chief
@@ -210,7 +210,7 @@ ancient churches at Rome the paschal candlesticks were fixtures, but
 elsewhere they were usually movable, and were brought into the church
 and set up on the Thursday before Easter. At Winchester the paschal
 candlestick was of silver, and was the gift of Canute. Others of more or
-less importance are recorded as having been at Canterbury, Bury St
+less importance are recorded as having been at Canterbury, [[Bury]] St
 Edmunds, Hereford and York. The burning of the paschal candle still
 forms part of the Easter ceremonial of the Roman Catholic Church (see
 LIGHTS, CEREMONIAL).
@@ -224,14 +224,14 @@ the present day.
 
 It is not the purpose of this article to enter on the wide subject of
 the popular observances, such as the giving and sending of Pasch or
-Easter eggs as presents. For such the reader may consult Brand's
+Easter [[Egg|eggs]] as presents. For such the reader may consult Brand's
 _Popular Antiquities_, Hone's _Every-Day Book_, and Chambers's _Book of
 Days_.
 
   AUTHORITIES.--Bingham, _Antiquities of the Christian Church_; Bede,
   _Ecclesiastical History of England_; Procter and Frere, _A New History
   of the Book of Common Prayer_ (London, 1901); Surtees Society, _Rites
-  of Durham_, ed. J.T. Fowler (1903); De Morgan, _Companion to the
+  of Durham_, ed. J.T. [[Fowler]] (1903); De Morgan, _Companion to the
   Almanac_ (1845); De Moleon, _Voyages liturgiques_ (Paris, 1718).
        (T. M. F.)
 

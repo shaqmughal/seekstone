@@ -1,6 +1,6 @@
 # Hypallage
 
-HYPALLAGE (Gr. [Greek: hypallagê], interchange or exchange), a
+HYPALLAGE (Gr. [Greek: hypallagê], interchange or [[Exchange|exchange]]), a
 rhetorical figure, in which the proper relation between two words
 according to the rules of syntax are inverted. The stock instance is
 that in Virgil, _Aen._ iii. 61, where _dare classibus austros_, to give

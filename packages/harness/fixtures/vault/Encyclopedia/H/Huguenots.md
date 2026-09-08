@@ -2,15 +2,15 @@
 
 HUGUENOTS, the name given from about the middle of the 16th century to
 the Protestants of France. It was formerly explained as coming from the
-German _Eidgenossen_, the designation of the people of Geneva at the
+German _Eidgenossen_, the designation of the people of [[Geneva]] at the
 time when they were admitted to the Swiss confederation. This
 explanation is now abandoned. The words _Huguenot_, _Huguenote_ are old
 French words, common in 14th and 15th-century charters. As the
 Protestants called the Catholics _papistes_, so the Catholics called the
-Protestants _huguenots_. Henri Estienne, one of the great savants of his
+Protestants _huguenots_. Henri [[Estienne]], one of the great savants of his
 time, in the introduction to his _Apologie d'Herodote_ (1566) gives a
 very clear explanation of the term _huguenots_. The Protestants at
-Tours, he says, used to assemble by night near the gate of King Hugo,
+Tours, he says, used to assemble by night near the gate of King [[Hugo]],
 whom the people regarded as a spirit. A monk, therefore, in a sermon
 declared that the Lutherans ought to be called _Huguenots_ as kinsmen of
 King Hugo, inasmuch as they would only go out at night as he did. This
@@ -21,11 +21,11 @@ France could not stand outside the religious movement of the 16th
 century. It is true that the French reform movement has often been
 regarded as an offshoot of Lutheranism; up to I he middle of the century
 its adherents were known as Lutherans. But it should not be forgotten
-that so early as 1512 Jacobus Faber (q.v.) of Etaples published his
-_Santi Pauli Epistolae xiv. ... cum commentariis_, which enunciates the
+that so early as 1512 Jacobus Faber (q.v.) of [[Etaples]] published his
+_Santi Pauli Epistolae xiv. ... cum [[Commentarii|commentariis]]_, which enunciates the
 cardinal doctrine of reform, justification by faith, and that in 1523
 appeared his French translation of the New Testament. The first
-Protestants were those who set the teachings of the Gospel against the
+Protestants were those who set the teachings of the [[Gospel]] against the
 doctrines of the Roman Church. As early as 1525 Jacques Pavannes, the
 hermit of Livry, and shortly afterwards Louis de Berquin, the first
 martyrs, were burned at the stake. But no persecution could stop the
@@ -38,11 +38,11 @@ the middle of the 18th century. Three years later (1538) at Strassburg
 the first French Protestant Church, composed of 1500 refugees, was
 founded.
 
-Of all these exiles the most famous was John Calvin (q.v.), the future
-leader of the movement, who fled to Basel, where he is said to have
+Of all these exiles the most famous was John [[Calvin]] (q.v.), the future
+leader of the movement, who fled to [[Basel]], where he is said to have
 written the famous _Institutio christianae religionis_, preceded by a
 letter to Francis I. in which he pleaded the cause of the reformers. The
-first Protestant community in France was that of Meaux (1546) organized
+first Protestant community in France was that of [[Meaux]] (1546) organized
 on the lines of the church at Strassburg of which Calvin was pastor. The
 Catholic Florimond de Remond paid it the beautiful tribute of saying
 that it seemed as though "la chretiente fut revenue en elle a sa
@@ -84,20 +84,20 @@ The synod of 1559 was the beginning of a remarkable increase in the
 Reform movement; at that synod fifteen churches were represented, two
 years later, in 1561, the number increased to 2150. The parlements were
 powerless before this increase; thousands left the Catholic Church, and
-when it was seen that execution and popular massacre provided no
-solution of the difficulty the struggle was carried into the arena of
+when it was seen that execution and popular [[Massacre|massacre]] provided no
+solution of the difficulty the struggle was carried into the [[Arena|arena]] of
 national politics. On the side of the reformers were ranged some among
-the noblest Frenchmen of the age, Coligny, La Noue, Duplessis Mornay,
-Jean Cousin, Ramus, Marot, Ambroise Pare, Olivier de Serres, Bernard
+the noblest Frenchmen of the age, [[Coligny]], [[La Noue]], Duplessis Mornay,
+Jean [[Cousin]], Ramus, [[Marot]], Ambroise Pare, Olivier de Serres, [[Bernard]]
 Palissy, the Estiennes, Hotman, Jean de Serres, with the princess Renee
 of France, Jeanne d'Albret, Louise de Coligny. The policy which refused
 liberty of conscience to the reformers and thus plunged the country into
-the horrors of civil war came near to causing a national catastrophe.
+the horrors of civil war came near to causing a national [[Catastrophe|catastrophe]].
 For more than fifty years the history of the Huguenots is that of France
 (1560-1629). Francis II., who succeeded Henry II. at the age of sixteen,
 married Mary Stuart, and fell under the domination of the queen's
 uncles, the Guises, who were to lead the anti-Reform party. The
-Bourbons, the Montmorencies, the Chatillons, out of hostility to them,
+[[Bourbon|Bourbons]], the Montmorencies, the Chatillons, out of hostility to them,
 became the chiefs of the Huguenots.
 
 The conspiracy of Amboise, formed with the object of kidnapping the king
@@ -108,18 +108,18 @@ become so powerful that Coligny, who was to become their most famous
 leader, protested in their name against this violation of liberty of
 conscience. The Guise party caused the prince of Conde to be arrested
 and condemned to death, but the sentence was not carried into effect,
-and at this moment Catherine de' Medici became regent on the accession
+and at this moment [[Catherine De' Medici|Catherine de' Medici]] became regent on the accession
 of Charles IX. She introduced Italian methods of government, alternating
 between concessions and vigorous persecution, both alike devoid of
 sincerity. For a moment, at the colloquy of Poissy (Oct. 1561), at which
 Roman Catholic and Protestant divines were assembled together and
-Theodore Beza played so important a part, it seemed as though a modus
+Theodore [[Beza]] played so important a part, it seemed as though a modus
 vivendi would be established. The attempt failed, but by the edict of
 January 1562, religious liberty was assured to the Huguenots. This,
 however, was merely the prelude to civil war, the signal for which was
 given by the Guises, who slaughtered a number of Huguenots assembled for
 worship in a barn at Vassy (March 1, 1562). The duke of Guise, entering
-Paris in triumph, transferred the court to Fontainebleau by a daring
+Paris in triumph, transferred the court to [[Fontainebleau]] by a daring
 _coup d'etat_ in defiance of the queen regent. It was then that Conde
 declared "qu'on ne pouvait plus rien esperer que de Dieu et ses armes,"
 and with the Huguenot leaders signed at Orleans (April 11, 1562) the
@@ -142,7 +142,7 @@ lasted only a few months. Pope Pius V. did not cease to demand the
 extermination of the heretics, and the queen mother finally issued the
 edict of the 28th of September 1568, which put the Huguenots outside the
 protection of the law. The Huguenots once more took up arms, but were
-defeated at Jarnac (March 13, 1569), and Conde was taken prisoner and
+defeated at [[Jarnac]] (March 13, 1569), and Conde was taken prisoner and
 assassinated by Montesquiou. But Jeanne d'Albret renewed the courage of
 the vanquished by presenting to them her son Henri de Bourbon, the
 future Henry IV. Coligny, whose heroic courage rose with adversity,
@@ -154,10 +154,10 @@ For a moment it seemed reasonable to hope that the war was at an end.
 Coligny had said that he would prefer to be dragged through the streets
 of Paris than to recommence the fighting; Charles IX. had realized the
 nobility and the patriotism of the man who wished to drive the Spaniards
-from Flanders; Henri de Bourbon was to marry Marguerite of France. Peace
+from [[Flanders]]; Henri de Bourbon was to marry [[Marguerite]] of France. Peace
 seemed to be assured when on the night of the 24th of August, 1572,
 after a council at which Catherine de' Medici, Charles IX., the duke of
-Anjou and other leaders of the League assisted, there occurred the
+[[Anjou]] and other leaders of the League assisted, there occurred the
 treacherous Massacre of St Bartholomew (q.v.) in which Coligny and all
 the leading Huguenots were slain. This date marks a disastrous epoch in
 the history of France, the long period of triumph of the Catholic
@@ -168,7 +168,7 @@ their friends, and the Protestants were slain in thousands. The
 survivors resolved upon a desperate resistance. It was at this time that
 the Huguenots were driven to form a political party; otherwise they
 must, like the Protestants of Spain, have been exterminated. This party
-was formed at Milhau in 1573, definitely constituted at La Rochelle in
+was formed at Milhau in 1573, definitely constituted at [[La Rochelle]] in
 1588, and lasted until the peace of Alais in 1629. The delegates
 selected by the churches bound themselves to offer a united opposition
 to the violence of the enemies of God, the king and the state. It is a
@@ -183,7 +183,7 @@ Protector of the Churches, an office held first by Conde and afterwards
 by the king of Navarre up to the day on which he became king of France
 as Henry IV. (1589). The fourth religious war, which had broken out
 immediately after the Massacre of St Bartholomew, was brought to an end
-by the pacification of Boulogne (July 16, 1573), which granted a general
+by the pacification of [[Boulogne]] (July 16, 1573), which granted a general
 amnesty, but the obstinate intolerance of the League resulted in the
 creation of a Catholic party called "les Politiques" which refused to
 submit to their domination and offered aid to the Huguenots against the
@@ -191,7 +191,7 @@ Guises. The recollections of the horrors of St Bartholomew's night had
 hastened the death of Charles IX., the last of the Valois; he had been
 succeeded by the most debauched and effeminate of monarchs, Henry III.
 Once more war broke out. Henry of Guise, "le Balafre," nephew of the
-cardinal of Lorraine, became chief of the League, while the duke of
+cardinal of [[Lorraine]], became chief of the League, while the duke of
 Anjou, the king's brother, made common cause with the Huguenots. The
 peace of Monsieur, signed on the 5th of May 1576, marked a new victory
 of liberty of conscience, but its effect was ephemeral; hostilities soon
@@ -210,17 +210,17 @@ influence. On the 20th of October 1587 he won the battle of Coutras, but
 on the 28th the foreign Protestants who were coming to his aid were
 routed by Guise at Montargis. The new body, known as "the Sixteen of
 Paris," thereupon compelled Henry III. to sign the "Edict of Union" by
-which the cardinal of Bourbon was declared heir presumptive. The king
+which the cardinal of Bourbon was declared [[Heir|heir]] presumptive. The king
 could not, however, endure the humiliation of hearing Henry of Guise
 described as "king of Paris" and on the 23rd of December 1588 had him
-murdered together with the cardinal of Lorraine at the chateau of Blois.
+murdered together with the cardinal of Lorraine at the chateau of [[Blois]].
 The League, now led by the duke of Mayenne, Guise's brother, declared
-war to the knife upon him and caused him to be excommunicated. In his
+war to the [[Knife|knife]] upon him and caused him to be excommunicated. In his
 isolation Henry III. threw himself into the arms of Henry of Navarre,
 who saved the royalist party by defeating Mayenne and escorted the king
 with his victorious army to St. Cloud, whence he proposed to enter Paris
 and destroy the League. But Henry III., on the 1st of August 1589, was
-assassinated by the monk Jacques Clement, on his deathbed appointing
+assassinated by the monk Jacques [[Clement]], on his deathbed appointing
 Henry of Navarre as his successor.
 
 This only spurred the League to redoubled energy, and Mayenne proclaimed
@@ -229,9 +229,9 @@ who had already promised to maintain the Roman Church, gained new
 adherents every day, defeated the Leaguers at Arques in 1589, utterly
 routed Mayenne at Ivry on the 14th of March 1590, and laid siege to
 Paris. Cardinal de Bourbon having died in the same year and France being
-in a state of anarchy, Philip II. of Spain, in concert with Pope Gregory
+in a state of anarchy, Philip II. of Spain, in [[Concert|concert]] with Pope Gregory
 XIV., who excommunicated Henry IV., supported the claims of the infanta
-Isabella. Mayenne, unable to continue the struggle without Spanish help,
+[[Isabella]]. Mayenne, unable to continue the struggle without Spanish help,
 promised to assist him, but Henry neutralized this danger by declaring
 himself a Roman Catholic at St Denis (July 25, 1593), saying, "Paris
 after all is worth a mass, in spite of the advice and the prayers of my
@@ -263,18 +263,18 @@ destruction of the Huguenots was his policy and he pursued it to a
 triumphant conclusion. On the 28th of October 1628, La Rochelle, the
 last stronghold of the Huguenots, was obliged to surrender after a siege
 rendered famous for all time by the heroism of its defenders and of its
-mayor. The peace of Alais, which was signed on the 28th of June 1629,
+[[Mayor|mayor]]. The peace of Alais, which was signed on the 28th of June 1629,
 marks the end of the civil wars.
 
 The Huguenots had ceased to exist as a political party and, in the
 assurance that liberty of conscience would be accorded to them, showed
-themselves loyal subjects. On the death of Louis XIII., the declaration
+themselves loyal subjects. On the death of Louis XIII., the [[Declaration|declaration]]
 of the 8th of July 1643 had guaranteed to the Protestants "free and
 unrestricted, exercise of their religion," thus confirming the Edict of
-Nantes. The synods of Charenton (1644) and Loudun (1659) asserted their
+Nantes. The synods of Charenton (1644) and [[Loudun]] (1659) asserted their
 absolute loyalty to Louis XIV., a loyalty of which the Huguenots had
 given proof not only by their entire abstention from the troubles of the
-Fronde, but also by their public adherence to the king. The Roman
+[[Fronde]], but also by their public adherence to the king. The Roman
 Catholic clergy had never accepted the Edict of Nantes, and all their
 efforts were directed to obtaining its revocation. As long as Mazarin
 was alive the complaints of the clergy were in vain, but when Louis XIV.
@@ -297,7 +297,7 @@ the revocation of the Edict of Nantes. In spite of all sufferings which
 this rigorous legislation inflicted upon them they did not cease to
 resist, and in order to crush this resistance and to compel them to
 accept the "king's religion," there were organized the terrible
-_dragonnades_ (1683-1686) which effected the forcible conversion of
+_dragonnades_ (1683-1686) which effected the forcible [[Conversion|conversion]] of
 thousands of Protestants who gave way under the tortures which were
 inflicted upon them. It was then that Louis XIV. declared that "the best
 of the larger part of our subjects, who formerly held the so-called
@@ -313,8 +313,8 @@ with their heroism, their courage and their ability.
 There is perhaps no example in history of so cruel a persecution as
 this, which destroyed a church of which Protestant Europe was justly
 proud. At no period in its career had it numbered among its adherents so
-many men of eminence, Abbadie, Claude, Bayle, Du Bosc, Jurieu, Elie
-Benoist, La Placette, Basnage, Daille, Mestrezat, Du Quesne, Schomberg,
+many men of [[Eminence|eminence]], Abbadie, [[Claude]], Bayle, Du [[Bosc]], Jurieu, Elie
+Benoist, La Placette, [[Basnage]], [[Daille]], Mestrezat, Du Quesne, Schomberg,
 Ruvigny. There were no Huguenots left in France; those who, conquered by
 persecution, remained there were described as "New Catholics." All the
 pastors who refused to abjure their faith were compelled to leave the
@@ -333,17 +333,17 @@ constant to the Protestant faith. For fifteen years the exiles
 continuously besought Louis XIV. to give them back their religious
 liberty. For a moment they hoped that the Treaty of Ryswick (1697) would
 realise their hopes, but Louis XIV. steadily declined to grant their
-requests. Despair armed the Cevennes, and in 1702 the war of the
-Camisards broke out, a struggle of giants sustained by Jean Cavalier
+requests. Despair armed the [[Cevennes]], and in 1702 the war of the
+[[Camisards]] broke out, a struggle of [[Giant|giants]] sustained by Jean Cavalier
 with his mountaineers against the royal troops (see CAMISARDS and
 CAVALIER, Jean). The Huguenots seemed to be finally conquered. On the
 8th of March 1715 Louis XIV. announced that he had put an end to all
 exercise of the Protestant religion; but in this very year, on the 21st
 of August, while the king was dying at Versailles, there assembled
-together at Monoblet in Languedoc, under the presidency of a young man
-twenty years of age, Antoine Court, a number of preachers, as the
+together at Monoblet in [[Languedoc]], under the presidency of a young man
+twenty years of age, [[Antoine]] Court, a number of preachers, as the
 pastors were then called, with the object of raising the church from its
-ruins. This was the first synod of the Desert. To re-establish the
+ruins. This was the first synod of the [[Desert]]. To re-establish the
 abandoned worship, to unite the churches in the struggle for liberty of
 conscience, such was the work to which Court devoted his life, and which
 earned for him the name of the "Restorer of Protestantism" (see COURT,
@@ -351,7 +351,7 @@ ANTOINE). In spite of persecution the Protestants continued their
 assemblies; the fear of death and of the galleys were alike powerless to
 break their resistance. On the demand of the clergy all marriages
 celebrated by their pastors were declared null and void, and the
-children born of these unions were regarded as bastards.
+children born of these unions were regarded as [[Bastard|bastards]].
 
 Protestantism, which persecution seemed to have driven from France, drew
 new life from this very persecution. Outlawed, exiles in their own
@@ -364,7 +364,7 @@ pastors; several years later, in 1763, the date of the last synod of the
 Desert, their number had increased to 65. The question of Protestant
 marriages roused public opinion which could not tolerate the idea that
 Frenchmen, whose sole crime was their religious belief, should be
-condemned to civil death. The torture of Jean Calas, who was condemned
+condemned to civil death. The torture of Jean [[Calas]], who was condemned
 on a false charge of having killed his son because he desired to become
 a Catholic, caused general indignation, of which Voltaire became the
 eloquent mouthpiece. Ideas of tolerance, of which Bayle had been the
@@ -374,7 +374,7 @@ edict of November 1787, in spite of the fierce opposition of the clergy,
 renewed the civil rights of the Huguenots by recognizing the validity of
 their marriages. Victories even greater were in store; two years later
 liberty of conscience was won. On the 22nd of August 1789 the pastor
-Rabaut Saint-Etienne, deputy for the _senechaussee_ of Nimes to the
+Rabaut Saint-Etienne, [[Deputy|deputy]] for the _senechaussee_ of Nimes to the
 States General, cried out, "It is not tolerance which I demand, it is
 liberty, that my country should accord it equally without distinction of
 rank, of birth or of religion." The Declaration of the Rights of Man
@@ -388,7 +388,7 @@ had to endure those of the Terror; their churches were shut, their
 pastors dispersed and some died upon the scaffold. On the 3rd of
 Ventose, year II. (February 21, 1795), the church was divorced from the
 state and the Protestants devoted themselves to reorganization. Some
-years later Bonaparte, having signed the Concordat of the 15th of July
+years later [[Bonaparte]], having signed the Concordat of the 15th of July
 1801, promulgated the law of the 18th of Germinal, year X., which
 recognized the legal standing of the Protestant church, but took from it
 the character of free church which it had always claimed. So great was
@@ -396,7 +396,7 @@ the contrast between a past which recalled to Protestants nothing but
 persecution, and a present in which they enjoyed liberty of conscience,
 that they accepted with a profound gratitude a regime of which the
 ecclesiastical standpoint was so alien to their traditions. With
-enthusiasm they repeated the words with which Napoleon had received the
+[[Enthusiasm|enthusiasm]] they repeated the words with which Napoleon had received the
 pastors at the Tuileries on the 16th of Frimaire, year XII.: "The empire
 of the law ends where the undefined empire of conscience begins; law and
 prince are powerless against this liberty."
@@ -409,9 +409,9 @@ migration and persecution had more than decimated them. In 1626 there
 were 809 pastors in the service of 751 churches; in 1802 there were
 only 121 pastors and 171 churches; in Paris there was only a single
 church with a single pastor. The church had no faculty of theology, no
-schools, no Bible societies, no asylums, no orphanages, no religious
+schools, no Bible societies, no [[Asylum|asylums]], no orphanages, no religious
 literature. Everything had to be created afresh, and this work was
-pursued during the 19th century with the energy and the earnest faith
+pursued during the 19th century with the energy and the [[Earnest|earnest]] faith
 which is characteristic of the Huguenot character.
 
 At the fall of the Empire (1815) the reaction of the White Terror once
@@ -426,9 +426,9 @@ great religious societies:--Societe biblique (1819), Societe de
 l'instruction primaire (1829), Societe des traites (1821), Societe des
 missions (1822). The influence of English thought on the development of
 religious life was remarkable, and theology drew its inspiration from
-the writings of Paley, David Bogue, Chalmers, Ebenezer Erskine, Robert
-and James Alexander Haldane, which were translated into French. Later on
-German theology and the works of Kant, Neander and Schleiermacher
+the writings of Paley, David Bogue, [[Chalmers]], Ebenezer Erskine, Robert
+and James Alexander [[Haldane]], which were translated into French. Later on
+German theology and the works of [[Kant]], Neander and Schleiermacher
 produced a far-reaching effect. This was due to the period of
 persecution which had checked that development of religious thought
 which had been so remarkable a feature of French Protestantism of the
@@ -436,7 +436,7 @@ which had been so remarkable a feature of French Protestantism of the
 
 Slowly Protestantism once more took its place in the national life. The
 greatest names in its history are those of Guizot and Cuvier; Adolf
-Monod, with Athanase Coquerel, stand in the front rank of pulpit
+Monod, with Athanase [[Coquerel]], stand in the front rank of pulpit
 orators. The Protestants associated themselves with all the great
 philanthropic works--Baron Jules Delessert founded savings banks, Baron
 de Stael condemned slavery, and all France united to honour the pastor,
@@ -461,7 +461,7 @@ Concordat of 1802 and each possessing its own peculiar organization.
 The descendants of the Huguenots, however, remained faithful to the
 traditions of their ancestors, and extolled the great past of the French
 reform movement. Moreover, in 1859 were held the magnificent religious
-festivals to celebrate the third centenary of the convocation of their
+festivals to celebrate the third centenary of the [[Convocation|convocation]] of their
 first national synod; and when on the 18th of October 1885 they recalled
 the 200th anniversary of the Revocation of the Edict of Nantes, they
 were able to assert that the Huguenots had been the first defenders of
@@ -471,7 +471,7 @@ steady perseverance for more than one hundred years, showed great
 results. This church, which in 1802 had scarcely 100 pastors has seen
 this number increased to 1000; it possesses more than 900 churches or
 chapels and 180 presbyteries. In contrast with the poverty of religious
-life under the First Empire it presented a striking array of Bible
+life under the First Empire it presented a striking [[Array|array]] of Bible
 societies, missionary societies, and others for evangelical,
 educational, pastoral and charitable work, which bear witness to a
 church risen from its ruins. French Protestantism in the course of the
@@ -481,21 +481,21 @@ the celebrated _Revue de theologie de Strasbourg_ (1850); Edmond de
 Pressense, editor of the _Revue chretienne_, Charles Bois and Michel
 Nicolas, professors of theology at Montauban, Auguste Sabatier,
 professor of theology at the university of Paris, Albert Reville,
-professor at the College de France, Felix Pecaut, &c.; well-known
+professor at the College de France, [[Felix]] Pecaut, &c.; well-known
 preachers such as Eugene Bersier, Ernest Dhornbres, Ariste Vigure, Numa
 Recolin, Auguste de Coppet, and missionaries, for example Eugene Casalis
 and Coillard; Jean Bost, who founded the hospitals at Laforce;
 historians like Napoleon Peyrat, the brothers Haag, who wrote _La France
 protestante_, Francois Puaux, Charles Coquerel, Onesime Douen, Henri
 Bordier, Edouard Sayous, de Felice, Theophile Rollez; Jean Pedezert,
-Leon Pilatte and others, who were journalists; such statesmen as Guizot,
-Leon Say, Waddington; such scholars as Cuvier, Broca, Wurtz, Friedel de
+[[Leon]] Pilatte and others, who were journalists; such statesmen as Guizot,
+Leon Say, Waddington; such scholars as Cuvier, Broca, Wurtz, [[Friedel]] de
 Quatrefages; such illustrious soldiers and sailors as Rapp, Admirals
 Baudin, Jaureguiberry, Colonel Denfert-Rochereau. But the population of
 Protestant France does not exceed 750,000 souls, without counting the
-Lutherans, who are attached to the Confession of Augsburg, numbering
+Lutherans, who are attached to the Confession of [[Augsburg]], numbering
 about 75,000. Their chief centres are in the departments of Gard,
-Ardeche, Drome, Lozere, the Deux Sevres and the Seine.
+[[Ardeche]], Drome, Lozere, the Deux Sevres and the Seine.
 
 The law of the 9th of December 1905, which separated the church from the
 state, has been accepted by the great majority of Protestants as a
@@ -522,13 +522,13 @@ and of thus reconstituting the old Huguenot church.
   Browning, _History of the Huguenots_ (1 vol., 1840); G. A. de Felice,
   _Histoire des protestants de France_ (1874).
 
-  Special Periods. The 16th Century.--H. M. Baird, _The Huguenots and
+  Special Periods. The 16th Century.--H. M. [[Baird]], _The Huguenots and
   Henry of Navarre_ (2 vols., New York, 1886), and _History of the Rise
   of the Huguenots of France_ (New York, 1879); A. W. Whitehead,
   _Gaspard de Coligny_ (London, 1904); J. W. Thompson, _The Wars of
   Religion in France_, 1559-1576 (1909); Th. Beza, _Histoire
   ecclesiastique des eglises reformees au royaume de France_ (3 vols.,
-  Antwerp, 1580; new edition by G. Baum et Cunitz, 1883); Crespin,
+  [[Antwerp]], 1580; new edition by G. Baum et [[Cunitz]], 1883); Crespin,
   _Histoire des martyrs persecutes et mis a mort pour la verite de
   l'evangile_ (2 vols. in fol., Geneva, 1619; abridged translation by
   Rev. A. Maddock, London, 1780); Pierre de la Place, _Commentaires sur
@@ -541,7 +541,7 @@ and of thus reconstituting the old Huguenot church.
   most trustworthy source for the history of the origin of French
   reform. "Calvini opera" in the _Corpus reformatorum_, edited by Reuss,
   Baum and Cunitz, particularly the correspondence, vols. x. to xxii.;
-  Doumergue, _Jean Calvin, les hommes et les choses de son temps_ (3
+  Doumergue, _Jean Calvin, les hommes et les [[Chose|choses]] de son temps_ (3
   vols., 1899); G. von Polenz, _Geschichte des franzosischen
   Calvinismus_ (5 vols., 1857); Etienne A. Laval, _Compendious history
   of the reformation in France and of the reformed Church in that
@@ -558,10 +558,10 @@ and of thus reconstituting the old Huguenot church.
   history of French Protestantism; D'Huisseau, _La Discipline des
   eglises reformees de France_ (Amsterdam, 1710); H. de Rohan, _Memoires
   ... jusqu'en 1629_ (Amsterdam, 1644); Jean Claude, _Les Plaintes des
-  Protestans de France_ (Cologne, 1686, new edition with notes by Frank
+  Protestans de France_ ([[Cologne]], 1686, new edition with notes by [[Frank]]
   Puaux, Paris, 1885); Pierre Jurieu, _Lettres pastorales_ (3 vols.,
   Rotterdam, 1688); Brousson, _Etat des Reformes de France_ (3 vols.,
-  The Hague, 1685); Anquez, _Histoire des assemblees politiques des
+  The [[Hague]], 1685); Anquez, _Histoire des assemblees politiques des
   reformes de France_ (1 vol., Paris, 1859); Pilatte, _Edits et arrets
   concernant la religion pretendue reformee, 1662-1711_ (1889); Douen,
   _Les Premiers pasteurs du Desert_ (2 vols., 1879); H. M. Baird, _The
@@ -572,13 +572,13 @@ and of thus reconstituting the old Huguenot church.
   1842); Ch. Coquerel, _Histoire des eglises du Desert_ (2 vols., 1841);
   E. Hugues, Antoine Court, _Histoire de la restauration du
   protestantisme en France_ (2 vols., 1872); _Les Synodes du Desert_ (3
-  vols., 1875); A. Coquerel, _Jean Calas_ (1869); Court de Gebelin, _Les
+  vols., 1875); A. Coquerel, _Jean Calas_ (1869); [[Court De Gebelin|Court de Gebelin]], _Les
   Toulousaines_ (1763).
 
   19th Century.--_Die protestantische Kirche Frankreichs_ (2 vols.,
   1848); _Annuaire_ de Rabaut 1807, de Soulier 1827, de De Prat 1862,
   (1878); _Agenda protestant_ de Frank Puaux (1880-1894); _Agenda
-  annuaire protestant_ de Gambier (1895-1907); Bersier, _Histoire du
+  annuaire protestant_ de [[Gambier]] (1895-1907); Bersier, _Histoire du
   Synode de 1872_ (2 vols.); Frank Puaux, _Les Oeuvres du protestantisme
   francais au XIX^e siecle_. See also CAMISARDS, CALVIN, EDICT OF
   NANTES.     (F. Px.)

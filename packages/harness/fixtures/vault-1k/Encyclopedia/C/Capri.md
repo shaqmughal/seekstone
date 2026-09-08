@@ -65,7 +65,7 @@ Anacapri.
 
 In 1806 the island was taken by the English fleet under Sir Sidney
 Smith, and strongly fortified, but in 1808 it was retaken by the French
-under Lamarque. In 1813 it was restored to Ferdinand I. of the Two
+under Lamarque. In 1813 it was restored to [[Ferdinand]] I. of the Two
 Sicilies.
 
   See J. Beloch, _Campanien_ (Breslau, 1890), 278 seq.; G. Feola,

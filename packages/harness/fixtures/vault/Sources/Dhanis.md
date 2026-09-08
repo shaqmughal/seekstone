@@ -14,7 +14,7 @@ Greenock, where he received his early education. He was the son of a
 Belgian merchant and of an Irish lady named Maher. The name Dhanis is
 supposed to be a variation of D'Anvers. Having completed his education
 at the École Militaire he entered the Belgian army, joining the regiment
-of grenadiers, in which he rose to the rank of major. As soon as he
+of grenadiers, in which he rose to the rank of [[Major|major]]. As soon as he
 reached the rank of lieutenant he volunteered for service on the Congo,
 and in 1887 he went out for a first term. He did so well in founding new
 stations north of the Congo that, when the government decided to put an
@@ -23,7 +23,7 @@ command the chief expedition sent against the slave dealers. The
 campaign began in April 1892, and it was not brought to a successful
 conclusion till January 1894. The story of this war has been told in
 detail by Dr Sydney Hinde, who took part in it, in his book _The Fall of
-the Congo Arabs_. The principal achievements of the campaign were the
+the Congo [[Arabs]]_. The principal achievements of the campaign were the
 captures in succession of the three Arab strongholds at Nyangwe,
 Kassongo and Kabambari. For his services Dhanis was raised to the rank
 of baron, and in 1895 was made vice-governor of the Congo State. In 1896
@@ -40,7 +40,7 @@ soldiers. Although the incidents of the Batetela operations were less
 striking than those of the Arab war, many students of both think that
 the Belgian leader displayed the greater ability and fortitude in
 bringing them to a successful issue. In 1899 Baron Dhanis returned to
-Belgium with the honorary rank of vice governor-general. He died on the
+[[Belgium]] with the honorary rank of vice governor-general. He died on the
 14th of November 1909.
 
 ## See also

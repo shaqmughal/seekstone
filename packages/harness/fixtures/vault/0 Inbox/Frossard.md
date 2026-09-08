@@ -10,8 +10,8 @@ of the emperor Napoleon III., who made him in 1867 chief of his military
 household and governor to the prince imperial. He was one of the
 superior military authorities who in this period 1866-1870 foresaw and
 endeavoured to prepare for the inevitable war with Germany, and at the
-outbreak of war he was given by Napoleon the choice between a corps
-command and the post of chief engineer at headquarters. He chose the
+outbreak of war he was given by Napoleon the choice between a [[Corps|corps]]
+command and the post of chief engineer at headquarters. He [[Chose|chose]] the
 command of the II. corps. On the 6th of August 1870 he held the position
 of Spicheren against the Germans until the arrival of reinforcements for
 the latter, and the non-appearance of the other French corps compelled

@@ -17,7 +17,7 @@ in Messenia, where he married a lady belonging to the Mavromichalis
 family. He was elected to the chamber in 1851, and four years later his
 eloquence and ability had secured the president's chair for him. He
 became minister of finance in 1856, and again in 1857 and 1859. He
-adhered to the moderate wing of the Liberal party until the revolution
+adhered to the moderate wing of the [[Liberal Party|Liberal party]] until the revolution
 of 1862 and the dethronement of King Otto, when he was minister of
 justice in the provincial government. He was twice minister of the
 interior under Kanaris, in 1864 and in 1865. In March 1865 he became
@@ -27,7 +27,7 @@ of 1866-68 he made active warlike preparations against Turkey, but was
 dismissed by King George, who recognized that Greece could not act
 without the support of the Powers. He was again premier at the time of
 the outbreak of the insurrection in Thessaly in January 1878, and
-supported by Delyanni as minister of foreign affairs he sent an army of
+supported by [[Delyanni]] as minister of foreign affairs he sent an army of
 10,000 men to help the insurgents against Turkey. The troops were
 recalled on the understanding that Greece should be represented at the
 Congress of Berlin. In October 1880 the fall of the Tricoupi ministry

@@ -9,7 +9,7 @@ id: 42-3615
 # Falkland Islands
 
 FALKLAND ISLANDS (Fr. _Malouines_; Span. _Malvinas_), a group of islands
-in the South Atlantic Ocean, belonging to Britain, and lying about 250
+in the South [[Atlantic Ocean]], belonging to Britain, and lying about 250
 m. E. of the nearest point in the mainland of South America, between 51
 deg. and 53 deg. S., and 57 deg. 40' and 61 deg. 25' W. With the
 uninhabited dependency of South Georgia Island, to the E.S.E., they form
@@ -23,7 +23,7 @@ Falkland 2300. Most of the others are mere islets, the largest 16 m.
 long by 8 m. wide. The two principal islands are separated by Falkland
 Sound, a narrow strait from 18 to 2-1/2 m. in width, running nearly N.E.
 and S.W. The general appearance of the islands is not unlike that of one
-of the outer Hebrides. The general colouring, a faded brown, is somewhat
+of the outer [[Hebrides]]. The general colouring, a faded brown, is somewhat
 dreary, but the mountain heights and promontories of the west display
 some grandeur of outline. The coast-line of both main islands is deeply
 indented and many of the bays and inlets form secure and well-protected
@@ -44,7 +44,7 @@ head of Berkeley Sound, but the anchorage there having been found rather
 too exposed, about the year 1844 a town was laid out, and the necessary
 public buildings were erected on Stanley Harbour, a sheltered recess
 within Port William. West Falkland is more hilly near the east island;
-the principal mountain range, the Hornby Hills, runs north and south
+the principal mountain range, the [[Hornby]] Hills, runs north and south
 parallel with Falkland Sound. Mount Adam, the highest hill in the
 islands, is 2315 ft. high.
 
@@ -56,7 +56,7 @@ fuchsias and pelargoniums. Government House, grey, stone-built and
 slated, calls to mind a manse in Shetland or Orkney. The government
 barrack is a rather imposing structure in the middle of the town, as is
 the cathedral church to the east, built of stone and buttressed with
-brick. Next to Stanley the most important place on East Falkland is
+[[Brick|brick]]. Next to Stanley the most important place on East Falkland is
 Darwin on Choiseul Sound--a village of Scottish shepherds and a station
 of the Falkland Island Company.
 
@@ -66,7 +66,7 @@ metamorphosed and a good deal crumpled and distorted, in the low grounds
 clay slate and soft sandstone, and on the ridges hardened sandstone
 passing into the conspicuous white quartzites. There do not seem to be
 any minerals of value, and the rocks are not such as to indicate any
-probability of their discovery. Galena is found in small quantity, and
+probability of their discovery. [[Galena]] is found in small quantity, and
 in some places it contains a large percentage of silver. The dark
 bituminous layers of clay slate, which occur intercalated among the
 quartzites, have led, here as elsewhere, to the hope of coming upon a
@@ -89,18 +89,18 @@ origin is attributed by some to the moraine formation of former
 glaciers. Another out of many theories[1] is that the hard beds of
 quartzite are denuded by the disintegration of the softer layers. Their
 support being removed they break away in the direction of natural
-joints, and the fragments fall down the slope upon the vegetable soil.
+[[Joints|joints]], and the fragments fall down the slope upon the vegetable soil.
 This soil is spongy, and, undergoing alternate contraction and expansion
 from being alternately comparatively dry and saturated with moisture,
 allows the heavy blocks to slip down by their own weight into the
 valley, where they become piled up, the valley stream afterwards
 removing the soil from among and over them.
 
-The Falkland Islands correspond very nearly in latitude in the southern
+The Falkland Islands correspond very nearly in [[Latitude|latitude]] in the southern
 hemisphere with London in the northern, but the climatic influences are
 very different. The temperature is equable, the average of the two
 midsummer months being about 47 deg. Fahr., and that of the two
-midwinter months 37 deg. Fahr. The extreme frosts and heats of the
+midwinter months 37 deg. Fahr. The extreme [[Frost|frosts]] and heats of the
 English climate are unknown, but occasional heavy snow-falls occur, and
 the sea in shallow inlets is covered with a thin coating of ice. The sky
 is almost constantly overcast, and rain falls, mostly in a drizzle and
@@ -115,7 +115,7 @@ of many wrecks emphasize the dangers of navigation, which are increased
 by the absence of beacons, the only lighthouse being that maintained by
 the Board of Trade on Cape Pembroke near the principal settlement. Kelp
 is a natural danger-signal, and the sunken rock, "Uranie," is reputed to
-be the only one not buoyed by the giant seaweed.
+be the only one not buoyed by the [[Giant|giant]] seaweed.
 
 Of aboriginal human inhabitants there is no trace in the Falklands, and
 the land fauna is very scanty. A small wolf, the _loup-renard_ of de
@@ -125,10 +125,10 @@ of course, introduced, as were also the wild hogs, the numerous rabbits
 and the less common hares. All these have greatly declined in numbers,
 being profitably replaced by sheep. Land-birds are few in kind, and are
 mostly strays from South America. They include, however, the snipe and
-military starling, which on account of its scarlet breast is locally
+military starling, which on account of its scarlet [[Breast|breast]] is locally
 known as the robin. Sea-birds are abundant, and, probably from the
 islands having been comparatively lately peopled, they are singularly
-tame. Gulls and amphibious birds abound in large variety; three kinds of
+tame. [[Gull|Gulls]] and amphibious birds abound in large variety; three kinds of
 penguin have their rookeries and breed here, migrating yearly for some
 months to the South American mainland. Stray specimens of the great king
 penguin have been observed, and there are also mollymauks (a kind of
@@ -149,7 +149,7 @@ The peat is different in character from that of northern Europe:
 cellular plants enter but little into its composition, and it is formed
 almost entirely of the roots and stems of _Empetrum rubrum_, a variety
 of the common crow-berry of the Scottish hills with red berries, called
-by the Falklanders the "diddle-dee" berry; of _Myrtus nummularia_, a
+by the Falklanders the "diddle-dee" [[Berry|berry]]; of _Myrtus nummularia_, a
 little creeping myrtle whose leaves are used by the shepherds as a
 substitute for tea; of _Caltha appendiculata_, a dwarf species of
 marsh-marigold; and of some sedges and sedge-like plants, such as
@@ -157,7 +157,7 @@ _Astelia pumila_, _Gaimardia australis_ and _Bostkovia grandiflora_.
 Peat is largely used as fuel, coal being obtained only at a cost of L3 a
 ton.
 
-Two vegetable products, the "balsam bog" (_Bolar glebaria_) and the
+Two vegetable products, the "balsam [[Bog|bog]]" (_Bolar glebaria_) and the
 "tussock grass" (_Dactylis caespitosa_) have been objects of curiosity
 and interest ever since the first accounts of the islands were given.
 The first is a huge mass of a bright green colour, living to a great
@@ -185,7 +185,7 @@ lands are fairly healthy, the principal drawback being the virulent form
 assumed by simple epidemic maladies. The occupation of the inhabitants
 is almost entirely pastoral, and the principal industry is
 sheep-farming. Wool forms by far the largest export, and tallow, hides,
-bones and frozen mutton are also exported. Trade is carried on almost
+[[Bone|bones]] and frozen mutton are also exported. Trade is carried on almost
 entirely with the United Kingdom; the approximate annual value of
 exports is L120,000, and of imports a little more than half that sum.
 The Falkland Islands Company, having its headquarters at Stanley and an
@@ -194,8 +194,8 @@ business in sheep-farming and the dependent industries, and in the
 general import trade. The development of this undertaking necessitated
 the establishment of stores and workshops at Stanley, and ships can be
 repaired and provided in every way; a matter of importance since not a
-few vessels, after suffering injury during heavy weather off Cape Horn,
-call on the Falklands in distress. The maintenance of the requisite
+few vessels, after suffering injury during heavy weather off Cape [[Horn]],
+call on the Falklands in distress. The [[Maintenance|maintenance]] of the requisite
 plant and the high wages current render such repairs somewhat costly. A
 former trade in oil and sealskin has decayed, owing to the smaller
 number of whales and seals remaining about the islands. Communications
@@ -218,7 +218,7 @@ agriculture of imported Fuegians. Stanley was for some years a naval
 station, but ceased to be so in 1904.
 
 The Falkland Islands were first seen, by Davis in the year 1592, and Sir
-Richard Hawkins sailed along their north shore in 1594. The claims of
+Richard [[Hawkins]] sailed along their north shore in 1594. The claims of
 Amerigo Vespucci to a previous discovery are doubtful. In 1598 Sebald de
 Wert, a Dutchman, visited them, and called them the Sebald Islands, a
 name which they bear on some Dutch maps. Captain Strong sailed through
@@ -228,10 +228,10 @@ took its English name. In 1764 the French explorer De Bougainville took
 possession of the islands on behalf of his country, and established a
 colony at Port Louis on Berkeley Sound. But in 1767 France ceded the
 islands to Spain, De Bougainville being employed as intermediary.
-Meanwhile in 1765 Commodore Byron had taken possession on the part of
+Meanwhile in 1765 Commodore [[Byron]] had taken possession on the part of
 England on the ground of prior discovery, and had formed a settlement at
 Port Egmont on the small island of Saunders. The Spanish and English
-settlers remained in ignorance, real or assumed, of each other's
+settlers remained in [[Ignorance|ignorance]], real or assumed, of each other's
 presence until 1769-1770, when Byron's action was nearly the cause of a
 war between England and Spain, both countries having armed fleets to
 contest the barren sovereignty. In 1771, however, Spain yielded the
@@ -240,7 +240,7 @@ colonized by England, the republic of Buenos Aires claimed the group in
 1820, and subsequently entered into a dispute with the United States of
 America concerning the rights to the products of these islands. On the
 representations of Great Britain the Buenos Aireans withdrew, and the
-British flag was once more hoisted at Port Louis in 1833, and since that
+British [[Flag|flag]] was once more hoisted at Port Louis in 1833, and since that
 time the Falkland Islands have been a regular British colony.
 
 In 1845 Mr S. Lafone, a wealthy cattle and hide merchant on the river
@@ -260,7 +260,7 @@ incorporated by charter in the same year.
   Penrose, _Account of the last Expedition to Port Egmont in the
   Falkland Islands_ (1775); _Observations on the Forcible Occupation of
   Malvinas by the British Government in 1833_ (Buenos Ayres, 1833);
-  _Reclamacion del Gobierno de las provincias Unidas de la Plata contra
+  _Reclamacion del Gobierno de las provincias Unidas de [[La Plata|la Plata]] contra
   el de S.M. Britanica sobre la soverania y possesion de las Islas
   Malvinas_ (London, 1841); Fitzroy, _Narrative of the Surveying Voyage
   of H.M.S. "Adventure" and "Beagle"_ (1839); Darwin, _Voyage of a
@@ -268,7 +268,7 @@ incorporated by charter in the same year.
   Falkland Islands_ (1849); W. Hadfield, _Brazil, the Falkland Islands,
   &c._ (1854); W. Parker Snow, _Two Years' Cruise off the Tierra del
   Fuego, the Falkland Islands, &c._ (1857); Sir C. Wyville Thomson,
-  _Voyage of the "Challenger"_ (1877); C.P. Lucas, _Historical Geography
+  _Voyage of the "Challenger"_ (1877); C.P. Lucas, _Historical [[Geography]]
   of the British Colonies_, vol. ii. "The West Indies" (Oxford, 1890);
   _Colonial Reports Annual_; MS. Sloane, 3295.
 

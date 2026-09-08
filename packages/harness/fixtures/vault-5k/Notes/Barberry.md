@@ -8,7 +8,7 @@ topic: architecture
 
 BARBERRY (_Berberis vulgaris_), a shrub with spiny-toothed leaves, which on
 the woody shoots are reduced to forked spines, and pale yellow flowers in
-hanging racemes, which are succeeded by orange-red berries. It is a member
+[[Hanging|hanging]] racemes, which are succeeded by orange-red berries. It is a member
 of the botanical natural order _Berberidaceae_, and contains about 100
 species in the north temperate zone and in the Andes of South America
 extending into Patagonia. The order is nearly allied to the buttercup order

@@ -20,7 +20,7 @@ distributed in the tropical parts of South and Central America,
 frequenting low swampy savannas, along the banks of rivers, and the
 depths of the humid forests, but is nowhere abundant. Its food consists
 mainly of termites, to obtain which it opens their nests with its
-powerful sharp anterior claws, and as the insects swarm to the damaged
+powerful sharp anterior claws, and as the [[Insect|insects]] swarm to the damaged
 part of their dwelling, it draws them into its mouth by means of its
 long, flexible, rapidly moving tongue covered with glutinous saliva. The
 great anteater is terrestrial in habits, not burrowing underground like
@@ -34,13 +34,13 @@ forests of South and Central America. The usual colour is
 yellowish-white, with a broad black lateral band, covering nearly the
 whole of the side of the body.
 
-The little or two-toed anteater (_Cyclopes_ or _Cycloturus didactylus_)
+The little or two-toed anteater (_[[Cyclopes]]_ or _Cycloturus didactylus_)
 is a native of the hottest parts of South and Central America, and about
 the size of a rat, of a general yellowish colour, and exclusively
 arboreal in its habits. The name scaly anteater is applied to the
 pangolin (q.v.); the banded anteater (_Myrmecobius fasciatus_) is a
 marsupial, and the spiny anteater (_Echidna_) is one of the monotremes
-(see MARSUPIALIA and MONOTREMATA).
+(see [[Marsupialia|MARSUPIALIA]] and MONOTREMATA).
 
 ## See also
 

@@ -14,12 +14,12 @@ Erzgebirge, 1894 ft. above the sea, 6 m. from the Bohemian frontier,
 three Evangelical churches, among them that of St Anne, built 1499-1525,
 a Roman Catholic church, several public monuments, among them those of
 Luther, of the famous arithmetician Adam Riese, and of Barbara Uttmann.
-Annaberg, together with the neighbouring suburb, Buchholz, is the chief
+Annaberg, together with the neighbouring suburb, [[Buchholz]], is the chief
 seat of the braid and lace-making industry in Germany, introduced here
 by Barbara Uttmann in 1561, and further developed by Belgian refugees,
 who, driven from their country by the duke of Alva, settled here in
 1590. The mining industry, for which the town was formerly also famous
-and which embraced tin, silver and cobalt, has now ceased. Annaberg has
+and which embraced tin, silver and [[Cobalt|cobalt]], has now ceased. Annaberg has
 technical schools for lace-making, commerce and agriculture, in addition
 to high grade public schools for boys and girls.
 

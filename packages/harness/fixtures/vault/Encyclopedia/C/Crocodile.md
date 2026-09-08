@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Crocodile"
 # Crocodile
 
 CROCODILE, a name for certain reptiles, taken from ancient Gr. [Greek:
-kordylos], signifying lizard and newt; with reduplication [Greek:
+kordylos], signifying [[Lizard|lizard]] and newt; with reduplication [Greek:
 korkordylos], and by metathesis ultimately [Greek: krokodeilos].
 Herodotus makes mention of them, and tells us that the Egyptian name was
 _champsa_. The Arabic term is _ledschun_. The same root _kar_ leads
@@ -24,7 +24,7 @@ The Crocodilia form a separate order of reptiles with many
 peculiarities. The premaxillae are short and always enclose the
 nostrils. The posterior nares or choanae open far behind in the roof of
 the mouth, in recent forms within the pterygoids. The under jaws are
-hinged on to the quadrate bones, which extend obliquely backwards, and
+hinged on to the quadrate [[Bone|bones]], which extend obliquely backwards, and
 are immovably wedged in between the squamosal and the lateral occipital
 wings. The teeth form a complete series in the under jaw, and in the
 upper jaw on the premaxillary and maxillary bones. They are conical and
@@ -38,11 +38,11 @@ snout. In old specimens some of the longer, lower teeth work their tips
 into deep pits, and ultimately even perforate the corresponding parts of
 the upper jaw. The first and second vertebrae each have a pair of long,
 movable ribs. There is a compound abdominal sternum. The so-called pubic
-bones are large and movable. There are five fingers and four toes,
-provided with claws, excepting the outer digits.
+bones are large and movable. There are five [[Finger|fingers]] and four toes,
+provided with claws, excepting the outer [[Digit|digits]].
 
 The tongue is flat and thick, attached by its whole under surface; its
-hinder margin is raised into a transverse fold, which, by meeting a
+hinder margin is raised into a transverse [[Fold|fold]], which, by meeting a
 similar fold from the palate, can shut off the mouth completely from the
 wide cavity of the throat. Dorsally the posterior nares open into this
 cavity. Consequently the beast can lie submerged in the water, with only
@@ -61,7 +61,7 @@ system has attained the highest state of development of all reptiles.
 The heart is practically quadrilocular, the right and left halves being
 completely partitioned, except for a small communication, the _foramen
 Panizzae_, between the right and left aortae where these cross each
-other on leaving their respective ventricles. The outer ear lies in a
+other on leaving their respective ventricles. The outer [[Ear|ear]] lies in a
 recess which can be closed tightly by a dorsal flap of skin. The power
 of hearing is acute, and so is the sight, the eyes being protected by
 upper and lower lids and by a nictitating membrane. The skin of the
@@ -74,10 +74,10 @@ minus, the epidermis and the horny coverings of the scutes. All the
 Crocodilia possess two pairs of musk-glands in the skin; one is situated
 on the inner side of the lower jaw. The opening of the glands is
 slit-like and leads into a pocket, which is filled with a smeary,
-strongly scented matter. The other pair lies just within the lips of the
+strongly scented matter. The other pair lies just within the [[Lip|lips]] of the
 cloacal opening.
 
-Propagation takes place by eggs, which are oval, quite white, with a
+Propagation takes place by [[Egg|eggs]], which are oval, quite white, with a
 very hard and strong shell. Their size varies from 2 to 4 in. in length,
 according to the size of the species and the age of the female. She lays
 several dozen eggs in a carefully prepared nest. The Nile crocodile
@@ -85,7 +85,7 @@ makes a hole in white sand, which is then filled up and smoothed over;
 the mother sleeps upon the nest, and keeps watch over her eggs, and when
 these are near hatching--after about twelve weeks--she removes the 18
 in. or 2 ft. of sand. Other species, especially the alligators, make a
-very large nest of leaves, twigs and humus, scraping together a mound
+very large nest of leaves, twigs and [[Humus|humus]], scraping together a mound
 about a yard high and two or more yards in diameter. The eggs, in
 several layers, are laid near the top. The adults frequently dig long
 subterranean passages into the banks of streams, and, during dry
@@ -100,21 +100,21 @@ hunting-grounds, they sometimes undertake long wanderings over land. But
 the water is their true element. They swim rapidly, propelled by the
 powerful tail and by the mostly webbed limbs, or they submerge
 themselves, with only the tip of the nose and the eyes showing, or
-sometimes also the back. They then look like floating logs; and thus
-they float or gently approach their prey, which consists of anything
+sometimes also the back. They then look like floating [[Log|logs]]; and thus
+they [[Float|float]] or gently approach their prey, which consists of anything
 they can overpower. Many a large mammal coming to drink at its
 accustomed place is dragged into the water by the lurking monster.
 Certainly there are occasional man-eaters amongst them, and in some
 countries they are much feared. As a rule, however, they are so wary and
 suspicious that they are very difficult to approach, and their haunts
-are so well stocked with fish and other game that they make off and hide
+are so well stocked with fish and other [[Game|game]] that they make off and hide
 rather than attack a man swimming in their waters. But if a dog is sent
 in there will be a sudden yelp, the splash from a big tail, and a
 widening eddy.
 
 Crocodile stories, not all fabulous, are plentiful, and begin with one
 of the oldest writings in the world, the book of Job. "Canst thou draw
-leviathan with a hook? or his tongue with a cord which thou lettest
+[[Leviathan|leviathan]] with a hook? or his tongue with a cord which thou lettest
 down?... Lay thine hand upon him, remember the battle, do no more." This
 is a very interesting passage, since it can apply only to a large-sized
 crocodile. Now nothing is known of the occurrence of such in Arabia, but
@@ -138,7 +138,7 @@ crocodile's nest.
 
   Considering the interest which is taken in crocodiles and their
   allies, on account of their size, their dangerous nature and the
-  sporting trophies which they yield, the following "key," based upon
+  sporting trophies which they yield, the following "[[Key|key]]," based upon
   easily ascertained characters of the skull, is given.
 
   I. Snout very long and slender. The mandibular symphysis extends
@@ -151,7 +151,7 @@ crocodile's nest.
 
     (b) Nasal bones long, so as to be in contact with the premaxilla at
     the hinder corner of the nostril groove.... _Tomistoma schlegeli_ of
-    Borneo, Malacca and Sumatra.
+    Borneo, [[Malacca]] and Sumatra.
 
   II. Snout mostly triangular or rounded off. The mandibular symphysis
   does not reach beyond the eighth tooth.
@@ -176,10 +176,10 @@ crocodile's nest.
 
 The genus _Cracodilus_ contains seven species. _C. vulgaris_ or
 _niloticus_ of most of Africa, is found from the Senegal to Egypt and to
-Madagascar, reaching a length of 15 ft. It has eighteen or nineteen
+[[Madagascar]], reaching a length of 15 ft. It has eighteen or nineteen
 upper and fifteen lower teeth on each side. _C. palustris_, the "mugger"
 or "marsh crocodile" of India and Ceylon, extends westwards into
-Baluchistan, eastwards into the Malay islands. It has nineteen upper and
+[[Baluchistan]], eastwards into the Malay islands. It has nineteen upper and
 lower teeth on either side. The scutes on the neck, six in number, are
 packed closely together, the four biggest forming a square. The length
 of 12 ft. is a fair size for a large specimen. _C. porosus_ or
@@ -187,9 +187,9 @@ _biporcatus_ is easily recognised by the prominent longitudinal ridge
 which extends in front of each eye. Specimens of more than 20 ft. in
 length are not uncommon, and a monster of 33 ft. is on record. It is
 essentially an inhabitant of tidal waters and estuaries, and often goes
-out to sea; hence its wide distribution, from the whole coast of Bengal
-to southern China, to the northern coasts of Australia and even to the
-Fiji islands. Australians are in the habit of calling their crocodiles
+out to sea; hence its wide distribution, from the whole coast of [[Bengal]]
+to southern China, to the northern coasts of [[Australia]] and even to the
+[[Fiji]] islands. Australians are in the habit of calling their crocodiles
 alligators. _C. cataphractus_ is the common crocodile of West Africa,
 easily recognised by the slender snout which resembles that of the
 gavial, but the mandibular symphysis does not reach beyond the eighth
@@ -197,7 +197,7 @@ tooth. _C. johnstoni_ of northern Australia and Queensland is allied to
 the last species mentioned, with which it agrees by the slender snout.
 Lastly there are two species of true crocodiles in America, _C.
 intermedius_ of the Orinoco, allied to the former, and _C. americanus_
-or _acutus_ of the West Indies, Mexico, Central America to Venezuela and
+or _acutus_ of the West Indies, Mexico, [[Central America]] to Venezuela and
 Ecuador; its characteristic feature is a median ridge or swelling on the
 snout, which is rather slender.
 

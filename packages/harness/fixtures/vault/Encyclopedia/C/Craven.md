@@ -1,18 +1,18 @@
 # Craven
 
 CRAVEN, WILLIAM CRAVEN, EARL OF (1608-1697), eldest son of Sir William
-Craven, lord mayor of London, and of Elizabeth, daughter of Alderman
+Craven, lord [[Mayor|mayor]] of London, and of Elizabeth, daughter of Alderman
 William Whitmore, was born in June 1608, matriculated at Trinity
 College, Oxford, in 1623, and joined the society of the Middle Temple in
 1624. He had already inherited his father's vast fortune by the latter's
 death in 1618, and before he came of age he had distinguished himself in
 the military service of the princes of Orange. Returning home he was
-knighted and created Baron Craven of Hampstead Marshall in Berkshire in
-1627. He early showed enthusiasm for the cause of the unfortunate king
+knighted and created Baron Craven of Hampstead [[Marshall]] in Berkshire in
+1627. He early showed [[Enthusiasm|enthusiasm]] for the cause of the unfortunate king
 and queen of Bohemia, driven from their dominions, and in 1632 joined
 Frederick in a military expedition to recover the Palatinate, meeting
-Gustavus Adolphus at Hochst, whose praise he gained by being the first,
-though wounded, to mount the breach at the capture of Kreuznach on the
+Gustavus Adolphus at [[Hochst]], whose praise he gained by being the first,
+though wounded, to mount the [[Breach|breach]] at the capture of [[Kreuznach]] on the
 22nd of February. The Swedish king, however, refused to allow the
 elector an independent command for the defence of the Palatinate, and
 Craven returned to England. In May 1633 he was placed on the council of
@@ -22,7 +22,7 @@ and his brother Rupert, and offered as a contribution the sum of
 L30,000, but their forces were defeated near Wessel and Craven wounded
 and taken prisoner together with Rupert. He purchased his freedom in
 1639, and then joined the small court of the exiled queen Elizabeth at
-the Hague and at Rhenen, supplying her generously with funds on the
+the [[Hague]] and at Rhenen, supplying her generously with funds on the
 cessation of her English pension owing to the outbreak of the Civil War.
 He contributed also large sums in aid of Charles I., and, after his
 execution, of Charles II., the amount bestowed upon the latter being
@@ -37,21 +37,21 @@ but was not included later in 1679 in Sir William Temple's remodelled
 council.[3] In 1668 he became a governor of the Charterhouse, was
 appointed lord-lieutenant of Middlesex, and master of the Trinity House
 in 1670; and in 1673 a commissioner for Tangier. He was one of the lords
-proprietors of Carolina and a member of the Fishery Committee.
+proprietors of Carolina and a member of the [[Fishery]] Committee.
 
 In March 1664 he was created viscount and earl of Craven. Meanwhile his
 devotion to the interests of the queen of Bohemia was unceasing, and on
-her return to England he offered her hospitality at his house in Drury
-Lane, where she remained till February 1662. At her death, within a
+her return to England he offered her hospitality at his house in [[Drury]]
+[[Lane]], where she remained till February 1662. At her death, within a
 fortnight afterwards, she bequeathed to Craven her papers and her
 valuable collection of portraits, but there is no foundation for the
 belief entertained later that she had married him. In 1682 he became the
-guardian of Ruperta, the natural daughter of his old comrade in arms,
+[[Guardian|guardian]] of Ruperta, the natural daughter of his old comrade in arms,
 Prince Rupert. He was again made a privy councillor and
 lieutenant-general of the forces by James on his accession, and at the
 age of eighty was in command of the Coldstreams at Whitehall on the 17th
 of December 1688 when the Dutch troops arrived. He refused to withdraw
-them at the bidding of Count Solms, the Dutch commander, but obeyed
+them at the bidding of Count Solms, the Dutch [[Commander|commander]], but obeyed
 later James's own orders to retire. His public career now closed and he
 filled no office after the revolution. Although his claims upon the
 gratitude of the Stuart royal family were immense, Craven had never been
@@ -64,12 +64,12 @@ disgusted at his coarse and stupid jests at the Fishery Board, where his
 His military prowess, however, his generosity and his public spirit are
 undoubted. He showed great activity during the plague and fire of
 London. He was a patron of letters and a member of the Royal Society. He
-inherited Combe Abbey near Coventry from his father, and purchased
+inherited Combe Abbey near [[Coventry]] from his father, and purchased
 Hampstead Marshall in Berkshire, where he built a house on the model of
 Heidelberg Castle.
 
 He died unmarried on the 9th of April 1697, when the earldom became
-extinct, the barony passing by special remainder to his cousin William,
+extinct, the [[Barony|barony]] passing by special remainder to his [[Cousin|cousin]] William,
 2nd Baron Craven; the present earl of Craven (the earldom being revived
 in 1801) is descended from John, a younger brother of the latter. The
 first Lord Craven's brother John, who was created Baron Craven of Ryton

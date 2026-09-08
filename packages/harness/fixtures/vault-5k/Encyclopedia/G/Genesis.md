@@ -4,7 +4,7 @@ GENESIS (Gr. [Greek: genesis], becoming; the term being used in English
 as a synonym for origin or process of coming into being), the name of
 the first book in the Bible, which derives its title from the Septuagint
 rendering of ch. ii. 4. It is the first of the five books (the
-Pentateuch), or, with the inclusion of Joshua, of the six (the
+Pentateuch), or, with the inclusion of [[Joshua]], of the six (the
 Hexateuch), which cover the history of the Hebrews to their occupation
 of Canaan. The "genesis" of Hebrew history begins with records of
 antediluvian times: the creation of the world, of the first pair of
@@ -12,13 +12,13 @@ human beings, and the origin of sin (i.-iii.), the civilization and
 moral degeneration of mankind, the history of man to the time of Noah
 (iv.-vi. 8), the flood (vi. 9-ix.), the confusion of languages and the
 divisions of the human race (x.-xi.). Turning next to the descendants of
-Shem, the book deals with Abraham (xii.-xxv. 18), Isaac and Jacob (xxv.
+Shem, the book deals with Abraham (xii.-xxv. 18), [[Isaac]] and [[Jacob]] (xxv.
 19-xxxv.), the "fathers" of the tribes of Israel, and concludes with
 the personal history of Joseph, and the descent of his father Jacob (or
 Israel) and his brethren into the land of Egypt (xxxvii.-l.). The book
 of Genesis, as a whole, is closely connected with the subsequent
 oppression of the sons of Israel, the revelation of Yahweh the God of
-their fathers (Ex. iii. 6, 15 seq., vi. 2-8), the "exodus" of the
+their fathers (Ex. iii. 6, 15 seq., vi. 2-8), the "[[Exodus|exodus]]" of the
 Israelites to the land promised to their fathers (Ex. xiii. 5, Deut. i.
 8, xxvi. 3 sqq., xxxiv. 4) and its conquest (Josh. i. 6, xxiv.); cf.
 also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
@@ -56,7 +56,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   ignores the flood. Cain the murderer, doomed to be a wanderer, now
   becomes the builder of a city, and his descendants introduce various
   arts (iv. 16b-24).[1] (See the articles ABEL; ADAM; CAIN; COSMOGENY;
-  ENOCH; EVE; LAMECH.) From the "generations" of the heavens and the
+  [[Enoch|ENOCH]]; EVE; LAMECH.) From the "generations" of the heavens and the
   earth (which one would have expected at the head of ch. i.) we pass to
   the "generations of Adam" (v. 1). The list of the "Sethites," with its
   characteristically stereotyped framework, has an older parallel in iv.
@@ -70,7 +70,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   the division of the human race into evil Cainites and God-fearing
   Sethites. The excerpt with its description of the fall of the angels
   is used to form a prelude to the wickedness of man and the avenging
-  flood (vi. 5). Noah, the father of Ham, Shem and Japheth, appears as
+  flood (vi. 5). Noah, the father of Ham, Shem and [[Japheth]], appears as
   the hero in the Hebrew version of the flood (see DELUGE; NOAH).
   Duplicates (vi. 5-8, 9-13) and discrepancies (vi. 19 sq. contrasted
   with vii. 2; or vii. 11, viii. 14 contrasted with viii. 8, 10, 12)
@@ -83,7 +83,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   pairs of clean animals, one of each kind; he sacrifices after leaving
   the ark, and Yahweh promises not to curse the ground or to smite
   living things again. But in the later, he takes only one pair, and
-  subsequently Elohim blesses Noah and makes a covenant never again to
+  subsequently Elohim blesses Noah and makes a [[Covenant|covenant]] never again to
   destroy all flesh by a flood.[2] The covenant (characteristic of the
   latest narratives in Genesis) also prohibits the shedding of blood
   (cf. the story of Cain and Abel in the earlier source). Mankind is now
@@ -97,7 +97,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   families v. 16 with the dispersion "afterwards," v. 18, &c.); see
   CANAAN; GENEALOGY; NIMROD. The history of the primitive age concludes
   with the story of the tower of Babel (xi. 1-9), which, starting from
-  a popular etymology of Babel ("gate of God"), as though from Balbel
+  a popular [[Etymology|etymology]] of Babel ("gate of God"), as though from Balbel
   ("confusion"), tells how Yahweh feared lest mankind should become too
   powerful (cf. iii. 22-24), and seeks to explain the origin of the
   numerous languages in use. It is independent of x., which already
@@ -113,7 +113,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
 
   The "generations of Terah" (xi. 27) lead to the introduction of the
   first great patriarch Abraham (q.v.).[3] There is a twofold account of
-  his migration to Bethel with his nephew Lot; the more statistical form
+  his migration to Bethel with his nephew [[Lot]]; the more statistical form
   in xi. 31 sq., xii. 4b, 5 belongs to the latest source. The statement
   that the Canaanite was then in the land (xii. 6, cf. xiii. 7) points
   to a time long after the Israelite conquest, when readers needed such
@@ -145,7 +145,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   present complicated character (due to repeated revision). The older
   narratives comprise (a) the promise that Abraham shall have a son of
   his own flesh (xv.)--the account is composite;[5] (b) the birth of
-  Ishmael, Abraham's son by Hagar, their exile, and Yahweh's promise
+  [[Ishmael]], Abraham's son by Hagar, their exile, and Yahweh's promise
   (xvi., with a separate framework in vv. 1a. 3, 15 seq.)--before the
   birth of Isaac; and (c) the promise of a son to Sarai (xviii. 1-15),
   now combined with the story of Lot and the overthrow of Sodom. The
@@ -184,7 +184,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   10; contrast the Babylonian home specified in xi. 28, 31; xv. 7). In
   xxv. 1 sqq. Abraham takes as wife (but _concubine_, 1 Chron. i. 32
   seq.) Keturah ("incense") and becomes the father of various Arab
-  tribes, e.g. Sheba and Dedan (grandsons of Cush in x. 7).
+  tribes, e.g. Sheba and Dedan (grandsons of [[Cush]] in x. 7).
 
   After "the generations of Ishmael" (xxv. 12 sqq.) the narrative turns
   to "the generations of Isaac" (xxv. 19 sqq.). The story of the events
@@ -205,7 +205,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   should he return in peace to his father's home (xxviii. 10-22). He
   passes to the land of "the children of the east" (xxix. 1), and the
   scenes which follow are scarcely situated at Haran, the famous and
-  ancient seat of the worship of the moon-god, but in the desert. Here
+  ancient seat of the worship of the moon-god, but in the [[Desert|desert]]. Here
   he resides fifteen years or more, and by the daughters of Laban and
   their handmaidens becomes the "father" of the tribes of Israel. There
   are numerous traces of composition from different sources, but a
@@ -249,7 +249,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   cf. Abraham and Lot, xiii. 5 seq.), and describes the latter's
   withdrawal to Seir (cf. already xxxii. 3; xxxiii. 14, 16). It includes
   lists of diverse origin (e.g. vv. 2-5, contrast xxvi. 34, xxviii. 9);
-  various "dukes" (R.V. marg. "chiefs"), or rather "thousands" or
+  various "[[Dukes|dukes]]" (R.V. marg. "chiefs"), or rather "thousands" or
   "clans"; and also the "sons" of Seir the Horite, i.e. Horite clans
   (vv. 20 seq. and vv. 29 seq.). A summary of Edomite kings is ascribed
   to the period before the Israelite monarchy (vv. 31-39), and the
@@ -261,7 +261,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   of the tribes. (In xxxiv. the incidents which primarily concerned
   Simeon and Levi alone have, however, been adjusted to the general
   history of Jacob and his family.) The first place is given to Joseph
-  (xxxvii.), although xxxviii. crowds the early history of the family of
+  (xxxvii.), although xxxviii. [[Crowd|crowds]] the early history of the family of
   Judah into the twenty-two years between xxxvii. 2 and Jacob's descent
   into Egypt (see xli. 46, 47; xlv. 6).[11] In xxxvii., xxxix. sqq. we
   have an admirable specimen of writing quite distinct in stamp from the
@@ -270,7 +270,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   everything is more detailed, and more under the influence of literary
   art. The Reuben and Simeon which appear in it are not the characters
   which we meet in xxxiv., xxxv. 22, or in the poem xlix. 3-7; and the
-  tribes of Ephraim and Manasseh do not scruple to claim ancestry from
+  tribes of Ephraim and [[Manasseh]] do not scruple to claim ancestry from
   Joseph and the daughter of an Egyptian priest at the seat of the
   worship of the sun-god (xli. 45). The narratives are composite. Joseph
   incurs the ill-will of his brethren because of Israel's partiality or
@@ -307,7 +307,7 @@ also the summaries Neh. ix. 7 sqq., Ps. cv. 6 sqq.
   after the birth of the children of Machir, who himself was a
   contemporary of Moses forty years after the Exodus (Num. xxxii.
   39-41). Joseph's body is embalmed, but it is not until the concluding
-  chapter of the book of Joshua (xxiv. 32) that his bones find their
+  chapter of the book of Joshua (xxiv. 32) that his [[Bone|bones]] find their
   last resting-place.
 
 
@@ -317,12 +317,12 @@ Only on the assumption that the book of Genesis is a composite work is
 it possible to explain the duplication of events, the varying use of the
 divine names _Yahweh_ and _Elohim_, the linguistic and stylistic
 differences, the internal intricacies of the subject matter, and the
-differing standpoints as regards tradition, chronology, morals and
+differing standpoints as regards tradition, [[Chronology|chronology]], morals and
 religion.[14] The cumulative effect of the whole evidence is too strong
 to be withstood, and already in the 17th century it was recognized that
 the book was of composite origin. Immense labour has been spent in the
 critical analysis of the contents, but it is only since the work of Graf
-(1866) and Wellhausen (1878) that a satisfactory literary hypothesis has
+(1866) and Wellhausen (1878) that a satisfactory literary [[Hypothesis|hypothesis]] has
 been found which explained the most obvious intricacies. The
 Graf-Wellhausen literary theory has gained the assent of almost all
 trained and unbiased biblical scholars, it has not been shaken by the
@@ -370,7 +370,7 @@ development of the Hebrews with that of other early races. Some of the
 traditions are closely akin to those current in ancient Babylonia, but a
 careful and impartial comparison at once illustrates in a striking
 manner the relative moral and spiritual superiority of our writers. On
-these subjects see further COSMOGONY; DELUGE.[17]
+these subjects see further [[Cosmogony|COSMOGONY]]; DELUGE.[17]
 
 The records of the patriarchal age, xii.-l. are very variously
 estimated, although the great majority of scholars agree that they are
@@ -414,7 +414,7 @@ immediately preceding the foundation of Judaism in the 5th century B.C.
 than the actual history of many centuries earlier.
 
 
-  Fusion of diverse features.
+  [[Fusion]] of diverse features.
 
 A noteworthy feature is the frequent _personification_ of peoples,
 tribes or clans (see GENEALOGY: _Biblical_). Midian (i.e. the
@@ -530,7 +530,7 @@ incident when he is a cave-dweller on a mountain.
   illustrate Genesis. "The Oriental," writes S.I. Curtiss (_Bibl.
   sacra_, Jan. 1901, pp. 103 sqq.), "is least of all a scientific
   historian. He is the prince of story-tellers, narratives, real and
-  imaginative, spring from his lips, which are the truest portraiture of
+  imaginative, spring from his [[Lip|lips]], which are the truest portraiture of
   composite rather than individual Oriental life, though narrated under
   forms of individual experience." There are, therefore, many
   preliminary points which combine to show that the critical student
@@ -553,14 +553,14 @@ traditions.[20] There is the same kind of personification, fresh
 examples of the "prophetical interpretation of history," and by the side
 of the older "primitive" thought are ideas which can only belong to this
 later period. In each case we have merely a selection of current
-traditional lore. For example, Gen. vi. 1-4 mentions the marriage of
+traditional [[Lore|lore]]. For example, Gen. vi. 1-4 mentions the marriage of
 divine beings with the daughters of men and the birth of Nephilim or
-giants (cf. Num. xiii. 33). Later allusions to this myth (e.g. Baruch
+[[Giant|giants]] (cf. Num. xiii. 33). Later allusions to this myth (e.g. Baruch
 iii. 26-28, Book of Enoch vi. sqq., 2 Peter ii. 4, &c.) are not based
 upon this passage; the fragment itself is all that remains of some more
 organic written myth which, as is well-known, has parallels among other
 peoples.[21] Old myths underlie the account of the creation and the
-garden of Eden, and traces of other versions or forms appear elsewhere
+garden of [[Eden]], and traces of other versions or forms appear elsewhere
 in the Old Testament. Again, the Old Testament throws no light upon the
 redemption of Abraham (Is. xxix. 22), although the Targums and other
 sources profess to be well-informed. The isolated reference to Jacob's
@@ -583,7 +583,7 @@ the present narratives encircling them. Babylonian tablets of the
 creation date from the 7th century B.C., but their contents are many
 centuries earlier (viz. the age of Khammurabi), whereas the Phoenician
 myths of the origin of things are preserved in a late form by the late
-writers Damascius and Philo of Byblus. Gen. xiv., which may preserve
+writers [[Damascius]] and Philo of Byblus. Gen. xiv., which may preserve
 some knowledge of the reign of Khammurabi, is on internal literary
 grounds of the post-exilic age, and it is at least a coincidence that
 the Babylonian texts, often quoted in support of the genuineness of the
@@ -610,8 +610,8 @@ yoke from his neck.[23] Israelite kings are foreshadowed (xvii. 6, xxxv.
 11, P), and Israel's kingdom has the ideal limits as ascribed to Solomon
 (xv. 18, see 1 Kings iv. 21; but cf. art. SOLOMON). Judah is promised a
 world-wide king (xlix. 8-10), though elsewhere the supremacy of Joseph
-rouses the jealousy of his "brothers" (xxxvii. 8). Different dates and
-circles of interest are thus manifest. The cursing and dispersion of
+rouses the [[Jealousy|jealousy]] of his "brothers" (xxxvii. 8). Different dates and
+circles of interest are thus [[Manifest|manifest]]. The cursing and dispersion of
 Simeon and Levi (xlix. 5-7) recall the fact that Simeon's cities were in
 the territory of Judah (Josh. xix. 1, 9), and that the Levitical priests
 are later scattered and commended to the benevolence of the Israelites.
@@ -649,7 +649,7 @@ the story of Jephthah's vow and sacrifice (Judg. xi.), and its priests
 are denounced by Hosea (v. i). _Shechem_, the famous city of the
 Samaritans ("the foolish nation," Ecclus. I. 26), where Joseph was
 buried (Josh. xxiv. 32), had a sanctuary and a sacred pillar and tree.
-It was the scene of the coronation (a religious ceremony) of Abimelech
+It was the scene of the [[Coronation|coronation]] (a religious ceremony) of Abimelech
 (Judg. ix.), and Rehoboam (1 Kings xii. 1). The pillar was ascribed to
 Joshua (Josh. xxiv. 26 seq.), and although Jacob set up at Shechem an
 "altar," the verb suggests that the original object was a pillar (Gen.
@@ -671,7 +671,7 @@ oaths were taken (Amos viii. 14, see Sept. and the commentaries). Isaac
 built its altar, and Isaac's God guarded Jacob in his journeying (xxxi.
 29, xlvi. 1). This patriarch and his "brother" Ishmael are closely
 associated with the district south of Judah, both are connected with
-_Beer-lahai-roi_ (xxiv. 62, Sept. xxv. 11), whose fountain was the scene
+_Beer-lahai-roi_ (xxiv. 62, Sept. xxv. 11), whose [[Fountain|fountain]] was the scene
 of a theophany (xvi.), and their traditions are thus localized in the
 district of Kadesh famous in the events of the Exodus (cf. xvi. 14, xxi.
 21, xxv. 18, Ex. xv. 22). (See EXODUS, THE.) Abraham planted a sacred
@@ -754,7 +754,7 @@ could be said that Yahweh had recorded his name and would bless his
 worshippers (Ex. xx. 24). They were abhorrent to the advanced ethical
 teaching of prophets and of those imbued with the spirit of Deuteronomy
 (cf. 2 Kings xviii. 4 with v. 22), and it is patent from Jeremiah,
-Ezekiel and Is. lvi.-lxvi. that even at a late date opinion varied as
+[[Ezekiel]] and Is. lvi.-lxvi. that even at a late date opinion varied as
 to how Yahweh was to be served.[31] It is significant, therefore, that
 the narratives in Genesis (apart from P) reflect a certain tolerant
 attitude; there is much that is contrary to prophetical thought, but
@@ -797,7 +797,7 @@ are more prominent than even Bethel or Shechem, while there are no
 stories of Gilgal, Shiloh or Dan. Yet in the nature of the case, there
 must have been a great store of local tradition accessible to some
 writers and at some periods.[33] Interest is taken not in Phoenicia,
-Damascus or the northern tribes, but in the east and south, in Gilead,
+[[Damascus]] or the northern tribes, but in the east and south, in Gilead,
 Ammon, Moab and Ishmael. Particular attention is paid to Edom and Jacob,
 and there is good evidence for a close relationship between Edomite and
 allied names and those of South Palestine (including Simeon and Judah).
@@ -834,7 +834,7 @@ merely casual.[35]
   tradition underlies (and has not given birth to) the late and
   fantastic stories of his warfare (Jub. xxxiv. 1-9, Test. of Judah
   iii.). Judah, also, is represented as settling among the Canaanites
-  (xxxviii.), and Simeon marries a Canaanite--according to late
+  (xxxviii.), and Simeon [[Marri|marries]] a Canaanite--according to late
   tradition, a woman of Zephath (xlvi. 10; Jub. xxxiv. 20, xliv. 13; see
   Judg. i. 17). These representations have been subordinated to others,
   in particular to the descent into Egypt of Jacob (Israel) and his
@@ -980,7 +980,7 @@ legislation which formed the charter of Judaism as it was established in
 or about the 5th century B.C. It goes back to traditions of the most
 varied character, whose tone was originally more in accord with earlier
 religion and thought. Though these have been made more edifying, they
-have not lost their charm and interest. The latest source, it is true,
+have not lost their [[Charm|charm]] and interest. The latest source, it is true,
 is without their freshness and life, but it is a matter for thankfulness
 that the simple compilers were conservative, and have neither presented
 a work entirely on the lines of P, nor rewritten their material as was
@@ -1029,7 +1029,7 @@ to assume its present shape.[44] (See JEWS; PALESTINE: _History_.)
   in features which are often not of chronological but of sociological
   significance (e.g. the mentality of the writers). Their language is
   without some of the phenomena found in narratives which emanate from
-  the north (e.g. Judges v., stories of Elijah and Elisha), and their
+  the north (e.g. Judges v., stories of Elijah and [[Elisha]]), and their
   stylistic variations may be, as Gunkel suggests, the mark of a
   district or region; for this district one would look in the
   neighbourhood of Jerusalem. The conclusion that P's narratives and
@@ -1084,7 +1084,7 @@ to assume its present shape.[44] (See JEWS; PALESTINE: _History_.)
   general Introduction (trans. by W.H. Carruth, 1907) to H. Gunkel's
   valuable commentary. Of recent works bearing upon the subject-matter
   reference may be made to J.P. Peters, _Early Hebrew Story_ (1904),
-  A.R. Gordon, _Early Traditions of Genesis_ (1907), and T.K. Cheyne,
+  A.R. Gordon, _Early Traditions of Genesis_ (1907), and T.K. [[Cheyne]],
   _Traditions and Beliefs of Ancient Israel_ (1907). Special mention
   must be made of Eduard Meyer and B. Luther, to whose _Die Israëliten
   und ihre Nachbarstämme_ (1906) the present writer is indebted for many
@@ -1092,7 +1092,7 @@ to assume its present shape.[44] (See JEWS; PALESTINE: _History_.)
   will be found in the works already mentioned, in the articles in the
   _Ency. Bib_. (G.F. Moore), and Hastings's _Dict_. (G.A. Smith), and in
   the volume by J. Skinner in the elaborate and encyclopaedic
-  _International Critical Series_.     (S. A. C.)
+  _[[International]] Critical Series_.     (S. A. C.)
 
 
 FOOTNOTES:
@@ -1109,7 +1109,7 @@ FOOTNOTES:
     some knowledge of the land of the Chaldaeans (cf. Ezek. i. 3, xi.
     24).
 
-  [4] The Catholic priest Andrew du Maes (1570) already pointed to the
+  [4] The Catholic priest Andrew du [[Maes]] (1570) already pointed to the
     names Hebron and Dan as signs of post-Mosaic date.
 
   [5] Note the repetitions in vv. 2 and 3; Abraham's faith, vv. 4-6,
@@ -1135,7 +1135,7 @@ FOOTNOTES:
 
   [9] See Ed. Meyer (and B. Luther), _Die Israëliten und ihre
     Nachbarstämme_ (1906), pp. 238 sqq.; also the shrewd remarks of C.T.
-    Beke, _Origines biblicae_ (1834), pp. 123 sqq.
+    [[Beke]], _Origines biblicae_ (1834), pp. 123 sqq.
 
   [10] It is interesting to find that the Spanish Rabbi Isaac (of
     Toledo, A.D. 982-1057), noticing that the royal list must be later
@@ -1197,7 +1197,7 @@ FOOTNOTES:
     arguments based upon any study restricted to Genesis alone. Thus it
     shows that the "primitive" features of Genesis afford a criterion
     which is sociological rather than chronological. This is often
-    ignored. For example, the conveyance of the field of Machpelah
+    ignored. For example, the [[Conveyance|conveyance]] of the field of Machpelah
     (xxiii.) is conspicuous for the absence of any reference to a written
     contract in contrast to the "business" methods in Jer. xxxii. This
     does not prove that Gen. xxiii. is early, because writing was used in
@@ -1205,7 +1205,7 @@ FOOTNOTES:
     forms of agreement are still familiar after the time of Jeremiah
     (e.g. Ruth, Proverbs). Similarly, no safe argument can be based upon
     the institution of blood-revenge in Gen. iv., when one observes the
-    undeveloped conditions among the Trachonites of the time of Herod the
+    undeveloped conditions among the Trachonites of the time of [[Herod]] the
     Great (Josephus, Ant. xvi. 9, 1), or the varying usages among modern
     tribes.
 
@@ -1244,7 +1244,7 @@ FOOTNOTES:
     in _Church and Synagogue_ (1909), p. 78.
 
   [28] See J.P. Peters, _Early Heb. Story_ (1904), pp. 81 sqq.; S.A.
-    Cook, _Relig. of Anc. Palestine_ (1908), pp. 19 sqq.
+    [[Cook]], _Relig. of Anc. Palestine_ (1908), pp. 19 sqq.
 
   [29] In like manner the Babylonian story of the flood has been
     revised and adapted to the Hebrew Noah (cf. _Nippur, ad fin._).

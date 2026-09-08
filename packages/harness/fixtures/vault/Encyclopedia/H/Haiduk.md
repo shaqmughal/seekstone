@@ -2,7 +2,7 @@
 
 HAIDUK (also written _Hayduk, Heiduc, Heyduke_ and _Heyduque_), a term
 which appears originally to have meant "robber" or "brigand," a sense it
-retains in Servia and some other parts of the Balkan Peninsula. It is
+retains in Servia and some other parts of the [[Balkan Peninsula]]. It is
 probably derived from the Turkish _haidud_, "marauder," but its origin
 is not absolutely certain. Most of the European races with which the
 Turks came into close contact during the 15th and 16th centuries seem to
@@ -20,8 +20,8 @@ converted into the county of Hajdu (Ger. _Hajduken_). _Hajdu_ is also a
 common prefix in Hungarian place-names, e.g. Hajdu-Szoboszlo,
 Hajdu-Namas. In Austria-Hungary, Germany, Poland, Sweden and some other
 countries, _haiduk_ came to mean an attendant in a court of law, or a
-male servant, dressed in Hungarian semi-military costume. It is also
-occasionally used as a synonym for "footman" or "lackey."
+male servant, dressed in Hungarian semi-military [[Costume|costume]]. It is also
+occasionally used as a synonym for "[[Footman|footman]]" or "lackey."
 
 ## See also
 

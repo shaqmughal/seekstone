@@ -53,7 +53,7 @@ at all, but that, like Appius Herdonius--the Sabine chieftain who in
 capital--he appeared at the gates of Rome at the head of a body of
 exiles (but at a much later date, c. 443), at a time when the city was
 in great distress, perhaps as the result of a pestilence, and only
-desisted from making himself master of Rome at the earnest entreaty of
+desisted from making himself master of Rome at the [[Earnest|earnest]] entreaty of
 his mother. This seems to be the historical nucleus of the tradition,
 which accentuates the great influence exercised by and the respect shown
 to the Roman matrons in early times.
@@ -62,9 +62,9 @@ to the Roman matrons in early times.
   vi. 92-94, vii. 21-27, 41-47, viii. 1-60; Cicero, _Brutus_, x. 42. The
   story is the subject of Shakespeare's _Coriolanus_. For a critical
   examination of the story see Schwegler, _Römische Geschichte_, bk.
-  xxiv.; Sir G. Cornewall Lewis, _Credibility of Early Roman History_,
+  xxiv.; Sir G. Cornewall [[Lewis]], _Credibility of Early Roman History_,
   ch. xii. 19-23; W. Ihne, _History of Rome_, i.; T. Mommsen, "Die
-  Erzählung von Cn. Marcius Coriolanus," in _Hermes_, iv. (1869); E.
+  Erzählung von Cn. Marcius Coriolanus," in _[[Hermes]]_, iv. (1869); E.
   Pais, _Storia di Roma_, i. ch. 4 (1898).
 
 ## See also

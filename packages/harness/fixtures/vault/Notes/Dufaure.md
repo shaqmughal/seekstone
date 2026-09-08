@@ -2,15 +2,15 @@
 
 DUFAURE, JULES ARMAND STANISLAS (1798-1881), French statesman, was born
 at Saujon (Charente-Inférieure) on the 4th of December 1798. He became
-an advocate at Bordeaux, where he won a great reputation by his
+an advocate at [[Bordeaux]], where he won a great reputation by his
 oratorical gifts, but soon abandoned law for politics, and in 1834 was
-elected deputy. In 1839 he became minister of public works in the Soult
+elected [[Deputy|deputy]]. In 1839 he became minister of public works in the Soult
 ministry, and succeeded in freeing railway construction in France from
 the obstacles which till then had hampered it. Losing office in 1840,
 Dufaure became one of the leaders of the Opposition, and on the outbreak
 of the revolution of 1848 he frankly accepted the Republic, and joined
 the party of moderate republicans. On October 13th he became minister of
-the interior under G. Cavaignac, but retired on the latter's defeat in
+the interior under G. [[Cavaignac]], but retired on the latter's defeat in
 the presidential election. During the Second Empire Dufaure abstained
 from public life, and practised at the Paris bar with such success that
 he was elected _bâtonnier_ in 1862. In 1863 he succeeded to Pasquier's

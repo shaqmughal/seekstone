@@ -1,7 +1,7 @@
 # Herschel
 
 HERSCHEL, SIR FREDERICK WILLIAM (1738-1822), generally known as Sir
-William Herschel, English astronomer, was born at Hanover on the 15th of
+William Herschel, English astronomer, was born at [[Hanover]] on the 15th of
 November 1738. His father was a musician employed as hautboy player in
 the Hanoverian guard. The family had quitted Moravia for Saxony in the
 early part of the 17th century on account of religious troubles, they
@@ -11,7 +11,7 @@ commotions of his country; but being at all times an indomitable
 student, he, by his own exertions, more than repaired this deficiency.
 He became a very skilful musician, both theoretical and practical; while
 his attainments as a self-taught mathematician were fully adequate to
-the prosecution of those branches of astronomy which he so eminently
+the prosecution of those branches of [[Astronomy|astronomy]] which he so eminently
 advanced and adorned. Whatever he did he did methodically and
 thoroughly; and in this methodical thoroughness lay the secret of what
 Arago very properly termed his astonishing scientific success.
@@ -49,18 +49,18 @@ thoroughness this led him to Smith's _Optics_; and this, by a natural
 sequence, again led him to astronomy, for the purposes of which the
 chief optical instruments were devised. It was in this way that he was
 introduced to the writings of Ferguson and Keill, and subsequently to
-those of Lalande, whereby he educated himself to become an astronomer of
+those of [[Lalande]], whereby he educated himself to become an astronomer of
 undying fame. In those days telescopes were very rare, very expensive
-and not very efficient, for the Dollonds had not as yet perfected even
-their beautiful little achromatics of 2(3/4) in. aperture. So Herschel
+and not very efficient, for the [[Dollond|Dollonds]] had not as yet perfected even
+their beautiful little achromatics of 2(3/4) in. [[Aperture|aperture]]. So Herschel
 was obliged to content himself with hiring a small Gregorian reflector
 of about 2 in. aperture, which he had seen exposed for loan in a
-tradesman's shop. Not satisfied with this implement, he procured a small
+tradesman's shop. Not satisfied with this [[Implement|implement]], he procured a small
 lens of about 18 ft. focal length, and set his sister to work on a
 pasteboard tube to match it, so as to make him a telescope. This
 unsatisfactory material was soon replaced by tin, and thus a sorry sort
 of vision was obtained of Jupiter, Saturn and the moon. He then sought
-in London for a reflector of much larger dimensions; but no such
+in London for a reflector of much larger [[Dimension|dimensions]]; but no such
 instrument was on sale; and the terms demanded for the construction of a
 reflecting telescope of 5 or 6 ft. focal length he regarded as too
 exorbitant even for the gratification of such desires as his own. So he
@@ -117,7 +117,7 @@ and extending in date from 1780 to 1801. It was in the latter year that
 these remarkable papers culminated in the inquiry whether any relation
 could be traced in the recurrence of sun-spots, regarded as evidences of
 solar activity, and the varying seasons of our planet, as exhibited by
-the varying price of corn. Herschel's reply was inconclusive; nor has a
+the varying price of [[Corn|corn]]. Herschel's reply was inconclusive; nor has a
 final solution of the related problems yet been obtained.
 
 In 1781 he communicated to the Royal Society the first of a series of
@@ -128,7 +128,7 @@ uniform. From the result he expected to gather, by analogy, the
 probability of an alteration in the length of our own day. These
 inquiries occupy the greater part of seven memoirs extending from 1781
 to 1797. While engaged on them he noticed the curious appearance of a
-white spot near to each of the poles of the planet Mars. On
+white spot near to each of the poles of the planet [[Mars]]. On
 investigating the inclination of its axis to the plane of its orbit, and
 finding that it differed little from that of the earth, he concluded
 that its changes of climate also would resemble our own, and that these
@@ -143,7 +143,7 @@ investigation. Nothing with such a man is accidental.
 In the same year (1781) Herschel made a discovery which completely
 altered the character of his professional life. In the course of a
 methodical review of the heavens he lighted on an object which at first
-he supposed to be a comet, but which, by its subsequent motions and
+he supposed to be a [[Comet|comet]], but which, by its subsequent motions and
 appearance, averred itself to be a new planet, moving outside the orbit
 of Saturn. The name of Georgium Sidus was by him assigned to it, but has
 by general consent been laid aside in favour of Uranus. The object was
@@ -179,7 +179,7 @@ different perspective aspects, he perceived that the measurement of
 these changes should lead to an approximate determination of the stars'
 relative distances. He therefore mapped down the places and aspects of
 all the double stars that he met with, and communicated in 1782 and 1785
-very extensive catalogues of the results. Indeed, his very last
+very extensive [[Catalogue|catalogues]] of the results. Indeed, his very last
 scientific memoir, sent to the Royal Astronomical Society in the year
 1822, when he was its first president and already in the eighty-fourth
 year of his age, related to these investigations. In the memoir of 1782
@@ -190,7 +190,7 @@ afterwards (1793), he remeasured the relative positions of many such
 couples, and we may conceive what his feelings must have been at finding
 his prediction verified. For he ascertained that some of these stars
 circulated round each other, after the manner required by the laws of
-gravitation, and thus demonstrated the action among the distant members
+[[Gravitation|gravitation]], and thus demonstrated the action among the distant members
 of the starry firmament of the same mechanical laws which bind together
 the harmonious motions of our solar system. This sublime discovery,
 announced in 1802, would of itself suffice to immortalize his memory. If
@@ -222,7 +222,7 @@ before they could be fully examined and realized.
 It was at Slough in 1783 that he wrote his first memorable paper on the
 "Motion of the Solar System in Space,"--a sublime speculation, yet
 through his genius realized by considerations of the utmost simplicity.
-He returned to the same subject with fuller details in 1805. It was also
+He returned to the same subject with [[Fuller|fuller]] details in 1805. It was also
 after his removal to Slough that he published his first memoir on the
 construction of the heavens, which from the first had been the inspiring
 idea of his varied toils. In a long series of remarkable papers,
@@ -234,7 +234,7 @@ clusters scattered throughout a comparatively thin, but immensely
 extended stratum. At one time he imagined that his powerful instruments
 had pierced through this stellar stratum, and that he had approximately
 determined the form of some of its boundaries. In the last of his
-memoirs, having convinced himself of his error, he admitted that to his
+memoirs, having convinced himself of his [[Error|error]], he admitted that to his
 telescopes the Milky Way was "fathomless." On either side of this
 assemblage of stars, presumably in ceaseless motion round their common
 centre of gravity, Herschel discovered a canopy of discrete nebulous
@@ -250,41 +250,41 @@ description of this celebrated instrument will be found in the 85th
 volume of the _Transactions_ of the Royal Society. On the day that it
 was finished (August 28, 1789) Herschel saw at the first view, in a
 grandeur not witnessed before, the Saturnian system with six satellites,
-five of which had been discovered long before by C. Huygens and G. D.
+five of which had been discovered long before by C. [[Huygens]] and G. D.
 Cassini, while the sixth, subsequently named Enceladus, he had, two
 years before, sighted by glimpses in his exquisite little telescope of
 6(1/2) in. aperture, but now saw in unmistakable brightness with the
-towering giant he had just completed. On the 17th of September he
+towering [[Giant|giant]] he had just completed. On the 17th of September he
 discovered a seventh, which proved to be the nearest to the globe of
 Saturn. It has since received the name of Mimas. It is somewhat
 remarkable that, notwithstanding his long and repeated scrutinies of
-this planet, the eighth satellite, Hyperion, and the crape ring should
+this planet, the eighth satellite, [[Hyperion]], and the crape ring should
 have escaped him.
 
 Herschel married, on the 8th of May 1788, the widow of Mr John Pitt, a
-wealthy London merchant, by whom he had an only son, John Frederick
+wealthy London merchant, by whom he had an only son, [[John Frederick]]
 William. The prince regent conferred a Hanoverian knighthood upon him in
-1816. But a far more valued and less tardy distinction was the Copley
+1816. But a far more valued and less tardy distinction was the [[Copley]]
 medal assigned to him by his associates in the Royal Society in 1781.
 
 He died at Slough on the 25th of August 1822, in the eighty-fourth year
 of his age, and was buried under the tower of St Laurence's Church,
 Upton, within a few hundred yards of the old site of the 40-ft.
 telescope. A mural tablet on the wall of the church bears a Latin
-inscription from the pen of the late Dr Goodall, provost of Eton
+inscription from the pen of the late Dr Goodall, provost of [[Eton]]
 College.
 
   See Mrs John Herschel, _Memoir of Caroline Herschel_ (1876); E. S.
-  Holden, _Herschel, his Life and Works_ (1881); A. M. Clerke, _The
+  Holden, _Herschel, his Life and Works_ (1881); A. M. [[Clerke]], _The
   Herschels and Modern Astronomy_ (1895); E. S. Holden and C. S.
-  Hastings, _Synopsis of the Scientific Writings of Sir William
-  Herschel_ (Washington, 1881); Baron Laurier, _Eloge historique_, Paris
+  [[Hastings]], _Synopsis of the Scientific Writings of Sir William
+  Herschel_ (Washington, 1881); Baron [[Laurier]], _Eloge historique_, Paris
   Memoirs (1823), p. lxi.; F. Arago, _Analyse historique, Annuaire du
-  Bureau des Longitudes_ (1842), p. 249; Arago, _Biographies of
+  [[Bureau]] des Longitudes_ (1842), p. 249; Arago, _Biographies of
   Scientific Men_, p. 167; Madame d'Arblay's _Diary, passim; Public
   Characters_ (1798-1799), p. 384 (with portrait); J. Sime, _William
   Herschel and his Work_ (1900). Herschel's photometric Star Catalogues
-  were discussed and reduced by E. C. Pickering in _Harvard Annals_,
+  were discussed and reduced by E. C. Pickering in _Harvard [[Annals]]_,
   vols. xiv. p. 345, xxiii. p. 185, and xxiv.     (C. P.; A. M. C.)
 
 ## See also

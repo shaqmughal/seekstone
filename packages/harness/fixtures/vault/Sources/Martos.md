@@ -12,9 +12,9 @@ MARTOS, CHRISTINO (1830-1893), Spanish politician, was born at Granada
 on the 13th of September 1830. He was educated there and at Madrid
 University, where his Radicalism soon got him into trouble, and he
 narrowly escaped being expelled for his share in student riots and other
-demonstrations against the governments of Queen Isabella. He
+demonstrations against the governments of Queen [[Isabella]]. He
 distinguished himself as a journalist on _El Tribuno_. He joined
-O'Donnell and Espartero in 1854 against a revolutionary cabinet, and
+O'Donnell and Espartero in 1854 against a revolutionary [[Cabinet|cabinet]], and
 shortly afterwards turned against O'Donnell to assist the Democrats and
 Progressists under Prim, Rivero, Castelar, and Sagasta in the
 unsuccessful movements of 1866, and was obliged to go abroad. His
@@ -38,7 +38,7 @@ restoration took place at the end of that year. He stuck to his
 democratic ideals for some years, even going to Biarritz in 1881 to be
 present at a republican congress presided over by Ruiz Zorilla. Shortly
 afterwards Martos joined the dynastic Left organized by Marshal Serrano,
-General Lopez Dominguez, and Moret, Becerra, Balaguer, and other quondam
+General Lopez Dominguez, and Moret, [[Becerra]], Balaguer, and other quondam
 revolutionaries. He sat in several parliaments of the reign of Alphonso
 XII. and of the regency of Queen Christina, joined the dynastic Liberals
 under Sagasta, and gave Sagasta not a little trouble when the latter

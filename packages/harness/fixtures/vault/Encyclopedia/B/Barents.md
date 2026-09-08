@@ -10,12 +10,12 @@ coast and Vaygach Island, but was too late to find open water; while his
 third journey equally failed of its object and resulted in his death. On
 this occasion he had two ships, and on the outward journey sighted Bear
 Island and Spitsbergen, where the ships separated. Barents' vessel, after
-rounding the north of Novaya Zemlya, was beset by ice and he was compelled
+rounding the north of Novaya Zemlya, was beset by [[Ice|ice]] and he was compelled
 to winter in the north; and as his ship was not released early in 1597, his
 party left her in two open boats on the 13th of June and most of its
 members escaped. Barents himself, however, died on the 30th of June 1597.
 In 1871 the house in which he wintered was discovered, with many relics,
-which are preserved at the Hague, and in 1875 part of his journal was
+which are preserved at the [[Hague]], and in 1875 part of his journal was
 found.
 
 See _The Three Voyages of Barents_, by Gerrit de Veer, translated by the

@@ -7,7 +7,7 @@ Buonaparte, which was borne in the early middle ages by several distinct
 families in Italy. One of these, which settled at Florence before the
 year 1100, divided in the 13th century into the two branches of San
 Miniato and Sarzana. A member of this latter, Francesco Buonaparte,
-emigrated in the middle of the 16th century to Corsica, where his
+emigrated in the middle of the 16th century to [[Corsica]], where his
 descendants continued to occupy themselves with the affairs of law and
 the magistracy.
 
@@ -16,14 +16,14 @@ the magistracy.
 
 CARLO BUONAPARTE [Charles Marie de Bonaparte] (1746-1785), the father of
 Napoleon I., took his degree in law at the university of Pisa, and after
-the conquest of Corsica by the French became assessor to the royal court
+the conquest of Corsica by the French became [[Assessor|assessor]] to the royal court
 of Ajaccio and the neighbouring districts. His restless and dissatisfied
 nature led him to press or intrigue for other posts, and to embark in
 risky business enterprises which compromised the fortune of his family
 for many years to come. In 1764 he married Letizia Ramolino, a beautiful
 and high-spirited girl, aged fourteen, descended from a well-connected
 family domiciled in Corsica since the middle of the 15th century. The
-first two children, born in 1765 and 1767, died in infancy; Joseph (see
+first two children, born in 1765 and 1767, died in [[Infancy|infancy]]; Joseph (see
 below), the first son who survived, was born in 1768, and Napoleon in
 1769. The latter was born in the midst of the troubles consequent on the
 French conquest, Letizia having recently accompanied her husband in
@@ -34,7 +34,7 @@ and manner of life, she helped to bind her children to the life of
 Corsica, while her husband, a schemer by nature and a Voltairian by
 conviction, pointed the way to careers in France, the opening up of
 which moulded the fortunes of the family and the destinies of Europe. He
-died of cancer in the stomach at Montpellier in 1785.
+died of [[Cancer|cancer]] in the stomach at Montpellier in 1785.
 
 Letizia lived to witness the glory and the downfall of her great son,
 surviving Napoleon I. by sixteen years. She never accommodated herself
@@ -45,10 +45,10 @@ domestic economy which her early privations had made a second nature to
 her, but which rendered her very unpopular in France and was displeasing
 to Napoleon. After the events of 1814 she joined the emperor in the
 island of Elba and was privy to his plans of escape, returning to Paris
-during the Hundred Days. After the final downfall of Waterloo, she took
+during the [[Hundred Days]]. After the final downfall of Waterloo, she took
 up her residence at Rome, where Pope Pius VII. treated her with great
 kindness and consideration, and protected her from the suspicious
-attentions of the powers of the Grand Alliance. In 1818 she addressed a
+attentions of the powers of the [[Grand Alliance]]. In 1818 she addressed a
 pathetic letter to the powers assembled at the congress of Aix,
 petitioning for Napoleon's release, on the ground that his mortal
 illness had removed any possibility of his ever again becoming a menace
@@ -76,7 +76,7 @@ crippled by a serious fall, and was all but blind before her death in
   Napoleon_ (3 vols., Paris, 1897-1899); T. Nasica, _Memoires sur
   l'enfance et la jeunesse de Napoleon jusqu'a la age vingt-trois ans;
   precedes d'une notice historique sur son pere_; Baron H. Larrey,
-  _Madame Mere_ (2 vols., Paris, 1892); Clara Tschudi, _Napoleons
+  _Madame Mere_ (2 vols., Paris, 1892); [[Clara]] Tschudi, _Napoleons
   Mutter: aus dem Norwegischen ubersetzt von H. von Lenk_ (Leipzig,
   1901).
 
@@ -87,7 +87,7 @@ following:--
   Napoleon's brothers and sisters: 1. Joseph Bonaparte.
 
 I. JOSEPH (1768-1844), was born at Corte in Corsica, on the 7th of
-January 1768. He was educated at the college at Autun in France,
+January 1768. He was educated at the college at [[Autun]] in France,
 returned to Corsica in 1784, shortly after the death of his father, and
 thereafter studied law at the university of Pisa. He became a barrister
 at Bastia in June 1788, and was soon elected a councillor of the
@@ -95,23 +95,23 @@ municipality of Ajaccio. Like his brothers, Napoleon and Lucien, he
 embraced the French or democratic side, and on the victory of the
 Paolist party fled with his family from Corsica and sought refuge in
 France. After spending a short time in Paris, where he was disgusted
-with the excesses of the Jacobins, he settled at Marseilles and married
+with the excesses of the [[Jacobins]], he settled at [[Marseilles]] and married
 Mlle Julie Clary, daughter of a merchant of that town. The Bonapartes
 moved from place to place, mainly with the view of concerting measures
 for the recovery of Corsica. Joseph took part in these efforts and went
 on a mission to Genoa in 1795. In 1796 he accompanied his brother
 Napoleon in the early part of the Italian campaign, and had some part in
-the negotiations with Sardinia which led to the armistice of Cherasco
+the negotiations with Sardinia which led to the [[Armistice|armistice]] of Cherasco
 (April 28), the news of which he bore to the French government. Later he
-proceeded to Leghorn, took part in the French expedition for the
+proceeded to [[Leghorn]], took part in the French expedition for the
 recovery of Corsica, and, along with the commissioner of the French
 Republic, Miot de Melito, helped in the reorganization of that island.
-In March 1797 he was appointed by the Directory, minister to the court
+In March 1797 he was appointed by the [[Directory]], minister to the court
 of Parma, and early in the summer he proceeded to Rome in the same
 capacity. Discords arose between the Vatican and the French Republic,
 and it is clear that Napoleon and the French Directory ordered Joseph to
 encourage revolutionary movements in Rome. On the 28th of December 1797
-a disturbance took place opposite the French embassy, which led to the
+a disturbance took place opposite the French [[Embassy|embassy]], which led to the
 death of the French general, Leonard Duphot. Joseph at once left Rome,
 which soon became a republic. Repairing to Paris, he entered on
 parliamentary life, becoming one of the members for Corsica in the
@@ -121,7 +121,7 @@ Council of Five Hundred. He made no mark in the chamber and retired in
 Before the _coup d'etat_ of Brumaire he helped Napoleon in making
 overtures to Sieyes and Moreau, but otherwise did little. Thereafter he
 refused to enter the ministry, but became a member of the council of
-state and of the _Corps Legislatif_, where his advice on the state of
+state and of the _[[Corps]] Legislatif_, where his advice on the state of
 public opinion was frequently useful. He had a hand in the negotiations
 for the Concordat, but, according to Lucien Bonaparte, looked on that
 measure as "ill-advised and retrograde." His services in the diplomatic
@@ -129,16 +129,16 @@ sphere were more important. At Mortfontaine, his country-house, he
 concluded with the envoy of the United States a convention which bears
 that name (1800). He also presided over the negotiations which led to
 the treaty of Luneville with Austria (February 9, 1801); and he and
-Maret represented France in the lengthy discussions with the British
+[[Maret]] represented France in the lengthy discussions with the British
 envoy, Lord Cornwallis, which resulted in the signature of the treaty of
 Amiens (March 25, 1802). This diplomatic triumph in its turn led to the
 consolidation of Napoleon's power as First Consul for life (August 1,
 1802) with the chief voice in the selection of his successor. On this
 question the brothers disagreed. As neither Joseph nor Napoleon had a
-male heir, the eldest brother, whose ideas of primogeniture were very
+male [[Heir|heir]], the eldest brother, whose ideas of primogeniture were very
 strict, claimed to be recognized as heir, while Napoleon wished to
 recognize the son of Louis Bonaparte. On the proclamation of the French
-empire (May 1804) the friction became acute. Napoleon offered to make
+empire (May 1804) the [[Friction|friction]] became acute. Napoleon offered to make
 Joseph king of Lombardy if he would waive all claim of succession to the
 French throne, but met with a firm refusal.
 
@@ -146,11 +146,11 @@ Meanwhile Joseph had striven earnestly, but in vain, to avert a rupture
 with England, which came about in May 1803. In 1805 he acted as chief of
 the French government while Napoleon was campaigning in Germany. Early
 in 1806 he proceeded to Naples with a French force in order to expel the
-Bourbon dynasty from southern Italy, Napoleon adding the promise that
-the Neapolitan crown would be for Joseph if he chose to accept it. The
-conquest of the mainland was speedily effected, though Gaeta, Reggio and
+[[Bourbon]] dynasty from southern Italy, Napoleon adding the promise that
+the Neapolitan crown would be for Joseph if he [[Chose|chose]] to accept it. The
+conquest of the mainland was speedily effected, though [[Gaeta]], Reggio and
 the rock of Scylla held out for some months. The Bourbon court retired
-to Sicily, where it had the protection of a British force. By the decree
+to Sicily, where it had the protection of a British force. By the [[Decree|decree]]
 of the 30th of March 1806 Napoleon proclaimed Joseph king of Naples, but
 allowed him to keep intact his claims to the throne of France. In
 several letters he enjoined his brother to greater firmness in his
@@ -160,9 +160,9 @@ The memoirs of Count Miot de Melito, whom Joseph appointed minister of
 war, show how great were the difficulties with which the new monarch had
 to contend--an almost bankrupt treasury, a fickle and degraded populace,
 Bourbon intrigues and plots, and frequent attacks by the British from
-Sicily. General Stuart's victory at Maida (July 3) shook Joseph's throne
+Sicily. General Stuart's victory at [[Maida]] (July 3) shook Joseph's throne
 to its base; but the surrender of Gaeta soon enabled Massena to march
-southwards and subdue Calabria. During his brief reign at Naples, Joseph
+southwards and subdue [[Calabria]]. During his brief reign at Naples, Joseph
 effected many improvements; he abolished the relics of feudalism,
 reformed the monastic orders, reorganized the judicial, financial and
 educational systems, and initiated several public works. In everything
@@ -176,7 +176,7 @@ There his difficulties were far greater. Despite the benevolent
 intentions announced to the Spaniards in his proclamation dated Bayonne,
 23rd of June 1808, all reconciliation between them and the French was
 impossible after Napoleon's treatment of their _de facto_ king,
-Ferdinand VII. For the varying fortunes of King Joseph in Spain and in
+[[Ferdinand]] VII. For the varying fortunes of King Joseph in Spain and in
 the eventful years of the Peninsular War, see SPAIN and PENINSULAR WAR.
 His sovereignty was little more than titular. Compelled to leave Madrid
 hastily in August 1808, owing to the Spanish success at Baylen, he was
@@ -191,15 +191,15 @@ trusted adviser, Miot de Melito, observed in his memoirs, Joseph tried
 to be constitutional king of Spain, whereas after the experience of the
 years 1808-1809 he could only succeed in the Peninsula by becoming "the
 mere instrument of a military power." "Bearing a title which was only an
-oppressive burden, the king had in reality ceased to exist as a monarch,
+oppressive [[Burden|burden]], the king had in reality ceased to exist as a monarch,
 and barely retained some semblance of authority over a small part of the
 French army as a general. Reduced by the exhausted state of his treasury
 to the last extremity he at length seriously thought of departure."
 Joseph took this step in April 1811, and proceeded to Paris in order to
 extort better terms, or offer his abdication; but he had to return with
-a monthly subsidy of 500,000 francs and the promise that the army of the
+a monthly subsidy of 500,000 [[Franc|francs]] and the promise that the army of the
 centre (the smallest of the five French armies) should be under his
-control. Late in that year Napoleon united Catalonia to France.
+control. Late in that year Napoleon united [[Catalonia]] to France.
 Wellington's victory at Salamanca (July 22, 1812) compelled Joseph to
 leave his capital; and despite the retirement of the British in the
 autumn of that year, Joseph's authority never fully recovered from that
@@ -214,7 +214,7 @@ upon my army; it is time to make an end of it."
 Napoleon was equally dissatisfied with his brother's conduct as
 lieutenant-general of France, while he himself was conducting the
 campaign of 1814 in the east of France. On the 30th of March, Joseph
-empowered Marmont to make a truce with the assailants of Paris if they
+empowered [[Marmont]] to make a truce with the assailants of Paris if they
 should be in overpowering strength. On the surrender of the capital
 Joseph at once retired. The part which he played during the Hundred Days
 (1815) was also insignificant. It is strange that, four days after
@@ -222,8 +222,8 @@ Waterloo, Napoleon should have urged him to inspirit the Chamber of
 Deputies with a view to a national resistance (_Lettres nouvelles de
 Napoleon_). In point of fact Joseph did little beyond seeking to further
 the emperor's plans of escape to America. After the surrender of his
-brother to the captain of H.M.S. "Bellerophon" at Rochefort, Joseph went
-to the United States. Settling in Bordentown, New Jersey, he adopted the
+brother to the captain of H.M.S. "[[Bellerophon]]" at Rochefort, Joseph went
+to the United States. Settling in [[Bordentown]], New [[Jersey]], he adopted the
 title of comte de Survilliers, and sought to promote plans for the
 rescue of his brother from St Helena. In 1830 he pleaded, but
 unsuccessfully, for the recognition of the claims of the duke of
@@ -240,7 +240,7 @@ feelings of affection.
   du Casse, _Memoires et correspondance politique et militaire du roi
   Joseph_ (10 vols., Paris, 1854), and _Les Rois freres de Napoleon_
   (1883); J.S.C. Abbott, _History of Joseph Bonaparte_ (New York, 1869);
-  G. Bertin, _Joseph Bonaparte in America_; _Joseph Bonaparte juge par
+  G. Bertin, _Joseph Bonaparte in America_; _Joseph Bonaparte [[Juge|juge]] par
   ses contemporains_ (anon.); the _Memoirs of Count Miot de Melito_
   (translation, edited by General Fleischmann, 2 vols., 1881); R.M.
   Johnston, _The Napoleonic Empire in Southern Italy_ (2 vols., with an
@@ -270,18 +270,18 @@ went to France in order to denounce Paoli and to solicit aid for the
 democrats; but, on the Paolists gaining the upper hand, the Bonapartes
 left the island and joined Lucien at Toulon. In the south of France he
 worked hard for the Jacobinical cause, and figured as "Brutus" in the
-Jacobin club of the small town of St Maximin (then renamed Marathon).
-There on the 4th of May 1794 he married Mlle Catherine Boyer, though he
+Jacobin club of the small town of St Maximin (then renamed [[Marathon]]).
+There on the 4th of May 1794 he married Mlle Catherine [[Boyer]], though he
 was a minor and had not the consent of his family--an act which brought
 him into a state almost approaching disgrace and penury. The _coup
-d'etat_ of Thermidor (July 28, 1794) compelled the young disciple of
+d'etat_ of Thermidor (July 28, 1794) compelled the young [[Disciple|disciple]] of
 Robespierre hurriedly to leave St Maximin, and to accept a small post at
 St Chamans. There he was arrested and imprisoned for a time until
 Napoleon's influence procured his release, and further gained for him a
 post as commissioner in the French army campaigning in Germany. Lucien
 soon conceived a dislike for a duty which opened up no vista for his
 powers of oratory and political intrigue, and repaired to Corsica. In
-the hope of being elected a deputy of the island, he refused an
+the hope of being elected a [[Deputy|deputy]] of the island, he refused an
 appointment offered by Napoleon in the army of Egypt in 1798. His hopes
 were fulfilled, and in 1798 he entered the Council of Five Hundred at
 Paris. There his vivacious eloquence brought him into prominence, and he
@@ -293,7 +293,7 @@ opportune closing of the sitting, and his appeal to the soldiers outside
 to disperse _les representants du poignard_, turned the scale in favour
 of his brother.
 
-By a strange irony this event, the chief event of Lucien's life, was
+By a strange [[Irony|irony]] this event, the chief event of Lucien's life, was
 fatal to the cause of democracy of which he had been the most eager
 exponent. In one of his earlier letters to his brother Joseph, Lucien
 stated that he had detected in Napoleon "an ambition not altogether
@@ -308,21 +308,21 @@ with the First Consul. In order to soften the blow, Napoleon appointed
 him ambassador to the court of Madrid (November 1800). There again
 Lucien displeased his brother. France and Spain were then about to
 partition Portugal, and the Spanish forces were beginning to invade that
-land, when the court of Lisbon succeeded, owing (it is said) to the free
+land, when the court of [[Lisbon]] succeeded, owing (it is said) to the free
 use of bribes, in inducing Godoy, the Spanish minister, and Lucien
 Bonaparte to sign the preliminaries of peace on the 6th of June 1801 at
 Badajoz. The First Consul, finding his plans of seizing Lisbon
 frustrated, remonstrated with his brother, who thereupon resigned his
 post, and returned to Paris, there taking part in the opposition which
 the Tribunate offered to some of Napoleon's schemes. Lucien's next
-proceeding completed the breach between the two brothers. His wife had
+proceeding completed the [[Breach|breach]] between the two brothers. His wife had
 died in 1800; he became enamoured of a Mme Jouberthou in the early
 summer of 1802, made her his mistress, and finally, despite the express
 prohibition of the First Consul, secretly married her at his residence
 of Plessis (on October 23, 1803). At that time Napoleon was pressing
 Lucien for important reasons of state to marry the widow of the king of
 Etruria, and on hearing of his brother's action he ordered him to leave
-French territory. Lucien departed for Italy with his wife and infant
+French territory. Lucien departed for Italy with his wife and [[Infant|infant]]
 son, after annoying Napoleon by bestowing on her publicly the name of
 Bonaparte. He also charged Joseph never to try to reconcile Napoleon to
 him.
@@ -333,7 +333,7 @@ an arrangement by which Lucien would take his place as a French prince,
 provided that he would annul his marriage. This step Lucien refused to
 take; and after residing for some time at his estate of Canino, from
 which he took the papal title of prince of Canino, he left for America.
-Captured by a British ship, he was taken to Malta and thence to England,
+Captured by a British ship, he was taken to [[Malta]] and thence to England,
 where he resided under some measure of surveillance up to the peace of
 1814. Returning to Rome, he offered Napoleon his help during the Hundred
 Days (1815), stood by his side at the "Champ de Mai" at Paris, and was
@@ -344,7 +344,7 @@ He wrote an epic, _Charlemagne, ou l'Eglise delivree_ (2 vols., 1814),
 also _La Verite sur les Cent Jours_ and _Memoirs_, which were not
 completed.
 
-  For sources see T. Jung, _Lucien Bonaparte et ses memoires_ (3 vols.,
+  For sources see T. [[Jung]], _Lucien Bonaparte et ses memoires_ (3 vols.,
   Paris, 1882-1883); an anonymous work, _Le Prince Lucien Bonaparte et
   sa famille_ (Paris, 1888); F. Masson, _Napoleon et sa famille_ (4
   vols., Paris, 1897-1900), and H. Houssaye, _"1815"_ (3 vols., Paris,
@@ -358,10 +358,10 @@ January 1777. Owing to the efforts of her brothers she entered the
 establishment of St Cyr near Paris as a "king's scholar." On its
 disruption by the revolutionists in 1792 Napoleon took charge of her and
 brought her back to Ajaccio. She shared the fortunes of the family in
-the south of France, and on the 5th of May 1797 married Felix Bacciochi,
+the south of France, and on the 5th of May 1797 married [[Felix]] Bacciochi,
 a well-connected Corsican. In 1805, after the foundation of the French
 empire, Napoleon bestowed upon her the principality of Piombino and
-shortly afterwards Lucca; in 1808 her importunities gained for her the
+shortly afterwards [[Lucca]]; in 1808 her importunities gained for her the
 grand duchy of Tuscany. Bacciochi being almost a nullity, her pride and
 ability had a great influence on the administration and on Italian
 affairs in general. Her relations with Napoleon were frequently
@@ -381,28 +381,28 @@ Trieste, where she died on the 6th of August 1820.
 IV. Louis (1778-1846) was born at Ajaccio on the 2nd of September 1778.
 His elder brother Napoleon supervised his education with much care,
 gaining for him scholarships to the royal military schools of France,
-and during the time when the elder brother was a lieutenant in garrison
-at Auxonne Louis shared his scanty fare. In 1795 Napoleon procured for
+and during the time when the elder brother was a lieutenant in [[Garrison|garrison]]
+at [[Auxonne]] Louis shared his scanty fare. In 1795 Napoleon procured for
 him admission to the military school at Chalons, and wrote thus of the
 boy:--"I am very pleased with Louis; he fulfils my hopes; intelligence,
 warmth, good health, talent, good address, kindness--he possesses all
 these qualities." Louis went through the Italian campaign of 1796-97
 with Napoleon and acted as his aide-de-camp in Egypt in 1798-99. In 1802
-the First Consul married him to Hortense Beauharnais, a forced union
+the First Consul married him to Hortense [[Beauharnais]], a forced union
 which led to most deplorable results. In 1804 Louis was raised to the
 rank of general, and entered the council of state in order to perfect
 his knowledge of administrative affairs. In the next year he became
 governor of Paris and undertook various military and administrative
 duties.
 
-After the victory of Austerlitz (December 2, 1805) Napoleon began to
+After the victory of [[Austerlitz]] (December 2, 1805) Napoleon began to
 plan the formation of a ring of states surrounding, and in close
 alliance with, the French empire. He destined Louis for the throne of
 Holland, and proclaimed him king of that country on the 6th of June
 1806. From the first the emperor reproached him with being too easy with
 his subjects and with courting popularity too much. The increasing
 rigour of the continental system brought the two brothers to an open
-rupture. Their relations were embittered by a violent jealousy which
+rupture. Their relations were embittered by a violent [[Jealousy|jealousy]] which
 Louis conceived against his wife. In 1808 the emperor offered Louis the
 throne of Spain then vacant; but on Louis refusing to accept it the
 honour went to Joseph. The dispute between Louis and the emperor
@@ -414,7 +414,7 @@ better terms for Holland. He failed in both respects. In January 1810
 Napoleon annexed the island of Walcheren, alleging that Louis had not
 done his share in defending the interests of France at the time of the
 British Walcheren expedition (1809). The French troops also occupied
-Breda and Bergen-op-Zoom. Louis gave way on all the points in dispute;
+Breda and [[Bergen-Op-Zoom|Bergen-op-Zoom]]. Louis gave way on all the points in dispute;
 but his acquiescence only postponed the crisis. After the collapse of
 negotiations with Great Britain in the spring of 1810, the emperor again
 pressed Louis hard, and finally sent French troops against the Dutch
@@ -429,7 +429,7 @@ Their devotion to the national and democratic cause in Italy in
 the elder, Napoleon Louis, in the spring campaign of 1831 in the
 Romagna. The failure of his other son, Charles Louis Napoleon
 (afterwards Napoleon III.), to wrest the French crown from Louis
-Philippe by the attempts at Strassburg and Boulogne also caused him much
+Philippe by the attempts at Strassburg and [[Boulogne]] also caused him much
 disappointment. He died on the 25th of July 1846 and was buried at St
 Leu. Under more favourable conditions Louis would have gained a name for
 kindness and philanthropy, proofs of which did indeed appear during his
@@ -443,12 +443,12 @@ afterwards emperor of the French as NAPOLEON III. (q.v.).
   The chief works on the life and reign of Louis are le comte de
   Saint-Leu, _Documents historiques et reflexions sur le gouvernement de
   Hollande_ 3 vols., 2nd ed., Paris, 1820); F. Rocquain, _Napoleon I^er
-  et le Roi Louis, d'apres les documents conserves aux archives
+  et le Roi Louis, d'apres les documents conserves aux [[Archive|archives]]
   nationales_ (Paris, 1875); Baron A. du Casse, _Les Rois freres de
-  Napoleon_ (Paris, 1883); A Garnier, _La Cour de Hollande sous le regne
+  Napoleon_ (Paris, 1883); A [[Garnier]], _La Cour de Hollande sous le regne
   de Louis Bonaparte, par un auditeur_ (Paris and Amsterdam, 1823); T.
   Jorissen, _Napoleon 1'er et le roi de Hollande (1806-1813) d'apres des
-  documents authentiques et inedits_ (Paris and The Hague, 1868); V.
+  documents authentiques et inedits_ (Paris and The [[Hague]], 1868); V.
   Loosjes, _Louis Bonaparte, Koning van Holland_ (Amsterdam, 1888); L.
   Wichers, _De Regeering van Koning Lodewijk Napoleon_ (1806-1810)
   (Utrecht, 1892); F. Masson, _Napoleon et sa famille_ (4 vols., Paris,
@@ -460,11 +460,11 @@ afterwards emperor of the French as NAPOLEON III. (q.v.).
 V. MARIE PAULINE (1780-1825), the gayest and most beautiful member of
 the family, was born at Ajaccio on the 20th October 1780. At seventeen
 years of age she married General Leclerc, a staff officer of Napoleon,
-and accompanied him to St Domingo, where he died of yellow fever in
-1802. Returning to Paris she espoused Prince Camillo Borghese (August
+and accompanied him to St Domingo, where he died of yellow [[Fever|fever]] in
+1802. Returning to Paris she espoused Prince Camillo [[Borghese]] (August
 23, 1803) and went to reside with him in Rome. She soon tired of him,
 returned to Paris and gratified her whims in ways that caused some
-scandal. In 1806 she received the title of duchess of Guastalla. Her
+scandal. In 1806 she received the title of duchess of [[Guastalla]]. Her
 offhand treatment of the new empress, Marie Louise, in 1810 led to her
 removal from court. Nevertheless in 1814 she repaired with "Madame Mere"
 to Elba, and is said to have expressed a wish to share Napoleon's exile
@@ -483,7 +483,7 @@ VI. MARIA ANNUNCIATA CAROLINE (1782-1839) was born at Ajaccio on the
 25th of March 1782. Early in 1800 she married Joachim Murat, whose
 interests she afterwards advanced with all the power of her ambitious
 and intriguing nature. He became governor of Paris, marshal of France
-(1804), grand duke of Berg and of Cleves (1806), lieutenant of the
+(1804), grand duke of [[Berg]] and of Cleves (1806), lieutenant of the
 emperor in Spain (1808), and early in the summer of that year king of
 Naples. The distance of this capital from Paris displeased Caroline; her
 relations with Napoleon became strained, and she associated herself with
@@ -502,10 +502,10 @@ lived at Trieste with her sister Elisa. She died on the 18th of May
 
 VII. JEROME (1784-1860) was born at Ajaccio on the 15th of November
 1784; he shared the fortunes of the family in the early years of the
-French Revolution, was then educated at Juilly and was called to the
+[[French Revolution]], was then educated at Juilly and was called to the
 side of his brother, then First Consul of France, in 1800. Many stories
 are told illustrating his impetuous but affectionate nature. While in
-the Consular Guard he fought a duel with the younger brother of General
+the Consular Guard he fought a [[Duel|duel]] with the younger brother of General
 Davout and was wounded. Soon afterwards he was transferred to the navy
 and cruised in the West Indies, until, when blockaded by a British
 cruiser, he left his ship and travelled through the United States. At
@@ -513,7 +513,7 @@ Baltimore he fell in love with Miss Elizabeth Patterson, and, though a
 minor, married her. This disregard of discipline and of the laws of
 France greatly annoyed Napoleon; and when in 1805 Jerome brought his
 wife to Europe, the emperor ordered her to be excluded from his states.
-Jerome vainly sought to bend his brother's will in an interview at
+Jerome vainly sought to [[Bend|bend]] his brother's will in an interview at
 Alexandria. In May 1805 he received command of a small squadron in the
 Mediterranean, while his wife proceeded to Camberwell, where she gave
 birth to a son. In November Jerome sailed in a squadron commanded by
@@ -521,34 +521,34 @@ Admiral Willaumez, which was to ravage the West Indies; but it was
 scattered by a storm. After damaging British commerce in the North
 Atlantic, Jerome reached France with his ship in safety in August 1806.
 Napoleon made him a prince of France, and gave him command of a division
-of South Germans in the campaign of 1806. After Jena, Jerome received
+of South Germans in the campaign of 1806. After [[Jena]], Jerome received
 the surrender of several Prussian towns. An imperial decree having
 annulled the Patterson marriage, the emperor united Jerome to the
 princess Catherine of Wurttemberg; and in pursuance of the terms of the
 treaty of Tilsit (July 7, 1807) raised him to the throne of the new
 kingdom of Westphalia. There Jerome, though frequently rebuked by the
 emperor, displayed his fondness for luxury, indulged in numerous
-_amours_ and ran deeply into debt. In some respects his kingdom
+_amours_ and ran deeply into [[Debt|debt]]. In some respects his kingdom
 benefited by the connexion with France. Feudalism was abolished; the
-_Code Napoleon_ was introduced; the Jews were freed from repressive
+_[[Code]] Napoleon_ was introduced; the Jews were freed from repressive
 laws; and education received some impulse in its higher departments. But
 the unpopularity of Jerome's rule was shown by the part taken by the
 peasants in the abortive rising headed by Baron Wilhelm von Dornberg and
 other Westphalian officers in April 1809. Despite heavy taxation, the
 state debt increased greatly; and the sending of a contingent to Russia
-in 1812 brought the state to the verge of bankruptcy. In the early part
+in 1812 brought the state to the verge of [[Bankruptcy|bankruptcy]]. In the early part
 of that campaign Jerome was entrusted with an important movement which
 might have brought the southern Russian army into grave danger; on his
 failure (which was probably due to his lack of energy) the emperor
 promptly subjected him to the control of Marshal Davout, and Jerome
-returned to Cassel. In 1813, on the fall of the Napoleonic regime in
+returned to [[Cassel]]. In 1813, on the fall of the Napoleonic regime in
 Germany, Jerome retired to France, and in 1814 spent some time in
 Switzerland and at Trieste. Returning to France in 1815, he commanded a
 division on the French left wing at Waterloo and attacked Hougomont with
 great pertinacity. On Napoleon's second abdication Jerome proceeded to
-Wurttemberg, was threatened with arrest unless he gave up his wife and
+Wurttemberg, was threatened with [[Arrest|arrest]] unless he gave up his wife and
 child, and was kept under surveillance at Goppingen; finally he was
-allowed to proceed to Augsburg, and thereafter resided at Trieste, or in
+allowed to proceed to [[Augsburg]], and thereafter resided at Trieste, or in
 Italy or Switzerland. His consort died in 1835. He returned to France in
 1847, and after the rise of Louis Napoleon to power, became successively
 governor of the Invalides, marshal of France and president of the
@@ -564,7 +564,7 @@ Napoleonic dynasty.
   Napoleon_ (1883); M.M. Kaisenberg, _Konig Jerome Napoleon_; W.T.R.
   Saffell, _The Bonaparte-Patterson Marriage_; August von Schlossberger,
   _Briefwechsel der Konigin Katharina und des Konigs Jerome von
-  Westfalen mit Konig Friedrich von Wurttemberg_ (Stuttgart, 1886-1887),
+  Westfalen mit Konig [[Friedrich]] von Wurttemberg_ (Stuttgart, 1886-1887),
   supplemented by du Casse in _Corresp. inedite de la reine Catherine de
   Westphalie_ (Paris, 1888-1893); A. Martinet, _Jerome Napoleon, roi de
   Westfalie_ (Paris, 1902); P.W. Sergeant, _The Burlesque Napoleon_
@@ -580,7 +580,7 @@ later biographies of its leading members, mainly descendants of Lucien
 
 VIII. CHARLES LUCIEN JULES LAURENT (1803-1857), prince of Canino, son of
 Lucien Bonaparte, was a scientist rather than a politician. He married
-his cousin, Zenaide Bonaparte, daughter of Joseph, in 1822. At the age
+his [[Cousin|cousin]], Zenaide Bonaparte, daughter of Joseph, in 1822. At the age
 of twenty-two he began the publication of an _American Ornithology_ (4
 vols., Philadelphia, 1825-1833), which established his scientific
 reputation. A series of other works in zoology followed: _Iconographia
@@ -603,11 +603,11 @@ des oiseaux-mouches_ (Paris, 1854), _Ornithologie fossile_ (Paris,
 1858). Eight children survived him: Joseph Lucien Charles Napoleon,
 prince of Canino (1824-1865), who died without heirs; Lucien Louis
 Joseph Napoleon, born in 1828, who took holy orders in 1853 and became a
-cardinal in 1868; Julie Charlotte Zenaide Pauline Laetitia Desiree
+cardinal in 1868; Julie [[Charlotte]] Zenaide Pauline Laetitia Desiree
 Bartholomee, who married the marquis of Roccagiovine; Charlotte Honorine
 Josephine, who married Count Primoli; Marie Desiree Eugenie Josephine
 Philomene, who married the count Campello; Auguste Amelie Maximilienne
-Jacqueline, who married Count Gabrielli; Napoleon Charles Gregoire
+Jacqueline, who married Count Gabrielli; Napoleon Charles [[Gregoire]]
 Jacques Philippe, born in 1839, who married the princess Ruspoli, by
 whom he had two daughters; and Bathilde Aloyse Leonie, who married the
 comte de Cambaceres. The branch is now extinct.
@@ -662,7 +662,7 @@ obscurity at Versailles on the 7th of April 1881. He had married the
 daughter of a Paris working-man, Justine Eleanore Ruffin, by whom he
 had, before his marriage, two children: (1) Roland Napoleon, born on the
 19th of May 1858, who entered the army, was excluded from it in 1886,
-and then devoted himself to geography and scientific explorations; (2)
+and then devoted himself to [[Geography|geography]] and scientific explorations; (2)
 Jeanne, wife of the marquis de Vence.
 
 
@@ -683,7 +683,7 @@ childless, and received a liberal dotation, but was allowed no share in
 public affairs. Privately he professed himself the representative of the
 Napoleonic tradition in its democratic aspect, and associated mainly
 with men of advanced political opinions. At court he represented the
-Liberal party against the empress Eugenie. In 1854 he took part in the
+[[Liberal Party|Liberal party]] against the empress Eugenie. In 1854 he took part in the
 Crimean campaign as general of division. His conduct at the battle of
 the Alma occasioned imputations upon his personal courage, but they seem
 to have been entirely groundless. Returning to France he undertook the
@@ -692,7 +692,7 @@ manifested great capacity. In 1858 he was appointed minister for the
 Colonies and Algeria, and his administration aroused great hopes, but
 his activity was diverted into a different channel by his sudden
 marriage in January 1859 with the princess Marie Clotilde of Savoy,
-daughter of Victor Emmanuel, a prelude to the war for the liberation of
+daughter of Victor [[Emmanuel]], a prelude to the war for the liberation of
 Italy. In this war Prince Napoleon commanded the French corps that
 occupied Tuscany, and it was expected that he would become ruler of the
 principality, but he refused to exert any pressure upon the inhabitants,
@@ -714,9 +714,9 @@ to the Napoleonic succession. His part as imperial pretender was
 unfortunate and inglorious: his democratic opinions were unacceptable to
 the imperial party, and before his death he was virtually deposed in
 favour of his son Prince Napoleon Victor, who, supported by Paul de
-Cassagnac and others, openly declared himself a candidate for the throne
+[[Cassagnac]] and others, openly declared himself a candidate for the throne
 in 1884. He died at Rome on the 17th of March 1891. In the character of
-his intellect, as in personal appearance, he bore an extraordinary
+his [[Intellect|intellect]], as in personal appearance, he bore an extraordinary
 resemblance to the first Napoleon, possessing the same marvellous
 lucidity of insight, and the same gift of infallibly distinguishing the
 essential from the non-essential. He was a warm friend of literature and
@@ -727,7 +727,7 @@ His eldest son, Prince Napoleon Victor Jerome Frederic (b. 1862), became
 at his death the recognized head of the French Bonapartist party. The
 second son, Prince Louis Napoleon, an officer in the Russian army,
 showed a steadier disposition, and was more favoured in some monarchist
-quarters; in 1906 he was made governor of the Caucasus.
+quarters; in 1906 he was made governor of the [[Caucasus]].
 
 
   12. Mathilde.
@@ -735,7 +735,7 @@ quarters; in 1906 he was made governor of the Caucasus.
 XII. MATHILDE LETITIA WILHELMINE (1820-1904), daughter of Jerome, and
 sister of Prince Napoleon (XI.), was born at Trieste on the 20th of May
 1820; after being almost betrothed to her cousin Louis Napoleon, in 1840
-she was married to Prince Anatole Demidov. His conduct, however, led to
+she was married to Prince Anatole [[Demidov]]. His conduct, however, led to
 a separation within five years, and the tsar Nicholas compelled him to
 make Princess Mathilde a handsome allowance. After the election of Louis
 Napoleon to the presidency of the republic she took up her residence in
@@ -753,7 +753,7 @@ at Paris on the 16th of March 1856. He was a delicate boy, but when the
 war of 1870 broke out his mother sent him to the army, to win popularity
 for him, and the government journals vaunted his bravery. After the
 first defeats he had to flee from France with the empress, and settled
-in England at Chislehurst, completing his military education at
+in England at [[Chislehurst]], completing his military education at
 Woolwich. On the death of his father on the 9th of January 1873 the
 Imperialists proclaimed him Napoleon IV., and he became the official
 Pretender. He was naturally inactive, but he was influenced by his
@@ -784,7 +784,7 @@ marked resemblance to his uncle, the great emperor. He was on good terms
 with Jerome, who for some time made him a large allowance, and father
 and son occasionally met. His elder son, also called Jerome Napoleon
 Bonaparte (1832-1893), entered the French army, with which he served in
-the Crimea and in Italy.
+the [[Crimea]] and in Italy.
 
 Charles Joseph Bonaparte (b. 1851), younger son of the first Jerome
 Napoleon Bonaparte, and a grandson of Jerome, king of Westphalia,
@@ -792,8 +792,8 @@ attained a distinguished place in American politics. Born at Baltimore
 on the 9th of June 1851 and educated at Harvard University, he became a
 lawyer in 1874 and has been president of the National Municipal League
 and has filled other public positions. He was secretary of the navy in
-President Roosevelt's cabinet from July 1905 to December 1906, and then
-attorney-general of the United States until March 1909.
+President Roosevelt's [[Cabinet|cabinet]] from July 1905 to December 1906, and then
+[[Attorney-General|attorney-general]] of the United States until March 1909.
 
 
 FOOTNOTE:

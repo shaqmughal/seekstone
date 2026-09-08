@@ -8,7 +8,7 @@ topic: mathematics
 
 LACQUER, or LACKER, a general term for coloured and frequently opaque
 varnishes applied to certain metallic objects and to wood. The term is
-derived from the resin lac, which substance is the basis of lacquers
+derived from the resin [[Lac|lac]], which substance is the basis of lacquers
 properly so called. Technically, among Western nations, lacquering is
 restricted to the coating of polished metals or metallic surfaces, such
 as brass, pewter and tin, with prepared varnishes which will give them a

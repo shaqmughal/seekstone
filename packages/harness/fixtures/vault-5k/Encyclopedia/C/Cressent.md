@@ -25,12 +25,12 @@ placed at the corners of tables are indeed among the most delicious
 achievements of the great days of the French metal worker. Much of
 Cressent's work survives, and can be identified; the Louvre and the
 Wallace collection are especially rich in it, and his commode at
-Hertford House with gilt handles representing Chinese dragons is perhaps
-the most elaborate piece he ever produced. The work of identification is
+[[Hertford]] House with gilt handles representing Chinese dragons is perhaps
+the most elaborate piece he ever produced. The work of [[Identification|identification]] is
 rendered comparatively easy in his case by the fact that he published
 catalogues of three sales of his work. These catalogues are highly
 characteristic of the man, who shared in no small degree the personal
-_bravoura_ of Cellini, and could sometimes execute almost as well. He
+_bravoura_ of [[Cellini]], and could sometimes execute almost as well. He
 did not hesitate to describe himself as the author of "a clock worthy to
 be placed in the very finest cabinets," "the most distinguished
 bronzes," or pieces of "the most elegant form adorned with bronzes of

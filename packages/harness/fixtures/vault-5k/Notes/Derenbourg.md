@@ -15,7 +15,7 @@ and a Latin translation of the same story under the title _Joannis de
 Capua directorium vitae humanae_ (1889); _Commentaire de Maimonide sur
 la Mischnah Seder Tohorot_ (Berlin, 1886-1891); and a second edition of
 S. de Sacy's _Séances de Hariri_. He died on the 29th of July 1895, at
-Ems.
+[[Ems]].
 
 His son, HARTWIG DERENBOURG (1844-1908), was born in Paris on the 17th
 of June 1844. He was educated at Göttingen and Leipzig. Subsequently he

@@ -8,12 +8,12 @@ tags: [optics-theory, mathematics]
 
 # Kahnis
 
-KAHNIS, KARL FRIEDRICH AUGUST (1814-1888), German Lutheran theologian,
-was born at Greiz on the 22nd of December 1814. He studied at Halle, and
+KAHNIS, KARL [[Friedrich|FRIEDRICH]] AUGUST (1814-1888), German Lutheran theologian,
+was born at [[Greiz]] on the 22nd of December 1814. He studied at [[Halle]], and
 in 1850 was appointed professor ordinarius at Leipzig. Ten years later
 he was made canon of Meissen. He retired in 1886, and died on the 20th
 of June 1888 at Leipzig. Kahnis was at first a neo-Lutheran, blessed by
-E. W. Hengstenberg and his pietistic friends. He then attached himself
+E. W. [[Hengstenberg]] and his pietistic friends. He then attached himself
 to the Old Lutheran party, interpreting Lutheranism in a broad and
 liberal spirit and showing some appreciation of rationalism. His
 _Lutherische Dogmatik, historisch-genetisch dargestellt_ (3 vols.,
@@ -22,8 +22,8 @@ modern criticism, by spiritualizing and adapting the old dogmas, by
 attacking the idea of an infallible canon of Scripture and the
 conventional theory of inspiration, by laying stress on the human side
 of Scripture and insisting on the progressive character of revelation,
-brought him into conflict with his former friends. A. W. Diekhoff, Franz
-Delitzsch (_Fur und wider Kahnis_, 1863) and Hengstenberg (_Evangelische
+brought him into conflict with his former friends. A. W. Diekhoff, [[Franz]]
+[[Delitzsch]] (_[[Fur]] und wider Kahnis_, 1863) and Hengstenberg (_Evangelische
 Kirchenzeitung_, 1862) protested loudly against the heresy, and Kahnis
 replied to Hengstenberg in a vigorous pamphlet, _Zeugniss fur die
 Grundwahrheiten des Protestantismus gegen Dr Hengstenberg_ (1862).

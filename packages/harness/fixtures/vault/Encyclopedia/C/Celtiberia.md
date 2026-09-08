@@ -30,10 +30,10 @@ death of Sertorius (72 B.C.), the Celtiberians became gradually
 romanized, and town life grew up among their valleys; Clunia, for
 instance, became a Roman municipality, and ruins of its walls, gates and
 theatre testify to its civilization; while Bilbilis (Bambola), another
-municipality, was the birthplace of the eminently Roman poet Martial.
+municipality, was the birthplace of the eminently Roman poet [[Martial]].
 The Celtiberians may have been so called because they were thought to
-be the descendants of Celtic immigrants from Gaul into Iberia (Spain),
-or because they were regarded (cf. Lucan iv. 9) as a mixed race of Celts
+be the descendants of Celtic immigrants from [[Gaul]] into Iberia (Spain),
+or because they were regarded (cf. Lucan iv. 9) as a mixed race of [[Celt|Celts]]
 and Spaniards (Iberians); in either case the name represents a
 geographer's theory rather than an ascertained fact. That a strong
 Celtic element existed in Spain is proved both by numerous traditions
@@ -41,24 +41,24 @@ and by the more trustworthy evidence of place-names. The Celtic
 place-names of Spain, however, are not confined to Celtiberia or even to
 the north and east; they occur even in the south and west.
 
-  A long description of the manners and customs of the Celtiberi is
+  A long description of the [[Manners|manners]] and customs of the Celtiberi is
   given by Diodorus Siculus (v. 33, 34). Their country was rough and
   unfruitful as a whole (barley, however, was cultivated), being chiefly
   used for the pasture of sheep. Its inhabitants either led a nomadic
   life or occupied small villages; large towns were few. Their infantry
-  and cavalry were both excellent. In battle, they adopted the
+  and [[Cavalry|cavalry]] were both excellent. In battle, they adopted the
   wedge-shaped formation of the column. They carried double-edged swords
-  and short daggers for use hand to hand, the steel of which was
+  and short [[Dagger|daggers]] for use hand to hand, the steel of which was
   hardened by being buried underground; their defensive armour was a
-  light Gallic shield or a round wicker buckler, and greaves of felt
-  round their legs. They wore brazen helmets with purple crests, and
+  light Gallic shield or a round wicker buckler, and [[Greaves|greaves]] of felt
+  round their [[Leg|legs]]. They wore brazen [[Helmet|helmets]] with purple crests, and
   rough-haired black cloaks, in which they slept on the bare ground.
-  Like the Cantabri, they washed themselves with urine instead of water.
+  Like the [[Cantabri]], they washed themselves with urine instead of water.
   They were said to offer sacrifice to a nameless god (Strabo iii. p.
   164) at the time of the full moon when all the household danced
   together before the doors of the houses. Although cruel to their
-  enemies, they were hospitable to strangers. They ate meat of all
-  kinds, and drank a kind of mead. E. Hübner's article in
+  enemies, they were hospitable to strangers. They [[Ate|ate]] [[Meat|meat]] of all
+  kinds, and drank a kind of [[Mead|mead]]. E. Hübner's article in
   Pauly-Wissowa's _Realencyclopadie_, iii. (1886-1893), collects all the
   ancient references, which are almost all brief. Strabo's notice (bk.
   iii.), based perhaps on Poseidonius, is fullest.     (F. J. H.)

@@ -15,7 +15,7 @@ m. This is equal to 1 m. to each 333 sq. m. of land, the smallest
 proportion of coast shown by any of the continents.
 
 
-PHYSICAL GEOGRAPHY
+PHYSICAL [[Geography|GEOGRAPHY]]
 
   General character.
 
@@ -41,7 +41,7 @@ the bed of the ocean, which on the Pacific side has an average depth of
 Melanesia, in varying slopes. The first ledge rising from the ocean
 floor has a depth averaging 8000 ft. below sea-level. The outer edge of
 this ledge is roughly parallel to the coast of Western Australia, and
-more than 150 m. from the land. Round the Australian Bight it continues
+more than 150 m. from the land. Round the Australian [[Bight]] it continues
 parallel to the coast, until south of Spencer Gulf (the basal ledge
 still averaging 8000 ft. in depth) it sweeps southwards to lat. 55 deg.,
 and forms a submarine promontory 1000 m. long. The edge of the abysmal
@@ -53,8 +53,8 @@ Compared with other continents, the Australian continental shelf is
 extremely narrow, and there are points on the eastern coast where the
 land plunges down to oceanic depths with an abruptness rarely
 paralleled. Off the Queensland coast the shelf broadens, its outer edge
-being lined by the seaward face of the Great Barrier Reef. From Torres
-Strait to Dampier Land the shelf spreads out, and connects Australia
+being lined by the seaward face of the [[Great Barrier Reef]]. From Torres
+Strait to [[Dampier]] Land the shelf spreads out, and connects Australia
 with New Guinea and the Malay Archipelago. An elongation of the shelf to
 the south joins Tasmania with the mainland. The vertical relief of the
 land above the ocean is a very important factor in determining the
@@ -69,8 +69,8 @@ continent.
   interior. A great plain, covering quite 500,000 sq. m., occupies a
   position a little to the east of a meridional line bisecting the
   continent, and south of the 22nd degree, but portions of it stretch
-  upwards to the low-lying country south of the Gulf of Carpentaria. The
-  contour of the continent in latitude 30 deg. 5' is as follows:--a short
+  upwards to the low-lying country south of the Gulf of [[Carpentaria]]. The
+  contour of the continent in [[Latitude|latitude]] 30 deg. 5' is as follows:--a short
   strip of coastal plain; then a sharp incline rising to a mountain
   range 4000 ft. above sea-level, at a distance of 40 m. from the coast.
   From this a gently-sloping plateau extends to almost due north of
@@ -93,16 +93,16 @@ continent.
   continent the coast-line is much broken, the chief indentations being
   Admiralty Gulf, Collier Bay and King Sound, on the shores of Tasman
   Land. Western Australia, again, is not favoured with many inlets,
-  Exmouth Gulf and Shark's Bay being the only bays of any size. The same
+  [[Exmouth]] Gulf and Shark's Bay being the only bays of any size. The same
   remark may be made of the rest of the sea-board; for, with the
   exception of Spencer Gulf, the Gulf of St Vincent and Port Phillip on
-  the south, and Moreton Bay, Hervey Bay and Broad Sound on the east,
+  the south, and Moreton Bay, [[Hervey]] Bay and Broad Sound on the east,
   the coast-line is singularly uniform. There are, however, numerous
   spacious harbours, especially on the eastern coast, which are referred
   to in the detailed articles dealing with the different states. The
   Great Barrier Reef forms the prominent feature off the north-east
   coast of Australia; its extent from north to south is 1200 m., and it
-  is therefore the greatest of all coral reefs. The channel between the
+  is therefore the greatest of all [[Coral|coral]] reefs. The channel between the
   reef and the coast is in places 70 m. wide and 400 ft. deep. There are
   a few clear openings in the outer rampart which the reef presents to
   the ocean. These are opposite to the large estuaries of the Queensland
@@ -113,21 +113,21 @@ continent.
   New Guinea, seem to point to the conditions assumed in Darwin's
   well-known subsidence theory, and any facts that appear to be
   inconsistent with the theory of a steady and prolonged subsidence are
-  explainable by the assumption of a slight upheaval.
+  explainable by the [[Assumption|assumption]] of a slight upheaval.
 
   With the exception of Tasmania there are no important islands
   belonging geographically to Australia, for New Guinea, Timor and other
   islands of the East Indian archipelago, though not removed any great
   distance from the continent, do not belong to its system. On the east
   coast there are a few small and unimportant islands. In Bass Strait
-  are Flinders Island, about 800 sq. m. in area, Clarke Island, and a
+  are [[Flinders]] Island, about 800 sq. m. in area, Clarke Island, and a
   few other small islands. Kangaroo Island, at the entrance of St
   Vincent Gulf, is one of the largest islands on the Australian coast,
   measuring 80 m. from east to west with an average width of 20 m.
   Numerous small islands lie off the western coast, but none has any
-  commercial importance. On the north coast are Melville and Bathurst
+  commercial importance. On the north coast are Melville and [[Bathurst]]
   Islands; the former, which is 75 m. long and 38 m. broad, is fertile
-  and well watered. These islands are opposite Port Darwin, and to the
+  and well watered. These islands are opposite Port [[Darwin]], and to the
   westward of the large inlet known as Van Diemen's Gulf. In the Gulf of
   Carpentaria are numerous islands, the largest bearing the Dutch name
   of Groote Eylandt.
@@ -136,7 +136,7 @@ continent.
     Mountains.
 
   Along the full length of the eastern coast extends a succession of
-  mountain chains. The vast Cordillera of the Great Dividing Range
+  mountain chains. The vast [[Cordillera]] of the Great Dividing Range
   originates in the south-eastern corner of the continent, and runs
   parallel with and close to the eastern shore, through the states of
   Victoria and New South Wales, right up to the far-distant York
@@ -145,7 +145,7 @@ continent.
   ft.), both of which lie north of the Dividing Range; in the main range
   Mount Hotham (6100 ft.) and Mount Cobberas (6025 ft.) are the highest
   summits. In New South Wales, but close to the Victorian border, are
-  found the loftiest peaks of Australia, Mount Kosciusco and Mount
+  found the loftiest peaks of Australia, Mount [[Kosciusco]] and Mount
   Townsend, rising to heights of 7328 and 7260 ft. respectively. The
   range is here called the Muniong, but farther north it receives the
   name of Monaro Range; the latter has a much reduced altitude, its
@@ -153,16 +153,16 @@ continent.
   decreases both in height and width, until it narrows to a few miles
   only, with an elevation of scarcely 1500 ft.; under the name of the
   Blue Mountains the plateau widens again and increases in altitude, the
-  chief peaks being Mount Clarence (4000 ft.), Mount Victoria (3525
-  ft.), and Mount Hay (3270 ft.). The Dividing Range decreases north of
+  chief peaks being Mount [[Clarence]] (4000 ft.), Mount Victoria (3525
+  ft.), and Mount [[Hay]] (3270 ft.). The Dividing Range decreases north of
   the Blue Mountains, until as a mere ridge it divides the waters of the
   coastal rivers from those flowing to the Darling. The mass widens out
-  once more in the Liverpool Range, where the highest peak, Mount Oxley,
-  reaches 4500 ft., and farther north, in the New England Range, Ben
-  Lomond reaches an elevation of 5000 ft. Near the Queensland border,
+  once more in the [[Liverpool]] Range, where the highest peak, Mount Oxley,
+  reaches 4500 ft., and farther north, in the New England Range, [[Ben]]
+  [[Lomond]] reaches an elevation of 5000 ft. Near the Queensland border,
   Mount Lindsay, in the Macpherson Range, rises to a height of 5500 ft.
   In the latitude of Brisbane the chain swerves inland; no other peak
-  north of this reaches higher than Mount Bartle Frere in the Bellenden
+  north of this reaches higher than Mount Bartle Frere in the [[Bellenden]]
   Ker Range (5438 ft.). The Southern Ocean system of the Victorian
   Dividing Range hardly attains to the dignity of high mountains. An
   eastern system in South Australia touches at a few points a height of
@@ -187,7 +187,7 @@ continent.
   confusion. A verdure of herbage clothes the valleys that have been
   scooped from the summits downwards. But there are no perpetual
   snow-fields, no glaciers creep down these valleys, and no alpine
-  hamlets ever appear to break the monotony. The mountains of the
+  [[Hamlet|hamlets]] ever appear to break the monotony. The mountains of the
   north-east, on the contrary, are clothed to their summits with a rich
   and varied flora. Naked crags, when they do appear, lift themselves
   from a sea of green, and a tropical vegetation, quite Malaysian in
@@ -206,13 +206,13 @@ continent.
   alluvial plain, the Lower, or the Higher Steppes. Nor has the
   continent, as a whole, in recent times been subjected to any violent
   earth tremors; though in 1873, to the north of Lake Amadeus, in
-  central Australia, Ernest Giles records the occurrence of earthquake
+  central Australia, Ernest [[Giles]] records the occurrence of earthquake
   shocks violent enough to dislodge considerable rock masses.
 
   Australia possesses one mountain which, though not a volcano, is a
   "burning mountain." This is Mount Wingen, situated in a spur of the
   Liverpool Range and close to the town of Scone. Its fires are not
-  volcanic, but result from the combustion of coal some distance
+  volcanic, but result from the [[Combustion|combustion]] of coal some distance
   underground, giving off much smoke and steam; geologists estimate that
   the burning has been going on for at least 800 years.
 
@@ -227,36 +227,36 @@ continent.
   York to the southern boundary of the state. The Burdekin is the finest
   of these, draining an area of 53,500 sq. m., and emptying into Upstart
   Bay; it receives numerous tributaries in its course, and carries a
-  large body of fresh water even in the driest seasons. The Fitzroy
+  large body of fresh water even in the driest seasons. The [[Fitzroy]]
   river is the second in point of size; it drains an area of 55,600 sq.
   m., and receives several tributary streams during its course to Keppel
   Bay. The Brisbane river, falling into Moreton Bay, is important
   chiefly from the fact that the city of Brisbane is situated on its
   banks. In New South Wales there are several important rivers, the
-  largest of which is the Hunter, draining 11,000 sq. m., and having a
+  largest of which is the [[Hunter]], draining 11,000 sq. m., and having a
   course of 200 m. Taking them from north to south, the principal rivers
-  are the Richmond, Clarence, Macleay, Hastings, Manning, Hunter,
+  are the Richmond, Clarence, Macleay, [[Hastings]], Manning, Hunter,
   Hawkesbury and Shoalhaven. The Snowy river has the greater part of its
   course in New South Wales, but its mouth and the last 120 m. are in
   Victoria. The other rivers worth mentioning are the Yarra, entering
-  the sea at Port Phillip, Hopkins and Glenelg. The Murray (q.v.), the
+  the sea at Port Phillip, [[Hopkins]] and [[Glenelg]]. The Murray (q.v.), the
   greatest river of Australia, debouches into Lake Alexandrina, and
   thence into the sea at Encounter Bay in South Australia. There are no
   other rivers of importance in South Australia, but the Torrens and the
-  Gawler may be mentioned. Westward of South Australia, on the shores of
+  [[Gawler]] may be mentioned. Westward of South Australia, on the shores of
   the Australian Bight, there is a stretch of country 300 m. in length
   unpierced by any streams, large or small, but west of the bight,
   towards Cape Leeuwin, some small rivers enter the sea. The south-west
   coast is watered by a few streams, but none of any size; amongst these
   is the Swan, upon which Perth, the capital of Western Australia, is
   built. Between the Swan and North-West Cape the principal rivers are
-  the Greenough, Murchison and Gascoyne; on the north-west coast, the
-  Ashburton, Fortescue and De Grey; and in the Kimberley district, the
+  the [[Greenough]], Murchison and Gascoyne; on the north-west coast, the
+  [[Ashburton]], Fortescue and De Grey; and in the Kimberley district, the
   Fitzroy, Panton, Prince Regent and the Ord. In the Northern Territory
   are several fine rivers. The Victoria river is navigable for large
   vessels for a distance of about 43 m. from the sea, and small vessels
   may ascend for another 80 m. The Fitzmaurice, discharging into the
-  estuary of the Victoria, is also a large stream. The Daly, which in
+  estuary of the Victoria, is also a large stream. The [[Daly]], which in
   its upper course is called the Katherine, is navigable for a
   considerable distance, and small vessels are able to ascend over 100
   m. The Adelaide, discharging into Adam Bay, has been navigated by
@@ -266,14 +266,14 @@ continent.
   Alligator river, falling into the same gulf, has been navigated for 40
   m. Besides those mentioned, there are a number of smaller rivers
   discharging on the north coast, and on the west shore of the Gulf of
-  Carpentaria the Roper river discharges itself into Limmen Bight. The
+  Carpentaria the Roper river [[Discharge|discharges]] itself into Limmen Bight. The
   Roper is a magnificent stream, navigable for about 75 or 80 m. by
   vessels of the largest tonnage, and light draught vessels can ascend
   20 m. farther. Along the portion of the south shore of the Gulf of
   Carpentaria which belongs to Queensland and the east coast, many large
   rivers discharge their waters, amongst them the Norman, Flinders,
-  Leichhardt, Albert and Gregory on the southern shore, and the Batavia,
-  Archer, Coleman, Mitchell, Staaten and Gilbert on the eastern shore.
+  Leichhardt, Albert and Gregory on the southern shore, and the [[Batavia]],
+  [[Archer]], Coleman, Mitchell, Staaten and Gilbert on the eastern shore.
   The rivers flowing into the Gulf of Carpentaria, as well as those in
   the Northern Territory, drain country which is subject to regular
   monsoonal rains, and have the general characteristics of sub-tropical
@@ -282,7 +282,7 @@ continent.
   The network of streams forming the tributaries of the Darling and
   Murray system give an idea of a well-watered country. The so-called
   rivers have a strong flow only after heavy rains, and some of them do
-  not ever reach the main drainage line. Flood waters disappear often
+  not ever reach the main drainage line. [[Flood]] waters disappear often
   within a distance of a few miles, being absorbed by porous soil,
   stretches of sand, and sometimes by the underlying bed-rocks. In many
   cases the rivers as they approach the main stream break up into
@@ -294,9 +294,9 @@ continent.
   one of these periods of flood, and the great plains appeared to him to
   be the fringe of a vast inland sea. As a matter of fact, they are an
   alluvial deposit spread out by the same flood waters. The great rivers
-  of Australia, draining inland, carve out valleys, dissolve limestone,
+  of Australia, draining inland, carve out valleys, dissolve [[Limestone|limestone]],
   and spread out their deposit over the plains when the waters become
-  too sluggish to bear their burden farther. From a geological
+  too sluggish to bear their [[Burden|burden]] farther. From a geological
   standpoint, the Great Australian Plain and the fertile valley of the
   Nile have had a similar origin. Taking the Lachlan as one type of
   Australian river, we find it takes its rise amongst the precipitous
@@ -351,7 +351,7 @@ continent.
   surprising, therefore, that comparatively little of the rainfall over
   the vast extent of the great central plain ever reaches the sea by way
   of the river systems; indeed these systems as usually shown on the
-  maps leave a false impression as to the actual condition of things.
+  [[Map|maps]] leave a false impression as to the actual condition of things.
 
 
     Steppes.
@@ -365,9 +365,9 @@ continent.
   135 deg. and north of the Musgrave ranges is usually termed by
   geographers the Australian Steppes. It is entirely different in all
   essential features from the great alluvial plains. Its prevailing
-  aspect is characterized by flat and terraced hills, capped by desert
+  aspect is characterized by flat and terraced hills, capped by [[Desert|desert]]
   sandstone, with stone-covered flats stretching over long distances.
-  The country round Lake Eyre, where some of the land is actually below
+  The country round Lake [[Eyre]], where some of the land is actually below
   sea-level, comes under this heading. The higher steppes, as far as
   they are known, consist of Ordovician and Cambrian rocks, with an
   average elevation of 1500 to 3000 ft. above sea-level. Over this
@@ -414,9 +414,9 @@ continent.
   eastern and western Australia. The breaking up of the old Archean
   foundation block began in Cambrian and Ordovician times. A narrow
   Cambrian sea must have extended across central Australia from the
-  Kimberley Goldfield in the north-west, through Tempe Downs and the
-  Macdonnell chain in central Australia, to the South Australian
-  highlands, central Victoria at Mansfield, and northern Tasmania.
+  Kimberley Goldfield in the north-west, through Tempe [[Downs]] and the
+  [[Macdonnell]] chain in central Australia, to the South Australian
+  highlands, central Victoria at [[Mansfield]], and northern Tasmania.
   Cambrian rocks occur in each of these districts, and they are best
   developed in the South Australian highlands, where they include a long
   belt of contemporary glacial deposits. Marine Ordovician rocks were
@@ -436,7 +436,7 @@ continent.
 
   [Illustration: Geological map of Australia.]
 
-  The Devonian system includes a complex series of deposits, which are
+  The [[Devonian System|Devonian system]] includes a complex series of deposits, which are
   of most interest in eastern Australia. This period was marked by
   intense earth movements, which affected the whole of the east
   Australian highlands. The Lower Devonian beds are in the main
@@ -446,10 +446,10 @@ continent.
   New South Wales and Queensland, in which were deposited limestones
   with a rich coral fauna. The Upper Devonian was a period of marine
   retreat; the crustal disturbances of the Lower Devonian were renewed
-  and great quartz-pebble beaches were formed on the rising shore lines,
+  and great quartz-pebble [[Beach|beaches]] were formed on the rising shore lines,
   producing the West Coast Range conglomerates of Tasmania, and the
   similar rocks to the south-east of Mansfield in Victoria. Intrusions
-  of granitic _massifs_ in the Devonian period formed the primitive
+  of granitic _[[Massif|massifs]]_ in the Devonian period formed the primitive
   mountain axis of Victoria, which extends east and west across the
   state and forms the nucleus of the Victorian highlands. Similar
   granitic intrusions occurred in New South Wales and Queensland, and
@@ -490,13 +490,13 @@ continent.
   New South Wales, where round Sydney they include a series of
   sandstones and shales. They also occur in northern Tasmania.
 
-  The Jurassic system is represented by two types. In Victoria,
+  The [[Jurassic]] system is represented by two types. In Victoria,
   Tasmania, northern New South Wales and Queensland, there are Jurassic
   terrestrial deposits, containing the coal seams of Victoria, of the
-  Clarence basin of north-eastern New South Wales, and of the Ipswich
+  Clarence basin of north-eastern New South Wales, and of the [[Ipswich]]
   series in Queensland; the same beds range far inland on the western
   slopes of the east Australian highlands in New South Wales and
-  Queensland and they occur, with coal-seams, at Leigh's Creek, at the
+  Queensland and they occur, with coal-seams, at Leigh's [[Creek]], at the
   northern foot of the South Australian highlands. They are also
   preserved in basins on the western plateau, as shown by brown coal
   deposits passed through in the Lake Phillipson bore. The second and
@@ -544,7 +544,7 @@ continent.
   but they occur, and reach about the same height above sea-level, in
   New Guinea, and are widely developed in New Zealand. No doubt eastern
   Australia then extended far out into the Tasman Sea. The great
-  monoclinal fold which formed the eastern face of the east Australian
+  monoclinal [[Fold|fold]] which formed the eastern face of the east Australian
   highlands, west of Sydney, is of later age. After this marine period
   was brought to a close the sea retreated. Tasmania and Victoria were
   separated by the foundering of Bass Strait, and at the same time the
@@ -555,11 +555,11 @@ continent.
   apparently along the whole length of the southern coast of Australia.
 
   _The Flowing Wells of Central Australia._--The clays of the Rolling
-  Downs formation overlie a series of sands and drifts, saturated with
+  Downs formation overlie a series of sands and [[Drift|drifts]], saturated with
   water under high pressure, which discharges at the surface as a
   flowing well, when a borehole pierces the impermeable cover. The first
   of these wells was opened at Kallara in the west of New South Wales in
-  1880. In 1882, Dr W.L. Jack concluded that western Queensland might be
+  1880. In 1882, Dr W.L. [[Jack]] concluded that western Queensland might be
   a deep artesian basin. The Blackhall bore, put down at his advice from
   1885 to 1888, reached a water-bearing layer at the depth of 1645 ft.
   and discharged 291,000 gallons a day. It was the first of the deep
@@ -586,7 +586,7 @@ continent.
   wells derive their water from the Jurassic shales and mudstones. The
   difference in level between the outcrop of the assumed eastern intake
   and of the wells is often so small, in comparison with their distance
-  apart, that the friction would completely sop up the whole of the
+  apart, that the [[Friction|friction]] would completely sop up the whole of the
   available hydrostatic head. Many of the well-waters contain gases;
   thus the town of Roma is lighted by natural gas which escapes from its
   well. The chemical characters of the well-waters, the irregular
@@ -603,7 +603,7 @@ _Climate._--The Australian continent, extending over 28 deg. of
 latitude, might be expected to show a considerable diversity of climate.
 In reality, however, it experiences fewer climatic variations than the
 other great continents, owing to its distance (28 deg.) from the
-Antarctic circle and (11 deg.) from the equator. There is, besides, a
+Antarctic circle and (11 deg.) from the [[Equator|equator]]. There is, besides, a
 powerful determining cause in the uniform character and undivided extent
 of its dry interior. The plains and steppes already described lie either
 within or close to the tropics. They present to the fierce play of the
@@ -666,7 +666,7 @@ the Murray.
                            Rainfall Area
        Rainfall.             in sq. m.
 
-     Under 10 inches         1,219,600
+     Under 10 [[Inch|inches]]         1,219,600
      10 to 20   "              843,100
      20 to 30   "              399,900
      30 to 40   "              225,700
@@ -771,7 +771,7 @@ the Murray.
   set down as averaging not more than 20 deg., a range smaller than is
   found in most other parts of the world. Sydney, situated in latitude
   33 deg. 51' S., has a mean temperature of 62.9 deg. Fahr., which
-  corresponds with that of Barcelona in Spain and of Toulon in France,
+  corresponds with that of [[Barcelona]] in Spain and of Toulon in France,
   the former of these being in latitude 41 deg. 22' N. and the latter in
   43 deg. 7' N. At Sydney the mean summer temperature is 70.8 deg.
   Fahr., and that of winter 53.9 deg. The range is thus 16.9 deg. Fahr.
@@ -817,7 +817,7 @@ the Murray.
   Wales. The heat, however, is generally less intense in summer, and the
   cold greater in winter. Melbourne, which stands in latitude 37 deg.
   50' S., has a mean temperature of 57.3 deg., and therefore corresponds
-  with Washington in the United States, Madrid, Lisbon and Messina. The
+  with Washington in the United States, Madrid, [[Lisbon]] and Messina. The
   difference between summer and winter is, however, less at Melbourne
   than at any of the places mentioned, the result of a long series of
   observations being spring 57 deg., summer 65.3 deg., autumn 58.7 deg.,
@@ -838,7 +838,7 @@ the Murray.
   naturally presents considerable variations of climate. The coldest
   months are June, July and August, during which the temperature is very
   agreeable, averaging 53.6 deg., 51.7 deg., and 54 deg. in those months
-  respectively. On the plains slight frosts occur occasionally, and ice
+  respectively. On the plains slight [[Frost|frosts]] occur occasionally, and [[Ice|ice]]
   is sometimes seen on the highlands. In summer the sun has great
   power, and the temperature reaches 100 deg. in the shade, with hot
   winds blowing from the interior. The weather on the whole is
@@ -855,7 +855,7 @@ the Murray.
   or dry season, which comprises the remainder of the Year. During the
   wet season frequent and heavy rains fall, and thunderstorms, with
   sharp showers, occur in the summer, especially on the north-west
-  coast, which is sometimes visited by hurricanes of great violence. In
+  coast, which is sometimes visited by [[Hurricane|hurricanes]] of great violence. In
   the southern and early-settled parts of the state the mean temperature
   is about 64 deg., but in the more northern portions the heat is
   excessive, though the dryness of the atmosphere makes it preferable to
@@ -886,11 +886,11 @@ on all the lands stretching towards the south pole. A theory was
 therefore propounded that these known types were all derived from a
 continent which has been named Antarctica. The supposed continent
 extended across the south pole, practically joining Australia and South
-America. Just as we have evidence of a former mild climate in the arctic
+America. Just as we have evidence of a former mild climate in the [[Arctic|arctic]]
 regions, so a similar mild climate has been postulated for Antarctica.
 Modern naturalists consider that many of the problems of Australia's
 remarkable fauna and flora can be best explained by the following
-hypothesis:--The region now covered by the antarctic ice-cap was in
+[[Hypothesis|hypothesis]]:--The region now covered by the antarctic ice-cap was in
 early Tertiary times favoured by a mild climate; here lay an antarctic
 continent or archipelago. From an area corresponding to what is now
 South America there entered a fauna and flora, which, after undergoing
@@ -917,7 +917,7 @@ forms. Along the Pacific slope of the Queensland Cordillera these found
 in soil and climate a congenial home. Among the plants the wild banana,
 pepper, orange and mangosteen, rhododendron, epiphytic orchids and the
 palm; among mammals the bats and rats; among birds the cassowary and
-rifle birds; and among reptiles the crocodile and tree snakes,
+rifle birds; and among reptiles the [[Crocodile|crocodile]] and tree snakes,
 characterize this element. The numerous facts, geological, geographical
 and biological, which when linked together lend great support to this
 theory, have been well worked out in Australia by Mr Charles Hedley of
@@ -928,11 +928,11 @@ the Australian Museum, Sydney.
 
   The zoology of Australia and Tasmania presents a very conspicuous
   point of difference from that of other regions of the globe, in the
-  prevalence of non-placental mammalia. The vast majority of the
+  prevalence of non-placental [[Mammalia|mammalia]]. The vast majority of the
   mammalia are provided with an organ in the uterus, by which, before
   the birth of their young, a vascular connexion is maintained between
   the embryo and the parent animal. There are two orders, the
-  Marsupialia and the Monotremata, which do not possess this organ; both
+  [[Marsupialia]] and the Monotremata, which do not possess this organ; both
   these are found in Australia, to which region indeed they are not
   absolutely confined.
 
@@ -941,8 +941,8 @@ the Australian Museum, Sydney.
   great as kangaroos and bandicoots (in their feet), and _Myrmecobius_
   (in the number of teeth). Except the opossums, no single living
   marsupial is known outside the Australian zoological region. The forms
-  of life characteristic of India and the Malay peninsula come down to
-  the island of Bali. Bali is separated from Lombok by a strait not more
+  of life characteristic of India and the [[Malay Peninsula|Malay peninsula]] come down to
+  the island of [[Bali]]. Bali is separated from Lombok by a strait not more
   than 15 m. wide. Yet this narrow belt of water is the boundary line
   between the Australasian and the Indian regions. The zoological
   boundary passing through the Bali Strait is called "Wallace's line,"
@@ -971,30 +971,30 @@ the Australian Museum, Sydney.
   wallabies, and are common everywhere. The kangaroo and most of its
   congeners show an extraordinary disproportion of the hind limbs to the
   fore part of the body. The rock wallabies again have short tarsi of
-  the hind legs, with a long pliable tail for climbing, like that of the
+  the hind [[Leg|legs]], with a long pliable tail for climbing, like that of the
   tree kangaroo of New Guinea, or that of the jerboa. Of the larger
   kangaroos, which attain a weight of 200 lb. and more, eight species
   are named, only one of which is found in Western Australia. Fossil
-  bones of extinct kangaroo species are met with; these kangaroos must
+  [[Bone|bones]] of extinct kangaroo species are met with; these kangaroos must
   have been of enormous size, twice or thrice that of any species now
   living.
 
   There are some twenty smaller species in Australia and Tasmania,
-  besides the rock wallabies and the hare kangaroos; these last are
+  besides the rock wallabies and the [[Hare|hare]] kangaroos; these last are
   wonderfully swift, making clear jumps 8 or 10 ft. high. Other
   terrestrial marsupials are the wombat (_Phascolomys_), a large,
   clumsy, burrowing animal, not unlike a pig, which attains a weight of
   from 60 to 100 lb.; the bandicoot (_Perameles_), a rat-like creature
   whose depredations annoy the agriculturist; the native cat
   (_Dasyurus_), noted robber of the poultry yard; the Tasmanian wolf
-  (_Thylacinus_), which preys on large game; and the recently discovered
+  (_Thylacinus_), which preys on large [[Game|game]]; and the recently discovered
   _Notoryctes_, a small animal which burrows like a mole in the desert
   of the interior. Arboreal species include the well-known opossums
   (_Phalanger_); the extraordinary tree-kangaroo of the Queensland
   tropics; the flying squirrel, which expands a membrane between the
   legs and arms, and by its aid makes long sailing jumps from tree to
   tree; and the native bear (_Phascolarctos_), an animal with no
-  affinities to the bear, and having a long soft fur and no tail.
+  affinities to the bear, and having a long soft [[Fur|fur]] and no tail.
 
   The _Myrmecobius_ of Western Australia is a bushy-tailed ant-eater
   about the size of a squirrel, and from its lineage and structure of
@@ -1012,23 +1012,23 @@ the Australian Museum, Sydney.
   evacuation with a single orifice, as in birds. Their abdominal bones
   are like those of the marsupials; and they are furnished with pouches
   for their young, but have no teats, the milk being distilled into
-  their pouches from the mammary glands. Australia and Tasmania possess
+  their pouches from the [[Mammary Gland|mammary glands]]. Australia and Tasmania possess
   two animals of this order--the echidna, or spiny ant-eater (hairy in
   Tasmania), and the _Platypus anatinus_, the duckbilled water mole,
   otherwise named the _Ornithorhynchus paradoxus_. This odd animal is
-  provided with a bill or beak, which is not, like that of a bird,
+  provided with a bill or [[Beak|beak]], which is not, like that of a bird,
   affixed to the skeleton, but is merely attached to the skin and
   muscles.
 
-  Australia has no apes, monkeys or baboons, and no ruminant beasts. The
+  Australia has no [[Ape|apes]], monkeys or baboons, and no ruminant beasts. The
   comparatively few indigenous placental mammals, besides the dingo or
   wild dog--which, however, may have come from the islands north of this
   continent--are of the bat tribe and of the rodent or rat tribe. There
-  are four species of large fruit-eating bats, called flying foxes,
+  are four species of large fruit-eating bats, called flying [[Foxe|foxes]],
   twenty of insect-eating bats, above twenty of land-rats, and five of
   water-rats. The sea produces three different seals, which often ascend
-  rivers from the coast, and can live in lagoons of fresh water; many
-  cetaceans, besides the "right whale" and sperm whale; and the dugong,
+  rivers from the coast, and can live in [[Lagoon|lagoons]] of fresh water; many
+  cetaceans, besides the "right whale" and sperm whale; and the [[Dugong|dugong]],
   found on the northern shores, which yields a valuable medicinal oil.
 
   The birds of Australia in their number and variety of species may be
@@ -1036,16 +1036,16 @@ the Australian Museum, Sydney.
   stand comparison in this respect with regions of Africa and South
   America in the same latitudes. The black swan was thought remarkable
   when discovered, as belying an old Latin proverb. There is also a
-  white eagle. The vulture is wanting. Sixty species of parrots, some of
+  white [[Eagle|eagle]]. The vulture is wanting. Sixty species of parrots, some of
   them very handsome, are found in Australia. The emu corresponds with
   the African and Arabian ostrich, the rhea of South America, and the
   cassowary of the Moluccas and New Guinea. In New Zealand this group is
   represented by the apteryx, as it formerly was by the gigantic moa,
   the remains of which have been found likewise in Queensland. The
-  graceful _Menura superba_, or lyre-bird, with its tail feathers spread
+  graceful _Menura superba_, or lyre-bird, with its tail [[Feather|feathers]] spread
   in the shape of a lyre, is a very characteristic form. The
   mound-raising megapodes, the bower-building satin-birds, and several
-  others, display peculiar habits. The honey-eaters present a great
+  others, display peculiar habits. The [[Honey-Eater|honey-eaters]] present a great
   diversity of plumage. There are also many kinds of game birds,
   pigeons, ducks, geese, plovers and quails. The ornithology of New
   South Wales and Queensland is more varied and interesting than that of
@@ -1053,8 +1053,8 @@ the Australian Museum, Sydney.
 
   As for reptiles, Australia has a few tortoises, all of one family, and
   not of great size. The "leathery turtle," which is herbivorous, and
-  yields abundance of oil, has been caught at sea off the Illawarra
-  coast so large as 9 ft. in length. The saurians or lizards are
+  yields abundance of oil, has been caught at sea off the [[Illawarra]]
+  coast so large as 9 ft. in length. The saurians or [[Lizard|lizards]] are
   numerous, chiefly on dry sandy or rocky ground in the tropical region.
   The great crocodile of Queensland has been known to attain a length of
   30 ft.; there is a smaller one about 6 ft. in length to be met with in
@@ -1066,7 +1066,7 @@ the Australian Museum, Sydney.
   derived from the iguana, an entirely different animal. There are about
   twenty kinds of night-lizards, and many which hibernate. One species
   can utter a cry when pained or alarmed, and the tall-standing frilled
-  lizard can lift its forelegs, and squat or hop like a kangaroo. There
+  lizard can lift its forelegs, and squat or [[Hop|hop]] like a kangaroo. There
   is also the _Moloch horridus_ of South and Western Australia, covered
   with tubercles bearing large spines, which give it a very strange
   aspect. This and some other lizards have power to change their colour,
@@ -1081,10 +1081,10 @@ the Australian Museum, Sydney.
   been or is likely to be discovered for their poison, but in less
   serious cases strychnine has been used with advantage. In tropical
   waters a sea snake is found, which, though very poisonous, rarely
-  bites. Among the inoffensive species are counted the graceful green
+  [[Bit|bites]]. Among the inoffensive species are counted the graceful green
   "tree snake," which pursues frogs, birds and lizards to the topmost
   branches of the forest; also several species of pythons, the commonest
-  of which is known as the carpet snake. These great reptiles may attain
+  of which is known as the [[Carpet|carpet]] snake. These great reptiles may attain
   a length of 10 ft.; they feed on small animals which they crush to
   death in their folds.
 
@@ -1092,21 +1092,21 @@ the Australian Museum, Sydney.
   exist in the southern parts of Asia and Africa. Of those peculiar to
   Australian waters may be mentioned the arripis, represented by what is
   called among the colonists a salmon trout. A very fine freshwater fish
-  is the Murray cod, which sometimes weighs 100 lb.; and the golden
+  is the Murray [[Cod|cod]], which sometimes weighs 100 lb.; and the golden
   perch, found in the same river, has rare beauty of colour. Among the
   sea fish, the schnapper is of great value as an article of food, and
   its weight comes up to 50 lb. This is the _Pagrus unicolor_, of the
-  family of _Sparidae_, which includes also the bream. Its colours are
+  family of _Sparidae_, which includes also the bream. Its [[Colours|colours]] are
   beautiful, pink and red with a silvery gloss; but the male as it grows
   old takes on a singular deformity of the head, with a swelling in the
   shape of a monstrous human-like nose. These fish frequent rocky shoals
-  off the eastern coast and are caught in numbers outside Port Jackson
-  for the Sydney market. Two species of mackerel, differing somewhat
+  off the eastern coast and are caught in numbers outside Port [[Jackson]]
+  for the Sydney market. Two species of [[Mackerel|mackerel]], differing somewhat
   from the European species, are also caught on the coasts. The
-  so-called red garnet, a pretty fish, with hues of carmine and blue
+  so-called red [[Garnet|garnet]], a pretty fish, with [[Hue|hues]] of carmine and blue
   stripes on its head, is much esteemed for the table. The _Trigla
   polyommata_, or flying garnet, is a greater beauty, with its body of
-  crimson and silver, and its large pectoral fins, spread like wings, of
+  [[Crimson|crimson]] and silver, and its large pectoral fins, spread like wings, of
   a rich green, bordered with purple, and relieved by a black and white
   spot. Whiting, mullet, gar-fish, rock cod and many others known by
   local names, are in the lists of edible fishes belonging to New South
@@ -1121,7 +1121,7 @@ the Australian Museum, Sydney.
   fishes--the Dipnoi, only a few species of which have survived from
   past geological periods. The Dipnoi show a distinct transition between
   fishes and amphibia. So far the mud-fish has been found only in the
-  Mary and the Burnett rivers. Hardly of less scientific interest is the
+  Mary and the [[Burnett]] rivers. Hardly of less scientific interest is the
   Port Jackson shark (_Heterodontus_). It is a harmless helmeted
   ground-shark, living on molluscs, and almost the sole survivor of a
   genus abundant in the Secondary rocks of Europe.
@@ -1145,7 +1145,7 @@ the Australian Museum, Sydney.
   considerable wealth of timber trees in every way superior to the flora
   inland in the same latitudes. In the interior there is little change
   in the general aspect of the vegetation, from the Australian Bight to
-  the region of Carpentaria, where the exotic element begins. Behind the
+  the region of Carpentaria, where the [[Exotic|exotic]] element begins. Behind the
   luxuriant jungles of the sub-tropical coast, once over the main range,
   we find the purely Australian flora with its apparent sameness and
   sombre dulness. Physical surroundings rather than latitude determine
@@ -1162,7 +1162,7 @@ the Australian Museum, Sydney.
   and west--where anything can grow--there will be found a gum-tree. The
   eucalypts are remarkable for the oil secreted in their leaves, and the
   large quantity of astringent resin of their bark. This resinous
-  exudation (Kino) somewhat resembles gum, hence the name "gum" tree. It
+  exudation ([[Kino]]) somewhat resembles [[Gum|gum]], hence the name "gum" tree. It
   will not dissolve in water as gums do, but it is soluble in alcohol,
   as resin usually is. Many of the gum-trees throw off their bark, so
   that it hangs in long dry strips from the trunk and branches, a
@@ -1170,7 +1170,7 @@ the Australian Museum, Sydney.
   eucalyptus are well known as commercial products. As early as 1866,
   tannic acid, gallic acid, wood spirit, acetic acid, essential oil and
   eucalyptol were produced from various species of eucalyptus, and
-  researches made by Australian chemists, notably by Messrs. Baker and
+  researches made by Australian chemists, notably by Messrs. [[Baker]] and
   Smith of the Sydney Technical College, have brought to light many
   other valuable products likely to prove of commercial value. The genus
   _Eucalyptus_ numbers more than 150 species, and provides some of the
@@ -1178,7 +1178,7 @@ the Australian Museum, Sydney.
   is well known (_Eucalyptus sideroxylon_), and is so called from the
   hardness of the wood, the bark not being remarkable except for its
   rugged and blackened aspect. Samples of this timber have been studied
-  after forty-three years' immersion in sea-water. Portions most liable
+  after forty-three years' [[Immersion|immersion]] in sea-water. Portions most liable
   to destruction, those parts between the tide marks, were found
   perfectly sound, and showed no signs of the ravages of marine
   organisms. Other valuable timber trees of the eastern portion of the
@@ -1188,7 +1188,7 @@ the Australian Museum, Sydney.
   teredo than any other timber and is largely used in wharf construction
   in infested waters. There are also several extremely valuable soft
   timbers, the principal being red cedar (_Cedrela Toona_), silky oak
-  (_Grevillea robusta_), beech and a variety of teak, with several
+  (_Grevillea robusta_), [[Beech|beech]] and a variety of teak, with several
   important species of pine. The red gum forests of the Murray valley
   and the pine forests bordering the Great Plains are important and
   valuable. In Western Australia there are extensive forests of
@@ -1233,7 +1233,7 @@ the Australian Museum, Sydney.
   again and again, the leaves being developed umbrella-fashion on the
   outer branches. The mallee scrub appears like a forest of dried osier,
   growing so close that it is not always easy to ride through it. Hardly
-  a leaf is visible to the height of one's head; but above, a crown of
+  a [[Leaf|leaf]] is visible to the height of one's head; but above, a crown of
   thick leather-like leaves shuts out the sunlight. The ground below is
   perfectly bare, and there is no water. Nothing could add to the
   sterility and the monotony of these mallee scrubs. "Mulga" scrub is a
@@ -1250,7 +1250,7 @@ the Australian Museum, Sydney.
   presence the pre-eminence of Australia as a wool-producing country is
   largely due.
 
-  Grasses and herbage in great variety constitute the most valuable
+  [[Grasses]] and herbage in great variety constitute the most valuable
   element of Australian flora from the commercial point of view. The
   herbage for the most part grows with marvellous rapidity after a
   spring or autumn shower and forms a natural shelter for the more
@@ -1264,22 +1264,22 @@ the Australian Museum, Sydney.
   Australian scenery, and are counted amongst the oldest flowering
   plants of the world. The order is easily distinguished by the hard,
   dry, woody texture of the leaves and the dehiscent fruits. They are
-  found in New Zealand and also in New Caledonia, their greatest
+  found in New Zealand and also in New [[Caledonia]], their greatest
   developments being on the south-west of the Australian continent.
-  Proteaceae are found also in Tierra del Fuego and Chile. They are also
+  Proteaceae are found also in Tierra del Fuego and [[Chile]]. They are also
   abundant in South Africa, where the order forms the most conspicuous
   feature of vegetation. The range in species is very limited, no one
   being common to eastern and western Australia. The chief genera are
-  banksia (_honeysuckle_), and hakea (_needle bush_).
+  banksia (_[[Honeysuckle|honeysuckle]]_), and hakea (_needle bush_).
 
-  The Moreton Bay pine (_Araucaria Cunninghamii_) is reckoned amongst
-  the giants of the forest. The genus is associated with one long
+  The Moreton Bay pine (_[[Araucaria]] Cunninghamii_) is reckoned amongst
+  the [[Giant|giants]] of the forest. The genus is associated with one long
   extinct in Europe. Moreton Bay pine is chiefly known by the utility of
   its wood. Another species, _A. Bidwillii_, or the bunya-bunya,
   afforded food in its nut-like seeds to the aborigines. A most
   remarkable form of vegetation in the north-west is the gouty-stemmed
   tree (_Adansonia Gregorii_), one of the Malvaceae. It is related
-  closely to the famous baobab of tropical Africa. The "grass-tree"
+  closely to the famous [[Baobab|baobab]] of tropical Africa. The "grass-tree"
   (_Xanthorrhoea_), of the uplands and coast regions, is peculiarly
   Australian in its aspect. It is seen as a clump of wire-like leaves, a
   few feet in diameter, surrounding a stem, hardly thicker than a
@@ -1288,7 +1288,7 @@ the Australian Museum, Sydney.
   as distinct a character to an Australian picture as the agave and
   cactus do to the Mexican landscape. With these might be associated the
   gigantic lily of Queensland (_Nymphaea gigantea_), the leaves of which
-  float on water, and are quite 18 in. across. There is also a gigantic
+  [[Float|float]] on water, and are quite 18 in. across. There is also a gigantic
   lily (_Doryanthes excelsa_) which grows to a height of 15 feet. The
   "flame tree" is a most conspicuous feature of an Illawarra landscape,
   the largest racemes of crimson red suggesting the name. The waratah or
@@ -1308,7 +1308,7 @@ the Australian Museum, Sydney.
   South African, and the Australian floras have many types in common.
   There is also to a limited extent a European element present. One
   thing is certain, that there is in Australia a flora that is a remnant
-  of a vegetation once widely distributed. Heer has described such
+  of a vegetation once widely distributed. [[Heer]] has described such
   Australian genera as Banksia, Eucalyptus, _Grevillea_ and _Hakea_ from
   the Miocene of Switzerland. Another point agreed upon is that the
   Australian flora is one of vast antiquity. There are genera so far
@@ -1333,7 +1333,7 @@ whom 7434 were in New South Wales, 652 in Victoria, 27,123 in South
 Australia, and 6212 in Western Australia. The assertion by the
 Queensland authorities that there are 50,000 aborigines in that state is
 a crude estimate, and may be far wide of the truth. In South Australia
-and the Northern Territory a large number are outside the bounds of
+and the Northern Territory a large number are outside the [[Bounds|bounds]] of
 settlement, and it is probable that they are as numerous there as in
 Queensland. The census of Western Australia included only those
 aborigines in the employment of the colonists; and as a large part of
@@ -1344,7 +1344,7 @@ into consideration, the aboriginal population of the continent may be
 set down at something like 180,000. Chinese, numbering about 30,000, are
 chiefly found in New South Wales, Queensland, Victoria, and the Northern
 Territory. Of Japanese there were 3500, of Hindu and Sinhalese 4600,
-according to recent computation, but the policy of the Commonwealth is
+according to recent computation, but the policy of the [[Commonwealth]] is
 adverse to further immigration of other than whites. South Sea Islanders
 and other coloured races, numbering probably about 15,000, were in 1906
 to be found principally in Queensland, but further immigration of
@@ -1362,7 +1362,7 @@ originally to the stoppage of progress consequent on the bank crisis of
 governments towards immigration and their failure to provide for the
 welfare of immigrants on their arrival. During 1906 a more rational view
 of the value of immigration was adopted by the various state governments
-and by the federal government, and immigration to Australia is now
+and by the [[Federal Government|federal government]], and immigration to Australia is now
 systematically encouraged. Australia's gain of population by
 immigration,--i.e. the excess of the inward over the outward movement
 of a population--since the discovery of gold in 1851, arranged in ten
@@ -1389,7 +1389,7 @@ and 7.25. The death rate of Australia is much below that of European
 countries and is steadily declining. During the twenty years preceding
 the census of 1901 there was a fall in the death rate of 3.4 per
 thousand, of which, however, 1 per thousand is attributable to the
-decline in the birth rate, the balance being attributable to improved
+decline in the birth rate, the [[Balance|balance]] being attributable to improved
 sanitary conditions.
 
 _Territorial Divisions._--Australia is politically divided into five
@@ -1419,21 +1419,21 @@ in Victoria to 2.06 in New South Wales and 6.9 in Western Australia.
 
 Australia contains four cities whose population exceeds 100,000, and
 fifteen with over 10,000. The principal cities and towns are Sydney
-(pop. 530,000), Newcastle, Broken Hill, Parramatta, Goulburn, Maitland,
-Bathurst, Orange, Lithgow, Tamworth, Grafton, Wagga and Albury, in New
-South Wales; Melbourne (pop. 511,900), Ballarat, Bendigo, Geelong,
-Eaglehawk, Warrnambool, Castlemaine, and Stawell in Victoria; Brisbane
+(pop. 530,000), Newcastle, [[Broken Hill]], Parramatta, Goulburn, Maitland,
+Bathurst, Orange, [[Lithgow]], Tamworth, [[Grafton]], Wagga and Albury, in New
+South Wales; Melbourne (pop. 511,900), Ballarat, Bendigo, [[Geelong]],
+[[Eaglehawk]], Warrnambool, [[Castlemaine]], and Stawell in Victoria; Brisbane
 (pop. 128,000), Rockhampton, Maryborough, Townsville, Gympie, Ipswich,
 and Toowoomba in Queensland; Adelaide (pop. about 175,000), Port
 Adelaide and Port Pirie in South Australia; Perth (pop. 56,000),
-Fremantle, and Kalgoorlie in Western Australia; and Hobart (pop. 35,500)
-and Launceston in Tasmania.
+[[Fremantle]], and Kalgoorlie in Western Australia; and [[Hobart]] (pop. 35,500)
+and [[Launceston]] in Tasmania.
 
 _Defence._--Up to the end of the 19th century, little was thought of any
 locally-raised or locally-provided defensive forces, the mother-country
 being relied upon. But the Transvaal War of 1899-1902, to which
 Australia sent 6310 volunteers (principally mounted rifles), and the
-gradual increase of military sentiment, brought the question more to the
+[[Gradual|gradual]] increase of military sentiment, brought the question more to the
 front, and more and more attention was given to making Australian
 defence a matter of local concern. Naval defence in any case remained
 primarily a question for the Imperial navy, and by agreement (1903, for
@@ -1455,7 +1455,7 @@ Commonwealth; and by 1909 three such vessels had been ordered in England
 preparatory to building others in Australia. The military establishment
 at the beginning of 1909 was represented by a small permanent force of
 about 1400, a militia strength of about 17,000, and some 6000
-volunteers, besides 50,000 members of rifle clubs and 30,000 cadets; the
+volunteers, besides 50,000 members of rifle clubs and 30,000 [[Cadet|cadets]]; the
 expenditure being (estimate, 1908-1909) L623,946. But a reorganization
 of the military forces, on the basis of obligatory national training,
 was already contemplated, though the first Bill introduced for this
@@ -1467,10 +1467,10 @@ of religion in any way subsidized by the state. The Church of England
 claims as adherents 39% of the population, and the Roman Catholic Church
 22%; next in numerical strength are the Wesleyans and other Methodists,
 numbering 12%, the various branches of the Presbyterians 11%,
-Congregationalists 2%, and Baptists 2%. These proportions varied very
+Congregationalists 2%, and [[Baptists]] 2%. These proportions varied very
 little between 1881 and 1906, and may be taken as accurately
 representing the present strength of the various Christian
-denominations. Churches of all denominations are liberally supported
+[[Denomination|denominations]]. Churches of all denominations are liberally supported
 throughout the states, and the residents of every settlement, however
 small, have their places of worship erected and maintained by their own
 contributions.
@@ -1499,12 +1499,12 @@ Australian birth is very small.
 
 Instruction at state schools is either free or at merely nominal cost,
 and high schools, technical colleges and agricultural colleges are
-maintained by appropriations from the general revenues of the states.
+maintained by [[Appropriation|appropriations]] from the general revenues of the states.
 There are also numerous grammar schools and other private schools.
 Universities have been established at Sydney, Melbourne, Adelaide and
 Hobart, and are well equipped and numerously attended; they are in part
 supported by grants from the public funds and in part by private
-endowments and the fees paid by students. The number of students
+endowments and the [[Fee|fees]] paid by students. The number of students
 attending lectures is about 2500 and the annual income a little over
 L100,000. The cost of public instruction in Australia averages about
 11s. 4d. per inhabitant, and the cost per scholar in average attendance
@@ -1527,8 +1527,8 @@ of minor importance as compared with wool-growing, but nevertheless
 represent a great source of wealth, with vast possibilities of expansion
 in the over-sea trade. The perfection of refrigeration in over-sea
 carriage, which has done so much to extend the markets for Australian
-beef and mutton, has also furthered the expansion of dairying, there
-being an annual output of over 160 million lb. of butter, valued at
+[[Beef|beef]] and mutton, has also furthered the expansion of dairying, there
+being an annual output of over 160 million lb. of [[Butter|butter]], valued at
 L6,000,000; of this about 64 million lb., valued at L2,500,000, is
 exported annually to British markets.
 
@@ -1546,7 +1546,7 @@ Other important crops grown are--maize, 324,000 acres; oats, 493,000
 acres; other grains, 160,000 acres; hay, 1,367,000 acres; potatoes,
 119,000 acres; sugar-cane, 141,000 acres; vines, 65,000 acres; and other
 crops, 422,000 acres. The chief wheat lands are in Victoria, South
-Australia and New South Wales; the yield averages about 9 bushels to the
+Australia and New South Wales; the yield averages about 9 [[Bushel|bushels]] to the
 acre; this low average is due to the endeavour of settlers on new lands
 to cultivate larger areas than their resources can effectively deal
 with; the introduction of scientific farming should almost double the
@@ -1554,10 +1554,10 @@ yield. Maize and sugar-cane are grown in New South Wales and Queensland.
 The vine is cultivated in all the states, but chiefly in South
 Australia, Victoria and New South Wales. Australia produces abundant
 quantities and nearly all varieties of fruits; but the kinds exported
-are chiefly oranges, pineapples, bananas and apples. Tobacco thrives
+are chiefly oranges, pineapples, bananas and [[Apple|apples]]. Tobacco thrives
 well in New South Wales and Victoria, but kinds suitable for exportation
 are not largely grown. Compared with the principal countries of the
-world, Australia does not take a high position in regard to the gross
+world, Australia does not take a high position in regard to the [[Gross|gross]]
 value of the produce of its tillage, the standard of cultivation being
 for the most part low and without regard to maximum returns, but in
 value per inhabitant it compares fairly well; indeed, some of the states
@@ -1579,7 +1579,7 @@ many hundreds of well-equipped saw-mills affording employment to about
 5000 men. The export of timber is in ordinary years valued at a million
 sterling and the total production at L2,250,000.
 
-_Fisheries._--Excellent fish of many varieties abound in the Australian
+_[[Fisheries]]._--Excellent fish of many varieties abound in the Australian
 seas and in many of the rivers. In several of the states, fish have been
 introduced successfully from other countries. Trout may now be taken in
 many of the mountain streams. At one time whaling was an important
@@ -1593,12 +1593,12 @@ wealth that is now being sufficiently exploited to be regarded as an
 industry is the gathering of pearl-oysters from the beds off the
 northern and north-western coasts of the continent. In Queensland waters
 there are about 300 vessels, and on the Western Australian coast about
-450 licensed craft engaged in the industry, the annual value of
+450 licensed [[Craft|craft]] engaged in the industry, the annual value of
 pearl-shell and pearls raised being nearly half a million sterling.
 Owing to the depletion of some of the more accessible banks, and to
 difficulties in connexion with the employment of coloured crews, many of
 the vessels have now gone farther afield. As the pearl-oyster is
-remarkably prolific, it is considered by experts that within a few years
+remarkably prolific, it is considered by [[Expert|experts]] that within a few years
 of their abandonment by fishing fleets the denuded banks will become as
 abundantly stocked as ever.
 
@@ -1642,11 +1642,11 @@ important alluvial deposits being worked. The greatest development of
 quartz reefing is found in Victoria, some of the mines being of great
 depth. There are eight mines in the Bendigo district over 3000 ft. deep,
 and fourteen over 2500 ft. deep. In the Victoria mine a depth of 3750
-ft. has been reached, and in Lazarus mine 3424 ft. In the Ballarat
+ft. has been reached, and in [[Lazarus]] mine 3424 ft. In the Ballarat
 district a depth of 2520 ft. has been reached in the South Star mine. In
 Queensland there is one mine 3156 ft. deep, and several others exceed
 2000 ft. in depth. A considerable number of men are engaged in the
-various states on alluvial fields, in hydraulic sluicing, and dredging
+various states on alluvial [[Fields|fields]], in hydraulic sluicing, and dredging
 is now adopted for the winning of gold in river deposits. So far this
 form of winning is chiefly carried on in New South Wales, where there
 are about fifty gold-dredging plants in successful operation. Over
@@ -1670,7 +1670,7 @@ two-thirds of them being engaged in quartz mining.
   situated beyond the river Darling, and close to the boundary between
   New South Wales and South Australia. The lodes occur in Silurian
   metamorphic micaceous schists, intruded by granite, porphyry and
-  diorite, and traversed by numerous quartz reefs, some of which are
+  [[Diorite|diorite]], and traversed by numerous quartz reefs, some of which are
   gold-bearing. The Broken Hill lode is the largest yet discovered. It
   varies in width from 10 ft. to 200 ft., and may be traced for several
   miles. Although indications of silver abound in all the other states,
@@ -1713,15 +1713,15 @@ two-thirds of them being engaged in quartz mining.
   mines are those of Cobar, where the Great Cobar mine produces annually
   nearly 4000 tons of refined copper. In northern Queensland copper is
   found throughout the Cloncurry district, in the upper basin of the
-  Star river, and the Herberton district. The returns from the copper
+  Star river, and the [[Herberton]] district. The returns from the copper
   fields in the state are at present a little over half a million
   sterling per annum, and would be still greater if it were not for the
-  lack of suitable fuel for smelting purposes, which renders the
+  lack of suitable [[Fuel|fuel]] for smelting purposes, which renders the
   economical treatment of the ore difficult; the development of the
   mines is also retarded by the want of easy and cheaper communication
   with the coast. In Western Australia copper deposits have been worked
   for some years. Very rich lodes of the metal have been found in the
-  Northampton, Murchison and Champion Bay districts, and also in the
+  Northampton, Murchison and [[Champion]] Bay districts, and also in the
   country to the south of these districts on the Irwin river. Tasmania
   is now the largest copper-producing state of the Commonwealth; in 1905
   the output was over L672,010 and in earlier years even larger. The
@@ -1740,8 +1740,8 @@ two-thirds of them being engaged in quartz mining.
   this mineral, according to the reports of Dr Jack, late Government
   geologist of the former state, and the late Rev. J.E. Tenison-Woods,
   appears to be very great. The most important tin-mines in Queensland
-  are in the Herberton district, south-west of Cairns; at Cooktown, on
-  the Annan and Bloomfield rivers; and at Stanthorpe, on the border of
+  are in the Herberton district, south-west of [[Cairns]]; at [[Cooktown]], on
+  the [[Annan]] and [[Bloomfield]] rivers; and at Stanthorpe, on the border of
   New South Wales. Herberton and Stanthorpe have produced more than
   three-fourths of the total production of the state. Towards the close
   of the 19th century the production greatly decreased in consequence of
@@ -1780,12 +1780,12 @@ two-thirds of them being engaged in quartz mining.
   ore, containing 5,853,000 tons of metallic iron. Extensive deposits,
   which are being developed successfully, occur in Tasmania, it being
   estimated that there are, within easy shipping facilities, 17,000,000
-  tons of ore. Magnetite, or magnetic iron, the richest of all iron
+  tons of ore. [[Magnetite]], or magnetic iron, the richest of all iron
   ores, is found in abundance near Wallerawang in New South Wales. The
   proximity of coal-beds now being worked should accelerate the
   development of the iron deposits, which, on an average, contain 41% of
   metal. Magnetite occurs in great abundance in Western Australia,
-  together with haematite, which would be of enormous value if cheap
+  together with [[Haematite|haematite]], which would be of enormous value if cheap
   labour were available. Goethite, limonite and haematite are found in
   New South Wales, at the junction of the Hawkesbury sandstone formation
   and the Wianamatta shale, near Nattai, and are enhanced in their value
@@ -1811,7 +1811,7 @@ two-thirds of them being engaged in quartz mining.
   of stibnite (sulphide of antimony) have been found near Roebourne in
   Western Australia, but no attempt has yet been made to work them.
 
-  Bismuth is known to exist in all the Australian states, but up to the
+  [[Bismuth]] is known to exist in all the Australian states, but up to the
   present time it has been mined for only in three states, viz. New
   South Wales, Queensland, South Australia and Tasmania. It is usually
   found in association with tin and other minerals. The principal mine
@@ -1842,7 +1842,7 @@ two-thirds of them being engaged in quartz mining.
   associated with silver. In Western Australia the lead occurs in the
   form of sulphides and carbonates of great richness, but the quantity
   of silver mixed with it is very small. The lodes are most frequently
-  of great size, containing huge masses of galena, and so little gangue
+  of great size, containing huge masses of [[Galena|galena]], and so little gangue
   that the ore can very easily be dressed to 83 or 84%. The association
   of this metal with silver in the Broken Hill mines of New South Wales
   adds very greatly to the value of the product.
@@ -1876,7 +1876,7 @@ two-thirds of them being engaged in quartz mining.
   and Tasmania. Few attempts, however, have been made to prospect
   systematically for this valuable mineral.
 
-  Cobalt occurs in New South Wales, Victoria and South Australia, and
+  [[Cobalt]] occurs in New South Wales, Victoria and South Australia, and
   efforts have been made in the former state to treat the ore, the metal
   having a high commercial value; but the market is small, and no
   attempt has been made up to 1907 to produce it on any large scale. The
@@ -1889,7 +1889,7 @@ two-thirds of them being engaged in quartz mining.
   a valuable one, but the low price of chrome has greatly restricted the
   output. Chromium has been discovered in Tasmania also.
 
-  Arsenic, in its well-known and beautiful forms, orpiment and realgar,
+  [[Arsenic]], in its well-known and beautiful forms, orpiment and realgar,
   is found in New South Wales and Victoria. It usually occurs in
   association with other minerals in veins.
 
@@ -1950,14 +1950,14 @@ two-thirds of them being engaged in quartz mining.
   mineral of Scotland, but yielding a much larger percentage of volatile
   hydro-carbon than the Scottish mineral. The richest quality yields
   about 100 to 130 gallons of crude oil per ton, or 17,000 to 18,000
-  cub. ft. of gas, with an illuminating power of 35 to 40 sperm candles,
+  cub. ft. of gas, with an illuminating power of 35 to 40 sperm [[Candle|candles]],
   when gas only is extracted from the shale.
 
   Large deposits of alum occur close to the village of Bulladelah, 30 m.
   from Port Stephens, New South Wales. It is said to yield well, and a
   quantity of the manufactured alum is sent to Sydney for local
-  consumption. Marble is found in many parts of New South Wales and
-  South Australia. Kaolin, fire-clays and brick-clays are common to all
+  consumption. [[Marble]] is found in many parts of New South Wales and
+  South Australia. [[Kaolin]], fire-clays and brick-clays are common to all
   the states. Except in the vicinity of cities and townships, however,
   little use has been made of the abundant deposits of clay. Kaolin, or
   porcelain clay, although capable of application to commercial
@@ -1982,17 +1982,17 @@ two-thirds of them being engaged in quartz mining.
   large specimens have yet been found. The finest opal known is obtained
   in the Upper Cretaceous formation at White Cliffs, near Wilcannia, New
   South Wales, and at these mines about 700 men find constant
-  employment. Other precious stones, including the sapphire, emerald,
-  oriental emerald, ruby, opal, amethyst, garnet, chrysolite, topaz,
-  cairngorm, onyx, zircon, &c., have been found in the gold and tin
+  employment. Other precious stones, including the sapphire, [[Emerald|emerald]],
+  oriental emerald, ruby, opal, amethyst, garnet, [[Chrysolite|chrysolite]], topaz,
+  [[Cairngorm|cairngorm]], onyx, zircon, &c., have been found in the gold and tin
   bearing drifts and river gravels in numerous localities throughout the
   states. The sapphire is found in all the states, principally in the
-  neighbourhood of Beechworth, Victoria. The oriental topaz has been
+  neighbourhood of [[Beechworth]], Victoria. The oriental topaz has been
   found in New South Wales. Oriental amethysts also have been found in
   that state, and the ruby has been found in Queensland, as well as in
   New South Wales. Turquoises have been found near Wangaratta, in
   Victoria, and mining operations are being carried on in that state.
-  Chrysoberyls have been found in New South Wales; spinel rubies in New
+  [[Chrysoberyl|Chrysoberyls]] have been found in New South Wales; spinel rubies in New
   South Wales and Victoria; and white topaz in all the states.
   Chalcedony, carnelian, onyx and cat's eyes are found in New South
   Wales; and it is probable that they are also to be met with in the
@@ -2023,8 +2023,8 @@ Australia exceed the imports by some L15,300,000. This sum represents
 the interest payable on government loans placed outside Australia,
 mainly in England, and the income from British and other capital
 invested in the country; the former may be estimated at L7,300,000 and
-the latter L8,000,000 per annum. The principal items of export are wool,
-skins, tallow, frozen mutton, chilled beef, preserved meats, butter and
+the latter L8,000,000 per annum. The principal [[Item|items]] of export are wool,
+skins, tallow, frozen mutton, chilled beef, preserved [[Meat|meats]], butter and
 other articles of pastoral produce, timber, wheat, flour and fruits,
 gold, silver, lead, copper, tin and other metals. In 1905 the value of
 the wool export regained the L20,000,000 level, and with the rapid
@@ -2043,7 +2043,7 @@ textiles, machinery and hardware, stimulants, narcotics, explosives,
 bags and sacks, books and paper, oils and tea.
 
 Lines of steamers connect Australia with London and other British ports,
-with Germany, Belgium, France, Italy, Japan, China, India, San
+with Germany, [[Belgium]], France, Italy, [[Japan]], China, India, San
 Francisco, Vancouver, New York and Montevideo, several important lines
 being subsidized by the countries to which they belong, notably Germany,
 France and Japan.
@@ -2054,7 +2054,7 @@ equipped wholly by borrowed capital. There were on the 30th of June
 1905, 15,000 m. open for traffic, upon which nearly L135,000,000 had
 been expended.
 
-  The railways are of different gauges, the standard narrow gauge of 4
+  The railways are of different [[Gauge|gauges]], the standard narrow gauge of 4
   ft. 8-1/2 in. prevailing only in New South Wales; in Victoria the
   gauge is 5 ft. 3 in., in South Australia 5 ft. 3 in. and 3 ft. 6 in.,
   and in the other states 3 ft. 6 in. Taking the year 1905, the gross
@@ -2105,7 +2105,7 @@ been expended.
   L37,205,000 in the names of 1,152,000 persons. In ordinary banks the
   deposits amounted to L106,625,000, so that the total deposits stood at
   L143,830,000, equivalent to the very large sum of L34, 18s. per
-  inhabitant. The coin and bullion held by the banks varies between 20
+  inhabitant. The [[Coin|coin]] and [[Bullion|bullion]] held by the banks varies between 20
   and 24 millions sterling and the note circulation is almost stationary
   at about 3-1/4 millions.
 
@@ -2141,7 +2141,7 @@ been expended.
 
   The states have the same powers of taxation as the Commonwealth except
   in regard to customs and excise, over which the Commonwealth has
-  exclusive power, but the states are the owners of the crown lands, and
+  exclusive power, but the states are the owners of the [[Crown Land|crown lands]], and
   the revenues derived from this source form an important part of their
   income. The states have a total revenue, from sources apart from the
   Commonwealth, of L23,820,439, and if to this be added the return of
@@ -2167,7 +2167,7 @@ been expended.
   The revenue from direct taxation is equal to 15s. 10d. per inhabitant,
   from indirect taxation L2:4:6, and the total revenue from all sources
   L35,699,782, equal to L8:16:2 per inhabitant. The federal government
-  has no public debt, but each of the six states has contracted debts
+  has no public [[Debt|debt]], but each of the six states has contracted debts
   which aggregate L237,000,000, equal to about L58, 8s. per inhabitant.
   The bulk of this indebtedness has been contracted for the purpose of
   constructing railways, tramways, water-supplies, and other
@@ -2183,12 +2183,12 @@ ABORIGINES
 The origin of the natives of Australia presents a difficult problem. The
 chief difficulty in deciding their ethnical relations is their
 remarkable physical difference from the neighbouring peoples. And if one
-turns from physical criteria to their manners and customs it is only to
+turns from physical criteria to their [[Manners|manners]] and customs it is only to
 find fresh evidence of their isolation. While their neighbours, the
 Malays, Papuans and Polynesians, all cultivate the soil, and build
 substantial huts and houses, the Australian natives do neither. Pottery,
-common to Malays and Papuans, the bows and arrows of the latter, and the
-elaborate canoes of all three races, are unknown to the Australians.
+common to Malays and Papuans, the [[Bow|bows]] and arrows of the latter, and the
+elaborate [[Canoe|canoes]] of all three races, are unknown to the Australians.
 They then must be considered as representing an extremely primitive type
 of mankind, and it is necessary to look far afield for their prehistoric
 home.
@@ -2199,7 +2199,7 @@ home.
 Wherever they came from, there is abundant evidence that their first
 occupation of the Australian continent must have been at a time so
 remote as to permit of no traditions. No record, no folk tales, as in
-the case of the Maoris of New Zealand, of their migration, are preserved
+the case of the [[Maori|Maoris]] of New Zealand, of their migration, are preserved
 by the Australians. True, there are legends and tales of tribal
 migrations and early tribal history, but nothing, as A.W. Howitt points
 out, which can be twisted into referring even indirectly to their first
@@ -2290,9 +2290,9 @@ Tasmanian difficulty. Why should a Papuan type be found in what was
 certainly once a portion of the Australian continent? The theory which
 meets this difficulty is that which has in its favour the greatest
 weight of evidence, viz. that the continent was first inhabited by a
-Papuan type of man who made his way thither from Flores and Timor, New
+Papuan type of man who made his way thither from [[Flores]] and Timor, New
 Guinea and the Coral Sea. That in days so remote as to be undateable, a
-Dravidian people driven from their primitive home in the hills of the
+[[Dravidian]] people driven from their primitive home in the hills of the
 Indian Deccan made their way south via Ceylon (where they may to-day be
 regarded as represented by the Veddahs) and eventually sailed and
 drifted in their bark boats to the western and north-western shores of
@@ -2304,7 +2304,7 @@ permitted of their mastering the former occupiers of the soil, who were
 probably in very scattered and defenceless communities.
 
 In the slow process of time they drove them into the most southerly
-corner of Australia, just as the Saxons drove the Celts into Cornwall
+corner of Australia, just as the Saxons drove the [[Celt|Celts]] into [[Cornwall]]
 and the Welsh hills. Even if this Dravidian invasion is put subsequent
 to the Bass Strait forming, even if one allows the probability of much
 crossing between the two races at first, in time the hostilities would
@@ -2331,7 +2331,7 @@ strength, while his head might have compared with the antique bust of a
 philosopher." Huxley concluded, from descriptions, that "the Deccan
 tribes are indistinguishable from the Australian races." Sir W.W. Hunter
 states that the Dravidian tribes were driven southwards in Hindustan,
-and that the grammatical relations of their dialects are "expressed by
+and that the grammatical relations of their [[Dialect|dialects]] are "expressed by
 suffixes," which is true as to the Australian languages. He states that
 Bishop Caldwell,[4] whom he calls "the great missionary scholar of the
 Dravidian tongue," showed that the south and western Australian tribes
@@ -2358,7 +2358,7 @@ river, north-west Australia, about 60 m. inland and 20 m. south of
 Prince Regent's river, are representations of human heads and bodies,
 apparently of females clothed to the armpits, but all the faces are
 without any indication of mouths. The heads are surrounded with a kind
-of head-dress or halo and one wears a necklace. They are drawn in red,
+of head-dress or [[Halo|halo]] and one wears a necklace. They are drawn in red,
 blue and yellow. The figures are almost life-size. Rough sculptures,
 too, were found, and two large square mounds formed of loose stones, and
 yet perfect parallelograms in outline, placed due east and west. In the
@@ -2376,26 +2376,26 @@ the crude works of art described.
 Physically the typical Australian is the equal of the average European
 in height, but is inferior in muscular development, the legs and arms
 being of a leanness which is often emphasized by an abnormal corpulence.
-The bones are delicately formed, and there is the lack of calf usual in
+The bones are delicately formed, and there is the lack of [[Calf|calf]] usual in
 black races. The skull is abnormally thick and the cerebral capacity
 small. The head is long and somewhat narrow, the forehead broad and
 receding, with overhanging brows, the eyes sunken, large and black, the
 nose thick and very broad at the nostrils. The mouth is large and the
-lips thick but not protuberant. The teeth are large, white and strong.
+[[Lip|lips]] thick but not protuberant. The teeth are large, white and strong.
 In old age they appear much ground down; particularly is this the case
-with women, who chew the different kinds of fibres, of which they make
+with women, who chew the different kinds of [[Fibres|fibres]], of which they make
 nets and bags. The lower jaw is heavy; the cheekbones somewhat high, and
 the chin small and receding. The neck is thicker and shorter than that
 of most Europeans. The colour of the skin is a deep copper or chocolate,
 never sooty black. When born, the Australian baby is of a much lighter
 colour than its parents and remains so for about a week. The hair is
-long, black or very dark auburn, wavy and sometimes curly, but never
+long, black or very dark [[Auburn|auburn]], wavy and sometimes curly, but never
 woolly, and the men have luxuriant beards and whiskers, often of an
 auburn tint, while the whole body inclines to hairiness. On the Balonne
 river, Queensland, Baron Mikluho Maclay found a group of hairless
 natives. The head hair is usually matted with grease and dirt, but when
 clean is fine and glossy. The skin gives out an objectionable odour,
-owing to the habit of anointing the body with fish-oils, but the true
+owing to the habit of [[Anointing|anointing]] the body with fish-oils, but the true
 fetor of the negro is lacking in the Australian. The voices of the
 blackfellows are musical. Their mental faculties, though inferior to
 those of the Polynesian race, are not contemptible. They have much
@@ -2417,7 +2417,7 @@ separate languages is bewildering.
 
   Character.
 
-In disposition the Australians are a bright, laughter-loving folk, but
+In disposition the Australians are a [[Bright|bright]], laughter-loving folk, but
 they are treacherous, untruthful and hold human life cheaply. They have
 no great physical courage. They are mentally in the condition of
 children. None of them has an idea of what the West calls morality,
@@ -2446,22 +2446,22 @@ situation, cultivated the soil for any kind of food-crop. They never
 reared any kind of cattle, or kept any domesticated animal except the
 dog, which probably came over with them in their canoes. They nowhere
 built permanent dwellings, but contented themselves with mere hovels for
-temporary shelter. They neither manufactured nor possessed any chattels
+temporary shelter. They neither manufactured nor possessed any [[Chattel|chattels]]
 beyond such articles of clothing, weapons, ornaments and utensils as
 they might carry on their persons, or in the family store-bag for daily
 use. In most districts both sexes are entirely nude. Sometimes in the
-south during the cold season they wear a cloak of skin or matting,
+south during the cold season they wear a cloak of skin or [[Matting|matting]],
 fastened with a skewer, but open on the right-hand side.
 
-When going through the bush they sometimes wear an apron of skins, for
+When going through the bush they sometimes wear an [[Apron|apron]] of skins, for
 protection merely. No headgear is worn, except sometimes a net to
 confine the hair, a bunch of feathers, or the tails of small animals.
-The breast or back, of both sexes, is usually tattooed, or rather,
+The [[Breast|breast]] or back, of both sexes, is usually tattooed, or rather,
 scored with rows of hideous raised scars, produced by deep gashes made
-at puberty. Their dwellings for the most part are either bowers, formed
-of the branches of trees, or hovels of piled logs, loosely covered with
+at puberty. Their dwellings for the most part are either [[Bower|bowers]], formed
+of the branches of trees, or hovels of piled [[Log|logs]], loosely covered with
 grass or bark, which they can erect in an hour, wherever they encamp.
-But some huts of a more substantial form were seen by Captain Matthew
+But some huts of a more substantial form were seen by Captain [[Matthew]]
 Flinders on the south-east coast in 1799, and by Captain King and Sir T.
 Mitchell on the north-east, where they no longer appear. The ingenuity
 of the race is mostly exhibited in the manufacture of their weapons of
@@ -2525,21 +2525,21 @@ who were the mere chattels of their lords. Stringent rules, too,
 governed the food of women and the youth of both sexes, and it was only
 after initiation that boys were allowed to eat of all the game the
 forest provided. In every case of death from disease or unknown causes
-sorcery was suspected and an inquest held, at which the corpse was asked
+sorcery was suspected and an [[Inquest|inquest]] held, at which the [[Corpse|corpse]] was asked
 by each relative in succession the name of the murderer. This formality
 having been gone through, the flight of the first bird which passed over
 the body was watched, the direction being regarded as that in which the
 sorcerer must be sought. Sometimes the nearest relative sleeps with his
-head on the corpse, in the belief that he will dream of the murderer.
+head on the corpse, in the belief that he will [[Dream|dream]] of the murderer.
 The most sacred duty an Australian had to perform was the avenging of
 the death of a kinsman, and he was the object of constant taunts and
-insults till he had done so. Cannibalism was almost universal, either in
+insults till he had done so. [[Cannibalism]] was almost universal, either in
 the case of enemies killed in battle or when animal food was scarce. In
 the Luritcha tribe it was customary when a child was in weak health to
 kill a younger and healthy one and feed the weakling on its flesh.
 Cannibalism seems also to have sometimes been in the nature of a funeral
 observance, in honour of the deceased, of whom the relatives reverently
-ate portions.
+[[Ate|ate]] portions.
 
 
   Religion.
@@ -2558,7 +2558,7 @@ developed into an actual religion." Other authorities suggest that it is
 going much too far to deny the existence of religion altogether, and
 instance as proof of the divinity of the supra-normal anthropomorphic
 beings of the Baiame class, the fact that the Yuin and cognate tribes
-dance around the image of Daramulun (their equivalent of Baiame) and the
+dance around the [[Image|image]] of Daramulun (their equivalent of Baiame) and the
 medicine men "invocate his name." A good deal perhaps depends on each
 observer's view of what religion really is. The Australians believed in
 spirits, generally of an evil nature, and had vague notions of an
@@ -2576,7 +2576,7 @@ forbidden to approach. At about ten they were covered with blood from
 head to foot, several elder men bleeding themselves for the purpose. At
 about twelve or fourteen circumcision took place and (or sometimes as an
 alternative on the east coast) a front tooth was knocked out, to the
-accompaniment of the booming of the bullroarer (q.v.). At the age of
+accompaniment of the booming of the [[Bullroarer|bullroarer]] (q.v.). At the age of
 puberty the lad was tattooed or scarred with gashes cut in back,
 shoulders, arms and chest, and the septum of the nose was pierced. The
 gashes varied in patterns for the different tribes. Girls, too, were
@@ -2609,7 +2609,7 @@ provinces, while a few tribes still wander over the interior.
   Series (Kegan Paul & Co., 1900); A.R. Wallace, _Australasia_ (1880,
   new ed., 2 vols., 1893-1895); Rev. Lorimer Fison and Dr A.W. Howitt,
   _Kamilaroi and Kurnai, Group Marriage and Relationship_ (Melbourne,
-  1880); H. Ling Roth, _Queensland Aborigines_ (Brisbane, 1897); Carl
+  1880); H. [[Ling]] Roth, _Queensland Aborigines_ (Brisbane, 1897); Carl
   Lumholtz, _Among Cannibals_ (1889); Walter E. Roth, _Ethnological
   Studies among the North-west-central Queensland Aborigines_ (London,
   1897); Mrs K. Langloh Parker, _Euahlayi Tribes_ (1905); F.J. Gillen,
@@ -2632,15 +2632,15 @@ visited the East at the close of the 13th century, makes reference to
 the reputed existence of a great southern continent. There is in
 existence a map, dedicated to Henry VIII. of England, on which a large
 southern land is shown, and the tradition of a Terra Australis appears
-to have been current for a long period before it enters into authentic
+to have been current for a long period before it enters into [[Authentic|authentic]]
 history.
 
 In 1503 a French navigator named Binot Paulmyer, sieur de Gonneville,
 was blown out of his course, and landed on a large island, which was
 claimed to be the great southern land of tradition, although Flinders
 and other authorities are inclined to think that it must have been
-Madagascar. Some French authorities confidently put forward a claim that
-Guillaume le Testu, of Provence, sighted the continent in 1531. The
+[[Madagascar]]. Some French authorities confidently put forward a claim that
+[[Guillaume]] le Testu, of Provence, sighted the continent in 1531. The
 Portuguese also advance claims to be the first discoverers of Australia,
 but so far the evidence cannot be said to establish their pretensions.
 As early as 1597 the Dutch historian, Wytfliet, describes the Australis
@@ -2653,12 +2653,12 @@ would be regarded as a fifth part of the world.
   De Torres.
 
 Early in the 17th century Philip III. of Spain sent out an expedition
-from Callao, in Peru, for the purpose of searching for a southern
+from [[Callao]], in Peru, for the purpose of searching for a southern
 continent. The little fleet comprised three vessels, with the Portuguese
 pilot, De Quiros, as navigator, and De Torres as admiral or military
-commander. They left Callao on the 21st of December 1605, and in the
+[[Commander|commander]]. They left Callao on the 21st of December 1605, and in the
 following year discovered the island now known as Espiritu Santo, one of
-the New Hebrides group, which De Quiros, under the impression that it
+the New [[Hebrides]] group, which De Quiros, under the impression that it
 was indeed the land of which he was in search, named _La Austrialia del
 Espiritu Santo_. Sickness and discontent led to a mutiny on De Quiros'
 vessel, and the crew, overpowering their officers during the night,
@@ -2681,7 +2681,7 @@ of which was the inspiration of his life.
 
 During the same year in which De Torres sailed through the strait
 destined to make him famous, a little Dutch vessel called the "Duyfken,"
-or "Dove," set sail from Bantam, in Java, on a voyage of discovery. This
+or "[[Dove]]," set sail from [[Bantam]], in [[Java]], on a voyage of discovery. This
 ship entered the Gulf of Carpentaria, and sailed south as far as Cape
 Keerweer, or Turn-again. Here some of the crew landed, but, being
 attacked by natives, made no attempt to explore the country. In 1616
@@ -2715,19 +2715,19 @@ Indies, under whose auspices the expedition was undertaken. He was
 furnished with a yacht, the "Heemskirk," and a fly-boat, the "Zeehaen"
 (or "Sea Hen"), under the command of Captain Jerrit Jansen. He left
 Batavia on what has been designated by Dutch historians the "Happy
-Voyage," on the 14th of August 1642. After a visit to the Mauritius,
+Voyage," on the 14th of August 1642. After a visit to the [[Mauritius]],
 then a Dutch possession, Tasman bore away to the south-east, and on the
 24th of November sighted the western coast of the land which he named
 Van Diemen's Land, in honour of the governor under whose directions he
 was acting. The honour was later transferred to the discoverer himself,
 and the island is now known as Tasmania. Tasman doubled the southern
 extremity of Van Diemen's Land and explored the east coast for some
-distance. The ceremony of hoisting a flag and taking possession of the
+distance. The ceremony of hoisting a [[Flag|flag]] and taking possession of the
 country in the name of the government of the Netherlands was actually
 performed, but the description of the wildness of the country, and of
 the fabulous giants by which Tasman's sailors believed it to be
 inhabited, deterred the Dutch from occupying the island, and by the
-international principle of "non-user" it passed from their hands.
+[[International|international]] principle of "non-user" it passed from their hands.
 Resuming his voyage in an easterly direction, Tasman sighted the west
 coast of the South Island of New Zealand on the 13th of December of the
 same year, and describes the coast-line as consisting of "high
@@ -2738,7 +2738,7 @@ mountainous country."
 
 The first English navigator to sight the Australian continent was
 William Dampier, who made a visit to these shores in 1688, as supercargo
-of the "Cygnet," a trader whose crew had turned buccaneers. On his
+of the "Cygnet," a trader whose crew had turned [[Buccaneers|buccaneers]]. On his
 return to England he published an account of his voyage, which resulted
 in his being sent out in the "Roebuck" in 1699 to prosecute his
 discoveries further. To him we owe the exploration of the coast for
@@ -2755,9 +2755,9 @@ remarked and quaintly described some sixty years previously.
 During the interval elapsing between Dampier's two voyages, an accident
 led to the closer examination of the coasts of Western Australia by the
 Dutch. In 1684 a vessel had sailed from Holland for the Dutch
-possessions in the East Indies, and after rounding the Cape of Good
+possessions in the [[East Indies]], and after rounding the Cape of Good
 Hope, she was never again heard of. Some twelve years afterwards the
-East India Company fitted out an expedition under the leadership of
+[[East India Company]] fitted out an expedition under the leadership of
 Commander William de Vlamingh, with the object of searching for any
 traces of the lost vessel on the western shores of New Holland. Towards
 the close of the year 1696 this expedition reached the island of
@@ -2768,7 +2768,7 @@ search, but, at the same time, making fairly accurate charts of the
 coast-line.
 
 
-  Cook.
+  [[Cook]].
 
 The great voyage of Captain James Cook, in 1769-1770, was primarily
 undertaken for the purposes of observing the transit of Venus, but he
@@ -2804,7 +2804,7 @@ were cooking over a fire. The great navigator and his crew, unacquainted
 with the character of the Australian aborigines, were not a little
 astonished that these natives took no notice of them or their
 proceedings. Even the splash of the anchor in the water, and the noise
-of the cable running out through the hawse-hole, in no way disturbed
+of the [[Cable|cable]] running out through the hawse-hole, in no way disturbed
 them at their occupation, or caused them to evince the slightest
 curiosity. But as the captain of the "Endeavour" ordered out the pinnace
 and prepared to land, the natives threw off their nonchalance; for on
@@ -2860,8 +2860,8 @@ the hold that with four pumps constantly going the crew could hardly
 keep it in check. At length one of the midshipmen suggested the device
 of "fothering," which he had seen practised in the West Indies. This
 consists of passing a sail, attached to cords, and charged with oakum,
-wool, and other materials, under the vessel's keel, in such a manner
-that the suction of the leak may draw the canvas into the aperture, and
+wool, and other materials, under the vessel's [[Keel|keel]], in such a manner
+that the suction of the leak may draw the canvas into the [[Aperture|aperture]], and
 thus partially stop the vent. This was performed with great success, and
 the vessel was floated off with the evening tide. The land was soon
 after made near the mouth of a small stream, which Cook called, after
@@ -2889,7 +2889,7 @@ belief, and when making his final voyage, the great navigator appears to
 have definitely concluded that it was part of the mainland of Australia.
 This continued to be the opinion of geographers until 1798, when Bass
 discovered the strait which bears his name. The next recorded expedition
-is a memorable one in the annals of Australian history--the despatch of
+is a memorable one in the [[Annals|annals]] of Australian history--the despatch of
 a British colony to the shores of Botany Bay. The fleet sailed in May
 1787, and arrived off the Australian coast early in the following
 January.
@@ -2924,7 +2924,7 @@ marks the beginning of the occupation of the interior of the continent.
 Some small expeditions were made from Bathurst, resulting in the
 discovery of the Lachlan, and in 1816 the first of the great exploration
 expeditions of Australia was fitted out under Lieutenant Oxley, R.N.
-Oxley was accompanied by Mr Evans and Mr Allan Cunningham the botanist,
+Oxley was accompanied by Mr Evans and Mr Allan [[Cunningham]] the botanist,
 and the object of his expedition was to trace the course of the Lachlan
 in a westerly direction. Oxley traced the river until it lost itself in
 the swamps east of 147 deg. E., then crossing the river he traversed the
@@ -2936,10 +2936,10 @@ struck the Macquarie river at a place he called Wellington, and from
 this place in the following year he organized a second expedition in
 hopes of discovering an inland sea. He was, however, disappointed in
 this, as after descending the course of the Macquarie below Mount
-Harris, he found that the river ended in an immense swamp overgrown with
+[[Harris]], he found that the river ended in an immense swamp overgrown with
 reeds. Oxley now turned aside--led by Mr Evans's report of the country
-eastward--crossed the Arbuthnot range, and traversing the Liverpool
-Plains, and ascending the Peel and Cockburn rivers to the Blue
+eastward--crossed the [[Arbuthnot]] range, and traversing the Liverpool
+Plains, and ascending the Peel and [[Cockburn]] rivers to the Blue
 Mountains, gained sight of the open sea, which he reached at Port
 Macquarie. A valuable extension of geographical knowledge had been
 gained by this circuitous journey of more than 800 m. Yet its result was
@@ -3040,7 +3040,7 @@ shipwrecked mariners on the north coast, it was thought desirable to
 find an overland route between this settlement and Moreton Bay, in what
 then was the northern portion of New South Wales, now called Queensland.
 This was the object of Dr Leichhardt's expedition in 1844, which
-proceeded first along the banks of the Dawson and the Mackenzie,
+proceeded first along the banks of the [[Dawson]] and the [[Mackenzie]],
 tributaries of the Fitzroy river, in Queensland. It thence passed
 farther north to the Burdekin, ascending to the source of that river,
 and turned westward across a table-land, from which there was an easy
@@ -3067,12 +3067,12 @@ Among the performances of less renown, but of much practical utility in
 surveying and opening new paths through the country, we may mention that
 of Captain Banister, showing the way across the southern part of Western
 Australia, from Swan river to King George Sound, and that of Messrs
-Robinson and G.H. Haydon in 1844, making good the route from Port
+Robinson and G.H. [[Haydon]] in 1844, making good the route from Port
 Phillip to Gipps' Land with loaded drays, through a dense tangled scrub,
 which had been described by Strzelecki as his worst obstacle. Again, in
-Western Australia there were the explorations of the Arrowsmith, the
+Western Australia there were the explorations of the [[Arrowsmith]], the
 Murchison, the Gascoyne, and the Ashburton rivers, by Captain Grey, Mr
-Roe, Governor Fitzgerald, Mr R. Austin, and the brothers Gregory, whose
+Roe, Governor [[Fitzgerald]], Mr R. Austin, and the brothers Gregory, whose
 discoveries have great importance from a geographical point of view.
 
 
@@ -3092,8 +3092,8 @@ illusion. When Mr Eyre viewed the country from Mount Deception in 1840,
 looking between Lake Torrens and the lake which now bears his own name,
 the refraction of light from the glittering crust of salt that covers a
 large space of stony or sandy ground produced an appearance of water.
-The error was discovered, after eighteen years, by the explorations of
-Mr Babbage and Major Warburton in 1858, while Mr Stuart, about the same
+The [[Error|error]] was discovered, after eighteen years, by the explorations of
+Mr Babbage and [[Major]] Warburton in 1858, while Mr Stuart, about the same
 time, gained a more complete knowledge of the same district.
 
 A reward of L10,000 having been offered by the legislature of South
@@ -3135,7 +3135,7 @@ to be there established. Wright frittered away his time in the district
 beyond the Darling and did not attempt to follow the party to Cooper's
 Creek, and Burke, tired of waiting, determined to push on. Accordingly,
 dividing his party, leaving at the depot four men and taking with him
-Wills and two men, King and Gray, with a horse and six camels, he left
+Wills and two men, King and [[Gray]], with a horse and six camels, he left
 Cooper's Creek on the 16th of December and crossed the desert traversed
 by Sturt fifteen years before. They got on in spite of great
 difficulties, past the McKinlay range of mountains, S. lat. 21 deg. and
@@ -3156,7 +3156,7 @@ moved to Cooper's Creek, and, incredible to relate, neglected to search
 for the missing explorers. Burke, Wills and King, when they found
 themselves so fearfully left alone and unprovided in the wilderness,
 wandered about in that district till near the end of June. They
-subsisted miserably on the bounty of some natives, and partly by feeding
+subsisted miserably on the [[Bounty|bounty]] of some natives, and partly by feeding
 on the seeds of a plant called nardoo. At last both Wills and Burke died
 of starvation. King, the sole survivor, was saved by meeting the
 friendly blacks, and was found alive in September by Mr A.W. Howitt's
@@ -3197,23 +3197,23 @@ these streams from those running to the western shores of Arnheim Land,
 Mr Stuart, in the month of July, passed down what is called the Adelaide
 river of north Australia. Thus he came at length to stand on the verge
 of the Indian Ocean; "gazing upon it," a writer has said, "with as much
-delight as Balboa, when he crossed the Isthmus of Darien from the
+delight as Balboa, when he crossed the Isthmus of [[Darien]] from the
 Atlantic to the Pacific." The line crossing Australia which was thus
 explored has since been occupied by the electric telegraph connecting
 Adelaide, Melbourne, Sydney, and other Australian cities with London.
 
 
-  Gosse.
+  [[Gosse]].
 
   Warburton.
 
 A third part, at least, of the interior of the whole continent, between
 the central line of Stuart and the known parts of Western Australia,
 from about 120 deg. to 134 deg. E. long., an extent of half a million
-square miles, still remained a blank in the map. But the two expeditions
+square miles, still remained a [[Blank|blank]] in the map. But the two expeditions
 of 1873, conducted by William Christie Gosse (1842-1881), afterwards
-deputy surveyor-general for South Australia, and Colonel (then Major)
-Egerton Warburton, made a beginning in the exploration of this _terra
+[[Deputy|deputy]] surveyor-general for South Australia, and Colonel (then Major)
+[[Egerton]] Warburton, made a beginning in the exploration of this _terra
 incognita_ west of the central telegraph route. That line of more than
 1800 m., having its southern extremity at the head of Spencer Gulf, its
 northern at Port Darwin, in Arnheim Land, passes Central Mount Stuart,
@@ -3241,13 +3241,13 @@ period, with results of some interest. That performed by Mr W. Hann,
 with Messrs Warner, Tate and Taylor, in 1873, related to the country
 north of the Kirchner range, watered by the Lynd, the Mitchell, the
 Walsh and the Palmer rivers, on the east side of the Gulf of
-Carpentaria. The coasting expedition of Mr G. Elphinstone Dalrymple,
+Carpentaria. The [[Coasting|coasting]] expedition of Mr G. [[Elphinstone]] Dalrymple,
 with Messrs Hill and Johnstone, finishing in December 1873, effected a
 valuable survey of the inlets and navigable rivers in the Cape York
 Peninsula.
 
 
-  Forrest.
+  [[Forrest]].
 
   Giles.
 
@@ -3300,7 +3300,7 @@ pastoral country: a new zest had been added to the cause of exploration,
 and most of the smaller expeditions concerned themselves with the search
 for gold. Amongst the more important explorations may be ranked those of
 Tietkins in 1889, of Lindsay in 1891, of Wells in 1896, of Hubbe in
-1896, and of the Hon. David Carnegie in 1896-97. Lindsay's expedition,
+1896, and of the Hon. David [[Carnegie]] in 1896-97. Lindsay's expedition,
 which was fitted out by Sir Thomas Elder, the generous patron of
 Australian exploration, entered Western Australia about the 26th
 parallel south lat., on the line of route taken by Forrest in 1874. From
@@ -3310,7 +3310,7 @@ Victoria Springs, where he struck the track of Giles's expedition of
 examination of the country lying between 119 deg. and 115 deg. meridians
 and between 26 deg. and 28 deg. S. lat. Wells's expedition started from
 a base about 122 deg. 20' E. and 25 deg. 54' S., and worked northward to
-the Joanna Springs, situated on the tropic of Capricorn and near the
+the [[Joanna]] Springs, situated on the tropic of Capricorn and near the
 124th meridian. From the springs the journey was continued along the
 same meridian to the Fitzroy river. The country passed through was
 mostly of a forbidding character, except where the Kimberley district
@@ -3320,7 +3320,7 @@ population, caused great interest to be taken in the discovery of
 practicable stock routes, especially from South Australia in the east,
 and from Kimberley district in the north. Alive to the importance of the
 trade, the South Australian government despatched Hubbe from Oodnadatta
-to Coolgardie. He successfully accomplished his journey, but had to
+to [[Coolgardie]]. He successfully accomplished his journey, but had to
 report that there was no practicable route for cattle between the two
 districts.
 
@@ -3333,7 +3333,7 @@ encountered very many hardships, but successfully reached Hall Creek in
 the Kimberley district. After a few months' rest it started on the
 return journey, following Sturt Creek until its termination in Gregory's
 Salt Sea, and then keeping parallel with the South Australian border as
-far as Lake Macdonald. Rounding that lake the expedition moved
+far as Lake [[Macdonald]]. Rounding that lake the expedition moved
 south-west and reached the settled districts in August 1897. The
 distance travelled was 5000 m., and the actual time employed was eight
 months. This expedition put an end to the hope, so long entertained,
@@ -3350,7 +3350,7 @@ Capricorn. The search for gold and the quest for unoccupied pasturage
 daily diminish the extent of these areas.
 
 
-3. _Political History._
+3. _[[Political History]]._
 
   Early colonization.
 
@@ -3362,7 +3362,7 @@ subsequent fifty years, transportation being virtually suspended in
 1839. The colony, however, from 1821 had made a fair start in free
 industrial progress. By this time, too, several of the other provinces
 had come into existence. Van Diemen's Land, now called Tasmania, had
-been occupied as early as 1803. It was an auxiliary penal station under
+been occupied as early as 1803. It was an [[Auxiliary|auxiliary]] penal station under
 New South Wales till in 1825 it became a separate government. From this
 island, ten years later, parties crossed Bass Strait to Port Phillip,
 where a new settlement was shortly established, forming till 1851 a part
@@ -3385,14 +3385,14 @@ summary view.
   Rise of New South Wales.
 
 The first British governors at Sydney, from 1788, ruled with despotic
-power. They were naval or military officers in command of the garrison,
+power. They were naval or military officers in command of the [[Garrison|garrison]],
 the convicts and the few free settlers. The duty was performed by such
 men as Captain Arthur Phillip, Captain Hunter, and others. In the twelve
 years' rule of General Macquarie, closing with 1821, the colony made a
 substantial advance. By means of bond labour roads and bridges were
 constructed, and a route opened into the interior beyond the Blue
 Mountains. A population of 30,000, three-fourths of them convicts,
-formed the infant commonwealth, whose attention was soon directed to the
+formed the [[Infant|infant]] commonwealth, whose attention was soon directed to the
 profitable trade of rearing fine wool sheep, first commenced by Captain
 John McArthur in 1803. During the next ten years, 1821-1831, Sir Thomas
 Brisbane and Sir Ralph Darling, two generals of the army, being
@@ -3403,7 +3403,7 @@ and liberal administration proved most beneficial. New South Wales
 became prosperous and attractive to emigrants with capital. Its
 enterprising ambition was encouraged by taking fresh country north and
 south. In the latter direction, explored by Mitchell in 1834 and 1836,
-lay Australia Felix, now Victoria, including the well-watered,
+lay Australia [[Felix]], now Victoria, including the well-watered,
 thickly-wooded country of Gipps' Land.
 
 
@@ -3452,7 +3452,7 @@ first two or three years of the gold era, was very great. Immigrants
 from Europe, and to some extent from North America and China, poured
 into Melbourne, where the arrivals in 1852 averaged 2000 persons in a
 week. The population of Victoria was doubled in the first twelvemonth of
-the gold fever, and the value of imports and exports was multiplied
+the gold [[Fever|fever]], and the value of imports and exports was multiplied
 tenfold between 1851 and 1853. The colony of Victoria was constituted a
 separate province in July 1851, Mr Latrobe being appointed governor,
 followed by Sir Charles Hotham and Sir Henry Barkly in succession.
@@ -3472,8 +3472,8 @@ interference; it was not, however, until 1890 that Western Australia was
 placed in a similar position. After the establishment of responsible
 government the main questions at issue were the secular as opposed to
 the religious system of public instruction, protection as opposed to a
-revenue tariff, vote by ballot, adult suffrage, abolition of
-transportation and assignment of convicts, and free selection of lands
+revenue tariff, vote by [[Ballot|ballot]], adult suffrage, abolition of
+transportation and [[Assignment|assignment]] of convicts, and free selection of lands
 before survey; these, and indeed all the great questions upon which the
 country was divided, were settled within twenty years of the granting of
 self-government.[6] With the disposal of these important problems,
@@ -3490,7 +3490,7 @@ more popular branch of the legislature.
 The two most striking political events in the modern history of
 Australia, as a whole, apart from the readiness it has shown to remain a
 part of the British empire (q.v.), and to develop along Imperial
-lines, are the advent of the Labour party and the establishment of
+lines, are the advent of the [[Labour Party|Labour party]] and the establishment of
 federation. As regards the last mentioned it may be said that it was
 accomplished from within, there being no real external necessity for the
 union of the states. Leading politicians have in all the states felt the
@@ -3546,7 +3546,7 @@ mining without the express authority in writing of the minister of
 mines. The nearness of China to Australia has always appeared to the
 Australian democracy as a menace to the integrity of the white
 settlements; and at the many conferences of representatives from the
-various states, called to discuss matters of general concern, the
+various states, called to [[Discus|discuss]] matters of general concern, the
 Chinese question has always held a prominent place, but the absence of
 any federal authority had made common action difficult. In 1888 the last
 important conference on the Chinese question was held in Sydney and
@@ -3601,7 +3601,7 @@ heralded by many signs. Deposits were shifted from bank to bank, there
 were small runs on several of the savings banks guaranteed by the
 government, mortgagees required additional security from their debtors,
 bankruptcies became frequent, and some of the banks began to accumulate
-gold against the evil day. The building societies and financial
+gold against the evil day. The [[Building Societies|building societies]] and financial
 institutions in receipt of deposits, or so many of them as were on an
 unsound footing, failed at an early period of the depression, so also
 did the weaker banks. There was distrust in the minds of the depositors,
@@ -3609,7 +3609,7 @@ especially those whose holdings were small, and most of the banks were,
 at a very early period, subjected to the strain of repaying a large
 proportion of their deposits as they fell due. For a time the money so
 withdrawn was hoarded, but after a while it found its way back again
-into the banks. The crisis was by no means a sudden crash, and even when
+into the banks. The crisis was by no means a sudden [[Crash|crash]], and even when
 the failures began to take place they were spread over a period of
 sixteen weeks.
 
@@ -3619,7 +3619,7 @@ therefore not available for distribution amongst wage-earners. Wages
 fell precipitately, as also did rents. There was an almost entire
 cessation of building, and a large number of houses in the chief cities
 remained untenanted, the occupants moving to lodgings and more than one
-family living in a single house. Credit became greatly restricted, and
+family living in a single house. [[Credit]] became greatly restricted, and
 all descriptions of speculative enterprise came to an end. The consuming
 power of the population was greatly diminished, and in the year
 following the crisis the imports into Australia from abroad diminished
@@ -3671,7 +3671,7 @@ for the stock. The year 1903 proved most bountiful, and in a few years
 all trace of the disastrous drought of 1902 passed away. But beyond this
 the pastoralist learnt most effectually the lesson that, in a country
 like Australia, provision must be made for the occasional season when
-the rainfall is entirely inadequate to the wants of the farmer and the
+the rainfall is entirely inadequate to the wants of the [[Farmer|farmer]] and the
 pastoralist.
 
 
@@ -3721,7 +3721,7 @@ on the defences of Australia, and Sir Henry addressed the other premiers
 on the desirability of a federal union for purposes of defence. The
 immediate result was a conference at Parliament House, Melbourne, of
 representatives from each of the seven colonies. This conference adopted
-an address to the queen expressing its loyalty and attachment, and
+an address to the queen expressing its loyalty and [[Attachment|attachment]], and
 submitting certain resolutions which affirmed the desirability of an
 early union, under the crown, of the Australasian colonies, on
 principles just to all, and provided that the remoter Australasian
@@ -3763,7 +3763,7 @@ considered by the convention in committee of the whole and adopted on
 the 9th of April, when the convention was formally dissolved. The bill,
 however, fell absolutely dead, not because it was not a good bill, but
 because the movement out of which it arose had not popular initiative,
-and therefore failed to reach the popular imagination.
+and therefore failed to reach the popular [[Imagination|imagination]].
 
 Although the bill drawn up by the convention of 1891 was not received by
 the people with any show of interest, the federation movement did not
@@ -3804,7 +3804,7 @@ a conflict with the smaller states. As far as the other colonies were
 concerned, it was evident that the bill was safe, and public attention
 throughout Australia was fixed on New South Wales, where a fierce
 political contest was raging, which it was recognized would decide the
-fate of the measure for the time being. The fear was as to whether the
+[[Fate|fate]] of the measure for the time being. The fear was as to whether the
 statutory number of 80,000 votes necessary for the acceptance of the
 bill would be reached. This fear proved to be well founded, for the
 result of the referendum in New South Wales showed 71,595 votes in
@@ -3831,10 +3831,10 @@ in New South Wales. The other colonies interested were anxious to bring
 the matter to a speedy termination, and readily agreed to this course of
 procedure. Accordingly a premiers' conference was held in Melbourne at
 the end of January 1899, at which Queensland was for the first time
-represented. At this conference a compromise was effected, something was
+represented. At this conference a [[Compromise|compromise]] was effected, something was
 conceded to the claims of New South Wales, but the main principles of
 the bill remained intact. The bill as amended was submitted to the
-electors of each colony and again triumphantly carried in Victoria,
+[[Electors|electors]] of each colony and again triumphantly carried in Victoria,
 South Australia and Tasmania. In New South Wales and Queensland there
 were still a large number of persons opposed to the measure, which was
 nevertheless carried in both colonies. New South Wales having decided in
@@ -3846,7 +3846,7 @@ referendum.
 In accordance with this general verdict of all the states, the colonial
 draft bill was submitted to the imperial government for legislation as
 an imperial act; and six delegates were sent to England to explain the
-measure and to pilot it through the cabinet and parliament. A bill was
+measure and to pilot it through the [[Cabinet|cabinet]] and parliament. A bill was
 presented to the British parliament which embodied and established, with
 such variations as had been accepted on behalf of Australia by the
 delegates, the constitution agreed to at the premiers' conference of
@@ -3887,9 +3887,9 @@ commonwealth under the name of the Commonwealth of Australia.
   it deals are trade, shipping and railways; taxation, bounties, the
   borrowing of money on the credit of the Commonwealth; the postal and
   telegraphic services; defence, census and statistics; currency,
-  coinage, banking, bankruptcy; weights and measures; copyright, patents
+  coinage, banking, [[Bankruptcy|bankruptcy]]; weights and measures; [[Copyright|copyright]], patents
   and trade marks; marriage and divorce; immigration and emigration;
-  conciliation and arbitration in industrial disputes. Bills imposing
+  conciliation and [[Arbitration|arbitration]] in industrial disputes. Bills imposing
   taxation or appropriating revenue must not originate in the Senate,
   and neither taxation bills nor bills appropriating revenue for the
   annual service of the government may be amended in the Senate, but the
@@ -3943,7 +3943,7 @@ commonwealth under the name of the Commonwealth of Australia.
 The choice of governor-general of the new Commonwealth fell upon Lord
 Hopetoun (afterwards Lord Linlithgow), who had won golden opinions as
 governor of Victoria a few years before; Mr (afterwards Sir Edmund)
-Barton, who had taken the lead among the Australian delegates, became
+[[Barton]], who had taken the lead among the Australian delegates, became
 first prime minister; and the Commonwealth was inaugurated at the
 opening of 1901. The first parliament under the constitution was elected
 on the 29th and 30th of March 1901, and was opened by the prince of
@@ -3987,10 +3987,10 @@ living in 1890 was much below that of 1873. Taking everything into
 consideration the reduction was, perhaps, not less than 20%, so that,
 though the nominal or money wages in 1873 and 1890 were the same, the
 actual wages were much higher in the latter year. Much of the
-improvement in the lot of the wage-earners has been due to the Labour
+improvement in the [[Lot|lot]] of the wage-earners has been due to the Labour
 organizations, yet so late as 1881 these organizations were of so little
 account, politically, that when the law relating to trades unions was
-passed in New South Wales, the English law was followed, and it was
+passed in New South Wales, the [[English Law|English law]] was followed, and it was
 simply enacted that the purposes of any trades union shall not be deemed
 unlawful (so as to render a member liable to criminal prosecution for
 conspiracy or otherwise) merely by reason that they are in restraint of
@@ -4000,7 +4000,7 @@ owners during the greater part of the six years intervening between then
 and what is called the Great Strike. The strong downward tendency of
 prices made a reduction of wages imperative; but the labouring classes
 failed to recognize any such necessity, and strongly resented any
-reductions proposed by employers. It was hard indeed for a carter
+reductions proposed by employers. It was hard indeed for a [[Carter|carter]]
 drawing coal to a gasworks to recognize the necessity which compelled a
 reduction in his wages because wool had fallen 20%. Nor were other
 labourers, more nearly connected with the producing interests, satisfied
@@ -4046,7 +4046,7 @@ As one result of the strike of 1890 a movement was set afoot by a number
 of enthusiasts, more visionary than practical, that has resulted in a
 measure of more or less disaster. This was the planting of a colony of
 communistic Australians in South America. After much negotiation the
-leader, Mr William Lane, a Brisbane journalist, decided on Paraguay, and
+leader, Mr William [[Lane]], a Brisbane journalist, decided on Paraguay, and
 he tramped across the continent, preaching a new crusade, and gathering
 in funds and recruits in his progress. On the 16th of July 1893 the
 first little army of "New Australians" left Sydney in the "Royal Tar,"
@@ -4064,7 +4064,7 @@ to send a great party to parliament as the direct representation of
 Labour, pledged to obtain through legislation what it was unable to
 obtain by strikes and physical force. The principle of one-man one-vote
 had been persistently advocated without arousing any special
-parliamentary or public enthusiasm until the meeting of the Federal
+parliamentary or public [[Enthusiasm|enthusiasm]] until the meeting of the Federal
 Convention in 1891. The convention was attended by Sir George Grey, who
 was publicly welcomed to the colony by New Zealanders resident in
 Sydney, and by other admirers, and his reception was an absolute
@@ -4077,7 +4077,7 @@ occurrence of a general election gave the party the looked-for
 opportunity for concerted action. The results of the election came as a
 complete surprise to the majority of the community. The Labour party
 captured 35 seats out of a House of 125 members; and as the old parties
-almost equally divided the remaining seats, and a fusion was impossible,
+almost equally divided the remaining seats, and a [[Fusion|fusion]] was impossible,
 the Labour representatives dominated the situation. It was not long,
 however, before the party itself became divided on the fiscal question;
 and a Protectionist government coming into power, about half the Labour
@@ -4099,7 +4099,7 @@ able to accomplish more with their reduced number than under the old
 conditions.
 
   The two features of the Labour party in New South Wales are its
-  detachment from other parties and the control of the caucus. The
+  detachment from other parties and the control of the [[Caucus|caucus]]. The
   caucus, which is the natural corollary of the detachment, determines
   by majority the vote of the whole of the members of the party,
   independence of action being allowed on minor questions only. So far
@@ -4128,7 +4128,7 @@ from the New South Wales standpoint. The only qualification worth
 mentioning is the signing of the pledge of solidarity. The other ideal,
 typified by the South Australian party, differs from this in one
 important respect. To the Labour party in that state are admitted only
-persons who have worked for their living at manual labour, and this
+persons who have worked for their living at [[Manual|manual]] labour, and this
 qualification of being an actual worker is one that was strongly
 insisted upon at the formation of the party and strictly adhered to,
 although the temptation to break away from it and accept as candidates
@@ -4143,7 +4143,7 @@ members of the party are the same, the members of the Labour party will
 be generally found voting together on all important divisions, the chief
 exception being with regard to free trade or protection. The Labour
 party held power in the Commonwealth for a short period, and has had the
-balance of power in its hands ever since the formation of the
+[[Balance Of Power|balance of power]] in its hands ever since the formation of the
 Commonwealth. (T. A. C.)
 
 
@@ -4168,7 +4168,7 @@ LEGISLATION.)
   appointed two years earlier to inquire into the conditions of
   employment in the colony and certain allegations of "sweating" that
   had then recently been made, reported that:--"The most effective mode
-  of bringing about industrial co-operation and mutual sympathy between
+  of bringing about industrial [[Co-Operation|co-operation]] and mutual sympathy between
   employers and employed, and thus obviating labour conflicts in the
   future, is by the establishment of courts of conciliation in Victoria,
   whose procedure and awards shall have the sanction and authority of
@@ -4177,7 +4177,7 @@ LEGISLATION.)
   1896, passed by the ministry of Mr (afterwards Sir Alexander) Peacock.
   This measure, together with several subsequent amending acts, of which
   the most important became law in 1903, 1905 and 1907, forms a complete
-  industrial code in which the principle of state regulation of wages is
+  industrial [[Code|code]] in which the principle of state regulation of wages is
   recognized and established. Its central enactment was to bring into
   existence (1) "Special Boards," consisting of an equal number of
   representatives of employers and workmen respectively in any trade,
@@ -4195,7 +4195,7 @@ LEGISLATION.)
   date fixed by the board. Either party, or the minister for Labour, may
   refer a determination to the court of industrial appeals, and the
   court, in the event of a special board failing to make a
-  determination, may itself be called upon to frame one. The general
+  determination, may itself be called upon to [[Frame|frame]] one. The general
   administration of the Factories and Shops Acts, to which the special
   boards owe their being, is vested in a chief inspector of factories,
   subject to the control of the minister of Labour in matters of policy.
@@ -4227,10 +4227,10 @@ LEGISLATION.)
   somewhat different type. The model followed in these two states was
   not Victoria but New Zealand, where an Industrial Conciliation and
   Arbitration Act was passed in 1894. A similar measure, under the
-  guidance of the attorney-general, the Hon. B.R. Wise, was carried
+  guidance of the [[Attorney-General|attorney-general]], the Hon. B.R. Wise, was carried
   after much opposition in New South Wales in 1901, to remain in force
   till the 30th of June 1908. By it an arbitration court was instituted,
-  consisting of a president and assessors representing the employers'
+  consisting of a president and [[Assessor|assessors]] representing the employers'
   unions and the workers' unions respectively; in any trade in which a
   dispute occurs, any union of workmen or employers registered under the
   act was given the right to bring the matter before the arbitration
@@ -4288,7 +4288,7 @@ LEGISLATION.)
   in 1907. An additional duty was thrown on the Federal arbitration
   court by the Customs and Excise Tariff Acts of 1906, in which were
   embodied the principles known as the "New Protection." By the Customs
-  Act the duty was raised on imported agricultural implements, while as
+  Act the duty was raised on imported agricultural [[Implement|implements]], while as
   a safeguard to the consumer the maximum prices for the retail of the
   goods were fixed. In order to provide a similar protection for the
   artisans employed in the protected industries, an excise duty was
@@ -4360,20 +4360,20 @@ the article BRITISH EMPIRE.)     (R. J. M.)
   Mass., 1899); J.P. Thomson, _The Physical Geography of Australia_
   (Smithsonian Report, Washington, 1898); J.W. Gregory, _The Dead Heart
   of Australia_. For Flora: Maiden, _Useful Native Plants of Australia_
-  (Sydney, 1889); Bentham and Mueller, _Flora Australiensis_ (London,
+  (Sydney, 1889); [[Bentham]] and Mueller, _Flora Australiensis_ (London,
   1863-1878); Fitzgerald, _Australian Orchids_ (Sydney, 1870-1890);
   Mueller, _Census of Australian Plants_ (Melbourne, 1889). For Fauna:
-  Forbes, "The Chatham Islands; their Relation to a former Southern
+  Forbes, "The [[Chatham]] Islands; their Relation to a former Southern
   Continent," _Geographical Journal_, vol. ii. (1893); Hedley,
   "Surviving Refugees in Austral Lands of Ancient Antarctic Life,"
   _Royal Society N.S. Wales_, 1895; "The Relation of the Fauna and Flora
   of Australia to those of New Zealand," _Nat. Science_ (1893);
   Tenison-Woods, _The Fish and Fisheries of New South Wales_ (Sydney,
-  1883); Ogilvy, _Catalogue of Australian Mammals_ (Sydney, 1892);
-  Aflalo, _Natural History of Australia_ (London, 1896); Flower and
+  1883); Ogilvy, _[[Catalogue]] of Australian Mammals_ (Sydney, 1892);
+  Aflalo, _Natural History of Australia_ (London, 1896); [[Flower]] and
   Lydekker, _Mammals, Living and Extinct_ (London, 1891); J. Douglas
   Ogilby, _Catalogue of the Fishes of New South Wales_, 4to (Sydney,
-  1886). For Statistics and Miscellanea: T.A. Coghlan, _A Statistical
+  1886). For Statistics and Miscellanea: T.A. [[Coghlan]], _A Statistical
   Account of the Seven Colonies of Australasia_, 8vo (Sydney, 1904); G.
   Collingridge, _The Discovery of Australia_ (Sydney, 1895); W. Epps,
   _The Land Systems of Australia_, 8vo (London, 1894); Ernest Favenc,
@@ -4384,9 +4384,9 @@ the article BRITISH EMPIRE.)     (R. J. M.)
   of Australasia_, 2 vols. (London, 1899); G.F. Scott, _The Romance of
   Australian Exploring_ (London, 1899); H. de R. Walker, _Australasian
   Democracy_ (London, 1897); William Westgarth, _Half a Century of
-  Australian Progress_ (London, 1899); T.A. Coghlan and T.T. Ewing,
+  Australian Progress_ (London, 1899); T.A. Coghlan and T.T. [[Ewing]],
   _Progress of Australia in the 19th Century_; G.P. Tregarthen,
-  _Commonwealth of Australia_; Ida Lee, _Early Days of Australia_; W.P.
+  _Commonwealth of Australia_; [[Ida]] [[Lee]], _Early Days of Australia_; W.P.
   Reeves, _State Experiments in Australia and New Zealand_; A. Metin,
   _La Socialisme sans doctrine_.
 
@@ -4394,12 +4394,12 @@ the article BRITISH EMPIRE.)     (R. J. M.)
 FOOTNOTES:
 
   [1] The literature of the geology of Australia is enumerated, to
-    1884, in the bibliography by Etheridge and Jack. A general summary of
+    1884, in the bibliography by [[Etheridge]] and Jack. A general summary of
     the stratigraphical geology was given by R. Tate, _Rep. Austral.
     Assoc. Adv. Sci._ vol. v. (1893), pp. 1-69. References to the chief
     sources of information regarding the states is given under each of
     them. A geological map of the whole continent, on the scale of 50 m.
-    to the inch, was compiled by A. Everett, and issued in 1887 in six
+    to the inch, was compiled by A. [[Everett]], and issued in 1887 in six
     sheets, by the Geological Survey of Victoria.
 
   [2] The statistical portion of this article includes Tasmania, which
@@ -4443,16 +4443,16 @@ It usually had Metz for its capital, and the inhabitants of the kingdom
 were known as the _Austrasii_. Retrospectively, later historians have
 given this name to the kingdom of Theuderich I. (511-534), of his son
 Theudebert (534-548), and of his grandson Theudebald (548-555); then,
-after the death of Clotaire I., to the kingdom of Sigebert (561-575),
-and of his son Childebert (575-597). They have even tried to interpret
-the long struggle between Fredegond and Brunhilda as a rivalry between
+after the death of [[Clotaire]] I., to the kingdom of Sigebert (561-575),
+and of his son [[Childebert]] (575-597). They have even tried to interpret
+the long struggle between [[Fredegond]] and Brunhilda as a rivalry between
 the two kings of Neustria and Austrasia. When these two words are at
 last found in the texts in their precise signification, Austrasia is
 applied to that part of the Frankish kingdom which Clotaire II.
 entrusted to his son Dagobert, subject to the guardianship of Pippin and
-Arnulf (623-629), and which Dagobert in his turn handed on to his son
+[[Arnulf]] (623-629), and which Dagobert in his turn handed on to his son
 Sigebert (634-639), under the guardianship of Cunibert, bishop of
-Cologne, and Ansegisel, mayor of the palace. After the death of
+[[Cologne]], and Ansegisel, [[Mayor|mayor]] of the palace. After the death of
 Dagobert, Austrasia and Neustria almost always had separate kings, with
 their own mayors of the palace, and then there arose a real rivalry
 between these two provinces, which ended in the triumph of Austrasia.
@@ -4466,57 +4466,57 @@ At the time of Charlemagne, the word Austrasia underwent a change of
 meaning and became synonymous with _Francia orientalis_, and was applied
 to the Frankish dominions beyond the Rhine (Franconia). This Franconia
 was in 843 included in the kingdom of Louis the German, and was then
-increased by the addition of the territories of Mainz, Spires and Worms,
+increased by the addition of the territories of [[Mainz]], Spires and Worms,
 on the right bank of the river.
 
   See A. Huguenin, _Histoire du royaume merovingien d'Austrasie_ (Paris,
   1857); Aug. Digot, _Histoire du royaume d'Austrasie_, 4 vols. (Nancy,
   1863); L. Drapeyron, _Essai sur l'origine, le developpement et les
   resultats de la lutte entre la Neustrie et l'Austrasie_ (Paris, 1867);
-  Auguste Longnon, _Atlas historique_, 1st and 2nd parts.     (C. Pf.)
+  Auguste Longnon, _[[Atlas]] historique_, 1st and 2nd parts.     (C. Pf.)
 
 
 
 
 AUSTRIA. (Ger. _Osterreich_), a country of central Europe, bounded E. by
 Russia and Rumania, S. by Hungary, the Adriatic Sea and Italy, W. by
-Switzerland, Liechtenstein and the German empire (Bavaria), and N. by
+Switzerland, [[Liechtenstein]] and the German empire (Bavaria), and N. by
 the German empire (Saxony and Prussia) and Russia. It has an area of
 115,533 sq. m., or about twice the size of England and Wales together.
 Austria is one of the states which constitute the Austro-Hungarian
-(Habsburg) monarchy (see AUSTRIA-HUNGARY: _History_), and is also called
+([[Habsburg]]) monarchy (see AUSTRIA-HUNGARY: _History_), and is also called
 Cisleithania, from the fact that it contains the portion of that
 monarchy which lies to the west of the river Leitha. Austria does not
 form a geographical unity, and the constituent parts of this empire
 belong to different geographical regions. Thus, Tirol, Styria and
 Carinthia belong, like Switzerland, to the system of the Alps, but these
 provinces together with those lying in the basin of the Danube form,
-nevertheless, a compact stretch of country. On the other hand Galicia,
+nevertheless, a compact stretch of country. On the other hand [[Galicia]],
 extending on the eastern side of the Carpathians, belongs to the great
 plain of Russia; Bohemia stretches far into the body of Germany; while
-Dalmatia, which is quite separated from the other provinces, belongs to
-the Balkan Peninsula.
+[[Dalmatia]], which is quite separated from the other provinces, belongs to
+the [[Balkan Peninsula]].
 
-  _Coasts._--Austria has amongst all the great European countries the
+  _Coasts._--Austria has amongst all the great [[European Countries|European countries]] the
   most continental character, in so far as its frontiers are mostly
   land-frontiers, only about one-tenth of them being coast-land. The
   Adriatic coast, which stretches for a distance of about 1000 m., is
   greatly indented. The Gulf of Trieste on the west, and the Gulf of
   Fiume or Quarnero on the east, include between them the peninsula of
-  Istria, which has many sheltered bays. In the Gulf of Quarnero are the
+  [[Istria]], which has many sheltered bays. In the Gulf of Quarnero are the
   Quarnero islands, of which the most important are Cherso, Veglia and
-  Lussin. The coast west of the mouth of the Isonzo is fringed by
+  [[Lussin]]. The coast west of the mouth of the Isonzo is fringed by
   lagoons, and has the same character as the Venetian coast, while the
   Gulf of Trieste and the Istrian peninsula have a steep coast with many
-  bays and safe harbours. The principal ports are Trieste, Capodistria,
+  bays and safe harbours. The principal ports are Trieste, [[Capodistria]],
   Pirano, Parenzo, Rovigno and Pola, the great naval harbour and arsenal
   of Austria. The coast of Dalmatia also possesses many safe bays, the
   principal being those of Zara, Cattaro and Ragusa, but in some places
   it is very steep and inaccessible. On the other hand a string of
   islands extends along this coast, which offer many safe and easily
-  accessible places of anchorage to ships during the fierce winter gales
+  accessible places of anchorage to ships during the fierce winter [[Gale|gales]]
   which rage in the Adriatic. The principal are Pago, Pasman, Isola
-  Lunga and Isola Incoronata, Brazza, Lesina, Curzola and Meleda.
+  Lunga and Isola Incoronata, [[Brazza]], [[Lesina]], [[Curzola]] and Meleda.
 
   The political divisions of Austria correspond, for the most part, so
   closely to natural physical divisions that the detailed account of the
@@ -4539,11 +4539,11 @@ the Balkan Peninsula.
   the Alps--the western, the central and the eastern Alps--Austria is
   traversed by several groups of the central Alps, while the eastern
   Alps lie entirely within its territory. The eastern Alps are continued
-  by the Karst mountains, which in their turn are continued by the
+  by the [[Karst]] mountains, which in their turn are continued by the
   Dinaric Alps, which stretch through Croatia and Dalmatia. The second
   great mountain-system of Austria, the Carpathians, occupy its eastern
-  and north-eastern portions, and stretch in the form of an arch through
-  Moravia, Silesia, Galicia and Bukovina, forming the frontier towards
+  and north-eastern portions, and stretch in the form of an [[Arch|arch]] through
+  Moravia, Silesia, Galicia and [[Bukovina]], forming the frontier towards
   Hungary, within which territory they principally extend. Finally, the
   Bohemian-Moravian Mountains, which enclose Bohemia and Moravia, and
   form the so-called quadrilateral of Bohemia, constitute the link of
@@ -4564,11 +4564,11 @@ the Balkan Peninsula.
   equally distributed amongst its crown lands, with the exception of
   Istria and the Karst region, where there is a great scarcity of even
   the smallest rivers. The principal rivers are: the Danube, the
-  Dniester, the Vistula, the Oder, the Elbe, the Rhine and the Adige or
+  [[Dniester]], the Vistula, the Oder, the [[Elbe]], the Rhine and the Adige or
   Etsch. As the highlands of Austria form part of the great watershed of
   Europe, which divides the waters flowing northward into the North Sea
   or the Baltic from those flowing southward or eastward into the
-  Mediterranean or the Black Sea, its rivers flow in three different
+  Mediterranean or the [[Black Sea]], its rivers flow in three different
   directions--northward, southward and eastward. With the exception of
   the small streams belonging to it which fall into the Adriatic, all
   its rivers have their mouths in other countries, and its principal
@@ -4579,7 +4579,7 @@ the Balkan Peninsula.
   Pressburg, its banks are pretty closely hemmed by the Alps, and the
   river passes through a succession of narrow defiles. But the finest
   part of its whole course, as regards the picturesqueness of the
-  scenery on its banks, is between Linz and Vienna. Where it enters
+  scenery on its banks, is between [[Linz]] and Vienna. Where it enters
   Austria the Danube is 898 ft. above the level of the sea, and where it
   leaves it is only 400 ft.; it has thus a fall within the country of
   498 ft., and is at first a very rapid stream, becoming latterly much
@@ -4592,7 +4592,7 @@ the Balkan Peninsula.
   course of 370 m. of which 300 are navigable, and drains an area of
   12,000 sq. m. The Vistula and the Oder both fall into the Baltic. The
   former rises in Moravia, flows first north through Austrian Silesia,
-  then takes an easterly direction along the borders of Prussian
+  then takes an easterly direction along the [[Borders|borders]] of Prussian
   Silesia, and afterwards a north-easterly, separating Galicia from
   Russian Poland, and leaving Austria not far from Sandomir. Its course
   in Austria is 240 m., draining an area of 15,500 sq. m. It is
@@ -4604,7 +4604,7 @@ the Balkan Peninsula.
   flows into the North Sea is the Elbe. It has its source in the
   Riesengebirge, not far from the Schneekoppe, flows first south, then
   west, and afterwards north-west through Bohemia, and then enters
-  Saxony. Its principal affluents are the Adler, Iser and Eger, and,
+  Saxony. Its principal affluents are the Adler, Iser and [[Eger]], and,
   most important of all, the Moldau. The Elbe has a course within the
   Austrian dominions of 185 m., for about 65 of which it is navigable.
   It drains an area of upwards of 21,000 sq. m. The Rhine, though
@@ -4632,12 +4632,12 @@ the Balkan Peninsula.
   number and value of its mineral springs. They are mostly to be found
   in Bohemia, and are amongst the most frequented watering-places in the
   world. The most important are, the alkaline springs of Carlsbad,
-  Marienbad, Franzensbad and Bilin; the alkaline acidulated waters of
+  Marienbad, Franzensbad and [[Bilin]]; the alkaline acidulated waters of
   Giesshubel, largely used as table waters; the iron springs of
   Marienbad, Franzensbad and of Pyrawarth in Lower Austria; the bitter
   waters of Pullna, Saidschitz and Sedlitz; the saline waters of Ischl
   and of Aussee in Styria; the iodine waters of Hall in Upper Austria;
-  the different waters of Gastein; and lastly the thermal waters of
+  the different waters of [[Gastein]]; and lastly the thermal waters of
   Teplitz-Schonau, Johannisbad, and of Romerbad in Styria. Altogether
   there are reckoned to exist over 1500 mineral springs, of which many
   are not used.     (O. Br.)
@@ -4649,10 +4649,10 @@ the Balkan Peninsula.
   thus enclosed, lies the Tertiary basin of the Hungarian plain; and
   outside the belt, on the northern side, is a region which,
   geologically, is composite, but has uniformly resisted the Carpathian
-  folding. In the neighbourhood of Vienna a gap in the folded belt--the
+  folding. In the neighbourhood of Vienna a [[Gap|gap]] in the folded belt--the
   gap between the Alps and the Carpathians--has formed a connexion
   between these two regions since the early part of the Miocene period.
-  On its outer or convex side the folded belt is clearly defined by a
+  On its outer or [[Convex|convex]] side the folded belt is clearly defined by a
   depression which is generally filled by modern deposits. Beyond this,
   in Russia and Galicia, lies an extensive plateau, much of which is
   covered by flat-lying Miocene and Pliocene beds; but in the deep
@@ -4675,7 +4675,7 @@ the Balkan Peninsula.
   the Pruth exposes any beds of older date than Miocene. Towards the
   north-west, also, the Palaeozoic foundation falls beneath an
   increasing thickness of Cretaceous beds and lies buried far below the
-  surface. At Lemberg a boring 1650 ft. in depth did not reach the base
+  surface. At [[Lemberg]] a boring 1650 ft. in depth did not reach the base
   of the Senonian. West of Cracow the Cretaceous beds are underlaid by
   Jurassic and Triassic deposits, the general dip being eastward. It is
   not till Silesia that the Palaeozoic formations again rise to the
@@ -4696,7 +4696,7 @@ the Balkan Peninsula.
   period the area appears to have been dry land until the beginning of
   the Upper Cretaceous period, when the sea again spread over it. The
   deposits of this sea are now visible in the large basin of Upper
-  Cretaceous beds which stretches from Dresden southeastward through
+  Cretaceous beds which stretches from [[Dresden]] southeastward through
   Bohemia. Since the close of the Cretaceous period the Bohemian
   _massif_ has remained above the sea; but the depression which lies
   immediately outside the Carpathian chain has at times been covered by
@@ -4728,7 +4728,7 @@ the Balkan Peninsula.
   Erzgebirge and of Pribram in Bohemia; the iron ores of Styria and
   Bukovina; and the iron, copper, cobalt and nickel of the districts of
   Zips and Gomor. The famous cinnabar and mercury mines of Idria in
-  Carniola are in Triassic beds; and the gold and silver of northern
+  [[Carniola]] are in Triassic beds; and the gold and silver of northern
   Hungary and of Transylvania are associated with the Tertiary volcanic
   rocks. The Carboniferous coal-fields of Silesia and Bohemia are of the
   greatest importance; while Jurassic coal is worked at Steyerdorf and
@@ -4783,8 +4783,8 @@ the Balkan Peninsula.
   flowering plants. As stated above, Austria is a very mountainous
   country and the mountains are frequently covered with vegetation to a
   great elevation. At the base are found vines and maize; on the lower
-  slopes are green pastures, or wheat, barley and other kinds of corn;
-  above are often forests of oak, ash, elm, &c.; and still higher the
+  slopes are green pastures, or wheat, barley and other kinds of [[Corn|corn]];
+  above are often forests of oak, ash, [[Elm|elm]], &c.; and still higher the
   yew and the fir may be seen braving the climatic conditions. Corn
   grows to between 3400 and 4500 ft. above the level of the sea, the
   forests extend to 5600 or 6400 ft., and the line of perpetual snow is
@@ -4792,11 +4792,11 @@ the Balkan Peninsula.
 
   _Fauna._--The animal kingdom embraces, besides the usual domestic
   animals (as horses, cattle, sheep, swine, goats, asses, &c.), wild
-  boars, deer, wild goats, hares, &c.; also bears, wolves, lynxes,
-  foxes, wild cats, jackals, otters, beavers, polecats, martens, weasels
-  and the like. Eagles and hawks are common, and many kinds of singing
+  boars, deer, wild goats, hares, &c.; also bears, wolves, [[Lynx|lynxes]],
+  foxes, wild cats, jackals, otters, beavers, polecats, [[Martens|martens]], weasels
+  and the like. Eagles and [[Hawks|hawks]] are common, and many kinds of singing
   birds. The rivers and lakes abound in different kinds of fish, which
-  are also plentiful on the sea-coast. Among the insects the bee and the
+  are also plentiful on the sea-coast. Among the [[Insect|insects]] the [[Bee|bee]] and the
   silkworm are the most useful. The leech forms an article of trade. In
   all there are 90 different species of mammals, 248 species of birds,
   377 of fishes and more than 13,000 of insects.
@@ -4917,7 +4917,7 @@ Ladini and Rumanians.
     Italians and Ladini     727,102
     Servians and Croats     711,380
     Rumanians               230,963
-    Magyars                   9,516
+    [[Magyars]]                   9,516
 
   The Germans occupy exclusively Upper Austria, Salzburg, Vorarlberg,
   and, to a large extent, Lower Austria; then the north and central part
@@ -4954,13 +4954,13 @@ Ladini and Rumanians.
   vineyards; and 0.4% in lakes, marshes and ponds. The provinces having
   the largest proportion of arable land are Bohemia, Galicia, Moravia
   and Lower Austria. The principal products are wheat, rye, barley,
-  oats, maize, potatoes, sugar beet, and cattle turnip. The produce of
+  oats, maize, potatoes, sugar [[Beet|beet]], and cattle turnip. The produce of
   the ploughed land does not, on the whole, suffice for the home
   requirements. Large quantities in particular of wheat and maize are
   imported from Hungary for home consumption. Only barley and oats are
   usually reaped in quantity for export. The provinces which have the
   lowest proportion of arable land are Tirol and Salzburg. Besides these
-  principal crops, other crops of considerable magnitude are: buckwheat
+  principal crops, other crops of considerable magnitude are: [[Buckwheat|buckwheat]]
   in Styria, Galicia, Carniola and Carinthia; rape and rape-seed in
   Bohemia and Galicia, poppy in Moravia and Silesia; flax in Bohemia,
   Moravia, Styria and Galicia; hemp in Galicia, chicory in Bohemia;
@@ -5061,7 +5061,7 @@ Ladini and Rumanians.
   Southern Tirol and in the Kustenland, and the average annual yield is
   5,000,000 lb. of cocoons. In the Alpine region dairy-farming has
   attained a great degree of development, and large quantities of
-  butter and cheese are annually produced. Altogether, the rearing of
+  butter and [[Cheese|cheese]] are annually produced. Altogether, the rearing of
   cattle, with all its actual shortcomings, constitutes a great source
   of revenue, and yields a certain amount for export.
 
@@ -5086,15 +5086,15 @@ Ladini and Rumanians.
   and brown coal are to be found, as well as extensive basins of
   petroleum, and large deposits of salt. In smaller quantities are found
   zinc, antimony, arsenic, cobalt, nickel, manganese, bismuth, chromium,
-  uranium, tellurium, sulphur, graphite and asphalt. There are also
-  marble, roofing-slate, gypsum, porcelain-earth, potter's clay, and
+  uranium, tellurium, sulphur, [[Graphite|graphite]] and [[Asphalt|asphalt]]. There are also
+  marble, roofing-slate, [[Gypsum|gypsum]], porcelain-earth, potter's clay, and
   precious stones. It is therefore natural that mining operations should
   have been carried out in Austria from the earliest times, as, for
   instance, the salt mines of Hallstatt in Upper Austria, which had
   already been worked during the Celtic and Romanic period. Famous
   through the middle ages were also the works, especially for the
   extraction of gold and silver, carried out in Bohemia and Moravia,
-  whose early mining regulations, for instance those of Iglau, were
+  whose early mining regulations, for instance those of [[Iglau]], were
   adopted in other countries. But the great industrial development of
   the 19th century, with its growing necessity for fuel, has brought
   about the exploitation of the rich coal-fields of the country, and
@@ -5119,7 +5119,7 @@ Ladini and Rumanians.
   produced in Salzburg, Salzkammergut and Tirol. Graphite is extracted
   in Bohemia, Moravia, Styria and Lower Austria. Uranium, bismuth and
   antimony are dug out in Bohemia, while procelain earth is found in
-  Bohemia and Moravia. White, red, black and variously-coloured marbles
+  Bohemia and Moravia. White, red, black and variously-coloured [[Marbles|marbles]]
   exist in the Alps, particularly in Tirol and Salzburg; quartz,
   felspar, heavy spar, rock-crystal, and asbestos are found in various
   parts; and among precious stones may be specially mentioned the
@@ -5146,7 +5146,7 @@ Ladini and Rumanians.
   L174,344; silver, L141,594; copper, L57,542; sulphuric acid, L8488;
   copper vitriol, L5710; mineral colours, L5565; lead, L5067; tin,
   L4566; gold, L878; iron vitriol, L603; litharge, L384; quicksilver,
-  L218; coal briquettes, L92,000.
+  L218; coal [[Briquette|briquettes]], L92,000.
 
   _Industry._--The manufactures of Austria were much developed during
   the last quarter of the 19th century, although Austria as a whole
@@ -5170,7 +5170,7 @@ Ladini and Rumanians.
   The textile industry in all its branches--cotton, woollen, linen,
   silk, flax and hemp--is mostly concentrated in Bohemia, Moravia,
   Silesia and Lower Austria. It is an old industry, and one which has
-  made great progress since 1875. Thus the number of mechanical looms
+  made great progress since 1875. Thus the number of mechanical [[Loom|looms]]
   increased more than threefold during this period, and numbered in 1902
   about 120,000. In the same year the number of spindles at work was
   about 3,100,000. Austria had in 1902, 21,837 textile factories with
@@ -5186,7 +5186,7 @@ Ladini and Rumanians.
   the linen industry are in Bohemia at Trautenau; in Moravia and
   Silesia, while the commoner kinds of linen are mostly produced as a
   home industry by the peasants in the above-mentioned crown-lands. The
-  manufacture of ribbons, embroidery and lace, the two latter being
+  manufacture of ribbons, embroidery and [[Lace|lace]], the two latter being
   carried on principally as a house industry in Vorarlberg and in the
   Bohemian Erzgebirge, also thrives. The industry in stitched stuffs is
   especially developed in northern Bohemia. Ready-made men's clothes and
@@ -5228,7 +5228,7 @@ Ladini and Rumanians.
   world-wide reputation. The leather industry is widely extended, and is
   principally carried on in Lower Austria, Bohemia and Moravia. Vienna
   and Prague are great centres for the boot and shoe trade, and the
-  gloves manufactured in these towns enjoy a great reputation. The
+  [[Glove|gloves]] manufactured in these towns enjoy a great reputation. The
   manufacture of wooden articles is widespread over the country, and is
   very varied. In Vienna and other large towns the production of
   ornamental furniture has attained a great development. The industry in
@@ -5240,7 +5240,7 @@ Ladini and Rumanians.
   has attained such large proportions that large districts in those
   provinces have been converted from wheat-growing districts into fields
   for the cultivation of beet-root. Brewing is extensively carried on,
-  and the beer produced is of a good quality. The largest brewing
+  and the [[Beer|beer]] produced is of a good quality. The largest brewing
   establishment is at Schwechat near Vienna, and large breweries are
   also found at Pilsen and Budweiss in Bohemia, whose products enjoy a
   great reputation abroad. There were in Austria 1341 breweries, which
@@ -5274,7 +5274,7 @@ Ladini and Rumanians.
   small coasting vessels and fishing-boats, consisted in 1900 of 154
   vessels, with a tonnage of 198,322 tons, of which 123 vessels with a
   tonnage of 183,949 were steamers. The greatest navigation company is
-  the Austrian Lloyd in Trieste, which in 1900 employed 70 steamers of
+  the Austrian [[Lloyd]] in Trieste, which in 1900 employed 70 steamers of
   165,430 tons. During 1900 the total tonnage of vessels engaged in the
   foreign trade, which entered all the Austrian ports, was 1,448,764
   tons under the Austro-Hungarian flag, and 888,707 under foreign flags;
@@ -5340,7 +5340,7 @@ citizens. The law of the 26th of January 1907 granted universal
 franchise to Austrian male citizens over twenty-four years of age, who
 have resided for a year in the place of election. The Lower House
 consists of 516 members, elected for a period of six years. The members
-receive payment for their services, as well as an indemnity for
+receive payment for their services, as well as an [[Indemnity|indemnity]] for
 travelling expenses. A bill to become law must pass through both Houses,
 and must receive the sanction of the emperor. The emperor is bound to
 summon the Reichsrat annually.
@@ -5367,14 +5367,14 @@ respective provinces, and the rector of the local university.
   belong, is the state religion. The reigning house, however, though
   strongly attached to the Roman faith, has always resisted the extreme
   claims of the papacy, an attitude which in Joseph II.'s time resulted,
-  under the influence of Febronianism (q.v.), in what was practically
+  under the influence of [[Febronianism]] (q.v.), in what was practically
   a national schism. Thus the emperor retains the right to tax church
   property, to nominate bishops, and to prohibit the circulation of
-  papal bulls without his permission. By the concordat of August 18,
+  papal [[Bull|bulls]] without his permission. By the concordat of August 18,
   1855, this traditional attitude was to some extent reversed; but this
   agreement soon became a dead letter and was formally denounced by the
   Austrian government after the promulgation of the dogma of papal
-  infallibility.
+  [[Infallibility|infallibility]].
 
   Of the population of Austria in 1900, 23,796,814 (91%) were Roman
   Catholics, including 3,134,439 uniate Greeks and 2096 uniate
@@ -5383,7 +5383,7 @@ respective provinces, and the rector of the local university.
   Dalmatia, and 698 Armenians, also mainly in Bukovina. The Protestants,
   who in the 16th century comprised 90% of the population, are now only
   1.9%. In 1900, 365,505 of them were returned as belonging to the
-  Augsburg Confession (Lutheran), 128,557 to the Helvetic (Reformed).
+  [[Augsburg]] Confession (Lutheran), 128,557 to the Helvetic (Reformed).
   Other Christian Confessions in Austria are Herrnhuters (Moravian
   Brethren) in Bohemia, Mennonites in Galicia, Lippovanians (akin to the
   Russian Skoptsi) in Bukovina, and Anglicans. The Jews compose 4.7% of
@@ -5400,7 +5400,7 @@ respective provinces, and the rector of the local university.
   541 monasteries with 7775 monks, and 877 convents with 19,194 nuns;
   while the Greek Orthodox Church had 14 monasteries with 85 members.
   The Evangelical Church, according to the constitution granted by
-  imperial decree on the 9th of April 1861 (modified by those of January
+  imperial [[Decree|decree]] on the 9th of April 1861 (modified by those of January
   6, 1866 and December 9, 1891) is organized on a territorial basis,
   being administered by 10 superintendents, who are, in their turn,
   subject to the Supreme Church Council (_K.K. Oberkirchenrat_) at
@@ -5409,7 +5409,7 @@ respective provinces, and the rector of the local university.
   the Evangelical superintendent of Vienna.
 
   _Education._--The system of elementary schools dates from the time of
-  Maria Theresa; the present organization was introduced by the
+  [[Maria Theresa]]; the present organization was introduced by the
   education law of May 14, 1869 (amended in 1883). By this law the
   control of the schools, hitherto in the hands of the Church, was
   assumed by the state, every local community being bound to erect and
@@ -5454,7 +5454,7 @@ respective provinces, and the rector of the local university.
   and 117 _Realschulen_, with 7121 teachers and 111,012 scholars. The
   "high" schools include the universities and the technical high schools
   (_Technische Hochschulen_). Of state universities there are
-  eight:--Vienna, Gratz, Innsbruck, Prague (German), and Czernowitz, in
+  eight:--Vienna, Gratz, [[Innsbruck]], Prague (German), and Czernowitz, in
   which German is the language of instruction; Prague (Bohemian) with
   Czech; and Cracow and Lemberg with Polish as the language of
   instruction. Each university has four faculties--theology, law and
@@ -5468,7 +5468,7 @@ respective provinces, and the rector of the local university.
 
   _Justice._--The judicial authorities in Austria are:--(1) the county
   courts, 963 in number; (2) the provincial and district courts, 74 in
-  number, to which are attached the jury courts,--both these courts are
+  number, to which are attached the [[Jury|jury]] courts,--both these courts are
   courts of first instance; (3) the higher provincial courts, 9 in
   number, namely, at Vienna, Graz, Trieste, Innsbruck, Zara, Prague,
   Brunn Cracow and Lemberg; these are the cours of appeal from the lower
@@ -5495,7 +5495,7 @@ respective provinces, and the rector of the local university.
   railway receipts, and profits or royalties on forests, domains and
   mining. The direct taxes are divided into two groups, real and
   personal; the former include the land tax and house-rent tax, and the
-  latter the personal income tax, tax on salaries, tax on commercial and
+  latter the personal [[Income Tax|income tax]], tax on salaries, tax on commercial and
   industrial establishments, tax on all business with properly audited
   accounts (like the limited liability companies), and tax on
   investments. The principal indirect taxes are the tobacco monopoly,
@@ -5524,7 +5524,7 @@ respective provinces, and the rector of the local university.
   _Railways._--As regards internal communications, Austria is provided
   with an extensive network of railways, the industrial provinces being
   specially favoured. This has been accomplished in spite of the
-  engineering difficulties owing to the mountainous nature of the
+  [[Engineering|engineering]] difficulties owing to the mountainous nature of the
   country and of the great financial expenses resulting therefrom. The
   construction of the Semmering railway, opened in 1854, for instance,
   was the first mountain railway built in the European continent, and
@@ -5537,7 +5537,7 @@ respective provinces, and the rector of the local university.
   itself; and in granting concessions to private companies it stipulated
   among its conditions the reversionary right of the state, whereby the
   line becomes the property of the state without compensation after the
-  lapse of the period of concession. With various modifications,
+  [[Lapse|lapse]] of the period of concession. With various modifications,
   according to its financial means, it vigorously pursued its policy, by
   both building railways itself, and encouraging private companies to
   build. In 1905 the total length of railways in Austria was 13,590 m.,
@@ -5550,10 +5550,10 @@ respective provinces, and the rector of the local university.
   Wort und Bild_ (24 vols., Vienna, 1888-1902), and _Die Volker
   Osterreich-Ungarns_ (12 vols., Teschen, 1881-1885); A. Supan,
   "Osterreich-Ungarn" (Vienna, 1889, in Kirchhoff's _Landerkunde von
-  Europa_, vol. ii.); Auerbach, _Les Races et les nationalities en
+  [[Europa]]_, vol. ii.); Auerbach, _Les Races et les nationalities en
   Autriche-Hongrie_ (Paris, 1897); Mayerhofer, _Osterreich-ungarisches
-  Ortslexikon_ (Vienna, 1896). For geology see C. Diener, &c., _Ban und
-  Bild Osterreichs_ (Vienna and Leipzig, 1903); F. von Hauer, _Die
+  Ortslexikon_ (Vienna, 1896). For geology see C. Diener, &c., _[[Ban]] und
+  Bild Osterreichs_ (Vienna and Leipzig, 1903); F. von [[Hauer]], _Die
   Geologie_ (Vienna). The official statistical publications of the
   central statistical department, of the ministry of agriculture, and of
   the ministry of commerce, appearing annually.     (O. Br.)

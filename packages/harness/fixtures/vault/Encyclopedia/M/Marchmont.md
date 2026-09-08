@@ -2,7 +2,7 @@
 
 MARCHMONT, EARLS OF. The 1st earl of Marchmont was Sir Patrick Hume or
 Home (1641-1724), son of Sir Patrick Hume, bart. (d. 1648), of Polwarth,
-Berwickshire, and a descendant of another Sir Patrick Hume, a supporter
+[[Berwickshire]], and a descendant of another Sir Patrick Hume, a supporter
 of the Reformation in Scotland. A member of the same family was
 Alexander Hume (c. 1560-1609), the Scottish poet, whose _Hymns and
 Sacred Songs_ were published in 1599 (new ed. 1832). Polwarth, as
@@ -20,12 +20,12 @@ escaped to Utrecht, where he lived in great poverty until 1688. He
 accompanied William of Orange to England, and in 1689 he was again a
 member of the Scottish parliament. In 1690 he was made a peer as Lord
 Polwarth; in 1696 he became lord high chancellor of Scotland, and in
-1697 was created earl of Marchmont. When Anne became queen in 1702 he
+1697 was created earl of Marchmont. When [[Anne]] became queen in 1702 he
 was deprived of the chancellorship. He died on the 2nd of August 1724.
 His son Alexander, the 2nd earl (1676-1740), took the name of Campbell
-instead of Hume after his marriage in 1697 with Margaret, daughter and
+instead of Hume after his marriage in 1697 with [[Margaret]], daughter and
 heiress of Sir George Campbell of Cessnock, Ayrshire. He was a lord of
-session from 1704 to 1714; ambassador to Denmark from 1715 to 1721, and
+session from 1704 to 1714; ambassador to [[Denmark]] from 1715 to 1721, and
 lord clerk register from 1716 to 1733. His son Hugh Hume, 3rd earl
 (1708-1794), who entered parliament in 1734 at the same time as his twin
 brother Alexander (d. 1756), afterwards lord clerk register of Scotland,
@@ -36,7 +36,7 @@ Berwickshire, and the estates passing to Sir Hugh Purves, bart., a
 descendant of the 2nd earl, who took the name of Hume-Campbell. The 3rd
 earl had, however, three daughters, one of whom, Diana (d. 1827),
 married Walter Scott of Harden, Berwickshire; and in 1835 her son Hugh
-Hepburne-Scott (1758-1841) successfully claimed the Scottish barony of
+Hepburne-Scott (1758-1841) successfully claimed the Scottish [[Barony|barony]] of
 Polwarth. In 1867 his grandson, Walter Hugh (b. 1838), became 6th Lord
 Polwarth.
 

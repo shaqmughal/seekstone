@@ -9,17 +9,17 @@ topic: religion
 EBERHARD, JOHANN AUGUSTUS (1739-1809), German theologian and
 philosopher, was born at Halberstadt in Lower Saxony, where his father
 was singing-master at the church of St Martin's, and teacher of the
-school of the same name. He studied theology at the university of Halle,
-and became tutor to the eldest son of the baron von der Horst, to whose
+school of the same name. He studied theology at the university of [[Halle]],
+and became tutor to the eldest son of the baron von der [[Horst]], to whose
 family he attached himself for a number of years. In 1763 he was
 appointed con-rector of the school of St Martin's, and second preacher
 in the hospital church of the Holy Ghost; but he soon afterwards
 resigned these offices and followed his patron to Berlin. There he met
 Nicolai and Moses Mendelssohn, with whom he formed a close friendship.
-In 1768 he became preacher or chaplain to the workhouse at Berlin and
+In 1768 he became preacher or [[Chaplain|chaplain]] to the workhouse at Berlin and
 the neighbouring fishing village of Stralow. Here he wrote his _Neue
 Apologie des Socrates_ (1772), a work occasioned by an attack on the
-fifteenth chapter of Marmontel's _Belisarius_ made by Peter Hofstede, a
+fifteenth chapter of Marmontel's _[[Belisarius]]_ made by Peter Hofstede, a
 clergyman of Rotterdam, who maintained the patristic view that the
 virtues of the noblest pagans were only _splendida peccata_. Eberhard
 stated the arguments for the broader view with dignity, acuteness and
@@ -27,7 +27,7 @@ learning, but the liberality of the reasoning gave great offence to the
 strictly orthodox divines, and is believed to have obstructed his
 preferment in the church.
 
-In 1774 he was appointed to the living of Charlottenburg. A second
+In 1774 he was appointed to the living of [[Charlottenburg]]. A second
 volume of his _Apologie_ appeared in 1778. In this he not only
 endeavoured to obviate some objections which were taken to the former
 part, but continued his inquiries into the doctrines of the Christian
@@ -36,14 +36,14 @@ Scriptures. In 1778 he accepted the professorship of philosophy at
 Halle. As an academical teacher, however, he was unsuccessful. His
 powers as an original thinker were not equal to his learning and his
 literary gifts, as was shown in his opposition to the philosophy of
-Kant. In 1786 he was admitted a member of the Berlin Academy of
+[[Kant]]. In 1786 he was admitted a member of the Berlin Academy of
 Sciences; in 1805 the king of Prussia conferred upon him the honorary
 title of a privy-councillor. In 1808 he obtained the degree of doctor in
 divinity, which was given him as a reward for his theological writings.
 He died on the 6th of January 1809. He was master of the learned
 languages, spoke and wrote French with facility and correctness, and
 understood English, Italian and Dutch. He possessed a just and
-discriminating taste for the fine arts, and was a great lover of music.
+discriminating taste for the [[Fine Arts|fine arts]], and was a great lover of music.
 
   Works:--_Neue Apologie des Socrates_, &c. (2 vols., 1772-1778);
   _Allgemeine Theorie des Denkens und Empfindens_, &c. (Berlin, 1776),

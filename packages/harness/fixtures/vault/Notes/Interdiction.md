@@ -10,7 +10,7 @@ tags: [history-theory, dynasties]
 
 INTERDICTION, in Scots law, a process of restraint applied to prodigals
 and others who, "from weakness, facility or profusion, are liable to
-imposition." It is either voluntary or judicial. Voluntary interdiction
+[[Imposition|imposition]]." It is either voluntary or judicial. Voluntary interdiction
 is effected by the prodigal himself, who executes a bond obliging
 himself to do no deed which may affect his estate without the assent of
 certain persons called the "interdictors." This may be removed by the

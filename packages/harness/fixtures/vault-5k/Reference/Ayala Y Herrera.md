@@ -11,7 +11,7 @@ persuaded his sister to appear as the heroine of his comedy, _La primera
 Dama_, and the innovation, if it scandalized some of his townsmen,
 permitted him to develop his talent more freely. In his twentieth year he
 matriculated at the university of Seville, but his career as a student was
-undistinguished. In Seville he made acquaintance with Garcia Gutierrez, who
+undistinguished. In Seville he made acquaintance with [[Garcia]] Gutierrez, who
 is reported to have encouraged his dramatic ambitions and to have given him
 the benefit of his own experience as a playwright. Early in 1850 Ayala
 removed his name from the university books, and settled in Madrid with the
@@ -30,7 +30,7 @@ campaign carried on in the journal _El Padre Cobos_. A _zarzuela_, entitled
 _Guerta a muerte_, for which Emilio Arrieta composed the music, belongs to
 1855, and to the same collaboration is due _El Agente de Matrimonios_. At
 about this date Ayala passed over from the Moderates to the Progressives,
-and this political manoeuvre had its effect upon the fate of his plays. The
+and this political manoeuvre had its effect upon the [[Fate|fate]] of his plays. The
 performances of _Los Comuneros_ were attended by members of the different
 parties; the utterances of the different characters were taken to represent
 the author's personal opinions, and every speech which could be brought
@@ -59,9 +59,9 @@ _Epístola_ to Emilio Arrieta, and had he chosen to dedicate himself to
 lyric poetry, he might possibly have ranked with the best of Spain's modern
 singers; as it is, he is a very considerable poet who affects the dramatic
 form. In his later writings he deals with modern society, its vices, ideals
-and perils; yet in many essentials he is a manifest disciple of Calderon.
+and perils; yet in many essentials he is a [[Manifest|manifest]] [[Disciple|disciple]] of Calderon.
 He has the familiar Calderonian limitations; the substitution of types for
-characters, of eloquence for vital dialogue. Nor can he equal the sublime
+characters, of eloquence for vital [[Dialogue|dialogue]]. Nor can he equal the sublime
 lyrism of his model; but he is little inferior in poetic conception, in
 dignified idealization, and in picturesque imagery. And it may be fairly
 claimed for him that in _El Tejado de Vidrio_ and _El Tanto par Ciento_ he

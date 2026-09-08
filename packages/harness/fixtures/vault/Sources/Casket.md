@@ -1,9 +1,9 @@
 # Casket
 
-CASKET, a small box or coffer, commonly used for jewels, money, papers,
-or other objects of value. The etymology is doubtful. It is possibly a
-diminutive of "cask," a barrel for wine or other liquor. The Spanish
-_casco_ meant also a skull, helmet, or rind of an onion, and is probably
+CASKET, a small [[Box|box]] or [[Coffer|coffer]], commonly used for [[Jewel|jewels]], money, papers,
+or other objects of value. The [[Etymology|etymology]] is doubtful. It is possibly a
+diminutive of "cask," a [[Barrel|barrel]] for wine or other liquor. The Spanish
+_casco_ meant also a skull, [[Helmet|helmet]], or rind of an onion, and is probably
 connected with _cascar_, to break open, Latin _quassare_, French
 _casser_, to break, shake. The French _casque, casquet_, of the same
 origin is only used of a helmet, and the sense of "small chest" is not
@@ -14,11 +14,11 @@ and literature are full of references to the often disconcerting
 contents of these famous receptacles. The "Casket Letters" (q.v.) are
 one of the mysteries of history. Harpagnon's casket plays an important
 part in Molière's _L'Avare_; Bluebeard gives his too-curious wife the
-keys of his caskets filled with precious stones; the contents of
+[[Key|keys]] of his caskets filled with precious stones; the contents of
 Sainte-Croix's casket brought about the trial and condemnation of the
 marquise de Brinvilliers, the poisoner. This very ancient piece of
 furniture was no doubt derived from the chest, which was the original
-wardrobe. It was often an object of great value, covered with ivory,
+wardrobe. It was often an object of great value, covered with [[Ivory|ivory]],
 enamel, or stamped leather, enriched with precious metals, or encrusted
 with jewels. One which belonged to St Louis and is preserved in the
 Louvre is covered with enamelled shields of arms and other decorations.
@@ -37,25 +37,25 @@ sequence of irregular sonnets, all described as originally in French,
 and said to have been addressed by Mary, queen of Scots, to the earl of
 Bothwell, between January and April 1566-1567. The nature of these
 documents--authentic, forged, or partly forged, partly genuine--has been
-the theme of much discussion. If authentic throughout, they afford
+the theme of much discussion. If [[Authentic|authentic]] throughout, they afford
 perfect proof of Mary's complicity in the murder of her husband, Henry,
 Lord Darnley. The topic is so perplexing, and possibilities are so
 delicately balanced, that inquirers may change their views, and modify
 or reverse their opinions, on the appearance of each fresh document that
 is brought to light; or even upon a new consideration of existing
 evidence. Controversy centres round a very long and singular undated
-epistle called "The Glasgow Letter" or "Letter II." If Mary wrote all of
+[[Epistle|epistle]] called "The [[Glasgow]] Letter" or "Letter II." If Mary wrote all of
 this, or even wrote some compromising parts of it, she was certainly
 guilty. But two questions remain to be settled--(1) did her accusers at
 one time possess another version of this letter which if it existed was
-beyond doubt a forgery? and (2) is not part of Letter II. a forged
-interpolation, based on another document, not by Mary?
+beyond doubt a [[Forgery|forgery]]? and (2) is not part of Letter II. a forged
+[[Interpolation|interpolation]], based on another document, not by Mary?
 
 The whole affair has been obscured and almost inextricably entangled, as
 we shall see, by the behaviour of Mary's accusers. Of these Maitland of
 Lethington was consenting to Darnley's murder; the earl of Morton had,
 at least, guilty foreknowledge; the regent Moray (Mary's natural
-brother) had "looked through his fingers" at the crime, and for months
+brother) had "looked through his [[Finger|fingers]]" at the crime, and for months
 remained on intimate terms with the criminals. He also perjured himself
 when putting before Elizabeth's commission of inquiry at Westminster
 (December 1568) a copy of the confession of Hepburn of Bowton (Cotton
@@ -93,9 +93,9 @@ did not correspond with French copies of some of the originals recently
 discovered in Cecil's MSS. and elsewhere. But that is no ground of
 suspicion, for the published French letters were not copies of the
 alleged originals, but translations of Latin translations of them, from
-the Scots (see T.F. Henderson, _The Casket Letters_, 1890). German
+the Scots (see T.F. [[Henderson]], _The Casket Letters_, 1890). German
 historians have not made matters more clear by treating the Letters on
-the principle of "the higher criticism" of Homer and the Bible. They
+the principle of "the higher criticism" of [[Homer]] and the Bible. They
 find that the documents are of composite origin, partly notes from Mary
 to Darnley, partly a diary of Mary's, and so on; all combined and edited
 by some one who played the part of the legendary editorial committee of
@@ -104,7 +104,7 @@ of fragmentary lays! From all these causes, and others, arise confusion
 and suspicion.
 
 So much information unknown to older disputants such as Goodall, the
-elder Tytler, Chalmers, and Malcolm Laing, and in certain cases unknown
+elder Tytler, [[Chalmers]], and [[Malcolm]] [[Laing]], and in certain cases unknown
 even to Froude and Skelton, has accrued, that the question can now best
 be studied in _The Casket Letters_, by T.F. Henderson (1889; second
 issue, 1890, being the more accurate); in _The Mystery of Mary Stuart_,
@@ -115,7 +115,7 @@ arrived at here is that of Henderson, but it is reached independently.
 The history of the letters must be given in summary. Henderson, in _The
 Casket Letters_ (1889), was the first to publish and use as evidence a
 document of which the existence was made known in the fifth report of
-the royal commission on historical manuscripts. It is a sworn statement
+the royal commission on historical [[Manuscript|manuscripts]]. It is a sworn statement
 of the earl of Morton, written in 1568. A silver casket (originally
 Mary's property, but then in the possession of Bothwell) was placed in
 his hands on the 20th of June, and was inspected by several nobles and
@@ -124,15 +124,15 @@ letters, sonnets, and some other papers, had been in any way tampered
 with. But if Moray could knowingly submit garbled evidence, Morton's
 oath is of no value if uncorroborated.
 
-Mary was, on the 21st of June 1567, a prisoner in Loch Leven Castle. A
+Mary was, on the 21st of June 1567, a prisoner in [[Loch]] Leven Castle. A
 messenger was at once sent from Edinburgh to London with a letter from
 Lethington and a verbal message. By the 12th of July, de Silva, the
 Spanish ambassador, reports on the authority of the French ambassador
 that du Croc, French envoy to Scotland, avers that Mary's Scottish
-enemies have autograph letters of hers proving her guilt, and himself
+enemies have autograph letters of hers proving her [[Guilt|guilt]], and himself
 possesses copies. Of these copies no more is heard, and they cannot be
 found. According to de Silva, Elizabeth said that she did not believe in
-the Letters, and that Lethington, who wrote to Cecil on the 21st of
+the Letters, and that Lethington, who wrote to [[Cecil]] on the 21st of
 June, and sent a verbal message by the bearer, "had behaved badly in the
 matter,"--whether that of the letters, or in general. On what evidence
 she based that opinion, if she really held it, is unknown. In December
@@ -154,9 +154,9 @@ put Darnley "in the house where the explosion was arranged for the night
 upon which one of the servants was to be married." No such arrangement
 had been made, as the confessions of the murderers, at which Moray was
 present, clearly prove. It may be said that de Silva means "the house in
-which the explosion was _afterwards_ arranged." But the earl of Lennox,
+which the explosion was _afterwards_ arranged." But the earl of [[Lennox]],
 Darnley's father, understood Moray to mean that as early as January
-21-22, 1567, the house of Kirk o' Field, where Darnley was slain, had
+21-22, 1567, the house of [[Kirk]] o' Field, where Darnley was slain, had
 already been mined. Moray's version of the letter made Mary tell
 Bothwell to poison or put away his wife. No such matters occur in Letter
 II.; Moray spoke, he said, on the authority of "a man who had read the
@@ -171,7 +171,7 @@ and Henderson in his book _The Casket Letters_--of a number of
 documents, notes of information, and indictments of Mary, written for or
 by the earl of Lennox. These MSS are in the University Library of
 Cambridge, and were transcribed by Father Stevenson. His transcripts
-were brought to light by Father Pollen, S.J., who lent them, with his
+were brought to light by Father Pollen, S.J., who [[Lent|lent]] them, with his
 own notes on them, to Andrew Lang for use in his book, _The Mystery of
 Mary Stuart_ (1900-1904).
 
@@ -249,7 +249,7 @@ own account of her interviews with Darnley in Letter II. That part of
 the letter then, it is argued by many, is a forged interpolation based
 on Crawford's notes and memories. The force of this contention lies in
 the close verbal identities between Crawford's account of the
-Darnley-Mary interviews (see Crawford's Declaration of December 9, 1568,
+Darnley-Mary interviews (see Crawford's [[Declaration]] of December 9, 1568,
 in Lang's _Mystery of Mary Stuart_, pp. 428-431; from _State Papers
 Scotland_, Elizabeth vol. xiii. No. 14. Record Office) and the
 corresponding passages in Letter II. (_Mystery of Mary Stuart_, pp.
@@ -260,7 +260,7 @@ case came before a modern English court of justice); or Darnley's memory
 of his conversation with Mary was so fresh, when he dictated his
 recollection of it to Crawford on 21st-22nd January 1567, that he
 reported speeches in almost the very same words as Mary used in writing
-Letter II. Henderson prefers the hypothesis that Lennox had lost
+Letter II. Henderson prefers the [[Hypothesis|hypothesis]] that Lennox had lost
 Crawford's notes; and that the identities are explained by the
 "remarkably good memories of Crawford and Mary, or by the more likely
 supposition that Crawford, before preparing his declaration for the
@@ -322,7 +322,7 @@ these references to affairs unconnected with the case?
 
 There remains what looks like absolute proof that, in essence,
 Crawford's Declaration and Letter II. are independent documents. We are
-not aware that this crucial point has been noticed by the earlier
+not aware that this [[Crucial|crucial]] point has been noticed by the earlier
 critics of the Letters. In Letter II. (paragraph 7, p. 398, in Lang's
 _Mystery of Mary Stuart_, 1901) Mary writes, "I asked why he (Darnley)
 would pass away in the English ship. He denies it, and swears thereunto;
@@ -355,13 +355,13 @@ Here is proof positive that Crawford does not copy Letter II., but gives
 Darnley's words as reported to him by Darnley--words that Darnley was
 proud of,--while Mary, returning on the second day of writing to the
 topic, does not quote Darnley's brave words, but merely contrasts his
-speaking "very bravely at the beginning" with his pitiful and craven
+speaking "very bravely at the beginning" with his pitiful and [[Craven|craven]]
 later submission; "he has ever the tear in his eye," with what follows.
 (_Mystery_, paragraph 12, p. 402.)
 
 When we add to these and other proofs the strange lists of memoranda in
-the middle of the pages of the letter, and the breach in internal
-chronology which was apparently caused by Mary's writing, on her second
+the middle of the pages of the letter, and the [[Breach|breach]] in internal
+[[Chronology|chronology]] which was apparently caused by Mary's writing, on her second
 day, on the clean verso of a page on the other side of which she had
 written some lines during her first night in Glasgow; when we add the
 dramatic changes of her mood, and the heart-breaking evidence of a
@@ -390,7 +390,7 @@ his whole indictment (Oo. 7. 47. fol. 17 b.).
 
 The letters are not known to have been seen by any man--they or the
 silver casket--after the death of the earl of Gowrie (who possessed
-them). In May 1584 Bowes, the English ambassador to Holyrood, had
+them). In May 1584 [[Bow|Bowes]], the English ambassador to Holyrood, had
 endeavoured to procure them for Elizabeth, "for the secrecy and benefit
 of the cause." Conceivably the letters fell into the hands of James VI.
 and were destroyed by his orders.     (A. L.)

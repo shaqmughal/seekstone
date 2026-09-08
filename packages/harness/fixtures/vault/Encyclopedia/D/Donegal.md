@@ -9,9 +9,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Donegal"
 # Donegal
 
 DONEGAL, a county in the extreme north-west of Ireland, in the province
-of Ulster, bounded N. and W. by the Atlantic Ocean, E. by Lough Foyle
+of Ulster, bounded N. and W. by the [[Atlantic Ocean]], E. by Lough Foyle
 and the counties Londonderry and Tyrone, and S. by Donegal Bay and the
-counties Fermanagh and Leitrim. The area is 1,197,153 acres, or about
+counties [[Fermanagh]] and [[Leitrim]]. The area is 1,197,153 acres, or about
 1871 sq. m., the county being the largest in Ireland after Cork and
 Mayo. This portion of the country possesses little natural wealth; its
 physical characteristics are against easy communications, and although
@@ -23,7 +23,7 @@ George Hill to introduce wealth from without into the county, and to
 develop its resources in this, almost the only possible direction. The
 county possesses a large extent of sea-coast indented by numerous
 inlets. Ballyshannon harbour, the most southern of these, is small, and
-has a bar at its mouth, as has Donegal harbour farther north. Killybegs
+has a bar at its mouth, as has Donegal harbour farther north. [[Killybegs]]
 harbour is well sheltered, and capable of receiving large vessels.
 These, with Bruckles or M'Swiney's Bay, and Teelin harbour, suitable for
 small vessels, are arms of the fine inlet of Donegal Bay. The western
@@ -38,14 +38,14 @@ northerly point of the mainland of Ireland, the varied and extensive
 Lough Swilly runs far into the interior. From these two loughs much land
 has been reclaimed. Numerous islands and rocks stud the coast. The
 largest island is North Aran, about 15 m. in circumference, with a lofty
-hill in its centre, and a gradual declivity down to the sea. On the
+hill in its centre, and a [[Gradual|gradual]] declivity down to the sea. On the
 northern coast are Tory Island, and, farther east, Inishtrahull, the
 _ultima Thule_ of Ireland. The inhabitants of these islands obtain a
 precarious livelihood by fishing, kelp-burning and rude husbandry, but
 are often reduced to extreme destitution.
 
 Mountains and irregular groups of highlands occupy the whole interior of
-the county, and a considerable portion is bog and moorland. Errigal
+the county, and a considerable portion is [[Bog|bog]] and moorland. Errigal
 mountain in the north-west attains an elevation of 2466 ft. and commands
 from its summit a fine view over a considerable portion of the country.
 In its vicinity, the Derryveagh mountains reach 2240 ft. in Slieve
@@ -71,8 +71,8 @@ through some of the best cultivated land in the county. The Foyle,
 augmented by their contributions, and by those of several other branches
 from the counties Tyrone and Londonderry, proceeds northward,
 discharging its waters into the southern extremity of Lough Foyle, at
-the city of Londonderry. It is navigable for vessels of large burden to
-this place, and thence by lighters of fifty tons as far as Lifford.
+the city of Londonderry. It is navigable for vessels of large [[Burden|burden]] to
+this place, and thence by lighters of fifty tons as far as [[Lifford]].
 Boats of fourteen tons can proceed up the Finn river as far as
 Castlefinn. The fine river Erne flows from Lough Erne through the
 southern extremity of the county into the southern extremity of Donegal
@@ -89,7 +89,7 @@ which the pilgrims are ferried over is less than 1 acre. The landscape
 round Lough Derg is desolate and sombre in the extreme, barren moors and
 heathy hills surrounding it on all sides. Salmon, sea-trout and brown
 trout afford sport in most of the rivers and loughs, and Glenties for
-the Owenea river, and Gweedore for the Clady, in the west; Killybegs for
+the Owenea river, and [[Gweedore]] for the Clady, in the west; Killybegs for
 the Eanymore and Eask, in the south; and Rathmelton and Rosapenna for
 the Owencarrow and Leannan, in the north, may be mentioned as centres.
 Ballyshannon and Bundoran, in the extreme south, are centres for the
@@ -98,14 +98,14 @@ Erne and other waters outside the county.
   _Geology._--The dominant feature in the geology of this county is the
   north-east and south-west strike forced upon the older rocks during
   earth-movements that set in at the close of Silurian times. The
-  granite that forms characteristically the core of the folds is
-  probably of the same age as that of Leinster, or may possibly
+  granite that forms characteristically the core of the [[Fold|folds]] is
+  probably of the same age as that of [[Leinster]], or may possibly
   represent older igneous masses, brought into a general parallelism
   during the main epoch of stress. The oldest recognizable series of
-  rocks is the Dalradian, and its quartzites form the white summits of
+  rocks is the [[Dalradian]], and its quartzites form the white summits of
   Muckish, Errigal and Aghla. The intruding granite, which predominates
   in the north-west, has frequently united with the metamorphic series
-  to form composite gneiss. In the southern mass near Pettigo, once
+  to form composite [[Gneiss|gneiss]]. In the southern mass near Pettigo, once
   regarded as Archaean and fundamental, residual "eyes" of the
   hornblendic rocks that are associated with the Dalradian series remain
   floating, as it were, in the gneiss. North of this, the country is
@@ -114,12 +114,12 @@ Erne and other waters outside the county.
   Gweebarra, or Glen Beagh, of the Glendowan mountains, and the Aghla
   ridge, have all been determined by the general strike imparted to the
   country. At Donegal Bay the Lower Carboniferous sandstone and
-  limestone come in as a synclinal, and the limestone extends to
+  [[Limestone|limestone]] come in as a synclinal, and the limestone extends to
   Bundoran. Small Carboniferous outliers on the summits of the great
   cliff of Slieve League show the former extension of these strata. Bog
   iron-ore is raised as a gas-purifier; and talc-schist has been worked
   for steatite at Crohy Head. In most parts of the west the patches of
-  glacial drift form the only agricultural land. The fine-grained
+  glacial [[Drift|drift]] form the only agricultural land. The fine-grained
   sandstone of Mount Charles near Donegal is a well-known building
   stone, and the granites of the north-west have attracted much
   attention.
@@ -127,7 +127,7 @@ Erne and other waters outside the county.
 _Industries._--The modes of agriculture present little that is peculiar
 to the county, and the spade still supplies the place of the plough
 where the rocky nature of the surface prevents the application of the
-latter implement. The soil of the greater portion of the county, i.e.
+latter [[Implement|implement]]. The soil of the greater portion of the county, i.e.
 the granite, quartz and mica slate districts, is thin and cold, while
 that on the carboniferous limestone is warm and friable. Owing to the
 boggy nature of the soil, agriculture has not made much progress,
@@ -146,10 +146,10 @@ while the manufacture of excellent homespun, woollen stockings and
 worked muslin is carried on pretty extensively. The trade in these
 manufactures and in the domestic produce of the county finds its
 principal outlets through the port of Londonderry and the inland town of
-Strabane, Co. Tyrone. The deep-sea fisheries are important, and are
-centred at Killybegs, Gweedore and Rathmullen. The salmon fishery is
+Strabane, Co. Tyrone. The deep-sea [[Fisheries|fisheries]] are important, and are
+centred at Killybegs, Gweedore and Rathmullen. The salmon [[Fishery|fishery]] is
 also prosecuted to a considerable extent, the principal seats of the
-trade being at Ballyshannon and Letterkenny.
+trade being at Ballyshannon and [[Letterkenny]].
 
 The railway system includes the County Donegal railway from Londonderry
 south-west to Donegal town and Killybegs, with branches to Glenties, a
@@ -164,7 +164,7 @@ _Population and Administration._--The population (185,635 in 1891;
 173,722 in 1901) decreases less seriously than in most Irish counties,
 though the proportion of emigrants is large. About 78% of the population
 is Roman Catholic, and almost the whole is rural. The native Erse
-naturally dies out slowly in this remote county, and the Donegal dialect
+naturally dies out slowly in this remote county, and the Donegal [[Dialect|dialect]]
 is said to be the purest in the Irish language. The towns are small in
 extent and importance. Lifford (pop. 446), the county town, is
 practically a suburb of Strabane, in the neighbouring Co. Tyrone.
@@ -181,10 +181,10 @@ particularly fine; Carrick, Malin Head, the beautiful land-locked bay of
 Mulroy, Narin on Boylagh Bay, Portsalon on Lough Swilly, and Stranorlar,
 a small market town near the fine mountain pass of Barnesmore.
 
-Donegal contains seven baronies and fifty parishes. Assizes are held at
+Donegal contains seven baronies and fifty parishes. [[Assize|Assizes]] are held at
 Lifford, and quarter sessions at Ballyshannon, Buncrana, Donegal,
 Cardonagh, Glenties, Letterkenny and Lifford. The county is in the
-Protestant dioceses of Clogher and Derry, and the Roman Catholic
+Protestant dioceses of [[Clogher]] and Derry, and the Roman Catholic
 dioceses of Raphoe, Clogher and Derry. The county returned twelve
 members to the Irish parliament; after the Union it returned two; but it
 is now divided into north, east, south and west divisions, each
@@ -209,11 +209,11 @@ the O'Donnells, anciently their chief residence, and now a fine ruin
 standing close to the water's edge; Burt Castle, built in the reign of
 Henry VIII. on the shores of Lough Swilly by Sir Cahir O'Dogherty, to
 whom is also attributed the erection of Green Castle, one of the
-strongholds of the clan on Lough Foyle. Near the Castle of Doe, or
-M'Swiney's Castle, at Horn Head, is a natural perforation in the roof of
+strongholds of the [[Clan|clan]] on Lough Foyle. Near the Castle of Doe, or
+M'Swiney's Castle, at [[Horn]] Head, is a natural perforation in the roof of
 a cave, called M'Swiney's Gun, formed by the workings of the ocean into
 the overhanging cliff. When the wind blows due north, and the tide is at
-half flood, the gun is seen to spout up jets of water to a height of 100
+half [[Flood|flood]], the gun is seen to spout up jets of water to a height of 100
 ft., attended with explosions heard occasionally in favourable weather
 at an immense distance. Gulmore Fort, on the coast of Lough Swilly,
 supposed to have been erected by the O'Doghertys, having come into the

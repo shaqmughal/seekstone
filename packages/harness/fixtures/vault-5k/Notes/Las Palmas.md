@@ -1,10 +1,10 @@
 # Las Palmas
 
-LAS PALMAS, the capital of the Spanish island of Grand Canary, in the
+LAS PALMAS, the capital of the Spanish island of [[Grand Canary]], in the
 Canary archipelago, and of an administrative district which also
-comprises the islands of Lanzarote and Fuerteventura; on the east coast,
+comprises the islands of Lanzarote and [[Fuerteventura]]; on the east coast,
 in 28° 7´ N. and 5° 24´ W. Pop. (1900) 44,517. Las Palmas is the largest
-city in the Canary Islands, of which it was the capital until 1833. It
+city in the [[Canary Islands]], of which it was the capital until 1833. It
 is the seat of a court of appeal, of a brigadier, who commands the
 military forces in the district, of a civil lieutenant-governor, who is
 independent of the governor-general except in connexion with elections

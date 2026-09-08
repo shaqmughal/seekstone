@@ -8,8 +8,8 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Mayor"
 
 # Mayor
 
-MAYOR (Lat. _major_, greater), in modern times the title of a municipal
-officer who discharges judicial and administrative functions. The French
+MAYOR (Lat. _[[Major|major]]_, greater), in modern times the title of a municipal
+officer who [[Discharge|discharges]] judicial and administrative functions. The French
 form of the word is _maire_. In Germany the corresponding title is
 _Bürgermeister_, in Italy _sindico_, and in Spain _alcalde_. "Mayor" had
 originally a much wider significance. Among the nations which arose on
@@ -45,7 +45,7 @@ formed a group on the populations of the towns, the _majores baneriae_
 or _vexilli_.
 
 In England the major is the modern representative of the lord's bailiff
-or reeve (see BOROUGH). We find the chief magistrate of London bearing
+or reeve (see BOROUGH). We find the chief [[Magistrate|magistrate]] of London bearing
 the title of portreeve for considerably more than a century after the
 Conquest. This official was elected by popular choice, a privilege
 secured from king John. By the beginning of the 11th century the title
@@ -59,13 +59,13 @@ boroughs followed at various intervals.
   person elected annually on the 9th of November by the council of the
   borough from among the aldermen or councillors or persons qualified to
   be such. His term of office is one year, but he is eligible for
-  re-election. He may appoint a deputy to act during illness or absence,
+  re-election. He may appoint a [[Deputy|deputy]] to act during illness or absence,
   and such deputy must be either an alderman or councillor. A mayor who
   is absent from the borough for more than two months becomes
   disqualified and vacates his office. A mayor is _ex officio_ during
   his year of office and the next year a justice of the peace for the
   borough. He receives such remuneration as the council thinks
-  reasonable. The office of mayor in an English borough does not entail
+  reasonable. The office of mayor in an English borough does not [[Entail|entail]]
   any important administrative duties. It is generally regarded as an
   honour conferred for past services. The mayor is expected to devote
   much of his time to ornamental functions and to preside over meetings
@@ -82,7 +82,7 @@ boroughs followed at various intervals.
   the corresponding functionaries in France (except Paris), the more
   important cities of Italy, and in Germany, where, however, the central
   government must confirm the choice of the council. Direct appointment
-  by the central government exists in Belgium, Holland, Denmark, Norway,
+  by the central government exists in [[Belgium]], Holland, [[Denmark]], Norway,
   Sweden and the smaller towns of Italy and Spain. As a rule, too, the
   term of office is longer in other countries than in the United
   Kingdom. In France election is for four years, in Holland for six, in
@@ -102,7 +102,7 @@ boroughs followed at various intervals.
   in the articles on the various countries; see also A. Shaw, _Municipal
   Government in Continental Europe_; J. A. Fairlie, _Municipal
   Administration_; S. and B. Webb, _English Local Government_; Redlich
-  and Hirst, _Local Government in England_; A. L. Lowell, _The
+  and Hirst, _Local Government in England_; A. L. [[Lowell]], _The
   Government of England_.
 
 
@@ -116,17 +116,17 @@ FOOTNOTES:
     Dublin) have acquired by prescription the prefix of "lord." In the
     case of London it seems to date from 1540. It has also been conferred
     during the closing years of the 19th century by letters patent on
-    other cities--Birmingham, Liverpool, Manchester, Bristol, Sheffield,
-    Leeds, Cardiff, Bradford, Newcastle-on-Tyne, Belfast, Cork. In 1910
+    other cities--Birmingham, [[Liverpool]], Manchester, [[Bristol]], Sheffield,
+    [[Leeds]], Cardiff, [[Bradford]], Newcastle-on-Tyne, [[Belfast]], Cork. In 1910
     it was granted to Norwich. Lord mayors are entitled to be addressed
-    as "right honourable."
+    as "right [[Honourable|honourable]]."
 
 
 
 
 MAYOR OF THE PALACE.--The office of mayor of the palace was an
-institution peculiar to the Franks of the Merovingian period. A
-landowner who did not manage his own estate placed it in the hands of a
+institution peculiar to the [[Franks]] of the Merovingian period. A
+landowner who did not [[Manage|manage]] his own estate placed it in the hands of a
 steward (_major_), who superintended the working of the estate and
 collected its revenues. If he had several estates, he appointed a chief
 steward, who managed the whole of the estates and was called the _major
@@ -136,13 +136,13 @@ officer took the name of "mayor of the palace." The mayor of the palace,
 however, did not remain restricted to domestic functions; he had the
 discipline of the palace and tried persons who resided there. Soon his
 functions expanded. If the king were a minor, the mayor of the palace
-supervised his education in the capacity of guardian (_nutricius_), and
+supervised his education in the capacity of [[Guardian|guardian]] (_nutricius_), and
 often also occupied himself with affairs of state. When the king came of
 age, the mayor exerted himself to keep this power, and succeeded. In the
 7th century he became the head of the administration and a veritable
-prime minister. He took part in the nomination of the counts and dukes;
+prime minister. He took part in the nomination of the counts and [[Dukes|dukes]];
 in the king's absence he presided over the royal tribunal; and he often
-commanded the armies. When the custom of commendation developed, the
+commanded the armies. When the custom of [[Commendation|commendation]] developed, the
 king charged the mayor of the palace to protect those who had commended
 themselves to him and to intervene at law on their behalf. The mayor of
 the palace thus found himself at the head of the _commendati_, just as
@@ -158,10 +158,10 @@ Burgundy) and Erkinoald (in Neustria) stirred up the great nobles, who
 claimed the right to take part in their nomination, against the king.
 Others again, sought to exercise the power in their own name both
 against the king and against the great nobles--such as Ebroïn (in
-Neustria), and, later, the Carolingians Pippin II., Charles Martel, and
+Neustria), and, later, the [[Carolingians]] Pippin II., Charles Martel, and
 Pippin III., who, after making use of the great nobles, kept the
 authority for themselves. In 751 Pippin III., fortified by his
-consultation with Pope Zacharias, could quite naturally exchange the
+consultation with Pope Zacharias, could quite naturally [[Exchange|exchange]] the
 title of mayor for that of king; and when he became king, he suppressed
 the title of mayor of the palace. It must be observed that from 639
 there were generally separate mayors of Neustria, Austrasia and
@@ -171,9 +171,9 @@ sought to supplant the others; the Pippins and Charles Martel succeeded,
 and their victory was at the same time the victory of Austrasia over
 Neustria and Burgundy.
 
-  See G. H. Pertz, _Geschichte der merowingischen Hausmeier_ (Hanover,
+  See G. H. Pertz, _Geschichte der merowingischen Hausmeier_ ([[Hanover]],
   1819); H. Bonnell, _De dignitate majoris domus_ (Berlin, 1858); E.
-  Hermann, _Das Hausmeieramt, ein echt germanisches Amt_, vol. ix. of
+  [[Hermann]], _Das Hausmeieramt, ein echt germanisches Amt_, vol. ix. of
   _Untersuchungen zur deutschen Staats- und Rechtsgeschichte_, ed. by O.
   Gierke (Breslau, 1878, seq.); G. Waitz, _Deutsche
   Verfassungsgeschichte_, 3rd ed., revised by K. Zeumer; and Fustel de

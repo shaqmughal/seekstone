@@ -13,23 +13,23 @@ ATLANTIC OCEAN,
 
 a belt of water, roughly of an S-shape, between the western coasts of
 Europe and Africa and the eastern coasts of North and South America. It
-extends northward to the Arctic Basin and southward to the Great
+extends northward to the [[Arctic]] Basin and southward to the Great
 Southern Ocean. For purposes of measurement the polar boundaries are
 taken to be the Arctic and Antarctic circles, although in discussing the
 configuration and circulation it is impossible to adhere strictly to
 these limits. The Atlantic Ocean consists of two characteristic
-divisions, the geographical equator forming a fairly satisfactory line
+divisions, the geographical [[Equator|equator]] forming a fairly satisfactory line
 of division into North and South Atlantic. The North Atlantic, by far
-the best-known of the main divisions of the hydrosphere, is remarkable
+the best-known of the main divisions of the [[Hydrosphere|hydrosphere]], is remarkable
 for the immense length of its coast-line and for the large number of
 enclosed seas connected with it, including on the western side the
-Caribbean Sea and Gulf of Mexico, the Gulf of St Lawrence and Hudson
-Bay, and on the eastern side the Mediterranean and Black Sea, the North
+Caribbean Sea and Gulf of Mexico, the Gulf of St Lawrence and [[Hudson]]
+Bay, and on the eastern side the Mediterranean and [[Black Sea]], the North
 Sea and the Baltic. The North Atlantic is connected with the Arctic
 Basin by four main channels: (1) Hudson Strait, about 60 m. wide,
 communicating with the gulfs and straits of the North American Arctic
 archipelago; (2) Davis Strait, about 200 m. wide, leading to Baffin Bay;
-(3) Denmark Strait, between Greenland and Iceland, 130 m. wide; and (4)
+(3) Denmark Strait, between Greenland and [[Iceland]], 130 m. wide; and (4)
 the "Norwegian Sea," about 400 m. wide, extending from Iceland to the
 Faeroe Islands, the Shetland Islands and the coast of Norway. The width
 of the North Atlantic in lat. 60 deg., approximately where it breaks up
@@ -53,7 +53,7 @@ drainage area. The "long slopes" of the continents on both sides are
 directed towards the Atlantic, which accordingly receives the waters of
 a large proportion of the great rivers of the world, including the St
 Lawrence, the Mississippi, the Orinoco, the Amazon, the rivers of the La
-Plata, the Congo, the Niger, the Loire, the Rhine, the Elbe and the
+Plata, the Congo, the Niger, the Loire, the Rhine, the [[Elbe]] and the
 great rivers of the Mediterranean and the Baltic. Sir J. Murray
 estimates the total area of land draining to the Atlantic to be
 13,432,000 sq. m., or with the Arctic area nearly 20,000,000 sq. m.,
@@ -68,9 +68,9 @@ calculations give the amount of precipitation received on this area at
 The dominant feature of the relief of the Atlantic basin is a submarine
 ridge running from north to south from about lat. 50 deg. N. to lat. 40
 deg. S., almost exactly in the central line, and following the S-shape
-of the coasts. Over this ridge the average depth is about 1700 fathoms.
+of the coasts. Over this ridge the average depth is about 1700 [[Fathom|fathoms]].
 Towards its northern end the ridge widens and rises to the plateau of
-the Azores, and in about 50 deg. N. lat. it merges with the "Telegraph
+the [[Azores]], and in about 50 deg. N. lat. it merges with the "Telegraph
 Plateau," which extends across nearly the whole ocean from Ireland to
 Newfoundland. North of the fiftieth parallel the depths diminish towards
 the north-east, two long submarine ridges of volcanic origin extend
@@ -92,11 +92,11 @@ exceeded in a series of patches to which Murray has given the name of
 "Deeps." In the eastern trough the Peake Deep lies off the Bay of Biscay
 in 20 deg. W. long., Monaco Deep and Chun Deep off the north-west of
 Africa, Moseley Deep off the Cape Verde Islands, Krech Deep off the
-Liberian coast, and Buchanan Deep off the mouth of the Congo. The
+Liberian coast, and [[Buchanan]] Deep off the mouth of the Congo. The
 western trough extends northwards into Davis Strait, forming a
 depression in the Telegraph plateau; to the south of Newfoundland and
 Nova Scotia are Sigsbee Deep, Libbey Deep and Suhm Deep, each of small
-area; north-east of the Bahamas Nares Deep forms the largest and deepest
+area; north-east of the [[Bahamas]] Nares Deep forms the largest and deepest
 depression in the Atlantic, in which a sounding of 4561 fathoms was
 obtained (70 m. north of Porto Rico) by the U.S. ship "Blake" in 1883.
 Immediately to the south of Nares Deep lies the smaller Makarov Deep;
@@ -104,7 +104,7 @@ and off the coast of South America are Tizard Deep and Havergal Deep.
 
 Before the Antarctic expeditions of 1903-1904 our knowledge of the form
 of the sea bottom south of 40 deg. S. lat. was almost wholly derived
-from the soundings of the expedition of Sir J.C. Ross in the "Erebus"
+from the soundings of the expedition of Sir J.C. Ross in the "[[Erebus]]"
 and "Terror" (1839-1843), and the bathymetrical maps published were
 largely the result of deductions based on one sounding taken by Ross in
 68 deg. 34' S. lat., 12 deg. 49' W. long., in which he recorded a depth
@@ -113,9 +113,9 @@ sounding to be erroneous; the "Scotia" obtained samples of bottom, in
 almost the same spot, from a depth of 2660 fathoms. Combining the
 results of recent soundings, Dr W.S. Bruce, the leader of the Scottish
 expedition, finds that there is a ridge "extending in a curve from
-Madagascar to Bouvet Island, and from Bouvet Island to the Sandwich
+[[Madagascar]] to Bouvet Island, and from Bouvet Island to the Sandwich
 group, whence there is a forked connexion through the South Orkneys to
-Graham's Land, and through South Georgia to the Falkland Islands and the
+Graham's Land, and through South Georgia to the [[Falkland Islands]] and the
 South American continent." Again, the central ridge of the South
 Atlantic extends a thousand miles farther south than was supposed,
 joining the east and west ridge, just described, between the Bouvet
@@ -155,7 +155,7 @@ about 60% of the whole. At a depth of about 3000 fathoms, i.e. in the
 shallower tropical waters, especially on the central ridge, considerable
 areas are covered by Pteropod ooze, a deposit consisting largely of the
 shells of pelagic molluscs. Diatom ooze is the characteristic deposit in
-high southern latitudes. The terrigenous deposits consist of blue muds,
+high southern [[Latitude|latitudes]]. The terrigenous deposits consist of blue muds,
 red muds (abundant along the coast of Brazil, where the amount of
 organic matter present is insufficient to reduce the iron in the matter
 brought down by the great rivers to produce blue muds), green muds and
@@ -168,7 +168,7 @@ its age; but E. Suess and M. Neumayr, while they regard the basin of the
 Pacific as of great antiquity, believe the Atlantic to date only from
 the Mesozoic age. Neumayr finds evidence of the existence of a continent
 between Africa and South America, which protruded into the central North
-Atlantic, in Jurassic times. F. Kossmat has shown that the Atlantic had
+Atlantic, in [[Jurassic]] times. F. Kossmat has shown that the Atlantic had
 substantially its present form during the Cretaceous period.
 
 
@@ -178,7 +178,7 @@ In describing the mean distribution of temperature in the waters of the
 Atlantic it is necessary to treat the northern and southern divisions
 separately. The heat equator, or line of maximum mean surface
 temperature, starts from the African coast in about 5 deg. N. lat., and
-closely follows that parallel to 40 deg. W. long., where it bends
+closely follows that parallel to 40 deg. W. long., where it [[Bend|bends]]
 northwards to the Caribbean Sea. North of this line, near which the
 temperature is a little over 80 deg. F., the gradient trends somewhat to
 the east of north, and the temperature is slightly higher on the western
@@ -187,7 +187,7 @@ deg. F. runs nearly east and west. Beyond this parallel the gradient is
 directed towards the north-west, and temperatures are much higher on the
 European than on the American side. From the surface to 500 fathoms the
 general form of the isothermals remains the same, except that instead of
-an equatorial maximum belt there is a focus of maximum temperature off
+an equatorial maximum belt there is a [[Focus|focus]] of maximum temperature off
 the eastern coast of the United States. This focus occupies a larger
 area and becomes of greater relative intensity as the depth increases
 until, at 500 fathoms, it becomes an elongated belt extending right
@@ -279,7 +279,7 @@ equator, moving between it and about 11 deg. N. lat.
 
 The part of this atmospheric circulation which is steadiest in its
 action is the trade winds, and this is, therefore, the most effective in
-producing drift movement of the surface waters. The trade winds give
+producing [[Drift|drift]] movement of the surface waters. The trade winds give
 rise, in the region most exposed to their influence, to two
 westward-moving drifts--the equatorial currents, which are separated in
 parts of their course by currents moving in the opposite direction along
@@ -324,7 +324,7 @@ Atlantic expedition. More recently, the area has been further explored
 by the German expedition in the ss. "National," the Danish "Ingolf"
 expedition, and the minor expeditions of the "Michael Sars," "Jackal,"
 "Research," &c., and since 1902 it has been periodically examined by the
-International Council for the Study of the Sea. Much has also been done
+[[International]] Council for the Study of the Sea. Much has also been done
 by the discussion of observations made on board vessels belonging to the
 mercantile marine of various countries. It may now be taken as generally
 admitted that the current referred to breaks into three main branches.

@@ -6,7 +6,7 @@ and the details of his creed. We learn, however, from Suidas, and from
 his biographer Eunapius, that he was born at Chalcis in Coele-Syria, the
 scion of a rich and illustrious family, that he studied under Anatolius
 and afterwards under Porphyry, the pupil of Plotinus, that he himself
-gathered together a large number of disciples of different nations with
+gathered together a large number of [[Disciple|disciples]] of different nations with
 whom he lived on terms of genial friendship, that he wrote "various
 philosophical books," and that he died during the reign of
 Constantine,--according to Fabricius, before A.D. 333. His residence
@@ -83,7 +83,7 @@ rank. We read of gods, angels, demons and heroes, of twelve heavenly
 gods whose number is increased to thirty-six or three hundred and sixty,
 and of seventy-two other gods proceeding from them, of twenty-one chiefs
 ([Greek: hegemones]) and forty-two nature-gods ([Greek: theoi
-genesiourgoi]), besides guardian divinities, of particular individuals
+genesiourgoi]), besides [[Guardian|guardian]] divinities, of particular individuals
 and nations. The world is thus peopled by a crowd of superhuman beings
 influencing natural events, possessing and communicating knowledge of
 the future, and not inaccessible to prayers and offerings.
@@ -100,7 +100,7 @@ and unlimited.
 
 Another difficulty of the system is the account given of nature. It is
 said to be "bound by the indissoluble chains of necessity which men call
-fate," as distinguished from divine things which are not subject to
+[[Fate|fate]]," as distinguished from divine things which are not subject to
 fate. Yet, being itself the result of higher powers becoming corporeal,
 a continual stream of elevating influence flows from them to it,
 interfering with its necessary laws and turning to good ends the
@@ -142,7 +142,7 @@ one, from whom the first god and king spontaneously proceeds; while
 after these follow the ethereal, empyrean, and heavenly gods, and the
 various orders of archangels, angels, demons, and heroes distinguished
 in nature, power, and activity, and in greater profusion than even the
-imagination of Iamblichus had conceived. He says that all the gods are
+[[Imagination|imagination]] of Iamblichus had conceived. He says that all the gods are
 good (though he in another place admits the existence of evil demons who
 must be propitiated), and traces the source of evil to matter; rebuts
 the objection that their answering prayer implies passivity on the part

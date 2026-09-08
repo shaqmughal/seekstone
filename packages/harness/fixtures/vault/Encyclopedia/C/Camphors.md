@@ -6,11 +6,11 @@ topic: electricity-theory
 
 # Camphors
 
-CAMPHORS, organic chemical compounds, the alcohols and ketones of the
-hydrocarbons known as terpenes, occurring associated with volatile oils
+CAMPHORS, organic chemical compounds, the alcohols and [[Ketones|ketones]] of the
+[[Hydrocarbon|hydrocarbons]] known as terpenes, occurring associated with volatile oils
 in many plants. They are extracted together with volatile oils by
 distilling certain plants with steam, the volatile oils being
-subsequently separated by fractional distillation. The term "camphor" is
+subsequently separated by fractional [[Distillation|distillation]]. The term "camphor" is
 generally applied to the solid products so obtained, and hence includes
 the "stearoptenes," or solid portions of the volatile oils. They are
 mostly white crystalline solids, possessing a characteristic odour; they
@@ -42,14 +42,14 @@ sparingly soluble in water, but very soluble in alcohol, ether and in
 alkaline solutions. In medicine it is used as an antiseptic, being more
 active than phenol. Iodine and potash convert it into di-iodthymol,
 which has been introduced in surgery under the names _aristol_ and
-_annidalin_, as a substitute for iodoform.
+_annidalin_, as a substitute for [[Iodoform|iodoform]].
 
 _Borneol, Borneo camphor_ or camphol, also known as Malayan, Barus or
 Dryobalanops camphor, C10H17OH, occurs in fissures in the wood of
 _Dryobalanops aromatica_, a majestic tree flourishing in the East
 Indies. This product is dextro-rotatory; the laevo and inactive
 modifications occur in the so-called baldrianic camphor. Borneol melts
-at 203 deg. and boils at 212 deg.. It is very similar to common or Japan
+at 203 deg. and boils at 212 deg.. It is very similar to common or [[Japan]]
 camphor, but has a somewhat peppery odour. Sodium and alcohol reduce
 common camphor to a mixture of d- and l-borneol.
 
@@ -64,7 +64,7 @@ out. This is filtered, and the remainder, about 20% of the total, which
 is retained in solution, is extracted by fractional distillation and
 cooling the distillate. The crude camphor so obtained is exported from
 Japan in two grades--Samuel A and Samuel B. It is purified by mixing
-with a little charcoal, sand, iron filings or quicklime and subliming,
+with a little [[Charcoal|charcoal]], sand, iron filings or quicklime and subliming,
 by steam distillation or by crystallization. Common camphor forms a
 translucent mass of hexagonal prisms, melting at 175 deg. and boiling at
 204 deg. It sublimes very readily. In alcoholic solution it is
@@ -76,17 +76,17 @@ camphor" is pinene hydrochloride (see TERPENES).
 Externally applied it acts medicinally as a counter-irritant, and, in
 some degree, as a local anaesthetic, being also a definite antiseptic.
 It is, therefore, largely used in liniments for the relief of myalgia,
-sciatica, lumbago, etc. Combined with chloroform, thymol or carbolic
+sciatica, lumbago, etc. Combined with [[Chloroform|chloroform]], thymol or carbolic
 acid, it is a valuable local application for neuralgia and for toothache
 due to dental caries. Taken internally, camphor is a nerve stimulant, a
 diaphoretic and a feeble antipyretic. It is excreted by the kidneys as
 various substances, including campho-glycuric acid (Schmiedeberg). In
 large doses it causes marked nervous symptoms, exhilaration being
-followed by abdominal pain, violent epileptiform convulsions, coma and
-death. Its internal uses are in hysteria, and in such conditions as
+followed by abdominal pain, violent epileptiform convulsions, [[Coma|coma]] and
+death. Its internal uses are in [[Hysteria|hysteria]], and in such conditions as
 diarrhoea, dysentery and cholera. It is a popular remedy for "cold in
 the head," but it is not to be relied upon as a prophylactic against
-infection either by an ordinary cold or true influenza.
+infection either by an ordinary cold or true [[Influenza|influenza]].
 
 ## See also
 

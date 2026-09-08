@@ -9,9 +9,9 @@ tags: [heraldry-theory, natural-history]
 
 FRANCIS OF PAOLA (or PAULA), ST, founder of the Minims, a religious
 order in the Catholic Church, was born of humble parentage at Paola in
-Calabria in 1416, or according to the Bollandists 1438. As a boy he
+[[Calabria]] in 1416, or according to the [[Bollandists]] 1438. As a boy he
 entered a Franciscan friary, but left it and went to live as a hermit in
-a cave on the seashore near Paola. Soon disciples joined him, and with
+a cave on the seashore near Paola. Soon [[Disciple|disciples]] joined him, and with
 the bishop's approval he built a church and monastery. At first they
 called themselves "Hermits of St Francis"; but the object they proposed
 to themselves was to go beyond even the strict Franciscans in fasts and
@@ -33,15 +33,15 @@ founded during Francis's lifetime. He never left France, and died in
 
 The Rule was so strict that the popes long hesitated to confirm it in
 its entirety; not until 1506 was it finally sanctioned. The most special
-feature is an additional vow to keep a perpetual Lent of the strictest
-kind, not only flesh meat but fish and all animal products--eggs, milk,
-butter, cheese, dripping--being forbidden, so that the diet was confined
+feature is an additional vow to keep a perpetual [[Lent]] of the strictest
+kind, not only flesh [[Meat|meat]] but fish and all animal products--eggs, milk,
+[[Butter|butter]], [[Cheese|cheese]], dripping--being forbidden, so that the diet was confined
 to bread, vegetables, fruit and oil, and water was the only drink. Thus
 in matter of diet the Minims surpassed in austerity all orders in the
 West, and probably all permanently organized orders in the East. The
 strongly ascetical spirit of the Minims manifested itself in the title
 borne by the superiors of the houses--not abbot (father), or prior, or
-guardian, or minister, or rector, but corrector; and the general
+[[Guardian|guardian]], or minister, or rector, but corrector; and the general
 superior is the corrector general. Notwithstanding its extreme severity
 the order prospered. At the death of the founder it had five
 provinces--Italy, France, Tours, Germany, Spain. Later there were as
@@ -49,15 +49,15 @@ many as 450 monasteries, and some missions in India. There never was a
 Minim house in England or Ireland. It ranks as one of the Mendicant
 orders. In 1909 there were some twenty monasteries, mostly in Sicily,
 but one in Rome (S. Andrea delle Fratte), and one in Naples, in
-Marseilles and in Cracow. There have been Minim nuns (only one convent
+[[Marseilles]] and in Cracow. There have been Minim nuns (only one convent
 has survived, till recently at Marseilles) and Minim Tertiaries, in
 imitation of the Franciscan Tertiaries. The habit of the Minims is
 black.
 
   See Helyot, _Hist. des ordres religieux_ (1714), vii. c. 56; Max
   Heimbucher, _Orden und Kongregationen_ (1896), i. Sec. 52; the article
-  "Franz von Paula" in Wetzer und Welte, _Kirchenlexicon_ (ed. 2), and
-  in Herzog, _Realencyklopaedie_ (ed. 3); Catholic _Dictionary_, art.
+  "[[Franz]] von Paula" in Wetzer und Welte, _Kirchenlexicon_ (ed. 2), and
+  in [[Herzog]], _Realencyklopaedie_ (ed. 3); Catholic _Dictionary_, art.
   "Minims."     (E. C. B.)
 
 ## See also

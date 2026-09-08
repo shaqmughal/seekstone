@@ -9,7 +9,7 @@ id: 42-5852
 
 BRIDLINGTON, a market town, municipal borough and seaside resort in the
 Buckrose parliamentary division of the East Riding of Yorkshire, England,
-31 m. N.N.E. from Hull by a branch of the North Eastern railway. Pop.
+31 m. N.N.E. from [[Hull]] by a branch of the North Eastern railway. Pop.
 (1891) 8919; (1901) 12,482. It is divided into two parts, the ancient
 market town lying about 1 m. from the coast, while the modern houses of
 Bridlington Quay, the watering-place, fringe the shore of Bridlington Bay.
@@ -21,23 +21,23 @@ the priory church of an Augustinian foundation of the time of Henry I.
 There remains also the Perpendicular gateway, serving as the town-hall. The
 founder of the priory was Walter de Gaunt, about 1114, and the institution
 [v.04 p.0560] flourished until 1537, when the last prior was executed for
-taking part in the Pilgrimage of Grace. A Congregational society was
+taking part in the Pilgrimage of [[Grace]]. A Congregational society was
 founded in 1662, and its old church, dating from 1702, stood until 1906. At
 Bridlington Quay there is excellent sea-bathing, and the parade and
 ornamental gardens provide pleasant promenades. Extensive works have been
 carried out along the sea front. There is a chalybeate spring. The harbour
 is enclosed by two stone piers, and there is good anchorage in the bay. The
-municipal borough is under a mayor, 6 aldermen and 18 councillors, and has
+municipal borough is under a [[Mayor|mayor]], 6 aldermen and 18 councillors, and has
 an area of 2751 acres.
 
-The mention of four burgesses at Bridlington (Brellington, Burlington) in
+The mention of four burgesses at Bridlington (Brellington, [[Burlington]]) in
 the Domesday survey shows it to have been a borough before the Conquest.
 With the rest of the north of England, Bridlington suffered from the
 ravages of the Normans, and decreased in value from L32 in the reign of
 Edward the Confessor, when it formed part of the possessions of Earl
 Morcar, to 8s. at the time of the Domesday survey. By that time it was in
-the hands of the king by the forfeiture of Earl Morcar. It was granted by
-William II. to Gilbert de Gaunt, whose son and heir Walter founded the
+the hands of the king by the [[Forfeiture|forfeiture]] of Earl Morcar. It was granted by
+William II. to Gilbert de Gaunt, whose son and [[Heir|heir]] Walter founded the
 priory and endowed it with the manor of Bridlington and other lands. From
 this date the importance of the town steadily increased. Henry I. and
 several succeeding kings confirmed Walter de Gaunt's gift, Stephen granting
@@ -56,7 +56,7 @@ manor that the town had some kind of incorporation in the 17th century,
 although its incorporation charter was not granted until 1899, when it was
 created a municipal borough. In 1200 King John granted the prior of
 Bridlington a weekly market on Saturday and an annual fair on the vigil,
-feast and morrow of the Assumption of the Virgin Mary. Henry VI. in 1446
+feast and morrow of the [[Assumption]] of the Virgin Mary. Henry VI. in 1446
 granted the prior three new fairs yearly on the vigil, day and morrow of
 the Nativity of the Virgin Mary, the Deposition of St John, late prior of
 Bridlington, and the Translation of the same St John. All fairs and markets

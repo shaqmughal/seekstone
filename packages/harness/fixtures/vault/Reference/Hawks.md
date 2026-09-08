@@ -17,7 +17,7 @@ he went to England, and collected the abundant materials afterwards
 utilized in his _Contributions to the Ecclesiastical History of U.S.A._
 (New York, 1836-1839). These two volumes dealt with Maryland and
 Virginia, while two later ones (1863-1864) were devoted to Connecticut.
-He was the first president of the university of Louisiana (now merged in
+He was the first president of the university of [[Louisiana]] (now merged in
 Tulane). He died in New York on the 26th of September 1866.
 
 ## See also

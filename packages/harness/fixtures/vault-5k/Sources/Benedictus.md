@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Benedictus
 
 # Benedictus
 
-BENEDICTUS, the hymn of Zacharias (Luke i. 68 sqq.), so called from the
+BENEDICTUS, the hymn of Zacharias ([[Luke]] i. 68 sqq.), so called from the
 opening word of the Latin version. The hymn has been used in Christian
 worship since at least the 9th century, and was adopted into the
 Anglican Order of Morning Prayer from the Roman service of matin-lauds.

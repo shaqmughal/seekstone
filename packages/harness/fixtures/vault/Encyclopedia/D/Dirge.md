@@ -9,7 +9,7 @@ type: article
 
 DIRGE, a song or hymn of mourning, particularly one sung at funerals or
 at a Service in commemoration of the dead. It is derived from the first
-word of the antiphon _"Dirige, Domine, Deus meus, in conspectu tuo viam
+word of the [[Antiphon|antiphon]] _"Dirige, Domine, [[Deus]] meus, in conspectu tuo viam
 meam"_ (Guide, O Lord, my God, my way in Thy sight), of the opening
 psalm in the office for the dead in the Roman Church. The antiphon is
 adapted from verse 8 of Psalm v.

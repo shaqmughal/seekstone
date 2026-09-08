@@ -8,17 +8,17 @@ topic: physics
 
 DENMARK (_Danmark_), a small kingdom of Europe, occupying part of a
 peninsula and a group of islands dividing the Baltic and North Seas, in
-the middle latitudes of the eastern coast. The kingdom lies between 54°
+the middle [[Latitude|latitudes]] of the eastern coast. The kingdom lies between 54°
 33' and 57° 45' N. and between 8° 4' 54" and 12° 47' 25" E., exclusive
 of the island of Bornholm, which, as will be seen, is not to be included
 in the Danish archipelago. The peninsula is divided between Denmark and
 Germany (Schleswig-Holstein). The Danish portion is the northern and the
-greater, and is called Jutland (Dan. _Jylland_). Its northern part is
+greater, and is called [[Jutland]] (Dan. _Jylland_). Its northern part is
 actually insular, divided from the mainland by the Limfjord or
 Liimfjord, which communicates with the North Sea to the west and the
-Cattegat to the east, but this strait, though broad and possessing
+[[Cattegat]] to the east, but this strait, though broad and possessing
 lacustrine characteristics to the west, has only very narrow entrances.
-The connexion with the North Sea dates from 1825. The Skagerrack bounds
+The connexion with the North Sea dates from 1825. The Skagerrack [[Bounds|bounds]]
 Jutland to the north and north-west. The Cattegat is divided from the
 Baltic by the Danish islands, between the east coast of the Cimbric
 peninsula in the neighbourhood of the German frontier and south-western
@@ -30,11 +30,11 @@ in eastern Jutland, being little more than 500 ft. above the sea.
 Denmark, however, is nowhere low in the sense in which Holland is; the
 country is pleasantly diversified, and rises a little at the coast even
 though it remains flat inland. The landscape of the islands and the
-south-eastern part of Jutland is rich in beech-woods, corn fields and
+south-eastern part of Jutland is rich in beech-woods, [[Corn|corn]] [[Fields|fields]] and
 meadows, and even the minute islets are green and fertile. In the
 western and northern districts of Jutland this condition gives place to
 a wide expanse of moorland, covered with heather, and ending towards the
-sea in low whitish-grey cliffs. There is a certain charm even about
+sea in low whitish-grey cliffs. There is a certain [[Charm|charm]] even about
 these monotonous tracts, and it cannot be said that Denmark is wanting
 in natural beauty of a quiet order. Lakes, though small, are numerous;
 the largest are the Arresö and the Esromsö in Zealand, and the chain of
@@ -42,18 +42,18 @@ lakes in the Himmelbjerg region, which are drained by the largest river
 in Denmark, the Gudenaa, which, however, has a course not exceeding 80
 m. Many of the meres, overhung with thick beech-woods, are extremely
 beautiful. The coasts are generally low and sandy; the whole western
-shore of Jutland is a succession of sand ridges and shallow lagoons,
+shore of Jutland is a succession of sand ridges and shallow [[Lagoon|lagoons]],
 very dangerous to shipping. In many places the sea has encroached; even
 in the 19th century entire villages were destroyed, but during the last
 twenty years of the century systematic efforts were made to secure the
-coast by groynes and embankments. A belt of sand dunes, from 500 yds. to
+coast by groynes and [[Embankment|embankments]]. A belt of sand [[Dunes|dunes]], from 500 yds. to
 7 m. wide, stretches along the whole of this coast for about 200 m.
 Skagen, or the Skaw, a long, low, sandy point, stretches far into the
 northern sea, dividing the Skagerrack from the Cattegat. On the western
 side the coast is bolder and less inhospitable; there are several
 excellent havens, especially on the islands. The coast is nowhere,
 however, very high, except at one or two points in Jutland, and at the
-eastern extremity of Möen, where limestone cliffs occur.
+eastern extremity of Möen, where [[Limestone|limestone]] cliffs occur.
 
 Continental Denmark is confined wholly to Jutland, the geographical
 description of which is given under that heading. Out of the total area
@@ -97,14 +97,14 @@ apart from the main archipelago.
 Zealand, or Sealand (Dan. _Sjaelland_), measuring 82 m. N. to S. by 68
 E. to W. (extremes), with its fantastic coast-line indented by fjords
 and projecting into long spits or promontories, may be considered as the
-nucleus of the kingdom, inasmuch as it contains the capital, Copenhagen,
+nucleus of the kingdom, inasmuch as it contains the capital, [[Copenhagen]],
 and such important towns as Roskilde, Slagelse, Korsör, Naestved and
 Elsinore (Helsingör). Its topography is described in detail under
 ZEALAND. Its attendant islands lie mainly to the south and are parts of
 itself, only separated by geologically recent troughs. The eastern
 coast of Möen is rocky and bold. It is recorded that this island formed
 three separate isles in 1100, and the village of Borre, now 2 m. inland,
-was the object of an attack by a fleet from Lübeck in 1510. On Falster
+was the object of an attack by a fleet from Lü[[Beck|beck]] in 1510. On Falster
 is the port of Nykjöbing, and from Gjedser, the extreme southern point
 of Denmark, communication is maintained with Warnemünde in Germany (29
 m.). From Nykjöbing a bridge nearly one-third of a mile long crosses to
@@ -117,11 +117,11 @@ physically an appendage rather than an internal part of the kingdom of
 Denmark.
 
 _Geology._--The surface in Denmark is almost everywhere formed by the
-so-called Boulder Clay and what the Danish geologists call the Boulder
-Sand. The former, as is well known, owes its origin to the action of ice
-on the mountains of Norway in the Glacial period. It is unstratified;
+so-called [[Boulder Clay]] and what the Danish geologists call the [[Boulder]]
+Sand. The former, as is well known, owes its origin to the action of [[Ice|ice]]
+on the mountains of Norway in the [[Glacial Period|Glacial period]]. It is unstratified;
 but by the action of water on it, stratified deposits have been formed,
-some of clay, containing remains of arctic animals, some, and very
+some of clay, containing remains of [[Arctic|arctic]] animals, some, and very
 extensive ones, of sand and gravel. This boulder sand forms almost
 everywhere the highest hills, and besides, in the central part of
 Jutland, a wide expanse of heath and moorland apparently level, but
@@ -138,7 +138,7 @@ come to light. This island agrees in geological structure with the
 southern part of Sweden, and forms, in fact, the southernmost portion of
 the Scandinavian system. There the boulder clay lies immediately on the
 primitive rock, except in the south-western corner of the island, where
-a series of strata appear belonging to the Cambrian, Silurian, Jurassic
+a series of strata appear belonging to the Cambrian, Silurian, [[Jurassic]]
 and Cretaceous formations, the true Coal formation, &c., being absent.
 Some parts of Denmark are supposed to have been finally raised out of
 the sea towards the close of the Cretaceous period; but as a whole the
@@ -164,7 +164,7 @@ islands have, upon the whole, a somewhat warmer climate than Jutland.
 The mean temperatures of the four coldest months, December to March, are
 33.26°, 31.64°, 31.82°, and 33.98° respectively, or for the whole winter
 32.7°; that of the summer, June to August, 59.2°, but considerable
-irregularities occur. Frost occurs on an average on twenty days in each
+irregularities occur. [[Frost]] occurs on an average on twenty days in each
 of the four winter months, but only on two days in either October or
 May. A fringe of ice generally lines the greater part of the Danish
 coasts on the eastern side for some time during the winter, and both the
@@ -191,30 +191,30 @@ in a country of such simple physical structure. The ordinary forms of
 the north of Europe grow freely in the mild air and protected soil of
 the islands and the eastern coast; while on the heaths and along the
 sandhills on the Atlantic side there flourish a number of distinctive
-species. The Danish forest is almost exclusively made up of beech, a
+species. The Danish forest is almost exclusively made up of [[Beech|beech]], a
 tree which thrives better in Denmark than in any other country of
 Europe. The oak and ash are now rare, though in ancient times both were
-abundant in the Danish islands. The elm is also scarce. The almost
+abundant in the Danish islands. The [[Elm|elm]] is also scarce. The almost
 universal predominance of the beech is by no means of ancient origin,
 for in the first half of the 17th century the oak was still the
 characteristic Danish tree. No conifer grows in Denmark except under
 careful cultivation, which, however, is largely practised in Jutland
 (q.v.). But again, abundant traces of ancient extensive forests of fir
-and pine are found in the numerous peat bogs which supply a large
-proportion of the fuel locally used. In Bornholm, it should be
+and pine are found in the numerous peat [[Bog|bogs]] which supply a large
+proportion of the [[Fuel|fuel]] locally used. In Bornholm, it should be
 mentioned, the flora is more like that of Sweden; not the beech, but the
-pine, birch and ash are the most abundant trees.
+pine, [[Birch|birch]] and ash are the most abundant trees.
 
 The wild animals and birds of Denmark are those of the rest of central
 Europe. The larger quadrupeds are all extinct; even the red deer,
-formerly so abundant that in a single hunt in Jutland in 1593 no less
+formerly so abundant that in a single [[Hunt|hunt]] in Jutland in 1593 no less
 than 1600 head of deer were killed, is now only to be met with in
 preserves. In the prehistoric "kitchen-middens" (_kjökkenmödding_) and
 elsewhere, however, vestiges are found which prove that the urochs, the
 wild boar, the beaver, the bear and the wolf all existed subsequently to
 the arrival of man. The usual domestic animals are abundantly found in
 Denmark, with the exception of the goat, which is uncommon. The sea
-fisheries are of importance. Oysters are found in some places, but have
+[[Fisheries|fisheries]] are of importance. Oysters are found in some places, but have
 disappeared from many localities, where their abundance in ancient times
 is proved by their shell moulds on the coast. The Gudenaa is the only
 salmon river in Denmark.
@@ -243,14 +243,14 @@ fruitful by artificial means. The Danes are a yellow-haired and
 blue-eyed Teutonic race of middle stature, bearing traces of their
 kinship with the northern Scandinavian peoples. Their habits of life
 resemble those of the North Germans even more than those of the Swedes.
-The independent tenure of the land by a vast number of small farmers,
+The independent tenure of the land by a vast number of small [[Farmer|farmers]],
 who are their own masters, gives an air of carelessness, almost of
 truculence, to the well-to-do Danish peasants. They are generally slow
 of speech and manner, and somewhat irresolute, but take an eager
 interest in current politics, and are generally fairly educated men of
 extreme democratic principles. The result of a fairly equal distribution
 of wealth is a marked tendency towards equality in social intercourse.
-The townspeople show a bias in favour of French habits and fashions. The
+The townspeople show a [[Bias|bias]] in favour of French habits and fashions. The
 separation from the duchies of Schleswig and Holstein, which were more
 than half German, intensified the national character; the Danes are
 intensely patriotic; and there is no portion of the Danish dominions
@@ -258,7 +258,7 @@ except perhaps in the West Indian islands, where a Scandinavian language
 is not spoken. The preponderance of the female population over the male
 is approximately as 1052 to 1000. The male sex remains in excess until
 about the twentieth year, from which age the female sex preponderates in
-increasing ratio with advancing age. The percentage of illegitimacy is
+increasing ratio with advancing age. The percentage of [[Illegitimacy|illegitimacy]] is
 high as a whole, although in some of the rural districts it is very low.
 But in Copenhagen 20% of the births are illegitimate. Between the middle
 and the end of the 19th century the rate of mortality decreased most
@@ -283,12 +283,12 @@ crossed by powerful steam-ferries which are generally capable of
 conveying a limited number of railway wagons. This system is also in use
 on the line which runs south from Roskilde to the island of Falster,
 from the southernmost point of which, Gjedser, ferry-steamers taking
-railway cars serve Warnemünde in Germany. The main lines in Jutland run
+railway [[Car|cars]] serve Warnemünde in Germany. The main lines in Jutland run
 (a) along the eastern side north from Fredericia by Horsens, Aarhus,
 Randers, Aalborg and Hjörring, to Frederikshavn, and (b) along the
-western side from Esbjerg by Skjerne and Vemb, and thence across the
+western side from [[Esbjerg]] by Skjerne and Vemb, and thence across the
 peninsula by Viborg to Langaa on the eastern line. The lines are
-generally of standard gauge (4 ft. 8½ in.), but there is also a
+generally of standard [[Gauge|gauge]] (4 ft. 8½ in.), but there is also a
 considerable mileage of light narrow-gauge railways. Besides the
 numerous steam-ferries which connect island and island, and Jutland with
 the islands, and the Gjedser-Warnemünde route, a favourite passenger
@@ -301,16 +301,16 @@ telephone service.
 
 _Industries._--The main source of wealth in Denmark is agriculture,
 which employs about two-fifths of the entire population. Most of the
-land is freehold and cultivated by the owner himself, and comparatively
-little land is let on lease except very large holdings and glebe farms.
+land is [[Freehold|freehold]] and cultivated by the owner himself, and comparatively
+little land is let on lease except very large holdings and [[Glebe|glebe]] farms.
 The independent small farmer (_bönder_) maintains a hereditary
-attachment to his ancestral holding. There is also a class of cottar
+[[Attachment|attachment]] to his ancestral holding. There is also a class of cottar
 freeholders (_junster_). Fully 74% of the total area of the country is
 agricultural land. Of this only about one-twelfth is meadow land. The
 land under grain crops is not far short of one-half the remainder, the
 principal crops being oats, followed by barley and rye in about equal
 quantities, with wheat about one-sixth that of barley and hardly
-one-tenth that of oats. Beet is extensively grown. During the last forty
+one-tenth that of oats. [[Beet]] is extensively grown. During the last forty
 years of the 19th century dairy-farming was greatly developed in
 Denmark, and brought to a high degree of perfection by the application
 of scientific methods and the best machinery, as well as by the
@@ -329,7 +329,7 @@ principally used for fuel, but pines were extensively planted during the
 extensive heaths in Jutland (q.v.) with pine-trees.
 
 _Agriculture._--Rates and taxes on land are mostly levied according to a
-uniform system of assessment, the unit of which is called a _Tonde
+uniform system of [[Assessment|assessment]], the unit of which is called a _Tonde
 Hartkorn_. The Td. Htk., as it is usually abbreviated, has further
 subdivision, and is intended to correspond to the same value of land
 throughout the country. The Danish measure for land is a _Tonde Land_
@@ -342,7 +342,7 @@ Htk. for fiscal purposes. In the island of Bornholm, the assessment is
 somewhat different, though the general state of agricultural holdings is
 the same as in other parts. The selling value of land has shown a
 decrease in modern times on account of the agricultural depression. A
-homestead with land assessed less than 1 Td. Htk. is legally called a
+[[Homestead|homestead]] with land assessed less than 1 Td. Htk. is legally called a
 _Huus_ or _Sted_, i.e. cottage, whilst a farm assessed at 1 Td. Htk. or
 more is called _Gaard_, i.e. farm. Farms of between 1 and 12 Td. Htk.
 are called _Bondergaarde_, or peasant farms, and are subject to the
@@ -357,7 +357,7 @@ Htk.; the remainder at about 8 Td. Htk. An annual sum is voted by
 parliament out of which loans are granted to cottagers who desire to
 purchase small freehold plots.
 
-The fishery along the coasts of Denmark is of some importance both on
+The [[Fishery|fishery]] along the coasts of Denmark is of some importance both on
 account of the supply of food obtained thereby for the population of the
 country, and on account of the export; but the good fishing grounds, not
 far from the Danish coast, particularly in the North Sea, are mostly
@@ -368,7 +368,7 @@ in order to prevent encroachments on territorial waters.
 _Other Industries._--The mineral products of Denmark are unimportant. It
 is one of the poorest countries of Europe in this particular. It is
 rich, however, in clays, while in the island of Bornholm there are
-quarries of freestone and marble. The factories of Denmark supply mainly
+quarries of freestone and [[Marble|marble]]. The factories of Denmark supply mainly
 local needs. The largest are those engaged in the construction of
 engines and iron ships. The manufacture of woollens and cotton, the
 domestic manufacture of linen in Zealand, sugar refineries, paper mills,
@@ -377,7 +377,7 @@ manufacture is that of porcelain. The nucleus of this industry was a
 factory started in 1772, by F. H. Müller, for the making of china out of
 Bornholm clay. In 1779 it passed into the hands of the state, and has
 remained there ever since, though there are also private factories.
-Originally the Copenhagen potters imitated the Dresden china made at
+Originally the Copenhagen potters imitated the [[Dresden]] china made at
 Meissen, but they later produced graceful original designs. The
 creations of Thorvaldsen have been largely repeated and imitated in this
 ware. Trade-unionism flourishes in Denmark, and strikes are of frequent
@@ -386,7 +386,7 @@ occurrence.
 _Commerce._--Formerly the commercial legislation of Denmark was to such
 a degree restrictive that imported manufactures had to be delivered to
 the customs, where they were sold by public auction, the proceeds of
-which the importer received from the custom-houses after a deduction was
+which the importer received from the [[Custom-House|custom-houses]] after a deduction was
 made for the duty. To this restriction, as regards foreign intercourse,
 was added a no less injurious system of inland duties impeding the
 commerce of the different provinces with each other. The want of roads
@@ -396,7 +396,7 @@ commercial treaties were concluded between Denmark and the other powers
 of Europe, which made the Danish tariff more regular and liberal.
 
 The vexed question, of many centuries' standing, concerning the claim of
-Denmark to levy dues on vessels passing through the Sound (q.v.), was
+Denmark to [[Levy|levy]] dues on vessels passing through the Sound (q.v.), was
 settled by the abolition of the dues in 1857. The commerce of Denmark is
 mainly based on home production and home consumption, but a certain
 quantity of goods is imported with a view to re-exportation, for which
@@ -407,15 +407,15 @@ total of fifty millions sterling. The value of export is exceeded as a
 whole by that of import in the proportion, roughly, of 1 to 1.35. By far
 the most important articles of export may be classified as articles of
 food of animal origin, a group which covers the vast export trade in the
-dairy produce, especially butter, for which Denmark is famous. The value
+dairy produce, especially [[Butter|butter]], for which Denmark is famous. The value
 of the butter for export reaches nearly 40% of the total value of Danish
 exports. A small proportion of the whole is imported chiefly from Russia
 (also Siberia) and Sweden and re-exported as of foreign origin. The
-production of margarine is large, but not much is exported, margarine
+production of [[Margarine|margarine]] is large, but not much is exported, margarine
 being largely consumed in Denmark instead of butter, which is exported.
 Next to butter the most important article of Danish export is bacon, and
-huge quantities of eggs are also exported. Exports of less value, but
-worthy of special notice, are vegetables and wool, bones and tallow,
+huge quantities of [[Egg|eggs]] are also exported. Exports of less value, but
+worthy of special notice, are vegetables and wool, [[Bone|bones]] and tallow,
 also dairy machinery, and finally cement, the production of which is a
 growing industry. The classes of articles of food of animal origin, and
 living animals, are the only ones of which the exportation exceeds the
@@ -452,7 +452,7 @@ penny. Since 1873 gold has been the standard, and gold pieces of 20 and
 bank-notes. The principal bank is the National Bank at Copenhagen, which
 is the only one authorized to issue notes. These are of the value of 10,
 50, 100 and 500 kr. Next in importance are the Danske Landmands Bank,
-the Handels Bank and the Private Bank, all at Copenhagen. The provincial
+the [[Handel|Handels]] Bank and the Private Bank, all at Copenhagen. The provincial
 banks are very numerous; many of them are at the same time savings
 banks. Their rate of interest, with few exceptions, is 3½ to 4%. There
 exist, besides, in Denmark several mutual loan associations
@@ -460,7 +460,7 @@ exist, besides, in Denmark several mutual loan associations
 mortgage. Registration of mortgages is compulsory in Denmark, and the
 system is extremely simple, a fact which has been of the greatest
 importance for the improvement of the country. There are comparatively
-large institutions for insurance of all kinds in Denmark. The largest
+large institutions for [[Insurance|insurance]] of all kinds in Denmark. The largest
 office for life insurance is a state institution. By law of the 9th of
 April 1891 a system of old-age pensions was established for the benefit
 of persons over sixty years of age.
@@ -476,7 +476,7 @@ of Commons) are elected for three years in the usual way by universal
 suffrage, 12 out of the 66 members of the Landsthing are life members
 nominated by the crown. The remaining 54 members of the Landsthing are
 returned for eight years according to a method of proportionate
-representation by a body of deputy electors. Of these deputies one-half
+representation by a body of [[Deputy|deputy]] [[Electors|electors]]. Of these deputies one-half
 are elected in the same way as members of the Folkething, without any
 property qualification for the voters; the other half of the deputy
 electors are chosen in the towns by those who during the last preceding
@@ -496,13 +496,13 @@ year on the first Monday in October. The constitutional theory of the
 Folkething is that of one member for every 16,000 inhabitants. The
 Faeröe islands, which form an integral part of the kingdom of Denmark in
 the wider sense, are represented in the Danish parliament, but not the
-other dependencies of the Danish crown, namely Iceland, Greenland and
+other dependencies of the Danish crown, namely [[Iceland]], Greenland and
 the West Indian islands of St Thomas, St John and St Croix. The budget
 is considered by the Folkething at the beginning of each session. The
 revenue and expenditure average annually about £4,700,000. The principal
-items of revenue are customs and excise, land and house tax, stamps,
-railways, legal fees, the state lottery and death duties. A considerable
-reserve fund is maintained to meet emergencies. The public debt is about
+[[Item|items]] of revenue are customs and excise, land and house tax, stamps,
+railways, legal [[Fee|fees]], the state lottery and death duties. A considerable
+reserve fund is maintained to meet emergencies. The public [[Debt|debt]] is about
 £13,500,000 and is divided into an internal debt, bearing interest
 generally at 3½%, and a foreign debt (the larger), with interest
 generally at 3%. The revenue and expenditure of the Faeröes are included
@@ -511,7 +511,7 @@ their separate budgets. The Danish treasury receives nothing from these
 possessions; on the contrary, Iceland receives an annual grant, and the
 West Indian islands have been heavily subsidized by the Danish finances
 to assist the sugar industry. The administration of Greenland (q.v.)
-entails an annual loss which is posted on the budget of the ministry of
+[[Entail|entails]] an annual loss which is posted on the budget of the ministry of
 finances. The state council (_Statsraad_) includes the presidency of the
 council and ministries of war, and marine, foreign affairs, the
 interior, justice, finance, public institution and ecclesiastical,
@@ -549,7 +549,7 @@ Copenhagen, another in Viborg; the Supreme Court of Appeal
 (_Höjesteret_) sits at Copenhagen. In the capital the different
 functions are more divided. There is also a Court of Commerce and
 Navigation, on which leading members of the trading community serve as
-assessors. In the country, Land Commissions similarly constituted deal
+[[Assessor|assessors]]. In the country, Land Commissions similarly constituted deal
 with many questions affecting agricultural holdings. A peculiarity of
 the Danish system is that, with few exceptions, no civil cause can be
 brought before a court until an attempt has been made at effecting an
@@ -560,27 +560,27 @@ causes are settled, and many which remain unsettled are abandoned by the
 plaintiffs. Sanitary matters are under the control of a Board of Health.
 The whole country is divided into districts, in each of which a medical
 man is appointed with a salary, who is under the obligation to attend to
-poor sick and assist the authorities in medical matters, inquests, &c.
+poor sick and assist the authorities in medical matters, [[Inquest|inquests]], &c.
 The relief of the poor is well organized, mostly on the system of
 out-door relief. Many workhouses have been established for indigent
 persons capable of work. There are also many almshouses and similar
 institutions.
 
-_Army and Navy._--The active army consists of a life guard battalion and
-10 infantry regiments of 3 battalions each, infantry, 5 cavalry
+_Army and Navy._--The active army consists of a life guard [[Battalion|battalion]] and
+10 infantry regiments of 3 battalions each, infantry, 5 [[Cavalry|cavalry]]
 regiments of 3 squadrons each, 12 field batteries (now re-armed with a
-Krupp Q.F. equipment), 3 battalions of fortress artillery and 6
+[[Krupp]] Q.F. equipment), 3 battalions of fortress artillery and 6
 companies of engineers, with in addition various local troops and
 details. The peace strength of permanent troops, without the annual
 contingent of recruits, is about 13,500 officers and men, the annual
-contingent of men trained two or three years with the colours about
+contingent of men trained two or three years with the [[Colours|colours]] about
 22,500, and the annual contingent of special reservists (men trained for
 brief periods) about 17,000. Thus the number of men maintained under
 arms (without calling up the reserves) is as high as 75,000 during
 certain periods of the year and averages nearly 60,000. Reservists who
 have definitively left the colours are recalled for short refresher
 trainings, the number of men so trained in 1907 being about 80,000. The
-field army on a war footing, without depot troops, garrison troops and
+field army on a war footing, without depot troops, [[Garrison|garrison]] troops and
 reservists, would be about 50,000 strong, but by constituting new cadres
 at the outbreak of war and calling up the reserves it could be more than
 doubled, and as a matter of fact nearly 120,000 men were with the
@@ -590,20 +590,20 @@ line. The armament of the infantry is the Krag-jorgensen of .314 in.
 calibre, model 1889, that of the field artillery a 7.5 cm. Krupp Q.F.
 equipment, model 1902. The navy consists of 6 small battleships, 3 coast
 defence armour-clads, 5 protected cruisers, 5 gun-boats, and 24 torpedo
-craft.
+[[Craft|craft]].
 
 _Religion._--The national or state church of Denmark is officially
 styled "Evangelically Reformed," but is popularly described as Lutheran.
 The king must belong to it. There is complete religious toleration, but
 though most of the important Christian communities are represented their
-numbers are very small. The Mormon apostles for a considerable time made
+numbers are very small. The Mormon [[Apostle|apostles]] for a considerable time made
 a special raid upon the Danish peasantry and a few hundreds profess this
 faith. There are seven dioceses, Fünen, Laaland and Falster, Aarhus,
 Aalborg, Viborg and Ribe, while the primate is the bishop of Zealand,
 and resides at Copenhagen, but his cathedral is at Roskilde. The bishops
 have no political function by reason of their office, although they may,
 and often do, take a prominent part in politics. The greater part of the
-pastorates comprise more than one parish. The benefices are almost
+pastorates comprise more than one parish. The [[Benefice|benefices]] are almost
 without exception provided with good residences and glebes, and the
 tithes, &c., generally afford a comfortable income. The bishops have
 fixed salaries in lieu of tithes appropriated by the state.
@@ -630,7 +630,7 @@ veterinary art; the royal library; the royal society of sciences; the
 museum of northern antiquities; the society of northern antiquaries, &c.
 The art museums of Denmark are not considerable, except the museum of
 Thorvaldsen, at Copenhagen, but much is done to provide first-rate
-training in the fine arts and their application to industry through the
+training in the [[Fine Arts|fine arts]] and their application to industry through the
 Royal Academy of Arts, and its schools. Finally, it may be mentioned
 that a sum proportionately large is available from public funds and
 regular parliamentary grants for furthering science and arts by
@@ -665,10 +665,10 @@ has been obtained.
    Carlsen, H. Olrik and C. N. Starcke, _Le Danemark_ (Copenhagen,
    1900), 700 pp.; illustrated, published in connexion with the Paris
    Exhibition. _Statistisk Aarbog_ (1896, &c.). Annual publication, and
-   other publications of Statens Statistiske Bureau, Copenhagen;
+   other publications of Statens Statistiske [[Bureau]], Copenhagen;
    _Annuaire météorologique_, Danish Meteorological Institution,
    Copenhagen; E. Löffler, _Dänemarks Natur and Volk_ (Copenhagen,
-   1905); Margaret Thomas, _Denmark Past and Present_ (London, 1902).
+   1905); [[Margaret]] Thomas, _Denmark Past and Present_ (London, 1902).
                                             (C. A. G.; O. J. R. H.)
 
 ## See also

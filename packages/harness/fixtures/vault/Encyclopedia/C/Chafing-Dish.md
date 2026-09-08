@@ -7,11 +7,11 @@ topic: fortification
 # Chafing-Dish
 
 CHAFING-DISH (from the O. Fr. _chaufer_, to make warm), a kind of
-portable grate heated with charcoal, and used for cooking or keeping
-food warm. In a light form, and heated over a spirit lamp, it is also
+portable grate heated with [[Charcoal|charcoal]], and used for cooking or keeping
+food warm. In a light form, and heated over a spirit [[Lamp|lamp]], it is also
 used for cooking various dainty dishes at table. The employment of the
 chafing-dish for the latter purpose has been largely restored in modern
-cookery.
+[[Cookery|cookery]].
 
 ## See also
 

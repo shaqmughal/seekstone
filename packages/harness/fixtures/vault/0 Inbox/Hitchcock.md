@@ -7,9 +7,9 @@ to enter Harvard College when he was compelled to interrupt his studies
 from a weakness in his eyesight. In 1815 he became principal of the
 academy of his native town; but he resigned this office in 1818 in order
 to study for the ministry. Having been ordained in 1821 pastor of the
-Congregational church of Conway, Mass., he employed his leisure in
+Congregational church of [[Conway]], Mass., he employed his leisure in
 making a scientific survey of the western counties of the state. From
-1825 to 1845 he was professor of chemistry and natural history, from
+1825 to 1845 he was professor of [[Chemistry|chemistry]] and natural history, from
 1845 to 1864 was professor of natural theology and geology at Amherst
 College, and from 1845 to 1854 was president; the college owed its early
 success largely to his energetic efforts, especially during the period
@@ -34,11 +34,11 @@ employing its results to explain and support what he regarded as the
 truths of revelation. He died at Amherst, on the 27th of February 1864.
 
 His son, CHARLES HENRY HITCHCOCK (1836-   ), did good service in geology,
-in Vermont, New Hampshire (1868-1878), and other parts of America, and
+in Vermont, New [[Hampshire]] (1868-1878), and other parts of America, and
 became professor of geology at Dartmouth in 1868.
 
   The following are Edward Hitchcock's principal works: _Geology of the
-  Connecticut Valley_ (1823); _Catalogue of Plants growing without
+  Connecticut Valley_ (1823); _[[Catalogue]] of Plants growing without
   cultivation in the vicinity of Amherst_ (1829); _Reports on the
   Geology of Massachusetts_ (1833-1841); _Elementary Geology_ (1840; ed.
   2, 1841; and later ed. with C. H. Hitchcock, 1862); _Fossil Footmarks

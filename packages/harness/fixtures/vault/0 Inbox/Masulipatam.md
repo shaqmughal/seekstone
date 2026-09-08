@@ -15,16 +15,16 @@ Golconda. An agency was established there in 1611. During the wars of
 the Carnatic, the English were temporarily expelled from the town, which
 was held by the French for some years. In 1759 the town and fort were
 carried by storm by Colonel Forde, an achievement followed by the
-acquisition of the Northern Circars (q.v.). In 1864 a great storm-wave
+acquisition of the Northern [[Circar|Circars]] (q.v.). In 1864 a great storm-wave
 swept over the entire town and is said to have destroyed 30,000 lives.
 Weavers form a large portion of the inhabitants, though their trade has
 greatly declined since the beginning of the 19th century. Their
-operations, besides weaving, include printing, bleaching, washing and
-dressing. In former days the chintzes of Masulipatam had a great
+operations, besides weaving, include printing, [[Bleaching|bleaching]], washing and
+dressing. In former days the [[Chintz|chintzes]] of Masulipatam had a great
 reputation abroad for the freshness and permanency of their dyes.
 Masulipatam is a station of the Church Missionary Society. The port is
 only a roadstead, where vessels anchor 5 m. out. A branch line from
-Bezwada on the Southern Mahratta railway was opened in 1908. The chief
+[[Bezwada]] on the Southern Mahratta railway was opened in 1908. The chief
 educational institution is the Noble College of the C.M.S.
 
 ## See also

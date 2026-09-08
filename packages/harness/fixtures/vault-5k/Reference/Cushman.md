@@ -1,12 +1,12 @@
 # Cushman
 
-CUSHMAN, CHARLOTTE SAUNDERS (1816-1876), American actress, was born in
-Boston, Massachusetts, on the 23rd of July 1816. Her father, a West
+CUSHMAN, [[Charlotte|CHARLOTTE]] SAUNDERS (1816-1876), American actress, was born in
+[[Boston]], Massachusetts, on the 23rd of July 1816. Her father, a West
 India merchant, left his family in straitened circumstances, and
 Charlotte, who had a fine contralto voice, went on the operatic stage.
 In 1835 she successfully appeared at the Tremont theatre as the countess
 Almaviva in _The Marriage of Figaro_. But her singing voice failing her
-she entered the drama, and played Lady Macbeth in the same year. She
+she entered the [[Drama|drama]], and played Lady Macbeth in the same year. She
 then engaged herself as a stock actress, but was soon given leading
 parts. In 1842 she managed and played in the Walnut Street theatre in
 Philadelphia. She accompanied Macready on an American tour, winning a

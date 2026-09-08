@@ -14,14 +14,14 @@ Island), Ani-jima (Elder-sister Island) and Imoto-jima (Younger-sister
 Island). European geographers have been accustomed to divide the islands
 into three groups for purposes of nomenclature, calling the northern
 group the Parry Islands, the central the Beechey Islands and the
-southern the Coffin or Bailey Islands. The second largest of all,
+southern the Coffin or [[Bailey]] Islands. The second largest of all,
 Chichi-jima, in Japanese cartography was called Peel Island in 1827 by
 Captain Beechey, and the same officer gave the name of Stapleton Island
 to the Ototo-jima of the Japanese, and that of Buckland Island to their
 Ani-jima. To complete this account of Captain Beechey's nomenclature, it
 may be added that he called a large bay on the south of Peel Island
 Fitton Bay, and a bay on the south-west of Buckland Island Walker
-Bay.[2] Port Lloyd, the chief anchorage (situated on Peel Island), is
+Bay.[2] Port [[Lloyd]], the chief anchorage (situated on Peel Island), is
 considered by Commodore Perry--who visited the islands in 1853 and
 strongly urged the establishment of a United States coaling station
 there--to have been formerly the crater of a volcano from which the
@@ -31,7 +31,7 @@ indeed, plainly volcanic in their nature.
 
 _History._--The diversity of nomenclature indicated above suggests that
 the ownership of the islands was for some time doubtful. According to
-Japanese annals they were discovered towards the close of the 16th
+Japanese [[Annals|annals]] they were discovered towards the close of the 16th
 century, and added to the fief of a Daimyo, Ogasawa Sadayori, whence the
 name Ogasawara-jima. They were also called _Bunin-jima_ (corrupted by
 foreigners into Bonin) because of their being without (_bu_) inhabitants
@@ -46,7 +46,7 @@ visited the islands in the "Blossom," assigned names to some of them,
 and published a description of their features. Next a small party
 consisting of two British subjects, two American citizens, and a Dane,
 sailed from the Sandwich Islands for Port Lloyd in 1830, taking with
-them some Hawaiian natives. These colonists hoisted the British flag on
+them some Hawaiian natives. These colonists hoisted the British [[Flag|flag]] on
 Peel Island (Chichi-jima), and settled there. When Commodore Perry
 arrived in 1853, there were on Peel Island thirty-one inhabitants, four
 being English, four American, one Portuguese and the rest natives of the
@@ -63,7 +63,7 @@ administered, and the population has grown to about 4500. There are no
 mountains of any considerable height in the Ogasawara Islands, but the
 scenery is hilly with occasional bold crags. The vegetation is almost
 tropically luxuriant--palms, wild pineapples, and ferns growing
-profusely, and the valleys being filled with wild beans and patches of
+profusely, and the valleys being filled with wild [[Bean|beans]] and patches of
 taro. Mr Robertson catalogues a number of valuable timbers that are
 obtained there, among them being Tremana, cedar, rose-wood, iron-wood
 (red and white), box-wood, sandal and white oak. The kekop tree, the

@@ -21,7 +21,7 @@ and monuments was purchased by Cardinal Stoppani, and placed in the
 ducal palace at Urbino, where they may still be seen.
 
 His work _De Aquis et Aquae-ductibus veteris Romae_ (1680), three
-dissertations on the topography of ancient Latium, is inserted in
+dissertations on the topography of ancient [[Latium]], is inserted in
 Graevius's _Thesaurus_, iv. (1677). His interpretation of certain
 passages in Livy and other classical authors involved him in a dispute
 with Gronovius, which bore a strong resemblance to that between Milton

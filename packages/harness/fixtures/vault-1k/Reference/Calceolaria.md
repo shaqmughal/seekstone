@@ -2,7 +2,7 @@
 
 CALCEOLARIA, in botany, a genus belonging to the natural order
 Scrophulariaceae, containing about 150 species of herbaceous or shrubby
-plants, chiefly natives of the South American Andes of Peru and Chile. The
+plants, chiefly natives of the South American Andes of Peru and [[Chile]]. The
 calceolaria of the present day has [v.04 p.0969] been developed into a
 highly decorative plant, in which the herbaceous habit has preponderated.
 The plants are now very generally raised annually from seed, which is sown
@@ -22,7 +22,7 @@ fumigated.
 
 The so-called shrubby calceolarias used for bedding are increased from
 cuttings, planted in autumn in cold frames, where they can be wintered,
-protected from frost by the use of mats and a good layer of litter placed
+protected from [[Frost|frost]] by the use of mats and a good layer of litter placed
 over the glass and round the sides.
 
 ## See also

@@ -12,7 +12,7 @@ a cosmogony (Babylonia, Egypt, Phoenicia, Polynesia).
 to the Biblical account in Genesis i.; the anthropologist, however, will
 be attracted by them in proportion as they illustrate the more primitive
 phases of human culture. In spite of the frequent overgrowth of a
-luxuriant imagination, the leading ideas of really primitive cosmogonies
+luxuriant [[Imagination|imagination]], the leading ideas of really primitive cosmogonies
 are extremely simple. Creation out of nothing is nowhere thought of, for
 this is not at all a simple idea. The pre-existence of world-matter is
 assumed; sometimes too that of heaven, as the seat of the earth-maker,
@@ -58,7 +58,7 @@ a tortoise (cf. § 6) on which a diving animal had placed some mud,
 received her. Here, being already pregnant, she gave birth to a
 daughter, who in turn bore the twins Joskeha and Tawiscara (myth of
 hostile brothers). By his violence (cf. Gen. xxv. 22) the latter killed
-his mother, out of whose corpse grew plants. Tawiscara fled to the west,
+his mother, out of whose [[Corpse|corpse]] grew plants. Tawiscara fled to the west,
 where he rules over the dead. Joskeha made the beasts and also men.
 After acting as culture-giver he disappeared to the east, where he is
 said to dwell with his grandmother as her husband.[6]
@@ -93,7 +93,7 @@ Manco Capac ("the mighty man"), whose sister and wife is called Mama
 Oello, "the mother-egg." Afterwards, the creator and the mother-egg
 became respectively the sun and the moon, represented by the Inca
 priest-king and his wife, the supposed descendants of Manco Capac.[11]
-Dualistic tendencies were also developed. Las Casas[12] reports a story
+Dualistic tendencies were also developed. [[Las Casas]][12] reports a story
 that before creation the creator-god had a bad son who sought, after
 creation, to undo all that his father had done. Angered at this, his
 father hurled him into the sea. We need not suspect Christian
@@ -113,7 +113,7 @@ there is a heavenly as well as an earthly ocean; hence the clouds are
 sometimes called Tangaloa's ships. It is true, the popular imagery is
 unworthy of such a god. Sometimes he is said to live in a shell, by
 throwing off which from time to time he increases the world; or in an
-egg, which at last he breaks in pieces; the pieces are the islands. We
+[[Egg|egg]], which at last he breaks in pieces; the pieces are the islands. We
 also hear that long ago he hovered as an enormous bird over the waters,
 and there deposited an egg. The egg may be either the earth with the
 overarching vault of heaven or (as in Egypt--but this is a later view)
@@ -371,7 +371,7 @@ FOOTNOTES:
   [12] _De las antiquas gentes del Peru_ (ed. 1892), pp. 55, 56.
 
   [13] See especially Waitz-Gerland, _Anthropologie der Naturvölker_,
-    vi. 229-302; Gill, _Myths and Songs of the South Pacific_; Schirren,
+    vi. 229-302; [[Gill]], _Myths and Songs of the South Pacific_; Schirren,
     _Wandersagen der Neuseeländer_; also an older work (Sir George)
     Grey's _Polynesian Mythology_.
 

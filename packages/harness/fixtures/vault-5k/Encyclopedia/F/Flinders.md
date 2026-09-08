@@ -1,9 +1,9 @@
 # Flinders
 
-FLINDERS, MATTHEW (1774-1814), English navigator, explorer, and man of
-science, was born at Donington, near Boston, in Lincolnshire, on the
+FLINDERS, [[Matthew|MATTHEW]] (1774-1814), English navigator, explorer, and man of
+science, was born at Donington, near [[Boston]], in Lincolnshire, on the
 16th of March 1774. Matthew was at first designed to follow his father's
-profession of surgeon, but his enthusiasm in favour of a life of
+profession of surgeon, but his [[Enthusiasm|enthusiasm]] in favour of a life of
 adventure impelled him to enter the royal navy, which he did on the 23rd
 of October 1789. After a voyage to the Friendly Islands and West Indies,
 and after serving in the "Bellerophon" during Lord Howe's "glorious
@@ -36,9 +36,9 @@ Spithead, Flinders being furnished with instructions and with a passport
 from the French government to all their officials in the Eastern seas.
 Among the scientific staff was Robert Brown, one of the most eminent
 English botanists; and among the midshipmen was Flinders's relative,
-John Franklin, of Arctic fame. Cape Leeuwin, on the south-west coast of
+John [[Franklin]], of [[Arctic]] fame. Cape Leeuwin, on the south-west coast of
 Australia, was reached on November 6, and King George's sound on the 9th
-of December. Flinders sailed round the Great Bight, examining the
+of December. Flinders sailed round the Great [[Bight]], examining the
 islands and indentations on the east side, noting the nature of the
 country, the people, products, &c., and paying special attention to the
 subject of the variation of the compass. Spenser and St Vincent Gulfs
@@ -111,13 +111,13 @@ folio volume of maps. The very day (July 19, 1814) on which his work was
 published Flinders died, at the early age of forty. The great work is a
 model of its kind, containing as it does not only a narrative of his own
 and of previous voyages, but masterly statements of the scientific
-results, especially with regard to magnetism, meteorology, hydrography
+results, especially with regard to magnetism, meteorology, [[Hydrography|hydrography]]
 and navigation. Flinders paid great attention to the errors of the
 compass, especially to those caused by the presence of iron in ships. He
 is understood to have been the first to discover the source of such
 errors (which had scarcely been noticed before), and after investigating
 the laws of the variations, he suggested counter-attractions, an
-invention for which Professor Barlow got much credit many years
+invention for which Professor Barlow got much [[Credit|credit]] many years
 afterwards. Numerous experiments on ships' magnetism were conducted at
 Portsmouth by Flinders, by order of the admiralty, in 1812. Besides the
 _Voyage_, Flinders wrote _Observations on the Coast of Van Diemen's

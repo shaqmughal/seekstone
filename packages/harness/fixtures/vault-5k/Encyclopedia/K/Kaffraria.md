@@ -8,11 +8,11 @@ type: note
 # Kaffraria
 
 KAFFRARIA, the descriptive name given to the S.E. part of the Cape
-province, South Africa. Kaffraria, i.e. the land of the Kaffirs (q.v.),
+province, South Africa. Kaffraria, i.e. the land of the [[Kaffirs]] (q.v.),
 is no longer an official designation. It used to comprise the districts
 now known as King William's Town and East London, which formed British
 Kaffraria, annexed to Cape Colony in 1865, and the territory beyond the
-Kei River south of the Drakensberg Mountains as far as the Natal
+Kei River south of the [[Drakensberg]] Mountains as far as the Natal
 frontier, known as Kaffraria proper. As a geographical term it is still
 used to indicate the Transkeian territories of the Cape provinces
 comprising the four administrative divisions of Transkei, Pondoland,
@@ -43,7 +43,7 @@ increased from 487,364 in 1891 to 631,887 in 1904.
   Kaffraria except the St John's is navigable.
 
   Kaffraria is one of the most fertile regions in South Africa. The
-  mountain gorges abound in fine trees, thick forest and bush cover the
+  mountain [[Gorges|gorges]] abound in fine trees, thick forest and bush cover the
   river banks, grass grows luxuriantly in the lower regions, and the
   lowlands and valleys are favourable to almost any kind of fruit, field
   and garden cultivation. The coast districts are very hot in summer,
@@ -67,10 +67,10 @@ increased from 487,364 in 1891 to 631,887 in 1904.
   _Towns and Communication._--The chief town is Kokstad (q.v.), pop.
   (1904), 2903, the capital of Griqualand East. Umtata (2100 ft. above
   the sea, pop. 2342) on the river of the same name, capital of
-  Tembuland, is the residence of an assistant chief magistrate,
+  Tembuland, is the residence of an assistant chief [[Magistrate|magistrate]],
   headquarters of a division of the Cape Mounted Rifles, and seat of the
   Anglican bishopric of Kaffraria. The principal buildings are the
-  cathedral, a Gothic structure, built 1901-1906, and the town-hall, a
+  cathedral, a [[Gothic]] structure, built 1901-1906, and the town-hall, a
   fine building in Renaissance style, erected 1907-1908. Port St John is
   the chief town in Pondoland, and the only harbour of the country.
   Butterworth is the chief town in Transkei. Cala (pop. about 1000), in
@@ -85,7 +85,7 @@ increased from 487,364 in 1891 to 631,887 in 1904.
 
   _Administration and Justice._--The Cape administrative and judicial
   system is in force, save as modified by special enactments of the Cape
-  parliament. A "Native Territories Penal Code" which came into
+  parliament. A "Native Territories Penal [[Code]]" which came into
   operation on the 1st of January 1887 governs the relations of the
   natives, who are under the jurisdiction of a chief magistrate
   (resident at Cape Town) with subordinate magistrates in the
@@ -105,14 +105,14 @@ increased from 487,364 in 1891 to 631,887 in 1904.
   and have their own churches and ministers. The Anglican diocese of St
   John's, Kaffraria, was founded in 1873.
 
-_Annexation to the Cape._--The story of the conflicts between the Kaffir
+_[[Annexation]] to the Cape._--The story of the conflicts between the Kaffir
 tribes and the Cape colonists is told under CAPE COLONY. As early as
 1819 Kaffirland, or Kaffraria, was held not to extend west beyond the
 Keiskamma River. The region east of that river as far as the Kei River
 became in 1847 the Crown colony of British Kaffraria, and was annexed to
 Cape Colony in 1865. The Transkeian territories remained in nominal
 independence until 1875, when the Tembu sought British protection. An
-inter-tribal war in 1877 between Fingo and Gcaleka resulted in the
+inter-tribal war in 1877 between [[Fingo]] and Gcaleka resulted in the
 territory of the Gcaleka chief Kreli being occupied by the British. It
 was not, however, till 1879 that Fingoland and the Idutywa Reserve,
 together with the district then commonly called Noman's-land, were
@@ -141,7 +141,7 @@ Particulars concerning each of the four divisions of Kaffraria follow.
 
   _Griqualand East_ (area, 7594 sq. m.), so called to distinguish it
   from Griqualand West, a district north of the Orange River, lies
-  between Basutoland (N.W.), Natal (N.E.), Tembuland (S.W.) and
+  between [[Basutoland]] (N.W.), Natal (N.E.), Tembuland (S.W.) and
   Pondoland (S.E.). It occupies the southern slopes of the Drakensberg
   or the fertile valleys at their feet. It includes most of the region
   formerly called Noman's-land, and afterwards named Adam Kok's Land

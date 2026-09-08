@@ -1,12 +1,12 @@
 # Cosne
 
-COSNE, a town of central France, capital of an arrondissement in the
+COSNE, a town of central France, capital of an [[Arrondissement|arrondissement]] in the
 department of Nièvre, on the right bank of the Loire at its junction
 with the Nohain, 37 m. N.N.W. of Nevers by the Paris-Lyon railway. Pop.
-(1906) town, 5750; commune, 8437. Two suspension bridges unite it to the
+(1906) town, 5750; [[Commune|commune]], 8437. Two suspension bridges unite it to the
 left bank of the Loire. The church of St Aignan is a building of the
 12th century, restored in the 16th and 18th centuries; the only portions
-in the Romanesque style are the apse and the north-west portal. It
+in the Romanesque style are the [[Apse|apse]] and the north-west portal. It
 formerly belonged to a Benedictine priory depending on the abbey of La
 Charité (Nièvre). The manufacture of files, flour-milling and tanning
 are carried on in the town which has a subprefecture, a tribunal of

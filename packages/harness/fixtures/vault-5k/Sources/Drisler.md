@@ -2,7 +2,7 @@
 
 DRISLER, HENRY (1818-1897), American classical scholar, was born on the
 27th of December 1818, on Staten Island, New York. He graduated at
-Columbia College in 1839, taught classics in the Columbia grammar school
+[[Columbia]] College in 1839, taught classics in the Columbia grammar school
 for four years, and was then appointed tutor in classics in the college.
 In 1845 he became adjunct professor of Latin and Greek there, in 1857
 was appointed to the new separate chair of Latin language and

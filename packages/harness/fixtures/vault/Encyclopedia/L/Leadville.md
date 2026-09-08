@@ -9,7 +9,7 @@ topic: chemistry
 LEADVILLE, a city and the county seat of Lake county, Colorado, U.S.A.,
 one of the highest (mean elevation c. 10,150 ft.) and most celebrated
 mining "camps" of the world. Pop. (1900) 12,455, of whom 3802 were
-foreign-born; (1910 census) 7508. It is served by the Denver & Rio
+foreign-born; (1910 census) 7508. It is served by the [[Denver]] & Rio
 Grande, the Colorado & Southern and the Colorado Midland railways. It
 lies amid towering mountains on a terrace of the western flank of the
 Mosquito Range at the head of the valley of the Arkansas river, where
@@ -22,8 +22,8 @@ and by July 1860 Oro City had probably 10,000 inhabitants. In five years
 the total yield was more than $5,000,000; then it diminished, and Oro
 City shrank to a few hundred inhabitants. This settlement was within the
 present limits of Leadville. In 1876 the output of the mines was about
-$20,000. During sixteen years "heavy sands" and great boulders that
-obstructed the placer fields had been moved thoughtlessly to one side.
+$20,000. During sixteen years "heavy sands" and great [[Boulder|boulders]] that
+obstructed the placer [[Fields|fields]] had been moved thoughtlessly to one side.
 These boulders were from enormous lead carbonate deposits extremely rich
 in silver. The discovery of these deposits was made on the hills at the
 edge of Leadville. The first building was erected in June 1877; in
@@ -43,7 +43,7 @@ to 1899 the gold product rose from $262,692 to $2,183,332. From 1879 to
 1900 the camp yielded $250,000,000 (as compared with $48,000,000 of gold
 and silver in five years from the Comstock, Nevada, lode; and
 $60,000,000 and 225,000 tons of lead, in fourteen years, from the
-Eureka, Nevada, mines). Before 1898 the production of zinc was
+[[Eureka]], Nevada, mines). Before 1898 the production of zinc was
 unimportant, but in 1906 it was more valuable than that of silver and
 gold combined. This increased output is a result of the establishment of
 concentrating mills, in which the zinc content is raised from 18 or 20%
@@ -52,7 +52,7 @@ Lake county ore, zinc was valued at $6.93, silver at $4.16, lead at
 $3.85, gold at $1.77 and copper at $.66. The copper mined at Leadville
 amounted to about one-third the total mined in the state in 1906. Iron
 and manganese have been produced here, and in 1906 Leadville was the
-only place in the United States known to have produced bismuth. There
+only place in the United States known to have produced [[Bismuth|bismuth]]. There
 were two famous labour strikes in the "diggings" in 1879 and 1896. The
 latter attracted national attention; it lasted from the 19th of June
 1896 to the 9th of March 1897, when the miners, being practically
@@ -60,10 +60,10 @@ starved out, declared the strike off. There had been a riot on the 21st
 of September 1896 and militia guarded the mines for months afterwards.
 In January 1897 the mines on Carbonate Hill were flooded after the
 removal of their pumps. This strike closed many mines, which were not
-opened for several years. Leadville stocks are never on the exchange,
+opened for several years. Leadville stocks are never on the [[Exchange|exchange]],
 and "flotation" and "promotion" have been almost unknown.
 
-  The ores of the Leadville District occur in a blue limestone formation
+  The ores of the Leadville District occur in a blue [[Limestone|limestone]] formation
   overlaid by porphyry, and are in the form of heavy sulphides,
   containing copper, gold, silver, lead and zinc; oxides containing
   iron, manganese and small amounts of silver and lead; and siliceous
@@ -83,7 +83,7 @@ and "flotation" and "promotion" have been almost unknown.
 
   See S. F. Emmons, _Geology and Mining Industry of Leadville,
   Colorado_, monograph United States Geological Survey, vol. 12 (1886),
-  and with J. D. Irving, _The Downtown District of Leadville, Colorado_,
+  and with J. D. [[Irving]], _The Downtown District of Leadville, Colorado_,
   Bulletin 320, United States Geological Survey (1907), particularly for
   the discussion of the origin of the ores of the region.
 

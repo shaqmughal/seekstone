@@ -25,7 +25,7 @@ vacuo_. The portion distilling at about 200 deg. C. is then methylated
 by means of methyl alcohol and methyl iodide at 100-110 deg. C., the
 excess of methyl alcohol removed and the product obtained decolorized by
 sulphuric acid. The residue is treated with a warm concentrated solution
-of soda, and the oil which separates is removed by shaking with benzene.
+of soda, and the oil which separates is removed by shaking with [[Benzene|benzene]].
 The benzene layer on evaporation deposits the anti-pyrine as a
 colourless crystalline solid which melts at 113 deg. C. and is soluble
 in water. It is basic in character, and gives a red coloration on the

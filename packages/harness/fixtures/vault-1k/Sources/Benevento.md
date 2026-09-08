@@ -41,7 +41,7 @@ and an ancient brick arch (called the Arco del Sacramento), while below
 the town is the Ponte Lebroso, a bridge of the Via Appia over the
 Sabbato, and along the road to Avellino are remains of _thermae_. Many
 inscriptions and ancient fragments may be seen built into the houses; in
-front of the Madonna delle Grazie is a bull in red Egyptian granite, and
+front of the Madonna delle Grazie is a [[Bull|bull]] in red Egyptian granite, and
 in the Piazza Papiniano the fragments of two Egyptian obelisks erected
 in A.D. 88 in front of the temple of Isis in honour of Domitian. In 1903
 the foundations of this temple were discovered close to the Arch of

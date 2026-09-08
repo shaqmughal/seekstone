@@ -8,10 +8,10 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bergamask"
 
 # Bergamask
 
-BERGAMASK, or BERGOMASK (from the town of Bergamo in North Italy), a
-clumsy rustic dance (cf. Shakespeare, _Midsummer Night's Dream_, v. 360)
+BERGAMASK, or BERGOMASK (from the town of [[Bergamo]] in North Italy), a
+clumsy rustic dance (cf. Shakespeare, _Midsummer Night's [[Dream]]_, v. 360)
 copied from the natives of Bergamo, reputed to be very awkward in their
-manners.
+[[Manners|manners]].
 
 ## References
 

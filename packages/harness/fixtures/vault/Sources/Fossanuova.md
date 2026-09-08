@@ -10,9 +10,9 @@ tags: [economics, botany]
 
 FOSSANUOVA, an abbey of Italy, in the province of Rome, near the railway
 station of Sonnino, 64 m. S.E. of Rome. It is the finest example of a
-Cistercian abbey, and of the Burgundian Early Gothic style, in Italy,
+Cistercian abbey, and of the Burgundian Early [[Gothic]] style, in Italy,
 and dates from the end of the 12th to the end of the 13th century. The
-church (1187-1208) is closely similar to that of Casamari. The other
+church (1187-1208) is closely similar to that of [[Casamari]]. The other
 conventual buildings also are noteworthy. Thomas Aquinas died here in
 1274.
 
@@ -23,14 +23,14 @@ conventual buildings also are noteworthy. Thomas Aquinas died here in
 
 
 
-FOSSE (or FOSS) WAY, the Early English name of a Roman road or series of
-roads in Britain, used later by the English, running from Lincoln by
+FOSSE (or [[Foss|FOSS]]) WAY, the Early English name of a Roman road or series of
+roads in Britain, used later by the English, running from [[Lincoln]] by
 Leicester and Bath to Exeter. Almost all the Roman line is still in use
-as modern road or lane. It passes from Lincoln through Newark and
+as modern road or [[Lane|lane]]. It passes from Lincoln through Newark and
 Leicester (the Roman _Ratae_) to High Cross (_Venonae_), where it
 intersects Watling Street at a point often called "the centre of
 England." Hence it runs to Moreton-in-the-Marsh, Cirencester, Bath and
-Ilchester, crosses the hills near Chard, Axminster and Honiton, and
+[[Ilchester]], crosses the hills near Chard, [[Axminster]] and [[Honiton]], and
 enters Exeter. Antiquaries have taken it farther, usually to Totnes, but
 without warrant. (See further under ERMINE STREET.)     (F. J. H.)
 

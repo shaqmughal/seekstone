@@ -14,21 +14,21 @@ receiving his early education at Giggleswick school, of which his father
 was head-master, he went to Trinity College, Cambridge, and there became
 tutor successively to the marquis of Sligo and the marquis of Lorne. In
 1845 Howson, having taken orders, accepted the post of senior classical
-master at the Liverpool College under his friend W. J. Conybeare, whom
+master at the [[Liverpool]] College under his friend W. J. [[Conybeare]], whom
 he succeeded as principal in 1849. This post he held until 1865, and it
 was largely due to his influence that a similar college for girls was
 established at Liverpool. In 1866 he left Liverpool for the vicarage of
-Wisbech, and in 1867 he was appointed dean of Chester Cathedral, where
+Wisbech, and in 1867 he was appointed dean of [[Chester]] Cathedral, where
 he gave himself vigorously to the work of restoring the crumbling
 fabric, collecting nearly L100,000 in five years for this purpose. His
 sympathies were with the evangelical party, and he stoutly opposed the
 "Eastward position," but he was by no means narrow. He did much to
-reintroduce the ministry of women as deaconesses. The building of the
+reintroduce the ministry of women as [[Deaconess|deaconesses]]. The building of the
 King's School for boys, and the Queen's School for girls (both in
 Chester), was due in a great measure to the active interest which he
-took in educational matters. He died at Bournemouth on the 15th of
+took in educational matters. He died at [[Bournemouth]] on the 15th of
 December 1885, and was buried in the cloister garth of Chester. Howson's
-chief literary production was _The Life and Epistles of St Paul_ (1852)
+chief literary production was _The Life and [[Epistle|Epistles]] of St Paul_ (1852)
 in which he collaborated with Conybeare.
 
   The book is still of interest, especially for its descriptive
@@ -41,7 +41,7 @@ in which he collaborated with Conybeare.
 
 
 HOWTH [pronounced _Hoth_], a seaside town of Co. Dublin, Ireland, on the
-rocky hill of Howth, which forms the northern horn of Dublin Bay, 9 m.
+rocky hill of Howth, which forms the northern [[Horn|horn]] of Dublin Bay, 9 m.
 N.E. by N. of Dublin by the Great Northern railway. Pop. (1901) 1166. It
 is frequented by the residents of the capital as a watering-place. The
 artificial harbour was formed (1807-1832) between the mainland and the

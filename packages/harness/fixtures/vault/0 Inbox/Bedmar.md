@@ -18,7 +18,7 @@ was instructed to destroy this league. Assisted by the duke of Ossuna,
 viceroy of Naples, he formed a plan to bring the city into the power of
 Spain, and the scheme was to be carried out on Ascension Day 1618. The
 plot was, however, discovered; and Bedmar, protected by his position
-from arrest, left Venice and went to Flanders as president of the
+from [[Arrest|arrest]], left Venice and went to [[Flanders]] as president of the
 council. In 1622 he was made a cardinal, and soon afterwards became
 bishop of Oviedo, a position which he retained until his death, which
 occurred at Oviedo on the 2nd of August 1655. The authorship of an
@@ -33,7 +33,7 @@ by no means unlikely that such a scheme was planned.
 
   See C.V. de Saint-Real, _OEuvres_, tome iv. (Paris, 1745); P.J.
   Grosley, _Discussion historique et critique sur la conjuration de
-  Venise_ (Paris, 1756); P.A.N.B. Daru, _Histoire de la republique de
+  Venise_ (Paris, 1756); P.A.N.B. [[Daru]], _Histoire de la republique de
   Venise_ (Paris, 1853); A. Baschet, _Histoire de la chancellerie
   secrete a Venise_ (Paris, 1870).
 

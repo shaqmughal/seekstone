@@ -15,28 +15,28 @@ the Berkshires--hills, lakes, charming intervales and woods. As early as
 the creation of large estates, although the great holdings of the
 present day, and the villas scattered over the hills, are comparatively
 recent features. The height of the season is in the autumn, when there
-are horse-shows, golf, tennis, hunts and other outdoor amusements. The
+are horse-shows, [[Golf|golf]], tennis, [[Hunt|hunts]] and other outdoor amusements. The
 Lenox library (1855) contained about 20,000 volumes in 1908. Lenox was
 settled about 1750, was included in Richmond township in 1765, and
 became an independent township in 1767. The names were those of Sir
-Charles Lennox, third duke of Richmond and of Lennox (1735-1806), one of
+Charles [[Lennox]], third duke of Richmond and of Lennox (1735-1806), one of
 the staunch friends of the American colonies during the War of
 Independence. Lenox was the county-seat from 1787 to 1868. It has
 literary associations with Catherine M. Sedgwick (1789-1867), who passed
-here the second half of her life; with Nathaniel Hawthorne, whose brief
+here the second half of her life; with Nathaniel [[Hawthorne]], whose brief
 residence here (1850-1851) was marked by the production of the _House
-of the Seven Gables_ and the _Wonder Book_; with Fanny Kemble, a summer
+of the Seven [[Gable|Gables]]_ and the _Wonder Book_; with Fanny [[Kemble]], a summer
 resident from 1836-1853; and with Henry Ward Beecher (see his _Star
 Papers_). Elizabeth (Mrs Charles) Sedgwick, the sister-in-law of
 Catherine Sedgwick, maintained here from 1828 to 1864 a school for
-girls, in which Harriet Hosmer, the sculptor, and Maria S. Cummins
+girls, in which Harriet [[Hosmer]], the sculptor, and Maria S. Cummins
 (1827-1866), the novelist, were educated; and in Lenox academy (1803), a
 famous classical school (now a public high school) were educated W. L.
-Yancey, A. H. Stephens, Mark Hopkins and David Davis (1815-1886), a
+Yancey, A. H. Stephens, Mark [[Hopkins]] and David Davis (1815-1886), a
 circuit judge of Illinois from 1848 to 1862, a justice (1862-1877) of
 the United States Supreme Court, a Republican member of the United
 States Senate from Illinois in 1877-1883, and president of the Senate
-from the 31st of October 1881, when he succeeded Chester A. Arthur,
+from the 31st of October 1881, when he succeeded [[Chester]] A. Arthur,
 until the 3rd of March 1883. There is a statue commemorating General
 John Paterson (1744-1808) a soldier from Lenox in the War of
 Independence.

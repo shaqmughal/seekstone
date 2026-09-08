@@ -7,18 +7,18 @@ left at each side of the strings to allow the hand to pass through in
 order to stop the strings on the finger-board. The Welsh crwth, which
 survived until the end of the 18th century, is best represented by a
 specimen of that date preserved in the Victoria and Albert Museum, and
-described and illustrated by Carl Engel.[1] The instrument consists of a
+described and illustrated by Carl [[Engel]].[1] The instrument consists of a
 rectangular sound-chest 22 in. long, 9(1/2) in. wide and 2 in. deep; the
 body is scooped out of a single block, the flat belly being glued on.
 Right through the sound-chest on each side of the finger-board is the
 characteristic open space left for the hand to pass through. There are
 two circular sound-holes; the left foot of the flat bridge, which lies
 obliquely across the belly, passes through the left sound-hole and rests
-inside on the back of the instrument. Six catgut strings fastened to a
+inside on the back of the instrument. Six [[Catgut|catgut]] strings fastened to a
 tail-piece are wound round pegs at the top of the crwth; four of these
 strings lie over the sound-board and bridge, and are set in vibration by
-means of a bow, while the two others, used as drones and stretched
-across the left-hand aperture, are twanged by the thumb of the left
+means of a [[Bow|bow]], while the two others, used as [[Drone|drones]] and stretched
+across the left-hand [[Aperture|aperture]], are twanged by the thumb of the left
 hand. The shape and shallowness of the bridge make it impossible to
 sound a single string with the bow; the arrangement of the strings
 suggests that they were intended to be sounded in pairs. The instrument
@@ -28,23 +28,23 @@ is tuned thus: [Music notes].
 
   At the beginning of the 19th century, William Bingley[2] heard a Welsh
   peasant playing national airs on a crwth strung as follows:--[Music
-  notes]. Sir John Hawkins[3] relates that in his time there was still a
+  notes]. Sir John [[Hawkins]][3] relates that in his time there was still a
   Welshman living in Anglesea who understood how to play the crwth
   according to traditional usage. Edward Jones[4] and Daines
-  Barrington[5] both give an account of the Welsh crwth of the 18th
+  [[Barrington]][5] both give an account of the Welsh crwth of the 18th
   century which agrees substantially with Engel's; the illustration
   communicated by Daines Barrington shows the strings of the crwth drawn
   through holes at the top, and fastened on the back, as on the Persian
   rebab and other Oriental stringed instruments. On these somewhat
-  scanty authentic records of the instrument, several historians of
+  scanty [[Authentic|authentic]] records of the instrument, several historians of
   music have based an illogical claim that the crwth, or rather chrotta
-  or rotta, mentioned by Venantius Fortunatus as a British instrument,
+  or rotta, mentioned by Venantius [[Fortunatus]] as a British instrument,
   was the Welsh crwth as it was known in the 18th century, and was the
   earliest bowed instrument, and therefore the ancestor of the violin.
   The lines of Fortunatus, who was bishop of Poictiers during the second
   half of the 6th century, ran thus:--[6]
 
-    "Romanusque lyra, plaudat tibi Barbarus harpa,
+    "Romanusque [[Lyra|lyra]], plaudat tibi Barbarus harpa,
      Graecus Achilliaca, chrotta Britanna canat."
 
   The bow is not mentioned by Fortunatus, and there is no ground
@@ -54,17 +54,17 @@ is tuned thus: [Music notes].
   of the body without incurvations, the flat bridge which rendered
   bowing, even in the most highly developed specimens of the 18th
   century, a difficult task, together with what is known of the early
-  history of the chrotta and rotta derived from the lyre and cithara and
-  like them twanged by fingers or plectrum, all make the claim
+  history of the chrotta and rotta derived from the lyre and [[Cithara|cithara]] and
+  like them twanged by [[Finger|fingers]] or plectrum, all make the claim
   untenable. Carl Engel was probably the first to expose the fallacy in
   his work on the violin.[7]
 
   British lexicographers all agree in deriving the words crwth, crowd
   and other forms of the name, from some word meaning a bulging
-  protuberant bellying form, while in German the etymology of the word
+  protuberant bellying form, while in German the [[Etymology|etymology]] of the word
   _Chrotta_ is given as _Chrota_ or _Chreta_, the O.H.G. for _Krote_ =
   toad, _Schildkrote_ = tortoise. This word _Chrotta_ was undoubtedly
-  the German equivalent term for the lyre of Hermes, having as back a
+  the German equivalent term for the lyre of [[Hermes]], having as back a
   tortoise-shell, [Greek: chelys] in Greek and _testudo_ in Latin.
   Chrotta was also spelt _hrotta_, and it is easy to see how this became
   rotta. A thoughtful and suggestive treatment of the whole subject will
@@ -80,7 +80,7 @@ is tuned thus: [Music notes].
   be reckoned among the early ancestors of the violin before the advent
   of the bow; it was known both as rotta and cithara, and with a neck
   added it became the guitar-fiddle. (2) The tortoise or lyre chrotta
-  consisted of a protuberant, very convex back cut out of a block of
+  consisted of a protuberant, very [[Convex|convex]] back cut out of a block of
   wood, to which was glued a flat sound-board, at first like the lyre,
   without intermediary ribs. This instrument became the crwth, and there
   was no further development. The first step in the transition of both
@@ -89,7 +89,7 @@ is tuned thus: [Music notes].
   addition of a finger-board against which the strings were stopped,
   thus increasing the compass while restricting the number of strings to
   three or four; the third step, observed only in the rotta-cithara,
-  consisted in the addition of a neck,[9] as in the guitar. The crwth,
+  consisted in the addition of a neck,[9] as in the [[Guitar|guitar]]. The crwth,
   crowd, crouth did not undergo this third transition even when the bow
   was used to set the strings in vibration.
 
@@ -107,7 +107,7 @@ is tuned thus: [Music notes].
   example occurs in the Bible of St Paul,[11] another of the magnificent
   MSS. prepared for Charles the Bald, and preserved during the middle
   ages in the monastery of St Paul _extra muros_ in Rome (now deposited
-  in that of St Calixtus in Rome). Other representations are in the
+  in that of St [[Calixtus]] in Rome). Other representations are in the
   miniatures of the 11th, 12th and 13th centuries. To Edward Heron-Allen
   (_De fidiculis opuscula_, viii., 1895) is due the discovery of a
   representation of the Welsh crwth, showing the form still retained in
@@ -116,12 +116,12 @@ is tuned thus: [Music notes].
   14th-century instrument had four strings instead of six, and the foot
   of the bridge does not appear to pass through the sound-hole--a detail
   which may have escaped the notice of the artist who cut the seal. The
-  original seal lies in the muniment room at Berkeley Castle in
-  Gloucestershire attached to a defeasance of a bond between the
+  original seal lies in the muniment room at [[Berkeley]] Castle in
+  Gloucestershire attached to a [[Defeasance|defeasance]] of a bond between the
   _crowder_ and his debtor Warren de l'Isle, and a cast (see fig. 3) is
   preserved at the British Museum. The British Museum also possesses two
   interesting MSS. which concern the crwth: one of these (Add. MS. 14939
-  ff. 4 and 27) contains an extract made by Lewis Morris in 1742 from an
+  ff. 4 and 27) contains an extract made by [[Lewis]] Morris in 1742 from an
   ancient Welsh MS. of "Instructions supposed to be wrote for the
   Crowd"; the other (Add. MS. 15036 ff. 65b and 66) consists of tracings
   from a 16th-century Welsh MS. copied in 1610 of a bagpipe, a harp and
@@ -164,7 +164,7 @@ is tuned thus: [Music notes].
   instrument, but only a late 18th-century survival in Wales of an
   archaic instrument once generally popular in Europe but long obsolete.
   An interesting article on the subject in German by J. F. W. Wewertem
-  will be found in _Monatshefte fur Musik_ (Berlin, 1881), Nos. 7-12, p.
+  will be found in _Monatshefte [[Fur|fur]] Musik_ (Berlin, 1881), Nos. 7-12, p.
   151, &c.     (K. S.)
 
 
@@ -195,7 +195,7 @@ FOOTNOTES:
   [9] See also Kathleen Schlesinger, op. cit. ch. vii., "The Cithara in
     Transition," pp. 111-135 with illustrations.
 
-  [10] See Auguste de Bastard, _Peintures et ornements des MSS. de
+  [10] See Auguste de [[Bastard]], _Peintures et ornements des MSS. de
     France_, and _Peintures, ornements, &c., de la bible de Charles le
     Chauve_, in facsimile (Paris, 1883).
 

@@ -6,7 +6,7 @@ pressure or the irritation of sweat and dirt. Bedsores usually occur
 when there is a low condition of nutrition of the tissues. The more
 helpless the patient the more liable he is to bedsores, and especially
 when he is paralysed, delirious or insane, or when suffering from one of
-the acute specific fevers. They may occur wherever there is a pressure,
+the acute specific [[Fever|fevers]]. They may occur wherever there is a pressure,
 more especially when any moisture is allowed to remain on the bedding;
 and thus lack of cleanliness is an important factor in the production of
 this condition. In large hospitals a bedsore is now a great rarity, and
@@ -17,9 +17,9 @@ become soiled; the drawsheet is spread without creases, and changed the
 moment it becomes soiled. Preventive treatment must be followed from the
 first day of the illness. This consists in the most minute attention to
 cleanliness, and constant variation in the position of the patient. All
-parts subjected to pressure or friction must be frequently washed with
+parts subjected to pressure or [[Friction|friction]] must be frequently washed with
 soap and hot water, then thoroughly dried with a warm soft towel. The
-part should next be bathed in a solution of corrosive sublimate in
+part should next be bathed in a solution of [[Corrosive Sublimate|corrosive sublimate]] in
 spirits of wine, and finally dusted with an oxide of zinc and starch
 powder. This routine should be gone through not less than four times in
 the twenty-four hours in any case of prolonged illness. The pressure may
@@ -36,11 +36,11 @@ still be prevented if proper care is taken; but failing this, the skin
 sloughs and an ulcer forms. In treating this, the position of the
 patient must be such that no pressure is ever allowed on the sloughing
 tissue. A hot boracic pad under oil-silk should be applied, the affected
-part being first dusted with iodoform. If, however, the slough is very
+part being first dusted with [[Iodoform|iodoform]]. If, however, the slough is very
 large, it is safer to avoid wet applications, and the parts should be
-dusted with animal charcoal and iodoform, and protected with a dry
+dusted with animal [[Charcoal|charcoal]] and iodoform, and protected with a dry
 dressing. When the slough has separated and the sore is clean, friar's
-balsam will hasten the healing process. In any serious illness the
+[[Balsam|balsam]] will hasten the healing process. In any serious illness the
 formation of a bedsore makes the prognosis far more grave, and may even
 bring about a fatal issue, either directly or indirectly.
 

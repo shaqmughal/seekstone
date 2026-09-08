@@ -2,12 +2,12 @@
 
 GOTA, a river of Sweden, draining the great Lake Vener. The name,
 however, is more familiar in its application to the canal which affords
-communication between Gothenburg and Stockholm. The river flows out of
-the southern extremity of the lake almost due south to the Cattegat,
+communication between [[Gothenburg]] and Stockholm. The river flows out of
+the southern extremity of the lake almost due south to the [[Cattegat]],
 which it enters by two arms enclosing the island of Hisingen, the
 eastern forming the harbour and bearing the heavy sea-traffic of the
 port of Gothenburg. The Gota river is 50 m. in length, and is navigable
-for large vessels, a series of locks surmounting the famous falls of
+for large vessels, a series of [[Lock|locks]] surmounting the famous falls of
 Trollhattan (q.v.). Passing the abrupt wooded Halleberg and Hunneberg
 (royal shooting preserves) Lake Vener is reached at Venersborg. Several
 important ports lie on the north, east and south shores (see VENER).
@@ -31,7 +31,7 @@ from Gothenburg to Stockholm is about 360 m., and the voyage takes about
 2-1/2 days. The length of artificial work on the Gota canal proper is 54
 m., and there are 58 locks. The scenery is not such as will bear adverse
 weather conditions; that of the western canal is without any interest
-save in the remarkable engineering work. The idea of a canal dates from
+save in the remarkable [[Engineering|engineering]] work. The idea of a canal dates from
 1516, but the construction was organized by Baron von Platten and
 engineered by Thomas Telford in 1810-1832. The falls of Trollhattan had
 already been locked successfully in 1800.

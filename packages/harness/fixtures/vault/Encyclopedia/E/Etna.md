@@ -6,9 +6,9 @@ topic: cavalry
 
 # Etna
 
-ETNA (Gr. [Greek: Aitnê], from [Greek: aithô], burn; Lat. _Aetna_), a
+ETNA (Gr. [Greek: Aitnê], from [Greek: aithô], [[Burn|burn]]; Lat. _Aetna_), a
 volcano on the east coast of Sicily, the summit of which is 18 m. N. by
-W. of Catania. Its height was ascertained to be 10,758 ft. in 1900,
+W. of [[Catania]]. Its height was ascertained to be 10,758 ft. in 1900,
 having decreased from 10,870 ft. in 1861. It covers about 460 sq. m.,
 and by rail the distance round the base of the mountain is 86 m.,
 though, as the railway in some places travels high, the correct
@@ -18,7 +18,7 @@ in ancient times, for the so-called Torre del Filosofo, which is only
 shape is that of a truncated cone, interrupted on the west by the Valle
 del Bove, a huge sterile abyss, 3 m. wide, bounded on three sides by
 perpendicular cliffs (2000 to 4000 ft.). Its south-west portion, which
-is the deepest, was perhaps the original crater. There are also some 200
+is the deepest, was perhaps the original [[Crater|crater]]. There are also some 200
 subsidiary cones, some of them over 3000 ft. high, which have risen over
 lateral fissures. On the slopes of the mountain there are three distinct
 zones of vegetation, distinguished by Strabo (vi. p. 273 ff.). The
@@ -30,8 +30,8 @@ per sq. m. in the triangle between Catania, Nicolosi and Acireale. The
 next zone is the wooded zone, and is hardly inhabited, only a few
 isolated houses occurring. The lower part of it (up to about 6000 ft.)
 consists chiefly of forests of evergreen pines (_Pinus nigricans_), the
-upper (up to about 6800 ft.) of birch woods (_Betula alba_). A few oaks
-and red beeches occur, while chestnut trees grow anywhere between 1000
+upper (up to about 6800 ft.) of [[Birch|birch]] woods (_Betula alba_). A few oaks
+and red [[Beech|beeches]] occur, while chestnut trees grow anywhere between 1000
 and 5300 ft. In the third and highest zone the vegetation is stunted,
 and there is a narrow zone of sub-Alpine shrubs, but no Alpine flora. In
 the last 2000 ft. five phanerogamous species only are to be found, the
@@ -54,7 +54,7 @@ According to Lyell, Etna is rather older than Vesuvius--perhaps of the
 same geological age as the Norwich Crag. At Trezza, on the eastern base
 of the mountain, basaltic rocks occur associated with fossiliferous
 Pliocene clays. The earliest eruptions of Etna are older than the
-Glacial period in Central and Northern Europe. If all the minor cones
+[[Glacial Period|Glacial period]] in Central and Northern Europe. If all the minor cones
 and monticules could be stripped from the mountain, the diminution of
 bulk would be extremely slight. Lyell concluded that, although no
 approximation can be given of the age of Etna, "its foundations were
@@ -63,29 +63,29 @@ strata from one central point in the Val del Bue he further concluded
 that there once existed a second great crater of permanent eruption. The
 rocks erupted by Etna have always been very constant in composition,
 viz. varieties of basaltic lava and tuff containing little or no
-olivine--the rock type known as labradorite. At Acireale the lava has
+olivine--the rock type known as [[Labradorite|labradorite]]. At Acireale the lava has
 assumed the prismatic or columnar form in a striking manner; at the rock
 of Aci it is in parts spheroidal. The Grotte des Chèvres has been
 regarded as an enormous gas-bubble in the lava. The remarkable stability
-of the mountain appears to be due to the innumerable dikes which
+of the mountain appears to be due to the innumerable [[Dike|dikes]] which
 penetrate the lava flows and tuff beds in all directions and thus bind
 the whole mass together.
 
 From the earliest times the mountain has naturally been the subject of
 legends. The Greeks believed it to be either the mountain with which
-Zeus had crushed the giant Typhon (so Pindar, Pyth. i. 34 seq.;
+Zeus had crushed the [[Giant|giant]] Typhon (so Pindar, Pyth. i. 34 seq.;
 Aeschylus, _Prometheus Vinctus_, 351 seq.; Strabo xiii. p. 626), or
 Enceladus (Virgil, _Georg._ i. 471; Oppian, Cyn. i. 273), or the
-workshop of Hephaestus and the Cyclopes (Cic. _De divin._ ii. 19; cf.
+workshop of [[Hephaestus]] and the [[Cyclopes]] (Cic. _De divin._ ii. 19; cf.
 Lucil., _Aetna_, 41 seq., Solin, 11). Several Roman writers, on the
 other hand, attempted to explain the phenomena which it presented by
-natural causes (e.g. Lucretius vi. 639 seq.; Lucilius, _Aetna_, 511
+natural causes (e.g. [[Lucretius]] vi. 639 seq.; Lucilius, _Aetna_, 511
 seq.). Ascents of the mountain were not infrequent in those days--one
 was made by Hadrian.
 
-  See Sartorius von Waltershausen, _Atlas des Ätna_ (Leipzig, 1880); E.
+  See Sartorius von Waltershausen, _[[Atlas]] des Ätna_ (Leipzig, 1880); E.
   Chaix, _Carta Volcanologica e topographica dell' Etna_ (showing lava
-  streams up to 1892); G. de Lorenzo, _L'Etna_ (Bergamo, 1907).
+  streams up to 1892); G. de Lorenzo, _L'Etna_ ([[Bergamo]], 1907).
 
 ## See also
 

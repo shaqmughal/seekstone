@@ -16,7 +16,7 @@ authors,--Aelius Spartianus, Julius Capitolinus, Aelius Lampridius,
 Vulcacius Gallicanus, Trebellius Pollio and Flavius Vopiscus--known as
 Scriptores Historiae Augustae, writers of Augustan history. It is
 generally agreed, however, that there is a large number of
-interpolations in the work, which are referred to the reign of
+[[Interpolation|interpolations]] in the work, which are referred to the reign of
 Theodosius; and that the documents inserted in the lives are almost all
 forgeries. The more advanced school of critics holds that the names of
 the supposed authors are purely fictitious, as those of some of the
@@ -24,12 +24,12 @@ authorities which they profess to quote certainly are. The lives, which
 (with few exceptions) are arranged in chronological order, are
 distributed as follows:--To Spartianus: the biographies of Hadrian,
 Aelius Verus, Didius Julianus, Septimius Severus, Pescennius Niger,
-Caracallus, Geta (?); to Vulcacius Gallicanus: Avidius Cassius; to
-Capitolinus: Antoninus Pius, Marcus Aurelius Antoninus, Verus, Pertinax,
-Clodius Albinus, the two Maximins, the three Gordians, Maximus and
+Caracallus, Geta (?); to Vulcacius Gallicanus: Avidius [[Cassius]]; to
+Capitolinus: Antoninus Pius, [[Marcus Aurelius Antoninus]], Verus, Pertinax,
+[[Clodius]] Albinus, the two Maximins, the three Gordians, Maximus and
 Balbinus, Opilius Macrinus (?); to Lampridius: Commodus, Diadumenus,
 Elagabalus, Alexander Severus; to Pollio: the two Valerians, the
-Gallieni, the so-called Thirty Tyrants or Usurpers, Claudius (his lives
+[[Gallieni]], the so-called Thirty Tyrants or Usurpers, Claudius (his lives
 of Philip, Decius, and Gallus being lost); to Vopiscus: Aurelian,
 Tacitus, Florian, Probus, the four tyrants (Firmus, Saturninus,
 Proculus, Bonosus), Carus, Numerian, Carinus.
@@ -52,7 +52,7 @@ and unsuspicious of the stupendous social revolution comprised within
 the period which they undertake to describe. Their value, consequently,
 depends very much on that of the sources to which they happen to have
 recourse for any given period of history, and on the fidelity of their
-adherence to these when valuable. Marius Maximus and Aelius Junius
+adherence to these when valuable. [[Marius]] Maximus and Aelius Junius
 Cordus, to whose qualifications they themselves bear no favourable
 testimony, were their chief authorities for the earlier lives of the
 series. Marius Maximus, who lived about 165-230, wrote biographies of
@@ -87,7 +87,7 @@ superficial and conventional, but report the verdict of public opinion
 with substantial accuracy. The only imputation on the integrity of any
 of them lies against Trebellius Pollio, who, addressing his work to a
 descendant of Claudius, the successor and probably the assassin of
-Gallienus, has dwelt upon the latter versatile sovereign's carelessness
+[[Gallienus]], has dwelt upon the latter versatile sovereign's carelessness
 and extravagance without acknowledgment of the elastic though fitful
 energy he so frequently displayed in defence of the empire. The caution
 of Vopiscus's references to Diocletian cannot be made a reproach to him.
@@ -103,7 +103,7 @@ domestic in the imperial household. They address their patrons with
 deference, acknowledging their own deficiencies, and seem painfully
 conscious of the profession of literature having fallen upon evil days.
 
-  Editio princeps (Milan, 1475); Casaubon (1603) showed great critical
+  Editio princeps (Milan, 1475); [[Casaubon]] (1603) showed great critical
   ability in his notes, but for want of a good MS. left the restoration
   of the text to Salmasius (1620), whose notes are a most remarkable
   monument of erudition, combined with acuteness in verbal criticism and
@@ -116,11 +116,11 @@ conscious of the profession of literature having fallen upon evil days.
   recent treatises on the subject are: A. Gemoll, _Die Scriptores
   Historiae Augustae_ (1886); H. Peter, _Die Scriptores Historiae
   Augustae_ (1892); G. Tropea, _Studi sugli Scriptores Historiae
-  Augustae_ (1899-1903); J.M. Heer, _Der historische Wert der Vita
+  Augustae_ (1899-1903); J.M. [[Heer]], _Der historische Wert der Vita
   Commodi in der Sammlung der Scriptores Historiae Augustae_ (1901); C.
   Lecrivain, _Etudes sur l'histoire Auguste_ (1904); E. Kornemann,
   _Kaiser Hadrian und der letzte grosse Historiker von Rom_ (1905),
-  according to whom "the last great historian of Rome" is Lollius
+  according to whom "the last great historian of Rome" is [[Lollius]]
   Urbicus; O. Schulz, _Das Kaiserhaus der Antonine und der letzte
   Historiker Roms_ (1907). On their style, see C. Paucker, _De
   Latinitate Scriptorum Historiae Augustae_ (1870); special lexicon by

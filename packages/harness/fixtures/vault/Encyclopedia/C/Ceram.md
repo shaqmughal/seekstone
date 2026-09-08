@@ -8,7 +8,7 @@ tags: [americas, economics]
 
 # Ceram
 
-CERAM (_Sirang_), an island of the Dutch East Indies, in the Molucca
+CERAM (_Sirang_), an island of the Dutch [[East Indies]], in the Molucca
 group, lying about 3° S., and between 127° 45' and 131° E. Its length is
 a little over 200 m., its greatest breadth about 50 m., and its area,
 including neighbouring islets, 6621 sq. m. It consists of two parts,
@@ -27,7 +27,7 @@ a few miles during the rainy season. The rainfall is very heavy,
 amounting to 121 in. (mean annual) on the south coast. On the north
 coast the bays of Savai and Waru are accessible for small vessels. The
 geological structure, consisting chiefly of eruptive rocks and
-crystalline limestone, is similar to that of northern Amboyna. In the
+crystalline [[Limestone|limestone]], is similar to that of northern Amboyna. In the
 eastern section the prevailing rock is crystalline chalk, similar to
 that of Buru. Several hot springs occur, and earthquakes are not
 infrequent. About 4000 persons perished in the earthquake of 1899. A
@@ -39,13 +39,13 @@ there are numbers of wild goats and cattle; and among birds are
 mentioned cassowaries, cockatoos, birds of paradise, and the swallows
 that furnish edible nests. A large number of fish are to be found in the
 various rivers; and as early as 1860 no fewer than 213 species were
-described. The most valuable timber tree is the iron-wood. Rice, maize,
+described. The most valuable timber tree is the [[Iron-Wood|iron-wood]]. Rice, maize,
 cocoa-nuts, sugar-cane and a variety of fruits are grown; and some
 tobacco is exported to Europe; but by far the most important production
 is the sago palm, which grows abundantly in the swampy districts,
 especially of Eastern Ceram, and furnishes a vast supply of food, not
 only to Ceram itself, but to other islands to the east. The Dutch have
-established cocoa and coffee plantations at various points. The
+established [[Cocoa|cocoa]] and coffee plantations at various points. The
 coast-villages are inhabited by a mixed Malay population, Buginese,
 Macassars, Balinese and other races of the archipelago. The interior is
 occupied by the aborigines, a people of Papuan stock. They are savages

@@ -19,7 +19,7 @@ organic substances, are in virtue of these properties effective
 disinfectants in certain diseases. A knowledge of the value of
 disinfectants, and the use of some of the most valuable agents, can be
 traced to very remote times; and much of the Levitical law of cleansing,
-as well as the origin of numerous heathen ceremonial practices, are
+as well as the origin of numerous [[Heathen|heathen]] ceremonial practices, are
 clearly based on a perception of the value of disinfection. The means of
 disinfection, and the substances employed, are very numerous, as are the
 classes and conditions of disease and contagion they are designed to
@@ -30,7 +30,7 @@ ever-present and acting disinfecting media. Of the artificial
 disinfectants employed or available three classes may be
 recognized:--1st, volatile or vaporizable substances, which attack
 impurities in the air; 2nd, chemical agents, for acting on the diseased
-body or on the infectious discharges therefrom; and 3rd, the physical
+body or on the infectious [[Discharge|discharges]] therefrom; and 3rd, the physical
 agencies of heat and cold. In some of these cases the destruction of the
 contagium is effected by the formation of new chemical compounds, by
 oxidation, deoxidation or other reaction, and in others the conditions
@@ -40,10 +40,10 @@ has of late years taken foremost place. The vapour is a powerful
 disinfectant and deodorant, and for the surface disinfection of rooms,
 fulfils all requirements when used in sufficient amount. It acts more
 rapidly than equal quantities of sulphurous acid, and it does not affect
-colours. It is non-poisonous, though irritating to the eyes and throat.
+[[Colours|colours]]. It is non-poisonous, though irritating to the eyes and throat.
 With the exception of iron and steel it does not attack metals. It can
 be obtained in paraform tabloids, and with a specially constructed
-spirit lamp disinfection can be carried out by any one. Twenty tabloids
+spirit [[Lamp|lamp]] disinfection can be carried out by any one. Twenty tabloids
 must be employed for every 1000 cubic ft. of space. Disinfection by
 sulphurous acid fumes is of great antiquity, and is still in very
 general use; for the purpose of destroying vermin it is more powerful

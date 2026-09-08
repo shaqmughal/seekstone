@@ -10,7 +10,7 @@ type: article
 ARRHENIUS, SVANTE AUGUST (1859-   ), Swedish physicist and chemist, was
 born on the 19th of February 1859, at Schloss Wijk, near Upsala. He
 studied at Upsala from 1876 to 1881 and at Stockholm from 1881 to 1884,
-then returning to Upsala as privat-docent in physical chemistry. He
+then returning to Upsala as privat-docent in physical [[Chemistry|chemistry]]. He
 spent two years from 1886 to 1888 in travelling, and visited Riga
 Polytechnic and the universities of Wurzburg, Graz, Amsterdam and
 Leipzig. In 1891 he was appointed lecturer in physics at Stockholm and

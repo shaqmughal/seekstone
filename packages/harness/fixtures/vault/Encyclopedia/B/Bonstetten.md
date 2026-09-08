@@ -8,13 +8,13 @@ topic: literature
 
 BONSTETTEN, CHARLES VICTOR DE (1745-1832), Swiss writer, an excellent
 type of a liberal patrician, more French than Swiss, and a good
-representative of the Gallicized Bern of the 18th century. By birth a
+representative of the Gallicized [[Bern]] of the 18th century. By birth a
 member of one of the great patrician families of Bern, he was educated
-in his native town, at Yverdon, and (1763-1766) at Geneva, where he came
+in his native town, at Yverdon, and (1763-1766) at [[Geneva]], where he came
 under the influence of Rousseau and of Charles Bonnet, and imbibed
 liberal sentiments. Recalled to Bern by his father, he was soon sent to
 Leiden, and then visited (1769) England, where he became a friend of the
-poet Gray. After his father's death (1770) he made a long journey in
+poet [[Gray]]. After his father's death (1770) he made a long journey in
 Italy, and on his return to Bern (1774) entered political life, for
 which he was unfitted by reason of his liberal ideas, which led him to
 patronize and encourage Johannes Muller, the future Swiss historian. In
@@ -22,13 +22,13 @@ patronize and encourage Johannes Muller, the future Swiss historian. In
 wrote his _Lettres pastorales sur une contree de la Suisse_, published
 in German in 1781), and in 1787 was transferred in a similar capacity to
 Nyon, from which post he had to retire after taking part (1791) in a
-festival to celebrate the destruction of the Bastille. From 1795 to 1797
+festival to celebrate the destruction of the [[Bastille]]. From 1795 to 1797
 he governed (for the Swiss Confederation) the Italian-speaking districts
-of Lugano, Locarno, Mendrisio and Val Maggia, of which he published
+of Lugano, [[Locarno]], Mendrisio and Val Maggia, of which he published
 (1797) a pleasing description, and into which he is said to have
-introduced the cultivation of the potato. The French revolution of 1798
+introduced the cultivation of the potato. The [[French Revolution|French revolution]] of 1798
 in Switzerland drove him again into private life. He spent the years
-1798 to 1801 in Denmark, with his friend Fredirika Brun, and then
+1798 to 1801 in [[Denmark]], with his friend Fredirika Brun, and then
 settled down in 1803 in Geneva for the rest of his life. There he
 enjoyed the society of many distinguished persons, among whom was
 (1809-1817) Madame de Stael. It was during this period that he published

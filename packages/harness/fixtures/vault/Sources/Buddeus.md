@@ -1,11 +1,11 @@
 # Buddeus
 
-BUDDEUS, JOHANN FRANZ (1667-1729), German Lutheran divine, was born at
-Anklam, a town of Pomerania, where his father was pastor. He studied with
+BUDDEUS, JOHANN [[Franz|FRANZ]] (1667-1729), German Lutheran divine, was born at
+[[Anklam]], a town of Pomerania, where his father was pastor. He studied with
 great distinction at Greifswald and at Wittenberg, and having made a
 special study of languages, theology and history, was appointed professor
-of Greek and Latin at Coburg in 1692, professor of moral philosophy in the
-university of Halle in 1693, and in 1705 professor of theology at Jena.
+of Greek and Latin at [[Coburg]] in 1692, professor of moral philosophy in the
+university of [[Halle]] in 1693, and in 1705 professor of theology at [[Jena]].
 Here he was held in high esteem, and in 1715 became Primarius of his
 faculty and member of the Consistory. His principal works are: _Leipzig,
 allgemeines historisches Lexikon_ (Leipzig, 1709 ff.); _Historia,
@@ -17,16 +17,16 @@ Universam, singulasque ejus partes_ (2 vols., 1727).
 
 BUDDHA. According to the Buddhist theory (see BUDDHISM), a "Buddha" appears
 from time to time in the world and preaches the true doctrine. After a
-certain lapse of time this teaching is corrupted and lost, and is not
+certain [[Lapse|lapse]] of time this teaching is corrupted and lost, and is not
 restored till a new Buddha appears. In Europe, Buddha is used to designate
 the last historical Buddha, whose family name was Gotama, and who was the
-son of Suddh[=o]dana, one of the chiefs of the tribe of the S[=a]kiyas, one
-of the republican clans then still existent in India.
+son of Suddh[=o][[Dana|dana]], one of the chiefs of the tribe of the S[=a]kiyas, one
+of the republican [[Clan|clans]] then still existent in India.
 
 We are accustomed to find the legendary and the miraculous gathering, like
-a halo, around the early history of religious leaders, until the sober
+a [[Halo|halo]], around the early history of religious leaders, until the sober
 truth runs the risk of being altogether neglected for the glittering and
-edifying falsehood. The Buddha has not escaped the fate which has befallen
+edifying falsehood. The Buddha has not escaped the [[Fate|fate]] which has befallen
 the founders of other religions; and as late as the year 1854 Professor
 Wilson of Oxford read a paper before the Royal Asiatic Society of London in
 which he maintained that the supposed life of Buddha was a myth, and
@@ -37,13 +37,13 @@ already sufficiently clear to render possible an intelligent history.
 
 The circumstances under which the future Buddha was born were somewhat as
 follows.[1] In the 6th century B.C. the [=A]ryan tribes had long been
-settled far down the valley of the Ganges. The old child-like joy in life
-so manifest in the Vedas had died away; the worship of nature had developed
+settled far down the valley of the [[Ganges]]. The old child-like joy in life
+so [[Manifest|manifest]] in the Vedas had died away; the worship of nature had developed
 or degenerated into the worship of new and less pure divinities; and the
 Vedic songs themselves, whose freedom was little compatible with the spirit
 of the age, had faded into an obscurity which did not lessen their value to
 the priests. The country was politically split up into little
-principalities, most of them governed by some petty despot, whose interests
+principalities, most of them governed by some petty [[Despot|despot]], whose interests
 were not often the same as those of the community. There were still,
 however, about a dozen free republics, most of them with aristocratic
 government, and it was in these that reforming movements met with most
@@ -52,7 +52,7 @@ transmigration of souls satisfied the unfortunate that their woes were the
 natural result of their own deeds in a former birth, and, though
 unavoidable now, might be escaped in a future state of existence by present
 good conduct. While hoping for a better fate in their next birth, the poor
-turned for succour and advice in this to the aid of astrology, witchcraft
+turned for succour and advice in this to the aid of [[Astrology|astrology]], witchcraft
 and animism--a belief in which seems to underlie all [v.04 p.0683]
 religions, and still survives even in England.[2] The inspiriting wars
 against the enemies of the [=A]ryan people, the infidel deniers of the
@@ -74,12 +74,12 @@ teacher and reformer.
 The S[=a]kiya clan was then seated in a tract of country probably two or
 three thousand square miles in extent, the chief town of which was
 Kapilavastu, situate about 27 deg. 37' N. by 83 deg. 11' E., some days' journey
-north of Benares. Their territory stretched up into the lower slopes of the
+north of [[Benares]]. Their territory stretched up into the lower slopes of the
 mountains, and was mostly in what is now Nepal, but it included territory
 now on the British side of the frontier. It is in this part of the
 S[=a]kiya country that the interesting discovery was made of the monument
 they erected to their famous clansman. From their well-watered rice-fields,
-the main source of their wealth, they could see the giant Him[=a]layas
+the main source of their wealth, they could see the [[Giant|giant]] Him[=a]layas
 looming up against the clear blue of the Indian sky. Their supplies of
 water were drawn from the river Rohini, the modern Koh[=a]na; and though
 the use of the river was in times of drought the cause of disputes between
@@ -90,22 +90,22 @@ childless, and great was the rejoicing when, in about the forty-fifth year
 of her age, the elder sister, Mah[=a] M[=a]y[=a], promised her husband a
 son. In due time she started with the intention of being confined at her
 parents' home, but the party halting on the way under the shade of some
-lofty satin-trees, in a pleasant garden called Lumbini on the river-side,
+lofty satin-trees, in a pleasant garden called [[Lumbini]] on the river-side,
 her son, the future Buddha, was there unexpectedly born. The exact site of
 this garden has been recently rediscovered, marked by an inscribed pillar
-put up by Asoka (see _J.R.A.S._, 1898).
+put up by [[Asoka]] (see _J.R.A.S._, 1898).
 
 He was in after years more generally known by his family name of Gotama,
 but his individual name was Siddhattha. When he was nineteen years old he
-was married to his cousin Yasodhar[=a], daughter of a Koliyan chief, and
+was married to his [[Cousin|cousin]] Yasodhar[=a], daughter of a Koliyan chief, and
 gave himself up to a life of luxury. This is the solitary record of his
 youth; we hear nothing more till, in his twenty-ninth year, it is related
 that, driving to his pleasure-grounds one day, he was struck by the sight
 of a man utterly broken down by age, on another occasion by the sight of a
 man suffering from a loathsome disease, and some months after by the
-horrible sight of a decomposing corpse. Each time his charioteer, whose
+horrible sight of a decomposing [[Corpse|corpse]]. Each time his charioteer, whose
 name was Channa, told him that such was the fate of all living beings. Soon
-after he saw an ascetic walking in a calm and dignified manner, and asking
+after he saw an ascetic walking in a [[Calm|calm]] and dignified manner, and asking
 who that was, was told by his charioteer the character and aims of the
 Wanderers, the travelling teachers, who played so great a part in the
 intellectual life of the time. The different accounts of these visions vary
@@ -113,7 +113,7 @@ so much as to cast great doubts on their accuracy; and the oldest one of
 all (_Anguttara_, i. 145) speaks of ideas only, not of actual visions. It
 is, however, clear from what follows, that about this time the mind of the
 young Raejput must, from some cause or other, have been deeply stirred. Many
-an earnest heart full of disappointment or enthusiasm has gone through a
+an [[Earnest|earnest]] heart full of disappointment or [[Enthusiasm|enthusiasm]] has gone through a
 similar struggle, has learnt to look upon all earthly gains and hopes as
 worse than vanity, has envied the calm life of the cloister, troubled by
 none of these things, and has longed for an opportunity of entire
@@ -126,9 +126,9 @@ river-side; and having bathed, to have entered his chariot in order to
 return home. Just then a messenger arrived with the news that his wife
 Yasodhara had given birth to a son, his only child. "This," said Gotama
 quietly, "is a new and strong tie I shall have to break." But the people of
-Kapilavastu were greatly delighted at the birth of the young heir, the
+Kapilavastu were greatly delighted at the birth of the young [[Heir|heir]], the
 raja's only grandson. Gotama's return became an ovation; musicians preceded
-and followed his chariot, while shouts of joy and triumph fell on his ear.
+and followed his chariot, while shouts of joy and triumph fell on his [[Ear|ear]].
 Among these sounds one especially attracted his attention. It was the voice
 of a young girl, his cousin, who sang a stanza, saying, "Happy the father,
 happy the mother, happy the wife of such a son and husband." In the word
@@ -163,7 +163,7 @@ wanderer. This is the circumstance which has given its name to a Sanskrit
 work, the Mahabhinishkramana Sutra, or Sutra of the Great Renunciation.
 
 Next is related an event in which we may again see a subjective experience
-given under the form of an objective reality. Mara, the great tempter,
+given under the form of an objective reality. [[Mara]], the great tempter,
 appears in the sky, and urges Gotama to stop, promising him, in seven days,
 a universal kingdom over the four great continents if he will but give up
 his enterprise.[3] When his words fail to have any effect, the tempter
@@ -176,7 +176,7 @@ obstacle in his way towards the Buddhahood." Gotama rides a long distance
 that night, only stopping at the banks of the Anoma beyond the Koliyan
 territory. There, on the sandy bank of the river, at a spot where later
 piety erected a dagaba (a solid dome-shaped relic shrine), he cuts off with
-his sword his long flowing locks, and, taking off his ornaments, sends them
+his sword his long flowing [[Lock|locks]], and, taking off his ornaments, sends them
 and the horse back in charge of the unwilling Channa to Kapilavastu. The
 next seven days were spent alone in a grove of mango trees [v.04 p.0684]
 near by, whence the recluse walks on to Rajagriha, the capital of Magadha,
@@ -187,7 +187,7 @@ teacher. He attached himself first to a brahmin sophist named Alara, and
 afterwards to another named Udraka, from whom he learnt all that Indian
 philosophy had then to teach. Still unsatisfied, he next retired to the
 jungle of Uruvela, on the most northerly spur of the Vindhya range of
-mountains, and there for six years, attended by five faithful disciples, he
+mountains, and there for six years, attended by five faithful [[Disciple|disciples]], he
 gave himself up to the severest penance and self-torture, till his fame as
 an ascetic spread in all the country round about "like the sound," says the
 Burmese chronicle, "of a great bell hung in the canopy of the skies."[4] At
@@ -199,7 +199,7 @@ penance, so much so that his five disciples soon ceased to respect him, and
 leaving him went to Benares.
 
 There now ensued a second struggle in Gotama's mind, described with all the
-wealth of poetry and imagination of which the Indian mind is master. The
+wealth of poetry and [[Imagination|imagination]] of which the Indian mind is master. The
 crisis culminated on a day, each event of which is surrounded in the
 Buddhist accounts with the wildest legends, on which the very thoughts
 passing through the mind of Buddha appear in gorgeous descriptions as
@@ -234,9 +234,9 @@ temptations came back upon him with renewed force. For years he had looked
 at all earthly good through the medium of a philosophy which taught him
 that it, without exception, contained within itself the seeds of
 bitterness, and was altogether worthless and impermanent; but now to his
-wavering faith the sweet delights of home and love, the charms of wealth
+wavering faith the sweet delights of home and love, the [[Charm|charms]] of wealth
 and power, began to show themselves in a different light, and glow again
-with attractive colours. He doubted, and agonized in his doubt; but as the
+with attractive [[Colours|colours]]. He doubted, and agonized in his doubt; but as the
 sun set, the religious side of his nature had won the victory, and seems to
 have come out even purified from the struggle. He had attained to Nirvana,
 had become clear in his mind, a Buddha, an Enlightened One. From that night
@@ -244,7 +244,7 @@ he not only did not claim any merit on account of his self-mortification,
 but took every opportunity of declaring that from such penances no
 advantage at all would be derived. All that night he is said to have
 remained in deep meditation under the Bo tree; and the orthodox Buddhists
-believe that for seven times seven nights and days he continued fasting
+believe that for seven times seven nights and days he continued [[Fasting|fasting]]
 near the spot, when the archangel Brahm[=a] came and ministered to him. As
 for himself, his heart was now fixed,--his mind was made up,--but he
 realized more than he had ever done before the power of temptation, and the
@@ -260,7 +260,7 @@ it seemed to him, helplessly doomed and lost---which at last overcame every
 other consideration, and made Gotama resolve to announce his doctrine to
 the world.
 
-The teacher, now 35 years of age, intended to proclaim his new gospel first
+The teacher, now 35 years of age, intended to proclaim his new [[Gospel|gospel]] first
 to his old teachers [=A]l[=a]ra and Udraka, but finding that they were
 dead, he determined to address himself to his former five disciples, and
 accordingly went to the Deer-forest near Benares where they were then
@@ -269,13 +269,13 @@ living. An old _g[=a]thh[=a]_, or hymn (translated in _Vinaya Texts_, i.
 an acquaintance, one Upaka, a wandering sophist, on the way. The latter,
 struck with his expression, asks him whose religion it is that makes him so
 glad, and yet so calm. The reply is striking. "I am now on my way," says
-the Buddha, "to the city of Benares, to beat the drum of the Ambrosia (to
+the Buddha, "to the city of Benares, to beat the [[Drum|drum]] of the Ambrosia (to
 set up the light of the doctrine of Nirvana) in the darkness of the world!"
 and he proclaims himself the Buddha who alone knows, and knows no teacher.
 Upaka says: "You profess yourself, then, friend, to be an Arahat and a
 conqueror?" The Buddha says: "Those indeed are conquerors who, as I have
-now, have conquered the intoxications (the mental intoxication arising from
-ignorance, sensuality or craving after future life). Evil dispositions have
+now, have conquered the [[Intoxication|intoxications]] (the mental intoxication arising from
+[[Ignorance|ignorance]], sensuality or craving after future life). Evil dispositions have
 ceased in me; therefore is it that I am conqueror!" His acquaintance
 rejoins: "In that case, venerable Gotama, your way lies yonder!" and he
 himself, shaking his head, turns in the opposite direction.
@@ -403,7 +403,7 @@ Gotama, "you and your family may claim the privileges of Kshatriya descent;
 my descent is from the prophets (Buddhas) of old, and they have always
 acted so; the customs of the law (Dharma) are good both for this world and
 the world that is to come. But, my father, when a man has found a treasure,
-it is his duty to offer the most precious of the jewels to his father
+it is his duty to offer the most precious of the [[Jewel|jewels]] to his father
 first. Do not delay, let me share with you the treasure I have found."
 Suddh[=o]dana, abashed, took his son's bowl and led him to his house.
 
@@ -430,7 +430,7 @@ itself; many even desire it, to escape from the vanities of life, but I
 shall take no steps either to hasten or to delay the time of my departure."
 These answers were held satisfactory, and the monk started on his mission.
 
-At another time a rich farmer held a harvest home, and the Buddha, wishing
+At another time a rich [[Farmer|farmer]] held a [[Harvest|harvest]] home, and the Buddha, wishing
 to preach to him, is said to have taken his alms-bowl and stood by the side
 of the field and begged. The farmer, a wealthy br[=a]hmin, said to him,
 "Why do you come and beg? [v.04 p.0686] I plough and sow and earn my food;
@@ -454,10 +454,10 @@ asking them to give her medicine for it. But a Buddhist convert thinking
 "she does not understand," said to her, "My good girl, I myself have no
 such medicine as you ask for, but I think I know of one who has." "Oh, tell
 me who that is?" said Kis[=a]gotam[=i]. "The Buddha can give you medicine;
-go to him," was the answer. She went to Gotama; and doing homage to him
+go to him," was the answer. She went to Gotama; and doing [[Homage|homage]] to him
 said, "Lord and master, do you know any medicine that will be good for my
 child?" "Yes, I know of some," said the teacher. Now it was the custom for
-patients or their friends to provide the herbs which the doctors required;
+patients or their friends to provide the [[Herb|herbs]] which the doctors required;
 so she asked what herbs he would want. "I want some mustard-seed," he said;
 and when the poor girl eagerly promised to bring some of so common a drug,
 he added, "you must get it from some house where no son, or husband, or
@@ -474,7 +474,7 @@ and returning to the Buddha paid him homage. He said to her, "Have you the
 mustard-seed?" "My lord," she replied, "I have not; the people tell me that
 the living are few, but the dead are many." Then he talked to her on that
 essential part of his system, the impermanency of all things, till her
-doubts were cleared away, she accepted her lot, became a disciple, and
+doubts were cleared away, she accepted her [[Lot|lot]], became a disciple, and
 entered the "first path."
 
 For forty-five years after entering on his mission Gotama itinerated in the
@@ -484,13 +484,13 @@ _viharas_,[8] or homes, which had been given to the society. In the
 twentieth year his cousin [=A]nanda became a mendicant, and from that time
 seems to have attended on the Buddha, being constantly near him, and
 delighting to render him all the personal service which love and reverence
-could suggest. Another cousin, Devadatta, the son of the r[=a]ja of Koli,
+could suggest. Another cousin, [[Devadatta]], the son of the r[=a]ja of Koli,
 also joined the society, but became envious of the teacher, and stirred up
 Ajatasattu (who, having killed his father Bimbisara, had become king of
 Rajagaha) to persecute Gotama. The account of the manner in which the
 Buddha is said to have overcome the wicked devices of this apostate cousin
 and his parricide protector is quite legendary; but the general fact of
-Ajatasattu's opposition to the new sect and of his subsequent conversion
+Ajatasattu's opposition to the new sect and of his subsequent [[Conversion|conversion]]
 may be accepted.
 
 The confused and legendary notices of the journeyings of Gotama are
@@ -566,12 +566,12 @@ constantly strove after the three higher paths. "No doubt," he said, "can
 be found in the mind of a true disciple." After another pause he said:
 "Behold now, brethren, this is my exhortation to you. Decay is inherent in
 all component things. Work out, therefore, your emancipation with
-diligence!" These were the last words the Buddha spoke; shortly afterwards
+[[Diligence|diligence]]!" These were the last words the Buddha spoke; shortly afterwards
 he became unconscious, and in that state passed away.
 
 AUTHORITIES ON THE LIFE OF THE BUDDHA.--Canonical P[=a]li (reached their
 present shape before the 4th century B.C.); episodes only, three of them
-long: (1) _Birth_; text in _Majjhima Nik[=a]ya_, ed. Trenckner and Chalmers
+long: (1) _Birth_; text in _Majjhima Nik[=a]ya_, ed. Trenckner and [[Chalmers]]
 (London, P[=a]li Text Society, 1888-1899), vol. iii. pp. 118-124; also in
 _Anguttara Nik[=a]ya_, ed. Morris and Hardy (P[=a]li Text Society,
 1888-1900), vol. ii. pp. 130-132. (2) _Adoration of the babe_; old ballad;
@@ -581,7 +581,7 @@ text in _Sutta Nip[=a]ta_, ed. Fausboell (P[=a]li Text Society, 1884), pp.
 Nik[=a]ya_, i. 145. (4) _The going forth_; old ballad; text in _Sutta
 Nipata_, pp. 70-74 (London, 1896), pp. 99-101; prose account in _D[=i]gha
 Nik[=a]ya_, ed. Rhys Davids and Carpenter (P[=a]li Text Society,
-1890-1893), vol. i. p. 115, translated by Rhys Davids in _Dialogues of the
+1890-1893), vol. i. p. 115, translated by Rhys Davids in _[[Dialogue|Dialogues]] of the
 Buddha_ (Oxford, 1899), pp. 147-149. (5) _First long episode_; the going
 forth, years of study and penance, attainment of Nirv[=a]na and Buddhahood,
 and conversion of first five converts; text in _Majjhima_, all together at
@@ -597,10 +597,10 @@ translated by Rhys Davids _in Buddhist Suttas_ (Oxford, 1881), pp. 1-136.
 Buddhist Sanskrit Texts: (i) _Mah[=a]vastu_ (probably 2nd century B.C.);
 edited by Senart (3 vols., Paris, 1882-1897), summary in French prefixed to
 each volume; down to the end of first year of the teaching. (2) _Lalita
-Vistara_ (probably 1st century B.C.); edited by Mitra (Calcutta, 1877);
+Vistara_ (probably 1st century B.C.); edited by Mitra ([[Calcutta]], 1877);
 translated into French by Foucaux (Paris, 1884); down to the first sermon.
 (3) _Buddha Carita_, by A['s]vaghosha, probably 2nd century A.D. edited by
-Cowell (Oxford, 1892); translated by Cowell (Oxford, 1894, S.B.E. vol.
+[[Cowell]] (Oxford, 1892); translated by Cowell (Oxford, 1894, S.B.E. vol.
 xlix.); an elegant poem; stops just before the attainment of Buddhahood.
 (These three works reproduce and amplify the above episodes Nos. 1-6; they
 retain here and there a very old tradition as to arrangement of clauses or
@@ -613,7 +613,7 @@ _Buddhist Birth Stories_ (London, 1880), pp. 1-133. Modern Works: (i)
 Tibetan; _Life of the Buddha_; episodes collected and translated by W.
 Woodville Rockhill (London, 1884), from Tibetan texts of the 9th and 10th
 centuries A.D. (2) Sinhalese; episodes collected and translated by Spence
-Hardy from Sinhalese texts of the 12th and later centuries, in _Manual of
+Hardy from Sinhalese texts of the 12th and later centuries, in _[[Manual]] of
 Buddhism_ (London, 1897, 2nd edition), pp. 138-359. (3) Burmese: _The Life
 or Legend of Gaudama_ (3rd edition, London, 1880), by the Right Rev. P.
 Bigandet, translated from a Burmese work of A.D. 1773. (The Burmese is, in
@@ -637,12 +637,12 @@ the total interval between Asoka's accession and the Buddha's death, is
 given in the Ceylon Chronicles as 218 years. Adding these two together, the
 date of the Buddha's death would be 488 B.C., and, as he was eighty years
 old at the time of his death, the date of his birth would be 568 B.C. The
-dates for his death and birth accepted in Burma, Siam and Ceylon are about
+dates for his death and birth accepted in [[Burma]], Siam and Ceylon are about
 half a century earlier, namely, 543 and 623 B.C., the difference being in
 the date of Asoka's accession. It will be seen that the dates as adopted in
 Europe are approximate only, and liable to correction if better data are
 obtainable. The details of this chronological question are discussed at
-length in Professor Rhys Davids' _Ancient Coins and Measures of Ceylon_
+length in Professor Rhys Davids' _Ancient [[Coin|Coins]] and Measures of Ceylon_
 (London, 1877), where the previous discussions are referred to.
 
 [2] See report of _Rex_. v. _Neuhaus_, Clerkenwell Sessions, September 15,

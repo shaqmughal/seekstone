@@ -13,7 +13,7 @@ about 30 m. S.W. of Inverness, on the rivers Oich and Tarff and the
 Caledonian Canal. A branch line connects with Spean Bridge on the West
 Highland railway via Invergarry. The fort, then called Kilchumin, was
 built in 1716 for the purpose of keeping the Highlanders in check, and
-was enlarged in 1730 by General Wade. It was captured by the Jacobites
+was enlarged in 1730 by General Wade. It was captured by the [[Jacobites]]
 in 1745, but reoccupied after the battle of Culloden, when it received
 its present name in honour of William Augustus, duke of Cumberland, the
 victorious general. The fort was used as a sanatorium until 1857, when

@@ -15,10 +15,10 @@ are: Euripides' _Troades_ (1807) and _Phoenissae_ (1809); Aeschylus'
 _Supplices_ (1821), _Eumenides_ (1822) and _Prometheus_ (1831); Sophocles'
 _Philoctetes_ (1833); E.F. Poppo's _Prolegomena to Thucydides_ (1837), an
 abridged translation with critical remarks; _Hermesianactis Fragmenta_
-(1839). He also edited some of the dialogues of Plato with English notes,
+(1839). He also edited some of the [[Dialogue|dialogues]] of Plato with English notes,
 and translated nearly the whole of that author and the Greek anthology for
 Bohn's Classical library. He was a frequent contributor to the _Classical
-Journal_ and other periodicals, and dedicated to Byron a play called _The
+Journal_ and other periodicals, and dedicated to [[Byron]] a play called _The
 Son of Erin_, or, _The Cause of the Greeks_ (1823).
 
 ## See also

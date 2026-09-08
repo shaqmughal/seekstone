@@ -33,7 +33,7 @@ _Kirchengeschichte, Lehrbuch zunachst fur akademische Vorlesungen_
 
   His biographical studies, Franz von Assisi (1856; 2nd ed., 1892),
   _Katerina von Siena_ (1864; 2nd ed., 1892), _Neue Propheten_ (Die
-  Jungfrau von Orleans, Savonarola, Thomas Munzer) are judicious and
+  [[Jungfrau]] von Orleans, Savonarola, Thomas Munzer) are judicious and
   sympathetic. Other works are: _Hutterus redivivus oder Dogmatik der
   evang.-luth. Kirche_ (1827; 12th ed., 1883), in which he sought to
   present the teaching of the Protestant church in such a way as Hutter

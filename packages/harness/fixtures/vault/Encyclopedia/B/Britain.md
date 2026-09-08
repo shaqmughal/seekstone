@@ -14,7 +14,7 @@ to reproduce a Celtic original, the exact form of which is still matter of
 dispute. Brittany (Fr. _Bretagne_) in western France derived its name from
 Britain owing to migrations in the 5th and 6th century A.D. The
 personification of Britannia as a female figure may be traced back as far
-as the coins of Hadrian and Antoninus Pius (early 2nd century A.D.); its
+as the [[Coin|coins]] of Hadrian and Antoninus Pius (early 2nd century A.D.); its
 first appearance on modern coins is on the copper of Charles II. (see
 NUMISMATICS).
 

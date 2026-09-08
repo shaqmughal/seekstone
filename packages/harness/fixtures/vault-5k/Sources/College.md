@@ -13,7 +13,7 @@ _tribunorum plebis collegia_. By the Roman law a collegium must have at
 least three members. The name is now usually applied to educational
 corporations, such as the colleges of Oxford and Cambridge, with which,
 in the numerous English statutes relating to colleges, the colleges of
-Winchester and Eton are usually associated. These colleges are in the
+Winchester and [[Eton]] are usually associated. These colleges are in the
 eye of the law eleemosynary corporations. In some of the earlier
 statutes of Queen Elizabeth they are spoken of as having an
 ecclesiastical character, but the doctrine of the common law since the
@@ -61,7 +61,7 @@ been herein agreeable to the method and doctrine of the civil law, for
 that in all their grants and charters of incorporation of colleges they
 have not framed any aggregate body consisting of less than three in
 number." Another principle, apparently derived from the civil law, is
-that a man cannot be a fellow in two colleges at the same time. The law
+that a man cannot be a [[Fellow|fellow]] in two colleges at the same time. The law
 of England steadily resisted any attempt to introduce the principle of
 inequality into colleges. An act of 1542, reciting that divers founders
 of colleges have given in their statutes a power of veto to individual
@@ -71,7 +71,7 @@ part of such corporation should be in any wise hindered by any one or
 more being the lesser number (contrary to the common law), shall be
 void.
 
-The corporation consists of a head or master, fellows and scholars.
+The corporation consists of a head or master, [[Fellows|fellows]] and scholars.
 Students, not being on the foundation, residing in the college, are not
 considered to be members of the corporation. The governing body in all
 cases is the head and fellows.

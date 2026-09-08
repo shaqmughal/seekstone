@@ -8,25 +8,25 @@ division of the Quaternary Age. The Madelenian epoch was a long one,
 represented by numerous stations, whose contents show progress in the
 arts and general culture. It was characterized by a cold and dry
 climate, the existence of man in association with the reindeer, and the
-extinction of the mammoth. The use of bone and ivory for various
-implements, already begun in the preceding Solutrian epoch, was much
+extinction of the mammoth. The use of [[Bone|bone]] and [[Ivory|ivory]] for various
+[[Implement|implements]], already begun in the preceding Solutrian epoch, was much
 increased, and the period is essentially a Bone age. The bone
 instruments are very varied: spear-points, harpoon-heads, borers, hooks
 and needles. Most remarkable is the evidence La Madeleine affords of
 prehistoric art. Numbers of bones, reindeer antlers and animals' teeth
 were found, with rude pictures, carved or etched on them, of seals,
 fishes, reindeer, mammoths and other creatures. The best of these are a
-mammoth engraved on a fragment of its own ivory; a dagger of reindeer
+mammoth engraved on a fragment of its own ivory; a [[Dagger|dagger]] of reindeer
 antler, with handle in form of a reindeer; a cave-bear cut on a flat
 piece of schist; a seal on a bear's tooth; a fish well drawn on a
 reindeer antler; and a complete picture, also on reindeer antler,
-showing horses, an aurochs, trees, and a snake biting a man's leg. The
+showing horses, an aurochs, trees, and a snake biting a man's [[Leg|leg]]. The
 man is naked, and this and the snake suggest a warm climate, in spite
 of the presence of the reindeer. The fauna of the Madelenian epoch
 seems, indeed, to have included tigers and other tropical species side
-by side with reindeer, blue foxes, Arctic hares and other polar
+by side with reindeer, blue [[Foxe|foxes]], [[Arctic]] [[Hare|hares]] and other polar
 creatures. Madelenian man appears to have been of low stature,
-dolichocephalic, with low retreating forehead and prominent brow ridges.
+[[Dolichocephalic|dolichocephalic]], with low retreating forehead and prominent brow ridges.
 Besides La Madeleine the chief stations of the epoch are Les Eyzies,
 Laugerie Basse, and Gorge d'Enfer in Dordogne; Grotte du Placard in
 Charente and others in south-west France.

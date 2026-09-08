@@ -13,7 +13,7 @@ born at Plymouth on the 18th of January 1840, being the eldest son of
 George Clarisse Dobson, a civil engineer, and on his grandmother's side
 of French descent. When he was about eight years old the family moved to
 Holyhead, and his first school was at Beaumaris, in the Isle of
-Anglesea. He was afterwards educated at Coventry, and the Gymnase,
+Anglesea. He was afterwards educated at [[Coventry]], and the Gymnase,
 Strassburg, whence he returned at the age of sixteen with the intention
 of becoming a civil engineer. He had a taste for art, and in his earlier
 years at the office continued to study it at South Kensington, at his
@@ -76,7 +76,7 @@ else in modern English poetry. In "Beau Brocade," indeed, the pictorial
 quality of his work, the dainty economy of eloquent touches, is at its
 very best: every couplet has its picture, and every picture is true and
 vivacious. The touch has often been likened to that of Randolph
-Caldecott, with which it has much in common; but Mr Dobson's humour is
+Caldecott, with which it has much in common; but Mr Dobson's [[Humour|humour]] is
 not so "rollicking," his portraiture not so broad, as that of the
 illustrator of "John Gilpin." The appeal is rather to the intellect, and
 the touches of subdued pathos in the "Gentleman" and "Gentlewoman of the

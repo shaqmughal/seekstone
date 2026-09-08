@@ -7,17 +7,17 @@ topic: economics-studies
 # Beauchamp
 
 BEAUCHAMP, the name of several important English families. The baronial
-house of Beauchamp of Bedford was founded at the Conquest by Hugh de
-Beauchamp, who received a barony in Bedfordshire. His eldest son Simon
+house of Beauchamp of [[Bedford]] was founded at the Conquest by Hugh de
+Beauchamp, who received a [[Barony|barony]] in Bedfordshire. His eldest son Simon
 left a daughter, whose husband Hugh (brother of the count of Meulan) was
 created earl of Bedford by Stephen. But the heir-male, Miles de
 Beauchamp, nephew of Simon, held Bedford Castle against the king in
 1137-1138. From his brother Payn descended the barons of Bedford, of
 whom William held Bedford Castle against the royal forces in the
 struggle for the Great Charter, and was afterwards made prisoner at the
-battle of Lincoln, while John, who sided with the barons under Simon de
-Montfort, fell at Evesham. With him the line ended, but a younger branch
-was seated at Eaton Socon, Beds., where the earthworks of their castle
+battle of [[Lincoln]], while John, who sided with the barons under Simon de
+Montfort, fell at [[Evesham]]. With him the line ended, but a younger branch
+was seated at [[Eaton]] Socon, Beds., where the earthworks of their castle
 remain, and held their barony there into the 14th century.
 
 The Beauchamps of Elmley, Worcestershire, the greatest house of the
@@ -45,9 +45,9 @@ was in power with them 1388-1389; treacherously arrested by Richard in
 1397, he was imprisoned in the Tower of London (the Beauchamp Tower
 being called after him), but liberated by Henry IV. on his triumph
 (1399). In 1401 he was succeeded by his son Earl Richard, a brave and
-chivalrous warrior, who defeated Owen Glendower, fought the Percys at
+chivalrous warrior, who defeated Owen [[Glendower]], fought the Percys at
 Shrewsbury, and, after travelling in state through Europe and the Holy
-Land, was employed against the Lollards and afterwards as lay ambassador
+Land, was employed against the [[Lollards]] and afterwards as lay ambassador
 from England to the council of Constance (1414). He held command for a
 time at Calais, and took an active part in the French campaigns of Henry
 V., who created him earl and count of Aumale in Normandy. He had charge
@@ -56,18 +56,18 @@ France and of Normandy. Dying at Rouen in 1439, he left by Isabel, widow
 of Richard Beauchamp, earl of Worcester, a son, Earl Henry, who was
 created duke of Warwick, 1445, and is alleged, but without authority, to
 have been crowned king of the Isle of Wight by Henry VI. He died, the
-last of his line, in June 1445. On the death of Anne, his only child, in
+last of his line, in June 1445. On the death of [[Anne]], his only child, in
 1449, his vast inheritance passed to Anne, his sister of the whole
 blood, wife of Richard Neville, earl of Salisbury ("the Kingmaker"), who
 thereupon became earl of Warwick.
 
-Of the cadet branches of the house, the oldest was that of Powyke and
+Of the [[Cadet|cadet]] branches of the house, the oldest was that of Powyke and
 Alcester, which obtained a barony in 1447 and became extinct in 1496;
 from it sprang the Beauchamps, Lords St. Amand from 1448, of whom was
 Richard, bishop of Salisbury, first chancellor of the order of the
-Garter, and who became extinct in 1508, being the last known male heirs
+Garter, and who became extinct in 1508, being the last known male [[Heir|heirs]]
 of the race. Another cadet was Sir John Beauchamp of Holt, minister of
-Richard II., who was created Lord Beauchamp of Kidderminster (the first
+Richard II., who was created Lord Beauchamp of [[Kidderminster]] (the first
 baron created by patent) 1387, but beheaded 1388; the barony became
 extinct with his son in 1400. Roger, Lord Beauchamp of Bletsoe, summoned
 in 1363, is said to have been descended from the Powyke branch; his line
@@ -87,7 +87,7 @@ and 1559. The title of "Beauchamp of Powyke" was revived as a barony in
 1806 for Richard Lygon (descended through females from the Beauchamps of
 Powyke), who was created Earl Beauchamp in 1815.
 
-  See Sir W. Dugdale, _Baronage_ (1675-1676) and _Warwickshire_ (2nd
+  See Sir W. [[Dugdale]], _Baronage_ (1675-1676) and _Warwickshire_ (2nd
   ed., 1730); G.E. C[okayne], _Complete Peerage_ (1887-1898); W.
   Courthope, _Rows Roll_ (1859); and J.H. Round, _Geoffrey de
   Mandeville_ (1892).     (J. H. R.)

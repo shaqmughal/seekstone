@@ -8,11 +8,11 @@ played by means of a cup-shaped mouthpiece. The tube is bent round upon
 itself from the mouthpiece to the bell in the shape of a broad C and is
 strengthened by means of a bar across the curve, which the performer grasps
 while playing, in order to steady the instrument; the bell curves over his
-head or shoulder as in the modern helicon. Three Roman buccinas were found
+head or shoulder as in the modern [[Helicon|helicon]]. Three Roman buccinas were found
 among the ruins of Pompeii and are now deposited in the museum at Naples.
 V. C. Mahillon, of Brussels[1] has made a facsimile of one of these
 instruments; it is in G and has almost the same harmonic series as the
-French horn and the trumpet. The buccina, the cornu (see HORN), and the
+French [[Horn|horn]] and the trumpet. The buccina, the cornu (see HORN), and the
 tuba were used as signal instruments in the Roman army and camp to sound
 the four night watches (hence known as _buccina prima, secunda, &c._), to
 summon them by means of the special signal known as _classicum_, and to
@@ -35,7 +35,7 @@ properties, was the ancestor of both trumpet and trombone; the connexion is
 further established by the derivation of the words Sackbut and _Posaune_
 (the German for trombone) from buccina. The relation was fully recognized
 in Germany during the 15th and 16th centuries, as two translations of
-Vegetius, published at Ulm in 1470, and at Augsburg in 1534, clearly
+Vegetius, published at Ulm in 1470, and at [[Augsburg]] in 1534, clearly
 demonstrate: "Bucina das ist die trumet oder pusan"[6] ("the bucina is the
 trumpet or trombone") and ("Bucina ist die trummet die wirt ausz und
 eingezogen"[7] ("the bucina is the trumpet which is drawn out and in"). A
@@ -45,16 +45,16 @@ reflechist en li meisme si comme partie de cercle." On Trajan's column[9]
 the tuba, the cornu and the buccina are distinguishable. Other
 illustrations of the buccina may be seen in Francois Mazois' _Les Ruines de
 Pompei_ (Paris, 1824-1838), pt. iv, pl. xlviii. fig. 1, and in J.N. von
-Wilmowsky's _Eine roemische Villa zu Nennig_ (Bonn, 1865), pl. xii.
+Wilmowsky's _Eine roemische Villa zu Nennig_ ([[Bonn]], 1865), pl. xii.
 (mosaics), where the buccinator is accompanied on the hydraulus. The
 military buccina described is a much more advanced instrument than its
 prototype the _buccina marina_, a primitive trumpet in the shape of a
 conical shell, often having a spiral twist, which in poetry is often called
 _concha_. The buccina marina is frequently depicted in the hands of Tritons
-(Macrobius i. 8), or of sailors, as for instance on terra-cotta lamp shown
+(Macrobius i. 8), or of sailors, as for instance on terra-cotta [[Lamp|lamp]] shown
 by G.P. Bellori (_Lucernae veterum sepulcrales iconicae_, 1702, iii. 12).
 The highly imaginative writer of the apocryphal letter of St Jerome to
-Dardanus also has a word to say concerning the buccina among the Semitic
+[[Dardanus]] also has a word to say concerning the buccina among the Semitic
 races: "Bucca vocatur tuba apud Hebreos: deinde per diminutionem buccina
 dicitur." After the fall of the Roman empire the art of bending metal tubes
 was gradually lost, and although the buccina survived in Europe both in
@@ -63,7 +63,7 @@ ever the characteristic curve like a "C" which it possessed in common with
 the cornu, an instrument having a conical bore of wider calibre. Although
 we regard the buccina as essentially Roman, an instrument of the same type,
 but probably straight and of kindred name, was widely known and used in the
-East, in Persia, Arabia and among the Semitic races. After a lapse of years
+East, in Persia, Arabia and among the Semitic races. After a [[Lapse|lapse]] of years
 during which records are almost wanting, the buccina reappeared all over
 Europe as the busine, buisine, pusin, busaun, pusun, posaun, busna (Slav),
 &c.; whether it was a Roman survival or a re-introduction through the Moors
@@ -73,7 +73,7 @@ Judgment in the cathedral of S. Angelo in Formis (near Capua), shows the
 angels blowing the last trump on busines.[10]
 
 There are two distinct forms of the busine which may be traced during the
-middle ages:--(i) a long straight tube (fig. 2) consisting of 3 to 5 joints
+middle ages:--(i) a long straight tube (fig. 2) consisting of 3 to 5 [[Joints|joints]]
 of narrow cylindrical bore, the last joint alone being conical and ending
 in a pommel-shaped bell, precisely as in the curved buccina (fig. 1); (2) a
 long straight cylindrical tube of somewhat wider bore than the busine,
@@ -87,7 +87,7 @@ HORN.
 
 (K. S.)
 
-[1] See _Catalogue descriptif_ (Ghent, 1880), p. 330, and illustration,
+[1] See _Catalogue descriptif_ ([[Ghent]], 1880), p. 330, and illustration,
 vol. ii. (1896), p. 30.
 
 [2] Livy vii. 35, xxvi. 15; Prop. v. 4, 63; Tac. _Ann._ xv. 30; Vegetius,

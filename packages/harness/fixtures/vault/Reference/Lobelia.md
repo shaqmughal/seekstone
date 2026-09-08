@@ -8,21 +8,21 @@ type: article
 # Lobelia
 
 LOBELIA, the typical genus of the tribe _Lobelieae_, of the order
-Campanulaceae, named after Matthias de Lobel, a native of Lille,
+Campanulaceae, named after [[Matthias]] de Lobel, a native of Lille,
 botanist and physician to James I. It numbers about two hundred species,
 natives of nearly all the temperate and warmer regions of the world,
 excepting central and eastern Europe as well as western Asia. They are
-annual or perennial herbs or under-shrubs, rarely shrubby; remarkable
+annual or perennial [[Herb|herbs]] or under-shrubs, rarely shrubby; remarkable
 arborescent forms are the tree-lobelias found at high elevations on the
 mountains of tropical Africa. Two species are British, _L. Dortmanna_
 (named by Linnaeus after Dortmann, a Dutch druggist), which occurs in
 gravelly mountain lakes; and _L. urens_, which is only found on heaths,
-&c., in Dorset and Cornwall. The genus is distinguished from _Campanula_
+&c., in Dorset and [[Cornwall]]. The genus is distinguished from _[[Campanula]]_
 by the irregular corona and completely united anthers, and by the
 excessive acridity of the milky juice. The species earliest described
 and figured appears to be _L. cardinalis_, under the name _Trachelium
-americanum sive cardinalis planta_, "the rich crimson cardinal's
-flower"; Parkinson (_Paradisus_, 1629, p. 357) says, "it groweth neere
+americanum sive cardinalis planta_, "the rich [[Crimson|crimson]] cardinal's
+[[Flower|flower]]"; Parkinson (_Paradisus_, 1629, p. 357) says, "it groweth neere
 the riuer of Canada, where the French plantation in America is seated."
 It is a native of the eastern United States. This and several other
 species are in cultivation as ornamental garden plants, e.g. the dwarf
@@ -42,11 +42,11 @@ well-known variety, but there are now many others.
   that of the dwarf-tufted plants used for summer bedding, and that of
   the tall showy perennials. Of the former the best type is _L. Erinus_,
   growing from 4 to 6 in. high, with many slender stems, bearing through
-  a long period a profusion of small but bright blue two-lipped flowers.
+  a long period a profusion of small but [[Bright|bright]] blue two-lipped flowers.
   The variety _speciosa_ offers the best strain of the dwarf lobelias;
   but the varieties are being constantly superseded by new sorts. A good
   variety will reproduce itself sufficiently true from seed for ordinary
-  flower borders, but to secure exact uniformity it is necessary to
+  flower [[Borders|borders]], but to secure exact uniformity it is necessary to
   propagate from cuttings.
 
   The herbaceous lobelias, of which _L. fulgens_ may be taken as the
@@ -54,10 +54,10 @@ well-known variety, but there are now many others.
   winter; they throw up a series of short rosette-like suckers round the
   base of the old flowering stem, and these sometimes, despite all the
   care taken of them, rot off during winter. The roots should either be
-  taken up in autumn, and planted closely side by side in boxes of dry
+  taken up in autumn, and planted closely side by side in [[Box|boxes]] of dry
   earth or ashes, these being set for the time they are dormant either
-  in a cold frame or in any airy place in the greenhouse; or they may be
-  left in the ground, in which case a brick or two should be put beside
+  in a cold [[Frame|frame]] or in any airy place in the greenhouse; or they may be
+  left in the ground, in which case a [[Brick|brick]] or two should be put beside
   the plants, some coal ashes being first placed round them, and slates
   to protect the plants being laid over the bricks, one end resting on
   the earth beyond. About February they should be placed in a warm pit,
@@ -77,7 +77,7 @@ well-known variety, but there are now many others.
   The species _Lobelia inflata_, the "Indian tobacco" of North America,
   is used in medicine, the entire herb, dried and in flower, being
   employed. The species derives its specific name from its
-  characteristic inflated capsules. It is somewhat irritant to the
+  characteristic inflated [[Capsule|capsules]]. It is somewhat irritant to the
   nostrils, and is possessed of a burning, acrid taste. The chief
   constituent is a volatile liquid alkaloid (cf. nicotine) named
   lobeline, which occurs to the extent of about 30 %. This is a very
@@ -86,14 +86,14 @@ well-known variety, but there are now many others.
   of this plant in the British Pharmacopeia is the _Tinctura Lobeliae
   Ethereae_, composed of five parts of spirits of ether to one of
   lobelia. The dose is 5 to 15 minims. The ether is employed in order to
-  add to the efficacy of the drug in asthma, but a simple alcoholic
+  add to the efficacy of the drug in [[Asthma|asthma]], but a simple alcoholic
   tincture would be really preferable.
 
   Lobelia has certain pharmacological resemblances to tobacco. It has no
   action upon the unbroken skin, but may be absorbed by it under
   suitable conditions. Taken internally in small doses, e.g. 5 minims of
   the tincture, it stimulates the peristaltic movements of the coecum
-  and colon. In large doses it is a powerful gastrointestinal irritant,
+  and [[Colon|colon]]. In large doses it is a powerful gastrointestinal irritant,
   closely resembling tobacco, and causing giddiness, headache, nausea,
   vomiting, purging and extreme prostration, with clammy sweats and
   faltering rapid pulse. Its action on the circulation is very decided.
@@ -108,13 +108,13 @@ well-known variety, but there are now many others.
   doubtful whether lobelia affects the cerebrum directly. It is excreted
   by the kidneys and the skin, both of which it stimulates in its
   passage. In general terms the drug may be said to stimulate
-  non-striped muscular fibres in small, and paralyse them in toxic
+  non-striped muscular [[Fibres|fibres]] in small, and paralyse them in toxic
   doses.
 
   Five minims of the tincture may be usefully prescribed to be taken
   night and morning in chronic constipation due to inertia of the lower
   part of the alimentary canal. In spasmodic (neurotic) asthma, and also
-  in bronchitis accompanied by asthmatic spasm of the bronchioles, the
+  in [[Bronchitis|bronchitis]] accompanied by asthmatic spasm of the bronchioles, the
   tincture may be given in comparatively large doses (e.g. one drachm)
   every fifteen minutes until nausea is produced. Thereafter, whether
   successful or not in relieving the spasm, the administration of the

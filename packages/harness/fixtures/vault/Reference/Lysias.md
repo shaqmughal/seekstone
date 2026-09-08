@@ -7,7 +7,7 @@ type: note
 
 # Lysias
 
-LYSIAS, Attic orator, was born, according to Dionysius of Halicarnassus
+LYSIAS, [[Attic]] orator, was born, according to [[Dionysius]] of [[Halicarnassus]]
 and the author of the life ascribed to Plutarch, in 459 B.C. This date
 was evidently obtained by reckoning back from the foundation of Thurii
 (444 B.C.), since there was a tradition that Lysias had gone thither at
@@ -16,7 +16,7 @@ the age of fifteen. Modern critics would place his birth later,--between
 laid about 430 B.C., Cephalus, the father of Lysias, is among the
 _dramatis personae_, and the emigration of Lysias to Thurii was said to
 have followed his father's death. The latter statement, however, rests
-only on the Plutarchic life; nor can Plato's dialogue be safely urged as
+only on the Plutarchic life; nor can Plato's [[Dialogue|dialogue]] be safely urged as
 a minutely accurate authority. The higher date assigned by the ancient
 writers agrees better with the tradition that Lysias reached, or passed,
 the age of eighty.[1] Cephalus, his father, was a native of Syracuse,
@@ -35,9 +35,9 @@ pupil of Corax, whose name is associated with the first attempt to
 formulate rhetoric as an art. In 413 B.C. the Athenian armament in
 Sicily was annihilated. The desire to link famous names is illustrated
 by the ancient ascription to Lysias of a rhetorical exercise purporting
-to be a speech in which the captive general Nicias appealed for mercy to
+to be a speech in which the [[Captive|captive]] general Nicias appealed for mercy to
 the Sicilians. The terrible blow to Athens quickened the energies of an
-anti-Athenian faction at Thurii. Lysias and his elder brother
+anti-Athenian [[Faction|faction]] at Thurii. Lysias and his elder brother
 Polemarchus, with three hundred other persons, were "accused of
 Atticizing." They were driven from Thurii and settled at Athens (412
 B.C.).
@@ -52,7 +52,7 @@ from the special tax ([Greek: metoikion]) on resident aliens.
 Polemarchus occupied a house in Athens itself, Lysias another in the
 Peiraeus, near which was their shield manufactory, employing a hundred
 and twenty skilled slaves. In 404 the Thirty Tyrants were established at
-Athens under the protection of a Spartan garrison. One of their earliest
+Athens under the protection of a Spartan [[Garrison|garrison]]. One of their earliest
 measures was an attack upon the resident aliens, who were represented as
 disaffected to the new government. Lysias and Polemarchus were on a list
 of ten singled out to be the first victims. Polemarchus was arrested,
@@ -61,9 +61,9 @@ help of a large bribe. He slipped by a back-door out of the house in
 which he was a prisoner, and took boat to Megara. It appears that he had
 rendered valuable services to the exiles during the reign of the
 tyrants, and in 403 Thrasybulus proposed that these services should be
-recognized by the bestowal of the citizenship. The Boule, however, had
+recognized by the bestowal of the citizenship. The [[Boule]], however, had
 not yet been reconstituted, and hence the measure could not be
-introduced to the ecclesia by the requisite "preliminary resolution"
+introduced to the [[Ecclesia|ecclesia]] by the requisite "preliminary resolution"
 ([Greek: probouleuma]). On this ground it was successfully opposed.
 
 During his later years Lysias--now probably a comparatively poor man
@@ -78,9 +78,9 @@ contact with Athenian politics. The story that he wrote a defence for
 Socrates, which the latter declined to use, probably arose from a
 confusion. Several years after the death of Socrates the sophist
 Polycrates composed a declamation against him, to which Lysias replied.
-A more authentic tradition represents Lysias as having spoken his own
+A more [[Authentic|authentic]] tradition represents Lysias as having spoken his own
 _Olympiacus_ at the Olympic festival of 388 B.C., to which Dionysius I.
-of Syracuse had sent a magnificent embassy. Tents embroidered with gold
+of Syracuse had sent a magnificent [[Embassy|embassy]]. Tents embroidered with gold
 were pitched within the sacred enclosure; and the wealth of Dionysius
 was vividly shown by the number of chariots which he had entered. Lysias
 lifted up his voice to denounce Dionysius as, next to Artaxerxes, the
@@ -92,7 +92,7 @@ or soon after 380 B.C.
 
 Lysias was a man of kindly and genial nature, warm in friendship, loyal
 to country, with a keen perception of character. and a fine though
-strictly controlled sense of humour. The literary tact which is so
+strictly controlled sense of [[Humour|humour]]. The literary tact which is so
 remarkable in the extant speeches is that of a singularly flexible
 intelligence, always obedient to an instinct of gracefulness. He owes
 his distinctive place to the power of concealing his art. It was
@@ -100,15 +100,15 @@ obviously desirable that a speech written for delivery by a client
 should be suitable to his age, station and circumstances. Lysias was the
 first to make this adaptation really artistic. His skill can be best
 appreciated if we turn from the easy flow of his graceful language to
-the majestic emphasis of Antiphon, or to the self-revealing art of
-Isaeus. Translated into terms of ancient criticism, he became the model
+the majestic emphasis of [[Antiphon]], or to the self-revealing art of
+[[Isaeus]]. Translated into terms of ancient criticism, he became the model
 of the "plain style" ([Greek: iochnos charakter, iochne, lite, apheles
 lexis]: _genus tenue_ or _subtile_). Greek and then Roman critics
 distinguished three styles of rhetorical composition--the "grand" (or
 "elaborate"), the "plain" and the "middle," the "plain" being nearest to
 the language of daily life. Greek rhetoric began in the "grand" style;
 then Lysias set an exquisite pattern of the "plain"; and Demosthenes
-might be considered as having effected an almost ideal compromise.
+might be considered as having effected an almost ideal [[Compromise|compromise]].
 
 The vocabulary of Lysias is pure and simple. Most of the rhetorical
 "figures" are sparingly used--except such as consist in the parallelism
@@ -130,15 +130,15 @@ Eratosthenes_--and also in the fragmentary _Olympiacus_, he has pathos
 and fire; but these were not characteristic qualities of his work. In
 Cicero's judgment (_De Orat._ iii. 7, 28) Demosthenes was peculiarly
 distinguished by force (_vis_), Aeschines by resonance (_sonitus_),
-Hypereides by acuteness (_acumen_), Isocrates by sweetness (_suavitas_);
+Hypereides by acuteness (_acumen_), [[Isocrates]] by sweetness (_suavitas_);
 the distinction which he assigns to Lysias is _subtilitas_, an Attic
 refinement--which, as he elsewhere says (_Brutus_, 16, 64) is often
 joined to an admirable vigour (_lacerti_). Nor was it oratory alone to
 which Lysias rendered service; his work had an important effect on all
 subsequent Greek prose, by showing how perfect elegance could be joined
-to plainness. Here, in his artistic use of familiar idiom, he might
-fairly be called the Euripides of Attic prose. And his style has an
-additional charm for modern readers, because it is employed in
+to plainness. Here, in his artistic use of familiar [[Idiom|idiom]], he might
+fairly be called the [[Euripides]] of Attic prose. And his style has an
+additional [[Charm|charm]] for modern readers, because it is employed in
 describing scenes from the everyday life of Athens.[2]
 
   Thirty-four speeches (three fragmentary) have come down under the name
@@ -157,7 +157,7 @@ describing scenes from the everyday life of Athens.[2]
 
   C. FORENSIC, IN PUBLIC CAUSES.--I. _Relating to Offences directly
   against the State ([Greek: graphai demosion adikematon]); such as
-  treason, malversation in office, embezzlement of public moneys._ 1.
+  treason, malversation in office, [[Embezzlement|embezzlement]] of public moneys._ 1.
   For Polystratus, xx., 407 B.C.; 2. Defence on a Charge of Taking
   Bribes, xxi., 402 B.C.; 3. Against Ergocles, xxviii., 389 B.C.; 4.
   Against Epicrates, xxvii., 389 B.C.; 5. Against Nicomachus, xxx., 399
@@ -176,19 +176,19 @@ describing scenes from the everyday life of Athens.[2]
   B.C.; 5. For the Invalid, xxiv., 402 B.C. (?) V. _Causes relating to
   Military Offences ([Greek: graphai lipotaxiou, astrateias])._ 1.
   Against Alcibiades, I. and II. (xiv., xv.), 395 B.C. VI. _Causes
-  relating to Murder or Intent to Murder_ ([Greek: graphai phonou,
+  relating to Murder or [[Intent]] to Murder_ ([Greek: graphai phonou,
   traumatos ek pronoias]). 1. Against Eratosthenes, xii., 403 B.C.; 2.
   Against Agoratus, xiii., 399 B.C.; 3. On the Murder of Eratosthenes,
   i. (date uncertain); 4. Against Simon, iii., 393 B.C.; 5. On Wounding
   with Intent, iv. (date uncertain). VII. _Causes relating to Impiety_
   ([Greek: graphai asebeias]). 1. Against Andocides, vi. (certainly
-  spurious, but perhaps contemporary); 2. For Callias, v. (date
+  spurious, but perhaps contemporary); 2. For [[Callias]], v. (date
   uncertain); 3. On the Sacred Olive, vii., not before 395 B.C.
 
-  D. FORENSIC, IN PRIVATE CAUSES.--I. _Action for Libel_ ([Greek: dike
+  D. FORENSIC, IN PRIVATE CAUSES.--I. _Action for Libel_ ([Greek: [[Dike|dike]]
   kakegorias]). Against Theomnestus, x., 384-383 B.C. (the so-called
-  second speech, xi., is merely an epitome of the first). II. _Action by
-  a Ward against a Guardian_ ([Greek: dike epitropes]). Against
+  second speech, xi., is merely an [[Epitome|epitome]] of the first). II. _Action by
+  a Ward against a [[Guardian]]_ ([Greek: dike epitropes]). Against
   Diogeiton, xxxii., 400 B.C. III. _Trial of a Claim to Property_
   ([Greek: diadikasia]). On the property of Eraton, xvii., 397 B.C. IV.
   _Answer to a Special Plea ([Greek: pros paragraphen])._ Against
@@ -228,7 +228,7 @@ describing scenes from the everyday life of Athens.[2]
   to unite against their common foes. The _Plea for the Constitution_
   (403 B.C.) is interesting for the manner in which it argues that the
   wellbeing of Athens--now stripped of empire--is bound up with the
-  maintenance of democratic principles. The speech _For Mantitheus_ (392
+  [[Maintenance|maintenance]] of democratic principles. The speech _For Mantitheus_ (392
   B.C.) is a graceful and animated portrait of a young Athenian [Greek:
   hippeus], making a spirited defence of his honour against the charge
   of disloyalty. The defence _For the Invalid_ is a humorous
@@ -252,16 +252,16 @@ describing scenes from the everyday life of Athens.[2]
   N; Parisini U, V; Urbinas O.
 
   BIBLIOGRAPHY.--Editio princeps, Aldus (Venice, 1513); by I. Bekker
-  (1823) and W. S. Dobson (1828) in _Oratores Attici_; C. Scheibe (1852)
-  and T. Thalheim (1901, Teubner series, with bibliography); C. G. Cobet
+  (1823) and W. S. [[Dobson]] (1828) in _Oratores Attici_; C. Scheibe (1852)
+  and T. Thalheim (1901, Teubner series, with bibliography); C. G. [[Cobet]]
   (4th ed., by J. J. Hartman, 1905); with variorum notes, by J. J.
   Reiske (1772). Editions of select speeches by J. H. Bremi (1845); R.
   Rauchenstein (1848, revised by C. Fuhr, 1880-1881); H. Frohberger
   (1866-1871); H. van Herwerden (1863); A. Weidner (1888); E. S.
   Shuckburgh (1882); A. Westermann and W. Binder (1887-1890); G. P.
-  Bristol (1892), M. H. Morgan (1895), C. D. Adams (1905), all three
+  [[Bristol]] (1892), M. H. Morgan (1895), C. D. Adams (1905), all three
   published in America. There is a special lexicon to Lysias by D. H.
-  Holmes (Bonn, 1895). See also Jebb's _Attic Orators_ (1893) and
+  Holmes ([[Bonn]], 1895). See also Jebb's _Attic Orators_ (1893) and
   _Selections from the Attic Orators_ (2nd ed., 1888) and F. Blass,
   _Die Attische Beredsamkeit_ (2nd ed., 1887-1898); W. L. Devries,
   _Ethopoiia. A rhetorical study of the types of character in the

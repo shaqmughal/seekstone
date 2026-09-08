@@ -22,7 +22,7 @@ for separate publication by the Society for the Diffusion of Useful
 Knowledge. To perfect this work Lane again visited Egypt in 1833-1835,
 residing mainly in Cairo, but retiring to Luxor during the plague of
 1835. Lane took up his residence in the Mahommedan quarter, and under
-the name of Mansur Effendi lived the life of an Egyptian scholar. He was
+the name of [[Mansur]] Effendi lived the life of an Egyptian scholar. He was
 fortunate in the time when he took up his work, for Cairo had not then
 become a modern city, and he was thus able to describe aspects of
 Arabian life that no longer exist there. Perfected by the additional

@@ -24,21 +24,21 @@ had finally alienated him from the Democratic party, and he became one
 of the founders of the new Republican party in the state. He played an
 influential part in the Republican national convention in 1860, and in
 1862 after the passage of the war tax measures he was appointed by
-President Lincoln the first commissioner of internal revenue, which
+President [[Lincoln]] the first commissioner of internal revenue, which
 department he organized. From 1863 to 1869 he was a representative in
 Congress, taking an influential part in debate, and acting as one of the
-managers of President Johnson's impeachment. From 1869 to 1873 he was
-secretary of the treasury in President Grant's cabinet, and from 1873
+managers of President Johnson's [[Impeachment|impeachment]]. From 1869 to 1873 he was
+secretary of the treasury in President Grant's [[Cabinet|cabinet]], and from 1873
 until 1877 was a United States senator from Massachusetts. Under an
-appointment by President Hayes, he prepared the second edition of the
+appointment by President [[Hay|Hayes]], he prepared the second edition of the
 _United States Revised Statutes_ (1878). In 1880 he represented the
 United States before the commission appointed in accordance with the
 treaty of that year, between France and the United States, to decide the
 claims brought by French citizens against the United States for acts of
 the American authorities during the Civil War, and the claims of
 American citizens against France for acts of French authorities during
-the war between France and Mexico, the Franco-German War and the
-Commune. He opposed the acquisition by the United States of the
+the war between France and Mexico, the [[Franco-German War]] and the
+[[Commune]]. He opposed the acquisition by the United States of the
 Philippine Islands, became president of the Anti-Imperialistic League,
 and was a presidential elector on the Bryan (Democratic) ticket in 1900.
 He died at Groton, Massachusetts, on the 28th of February 1905. He

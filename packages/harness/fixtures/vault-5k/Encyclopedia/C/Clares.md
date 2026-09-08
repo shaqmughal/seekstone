@@ -8,9 +8,9 @@ type: reference
 # Clares
 
 CLARES, POOR, otherwise _Clarisses_, Franciscan nuns, so called from
-their foundress, St Clara (q.v.). She was professed by St Francis in the
+their foundress, St [[Clara]] (q.v.). She was professed by St Francis in the
 Portiuncula in 1212, and two years later she and her first companions
-were established in the convent of St Damian's at Assisi. The nuns
+were established in the convent of St Damian's at [[Assisi]]. The nuns
 formed the "Second Order of St Francis," the friars being the "First
 Order," and the Tertiaries (q.v.) the "Third." Before Clara's death in
 1253, the Second Order had spread all over Italy and into Spain, France
@@ -40,7 +40,7 @@ many more adhered to the strict rule of 1253. Indeed a counter-tendency
 towards a greater strictness set in, and a number of reforms were
 initiated, introducing an appalling austerity of life. The most
 important of these reforms were the Coletines (St Colette, c. 1400) and
-the Capucines (c. 1540; see CAPUCHINS). The half-dozen forms of the
+the Capucines (c. 1540; see [[Capuchins|CAPUCHINS]]). The half-dozen forms of the
 Franciscan rule for women here mentioned are still in use in different
 convents, and there are also a great number of religious institutes for
 women based on the rule of the Tertiaries. By the term "Poor Clares" the

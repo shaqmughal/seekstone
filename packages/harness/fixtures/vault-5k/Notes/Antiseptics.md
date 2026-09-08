@@ -30,13 +30,13 @@ standardization has been effected in many instances, and a water
 solution of carbolic acid of a certain fixed strength is now taken as
 the standard with which other antiseptics are compared. The more
 important of those in use to-day are carbolic acid, the perchloride and
-biniodide of mercury, iodoform, formalin, salicylic acid, &c. Carbolic
+biniodide of mercury, [[Iodoform|iodoform]], [[Formalin|formalin]], salicylic acid, &c. Carbolic
 acid is germicidal in strong solution, inhibitory in weaker ones. The
 so-called "pure" acid is applied to infected living tissues, especially
 to tuberculous sinuses or wounds, after scraping them, in order to
 destroy any part of the tuberculous material still remaining. A solution
 of 1 in 20 is used to sterilize instruments before an operation, and
-towels or lint to be used for the patient. Care must always be taken to
+towels or [[Lint|lint]] to be used for the patient. Care must always be taken to
 avoid absorption (see CARBOLIC ACID). The perchloride of mercury is
 another very powerful antiseptic used in solutions of strength 1 in
 2000, 1 in 1000 and 1 in 500. This or the biniodide of mercury is the

@@ -1,6 +1,6 @@
 # Maximus Of Tyre
 
-MAXIMUS OF TYRE (CASSIUS MAXIMUS TYRIUS), a Greek rhetorician and
+MAXIMUS OF TYRE ([[Cassius|CASSIUS]] MAXIMUS TYRIUS), a Greek rhetorician and
 philosopher who flourished in the time of the Antonines and Commodus
 (2nd century A.D.). After the manner of the sophists of his age, he
 travelled extensively, delivering lectures on the way. His writings
@@ -26,14 +26,14 @@ Marcus Aurelius.
 
   Editions by J. Davies, revised with valuable notes by J. Markland
   (1740); J. J. Reiske (1774); F. Dübner (1840, with Theophrastus, &c.,
-  in the Didot series). Monographs by R. Rohdich (Beuthen, 1879); H.
+  in the Didot series). Monographs by R. Rohdich ([[Beuthen]], 1879); H.
   Hobein, _De Maximo Tyrio quaestiones philol._ (Jena, 1895). There is
   an English translation (1804) by Thomas Taylor, the Platonist.
 
 
 
 
-MAX MÜLLER, FRIEDRICH (1823-1900), Anglo-German orientalist and
+MAX MÜLLER, [[Friedrich|FRIEDRICH]] (1823-1900), Anglo-German orientalist and
 comparative philologist, was born at Dessau on the 6th of December 1823,
 being the son of Wilhelm Müller (1794-1827), the German poet, celebrated
 for his phil-Hellenic lyrics, who was ducal librarian at Dessau. The
@@ -45,19 +45,19 @@ friends, who, already interested in him for his father's sake, and
 charmed by the qualities which they discovered in the young man himself,
 powerfully aided him by advice and patronage. Mendelssohn, who was his
 godfather, dissuaded him from indulging his natural bent to the study of
-music; Professor Brockhaus of the University of Leipzig, where Max
+music; Professor [[Brockhaus]] of the University of Leipzig, where Max
 Müller matriculated in 1841, induced him to take up Sanskrit; Bopp, at
 the University of Berlin (1844), made the Sanskrit student a scientific
 comparative philologist; Schelling at the same university, inspired him
 with a love for metaphysical speculation, though failing to attract him
-to his own philosophy; Burnouf, at Paris in the following year, by
+to his own philosophy; [[Burnouf]], at Paris in the following year, by
 teaching him Zend, started him on the track of inquiry into the science
 of comparative religion, and impelled him to edit the _Rig Veda_; and
 when, in 1846, Max Müller came to England upon this errand, Bunsen, in
 conjunction with Professor H. H. Wilson, prevailed upon the East India
 Company to undertake the expense of publication. Up to this time Max
 Müller had lived the life of a poor student, supporting himself partly
-by copying manuscripts, but Bunsen's introductions to Queen Victoria and
+by copying [[Manuscript|manuscripts]], but Bunsen's introductions to Queen Victoria and
 the prince consort, and to Oxford University, laid the foundation for
 him of fame and fortune. In 1848 the printing of his _Rig Veda_ at the
 University Press obliged him to settle in Oxford, a step which decided
@@ -70,7 +70,7 @@ Part of his social success was due to his readiness to exert his musical
 talents at private parties. Max Müller was speedily subjugated by the
 _genius loci_. He was appointed deputy Taylorian professor of modern
 languages in 1850, and the German government failed to tempt him back to
-Strassburg. In the following year he was made M.A. and honorary fellow
+Strassburg. In the following year he was made M.A. and honorary [[Fellow|fellow]]
 of Christ Church, and in 1858 he was elected a fellow of All Souls. In
 1854 the Crimean War gave him the opportunity of utilizing his oriental
 learning in vocabularies and schemes of transliteration. In 1857 he
@@ -107,16 +107,16 @@ predecessor by proclaiming its commanding position in the history of the
 human intellect by his _Science of Language_, two courses of lectures
 delivered at the Royal Institution in 1861 and 1863. Max Müller ought
 not to be described as "the introducer of comparative philology into
-England." Prichard had proved the Aryan affinities of the Celtic
+England." Prichard had proved the [[Aryan]] affinities of the Celtic
 languages by the methods of comparative philology so long before as
-1831; Winning's _Manual of Comparative Philology_ had been published in
+1831; Winning's _[[Manual]] of Comparative Philology_ had been published in
 1838; the discoveries of Bopp and Pott and Pictet had been recognized in
 brilliant articles in the _Quarterly Review_, and had guided the
 researches of Rawlinson. But Max Müller undoubtedly did far more to
 popularize the subject than had been done, or could have been done, by
 any predecessor. He was on less sure ground in another department of the
 study of language--the problem of its origin. He wrote upon it as a
-disciple of Kant, whose _Critique of Pure Reason_ he translated. His
+[[Disciple|disciple]] of [[Kant]], whose _Critique of Pure Reason_ he translated. His
 essays on mythology are among the most delightful of his writings, but
 their value is somewhat impaired by a too uncompromising adherence to
 the seductive generalization of the solar myth.
@@ -133,7 +133,7 @@ importance, especially the four volumes of Gifford lectures, delivered
 between 1888 and 1892; but the most tangible result of the impulse he
 had given was the publication under his editorship, from 1875 onwards,
 of _The Sacred Books of the East_, in fifty-one volumes, including
-indexes, all but three of which appeared under his superintendence
+[[Index|indexes]], all but three of which appeared under his superintendence
 during his lifetime. These comprise translations by the most competent
 scholars of all the really important non-Christian scriptures of
 Oriental nations, which can now be appreciated without a knowledge of
@@ -151,7 +151,7 @@ duties of the post in 1875, when entering upon the editorship of _The
 Sacred Books of the East_. The most remarkable external events of his
 latter years were his delivery of lectures at the restored university of
 Strassburg in 1872, when he devoted his honorarium to the endowment of a
-Sanskrit lectureship, and his presidency over the International Congress
+Sanskrit lectureship, and his presidency over the [[International]] Congress
 of Orientalists in 1892. But his days, if uneventful, were busy. He
 participated in every movement at Oxford of which he could approve, and
 was intimate with nearly all its men of light and leading; he was a
@@ -168,8 +168,8 @@ councillor. In 1898 and 1899 he published autobiographical reminiscences
 under the title of _Auld Lang Syne_. He was writing a more detailed
 autobiography when overtaken by death on the 28th of October 1900. Max
 Müller married in 1859 Georgiana Adelaide Grenfell, sister of the wives
-of Charles Kingsley and J. A. Froude. One of his daughters, Mrs
-Conybeare, distinguished herself by a translation of Scherer's _History
+of Charles [[Kingsley]] and J. A. Froude. One of his daughters, Mrs
+[[Conybeare]], distinguished herself by a translation of Scherer's _History
 of German Literature_.
 
 Though undoubtedly a great scholar, Max Müller did not so much represent

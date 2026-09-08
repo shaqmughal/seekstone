@@ -1,24 +1,24 @@
 # Comet
 
-COMET (Gr. [Greek: komêtês], long-haired), in astronomy, one of a class
+COMET (Gr. [Greek: komêtês], long-haired), in [[Astronomy|astronomy]], one of a class
 of seemingly nebulous bodies, moving under the influence of the sun's
-attraction in very eccentric orbits. A comet is visible only in a small
+attraction in very [[Eccentric|eccentric]] orbits. A comet is visible only in a small
 arc of its orbit near perihelion, differing but slightly from the arc
-of a parabola. An obvious but not sharp classification of comets is into
-bright comets visible to the naked eye, and telescopic comets which can
+of a parabola. An obvious but not sharp [[Classification|classification]] of comets is into
+[[Bright|bright]] comets visible to the naked eye, and telescopic comets which can
 be seen only with a telescope. The telescopic class is much the more
 numerous of the two, only from 20 to 30 bright comets usually appearing
 in any one century, while several telescopic comets, frequently 6 or 8,
 are generally observed in the course of a year.
 
 A bright comet consists of (1) a star-like nucleus; (2) a nebulous haze,
-called the _coma_, surrounding this nucleus, the latter fading into the
+called the _[[Coma|coma]]_, surrounding this nucleus, the latter fading into the
 haze by insensible gradations; (3) a tail or luminous stream flowing
 from the coma in a direction opposite to that of the sun. The nuclei and
 comae of different comets exhibit few peculiarities to the unaided
 vision except in respect to brightness; but the tails of comets differ
 widely, both in brightness and in extent. They range from a barely
-visible brush or feather of light to a phenomenon extending over a
+visible brush or [[Feather|feather]] of light to a phenomenon extending over a
 considerable arc of the heavens, which, comparatively bright near the
 head of the comet, becomes gradually fainter and more diffuse towards
 its end, fading out by gradations so insensible that a precise length
@@ -35,7 +35,7 @@ from the sun.
 A few comets are known to revolve in orbits with a regular period,
 while, in the case of others, no evidence is afforded by observation
 that the orbit deviates from a parabola. Were the orbit a parabola or
-hyperbola the comet would never return (see ORBIT). Periodicity may be
+[[Hyperbola|hyperbola]] the comet would never return (see ORBIT). Periodicity may be
 recognized in two ways: observations during the apparition may show that
 the motion is in an elliptic and not in a parabolic orbit; or a comet
 may have been observed at more than one return. In the latter case the
@@ -82,7 +82,7 @@ whether the nucleus of a comet is an opaque solid body, a cluster of
 such bodies, or a mass of particles of extreme tenuity. Some light is
 thrown on this and other questions by the spectroscope. This instrument
 shows in the spectrum of nearly every comet three bright bands,
-recognized as those of hydrocarbons. The obvious conclusion is that the
+recognized as those of [[Hydrocarbon|hydrocarbons]]. The obvious conclusion is that the
 light forming these bands is not reflected sunlight, but light radiated
 by the gaseous hydrocarbons. Since a gas at so great a distance from the
 sun cannot be heated to incandescence, the question arises how
@@ -93,7 +93,7 @@ electrons or other corpuscles thrown out by the sun. The resemblance of
 the cometary spectrum to the spectrum of hydrocarbons in the Geissler
 tube lends great plausibility to this view. It is remarkable that the
 great comet of 1882 also showed the bright lines of sodium with such
-intensity that they were observed in daylight by R. Copeland and W. O.
+intensity that they were observed in daylight by R. [[Copeland]] and W. O.
 Lohse. In addition to these gaseous spectra, all but the fainter comets
 show a continuous spectrum, crossed by the Fraunhofer lines, which is
 doubtless due to reflected sunlight. It happens that, since the
@@ -105,7 +105,7 @@ further extended.
 PLATE I.
 
   [Illustration: FIG. 1.--COMET 1892, I. (SWIFT), 1892, APRIL 26.
-    By permission of Lick Observatory (E. E. Barnard)]
+    By permission of Lick Observatory (E. E. [[Barnard]])]
 
   [Illustration: FIG. 2.--COMET C, 1908, NOV. 16d. 13h. 10m.
     By permission of Yerkes Observatory (E. E. Barnard).]
@@ -119,7 +119,7 @@ PLATE II.
     By permission of Yerkes Observatory (E. E. Barnard).]
 
 In the telescope the nucleus of a bright comet appears as an opaque
-mass, one or more seconds in diameter, the absolute dimensions comparing
+mass, one or more seconds in diameter, the absolute [[Dimension|dimensions]] comparing
 with those of the satellites of the planets, sometimes, indeed, equal to
 our moon. But the actual results of micrometric measures are found to
 differ very widely. In the case of Donati's comet of 1858 the nucleus
@@ -145,7 +145,7 @@ but the transparency of a cometary nucleus. The great comet of 1882 made
 a transit over the sun on the 17th of September, an occurrence unique in
 the history of astronomy. But the fact of the transit escaped attention
 except at the observatory of the Cape of Good Hope. Here the comet was
-watched by W. H. Finlay and by W. L. Elkin as it approached the sun, and
+watched by W. H. [[Finlay]] and by W. L. Elkin as it approached the sun, and
 was kept in sight until it came almost or quite in contact with the
 sun's disk, when it disappeared. It should, if opaque, have appeared a
 few minutes later, projected on the sun's disk; but not a trace of it
@@ -206,11 +206,11 @@ of a comet is driven away from the sun is another question that has not
 yet been decisively answered. Two causes have been suggested, of which
 one has only recently been brought to light. This is the repulsion of
 the sun's rays, a form of action the probability of which was shown by
-J. Clerk Maxwell in 1870, and which was experimentally established about
+J. Clerk [[Maxwell]] in 1870, and which was experimentally established about
 thirty years later. The intensity of this action on a particle is
 proportional to the surface presented by the particle to the rays, and
 therefore to the square of its diameter, while its mass, and therefore
-its gravitation to the sun, are proportional to the cube of the
+its [[Gravitation|gravitation]] to the sun, are proportional to the cube of the
 diameter. It follows that if the size and mass of a particle in space
 are below a certain limit, the repulsion of the rays will exceed the
 attraction of the sun, and the particle will be driven off into space.
@@ -220,7 +220,7 @@ a lower as well as an upper limit to their magnitude, and that it is
 only between certain definable limits of magnitude that the force acts.
 Conceiving the particle to be of the density of water, and considering
 its diameter as a diminishing variable, theory shows that the repulsion
-will balance gravity when the diameter has reached 0.0015 of a
+will [[Balance|balance]] gravity when the diameter has reached 0.0015 of a
 millimetre. As the diameter is reduced below this limit the ratio of
 the repulsive to the attractive force increases, but soon reaches a
 maximum, after which it diminishes down to a diameter of 0.00007 mm.,
@@ -275,7 +275,7 @@ having much resemblance to the meteoric masses which are known to be
 flying through the solar system and possibly of the same general kind as
 these. The question whether there is any central solid of considerable
 mass is still undecided; it can only be said that if so, it is probably
-small relative to cosmic masses in general--more likely less than
+small relative to [[Cosmic|cosmic]] masses in general--more likely less than
 greater than 100 m. in diameter. The light of the comet therefore
 proceeds from two sources: one the incandescence of gases, the other the
 sunlight reflected from the solid parts. No estimate can be formed of
@@ -319,7 +319,7 @@ motion of the sun through space renders it almost infinitely improbable
 that the orbit would have been so nearly a parabola as all such orbits
 are actually found to be. (2) The apparent deviation from a very
 elongated ellipse has never been in any case greater than might have
-been the result of errors of observation on bodies of this class.
+been the result of [[Error|errors]] of observation on bodies of this class.
 
 This being granted, a luminous view of the causes which lead to the
 observed orbits of comets is readily gained by imagining these bodies to
@@ -346,7 +346,7 @@ the orbit would be changed into one of shorter period. Should it pass
 behind the planet, its motion would be accelerated and its period
 lengthened. In such cases the orbit might be changed to a hyperbola, and
 then the comet would never return. It follows that there is a tendency
-towards a gradual but constant diminution in the total number of comets.
+towards a [[Gradual|gradual]] but constant diminution in the total number of comets.
 If we call [Delta]e the amount by which the eccentricity of a cometary
 orbit is less than unity, [Delta]e will be an extremely minute fraction
 in the case of the original orbits. If we call ±[delta] the change which
@@ -435,7 +435,7 @@ planets, he predicted its return for 1757,--a bold prediction at that
 time, but justified by the event, for the comet again made its
 appearance as was expected, though it did not pass through its
 perihelion till the month of March 1759, the attraction of Jupiter and
-Saturn having caused, as was computed by Clairault previously to its
+Saturn having caused, as was computed by [[Clairault]] previously to its
 return, a retardation of 618 days. This comet had been observed in 1066,
 and the accounts which have been preserved represent it as having then
 appeared to be four times the size of Venus, and to have shone with a
@@ -450,8 +450,8 @@ seem possible in so short a period; we must therefore consider either
 that the earlier accounts are greatly exaggerated, or that the
 brightness of the comet is subject to changes from some unknown cause.
 Previous appearances of Halley's comet have been calculated by J. R.
-Hind, and more recently by P. H. Cowell and A. C. D. Crommelin of
-Greenwich, the latter having carried the comet back to 87 B.C. with
+Hind, and more recently by P. H. [[Cowell]] and A. C. D. Crommelin of
+[[Greenwich]], the latter having carried the comet back to 87 B.C. with
 certainty, and to 240 B.C. with fair probability. It was detected by Max
 Wolf at Heidelberg on plates exposed on Sept. 11, 1909, and subsequently
 on a Greenwich plate of Sept. 9.

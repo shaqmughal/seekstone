@@ -13,7 +13,7 @@ ordained in 1864, and held a fellowship at Balliol College, Oxford,
 1868-1882. During the earlier part of this period he stood alone in the
 university as a teacher of the main conclusions of modern Old Testament
 criticism. In 1881 he was presented to the rectory of Tendring, in
-Essex, and in 1884 he was made a member of the Old Testament revision
+[[Essex]], and in 1884 he was made a member of the Old Testament revision
 company. He resigned the living of Tendring in 1885 on his appointment
 to the Oriel professorship, which carried with it a canonry at
 Rochester. In 1889 he delivered the Bampton lectures at Oxford. In 1908
@@ -27,7 +27,7 @@ more advanced conclusions of English biblical criticism. In the
 introduction to his _Origin of the Psalter_ (London, 1891) he gave an
 account of his development as a critical scholar.
 
-CHÉZY, ANTOINE LÉONARD DE (1773-1832), French orientalist, was born at
+CHÉZY, [[Antoine|ANTOINE]] LÉONARD DE (1773-1832), French orientalist, was born at
 Neuilly on the 15th of January 1773. His father, Antoine de Chézy
 (1718-1798), was an engineer who finally became director of the École
 des Fonts et Chaussées. The son was intended for his father's
@@ -36,8 +36,8 @@ the national library. About 1803 he began the study of Sanskrit, though
 he possessed neither grammar nor dictionary, and by great labour he
 obtained sufficient knowledge of the language to be able to compose in
 it verses said to possess great elegance. He was the first professor of
-Sanskrit appointed in the Collège de France (1815), a chevalier of the
-Legion of Honour, and a member of the Académie des Inscriptions. He died
+Sanskrit appointed in the Collège de France (1815), a [[Chevalier|chevalier]] of the
+[[Legion]] of Honour, and a member of the Académie des Inscriptions. He died
 in 1832. Among his works were _Medjouin_ _et Leila_ (1807), from the
 Persian; _Yadjanadatta Badha_ (1814) and _La Reconnaissance de
 Sacountala_ (1830), from the Sanskrit; _L'Anthologie érotique d'Amrou_

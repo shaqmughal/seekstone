@@ -25,7 +25,7 @@ specialized than the second family.
   formula is i.½, c.(0/1), p.(4/5), m.(3/8), and the feet are very like
   those of _Hipparion_. The cervical vertebrae are of normal form, the
   orbit (as in the second family) is encircled by bone, the last molar
-  has a third lobe, the single pair of upper incisors are somewhat
+  has a third [[Lobe|lobe]], the single pair of upper incisors are somewhat
   elongated, and have a gap between and behind them, while the outer
   lower incisors are larger than the inner pair, the canines being
   small. The skull has a short muzzle, with elongated nasals. Remains of

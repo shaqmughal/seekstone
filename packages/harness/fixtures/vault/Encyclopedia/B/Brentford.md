@@ -19,7 +19,7 @@ the parliamentary forces. For his services on this occasion the Scotsman
 Ruthven, earl of Forth, was made earl of Brentford, a title afterwards
 conferred by William III. on Marshal Schomberg. Brentford was during the
 16th and 17th centuries a favourite resort of London citizens; and its
-inn of the Three Pigeons, which was kept for a time by John Lowin, one
+inn of the Three Pigeons, which was kept for a time by John [[Lowin]], one
 of the first actors of Shakespeare's plays, is frequently alluded to by
 the dramatists of the period. Falstaff is disguised as the "Fat Woman of
 Brentford" in Shakespeare's _Merry Wives of Windsor_, and numerous other

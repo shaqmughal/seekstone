@@ -13,7 +13,7 @@ mills and manufactures large quantities of fire-brick. The municipality
 owns and operates its waterworks. Natural gas is piped to Frostburg from
 the West Virginia fields, 120 m. away. Frostburg was first settled in
 1812; was called Mount Pleasant until about 1830, when the present name
-was substituted in honour of Meshech Frost, one of the town's founders;
+was substituted in honour of Meshech [[Frost]], one of the town's founders;
 and was incorporated in 1870.
 
 ## See also

@@ -13,19 +13,19 @@ city, during the earlier decades of the 12th century. Of his personal
 history nothing is known, except that it was at the instance of the
 countess Matilda, Hildebrand's friend, who died in 1115, that he
 directed his attention and that of his students to the _Institutes_ and
-_Code_ of Justinian; that after 1116 he appears to have held some office
+_[[Code]]_ of Justinian; that after 1116 he appears to have held some office
 under the emperor Henry V.; and that he died, perhaps during the reign
-of the emperor Lothair II., but certainly before 1140. He was the first
+of the emperor [[Lothair]] II., but certainly before 1140. He was the first
 of the Glossators (see GLOSS), and according to ancient opinion (which,
-however, has been much controverted) was the author of the epitome of
+however, has been much controverted) was the author of the [[Epitome|epitome]] of
 the _Novellae_ of Justinian, called the _Authentica_, arranged according
-to the titles of the _Code_. His _Formularium tabellionum_ (a directory
+to the titles of the _Code_. His _Formularium tabellionum_ (a [[Directory|directory]]
 for notaries) and _Quaestiones_ (a book of decisions) are no longer
 extant. (See ROMAN LAW.)
 
   See Savigny, _Gesch. d. rom. Rechts im Mittelalter_, iii. 83; Vecchio,
   _Notizie di Irnerio e della sua scuola_ (Pisa, 1869); Ficker, _Forsch,
-  z. Reichs- u. Rechtsgesch. Italiens_, vol. iii. (Innsbruck, 1870); and
+  z. Reichs- u. Rechtsgesch. Italiens_, vol. iii. ([[Innsbruck]], 1870); and
   Fitting, _Die Anfange der Rechtsschule zu Bologna_ (Berlin, 1888).
 
 
@@ -39,7 +39,7 @@ however, that the Iron Age, the period of civilization during which this
 metal played an all-important part, succeeded the ages of copper and
 bronze, notwithstanding the fact that the extraction of these metals
 required greater metallurgical skill. The Assyrians and Egyptians made
-considerable use of the metal; and in Genesis iv. 22 mention is made of
+considerable use of the metal; and in [[Genesis]] iv. 22 mention is made of
 Tubal-cain as the instructor of workers in iron and copper. The earlier
 sources of the ores appear to have been in India; the Greeks, however,
 obtained it from the Chalybes, who dwelt on the south coast of the Black
@@ -47,15 +47,15 @@ Sea; and the Romans, besides drawing from these deposits, also exploited
 Spain, Elba and the province of Noricum. (See METAL-WORK.)
 
 The chief occurrences of metallic iron are as minute spiculae
-disseminated through basaltic rocks, as at Giant's Causeway and in the
+disseminated through basaltic rocks, as at [[Giant'S Causeway|Giant's Causeway]] and in the
 Auvergne, and, more particularly, in meteorites (q.v.). In combination
 it occurs, usually in small quantity, in most natural waters, in plants,
 and as a necessary constituent of blood. The economic sources are
 treated under IRON AND STEEL below; in the same place will be found
 accounts of the manufacture, properties, and uses of the metal, the
-present article being confined to its chemistry. The principal iron ores
+present article being confined to its [[Chemistry|chemistry]]. The principal iron ores
 are the oxides and carbonates, and these readily yield the metal by
-smelting with carbon. The metal so obtained invariably contains a
+smelting with [[Carbon|carbon]]. The metal so obtained invariably contains a
 certain amount of carbon, free or combined, and the proportion and
 condition regulate the properties of the metal, giving origin to the
 three important varieties: cast iron, steel, wrought iron. The perfectly
@@ -74,7 +74,7 @@ Its specific gravity is 7.84; and the average specific heat over the
 range 15 deg.-100 deg. is 0.10983; this value increases with temperature
 to 850 deg., and then begins to diminish. It is the most tenacious of
 all the ductile metals at ordinary temperatures with the exception of
-cobalt and nickel; it becomes brittle, however, at the temperature of
+[[Cobalt|cobalt]] and nickel; it becomes brittle, however, at the temperature of
 liquid air. It softens at a red heat, and may be readily welded at a
 white heat; above this point it becomes brittle. It fuses at about 1550
 deg.-1600 deg., and may be distilled in the electric furnace (H.
@@ -104,25 +104,25 @@ is formed with evolution of nitrogen oxides.
 It was observed by James Keir (_Phil. Trans._, 1790, p. 359) that iron,
 after having been immersed in strong nitric acid, is insoluble in acids,
 neither does it precipitate metals from solutions. This "passivity" may
-be brought about by immersion in other solutions, especially by those
+be brought about by [[Immersion|immersion]] in other solutions, especially by those
 containing such oxidizing anions as NO'3, ClO'3, less strongly by the
 anions SO"4 CN', CNS', C2H3O'2, OH', while Cl', Br' practically inhibit
 passivity; H' is the only cation which has any effect, and this tends to
 exclude passivity. It is also occasioned by anodic polarization of iron
 in sulphuric acid. Other metals may be rendered passive; for example,
-zinc does not precipitate copper from solutions of the double cyanides
-and sulphocyanides, nickel and cadmium from the nitrates, and iron from
+zinc does not precipitate copper from solutions of the double [[Cyanide|cyanides]]
+and sulphocyanides, nickel and [[Cadmium|cadmium]] from the nitrates, and iron from
 the sulphate, but it immediately throws down nickel and cadmium from the
 sulphates and chlorides, and lead and copper from the nitrates (see O.
 Sackur, _Zeit. Elektrochem._, 1904, 10, p. 841). Anodic polarization in
 potassium chloride solution renders molybdenum, niobium, ruthenium,
 tungsten, and vanadium passive (W. Muthmann and F. Frauenberger, _Sitz.
 Bayer. Akad. Wiss._, 1904, 34, p. 201), and also gold in commercial
-potassium cyanide solution (A. Coehn and C. L. Jacobsen, _Abs. J.C.S._,
+potassium cyanide solution (A. Coehn and C. L. [[Jacobsen]], _Abs. J.C.S._,
 1907, ii. p. 926). Several hypotheses have been promoted to explain this
 behaviour, and, although the question is not definitely settled, the
 more probable view is that it is caused by the formation of a film of an
-oxide, a suggestion made many years ago by Faraday (see P. Krassa,
+oxide, a suggestion made many years ago by [[Faraday]] (see P. Krassa,
 _Zeit. Elektrochem._, 1909, 15, p. 490). Fredenhagen (_Zeit. physik.
 Chem._, 1903, 43, p. 1), on the other hand, regarded it as due to
 surface films of a gas; submitting that the difference between iron made
@@ -150,7 +150,7 @@ deg. in carbon dioxide; Donau (_Monats._, 1904, 25, p. 181), on the
 other hand, obtained a magnetic and crystalline-ferroso-ferric oxide at
 1200 deg. It may also be prepared as a black velvety powder which
 readily takes up oxygen from the air by adding ferrous oxalate to
-boiling caustic potash. Ferrous hydrate, Fe(OH)2, when prepared from a
+boiling [[Caustic|caustic]] potash. Ferrous hydrate, Fe(OH)2, when prepared from a
 pure ferrous salt and caustic soda or potash free from air, is a white
 powder which may be preserved in an atmosphere of hydrogen. Usually,
 however, it forms a greenish mass, owing to partial oxidation. It
@@ -160,8 +160,8 @@ salts, which are usually white when anhydrous, but greenish when
 hydrated.
 
 _Ferric oxide_ or iron sesquioxide, Fe2O3, constitutes the valuable ores
-red haematite and specular iron; the minerals brown haematite or
-limonite, and gothite and also iron rust are hydrated forms. It is
+red [[Haematite|haematite]] and specular iron; the minerals brown haematite or
+limonite, and [[Gothite|gothite]] and also iron rust are hydrated forms. It is
 obtained as a steel-grey crystalline powder by igniting the oxide or any
 ferric salt containing a volatile acid. Small crystals are formed by
 passing ferric chloride vapour over heated lime. When finely ground
@@ -180,16 +180,16 @@ atmosphere. By heating freshly prepared red ferric hydrate with water
 under 5000 atmospheres pressure Ruff (_Ber._, 1901, 34, p. 3417)
 obtained definite hydrates corresponding to the minerals limonite (30
 deg.-42.5 deg.), gothite (42.5 deg.-62.5 deg.), and hydrohaematite
-(above 62.5 deg.). Thomas Graham obtained a soluble hydrate by
+(above 62.5 deg.). Thomas [[Graham]] obtained a soluble hydrate by
 dissolving the freshly prepared hydrate in ferric chloride and dialysing
 the solution, the soluble hydrate being left in the dialyser. All the
-chlorine, however, does not appear to be removed by this process, the
+[[Chlorine|chlorine]], however, does not appear to be removed by this process, the
 residue having the composition 82Fe(OH)3.FeCl3; but it may be by
 electrolysing in a porous cell (Tribot and Chretien, _Compt. rend._,
 1905, 140, p. 144). On standing, the solution usually gelatinizes, a
 process accelerated by the addition of an electrolyte. It is employed in
 medicine under the name _Liquor ferri dialysati_. The so-called soluble
-meta-ferric hydroxide, FeO(OH)(?), discovered by Pean de St Gilles in
+meta-ferric hydroxide, FeO(OH)(?), discovered by Pean de St [[Gill|Gilles]] in
 1856, may be obtained by several methods. By heating solutions of
 certain iron salts for some time and then adding a little sulphuric acid
 it is precipitated as a brown powder. Black scales, which dissolve in
@@ -206,7 +206,7 @@ are usually colourless when anhydrous, but yellow or brown when
 hydrated. It has also feebly acidic properties, forming _ferrites_ with
 strong bases.
 
-_Magnetite_, Fe3O4, may be regarded as ferrous ferrite, FeO.Fe2O3. This
+_[[Magnetite]]_, Fe3O4, may be regarded as ferrous ferrite, FeO.Fe2O3. This
 important ore of iron is most celebrated for its magnetic properties
 (see MAGNETISM and COMPASS), but the mineral is not always magnetic,
 although invariably attracted by a magnet. It may be obtained
@@ -218,7 +218,7 @@ attracted by a magnet, and thus may be separated from the admixed ferric
 oxide. Calcium ferrite, magnesium ferrite and zinc ferrite, RO.Fe2O3 (R
 = Ca, Mg, Zn), are obtained by intensely heating mixtures of the oxides;
 magnesium ferrite occurs in nature as the mineral magnoferrite, and zinc
-ferrite as franklinite, both forming black octahedra.
+ferrite as [[Franklinite|franklinite]], both forming black octahedra.
 
 _Ferric acid_, H2FeO4. By fusing iron with saltpetre and extracting the
 melt with water, or by adding a solution of ferric nitrate in nitric
@@ -232,7 +232,7 @@ solution, using an iron anode. A temperature of 70 deg., and a reversal
 of the current (of low density) between two cast iron electrodes every
 few minutes, are the best working conditions. When concentrated the
 solution is nearly black, and on heating it yields a yellow solution of
-potassium ferrite, oxygen being evolved. Barium ferrate, BaFeO4.H2O,
+potassium ferrite, oxygen being evolved. [[Barium]] ferrate, BaFeO4.H2O,
 obtained as a dark red powder by adding barium chloride to a solution of
 potassium ferrate, is fairly stable. It dissolves in acetic acid to form
 a red solution, is not decomposed by cold sulphuric acid, but with
@@ -265,7 +265,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   obtained. The solution, in common with those of most ferrous salts,
   absorbs nitric oxide with the formation of a brownish solution.
 
-  Ferric chloride, FeCl3, known in its aqueous solution to Glauber as
+  Ferric chloride, FeCl3, known in its aqueous solution to [[Glauber]] as
   _oleum martis_, may be obtained anhydrous by the action of dry
   chlorine on the metal at a moderate red-heat, or by passing
   hydrochloric acid gas over heated ferric oxide. It forms iron-black
@@ -279,7 +279,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   of chlorine by a current of carbon dioxide. It also dissolves in
   alcohol and ether; boiling point determinations of the molecular
   weight in these solutions point to the formula FeCl3. Vapour density
-  determinations at 448 deg. indicate a partial dissociation of the
+  determinations at 448 deg. indicate a partial [[Dissociation|dissociation]] of the
   double molecule Fe2Cl6; on stronger heating it splits into ferrous
   chloride and chlorine. It forms red crystalline double salts with the
   chlorides of the metals of the alkalis and of the magnesium group. An
@@ -323,14 +323,14 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   combines with other sulphides to form compounds of the type M'2Fe2S4.
   Potassium ferric sulphide, K2Fe2S4, obtained by heating a mixture of
   iron filings, sulphur and potassium carbonate, forms purple glistening
-  crystals, which burn when heated in air. Magnetic pyrites or
+  crystals, which [[Burn|burn]] when heated in air. Magnetic pyrites or
   pyrrhotite has a composition varying between Fe7S8 and Fe8S9, i.e.
   5FeS.Fe2S3 and 6FeS.Fe2S3. It has a somewhat brassy colour, and occurs
   massive or as hexagonal plates; it is attracted by a magnet and is
   sometimes itself magnetic. The mineral is abundant in Canada, where
   the presence of about 5% of nickel makes it a valuable ore of this
   metal. Iron disulphide, FeS2, constitutes the minerals pyrite and
-  marcasite (q.v.); copper pyrites is (Cu, Fe)S2. Pyrite may be prepared
+  [[Marcasite|marcasite]] (q.v.); copper pyrites is (Cu, Fe)S2. Pyrite may be prepared
   artificially by gently heating ferrous sulphide with sulphur, or as
   brassy octahedra and cubes by slowly heating an intimate mixture of
   ferric oxide, sulphur and sal-ammoniac. It is insoluble in dilute
@@ -344,7 +344,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   Ferrous sulphate, green vitriol or copperas, FeSO4.7H2O, was known to,
   and used by, the alchemists; it is mentioned in the writings of
   Agricola, and its preparation from iron and sulphuric acid occurs in
-  the _Tractatus chymico-philosophicus_ ascribed to Basil Valentine. It
+  the _Tractatus chymico-philosophicus_ ascribed to [[Basil]] Valentine. It
   occurs in nature as the mineral melanterite, either crystalline or
   fibrous, but usually massive; it appears to have been formed by the
   oxidation of pyrite or marcasite. It is manufactured by piling pyrites
@@ -392,12 +392,12 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   FeSO4.Fe2(SO4)3.12H2O. The iron alums are obtained by crystallizing
   solutions of equivalent quantities of ferric and an alkaline sulphate.
   Ferric potassium sulphate, the common iron alum,
-  K2SO4.Fe2(SO4)3.24H2O, forms bright violet octahedra.
+  K2SO4.Fe2(SO4)3.24H2O, forms [[Bright|bright]] violet octahedra.
 
   _Nitrides, Nitrates, &c._--Several nitrides are known. Guntz (_Compt.
   rend._, 1902, 135, p. 738) obtained ferrous nitride, Fe3N2, and ferric
   nitride, FeN, as black powders by heating lithium nitride with ferrous
-  potassium chloride and ferric potassium chloride respectively. Fowler
+  potassium chloride and ferric potassium chloride respectively. [[Fowler]]
   (_Jour. Chem. Soc._, 1901, p. 285) obtained a nitride Fe2N by acting
   upon anhydrous ferrous chloride or bromide, finely divided reduced
   iron, or iron amalgam with ammonia at 420 deg.; and, also, in a compact
@@ -463,7 +463,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
 
   _Arsenides, Arsenites, &c._--Several iron arsenides occur as minerals;
   lolingite, FeAs2, forms silvery rhombic prisms; mispickel or arsenical
-  pyrites, Fe2AsS2, is an important commercial source of arsenic. A
+  pyrites, Fe2AsS2, is an important commercial source of [[Arsenic|arsenic]]. A
   basic ferric arsenite, 4Fe2O3.As2O3.5H2O, is obtained as a flocculent
   brown precipitate by adding an arsenite to ferric acetate, or by
   shaking freshly prepared ferric hydrate with a solution of arsenious
@@ -475,7 +475,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   mixing solutions of ferric chloride and ordinary sodium phosphate. It
   readily dissolves in hydrochloric acid.
 
-  _Carbides, Carbonates._--The carbides of iron play an important part
+  _[[Carbide|Carbides]], Carbonates._--The carbides of iron play an important part
   in determining the properties of the different modifications of the
   commercial metal, and are discussed under IRON AND STEEL.
 
@@ -498,7 +498,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   this substance be heated in ethereal solution to 50 deg., it deposits
   lustrous dark-green tablets of ferrotetracarbonyl, Fe(CO)4, very
   stable at ordinary temperatures, but decomposing at 140 deg.-150 deg.
-  into iron and carbon monoxide (J. Dewar and H. O. Jones, _Abst.
+  into iron and carbon monoxide (J. [[Dewar]] and H. O. Jones, _Abst.
   J.C.S._, 1907, ii. 266). For the cyanides see PRUSSIC ACID.
 
   Ferrous salts give a greenish precipitate with an alkali, whilst
@@ -536,7 +536,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
 
   4. _Ferri sulphas exsiccatus_, which has two subpreparations: (a)
   _Pilula ferri_, "Blaud's pill" (exsiccated ferrous sulphate 150,
-  exsiccated sodium carbonate 95, gum acacia 50, tragacanth 15, glycerin
+  exsiccated sodium carbonate 95, [[Gum|gum]] acacia 50, tragacanth 15, glycerin
   10, syrup 150, water 20, each to contain about 1 grain of ferrous
   carbonate); (b) _Pilula aloes et ferri_ (Barbadoes aloes 2, exsiccated
   ferrous sulphate 1, compound powder of cinnamon 3, syrup of glucose
@@ -605,7 +605,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
 
   There are numerous organic preparations of iron. Ferratin is a reddish
   brown substance which claims to be identical with the iron substance
-  found in pig's liver. Carniferrin is another tasteless powder
+  found in pig's [[Liver|liver]]. Carniferrin is another tasteless powder
   containing iron in combination with the phosphocarnic acid of muscle
   preparations, and contains 35% of iron. Ferratogen is prepared from
   ferric nuclein. Triferrin is a paranucleinate of iron, and contains
@@ -614,7 +614,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   of an ox and may be administered in bolus form. Dieterich's solution
   of peptonated iron contains about 2 gr. of iron per oz. Vachetta has
   used the albuminate of iron with striking success in grave cases of
-  anaemia. Succinate of iron has been prepared by Hausmann. Haematogen,
+  anaemia. Succinate of iron has been prepared by [[Hausmann]]. Haematogen,
   introduced by Hommel, claims to contain the albuminous constituents of
   the blood serum and all the blood salts as well as pure haemoglobin.
   Sicco, the name given to dry haematogen, is a tasteless powder.
@@ -628,13 +628,13 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   unbroken skin, but when applied to the broken skin, sores, ulcers and
   mucous surfaces, the ferric salts are powerful astringents, because
   they coagulate the albuminous fluids in the tissues themselves. The
-  salts of iron quickly cause coagulation of the blood, and the clot
+  salts of iron quickly cause coagulation of the blood, and the [[Clot|clot]]
   plugs the bleeding vessels. They thus act locally as haemostatics or
-  styptics, and will often arrest severe haemorrhage from parts which
+  styptics, and will often [[Arrest|arrest]] severe [[Haemorrhage|haemorrhage]] from parts which
   are accessible, such as the nose. They were formerly used in the
   treatment of _post partum_ haemorrhage. The perchloride, sulphate and
   pernitrate are strongly astringent; less extensively they are used in
-  chronic discharges from the vagina, rectum and nose, while injected
+  chronic [[Discharge|discharges]] from the vagina, rectum and nose, while injected
   into the rectum they destroy worms.
 
   Internally, a large proportion of the various articles of ordinary
@@ -670,7 +670,7 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   person, there is no doubt that it is absorbed in the organic form.
   Whether inorganic salts are directly absorbed has been a matter of
   much discussion; it has, however, been directly proved by the
-  experiments of Kunkel (_Archiv fur die gesamte Physiologie des
+  experiments of Kunkel (_Archiv [[Fur|fur]] die gesamte Physiologie des
   Menschen und der Tiere_, lxi.) and Gaule. The amount of iron existing
   in the human blood is only 38 gr.; therefore, when an excess of iron
   is absorbed, part is excreted immediately by the bowel and kidneys,
@@ -697,13 +697,13 @@ evolution of chlorine or oxygen (Baschieri, _Gazetta_, 1906, 36, ii. p.
   iron. Stockman's own experiments are, however, directly opposed to
   Bunge's view. Wharfinger states that in chlorosis the specific action
   of iron is only obtained by administering those inorganic preparations
-  which give a reaction with the ordinary reagents; the iron ions in a
+  which give a reaction with the ordinary reagents; the iron [[Ion|ions]] in a
   state of dissociation act as a catalytic agent, destroying the
   hypothetical toxin which is the cause of chlorosis. Practical
   experience teaches every clinician that, whatever the mode of action,
   iron is most valuable in anaemia, though in many cases, where there is
   well-marked toxaemia from absorption of the intestinal products, not
-  only laxatives in combination with iron but intestinal antiseptics are
+  only laxatives in combination with iron but intestinal [[Antiseptics|antiseptics]] are
   necessary. That form of neuralgia which is associated with anaemia
   usually yields to iron.
 

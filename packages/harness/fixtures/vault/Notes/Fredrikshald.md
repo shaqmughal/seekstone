@@ -1,10 +1,10 @@
 # Fredrikshald
 
-FREDRIKSHALD (FREDERICKSHALD, FRIEDERICHSHALL), a seaport and garrison
+FREDRIKSHALD (FREDERICKSHALD, FRIEDERICHSHALL), a seaport and [[Garrison|garrison]]
 town of Norway, in Smaalenene _amt_ (county), 85 m. by rail S. by E. of
-Christiania. Pop. (1900) 11,948. It is picturesquely situated on both
+[[Christiania]]. Pop. (1900) 11,948. It is picturesquely situated on both
 banks of the Tistedal river at its outflow to the Ide fjord, surrounded
-by several rocky eminences. The chief of these is occupied by the famous
+by several rocky [[Eminence|eminences]]. The chief of these is occupied by the famous
 fortress Fredriksten, protected on three sides by precipices, founded by
 Frederick III. (1661), and mainly showing, in its present form, the
 works of Frederick V. (1766) and Christian VII. (1808). Between it and
@@ -19,12 +19,12 @@ destroyed by fire in 1759 and 1826. The castle surrendered to the
 Swedish crown prince Bernadotte in 1814, and its capture was speedily
 followed by the conquest of the kingdom and its union with Sweden.
 Fredrikshald is one of the principal ports of the kingdom for the export
-of timber. Marble of very fine quality and grain is extensively quarried
+of timber. [[Marble]] of very fine quality and grain is extensively quarried
 and exported for architectural ornamentation and for furniture-making.
 Wood-pulp is also exported. The industries embrace granite quarries,
-wood-pulp factories, and factories for sugar, tobacco, curtains,
+wood-pulp factories, and factories for sugar, tobacco, [[Curtain|curtains]],
 travelling-bags, boots, &c. There are railway communications with
-Gothenburg and all parts of Sweden and regular coastal and steamer
+[[Gothenburg]] and all parts of Sweden and regular coastal and steamer
 services.
 
 ## References

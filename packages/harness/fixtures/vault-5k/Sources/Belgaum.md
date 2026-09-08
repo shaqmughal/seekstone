@@ -47,8 +47,8 @@ Vijayanagar. In 1347 the northern part was conquered by the Bahmani
 dynasty, which in 1473 took the town of Belgaum and conquered the
 southern part also. When Aurungzeb overthrew the Bijapur sultans in
 1686, Belgaum passed to the Moguls. In 1776 the country was overrun by
-Hyder Ali, but was retaken by the Peshwa with British assistance. In
-1818 it was handed over to the East India Company and was made part of
+[[Hyder Ali]], but was retaken by the Peshwa with British assistance. In
+1818 it was handed over to the [[East India Company]] and was made part of
 the district of Dharwar. In 1836 this was divided into two parts, the
 southern district continuing to be known as Dharwar, the northern as
 Belgaum.

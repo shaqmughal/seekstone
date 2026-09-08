@@ -24,7 +24,7 @@ it was already in the possession of the Boii, and had probably by this
 time changed its name, and in 189 B.C. it became a Roman colony. After
 the conquest of the mountain tribes, its importance was assured by its
 position on the Via Aemilia, by which it was connected in 187 B.C. with
-Ariminum and Placentia, and on the road, constructed in the same year,
+[[Ariminum]] and Placentia, and on the road, constructed in the same year,
 to Arretium; while another road was made, perhaps in 175 B.C., to
 Aquilelia. It thus became the centre of the road system of north Italy.
 In 90 B.C. it acquired Roman citizenship. In 43 B.C. it was used as his

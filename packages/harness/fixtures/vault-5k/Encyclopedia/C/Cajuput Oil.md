@@ -10,7 +10,7 @@ type: source
 CAJUPUT OIL, a volatile oil obtained by distillation from the leaves of the
 myrtaceous tree _Melaleuca leucadendron_, and probably other species. The
 trees yielding the oil are found throughout the Indian Archipelago, the
-Malay Peninsula and over the hotter parts of the Australian continent; but
+[[Malay Peninsula]] and over the hotter parts of the Australian continent; but
 the greater portion of the oil is produced from Celebes Island. The name
 cajuput is derived from the native _Kayuputi_ or white wood. The oil is
 prepared from leaves collected on a hot dry day, which are macerated in

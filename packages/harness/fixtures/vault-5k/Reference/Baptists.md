@@ -8,7 +8,7 @@ tags: [forestry-theory, africa]
 # Baptists
 
 BAPTISTS, a body of Christians, distinguished, as their name imports, from
-other denominations by the view they hold respecting the ordinance of
+other [[Denomination|denominations]] by the view they hold respecting the ordinance of
 baptism (_q.v._). This distinctive view, common and peculiar to all
 Baptists, is that baptism should be administered to believers only. The
 mode of administration of the ordinance has not always been the same, and
@@ -34,7 +34,7 @@ movements within the reformation areas themselves. One of the most notable
 of these radical anti-ecclesiastical movements was that of the Zwickau
 prophets, (Marcus Stübner, Nikolaus Storch and Thomas Münzer): the most
 vigorous and notorious that of the Münster Anabaptists. Although they have
-been called the "harbingers" of the Anabaptists, the characteristic
+been called the "[[Harbinger|harbingers]]" of the Anabaptists, the characteristic
 teaching of the Zwickau prophets was not Anabaptism. (See, however,
 ANABAPTISTS.) For although Münzer repudiated infant baptism in theory, he
 did not relinquish its practice, nor did he insist on the re-baptism of
@@ -106,7 +106,7 @@ bond of brotherly love as the basis of neighbourly life. In the second
 place, the persecution deprived the Anabaptists of the noble leaders who
 had preached non-resistance and at the same time provoked others to an
 attitude of vengeance which culminated in the horrors of Münster. For
-Melchior Hofmann (_ca._ 1498-1543 or 1544) having taken the Anabaptist
+Melchior [[Hofmann]] (_ca._ 1498-1543 or 1544) having taken the Anabaptist
 teaching to Holland, there arose in Haarlem a preacher of vengeance, Jan
 Matthisson or Matthyszoon (Matthys) (d. 1534) by name, who, prophesying a
 speedy end of the world and establishment of the kingdom of heaven,
@@ -168,7 +168,7 @@ Thomas Fuller (1608-1661) tells us from Stow's _Chronicles_ that, in the
 year 1538, "four Anabaptists, three men and one woman, all Dutch, bare
 faggots at Paul's Cross, and three days after a man and woman of their sect
 was burnt in Smithfield." In the reign of Edward VI., after the return of
-the exiles from Zürich, John Hooper (bishop of Gloucester and Worcester, d.
+the exiles from Zürich, John [[Hooper]] (bishop of Gloucester and Worcester, d.
 1555) writes to his friend Bullinger in 1549, that he reads "a public
 lecture twice in the day to so numerous an audience that the church cannot
 contain them," and adds, "the Anabaptists flock to the place and give me
@@ -213,7 +213,7 @@ the time of John Smith or Smyth (d. 1612) that the modern Baptist movement
 in England broke away from Brownism. Smyth was appointed preacher of the
 city of Lincoln in 1600 as an ordained clergyman, but became a separatist
 in 1605 or 1606, and, soon after, emigrated under stress of persecution
-with the Gainsborough Independents to Amsterdam. With Thomas Helwys (_ca._
+with the [[Gainsborough]] Independents to Amsterdam. With Thomas Helwys (_ca._
 1560-_ca._ 1616) and Morton he joined the "Ancient" church there, but,
 coming under Mennonite teaching in 1609, he separated from the
 Independents, baptized himself (hence he is called the "Se-baptist"),
@@ -229,7 +229,7 @@ persons, are not according to Christ's testament. That baptism or washing
 with water is the outward manifestation of dying unto sin and walking in
 newness of life; and therefore in no wise appertaineth to infants." They
 held "that no church ought to challenge any prerogative over any other";
-and that "the magistrate is not to meddle with religion, or matters of
+and that "the [[Magistrate|magistrate]] is not to meddle with religion, or matters of
 conscience nor compel men to this or that form of religion." This is the
 first known expression of absolute liberty of conscience in any confession
 of faith.
@@ -249,10 +249,10 @@ member of this church.
 The next great event in the history of the Baptists (though it should be
 mentioned that the last execution for heresy in England by burning was that
 of a Baptist, Edward Wightman, at Lichfield 1612) is the rise of the first
-Calvinistic or Particular Baptist Church. This was the Jacob church in
+Calvinistic or Particular Baptist Church. This was the [[Jacob]] church in
 Southwark, which numbered among its members John Lothropp or Lathrop (d.
 1653), Praise-God Barbon (_ca._ 1596-1679), Henry Jessey (1601-1663),
-Hanserd Knollys (_ca._ 1599-1691) and William Kiffin (1616-1701). It was
+Hanserd [[Knollys]] (_ca._ 1599-1691) and William Kiffin (1616-1701). It was
 originally Independent but then became Baptist. From this six other
 churches sprang, five of which were Baptist. Before the Jacob church,
 however, had itself become Baptist, it dismissed from its membership a
@@ -275,7 +275,7 @@ London, now grown to seven, "commonly (though falsely) called Anabaptist."
 
 The article on baptism is as follows:--"That baptism is an ordinance of the
 New Testament given by Christ to be dispensed only upon persons professing
-faith, or that are disciples, or taught, who, upon a profession of faith,
+faith, or that are [[Disciple|disciples]], or taught, who, upon a profession of faith,
 ought to be baptized." "The way and manner of dispensing this ordinance the
 Scripture holds out to be dipping or plunging the whole body under water."
 They further declare (particularly in order that they may avoid the charge
@@ -303,7 +303,7 @@ Lord." The "breathing time" was not of long continuance. Soon after the
 Restoration (1660) the meetings of nonconformists were continually
 disturbed and preachers were fined or imprisoned. One instance of these
 persecutions will, perhaps, be more impressive than any general statements.
-In the records of the Broadmead Baptist Church, Bristol, we find this
+In the records of the Broadmead Baptist Church, [[Bristol]], we find this
 remark: "On the 29th of November 1685 our pastor, Brother Fownes, died in
 Gloucester jail, having been kept there for two years and about nine months
 a prisoner, unjustly and maliciously, for the testimony of Jesus and
@@ -395,7 +395,7 @@ comprises 730 church members and 72 pastors and workers.
 The Baptists early felt the necessity of providing an educated ministry for
 their congregations. Some of their leading pastors had been educated in one
 or other of the English universities. Others had by their own efforts
-obtained a large amount of learning, amongst whom Dr John Gill was eminent
+obtained a large amount of learning, amongst whom Dr John [[Gill]] was eminent
 for his knowledge of Hebrew, as shown in his _Exposition of the Holy
 Scriptures_, a work in 9 vols. folio, 1746-1766. Edward Terrill, who died
 in 1685, left a considerable part of his estate for the instruction of
@@ -406,18 +406,18 @@ year 1720 the Baptist Academy, as it was then called, received young men as
 students for the ministry among the Baptists. In 1770 the Bristol Education
 Society was formed to enlarge this academy; and about the year 1811 the
 present Bristol Baptist College was erected. In the north of England a
-similar education society was formed in 1804 at Bradford, Yorkshire, which
-has since been removed to Rawdon, near Leeds. In London another college was
+similar education society was formed in 1804 at [[Bradford]], Yorkshire, which
+has since been removed to Rawdon, near [[Leeds]]. In London another college was
 formed in 1810 at Stepney; it was removed to Regent's Park in 1856. The
 Pastors' College in connexion with the Metropolitan Tabernacle was
 instituted in 1856, and in 1866 the present Baptist College at Manchester
-was instituted at Bury in the interests of the "Strict" Baptist views.
+was instituted at [[Bury]] in the interests of the "Strict" Baptist views.
 Besides these, which were voluntary colleges not under denominational
 control, the General Baptists maintained a college since 1797, which, since
 the amalgamation of the two Baptist bodies, has become also a voluntary
 institution, though previously supported by the General Baptist
 Association. It is called the "Midland Baptist College," and is situated in
-Nottingham. There is also a Baptist theological college in Glasgow, and
+Nottingham. There is also a Baptist theological college in [[Glasgow]], and
 there are two colleges in Wales and one in Ireland. The total number of
 students in these institutions is about 210.
 
@@ -449,7 +449,7 @@ separate church. This is the distinctive peculiarity of those churches in
 Scotland and the north of England which are known as _Scotch Baptists_. The
 largest church of this section, consisting of approximately 500 members,
 originated in Edinburgh in 1765, before which date only one Baptist
-church--that of Keiss in Caithness, formed about 1750--appears to have
+church--that of Keiss in [[Caithness]], formed about 1750--appears to have
 existed in Scotland. The greater number of the churches are united in
 association voluntarily formed, all of them determined by geographical
 limits. The associations, as well as the churches not in connexion with
@@ -485,7 +485,7 @@ began without missionary intervention from England or America. J. G. Oncken
 (1800-1884) formed the first church in Hamburg in 1834, and thereafter
 Baptist churches were formed in other countries as follows:--Denmark
 (1839), Holland and Sweden (1848), Switzerland (1849), Norway (1860),
-Austria and Rumania (1869), Hungary (1871), and Bulgaria (1884). Baptist
+Austria and Rumania (1869), Hungary (1871), and [[Bulgaria]] (1884). Baptist
 churches also began to be formed in Russia and Finland in the 'fifties and
 'sixties.
 
@@ -499,7 +499,7 @@ Society, having its seat in London.
 _The Baptist World Alliance_ was formed in 1905, when the first Baptist
 World Congress was held in London. The preamble of the constitution of this
 Alliance sufficiently indicates its nature: "Whereas, in the providence of
-God, the time has come when it seems fitting more fully to manifest the
+God, the time has come when it seems fitting more fully to [[Manifest|manifest]] the
 essential oneness in the Lord Jesus Christ, as their God and Saviour, of
 the churches of the Baptist order and faith throughout the world, and to
 promote the spirit of fellowship, service and co-operation among them,
@@ -513,7 +513,7 @@ seen from the following statistics:--
   United States--
     National Baptist Convention    16,996    2,110,269
     Southern Baptist Convention    20,431    1,832,638
-    "Disciples of Christ"          11,157    1,235,798
+    "[[Disciples Of Christ|Disciples of Christ]]"          11,157    1,235,798
     Thirty-five Northern States     8,894      986,821
     Fourteen other Bodies           7,921      414,775
   Australasia                         270       23,253
@@ -556,7 +556,7 @@ LITERATURE.--Thomas Crosby, _The History of the English Baptists_ (4 vols.
 London, 1738-1740); D. Masson, _Life of John Milton in Connexion with the
 History of his Time_ (6 vols. 1859-1880, new ed. 1881, &c.); B. Evans, _The
 Early English Baptists_, i. ii. (1862-1864); H. C. Vedder, _A Short History
-of the Baptists_ (London, 1897); A. H. Newman, _A Manual of Church History_
+of the Baptists_ (London, 1897); A. H. Newman, _A [[Manual]] of Church History_
 (Philadelphia, 1900-1903); R. Heath, _Anabaptism_ (1895); C. Williams, _The
 Principles and Practices of the Baptists_ (1903); E. C. Pike, _The Story of
 the Anabaptists_ (1904); J. H. Shakespeare, _Baptist and Congregational
@@ -572,16 +572,16 @@ that founded in the Providence settlement on Narragansett Bay under the
 leadership of Roger Williams (_q.v._). Having been sentenced to banishment
 (October 1635) by the Massachusetts Court because of his persistence in
 advocating separatistic views deemed unsettling and dangerous, to escape
-deportation to England he betook himself (January 1636) to the wilderness,
+[[Deportation|deportation]] to England he betook himself (January 1636) to the wilderness,
 where he was hospitably entertained by the natives who gave him a tract of
 land for a settlement. Having been joined by a few friends from
-Massachusetts, Williams founded a commonwealth in which absolute religious
+Massachusetts, Williams founded a [[Commonwealth|commonwealth]] in which absolute religious
 liberty was combined with civil democracy. In the firm conviction that
 churches of Christ should be made up exclusively of regenerate members, the
 baptism of infants appeared to him not only valueless but a perversion of a
 Christian ordinance. About March 1639, with eleven others, he decided to
 restore believers' baptism and to form a church of baptized believers.
-Ezekiel Holliman, who had been with him at Plymouth and shared his
+[[Ezekiel]] Holliman, who had been with him at Plymouth and shared his
 separatist views, first baptized Williams and Williams baptized the rest of
 the company. Williams did not long continue to find satisfaction in the
 step he had taken. Believing that the ordinances and apostolic church
@@ -594,17 +594,17 @@ writings he expressed the conviction that their practice came nearer than
 that of other communities to the first practice of Christ.
 
 In November 1637 John Clarke (1609-1676), a physician, of religious zeal
-and theological acumen, arrived at Boston, where, instead of the religious
+and theological acumen, arrived at [[Boston]], where, instead of the religious
 freedom he was seeking, he found the dominant party in the Antinomian
 controversy on the point of banishing the Antinomian minority, including
 Mrs Anne Hutchinson (_q.v._) and her family, John Wheelwright (_c._
 1592-1679), and William Coddington (1601-1678). Whether from sympathy with
-the persecuted or aversion to the persecutors, he cast in his lot with the
+the persecuted or aversion to the persecutors, he cast in his [[Lot|lot]] with the
 former and after two unsuccessful attempts at settlement assisted the
 fugitives in forming a colony on the island of Aquidnek (Rhode Island),
 procured from the Indians through the good offices of Williams. By 1641
 there were, according to John Winthrop, "professed Anabaptists" on the
-island, and Clarke was probably their leader. Robert Lenthall, who joined
+island, and Clarke was probably their leader. Robert [[Lenthall]], who joined
 the Newport company in 1640 when driven from Massachusetts, probably
 brought with him antipaedobaptist convictions. Mrs Scott, sister of Mrs
 Hutchinson, is thought to have been an aggressive antipaedobaptist when the
@@ -642,7 +642,7 @@ refusing to participate quietly in the public service they were fined,
 imprisoned and otherwise maltreated. While in England on public business in
 1652, Clarke published _Ill News from New England_, which contained an
 impressive account of the proceedings against himself and his brethren at
-Lynn, and an earnest and well-reasoned plea for liberty of conscience.
+Lynn, and an [[Earnest|earnest]] and well-reasoned plea for liberty of conscience.
 
 Henry Dunster (1612-1659), the first president of the college at Cambridge
 (Harvard), had by 1653 become convinced that "visible believers only should
@@ -663,7 +663,7 @@ with President Dunster and to have shared his antipaedobaptist views as
 early as 1654. Some time before 1665 several English Baptists had settled
 in the neighbourhood of Boston and several others had adopted Baptist
 views. These, with Gould, were baptized (May 1665) and joined with those
-who had been baptized in England in a church covenant. The church was
+who had been baptized in England in a church [[Covenant|covenant]]. The church was
 severely persecuted, the members being frequently imprisoned and fined and
 denied the use of a building they had erected as a meeting-house. Long
 after the Act of Toleration (1689) was in full force in England, the Boston
@@ -680,7 +680,7 @@ Boston church, gathered and organized, With the co-operation of the mother
 church, a small congregation at Kittery, Me. Persecution led to migration,
 Screven and some of the members making their way to South Carolina, where,
 with a number of English Baptists of wealth and position, what became the
-First Baptist church in Charleston, was organized (about 1684). This became
+First Baptist church in [[Charleston]], was organized (about 1684). This became
 one of the most important of early Baptist centres, and through Screven's
 efforts Baptist principles became widely disseminated throughout that
 region. The withdrawal of members to form other churches in the
@@ -696,8 +696,8 @@ From 1643 onward antipaedobaptists from New England and elsewhere had
 settled in the New Netherlands (New York). Lady Deborah Moody left
 Massachusetts for the New Netherlands in 1643 because of her
 antipaedobaptist views and on her way stopped at New Haven, where she won
-to her principles Mrs Eaton, the wife of the governor, Theophilus Eaton.
-She settled at Gravesend (now part of Brooklyn) having received from the
+to her principles Mrs [[Eaton]], the wife of the governor, Theophilus Eaton.
+She settled at [[Gravesend]] (now part of Brooklyn) having received from the
 Dutch authorities a guarantee of religious liberty. Francis Doughty, an
 English Baptist, who had spent some time in Rhode Island, laboured in this
 region in 1656 and baptized a number of converts. This latter proceeding
@@ -705,7 +705,7 @@ led to his banishment. Later in the same year William Wickenden of
 Providence evangelized and administered the ordinances at Flushing, but was
 heavily fined and banished. From 1711 onward Valentine Wightman (1681-1747)
 of Connecticut (General Baptist) made occasional missionary visits to New
-York at the invitation of Nicolas Eyres, a business man who had adopted
+York at the invitation of Nicolas [[Eyre|Eyres]], a business man who had adopted
 Baptist views, and in 1714 baptized Eyres and several others, and assisted
 them in organizing a church. The church was well-nigh wrecked (1730) by
 debt incurred in the erection of a meeting-house. A number of Baptists
@@ -732,7 +732,7 @@ suitable ministers and to silence unworthy ones, and in maintaining sound
 doctrine. Sabbatarianism appeared within the bounds of the association at
 an early date and Seventh-day Baptist churches were formed (1705 onward).
 
-The decades preceding the "Great Awakening" of 1740-1743 were a time of
+The decades preceding the "[[Great Awakening]]" of 1740-1743 were a time of
 religious declension. A Socinianized Arminianism had paralysed evangelistic
 effort. The First Church, Providence, had long since become Arminian and
 held aloof from the evangelism of Edwards, Whitefield and their coadjutors.
@@ -768,9 +768,9 @@ mixed churches had their manifest disadvantages and separation ultimately
 ensued.
 
 Among the Baptist leaders gained from Congregationalism as a result of the
-awakening was Isaac Backus (1724-1806), who became the New England champion
+awakening was [[Isaac]] Backus (1724-1806), who became the New England [[Champion|champion]]
 in the cause of religious liberty and equality, and the historian of his
-denomination. To Daniel Marshall (d. 1784) and Shubael Stearns, "New Light"
+denomination. To [[Daniel]] [[Marshall]] (d. 1784) and Shubael Stearns, "New Light"
 evangelists who became Baptists, the spread of Baptist principles and the
 multiplication of Baptist churches throughout the southern colonies were in
 great measure due. The feeble Baptist cause in Virginia and North Carolina
@@ -786,20 +786,20 @@ alive to the evils of state control in religious matters to be willing to
 take out licences for their meetings, and soon came into sharp conflict
 with the authorities. Stearns was an evangelist of great power. With
 Marshall, his brother-in-law, and about a dozen fellow-believers he settled
-at Sandy Creek, North Carolina, and in a few years had built up a church
+at Sandy [[Creek]], North Carolina, and in a few years had built up a church
 with a membership of more than six hundred. Marshall afterward organized
 and ministered to a church at Abbott's Creek about 30 m. distant. From
 these centres "Separate" Baptist influence spread throughout North and
 South Carolina and across the Georgia border, Marshall himself finally
 settling and forming a church at Kiokee, Georgia. From North Carolina as a
 centre "Separate" Baptist influence permeated Virginia and extended into
-Kentucky and Tennessee. The Sandy Creek Association came to embrace
+[[Kentucky]] and Tennessee. The Sandy Creek Association came to embrace
 churches in several colonies, and Stearns, desirous of preserving the
 harmonious working of the churches that recognized his leadership, resisted
 with vehemence all proposals for the formation of other associations.
 
 From 1760 to 1770 the growth of the "Separate" Baptist body in Virginia and
-the Carolinas was phenomenal. Evangelists like Samuel Harris
+the Carolinas was phenomenal. Evangelists like Samuel [[Harris]]
 (1724-_c._1794) and John Waller (1741-1802) stirred whole communities and
 established Baptist churches where the Baptist name had hitherto been
 unknown. The Sandy Creek Association, with Stearns as leader, undertook to
@@ -837,8 +837,8 @@ Virginia Baptists were among the foremost advocates of American
 independence, while the Episcopal clergy were loyalists and had made
 themselves obnoxious to the people by using the authority of Great Britain
 in extorting their tithes from unwilling parishioners, and that they
-secured the co-operation of free-thinking statesmen like Thomas Jefferson
-and James Madison and, in most measures, that of the Presbyterians.
+secured the co-operation of free-thinking statesmen like Thomas [[Jefferson]]
+and James [[Madison]] and, in most measures, that of the Presbyterians.
 
 The Baptist cause in New England that had profited so largely from the
 Great Awakening failed to reap a like harvest from the War of Independence.
@@ -874,12 +874,12 @@ and Smith on the model of the Philadelphia, and became a chief agency for
 the consolidation of denominational life, the promotion of denominational
 education and the securing of religious liberty. Hezekiah Smith was a
 highly successful evangelist, and through his labours scores of churches
-were constituted in New England. As chaplain in the American Revolutionary
+were constituted in New England. As [[Chaplain|chaplain]] in the American Revolutionary
 Army he also exerted a widespread influence.
 
 The First Church, Charleston, which had become almost extinct through
 Arminianism in 1746, entered upon a career of remarkable prosperity in 1749
-under the leadership of Oliver Hart (1723-1795), formerly of the
+under the leadership of Oliver [[Hart]] (1723-1795), formerly of the
 Philadelphia Association. In 1751 the Charleston Association was formed,
 also on the model of the Philadelphia, and proved an element of
 denominational strength. The association raised funds for domestic
@@ -909,8 +909,8 @@ _Foreign Missions_.--Baptists in Boston and vicinity, Philadelphia and
 Charleston, and a few other communities had from the beginning of the 19th
 century taken a deep interest in the missionary work of William Carey, the
 English missionary, and his coadjutors in India, and had contributed
-liberally to its support. The conversion to Baptist views of Adoniram
-Judson (_q.v._) and Luther Rice (1812), who had just been sent, with
+liberally to its support. The [[Conversion|conversion]] to Baptist views of Adoniram
+[[Judson]] (_q.v._) and Luther Rice (1812), who had just been sent, with
 others, by the newly-formed American Board of Commissioners for Foreign
 Missions to open up missionary work in India, marks an epoch in American
 Baptist history. Judson appealed to his American brethren to support him in
@@ -951,7 +951,7 @@ missionaries, &c. So virulent became the opposition that in several states,
 as Tennessee and Kentucky, the work of the Convention was for years
 excluded, and a large majority in each association refused to receive into
 their fellowship those who advocated or contributed to its objects.
-Hyper-Calvinism, ignorance and avarice cooperated in making the very name
+Hyper-Calvinism, [[Ignorance|ignorance]] and avarice cooperated in making the very name
 "missions" odious, ministerial education an impertinent human effort to
 supplant a spirit-called and spirit-endowed ministry, Sunday-schools and
 prayer-meetings as human institutions, the aim of which was to interfere
@@ -1009,7 +1009,7 @@ their Convention, their Home and Foreign Mission Boards, an Education Board
 and a Publication Board, and with McMaster University (Arts, Theological
 and [v.03 p.0378] Academic departments) as its educational institution;
 those of Manitoba and the North-west, with Brandon College as its
-educational institution; and those of British Columbia. Canadian Baptists
+educational institution; and those of British [[Columbia]]. Canadian Baptists
 numbered 120,000 in 1909, and are considered in the above general
 estimates.
 

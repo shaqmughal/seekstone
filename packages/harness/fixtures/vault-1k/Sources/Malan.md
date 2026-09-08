@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Malan"
 
 MALAN, SOLOMON CAESAR (1812-1894), British divine and orientalist, was
 by birth a Swiss descended from an exiled French family, and was born at
-Geneva on the 22nd of April 1812, where his father, Dr Henry Abraham
+[[Geneva]] on the 22nd of April 1812, where his father, Dr Henry Abraham
 Caesar Malan (1787-1864) enjoyed a great reputation as a Protestant
 divine. From his earliest youth he manifested a remarkable faculty for
 the study of languages, and when he came to Scotland as tutor in the
@@ -22,7 +22,7 @@ than in English. But his request was not granted. After gaining the
 Boden and the Pusey and Ellerton scholarships, he graduated 2nd class in
 _Lit. hum._ in 1837. He then proceeded to India as classical lecturer at
 Bishop's College, Calcutta, to which post he added the duties of
-secretary to the Bengal branch of the Royal Asiatic Society; and
+secretary to the [[Bengal]] branch of the Royal Asiatic Society; and
 although compelled by illness to return in 1840, laid the foundation of
 a knowledge of Tibetan and Chinese. After serving various curacies, he
 was presented in 1845 to the living of Broadwindsor, Dorset, which he
@@ -49,7 +49,7 @@ written by his son.
 
 
 MÄLAR, a lake of Sweden, extending 73 m. westward from Stockholm, which
-lies at its junction with the Saltsjö, an arm of the Baltic Sea. The
+lies at its junction with the Saltsjö, an arm of the [[Baltic Sea]]. The
 height of the lake is normally only from 11 in. to 2 ft. above
 sea-level, and its outflow is sometimes reversed. The area is 449 sq. m.
 The bottom consists of a series of basins separate by ridges from which

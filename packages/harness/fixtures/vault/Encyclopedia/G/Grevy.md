@@ -1,11 +1,11 @@
 # Grevy
 
 GREVY, FRANCOIS PAUL JULES (1813-1891). President of the French
-Republic, was born at Mont-sous-Vaudrey in the Jura, on the 15th of
+Republic, was born at Mont-sous-Vaudrey in the [[Jura]], on the 15th of
 August 1813. He became an advocate in 1837, and, having steadily
 maintained republican principles under the Orleans monarchy, was elected
 by his native department to the Constituent Assembly of 1848. Foreseeing
-that Louis Bonaparte would be elected president by the people, he
+that Louis [[Bonaparte]] would be elected president by the people, he
 proposed to vest the chief authority in a president of the Council
 elected and removable by the Assembly, or in other words, to suppress
 the Presidency of the Republic. After the _coup d'etat_ this proposition
@@ -24,7 +24,7 @@ _History_). Quiet, shrewd, attentive to the public interest and his own,
 but without any particular distinction, he would have left an
 unblemished reputation if he had not unfortunately accepted a second
 term (18th December 1885). Shortly afterwards the traffic of his
-son-in-law (Daniel Wilson) in the decorations of the Legion of Honour
+son-in-law ([[Daniel]] Wilson) in the decorations of the [[Legion]] of Honour
 came to light. Grevy was not accused of personal participation in these
 scandals, but he was somewhat obstinate in refusing to realize that he
 was responsible indirectly for the use which his relative had made of

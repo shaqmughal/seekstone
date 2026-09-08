@@ -8,7 +8,7 @@ tags: [history]
 # Day
 
 DAY (O. Eng. _daeg_, Ger. _Tag_; according to the _New English
-Dictionary_, "in no way related to the Lat. _dies_"), in astronomy, the
+Dictionary_, "in no way related to the Lat. _dies_"), in [[Astronomy|astronomy]], the
 interval of time in which a revolution of the earth on its axis is
 performed. Days are distinguished as solar, sidereal or lunar, according
 as the revolution is taken relatively to the sun, the stars or the moon.
@@ -31,7 +31,7 @@ astronomical ephemerides, formed a decisive argument against any change.
 The question of a possible variability in the length of the day is one
 of fundamental importance. One necessary effect of the tidal retardation
 of the earth's rotation is gradually to increase this length. It is
-remarkable that the discussion of ancient eclipses of the moon, and
+remarkable that the discussion of ancient [[Eclipse|eclipses]] of the moon, and
 their comparison with modern observations, show only a small and rather
 doubtful change, amounting perhaps to less than one-hundredth of a
 second per century. As this amount seems to be markedly less than that
@@ -65,11 +65,11 @@ word "day" may be understood in some special sense. In bills of lading
 and charter parties, when "days" or "running days" are spoken of without
 qualification, they usually mean consecutive days, and Sundays and
 holidays are counted, but when there is some qualification, as where a
-charter party required a cargo "to be discharged in fourteen days,"
+charter party required a [[Cargo|cargo]] "to be discharged in fourteen days,"
 "days" will mean _working days_. Working days, again, vary in different
 ports, and the custom of the port will decide in each case what are
 working days. In English charter parties, unless the contrary is
-expressed, Christmas day and other recognized holidays are included as
+expressed, [[Christmas]] day and other recognized holidays are included as
 working days. A _weather working day_, a term sometimes used in charter
 parties, means a day when work is not prevented by the weather, and
 unless so provided for, a day on which work was rendered impossible by
@@ -78,7 +78,7 @@ are days given to the charterer in a charter party either to load or
 unload without paying for the use of the ship, are days of the week, not
 periods of twenty-four hours.
 
-_Days of Grace._--When a bill of exchange is not payable at sight or on
+_Days of [[Grace]]._--When a bill of [[Exchange|exchange]] is not payable at sight or on
 demand, certain days (called days of grace, from being originally a
 gratuitous favour) are added to the time of payment as fixed by the
 bill, and the bill is then due and payable on the last day of grace. In
@@ -91,14 +91,14 @@ bank holiday (other than Christmas day or Good Friday), or when the last
 day of grace is a Sunday, and the second day of grace is a bank holiday,
 the bill is due and payable on the succeeding business day. Days of
 grace (_dies non_) are in existence practically among English-speaking
-peoples only. They were abolished by the French Code (Code de Commerce,
+peoples only. They were abolished by the French [[Code]] (Code de Commerce,
 Liv. i. tit. 8, art. 135), and by most, if not all, of the European
 codes since framed.
 
 _Civil Days._--An artificial or civil day is, to a certain extent,
 difficult to define; it "may be regarded as a convenient term to signify
 all the various kinds of 'day' known in legal proceedings other than the
-natural day." (_Ency. English Law_, tit. "Day"). The Jews, Chaldeans and
+natural day." (_Ency. [[English Law]]_, tit. "Day"). The Jews, Chaldeans and
 Babylonians began the day at the rising of the sun; the Athenians at the
 fall; the Umbri in Italy began at midday; the Egyptians and Romans at
 midnight; and in England, the United States and most of the countries of
@@ -107,7 +107,7 @@ soon as the clock begins to strike 12 P.M. of the preceding day.
 
 In England the period of the civil day may also vary under different
 statutes. In criminal law the day formerly commenced at sunrise and
-extended to sunset, but by the Larceny Act 1861 the day is that period
+extended to sunset, but by the [[Larceny]] Act 1861 the day is that period
 between six in the morning and nine in the evening. The same period of
 time comprises a day under the Housing of the Working Classes Act 1885
 and the Public Health (London) Act 1891, but under the Public Health
@@ -135,7 +135,7 @@ required to be personal, it means before six o'clock on any week-day
 except Saturday, and before 2 P.M. on Saturday.
 
 _Closed Days_, i.e. Sunday, Christmas day and Good Friday, are excluded
-from all fixtures of time less than six days: otherwise they are
+from all [[Fixtures|fixtures]] of time less than six days: otherwise they are
 included, unless the last day of the time fixed falls on one of those
 days (R.S.C., O. lxiv.).
 

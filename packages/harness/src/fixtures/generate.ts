@@ -1,5 +1,6 @@
 import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
+import { buildLinkifier } from './linkify.js';
 import type { Article } from './parse-volume.js';
 import { Rng, zipfCdf, zipfPick } from './prng.js';
 import { buildTagVocab } from './tags.js';
@@ -22,7 +23,12 @@ export interface GenerateResult {
   mocNotes: number;
   systemNotes: number;
   attachments: number;
+  /** Planted random wikilinks (See-also / daily / MOC) — the noise floor. */
   wikilinks: number;
+  /** Prose cross-links derived from headword mentions (SHA-322) — the signal. */
+  proseWikilinks: number;
+  /** Titles the linkifier's document-frequency filter refused to link. */
+  dfExcludedTitles: number;
   unresolvedTargets: number;
   externalUrls: number;
   notesWithFrontmatter: number;
@@ -106,6 +112,12 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
   // accrue many inbound links (matching the real most-linked-notes tail).
   const titleCdf = zipfCdf(usedTitles.length);
 
+  // Prose cross-linker (SHA-322): deterministic, PRNG-free, built from the
+  // sampled article set itself — see linkify.ts for the precision rules.
+  const linkifier = buildLinkifier(
+    used.map((a) => ({ title: a.title, noteBasename: fileSafe(a.title), body: a.body })),
+  );
+
   const result: GenerateResult = {
     notes: 0,
     articleNotes: 0,
@@ -114,6 +126,8 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     systemNotes: 0,
     attachments: 0,
     wikilinks: 0,
+    proseWikilinks: 0,
+    dfExcludedTitles: linkifier.stats().dfExcludedTitles,
     unresolvedTargets: 0,
     externalUrls: 0,
     notesWithFrontmatter: 0,
@@ -179,7 +193,9 @@ export function generateVault(opts: GenerateOptions): GenerateResult {
     }
 
     parts.push(`# ${article.title}`, '');
-    parts.push(article.body, '');
+    const linked = linkifier.linkify(article.title, article.body);
+    result.proseWikilinks += linked.links.length;
+    parts.push(linked.body, '');
 
     // Planted wikilinks (a "See also" block).
     const links = linkCount(rng);

@@ -9,9 +9,9 @@ topic: heraldry
 JENNET, a small Spanish horse; the word is sometimes applied in English
 to a mule, the offspring of a she-ass and a stallion. Jennet comes,
 through Fr. _genet_, from Span, _jinete_, a light horseman who rides _à
-la gineta_, explained as "with his legs tucked up." The name is taken to
-be a corruption of the Arabic Zenata, a Berber tribe famed for its
-cavalry. English and French transferred the word from the rider to his
+la gineta_, explained as "with his [[Leg|legs]] tucked up." The name is taken to
+be a corruption of the Arabic Zenata, a [[Berber]] tribe famed for its
+[[Cavalry|cavalry]]. English and French transferred the word from the rider to his
 horse, a meaning which the word has only acquired in Spain in modern
 times.
 

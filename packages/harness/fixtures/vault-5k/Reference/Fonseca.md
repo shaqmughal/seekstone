@@ -20,7 +20,7 @@ insubordination, the minister of war, Alfredo Chaves, dismissed him from
 office. On 14th of May 1887, in conjunction with the viscount de
 Pelotas, Fonseca issued a manifesto in defence of the military officers'
 political rights. From that time his influence was supreme in the army.
-In December 1888, when the Conservative Correa d'Oliveira became prime
+In December 1888, when the Conservative [[Correa]] d'Oliveira became prime
 minister, Fonseca was appointed to command an army corps on the frontier
 of Matto Grosso. In June 1889 the ministry was overthrown, and on a
 dissolution an overwhelming Liberal majority was returned to the chamber
@@ -41,7 +41,7 @@ the army and navy in the name of the nation, with Fonseca at its head.
 The council was abolished, and both the senate and the chamber of
 deputies were dissolved. The emperor was requested to leave the
 territory of Brazil within twenty-four hours, and on the 17th of
-November was embarked on a cruiser for Lisbon. On the 20th of December a
+November was embarked on a cruiser for [[Lisbon]]. On the 20th of December a
 decree of banishment was pronounced against the imperial family. So
 universal was the republican sentiment that there was no attempt at
 armed resistance. The provisional government exercised dictatorial

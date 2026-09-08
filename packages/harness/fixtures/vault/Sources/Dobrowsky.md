@@ -13,7 +13,7 @@ DOBROWSKY, JOSEPH (1753-1829), Hungarian philologist, was born of
 Bohemian parentage at Gjermet, near Raab, in Hungary. He received his
 first education in the German school at Bischofteinitz, made his first
 acquaintance with Bohemian at the Deutschbrod gymnasium, studied for
-some time under the Jesuits at Klattau, and then proceeded to the
+some time under the [[Jesuits]] at Klattau, and then proceeded to the
 university of Prague. In 1772 he was admitted among the Jesuits at
 Brünn; but on the dissolution of the order in 1773 he returned to Prague
 to study theology. After holding for some time the office of tutor in
@@ -22,10 +22,10 @@ vice-rector, and then as rector, in the general seminary at Hradisch;
 but in 1790 he lost his post through the abolition of the seminaries
 throughout Austria, and returned as a guest to the house of the count.
 In 1792 he was commissioned by the Bohemian Academy of Sciences to visit
-Stockholm, Abo, Petersburg and Moscow in search of the manuscripts which
+Stockholm, Abo, Petersburg and Moscow in search of the [[Manuscript|manuscripts]] which
 had been scattered by the Thirty Years' War; and on his return he
 accompanied Count Nostitz to Switzerland and Italy. His reason began to
-give way in 1795, and in 1801 he had to be confined in a lunatic asylum;
+give way in 1795, and in 1801 he had to be confined in a lunatic [[Asylum|asylum]];
 but by 1803 he had completely recovered. The rest of his life was mainly
 spent either in Prague or at the country seats of his friends Counts
 Nostitz and Czernin; but his death took place at Brünn, whither he had

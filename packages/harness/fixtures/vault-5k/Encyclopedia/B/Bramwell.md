@@ -27,10 +27,10 @@ of Scotland and England and the law of partnership, which had as its
 result the Companies Act of 1862. It was he who, during the sitting of
 this commission, suggested the addition of the word "limited" to the
 title of companies that sought to limit their liability, in order to
-prevent the obvious danger to persons trading with them in ignorance of
+prevent the obvious danger to persons trading with them in [[Ignorance|ignorance]] of
 their limitation of liability. As a queen's counsel Bramwell enjoyed a
 large and steadily increasing practice, and in 1856 he was raised to the
-bench as a baron of the court of exchequer. In 1867, with Mr Justice
+[[Bench|bench]] as a baron of the court of exchequer. In 1867, with Mr Justice
 Blackburn and Sir John Coleridge, he was made a member of the judicature
 commission. In 1871 he was one of the three judges who refused the seat
 on the judicial committee of the privy council to which Sir Robert
@@ -47,7 +47,7 @@ prius_, but the same combination of sound law, strong common sense and
 clear expression characterized his judgments. His decisions during the
 three stages of his practical career are too numerous to be referred to
 particularly, although _Ryder_ v. _Wombwell_ (L.R. 3 Ex. 95); _R._ v.
-_Bradshaw_ (14 Cox C.C. 84); _Household Fire Insurance Company_ v.
+_Bradshaw_ (14 [[Cox]] C.C. 84); _Household Fire Insurance Company_ v.
 _Grant_ (4 Ex. Div. 216); _Stonor_ v. _Fowle_ (13 App. Cas. 20), _The
 Bank of England_ v. _Vagliano Brothers_ (App. Cas. 1891) are good
 examples. Upon his retirement, announced in the long vacation of 1881,

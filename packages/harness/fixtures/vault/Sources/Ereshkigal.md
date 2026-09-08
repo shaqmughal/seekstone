@@ -17,7 +17,7 @@ to reconcile the existence of two rulers of Irkalla--a goddess and a
 god.
 
 It is evident that it was originally a goddess who was supposed to be in
-control of Irkalla, corresponding to Ishtar in control of fertility and
+control of Irkalla, corresponding to [[Ishtar]] in control of fertility and
 vegetation on earth. Ereshkigal is therefore the sister of Ishtar and
 from one point of view her counterpart, the symbol of nature during the
 non-productive season of the year. As the doctrine of two kingdoms, one

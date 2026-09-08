@@ -11,7 +11,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Dierx"
 DIERX, LÉON (1838-   ), French poet, was born in the island of Réunion
 in 1838. He came to Paris to study at the Central School of Arts and
 Manufactures, and subsequently settled there, taking up a post in the
-education office. He became a disciple of Leconte de Lisle and one of
+education office. He became a [[Disciple|disciple]] of Leconte de Lisle and one of
 the most distinguished of the Parnassians. In the death of Stéphane
 Mallarmé in 1898 he was acclaimed "prince of poets" by "les jeunes." His
 works include: _Poèmes et poésies_ (1864); _Lèvres closes_ (1867);

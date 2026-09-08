@@ -8,10 +8,10 @@ type: note
 # Behar
 
 BEHAR, or BIHAR, a town of British India, in the Patna district of
-Bengal, which gives its name to an old province, situated on the right
+[[Bengal]], which gives its name to an old province, situated on the right
 bank of the river Panchana. Pop. (1901) 45,063. There are still some
 manufactures of silk and muslin, but trade has deserted Behar in favour
-of Patna and other places more favourably situated on the river Ganges
+of Patna and other places more favourably situated on the river [[Ganges]]
 and the railway, while the indigo industry has been ruined by the
 synthetic products of the German chemist, and the English colony of
 indigo planters has been scattered abroad.
@@ -23,22 +23,22 @@ of 44,197 sq. m. and a population of 24,241,305. It is the most densely
 populated tract in India, and therefore always liable to famine; but it
 is now well protected almost everywhere by railways. It is a country of
 large landholders and formerly of indigo planters. The vernacular
-language is not Bengali, but a dialect of Hindu; and the people likewise
+language is not [[Bengali]], but a dialect of Hindu; and the people likewise
 resemble those of Upper India. The general aspect of the country is
 flat, except in the district of Monghyr, where detached hills occur, and
 in the south-east of the province, where the Rajmahal and Santal ranges
 abut upon the plains.
 
 Behar abounds in great rivers, such as the Ganges, with its tributaries,
-the Ghagra, Gandak, Kusi, Mahananda and Sone. The Ganges enters the
-province near the town of Buxar, flows eastward and, passing the towns
-of Dinajpur, Patna, Monghyr and Colgong, leaves the province at
+the Ghagra, [[Gandak]], Kusi, Mahananda and Sone. The Ganges enters the
+province near the town of [[Buxar]], flows eastward and, passing the towns
+of [[Dinajpur]], Patna, Monghyr and Colgong, leaves the province at
 Rajmahal. It divides the province into two almost equal portions; north
 of the river lie the districts of Saran, Champaran, Tirhoot, Purnea, and
 part of Monghyr and Bhagalpur, and south of it are Shahabad, Patna,
 Gaya, the Santal parganas, and the rest of Monghyr and Bhagalpur. The
 Ganges and its northern tributaries are navigable by country boats of
-large burden all the year round. The cultivation of opium is a
+large [[Burden|burden]] all the year round. The cultivation of opium is a
 government monopoly, and no person is allowed to grow the poppy except
 on account of government. The Behar Opium Agency has its headquarters at
 the town of Patna. Annual engagements are entered into by the
@@ -75,21 +75,21 @@ whom anything is known was Bimbisara (c. 528 B.C.), who by conquests and
 matrimonial alliances laid the foundations of the greatness of the
 kingdom. It was in the reign of Bimbisara that Vardhamana Mahavira, the
 founder of Jainism, and Gautama, the founder of Buddhism, preached in
-Magadha, and Buddhist missionaries issued thence to the conversion of
+Magadha, and Buddhist missionaries issued thence to the [[Conversion|conversion]] of
 China, Ceylon, Tibet and Tatary. Even to this day Behar, where there are
 extensive remains of Buddhist buildings, remains a sacred spot in the
 eyes of the Chinese and other Buddhist nations.
 
 Bimbisara was murdered by his son Ajatasatru, who succeeded him, and
 whose bloodthirsty policy reduced the whole country between the
-Himalayas and the Ganges under the suzerainty of Magadha. According to
+[[Himalaya|Himalayas]] and the Ganges under the suzerainty of Magadha. According to
 tradition, it was his grandson, Udaya, who founded the city of
 Pataliputra (Patna) on the Ganges, which under the Maurya dynasty became
 the capital not only of Magadha but of India. The remaining history of
 the dynasty is obscure; according to Mr Vincent Smith, its last
 representative was Mahanandin (417 B.C.), after whose death the throne
 was usurped, under obscure circumstances, by Mahapadma Nanda, a man of
-low caste (_Early Hist. of India_, p. 36). It was a son of this usurper
+low [[Caste|caste]] (_Early Hist. of India_, p. 36). It was a son of this usurper
 who was reigning at the time of the invasion of Alexander the Great; and
 the conqueror, when his advance was arrested at the Hyphasis (326 B.C.),
 meditating an attack on Pataliputra (the Palimbothra of the Greeks), was
@@ -99,7 +99,7 @@ elephants. The Nanda dynasty seems to have survived only for two
 generations, when (321 B.C.) Chandragupta Maurya, the founder of the
 great Maurya dynasty, seized the throne. This dynasty, of which the
 history belongs to that of India (q.v.), occupied the throne for 137
-years. After the death of the great Buddhist king, Asoka (c. 231), the
+years. After the death of the great Buddhist king, [[Asoka]] (c. 231), the
 Maurya empire began to break up, and it was finally destroyed about
 fifty years later when Pushyamitra Sunga murdered the Maurya king
 Brihadratha and founded the Sunga dynasty. Descendants of Asoka
@@ -124,7 +124,7 @@ had made himself master in Bengal, and founded the imperial dynasty
 known as the Palas of Bengal. They were zealous Buddhists, and under
 their rule Magadha became once more an active centre of Buddhist
 influence. Gopala himself built a great monastery at Udandapura, or
-Otantapuri, which has been identified by Sir Alexander Cunningham with
+Otantapuri, which has been identified by Sir Alexander [[Cunningham]] with
 the city of Behar, where the later Pala kings established their capital.
 Under Mahipala (c. 1026), the ninth of his line, and his successor
 Nayapala, missionaries from Magadha succeeded in firmly re-establishing
@@ -139,7 +139,7 @@ were swept away by the Mahommedan conquerors, the city of Behar itself
 being captured by the Turki free-lance Mahommed-i-Bakhtyar Khilji in
 1193, by surprise, with a party of 200 horsemen. "It was discovered,"
 says a contemporary Arab historian, "that the whole of that fortress and
-city was a college, and in the Hindi tongue they call a college Bihar."
+city was a college, and in the [[Hindi]] tongue they call a college Bihar."
 Most of the monks were massacred in the first heat of the assault; those
 who survived fled to Tibet, Nepal and the south. Buddhism in Magadha
 never recovered from this blow; it lingered in obscurity for a while and
@@ -155,7 +155,7 @@ established under the Moguls at the city of Behar, which gave its name
 to the province. From the middle of the 14th to the middle of the 16th
 century a large part of Behar was ruled by a line of Brahman tributary
 kings; and in the 15th century another Hindu dynasty ruled in Champaran
-and Gorakhpur. Behar came into the possession of the East India Company
+and Gorakhpur. Behar came into the possession of the [[East India Company]]
 with the acquisition of the Diwani in 1765, when the province was united
 with Bengal. In 1857 two zemindars, Umar Singh and Kumar Singh, rebelled
 against the British government, and for some months held the ruinous
@@ -173,7 +173,7 @@ BEHA UD-DIN [ABU-L-MAHASIN YUSUF IBN RAFI' IBN SHADDAD BEHA UD DIN]
 became famous for his knowledge of the Koran and of jurisprudence.
 Before the age of thirty he became teacher in the great college at
 Bagdad known as the Nizamiyya, and soon after became professor at Mosul.
-In 1187, after making the pilgrimage to Mecca, he visited Damascus.
+In 1187, after making the pilgrimage to Mecca, he visited [[Damascus]].
 Saladin, who was at the time besieging Kaukab (a few miles south of
 Tiberias), sent for him and became his friend. Beha ud-Din observed that
 the whole soul of the monarch was engrossed by the war which he was then

@@ -35,7 +35,7 @@ appearance of stitching or broaching have consequently come to be termed
 "brocades." A Spanish document dated 1375 distinguishes between _los draps
 d'or e d'argent o de seda_ and _brocats d'or e d'argent_, a difference
 which is readily perceived, upon comparing for instance cloths of gold,
-Indian kincobs, with Lyons silks that are _broches_ with threads of gold,
+Indian kincobs, with [[Lyons]] silks that are _broches_ with threads of gold,
 silk or other material. Notwithstanding this, many Indian kincobs and
 dainty gold and coloured silk-weavings of Persian workmanship, both without
 floating threads, are often called brocades, although in neither is the
@@ -62,14 +62,14 @@ the 12th or 13th century manufacture, possibly by German or
 Rhenish-Byzantine weavers, or even by Spanish weavers, many of whom at
 Almeria, Malaga, Grenada and Seville rivalled those at Palermo. In the 14th
 century the making of satins heavily brocaded with gold threads was
-associated conspicuously with such Italian towns as Lucca, Genoa, Venice
+associated conspicuously with such Italian towns as [[Lucca]], Genoa, Venice
 and Florence. Fig. 4 is from a piece of 14th-century dark-blue satin
 broached in relief with gold thread in a design the like of which appears
-in the background of Orcagna's "Coronation of the Virgin," now in the
+in the background of Orcagna's "[[Coronation]] of the Virgin," now in the
 National Gallery, London. During the 17th century Genoa, Florence and Lyons
 vied with each other in making brocades in which the enrichments were as
 frequently of coloured silks as of gold intermixed with silken threads.
-Fig. 5 is from a piece of crimson silk damask flatly brocaded with flowers,
+Fig. 5 is from a piece of [[Crimson|crimson]] silk damask flatly brocaded with flowers,
 scroll forms, fruit and birds in gold. This is probably of Florentine
 workmanship. Rather more closely allied to modern brocades is the Lyons
 specimen given in fig. 6, in which the brocading is done not only with
@@ -83,10 +83,10 @@ Brocading in China seems to be of considerable antiquity, and Dr Bushell in
 his valuable handbook on Chinese art cites a notice of five rolls of
 brocade with dragons woven upon a crimson ground, presented by the emperor
 Ming Ti of the Wei dynasty, in the year A.D. 238, to the reigning empress
-of Japan; and varieties of brocade patterns are recorded as being in use
+of [[Japan]]; and varieties of brocade patterns are recorded as being in use
 during the Sung dynasty (960-1279). The first edition of an illustrated
 work upon tillage and weaving was published in China in 1210, and contains
-an engraving of a loom constructed to weave flowered-silk brocades such as
+an engraving of a [[Loom|loom]] constructed to weave flowered-silk brocades such as
 are woven at the present time at Suchow and Hangchow and elsewhere. On the
 other hand, although they are described usually as brocades, certain
 specimens of imperial Chinese robes sumptuous in ornament, sheen of

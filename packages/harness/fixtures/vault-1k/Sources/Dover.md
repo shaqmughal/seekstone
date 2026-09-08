@@ -12,7 +12,7 @@ DOVER, a seaport and municipal and parliamentary borough of Kent,
 England, one of the Cinque Ports, 76 m. E.S.E. of London by the
 South-Eastern & Chatham railway. Pop. (1891) 33,503; (1901) 41,794. It
 is situated at the mouth of a small stream, the Dour, whose valley here
-breaches the high chalk cliffs which fringe the coast on either hand. It
+[[Breach|breaches]] the high chalk cliffs which fringe the coast on either hand. It
 is an exceptionally healthy locality, and the steep shore and open downs
 make it an agreeable summer resort. The better residential quarters lie
 along the seaboard and on the higher ground, notably on a western spur
@@ -20,7 +20,7 @@ of the Castle Hill. The dominant object of the place is the castle, on
 the east height, 375 ft. above sea-level, between which and the
 batteries on the western heights lies the old town. The castle occupies
 a space of 35 acres. Within its precincts are a Roman _pharos_ or
-lighthouse, still exhibiting the Roman masonry; the ancient fortress
+lighthouse, still exhibiting the Roman [[Masonry|masonry]]; the ancient fortress
 church (St Mary in Castro); some remains of the Saxon fort; and the
 massive keep and subsidiary defences (such as the Constable's,
 Avranche's, and other towers) of the Norman building. The church,
@@ -152,7 +152,7 @@ of September.
 After the decay of Richborough harbour the passage from Dover to
 Whitsand, and later to Calais, became the accustomed route to France,
 and by a statute of 1465 no one might ship for Calais except at Dover.
-The guardians of the harbour were incorporated by James I. in 1607.
+The [[Guardian|guardians]] of the harbour were incorporated by James I. in 1607.
 
   See S. P. H. Statham, _History of the Castle, Town and Port of Dover_
   (London, 1899); and _Dover Charters and other Documents_ (London,

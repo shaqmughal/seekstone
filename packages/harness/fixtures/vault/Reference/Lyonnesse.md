@@ -1,7 +1,7 @@
 # Lyonnesse
 
 LYONNESSE, LYONESSE, LEONNOYS or LEONAIS, a legendary country off the
-south coast of Cornwall, England. Lyonnesse is the scene of many
+south coast of [[Cornwall]], England. Lyonnesse is the scene of many
 incidents in the Arthurian romances, and especially in the romances of
 Tristram and Iseult. It also plays an important part in purely Cornish
 tradition and folk-lore. Early English chronicles, such as the

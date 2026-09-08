@@ -12,9 +12,9 @@ ENTHUSIASM, a word originally meaning inspiration by a divine afflatus
 or by the presence of a god. The Gr. [Greek: enthousiasmos], from which
 the word is adapted, is formed from the verb [Greek: enthousiazein], to
 be [Greek: entheos], possessed by a god [Greek: theos]. Applied by the
-Greeks to manifestations of divine "possession," by Apollo, as in the
-case of the Pythia, or by Dionysus, as in the case of the Bacchantes and
-Maenads, it was also used in a transferred or figurative sense; thus
+Greeks to manifestations of divine "possession," by [[Apollo]], as in the
+case of the Pythia, or by [[Dionysus]], as in the case of the Bacchantes and
+[[Maenads]], it was also used in a transferred or figurative sense; thus
 Socrates speaks of the inspiration of poets as a form of enthusiasm
 (Plato, _Apol. Soc._ 22 C). Its uses, in a religious sense, are confined
 to an exaggerated or wrongful belief in religious inspiration, or to
@@ -28,7 +28,7 @@ euche], they were also known as Euchites. In ordinary usage,
 whole-hearted devotion to an ideal, cause, study or pursuit; sometimes,
 in a depreciatory sense, it implies a devotion which is partisan and is
 blind to difficulties and objections. (See further INSPIRATION, for a
-comparison of the religious meanings of "enthusiasm," "ecstasy" and
+comparison of the religious meanings of "enthusiasm," "[[Ecstasy|ecstasy]]" and
 "fanaticism.")
 
 ## References

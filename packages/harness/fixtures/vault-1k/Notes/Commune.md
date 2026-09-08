@@ -61,7 +61,7 @@ under the bishop that constituted these towns as separate jurisdictional
 units. The chief feature rather is the existence within their walls of a
 special law, distinct in important points from that of the country at
 large. The towns enjoyed a special peace, as it was called, i.e.
-breaches of the peace were more severely punished if committed in a town
+[[Breach|breaches]] of the peace were more severely punished if committed in a town
 than elsewhere. Besides, the inhabitants might be sued before the town
 court only, and to fugitives from the country who had taken refuge in
 the town belonged a similar privilege. This special legal status
@@ -104,7 +104,7 @@ being subject to special punishment. The new towns may be regarded as
 markets made permanent. The settlers invited were merchants (_mercatores
 personati_) and handicraftsmen. The land now allotted to each member of
 the community was just large enough for a house and yard, stabling and
-perhaps a small garden (50 by 100 ft. at Freiburg, 60 by 100 ft. at
+perhaps a small garden (50 by 100 ft. at [[Freiburg]], 60 by 100 ft. at
 Bern). These building plots were given as free property or, more
 frequently, at a merely nominal rent (_Wurtzins_) with the right of free
 disposal, the only obligation being that of building a house. All that
@@ -267,7 +267,7 @@ early date, as unredeemed pledges to some prince who had advanced money
 to the emperor. Others seceded as members of the Swiss Confederation.
 But a considerable number survived until the reorganization of the
 Empire in 1803. At the peace in 1815, however, only four were spared,
-namely, Frankfort, Bremen, Hamburg and Lübeck, these being practically
+namely, [[Frankfort]], Bremen, Hamburg and Lübeck, these being practically
 the only ones still in a sufficiently flourishing and economically
 independent position to warrant such preferential treatment. But finally
 Frankfort, having chosen the wrong side in the war of 1866, was annexed
@@ -279,7 +279,7 @@ the imperial cities were under the emperor. They even followed a foreign
 policy of their own, concluded treaties with foreign powers or made war
 upon them. Nearly all the _Hanseatic towns_ belonged to this category.
 With others like Bremen, Hamburg and Magdeburg, it was long in the
-balance which class they belonged to. All towns of any importance,
+[[Balance|balance]] which class they belonged to. All towns of any importance,
 however, were for a considerable time far ahead of the principalities in
 administration. It was largely this fact that gave them power. When,
 therefore, from about the 15th century the princely territories came to
@@ -545,7 +545,7 @@ quieter times ensued under the wise leadership, first of the Albizzi and
 finally of the Medici.
 
 The history of the other Tuscan towns was equally tumultuous, all of
-them save Lucca, after many fitful changes finally passing under the
+them save [[Lucca]], after many fitful changes finally passing under the
 sway of Florence, or the grand-duchy of Tuscany, as the state was now
 called. Pisa, one time the mightiest, had been crushed between its
 inland neighbour and its maritime rival Genoa (battle of Meloria, 1282).
@@ -856,7 +856,7 @@ kingdoms where gilds at an early date played a part of importance.
   Gotha, 1905, to 1205). For France, there are the works by Achille
   Luchaire, _Les Communes françaises à l'époque des Capétiens directs_
   (Paris, 1890), and Paul Viollet, "Les Communes françaises au moyen
-  âge," _Mémoires de l'Académie des Inscriptions et Belles-lettres_,
+  âge," _Mémoires de l'Académie des Inscriptions et [[Belles-Lettres|Belles-lettres]]_,
   tome xxxvi. (Paris, 1900). There are, of course, also accounts in the
   great works on French institutions by Flach, Glasson, Viollet,
   Luchaire, but perhaps the one in Luchaire's _Manuel des institutions
@@ -927,7 +927,7 @@ FOOTNOTES:
 
   [10] On this whole subject see Richard Schröder, _Lehrbuch der
     deutschen Rechtsgeschichte_ (5th ed., Leipzig, 1907), § 56, "Die
-    Stadtrechte." Also Charles Gross, _The Gild Merchant_ (Oxford, 1890),
+    Stadtrechte." Also Charles [[Gros|Gross]], _The Gild Merchant_ (Oxford, 1890),
     vol. i. Appendix E, "Affiliation of Medieval Boroughs."
 
   [11] H. Kretschmayr, _Geschichte von Venedig_, vol. i. (Gotha, 1905).

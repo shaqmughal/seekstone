@@ -15,9 +15,9 @@ by Samaria and the Carmel range, E. by the Jordan, N. by the Leontes
 extent was about 60 m. north to south and 30 east to west. The name in
 the Hebrew Scriptures hardly had a definite territorial significance. It
 literally means a ring or circuit, and, like analogous words in English,
-could be applied to various districts. Thus Joshua (xiii. 2) and Joel
-(iii. 4) refer to the _Geliloth_ ("borders, coast") of the Philistines
-or of Palestine; Joshua again (xxii. 10, 11) and Ezekiel (xlvii. 8)
+could be applied to various districts. Thus [[Joshua]] (xiii. 2) and Joel
+(iii. 4) refer to the _Geliloth_ ("[[Borders|borders]], coast") of the Philistines
+or of Palestine; Joshua again (xxii. 10, 11) and [[Ezekiel]] (xlvii. 8)
 mention the Jordan valley plain as the "Geliloth of Jordan" in "the
 Eastern Gelilah." In its more restricted connotation, denoting the
 district to which it is usually applied or a part thereof, it is found
@@ -33,7 +33,7 @@ Galilee as a whole cannot be said to have a history; the unit of
 territorial subdivision was tribal rather than provincial, and though
 such important events as those associated with the names of Barak,
 Gideon, Gilboa, Armageddon, took place within its borders, yet these
-belong rather to the histories of Issachar, Zebulon, Asher or Naphtali,
+belong rather to the histories of Issachar, Zebulon, [[Asher]] or Naphtali,
 whose territories together almost correspond with Galilee, than to the
 province itself.
 
@@ -45,13 +45,13 @@ reconquest was due to John Hyrcanus. Before very long it developed a
 nationalism and patriotism as intense as that of Judaea itself,
 notwithstanding the contempt with which the metropolitans of Jerusalem
 looked down upon the Galilean provincials. Stock proverbial sayings such
-as "Out of Galilee cometh no prophet" (though Deborah, Jonah, Elisha,
+as "Out of Galilee cometh no prophet" (though Deborah, [[Jonah]], [[Elisha]],
 and probably Hosea, were Galileans) were apparently common.
 Provincialism of speech (Matt. xxvi. 73) distinguished the Galileans; it
 appears that they confused the gutturals in pronunciation.
 
 Under the Roman domination Galilee was made a tetrarchate governed by
-members of the Herod family. Herod the Great was tetrarch of Galilee in
+members of the [[Herod]] family. Herod the Great was tetrarch of Galilee in
 47 B.C.; in 4 B.C. he was succeeded by his son Antipas. Galilee was the
 land of Christ's boyhood and the chief centre of His active work, and in
 His various ministries here some of His chief discourses were uttered
@@ -65,7 +65,7 @@ some of the ancient Galilean towns, such as Tell Hum (Talhum), Kerazeh,
 Kefr Bir'im, and elsewhere. One of the chief centres of Rabbinism was
 Safed, still a sacred city of the Jews and largely inhabited by members
 of that faith. Near here is Meirun, a place much revered by the Jews as
-containing the tombs of Hillel, Shammai and Simon ben Yohai; a yearly
+containing the tombs of [[Hillel]], Shammai and Simon [[Ben|ben]] Yohai; a yearly
 festival in honour of these rabbis is here celebrated. At Tiberias also
 are the tombs of distinguished Jewish teachers, including Maimonides.
 
@@ -98,7 +98,7 @@ are the tombs of distinguished Jewish teachers, including Maimonides.
   higher. The whole drainage is collected by the Kishon, which runs
   through a narrow gorge at the north-west corner of the plain,
   descending beside the ridge of Carmel to the sea. The broad valley of
-  Jezreel on the east, descending towards the Jordan valley, forms the
+  [[Jezreel]] on the east, descending towards the Jordan valley, forms the
   gate by which Palestine is entered from beyond Jordan. Mount Tabor
   stands isolated in the plain at the north-east corner, and rather
   farther south the conical hill called Nebi Duhi rises between Tabor
@@ -111,7 +111,7 @@ are the tombs of distinguished Jewish teachers, including Maimonides.
   is full of magnificent springs, many of which are thermal. The plains
   of Esdraelon, and the Buttauf, and the plateau of el-Ahma are all
   remarkable for the rich basaltic soil which covers them, in which
-  corn, cotton, maize, sesame, tobacco, millet and various kinds of
+  [[Corn|corn]], cotton, maize, sesame, tobacco, millet and various kinds of
   vegetable are grown, while indigo and sugar-cane were cultivated in
   former times. The Nazareth hills and Gilboa are bare and white, but
   west of Nazareth is a fine oak wood, and another thick wood spreads
@@ -124,14 +124,14 @@ are the tombs of distinguished Jewish teachers, including Maimonides.
   the Buttauf on the spurs of the southern hills, and Jenin (En Gannim),
   a flourishing village, with a palm garden (3000 inhabitants). The
   ancient capital, Jezreel (Zerin), is now a miserable village on a
-  precipitous spur of Gilboa; north of this are the small mud hamlets,
-  Solam (Shunem), Endur (Endor), Nein (Nain); on the west side of the
+  precipitous spur of Gilboa; north of this are the small mud [[Hamlet|hamlets]],
+  Solam (Shunem), Endur ([[Endor]]), Nein (Nain); on the west side of the
   plain is the ruin of Lejjun (the Legio of the 4th century, which was
   then a place of importance). In the hills north of the Buttauf is
   Jefat, situated on a steep hill-top, and representing the Jotapata
   defended by Josephus. Kefr Kenna, now a flourishing Christian village
   at the foot of the Nazareth hills, south of the Buttauf, is one of the
-  sites identified with Cana of Galilee, and the ruin Kana, on the north
+  sites identified with [[Cana]] of Galilee, and the ruin Kana, on the north
   side of the same plain, represents the site pointed out to the
   pilgrims of the 12th and 13th centuries.
 
@@ -140,7 +140,7 @@ are the tombs of distinguished Jewish teachers, including Maimonides.
 
   The mountains are tilted up towards the Sea of Galilee, and the
   drainage of the district is towards the north-west. On the south the
-  rocky range of Jebel Jarmuk rises to nearly 4000 ft. above the sea; on
+  rocky range of [[Jebel]] Jarmuk rises to nearly 4000 ft. above the sea; on
   the east a narrow ridge 2800 ft. high forms the watershed, with steep
   eastern slopes falling towards Jordan. Immediately west of the
   watershed are two small plateaus covered with basaltic debris, near
@@ -158,7 +158,7 @@ are the tombs of distinguished Jewish teachers, including Maimonides.
   and Moslems.
 
 Josephus gives a good description of the Galilee of his time in _Wars_,
-iii. 3. 2: "The Galileans are inured to war from their infancy, and have
+iii. 3. 2: "The Galileans are inured to war from their [[Infancy|infancy]], and have
 been always very numerous; nor hath the country been ever destitute of
 men of courage or wanted a numerous set of them; for their soil is
 universally rich and fruitful, and full of plantations of trees of all
@@ -167,14 +167,14 @@ cultivation.... Moreover, the cities lie here very thick, and the very
 many villages there are here are everywhere full of people." Though the
 population is diminished and the cities ruinous, the country is still
 remarkable for fertility, thanks to the copiousness of its water-supply
-draining from the Lebanon mountains.
+draining from the [[Lebanon]] mountains.
 
 The principal products of the country are corn, wine, oil and soap (from
-the olives), with every species of pulse and gourd.
+the olives), with every species of pulse and [[Gourd|gourd]].
 
 The antiquities of Galilee include dolmens and rude stone monuments,
 rock-cut tombs, and wine-presses, with numerous remains of Byzantine
-monasteries and fine churches of the time of the crusades. There are
+monasteries and fine churches of the time of the [[Crusades|crusades]]. There are
 also remains of Greek architecture in various places; but the most
 interesting buildings are the ancient synagogues, of which some eleven
 examples are now known. They are rectangular, with the door to the
@@ -186,7 +186,7 @@ them was completely destroyed by a local stone-mason. At Irbid, above
 Tiberias, is another synagogue of rather different character. Traces of
 synagogues have also been found on Carmel, and at Tireh, west of
 Nazareth. It is curious to find the representation of various animals in
-relief on the lintels of these buildings. Hebrew inscriptions also
+relief on the [[Lintel|lintels]] of these buildings. Hebrew inscriptions also
 occur, and the carved work of the cornices and capitals is rich though
 debased.
 
@@ -200,22 +200,22 @@ precipice above Jordan south-west of the Sea of Galilee, and guarded the
 advance by the valley of Jezreel; and about the same time Chateau Neuf
 (Hunin) was erected above the Huleh lake. Belfort (esh Shukif), on the
 north bank of the Leontes, the finest and most important, dates somewhat
-earlier; and Montfort (Kalat el Kurn) stood on a narrow spur north-east
+earlier; and Montfort ([[Kalat]] el Kurn) stood on a narrow spur north-east
 of Acre, completing the chain of frontier fortresses. The town of
-Banias, with its castle, formed also a strong outpost against Damascus,
+Banias, with its castle, formed also a strong outpost against [[Damascus]],
 and was the scene, in common with the other strongholds, of many
 desperate encounters between Moslems and Christians. Lower Galilee was
 the last remaining portion of the Holy Land held by the Christians. In
-1250 the knights of the Teutonic order owned lands extending round Acre
+1250 the [[Knight|knights]] of the Teutonic order owned lands extending round Acre
 as far east as the Sea of Galilee, and including Safed. These
 possessions were lost in 1291, on the fall of Acre.
 
 The population of Galilee is mixed. In Lower Galilee the peasants are
 principally Moslem, with a sprinkling of Greek Christians round
 Nazareth, which is a Christian town. In Upper Galilee, however, there is
-a mixture of Jews and Maronites, Druses and Moslems (natives or Algerine
+a mixture of Jews and [[Maronites]], Druses and Moslems (natives or Algerine
 settlers), while the slopes above the Jordan are inhabited by wandering
-Arabs. The Jews are engaged in trade, and the Christians, Druses and
+[[Arabs]]. The Jews are engaged in trade, and the Christians, Druses and
 Moslems in agriculture; and the Arabs are an entirely pastoral people.
      (C. R. C.; R. A. S. M.)
 

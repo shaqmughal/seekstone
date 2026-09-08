@@ -8,7 +8,7 @@ porous diaphragm such as parchment. If a solution, say of salt, be
 placed in a drum provided with a parchment bottom, termed a "dialyser,"
 and the drum and its contents placed in a larger vessel of water, the
 salt will pass through the membrane. If the salt solution be replaced by
-one of glue, gelatin or gum, it will be found that the membrane is
+one of glue, [[Gelatin|gelatin]] or gum, it will be found that the membrane is
 impermeable to these solutes. To the first class Graham gave the name
 "crystalloids," and to the second "colloids." This method is
 particularly effective in the preparation of silicic acid. By adding

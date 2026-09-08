@@ -18,7 +18,7 @@ it is said that the audience were so amused by it that, instead of
 leaving to show their grief, they remained in their seats. He was also
 the author of a comedy called _Philinne_ (_Philine_), written in the
 manner of Eupolis and Cratinus, in which he attacked a well-known
-courtesan. Athenaeus (p. 698), who preserves some parodic hexameters of
+courtesan. [[Athenaeus]] (p. 698), who preserves some parodic hexameters of
 his, relates other anecdotes concerning him (pp. 5, 108, 407).
 
   Fragments in T. Kock, _Comicorum Atticorum fragmenta_, i. (1880); B.

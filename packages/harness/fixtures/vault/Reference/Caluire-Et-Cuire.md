@@ -8,7 +8,7 @@ type: source
 # Caluire-Et-Cuire
 
 CALUIRE-ET-CUIRE, a town of eastern France, in the department of Rhone,
-2½ m. N. by E. of Lyons by rail. Pop. (1906) 9255. It has manufactures
+2½ m. N. by E. of [[Lyons]] by rail. Pop. (1906) 9255. It has manufactures
 of coarse earthenware and hard-ware, copper and bronze foundries and
 nursery-gardens.
 

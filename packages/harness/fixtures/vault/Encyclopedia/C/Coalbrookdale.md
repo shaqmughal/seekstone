@@ -25,9 +25,9 @@ experiment had succeeded.
 
 The third Abraham Darby built the famous Coalbrookdale iron bridge over
 the Severn, which gives name to the neighbouring town of Ironbridge,
-which with a portion of Coalbrookdale is in the parish of Madeley
+which with a portion of Coalbrookdale is in the parish of [[Madeley]]
 (q.v.). Fine wrought iron work is produced, and the school of art is
-well known. There are also brick and tile works.
+well known. There are also [[Brick|brick]] and tile works.
 
 ## See also
 

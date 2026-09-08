@@ -9,20 +9,20 @@ type: reference
 
 DIOCLETIAN (GAIUS AURELIUS VALERIUS DIOCLETIANUS) (A.D. 245-313), Roman
 emperor 284-305, is said to have been born at Dioclea, near Salona, in
-Dalmatia. His original name was Diocles. Of humble origin, he served
+[[Dalmatia]]. His original name was Diocles. Of humble origin, he served
 with high distinction and held important military commands under the
 emperors Probus and Aurelian, and accompanied Carus to the Persian War.
 After the death of Numerianus he was chosen emperor by the troops at
 Chalcedon, on the 17th of September 284, and slew with his own hands
 Arrius Aper, the praefect of the praetorians. He thus fulfilled the
-prediction of a druidess of Gaul, that he would mount a throne as soon
+prediction of a druidess of [[Gaul]], that he would mount a throne as soon
 as he had slain a wild boar (_aper_). Having been installed at
 Nicomedia, he received general acknowledgment after the murder of
-Carinus. In consequence of the rising of the Bagaudae in Gaul, and the
+[[Carinus]]. In consequence of the rising of the Bagaudae in Gaul, and the
 threatening attitude of the German peoples on the Rhine, he appointed
 Maximian Augustus in 286; and, in view of further dangers and
 disturbances in the empire, proclaimed Constantius Chlorus and Galerius
-Caesars in 293. Each of the four rulers was placed at a separate
+[[Caesar|Caesars]] in 293. Each of the four rulers was placed at a separate
 capital--Nicomedia, Mediolanum (Milan), Augusta Trevirorum (Trier),
 Sirmium. This amounted to an entirely new organization of the empire, on
 a plan commensurate with the work of government which it now had to
@@ -38,7 +38,7 @@ Diocletian the senate became a political nonentity, the last traces of
 republican institutions disappeared, and were replaced by an absolute
 monarchy approaching to despotism. He wore the royal diadem, assumed the
 title of lord, and introduced a complicated system of ceremonial and
-etiquette, borrowed from the East, in order to surround the monarchy and
+[[Etiquette|etiquette]], borrowed from the East, in order to surround the monarchy and
 its representative with mysterious sanctity. But at the same time he
 devoted his energies to the improvement of the administration of the
 empire; he reformed the standard of coinage, fixed the price of
@@ -49,7 +49,7 @@ numerous buildings, such as the thermae, of which extensive remains are
 still standing (Aurelius Victor, _De Caesaribus_, 39; Eutropius ix. 13;
 Zonaras xii. 31).
 
-  See A. Vogel, _Der Kaiser Diocletian_ (Gotha, 1857), a short sketch,
+  See A. Vogel, _Der Kaiser Diocletian_ ([[Gotha]], 1857), a short sketch,
   with notes on the authorities; T. Preuss, _Kaiser Diocletian und seine
   Zeit_ (Leipzig, 1869); V. Casagrandi, _Diocleziano_ (Faenza, 1876); H.
   Schiller, _Gesch. der römischen Kaiserzeit_, ii. (1887); T. Bernhardt,
@@ -62,7 +62,7 @@ Zonaras xii. 31).
   Diocletians" in _Zeitschrift für Social- und Wirthschaftsgeschichte_
   (1896), a valuable paper with notes containing references to sources;
   and O. Seeck, _Geschichte des Untergangs der antiken Welt_, vol. i.
-  cap. 1. On his military reforms see T. Mommsen in _Hermes_, xxiv., and
+  cap. 1. On his military reforms see T. Mommsen in _[[Hermes]]_, xxiv., and
   on his tariff system, Diocletian, Edict of.
 
 ## See also

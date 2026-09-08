@@ -16,10 +16,10 @@ the economist L. Wolowski, it was created by virtue of a governmental
 decree of the 28th of February 1852. This decree empowered the issue of
 loans at a low rate of interest, secured by mortgage bonds, extending
 over a long period, and repayable by annuities, including instalments of
-capital. On its inception it had a capital of 25,000,000 francs and took
+capital. On its inception it had a capital of 25,000,000 [[Franc|francs]] and took
 the title of Banque Fonciere de Paris. The parent institution in Paris
 was followed by similar institutions in Nevers and Marseilles. These two
-were afterwards amalgamated with the first under the title of Credit
+were afterwards amalgamated with the first under the title of [[Credit]]
 Foncier de France. The capital was increased to 60,000,000 francs, the
 government giving a subvention of 10,000,000 francs, and exercising
 control over the bank by directly appointing the governor and two

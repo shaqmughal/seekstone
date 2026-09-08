@@ -7,7 +7,7 @@ type: note
 
 # Leroy-Beaulieu
 
-LEROY-BEAULIEU, HENRI JEAN BAPTISTE ANATOLE (1842-   ), French publicist,
+LEROY-BEAULIEU, HENRI JEAN [[Baptiste|BAPTISTE]] ANATOLE (1842-   ), French publicist,
 was born at Lisieux, on the 12th of February 1842. In 1866 he published
 _Une troupe de comédiens_, and afterwards _Essai sur la restauration de
 nos monuments historiques devant l'art et devant le budget_, which deals

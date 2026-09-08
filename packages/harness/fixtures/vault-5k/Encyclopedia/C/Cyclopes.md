@@ -10,10 +10,10 @@ Gaea--Brontes, Steropes and Arges,--storm-gods belonging to the family
 of the Titans, who furnished Zeus with thunder and lightning out of
 gratitude for his having released them from Tartarus. They were slain by
 Apollo for having forged the thunderbolt with which Zeus slew Asclepius.
-Later legend transferred their abode to Mt Aetna, the Lipari islands or
-Lemnos, where they assisted Hephaestus at his forge. A third class of
+Later legend transferred their abode to Mt Aetna, the [[Lipari Islands|Lipari islands]] or
+[[Lemnos]], where they assisted Hephaestus at his forge. A third class of
 Cyclopes are the builders of the so-called "Cyclopean" walls of Mycenae
-and Tiryns, giants with arms in their belly, who were said to have been
+and Tiryns, [[Giant|giants]] with arms in their belly, who were said to have been
 brought by Proetus from Lycia to Argos, his original home (Pausanias ii.
 16. 5; 25. 8). Like the Curetes and Telchines they are mythical types of
 prehistoric workmen and architects, and as such the objects of worship.

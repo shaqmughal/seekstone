@@ -9,7 +9,7 @@ tags: [biography, language]
 # Fleet
 
 FLEET, a word in all its significances, derived from the root of the
-verb "to fleet," from O. Eng. _fleotan_, to float or flow, which
+verb "to fleet," from O. Eng. _fleotan_, to [[Float|float]] or flow, which
 ultimately derives from an Indo-European root seen in Gr. [Greek:
 pleein], to sail, and Lat. _pluere_, to rain; cf. Dutch _vliessen_, and
 Ger. _fliessen_. In English usage it survives in the name of many
@@ -26,7 +26,7 @@ also frequently used of a company of fishing vessels, and in fishing is
 also applied to a row of drift-nets fastened together. From the original
 meaning of the word "flowing" comes the adjectival use of the word,
 swift, or speedy; so also "fleeting," of something evanescent or fading
-away, with the idea of the fast-flowing lapse of time.
+away, with the idea of the fast-flowing [[Lapse|lapse]] of time.
 
 ## See also
 

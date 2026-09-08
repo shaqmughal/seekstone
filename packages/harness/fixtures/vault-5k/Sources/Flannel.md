@@ -22,7 +22,7 @@ English wools are not commonly used alone. Over 2000 persons are
 employed in flannel manufacture in Rochdale alone, which is the historic
 seat of the industry, and a good deal of flannel is now made in the Spen
 Valley district, Yorkshire. Blankets, which constitute a special branch
-of the flannel trade, are largely made at Bury in Lancashire and
+of the flannel trade, are largely made at [[Bury]] in Lancashire and
 Dewsbury in Yorkshire. Welsh flannels have a high reputation, and make
 an important industry in Montgomeryshire. There are also flannel
 manufactories in Ireland.

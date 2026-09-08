@@ -18,11 +18,11 @@ German emperor and the Porte in 1718) which acquired him reputation. A
 recommendation from Mencke to Frederick Augustus II. of Saxony, king of
 Poland, proved worse than useless, as Gunther appeared at the audience
 drunk. From that time he led an unsettled and dissipated life, sinking
-ever deeper into the slough of misery, until he died at Jena on the 15th
+ever deeper into the slough of misery, until he died at [[Jena]] on the 15th
 of March 1723, when only in his 28th year. Goethe pronounces Gunther to
 have been a poet in the fullest sense of the term. His lyric poems as a
-whole give evidence of deep and lively sensibility, fine imagination,
-clever wit, and a true ear for melody and rhythm; but an air of cynicism
+whole give evidence of deep and lively sensibility, fine [[Imagination|imagination]],
+[[Clever|clever]] wit, and a true [[Ear|ear]] for melody and rhythm; but an air of cynicism
 is more or less present in most of them, and dull or vulgar witticisms
 are not infrequently found side by side with the purest inspirations of
 his genius.

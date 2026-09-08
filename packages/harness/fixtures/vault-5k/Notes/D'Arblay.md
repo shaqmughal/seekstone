@@ -1,11 +1,11 @@
 # D'Arblay
 
-D'ARBLAY, FRANCES (1752-1840), English novelist and diarist, better
+D'ARBLAY, [[Franc|FRANCES]] (1752-1840), English novelist and diarist, better
 known as FANNY BURNEY, daughter of Dr Charles Burney (q.v.), was born at
 King's Lynn, Norfolk, on the 13th of June 1752. Her mother was Esther
-Sleepe, granddaughter of a French refugee named Dubois. Fanny was the
+Sleepe, granddaughter of a French refugee named [[Dubois]]. Fanny was the
 fourth child in a family of six. Of her brothers, James (1750-1821)
-became an admiral and sailed with Captain Cook on his second and third
+became an admiral and sailed with Captain [[Cook]] on his second and third
 voyages, and Charles Burney (1757-1817) was a well-known classical
 scholar. In 1760 the family removed to London, and Dr Burney, who was
 now a fashionable music master, took a house in Poland Street. Mrs
@@ -18,10 +18,10 @@ had first made Samuel Crisp's acquaintance about 1745 at the house of
 Fulke Greville, grandfather of the diarists, and the two studied music
 while the rest of the guests hunted. Crisp wrote a play, _Virginia_,
 which was staged by David Garrick in 1754 at the request of the
-beautiful countess of Coventry (nee Maria Gunning). The play had no
+beautiful countess of [[Coventry]] (nee Maria [[Gunning]]). The play had no
 great success, and in 1764 Crisp established himself in retirement at
 Chessington Hall, where he frequently entertained his sister, Mrs Sophia
-Gast, of Burford, Oxfordshire, and Dr Burney and his family, to whom he
+Gast, of [[Burford]], Oxfordshire, and Dr Burney and his family, to whom he
 was familiarly known as "daddy" Crisp.[1] It was to her "daddy" Crisp
 and her sister Susan that Fanny Burney addressed large portions of her
 diary and many of her letters. After his wife's death in 1767, Dr Burney
@@ -31,14 +31,14 @@ From her fifteenth year Fanny lived in the midst of an exceptionally
 brilliant social circle, gathered round her father in Poland Street, and
 later in his new home in St Martin's Street, Leicester Fields. Garrick
 was a constant visitor, and would arrive before eight o'clock in the
-morning. Of the various "lyons" they entertained she leaves a graphic
+morning. Of the various "[[Lyons|lyons]]" they entertained she leaves a graphic
 account, notably of Omai, the Otaheitan native, and of Alexis Orlov, the
 favourite of Catherine II. of Russia. Dr Johnson she first met at her
-father's home in March 1777. Her father's drawing-room, where she met
+father's home in March 1777. Her father's [[Drawing-Room|drawing-room]], where she met
 many of the chief musicians, actors and authors of the day, was in fact
 Fanny's only school. Her reading, however, was by no means limited.
 Macaulay stated that in the whole of Dr Burney's library there was but
-one novel, Fielding's _Amelia_; but Austin Dobson points out that she
+one novel, Fielding's _Amelia_; but Austin [[Dobson]] points out that she
 was acquainted with the abbe Prevost's _Doyen de Killerine_, and with
 Marivaux's _Vie de Marianne_, besides _Clarissa Harlowe_ and the books
 of Mrs Elizabeth Griffith and Mrs Frances Brooke. Her diary also
@@ -46,12 +46,12 @@ contains the record of much more strenuous reading. Her stepmother, a
 woman of some cultivation, did not encourage habits of scribbling.
 Fanny, therefore, made a bonfire of her MSS., among them a _History of
 Caroline Evelyn_, a story containing an account of Evelina's mother.
-Luckily her journal did not meet with the same fate. The first entry in
+Luckily her journal did not meet with the same [[Fate|fate]]. The first entry in
 it was made on the 30th of May 1768, and it extended over seventy-two
 years. The earlier portions of it underwent wholesale editing in later
 days, and much of it was entirely obliterated. She planned out
 _Evelina_, or _A Young Lady's Entrance into the World_, long before it
-was written down. _Evelina_ was published by Thomas Lowndes in the end
+was written down. _Evelina_ was published by Thomas [[Lowndes]] in the end
 of January 1778, but it was not until June that Dr Burney learned its
 authorship, when the book had been reviewed and praised everywhere.
 Fanny proudly told Mrs Thrale the secret. Mrs Thrale wrote to Dr Burney
@@ -66,7 +66,7 @@ compliments were made for her benefit, and eagerly transcribed in her
 diary. His affectionate friendship for "little Burney" only ceased with
 his death.
 
-_Evelina_ was a continued success. Sir Joshua Reynolds sat up all night
+_Evelina_ was a continued success. Sir [[Joshua]] Reynolds sat up all night
 to read it, as did Edmund Burke, who came next to Johnson in Miss
 Burney's esteem. She was introduced to Elizabeth Montagu and the other
 bluestocking ladies, to Richard Brinsley Sheridan, and to the gay Mrs
@@ -76,7 +76,7 @@ Mrs Thrale, and with offers of help from Arthur Murphy, and
 encouragement from Sheridan, Fanny began to write a comedy. Crisp,
 realizing the limitations of her powers, tried to dissuade her, and the
 piece, _The Witlings_, was suppressed in deference to what she called a
-"hissing, groaning, catcalling epistle" from her two "daddies."
+"hissing, groaning, catcalling [[Epistle|epistle]]" from her two "daddies."
 Meanwhile her intercourse with Mrs Thrale proved very exacting, and left
 her little time for writing. She went with her to Bath in 1780, and was
 at Streatham again in 1781. Her next book was written partly at
@@ -84,7 +84,7 @@ Chessington and after much discussion with Mr Crisp. _Cecilia; or,
 Memoirs of an Heiress_, by the author of _Evelina_, was published in 5
 vols. in 1782 by Messrs Payne & Cadell (who paid the author L250--not
 L2000 as stated by Macaulay). If _Cecilia_ has not quite the freshness
-and charm of _Evelina_, it is more carefully constructed, and contains
+and [[Charm|charm]] of _Evelina_, it is more carefully constructed, and contains
 many happy examples of what Johnson called Miss Burney's gift of
 "character-mongering." Burke sent her a letter full of high praise. But
 some of her friends found the writing too often modelled on Johnson's,
@@ -95,11 +95,11 @@ On the 24th of April 1783, Fanny Burney's "most judicious adviser and
 stimulating critic," "daddy" Crisp, died. He was her devoted friend, as
 she was to him, "the dearest thing on earth." The next year she was to
 lose two more friends. Mrs Thrale married Piozzi, and Johnson died.
-Fanny had met the celebrated Mrs Delany in 1783, and she now attached
+Fanny had met the celebrated Mrs [[Delany]] in 1783, and she now attached
 herself to her. Mrs Delany, who was living (1785) in a house near
 Windsor Castle presented to her by George III., was on the friendliest
 terms with both the king and queen, and Fanny was honoured with more
-than one royal interview. Queen Charlotte, soon afterwards, offered Miss
+than one royal interview. Queen [[Charlotte]], soon afterwards, offered Miss
 Burney the post of second keeper of the robes, with a salary of L200 a
 year, which after some hesitation was accepted. Much has been said
 against Dr Burney for allowing the authoress of _Evelina_ and _Cecilia_
@@ -112,13 +112,13 @@ it would be the best policy, but for pecuniary advantages, for me to
 write no more,' is exactly what I have always thought since _Evelina_
 was published" (_Diary_, i. 258). Her misgivings as to her unfitness for
 court life were quite justified. From Queen Charlotte she received
-unvarying kindness, though she was not very clever with her
+unvarying kindness, though she was not very [[Clever|clever]] with her
 waiting-maid's duties. She had to attend the queen's toilet, to take
 care of her lap-dog and her snuff-box, and to help her senior, Mrs
 Schwellenberg, in entertaining the king's equerries and visitors at tea.
 The constant association with Mrs Schwellenberg, who has been described
 as "a peevish old person of uncertain temper and impaired health,
-swaddled in the buckram of backstairs etiquette," proved to be the worst
+swaddled in the [[Buckram|buckram]] of backstairs etiquette," proved to be the worst
 part of Fanny's duties. Her diary is full of amusing court gossip, and
 sometimes deals with graver matters, notably in the account of Warren
 Hastings' trial, and in the story of the beginning of George III.'s
@@ -138,8 +138,8 @@ to La Fayette. They took a cottage at Bookham on the strength, it
 appears, of Miss Burney's pension. In 1793 she produced her _Brief
 Reflections relative to the Emigrant French Clergy_. Her son Alexandre
 was born on the 18th of December 1794. In the following spring Sheridan
-produced at Drury Lane her _Edwy and Elgiva_, a tragedy which was not
-saved even by the acting of the Kembles and Mrs Siddons. The play was
+produced at Drury [[Lane]] her _[[Edwy]] and Elgiva_, a tragedy which was not
+saved even by the acting of the [[Kemble|Kembles]] and Mrs Siddons. The play was
 never printed. Money was now a serious object, and Madame D'Arblay was
 therefore persuaded to issue her next novel, _Camilla: or A Picture of
 Youth_ (5 vols., 1796), by subscription. A month after publication Dr
@@ -165,16 +165,16 @@ find a description of her impressions of revolutionary France, it had a
 large sale, from which the author realized L7000. Nobody, it has been
 said, ever read _The Wanderer_. In the end of the year General D'Arblay
 came to England and took his wife back to France. During the Hundred
-Days of 1815 she was in Belgium, and the vivid account in her Diary of
+Days of 1815 she was in [[Belgium]], and the vivid account in her Diary of
 Brussels during Waterloo may have been used by Thackeray in _Vanity
 Fair_. General D'Arblay now received permission to settle in England.
 After his death, which took place at Bath on the 3rd of May 1818, his
-wife lived in Bolton Street, Piccadilly. There she was visited in 1826
+wife lived in [[Bolton]] Street, Piccadilly. There she was visited in 1826
 by Sir Walter Scott, who describes her (_Journal_, November 18th, 1826)
 as an elderly lady with no remains of personal beauty, but with a gentle
 manner and a pleasing countenance. The later years of her life were
 occupied with the editing of the _Memoirs of Dr Burney, arranged from
-his own Manuscripts, from family papers and from personal recollections_
+his own [[Manuscript|Manuscripts]], from family papers and from personal recollections_
 (3 vols., 1832). Her style had, as time went on, altered for the worse,
 and this book is full of extraordinary affectations. Madame D'Arblay
 died in London on the 6th of January 1840 and was buried at Walcot,

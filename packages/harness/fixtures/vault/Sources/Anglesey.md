@@ -16,21 +16,21 @@ to have been one of the members excluded in 1648. He sat in Richard
 Cromwell's parliament for Dublin city, and endeavoured to take his
 seat in the restored Rump Parliament of 1659. He was made president of
 the council in February 1660, and in the Convention Parliament sat for
-Carmarthen borough. The anarchy of the last months of the commonwealth
+Carmarthen borough. The anarchy of the last months of the [[Commonwealth|commonwealth]]
 converted him to royalism, and he showed great activity in bringing
 about the Restoration. He used his influence in moderating measures of
 revenge and violence, and while sitting in judgment on the regicides
 was on the side of leniency. In November 1660 by his father's death
 he had become Viscount Valentia and Baron Mountnorris in the Irish
 peerage, and on the 20th April 1661 he was created Baron Annesley of
-Newport Pagnell in Buckinghamshire and earl of Anglesey in the
+Newport Pagnell in [[Buckinghamshire]] and earl of Anglesey in the
 peerage of Great Britain. He supported the king's administration in
 parliament, but opposed strongly the unjust measure which, on the
-abolition of the court of wards, placed the extra burden of
+abolition of the court of wards, placed the extra [[Burden|burden]] of
 taxation thus rendered necessary on the excise. His services in the
 administration of Ireland were especially valuable. He filled the
 office of vice-treasurer from 1660 till 1667, served on the committee
-for carrying out the declaration for the settlement of Ireland and on
+for carrying out the [[Declaration|declaration]] for the settlement of Ireland and on
 the committee for Irish affairs, while later, in 1671 and 1672, he was
 a leading member of various commissions appointed to investigate the
 working of the Acts of Settlement. In February 1661 he had obtained a
@@ -38,8 +38,8 @@ captaincy of horse, and in 1667 he exchanged his vice-treasuryship of
 Ireland for the treasuryship of the navy. His public career was marked
 by great independence and fidelity to principle. On the 24th of July
 1663 he alone signed a protest against the bill "for the encouragement
-of trade," on the plea that owing to the free export of coin and
-bullion allowed by the act, and to the importation of foreign
+of trade," on the plea that owing to the free export of [[Coin|coin]] and
+[[Bullion|bullion]] allowed by the act, and to the importation of foreign
 commodities being greater than the export of home goods, "it must
 necessarily follow ... that our silver will also be carried away into
 foreign parts and all trade fail for want of money."[1] He especially
@@ -71,11 +71,11 @@ protested with three other peers against the measure sent up from the
 Commons enforcing the disarming of all convicted recusants and taking
 bail from them to keep the peace; he was the only peer to dissent
 from the motion declaring the existence of an Irish plot; and though
-believing in the guilt and voting for the death of Lord Stafford, he
+believing in the [[Guilt|guilt]] and voting for the death of Lord Stafford, he
 interceded, according to his own account,[4] with the king for him as
-well as for Langhorne and Plunket. His independent attitude drew
-upon him an attack by Dangerfield, and in the Commons by the
-attorney-general, Sir W. Jones, who accused him of endeavouring to
+well as for [[Langhorne]] and Plunket. His independent attitude drew
+upon him an attack by [[Dangerfield]], and in the Commons by the
+[[Attorney-General|attorney-general]], Sir W. Jones, who accused him of endeavouring to
 stifle the evidence against the Romanists. In March 1679 he protested
 against the second reading of the bill for disabling Danby. In 1681
 Anglesey wrote _A Letter from a Person of Honour in the Country_, as a
@@ -89,15 +89,15 @@ Majesty's Government and Kingdom_, which was addressed to the king
 in a tone of censure and remonstrance, but appears not to have been
 printed till 1694.[5] In consequence he was dismissed on the 9th of
 August 1682 from the office of lord privy seal. In 1683 he appeared
-at the Old Bailey as a witness in defence of Lord Russell, and in June
-1685 he protested alone against the revision of Stafford's attainder.
+at the Old [[Bailey]] as a witness in defence of Lord Russell, and in June
+1685 he protested alone against the revision of Stafford's [[Attainder|attainder]].
 He died at his home at Blechingdon in Oxfordshire on the 26th of April
 1686, closing a career marked by great ability, statesmanship and
 business capacity, and by conspicuous courage and independence of
 judgment. He amassed a large fortune in Ireland, in which country he
-had been allotted lands by Cromwell.
+had been allotted lands by [[Cromwell]].
 
-The unfavourable character drawn of him by Burnet is certainly unjust
+The unfavourable character drawn of him by [[Burnet]] is certainly unjust
 and not supported by any evidence. Pepys, a far more trustworthy
 judge, speaks of him invariably in terms of respect and approval as a
 "grave, serious man," and commends his appointment as treasurer of
@@ -124,14 +124,14 @@ Lord Anglesey married Elizabeth, daughter and co-heiress of Sir James
 Altham of Oxey, Hertfordshire, by whom, besides other children, he had
 James, who succeeded him, Altham, created Baron Altham, and Richard,
 afterwards 3rd Baron Altham. His descendant Richard, the 6th earl
-(d. 1761), left a son Arthur, whose legitimacy was doubted, and the
+(d. 1761), left a son Arthur, whose [[Legitimacy|legitimacy]] was doubted, and the
 peerage became extinct. He was summoned to the Irish House of Peers as
 Viscount Valentia, but was denied his writ to the parliament of Great
 Britain by a majority of one vote. He was created in 1793 earl of
 Mountnorris in the peerage of Ireland. All the male descendants of the
 1st earl of Anglesey became extinct in the person of George, 2nd earl
 of Mountnorris, in 1844, when the titles of Viscount Valentia and
-Baron Mountnorris passed to his cousin Arthur Annesley (1785-1863),
+Baron Mountnorris passed to his [[Cousin|cousin]] Arthur Annesley (1785-1863),
 who thus became 10th Viscount Valentia, being descended from the
 1st Viscount Valentia the father of the 1st earl of Anglesey in the
 Annesley family. The 1st viscount was also the ancestor of the Earls

@@ -1,8 +1,8 @@
 # Buldana
 
-BULDANA, a town and district of India, in Berar. The town had a population
+BULDANA, a town and district of India, in [[Berar]]. The town had a population
 in 1901 of 4137. The district has an area of 3662 sq. m. The southern part
-forms a portion of Berar Balaghat or Berar--above the Ghats. Here the
+forms a portion of Berar [[Balaghat]] or Berar--above the Ghats. Here the
 general contour of the country may be described as a succession of small
 plateaus decreasing in elevation to the extreme south. Towards the eastern
 side of the district the country assumes more the character of undulating
@@ -16,7 +16,7 @@ district occupies the rich valley of the Purna. The district is rich in
 agricultural produce; in a seasonable year a many-coloured sheet of
 cultivation, almost without a break, covers the valley of the Purna. In the
 Balaghat also the crops are very fine. Situated as the district is in the
-neighbourhood of the great cotton market of Khamgaon, and nearer to Bombay
+neighbourhood of the great cotton market of [[Khamgaon]], and nearer to Bombay
 than the other Berar districts, markets for its agricultural produce on
 favourable terms are easily found. In 1901 the population was 423,616,
 showing a decrease of 12% in the decade due to the effects of famine. The

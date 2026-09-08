@@ -45,7 +45,7 @@ with certainty from plants growing near together.
 
 The young shoots of the hollyhock are very liable to the attacks of
 slugs, and to a disease occasioned by a fungus, _Puccinia malvacearum_,
-which is a native of Chile, attained notoriety in the Australian
+which is a native of [[Chile]], attained notoriety in the Australian
 colonies, and finally, reaching Europe in 1869, threatened the
 extermination of the hollyhock, the soft parts of the leaves of which it
 destroys, leaving the venation only remaining. It has been found

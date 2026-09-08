@@ -3,7 +3,7 @@
 CHICKAMAUGA CREEK, a small tributary of the Tennessee river, which it
 joins near Chattanooga, Tennessee, U.S.A. It gives its name to the great
 battle of Chickamauga in the American Civil War, fought on the 19-20th
-of September 1863, between the Federal army of the Cumberland under
+of September 1863, between the Federal army of the [[Cumberland]] under
 Major-General W.S. Rosecrans and the Confederate army under General
 Braxton Bragg. For the general operations of Rosecrans' army in 1863 see
 AMERICAN CIVIL WAR. A successful war of manoeuvre had brought the army
@@ -13,18 +13,18 @@ the enemy to manoeuvre so as to gain touch with the Union forces in
 the upper Tennessee valley, but he formed an entirely different plan of
 operations. One part of the army demonstrated in front of Chattanooga,
 and the main body secretly crossed the river about Stevenson and
-Bridgeport (September 4th). The country was mountainous, the roads few
+[[Bridgeport]] (September 4th). The country was mountainous, the roads few
 and poor, and the Federals had to take full supplies of food, forage and
-ammunition with them, but Rosecrans was an able commander, his troops
+ammunition with them, but Rosecrans was an able [[Commander|commander]], his troops
 were in good hands, and he accepted the risks involved. These were
-intensified by the want of good maps, and, in the event, at one moment
-the army was placed in a position of great danger. A corps under A. McD.
+intensified by the want of good [[Map|maps]], and, in the event, at one moment
+the army was placed in a position of great danger. A [[Corps|corps]] under A. McD.
 McCook moved south-eastward across the ridges to Alpine, another under
 Thomas marched via Trenton on McLemore's Cove. The presence of Federal
 masses in Lookout Valley caused Bragg to abandon Chattanooga at once,
 and the object of the manoeuvre was thus accomplished; but owing to
 the want of good maps the Union army was at the same time exposed to
-great danger. The head of Thomas's column was engaged at Dug Gap, on the
+great danger. The head of Thomas's column was engaged at Dug [[Gap]], on the
 11th, against the flank guard of Bragg's army, and at the time McCook
 was far away to the south, and Crittenden's corps, which had occupied
 Chattanooga on the 9th, was also at a distance. Thomas was isolated, but
@@ -34,7 +34,7 @@ neglecting to attack him on the 14th, subsequent events went far to
 disarm criticism. By the 18th of September Rosecrans had at last
 collected his army on Chickamauga Creek covering Chattanooga. But Bragg
 had now received heavy reinforcements, and lay, concentrated for battle,
-on the other side of the Creek.
+on the other side of the [[Creek]].
 
 [Illustration: CHICKAMAUGA]
 
@@ -49,11 +49,11 @@ Confederates, in accordance with Bragg's plans, pressed hard upon
 Thomas, to whom Rosecrans sent reinforcements. One of the divisions
 detached from the centre for this purpose was by inadvertence taken out
 of the first line, and before the gap could be filled the Confederate
-central attack, led by Longstreet and Hood, the fighting generals of
+central attack, led by [[Longstreet]] and Hood, the fighting generals of
 Lee's army, and carried out by veteran troops from the Virginian
 battlefields, cut the Federal army in two. McCook's army corps, isolated
 on the Federal right, was speedily routed, and the centre shared its
-fate. Rosecrans himself was swept off the field in the rout of half of
+[[Fate|fate]]. Rosecrans himself was swept off the field in the rout of half of
 his army. But Thomas was unshaken. He re-formed the left wing in a
 semicircle, and aided by a few fresh brigades from Rossville, resisted
 for six hours the efforts of the whole Confederate army. Rosecrans in

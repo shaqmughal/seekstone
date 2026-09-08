@@ -5,12 +5,12 @@ to the university of Paris, was born in Paris or Pontoise about 1330,
 and died in Paris in 1418, bequeathing the bulk of his property to the
 church of Saint-Jacques-la-Boucherie, where he was buried. During his
 life he contributed freely to charitable and religious purposes from the
-considerable wealth he amassed either by the practice of his craft, or,
+considerable wealth he amassed either by the practice of his [[Craft|craft]], or,
 as some surmise without definite proof, by fortunate speculation or
 money lending, or, as legend has it, by alchemy. According to a document
 purporting to be written by himself in 1413 (printed in Waite's _Lives
 of the Alchemystical Philosophers_, London, 1888), there fell into his
-hands in 1357, at the cost of two florins, a book on alchemy by Abraham
+hands in 1357, at the cost of two [[Florin|florins]], a book on alchemy by Abraham
 the Jew, which taught in plain words the transmutation of metals. It did
 not, however, explain the _materia prima_, but merely figured or
 depicted it, and for more than 20 years Flamel strove in vain to find

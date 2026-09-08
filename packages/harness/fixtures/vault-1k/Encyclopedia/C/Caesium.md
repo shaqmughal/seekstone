@@ -37,7 +37,7 @@ RbHC_4H_40_6 and CsHC_4H_40_6 have been employed, as have also the alums
 Godeffroy, _Ber._, 1874, 7, p. 375; _Ann._, 1876, 181, p. 176) has been
 used, the corresponding compound not being formed by rubidium. The metal
 has been obtained by electrolysis of a mixture of caesium and barium
-cyanides (C. Setterberg, _Ann._, 1882, 211, p. 100) and by heating the
+[[Cyanide|cyanides]] (C. Setterberg, _Ann._, 1882, 211, p. 100) and by heating the
 hydroxide with magnesium or aluminium (N. Beketoff, _Chem. Centralblatt_,
 1889, 2, p. 245). L. Hackspill (_Comptes Rendus_, 1905, 141, p. 101) finds
 that metallic caesium can be obtained more readily by heating the chloride
@@ -54,7 +54,7 @@ _Caesium hydroxide_, Cs(OH)_2, obtained by the decomposition of the
 sulphate with baryta water, is a greyish-white deliquescent solid, which
 melts at a red heat and absorbs carbon dioxide rapidly. It readily
 dissolves in water, with evolution of much heat. _Caesium chloride_, CsCl,
-is obtained by the direct action of chlorine on caesium, or by solution of
+is obtained by the direct action of [[Chlorine|chlorine]] on caesium, or by solution of
 the hydroxide in hydrochloric acid. It forms small cubes which melt at a
 red heat and volatilize readily. It deliquesces in moist air. Many double
 chlorides are known, and may be prepared by mixing solutions of the two

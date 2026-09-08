@@ -16,7 +16,7 @@ prison and cruelly flogged. The only complete work of his which has been
 preserved is the commentary on the _Carmina Aurea_ of Pythagoras. It
 enjoyed a great reputation in middle age and Renaissance times, and
 there are numerous translations in various European languages. Several
-other writings, especially one on providence and fate, a consolatory
+other writings, especially one on providence and [[Fate|fate]], a consolatory
 treatise dedicated to his patron Olympiodorus of Thebes, author of
 [Greek: historikoi logoi], are quoted or referred to by Photius and
 Stobaeus. The collection of some 260 witticisms ([Greek: asteia]) called
@@ -27,8 +27,8 @@ collections. It is now agreed that the fragments of the _Elements of
 Ethics_ ([Greek: Ethike stoicheiosis]) preserved in Stobaeus are from a
 work by a Stoic named Hierocles, contemporary of Epictetus, who has been
 identified with the "Hierocles Stoicus vir sanctus et gravis" in Aulus
-Gellius (ix. 5. 8). This theory is confirmed by the discovery of a
-papyrus (ed. H. von Arnim in _Berliner Klassikertexte_, iv. 1906; see
+[[Gellius]] (ix. 5. 8). This theory is confirmed by the discovery of a
+papyrus (ed. H. von [[Arnim]] in _Berliner Klassikertexte_, iv. 1906; see
 also C. Prachter, _Hierokles der Stoiker_, 1901).
 
 

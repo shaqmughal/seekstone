@@ -21,7 +21,7 @@ scene of many conflicts between the Jesuit party, which stood for
 scholasticism and Church-authority, and the followers of Michael Baius
 (q.v.), who upheld the mysticism of St Augustine. Into this controversy
 Du Vergier was presently dragged by his friendship with Cornelius
-Jansen, a young champion of the Augustinian party, who had come to Paris
+Jansen, a young [[Champion|champion]] of the Augustinian party, who had come to Paris
 to study Greek. The two divines went off together to Du Vergier's home
 at Bayonne, where he became a canon of the cathedral, and Jansen a tutor
 in the bishop's seminary. Here they remained some years, intently
@@ -32,8 +32,8 @@ he was generally called M. de St Cyran. At Poitiers he was brought into
 contact with Richelieu--as yet unknown to political fame, and simply the
 zealous young bishop of the neighbouring diocese of Luçon. Western
 Touraine being the headquarters of French Protestantism, the two
-prelates turned St Cyran's learning against the Huguenots. He began to
-dream of reforming Catholicism on Augustinian lines, and thus defeating
+prelates turned St Cyran's learning against the [[Huguenots]]. He began to
+[[Dream|dream]] of reforming Catholicism on Augustinian lines, and thus defeating
 the Protestants by their own weapons. They appealed to primitive
 antiquity; he answered that his Church understood antiquity better than
 theirs. They appealed to the spirit of St Paul; he answered that
@@ -43,10 +43,10 @@ abuses in the teeth of Rome; he entered on a bold campaign to bring
 those abuses to an end. Before long, his reforming zeal involved him in
 many quarrels--so much so that he left Poitiers and settled down in
 Paris. Here he became widely known as a director of consciences, forming
-a particular friendship with the influential Arnauld family. But his
+a particular friendship with the influential [[Arnauld]] family. But his
 general projects of reform were by no means allowed to sleep, though
 here he worked hand in hand with his old friend Jansen. Both traced the
-evils of their time to the Jesuits and Schoolmen. Their dialectic had
+evils of their time to the [[Jesuits]] and Schoolmen. Their [[Dialectic|dialectic]] had
 corrupted theology; their hand-to-mouth utilitarianism had played havoc
 with traditional church-institutions. Accordingly, Jansen set to work to
 remedy one evil by writing a big book on St Augustine, the great master
@@ -69,17 +69,17 @@ St Cyran's character has been always something of a puzzle. Many
 excellent contemporary judges were profoundly impressed; others, as one
 of them said, went away bewildered by this strange abbé, who never
 argued a question out, but leapt from one point to another in broken,
-incoherent phrases. Grace of expression he had none; perhaps no man of
+incoherent phrases. [[Grace]] of expression he had none; perhaps no man of
 equal spiritual insight ever found it so hard to make his meaning clear,
-whether on paper or by word of mouth. On the other hand, Jansenism,
+whether on paper or by word of mouth. On the other hand, [[Jansenism]],
 considered as a practical religious revival, is altogether his work. He
 dragged the Augustinian mysticism out of the Louvain classrooms, and
 made it a vital spiritual force in France. Without him there would have
 been no Pascal--no Provincial Letters, and no _Pensées_.
 
-  There is an excellent life of St Cyran by his secretary, Claude
-  Lancelot, published at Cologne in two volumes, 1738. A selection of
-  his _Lettres chrestiennes_ was edited by his disciple, Robert Arnauld
+  There is an excellent life of St Cyran by his secretary, [[Claude]]
+  [[Lancelot]], published at [[Cologne]] in two volumes, 1738. A selection of
+  his _Lettres chrestiennes_ was edited by his [[Disciple|disciple]], Robert Arnauld
   d'Andilly (Paris, 1645). An entirely different collection of _Lettres
   spirituelles_ was printed at Cologne in 1744.     (St C.)
 

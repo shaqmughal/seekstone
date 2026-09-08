@@ -4,7 +4,7 @@ CHAUMONT-EN-BASSIGNY, a town of eastern France, capital of the
 department of Haute-Marne, a railway junction 163 m. E.S.E. of Paris on
 the main line of the Eastern railway to Belfort. Pop. (1906) 12,089.
 Chaumont is picturesquely situated on an eminence between the rivers
-Marne and Suize in the angle formed by their confluence. To the west a
+[[Marne]] and Suize in the angle formed by their confluence. To the west a
 lofty viaduct over the Suize carries the railway. The church of
 St-Jean-Baptiste dates from the 13th century, the choir and lateral
 chapels belonging to the 15th and 16th. In the interior the sculptured
@@ -15,7 +15,7 @@ keep of the 11th century) is the principal relic of a château of the
 counts of Champagne; the rest of the site is occupied by the law courts.
 In the Place de l'Escargot stands a statue of the chemist Philippe Lebon
 (1767-1804), born in Haute-Marne. Chaumont is the seat of a prefect and
-of a court of assizes, and has tribunals of first instance and of
+of a court of [[Assize|assizes]], and has tribunals of first instance and of
 commerce, a lycée, training colleges, and a branch of the Bank of
 France. The main industries are glove-making and leather-dressing. The
 town has trade in grain, iron, mined in the vicinity, and leather. In

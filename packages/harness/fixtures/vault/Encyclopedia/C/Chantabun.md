@@ -16,7 +16,7 @@ taken by France as a guarantee for the execution by Siam of undertakings
 entered into by the treaty of that year. The occupation, which was
 merely military and did not affect the civil government, lasted until
 January 1905, when, in accordance with the provisions of the
-Franco-Siamese treaty of 1904, the garrison of occupation was withdrawn.
+Franco-Siamese treaty of 1904, the [[Garrison|garrison]] of occupation was withdrawn.
 Chantabun has been since the 17th century, and still is, a stronghold of
 the Roman Catholic missionaries, and the Christian element amongst the
 population is greater here than anywhere else in Siam.

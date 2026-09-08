@@ -7,9 +7,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Karr"
 
 # Karr
 
-KARR, JEAN BAPTISTE ALPHONSE (1808-1890), French critic and novelist,
+KARR, JEAN [[Baptiste|BAPTISTE]] ALPHONSE (1808-1890), French critic and novelist,
 was born in Paris, on the 24th of November 1808, and after being
-educated at the College Bourbon, became a teacher there. In 1832 he
+educated at the College [[Bourbon]], became a teacher there. In 1832 he
 published a novel, _Sous les tilleuls_, characterized by an attractive
 originality and a delightful freshness of personal sentiment. A second
 novel, _Une heure trop tard_, followed next year, and was succeeded by
@@ -24,7 +24,7 @@ journalist, became editor of _Le Figaro_, to which he had been a
 constant contributor; and he also started a monthly journal, _Les
 Guepes_, of a keenly satirical tone, a publication which brought him the
 reputation of a somewhat bitter wit. His epigrams were frequently
-quoted; e.g. "plus ca change, plus c'est la meme chose," and, on the
+quoted; e.g. "plus ca change, plus c'est la meme [[Chose|chose]]," and, on the
 proposal to abolish capital punishment, "je veux bien que messieurs les
 assassins commencent." In 1848 he founded _Le Journal_. In 1855 he went
 to live at Nice, where he indulged his predilections for floriculture,

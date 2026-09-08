@@ -1,7 +1,7 @@
 # Antananarivo
 
 ANTANANARIVO, i.e. "town of a thousand" (Fr. spelling _Tananarive_), the
-capital of Madagascar, situated centrally as regards the length of the
+capital of [[Madagascar]], situated centrally as regards the length of the
 island, but only about 90 m. distant from the eastern coast, in 18 deg.
 55' S., 47 deg. 30' E. It is 135 m. W.S.W. of Tamatave, the principal
 seaport of the island, with which it is connected by railway, and for
@@ -11,7 +11,7 @@ and slopes of a long and narrow rocky ridge, which extends north and
 south for about 2-1/2 m., dividing to the north in a Y-shape, and rising
 at its highest point to 690 ft. above the extensive rice plain to the
 west, which is itself 4060 ft. above sea-level. For long only the
-principal village of the Hova chiefs, Antananarivo advanced in
+principal village of the [[Hova]] chiefs, Antananarivo advanced in
 importance as those chiefs made themselves sovereigns of the greater
 part of Madagascar, until it became a town of some 80,000 inhabitants.
 Until 1869 all buildings within the city proper were of wood or rush,
@@ -19,7 +19,7 @@ but even then it possessed several timber palaces of considerable size,
 the largest being 120 ft. high. These crown the summit of the central
 portion of the ridge; and the largest palace, with its lofty roof and
 towers, is the most conspicuous object from every point of view. Since
-the introduction of stone and brick, the whole city has been rebuilt and
+the introduction of stone and [[Brick|brick]], the whole city has been rebuilt and
 now contains numerous structures of some architectural pretension, the
 royal palaces, the houses formerly belonging to the prime minister and
 nobles, the French residency, the Anglican and Roman Catholic

@@ -1,10 +1,10 @@
 # East Liverpool
 
 EAST LIVERPOOL, a city of Columbiana county, Ohio, U.S.A., on the Ohio
-river, about 106 m. S.E. of Cleveland. Pop. (1890) 10,956; (1900)
+river, about 106 m. S.E. of [[Cleveland]]. Pop. (1890) 10,956; (1900)
 16,485, of whom 2112 were foreign-born; (1910 census) 20,357. It is
 served by the Pennsylvania railway, by river steamboats, and by
-interurban electric lines. Next to Trenton, New Jersey, East Liverpool
+interurban electric lines. Next to Trenton, New [[Jersey]], East Liverpool
 is the most important place in the United States for the manufacture of
 earthenware and pottery, 4859 out of its 5228 wage-earners, or 92.9%,
 being employed in this industry in 1905, when $5,373,852 (83.5% of the
@@ -24,7 +24,7 @@ of pottery, terra-cotta and fireclay increased from $2,137,063 to
 $4,105,200 from 1890 to 1900, and in the latter year almost equalled
 that of Trenton, N.J., the two cities together producing more than half
 (50.9%) of the total pottery product of the United States; in 1905 East
-Liverpool and Trenton together produced 42.1% of the total value of the
+[[Liverpool]] and Trenton together produced 42.1% of the total value of the
 country's pottery product. The municipality owns and operates its
 water-works. East Liverpool was settled in 1798, and was incorporated in
 1834.

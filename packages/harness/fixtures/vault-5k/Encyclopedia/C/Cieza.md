@@ -9,11 +9,11 @@ tags: [science, literature]
 
 CIEZA, a town of south-eastern Spain, in the province of Murcia, on the
 right bank of the river Segura, and on the Madrid-Cartagena railway.
-Pop. (1900) 13,626. Cieza is built in a narrow bend of the Segura
+Pop. (1900) 13,626. Cieza is built in a narrow [[Bend|bend]] of the Segura
 valley, which is enclosed on the north by mountains, and on the south
 broadens into a fertile plain, producing grain, wine, olives, raisins,
 oranges and esparto grass. In the town itself there are flour and paper
-mills, sawmills and brandy distilleries. Between 1870 and 1900 local
+mills, sawmills and [[Brandy|brandy]] distilleries. Between 1870 and 1900 local
 trade and population increased rapidly, owing partly to improved means
 of communication; and the appearance of Cieza is thoroughly modern.
 

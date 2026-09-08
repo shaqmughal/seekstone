@@ -25,7 +25,7 @@ distinctive features are its disagreeable taste and the unpleasant
 eructations to which it may give rise, its irritant action on the
 intestine in any but small doses, its irritant action on the skin, often
 giving rise to an erythematous eruption which may be mistaken for that
-of scarlet fever, and its exceptionally marked stimulant action on the
+of scarlet [[Fever|fever]], and its exceptionally marked stimulant action on the
 kidneys. In large doses this last action may lead to renal inflammation.
 The resin is excreted in the urine and is continually mistaken for
 albumin since it is precipitated by nitric acid, but the precipitate is

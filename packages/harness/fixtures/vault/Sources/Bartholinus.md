@@ -11,7 +11,7 @@ BARTHOLINUS, GASPARD [CASPAR BERTHELSEN], (1585-1629), physician, was born
 in 1585 at Malmö, in Sweden. His precocity was extraordinary; at three
 years of age he was able to read, and in his thirteenth year he composed
 Greek and Latin orations and delivered them in public. When he was about
-eighteen he went to the university of Copenhagen and afterwards studied at
+eighteen he went to the university of [[Copenhagen]] and afterwards studied at
 Rostock and Wittenberg. He then travelled through Germany, the Netherlands,
 England, France and Italy, and was received with marked respect at the
 different universities he visited. In 1613 he was chosen professor of
@@ -31,7 +31,7 @@ the king, with a handsome salary, and librarian to the university of
 Copenhagen. He died at Hagestaed in 1680. Another son, Erasmus (1625-1698),
 born at Roskilde, spent ten years in visiting England, Holland, Germany and
 Italy, and filled the chairs of mathematics and medicine at Copenhagen. He
-discovered double refraction in Iceland spar (_Experimenta crystalli
+discovered double refraction in [[Iceland]] spar (_Experimenta crystalli
 islandici disdiaclastici_, Copenhagen, 1669). He died at Copenhagen in
 1698. In the third generation Caspar Thomeson (1655-1738), son of Thomas,
 also taught anatomy at Copenhagen, his name being associated with the

@@ -9,7 +9,7 @@ tags: [palaeontology, science]
 # As
 
 AS, the Roman unit of weight and measure, divided into 12 _unciae_
-(whence both "ounce" and "inch"); its fractions being deunx 11/12,
+(whence both "ounce" and "[[Inch|inch]]"); its fractions being deunx 11/12,
 dextrans 5/6, dodrans 3/4, bes 2/3, septunx 7/12, semis 1/2, quincunx
 5/12, triens 1/3, quadrans 1/4, sextans 1/6, sescuncia 1/8, uncia 1/12.
 _As_ really denoted any integer or whole; whence the English word "ace."
@@ -43,7 +43,7 @@ been still more reduced under Octavian, Lepidus and Antony, when its
 value was 1/3 of an ounce. Before silver coinage was introduced (269
 B.C.) the value of the _as_ was about 6d., in the time of Cicero less
 than a halfpenny. In the time of the emperor Severus it was again
-lowered to about 5/24 of an ounce. During the commonwealth and empire
+lowered to about 5/24 of an ounce. During the [[Commonwealth|commonwealth]] and empire
 _aes grave_ was used to denote the old as in contradistinction to the
 existing depreciated coin; while _aes rude_ was applied to the original
 oblong coinage of primitive times.

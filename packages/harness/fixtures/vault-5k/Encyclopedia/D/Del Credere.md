@@ -8,12 +8,12 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Del_Creder
 # Del Credere
 
 DEL CREDERE (Ital. "of belief" or "trust"). A "del credere agent," in
-English law, is one who, selling goods for his principal on credit,
+[[English Law|English law]], is one who, selling goods for his principal on [[Credit|credit]],
 undertakes for an additional commission to sell only to persons who are
 absolutely solvent. His position is thus that of a surety who is liable
 to his principal should the vendee make default. The agreement between
 him and his principal need not be reduced to or evidenced by writing,
-for his undertaking is not a guarantee within the Statute of Frauds. See
+for his undertaking is not a guarantee within the Statute of [[Fraud|Frauds]]. See
 also BROKER; GUARANTEE.
 
 ## See also

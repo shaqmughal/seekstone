@@ -16,18 +16,18 @@ him well to take part in the Romantic movement, and enabled him to
 astonish Sainte-Beuve by the phraseology and style of some literary
 essays which, when barely eighteen years old, he put into the critic's
 hands. In consequence of this introduction he at once came under the
-influence of the great Romantic _cénacle_, to which, as to Victor Hugo
+influence of the great Romantic _cénacle_, to which, as to Victor [[Hugo]]
 in particular, he was also introduced by his gifted but ill-starred
-schoolmate Gérard de Nerval. With Gérard, Petrus Borel, Corot, and many
+schoolmate Gérard de Nerval. With Gérard, Petrus [[Borel]], [[Corot]], and many
 other less known painters and poets whose personalities he has
 delightfully sketched in the articles collected under the titles of
 _Histoire du Romantisme_, &c., he formed a minor romantic clique who
 were distinguished for a time by the most extravagant eccentricity. A
-flaming crimson waistcoat and a great mass of waving hair were the
+flaming [[Crimson|crimson]] waistcoat and a great mass of waving hair were the
 outward signs which qualified Gautier for a chief rank among the
 enthusiastic devotees who attended the rehearsals of _Hernani_ with red
 tickets marked "Hierro," performed mocking dances round the bust of
-Racine, and were at all times ready to exchange word or blow with the
+Racine, and were at all times ready to [[Exchange|exchange]] word or blow with the
 _perruques_ and _grisâtres_ of the classical party. In Gautier's case
 these freaks were not inconsistent with real genius and real devotion to
 sound ideals of literature. He began (like Thackeray, to whom he
@@ -47,7 +47,7 @@ competent reader. Minor poems of various dates, published in 1840,
 display an almost unequalled command over poetical form, an advance even
 over _Albertus_ in vigour, wealth and appropriateness of diction, and
 abundance of the special poetical essence. All these good gifts reached
-their climax in the _Émaux et camées_, first published in 1856, and
+their [[Climax|climax]] in the _Émaux et [[Cam|cam]]ées_, first published in 1856, and
 again, with additions, just before the poet's death in 1872. These poems
 are in their own way such as cannot be surpassed. Gautier's poetical
 work contains in little an expression of his literary peculiarities.
@@ -59,7 +59,7 @@ has doubtless injured the popularity of his work.
 But it was not, after all, as a poet that Gautier was to achieve either
 profit or fame. For the theatre, he had but little gift, and his
 dramatic efforts (if we except certain masques or ballets in which his
-exuberant and graceful fancy came into play) are by far his weakest. It
+exuberant and graceful [[Fancy|fancy]] came into play) are by far his weakest. It
 was otherwise with his prose fiction. His first novel of any size, and
 in many respects his most remarkable work, was _Mademoiselle de Maupin_
 (1835). Unfortunately this book, while it establishes his literary
@@ -72,7 +72,7 @@ a sort of prose _Albertus_ in some ways, displays the follies of the
 youthful Romantics in a vein of humorous and at the same time
 half-pathetic satire. _Fortunio_ (1838) perhaps belongs to the same
 class. _Jettatura_, written somewhat later, is less extravagant and more
-pathetic. A crowd of minor tales display the highest literary qualities,
+pathetic. A [[Crowd|crowd]] of minor tales display the highest literary qualities,
 and rank with Mérimée's at the head of all contemporary works of the
 class. First of all must be mentioned the ghost-story of _La Morte
 amoureuse_, a gem of the most perfect workmanship. For many years
@@ -91,7 +91,7 @@ the finest instances of his literary power.
 Yet neither in poems nor in novels did the main occupation of Gautier as
 a literary man consist. He was early drawn to the more lucrative task of
 feuilleton-writing, and for more than thirty years he was among the most
-expert and successful practitioners of this art. Soon after the
+[[Expert|expert]] and successful practitioners of this art. Soon after the
 publication of _Mademoiselle de Maupin_, in which he had not been too
 polite to journalism, he became irrevocably a journalist. He was
 actually the editor of _L'Artiste_ for a time: but his chief newspaper
@@ -117,23 +117,23 @@ sketches and criticisms as in _Émaux et camées or La Morte amoureuse_.
 On the other hand, his weakness, if he had a weakness, lay in his almost
 total indifference to the matters which usually supply subjects for art
 and therefore for literature. He has thus been accused of "lack of
-ideas" by those who have not cleared their own minds of cant; and in the
+ideas" by those who have not cleared their own minds of [[Cant|cant]]; and in the
 recent set-back of the critical current against form and in favour of
 "philosophic" treatment, comment upon him has sometimes been
 unfavourable. But this injustice will, beyond all question, be redressed
 again. He was neither immoral, irreligious nor unduly subservient to
 despotism, but morals, religion and politics (to which we may add
 science and material progress) were matters of no interest to him. He
-was to all intents a humanist, as the word was understood in the 15th
+was to all [[Intent|intents]] a humanist, as the word was understood in the 15th
 century. But he was a humorist as well, and this combination, joined to
 his singularly kindly and genial nature, saved him from some dangers and
 depravations as well as some absurdities to which the humanist temper is
 exposed. As time goes on it may be predicted that, though Gautier may
 not be widely read, yet his writings will never cease to be full of
-indescribable charm and of very definite instruction to men of letters.
+indescribable [[Charm|charm]] and of very definite instruction to men of letters.
 Besides those of his works which have been already cited, we may notice
-_Une Larme du diable_ (1839), a charming mixture of humour and
-tenderness; _Les Grotesques_ (1844), a volume of early criticisms on
+_Une Larme du diable_ (1839), a charming mixture of [[Humour|humour]] and
+tenderness; _Les [[Grotesque|Grotesques]]_ (1844), a volume of early criticisms on
 some oddities of 17th-century literature; _Caprices et zigzags_ (1845),
 miscellanies dealing in part with English life; _Voyage en Espagne_
 (1845), _Constantinople_ (1854), _Voyage en Russie_ (1866), brilliant
@@ -153,11 +153,11 @@ its quietest but not least happy form.
   Mendès), issued a biography, _Théophile Gautier_, which has been often
   reprinted. With it should be compared Maxime du Camp's volume in the
   _Grands Écrivains français_ (1890) and the numerous references in the
-  _Journal des Goncourt_. Critical eulogies, from Sainte-Beuve
+  _Journal des [[Goncourt]]_. Critical eulogies, from Sainte-Beuve
   (repeatedly in the _Causeries_) and Baudelaire (two articles in _L'Art
   romantique_) downwards, are numerous. The chief of the decriers is
-  Émile Faguet in his _Études littéraires sur le XIX^e siècle_. In 1902
-  and 1903 there appeared two respectable academic _éloges_ by H. Menai
+  Émile [[Faguet]] in his _Études littéraires sur le XIX^e siècle_. In 1902
+  and 1903 there appeared two respectable academic _é[[Log|loges]]_ by H. Menai
   and H. Potez.     (G. Sa.)
 
 ## See also

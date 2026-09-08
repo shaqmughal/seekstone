@@ -16,7 +16,7 @@ crown of Norway having been separated from that of Sweden in 1905. He
 took as his motto "With the people for the Fatherland."
 
 The crown prince, Oscar Frederick William Gustavus Adolphus, duke of
-Scania (b. 1882), married in 1905 Princess Margaret of Connaught (b.
+Scania (b. 1882), married in 1905 Princess [[Margaret]] of Connaught (b.
 1882), niece of King Edward VII. A son was born to them at Stockholm on
 the 22nd of April 1906, and another son in the following year. The
 king's two younger sons were William, duke of Sudermania (b. 1884), and

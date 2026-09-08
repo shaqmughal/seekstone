@@ -6,7 +6,7 @@ an open plain a little west of a stream which flows south to the
 Sidi-el-Hani lake. Of the luxuriant gardens and olive groves mentioned
 in the early Arabic accounts of the place hardly a remnant is left.
 Kairawan, in shape an irregular oblong, is surrounded by a crenellated
-brick wall with towers and bastions and five gates. The city, however,
+[[Brick|brick]] wall with towers and [[Bastion|bastions]] and five gates. The city, however,
 spreads beyond the walls, chiefly to the south and west. Some of the
 finest treasures of Saracenic art in Tunisia are in Kairawan; but the
 city suffered greatly from the vulgarization which followed the Turkish
@@ -21,22 +21,22 @@ is granted.
 In the northern quarter stands the great mosque founded by Sidi Okba ibn
 Nafi, and containing his shrine and the tombs of many rulers of Tunisia.
 To the outside it presents a heavy buttressed wall, with little of
-either grandeur or grace. It consists of three parts: a cloistered
+either grandeur or [[Grace|grace]]. It consists of three parts: a cloistered
 court, from which rises the massive and stately minaret, the maksura or
 mosque proper, and the vestibule. The maksura is a rectangular domed
-chamber divided by 296 marble and porphyry columns into 17 aisles, each
-aisle having 8 arches. The central aisle is wider than the others, the
+chamber divided by 296 [[Marble|marble]] and porphyry columns into 17 aisles, each
+aisle having 8 [[Arches|arches]]. The central aisle is wider than the others, the
 columns being arranged by threes. All the columns are Roman or
 Byzantine, and are the spoil of many ancient cities. Access to the
 central aisle is gained through a door of sculptured wood known as the
 Beautiful Gate. It has an inscription with the record of its
 construction. The walls are of painted plaster-work; the mimbar or
 pulpit is of carved wood, each panel bearing a different design. The
-court is surrounded by a double arcade with coupled columns. In all the
+court is surrounded by a double [[Arcade|arcade]] with coupled columns. In all the
 mosque contains 439 columns, including two of alabaster given by one of
 the Byzantine emperors. To the Mahommedan mind the crowning distinction
 of the building is that through divine inspiration the founder was
-enabled to set it absolutely true to Mecca. The mosque of Sidi Okba is
+enabled to set it absolutely true to [[Mecca]]. The mosque of Sidi Okba is
 the prototype of many other notable mosques (see MOSQUE). Of greater
 external beauty than that of Sidi Okba is the mosque of the Three Gates.
 Cufic inscriptions on the facade record its erection in the 9th and its
@@ -46,24 +46,24 @@ of Moorish architecture in Kairawan is the _zawia_ of Sidi
 Abid-el-Ghariani (d. c. A.D. 1400), one of the Almoravides, in whose
 family is the hereditary governorship of the city. The entrance, a door
 in a false arcade of black and white marble, leads into a court whose
-arches support an upper colonnade. The town contains many other notable
+arches support an upper [[Colonnade|colonnade]]. The town contains many other notable
 buildings, but none of such importance as the mosque of the Companion
 (i.e. of the Prophet), outside the walls to the N.W. This mosque is
 specially sacred as possessing what are said to be three hairs of the
 Prophet's beard, buried with the saint, who was one of the companions
 of Mahomet. (This legend gave rise to the report that the tomb contained
-the remains of Mahomet's barber.) The mosque consists of several courts
+the remains of Mahomet's [[Barber|barber]].) The mosque consists of several courts
 and chambers, and contains some beautiful stained glass. The court which
 forms the entrance to the shrine of the saint is richly adorned with
 tiles and plaster-work, and is surrounded by an arcade of white marble
 columns, supporting a painted wooden roof. The minaret is faced with
-tiles and is surmounted by a gilded crescent. The 19th-century mosque of
+tiles and is surmounted by a gilded [[Crescent|crescent]]. The 19th-century mosque of
 Sidi Amar Abada, also outside the wall, is in the form of a cross and is
-crowned with seven cupolas. In the suburbs are huge cisterns, attributed
+crowned with seven [[Cupola|cupolas]]. In the suburbs are huge cisterns, attributed
 to the 9th century, which still supply the city with water. The cemetery
 covers a large area and has thousands of Cufic and Arabic inscriptions.
 
-Formerly famous for its carpets and its oil of roses, Kairawan is now
+Formerly famous for its [[Carpet|carpets]] and its oil of roses, Kairawan is now
 known in northern Africa rather for copper vessels, articles in morocco
 leather, potash and saltpetre. The town has a population of about
 20,000, including a few hundred Europeans.
@@ -74,7 +74,7 @@ leather, potash and saltpetre. The town has a population of about
   according to Tabari it must have been before 670. The legend says that
   Okba determined to found a city which should be a rallying-point for
   the followers of Mahomet in Africa. He led his companions into the
-  desert, and having exhorted the serpents and wild beasts, in the name
+  [[Desert|desert]], and having exhorted the serpents and wild beasts, in the name
   of the Prophet, to retire, he struck his spear into the ground
   exclaiming "Here is your Kairawan" (resting-place), so naming the
   city.[1] In the 8th century Kairawan was the capital of the province

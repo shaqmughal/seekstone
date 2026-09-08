@@ -9,7 +9,7 @@ debauchery and excess. He also celebrated the _ludi Romani_ on a scale
 of unexampled magnificence. After the death of Carus, the army in the
 East demanded to be led back to Europe, and Numerianus, the younger son
 of Carus, was forced to comply. During a halt at Chalcedon, Numerianus
-was murdered, and Diocletian, commander of the body-guards, was
+was murdered, and [[Diocletian]], [[Commander|commander]] of the body-guards, was
 proclaimed emperor by the soldiers. Carinus at once left Rome and set
 out for the East to meet Diocletian. On his way through Pannonia he put
 down the usurper M. Aurelius Julianus, and encountered the army of

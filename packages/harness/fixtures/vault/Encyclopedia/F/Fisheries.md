@@ -7,7 +7,7 @@ hooks and more elaborate apparatus, and a historical description of the
 methods and appliances that have been used would comprise a considerable
 portion of a treatise on the history of man. For the most part the
 operations of fishing have been comparable with those of primitive
-hunting rather than with agriculture; they have taken the least possible
+[[Hunting|hunting]] rather than with agriculture; they have taken the least possible
 account of considerations affecting the supply; when one locality has
 been fished out, another has been resorted to. The increasing pressure
 on every source of food, and the enormous improvements in the catching
@@ -22,7 +22,7 @@ The figures are only approximate and are based on the expenditure for
 1907. In the case of England and Wales the expenditure is not complete,
 as under the Sea Fisheries Regulation Act of 1888 the whole of the coast
 of England and Wales could be placed under local fisheries committees
-with power to levy rates for fishery purposes, and in a certain number
+with power to [[Levy|levy]] rates for [[Fishery|fishery]] purposes, and in a certain number
 of districts advantage has been taken of this act. But even with this
 addition, British expenditure on fisheries is less than that undertaken
 by most of the countries of northern Europe, although British fisheries
@@ -32,7 +32,7 @@ are much more valuable than those of all the rest of Europe together.
   _Administration of Fisheries._
 
   +--------------------------------+---------------+------------+------------+--------------+------------+---------------+
-  |                                |    Norway.    |   Sweden.  |  Denmark.  |   Germany.   |  Holland.  |  Belgium.     |
+  |                                |    Norway.    |   Sweden.  |  [[Denmark]].  |   Germany.   |  Holland.  |  [[Belgium]].     |
   +--------------------------------+---------------+------------+------------+--------------+------------+---------------+
   |Department of State             |Trade and      |Agriculture.|Agriculture.|Imperial De-  |Agriculture.|Agriculture and|
   |                                |  Industry and |            |            |  partment of |            |  Woods and    |
@@ -47,7 +47,7 @@ are much more valuable than those of all the rest of Europe together.
   |                                |   Canada.  |   U.S. America.   |  England and  |   Scotland.   |    Ireland.    |
   |                                |            |                   |     Wales.    |               |                |
   +--------------------------------+------------+-------------------+---------------+---------------+----------------+
-  |Department of State             |Marine and  |Bureau of Fisheries|Agriculture and|Fishery Board. |Agriculture and |
+  |Department of State             |Marine and  |[[Bureau]] of Fisheries|Agriculture and|Fishery Board. |Agriculture and |
   |                                |  Fisheries.|  under Commerce   |  Fisheries.   |               |  Technical     |
   |                                |            |  and Labour.      |               |               |  Instruction.  |
   |Approximate Annual Expenditure--|            |                   |               |               |
@@ -69,7 +69,7 @@ alternate seasons of the year now devote their energies almost entirely
 to the herring fishery, which they pursue in nomad fleets around all the
 coasts of Great Britain. The East Anglian drifters carry on their
 operations at different seasons of the year from Shetland in the north
-(for herrings) to Newlyn in the west (for mackerel). In Scotland the
+(for [[Herrings|herrings]]) to Newlyn in the west (for [[Mackerel|mackerel]]). In Scotland the
 value of the nets employed on steam drifters has increased from £3000 in
 1899 to £61,000 in 1906, and the average annual catch of herrings has
 increased from about four to about five million cwts. during the past
@@ -78,14 +78,14 @@ total of two million cwts. for the first time in 1899, has exceeded
 three millions in each year from 1902 to 1905.
 
 In steam trawling also great enterprise has been shown. In 1906 Messrs
-Hellyer of Hull launched a new steam trawling fleet of 50 vessels for
+Hellyer of [[Hull]] launched a new steam trawling fleet of 50 vessels for
 working the North Sea grounds, and the delivery of new steam trawlers at
-Grimsby was greater than at any previous period, these vessels being
+[[Grimsby]] was greater than at any previous period, these vessels being
 designed more especially to exploit the distant fishing grounds, the
 range of which has been extended from Morocco to the White Sea. About
 100 vessels were added to the Grimsby fleet in the course of twelve
 months. These new vessels measure about 140 ft. in length and over 20
-ft. in beam, and exceed 250 tons gross tonnage, the accommodation both
+ft. in beam, and exceed 250 tons [[Gross|gross]] tonnage, the accommodation both
 for fish and crews being considerably in excess of that provided in
 vessels of this class hitherto.
 
@@ -115,7 +115,7 @@ in 1906.
 The relative magnitude of British fisheries may best be gauged by a
 comparison with the proceeds of the chief fisheries of other European
 countries. The following table is based upon official returns and mainly
-derived from the _Bulletin Statistique_ of the International Council for
+derived from the _Bulletin Statistique_ of the [[International]] Council for
 the Study of the Sea. It represents in pounds sterling the value of the
 produce of the various national fisheries during the year 1904, except
 in the case of France, for which country the latest available figures
@@ -124,7 +124,7 @@ are those for 1902.
   _Values in Thousands of £._
 
   +---------------+--------+-------+-------+-------+-----------+
-  |               |Herring.| Cod.  |Plaice.| Other |   Total.  |
+  |               |Herring.| [[Cod]].  |Plaice.| Other |   Total.  |
   |               |        |       |       | Fish. |           |
   +---------------+--------+-------+-------+-------+-----------+
   | British Isles | 1870   |1015   |1100   |5496   | 9,481,000 |
@@ -155,7 +155,7 @@ value in 1900, and of more than £3,000,000 as compared with 1895 (cf.
 Table I. at end).
 
 In England and Wales the trawl fisheries for cod, haddock, and flat fish
-yielded about three-quarters of the total, and the drift fisheries for
+yielded about three-quarters of the total, and the [[Drift|drift]] fisheries for
 herring and mackerel nearly the whole of the remaining quarter. The line
 fisheries in England and Wales are now relatively insignificant and
 yield only about one-fortieth of the total (cf. Table VIII. at end).
@@ -187,11 +187,11 @@ one-eighth (cf. Table X.).
   +-------------------------+----------+----------+----------+----------+----------+
 
 In Ireland the mackerel and herring fisheries provide nearly
-three-quarters of the total yield, the mackerel forming the chief item
+three-quarters of the total yield, the mackerel forming the chief [[Item|item]]
 in the south and west, and the herring on the north and east coasts.
 The remaining quarter is mainly derived from the trawl fisheries, the
-headquarters of which are at Dublin, Howth and Balbriggan on the east,
-and at Galway and Dingle on the west coast.
+headquarters of which are at Dublin, Howth and [[Balbriggan]] on the east,
+and at Galway and [[Dingle]] on the west coast.
 
 The value of the fishing boats and gear employed in the Scottish
 fisheries during 1905 is returned as nearly £4,120,000. Upon a moderate
@@ -202,7 +202,7 @@ The relative yield and value of the various fisheries on the separate
 coasts of the British Isles is illustrated in the table of landings from
 the latest data available.
 
-From these figures it is manifest that the yield and value of the east
+From these figures it is [[Manifest|manifest]] that the yield and value of the east
 coast fisheries of England and Scotland preponderate enormously over
 those of the western coasts, whether attention be paid to the drift-net
 fisheries for surface fish or to the fisheries for bottom fish with
@@ -220,7 +220,7 @@ fishing grounds in distant waters, and not by any increase, natural or
 artificial, in the productivity of the home waters,--unless perhaps the
 abundance of herrings is to be ascribed to the destruction of their
 enemies by trawling. British fisheries are still pursued as a form of
-hunting rather than of husbandry. In 1892 the Iceland and Bay of Biscay
+hunting rather than of husbandry. In 1892 the [[Iceland]] and Bay of [[Biscay]]
 trawling banks were discovered, in 1898 the Faroe banks, in 1905 rich
 plaice grounds in the White Sea. In 1905 one-half of the cod and a
 quarter of the haddock and plaice landed at east coast ports of England
@@ -242,7 +242,7 @@ and beyond the North Sea respectively._
 
 The statistics of the English Board of Agriculture and Fisheries have
 distinguished since 1903 between the catch of fish within and beyond the
-North Sea, and between the catch of trawlers and liners. Neglecting the
+North Sea, and between the catch of trawlers and [[Liner|liners]]. Neglecting the
 catch of the liners as relatively insignificant, and of the sailing
 trawlers as relatively small and practically constant during the three
 years in question, we see from the board's figures (see table above)
@@ -252,7 +252,7 @@ before, amounting to a gross decrease of more than 25% in 1905 as
 compared with 1903, and, in relation to the catching power employed, to
 an average decrease of 2½ cwt. per boat per diem. This decrease may be
 largely explained by the occurrence in 1903 of one of those periodic
-"floods" of small cod and haddock which take place in the North Sea from
+"[[Flood|floods]]" of small cod and haddock which take place in the North Sea from
 time to time; but the steady decline in the number of North Sea voyages
 by English steam trawlers--from 29,300 in 1903 to 26,700 in
 1905--affords a clear indication of the fact that many of our trawling
@@ -298,7 +298,7 @@ England were commissioned to carry out the work at sea allotted to Great
 Britain, and the English fishery department was equipped soon afterwards
 with the means for collecting more adequate statistics.
 
-Trawling investigations and the quantitative collection of fish eggs
+Trawling investigations and the quantitative collection of fish [[Egg|eggs]]
 have located important spawning grounds of cod, haddock, plaice, sole,
 eel, &c.; marking experiments with cod, plaice and eel have thrown much
 light upon the migrations of these fishes; and the rate of growth of
@@ -310,7 +310,7 @@ It seems probable that the impoverishment of the stock of plaice on the
 central grounds of the North Sea is mainly attributable to the excessive
 rate of capture of plaice during their annual off-shore migrations from
 the coast. On the other hand, it has been shown that the growth-rate of
-plaice on the Dogger Bank is constantly and markedly greater (five- or
+plaice on the [[Dogger Bank]] is constantly and markedly greater (five- or
 six-fold in weight) than on the coastal grounds where these fish are
 reared,--facts which open up the possibility of increasing the permanent
 supply of plaice from the North Sea by the adoption of some plan of
@@ -322,14 +322,14 @@ which have been taken for the attainment of scientific and statistical
 information in relation thereto.
 
 In 1860 a royal commission, consisting of Professor Huxley, Mr
-(afterwards Sir) John Caird, and Mr G. Shaw-Lefevre (afterwards Lord
+(afterwards Sir) John [[Caird]], and Mr G. Shaw-Lefevre (afterwards Lord
 Eversley), was appointed to inquire into the condition of the British
 sea-fisheries, the harmfulness or otherwise of existing methods of
 fishing, and the necessity or otherwise of the existing legislation. The
 important report of this commission, issued in 1866, embodied the
 following main conclusions and recommendations:--(1) the total supply of
 fish obtained upon the British coasts is increasing and admits of
-further augmentation; (2) beam-trawling in the open sea is not a
+further [[Augmentation|augmentation]]; (2) beam-trawling in the open sea is not a
 wastefully destructive mode of fishing; (3) all acts of parliament which
 profess to regulate or restrict the modes of fishing pursued in the open
 sea should be repealed and "unrestricted freedom of fishing be
@@ -369,7 +369,7 @@ summarized at the end of ten years' closure in the board's report for
 in the abundance of food-fishes generally, either in the closed or open
 waters of the Firth of Forth or St Andrews Bay," as a consequence of the
 prohibition of trawling. Nevertheless, among flat fishes, plaice and
-lemon soles, which spawn off-shore, were reported to have decreased in
+[[Lemon|lemon]] soles, which spawn off-shore, were reported to have decreased in
 numbers in all the areas investigated, whether closed or open, while
 dabs and long rough dabs showed a preponderating, if not quite
 universal, increase.
@@ -382,14 +382,14 @@ protection of in-shore areas alone is insufficient to check the
 impoverishment caused by over-fishing off-shore. (For critical
 examinations of Dr Fulton's account see M'Intosh, _Resources of the
 Sea_, London, 1889; Garstang, "The Impoverishment of the Sea," _Journ.
-Mar. Biol. Ass._ vol. vi., 1900; and Archer, _Report of Ichthyological
+Mar. Biol. Ass._ vol. vi., 1900; and [[Archer]], _Report of Ichthyological
 Committee_, Cd. 1312, 1902.)
 
 A laboratory and sea-fish hatchery were subsequently established by the
 board at Dunbar in 1893, but removed to Aberdeen in 1900.
 
 In 1883 a royal commission, under the chairmanship of the late earl of
-Dalhousie, was appointed to inquire into complaints against the practice
+[[Dalhousie]], was appointed to inquire into complaints against the practice
 of beam-trawling on the part of line and drift-net fishermen. A small
 sum of money (£200) was granted to the commission for the purpose of
 scientific trawling experiments, which were carried out by Professor
@@ -432,7 +432,7 @@ Under bye-laws of these committees steam-trawling has been prohibited in
 nearly all the territorial waters of England and Wales, and trawling by
 smaller boats has been placed under a variety of restrictions. Local
 scientific investigations have been initiated under several of the
-committees, especially in Lancashire by Professor Herdman of Liverpool
+committees, especially in Lancashire by Professor Herdman of [[Liverpool]]
 and his assistants.
 
 In 1890 an important survey of the fishing grounds off the west coast of
@@ -455,7 +455,7 @@ deference to the wishes of the local line-fishermen, the decadence of
 whose industry--from economic causes which have been alluded to
 above--is manifest from the figures in Table X. below. The controversy
 has had the effect of causing the transference of a number of English
-trawlers to foreign flags, especially the Norwegian.
+trawlers to foreign [[Flag|flags]], especially the Norwegian.
 
   _Statistics._--The following tables summarize the official statistics
   of fish landed on the coasts of England and Wales, Scotland and
@@ -509,7 +509,7 @@ trawlers to foreign flags, especially the Norwegian.
   |     |            Quantity               |       Average Price (per Cwt.).      |
   |Year.|      (in Thousands of Cwt.).      |                                      |
   |     +----+--------+-----+-----+---------+-----+--------+------+------+---------+
-  |     |Cod.|Haddock.|Hake.|Ling.|Sundries.| Cod.|Haddock.| Hake.| Ling.|Sundries.|
+  |     |Cod.|Haddock.|[[Hake]].|[[Ling]].|Sundries.| Cod.|Haddock.| Hake.| Ling.|Sundries.|
   +-----+----+--------+-----+-----+---------+-----+--------+------+------+---------+
   |     |    |        |     |     |         |s. d.|  s. d. | s. d.| s. d.| s. d.   |
   | 1890| 363|  1585  | ..  |  96 |  1151   |13 10|  9  7  |  ..  | 14  3| 14  0   |
@@ -546,7 +546,7 @@ trawlers to foreign flags, especially the Norwegian.
   |Year.|   Thousands.   | Mills. |Thousands|       Per Hundred.      | Per Cwt.|
   |     |                |        | of Cwt. |                         |         |
   |     +----------------+--------+---------+------+---------+--------+---------+
-  |     |Crabs.|Lobsters.|Oysters.|Sundries.|Crabs.|Lobsters.|Oysters.|Sundries.|
+  |     |[[Crab|Crabs]].|Lobsters.|Oysters.|Sundries.|Crabs.|Lobsters.|Oysters.|Sundries.|
   +-----+----------------+--------+---------+------+---------+--------+---------+
   |     |      |         |        |         | £. s.|  £. s.  |  s. d. |  s. d.  |
   |1890 | 4808 |   922   |  47.6  |   505   | 1  4 |  4  18  |  6  1  |  5   0  |
@@ -563,7 +563,7 @@ trawlers to foreign flags, especially the Norwegian.
   |     |                       In Thousands of Cwt.                           |  Cwt.  |         Number          |
   |     |                                                                      |        |       (Thousands).      |
   |Year.+--------+-----+----------+--------+----+-----+--------+--------+------+--------+------+---------+--------+
-  |     |        |     | Flounder,|        |    |     |        |        |      |        |      |         |        |
+  |     |        |     | [[Flounder]],|        |    |     |        |        |      |        |      |         |        |
   |     |Herring.|Lemon|  Plaice, |Halibut.|Cod.|Ling.|Haddock.|Whiting.|Skate.|Mussels.|Crabs.|Lobsters.|Oysters.|
   |     |        |Sole.|and Brill.|        |    |     |        |        |      |        |      |         |        |
   +-----+--------+-----+----------+--------+----+-----+--------+--------+------+--------+------+---------+--------+
@@ -594,7 +594,7 @@ trawlers to foreign flags, especially the Norwegian.
 
 
   TABLE VIII.--_Classified List of British Fishing Boats on the Register
-  for 1905, omitting 2nd Class Steamers and Vessels under 18 Ft. Keel or
+  for 1905, omitting 2nd Class Steamers and Vessels under 18 Ft. [[Keel]] or
   Navigated by Oars only and Vessels unemployed._
 
   +----------+-------------------------+-------------------------+-------------------------+
@@ -675,7 +675,7 @@ of the government departments with means for undertaking the necessary
 scientific investigations.
 
 In 1901 an international conference of representatives of all the
-countries bordering upon the North and Baltic Seas met at Christiania to
+countries bordering upon the North and [[Baltic Sea|Baltic Seas]] met at [[Christiania]] to
 revise proposals which had been drafted at Stockholm in 1899 for a
 scientific exploration of these waters in the interest of the fisheries,
 to be undertaken concurrently by all the participating countries. The
@@ -696,13 +696,13 @@ In 1901 the Board of Trade appointed a committee (the Committee on
 Ichthyological Research) to inquire and report as to the best means by
 which scientific fishery research could be organized and assisted in
 relation to the state or local authorities. The committee consisted of
-Sir Herbert Maxwell, M.P. (chairman), Mr W.F. Archer, Mr Donald
+Sir Herbert [[Maxwell]], M.P. (chairman), Mr W.F. Archer, Mr Donald
 Crawford, Rev. W.S. Green, Professor W.A. Herdman, Hon. T.H.W. Pelham,
 Mr S.E. Spring Rice and Professor J.A. Thomson. Sir Herbert Maxwell
 resigned his chairmanship before the report was drawn up (September
 1902), and was succeeded by Sir Colin Scott-Moncrieff. The committee
 recommended the provision of more complete statistics; the provision and
-maintenance of five special steamers (where not already existing) to
+[[Maintenance|maintenance]] of five special steamers (where not already existing) to
 work in connexion with as many marine laboratories, viz. one for each of
 the three coasts of England and Wales, and one each for Scotland and
 Ireland; the provision of three biological assistants at each
@@ -719,14 +719,14 @@ In 1907 a departmental treasury committee was appointed to inquire into
 the scientific and statistical investigations carried on in relation to
 the fishing industry of the United Kingdom. The committee consisted of
 Mr H.J. Tennant, M.P. (chairman), Lord Nunburnholme, Sir Reginald
-MacLeod, Mr N.W. Helms, M.P., Mr A. Williamson, M.P., Dr P. Chalmers
+MacLeod, Mr N.W. Helms, M.P., Mr A. Williamson, M.P., Dr P. [[Chalmers]]
 Mitchell, F.R.S., Mr J.S. Gardiner, F.R.S., the Rev. W.S. Green, Mr R.H.
 Rew and Mr L.S. Hewby. This committee reviewed the work that had already
 been done and urged its continuation and extension under the direction
 of a central council composed of representatives of the government
 departments concerned with fishery matters in England, Scotland and
 Ireland, with a scientific chairman and director, and further insisted
-on the need of international co-operation in the investigations.
+on the need of international [[Co-Operation|co-operation]] in the investigations.
 
 _United States Fisheries._--The administration of the fisheries of the
 United States of America is under the control of the several coastal
@@ -745,7 +745,7 @@ at American ports, but as the following recent table shows, it is much
 less than that taken from American waters.
 
 
-_Quantities and Values of Fish landed by American Vessels at Boston and
+_Quantities and Values of Fish landed by American Vessels at [[Boston]] and
 Gloucester, Mass., in 1905._
 
   +------------------------------------------+--------------+----------+
@@ -781,7 +781,7 @@ countries in the world. The most notable feature of this fishery is that
 nearly half the total yield now comes from cultivated grounds, so that
 the business is being placed on a secure basis. Virginia has now taken
 the first rank as an oyster-producing state, oyster farming being now
-highly developed with an annual yield of nearly nine million bushels.
+highly developed with an annual yield of nearly nine million [[Bushel|bushels]].
 
 The high-sea fisheries for cod, haddock, hake, halibut, mackerel,
 herring, and so forth are on the whole not increasing in prosperity, the
@@ -794,7 +794,7 @@ is evidence of useful results coming from the extensive cultural
 operations now being carried out.
 
 The whale fishery, at one time the leading fishing industry of the
-country, is now conducted chiefly in the North Pacific and Arctic
+country, is now conducted chiefly in the North Pacific and [[Arctic]]
 oceans, but is decaying, being now expensive, uncertain and often
 unremunerative. The annual value of the take is now under £200,000.
 
@@ -808,7 +808,7 @@ the Great Lakes yield about £600,000 annually.     (W. Ga.; P. C. M.)
 
 FOOTNOTES:
 
-  [1] For fisheries in the cases of CORAL, OYSTER, PEARL, SALMON,
+  [1] For fisheries in the cases of [[Coral|CORAL]], OYSTER, PEARL, SALMON,
     SPONGES and WHALE, see these articles; for fishing as a sport see
     ANGLING.
 
@@ -817,7 +817,7 @@ FOOTNOTES:
   [3] Including the Newfoundland fishery.
 
   [4] Excluding the voyages of the fleeting trawlers which supply
-    London by means of carriers.
+    London by means of [[Carrier|carriers]].
 
 ## References
 

@@ -13,7 +13,7 @@ entertainments lasting for ten days, and especially invite European
 officials to the festivities, which include horse-racing, athletic
 contests, and banquets.
 
-  See J.A. Dubois, _Hindu Manners, Customs and Ceremonies_, p. 577.
+  See J.A. [[Dubois]], _Hindu [[Manners]], Customs and Ceremonies_, p. 577.
 
 ## See also
 

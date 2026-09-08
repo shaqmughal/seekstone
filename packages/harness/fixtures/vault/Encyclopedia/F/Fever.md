@@ -7,7 +7,7 @@ tags: [meteorology, buddhism]
 
 # Fever
 
-FEVER (Lat. _febris_, connected with _fervere_, to burn), a term
+FEVER (Lat. _febris_, connected with _fervere_, to [[Burn|burn]]), a term
 generally used to include all conditions in which the normal temperature
 of the animal body is markedly exceeded for any length of time. When the
 temperature reaches as high a point as 106° F. the term hyperpyrexia
@@ -37,16 +37,16 @@ with the nervous system rarely occurs, but it can readily be produced in
 the lower animals by stimulating certain parts of the great brain, e.g.
 the anterior portion of the corpus striatum. This leads to a rise of
 temperature with increased heat production. The high temperature seems
-to cause disintegration of cell protoplasm and increased excretion of
+to cause disintegration of cell protoplasm and increased [[Excretion|excretion]] of
 nitrogen and of carbonic acid. Possibly some of the cases of high
 temperature recorded after injuries to the nervous system may be caused
 in this way; but some may also be due to stimulation of vaso-constrictor
-fibres to the cutaneous vessels diminishing heat elimination. So far the
+[[Fibres|fibres]] to the cutaneous vessels diminishing heat elimination. So far the
 pathology of this condition has not been studied with the same care that
 has been devoted to the investigation of the third type of fever.
 
 2. Fever may readily be produced by _interference with heat
-elimination_. This has been done by submitting dogs to a temperature
+elimination_. This has been done by submitting [[Dogs|dogs]] to a temperature
 slightly below that of the rectum, and it is seen in man in _Sunstroke_.
 The typical nervous symptoms of fever are thus produced, and the rate of
 chemical change in the tissues is accelerated, as is shown by the
@@ -61,10 +61,10 @@ this is by no means a necessary accompaniment, its occurrence is so
 general that the term _Fever_ has been applied to the general reaction
 of the organism to the microbial poison. Toxins which cause a marked
 rise of temperature in men may cause a fall in other animals. It is not
-the alteration of temperature which is the great index of the severity
+the alteration of temperature which is the great [[Index|index]] of the severity
 of the struggle between the host and the parasite, but the death and
 removal to a greater or lesser extent of the protoplasm of the host. In
-this respect fever resembles poisoning with phosphorus and arsenic and
+this respect fever resembles poisoning with phosphorus and [[Arsenic|arsenic]] and
 other similar substances. The true measure of the intensity of a fever
 is the extent of disintegration of protoplasm, and this may be estimated
 by the amount of nitrogen excreted in the urine. The increased
@@ -83,9 +83,9 @@ of the microbial products. In the beginning of a fever the activity of
 the metabolism is not increased to any marked extent, and any increase
 is necessarily largely due to the greater activity of the muscles of the
 heart and respiratory mechanism, and to the muscular contractions which
-produce the initial rigors. Thus the excretion of carbon dioxide--the
+produce the initial rigors. Thus the excretion of [[Carbon|carbon]] dioxide--the
 great measure of the _activity of metabolism_--is not usually increased,
-and there is no evidence of an increased combustion. In the later stages
+and there is no evidence of an increased [[Combustion|combustion]]. In the later stages
 the increased temperature may bring about an acceleration in the rate of
 chemical change; but this is comparatively slight, less in fact than the
 increase observed on taking muscular exercise after rest. The _rise of
@@ -103,7 +103,7 @@ appetite is lost. Food is therefore not taken, although when taken it
 appears to be absorbed in undiminished quantities. As a result of this
 the patient suffers from inanition, and lives largely on his own fats
 and proteids, and for this reason rapidly emaciates. The functions of
-the _liver_ are also diminished in activity. Glycogen is not stored in
+the _[[Liver|liver]]_ are also diminished in activity. Glycogen is not stored in
 the cells, and the bile secretion is modified, the essential
 constituents disappearing almost entirely in some cases. The production
 of urea is also interfered with, and the proportion of nitrogen in the
@@ -133,7 +133,7 @@ sometimes more than tenfold, while it is altogether absent in enteric
 fever.
 
 An interesting general modification in the metabolism is the enormous
-fall in the excretion of chlorine, a fall far in excess of what could be
+fall in the excretion of [[Chlorine|chlorine]], a fall far in excess of what could be
 accounted for by inanition, and out of all proportion to the fall in the
 sodium and potassium with which the chlorine is usually combined in the
 urine. The fevered animal in fact stores chlorine in its tissues, though
@@ -143,7 +143,7 @@ in what manner and for what reason is not at present known.
   (Berlin, 1893); _Metabolism and Practical Medicine_, vol. ii., article
   "Fever" by F. Kraus (1907); Dr A. Rabe, _Die modernen Fiebertheorien_
   (Berlin, 1894); Dr G.B. Ughetti, _Das Fieber_, trans. by Dr R.
-  Teuscher (Jena, 1895); Dr M. Lövit, "Die Lehre von Fieber,"
+  Teuscher ([[Jena]], 1895); Dr M. Lövit, "Die Lehre von Fieber,"
   _Vorlesungen über allgemeine Pathologie_, erstes Heft (Jena, 1897);
   Louis Guinon, "De la fièvre," in Bouchard's _Traité de pathologie
   générale_, t. iii. 2nd partie (Paris, 1899); Sir J.B. Sanderson, "The

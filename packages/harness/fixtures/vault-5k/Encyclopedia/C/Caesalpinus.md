@@ -17,7 +17,7 @@ generic names to nearly every species, and particularly indicated the two
 remarkable passages where the germination of plants and their sexual
 distinctions are explained. Caesalpinus was also distinguished as a
 physiologist, and it has been claimed that he had a clear idea of the
-circulation of the blood (see HARVEY, WILLIAM). His other works include
+circulation of the blood (see [[Harvey|HARVEY]], WILLIAM). His other works include
 _Daemonum investigatio peripatetica_ (1580), _Quaestionum medicarum libri
 ii._ (1593), _De Metallicis_ (1596), and _Quaestionum peripateticarum libri
 v._ (1571)

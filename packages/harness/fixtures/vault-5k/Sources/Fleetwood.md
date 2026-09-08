@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Fleetwood"
 
 FLEETWOOD, CHARLES (d. 1692), English soldier and politician, third son
 of Sir Miles Fleetwood of Aldwinkle, Northamptonshire, and of Anne,
-daughter of Nicholas Luke of Woodend, Bedfordshire, was admitted into
+daughter of Nicholas [[Luke]] of Woodend, Bedfordshire, was admitted into
 Gray's Inn on the 30th of November 1638. At the beginning of the Great
 Rebellion, like many other young lawyers who afterwards distinguished
 themselves in the field, he joined Essex's life-guard, was wounded at
@@ -41,7 +41,7 @@ supported his assumption of the protectorate and his dismissal of the
 parliaments. In December 1654 he became a member of the council, and
 after his return to England in 1655 was appointed one of the
 major-generals. He approved of the "Petition and Advice," only objecting
-to the conferring of the title of king on Cromwell, became a member of
+to the conferring of the title of king on [[Cromwell]], became a member of
 the new House of Lords; and supported ardently Cromwell's foreign policy
 in Europe, based on religious divisions, and his defence of the
 Protestants persecuted abroad. He was therefore, on Cromwell's death,
@@ -57,7 +57,7 @@ safety and of the council of state, and one of the seven commissioners
 for the army, while on the 9th of June he was nominated
 commander-in-chief. In reality, however, his power was undermined and
 was attacked by parliament, which on the 11th of October declared his
-commission void. The next day he assisted Lambert in his expulsion of
+commission void. The next day he assisted [[Lambert]] in his expulsion of
 the parliament and was reappointed commander-in-chief. On Monk's
 approach from the North, he stayed in London and maintained order. While
 hesitating with which party to ally his forces, and while on the point
@@ -72,7 +72,7 @@ till the 4th of October 1692.
 
 FOOTNOTE:
 
-  [1] He had lost his first wife, Frances Smith; and later he had a
+  [1] He had lost his first wife, [[Franc|Frances]] Smith; and later he had a
     third wife, Mary, daughter of Sir John Coke and widow of Sir Edward
     Hartopp.
 

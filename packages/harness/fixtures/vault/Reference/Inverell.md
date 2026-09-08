@@ -1,6 +1,6 @@
 # Inverell
 
-INVERELL, a town of Gough county, New South Wales, Australia, on the
+INVERELL, a town of Gough county, New South Wales, [[Australia]], on the
 Macintyre river, 341 m. N. of Sydney, with which it is connected by
 rail. Pop. (1901) 3293. It is the centre of a prosperous agricultural
 district producing, chiefly, wheat and maize; the vine is also largely

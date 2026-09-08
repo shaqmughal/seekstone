@@ -9,7 +9,7 @@ tags: [science, classics-theory]
 # Attempt
 
 ATTEMPT (Lat. _adtemptare, attentare_, to try), in law, an act done with
-intent to commit a crime, and forming one of a series of acts which
+[[Intent|intent]] to commit a crime, and forming one of a series of acts which
 would constitute its actual commission if it were not interrupted. An
 attempt must proceed beyond mere preparation, but at the same time it
 must fall short of the ultimate purpose in any part of it. The actual

@@ -11,7 +11,7 @@ handbook (c. 1340) gives "bazarra" as a Genoese word for market-place.
 The Malayan peoples have adopted the word as _pazar_. The meaning of the
 word has been much extended in English, where it is now equivalent to
 any sale, for charitable or mere commercial purposes, of mixed goods and
-fancy work.
+[[Fancy|fancy]] work.
 
 ## See also
 

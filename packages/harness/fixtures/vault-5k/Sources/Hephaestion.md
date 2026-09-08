@@ -1,7 +1,7 @@
 # Hephaestion
 
 HEPHAESTION, a grammarian of Alexandria, who flourished in the age of
-the Antonines. He was the author of a manual (abridged from a larger
+the Antonines. He was the author of a [[Manual|manual]] (abridged from a larger
 work in 48 books) of Greek metres ([Greek: Hegcheiridion peri metron]),
 which is most valuable as the only complete treatise on the subject that
 has been preserved. The concluding chapter ([Greek: Peri poiematos])

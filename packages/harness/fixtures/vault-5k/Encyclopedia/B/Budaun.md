@@ -15,7 +15,7 @@ frontier of the Delhi empire. In the 13th century two of its governors,
 Shams-ud-din Altamsh, the builder of the great mosque referred to above,
 and his son Rukn-ud-din Firoz, attained the imperial throne. In 1571 the
 town was burnt, and about a hundred years later, under Shah Jahan, the seat
-of the governorship was transferred to Bareilly; after which the importance
+of the governorship was transferred to [[Bareilly]]; after which the importance
 of Budaun declined. It ultimately came into the power of the Rohillas, and
 in 1838 was made the headquarters of a British district. In 1857 the people
 of Budaun sided with the mutineers, and a native government was set up,
@@ -24,7 +24,7 @@ the restoration of British authority.
 
 The DISTRICT OF BUDAUN has an area of 1987 sq. m. Pop. (1901) 1,025,753.
 The country is low, level, and is generally fertile, and watered by the
-Ganges, the Ramganga, the Sot or Yarwafadar, and the Mahawa. Budaun
+[[Ganges]], the Ramganga, the Sot or Yarwafadar, and the Mahawa. Budaun
 district was ceded to the British government in 1801 by the nawab of Oudh.
 There are several indigo factories. The district is crossed by two lines of
 the Oudh & Rohilkhand railway, and by a narrow-gauge line from Bareilly.

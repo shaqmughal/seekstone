@@ -9,12 +9,12 @@ Greek authors Stephanus of Byzantium, and Diodorus (ii. 13), the latter
 of whom says that the place was sacred to Zeus, i.e. Ahuramazda
 (Ormuzd). At its foot passes the great road which leads from Babylonia
 (Bagdad) to the highlands of Media (Ecbatana, Hamadan). On the steep
-face of the rock, some 500 ft. above the plain, Darius I., king of
-Persia, had engraved a great cuneiform inscription (11 or 12 ft. high),
-which recounts the way in which, after the death of Cambyses, he killed
+face of the rock, some 500 ft. above the plain, [[Darius]] I., king of
+Persia, had engraved a great [[Cuneiform|cuneiform]] inscription (11 or 12 ft. high),
+which recounts the way in which, after the death of [[Cambyses]], he killed
 the usurper Gaumata (in Justin Gometes, the pseudo-Smerdis), defeated
 the numerous rebels, and restored the kingdom of the Achaemenidae. Above
-the inscription the picture of the king himself is graven, with a bow in
+the inscription the picture of the king himself is graven, with a [[Bow|bow]] in
 his hand, putting his left foot on the body of Gaumata. Nine rebel
 chiefs are led before him, their hands bound behind them, and a rope
 round their necks: the ninth is Skunka, the chief of the Scythians
@@ -25,7 +25,7 @@ the three languages which are written with cuneiform signs, and were
 used in all official inscriptions of the Achaemenian kings: the chief
 place is of course given to the Persian language (in four columns); the
 three Susian (Elamitic) columns lie to the left, and the Babylonian text
-is on a slanting boulder above them; a part of the Babylonian has been
+is on a slanting [[Boulder|boulder]] above them; a part of the Babylonian has been
 destroyed by a torrent, which has made its way over it. In former times
 the second language has often been called Scythian, Turanian or Median;
 but we now know from numerous inscriptions of Susa that it is the
@@ -49,12 +49,12 @@ Arabic inscription.
   1852; Sir R. Ker Porter, _Travels_, ii. 149 ff.; Flandin and Coste,
   _Voyage en Perse_, i. pl. 16; and the modern editions of the
   inscriptions, the best of which, up to the end of the 19th century,
-  were: Weissbach and Bang, _Die altpersischen Keilinschriften_ (1893);
+  were: Weissbach and [[Bang]], _Die altpersischen Keilinschriften_ (1893);
   Weissbach, _Die Achaemenideninschriften zweiter Art_ (1890); Bezold,
   _Die (babylonischen) Achaemenideninschriften_ (1882). A description of
   the locality, with comments on the present state of the inscriptions
   and doubtful passages of the Persian text, was given by Dr A.V.
-  Williams Jackson in the _Journal of the American Oriental Society_,
+  Williams [[Jackson]] in the _Journal of the American Oriental Society_,
   xxiv., 1903, and in his _Persia, Past and Present_ (1906). Dr Jackson
   in 1903 climbed to the ledge of the rock and was able to collate the
   lower part of the four large Persian columns; he thus convinced
@@ -64,14 +64,14 @@ Arabic inscription.
   Trustees by Messrs. L.W. King and R.C. Thompson, who published their
   results in 1907 under the title, _The Inscription of Darius the Great
   at Behistun_, including a full illustrated account of the sculptures
-  and the inscription, and a complete collation of the text.
+  and the inscription, and a complete [[Collation|collation]] of the text.
        (Ed. M.)
 
 
 FOOTNOTE:
 
   [1] A passage in the inscription runs:--"Thus saith Darius the king:
-    That which I have done I have done altogether by the grace of
+    That which I have done I have done altogether by the [[Grace|grace]] of
     Ahuramazda. Ahuramazda, and the other gods that be, brought aid to
     me. For this reason did Ahuramazda, and the other gods that be, bring
     aid to me, because I was not hostile, nor a liar, nor a wrongdoer,

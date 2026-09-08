@@ -8,7 +8,7 @@ type: source
 # Luncheon
 
 LUNCHEON, in present usage the name given to a meal between breakfast
-and tea or dinner. When dinner was taken at an early hour, or when it is
+and tea or [[Dinner|dinner]]. When dinner was taken at an early hour, or when it is
 still the principal midday meal, luncheon was and is still a light
 repast. The derivation of the word has been obscured, chiefly owing to
 the attempted connexion with "nuncheon," with which the word has nothing

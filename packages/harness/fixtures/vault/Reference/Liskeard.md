@@ -1,33 +1,33 @@
 # Liskeard
 
-LISKEARD, a market town and municipal borough in the Bodmin
-parliamentary division of Cornwall, England, 15 m. W.N.W. of Plymouth,
+LISKEARD, a market town and municipal borough in the [[Bodmin]]
+parliamentary division of [[Cornwall]], England, 15 m. W.N.W. of Plymouth,
 on the Great Western and the Liskeard and Looe railways. Pop. (1901)
 4010. It lies high, above two small valleys opening to that of the Looe
 river, in a hilly, picturesque district. The Perpendicular church of St
-Martin, with a tower of earlier date, having a Norman arch, is one of
+[[Martin]], with a tower of earlier date, having a Norman [[Arch|arch]], is one of
 the largest ecclesiastical buildings in the county. The site of a castle
 built by Richard, brother of Henry III. and earl of Cornwall, is
 occupied by public gardens. At the grammar school, which formerly
 occupied a building in those gardens, Dr John Wolcot, otherwise known as
 Peter Pindar, was educated. Liskeard was formerly an important mining
 centre. Its manufactures include leather and woollen goods, and there
-are iron foundries. The borough is under a mayor, 4 aldermen and 12
+are iron foundries. The borough is under a [[Mayor|mayor]], 4 aldermen and 12
 councillors. Area, 2704 acres.
 
 Liskeard (Liscarret) was at the time of the Domesday Survey an important
 manor with a mill rendering 12d. yearly and a market rendering 4s. By
 the Conqueror it had been given to the count of Mortain by whom it was
-held in demesne. Ever since that time it has passed with the earldom or
+held in [[Demesne|demesne]]. Ever since that time it has passed with the earldom or
 duchy of Cornwall. The fertility of its soil and the river Looe probably
 led to early settlement at Liskeard. Richard, king of the Romans,
 recognized its natural advantages and built the manor house or castle
 and resided there occasionally. In 1240 he constituted Liskeard a free
 borough and its burgesses freemen with all the liberties enjoyed by the
-burgesses of Launceston and Helston. In 1266 he granted fairs at the
-Feasts of the Assumption and St Matthew. His son Edmund earl of Cornwall
+burgesses of [[Launceston]] and [[Helston]]. In 1266 he granted fairs at the
+Feasts of the [[Assumption]] and St [[Matthew]]. His son Edmund earl of Cornwall
 in 1275 granted to the burgesses for a yearly rent of £18 (sold by
-William III. to Lord Somers) the borough in fee farm with its mills,
+William III. to Lord Somers) the borough in [[Fee|fee]] farm with its mills,
 tolls, fines and pleas, pleas of the crown excepted. Liskeard was made a
 coinage town for tin in 1304. Edward the Black Prince secured to the
 burgesses in 1355 immunity from pleas outside their franchise for

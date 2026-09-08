@@ -70,11 +70,11 @@ passage from the life of Stephen II. (A.D. 769), in the _Liber
 Pontificalis_ (ed. Duchesne, i. p. 478), shows clearly that they were
 seven in number and served for a week in turn: _Hic constituit ut omni
 dominico die a septem Episcopis cardinalibus hebdomadariis, qui in
-ecclesia Salvatoris_ (the Lateran) _observant, missarum solemnia super
+[[Ecclesia|ecclesia]] Salvatoris_ (the Lateran) _observant, missarum solemnia super
 altare Beati Petri celebrarentur_. They were called "cardinal bishops of
 the Lateran church," as recorded by St Peter Damian in 1058 (Ep. 1, lib.
 ii.). Their sees are the same to-day as they were then: Ostia, Porto,
-Santa Rufina (Sylva Candida), Albano, Sabina, Tusculum (Frascati) and
+Santa Rufina (Sylva Candida), Albano, Sabina, Tusculum ([[Frascati]]) and
 Palestrina. From time immemorial the bishop of Ostia has had the
 privilege of sacring the pope, and on this ground he enjoys the right of
 wearing the "pallium"; he is _ex officio_ dean of the suburbicarian
@@ -82,7 +82,7 @@ bishops, and consequently dean of the Sacred College. His episcopal see
 having been in ruins for a long time, that of Velletri has been joined
 to it. The second rank belongs to the bishop of Porto, who is _ex
 officio_ vice-dean of the Sacred College; his episcopal see being also
-in ruins Calixtus II. added to it that of Santa Rufina, thus reducing
+in ruins [[Calixtus]] II. added to it that of Santa Rufina, thus reducing
 the number of suburbicarian bishoprics and cardinal bishops to six; this
 number was adhered to by Sixtus V., and has not varied since.
 
@@ -100,7 +100,7 @@ the one parish in the town. At Rome, on the contrary (and doubtless at
 Alexandria), certain churches, to which were attached certain districts,
 were at an early date entrusted to one or more priests. These churches,
 in which the liturgy was celebrated, or certain sacraments administered,
-were called _tituli_ (titles). According to the _Liber Pontificalis_
+were called _tituli_ (titles). According to the _[[Liber Pontificalis]]_
 (ed. Duchesne, i. pp. 122, 126, 164), the titles of Rome, numbering
 twenty-five, were already established as early as the 1st century; this
 seems hardly probable, but it was certainly the case in the 5th century.
@@ -117,12 +117,12 @@ have never entirely ceased. Even to-day every cardinal priest has his
 title, a church in Rome of which he is the spiritual head, and the name
 of which appears in his official signature, e.g. "Herbertus tituli
 sanctorum Andreae et Gregorii sanctae romanae ecclesiae presbyter
-cardinalis Vaughan." When the attachment of the cardinal priest to his
+cardinalis Vaughan." When the [[Attachment|attachment]] of the cardinal priest to his
 title had become no more than a tradition, the number of cardinal
 titles, which in the 11th century had reached twenty-eight, was
 increased according to need, and it was held an honour for a church to
 be made titulary. The last general rearrangement of the titular churches
-was begun by Clement VIII. and completed by Paul V.; Leo XIII. made a
+was begun by [[Clement]] VIII. and completed by Paul V.; Leo XIII. made a
 title of the church of San Vitale. To-day, according to the _Gerarchia
 Pontificia_ the cardinal titles number fifty-three; since the highest
 possible number of cardinal priests is fifty, and this number is never
@@ -183,10 +183,10 @@ the name of "first deacon," _protodiaconus_.
 
   There is one cardinal chosen by the pope from among the Sacred College
   to whom is entrusted the administration of the common property; this
-  is the cardinal camerlengo or chamberlain (_camerarius_). His office
+  is the cardinal camerlengo or [[Chamberlain|chamberlain]] (_[[Camerarius|camerarius]]_). His office
   is an important one, for during the vacancy of the Holy See it is he
   who exercises all external authority, especially that connected with
-  the Conclave.
+  the [[Conclave]].
 
 
   Number and distribution.
@@ -201,7 +201,7 @@ the number of cardinals was far from being constant. For a long time it
 varied in the neighbourhood of twenty; in 1331 John XXII. said that
 there were twenty cardinals; in 1378 they were reckoned at 23. Their
 number increased during the Great Schism because there were several
-rival obediences. The councils of Constance and Basel reduced the number
+rival obediences. The councils of Constance and [[Basel]] reduced the number
 of cardinals to 24; but it did not rest at that for long, and in the
 16th century was more than doubled. In 1517 Leo X., in order to
 introduce strong supporters of himself into the Sacred College, created
@@ -219,7 +219,7 @@ give up the direction of their monasteries. In the following century
 occur a few cases of bishops being created cardinals without having to
 leave their see, and of cardinals upon whom were conferred foreign
 bishoprics (cf. Thomassin, loc. cit. cap. 114, n. 9). Of the cardinals
-created by the popes of Avignon the majority were French, and in 1331
+created by the popes of [[Avignon]] the majority were French, and in 1331
 John XXII. remarks that 17 cardinals were French out of the 20 who then
 existed. The councils of Constance and Basel forbade that more than a
 third of the cardinals should belong to the same country. After the
@@ -228,7 +228,7 @@ customs were soon resumed; the cardinals were for the most part
 Italians, the entire number of cardinals' hats conferred on the other
 Catholic nations only amounting to a minority. The non-Italian
 cardinals, with rare exceptions, are not resident in Rome; together with
-the rank of cardinal they receive a dispensation from residing _in
+the rank of cardinal they receive a [[Dispensation|dispensation]] from residing _in
 curia_; they are none the less, as cardinals, priests or deacons of the
 Roman Church.
 
@@ -239,7 +239,7 @@ The reform of the College of Cardinals inaugurated by the councils of
 Constance and Basel, though without much immediate success, was not only
 concerned with the number and nationality of the cardinals; it also
 dealt with conditions of age, learning and other qualifications: men of
-the most honourable character, aged not less than thirty, were to be
+the most [[Honourable|honourable]] character, aged not less than thirty, were to be
 chosen; at least a third were to be chosen from among the graduates of
 the universities; persons of royal blood and princes were not to be
 admitted in too great numbers, and lastly, relatives of the pope were to
@@ -278,10 +278,10 @@ concordatory agreement, strictly speaking, on the part of the popes.
 The _creation_ of cardinals (to use the official term) is in fact
 nowadays the function of the pope alone. It is accomplished by the
 publication of the persons chosen by the pope in secret consistory
-(q.v.). No other formality is essential; and the provision of Eugenius
+(q.v.). No other formality is essential; and the provision of [[Eugenius]]
 IV., which required the reception of the insignia of the cardinalate for
 the promotion to be valid, was abrogated before long, and definitely
-annulled by the declaration of Pius V. of the 26th of January 1571.
+annulled by the [[Declaration|declaration]] of Pius V. of the 26th of January 1571.
 Similarly neither the consent nor the vote of the Sacred College is
 required. It is true that a Roman _Ceremoniale_ of 1338 (Thomassin, loc.
 cit. cap. 114, n. 12) still enjoins upon the pope to consult the Sacred
@@ -292,7 +292,7 @@ injunctions of the councils of Constance and Basel as to the written
 vote of the cardinals became before very long a dead letter, but there
 still remains a relic of them. In the consistory, when the pope has
 nominated those whom he desires to raise to the purple, he puts to the
-cardinals present the question: "Quid vobis videtur?" The cardinals bend
+cardinals present the question: "Quid vobis videtur?" The cardinals [[Bend|bend]]
 the head as a sign of their consent, and the pope then continues:
 "Itaque, auctoritate omnipotentis Dei, sanctorum Apostolorum Petri et
 Pauli, et Nostra, creamus et publicamus sanctae romanae Ecclesiae
@@ -338,9 +338,9 @@ a public consistory.
 Sometimes, after nominating the cardinals, the pope adds that he also
 appoints a certain number of others, whose names he does not divulge,
 but reserves the right of publishing at a later date. These cardinals,
-whose names he conceals "in his breast," are for that reason called
+whose names he conceals "in his [[Breast|breast]]," are for that reason called
 cardinals _in pectore_ (Ital. _in petto_). This practice seems to go
-back to Martin V., who may have had recourse to this expedient in order
+back to [[Martin]] V., who may have had recourse to this expedient in order
 to avoid the necessity of soliciting the votes of the cardinals; but for
 a long time past the popes have only resorted to it for quite other
 reasons. If the pope dies before making known the cardinals _in petto_,
@@ -364,13 +364,13 @@ pontiff, and as such places them above all the other ecclesiastical
 dignitaries and prelates. This rank, however, has not always been
 assigned to them; but was attributed to the cardinal bishops before it
 was to the rest. Their common prerogative was definitively established
-when they became the sole electors of the pope, at a period when the
-papacy, under pontiffs like Innocent III., shone with its most brilliant
-lustre. For example, at the council of Lyons in 1245 all the cardinals
+when they became the sole [[Electors|electors]] of the pope, at a period when the
+papacy, under pontiffs like [[Innocent]] III., shone with its most brilliant
+lustre. For example, at the council of [[Lyons]] in 1245 all the cardinals
 took precedence of the archbishops and bishops. It was in 1245, or
 perhaps the year before, that Innocent IV. granted the cardinals the
 privilege of wearing the red hat; as to the scarlet robe which still
-forms their costume of ceremony, it was already worn by cardinals
+forms their [[Costume|costume]] of ceremony, it was already worn by cardinals
 performing the functions of legate; and the use was soon extended to
 all. As to their civil relations, cardinals were assimilated by the
 Catholic kings to the rank of princes of the blood royal, cardinals
@@ -380,7 +380,7 @@ ecclesiastical privileges enjoyed by the cardinals, we will mention only
 two: the real, though nowadays restricted, jurisdiction which they
 exercise over the churches forming their title or diaconia; and the
 official style of address conferred on them by Urban VIII. (10th of June
-1630), of Eminence, _Eminentissimo signore_.
+1630), of [[Eminence]], _Eminentissimo signore_.
 
 
   Functions.
@@ -395,13 +395,13 @@ Church; they fill certain permanent offices, such as those of
 chancellor, penitentiary, &c.; or again, temporary missions, such as
 that of legate _a latere_; they have seats in the councils and tribunals
 which deal with the affairs of the Church, and the Roman congregations
-of cardinals (see CURIA ROMANA).
+of cardinals (see [[Curia Romana|CURIA ROMANA]]).
 
   BIBLIOGRAPHY.--All works on canon law contain a treatise on the
   cardinals. See particularly, for the history, Thomassin, _Vetus et
   nova discipl._, tom. I., lib. ii., cap. 113-115. For history and law,
-  Phillips, _Kirchenrecht_, vol. vi.; Hinschius, _System des kathol.
-  Kirchenrechts_, vol. i. p. 312. For the canonical aspect, Ferraris,
+  Phillips, _Kirchenrecht_, vol. vi.; [[Hinschius]], _System des kathol.
+  Kirchenrechts_, vol. i. p. 312. For the canonical aspect, [[Ferrari|Ferraris]],
   _Prompta bibliotheca_, s.v. "Cardinales"; Bouix, _De curia romana_
   (Paris, 1859), pp. 5-141; Card. de Luca, _Relatio curiae romanae_,
   disc. 5. For details of the ceremonies and costume, Grimaldi, _Les

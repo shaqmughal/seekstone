@@ -1,8 +1,8 @@
 # Hart
 
 HART, SIR ROBERT, Bart. (1835-   ), Anglo-Chinese statesman, was born at
-Milltown, Co. Armagh, on the 20th of February 1835. He was educated at
-Taunton, Dublin and Belfast, and graduated at Queen's College, Belfast,
+Milltown, Co. [[Armagh]], on the 20th of February 1835. He was educated at
+Taunton, Dublin and [[Belfast]], and graduated at Queen's College, Belfast,
 in 1853. In the following year he received an appointment as
 student-interpreter in the China consular service, and after serving
 for a short time at the Ningpo vice-consulate, he was transferred to
@@ -35,7 +35,7 @@ numerous sources of revenue, the money furnished by Mr Hart was the only
 certain asset which could be offered as security for Chinese loans. For
 many years, moreover, it was customary for the British minister, as well
 as the ministers of other powers, to consult him in every difficulty;
-and such complete confidence had Lord Granville in his ability and
+and such complete confidence had Lord [[Granville]] in his ability and
 loyalty, that on the retirement of Sir T. Wade he appointed him minister
 plenipotentiary at Peking (1885). Sir Robert Hart, however--who was made
 a K.C.M.G. in 1882--recognized the anomalous position in which he would
@@ -47,7 +47,7 @@ and the Chinese alike. Thrice only did he visit Europe between 1863 and
 intercourse with the Peking officials, being that he learnt to look at
 events through Chinese spectacles; and his work, _These from the Land of
 Sinim_, shows how far this affected his outlook. The faith which he put
-in the Chinese made him turn a deaf ear to the warnings which he
+in the Chinese made him turn a deaf [[Ear|ear]] to the warnings which he
 received of the threatening Boxer movement in 1900. To the last he
 believed that the attacking force would at least have spared his house,
 which contained official records of priceless value, but he was doomed
@@ -75,9 +75,9 @@ service, retired in July 1907. He received formal leave of absence in
 January 1908, when he received the title of president of the board of
 customs. Both the Chinese and the British governments from time to time
 conferred honours upon Sir Robert Hart. By giving him a Red Button, or
-button of the highest rank, a Peacock's Feather, the order of the Double
+button of the highest rank, a Peacock's [[Feather]], the order of the Double
 Dragon, a patent of nobility to his ancestors for three generations, and
-the title of Junior Guardian of the heir apparent, the Chinese showed
+the title of Junior [[Guardian]] of the heir apparent, the Chinese showed
 their appreciation of his manifold and great services; while under the
 seal of the British government there were bestowed upon him the orders
 of C.M.G.(1880), K.C.M.G.(1882), G.C.M.G. (1889), and a baronetcy

@@ -15,7 +15,7 @@ by J. Wagler, was unanimously maintained and placed among the permanent
 gill-breathers.
 
 It seemed impossible to admit that an animal which lives for years without
-losing its gills, and is able to propagate in that state, could be anything
+losing its [[Gill|gills]], and is able to propagate in that state, could be anything
 but a perfect form. And yet subsequent discoveries, which followed in rapid
 succession, have established that _Siredon_ is but the larval form of the
 salamander _Amblystoma_, a genus long known from various parts of North
@@ -31,18 +31,18 @@ market, its flesh being agreeable and wholesome. Francisco Hernandez
 _lusus aquarum_, _piscis ludicrus_, or _axolotl_, which latter name has
 remained in use, in Mexico and elsewhere, to the present day. But for its
 large size--it grows to a length of eleven inches--it is a nearly exact
-image of the British newt larvae. It has the same moderately long, plump
+[[Image|image]] of the British newt larvae. It has the same moderately long, plump
 body, with a low dorsal crest, the continuation of the membrane bordering
 the strongly compressed tail; a large thick head with small eyes without
-lids and with a large pendent upper lip; two pairs of well-developed limbs,
-with free digits; and above all, as the most characteristic feature, three
+lids and with a large pendent upper [[Lip|lip]]; two pairs of well-developed limbs,
+with free [[Digit|digits]]; and above all, as the most characteristic feature, three
 large appendages on each side of the back of the head, fringed with
 filaments which, in their fullest development, remind one of black ostrich
-feathers. These are the external gills, through which the animal breathes
+[[Feather|feathers]]. These are the external gills, through which the animal breathes
 the oxygen dissolved in the water. The jaws are provided with small teeth
 in several rows, and there is an elongate patch of further teeth on each
 side of the front of the palate (inserted on the vomerine and palatine
-bones). The colour is blackish, or of a dark olive-grey or brownish grey
+[[Bone|bones]]). The colour is blackish, or of a dark olive-grey or brownish grey
 with round black spots or dots.
 
 The genus _Amblystoma_ was established by J. J. Tschudi in 1838 for various
@@ -62,7 +62,7 @@ and west of the United States and of a considerable part of the cooler
 parts of Mexico. It varies much in colour, but it may be described as
 usually brown or blackish, with more or less numerous yellow spots,
 sometimes arranged in transverse bands. It rarely exceeds a length of nine
-inches. This is the _Amblystoma_ into which the axolotl has been
+[[Inch|inches]]. This is the _Amblystoma_ into which the axolotl has been
 ascertained to transform. It is generally admitted that the axolotls which
 were kept alive in Europe and were particularly abundant between 1870 and
 1880 are all the descendants of a stock bred in Paris and distributed
@@ -75,18 +75,18 @@ formerly, at least in England and in France.
 The original axolotls, from the vicinity of Mexico City, it is believed,
 arrived at the Jardin d'Acclimatation, Paris, late in 1863. They were
 thirty-four in number, among which was an albino, and had been sent to that
-institution, together with a few other animals, by order of Marshal Forey,
+institution, together with a few other animals, by order of Marshal [[Forey]],
 who was appointed commander-in-chief of the French expeditionary force to
 Mexico after the defeat of General Lorencez at Puebla (May 5th, 1862), and
 returned to France at the end of 1863, after having handed over the command
-to Marshal (then General) Bazaine. Six specimens (five males and one
+to Marshal (then General) [[Bazaine]]. Six specimens (five males and one
 female) were given by the Société d'Acclimatation to Professor A. Duméril,
 the administrator of the reptile collection of the Jardin des Plantes, the
 living specimens of which were at that time housed in a very miserable
 structure, situated at a short distance from the comparatively sumptuous
 building which was erected some years later and opened to the public in
 1874. Soon after their arrival at the Jardin d'Acclimatation, some of the
-axolotls spawned, but the eggs, not having been removed from the aquarium,
+axolotls spawned, but the [[Egg|eggs]], not having been removed from the [[Aquarium|aquarium]],
 were devoured by its occupants. At the same time, in the Jardin des
 Plantes, the single female axolotl also spawned, twice in succession, and a
 large number of young were successfully reared. This, it then seemed,
@@ -142,7 +142,7 @@ of the salt-incrusted surroundings which were supposed to have hemmed in
 the axolotl--the brackish Lago de Texcoco, the largest of the lakes near
 Mexico, being evidently in the philosopher's mind.
 
-Thanks to the enthusiasm of H. Gadow during his visit to Mexico in the
+Thanks to the [[Enthusiasm|enthusiasm]] of H. Gadow during his visit to Mexico in the
 summer of 1902, we are now better informed on the conditions under which
 the axolotl lives near Mexico City. First, he ascertained that there are no
 axolotls at all in the Lago de Texcoco, thus disposing at once of the
@@ -161,7 +161,7 @@ with rocks and ravines. In fact, there are thousands of inviting
 opportunities for newts to leave the lake if they wanted to do so. Lake
 Xochimilco contains powerful springs, but away from them the water appears
 dark and muddy, full of suspended fresh and decomposing vegetable matter,
-teeming with fish, larvae of insects, _Daphniae_, worms and axolotl. These
+teeming with fish, larvae of [[Insect|insects]], _Daphniae_, worms and axolotl. These
 breed in the beginning of February. The native fishermen know all about
 them; how the eggs are fastened to the water plants, how soon after the
 little larvae swarm about in thousands, how fast they grow, until by the
@@ -194,7 +194,7 @@ _Mem. Acc. Bologna_, iii. (1851), p. 269; A. Duméril, _Comptes rendus_, lx.
 (1865), p. 765, and _N. Arch. Mus._ ii. (1866), p. 265; E. Blanchard,
 _Comptes rendus_, lxxxii. (1876), p. 716; A. Weismann, _Z. wiss. Zool._
 xxv. (Suppl. 1875), p. 297; M. von Chauvin, _Z. wiss. Zool._ xxvii. (1876),
-p. 522; F. de Filippi, _Arch. p. la zool._ i. (1862), p. 206; G. Hahn,
+p. 522; F. de Filippi, _Arch. p. la zool._ i. (1862), p. 206; G. [[Hahn]],
 _Rev. Quest. Sci._ Brussels (2), i. (1892), p. 178; H. Gadow, _Nature_,
 lxvii. (1903), p. 330.
 

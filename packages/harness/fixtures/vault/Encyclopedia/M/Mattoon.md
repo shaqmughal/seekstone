@@ -10,14 +10,14 @@ type: note
 MATTOON, a city of Coles county, Illinois, U.S.A., in the east central
 part of the state, about 12 m. south-east of Peoria. Pop. (1890), 6833;
 (1900), 9622, of whom 430 were foreign-born; (1910 census) 11,456. It is
-served by the Illinois Central and Cleveland, Cincinnati, Chicago & St
+served by the Illinois Central and [[Cleveland]], Cincinnati, [[Chicago]] & St
 Louis railways, which have repair shops here, and by inter-urban
 electric lines. The city has a public library, a Methodist Episcopal
 Hospital, and an Old Folks' Home, the last supported by the Independent
-Order of Odd Fellows. Mattoon is an important shipping point for Indian
-corn and broom corn, extensively grown in the vicinity, and for fruit
-and livestock. Among its manufactures are foundry and machine shop
-products, stoves and bricks; in 1905 the factory product was valued at
+Order of Odd [[Fellows]]. Mattoon is an important shipping point for Indian
+[[Corn|corn]] and broom corn, extensively grown in the vicinity, and for fruit
+and livestock. Among its manufactures are foundry and [[Machine|machine]] shop
+products, stoves and [[Brick|bricks]]; in 1905 the factory product was valued at
 $1,308,781, an increase of 71.2% over that in 1900. The municipality
 owns the waterworks and an electric lighting plant. Mattoon was first
 settled about 1855, was named in honour of William Mattoon, an early

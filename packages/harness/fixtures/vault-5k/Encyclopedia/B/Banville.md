@@ -23,7 +23,7 @@ received unstinted praise from Victor Hugo, to whom they were dedicated.
 Later, several of his comedies in verse were produced at the Théâtre
 Français and on other stages; and from 1853 onwards a stream of prose
 flowed from his industrious pen, including studies of Parisian manners,
-sketches of well-known persons (_Camées parisiennes_, &c.), and a series of
+sketches of well-known persons (_[[Cam]]ées parisiennes_, &c.), and a series of
 tales (_Contes bourgeois_, _Contes héroïques_, &c.), most of which were
 republished in his collected works (1875-1878). He also wrote freely for
 reviews, and acted as dramatic critic for more than one newspaper.
@@ -40,27 +40,27 @@ conventional and unreal. Most of his prose, indeed, in substance if not in
 manner, is that of a journalist. His lyrics, however, rank high. A careful
 and loving student of the finest models, he did even more than his greater
 and somewhat older comrades, Victor Hugo, Alfred de Musset and Théophile
-Gautier, to free French poetry from the fetters of metre and mannerism in
+[[Gautier]], to free French poetry from the fetters of metre and mannerism in
 which it had limped from the days of Malherbe. In the _Odes funambulesques_
 and elsewhere he revived with perfect grace and understanding the _rondeau_
 and the _villanelle_, and like Victor Hugo in _Les Orientales_, wrote
 _pantoums_ (pantuns) after the Malay fashion. He published in 1872 a _Petit
 traité de versification française_ in exposition of his metrical methods.
 He was a master of delicate satire, and used with much effect the difficult
-humour of sheer bathos, happily adapted by him from some of the early
+[[Humour|humour]] of sheer bathos, happily adapted by him from some of the early
 folk-songs. He has somewhat rashly been compared to Heine, whom he
 profoundly admired; but if he lacked the supreme touch of genius, he
 remains a delightful writer, who exercised a wise and sound influence upon
 the art of his generation.
 
 Among his other works may be mentioned the poems, _Idylles prussiennes_
-(1871), and _Trente-six ballades joyeuses_ (1875); the prose tales, _Les
+(1871), and _Trente-six ballades [[Joyeuse|joyeuses]]_ (1875); the prose tales, _Les
 Saltimbanques_ (1853); _Esquisses parisiennes_ (1859) and _Contes
 féeriques_; and the plays, _Le Feuilleton d'Aristophane_ (1852),
 _Gringoire_ (1866), and _Deidamia_ (1876).
 
 See also J. Lemaître, _Les Contemporains_ (first series, 1885);
-Sainte-Beuve, _Causeries du lundi_, vol. xiv.; Maurice Spronck, _Les
+Sainte-Beuve, _Causeries du lundi_, vol. xiv.; [[Maurice]] Spronck, _Les
 Artistes littéraires_ (1889).
 
 (C.)

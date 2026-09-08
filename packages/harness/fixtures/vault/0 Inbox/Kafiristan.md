@@ -11,7 +11,7 @@ known with accuracy and nothing at first hand until General Sir W.
 (then Colonel) Lockhart headed a mission to examine the passes of the
 Hindu Kush range in 1885-1886. He penetrated into the upper part of the
 Bashgal valley, but after a few days he found himself compelled to
-return to Chitral. Previously Major Tanner, R.A., had sought to enter
+return to [[Chitral]]. Previously [[Major]] Tanner, R.A., had sought to enter
 Kafiristan from Jalalabad, but sudden severe illness cut short his
 enterprise. M'Nair, the famous explorer of the Indian Survey department,
 believed that he had actually visited this little-known land during an
@@ -24,7 +24,7 @@ mission to Kafiristan. He only remained a few days, but a year later he
 revisited the country, staying amongst the Kafirs for nearly a year.
 Although his movements were hampered, his presence in the country being
 regarded with suspicion, he was able to study the people, and, in spite
-of intertribal jealousy, to meet members of many of the tribes. The
+of intertribal [[Jealousy|jealousy]], to meet members of many of the tribes. The
 facts observed and the information collected by him during his sojourn
 in eastern Kafiristan, and during short expeditions to the inner
 valleys, are the most trustworthy foundations of our knowledge of this
@@ -60,7 +60,7 @@ which seems to rise in the very heart of Kafiristan.
   nothing in the shape of a plain. Much of the silent, gigantic country
   warms the heart as well as captivates the eye with its grandeur and
   varied beauty; much of it is the bare skeleton of the world wasted by
-  countless centuries of storms and frost, and profoundly melancholy in
+  countless centuries of storms and [[Frost|frost]], and profoundly melancholy in
   its sempiternal ruin. Every variety of mountain scenery can be found:
   silent peaks and hard, naked ridges, snowfields and glaciers; mighty
   pine forests, wooded slopes and grazing grounds; or wild vine and
@@ -72,16 +72,16 @@ which seems to rise in the very heart of Kafiristan.
   4000 to 8000 ft., are the dense pine and cedar forests. Above this
   altitude the slopes become dreary, the juniper, cedar and wild rhubarb
   gradually giving place to scanty willow patches, tamarisk and stunted
-  birches. Over 13,000 ft. there are merely mosses and rough grass.
+  [[Birch|birches]]. Over 13,000 ft. there are merely mosses and rough grass.
   Familiar wildflowers blossom at different heights. The rivers teem
   with fish. Immense numbers of red-legged partridges live in the lower
-  valleys, as well as pigeons and doves. Gorgeously plumaged pheasants
-  are plentiful. Of wild animals the chief are the _markhor_ (a goat)
+  valleys, as well as pigeons and [[Dove|doves]]. Gorgeously plumaged pheasants
+  are plentiful. Of wild animals the chief are the _[[Markhor|markhor]]_ (a goat)
   and the _oorial_ (a sheep). In the winter the former are recklessly
-  slaughtered by hunters, being either brought to bay by trained hounds,
+  slaughtered by [[Hunter|hunters]], being either brought to bay by trained hounds,
   or trapped in pits, or caught floundering in the snow-drifts; but in
-  the summer immense herds move on the higher slopes. The _ibex_ is very
-  rare. Bears and leopards are fairly common, as well as the smaller
+  the summer immense herds move on the higher slopes. The _[[Ibex|ibex]]_ is very
+  rare. Bears and [[Leopard|leopards]] are fairly common, as well as the smaller
   hill creatures.
 
 
@@ -108,14 +108,14 @@ which seems to rise in the very heart of Kafiristan.
   Nevertheless the cattle nose their way along blunderingly, but without
   hurt. Of no less importance in the open months, and the sole trade
   routes during winter, are the lower paths by the river. An unguided
-  traveller is continually at fault upon these main lines of intercourse
+  traveller is continually at [[Fault|fault]] upon these main lines of intercourse
   and traffic.
 
 
     Rivers.
 
   All the rivers find their tumultuous way into the Kabul, either
-  directly, as the Alingar at Laghman, or after commingling with the
+  directly, as the Alingar at [[Laghman]], or after commingling with the
   Kunar at Arundu and at Chigar-Serai. The Bashgal, draining the eastern
   portion of the country, empties itself into the Kunar at Arundu. It
   draws its highest waters from three main sources at the head of the
@@ -125,8 +125,8 @@ which seems to rise in the very heart of Kafiristan.
   the noisier Manangal water, from the Shawal pass, which enters the
   main stream at Lutdeh or Bragamatal, the chief settlement of the
   Bashgal branch of the Katir tribe. By-and-by the main stream becomes,
-  at the hamlet of Sunra, a raging, shrieking torrent in a dark narrow
-  valley, its run obstructed by giant boulders and great tree-trunks.
+  at the [[Hamlet|hamlet]] of Sunra, a raging, shrieking torrent in a dark narrow
+  valley, its run obstructed by [[Giant|giant]] [[Boulder|boulders]] and great tree-trunks.
   Racing past Bagalgrom, the chief village of the Madugal Kafirs, the
   river clamours round the great spur which, 1800 ft. higher up, gives
   space for the terraces and houses of Kamdesh, the headquarters of the
@@ -137,11 +137,11 @@ which seems to rise in the very heart of Kafiristan.
   part of Kafiristan, including the valleys occupied by the Presun, Kti,
   Ashkun and Wai tribes, is drained by a river variously called the
   Pech, the Kamah, and the Presun or Viron River. It has been only
-  partially explored. Fed by the fountains and snows of the upper Presun
+  partially explored. Fed by the [[Fountain|fountains]] and snows of the upper Presun
   valley, it is joined at the village of Shtevgrom by the torrent from
   the Kamah pass. Thence it moves quietly past meadowland, formerly set
   apart as holy ground, watering on its way all the Presun villages.
-  Below the last of them, with an abrupt bend, it hurries into the
+  Below the last of them, with an abrupt [[Bend|bend]], it hurries into the
   unexplored and rockbound Tsaru country, where it absorbs on the right
   hand the Kti and the Ashkun and on the left the Wai rivers, finally
   losing itself in the Kunar, close to Chigar-Serai. Concerning the
@@ -180,7 +180,7 @@ the Presun tribe, by the slaves and by fragments of lost peoples, now
 known as the Jazhis and the Aroms. The old division of the tribes into
 the Siah-Posh, or the black-robed Kafirs, and the Safed-Posh, or the
 white-robed, was neither scientific nor convenient, for while the
-Siah-Posh have much in common in dress, language, customs and
+Siah-Posh have much in common in [[Dress|dress]], language, customs and
 appearance, the Safed-Posh divisions were not more dissimilar from the
 Siah-Posh than they were from one another. Perhaps the best division at
 present possible is into (1) Siah-Posh, (2) Waigulis, and (3)
@@ -260,7 +260,7 @@ Presungalis or Viron folk.
 
   Little respect is shown to women, except in particular cases to a few
   of advanced years. Usually they are mistresses and slaves, saleable
-  chattels and field-workers. Degraded, immoral, overworked and
+  [[Chattel|chattels]] and field-workers. Degraded, immoral, overworked and
   carelessly fed, they are also, as a rule, unpleasant to the sight.
   Little girls are sometimes quite beautiful, but rough usage and
   exposure to all weathers soon make their complexions coarse and dark.
@@ -274,14 +274,14 @@ Presungalis or Viron folk.
 
     Language.
 
-  There are certainly three tongues spoken, besides many dialects, that
+  There are certainly three tongues spoken, besides many [[Dialect|dialects]], that
   used by the Siah-Posh being of course the most common; and although it
   has many dialects, the employers of one seem to understand all the
   others. It is a Prakritic language. Of the remaining two, the Wai and
   the Presun have no similarity; they are also unlike the Siah-Posh.
   Kafirs themselves maintain that very young children from any valley
   can acquire the Wai speech, but that only those born in the Presungal
-  can ever converse in that language, even roughly. To European ears it
+  can ever converse in that language, even roughly. To European [[Ear|ears]] it
   is disconcertingly difficult, and it is perhaps impossible to learn.
 
 
@@ -302,9 +302,9 @@ Presungalis or Viron folk.
   as was usually Dizani goddess; but three or four of the others would
   share one between them, each looking out of a small separate square
   window. The worshipped object was either a large fragment of stone or
-  an image of wood conventionally carved, with round white stones for
+  an [[Image|image]] of wood conventionally carved, with round white stones for
   eyes. Different animals were sacrificed at different shrines: cows to
-  Imra, male goats and bulls to Gish, sheep to the god of wealth; but
+  Imra, male goats and [[Bull|bulls]] to Gish, sheep to the god of wealth; but
   goats were generally acceptable, and were also slain ceremonially to
   discover a complaisant god, to solemnize a vow, to end a quarrel, to
   ratify brotherhood. The ministers of religion were a hereditary
@@ -312,18 +312,18 @@ Presungalis or Viron folk.
   who was supposed to become inspired at each sacrifice, and to have the
   power of seeing fairies and other spirits whenever they were near,
   also of understanding their wishes. The blood of the offering,
-  together with flour, wine and butter, was cast on the shrine after the
+  together with flour, wine and [[Butter|butter]], was cast on the shrine after the
   animal and the other gifts had been sanctified with water sprinkled by
   the officiating priests, while he cried "Such, such!" ("Be pure!").
   Dense clouds of smoke from burning juniper-cedar, which crackled and
-  gave forth pungent incense, added to the spectacle, which was
+  gave forth pungent [[Incense|incense]], added to the spectacle, which was
   dignified by the bearing of the officials and solemnized by the devout
   responses of the congregation. There was no human sacrifice except
   when a prisoner of war, after a solemn service at a shrine, was taken
   away and stabbed before the wooden tomb of some unavenged headman.
-  Kafirs believed in a kind of Hell where wicked people burned; but the
-  Hereafter was an underground region entered by a guarded aperture, and
-  inhabited by the shapes which men see in dreams. Suicide was as
+  Kafirs believed in a kind of [[Hell]] where wicked people burned; but the
+  Hereafter was an underground region entered by a guarded [[Aperture|aperture]], and
+  inhabited by the shapes which men see in [[Dream|dreams]]. Suicide was as
   unknown as fear of dying. Melancholy afflicted only the sick and the
   bereaved. Religious traditions, miracles and anecdotes were puerile,
   and pointed no social lesson or any religious law. Music, dancing and
@@ -335,11 +335,11 @@ Presungalis or Viron folk.
 
     Tribal Organization.
 
-  The great majority of the tribes were made up of clans. A person's
+  The great majority of the tribes were made up of [[Clan|clans]]. A person's
   importance was derived chiefly from the wealth of his family and the
   number of male adults which it contained. The power of a family, as
   shown by the number and quality of its fighting men as well as by the
-  strength of its followers, was the index of that family's influence.
+  strength of its followers, was the [[Index|index]] of that family's influence.
   Weak clans and detached families, or poor but free households, carried
   their independence modestly. The lowest clan above the slaves sought
   service with their wealthier tribesmen as henchmen and armed
@@ -353,12 +353,12 @@ Presungalis or Viron folk.
   controlled by two or three of the most respected of that class. Very
   serious questions which inflamed the minds of the people would be
   debated in informal parliaments of the whole tribe. Kafirs have a
-  remarkable fondness for discussing in conclave. Orators, consequently,
+  remarkable fondness for discussing in [[Conclave|conclave]]. Orators, consequently,
   are influential. The internal business of a tribe was managed by an
-  elected magistrate with twelve assistants. It was their duty to see
+  elected [[Magistrate|magistrate]] with twelve assistants. It was their duty to see
   that the customs of the people were respected; that the proper seasons
   for gathering fruit were rigidly observed. They regulated the
-  irrigation of the fields, moderating the incessant quarrels which
+  irrigation of the [[Fields|fields]], moderating the incessant quarrels which
   originated in the competition for the water; and they kept the
   channels in good repair. Their chief, helped by contributions in kind
   from all householders, entertained tribal guests. He also saw that the
@@ -390,14 +390,14 @@ Presungalis or Viron folk.
   to the water. Here all rooms look on to the large central courtyard;
   outwards are few or no windows. There is also the tiny hamlet of a few
   piled-up hovels perched on the flattish top of some huge rock,
-  inaccessible when the ladder connecting it with the neighbouring
+  inaccessible when the [[Ladder|ladder]] connecting it with the neighbouring
   hill-side or leading to the ground is withdrawn. Some villages on
   mounds are defended at the base by a circular wall strengthened with
   an entanglement of branches. Others cling to the knife-edged back of
   some difficult spur. Many are hidden away up side ravines. A few
   boldly rely upon the numbers of their fighting men, and are
   unprotected save by watch-towers. While frequently very picturesque at
-  a distance, all are dirty and grimed with smoke; bones and horns of
+  a distance, all are dirty and grimed with smoke; [[Bone|bones]] and [[Horn|horns]] of
   slaughtered animals litter the ground. The ground floor of a house is
   usually a winter stable for cows and the latrine, as well as the
   manure store for the household; the middle part contains the family
@@ -410,16 +410,16 @@ Presungalis or Viron folk.
     Characteristics.
 
   In height Kafirs average about 5 ft. 6 in. They are lean; always in
-  hard condition; active jumpers, untiring walkers, expert mountaineers;
+  hard condition; active jumpers, untiring walkers, [[Expert|expert]] mountaineers;
   exceptionally they are tall and heavy. With chests fairly deep, and
-  muscular, springy legs, there is some lightness and want of power
+  muscular, springy [[Leg|legs]], there is some lightness and want of power
   about the shoulder muscles, the arms and the hand-grasp. In complexion
   they are purely Eastern. Some tribes, notably the Wai, are fairer than
   others, but the average colour is that of the natives of the Punjab.
   Albinos, or red-haired people, number less than (1/2)% of the
   population. As a rule, the features are well-shaped, especially the
   nose. The glance is wild and bold, with the wide-lidded, restless gaze
-  of the hawk; or the exact converse--a shifty, furtive peer under
+  of the [[Hawk|hawk]]; or the exact converse--a shifty, furtive peer under
   lowered brows. This look is rather common amongst the wealthier
   families and the most famous tribesmen. The shape of a man's head not
   uncommonly indicates his social rank. Several have the brows of
@@ -441,7 +441,7 @@ Presungalis or Viron folk.
   poorest food carried in a fetid goatskin bag; ever ready to stab in
   the darkness or to wriggle through apertures, to slay as they slept
   men, women and babies. Then, with clothing for prize, and human ears
-  as a trophy, they sped, watchful as hares, for their far-away hills,
+  as a trophy, they sped, watchful as [[Hare|hares]], for their far-away hills,
   avenger Pathans racing furiously in their track. Kafirs, most faithful
   to one another, never abandoned a comrade. If he were killed, they
   sought to carry away his head for funeral observances. As traders,
@@ -461,25 +461,25 @@ Presungalis or Viron folk.
 
   The national attire of the men is a badly-cured goatskin, confined at
   the waist by a leather belt studded with nails, supporting the
-  I-hilted dagger, strong but clumsy, of slave manufacture, sheathed in
-  wood covered with iron or brass, and often prettily ornamented. Women
+  I-hilted [[Dagger|dagger]], strong but clumsy, of slave manufacture, sheathed in
+  wood covered with iron or [[Brass|brass]], and often prettily ornamented. Women
   are dressed in a long, very dark tunic of wool, ample below the
   shoulders, and edged with red. This is fastened at the bosom by an
   iron pin, a thorn, or a fibula; it is gathered round the body by a
-  woven band, an inch wide, knotted in front to dangle down in tassels.
-  On this girdle is carried a fantastically handled knife in a leather
+  woven band, an [[Inch|inch]] wide, knotted in front to dangle down in tassels.
+  On this girdle is carried a fantastically handled [[Knife|knife]] in a leather
   covering. The woman's tunic is sometimes worn by men. As worn by women
-  its shape is something between a long frock-coat and an Inverness
-  cape. Its hue and the blackness of the hairy goatskin give the name of
+  its shape is something between a long frock-coat and an [[Inverness]]
+  cape. Its [[Hue|hue]] and the blackness of the hairy goatskin give the name of
   Siah-Posh, "black-robed," to the majority of the clans. The other
   tribes wear such articles of cotton attire as they can obtain by
-  barter, by theft, or by killing beyond the border, for only woollen
+  [[Barter|barter]], by theft, or by killing beyond the border, for only woollen
   cloth is made in the country. Of late years long robes from Chitral
   and Badakshan have been imported by the wealthy, as well as the
   material for loose cotton trousers and wide shirts. Clothing, always
   hard to obtain, is precious property. Formerly little girls, the
   children of slaves, or else poor relations, used to be sold in
-  exchange for clothes and ammunition. Mahommedans eagerly bought the
+  [[Exchange|exchange]] for clothes and ammunition. Mahommedans eagerly bought the
   children, which enabled them in one transaction to acquire a female
   slave and to convert an infidel. Men go bareheaded, which wrinkles
   them prematurely, or they wear Chitral caps. Certain priests, and
@@ -492,26 +492,26 @@ Presungalis or Viron folk.
   be used in the snow or when it is wet, because they are imperfectly
   tanned. For the ceremonial dances all manner of gay-coloured articles
   of attire, made of cheap silk, cotton velvet, and sham cloth-of-gold,
-  are displayed, and false jewelry and tawdry ornaments; but they are
+  are displayed, and false [[Jewelry|jewelry]] and tawdry ornaments; but they are
   not manufactured in the country, but brought from Peshawar by pedlars.
-  Woollen blankets and goat's-hair mats cover the bedsteads--four-legged
-  wooden frames laced across with string or leather thongs. Low square
+  Woollen blankets and goat's-hair [[Mat|mats]] cover the bedsteads--four-legged
+  wooden [[Frame|frames]] laced across with string or leather thongs. Low square
   stools, 18 in. broad, made upon the same principle as the bedsteads,
   are peculiar to the Kafirs and their half-breed neighbours of the
   border. Iron tripod tables, singularly Greek in design, are fashioned
   in Waigul. A warrior's weapons are a matchlock (rarely a flintlock), a
-  bow and arrows, a spear and the dagger which he never puts aside day
+  [[Bow|bow]] and arrows, a spear and the dagger which he never puts aside day
   or night. The axes, often carried, are light and weak, and chiefly
   indicate rank. Clubs, carefully ornamented by carving, are of little
   use in a quarrel; their purpose is that of a walking-stick. As they
   are somewhat long, these walking-clubs have been often supposed to be
   leaping-poles. Swords are rarely seen, and shields, carried purely for
   ostentation, seldom. Soft stone is quarried to make large utensils,
-  and great grim chests of wood become grain boxes or coffins
+  and great grim chests of wood become grain [[Box|boxes]] or coffins
   indifferently. Prettily carved bowls with handles, or with dummy
   spouts, hold milk, butter, water or small quantities of flour. Wine,
   grain, everything else, is stored or carried in goatskin bags. Musical
-  instruments are represented by reed flageolets, small drums, primitive
+  instruments are represented by reed flageolets, small [[Drum|drums]], primitive
   fiddles, and a kind of harp.
 
 
@@ -519,14 +519,14 @@ Presungalis or Viron folk.
 
   Isolated and at the outskirts of every village is a house used by
   women when menstruating and for lying-in. Children are named as soon
-  as born. The infant is given to the mother to suckle, while a wise
+  as born. The [[Infant|infant]] is given to the mother to suckle, while a wise
   woman rapidly recites the family ancestral names; the name pronounced
   at the instant the baby begins to feed is that by which it is
   thereafter known. Everybody has a double name, the father's being
   prefixed to that given at birth. Very often the two are the same.
   There is a special day for the first head-shaving. No hair is allowed
   on a male's scalp, except from a 4-in. circle at the back of the head,
-  whence long locks hang down straight. Puberty is attained
+  whence long [[Lock|locks]] hang down straight. Puberty is attained
   ceremoniously by boys. Girls simply change a fillet for a cotton cap
   when nature proclaims womanhood. Marriage is merely the purchase of a
   wife through intermediaries, accompanied by feasting. Divorce is often
@@ -535,13 +535,13 @@ Presungalis or Viron folk.
   and looks upon adultery as hospitality, provided it is not discovered
   by the husband. If found out, _in flagrante delicto_, there is a
   fiscal fine in cows. There is much collusion to get this penalty paid
-  in poor households. Funeral rites are most elaborate, according to the
+  in poor households. [[Funeral Rites|Funeral rites]] are most elaborate, according to the
   rank and warrior fame of the deceased, if a male, and to the wealth
   and standing of the family, if a woman. Children are simply carried to
   the cemetery in a blanket, followed by a string of women lamenting. A
   really great man is mourned over for days with orations, dancing,
   wine-drinking and food distribution. Gun-firing gives notice of the
-  procession. After two or three days the corpse is placed in the coffin
+  procession. After two or three days the [[Corpse|corpse]] is placed in the coffin
   at a secluded spot, and the observances are continued with a straw
   figure lashed upon a bed, to be danced about, lamented over, and
   harangued as before. During regular intervals for business and
@@ -551,17 +551,17 @@ Presungalis or Viron folk.
   but deposited in great boxes collected in an assigned place. Finery is
   placed with the body, as well as vessels holding water and food.
   Several corpses may be heaped in one receptacle, which is, rarely,
-  ornamented with flags; its lid is kept from warping by heavy stones.
+  ornamented with [[Flag|flags]]; its lid is kept from warping by heavy stones.
   The wooden statues or effigies are at times sacrificed to when there
   is sickness, and at one of the many annual festivals food is set
   before them. Among the Presungal there are none of these images.
-  Blood-feuds within a tribe do not exist. The slayer of his fellow,
+  Blood-feuds within a tribe do not exist. The slayer of his [[Fellow|fellow]],
   even by accident, has to pay a heavy compensation or else become an
   outcast. Several hamlets and at least one village are peopled by
   families who had thus been driven forth from the community. The stigma
   attaches itself to children and their marriage connexions. Its outward
   symbol is an inability to look in the face any of the dead person's
-  family. This avoidance is ceremonial. In private and after dark all
+  family. This [[Avoidance|avoidance]] is ceremonial. In private and after dark all
   may be good friends after a decorous interval. The compensation is
   seldom paid, although payment carries with it much enhancement of
   family dignity. All the laws to punish theft, assault, adultery and
@@ -571,7 +571,7 @@ Presungalis or Viron folk.
   fighting male is too valuable a property of the whole tribe to be so
   wasted. War begins honourably with proper notice, as a rule, but the
   murder of an unsuspecting traveller may be the first intimation.
-  Bullets or arrow-heads sent to a tribe or village is the correct
+  [[Bullet|Bullets]] or arrow-heads sent to a tribe or village is the correct
   announcement of hostilities. The slaying of a tribesman need not in
   all cases cause a war. Sometimes it may be avoided by the sinning
   tribe handing over a male to be killed by the injured relations.
@@ -615,7 +615,7 @@ an inscription to be carved in the defiles of Kator to commemorate his
 invasion and to explain its route. Inside the Kafir country on the Najil
 or Alishang River there is a fort still called Timur's Castle, and in
 the Kalam fort there is said to be a stone engraved to record that as
-the farthest point of his advance. In the _Memoirs_ of Baber there is
+the farthest point of his advance. In the _Memoirs_ of [[Baber]] there is
 mention of the Kafirs raiding into Panjhir and of their taste for
 drinking, every man having a leathern wine-bottle slung round his neck.
 The _Ain-i-Akbari_ makes occasional mention of the Kafirs, probably on
@@ -634,7 +634,7 @@ place called _Capperstam_, where no Mahommedan might enter on pain of
 death. Hindu traders were allowed to visit the country, but not the
 temples. Benedict Goes tasted the Kafir wine, and from all that he heard
 suspected that the Kafirs might be Christians. Nothing more is heard of
-the Kafirs until 1788, when Rennell's _Memoir of a Map of Hindostan_
+the Kafirs until 1788, when Rennell's _Memoir of a [[Map]] of Hindostan_
 was published. Twenty-six years later Elphinstone's _Caubal_ was
 published. During the British occupation of Kabul in 1839-1840 a
 deputation of Kafirs journeyed there to invite a visit to their country
@@ -647,10 +647,10 @@ continued, especially with the people of the eastern valleys, until
 1895, when by the terms of an agreement entered into between the
 government of India and the ruler of Afghanistan the whole of the Kafir
 territory came nominally under the sway of Kabul. The amir Abdur Rahman
-at once set about enforcing his authority, and the curtain, partially
+at once set about enforcing his authority, and the [[Curtain|curtain]], partially
 lifted, fell again heavily and in darkness. Nothing but rumours reached
 the outside world, rumours of successful invasions, of the wholesale
-deportation of boys to Kabul for instruction in the religion of Islam,
+[[Deportation|deportation]] of boys to Kabul for instruction in the religion of Islam,
 of rebellions, of terrible repressions. Finally even rumour ceased. A
 powerful Asiatic ruler has the means of ensuring a silence which is
 absolute, and nothing is ever known from Kabul except what the amir

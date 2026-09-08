@@ -18,7 +18,7 @@ at the southern outlet of the Fakhi defile over these mountains, through
 which passes the shortest road from Shumla to Constantinople. The name
 Kirk-Kilisseh signifies "four churches," and the town possesses many
 mosques and Greek churches. It has an important trade with
-Constantinople in butter and cheese, and also exports wine, brandy,
+Constantinople in [[Butter|butter]] and [[Cheese|cheese]], and also exports wine, [[Brandy|brandy]],
 cereals and tobacco.
 
 ## See also

@@ -12,7 +12,7 @@ The first coin so called was one struck in gold by John II. of France in
 it is said, the name. It also bore an effigy of King John on horseback,
 from which it was called a _franc à cheval_, to distinguish it from
 another coin of the same value, issued by Charles V., on which the king
-was represented standing upright under a Gothic dais; this coin was
+was represented standing upright under a [[Gothic]] dais; this coin was
 termed a _franc à pied_. As a coin it disappeared after the reign of
 Charles VI., but the name continued to be used as an equivalent for the
 _livre tournois_, which was worth twenty sols. French writers would
@@ -22,7 +22,7 @@ term, thus "_trois livres_" or "_trois francs_," but "_trois livres cinq
 sols_." In 1795 the livre was legally converted into the franc, at the
 rate of 81 livres to 80 francs, the silver franc being made to weigh
 exactly five grammes. The franc is now the unit of the monetary system
-and also the money of account in France, as well as in Belgium and
+and also the money of account in France, as well as in [[Belgium]] and
 Switzerland. In Italy the equivalent is the lira, and in Greece the
 drachma. The franc is divided into 100 centimes, the lira into 100
 centesimi and the drachma into 100 lepta. Gold is now the standard, the
@@ -70,17 +70,17 @@ Plombières (Vosges), and, on attaining the age of fifteen, was placed as
 office-boy with a bookseller. After a few years of hard struggle, during
 which he made a precarious living by drawing on stone and designing
 woodcut vignettes for book illustration, he studied painting under
-Gigoux, and subsequently under Corot, whose influence remained decisive
+Gigoux, and subsequently under [[Corot]], whose influence remained decisive
 upon Français's style of landscape painting. He generally found his
 subjects in the neighbourhood of Paris, and though he never rivalled his
 master in lightness of touch and in the lyric poetry which is the
-principal charm of Corot's work, he is still counted among the leading
+principal [[Charm|charm]] of Corot's work, he is still counted among the leading
 landscape painters of his country and period. He exhibited first at the
 Salon in 1837 and was elected to the Académie des Beaux-Arts in 1890.
 Comparatively few of his pictures are to be found in public galleries,
 but his painting of "An Italian Sunset" is at the Luxembourg Museum in
-Paris. Other works of importance are "Daphnis et Chloé" (1872), "Bas
-Meudon" (1861), "Orpheus" (1863), "Le Bois sacré" (1864), "Le Lac de
+Paris. Other works of importance are "[[Daphnis]] et Chloé" (1872), "Bas
+Meudon" (1861), "Orpheus" (1863), "Le Bois sacré" (1864), "Le [[Lac]] de
 Némi" (1868).
 
 ## See also

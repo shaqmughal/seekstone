@@ -15,13 +15,13 @@ of the dynasty which now rules over Manchuria and China as an
 appropriate designation for his family. Manchuria lies in a
 north-westerly and south-easterly direction between 39° and 53° N. and
 between 116° and 134° E., and is wedged in between China and Mongolia on
-the west and north-west, and Korea and the Russian territory on the Amur
+the west and north-west, and [[Korea]] and the Russian territory on the Amur
 on the east and north. More definitely, it is bounded N. by the Amur, E.
 by the Usuri, S. by the Gulf of Liao-tung, the Yellow Sea and Korea, and
-W. by Chih-li and Mongolia. The territory thus defined is about 800 m.
+W. by [[Chih-Li|Chih-li]] and Mongolia. The territory thus defined is about 800 m.
 in length and 500 m. in width, and contains about 390,000 sq. m. It is
 divided into three provinces, viz. Hei-lung-kiang or Northern Manchuria,
-Kirin or Central Manchuria, and Sheng-king or Southern Manchuria.
+[[Kirin]] or Central Manchuria, and Sheng-king or Southern Manchuria.
 Physically the country is divided into two regions, the one a series of
 mountain ranges occupying the northern and eastern portions of the
 kingdom, and the other a plain which stretches southwards from Mukden,
@@ -77,7 +77,7 @@ populous and prosperous city in the north of the province; and
 Sing-king, east of Mukden, the original seat of the founders of the
 present dynasty. The most important commercial place, however, is the
 treaty port of Niu-chwang, at the head of the Gulf of Liao-tung.
-According to the custom-house returns the value of the foreign imports
+According to the [[Custom-House|custom-house]] returns the value of the foreign imports
 and exports in the year 1880 was £691,954 and £1,117,790 respectively,
 besides a large native trade carried on in junks. In 1904 the value of
 foreign imports had risen to £2,757,962, but the exports amounted to
@@ -106,7 +106,7 @@ cities in the province.
 Hei-lung-kiang, or Northern Manchuria, which contains about 195,000 sq.
 m., is bounded on the N. and N.E. by the Amur, on the S. by the Sungari,
 and on the W. by the Nonni and Mongolia. It is traversed by the Great
-and Lesser Khingan mountains and their offshoots. This province is
+and Lesser [[Khingan]] mountains and their offshoots. This province is
 thinly populated, and is cultivated only along the lines of its rivers.
 The only towns of any importance are Tsitsihar and Mergen, both situated
 on the Nonni and Khailar in the west.
@@ -125,14 +125,14 @@ on the Nonni and Khailar in the west.
   those common in England, and severe as the weather is in winter the
   less elevated mountains are covered to their summits with trees. The
   wild animals also are those known in Europe, with the addition of
-  tigers and panthers. Bears, wild boars, hares, wolves, foxes and wild
+  tigers and panthers. Bears, wild boars, [[Hare|hares]], wolves, [[Foxe|foxes]] and wild
   cats are very common, and in the north sables are found in great
-  numbers. One of the most noticeable of the birds is the Mongolian lark
+  numbers. One of the most noticeable of the birds is the Mongolian [[Lark|lark]]
   (_Melanocorypha mongolica_), which is found in a wild state both in
-  Manchuria and in the desert of Mongolia. This bird is exported in
+  Manchuria and in the [[Desert|desert]] of Mongolia. This bird is exported in
   large numbers to northern China, where it is much prized on account of
   its extraordinary power of imitation. The Manchurian crane is common,
-  as also are eagles, cuckoos, laughing doves, &c. Insects abound, owing
+  as also are [[Eagle|eagles]], [[Cuckoo|cuckoos]], laughing [[Dove|doves]], &c. [[Insect|Insects]] abound, owing
   to the swampy nature of much of the country. The rivers are well
   stocked with fish, especially with salmon, which forms a common
   article of food. In such immense shoals do these fish appear in some
@@ -148,7 +148,7 @@ on the Nonni and Khailar in the west.
   Radevska, and at Chia-pi-kou, on an affluent of the upper Sungari.
   Indigo and opium are the most lucrative crops. The indigo plant is
   grown in large quantities in the plain country to the north of Mukden,
-  and is transported thence to the coast in carts, each of which carries
+  and is transported thence to the coast in [[Cart|carts]], each of which carries
   rather more than a ton weight of the dye. The poppy is cultivated
   wherever it will grow, the crop being far more profitable than that of
   any other product. Cotton, tobacco, pulse, millet, wheat and barley
@@ -174,7 +174,7 @@ on the Nonni and Khailar in the west.
   strikes southward to Kin-chow at the extremity of the Liao-tung
   peninsula. The fourth connects Niu-chwang with the Gate of Korea.
 
-  [Illustration: Map of Manchuria.]
+  [Illustration: [[Map]] of Manchuria.]
 
 
     Manchurian Railways.
@@ -196,7 +196,7 @@ on the Nonni and Khailar in the west.
   railway by a branch southward from Harbin. In spite of interruption
   caused by the Boxer outbreak, through communication was established in
   1901. Under the Russo-Japanese treaty of August 1905, after the war,
-  supplemented by a convention between Japan and China concluded in
+  supplemented by a convention between [[Japan]] and China concluded in
   December of the same year, Japan took over the line from Port Arthur
   as far as Kwang-cheng-tsze, now known as the Southern Manchurian
   railway (508 m.). Branches were promoted (a) from Mukden to Antung on
@@ -207,7 +207,7 @@ on the Nonni and Khailar in the west.
   connexion from Peking, and Branches at Kou-pang-tsze to Sin-min-ting
   and to Niu-chwang, and the link between Sin-min-ting and Mukden is
   also under Chinese control. The lines now under Russian control were
-  laid down, and remain, on the 5 ft. gauge which is the Russian
+  laid down, and remain, on the 5 ft. [[Gauge|gauge]] which is the Russian
   standard; but after the Russian control of the southern lines was lost
   the gauge was altered from that standard.
 
@@ -216,12 +216,12 @@ of the people who inhabit it. The name was adopted by a ruler who rose
 to power in the beginning of the 13th century. Before that time the
 Manchus were more or less a shifting population, and, being broken up
 into a number of tribes, they went mainly under the distinctive name of
-those clans which exercised lordship over them. Thus under the Cbow
+those [[Clan|clans]] which exercised lordship over them. Thus under the Cbow
 dynasty (1122-225 B.C.) they were known as Sewshin, and at subsequent
 periods as Yih-low, Wuh-keih, Moh-hoh, Pohai, Nüchih and according to
 the Chinese historians also as Khitan. Throughout their history they
 appear as a rude people, the tribute they brought to the Chinese court
-consisting of stone arrow-heads, hawks, gold, and latterly ginseng.
+consisting of stone arrow-heads, [[Hawks|hawks]], gold, and latterly ginseng.
 Assuming that, as the Chinese say, the Khitans were Manchus, the first
 appearance of the Manchus, as a people, in China dates from the
 beginning of the 10th century, when the Khitans, having first conquered
@@ -230,22 +230,22 @@ the Liao or Iron dynasty in the northern portion of the empire. These
 invaders were in their turn overthrown two centuries later by another
 invasion from Manchuria. These new conquerors were Nüchihs, and
 therefore direct ancestors of the Manchus. On assuming the imperial
-yellow in China their chief adopted the title of Kin or "Golden" for his
+yellow in China their chief adopted the title of [[Kin]] or "Golden" for his
 dynasty. "Iron" (Liao), he said, "rusts, but gold always keeps its
 purity and colour, therefore my dynasty shall be called Kin." In a
 little more than a century, however, the Kins were driven out of China
-by the Mongols under Jenghiz Khan. But before the close of their rule a
+by the Mongols under Jenghiz [[Khan]]. But before the close of their rule a
 miraculous event occurred on the Chang-pai-Shan mountains which is
 popularly believed to have laid the seeds of the greatness of the
 present rulers of the empire. Three heaven-born maidens, so runs the
 legend, were bathing one day in a lake under the Chang-pai-Shan
-mountains when a passing magpie dropped a ripe red fruit into the lap of
-one of them. The maiden ate the fruit, and in due course a child was
+mountains when a passing [[Magpie|magpie]] dropped a ripe red fruit into the lap of
+one of them. The maiden [[Ate|ate]] the fruit, and in due course a child was
 born to her, whom she named Aisin Gioro, or the Golden. When quite a lad
 Aisin Gioro was elected chief over three contending clans, and
 established his capital at Otoli near the Chang-pai-Shan mountains. His
 reign, however, was brief, for his subjects rose and murdered him, with
-all his sons except the youngest, Fancha, who, like the infant Haitu in
+all his sons except the youngest, Fancha, who, like the [[Infant|infant]] Haitu in
 Mongolian history, was miraculously saved. Nothing is recorded of the
 facts of Aisin Gioro's reign except that he named the people over whom
 he reigned Manchu, or "Pure." His descendants, through the rescued

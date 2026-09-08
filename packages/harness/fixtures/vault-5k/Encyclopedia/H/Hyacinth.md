@@ -24,7 +24,7 @@ mentioned as blooming well in water-glasses. Justice relates that he
 himself raised several very valuable double-flowered kinds from seeds,
 which many of the sorts he describes are noted for producing freely.
 
-The original of the cultivated hyacinth, _Hyacinthus orientalis_, a
+The original of the cultivated hyacinth, _[[Hyacinthus]] orientalis_, a
 native of Greece and Asia Minor, is by comparison an insignificant
 plant, bearing on a spike only a few small, narrow-lobed, washy blue
 flowers, resembling in form those of our common blue-bell. So great has
@@ -35,7 +35,7 @@ of a large number of flowers; the spikes produced by strong bulbs not
 unfrequently measure 6 to 9 in. in length and from 7 to 9 in. in
 circumference, with the flowers closely set on from bottom to top. Of
 late years much improvement has been effected in the size of the
-individual flowers and the breadth of their recurving lobes, as well as
+individual flowers and the breadth of their recurving [[Lobe|lobes]], as well as
 in securing increased brilliancy and depth of colour.
 
 The peculiarities of the soil and climate of Holland are so very
@@ -47,12 +47,12 @@ notion of the vast number imported into England annually may be formed
 from the fact that, for the supply of flowering plants to Covent Garden,
 one market grower alone produces from 60,000 to 70,000 in pots under
 glass, their blooming period being accelerated by artificial heat, and
-extending from Christmas onwards until they bloom naturally in the open
+extending from [[Christmas]] onwards until they bloom naturally in the open
 ground.
 
 In the spring flower garden few plants make a more effective display
 than the hyacinth. Dotted in clumps in the flower borders, and arranged
-in masses of well-contrasted colours In beds in the flower garden, there
+in masses of well-contrasted [[Colours|colours]] In beds in the flower garden, there
 are no flowers which impart during their season--March and April--a
 gayer tone to the parterre. The bulbs are rarely grown a second time,
 either for indoor or outdoor culture, though with care they might be
@@ -99,7 +99,7 @@ for which is regulated in some respects by fashion.
   of loose earth and skin, ready for storing. It is the practice in
   Holland, about a month after the bloom, or when the tips of the leaves
   assume a withered appearance, to take up the bulbs, and to lay them
-  sideways on the ground, covering them with an inch or two of earth.
+  sideways on the ground, covering them with an [[Inch|inch]] or two of earth.
   About three weeks later they are again taken up and cleaned. In the
   store-room they should be kept dry, well-aired and apart from each
   other.
@@ -146,7 +146,7 @@ for which is regulated in some respects by fashion.
   bulbous plants. Thus _Muscari botryoides_ is the grape hyacinth, 6
   in., blue or white, the handsomest; _M. moschatum_, the musk hyacinth,
   10 in., has peculiar livid greenish-yellow flowers and a strong musky
-  odour; _M. comosum_ var. _monstrosum_, the feather hyacinth, bears
+  odour; _M. comosum_ var. _monstrosum_, the [[Feather|feather]] hyacinth, bears
   sterile flowers broken up into a featherlike mass; _M. racemosum_, the
   starch hyacinth, is a native with deep blue plum-scented flowers. The
   Cape hyacinth is _Galtonia candicans_, a magnificent border plant, 3-4

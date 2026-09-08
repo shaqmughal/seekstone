@@ -14,7 +14,7 @@ American missionary and educational enterprise, and the seat of Anatolia
 College, a theological seminary, and schools which were partly destroyed
 in the anti-Armenian riots of 1893 and 1895. There is also a Jesuit
 school. Marsivan is an unusually European place both in its aspect and
-the commodities procurable in the bazaar.
+the commodities procurable in the [[Bazaar|bazaar]].
 
 ## See also
 

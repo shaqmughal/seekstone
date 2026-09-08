@@ -22,7 +22,7 @@ the Pyrenees, and in October was dubbed knight by Alphonso and married
 to Eleanor at the Cistercian convent of Las Huelgas, near Burgos. He
 remained in Gascony till November 1255, but his father was too jealous
 to allow him a free hand in its administration. After his return, the
-attempts of his agents to establish English laws in his Welsh
+attempts of his agents to establish [[English Law|English laws]] in his Welsh
 possessions brought Edward into hostile relations with the Welsh. Here
 also his father would give him no help, and his first campaign brought
 him little result. Edward became extremely unpopular through his
@@ -63,7 +63,7 @@ subsequently computed. Affairs in England were so peaceful that Edward
 did not hurry home. After a slow journey through Italy and France he did
 homage to his cousin Philip III. at Paris, on the 26th of July 1273. He
 then went to Gascony, where he stayed nearly a year. At last he landed
-at Dover on the 2nd of August 1274, and was crowned at Westminster on
+at [[Dover]] on the 2nd of August 1274, and was crowned at Westminster on
 the 18th of the same month.
 
 Edward was thirty-five years old when he became king, and the rude
@@ -199,7 +199,7 @@ and conquered Scotland in 1296. When quiet was restored to Britain, he
 hoped to throw all his energy into the recovery of Gascony, but new
 troubles arose at home which once more diverted him from his supreme
 purpose. Led by Archbishop Winchelsea, Peckham's successor, the clergy
-refused to pay taxes in obedience to the bull of Pope Boniface VIII.,
+refused to pay taxes in obedience to the [[Bull|bull]] of Pope Boniface VIII.,
 called _Clericis Laicos_. Edward declared that if the clergy would not
 contribute to support the state, the state could afford them no
 protection. But the clerical opposition was soon joined by a baronial
@@ -256,7 +256,7 @@ of Norfolk, and Edmund of Woodstock, earl of Kent.
   (1896); T.F. Tout, _Edward I._ (1893), and _Political History of
   England, 1216-1377_, pp. 136-235 (1905); R.B. Seeley, _Life and Reign
   of Edward I._ (1872); R. Pauli, _Geschichte von England_, iv. pp.
-  1-198 (Hamburg, 1864-1875); W. Hunt, article on "Edward I." in
+  1-198 (Hamburg, 1864-1875); W. [[Hunt]], article on "Edward I." in
   _Dictionary of National Biography_; J.E. Morris, _Welsh Wars of Edward
   I._ (Oxford, 1901); and C.V. Langlois's _Philippe le Hardi_ (Paris,
   1887).     (T. F. T.)

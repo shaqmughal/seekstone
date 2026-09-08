@@ -16,7 +16,7 @@ and a chapel (now in ruins) on Isle Maree. Trending in a south-easterly
 to north-westerly direction, the lake has a length of 13½ m. from
 Kinlochewe at the head of the dam erected in the 16th century (or
 earlier) by the iron-smelters of the Cheardach Ruardh, or Red Smiddy, on
-the short but impetuous river Ewe by which it drains to the sea. It lies
+the short but impetuous river [[Ewe]] by which it drains to the sea. It lies
 at a height of 32 ft. above sea-level; the greatest breadth is just over
 2 m. at Slattadale, the mean breadth being 9/10 of a mile; and the
 greatest depth, 367 ft., occurs in the upper basin, the mean depth being
@@ -26,7 +26,7 @@ feature is the large number (more than 30) and considerable area of the
 islands. Excepting Loch Cròcach, a small lake in the Assynt district of
 Sutherlandshire, its insularity (i.e. the ratio of the total area of the
 islands to that of the water surface) is higher than that of any other
-lake in Great Britain, Loch Lomond coming next. Nearly all the islands
+lake in Great Britain, Loch [[Lomond]] coming next. Nearly all the islands
 lie north and east of Slattadale, the largest being Eilean Subhainn, or
 St Swithin's Isle, which contains a small lake 750 ft. long, 300 ft.
 broad and 64 ft. deep. For two-thirds of its length the loch is flanked

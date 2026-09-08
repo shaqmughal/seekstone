@@ -8,27 +8,27 @@ type: article
 # Cryolite
 
 CRYOLITE, a mineral discovered in Greenland by the Danes in 1794, and
-found to be a compound of fluorine, sodium and aluminium. From its
+found to be a compound of [[Fluorine|fluorine]], sodium and aluminium. From its
 general appearance, and from the fact that it melts readily, even in a
-candle-flame, it was regarded by the Eskimos as a peculiar kind of ice;
+candle-flame, it was regarded by the Eskimos as a peculiar kind of [[Ice|ice]];
 from this fact it acquired the name of cryolite (from Gr. [Greek:
-kryos], frost, and [Greek: lithos], stone). Cryolite occurs in
+kryos], [[Frost|frost]], and [Greek: lithos], stone). Cryolite occurs in
 colourless or snow-white cleavable masses, often tinted brown or red
 with iron oxide, and occasionally passing into a black variety. It is
-usually translucent, becoming nearly transparent on immersion in water.
+usually translucent, becoming nearly transparent on [[Immersion|immersion]] in water.
 The mineral cleaves in three rectangular directions, and the crystals
 occasionally found in the crevices have a cubic habit, but it has been
 proved, after much discussion, that they belong to the anorthic system.
 The hardness is 2.5, and the specific gravity 3. Cryolite has the
 formula Na3AlF6, or 3NaF.AlF3, corresponding to fluorine 54.4, sodium
-32.8, and aluminium 12.8%. It colours a flame yellow, through the
+32.8, and aluminium 12.8%. It [[Colours|colours]] a flame yellow, through the
 presence of sodium, and when heated with sulphuric acid it evolves
 hydrofluoric acid.
 
 Cryolite occurs almost exclusively at Ivigtut (sometimes written
 Evigtok) on the Arksut Fjord in S.W. Greenland. There it forms a large
-deposit, in a granitic vein running through gneiss, and is accompanied
-by quartz, siderite, galena, blende, chalcopyrite, &c. It is also
+deposit, in a granitic vein running through [[Gneiss|gneiss]], and is accompanied
+by quartz, siderite, [[Galena|galena]], [[Blende|blende]], chalcopyrite, &c. It is also
 associated with a group of kindred minerals, some of which are evidently
 products of alteration of the cryolite, known as pachnolite,
 thomsenolite, ralstonite, gearksutite, arksutite, &c. Cryolite likewise
@@ -38,7 +38,7 @@ Mountains; at Pike's Peak, Colorado, and in the Yellowstone Park.
 Cryolite is a mineral of much economic importance. It has been
 extensively used as a source of metallic aluminium, and as a flux in
 smelting the metal. It is largely employed in the manufacture of certain
-sodium salts, as suggested by Julius Thomsen, of Copenhagen, in 1849;
+sodium salts, as suggested by [[Julius]] Thomsen, of [[Copenhagen]], in 1849;
 and it has been used for the production of certain kinds of porcelain
 and glass, remarkable for its toughness, and for enamelled ware.
 

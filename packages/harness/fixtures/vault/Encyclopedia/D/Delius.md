@@ -2,7 +2,7 @@
 
 DELIUS, NIKOLAUS (1813-1888), German philologist and Shakespearean
 scholar, was born at Bremen on the 19th of September 1813. He was
-educated at Bonn and Berlin, and took the degree of doctor in philosophy
+educated at [[Bonn]] and Berlin, and took the degree of doctor in philosophy
 in 1838. After travelling for some time in England, France and Germany,
 he returned to Bonn in 1846, where in 1855 he was appointed professor of
 Sanskrit, Provencal and English literature, a post he held until his

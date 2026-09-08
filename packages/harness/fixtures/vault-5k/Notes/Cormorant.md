@@ -13,7 +13,7 @@ and breeds in societies at various stations, most generally on steep
 cliffs, but occasionally on rocky islands as well as on trees. The nest
 consists of a large mass of sea-weed, and, with the ground immediately
 surrounding it, generally looks as though bespattered with whitewash,
-from the excrement of the bird, which lives entirely on fish. The eggs,
+from the excrement of the bird, which lives entirely on fish. The [[Egg|eggs]],
 from four to six in number, are small, and have a thick, soft,
 calcareous shell, bluish-white when first laid, but soon becoming
 discoloured. The young are hatched blind, and covered with an inky-black
@@ -21,11 +21,11 @@ skin. They remain for some time in the squab-condition, and are then
 highly esteemed for food by the northern islanders, their flesh being
 said to taste as well as a roasted hare's. Their first plumage is of a
 sombre brownish-black above, and more or less white beneath. They take
-two or three years to assume the fully adult dress, which is deep
+two or three years to assume the fully adult [[Dress|dress]], which is deep
 black, glossed above with bronze, and varied in the breeding-season with
 white on the cheeks and flanks, besides being adorned by filamentary
-feathers on the head, and further set off by a bright yellow gape. The
-old cormorant looks nearly as big as a goose, but is really much
+[[Feather|feathers]] on the head, and further set off by a bright yellow gape. The
+old cormorant looks nearly as big as a [[Goose|goose]], but is really much
 smaller; its flesh is quite uneatable.
 
 Taken when young from the nest, this bird is easily tamed and can be
@@ -75,7 +75,7 @@ of each being connected by a web, for their long stiff tails, and for
 the absence, in the adult, of any exterior nostrils. When gorged, or
 when the state of the tide precludes fishing, they are fond of sitting
 on an elevated perch, often with extended wings, and in this attitude
-they will remain motionless for a considerable time, as though hanging
+they will remain motionless for a considerable time, as though [[Hanging|hanging]]
 themselves out to dry. It was perhaps this peculiarity that struck the
 observation of Milton, and prompted his well-known similitude of Satan
 to a cormorant (_Parad. Lost_, iv. 194); but when not thus behaving they
@@ -88,7 +88,7 @@ FOOTNOTES:
   [1] Some authors, following Caius, derive the word from _corvus
     vorans_ and spell it corvorant, but doubtless wrongly.
 
-  [2] So spelt since the days of Gesner; but possibly _Phalaracorax_
+  [2] So spelt since the days of [[Gesner]]; but possibly _Phalaracorax_
     would be more correct.
 
   [3] According to Willoughby it was formerly the custom to carry the

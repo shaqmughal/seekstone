@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Apollo"
 
 APOLLO (Gr. [Greek: Apollon, Apellon]), in Greek mythology, one of the
 most important and many-sided of the Olympian divinities. No
-satisfactory etymology of the name has been given, the least improbable
+satisfactory [[Etymology|etymology]] of the name has been given, the least improbable
 perhaps being that which connects it with the Doric [Greek: apella]
 ("assembly")[1] so that Apollo would be the god of political life (for
 other suggested derivations, ancient and modern, see C. Wernicke in
@@ -18,11 +18,11 @@ assigned to him from the idea of a single original light- or sun-god,
 worked out in his _Lexikon der Mythologie_ by Roscher, who regards it as
 "one of the most certain facts in mythology," has not found general
 acceptance, although no doubt some features of his character can be
-readily explained on this assumption.
+readily explained on this [[Assumption|assumption]].
 
 In the legend, as set forth in the Homeric hymn to Apollo and the ode of
-Callimachus to Delos, Apollo is the son of Zeus and Leto. The latter,
-pursued by the jealous Hera, after long wandering found shelter in Delos
+[[Callimachus]] to Delos, Apollo is the son of Zeus and Leto. The latter,
+pursued by the jealous [[Hera]], after long wandering found shelter in Delos
 (originally Asteria), where she bore a son, Apollo, under a palm-tree at
 the foot of Mount Cynthus. Before this, Delos--like Rhodes, the centre
 of the worship of the sun-god Helios, with whom Apollo was wrongly
@@ -31,18 +31,18 @@ became stationary, being fastened down by chains to the bottom of the
 sea. Apollo was born on the 7th day ([Greek: Ebdomagenes]) of the month
 Thargelion according to Delian, of the month Bysios according to
 Delphian, tradition. The 7th and 20th, the days of the new and full
-moon, were ever afterwards held sacred to him. In Homer Apollo appears
+moon, were ever afterwards held sacred to him. In [[Homer]] Apollo appears
 only as the god of prophecy, the sender of plagues, and sometimes as a
 warrior, but elsewhere as exercising the most varied functions. He is
 the god of agriculture, specially connected with Aristaeus (q.v.),
 which, originally a mere epithet, became an independent personality
 (see, however, Farnell, _Cults of the Greek States_, iv. 123). This side
 of his character is clearly expressed in the titles _Sitalcas_
-("protector of corn"); _Erythibius_ ("preventer of blight"); _Parnopius_
+("protector of [[Corn|corn]]"); _Erythibius_ ("preventer of blight"); _Parnopius_
 ("destroyer of locusts"); _Smintheus_ ("destroyer of mice"), in which,
 however, some modern inquirers see a totemistic significance (e.g. A.
 Lang, "Apollo and the Mouse," in _Custom and Myth_, p. 101; against
-this, W.W. Fowler, in _Classical Review_, November 1892); _Erithius_
+this, W.W. [[Fowler]], in _Classical Review_, November 1892); _Erithius_
 ("god of reapers"); and _Pasparius_ ("god of meal"). He is further the
 god of vegetation generally--_Nomios_, "god of pastures" (explained,
 however, by Cicero, as "god of law"), _Hersos_, "sender of the
@@ -59,7 +59,7 @@ appears on monuments in company with the Horae.
 Apollo is also the protector of cattle and herds, hence _Poimnius_ ("god
 of flocks"), _Tragius_ ("of goats"), _Kereatas_ ("of horned animals").
 _Carneius_ (probably "horned") is considered by some to be a pre-Dorian
-god of cattle, also connected with harvest operations, whose cult was
+god of cattle, also connected with [[Harvest|harvest]] operations, whose cult was
 grafted on to that of Apollo; by others, to have been originally an
 epithet of Apollo, afterwards detached as a separate personality
 (Farnell, _Cults_, iv. p. 131). The epithet _Maleatas_, which, as the
@@ -87,21 +87,21 @@ passage to manhood. As such Apollo is [Greek: kourotrophos] ("rearer of
 boys") and patron of the palaestra. In many places gymnastic contests
 form a feature of his festivals, and he himself is proficient in
 athletic exercises ([Greek: enagonios]). Thus he was supposed to be the
-first victor at the Olympic games; he overcomes Hermes in the foot-race,
-and Ares in boxing.
+first victor at the Olympic [[Games|games]]; he overcomes [[Hermes]] in the foot-race,
+and [[Ares]] in [[Boxing|boxing]].
 
 The transition is easy to Apollo as a warlike god; in fact, the earlier
 legends represent him as engaged in strife with Python, Tityus, the
-Cyclopes and the Aloidae. He is _Boedromios_ ("the helper"), _Eleleus_
+[[Cyclopes]] and the Aloidae. He is _Boedromios_ ("the helper"), _Eleleus_
 ("god of the war-cry"), and the Paean was said to have been originally a
 song of triumph composed by him after his victory over Python. In Homer
 he frequently appears on the field, like Ares and Athene, bearing the
 aegis to frighten the foe. This aspect is confirmed by the epithets
-_Argyrotoxos_ ("god of the silver bow"), _Hecatebolos_ ("the shooter
+_Argyrotoxos_ ("god of the silver [[Bow|bow]]"), _Hecatebolos_ ("the shooter
 from afar"), _Chrysaoros_ ("wearer of the golden sword"), and his
 statues are often equipped with the accoutrements of war.[3]
 
-The fame of the Pythian oracle at Delphi, connected with the slaying of
+The fame of the Pythian oracle at [[Delphi]], connected with the slaying of
 Python by the god immediately after his birth, gave especial prominence
 to the idea of Apollo as a god of prophecy. Python, always represented
 in the form of a snake, sometimes nameless, is the symbol of the old
@@ -119,17 +119,17 @@ necessary. In the solar explanation, the serpent is the darkness driven
 away by the rays of the sun. (On the Delphian cult of Apollo and its
 political significance, see AMPHICTYONY, DELPHI, ORACLE; and Farnell,
 _Cults_, iv. pp. 179-218.) Oracular responses were also given at Claros
-near Colophon in Ionia by means of the water of a spring which inspired
+near Colophon in [[Ionia]] by means of the water of a spring which inspired
 those who drank of it; at Patara in Lycia; and at Didyma near Miletus
 through the priestly family of the Branchidae. Apollo's oracles, which
 he did not deliver on his own initiative but as the mouthpiece of Zeus,
 were infallible, but the human mind was not always able to grasp their
 meaning; hence he is called _Loxias_ ("crooked," "ambiguous"). To
 certain favoured mortals he communicated the gift of prophecy
-(Cassandra, the Cumaean sibyl, Helenus, Melampus and Epimenides).
+([[Cassandra]], the Cumaean sibyl, [[Helenus]], Melampus and [[Epimenides]]).
 Although his favourite method was by word of mouth, yet signs were
-sometimes used; thus Calchas interpreted the flight of birds; burning
-offerings, sacrificial barley, the arrow of the god, dreams and the lot,
+sometimes used; thus [[Calchas]] interpreted the flight of birds; burning
+offerings, sacrificial barley, the arrow of the god, [[Dream|dreams]] and the [[Lot|lot]],
 all played their part in communicating the will of the gods.
 
 Closely connected with the god of oracles was the god of the healing
@@ -142,7 +142,7 @@ again, as in the case of Aristaeus and Carneius, the question arises
 whether Paean (or Paeon) was originally an epithet of Apollo,
 subsequently developed into an independent personality, or an
 independent deity merged in the later arrival (Farnell, _Cults_, iv. p.
-234). According to Wilamowitz-Mollendorff in his edition of Isyllus, the
+234). According to Wilamowitz-Mollendorff in his edition of [[Isyllus]], the
 epithet Maleatas alluded to above is also connected with the functions
 of the healing god, imported into Athens in the 4th century B.C. with
 other well-known health divinities. In this connexion, it is said to
@@ -163,9 +163,9 @@ the old law of blood for blood, which only perpetuated the crime from
 generation to generation, gave way to the milder idea of the expiatory
 power of atonement for murder (cf. the court called [Greek: to epi
 Delphinio] at Athens, which retained jurisdiction in cases where
-justifiable homicide was pleaded).
+justifiable [[Homicide|homicide]] was pleaded).
 
-The same element of enthusiasm that affects the priestess of the oracle
+The same element of [[Enthusiasm|enthusiasm]] that affects the priestess of the oracle
 at Delphi produces song and music. The close connexion between prophecy
 and song is indicated in Homer (_Odyssey_, viii. 488), where Odysseus
 suggests that the lay of the fall of Troy by Demodocus was inspired by
@@ -173,16 +173,16 @@ Apollo or the Muse. The metrical form of the oracular responses at
 Delphi, the important part played by the paean and the Pythian nomos in
 his ritual, contributed to make Apollo a god of song and music, friend
 and leader of the Muses ([Greek: mousagetes]). He plays the lyre at the
-banquets of the gods, and causes Marsyas to be flayed alive because he
-had boasted of his superior skill in playing the flute, and the ears of
+banquets of the gods, and causes [[Marsyas]] to be flayed alive because he
+had boasted of his superior skill in playing the [[Flute|flute]], and the [[Ear|ears]] of
 Midas to grow long because he had declared in favour of Pan, who
 contended that the flute was a better instrument than Apollo's
 favourite, the lyre.
 
 A less important aspect of Apollo is that of a marine deity, due to the
 spread of his cult to the Greek colonies and islands. As such, his
-commonest name is _Delphinius_, the "dolphin god," in whose honour the
-festival Delphinia was celebrated in Attica. This cult probably
+commonest name is _Delphinius_, the "[[Dolphin|dolphin]] god," in whose honour the
+festival [[Delphinia]] was celebrated in Attica. This cult probably
 originated in Crete, whence the god in the form of a dolphin led his
 Cretan worshippers to the Delphian shore, where he bade them erect an
 altar in his honour. He is _Epibaterius_ and _Apobaterius_ ("embarker"
@@ -203,7 +203,7 @@ the epithet _Prostaterius_, he who "stands before the house," hence
 (1902). Lastly, as the originator and protector of civil order, Apollo
 was regarded as the founder of cities and legislation. Thus, at Athens,
 Apollo _Patroos_ was known as the protector of the lonians, and the
-Spartans referred the institutions of Lycurgus to the Delphic oracle.
+Spartans referred the institutions of [[Lycurgus]] to the Delphic oracle.
 
 It has been mentioned above that W.H. Roscher, in the article "Apollo"
 in his _Lexikon der Mythologie_, derives all the aspects and functions
@@ -215,47 +215,47 @@ Phoebus Apollo; the constant epithet [Greek: Phoibos], usually explained
 as the brightness of the sun, may equally well refer to his physical
 beauty or moral purity; [Greek: lykegenes] has already been noticed. It
 is not until the beginning of the 5th century B.C. that the
-identification makes its appearance. The first literary evidence is a
-fragment of Euripides (_Phaethon_), in which it is especially
+[[Identification|identification]] makes its appearance. The first literary evidence is a
+fragment of [[Euripides]] (_Phaethon_), in which it is especially
 characterized as an innovation. The idea was taken up by the Stoics, and
-in the Roman period generally accepted. But the fact of the gradual
+in the Roman period generally accepted. But the fact of the [[Gradual|gradual]]
 development of Apollo as a god of light and heaven, and his
 identification with foreign sun-gods, is no proof of an original Greek
 solar conception of him. Apollo-Helios must be regarded as "a late
 by-product of Greek religion" (Farnell, _Cults_, iv. p. 136; Wernicke in
 Pauly-Wissowa's _Realencydopadie_). For the manner in which the solar
 theory is developed, reference must be made to Roscher's article, but
-one legend may here be mentioned, since it helps to trace the spread of
+one legend may here be mentioned, since it [[Helps|helps]] to trace the spread of
 the cult of the god. It was said that Apollo soon after his birth spent
-a year amongst the Hyperboreans, who dwelt in a land of perpetual
+a year amongst the [[Hyperboreans]], who dwelt in a land of perpetual
 sunshine, before his return to Delphi. This return is explained as the
 second birth of the god and his victory over the powers of winter; the
 name Hyperboreans is explained as the "dwellers beyond the north wind."
 This interpretation is now, however, generally rejected in favour of
 that of H.L. Ahrens,--that Hyperborei is identical with the Perpherees
-("the carriers"), who are described as the servants of Apollo, carriers
+("the [[Carrier|carriers]]"), who are described as the servants of Apollo, carriers
 of cereal offerings from one community to another (Herodotus iv. 33).
 This would point to the fact that certain settlements of Apolline
 worship along the northernmost border of Greece (Illyria, Thrace,
 Macedonia) were in the habit of sending offerings to the god to a centre
 of his worship farther south (probably Delphi), advancing by the route
-from Tempe through Thessaly, Pherae and Doris to Delphi; while others
-adopted the route through Illyria, Epirus, Dodona, the Malian gulf,
-Carystus in Euboea, and Tenos to Delos (Farnell, _Cults_, iv. p. 100).
+from Tempe through Thessaly, Pherae and [[Doris]] to Delphi; while others
+adopted the route through Illyria, Epirus, [[Dodona]], the Malian gulf,
+Carystus in [[Euboea]], and Tenos to Delos (Farnell, _Cults_, iv. p. 100).
 
 The most usual attributes of Apollo were the lyre and the bow; the
 tripod especially was dedicated to him as the god of prophecy. Among
 plants, the bay, used in expiatory sacrifices and also for making the
 crown of victory at the Pythian games, and the palm-tree, under which he
 was born in Delos, were sacred to him; among animals and birds, the
-wolf, the roe, the swan, the hawk, the raven, the crow, the snake, the
-mouse, the grasshopper and the griffin, a mixture of the eagle and the
+wolf, the roe, the swan, the [[Hawk|hawk]], the raven, the crow, the snake, the
+mouse, the [[Grasshopper|grasshopper]] and the [[Griffin|griffin]], a mixture of the [[Eagle|eagle]] and the
 lion evidently of Eastern origin. The swan and grasshopper symbolize
 music and song; the hawk, raven, crow and snake have reference to his
 functions as the god of prophecy.
 
 The chief festivals held in honour of Apollo were the Carneia,
-Daphnephoria, Delia, Hyacinthia, Pyanepsia, Pythia and Thargelia (see
+[[Daphnephoria]], Delia, Hyacinthia, Pyanepsia, Pythia and Thargelia (see
 separate articles).
 
 Among the Romans the worship of Apollo was adopted from the Greeks.
@@ -275,17 +275,17 @@ composed his _Carmen Saeculare_, to Apollo and Diana.
 Apollo was represented more frequently than any other deity in ancient
 art. As Apollo Agyieus he was shown by a simple conic pillar; the Apollo
 of Amyclae was a pillar of bronze surmounted by a helmeted head, with
-extended arms carrying lance and bow. There were also rude idols of him
+extended arms carrying [[Lance|lance]] and bow. There were also rude idols of him
 in wood (_xoana_), in which the human form was scarcely recognizable. In
 the 6th century, his statues of stone were naked, stiff and rigid in
 attitude, shoulders square, limbs strong and broad, hair falling down
 the back. In the riper period of art the type is softer, and Apollo
 appears in a form which seeks to combine manhood and eternal youth. His
-long hair is usually tied in a large knot above his forehead. The most
+long hair is usually tied in a large [[Knot|knot]] above his forehead. The most
 famous statue of him is the Apollo Belvidere in the Vatican (found at
-Frascati, 1455), an imitation belonging to the early imperial period of
+[[Frascati]], 1455), an imitation belonging to the early imperial period of
 a bronze statue representing him, with aegis in his left hand, driving
-back the Gauls from his temple at Delphi (279 B.C.), or, according to
+back the [[Gaul|Gauls]] from his temple at Delphi (279 B.C.), or, according to
 another view, fighting with the Pythian dragon. In the Apollo
 Citharoedus or Musagetes in the Vatican, he is crowned with laurel and
 wears the long, flowing robe of the Ionic bard, and his form is almost
@@ -293,10 +293,10 @@ feminine in its fulness; in a statue at Rome of the older and more
 vigorous type he is naked and holds a lyre in his left hand; his right
 arm rests upon his head, and a griffin is seated at his side. The Apollo
 Sauroctonus (after Praxiteles), copied in bronze at the Villa Albani in
-Rome and in marble at Paris, is a naked, youthful, almost boyish figure,
-leaning against a tree, waiting to strike a lizard climbing up the
+Rome and in [[Marble|marble]] at Paris, is a naked, youthful, almost boyish figure,
+leaning against a tree, waiting to strike a [[Lizard|lizard]] climbing up the
 trunk. The gigantic statue of Helios (the sun-god), "the colossus of
-Rhodes," by Chares of Lindus, celebrated as one of the seven wonders of
+Rhodes," by [[Chares]] of [[Lindus]], celebrated as one of the seven wonders of
 the world, is unknown to us. Bas-reliefs and painted vases reproduce the
 contests of Apollo with Tityus, Marsyas, and Heracles, the slaughter of
 the daughters of Niobe, and other incidents in his life.
@@ -308,11 +308,11 @@ the daughters of Niobe, and other incidents in his life.
   _Studien zur vergleichenden Mythologie der Griechen und Romer_, i.
   (Leipzig, 1873); R. Hecker, _De Apollinis apud Romanos Cultu_
   (Leipzig, 1879); G. Colin, _Le Culte d'Apollon pythien a Athenes_
-  (1905); L. Dyer, _The Gods in Greece_ (1891); articles in
+  (1905); L. [[Dyer]], _The Gods in Greece_ (1891); articles in
   Pauly-Wissowa's _Realencyclopadie_, W.H. Roscher's _Lexikon der
   Mythologie_, and Daremberg and Saglio's _Dictionnaire des antiquites_;
   L. Preller, _Griechische und romische Mythologie_ (4th ed. by C.
-  Robert); J. Marquardt, _Romische Staalsverwaltung_, iii.; G. Wissowa
+  Robert); J. [[Marquardt]], _Romische Staalsverwaltung_, iii.; G. Wissowa
   _Religion und Kultus der Romer_ (1902); D. Bassi, _Saggio di
   Bibliografia mitologica_, i. _Apollo_ (1896); L. Farnell, _Cults of
   the Greek States_, iv. (1907); O. Gruppe, _Griechische Mythologie und
@@ -326,7 +326,7 @@ the daughters of Niobe, and other incidents in his life.
 FOOTNOTES:
 
   [1] Hesychius; who also gives the explanation [Greek: sekos]
-    ("fold"), in which case Apollo would be the god of flocks and herds.
+    ("[[Fold|fold]]"), in which case Apollo would be the god of flocks and herds.
 
   [2] The authority for the quantity is Isyllus.
 

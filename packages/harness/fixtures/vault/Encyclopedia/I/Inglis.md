@@ -2,8 +2,8 @@
 
 INGLIS, SIR WILLIAM (1764-1835), British soldier, was born in 1764, a
 member of an old Roxburghshire family. He entered the army in 1781.
-After ten years in America he served in Flanders, and in 1796 took part
-in the capture of St Lucia. In 1809 he commanded a brigade in the
+After ten years in America he served in [[Flanders]], and in 1796 took part
+in the capture of St [[Lucia]]. In 1809 he commanded a brigade in the
 Peninsula, taking part in the battle of Busaco (1810) and the first
 siege of Badajoz. At Albuera his regiment, the 57th, occupied a most
 important position, and was exposed to a deadly fire. "Die hard!

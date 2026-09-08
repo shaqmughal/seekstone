@@ -10,7 +10,7 @@ tags: [africa, ancient-greece]
 COGNIZANCE (Lat. _cognoscere_, to know), knowledge, notice, especially
 judicial notice, the right of trying or considering a case judicially,
 the exercise of jurisdiction by a court of law. In heraldry a
-"cognizance" is an emblem, badge or device, used as a distinguishing
+"cognizance" is an [[Emblem|emblem]], badge or device, used as a distinguishing
 mark by the body of retainers of a royal or noble house.
 
 ## See also

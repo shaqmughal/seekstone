@@ -1,7 +1,7 @@
 # Brianza
 
 BRIANZA, a district of Lombardy, Italy, forming the south part of the
-province of Como, between the two southern arms of the lake of that name.
+province of [[Como]], between the two southern arms of the lake of that name.
 It is thickly populated and remarkable for its fertility; and being hilly
 is a favourite summer resort of the Milanese.
 

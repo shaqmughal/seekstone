@@ -1,6 +1,6 @@
 # Kurz
 
-KURZ, HERMANN (1813-1873), German poet and novelist, was born at
+KURZ, [[Hermann|HERMANN]] (1813-1873), German poet and novelist, was born at
 Reutlingen on the 30th of November 1813. Having studied at the
 theological seminary at Maulbronn and at the university of Tübingen, he
 was for a time assistant pastor at Ehningen. He then entered upon a
@@ -15,7 +15,7 @@ German version of Gottfried von Strassburg's _Tristan und Isolde_
 1874), also in twelve volumes (Leipzig, 1904).
 
 His daughter, ISOLDE KURZ, born on the 21st of December 1853 at
-Stuttgart, takes a high place among contemporary lyric poets in Germany
+Stuttgart, takes a [[High Place|high place]] among contemporary lyric poets in Germany
 with her _Gedichte_ (Stuttgart, 1888, 3rd ed. 1898) and _Neue Gedichte_
 (1903). Her short stories, _Florentiner Novellen_ (1890, 2nd ed. 1893),
 _Phantasien und Märchen_ (1890), _Italienische Erzählungen_ (1895) and

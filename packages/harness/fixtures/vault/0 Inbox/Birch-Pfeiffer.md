@@ -6,12 +6,12 @@ topic: history
 
 # Birch-Pfeiffer
 
-BIRCH-PFEIFFER, CHARLOTTE (1800-1868), German actress and dramatic
+BIRCH-PFEIFFER, [[Charlotte|CHARLOTTE]] (1800-1868), German actress and dramatic
 writer, was born at Stuttgart on the 23rd of June 1800, the daughter of
 an estate agent named Pfeiffer. She received her early training at the
 Munich court theatre, and in 1818 began to play leading tragic rôles at
-various theatres. In 1825 she married the historian Christian Birch of
-Copenhagen, but continued to act. From 1837 to 1843 she managed the
+various theatres. In 1825 she married the historian Christian [[Birch]] of
+[[Copenhagen]], but continued to act. From 1837 to 1843 she managed the
 theatre at Zürich. In 1844 she accepted an engagement at the royal
 theatre in Berlin, to which she remained attached until her death on the
 24th of August 1868. Her intimate knowledge of the technical necessities

@@ -14,22 +14,22 @@ S.W. of Port Sudan, on the Red Sea, and 1345 m. S. of Cairo by rail and
 steamer. Pop. (1907) with suburbs, but excluding Omdurman, 69,349.
 
 The city, laid out on a plan drawn up by Lord Kitchener in 1898, has a
-picturesque aspect with its numerous handsome stone and brick buildings
+picturesque aspect with its numerous handsome stone and [[Brick|brick]] buildings
 surrounded by gardens and its groves of palms and other trees. The river
 esplanade, 2 m. long, contains the chief buildings. Parallel with it is
 Khedive Avenue, of equal length. The rest of the city is in squares, the
-streets forming the design of the union jack. In the centre of the
+streets forming the design of the union [[Jack|jack]]. In the centre of the
 esplanade is the governor-general's palace, occupying the site of the
 palace destroyed by the Mahdists in 1885. It is a three-storeyed
 building with arcaded verandas and a fine staircase leading to a loggia
 on the first floor. Here a tablet indicates the spot in the old palace
 where General Gordon fell. In the gardens, which cover six acres, is a
-colossal stone "lamb" brought from the ruins of Soba, an ancient
+colossal stone "[[Lamb|lamb]]" brought from the ruins of Soba, an ancient
 Christian city on the Blue Nile. The "lamb" is in reality a ram of
 Ammon, and has an inscription in Ethiopian hieroglyphs. In front of the
 southern façade, which looks on to Khedive Avenue, is a bronze statue of
 General Gordon seated on a camel, a copy of the statue by Onslow Ford at
-Chatham, England. Government offices and private villas are on either
+[[Chatham]], England. Government offices and private villas are on either
 side of the palace, and beyond, on the east, are the Sudan Club, the
 military hospital, and the Gordon Memorial College. The college, the
 chief educational centre in the Sudan, is a large, many-windowed
@@ -43,13 +43,13 @@ mosque with two minarets. On the north-east side of the square are the
 public markets. The Anglican church, dedicated to All Saints, the
 principal banks and business houses, are in Khedive Avenue. There are
 Maronite and Greek churches, an Austrian Roman Catholic mission, a large
-and well-equipped civil hospital and a museum for Sudan archaeology.
+and well-equipped civil hospital and a museum for Sudan [[Archaeology|archaeology]].
 Outside the city are a number of model villages (each of the principal
 tribes of the Sudan having its own settlement) in which the dwellings
 are built after the tribal fashion. Adjacent are the parade ground and
 racecourse and the golf-links. A line of fortifications extends south of
 the city from the Blue to the White Nile. The buildings are used as
-barracks. Barracks for British troops occupy the end of the line facing
+[[Barracks|barracks]]. Barracks for British troops occupy the end of the line facing
 the Blue Nile.
 
 On the right (northern) bank of the Blue Nile is the suburb of Khartum
@@ -68,13 +68,13 @@ commercial and political centre. It is the great entrepôt for the trade
 of the Anglo-Egyptian Sudan. By the Nile waterways there is easy
 transport from the southern and western equatorial provinces and from
 Sennar and other eastern districts. Through Omdurman come the exports of
-Kordofan and Darfur, while by the Red Sea railway there is ready access
+[[Kordofan]] and Darfur, while by the Red Sea railway there is ready access
 to the markets of the world. The only important manufacture is the
 making of bricks.
 
 The population is heterogeneous. The official class is composed chiefly
 of British and Egyptians; the traders are mostly Greeks, Syrians and
-Copts, while nearly all the tribes of the Sudan are represented in the
+[[Copts]], while nearly all the tribes of the Sudan are represented in the
 negro and Arab inhabitants.
 
   At the time of the occupation of the Sudan by the Egyptians a small
@@ -83,7 +83,7 @@ negro and Arab inhabitants.
   city, which in 1830 was chosen as the capital of the Sudanese
   possessions of Egypt. It got its name from the resemblance of the
   promontory at the confluence of the two Niles to an elephant's trunk,
-  the meaning of _khartum_ in the dialect of Arabic spoken in the
+  the meaning of _khartum_ in the [[Dialect|dialect]] of Arabic spoken in the
   locality. The city rapidly acquired importance as the Sudan was opened
   up by travellers and traders, becoming, besides the seat of much
   legitimate commerce, a great slave mart. It was chosen as the
@@ -116,7 +116,7 @@ FOOTNOTE:
     foundation of Khartum, is 4 m. to the N., on the eastern bank of the
     Nile. From the 15th century up to 1821 it was the capital of a small
     state, tributary to Sennar, regarded as a continuation of the
-    Christian kingdom of Aloa (see DONGOLA).
+    Christian kingdom of Aloa (see [[Dongola|DONGOLA]]).
 
 ## References
 

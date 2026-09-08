@@ -28,7 +28,7 @@ recognized by the same authors as forming the nearly allied genus
 _Urochroma_. On the other hand, of _Agapornis_, from which the so-called
 genus _Poliopsitta_ can scarcely be separated, five if not six species
 are known, all belonging to the Ethiopian Region, and all but one, _A.
-cana_ (which is indigenous to Madagascar, and thence has been widely
+cana_ (which is indigenous to [[Madagascar]], and thence has been widely
 disseminated), are natives of Africa. In this group probably comes also
 _Psittinus_, with a single species from the Malayan Subregion. One of
 the birds most commonly called love-birds, but with no near relationship

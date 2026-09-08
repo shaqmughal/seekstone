@@ -3,11 +3,11 @@
 BARNARD, FREDERICK AUGUSTUS PORTER (1809-1889), American scientist and
 educationalist, was born in Sheffield, Massachusetts, on the 5th of May
 1809. In 1828 he graduated, second on the honour list, at Yale. He was then
-in turn a tutor at Yale, a teacher (1831-1832) in the American Asylum for
-the [v.03 p.0410] Deaf and Dumb at Hartford, Connecticut, and a teacher
+in turn a tutor at Yale, a teacher (1831-1832) in the American [[Asylum]] for
+the [v.03 p.0410] Deaf and Dumb at [[Hartford]], Connecticut, and a teacher
 (1832-1838) in the New York Institute for the Instruction of the Deaf and
 Dumb. From 1838 to 1848 he was professor of mathematics and natural
-philosophy, and from 1848 to 1854 was professor of chemistry and natural
+philosophy, and from 1848 to 1854 was professor of [[Chemistry|chemistry]] and natural
 history in the University of Alabama, for two years, also, filling the
 chair of English literature. In 1854 he was ordained as deacon in the
 Protestant Episcopal Church. In the same year he became professor of
@@ -16,7 +16,7 @@ which institution he was chancellor from 1856 until the outbreak of the
 Civil War, when, his sympathies being with the North, he resigned and went
 to Washington. There for some time he was in charge of the map and chart
 department of the United States Coast Survey. In 1864 he became the tenth
-president of Columbia College (now Columbia University) in New York City,
+president of [[Columbia]] College (now Columbia University) in New York City,
 which position he held until the year before his death, his service thus
 being longer than that of any of his predecessors. During this period the
 growth of the college was rapid; new departments were established; the

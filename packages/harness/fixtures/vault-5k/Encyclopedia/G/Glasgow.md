@@ -24,7 +24,7 @@ from the Saltmarket. Above this bridge is the tidal dam and weir.
 Victoria Bridge, of granite, was opened in 1856, taking the place of the
 venerable bridge erected by Bishop Rae in 1345, which was demolished in
 1847. Then follows a suspension bridge (dating from 1853) by which
-foot-passengers from the south side obtain access to St Enoch Square
+foot-passengers from the south side obtain access to St [[Enoch]] Square
 and, finally, the most important bridge of all is reached, variously
 known as Glasgow, Jamaica Street, or Broomielaw Bridge, built of granite
 from Telford's designs and first used in 1835. Towards the close of the
@@ -66,7 +66,7 @@ native of Glasgow, who designed several of the public buildings and
 churches, and gained the second prize for a design for the Houses of
 Parliament. The news-room of the exchange is a vast apartment, 130 ft.
 long, 60 ft. wide, 130 ft. high, with a richly-decorated roof supported
-by Corinthian pillars. Buchanan Street, the most important and handsome
+by Corinthian pillars. [[Buchanan]] Street, the most important and handsome
 street in the city, contains the Stock Exchange, the Western Club House
 (by David Hamilton) and the offices of the _Glasgow Herald_. In
 Sauchiehall Street are the Fine Art Institute and the former Corporation
@@ -75,7 +75,7 @@ with shops, leads to Trongate, where a few remains of the old town are
 now carefully preserved. On the south side of the street, spanning the
 pavement, stands the Tron Steeple, a stunted spire dating from 1637. It
 is all that is left of St Mary's church, which was burned down in 1793
-during the revels of a notorious body known as the Hell Fire Club. On
+during the revels of a notorious body known as the [[Hell]] Fire Club. On
 the opposite side, at the corner of High Street, stood the ancient
 tolbooth, or prison, a turreted building, five storeys high, with a fine
 Jacobean crown tower. The only remnant of the structure is the tower
@@ -125,7 +125,7 @@ began the choir, Lady chapel, and central tower. The new structure was
 sufficiently advanced to be dedicated in 1197. Other famous bishops were
 Robert Wishart (d. 1316), appointed in 1272, who was among the first to
 join in the revolt of Wallace, and received Robert Bruce when he lay
-under the ban of the church for the murder of Comyn; John Cameron (d.
+under the [[Ban|ban]] of the church for the murder of Comyn; John [[Cameron]] (d.
 1446), appointed in 1428, under whom the building as it stands was
 completed; and William Turnbull (d. 1454), appointed in 1447, who
 founded the university in 1450. James Beaton or Bethune (1517-1603) was
@@ -134,7 +134,7 @@ in 1560, and took with him the treasures and records of the see,
 including the Red Book of Glasgow dating from the reign of Robert III.
 The documents were deposited in the Scots College in Paris, were sent at
 the outbreak of the Revolution for safety to St Omer, and were never
-recovered. This loss explains the paucity of the earlier annals of the
+recovered. This loss explains the paucity of the earlier [[Annals|annals]] of the
 city. The zeal of the Reformers led them to threaten to mutilate the
 cathedral, but the building was saved by the prompt action of the
 craftsmen, who mustered in force and dispersed the fanatics.
@@ -151,7 +151,7 @@ pronounced architectural merit. This was due largely to the long
 survival of the severe sentiment of the Covenanters, who discouraged, if
 they did not actually forbid, the raising of temples of beautiful
 design. Representative examples of later work are found in the United
-Free churches in Vincent Street, in Caledonia Road and at Queen's Park,
+Free churches in Vincent Street, in [[Caledonia]] Road and at Queen's Park,
 designed by Alexander Thomson (1817-1875), an architect of distinct
 originality; St George's church, in West George Street, a remarkable
 work by William Stark, erected in the beginning of the 19th century; St
@@ -161,7 +161,7 @@ the older parish churches, such as St Enoch's, dating from 1780, with a
 good spire (the saint's name is said to be a corruption of Tanew, mother
 of Kentigern); the episcopal church of St Mary (1870), in Great Western
 Road, by Sir G. G. Scott; the Roman Catholic cathedral of St Andrew, on
-the river-bank between Victoria and Broomielaw bridges; the Barony
+the river-bank between Victoria and Broomielaw bridges; the [[Barony]]
 church, replacing the older kirk in which Norman Macleod ministered; and
 several admirable structures, well situated, on the eastern confines of
 Kelvingrove Park.
@@ -173,7 +173,7 @@ approached by a bridge, known as the "Bridge of Sighs," over the
 Molendinar ravine. The ground, which once formed portion of the estate
 of Wester Craigs, belongs to the Merchants' House, which purchased it in
 1650 from Sir Ludovic Stewart of Minto. A Doric column to the memory of
-Knox, surmounted by a colossal statue of the reformer, was erected by
+[[Knox]], surmounted by a colossal statue of the reformer, was erected by
 public subscription on the crown of the height in 1824, and a few years
 later the idea arose of utilizing the land as a cemetery. The Jews have
 reserved for their own people a detached area in the north-western
@@ -183,7 +183,7 @@ corner of the cemetery.
   Glasgow University.
 
 _Education._--The university, founded in 1450 by Bishop Turnbull under a
-bull of Pope Nicholas V., survived in its old quarters till far in the
+[[Bull|bull]] of Pope Nicholas V., survived in its old quarters till far in the
 19th century. The _paedagogium_, or college of arts, was at first housed
 in Rottenrow, but was moved in 1460 to a site in High Street, where Sir
 James Hamilton of Cadzow, first Lord Hamilton (d. 1479), gave it four
@@ -194,7 +194,7 @@ fluctuated, but in the 18th century it became very famous. By the middle
 of the 19th century, however, its surroundings had deteriorated, and in
 1860 it was decided to rebuild it elsewhere. The ground had enormously
 increased in value and a railway company purchased it for L100,000. In
-1864 the university bought the Gilmore Hill estate for L65,000, the
+1864 the university bought the [[Gilmore]] Hill estate for L65,000, the
 adjacent property of Dowan Hill for L16,000 and the property of
 Clayslaps for L17,400. Sir G. G. Scott was appointed architect and
 selected as the site of the university buildings the ridge of Gilmore
@@ -216,12 +216,12 @@ foundation stone was laid in 1868 and the opening ceremony was held in
 1870. The total cost of the university buildings amounted to L500,000,
 towards which government contributed L120,000 and public subscription
 L250,000. The third marquess of Bute (1847-1900) gave L40,000 to provide
-the Bute or common hall, a room of fine proportions fitted in Gothic
+the Bute or common hall, a room of fine proportions fitted in [[Gothic]]
 style and divided by a beautiful Gothic screen from the Randolph hall,
 named after another benefactor, Charles Randolph (1809-1878), a native
 of Stirling, who had prospered as shipbuilder and marine engineer and
 left L60,000 to the university. The graceful spire surmounting the tower
-was provided from the bequest of L5000 by Mr A. Cunningham, deputy
+was provided from the bequest of L5000 by Mr A. [[Cunningham]], deputy
 town-clerk, and Dr John M'Intyre erected the Students' Union at a cost
 of L5000, while other donors completed the equipment so generously that
 the senate was enabled to carry on its work, for the first time in its
@@ -233,7 +233,7 @@ Hill is attached to the chair of astronomy. An interesting link with the
 past are the exhibitions founded by John Snell (1629-1679), a native of
 Colmonell in Ayrshire, for the purpose of enabling students of
 distinction to continue their career at Balliol College, Oxford. Amongst
-distinguished exhibitioners have been Adam Smith, John Gibson Lockhart,
+distinguished exhibitioners have been Adam Smith, John [[Gibson]] Lockhart,
 John Wilson ("Christopher North"), Archbishop Tait, Sir William Hamilton
 and Professor Shairp. The curriculum of the university embraces the
 faculties of arts, divinity, medicine, law and science. The governing
@@ -264,8 +264,8 @@ women.
   working men, which he conducted to the end of his life. By his will he
   provided for an institution for the instruction of artisans and others
   unable to attend the university. The college which bears his name
-  began in 1796 with lectures on natural philosophy and chemistry by
-  Thomas Garnett (1766-1802). Two years later mathematics and geography
+  began in 1796 with lectures on natural philosophy and [[Chemistry|chemistry]] by
+  Thomas [[Garnett]] (1766-1802). Two years later mathematics and [[Geography|geography]]
   were added. In 1799 Dr George Birkbeck (1776-1841) succeeded Garnett
   and began those lectures on mechanics and applied science which,
   continued elsewhere, ultimately led to the foundation of mechanics'
@@ -290,7 +290,7 @@ women.
 
   The High school in Elmbank is the successor of the grammar school
   (long housed in John Street) which was founded in the 14th century as
-  an appanage of the cathedral. It was placed under the jurisdiction of
+  an [[Appanage|appanage]] of the cathedral. It was placed under the jurisdiction of
   the school board in 1873. Other secondary schools include Glasgow
   Academy, Kelvinside Academy and the girls' and boys' schools endowed
   by the Hutcheson trust. Several of the schools under the board are
@@ -310,7 +310,7 @@ women.
   purchase of the works of art belonging to Archibald M'Lellan, and was
   supplemented from time to time by numerous bequests of important
   pictures. It was housed for many years in the Corporation galleries in
-  Sauchiehall Street. The Institute of Fine Arts, in Sauchiehall Street,
+  Sauchiehall Street. The Institute of [[Fine Arts]], in Sauchiehall Street,
   is mostly devoted to periodical exhibitions of modern art. There are
   also pictures on exhibition in the People's Palace on Glasgow Green,
   which was built by the corporation in 1898 and combines an art gallery
@@ -331,7 +331,7 @@ women.
   and Baillie libraries. The Stirling, with some 50,000 volumes, is
   particularly rich in tracts of the 16th and 17th centuries, and the
   Baillie was endowed by George Baillie, a solicitor who, in 1863, gave
-  L18,000 for educational objects. The Athenaeum in St George's Place,
+  L18,000 for educational objects. The [[Athenaeum]] in St George's Place,
   an institution largely concerned with evening classes in various
   subjects, contains an excellent library and reading-room.
 
@@ -343,13 +343,13 @@ women.
   theatre. On the northern side are the buildings of the medical school
   attached to the institution. The new infirmary commemorates the
   Diamond Jubilee of Queen Victoria. A little farther north, in Castle
-  Street, is the blind asylum. The Western Infirmary is to some extent
+  Street, is the blind [[Asylum|asylum]]. The Western Infirmary is to some extent
   used for the purposes of clinical instruction in connexion with the
   university, to which it stands in immediate proximity. Near it is the
   Royal hospital for sick children. To the south of Queen's Park is
   Victoria Infirmary, and close to it the deaf and dumb institution. On
   the bank of the river, not far from the south-eastern boundary of the
-  city, is the Belvedere hospital for infectious diseases, and at
+  city, is the [[Belvedere]] hospital for infectious diseases, and at
   Ruchill, in the north, is another hospital of the same character
   opened in 1900. The Royal asylum at Gartnavel is situated near
   Jordanhill station, and the District asylum at Gartloch (with a branch
@@ -372,15 +372,15 @@ women.
   They are grouped around a fluted pillar 80 ft. high, surmounted by a
   colossal statue of Sir Walter Scott by John Ritchie (1809-1850),
   erected in 1837, and include Queen Victoria and the Prince Consort
-  (both equestrian) by Baron Marochetti; James Watt by Chantrey; Sir
+  (both equestrian) by Baron [[Marochetti]]; James Watt by [[Chantrey]]; Sir
   Robert Peel, Thomas Campbell the poet, who was born in Glasgow, and
-  David Livingstone, all by John Mossman; Sir John Moore, a native of
+  David [[Livingstone]], all by John Mossman; Sir John Moore, a native of
   Glasgow, by Flaxman, erected in 1819; James Oswald, the first member
   returned to parliament for the city after the Reform Act of 1832; Lord
   Clyde (Sir Colin Campbell), also a native, by Foley, erected in 1868;
-  Dr Thomas Graham, master of the mint, another native, by Brodie;
-  Robert Burns by G. E. Ewing, erected in 1877, subscribed for in
-  shillings by the working men of Scotland; and William Ewart Gladstone
+  Dr Thomas [[Graham]], master of the mint, another native, by Brodie;
+  Robert [[Burns]] by G. E. Ewing, erected in 1877, subscribed for in
+  shillings by the working men of Scotland; and William [[Ewart]] Gladstone
   by Hamo Thornycroft, unveiled by Lord Rosebery in 1902. In front of
   the Royal Exchange stands the equestrian monument of the duke of
   Wellington. In Cathedral Square are the statues of Norman Macleod,
@@ -404,7 +404,7 @@ women.
   Andrew's Halls, a group of rooms belonging to the corporation; the
   City Hall in Candleriggs, the People's Palace on the Green, and
   Queen's Rooms close to Kelvingrove Park. Throughout winter enormous
-  crowds throng the football grounds of the Queen's Park, the leading
+  [[Crowd|crowds]] throng the [[Football|football]] grounds of the Queen's Park, the leading
   amateur club, and the Celtic, the Rangers, the Third Lanark and other
   prominent professional clubs.
 
@@ -418,9 +418,9 @@ women.
   through it and the ground is naturally terraced, while the situation
   is beautified by the adjoining Gilmore Hill with the university on its
   summit. The park was laid out under the direction of Sir Joseph
-  Paxton, and contains the Stewart fountain, erected to commemorate the
+  Paxton, and contains the Stewart [[Fountain|fountain]], erected to commemorate the
   labours of Lord Provost Stewart and his colleagues in the promotion of
-  the Loch Katrine water scheme. The other parks on the right bank are,
+  the Loch [[Katrine]] water scheme. The other parks on the right bank are,
   in the north, Ruchill (53 acres), acquired in 1891, and Springburn
   (53-1/4 acres), acquired in 1892, and, in the east, Alexandra Park (120
   acres), in which is laid down a nine-hole golf-course, and Tollcross
@@ -430,10 +430,10 @@ women.
   the enclosure of the grounds of Camphill. The other southern parks are
   Richmond (44 acres), acquired in 1898, and named after Lord Provost
   Sir David Richmond, who opened it in 1899; Maxwell, which was taken
-  over on the annexation of Pollokshields in 1891; Bellahouston (176
+  over on the [[Annexation|annexation]] of Pollokshields in 1891; Bellahouston (176
   acres), acquired in 1895; and Cathkin Braes (50 acres), 3-1/2m. beyond
   the south-eastern boundary, presented to the city in 1886 by James
-  Dick, a manufacturer, containing "Queen Mary's stone," a point which
+  [[Dick]], a manufacturer, containing "Queen Mary's stone," a point which
   commands a view of the lower valley of the Clyde. In the north-western
   district of the town 40 acres between Great Western Road and the
   Kelvin are devoted to the Royal Botanic Gardens, which became public
@@ -470,7 +470,7 @@ women.
   foot and wheeled traffic. Steamers, carrying both goods and
   passengers, constantly leave the Broomielaw quay for the piers and
   ports on the river and firth, and the islands and sea lochs of
-  Argyllshire. The city is admirably served by tramways which penetrate
+  [[Argyllshire]]. The city is admirably served by tramways which penetrate
   every populous district and cross the river by Glasgow and Albert
   bridges.
 
@@ -482,12 +482,12 @@ women.
   alleged, to the shortage of female labour. Several cotton mills are
   still worked, but the leading feature in the trade has always been the
   manufacture of such light textures as plain, striped and figured
-  muslins, ginghams and fancy fabrics. Thread is made on a considerable
+  muslins, [[Gingham|ginghams]] and fancy fabrics. Thread is made on a considerable
   scale, but jute and silk are of comparatively little importance. The
   principal varieties of carpets are woven. Some factories are
-  exclusively devoted to the making of lace curtains. The allied
-  industries of bleaching, printing and dyeing, on the other hand, have
-  never declined. The use of chlorine in bleaching was first introduced
+  exclusively devoted to the making of lace [[Curtain|curtains]]. The allied
+  industries of [[Bleaching|bleaching]], printing and dyeing, on the other hand, have
+  never declined. The use of [[Chlorine|chlorine]] in bleaching was first introduced
   in Great Britain at Glasgow in 1787, on the suggestion of James Watt,
   whose father-in-law was a bleacher; and it was a Glasgow bleacher,
   Charles Tennant, who first discovered and made bleaching powder
@@ -503,8 +503,8 @@ women.
   white lead and other pigments, dynamite and gunpowder. Glass-making
   and paper-making are also carried on, and there are several breweries
   and distilleries, besides factories for the making of aerated waters,
-  starch, dextrine and matches. Many miscellaneous trades flourish, such
-  as clothing, confectionery, cabinet-making, bread and biscuit making,
+  starch, [[Dextrine|dextrine]] and matches. Many miscellaneous trades flourish, such
+  as clothing, confectionery, cabinet-making, bread and [[Biscuit|biscuit]] making,
   boot and shoe making, flour mills and saw mills, pottery and
   india-rubber. Since the days of the brothers Robert Foulis (1705-1776)
   and Andrew Foulis (1712-1775), printing, both letterpress and colour,
@@ -522,7 +522,7 @@ women.
   million tons of pig-iron. Mild steel is manufactured extensively, and
   some crucible cast steel is made. In addition to brass foundries there
   are works for the extraction of copper and the smelting of lead and
-  zinc. With such resources every branch of engineering is well
+  zinc. With such resources every branch of [[Engineering|engineering]] is well
   represented. Locomotive engines are built for every country where
   railways are employed, and all kinds of builder's ironwork is forged
   in enormous quantities, and the sewing-machine factories in the
@@ -553,14 +553,14 @@ women.
   shipping-port of Glasgow was Irvine in Ayrshire, but lighterage was
   tedious and land carriage costly, and in 1658 the civic authorities
   endeavoured to purchase a site for a spacious harbour at Dumbarton.
-  Being thwarted by the magistrates of that burgh, however, in 1662 they
+  Being thwarted by the [[Magistrate|magistrates]] of that burgh, however, in 1662 they
   secured 13 acres on the southern bank at a spot some 2 m. above
   Greenock, which became known as Port Glasgow, where they built
-  harbours and constructed the first graving dock in Scotland. Sixteen
+  harbours and constructed the first graving [[Dock|dock]] in Scotland. Sixteen
   years later the Broomielaw quay was built, but it was not until the
   tobacco merchants appreciated the necessity of bringing their wares
   into the heart of the city that serious consideration was paid to
-  schemes for deepening the waterway. Smeaton's suggestion of a lock and
+  schemes for deepening the waterway. Smeaton's suggestion of a [[Lock|lock]] and
   dam 4 m. below the Broomielaw was happily not accepted. In 1768 John
   Golborne advised the narrowing of the river and the increasing of the
   scour by the construction of rubble jetties and the dredging of
@@ -590,7 +590,7 @@ women.
   the Old World. Thus since the appearance of that primitive vessel
   phenomenal changes had taken place on the Clyde. When the quays and
   wharves ceased to be able to accommodate the growing traffic, the
-  construction of docks became imperative. In 1867 Kingston Dock on the
+  construction of docks became imperative. In 1867 [[Kingston]] Dock on the
   south side, of 5-1/3 acres, was opened, but soon proved inadequate,
   and in 1880 Queen's Dock (two basins) at Stobcross, on the north side,
   of 30 acres, was completed. Although this could accommodate one
@@ -602,7 +602,7 @@ women.
   docks of 417 ft. and 457 ft. in length. The Caledonian and Glasgow &
   South-Western railways have access to the harbour for goods and
   minerals at Terminus Quay to the west of Kingston Dock, and a mineral
-  dock has been constructed by the Trust at Clydebank, about 3-1/2 m.
+  dock has been constructed by the Trust at [[Clydebank]], about 3-1/2 m.
   below the harbour. The shipping attains to colossal proportions. The
   imports consist chiefly of flour, fruit, timber, iron ore, live stock
   and wheat; and the exports principally of cotton manufactures,
@@ -663,12 +663,12 @@ women.
   lease expired in 1894 the town council took over the working of the
   cars, substituting overhead electric traction for horse-power. One of
   the most difficult problems that the corporation has had to deal with
-  was the housing of the poor. By the lapse of time and the congestion
+  was the housing of the poor. By the [[Lapse|lapse]] of time and the congestion
   of population, certain quarters of the city, in old Glasgow
   especially, had become slums and rookeries of the worst description.
   The condition of the town was rapidly growing into a byword, when the
   municipality obtained parliamentary powers in 1866 enabling it to
-  condemn for purchase over-crowded districts, to borrow money and levy
+  condemn for purchase over-crowded districts, to borrow money and [[Levy|levy]]
   rates. The scheme of reform contemplated the demolition of 10,000
   insanitary dwellings occupied by 50,000 persons, but the corporation
   was required to provide accommodation for the dislodged whenever the
@@ -752,7 +752,7 @@ to the English in 1305 in a barn situated, according to tradition, in
 Robroyston, just beyond the north-eastern boundary of the city; the
 ravages of the plague in 1350 and thirty years later; the regent Arran's
 siege, in 1544, of the bishop's castle, garrisoned by the earl of
-Glencairn, and the subsequent fight at the Butts (now the Gallowgate)
+Glencairn, and the subsequent fight at the [[Butt|Butts]] (now the Gallowgate)
 when the terms of surrender were dishonoured, in which the regent's men
 gained the day. Most of the inhabitants were opposed to Queen Mary and
 many actively supported Murray in the battle of Langside--the site of
@@ -760,10 +760,10 @@ which is now occupied by the Queen's Park--on the 13th of May 1568, in
 which she lost crown and kingdom. A memorial of the conflict was erected
 on the site in 1887. Under James VI. the town became a royal burgh in
 1636, with freedom of the river from the Broomielaw to the Cloch. But
-the efforts to establish episcopacy aroused the fervent anti-prelatical
+the efforts to establish [[Episcopacy|episcopacy]] aroused the fervent anti-prelatical
 sentiment of the people, who made common cause with the Covenanters to
 the end of their long struggle. Montrose mulcted the citizens heavily
-after the battle of Kilsyth in 1645, and three years later the provost
+after the battle of [[Kilsyth]] in 1645, and three years later the provost
 and bailies were deposed for contumacy to their sovereign lord. Plague
 and famine devastated the town in 1649, and in 1652 a conflagration laid
 a third of the burgh in ashes. Even after the restoration its sufferings
@@ -780,8 +780,8 @@ was already considerable and in population it was now the second town in
 Scotland. It enjoyed a practical monopoly of the sale of raw and refined
 sugars, had the right to distil spirits from molasses free of duty,
 dealt largely in cured herring and salmon, sent hides to English tanners
-and manufactured soap and linen. It challenged the supremacy of Bristol
-in the tobacco trade--fetching cargoes from Virginia, Maryland and
+and manufactured soap and linen. It challenged the supremacy of [[Bristol]]
+in the tobacco trade--fetching [[Cargo|cargoes]] from Virginia, Maryland and
 Carolina in its own fleet--so that by 1772 its importations of tobacco
 amounted to more than half of the whole quantity brought into the United
 Kingdom. The tobacco merchants built handsome mansions and the town

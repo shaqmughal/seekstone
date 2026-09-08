@@ -20,12 +20,12 @@ chief constituent of which is cymene aldehyde. Cymene itself is present,
 having the formula CH3C6H4CH(CH3)2; also carvone C10H14O, and limonene,
 a terpene. The dose of the oil is 1/2-3 minims. The plant is cultivated
 in north and central Europe, and Morocco, as well as in the south of
-England, the produce of more northerly latitudes being richer in
+England, the produce of more northerly [[Latitude|latitudes]] being richer in
 essential oil than that grown in southern regions. The essential oil is
-largely obtained by distillation for use in medicine as an aromatic
-stimulant and carminative, and as a flavouring material in cookery and
+largely obtained by [[Distillation|distillation]] for use in medicine as an aromatic
+stimulant and carminative, and as a flavouring material in [[Cookery|cookery]] and
 in liqueurs for drinking. Caraways are, however, more extensively
-consumed entire in certain kinds of cheese, cakes and bread, and they
+consumed entire in certain kinds of [[Cheese|cheese]], cakes and bread, and they
 form the basis of a popular article of confectionery known as caraway
 comfits.
 

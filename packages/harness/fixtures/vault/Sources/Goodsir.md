@@ -9,12 +9,12 @@ id: 42-6934
 
 # Goodsir
 
-GOODSIR, JOHN (1814-1867), Scottish anatomist, born at Anstruther, Fife,
+GOODSIR, JOHN (1814-1867), Scottish anatomist, born at Anstruther, [[Fife]],
 on the 20th of March 1814, was the son of Dr John Goodsir, and grandson
 of Dr John Goodsir of Largo. He was educated at the burgh and
 grammar-schools of his native place and at the university of St Andrews.
 In 1830 he was apprenticed to a surgeon-dentist in Edinburgh, where he
-studied anatomy under Robert Knox, and in 1835 he joined his father in
+studied anatomy under Robert [[Knox]], and in 1835 he joined his father in
 practice at Anstruther. Three years later he communicated to the British
 Association a paper on the pulps and sacs of the human teeth, his
 researches on the whole process of dentition being at this time
@@ -26,7 +26,7 @@ potent influence in science. With Forbes he worked at marine zoology,
 but human anatomy, pathology and morphology formed his chief study. In
 1840 he moved to Edinburgh, where in the following year he was appointed
 conservator of the museum of the College of Surgeons, in succession to
-William Macgillivray. Much of his reputation rested on his knowledge of
+William [[Macgillivray]]. Much of his reputation rested on his knowledge of
 the anatomy of tissues. In his lectures in the theatre of the college in
 1842-1843 he evidenced the largeness of his observation of cell-life,
 both physiologically and pathologically, insisting on the importance of
@@ -34,7 +34,7 @@ the cell as a centre of nutrition, and pointing out that the organism is
 subdivided into a number of departments. R. Virchow recognized his
 indebtedness to these discoveries by dedicating his _Cellular
 Pathologie_ to Goodsir, as "one of the earliest and most acute observers
-of cell-life." In 1843 Goodsir obtained the post of curator in the
+of cell-life." In 1843 Goodsir obtained the post of [[Curator|curator]] in the
 university of Edinburgh; the following year he was appointed
 demonstrator of anatomy, and in 1845 curator of the entire museum. A
 year later he was elected to the chair of anatomy in the university, and
@@ -44,19 +44,19 @@ Human myology was his strong point; no one had laboured harder at the
 dissecting-table; and he strongly emphasized the necessity of practice
 as a means of research. He believed that anatomy, physiology and
 pathology could never be properly advanced without daily consideration
-and treatment of disease. In 1848 he became a fellow of the Royal
+and treatment of disease. In 1848 he became a [[Fellow|fellow]] of the Royal
 College of Surgeons, and in the same year he joined the Highland and
 Agricultural Society, acting as chairman of the veterinary department,
 and advising on strictly agricultural matters. In 1847 he delivered a
-series of systematic lectures on the comparative anatomy of the
+series of systematic lectures on the [[Comparative Anatomy|comparative anatomy]] of the
 invertebrata; and, about this period, as member of an aesthetic club, he
 wrote papers on the natural principles of beauty, the aesthetics of the
 ugly, of smell, the approbation or disapprobation of sounds, &c. Owing
-to the failing health of Professor Robert Jameson, Goodsir was induced
+to the failing health of Professor Robert [[Jameson]], Goodsir was induced
 to deliver the course of lectures on natural history during the summer
 of 1853.
 
-The lectures were long remembered for their brilliancy, but the infinite
+The lectures were long remembered for their brilliancy, but the [[Infinite|infinite]]
 amount of thought and exertion which they cost broke down the health of
 the lecturer. Goodsir, nevertheless, persevered in his labours, writing
 in 1855 on organic electricity, in 1856 on morphological subjects, and

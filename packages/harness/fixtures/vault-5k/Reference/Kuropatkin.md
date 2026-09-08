@@ -19,11 +19,11 @@ of Skobelev. In 1890 he was promoted lieutenant-general, and thirteen
 years later, having acquired in peace and war the reputation of being
 one of the foremost soldiers in Europe, he quitted the post of minister
 of war which he then held and took command of the Russian army then
-gathering in Manchuria for the contest with Japan. His ill-success in
+gathering in [[Manchuria]] for the contest with Japan. His ill-success in
 the great war of 1904-5, astonishing as it seemed at the time, was
 largely attributable to his subjection to the superior command of
 Admiral Alexeiev, the tsar's viceroy in the Far East, and to internal
-friction amongst the generals, though in his history of the war (Eng.
+[[Friction|friction]] amongst the generals, though in his history of the war (Eng.
 trans., 1909) he frankly admitted his own mistakes and paid the highest
 tribute to the gallantry of the troops who had been committed to battle
 under conditions unfavourable to success. After the defeat of Mukden and

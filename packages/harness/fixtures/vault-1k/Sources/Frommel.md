@@ -1,7 +1,7 @@
 # Frommel
 
 FROMMEL, GASTON (1862-1906), Swiss theologian, professor of theology in
-the university of Geneva from 1894 to 1906. An Alsatian by birth, he
+the university of [[Geneva]] from 1894 to 1906. An Alsatian by birth, he
 belonged mainly to French Switzerland, where he spent most of his life.
 He may best be described as continuing the spirit of Vinet (q.v.) amid
 the mental conditions marking the end of the 19th century. Like Vinet,

@@ -8,12 +8,12 @@ type: article
 # Everett
 
 EVERETT, EDWARD (1794-1865), American statesman and orator, was born in
-Dorchester, Massachusetts, on the 11th of April 1794. He was the son of
+[[Dorchester]], Massachusetts, on the 11th of April 1794. He was the son of
 Rev. Oliver Everett and the brother of Alexander Hill Everett (q.v.).
-His father died in 1802, and his mother removed to Boston with her
+His father died in 1802, and his mother removed to [[Boston]] with her
 family after her husband's death. At seventeen Edward Everett graduated
 from Harvard College, taking first honours in his class. While at
-college he was the chief editor of _The Lyceum_, the earliest in the
+college he was the chief editor of _The [[Lyceum]]_, the earliest in the
 series of college journals published at the American Cambridge. His
 earlier predilections were for the study of law, but the advice of
 Joseph Stevens Buckminster, a distinguished preacher in Boston, led him
@@ -32,7 +32,7 @@ service of little more than a year in the pulpit, he resigned his charge
 to accept a professorship of Greek literature in Harvard College.
 
 After nearly five years spent in Europe in preparation, he entered with
-enthusiasm on his duties, and, for five years more, gave a vigorous
+[[Enthusiasm|enthusiasm]] on his duties, and, for five years more, gave a vigorous
 impulse, not only to the study of Greek, but to all the work of the
 college. In January 1820 he assumed the charge of the _North American
 Review_, which now became a quarterly; and he was indefatigable during
@@ -77,10 +77,10 @@ course of a few months the affair of the "Creole," to which was soon
 added the Oregon question. His position was more difficult by reason of
 the frequent changes that took place in the department at home, which,
 in the course of four years, was occupied successively by Messrs
-Webster, Legaré, Upshur, Calhoun and Buchanan. From all these gentlemen
+Webster, Legaré, Upshur, Calhoun and [[Buchanan]]. From all these gentlemen
 Everett received marks of approbation and confidence.
 
-By the institution of the special mission of Lord Ashburton, however,
+By the institution of the special mission of Lord [[Ashburton]], however,
 the direct negotiations between the two governments were, about the time
 of Everett's arrival in London, transferred to Washington, though much
 business was transacted at the American legation in London.
@@ -88,7 +88,7 @@ business was transacted at the American legation in London.
 Immediately after the accession of Polk to the presidency Everett was
 recalled. From January 1846 to 1849, as the successor of Josiah Quincy,
 he was president of Harvard College. On the death, in October 1852, of
-his friend Daniel Webster, to whom he had always been closely attached,
+his friend [[Daniel]] Webster, to whom he had always been closely attached,
 and of whom he was always a confidential adviser, he succeeded him as
 secretary of state, which post he held for the remaining months of
 Fillmore's administration, leaving it to go into the Senate in 1853, as
@@ -123,7 +123,7 @@ his death on the 15th of January 1865.
 
 In Everett's life and career was a combination of the results of
 diligent training, unflinching industry, delicate literary tastes and
-unequalled acquaintance with modern international politics. This
+unequalled acquaintance with modern [[International|international]] politics. This
 combination made him in America an entirely exceptional person. He was
 never loved by the political managers; he was always enthusiastically
 received by assemblies of the people. He would have said himself that

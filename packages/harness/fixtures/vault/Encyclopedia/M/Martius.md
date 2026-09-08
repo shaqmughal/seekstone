@@ -1,8 +1,8 @@
 # Martius
 
-MARTIUS, CARL FRIEDRICH PHILIPP VON (1794-1868), German botanist and
-traveller, was born on the 17th of April 1794 at Erlangen, where he
-graduated M.D. in 1814, publishing as his thesis a critical catalogue of
+MARTIUS, CARL [[Friedrich|FRIEDRICH]] PHILIPP VON (1794-1868), German botanist and
+traveller, was born on the 17th of April 1794 at [[Erlangen]], where he
+graduated M.D. in 1814, publishing as his thesis a critical [[Catalogue|catalogue]] of
 plants in the botanic garden of the university. He afterwards devoted
 himself to botanical study, and in 1817 he and J. B. von Spix were sent
 to Brazil by the king of Bavaria. They travelled from Rio de Janeiro
@@ -13,11 +13,11 @@ of the botanic garden at Munich, and in 1826 professor of botany in the
 university there, and held both offices till 1864. He devoted his chief
 attention to the flora of Brazil, and in addition to numerous short
 papers he published the _Nova Genera et Species Plantarum Brasiliensium_
-(1823-1832, 3 vols.) and _Icones selectae Plantarum Cryptogamicarum
+(1823-1832, 3 vols.) and _[[Icon|Icones]] selectae Plantarum Cryptogamicarum
 Brasiliensium_ (1827), both works being finely illustrated. An account
 of his travels in Brazil appeared in 3 vols. 4to, 1823-1831, with an
-atlas of plates, but probably the work by which he is best known is his
-_Historia Palmarum_ (1823-1850) in 3 large folio volumes, of which one
+[[Atlas|atlas]] of plates, but probably the work by which he is best known is his
+_Historia Palmarum_ (1823-1850) in 3 large [[Folio|folio]] volumes, of which one
 describes the palms discovered by himself in Brazil. In 1840 he began
 the _Flora Brasiliensis_, with the assistance of the most distinguished
 European botanists, who undertook monographs of the various orders. Its

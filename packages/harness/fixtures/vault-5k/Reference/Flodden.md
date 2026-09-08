@@ -17,12 +17,12 @@ Henry VIII.'s absence was charged with the defence of the realm) had no
 organized force in the north of England, but James wasted much precious
 time among the border castles, and when Surrey appeared at Wooler, with
 an army equal in strength to his own, which was now greatly weakened by
-privations and desertion, he had not advanced beyond Ford Castle. The
+privations and [[Desertion|desertion]], he had not advanced beyond Ford Castle. The
 English commander promptly sent in a challenge to a pitched battle,
 which the king, in spite of the advice of his most trusted counsellors,
 accepted. On the 6th of September, however, he left Ford and took up a
 strong position facing south, on Flodden Edge. Surrey's reproaches for
-the alleged breach of faith, and a second challenge to fight on
+the alleged [[Breach|breach]] of faith, and a second challenge to fight on
 Millfield Plain were this time disregarded. The English commander, thus
 foiled, executed a daring and skilful march round the enemy's flank, and
 on the 9th drew up for battle in rear of the hostile army. It is evident

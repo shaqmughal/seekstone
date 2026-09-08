@@ -13,13 +13,13 @@ yields methylene iodide, CH2I2.
 
   More recently, iodoform has been prepared by the electrolysis of a
   solution of potassium iodide in the presence of alcohol or acetone,
-  the electrolytic cell being fitted with a diaphragm, in order to
+  the electrolytic cell being fitted with a [[Diaphragm|diaphragm]], in order to
   prevent the hydrogen which is formed at the same time from reducing
   the iodoform, or from combining with the iodine to form hydriodic
   acid. K. Elbs uses a solution of potassium iodide and sodium carbonate
   in water, which with the necessary alcohol is contained in a porous
   cell fitted with a lead anode, whilst the cathode compartment contains
-  a solution of caustic soda and a nickel electrode. The electrolysis is
+  a solution of [[Caustic|caustic]] soda and a nickel electrode. The electrolysis is
   carried out at a temperature of 70 deg. C., and a current density of
   one ampere per square decimetre is used. At the end of three hours a
   yield of 70% of the theoretical quantity is obtained.

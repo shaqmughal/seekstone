@@ -1,7 +1,7 @@
 # Corydon
 
-CORYDON, a town and the county-seat of Harrison county, Indiana, U.S.A.,
-on Indian Creek, about 21 m. W. by S. of Louisville, Kentucky. Pop.
+CORYDON, a town and the county-seat of Harrison county, [[Indiana]], U.S.A.,
+on Indian [[Creek]], about 21 m. W. by S. of Louisville, [[Kentucky]]. Pop.
 (1900) 1610; (1910) 1703. Corydon is served by the Louisville, New
 Albany & Corydon railway, which connects at Corydon Junction, 8 m. N.,
 with the Southern railway. There are sulphur springs here, and the town

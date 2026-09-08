@@ -3,11 +3,11 @@
 HIDDENITE, a green transparent variety of spodumene, (q.v.) used as a
 gem-stone. It was discovered by William E. Hidden (b. 1853) about 1879
 at Stonypoint, Alexander county, North Carolina, and was at first taken
-for diopside. In 1881 J. Lawrence Smith proved it to be spodumene, and
+for diopside. In 1881 J. [[Lawrence]] Smith proved it to be spodumene, and
 named it. Hiddenite occurs in small slender monoclinic crystals of
 prismatic habit, often pitted on the surface. A well-marked prismatic
 cleavage renders the mineral rather difficult to cut. Its colour passes
-from an emerald green to a greenish-yellow, and is often unevenly
+from an [[Emerald|emerald]] green to a greenish-yellow, and is often unevenly
 distributed through the stone. The mineral is dichroic in a marked
 degree, and shows much "fire" when properly cut. The composition of the
 mineral is represented by the formula LiAl(SiO3)2, the green colour
@@ -15,8 +15,8 @@ being probably due to the presence of a small proportion of chromium.
 The presence of lithia in this green mineral suggested the inappropriate
 name of lithia emerald, by which it is sometimes known. Hiddenite was
 originally found as loose crystals in the soil, but was afterwards
-worked in a veinstone, where it occurred in association with beryl,
-quartz, garnet, mica, rutile, &c.
+worked in a veinstone, where it occurred in association with [[Beryl|beryl]],
+quartz, [[Garnet|garnet]], mica, rutile, &c.
 
 
 
@@ -26,12 +26,12 @@ household), a measure of land. The word was in general use in England in
 Anglo-Saxon and early English times, although its meaning seems to have
 varied somewhat from time to time. Among its Latin equivalents are
 _terra unius familiae_, _terra unius cassati_ and _mansio_; the first of
-these forms is used by Bede, who, like all early writers, gives to it no
+these forms is used by [[Bede]], who, like all early writers, gives to it no
 definite area. In its earliest form the hide was the typical holding of
 the typical family. Gradually, this typical holding came to be regarded
 as containing 120 "acres" (not 120 acres of 4840 sq. yds. each, but 120
 times the amount of land which a ploughteam of eight oxen could plough
-in a single day). This definition appears to have been very general in
+in a single day). This [[Definition|definition]] appears to have been very general in
 England before the Norman Conquest, and in Domesday Book 30, 40, 50 and
 80 acres are repeatedly mentioned as fractions of a hide. Some
 historians, however, have thought that the hide only contained 30 acres
@@ -39,7 +39,7 @@ or thereabouts.
 
   "The question about the hide," says Professor Maitland in _Domesday
   Book and Beyond_, "is 'pre-judicial' to all the great questions of
-  early English history." The main argument employed by J. M. Kemble
+  early English history." The main argument employed by J. M. [[Kemble]]
   (_The Saxons in England_) in favour of the "small" hide is that the
   number of hides stated to have existed in the various parts of England
   gives an acreage far in excess of the total acreage of these parts,
@@ -69,12 +69,12 @@ or thereabouts.
   proper sense, a household with many dependent members, and making an
   allowance for primitive methods of agriculture, it is questionable
   whether 30 or 40 acres were sufficient for its support; and again if
-  the equation 1 hide = 120 acres is rejected there is no serious
+  the [[Equation|equation]] 1 hide = 120 acres is rejected there is no serious
   evidence in favour of any other. A possible explanation is that,
   although in early Anglo-Saxon times the hide consisted of 30 acres or
   thereabouts, it had come before the time of Domesday to contain 120
   acres. But no trace of such change can be found; there is no break in
-  the continuity of the land-charters which refer to hides and manses.
+  the continuity of the land-charters which refer to hides and [[Manse|manses]].
   Reviewing the whole question Professor Maitland accepts the view that
   the hide contained 120 acres. The difficulties are serious but they
   are not insuperable. Bede, writing in a primitive age and speaking for
@@ -82,18 +82,18 @@ or thereabouts.
   vague and general fashion; then the hide of 120 acres does not mean
   120 times 4840 yds., it means much less; and lastly at the time of
   Domesday the hide was not a unit of measurement, it was a unit for
-  purposes of taxation. On the other hand, Mr. H. M. Chadwick (_Studies
+  purposes of taxation. On the other hand, Mr. H. M. [[Chadwick]] (_Studies
   on Anglo-Saxon Institutions_) says there is no evidence that the hide
   contained 120 acres before the 10th century. He suggests that possibly
   the size of the hide in Mercia may have been fixed at 40 acres, while
   in Wessex it was regarded as containing 120 acres. Dr Stubbs (_Const.
   Hist._ i.) suggests that the confusion may have arisen because the
-  word was used "to express the whole share of one man in all the fields
+  word was used "to express the whole share of one man in all the [[Fields|fields]]
   of the village." Thus it might refer to 30 acres, his share in one
   field, or to 120 acres, his share in the four fields. He adds,
   however, that this explanation is not adequate for all cases. But
   these differences about the size of the hide are not peculiar to
-  modern times. Henry of Huntingdon says, _Hida Anglice vocatur terra
+  modern times. [[Henry Of Huntingdon|Henry of Huntingdon]] says, _Hida Anglice vocatur terra
   unius aratri culturae sufficiens per annum_, while the _Dialogus de
   scaccario puts its size at 100 acres, though this may be the long
   hundred, or_ 120. Perhaps, therefore, Selden is wisest when he says,
@@ -101,7 +101,7 @@ or thereabouts.
   description of the early hide when he says (_Titles of Honour_): "Now
   a hide of land regularly is and was (as I think) as much land as might
   be well manured with one plough, together with pasture, meadow and
-  wood competent for the maintenance of that plough, and the servants of
+  wood competent for the [[Maintenance|maintenance]] of that plough, and the servants of
   the family." The view that the size of the hide varied from district
   to district is borne out by Professor Vinogradoff's more recent
   researches. In his _English Society in the Eleventh Century_ he
@@ -111,18 +111,18 @@ or thereabouts.
   8 virgates. Sometimes again in the 11th century hides were not merely
   fiscal units; they were shares in the land itself.
 
-The fact that the hide was a unit of assessment, has been established by
+The fact that the hide was a unit of [[Assessment|assessment]], has been established by
 Mr J. H. Round in his _Feudal England_, and is regarded as throwing a
 most valuable light upon the many problems which present themselves to
 the student of Domesday. The process which converted the hide from a
 unit of measurement to a unit for assessment purposes is probably as
 follows. Being in general use to denote a large piece of land, and such
 pieces of land being roughly equal all over England, the hide was a
-useful unit on which to levy taxation, a use which dates doubtless from
+useful unit on which to [[Levy|levy]] taxation, a use which dates doubtless from
 the time of the Danegeld. For some time the two meanings were used side
 by side, but before the Norman Conquest the hide, a unit for taxation,
 had quite supplanted the hide, a measure of land, and this was the state
-of affairs when in 1086 William I. ordered his great inquest to be made.
+of affairs when in 1086 William I. ordered his great [[Inquest|inquest]] to be made.
 The formula used in Domesday varies from county to county, but a single
 illustration may be given. _Huntedun Burg defendebat se ad geldum regis
 pro quarta parte de Hyrstingestan hundred pro L. hidis_. This does not
@@ -131,11 +131,11 @@ square yards multiplied by 50, but that for purposes of taxation
 Huntingdon was regarded as worth 50 times a certain fiscal unit.
 
   This view of the nature of the hide was hinted at by R. W. Eyton in _A
-  Key to Domesday_ and was accepted by Maitland. Its proof rests
+  [[Key]] to Domesday_ and was accepted by Maitland. Its proof rests
   primarily upon the prevalence of the five-hide unit. By collating
   various documents which formed part of the Domesday inquest Mr Round
   has brought together for certain parts of England, especially for
-  Cambridgeshire and Bedfordshire, the holdings of the various lords in
+  [[Cambridgeshire]] and Bedfordshire, the holdings of the various lords in
   the different vills, and vill after vill shows a total of 5 hides or
   10 hides or only a slight discrepancy therefrom. A similar result is
   shown for the hundreds where multiples of 5 are almost universal, and
@@ -154,7 +154,7 @@ Huntingdon was regarded as worth 50 times a certain fiscal unit.
   remove. However, Professor Vinogradoff accepts the hide primarily as a
   fiscal unit "which corresponds only in a very rough way to the
   agrarian reality," and Maitland says the fiscal hide is "at its best a
-  lame compromise between a unit of area and a unit of value."
+  lame [[Compromise|compromise]] between a unit of area and a unit of value."
 
 What is the origin of the five-hide unit? Various conjectures have been
 hazarded, and the unit is undoubtedly older than the Danegeld. Rejecting
@@ -166,7 +166,7 @@ assessment for military service, possibly it was the recognized
 endowment of a Saxon thegn. In Anglo-Saxon times a man's standing in
 society was dependent to a great extent upon the number of hides which
 he possessed; this statement is fully proved from the laws. Moreover, in
-the laws of the Wessex king, Ine, the value of a man's oath is expressed
+the laws of the Wessex king, [[Ine]], the value of a man's oath is expressed
 in hides, the oath for a king's thegn being probably worth 60 hides and
 that of a ceorl 5 hides.
 
@@ -176,7 +176,7 @@ Mr Round holds that in Domesday at all events the hide always consisted
 of four virgates; Mr F. Seebohm in _The English Village Community_,
 although thinking that the normal hide "consisted as a rule of four
 virgates of 30 acres each," says that the Hundred Rolls for
-Huntingdonshire show that "the hide did not always contain the same
+[[Huntingdonshire]] show that "the hide did not always contain the same
 number of virgates." The virgate, it may be noted, consisted of a strip
 of land in _each_ acre of the hide, and there is undoubtedly a strong
 case in favour of the equation 1 hide = 4 virgates.
@@ -193,14 +193,14 @@ came full-formed from Germany and remained unchanged in spite of all
 diversities of geographical and economical conditions."
 
   In the Danish parts of England, or rather in the district of the "Five
-  Boroughs," the carucate takes the place of the hide as the unit of
+  Boroughs," the [[Carucate|carucate]] takes the place of the hide as the unit of
   value, and six supplants five, six carucates being the unit of
-  assessment. In Leicestershire and in part of Lancashire the hide is
+  assessment. In [[Leicestershire]] and in part of Lancashire the hide is
   quite different from what it is elsewhere in England. According to Mr
   Round the Leicestershire hide consisted of 18 carucates; Mr W. H.
   Stevenson (_English Historical Review_, vol. v.) argues that it
   contained only 12 and that it was a hundred and not a hide. Mr Seebohm
-  thinks there was a _solanda_ or double hide of 240 acres in Essex and
+  thinks there was a _solanda_ or double hide of 240 acres in [[Essex]] and
   other southern counties, but Mr Round does not think that this word
   refers to a measure or unit of assessment at all. For Kent, however,
   the word _sullung_ or solin, is used in _Domesday Book_ and in the
@@ -218,7 +218,7 @@ levied long after its original purpose was forgotten, and was during the
 11th century "the most sweeping and the heaviest of all the taxes."
 Henry of Huntingdon says its usual rate was 2s. on each hide of land,
 and this was evidently the rate at the time of the famous dispute
-between Henry II. and Becket at Woodstock in 1163, but it was not always
+between Henry II. and [[Becket]] at Woodstock in 1163, but it was not always
 kept at this figure, as in 1084 William I. had levied a tax of 6s. on
 each hide, an unusual extortion. The feudal aids were levied on the
 hide. Thus in 1109 Henry I. raised one at the rate of 3s. per hide for
@@ -249,7 +249,7 @@ longer, and then other names were given to the various taxes on land.
 
 FOOTNOTE:
 
-  [1] The homonym "hide," meaning to conceal, is in O. Eng. _hydan_;
+  [1] The [[Homonym|homonym]] "hide," meaning to conceal, is in O. Eng. _hydan_;
     the word appears in various forms in Old Teutonic languages. The root
     is probably seen in Gr. [Greek: keuthein] to hide, or may be the same
     as in "hide," skin, O. Eng. _hyd_, which is also seen in Ger. _Haut_,

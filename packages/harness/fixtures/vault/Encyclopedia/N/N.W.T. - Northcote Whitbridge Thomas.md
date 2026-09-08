@@ -3,7 +3,7 @@
 N.W.T. - NORTHCOTE WHITBRIDGE THOMAS, M.A. Government Anthropologist
 to Southern Nigeria. Corresponding Member of the Societe
 d'Anthropologie de Paris. Author of _Thought Transference_; _Kinship
-and Marriage in Australia_; &c.
+and Marriage in [[Australia]]_; &c.
 
 - ANIMAL-WORSHIP, ANIMISM
 

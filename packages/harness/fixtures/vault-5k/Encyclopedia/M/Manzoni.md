@@ -1,6 +1,6 @@
 # Manzoni
 
-MANZONI, ALESSANDRO FRANCESCO TOMMASO ANTONIO (1785-1873), Italian poet
+MANZONI, ALESSANDRO FRANCESCO TOMMASO [[Antonio|ANTONIO]] (1785-1873), Italian poet
 and novelist, was born at Milan on the 7th of March 1785. Don Pietro,
 his father, then about fifty, represented an old family settled near
 Lecco, but originally feudal lords of Barzio, in the Valsassina, where
@@ -14,13 +14,13 @@ for poetry, and wrote two sonnets of considerable merit. On the death of
 his father in 1805, he joined his mother at Auteuil, and spent two years
 there, mixing in the literary set of the so-called "ideologues,"
 philosophers of the 18th century school, among whom he made many
-friends, notably Claude Fauriel. There too he imbibed the negative creed
+friends, notably Claude [[Fauriel]]. There too he imbibed the negative creed
 of Voltairianism, and only after his marriage, and under the influence
 of his wife, did he exchange it for that fervent Catholicism which
 coloured his later life. In 1806-1807, while at Auteuil, he first
 appeared before the public as a poet, with two pieces, one entitled
 _Urania_, in the classical style, of which he became later the most
-conspicuous adversary, the other an elegy in blank verse, on the death
+conspicuous adversary, the other an elegy in [[Blank|blank]] verse, on the death
 of Count Carlo Imbonati, from whom, through his mother, he inherited
 considerable property, including the villa of Brusuglio, thenceforward
 his principal residence.
@@ -31,7 +31,7 @@ domestic life, divided between literature and the picturesque husbandry
 of Lombardy. His intellectual energy at this period was devoted to the
 composition of the _Inni sacri_, a series of sacred lyrics, and a
 treatise on Catholic morality, forming a task undertaken under religious
-guidance, in reparation for his early lapse from faith. In 1818 he had
+guidance, in reparation for his early [[Lapse|lapse]] from faith. In 1818 he had
 to sell his paternal inheritance, as his affairs had gone to ruin in the
 hands of a dishonest agent. His characteristic generosity was shown on
 this occasion in his dealings with his peasants, who were heavily

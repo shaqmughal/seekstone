@@ -8,7 +8,7 @@ enabled him to continue at Leipzig. He became director of the
 music-school at Pforten in 1572, was transferred to Leipzig in the same
 capacity in 1594, and retained this post until his death on the 24th of
 November 1615, despite the offers successively made to him of
-mathematical professorships at Frankfort and Wittenberg. In his _Opus
+mathematical professorships at [[Frankfort]] and Wittenberg. In his _Opus
 Chronologicum_ (Leipzig, 1605, 7th ed. 1685) he expounded a system based
 on the records of nearly 300 eclipses. An ingenious, though ineffective,
 proposal for the reform of the calendar was put forward in his _Elenchus

@@ -16,7 +16,7 @@ century are in ruins. The most remarkable remains are the palace of the
 Safawid shahs and the mosque with its large blue dome. In the 16th
 century Shah Tahmasp I. (1524-1576) made Kazvin his capital, and it
 remained so till Shah Abbas I. (1587-1629) transferred the seat of
-government to Isfahan. The town still bears the title Dar es Salteneh,
+government to [[Isfahan]]. The town still bears the title Dar es Salteneh,
 "the seat of government." Kazvin has many baths and cisterns fed by
 underground canals. The system of irrigation formerly carried on by
 these canals rendered the plain of Kazvin one of the most fertile

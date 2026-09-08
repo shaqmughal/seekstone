@@ -19,8 +19,8 @@ sulphur-yellow, and this enables the mineral to be distinguished at a
 glance from the emerald-green torbernite. Hardness 2-2½; specific gravity
 3.05-3.19. Autunite is usually found with pitchblende and other uranium
 minerals, or with ores of silver, tin and iron; it sometimes coats
-joint-planes in gneiss and pegmatite. Falkenstein in Saxony, St Symphorien
-near Autun (hence the name of the species), and St Day in Cornwall are
+joint-planes in [[Gneiss|gneiss]] and pegmatite. Falkenstein in Saxony, St Symphorien
+near [[Autun]] (hence the name of the species), and St Day in [[Cornwall]] are
 well-known localities for this mineral.
 
 (L. J. S.)

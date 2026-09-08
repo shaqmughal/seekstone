@@ -26,7 +26,7 @@ firmly against the upturned point of the snarling iron, the workman
 gives the shoulder or opposite end of the iron a sharp blow, which
 causes the point applied to the work to give it a percussive stroke, and
 thus throw up the surface of the metal held against the tool. When the
-blocking out from the interior is finished, or when no such embossing is
+blocking out from the interior is finished, or when no such [[Embossing|embossing]] is
 required, the object to be chased is filled with molten pitch, which is
 allowed to harden. It is then fastened to a sandbag, and with hammer and
 a multitude of small punches of different outline the whole details of

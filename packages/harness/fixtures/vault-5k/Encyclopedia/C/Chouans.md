@@ -22,7 +22,7 @@ near Laval, and retired to the wood of Misdon, where they lived in huts
 and subterranean chambers. The Chouans then waged a guerrilla warfare
 against the republicans and, sustained by the royalists and from abroad,
 carried on their assassinations and brigandage with success. From Lower
-Maine the insurrection soon spread to Brittany, and throughout the west
+[[Maine]] the insurrection soon spread to Brittany, and throughout the west
 of France. In 1793 Cottereau came to Laval with some 500 men; the band
 grew rapidly and swelled into a considerable army, which assumed the
 name of La Petite Vendee. But after the decisive defeats at Le Mans and

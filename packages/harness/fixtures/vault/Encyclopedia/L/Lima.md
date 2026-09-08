@@ -9,7 +9,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Lima"
 
 LIMA, the principal city and the capital of Peru and of the department
 and province of Lima, on the left bank of the river Rimac, 7½ m. above
-its mouth and the same distance E. by N. of its seaport Callao, in 12°
+its mouth and the same distance E. by N. of its seaport [[Callao]], in 12°
 2´ 34´´ S., 77° 7´ 36´´ W. Pop. (1906 estimate) 140,000, of whom a large
 proportion is of negro descent, and a considerable number of foreign
 birth. The city is about 480 ft. above sea-level, and stands on an arid
@@ -27,7 +27,7 @@ joins the Rimac a few miles above the city. These, with the Rio Lurin,
 which enters the Pacific a short distance S. of Chorrillos, provide
 water for irrigating the districts near Lima. The climate varies
 somewhat from that of the arid coast in general, in having a winter of
-four months characterized by cloudy skies, dense fogs and sometimes a
+four months characterized by cloudy skies, dense [[Fog|fogs]] and sometimes a
 drizzling rain. The air in this season is raw and chilly. For the rest
 of the year the sky is clear and the air dry. The mean temperature for
 the year is 66° F., the winter minimum being 59° and the summer maximum
@@ -39,26 +39,26 @@ enclosing square areas, called _manzanas_, of nearly uniform size. Later
 extensions, however, did not follow this plan strictly, and there is
 some variation from the straight line in the streets and also in the
 size and shape of the manzanas. The streets are roughly paved with
-cobble stones and lighted with gas or electricity. A broad boulevard of
+cobble stones and lighted with gas or electricity. A broad [[Boulevard|boulevard]] of
 modern construction partly encircles the city, occupying the site of the
-old brick walls (18 to 20 ft. high, 10 to 12 ft. thick at the base and 9
-ft. at the top) which were constructed in 1585 by a Fleming named Pedro
+old [[Brick|brick]] walls (18 to 20 ft. high, 10 to 12 ft. thick at the base and 9
+ft. at the top) which were constructed in 1585 by a [[Fleming]] named Pedro
 Ramon, and were razed by Henry Meiggs during the administration of
-President Balta. The water-supply is derived from the Rimac and
+President [[Balta]]. The water-supply is derived from the Rimac and
 filtered, and the drainage, once carried on the surface, now passes into
 a system of subterranean sewers. The streets and suburbs of Lima are
 served by tramways, mostly worked by electric traction. The suburban
 lines include two to Callao, one to Magdalena, and one to Miraflores and
 Chorrillos. On the north side of the river is the suburb or district of
 San Lazaro, shut in by the encircling hills and occupied in great part
-by the poorer classes. The principal squares are the Plaza Mayor, Plaza
+by the poorer classes. The principal squares are the Plaza [[Mayor]], Plaza
 Bolívar (formerly P. de la Inquisicion and P. de la Independencia),
 Plaza de la Exposicion, and Plaza del Acho, on the north side of the
 river, the site of the bull-ring. The public gardens, connected with the
-Exposition palace on the S. side of the city, and the Paseo Colon are
+Exposition palace on the S. side of the city, and the Paseo [[Colon]] are
 popular among the Limeños as pleasure resorts. The long Paseo Colon,
 with its parallel drives and paths, is ornamented with trees, shrubbery
-and statues, notably the Columbus statue, a group in marble designed by
+and statues, notably the Columbus statue, a group in [[Marble|marble]] designed by
 the sculptor Salvatore Revelli. It is the favourite fashionable resort.
 A part of the old wagon road from Lima to Callao, which was paved and
 improved with walks and trees by viceroy O'Higgins, is also much
@@ -70,7 +70,7 @@ the right bank of the Rimac, and the celebrated avenue of the Descalzos,
 on the N. side of the river, bordered with statuary. The noteworthy
 monuments of the city are the bronze equestrian statue of Bolívar in the
 plaza of that name, the Columbus statue already mentioned, the Bolognesi
-statue in the small square of that name, and the San Martin statue in
+statue in the small square of that name, and the San [[Martin]] statue in
 the Plaza de la Exposicion. The 22nd of May monument, a marble shaft
 crowned by a golden bronze figure of Victory, stands where the Callao
 road crosses the Boulevard. Most conspicuous among the public buildings
@@ -83,7 +83,7 @@ richly-decorated chapels, in one of which rest the remains of Francisco
 Pizarro, the conqueror of Peru. Also facing the same square are the
 archiepiscopal and government palaces; the latter formerly the palace of
 the viceroys. The interesting _casa_ of the Inquisition, whose tribunals
-rivalled those of Madrid in cruelty, faces upon Plaza Bolívar, as also
+rivalled those of Madrid in [[Cruelty|cruelty]], faces upon Plaza Bolívar, as also
 the old University of San Marcos, which dates from 1551 and has
 faculties of theology, law, medicine, philosophy and literature,
 mathematics, and administrative and political economy. The churches and
@@ -130,14 +130,14 @@ streets.
 Manufacturing has had some considerable development since the closing
 years of the 19th century; the most important manufactories are
 established outside the city limits; they produce cotton and woollen
-textiles, the products of the sugar estates, chocolate, cocaine, cigars
-and cigarettes, beer, artificial liquors, cotton-seed oil, hats,
-macaroni, matches, paper, soap and candles. The commercial interests of
+textiles, the products of the sugar estates, chocolate, cocaine, [[Cigar|cigars]]
+and cigarettes, [[Beer|beer]], artificial liquors, cotton-seed oil, hats,
+macaroni, matches, paper, soap and [[Candle|candles]]. The commercial interests of
 the city are important, a large part of the interior being supplied from
 this point. With its port Callao the city is connected by two steam
 railways, one of which was built as early as 1848; one railway runs
 northward to Ancon, and another, the famous Oroya line, runs inland 130
-m., crossing the Western Cordillera at an elevation of 15,645 ft. above
+m., crossing the Western [[Cordillera]] at an elevation of 15,645 ft. above
 sea-level, with branches to Cerro de Pasco and Huari. The export trade
 properly belongs to Callao, though often credited to Lima. The Limeños
 are an intelligent, hospitable, pleasure-loving people, and the many
@@ -165,10 +165,10 @@ withdrawal of the Spanish forces. San Martin was proclaimed the
 protector of Peru as a free state on the 28th of July, but resigned that
 office on the 20th of September 1822 to avoid a fratricidal struggle
 with Bolívar. In March 1828 Lima was again visited by a destructive
-earthquake, and in 1854-1855 an epidemic of yellow fever carried off a
+earthquake, and in 1854-1855 an epidemic of yellow [[Fever|fever]] carried off a
 great number of its inhabitants. In November 1864, when a hostile
 Spanish fleet was on the coast, a congress of South American
-plenipotentiaries was held here to concert measures of mutual defence.
+plenipotentiaries was held here to [[Concert|concert]] measures of mutual defence.
 Lima has been the principal sufferer in the many revolutions and
 disorders which have convulsed Peru under the republic, and many of them
 originated in the city itself. During the earlier part of this period
@@ -185,17 +185,17 @@ its occupation by a Chilean army under the command of General Baquedano
 after the bloody defeat of the Peruvians at Miraflores on the 15th of
 January 1881. Chorrillos and Miraflores with their handsome country
 residences had already been sacked and burned and their helpless
-residents murdered. Lima escaped this fate, thanks to the intervention
+residents murdered. Lima escaped this [[Fate|fate]], thanks to the intervention
 of foreign powers, but during the two years and nine months of this
 occupation the Chileans systematically pillaged the public edifices,
-turned the old university of San Marcos into barracks, destroyed the
+turned the old university of San Marcos into [[Barracks|barracks]], destroyed the
 public library, and carried away the valuable contents of the Exposition
 palace, the models and apparatus of the medical school and other
 educational institutions, and many of the monuments and art treasures
 with which the city had been enriched. A forced contribution of
 $1,000,000 a month was imposed upon the population in addition to the
-revenues of the custom house. When the Chilean garrison under Captain
-Lynch was withdrawn on the 22nd of October 1883, it took 3000 wagons to
+revenues of the custom house. When the Chilean [[Garrison|garrison]] under Captain
+[[Lynch]] was withdrawn on the 22nd of October 1883, it took 3000 wagons to
 carry away the plunder which had not already been shipped. Of the
 government palace and other public buildings nothing remained but the
 bare walls. The buoyant character of the people, and the sympathy and
@@ -210,9 +210,9 @@ recovery difficult, but years of peace have assisted it.
 
   See Mariano F. Paz Soldan, _Diccionario geográfico-estadistico del
   Perú_ (Lima, 1877); Mateo Paz Soldan and M. F. Paz Soldan, _Geografia
-  del Perú_ (Paris, 1862); Manuel A. Fuentes, _Lima, or Sketches of the
+  del Perú_ (Paris, 1862); [[Manuel]] A. Fuentes, _Lima, or Sketches of the
   Capital of Peru_ (London, 1866); C. R. Markham, _Cuzo and Lima_
-  (London, 1856), and _History of Peru_ (Chicago, 1892); Alexandre
+  (London, 1856), and _History of Peru_ ([[Chicago]], 1892); Alexandre
   Garland, _Peru in 1906_ (Lima, 1907); and C. R. Enock, _Peru_ (London,
   1908). For earlier descriptions see works referred to under PERU.
        (A. J. L.)
@@ -221,17 +221,17 @@ recovery difficult, but years of peace have assisted it.
 
 
 LIMAÇON (from the Lat. _limax_, a slug), a curve invented by Blaise
-Pascal and further investigated and named by Gilles Personne de
+Pascal and further investigated and named by [[Gill|Gilles]] Personne de
 Roberval. It is generated by the extremities of a rod which is
 constrained to move so that its middle point traces out a circle, the
 rod always passing through a fixed point on the circumference. The polar
-equation is r = a+b cos [theta], where 2a = length of the rod, and b =
+[[Equation|equation]] is r = a+b cos [theta], where 2a = length of the rod, and b =
 diameter of the circle. The curve may be regarded as an epitrochoid (see
-EPICYCLOID) in which the rolling and fixed circles have equal radii. It
-is the inverse of a central conic for the focus, and the first positive
+[[Epicycloid|EPICYCLOID]]) in which the rolling and fixed circles have equal radii. It
+is the inverse of a central conic for the [[Focus|focus]], and the first positive
 pedal of a circle for any point. The form of the limaçon depends on the
 ratio of the two constants; if a be greater than b, the curve lies
-entirely outside the circle; if a equals b, it is known as a cardioid
+entirely outside the circle; if a equals b, it is known as a [[Cardioid|cardioid]]
 (q.v.); if a is less than b, the curve has a node within the circle; the
 particular case when b = 2a is known as the trisectrix (q.v.). In the
 figure (1) is a limaçon, (2) the cardioid, (3) the trisectrix.

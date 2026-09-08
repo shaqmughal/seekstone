@@ -1,12 +1,12 @@
 # Callias
 
-CALLIAS, tyrant of Chalcis in Euboea. With the assistance of Philip II.
+CALLIAS, tyrant of Chalcis in [[Euboea]]. With the assistance of Philip II.
 of Macedon, which he hoped to obtain, he contemplated the subjugation of
 the whole island. But finding that Philip was unwilling to help him,
 Callias had recourse to the Athenians, although he had previously (350
 B.C.) been engaged in hostilities with them. With the support of
 Demosthenes, he was enabled to conclude an alliance with Athens, and the
-tribute formerly paid by Eretria and Oreus to Athens was handed over to
+tribute formerly paid by [[Eretria]] and Oreus to Athens was handed over to
 him. But his plan of uniting the whole of Euboea under his rule, with
 Chalcis as capital, was frustrated by Philip, who set up tyrants chosen
 by himself at Eretria and Oreus. Subsequently, when Philip's attention
@@ -26,7 +26,7 @@ centuries B.C. the office of _daduchus_ or torch-bearer at the
 Eleusinian mysteries was the hereditary privilege of the family till its
 extinction. The following members deserve mention.
 
-1. CALLIAS, the second of the name, fought at the battle of Marathon
+1. CALLIAS, the second of the name, fought at the battle of [[Marathon]]
 (490) in priestly attire. Some time after the death of Cimon, probably
 about 445 B.C., he was sent to Susa to conclude with Artaxerxes, king of
 Persia, a treaty of peace afterwards misnamed the "peace of Cimon."
@@ -36,17 +36,17 @@ not seem to have been successful; he was indicted for high treason on
 his return to Athens and sentenced to a fine of fifty talents.
 
   See Herodotus vii. 151; Diod. Sic. xii. 4; Demosthenes, _De Falsa
-  Legatione_, p. 428; Grote recognizes the treaty as a historical fact,
-  _History of Greece_, ch. xlv., while Curtius, bk. iii. ch. ii., denies
+  Legatione_, p. 428; [[Grote]] recognizes the treaty as a historical fact,
+  _History of Greece_, ch. xlv., while [[Curtius]], bk. iii. ch. ii., denies
   the conclusion of any formal treaty; see also Ed. Meyer,
-  _Forschungen_, ii.; J.B. Bury in _Hermathena_, xxiv. (1898).
+  _Forschungen_, ii.; J.B. [[Bury]] in _Hermathena_, xxiv. (1898).
 
-2. HIPPONICUS, son of the above. Together with Eurymedon he commanded
+2. HIPPONICUS, son of the above. Together with [[Eurymedon]] he commanded
 the Athenian forces in the incursion into Boeotian territory (426 B.C.)
 and was slain at the battle of Delium (424). His wife, whom he
 divorced, subsequently became the wife of Pericles; one of his
 daughters, Hipparete, married Alcibiades; another, the wife of
-Theodorus, was the mother of the orator Isocrates.
+Theodorus, was the mother of the orator [[Isocrates]].
 
   See Thucydides iii. 91; Diod. Sic. xii. 65; Andocides, _Contra
   Alcibiadem_, 13.
@@ -60,12 +60,12 @@ was laid at his house. He was reduced to a state of absolute poverty
 and, according to Aelian (_Var. Hist._ iv. 23), committed suicide, but
 there is no confirmation of this. In spite of his dissipated life he
 played a certain part in public affairs. In 392 he was in command of the
-Athenian hoplites at Corinth, when the Spartans were defeated by
-Iphicrates. In 371 he was at the head of the embassy sent to make terms
+Athenian hoplites at [[Corinth]], when the Spartans were defeated by
+Iphicrates. In 371 he was at the head of the [[Embassy|embassy]] sent to make terms
 with Sparta. The peace which was the result was called after him the
 "peace of Callias."
 
-  See Xenophon, _Hellenica_, iv. 5, vi. 3; and DELIAN LEAGUE.
+  See Xenophon, _Hellenica_, iv. 5, vi. 3; and [[Delian League|DELIAN LEAGUE]].
 
 ## References
 

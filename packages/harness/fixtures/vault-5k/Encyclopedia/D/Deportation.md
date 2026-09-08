@@ -4,12 +4,12 @@ DEPORTATION, or TRANSPORTATION, a system of punishment for crime, of
 which the essential factor is the removal of the criminal to a penal
 settlement outside his own country. It is to be distinguished from mere
 expulsion (q.v.) from a country, though the term "deportation" is now
-used in that sense in English law under the Aliens Act 1905 (see ALIEN).
+used in that sense in [[English Law|English law]] under the Aliens Act 1905 (see ALIEN).
 Strictly, the deportation or transportation system has ceased to exist
 in England, though the removal or exclusion of undesirable persons from
 British territory, under various Orders in Council, is possible in
 places subject to the Foreign Jurisdiction Acts, and in the case of
-criminals under the Extradition Acts.
+criminals under the [[Extradition]] Acts.
 
 
 American plantations.
@@ -17,7 +17,7 @@ American plantations.
 _Earlier British Transportation System._--At a time when the British
 statute-book bristled with capital felonies, when the pick-pocket or
 sheep-stealer was hanged out of hand, when Sir Samuel Romilly, to whose
-strenuous exertions the amelioration of the penal code is in a great
+strenuous exertions the amelioration of the penal [[Code|code]] is in a great
 measure due, declared that the laws of England were written in blood,
 another and less sanguinary penalty came into great favour. The
 deportation of criminals beyond the seas grew naturally out of the laws
@@ -53,8 +53,8 @@ whose labour might be useful to the community; and an act was
 accordingly passed which provides that convicts sentenced to
 transportation might be employed at hard labour at home. At the same
 time the consideration of some scheme for their disposal was entrusted
-to three eminent public men--Sir William Blackstone, Mr Eden (afterwards
-Lord Auckland) and John Howard. The result of their labours was an act
+to three eminent public men--Sir William [[Blackstone]], Mr [[Eden]] (afterwards
+Lord [[Auckland]]) and John [[Howard]]. The result of their labours was an act
 for the establishment of penitentiary houses, dated 1778. This act is of
 peculiar importance. It contains the first public enunciation of a
 general principle of prison treatment, and shows that even at that early
@@ -80,7 +80,7 @@ well supplied with water and conveniently situated for supervision. He
 was strongly of opinion that the penitentiary should be built by convict
 labour. Howard withdrew from the commission, and new members were
 appointed, who were on the eve of beginning the first penitentiary when
-the discoveries of Captain Cook in the South Seas turned the attention
+the discoveries of Captain [[Cook]] in the South Seas turned the attention
 of the government towards these new lands. The vast territories of
 Australasia promised an unlimited field for convict colonization, and
 for the moment the scheme for penitentiary houses fell to the ground.
@@ -92,7 +92,7 @@ the scene of offence and temptation, cut them off by a great gulf of
 space from all their former connexions, and gave them the opportunity of
 redeeming past crimes by becoming useful members of society." These
 views so far prevailed that an expedition consisting of nine transports
-and two men-of-war, the "first fleet" of Australian annals, sailed in
+and two men-of-war, the "first fleet" of Australian [[Annals|annals]], sailed in
 March 1787 for New South Wales. This first fleet reached Botany Bay in
 January 1788, but passed on and landed at Port Jackson, where it entered
 and occupied Sydney harbour. From that time forward convicts were sent
@@ -108,7 +108,7 @@ classes, convicts and their masters; criminal bondsmen on the one hand
 who had forfeited their independence and were bound to labour without
 wages for the state, on the other officials to guard and exact the due
 performance of tasks. A few free families were encouraged to emigrate,
-but they were lost in the mass they were intended to leaven, swamped and
+but they were lost in the mass they were intended to [[Leaven|leaven]], swamped and
 outnumbered by the convicts, shiploads of whom continued to pour in year
 after year. When the influx increased, difficulties as to their
 employment arose. Free settlers were too few to give work to more than a
@@ -141,7 +141,7 @@ Moreover, the expense of the Australian convict establishments was
 enormous.
 
 
-Assignment system.
+[[Assignment]] system.
 
 Some change in system was inevitable, and the plan of "assignment" was
 introduced; in other words, that of freely lending the convicts to any
@@ -164,9 +164,9 @@ boon to secure gratis the assistance of men specially trained as clerks,
 book-keepers or handicraftsmen. Hence all manner of intrigues and
 manoeuvres were afoot on the arrival of drafts and there was a
 scramble for the best hands. Here at once was a palpable flaw in the
-system of assignment. The lot of the convict was altogether unequal.
+system of assignment. The [[Lot|lot]] of the convict was altogether unequal.
 Some, the dull, unlettered and unskilled, were drafted up country to
-heavy manual labour at which they remained, while clever expert rogues
+heavy [[Manual|manual]] labour at which they remained, while [[Clever|clever]] expert rogues
 found pleasant, congenial and often profitable employment in the towns.
 The contrast was very marked from the first, but it became the more
 apparent when in due course it was seen that some were still engaged in
@@ -197,7 +197,7 @@ care of criminals to private persons. It had established a code of
 penalties for the coercion of the ill-conducted, while it kept the worst
 perforce in its own hands. The master was always at liberty to appeal to
 the strong arm of the law. A message carried to a neighbouring
-magistrate, often by the culprit himself, brought down the prompt
+[[Magistrate|magistrate]], often by the [[Culprit|culprit]] himself, brought down the prompt
 retribution of the lash. Convicts might be flogged for petty offences,
 for idleness, drunkenness, turbulence, absconding and so forth. At the
 out-stations some show of decorum and regularity was observed, although
@@ -252,7 +252,7 @@ into surrounding wilds was often welcomed as a relief.
 
 The stage which transportation was now reaching and the actual condition
 of affairs in the Australian colonies about this period do not appear to
-have been much understood in England. Earnest and thoughtful men might
+have been much understood in England. [[Earnest]] and thoughtful men might
 busy themselves with prison discipline at home, and the legislature
 might watch with peculiar interest the results obtained from the special
 treatment of a limited number of selected offenders in Millbank
@@ -299,13 +299,13 @@ leading requisites of any system of secondary punishment. Transportation
 exercised no salutary terror in offenders; it was no longer exile to an
 unknown inhospitable region, but to one flowing with milk and honey,
 whither innumerable friends and associates had gone already. The most
-glowing descriptions came back of the wealth which any clever fellow
+glowing descriptions came back of the wealth which any clever [[Fellow|fellow]]
 might easily amass; stories were told and names mentioned of those who
 had made ample fortunes in Australia in a few years. As a matter of fact
 the convicts, or at least large numbers of them, had prospered
 exceedingly. Some had incomes of twenty, thirty, even forty thousand
 pounds a year. The deteriorating effects of the system were plainly
-manifest on the surface from the condition of the colony,--the
+[[Manifest|manifest]] on the surface from the condition of the colony,--the
 profligacy of the towns, the scant reprobation of crimes and those who
 had committed them. Down below, in the openly sanctioned slavery called
 assignment, in the demoralizing chain gangs and in the inexpressibly
@@ -314,7 +314,7 @@ the general wickedness and corruption. Moreover these appalling results
 were accompanied by colossal expenditure. The cost of the colonial
 convict establishments, with the passages out, amounted annually to
 upwards of £300,000; another £100,000 was expended on the military
-garrisons; and various items brought the whole outlay to about half a
+garrisons; and various [[Item|items]] brought the whole outlay to about half a
 million per annum. It may be argued that this was not a heavy price to
 pay for peopling a continent and laying the foundations of a vast
 Australasian empire. But that empire could never have expanded to its
@@ -342,10 +342,10 @@ committee had recommended the erection of more penitentiaries. But the
 costly experiment of Millbank had been barren of results. The model
 prison at Pentonville, in process of construction under the pressure of
 a movement towards prison reform, could offer but limited
-accommodation. A proposal was put forward to construct convict barracks
+accommodation. A proposal was put forward to construct convict [[Barracks|barracks]]
 in the vicinity of the great arsenals; but this, which contained really
 the germ of the present British penal system, was premature. The
-government in this dilemma steered a middle course and resolved to
+government in this [[Dilemma|dilemma]] steered a middle course and resolved to
 adhere to transportation, but under a greatly modified and it was hoped
 much improved form. The colony of Van Diemen's Land, younger and less
 self-reliant than its neighbour, had also endured convict immigration
@@ -437,13 +437,13 @@ prospered. No return was made by agricultural development, farms and
 plantations proved a dead loss under the unfavourable conditions of
 labour enforced in a malarious climate and unkindly soil, and it was
 acknowledged by French officials that the attempt to establish a penal
-colony on the equator was utterly futile. Deportation to Guiana was not
+colony on the [[Equator|equator]] was utterly futile. Deportation to Guiana was not
 abandoned, but instead of native-born French exiles, convicts of subject
 races, Arabs, Anamites and Asiatic blacks, were sent exclusively, with
 no better success as regards colonization.
 
 In 1864, however, it was possible to divert the stream elsewhere. New
-Caledonia in the Australian Pacific was annexed to France in 1853. Ten
+[[Caledonia]] in the Australian Pacific was annexed to France in 1853. Ten
 years later it became a new settlement for convict emigrants. A first
 shipload was disembarked in 1864 at Noumea, and the foundations of the
 city laid. Prison buildings were the first erected and were planted upon
@@ -524,7 +524,7 @@ sent and the absence of outlets for their employment, even at great
 cost.
 
 The prisons on Sakhalin have been described as hotbeds of vice; the only
-classification of prisoners is one based on the length of sentence. Some
+[[Classification|classification]] of prisoners is one based on the length of sentence. Some
 imperfect attempt is made to separate those waiting trial from the
 recidivist or hardened offender, but too often the association is
 indiscriminate. Prison discipline is generally slack and ineffective,
@@ -554,7 +554,7 @@ the mutiny (1857) for the deportation of heinous criminals (see ANDAMAN
 ISLANDS).
 
    AUTHORITIES.--Captain A. Phillip, R.N., _The Voyage of Governor
-   Phillip to New South Wales_ (1790); David Collins, _Account of the
+   Phillip to New South Wales_ (1790); David [[Collins]], _Account of the
    English Colony of New South Wales_ (1798); Archbishop Whately,
    _Remarks on Transportation_ (1834); Herman Merivale, _Colonization
    and Colonies_ (1841); d'Haussonville, _Établissements pénitentiaires

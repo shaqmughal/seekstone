@@ -10,7 +10,7 @@ id: 42-5994
 MARSALA, a seaport of Sicily, in the province of Trapani, 19 m. by rail
 S. of Trapani. Pop. (1881), 19,732; (1901), 57,567. The low coast on
 which it is situated is the westernmost point of the island. The town is
-the seat of a bishop, and the cathedral contains 16 grey marble columns,
+the seat of a bishop, and the cathedral contains 16 grey [[Marble|marble]] columns,
 which are said to have been intended for Canterbury Cathedral in
 England, the vessel conveying them having been wrecked here. The town
 owes its importance mainly to the trade in Marsala wine.
@@ -26,7 +26,7 @@ rights from Augustus and became a colony under Pertinax or Septimus
 Severus. The Saracens gave it its present name, _Marsa Ali_, port of
 Ali. The harbour, which lay on the north-east, was destroyed by Charles
 V. to prevent its occupation by pirates. The modern harbour lies to the
-south-east. In 1860 Garibaldi landed at Marsala with 1000 men and began
+south-east. In 1860 [[Garibaldi]] landed at Marsala with 1000 men and began
 his campaign in Sicily. Scanty remains of the ancient _Lilybaeum_
 (fragments of the city walls, of squared stones, and some foundations of
 buildings between the walls and the sea) are visible; and the so-called

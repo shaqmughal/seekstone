@@ -13,7 +13,7 @@ HOOLIGAN, the generally accepted modern term for a young street ruffian
 or rowdy. It seems to have been first applied to the young street
 ruffians of the South-East of London about 1890, but though popular in
 the district, did not attract general attention till later, when
-authentic information of its origin was lost, but it appears that the
+[[Authentic|authentic]] information of its origin was lost, but it appears that the
 most probable source was a comic song which was popular in the
 lower-class music-hall in the late 'eighties or early 'nineties, which
 described the doings of a rowdy family named Hooligan (i.e. Irish
@@ -36,7 +36,7 @@ another name for the same class. More familiar is the Australian
 "larrikin," which apparently came into use about 1870 in Melbourne. The
 story that the word represents an Irish policeman's pronunciation of
 "larking" is a mere invention. It is probably only an adaptation of the
-Irish "Larry," short for Lawrence. Others suggest that it is a
+Irish "Larry," short for [[Lawrence]]. Others suggest that it is a
 corruption of the slang _Leary Kinchen_, i.e. knowing, wide-awake child.
 
 ## See also

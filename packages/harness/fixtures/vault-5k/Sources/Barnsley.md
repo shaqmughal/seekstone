@@ -14,7 +14,7 @@ churches, of which the oldest, the parish church of St Mary, was built in
 library. Among several educational institutions, the free grammar school
 dates from 1665; and a philosophical society was founded in 1828. A
 monument was erected in 1905 to prominent members of the Yorkshire Miners'
-Association. The park was presented in 1862 by the widow of Joseph Locke,
+Association. The park was presented in 1862 by the widow of Joseph [[Locke]],
 M.P. The manufacture of iron and steel, and the weaving of linen and other
 cloth, are the two principal industries; but there are also bleachfields,
 printfields, dyeworks, sawmills, cornmills and malt-houses; and the
@@ -37,7 +37,7 @@ granted by Henry de Lacy to the monks of Pontefract. Henry III. in 1249
 granted the prior and convent of Pontefract a market every Wednesday at
 Barnsley, and a fair on the vigil and feast of St Michael and two following
 days, and Henry VIII. in 1512 granted them a new fair on the day of the
-Conversion of St Paul and two following days. The monastery evidently also
+[[Conversion]] of St Paul and two following days. The monastery evidently also
 held another fair there called St Ellen's fair, for in 1583 Queen Elizabeth
 granted this fair and St Paul's fair and the market "lately belonging to
 the dissolved monastery of Pontefract" to one Henry Burdett, and Ralph and

@@ -7,11 +7,11 @@ topic: africa
 # E. F. S. - Edward Fairbrother Strange.
 
 E. F. S. - EDWARD FAIRBROTHER STRANGE.
-Assistant-Keeper, Victoria and Albert Museum, South Kensington. Member of
-Council, Japan Society. Author of numerous works on art subjects;
+Assistant-Keeper, Victoria and Albert Museum, South [[Kensington]]. Member of
+Council, [[Japan]] Society. Author of numerous works on art subjects;
 Joint-editor of Bell's "Cathedral" Series.
 
-- Beardsley, Aubrey Vincent.
+- [[Beardsley]], [[Aubrey]] Vincent.
 
 ## References
 

@@ -6,7 +6,7 @@ topic: history
 
 # Harratin
 
-HARRATIN, black Berbers, dwelling in Tidikelt and other Saharan oases.
+HARRATIN, black [[Berber|Berbers]], dwelling in Tidikelt and other Saharan oases.
 Many of them are blacker than the average negro. In physique, however,
 they are true to the Berber type, being of handsome appearance with
 European features and well-proportioned bodies. They are the result of

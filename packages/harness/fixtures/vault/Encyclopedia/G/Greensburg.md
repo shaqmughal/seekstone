@@ -4,7 +4,7 @@ GREENSBURG, a borough and the county-seat of Westmoreland county,
 Pennsylvania, U.S.A., 31 m. E.S.E. of Pittsburg. Pop. (1890) 4202;
 (1900) 6508 (484 foreign-born); (1910) 5420. It is served by two lines
 of the Pennsylvania railway. It is an important coal centre, and
-manufactures engines, iron and brass goods, flour, lumber and bricks. In
+manufactures engines, iron and [[Brass|brass]] goods, flour, lumber and [[Brick|bricks]]. In
 addition to its public school system, it has several private schools,
 including St Mary's Academy and St Joseph's Academy, both Roman
 Catholic. About 3 m. N.E. of what is now Greensburg stood the village of

@@ -14,9 +14,9 @@ Nuremberg as a "candidate for holy orders," and there, in conjunction
 with Georg Philipp Harsdörffer, founded in 1644 the literary society
 known as the Pegnitz order. In 1647 he received an appointment as master
 in the Sebaldus school in Nuremberg, and in 1650 became preacher at
-Kitzingen, where he died in 1656. Klaj's poems consist of dramas,
+[[Kitzingen]], where he died in 1656. Klaj's poems consist of [[Drama|dramas]],
 written in stilted language and redundant with adventures, among which
-are _Höllen- und Himmelfahrt Christi_ (Nuremberg, 1644), and _Herodes,
+are _Höllen- und Himmelfahrt Christi_ (Nuremberg, 1644), and _[[Herod|Herodes]],
 der Kindermörder_ (Nuremberg, 1645), and a poem, written jointly with
 Harsdörffer, _Pegnesische Schäfergedicht_ (1644), which gives in
 allegorical form the story of his settlement in Nuremberg.

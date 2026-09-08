@@ -3,12 +3,12 @@
 HUSUM, a town in the Prussian province of Schleswig-Holstein, in a
 fertile district 2½ m. inland from the North Sea, on the canalized
 Husumer Au, which forms its harbour and roadstead, 99 m. N.W. from
-Hamburg on a branch line from Tönning. Pop. (1900) 8268. It has steam
+[[Hamburg]] on a branch line from Tönning. Pop. (1900) 8268. It has steam
 communication with the North Frisian Islands (Nordstrand, Föhr and
 Sylt), and is a port for the cattle trade with England. Besides a ducal
 palace and park, it possesses an Evangelical church and a gymnasium.
 Cattle markets are held weekly, and in them, as also in cereals, a
-lively export trade is done. There are also extensive oyster fisheries,
+lively export trade is done. There are also extensive oyster [[Fisheries|fisheries]],
 the property of the state, the yield during the season being very
 considerable. Husum is the birthplace of Johann Georg Forchhammer
 (1794-1865), the mineralogist, Peter Wilhelm Forchhammer (1801-1894),

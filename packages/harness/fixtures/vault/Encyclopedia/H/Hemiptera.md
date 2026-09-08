@@ -8,15 +8,15 @@ tags: [physics, drama-studies]
 # Hemiptera
 
 HEMIPTERA (Gr. [Greek: hemi-], half and [Greek: pteron], a wing), the
-name applied in zoological classification to that order of the class
-Hexapoda (q.v.) which includes bugs, cicads, aphids and scale-insects.
+name applied in zoological [[Classification|classification]] to that order of the class
+[[Hexapoda]] (q.v.) which includes bugs, cicads, aphids and scale-insects.
 The name was first used by Linnaeus (1735), who derived it from the
 half-coriaceous and half-membranous condition of the forewing in many
 members of the order. But the wings vary considerably in different
 families, and the most distinctive feature is the structure of the jaws,
 which form a beak-like organ with stylets adapted for piercing and
 sucking. Hence the name _Rhyngota_ (or _Rhynchota_), proposed by J. C.
-Fabricius (1775), is used by many writers in preference to Hemiptera.
+[[Fabricius]] (1775), is used by many writers in preference to Hemiptera.
 
 [Illustration: After Marlatt, _Bull._ 14 (N.S.) _Div. Ent. U.S. Dept.
 Agr._
@@ -33,14 +33,14 @@ _Structure._--The head varies greatly in shape, and the feelers have
 usually but few segments--often only four or five. The arrangement of
 the jaws is remarkably constant throughout the order, if we exclude from
 it the lice (_Anoplura_). Taking as our type the head of a cicad, we
-find a jointed rostrum or beak (figs. 1 and 2, IV. b, c) with a deep
+find a jointed rostrum or [[Beak|beak]] (figs. 1 and 2, IV. b, c) with a deep
 groove on its anterior face; this organ is formed by the second pair of
-maxillae and corresponds therefore to the labium or "lower lip" of
-biting insects. Within the groove of the rostrum two pairs of slender
+maxillae and corresponds therefore to the labium or "lower [[Lip|lip]]" of
+biting [[Insect|insects]]. Within the groove of the rostrum two pairs of slender
 piercers--often barbed at the tip--work to and fro. One of these pairs
 (fig. 2, II. a, b, c) represents the mandibles, the other (fig. 2, III.
 a, b, c) the first maxillae. The piercing portions of the
-latter--representing their inner lobes or laciniae--lie median to the
+latter--representing their inner [[Lobe|lobes]] or laciniae--lie median to the
 mandibular piercers in the natural position of the organs. These
 homologies of the hemipterous jaws were determined by J. C. Savigny in
 1816, and though disputed by various subsequent writers, they have been
@@ -120,7 +120,7 @@ FIG. 4.--Passive Nymph or "Pupa" of male scale-insect (_Icerya_).]
 _Distribution and Habits._--Hemiptera are widely distributed, and are
 plentiful in most quarters of the globe, though they probably have not
 penetrated as far into remote and inhospitable regions as have the
-Coleoptera, Diptera and Aptera. They feed entirely by suction, and the
+[[Coleoptera]], [[Diptera]] and Aptera. They feed entirely by suction, and the
 majority of the species pierce plant tissues and suck sap. The leaves of
 plants are for the most part the objects of attack, but many aphids and
 scale-insects pierce stems, and some go underground and feed on roots.
@@ -139,7 +139,7 @@ blood they suck.
 The Hemiptera are especially interesting as an order from the variety of
 aquatic insects included therein. Some of these--the _Hydrometridae_ or
 pond-skaters, for example--move over the surface-film, on which they are
-supported by their elongated, slender legs, the body of the insect being
+supported by their elongated, slender [[Leg|legs]], the body of the insect being
 raised clear of the water. They are covered with short hairs which form
 a velvet-like pile, so dense that water cannot penetrate. Consequently
 when the insect dives, an air-bubble forms around it, a supply of oxygen
@@ -183,7 +183,7 @@ FIG. 7.
 
   a, Body of male Cicad from below, showing cover-plates of musical
        organs;
-  b, From above showing drums, natural size;
+  b, From above showing [[Drum|drums]], natural size;
   c, Section showing muscles which vibrate drum (magnified);
   d, A drum at rest;
   e, Thrown into vibration, more highly magnified.]
@@ -211,7 +211,7 @@ insectan at all. Both Heteropterous and Homopterous genera have been
 described from the Carboniferous, but the true nature of some of these
 is doubtful. _Eugereon_ is a remarkable Permian fossil, with jaws that
 are typically hemipterous except that the second maxillae are not fused
-and with cockroach-like wings. In the Jurassic period many of the
+and with cockroach-like wings. In the [[Jurassic]] period many of the
 existing families, such as the _Cicadidae_, _Fulgoridae_, _Aphidae_,
 _Nepidae_, _Reduviidae_, _Hydrometridae_, _Lygaeidae_ and _Coreidae_,
 had already become differentiated.
@@ -238,7 +238,7 @@ had already become differentiated.
   and in some families there is also a _cuneus_ (fig. 9 cu) external to
   and an _embolium_ in front of the _corium_.
 
-  [Illustration: After Marlatt, _Bull._ 4 (N.S.) _Div. Ent. U.S. Dept.
+  [Illustration: After Marlatt, _[[Bull]]._ 4 (N.S.) _Div. Ent. U.S. Dept.
   Agr._
 
   FIG. 8.--Bed-bug (_Cimex lectularius_, Linn.).
@@ -250,7 +250,7 @@ had already become differentiated.
          still more highly magnified).]
 
   Most Heteroptera are flattened in form, and the wings lie flat, or
-  nearly so, when closed. The young Heteropteron is hatched from the egg
+  nearly so, when closed. The young Heteropteron is hatched from the [[Egg|egg]]
   in a form not markedly different from that of its parent; it is active
   and takes food through all the stages of its growth. It is usual to
   divide the Heteroptera into two tribes--the Gymnocerata and the
@@ -277,7 +277,7 @@ had already become differentiated.
   _Reduviidae_ are a family of predaceous bugs that attack other
   insects and suck their juices; the beak is short, and carried under
   the head in a hook-like curve, not--as in the preceding
-  families--lying close against the breast. The _Cimicidae_ have the
+  families--lying close against the [[Breast|breast]]. The _Cimicidae_ have the
   feet three-segmented and the forewings greatly reduced; most of the
   species are parasites on birds and bats, but one--_Cimex lectidarius_
   (figs. 3, 8)--is the well-known "bed-bug" which abounds in unclean
@@ -310,13 +310,13 @@ had already become differentiated.
   four-segmented feelers and fore-legs inserted at the front of the
   prosternum. Two species of the former family inhabit our islands, but
   the _Belostomatidae_ are found only in the warmer regions of the
-  globe; some of them, attaining a length of 4 to 5 in., are giants
+  globe; some of them, attaining a length of 4 to 5 in., are [[Giant|giants]]
   among insects. The _Nepidae_ (fig. 6) or water-scorpions (q.v.)--two
   British species--are distinguished by their three-segmented feelers,
   their raptorial fore-legs (in which the shin and foot, fused together,
   work like a sharp knife-blade on the grooved thigh), and their
   elongate tail-processes formed of the abdominal pleura and used for
-  respiration. The _Notonectidae_, or "water-boatmen" (q.v.) have convex
+  respiration. The _Notonectidae_, or "water-boatmen" (q.v.) have [[Convex|convex]]
   ovoid bodies admirably adapted for aquatic life. By means of the
   oar-like hind-legs they swim actively through the water with the
   ventral surface upwards; the fore-legs are inserted at the hinder edge
@@ -348,7 +348,7 @@ had already become differentiated.
   live in the same situations; while in some families there is a passive
   stage before the last moult.
 
-  [Illustration: After Weed, Riley and Howard, _Insect Life_, vol iii.
+  [Illustration: After Weed, Riley and [[Howard]], _Insect Life_, vol iii.
 
   FIG. 11.--Cabbage Aphid (_Aphisbrassicae_). a, Male; c, female
   (wingless). Magnified. b and d, Head and feelers of male and female,
@@ -356,7 +356,7 @@ had already become differentiated.
 
   [Illustration: After Howard, _Year Book U.S. Dept. Agr._, 1894.
 
-  FIG. 12.--Apple Scale Insect (_Mytilaspis pomorum_). a, Male; e,
+  FIG. 12.--[[Apple]] Scale Insect (_Mytilaspis pomorum_). a, Male; e,
   female; c, larva magnified--; b, foot of male; d, feeler of larva,
   more highly magnified.]
 
@@ -372,7 +372,7 @@ had already become differentiated.
   North American species it is known that this larval life lasts for
   seventeen years. The "song" of the male cicads is notorious and the
   structures by which it is produced have already been described (see
-  also CICADA). There are about 900 known species, but the family is
+  also [[Cicada|CICADA]]). There are about 900 known species, but the family is
   mostly confined to warm countries; only a single cicad is found in
   England, and that is restricted to the south.
 
@@ -380,7 +380,7 @@ had already become differentiated.
   whose members are also natives of hot regions. The _Fulgoridae_ have
   the head with two ocelli and three-segmented feelers; frequently as in
   the tropical "lantern-flies" (q.v.) the head is prolonged into a
-  conspicuous bladder, or trunk-like process. The _Membracidae_ are
+  conspicuous [[Bladder|bladder]], or trunk-like process. The _Membracidae_ are
   remarkable on account of the backward prolongation of the pronotum
   into a process or hood-like structure which may extend far behind the
   tail-end of the abdomen. Two other allied families, the _Cercopidae_
@@ -399,7 +399,7 @@ had already become differentiated.
   [Illustration: From Osborn (after Denny), _Bull._ 5 (N.S.), _Div. Ent.
   U.S. Dept. Agr._
 
-  FIG. 14.--Louse (_Pediculus vestimenti_). Magnified.]
+  FIG. 14.--[[Louse]] (_Pediculus vestimenti_). Magnified.]
 
   [Illustration: From Osborn (after Schiodte), _Bull._ 5; (N.S.), _Div.
   Ent. U.S. Dept. Agr._
@@ -415,14 +415,14 @@ had already become differentiated.
   _Aleyrodidae_ (or "snowy-flies") distinguished by their white mealy
   wings, are of comparatively slight importance. The two families to
   which special attention has been paid are the _Aphidae_ or plant-lice
-  ("green fly") and the _Coccidae_ or scale-insects. The aphids (fig.
+  ("green [[Fly|fly]]") and the _Coccidae_ or scale-insects. The aphids (fig.
   11) have feelers with seven or fewer distinct segments, and the fifth
   abdominal segment usually carries a pair of tubular processes through
   which a waxy secretion is discharged. The sweet "honey-dew," often
   sought as a food by ants, is secreted from the intestines of aphids.
   The peculiar life-cycle in which successive generations are produced
   through the summer months by virgin females--the egg developing within
-  the body of the mother--is described at length in the articles APHIDES
+  the body of the mother--is described at length in the articles [[Aphides|APHIDES]]
   and PHYLLOXERA. The _Coccidae_ have only a single claw to the foot;
   the males (fig. 12 _a_) have the fore-wings developed and the
   hind-wings greatly reduced, while in the female wings are totally
@@ -439,8 +439,8 @@ had already become differentiated.
   and brood, finds shelter. The male coccid passes through a passive
   stage (fig. 4) before attaining the perfect condition. Many
   scale-insects are among the most serious of pests, but various species
-  have been utilized by man for the production of wax (lac) and red dye
-  (cochineal). See ECONOMIC ENTOMOLOGY, SCALE-INSECT.
+  have been utilized by man for the production of wax ([[Lac|lac]]) and red dye
+  ([[Cochineal|cochineal]]). See [[Economic Entomology|ECONOMIC ENTOMOLOGY]], SCALE-INSECT.
 
 
     ANOPLURA
@@ -460,7 +460,7 @@ had already become differentiated.
   certainly deserves ordinal separation.
 
   BIBLIOGRAPHY.--A recent standard work on the morphology of the
-  Hemiptera by R. Heymons (_Nova Acta Acad. Leop. Carol._ lxxiv. 3,
+  Hemiptera by R. Heymons (_Nova Acta Acad. Leop. [[Carol]]._ lxxiv. 3,
   1899) contains numerous references to older literature. An excellent
   survey of the order is given by D. Sharp (_Cambridge Nat. Hist._ vol.
   vi., 1898). For internal structure of Heteroptera see R. Dufour, _Mem.
@@ -475,7 +475,7 @@ had already become differentiated.
   systematic works on Heteroptera may be mentioned J. C. Schiodte (_Ann.
   Mag. Nat. Hist._ (4) vi., 1870); C. Stal's _Enumeratio Hemipterorum_
   (_K. Svensk. Vet. Akad. Handl._ ix.-xiv., 1870-1876); L. Lethierry and
-  G. Severin's _Catalogue generale des hemipteres_ (Brussels 1893, &c.);
+  G. Severin's _[[Catalogue]] generale des hemipteres_ (Brussels 1893, &c.);
   G. C. Champion's volumes in the _Biologia Centrali-Americana_; W. L.
   Distant's Oriental Cicadidae (London, 1889-1892), and many other
   papers; M. E. Fernald's _Catalogue of the Coccidae_ (Amherst, U.S.A.,
@@ -490,7 +490,7 @@ had already become differentiated.
   papers (_Entomologist_, &c.). For marine Hemiptera (_Halobates_) see
   F. B. White (_Challenger Reports_, vii., 1883); J. J. Walker (_Ent.
   Mo. Mag._, 1893); N. Nassonov (Warsaw, 1893), and G. H. Carpenter
-  (_Knowledge_, 1901, and _Report, Pearl Oyster Fisheries, Royal
+  (_Knowledge_, 1901, and _Report, Pearl Oyster [[Fisheries]], Royal
   Society_, 1906). Sound-producing organs of Heteroptera are described
   by A. Handlirsch (_Ann. Hofmus. Wien_, xv. 1900), and G. W. Kirkaldy
   (_Journ. Quekett Club_ (2) viii. 1901); of Cicads by G. Carlet (_Ann.

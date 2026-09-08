@@ -7,8 +7,8 @@ topic: philosophy
 # Corbie
 
 CORBIE (Lat. _corvus_), a crow or raven. In architecture, "corbie steps"
-is a Scottish term (cf. CORBEL) for the steps formed up the sides of the
-gable by breaking the coping into short horizontal beds.
+is a Scottish term (cf. [[Corbel|CORBEL]]) for the steps formed up the sides of the
+[[Gable|gable]] by breaking the coping into short horizontal beds.
 
 ## See also
 

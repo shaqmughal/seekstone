@@ -26,13 +26,13 @@ _Decameron_ and the queen of Navarre's _Heptameron_ are, perhaps, the best
 known examples. The common origin of them all is to be found in the old
 French _fabliaux_, though some well-known tales are evidently Eastern, and
 others classical. Bandello's novels are esteemed the best of those written
-in imitation of the _Decameron_, though Italian critics find fault with
+in imitation of the _Decameron_, though Italian critics find [[Fault|fault]] with
 them for negligence and inelegance of style. They have little value from a
 purely literary point of view, and many of them are disfigured by the
 grossest obscenity. Historically, however, they are of no little interest,
 not only from the insight into the social life of the period which they
 afford, but from the important influence they exercised on the Elizabethan
-drama. The stories on which Shakespeare based several of his plays were
+[[Drama|drama]]. The stories on which Shakespeare based several of his plays were
 supplied by Bandello, probably through Belleforest or Paynter.
 
 BANDER ABB[=A]SI (also BENDER ABBAS, and other forms), a town of Persia, on
@@ -73,19 +73,19 @@ assassination of Seyed Thuweini, the sultan of Muscat, to instal as
 governor of Bander Abb[=a]si and district a nominee of their own who agreed
 to pay a rent of 20,000 tomans per annum. Further difficulties arising
 between Persia and Muscat, and the ruler of the latter, then in possession
-of a powerful fleet, threatening to blockade Bander Abb[=a]si, the Persian
+of a powerful fleet, threatening to [[Blockade|blockade]] Bander Abb[=a]si, the Persian
 government solicited the good offices of the British government, and the
 lease was renewed for another eight years upon payment of 30,000 tomans per
 annum (then about £12,000). This was in 1868. In the same year, however,
 the sultan of Muscat was expelled by a successful revolt, and the Persian
-government, in virtue of a clause in the lease allowing them to cancel the
+government, in virtue of a clause in the lease allowing them to [[Cancel|cancel]] the
 contract if a conqueror obtained possession of Muscat, installed their own
 governor at Bander Abb[=a]si and [v.03 p.0311] have retained possession of
 the place ever since (see Curzon, _Persia_, ii. 424).
 
 Bander Abb[=a]si has a lively trade, exporting much of the produce of
 central and south-eastern Persia and supplying imports to those districts
-and Khorasan. It has telegraph and post offices, and the mail steamers of
+and [[Khorasan]]. It has telegraph and post offices, and the mail steamers of
 the British India Steam Navigation Company call at the port weekly. Great
 Britain and Russia are represented there by consuls. From 1890-1905 the
 total value of the exports and imports from and into Bander Abb[=a]si

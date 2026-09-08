@@ -1,6 +1,6 @@
 # Halma
 
-HALMA (Greek for "jump"), a table game, a form of which was known to the
+HALMA (Greek for "jump"), a table [[Game|game]], a form of which was known to the
 ancient Greeks, played on a board divided into 256 squares with wooden
 _men_, resembling chess pawns. In the two-handed game 19 men are
 employed on each side, coloured respectively black and white; in the
@@ -13,21 +13,21 @@ accomplishes this. The moves are made alternately, the mode of
 progression being by a _step_, from one square to another immediately
 adjacent, or by a jump (whence the name), which is the jumping of a man
 from a square in front of it into an empty square on the other side of
-it. This corresponds to jumping in draughts, except that, in halma, the
+it. This corresponds to jumping in [[Draughts|draughts]], except that, in halma, the
 hop may be in any direction, over friendly as well as hostile men, and
 the men jumped over are not taken but remain on the board.
 
 In the four-handed game either each player plays for himself, or two
 adjacent players play against the other two.
 
-  See _Card and Table Games_, by Professor Hoffmann (London, 1903).
+  See _Card and Table [[Games]]_, by Professor Hoffmann (London, 1903).
 
 
 
 
 HALMAHERA ["great land"; also Jilolo or Gilolo], an island of the Dutch
 East Indies, belonging to the residency of Ternate, lying under the
-equator and about 128 deg. E. Its shape is extremely irregular,
+[[Equator|equator]] and about 128 deg. E. Its shape is extremely irregular,
 resembling that of the island of Celebes. It consists of four peninsulas
 so arranged as to enclose three great bays (Kayu, Bicholi, Weda), all
 opening towards the east, the northern peninsula being connected with
@@ -52,7 +52,7 @@ and Tidore. Coral formations on heights in the interior would indicate
 oscillations of the land in several periods, but a detailed geology of
 the island is wanting. To the north-east of the northern peninsula is
 the considerable island of Morotai (635 sq. m.), and to the west of the
-southern peninsula the more important island of Bachian (q.v.) among
+southern peninsula the more important island of [[Bachian]] (q.v.) among
 others. Galela is a considerable settlement, situated on a bay of the
 same name on the north-east coast, in a well cultivated plain which
 extends southward and inland. Vegetation is prolific. Rice is grown by
@@ -66,7 +66,7 @@ The inhabitants are mostly of immigrant Malayan stock. In the northern
 peninsula are found people of Papuan type, probably representing the
 aborigines, and a tribe around Galela, who are Polynesian in physique,
 possibly remnants, much mixed by subsequent crossings with the Papuan
-indigenes, of the Caucasian hordes emigrating in prehistoric times
+indigenes, of the Caucasian [[Horde|hordes]] emigrating in prehistoric times
 across the Pacific. M. Achille Raffray gives a description of them in
 _Tour du monde_ (1879) where photographs will be found. "They are as
 unlike the Malays as we are, excelling them in tallness of stature and
@@ -74,11 +74,11 @@ elegance of shape, and being perfectly distinguished by their oval face,
 with a fairly high and open brow, their aquiline nose and their
 horizontally placed eyes. Their beards are sometimes thick; their limbs
 are muscular; the colour of their skins is cinnamon brown. Spears of
-iron-wood, abundantly barbed, and small bows and bamboo arrows free from
+iron-wood, abundantly barbed, and small [[Bow|bows]] and bamboo arrows free from
 poison are their principal weapons." They are further described as
-having temples (_sabuas_) in which they suspend images of serpents and
+having temples (_sabuas_) in which they suspend [[Image|images]] of serpents and
 other monsters as well as the trophies procured by war. They believe in
-a better life hereafter, but have no idea of a hell or a devil, their
+a better life hereafter, but have no idea of a [[Hell|hell]] or a devil, their
 evil spirits only tormenting them in the present state.
 
 The Portuguese and Spaniards were better acquainted with Halmahera than

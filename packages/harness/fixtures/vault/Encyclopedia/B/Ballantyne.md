@@ -9,8 +9,8 @@ _Hudson's Bay: or, Life in the Wilds of North America_. For some time he
 was employed by Messrs Constable, the publishers, but in 1856 he gave up
 business for the profession of literature, and began the series of
 excellent stories of adventure for the young with which his name is
-popularly associated. _The Young Fur-Traders_ (1856), _The Coral Island_
-(1857), _The World of Ice_ (1859), _Ungava: a Tale of Eskimo Land_ (1857),
+popularly associated. _The Young Fur-Traders_ (1856), _The [[Coral]] Island_
+(1857), _The World of [[Ice]]_ (1859), _Ungava: a Tale of Eskimo Land_ (1857),
 _The Dog Crusoe_ (1860), _The Lighthouse_ (1865), _Deep Down_ (1868), _The
 Pirate City_ (1874), _Erling the Bold_ (1869), _The Settler and the Savage_
 (1877), and other books, to the number of upwards of a hundred, followed in
@@ -23,9 +23,9 @@ in later years at Harrow, and died on the 8th of February 1894, at Rome,
 where he had gone to attempt to shake off the results of overwork. He wrote
 a volume of _Personal Reminiscences of Book-making_ (1893).
 
-BALLARAT [BALLAARAT] and BALLARAT EAST, a city and a town of Grenville
-county, Victoria, Australia, 74 m. by rail W.N.W. of Melbourne. The city
-and Ballarat East, separated only by the Yarrowee Creek, are distinct
+BALLARAT [BALLAARAT] and BALLARAT EAST, a city and a town of [[Grenville]]
+county, Victoria, [[Australia]], 74 m. by rail W.N.W. of Melbourne. The city
+and Ballarat East, separated only by the Yarrowee [[Creek]], are distinct
 municipalities. Pop. of Ballarat (1901) 25,448, of Ballarat East, 18,262.
 Ballarat is the second city and the chief gold-mining centre of the state.
 The alluvial gold-fields were the richest ever opened up, but as these

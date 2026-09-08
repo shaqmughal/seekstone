@@ -9,7 +9,7 @@ tags: [history, biography]
 
 GRASS OF PARNASSUS, in botany, a small herbaceous plant known as
 _Parnassia palustris_ (natural order _Saxifragaceae_), found on wet
-moors and bogs in Britain but less common in the south. The white
+moors and [[Bog|bogs]] in Britain but less common in the south. The white
 regular flower is rendered very attractive by a circlet of scales,
 opposite the petals, each of which bears a fringe of delicate filaments
 ending in a yellow knob. These glisten in the sunshine and look like a

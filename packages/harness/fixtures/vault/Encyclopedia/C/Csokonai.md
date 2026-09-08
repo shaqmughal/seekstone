@@ -17,7 +17,7 @@ in almost constant wretchedness, and he died in his native town, and in
 his mother's house, when only thirty-one years of age. Csokonai was a
 genial and original poet with something of the lyrical fire of Petofi,
 and wrote a mock-heroic poem called _Dorottya or the Triumph of the
-Ladies at the Carnival_, two or three comedies or farces, and a number
+Ladies at the [[Carnival]]_, two or three comedies or [[Farce|farces]], and a number
 of love-poems. Most of his works have been published, with a life, by
 Schedel (1844-1847).
 

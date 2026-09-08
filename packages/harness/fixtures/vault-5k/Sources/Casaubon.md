@@ -1,16 +1,16 @@
 # Casaubon
 
-CASAUBON, ISAAC (1550-1614), French (naturalized English) classical
-scholar, was born at Geneva, on the 18th of February 1559, of French
+CASAUBON, [[Isaac|ISAAC]] (1550-1614), French (naturalized English) classical
+scholar, was born at [[Geneva]], on the 18th of February 1559, of French
 refugee parents. On the publication of the edict of January 1562, the
-family returned to France and settled at Crest in Dauphiné, where Arnaud
+family returned to France and settled at Crest in Dauphiné, where [[Arnaud]]
 Casaubon, Isaac's father, became minister of a Huguenot congregation.
 Till he was nineteen, Isaac had no other instruction than what could be
 given him by his father during the years of civil war. Arnaud was away
 from home whole years together in the Calvinist camp, or the family were
 flying to the hills to hide from the fanatical bands of armed Catholics
 who patrolled the country. Thus it was in a cave in the mountains of
-Dauphiné, after the massacre of St Bartholomew, that Isaac received his
+Dauphiné, after the [[Massacre|massacre]] of St Bartholomew, that Isaac received his
 first lesson in Greek, the text-book being Isocrates _ad Demonicum_.
 
 At nineteen Isaac was sent to the Academy of Geneva, where he read Greek
@@ -18,9 +18,9 @@ under Francis Portus, a native of Crete. Portus died in 1581, having
 recommended Casaubon, then only twenty-two, as his successor. At Geneva
 he remained as professor of Greek till 1596. Here he married twice, his
 second wife being Florence, daughter of the scholar-printer, Henri
-Estienne. Here, without the stimulus of example or encouragement, with
+[[Estienne]]. Here, without the stimulus of example or encouragement, with
 few books and no assistance, in a city peopled with religious refugees,
-and struggling for life against the troops of the Catholic dukes of
+and struggling for life against the troops of the Catholic [[Dukes|dukes]] of
 Savoy, Casaubon made himself a consummate Greek scholar and master of
 ancient learning. His great wants at Geneva were books and the sympathy
 of learned associates. He spent all he could save out of his small
@@ -30,7 +30,7 @@ university and professor of theology), and Jacques Lect (Lectius), were
 indeed men of superior learning. But Henri, in those last years of his
 life, was no longer the Estienne of the _Thesaurus_; he was never at
 home, and would not suffer his son-in-law to enter his library. "He
-guards his books," writes Casaubon, "as the griffins in India do their
+[[Guards|guards]] his books," writes Casaubon, "as the [[Griffin|griffins]] in India do their
 gold!" Beza was engrossed by the cares of administration, and retained,
 at most, an interest for theological reading, while Lect, a lawyer and
 diplomatist, had left classics for the active business of the council.
@@ -42,7 +42,7 @@ Englishman of birth was not complete without a visit to Geneva. It was
 there that Casaubon made the acquaintance of young Henry Wotton, the
 poet and diplomatist, who lodged in his house and borrowed his money. Of
 more consequence to Isaac Casaubon was the acquaintance of Richard
-Thomson ("Dutch" Thomson), fellow of Clare College, Cambridge; for it
+Thomson ("Dutch" Thomson), [[Fellow|fellow]] of [[Clare]] College, Cambridge; for it
 was through Thomson that the attention of Joseph Scaliger, settled in
 1593 at Leiden, was directed to Casaubon. Scaliger and Casaubon first
 exchanged letters in 1594. Their intercourse, which was wholly by
@@ -56,7 +56,7 @@ capacity, to France.
 
 This was effected in 1596, in which year Casaubon accepted an invitation
 to the university of Montpellier, with the title of _conseiller du roi_
-and _professeur stipendié aux langues et bonnes lettres_. In Montpellier
+and _professeur stipendié aux langues et [[Bonn|bonnes]] lettres_. In Montpellier
 he never took root. He held the professorship there only three years,
 with several prolonged absences. The hopes raised by his brilliant
 reception were disappointed; he was badly treated by the authorities, by
@@ -79,9 +79,9 @@ that we have a specimen of that peculiar style of illustrative
 commentary, at once apposite and profuse, which distinguishes Casaubon
 among annotators. At the time of his removal to Montpellier he was
 engaged upon what is the capital work of his life, his edition of, and
-commentary on, Athenaeus.
+commentary on, [[Athenaeus]].
 
-In 1598 we find Casaubon at Lyons, superintending the passage of his
+In 1598 we find Casaubon at [[Lyons]], superintending the passage of his
 Athenaeus through the press, for which he had been unable to find
 facilities at Montpellier. Here he lived in the house of Méric de Vicq,
 _surintendant de la justice_, a Catholic, but a man of acquirements,
@@ -91,14 +91,14 @@ presented to Henry IV. The king was very gracious, and said something
 about employing Casaubon's services in the "restoration" of the fallen
 university of Paris. Full of hope he returned to Montpellier. In January
 1599, he received a summons to repair to Paris. But the terms of the
-letter missive were so vague that, though it bore the sign manual,
+letter missive were so vague that, though it bore the sign [[Manual|manual]],
 Casaubon hesitated to act upon it. However, he resigned his chair at
 Montpellier, but instead of hastening to Paris, he lingered more than a
 year at Lyons, in De Vicq's house, where he hoped to meet the king, who
 was expected to visit the south. Nothing more was heard about the
 professorship, but instead he was summoned by De Vicq, who was then in
 Paris, to come to him in all haste on an affair of importance. The
-business proved to be the Fontainebleau Conference. Casaubon allowed
+business proved to be the [[Fontainebleau]] Conference. Casaubon allowed
 himself to be persuaded to sit as one of the referees who were to
 adjudicate on the challenge sent to Du Plessis Mornay by Cardinal
 Duperron. By so doing he placed himself in a false position, as Scaliger
@@ -153,7 +153,7 @@ In spite of all these advantages we find Casaubon restless, and ever
 framing schemes for leaving Paris, and settling elsewhere. It was known
 that he was open to offers, and offers came to him from various
 quarters,--from Nîmes, from Heidelberg, from Sedan. His friends Lect and
-Giovanni Diodati wished, rather than hoped, to get him back to Geneva.
+Giovanni [[Diodati]] wished, rather than hoped, to get him back to Geneva.
 The causes of Casaubon's discomfort in Paris were various, but the
 principal source of uneasiness lay in his religion. The life of any
 Huguenot in Paris was hardly secure at that time, for it was doubtful if
@@ -185,7 +185,7 @@ even menacing. It was now that Casaubon began to listen to overtures
 which had been faintly made before, from the bishops and the court of
 England. In October 1610 he came to England in the suite of the
 ambassador, Lord Wotton of Marley (brother of Casaubon's early friend),
-an official invitation having been sent him by Richard Bancroft,
+an official invitation having been sent him by Richard [[Bancroft]],
 archbishop of Canterbury. He had the most flattering reception from
 James I., who was perpetually sending for him to discuss theological
 matters. The English bishops were equally delighted to find that the
@@ -212,8 +212,8 @@ of discomfort. Not that he had any reason to complain of his patrons,
 the king and the bishops. James continued to the last to delight in his
 company, and to be as liberal as the state of his finances allowed. John
 Overall had received him and his whole family into the deanery of St
-Paul's, and entertained him there for a year. Overall and Lancelot
-Andrewes, then bishop of Ely, were the most learned men of a generation
+Paul's, and entertained him there for a year. Overall and [[Lancelot]]
+Andrewes, then bishop of [[Ely]], were the most learned men of a generation
 in which extensive reading was more general among the higher clergy than
 it has ever been since. These two were attracted to Casaubon by
 congenial studies and opinions. With the witty and learned bishop of Ely
@@ -222,7 +222,7 @@ spare from the labours of the study. Andrewes took him to Cambridge,
 where he met with a most gratifying reception from the notabilities of
 the university. They went on together to Downham, where Casaubon spent
 six weeks of the summer of 1611, in which year he became naturalized. In
-1613 he was taken to Oxford by Sir Henry Savile, where, amid the homage
+1613 he was taken to Oxford by Sir Henry Savile, where, amid the [[Homage|homage]]
 and feasting of which he was the object, his principal interest was for
 the MSS. treasures of the Bodleian. The honorary degree which was
 offered him he declined.
@@ -233,7 +233,7 @@ bishops, he had to share in their rising unpopularity. The courtiers
 looked with a jealous eye on a pensioner who enjoyed frequent
 opportunities of taking James I. on his weak side--his love of book
 talk--opportunities which they would have known how to use. Casaubon was
-especially mortified by Sir Henry Wotton's persistent avoidance of him,
+especially mortified by Sir Henry Wotton's persistent [[Avoidance|avoidance]] of him,
 so inconsistent with their former intimacy. His windows were broken by
 the roughs at night, his children pelted in the streets by day. On one
 occasion he himself appeared at Theobalds with a black eye, having
@@ -242,7 +242,7 @@ Hallam thinks that he had "become personally unpopular"; but these
 outrages from the vulgar seem to have arisen solely from the cockney's
 antipathy to the Frenchman. Casaubon, though he could make shift to read
 an English book, could not speak English, any more than Mme Casaubon.
-This deficiency not only exposed him to insult and fraud, but restricted
+This deficiency not only exposed him to insult and [[Fraud|fraud]], but restricted
 his social intercourse. It excluded him altogether from the circle of
 the "wits"; either this or some other cause prevented him from being
 acceptable in the circle of the lay learned--the "antiquaries." William
@@ -254,25 +254,25 @@ Spelman he was slightly acquainted. Of John Selden we find no mention.
 Though Sir Henry Savile ostensibly patronized him, yet Casaubon could
 not help suspecting that it was Savile who secretly prompted an attempt
 by Richard Montagu to forestall Casaubon's book on Baronius. Besides the
-jealousy of the natives, Casaubon had now to suffer the open attacks of
+[[Jealousy|jealousy]] of the natives, Casaubon had now to suffer the open attacks of
 the Jesuit pamphleteers. They had spared him as long as there were hopes
 of getting him over. The prohibition was taken off, now that he was
 committed to Anglicanism. Not only Joannes Eudaemon, Heribert Rosweyd
 and Scioppius (Gaspar Schoppe),[1] but a respectable writer, friendly to
-Casaubon, Andreas Schott of Antwerp, gave currency to the insinuation
+Casaubon, Andreas Schott of [[Antwerp]], gave currency to the insinuation
 that Casaubon had sold his conscience for English gold.
 
 But the most serious cause of discomfort in his English residence was
 that his time was no longer his own. He was perpetually being summoned
-out of town to one or other of James's hunting residences that the king
+out of town to one or other of James's [[Hunting|hunting]] residences that the king
 might enjoy his talk. He had come over from Paris in search of leisure,
 and found that a new claim on his time was established. The king and the
 bishops wanted to employ his pen in their literary warfare against Rome.
 They compelled him to write first one, then a second, pamphlet on the
 subject of the day,--the royal supremacy. At last, ashamed of thus
 misappropriating Casaubon's stores of learning, they set him upon a
-refutation of the _Annals_ of Baronius, then in the full tide of its
-credit and success. Upon this task Casaubon spent his remaining strength
+refutation of the _[[Annals]]_ of Baronius, then in the full tide of its
+[[Credit|credit]] and success. Upon this task Casaubon spent his remaining strength
 and life. He died in great suffering on the 1st of July 1614. His
 complaint was an organic and congenital malformation of the bladder; but
 his end was hastened by an unhealthy life of over-study, and latterly by
@@ -295,7 +295,7 @@ Latin) was finally collected by Van Almeloveen (Rotterdam, 1709), who
 prefixed to the letters a careful life of Isaac Casaubon. But this
 learned Dutch editor was acquainted with Casaubon's diary only in
 extract. This diary, _Ephemerides_, of which the MS. is preserved in the
-chapter library of Canterbury, was printed in 1850 by the Clarendon
+chapter library of Canterbury, was printed in 1850 by the [[Clarendon]]
 Press. It forms the most valuable record we possess of the daily life of
 a scholar, or man of letters, of the 16th century. (M. P.)
 

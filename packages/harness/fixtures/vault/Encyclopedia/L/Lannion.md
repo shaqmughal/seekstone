@@ -1,13 +1,13 @@
 # Lannion
 
-LANNION, a town of north-western France, capital of an arrondissement in
+LANNION, a town of north-western France, capital of an [[Arrondissement|arrondissement]] in
 the department of Côtes-du-Nord, on the right bank of the Léguer, 45 m.
 W.N.W. of St Brieuc by rail. Pop. (1906) 5336. Lannion is 5 m. in direct
 line from the mouth of the Léguer; its port does a small trade (exports
 of agricultural produce, imports of wine, salt, timber, &c.), and there
 is an active fishing industry. The town contains many houses of the
 15th and 16th centuries and other old buildings, the chief of which is
-the church of St Jean-du-Baly (16th and 17th centuries). On an eminence
+the church of St Jean-du-Baly (16th and 17th centuries). On an [[Eminence|eminence]]
 close to Lannion is the church of Brélevenez of the 12th century,
 restored in the 15th or 16th century; it has an interesting 16th-century
 Holy Sepulchre.
@@ -20,7 +20,7 @@ formations.
 
 Lannion is the seat of a subprefect and has a tribunal of first instance
 and a communal college. Its industries include saw-milling, tanning and
-the manufacture of farm implements. The town was taken in 1346 by the
+the manufacture of farm [[Implement|implements]]. The town was taken in 1346 by the
 English; it was defended against them by Geoffroy de Pontblanc whose
 valour is commemorated by a cross close to the spot where he was slain.
 

@@ -25,20 +25,20 @@ d'escadron_ in 1803.
 
 He made his first appearance as an author in 1802, when he contributed
 to the _Magasin encyclopedique_ a critique on Johannes Schweighauser's
-edition of Athenaeus. In the following year appeared his _Eloge
-d'Helene_, a free imitation rather than a translation from Isocrates,
+edition of [[Athenaeus]]. In the following year appeared his _Eloge
+d'Helene_, a free imitation rather than a translation from [[Isocrates]],
 which he had sketched in 1798. Courier had given up his commission in
-the autumn of 1808, but the general enthusiasm in Paris over the
+the autumn of 1808, but the general [[Enthusiasm|enthusiasm]] in Paris over the
 preparations for the new campaign affected him, and he attached himself
 to the staff of a general of artillery. But he was horror-struck by the
 carnage at Wagram (1809), refusing from that time to believe that there
 was any art in war. He hastily quitted Vienna, escaping the formal
-charge of desertion because his new appointment had not been confirmed.
+charge of [[Desertion|desertion]] because his new appointment had not been confirmed.
 The savage independence of his nature rendered subordination intolerable
 to him; he had been three times disgraced for absenting himself without
-leave, and his superiors resented his satirical humour. After leaving
+leave, and his superiors resented his satirical [[Humour|humour]]. After leaving
 the army he went to Florence, and was fortunate enough to discover in
-the Laurentian Library a complete manuscript of Longus's _Daphnis and
+the Laurentian Library a complete [[Manuscript|manuscript]] of Longus's _[[Daphnis]] and
 Chloe_, an edition of which he published in 1810. In consequence of a
 misadventure--blotting the manuscript--he was involved in a quarrel
 with the librarian, and was compelled by the government to leave
@@ -46,7 +46,7 @@ Tuscany. He retired to his estate at Veretz (Indre-et-Loire), but
 frequently visited Paris, and divided his attention between literature
 and his farm.
 
-After the second restoration of the Bourbons the career of Courier as
+After the second restoration of the [[Bourbon|Bourbons]] the career of Courier as
 political pamphleteer began. He had before this time waged war against
 local wrongs in his own district, and had been the adviser and helpful
 friend of his neighbours. He now made himself by his letters and
@@ -55,19 +55,19 @@ Restoration. The first of these was his _Petition aux deux chambres_
 (1816), exposing the sufferings of the peasantry under the royalist
 reaction. In 1817 he was a candidate for a vacant seat in the Institute;
 and failing, he took his revenge by publishing a bitter _Lettre a
-Messieurs de l'Academie des Inscriptions et Belles-Lettres_ (1819). This
+Messieurs de l'Academie des Inscriptions et [[Belles-Lettres]]_ (1819). This
 was followed (1819-1820) by a series of political letters of
 extraordinary power published in _Le Censeur Europeen_. He advocated a
 liberal monarchy, at the head of which he doubtless wished to see Louis
 Philippe. The proposal, in 1821, to purchase the estate of Chambord for
-the duke of Bordeaux called forth from Courier the _Simple Discours de
+the duke of [[Bordeaux]] called forth from Courier the _Simple Discours de
 Paul Louis, vigneron de la Chavonniere_, one of his best pieces. For
 this he was tried and condemned to suffer a short imprisonment and to
 pay a fine. Before he went to prison he published a _compte rendu_ of
 his trial, which had a still larger circulation than the Discours
-itself. In 1823 appeared the _Livret de Paul Louis_, the _Gazette de
+itself. In 1823 appeared the _Livret de Paul Louis_, the _[[Gazette]] de
 village_, followed in 1824 by his famous _Pamphlet des pamphlets_,
-called by his biographer, Armand Carrel, his swan-song. Courier
+called by his biographer, Armand [[Carrel]], his swan-song. Courier
 published in 1807 his translation from Xenophon, _Du commandement de la
 cavalerie et de l'equitation_, and had a share in editing the
 _Collections des romans grecs_. He also projected a translation of

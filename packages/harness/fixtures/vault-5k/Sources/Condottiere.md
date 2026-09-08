@@ -21,7 +21,7 @@ recruited from wandering mercenary bands and individuals of all nations,
 and from the ranks of the many armies of middle Europe which from time
 to time overran Italy.
 
-Montreal d'Albarno, a gentleman of Provence, was the first to give them
+Montreal d'Albarno, a [[Gentleman|gentleman]] of Provence, was the first to give them
 a definite form. A severe discipline and an elaborate organization were
 introduced within the company itself, while in their relations to the
 people the most barbaric licence was permitted. Montreal himself was put

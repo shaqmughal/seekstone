@@ -5,7 +5,7 @@ spring by the road between the ancient Spoletium and Trebia, 8 m. from
 the former, 4 m. from the latter, and after a short course through the
 territory of the latter town joins the Tinia, a tributary of the Tiber.
 The spring is well described by Pliny (_Epist._ viii. 8): it was visited
-by Caligula and by Honorius, and is still picturesque--a clear pool
+by Caligula and by [[Honorius]], and is still picturesque--a clear pool
 surrounded by poplars and weeping willows. The stream was personified as
 a god, whose ancient temple lay near the spring, and close by other
 smaller shrines; the place, therefore, occurs under the name _Sacraria_

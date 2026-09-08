@@ -18,13 +18,13 @@ of the murder of his brother Clodomer's children in 524, and his share
 of the spoils consisted of the cities of Tours and Poitiers. He took
 part in the various expeditions against Burgundy, and after the
 destruction of that kingdom in 534 obtained Grenoble, Die and some of
-the neighbouring cities. When Provence was ceded to the Franks by the
-Ostrogoths, he received the cities of Orange, Carpentras and Gap. In 531
+the neighbouring cities. When Provence was ceded to the [[Frank|Franks]] by the
+Ostrogoths, he received the cities of Orange, [[Carpentras]] and Gap. In 531
 he marched against the Thuringi with his brother Theuderich (Thierry)
-I., and in 542 with his brother Childebert against the Visigoths of
+I., and in 542 with his brother [[Childebert]] against the Visigoths of
 Spain. On the death of his great-nephew Theodebald in 555, Clotaire
 annexed his territories; and on Childebert's death in 558 he became king
-of all Gaul. He also ruled over the greater part of Germany, made
+of all [[Gaul]]. He also ruled over the greater part of Germany, made
 expeditions into Saxony, and for some time exacted from the Saxons an
 annual tribute of 500 cows. The end of his reign was troubled by
 internal dissensions, his son Chram rising against him on several
@@ -33,11 +33,11 @@ refuge, Clotaire shut him up with his wife and children in a cottage, to
 which he set fire. Overwhelmed with remorse, he went to Tours to implore
 forgiveness at the tomb of St Martin, and died shortly afterwards.
 
-CLOTAIRE II. (d. 629) was the son of Chilperic I. On the assassination
+CLOTAIRE II. (d. 629) was the son of [[Chilperic]] I. On the assassination
 of his father in 584 he was still in his cradle. He was, however,
-recognized as king, thanks to the devotion of his mother Fredegond and
+recognized as king, thanks to the devotion of his mother [[Fredegond]] and
 the protection of his uncle Gontran, king of Burgundy. It was not until
-after the death of his cousin Childebert II. in 595 that Clotaire took
+after the death of his [[Cousin|cousin]] Childebert II. in 595 that Clotaire took
 any active part in affairs. He then endeavoured to enlarge his estates
 at the expense of Childebert's sons, Theodebert, king of Austrasia, and
 Theuderich II., king of Burgundy; but after gaining a victory at Laffaux

@@ -23,7 +23,7 @@ graces of Don Pedro di Toledo, viceroy of Naples, who made him his court
 painter. Corenzio vainly endeavoured to fill Guido's place in the chapel
 of St Januarius. His work was adjudged to have been under the mark, and
 yet the numerous frescoes which he left in Neapolitan churches and
-palaces, and the large wall paintings which still cover the cupola of
+palaces, and the large wall paintings which still cover the [[Cupola|cupola]] of
 the church of Monte Casino are evidence of uncommon facility, and show
 that Corenzio was not greatly inferior to the _fa prestos_ of his time.
 His florid style, indeed, seems well in keeping with the overladen

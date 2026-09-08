@@ -10,7 +10,7 @@ several _battalias_. In the British regular service the infantry
 battalion is commanded by a lieut.-colonel, who is assisted by an
 adjutant, and consists at war strength of about 1000 bayonets in eight
 companies. Engineers, train, certain kinds of artillery, and more rarely
-cavalry are also organized in battalions in some countries.
+[[Cavalry|cavalry]] are also organized in battalions in some countries.
 
 ## See also
 

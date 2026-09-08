@@ -1,6 +1,6 @@
 # Ardee
 
-ARDEE, a market-town of Co. Louth, Ireland, in the south parliamentary
+ARDEE, a market-town of Co. [[Louth]], Ireland, in the south parliamentary
 division, on the river Dee, 48 m. N. by W. from Dublin on a branch of
 the Great Northern railway. Pop. (1901) 1883. It has some trade in grain
 and basket-making. The town is of high antiquity, and its name
@@ -12,7 +12,7 @@ them the warrior Firdia, whom he regarded with special affection. A
 castle of the lords of the manor was built early in the 14th century,
 and remains, as does another adjacent fortified building of the same
 period. Roger de Peppart, lord of the manor early in the 13th century,
-founded the present Protestant church and a house of Crutched Friars.
+founded the present Protestant church and a house of Crutched [[Friar|Friars]].
 There was also a house of Carmelite Friars, but neither of these
 remains. Ardee received its first recorded charter in 1377. It had a
 full share in the several Irish wars, being sacked by Edward Bruce

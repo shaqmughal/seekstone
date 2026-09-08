@@ -30,7 +30,7 @@ descend to the valley of the Sutlej by an abrupt terrace, which marks
 the former bed of the river. The principal stream has shifted to the
 opposite side of the valley, leaving an alluvial strip, 10 m. in width,
 between its ancient and its modern bed. The Sutlej itself is here only
-navigable for boats of small burden. A branch of the Sirhind canal
+navigable for boats of small [[Burden|burden]]. A branch of the Sirhind canal
 irrigates a large part of the western area. The population in 1901 was
 673,097. The principal crops are wheat, millets, pulse, maize and
 sugar-cane. The district is crossed by the main line of the
@@ -41,7 +41,7 @@ that of the Rais of Raikot, a family of converted Rajputs, who received
 the country as a fief under the Sayyid dynasty, about 1445. The town of
 Ludhiana was founded in 1480 by two of the Lodi race (then ruling at
 Delhi), from whom it derives its name, and was built in great part from
-the prehistoric bricks of Sunet. The Lodis continued in possession until
+the prehistoric [[Brick|bricks]] of Sunet. The Lodis continued in possession until
 1620, when it again fell into the hands of the Rais of Raikot.
 Throughout the palmy days of the Mogul empire the Raikot family held
 sway, but the Sikhs took advantage of the troubled period which

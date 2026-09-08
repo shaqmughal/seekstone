@@ -14,8 +14,8 @@ founded in 1859 when Fula rule was established in Nupe, is walled and of
 considerable size. In 1909 it was connected by railway with Baro, 40 m.
 S.S.E., the river terminus of the Northern Nigeria railway. The
 inhabitants, mostly Hausa, carry on an extensive trade and are
-especially noted for their embossed brass and copper work. The Bida
-goblets, in which brass and copper are beautifully blended, are of
+especially noted for their embossed [[Brass|brass]] and copper work. The Bida
+[[Goblet|goblets]], in which brass and copper are beautifully blended, are of
 extremely elegant design. The town also boasts a glass factory. The
 preparation of indigo and the dyeing of cloths are other flourishing
 industries. The streets are planted with huge shade-trees, so that as
@@ -23,7 +23,7 @@ Bida is approached it looks like a forest.
 
 In 1897 there was a two-days' fight outside the walls of Bida between
 the forces of the emir of Nupe and those of the Royal Niger Company,
-ending in the defeat of the Fula army (mostly cavalry). The victory was
+ending in the defeat of the Fula army (mostly [[Cavalry|cavalry]]). The victory was
 not followed at the time by a British occupation, and the defeated king
 returned after the withdrawal of the company's troops and re-established
 himself upon the throne. In 1900 he allied himself with other hostile

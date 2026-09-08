@@ -9,7 +9,7 @@ tags: [literature, language]
 # Aveyron
 
 AVEYRON, a department of southern France, bounded N. by Cantal, E. by
-Lozère and Card, S.W. by Tarn and W. by Tarn-et-Garonne and Lot. Area, 3386
+Lozère and Card, S.W. by Tarn and W. by Tarn-et-Garonne and [[Lot]]. Area, 3386
 sq. m. Pop. (1906) 377,299. It corresponds nearly to the old district of
 Rouergue, which gave its name to a countship established early in the 9th
 century, and united with that of Toulouse towards the end of the 11th
@@ -25,7 +25,7 @@ dominated by the volcanic mountains of Aubrac, which form the north-eastern
 limit of the department and include its highest summit (4760 ft.).
 Entraygues, at the confluence of the Lot and the Truyère, is one of the
 many picturesque towns of the department. Between the Lot and the Aveyron
-is a belt of _causses_ or monotonous limestone table-lands, broken here and
+is a belt of _causses_ or monotonous [[Limestone|limestone]] table-lands, broken here and
 there by profound and beautiful gorges--a type of scenery characteristic of
 Aveyron. This zone is also watered by the Dourdou du Nord, a tributary of
 the Lot. The salient feature of the region between the Tarn and the Aveyron
@@ -46,21 +46,21 @@ Aubrac breed, for which Laguiole is an important market. The wines of
 Entraygues, St Georges, Bouillac and Najac have some reputation; in the
 Ségala chestnuts form an important element in the food of the peasants, and
 the walnut, cider-apple, mulberry (for the silk-worm industry), and plum
-are among the fruit trees grown. The production of Roquefort cheeses is
+are among the fruit trees grown. The production of Roquefort [[Cheese|cheeses]] is
 prominent among the agricultural industries. They are made from the milk of
 the large flocks of the plateau of Larzac, and the choicest are ripened in
 the even temperature of the caves in the cliff which overhangs Roquefort.
 The minerals found in the department include the coal of the basins of
-Aubin and Rodez as well as iron, zinc and lead. Quarries of various kinds
+[[Aubin]] and Rodez as well as iron, zinc and lead. Quarries of various kinds
 of stone are also worked. The chief industrial centres are Decazeville,
 which has metallurgical works, and Millau, where leather-dressing and the
-manufacture of gloves have attained considerable importance. Wool-weaving
-and the manufacture of woollen goods, machinery, chemicals and bricks are
+manufacture of [[Glove|gloves]] have attained considerable importance. Wool-weaving
+and the manufacture of woollen goods, machinery, chemicals and [[Brick|bricks]] are
 among the other industries.
 
 There are five arrondissements, of which the chief towns are Rodez, capital
 of the department, Espalion, Millau, St Affrique and Villefranche, with 43
-cantons and 304 communes. Rodez is the seat of a bishopric, the diocese of
+cantons and 304 [[Commune|communes]]. Rodez is the seat of a bishopric, the diocese of
 which comprises the department. Aveyron belongs to the 16th military
 region, and to the _académie_ or educational circumscription of Toulouse.
 Its court of appeal is at Montpellier. The department is traversed by the

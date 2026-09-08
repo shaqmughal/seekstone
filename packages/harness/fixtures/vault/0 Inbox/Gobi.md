@@ -1,10 +1,10 @@
 # Gobi
 
-GOBI (for which alternative Chinese names are SHA-MO, "sand desert," and
+GOBI (for which alternative Chinese names are SHA-MO, "sand [[Desert|desert]]," and
 HAN-HAI, "dry sea"), a term which in its widest significance means the
 long stretch of desert country that extends from the foot of the Pamirs,
-in about 77 deg. E., eastward to the Great Khingan Mountains, in 116
-deg.-118 deg. E., on the border of Manchuria, and from the foothills of
+in about 77 deg. E., eastward to the Great [[Khingan]] Mountains, in 116
+deg.-118 deg. E., on the border of [[Manchuria]], and from the foothills of
 the Altai, the Sayan and the Yablonoi Mountains on the N. to the
 Astin-tagh or Altyn-tagh and the Nan-shan, the northernmost constituent
 ranges of the Kuen-lun Mountains, on the south. By conventional usage a
@@ -21,12 +21,12 @@ information being confined to the observations which individual
 travellers have made from their respective itineraries across the
 desert. Amongst the explorers to whom we owe such knowledge as we
 possess about the Gobi, the most important have been Marco Polo
-(1273-1275), Gerbillon (1688-1698), Ijsbrand Ides (1692-1694), Lange
+(1273-1275), Gerbillon (1688-1698), Ijsbrand Ides (1692-1694), [[Lange]]
 (1727-1728 and 1736), Fuss and Bunge (1830-1831), Fritsche (1868-1873),
 Pavlinov and Matusovski (1870), Ney Elias (1872-1873), N. M. Przhevalsky
 (1870-1872 and 1876-1877), Zosnovsky (1875), M. V. Pjevtsov (1878), G.
 N. Potanin (1877 and 1884-1886), Count Szechenyi and L. von Loczy
-(1879-1880), the brothers Grum-Grzhimailo (1889-1890), P. K. Kozlov
+(1879-1880), the brothers Grum-Grzhimailo (1889-1890), P. K. [[Kozlov]]
 (1893-1894 and 1899-1900), V. I. Roborovsky (1894), V. A. Obruchev
 (1894-1896), Futterer and Holderer (1896); C. E. Bonin (1896 and 1899),
 Sven Hedin (1897 and 1900-1901), K. Bogdanovich (1898), Ladyghin
@@ -54,7 +54,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   by a string of deep depressions, ranging from Lukchun (425 ft. _below_
   the level of the sea) to Hami (2800 ft. above sea-level). To the south
   of the Kuruk-tagh lie the desert of Lop, the desert of Kum-tagh, and
-  the valley of the Bulunzir-gol. To this great swelling, which arches
+  the valley of the Bulunzir-gol. To this great swelling, which [[Arches|arches]]
   up between the two border-ranges of the Chol-tagh and Kuruk-tagh, the
   Mongols give the name of Ghashiun-Gobi or Salt Desert. It is some 80
   to 100 m. across from N. to S., and is traversed by a number of minor
@@ -81,7 +81,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   cauldron-shaped depression, which some time or other has been the
   bottom of a former lake, but is now nearly a dry salt-basin. The
   surface configuration is in fact markedly similar to that which occurs
-  in the inter-mont latitudinal valleys of the Kuen-lun. The hydrography
+  in the inter-mont latitudinal valleys of the Kuen-lun. The [[Hydrography|hydrography]]
   of the Ghashiun-Gobi and the Kuruk-tagh is determined by these
   chequered arrangements of the latitudinal valleys. Most of the
   principal streams, instead of flowing straight down these valleys,
@@ -106,7 +106,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   terminals of similar subordinate ranges of the Pe-shan (Bey-san)
   system (see below). The Kuruk-tagh is throughout a relatively low, but
   almost completely barren range, being entirely destitute of animal
-  life, save for hares, antelopes and wild camels, which frequent its
+  life, save for [[Hare|hares]], [[Antelope|antelopes]] and wild camels, which frequent its
   few small, widely scattered oases. The vegetation, which is confined
   to these same relatively favoured spots, is of the scantiest and is
   mainly confined to bushes of saxaul (_Anabasis Ammodendron_), reeds
@@ -123,7 +123,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   indurated and saliferous and often arranged in terraces; (ii.) hard,
   level, clay expanses, more or less thickly sprinkled with fine gravel
   (_say_), the clay being mostly of a yellow or yellow-grey colour;
-  (iii.) benches, flattened ridges and tabular masses of consolidated
+  (iii.) [[Bench|benches]], flattened ridges and tabular masses of consolidated
   clay (_jardangs_), arranged in distinctly defined _laminae_, three
   stories being sometimes superimposed one upon the other, and their
   vertical faces being abraded, and often undercut, by the wind, while
@@ -139,7 +139,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   materials of the desert itself are abraded, filed, eroded and carried
   bodily away into the network of lakes in which the Tarim loses itself,
   or are even blown across the lower, constantly shifting watercourses
-  of that river and deposited on or among the gigantic dunes which choke
+  of that river and deposited on or among the gigantic [[Dunes|dunes]] which choke
   the eastern end of the desert of Takla-makan. Numerous indications,
   such as salt-stained depressions of a lacustrine appearance, traces of
   former lacustrine shore-lines, more or less parallel and concentric,
@@ -154,7 +154,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   existence in this region of more or less extensive freshwater lakes,
   now of course completely desiccated. During the prevalence of the
   spring storms the atmosphere that overhangs the immediate surface of
-  the desert is so heavily charged with dust as to be a veritable pall
+  the desert is so heavily charged with [[Dust|dust]] as to be a veritable pall
   of desolation. Except for the wild camel which frequents the reed
   oases on the N. edge of the desert, animal life is even less abundant
   than in the Ghashiun-Gobi, and the same is true as regards the
@@ -164,7 +164,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   on the other side of the Kara-koshun and its more or less temporary
   continuations, and reaches north-eastwards as far as the vicinity of
   the town of Sa-chow and the lake of Kara-nor or Kala-chi. Its southern
-  rim is marked by a labyrinth of hills, dotted in groups and irregular
+  rim is marked by a [[Labyrinth|labyrinth]] of hills, dotted in groups and irregular
   clusters, but evidently survivals of two parallel ranges which are now
   worn down as it were to mere fragments of their former skeletal
   structure. Between these and the Astin-tagh intervenes a broad
@@ -212,7 +212,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   desert from Hami (or Khami) to Su-chow (not Sa-chow) in the summer of
   1879. In the middle this desert rises into a vast swelling, 80 m.
   across, which reaches an average elevation of 5000 ft. and a maximum
-  elevation of 5500 ft. On its northern and southern borders it is
+  elevation of 5500 ft. On its northern and southern [[Borders|borders]] it is
   overtopped by two divisions of the Bey-san (= Pe-shan) Mountains,
   neither of which attains any great relative altitude. Between the
   northern division and the Karlyk-tagh range or E. Tian-shan intervenes
@@ -232,7 +232,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   absolutely destitute of vegetation. Generally speaking, the Bey-san
   ranges consist of isolated hills or groups of hills, of low relative
   elevation (100 to 300 ft.), scattered without any regard to order over
-  the arch of the swelling. They nowhere rise into well-defined peaks.
+  the [[Arch|arch]] of the swelling. They nowhere rise into well-defined peaks.
   Their axis runs from W.S.W. to E.N.E. But whereas Przhevalsky and Sven
   Hedin consider them to be a continuation of the Kuruk-tagh, though the
   latter regards them as separated from the Kuruk-tagh by a well-marked
@@ -279,7 +279,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   is they which in the desert of Hami bring the fierce sandstorms or
   burans. The wind does blow also from the N.E., but it is then cold and
   often brings snow, though it speedily clears the air of the
-  everlasting dust haze. In summer great heat is encountered here on the
+  [[Everlasting|everlasting]] dust haze. In summer great heat is encountered here on the
   relatively low (3000-4600 ft.), gravelly expanses (_say_) on the N.
   and on those of the S. (4000-5000 ft.); but on the higher swelling
   between, which in the Pe-shan ranges ascends to 7550 ft., there is
@@ -310,13 +310,13 @@ its principal distinctive sections _seriatim_, beginning in the west.
   was from this very region, avers G. E. Grum-Grzhimailo, that the
   Yue-chi, a nomad race akin to the Tibetans, proceeded when, towards
   the middle of the 2nd century B.C., they moved westwards and settled
-  near Lake Issyk-kul; and from here proceeded also the Shanshani, or
+  near Lake [[Issyk-Kul|Issyk-kul]]; and from here proceeded also the Shanshani, or
   people who some two thousand years ago founded the state of Shanshan
   or Lou-lan, ruins of the chief town of which Sven Hedin discovered in
   the desert of Lop in 1901. Here, says the Russian explorer, the Huns
   gathered strength, as also did the Tukiu (Turks) in the 6th century,
   and the Uighur tribes and the rulers of the Tangut kingdom. But after
-  Jenghiz Khan in the 12th century drew away the peoples of this region,
+  Jenghiz [[Khan]] in the 12th century drew away the peoples of this region,
   and no others came to take their place, the country went out of
   cultivation and eventually became the barren desert it now is.[6]
 
@@ -324,7 +324,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   Hsi-tau and the Little Gobi, fills the space between the great N. loop
   of the Hwang-ho or Yellow river on the E., the Edzin-gol on the W.,
   and the Nan-shan Mountains on the S.W., where it is separated from the
-  Chinese province of Kan-suh by the narrow rocky chain of Lung-shan
+  Chinese province of [[Kan-Suh|Kan-suh]] by the narrow rocky chain of Lung-shan
   (Ala-shan), 10,500 to 11,600 ft. in altitude. It belongs to the middle
   basin of the three great depressions into which Potanin divides the
   Gobi as a whole. "Topographically," says Przhevalsky, "it is a
@@ -342,13 +342,13 @@ its principal distinctive sections _seriatim_, beginning in the west.
   of 3300 to 5000 ft., this section, like most other parts of the Gobi,
   is crowned by a chequered network of hills and broken ranges going up
   1000 ft. higher. The vegetation is confined to a few varieties of
-  bushes and a dozen kinds of grasses, the most conspicuous being saxaul
+  bushes and a dozen kinds of [[Grasses|grasses]], the most conspicuous being saxaul
   and _Agriophyllum gobicum_[7] (a grass). The others include prickly
   convolvulus, field wormwood, acacia, _Inula ammophila_, _Sophora
   flavescens_, _Convolvulus Ammani_, _Peganum_ and _Astragalus_, but all
   dwarfed, deformed and starved. The fauna consists of little else
-  except antelopes, the wolf, fox, hare, hedgehog, marten, numerous
-  lizards and a few birds, e.g. the sand-grouse, lark, stonechat,
+  except antelopes, the wolf, [[Fox|fox]], hare, hedgehog, marten, numerous
+  [[Lizard|lizards]] and a few birds, e.g. the sand-grouse, [[Lark|lark]], stonechat,
   sparrow, crane, _Podoces Hendersoni_, _Otocorys albigula_ and
   _Galerita cristata_.[8] The only human inhabitants of Ala-shan are the
   Torgod Mongols.
@@ -372,14 +372,14 @@ its principal distinctive sections _seriatim_, beginning in the west.
   they are parted from it by a belt of sand, intermingled with clay,
   which terminates in a steep escarpment, 50 ft. and in some localities
   100 ft. above the river. This belt is studded with little mounds (7 to
-  10 ft. high), mostly overgrown with wormwood (_Artemisia campestris_)
+  10 ft. high), mostly overgrown with wormwood (_[[Artemisia]] campestris_)
   and the Siberian pea-tree (_Caragana_); and here too grows one of the
   most characteristic plants of Ordos, the liquorice root (_Glycyrrhiza
   uralensis_). Eventually the sand-dunes cross over to the left bank of
   the Hwang-ho, and are threaded by the beds of dry watercourses, while
   the level spaces amongst them are studded with little mounds (3 to 6
   ft. high), on which grow stunted _Nitraria Scoberi_ and _Zygophyllum_.
-  Ordos, which was anciently known as Ho-nan ("the country south of the
+  Ordos, which was anciently known as [[Ho-Nan|Ho-nan]] ("the country south of the
   river") and still farther back in time as Ho-tau, was occupied by the
   Hiong-nu in the 1st and 2nd centuries A.D., but was almost depopulated
   during and after the Dungan revolt of 1869. North of the big loop of
@@ -391,7 +391,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   mountains in the S.E. of Mongolia by an abundance of both water and
   vegetation. In one of their constituent ranges, the bold Munni-ula, 70
   m. long and nearly 20 m. wide, they attain elevations of 7500 to 8500
-  ft., and have steep flanks, slashed with rugged gorges and narrow
+  ft., and have steep flanks, slashed with rugged [[Gorges|gorges]] and narrow
   glens. Forests begin on them at 5300 ft. and wild flowers grow in
   great profusion and variety in summer, though with a striking lack of
   brilliancy in colouring. In this same border range there is also a
@@ -440,7 +440,7 @@ its principal distinctive sections _seriatim_, beginning in the west.
   streams, no lakes, no wells, and precipitation falls but seldom. The
   prevailing winds blow from the W. and N.W. and the pall of dust
   overhangs the country as in the Takla-makan and the desert of Lop.
-  Characteristic of the flora are wild garlic, _Kalidium gracile_,
+  Characteristic of the flora are wild [[Garlic|garlic]], _Kalidium gracile_,
   wormwood, saxaul, _Nitraria Scoberi_, _Caragana_, _Ephedra_, saltwort
   and _dirisun_ (_Lasiagrostis splendens_).
 
@@ -510,17 +510,17 @@ its principal distinctive sections _seriatim_, beginning in the west.
   their southern boundaries they are all alike very much higher....
   However, the sandy deserts are not found in the low-lying tracts but
   occur on the higher uplands which foot the southern mountain ranges,
-  the In-shan and the Nan-shan. Our maps show an immense expanse of sand
+  the In-shan and the Nan-shan. Our [[Map|maps]] show an immense expanse of sand
   south of the Tarim in the western basin; beginning in the
   neighbourhood of the city of Yarkent (Yarkand), it extends eastwards
-  past the towns of Khotan, Keriya and Cherchen to Sa-chow. Along this
+  past the towns of [[Khotan]], Keriya and Cherchen to Sa-chow. Along this
   stretch there is only one locality which forms an exception to the
   rule we have indicated, namely, the region round the lake of Lop-nor.
   In the middle basin the widest expanse of sand occurs between the
   Edzin-gol and the range of Ala-shan. On the south it extends nearly as
   far as a line drawn through the towns of Lian-chow, Kan-chow and
   Kao-tai at the foot of the Nan-shan; but on the south it does not
-  approach anything like so far as the latitude (42 deg. N.) of the lake
+  approach anything like so far as the [[Latitude|latitude]] (42 deg. N.) of the lake
   of Ghashiun-nor. Still farther east come the sandy deserts of Ordos,
   extending south-eastward as far as the mountain range which separates
   Ordos from the (Chinese) provinces of Shan-si and Shen-si. In the

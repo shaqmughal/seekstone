@@ -8,7 +8,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Borgu"
 # Borgu
 
 BORGU, or BARBA, an inland country of West Africa. The western part is
-included in the French colony of Dahomey (q.v.); the eastern division
+included in the French colony of [[Dahomey]] (q.v.); the eastern division
 forms the Borgu province of the British protectorate of Nigeria. Borgu
 is bounded N.E. and E. by the Niger, S. by the Yoruba country, N.W. by
 Gurma. The country consists of an elevated plain traversed by rivers
@@ -19,8 +19,8 @@ town of Bussa, rapids block the course of the Niger, navigable up to
 that point from the sea. The soil is mostly fertile, and is fairly
 cultivated, producing in abundance millet, yams, plantains and limes.
 The acacia tree is common, and from it gum-arabic of good quality is
-obtained. From the nut of the horse-radish tree ben oil is expressed.
-Cattle are numerous and of excellent breed, and game is abundant. Borgu
+obtained. From the nut of the horse-radish tree [[Ben|ben]] oil is expressed.
+Cattle are numerous and of excellent breed, and [[Game|game]] is abundant. Borgu
 is inhabited by a number of pagan negro tribes, several of whom were
 dependent on the chief of Nikki, a town in the centre of the country,
 the chief being spoken of as sultan of Borgu. The king of Bussa was
@@ -52,8 +52,8 @@ Travellers who attempted to penetrate this country had never returned.
 Since 1898 the country has been opened, and from being the most lawless
 and truculent of people the Bariba have become singularly amenable and
 law-abiding. Provincial courts are established, but there is little
-crime in the province. The British garrisons have been replaced by civil
-police. The assessment of taxes under British administration was
+crime in the province. The British [[Garrison|garrisons]] have been replaced by civil
+police. The [[Assessment|assessment]] of taxes under British administration was
 successfully carried out in 1904, and taxes are collected without
 trouble. In south Borgu the people are agricultural but not industrious
 or inclined for trade. In the north there are some pastoral settlements
@@ -61,7 +61,7 @@ of Fula. The Bariba themselves remain agricultural. Cart-roads have been
 constructed between the town of Kiama and the Niger. The agricultural
 resources of Borgu are great, and as the population increases with the
 cessation of war and by immigration the country should show marked
-development. Shea trees are abundant. Elephants are still to be found in
+development. Shea trees are abundant. [[Elephant|Elephants]] are still to be found in
 the fifty-mile strip of forest land which stretches between the Niger
 and the interior of the province. The forest contains valuable sylvan
 products, and there are great possibilities for the cultivation of

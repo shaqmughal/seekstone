@@ -10,11 +10,11 @@ tags: [genealogy, science]
 
 BUFFON, GEORGE LOUIS LECLERC, COMTE DE (1707-1788), French naturalist, was
 born on the 7th of September 1707, at Montbard (Cote d'Or), his father,
-Benjamin Francois Leclerc de Buffon (1683-1775), being councillor of the
-Burgundian parlement. He studied law at the college of Jesuits at Dijon;
+[[Benjamin]] Francois Leclerc de Buffon (1683-1775), being councillor of the
+Burgundian parlement. He studied law at the college of [[Jesuits]] at Dijon;
 but he soon exhibited a marked predilection for the study of the physical
 sciences, and more particularly for mathematics. Whilst at Dijon he made
-the acquaintance of a young Englishman, Lord Kingston, and with him
+the acquaintance of a young Englishman, Lord [[Kingston]], and with him
 travelled through Italy and then went to England. He published a French
 translation of Stephen Hales's _Vegetable Statics_ in 1735, and of Sir I.
 Newton's _Fluxions_ in 1740. At twenty-five years of age he succeeded to a
@@ -28,7 +28,7 @@ of the Jardin du Roi and of the Royal Museum. This appears to have finally
 determined him to devote himself to the biological sciences in particular,
 and he began to collect materials for his _Natural History_. In the
 preparation of this voluminous work he associated with himself L.J.M.
-Daubenton, to whom the descriptive and anatomical portions of the treaties
+[[Daubenton]], to whom the descriptive and anatomical portions of the treaties
 were entrusted, and the first three volumes made their appearance in the
 year 1749. In 1752 (not in 1743 or 1760, as sometimes stated) he married
 Marie Francoise de Saint-Belin. He seems to have been fondly attached to
@@ -39,13 +39,13 @@ of ninety-three, and his grandfather eighty-seven. He himself died at Paris
 on the 15th of April 1788, at the age of eighty-one, of vesical calculus,
 having refused to allow any operation for his relief. He left one son,
 George Louis Marie Leclerc Buffon, who was an officer in the French army,
-and who died by the guillotine, at the age of thirty, on the 10th of July
+and who died by the [[Guillotine|guillotine]], at the age of thirty, on the 10th of July
 1793 (22 Messidor, An II.), having espoused the party of the duke of
 Orleans.
 
 Buffon was a member of the French Academy (his inaugural address being the
 celebrated _Discours sur le style_, 1753), perpetual treasurer of the
-Academy of Sciences, fellow of the Royal Society of London, and member of
+Academy of Sciences, [[Fellow|fellow]] of the Royal Society of London, and member of
 the Academies of Berlin, St Petersburg, Dijon, and of most of the learned
 societies then existing in Europe. Of handsome person and noble presence,
 endowed with many of the external gifts of nature, and rejoicing in the
@@ -91,7 +91,7 @@ anatomical descriptions are suppressed and the supplement recast.
 See Humbert-Bazile, _Buffon, sa famille, &c._ (1863); M.J.P. Flourens,
 _Hist. des travaux et des idees de Buffon_ (1844, 3rd ed., 1870); H.
 Nadault de Buffon, _Correspondance de Buffon_ (1860); A.S. Packard,
-_Lamarck_ (1901).
+_[[Lamarck]]_ (1901).
 
 ## See also
 

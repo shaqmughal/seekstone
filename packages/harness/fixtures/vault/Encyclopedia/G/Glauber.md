@@ -9,7 +9,7 @@ topic: drama-theory
 GLAUBER, JOHANN RUDOLF (1604-1668), German chemist, was born at
 Karlstadt, Bavaria, in 1604 and died at Amsterdam in 1668. Little more
 is known of his life than that he resided successively in Vienna,
-Salzburg, Frankfurt and Cologne before settling in Holland, where he
+Salzburg, Frankfurt and [[Cologne]] before settling in Holland, where he
 made his living chiefly by the sale of secret chemical and medicinal
 preparations. Though his writings abound in universal solvents and other
 devices of the alchemists, he made some real contributions to chemical
@@ -20,7 +20,7 @@ the process being one of the chief themes of his _Miraculum mundi_; and
 he noticed that nitric acid was formed when nitre was substituted for
 the common salt. Further he prepared a large number of substances,
 including the chlorides and other salts of lead, tin, iron, zinc,
-copper, antimony and arsenic, and he even noted some of the phenomena of
+copper, antimony and [[Arsenic|arsenic]], and he even noted some of the phenomena of
 double decomposition. He was always anxious to turn his knowledge to
 practical account, whether in preparing medicines, or in furthering
 industrial arts such as dyeing, or in increasing the fertility of the
@@ -30,7 +30,7 @@ Germany should be developed for the profit of the country and gave
 various instances of how this might be done.
 
   His treatises, about 30 in number, were collected and published at
-  Frankfort in 1658-1659, at Amsterdam in 1661, and, in an English
+  [[Frankfort]] in 1658-1659, at Amsterdam in 1661, and, in an English
   translation by Packe, at London in 1689.
 
 ## See also

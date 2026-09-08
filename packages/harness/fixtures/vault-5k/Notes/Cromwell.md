@@ -3,7 +3,7 @@
 CROMWELL, OLIVER (1599-1658), lord protector of England, was the 5th and
 only surviving son of Robert Cromwell of Huntingdon and of Elizabeth
 Steward, widow of William Lynn. His paternal grandfather was Sir Henry
-Cromwell of Hinchinbrook, a leading personage in Huntingdonshire, and
+Cromwell of Hinchinbrook, a leading personage in [[Huntingdonshire]], and
 grandson of Richard Williams, knighted by Henry VIII., nephew of Thomas
 Cromwell, earl of Essex, Henry VIII.'s minister, whose name he adopted.
 His mother was descended from a family named Styward in Norfolk, which
@@ -14,17 +14,17 @@ school at Huntingdon, and on the 23rd of April 1616 matriculated as a
 fellow-commoner at Sidney Sussex College, Cambridge, then a hotbed of
 puritanism, subsequently studying law in London. The royalist anecdotes
 relating to his youth, including charges of ill-conduct, do not deserve
-credit, the entries in the register of St John's, Huntingdon, noting
+[[Credit|credit]], the entries in the register of St John's, Huntingdon, noting
 Oliver's submission on two occasions to church censure being forgeries;
 but it is not improbable that his youth was wild and possibly
 dissolute.[1] According to Edmund Waller he was "very well read in the
-Greek and Roman story." Burnet declares he had little Latin, but he was
+Greek and Roman story." [[Burnet]] declares he had little Latin, but he was
 able to converse with the Dutch ambassador in that language. According
 to James Heath in his _Flagellum_, "he was more famous for his exercises
 in the fields than in the schools, being one of the chief match-makers
-and players at football, cudgels, or any other boisterous game or
+and players at [[Football|football]], cudgels, or any other boisterous [[Game|game]] or
 sport." On the 22nd of August 1620 he married Elizabeth, daughter of Sir
-James Bourchier, a city merchant of Tower Hill, and of Felstead in
+James [[Bourchier]], a city merchant of Tower Hill, and of Felstead in
 Essex; and his father having died in 1617 he settled at Huntingdon and
 occupied himself in the management of his small estate. In 1628 he was
 returned to parliament as member for the borough, and on the 11th of
@@ -36,7 +36,7 @@ till Sir John Eliot's resolutions had been passed.
 
 During the eleven years of government without parliament very little is
 recorded of Cromwell. His name is not connected with the resistance to
-the levy of ship-money or to the action of the ecclesiastical courts,
+the [[Levy|levy]] of ship-money or to the action of the ecclesiastical courts,
 but in 1630 he was one of those fined for refusing to take up
 knighthood. The same year he was named one of the justices of the peace
 for his borough; and on the grant of a new charter showed great zeal in
@@ -45,13 +45,13 @@ alteration in the charter in their favour, exhibiting much warmth of
 temper during the dispute and being committed to custody by the privy
 council for angry words spoken against the mayor, for which he
 afterwards apologized. He also defended the rights of the commoners of
-Ely threatened by the "adventurers" who had drained the Great Level, and
+[[Ely]] threatened by the "adventurers" who had drained the Great Level, and
 he was nicknamed afterwards by a royalist newspaper "Lord of the Fens."
-He was again later the champion of the commoners of St Ives in the Long
+He was again later the [[Champion|champion]] of the commoners of St Ives in the Long
 Parliament against enclosures by the earl of Manchester, obtaining a
 commission of the House of Commons to inquire into the case, and drawing
 upon himself the severe censure of the chairman, the future Lord
-Clarendon, by his "impetuous carriage" and "insolent behaviour," and by
+[[Clarendon]], by his "impetuous carriage" and "insolent behaviour," and by
 the passionate vehemence he imparted into the business. Bishop Williams,
 a kinsman of Cromwell's, relates at this time that he was "a common
 spokesman for sectaries, and maintained their part with great
@@ -64,7 +64,7 @@ at this period. He viewed the "innovations in religion" with abhorrence.
 According to Clarendon he told the latter in 1641 that if the Grand
 Remonstrance had not passed "he would have sold all he had the next
 morning and never have seen England more." In 1631 he converted his
-landed property into money, and John Hampden, his cousin, a patentee of
+landed property into money, and John Hampden, his [[Cousin|cousin]], a patentee of
 Connecticut in 1632, was on the point of emigrating. Cromwell was
 perhaps arrested in his project by his succession in 1636 to the estate
 of his uncle Sir Thomas Steward, and to his office of farmer of the
@@ -97,7 +97,7 @@ and the Militia. His first recorded intervention in debate in the Long
 Parliament was on the 9th of November 1640, a few days after the meeting
 of the House, when he delivered a petition from the imprisoned John
 Lilburne. He was described by Sir Philip Warwick on this occasion:--"I
-came into the House one morning well clad and perceived a gentleman
+came into the House one morning well clad and perceived a [[Gentleman|gentleman]]
 speaking whom I knew not, very ordinarily apparelled; for it was a plain
 cloth suit which seemed to have been made by an ill country tailor; his
 linen was plain and not very clean; ... his stature was of a good size;
@@ -108,7 +108,7 @@ for he was very much hearkened unto." On the 30th of December he moved
 to the second reading of Strode's bill for annual parliaments. His chief
 interest from the first, however, lay in the religious question. He
 belonged to the Root and Branch party, and spoke in favour of the
-petition of the London citizens for the abolition of episcopacy on the
+petition of the London citizens for the abolition of [[Episcopacy|episcopacy]] on the
 9th of February 1641, and pressed upon the House the Root and Branch
 Bill in May. On the 6th of November he carried a motion entrusting the
 train-bands south of the Trent to the command of the earl of Essex. On
@@ -118,7 +118,7 @@ defence. He contributed L600 to the proposed Irish campaign and L500 for
 raising forces in England--large sums from his small estate--and on his
 own initiative in July 1642 sent arms of the value of L100 down to
 Cambridge, seized the magazine there in August, and prevented the king's
-commission of array from being executed in the county, taking these
+commission of [[Array|array]] from being executed in the county, taking these
 important steps on his own authority and receiving subsequently
 indemnity by vote of the House of Commons. Shortly afterwards he joined
 Essex with sixty horse, and was present at Edgehill, where his troop was
@@ -131,14 +131,14 @@ fought till the last minute."
 
 During the earlier part of the year 1643 the military position of
 Charles was greatly superior to that of the parliament. Essex was
-inactive near Oxford; in the west Sir Ralph Hopton had won a series of
-victories, and in the north Newcastle defeated the Fairfaxes at Adwalton
+inactive near Oxford; in the west Sir Ralph [[Hopton]] had won a series of
+victories, and in the north Newcastle defeated the [[Fairfax|Fairfaxes]] at Adwalton
 Moor, and all Yorkshire except Hull was in his hands. It seemed likely
 that the whole of the north would be laid open and the royalists be able
 to march upon London and join Charles and Hopton there. This stroke,
 which would most probably have given the victory to the king, was
 prevented by the "Eastern Association," a union of Norfolk, Suffolk,
-Essex, Cambridgeshire and Hertfordshire, constituted in December 1642
+Essex, [[Cambridgeshire]] and Hertfordshire, constituted in December 1642
 and augmented in 1643 by Huntingdonshire and Lincolnshire, of which
 Cromwell was the leading spirit. His zeal and energy met everywhere with
 conspicuous success. In January 1643 he seized the royalist high sheriff
@@ -147,7 +147,7 @@ array at St Albans; in February he was at Cambridge taking measures for
 the defence of the town; in March suppressing royalist risings at
 Lowestoft and Lynn; in April those of Huntingdon, when he also
 recaptured Crowland from the king's party. In May he defeated a greatly
-superior royalist force at Grantham, proceeding afterwards to Nottingham
+superior royalist force at [[Grantham]], proceeding afterwards to Nottingham
 in accordance with Essex's plan of penetrating into Yorkshire to relieve
 the Fairfaxes; where, however, difficulties, arising from jealousies
 between the officers, and the treachery of John Hotham, whose arrest
@@ -155,7 +155,7 @@ Cromwell was instrumental in effecting, obliged him to retire again to
 the association, leaving the Fairfaxes to be defeated at Adwalton Moor.
 He showed extraordinary energy, resource and military talent in stemming
 the advance of the royalists, who now followed up their victories by
-advancing into the association; he defeated them at Gainsborough on the
+advancing into the association; he defeated them at [[Gainsborough]] on the
 28th of July, and managed a masterly retreat before overwhelming numbers
 to Lincoln, while the victory on the 11th of October at Winceby finally
 secured the association, and maintained the wedge which prevented the
@@ -168,13 +168,13 @@ One great source of Cromwell's strength was the military reforms he had
 initiated. At Edgehill he had observed the inferiority of the
 parliamentary to the royalist horse, composed as it was of soldiers of
 fortune and the dregs of the populace. "Do you think," he had said,
-"that the spirits of such base, mean fellows will ever be able to
+"that the spirits of such base, mean [[Fellows|fellows]] will ever be able to
 encounter gentlemen that have honour and courage and resolution in them?
 You must get men of a spirit that is likely to go as far as gentlemen
 will go or you will be beaten still." The royalists were fighting for a
 great cause. To succeed the parliamentary soldiers must also be inspired
 by some great principle, and this was now found in religion. Cromwell
-chose his own troops, both officers and privates, from the "religious
+[[Chose|chose]] his own troops, both officers and privates, from the "religious
 men," who fought not for pay or for adventure, but for their faith. He
 declared, when answering a complaint that a certain captain in his
 regiment was a better preacher than fighter, that he who prayed best
@@ -273,26 +273,26 @@ At Langport again, on the 10th of July 1645, his management of the
 troops was largely instrumental in gaining the victory. As the king had
 no longer a field army, the war after Naseby resolved itself into a
 series of sieges which Charles had no means of raising. Cromwell was
-present at the sieges of Bridgwater, Bath, Sherborne and Bristol; and
+present at the sieges of Bridgwater, Bath, Sherborne and [[Bristol]]; and
 later, in command of four regiments of foot and three of horse, he was
 employed in clearing Wiltshire and Hampshire of the royalist garrisons.
 He took Devizes and Laycock House, Winchester and Basing House, and
-rejoined Fairfax in October at Exeter, and accompanied him to Cornwall,
+rejoined Fairfax in October at Exeter, and accompanied him to [[Cornwall]],
 where he assisted in the defeat of Hopton's forces and in the
 suppression of the royalists in the west. On the 9th of January 1646 he
 surprised Lord Wentworth's brigade at Bovey Tracey, and was present with
 Fairfax at the fall of Exeter on the 9th of April. He then went to
 London to give an account of proceedings to the parliament, was thanked
 for his services and rewarded with the estate of the marquess of
-Worcester. He was present again with Fairfax at the capitulation of
+Worcester. He was present again with Fairfax at the [[Capitulation|capitulation]] of
 Oxford on the 24th of June, which practically terminated the Civil War,
 when he used his influence in favour of granting lenient terms. He then
-removed with his family from Ely to Drury Lane, London, and about a year
+removed with his family from Ely to Drury [[Lane]], London, and about a year
 later to King Street, Westminster.
 
 The war being now over, the great question of the establishment of
 Presbyterianism or Independency had to be decided. Cromwell, without
-naming himself an adherent of any denomination, fought vigorously for
+naming himself an adherent of any [[Denomination|denomination]], fought vigorously for
 Independency as a policy. In 1644 he had remonstrated at the removal by
 Crawford of an anabaptist lieutenant-colonel. "The state," he said, "in
 choosing men to serve it, takes no notice of their opinions. If they be
@@ -317,7 +317,7 @@ Agents to urge their claims.
 
 Cromwell, though greatly disliking the policy of the Presbyterians, yet
 gave little support at first to the army in resisting parliament. In May
-1647 in company with Skippon, Ireton and Fleetwood, he visited the army,
+1647 in company with Skippon, Ireton and [[Fleetwood]], he visited the army,
 inquired into and reported on the grievances, and endeavoured to
 persuade them to submit to the parliament. "If that authority falls to
 nothing," he said, "nothing can follow but confusion." The
@@ -362,9 +362,9 @@ pressure of the royalist city mob which invaded the two Houses; but the
 two speakers, with eight peers and fifty-seven members of the Commons,
 themselves joined the army, which now advanced to London, overawing all
 resistance, escorting the fugitive members in triumph to Westminster on
-the 6th of August, and obliging the parliament on the 20th to cancel the
+the 6th of August, and obliging the parliament on the 20th to [[Cancel|cancel]] the
 last votes, with the threat of a regiment of cavalry drawn up by
-Cromwell in Hyde Park.
+Cromwell in [[Hyde Park]].
 
 Cromwell and the army now turned with hopes of a settlement to Charles.
 On the 4th of July Cromwell had had an interview with the king at
@@ -457,7 +457,7 @@ Pembroke Castle on the 11th of July. Meanwhile behind his back the
 royalists had risen all over England, the fleet in the Downs had
 declared for Charles, and the Scottish army under Hamilton had invaded
 the north. Immediately on the fall of Pembroke Cromwell set out to
-relieve Lambert, who was slowly retreating before Hamilton's superior
+relieve [[Lambert]], who was slowly retreating before Hamilton's superior
 forces; he joined him near Knaresborough on the 12th of August, and
 started next day in pursuit of Hamilton in Lancashire, placing himself
 at Stonyhurst near Preston, cutting off Hamilton from the north and his
@@ -486,7 +486,7 @@ troops (20th of November 1648), which included the demand for the king's
 punishment as "the grand author of all our troubles," and justified the
 use of force by the army if other means failed. The parliament, however,
 continued to negotiate, and accordingly Charles was removed by the army
-to Hurst Castle on the 1st of December, the troops occupied London on
+to [[Hurst]] Castle on the 1st of December, the troops occupied London on
 the 2nd; while on the 6th and 7th Colonel Pride "purged" the House of
 Commons of the Presbyterians. Cromwell was not the originator of this
 act, but showed his approval of it by taking his seat among the fifty or
@@ -545,7 +545,7 @@ monarchies "by divine right" were being established on the ruins of the
 ancient popular constitutions, was an object lesson to all the world;
 and it produced a profound effect, not only in establishing
 constitutional monarchy in Great Britain after James II., with the dread
-of his father's fate before him, had abdicated by flight, but in giving
+of his father's [[Fate|fate]] before him, had abdicated by flight, but in giving
 the impulse to that revolt against the idea of "the divinity that doth
 hedge a king" which culminated in the Revolution of 1789, and of which
 the mighty effects are still evident in Europe and beyond.
@@ -557,7 +557,7 @@ The king and the monarchy being now destroyed in England, Cromwell had
 next to turn his attention to the suppression of royalism in Ireland and
 in Scotland. In Ireland Ormonde had succeeded in uniting the English and
 the Irish in a league against the supporters of the parliament, and only
-a few scattered forts held out for the Commonwealth, while the young
+a few scattered forts held out for the [[Commonwealth]], while the young
 king was every day expected to land and complete the conquest of the
 island. Accordingly in March 1649 Cromwell was appointed lord-lieutenant
 and commander-in-chief for its reduction. But before starting he was
@@ -589,17 +589,17 @@ women slaughtered in the market-place has no foundation.
 The surrender of Trim, Dundalk and Ross followed, but at Waterford
 Cromwell met with a stubborn resistance and the advent of winter obliged
 him to raise the siege. Next year Cromwell penetrated into Munster.
-Cashel, Cahir and several castles fell in February, and Kilkenny in
+Cashel, Cahir and several castles fell in February, and [[Kilkenny]] in
 March; Clonmel repulsing the assault with great loss, but surrendering
 on the 10th of May 1650. Cromwell himself sailed a fortnight later,
 leaving the reduction of the island, which was completed in 1652, to
 his generals. The re-settlement of the conquered and devastated country
 was now organized on the Tudor and Straffordian basis of colonization
-from England, conversion to Protestantism, and establishment of law and
+from England, [[Conversion|conversion]] to Protestantism, and establishment of law and
 order. Cromwell thoroughly approved of the enormous scheme of
 confiscation and colonization, causing great privations and sufferings,
 which was carried out. The Roman Catholic landowners lost their estates,
-all or part according to their degree of guilt, and these were
+all or part according to their degree of [[Guilt|guilt]], and these were
 distributed among Cromwell's soldiers and the creditors of the
 government; Cromwell also invited new settlers from home and from New
 England, two-thirds of the whole land of Ireland being thus transferred
@@ -642,8 +642,8 @@ resigned, and Cromwell was appointed by parliament, on the 26th of June
 1650, commander-in-chief of all the forces of the Commonwealth. He
 entered Scotland in July, and after a campaign in the neighbourhood of
 Edinburgh which proved unsuccessful in drawing out the Scots from their
-fortresses, he retreated to Dunbar to await reinforcements from Berwick.
-The Scots under Leslie followed him, occupied Doon Hill commanding the
+fortresses, he retreated to Dunbar to await reinforcements from [[Berwick]].
+The Scots under [[Leslie]] followed him, occupied Doon Hill commanding the
 town, and seized the passes between Dunbar and Berwick which Cromwell
 had omitted to secure. Cromwell was outmanoeuvred and in a perilous
 situation, completely cut off from England and from his supplies except
@@ -651,7 +651,7 @@ from the sea. But Leslie descended the hill to complete his triumph, and
 Cromwell immediately observed the disadvantages of his antagonist's new
 position, cramped by the hill behind and separated from his left wing. A
 stubborn struggle on the next day, the 3rd of September, gave Cromwell a
-decisive victory. Advancing, he occupied Edinburgh and Leith. At first
+decisive victory. Advancing, he occupied Edinburgh and [[Leith]]. At first
 it seemed likely that his victories and subsequent remonstrances would
 effect a peace with the Scots; but by 1651 Charles II. had succeeded in
 forming a new union of royalists and presbyterians, and another campaign
@@ -665,7 +665,7 @@ thus cutting off Leslie from the north and his supplies. This movement,
 however, left open the way to England, and Charles immediately marched
 south, in reality thus giving Cromwell the wished-for opportunity of
 crushing the royalists finally and decisively. Cromwell followed through
-Yorkshire, and uniting with Lambert and Harrison at Evesham proceeded to
+Yorkshire, and uniting with Lambert and Harrison at [[Evesham]] proceeded to
 attack the royalists at Worcester; where on the 3rd of September after a
 fierce struggle the great victory, "the crowning mercy" which terminated
 the Civil War, was obtained over Charles.
@@ -683,7 +683,7 @@ jurisdictions abolished, and security and good order maintained by the
 council of nine appointed by the Protector. In 1658 the improved
 condition of Scotland was the subject of Cromwell's special
 congratulation in addressing parliament. But as in Ireland so Cromwell's
-policy in Scotland was unpopular and was only upheld by the maintenance
+policy in Scotland was unpopular and was only upheld by the [[Maintenance|maintenance]]
 of a large army, necessitating heavy taxation and implying the loss of
 the national independence. It also vanished at the Restoration.
 
@@ -712,7 +712,7 @@ member of the parliament, whose authority he supported to the best of
 his ability. While occupied with work on committees and in
 administration he pressed forward several schemes of reform, including a
 large measure of law reform prepared by a commission presided over by
-Matthew Hale, and the settlement of the church; but very little was
+[[Matthew]] Hale, and the settlement of the church; but very little was
 accomplished by the parliament, which seemed to be almost exclusively
 taken up with the maintenance and increase of its own powers; and
 Cromwell's dissatisfaction, and that of the army which increased every
@@ -743,8 +743,8 @@ expect any such from me." In reply to a complaint of his violence he
 cried, "Come, come, I will put an end to your prating. You are no
 parliament, I say you are no parliament. I will put an end to your
 sitting." By his directions Harrison then fetched in a small band of
-Cromwell's musketeers and compelled the speaker Lenthall to vacate the
-chair. Looking at the mace he said, "What shall we do with this bauble?"
+Cromwell's musketeers and compelled the speaker [[Lenthall]] to vacate the
+chair. Looking at the [[Mace|mace]] he said, "What shall we do with this [[Bauble|bauble]]?"
 and ordered a soldier to take it away. The members then trooped out,
 Cromwell crying after them, "It is you that have forced me to this; for
 I have sought the Lord night and day that He would rather slay me than
@@ -826,7 +826,7 @@ crime; Cromwell issued further ordinances against duelling, swearing,
 race-meetings and cock-fights--the last as tending to the disturbance of
 the public peace and the encouragement of "dissolute practices to the
 dishonour of God." Cromwell himself was no ascetic and saw no harm in
-honest sport. He was exceedingly fond of horses and hunting, leaping
+honest sport. He was exceedingly fond of horses and [[Hunting|hunting]], leaping
 ditches prudently avoided by the foreign ambassadors. Baxter describes
 him as full of animal spirits, "naturally of such a vivacity, hilarity
 and alacrity as another man is when he hath drunken a cup of wine too
@@ -838,7 +838,7 @@ the Scottish clergy, and rejecting their claim to suppress dissent in
 order to extirpate error, he said, "Your pretended fear lest error
 should step in is like the man who would keep all wine out of the
 country lest men should be drunk. It will be found an unjust and unwise
-jealousy to deprive a man of his natural liberty upon a supposition he
+[[Jealousy|jealousy]] to deprive a man of his natural liberty upon a supposition he
 may abuse it. When he doth abuse it, judge." It is probable that very
 little of this moral legislation was enforced in practice, though
 special efforts were made under the government of the major-generals.
@@ -856,7 +856,7 @@ clamoured for their abolition, even Clarendon allowing that Oxford
 "yielded a harvest of extraordinary good and sound knowledge in all
 parts of learning." In 1657 he founded a new university at Durham, which
 was suppressed at the Restoration. He patronized learning. Milton and
-Marvell were his secretaries. He allowed the royalists Hobbes and Cowley
+[[Marvell]] were his secretaries. He allowed the royalists Hobbes and [[Cowley]]
 to return to England, and lived in friendship with the poet Waller.
 
 
@@ -879,11 +879,11 @@ exception that some harsh measures were enacted against Anglicans and
 Roman Catholics, to neither of whom was liberty of worship accorded. The
 acts imposing fines for recusancy, repealed in 1650, were later executed
 with great severity. In 1655 a proclamation was issued for administering
-the laws against the priests and Jesuits, and some executions were
+the laws against the priests and [[Jesuits]], and some executions were
 carried out. Complete toleration in fact was only extended to Protestant
 nonconformists, who composed the Cromwellian established church, and who
 now meted out to their antagonists the same treatment which they
-themselves were later to receive under the _Clarendon Code_ of Charles
+themselves were later to receive under the _Clarendon [[Code]]_ of Charles
 II.
 
 
@@ -919,7 +919,7 @@ Restoration, and the great Jewish immigration into England with all its
 important consequences may be held to date practically from these first
 concessions made by Cromwell. His personal intervention also alleviated
 the condition of the Quakers, much persecuted at this time. In an
-interview in 1654 the sincerity and enthusiasm of George Fox had greatly
+interview in 1654 the sincerity and [[Enthusiasm|enthusiasm]] of George Fox had greatly
 moved Cromwell and had convinced him of their freedom from dangerous
 political schemes. He ordered Fox's liberation, and in November 1657
 issued a general order directing that Quakers should be treated with
@@ -946,7 +946,7 @@ prevent a Stuart restoration by foreign aid--the religious mission of
 England in the world, her commercial interests, and her political
 independence being indissolubly connected in his mind. The beginning of
 his rule inherited a war with France and Holland; the former consequent
-on Cromwell's failure to obtain terms for the Huguenots or the cession
+on Cromwell's failure to obtain terms for the [[Huguenots]] or the cession
 of Dunkirk, and the latter--for which he was not responsible--the result
 of commercial rivalry, of disputes concerning the rights of neutrals, of
 bitter memories of Dutch misdeeds in the East Indies, and of dynastic
@@ -956,12 +956,12 @@ treaty with Denmark to injure English trade in the Baltic; to which
 England replied the same year by the Navigation Act, which suppressed
 the Dutch trade with the English colonies and the Dutch fish trade with
 England, and struck at the Dutch carrying trade. War was declared in May
-1652 after a fight between Blake and Tromp off Dover, and was continued
+1652 after a fight between Blake and Tromp off [[Dover]], and was continued
 with signal victories and defeats on both sides till 1654. The religious
 element, however, which predominated in Cromwell's foreign policy
 inclined him to peace, and in April of that year terms were arranged by
 which England on the whole was decidedly the gainer. The Dutch
-acknowledged the supremacy of the English flag in the British seas,
+acknowledged the supremacy of the English [[Flag|flag]] in the British seas,
 which Tromp had before refused; they accepted the Navigation Act, and
 undertook privately to exclude the princes of Orange from the command of
 their forces. The Protestant policy was further followed up by treaties
@@ -979,10 +979,10 @@ with orders to attack the Spanish colonies and the French shipping; and
 for the first time since the Plantagenets an English fleet appeared in
 the Mediterranean, where Blake upheld the supremacy of the English flag,
 made a treaty with the dey of Algiers, destroyed the castles and ships
-of the dey of Tunis at Porto Farina on the 4th of April 1655, and
+of the dey of Tunis at Porto [[Farina]] on the 4th of April 1655, and
 liberated the English prisoners captured by the pirates.
 
-The incident of the massacre of the Protestant Vaudois at this time
+The incident of the [[Massacre|massacre]] of the Protestant Vaudois at this time
 decided Cromwell's policy in favour of France. In response to Cromwell's
 splendid championship of the persecuted people--which has been well
 described as "one of the noblest memories of England"--France undertook
@@ -1058,7 +1058,7 @@ be feared and respected in foreign courts where that of Stuart was
 despised and neglected, command praise and admiration equally from
 contemporaries and from modern critics, from his friends and from his
 opponents. "He once more joined us to the continent," wrote Marvell,
-while Dryden describes him as teaching the British lion to roar.
+while [[Dryden]] describes him as teaching the British lion to roar.
 "Cromwell's greatness at home," said Clarendon, "was a mere shadow of
 his greatness abroad." "It is strange," wrote Pepys in 1667 under a
 different regime, "how everybody nowadays reflect upon Oliver and
@@ -1082,7 +1082,7 @@ English maritime supremacy, the act being, moreover, memorable as the
 first public measure which treated the colonies as a whole and as an
 integral part of Great Britain. The hindrance, however, to the general
 development of trade which the act involved aroused at once loud
-complaints, to which Cromwell turned a deaf ear, continuing to seize
+complaints, to which Cromwell turned a deaf [[Ear|ear]], continuing to seize
 Dutch ships trading in forbidden goods. In the internal administration
 of the colonies Cromwell interfered very little, maintaining specially
 friendly relations with the New Englanders, and showing no jealousy of
@@ -1103,7 +1103,7 @@ the capital, Santiago de la Vega, was effected, the expedition was
 almost annihilated by disease; and Penn and Venables returned to
 England, when Cromwell threw them into the Tower. Cromwell, however,
 persevered, reminding Fortescue, who was left in command, that the war
-was one against the "Roman Babylon," that they were "fighting the Lord's
+was one against the "Roman [[Babylon]]," that they were "fighting the Lord's
 battles"; and he sent out reinforcements under Sedgwick, offering
 inducements to the New Englanders to migrate to Jamaica. In spite of
 almost insuperable difficulties the colony took root, trade began, the
@@ -1129,7 +1129,7 @@ hitherto unrepresented towns, and which provided for thirty
 representatives from Scotland and from Ireland. Instead, however, of
 proceeding with the work of practical legislation, accepting the
 Instrument of Government without challenge as the basis of its
-authority, the parliament immediately began to discuss and find fault
+authority, the parliament immediately began to discuss and find [[Fault|fault]]
 with the constitution and to debate about "Fundamentals." About a
 hundred members who refused to engage not to attempt to change the form
 of government were excluded on the 12th of September. The rest sat on,
@@ -1151,7 +1151,7 @@ to avoid giving judgment. Cromwell was thus inevitably drawn farther
 along the path of arbitrary government. He arrested the persons who
 refused to pay taxes, and sent Cony's lawyers to the Tower. Hitherto he
 had been scrupulously impartial in raising the best men to the judicial
-bench, including the illustrious Matthew Hale, but he now appointed
+[[Bench|bench]], including the illustrious Matthew Hale, but he now appointed
 compliant judges, and, alluding to Magna Carta in terms impossible to
 transcribe for modern readers, declared that "it should not control his
 actions which he knew were for the safety of the Commonwealth." The
@@ -1183,7 +1183,7 @@ the object of general attack, while the special tax on the royalists was
 declared unjust, and the bill for its continuation rejected by a large
 majority. An attempt at the assassination of Cromwell by Miles
 Sindercombe added to the general feeling of anxiety and unrest. The
-military rule excited universal hostility; there was an earnest desire
+military rule excited universal hostility; there was an [[Earnest|earnest]] desire
 for a settled and constitutional government, and the revival of the
 monarchy in the person of Cromwell appeared the only way of obtaining
 it. On the 23rd of February 1657 the _Remonstrance_ offering Cromwell
@@ -1207,8 +1207,8 @@ the crown would have guaranteed his followers, under the act of Henry
 VII., from liability in the future to the charge of high treason for
 having given allegiance to himself as a _de facto_ king. Cromwell
 himself, however, seems to have regarded the question of title as of
-secondary importance, as merely (to use his own words) "a feather in the
-hat," "a shining bauble for crowds to gaze at or kneel to." "Your
+secondary importance, as merely (to use his own words) "a [[Feather|feather]] in the
+hat," "a shining bauble for [[Crowd|crowds]] to gaze at or kneel to." "Your
 father," wrote Sir Francis Russell to Henry Cromwell, "hath of late made
 more wise men fools than ever; he laughs and is merry, but they hang
 down their heads and are pitifully out of countenance."
@@ -1272,8 +1272,8 @@ Domestic bereavements added further causes of grief and of weakened
 vitality. On the 6th of February 1658 he lost his favourite daughter,
 Elizabeth Claypole, and he was much cast down by the shock of his
 bereavement and of her long sufferings. Shortly afterwards he fell ill
-of an intermittent fever, but seemed to recover. On the 20th of August
-George Fox met him riding at the head of his guards in the park at
+of an intermittent [[Fever|fever]], but seemed to recover. On the 20th of August
+George Fox met him riding at the head of his [[Guards|guards]] in the park at
 Hampton Court, but declared "he looked like a dead man." The next day he
 again fell ill and was removed from Hampton Court to Whitehall, where
 his condition became worse. The anecdotes believed and circulated by the
@@ -1300,7 +1300,7 @@ November, with great ceremony and on the same scale as that of Philip
 II. of Spain, and costing the enormous sum of L60,000. At the
 Restoration his body was exhumed, and on the 30th of January 1661, the
 anniversary of the execution of Charles I., it was drawn on a sledge
-from Holborn to Tyburn, together with the bodies of Ireton and Bradshaw,
+from [[Holborn]] to Tyburn, together with the bodies of Ireton and Bradshaw,
 accompanied by "the universal outcry and curses of the people." There it
 was hanged on a gallows, and in the evening taken down, when the head
 was cut off and set up upon Westminster Hall, where it remained till as
@@ -1308,7 +1308,7 @@ late as 1684, the trunk being thrown into a pit underneath the gallows.
 According to various legends Cromwell's last burial place is stated to
 be Westminster Abbey, Naseby Field or Newburgh Abbey; but there appears
 to be no evidence to support them, or to create any reasonable doubt
-that the great Protector's dust lies now where it was buried, in the
+that the great Protector's [[Dust|dust]] lies now where it was buried, in the
 neighbourhood of the present Connaught Square.
 
 
@@ -1480,10 +1480,10 @@ and self-sacrifice, so immeasurably superior to that of the Stuarts.
 Cromwell's personal character has been inevitably the subject of
 unceasing controversy. According to Clarendon he was "a brave bad man,"
 with "all the wickedness against which damnation is pronounced and for
-which hell fire is prepared." Yet he cannot deny that "he had some
+which [[Hell|hell]] fire is prepared." Yet he cannot deny that "he had some
 virtues which have caused the memory of some men in all ages to be
 celebrated"; and admits that "he was not a man of blood," and that he
-possessed "a wonderful understanding in the natures and humour of men,"
+possessed "a wonderful understanding in the natures and [[Humour|humour]] of men,"
 and "a great spirit, an admirable circumspection and sagacity and a most
 magnanimous resolution." According to contemporary republicans he was a
 mere selfish adventurer, sacrificing the national cause "to the idol of
@@ -1506,7 +1506,7 @@ the natural superiority of his own genius. "A man never mounts so high,"
 Cromwell said to the French ambassador in 1647, "as when he does not
 know where he is going." "These issues and events," he said in 1656,
 "have not been forecast, but were providences in things." His
-"hypocrisy" consists principally in the Biblical language he employed,
+"[[Hypocrisy|hypocrisy]]" consists principally in the Biblical language he employed,
 which with Cromwell, as with many of his contemporaries, was the most
 natural way of expressing his feelings, and in the ascription of every
 incident to the direct intervention of God's providence, which was
@@ -1523,7 +1523,7 @@ liberty and of governance.
 
 John Maidston, Cromwell's steward, gives the "character of his person."
 "His body was compact and strong, his stature under six foot (I believe
-about two inches), his head so shaped as you might see it a storehouse
+about two [[Inch|inches]]), his head so shaped as you might see it a storehouse
 and a shop both of a vast treasury of natural parts." "His temper
 exceeding fiery, as I have known, but the flame of it, ... kept down for
 the most part, was soon allayed with those moral endowments he had. He
@@ -1538,10 +1538,10 @@ Robert (who died in 1639), Oliver (who died in 1644 while serving in his
 father's regiment), Richard, who succeeded him as Protector, and Henry.
 He also had four daughters. Of these Bridget was the wife successively
 of Ireton and Fleetwood, Elizabeth married John Claypole, Mary was wife
-of Thomas Belasyse, Lord Fauconberg; and Frances was the wife of Sir
+of Thomas Belasyse, Lord Fauconberg; and [[Franc|Frances]] was the wife of Sir
 Robert Rich, and secondly of Sir John Russell. The last male descendant
 of the Protector was his great-great-grandson, Oliver Cromwell of
-Cheshunt, who died in 1821. By the female line, through his children
+[[Cheshunt]], who died in 1821. By the female line, through his children
 Henry, Bridget and Frances, the Protector has had numerous descendants,
 and is the ancestor of many well-known families.[6]
 

@@ -7,13 +7,13 @@ type: source
 
 # Benserade
 
-BENSERADE, ISAAC DE (1613-1691), French poet, was born in Paris, and
+BENSERADE, [[Isaac|ISAAC]] DE (1613-1691), French poet, was born in Paris, and
 baptized on the 5th of November 1613. His family appears to have been
 connected with Richelieu, who bestowed on him a pension of 600 livres.
 He began his literary career with the tragedy of _Cleopatre_ (1635),
 which was followed by four other indifferent pieces. On Richelieu's
 death Benserade lost his pension, but became more and more a favourite
-at court, especially with Anne of Austria. He provided the words for the
+at court, especially with [[Anne]] of Austria. He provided the words for the
 court ballets, and was, in 1674, admitted to the Academy, where he
 wielded an influence quite out of proportion to the merit of his work.
 In 1676 the failure of his _Metamorphoses d'Ovide_ in the form of

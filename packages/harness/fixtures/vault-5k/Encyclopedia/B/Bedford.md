@@ -6,7 +6,7 @@ topic: warfare-theory
 
 # Bedford
 
-BEDFORD, EARLS AND DUKES OF. The present English title of duke of
+BEDFORD, EARLS AND [[Dukes|DUKES]] OF. The present English title of duke of
 Bedford comes from a line of earls and dukes in the Russell family. In
 January 1550 John, Baron Russell, was created earl of Bedford, and in
 May 1694 his descendant, William, the 5th earl, became duke of Bedford.
@@ -27,7 +27,7 @@ royal councils. He acted as lieutenant of the kingdom during Henry's
 expedition to France in 1415, and in August 1416 commanded the ships
 which defeated the French fleet at the mouth of the Seine, and was
 instrumental in relieving Harfleur. Again appointed lieutenant in July
-1417, he marched against the Scots, who abandoned the siege of Berwick
+1417, he marched against the Scots, who abandoned the siege of [[Berwick]]
 at his approach; and on his return to London he brought Sir John
 Oldcastle to trial and was present at his execution. He appears to have
 governed the country with considerable success until December 1419, when
@@ -37,7 +37,7 @@ June 1421, and in the following May conducted the queen to join Henry in
 Normandy. He then took his brother's place and led the English troops to
 the relief of Cosne, but on hearing of the king's serious illness he
 left the army and hurried to his side. Henry's last wish was that
-Bedford should be guardian of the kingdom and of the young king, and
+Bedford should be [[Guardian|guardian]] of the kingdom and of the young king, and
 that Philip the Good, duke of Burgundy, should act as regent in France.
 But when Philip declined to undertake this office, it too was assumed by
 Bedford, who, after the death of the French king Charles VI. in October
@@ -67,7 +67,7 @@ spite of the efforts of the protector the good understanding between
 England and Burgundy was partially destroyed when Gloucester invaded
 Hainaut in October 1424. The ambition of his brother gave Bedford
 trouble in another direction also; for on his return from Hainaut
-Gloucester quarrelled with the chancellor, Henry Beaufort, bishop of
+Gloucester quarrelled with the chancellor, Henry [[Beaufort]], bishop of
 Winchester, and the council implored Bedford to come to England to
 settle this dispute. He reached London in January 1426, and after
 concluding a bond of alliance with Gloucester effected a reconciliation
@@ -79,7 +79,7 @@ to desist from a further attack on Hainaut, he threatened Brittany and
 compelled Duke John to return to the English alliance; and the success
 of his troops continued until the siege of Orleans, to which he
 consented with reluctance, was undertaken in October 1428. Having
-assured himself that Philip was prepared to desert him, Bedford sent
+assured himself that Philip was prepared to [[Desert|desert]] him, Bedford sent
 orders to his army to raise the siege in April 1429. He then acted with
 great energy and judgment in attempting to stem the tide of disasters
 which followed this failure, strengthened his hold upon Paris, and sent
@@ -91,7 +91,7 @@ government of Normandy Bedford established himself at Rouen and directed
 the movements of the English forces with some success. He did not
 interfere to save the life of Joan of Arc. He was joined by Henry VI. in
 April 1430, when the regency was temporarily suspended, and he secured
-Henry's coronation at Paris in December 1431. In November 1432 his wife
+Henry's [[Coronation|coronation]] at Paris in December 1431. In November 1432 his wife
 Anne died, and in April 1433 he was married at Therouanne to Jacqueline,
 daughter of Pierre I., count of St Pol. But notwithstanding Bedford's
 vigour the English lost ground steadily; and the death of Anne and this
@@ -110,7 +110,7 @@ undertook this office in December 1433, when his demands with regard to
 a continual council were conceded. Bedford, who was anxious to prosecute
 the war in France, left England again in 1434, but early in 1435 was
 obliged to consent to the attendance of English r epresentatives at a
-congress held to arrange terms of peace at Arras. Unable to consent to
+congress held to arrange terms of peace at [[Arras]]. Unable to consent to
 the French terms the English envoys left Arras in September, and Philip
 of Burgundy made a separate treaty with France. Bedford only lived to
 see the ruin of the cause for which he struggled so loyally. He died at
@@ -133,7 +133,7 @@ under his rule contented and prosperous.
 
 In 1470 GEORGE NEVILL (c. 1457-1483), son of John, earl of
 Northumberland, was created duke of Bedford; but after his father's
-attainder and death at the battle of Barnet in 1471 he was degraded from
+[[Attainder|attainder]] and death at the battle of Barnet in 1471 he was degraded from
 the peerage.
 
 The next duke of Bedford was JASPER TUDOR (c. 1430-1495), half-brother
@@ -148,10 +148,10 @@ Russell (d. 1509). Having travelled widely, he attained some position at
 the court of Henry VII., and was subsequently in great favour with Henry
 VIII. In 1513 he took part in the war with France, and, having been
 knighted about the same time, was afterwards employed on several
-diplomatic errands. He was with Henry at the Field of the Cloth of Gold
+diplomatic errands. He was with Henry at the [[Field Of The Cloth Of Gold|Field of the Cloth of Gold]]
 in 1520, and, returning to military service when the French war was
 renewed, lost his right eye at the siege of Morlaix in 1522. He was soon
-made knight marshal of the royal household, and in 1523 went secretly to
+made [[Knight|knight]] marshal of the royal household, and in 1523 went secretly to
 France, where he negotiated a treaty between Henry and Charles, duke of
 Bourbon, who was anxious to betray the French king Francis I. After a
 short visit to England Russell was sent with money to Bourbon, joining
@@ -169,7 +169,7 @@ of the commissioners appointed to try the Lincolnshire prisoners.
 Honours now crowded upon him. His appointment as comptroller of the
 king's household in 1537 was followed by that of a privy councillor in
 1538; then he was made lord high admiral, high steward of the duchy of
-Cornwall and a knight of the garter. In March 1539 he was created Baron
+[[Cornwall]] and a knight of the garter. In March 1539 he was created Baron
 Russell of Chenies, and in 1542 became high steward of the university of
 Oxford, and keeper of the privy seal. In 1539, when Charles V. and
 Francis I. were threatening to invade England, he was sent into the
@@ -239,10 +239,10 @@ daughters. His three eldest sons predeceased their father. His second
 wife was Bridget (d. 1601), daughter of John, Lord Hussey. He was
 succeeded as 3rd earl by his grandson, EDWARD (1572-1627), only son of
 Francis, Lord Russell (c. 1550-1585). The 3rd earl left no children when
-he died on the 3rd of May 1627, and was succeeded by his cousin.
+he died on the 3rd of May 1627, and was succeeded by his [[Cousin|cousin]].
 
 FRANCIS RUSSELL, 4th earl of Bedford (1593-1641), was the only son of
-William, Lord Russell of Thornhaugh, to which barony he succeeded in
+William, Lord Russell of Thornhaugh, to which [[Barony|barony]] he succeeded in
 August 1613. For a short time previously he had been member of
 parliament for the borough of Lyme Regis; in 1623 he was made
 lord-lieutenant of Devonshire; and in May 1627 became earl of Bedford by
@@ -253,7 +253,7 @@ of the House of Commons as embodied in the Petition of Right, and in
 Dudley's pamphlet, "Proposition for His Majesty's service," but was
 quickly released. The Short parliament meeting in April 1640 found the
 earl as one of the king's leading opponents. He was greatly trusted by
-John Pym and Oliver St John, and is mentioned by Clarendon as among the
+John Pym and Oliver St John, and is mentioned by [[Clarendon]] as among the
 "great contrivers and designers" in the House of Lords. In July 1640 he
 was among the peers who wrote to the Scottish leaders refusing to invite
 a Scottish army into England, but promising to stand by the Scots in all
@@ -269,8 +269,8 @@ councillor, and during the course of some negotiations was promised the
 office of lord high treasurer. He was essentially a moderate man, and
 seemed anxious to settle the question of the royal revenue in a
 satisfactory manner. He did not wish to alter the government of the
-Church, was on good terms with Archbishop Laud, and, although convinced
-of Stafford's guilt, was anxious to save his life. In the midst of the
+Church, was on good terms with Archbishop [[Laud]], and, although convinced
+of Stafford's [[Guilt|guilt]], was anxious to save his life. In the midst of the
 parliamentary struggle Bedford died of smallpox on the 9th of May 1641.
 Clarendon described him as "a wise man, and of too great and plentiful a
 fortune to wish the subversion of the government," and again referring
@@ -283,7 +283,7 @@ him the "Bedford level." He spent a large sum of money over this work
 and received 43,000 acres of land, but owing to various jealousies and
 difficulties the king took the work into his own hands in 1638, making a
 further grant of land to the earl. Bedford married Catherine (d. 1657),
-daughter of Giles, 3rd Lord Chandos, by whom he had four sons and four
+daughter of [[Giles]], 3rd Lord [[Chandos]], by whom he had four sons and four
 daughters. His eldest son, WILLIAM (1613-1700), succeeded him as 5th
 earl, fought first on the side of the parliament and then on that of the
 king during the Civil War, and in 1694 was created marquess of Tavistock
@@ -313,7 +313,7 @@ his first wife in 1735, married in April 1737 Lady Gertrude
 Leveson-Gower (d. 1794), daughter of John, Earl Gower. In the House of
 Lords he joined the party hostile to Sir Robert Walpole, took a fairly
 prominent part in public business, and earned the dislike of George II.
-When Carteret, now Earl Granville, resigned office in November 1744,
+When Carteret, now Earl [[Granville]], resigned office in November 1744,
 Bedford became first lord of the admiralty in the administration of
 Henry Pelham, and was made a privy councillor. He was very successful at
 the admiralty, but was not equally fortunate after he became secretary
@@ -341,7 +341,7 @@ peace negotiations were conducted through other channels, but he signed
 the peace of Paris in February 1763. Resigning his office as lord privy
 seal soon afterwards, various causes of estrangement arose between Bute
 and Bedford, and the subsequent relations of the two men were somewhat
-virulent. The duke refused to take office under George Grenville on
+virulent. The duke refused to take office under George [[Grenville]] on
 Bute's resignation in April 1763, and sought to induce Pitt to return to
 power. A report, however, that Pitt would only take office on condition
 that Bedford was excluded, incensed him and, smarting under this rebuff,
@@ -358,7 +358,7 @@ place high import duties on Italian silks. He was consequently assaulted
 and his London residence attacked by a mob. He took some part in
 subsequent political intrigues, and although he did not return to
 office, his friends, with his consent, joined the ministry of the duke
-of Grafton in December 1767. This proceeding led "Junius" to write his
+of [[Grafton]] in December 1767. This proceeding led "Junius" to write his
 "letter to the duke of Bedford," one of especial violence. Bedford was
 hostile to John Wilkes, and narrowly escaped from a mob favourable to
 the agitator at Honiton in July 1769. His health had been declining for
@@ -412,11 +412,11 @@ JOHN RUSSELL, 6th duke of Bedford (1766-1839), was succeeded as seventh
 duke by his eldest son, Francis (1788-1861), who had an only son,
 William (1809-1872), who became duke on his father's death in 1861. When
 the eighth duke died in 1872, he was succeeded by his cousin, Francis
-Charles Hastings (1819-1891), who was member of parliament for
+Charles [[Hastings]] (1819-1891), who was member of parliament for
 Bedfordshire from 1847 until he succeeded to the title. The ninth duke
 was the eldest son of Major-General Lord George William Russell
 (1790-1846), who was a son of the sixth duke. He married Elizabeth,
-daughter of George John, 5th Earl de la Warr, and both his sons, George
+daughter of George John, 5th Earl [[De La Warr|de la Warr]], and both his sons, George
 William Francis Sackville (1852-1893), and Herbrand Arthur (b. 1858),
 succeeded in turn to the title.
 

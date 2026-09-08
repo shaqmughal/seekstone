@@ -6,12 +6,12 @@ topic: europe
 
 # J. D. B. - James David Bourchier
 
-J. D. B. - JAMES DAVID BOURCHIER, M.A., F.R.G.S.
+J. D. B. - JAMES DAVID [[Bourchier|BOURCHIER]], M.A., F.R.G.S.
 King's College, Cambridge. Correspondent of _The Times_ in South-Eastern
-Europe. Commander of the Orders of Prince Danilo of Montenegro and of the
-Saviour of Greece, and Officer of the Order of St Alexander of Bulgaria.
+Europe. [[Commander]] of the Orders of Prince Danilo of Montenegro and of the
+Saviour of Greece, and Officer of the Order of St Alexander of [[Bulgaria]].
 
-- Balkan Peninsula.
+- [[Balkan Peninsula]].
 
 ## References
 

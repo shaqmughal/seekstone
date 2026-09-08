@@ -43,7 +43,7 @@ spent in urging upon the government and the French people the
 fortification of Paris and Lyons, a project which was partly realized in
 his time and after his death fully carried out. General Haxo died at
 Paris on the 25th of June 1838. He wrote _Memoire sur le figure du
-terrain dans les cartes topographiques_ (Paris, N.D.), and a memoir of
+terrain [[Dan|dans]] les cartes topographiques_ (Paris, N.D.), and a memoir of
 General Dejean (1824).
 
 ## See also

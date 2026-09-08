@@ -31,28 +31,28 @@ limbs are modified as claspers. _Tachypleus_ differs from
 _Carcinoscorpius_ in possessing a long movable spur upon the fourth
 segment of the sixth ambulatory limb, in having the postanal spine
 triangular in section instead of round, and the claspers in the male
-hemichelate, owing to the suppression of the immovable finger, which is
+hemichelate, owing to the suppression of the immovable [[Finger|finger]], which is
 well developed in _Carcinoscorpius_. At the present time king-crabs have
 a wide but discontinuous distribution. _Xiphosura_, of which there is
 but one species, _X. polyphemus_, ranges along the eastern side of North
-America from the coast of Maine to Yucatan. _Carcinoscorpius_, which is
+America from the coast of [[Maine]] to Yucatan. _Carcinoscorpius_, which is
 also represented by a single species, _C. rotundicauda_, extends from
-the Bay of Bengal to the coast of the Moluccas and the Philippines,
+the Bay of [[Bengal]] to the coast of the Moluccas and the Philippines,
 while of the two better-known species of _Tachypleus_, _T. gigas_ (=
 _moluccanus_) ranges from Singapore to Torres Straits, and _T.
-tridentatus_ from Borneo to southern Japan. A third species, _T.
+tridentatus_ from Borneo to southern [[Japan]]. A third species, _T.
 hoeveni_, has been recorded from the Moluccas. But although _Xiphosura_
 is now so widely sundered geographically from _Tachypleus_ and
 _Carcinoscorpius_, the occurrence of the remains of extinct species of
 king-crabs in Europe, both in Tertiary deposits and in Triassic,
-Jurassic and Cretaceous strata, suggests that there was formerly a
+[[Jurassic]] and Cretaceous strata, suggests that there was formerly a
 continuous coast-line, with tropical or temperate conditions, extending
 from Europe westward to America, and eastward to southern Asia. There
-are, however, no grounds for the assumption that the supposed coast-line
+are, however, no grounds for the [[Assumption|assumption]] that the supposed coast-line
 between America and Europe synchronized with that between Europe and
 south Asia. King-crabs do not appear to differ from each other in
 habits. Except in the breeding season they live in water ranging in
-depth from about two to six fathoms, and creep about the bottom or bury
+depth from about two to six [[Fathom|fathoms]], and creep about the bottom or [[Bury|bury]]
 themselves in the sand. Their food consists for the most part of soft
 marine worms, which are picked up in the nippers, thrust into the mouth,
 and masticated by the basal segments of the appendages between which the
@@ -64,26 +64,26 @@ nippers. No actual union between the sexes takes place, the spawn of the
 female being fertilized by the male at the time of being laid in the
 sand or soon afterwards. This act accomplished, the two retreat again
 into deeper water. Deposited in the mud or sand near high-water mark,
-the eggs are eventually hatched by the heat of the sun, to which they
+the [[Egg|eggs]] are eventually hatched by the heat of the sun, to which they
 are exposed every day for a considerable time. The newly hatched young
 is minute and subcircular in shape, but bears a close resemblance to its
 parents except in the absence of the caudal spine and in the presence of
 a fringe of stiff bristles round the margin of the body. During growth
 it undergoes a succession of moults, making its exit from the old
-integument through a wide split running round the edge of the carapace.
+integument through a wide split running round the edge of the [[Carapace|carapace]].
 Moulting is effected in exactly the same way in scorpions, Pedipalpi,
 and normally in spiders. The caudal spine appears at the second moult
 and gradually increases in length with successive changes of the skin.
 This organ is of considerable importance, since it enables the king-crab
 to right itself when overturned by rough water or other causes. Without
 it the animal would remain helpless like an upturned turtle, because it
-is unable to reach the ground with its legs when lying on its back.
+is unable to reach the ground with its [[Leg|legs]] when lying on its back.
 Before the tail is sufficiently developed to be used for that purpose,
 the young king-crab succeeds in regaining the normal position by
 flapping its flattened abdominal appendages and rising in the water by
-that means. The king-crab fishery is an industry of some importance in
-the United States, and in the East Indies the natives eat the animal and
-tip their lances and arrows with the caudal spine. They also use the
+that means. The king-crab [[Fishery|fishery]] is an industry of some importance in
+the United States, and in the [[East Indies]] the natives eat the animal and
+tip their [[Lance|lances]] and arrows with the caudal spine. They also use the
 hollow empty shell as a water-ladle or pan--hence the name "pan-fish" or
 "saucepan-crab" by which the animal is sometimes known. Fossil
 king-crabs have been recorded from strata of the Tertiary and Secondary
@@ -102,7 +102,7 @@ welded into a hexagonal shield.     (R. I. P.)
   3, _Prestwichia rotundata_, Coal M., Shropshire.
   4, _Prestwichia Birtwelli_, Coal M., Lancashire.
   5, _Neolimulus falcatus_, U. Silurian, Lanark.
-  6, _Hemiaspis limuloides_, L. Ludlow, Leintwardine, Shropshire.
+  6, _Hemiaspis limuloides_, L. [[Ludlow]], Leintwardine, Shropshire.
   7, _Pseudoniscus aculeatus_, U. Silurian, Russia.]
 
 ## See also

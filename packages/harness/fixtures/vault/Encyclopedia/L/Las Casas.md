@@ -1,7 +1,7 @@
 # Las Casas
 
 LAS CASAS, BARTOLOMÉ DE (1474-1566), for some time bishop of Chiapa in
-Mexico, and known to posterity as "The Apostle of the Indies," was a
+Mexico, and known to posterity as "The [[Apostle]] of the Indies," was a
 native of Seville. His father, one of the companions of Columbus in the
 voyage which resulted in the discovery of the New World, sent him to
 Salamanca, where he graduated. In 1498 he accompanied his father in an
@@ -10,7 +10,7 @@ Nicolás de Ovando, the governor, to Hayti, where in 1510 he was admitted
 to holy orders, being the first priest ordained in the American
 colonies. In 1511 he passed over to Cuba to take part in the work of
 "population and pacification," and in 1513 or 1514 he witnessed and
-vainly endeavoured to check the massacre of Indians at Caonao. Soon
+vainly endeavoured to check the [[Massacre|massacre]] of Indians at Caonao. Soon
 afterwards there was assigned to him and his friend Renteria a large
 village in the neighbourhood of Zagua, with a number of Indians attached
 to it in what was known as _repartimiento_ (allotment); like the rest of
@@ -37,7 +37,7 @@ retired to the Dominican monastery in Haiti; he joined the order in 1522
 and devoted eight years to study. About 1530 he appears to have
 revisited the Spanish court, but on what precise errand is not known;
 the confusion concerning this period of his life extends to the time
-when, after visits to Mexico, Nicaragua, Peru and Guatemala, he
+when, after visits to Mexico, Nicaragua, Peru and [[Guatemala]], he
 undertook an expedition in 1537 into Tuzulutlan, the inhabitants of
 which were, chiefly through his tact, peaceably converted to
 Christianity, mass being celebrated for the first time amongst them in
@@ -55,7 +55,7 @@ but was prevailed upon to accept that of Chiapa, for which he sailed in
 countrymen in his attempt to carry out the new laws which his humanity
 had procured, he returned to Spain and resigned his dignity (1547). In
 1550 he met Sepúlveda in public debate on the theses drawn from the
-recently published _Apologia pro libro de justis belli causis_, in which
+recently published _Apologia pro libro de justis [[Belli|belli]] causis_, in which
 the latter had maintained the lawfulness of waging unprovoked war upon
 the natives of the New World. The course of the discussion may be traced
 in the account of the _Disputa_ contained in the _Obras_ (1552). In 1565

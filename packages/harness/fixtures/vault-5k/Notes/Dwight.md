@@ -16,9 +16,9 @@ alphabet at a single lesson, and to have been able to read the Bible
 before he was four years old. In 1769 he graduated at Yale College, and
 then for two years taught in a grammar school at New Haven. He was a
 tutor in Yale College from 1771 to 1777; and then, having been licensed
-to preach, was a chaplain for a year in a regiment of troops engaged in
+to preach, was a [[Chaplain|chaplain]] for a year in a regiment of troops engaged in
 the War of Independence, inspiring the troops both by his sermons and by
-several stirring war songs, the most famous of which is "Columbia." From
+several stirring war songs, the most famous of which is "[[Columbia]]." From
 1778 until 1783 he lived at Northampton, studying, farming, preaching,
 and dabbling in politics. From 1783 until 1795 he was pastor of the
 Congregational church at Greenfield Hill, Connecticut, where he opened
@@ -57,7 +57,7 @@ His fifth son, SERENO EDWARDS DWIGHT (1786-1850), born in Greenfield
 Hill, Connecticut, graduated at Yale in 1803, was a tutor there in
 1806-1810, and successfully practised law in New Haven in 1810-1816.
 Licensed to preach in 1816, he was the chaplain of the United States
-Senate for one year, was pastor of the Park Street church, Boston, in
+Senate for one year, was pastor of the Park Street church, [[Boston]], in
 1817-1826, and in 1833-1835 was president of Hamilton College, Clinton,
 New York. His career was wrecked by accidental mercury poisoning, which
 interfered with his work in Boston and at Hamilton College, and made his
@@ -72,7 +72,7 @@ preacher.
 President Dwight's grandson, TIMOTHY DWIGHT (1828-   ), a famous
 preacher and educationalist, was born at Norwich, Connecticut, on the
 16th of November 1828. He graduated at Yale in 1849, continued his
-studies there and at Bonn and Berlin, was professor of sacred literature
+studies there and at [[Bonn]] and Berlin, was professor of sacred literature
 and New Testament Greek in the Yale Divinity School from 1858 to 1886,
 was licensed to preach in 1861, and from 1886 to 1899 was president of
 Yale, which during his administration greatly prospered and became in

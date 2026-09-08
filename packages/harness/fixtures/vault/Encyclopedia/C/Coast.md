@@ -7,13 +7,13 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Coast"
 
 # Coast
 
-COAST (from Lat. _costa_, a rib, side), the part of the land which meets
+COAST (from Lat. _[[Costa|costa]]_, a rib, side), the part of the land which meets
 the sea in a line of more or less regular form. The word is sometimes
 applied to the bank of a river or lake, and sometimes to a region (cf.
-Gold Coast, Coromandel Coast) which may include the hinterland. If the
+[[Gold Coast]], Coromandel Coast) which may include the [[Hinterland|hinterland]]. If the
 coast-line runs parallel to a mountain range, such as the Andes, it has
 usually a more regular form than when, as in the _rias_ coast of west
-Brittany, it crosses the crustal folds. Again, a recently elevated coast
+Brittany, it crosses the crustal [[Fold|folds]]. Again, a recently elevated coast
 is more regular than one that has been long exposed to wave action. A
 recently depressed coast will show the irregularities that were
 impressed upon the surface before submergence. Wave erosion and the
@@ -37,7 +37,7 @@ protected in the bays and re-entrants.
 COAST DEFENCE, a general term for the military and naval protection and
 defence of a coast-line, harbours, dockyards, coaling-stations, &c.,
 against serious attack by a strong naval force of the enemy,
-bombardment, torpedo boat or destroyer raids, hostile landing parties,
+[[Bombardment|bombardment]], torpedo boat or destroyer raids, hostile landing parties,
 or invasion by a large or small army. The principal means employed by
 the defender to cope with these and other forms of attack which may be
 expected in time of war or political crisis are described below. See
@@ -49,8 +49,8 @@ service.
 No system of coast defence is of any value which does not take full
 account of the general distribution of sea-power and the resultant
 strength of the possible hostile forces. By resultant strength is meant
-the balance of one side over the other, for it is now generally regarded
-as an axiom that two opposing fleets must make their main effort in
+the [[Balance|balance]] of one side over the other, for it is now generally regarded
+as an [[Axiom|axiom]] that two opposing fleets must make their main effort in
 seeking one another, and that the force available for attack on coast
 defences will be either composed of such ships as can be spared from the
 main engagement, or the remnant of the hostile fleet after it has been
@@ -65,7 +65,7 @@ the naval view of what was a suitable naval strength. Public opinion has
 since been educated to a better appreciation of the necessity for a
 strong navy, and, as the British navy has increased, the scale of coast
 defences required has necessarily waned. Such a change of opinion is
-always gradual, and it is difficult to name an exact date on which it
+always [[Gradual|gradual]], and it is difficult to name an exact date on which it
 may be said that modern coast defence, as practised by British
 engineers, first began.
 
@@ -73,7 +73,7 @@ An approximation may, however, be made by taking the bombardment of
 Alexandria (1881) as being the parting of the ways between the old and
 the modern school. At that time the British navy, and in fact all other
 navies, had not really emerged from the stage of the wooden battleships.
-Guns were still muzzle-loaders, arranged mainly in broadsides, and
+Guns were still muzzle-loaders, arranged mainly in [[Broadside|broadsides]], and
 protected by heavy armour; sails were still used as means of propulsion;
 torpedoes, net defence, signalling, and search-lights quite undeveloped.
 
@@ -82,7 +82,7 @@ guns were muzzle-loaders, arranged in long batteries like a broadside,
 often in two tiers. The improvement of rifled ordnance had called for
 increased protection, and this was found first by solid constructions of
 granite, and latterly by massive iron fronts. Examples of these remain
-in Garrison Fort, Sheerness, and in Hurst Castle at the west end of the
+in [[Garrison]] Fort, Sheerness, and in [[Hurst]] Castle at the west end of the
 Solent. The range of guns being then relatively short, it was necessary
 to place forts at fairly close intervals, and where the channels to be
 defended could not be spanned from the shore, massive structures with
@@ -96,7 +96,7 @@ applications of old principles, by showing the value of concealment and
 dispersion in reducing the effect of the fire of the fleet. On the old
 system, two ships firing at one another or ships firing at an
 iron-fronted fort shot "mainly into the brown"; if they missed the gun
-aimed at, one to the right or left was likely to be hit; if they missed
+aimed at, one to the right or left was likely to be [[Hit|hit]]; if they missed
 the water-line, the upper works were in danger. At Alexandria, however,
 the Egyptian guns were scattered over a long line of shore, and it was
 soon found that with the guns and gunners available, hits could only be
@@ -127,7 +127,7 @@ the objective.
 
 Another change resulted from an improvement in the method of mounting.
 Even in the older days discussion had arisen freely on the relative
-merits of barbette and casemate mounting. In the former the gun fires
+merits of [[Barbette|barbette]] and [[Casemate|casemate]] mounting. In the former the gun fires
 over a parapet, giving a larger field of view to the gun-layer, and a
 larger field of fire for the gun, with, however, more exposure for the
 detachment. The latter gives a restricted view and greater safety to the
@@ -181,7 +181,7 @@ type of defence adopted, and the duties which the forts had to fulfil.
 These duties may be said to be twofold, first to facilitate the service
 of the guns, and secondly to protect the guns and their detachments from
 damage by fire from ships, or by close attack from landing parties. The
-service of the gun is provided for by a system of cartridge and shell
+service of the gun is provided for by a system of [[Cartridge|cartridge]] and shell
 magazines (see AMMUNITION), well protected from fire and suitably
 arranged. The shelters for the gun detachments must be bomb-proof and
 fitted with some arrangements for comfort and sanitation. Formerly it
@@ -192,8 +192,8 @@ by a few caretakers. The shelters in the fort itself can thus be kept at
 the minimum required when actually manning the guns. The protection of
 the guns and magazines against bombardment is provided, in the British
 service, mainly by an earthen parapet over a substantial roof or wall of
-concrete, but immediately round the gun an "apron" of concrete is
-necessary to withstand the shock of discharge or "blast."
+concrete, but immediately round the gun an "[[Apron|apron]]" of concrete is
+necessary to withstand the shock of [[Discharge|discharge]] or "blast."
 
 It has been already mentioned that in the old designs a large number of
 guns was put in each fort, but with dispersion and improved gun power
@@ -260,15 +260,15 @@ telescope of the instrument, draws on a chart the track of the ship, so
 that the exact bearing and distance of the latter can be ascertained at
 any time and communicated to the guns by electrical and other dials, &c.
 The position-finder may be some distance from the guns it serves, and
-connected with them by electric cable. The guns can then be placed well
+connected with them by electric [[Cable|cable]]. The guns can then be placed well
 under cover and in many cases out of sight of the target, giving a
 measure of protection which cannot be obtained with any system of direct
 laying over sights. This instrument has been applied on a high site to
 control guns placed low, or where guns are so placed as to be liable to
-obscuration by fog or mist the position-finder can be placed below the
+obscuration by [[Fog|fog]] or mist the position-finder can be placed below the
 fog-line. In either case direct laying is provided for as an
 alternative. In some defences batteries equipped with old pattern 9-in.
-muzzle-loading guns, mounted as howitzers for long-range firing, have
+muzzle-loading guns, mounted as [[Howitzer|howitzers]] for long-range firing, have
 been placed in folds in the ground so as to be quite invisible from the
 sea and therefore invulnerable. Such batteries are fought entirely by
 the position-finder.
@@ -296,7 +296,7 @@ inner waters, and secondly by placing in the entrance and under the fire
 of the main gun defence some form of obstruction to detain ships under
 fire. This obstruction can be _passive_ (booms, chains, rows of piles or
 sunken ships) or _active_ (mines or torpedoes). Passive obstructions are
-only effective against comparatively small craft, and at important ports
+only effective against comparatively small [[Craft|craft]], and at important ports
 mines are the only efficient obstruction which can be used against large
 vessels.
 
@@ -348,7 +348,7 @@ mountings--of which the most important has been the substitution of
 barbette mounting and shield for the recoil mounting described
 above--this system held the field up to 1905, when, partly as a result
 of the experience of the Russo-Japanese War, and partly owing to the
-alteration of the naval balance of power due to the destruction of the
+alteration of the naval [[Balance Of Power|balance of power]] due to the destruction of the
 Russian fleet, both the scale and system of defence were very
 considerably modified.
 
@@ -366,13 +366,13 @@ clear weather such an attack would have little chance of success, also
 that in no circumstances would torpedo boats be able to damage fixed
 defences. Their best chance was attack by night, and the only form of
 attack was that referred to above as "running past," that is, an attempt
-to evade the defences and to attack ships or docks inside. The light
+to evade the defences and to attack ships or [[Dock|docks]] inside. The light
 draught of torpedo boats and their comparative invisibility favoured
 this form of attack.
 
-To meet it the first requirement was some form of illumination of the
+To meet it the first requirement was some form of [[Illumination|illumination]] of the
 defended channel. Experiments in the attack and defence of defended
-harbours took place at Gosport in 1879 and 1880, at Milford Haven in
+harbours took place at [[Gosport]] in 1879 and 1880, at Milford Haven in
 1885, at Berehaven (by the royal navy) in 1886, at Langston Harbour in
 1887, and a series at the Needles entrance of the Isle of Wight up to
 1892. During the course of these experiments various methods of
@@ -388,7 +388,7 @@ recrossing have a very confusing effect, with the consequent risk that a
 proportion of the attacking vessels may slip through unnoticed.
 
 An alternative method of using electric lights is to arrange the
-projector so that the light comes out in a fan (generally of 30°
+projector so that the light comes out in a [[Fan|fan]] (generally of 30°
 divergence). Two or three such lights are usually placed side by side,
 forming an illuminated fan of considerable divergence. These fans are
 now used for the main defence, with in front of them one or more
@@ -405,7 +405,7 @@ lights.
 
 A small quick-firing gun using smokeless powder was seen to be a
 necessity. At first the 6-pounder was adopted as the stock size
-supplemented by machine guns for close range, but soon afterwards it
+supplemented by [[Machine|machine]] guns for close range, but soon afterwards it
 became necessary to reconsider the scale of anti-torpedo boat defences,
 owing first to the increased size of first-class torpedo boats, and
 secondly to the introduction of a new type of vessel, the torpedo boat
@@ -445,7 +445,7 @@ obstacle had been designed in the early days by the Royal Engineers and
 took the form of a "boom" of baulks of timber secured by chains. Such
 booms were limited in size by considerations of expense and were only
 partially successful. About 1892 the British navy took the matter up and
-began experiments on a larger scale, substituting wire hawsers for
+began experiments on a larger scale, substituting wire [[Hawser|hawsers]] for
 chains and using old gunboats to divide the booms up into sections of
 convenient length. The result was that booms were definitely adopted as
 an adjunct of coast defence. Their place is behind the lighted area, but
@@ -474,7 +474,7 @@ communication has been established. This may be considered under the
 three heads of (1) orders, (2) intelligence, (3) administration.
 
 The communication of _orders_ follows the organization adopted for the
-whole fortress. Each fortress is commanded by a fortress commander, who
+whole fortress. Each fortress is commanded by a fortress [[Commander|commander]], who
 has a suitable staff. This officer sends orders to commanders of
 artillery, engineers, and infantry. The artillery officer in charge of a
 group of batteries is called a "fire commander"; his command is
@@ -507,7 +507,7 @@ alarm circuit, mainly for use in case of torpedo boat attack.
 
 The _administrative_ system of telephones is used for daily routine
 messages. These usually take the form of telephone lines radiating from
-a central exchange. In many stations the same lines may be used for
+a central [[Exchange|exchange]]. In many stations the same lines may be used for
 command and administration, or intelligence and command, but at the
 larger stations each class of line is kept distinct.     (W. B. B.)
 

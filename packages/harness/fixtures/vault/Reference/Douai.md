@@ -7,14 +7,14 @@ type: article
 
 # Douai
 
-DOUAI, a town of northern France, capital of an arrondissement in the
+DOUAI, a town of northern France, capital of an [[Arrondissement|arrondissement]] in the
 department of Nord, 20 m. S. of Lille on the Northern railway between
-that city and Cambrai. Pop. (1906) town, 21,679; commune, 33,247. Douai
+that city and [[Cambrai]]. Pop. (1906) town, 21,679; [[Commune|commune]], 33,247. Douai
 is situated in a marshy plain on the banks of the Scarpe which
 intersects the town from south to north, and supplies water to a canal
 skirting it on the west. The old fortifications, of which the Porte de
 Valenciennes (15th century) is the chief survival, have been demolished
-to make room for boulevards and public gardens. The industrial towns of
+to make room for [[Boulevard|boulevards]] and public gardens. The industrial towns of
 Dorignies, Sin-le-Noble and Aniche are practically suburbs of Douai. Of
 the churches, that of Notre-Dame (12th and 14th centuries) is remarkable
 for the possession of a fine altarpiece of the early 16th century,
@@ -27,23 +27,23 @@ There is a statue of Madame Desbordes Valmore, the poet (d. 1859), a
 native of the town. The municipal museum contains a library of over
 85,000 volumes as well as 1800 MSS., and a fine collection of sculpture
 and paintings. Douai is the seat of a court of appeal, a court of
-assizes and a subprefect, and has a tribunal of first instance, a board
-of trade-arbitrators, an exchange, a chamber of commerce and a branch of
+[[Assize|assizes]] and a subprefect, and has a tribunal of first instance, a board
+of trade-arbitrators, an [[Exchange|exchange]], a chamber of commerce and a branch of
 the Bank of France. Its educational institutions include a lycée,
 training colleges, a school of mines, an artillery school, schools of
 music, agriculture, drawing, architecture, &c., and a national school
 for instruction in brewing and other industries connected with
-agriculture. In addition to other iron and engineering works, Douai has
-a large cannon foundry and an arsenal; coal-mining and the manufacture
+agriculture. In addition to other iron and [[Engineering|engineering]] works, Douai has
+a large [[Cannon|cannon]] foundry and an arsenal; coal-mining and the manufacture
 of glass and bottles and chemicals are carried on a large scale in the
 environs; among the other industries are flax-spinning, rope-making,
-brewing and the manufacture of farm implements, oil, sugar, soap and
+brewing and the manufacture of farm [[Implement|implements]], oil, sugar, soap and
 leather. Trade, which is largely water-borne, is in grain and
 agricultural products, coal and building material.
 
 Douai, the site of which was occupied by a castle (_Castrum Duacense_)
 as early as the 7th century, belonged in the middle ages to the counts
-of Flanders, passed in 1384 to the dukes of Burgundy, and so in 1477
+of [[Flanders]], passed in 1384 to the [[Dukes|dukes]] of Burgundy, and so in 1477
 with the rest of the Netherlands to Spain. In 1667 it was captured by
 Louis XIV., and was ultimately ceded to France by the treaty of Utrecht
 in 1713. Historically Douai is mainly important as the centre of the

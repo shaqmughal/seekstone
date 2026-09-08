@@ -4,7 +4,7 @@ CAESALPINUS (CESALPINO), ANDREAS (1519-1603), Italian natural philosopher,
 was born in Arezzo in Tuscany in 1519. He studied anatomy and medicine at
 the university of Pisa, where he took his doctor's degree in 1551, and in
 1555 became professor materia medica and director of the botanical garden.
-Appointed physician to Pope Clement VIII., he removed in 1592 to Rome,
+Appointed physician to Pope [[Clement]] VIII., he removed in 1592 to Rome,
 where he died on the 23rd of February 1603. Caesalpinus was the most
 distinguished botanist of his time. His work, _De Plantis libri xvi._
 (Florence, 1583), was not only the source from which various subsequent
@@ -17,7 +17,7 @@ generic names to nearly every species, and particularly indicated the two
 remarkable passages where the germination of plants and their sexual
 distinctions are explained. Caesalpinus was also distinguished as a
 physiologist, and it has been claimed that he had a clear idea of the
-circulation of the blood (see HARVEY, WILLIAM). His other works include
+circulation of the blood (see [[Harvey|HARVEY]], WILLIAM). His other works include
 _Daemonum investigatio peripatetica_ (1580), _Quaestionum medicarum libri
 ii._ (1593), _De Metallicis_ (1596), and _Quaestionum peripateticarum libri
 v._ (1571)

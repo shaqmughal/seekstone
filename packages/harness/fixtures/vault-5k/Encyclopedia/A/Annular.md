@@ -9,7 +9,7 @@ type: article
 
 ANNULAR, ANNULATE, &c. (Lat. _annulus_, a ring), ringed. "Annulate" is
 used in botany and zoology in connexion with certain plants, worms, &c.
-(see ANNELIDA), either marked with rings or composed of ring-like
+(see [[Annelida|ANNELIDA]]), either marked with rings or composed of ring-like
 segments. The word "annulated" is also used in, heraldry and
 architecture. An annulated cross is one with the points ending in an
 "annulet" (an heraldic ring, supposed to be taken from a coat of mail),

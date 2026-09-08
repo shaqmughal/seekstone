@@ -13,16 +13,16 @@ writer, son of Sir Henry St John, Bart. (afterwards 1st Viscount St
 John, a member of a younger branch of the family of the earls of
 Bolingbroke and barons St John of Bletso), and of Lady Mary Rich,
 daughter of the 2nd earl of Warwick, was baptized on the 10th of October
-1678, and was educated at Eton. He travelled abroad during 1698 and 1699
+1678, and was educated at [[Eton]]. He travelled abroad during 1698 and 1699
 and acquired an exceptional knowledge of French. The dissipation and
 extravagance of his youth exceeded all limits and surprised his
 contemporaries. He spent weeks in riotous orgies and outdrank the most
 experienced drunkards. An informant of Goldsmith saw him once "run naked
-through the park in a state of intoxication." Throughout his career he
+through the park in a state of [[Intoxication|intoxication]]." Throughout his career he
 desired, says Swift, his intimate friend, to be thought the Alcibiades
 or Petronius of his age, and to mix licentious orgies with the highest
-political responsibilities.[1] In 1700 he married Frances, daughter of
-Sir Henry Winchcombe, Bart., of Bucklebury, Berkshire, but matrimony
+political responsibilities.[1] In 1700 he married [[Franc|Frances]], daughter of
+Sir Henry Winchcombe, Bart., of Bucklebury, Berkshire, but [[Matrimony|matrimony]]
 while improving his fortune did not redeem his morals.
 
 He was returned to parliament in 1701 for the family borough of Wootton
@@ -31,14 +31,14 @@ Harley (afterwards Lord Oxford), then speaker, whom he now addressed as
 "dear master," and distinguished himself by his eloquence in debate,
 eclipsing his schoolfellow, Walpole, and gaining an extraordinary
 ascendancy over the House of Commons. In May he had charge of the bill
-for securing the Protestant succession; he took part in the impeachment
+for securing the Protestant succession; he took part in the [[Impeachment|impeachment]]
 of the Whig lords for their conduct concerning the Partition treaties,
 and opposed the oath abjuring the Pretender. In March 1702 he was chosen
 commissioner for taking the public accounts. After Anne's accession he
 supported the bills in 1702 and 1704 against occasional conformity, and
 took a leading part in the disputes which arose between the two Houses.
 In 1704 St John took office with Harley as secretary at war, thus being
-brought into intimate relations with Marlborough, by whom he was treated
+brought into intimate relations with [[Marlborough]], by whom he was treated
 with paternal partiality. In 1708 he quitted office with Harley on the
 failure of the latter's intrigue, and retired to the country till 1710,
 when he became a privy councillor and secretary of state in Harley's new
@@ -61,27 +61,27 @@ English interests. In May 1712 St John ordered the duke of Ormonde, who
 had succeeded Marlborough in the command, to refrain from any further
 engagement. These instructions were communicated to the French, though
 not to the allies, Louis putting Dunkirk as security into possession of
-England, and the shameful spectacle was witnessed of the desertion by
+England, and the shameful spectacle was witnessed of the [[Desertion|desertion]] by
 the English troops of their allies almost on the battlefield.
 Subsequently St John received the congratulations of the French
 minister, Torcy, on the occasion of the French victory over Prince
-Eugene at Denain.
+Eugene at [[Denain]].
 
 In August St John, who had on the 7th of July been created Viscount
 Bolingbroke and Baron St John of Lydiard Tregoze, went to France to
-conduct negotiations, and signed an armistice between England and France
+conduct negotiations, and signed an [[Armistice|armistice]] between England and France
 for four months on the 19th. Finally the treaty of Utrecht was signed on
 the 31st of March 1713 by all the allies except the emperor. The first
 production of Addison's _Cato_ was made by the Whigs the occasion of a
 great demonstration of indignation against the peace, and by Bolingbroke
-for presenting the actor Booth with a purse of fifty guineas for
-"defending the cause of liberty against a perpetual dictator"
+for presenting the actor [[Booth]] with a purse of fifty guineas for
+"defending the cause of liberty against a perpetual [[Dictator|dictator]]"
 (Marlborough). In the terms granted to England there was perhaps little
 to criticize. But the manner of the peacemaking, which had been carried
 on by a series of underhand conspiracies with the enemy instead of by
 open conferences with the allies, and was characterized throughout by a
-violation of the most solemn international assurances, left a deep and
-lasting stain upon the national honour and credit; and not less
+violation of the most solemn [[International|international]] assurances, left a deep and
+lasting stain upon the national honour and [[Credit|credit]]; and not less
 dishonourable was the abandonment of the Catalans by the treaty. For all
 this Bolingbroke must be held primarily responsible. In June his
 commercial treaty with France, establishing free trade with that
@@ -97,7 +97,7 @@ Swift came to London, and made a last but vain attempt to reconcile his
 two friends. But now a further cause of difference had arisen. The
 queen's health was visibly breaking, and the Tory ministers could only
 look forward to their own downfall on the accession of the elector of
-Hanover. Both Oxford[2] and Bolingbroke had maintained for some time
+[[Hanover]]. Both Oxford[2] and Bolingbroke had maintained for some time
 secret communications with James, and promised their help in restoring
 him at the queen's death. The aims of the former, prudent,
 procrastinating and vacillating by nature, never extended probably
@@ -106,12 +106,12 @@ imagine that Bolingbroke could have really advocated the Pretender's
 recall, whose divine right he repudiated and whose religion and
 principles he despised. Nevertheless, whatever his chief motive may have
 been, whether to displace Oxford as leader of the party, to strengthen
-his position and that of the faction in order to dictate terms to the
+his position and that of the [[Faction|faction]] in order to dictate terms to the
 future king, or to reinstate James, Bolingbroke, yielding to his more
 impetuous and adventurous disposition, went much further than Oxford.
 It is possible to suppose a connexion between his zeal for making peace
 with France and a desire to forward the Pretender's interests or win
-support from the Jacobites.[3] During his diplomatic mission to France
+support from the [[Jacobites]].[3] During his diplomatic mission to France
 he had incurred blame for remaining at the opera while the Pretender was
 present,[4] and according to the Mackintosh transcripts he had several
 secret interviews with him. Regular communications were kept up
@@ -120,20 +120,20 @@ to Torcy, the French foreign minister in Paris, the substance of two
 long conversations with Bolingbroke in which the latter advised patience
 till after the accession of George, when a great reaction was to be
 expected in favour of the Pretender. At the same time he spoke of the
-treachery of Marlborough and Berwick, and of one other, presumably
+treachery of Marlborough and [[Berwick]], and of one other, presumably
 Oxford, whom he refused to name, all of whom were in communication with
 Hanover.[5] Both Oxford and Bolingbroke warned James that he could have
 little chance of success unless he changed his religion, but the
 latter's refusal (March 13) does not appear to have stopped the
 communications. Bolingbroke gradually superseded Oxford in the
-leadership. Lady Masham, the queen's favourite, quarrelled with Oxford
+leadership. Lady [[Masham]], the queen's favourite, quarrelled with Oxford
 and identified herself with Bolingbroke's interests. The harsh treatment
 of the Hanoverian demands was inspired by him, and won favour with the
 queen, while Oxford's influence declined; and by his support of the
 Schism Bill in May 1714, a violent Tory measure forbidding all education
-by dissenters by making an episcopal licence obligatory for
+by [[Dissenter|dissenters]] by making an episcopal licence obligatory for
 schoolmasters, he probably intended to compel Oxford to give up the
-game. Finally, a charge of corruption brought by Oxford in July against
+[[Game|game]]. Finally, a charge of corruption brought by Oxford in July against
 Bolingbroke and Lady Masham, in connexion with the commercial treaty
 with Spain, failed, and the lord treasurer was dismissed or retired on
 the 27th of July.
@@ -151,16 +151,16 @@ According to Herville, the French envoy, Bolingbroke declared to him
 that in six weeks he could have secured everything. Nevertheless the
 exact nature of his projects remains obscure. It is probable that his
 statement in his letter to Windham that "none of us had any very settled
-resolution" is true, though his declaration in the _Patriot King_ that
+resolution" is true, though his [[Declaration|declaration]] in the _Patriot King_ that
 "there were no designs on foot ... to place the crown on the head of the
 Pretender" is a palpable falsehood. His great object was doubtless to
 gain supreme power and to keep it by any means, and by any betrayal that
 the circumstances demanded; and it is not without significance perhaps
-that on the very day of Oxford's dismissal he gave a dinner to the Whig
+that on the very day of Oxford's dismissal he gave a [[Dinner|dinner]] to the Whig
 leaders, and on the day preceding the queen's death ordered overtures to
 be made to the elector.[6]
 
-On the accession of George I. the illuminations and bonfire at Lord
+On the accession of George I. the [[Illumination|illuminations]] and bonfire at Lord
 Bolingbroke's house in Golden Square were "particularly fine and
 remarkable,"[7] but he was immediately dismissed from office. He retired
 to Bucklebury and is said to have now written the answer to the _Secret
@@ -168,8 +168,8 @@ History of the White Staff_ accusing him of Jacobitism. In March 1715 he
 in vain attempted to defend the late ministry in the new parliament; and
 on the announcement of Walpole's intended attack upon the authors of the
 treaty of Utrecht he fled in disguise (March 28, 1715) to Paris, where
-he was well received, after having addressed a letter to Lord Lansdowne
-from Dover protesting his innocence and challenging "the most
+he was well received, after having addressed a letter to Lord [[Lansdowne]]
+from [[Dover]] protesting his innocence and challenging "the most
 inveterate of his enemies to produce any instance of his criminal
 correspondence." Bolingbroke in July entirely identified himself with
 the interests of the Pretender, whose secretary he became, and on the
@@ -192,11 +192,11 @@ refused to betray any secrets or any individuals. He wrote his
 _Reflexions upon Exile_, and in 1717 his letter to Sir W. Windham in
 explanation of his position, generally considered one of his finest
 compositions, but not published till 1753 after his death. The same year
-he formed a liaison with Marie Claire Deschamps de Marcilly, widow of
+he formed a liaison with Marie Claire [[Deschamps]] de Marcilly, widow of
 the marquis de Villette, whom he married in 1720 after the death in 1718
 of Lady Bolingbroke, whom he had treated with cruel neglect. He bought
 and resided at the estate of La Source near Orleans, studied philosophy,
-criticized the chronology of the Bible, and was visited amongst others
+criticized the [[Chronology|chronology]] of the Bible, and was visited amongst others
 by Voltaire, who expressed unbounded admiration for his learning and
 politeness. In 1723, through the medium of the king's mistress, the
 duchess of Kendal, he at last received his pardon, returned to London in
@@ -238,7 +238,7 @@ large majority.
 
 Bolingbroke retired baffled and disappointed from the fray to France in
 June, residing principally at the chateau of Argeville near
-Fontainebleau. He now wrote his _Letters on the Study of History_
+[[Fontainebleau]]. He now wrote his _Letters on the Study of History_
 (printed privately before his death and published in 1752), and the
 _True Use of Retirement_. In 1738 he visited England, became one of the
 leading friends and advisers of Frederick, prince of Wales, who now
@@ -248,18 +248,18 @@ _The State of Parties at the Accession of George I._, were entrusted to
 Pope and not published. Having failed, however, to obtain any share in
 politics, he returned to France in 1739, and subsequently sold Dawley.
 In 1742 and 1743 he again visited England and quarrelled with Warburton.
-In 1744 he settled finally at Battersea with his friend Hugh Hume, 3rd
-earl of Marchmont, and was present at Pope's death in May. The discovery
+In 1744 he settled finally at [[Battersea]] with his friend Hugh Hume, 3rd
+earl of [[Marchmont]], and was present at Pope's death in May. The discovery
 that the poet had printed secretly 1500 copies of _The Patriot King_
 caused him to publish a correct version in 1749, and stirred up a
 further altercation with Warburton, who defended his friend against
 Bolingbroke's bitter aspersions, the latter, whose conduct was generally
-reprehended, publishing a _Familiar Epistle to the most Impudent Man
+reprehended, publishing a _Familiar [[Epistle]] to the most Impudent Man
 Living_. In 1744 he had been very busy assisting in the negotiations for
 the establishment of the new "broad bottom" administration, and showed
 no sympathy for the Jacobite expedition in 1745. He recommended the
 tutor for Prince George, afterwards George III. About 1749 he wrote the
-_Present State of the Nation_, an unfinished pamphlet. Lord Chesterfield
+_Present State of the Nation_, an unfinished pamphlet. Lord [[Chesterfield]]
 records the last words heard from him: "God who placed me here will do
 what He pleases with me hereafter and He knows best what to do." He died
 on the 12th of December 1751, his wife having predeceased him in 1750.
@@ -275,7 +275,7 @@ indeed derived their political ideas from _The Patriot King_, but the
 influence which he is said to have exercised upon Voltaire, Gibbon and
 Burke is very problematical. Burke wrote his _Vindication of Natural
 Society_ in imitation of Bolingbroke's style, but in refutation of his
-principles; and in the _Reflections on the French Revolution_ he
+principles; and in the _Reflections on the [[French Revolution]]_ he
 exclaims, "Who now reads Bolingbroke, who ever read him through?" Burke
 denies that Bolingbroke's words left "any permanent impression on his
 mind." Bolingbroke's conversation, described by Lord Chesterfield as
@@ -303,7 +303,7 @@ Voltairian superficiality Bolingbroke's manner of life, which was
 throughout uninspired by any great ideas or principles and thoroughly
 false and superficial. Though a libertine and a free-thinker, he had
 championed the most bigoted and tyrannical high-church measures. His
-diplomacy had been subordinated to party necessities. He had supported
+[[Diplomacy|diplomacy]] had been subordinated to party necessities. He had supported
 by turns and simultaneously Jacobite and Hanoverian interests. He had
 only conceived the idea of _The Patriot King_ in the person of the
 worthless Frederick in order to stir up sedition, while his eulogies on
@@ -311,7 +311,7 @@ retirement and study were pronounced from an enforced exile. He only
 attacked party government because he was excluded from it, and only
 railed at corruption because it was the corruption of his antagonists
 and not his own. His public life presents none of those acts of devotion
-and self-sacrifice which often redeem a career characterized by errors,
+and self-sacrifice which often redeem a career characterized by [[Error|errors]],
 follies and even crimes.
 
 One may deplore his unfortunate history and wasted genius, but it is
@@ -327,15 +327,15 @@ descended.
   the Folly and Presumption of Philosophers_, _On the Rise and Progress
   of Monotheism_, and _On Authority in Matters of Religion_, were first
   published in Mallet's faulty edition in 1754,--according to Johnson's
-  well-known denunciation, "the blunderbuss charged against religion and
+  well-known denunciation, "the [[Blunderbuss|blunderbuss]] charged against religion and
   morality,"--and subsequently in 1778, 1809 and 1841. _A Collection of
   Political Tracts_ by Bolingbroke was published in 1748. His _Letters_
-  were published by G. Parke in 1798, and by Grimoard, _Lettres
+  were published by G. Parke in 1798, and by [[Grimoard]], _Lettres
   historiques, politiques, philosophiques, &c._, in 1808; for others see
   Pope's and Swift's _Correspondence_; W. Coxe's _Walpole_; Phillimore's
-  _Life of Lyttelton_; _Hardwick State Papers_, vol. ii.; _Marchmont
+  _Life of [[Lyttelton]]_; _Hardwick State Papers_, vol. ii.; _Marchmont
   Papers_, ed. by Sir G.H. Rose (1831); Letters to Lord Chancellor
-  Hardwicke in _Add. MSS. Brit. Museum_ (see Index, 1894-1899), mostly
+  Hardwicke in _Add. MSS. Brit. Museum_ (see [[Index]], 1894-1899), mostly
   transcribed by W. Sichel; _Hist. MSS. Comm., MSS. of Marquis of Bath,
   Duke of Portland at Welbeck_; while a further collection of his
   letters relating to the treaty of Utrecht is in the British Museum.
@@ -344,12 +344,12 @@ descended.
   ii. 456, 249.
 
   A life of Bolingbroke appeared in his lifetime about 1740, entitled
-  _Authentic Memoirs_ (in the Grenville Library, Brit. Mus.), which
+  _[[Authentic]] Memoirs_ (in the [[Grenville]] Library, Brit. Mus.), which
   recounted his escapades; other contemporary accounts were published in
   1752 and 1754, and a life by Goldsmith in 1770. Of the more modern
   biographies may be noted that in the _Dict. of Nat. Biog._ by Sir
-  Leslie Stephen, 1897; by C. de Remusat in _L'Angleterre au 18me
-  siecle_ (1856), vol. i.; by T. Macknight (1863); by J. Churton Collins
+  [[Leslie]] Stephen, 1897; by C. de Remusat in _L'Angleterre au 18me
+  siecle_ (1856), vol. i.; by T. Macknight (1863); by J. Churton [[Collins]]
   (1886); by A. Hassall (1889); and by Walter Sichel (1901-1902),
   elaborate and brilliant, but unduly eulogistic.     (P. C. Y.)
 

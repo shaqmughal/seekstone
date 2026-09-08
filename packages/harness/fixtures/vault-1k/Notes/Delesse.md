@@ -11,7 +11,7 @@ as _ingenieur des mines_ he investigated and described various new
 minerals; he proceeded afterwards to the study of rocks, devising new
 methods for their determination, and giving particular descriptions of
 melaphyre, arkose, porphyry, syenite, &c. The igneous rocks of the
-Vosges, and those of the Alps, Corsica, &c., and the subject of
+Vosges, and those of the Alps, [[Corsica]], &c., and the subject of
 metamorphism occupied his attention. He also prepared in 1858 geological
 and hydrological maps of Paris--with reference to the underground water,
 similar maps of the departments of the Seine and Seine-et-Marne, and an
@@ -25,7 +25,7 @@ accumulated beneath the sea were of special interest and importance. His
 separate publications were: _Recherches sur l'origine des roches_
 (Paris, 1865); _Etude sur le metamorphisme des roches_ (1869);
 _Lithologie des mers de France et des mers principales du globe_ (2
-vols. and atlas, 1871). He died at Paris on the 24th of March 1881.
+vols. and [[Atlas|atlas]], 1871). He died at Paris on the 24th of March 1881.
 
 ## See also
 

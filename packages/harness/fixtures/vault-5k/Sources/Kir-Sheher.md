@@ -17,7 +17,7 @@ hot chalybeate spring. Population about 9000 (700 Christians, mostly
 Armenians). Kir-sheher represents the ancient _Mocissus_, a small town
 which became important in the Byzantine period: it was enlarged by the
 emperor Justinian, who re-named it _Justinianopolis_, and made it the
-capital of a large division of Cappadocia, a position it still retains.
+capital of a large division of [[Cappadocia]], a position it still retains.
 
 ## See also
 

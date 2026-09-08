@@ -16,7 +16,7 @@ built, with wide streets, some of them lined with trees, and is a
 wealthy town, which has become an industrial centre for the region
 especially on account of its steam flour-mills, in which it is second
 only to Odessa, its distilleries, mechanical workshops, tobacco and
-tallow factories and brickworks. It is an important centre for trade in
+tallow factories and [[Brickwork|brickworks]]. It is an important centre for trade in
 cereals and flour for export, and in sheep, cattle, wool, leather and
 timber. Five fairs are held annually. It has a military school, a
 first-class meteorological station and a botanical garden. The town was

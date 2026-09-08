@@ -7,7 +7,7 @@ type: reference
 
 # Flood Plain
 
-FLOOD PLAIN, the term in physical geography for a plain formed of
+FLOOD PLAIN, the term in physical [[Geography|geography]] for a plain formed of
 sediment dropped by a river. When the slope down which a river runs has
 become very slight, it is unable to carry the sediment brought from
 higher regions nearer its source, and consequently the lower portion of
@@ -31,9 +31,9 @@ and indeed anything which checks a river's course and causes it to drop
 its load will tend to form a flood plain; but it is most commonly found
 near the mouth of a large river, such as the Rhine, the Nile, or the
 Mississippi, where there are occasional floods and the river usually
-carries a large amount of sediment. "Levees" are formed, inside which
+carries a large amount of sediment. "[[Levee|Levees]]" are formed, inside which
 the river usually flows, gradually raising its bed above the surrounding
-plain. Occasional breaches during floods cause the overloaded stream to
+plain. Occasional [[Breach|breaches]] during floods cause the overloaded stream to
 spread in a great lake over the surrounding country, where the silt
 covers the ground in consequence. Sections of the Missouri flood plain
 made by the United States geological survey show a great variety of

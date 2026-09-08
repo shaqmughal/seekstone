@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Maes"
 
 # Maes
 
-MAES, NICOLAS (1632-1693), Dutch painter, was born at Dordrecht, and
+MAES, NICOLAS (1632-1693), Dutch painter, was born at [[Dordrecht]], and
 went about 1650 to Amsterdam, where he entered Rembrandt's studio.
 Before his return to Dordrecht in 1654 Maes painted a few Rembrandtesque
 genre pictures, with life-size figures and in a deep glowing scheme of
@@ -23,7 +23,7 @@ colour he had learnt from Rembrandt. Only on rare occasions did he treat
 scriptural subjects, as in the earl of Denbigh's "Hagar's Departure,"
 which has been ascribed to Rembrandt. His favourite subjects were women
 spinning, or reading the Bible, or preparing a meal. In 1665 he went to
-Antwerp, where he remained till 1678, in which year he probably returned
+[[Antwerp]], where he remained till 1678, in which year he probably returned
 to Amsterdam. His Antwerp period coincides with a complete change in
 style and subject. He devoted himself almost exclusively to portraiture,
 and abandoned the intimacy and glowing colour harmonies of his earlier
@@ -36,7 +36,7 @@ Amsterdam, besides the splendid examples to be found at the Ryks Museum,
 is the "Inquisitive Servant" of the Six collection. At Buckingham Palace
 is "The Listening Girl" (repetitions exist), and at Apsley House
 "Selling Milk" and "The Listener." Other notable examples are at the
-Berlin, Brussels, St Petersburg, the Hague, Frankfort, Hanover and
+Berlin, Brussels, St Petersburg, the [[Hague]], [[Frankfort]], [[Hanover]] and
 Munich galleries.
 
 ## See also

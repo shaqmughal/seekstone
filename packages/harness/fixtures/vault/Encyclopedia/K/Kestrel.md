@@ -19,7 +19,7 @@ from the true Falcons of the genus _Falco_, with its subsidiary groups
 _Aesalon_, _Hypotriorchis_, and the rest (see FALCON). Scarcely any one
 outside the walls of an ornithological museum or library would doubt for
 a moment whether any bird shown to him was a kestrel or not; and Gurney
-has stated his belief (_Ibis_, 1881, p. 277) that the aggregation of
+has stated his belief (_[[Ibis]]_, 1881, p. 277) that the aggregation of
 species placed by Bowdler Sharpe (_Cat. Birds Brit. Mus._ i. 423-448)
 under the generic designation of _Cerchneis_ (which should properly be
 _Tinnunculus_) includes "three natural groups sufficiently distinct to
@@ -34,20 +34,20 @@ Islands. It is almost entirely a summer migrant, coming from the south
 in early spring and departing in autumn, though examples (which are
 nearly always found to be birds of the year) occasionally occur in
 winter, some arriving on the eastern coast in autumn. It is most often
-observed while hanging in the air for a minute or two in the same spot,
+observed while [[Hanging|hanging]] in the air for a minute or two in the same spot,
 by means of short and rapid beats of its wings, as, with head pointing
 to windward and expanded tail, it is looking out for prey--which
 consists chiefly of mice, but it will at times take a small bird, and
-the remains of frogs, insects and even earthworms have been found in its
+the remains of frogs, [[Insect|insects]] and even [[Earthworm|earthworms]] have been found in its
 crop. It generally breeds in the deserted nest of a crow or pie, but
 frequently in rocks, ruins, or even in hollow trees--laying four or five
-eggs, mottled all over with dark brownish-red, sometimes tinged with
+[[Egg|eggs]], mottled all over with dark brownish-red, sometimes tinged with
 orange and at other times with purple. Though it may occasionally snatch
 up a young partridge or pheasant, the kestrel is the most harmless bird
 of prey, if it be not, from its destruction of mice and cockchafers, a
 beneficial species. Its range extends over nearly the whole of Europe
 from 68° N. lat., and the greater part of Asia--though the form which
-inhabits Japan and is abundant in north-eastern China has been by some
+inhabits [[Japan]] and is abundant in north-eastern China has been by some
 writers deemed distinct and called _T. japonicus_--it is also found over
 a great part of Africa, being, however, unknown beyond Guinea on the
 west and Mombasa on the east coast (_Ibis_, 1881, p. 457). The southern
@@ -60,7 +60,7 @@ Three other species are found in Africa--_T. rupicola_, _T.
 rupicoloides_ and _T. alopex_--the first a common bird in the Cape,
 while the others occur in the interior. Some of the islands of the
 Ethiopian region have peculiar species of kestrel, as the _T. newtoni_
-of Madagascar, _T. punctatus_ of Mauritius and _T. gracilis_ of the
+of [[Madagascar]], _T. punctatus_ of [[Mauritius]] and _T. gracilis_ of the
 Seychelles; while, on the opposite side, the kestrel of the Cape Verde
 Islands has been separated as _T. neglectus_.
 
@@ -69,16 +69,16 @@ the "sparrow-hawk," is a beautiful little bird. Various attempts have
 been made to recognize several species, more or less in accordance with
 locality, but the majority of ornithologists seem unable to accept the
 distinctions which have been elaborated chiefly by Bowdler Sharpe in his
-_Catalogue_ and R. Ridgway (_North American Birds_, iii. 150-175), the
+_[[Catalogue]]_ and R. Ridgway (_North American Birds_, iii. 150-175), the
 former of whom recognizes six species, while the latter admits but
 three--_T. sparverius_, _T. leucophrys_ and _T. sparverioides_--with
 five geographical races of the first, viz. the typical _T. sparverius_
 from the continent of North America except the coast of the Gulf of
 Mexico; _T. australis_ from the continent of South America except the
 North Atlantic and Caribbean coasts; _T. isabellinus_, inhabiting
-continental America from Florida to Fr. Guiana; _T. dominicensis_ from
-the Lesser Antilles as far northwards as St Thomas; and lastly _T.
-cinnamominus_ from Chile and western Brazil. _T. leucophrys_ is said to
+continental America from Florida to Fr. [[Guiana]]; _T. dominicensis_ from
+the Lesser [[Antilles]] as far northwards as St Thomas; and lastly _T.
+cinnamominus_ from [[Chile]] and western Brazil. _T. leucophrys_ is said to
 be from Haiti and Cuba; and _T. sparverioides_ peculiar to Cuba only.
 This last has been generally allowed to be a good species, though Dr
 Gundlach, the best authority on the birds of that island, in his
@@ -90,7 +90,7 @@ dominicensis T. antillarum_; while Ridgway has recorded the supposed
 occurrence of _T. sparverioides_ in Florida. Of other kestrels _T.
 moluccensis_ is widely spread throughout the islands of the Malay
 Archipelago, while _T. cenchroides_ seems to inhabit the whole of
-Australia, and has occurred in Tasmania (_Proc. Roy. Soc. Tasmania_,
+[[Australia]], and has occurred in Tasmania (_Proc. Roy. Soc. Tasmania_,
 1875, pp. 7, 8). No kestrel is found in New Zealand, but an approach to
 the form is made by the very peculiar _Hieracidea_ (or _Harpe_)
 _novae-zelandiae_ (of which a second race or species has been described,

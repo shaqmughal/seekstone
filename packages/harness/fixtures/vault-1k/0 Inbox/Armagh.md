@@ -114,7 +114,7 @@ south, each returning one member.
 
 _History and Antiquities._--Armagh, together with Louth, Monaghan and
 some smaller districts, formed part of a territory called Orgial or
-Urial, which was long subject to the occasional incursions of the Danes.
+Urial, which was long subject to the occasional incursions of the [[Dan|Danes]].
 The county was made shire ground in 1586, and called Armagh after the
 city by Sir John Perrott. When James I. proceeded to plant with English
 and Scottish colonists the vast tracts escheated to the crown in Ulster,

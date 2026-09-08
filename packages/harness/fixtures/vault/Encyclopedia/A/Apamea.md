@@ -10,17 +10,17 @@ APAMEA, the name of several towns in western Asia.
 
 1. A treasure city and stud-depot of the Seleucid kings in the valley of
 the Orontes. It was so named by Seleucus Nicator, after Apama, his wife.
-Destroyed by Chosroes in the 7th century A.D.. it was partially rebuilt
-and known as _Famia_ by the Arabs; and overthrown by an earthquake in
-1152. It kept its importance down to the time of the Crusades. The
-acropolis hill is now occupied by the ruins of Kalat el-Mudik.
+Destroyed by [[Chosroes]] in the 7th century A.D.. it was partially rebuilt
+and known as _Famia_ by the [[Arabs]]; and overthrown by an earthquake in
+1152. It kept its importance down to the time of the [[Crusades]]. The
+acropolis hill is now occupied by the ruins of [[Kalat]] el-Mudik.
 
-  See R.F. Burton and T. Drake, _Unexplored Syria_; E. Sachau, _Reise in
+  See R.F. [[Burton]] and T. Drake, _Unexplored Syria_; E. Sachau, _Reise in
   Syrien_, 1883.
 
-2. A city in Phrygia, founded by Antiochus Soter (from whose mother,
-Apama, it received its name), near, but on lower ground than, Celaenae.
-It was situated where the Marsyas leaves the hills to join the Maeander,
+2. A city in Phrygia, founded by [[Antiochus]] Soter (from whose mother,
+Apama, it received its name), near, but on lower ground than, [[Celaenae]].
+It was situated where the [[Marsyas]] leaves the hills to join the Maeander,
 and it became a seat of Seleucid power, and a centre of Graeco-Roman and
 Graeco-Hebrew civilization and commerce. There Antiochus the Great
 collected the army with which he met the Romans at Magnesia, and there
@@ -40,7 +40,7 @@ Asia Minor, commanding the Maeander road; but when the trade routes were
 diverted to Constantinople it rapidly declined, and its ruin was
 completed by an earthquake. A Jewish tradition, possibly arising from a
 name _Cibotus_ (ark), which the town bore, identified a neighbouring
-mountain with Ararat. The famous "Noah" coins of the emperor Philip
+mountain with [[Ararat]]. The famous "Noah" [[Coin|coins]] of the emperor Philip
 commemorate this belief. The site is now partly occupied by _Dineir_
 (q.v., sometimes locally known also as _Geiklar_, "the gazelles,"
 perhaps from a tradition of the Persian hunting-park, seen by Xenophon
@@ -49,11 +49,11 @@ considerable remains, including a great number of important Graeco-Roman
 inscriptions.
 
   See W.M. Ramsay, _Cities and Bishoprics of Phrygia_, vol. ii.; G.
-  Weber, _Dineir-Celenes_ (1892); D.G. Hogarth in _Journ, Hell. Studies_
+  Weber, _Dineir-Celenes_ (1892); D.G. [[Hogarth]] in _Journ, [[Hell]]. Studies_
   (1888); O. Hirschfeld in _Trans. Berlin Academy_ (1875).
        (D. G. H.)
 
-3. A town on the left bank of the Euphrates, at the end of a bridge of
+3. A town on the left bank of the [[Euphrates]], at the end of a bridge of
 boats (_zeugma_); the Til-Barsip of the Assyrian inscriptions, now
 Birejik (q.v.).
 
@@ -61,7 +61,7 @@ Birejik (q.v.).
 Brusa. The name was given it by Prusias I., who rebuilt it.
 
 5. A city mentioned by Stephanus and Pliny as situated near the Tigris,
-the identification of which is still uncertain.
+the [[Identification|identification]] of which is still uncertain.
 
 6. A Greek city in Parthia, near Rhagae.
 

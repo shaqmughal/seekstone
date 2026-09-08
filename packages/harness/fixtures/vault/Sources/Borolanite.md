@@ -9,13 +9,13 @@ id: 42-7673
 # Borolanite
 
 BOROLANITE, one of the most remarkable rocks of the British Isles, found
-on the shores of Loch Borolan in Sutherlandshire, after which it has
+on the shores of [[Loch]] Borolan in Sutherlandshire, after which it has
 been named. In this locality there is a considerable area of granite
 rich in red alkali felspar, and passing, by diminution in the amount of
 its quartz, into quartz-syenites (nordmarkites) and syenites. At the
 margins of the outcrop patches of nepheline-syenite occur; usually the
 nepheline is decomposed, but occasionally it is well-preserved; the
-other ingredients of the rock are brown garnet (melanite) and aegirine.
+other ingredients of the rock are brown [[Garnet|garnet]] (melanite) and aegirine.
 The abundance of melanite is very unusual in igneous rocks, though some
 syenites, leucitophyres, and aegirine-felsites resemble borolanite in
 this respect. In places the nepheline-syenite assumes the form of a dark
@@ -26,11 +26,11 @@ very probable that these spots represent original leucites which have
 been changed into aggregates of the above-named minerals. They resemble
 leucite in their shape, but have not yet been proved to have its
 crystalline outlines. The "pseudo-leucites," as they have been called,
-measure one-quarter to three-quarters of an inch across. The dark matrix
+measure one-quarter to three-quarters of an [[Inch|inch]] across. The dark [[Matrix|matrix]]
 consists of biotite, aegirine-augite and melanite. Connected with the
 borolanite there are other types of nepheline-syenite and pegmatite. In
-Finland, melanite-bearing nepheline rocks have been found and described
-as Ijolite, but the only other locality for melanite-leucite-syenite is
+[[Finland]], melanite-bearing nepheline rocks have been found and described
+as [[Ijolite]], but the only other locality for melanite-leucite-syenite is
 Magnet Cove in Arkansas.     (J. S. F.)
 
 ## See also

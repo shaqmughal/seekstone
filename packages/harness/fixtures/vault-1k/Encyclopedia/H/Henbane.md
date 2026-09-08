@@ -37,7 +37,7 @@ in the fork of the branches, the upper ones sessile in one-sided leafy
 spikes which are rolled back at the top before flowering, the leaves
 becoming smaller upwards and taking the place of bracts. The flowers
 have an urn-shaped calyx which persists around the fruit and is strongly
-veined, with five stiff, broad, almost prickly lobes; these, when the
+veined, with five stiff, broad, almost prickly [[Lobe|lobes]]; these, when the
 soft matter is removed by maceration, form very elegant specimens when
 associated with leaves prepared in a similar way. The corollas are
 obliquely funnel-shaped, of a dirty yellow or buff, marked with a close
@@ -56,7 +56,7 @@ henbane has been found to have a tranquillizing effect upon persons
 affected by severe nervous irritability. In poisonous doses it causes
 loss of speech, distortion and paralysis. In the form of extract or
 tincture it is a valuable remedy in the hands of a medical man, either
-as an anodyne, a hypnotic or a sedative. The extract of henbane is rich
+as an [[Anodyne|anodyne]], a hypnotic or a sedative. The extract of henbane is rich
 in nitrate of potassium and other inorganic salts. The smoking of the
 seeds and capsules of henbane is noted in books as a somewhat dangerous
 remedy adopted by country people for toothache. Accidental poisoning

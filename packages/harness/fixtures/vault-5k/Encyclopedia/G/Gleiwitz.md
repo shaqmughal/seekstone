@@ -4,9 +4,9 @@ GLEIWITZ, a town of Germany, in the Prussian province of Silesia, on the
 Klodnitz, and the railway between Oppeln and Cracow, 40 m. S.E. of the
 former town. Pop. (1875) 14,156; (1905) 61,324. It possesses two
 Protestant and four Roman Catholic churches, a synagogue, a mining
-school, a convent, a hospital, two orphanages, and barracks. Gleiwitz is
+school, a convent, a hospital, two orphanages, and [[Barracks|barracks]]. Gleiwitz is
 the centre of the mining industry of Upper Silesia. Besides the royal
-foundry, with which are connected machine manufactories and
+foundry, with which are connected [[Machine|machine]] manufactories and
 boiler-works, there are other foundries, meal mills and manufactories of
 wire, gas pipes, cement and paper.
 

@@ -14,7 +14,7 @@ chief (Deut. xxxi. 14 seq., 23), and proceeded to the conquest of the
 land of Canaan. The book differs from the Pentateuch or Torah in the
 absence of legal matter, and in its intimate connexion with the
 narrative in the books which follow. It is, however, the proper sequel
-to the origins of the people as related in Genesis, to the exodus of the
+to the origins of the people as related in [[Genesis]], to the [[Exodus|exodus]] of the
 Israelite tribes from Egypt, and their journeyings in the wilderness. On
 these and also on literary grounds it is often convenient to class the
 first six books of the Bible as a unit under the term "Hexateuch." For
@@ -68,7 +68,7 @@ writers were probably indebted to local stories.
   suggests a different origin, viz. the sacred stone-circle (cf. Judges
   iii. 19, R.V. marg.). An older account of the divine commission to
   Joshua appears in the archaic passage v. 13-15 (cf. Moses in Exod.
-  iii.). Fusion of sources is obvious in the story of the fall of
+  iii.). [[Fusion]] of sources is obvious in the story of the fall of
   Jericho (contrast vi. 5 and v. 10, vv. 21 and 24, vv. 22 and 25);
   according to one (E?) the people march seven times round the city on
   one day, the ark and the priests occupying a prominent position (vi.
@@ -110,7 +110,7 @@ a summary of the results of the Israelite invasion (xii.).
   seq. seems to show that it was the prelude to the Canaanite wars. In
   contrast to the absence of any reference to the occupation of central
   Palestine, the conquest of the south was current in several divergent
-  traditions. Two records are blended in ix.; one narrates the covenant
+  traditions. Two records are blended in ix.; one narrates the [[Covenant|covenant]]
   with the Gibeonites, the other that with the Hivites (properly
   Hivvites); and in the latter Joshua has no place (vv. 4 seq., 6b, 7,
   11-14, &c.). The former has additions by D (vv. 9b, 10, 24 seq.) and
@@ -119,9 +119,9 @@ a summary of the results of the Israelite invasion (xii.).
   allow the Gibeonites to minister to the temple or altar, but merely to
   the "congregation," a characteristic post-exilic term (contrast vv. 21
   and 23; and on 27 see Sept. and commentaries). The story of the
-  covenant conflicts with the notice that Gibeon was still an
+  covenant conflicts with the notice that [[Gibeon]] was still an
   independent Canaanite city in David's time (2 Sam. xxi. 2). The defeat
-  of the southern coalition is based, as the doublets show, upon two
+  of the southern coalition is based, as the [[Doublet|doublets]] show, upon two
   sources; the war arises from two causes (vengeance upon the
   Gibeonites, and the attempt to overthrow Israel), and concludes with a
   twofold victory: in x. 16-24 the kings are pursued to Makkedah and
@@ -169,13 +169,13 @@ due to P.
   order) prepare to complete the work which Moses had begun (xiv. 1-5).
   It opens with Judah, its borders (xv. 1-12) and cities (vv. 20-62),
   and continues with the two Joseph tribes, Ephraim (xvi. 4-9, contrast
-  details in vv. 1-3) and Manasseh (xvii. 1-10, cf. Num. xxvi. 30-32,
+  details in vv. 1-3) and [[Manasseh]] (xvii. 1-10, cf. Num. xxvi. 30-32,
   xxvii. 1-11; P). There is now a break in the narrative (xviii. 2-10,
   source uncertain); seven tribes have not yet received an inheritance,
   and Joshua (alone) encourages them to send three men from each tribe
   to walk through the land--excluding the territory of Judah and
   Joseph--and to bring a description of it to him, after which he
-  divides it among them by lot. P[2] now resumes with an account of the
+  divides it among them by [[Lot|lot]]. P[2] now resumes with an account of the
   borders and cities of Benjamin (xviii. 11-28), Simeon, Zebulun,
   Issachar, Asher, Naphtali and Dan (xix.; on v. 47, see below); and,
   after the subscription (xix. 51), concludes with the institution of
@@ -291,7 +291,7 @@ all the evidence, both internal and external, biblical scholars are now
 almost unanimous that the more finished picture of the Israelite
 invasion and settlement cannot be accepted as a historical record for
 the age. It accords with this that the elaborate tribal-lists and
-boundaries prove to be of greater value for the geography than for the
+boundaries prove to be of greater value for the [[Geography|geography]] than for the
 history of Palestine, and the attempts to use them as evidence for the
 early history of Israel have involved numerous additional difficulties
 and confusion.[5]
@@ -309,7 +309,7 @@ and Shiloh, have suggested that he was a hero of the Joseph tribes of
 central Palestine (viz. Ephraim and Manasseh). Moreover, the traditions
 in Joshua viii. 30-ix. 2, and Deut. xxvii. 1-8 seem to place the arrival
 at Mt Ebal immediately after the crossing of the Jordan. This implies
-that Israel (like Jacob in Gen. xxxii.) crossed by the Jabbok, and in
+that Israel (like [[Jacob]] in Gen. xxxii.) crossed by the Jabbok, and in
 fact the Wadi Fari'a provides an easy road to Shechem, to the south-east
 of which lies Juleijil; and while this is the Gilgal of Deut. xi. 30,
 the battles at Jericho and Ai (Joshua ii. seq.) occur naturally after
@@ -317,7 +317,7 @@ the encampment at the southern Gilgal (near Jericho). The alternative
 view (see especially Stade, _Gesch. Isr._ 1. 133 sqq.) connects itself
 partly with the ancestor of all the tribes (Jacob, i.e. Israel), and
 partly with the eponym of the Joseph tribes whose early days were spent
-around Shechem, the removal of whose bones from Egypt must have found a
+around Shechem, the removal of whose [[Bone|bones]] from Egypt must have found a
 prominent place in the traditions of the tribes concerned (Gen. l. 25;
 Exod. xiii. 19; Joshua xxiv. 32). According to one view (Stade,
 Wellhausen, Guthe, &c.) only the Joseph tribes were in Egypt, and
@@ -330,7 +330,7 @@ of Ephraim and Manasseh.
 The serious character of the problems of early Israelite history can be
 perceived from the renewed endeavours to present an adequate outline of
 the course of events; for a criticism of the most prominent hypotheses
-see Cheyne, _Ency. Bib._ art. "Tribes" (col. 5209 seq.); a new theory
+see [[Cheyne]], _Ency. Bib._ art. "Tribes" (col. 5209 seq.); a new theory
 has been more recently advanced by E. Meyer (_Die Israeliten u. ihre
 Nachbarstämme_, 1906). But Joshua as a tribal hero does not belong to
 the earliest phase in the surviving traditions. He has no place in the

@@ -23,7 +23,7 @@ at Genoa by the same means, producing a great quantity of miniatures and
 _fixes_. He visited Florence, but returning to Genoa made the
 acquaintance of Josephine, and followed her to Milan, where he was well
 received by her husband. On November 15, 1796, Gros was present with the
-army near Arcola when Bonaparte planted the tricolor on the bridge. Gros
+army near [[Arcola]] when Bonaparte planted the tricolor on the bridge. Gros
 seized on this incident, and showed by his treatment of it that he had
 found his vocation. Bonaparte at once gave him the post of "inspecteur
 aux revues," which enabled him to follow the army, and in 1797 nominated
@@ -32,7 +32,7 @@ the Louvre. In 1799, having escaped from the besieged city of Genoa,
 Gros made his way to Paris, and in the beginning of 1801 took up his
 quarters in the Capucins. His "esquisse" (Musee de Nantes) of the
 "Battle of Nazareth" gained the prize offered in 1802 by the consuls,
-but was not carried out, owing it is said to the jealousy of Junot felt
+but was not carried out, owing it is said to the [[Jealousy|jealousy]] of [[Junot]] felt
 by Napoleon; but he indemnified Gros by commissioning him to paint his
 own visit to the pest-house of Jaffa. "Les Pestiferes de Jaffa" (Louvre)
 was followed by the "Battle of Aboukir" 1806 (Versailles), and the
@@ -56,7 +56,7 @@ decoration of the dome of St Genevieve (begun in 1811 and completed in
 1824) is the only work of Gros's later years which shows his early force
 and vigour, as well as his skill. The "Departure of Louis XVIII."
 (Versailles), the "Embarkation of Madame d'Angouleme" (Bordeaux), the
-plafond of the Egyptian room in the Louvre, and finally his "Hercules
+plafond of the Egyptian room in the Louvre, and finally his "[[Hercules]]
 and Diomedes," exhibited in 1835, testify only that Gros's efforts--in
 accordance with the frequent counsels of his old master David--to stem
 the rising tide of Romanticism, served but to damage his once brilliant

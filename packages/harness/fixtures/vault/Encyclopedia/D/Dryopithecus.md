@@ -7,7 +7,7 @@ tags: [biography, art]
 
 # Dryopithecus
 
-DRYOPITHECUS (Gr. [Greek: drys], oak, [Greek: pithêkos], ape, "the ape
+DRYOPITHECUS (Gr. [Greek: drys], oak, [Greek: pithêkos], [[Ape|ape]], "the ape
 of the oak-woods"), the name of an extinct ape or monkey from Miocene
 deposits of France, believed to be allied to the baboons, but perhaps
 with some affinity to the higher apes.

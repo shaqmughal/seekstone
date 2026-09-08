@@ -6,7 +6,7 @@ topic: science
 
 # Frank
 
-FRANK, JAKOB (1726-1791), a Jewish theologian, who founded in Poland, in
+FRANK, [[Jakob|JAKOB]] (1726-1791), a Jewish theologian, who founded in Poland, in
 the middle of the 18th century, a sect which emanated from Judaism but
 ended by merging with Christianity. The sect was the outcome of the
 Messianic mysticism of Sabbetai Zebi. It was an antinomian movement in

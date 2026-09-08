@@ -2,8 +2,8 @@
 
 CERARGYRITE, a mineral species consisting of silver chloride; an
 important ore of silver. The name cerargyrite is a Greek form (from
-[Greek: keras], horn, and [Greek: argyros], silver) of the older name
-hornsilver, which was used by K. Gesner as far back as 1565. The
+[Greek: keras], [[Horn|horn]], and [Greek: argyros], silver) of the older name
+hornsilver, which was used by K. [[Gesner]] as far back as 1565. The
 chloro-bromide and bromide of silver were also included under this term
 until they were distinguished chemically in 1841 and 1842, and described
 under the names embolite and bromargyrite (or bromyrite) respectively;
@@ -18,7 +18,7 @@ and iodembolite (Ag(Cl, Br, I)) for the different isomorphous members of
 the group. They are cubic in crystallization, with the cube and the
 octahedron as prominent forms, but crystals are small and usually
 indistinct; there is no cleavage. They are soft (H = 2-1/2) and sectile
-to a high degree, being readily cut with a knife like horn. With their
+to a high degree, being readily cut with a [[Knife|knife]] like horn. With their
 resinous to adamantine lustre and their translucency they also present
 somewhat the appearance of horn; hence the name hornsilver. The colour
 varies somewhat with the chemical composition, being grey or colourless
@@ -33,7 +33,7 @@ associated together; they are found in metalliferous veins with native
 silver and ores of silver, and are usually confined to the upper
 oxidized parts of the lodes. They are important ores of silver (the pure
 chloride contains 75.3% of silver), and have been extensively mined at
-several places in Chile, also in Mexico, and at Broken Hill in New South
+several places in [[Chile]], also in Mexico, and at [[Broken Hill]] in New South
 Wales. The chloride and chloro-bromide have been found in several
 Cornish mines, but never in very large amounts.     (L. J. S.)
 

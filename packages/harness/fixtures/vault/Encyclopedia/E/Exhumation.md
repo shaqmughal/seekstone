@@ -1,6 +1,6 @@
 # Exhumation
 
-EXHUMATION (from Med. Lat. _exhumare_; _ex_, out of, and _humus_,
+EXHUMATION (from Med. Lat. _exhumare_; _ex_, out of, and _[[Humus|humus]]_,
 ground), the act of digging up and removing an object from the ground.
 The word is particularly applied to the removal of a dead body from its
 place of burial. For the offence of exhuming a body without legal

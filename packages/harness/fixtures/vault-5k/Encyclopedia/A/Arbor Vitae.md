@@ -5,7 +5,7 @@ _Thuja_. The name _Thuja_, which was adopted by Linnaeus from the
 _Thuya_ of Tournefort, seems to be derived from the Greek word [Greek:
 thuos], signifying sacrifice, probably because the resin procured from
 the plant was used as incense. The plants belong to the natural order
-Coniferae, tribe Cupressineae (Cypresses). _Thuja occidentalis_ is the
+Coniferae, tribe Cupressineae ([[Cypress|Cypresses]]). _Thuja occidentalis_ is the
 Western or American arbor vitae, the _Cupressus Arbor Vitae_ of old
 authors. It is a native of North America, and ranges from Canada to the
 mountains of Virginia and Carolina. It is a moderate-sized tree, and was
@@ -28,11 +28,11 @@ French missionaries. It has roundish cones, with numerous scales and
 wingless seeds. The leaves, which have a pungent aromatic odour, are
 said to yield a yellow dye. There are numerous varieties of this plant
 in cultivation, one of the most remarkable of which is the variety
-_pendula_, with long, flexible, hanging, cord-like branches; it was
+_pendula_, with long, flexible, [[Hanging|hanging]], cord-like branches; it was
 discovered in Japan about 1776 by Carl Peter Thunberg, a pupil of
 Linnaeus, who made valuable collections at the Cape of Good Hope, in the
 Dutch East Indies and in Japan. The variety _pygmaea_ forms a small bush
-a few inches high.
+a few [[Inch|inches]] high.
 
 _Thuja gigantea_, the red or canoe cedar, a native of north-western
 America from southern Alaska to north California, is the finest species,

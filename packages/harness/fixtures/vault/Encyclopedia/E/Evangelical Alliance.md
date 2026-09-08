@@ -8,20 +8,20 @@ type: article
 # Evangelical Alliance
 
 EVANGELICAL ALLIANCE, an association of individual Christians of
-different denominations formed in London in August 1846, at a conference
-of over 900 clergymen and laymen from all parts of the world, and
+different [[Denomination|denominations]] formed in London in August 1846, at a conference
+of over 900 clergymen and [[Laymen|laymen]] from all parts of the world, and
 representing upwards of fifty sections of the Protestant church. The
 idea originated in Scotland in the preceding year, and was intended "to
 associate and concentrate the strength of an enlightened Protestantism
 against the encroachments of popery and Puseyism, and to promote the
 interests of a scriptural Christianity," as well as to combat religious
-indifference. A preliminary meeting was held at Liverpool in October
+indifference. A preliminary meeting was held at [[Liverpool]] in October
 1845. The movement obtained wide support in other countries, more
 especially in America, and organizations in connexion with it now exist
 in the different capitals throughout the world. The object of the
 alliance, according to a resolution of the first conference, is "to
 enable Christians to realize in themselves and to exhibit to others that
-a living and everlasting union binds all true believers together in the
+a living and [[Everlasting|everlasting]] union binds all true believers together in the
 fellowship of the church." At the same conference the following nine
 points were adopted as the basis of the alliance: "Evangelical views in
 regard to the divine inspiration, authority and sufficiency of the Holy
@@ -31,7 +31,7 @@ persons therein; the utter depravity of human nature in consequence of
 the fall; the incarnation of the Son of God, His work of atonement for
 sinners of mankind, and His mediatorial intercession and reign; the
 justification of the sinner by faith alone; the work of the Holy Spirit
-in the conversion and sanctification of the sinner; the immortality of
+in the [[Conversion|conversion]] and sanctification of the sinner; the [[Immortality|immortality]] of
 the soul, the resurrection of the body, the judgment of the world by our
 Lord Jesus Christ, with the eternal blessedness of the righteous and the
 eternal punishment of the wicked; the divine institution of the
@@ -48,14 +48,14 @@ America and several continental countries; and it is provided that a
 general conference, including representatives of the whole alliance, be
 held every seventh year, or oftener if it be deemed necessary. Such
 conferences have been held in London in 1851; Paris, 1855; Berlin, 1857;
-Geneva, 1861; Amsterdam, 1867; New York, 1873; Basel, 1879; Copenhagen,
+[[Geneva]], 1861; Amsterdam, 1867; New York, 1873; [[Basel]], 1879; [[Copenhagen]],
 1885; Florence, 1891; London, 1896 and 1907. They are occupied with the
 discussion of the "best methods of counteracting infidelity, Romanism
 and ritualism, and the desecration of the Lord's Day," and of furthering
 the positive objects of the alliance. The latter are sometimes stated as
 follows: (a) "The world girdled by prayer"; a world-wide week of prayer
 is held annually, beginning on the first Sunday in the year, (b) "The
-maintenance of religious liberty throughout the world." (c) "The relief
+[[Maintenance|maintenance]] of religious liberty throughout the world." (c) "The relief
 of persecuted Christians in all parts"; the alliance has agents in many
 countries to help the persecuted by distributing relief, &c., and in
 Russia there is a travelling agent who endeavours to help the Stundists.
@@ -64,7 +64,7 @@ of the evangelical faith."
 
   The following publications may be mentioned:--_The Evangelical
   Alliance Monthly Intelligencer_, _The Evangelical Alliance Quarterly_,
-  both published in London; A.J. Arnold, _History of the Evangelical
+  both published in London; A.J. [[Arnold]], _History of the Evangelical
   Alliance_ (London, 1897); and the reports of the proceedings of the
   different conferences.
 
@@ -73,7 +73,7 @@ of the evangelical faith."
 
 
 EVANGELICAL ASSOCIATION of North America, a religious denomination,
-founded about the beginning of the 19th century by Jacob Albright
+founded about the beginning of the 19th century by [[Jacob]] Albright
 (1759-1808), a German Lutheran of Pennsylvania. About 1790 he began an
 itinerant mission among his fellow-countrymen, chiefly in Pennsylvania;
 and meeting with considerable success, he was, at an assembly composed
@@ -94,7 +94,7 @@ Philadelphia, constituted themselves the United Evangelical Church. The
 Association in 1906 had about 105,000 members, besides some 10,000 in
 Germany and Switzerland, and has nearly 2000 churches and 1200 itinerant
 and other preachers. There are four bishops. It distributes much
-evangelical literature, and supports a mission in Japan.
+evangelical literature, and supports a mission in [[Japan]].
 
 ## See also
 

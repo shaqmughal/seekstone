@@ -49,7 +49,7 @@ Française, and a pension was awarded him. The medal struck on the
 occasion bore the inscription: _Au poëte moral et populaire_. His title
 of "Maistre ès Jeux" is a distinction only conferred by the academy of
 Toulouse on illustrious writers. Pius IX. sent him the insignia of a
-knight of St Gregory the Great, and he was made chevalier of the Legion
+[[Knight|knight]] of St Gregory the Great, and he was made chevalier of the Legion
 of Honour. He spent the latter years of his life on a small estate which
 he had bought near Agen and named "Papillotos," and which he describes
 in _Ma Bigno_ ("My Vine"). Though invited to represent his native city,

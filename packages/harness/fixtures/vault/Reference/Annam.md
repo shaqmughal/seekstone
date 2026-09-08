@@ -1,9 +1,9 @@
 # Annam
 
 ANNAM, or ANAM, a country of south-eastern Asia, now forming a French
-protectorate, part of the peninsula of Indo-China. (See INDO-CHINA,
+protectorate, part of the peninsula of [[Indo-China]]. (See INDO-CHINA,
 FRENCH). It is bounded N. by Tongking, E. and S.E. by the China Sea,
-S.W. by Cochin-China, and W. by Cambodia and Laos. It comprises a
+S.W. by Cochin-China, and W. by Cambodia and [[Laos]]. It comprises a
 sinuous strip of territory measuring between 750 and 800 m. in length,
 with an approximate area of 52,000 sq. m. The population is estimated at
 about 6,124,000.
@@ -18,7 +18,7 @@ Se-Bang-Khan in the south, are alone of any size. The chief harbour is
 that afforded by the bay of Tourane at the centre of the coast-line.
 South of this point the coast curves outwards and is broken by
 peninsulas and indentations; to the north it is concave and bordered in
-many places by dunes and lagoons.
+many places by [[Dunes|dunes]] and [[Lagoon|lagoons]].
 
 _Climate._--In Annam the rainy season begins during September and lasts
 for three or four months, corresponding with the north-east monsoon and
@@ -34,7 +34,7 @@ retain the precipitation.
 _Ethnography_.--The Annamese, or, to use the native term, the
 _Giao-chi_, are the predominant people not only in Annam but in the
 lowland and cultivated parts of Tongking and in Cochin-China and
-southern Cambodia. According to their own annals and traditions they
+southern Cambodia. According to their own [[Annals|annals]] and traditions they
 once inhabited southern China, a theory which is confirmed by many of
 their habits and physical characteristics; the race has, however, been
 modified by crossings with the Chams and other of the previous
@@ -50,7 +50,7 @@ sides. His face is flat, with highly protruding cheek-bones, and is
 lozenge-shaped or eurygnathous to a degree that is nowhere exceeded. His
 nose is not only the flattest, but also the smallest among the
 Indo-Chinese; his eyes are rarely oblique; his mouth is large and his
-lips thick; his teeth are blackened and his gums destroyed by the
+[[Lip|lips]] thick; his teeth are blackened and his [[Gum|gums]] destroyed by the
 constant use of the betel-nut, the areca-nut and lime. His neck is
 short, his shoulders slope greatly, his body is thick-set and wanting in
 suppleness. Another peculiarity is a separation of the big toe from the
@@ -85,7 +85,7 @@ they learn is remarkable. Like their neighbours the Cambodians and the
 Chinese, the Annamese have a great respect for the dead, and ancestor
 worship constitutes the national religion. The learned hold the doctrine
 of Confucius, and Buddhism, alloyed with much popular superstition, has
-some influence. Like the Chinese the Annamese bury their dead.
+some influence. Like the Chinese the Annamese [[Bury|bury]] their dead.
 
 Among the savage tribes of the interior there is scarcely any idea of
 God and their superstitious practices can scarcely be considered as the
@@ -94,7 +94,7 @@ expression of a definite religious idea. Roman Catholics number about
 Chinese, the latter associated together according to the districts from
 which they come and carrying on nearly all the commerce of the country.
 In the forests and mountains dwell tribes of savages, chiefly of
-Indonesian origin, classed by the Annamese under the name _Mois_ or
+[[Indonesian]] origin, classed by the Annamese under the name _Mois_ or
 "savages." Some of these tribes show traces of Malay ancestry. Of
 greater historical interest are the Chams, who are to be found for the
 most part in southern Annam and in Cambodia, and who, judging from the
@@ -105,11 +105,11 @@ more muscular, and more supple than the Annamese. Their language is
 derived from Malay, and while some of the Chams are Mussulmans, the
 dominant religion is Brahmanism, and more especially the worship of
 Siva. Their women have a high reputation for virtue, which, combined
-with the general bright and honest character of the whole people,
+with the general [[Bright|bright]] and honest character of the whole people,
 differentiates them from the surrounding nations.
 
 Evidently derived from the Chinese, of which it appears to be a very
-ancient dialect, the Annamese language is composed of monosyllables, of
+ancient [[Dialect|dialect]], the Annamese language is composed of monosyllables, of
 slightly varied articulation, expressing different ideas according to
 the tone in which they are pronounced. It is quite impossible to connect
 with our musical system the utterance of the sounds of which the Chinese
@@ -130,7 +130,7 @@ indications of tone without which the Annamese words have no sense for
 the natives.
 
 _Agriculture and other Industries._--The cultivation of rice, which is
-grown mainly in the small deltas along the coast and in some districts
+grown mainly in the small [[Delta|deltas]] along the coast and in some districts
 gives two crops annually, and fishing, together with fish-salting and
 the preparation of nuoc-mam, a sauce made from decaying fish, constitute
 the chief industries of Annam.
@@ -152,7 +152,7 @@ _Administration._--Annam is ruled in theory by its emperor, assisted by
 the "_comat_" or secret council, composed of the heads of the six
 ministerial departments of the interior, finance, war, ritual, justice
 and public works, who are nominated by himself. The resident superior,
-stationed at Hue, is the representative of France and the virtual ruler
+stationed at [[Hue]], is the representative of France and the virtual ruler
 of the country. He presides over a council (_Conseil de Protectorat_)
 composed of the chiefs of the French services in Annam, together with
 two members of the "_comat_"; this body deliberates on questions of
@@ -169,11 +169,11 @@ the province of Tourane, a French tribunal alone exercises jurisdiction,
 but it administers native law where natives are concerned. Outside this
 territory the native tribunals survive. The Annamese village is
 self-governing. It has its council of notables, forming a sort of
-oligarchy which, through the medium of a mayor and two subordinates,
+oligarchy which, through the medium of a [[Mayor|mayor]] and two subordinates,
 directs the interior affairs of the community--policing, recruiting, the
-assignment and collection of taxes, &c.--and has judicial power in less
+[[Assignment|assignment]] and collection of taxes, &c.--and has judicial power in less
 important suits and crimes. More serious cases come within the purview
-of the _an-sat_, a judicial auxiliary of the governor. An assembly of
+of the _an-sat_, a judicial [[Auxiliary|auxiliary]] of the governor. An assembly of
 notables from villages grouped together in a canton chooses a cantonal
 representative, who is the mouthpiece of the people and the intermediary
 between the government and its subjects. The direct taxes, which go to
@@ -207,9 +207,9 @@ the direction of a _doc-hoc_, or inspector of studies. Finally a great
 triennial competition decides the elections. The candidate whose work is
 notified as _tres bien_ is admitted to the examinations at Hue, which
 qualify for the title of doctor and the holding of administrative
-offices. The education of a mandarin includes local history, cognizance
+offices. The education of a mandarin includes local history, [[Cognizance|cognizance]]
 of the administrative rites, customs, laws and prescriptions of the
-country, the ethics of Confucius, the rules of good breeding, the
+country, the [[Ethics|ethics]] of Confucius, the rules of good breeding, the
 ceremonial of official and social life, and the practical acquirements
 necessary to the conduct of public or private business. Annamese
 learning goes no farther. It includes no scientific idea, no knowledge

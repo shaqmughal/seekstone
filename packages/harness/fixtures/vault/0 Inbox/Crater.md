@@ -18,7 +18,7 @@ thus produces a stratification with an inward dip. The crater in an
 active volcano is kept open by intermittent explosions, but in a volcano
 which has become dormant or extinct the vent may become plugged, and the
 bowl-shaped cavity may subsequently be filled with water, forming a
-crater-lake, or as it is called in the Eifel a _Maar_. In some basaltic
+crater-lake, or as it is called in the [[Eifel]] a _Maar_. In some basaltic
 cones, like those of the Sandwich Islands, the crater may be a broad
 shallow pit, having almost perpendicular walls, with horizontal
 stratification. Such hollows are consequently called pit-craters. The

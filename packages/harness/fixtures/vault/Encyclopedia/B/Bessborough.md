@@ -10,7 +10,7 @@ tags: [literature, history]
 
 BESSBOROUGH, EARLS OF. The Ponsonby family, who have contributed many
 conspicuous men to Irish and English public life, trace their descent to
-Sir John Ponsonby (d. 1678), of Cumberland, a Commonwealth soldier who
+Sir John Ponsonby (d. 1678), of [[Cumberland]], a [[Commonwealth]] soldier who
 obtained land grants in Ireland. His son William (1657-1724) was created
 Baron Bessborough (1721) and Viscount Duncannon (1723), and the latter's
 son Brabazon was raised to the earldom of Bessborough in 1739. He was

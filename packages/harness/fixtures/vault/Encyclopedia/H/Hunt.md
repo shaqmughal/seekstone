@@ -13,14 +13,14 @@ writer, was born at Southgate, Middlesex, on the 19th of October 1784,
 His father, the son of a West Indian clergyman, had settled as a lawyer
 in Philadelphia, and his mother was the daughter of a merchant there.
 Having embraced the loyalist side, Leigh Hunt's father was compelled to
-fly to England, where he took orders, and acquired some reputation as a
+[[Fly|fly]] to England, where he took orders, and acquired some reputation as a
 popular preacher, but want of steadiness, want of orthodoxy, and want of
 interest conspired to prevent his obtaining any preferment. He was
-engaged by James Brydges, 3rd duke of Chandos, to act as tutor to his
+engaged by James Brydges, 3rd duke of [[Chandos]], to act as tutor to his
 nephew, James Henry Leigh, after whom Leigh Hunt was called. The boy
 was educated at Christ's Hospital, of which school he has left a lively
 account in his autobiography. As a boy at school he was an ardent
-admirer of Gray and Collins, writing many verses in imitation of them.
+admirer of [[Gray]] and [[Collins]], writing many verses in imitation of them.
 An impediment in his speech, afterwards removed, prevented his being
 sent to the university. "For some time after I left school," he says, "I
 did nothing but visit my school-fellows, haunt the book-stalls and write
@@ -43,7 +43,7 @@ prosecution and a sentence of two years' imprisonment for each of the
 brothers. The effect was to give a political direction to what should
 have been the career of a man of letters. But the cheerfulness and
 gaiety with which Leigh Hunt bore his imprisonment attracted general
-attention and sympathy, and brought him visits from Byron, Moore,
+attention and sympathy, and brought him visits from [[Byron]], Moore,
 Brougham and others, whose acquaintance exerted much influence on his
 future destiny.
 
@@ -52,7 +52,7 @@ _Reflector_, for which he wrote "The Feast of the Poets," a satire which
 gave offence to many contemporary poets, and particularly offended
 William Gifford of the _Quarterly_. The essays afterwards published
 under the title of the _Round Table_ (2 vols., 1816-1817), conjointly
-with William Hazlitt, appeared in the _Examiner_. In 1816 he made a
+with William [[Hazlitt]], appeared in the _Examiner_. In 1816 he made a
 permanent mark in English literature by the publication of his _Story of
 Rimini_. There is perhaps no other instance of a poem short of the
 highest excellence having produced so important and durable an effect in
@@ -60,7 +60,7 @@ modifying the accepted standards of literary composition. The secret of
 Hunt's success consists less in superiority of genius than of taste. His
 refined critical perception had detected the superiority of Chaucer's
 versification, as adapted to the present state of the language by
-Dryden, over the sententious epigrammatic couplet of Pope which had
+[[Dryden]], over the sententious epigrammatic couplet of Pope which had
 superseded it. By a simple return to the old manner he effected for
 English poetry in the comparatively restricted domain of metrical art
 what Wordsworth had already effected in the domain of nature; his is an
@@ -75,13 +75,13 @@ on the part of his opponents, whose animosity, however, was rather
 political than literary.
 
 In 1818 appeared a collection of poems entitled _Foliage_, followed in
-1819 by _Hero and Leander_, and _Bacchus and Ariadne_. In the same year
+1819 by _[[Hero And Leander|Hero and Leander]]_, and _Bacchus and Ariadne_. In the same year
 he reprinted these two works with _The Story of Rimini_ and _The Descent
 of Liberty_ with the title of _Poetical Works_, and started the
-_Indicator_, in which some of his best work appeared. Both Keats and
+_[[Indicator]]_, in which some of his best work appeared. Both Keats and
 Shelley belonged to the circle gathered around him at Hampstead, which
-also included William Hazlitt, Charles Lamb, Bryan Procter, Benjamin
-Haydon, Cowden Clarke, C. W. Dilke, Walter Coulson,[1] John Hamilton
+also included William Hazlitt, Charles [[Lamb]], Bryan Procter, [[Benjamin]]
+[[Haydon]], Cowden Clarke, C. W. [[Dilke]], Walter Coulson,[1] John Hamilton
 Reynolds,[2] and in general almost all the rising young men of letters
 of liberal sympathies. He had now for some years been married to
 Marianne Kent, who seems to have been sincerely attached to him, but was
@@ -92,7 +92,7 @@ Shelley at the time of the latter's domestic distresses, and defended
 him with spirit in the _Examiner_, although he does not appear to have
 at this date appreciated his genius with either the discernment or the
 warmth of his generous adversary, Professor Wilson. Keats he welcomed
-with enthusiasm, and introduced to Shelley. He also wrote a very
+with [[Enthusiasm|enthusiasm]], and introduced to Shelley. He also wrote a very
 generous appreciation of him in the _Indicator_, and, before leaving for
 Italy, Keats stayed with Hunt at Hampstead. Keats seems, however, to
 have subsequently felt that Hunt's example as a poet had been in some
@@ -107,7 +107,7 @@ proceed to Italy and join Shelley and Byron in the establishment of a
 quarterly magazine in which Liberal opinions should be advocated with
 more freedom than was possible at home. The project was injudicious from
 every point of view; it would have done little for Hunt or the Liberal
-cause at the best, and depended entirely upon the co-operation of Byron,
+cause at the best, and depended entirely upon the [[Co-Operation|co-operation]] of Byron,
 the most capricious of allies, and the most parsimonious of paymasters.
 Byron's principal motive for acceding to it appears to have been the
 expectation of acquiring influence over the _Examiner_, and he was
@@ -123,12 +123,12 @@ of success for the _Liberal_. Hunt was now virtually a dependant upon
 Byron, whose least amiable qualities were called forth by the relation
 of patron to an unsympathetic dependant, burdened with a large and
 troublesome family. He was moreover incessantly wounded by the
-representations of his friends that he was losing caste by the
+representations of his friends that he was losing [[Caste|caste]] by the
 connexion. The _Liberal_ lived through four quarterly numbers,
 containing contributions no less memorable than Byron's "Vision of
-Judgment" and Shelley's translations from Faust; but in 1823 Byron
+Judgment" and Shelley's translations from [[Faust]]; but in 1823 Byron
 sailed for Greece, leaving his coadjutor at Genoa to shift for himself.
-The Italian climate and manners, however, were entirely to Hunt's taste,
+The Italian climate and [[Manners|manners]], however, were entirely to Hunt's taste,
 and he protracted his residence until 1825, producing in the interim
 _Ultra-Crepidarius, a Satire on William Gifford_ (1823), and his
 matchless translation (1825) of Francesco Redi's _Bacco in Toscana_. In
@@ -147,7 +147,7 @@ dramatic criticism, and _Leigh Hunt's London Journal_ (1834-1835), were
 discontinued for want of subscribers, although in the latter Leigh Hunt
 had able coadjutors, and it contained some of his best writing. His
 editorship (1837-1838) of the _Monthly Repository_, in which he
-succeeded W. J. Fox, was also unsuccessful. The adventitious
+succeeded W. J. [[Fox]], was also unsuccessful. The adventitious
 circumstances which had for a time made the fortune of the _Examiner_ no
 longer existed, and Hunt's strong and weak points, his refinement and
 his affectations, were alike unsuited to the general body of readers.
@@ -157,7 +157,7 @@ the list of subscribers including many of his opponents. In the same
 year was printed for private circulation _Christianism_, the work
 afterwards published (1853) as _The Religion of the Heart_. A copy sent
 to Carlyle secured his friendship, and Hunt went to live next door to
-him in Cheyne Row in 1833. _Sir Ralph Esher_, a romance of Charles II.'s
+him in [[Cheyne]] Row in 1833. _Sir Ralph Esher_, a romance of Charles II.'s
 period, had a success, and _Captain Sword and Captain Pen_ (1835), a
 spirited contrast between the victories of peace and the victories of
 war, deserves to be ranked among his best poems. In 1840 his
@@ -180,21 +180,21 @@ estates, settled an annuity of L120 upon him; and in 1847 Lord John
 Russell procured him a civil list pension of L200. The fruits of the
 improved comfort and augmented leisure of these latter years were
 visible in the production of some charming volumes. Foremost among these
-are the companion books, _Imagination and Fancy_ (1844), and _Wit and
-Humour_ (1846), two volumes of selections from the English poets. In
+are the companion books, _[[Imagination]] and [[Fancy]]_ (1844), and _Wit and
+[[Humour]]_ (1846), two volumes of selections from the English poets. In
 these Leigh Hunt shows himself within a certain range the most refined,
-appreciative and felicitous of critics. Homer and Milton may be upon the
+appreciative and felicitous of critics. [[Homer]] and Milton may be upon the
 whole beyond his reach, though even here he is great in the detection of
 minor and unapprehended beauties; with Spenser and the old English
 dramatists he is perfectly at home, and his subtle and discriminating
 criticism upon them, as well as upon his own great contemporaries, is
 continually bringing to light unsuspected beauties. His companion volume
 on the pastoral poetry of Sicily, quaintly entitled _A Jar of Honey from
-Mount Hybla_ (1848), is almost equally delightful. _The Town_ (2 vols.,
+Mount [[Hybla]]_ (1848), is almost equally delightful. _The Town_ (2 vols.,
 1848) and _Men, Women and Books_ (2 vols., 1847) are partly made up from
-former material. _The Old Court Suburb_ (2 vols., 1855; ed. A. Dobson,
-1902) is an anecdotic sketch of Kensington, where he long resided before
-his final removal to Hammersmith. In 1850 he published his
+former material. _The Old Court Suburb_ (2 vols., 1855; ed. A. [[Dobson]],
+1902) is an anecdotic sketch of [[Kensington]], where he long resided before
+his final removal to [[Hammersmith]]. In 1850 he published his
 _Autobiography_ (3 vols.), a naive and accurate piece of
 self-portraiture, full of affectations, but on that account free from
 the affectation of unreality. It contains very detailed accounts of some
@@ -226,8 +226,8 @@ politics, for he was as thorough a man of letters as ever existed, and
 most of his failings were more or less incidental to that character. But
 it is not every consummate man of letters of whom it can be
 unhesitatingly affirmed that he was brave, just and pious. When it was
-suggested that Leigh Hunt was the original of Harold Skimpole in _Bleak
-House_, Charles Dickens denied that any of the shadows in the portrait
+suggested that Leigh Hunt was the original of Harold Skimpole in _[[Bleak]]
+House_, Charles [[Dickens]] denied that any of the shadows in the portrait
 were suggested by Hunt, who was, he said, "the very soul of truth and
 honour."
 
@@ -242,17 +242,17 @@ harmony, which lift the author out of the rank of minor poets,
 particularly when the influence of his example upon his contemporaries
 is taken into account. He excelled especially in narrative poetry, of
 which, upon a small scale, there are probably no better examples than
-"Abou ben Adhem" and "Solomon's Ring." He possessed every qualification
+"Abou [[Ben|ben]] Adhem" and "Solomon's Ring." He possessed every qualification
 for a translator; and as an appreciative critic, whether literary or
 dramatic, he has hardly been equalled.
 
   Leigh Hunt's other works include: _Amyntas, A Tale of the Woods_
   (1820), translated from Tasso; _The Seer, or Common-Places refreshed_
   (2 pts., 1840-1841); three of the Canterbury Tales in _The Poems of
-  Geoffrey Chaucer, modernized_ (1841); _Stories from the Italian Poets_
+  Geoffrey [[Chaucer]], modernized_ (1841); _Stories from the Italian Poets_
   (1846); compilations such as _One Hundred Romances of Real Life_
   (1843); selections from Beaumont and Fletcher (1855); and, with S.
-  Adams Lee, _The Book of the Sonnet_ (Boston, 1867). His _Poetical
+  Adams [[Lee]], _The Book of the Sonnet_ ([[Boston]], 1867). His _Poetical
   Works_ (2 vols.), revised by himself and edited by Lee, were printed
   at Boston, U.S.A., in 1857, and an edition (London and New York) by
   his son, Thornton Hunt, appeared in 1860. Among volumes of selections
@@ -274,12 +274,12 @@ dramatic, he has hardly been equalled.
 FOOTNOTES:
 
   [1] Walter Coulson (1794?-1860), lawyer and journalist, was at one
-    time amanuensis to Jeremy Bentham, and became in 1823 editor of the
+    time amanuensis to [[Jeremy]] [[Bentham]], and became in 1823 editor of the
     _Globe_.
 
   [2] John Hamilton Reynolds (1796-1852), best known for his friendship
     and correspondence with Keats. His narrative verse founded on the
-    tales of Boccaccio appeared in 1821 as _The Garden of Florence and
+    tales of [[Boccaccio]] appeared in 1821 as _The Garden of Florence and
     other Poems_. He wrote some admirable sonnets, one of which is
     addressed to Keats.
 

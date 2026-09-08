@@ -10,19 +10,19 @@ type: source
 HEMEL HEMPSTEAD, a market-town and municipal borough in the Watford
 parliamentary division of Hertfordshire, England, 25 m. N.W. from
 London, with a station on a branch of the Midland railway from
-Harpenden, and near Boxmoor station on the London and North Western main
+[[Harpenden]], and near Boxmoor station on the London and North Western main
 line. Pop. (1891) 9678; (1901) 11,264. It is pleasantly situated in the
 steep-sided valley of the river Gade, immediately above its junction
 with the Bulbourne, near the Grand Junction canal. The church of St Mary
 is a very fine Norman building with Decorated additions. Industries
 include the manufacture of paper, iron founding, brewing and tanning.
 Boxmoor, within the parish, is a considerable township of modern growth.
-Hemel Hempstead is governed by a mayor, 6 aldermen and 18 councillors.
+Hemel Hempstead is governed by a [[Mayor|mayor]], 6 aldermen and 18 councillors.
 Area, 7184 acres.
 
 Settlements in the neighbourhood of Hemel Hempstead (_Hamalamstede_,
 _Hemel Hampsted_) date from pre-Roman times, and a Roman villa has been
-discovered at Boxmoor. The manor, royal demesne in 1086, was granted by
+discovered at Boxmoor. The manor, royal [[Demesne|demesne]] in 1086, was granted by
 Edmund Plantagenet in 1285 to the house of Ashridge, and the town
 developed under monastic protection. In 1539 a charter incorporated the
 bailiff and inhabitants. A mayor, aldermen and councillors received

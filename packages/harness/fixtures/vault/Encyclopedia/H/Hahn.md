@@ -15,17 +15,17 @@ Konigsberg, and in 1820 received a superintendency in that city. In 1822
 he became _professor ordinarius_. In 1826 he removed as professor of
 theology to Leipzig, where, hitherto distinguished only as editor of
 Bardesanes, Marcion (_Marcion's Evangelium in seiner ursprunglichen
-Gestalt_, 1823), and Ephraem Syrus, and the joint editor of a _Syrische
+Gestalt_, 1823), and [[Ephraem Syrus]], and the joint editor of a _Syrische
 Chrestomathie_ (1824), he came into great prominence as the author of a
 treatise, _De rationalismi qui dicitur vera indole et qua cum
 naturalismo contineatur ratione_ (1827), and also of an _Offene
 Erklarung an die Evangelische Kirche zunachst in Sachsen u. Preussen_
-(1827), in which, as a member of the school of E. W. Hengstenberg, he
+(1827), in which, as a member of the school of E. W. [[Hengstenberg]], he
 endeavoured to convince the rationalists that it was their duty
 voluntarily and at once to withdraw from the national church. In 1833
-Hahn's pamphlet against K. G. Bretschneider (_Uber die Lage des
+Hahn's pamphlet against K. G. [[Bretschneider]] (_Uber die Lage des
 Christenthums in unserer Zeit_, 1832) having attracted the notice of
-Friedrich Wilhelm III., he was called to Breslau as theological
+[[Friedrich]] Wilhelm III., he was called to Breslau as theological
 professor and consistorial councillor, and in 1843 became "general
 superintendent" of the province of Silesia. He died at Breslau on the
 13th of May 1863. Though uncompromising in his "supra-naturalism," he
@@ -45,8 +45,8 @@ Breslau (1845), professor _ad interim_ (1846) at Konigsberg on the death
 of Heinrich Havernick, professor extraordinarius (1851) and professor
 ordinarius (1860) at Greifswald. Amongst his published works were a
 commentary on the Book of Job (1850), a translation of the Song of Songs
-(1852), an exposition of Isaiah xl.-lxvi. (1857) and a commentary on the
-Book of Ecclesiastes (1860).
+(1852), an exposition of [[Isaiah]] xl.-lxvi. (1857) and a commentary on the
+Book of [[Ecclesiastes]] (1860).
 
   See the articles in Herzog-Hauck, _Realencyklopadie_, and the
   _Allgemeine deutsche Biographie_.

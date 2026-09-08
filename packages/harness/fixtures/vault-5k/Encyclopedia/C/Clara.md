@@ -9,20 +9,20 @@ id: 42-217
 # Clara
 
 CLARA, SAINT (1194-1253), foundress of the Franciscan nuns, was born of
-a knightly family in Assisi in 1194. At eighteen she was so impressed by
+a knightly family in [[Assisi]] in 1194. At eighteen she was so impressed by
 a sermon of St Francis that she was filled with the desire to devote
 herself to the kind of life he was leading. She obtained an interview
-with him, and to test her resolution he told her to dress in penitential
+with him, and to test her resolution he told her to [[Dress|dress]] in penitential
 sackcloth and beg alms for the poor in the streets of Assisi. Clara
 readily did this, and Francis, satisfied as to her vocation, told her to
 come to the Portiuncula arrayed as a bride. The friars met her with
-lighted candles, and at the foot of the altar Francis shore off her
+lighted [[Candle|candles]], and at the foot of the altar Francis shore off her
 hair, received her vows of poverty, chastity and obedience, and invested
 her with the Franciscan habit, 1212. He placed her for a couple of years
 in a Benedictine convent in Assisi, until the convent at St Damian's,
 close to the town, was ready. Her two younger sisters, and, after her
 father's death, her mother and many others joined her, and the
-Franciscan nuns spread widely and rapidly (see CLARES, POOR). The
+Franciscan nuns spread widely and rapidly (see [[Clares|CLARES]], POOR). The
 relations of friendship and sympathy between St Clara and St Francis
 were very close, and there can be no doubt that she was one of the
 truest heirs of Francis's inmost spirit. After his death Clara threw

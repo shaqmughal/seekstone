@@ -9,22 +9,22 @@ shoot a young man who came to visit him; and although through the
 intercession of his master he escaped prosecution, the untoward event
 weighed heavily on his mind, and led him at the close of his
 apprenticeship to quit his native place. He obtained a situation at
-Lübeck, where he had leisure to cultivate his natural taste for drawing
-and poetry. Having formed an acquaintance with the painter Carstens,
+Lü[[Beck|beck]], where he had leisure to cultivate his natural taste for drawing
+and poetry. Having formed an acquaintance with the painter [[Carstens]],
 whose influence was an important stimulus and help to him, he renounced
 his trade of druggist, and set up as a portrait-painter and
 drawing-master. At Ludwigslust he fell in love with a young girl, and
-followed her to Weimar; but failing in his suit, he went next to Jena.
+followed her to Weimar; but failing in his suit, he went next to [[Jena]].
 There he was introduced to Professor Reinhold, and in his house met the
-Danish poet Baggesen. The latter invited him to accompany him to
+Danish poet [[Baggesen]]. The latter invited him to accompany him to
 Switzerland and Italy, a proposal which he eagerly accepted (1794) for
-the sake of the opportunity of furthering his studies in the fine arts.
-On Baggesen's return to Denmark, Fernow, assisted by some of his
+the sake of the opportunity of furthering his studies in the [[Fine Arts|fine arts]].
+On Baggesen's return to [[Denmark]], Fernow, assisted by some of his
 friends, visited Rome and made some stay there. He now renewed his
 intercourse with Carstens, who had settled at Rome, and applied himself
 to the study of the history and theory of the fine arts and of the
 Italian language and literature. Making rapid progress, he was soon
-qualified to give a course of lectures on archaeology, which was
+qualified to give a course of lectures on [[Archaeology|archaeology]], which was
 attended by the principal artists then at Rome. Having married a Roman
 lady, he returned in 1802 to Germany, and was appointed in the following
 year professor extraordinary of Italian literature at Jena. In 1804 he

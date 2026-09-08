@@ -30,12 +30,12 @@ Marseilles. His father cut off his supplies on hearing of this escapade,
 and Beyle was reduced to serving as clerk to a grocer. Melanie Guilbert,
 however, soon abandoned him to marry a Russian, and Beyle returned to
 Paris. Through the influence of Daru he obtained a place in the
-commissariat, which he filled with some distinction from 1806 to 1814.
-Charged with raising a levy in Brunswick of five million francs, he
+[[Commissariat|commissariat]], which he filled with some distinction from 1806 to 1814.
+Charged with raising a [[Levy|levy]] in Brunswick of five million [[Franc|francs]], he
 extracted seven; and during the retreat from Moscow he discharged his
 duties with efficiency. On the fall of Napoleon he refused to accept a
 place under the new regime, and retired to Milan, where he met Silvio
-Pellico, Manzoni, Lord Byron and other men of note. At Milan he
+Pellico, [[Manzoni]], Lord [[Byron]] and other men of note. At Milan he
 contracted a _liaison_ with a certain Angelina P., whom he had admired
 fruitlessly during his earlier residence in that city. In 1814 he
 published, under the pseudonym of Alexandre Cesar Bombet, his _Lettres
@@ -106,7 +106,7 @@ literary. In spite of his egotism and the limitations of his ideas, his
 acute analysis of the motives of his personages has appealed to
 successive generations of writers, and a great part of the development
 of the French novel must be traced to him. Brunetiere has pointed out
-(_Manual of French Lit._, Eng. trans., 1898) that Stendhal supplied the
+(_[[Manual]] of French Lit._, Eng. trans., 1898) that Stendhal supplied the
 Romanticists with the notion of the interchange of the methods and
 effects of poetry, painting and music, and that in his worship of
 Napoleon he agreed with their glorification of individual energy.
@@ -127,7 +127,7 @@ le noir_ as one of the classic novels of analysis.
   (_Revue des deux mondes_, February 1902), deprecating the excessive
   attention paid to Beyle's writings; and Edouard Rod, _Stendhal_ (1892)
   in the "Grands ecrivains francais" series. See also _Correspondance de
-  Stendhal, 1800-1842_, with preface by M. Barres (Paris, 1908).
+  Stendhal, 1800-1842_, with preface by M. [[Barre|Barres]] (Paris, 1908).
 
 
 FOOTNOTE:

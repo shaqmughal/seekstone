@@ -7,12 +7,12 @@ topic: music
 # Dartmouth College
 
 DARTMOUTH COLLEGE, an American institution of higher education, in
-Hanover, New Hampshire. It is Congregational in its affiliations, but is
+[[Hanover]], New Hampshire. It is Congregational in its affiliations, but is
 actually non-sectarian. The college is open only to men except during
 the summer session, when women also are admitted. Dartmouth embraces, in
 addition to the original college, incorporated in 1769, a medical
 school, dating from the establishment of a professorship of medicine in
-the college in 1798; the Thayer school of civil engineering, established
+the college in 1798; the Thayer school of civil [[Engineering|engineering]], established
 in 1867 by the bequest of Gen. Sylvanus Thayer; and the Amos Tuck
 school of administration and finance, established in 1900 by Edward
 Tuck--a remarkable feature, as it was the first, and, until the
@@ -46,7 +46,7 @@ elected upon the nomination of the alumni.
 
 Dartmouth is the outgrowth of Moor's Indian charity school, founded by
 Eleazer Wheelock (1711-1779) about 1750 at Lebanon, Connecticut; this
-school was named in 1755 in honour of Joshua Moor, who in this year gave
+school was named in 1755 in honour of [[Joshua]] Moor, who in this year gave
 to it lands and buildings. In 1765 Samson Occom (c. 1723-1792), an
 Indian preacher and former student of the school, visited England and
 Scotland in its behalf and raised L10,000, whereupon plans were made for
@@ -66,7 +66,7 @@ board of trustees, who were Congregationalists and Federalists, and
 Francis Brown was chosen in his place. Wheelock, upon his appeal to the
 legislature, was reinstated at the head of a new corporation, called
 Dartmouth University. The state courts upheld the legislature and the
-"University," but in 1819 after the famous argument of Daniel Webster
+"University," but in 1819 after the famous argument of [[Daniel]] Webster
 (q.v.) in behalf of the "College" board of trustees as against the
 "University" board before the United States Supreme Court, that body
 decided that the private trust created by the charter of 1769 was
@@ -77,7 +77,7 @@ important decisions ever made by the United States Supreme Court.
   See Frederick Chase, _A History of Dartmouth College and the Town of
   Hanover_ (Cambridge, 1891). For the Dartmouth College Case see
   Shirley, _The Dartmouth College Causes_ (St Louis, Missouri, 1879);
-  Kent, _Commentaries on American Law_ (vol. i. Boston, 1884); and
+  Kent, _Commentaries on American Law_ (vol. i. [[Boston]], 1884); and
   Joseph Story, _Commentaries on the Constitution_ (vol. ii., Boston,
   1891).
 

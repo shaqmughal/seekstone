@@ -9,10 +9,10 @@ have arisen, is likely to be a theogony ([Greek: theos], god) as well as
 a cosmogony (Babylonia, Egypt, Phoenicia, Polynesia).
 
 1. To many the interest of such stories will depend on their parallelism
-to the Biblical account in Genesis i.; the anthropologist, however, will
+to the Biblical account in [[Genesis]] i.; the anthropologist, however, will
 be attracted by them in proportion as they illustrate the more primitive
 phases of human culture. In spite of the frequent overgrowth of a
-luxuriant imagination, the leading ideas of really primitive cosmogonies
+luxuriant [[Imagination|imagination]], the leading ideas of really primitive cosmogonies
 are extremely simple. Creation out of nothing is nowhere thought of, for
 this is not at all a simple idea. The pre-existence of world-matter is
 assumed; sometimes too that of heaven, as the seat of the earth-maker,
@@ -22,7 +22,7 @@ other animal (whence the term "theriomorphism"), for the high idea of a
 god is impossible, till man has fully realized his own humanity. Of
 course, the earth-forming animal is a preternaturally gifted one, and is
 on the line of development towards that magnified man who, in a later
-stage, becomes the demiurge.[1] Between the two comes the animal--man,
+stage, becomes the [[Demiurge|demiurge]].[1] Between the two comes the animal--man,
 i.e. a being who has not yet shed the slough of an animal shape, but
 combines the powers--natural and preternatural--of some animal with
 those of a man. Let us now collect specimens of the evidence for
@@ -31,20 +31,20 @@ tribes to that of the people of Israel.
 
 2. _North American Stories._--Theriomorphic creators are most fully
 attested for the Red Indian tribes, whose very backwardness renders them
-so valuable to an anthropologist. There is a painted image from Alaska,
+so valuable to an anthropologist. There is a painted [[Image|image]] from Alaska,
 now in the museum of the university of Pennsylvania, which represents
 such an one. We see a black crow tightly holding a human mask which he
 is in the act of incubating. Let us pass on to the Thlinkît Indians of
 the N.W. coast. A cycle of tales is devoted to a strange humorous being
 called Yehl or Yelch, i.e. the Raven, miraculously born, not to be
 wounded, and at once a semi-developed creator and a culture hero.[2] His
-bitter foe is his uncle; the germs of dualism appear early. Like some
-other culture-heroes, he steals sun, moon and stars out of a box, so
+bitter foe is his uncle; the germs of [[Dualism|dualism]] appear early. Like some
+other culture-heroes, he steals sun, moon and stars out of a [[Box|box]], so
 enlightening the dark earth. These people are at any rate above the
 Greenlanders, but are surpassed by the Algonkins described by Nicholas
-Perrot in 1700, and by the Iroquois, whom the heroic Father Brébeuf
+Perrot in 1700, and by the [[Iroquois]], whom the heroic Father Brébeuf
 (1593-1649) learned to know so well.[3] The earth-maker of the former
-was called Michabo, i.e. the Great Hare.[4] He is the leader of some
+was called Michabo, i.e. the Great [[Hare]].[4] He is the leader of some
 animals on a raft on a shoreless sea. Three of these in succession are
 sent to dive for a little earth. A grain of sand is brought; out of it
 he makes an island (America?). Of the carcases of the dead animals he
@@ -58,26 +58,26 @@ a tortoise (cf. § 6) on which a diving animal had placed some mud,
 received her. Here, being already pregnant, she gave birth to a
 daughter, who in turn bore the twins Joskeha and Tawiscara (myth of
 hostile brothers). By his violence (cf. Gen. xxv. 22) the latter killed
-his mother, out of whose corpse grew plants. Tawiscara fled to the west,
+his mother, out of whose [[Corpse|corpse]] grew plants. Tawiscara fled to the west,
 where he rules over the dead. Joskeha made the beasts and also men.
 After acting as culture-giver he disappeared to the east, where he is
 said to dwell with his grandmother as her husband.[6]
 
 3. _Mexican._--The most interesting feature in the Mexican cosmology is
 the theory of the ages of the world. Greece, Persia and probably
-Babylon, knew of four such ages.[7] The Priestly Writer in the
+[[Babylon]], knew of four such ages.[7] The Priestly Writer in the
 Pentateuch also appears to be acquainted with this doctrine; it is the
 first of four ages which begins with the Creation and ends with the
 Deluge. The Mexicans, however, are said to have assumed five ages called
 "suns." The first was the sun of earth; the second, of fire; the third,
 of air; the fourth, of water; the fifth (which is the present) was
-unnamed. Each of these closed with a physical catastrophe.[8] The
+unnamed. Each of these closed with a physical [[Catastrophe|catastrophe]].[8] The
 speculations which underlie the Mexican theory have not come down to us.
 For the Iranian parallel, see § 8, and on the Hebrew Priestly Writer,
 Gunkel, _Genesis_[2], pp. 233 ff.
 
 4. _Peruvian._--In Peru, as in Egypt, the sun-god obtained universal
-homage. But there were creator-gods in the background. A theoretical
+[[Homage|homage]]. But there were creator-gods in the background. A theoretical
 supremacy was accorded by the Incas to Pachacamac, whose worship, like
 that of Viracocha, they appear to have already found when they conquered
 the land. Pachacamac means, in Quichua, "world-animator."[9] The
@@ -86,14 +86,14 @@ sacrifices, no worship but that of the heart. This is conceivable; Maui,
 too, in New Zealand had no temple or priests. But most probably this
 deity had another less abstract name, and the horrible worship offered
 in the one temple which he really had under the Incas, accorded with his
-true cosmic significance as the god of the subterranean fire. Viracocha
+true [[Cosmic|cosmic]] significance as the god of the subterranean fire. Viracocha
 too had a cosmic position; an old Peruvian hymn calls him "world-former,
 world-animator."[10] He was connected with water. A third creator was
 Manco Capac ("the mighty man"), whose sister and wife is called Mama
 Oello, "the mother-egg." Afterwards, the creator and the mother-egg
 became respectively the sun and the moon, represented by the Inca
 priest-king and his wife, the supposed descendants of Manco Capac.[11]
-Dualistic tendencies were also developed. Las Casas[12] reports a story
+Dualistic tendencies were also developed. [[Las Casas]][12] reports a story
 that before creation the creator-god had a bad son who sought, after
 creation, to undo all that his father had done. Angered at this, his
 father hurled him into the sea. We need not suspect Christian
@@ -101,7 +101,7 @@ influences, but the parallelism of Rev. xx. 3, Isa. xiv. 12, 15, Ezek.
 xxviii. 16 is obvious.
 
 5. _Polynesian._--Polynesia, that classic land of mythology, is
-specially rich in myths of creation. The Maori story, told by Grey and
+specially rich in myths of creation. The [[Maori]] story, told by Grey and
 others, of the rending apart of Rangi ( = Langi, heaven) and Papa
 (earth) can be paralleled in China, India and Greece, and more remotely
 in Egypt and Babylonia. The son of Rangi and Papa was Tangaloa (also
@@ -113,14 +113,14 @@ there is a heavenly as well as an earthly ocean; hence the clouds are
 sometimes called Tangaloa's ships. It is true, the popular imagery is
 unworthy of such a god. Sometimes he is said to live in a shell, by
 throwing off which from time to time he increases the world; or in an
-egg, which at last he breaks in pieces; the pieces are the islands. We
+[[Egg|egg]], which at last he breaks in pieces; the pieces are the islands. We
 also hear that long ago he hovered as an enormous bird over the waters,
 and there deposited an egg. The egg may be either the earth with the
 overarching vault of heaven or (as in Egypt--but this is a later view)
 the sun. The latter received mythical representation in that most
 interesting god (but originally rather culture-hero) Maui, who, in New
 Zealand practically supplants Tangaloa, and becomes the god of the air
-and of the heaven, the creator and the causer of the flood.[14]
+and of the heaven, the creator and the causer of the [[Flood|flood]].[14]
 Speculation opened the usual deep problem; whence came the gods? It was
 answered that Po, i.e. darkness, was the begetter of all things, even of
 Tangaloa.
@@ -150,7 +150,7 @@ principle of intelligence, who spoke the world into existence.[20] A
 strange episode in the legend of the destruction of man by the gods
 tells how Ra (or Re), the first king of the world, finding in his old
 age that mankind ceased to respect him, first tried the remedy of
-massacre, and then ascended the heavenly cow, and organized a new
+[[Massacre|massacre]], and then ascended the heavenly cow, and organized a new
 world--that of heaven.[21]
 
 8. _Iranian._--The Iranian account of creation[22] is specially
@@ -194,7 +194,7 @@ the notices which have come down to us,[24] to have been composite. The
 traditions are pale and obscure. It is clear, however, that the primeval
 flood and the world-egg (out of which came heaven and earth) are
 referred to. See _Ency. Bib._, "Creation" § 7; "Phoenicia" § 15;
-Lagrange, _Religions sémitiques_, pp. 351 ff. Greek cosmogonies (the
+[[Lagrange]], _Religions sémitiques_, pp. 351 ff. Greek cosmogonies (the
 orientalism of which is clear) will be found in Hesiod, _Theog._ 116
 ff.; Aristophanes, _Birds_, 692 ff.; cf. Clem. Rom., _Homil._ vi. 4. See
 Miss Harrison, _Prolegomena to the Study of Greek Religion_, chap. xii,
@@ -206,7 +206,7 @@ as to the former, see BABYLONIAN AND ASSYRIAN RELIGION. With regard to
 the latter, we may notice that in Gen. ii. 4b-25 we have an account of
 creation which, though in its present form very incomplete, is highly
 attractive, because it is pervaded by a breath from primitive times. It
-has, however, been interwoven with an account of the Garden of Eden from
+has, however, been interwoven with an account of the Garden of [[Eden]] from
 some other source (see EDEN; PARADISE), and perhaps in order to
 concentrate the attention of the reader, the description of the origin
 of "earth and heaven" as well as of the plants and of the rain, appears
@@ -223,10 +223,10 @@ theory which explains it as largely Babylonian is in a high degree
 plausible, we must now consider the relations between the Israelitish
 and Babylonian cosmogonies. The short account of creation first
 translated in 1890 by T. G. Pinches is distinguished by its non-mythical
-character; in particular, the dragon of chaos and darkness is
+character; in particular, the dragon of [[Chaos|chaos]] and darkness is
 conspicuous by her absence. This may illustrate the fact that the dragon
 is also unmentioned in the Hebrew cosmogony; to some writers the
-dragon-element may have seemed grotesque and inappropriate. We must,
+dragon-element may have seemed [[Grotesque|grotesque]] and inappropriate. We must,
 however, study this element in the most important Babylonian tradition,
 even if only for its relation to non-Semitic myths and especially to
 some striking passages in the Bible (Isa. xxvii. 1, li. 9b; Ps. lxxiv.
@@ -243,7 +243,7 @@ in Gen. i. 9, 10, 14, 15, that God divided the primeval waters into two
 parts by an intervening "firmament" or "platform," on which the sun,
 moon and stars (planets) were placed to mark times and to give light.
 This division (cp. Ps. lxxiv. 13) is really a pale version of the old
-mythic statement respecting the cleaving of the carcase of Ti[=a]mat
+mythic statement respecting the cleaving of the carcase of Ti[=a][[Mat|mat]]
 (the Dragon) into two parts, one of which kept the upper waters from
 coming down.[25] And we must affirm that the technical term _t[)e]
 h[=o]m_ (rendered in the English Bible "the deep"), which evidently
@@ -276,7 +276,7 @@ successive stages of creation corresponds so nearly to that in the
 Babylonian epic that we are bound to assume that one has been influenced
 by the other. And if we are asked, "Which is the more original?" we
 answer by appealing to the well-established fact of the profound
-influence of Babylonian culture upon Canaan in remote times (see
+influence of Babylonian culture upon [[Canaan]] in remote times (see
 CANAAN). An important element in this culture would be mythic
 representations of the origin of things, such as the Babylonian Creation
 and Deluge-stories in various forms. Indeed, not only Canaan but all the
@@ -299,9 +299,9 @@ doubtless had peculiarities of their own. From one of them may have come
 that remarkable statement in Gen. i. 2b, "and the spirit of God (Elohim)
 was hovering over the face of the waters," which, until we find some
 similar myth nearer home, is best illustrated and explained by a
-Polynesian myth (see Cheyne, _Traditions and Beliefs of Ancient Israel_,
+Polynesian myth (see [[Cheyne]], _Traditions and Beliefs of Ancient Israel_,
 ad loc.). It is also probably to a non-Babylonian source that we owe the
-prescription of vegetarian or herb diet in Gen. i. 29, 30, which has a
+prescription of vegetarian or [[Herb|herb]] diet in Gen. i. 29, 30, which has a
 Zoroastrian parallel[26] and is evidently based on a myth of the Golden
 Age, independent of the Babylonian cosmogony. Gen. i., therefore, has
 not, as it stands, been directly borrowed from Babylonia, and yet the
@@ -332,8 +332,8 @@ FOOTNOTES:
   [2] See Ratzel. _Hist. of Mankind_, ii. 147-148; Breysig, _Die
     Entstehung des Gottesgedankens_ (1905), pp. 10-12.
 
-  [3] See Chamberlain, _Journ. of American Folklore_, iv. 208-209
-    (analysis of Perrot's account); Brinton, _Myths of the New World_,
+  [3] See [[Chamberlain]], _Journ. of American Folklore_, iv. 208-209
+    (analysis of Perrot's account); [[Brinton]], _Myths of the New World_,
     pp. 176-179; Breysig, op. cit., pp. 15-20.
 
   [4] On Michabo see Brinton, op. cit. (1876), pp. 176 ff., _Essays of
@@ -343,13 +343,13 @@ FOOTNOTES:
     however, thought otherwise, and the myth itself suggests a
     theriomorphic earth-maker.
 
-  [5] See Schoolcraft, _Myth of Hiawatha_ (1856), pp. 35-39; and cf.
+  [5] See Schoolcraft, _Myth of [[Hiawatha]]_ (1856), pp. 35-39; and cf.
     the myth of Manabush, analysed in _Journ. of Amer. Folklore_, iv.
     210-213.
 
   [6] The latest explanation of Joskeha is "dear little sprout," and of
     Tawiscara, "the ice-one," while Aataentsic becomes "she of the
-    swarthy body." Hewitt, _Journ. of Amer. Folklore_, x. 68. Brébeuf
+    swarthy body." [[Hewitt]], _Journ. of Amer. Folklore_, x. 68. Brébeuf
     (1635) says that Iouskeha gives growth and fair weather (Tylor,
     _Prim. Cult._ i. 294).
 
@@ -371,7 +371,7 @@ FOOTNOTES:
   [12] _De las antiquas gentes del Peru_ (ed. 1892), pp. 55, 56.
 
   [13] See especially Waitz-Gerland, _Anthropologie der Naturvölker_,
-    vi. 229-302; Gill, _Myths and Songs of the South Pacific_; Schirren,
+    vi. 229-302; [[Gill]], _Myths and Songs of the South Pacific_; Schirren,
     _Wandersagen der Neuseeländer_; also an older work (Sir George)
     Grey's _Polynesian Mythology_.
 
@@ -401,8 +401,8 @@ FOOTNOTES:
     traditions which it contains are often old.
 
   [24] Fragments of older works are cited by Philo of Byblus (in
-    Eusebius, _Praep. Evang._ i. 10) and Mochus and Endemus (in
-    Damascius, _De primis principiis_, c. 125).
+    [[Eusebius]], _Praep. Evang._ i. 10) and Mochus and Endemus (in
+    [[Damascius]], _De primis principiis_, c. 125).
 
   [25] See Jastrow, _Religion of Babylonia and Assyria_, p. 428.
 

@@ -15,10 +15,10 @@ forest in 1627; nine years later, an earthwork was raised close by, for
 the protection of the Russian frontier against the Tatars. Situated in a
 very fertile country, on the highway to Astrakhan and at the head of
 water communication with the Don, the town soon became a centre of
-trade; as the junction of the railways leading to the Sea of Azov, to
+trade; as the junction of the railways leading to the Sea of [[Azov]], to
 Tsaritsyn on the lower Volga, to Saratov and to Orel, its importance has
 recently been still further increased. Its export of cattle, grain,
-meat, eggs (22,000,000), tallow, hides, &c., is steadily growing, and it
+[[Meat|meat]], [[Egg|eggs]] (22,000,000), tallow, hides, &c., is steadily growing, and it
 possesses factories, flour mills, tallow works, distilleries, tanneries
 and glue works.
 

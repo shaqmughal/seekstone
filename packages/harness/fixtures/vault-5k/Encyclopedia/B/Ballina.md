@@ -15,7 +15,7 @@ flour-mills and manufactures snuff and coarse linen. On the 25th of August
 1798, Ballina was entered by the French under General Humbert, marching
 from their landing-place at Killala. In the neighbourhood there is the
 interesting cromlech of the four Maels, which, if actually erected over the
-criminals whose name it bears, is proved by the early annals of Ireland to
+criminals whose name it bears, is proved by the early [[Annals|annals]] of Ireland to
 belong to the 7th century A.D. Their story relates that these men,
 foster-brothers of Cellach, bishop of Kilmore-Moy, murdered him at the
 instigation of Guaire Aidhne, king of Connaught, but were themselves

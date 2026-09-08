@@ -11,7 +11,7 @@ give information about both these quantities.
 Velocity anemometers may again be subdivided into two classes, (1)
 those which do not require a wind vane or weathercock, (2) those
 which do. The Robinson anemometer, invented (1846) by Dr. Thomas Romney
-Robinson, of Armagh Observatory, is the best-known and most generally
+Robinson, of [[Armagh]] Observatory, is the best-known and most generally
 used instrument, and belongs to the first of these. It consists
 of four hemispherical cups, mounted one on each end of a pair of
 horizontal arms, which lie at right angles to each other and form a
@@ -35,10 +35,10 @@ of the velocity of the wind. This result was apparently confirmed by
 some independent experiments, but it is very far from the truth, for
 it is now known that the actual ratio, or factor as it is commonly
 called, of the velocity of the wind to that of the cups depends very
-largely on the dimensions of the cups and arms, and may have almost
+largely on the [[Dimension|dimensions]] of the cups and arms, and may have almost
 any value between two and a little over three. The result has been
 that wind velocities published in many official publications have
-often been in error by nearly 50%.
+often been in [[Error|error]] by nearly 50%.
 
 The other forms of velocity anemometer may be described as belonging
 to the windmill type. In the Robinson anemometer the axis of rotation
@@ -60,7 +60,7 @@ of a flat plate, which is usually square or circular, while a wind
 vane keeps this exposed normally to the wind, and the pressure of the
 wind on its face is balanced by a spring. The distortion of the spring
 determines the actual force which the wind is exerting on the plate,
-and this is either read off on a suitable gauge, or leaves a record in
+and this is either read off on a suitable [[Gauge|gauge]], or leaves a record in
 the ordinary way by means of a pen writing on a sheet of paper moved
 by clockwork. Instruments of this kind have been in use for a long
 series of years, and have recorded pressures up to and even exceeding
@@ -89,16 +89,16 @@ being once driven back by the wind cannot return until released by
 hand; but the catch does not prevent the plate being driven back
 farther by a gust stronger than the last one that moved it. Examples
 of these plates are erected on the west coast of England, where in the
-winter fierce gales often occur; a pressure of 30 lb per sq. ft. has
+winter fierce [[Gale|gales]] often occur; a pressure of 30 lb per sq. ft. has
 not been shown by them, and instances exceeding 20 lb are extremely
 rare.
 
 Many other modifications have been used and suggested. Probably a
 sphere would prove most useful for a pressure anemometer, since owing
 to its symmetrical shape it would not require a weathercock. A small
-light sphere hanging from the end of 30 or 40 ft. of fine sewing
+light sphere [[Hanging|hanging]] from the end of 30 or 40 ft. of fine sewing
 cotton has been employed to measure the wind velocity passing over
-a kite, the tension of the cotton being recorded, and this plan has
+a [[Kite|kite]], the tension of the cotton being recorded, and this plan has
 given satisfactory results.
 
 Lind's anemometer, which consists simply of a U tube containing liquid
@@ -145,7 +145,7 @@ entirely alter the registration.
 
 The connexion between the velocity and the pressure of the wind is
 one that is not yet known with absolute certainty. Many text-books on
-engineering give the relation P=.005 _v_^2 when P is the pressure in
+[[Engineering|engineering]] give the relation P=.005 _v_^2 when P is the pressure in
 lb per sq. ft. and _v_ the velocity in miles per hour. The history
 of this untrue relation is curious. It was given about the end of the
 18th century as based on some experiments, but with a footnote stating

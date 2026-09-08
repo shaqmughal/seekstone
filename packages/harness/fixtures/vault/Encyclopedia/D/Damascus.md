@@ -17,7 +17,7 @@ indicated in Babylonian monuments literally means "fortress of the
 Amorites"; could this be proved it would be valuable testimony to its
 antiquity if not its origin. The city is mentioned in the document that
 describes the battle of the four kings against five, inserted in the
-book of Genesis (ch. xiv.): Abram (Abraham) is reported to have pursued
+book of [[Genesis]] (ch. xiv.): Abram (Abraham) is reported to have pursued
 the routed kings to Hobah _north of Damascus_ (v. 15). The name of the
 steward of Abram's establishment is given in Genesis xv. 2, as _Dammesek
 Eliezer_, which is explained in the Aramaic and Syriac versions as
@@ -50,7 +50,7 @@ king of Zobah. The expedition was successful; David smote of the Syrians
 servants to David, and brought gifts" (2 Sam. viii. 5, 6; 1 Chron.
 xviii. 5). This statement, it should be noticed, has been questioned by
 some modern historical and textual critics, who believe that "Syria"
-(Hebrew _Aram_) is here a corruption for "Edom." There is no other
+(Hebrew _[[Aram]]_) is here a corruption for "[[Edom]]." There is no other
 evidence--save the corrupt passage, 2 Sam. xxiv. 6, where
 "Tahtim-hodshi" is explained as meaning "the land of the Hittites to
 Kadesh"--that David's kingdom was so far extended northward. However
@@ -61,9 +61,9 @@ dynasty. Throughout the reign of Solomon (1 Kings xi. 23, 24) this Rezon
 seems to have been a constant enemy to the kingdom of Israel.
 
 It is inferred from 1 Kings xv. 19 that Abijah, son of Rehoboam, king of
-Judah, made a league with Tab-Rimmon of Damascus to assist him in his
+[[Judah]], made a league with Tab-Rimmon of Damascus to assist him in his
 wars against Israel, and that afterwards Tab-Rimmon's son Ben-Hadad came
-to terms with the second successor of Jeroboam, Baasha. Asa, son of
+to terms with the second successor of [[Jeroboam]], Baasha. Asa, son of
 Abijah, followed his father's policy, and bought the aid of Syria,
 whereby he was enabled to destroy the border fort that Baasha had
 erected (1 Kings xv. 22).
@@ -79,8 +79,8 @@ Shalmaneser in 854. This seems to indicate an intermediate defeat and
 vassalage of Ahab, of which no direct record remains; and it was
 probably in the attempt to throw off this vassalage in 853, the year
 after the battle of Karkar, that Ahab met his death in battle with the
-Syrians (1 Kings xxii. 34-40). In the reign of Jehoram, Naaman, the
-Syrian general, came and was cleansed by the prophet Elisha of leprosy
+Syrians (1 Kings xxii. 34-40). In the reign of [[Jehoram]], Naaman, the
+Syrian general, came and was cleansed by the prophet [[Elisha]] of [[Leprosy|leprosy]]
 (2 Kings v.).
 
 In 843 Hazael assassinated Ben-Hadad and made himself king of Damascus.
@@ -90,7 +90,7 @@ Assyria, took advantage of this in 842 and attacked Syria. He wasted the
 country, but could not take the capital. Jehu, king of Israel, paid
 tribute to Assyria, for which Hazael afterwards revenged himself, during
 the time when Shalmaneser was distracted by his Armenian wars, by
-attacking the borders of Israel (2 Kings x. 32).
+attacking the [[Borders|borders]] of Israel (2 Kings x. 32).
 
 Adad-nirari IV. invaded Syria and besieged Damascus in 806. Taking
 advantage of this and similar succeeding events, Jehoash, king of
@@ -101,29 +101,29 @@ Damascus at the time, came up against him; at the same time the Edomites
 and the Philistines revolted. Ahaz appealed to Tiglath-Pileser III.,
 king of Assyria, sent him gifts, and besought his protection.
 Tiglath-Pileser invaded Syria, and in 732 succeeded in reducing Damascus
-(see also BABYLONIA AND ASSYRIA, _Chronology_, S 5, and JEWS, SS 10
+(see also BABYLONIA AND ASSYRIA, _[[Chronology]]_, S 5, and JEWS, SS 10
 sqq.).
 
 Except for the abortive rising under Sargon in 720, we hear nothing more
 of Damascus for a long period. In 333 B.C., after the battle of Issus,
 it was delivered over by treachery to Parmenio, the general of Alexander
-the Great; the harem and treasures of Darius had here been lodged. It
+the Great; the [[Harem|harem]] and treasures of [[Darius]] had here been lodged. It
 had a chequered history during the wars of the successors of Alexander,
 being occasionally in Egyptian hands. In 112 B.C. the empire of Syria
-was divided by Antiochus Grypus and Antiochus Cyzicenus; the city of
+was divided by [[Antiochus]] Grypus and Antiochus Cyzicenus; the city of
 Damascus fell to the share of the latter. Hyrcanus took advantage of the
-disputes of these rulers to advance his own kingdom. Demetrius Eucaerus,
+disputes of these rulers to advance his own kingdom. [[Demetrius]] Eucaerus,
 successor of Cyzicenus, invaded Palestine in 88 B.C., and defeated
 Alexander Jannaeus at Shechem. On his dethronement and captivity by the
-Parthians, Antiochus Dionysus, his brother, succeeded him, but was slain
+Parthians, Antiochus [[Dionysus]], his brother, succeeded him, but was slain
 in battle by Haritha (Aretas) the Arab--the first instance of Arab
 interference with Damascene politics. Haritha yielded to Tigranes, king
-of Armenia, who in his turn was driven out by Q. Caecilius Metellus (son
+of [[Armenia]], who in his turn was driven out by Q. Caecilius Metellus (son
 of Scipio Nasica), the Roman general. In 63 Syria was made a Roman
 province.
 
 In the New Testament Damascus appears only in connexion with the
-miraculous conversion of St Paul (Acts ix., xxii., xxvi.), his escape
+miraculous [[Conversion|conversion]] of St Paul (Acts ix., xxii., xxvi.), his escape
 from Aretas the governor by being lowered in a basket over the wall
 (Acts ix. 25; 2 Cor. xi. 32, 33), and his return thither after his
 retirement in Arabia (Gal. i. 17).
@@ -132,31 +132,31 @@ In 150, under Trajan, Damascus became a Roman provincial city.
 
 On the establishment of Christianity Damascus became the seat of a
 bishop who ranked next to the patriarch of Antioch. The great temple of
-Damascus was turned by Arcadius into a Christian church.
+Damascus was turned by [[Arcadius]] into a Christian church.
 
 In 635 Damascus was captured for Islam by Khalid ibn Walid, the great
 general of the new religion, being the first city to yield after the
 battle of the Yarmuk (Hieromax). After the murder of Ali, the fourth
 caliph, his successor Moawiya transferred the seat of the Caliphate
-(q.v.) from Mecca to Damascus and thus commenced the great dynasty of
+(q.v.) from [[Mecca]] to Damascus and thus commenced the great dynasty of
 the Omayyads, whose rule extended from the Atlantic to India. This
 dynasty lasted about ninety years; it was supplanted by that of the
 Abbasids, who removed the seat of empire to Mesopotamia; and Damascus
 passed through a period of unrest in which it was captured and ravaged
-by Egyptians, Carmathians and Seljuks in turn. The crusaders attacked
+by Egyptians, [[Carmathians]] and Seljuks in turn. The crusaders attacked
 Damascus in 1126, but never succeeded in keeping a firm hold of it, even
 during their brief domination of the country. It was the headquarters of
-Saladin in the wars with the Franks. Of its later history we need only
+Saladin in the wars with the [[Franks]]. Of its later history we need only
 mention the Mongolian capture in 1260; its Egyptian recapture by the
 Mameluke Kotuz; the ferocious raid of Timur (Tamerlane) in 1399; and the
 conquest by the Turkish sultan Selim, whereby it became a city of the
 Ottoman empire (1516). In its more recent history the only incidents
-that need be mentioned are its capture by Ibrahim Pasha, the Egyptian
+that need be mentioned are its capture by [[Ibrahim Pasha]], the Egyptian
 general, in 1832, when the city was first opened to the representatives
 of foreign powers; its revolt against Ibrahim's tyranny in 1834, which
 he crushed with the aid of the Druses; the return of the city to Turkish
 domination, when the Egyptians were driven out of Syria in 1840 by the
-allied powers; and the massacre of July 1860, when the Moslem population
+allied powers; and the [[Massacre|massacre]] of July 1860, when the Moslem population
 rose against the Christians, burnt their quarter, and slaughtered about
 3000 adult males.
 
@@ -176,7 +176,7 @@ part of the city, and a long suburb called El-Meidan extending about a
 mile along the Hajj Road. On the left bank are the suburbs El 'Amaara
 and El-Salihia. The waters of the river are carried by channels and
 conduits to all the houses of the city. The orchards, gardens, vineyards
-and fields of Damascus are said to extend over a circuit of at least 60
+and [[Fields|fields]] of Damascus are said to extend over a circuit of at least 60
 m. In the surrounding plain are one hundred and forty villages, occupied
 in all by about 50,000 persons (1000 Christians, 2000 Druses).
 
@@ -185,14 +185,14 @@ within. The entrance is usually by a low door, and through a narrow
 winding passage which leads to the outer court, where the master has his
 reception room. From this another winding passage leads to the harem,
 which is the principal part of the house. The plan of all is the
-same--an open court, with a tesselated pavement, and one or two marble
-fountains; orange and lemon trees, flowering shrubs, and climbing plants
+same--an open court, with a tesselated pavement, and one or two [[Marble|marble]]
+[[Fountain|fountains]]; orange and [[Lemon|lemon]] trees, flowering shrubs, and climbing plants
 give freshness and fragrance. All the apartments open into the court;
 and on the south side is an open alcove, with a marble floor, and raised
 dais round three sides, covered with cushions; the front wall is
-supported by an ornamented Saracenic arch. The decoration of some of the
+supported by an ornamented Saracenic [[Arch|arch]]. The decoration of some of the
 rooms is gorgeous, the walls being covered in part with mosaics and in
-part with carved work, while the ceilings are rich in arabesque
+part with carved work, while the [[Ceiling|ceilings]] are rich in [[Arabesque|arabesque]]
 ornaments, elaborately gilt. A few of the modern Jewish houses have been
 embellished at an enormous cost, but they are wanting in taste.
 
@@ -209,9 +209,9 @@ is ruined.
 The church of St John the Baptist constructed by Arcadius on the site of
 the temple was turned by Caliph Walid I. (705-717) to a mosque which was
 the most important building of Damascus. It was a structure 431 ft. by
-125 ft. interior dimensions, extending along the south side of a
+125 ft. interior [[Dimension|dimensions]], extending along the south side of a
 quadrangle 163 yds. by 108 yds. Except the famous inscription over the
-door--"Thy kingdom, O Christ, is an everlasting kingdom, and thy
+door--"Thy kingdom, O Christ, is an [[Everlasting|everlasting]] kingdom, and thy
 dominion endureth throughout all generations"--every trace of
 Christianity was effaced from the church at its conversion. It was
 destroyed by fire on the 14th of October 1893, and though it was
@@ -220,25 +220,25 @@ interest perished. It is estimated that there are over two hundred
 mosques in Damascus.
 
 _Products, Manufactures, &c._--Damascus occupies an important commercial
-position, being the market for the whole of the desert; it also is of
+position, being the market for the whole of the [[Desert|desert]]; it also is of
 great importance religiously, as being the starting-point for the Hajj
 pilgrimage from Syria to Mecca, which leaves on the 15th of the lunar
 month of Shawwal each year. This of course brings much trade to the
 city. Its chief manufactures are silk work, cloths and cloaks, gold and
-silver ornaments, &c., brass and copper work, furniture and ornamental
-woodwork. The bazaars of Damascus are among the most famous of their
+silver ornaments, &c., [[Brass|brass]] and copper work, furniture and ornamental
+woodwork. The [[Bazaar|bazaars]] of Damascus are among the most famous of their
 kind. It is connected with Beirut and Mezerib by railway, and at the end
 of the past century the great undertaking of running a line to Mecca was
 commenced. In the surrounding gardens and fields walnuts, apricots,
 wheat, barley, maize, &c. are grown. Its commercial importance is
-referred to by Ezekiel (xxvii. 18), who mentions its trade in wines and
-wool. The climate is good; in winter there is often hard frost and much
+referred to by [[Ezekiel]] (xxvii. 18), who mentions its trade in wines and
+wool. The climate is good; in winter there is often hard [[Frost|frost]] and much
 snow, and even in summer, with a day temperature of 100 deg. F., the
-nights are always cool. Fever, dysentery and ophthalmia, chiefly due to
+nights are always cool. [[Fever]], dysentery and ophthalmia, chiefly due to
 exposure to heavy dews and cold nights, are prevalent. Though still the
 market of the nomads, the surer and cheaper sea route has almost
 destroyed the transit trade to which it once owed its wealth, and has
-even diminished the importance of the annual pilgrim caravan to Mecca.
+even diminished the importance of the annual pilgrim [[Caravan|caravan]] to Mecca.
 The Damascene, however, still retains his skill as a craftsman and
 tiller of the soil. The chief imports are cloths, prints, muslins, raw
 silk, sugar, rice, &c.
@@ -255,12 +255,12 @@ the following table:--
 
 Most of the Christians belong to the Orthodox and Roman Catholic
 (United) Greek Churches; and there are also communities of Melchites,
-Jacobites, Maronites, Nestorians, Armenians and Protestants. There are
+[[Jacobites]], [[Maronites]], Nestorians, Armenians and Protestants. There are
 Protestant missions, founded 1843, and a British hospital.
 
   AUTHORITIES.--Lortet, _La Syrie d'aujourd'hui_, p. 567 f. (Paris,
-  1884); Von Oppenheim, _Vom Mittelmeer zum Persischen Golf_, i. 49 f.
-  (Berlin, 1899); G. A. Smith, _Historical Geography of the Holy Land_;
+  1884); Von Oppenheim, _Vom Mittelmeer zum Persischen [[Golf]]_, i. 49 f.
+  (Berlin, 1899); G. A. Smith, _Historical [[Geography]] of the Holy Land_;
   _Encyclopaedia Biblica_, art. "Damascus"; Consular Reports;
   Baedeker-Socin, _Handbook to Syria and Palestine_. For the Great
   Mosque see Dickie, Phene Spiers, and Sir C. W. Wilson in _Palestine

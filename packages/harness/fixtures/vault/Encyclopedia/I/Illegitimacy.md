@@ -10,7 +10,7 @@ type: note
 ILLEGITIMACY (from "illegitimate," Lat. _illegitimus_, not in accordance
 with law, hence born out of lawful wedlock), the state of being of
 illegitimate birth. The law dealing with the legitimation of children
-born out of wedlock will be found under LEGITIMACY AND LEGITIMATION. How
+born out of wedlock will be found under [[Legitimacy|LEGITIMACY]] AND LEGITIMATION. How
 far the prevalence of illegitimacy in any community can be taken as a
 guide to the morality of that community is a much disputed question. The
 phenomenon itself varies so much in different localities, even in
@@ -24,7 +24,7 @@ climatic and social differences must be allowed for, and the influence
 of legislation is to be taken into account. The fact that in some
 countries marriage is forbidden until a man has completed his military
 service, in another, that consent of parents is requisite, in another,
-that "once a bastard always a bastard" is the rule, while in yet another
+that "once a [[Bastard|bastard]] always a bastard" is the rule, while in yet another
 that the merest of subsequent formalities will legitimize the offspring,
 must account in some degree for variations in figures.
 
@@ -38,17 +38,17 @@ must account in some degree for variations in figures.
   | England and Wales|  48 |  48 |  46 |  42 |  41 |  40 |
   | Scotland         |  85 |  83 |  81 |  74 |  68 |  64 |
   | Ireland          |  24 |  27 |  28 |  36 |  36 |  26 |
-  | Denmark          | 101 | 100 |  95 |  94 |  96 | 101 |
+  | [[Denmark]]          | 101 | 100 |  95 |  94 |  96 | 101 |
   | Norway           |  84 |  81 |  75 |  71 |  74 |  .. |
   | Sweden           | 100 | 102 | 103 | 105 | 113 |  .. |
-  | Finland          |  73 |  70 |  65 |  65 |  66 |  .. |
+  | [[Finland]]          |  73 |  70 |  65 |  65 |  66 |  .. |
   | Russia           |  28 |  27 |  27 |  27 |  27 |  .. |
   | Austria          | 138 | 145 | 147 | 146 | 141 |  .. |
   | Hungary          |  73 |  79 |  82 |  85 |  90 |  94 |
   | Switzerland      |  47 |  48 |  47 |  46 |  45 |  .. |
   | Germany          |  87 |  92 |  92 |  91 |  90 |  84 |
   | Netherlands      |  31 |  30 |  32 |  31 |  27 |  23 |
-  | Belgium          |  74 |  82 |  87 |  88 |  80 |  68 |
+  | [[Belgium]]          |  74 |  82 |  87 |  88 |  80 |  68 |
   | France           |  72 |  78 |  83 |  87 |  88 |  88 |
   | Portugal         |  .. |  .. | 123 | 122 | 121 |  .. |
   | Spain            |  .. |  .. |  .. |  .. |  49 |  44 |
@@ -56,7 +56,7 @@ must account in some degree for variations in figures.
   | New South Wales  |  42 |  44 |  49 |  60 |  69 |  70 |
   | Victoria         |  43 |  46 |  49 |  60 |  69 |  70 |
   | Queensland       |  39 |  41 |  44 |  48 |  59 |  65 |
-  | South Australia  |  .. |  22 |  25 |  30 |  38 |  41 |
+  | South [[Australia]]  |  .. |  22 |  25 |  30 |  38 |  41 |
   | West Australia   |  .. |  .. |  .. |  48 |  51 |  42 |
   | Tasmania         |  .. |  44 |  38 |  46 |  57 |  .. |
   | New Zealand      |  23 |  29 |  32 |  38 |  44 |  45 |
@@ -65,7 +65,7 @@ must account in some degree for variations in figures.
 Table I. gives the number of illegitimate births per 1000 births in
 various countries of the world for quinquennial periods. It is to be
 noted that still-born births are excluded, as in the United Kingdom
-(contrary to the practice prevailing in most European countries)
+(contrary to the practice prevailing in most [[European Countries|European countries]])
 registration of such births is not compulsory. The United States is
 omitted, as there is no national system of registration of births.
 
@@ -157,27 +157,27 @@ The corrected rate bears out the result shown in Table III as follows:
   |                | Ten years  | 1907. |
   |                | 1897-1906. |       |
   +----------------+------------+-------+
-  | Bedford        |     49     |  53   |
+  | [[Bedford]]        |     49     |  53   |
   | Berks          |     47     |  48   |
-  | Bucks          |     40     |  44   |
+  | [[Buck|Bucks]]          |     40     |  44   |
   | Cambridge      |     48     |  53   |
-  | Chester        |     41     |  39   |
-  | Cornwall       |     50     |  48   |
-  | Cumberland     |     61     |  58   |
-  | Derby          |     41     |  41   |
+  | [[Chester]]        |     41     |  39   |
+  | [[Cornwall]]       |     50     |  48   |
+  | [[Cumberland]]     |     61     |  58   |
+  | [[Derby]]          |     41     |  41   |
   | Devon          |     39     |  39   |
   | Dorset         |     40     |  37   |
   | Durham         |     34     |  37   |
-  | Essex          |     28     |  27   |
+  | [[Essex]]          |     28     |  27   |
   | Gloucester     |     36     |  36   |
   | Hants          |     40     |  36   |
   | Hereford       |     66     |  66   |
-  | Hertford       |     40     |  42   |
+  | [[Hertford]]       |     40     |  42   |
   | Huntingdon     |     49     |  46   |
   | Kent           |     40     |  41   |
   | Lancashire     |     38     |  37   |
-  | Leicestershire |     40     |  39   |
-  | Lincolnshire   |     55     |  54   |
+  | [[Leicestershire]] |     40     |  39   |
+  | [[Lincolnshire]]   |     55     |  54   |
   | London         |     37     |  38   |
   | Middlesex      |     30     |  28   |
   | Monmouth       |     29     |  27   |
@@ -202,9 +202,9 @@ The corrected rate bears out the result shown in Table III as follows:
   |   N.   "       |     53     |  45   |
   |   W.   "       |     43     |  41   |
   |                |            |       |
-  | Anglesey       |     81     |  75   |
+  | [[Anglesey]]       |     81     |  75   |
   | Brecon         |     44     |  40   |
-  | Cardigan       |     64     |  61   |
+  | [[Cardigan]]       |     64     |  61   |
   | Carmarthen     |     37     |  41   |
   | Carnarvon      |     60     |  72   |
   | Denbigh        |     49     |  47   |
@@ -290,15 +290,15 @@ The corrected rate bears out the result shown in Table III as follows:
 
   TABLE VII.--_Rate of Illegitimacy per 1000 Births._
 
-  Belfast       31  |  Liverpool     54
-  Birmingham    35  |  Manchester    28
-  Bradford      40  |  Middlesboro'  25
-  Bristol       31  |  Newcastle     36
+  [[Belfast]]       31  |  [[Liverpool]]     54
+  [[Birmingham]]    35  |  Manchester    28
+  [[Bradford]]      40  |  Middlesboro'  25
+  [[Bristol]]       31  |  Newcastle     36
   Cork          18  |  Nottingham    60
   Dublin        28  |  Portsmouth    33
   Edinburgh     69  |  Salford       28
-  Glasgow       63  |  Sunderland    30
-  Leeds         54  |
+  [[Glasgow]]       63  |  Sunderland    30
+  [[Leeds]]         54  |
 
   TABLE VIII.--_Scotland 1906._
 
@@ -349,18 +349,18 @@ The corrected rate bears out the result shown in Table III as follows:
   +------------------+------+----------+-----------------------+
   | Shetland         |   31 |    5.30  |          7.0          |
   | Orkney           |   29 |    5.99  |          7.7          |
-  | Caithness        |   84 |    9.96  |         19.4          |
+  | [[Caithness]]        |   84 |    9.96  |         19.4          |
   | Sutherland       |   28 |    6.81  |         10.1          |
   | Ross and Cromarty|   74 |    4.40  |          6.9          |
-  | Inverness        |  145 |    8.02  |         11.5          |
+  | [[Inverness]]        |  145 |    8.02  |         11.5          |
   | Nairn            |   18 |   10.29  |         13.2          |
-  | Elgin (or Moray) |  169 |   15.66  |         26.3          |
-  | Banff            |  202 |   12.93  |         25.4          |
+  | [[Elgin]] (or Moray) |  169 |   15.66  |         26.3          |
+  | [[Banff]]            |  202 |   12.93  |         25.4          |
   | Aberdeen         | 1083 |   12.38  |         24.2          |
   | Kincardine       |   93 |    8.15  |         17.0          |
   | Forfar           |  676 |    9.43  |         14.2          |
   | Perth            |  215 |    7.93  |         10.8          |
-  | Fife             |  308 |    4.56  |          9.7          |
+  | [[Fife]]             |  308 |    4.56  |          9.7          |
   | Kinross          |   20 |    9.95  |         22.2          |
   | Clackmannan      |   53 |    6.69  |         10.9          |
   | Stirling         |  235 |    4.91  |         13.2          |
@@ -372,13 +372,13 @@ The corrected rate bears out the result shown in Table III as follows:
   | Lanark           | 2872 |    6.28  |         15.9          |
   | Linlithgow       |   99 |    3.88  |         15.4          |
   | Edinburgh        |  930 |    7.23  |         11.0          |
-  | Haddington       |   66 |    5.92  |         11.8          |
-  | Berwick          |   60 |    9.63  |         12.7          |
+  | [[Haddington]]       |   66 |    5.92  |         11.8          |
+  | [[Berwick]]          |   60 |    9.63  |         12.7          |
   | Peebles          |   21 |    6.18  |          7.9          |
   | Selkirk          |   46 |    9.13  |         11.5          |
   | Roxburgh         |   83 |    8.67  |          9.8          |
   | Dumfries         |  218 |   12.51  |         19.9          |
-  | Kirkcudbright    |   92 |   10.71  |         15.7          |
+  | [[Kirkcudbright]]    |   92 |   10.71  |         15.7          |
   | Wigtoun          |  106 |   12.79  |         22.5          |
   +------------------+------+----------+-----------------------+
   |   Scotland       | 9306 |    7.05  |         14.1          |
@@ -419,7 +419,7 @@ for 1907 (p. xxx.) is important.
   +------------+-----+-----+-----+-----+-----+
   | Ireland    | 2.6 | 2.5 | 2.6 | 2.6 | 2.5 |
   |            +-----+-----+-----+-----+-----+
-  | Leinster   | 2.6 | 2.6 | 2.7 | 2.7 | 2.7 |
+  | [[Leinster]]   | 2.6 | 2.6 | 2.7 | 2.7 | 2.7 |
   | Munster    | 2.3 | 2.2 | 2.3 | 2.2 | 2.1 |
   | Ulster     | 3.3 | 3.4 | 3.5 | 3.5 | 3.3 |
   | Connaught  | 0.5 | 0.7 | 0.7 | 0.7 | 0.6 |
@@ -433,21 +433,21 @@ for 1907 (p. xxx.) is important.
   |                                  |   Births.  |             |
   +----------------------------------+------------+-------------+
   | Leinster--                       |            |             |
-  |   Carlow                         |       27   |     3.56    |
+  |   [[Carlow]]                         |       27   |     3.56    |
   |   Dublin                         |       34   |     1.15    |
   |   Dublin Co. Borough             |      314   |     3.29    |
-  |   Kildare                        |       22   |     1.46    |
-  |   Kilkenny                       |       54   |     3.29    |
+  |   [[Kildare]]                        |       22   |     1.46    |
+  |   [[Kilkenny]]                       |       54   |     3.29    |
   |   King's                         |       24   |     2.07    |
-  |   Longford                       |       11   |     1.23    |
-  |   Louth                          |       27   |     2.01    |
-  |   Meath                          |       30   |     2.27    |
+  |   [[Longford]]                       |       11   |     1.23    |
+  |   [[Louth]]                          |       27   |     2.01    |
+  |   [[Meath]]                          |       30   |     2.27    |
   |   Queen's                        |       18   |     1.70    |
   |   Westmeath                      |       19   |     1.57    |
   |   Wexford                        |       89   |     4.11    |
   |   Wicklow                        |       37   |     2.91    |
   | Munster--                        |            |             |
-  |   Clare                          |       23   |     1.04    |
+  |   [[Clare]]                          |       23   |     1.04    |
   |   Cork Co. and Co. Borough       |      151   |     1.69    |
   |   Kerry                          |       51   |     1.34    |
   |   Limerick Co. and Co. Borough   |      107   |     3.14    |
@@ -456,17 +456,17 @@ for 1907 (p. xxx.) is important.
   |   Waterford Co. and Co. Borough  |       68   |     3.69    |
   | Ulster--                         |            |             |
   |   Antrim                         |      230   |     5.08    |
-  |   Armagh                         |       99   |     3.49    |
+  |   [[Armagh]]                         |       99   |     3.49    |
   |   Belfast Co. Borough            |      355   |     3.13    |
-  |   Cavan                          |       27   |     1.54    |
-  |   Donegal                        |       54   |     1.36    |
-  |   Fermanagh                      |       41   |     3.15    |
+  |   [[Cavan]]                          |       27   |     1.54    |
+  |   [[Donegal]]                        |       54   |     1.36    |
+  |   [[Fermanagh]]                      |       41   |     3.15    |
   |   Londonderry Co. and Borough    |      145   |     4.35    |
   |   Monaghan                       |       24   |     1.55    |
   |   Tyrone                         |      116   |     3.80    |
   | Connaught--                      |            |             |
   |   Galway                         |       32   |      .80    |
-  |   Leitrim                        |       10   |      .77    |
+  |   [[Leitrim]]                        |       10   |      .77    |
   |   Mayo                           |       21   |      .45    |
   |   Roscommon                      |        9   |      .50    |
   |   Sligo                          |        9   |      .52    |
@@ -500,12 +500,12 @@ of London and in certain well-to-do parts, clearly disprove:--
   |         London.          | 1901. | 1903. | 1905. | 1907. |
   +--------------------------+-------+-------+-------+-------+
   | Stepney                  |   12  |    9  |   18  |   10  |
-  | Bethnal Green            |   13  |   15  |   13  |   11  |
+  | [[Bethnal Green]]            |   13  |   15  |   13  |   11  |
   | Mile End Old Town        |   15  |   13  |   16  |   15  |
   | Whitechapel              |   22  |   24  |   19  |   19  |
   |                          +-------+-------+-------+-------+
-  | St George's, Hanover Sq. |   40  |   45  |   45  |   45  |
-  | Kensington               |   48  |   44  |   49  |   54  |
+  | St George's, [[Hanover]] Sq. |   40  |   45  |   45  |   45  |
+  | [[Kensington]]               |   48  |   44  |   49  |   54  |
   | Fulham                   |   43  |   42  |   45  |   40  |
   | Marylebone               |  182  |  186  |  198  |  182  |
   +--------------------------+-------+-------+-------+-------+

@@ -10,9 +10,9 @@ I. The term "Gnosis" first appears in a technical sense in 1 Tim. vi. 20
 ([Greek: he pseudonymos gnosis]). It seems to have at first been applied
 exclusively, or at any rate principally, to a particular tendency within
 the movement as a whole, i.e. to those sections of (the Syrian) Gnostics
-otherwise generally known as Ophites or Naasseni (see Hippolytus,
+otherwise generally known as Ophites or Naasseni (see [[Hippolytus]],
 _Philosophumena_, v. 2: [Greek: Naassenoi ... hoi heautous Gnostikous
-apokalountes]; Irenaeus i. 11. 1; Epiphanius, _Haeres._ xxvi. Cf. also
+apokalountes]; [[Irenaeus]] i. 11. 1; [[Epiphanius]], _Haeres._ xxvi. Cf. also
 the self-assumed name of the Carpocratiani, Iren. i. 25. 6). But in
 Irenaeus the term has already come to designate the whole movement. This
 first came into prominence in the opening decades of the 2nd century
@@ -40,18 +40,18 @@ Here we should especially mention the beautiful and much-discussed _Song
 of the Pearl_, or _Song of the Soul_, which is generally, though without
 absolute clear proof, attributed to the Gnostic Bardesanes (till lately
 it was known only in the Syrian text; edited and translated by Bevan,
-_Texts and Studies_,[2] v. 3, 1897; Hofmann, _Zeitschrift fur
+_Texts and Studies_,[2] v. 3, 1897; [[Hofmann]], _Zeitschrift [[Fur|fur]]
 neutestamentliche Wissenschaft_, iv.; for the newly-found Greek text see
 _Acta apostolorum_, ed. Bonnet, ii. 2, c. 108, p. 219). Generally also
 much Gnostic matter is contained in the apocryphal histories of the
-Apostles. To the school of Bardesanes belongs the "Book of the Laws of
+[[Apostle|Apostles]]. To the school of Bardesanes belongs the "Book of the Laws of
 the Lands," which does not, however, contribute much to our knowledge of
 Gnosticism. Finally, we should mention in this connexion the text on
 which are based the pseudo-Clementine _Homilies_ and _Recognitiones_
 (beginning of the 3rd century). It is, of course, already permeated with
 the Catholic spirit, but has drawn so largely upon sources of a
 Judaeo-Christian Gnostic character that it comes to a great extent
-within the category of sources for Gnosticism. Complete original Gnostic
+within the [[Category|category]] of sources for Gnosticism. Complete original Gnostic
 works have unfortunately survived to us only from the period of the
 decadence of Gnosticism. Of these we should mention the comprehensive
 work called the _Pistis-Sophia_, probably belonging to the second half
@@ -84,7 +84,7 @@ Valentinianism at the beginning of the book. On Irenaeus, and probably
 also on Justin, Hippolytus drew for his _Syntagma_ (beginning of the 3rd
 century), a work which is also lost, but can, with great certainty, be
 reconstructed from three recensions of it: in the _Panarion_ of
-Epiphanius (after 374), in Philaster of Brescia, _Adversus haereses_,
+Epiphanius (after 374), in Philaster of [[Brescia]], _Adversus haereses_,
 and the Pseudo-Tertullian, _Liber adversus omnes haereses_. A second
 work of Hippolytus [Greek: Kata pason haipeseov elegchos] is preserved
 in the so-called _Philosophumena_ which survives under the name of
@@ -102,21 +102,21 @@ doctrines, yet in no case is this collection of sources given by
 Hippolytus to be passed over; it should rather be considered as
 important evidence for the beginnings of the decay of Gnosticism. Very
 noteworthy references to Gnosticism are also to be found scattered up
-and down the _Stromateis_ of Clement of Alexandria. Especially important
+and down the _Stromateis_ of [[Clement]] of Alexandria. Especially important
 are the _Excerpta ex Theodoto_, the author of which is certainly
 Clement, which are verbally extracted from Gnostic writings, and have
 almost the value of original sources. The writings of Origen also
 contain a wealth of material. In the first place should be mentioned the
 treatise _Contra Celsum_, in which the expositions of Gnosticism by both
-Origen and Celsus are of interest (see especially v. 61 seq. and vi. 25
+Origen and [[Celsus]] are of interest (see especially v. 61 seq. and vi. 25
 seq.). Of Tertullian's works should be mentioned: _De praescriptione
 haereticorum_, especially _Adversus Marcionem_, _Adversus Hermogenem_,
 and finally _Adversus Valentinianos_ (entirely founded on Irenaeus).
-Here must also be mentioned the dialogue of Adamantius with the
+Here must also be mentioned the [[Dialogue|dialogue]] of Adamantius with the
 Gnostics, _De recta in deum fide_ (beginning of 4th century). Among the
 followers of Hippolytus, Epiphanius in his _Panarion_ gives much
 independent and valuable information from his own knowledge of
-contemporary Gnosticism. But Theodoret of Cyrus (d. 455) is already
+contemporary Gnosticism. But Theodoret of [[Cyrus]] (d. 455) is already
 entirely dependent on previous works and has nothing new to add. With
 the 4th century both Gnosticism and the polemical literature directed
 against it die out.[4]
@@ -124,7 +124,7 @@ against it die out.[4]
 III. If we wish to grasp the peculiar character of the great Gnostic
 movement, we must take care not to be led astray by the catchword
 "Gnosis." It is a mistake to regard the Gnostics as pre-eminently the
-representatives of intellect among Christians, and Gnosticism as an
+representatives of [[Intellect|intellect]] among Christians, and Gnosticism as an
 intellectual tendency chiefly concerned with philosophical speculation,
 the reconciliation of religion with philosophy and theology. It is true
 that when Gnosticism was at its height it numbered amongst its followers
@@ -138,7 +138,7 @@ not to be proved or propagated, but believed in by the initiated, and
 anxiously guarded as a secret. This knowledge of theirs was not based on
 reflection, on scientific inquiry and proof, but on revelation. It was
 derived directly from the times of primitive Christianity; from the
-Saviour himself and his disciples and friends, with whom they claimed to
+Saviour himself and his [[Disciple|disciples]] and friends, with whom they claimed to
 be connected by a secret tradition, or else from later prophets, of whom
 many sects boasted. It was laid down in wonderful mystic writings, which
 were in the possession of the various circles (Liechtenhahn, _Die
@@ -170,7 +170,7 @@ Gnosticism, how great a part the sacraments played in the Gnostic sects
 (Brandt, _Mandaische Religion_, p. 96 seq.). Everywhere we are met with
 the most varied forms of holy rites--the various baptisms, by water, by
 fire, by the spirit, the baptism for protection against demons,
-anointing with oil, sealing and stigmatizing, piercing the ears, leading
+[[Anointing|anointing]] with oil, sealing and stigmatizing, piercing the [[Ear|ears]], leading
 into the bridal chamber, partaking of holy food and drink. Finally,
 sacred formulas, names and symbols are of the highest importance among
 the Gnostic sects. We constantly meet with the idea that the soul, on
@@ -201,11 +201,11 @@ IV. All these investigations point clearly to the fact that Gnosticism
 belongs to the group of mystical religions. We must now proceed to
 define more exactly the peculiar and distinctive character of the
 Gnostic system. The basis of the Gnostic religion and world-philosophy
-lies in a decided Oriental dualism. In sharp contrast are opposed the
+lies in a decided Oriental [[Dualism|dualism]]. In sharp contrast are opposed the
 two worlds of the good and of the evil, the divine world and the
 material world [Greek: hule], the worlds of light and of darkness. In
 many systems there seems to be no attempt to derive the one world from
-the other. The true Basilides (q.v.), perhaps also Satornil, Marcion and
+the other. The true [[Basilides]] (q.v.), perhaps also Satornil, Marcion and
 a part of his disciples, Bardesanes and others, were frankly dualists.
 In the case of other systems, owing to the inexactness of our
 information, we are unable to decide; the later systems of Mandaeism and
@@ -231,7 +231,7 @@ reconciliation is set forth in the so-called "system of emanations" in
 which it is assumed that from the supreme divinity emanated a somewhat
 lesser world, from this world a second, and so on, until the divine
 element (of life) became so far weakened and attenuated, that the
-genesis of a partly, or even wholly, evil world appears both possible
+[[Genesis|genesis]] of a partly, or even wholly, evil world appears both possible
 and comprehensible. A system of emanations of this kind, in its purest
 form, is set forth in the expositions coming from the school of
 Basilides, which are handed down by Irenaeus, while the propositions
@@ -286,7 +286,7 @@ Another characteristic feature of the Gnostic conception of the universe
 is the role played in almost all Gnostic systems by the seven
 world-creating powers. There are indeed certain exceptions; for
 instance, in the systems of the Valentinian schools there is the figure
-of the one Demiurge who takes the place of the Seven. But how widespread
+of the one [[Demiurge]] who takes the place of the Seven. But how widespread
 was the idea of seven powers, who created this lower material world and
 rule over it, has been clearly proved, especially by the systematic
 examination of the subject by Anz (_Ursprung des Gnosticismus_). These
@@ -298,7 +298,7 @@ devilish powers. On the other hand, among the speculations of the
 Mandaeans, we find a different and perhaps more primitive conception of
 the Seven, according to which they, together with their mother Namrus
 (Ruha) and their father (Ur), belong entirely to the world of darkness.
-They and their family are looked upon as captives of the god of light
+They and their family are looked upon as [[Captive|captives]] of the god of light
 (Manda-d'hayye, Hibil-Ziva), who pardons them, sets them on chariots of
 light, and appoints them as rulers of the world (cf. chiefly Genza, in
 _Tractat_. 6 and 8; W. Brandt, _Mandaische Schriften_, 125 seq. and 137
@@ -332,14 +332,14 @@ of the seven planetary deities. Very instructive in this connexion is
 the later (Arabian) account of the religion of the Mesopotamian
 Sabaeans. The religion of the Sabaeans, evidently a later offshoot from
 the stock of the old Babylonian religion, actually consists in the cult
-of the seven planets (cf. the great work of Daniel Chwolsohn, _Die
+of the seven planets (cf. the great work of [[Daniel]] Chwolsohn, _Die
 Ssabier u. der Ssabismus_). But this reference to Babylonian religion
 does not solve the problem which is here in question. For in the
 Babylonian religion the planetary constellations are reckoned as the
 supreme deities. And here the question arises, how it came about that in
 the Gnostic systems the Seven appear as subordinate, half-daemonic
 powers, or even completely as powers of darkness. This can only be
-explained on the assumption that some religion hostile to, and stronger
+explained on the [[Assumption|assumption]] that some religion hostile to, and stronger
 than the Babylonian, has superimposed itself upon this, and has degraded
 its principal deities into daemons. Which religion can this have been?
 We are at first inclined to think of Christianity itself, but it is
@@ -406,7 +406,7 @@ great extent dominated by the idea that it is above all and in the
 highest degree important for the Gnostic's soul to be enabled to find
 its way back through the lower worlds and spheres of heaven ruled by the
 Seven to the kingdom of light of the supreme deity of heaven. Hence, a
-principal item in their religious practice consisted in communications
+principal [[Item|item]] in their religious practice consisted in communications
 about the being, nature and names of the Seven (or of any other hostile
 daemons barring the way to heaven), the formulas with which they must be
 addressed, and the symbols which must be shown to them. But names,
@@ -455,7 +455,7 @@ sensual passions of the rulers ([Greek: archontes]), takes from them
 those powers of light which still remain to them, has also a central
 place in the Manichaean scheme of salvation (F. C. Baur, _Das
 manichaische Religionssystem_, pp. 219, 315, 321). The light-maiden also
-plays a prominent part in the _Pistis-Sophia_ (cf. the index to the
+plays a prominent part in the _Pistis-Sophia_ (cf. the [[Index|index]] to the
 translation by C. Schmidt). With this figure of the mother-goddess who
 descends into the lower world seems to be closely connected the idea of
 the fallen Sophia, which is so widespread among the Gnostic systems.
@@ -470,11 +470,11 @@ Sophia then appears as the mother of the "seven" gods (see above).
 The origin of this figure is not far to seek. It is certainly not
 derived from the Persian religious system, to the spirit of which it is
 entirely opposed. Neither would it be correct to identify her entirely
-with the great goddess Ishtar of the old Babylonian religion. But there
+with the great goddess [[Ishtar]] of the old Babylonian religion. But there
 can hardly be any doubt that the figure of the great mother-goddess or
 goddess of heaven, who was worshipped throughout Asia under various
-forms and names (Astarte, Beltis, Atargatis, Cybele, the Syrian
-Aphrodite), was the prototype of the [Greek: meter] of the Gnostics (cf.
+forms and names (Astarte, Beltis, Atargatis, [[Cybele]], the Syrian
+[[Aphrodite]]), was the prototype of the [Greek: meter] of the Gnostics (cf.
 GREAT MOTHER OF THE GODS). The character of the great goddess of heaven
 is still in many places fairly exactly preserved in the Gnostic
 speculations. Hence we are able to understand how the Gnostic [Greek:
@@ -502,9 +502,9 @@ Helena in a brothel in Tyre (Epiphanius, _Ancoratus_, c. 104). From the
 same group of myths must be derived the idea of the goddess who descends
 to the under-world, and is there taken prisoner against her will by the
 lower powers; the direct prototype of this myth is to be found, e.g. in
-Ishtar's journey to hell. And finally, just as the mother-goddess of
+Ishtar's journey to [[Hell|hell]]. And finally, just as the mother-goddess of
 south-western Asia stands in particularly intimate connexion with the
-youthful god of spring (Tammuz, Adonis, Attis), so we ought perhaps to
+youthful god of spring (Tammuz, Adonis, [[Attis]]), so we ought perhaps to
 compare here as a parallel the relation of Sophia with the Soter in
 certain Gnostic systems (see below).
 
@@ -526,12 +526,12 @@ aeons, occupying a prominent place in the whole series. In the
 Valentinian systems the pair of aeons, Anthropos and Ekklesia, occupy
 the third or fourth place within the _Oydoas_, but incidentally we learn
 that with some representatives of this school the Anthropos took a still
-more prominent place (first or second; Hilgenfeld, _Ketzergeschichte_,
+more prominent place (first or second; [[Hilgenfeld]], _Ketzergeschichte_,
 p. 294 seq.). And even in the _Pistis-Sophia_ the Primal Man "Ieu" is
 frequently alluded to as the King of the Luminaries (cf. index to C.
 Schmidt's translation). We also meet with speculations of this kind
 about man in the circles of non-Christian Gnosis. Thus in the
-_Poimandres_ of Hermes man is the most prominent figure in the
+_Poimandres_ of [[Hermes]] man is the most prominent figure in the
 speculation; numerous pagan and half-pagan parallels (the "Gnostics" of
 Plotinus, Zosimus, Bitys) have been collected by Reitzenstein in his
 work _Poimandres_ (pp. 81-116). Reitzenstein has shown (p. 81 seq.) that
@@ -552,7 +552,7 @@ the Gnostic Sophia. Wherever this figure has not become quite obscure,
 it represents that divine power which, whether simply owing to a fall,
 or as the hero who makes war on, and is partly vanquished by darkness,
 descends into the darkness of the material world, and with whose descent
-begins the great drama of the world's development. From this power are
+begins the great [[Drama|drama]] of the world's development. From this power are
 derived those portions of light existing and held prisoner in this lower
 world. And as he has raised himself again out of the material world, or
 has been set free by higher powers, so shall also the members of the
@@ -564,8 +564,8 @@ one of the unsolved problems of religious history. It is worthy of
 notice that according to the old Persian myth also, the development of
 the world begins with the slaying of the primal man Gayomart by
 Angra-Mainyu (Ahriman); further, that the Primal Man ("son of man" =
-man) also plays a part in Jewish apocalyptic literature (Daniel, Enoch,
-iv. Ezra), whence this figure passes into the Gospels; and again, that
+man) also plays a part in Jewish apocalyptic literature (Daniel, [[Enoch]],
+iv. [[Ezra]]), whence this figure passes into the [[Gospel|Gospels]]; and again, that
 the dogma of Christ's descent into hell is directly connected with this
 myth. But these parallels do not carry us much further. Even the Persian
 myth is entirely obscure, and has hitherto defied interpretation. It is
@@ -584,9 +584,9 @@ these accounts the idea is expressed that so far as his body is
 concerned man is the work of the angels who created the world. So e.g.
 Satornil relates (Irenaeus i. 24. 1) that a brilliant vision appeared
 from above to the world-creating angels; they were unable to hold it
-fast, but formed man after its image. And as the man thus formed was
+fast, but formed man after its [[Image|image]]. And as the man thus formed was
 unable to move, but could only crawl like a worm, the supreme Power put
-into him a spark of life, and man came into existence. Imaginations of
+into him a spark of life, and man came into existence. [[Imagination|Imaginations]] of
 the same sort are also to be found, e.g. in the genuine fragments of
 Valentinus (Hilgenfeld, _Ketzergeschichte_, p. 293), the Gnostics of
 Irenaeus i. 30. 6, the Mandaeans (Brandt, _Religion der Mandaer_, p.
@@ -626,14 +626,14 @@ the powers of light, and thus too all his race will be saved
 (Manichaeism); at another time the fallen Sophia is purified by her
 passions and sorrows and has found her _Syzygos_, the Soter, and wedded
 him, and thus all the souls of the Gnostics who still languish in matter
-will become the brides of the angels of the _Soter_ (Valentinus). In
+will become the [[Bride|brides]] of the angels of the _Soter_ (Valentinus). In
 fact salvation, as conceived in Gnosticism, is always a myth, a history
 of bygone events, an allegory or figure, but not an historical event.
 And this decision is not affected by the fact that in certain Gnostic
 sects figured historical personages such as Simon Magus and Menander.
 The Gnostic ideas of salvation were in the later schools and sects
 transferred to these persons whom we must consider as rather obscure
-charlatans and miracle-mongers, just as in other cases they were
+[[Charlatan|charlatans]] and miracle-mongers, just as in other cases they were
 transferred to the person of Christ. The "Helena" of the Simonian system
 was certainly not an historical but a mythical figure. This explains the
 laborious and artificial way in which the person of Jesus is connected
@@ -712,11 +712,11 @@ influence on the development of the Church by way of contrast and
 opposition. If here a return was made to the old material view of the
 resurrection (the apostolic [Greek: anastasis tes sarkos]), entirely
 abandoning the more spiritual conception which had been arrived at as a
-compromise by Paul, this is probably the result of a reaction from the
+[[Compromise|compromise]] by Paul, this is probably the result of a reaction from the
 views of Gnosticism. It was just at this point, too, that Gnosticism
 started a development which was followed later by the Catholic Church.
 In spite of the rejection of the ascetic attitude of the Gnostics, as a
-blasphemy against the Creator, a part of this ascetic principle became
+[[Blasphemy|blasphemy]] against the Creator, a part of this ascetic principle became
 at a later date dominant throughout all Christendom. And it is
 interesting to observe how, e.g., St Augustine, though desperately
 combating the dualism of the Manichaeans, yet afterwards introduced a
@@ -849,7 +849,7 @@ of "the Man," which, as we have seen, is very closely related with
 certain specifically pagan Gnostic speculations which have come down to
 us (in the _Poimandres_, in Zosimus and Plotinus, _Ennead_ ii. 9). With
 the Naasseni, moreover, are related also the other sects of which
-Hippolytus alone gives us a notice in his _Philosophumena_ (Docetae,
+Hippolytus alone gives us a notice in his _Philosophumena_ ([[Docetae]],
 Perates, Sethiani, the adherents of Justin, the Gnostic of Monoimos).
 Finally, apart from all other Gnostics stands Marcion. With him, as far
 as we are able to conclude from the scanty notices of him, the manifold
@@ -889,8 +889,8 @@ Gnosticism is not to be obtained without taking them into consideration.
   gnostischen Systeme_ (Berlin, 1818); F. Chr. Baur, _Die christl.
   Gnosis in ihrer geschichtl. Entwicklung_ (Tubingen, 1835); E. W.
   Moller, _Gesch. der Kosmologie in der griechischen Kirche bis
-  Origenes_ (Halle, 1860); R. A. Lipsius, _Der Gnosticismus_ (Leipzig,
-  1860; originally in Ersch and Gruber's _Encyclopadie_); H. L. Mansel,
+  Origenes_ ([[Halle]], 1860); R. A. Lipsius, _Der Gnosticismus_ (Leipzig,
+  1860; originally in Ersch and Gruber's _Encyclopadie_); H. L. [[Mansel]],
   _The Gnostic Heresies of the 1st and 2nd Centuries_ (London, 1875); K.
   Kepler, _Uber Gnosis und altbabylonische Religion_, a lecture
   delivered at the Congress of Orientalists (Berlin, 1881); A.
@@ -904,7 +904,7 @@ Gnosticism is not to be obtained without taking them into consideration.
   Stellung zum Gnosticismus u. kirchl. Christentum" _Texte u.
   Untersuch._ xx. 4 (1902); E. de Faye, _Introduction a l'etude du
   Gnosticisme_ (Paris, 1903); R. Reitzenstein, _Poimandres_ (Leipzig,
-  1904); G. Kruger, article "Gnosticismus" in Herzog-Hauck's
+  1904); G. [[Kruger]], article "Gnosticismus" in Herzog-Hauck's
   _Realencyklopadie_ (3rd ed.) vi. 728 ff.; Bousset, "Hauptprobleme der
   Gnosis," _Forschungen z. Relig. u. Lit. d. alten u. neuen Testaments_,
   10 (1907); T. Wendland, _Hellenistisch-romische Kultur in ihren
@@ -914,7 +914,7 @@ Gnosticism is not to be obtained without taking them into consideration.
   Theologie_ (1863); G. Heinrici, _Die valentinianische Gnosis u. d.
   Heilige Schrift_ (Berlin, 1871); A. Merx, _Bardesanes von Edessa_
   (Halle, 1863); A. Hilgenfeld, _Bardesanes, der letzte Gnostiker_
-  (Leipzig, 1864); A. Harnack, "Uber das gnostische Buch Pistis-Sophia,"
+  (Leipzig, 1864); A. Harnack, "Uber das gnostische [[Buch]] Pistis-Sophia,"
   _Texte u. Untersuch._ vii. 2; C. Schmidt, "Gnostische Schriften,"
   _Texte u. Untersuch._ viii. 1, 2; and also the works mentioned under S
   II. of this article.     (W. Bo.)

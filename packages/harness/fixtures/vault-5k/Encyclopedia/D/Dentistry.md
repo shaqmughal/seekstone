@@ -5,21 +5,21 @@ DENTISTRY
 
 Historical sketch.
 
-(from Lat. _dens_, a tooth), a special department of medical
+(from Lat. _[[Dens|dens]]_, a tooth), a special department of medical
 science, embracing the structure, function and therapeutics of the mouth
 and its contained organs, specifically the teeth, together with their
 surgical and prosthetic treatment. (For the anatomy of the teeth see
 TEETH.) As a distinct vocation it is first alluded to by Herodotus (500
 B.C.). There are evidences that at an earlier date the Egyptians and
-Hindus attempted to replace lost teeth by attaching wood or ivory
+Hindus attempted to replace lost teeth by attaching wood or [[Ivory|ivory]]
 substitutes to adjacent sound teeth by means of threads or wires, but
 the gold fillings reputed to have been found in the teeth of Egyptian
 mummies have upon investigation been shown to be superficial
-applications of gold leaf for ornamental purposes. The impetus given to
+applications of gold [[Leaf|leaf]] for ornamental purposes. The impetus given to
 medical study in the Grecian schools by the followers of Aesculapius and
 especially Hippocrates (500 to 400 B.C.) developed among the
 practitioners of medicine and surgery considerable knowledge of
-dentistry. Galen (A.D. 131) taught that the teeth were true bones
+dentistry. Galen (A.D. 131) taught that the teeth were true [[Bone|bones]]
 existing before birth, and to him is credited the belief that the upper
 canine teeth receive branches from the nerve which supplies the eye, and
 hence should be called "eye-teeth." Abulcasis (10th cent. A.D.)
@@ -30,9 +30,9 @@ contributed dissertations which threw some small amount of light upon
 the structure and functions of the teeth. The operation of transplanting
 teeth is usually attributed to John Hunter (1728-1793), who practised it
 extensively, and gave to it additional prominence by transplanting a
-human tooth to the comb of a cock, but the operation was alluded to by
+human tooth to the [[Comb|comb]] of a [[Cock|cock]], but the operation was alluded to by
 Ambroise Paré (1509-1590), and there is evidence to show that it was
-practised even earlier. A. von Leeuwenhoek in 1678 described with much
+practised even earlier. A. von [[Leeuwenhoek]] in 1678 described with much
 accuracy the tubular structure of the dentine, thus making the most
 important contribution to the subject which had appeared up to that
 time. Until the latter part of the 18th century extraction was
@@ -66,12 +66,12 @@ in the same way from their predecessors. Fauchard suggested porcelain as
 an improvement upon bone and ivory for the manufacture of artificial
 teeth, a suggestion which he obtained from R. A. F. de Réaumur, the
 French savant and physicist, who was a contributor to the royal
-porcelain manufactory at Sévres. Later, Duchateau, an apothecary of St
+porcelain manufactory at Sévres. Later, Duchateau, an [[Apothecary|apothecary]] of St
 Germain, made porcelain teeth, and communicated his discovery to the
 Academy of Surgery in 1776, but kept the process secret. Du Bois Chémant
 carried the art to England, and the process was finally made public by
 M. Du Bois Foucou. M. Fonzi improved the art to such an extent that the
-Athenaeum of Arts in Paris awarded him a medal and crown (March 14,
+[[Athenaeum]] of Arts in Paris awarded him a medal and crown (March 14,
 1808).
 
 In Great Britain the 19th century brought the dawning of dental science.
@@ -188,7 +188,7 @@ race more extensively than any other. Miller demonstrated that, as
 previous observers had suspected, caries is of bacterial origin, and
 that acids play an important rôle in the process. The disease is brought
 about by a group of bacteria which develop in the mouth, growing
-naturally upon the débris of starchy or carbohydrate food, producing
+naturally upon the débris of starchy or [[Carbohydrate|carbohydrate]] food, producing
 fermentation of the mass, with lactic acid as the end product. The
 lactic acid dissolves the mineral constituent of the tooth structure,
 calcium phosphate, leaving the organic matrix of the tooth exposed.
@@ -215,7 +215,7 @@ preserve as far as possible the teeth and associated tissues, and
 _prosthetic dentistry_, the purpose of which is to supply the loss of
 teeth by artificial substitutes. The filling of carious cavities was
 probably first performed with lead, suggested apparently by an operation
-recorded by Celsus (100 B.C.), who recommended that frail or decayed
+recorded by [[Celsus]] (100 B.C.), who recommended that frail or decayed
 teeth be stuffed with lead previous to extraction, in order that they
 might not break under the forceps. The use of lead as a filling was
 sufficiently prevalent in France during the 17th century to bring into
@@ -235,7 +235,7 @@ firmly within the cavity. The cohesive properties of the foil were
 developed by passing it through an alcohol flame, which dispelled its
 surface contaminations. The gold was then welded piece by piece into a
 homogeneous mass by plugging instruments with serrated points. In this
-process of cold-welding, the mallet, hitherto in only limited use, was
+process of cold-welding, the [[Mallet|mallet]], hitherto in only limited use, was
 found more efficient than hand pressure, and was rapidly developed. The
 primitive mallet of wood, ivory, lead or steel, was supplanted by a
 mallet in which a hammer was released automatically by a spring
@@ -272,7 +272,7 @@ thermal conductivity, and its objectionable colour have led to an
 increasing use of amalgam, guttapercha, and cements of zinc oxide mixed
 with zinc chloride or phosphoric acid. Recently much attention has been
 devoted to restorations with porcelain. A piece of platinum foil of .001
-inch thickness is burnished and pressed into the cavity, so that a
+[[Inch|inch]] thickness is burnished and pressed into the cavity, so that a
 matrix is produced exactly fitting the cavity. Into this matrix is
 placed a mixture of powdered porcelain and water or alcohol, of the
 colour to match the tooth. The mass is carefully dried and then fused
@@ -305,7 +305,7 @@ devitalizing the dental pulp was discovered by J. R. Spooner of
 Montreal, and first published in 1836 by his brother Shearjashub in his
 _Guide to Sound Teeth_. The painful action of arsenic upon the pulp was
 avoided by the addition of various sedative drugs,--morphia, atropia,
-iodoform, &c.,--and its use soon became universal. Of late years it is
+[[Iodoform|iodoform]], &c.,--and its use soon became universal. Of late years it is
 being gradually supplanted by immediate surgical extirpation under the
 benumbing effect of cocaine salts. By the use of cocaine also the pain
 incident to excavating and shaping of cavities in tooth structure may
@@ -323,7 +323,7 @@ crowns, and as abutments for assemblages of crowns, known as
 bridge-work.
 
 The discoloration of the pulpless tooth through putrefactive changes in
-its organic matter were first overcome by bleaching it with chlorine.
+its organic matter were first overcome by [[Bleaching|bleaching]] it with [[Chlorine|chlorine]].
 Small quantities of calcium hypochlorite are packed into the
 pulp-chamber and moistened with dilute acetic acid; the decomposition of
 the calcium salt liberates chlorine _in situ_, which restores the tooth
@@ -364,7 +364,7 @@ anatomical relations of the teeth and their alveoli, and therefore
 adapted to the several classes of teeth. The operation has been rendered
 painless by the use of anaesthetics. The anaesthetic generally employed
 is nitrous oxide, or laughing-gas, the use of which was discovered in
-1844 by Horace Wells, a dentist of Hartford, Conn., U.S.A. Chloroform
+1844 by Horace Wells, a dentist of [[Hartford]], Conn., U.S.A. Chloroform
 and ether, as well as other general anaesthetics, have been employed in
 extensive operations because of their more prolonged effect; but
 chloroform, especially, is dangerous, owing to its effect upon the
@@ -390,7 +390,7 @@ a suitable crown by means of a wooden or metallic pivot. When possible,
 the new crown was that of a corresponding sound tooth taken from the
 mouth of another individual; otherwise an artificial crown carved from
 bone or ivory, or sometimes from the tooth of an ox, was used. To
-replace entire dentures a base-plate of carved hippopotamus ivory was
+replace entire dentures a base-plate of carved [[Hippopotamus|hippopotamus]] ivory was
 constructed, upon which were mounted the crowns of natural teeth, or
 later those of porcelain. The manufacture of a denture of this character
 was tedious and uncertain, and required much skill. The denture was kept
@@ -398,7 +398,7 @@ in place by spiral springs attached to the buccal sides of the appliance
 above and below, which caused pressure upon both jaws, necessitating a
 constant effort upon the part of the unfortunate wearer to keep it in
 place. Metallic swaged plates were introduced in the latter part of the
-18th century. An impression of the gums was taken in wax, from which a
+18th century. An impression of the [[Gum|gums]] was taken in wax, from which a
 cast was made in plaster of Paris. With this as a model, a metallic die
 of brass or zinc was prepared, upon which the plate of gold or silver
 was formed, and then swaged into contact with the die by means of a
@@ -484,7 +484,7 @@ natural tooth-root by means of a metallic pin of gold or platinum,
 extending into the previously enlarged root-canal and cemented in place.
 In another type of crown the point between the root-end and the abutting
 crown-surface is encircled with a metallic collar or band, which gives
-additional security to the attachment and protects the joints from
+additional security to the attachment and protects the [[Joints|joints]] from
 fluids or bacteria. Crowns of this character are constructed with a
 porcelain facing attached by a stay-piece or backing of gold to a plate
 and collar, which has been previously fitted to the root-end like a
@@ -537,7 +537,7 @@ which millions of capital are invested.
    Johnson, _Principles and Practice of Filling Teeth, American
    Text-Book of Operative Dentistry_ (3rd ed., 1905); Edward C. Kirk,
    _Principles and Practice of Operative Dentistry_ (2nd ed., 1905); J.
-   S. Marshall, _American Text-Book of Prosthetic Dentistry_ (edited by
+   S. [[Marshall]], _American Text-Book of Prosthetic Dentistry_ (edited by
    C. R. Turner; 3rd ed., 1907).                            (E. C. K.)
 
 

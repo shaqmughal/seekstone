@@ -19,7 +19,7 @@ the advantage of hearing F.A. Wolf (then advanced in years), August
 Bockh and P. Buttmann. In 1822 he took the degree of doctor of
 philosophy at Berlin, and in 1825 became extraordinary professor. In
 1829 he succeeded C. Reisig as ordinary professor and director of the
-philological seminary at Halle, and in 1844 was appointed chief
+philological seminary at [[Halle]], and in 1844 was appointed chief
 librarian of the university. He died suddenly on the 14th of May 1875.
 The most important of Bernhardy's works were his histories (or sketches)
 of Greek and Roman literature; _Grundriss der romischen Litteratur_ (5th

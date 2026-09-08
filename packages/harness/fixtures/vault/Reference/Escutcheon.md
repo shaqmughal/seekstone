@@ -14,7 +14,7 @@ shield with armorial bearings displayed (see HERALDRY). The word is also
 applied to the shields used on tombs, in the spandrils of doors or in
 string-courses, and to the ornamented plates from the centre of which
 door-rings, knockers, &c., are suspended, or which protect the wood of
-the key-hole from the wear of the key. In medieval times these were
+the key-hole from the wear of the [[Key|key]]. In medieval times these were
 often worked in a very beautiful manner.
 
 ## See also

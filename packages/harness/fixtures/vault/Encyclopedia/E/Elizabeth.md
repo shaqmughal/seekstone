@@ -8,8 +8,8 @@ topic: geography
 
 ELIZABETH (1533-1603), queen of England and Ireland, born on Sunday the
 7th of September 1533, and, like all the Tudors except Henry VII., at
-Greenwich Palace, was the only surviving child of Henry VIII. by his
-second queen, Anne Boleyn. With such a mother and with Cranmer as her
+[[Greenwich]] Palace, was the only surviving child of Henry VIII. by his
+second queen, [[Anne]] [[Boleyn]]. With such a mother and with [[Cranmer]] as her
 godfather she represented from her birth the principle of revolt from
 Rome, but the opponents of that movement attached little importance to
 her advent into the world. Charles V.'s ambassador, Chapuys, hardly
@@ -21,7 +21,7 @@ dubious advantage only lasted three years until her mother was beheaded,
 and by a much more serious freak on Henry's part "divorced." Elizabeth
 has been censured for having made no effort in later years to clear her
 mother's memory; but no vindication of Anne's character could have
-rehabilitated Elizabeth's legitimacy. Her mother was not "divorced" for
+rehabilitated Elizabeth's [[Legitimacy|legitimacy]]. Her mother was not "divorced" for
 her alleged adultery, because that crime was no ground for divorce by
 Roman or English canon law. The marriage was declared invalid _ab
 initio_ either on the ground of Anne's precontract with Lord Percy or
@@ -46,12 +46,12 @@ September 1548, paid indelicate attentions to Elizabeth. Any attempt to
 marry her without the council's leave would have been treason on his
 part and would have deprived Elizabeth of her contingent right to the
 succession. Accordingly, when Seymour's other misbehaviour led to his
-arrest, his relations with Elizabeth were made the subject of a very
+[[Arrest|arrest]], his relations with Elizabeth were made the subject of a very
 trying investigation, which gave Elizabeth her first lessons in the
 feminine arts of self-defence. She proved equal to the occasion, partly
-because she was in all probability innocent of anything worse than a
+because she was in all probability [[Innocent|innocent]] of anything worse than a
 qualified acquiescence in Seymour's improprieties and a girlish
-admiration for his handsome face. He or his tragic fate may have touched
+admiration for his handsome face. He or his tragic [[Fate|fate]] may have touched
 a deeper chord, but it was carefully concealed; and although in later
 years Elizabeth seems to have cherished his memory, and certainly showed
 no love for his brother's children, at the time she only showed
@@ -69,10 +69,10 @@ failure of the plot. For a time she was safe enough; she would not
 renounce her Protestantism until Catholicism had been made the law of
 the land, but she followed Gardiner's advice to her father when he said
 it was better that he should make the law his will than try to make his
-will the law. As a presumptive ruler of England she was, like Cecil, and
+will the law. As a presumptive ruler of England she was, like [[Cecil]], and
 for that matter the future archbishop Parker also, too shrewd to commit
 herself to passive or active resistance to the law; and they merely
-anticipated Hobbes in holding that the individual committed no sin in
+anticipated [[Hobbes]] in holding that the individual committed no sin in
 subordinating his conscience to the will of the state, for the
 responsibility for the law was not his but the state's. Their position
 was well enough understood in those days; it was known that they were
@@ -97,12 +97,12 @@ did not make Mary Tudor any more friendly, and, although the story that
 Elizabeth favoured Courtenay and that Mary was jealous is a ridiculous
 fiction, the Spaniards cried loud and long for Elizabeth's execution.
 She was sent to the Tower in March 1554, but few Englishmen were fanatic
-enough to want a Tudor beheaded. The great nobles, the Howards, and
+enough to want a Tudor beheaded. The great nobles, the [[Howard|Howards]], and
 Gardiner would not hear of such a proposal; and all the efforts of the
 court throughout Mary's reign failed to induce parliament to listen to
 the suggestion that Elizabeth should be deprived of her legal right to
 the succession. After two months in the Tower she was transferred to Sir
-Henry Bedingfield's charge at Woodstock, and at Christmas, when the
+Henry Bedingfield's charge at Woodstock, and at [[Christmas]], when the
 realm had been reconciled to Rome and Mary was expecting issue,
 Elizabeth was once more received at court. In the autumn of 1555 she
 went down to Hatfield, where she spent most of the rest of Mary's reign,
@@ -130,11 +130,11 @@ Italians, especially Bernardino Ochino, had given her religious
 instruction, and the Italians who rejected Catholicism usually adopted
 far more advanced forms of heresy than Lutheranism, Zwinglianism, or
 even Calvinism. Elizabeth herself patronized Giacomo Acontio, who
-thought dogma a "stratagema Satanae," and her last favourite, Essex was
+thought dogma a "stratagema Satanae," and her last favourite, [[Essex]] was
 accused of being the ringleader of "a damnable crew of atheists." A
 Spanish ambassador early in the reign thought that Elizabeth's own
 religion was equally negative, though she told him she agreed with
-nearly everything in the Augsburg Confession. She was probably not at
+nearly everything in the [[Augsburg]] Confession. She was probably not at
 liberty to say what she really thought, but she made up by saying a
 great many things which she did not mean. It is clear enough that,
 although, like her father, she was fond of ritual, she was absolutely
@@ -142,29 +142,29 @@ devoid of the religious temperament, and that her ecclesiastical
 preferences were dictated by political considerations. She was sincere
 enough in her dislike of Roman jurisdiction and of Calvinism; a daughter
 of Anne Boleyn could have little affection for a system which made her a
-bastard, and all monarchs agreed at heart with James I.'s aphorism about
+[[Bastard|bastard]], and all monarchs agreed at heart with James I.'s [[Aphorism|aphorism]] about
 "no bishop, no king." It was convenient, too, to profess Lutheran
 sympathies, for Lutheranism was now an established, monarchical and
 comparatively respectable religion, very different from the Calvinism
 against which monarchs directed the Counter-reformation from political
 motives. Lutheran dogma, however, had few adherents in England, though
 its political theory coincided with that of Anglicanism in the 16th
-century. The compromise that resulted from these conflicting forces
+century. The [[Compromise|compromise]] that resulted from these conflicting forces
 suited Elizabeth very well; she had little dislike of Catholics who
 repudiated the papacy, but she was forced to rely mainly on Protestants,
 and had little respect for any form of ecclesiastical self-government.
 She valued uniformity in religion, not as a safeguard against heresy,
 but as a guarantee of the unity of the state. She respected the bishops
 only as supporters of her throne; and, although the well-known letter
-beginning "Proud Prelate" is an 18th-century forgery, it is hardly a
+beginning "Proud Prelate" is an 18th-century [[Forgery|forgery]], it is hardly a
 travesty of Elizabeth's attitude.
 
 The outlines of her foreign policy are sketched elsewhere (see ENGLISH
 HISTORY), and her courtships were diplomatic. Contemporary gossip, which
-was probably justified, said that she was debarred from matrimony by a
+was probably justified, said that she was debarred from [[Matrimony|matrimony]] by a
 physical defect; and her cry when she heard that Mary queen of Scots had
 given birth to a son is the most womanly thing recorded of Elizabeth.
-Her features were as handsome as Mary's, but she had little fascination,
+Her features were as handsome as Mary's, but she had little [[Fascination|fascination]],
 and in spite of her many suitors no man lost his head over Elizabeth as
 men did over Mary. She was far too masculine in mind and temperament,
 and her extravagant addiction to the outward trappings of femininity was
@@ -175,14 +175,14 @@ scandalized a public unconscious of Elizabeth's security. She had every
 reason to keep them in the dark, and to convince other courts that she
 could and would marry if the provocation were sufficient. She could not
 marry Philip II., but she held out hopes to more than one of his
-Austrian cousins whenever France or Mary Stuart seemed to threaten; and
+Austrian [[Cousin|cousins]] whenever France or Mary Stuart seemed to threaten; and
 later she encouraged two French princes when Philip had lost patience
 with Elizabeth and made Mary Stuart his protégée. Her other suitors were
 less important, except Leicester, who appealed to the least intellectual
 side of Elizabeth and was always a cause of distraction in her policy
 and her ministers.
 
-Elizabeth was terribly handicapped by having no heirs of her body and no
+Elizabeth was terribly handicapped by having no [[Heir|heirs]] of her body and no
 obvious English successor. She could not afford to recognize Mary's
 claim, for that would have been to alienate the Protestants, double the
 number of Catholics, and, in her own phrase, to spread a winding-sheet
@@ -195,20 +195,20 @@ brought Mary to the block. Parliament had long been ferociously
 demanding Mary's execution, not because she was guilty but because she
 was dangerous to the public peace. She alone could have given the
 Spanish Armada any real chance of success; and as the prospect of
-invasion loomed larger on the horizon, fiercer grew the popular
+invasion loomed larger on the [[Horizon|horizon]], fiercer grew the popular
 determination to remove the only possible centre of a domestic rising,
 without which the external attack was bound to be a failure. Elizabeth
 resisted the demand, not from compassion or qualms of conscience, but
 because she dreaded the responsibility for Mary's death. She wished
-Paulet would manage the business on his own account, and when at last
-her signature was extorted she made a scapegoat of her secretary Davison
+Paulet would [[Manage|manage]] the business on his own account, and when at last
+her signature was extorted she made a scapegoat of her secretary [[Davison]]
 who had the warrant executed.
 
 The other great difficulty, apart from the succession, with which
 Elizabeth had to deal arose from the exuberant aggressiveness of
 England, which she could not, and perhaps did not want to, repress.
 Religion was not really the cause of her external dangers, for the time
-had passed for crusades, and no foreign power seriously contemplated an
+had passed for [[Crusades|crusades]], and no foreign power seriously contemplated an
 armed invasion of England for religion's sake. But no state could long
 tolerate the affronts which English seamen offered Spain. The common
 view that the British Empire has been won by purely defensive action is
@@ -221,13 +221,13 @@ treasure-ships, the raiding of his colonies and the open assistance
 rendered to his rebels. Only when he had reached the conclusion that his
 power would never be secure in the Netherlands or the New World until
 England was conquered, did he despatch the Spanish Armada. Elizabeth
-delayed the breach as long as she could, probably because she knew that
+delayed the [[Breach|breach]] as long as she could, probably because she knew that
 war meant taxation, and that taxation was the most prolific parent of
 revolt.
 
 With the defeat of the Spanish Armada Elizabeth's work was done, and
 during the last fifteen years of her reign she got more out of touch
-with her people. That period was one of gradual transition to the
+with her people. That period was one of [[Gradual|gradual]] transition to the
 conditions of Stuart times; during it practically every claim was put
 forward that was made under the first two Stuarts either on behalf of
 parliament or the prerogative, and Elizabeth's attitude towards the
@@ -238,11 +238,11 @@ was the last and the most wilful but perhaps the best of her favourites,
 and his tragic fate deepened the gloom of her closing years. The
 loneliness of a queen who had no husband or children and no relatives to
 mention must at all times have been oppressive; it grew desolating in
-old age after the deaths of Leicester, Walsingham, Burghley and Essex,
+old age after the deaths of Leicester, Walsingham, [[Burghley]] and Essex,
 and Elizabeth died, the last of her race, on the 24th of March 1603.
 
   Bishop Creighton's _Queen Elizabeth_ (1896) is the best biography;
-  there are others by E.S. Beesly (_Twelve English Statesmen_, 1892);
+  there are others by E.S. [[Beesly]] (_Twelve English Statesmen_, 1892);
   Lucy Aikin, _Memoirs of the Court of Queen Elizabeth_ (1818); and T.
   Wright, _Queen Elizabeth and her Times_ (1838). See also A. Jessopp's
   article in the _Dict. Nat. Biog._     (A. F. P.)
@@ -261,7 +261,7 @@ Italian, German and Swedish, and could converse in these languages with
 more fluency than accuracy. From her earliest years she delighted every
 one by her extraordinary beauty and vivacity. It was Peter's intention
 to marry his second daughter to the young French king Louis XV., but the
-pride of the Bourbons revolted against any such alliance. Other
+pride of the [[Bourbon|Bourbons]] revolted against any such alliance. Other
 connubial speculations foundered on the personal dislike of the princess
 for the various suitors proposed to her, so that on the death of her
 mother (May 1727) and the departure to Holstein of her beloved sister
@@ -273,7 +273,7 @@ Menshikov and hated the memory of Peter the Great, practically banished
 Peter's daughter from court. Elizabeth had inherited her father's
 sensual temperament and, being free from all control, abandoned herself
 to her appetites without reserve. While still in her teens, she made a
-lover of Alexius Shubin, a sergeant in the Semenovsky Guards, and after
+lover of Alexius Shubin, a sergeant in the Semenovsky [[Guards]], and after
 his banishment to Siberia, minus his tongue, by order of the empress
 Anne, consoled herself with a handsome young Cossack, Alexius
 Razumovski, who, there is good reason to believe, subsequently became
@@ -286,16 +286,16 @@ who was plotting to destroy the Austrian influence then dominant at the
 Russian court. It is a mistake to suppose, however, that La Chétardie
 took a leading part in the revolution which placed the daughter of Peter
 the Great on the Russian throne. As a matter of fact, beyond lending the
-tsesarevna 2000 ducats, instead of the 15,000 she demanded of him, he
+tsesarevna 2000 [[Ducat|ducats]], instead of the 15,000 she demanded of him, he
 took no part whatever in the actual _coup d'état_ which was as great a
 surprise to him as to every one else. The merit and glory of that
 singular affair belong to Elizabeth alone. The fear of being imprisoned
 in a convent for the rest of her life was the determining cause of her
 irresistible outburst of energy. At midnight on the 6th of December
 1741, with a few personal friends, including her physician, Armand
-Lestocq, her chamberlain, Michael Ilarionvich Vorontsov, her future
+Lestocq, her [[Chamberlain|chamberlain]], Michael Ilarionvich Vorontsov, her future
 husband, Alexius Razumovski, and Alexander and Peter Shuvalov, two of
-the gentlemen of her household, she drove to the barracks of the
+the gentlemen of her household, she drove to the [[Barracks|barracks]] of the
 Preobrazhensky Guards, enlisted their sympathies by a stirring speech,
 and led them to the Winter Palace, where the regent was reposing in
 absolute security. Having on the way thither had all the ministers
@@ -316,18 +316,18 @@ exceptionally difficult circumstances; and to this may be added that she
 was ever ready to sacrifice the prejudices of the woman to the duty of
 the sovereign.
 
-After abolishing the cabinet council system in favour during the rule of
+After abolishing the [[Cabinet|cabinet]] council system in favour during the rule of
 the two Annes, and reconstituting the senate as it had been under Peter
 the Great,--with the chiefs of the departments of state, all of them now
 Russians again, as _ex-officio_ members under the presidency of the
 sovereign,--the first care of the new empress was to compose her quarrel
 with Sweden. On the 23rd of January 1743, direct negotiations between
 the two powers were opened at Åbo, and on the 7th of August 1743 Sweden
-ceded to Russia all the southern part of Finland east of the river
+ceded to Russia all the southern part of [[Finland]] east of the river
 Kymmene, which thus became the boundary between the two states,
 including the fortresses of Villmanstrand and Fredrikshamn. This
 triumphant issue was mainly due to the diplomatic ability of the new
-vice chancellor, Alexius Bestuzhev-Ryumin (q.v.), whom Elizabeth, much
+vice chancellor, Alexius [[Bestuzhev-Ryumin]] (q.v.), whom Elizabeth, much
 as she disliked him personally, had wisely placed at the head of foreign
 affairs immediately after her accession. He represented the
 anti-Franco-Prussian portion of her council, and his object was to bring
@@ -336,10 +336,10 @@ undoubtedly Russia's proper system. Hence the reiterated attempts of
 Frederick the Great and Louis XV. to get rid of Bestuzhev, which made
 the Russian court during the earlier years of Elizabeth's reign the
 centre of a tangle of intrigue impossible to unravel by those who do
-not possess the clue to it (see BESTUZHEV-RYUMIN, ALEXIUS). Ultimately,
+not possess the [[Clue|clue]] to it (see BESTUZHEV-RYUMIN, ALEXIUS). Ultimately,
 however, the minister, strong in the support of Elizabeth, prevailed,
-and his faultless diplomacy, backed by the despatch of an auxiliary
-Russian corps of 30,000 men to the Rhine, greatly accelerated the peace
+and his faultless [[Diplomacy|diplomacy]], backed by the despatch of an [[Auxiliary|auxiliary]]
+Russian [[Corps|corps]] of 30,000 men to the Rhine, greatly accelerated the peace
 negotiations which led to the treaty of Aix-la-Chapelle (October 18,
 1748). By sheer tenacity of purpose, Bestuzhev had extricated his
 country from the Swedish imbroglio; reconciled his imperial mistress
@@ -368,7 +368,7 @@ intrigues of the various foreign powers at St Petersburg, interfered
 with the progress of the war, and the crushing defeat of Kunersdorf
 (August 12, 1759) at last brought Frederick to the verge of ruin. From
 that day forth he despaired of success, though he was saved for the
-moment by the jealousies of the Russian and Austrian commanders, which
+moment by the jealousies of the Russian and Austrian [[Commander|commanders]], which
 ruined the military plans of the allies. On the other hand, it is not
 too much to say that, from the end of 1759 to the end of 1761, the
 unshakable firmness of the Russian empress was the one constraining
@@ -381,11 +381,11 @@ Prussia must be rendered harmless to his neighbours for the future, and
 that the only way to bring this about was to reduce him to the rank of
 an elector. Frederick himself was quite alive to his danger. "I am at
 the end of my resources," he wrote at the beginning of 1760, "the
-continuance of this war means for me utter ruin. Things may drag on
-perhaps till July, but then a catastrophe _must_ come." On the 21st of
+continuance of this war means for me utter ruin. Things may [[Drag|drag]] on
+perhaps till July, but then a [[Catastrophe|catastrophe]] _must_ come." On the 21st of
 May 1760 a fresh convention was signed between Russia and Austria, a
 secret clause of which, never communicated to the court of Versailles,
-guaranteed East Prussia to Russia, as an indemnity for war expenses. The
+guaranteed East Prussia to Russia, as an [[Indemnity|indemnity]] for war expenses. The
 failure of the campaign of 1760, so far as Russia and France were
 concerned, induced the court of Versailles, on the evening of the 22nd
 of January 1761, to present to the court of St Petersburg a despatch to
@@ -404,7 +404,7 @@ Austria. Elizabeth's object in this mysterious negotiation seems to
 have been to reconcile France and Great Britain, in return for which
 signal service France was to throw all her forces into the German war.
 This project, which lacked neither ability nor audacity, foundered upon
-Louis XV.'s invincible jealousy of the growth of Russian influence in
+Louis XV.'s invincible [[Jealousy|jealousy]] of the growth of Russian influence in
 eastern Europe and his fear of offending the Porte. It was finally
 arranged by the allies that their envoys at Paris should fix the date
 for the assembling of a peace congress, and that, in the meantime, the
@@ -418,14 +418,14 @@ of preserving for my nephew, by way of negotiation, whatever fragments
 of my territory we can save from the avidity of my enemies," which
 means, if words mean anything, that he was resolved to seek a soldier's
 death on the first opportunity. A fortnight later he wrote to Prince
-Ferdinand of Brunswick, "The sky begins to clear. Courage, my dear
-fellow. I have received the news of a great event." The great event
+[[Ferdinand]] of Brunswick, "The sky begins to clear. Courage, my dear
+[[Fellow|fellow]]. I have received the news of a great event." The great event
 which snatched him from destruction was the death of the Russian empress
 (January 5, 1762).
 
   See Robert Nisbet Bain, _The Daughter of Peter the Great_ (London,
   1899); Sergyei Solovev, _History of Russia_ (Rus.), vols. xx.-xxii.
-  (St Petersburg, 1857-1877); _Politische Correspondenz Friedrichs des
+  (St Petersburg, 1857-1877); _Politische Correspondenz [[Friedrich|Friedrichs]] des
   Grossen_, vols. i.-xxi. (Berlin, 1879, &c.); Colonel Masslowski, _Der
   siebenjährige Krieg nach russischer Darstellung_ (Berlin, 1888-1893);
   Kazinsierz Waliszewski, _La Dernière des Romanov_ (Paris, 1902).
@@ -436,54 +436,54 @@ which snatched him from destruction was the death of the Russian empress
 
 ELIZABETH [AMÉLIE EUGÉNIE] (1837-1898), consort of Francis Joseph,
 emperor of Austria and king of Hungary, was the daughter of Duke
-Maximilian Joseph of Bavaria and Louisa Wilhelmina, daughter of
+[[Maximilian]] Joseph of Bavaria and Louisa Wilhelmina, daughter of
 Maximilian I. of Bavaria, and was born on the 24th of December 1837 at
 the castle of Possenhofen on Lake Starnberg. She inherited the quick
 intelligence and artistic taste displayed in general by members of the
 Wittelsbach royal house, and her education was the reverse of
-conventional. She accompanied her eccentric father on his hunting
-expeditions, becoming an expert rider and climber, visiting the peasants
+conventional. She accompanied her [[Eccentric|eccentric]] father on his [[Hunting|hunting]]
+expeditions, becoming an [[Expert|expert]] rider and climber, visiting the peasants
 in their huts and sharing in rustic pleasures. The emperor of Austria,
 Francis Joseph, met the Bavarian ducal family at Ischl in August 1853,
 and immediately fell in love with Elizabeth, then a girl of sixteen, and
 reported to be the most beautiful princess in Europe. The marriage took
 place in Vienna on the 24th of April 1854. In the early days of her
 married life she frequently came into collision with Viennese prejudice.
-Her attempts to modify court etiquette, and her extreme fondness for
-horsemanship and frequent visits to the imperial riding school,
+Her attempts to modify court [[Etiquette|etiquette]], and her extreme fondness for
+[[Horsemanship|horsemanship]] and frequent visits to the imperial riding school,
 scandalized Austrian society, while her predilection for Hungary and for
 everything Hungarian offended German sentiment. There is no doubt that
 her influence helped the establishment of the _Ausgleich_ with Hungary,
 but outside Hungarian affairs the empress took small part in politics.
 She first visited Hungary in 1857, and ten years later was crowned
 queen. Her popularity with the Hungarians remained unchanged throughout
-her life; and the castle of Gödöllö, presented as a coronation gift, was
+her life; and the castle of Gödöllö, presented as a [[Coronation|coronation]] gift, was
 one of her favourite residences. Elizabeth was one of the most
 charitable of royal ladies, and her popularity with her Austrian
 subjects was more than restored by her assiduous care for the wounded in
 the campaign of 1866. Besides her public benefactions she constantly
 exercised personal and private charity. Her eldest daughter died in
-infancy; Gisela (b. 1856) married the Prince Leopold of Bavaria; and her
-youngest daughter Marie Valerie (b. 1868) married the Archduke Franz
+[[Infancy|infancy]]; Gisela (b. 1856) married the Prince [[Leopold]] of Bavaria; and her
+youngest daughter Marie Valerie (b. 1868) married the Archduke [[Franz]]
 Salvator. The tragic death of her only son, the crown prince Rudolph, in
 1889, was a shock from which she never really recovered. She was also
 deeply affected by the suicide of her cousin Louis II. of Bavaria, and
 again by the fate of her sister Sophia, duchess of Alençon, who perished
-in the fire of the Paris charity bazaar in 1897. The empress had shown
-signs of lung disease in 1861, when she spent some months in Madeira;
+in the fire of the Paris charity [[Bazaar|bazaar]] in 1897. The empress had shown
+signs of [[Lung|lung]] disease in 1861, when she spent some months in Madeira;
 but she was able to resume her outdoor sports, and for some years
 before 1882, when she had to give up riding, was a frequent visitor on
-English and Irish hunting fields. In her later years her dislike of
+English and Irish hunting [[Fields|fields]]. In her later years her dislike of
 publicity increased. Much of her time was spent in travel or at the
-Achilleion, the palace she had built in the Greek style in Corfu. She
-was walking from her hotel at Geneva to the steamer when she was stabbed
+Achilleion, the palace she had built in the Greek style in [[Corfu]]. She
+was walking from her hotel at [[Geneva]] to the steamer when she was stabbed
 by the anarchist Luigi Luccheni, on the 10th of September 1898, and died
 of the wound within a few hours. This aimless and dastardly crime
 completed the list of misfortunes of the Austrian house, and aroused
 intense indignation throughout Europe.
 
   See A. de Burgh, _Elizabeth, Empress of Austria, a Memoir_ (London,
-  1898); E. Friedmann and J. Paves, _Kaiserin Elisabeth_ (Berlin, 1898);
+  1898); E. [[Friedmann]] and J. Paves, _Kaiserin Elisabeth_ (Berlin, 1898);
   and the anonymous _Martyrdom of an Empress_ (1899), containing a
   quantity of court gossip.
 

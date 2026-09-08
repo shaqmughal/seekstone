@@ -1,14 +1,14 @@
 # Euchre
 
-EUCHRE, a game of cards. The name is supposed by some to be a corruption
-of _écarté_, to which game it bears some resemblance; others connect it
+EUCHRE, a [[Game|game]] of [[Cards|cards]]. The name is supposed by some to be a corruption
+of _é[[Cart|cart]]é_, to which game it bears some resemblance; others connect it
 with the Ger. _Juchs_ or _Jux_, a joke, owing to the presence in the
 pack, or "deck," of a special card called "the joker"; but neither
 derivation is quite satisfactory. The "deck" consists of 32 cards, all
 cards between the seven and ace being rejected from an ordinary pack.
 Sometimes the sevens and eights are rejected as well. The "joker" is the
-best card, i.e. the highest trump. Second in value is the "right bower"
-(from Dutch _boer_, farmer, the name of the knave), or knave of trumps;
+best card, i.e. the highest trump. Second in value is the "right [[Bower|bower]]"
+(from Dutch _boer_, [[Farmer|farmer]], the name of the knave), or knave of trumps;
 third is the "left bower," the knave of the other suit of the same
 colour as the right bower, also a trump: then follow ace, king, queen,
 &c., in order. Thus if spades are trumps the order is (1) the joker, (2)
@@ -43,9 +43,9 @@ the pack is turned up for trumps.
   or adopts makes five tricks (a "march") he scores two points; if four
   or three tricks, one point; if he makes less than three tricks, he is
   "euchred" and the other player scores two. A rubber consists of three
-  games, each game counting one, unless the loser has failed to score at
+  [[Games|games]], each game counting one, unless the loser has failed to score at
   all, when the winner counts two for that game. This is called a
-  "lurch." When a player wins three tricks, he is said to win the
+  "[[Lurch|lurch]]." When a player wins three tricks, he is said to win the
   "point." The rubber points are two, as at whist. All three games are
   played out, even if one player win the first two. It is sometimes
   agreed that if a score "laps," i.e. if the winner makes more than five

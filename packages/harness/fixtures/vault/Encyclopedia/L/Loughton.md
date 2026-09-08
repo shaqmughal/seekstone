@@ -7,8 +7,8 @@ type: note
 
 # Loughton
 
-LOUGHTON, an urban district in the Epping parliamentary division of
-Essex, England, 11½ m. N.N.E. of Liverpool Street station, London, by
+LOUGHTON, an urban district in the [[Epping]] parliamentary division of
+[[Essex]], England, 11½ m. N.N.E. of [[Liverpool]] Street station, London, by
 the Great Eastern railway. Pop. (1901), 4730. This is one of the
 villages which has become the centre of a residential district, and is
 frequented by holiday-makers from London, owing to its proximity to the

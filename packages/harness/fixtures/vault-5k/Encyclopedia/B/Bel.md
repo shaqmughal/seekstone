@@ -38,7 +38,7 @@ the Euphrates valley has no mountains, En-lil would appear to be a god
 whose worship was carried into Babylonia by a wave of migration from a
 mountainous country--in all probability from Elam to the east.
 
-When, with the political rise of Babylon as the centre of a great
+When, with the political rise of [[Babylon]] as the centre of a great
 empire, Nippur yielded its prerogatives to the city over which Marduk
 presided, the attributes and the titles of En-lil were transferred to
 Marduk, who becomes the "lord" or Bel of later days. The older Bel did
@@ -54,10 +54,10 @@ Babylonia and Assyria to the latest days. It was no doubt owing to his
 position as the second figure of the triad that enabled him to survive
 the political eclipse of Nippur and made his sanctuary a place of
 pilgrimage to which Assyrian kings down to the days of Assur-baui-pal
-paid their homage equally with Babylonian rulers.
+paid their [[Homage|homage]] equally with Babylonian rulers.
 
   See also BELIT and BAAL. For the apocryphal book of the Bible, _Bel
-  and the Dragon_, see DANIEL: _Additions to Daniel_.     (M. Ja.)
+  and the Dragon_, see [[Daniel|DANIEL]]: _Additions to Daniel_.     (M. Ja.)
 
 ## References
 

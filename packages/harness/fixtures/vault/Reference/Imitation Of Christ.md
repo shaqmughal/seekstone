@@ -30,7 +30,7 @@ certain:--
 1. The earliest-known dated MS. of the _Imitation_ is of 1424--it
 contains only Bk. I.; the earliest MSS. of the whole work of certain
 date are of 1427. Probably some of the undated MSS. are older; but it is
-the verdict of the most competent modern expert opinion that there is no
+the verdict of the most competent modern [[Expert|expert]] opinion that there is no
 palaeographical reason for suspecting that any known MS. is earlier than
 the first quarter of the 15th century.
 
@@ -38,7 +38,7 @@ the first quarter of the 15th century.
 Schoonhoven, exhibits such a close connexion with Bk. I. that plagiarism
 on the one side or the other is the only possible explanation. It is
 capable of demonstration that the author of the _Imitation_ was the
-borrower, and that the opposite hypothesis is inadmissible. Now, this
+borrower, and that the opposite [[Hypothesis|hypothesis]] is inadmissible. Now, this
 letter can be shown to have been written after 1382. Therefore Bk. I.
 was beyond controversy written between the years 1382 and 1424.
 
@@ -59,9 +59,9 @@ It may then be taken as proved that the _Imitation_ was composed between
 that period. Having ascertained the date, we must consider the
 birthplace.
 
-4. A number of idioms and turns of expression throughout the book show
+4. A number of [[Idiom|idioms]] and turns of expression throughout the book show
 that its author belonged to some branch of the Teutonic race. Further
-than this the argument does not lead; for when the dialects of the early
+than this the argument does not lead; for when the [[Dialect|dialects]] of the early
 15th century are considered it cannot be said that the expressions in
 question are Netherlandic rather than German--as a matter of fact, they
 have all been paralleled out of High German dialects.
@@ -93,7 +93,7 @@ special sources of information.
 8. There can be no question that in the Windesheim Congregation itself
 there was already, during Thomas à Kempis's lifetime, a fixed tradition
 that he was the author of the _Imitation_. The most important witness to
-this tradition is Johann Busch. It is true that the crucial words are
+this tradition is Johann [[Busch]]. It is true that the [[Crucial|crucial]] words are
 missing in one copy of his "Chronicle"; but it is clear there were two
 redactions of the work, and there are no grounds whatever for doubting
 that the second with its various enlargements came from the hands of
@@ -101,7 +101,7 @@ Busch himself--a copy of it containing the passage exists written in
 1464, while both Busch and Thomas à Kempis were still alive. Busch
 passed a great part of his life in Windesheim, only a few miles from
 Mount St Agnes where Thomas lived. It would be hard to find a more
-authentic witness. Another witness is Hermann Rhyd, a German member of
+[[Authentic|authentic]] witness. Another witness is [[Hermann]] Rhyd, a German member of
 the Windesheim Congregation, who also had personally known Thomas.
 Besides, two or three MSS. originating in the Windesheim Congregation
 state or imply the same tradition.
@@ -136,7 +136,7 @@ Internal arguments have been urged against Thomas's authorship. It has
 been said that his certainly authentic writings are so inferior that the
 _Imitation_ could not have been written by the same author. But only if
 they were of the most certain and peremptory nature could such internal
-arguments be allowed to weigh against the clear array of facts that make
+arguments be allowed to weigh against the clear [[Array|array]] of facts that make
 up the external argument in favour of à Kempis. And it cannot be said
 that the internal difficulties are such as this. Let it be granted that
 Thomas was a prolific writer and that his writings vary very much in
@@ -151,7 +151,7 @@ authorship of the _Imitation_ have been solidly established.
 
   The best account in English of the Controversy is that given by F. R.
   Cruise in his _Thomas à Kempis_ (1887). Works produced before 1880 are
-  in general, with the exception of those of Eusebius Amort,
+  in general, with the exception of those of [[Eusebius]] Amort,
   superannuated, and deal in large measure with points no longer of any
   living interest. A pamphlet by Cruise, _Who was the Author of the
   Imitation?_ (1898) contains sufficient information on the subject for
@@ -170,18 +170,18 @@ authorship of the _Imitation_ have been solidly established.
   depreciates unduly the elder mystics and fails to do justice to the
   originality of the _Imitation_. For its spiritual teaching is
   something quite different from the mysticism of Augustine in the
-  _Confessions_, or of Bernard in the _Sermons on the Song of Songs_; it
+  _Confessions_, or of [[Bernard]] in the _Sermons on the Song of Songs_; it
   is different from the scholastic mysticism of the St Victors or
   Bonaventure; above all, it is different from the obscure mysticism,
   saturated with the pseudo-Dionysian Neoplatonism of the German school
-  of Eckhart, Suso, Tauler and Ruysbroek. Again, it is quite different
-  from the later school of St Teresa and St John of the Cross, and from
+  of [[Eckhart]], Suso, Tauler and Ruysbroek. Again, it is quite different
+  from the later school of St Teresa and St [[John Of The Cross|John of the Cross]], and from
   the introspective methods of what may be called the modern school of
   spirituality. The _Imitation_ stands apart, unique, as the principal
   and most representative utterance of a special phase of religious
   thought--non-scholastic, non-platonic, positive and merely religious
   in its scope--herein reflecting faithfully the spirit of the movement
-  initiated by Gerhard Groot (q.v.), and carried forward by the circles
+  initiated by Gerhard [[Groot]] (q.v.), and carried forward by the circles
   in which Thomas à Kempis lived. In contrast with more mystical
   writings it is of limpid clearness, every sentence being easily
   understandable by all whose spiritual sense is in any degree awakened.
@@ -190,7 +190,7 @@ authorship of the _Imitation_ have been solidly established.
   sense and to the extraordinary religious genius of its author.
   Professor Harnack in his book _What is Christianity?_ counts the
   _Imitation_ as one of the chief spiritual forces in Catholicism: it
-  "kindles independent religious life, and a fire which burns with a
+  "kindles independent religious life, and a fire which [[Burns|burns]] with a
   flame of its own" (p. 266).
 
   The best Latin edition of the _Imitation_ is that of Hirsche (1874),

@@ -8,9 +8,9 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Bautzen"
 # Bautzen
 
 BAUTZEN (Wendish _Budissin_, "town"), a town of Germany, in the kingdom
-of Saxony and the capital of Saxon Upper Lusatia. Pop. (1890) 21,515;
-(1905) 29,412. It occupies an eminence on the right bank of the Spree,
-680 ft. above the level of the sea, 32 m. E.N.E. from Dresden, on the
+of Saxony and the capital of Saxon Upper [[Lusatia]]. Pop. (1890) 21,515;
+(1905) 29,412. It occupies an [[Eminence|eminence]] on the right bank of the Spree,
+680 ft. above the level of the sea, 32 m. E.N.E. from [[Dresden]], on the
 Dresden-Gorlitz-Breslau main line of railway, and at the junction of
 lines from Schandau and Konigswartha. The town is surrounded by walls,
 and outside these again by ramparts, now in great measure turned into
@@ -24,10 +24,10 @@ institute, a famous grammar school (gymnasium), a normal and several
 other schools, and two public libraries. The general trade and
 manufactures are considerable, including woollen (stockings and cloth),
 linen and cotton goods, leather, paper, saltpetre, and dyeing. It has
-also iron foundries, potteries, distilleries, breweries, cigar
+also iron foundries, potteries, distilleries, breweries, [[Cigar|cigar]]
 factories, &c.
 
-Bautzen was already in existence when Henry I., the Fowler, conquered
+Bautzen was already in existence when Henry I., the [[Fowler]], conquered
 Lusatia in 928. It became a town and fortress under Otto I., his
 successor, and speedily attained considerable wealth and importance, for
 a good share of which it was indebted to the pilgrimages which were made
@@ -35,9 +35,9 @@ to the "arm of St Peter," preserved in one of the churches. It suffered
 greatly during the Hussite war, and still more during the Thirty Years'
 War, in the course of which it was besieged and captured by the elector
 of Brandenburg, John George (1620), fell into the hands of Wallenstein
-(1633), and, in the following year was burned by its commander before
+(1633), and, in the following year was burned by its [[Commander|commander]] before
 being surrendered to the elector of Saxony. At the peace of Prague in
-1635 it passed with Lusatia to Saxony as a war indemnity.
+1635 it passed with Lusatia to Saxony as a war [[Indemnity|indemnity]].
 
 
   Battle of Bautzen, 1813.
@@ -49,19 +49,19 @@ as that in which to receive the attack of Napoleon ran S.W. to N.E. from
 Bautzen on the left to the village of Gleina on the right. Bautzen
 itself was held as an advanced post of the left wing (Russians), the
 main body of which lay 2 m. to the rear (E.) near Jenkwitz. On the
-heights of Burk, 2-1/2 m. N.E. of Bautzen, was Kleist's Prussian corps,
+heights of Burk, 2-1/2 m. N.E. of Bautzen, was Kleist's Prussian [[Corps|corps]],
 with Yorck's in support. On Kleist's right at Pliskowitz (3 m. N.E. of
 Burk) lay Blucher's corps, and on Blucher's right, formed at an angle to
 him, and refused towards Gleina (7 m. N.E. by E. of Bautzen), were the
-Russians of Barclay de Tolly. The country on which the battle was fought
+Russians of [[Barclay]] de Tolly. The country on which the battle was fought
 abounded in strong defensive positions, some of which were famous as
 battlegrounds of the Seven Years' War. The whole line was covered by the
 river Spree, which served as an immediate defence for the left and
 centre, and an obstacle to any force moving to attack the right;
 moreover the interval between the river and the position on this side
 was covered with a network of ponds and watercourses. Napoleon's right
-and centre approached (on a broad front owing to the want of cavalry)
-from Dresden by Bischofswerda and Kamenz; the left under Ney, which was
+and centre approached (on a broad front owing to the want of [[Cavalry|cavalry]])
+from Dresden by Bischofswerda and [[Kamenz]]; the left under Ney, which was
 separated by nearly 40 m. from the left of the main body at Luckau, was
 ordered to march via Hoyerswerda, Weissig and Klix to strike the allies'
 right. At noon on the 20th, Napoleon, after a prolonged reconnaissance,
@@ -71,11 +71,11 @@ extreme left of the allies in the mountains, judging it impossible to
 move his artillery and cavalry in the broken ground there. Oudinot's
 (XII.) corps, the extreme right wing, was to work round by the hilly
 country to Jenkwitz in rear of Bautzen, Macdonald's (XI.) corps was to
-assault Bautzen, and Marmont, with the VI. corps, to cross the Spree and
+assault Bautzen, and [[Marmont]], with the VI. corps, to cross the Spree and
 attack the Prussians posted about Burk. These three corps were directed
 by Soult. Farther to the left, Bertrand's (IV.) corps was held back to
 connect with Ney, who had then reached Weissig with the head of his
-column. The Guard and other general reserves were in rear of Macdonald
+column. The Guard and other general reserves were in rear of [[Macdonald]]
 and Marmont. Bautzen was taken without difficulty; Oudinot and Marmont
 easily passed the Spree on either side, and were formed up on the other
 bank of the river by about 4 P.M. A heavy and indecisive combat took
@@ -85,7 +85,7 @@ towards Jenkwitz. Marmont's battle was more serious. The Prussians were
 not experienced troops, but were full of ardour and hatred of the
 French. Kleist made a most stubborn resistance on the Burk ridge, and
 Bertrand's corps was called up by Napoleon to join in the battle; but
-part of Blucher's corps fiercely engaged Bertrand, and Burk was not
+part of Blucher's corps fiercely engaged [[Bertrand]], and Burk was not
 taken till 7 P.M. The French attack was much impeded by the ground and
 by want of room to deploy between the river and the enemy. But
 Napoleon's object in thus forcing the fighting in the centre was

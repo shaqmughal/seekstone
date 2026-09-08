@@ -7,9 +7,9 @@ type: reference
 
 # Borgo San Donnino
 
-BORGO SAN DONNINO, a town and episcopal see of Emilia, Italy, in the
+BORGO SAN DONNINO, a town and episcopal see of [[Emilia]], Italy, in the
 province of Parma, 14 m. N.W. by rail from the town of Parma. Pop. (1901)
-town, 6251; commune, 12,109. It occupies the site of the ancient
+town, 6251; [[Commune|commune]], 12,109. It occupies the site of the ancient
 Fidentia, on the Via Aemilia; no doubt, as its name shows, of Roman
 origin. Here M. Lucullus defeated the democrats under Carbo in 82 B.C. It
 was independent under Vespasian, but seems soon to have become a village
@@ -21,8 +21,8 @@ facade is incomplete, but the lower, with its three portals and
 sculptures, is very fine; the interior is simple and well-proportioned,
 and has not been spoilt by restorations. For the _benitier_, a work of
 the early 11th century, see _Rassegna d'Arte_, 1905, 180. Not far from
-the town is the small church of S. Antonio del Viennese, a 13th-century
-structure in brick (_ib_., 1906, 22). The Palazzo Comunale, in the
+the town is the small church of S. [[Antonio]] del Viennese, a 13th-century
+structure in [[Brick|brick]] (_ib_., 1906, 22). The Palazzo Comunale, in the
 Gothic-Lombard style, is a work of the 14th century. Borgo S. Donnino is
 an important centre for the produce and cattle of Emilia.     (T. As.)
 

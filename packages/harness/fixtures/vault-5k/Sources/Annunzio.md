@@ -18,7 +18,7 @@ Latin, distinguished by such agile grace that Giuseppe Chiarini on
 reading them brought the unknown youth before the public in an
 enthusiastic article. The young poet then went to Rome, where he was
 received as one of their own by the _Cronaca Bizantina_ group (see
-CARDUCCI). Here he published _Canto Nuovo_ (1882), _Terra Vergine_
+CARDUCCI). Here he published _[[Canto]] Nuovo_ (1882), _Terra Vergine_
 (1882), _L' Intermezzo di Rime_ (1883), _Il Libro delle Vergini_ (1884),
 and the greater part of the short stories that were afterwards collected
 under the general title of _San Pantaleone_ (1886). In _Canto Nuovo_ we
@@ -28,7 +28,7 @@ commented on and completed in prose by _Terra Vergine_, the latter a
 collection of short stories dealing in radiant language with the peasant
 life of the author's native province. With the _Intermezzo di Rime_ we
 have the beginning of d'Annunzio's second and characteristic manner. His
-conception of style was new, and he chose to express all the most subtle
+conception of style was new, and he [[Chose|chose]] to express all the most subtle
 vibrations of voluptuous life. Both style and contents began to startle
 his critics; some who had greeted him as an _enfant prodige_--Chiarini
 amongst others--rejected him as a perverter of public morals, whilst
@@ -46,7 +46,7 @@ the articles he wrote during that period of originality and exuberance
 would well repay being collected. To this period of greater maturity and
 deeper culture belongs _Il Libro d' Isotta_ (1886), a love poem, in
 which for the first time he drew inspiration adapted to modern
-sentiments and passions from the rich colours of the Renaissance. _Il
+sentiments and passions from the rich [[Colours|colours]] of the Renaissance. _Il
 Libro d' Isotta_ is interesting also, because in it we find most of the
 germs of his future work, just as in _Intermezzo melico_ and in certain
 ballads and sonnets we find descriptions and emotions which later went
@@ -70,10 +70,10 @@ is represented by _Il Poema Paradisiaco_ (1893), the _Odi Navali_
 
 A later phase of d' Annunzio's work is his dramatic production,
 represented by _Il Sogno di un mattino di primavera_ (1897), a lyrical
-fantasia in one act; his _Cilia Morta_ (1898), written for Sarah
+[[Fantasia|fantasia]] in one act; his _Cilia Morta_ (1898), written for Sarah
 Bernhardt, which is certainly among the most daring and original of
 modern tragedies, and the only one which by its unity, persistent
-purpose, and sense of fate seems to continue in a measure the traditions
+purpose, and sense of [[Fate|fate]] seems to continue in a measure the traditions
 of the Greek theatre. In 1898 he wrote his _Sogno di un Pomeriggio d'
 Autunno_ and _La Gioconda_; in the succeeding year _La Gloria_, an
 attempt at contemporary political tragedy which met with no success,

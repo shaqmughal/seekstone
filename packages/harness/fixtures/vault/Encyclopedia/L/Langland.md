@@ -34,10 +34,10 @@ library of Trinity College, Cambridge (2nd ed., 1856, new ed., 1895). A
 complete edition of all three texts was printed for the Early English
 Text Society as edited by the Rev. W. W. Skeat, with the addition of
 _Richard the Redeless_, and containing full notes to all three texts,
-with a glossary and indexes, in 1867-1885. The Clarendon Press edition,
+with a glossary and [[Index|indexes]], in 1867-1885. The [[Clarendon]] Press edition,
 by the same editor, appeared in 1886.
 
-The A-text contains a prologue and 12 passus or cantos (i.-iv., the
+The A-text contains a prologue and 12 passus or [[Canto|cantos]] (i.-iv., the
 vision of the Lady Meed; v.-viii., the vision of Piers the Plowman;
 ix.-xii., the vision of Do-wel, Do-bet and Do-best), with 2567 lines.
 The B-text is much longer, containing 7242 lines, with additional passus
@@ -63,21 +63,21 @@ Recklessness and Reason (pass. xiii., xiv.); (5) Vision of Imaginative
 xvii.); (7) Free-will and the Tree of Charity (pass. xviii., xix.); (8)
 Faith, Hope and Charity (pass. xx.); (9) The Triumph of Piers the
 Plowman, i.e. the Crucifixion, Burial and Resurrection of Jesus Christ
-(pass. xxi.); (10) The Vision of Grace (pass. xxii.); (11) The Vision of
-Antichrist (pass. xxiii.).
+(pass. xxi.); (10) The Vision of [[Grace]] (pass. xxii.); (11) The Vision of
+[[Antichrist]] (pass. xxiii.).
 
 The bare outline of the C-text gives little idea of the real nature of
 the poem. The author's object, as Skeat describes it, was to "afford
 himself opportunities (of which he has amply availed himself) for
-describing the life and manners of the poorer classes; for inveighing
-against clerical abuses and the rapacity of the friars; for representing
+describing the life and [[Manners|manners]] of the poorer classes; for inveighing
+against clerical abuses and the rapacity of the [[Friar|friars]]; for representing
 the miseries caused by the great pestilences then prevalent and by the
 hasty and ill-advised marriages consequent thereupon; and for denouncing
-lazy workmen and sham beggars, the corruption and bribery then too
+lazy workmen and sham beggars, the corruption and [[Bribery|bribery]] then too
 common in the law courts, and all the numerous forms of falsehood which
 are at all time the fit subjects for satire and indignant exposure. In
 describing, for example, the seven deadly sins, he gives so exact a
-description of Glutton and Sloth that the reader feels them to be no
+description of [[Glutton]] and Sloth that the reader feels them to be no
 mere abstractions, but drawn from the life; and it becomes hardly more
 difficult to realize Glutton than it is to realize Sir John Falstaff.
 The numerous allegorical personages so frequently introduced, such as
@@ -144,14 +144,14 @@ supposition that his father may have removed from that place to Shipton
 in Oxfordshire, as there seems to have been a real connexion between the
 families in those places.
 
-"The internal evidence concerning the author is fuller and more
+"The internal evidence concerning the author is [[Fuller|fuller]] and more
 satisfactory. By piecing together the various hints concerning himself
 which the poet gives us, we may compile the following account. His name
 was William (and probably Langland), and he was born about 1332, perhaps
 at Cleobury Mortimer in Shropshire. His father, who was doubtless a
-franklin or farmer, and his other friends put him to school, made a
+[[Franklin|franklin]] or [[Farmer|farmer]], and his other friends put him to school, made a
 'clerk' or scholar of him, and taught him what Holy Writ meant. In 1362,
-at the age of about thirty, he found himself wandering upon the Malvern
+at the age of about thirty, he found himself wandering upon the [[Malvern]]
 hills, and fell asleep beside a stream, and saw in a vision a field full
 of folk, i.e. this present world, and many other remarkable sights
 which he duly records. From this supposed circumstance he named his poem
@@ -171,7 +171,7 @@ phrase--'Petrus est Christus.' If this be borne in mind, it will not be
 possible to make the mistake into which so many have fallen, of speaking
 of Piers the Plowman as being the author, not the subject, of the poem.
 The author once alludes to the nickname of Long Will bestowed upon him
-from his tallness of stature--just as the poet Gascoigne was familiarly
+from his tallness of stature--just as the poet [[Gascoigne]] was familiarly
 called Long George. Though there is mention of the Malvern hills more
 than once near the beginning of the poem, it is abundantly clear that
 the poet lived for 'many years in Cornhill (London), with his wife Kitte
@@ -180,7 +180,7 @@ date of the first commencement of his work, and to have long continued
 there. He describes himself as being a tall man, one who was loath to
 reverence lords or ladies or persons in gay apparel, and not deigning to
 say 'God save you' to the sergeants whom he met in the street, insomuch
-that many people took him to be a fool. He was very poor, wore long
+that many people took him to be a [[Fool|fool]]. He was very poor, wore long
 robes, and had a shaven crown, having received the clerical tonsure. But
 he seems only to have taken minor orders, and earned a precarious living
 by singing the _placebo_, _dirige_ and seven psalms for the good of
@@ -199,14 +199,14 @@ addressed to the king, who is designated as 'Richard the Redeless,'
 i.e. devoid of counsel. This poem, occurring in only one MS. [of the
 B-text] in which it is incomplete, breaking off abruptly in the middle
 of a page, may safely be attributed to Langland, who was then in
-Bristol. As he was at that time about sixty-seven years of age, we may
+[[Bristol]]. As he was at that time about sixty-seven years of age, we may
 be sure that he did not long survive the accession of Henry IV. It may
 here be observed that the well-known poem, entitled _Pierce Ploughman's
 Crede_, though excellently written, is certainly an imitation by another
 hand; for the Pierce Ploughman of the _Crede_ is very different in
 conception from the subject of 'William's Vision.'"
 
-On the other hand, the view taken by Professor J. M. Manly, of Chicago,
+On the other hand, the view taken by Professor J. M. Manly, of [[Chicago]],
 which has recently obtained increasing acceptance among scholars, is
 that the early popularity of the _Piers Plowman_ poems has resulted in
 "the confusion of what is really the work of five different men," and
@@ -222,7 +222,7 @@ visions are regarded as by a single author of genius, but the third is
 assigned to a continuator who tried to imitate him, the whole conclusion
 of the 12th passus being, moreover, by a third author, whose name, John
 But, is in fact given towards the end, but in a way leading Skeat only
-to credit him with a few lines. The same process of analysis leads to
+to [[Credit|credit]] him with a few lines. The same process of analysis leads to
 crediting the B-text and the C-text to separate and different authors, B
 working over the three visions of the A-text and making additions of his
 own, while C again worked over the B-text. The supposed references to

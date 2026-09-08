@@ -26,7 +26,7 @@ was subjected were the individual modifications of the various
 authors, so that, while we may still speak of Anglo-Norman writers, an
 Anglo-Norman language, properly so called, gradually ceased to exist.
 The prestige enjoyed by the French language, which, in the 14th
-century, the author of the _Manière de language_ calls "le plus bel et
+century, the author of the _Manière de language_ calls "le plus [[Bel|bel]] et
 le plus gracious language et plus noble parler, apres latin d'escole,
 qui soit au monde et de touz genz mieulx prisée et amée que nul autre
 (quar Dieux le fist si douce et amiable principalement à l'oneur et
@@ -46,7 +46,7 @@ It will be seen from the above that the most flourishing period of
 Anglo-Norman literature was from the beginning of the 12th century to
 the end of the first quarter of the 13th. The end of this period is
 generally said to coincide with the loss of the French provinces to
-Philip Augustus, but literary and political history do not correspond
+Philip Augustus, but literary and [[Political History|political history]] do not correspond
 quite so precisely, and the end of the first period would be more
 accurately denoted by the appearance of the history of William the
 Marshal in 1225 (published for the _Societe de l'histoire de France_,
@@ -57,10 +57,10 @@ have known something of every tongue between'the Bay of Biscay and
 the Jordan.' He was probably the most highly educated sovereign of his
 day, and amid all his busy active life he never lost his interest in
 literature and intellectual discussion; his hands were never empty,
-they always had either a bow or a book" (_Dict. of Nat. Biog._). Wace
+they always had either a [[Bow|bow]] or a book" (_Dict. of Nat. Biog._). Wace
 and Benoît de Sainte-More compiled their histories at his bidding, and
 it was in his reign that Marie de France composed her poems. An event
-with which he was closely connected, viz. the murder of Thomas Becket,
+with which he was closely connected, viz. the murder of Thomas [[Becket]],
 gave rise to a whole series of writings, some of which are purely
 Anglo-Norman. In his time appeared the works of Béroul and Thomas
 respectively, as well as some of the most celebrated of the
@@ -73,10 +73,10 @@ literature.
 
 _Narrative Literature:_ (_a_) _Epic and Romance_.--The French epic
 came over to England at an early date. We know that the _Chanson
-de Roland_ was sung at the battle of Hastings, and we possess
-Anglo-Norman MSS. of a few _chansons de geste_. The _Pèlerinage de
+de Roland_ was sung at the battle of [[Hastings]], and we possess
+Anglo-Norman MSS. of a few _[[Chansons De Geste|chansons de geste]]_. The _Pèlerinage de
 Charlemagne_ (Koschwitz, _Altfranzösische Bibliothek_, 1883) was, for
-instance, only preserved in an Anglo-Norman manuscript of the British
+instance, only preserved in an Anglo-Norman [[Manuscript|manuscript]] of the British
 Museum (now lost), although the author was certainly a Parisian. The
 oldest manuscript of the _Chanson de Roland_ that we possess is also
 a manuscript written in England, and amongst the others of less
@@ -85,9 +85,9 @@ has (June 1903) been published in facsimile at Chiswick (cf. Paul
 Meyer, _Romania_, xxxii. 597-618). Although the diffusion of epic
 poetry in England did not actually inspire any new _chansons de
 geste_, it developed the taste for this class of literature, and the
-epic style in which the tales of _Horn_, of _Bovon de Hampton_, of
-_Guy of Warwick_ (still unpublished), of _Waldef_ (still unpublished),
-and of _Fulk Fitz Warine_ are treated, is certainly partly due to this
+epic style in which the tales of _[[Horn]]_, of _Bovon de Hampton_, of
+_[[Guy Of Warwick|Guy of Warwick]]_ (still unpublished), of _Waldef_ (still unpublished),
+and of _[[Fulk]] Fitz Warine_ are treated, is certainly partly due to this
 circumstance. Although the last of these works has come down to us
 only in a prose version, it contains unmistakable signs of a previous
 poetic form, and what we possess is really only a rendering into prose
@@ -122,7 +122,7 @@ and Iseult, but nevertheless of considerable interest, are the two
 _romans d'aventure_ of Hugh of Rutland, _Ipomedon_ (published by
 Kölbing and Koschwitz, Breslau, 1889) and _Protesilaus_ (still
 unpublished) written about 1185. The first relates the adventures of
-a knight who married the young duchess of Calabria, niece of King
+a [[Knight|knight]] who married the young duchess of [[Calabria]], niece of King
 Meleager of Sicily, but was loved by Medea, the king's wife. The
 second poem is the sequel to _Ipomedon_, and deals with the wars and
 subsequent reconciliation between Ipomedon's sons, Daunus, the elder,
@@ -130,7 +130,7 @@ lord of Apulia, and Protesilaus, the younger, lord of Calabria.
 Protesilaus defeats Daunus, who had expelled him from Calabria. He
 saves his brother's life, is reinvested with the dukedom of Calabria,
 and, after the death of Daunus, succeeds to Apulia. He subsequently
-marries Medea, King Meleager's widow, who had helped him to seize
+[[Marri|marries]] Medea, King Meleager's widow, who had helped him to seize
 Apulia, having transferred her affection for Ipomedon to his younger
 son (cf. Ward, _Cat. of Rom._, i. 728). To these two romances by an
 Anglo-Norman author, _Amadas et Idoine_, of which we only possess a
@@ -167,7 +167,7 @@ William of Malmesbury ([+] 1143?) by Adgar in the 12th century
 _Rom_. xxxii. 394).
 
 (ii.) The collection of Everard of Gateley, a monk of St. Edmund at
-Bury, who wrote _c_. 1250 three Mary Legends (_Rom_. xxix. 27).
+[[Bury]], who wrote _c_. 1250 three Mary Legends (_Rom_. xxix. 27).
 
 (iii.) An anonymous collection of sixty Mary Legends composed _c_.
 1250 (Brit. Museum Old Roy. 20 B, xiv.), some of which have been
@@ -210,7 +210,7 @@ clair, serré, simple, d'ordinaire assez monotone, vous plaît par sa
 saveur archaïque et quelquefois par une certaine grâce et une certaine
 malice."
 
-The _History of the Dukes of Normandy_ by Benoît de Sainte-More is
+The _History of the [[Dukes]] of Normandy_ by Benoît de Sainte-More is
 based on the work of Wace. It was composed at the request of Henry II.
 about 1170, and takes us as far as the year 1135 (ed. by Francisque
 Michel, 1836-1844, _Collection de documents inédits,_ 3 vols.). The
@@ -220,10 +220,10 @@ who takes pleasure in recounting love-adventures such as those he has
 described in his romance of Troy. Other works, however, give us more
 trustworthy information, for example, the anonymous poem on Henry
 II.'s _Conquest of Ireland_ in 1172 (ed. Francisque Michel, London,
-1837), which, together with the _Expugnatio hibernica_ of Giraud de
+1837), which, together with the _Expugnatio hibernica_ of [[Giraud]] de
 Barri, constitutes our chief authority on this subject. The _Conquest
 of Ireland_ was republished in 1892 by Goddard Henry Orpen, under the
-title of _The Song of Dermot and the Earl_ (Oxford, Clarendon Press).
+title of _The Song of Dermot and the Earl_ (Oxford, [[Clarendon]] Press).
 Similarly, Jourdain Fantosme, who was in the north of England in 1174,
 wrote an account of the wars between Henry II., his sons, William the
 Lion of Scotland and Louis VII., in 1173 and 1174 (_Chronicle of the
@@ -241,7 +241,7 @@ of his will. This work is of great value for the history of the period
 1186-1219, as the information furnished by John d'Early is either
 personal or obtained at first hand. In the part which deals with the
 period before 1186, it is true, there are various mistakes, due to the
-author's ignorance of contemporary history, but these slight blemishes
+author's [[Ignorance|ignorance]] of contemporary history, but these slight blemishes
 are amply atoned for by the literary value of the work. The style
 is concise, the anecdotes are well told, the descriptions short and
 picturesque; the whole constitutes one of the most living pictures
@@ -253,14 +253,14 @@ dedicated to Princess Mary, daughter of Edward I. (Duffus Hardy,
 _Descr. Catal._ III., 349-350); the _Scala Chronica_ compiled by
 Thomas Gray of Heaton ([+] _c._ 1369), which carries us to the year
 1362-1363 (ed. by J. Stevenson, Maitland Club, Edinburgh, 1836); the
-_Black Prince,_ a poem by the poet Chandos, composed about 1386, and
+_Black Prince,_ a poem by the poet [[Chandos]], composed about 1386, and
 relating the life of the Black Prince from 1346-1376 (re-edited by
 Francisque Michel, London and Paris, 1883); and, lastly, the different
 versions of the _Brutes,_ the form and historical importance of which
 have been indicated by Paul Meyer (_Bulletin de la Société des Anciens
 Textes,_ 1878, pp. 104-145), and by F.W.D. Brie (_Geschichte und
 Quellen der mittelenglischen Prosachronik, The Brute of England or The
-Chronicles of England,_ Marburg, 1905).
+Chronicles of England,_ [[Marburg]], 1905).
 
 Finally we may mention, as ancient history, the translation of
 Eutropius and Dares, by Geoffrey of Waterford (13th century), who
@@ -289,7 +289,7 @@ fortune_, summary of Boetius' _De consolatione philosophiae,_ by
 Simon de Fresne (_Hist. lit._ xxviii. 408); _Quatre livres des rois_,
 translated into French in the 12th century, and imitated in England
 soon after (P. Schlösser, _Die Lautverhältnisse der quatre livres des
-rois,_ Bonn, 1886; _Romania,_ xvii. 124); _Donnei des Amanz,_, the
+rois,_ [[Bonn]], 1886; _Romania,_ xvii. 124); _Donnei des Amanz,_, the
 conversation of two lovers, overheard and carefully noted by the
 poet, of a purely didactic character, in which are included three
 interesting pieces, the first being an episode of the story of
@@ -299,7 +299,7 @@ _Lai de l'oiselet_ (_Rom._ xxv. 497); _Livre des Sibiles_ (1160);
 _Enseignements Trebor_, by Robert de Ho (=Hoo, Kent, on the left bank
 of the Medway) [edited by Mary Vance Young, Paris; Picard, 101; cf.
 G. Paris, _Rom._ xxxii. 141]; _Lapidaire de Cambridge_ (Pannier, _Les
-Lapidaires français_); Frére Angier de Ste. Frideswide, _Dialogues,_
+Lapidaires français_); Frére Angier de Ste. Frideswide, _[[Dialogue|Dialogues]],_
 29th of November 1212 (_Rom._ xii. 145-208, and xxix.; M.K. Pope,
 _Étude sur la langue de Frère Angier,_ Paris, 1903); _Li dialoge
 Grégoire le pape_, ed. by Foerster, 1876; _Petit Plet_, by Chardri,
@@ -310,7 +310,7 @@ sur l'Ancien Testament_ (_Not. et Extr._ xxxiv. 1, 210; _Soc. Anc.
 Textes_, 1889, 73-74); _Le Corset_ and _Le Miroir,_ by Robert de
 Gretham (_Rom._ vii. 345; xv. 296); _Lumière as Lais,_ by Pierre de
 Peckham, _c._ 1250 (_Rom._ xv. 287); an Anglo-Norman redaction of
-_Image du monde, c._ 1250 (_Rom._ xxi. 481); two Anglo-Norman versions
+_[[Image]] du monde, c._ 1250 (_Rom._ xxi. 481); two Anglo-Norman versions
 of _Quatre soeurs_ (Justice, Truth, Peace, Mercy), 13th century (ed.
 by Fr. Michel, _Psautier d'Oxford,_ pp. 364-368, _Bulletin Soc. Anc.
 Textes,_ 1886, 57, _Romania,_ xv. 352); another _Comput_ by Raüf de
@@ -322,10 +322,10 @@ de Dieu et sur la haine du péché_, 13th century, second part (_Rom._
 xxix. 5); _Le mariage des neuf filles du diable_ (_Rom._ xxix. 54);
 _Ditie d' Urbain_, attributed without any foundation to Henry I. (P.
 Meyer, _Bulletin Soc. Anc. Textes_, 1880, p. 73 and _Romania_ xxxii,
-68); _Dialogue de l'évêque Saint Julien et son disciple_ (_Rom._ xxix.
+68); _Dialogue de l'évêque Saint Julien et son [[Disciple|disciple]]_ (_Rom._ xxix.
 21); _Poème sur l'antichrist et le jugement dernier_, by Henri d'Arci
 (_Rom._ xxix. 78; _Not. et. Extr._ 35, i. 137). Wilham de Waddington
-produced at the end of the 13th century his _Manuel des péchés_, which
+produced at the end of the 13th century his _[[Manuel]] des péchés_, which
 was adapted in England by Robert of Brunne in his _Handlying Sinne_
 (1303) [_Hist. lit._ xxviii. 179-207; _Rom._ xxix. 5, 47-53]; see
 Furnivall,_Robert of Brunne's Handlying Synne_ (Roxb. Club, 1862);
@@ -333,7 +333,7 @@ in the 14th century we find Nicole Bozon's _Contes moralisés_ (see
 above); _Traité de naturesse_ (_Rom._ xiii. 508); _Sermons_ in verse
 (P. Meyer, op. cit. xlv.); _Proverbes de bon enseignement_ (op.
 cit. xlvi.). We have also a few handbooks on the teaching of French.
-Gautier de Biblesworth wrote such a treatise _à Madame Dyonise
+[[Gautier]] de Biblesworth wrote such a treatise _à Madame Dyonise
 de Mountechensi pur aprise de langage_ (Wright, _A Volume of
 Vocabularies_; P. Meyer, _Rec. d'anc. textes_, p. 360 and _Romania_
 xxxii, 22); _Orthographia gallica_ (Sturzinger, _Altfr. Bibl._ 1884);
@@ -354,10 +354,10 @@ _Brandain_), written in 1121, by an ecclesiastic for Queen Aelis of
 Louvain (_Rom. St._ i. 553-588; _Z.f.r.P._ ii. 438-459; _Rom._ xviii.
 203. C. Wahlund, _Die altfr. Prosaübersetz. von Brendan's Meerfahrt_,
 Upsala, 1901); life of St. Catherine by Clemence of Barking (_Rom._
-xiii. 400, Jarnik, 1894); life of St Giles, c. 1170, by Guillaume de
+xiii. 400, Jarnik, 1894); life of St [[Giles]], c. 1170, by Guillaume de
 Berneville (_Soc. Anc. Textes fr._, 1881; _Rom._ xi. and xxiii. 94);
-life of St. Nicholas, life of Our Lady, by Wace (Delius, 1850; Stengel,
-_Cod. Digby_, 66); Uhlemann, _Gram. Krit. Studien zu Wace's Conception
+life of St. Nicholas, life of Our Lady, by Wace ([[Delius]], 1850; Stengel,
+_Cod. [[Digby]]_, 66); Uhlemann, _Gram. Krit. Studien zu Wace's Conception
 und Nicolas_, 1878; life of St. George by Simon de Fresne (_Rom._ x.
 319; J.E. Matzke, _Public. of the Mod. Lang. Ass. of Amer._ xvii.
 1902; _Rom._ xxxiv. 148); _Expurgatoire de Ste. Patrice_, by Marie de
@@ -365,7 +365,7 @@ France (Jenkins, 1894; Eckleben, _Aelteste Schilderung vom Fegefeuer
 d.H. Patricius_, 1851; Ph. de Felice, 1906); _La vie de St. Edmund le
 Rei_, by Denis Pyramus, end of 12th century (_Memorials of St. Edmund's
 Abbey_, edited by T. Arnold, ii. 1892; _Rom._ xxii. 170); Henri
-d'Arci's life of St. Thais, poem on the Antichrist, _Visio S. Pauli_
+d'Arci's life of St. Thais, poem on the [[Antichrist]], _Visio S. Pauli_
 (P. Meyer, _Not. et Extr._ xxxv. 137-158); life of St. Gregory the
 Great by Frère Angier, 30th of April 1214 (_Rom._ viii. 509-544; ix.
 176; xviii. 201); life of St. Modwenna, between 1225 and 1250 (Suchier,
@@ -381,7 +381,7 @@ St. Auban in Bezug auf Quelle," &c. _Rom. St._ iv. 543-626; ed. by
 Atkinson, 1876). _The Vision of Tnudgal_, an Anglo-Norman fragment, is
 preserved in MS. 312, Trinity College, Dublin; the MS. is of the
 14th century; the author seems to belong to the 13th (_La vision de
-Tondale_, ed. by Friedel and Kuno Meyer, 1906). In this category we
+Tondale_, ed. by [[Friedel]] and Kuno Meyer, 1906). In this category we
 may add the life of Hugh of Lincoln, 13th century (_Hist. Lit._ xxiii.
 436; Child, _The English and Scottish Popular Ballads_, 1888, p. v;
 Wolter, _Bibl. Anglo-Norm._, ii. 115). Other lives of saints were
@@ -440,7 +440,7 @@ attacked the English.
 
 
 _Dramatic Literature_.--This must have had a considerable influence on
-the development of the sacred drama in England, but none of the
+the development of the sacred [[Drama|drama]] in England, but none of the
 French plays acted in England in the 12th and 13th centuries has been
 preserved. _Adam_, which is generally considered to be an Anglo-Norman
 mystery of the 12th century, was probably written in France at
@@ -452,7 +452,7 @@ seem to have been imitations of the French ones.
 
 BIBLIOGRAPHY.--Apart from the works already mentioned see generally:
 Scheibner, "Über die Herrschaft der frz. Sprache in England"
-(Annaberg, Progr. der Königlichen Realschule, 1880, 38 f.); Groeber,
+([[Annaberg]], Progr. der Königlichen Realschule, 1880, 38 f.); Groeber,
 _Grundr. der romanischen Philologie_, ii. iii. (Strassburg, 1902); G.
 Paris, _La Litt. fr. au moyen âge_ (1905); _Esquisse historique de
 la litt. fr. au moyen âge_ (1907); _La Litt. norm, avani l'annexion
@@ -478,7 +478,7 @@ use common materials; but the same may be said of several groups
 of medieval chronicles, which no one dreams of treating as single
 chronicles. Of this fourfold Chronicle there are seven MSS. in
 existence; _C.C.C. Cant._ 173 (A); _Cott. Tib._ A vi. (B); _Cott.
-Tib._ B i. (C); _Cott. Tib._ B iv. (D); _Bodl. Laud. Misc._ 636 (E);
+Tib._ B i. (C); _Cott. Tib._ B iv. (D); _Bodl. [[Laud]]. Misc._ 636 (E);
 _Cott. Domitian_ A viii. (F); _Cott. Otho_ B xi. (G). Of these G is
 now a mere fragment, and it is known to have been a transcript of A.
 F is bilingual, the entries being given both in Saxon and Latin. It
@@ -499,7 +499,7 @@ were utilized. Among the latter the chronological epitome appended to
 Bede's _Ecclesiastical History_ may be specially mentioned. But even
 this common stock exists in two different recensions, in A, B, C, on
 the one hand, and D, E on the other. The main points of difference are
-that in D, E (1) a series of northern annals have been incorporated;
+that in D, E (1) a series of northern [[Annals|annals]] have been incorporated;
 (2) the Bede entries are taken, not from the brief epitome, but from
 the main body of the _Eccl. Hist._ The inference is that, shortly
 after the compiling of this Alfredian chronicle, a copy of it was sent
@@ -521,7 +521,7 @@ inserted a number of Winchester entries, which prove that A is a
 Winchester book. And this local and scrappy character it retains
 to 1001, where it practically ends. At some subsequent time it
 was transferred bodily to Canterbury, where it received numerous
-interpolations in the earlier part, and a few later local entries
+[[Interpolation|interpolations]] in the earlier part, and a few later local entries
 which finally tail off into the Latin acts of Lanfranc. A may
 therefore be dismissed. C has added to the common stock one or
 two Abingdon entries, with which place the history of C is closely
@@ -539,7 +539,7 @@ anti-Godwinist, while E is equally pro-Godwinist, D occupying an
 intermediate position. C extends to 1066, where it ends abruptly, and
 probably mutilated. D ends at 1079 and is certainly mutilated. In
 its later history D is associated with some place in the diocese of
-Worcester, probably Evesham. In its present form D is a comparatively
+Worcester, probably [[Evesham]]. In its present form D is a comparatively
 late MS., none of it probably much earlier, and some of it later, than
 1100. In the case of entries in the earlier part of the chronicles,
 which are peculiar to D, we cannot exclude the possibility that they
@@ -568,9 +568,9 @@ Anglo-Saxon Chronicle was by Abraham Wheloc, professor of Arabic at
 Cambridge, where the work was printed (1643-1644). It was based mainly
 on the MS. called G above, and is the chief source of our knowledge of
 that MS. which perished, all but three leaves, in the Cottonian fire
-of 1723. Edmund Gibson of Queen's College, Oxford, afterwards bishop
+of 1723. Edmund [[Gibson]] of Queen's College, Oxford, afterwards bishop
 of London, published an edition in 1692. He used Wheloc's edition, and
-E, with collations or transcripts of B and F. Both Wheloc and Gibson
+E, with [[Collation|collations]] or transcripts of B and F. Both Wheloc and Gibson
 give Latin translations. In 1823 appeared an edition by Dr. Ingram, of
 Trinity College, Oxford, with an English translation. Besides A, B, E,
 F, Ingram used C and D for the first time. But both he and Gibson made
@@ -591,7 +591,7 @@ introduction a very considerable advance was made. On this edition is
 partly based the later edition by the Rev. C. Plummer, already cited
 above. In addition to the translations contained in the editions
 already mentioned, the following have been issued separately. The
-first translation into modern English was by Miss Anna Gurney,
+first translation into modern English was by Miss [[Anna]] Gurney,
 privately printed in 1819. This was largely based on Gibson's edition,
 and was in turn the basis of Dr. Giles' translation, published in 1847,
 and often reprinted. The best translation is that by the Rev. Joseph
@@ -637,7 +637,7 @@ custom; (3) private compilations of legal rules and enactments. To
 the first division belong the laws of the Kentish kings, Æthelberht,
 Hlothhere and Eadric, Withraed; those of Ine of Wessex, of Alfred,
 Edward the Elder, Æthelstan,[1] Edmund, Edgar, Æthelred and Canute;
-the treaty between Alfred and Guthrum and the so-called treaty between
+the treaty between Alfred and [[Guthrum]] and the so-called treaty between
 Edward and Guthrum. The second division is formed by the convention
 between the English and the Welsh _Dunsaetas_, the law of the
 Northumbrian priests, the customs of the North people, the fragments
@@ -652,8 +652,8 @@ the judge (_dema_), formulae of oaths, notions as to wergeld, &c. A
 fourth group might be made of the charters, as they are based on
 Old English private and public law and supply us with most important
 materials in regard to it. Looking somewhat deeper at the sources
-from which Old English law was derived, we shall have to modify our
-classification to some extent, as the external forms of publication,
+from which Old [[English Law|English law]] was derived, we shall have to modify our
+[[Classification|classification]] to some extent, as the external forms of publication,
 although important from the point of view of historical criticism, are
 not sufficient standards as to the juridical character of the various
 kinds of material. Direct statements of law would fall under the
@@ -666,7 +666,7 @@ second division according to the first classification, a great many
 of the rules entered in collections promulgated by kings; most of the
 paragraphs of Æthelberht's, Hlothhere's, and Eadric's and Ine's
 laws, are popular legal customs that have received the stamp of royal
-authority by their insertion in official codes. On the other hand,
+authority by their insertion in official [[Code|codes]]. On the other hand,
 from Withraed's and Alfred's laws downwards, the element of enactment
 by central authority becomes more and more prominent. The kings
 endeavour, with the help of secular and clerical witan, to introduce
@@ -682,7 +682,7 @@ case of Frankish legislation.
 [Footnote 1: The _Judicia civitatis Lundoniae_ are a gild statute
 confirmed by King Æthelstan.]
 
-3. Even in the course of a general survey of the legal lore at
+3. Even in the course of a general survey of the legal [[Lore|lore]] at
 our disposal, one cannot help being struck by peculiarities in the
 distribution of legal subjects. Matters which seem to us of primary
 importance and occupy a wide place in our law-books are almost
@@ -742,7 +742,7 @@ preceding the Danish settlements. After the treaties with the Danes,
 the tendency is to simplify distinctions on the lines of an opposition
 between twelvehynd-men and twyhynd-men, paving the way towards
 the feudal distinction between the free and the unfree. In the
-arrangements of the commonwealth the clauses treating of royal
+arrangements of the [[Commonwealth|commonwealth]] the clauses treating of royal
 privileges are more or less evenly distributed over all reigns, but
 the systematic development of police functions, especially in regard
 to responsibility for crimes, the catching of thieves, the suppression
@@ -768,7 +768,7 @@ of Lower Germany--those of Saxons, Frisians, Thuringians. We find a
 division of social ranks which reminds us of the threefold gradation
 of Lower Germany (edelings, frilings, lazzen-eorls, ceorls, laets),
 and not of the twofold Frankish one (_ingenui Franci, Romani_), nor
-of the minute differentiation of the Upper Germans and Lombards. In
+of the minute differentiation of the Upper Germans and [[Lombards]]. In
 subsequent history there is a good deal of resemblance between the
 capitularies' legislation of Charlemagne and his successors on one
 hand, the acts of Alfred, Edward the Elder, Æthelstan and Edgar on the
@@ -836,7 +836,7 @@ to be declared and applied by the people itself in its communities,
 while the spokesmen of the people were neither democratic majorities
 nor individual experts, but a few leading men--the twelve eldest
 thanes or some similar quorum. Folk-right could, however, be broken
-or modified by special law or special grant, and the fountain of such
+or modified by special law or special grant, and the [[Fountain|fountain]] of such
 privileges was the royal power. Alterations and exceptions were, as
 a matter of fact, suggested by the interested parties themselves,
 and chiefly by the Church. Thus a privileged land-tenure was
@@ -852,7 +852,7 @@ themselves the starting-point of a new legal system--the feudal one.
 law is its tendency towards the preservation of peace. Society
 is constantly struggling to ensure the main condition of its
 existence--peace. Already in Æthelberht's legislation we find
-characteristic fines inflicted for breach of the peace of householders
+characteristic fines inflicted for [[Breach|breach]] of the peace of householders
 of different ranks--the ceorl, the eorl, and the king himself
 appearing as the most exalted among them. Peace is considered not so
 much a state of equilibrium and friendly relations between parties,
@@ -867,7 +867,7 @@ complete rules in respect of the king's peace and its infringements.
 
 (c) The more ancient documents of Anglo-Saxon law show us the
 individual not merely as the subject and citizen of a certain
-commonwealth, but also as a member of some group, all the fellows
+commonwealth, but also as a member of some group, all the [[Fellows|fellows]]
 of which are closely allied in claims and responsibilities. The most
 elementary of these groups is the _maegth_, the association of agnatic
 and cognatic relations. Personal protection and revenge, oaths,
@@ -906,7 +906,7 @@ by the documents themselves, as they are constantly referred to in the
 latter.
 
 
-BIBLIOGRAPHY.--_Editions_: Liebermann, _Die Gesetze der Angelsachsen_
+BIBLIOGRAPHY.--_Editions_: [[Liebermann]], _Die Gesetze der Angelsachsen_
 (1903, 1906) is indispensable, and leaves nothing to be desired as
 to the constitution of the texts. The translations and notes are,
 of course, to be considered in the light of an instructive, but not
@@ -914,9 +914,9 @@ final, commentary. R. Schmid, _Gesetze der Angelsachsen_ (2nd ed.,
 Leipzig, 1858) is still valuable on account of its handiness and the
 fulness of its glossary. B. Thorpe, _Ancient Laws and Institutes of
 England_ (1840) is not very trustworthy. _Domesday Book_, i. ii. (Rec.
-Comm.); _Codex Diplomaticus Aevi Saxonici_, i.-vi. ed. J.M. Kemble
+Comm.); _Codex Diplomaticus Aevi Saxonici_, i.-vi. ed. J.M. [[Kemble]]
 (1839-1848); _Cartularium Saxonicum_ (up to 940), ed. W. de Gray
-Birch (1885-1893); J. Earle, _Land Charters_ (Oxford, 1888); Thorpe,
+[[Birch]] (1885-1893); J. Earle, _Land Charters_ (Oxford, 1888); Thorpe,
 _Diplomatarium Anglicanum; Facsimiles of Ancient Charters_, edited
 by the Ordnance Survey and by the British Museum; Haddan and Stubbs,
 _Councils of Great Britain_, i.-iii. (Oxford, 1869-1878).
@@ -926,7 +926,7 @@ _Councils of Great Britain_, i.-iii. (Oxford, 1869-1878).
 _Modern works_.--Konrad Maurer, _Über Angelsachsische
 Rechtsverhaltnisse, Kritische Ueberschau_ (Munich, 1853 ff.), still
 the best account of the history of Anglo-Saxon law; _Essays on
-Anglo-Saxon Law_, by H. Adams, H.C. Lodge, J.L. Laughlin and E. Young
+Anglo-Saxon Law_, by H. Adams, H.C. [[Lodge]], J.L. Laughlin and E. Young
 (1876); J.M. Kemble, _Saxons in England_; F. Palgrave, _History of the
 English Commonwealth_; Stubbs, _Constitutional History of England_,
 i.; Pollock and Maitland, _History of English Law_, i.; H. Brunner,
@@ -939,7 +939,7 @@ _Untersuchungen_, i.; Steenstrup, _Normannerne_, iv.; F.W. Maitland,
 _Domesday and Beyond_ (Cambridge, 1897); H.M. Chadwick, _Studies on
 Anglo-Saxon Institutions_ (1905); P. Vinogradoff, "Folcland" in
 the _English Historical Review_, 1893; "Romanistische Einflusse im
-Angelsächsischen Recht: Das Buchland" in the _Mélanges Fitting_, 1907;
+Angelsächsischen Recht: Das Buchland" in the _Mé[[Lange|langes]] Fitting_, 1907;
 "The Transfer of Land in Old English Law" in the _Harvard Law Review_,
 1907.
 

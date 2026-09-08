@@ -30,7 +30,7 @@ The 2nd earl inherited not only the Fitzwilliam estates in
 Northamptonshire, but also, on the death of his uncle the marquess of
 Rockingham in 1782, the valuable Wentworth estates in Yorkshire, and
 thus became one of the wealthiest noblemen of the day. He had been at
-Eton with C.J. Fox, and became an active supporter of the Whig party;
+[[Eton]] with C.J. Fox, and became an active supporter of the Whig party;
 and in 1794, with the duke of Portland, Windham and other "old Whigs" he
 joined Pitt's cabinet, becoming president of the council. At the end of
 the year, however, he was sent to Ireland as viceroy. Fitzwilliam,

@@ -1,28 +1,28 @@
 # Benchmark — fs
 
 - **Adapter:** Filesystem-direct (MiniSearch in-process, no HTTP round-trip)
-- **Snapshot:** 2026-06-27T01:50:32.126Z
+- **Snapshot:** 2026-09-07T03:37:45.208Z
 - **Runs per measurement:** 20 (cold = run 1; warm = runs 2..N)
 - **Machine:** darwin/arm64, Node v25.9.0, 16 logical CPUs
-- **Process RSS:** before 698.17 MB, peak 805.17 MB (Δ 107.00 MB)
+- **Process RSS:** before 702.59 MB, peak 805.06 MB (Δ 102.47 MB)
 
 ## Search
 
 | Query | Kind | Cold | Warm p50 | Warm p95 | TTFR cold | TTFR p50 | Payload | Tokens | Hits (run 1) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| `church` | single | 4.52 ms | 1.45 ms | 2.49 ms | 1.68 ms | 1.12 ms | 2.8 KB | 747 | 10 |
-| `Roman Empire` | multi | 5.07 ms | 3.66 ms | 4.97 ms | 2.21 ms | 1.87 ms | 2.7 KB | 751 | 10 |
-| `the capital of` | phrase | 27.06 ms | 19.49 ms | 21.49 ms | 19.14 ms | 18.48 ms | 2.7 KB | 754 | 10 |
-| `phlogiston` | rare | 3.14 ms | 1.54 ms | 2.48 ms | 0.89 ms | 0.99 ms | 2.7 KB | 742 | 10 |
+| `church` | single | 4.69 ms | 1.40 ms | 2.55 ms | 1.30 ms | 1.12 ms | 2.8 KB | 753 | 10 |
+| `Roman Empire` | multi | 4.64 ms | 3.29 ms | 4.12 ms | 1.80 ms | 1.84 ms | 2.7 KB | 755 | 10 |
+| `the capital of` | phrase | 25.33 ms | 15.93 ms | 18.50 ms | 14.05 ms | 14.04 ms | 2.7 KB | 764 | 10 |
+| `phlogiston` | rare | 2.24 ms | 1.21 ms | 1.25 ms | 0.87 ms | 0.84 ms | 2.7 KB | 751 | 10 |
 
-> **Context tax.** Payload is the raw bytes returned for the query. Token count uses tiktoken `cl100k_base`.
+> **Context tax.** Payload is the raw bytes returned for the query. Token count is encoder-approximate: tiktoken `cl100k_base` (an OpenAI encoder) on the raw payload text — per-model tokenizers differ in absolute counts, but cross-adapter ratios hold.
 
 ## Read
 
 | Sample | Path | Cold | Warm p50 | Warm p95 | Payload |
 | --- | --- | ---: | ---: | ---: | ---: |
-| small | `Encyclopedia/A/Anglesite.md` | 1.20 ms | 0.07 ms | 0.13 ms | 2.0 KB |
-| large | `Encyclopedia/I/Italy.md` | 1.72 ms | 1.02 ms | 1.21 ms | 781.6 KB |
+| small | `Encyclopedia/A/Anglesite.md` | 1.55 ms | 0.06 ms | 0.11 ms | 2.1 KB |
+| large | `Encyclopedia/I/Italy.md` | 0.99 ms | 0.88 ms | 0.94 ms | 786.3 KB |
 
 ## Tools
 
@@ -30,9 +30,9 @@ Latency for tools beyond search/read. Cold = first call; Warm p50 = median of su
 
 | Tool | Target | Cold | Warm p50 | Warm p95 | Payload |
 | --- | --- | ---: | ---: | ---: | ---: |
-| `list_notes` | vault root | 0.42 ms | 0.05 ms | 0.10 ms | 512 B |
+| `list_notes` | vault root | 0.23 ms | 0.04 ms | 0.06 ms | 512 B |
 
-> **Not supported by this backend:** `list_tags`, `outline_note`, `get_backlinks`, `get_links`, `get_periodic_note`.
+> **Not supported by this backend:** `list_tags`, `context_pack`, `outline_note`, `get_backlinks`, `get_links`, `get_periodic_note`.
 
 ## Methodology notes
 

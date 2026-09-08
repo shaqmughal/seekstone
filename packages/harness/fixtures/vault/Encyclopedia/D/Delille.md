@@ -4,7 +4,7 @@ DELILLE, JACQUES (1738-1813), French poet, was born on the 22nd of June
 1738 at Aigue-Perse in Auvergne. He was an illegitimate child, and was
 descended by his mother from the chancellor De l'Hopital. He was
 educated at the college of Lisieux in Paris and became an elementary
-teacher. He gradually acquired a reputation as a poet by his epistles,
+teacher. He gradually acquired a reputation as a poet by his [[Epistle|epistles]],
 in which things are not called by their ordinary names but are hinted at
 by elaborate periphrases. Sugar becomes "le miel americain que du suc
 des roseaux exprima l'Africain." The publication (1769) of his
@@ -21,7 +21,7 @@ and abbot of Saint-Severin, when the outbreak of the Revolution reduced
 him to poverty. He purchased his personal safety by professing his
 adherence to revolutionary doctrine, but eventually quitted Paris, and
 retired to St Die, where he completed his translation of the _Aeneid_.
-He emigrated first to Basel and then to Glairesse in Switzerland. Here
+He emigrated first to [[Basel]] and then to Glairesse in Switzerland. Here
 he finished his _Homme des champs_, and his poem on the _Trois regnes de
 la nature_. His next place of refuge was in Germany, where he composed
 his _La Pitie_; and finally, he passed some time in London, chiefly
@@ -37,10 +37,10 @@ the art and difficulties of translation. He wrote the article "La
 Bruyere" in the _Biographie universelle_. The following is the list of
 his poetical works:--_Les Georgiques de Virgile, traduites en vers
 francais_ (Paris, 1769, 1782, 1785, 1809); _Les Jardins_, en quatre
-chants (1780; new edition, Paris, 1801); _L'Homme des champs, ou les
+[[Chant|chants]] (1780; new edition, Paris, 1801); _L'Homme des champs, ou les
 Georgiques francaises_ (Strassburg, 1802); _Poesies fugitives_ (1802);
 _Dithyrambe sur l'immortalite de l'ame, suivi du passage du Saint
-Gothard_, poeme traduit de l'Anglais de Madame la duchesse de Devonshire
+Gothard_, poeme traduit de l'Anglais de Madame la duchesse de [[Devonshire]]
 (1802); _La Pitie_, poeme en quatre chants (Paris, 1802); _L'Eneide de
 Virgile, traduite en vers francais_ (4 vols., 1804); _Le Paradis perdu_
 (3 vols., 1804); _L'Imagination_, poeme en huit chants (2 vols., 1806);

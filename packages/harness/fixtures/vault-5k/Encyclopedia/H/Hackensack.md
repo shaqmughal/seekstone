@@ -21,7 +21,7 @@ establishments in and near it. Silk and silk goods and wall-paper are
 the principal manufactures. In 1905 the value of the town's factory
 product was $1,488,358, an increase of 90.3% since 1900. There are an
 historic mansion-house and an interesting old Dutch church, both erected
-during the 18th century; and a monument marks the grave of General Enoch
+during the 18th century; and a monument marks the grave of General [[Enoch]]
 Poor (1736-1780), an officer in the War of Independence, who was born at
 Andover, Mass., entered the Continental Army from New Hampshire, and
 took part in the campaign against Burgoyne, in the battle of Monmouth

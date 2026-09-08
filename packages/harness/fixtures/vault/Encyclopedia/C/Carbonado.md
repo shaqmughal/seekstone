@@ -9,7 +9,7 @@ tags: [metaphysics-theory, chemistry]
 # Carbonado
 
 CARBONADO, a name given in Brazil to a dark massive form of impure
-diamond, known also as "carbonate" and in trade simply as carbon. It is
+diamond, known also as "carbonate" and in trade simply as [[Carbon|carbon]]. It is
 sometimes called black diamond. Generally it is found in small masses of
 irregular polyhedral form, black, brown or dark-grey in colour, with a
 dull resinoid lustre; and breaking with a granular fracture, paler in
@@ -24,9 +24,9 @@ crowns used for diamond-boring. Having no cleavage, the carbon is less
 liable to fracture on the rotation of the drill than is crystallized
 diamond. The largest piece of carbonado ever recorded was found in Bahia
 in 1895, and weighed 3150 carats. Pieces of large size are, however,
-relatively less valuable than those of moderate dimensions, since they
+relatively less valuable than those of moderate [[Dimension|dimensions]], since they
 require the expenditure of much labour in reducing them to fragments of
-a suitable size for mounting in the drill-heads. Ilmenite has sometimes
+a suitable size for mounting in the drill-heads. [[Ilmenite]] has sometimes
 been mistaken in the South African mines for carbonado.     (F. W. R.*)
 
 ## References

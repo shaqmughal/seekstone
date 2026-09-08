@@ -3,7 +3,7 @@
 LESGHIANS, or LESGHIS (from the Persian _Leksi_, called Leki by the
 Grusians or Georgians, Armenians and Ossetes), the collective name for a
 number of tribes of the eastern Caucasus, who, with their kinsfolk the
-Chechenzes, have inhabited Daghestan from time immemorial. They spread
+Chechenzes, have inhabited [[Daghestan]] from time immemorial. They spread
 southward into the Transcaucasian circles Kuba, Shemakha, Nukha and
 Sakataly. They are mentioned as [Greek: Lêchai] by Strabo and Plutarch
 along with the [Greek: Gêlai] (perhaps the modern Galgai, a Chechenzian
@@ -26,7 +26,7 @@ disposition they are intelligent, bold and persistent, and capable of
 reckless bravery, as was proved in their struggle to maintain their
 independence. They are capable of enduring great physical fatigue. They
 live a semi-savage life on their mountain slopes, for the most part
-living by hunting and stock-breeding. Little agriculture is possible.
+living by [[Hunting|hunting]] and stock-breeding. Little agriculture is possible.
 Their industries are mainly restricted to smith-work and cutlery and the
 making of felt cloaks, and the women weave excellent shawls. They are
 for the most part fanatical Mahommedans.

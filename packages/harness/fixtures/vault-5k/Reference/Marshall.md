@@ -9,7 +9,7 @@ July 1778 as captain in the Continental Army during the War of
 Independence. He resigned his commission early in 1781; was admitted to
 the bar after a brief course of study, first practised in Fauquier
 county; and after two years began to practise in Richmond. In 1786 we
-find him counsel in a case of great importance, _Hite_ v. _Fairfax_,
+find him counsel in a case of great importance, _Hite_ v. _[[Fairfax]]_,
 involving the original title of Lord Fairfax to that large tract of
 country between the headwaters of the Potomac and Rappahannock, known as
 the northern neck of Virginia. Marshall represented tenants of Lord
@@ -18,7 +18,7 @@ of Call's _Virginia Reports_ which cover the period, he maintained the
 leadership of the bar of Virginia. He was a member of the Virginia
 Assembly in 1782-1791 and again in 1795-1797; and in 1788, he took a
 leading part in the Virginia Convention called to act on the proposed
-constitution for the United States, with Madison ably urging the
+constitution for the United States, with [[Madison]] ably urging the
 ratification of that instrument. In 1795 Washington offered him the
 attorney-generalship, and in 1796, after the retirement of James Monroe,
 the position of minister to France. Marshall declined both offers
@@ -30,14 +30,14 @@ the differences between the young republic and the directory. The
 commission failed, but the course pursued by Marshall was approved in
 America, and with the resentment felt because of the way in which the
 commission had been treated in France, made him, on his return,
-exceedingly popular. To this popularity, as well as to the earnest
+exceedingly popular. To this popularity, as well as to the [[Earnest|earnest]]
 advocacy of Patrick Henry, he owed his election as a Federalist to the
 National House of Representatives in the spring of 1799, though the
 feeling in Richmond was overwhelmingly in favour of the opposition or
 Republican party. His most notable service in Congress was his speech on
 the case of Thomas Nash, alias Jonathan Robbins, in which he showed that
 there is nothing in the constitution of the United States which prevents
-the Federal government from carrying out an extradition treaty. He was
+the [[Federal Government|Federal government]] from carrying out an [[Extradition|extradition]] treaty. He was
 secretary of state under President Adams from the 6th of June 1800 to
 the 4th of March 1801. In the meantime he had been appointed
 chief-justice of the Supreme Court, his commission bearing date the 31st
@@ -47,7 +47,7 @@ At the time of Marshall's appointment it was generally considered that
 the Supreme Court was the one department of the new government which had
 failed in its purpose. John Jay, the first chief-justice, who had
 resigned in 1795, had just declined a reappointment to the
-chief-justiceship on the ground that he had left the bench perfectly
+chief-justiceship on the ground that he had left the [[Bench|bench]] perfectly
 convinced that the court would never acquire proper weight and dignity,
 its organization being fatally defective. The advent of the new
 chief-justice was marked by a change in the conduct of business in the
@@ -60,7 +60,7 @@ admirably adapted to strengthen the power and dignity of the court. The
 chief-justice embodied the majesty of the judicial department of the
 government almost as fully as the president stood for the power of the
 executive. That this change was acquiesced in by his associates without
-diminishing their goodwill towards their new chief is testimony to the
+diminishing their [[Goodwill|goodwill]] towards their new chief is testimony to the
 persuasive force of Marshall's personality; for his associates were not
 men of mediocre ability. After the advent of Mr Justice Joseph Story the
 practice was abandoned. Marshall, however, still delivered the opinion
@@ -90,7 +90,7 @@ preservation of the United States as a federal state.
   of a legislature of one of the states, which the court thought
   contrary to the Federal Constitution.
 
-  In _Cohens_ v. _Virginia_, in spite of the contention of Jefferson and
+  In _Cohens_ v. _Virginia_, in spite of the contention of [[Jefferson]] and
   the then prevalent school of political thought that it was contrary to
   the Constitution for a person to bring one of the states of the United
   States, though only as an appellee, into a court of justice, he held
@@ -103,7 +103,7 @@ preservation of the United States as a federal state.
   In _M'Culloch_ v. _Maryland_, though admitting that the Federal
   government is one of delegated powers and cannot exercise any power
   not expressly given in the Constitution, he laid down the rule that
-  Congress in the exercise of a delegated power has a wide latitude in
+  Congress in the exercise of a delegated power has a wide [[Latitude|latitude]] in
   the choice of means, not being confined in its choice of means to
   those which must be used if the power is to be exercised at all.
 
@@ -184,7 +184,7 @@ though not in the historical, sense he was the strictest of strict
 constructionalists, and as a result his opinions are practically devoid
 of theories of government, sovereignty and the rights of man.
 
-  A single illustration of his avoidance of all theory and his adherence
+  A single illustration of his [[Avoidance|avoidance]] of all theory and his adherence
   to the words of the Constitution will suffice. In the case of the
   _United States_ v. _Fisher_ the constitutional question involved was
   the power of Congress to give to the United States a preference over
@@ -207,7 +207,7 @@ which must be recognized if we are to understand the correct value of
 his work in the field of constitutional law, but also because there
 exists to-day a popular impression that by implication he stretched to
 the utmost the powers of the Federal government. This impression is due
-primarily to the ignorance of many of those who have undertaken to
+primarily to the [[Ignorance|ignorance]] of many of those who have undertaken to
 praise him. During his life he was charged by followers of the States
 Rights School of political thought with upholding Federal power in cases
 not warranted by the constitution. Later, however, those who admired a
@@ -217,7 +217,7 @@ just, regarded the assumption on which it was founded as Marshall's best
 claim to his country's gratitude.
 
 As a constitutional lawyer, Marshall stands without a rival. His work on
-international law and admiralty is of first rank. But though a good, he
+[[International|international]] law and admiralty is of first rank. But though a good, he
 was not a great, common law or equity lawyer. In these fields he did not
 make new law nor clarify what was obscure, and his constitutional
 opinions which to-day are found least satisfactory are those in which
@@ -225,7 +225,7 @@ the question to be solved necessarily involves the discussion of some
 common-law conception, especially those cases in which he was required
 to construe the restriction imposed by the Constitution on any state
 impairing the obligation of contracts. His decision in the celebrated
-case of _Dartmouth College_ v. _Woodward_, in which he held that a state
+case of _[[Dartmouth College]]_ v. _Woodward_, in which he held that a state
 could not repeal a charter of a private corporation, because a charter
 is a contract which a subsequent act of the state repealing the charter
 impairs, though of great economic importance, does not touch any
@@ -269,7 +269,7 @@ circuit judge required him to make, and a visit to his old home in
 Fauquier county, he lived in Richmond. His house on Shockhoe Hill is
 still standing.
 
-On Christmas Day 1831 his wife died. He never was quite the same again.
+On [[Christmas]] Day 1831 his wife died. He never was quite the same again.
 On returning from Washington in the spring of 1835 he suffered severe
 contusions, from an accident to the stage coach in which he was riding.
 His health, which had not been good, now rapidly declined and in June he
@@ -282,13 +282,13 @@ ed., 2 vols., 1832), which though prepared hastily contains much
 material of value.
 
   The principal sources of information are: an essay by James B. Thayer
-  (Boston and New York, 1904); _Great American Lawyers_ (Philadelphia,
-  1908), ii. 313-408, an essay by Wm. Draper Lewis; and Allan B.
+  ([[Boston]] and New York, 1904); _Great American Lawyers_ (Philadelphia,
+  1908), ii. 313-408, an essay by Wm. Draper [[Lewis]]; and Allan B.
   Magruder, _John Marshall_ (Boston, 1885), in the "American Statesmen
   Series." The addresses delivered on Marshall Day, the 4th of February
-  1901, are collected by John F. Dillon (Chicago, 1903). In the
+  1901, are collected by John F. Dillon ([[Chicago]], 1903). In the
   "Appendix" to Dillon's collection will be found the "Discourse" by
-  Joseph Story and the "Eulogy" by Horace Binney, both delivered soon
+  Joseph Story and the "Eulogy" by Horace [[Binney]], both delivered soon
   after Marshall's death. For a study of Marshall's decisions, the
   _Constitutional Decisions of John Marshall_, edited by Joseph P.
   Collon, Jr. (New York and London, 1905), is of value.     (W. D. L.)

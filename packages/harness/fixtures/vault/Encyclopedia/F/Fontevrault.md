@@ -6,11 +6,11 @@ road and 2½ m. from the confluence of the Loire and Vienne. Pop. (1906)
 1279. It is situated in the midst of the forest of Fontevrault. The
 interest of the place centres in its abbey, which since 1804 has been
 utilized and abused as a central house of detention for convicts. The
-church (12th century), of which only the choir and apse are appropriated
-to divine service, has a beautiful nave formerly covered by four cupolas
+church (12th century), of which only the [[Choir|choir]] and [[Apse|apse]] are appropriated
+to divine service, has a beautiful nave formerly covered by four [[Cupola|cupolas]]
 destroyed in 1816. There is a fifth cupola above the crossing. In a
 chapel in the south transept are the effigies of Henry II. of England,
-of his wife Eleanor of Guienne, of Richard I. of England and of Isabella
+of his wife Eleanor of [[Guienne]], of Richard I. of England and of [[Isabella]]
 of Angoulême, wife of John of England--Eleanor's being of oak and the
 rest of stone. The cloister, refectory and chapter-house date from the
 16th century. The second court of the abbey contains a remarkable

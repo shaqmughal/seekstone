@@ -9,7 +9,7 @@ contemporaries for his fondness for playing upon words (Schol. on
 Aristophanes, _Wasps_, 481).
 
   Titles and fragments of six plays are preserved, for which see T.
-  Kock, _Comicorum Atticorum Fragmenta_, i. (1880); or A. Meineke,
+  [[Kock]], _Comicorum Atticorum Fragmenta_, i. (1880); or A. Meineke,
   _Poetarum Comicorum Graecorum Fragmenta_ (1855).
 
 ## See also

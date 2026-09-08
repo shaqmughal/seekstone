@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Habeas_Cor
 
 # Habeas Corpus
 
-HABEAS CORPUS, in English law, a writ issued out of the High Court of
+HABEAS CORPUS, in [[English Law|English law]], a writ issued out of the High Court of
 Justice commanding the person to whom it is directed to bring the body
 of a person in his custody before that or some other court for a
 specified purpose.
@@ -16,7 +16,7 @@ There are various forms of the writ, of which the most famous is that
 known as _habeas corpus ad subjiciendum_, the well-established remedy
 for violation of personal liberty. From the earliest records of the
 English law no free man could be detained in custody except on a
-criminal charge or conviction or for a civil debt. That right is
+criminal charge or conviction or for a civil [[Debt|debt]]. That right is
 expressed in the Great Charter in the words: "_Nullus liber homo
 capiatur vel imprisonetur aut dissaisietur aut utlagetur, aut exuletur
 aut aliquo modo destruatur nec super eum ibimus nec super eum mittemus,
@@ -43,7 +43,7 @@ vexatious appeals of felony, and the writ of mainprise (_de
 manucaptione_), long obsolete if not abolished in England but which it
 was attempted to use in India so late as 1870. In the ease of
 imprisonment on accusation of crime the writ issued from the court of
-king's bench (or from the chancery), and on its return the court judged
+king's [[Bench|bench]] (or from the chancery), and on its return the court judged
 of the legality of the imprisonment, and discharged the prisoner or
 admitted him to bail or remanded him to his former custody according to
 the result of the examination.
@@ -57,7 +57,7 @@ In Darnel's case (1627) the judges held that the command of the king was
 a sufficient answer to a writ of _habeas corpus_. The House of Commons
 thereupon passed resolutions to the contrary, and after a conference
 with the House of Lords the measure known as the Petition of Right was
-passed (1627, 3 Car. I. c. i.) which, inter alia, recited (s. 5) that,
+passed (1627, 3 [[Car]]. I. c. i.) which, inter alia, recited (s. 5) that,
 contrary to the Great Charter and the good laws and statutes of the
 realm, divers of the king's subjects had of late been imprisoned without
 any cause shown, and when they were brought up on _habeas corpus ad
@@ -70,15 +70,15 @@ to a _habeas corpus_ that Selden and others were committed by the king's
 special command "for notable contempts against the king and his
 government and for stirring up sedition against him."[2] This led to
 legislation in 1640 by which, after abolishing the Star Chamber, the
-right to a _habeas corpus_ was given to test the legality of commitments
+right to a _habeas corpus_ was given to test the legality of [[Commitment|commitments]]
 by command or warrant of the king or the privy council.[3]
 
 The reign of Charles II. was marked by further progress towards securing
-the freedom of the subject from wrongful imprisonment. Lord Clarendon
+the freedom of the subject from wrongful imprisonment. Lord [[Clarendon]]
 was impeached, _inter alia_, for causing many persons to be imprisoned
 against law and to be conveyed in custody to places outside England. In
 1668 a writ of _habeas corpus_ was issued to test the legality of an
-imprisonment in Jersey. Though the authority of the courts had been
+imprisonment in [[Jersey]]. Though the authority of the courts had been
 strengthened by the Petition of Right and the act of 1640, it was still
 rendered insufficient by reason of the insecurity of judicial tenure,
 the fact that only the chancellor (a political as well as a legal
@@ -89,7 +89,7 @@ half the year. A series of bills was passed through the Commons between
 1668 and 1675, only to be rejected by the other House. In Jenkes's case
 (1676) Lord Chancellor Nottingham refused to issue the writ in vacation
 in a case in which a man had been committed by the king in council for a
-speech at Guildhall, and could get neither bail nor trial. In 1679, but
+speech at [[Guildhall]], and could get neither bail nor trial. In 1679, but
 rather in consequence of Lord Clarendon's arbitrary proceedings[4] than
 of Jenkes's case, a fresh bill was introduced which passed both Houses
 (it is said the upper House by the counting of one stout peer as ten)
@@ -114,7 +114,7 @@ for criminal or supposed criminal matters, it enacts in substance as
 follows: (1) When a writ of _habeas corpus_ is directed to a sheriff or
 other person in charge of a prisoner, he must within 3, 10 or 20 days,
 according to the distance of the place of commitment, bring the body of
-his prisoner to the court, with the true cause of his detainer or
+his prisoner to the court, with the true cause of his [[Detainer|detainer]] or
 imprisonment--unless the commitment was for treason or felony plainly
 expressed in the warrant of commitment. (2) If any person be committed
 for any crime--unless for treason or felony plainly expressed in the
@@ -122,13 +122,13 @@ warrant--it shall be lawful for such person or persons (other than
 persons convicted or in execution by legal process) _in time of
 vacation_, to appeal to the lord chancellor as a judge, who shall issue
 a _habeas corpus_ returnable immediately, and on the return thereof
-shall discharge the prisoner on giving security for his appearance
+shall [[Discharge|discharge]] the prisoner on giving security for his appearance
 before the proper court--unless the party so committed is detained upon
 a legal process or under a justice's warrant for a non-bailable offence.
 Persons neglecting for two terms to pray for a _habeas corpus_ shall
 have none in vacation. (3) Persons set at large on _habeas corpus_ shall
 not be recommitted for the same offence unless by the legal order and
-process of the court having cognizance of the case. (4) A person
+process of the court having [[Cognizance|cognizance]] of the case. (4) A person
 committed to prison for treason or felony shall, if he requires it, in
 the first week of the next term or the first day of the next session of
 oyer and terminer, be indicted in that term or session or else admitted
@@ -141,11 +141,11 @@ transported) shall be sent prisoner to Scotland, Ireland, Jersey, &c.,
 or any place beyond the seas. Stringent penalties are provided for
 offences against the act. A judge delaying _habeas corpus_ forfeits L500
 to the party aggrieved. Illegal imprisonment beyond seas renders the
-offender liable in an action by the injured party to treble costs and
+offender liable in an action by the injured party to treble [[Costs|costs]] and
 damages to the extent of not less than L500, besides subjecting him to
 the penalties of _praemunire_ and to other disabilities. "The great rank
 of those who were likely to offend against this part of the statute
-was," says Hallam, "the cause of this unusual severity." Indeed as early
+was," says [[Hallam]], "the cause of this unusual severity." Indeed as early
 as 1591 the judges had complained of the difficulty of enforcing the
 writ in the case of imprisonment at the instance of magnates of the
 realm. The effect of the act was to impose upon the judges under severe
@@ -165,7 +165,7 @@ It is to be observed that neither at common law nor under the act of
 1679 was the writ the appropriate remedy in the case of a person
 convicted either on indictment or summarily. It properly applied to
 persons detained before or without trial or sentence; and for convicted
-persons the proper remedy was by writs of error or _certiorari_ to
+persons the proper remedy was by writs of [[Error|error]] or _certiorari_ to
 which a writ of _habeas corpus_ might be used as ancillary.
 
 As regards persons imprisoned for debt or on civil process the writ was
@@ -182,7 +182,7 @@ if not all criminal cases was forbidden in 1553; but it was used in the
 Lord Grey for abducting his wife's sister (1682), and in the earl of
 Banbury's case to recover his wife (1704). The latest recorded instance
 of its use is Trebilcock's case (1736), in which a ward sought to free
-himself from the custody of his guardian.
+himself from the custody of his [[Guardian|guardian]].
 
 Since that date the _habeas corpus ad subjiciendum_ has been used in
 cases of illegal detention in private custody. In 1758 questions arose
@@ -211,7 +211,7 @@ debt or by civil process); (2) that though the return to the writ be
 good and sufficient in law, the judge shall examine into the truth of
 the facts set forth in such return, and if they appear doubtful the
 prisoner shall be bailed; (3) that the writ shall run to any port,
-harbour, road, creek or bay on the coast of England, although not within
+harbour, road, [[Creek|creek]] or bay on the coast of England, although not within
 the body of any county. The last clause was intended to meet doubts on
 the applicability of _habeas corpus_ in cases of illegal detention on
 board ship, which had been raised owing to a case of detention on a
@@ -228,7 +228,7 @@ it was used to obtain the release of persons sentenced in Canada for
 participating in the rebellion of 1837, who were being conveyed
 throughout England in custody on their way to imprisonment in another
 part of the empire, and it is matter of frequent experience for the
-courts to review the legality of commitments under the Extradition Acts
+courts to review the legality of commitments under the [[Extradition]] Acts
 and the Fugitive Offenders Act 1881, of fugitives from the justice of a
 foreign state or parts of the king's dominions outside the British
 Islands.
@@ -237,10 +237,10 @@ In times of public danger it has occasionally been thought necessary to
 "suspend" the Habeas Corpus Act 1679 by special and temporary
 legislation. This was done in 1794 (by an act annually renewed until
 1801) and again in 1817, as to persons arrested and detained by his
-majesty for conspiring against his person and government. The same
+[[Majesty|majesty]] for conspiring against his person and government. The same
 course was adopted in Ireland in 1866 during a Fenian rising. It has
 been the practice to make such acts annual and to follow their
-expiration by an act of indemnity. In cases where martial law exists the
+expiration by an act of [[Indemnity|indemnity]]. In cases where [[Martial|martial]] law exists the
 use of the writ is _ex hypothesi_ suspended during conditions amounting
 to a state of war within the realm or the British possession affected
 (e.g. the Cape Colony and Natal during the South African War), and it
@@ -256,7 +256,7 @@ particular remedy for the protection of personal freedom."
   bring up a prisoner confined by the process of an inferior court in
   order to charge him in another proceeding (civil or criminal) in the
   superior court or some other court. As regards civil proceedings, this
-  form of the writ is now rarely used, owing to the abolition of arrest
+  form of the writ is now rarely used, owing to the abolition of [[Arrest|arrest]]
   on mesne process and the restriction of imprisonment for debt, or in
   execution of a civil judgment. The right to issue the writ depends on
   the common law, supplemented by an act of 1802. It is occasionally
@@ -269,7 +269,7 @@ particular remedy for the protection of personal freedom."
   Law Amendment Act 30 & 31 Vict. c. 35, s. 10.)
 
   Other forms are _ad satisfaciendum_; _ad faciendum et recipiendum_, to
-  remove into a superior court proceedings under which the defendant is
+  remove into a superior court proceedings under which the [[Defendant|defendant]] is
   in custody: _ad testificandum_, where a prisoner is required as a
   witness, issued under an act of 1804 (s. 11), which is in practice
   replaced by orders under s. 11 of the Prison Act 1898 (_supra_) or the
@@ -297,10 +297,10 @@ particular remedy for the protection of personal freedom."
   enacted that during the currency of the proclamation no judge or
   justices shall bail or try any person charged with being concerned in
   the rebellion or invasion without an order from the lord lieutenant or
-  lord deputy and senior of the privy council. In Ireland by an act of
+  lord [[Deputy|deputy]] and senior of the privy council. In Ireland by an act of
   1881 the Irish executive was given an absolute power of arbitrary and
   preventive arrest on suspicion of treason or of an act tending to
-  interfere with the maintenance of law and order: but the warrant of
+  interfere with the [[Maintenance|maintenance]] of law and order: but the warrant of
   arrest was made conclusive. This act continued by annual renewals
   until 1906, when it expired.
 
@@ -318,7 +318,7 @@ particular remedy for the protection of personal freedom."
   exchequer (now the revenue side of the king's bench division).
 
   _British Possessions._--The act of 1679 expressly applies to Wales,
-  Berwick-on-Tweed, Jersey and Guernsey, and the act of 1816 also
+  Berwick-on-Tweed, Jersey and [[Guernsey]], and the act of 1816 also
   extends to the Isle of Man. The court of king's bench has also issued
   the writ to the king's foreign dominions beyond seas, e.g. to St
   Helena, and so late as 1861 to Canada (Anderson's case 1861, 30
@@ -341,7 +341,7 @@ particular remedy for the protection of personal freedom."
   reference to an extradition case, the other with respect to the right
   to expel aliens.
 
-  Under the Roman-Dutch law as applied in British Guiana the writ was
+  Under the Roman-Dutch law as applied in British [[Guiana]] the writ was
   unknown and no similar process existed (2nd report of West Indian law
   commissioners). But by the Supreme Court Ordinance of 1893 that court
   possesses (_inter alia_) all the authorities, powers and functions
@@ -351,13 +351,13 @@ particular remedy for the protection of personal freedom."
   persons appear to have a right to release under a writ _de libero
   homine exhibendo_, which closely resembles the writ of _habeas
   corpus_, and the procedure described as "manifestation" used in the
-  kingdom of Aragon (Hallam, _Middle Ages_, vol. ii., c. iv.). The writ
+  kingdom of [[Aragon]] (Hallam, _Middle Ages_, vol. ii., c. iv.). The writ
   of _habeas corpus_ has not been formally adopted or the Habeas Corpus
   Acts formally extended to South Africa; but in the Cape Colony, under
   the charter of justice and colonial legislation, the supreme court on
   petition grants a remedy equivalent to that obtained in England by
   writ of _habeas corpus_; and the remedy is sometimes so described
-  (_Koke_ v. _Balie_, 1879, 9 Buchanan, 45, 64, arising out of a rising
+  (_Koke_ v. _Balie_, 1879, 9 [[Buchanan]], 45, 64, arising out of a rising
   in Griqualand). During and after the South African War of 1899-1902
   many attempts were made by this procedure to challenge or review the
   sentences of courts martial; see _re Fourie_ (1900). 18 _Cape Rep._ 8.
@@ -365,20 +365,20 @@ particular remedy for the protection of personal freedom."
   The laws of Ceylon being derived from the Roman-Dutch law, the writ of
   _habeas corpus_ is not indigenous: but, under s. 49 of the Supreme
   Court Ordinance 1889, the court or a judge has power to grant and
-  issue "mandates in the nature of writs of _habeas corpus_." The
+  issue "[[Mandate|mandates]] in the nature of writs of _habeas corpus_." The
   chartered high courts in India have power to issue and enforce the
   writ of _habeas corpus_. The earliest record of its use was in 1775,
-  when it was directed to Warren Hastings. It has been used to test the
+  when it was directed to Warren [[Hastings]]. It has been used to test the
   question whether Roman Catholic religious orders could enter India,
   and in 1870 an attempt was made thereby to challenge the validity of a
   warrant in the nature of a _lettre de cachet_ issued by the viceroy
-  (Ind. L. Rep. 6 Bengal, 392, 456, 498), and it has also been applied
+  (Ind. L. Rep. 6 [[Bengal]], 392, 456, 498), and it has also been applied
   to settle controversies between Hindus and missionaries as to the
   custody of a young convert (_R._ v. _Vaughan_, 1870, 5 Bengal, 418),
   and between a Mahommedan husband and his mother-in-law as to the
   custody of a girl-wife (_Khatija Bibi_, 1870, 5 Bengal, 557).
 
-_United States._--Before the Declaration of Independence some of the
+_United States._--Before the [[Declaration]] of Independence some of the
 North American colonies had adopted the act of 1679; and the federal and
 the other state legislatures of the United States have founded their
 procedure on that act. The common law as to the writ of _habeas corpus_
@@ -394,7 +394,7 @@ opinion seems to lean to the latter alternative. Again, conflicts have
 arisen between the courts of individual states and the courts of the
 union. It seems that a state court has no right to issue a _habeas
 corpus_ for the discharge of a person held under the authority of the
-federal government. On the other hand, the courts of the union issue the
+[[Federal Government|federal government]]. On the other hand, the courts of the union issue the
 writ only in those cases in which the power is expressly conferred on
 them by the constitution.
 

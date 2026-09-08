@@ -9,13 +9,13 @@ type: note
 
 BOVEY BEDS, in geology, a deposit of sands, clays and lignite, 200-300
 ft. thick, which lies in a basin extending from Bovey Tracey to Newton
-Abbot in Devonshire, England. The deposit is evidently the result of the
+Abbot in [[Devonshire]], England. The deposit is evidently the result of the
 degradation of the neighbouring Dartmoor granite; and it was no doubt
-laid down in a lake. O. Heer, who examined the numerous plant remains
+laid down in a lake. O. [[Heer]], who examined the numerous plant remains
 from these beds, concluded that they belonged to the same geological
-horizon as the Molasse or Oligocene of Switzerland. Starkie Gardiner,
+[[Horizon|horizon]] as the Molasse or Oligocene of Switzerland. Starkie Gardiner,
 however, who subsequently examined the flora, showed that it bore a
-close resemblance to that of the Bournemouth Beds or Lower Bagshot; in
+close resemblance to that of the [[Bournemouth]] Beds or Lower Bagshot; in
 this view he is supported by C. Reid. Large excavations have been made
 for the extraction of the clays, which are very valuable for pottery
 and similar purposes. The lignite or "Bovey Coal" has at times been

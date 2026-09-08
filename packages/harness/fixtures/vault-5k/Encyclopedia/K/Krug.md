@@ -5,7 +5,7 @@ born at Radis in Prussia on the 22nd of June 1770, and died at Leipzig
 on the 12th of January 1842. He studied at Wittenberg under Reinhard and
 Jehnichen, at Jena under Reinhold, and at Göttingen. From 1801 to 1804
 he was professor of philosophy at Frankfort-on-the-Oder, after which he
-succeeded Kant in the chair of logic and metaphysics at the university
+succeeded [[Kant]] in the chair of logic and metaphysics at the university
 of Königsberg. From 1809 till his death he was professor of philosophy
 at Leipzig. He was a prolific writer on a great variety of subjects, in
 all of which he excelled as a popularizer rather than as an original

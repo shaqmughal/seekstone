@@ -23,7 +23,7 @@ east. The counter-suggestion of Eusebius and Jerome that the Ebal and
 Gerizim associated with this solemnity were not the Shechem mountains at
 all, but two small hills near Jericho, is no longer considered
 important. From this mountain Jotham spoke his parable to the elders of
-Shechem (Judg. ix. 7). Manasseh, the son of the Jewish high-priest in
+Shechem (Judg. ix. 7). [[Manasseh]], the son of the Jewish high-priest in
 the days of Nehemiah, married the daughter of Sanballat and, about 432
 B.C., erected on this mountain a temple for the Samaritans; it was
 destroyed by Hyrcanus about 300 years afterwards. Its site is a small
@@ -55,7 +55,7 @@ government, he became president of congress, and brought forward the
 motion inviting Leopold of Saxe-Coburg to become king of the Belgians.
 In 1832 he was president of the chamber of representatives, and for
 thirty-five years he presided over the court of appeal. He presided over
-the Catholic congresses held at Malines between 1863 and 1867. That his
+the Catholic congresses held at [[Malines]] between 1863 and 1867. That his
 early Liberal views underwent some modification is plain from the
 Conservative principles enunciated in his _Essai sur le mouvement des
 partis en Belgique_ (Brussels, 1852). As an historian his work was

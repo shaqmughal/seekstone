@@ -23,10 +23,10 @@ churches with the object of obtaining help from the West against the
 Turks. The Greeks had bitterly resented his attachment to the party
 which saw no difficulty in a reconciliation of the two churches. At the
 councils held in Ferrara and Florence Bessarion supported the Roman
-church, and gained the favour of Pope Eugenius IV., who invested him
+church, and gained the favour of Pope [[Eugenius]] IV., who invested him
 with the rank of cardinal. From that time he resided permanently in
 Italy, doing much, by his patronage of learned men, by his collection of
-books and manuscripts, and by his own writings, to spread abroad the new
+books and [[Manuscript|manuscripts]], and by his own writings, to spread abroad the new
 learning. He held in succession the archbishopric of Siponto and the
 bishoprics of Sabina and Frascati. In 1463 he received the title of
 Latin patriarch of Constantinople; and it was only on account of his

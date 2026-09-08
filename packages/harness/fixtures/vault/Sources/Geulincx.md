@@ -1,6 +1,6 @@
 # Geulincx
 
-GEULINCX, ARNOLD (1624-1669), Belgian philosopher, was born at Antwerp
+GEULINCX, [[Arnold|ARNOLD]] (1624-1669), Belgian philosopher, was born at [[Antwerp]]
 on the 31st of January 1624. He studied philosophy and medicine at the
 university of Louvain, where he remained as a lecturer for several
 years. Having given offence by his unorthodox views, he left Louvain,
@@ -52,7 +52,7 @@ element or thought and the particular desires or inclinations. All these
 are regarded by Geulincx as modes of the divine thought and action, and
 accordingly the end of human endeavour is the end of the divine will or
 the realization of reason. The love of right reason is the supreme
-virtue, whence flow the cardinal virtues, diligence, obedience, justice
+virtue, whence flow the cardinal virtues, [[Diligence|diligence]], obedience, justice
 and humility. Since it is impossible for us to make any alteration in
 the world of matter, all we can do is to submit. Chief of the cardinal
 virtues is humility, a confession of our own helplessness and submission
@@ -69,13 +69,13 @@ precursor of Malebranche and Spinoza.
   which a recently discovered MS. was consulted); see also the same
   editor's _Arnold Geulincx und seine Philosophie_ (1895), and article
   (translated) in _Mind_, xvi. 223 seq.; V. van der Haeghen, _Geulincx.
-  Etude sur sa vie, sa philosophie, et ses ouvrages_ (Ghent, 1886); E.
+  Etude sur sa vie, sa philosophie, et ses ouvrages_ ([[Ghent]], 1886); E.
   Grimm, _A. Geulincx' Erkenntnisstheorie und Occasionalismus_ (1875);
   E. Pfleiderer, _A. G. als Hauptvertreter der okkasionalistischen
   Metaphysik und Ethik_ (1882); G. Samtleben, _Geulincx, ein Vorganger
   Spinozas_ (1885); also Falckenberg, _Hist. of Mod. Philos._ (Eng.
   trans., 1895), ch. iii.; G. Monchamp, _Hist. du Cartesianisme en
-  Belgique_ (Brussels, 1886); H. Hoffding, _Hist. of Mod. Philos._ (Eng.
+  Belgique_ (Brussels, 1886); H. [[Hoffding]], _Hist. of Mod. Philos._ (Eng.
   trans., 1900), i. 245.
 
 ## See also

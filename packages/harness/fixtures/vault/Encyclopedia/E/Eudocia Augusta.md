@@ -1,7 +1,7 @@
 # Eudocia Augusta
 
 EUDOCIA AUGUSTA (c. 401-c. 460), the wife of Theodosius II., East Roman
-emperor, was born in Athens, the daughter of the sophist Leontius, from
+emperor, was born in Athens, the daughter of the sophist [[Leontius]], from
 whom she received a thorough training in literature and rhetoric.
 Deprived of her small patrimony by her brothers' rapacity, she betook
 herself to Constantinople to obtain redress at court. Her
@@ -16,7 +16,7 @@ and used her large influence at court to protect pagans and Jews. In
 brought back several precious relics; during her stay at Antioch she
 harangued the senate in Hellenic style and distributed funds for the
 repair of its buildings. On her return her position was undermined by
-the jealousy of Pulcheria and the groundless suspicion of an intrigue
+the [[Jealousy|jealousy]] of Pulcheria and the groundless suspicion of an intrigue
 with her protégé Paulinus, the master of the offices. After the latter's
 execution (440) she retired to Jerusalem, where she was made responsible
 for the murder of an officer sent to kill two of her followers and
@@ -25,7 +25,7 @@ although involved in the revolt of the Syrian monophysites (453), she
 was ultimately reconciled to Pulcheria and readmitted into the orthodox
 church. She died at Jerusalem about 460, after devoting her last years
 to literature. Among her works were a paraphrase of the Octateuch in
-hexameters, a paraphrase of the books of Daniel and Zechariah, a poem on
+hexameters, a paraphrase of the books of [[Daniel]] and Zechariah, a poem on
 St Cyprian and on her husband's Persian victories. A _Passion History_
 compiled out of Homeric verses, which Zonaras attributed to Eudocia, is
 perhaps of different authorship.

@@ -13,15 +13,15 @@ director of the Geological Survey of France. He was distinguished for
 his researches on eruptive rocks, their microscopic structure and
 origin; and he early employed the polarizing microscope for the
 determination of minerals. In his many contributions to scientific
-journals he described the granulite group, and dealt with pegmatites,
+journals he described the [[Granulite|granulite]] group, and dealt with pegmatites,
 variolites, eurites, the ophites of the Pyrenees, the extinct volcanoes
-of Central France, gneisses, and the origin of crystalline schists. He
-wrote _Structures et classification des roches éruptives_ (1889), but
+of Central France, [[Gneiss|gneisses]], and the origin of crystalline schists. He
+wrote _Structures et [[Classification|classification]] des roches éruptives_ (1889), but
 his more elaborate studies were carried on with F. Fouqué. Together they
 wrote on the artificial production of felspar, nepheline and other
 minerals, and also of meteorites, and produced _Minéralogie
 micrographique_ (1879) and _Synthèse des minéraux et des roches_ (1882).
-Levy also collaborated with A. Lacroix in _Les Minéraux des roches_
+Levy also collaborated with A. [[Lacroix]] in _Les Minéraux des roches_
 (1888) and _Tableau des minéraux des roches_ (1889).
 
 ## See also

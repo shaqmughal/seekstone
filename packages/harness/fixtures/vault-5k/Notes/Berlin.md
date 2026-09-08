@@ -17,7 +17,7 @@ sea-level, on both banks of the navigable Spree, which intersects it
 from S.E. to N.W. The highest elevation in the immediate neighbourhood
 is the Kreuzberg (200 ft.), a hill in the southern suburb of Schoneberg,
 which commands a fine view of the city. The situation of Berlin, midway
-between the Elbe and the Oder, with which rivers it is connected by a
+between the [[Elbe]] and the Oder, with which rivers it is connected by a
 web of waterways, at the crossing of the main roads from Silesia and
 Poland to the North Sea ports and from Saxony, Bohemia and Thuringia to
 the Baltic, made it in medieval days a place of considerable commercial
@@ -56,22 +56,22 @@ end and the south-west are the residential quarters, the north-west is
 largely occupied by academic, scientific and military institutions, the
 north is the seat of machinery works, the north-east of the woollen
 manufactures, the east and south-east of the dyeing, furniture and metal
-industries, while in the south are great barracks and railway works.
+industries, while in the south are great [[Barracks|barracks]] and railway works.
 
-In 1870 Berlin was practically bounded on the south by the Landwehr
+In 1870 Berlin was practically bounded on the south by the [[Landwehr]]
 Canal, but it has since extended far beyond, and the Tempelhofer Feld,
 where military reviews are held, then practically in the country, is now
 surrounded by a dense belt of houses. The Landwehr Canal, leaving the
 Spree near the Schlesische Tor (gate), and rejoining it at
-Charlottenburg, after a course of 6 m., adds not a little to the charm
-of the southern and western districts, being flanked by fine boulevards
+Charlottenburg, after a course of 6 m., adds not a little to the [[Charm|charm]]
+of the southern and western districts, being flanked by fine [[Boulevard|boulevards]]
 and crossed by many handsome bridges. The object of this canal was to
 relieve the congestion of the water traffic in the heart of Berlin. It
 was superseded, however, in its turn by a new broad and deep canal
 opened in 1906, lying from 3 to 4 m. farther south. This, the Teltow
 Canal, leaves the Spree above Berlin at Kopenick, and running south of
 Rixdorf, Sudende and Gross-Lichterfelde, enters the Havel at Teltow.
-This important engineering work was planned not only to afford a more
+This important [[Engineering|engineering]] work was planned not only to afford a more
 convenient waterway between the upper Spree and the Havel (and thus to
 the Elbe), but was to remove from the city to its banks and vicinity
 those factories of which the noxious gases and other poisonous
@@ -89,7 +89,7 @@ Berliners to put forth all their energy. Besides the military, a
 tremendous immigration of civilian officials took place as the result of
 the new conditions, and, as accommodation was not readily available,
 rents rose to an enormous figure. Doubts were often expressed whether
-the capital would be able to bear the burden of empire, so enormous was
+the capital would be able to bear the [[Burden|burden]] of empire, so enormous was
 the influx of new citizens. It is due to the magnificent services of the
 municipal council that the city was enabled to assimilate the hosts of
 newcomers, and it is to its indefatigable exertions that Berlin has in
@@ -204,9 +204,9 @@ glass. Berlin was a walled city until 1867-1868. Of the former nineteen
 city gates only one remains, the Brandenburg Gate (1789-1793), an
 imitation of the Propylaea at Athens. It is 201 ft. broad and nearly 65
 ft. high, and is supported by twelve Doric columns, each 44 ft. in
-height, and surmounted by a car of victory (Auriga), which, taken by
+height, and surmounted by a car of victory ([[Auriga]]), which, taken by
 Napoleon to Paris in 1807, was brought back by the Prussians in 1814. The
-gate has been enlarged by two lateral colonnades, each supported by
+gate has been enlarged by two lateral [[Colonnade|colonnades]], each supported by
 sixteen columns.
 
 _Public Buildings._--In secular buildings Berlin is very rich. Entering
@@ -219,7 +219,7 @@ ministry of commerce, the ministry of war, the ministry of public works,
 the palace of Prince Frederick Leopold, the palace of the imperial
 chancellor, the foreign office, the ministry of justice, the residences
 of the ministers of the interior and of public worship, the French and
-the Russian embassies, the arcade, the palace of the emperor William I.,
+the Russian embassies, the [[Arcade|arcade]], the palace of the emperor William I.,
 the university, the royal library, the opera, the armoury, the palace of
 the emperor Frederick III., the Schloss-brucke, the royal palace, the
 old and new museums and the national gallery. At a short distance from
@@ -233,8 +233,8 @@ more than 600 rooms and halls; among the latter the Weisse-saal used for
 great court pageants, the halls of the chapters of the Black and the Red
 Eagle orders, a picture gallery and a chapel. The first floor
 overlooking the Schloss-platz is the Berlin residence of the emperor,
-and that square is embellished by a huge fountain (Neptuns-brunnen) by
-R. Begas. Facing the west portal is the monument to the emperor William
+and that square is embellished by a huge [[Fountain|fountain]] (Neptuns-brunnen) by
+R. [[Begas]]. Facing the west portal is the monument to the emperor William
 I., and before the north gate, opening upon the Lustgarten, are the
 famous bronze groups, the "horse-tamers" by Clodt, the gift of the
 emperor Nicholas I. of Russia. The establishment of the imperial
@@ -277,14 +277,14 @@ sculptured in marble by Rauch. Here also lie the emperor William I. and
 the empress Augusta under marble effigies by Encke. A second group of
 monuments on the Wilhelms-platz commemorates the generals of the Seven
 Years' War; and a third in the neighbourhood of the opera-house the
-generals who fought against Napoleon I. On the Kreuzberg a Gothic
+generals who fought against Napoleon I. On the Kreuzberg a [[Gothic]]
 monument in bronze was erected by Frederick William III. to commemorate
 the victories of 1813-1815; and in the centre of the Konigs-platz stands
 a lofty column in honour of the triumphs of 1864, 1866 and 1870-1871,
 surmounted by a gilded figure of Victory. Literature, science and art
 are represented in different parts of the city by statues and busts of
 Rauch, Schinkel, Thaer, Beuth, Schadow, Winckelmann, Schiller, Hegel and
-Jahn. On the Konigs-platz between the column of Victory and the
+[[Jahn]]. On the Konigs-platz between the column of Victory and the
 Reichstagsgebaude, and immediately facing the western facade of the
 latter, is the bronze statue of Bismarck, unveiled in 1901, a figure 20
 ft. in height standing on a granite base. From the south side of the
@@ -293,7 +293,7 @@ the Brandenburg Gate to Charlottenburg runs the broad Sieges-allee
 adorned by thirty-two groups of marble statuary representing famous
 rulers of the house of Hohenzollern, the gift of the emperor William II.
 to the city. The Tiergarten, the beautiful west-end park with its
-thickets of dense undergrowth and winding lanes and lakes has lost
+thickets of dense undergrowth and winding [[Lane|lanes]] and lakes has lost
 somewhat of its sylvan character owing to building encroachments on the
 north side and the laying out of new rides and drives. It has, in
 addition to those above enumerated, statues of Queen Louisa, Goethe and
@@ -330,17 +330,17 @@ prosperity. More than 50% of its working population are engaged in
 industry, which embraces almost all branches, of which new ones have
 lately sprung into existence, whilst most of the older have taken a new
 lease of life. The old wool industry, for example, has become much
-extended, and now embraces products such as shawls, carpets, hosiery,
+extended, and now embraces products such as shawls, carpets, [[Hosiery|hosiery]],
 &c. Its silk manufactures, formerly so important, have, however,
 gradually gone back. It is particularly in the working of iron, steel
 and cloth, and in the by-products of these, that Berlin excels. The
 manufacture of machinery and steam-engines shows an enormous
 development. No fewer than 100 large firms, many of them of world-wide
 reputation, are engaged in this branch alone. Among the chief articles
-of manufacture and production are railway plant, sewing machines,
+of manufacture and production are railway plant, sewing [[Machine|machines]],
 bicycles, steel pens, chronometers, electric and electric-telegraph
-plant, bronze, chemicals, soap, lamps, linoleum, china, pianofortes,
-furniture, gloves, buttons, artificial flowers and ladies' mantles, the
+plant, bronze, chemicals, soap, [[Lamp|lamps]], linoleum, china, pianofortes,
+furniture, [[Glove|gloves]], buttons, artificial flowers and ladies' mantles, the
 last of an annual value exceeding L5,000,000. It has extensive breweries
 and vies in the amount of the output of this production with Munich.
 Berlin is also the great centre and the chief market for speculation in
@@ -352,17 +352,17 @@ this regard.
 The Borse, where 4000 persons daily do business, is the chief market in
 Germany for stocks and shares, and its dealings are of great influence
 upon the gold market of the world. Numerous banks of world-wide
-reputation, doing an extensive international business, have their seats
+reputation, doing an extensive [[International|international]] business, have their seats
 in Berlin, chief among them, in addition to the Reichs-bank, being the
 Berliner Kassen-Verein, the Diskonto-Gesellschaft, the Deutsche Bank,
 and the Boden-Kredit Bank.
 
 _Learning and Art._--Berlin is becoming the centre of the intellectual
-life of the nation. The Friedrich Wilhelm University, although young in
+life of the nation. The [[Friedrich]] Wilhelm University, although young in
 point of foundation, has long outstripped its great rival Leipzig in
 numbers, and can point with pride to the fact that its teaching staff
 has yielded to none in the number of illustrious names. It was founded
-in 1810, when Prussia had lost her celebrated university of Halle, which
+in 1810, when Prussia had lost her celebrated university of [[Halle]], which
 Napoleon had included in his newly created kingdom of Westphalia. It was
 as a weapon of war, as well as a nursery of learning, that Frederick
 William III. and the great men who are associated with its origin,
@@ -370,12 +370,12 @@ called it into existence. Wilhelm von Humboldt was at that time at the
 head of the educational department of the kingdom, and men like Fichte
 and Schleiermacher worked on the popular mind. Within the first ten
 years of its existence it counted among its professors such names as
-Neander, Savigny, Eichhorn, Bockh, Bekker, Hegel, Raumer, Niebuhr and
+Neander, Savigny, [[Eichhorn]], Bockh, Bekker, Hegel, Raumer, Niebuhr and
 Buttmann. Later followed men like Hengstenberg, Homeyer,
 Bethmann-Hollweg, Puchta, Stahl and Heffter; Schelling, Trendelenburg,
 Bopp, the brothers Grimm, Zumpt, Carl Richter; later still, Twesten and
-Dorner, Gneist and Hinschius; Langenbeck, Bardeleben, Virchow, Du-Bois
-Reymond; von Ranke, Curtius, Lipsius, Hofmann the chemist, Kiepert the
+Dorner, Gneist and [[Hinschius]]; [[Langenbeck]], Bardeleben, Virchow, Du-Bois
+Reymond; von Ranke, Curtius, Lipsius, [[Hofmann]] the chemist, [[Kiepert]] the
 geographer; Helmholtz, van't Hoff, Koch, E. Fischer, Waldeyer and von
 Bergmann among scientists and surgeons; Mommsen, Treitschke and Sybel
 among historians, Harnack among theologians, Brunner among jurists.
@@ -387,7 +387,7 @@ philosophy--altogether 457. The number of matriculated students during
 the same period was 7154, as against 5488 in the preceding summer term.
 The number of matriculated students is usually greater in winter than in
 summer; the reason of the disproportion being that in the summer
-university towns having pleasant surroundings, such as Bonn, Heidelberg,
+university towns having pleasant surroundings, such as [[Bonn]], Heidelberg,
 Kiel and Jena, are more frequented. Berlin is essentially a Prussian
 university--of students from non-German states, Russia sends most, then
 the United States of America, while Great Britain is credited with
@@ -488,8 +488,8 @@ state, numerous private playhouses have been erected, notably the
 Lessing and the Deutsches theatres, and it is in these that the modern
 works by Wildenbruch, Sudermann, and Hauptmann have been produced, and
 it may be said that it is in Berlin that the modern school of German
-drama has its home. In music Berlin is not able to vie with Leipzig,
-Dresden or Munich, yet it is well represented by the Conservatorium,
+[[Drama|drama]] has its home. In music Berlin is not able to vie with Leipzig,
+[[Dresden]] or Munich, yet it is well represented by the Conservatorium,
 with which the name of Joachim is connected, while the more modern
 school is represented by Xaver Scharwenka.
 
@@ -566,7 +566,7 @@ a large staff of workmen is regularly employed in maintaining and
 cleaning the public roads and parks. The force is well controlled, and
 the work of cleaning and removing snow after a heavy fall is thoroughly
 and efficiently carried out. The less important thoroughfares are mostly
-paved with the so-called Vienna paving, granite bricks of medium size,
+paved with the so-called Vienna paving, granite [[Brick|bricks]] of medium size,
 while the principal streets, and especially those upon which the traffic
 is heavy, have either asphalt or wood paving.
 
@@ -578,7 +578,7 @@ with a pumping station, and the drainage is forced through five mains to
 eighteen sewage farms, each of which is under careful sanitary
 supervision, in respect both of the persons employed thereon, and the
 products, mainly milk, passing thence to the city for human consumption.
-Only in a few isolated cases has any contamination been traced to fever
+Only in a few isolated cases has any contamination been traced to [[Fever|fever]]
 or other zymotic germs. In this connexion it is worth noting that the
 infectious diseases hospital has a separate system of drainage which is
 carefully disinfected, and not allowed to be employed for the purposes
@@ -629,7 +629,7 @@ attending the market. The inspection is rigorously carried out, and only
 carcases which have been stamped as having been certified good are
 permitted to be taken away for human consumption.
 
-_History._--The etymology of the word "Berlin" is doubtful. Some derive
+_History._--The [[Etymology|etymology]] of the word "Berlin" is doubtful. Some derive
 it from Celtic roots--_ber_, small, short, and _lyn_, a lake; others
 regard it as a Wend word, meaning a free, open place; others, again,
 refer it to the word _werl_, a river island. Another authority derives
@@ -662,7 +662,7 @@ the walls. It was not, however, until the time of King Frederick William
 I. that the sovereigns ceased to date their official acts from Kolln. In
 1539, under the elector Joachim II., Berlin embraced the Lutheran
 religion. Henceforth the history of Berlin was intimately bound up with
-the house of Hohenzollern. The conversion of the elector John Sigismund
+the house of Hohenzollern. The [[Conversion|conversion]] of the elector John Sigismund
 in 1613 to the Reformed (Calvinist) faith was hotly resented by the
 Berliners and led to bloody riots in the city. The Thirty Years' War all
 but ruined the city, the population of which sank from some 14,000 in
@@ -701,18 +701,18 @@ WILLIAM IV., king of Prussia). The effect of the war of 1870-71 on the
 growth of Berlin has been sufficiently indicated already.
 
   AUTHORITIES.--For the history of Berlin see the publications of the
-  "Verein fur die Geschichte Berlins"; the _Berlinische Chronik nebst
+  "Verein [[Fur|fur]] die Geschichte Berlins"; the _Berlinische Chronik nebst
   Urkundenbuch_, and the periodicals _Der Bar_ (1875, &c.) and
   _Mitteilungen_ (1884, &c.). Of histories may be mentioned A.
   Streckfuss, _500 Jahre Berliner Geschichte_ (new ed. by Fernbach,
   1900); _Berlin im 19ten Jahrhundert_ (4 vols., 1867-1869), and
   _Statistisches Jahrbuch der Stadt Berlin_ (1904-1905); Fidiein,
   _Historisch-diplomatische Beitrage zur Geschichte der Stadt Berlin_ (5
-  vols., 1837-1842); Brockhaus, _Konversations-Lexikon_ (1904); Meyer,
+  vols., 1837-1842); [[Brockhaus]], _Konversations-Lexikon_ (1904); Meyer,
   _Konversations-Lexikon_ (1904); Baedeker, _Fuhrer durch Berlin_;
   Woeri, _Fuhrer durch Berlin_; J. Pollard, _The Corporation of Berlin_
   (Edinburgh, 1893); A. Shaclwell, _Industrial Efficiency_ (London,
-  1906); _Berliner Jahrbuch fur Handel und Industrie_ (1905); and O.
+  1906); _Berliner Jahrbuch fur [[Handel]] und Industrie_ (1905); and O.
   Schwebel, _Geschichte der Stadt Berlin_ (Berlin, 1888).     (P. A. A.)
 
 ## References

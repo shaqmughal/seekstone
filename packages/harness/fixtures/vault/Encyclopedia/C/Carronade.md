@@ -8,16 +8,16 @@ topic: fortification-studies
 
 CARRONADE, a piece of ordnance invented, by the application of an old
 principle of gun construction, to serve as a ship's gun. The inventor
-was the antiquary General Robert Melville (1728-1809). He designed the
+was the [[Antiquary|antiquary]] General Robert Melville (1728-1809). He designed the
 piece in 1759, and called it the "smasher," but it was not adopted in
 the British navy till 1779, and was then known as the "carronade," from
 the Carron works on the Carron river in Stirlingshire, Scotland, where
-it was first cast by Mr Gascoigne. The carronade had a powder chamber
+it was first cast by Mr [[Gascoigne]]. The carronade had a powder chamber
 like many of the earliest guns known, and was similar to a mortar. It
 was short, light, had a limited range, but was destructive at close
 quarters. Carronades were added to the existing armaments of guns proper
-or long guns. A 38-gun frigate carried ten carronades, and was therefore
-armed with 48 pieces of ordnance. As the official classifications were
+or long guns. A 38-gun [[Frigate|frigate]] carried ten carronades, and was therefore
+armed with 48 pieces of ordnance. As the official [[Classification|classifications]] were
 not changed, they were misleading guides to the real strength of British
 ships, which always carried more pieces than they were described as
 carrying. The same remark applies to French and American ships when the
@@ -27,7 +27,7 @@ use of the carronade extended from the British to other navies.
 
 
 CARROT. Wild carrot, _Daucus carota_, a member of the natural order
-Umbelliferae, grows wild in fields and on roadsides and sea-shores in
+Umbelliferae, grows wild in [[Fields|fields]] and on roadsides and sea-shores in
 Britain and the north temperate zone generally of the Old World. It is
 an annual and resembles the cultivated carrot, except in the root, which
 is thin and woody. It is the origin of the cultivated carrot, which can
@@ -53,7 +53,7 @@ forming a nest-like structure. The flowers are small, the outer white,
 the central ones often pink or purplish. The fruit consists of two
 one-seeded portions, each portion bearing four rows of stiff spinous
 projections, which cause the fruits when dropped to cling together, and
-in a natural condition help to spread the seed by clinging to the fur of
+in a natural condition help to spread the seed by clinging to the [[Fur|fur]] of
 animals. On account of these projections the seeds cannot be sown evenly
 without previous rubbing with sand or dry ashes to separate them. As
 usual in the members of the order Umbelliferae, the wall of the fruit is
@@ -66,7 +66,7 @@ pale green above, where it projects above ground. For nutritive purposes
 it is inferior to the red varieties. The carrot delights in a deep sandy
 soil, which should be well drained and deeply trenched. The ground
 should be prepared and manured in autumn or winter. For the long-rooted
-sorts the soil should be at least 3 ft. deep, but the Short Horn
+sorts the soil should be at least 3 ft. deep, but the Short [[Horn]]
 varieties may be grown in about 6 in. of good compost laid on the top of
 a less suitable soil. Peat earth may be usefully employed in lightening
 the soil. Good carrots of the larger sorts may be grown in unfavourable

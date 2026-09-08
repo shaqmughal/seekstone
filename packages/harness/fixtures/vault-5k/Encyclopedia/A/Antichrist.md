@@ -8,19 +8,19 @@ topic: medicine-theory
 
 ANTICHRIST ([Greek: antichristos]). The earliest mention of the name
 Antichrist, which was probably first coined in Christian eschatological
-literature, is in the Epistles of St John (I. ii. 18, 22, iv. 3; II. 7),
+literature, is in the [[Epistle|Epistles]] of St John (I. ii. 18, 22, iv. 3; II. 7),
 and it has since come into universal use. The conception, paraphrased in
 this word, of a mighty ruler who will appear at the end of time, and
 whose essence will be enmity to God (Dan. xi. 36; cf. 2 Thess. ii. 4;
-[Greek: o antikeimenos]), is older, and traceable to Jewish eschatology.
-Its origin is to be sought in the first place in the prophecy of Daniel,
+[Greek: o antikeimenos]), is older, and traceable to Jewish [[Eschatology|eschatology]].
+Its origin is to be sought in the first place in the prophecy of [[Daniel]],
 written at the beginning of the Maccabean period. The historical figure
 who served as a model for the "Antichrist" was Antiochus IV. Epiphanes,
 the persecutor of the Jews, and he has impressed indelible traits upon
 the conception. Since then ever-recurring characteristics of this figure
 (cf. especially Dan xi. 40, &c.) are, that he would appear as a mighty
 ruler at the head of gigantic armies, that he would destroy three rulers
-(the three horns, Dan. vii. 8, 24), persecute the saints (vii. 25), rule
+(the three [[Horn|horns]], Dan. vii. 8, 24), persecute the saints (vii. 25), rule
 for three and a half years (vii. 25, &c.), and subject the temple of God
 to a horrible devastation ([Greek: bdelugma tes eremoseos]). When the
 end of the world foretold by Daniel did not take place, but the book of
@@ -32,9 +32,9 @@ phenomenon. Thus for the author of the _Psalms of Solomon_ (c. 60 B.C.),
 Pompey, who destroyed the independent rule of the Maccabees and stormed
 Jerusalem, was the Adversary of God (cf. ii. 26, &c.); so too the tyrant
 whom the _Ascension of Moses_ (c. A.D. 30) expects at the end of all
-things, possesses, besides the traits of Antiochus IV., those of Herod
+things, possesses, besides the traits of Antiochus IV., those of [[Herod]]
 the Great. A further influence on the development of the eschatological
-imagination of the Jews was exercised by such a figure as that of the
+[[Imagination|imagination]] of the Jews was exercised by such a figure as that of the
 emperor Caligula (A.D. 37-41), who is known to have given the order,
 never carried out, to erect his statue in the temple of Jerusalem. In
 the little Jewish Apocalypse, the existence of which is assumed by many
@@ -51,7 +51,7 @@ The roots of this eschatological fancy are to be sought perhaps still
 deeper in a purely mythological and speculative expectation of a battle
 at the end of days between God and the devil, which has no reference
 whatever to historical occurrences. This idea has its original source in
-the apocalypses of Iran, for these are based upon the conflict between
+the apocalypses of [[Iran]], for these are based upon the conflict between
 Ahura-Mazda (Auramazda, Ormazd) and Angro-Mainyush (Ahriman) and its
 consummation at the end of the world. This Iranian dualism is proved to
 have penetrated into the late Jewish eschatology from the beginning of
@@ -65,8 +65,8 @@ where the rivers of Belial are spoken of, originally a god of the
 underworld), a name which also plays a part in the Antichrist tradition.
 In the _Ascension of Moses_ we already hear, at the beginning of the
 description of the latter time (x. 1): "And then will God's rule be made
-manifest over all his creatures, then will the devil have an end" (cf.
-Matt. xii. 28; Luke xi. 20; John xii. 31, xiv. 30, xvi. 11).[1] This
+[[Manifest|manifest]] over all his creatures, then will the devil have an end" (cf.
+Matt. xii. 28; [[Luke]] xi. 20; John xii. 31, xiv. 30, xvi. 11).[1] This
 conception of the strife of God with the devil was further interwoven,
 before its introduction into the Antichrist myth, with another idea of
 different origin, namely, the myth derived from the Babylonian religion,
@@ -116,7 +116,7 @@ of sin" will obtain credence, more especially among the Jews, because
 they have not accepted the truth. The conception, moreover, has become
 almost more superhuman than ever (cf. ii. 4, "showing himself that he is
 God"). The destruction of the Adversary is drawn from Isaiah xi. 4,
-where it is said of the Messiah: "with the breath of his lips shall he
+where it is said of the Messiah: "with the breath of his [[Lip|lips]] shall he
 slay the wicked."[5] The idea that Antichrist was to establish himself
 in the temple of Jerusalem (ii. 4) is very enigmatical, and has not yet
 been explained. The "abomination of desolation" has naturally had its
@@ -225,7 +225,7 @@ had also originated in the Iranian eschatology. On the strength of
 exegetical combinations, and with the assistance of various traditions,
 it was developed even in its details, which it thenceforth maintained
 practically unchanged. In this form it is in great part present in the
-eschatological portions of the _Adv. Haereses_ of Irenaeus, and in the
+eschatological portions of the _Adv. Haereses_ of [[Irenaeus]], and in the
 _de Antichristo_ and commentary on Daniel of Hippolytus. In times of
 political excitement, during the following centuries, men appealed again
 and again to the prophecy of Antichrist. Then the foreground scenery of
@@ -236,7 +236,7 @@ that is bound up with no particular time. Thus at the beginning of the
 _Testamentum Domini_, edited by Rahmani, there is an apocalypse,
 possibly of the time of Decius, though it has been worked over (Harnack,
 _Chronol. der altchrist. Litt._ ii. 514 &c.) In the third century, the
-period of Aurelianus and Gallienus, with its wild warfare of Romans and
+period of [[Aurelianus]] and [[Gallienus]], with its wild warfare of Romans and
 Persians, and of Roman pretenders one with another, seems especially to
 have aroused the spirit of prophecy. To this period belongs the Jewish
 apocalypse of Elijah (ed. Buttenwieser), of which the Antichrist is
@@ -269,7 +269,7 @@ prophecy of the sleeping emperor of the future is very closely connected
 with the Antichrist tradition. There is extant a Daniel prophecy which,
 in the time of the Latin empire, foretells the restoration of the Greek
 rule.[11] In the East, too, Antichrist prophecies were extraordinarily
-flourishing during the period of the rise of Islam and of the Crusades.
+flourishing during the period of the rise of Islam and of the [[Crusades]].
 To these belong the apocalypses in Arabic, Ethiopian and perhaps also in
 Syrian, preserved in the so-called _Liber Clementis discipuli S. Petri_
 (_Petri apostoli apocalypsis per Clementem_), the late Syrian apocalypse
@@ -294,7 +294,7 @@ be ruling at the time. Then in the West the period arrived in which
 eschatology, and above all the expectation of the coming of Antichrist,
 exercised a great influence on the world's history. This period, as is
 well known, was inaugurated, at the end of the 12th century, by the
-apocalyptic writings of the abbot Joachim of Floris. Soon the word
+apocalyptic writings of the abbot [[Joachim Of Floris|Joachim of Floris]]. Soon the word
 Antichrist re-echoed from all sides in the embittered controversies of
 the West. The pope bestowed this title upon the emperor, the emperor
 upon the pope, the Guelphs on the Ghibellines and the Ghibellines on the
@@ -304,7 +304,7 @@ motives to art, to lyrical, epic and dramatic poetry.[13] Among the
 visionary Franciscans, enthusiastic adherents of Joachim's prophecies,
 arose above all the conviction that the pope was Antichrist, or at least
 his precursor. From the Franciscans, influenced by Abbot Joachim, the
-lines of connexion are clearly traceable with Milic of Kremsier
+lines of connexion are clearly traceable with Milic of [[Kremsier]]
 (_Libellus de Antichristo_) and Matthias of Janow. For Wycliffe and his
 adherent John Purvey (probably the author of the _Commentarius in
 Apocalypsin ante centum annos editus_, edited in 1528 by Luther), as on
@@ -326,7 +326,7 @@ ages, would be almost to write that of the middle ages themselves.
   _Ascension of Isaiah_, Introduction, li.-lxxiii. For the history of
   the legend of Nero, see J. Geffcken, _Nachrichten der Gottinger
   Gesellschaft der Wisscnschaft_ (1899), p. 446 &c.; Th. Zahn,
-  _Zeitschrift fur kirchliche Wissenschaft und kirchliches Leben_
+  _Zeitschrift [[Fur|fur]] kirchliche Wissenschaft und kirchliches Leben_
   (1886), p. 337 &c.; Bousset, _Kritisch-exegetisches Kommentar zur
   Offenbarung Johannis_, cap. 17, and the article "Sibyllen" in
   Herzog-Hauck, _Realencyklopadie fur Theologie und Kirche_ (3rd ed.),
@@ -345,7 +345,7 @@ ages, would be almost to write that of the middle ages themselves.
   Literature_, Russian (Moscow, 1897); J. Kampers, _Die deutsche
   Kaiseridee in Prophetie und Sage_ (Munich, 1896), and "Alexander der
   Grosse und die Idee des Weltimperiums," in H. Grauert's _Studien und
-  Darstellungen aus dem Gebiet der Geschichte_, vol. i. 2-3 (Freiburg,
+  Darstellungen aus dem Gebiet der Geschichte_, vol. i. 2-3 ([[Freiburg]],
   1901); E. Wadstein, _Die eschatologische Ideengruppe, Antichrist,
   Weltsabbat, Weltende und Welgericht_ (Leipzig, 1896), which contains
   excellent material for the history of the idea in the West during the

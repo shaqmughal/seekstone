@@ -14,7 +14,7 @@ active service (as artillery captain) in the short Swiss _Sonderbund_
 war. In 1860 he abandoned mercantile pursuits for a purely military
 career, becoming colonel and inspector-general of the Swiss artillery.
 In 1870 he was commander-in-chief of the Swiss army, which guarded the
-Swiss frontier, in the Jura, during the Franco-German War, and in
+Swiss frontier, in the [[Jura]], during the [[Franco-German War]], and in
 February 1871, as such, concluded the Convention of Verrieres with
 General Clinchant for the disarming and the interning of the remains of
 Bourbaki's army, when it took refuge in Switzerland. In 1875 he became

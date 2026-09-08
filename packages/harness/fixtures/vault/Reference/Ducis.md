@@ -12,15 +12,15 @@ father, originally from Savoy, was a linen-draper at Versailles; and all
 through life he retained the simple tastes and straightforward
 independence fostered by his bourgeois education. In 1768 he produced
 his first tragedy, _Amélise_. The failure of this first attempt was
-fully compensated by the success of his _Hamlet_ (1769), and _Roméo et
-Juliette_ (1772). _Oedipe chez Admète_, imitated partly from Euripides
+fully compensated by the success of his _[[Hamlet]]_ (1769), and _Roméo et
+Juliette_ (1772). _Oedipe chez Admète_, imitated partly from [[Euripides]]
 and partly from Sophocles, appeared in 1778, and secured him in the
 following year the chair in the Academy left vacant by the death of
-Voltaire. Equally successful was _Le Roi Lear_ in 1783. _Macbeth_ in
+Voltaire. Equally successful was _Le Roi [[Lear]]_ in 1783. _Macbeth_ in
 1783 did not take so well, and _Jean sans peur_ in 1791 was almost a
 failure; but _Othello_ in 1792, supported by the acting of Talma,
-obtained immense applause. Its vivid picturing of desert life secured
-for _Abufas, ou la famille arabe_ (1795), an original drama, a
+obtained immense [[Applause|applause]]. Its vivid picturing of [[Desert|desert]] life secured
+for _Abufas, ou la famille arabe_ (1795), an original [[Drama|drama]], a
 flattering reception. On the failure of a similar piece, _Phédor et
 Vladimir ou la famille de Sibérie_ (1801), Ducis ceased to write for the
 stage; and the rest of his life was spent in quiet retirement at
@@ -28,25 +28,25 @@ Versailles. He had been named a member of the Council of the Ancients in
 1798, but he never discharged the functions of the office; and when
 Napoleon offered him a post of honour under the empire, he refused.
 Amiable, religious and bucolic, he had little sympathy with the fierce,
-sceptical and tragic times in which his lot was cast. "Alas!" he said in
+sceptical and tragic times in which his [[Lot|lot]] was cast. "Alas!" he said in
 the midst of the Revolution, "tragedy is abroad in the streets; if I
-step outside of my door, I have blood to my very ankles. I have too
+step outside of my door, I have blood to my very [[Ankle|ankles]]. I have too
 often seen Atreus in clogs, to venture to bring an Atreus on the stage."
 Though actuated by honest admiration of the great English dramatist,
-Ducis is not Shakespearian. His ignorance of the English language left
+Ducis is not Shakespearian. His [[Ignorance|ignorance]] of the English language left
 him at the mercy of the translations of Pierre Letourneur (1736-1788)
 and of Pierre de la Place (1707-1793); and even this modified
 Shakespeare had still to undergo a process of purification and
 correction before he could be presented to the fastidious criticism of
-French taste. That such was the case was not, however, the fault of
-Ducis; and he did good service in modifying the judgment of his fellow
+French taste. That such was the case was not, however, the [[Fault|fault]] of
+Ducis; and he did good service in modifying the judgment of his [[Fellow|fellow]]
 countrymen. He did not pretend to reproduce, but to excerpt and
 refashion; and consequently the French play sometimes differs from its
 English namesake in everything almost but the name. The plot is
 different, the characters are different, the _motif_ different, and the
 scenic arrangement different. To _Othello_, for instance, he wrote two
 endings. In one of them Othello was enlightened in time and Desdemona
-escaped her tragic fate. _Le Banquet de l'amitié_, a poem in four cantos
+escaped her tragic [[Fate|fate]]. _Le Banquet de l'amitié_, a poem in four [[Canto|cantos]]
 (1771), _Au roi de Sardaigne_ (1775), _Discours de réception à
 l'académie française_ (1779), _Épître à l'amitié_ (1786), and a _Recueil
 de poésies_ (1809), complete the list of Ducis's publications.
@@ -64,7 +64,7 @@ de poésies_ (1809), complete the list of Ducis's publications.
 
 
 DUCK. (1) (From the verb "to duck," to dive, put the head under water,
-in reference to the bird's action, cf. Dutch _duiker_, Ger. _Taucher_,
+in reference to the bird's action, cf. Dutch _[[Duiker|duiker]]_, Ger. _Taucher_,
 diving-bird, _duiken_, _tauchen_, to dip, dive, Dan. _dukand_, duck, and
 Ger. _Ente_, duck; various familiar and slang usages are based on
 analogy with the bird's action), the general English name for a large
@@ -89,7 +89,7 @@ British domestic breeds. It inhabits the greater part of the northern
 hemisphere, reaching in winter so far as the Isthmus of Panama in the
 New World, and in the Old being abundant at the same season in Egypt and
 north-western India, while in summer it ranges throughout the
-Fur-Countries, Greenland, Iceland, Lapland and Siberia. Most of those
+Fur-Countries, Greenland, [[Iceland]], Lapland and Siberia. Most of those
 which fill British markets are no doubt bred in more northern climes,
 but a considerable proportion of them are yet produced in the British
 Islands, though not in anything like the numbers that used to be
@@ -103,7 +103,7 @@ March. The spot chosen is sometimes near a river or pond, but often very
 far removed from water, and it may be under a furze-bush, on a dry
 heath, at the bottom of a thick hedge-row, or even in any convenient
 hole in a tree. A little dry grass is generally collected, and on it the
-eggs, from 9 to 11 in number, are laid. So soon as incubation commences
+[[Egg|eggs]], from 9 to 11 in number, are laid. So soon as incubation commences
 the mother begins to divest herself of the down which grows thickly
 beneath her breast-feathers, and adds it to the nest-furniture, so that
 the eggs are deeply imbedded in this heat-retaining substance--a portion
@@ -117,7 +117,7 @@ herself. Then they return to the nest, and after cautiously
 reconnoitring the neighbourhood, she loses no time in reseating herself
 on her eggs, while he, when she is settled, repairs again to the waters,
 and passes his day listlessly in the company of his brethren, who have
-the same duties, hopes and cares. Short and infrequent as are the
+the same duties, hopes and [[Car|cares]]. Short and infrequent as are the
 absences of the duck when incubation begins, they become shorter and
 more infrequent towards its close, and for the last day or two of the
 28 necessary to develop the young it is probable that she will not stir
@@ -131,7 +131,7 @@ flutters off to divert the attention of the intruder from her brood, who
 lie motionless at her warning notes. Once arrived at the water they are
 comparatively free from harm, though other perils present themselves
 from its inmates in the form of pike and other voracious fishes, which
-seize the ducklings as they disport in quest of insects on the surface
+seize the ducklings as they disport in quest of [[Insect|insects]] on the surface
 or dive beneath it. Throughout the summer the duck continues her care
 unremittingly, until the young are full grown and feathered; but it is
 no part of the mallard's duty to look after his offspring, and indeed he
@@ -142,9 +142,9 @@ harvest-time the young are well able to shift for themselves, and then
 resort to the corn-fields at evening, where they fatten on the scattered
 grain. Towards the end of September or beginning of October both old and
 young unite in large flocks and betake themselves to the larger waters.
-If long-continued frost prevail, most of the ducks resort to the
+If long-continued [[Frost|frost]] prevail, most of the ducks resort to the
 estuaries and tidal rivers, or even leave these islands almost entirely.
-Soon after Christmas the return-flight commences, and then begins anew
+Soon after [[Christmas]] the return-flight commences, and then begins anew
 the course of life already described.
 
 For the farmyard varieties, descending from _Anas boschas_, see POULTRY.
@@ -171,8 +171,8 @@ Very nearly allied to the common wild duck are a considerable number of
 species found in various parts of the world in which there is little
 difference of plumage between the sexes--both being of a dusky hue--such
 as _Anas obscura_, the commonest river-duck of America, _A.
-superciliosa_ of Australia, _A. poecilorhyncha_ of India, _A. melleri_
-of Madagascar, _A. xanthorhyncha_ of South Africa, and some others.
+superciliosa_ of [[Australia]], _A. poecilorhyncha_ of India, _A. melleri_
+of [[Madagascar]], _A. xanthorhyncha_ of South Africa, and some others.
 
 Among the other genera of _Anatinae_, we must content ourselves by
 saying that both in Europe and in North America there are the groups
@@ -193,12 +193,12 @@ Ger. _Tuch_, cloth), a plain fabric made originally from tow yarns. The
 cloth is lighter than canvas or sailcloth, and differs from these in
 that it is almost invariably single in both warp and weft. The term is
 also used to indicate the colour obtained at a certain stage in the
-bleaching of flax yarns; it is a colour between half-white and cream,
+[[Bleaching|bleaching]] of flax yarns; it is a colour between half-white and cream,
 and this fact may have something to do with the name. Most of the flax
 ducks (tow yarns) appear in this colour, although quantities are
 bleached or dyed. Some of the ducks are made from long flax, dyed black,
 and used for kit-bags, while the dyed tow ducks may be used for inferior
-purposes. The fabric, in its various qualities and colours, is used for
+purposes. The fabric, in its various qualities and [[Colours|colours]], is used for
 an enormous variety of purposes, including tents, wagon and motor hoods,
 light sails, clothing, workmen's overalls, bicycle tubes, mail and other
 bags and pocketings. _Russian duck_ is a fine white linen canvas.
@@ -219,38 +219,38 @@ witches and prostitutes in bygone days. The two have been generally
 confused, but are quite distinct. The earlier, the Cucking-stool[1] or
 Stool of Repentance, is of very ancient date, and was used by the
 Saxons, who called it the _Scealding_ or _Scolding Stool_. It is
-mentioned in Domesday Book as in use at Chester, being called _cathedra
+mentioned in Domesday Book as in use at [[Chester]], being called _cathedra
 stercoris_, a name which seems to confirm the first of the derivations
 suggested in the footnote below. Seated on this stool the woman, her
 head and feet bare, was publicly exposed at her door or paraded through
-the streets amidst the jeers of the crowd. The Cucking-stool was used
-for both sexes, and was specially the punishment for dishonest brewers
-and bakers. Its use in the case of scolding women declined on the
+the streets amidst the jeers of the [[Crowd|crowd]]. The Cucking-stool was used
+for both sexes, and was specially the punishment for dishonest [[Brewer|brewers]]
+and [[Baker|bakers]]. Its use in the case of scolding women declined on the
 introduction in the middle of the 16th century of the Scold's Bridle
-(see BRANKS), and it disappears on the introduction a little later of
+(see [[Branks|BRANKS]]), and it disappears on the introduction a little later of
 the Ducking-stool. The earliest record of the use of this latter is
 towards the beginning of the 17th century. It was a strongly made wooden
-armchair (the surviving specimens are of oak) in which the culprit was
+armchair (the surviving specimens are of oak) in which the [[Culprit|culprit]] was
 seated, an iron band being placed around her so that she should not fall
-out during her immersion. Usually the chair was fastened to a long
+out during her [[Immersion|immersion]]. Usually the chair was fastened to a long
 wooden beam fixed as a seesaw on the edge of a pond or river. Sometimes,
 however, the Ducking-stool was not a fixture but was mounted on a pair
 of wooden wheels so that it could be wheeled through the streets, and at
 the river-edge was hung by a chain from the end of a beam. In sentencing
-a woman the magistrates ordered the number of duckings she should have.
+a woman the [[Magistrate|magistrates]] ordered the number of duckings she should have.
 Yet another type of Ducking-stool was called a tumbrel. It was a chair
-on two wheels with two long shafts fixed to the axles. This was pushed
+on two wheels with two long shafts fixed to the [[Axle|axles]]. This was pushed
 into the pond and then the shafts released, thus tipping the chair up
 backwards. Sometimes the punishment proved fatal, the unfortunate woman
 dying of shock. Ducking-stools were used in England as late as the
 beginning of the 19th century. The last recorded cases are those of a
 Mrs Ganble at Plymouth (1808); of Jenny Pipes, "a notorious scold"
-(1809), and Sarah Leeke (1817), both of Leominster. In the last case the
+(1809), and Sarah Leeke (1817), both of [[Leominster]]. In the last case the
 water in the pond was so low that the victim was merely wheeled round
 the town in the chair.
 
-  See W. Andrews, _Old Time Punishments_ (Hull, 1890); A.M. Earle,
-  _Curious Punishments of Bygone Days_ (Chicago, 1896); W.C. Hazlitt,
+  See W. Andrews, _Old Time Punishments_ ([[Hull]], 1890); A.M. Earle,
+  _Curious Punishments of Bygone Days_ ([[Chicago]], 1896); W.C. [[Hazlitt]],
   _Faiths and Folklore_ (London, 1905); Llewellynn Jewitt in _The
   Reliquary_, vols. i. and ii. (1860-1862); _Gentleman's Magazine_ for
   1732.

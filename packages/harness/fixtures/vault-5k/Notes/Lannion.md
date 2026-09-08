@@ -26,7 +26,7 @@ formations.
 
 Lannion is the seat of a subprefect and has a tribunal of first instance
 and a communal college. Its industries include saw-milling, tanning and
-the manufacture of farm implements. The town was taken in 1346 by the
+the manufacture of farm [[Implement|implements]]. The town was taken in 1346 by the
 English; it was defended against them by Geoffroy de Pontblanc whose
 valour is commemorated by a cross close to the spot where he was slain.
 

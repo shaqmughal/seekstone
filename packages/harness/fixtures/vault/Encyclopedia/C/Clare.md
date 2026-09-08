@@ -3,19 +3,19 @@
 CLARE, a county in the province of Munster, Ireland, bounded N. by
 Galway Bay and Co. Galway, E. by Lough Derg, the river Shannon, and
 counties Tipperary and Limerick, S. by the estuary of the Shannon, and
-W. by the Atlantic Ocean. The area is 852,389 acres, or nearly 1332 sq.
+W. by the [[Atlantic Ocean]]. The area is 852,389 acres, or nearly 1332 sq.
 m. Although the surface of the county is hilly, and in some parts even
 mountainous, it nowhere rises to a great elevation. Much of the western
-baronies of Moyarta and Ibrickan is composed of bog land. Bogs are
+baronies of Moyarta and Ibrickan is composed of [[Bog|bog]] land. Bogs are
 frequent also in the mountainous districts elsewhere, except in the
-limestone barony of Burren, the inhabitants of some parts of which
+[[Limestone|limestone]] [[Barony|barony]] of Burren, the inhabitants of some parts of which
 supply themselves with turf from the opposite shores of Connemara.
 Generally speaking, the eastern parts of the county are mountainous,
 with tracts of rich pasture-land interspersed; the west abounds with
 bog; and the north is rocky and best adapted for grazing sheep. In the
 southern part, along the banks of the Fergus and Shannon, are the bands
 of rich low grounds called corcasses, of various breadth, indenting the
-land in a great variety of shapes. They are composed of deep rich loam,
+land in a great variety of shapes. They are composed of deep rich [[Loam|loam]],
 and are distinguished as the black corcasses, adapted for tillage, and
 the blue, used more advantageously as meadow land. The coast is in
 general rocky, and occasionally bold and precipitous in the extreme, as
@@ -30,21 +30,21 @@ navigators, and the whole coast has been the scene of many fatal
 disasters. The county possesses only one large river, the Fergus; but
 nearly 100 m. of its boundary-line are washed by the river Shannon,
 which enters the Atlantic Ocean between this county and Kerry. The
-numerous bays and creeks on both sides of this great river render its
+numerous bays and [[Creek|creeks]] on both sides of this great river render its
 navigation safe in every wind; but the passage to and from Limerick is
-often tedious, and the port of Kilrush has from that cause gained in
+often tedious, and the port of [[Kilrush]] has from that cause gained in
 importance. The river Fergus is navigable from the Shannon to the town
 of Clare, which is the terminating point of its natural navigation, and
 the port of all the central districts of the county.
 
 There are a great number of lakes and tarns in the county, of which the
-largest are Loughs Muckanagh, Graney, Atedaun and Dromore; but they are
+largest are Loughs Muckanagh, Graney, Atedaun and [[Dromore]]; but they are
 more remarkable for beauty than for size or utility, with the exception
 of the extensive and navigable Lough Derg, formed by the river Shannon
-between this county and Tipperary. The salmon fishery of the Shannon,
+between this county and Tipperary. The salmon [[Fishery|fishery]] of the Shannon,
 both as a sport and as an industry, is famous; the Fergus also holds
 salmon, and there is much good trout-fishing in the lakes for which
-Ennis is a centre, and in the streams of the Atlantic seaboard. Clare is
+[[Ennis]] is a centre, and in the streams of the Atlantic seaboard. Clare is
 a county which, like all the western counties of Ireland, repays
 visitors in search of the pleasures of seaside resorts, sport, scenery
 or antiquarian interest. Yet, again like other western counties, it was
@@ -54,12 +54,12 @@ satisfactory.
   _Geology._--Upper Carboniferous strata cover the county west of Ennis,
   the coast-sections in them being particularly fine. Shales and
   sandstones alternate, now horizontal, as in the Cliffs of Moher, now
-  thrown into striking folds. The Carboniferous Limestone forms a barren
+  thrown into striking [[Fold|folds]]. The Carboniferous Limestone forms a barren
   terraced country, often devoid of soil, through the Burren in the
   north, and extends to the estuary of the Fergus and the Shannon. On
   the east, the folding has brought up two bold masses of Old Red
   Sandstone, with Silurian cores. Slieve Bernagh, the more southerly of
-  these, rises to 1746 ft. above Killaloe, and the hilly country here
+  these, rises to 1746 ft. above [[Killaloe]], and the hilly country here
   traversed by the Shannon is in marked contrast with the upper course
   of the river through the great limestone plain.
 
@@ -77,29 +77,29 @@ overlie the limestone were mined and smelted down to 1750. Within half a
 mile of the Milltown lead mine are immense natural vaulted passages of
 limestone, through which the river Ardsullas winds a singular course.
 The lower limestone of the eastern portion of the county has been found
-to contain several very large deposits of argentiferous galena. Flags,
+to contain several very large deposits of argentiferous [[Galena|galena]]. [[Flag|Flags]],
 easily quarried, are procured near Kilrush, and thinner flags near
 Ennistimon. Slates are quarried in several places, the best being those
 of Broadford and Killaloe, which are nearly equal to the finest procured
-in Wales. A species of very fine black marble is obtained near Ennis; it
+in Wales. A species of very fine black [[Marble|marble]] is obtained near Ennis; it
 takes a high polish, and is free from the white spots with which the
-black Kilkenny marble is marked.
+black [[Kilkenny]] marble is marked.
 
 The mineral springs, which are found in many places, are chiefly
 chalybeate. That of Lisdoonvarna, a sulphur spa, about 8 m. from
 Ennistimon, has been celebrated since the 18th century for its medicinal
 qualities, and now attracts a large number of visitors annually. It lies
 9 m. by road N. of Ennistimon. There are chalybeate springs of less note
-at Kilkishen, Burren, Broadfoot, Lehinch, Kilkee, Kilrush, Killadysart,
+at Kilkishen, Burren, Broadfoot, Lehinch, [[Kilkee]], Kilrush, Killadysart,
 and near Milltown Malbay. Springs called by the people "holy" or
 "blessed" wells, generally mineral waters, are common; but the belief in
-their power of performing cures in inveterate maladies is nearly
+their power of performing [[Cures|cures]] in inveterate maladies is nearly
 extinct.
 
 _Watering-places._--The Atlantic Ocean and the estuary of the Shannon
 afford many situations admirably adapted for summer bathing-places.
 Among the most frequented of these localities are Milltown Malbay; with
-one of the best beaches on the western coast; and the neighbouring
+one of the best [[Beach|beaches]] on the western coast; and the neighbouring
 Spanish Point (named from the scene of the wreck of two ships of the
 Armada); Lehinch, about 2 m. from Ennistimon on Liscannor Bay, and near
 the interesting cliffs of Moher, has a magnificent beach. Kilkee is the
@@ -115,16 +115,16 @@ crops of oats and potatoes. Cattle, sheep, poultry and pigs, however,
 all receive considerable attention. Owing to the mountainous nature of
 the county nearly one-seventh of the total area is quite barren.
 
-There are no extensive manufactures, although flannels and friezes are
-made for home use, and hosiery of various kinds, chiefly coarse and
+There are no extensive manufactures, although [[Flannel|flannels]] and friezes are
+made for home use, and [[Hosiery|hosiery]] of various kinds, chiefly coarse and
 strong, is made around Ennistimon and other places. There are several
-fishing stations on the coast, and cod, haddock, ling, sole, turbot,
-ray, mackerel and other fish abound, but the rugged nature of the coast
+fishing stations on the coast, and [[Cod|cod]], haddock, [[Ling|ling]], sole, turbot,
+ray, [[Mackerel|mackerel]] and other fish abound, but the rugged nature of the coast
 and the tempestuous sea greatly hinder the operations of the fishermen.
 Near Pooldoody is the great Burren oyster bed called the Red Bank, where
 a large establishment is maintained, from which a constant supply of the
 excellent Red Bank oysters is furnished to the Dublin and other large
-markets. Crabs and lobsters are caught on the shores of the Bay of
+markets. [[Crab|Crabs]] and lobsters are caught on the shores of the Bay of
 Galway in every creek from Black Head to Ardfry. In addition to the
 Shannon salmon fishery mentioned above, eels abound in every rivulet,
 and form an important article of consumption.
@@ -146,14 +146,14 @@ settlements, as resorts, are of more than local importance. The county,
 which is divided into 11 baronies, contains 79 parishes, and includes
 the Protestant diocese of Kilfenora, the greater part of Killaloe, and a
 very small portion of the diocese of Limerick. It is within the Roman
-Catholic dioceses of Killaloe and Limerick. The assizes are held at
+Catholic dioceses of Killaloe and Limerick. The [[Assize|assizes]] are held at
 Ennis, and quarter sessions here and at Ennistimon, Killaloe, Kilrush
 and Tulla. The county is divided into the East and West parliamentary
 divisions, each returning one member.
 
 _History._--This county, together with part of the neighbouring
 district, was anciently called Thomond, that is, North Munster, and
-formed part of the monarchy of the celebrated Brian Boroihme, who held
+formed part of the monarchy of the celebrated [[Brian]] Boroihme, who held
 his court at Kincora near Killaloe, where his palace was situated on the
 banks of the Shannon. The site is still distinguished by extensive
 earthen ramparts. Settlements were effected by the Danes, and in the
@@ -163,7 +163,7 @@ O'Brien, after dispossessing his nephew and vainly attempting a
 rebellion against the English rule, proceeded to England and submitted
 to Henry VIII., resigning his name and possessions. He soon received
 them back by an English tenure, together with the title of earl of
-Thomond, on condition of adopting the English dress, manners and
+Thomond, on condition of adopting the English [[Dress|dress]], [[Manners|manners]] and
 customs. In 1565 this part of Thomond (sometimes called O'Brien's
 country) was added to Connaught, and made one of the six new counties
 into which that province was divided by Sir Henry Sidney. It was named

@@ -15,7 +15,7 @@ generally consists of a mirror mounted on an axis parallel to the axis
 of the earth, and rotated with the same angular velocity as the sun.
 This construction assumes that the sun describes daily a small circle
 about the pole of the celestial sphere, and ignores any diurnal
-variation in the declination. This variation is, however, so small that
+variation in the [[Declination|declination]]. This variation is, however, so small that
 it can be neglected for most purposes.
 
 [Illustration: FIG. 1.]
@@ -28,7 +28,7 @@ Gauthier-Villars.
 FIG. 3.--Silbermann's Heliostat.]
 
   Many forms of heliostats have been devised, the earliest having been
-  described by Wilhelm Jacob s' Gravesande in the 3rd edition of his
+  described by Wilhelm [[Jacob]] s' Gravesande in the 3rd edition of his
   _Physices elementa_ (1742). One of the simplest consists of a plane
   mirror rigidly connected with a revolving axis so that the angle
   between the normal to the mirror and the axis of the instrument equals
@@ -68,15 +68,15 @@ FIG. 3.--Silbermann's Heliostat.]
   mirror. The framework is attached to two independent circular arcs Cs
   and rr' having their centres at O and provided with clamps D and A on
   the axis F of the instrument. The arc Cs is graduated, and is set so
-  that the angle COD equals the complement of the sun's declination.
+  that the angle [[Cod|COD]] equals the complement of the sun's declination.
   This can be effected (after setting the axis) by rotating Cs until a
   needle indicates true time on the hour dial B. The arc rr' is set so
   as to reflect the rays in the required direction. The axis F of the
-  instrument is set at an angle equal to the latitude of the place of
+  instrument is set at an angle equal to the [[Latitude|latitude]] of the place of
   observation and in the meridian by means of the screw K, and rotated
-  by clockwork contained in the barrel H. The setting in the meridian is
+  by clockwork contained in the [[Barrel|barrel]] H. The setting in the meridian is
   effected by turning the instrument after setting for latitude until a
-  pin-hole aperture s and a small screen P, placed so that Ps is
+  pin-hole [[Aperture|aperture]] s and a small screen P, placed so that Ps is
   parallel to CO, are in a line with the sun.
 
   Many other forms of heliostats have been designed, the chief
@@ -84,7 +84,7 @@ FIG. 3.--Silbermann's Heliostat.]
   constant direction of the reflecting ray. One of the most important
   applications of the heliostat is as an adjunct to the newer forms of
   horizontal telescopes (q.v.) and in conjunction with spectroscopic
-  telescopes in observations of eclipses.
+  telescopes in observations of [[Eclipse|eclipses]].
 
 ## See also
 

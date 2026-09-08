@@ -37,7 +37,7 @@ June 1421, and in the following May conducted the queen to join Henry in
 Normandy. He then took his brother's place and led the English troops to
 the relief of Cosne, but on hearing of the king's serious illness he
 left the army and hurried to his side. Henry's last wish was that
-Bedford should be guardian of the kingdom and of the young king, and
+Bedford should be [[Guardian|guardian]] of the kingdom and of the young king, and
 that Philip the Good, duke of Burgundy, should act as regent in France.
 But when Philip declined to undertake this office, it too was assumed by
 Bedford, who, after the death of the French king Charles VI. in October
@@ -67,7 +67,7 @@ spite of the efforts of the protector the good understanding between
 England and Burgundy was partially destroyed when Gloucester invaded
 Hainaut in October 1424. The ambition of his brother gave Bedford
 trouble in another direction also; for on his return from Hainaut
-Gloucester quarrelled with the chancellor, Henry Beaufort, bishop of
+Gloucester quarrelled with the chancellor, Henry [[Beaufort]], bishop of
 Winchester, and the council implored Bedford to come to England to
 settle this dispute. He reached London in January 1426, and after
 concluding a bond of alliance with Gloucester effected a reconciliation
@@ -91,7 +91,7 @@ government of Normandy Bedford established himself at Rouen and directed
 the movements of the English forces with some success. He did not
 interfere to save the life of Joan of Arc. He was joined by Henry VI. in
 April 1430, when the regency was temporarily suspended, and he secured
-Henry's coronation at Paris in December 1431. In November 1432 his wife
+Henry's [[Coronation|coronation]] at Paris in December 1431. In November 1432 his wife
 Anne died, and in April 1433 he was married at Therouanne to Jacqueline,
 daughter of Pierre I., count of St Pol. But notwithstanding Bedford's
 vigour the English lost ground steadily; and the death of Anne and this
@@ -283,7 +283,7 @@ him the "Bedford level." He spent a large sum of money over this work
 and received 43,000 acres of land, but owing to various jealousies and
 difficulties the king took the work into his own hands in 1638, making a
 further grant of land to the earl. Bedford married Catherine (d. 1657),
-daughter of Giles, 3rd Lord Chandos, by whom he had four sons and four
+daughter of Giles, 3rd Lord [[Chandos]], by whom he had four sons and four
 daughters. His eldest son, WILLIAM (1613-1700), succeeded him as 5th
 earl, fought first on the side of the parliament and then on that of the
 king during the Civil War, and in 1694 was created marquess of Tavistock
@@ -358,7 +358,7 @@ place high import duties on Italian silks. He was consequently assaulted
 and his London residence attacked by a mob. He took some part in
 subsequent political intrigues, and although he did not return to
 office, his friends, with his consent, joined the ministry of the duke
-of Grafton in December 1767. This proceeding led "Junius" to write his
+of [[Grafton]] in December 1767. This proceeding led "Junius" to write his
 "letter to the duke of Bedford," one of especial violence. Bedford was
 hostile to John Wilkes, and narrowly escaped from a mob favourable to
 the agitator at Honiton in July 1769. His health had been declining for
@@ -412,7 +412,7 @@ JOHN RUSSELL, 6th duke of Bedford (1766-1839), was succeeded as seventh
 duke by his eldest son, Francis (1788-1861), who had an only son,
 William (1809-1872), who became duke on his father's death in 1861. When
 the eighth duke died in 1872, he was succeeded by his cousin, Francis
-Charles Hastings (1819-1891), who was member of parliament for
+Charles [[Hastings]] (1819-1891), who was member of parliament for
 Bedfordshire from 1847 until he succeeded to the title. The ninth duke
 was the eldest son of Major-General Lord George William Russell
 (1790-1846), who was a son of the sixth duke. He married Elizabeth,

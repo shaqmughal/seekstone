@@ -2,11 +2,11 @@
 
 KAPURTHALA, a native state of India, within the Punjab. Area, 652 sq.
 m.; pop. (1901), 314,341, showing an increase of 5% in the decade;
-estimated gross revenue, L178,000; tribute, L8700. The Kapurthala family
+estimated [[Gross|gross]] revenue, L178,000; tribute, L8700. The Kapurthala family
 is descended from Jassa Singh, a contemporary of Nadir Shah and Ahmad
 Shah, who by his intelligence and bravery made himself the leading Sikh
 of his day. At one time it held possessions on both sides of the Sutlej,
-and also in the Bari Doab. The cis-Sutlej estates and scattered tracts
+and also in the [[Bari]] [[Doab]]. The cis-Sutlej estates and scattered tracts
 in the Bari Doab were forfeited owing to the hostility of the chief in
 the first Sikh war; but the latter were afterwards restored in
 recognition of the loyalty of Raja Randhir Singh during the mutiny of

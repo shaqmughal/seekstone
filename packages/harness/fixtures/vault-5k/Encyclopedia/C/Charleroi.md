@@ -7,7 +7,7 @@ source: "https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Charleroi"
 
 # Charleroi
 
-CHARLEROI (_Carolus Rex_), a town in the province of Hainaut, Belgium.
+CHARLEROI (_Carolus Rex_), a town in the province of Hainaut, [[Belgium]].
 Pop. (1904) 26,528. It was founded in 1666 on the site of a village
 called Charnoy by the Spanish governor Roderigo and named after his
 sovereign Charles II. of Spain. Charleroi is the centre of the iron
@@ -23,7 +23,7 @@ fortifying they dismantled it. In 1816 Charleroi was refortified under
 Wellington's direction, and it was finally dismantled in 1859. Some
 portions of the old ramparts are left near the railway station. There is
 an archaeological museum with a miscellaneous collection of Roman and
-Frank antiquities.
+[[Frank]] antiquities.
 
 ## See also
 

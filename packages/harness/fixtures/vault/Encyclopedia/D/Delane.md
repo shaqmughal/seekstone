@@ -16,11 +16,11 @@ he should find work on the paper. He received a good general education
 at private schools and King's College, London, and also at Magdalen
 Hall, Oxford; after taking his degree in 1840 he at once began work on
 the paper, though later he read for the bar, being called in 1847. In
-1841 he succeeded Thomas Barnes as editor, a post which he occupied for
+1841 he succeeded Thomas [[Barnes]] as editor, a post which he occupied for
 thirty-six years. He from the first obtained the best introductions into
 society and the chief political circles, and had a position there such
 as no journalist had previously enjoyed, using his opportunities with a
-sure intuition for the way in which events would move. His staff
+sure [[Intuition|intuition]] for the way in which events would move. His staff
 included some of the most brilliant men of the day, who worked together
 with a common ideal. The result to the paper, which in those days had
 hardly any real competitor in English journalism, was an excellence of
@@ -32,13 +32,13 @@ affair. His general policy was to keep the paper a national organ of
 opinion above party, but with a tendency to sympathize with the Liberal
 movements of the day. He admired Palmerston and respected Lord Aberdeen,
 and was of considerable use to both; and it was Lord Aberdeen himself
-who, in 1845, told him of the impending repeal of the Corn Laws, an
+who, in 1845, told him of the impending repeal of the [[Corn]] Laws, an
 incident round which many incorrect stories have gathered. The history,
 however, of the events during the thirteen administrations, between 1841
 and 1877, in which _The Times_, and therefore Delane, played an
 important part cannot here be recapitulated. In 1877 his health gave
 way, and he retired from the editorship; and on the 22nd of November
-1879 he died at Ascot.
+1879 he died at [[Ascot]].
 
   A biography by his nephew, Arthur Irwin Dasent, was published in 1908.
 

@@ -8,7 +8,7 @@ topic: cartography
 
 MACERATA, a city of the Marches, Italy, the chief town of the province
 of Macerata and a bishop's see, 44 m. by rail S. of Ancona. Pop. (1901),
-6,176 (town), 22,473 (commune). Crowning a hill 919 ft. above sea-level,
+6,176 (town), 22,473 ([[Commune|commune]]). Crowning a hill 919 ft. above sea-level,
 with a picturesque mass of buildings enclosed by walls and towers,
 Macerata looks out over the Adriatic. The cathedral is modern, but some
 of the churches and palaces are not without interest. Besides the
@@ -16,8 +16,8 @@ university, agricultural school and industrial institute, Macerata has a
 communal library founded by Leo XII., containing a small but choice
 collection of early pictures, and in the municipal buildings, a
 collection of antiquities from Helvia Ricina. There is an enormous
-amphitheatre or _sferisterio_ for _pallone_, a ball game which is very
-popular in the district. The industries comprise the making of bricks,
+amphitheatre or _sferisterio_ for _pallone_, a ball [[Game|game]] which is very
+popular in the district. The industries comprise the making of [[Brick|bricks]],
 matches, terra-cotta and chemicals.
 
 Macerata, as well as Recanati, was founded by the inhabitants of Ricina

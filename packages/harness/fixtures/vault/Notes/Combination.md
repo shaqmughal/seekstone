@@ -5,7 +5,7 @@ association or union of persons for the furtherance of a common object,
 historically associated with agreements amongst workmen for the purpose
 of raising their wages. Such a combination was for a long time expressly
 prohibited by statute. See TRADE UNIONS; also CONSPIRACY and STRIKES AND
-LOCK OUTS.
+[[Lock|LOCK]] OUTS.
 
 
 
@@ -29,8 +29,8 @@ and that it was the fundamental method of investigation in the theory of
 Probabilities. Some idea of its scope may be gathered from a statement
 of the parts of algebra to which it was commonly applied, viz., the
 expansion of a multinomial, the product of two or more multinomials, the
-quotient of one multinomial by another, the reversion and conversion of
-series, the theory of indeterminate equations, &c. Some of the
+quotient of one multinomial by another, the reversion and [[Conversion|conversion]] of
+series, the theory of indeterminate [[Equation|equations]], &c. Some of the
 elementary theorems and various particular problems appear in the works
 of the earliest algebraists, but the true pioneer of modern researches
 seems to have been Abraham Demoivre, who first published in _Phil.
@@ -39,9 +39,9 @@ the series a + bx + cx² + dx³ + ... raised to any power. (See also
 _Miscellanea Analytica_, bk. iv. chap. ii. prob. iv.) His work on
 Probabilities would naturally lead him to consider questions of this
 nature. An important work at the time it was published was the _De
-Partitione Numerorum_ of Leonhard Euler, in which the consideration of
+Partitione Numerorum_ of Leonhard [[Euler]], in which the consideration of
 the reciprocal of the product (1 - xz) (1 - x²z) (1 - x³z) ...
-establishes a fundamental connexion between arithmetic and algebra,
+establishes a fundamental connexion between [[Arithmetic|arithmetic]] and algebra,
 arithmetical addition being made to depend upon algebraical
 multiplication, and a close bond is secured between the theories of
 discontinuous and continuous quantities. (Cf. Numbers, Partition of.)
@@ -55,8 +55,8 @@ the actual values to a high order of the coefficients which arise from
 the generating functions corresponding to various conditions of
 partitionment. Other writers who have contributed to the solution of
 special problems are James Bernoulli, Ruggiero Guiseppe Boscovich, Karl
-Friedrich Hindenburg (1741-1808), William Emerson (1701-1782), Robert
-Woodhouse (1773-1827), Thomas Simpson and Peter Barlow. Problems of
+[[Friedrich]] Hindenburg (1741-1808), William [[Emerson]] (1701-1782), Robert
+Woodhouse (1773-1827), Thomas Simpson and Peter [[Barlow]]. Problems of
 combination were generally undertaken as they became necessary for the
 advancement of some particular part of mathematical science: it was not
 recognized that the theory of combinations is in reality a science by
@@ -66,8 +66,8 @@ orderly development, and until the first third of the 19th century had
 passed, Euler's classical paper remained alike the chief result and the
 only scientific method of combinatorial analysis.
 
-In 1846 Karl G. J. Jacobi studied the partitions of numbers by means of
-certain identities involving infinite series that are met with in the
+In 1846 Karl G. J. [[Jacobi]] studied the partitions of numbers by means of
+certain identities involving [[Infinite|infinite]] series that are met with in the
 theory of elliptic functions. The method employed is essentially that of
 Euler. Interest in England was aroused, in the first instance, by
 Augustus De Morgan in 1846, who, in a letter to Henry Warburton,
@@ -78,7 +78,7 @@ of a new instrument, viz. the theory of finite differences. This was a
 distinct advance, and he was able to obtain expressions for the
 coefficients in partition series in some of the simplest cases (_Trans.
 Camb. Phil. Soc._, 1849). This paper inspired a valuable paper by Sir
-John Herschel (_Phil. Trans._ 1850), who, by introducing the idea and
+John [[Herschel]] (_Phil. Trans._ 1850), who, by introducing the idea and
 notation of the circulating function, was able to present results in
 advance of those of Warburton. The new idea involved a calculus of the
 imaginary roots of unity. Shortly afterwards, in 1855, the subject was
@@ -87,7 +87,7 @@ their combined efforts resulted in the practical solution of the problem
 that we have to-day. The former added the idea of the prime circulator,
 and the latter applied Cauchy's theory of residues to the subject, and
 invented the arithmetical entity termed a denumerant. The next distinct
-advance was made by Sylvester, Fabian Franklin, William Pitt Durfee and
+advance was made by Sylvester, Fabian [[Franklin]], William Pitt Durfee and
 others, about the year 1882 (_Amer. Journ. Math._ vol. v.) by the
 employment of a graphical method. The results obtained were not only
 valuable in themselves, but also threw considerable light upon the
@@ -103,10 +103,10 @@ partition. He introduced the notion of the separation of a partition,
 and extended all the results so as to include multipartite as well as
 unipartite numbers. He showed how to introduce zero and negative
 numbers, unipartite and multipartite, into the general theory; he
-extended Sylvester's graphical method to three dimensions; and finally,
+extended Sylvester's graphical method to three [[Dimension|dimensions]]; and finally,
 1898, he invented the "Partition Analysis" and applied it to the
 solution of novel questions in arithmetic and algebra. An important
-paper by G. B. Mathews, which reduces the problem of compound partition
+paper by G. B. [[Mathews]], which reduces the problem of compound partition
 to that of simple partition, should also be noticed. This is the problem
 which was known to Euler and his contemporaries as "The Problem of the
 Virgins," or "the Rule of Ceres"; it is only now, nearly 200 years
@@ -288,7 +288,7 @@ result of the multiplication--
   X_p1 X_q1 X_r1 ... =
           [Sigma]P(x_s1)^[sigma]1 (x_s2)^[sigma]2 (x_s3)^[sigma]3 ...
 
-To determine the nature of the symmetric function P a few definitions
+To determine the nature of the symmetric function P a few [[Definition|definitions]]
 are necessary.
 
 _Definition I._--Of a number n take any partition
@@ -520,7 +520,7 @@ and since q1 = p1 this may be written
 
   2p1^(-1)[Sigma] 2^(q2+q3+...+qs).
 
-_Ex. Gr._--For the bipartite /22, p1 = p2 = 2, and we have the following
+_Ex. Gr._--For the [[Bipartite|bipartite]] /22, p1 = p2 = 2, and we have the following
 scheme:--
 
   [a]1 [a]1  |  [a]2 [a]2  q2 = 2
@@ -544,14 +544,14 @@ being given by the coefficient of
   (t1[alpha]1)^p1 (t2[alpha]2)^p2 ... (t_s[alpha]_s )^ps.
 
 The transformation of the pure generating function into a factorized
-redundant form supplies the key to the solution of a large number of
+redundant form supplies the [[Key|key]] to the solution of a large number of
 questions in the theory of ordinary permutations, as will be seen later.
 
 
   The theory of permutations.
 
 [The transformation of the last section involves a comprehensive theory
-of Permutations, which it is convenient to discuss shortly here.
+of Permutations, which it is convenient to [[Discus|discuss]] shortly here.
 
 If X1, X2, X3, ... Xn be linear functions given by the matricular
 relation
@@ -579,11 +579,11 @@ where the denominator is in a symbolic form and denotes on expansion
   1 - [Sigma]|a11|s1x1 + [Sigma]|a11a22|s1s2x1x2 - ... + (-)^n|a11a22a33...ann|s1s2 ... sn·x1x2...xn,
 
 where |a11|, |a11a22|, ... |a11a22,...ann| denote the several co-axial
-minors of the determinant
+minors of the [[Determinant|determinant]]
 
   |a11a22...ann|
 
-of the matrix. (For the proof of this theorem see MacMahon, "A certain
+of the [[Matrix|matrix]]. (For the proof of this theorem see MacMahon, "A certain
 Class of Generating Functions in the Theory of Numbers," _Phil. Trans.
 R. S._ vol. clxxxv. A, 1894). It follows that the coefficient of
 
@@ -898,7 +898,7 @@ where [nu] = n + 3.
 
   Sylvester's graphical method.
 
-Sylvester, Franklin, Durfee, G. S. Ely and others have evolved a
+Sylvester, Franklin, Durfee, G. S. [[Ely]] and others have evolved a
 constructive theory of partitions, the object of which is the
 contemplation of the partitions themselves, and the evolution of their
 properties from a study of their inherent characters. It is concerned
@@ -1005,7 +1005,7 @@ difference between the numbers of the partitions is (-)^j.
    .
    .
 
-To illustrate an important dissection of the graph we will consider
+To illustrate an important [[Dissection|dissection]] of the graph we will consider
 those graphs which read the same by columns as by lines; these are
 called self-conjugate. Such a graph may be obviously dissected into a
 square, containing say [theta]² nodes, and into two graphs, one lateral
@@ -1438,7 +1438,7 @@ to connect with lattices.
   AUTHORITIES.--P. A. MacMahon, "Combinatory Analysis: A Review of the
   Present State of Knowledge," _Proc. Lond. Math. Soc._ vol. xxviii.
   (London, 1897). Here will be found a bibliography of the Theory of
-  Partitions. Whitworth, _Choice and Chance_; Édouard Lucas, _Théorie
+  Partitions. Whitworth, _Choice and Chance_; Édouard [[Lucas]], _Théorie
   des nombres_ (Paris, 1891); Arthur Cayley, _Collected Mathematical
   Papers_ (Cambridge, 1898), ii. 419; iii. 36, 37; iv. 166-170; v.
   62-65, 617; vii. 575; ix. 480-483; x. 16, 38, 611; xi. 61, 62,

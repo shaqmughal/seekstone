@@ -17,7 +17,7 @@ district and made the national capital. This necessitated the selection
 of another provincial capital, which resulted in the choice of an open
 plain near the former port of Ensenada de Barragán, on which a city was
 laid out after the plan of Washington. The streets are so wide that they
-seem out of proportion to the low brick buildings. The principal public
+seem out of proportion to the low [[Brick|brick]] buildings. The principal public
 buildings, constructed of brick and stucco, are the government-house,
 assembly building, treasury, municipal hall, cathedral, courts of
 justice, police headquarters, provincial museum and railway station. The

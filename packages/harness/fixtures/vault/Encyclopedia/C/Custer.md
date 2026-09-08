@@ -1,10 +1,10 @@
 # Custer
 
-CUSTER, GEORGE ARMSTRONG (1839-1876), American cavalry soldier, was born
+CUSTER, GEORGE ARMSTRONG (1839-1876), American [[Cavalry|cavalry]] soldier, was born
 in New Rumley, Harrison county, Ohio, on the 5th of December 1839. He
 graduated from West Point in 1861, and was at once sent to the theatre
-of war in Virginia, joining his regiment on the battlefield of Bull Run.
-Afterwards he served on the staff of General Kearny, and on that of
+of war in Virginia, joining his regiment on the battlefield of [[Bull]] Run.
+Afterwards he served on the staff of General [[Kearny]], and on that of
 General W. F. Smith in the Peninsular Campaign. His daring and energy,
 and in particular a spirited reconnaissance on the Chickahominy river,
 brought him to the notice of General McClellan, who made him an
@@ -17,16 +17,16 @@ aide-de-camp, and in June 1863 Custer was promoted to the rank of
 brigadier-general of volunteers. He distinguished himself at the head of
 the Michigan cavalry brigade in the battle of Gettysburg, and frequently
 did good service in the remaining operations of the campaign of 1863.
-When the cavalry corps of the Army of the Potomac was reorganized under
+When the cavalry [[Corps|corps]] of the Army of the Potomac was reorganized under
 Sheridan in 1864, Custer retained his command, and took part in the
 various actions of the cavalry in the Wilderness and Shenandoah
 campaigns. At the end of September 1864, he was appointed to command a
 division, and on the 9th of October fought, along with General Merritt,
 the brilliant cavalry action called the battle of Woodstock. Soon
 afterwards he was made brevet-major-general, U.S.V., having already won
-the brevets of major, lieutenant-colonel and colonel U.S.A., for his
+the [[Brevet|brevets]] of [[Major|major]], lieutenant-colonel and colonel U.S.A., for his
 services at Gettysburg, Yellow Tavern and Winchester. His part in the
-decisive battle of Cedar Creek (q.v.) was most conspicuous. He served
+decisive battle of Cedar [[Creek]] (q.v.) was most conspicuous. He served
 with Sheridan in the last great cavalry raid, won the action of
 Waynesboro, and in the final campaign added to his laurels by his
 conduct at Dinwiddie and Five Forks, and in other operations. At the
@@ -41,7 +41,7 @@ serve against the Sioux.
 In 1876 an expedition, of which Custer and his regiment formed part, was
 made against the Sioux and their allies. As the advanced guard of the
 troops under General Terry, Custer's force arrived at the junction of
-Big Horn and Little Big Horn rivers, in what is now the state of
+Big [[Horn]] and Little Big Horn rivers, in what is now the state of
 Montana, on the night of June 24; the main body was due to join him on
 the 26th. Unfortunately, the presence of what was judged to be a small
 isolated force of Indians was reported to the general. On the 25th,

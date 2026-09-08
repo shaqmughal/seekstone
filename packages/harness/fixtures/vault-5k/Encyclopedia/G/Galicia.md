@@ -1,7 +1,7 @@
 # Galicia
 
 GALICIA (Ger. _Galizien_; Pol. _Halicz_), a crownland of Austria,
-bounded E. and N. by Russia, S. by Bukovina and Hungary, and W. by
+bounded E. and N. by Russia, S. by [[Bukovina]] and Hungary, and W. by
 Austrian and Prussian Silesia. It has an area of 30,299 sq. m., and is
 the largest Austrian province. It comprises the old kingdoms of Galicia
 and Lodomeria, the duchies of Auschwitz and Zator, and the grand duchy
@@ -10,13 +10,13 @@ of Cracow.
 Galicia lies on the northern slopes of the Carpathians, which with their
 offshoots cover about a third of the whole area of the country. The
 surface gradually sinks down by undulating terraces to the valleys of
-the Vistula and Dniester. To the N. and E. of these rivers Galicia forms
+the Vistula and [[Dniester]]. To the N. and E. of these rivers Galicia forms
 a continuation of the great plains of Russia, intersected only by a few
 hills, which descend from the plateaus of Poland and Podolia, and which
 attain in some places an altitude of 1300 to 1500 ft. The Carpathians,
 which, extending in the form of an arc, form the boundary between
 Galicia and Hungary, are divided into the West and the East Beskides,
-which are separated by the northern ramifications of the massif of the
+which are separated by the northern ramifications of the [[Massif|massif]] of the
 Tatra. The highest peaks are the Babia Gora (5650 ft.), the Wolowiec
 (6773 ft.) and the Cserna Gora (6505 ft.). The principal passes are
 those of Zdjar over the Tatra, and of Dukla, Vereczke Korosmezo or
@@ -119,7 +119,7 @@ Polish assistance, however, enabled Vladimir, the former possessor, to
 expel Andreas, and in 1198 Roman, prince of Lodomeria, made himself
 master of Galicia also. On his death in 1205 the struggle between Poland
 and Hungary for supremacy in the country was resumed; but in 1215 it was
-arranged that Daniel (1205-1264), son of Roman, should be invested with
+arranged that [[Daniel]] (1205-1264), son of Roman, should be invested with
 Lodomeria, and Coloman, son of the Hungarian king, with Galicia.
 Coloman, however, was expelled by Mstislav of Novgorod; and in his turn
 Andreas, Mstislav's nominee, was expelled by Daniel of Lodomeria, a

@@ -17,14 +17,14 @@ brought from Italy, but more probably from the Rhine. The Normans
 imported a great quantity of stone from Caen, it being easily worked,
 and particularly fit for carving. The freestones of England were also
 much used; and in the first Pointed period, Purbeck and Bethersden
-marbles were employed for column shafts, &c. The methods of working and
+[[Marbles|marbles]] were employed for column shafts, &c. The methods of working and
 setting stone were much the same as at present, except that owing to
-difficulties of conveyance the stones were used in much smaller sizes.
+difficulties of [[Conveyance|conveyance]] the stones were used in much smaller sizes.
 As time went on the art of masonry advanced till in England, in point of
 execution, it at length rivalled that of any country.
 
   _Tools._--The mason's tools may be grouped under five heads--hammers
-  and mallets, saws, chisels, setting-out and setting tools, and
+  and [[Mallet|mallets]], saws, chisels, setting-out and setting tools, and
   hoisting appliances.
 
 
@@ -51,7 +51,7 @@ execution, it at length rivalled that of any country.
   A hand saw similar to that used by the carpenter is used for cutting
   small soft stones. Larger blocks are cut with the two-handed saw
   worked by two men. For the largest blocks the frame saw is used, and
-  is slung by a rope and pulleys fitted with balance weights to relieve
+  is slung by a rope and pulleys fitted with [[Balance|balance]] weights to relieve
   the operator of its weight. The blade is of plain steel, the cutting
   action being supplied by sand with water as a lubricant constantly
   applied.
@@ -61,7 +61,7 @@ execution, it at length rivalled that of any country.
 
   There are perhaps even more varieties of chisels than of hammers. The
   point and the punch have very small cutting edges, a quarter of an
-  inch or less in width. The former is used on the harder and the latter
+  [[Inch|inch]] or less in width. The former is used on the harder and the latter
   on the softer varieties of stone after the rough hammer dressing. The
   pitching tool has a wide thick edge and is used in rough dressing.
   Jumpers are shafts of steel having a widened edge, and are used for
@@ -69,7 +69,7 @@ execution, it at length rivalled that of any country.
   quarter-inch to one and a half inches wide; those that exceed this
   width are termed boasters. The claw chisel has a number of teeth from
   one-eighth to three-eighths wide, and is used on the surface of hard
-  stones after the point has been used. The drag is a semi-circular
+  stones after the point has been used. The [[Drag|drag]] is a semi-circular
   steel plate, the straight edge having teeth cut on it. It is used to
   level down the surfaces of soft stones. Cockscombs are used for the
   same purpose on mouldings and are shaped to various curves. Wedges of
@@ -79,9 +79,9 @@ execution, it at length rivalled that of any country.
 
     Setting-out and Setting Tools.
 
-  The implements for setting out the work are similar to those used, by
+  The [[Implement|implements]] for setting out the work are similar to those used, by
   the bricklayer and other tradesmen, comprising the rule, square, set
-  square, the bevel capable of being set to any required angle,
+  square, the [[Bevel|bevel]] capable of being set to any required angle,
   compasses, spirit level, plumb-rule and bob and mortar trowels. Gauges
   and moulds are required in sinking moulds to the proper section.
 
@@ -95,7 +95,7 @@ execution, it at length rivalled that of any country.
   block to be lifted. These arms are riveted together in the same way as
   a pair of scissors, the upper ends having rings attached for the
   insertion of a rope or chain which when pulled tight in the operation
-  of lifting causes the hooked ends to grip the stone. _Lewises_ (fig.
+  of lifting causes the hooked ends to grip the stone. _[[Lewis|Lewises]]_ (fig.
   2.) are wedge-shaped pieces of steel which are fitted into a
   dovetailed mortise in the stone to be hoisted. They are also used for
   setting blocks too large to be set by hand, and are made in several
@@ -126,14 +126,14 @@ execution, it at length rivalled that of any country.
   after being quarried should be exposed for three years on the
   sea-beach before its introduction into the building.
 
-  The regular and determined form of bricks makes it to a large extent a
+  The regular and determined form of [[Brick|bricks]] makes it to a large extent a
   matter of practice to enable a man to become a good bricklayer, but
   beyond these a continual exercise of judgment is required of the
   workman in stone, who has for the most part to deal with masses of all
   forms and of all sizes.
 
-  _Setting Stones._--All beds and joints should be truly worked and
-  perfectly level. If the surface be convex it will give rise to wide
+  _Setting Stones._--All beds and [[Joints|joints]] should be truly worked and
+  perfectly level. If the surface be [[Convex|convex]] it will give rise to wide
   unsightly joints; if concave the weight thrown on the stone will rest
   on the edges and probably cause them to "flush" or break off and
   disfigure the work. Large stones are placed in position with the aid
@@ -161,7 +161,7 @@ execution, it at length rivalled that of any country.
   layers horizontally placed, and a stone should be selected from a
   quarry with a bed of the required depth. An example of the omission of
   this precaution is visible in the arcading of the Royal Courts of
-  Justice, London, where the small shafts of the front arcade in red
+  Justice, London, where the small shafts of the front [[Arcade|arcade]] in red
   sandstone have been turned with the laminae in a vertical position,
   with the result that nearly every shaft is flaking away or is cracked.
 
@@ -170,7 +170,7 @@ execution, it at length rivalled that of any country.
   little of mortar as possible. Only fine mortar is admissible if we are
   to obtain as thin joints as possible. The joints should be well raked
   out and pointed in Portland cement mortar. This applies only to some
-  sandstones, as marbles and many limestones are stained by the use of
+  sandstones, as marbles and many [[Limestone|limestones]] are stained by the use of
   Portland cement. For these a special cement must be employed, composed
   of plaster of Paris, lime, and marble or stone-dust.
 
@@ -178,7 +178,7 @@ execution, it at length rivalled that of any country.
   walling than in brickwork. In ashlar-work the work is bonded
   uniformly, the joints being kept perpendicularly one over the other;
   but in rubble-work, instead of making the joints recur one over the
-  other in alternate courses they should be carefully made to lock, so
+  other in alternate courses they should be carefully made to [[Lock|lock]], so
   as to give the strength of two or three courses or layers between a
   joint in one course and the joint that next occurs vertically above it
   in another course. In the through or transverse bonding of a wall a
@@ -329,7 +329,7 @@ execution, it at length rivalled that of any country.
   _Stonewash._--To give a uniform appearance to the stonework and
   preserve the finished face until a hardened skin has formed, it is
   usual to coat the surface of exposed masonry with a protective
-  compound of ordinary limewhite with a little size mixed in it, or a
+  [[Compound|compound]] of ordinary limewhite with a little size mixed in it, or a
   special mixture of stone-dust, lime, salt, whiting and size with a
   little ochre to tone it down. After six months or more the work is
   cleaned down with water and stiff bristle or wire brushes. Sometimes
@@ -382,7 +382,7 @@ execution, it at length rivalled that of any country.
 
   _Corbel Table,_ a lino of small corbels placed at short distances
   apart supporting a parapet or arcade. This forms an ornamental feature
-  which was much employed in early Gothic times. It probably originates
+  which was much employed in early [[Gothic]] times. It probably originates
   from the machicolations of ancient fortresses.
 
   _Dressings,_ the finished stones of window and door jambs and quoins.
@@ -391,7 +391,7 @@ execution, it at length rivalled that of any country.
   also stone quoins (fig. 7).
 
   _Diaper,_ a square pattern formed on the face of the stonework by
-  means of stones of different colours and varieties or by patterns
+  means of stones of different [[Colours|colours]] and varieties or by patterns
   carved on the surface (fig. 7).
 
   _Finial,_ a finishing ornament applied usually to a gable end (fig.
@@ -402,8 +402,8 @@ execution, it at length rivalled that of any country.
 
   _Gargoyle,_ a detail, not often met with in modern work, which
   consists of a waterspout projecting so as to throw the rain-water from
-  the gutters clear of the walls. In early work it was often carved into
-  grotesque shapes of animal and other forms.
+  the [[Gutter|gutters]] clear of the walls. In early work it was often carved into
+  [[Grotesque|grotesque]] shapes of animal and other forms.
 
   _Galleting._--The joints of rubble are sometimes enriched by having
   small pebbles or chips of flint pressed into the mortar whilst green.
@@ -435,7 +435,7 @@ execution, it at length rivalled that of any country.
   their use in old work. In modern work long and short work, sometimes
   termed "block and start," is little used (fig. 7).
 
-  _Parapet,_ a fence wall at the top of a wall at the eaves of the roof.
+  _Parapet,_ a fence wall at the top of a wall at the [[Eaves|eaves]] of the roof.
   The gutter lies behind, and waterways are formed through the parapet
   wall for the escape of the rain-water.
 
@@ -523,7 +523,7 @@ execution, it at length rivalled that of any country.
   taken to make the cuts in continuous lines across the width of the
   stone.
 
-  _Combed or Dragged Work._--For soft stones the steel comb or drag is
+  _Combed or Dragged Work._--For soft stones the steel [[Comb|comb]] or drag is
   often employed to remove all irregularities from the face and thus
   form a fine surface. These tools are specially useful for moulded
   work, as they are formed to fit a variety of curves.
@@ -554,7 +554,7 @@ execution, it at length rivalled that of any country.
   to be "six," "eight" or "ten-cut" work according to the number of
   blades inserted or bolted in the hammer head. The _crandall_ has an
   iron handle slotted at one end with a hole 3/8 in. wide and 3 in.
-  long. In this slot are fixed by a key ten or eleven double-headed
+  long. In this slot are fixed by a [[Key|key]] ten or eleven double-headed
   points of ¼ in. square steel about 9 in. long. It is used for
   finishing sandstone and soft stones after the surface has been
   levelled down with the axe or chisel. It gives a fine pebbly sparkling
@@ -673,7 +673,7 @@ execution, it at length rivalled that of any country.
   up any slight inequalities.
 
   _Moulded Work._--The working of mouldings in stone is an important
-  part of the mason's craft, and forms a costly item in the erection of
+  part of the mason's craft, and forms a costly [[Item|item]] in the erection of
   a stone structure. Much skill and care is required to retain the
   arrises sharp and the curved members of accurate and proportionate
   outline. As in the case of wood mouldings, machinery now plays an
@@ -686,7 +686,7 @@ execution, it at length rivalled that of any country.
   checking the accuracy of his work with a straight-edge and zinc
   templates. A stone to be moulded by machinery is fixed to a moving
   table placed under a shaped tool which is fixed in an immovable
-  portion of the machine, and is so adjusted as to cut or chip off a
+  portion of the [[Machine|machine]], and is so adjusted as to cut or chip off a
   small layer of stone. Each time the stone passes under the cutter it
   is automatically moved a trifle nearer, and thus it gradually reduces
   the stone until the required shape is attained.
@@ -707,7 +707,7 @@ execution, it at length rivalled that of any country.
   [Illustration: FIG. 18.--(½ in. = 1 ft.)]
 
   _Stone Arches._--Stone arches are very frequently used both in stone
-  and brick buildings. (For general definitions and terms see
+  and brick buildings. (For general [[Definition|definitions]] and terms see
   BRICKWORK.) They may be built in a great variety of styles, either
   flat, segmental, circular, elliptical or pointed. Each block or
   voussoir should be cut to fit exactly in its appointed place, the
@@ -748,7 +748,7 @@ execution, it at length rivalled that of any country.
   of ample strength must be placed to receive the springers.
 
   _Stone Tracery._--The designs of Gothic and other tracery stonework
-  are almost infinite, and there are many methods, ingenious and
+  are almost [[Infinite|infinite]], and there are many methods, ingenious and
   otherwise, of setting out such work. Nearly all diagrams of
   construction are planned on the principle of geometrical
   intersections. In the example illustrated in fig. 18 the method of

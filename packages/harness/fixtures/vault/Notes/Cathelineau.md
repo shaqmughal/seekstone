@@ -9,15 +9,15 @@ topic: cities
 CATHELINEAU, JACQUES (1759-1793), French Vendean chieftain during the
 Revolution, was born at Tin-en-Manges, in the country now forming the
 department of Maine-et-Loire. He became well known in the country of
-Anjou, over which he travelled as a pedlar and dealer in contraband
+[[Anjou]], over which he travelled as a pedlar and dealer in contraband
 goods. His physical strength and his great piety gave him considerable
 ascendancy over the peasants, who surnamed him "the saint of Anjou." In
 the first years of the Revolution, Cathelineau listened to the
 exhortations of Catholic priests and royalist _emigres_, and joined the
 insurrection provoked by them against the revolutionary government.
 Collecting a band of peasants and smugglers, he took the chateau of
-Gallais, where he captured a cannon, christened by the Vendeans the
-"Missionary"; he then took the towns of Chemille, Cholet, Vihiers and
+Gallais, where he captured a [[Cannon|cannon]], christened by the Vendeans the
+"Missionary"; he then took the towns of Chemille, [[Cholet]], Vihiers and
 Chalonnes (March 1793). His companions committed atrocities which
 brought upon them terrible reprisals on the part of the Republicans.
 Meanwhile Cathelineau's troops increased, and he combined with the other
@@ -33,7 +33,7 @@ Cathelineau entered the town in spite of the resistance of General
 J.B.C. Canclaux, but he was killed, and the Vendean army broke up.
 Numerous relatives of Cathelineau also perished in the war of La Vendee.
 His grandson, Henri de Cathelineau, figured in the war of 1870 between
-France and Germany (see also VENDEE; CHOUANS).
+France and Germany (see also VENDEE; [[Chouans|CHOUANS]]).
 
   See C. Port, _Vie de J. Cathelineau_ (1882); "La Legende de
   Cathelineau" in the review _La Revolution francaise_, vol. xxiv.; _Les

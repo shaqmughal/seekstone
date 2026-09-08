@@ -18,14 +18,14 @@ the 15th century, when the books were often of great size, it became
 necessary to provide a lectern to hold them. These were either in wood
 or metal, and many fine examples still exist; one at Detling in wood, in
 which there are shelves on all four sides to hold books, is perhaps the
-most elaborate. Brass lecterns, as in the colleges of Oxford and
+most elaborate. [[Brass]] lecterns, as in the colleges of Oxford and
 Cambridge, are common; in the usual type the book is supported on the
-outspread wings of an eagle or pelican, which is raised on a moulded
+outspread wings of an [[Eagle|eagle]] or pelican, which is raised on a moulded
 stem, carried on three projecting ledges or feet with lions on them. In
 the example in Norwich cathedral, the pelican supporting the book stands
-on a rock enclosed with a rich cresting of Gothic tabernacle work; the
+on a rock enclosed with a rich cresting of [[Gothic]] tabernacle work; the
 central stem or pillar, on which this rests, is supported by miniature
-projecting buttresses, standing on a moulded base with lions on it.
+projecting [[Buttress|buttresses]], standing on a moulded base with lions on it.
 
 ## See also
 

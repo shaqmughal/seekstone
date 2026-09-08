@@ -7,7 +7,7 @@ Scarron's, at Fontenay-aux-Roses (Seine), on the 2nd of February 1807.
 He had just begun to practise at the Parisian bar before the revolution
 of July, and was retained for the Republican defence in most of the
 great political trials of the next ten years. In 1838 he bought for
-330,000 francs Desiré Dalloz's place in the Court of Cassation. He was
+330,000 [[Franc|francs]] Desiré Dalloz's place in the Court of Cassation. He was
 elected deputy for Le Mans in 1841 with hardly a dissentient voice; but
 for the violence of his electoral speeches he was tried at Angers and
 sentenced to four months' imprisonment and a fine, against which he
@@ -26,7 +26,7 @@ to advance his propaganda. Between Ledru-Rollin and Odilon Barrot with
 the other chiefs of the "dynastic Left" there were acute differences,
 hardly dissimulated even during the temporary alliance which produced
 the campaign of the banquets. It was the speeches of Ledru-Rollin and
-Louis Blanc at working-men's banquets in Lille, Dijon and Châlons that
+Louis [[Blanc]] at working-men's banquets in Lille, Dijon and Châlons that
 really heralded the revolution. Ledru-Rollin prevented the appointment
 of the duchess of Orleans as regent in 1848. He and Lamartine held the
 tribune in the Chamber of Deputies until the Parisian populace stopped
@@ -37,7 +37,7 @@ Louis Blanc and the extremists were excluded. At the crisis of the 15th
 of May he definitely sided with Lamartine and the party of order against
 the proletariat. Henceforward his position was a difficult one. He never
 regained his influence with the working classes, who considered they had
-been betrayed; but to his short ministry belongs the credit of the
+been betrayed; but to his short ministry belongs the [[Credit|credit]] of the
 establishment of a working system of universal suffrage. At the
 presidential election in December he was put forward as the Socialist
 candidate, but secured only 370,000 votes. His opposition to the policy
@@ -46,9 +46,9 @@ moving the impeachment of the president and his ministers. The motion
 was defeated, and next day (June 13, 1849) he headed what he called a
 peaceful demonstration, and his enemies armed insurrection. He himself
 escaped to London where he joined the executive of the revolutionary
-committee of Europe, with Kossuth and Mazzini among his colleagues. He
+committee of Europe, with [[Kossuth]] and [[Mazzini]] among his colleagues. He
 was accused of complicity in an obscure attempt (1857) against the life
-of Napoleon III., and condemned in his absence to deportation. Émile
+of Napoleon III., and condemned in his absence to [[Deportation|deportation]]. Émile
 Ollivier removed the exceptions from the general amnesty in 1870, and
 Ledru-Rollin returned to France after twenty years of exile. Though
 elected in 1871 in three departments he refused to sit in the National

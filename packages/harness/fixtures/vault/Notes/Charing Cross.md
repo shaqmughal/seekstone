@@ -9,10 +9,10 @@ tags: [composers-studies, etymology]
 
 CHARING CROSS, the locality about the west end of the Strand and the
 north end of Whitehall, on the south-east side of Trafalgar Square,
-London, England. It falls within the bounds of the city of Westminster.
+London, England. It falls within the [[Bounds|bounds]] of the city of Westminster.
 Here Edward I. erected the last of the series of crosses to the memory
 of his queen, Eleanor (d. 1290). It stood near the present entrance to
-Charing Cross station of the South-Eastern & Chatham railway, in the
+Charing Cross station of the South-Eastern & [[Chatham]] railway, in the
 courtyard of which a fine modern cross has been erected within a few
 feet of the exact site. A popular derivation of the name connected it
 with Edward's "dear queen" (_chere reine_), and a village of Cherringe

@@ -11,15 +11,15 @@ id: 42-1844
 
 HOWARD (FAMILY). Among English families, the house of Howard has long
 held the first place. Its head, the duke of Norfolk, is the first of the
-dukes and the hereditary earl marshal of England, while the earls of
-Suffolk, Carlisle and Effingham and the Lord Howard of Glossop represent
+[[Dukes|dukes]] and the hereditary [[Earl Marshal|earl marshal]] of England, while the earls of
+Suffolk, Carlisle and Effingham and the Lord Howard of [[Glossop]] represent
 in the peerage its younger lines.
 
 Its founder was a Norfolk lawyer, William Howard or Haward, who was
 summoned to parliament as a justice in 1295, being appointed a justice
 of the common pleas in 1297. Over the parentage of this man genealogists
 have disputed for centuries. The pedigree-makers have hailed him in turn
-as the descendant of a Norman "Auber, earl of Passy" and as the heir of
+as the descendant of a Norman "Auber, earl of Passy" and as the [[Heir|heir]] of
 Hereward, "the last of the English." But out of the copies of Norfolk
 deeds and records collected for Thomas, earl of Arundel, in the early
 part of the 17th century, it seems clear enough that he sprang from a
@@ -33,7 +33,7 @@ called by the genealogists the daughter of John Germund, was probably
 the wife of John Germund by her second marriage. William Howard was
 employed as counsel by the corporation of Lynn, and it is worthy of note
 that the "crosslets fitchy" in his shield of arms suggest the cross with
-which the dragon was discomfited by St Margaret, the patroness of Lynn.
+which the dragon was discomfited by St [[Margaret]], the patroness of Lynn.
 Prospering by the law, William Howard of Wiggenhall rose to knight's
 rank and acquired by purchase Grancourt's manor in East Winch, near
 Lynn, where he had his seat in a moated house whose ruins remain. He was
@@ -42,8 +42,8 @@ probably dead and buried in his chapel at East Winch before November 27,
 commissioner of trailbaston. His two wives, Alice Ufford and Alice
 Fitton--heir of Fitton's manor in Wiggenhall--were both daughters of
 knightly houses. Before his death his eldest son, John Howard, was a
-knight and already advanced by his marriage with Joan of Cornwall, one
-of the bastard line founded by Richard of Cornwall, king of the Romans.
+[[Knight|knight]] and already advanced by his marriage with Joan of [[Cornwall]], one
+of the [[Bastard|bastard]] line founded by Richard of Cornwall, king of the Romans.
 
 Sir John Howard served in Edward II.'s wars in Scotland and Gascony, was
 sheriff of Norfolk and Suffolk and governor of Norwich Castle. When he
@@ -51,7 +51,7 @@ died in 1331 he was seised of many Norfolk manors. His son and heir,
 another Sir John, admiral of the king's navy in the north, was a
 banneret who displayed his banner in the army that laid siege to Calais.
 By the admiral's wife Alice, sister and heir of Sir Robert de Boys, the
-Howards had the Boys manor of Fersfield, near Diss, which is still among
+Howards had the Boys manor of Fersfield, near [[Diss]], which is still among
 the possessions of the dukes of Norfolk. His son Sir Robert Howard, who
 had married a daughter of Sir Robert Scales (Lord Scales), died in 1388.
 From Sir John Howard, the only son of Sir Robert, two branches of the
@@ -60,7 +60,7 @@ wife, Margaret, daughter and heir of Sir John Plays, Sir John Howard had
 a son who died before him, leaving a daughter through whom descended to
 her issue, the Veres, earls of Oxford, the ancient Norfolk estates of
 the Howards at East Winch and elsewhere, with the lands of the houses of
-Scales, Plays and Walton, brought in by the brides of her forefathers.
+Scales, Plays and Walton, brought in by the [[Bride|brides]] of her forefathers.
 After the death of Margaret Plays, her widower found, with the peculiar
 instinct of his race, a second well-endowed wife. By her, the heir of
 the Tendrings of Tendring, he had a second son, Sir Robert Howard, a
@@ -70,7 +70,7 @@ half-brother, before the old knight's career ended in 1436.
 It is to the marriage of this young knight that the house of Howard owes
 the tragedy of its greatness. He was a younger son, although he had some
 of his mother's inheritance. Had he married the landless daughter of a
-neighbour he might have been the ancestor of a line of Essex squires,
+neighbour he might have been the ancestor of a line of [[Essex]] squires,
 whose careers would have had the parish topographer for chronicler. But
 his bride was Margaret Mowbray, daughter of the banished duke of
 Norfolk. Although this was a noble alliance, it is probable that the
@@ -80,14 +80,14 @@ but her younger brother's right to his father's dukedom was allowed by
 parliament in 1425.
 
 Sir John Howard, only son of the match between Howard and Mowbray, took
-service with his cousin the third duke of Norfolk, who had him returned
+service with his [[Cousin|cousin]] the third duke of Norfolk, who had him returned
 as knight of the shire for Norfolk, where, according to the _Paston
 Letters_, this Howard of the Essex branch was regarded by the gentry as
 a strange man. He followed the White Rose and was knighted at the
 crowning of King Edward IV., who pricked him for sheriff of Norfolk and
 Suffolk. In the duke's quarrel he brawled with the Pastons, his wife
 boasting that, should her husband's men meet with John Paston "there
-should go no penny for his life." "And Howard," writes Clement Paston,
+should go no penny for his life." "And Howard," writes [[Clement]] Paston,
 "hath with the king a great fellowship." Offices and lands came to John
 Howard by reason of that fellowship. Henry VI., when restored, summoned
 him to parliament in 1470 as Lord Howard, a summons which may have been
@@ -98,12 +98,12 @@ the Garter and the treasurership of his household. After Edward's
 burial, at which he bore the king's banner, Howard, an enemy of the
 Wydviles, linked his fortunes with those of the duke of Gloucester. At
 this time came his sudden lifting to the highest rank in the peerage.
-The last of the dukes of Norfolk had left a child heir, Anne Mowbray,
-married to the infant duke of York, the younger of the princes doomed by
+The last of the dukes of Norfolk had left a child heir, [[Anne]] Mowbray,
+married to the [[Infant|infant]] duke of York, the younger of the princes doomed by
 Richard in the Tower. By the death of this little girl, John Howard
 became one of the coheirs of her illustrious house, which was now
 represented by the issue of Margaret Mowbray, his mother, and of her
-sister Isabel, who had married James, Lord Berkeley. A lion's share of
+sister Isabel, who had married James, Lord [[Berkeley]]. A lion's share of
 the Mowbray estates, swollen by the great alliances of the house, heir
 of Breouse and Segrave, and, through Segrave, of Thomas of Brotherton,
 son of Edward I., fell to Howard, who, by a patent of June 28, 1483, was
@@ -112,10 +112,10 @@ the heirs male of his body. On the same day the lord Berkeley, the other
 coheir, was made earl of Nottingham. High steward at Richard's crowning,
 the duke bore the crown and rode as marshal into Westminster Hall. For
 the rest of his life he was Richard's man, and though warned by the
-famous couplet that "Dykon his master" was bought and sold, "Jack of
-Norfolk" led the archer vanguard at Bosworth and died in the fight, from
+famous couplet that "Dykon his master" was bought and sold, "[[Jack]] of
+Norfolk" led the [[Archer|archer]] vanguard at Bosworth and died in the fight, from
 which his son the earl of Surrey was carried away a wounded prisoner. An
-attainder by the first parliament of Henry VII. extinguished the honours
+[[Attainder|attainder]] by the first parliament of Henry VII. extinguished the honours
 of the father with those of the son, who had been created an earl when
 the lord Howard was raised to the dukedom. Their estates were forfeit.
 
@@ -124,15 +124,15 @@ from the Tower of London in 1489, his earldom of Surrey and his Garter
 restored. Accepting the position in which the Tudor king would have his
 great nobles, he became the faithful soldier, diplomatist and official
 of the new power. In his seventieth year, as lieutenant-general of the
-North, he led the English host on the great day of Flodden, earning a
+North, he led the English host on the great day of [[Flodden]], earning a
 patent of the dukedom of Norfolk, dated 1 February 1513/4, and that
 strange patent which granted to him and his heirs that they should bear
-in the midst of the silver bend of their Howard shield a demi-lion
-stricken in the mouth with an arrow, in the right colours of the arms of
-the king of Scotland. This augmentation has been interpreted as a golden
+in the midst of the silver [[Bend|bend]] of their Howard shield a demi-lion
+stricken in the mouth with an arrow, in the right [[Colours|colours]] of the arms of
+the king of Scotland. This [[Augmentation|augmentation]] has been interpreted as a golden
 scocheon with the demi-lion within the Scottish tressure. Thus charged
 on the silver bend, it makes bad armory and it is worthy of note that,
-although the grant of it is clearly to the duke and his heirs in fee
+although the grant of it is clearly to the duke and his heirs in [[Fee|fee]]
 simple, Howards of all branches descending from the duke bear it in
 their shields, even though all right to it has long passed from the
 house to the duke's heirs general, the Stourtons and Petres.
@@ -141,8 +141,8 @@ The victor of Flodden is the common ancestor of all living Howards that
 can show a descent from the main stock. The second duke, twice married,
 was father of at least eleven sons and six daughters, the sons including
 Edward the lord high admiral, killed in boarding Pregent's galleys at
-Brest, Edmund the knight marshal of the army at Flodden, and William the
-first Lord Howard of Effingham. The eldest son, Thomas, succeeded as the
+[[Brest]], Edmund the knight marshal of the army at Flodden, and William the
+first Lord [[Howard Of Effingham|Howard of Effingham]]. The eldest son, Thomas, succeeded as the
 third duke of his name, although the second under the patent of 1514. He
 had fought as captain of the vanguard at Flodden and after the victory
 was created earl of Surrey. When Richard III. was allying himself with
@@ -155,16 +155,16 @@ Buckingham upon whom the old duke of Norfolk, the tears upon his cheeks,
 was forced to pass sentence of death. Succeeding his father in 1524,
 Norfolk was created earl marshal in 1533. An unsuccessful diplomatist,
 his chief services in arms were the butchery in the north after the
-Pilgrimage of Grace and the raid into Scotland which ended with the rout
+Pilgrimage of [[Grace]] and the raid into Scotland which ended with the rout
 of Solway Moss. He left his wife for a mistress, Elizabeth Holland, was
-in discord with his family, and lived to see his two nieces, Anne Boleyn
+in discord with his family, and lived to see his two nieces, Anne [[Boleyn]]
 and Catherine Howard, and his son Surrey, the fiery-tempered poet, go in
 turn to the block. He himself was attainted and was lying a prisoner in
 the Tower, doomed to die in the morning, on the night of the death of
 Henry VIII. He was not released until the accession of Mary, parliament
 restoring his dukedom on his petition for reversal of the attainder. His
 grandson Thomas succeeded him in 1554, and in 1556 made the second of
-those marriages which have given the Howards their high place among the
+those marriages which have given the Howards their [[High Place|high place]] among the
 English nobility. The bride was Mary, sole heir in her issue of her
 father Henry, the last of the Fitzalan earls of Arundel. Her father's
 line and the royal Stewards of Scotland sprang from one forefather,
@@ -187,12 +187,12 @@ wardship of her Dacre offspring, a son who died young, and three
 daughters whom the duke, with the true Howard eye for a rich
 inheritance, gave as brides to three of his sons. After three such good
 fortunes by marriage Norfolk in his folly looked for a crown with a
-fourth match, listening to the laird of Lethington when he set forth the
+fourth match, listening to the [[Laird|laird]] of Lethington when he set forth the
 scheme by which the duke was to marry a restored queen of Scots and rule
 Scotland with her who should be recognized as Elizabeth's successor. Ten
 months in the Tower under strong suspicion would have warned another
 man, but Norfolk was unstable and false. After promising fidelity and
-the abandonment of the Scots marriage scheme, Cecil took him
+the abandonment of the Scots marriage scheme, [[Cecil]] took him
 corresponding with Mary and tampering with the Ridolfi plot. He died on
 Tower Hill in 1572 for an example to the disloyal counties, protesting
 innocence and repentance, warning his children in a last letter to
@@ -219,7 +219,7 @@ alliance, two had died by the axe and one in the prison from which a
 fourth had hardly escaped. A fifth had fallen in a lost battle, and only
 one had died in peace in his own house.
 
-The ill fate of the Howards seemed to be appeased by the death of
+The ill [[Fate|fate]] of the Howards seemed to be appeased by the death of
 Philip, earl of Arundel. Tudor policy did its work well, and noblemen,
 however illustrious their pedigrees, could no longer be counted as
 menaces by the Crown, which was, indeed, finding another rival to its
@@ -234,7 +234,7 @@ marshal for life, and revived the jurisdiction belonging to the office.
 An act of 1627, one of several such aimed at aggrandizing families by
 diverting the descent of dignities in fee from heirs general, entailed
 the earldom and castle of Arundel upon Thomas, earl of Arundel and
-Surrey and the heirs male of his body "and for default of such issue, to
+Surrey and the heirs male of his body "and for [[Default|default]] of such issue, to
 the heirs of his body." His pride and austerity made him unpopular at
 court and he left the country in 1642, settling at last in Padua, where
 he died in 1646, impoverished by the sequestrations of the parliament,
@@ -243,7 +243,7 @@ his petition for the dukedom, the king had, on the 6th of June 1644,
 given him a patent of the earldom of Norfolk, in order, as it would
 seem, to flatter him by suggesting that the title of Norfolk would at
 least be refused to any other family. He is celebrated as a collector of
-paintings, books, gems and sculptures, his "Arundel marbles" being given
+paintings, books, gems and sculptures, his "Arundel [[Marbles|marbles]]" being given
 by his grandson in 1667 to the University of Oxford. The dukedom for
 which Arundel had petitioned Charles I. in vain was restored by act of
 the first parliament of Charles II. to his grandson Thomas, a lunatic
@@ -256,17 +256,17 @@ and Segraves passed to his nieces, the Ladies Stourton and Petre, the
 abeyance of the two baronies being determined in 1878 in favour of Lord
 Stourton. Under the act of 1627 the earldom of Arundel and the castle
 passed with the dukedom to a second cousin, Charles Howard of Greystock
-(d. 1786), an eccentric recluse. At his death in 1786 he was succeeded
+(d. 1786), an [[Eccentric|eccentric]] recluse. At his death in 1786 he was succeeded
 by his son Charles, the notorious "Jockey of Norfolk," the big, coarse,
 generous, slovenly, hard-drinking Whig of whom all the memoir-writers of
 his age have their anecdotes. He conformed to the Church of England and
 spent a vast sum in restoring Arundel Castle. A third cousin succeeded
-him in 1815, Bernard Edward Howard, who, although a Roman Catholic, was
+him in 1815, [[Bernard]] Edward Howard, who, although a Roman Catholic, was
 enabled, by the act of 1824, to act as earl marshal. This was the
 grandfather of the fifteenth duke, earl of Arundel, Surrey and Norfolk,
 and hereditary earl marshal of England.
 
-  The eldest of the cadet branches of the ducal house has its origin in
+  The eldest of the [[Cadet|cadet]] branches of the ducal house has its origin in
   William (c. 1510-1573), eldest son of the victor of Flodden by his
   second marriage. He survived the reign of Henry VIII., that perilous
   age for the Howards, with no worse misadventure than the conviction of
@@ -276,9 +276,9 @@ and hereditary earl marshal of England.
   year the Garter. For his services against Sir Thomas Wyat he was
   created (March 11, 1553/4) Lord Howard of Effingham, the title being
   taken from a Surrey manor granted him by Edward VI. Queen Elizabeth
-  continued his employment in diplomacy, and had he been richer he might
+  continued his employment in [[Diplomacy|diplomacy]], and had he been richer he might
   have had an earldom. His eldest son Charles (1536-1624), lord admiral
-  of England in 1585, sailed as commander in chief against the Spanish
+  of England in 1585, sailed as [[Commander|commander]] in chief against the Spanish
   Armada, and, although giving due weight to the counsel of Drake and
   his other officers, showed himself a leader as prudent as courageous.
   He was created earl of Nottingham in 1596 and died in 1624. The legend
@@ -286,7 +286,7 @@ and hereditary earl marshal of England.
   sons succeeded in turn to the earldom of Nottingham, extinct on the
   death of Charles, the third earl in 1681. Sir William Howard of
   Lingfield, younger brother of the great admiral, carried on the
-  Effingham line, his great-grandson succeeding to the barony on the
+  Effingham line, his great-grandson succeeding to the [[Barony|barony]] on the
   extinction of the earldom. Francis, seventh Lord Howard of Effingham,
   was created earl of Effingham in 1731, a title extinct in 1816 with
   the fourth earl, but revived again in 1837 for the eleventh baron, who
@@ -302,14 +302,14 @@ and hereditary earl marshal of England.
   present earls of Suffolk and Berkshire and of the extinct Lords Howard
   of Escrick. His barony of Howard of Walden has descended to his heirs
   general. Lord William Howard (1563-1640), the "belted Will" of Scott's
-  Lay and the "bauld Willie" of more authentic legend, was another of
+  Lay and the "bauld Willie" of more [[Authentic|authentic]] legend, was another of
   the sons of the fourth duke and Margaret Audley. Married in 1577 to
   one of the three co-heirs of the Lord Dacre of Gilsland he suffered
   under Elizabeth more than one imprisonment with his brother the
   unfortunate earl of Arundel. But in 1603 he was able, on the partition
   of the Dacre lands, to make his home at Naworth Castle, where he
   lived, a border patriarch, cultivating his estates and serving as a
-  commissioner of the borders. His great-grandson Charles Howard,
+  commissioner of the [[Borders|borders]]. His great-grandson Charles Howard,
   although fledged in a nest of cavaliers, changed sides and fought at
   Worcester for the parliament. The Protector summoned him in 1657 to
   his House of Lords, but he was imprisoned in 1659 on suspicion of a
@@ -317,7 +317,7 @@ and hereditary earl marshal of England.
   in 1661, earl of Carlisle, Viscount Morpeth and Lord Dacre of
   Gilsland, titles which are still held by his descendants. From Sir
   Francis Howard, a cavalier colonel and a younger son of "bauld
-  Willie," come the Howards of Corby Castle in Cumberland, a branch
+  Willie," come the Howards of Corby Castle in [[Cumberland]], a branch
   without a hereditary title.
 
   William Howard, Viscount Stafford, was the fifth son of Thomas, earl
@@ -333,7 +333,7 @@ and hereditary earl marshal of England.
   modern conceptions of peerage law. The Viscount Stafford was one of
   the "five Popish lords" committed to the Tower in 1678 as a result of
   the slanders of Titus Oates and he died by the axe in 1680 upon
-  testimony which, as the diarist Evelyn protested, "should not be taken
+  testimony which, as the diarist [[Evelyn]] protested, "should not be taken
   against the life of a dog." But three earls of his own
   house--Carlisle, Suffolk and Berkshire--and the Lord Howard of
   Escrick, an ex-trooper of Cromwell's guard and an anabaptist sectary,

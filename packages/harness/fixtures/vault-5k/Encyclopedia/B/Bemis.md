@@ -12,7 +12,7 @@ Springfield, Massachusetts, on the 7th of April 1860. He was educated at
 Amherst and Johns Hopkins University. He held the professorship of
 history and political economy in Vanderbilt University from 1887 to
 1892, was associate professor of political economy in the university of
-Chicago from 1892 to 1895, and assistant statistician to the Illinois
+[[Chicago]] from 1892 to 1895, and assistant statistician to the Illinois
 bureau of labour statistics, 1896. In 1901 he became superintendent of
 the Cleveland water works. He wrote much on municipal government, his
 more important works being some chapters in _History of Co-operation in

@@ -8,7 +8,7 @@ Sicilian provinces rests upon conjecture only. His historical work
 ([Greek: Herodianou tes meta Markon basileias historion biblia okto])
 narrates the events of the fifty-eight years between the death of Marcus
 Aurelius and the proclamation of Gordianus III. (180-238). The narrative
-is of special value as supplementing Dion Cassius, whose history ends
+is of special value as supplementing Dion [[Cassius]], whose history ends
 with Alexander Severus. His work has the value that attaches to a record
 written by one chronicling the events of his own times, gifted with
 ordinary powers of observation, indubitable candour and independence of
